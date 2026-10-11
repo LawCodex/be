@@ -1,0 +1,30 @@
+---
+title: "15 MAI 1981. _ Loi portant approbation des Actes internationaux suivants:a) Pacte international relatif aux droits économiques, sociaux et culturels; b) Pacte international relatif aux droits civils et politiques, faits à New York le 19 décembre 1966."
+identifier: "1983015173"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1981/05/15/1983015173/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1981-05-15
+published: 1983-07-06
+entry_into_force: 1983-07-16
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1981/05/15/1983015173/justel"
+department: "Affaires étrangères"
+retrieved: 2026-10-12
+---
+
+# 15 MAI 1981. \_ Loi portant approbation des Actes internationaux suivants:a) Pacte international relatif aux droits économiques, sociaux et culturels; b) Pacte international relatif aux droits civils et politiques, faits à New York le 19 décembre 1966.
+
+## Art. 1
+
+Le Pacte international relatif aux droits économiques, sociaux et culturels fait à New-York le 19 décembre 1966 sortira son plein et entier effet. &lt;NOTE : Voyez le Pacte international sous CN : 1966-12-19/30. Voyez également : DCFL 1983-01-25/32 et DCFR 1982-06-08/30&gt;
+
+## Art. 2
+
+Le Pacte international relatif aux droits civils et politiques fait à New-York le 19 décembre 1966 sortira son plein et entier effet.
+
+## Art. 3
+
+Le Roi est autorisé à souscrire une déclaration reconnaissant au nom de la Belgique la compétence du Comité des droits de l'homme pour recevoir et examiner les communications interétatiques, dans les conditions d'application de l'article 41 du Pacte international relatif aux droits civils et politiques.

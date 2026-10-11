@@ -1,0 +1,38 @@
+---
+title: "LOI concernant l'exemption d'impôt pour un emprunt spécial à émettre en Belgique"
+identifier: "1981000806"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1981/05/15/1981000806/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1981-05-15
+published: 1981-05-22
+entry_into_force: 1981-05-22
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1981/05/15/1981000806/justel"
+department: "Finances"
+retrieved: 2026-10-12
+---
+
+# 15 MAI 1981. - LOI concernant l'exemption d'impôt pour un emprunt spécial à émettre en Belgique
+
+## Art. 1er
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, dans les limites et aux conditions qu'Il détermine, accorder l'exemption de tout impôt, tant direct qu'indirect, sur le principal et les revenus d'un emprunt à émettre sur le marché national, avant le 15 juin 1981.
+
+Cette exemption ne peut cependant s'appliquer en matière de précompte mobilier que dans le cas où il peut être renoncé à la perception de celui-ci en vertu de l'article 170 du Code des impôts sur les revenus.
+
+## Art. 2
+
+Le principal et les revenus de l'emprunt visé à l'article 1er sont également exonérés de tout impôt qui pourrait être instauré par une législation nouvelle ou par une modification de la législation existante, après l'émission de cet emprunt.
+
+## Art. 3.
+
+Art. 3.
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, dans les limites et aux conditions qu'Il fixe, déterminer que les titres de l'emprunt visé à l'article 1er peuvent être affectés au paiement des droits de succession ou de mutation par décès.
+
+## Art. 4
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.

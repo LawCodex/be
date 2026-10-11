@@ -1,0 +1,66 @@
+---
+title: "Loi relative aux conditions d'exportation des matières et équipements nucléaires, ainsi que des données technologiques nucléaires"
+identifier: "1981000342"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1981/02/09/1981000342/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1981-02-09
+published: 1981-03-10
+entry_into_force: 1981-03-20
+last_amended: 2010-05-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1981/02/09/1981000342/justel"
+department: "Affaires étrangères - Commerce extérieur"
+justel_note: "Consultation des versions antérieures à partir du 10-03-1981 et mise à jour au 10-05-2010"
+retrieved: 2026-10-12
+---
+
+# 9 FEVRIER 1981. - Loi relative aux conditions d'exportation des matières et équipements nucléaires, ainsi que des données technologiques nucléaires
+
+## Art. 1
+
+En vue d'assurer l'exécution des accords internationaux concernant la non-prolifération des armes nucléaires, nul ne peut transférer, [<sup>1</sup> ...]<sup>1</sup> , des matières et équipements nucléaires, ainsi que des données technologiques nucléaires et leurs dérivés, qu'à des fins d'utilisation pacifique et moyennant les contrôles requis.
+
+Pour garantir le respect de ces conditions, chaque transfert est soumis à une autorisation préalable, délivrée par le Ministre qui à l'énergie dans ses attributions, après avis d'une commission consultative dont les membres sont désignés par le Roi et qui comprend notamment des représentants des Ministres qui ont les Affaires économiques, les Affaires étrangères, le Commerce extérieur, la Justice, la Santé publique, l'Environnement et la Politique scientifique dans leurs attributions.
+
+----------
+
+(1)&lt;L 2010-04-28/01, art. 25, 002; En vigueur : 20-05-2010&gt;
+
+## Art. 2
+
+Les matières, équipements et données technologiques, visés à l'article 1er sont précisés par le Roi, compte tenu des accords internationaux régissant le domaine nucléaire et auxquels la Belgique est partie contractante.
+
+## Art. 3
+
+Le Roi détermine, par arrêté délibéré en Conseil des Ministres :
+
+1\. les conditions d'octroi de l'autorisation mentionnée à l'article 1er. Celles-ci ont trait aux contrôles de sécurité internationaux à appliquer et au domaine de la protection physique;
+
+2\. la procédure à suivre pour l'octroi de l'autorisation;
+
+3\. la composition de la Commission consultative;
+
+[<sup>1</sup> 4. les conditions dans lesquelles le transfert d'autres matières, équipements et données technologiques que ceux déterminés dans l'article 2, est soumis à l'autorisation visée à l'article 1er, parce qu'il peut être lié au développement, à la production ou à l'utilisation d'armes nucléaires ou d'autres dispositifs nucléaires explosifs.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-04-28/01, art. 26, 002; En vigueur : 20-05-2010&gt;
+
+## Art. 4
+
+La Commission consultative peut faire appel à des personnalités scientifiques dont le concours s'avère nécessaire pour le traitement des questions dont elle a à connaître.
+
+## Art. 5
+
+Sans préjudice des attributions des officiers de police judiciaire, le Ministre qui a l'Energie dans ses attributions désigne les agents qui sont compétents pour rechercher et constater les infractions à la présente loi et à ses arrêtés d'exécution.
+
+## Art. 6
+
+Les infractions et les tentatives d'infractions aux dispositions de la présente loi et de ses arrêtés d'exécution sont punies d'un emprisonnement d'un mois à cinq ans et d'une amende de cent francs à un million de francs, ou d'une de ces peines seulement.
+
+En cas de récidive, les peines peuvent être doublées.
+
+Les dispositions du Livre 1er du Code pénal, sans exception du chapitre VII et de l'article 85 sont applicables à ces mêmes infractions.
