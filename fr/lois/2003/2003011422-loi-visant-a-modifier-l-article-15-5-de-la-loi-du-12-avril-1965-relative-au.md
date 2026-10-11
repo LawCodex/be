@@ -1,0 +1,66 @@
+---
+title: "Loi visant à modifier l'article 15/5 de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations."
+identifier: "2003011422"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2003/08/12/2003011422/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2003-08-12
+published: 2003-09-09
+entry_into_force: 2003-09-19
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2003/08/12/2003011422/justel"
+department: "Economie, PME, Classes moyennes et Energie"
+retrieved: 2026-10-11
+---
+
+# 12 AOUT 2003. - Loi visant à modifier l'article 15/5 de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visé à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 15/5 de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations, inséré par la loi du 29 avril 1999 et modifié par la loi du 16 juillet 2001, est complété par les paragraphes suivants :
+
+" § 5. Par dérogation au § 2 et sur proposition de la Commission, le Roi peut prévoir des dérogations aux tarifs annuels de raccordement et d'utilisation du réseau de transport.
+
+Les dérogations visées à l'alinéa précédent sont applicables à de nouvelles infrastructures de transport reconnues comme d'intérêt national ou européen et nécessaires pour permettre le développement à long terme de celles-ci.
+
+Ces dérogations peuvent porter sur :
+
+1° la durée d'application des tarifs;
+
+2° le niveau de la marge équitable destinée à la rémunération des capitaux investis.
+
+§ 6. Sans préjudice des §§ 1er et 2, la Commission, lors de son examen des tarifs visés au § 5, peut prendre en considération les prix du gaz sur les marchés internationaux afin de permettre des prix compétitifs pluriannuels et d'adapter la marge équitable destinée à rémunérer, également sur plusieurs années, les capitaux investis de l'entreprise de transport considérée. "
+
+## Art. 3
+
+L'article 182 de la loi du 8 août 1980 relative aux propositions budgétaires 1979-1980, modifié par l'arrêté royal n° 147 du 30 décembre 1982, est abrogé. (NOTE de Justel : l'arrêté royal n° 147 du 30 décembre 1982, en tout cas dans sa version publiée le 19-01-1983, ne modifie pas l'article 182 de ladite loi du 8 août 1980.)
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Nice, le 12 août 2003.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de l'Economie, de l'Energie, du Commerce extérieur et de la Politique scientifique,
+
+F. MOERMAN
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

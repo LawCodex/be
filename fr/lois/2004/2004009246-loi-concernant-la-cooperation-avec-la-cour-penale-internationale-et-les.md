@@ -1,0 +1,1740 @@
+---
+title: "Loi concernant la coopération avec la Cour pénale internationale et les tribunaux pénaux internationaux."
+identifier: "2004009246"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2004/03/29/2004009246/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2004-03-29
+published: 2004-04-01
+entry_into_force: 2004-04-01
+last_amended: 2026-03-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2004/03/29/2004009246/justel"
+department: "Justice"
+justel_note: "Consultation des versions antérieures à partir du 01-04-2004 et mise à jour au 10-03-2026"
+retrieved: 2026-10-11
+---
+
+# 29 MARS 2004. - Loi concernant la coopération avec la Cour pénale internationale et les tribunaux pénaux internationaux.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## TITRE Ier. - Disposition préliminaire.
+
+##### Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## TITRE II. - Coopération avec la Cour pénale internationale.
+
+### CHAPITRE Ier. - Dispositions générales.
+
+##### Art. 2
+
+Aux fins du Titre II de la présente loi, les termes ci-après désignent :
+
+\- " la Belgique " : le Royaume de Belgique;
+
+\- " la Cour " : la Cour pénale internationale et ses organes, au sens de l'article 34 du Statut, soit la Présidence de la Cour, la Section des appels, la Section de première instance et la Section préliminaire, le Bureau du Procureur et le Greffe;
+
+\- " le Statut " : le Statut de Rome de la Cour pénale internationale du 17 juillet 1998;
+
+\- " l'autorité centrale " : l'autorité compétente en matière de coopération entre la Belgique et la Cour pénale internationale, soit [<sup>1</sup> au sein du Service public fédéral Justice, le service de droit international humanitaire, désigné par l'arrêté royal du 17 septembre 2005 relatif à la création d'un service de droit international humanitaire]<sup>1</sup>;
+
+\- " le Règlement de procédure et de preuve " : le Règlement de procédure et de preuve visé à l'article 51 du Statut;
+
+[<sup>1</sup> -"le Ministère public" : le procureur fédéral;]<sup>1</sup>
+
+\- " le Procureur " : le Bureau du Procureur de la Cour pénale internationale au sens de l'article 42 du Statut;
+
+\- " le Greffe " : le Greffe de la Cour pénale internationale au sens de l'article 43 du Statut.
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 2, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 3
+
+Conformément à l'article 86 du Statut, la Belgique coopère pleinement avec la Cour dans les enquêtes et poursuites que celle-ci mène pour les crimes relevant de sa compétence.
+
+##### Art. 4
+
+La coopération avec la Cour est réglée par les dispositions du Statut, celles du Règlement de procédure et de preuve ainsi que par le Titre II de la présente loi.
+
+### CHAPITRE II. - Principes généraux régissant la coopération judiciaire entre la Belgique et la Cour.
+
+##### Art. 5
+
+[<sup>1</sup> L'autorité centrale est compétente pour recevoir les demandes émanant de la Cour, pour transmettre à la Cour les demandes de coopération provenant des autorités belges compétentes et pour transmettre à la Cour, conformément à l'article 10 de la présente loi, toute information à caractère judiciaire pouvant relever de la compétence de la Cour. Elle en assure le suivi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 3, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 6
+
+Les demandes de la Cour sont adressées à l'autorité centrale par tout moyen de communication laissant une trace écrite. Elles doivent être rédigées dans une des langues officielles de la Belgique ou, à défaut, être accompagnées d'une traduction certifiée conforme dans l'une de ces langues.
+
+##### Art. 7
+
+Les autorités [<sup>1</sup> ...]<sup>1</sup> belges [<sup>1</sup> compétentes]<sup>1</sup> peuvent solliciter la coopération de la Cour. Les demandes sont transmises par l'intermédiaire de l'autorité centrale. Les autorités belges sont tenues de respecter les conditions dont la Cour assortit l'exécution de la demande. Les pièces justificatives, si elles ne sont pas rédigées dans une des langues de travail de la Cour conformément à l'article 50 du Statut, doivent être accompagnées d'une traduction dans l'une de ces langues.
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 4, 004; En vigueur : 28-03-2014&gt;
+
+### CHAPITRE III. - Relations entre la Cour et la Belgique.
+
+##### Art. 8
+
+§ 1er. En application de l'article 14 du Statut, le Ministre de la Justice peut, par décision délibérée en Conseil des Ministres, déférer à la Cour une situation dans laquelle un ou plusieurs crimes relevant de la compétence de la Cour paraissent avoir été commis et prier le procureur d'enquêter sur cette situation en vue de déterminer si une ou plusieurs personnes identifiées doivent être accusées de ces crimes.
+
+Dans ce cas, la Belgique indique, dans la mesure du possible, les circonstances pertinentes de l'affaire et produit les pièces dont elle dispose.
+
+§ 2. Sans préjudice de l'application de l'article 47 de la présente loi, et en application de l'article 14 du Statut, le ministre de la Justice peut, par décision délibérée en Conseil des ministres, porter à la connaissance de la Cour des faits ayant trait aux infractions définies [<sup>1</sup> aux articles 82 à 88]<sup>1</sup> du Code pénal et dont les autorités judiciaires sont saisies.
+
+Une fois que le Procureur aura procédé à la notification prévue à l'article 18, § 1er, du Statut, au sujet des faits que le Ministre de la Justice a portés à la connaissance de la Cour, la Cour de cassation, sur réquisition du procureur général, prononce le dessaisissement de la juridiction belge saisie des mêmes faits.
+
+Lorsque la Cour, à la demande du Ministre de la Justice, fait savoir, après le dessaisissement de la juridiction belge, que le procureur a décidé de ne pas établir d'acte d'accusation, que la Cour ne l'a pas confirmé, que celle-ci s'est déclarée incompétente ou a déclaré l'affaire irrecevable, les juridictions belges sont à nouveau compétentes.
+
+----------
+
+(1)&lt;L 2026-03-03/04, art. 100, 009; En vigueur : 01-09-2026&gt;
+
+##### Art. 9
+
+Lorsque la compétence de la Cour est mise en oeuvre conformément à l'article 13 du Statut, l'autorité centrale, après concertation avec le ministère public, peut faire valoir la compétence de la juridiction belge en application de l'article 18 du Statut ou, le cas échéant, contester la compétence de la Cour ou la recevabilité d'une affaire, en application de l'article 19 du Statut.
+
+##### Art. 10
+
+L'autorité centrale peut transmettre d'initiative à la Cour les éléments de preuve et les informations qu'une autorité belge a recueillis si ces éléments de preuve ou ces informations sont susceptibles d'intéresser la Cour. Lorsque les éléments de preuve et les informations transmis par l'autorité centrale à la Cour ne proviennent pas du ministère public, l'autorité centrale informe préalablement le ministère public de la transmission à la Cour de ces éléments de preuve ou de ces informations.
+
+### CHAPITRE IV. - Arrestation, transfert, transit et remise de personnes à la Cour.
+
+#### Section Ire. - Demande d'arrestation et de remise.
+
+##### Art. 11
+
+Conformément à l'article 89 du Statut, la Belgique exécute les demandes d'arrestation et de remise émanant de la Cour.
+
+##### Art. 12
+
+Si la Belgique reçoit au sujet d'une même personne une demande d'arrestation et de remise de la Cour et une demande d'extradition ou de remise d'un autre Etat, l'autorité centrale en avise la Cour et l'Etat requérant et fait application des dispositions de l'article 90 du Statut.
+
+##### Art. 13
+
+§ 1er. La demande d'arrestation et de remise émise par la Cour à l'égard d'une personne qui se trouve sur le territoire belge est faite par écrit conformément à l'article 91, § 1er, du Statut, sauf le cas d'urgence réglé par le même article du Statut.
+
+La demande est rendue exécutoire par la chambre du conseil du lieu de la résidence de la personne concernée ou du lieu où elle a été trouvée.
+
+§ 2. La chambre du conseil vérifie qu'il n'y a pas erreur sur la personne et que les pièces justificatives visées à l'article 91 du Statut ont été fournies.
+
+§ 3. Le ministère public, dans les vingt-quatre heures de l'ordonnance de la chambre du conseil refusant de rendre exécutoire la demande d'arrestation et de remise de la Cour, peut interjeter appel de cette décision devant la chambre des mises en accusation. Celle-ci statue dans les huit jours après audition du ministère public. L'arrêt est exécutoire.
+
+§ 4. Dans les vingt-quatre heures de la privation de liberté, la décision rendant exécutoire la demande d'arrestation et de remise et les pièces officielles y annexées sont signifiées à [<sup>1</sup> la personne arrêtée]<sup>1</sup>. [<sup>1</sup> Celle-ci]<sup>1</sup> dispose d'un délai de vingt-quatre heures, à dater de la signification, pour introduire un recours devant la chambre des mises en accusation. Ce recours est formé par déclaration au greffe correctionnel ou par déclaration de [<sup>1</sup> la personne arrêtée]<sup>1</sup> au directeur de la maison d'arrêt ou à son délégué.
+
+[<sup>1</sup> La chambre des mises en accusation entend le ministère public, la personne arrêtée et son conseil, et statue au plus tard dans les quinze jours de l'introduction du recours.]<sup>1</sup> L'arrêt est exécutoire. [<sup>1</sup> La personne arrêtée]<sup>1</sup> restera en détention jusqu'à ce que la chambre des mises en accusation statue.
+
+[<sup>1</sup> La décision prise par la chambre des mises en accusation n'est pas susceptible de pourvoi en cassation.
+
+La remise de la personne arrêtée ne peut avoir lieu que lorsque la décision rendant exécutoire la demande d'arrestation et de remise est devenue définitive.]<sup>1</sup>
+
+§ 5. Lorsque le recours est fondé sur le non respect du principe [<sup>1</sup> ne bis in idem]<sup>1</sup>, le délai dans lequel la chambre des mises en accusation doit statuer est suspendu à dater du recours jusqu'à la réception par l'autorité centrale de la réponse de la Cour aux consultations engagées conformément à l'article 89, § 2, du Statut.
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 5, 004; En vigueur : 28-03-2014&gt;
+
+#### Section II. - Demande d'arrestation provisoire.
+
+##### Art. 14
+
+§ 1er. Conformément à l'article 92 du Statut, en cas d'urgence, la Cour peut demander, par tout moyen de communication laissant une trace écrite, l'arrestation provisoire d'une personne recherchée. La demande contient les pièces visées à l'article 92, § 2, du Statut dans l'attente de la transmission des pièces visées à l'article 91 du Statut.
+
+§ 2. La demande d'arrestation provisoire est exécutée sur la base d'un mandat d'arrêt délivré par le juge d'instruction du lieu où la personne faisant l'objet de cette demande a sa résidence ou du lieu où elle a été trouvée. [<sup>1</sup> Dans le respect de l'article 55, § 2, du Statut, le juge d'instruction entend l'intéressé afin de vérifier qu'il n'y a pas erreur sur la personne et que les pièces visées à l'article 92, § 2, du Statut ont été fournies.]<sup>1</sup> Le mandat d'arrêt doit être signifié dans les vingt-quatre heures à compter de la privation de liberté. [<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> Le mandat d'arrêt n'est pas susceptible de recours.]<sup>1</sup>
+
+§ 3. [<sup>1</sup> Le ministère public informe sans délai l'autorité centrale]<sup>1</sup> de l'arrestation provisoire par le juge d'instruction visé au § 2 du présent article. [<sup>1</sup> L'autorité centrale]<sup>1</sup> en informe immédiatement la Cour et l'invite à présenter une demande d'arrestation et de remise.
+
+§ 4. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 5. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 6, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 15
+
+Conformément à l'article 92 du Statut, une personne provisoirement arrêtée est dans tous les cas remise en liberté si l'autorité centrale n'a pas reçu la demande d'arrestation et de remise et les pièces justificatives visées à l'article 91 du Statut dans le délai de trois mois à compter de la date de l'arrestation provisoire.
+
+#### Section III. - [<sup>1</sup> Demande de mise en liberté provisoire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 7, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 16
+
+§ 1er. Conformément à l'article 59, § 3, du Statut, la personne arrêtée a le droit de demander à la chambre des mises en accusation, par requête [<sup>1</sup> ...]<sup>1</sup>, sa mise en liberté provisoire dans l'attente de sa remise.
+
+§ 2. Conformément à l'article 59, § 5, du Statut, la chambre préliminaire de la Cour est avisée de toute demande de mise en liberté provisoire et fait des recommandations à ce sujet. [<sup>1</sup> L'autorité centrale transmet les recommandations de la Cour à la chambre des mises en accusation par l'intermédiaire du ministère public.]<sup>1</sup> Avant de rendre sa décision, la chambre des mises en accusation prend pleinement en considération ces recommandations. Si la chambre des mises en accusation ne suit pas les recommandations de la Cour, elle indique expressément les motifs de cette décision.
+
+§ 3. [<sup>1</sup> La chambre des mises en accusation se prononce dans les quinze jours de l'introduction de la demande, après avoir entendu le ministère public, la personne arrêtée et son conseil. Ce délai est toutefois suspendu pendant la consultation de la chambre préliminaire de la Cour prévue au § 2. Lorsqu'elle se prononce, la chambre des mises en accusation examine si, eu égard à la gravité des crimes allégués, l'urgence et des circonstances exceptionnelles justifient la mise en liberté provisoire. La chambre des mises en accusation n'est pas habilitée à examiner si le mandat d'arrêt a été régulièrement délivré par la Cour. En cas de contestation de l'arrestation provisoire fondée sur le non-respect du principe ne bis in idem, le délai dans lequel la chambre des mises en accusation doit statuer sur ce point est suspendu pendant la durée des consultations visées par l'article 89, § 2, du Statut entre l'autorité centrale et la Cour.]<sup>1</sup>
+
+§ 4. [<sup>1</sup> En cas de mise en liberté provisoire, la chambre des mises en accusation fixe les conditions qui permettent de s'assurer que la Belgique peut s'acquitter de son obligation de remettre la personne à la Cour. Lorsque les conditions ne sont pas respectées, le juge d'instruction, sur réquisition du ministère public, décerne un mandat d'arrêt.]<sup>1</sup>
+
+Conformément à l'article 59, § 6, du Statut, si la mise en liberté provisoire est accordée, la chambre préliminaire de la Cour peut demander à l'autorité centrale des rapports périodiques sur le régime de la libération provisoire.
+
+[<sup>1</sup> § 5. La décision prise par la chambre des mises en accusation est susceptible de pourvoi en cassation dans les formes et délais prévus à l'article 31 de la loi du 20 juillet 1990 relative à la détention préventive.
+
+La personne arrêtée reste en détention jusqu'à la décision sur le pourvoi en cassation pourvu qu'elle intervienne dans les quinze jours de la déclaration de pourvoi; la personne est mise en liberté si la décision n'est pas rendue dans ce délai.
+
+§ 6. Lorsque la requête prévue au § 1er est rejetée, la personne arrêtée ne peut former une nouvelle demande de mise en liberté qu'à l'expiration d'un délai d'un mois à compter de l'arrêt de rejet.
+
+§ 7. Les dispositions du présent article sont applicables au mandat d'arrêt visé au § 4, alinéa 1er, in fine.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 8, 004; En vigueur : 28-03-2014&gt;
+
+#### Section IV. [<sup>1</sup> - Remise de la personne arrêtée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par L 2014-03-26/02, art. 9, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 17
+
+Une personne provisoirement arrêtée peut donner son consentement à être transférée sans que les conditions requises pour son transfert ne soient réunies. Le consentement doit être établi par procès-verbal devant un membre du ministère public et après audition par celui-ci, pour informer la personne concernée de son droit à une procédure formelle de remise. Ladite personne peut se faire assister d'un avocat au cours de son audition.
+
+##### Art. 18
+
+§ 1er. Lorsque la décision rendant exécutoire la demande d'arrestation et de remise est définitive, l'autorité centrale en informe immédiatement le Greffier afin d'organiser le transfert.
+
+§ 2. La personne est transférée à la Cour aussitôt que possible et, en tout cas, dans un délai de trois mois à dater de la décision de transfert. Le transfert a lieu dans le respect des dispositions pertinentes de la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales.
+
+§ 3. L'intéressé est transféré à la Cour à la date et suivant les modalités convenues entre l'autorité centrale et le Greffier. Si les circonstances rendent le transfert impossible à la date convenue, l'autorité centrale et le Greffier conviennent d'une nouvelle date et des modalités du transfert.
+
+#### Section V. [<sup>1</sup> - Principe de spécialité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par L 2014-03-26/02, art. 10, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 19
+
+En application de l'article 101, § 2, du Statut, l'autorité centrale accorde, à la demande de la Cour, une dérogation au principe de la spécialité visé à l'article 101, § 1er, du Statut.
+
+#### Section VI. [<sup>1</sup> (ancienne section IV devient la nouvelle section VI)]<sup>1</sup> - Transit.
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 11, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 20
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Sur demande de la Cour, effectuée conformément à l'article 89, § 3, b), du Statut, l'autorité centrale autorise le transport à travers le territoire de la Belgique de toute personne transférée à la Cour par un autre Etat, sauf dans le cas où le transit gênerait ou retarderait la remise.
+
+Si un atterrissage imprévu a lieu sur le territoire belge, une demande de transit peut être exigée de la Cour conformément à l'article 89, § 3, e) du Statut. La personne transportée est placée en détention en attendant la demande et l'accomplissement du transit. Toutefois, la détention ne peut se prolonger au-delà de nonante-six heures après l'atterrissage imprévu si la demande n'est pas reçue dans ce délai.
+
+[<sup>1</sup> § 2. Sur demande de la Cour, effectuée conformément à l'article 93, § 7, a), du Statut, l'autorité centrale autorise le transport à travers le territoire de la Belgique de toute personne détenue à l'étranger, dans le cadre de l'exécution d'une demande d'entraide judiciaire visée à la disposition précitée du Statut. Conformément à l'article 93, § 7, b), du Statut, le titre de détention de l'intéressé produira ses effets sur le territoire belge durant le temps nécessaire à son passage.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 12, 004; En vigueur : 28-03-2014&gt;
+
+### CHAPITRE IVbis. [<sup>1</sup> - Libération provisoire et citation à comparaître.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 13, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 20bis
+
+[<sup>1</sup> § 1er. Moyennant l'accord de l'autorité centrale et conformément à la règle 119 du Règlement de procédure et de preuve, une personne peut bénéficier, en Belgique, d'une libération provisoire visée à l'article 60 du Statut, le cas échéant aux conditions édictées par la Cour.
+
+§ 2. Lorsque les conditions auxquelles la libération provisoire est soumise ne sont pas respectées, le juge d'instruction, sur réquisition du ministère public, agissant d'office ou à la demande de l'autorité centrale, peut décerner un mandat d'arrêt à l'encontre de la personne libérée provisoirement. Son ordonnance motivée, qui n'est susceptible d'aucun recours, est communiquée immédiatement au ministère public. Celui-ci en avise sans délai l'autorité centrale, qui en informe immédiatement la Cour.
+
+§ 3. Le mandat d'arrêt délivré par le juge d'instruction est valable pour une durée de quinze jours à compter de son exécution.
+
+L'intéressé est remis en liberté aux mêmes conditions si, dans ce délai, l'autorité centrale n'a pas reçu de demande d'arrestation provisoire ou de demande d'arrestation et de remise, visées respectivement aux articles 92 et 91 du Statut.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 14, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 20ter
+
+[<sup>1</sup> En application de l'article 58, § 7, du Statut, la Cour peut délivrer une citation à comparaître à l'encontre d'une personne qui se trouve sur le territoire belge. Les éventuelles conditions restrictives de liberté imposées, dans ce cadre, à l'intéressé par la Cour sont exécutées sur le territoire belge sur la base d'une demande d'entraide judiciaire formulée par la Cour en application du chapitre IX du Statut. En cas de non-respect de ces conditions par l'intéressé, l'autorité centrale, dûment informée, le notifie sans délai à la Cour.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 15, 004; En vigueur : 28-03-2014&gt;
+
+### CHAPITRE V. - Autres formes de coopération.
+
+#### Section Ire. - Principes.
+
+##### Art. 21
+
+Conformément à l'article 93 du Statut, l'entraide est accordée à la Cour dans les cas visés à l'article 22 de la présente loi.
+
+##### Art. 22
+
+Les demandes d'entraide émanant de la Cour, liées à une enquête ou à des poursuites, doivent être adressées directement à l'autorité centrale.
+
+Conformément à l'article 93 du Statut, ces demandes peuvent comprendre tout acte non interdit par la législation belge, propre à faciliter l'enquête et les poursuites relatives aux crimes relevant de la compétence de la Cour. Elles concernent notamment :
+
+1° l'identification de personnes, le lieu où elles se trouvent ou la localisation de biens;
+
+2° le rassemblement d'éléments de preuve, y compris les dépositions faites sous serment, et la production des éléments de preuve, y compris les expertises et les rapports dont la Cour a besoin;
+
+3° l'interrogatoire de personnes faisant l'objet d'une enquête ou de poursuites;
+
+4° la signification de documents, y compris les pièces de procédure;
+
+5° les mesures propres à faciliter la comparution volontaire devant la Cour de personnes déposant comme témoins ou experts;
+
+6° le transfèrement temporaire de personnes en vertu de l'article 27 de la présente loi;
+
+7° l'examen de localités ou de sites, notamment l'exhumation et l'examen de cadavres enterrés dans des fosses communes;
+
+8° l'exécution de perquisitions et de saisies;
+
+9 la transmission de dossiers et de documents, y compris les dossiers et les documents officiels;
+
+10° la protection des victimes et des témoins et la préservation des éléments de preuve;
+
+11° l'identification, la localisation, le gel ou la saisie du produit des crimes, des biens, des avoirs et des instruments qui sont liés aux crimes, aux fins de leur confiscation éventuelle, sans préjudice des droits des tiers de bonne foi.
+
+#### Section II. - Forme et contenu de la demande d'entraide.
+
+##### Art. 23
+
+Conformément à l'article 96, § 2, du Statut, la demande contient ou est accompagnée des éléments suivants :
+
+1° l'exposé succinct de l'objet de la demande et de la nature de l'assistance demandée, y compris les fondements juridiques et les motifs de la demande;
+
+2° des renseignements aussi détaillés que possible sur la personne ou le lieu qui doivent être identifiés ou localisés de manière à ce que l'assistance demandée puisse être fournie;
+
+3° l'exposé succinct des faits essentiels qui justifient la demande;
+
+4° l'exposé des motifs et l'explication détaillée des procédures ou des conditions à respecter;
+
+5° tout renseignement que peut exiger la législation belge pour qu'il soit donné suite à la demande;
+
+6° tout autre renseignement utile pour que l'assistance demandée puisse être fournie.
+
+Les demandes émanant de la Cour et les réponses fournies par la Belgique sont communiquées dans une des langues officielles de la Belgique et dans leur forme originale.
+
+#### Section III. - Exécution de la demande d'entraide.
+
+##### Art. 24
+
+L'autorité centrale examine si la demande contient ou est accompagnée des éléments énoncés à l'article 96, § 2, du Statut et rend une décision préliminaire, non sujette à recours. Si elle juge la demande conforme à l'article 96, § 2, du Statut, elle transmet la demande à l'autorité judiciaire compétente. Si une demande ne répond pas aux conditions prévues par la section II du chapitre V du Titre II de la présente loi, l'autorité centrale peut exiger qu'elle soit corrigée ou complétée, sans préjudice de mesures conservatoires qui pourraient, entre- temps, être légalement prises.
+
+##### Art. 25
+
+Conformément à l'article 99 du Statut, la Belgique donne suite aux demandes d'assistance selon la procédure prévue par sa législation et, à moins que cette législation ne l'interdise, comme il est dit dans la demande.
+
+Lorsque la demande en est faite, l'autorité centrale autorise les personnes qu'elle désigne à être présentes et à assister à l'exécution de la demande.
+
+#### Section IV. - Règles spécifiques propres à l'exécution de certaines demandes d'entraide.
+
+##### Art. 26
+
+[<sup>1</sup> § 1er. La demande d'entraide émanant de la Cour qui porte sur une mesure de contrainte pour laquelle un juge d'instruction est seul compétent est exécutée par le juge d'instruction de l'arrondissement judiciaire où est situé le lieu où la mesure doit être exécutée.
+
+Toutefois, si plusieurs mesures d'exécution sont sollicitées, le ministère public peut charger un des juges territorialement compétents de l'exécution de l'ensemble de ces mesures.]<sup>1</sup>
+
+[<sup>1</sup> § 2.]<sup>1</sup> Les perquisitions et saisies demandées par la Cour sont exécutées conformément à la loi belge sans qu'il soit requis que la demande soit rendue exécutoire. [<sup>1</sup> Avant de transmettre les pièces à la Cour, la chambre du conseil du tribunal de première instance de l'arrondissement où les pièces ont été déposées statue, dans les cinq jours de sa saisine, sur la transmission des pièces à la Cour et se prononce, le cas échéant, sur la réclamation des tiers détenteurs ou des tiers prétendant droit sur la chose saisie, que le greffe de la chambre du conseil aura préalablement convoqués par envoi recommandé.]<sup>1</sup> Elle statue en dernier ressort et sans possibilité de tierce opposition.
+
+[<sup>1</sup> § 3. Lorsqu'une ordonnance de mise à contribution a été rendue par la chambre saisie d'une affaire, en application du Règlement de procédure et de preuve, [<sup>3</sup> ou par la présidence, en application du Règlement de la Cour,]<sup>3</sup> et que des biens appartenant à l'accusé se trouvent sur le territoire belge, il est procédé, [<sup>2</sup> par le ministère public]<sup>2</sup> sur demande de la Cour, à la saisie et au transfert de ces avoirs à la Cour, pour permettre le recouvrement des frais avancés dans le cadre de l'aide judiciaire.]<sup>1</sup>
+
+[<sup>2</sup> Dans la mesure de ses compétences, l'Organe central pour la Saisie et la Confiscation assiste, à sa demande, le ministère public pour l'exécution du présent paragraphe.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 16, 004; En vigueur : 28-03-2014&gt;
+
+(2)&lt;L 2019-05-05/10, art. 124, 006; En vigueur : 03-06-2019&gt;
+
+(3)&lt;L 2021-11-28/01, art. 46, 007; En vigueur : 10-12-2021&gt;
+
+##### Art. 27
+
+Conformément à l'article 93, § 7, du Statut, toute personne qui est détenue en Belgique peut être, à la demande de la Cour, transférée temporairement à celle-ci afin qu'elle puisse l'identifier, entendre son témoignage ou obtenir d'elle un quelque autre concours d'assistance.
+
+Cette personne peut être transférée, si les conditions suivantes sont remplies :
+
+1° la personne donne, librement et en connaissance de cause, son consentement au transfèrement; et
+
+2° l'autorité centrale donne son accord au transfèrement à la Cour, sous réserve des conditions dont elles peuvent convenir.
+
+Le transfert temporaire de détenus est organisé par l'autorité centrale en liaison avec le greffier et les autorités de l'Etat hôte de la Cour.
+
+Les délais en matière de détention préventive sont suspendus pendant la durée de l'absence du territoire de la personne concernée.
+
+##### Art. 28
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Lorsque la Cour a octroyé le statut de témoin protégé à une personne et demande à la Belgique de mettre en oeuvre des mesures de protection en sa faveur, l'autorité centrale, après avoir consulté le président de la commission de protection des témoins établie par l'article 103 du Code d'instruction criminelle, décide quelles sont les mesures visées à l'article 104 du même Code dont il convient de faire bénéficier cette personne. Indépendamment des mesures accordées au témoin protégé, et lorsqu'elle le juge nécessaire, l'autorité centrale peut également accorder aux proches de cette personne des mesures de protection visées à l'article 104. Ces mesures sont mises en oeuvre de la même manière que les mesures octroyées au bénéfice d'un témoin menacé, d'un membre de sa famille ou d'un autre parent, visés par l'article 102 du même Code. [<sup>1</sup> Compte tenu du principe de proportionnalité, il peut être accordé cumulativement ou successivement des mesures de protection ordinaires et spéciales.]<sup>1</sup>
+
+[<sup>1</sup> § 2. Par dérogation à l'article 106 du Code d'instruction criminelle, un changement d'identité peut être accordé à un témoin protégé et à ses proches, par décision de l'autorité centrale, après avoir consulté le président de la commission de protection des témoins.
+
+La nouvelle identité est déterminée sur proposition du service de protection des témoins, après concertation avec la personne concernée ou son représentant légal, et est communiquée à l'autorité centrale par l'intermédiaire du président de la commission de protection des témoins.
+
+La procédure de changement d'identité n'est pas uniquement limitée aux personnes qui possèdent la nationalité belge.
+
+L'autorité centrale peut requérir toute autorité compétente pour assurer la mise en oeuvre de cette décision. Dans ce cadre, l'autorité centrale peut imposer des conditions particulières ou des mesures complémentaires permettant de garantir la protection des témoins.
+
+Le changement des nom, prénoms, date et lieu de naissance est exempté du droit d'enregistrement.
+
+Par dérogation à l'article [<sup>2</sup> 29]<sup>2</sup> du Code civil, il ne peut être délivré un extrait ou une copie d'un acte de l'état civil concernant une personne qui a fait l'objet d'un changement d'identité en application du présent paragraphe qu'avec l'autorisation expresse de l'autorité centrale, après consultation du président de la commission de protection des témoins. Il en va de même pour tout document ou certificat que le Commissariat général aux réfugiés et aux apatrides ou l'Office des Etrangers serait amené à délivrer à la requête de l'autorité centrale.
+
+Il ne peut y avoir d'infraction quand des faits absolument nécessaires sont commis dans le cadre du présent paragraphe, en vue de garantir la protection du témoin.]<sup>1</sup>
+
+[<sup>1</sup> § 3.]<sup>1</sup> Lorsque la Cour met fin au statut de témoin protégé en faveur d'une personne visée [<sup>1</sup> au § 1er]<sup>1</sup>, l'autorité centrale détermine s'il convient de maintenir les mesures mises en oeuvre à son égard ou à l'égard des autres personnes.
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 17, 004; En vigueur : 28-03-2014&gt;
+
+(2)&lt;L 2021-11-28/01, art. 47, 007; En vigueur : 10-12-2021&gt;
+
+#### Section V. - Sursis à exécution et rejet de la demande d'entraide dans certains cas spécifiques.
+
+##### Art. 29
+
+Si l'exécution immédiate de la demande d'entraide peut nuire au bon déroulement de l'enquête ou des poursuites en cours dans une affaire différente de celle à laquelle cette demande se rapporte, l'autorité centrale peut, moyennant avis préalable des autorités judiciaires, surseoir à l'exécution de celle-ci pendant un temps fixé de commun accord avec la Cour et conformément à l'article 94 du Statut.
+
+##### Art. 30
+
+Conformément à l'article 95 du Statut, lorsque la Cour examine une exception d'irrecevabilité conformément aux articles 18 ou 19 du Statut, l'autorité centrale peut surseoir à l'exécution d'une demande faite au titre de la coopération et de l'assistance judiciaire, en attendant que la Cour ait statué, à moins que la Cour n'ait expressément décidé que le Procureur pouvait continuer de rassembler des éléments de preuve en application des articles 18 ou 19 du Statut.
+
+##### Art. 31
+
+Conformément à l'article 93, § 4, du Statut, si l'autorité centrale a de sérieuses raisons de penser que l'exécution d'une demande d'assistance pourrait porter atteinte à la sécurité nationale, elle en informe immédiatement la Cour. L'autorité centrale peut décider de suspendre tout acte nécessaire à l'exécution de la demande en attendant que l'autorité compétente nationale se prononce, conformément à la loi, sur une demande ayant pour objet la production ou la divulgation d'éléments de preuve qui touchent à la sécurité nationale. Dès que l'autorité centrale décide de suspendre l'exécution d'une demande d'assistance, elle entame, conformément à l'article 72, § 5, du Statut, des concertations avec la Cour afin d'envisager toutes les mesures raisonnablement possibles pour trouver une solution par la concertation. Conformément à l'article 72, § 6, du Statut, lorsque toutes les mesures raisonnablement possibles ont été prises pour régler la question par la concertation, l'autorité centrale avise la Cour du fait que l'exécution de la demande ne peut avoir lieu sans porter atteinte aux intérêts de la sécurité nationale belge.
+
+#### Section VI. - Exécution d'actes prévus à l'article 99, § 4, du Statut par le Procureur sur le territoire belge.
+
+##### Art. 32
+
+Lorsque le Procureur veut exécuter des actes prévus à l'article 99, § 4, du Statut sur le territoire belge, [<sup>1</sup> l'autorité centrale]<sup>1</sup> est [<sup>1</sup> consultée]<sup>1</sup> conformément audit article du Statut. [<sup>1</sup> L'autorité centrale]<sup>1</sup>, moyennant avis préalable des autorités judiciaires, peut refuser que le Procureur exécute lesdits actes d'instruction sur le territoire belge si ces actes peuvent être exécutés, dans les mêmes délais et selon les modalités prévues par le présent chapitre, en réponse à une demande d'assistance.
+
+----------
+
+(1)&lt;L 2021-11-28/01, art. 48, 007; En vigueur : 10-12-2021&gt;
+
+### CHAPITRE VI. - Exécution de décisions rendues par la Cour.
+
+##### Art. 33
+
+En cas de demande de la Cour, la Belgique peut prendre en charge l'exécution d'une décision définitive et exécutoire de privation de liberté de la Cour, pour autant que la Belgique ait consenti à figurer sur la liste des Etats parties qui acceptent de recevoir des condamnés.
+
+##### Art. 34
+
+§ 1er. Lorsque l'autorité centrale agrée la demande de la Cour de prendre en charge l'exécution d'une peine privative de liberté, elle en informe la Cour et lui communique toutes les informations pertinentes relatives à l'exécution de la peine.
+
+§ 2. Conformément à l'article 103, § 2, a), du Statut, l'autorité centrale avise également, le cas échéant, la Cour de toute circonstance qui serait de nature à modifier sensiblement les conditions ou la durée de la détention. La Cour est avisée au moins 45 jours à l'avance de toute circonstance de ce type, connue ou prévisible. Conformément à l'article 103, § 2, b), du Statut, si la Cour ne peut accepter ledit changement de circonstances, elle en avise l'autorité centrale et désigne un autre Etat chargé de l'exécution.
+
+##### Art. 35
+
+§ 1er. Conformément à l'article 105 du Statut, la peine privative de liberté prononcée par la Cour est exécutoire en Belgique dès le moment où la demande est acceptée par l'autorité centrale. La peine prononcée par la Cour ne peut en aucun cas être modifiée. Seule la Cour a le droit de se prononcer sur une demande de révision de sa décision sur la culpabilité ou la peine.
+
+§ 2. Dans les vingt-quatre heures suivant son arrivée dans l'établissement pénitentiaire qui lui a été assigné, la personne transférée comparaît devant le procureur du Roi près le tribunal de première instance du lieu de détention. Celui-ci procède à son interrogatoire d'identité, en dresse procès-verbal et, au vu de l'original ou d'une expédition du jugement de la Cour, ordonne l'incarcération immédiate du condamné.
+
+§ 3. Conformément à l'article 106, § 1er, du Statut, l'exécution d'une peine d'emprisonnement est soumise au contrôle de la Cour. Les conditions de détention sont régies par la législation belge.
+
+§ 4. [<sup>1</sup> Les procédures de libération anticipée sont régies exclusivement par l'article 110 du Statut. Les décisions rendues par la Cour sont exécutoires immédiatement en Belgique.
+
+Dans ce cadre, les dispositions de la législation belge relatives aux modalités d'exécution des peines ne s'appliquent pas au détenu qui exécute, en Belgique, une peine privative de liberté prononcée par la Cour.]<sup>1</sup>
+
+[<sup>1</sup> § 5. L'autorité centrale, après consultation de l'administration pénitentiaire, rend un avis circonstancié lorsque la Cour, dans l'exercice de ses compétences en matière de libération anticipée, le lui demande.
+
+§ 6. En cas de raisons médicales qui nécessiteraient une libération anticipée, l'autorité centrale en avise dès que possible la Cour, seule compétente pour décider d'une telle libération.]<sup>1</sup>
+
+[<sup>1</sup> § 7.]<sup>1</sup> Conformément à l'article 104, § 2, du Statut, la personne condamnée par la Cour peut à tout moment demander à celle-ci son transfert hors de Belgique.
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 18, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 36
+
+Dans les limites posées par l'article 108 du Statut, la Belgique peut, en application de sa législation, extrader ou remettre de quelque autre manière que ce soit le condamné qui a accompli sa peine à l'Etat qui a demandé son extradition ou sa remise, ou au Tribunal international qui a demandé sa remise aux fins de jugement ou d'exécution d'une peine.
+
+##### Art. 37
+
+Si le condamné dépose une demande d'appel d'une décision sur la culpabilité ou la peine conformément à l'article 81 du Statut, une demande de révision d'une décision sur la culpabilité ou la peine conformément à l'article 84 du Statut ou une demande de réduction de peine conformément à l'article 110 du Statut, sa requête peut être transmise par l'intermédiaire de l'autorité centrale, qui la communique à la Cour dans les meilleurs délais, avec tous les documents pertinents.
+
+##### Art. 38
+
+Conformément à l'article 106, § 3, du Statut, les communications entre la Cour et un condamné sont libres et confidentielles.
+
+##### Art. 39
+
+En cas d'évasion d'un condamné de son lieu de détention, l'autorité centrale peut, après avoir consulté la Cour, demander à l'Etat dans lequel se trouve le condamné, de le lui remettre, en application des accords bilatéraux ou multilatéraux en vigueur, ou demander à la Cour de solliciter la remise de cette personne conformément au chapitre IX du Statut.
+
+##### Art. 40
+
+[<sup>1</sup> § 1er.]<sup>1</sup> La Belgique exécute les peines d'amende et les mesures de confiscation ordonnées par la Cour, en vertu du chapitre VII du Statut, sans préjudice des droits des tiers de bonne foi.
+
+[<sup>1</sup> § 2. La demande de la Cour tendant à l'exécution d'une peine d'amende doit être libellée en euros ou, à défaut, être accompagnée d'une conversion du montant de la peine en euros.
+
+Le ministère public procède à l'exécution de cette demande, pour autant qu'elle porte sur une peine d'amende définitive. La procédure prévue aux articles 464/1 à 464/41 du Code d'instruction criminelle relative à l'enquête pénale d'exécution est applicable, quel que soit le montant de la peine d'amende.
+
+Lorsque la personne concernée est en mesure de fournir la preuve d'un paiement, en tout ou en partie, le ministère public en avertit l'autorité centrale qui consulte la Cour, en sollicitant toute information nécessaire. Toute partie du montant de la peine d'amende recouvrée de quelque manière que ce soit par la Cour est entièrement déduite du montant de la peine d'amende faisant l'objet d'une exécution en Belgique.
+
+Il est mis fin à l'exécution de la peine d'amende dès que le ministère public est informé par l'autorité centrale du paiement de la totalité de la peine d'amende.]<sup>1</sup>
+
+[<sup>1</sup> § 3.]<sup>1</sup> Lorsqu'une demande tendant à l'exécution d'une décision de confiscation est adressée par la Cour à la Belgique, le tribunal correctionnel du lieu où sont situés les biens sur lesquels porte la confiscation rend cette décision exécutoire, après avoir entendu le ministère public et la personne condamnée ou son conseil. Conformément à l'article 109, § 2, du Statut, lorsqu'il est impossible de donner effet à l'ordonnance de confiscation, des mesures de confiscation par équivalent, visées à [<sup>2</sup> l'article 53, § 2, alinéa 2]<sup>2</sup>, du Code pénal, peuvent être ordonnées par le tribunal correctionnel du lieu où sont situés les biens sur lesquels porte la confiscation, sans préjudice des droits des tiers de bonne foi.
+
+[<sup>1</sup> § 4. Les sommes d'argent, les biens mobiliers et immobiliers, ou le produit de leur vente, obtenus en exécution d'un arrêt de la Cour, conformément aux paragraphes 2 et 3, sont intégralement transférés à la Cour à l'initiative du ministère public. Celui-ci informe l'autorité centrale de tout transfert à la Cour en application du présent paragraphe.]<sup>1</sup>
+
+[<sup>1</sup> § 5. Dans la mesure de ses compétences, l'Organe central pour la Saisie et la Confiscation assiste, à sa demande, le ministère public pour l'exécution du présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-05/10, art. 125, 006; En vigueur : 03-06-2019&gt;
+
+(2)&lt;L 2026-03-03/04, art. 101, 009; En vigueur : 01-09-2026&gt;
+
+### CHAPITRE VII. - Atteintes à l'administration de la justice de la Cour pénale internationale.
+
+##### Art. 41
+
+Quiconque portera atteinte à l'administration de la justice de la Cour pénale internationale en commettant l'un ou plusieurs des actes visés à l'article 70, § 1er, a) à f), du Statut est punissable [<sup>1</sup> d'une peine de niveau 3. Par dérogation à l'article 52, § 1er, alinéa 2, du Code pénal, l'amende s'élève à 800.000 euros au plus. La tentative de commettre l'infraction visée par cet article n'est pas punissable]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-03-03/04, art. 102, 009; En vigueur : 01-09-2026&gt;
+
+### CHAPITRE VIII. - Procédure de présentation d'un candidat pour la fonction de juge auprès de la Cour pénale internationale.
+
+##### Art. 42
+
+§ 1er. La vacance de poste à la fonction de juge auprès de la Cour pénale internationale fait l'objet d'une publication au Moniteur belge lorsque le Conseil des ministres, sur proposition du Ministre de la Justice, décide de présenter un candidat à cette élection. L'annonce publiée au Moniteur belge présente les profils de candidatures fondés sur l'article 36 du Statut et indique le délai dans lequel les candidatures doivent parvenir au ministre de la Justice.
+
+§ 2. A l'expiration de ce délai, le Ministre de la Justice demande à la commission de nomination et de désignation réunie du Conseil supérieur de la Justice que deux listes de candidatures soient établies : l'une établissant un classement des candidatures ayant le profil visé à l'article 36, § 3, b), i), du Statut et l'autre établissant un classement des candidatures appartenant à la catégorie visée à l'article 36, § 3, b), ii), du Statut. Ces deux listes sont établies après audition des candidats par la commission de nomination et de désignation réunie. Cette commission transmet les listes dans un délai de 60 jours francs à dater de la transmission des dossiers de candidatures par le ministre de la Justice. Toutefois, une seule de ces listes sera établie si le ou les postes à pourvoir ne relèvent que d'une seule des catégories visées à l'article 36, § 3, b), du Statut.
+
+§ 3. A l'expiration du délai de 60 jours visé au § 2, le Roi dispose de 60 jours francs pour sélectionner, par arrêté délibéré en Conseil des ministres, la candidature qui sera présentée par la Belgique pour le siège à pourvoir. Sa décision doit porter sur la personne classée première de la liste, en cas de liste unique, ou sur l'une des deux personnes classées premières de chaque liste lorsque deux listes sont établies conformément au § 2.
+
+§ 4. Le Roi peut, par arrêté délibéré en Conseil des ministres, opposer au choix de la commission un refus motivé. La commission dispose d'un délai de 15 jours francs pour procéder à une nouvelle présentation d'une ou deux listes de candidatures, conformément au § 2. A l'expiration de ce délai, le Roi dispose d'un délai de 30 jours francs, soit pour sélectionner, par arrêté délibéré en Conseil des Ministres, la candidature qui sera présentée par la Belgique pour le siège à pourvoir suivant la même procédure que celle visée au § 3 in fine, soit pour décider, par arrêté délibéré en Conseil des ministres, par le biais d'un refus motive, de ne présenter aucun des candidats proposés, ce qui clôt la procédure.
+
+## TITRE III. - Coopération avec le Tribunal international pour l'ex-Yougoslavie et le Tribunal international pour le Rwanda.
+
+### CHAPITRE Ier. - Généralités.
+
+##### Art. 43
+
+Aux fins du Titre III de la présente loi, les termes ci-après désignent :
+
+\- " Tribunal " : le Tribunal international créé par le Conseil de sécurité des Nations Unies par sa résolution 827 (1993) du 25 mai 1993 et chargé de juger les personnes présumées responsables de violations graves du droit international humanitaire commises sur le territoire de l'ex-Yougoslavie depuis 1991 [<sup>1</sup>, le Tribunal international créé par le Conseil de sécurité des Nations unies par sa résolution 955 (1994) du 8 novembre 1994 et chargé de juger les personnes présumées coupables d'actes de génocide ou d'autres violations graves du droit international humanitaire commis sur le territoire du Rwanda et les citoyens rwandais présumés responsables de tels actes ou violations commis sur le territoire d'Etats voisins entre le 1er janvier et le 31 décembre 1994 et le Mécanisme international [<sup>2</sup> appelé à]<sup>2</sup> exercer les fonctions résiduelles des Tribunaux pénaux créé par le Conseil de sécurité des Nations unies par sa résolution 1966 (2010) du 22 décembre 2010]<sup>1</sup>;
+
+\- " Résolution 808 (1993) " : la résolution 808 (1993) du 22 février 1993 adoptée par le Conseil de sécurité des Nations unies;
+
+\- " Résolution 827 (1993) " : la résolution 827 (1993) du 25 mai 1993 adoptée par le Conseil de sécurité des Nations unies;
+
+\- " Résolution 955 (1994) " : la résolution 955 (1994) du 8 novembre 1994 adoptée par le Conseil de sécurité des Nations unies;
+
+[<sup>1</sup> - "Résolution 1966 (2010)" : la résolution 1966 (2010) du 22 décembre 2010 adoptée par le Conseil de sécurité des Nations unies;]<sup>1</sup>
+
+\- " Statut " : le Statut du Tribunal adopté par le Conseil de sécurité des Nations unies dans sa résolution 827 (1993) [<sup>1</sup> , le Statut adopté par le Conseil de sécurité des Nations unies dans sa résolution 955 (1994) et le Statut adopté par le Conseil de sécurité des Nations unies dans sa résolution 1966 (2010);]<sup>1</sup>
+
+\- " Règlement " : le Règlement de procédure et de preuve du Tribunal pénal international pour l'ex-Yougoslavie adopté le 11 février 1994 et le Règlement de procédure et de preuve du Tribunal pénal international pour le Rwanda adopté le 29 juin 1995 [<sup>1</sup>, le Règlement de procédure et de preuve du Tribunal pénal international pour le Rwanda adopté le 29 juin 1995 et le Règlement de procédure et de preuve du Mécanisme international chargé d'exercer les fonctions résiduelles des Tribunaux pénaux adopté le 8 juin 2012;]<sup>1</sup>
+
+\- " Procureur " : le Procureur du Tribunal ainsi que toute personne autorisée par lui ou travaillant sous son autorité dans le cadre des fonctions qui lui incombent en vertu du Statut;
+
+[<sup>1</sup> - "Autorité centrale" : l'autorité compétente en matière de coopération entre la Belgique et le Tribunal soit, au sein du Service public fédéral Justice, le service de droit international humanitaire, désigné par l'arrêté royal du 17 septembre 2005 relatif à la création d'un service de droit international humanitaire;
+
+\- "Ministère public" : le procureur fédéral.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 19, 004; En vigueur : 28-03-2014&gt;
+
+(2)&lt;L 2022-12-06/02, art. 54, 008; En vigueur : 31-12-2022&gt;
+
+##### Art. 44
+
+En vertu des dispositions de la présente loi, la Belgique respectera les obligations de coopération qui découlent des résolutions 808 (1993), 827 (1993) [<sup>1</sup> , 955 (1994) et 1966 (2010)]<sup>1</sup> adoptées par le Conseil de sécurité des Nations unies sur la base du chapitre VII de la Charte des Nations unies.
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 20, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 45
+
+Les autorités compétentes accordent au Tribunal leur pleine et entière coopération judiciaire dans toute procédure visant les infractions définies aux articles 1er à 8 du Statut du Tribunal pour l'ex-Yougoslavie et aux articles 2 à 4 du Statut du Tribunal pour le Rwanda, conformément aux dispositions des résolutions mentionnées à l'article 44 de la présente loi ainsi qu'aux dispositions du Statut, du Règlement et de la présente loi.
+
+##### Art. 46
+
+[<sup>1</sup> § 1er. L'autorité centrale est compétente pour recevoir les demandes émanant du Tribunal, pour transmettre au Tribunal les demandes de coopération provenant des autorités belges compétentes et pour transmettre au Tribunal toute information à caractère judiciaire pouvant relever de la compétence du Tribunal. Elle en assure le suivi.
+
+§ 2. Les demandes du Tribunal sont adressées à l'autorité centrale par tout moyen de communication laissant une trace écrite. Elles doivent être rédigées dans une des langues officielles de la Belgique ou, à défaut, être accompagnées d'une traduction certifiée conforme dans l'une de ces langues.
+
+§ 3. Les autorités belges compétentes peuvent solliciter la coopération du Tribunal. Les demandes sont transmises par l'intermédiaire de l'autorité centrale. Les autorités belges sont tenues de respecter les conditions dont le Tribunal assortit l'exécution de la demande. Les pièces justificatives, si elles ne sont pas rédigées dans une des langues de travail du Tribunal, doivent être accompagnées d'une traduction dans l'une de ces langues.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 21, 004; En vigueur : 28-03-2014&gt;
+
+### CHAPITRE II. - Dessaisissement des juridictions belges.
+
+##### Art. 47
+
+Lorsqu'une demande de dessaisissement des juridictions nationales est formulée par le Tribunal à propos d'un fait relevant de sa compétence, la Cour de cassation, sur réquisition du procureur général, et après audition de la personne intéressée, prononce le dessaisissement de la juridiction belge saisie du même fait, après avoir vérifié qu'il n'y a pas erreur sur la personne.
+
+##### Art. 48
+
+L'arrêt de dessaisissement empêche la poursuite de la procédure en Belgique, sans préjudice de l'application de l'article 49 de la présente loi. Le dessaisissement ne fait pas obstacle au droit de la partie civile de demander réparation. L'exercice de ce droit est suspendu tant que l'affaire est pendante devant le Tribunal.
+
+##### Art. 49
+
+Lorsque le Tribunal fait savoir, après dessaisissement de la juridiction belge, que le Procureur a décidé de ne pas établir d'acte d'accusation, que le Tribunal ne l'a pas confirmé, ou que le Tribunal s'est déclaré incompétent, la Cour de cassation, sur réquisition du procureur général, et après audition de la personne intéressée, règle la procédure et, s'il y a lieu, prononce le renvoi devant la cour, le tribunal ou la juridiction d'instruction compétents.
+
+### CHAPITRE III. - Entraide judiciaire.
+
+##### Art. 50
+
+§ 1er. (Les demandes du Procureur ou les ordonnances du Tribunal visant à l'accomplissement de mesures relatives à la collecte et à la production d'éléments qui concernent notamment l'identification et la recherche des personnes, la réunion de témoignages, la production de preuves et l'expédition de documents, et qui sont nécessaires à l'instruction ou à la bonne conduite du procès, sont exécutées selon la procédure prévue par la législation belge et, à moins que cette législation ne l'interdise, comme il est dit dans la demande.) &lt;L 2006-07-01/60, art. 13, 002; En vigueur : 07-08-2006&gt;
+
+§ 2. [<sup>1</sup> La demande du procureur ou l'ordonnance du Tribunal qui porte sur une mesure de contrainte pour laquelle un juge d'instruction est seul compétent est exécutée par le juge d'instruction de l'arrondissement judiciaire où est situé le lieu où la mesure doit être exécutée.
+
+Toutefois, si plusieurs mesures d'exécution sont sollicitées, le ministère public peut charger un des juges territorialement compétents de l'exécution de l'ensemble de ces mesures.]<sup>1</sup>
+
+§ 3. [<sup>1</sup> Les perquisitions et saisies demandées par le Tribunal sont exécutées conformément à la loi belge sans qu'il soit requis que la demande soit rendue exécutoire. Avant de transmettre les pièces au Tribunal, la chambre du conseil du tribunal de première instance de l'arrondissement où les pièces ont été déposées statue, dans les cinq jours de sa saisine, sur la transmission des pièces au Tribunal et se prononce, le cas échéant, sur la réclamation des tiers détenteurs ou des tiers prétendant droit sur la chose saisie, que le greffe de la chambre du conseil aura préalablement convoqués par envoi recommandé. Elle statue en dernier ressort et sans possibilité de tierce opposition.]<sup>1</sup>
+
+§ 4. Lorsque le Tribunal a octroyé le statut de témoin protégé à une personne et demande à la Belgique de mettre en oeuvre des mesures de protection en sa faveur, l'autorité centrale, après avoir consulté le président de la commission de protection des témoins établie par l'article 103 du Code d'instruction criminelle, décide quelles sont les mesures visées à l'article 104 du même Code dont il convient de faire bénéficier cette personne. Indépendamment des mesures accordées au témoin protégé, et lorsqu'elle le juge nécessaire, l'autorité centrale peut également accorder aux proches de cette personne des mesures de protection visées à l'article 104. Ces mesures sont mises en oeuvre de la même manière que les mesures octroyées au bénéfice d'un témoin menacé, d'un membre de sa famille ou d'un autre parent, visés par l'article 102 du même Code. [<sup>1</sup> Compte tenu du principe de proportionnalité, il peut être accordé cumulativement ou successivement des mesures de protection ordinaires et spéciales.]<sup>1</sup>
+
+[<sup>1</sup> Par dérogation à l'article 106 du Code d'instruction criminelle, un changement d'identité peut être accordé à un témoin protégé et à ses proches, par décision de l'autorité centrale, après avoir consulté le président de la commission de protection des témoins.
+
+La nouvelle identité est déterminée sur proposition du service de protection des témoins, après concertation avec la personne concernée ou son représentant légal, et est communiquée à l'autorité centrale par l'intermédiaire du président de la commission de protection des témoins.
+
+La procédure de changement d'identité n'est pas uniquement limitée aux personnes qui possèdent la nationalité belge.
+
+L'autorité centrale peut requérir toute autorité compétente pour assurer la mise en oeuvre de cette décision. Dans ce cadre, l'autorité centrale peut imposer des conditions particulières ou des mesures complémentaires permettant de garantir la protection des témoins.
+
+Le changement des nom, prénoms, date et lieu de naissance, est exempté du droit d'enregistrement.
+
+Par dérogation à l'article [<sup>2</sup> 29]<sup>2</sup> du Code civil, il ne peut être délivré un extrait ou une copie d'un acte de l'état civil concernant une personne qui a fait l'objet d'un changement d'identité en application du présent paragraphe qu'avec l'autorisation expresse de l'autorité centrale, après consultation du président de la commission de protection des témoins. Il en va de même pour tout document ou certificat que le Commissariat général aux réfugiés et aux apatrides ou l'Office des Etrangers serait amené à délivrer à la requête de l'autorité centrale.
+
+Il ne peut y avoir d'infraction quand des faits absolument nécessaires sont commis dans le cadre des alinéas 2 à 7 du présent paragraphe, en vue de garantir la protection du témoin.]<sup>1</sup>
+
+Lorsque le Tribunal met fin au statut de témoin protégé en faveur d'une personne visée à l'alinéa [<sup>1</sup> 1er]<sup>1</sup>, l'autorité centrale détermine s'il convient de maintenir les mesures mises en oeuvre a son égard ou à l'égard des autres personnes.
+
+[<sup>1</sup> § 5. Toute personne qui est détenue en Belgique peut être, à la demande du Tribunal, transférée temporairement à celui-ci afin qu'il puisse l'identifier, entendre son témoignage ou obtenir d'elle un quelque autre concours d'assistance.
+
+Cette personne peut être transférée, si les conditions suivantes sont remplies :
+
+1° la personne donne, librement et en connaissance de cause, son consentement au transfèrement; et
+
+2° l'autorité centrale donne son accord au transfèrement au Tribunal, sous réserve des conditions dont ils peuvent convenir.
+
+Le transfert temporaire de détenus est organisé par l'autorité centrale en liaison avec le greffier et les autorités de l'Etat hôte du Tribunal.
+
+Les délais en matière de détention préventive sont suspendus pendant la durée de l'absence du territoire de la personne concernée.
+
+§ 6. Sur demande du Tribunal, l'autorité centrale autorise le transport à travers le territoire de la Belgique de toute personne transférée au Tribunal par un autre Etat, sauf dans le cas où le transit gênerait ou retarderait la remise.
+
+Si un atterrissage imprévu a lieu sur le territoire belge, une demande de transit peut être exigée du Tribunal. La personne transportée est placée en détention en attendant la demande et l'accomplissement du transit. Toutefois, la détention ne peut se prolonger au-delà de nonante-six heures après l'atterrissage imprévu si la demande n'est pas reçue dans ce délai.
+
+§ 7. Sur demande du Tribunal, l'autorité centrale autorise le transport à travers le territoire de la Belgique de toute personne détenue à l'étranger, dans le cadre de l'exécution d'une demande d'entraide judiciaire au siège du Tribunal. Le titre de détention de l'intéressé produira ses effets sur le territoire belge le temps nécessaire à son passage.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 22, 004; En vigueur : 28-03-2014&gt;
+
+(2)&lt;L 2021-11-28/01, art. 49, 007; En vigueur : 10-12-2021&gt;
+
+##### Art. 51
+
+L'autorité judiciaire compétente saisie informe le Tribunal de la date et du lieu de l'exécution de la mesure requise. Le Procureur ou le juge requérant sont autorises à assister à cette exécution.
+
+##### Art. 52
+
+Lorsqu'une procédure est en cours devant une juridiction belge pour des faits visés aux [<sup>2</sup> articles 82 à 88 et 90 à 92]<sup>2</sup> du Code pénal qui pourraient relever de la compétence du Tribunal, celui-ci en est informé par [<sup>1</sup> l'autorité centrale]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2021-11-28/01, art. 50, 007; En vigueur : 10-12-2021&gt;
+
+(2)&lt;L 2026-03-03/04, art. 103, 009; En vigueur : 01-09-2026&gt;
+
+### CHAPITRE IV. - Arrestation et transfert.
+
+##### Art. 53
+
+§ 1er. Le mandat d'arrêt décerné par le Tribunal à l'égard d'une personne qui se trouve sur le territoire belge est rendu exécutoire par la chambre du conseil du lieu de sa résidence ou du lieu où elle a été trouvée.
+
+La chambre du conseil vérifie si les pièces nécessaires à l'arrestation ont été fournies et s'il n'y a pas erreur sur la personne.
+
+Le ministère public, dans les vingt-quatre heures de l'ordonnance de la chambre du conseil refusant de rendre exécutoire le mandat d'arrêt du Tribunal, peut interjeter appel de cette décision devant la chambre des mises en accusation. Celle-ci statue dans les huit jours. L'arrêt est exécutoire.
+
+Dans les vingt-quatre heures de la privation de liberté, la décision rendant exécutoire le mandat d'arrêt du Tribunal est signifiée à [<sup>1</sup> la personne arrêtée]<sup>1</sup>. [<sup>1</sup> Celle-ci]<sup>1</sup> dispose d'un délai de vingt-quatre heures à dater de la signification, pour introduire un recours devant la chambre des mises en accusation. Ce recours est formé par déclaration au greffe correctionnel ou par déclaration de [<sup>1</sup> la personne arrêtée]<sup>1</sup> au directeur de la maison d'arrêt ou à son délégué.
+
+[<sup>1</sup> La chambre des mises en accusation entend le ministère public, la personne arrêtée et son conseil et statue au plus tard dans les quinze jours de l'introduction du recours.]<sup>1</sup> L'arrêt est exécutoire. [<sup>1</sup> La personne arrêtée]<sup>1</sup> restera en détention jusqu'à ce que la chambre des mises en accusation statue.
+
+[<sup>1</sup> La décision prise par la chambre des mises en accusation n'est pas susceptible de pourvoi en cassation.
+
+La remise de la personne arrêtée ne peut avoir lieu que lorsque la décision rendant exécutoire la demande d'arrestation et de remise est devenue définitive.]<sup>1</sup>
+
+Lorsque le mandat d'arrêt du Tribunal est définitivement rendu exécutoire, le transfert de la personne arrêtée doit intervenir dans les trois mois.
+
+§ 2. [<sup>1</sup> La demande d'arrestation provisoire visée au Règlement, qui est formulée en cas d'urgence par le procureur, est exécutée sur la base d'un mandat d'arrêt délivré par le juge d'instruction de l'arrondissement judiciaire où est situé le lieu où la personne faisant l'objet de ce mandat a sa résidence, ou le lieu où elle a été trouvée. Le juge d'instruction vérifie si les pièces nécessaires à l'arrestation provisoire ont été fournies et s'il n'y a pas erreur sur la personne.
+
+Le mandat d'arrêt doit être signifié dans les vingt-quatre heures à compter de la privation de liberté.
+
+Le mandat d'arrêt n'est pas susceptible de recours.]<sup>1</sup>
+
+[<sup>1</sup> § 3. La personne arrêtée a le droit de demander à la chambre des mises en accusation, par requête, sa mise en liberté provisoire dans l'attente de sa remise.
+
+La chambre des mises en accusation se prononce dans les quinze jours de l'introduction de la demande, après avoir entendu le ministère public, la personne arrêtée et son conseil. Lorsqu'elle se prononce, la chambre des mises en accusation examine si, eu égard à la gravité des crimes allégués, l'urgence et des circonstances exceptionnelles justifient la mise en liberté provisoire.
+
+La chambre des mises en accusation n'est pas habilitée à examiner si le mandat d'arrêt a été régulièrement délivré par le Tribunal.
+
+En cas de mise en liberté provisoire, la chambre des mises en accusation fixe les conditions qui permettent de s'assurer que la Belgique peut s'acquitter de son obligation de remettre la personne au Tribunal. Lorsque les conditions ne sont pas respectées, le juge d'instruction, sur réquisition du ministère public, décerne un mandat d'arrêt.
+
+Si la mise en liberté provisoire est accordée, le Tribunal peut demander à l'autorité centrale des rapports périodiques sur le régime de la libération provisoire.
+
+La décision prise par la chambre des mises en accusation est susceptible de pourvoi en cassation dans les formes et délais prévus à l'article 31 de la loi du 20 juillet 1990 relative à la détention préventive.
+
+La personne arrêtée reste en détention jusqu'à la décision sur le pourvoi en cassation pourvu qu'elle intervienne dans les quinze jours de la déclaration de pourvoi; la personne est mise en liberté si la décision n'est pas rendue dans ce délai.
+
+Lorsque la requête prévue à l'alinéa 1er est rejetée, la personne arrêtée ne peut former une nouvelle demande de mise en liberté qu'à l'expiration d'un délai d'un mois à compter de l'arrêt de rejet.
+
+Les dispositions du présent paragraphe sont applicables au mandat d'arrêt visé à l'alinéa 4 in fine.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 23, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 54
+
+Dans le respect de la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales, le gouvernement transfère la personne arrêtée, conformément au Règlement du Tribunal.
+
+### CHAPITRE V. - Exécution des peines.
+
+##### Art. 55
+
+§ 1er. Dans la mesure où la Belgique est inscrite sur la liste des Etats qui ont fait savoir au Conseil de sécurité des Nations unies qu'ils étaient disposés à recevoir des condamnés afin qu'ils y subissent leur peine d'emprisonnement et où une personne condamnée par le Tribunal est transférée en Belgique à cette fin conformément à l'accord bilatéral d'exécution des peines conclu entre la Belgique et ce Tribunal, la peine d'emprisonnement est directement et immédiatement exécutoire en Belgique.
+
+§ 2. Dans les vingt-quatre heures suivant son arrivée dans l'établissement pénitentiaire qui lui a été assigné, la personne transférée comparaît devant le procureur du Roi près le tribunal de première instance [<sup>1</sup> de l'arrondissement judiciaire où est situé le lieu de la détention]<sup>1</sup>. [<sup>1</sup> Le procureur du Roi procède à l'interrogatoire d'identité]<sup>1</sup>, en dresse procès-verbal et, au vu de l'original ou d'une expédition du jugement du Tribunal, ordonne l'incarcération immédiate du condamné.
+
+[<sup>1</sup> § 3. Les procédures de libération anticipée sont régies exclusivement par le Statut du Tribunal. Les décisions rendues par le Tribunal sont exécutoires immédiatement en Belgique.
+
+Dans ce cadre, les dispositions de la législation belge relatives aux modalités d'exécution des peines ne s'appliquent pas au détenu qui exécute, en Belgique, une peine privative de liberté prononcée par le Tribunal.
+
+§ 4. L'autorité centrale, après consultation de l'administration pénitentiaire, rend un avis circonstancié lorsque le Tribunal, dans l'exercice de ses compétences en matière de libération anticipée, le lui demande.
+
+§ 5. En cas de raisons médicales qui nécessiteraient une libération anticipée, l'autorité centrale en avise dès que possible le Tribunal, seul compétent pour décider d'une telle libération.]<sup>1</sup>
+
+[<sup>1</sup> § 6.]<sup>1</sup> La demande de révision de la décision du Tribunal sur la culpabilité ou sur la peine, la décision de révision et son application sont régies par le Statut de ce Tribunal ainsi que par l'accord bilatéral d'exécution des peines conclu entre la Belgique et ce Tribunal.
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 24, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 55bis
+
+[<sup>1</sup> La Belgique exécute les mesures de confiscation ordonnées par le Tribunal sans préjudice des droits des tiers de bonne foi. Lorsqu'une demande tendant à l'exécution d'une décision de confiscation est adressée par le Tribunal à la Belgique, le tribunal correctionnel de l'arrondissement judiciaire où les biens sur lesquels porte la confiscation sont situés rend cette décision exécutoire, après avoir entendu le ministère public et la personne condamnée ou son conseil. Lorsqu'il est impossible de donner effet à l'ordonnance de confiscation, des mesures de confiscation par équivalent, visées à [<sup>3</sup> l'article 53, § 2, alinéa 2]<sup>3</sup>, du Code pénal, sont prises sans préjudice des droits des tiers de bonne foi. [<sup>2</sup> Les sommes d'argent, les biens mobiliers et immobiliers, ou le produit de leur vente, obtenus en exécution d'un arrêt du Tribunal, sont intégralement transférés au Tribunal à l'initiative du ministère public. Celui-ci informe l'autorité centrale de tout transfert au Tribunal en application du présent article.]<sup>2</sup>]<sup>1</sup> [<sup>2</sup> Dans la mesure de ses compétences, l'Organe central pour la Saisie et la Confiscation assiste, à sa demande, le ministère public pour l'exécution du présent article.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 25, 004; En vigueur : 28-03-2014&gt;
+
+(2)&lt;L 2021-11-28/01, art. 52, 007; En vigueur : 10-12-2021&gt;
+
+(3)&lt;L 2026-03-03/04, art. 104, 009; En vigueur : 01-09-2026&gt;
+
+## TITRE IV. - Dispositions abrogatoires et transitoires.
+
+##### Art. 56
+
+§ 1er. La loi du 22 mars 1996 relative à la reconnaissance du Tribunal international pour l'ex-Yougoslavie et du Tribunal international pour le Rwanda et à la coopération avec ces tribunaux est abrogée à la date de l'entrée en vigueur de la présente loi.
+
+§ 2. L'article 28 de la loi du 5 août 2003 relative aux violations graves du droit international humanitaire est abrogé à la date d'entrée en vigueur de la présente loi.
+
+##### Art. 57
+
+Les actes de coopération, dans le cadre de la loi du 22 mars 1996 relative à la reconnaissance du Tribunal international pour l'ex-Yougoslavie et le Tribunal international pour le Rwanda et à la coopération avec ces tribunaux, en cours d'exécution au moment de l'entrée en vigueur de la présente loi, continuent d'être exécutés dans le cadre de la présente loi.
+
+## TITRE V. - Coopération avec le Tribunal Spécial pour la Sierra Leone. &lt;inséré par L 2006-07-01/60, art. 2; En vigueur : 07-08-2006&gt;
+
+### CHAPITRE Ier. - Généralités. &lt;inséré par L 2006-07-01/60, art. 3; En vigueur : 07-08-2006&gt;
+
+##### Art. 58
+
+&lt;L 2006-07-01/60, art. 4, 002; En vigueur : 07-08-2006&gt; Aux fins du Titre V de la présente loi, les termes ci-après désignent :
+
+\- " Tribunal " : le Tribunal Spécial pour la Sierra Leone créé par l'accord international du 16 janvier 2002 conclu entre les Nations unies et le gouvernement de la Sierra Leone, et découlant de la résolution 1315 (2000) du 14 août 2000 du Conseil de Sécurité des Nations unies [<sup>1</sup> et le Tribunal Spécial Résiduel pour la Sierra Leone créé par l'accord international des 29 juillet (New York) et 11 août 2010 (Freetown) conclu entre les Nations unies et le gouvernement de la Sierra Leone, et découlant de la résolution 1315 (2000) du 14 août 2000 du Conseil de Sécurité des Nations unies]<sup>1</sup>;
+
+\- " Statut " : le Statut du Tribunal Spécial pour la Sierra Leone annexé à la lettre du Secrétaire-général des Nations unies, adressée le 6 mars 2002 au Président du Conseil de Sécurité des Nations unies [<sup>1</sup> et le Statut du Tribunal Spécial Résiduel pour la Sierra Leone, annexé à l'accord international des 29 juillet (New York) et 11 août 2010 (Freetown) conclu entre les Nations unies et le gouvernement de la Sierra Leone]<sup>1</sup>;
+
+\- " Procureur " : le procureur du Tribunal ainsi que toute personne autorisée par lui ou travaillant sous son autorité dans le cadre des fonctions qui lui incombent en vertu du Statut ";
+
+[<sup>1</sup> - "Autorité centrale" : l'autorité compétente en matière de coopération entre la Belgique et le Tribunal, soit, au sein du Service public fédéral Justice, le service de droit international humanitaire, désigné par l'arrêté royal du 17 septembre 2005 relatif à la création d'un service de droit international humanitaire;
+
+\- "Ministère public" : le procureur fédéral.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 26, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 59
+
+&lt;inséré par L 2006-07-01/60, art. 5; En vigueur : 07-08-2006&gt; Conformément aux dispositions de la présente loi, la Belgique peut donner suite aux demandes de coopération formulées par le Tribunal.
+
+##### Art. 60
+
+[<sup>1</sup> § 1er. L'autorité centrale est compétente pour recevoir les demandes émanant du Tribunal, pour transmettre au Tribunal les demandes de coopération provenant des autorités belges compétentes et pour transmettre au Tribunal toute information à caractère judiciaire pouvant relever de la compétence du Tribunal. Elle en assure le suivi.
+
+§ 2. Les demandes du Tribunal sont adressées à l'autorité centrale par tout moyen de communication laissant une trace écrite. Elles doivent être rédigées dans une des langues officielles de la Belgique ou, à défaut, être accompagnées d'une traduction certifiée conforme dans l'une de ces langues.
+
+§ 3. Les autorités belges compétentes peuvent solliciter la coopération du Tribunal. Les demandes sont transmises par l'intermédiaire de l'autorité centrale. Les autorités belges sont tenues de respecter les conditions dont le Tribunal assortit l'exécution de la demande. Les pièces justificatives, si elles ne sont pas rédigées dans une des langues de travail du Tribunal, doivent être accompagnées d'une traduction dans l'une de ces langues.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 27, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 61
+
+&lt;inséré par L 2006-07-01/60, art. 7; En vigueur : 07-08-2006&gt; Les autorités compétentes accordent au Tribunal leur pleine et entière coopération judiciaire dans toutes les procédures découlant d'une demande de coopération du Tribunal à laquelle l'autorité centrale a décidé de donner suite.
+
+### CHAPITRE II. - Entraide judiciaire. &lt;inséré par L 2006-07-01/60, art. 8; En vigueur : 07-08-2006&gt;
+
+##### Art. 62
+
+&lt;inséré par L 2006-07-01/60, art. 9; En vigueur : 07-08-2006&gt; § 1er. Les demandes du procureur ou les ordonnances du Tribunal visant à l'accomplissement de mesures relatives à la collecte et à la production d'éléments qui concernent notamment l'identification et la recherche des personnes, la réunion de témoignages, la production de preuves et l'expédition de documents, et qui sont nécessaires à l'instruction ou à la bonne conduite du procès, sont exécutées selon la procédure prévue par la législation belge et, à moins que cette législation ne l'interdise, comme il est dit dans la demande.
+
+§ 2. [<sup>1</sup> La demande du procureur ou l'ordonnance du Tribunal qui porte sur une mesure de contrainte pour laquelle un juge d'instruction est seul compétent est exécutée par le juge d'instruction de l'arrondissement judiciaire où est situé le lieu où la mesure doit être exécutée.
+
+Toutefois, si plusieurs mesures d'exécution sont sollicitées, le ministère public peut charger un des juges territorialement compétents de l'exécution de l'ensemble de ces mesures.]<sup>1</sup>
+
+§ 3. [<sup>1</sup> Les perquisitions et saisies demandées par le Tribunal sont exécutées conformément à la loi belge sans qu'il soit requis que la demande soit rendue exécutoire. Avant de transmettre les pièces au Tribunal, la chambre du conseil du tribunal de première instance de l'arrondissement où les pièces ont été déposées statue, dans les cinq jours de sa saisine, sur la transmission des pièces au Tribunal et se prononce, le cas échéant sur la réclamation des tiers détenteurs ou des tiers prétendant droit sur la chose saisie, que le greffe de la chambre du conseil aura préalablement convoqués par envoi recommandé. Elle statue en dernier ressort et sans possibilité de tierce opposition.]<sup>1</sup>
+
+§ 4. Lorsque le Tribunal a octroyé le statut de témoin protégé à une personne et demande à la Belgique de mettre en oeuvre des mesures de protection en sa faveur, l'autorité centrale, après avoir consulté le président de la commission de protection des témoins établie par l'article 103 du Code d'instruction criminelle, décide quelles sont les mesures visées à l'article 104 du même Code dont il convient de faire bénéficier cette personne.
+
+Indépendamment des mesures accordées au témoin protégé, et lorsqu'elle le juge nécessaire, l'autorité centrale peut également accorder aux proches de cette personne des mesures de protection visées à l'article 104.
+
+Ces mesures sont mises en oeuvre de la même manière que les mesures octroyées au bénéfice d'un témoin menacé, d'un membre de sa famille ou d'un autre parent, visés par l'article 102 du même Code. [<sup>1</sup> Compte tenu du principe de proportionnalité, il peut être accordé cumulativement ou successivement des mesures de protection ordinaires et spéciales.]<sup>1</sup>
+
+[<sup>1</sup> Par dérogation à l'article 106 du Code d'instruction criminelle, un changement d'identité peut être accordé à un témoin protégé et à ses proches, par décision de l'autorité centrale, après avoir consulté le président de la commission de protection des témoins.
+
+La nouvelle identité est déterminée sur proposition du service de protection des témoins, après concertation avec la personne concernée ou son représentant légal, et est communiquée à l'autorité centrale par l'intermédiaire du président de la commission de protection des témoins.
+
+La procédure de changement d'identité n'est pas uniquement limitée aux personnes qui possèdent la nationalité belge.
+
+L'autorité centrale peut requérir toute autorité compétente pour assurer la mise en oeuvre de cette décision. Dans ce cadre, l'autorité centrale peut imposer des conditions particulières ou des mesures complémentaires permettant de garantir la protection des témoins.
+
+Le changement des nom, prénoms, date et lieu de naissance est exempté du droit d'enregistrement.
+
+Par dérogation à l'article [<sup>2</sup> 29]<sup>2</sup> du Code civil, il ne peut être délivré un extrait ou une copie d'un acte de l'état civil concernant une personne qui a fait l'objet d'un changement d'identité en application du présent paragraphe qu'avec l'autorisation expresse de l'autorité centrale, après consultation du président de la commission de protection des témoins. Il en va de même pour tout document ou certificat que le Commissariat général aux réfugiés et aux apatrides ou l'Office des Etrangers serait amené à délivrer à la requête de l'autorité centrale.
+
+Il ne peut y avoir d'infraction quand des faits absolument nécessaires sont commis dans le cadre des alinéas 4 à 9 du présent paragraphe, en vue de garantir la protection du témoin.]<sup>1</sup>
+
+Lorsque le Tribunal met fin au statut de témoin protégé en faveur d'une personne visée à l'alinéa [<sup>1</sup> 1er]<sup>1</sup>, l'autorité centrale détermine s'il convient de maintenir les mesures mises en oeuvre à son égard ou à l'égard des autres personnes.
+
+[<sup>1</sup> § 5. Toute personne qui est détenue en Belgique peut être, à la demande du Tribunal, transférée temporairement à celui-ci afin qu'il puisse l'identifier, entendre son témoignage ou obtenir d'elle un quelque autre concours d'assistance.
+
+Cette personne peut être transférée, si les conditions suivantes sont remplies :
+
+1° la personne donne, librement et en connaissance de cause, son consentement au transfèrement; et
+
+2° l'autorité centrale donne son accord au transfèrement au Tribunal, sous réserve des conditions dont ils peuvent convenir.
+
+Le transfert temporaire de détenus est organisé par l'autorité centrale en liaison avec le greffier et les autorités de l'Etat hôte du Tribunal.
+
+Les délais en matière de détention préventive sont suspendus pendant la durée de l'absence du territoire de la personne concernée.
+
+§ 6. Sur demande du Tribunal, l'autorité centrale autorise le transport à travers le territoire de la Belgique de toute personne transférée au Tribunal par un autre Etat, sauf dans le cas où le transit gênerait ou retarderait la remise.
+
+Si un atterrissage imprévu a lieu sur le territoire belge, une demande de transit peut être exigée du Tribunal. La personne transportée est placée en détention en attendant la demande et l'accomplissement du transit. Toutefois, la détention ne peut se prolonger au-delà de nonante-six heures après l'atterrissage imprévu si la demande n'est pas reçue dans ce délai.
+
+§ 7. Sur demande du Tribunal, l'autorité centrale autorise le transport à travers le territoire de la Belgique de toute personne détenue à l'étranger, dans le cadre de l'exécution d'une demande d'entraide judiciaire au siège du Tribunal. Le titre de détention de l'intéressé produira ses effets sur le territoire belge le temps nécessaire à son passage.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 28, 004; En vigueur : 28-03-2014&gt;
+
+(2)&lt;L 2021-11-28/01, art. 53, 007; En vigueur : 10-12-2021&gt;
+
+##### Art. 63
+
+&lt;inséré par L 2006-07-01/60, art. 10; En vigueur : 07-08-2006&gt; L'autorité judiciaire compétente saisie informe le Tribunal de la date et du lieu de l'exécution de la mesure requise. Le Procureur ou le juge requérant sont autorisés à assister à cette exécution.
+
+### CHAPITRE III. [<sup>1</sup> - Exécution des peines]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 29, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 63bis
+
+[<sup>1</sup> § 1er. Dans la mesure où la Belgique a conclu un accord bilatéral d'exécution des peines avec le Tribunal, la peine d'emprisonnement est directement et immédiatement exécutoire en Belgique.
+
+§ 2. Dans les vingt-quatre heures suivant son arrivée dans l'établissement pénitentiaire qui lui a été assigné, la personne transférée comparaît devant le procureur du Roi près le tribunal de première instance de l'arrondissement judiciaire où est situé le lieu de la détention. Le procureur du Roi procède à l'interrogatoire d'identité, en dresse procès-verbal et, au vu de l'original ou d'une expédition du jugement du Tribunal, ordonne l'incarcération immédiate du condamné.
+
+§ 3. Les procédures de libération anticipée sont régies exclusivement par le Statut du Tribunal. Les décisions rendues par le Tribunal sont exécutoires immédiatement en Belgique.
+
+Dans ce cadre, les dispositions de la législation belge relatives aux modalités d'exécution des peines ne s'appliquent pas au détenu qui exécute, en Belgique, une peine privative de liberté prononcée par le Tribunal.
+
+§ 4. L'autorité centrale, après consultation de l'administration pénitentiaire, rend un avis circonstancié lorsque le Tribunal, dans l'exercice de ses compétences en matière de libération anticipée, le lui demande.
+
+§ 5. En cas de raisons médicales qui nécessiteraient une libération anticipée, l'autorité centrale en avise dès que possible le Tribunal, seul compétent pour décider d'une telle libération.
+
+§ 6. La demande de révision de la décision du Tribunal sur la culpabilité ou sur la peine, la décision de révision et son application sont régies par le Statut du Tribunal ainsi que par l'accord bilatéral d'exécution des peines conclu entre la Belgique et le Tribunal.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 30, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 63ter
+
+[<sup>1</sup> La Belgique exécute les mesures de confiscation ordonnées par le Tribunal sans préjudice des droits des tiers de bonne foi. Lorsqu'une demande tendant à l'exécution d'une décision de confiscation est adressée par le Tribunal à la Belgique, le tribunal correctionnel de l'arrondissement judiciaire où les biens sur lesquels porte la confiscation sont situés rend cette décision exécutoire, après avoir entendu le ministère public et la personne condamnée ou son conseil. Lorsqu'il est impossible de donner effet à l'ordonnance de confiscation, des mesures de confiscation par équivalent, visées à [<sup>3</sup> l'article 53, § 2, alinéa 2]<sup>3</sup>, du Code pénal, sont prises sans préjudice des droits des tiers de bonne foi. [<sup>2</sup> Les sommes d'argent, les biens mobiliers et immobiliers, ou le produit de leur vente, obtenus en exécution d'un arrêt du Tribunal, sont intégralement transférés au Tribunal à l'initiative du ministère public. Celui-ci informe l'autorité centrale de tout transfert au Tribunal en application du présent article.]<sup>2</sup>]<sup>1</sup> [<sup>2</sup> Dans la mesure de ses compétences, l'Organe central pour la Saisie et la Confiscation assiste, à sa demande, le ministère public pour l'exécution du présent article.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 31, 004; En vigueur : 28-03-2014&gt;
+
+(2)&lt;L 2021-11-28/01, art. 54, 007; En vigueur : 10-12-2021&gt;
+
+(3)&lt;L 2026-03-03/04, art. 105, 009; En vigueur : 01-09-2026&gt;
+
+## TITRE VI. - Coopération avec les Chambres extraordinaires chargées de poursuivre les crimes commis sous le régime du Kampuchéa démocratique. &lt;inséré par L 2006-07-01/65, art. 2 ; En vigueur : 12-08-2006&gt;
+
+### CHAPITRE Ier. - Généralités. &lt;inséré par L 2006-07-01/65, art. 3; En vigueur : 12-08-2006&gt;
+
+##### Art. 64
+
+&lt;inséré par L 2006-07-01/65, art. 4; En vigueur : 12-08-2006&gt; Aux fins du titre VI de la présente loi, les termes ci-après désignent :
+
+\- " Chambres extraordinaires " : les Chambres extraordinaires créées par la loi cambodgienne du 10 août 2001 portant création des Chambres extraordinaires chargées de poursuivre les crimes commis sous le régime du [<sup>1</sup> Kampuchéa]<sup>1</sup> démocratique, telle qu'amendée par la loi cambodgienne du 27 octobre 2004 approuvant la ratification de l'accord international du 17 mars 2003 conclu entre l'Organisation des Nations unies et le Gouvernement royal cambodgien;
+
+\- " Statut " : la loi cambodgienne du 10 août 2001 portant création des Chambres extraordinaires chargées de poursuivre les crimes commis sous le régime du [<sup>1</sup> Kampuchéa]<sup>1</sup> démocratique, telle qu'amendée par la loi cambodgienne du 27 octobre 2004 approuvant la ratification de l'accord international du 17 mars 2003 conclu entre l'Organisation des Nations unies et le Gouvernement royal cambodgien;
+
+\- " Juge d'instruction " : les juges d'instruction chargés de l'instruction, ainsi que toute personne autorisée par eux ou travaillant sous leur autorité dans le cadre des fonctions qui leur incombent en vertu du statut;
+
+\- " Procureur " : les procureurs chargés des poursuites, ainsi que toute personne autorisée par eux ou travaillant sous leur autorité dans le cadre des fonctions qui leur incombent en vertu du statut;
+
+[<sup>1</sup> - "Autorité centrale" : l'autorité compétente en matière de coopération entre la Belgique et les Chambres extraordinaires, soit, au sein du Service public fédéral Justice, le service de droit international humanitaire, désigné par l'arrêté royal du 17 septembre 2005 relatif à la création d'un service de droit international humanitaire;
+
+\- "Ministère public " : le procureur fédéral.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 32, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 65
+
+&lt;inséré par L 2006-07-01/65, art. 5; En vigueur : 12-08-2006&gt; Conformément aux dispositions de la présente loi, la Belgique peut donner suite aux demandes de coopération formulées par les Chambres extraordinaires.
+
+##### Art. 66
+
+[<sup>1</sup> § 1er. L'autorité centrale est compétente pour recevoir les demandes formulées par les Chambres extraordinaires, pour transmettre aux Chambres extraordinaires les demandes de coopération provenant des autorités belges compétentes et pour transmettre aux Chambres extraordinaires toute information à caractère judiciaire pouvant relever de la compétence des Chambres extraordinaires. Elle en assure le suivi.
+
+§ 2. Les demandes des Chambres extraordinaires sont adressées à l'autorité centrale par tout moyen de communication laissant une trace écrite. Elles doivent être rédigées dans une des langues officielles de la Belgique ou, à défaut, être accompagnées d'une traduction certifiée conforme dans l'une de ces langues.
+
+§ 3. Les autorités belges compétentes peuvent solliciter la coopération des Chambres extraordinaires. Les demandes sont transmises par l'intermédiaire de l'autorité centrale. Les autorités belges sont tenues de respecter les conditions dont les Chambres extraordinaires assortissent l'exécution de la demande. Les pièces justificatives, si elles ne sont pas rédigées dans une des langues de travail des Chambres extraordinaires, doivent être accompagnées d'une traduction dans l'une de ces langues.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 33, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 67
+
+&lt;inséré par L 2006-07-01/65, art. 7; En vigueur : 12-08-2006&gt; Les autorités compétentes accordent aux Chambres extraordinaires leur pleine et entière coopération judiciaire dans toutes les procédures découlant d'une demande de coopération des Chambres extraordinaires à laquelle l'autorité centrale a décidé de donner suite.
+
+### CHAPITRE II. - Entraide judiciaire. &lt;inséré par L 2006-07-01/65, art. 8; En vigueur : 12-08-2006&gt;
+
+##### Art. 68
+
+&lt;inséré par L 2006-07-01/65, art. 9; En vigueur : 12-08-2006&gt; § 1er. Les demandes du procureur ou du juge d'instruction, ou les ordonnances des Chambres extraordinaires visant à l'accomplissement de mesures relatives à la collecte et à la production d'éléments qui concernent notamment l'identification et la recherche des personnes, la réunion de témoignages, la production de preuves et l'expédition de documents, et qui sont nécessaires à l'instruction ou à la bonne conduite du procès, sont exécutées selon la procédure prévue par la législation belge et, à moins que cette législation ne l'interdise, comme il est dit dans la demande.
+
+§ 2. [<sup>1</sup> La demande du procureur ou du juge d'instruction, ou l'ordonnance des Chambres extraordinaires qui porte sur une mesure de contrainte pour laquelle un juge d'instruction est seul compétent est exécutée par le juge d'instruction de l'arrondissement judiciaire où est situé le lieu où la mesure doit être exécutée.
+
+Toutefois, si plusieurs mesures d'exécution sont sollicitées, le ministère public peut charger un des juges territorialement compétents de l'exécution de l'ensemble de ces mesures.]<sup>1</sup>
+
+§ 3. [<sup>1</sup> Les perquisitions et saisies demandées par les Chambres extraordinaires sont exécutées conformément à la loi belge sans qu'il soit requis que la demande soit rendue exécutoire. Avant de transmettre les pièces aux Chambres extraordinaires, la chambre du conseil du tribunal de première instance de l'arrondissement où les pièces ont été déposées statue, dans les cinq jours de sa saisine, sur la transmission des pièces aux Chambres extraordinaires et se prononce, le cas échéant, sur la réclamation des tiers détenteurs ou des tiers prétendant droit sur la chose saisie, que le greffe de la chambre du conseil aura préalablement convoqués par envoi recommandé. Elle statue en dernier ressort et sans possibilité de tierce opposition.]<sup>1</sup>
+
+§ 4. Lorsque le Juge d'instruction, le procureur ou les Chambres extraordinaires ont octroyé le statut de témoin protégé à une personne et demandent à la Belgique de mettre en oeuvre des mesures de protection en sa faveur, l'autorité centrale, après avoir consulté le président de la commission de protection des témoins établie par l'article 103 du Code d'instruction criminelle, décide quelles sont les mesures visées à l'article 104 du même Code dont il convient de faire bénéficier cette personne. Indépendamment des mesures accordées au témoin protégé, et lorsqu'elle le juge nécessaire, l'autorité centrale peut également accorder aux proches de cette personne des mesures de protection visées à l'article 104. Ces mesures sont mises en oeuvre de la même manière que les mesures octroyées au bénéfice d'un témoin menacé, d'un membre de sa famille ou d'un autre parent, visés par l'article 102 du même Code. [<sup>1</sup> Compte tenu du principe de proportionnalité, il peut être accordé cumulativement ou successivement des mesures de protection ordinaires et spéciales.]<sup>1</sup>
+
+[<sup>1</sup> Par dérogation à l'article 106 du Code d'instruction criminelle, un changement d'identité peut être accordé à un témoin protégé et à ses proches, par décision de l'autorité centrale, après avoir consulté le président de la commission de protection des témoins.
+
+La nouvelle identité est déterminée sur proposition du service de protection des témoins, après concertation avec la personne concernée ou son représentant légal, et est communiquée à l'autorité centrale par l'intermédiaire du président de la commission de protection des témoins.
+
+La procédure de changement d'identité n'est pas uniquement limitée aux personnes qui possèdent la nationalité belge.
+
+L'autorité centrale peut requérir toute autorité compétente pour assurer la mise en oeuvre de cette décision. Dans ce cadre, l'autorité centrale peut imposer des conditions particulières ou des mesures complémentaires permettant de garantir la protection des témoins.
+
+Le changement des nom, prénoms, date et lieu de naissance est exempté du droit d'enregistrement.
+
+Par dérogation à l'article [<sup>2</sup> 29]<sup>2</sup> du Code civil, il ne peut être délivré un extrait ou une copie d'un acte de l'état civil concernant une personne qui a fait l'objet d'un changement d'identité en application du présent paragraphe qu'avec l'autorisation expresse de l'autorité centrale, après consultation du président de la commission de protection des témoins. Il en va de même pour tout document ou certificat que le Commissariat général aux réfugiés et aux apatrides ou l'Office des Etrangers serait amené à délivrer à la requête de l'autorité centrale.
+
+Il ne peut y avoir d'infraction quand des faits absolument nécessaires sont commis dans le cadre des alinéas 2 à 7 du présent paragraphe, en vue de garantir la protection du témoin.]<sup>1</sup>
+
+Lorsque le juge d'instruction, le procureur ou les Chambres extraordinaires mettent fin au statut de témoin protégé en faveur d'une personne visée à l'alinéa [<sup>1</sup> 1er]<sup>1</sup>, l'autorité centrale détermine s'il convient de maintenir les mesures mises en oeuvre à son égard ou à l'égard des autres personnes.
+
+[<sup>1</sup> § 5. Toute personne qui est détenue en Belgique peut être, à la demande des Chambres extraordinaires, transférée temporairement à celles-ci afin qu'elles puissent l'identifier, entendre son témoignage ou obtenir d'elle un quelque autre concours d'assistance.
+
+Cette personne peut être transférée, si les conditions suivantes sont remplies :
+
+1° la personne donne, librement et en connaissance de cause, son consentement au transfèrement; et
+
+2° l'autorité centrale donne son accord au transfèrement aux Chambres extraordinaires, sous réserve des conditions dont elles peuvent convenir.
+
+Le transfert temporaire de détenus est organisé par l'autorité centrale en liaison avec le greffier et les autorités de l'Etat hôte des Chambres extraordinaires.
+
+Les délais en matière de détention préventive sont suspendus pendant la durée de l'absence du territoire de la personne concernée.
+
+§ 6. Sur demande des Chambres extraordinaires, l'autorité centrale autorise le transport à travers le territoire de la Belgique de toute personne transférée aux Chambres extraordinaires par un autre Etat, sauf dans le cas où le transit gênerait ou retarderait la remise.
+
+Si un atterrissage imprévu a lieu sur le territoire belge, une demande de transit peut être exigée des Chambres extraordinaires. La personne transportée est placée en détention en attendant la demande et l'accomplissement du transit. Toutefois, la détention ne peut se prolonger au-delà de nonante-six heures après l'atterrissage imprévu si la demande n'est pas reçue dans ce délai.
+
+§ 7. Sur demande des Chambres extraordinaires, l'autorité centrale autorise le transport à travers le territoire de la Belgique de toute personne détenue à l'étranger, dans le cadre de l'exécution d'une demande d'entraide judiciaire au siège des Chambres extraordinaires. Le titre de détention de l'intéressé produira ses effets sur le territoire belge le temps nécessaire à son passage.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 34, 004; En vigueur : 28-03-2014&gt;
+
+(2)&lt;L 2021-11-28/01, art. 55, 007; En vigueur : 10-12-2021&gt;
+
+##### Art. 69
+
+&lt;inséré par L 2006-07-01/65, art. 10; En vigueur : 12-08-2006&gt; L'autorité judiciaire compétente saisie informe les Chambres extraordinaires de la date et du lieu de l'exécution de la mesure requise. Le Procureur ou le juge requérant sont autorisés à assister à cette exécution.
+
+### CHAPITRE III. [<sup>1</sup> - Exécution des peines]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 35, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 69bis
+
+[<sup>1</sup> La Belgique exécute les mesures de confiscation ordonnées par les Chambres extraordinaires sans préjudice des droits des tiers de bonne foi. Lorsqu'une demande tendant à l'exécution d'une décision de confiscation est adressée par les Chambres extraordinaires à la Belgique, le tribunal correctionnel de l'arrondissement judiciaire où les biens sur lesquels porte la confiscation sont situés rend cette décision exécutoire, après avoir entendu le ministère public et la personne condamnée ou son conseil. Lorsqu'il est impossible de donner effet à l'ordonnance de confiscation, des mesures de confiscation par équivalent, visées à [<sup>3</sup> l'article 53, § 2, alinéa 2]<sup>3</sup>, du Code pénal, peuvent être ordonnées par le tribunal correctionnel du lieu où sont situés les biens sur lesquels porte la confiscation, sans préjudice des droits des tiers de bonne foi. [<sup>2</sup> Les sommes d'argent, les biens mobiliers et immobiliers, ou le produit de leur vente, obtenus en exécution d'un arrêt des Chambres extraordinaires, sont intégralement transférés aux Chambres extraordinaires à l'initiative du ministère public. Celui-ci informe l'autorité centrale de tout transfert aux Chambres extraordinaires en application du présent article.]<sup>2</sup>]<sup>1</sup> [<sup>2</sup> Dans la mesure de ses compétences, l'Organe central pour la Saisie et la Confiscation assiste, à sa demande, le ministère public pour l'exécution du présent article.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 36, 004; En vigueur : 28-03-2014&gt;
+
+(2)&lt;L 2021-11-28/01, art. 56, 007; En vigueur : 10-12-2021&gt;
+
+(3)&lt;L 2026-03-03/04, art. 106, 009; En vigueur : 01-09-2026&gt;
+
+## TITRE VIbis. [<sup>1</sup> - Coopération avec le Tribunal Spécial pour le Liban]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 37, 004; En vigueur : 28-03-2014&gt;
+
+### CHAPITRE Ier. [<sup>1</sup> - Généralités]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 38, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 70
+
+[<sup>1</sup> Aux fins du titre VIbis de la présente loi, les termes ci-après désignent :
+
+\- "Tribunal" : le Tribunal Spécial pour le Liban créé par l'accord international du 6 février 2007 conclu entre les Nations unies et le gouvernement du Liban, découlant de la résolution 1664 (2006) du 29 mars 2006 adoptée par le Conseil de sécurité des Nations unies;
+
+\- "Statut" : le Statut du Tribunal Spécial pour le Liban annexé à la résolution 1757 (2007) du 30 mai 2007 adoptée par le Conseil de sécurité des Nations unies;
+
+\- "Procureur" : le procureur du Tribunal ainsi que toute personne autorisée par lui ou travaillant sous son autorité dans le cadre des fonctions qui lui incombent en vertu du Statut;
+
+\- "Autorité centrale" : l'autorité compétente en matière de coopération entre la Belgique et le Tribunal spécial pour le Liban, soit, au sein du Service public fédéral Justice, le service de droit international humanitaire, désigné par l'arrêté royal du 17 septembre 2005 relatif à la création d'un service de droit international humanitaire;
+
+\- "Ministère public" : le procureur fédéral.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 39, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 71
+
+[<sup>1</sup> Conformément aux dispositions de la présente loi, la Belgique peut donner suite aux demandes de coopération formulées par le Tribunal.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 40, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 72
+
+[<sup>1</sup> § 1er. L'autorité centrale est compétente pour recevoir les demandes émanant du Tribunal, pour transmettre au Tribunal les demandes de coopération provenant des autorités belges compétentes et pour transmettre au Tribunal toute information à caractère judiciaire pouvant relever de la compétence du Tribunal. Elle en assure le suivi.
+
+§ 2. Les demandes du Tribunal sont adressées à l'autorité centrale par tout moyen de communication laissant une trace écrite. Elles doivent être rédigées dans une des langues officielles de la Belgique ou, à défaut, être accompagnées d'une traduction certifiée conforme dans l'une de ces langues.
+
+§ 3. Les autorités belges compétentes peuvent solliciter la coopération du Tribunal. Les demandes sont transmises par l'intermédiaire de l'autorité centrale. Les autorités belges sont tenues de respecter les conditions dont le Tribunal assortit l'exécution de la demande. Les pièces justificatives, si elles ne sont pas rédigées dans une des langues de travail du Tribunal, doivent être accompagnées d'une traduction dans l'une de ces langues.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 41, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 73
+
+[<sup>1</sup> Les autorités compétentes accordent au Tribunal leur pleine et entière coopération judiciaire dans toutes les procédures découlant d'une demande de coopération du Tribunal à laquelle l'autorité centrale a décidé de donner suite.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 42, 004; En vigueur : 28-03-2014&gt;
+
+### CHAPITRE II. [<sup>1</sup> - Entraide judiciaire]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 43, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 74
+
+[<sup>1</sup> § 1er. Les demandes du procureur ou les ordonnances du Tribunal visant à l'accomplissement de mesures relatives à la collecte et à la production d'éléments qui concernent notamment l'identification et la recherche des personnes, la réunion de témoignages, la production de preuves et l'expédition de documents, et qui sont nécessaires à l'instruction ou à la bonne conduite du procès, sont exécutées selon la procédure prévue par la législation belge et, à moins que cette législation ne l'interdise, comme il est dit dans la demande.
+
+§ 2. La demande du procureur ou l'ordonnance du Tribunal qui porte sur une mesure de contrainte pour laquelle un juge d'instruction est seul compétent est exécutée par le juge d'instruction de l'arrondissement judiciaire où est situé le lieu où la mesure doit être exécutée.
+
+Toutefois, si plusieurs mesures d'exécution sont sollicitées, le ministère public peut charger un des juges territorialement compétents de l'exécution de l'ensemble de ces mesures.
+
+§ 3. Les perquisitions et saisies demandées par le Tribunal sont exécutées conformément à la loi belge sans qu'il soit requis que la demande soit rendue exécutoire. Avant de transmettre les pièces au Tribunal, la chambre du conseil du tribunal de première instance de l'arrondissement où les pièces ont été déposées statue, dans les cinq jours de sa saisine, sur la transmission des pièces au Tribunal et se prononce, le cas échéant, sur la réclamation des tiers détenteurs ou des tiers prétendant droit sur la chose saisie, que le greffe de la chambre du conseil aura préalablement convoqués par envoi recommandé. Elle statue en dernier ressort et sans possibilité de tierce opposition.
+
+§ 4. Lorsque le Tribunal a octroyé le statut de témoin protégé à une personne et demande à la Belgique de mettre en oeuvre des mesures de protection en sa faveur, l'autorité centrale, après avoir consulté le président de la commission de protection des témoins établie par l'article 103 du Code d'instruction criminelle, décide quelles sont les mesures visées à l'article 104 du même Code dont il convient de faire bénéficier cette personne. Indépendamment des mesures accordées au témoin protégé, et lorsqu'elle le juge nécessaire, l'autorité centrale peut également accorder aux proches de cette personne des mesures de protection visées à l'article 104. Ces mesures sont mises en oeuvre de la même manière que les mesures octroyées au bénéfice d'un témoin menacé, d'un membre de sa famille ou d'un autre parent, visés à l'article 102 du même Code. Compte tenu du principe de proportionnalité, il peut être accordé cumulativement ou successivement des mesures de protection ordinaires et spéciales.
+
+Par dérogation à l'article 106 du Code d'instruction criminelle, un changement d'identité peut être accordé à un témoin protégé et à ses proches, par décision de l'autorité centrale, après avoir consulté le président de la commission de protection des témoins.
+
+La nouvelle identité est déterminée sur proposition du service de protection des témoins, après concertation avec la personne concernée ou son représentant légal, et est communiquée à l'autorité centrale par l'intermédiaire du président de la commission de protection des témoins.
+
+La procédure de changement d'identité n'est pas uniquement limitée aux personnes qui possèdent la nationalité belge.
+
+L'autorité centrale peut requérir toute autorité compétente pour assurer la mise en oeuvre de cette décision. Dans ce cadre, l'autorité centrale peut imposer des conditions particulières ou des mesures complémentaires permettant de garantir la protection des témoins.
+
+Le changement des nom, prénoms, date et lieu de naissance est exempté du droit d'enregistrement.
+
+Par dérogation à l'article [<sup>2</sup> 29]<sup>2</sup> du Code civil, il ne peut être délivré un extrait ou une copie d'un acte de l'état civil concernant une personne qui a fait l'objet d'un changement d'identité en application du présent paragraphe qu'avec l'autorisation expresse de l'autorité centrale, après consultation du président de la commission de protection des témoins. Il en va de même pour tout document ou certificat que le Commissariat général aux réfugiés et aux apatrides ou l'Office des Etrangers serait amené à délivrer à la requête de l'autorité centrale.
+
+Il ne peut y avoir d'infraction quand des faits absolument nécessaires sont commis dans le cadre des alinéas 2 à 7 du présent paragraphe, en vue de garantir la protection du témoin.
+
+Lorsque le Tribunal met fin au statut de témoin protégé en faveur d'une personne visée à l'alinéa 1er, l'autorité centrale détermine s'il convient de maintenir les mesures mises en oeuvre à son égard ou à l'égard des autres personnes.
+
+§ 5. Toute personne qui est détenue en Belgique peut être, à la demande du Tribunal, transférée temporairement à celui-ci afin qu'il puisse l'identifier, entendre son témoignage ou obtenir d'elle un quelque autre concours d'assistance.
+
+Cette personne peut être transférée, si les conditions suivantes sont remplies :
+
+1° la personne donne, librement et en connaissance de cause, son consentement au transfèrement; et
+
+2° l'autorité centrale donne son accord au transfèrement au Tribunal, sous réserve des conditions dont ils peuvent convenir.
+
+Le transfert temporaire de détenus est organisé par l'autorité centrale en liaison avec le greffier et les autorités de l'Etat hôte du Tribunal.
+
+Les délais en matière de détention préventive sont suspendus pendant la durée de l'absence du territoire de la personne concernée.
+
+§ 6. Sur demande du Tribunal, l'autorité centrale autorise le transport à travers le territoire de la Belgique de toute personne transférée au Tribunal par un autre Etat, sauf dans le cas où le transit gênerait ou retarderait la remise.
+
+Si un atterrissage imprévu a lieu sur le territoire belge, une demande de transit peut être exigée du Tribunal. La personne transportée est placée en détention en attendant la demande et l'accomplissement du transit. Toutefois, la détention ne peut se prolonger au-delà de nonante-six heures après l'atterrissage imprévu si la demande n'est pas reçue dans ce délai.
+
+§ 7. Sur demande du Tribunal, l'autorité centrale autorise le transport à travers le territoire de la Belgique de toute personne détenue à l'étranger, dans le cadre de l'exécution d'une demande d'entraide au siège du Tribunal. Le titre de détention de l'intéressé produira ses effets sur le territoire belge le temps nécessaire à son passage.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 44, 004; En vigueur : 28-03-2014&gt;
+
+(2)&lt;L 2021-11-28/01, art. 57, 007; En vigueur : 10-12-2021&gt;
+
+##### Art. 75
+
+[<sup>1</sup> L'autorité judiciaire compétente saisie informe le Tribunal de la date et du lieu de l'exécution de la mesure requise. Le procureur ou le juge requérant sont autorisés à assister à cette exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 45, 004; En vigueur : 28-03-2014&gt;
+
+### CHAPITRE III. [<sup>1</sup> - Arrestation et transfert]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 46, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 76
+
+[<sup>1</sup> § 1er. Le mandat d'arrêt décerné par le Tribunal à l'égard d'une personne qui se trouve sur le territoire belge est rendu exécutoire par la chambre du conseil du lieu de sa résidence ou du lieu où elle a été trouvée.
+
+La chambre du conseil vérifie si les pièces nécessaires à l'arrestation ont été fournies et s'il n'y a pas erreur sur la personne.
+
+Le ministère public, dans les vingt-quatre heures de l'ordonnance de la chambre du conseil refusant de rendre exécutoire le mandat d'arrêt du Tribunal, peut interjeter appel de cette décision devant la chambre des mises en accusation. Celle-ci statue dans les huit jours. L'arrêt est exécutoire.
+
+Dans les vingt-quatre heures de la privation de liberté, la décision rendant exécutoire le mandat d'arrêt du Tribunal est signifiée à la personne arrêtée. Celle-ci dispose d'un délai de vingt-quatre heures à dater de la signification, pour introduire un recours devant la chambre des mises en accusation. Ce recours est formé par déclaration au greffe correctionnel ou par déclaration de la personne arrêtée au directeur de la maison d'arrêt ou à son délégué.
+
+La chambre des mises en accusation entend le ministère public, la personne arrêtée et son conseil et statue au plus tard dans les quinze jours de l'introduction du recours. L'arrêt est exécutoire. La personne arrêtée restera en détention jusqu'à ce que la chambre des mises en accusation statue.
+
+La décision prise par la chambre des mises en accusation n'est pas susceptible de pourvoi en cassation.
+
+La remise de la personne arrêtée ne peut avoir lieu que lorsque la décision rendant exécutoire la demande d'arrestation et de remise est devenue définitive.
+
+Lorsque le mandat d'arrêt du Tribunal est définitivement rendu exécutoire, le transfert de la personne arrêtée doit intervenir dans les trois mois.
+
+§ 2. La personne arrêtée a le droit de demander à la chambre des mises en accusation, par requête, sa mise en liberté provisoire dans l'attente de sa remise.
+
+La chambre des mises en accusation se prononce dans les quinze jours de l'introduction de la demande, après avoir entendu le ministère public, la personne arrêtée et son conseil. Lorsqu'elle se prononce, la chambre des mises en accusation examine si, eu égard à la gravité des crimes allégués, l'urgence et des circonstances exceptionnelles justifient la mise en liberté provisoire.
+
+La chambre des mises en accusation n'est pas habilitée à examiner si le mandat d'arrêt a été régulièrement délivré par le Tribunal.
+
+En cas de mise en liberté provisoire, la chambre des mises en accusation fixe les conditions qui permettent de s'assurer que la Belgique peut s'acquitter de son obligation de remettre la personne au Tribunal. Lorsque les conditions ne sont pas respectées, le juge d'instruction, sur réquisition du ministère public, décerne un mandat d'arrêt.
+
+Si la mise en liberté provisoire est accordée, le Tribunal peut demander à l'autorité centrale des rapports périodiques sur le régime de la libération provisoire.
+
+La décision prise par la chambre des mises en accusation est susceptible de pourvoi en cassation dans les formes et délais prévus à l'article 31 de la loi du 20 juillet 1990 relative à la détention préventive.
+
+La personne arrêtée reste en détention jusqu'à la décision sur le pourvoi en cassation pourvu qu'elle intervienne dans les quinze jours de la déclaration de pourvoi; la personne est mise en liberté si la décision n'est pas rendue dans ce délai.
+
+Lorsque la requête prévue à l'alinéa 1er est rejetée, la personne arrêtée ne peut former une nouvelle demande de mise en liberté qu'à l'expiration d'un délai d'un mois à compter de l'arrêt de rejet.
+
+Les dispositions du présent paragraphe sont applicables au mandat d'arrêt visé à l'alinéa 4 in fine.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 47, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 77
+
+[<sup>1</sup> Dans le respect de la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales, le gouvernement transfère la personne arrêtée, conformément au Règlement du Tribunal.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 48, 004; En vigueur : 28-03-2014&gt;
+
+### CHAPITRE IV. [<sup>1</sup> - Exécution des peines]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 49, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 78
+
+[<sup>1</sup> § 1er. Dans la mesure où la Belgique a conclu un accord bilatéral d'exécution des peines avec le Tribunal, la peine d'emprisonnement est directement et immédiatement exécutoire en Belgique.
+
+§ 2. Dans les vingt-quatre heures suivant son arrivée dans l'établissement pénitentiaire qui lui a été assigné, la personne transférée comparaît devant le procureur du Roi près le tribunal de première instance de l'arrondissement judiciaire où est situé le lieu de la détention. Le procureur du Roi procède à son interrogatoire d'identité, en dresse procès-verbal et, au vu de l'original ou d'une expédition du jugement du Tribunal, ordonne l'incarcération immédiate du condamné.
+
+§ 3. Les procédures de libération anticipée sont régies exclusivement par le Statut du Tribunal. Les décisions rendues par le Tribunal sont exécutoires immédiatement en Belgique.
+
+Dans ce cadre, les dispositions de la législation belge relatives aux modalités d'exécution des peines ne s'appliquent pas au détenu qui exécute, en Belgique, une peine privative de liberté prononcée par le Tribunal.
+
+§ 4. L'autorité centrale, après consultation de l'administration pénitentiaire, rend un avis circonstancié lorsque le Tribunal, dans l'exercice de ses compétences en matière de libération anticipée, le lui demande.
+
+§ 5. En cas de raisons médicales qui nécessiteraient une libération anticipée, l'autorité centrale en avise dès que possible le Tribunal, seul compétent pour décider d'une telle libération.
+
+§ 6. La demande de révision de la décision du Tribunal sur la culpabilité ou sur la peine, la décision de révision et son application sont régies par le Statut du Tribunal ainsi que par l'accord bilatéral d'exécution des peines conclu entre la Belgique et le Tribunal.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 50, 004; En vigueur : 28-03-2014&gt;
+
+##### Art. 79
+
+[<sup>1</sup> La Belgique exécute les mesures de confiscation ordonnées par le Tribunal sans préjudice des droits des tiers de bonne foi. Lorsqu'une demande tendant à l'exécution d'une décision de confiscation est adressée par le Tribunal à la Belgique, le tribunal correctionnel de l'arrondissement judiciaire où les biens sur lesquels porte la confiscation sont situés rend cette décision exécutoire, après avoir entendu le ministère public et la personne condamnée ou son conseil. Lorsqu'il est impossible de donner effet à l'ordonnance de confiscation, des mesures de confiscation par équivalent, visées à [<sup>3</sup> l'article 53, § 2, alinéa 2]<sup>3</sup>, du Code pénal, sont prises sans préjudice des droits des tiers de bonne foi. [<sup>2</sup> Les sommes d'argent, les biens mobiliers et immobiliers, ou le produit de leur vente, obtenus en exécution d'un arrêt du Tribunal, sont intégralement transférés au Tribunal à l'initiative du ministère public. Celui-ci informe l'autorité centrale de tout transfert au Tribunal en application du présent article.]<sup>2</sup>]<sup>1</sup> [<sup>2</sup> Dans la mesure de ses compétences, l'Organe central pour la Saisie et la Confiscation assiste, à sa demande, le ministère public pour l'exécution du présent article.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/02, art. 51, 004; En vigueur : 28-03-2014&gt;
+
+(2)&lt;L 2021-11-28/01, art. 59, 007; En vigueur : 10-12-2021&gt;
+
+(3)&lt;L 2026-03-03/04, art. 107, 009; En vigueur : 01-09-2026&gt;
+
+## TITRE VIter. [<sup>1</sup> - Coopération avec les Chambres spécialisées pour le Kosovo.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 21, 005; En vigueur : 28-07-2018&gt;
+
+### CHAPITRE Ier. [<sup>1</sup> - Généralités.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 22, 005; En vigueur : 28-07-2018&gt;
+
+##### Art. 80
+
+[<sup>1</sup> Aux fins du titre VIter de la présente loi, les termes ci-après désignent:
+
+\- "Chambres spécialisées": les Chambres spécialisées pour le Kosovo et le Bureau du Procureur spécialisé créés par la loi kosovare du 3 août 2015 sur les Chambres spécialisées et le Bureau du Procureur spécialisé;
+
+\- "Statut": l'article 162 de la Constitution de la République du Kosovo, la loi kosovare du 3 août 2015 sur les Chambres spécialisées et le Bureau du Procureur spécialisé et les arrangements résiduels qui seraient adoptés sur la base de l'article 60 de la loi du 3 août 2015 sur les Chambres spécialisées et le Bureau du Procureur spécialisé;
+
+\- "Règlement de procédure et de preuve": le Règlement de procédure et de preuve des Chambres spécialisées pour le Kosovo, adopté le 17 mars 2017, révisé le 29 mai 2017 et entré en vigueur le 5 juillet 2017, tel que complété par les règles de procédure pour la Chambre spécialisée de la Cour constitutionnelle, adoptées et entrées en vigueur le 21 juillet 2017;
+
+\- "Procureur": le procureur des Chambres spécialisées ainsi que toute personne autorisée par lui ou travaillant sous son autorité dans le cadre des fonctions qui lui incombent en vertu du Statut;
+
+\- "Autorité centrale": l'autorité compétente en matière de coopération entre la Belgique et les Chambres spécialisées pour le Kosovo, soit, au sein du Service public fédéral Justice, le service de droit international humanitaire, désigné par l'arrêté royal du 17 septembre 2005 relatif à la création d'un service de droit international humanitaire;
+
+\- "Ministère public": le procureur fédéral.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 23, 005; En vigueur : 28-07-2018&gt;
+
+##### Art. 81
+
+[<sup>1</sup> Conformément aux dispositions de la présente loi, la Belgique peut donner suite aux demandes de coopération formulées par les Chambres spécialisées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 24, 005; En vigueur : 28-07-2018&gt;
+
+##### Art. 82
+
+[<sup>1</sup> § 1er. L'autorité centrale est compétente pour recevoir les demandes émanant des Chambres spécialisées, pour transmettre aux Chambres spécialisées les demandes de coopération provenant des autorités belges compétentes et pour transmettre aux Chambres spécialisées toute information à caractère judiciaire pouvant relever de la compétence des Chambres spécialisées. Elle en assure le suivi.
+
+§ 2. Les demandes des Chambres spécialisées sont adressées à l'autorité centrale par tout moyen de communication laissant une trace écrite. Elles doivent être rédigées dans une des langues officielles de la Belgique ou, à défaut, être accompagnées d'une traduction certifiée conforme dans l'une de ces langues.
+
+§ 3. Les autorités belges compétentes peuvent solliciter la coopération des Chambres spécialisées. Les demandes sont transmises par l'intermédiaire de l'autorité centrale. Les autorités belges sont tenues de respecter les conditions dont les Chambres spécialisées assortissent l'exécution de la demande. Les pièces justificatives, si elles ne sont pas rédigées dans une des langues de travail des Chambres spécialisées, doivent être accompagnées d'une traduction dans l'une de ces langues.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 25, 005; En vigueur : 28-07-2018&gt;
+
+##### Art. 83
+
+[<sup>1</sup> Les autorités compétentes accordent aux Chambres spécialisées leur pleine et entière coopération judiciaire dans toutes les procédures découlant d'une demande de coopération des Chambres spécialisées à laquelle l'autorité centrale a décidé de donner suite.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 26, 005; En vigueur : 28-07-2018&gt;
+
+### CHAPITRE II. [<sup>1</sup> - Entraide judiciaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 27, 005; En vigueur : 28-07-2018&gt;
+
+##### Art. 84
+
+[<sup>1</sup> § 1er. Les demandes du procureur ou les ordonnances des Chambres spécialisées visant à l'accomplissement de mesures relatives à la collecte et à la production d'éléments qui concernent notamment l'identification et la recherche des personnes, la réunion de témoignages, la production de preuves et l'expédition de documents, et qui sont nécessaires à l'instruction ou à la bonne conduite du procès, sont exécutées selon la procédure prévue par la législation belge et, à moins que cette législation ne l'interdise, comme il est dit dans la demande.
+
+§ 2. La demande du procureur ou l'ordonnance des Chambres spécialisées qui porte sur une mesure de contrainte pour laquelle un juge d'instruction est seul compétent est exécutée par le juge d'instruction de l'arrondissement judiciaire où est situé le lieu où la mesure doit être exécutée.
+
+Toutefois, si plusieurs mesures d'exécution sont sollicitées, le ministère public peut charger un des juges territorialement compétents de l'exécution de l'ensemble de ces mesures.
+
+§ 3. Les perquisitions et saisies demandées par les Chambres spécialisées sont exécutées conformément à la loi belge sans qu'il soit requis que la demande soit rendue exécutoire. Avant de transmettre les pièces aux Chambres spécialisées, la chambre du conseil du tribunal de première instance de l'arrondissement où les pièces ont été déposées statue, dans les cinq jours de sa saisine, sur la transmission des pièces aux Chambres spécialisées et se prononce, le cas échéant, sur la réclamation des tiers détenteurs ou des tiers prétendant droit sur la chose saisie, que le greffe de la chambre du conseil aura préalablement convoqués par envoi recommandé. Elle statue en dernier ressort et sans possibilité de tierce opposition.
+
+§ 4. Lorsque les Chambres spécialisées ont octroyé le statut de témoin protégé à une personne et demandent à la Belgique de mettre en oeuvre des mesures de protection en sa faveur, l'autorité centrale, après avoir consulté le président de la Commission de protection des témoins établie par l'article 103 du Code d'instruction criminelle, décide quelles sont les mesures visées à l'article 104 du même Code dont il convient de faire bénéficier cette personne. Indépendamment des mesures accordées au témoin protégé, et lorsqu'elle le juge nécessaire, l'autorité centrale peut également accorder aux proches de cette personne des mesures de protection visées à l'article 104. Ces mesures sont mises en oeuvre de la même manière que les mesures octroyées au bénéfice d'un témoin menacé, d'un membre de sa famille ou d'un autre parent, visés à l'article 102 du même Code. Compte tenu du principe de proportionnalité, il peut être accordé cumulativement ou successivement des mesures de protection ordinaires et spéciales.
+
+Par dérogation à l'article 106 du Code d'instruction criminelle, un changement d'identité peut être accordé à un témoin protégé et à ses proches, par décision de l'autorité centrale, après avoir consulté le président de la Commission de protection des témoins.
+
+La nouvelle identité est déterminée sur proposition du service de protection des témoins, après concertation avec la personne concernée ou son représentant légal, et est communiquée à l'autorité centrale par l'intermédiaire du président de la Commission de protection des témoins.
+
+La procédure de changement d'identité n'est pas uniquement limitée aux personnes qui possèdent la nationalité belge.
+
+L'autorité centrale peut requérir toute autorité compétente pour assurer la mise en oeuvre de cette décision. Dans ce cadre, l'autorité centrale peut imposer des conditions particulières ou des mesures complémentaires permettant de garantir la protection des témoins.
+
+Le changement des nom, prénoms, date et lieu de naissance est exempté du droit d'enregistrement.
+
+Par dérogation à l'article [<sup>2</sup> 29]<sup>2</sup> du Code civil, il ne peut être délivré un extrait ou une copie d'un acte de l'état civil concernant une personne qui a fait l'objet d'un changement d'identité en application du présent paragraphe qu'avec l'autorisation expresse de l'autorité centrale, après consultation du président de la Commission de protection des témoins. Il en va de même pour tout document ou certificat que le Commissariat général aux réfugiés et aux apatrides ou l'Office des Etrangers serait amené à délivrer à la requête de l'autorité centrale.
+
+Il ne peut y avoir d'infraction quand des faits absolument nécessaires sont commis dans le cadre des alinéas 2 à 7 du présent paragraphe, en vue de garantir la protection du témoin.
+
+Lorsque les Chambres spécialisées mettent fin au statut de témoin protégé en faveur d'une personne visée à l'alinéa 1er, l'autorité centrale détermine s'il convient de maintenir les mesures mises en oeuvre à son égard ou à l'égard des autres personnes.
+
+§ 5. Toute personne qui est détenue en Belgique peut être, à la demande des Chambres spécialisées, transférée temporairement à celles-ci afin qu'elles puissent l'identifier, entendre son témoignage ou obtenir d'elle un quelque autre concours d'assistance.
+
+Cette personne peut être transférée, si les conditions suivantes sont remplies:
+
+1° la personne donne, librement et en connaissance de cause, son consentement au transfèrement; et
+
+2° l'autorité centrale donne son accord au transfèrement aux Chambres spécialisées, sous réserve des conditions dont elles peuvent convenir.
+
+Le transfert temporaire de détenus est organisé par l'autorité centrale en liaison avec le greffier et les autorités de l'Etat hôte des Chambres spécialisées.
+
+Les délais en matière de détention préventive sont suspendus pendant la durée de l'absence du territoire de la personne concernée.
+
+§ 6. Sur demande des Chambres spécialisées, l'autorité centrale autorise le transport à travers le territoire de la Belgique de toute personne transférée aux Chambres spécialisées par un autre Etat, sauf dans le cas où le transit gênerait ou retarderait la remise.
+
+Si un atterrissage imprévu a lieu sur le territoire belge, une demande de transit peut être exigée des Chambres spécialisées. La personne transportée est placée en détention en attendant la demande et l'accomplissement du transit. Toutefois, la détention ne peut se prolonger au-delà de nonante-six heures après l'atterrissage imprévu si la demande n'est pas reçue dans ce délai.
+
+§ 7. Sur demande des Chambres spécialisées, l'autorité centrale autorise le transport à travers le territoire de la Belgique de toute personne détenue à l'étranger, dans le cadre de l'exécution d'une demande d'entraide au siège des Chambres spécialisées. Le titre de détention de l'intéressé produira ses effets sur le territoire belge le temps nécessaire à son passage.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 28, 005; En vigueur : 28-07-2018&gt;
+
+(2)&lt;L 2021-11-28/01, art. 60, 007; En vigueur : 10-12-2021&gt;
+
+##### Art. 85
+
+[<sup>1</sup> L'autorité judiciaire compétente saisie informe les Chambres spécialisées de la date et du lieu de l'exécution de la mesure requise. Le procureur ou le juge requérant sont autorisés à assister à cette exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 29, 005; En vigueur : 28-07-2018&gt;
+
+### CHAPITRE III. [<sup>1</sup> - Arrestation et transfert.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 30, 005; En vigueur : 28-07-2018&gt;
+
+##### Art. 86
+
+[<sup>1</sup> § 1er. Le mandat d'arrêt décerné par les Chambres spécialisées à l'égard d'une personne qui se trouve sur le territoire belge est rendu exécutoire par la chambre du conseil du lieu de sa résidence ou du lieu où elle a été trouvée.
+
+La chambre du conseil vérifie si les pièces nécessaires à l'arrestation ont été fournies et s'il n'y a pas erreur sur la personne.
+
+Le ministère public, dans les vingt-quatre heures de l'ordonnance de la chambre du conseil refusant de rendre exécutoire le mandat d'arrêt des Chambres spécialisées, peut interjeter appel de cette décision devant la chambre des mises en accusation. Celle-ci statue dans les huit jours. L'arrêt est exécutoire.
+
+Dans les vingt-quatre heures de la privation de liberté, la décision rendant exécutoire le mandat d'arrêt des Chambres spécialisées est signifiée à la personne arrêtée. Celle-ci dispose d'un délai de vingt-quatre heures à dater de la signification, pour introduire un recours devant la chambre des mises en accusation. Ce recours est formé par déclaration au greffe correctionnel ou par déclaration de la personne arrêtée au directeur de la maison d'arrêt ou à son délégué.
+
+La chambre des mises en accusation entend le ministère public, la personne arrêtée et son conseil et statue au plus tard dans les quinze jours de l'introduction du recours. L'arrêt est exécutoire. La personne arrêtée restera en détention jusqu'à ce que la chambre des mises en accusation statue.
+
+La décision prise par la chambre des mises en accusation n'est pas susceptible de pourvoi en cassation.
+
+La remise de la personne arrêtée ne peut avoir lieu que lorsque la décision rendant exécutoire la demande d'arrestation et de remise est devenue définitive.
+
+Lorsque le mandat d'arrêt des Chambres spécialisées est définitivement rendu exécutoire, le transfert de la personne arrêtée doit intervenir dans les trois mois.
+
+§ 2. La demande d'arrestation provisoire visée au Statut et au Règlement de procédure et de preuve, qui est formulée en cas d'urgence par le procureur, est exécutée sur la base d'un mandat d'arrêt délivré par le juge d'instruction de l'arrondissement judiciaire où est situé le lieu où la personne faisant l'objet de ce mandat a sa résidence, ou le lieu où elle a été trouvée. Le juge d'instruction vérifie si les pièces nécessaires à l'arrestation provisoire ont été fournies et s'il n'y a pas erreur sur la personne.
+
+Le mandat d'arrêt doit être signifié dans les vingt-quatre heures à compter de la privation de liberté.
+
+Le mandat d'arrêt n'est pas susceptible de recours.
+
+§ 3. La personne arrêtée a le droit de demander à la chambre des mises en accusation, par requête, sa mise en liberté provisoire dans l'attente de sa remise.
+
+La chambre des mises en accusation se prononce dans les quinze jours de l'introduction de la demande, après avoir entendu le ministère public, la personne arrêtée et son conseil. Lorsqu'elle se prononce, la chambre des mises en accusation examine si, eu égard à la gravité des crimes allégués, l'urgence et des circonstances exceptionnelles justifient la mise en liberté provisoire.
+
+La chambre des mises en accusation n'est pas habilitée à examiner si le mandat d'arrêt a été régulièrement délivré par les Chambres spécialisées.
+
+En cas de mise en liberté provisoire, la chambre des mises en accusation fixe les conditions qui permettent de s'assurer que la Belgique peut s'acquitter de son obligation de remettre la personne aux Chambres spécialisées. Lorsque les conditions ne sont pas respectées, le juge d'instruction, sur réquisition du ministère public, décerne un mandat d'arrêt.
+
+Si la mise en liberté provisoire est accordée, les Chambres spécialisées peuvent demander à l'autorité centrale des rapports périodiques sur le régime de la libération provisoire.
+
+La décision prise par la chambre des mises en accusation est susceptible de pourvoi en cassation dans les formes et délais prévus à l'article 31 de la loi du 20 juillet 1990 relative à la détention préventive.
+
+La personne arrêtée reste en détention jusqu'à la décision sur le pourvoi en cassation pourvu qu'elle intervienne dans les quinze jours de la déclaration de pourvoi; la personne est mise en liberté si la décision n'est pas rendue dans ce délai.
+
+Lorsque la requête prévue à l'alinéa 1er est rejetée, la personne arrêtée ne peut former une nouvelle demande de mise en liberté qu'à l'expiration d'un délai d'un mois à compter de l'arrêt de rejet.
+
+Les dispositions du présent paragraphe sont applicables au mandat d'arrêt visé à l'alinéa 4 in fine.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 31, 005; En vigueur : 28-07-2018&gt;
+
+##### Art. 87
+
+[<sup>1</sup> Dans le respect de la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales, le gouvernement transfère la personne arrêtée, conformément au Règlement de procédure et de preuve des Chambres spécialisées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 32, 005; En vigueur : 28-07-2018&gt;
+
+### CHAPITRE IV. [<sup>1</sup> - Libération provisoire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 33, 005; En vigueur : 28-07-2018&gt;
+
+##### Art. 88
+
+[<sup>1</sup> § 1er. Moyennant l'accord de l'autorité centrale et conformément à la règle 57 du Règlement de procédure et de preuve, une personne peut bénéficier, en Belgique, d'une libération provisoire visée par le Statut, le cas échéant aux conditions édictées par les Chambres spécialisées.
+
+§ 2. Lorsque les conditions auxquelles la libération provisoire est soumise ne sont pas respectées, le juge d'instruction, sur réquisition du ministère public, agissant d'office ou à la demande de l'autorité centrale, peut décerner un mandat d'arrêt à l'encontre de la personne libérée provisoirement. Son ordonnance motivée, qui n'est susceptible d'aucun recours, est communiquée immédiatement au ministère public. Celui-ci en avise sans délai l'autorité centrale, qui en informe immédiatement les Chambres spécialisées.
+
+§ 3. Le mandat d'arrêt délivré par le juge d'instruction est valable pour une durée de quinze jours à compter de son exécution.
+
+L'intéressé est remis en liberté aux mêmes conditions si, dans ce délai, l'autorité centrale n'a pas reçu de demande d'arrestation provisoire ou de demande d'arrestation et de remise.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 34, 005; En vigueur : 28-07-2018&gt;
+
+### CHAPITRE V. [<sup>1</sup> - Exécution des peines.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 35, 005; En vigueur : 28-07-2018&gt;
+
+##### Art. 89
+
+[<sup>1</sup> § 1er. Dans la mesure où la Belgique a conclu un accord bilatéral d'exécution des peines avec les Chambres spécialisées, la peine d'emprisonnement est directement et immédiatement exécutoire en Belgique.
+
+§ 2. Dans les vingt-quatre heures suivant son arrivée dans l'établissement pénitentiaire qui lui a été assigné, la personne transférée comparaît devant le procureur du Roi près le tribunal de première instance de l'arrondissement judiciaire où est situé le lieu de la détention. Le procureur du Roi procède à son interrogatoire d'identité, en dresse procès-verbal et, au vu de l'original ou d'une expédition du jugement des Chambres spécialisées, ordonne l'incarcération immédiate du condamné.
+
+§ 3. Les procédures de libération anticipée sont régies exclusivement par le Statut des Chambres spécialisées. Les décisions rendues par les Chambres spécialisées sont exécutoires immédiatement en Belgique.
+
+Dans ce cadre, les dispositions de la législation belge relatives aux modalités d'exécution des peines ne s'appliquent pas au détenu qui exécute, en Belgique, une peine privative de liberté prononcée par les Chambres spécialisées.
+
+§ 4. L'autorité centrale, après consultation de l'administration pénitentiaire, rend un avis circonstancié lorsque les Chambres spécialisées, dans l'exercice de leurs compétences en matière de libération anticipée, le lui demandent.
+
+§ 5. En cas de raisons médicales qui nécessiteraient une libération anticipée, l'autorité centrale en avise dès que possible les Chambres spécialisées, seules compétentes pour décider d'une telle libération.
+
+§ 6. La demande de révision de la décision des Chambres spécialisées sur la culpabilité ou sur la peine, la décision de révision et son application sont régies par le Statut des Chambres spécialisées ainsi que par l'accord bilatéral d'exécution des peines conclu entre la Belgique et les Chambres spécialisées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 36, 005; En vigueur : 28-07-2018&gt;
+
+##### Art. 90
+
+[<sup>1</sup> La Belgique exécute les mesures de confiscation ordonnées par les Chambres spécialisées sans préjudice des droits des tiers de bonne foi. Lorsqu'une demande tendant à l'exécution d'une décision de confiscation est adressée par les Chambres spécialisées à la Belgique, le tribunal correctionnel de l'arrondissement judiciaire où les biens sur lesquels porte la confiscation sont situés rend cette décision exécutoire, après avoir entendu le ministère public et la personne condamnée ou son conseil. Lorsqu'il est impossible de donner effet à l'ordonnance de confiscation, des mesures de confiscation par équivalent, visées à [<sup>3</sup> l'article 53, § 2, alinéa 2]<sup>3</sup>, du Code pénal, sont prises sans préjudice des droits des tiers de bonne foi. [<sup>2</sup> Les sommes d'argent, les biens mobiliers et immobiliers, ou le produit de leur vente, obtenus en exécution d'un arrêt des Chambres spécialisées, sont intégralement transférés aux Chambres spécialisées à l'initiative du ministère public. Celui-ci informe l'autorité centrale de tout transfert aux Chambres spécialisées en application du présent article.]<sup>2</sup>]<sup>1</sup> [<sup>2</sup> Dans la mesure de ses compétences, l'Organe central pour la Saisie et la Confiscation assiste, à sa demande, le ministère public pour l'exécution du présent article.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 37, 005; En vigueur : 28-07-2018&gt;
+
+(2)&lt;L 2021-11-28/01, art. 62, 007; En vigueur : 10-12-2021&gt;
+
+(3)&lt;L 2026-03-03/04, art. 108, 009; En vigueur : 01-09-2026&gt;
+
+## TITRE VIquater. [<sup>1</sup> - Coopération avec les Mécanismes d'enquête internationaux]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-12-06/02, art. 55, 008; En vigueur : 31-12-2022&gt;
+
+### CHAPITRE Ier. [<sup>1</sup> - Généralités]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 127, 006; En vigueur : 03-06-2019&gt;
+
+##### Art. 91
+
+[<sup>1</sup> Aux fins du titre VIquater de la présente loi, les termes ci-après désignent :
+
+\- [<sup>2</sup> "Mécanismes": les Mécanismes d'enquête internationaux créés par l'Organisation des Nations unies, ou par une autre organisation internationale, dont la Belgique est membre, et ayant mandat de lutter contre l'impunité pour les crimes de guerre, les crimes contre l'humanité, les crimes de génocide ou toute autre infraction internationale, par l'exercice de certaines fonctions à caractère judiciaire;]<sup>2</sup>
+
+\- [<sup>2</sup> "Statut": le mandat du Mécanisme tel que détaillé dans les instruments pertinents adoptés par l'Organisation des Nations unies ou par l'organisation internationale compétente, dont la Belgique est membre;]<sup>2</sup>
+
+\- "Chef du Mécanisme" : le chef du Mécanisme ainsi que toute personne autorisée par lui ou travaillant sous son autorité dans le cadre des fonctions qui lui incombent en vertu du Statut;
+
+\- "Autorité centrale" : l'autorité compétente en matière de coopération entre la Belgique et le Mécanisme, soit, au sein du Service public fédéral Justice, le service de droit international humanitaire, désigné par l'arrêté royal du 17 septembre 2005 relatif à la création d'un service de droit international humanitaire;
+
+\- "Ministère public" : le procureur fédéral.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 128, 006; En vigueur : 03-06-2019&gt;
+
+(2)&lt;L 2022-12-06/02, art. 56, 008; En vigueur : 31-12-2022&gt;
+
+##### Art. 92
+
+[<sup>1</sup> Conformément aux dispositions de la présente loi, la Belgique peut donner suite aux demandes de coopération formulées par le Mécanisme.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 129, 006; En vigueur : 03-06-2019&gt;
+
+##### Art. 93
+
+[<sup>1</sup> § 1er. L'autorité centrale est compétente pour recevoir les demandes émanant du Mécanisme, pour transmettre au Mécanisme les demandes de coopération provenant des autorités belges compétentes et pour transmettre au Mécanisme toute information à caractère judiciaire pouvant relever de la compétence du Mécanisme. Elle en assure le suivi.
+
+§ 2. Les demandes du Mécanisme sont adressées à l'autorité centrale par tout moyen de communication laissant une trace écrite. Elles doivent être rédigées dans une des langues officielles de la Belgique ou en anglais. A défaut, elles doivent être accompagnées d'une traduction certifiée conforme dans une des langues officielles de la Belgique.
+
+§ 3. Les autorités belges compétentes peuvent solliciter la coopération du Mécanisme. Les demandes sont transmises par l'intermédiaire de l'autorité centrale. Les autorités belges sont tenues de respecter les conditions dont le Mécanisme assortit l'exécution de la demande. Les pièces justificatives, si elles ne sont pas rédigées dans une des langues de travail du Mécanisme, doivent être accompagnées d'une traduction dans une des langues officielles des Nations unies.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 130, 006; En vigueur : 03-06-2019&gt;
+
+##### Art. 94
+
+[<sup>1</sup> Les autorités compétentes accordent au Mécanisme leur pleine et entière coopération judiciaire dans toutes les procédures découlant d'une demande de coopération du Mécanisme à laquelle l'autorité centrale a décidé de donner suite.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 131, 006; En vigueur : 03-06-2019&gt;
+
+### CHAPITRE II. [<sup>1</sup> - Entraide judiciaire]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 132, 006; En vigueur : 03-06-2019&gt;
+
+##### Art. 95
+
+[<sup>1</sup> § 1er. Les demandes du chef du Mécanisme visant à l'accomplissement de mesures relatives à la collecte et à la production d'éléments qui, conformément au Statut du Mécanisme, concernent notamment l'identification et la recherche des personnes, la réunion de témoignages, la production de preuves et l'expédition de documents, sont exécutées selon la procédure prévue par la législation belge et, à moins que cette législation ne l'interdise, comme il est dit dans la demande.
+
+§ 2. La demande du chef du Mécanisme qui porte sur une mesure de contrainte pour laquelle un juge d'instruction est seul compétent est exécutée par le juge d'instruction de l'arrondissement judiciaire où est situé le lieu où la mesure doit être exécutée.
+
+Toutefois, si plusieurs mesures d'exécution sont sollicitées, le ministère public peut charger un des juges territorialement compétents de l'exécution de l'ensemble de ces mesures.
+
+§ 3. Les perquisitions et saisies demandées par le Mécanisme, conformément à son Statut, sont exécutées conformément à la loi belge sans qu'il soit requis que la demande soit rendue exécutoire. Avant de transmettre les pièces au Mécanisme, la chambre du conseil du tribunal de première instance de l'arrondissement où les pièces ont été déposées statue, dans les cinq jours de sa saisine, sur la transmission des pièces au Mécanisme et se prononce, le cas échéant, sur la réclamation des tiers détenteurs ou des tiers prétendant droit sur la chose saisie, que le greffe de la chambre du conseil aura préalablement convoqués par envoi recommandé. Elle statue en dernier ressort et sans possibilité de tierce opposition.
+
+§ 4. Lorsque le Mécanisme, conformément à son Statut, octroie ou sollicite l'octroi du statut de témoin protégé à une personne et demande à la Belgique de mettre en oeuvre des mesures de protection en sa faveur, l'autorité centrale, après avoir consulté le président de la Commission de protection des témoins établie par l'article 103 du Code d'instruction criminelle, décide quelles sont les mesures visées à l'article 104 du même Code dont il convient de faire bénéficier cette personne. Indépendamment des mesures accordées au témoin protégé, et lorsqu'elle le juge nécessaire, l'autorité centrale peut également accorder aux proches de cette personne des mesures de protection visées à l'article 104. Ces mesures sont mises en oeuvre de la même manière que les mesures octroyées au bénéfice d'un témoin menacé, d'un membre de sa famille ou d'un autre parent, visés à l'article 102 du même Code. Compte tenu du principe de proportionnalité, il peut être accordé cumulativement ou successivement des mesures de protection ordinaires et spéciales.
+
+Par dérogation à l'article 106 du Code d'instruction criminelle, un changement d'identité peut être accordé à un témoin protégé et à ses proches, par décision de l'autorité centrale, après avoir consulté le président de la Commission de protection des témoins.
+
+La nouvelle identité est déterminée sur proposition du service de protection des témoins, après concertation avec la personne concernée ou son représentant légal, et est communiquée à l'autorité centrale par l'intermédiaire du président de la Commission de protection des témoins.
+
+La procédure de changement d'identité n'est pas uniquement limitée aux personnes qui possèdent la nationalité belge.
+
+L'autorité centrale peut requérir toute autorité compétente pour assurer la mise en oeuvre de cette décision. Dans ce cadre, l'autorité centrale peut imposer des conditions particulières ou des mesures complémentaires permettant de garantir la protection des témoins.
+
+Le changement des nom, prénoms, date et lieu de naissance est exempté du droit d'enregistrement.
+
+Par dérogation à l'article 29 du Code civil, il ne peut être délivré un extrait ou une copie d'un acte de l'état civil concernant une personne qui a fait l'objet d'un changement d'identité en application du présent paragraphe qu'avec l'autorisation expresse de l'autorité centrale, après consultation du président de la Commission de protection des témoins. Il en va de même pour tout document ou certificat que le Commissariat général aux réfugiés et aux apatrides ou l'Office des Etrangers serait amené à délivrer à la requête de l'autorité centrale.
+
+Il ne peut y avoir d'infraction quand des faits absolument nécessaires sont commis dans le cadre des alinéas 2 à 7, en vue de garantir la protection du témoin.
+
+Lorsque le Mécanisme met fin au statut de témoin protégé en faveur d'une personne visée à l'alinéa 1er, l'autorité centrale détermine s'il convient de maintenir les mesures mises en oeuvre à son égard ou à l'égard des autres personnes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 133, 006; En vigueur : 03-06-2019&gt;
+
+##### Art. 96
+
+[<sup>1</sup> L'autorité judiciaire compétente saisie informe le Mécanisme de la date et du lieu de l'exécution de la mesure requise. Le chef du Mécanisme peut être autorisé par l'autorité centrale à assister à cette exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 134, 006; En vigueur : 03-06-2019&gt;
+
+## TITRE VIquinquies. [<sup>1</sup> - Coopération avec les Equipes d'enquête]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 135, 006; En vigueur : 03-06-2019&gt;
+
+### CHAPITRE Ier. [<sup>1</sup> - Généralités]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 136, 006; En vigueur : 03-06-2019&gt;
+
+##### Art. 97
+
+[<sup>1</sup> Aux fins du Titre VIquinquies de la présente loi, les termes ci-après désignent :
+
+\- "Equipes d'enquête" : les Equipes d'enquête créées par l'Organisation des Nations unies et ayant mandat de lutter contre l'impunité pour les crimes de guerre, les crimes contre l'humanité, les crimes de génocide ou toute autre infraction internationale;
+
+\- "Statut" : le mandat de l'Equipe d'enquête, tel que détaillé dans les instruments pertinents adoptés par l'Organisation des Nations unies;
+
+\- "Personnel de l'Equipe d'enquête" : toute personne autorisée par son mandat à agir au nom d'une Equipe d'enquête;
+
+\- "Autorité centrale" : l'autorité compétente en matière de coopération entre la Belgique et une Equipe d'enquête, soit, au sein du Service public fédéral Justice, le service de droit international humanitaire, désigné par l'arrêté royal du 17 septembre 2005 relatif à la création d'un service de droit international humanitaire;
+
+\- "Ministère public" : le procureur fédéral.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 137, 006; En vigueur : 03-06-2019&gt;
+
+##### Art. 98
+
+[<sup>1</sup> Conformément aux dispositions de la présente loi, lorsqu'il existe une obligation internationale de coopérer avec une Equipe d'enquête, la Belgique donne suite aux demandes de coopération formulées par ladite Equipe d'enquête.
+
+Conformément aux dispositions de la présente loi, lorsqu'il n'existe pas d'obligation internationale de coopérer avec une Equipe d'enquête, la Belgique peut donner suite aux demandes de coopération formulées par ladite Equipe d'enquête.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 138, 006; En vigueur : 03-06-2019&gt;
+
+##### Art. 99
+
+[<sup>1</sup> § 1er. L'autorité centrale est compétente pour recevoir, par la voie diplomatique, les demandes émanant de l'Equipe d'enquête et pour lui transmettre, par la même voie, les demandes de coopération provenant des autorités belges compétentes ainsi que toute information à caractère judiciaire pouvant relever de la compétence de l'Equipe d'enquête. Elle en assure le suivi.
+
+§ 2. Les demandes de l'Equipe d'enquête sont adressées aux autorités belges par tout moyen de communication laissant une trace écrite. Elles doivent être rédigées dans une des langues officielles de la Belgique ou en anglais. A défaut, elles doivent être accompagnées d'une traduction certifiée conforme dans une des langues officielles de la Belgique.
+
+§ 3. Les autorités belges compétentes peuvent solliciter la coopération de l'Equipe d'enquête. Les demandes sont transmises par l'intermédiaire de l'autorité centrale et par la voie diplomatique. Les autorités belges sont tenues de respecter les conditions dont l'Equipe d'enquête assortit l'exécution de la demande. Les pièces justificatives, si elles ne sont pas rédigées dans une des langues de travail de l'Equipe d'enquête, doivent être accompagnées d'une traduction dans l'une de ces langues.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 139, 006; En vigueur : 03-06-2019&gt;
+
+##### Art. 100
+
+[<sup>1</sup> Les autorités compétentes accordent à l'Equipe d'enquête leur pleine et entière coopération judiciaire dans toutes les procédures découlant d'une demande de coopération de l'Equipe d'enquête relevant d'une obligation internationale de coopérer ou à laquelle l'autorité centrale a décidé de donner suite.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 140, 006; En vigueur : 03-06-2019&gt;
+
+### CHAPITRE II. [<sup>1</sup> - Entraide judiciaire]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 141, 006; En vigueur : 03-06-2019&gt;
+
+##### Art. 101
+
+[<sup>1</sup> § 1er. Les demandes de l'Equipe d'enquête visant à l'accomplissement de mesures relatives à la collecte et à la production d'éléments qui, conformément au Statut de l'Equipe d'enquête, concernent notamment l'identification et la recherche des personnes, la réunion de témoignages, la production de preuves et l'expédition de documents, sont exécutées selon la procédure prévue par la législation belge et, à moins que cette législation ne l'interdise, comme il est dit dans la demande.
+
+§ 2. La demande de l'Equipe d'enquête qui porte sur une mesure de contrainte pour laquelle un juge d'instruction est seul compétent est exécutée par le juge d'instruction de l'arrondissement judiciaire où est situé le lieu où la mesure doit être exécutée.
+
+Toutefois, si plusieurs mesures d'exécution sont sollicitées, le ministère public peut charger un des juges territorialement compétents de l'exécution de l'ensemble de ces mesures.
+
+§ 3. Les perquisitions et saisies demandées par l'Equipe d'enquête, conformément à son Statut, sont exécutées conformément à la loi belge sans qu'il soit requis que la demande soit rendue exécutoire. Avant de transmettre les pièces à l'Equipe d'enquête, la chambre du conseil du tribunal de première instance de l'arrondissement où les pièces ont été déposées statue, dans les cinq jours de sa saisine, sur la transmission des pièces à l'Equipe d'enquête et se prononce, le cas échéant, sur la réclamation des tiers détenteurs ou des tiers prétendant droit sur la chose saisie, que le greffe de la chambre du conseil aura préalablement convoqués par envoi recommandé. Elle statue en dernier ressort et sans possibilité de tierce opposition.
+
+§ 4. Lorsque l'Equipe d'enquête a compétence pour octroyer ou solliciter l'octroi du statut de témoin protégé à une personne et demande à la Belgique de mettre en oeuvre des mesures de protection en sa faveur, l'autorité centrale, après avoir consulté le président de la Commission de protection des témoins établie par l'article 103 du Code d'instruction criminelle, décide quelles sont les mesures visées à l'article 104 du même Code dont il convient de faire bénéficier cette personne. Indépendamment des mesures accordées au témoin protégé, et lorsqu'elle le juge nécessaire, l'autorité centrale peut également accorder aux proches de cette personne des mesures de protection visées à l'article 104. Ces mesures sont mises en oeuvre de la même manière que les mesures octroyées au bénéfice d'un témoin menacé, d'un membre de sa famille ou d'un autre parent, visés à l'article 102 du même Code. Compte tenu du principe de proportionnalité, il peut être accordé cumulativement ou successivement des mesures de protection ordinaires et spéciales.
+
+Par dérogation à l'article 106 du Code d'instruction criminelle, un changement d'identité peut être accordé à un témoin protégé et à ses proches, par décision de l'autorité centrale, après avoir consulté le président de la Commission de protection des témoins.
+
+La nouvelle identité est déterminée sur proposition du service de protection des témoins, après concertation avec la personne concernée ou son représentant légal, et est communiquée à l'autorité centrale par l'intermédiaire du président de la Commission de protection des témoins.
+
+La procédure de changement d'identité n'est pas uniquement limitée aux personnes qui possèdent la nationalité belge.
+
+L'autorité centrale peut requérir toute autorité compétente pour assurer la mise en oeuvre de cette décision. Dans ce cadre, l'autorité centrale peut imposer des conditions particulières ou des mesures complémentaires permettant de garantir la protection des témoins.
+
+Le changement des nom, prénoms, date et lieu de naissance est exempté du droit d'enregistrement.
+
+Par dérogation à l'article 29 du Code civil, il ne peut être délivré un extrait ou une copie d'un acte de l'état civil concernant une personne qui a fait l'objet d'un changement d'identité en application du présent paragraphe qu'avec l'autorisation expresse de l'autorité centrale, après consultation du président de la Commission de protection des témoins. Il en va de même pour tout document ou certificat que le Commissariat général aux réfugiés et aux apatrides ou l'Office des Etrangers serait amené à délivrer à la requête de l'autorité centrale.
+
+Il ne peut y avoir d'infraction quand des faits absolument nécessaires sont commis dans le cadre des alinéas 2 à 7, en vue de garantir la protection du témoin.
+
+Lorsque l'Equipe d'enquête met fin au statut de témoin protégé en faveur d'une personne visée à l'alinéa 1er, l'autorité centrale détermine s'il convient de maintenir les mesures mises en oeuvre à son égard ou à l'égard des autres personnes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 142, 006; En vigueur : 03-06-2019&gt;
+
+##### Art. 102
+
+[<sup>1</sup> L'autorité judiciaire compétente saisie informe l'Equipe d'enquête de la date et du lieu de l'exécution de la mesure requise. Le personnel de l'Equipe d'enquête peut être autorisé par l'autorité centrale à assister à cette exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 143, 006; En vigueur : 03-06-2019&gt;
+
+## TITRE VII. (- Entrée en vigueur.) &lt;L 2006-07-01/65, art. 11, 003 ; En vigueur : 12-08-2006&gt;
+
+##### Art. 103
+
+[<sup>3</sup> (NOTE : ancien article 91, devient nouvel article 103)]<sup>3</sup>
+
+[<sup>2</sup> (NOTE : ancien article 80, devient nouvel article 91)]<sup>2</sup>
+
+[<sup>1</sup> (NOTE : ancien article 70, devient nouvel article 80)]<sup>1</sup>
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge. &lt;L 2006-07-01/65, art. 12, 003 ; En vigueur : 12-08-2006&gt;
+
+----------
+
+(1)&lt;L 2014-03-26/02, art. 52, 004; En vigueur : 28-03-2014&gt;
+
+(2)&lt;L 2018-07-11/02, art. 38, 005; En vigueur : 28-07-2018&gt;
+
+(3)&lt;L 2019-05-05/10, art. 144, 006; En vigueur : 03-06-2019&gt;
+
+---
+
+Promulgons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

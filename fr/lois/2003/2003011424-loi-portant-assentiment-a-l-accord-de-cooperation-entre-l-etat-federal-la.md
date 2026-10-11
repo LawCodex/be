@@ -1,0 +1,68 @@
+---
+title: "Loi portant assentiment à l'Accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relative à l'exécution et au financement de l'assainissement du sol des stations-service, conclu à Bruxelles le 13 décembre 2002."
+identifier: "2003011424"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2003/08/26/2003011424/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2003-08-26
+published: 2003-09-29
+entry_into_force: 2003-09-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2003/08/26/2003011424/justel"
+department: "Economie, PME, Classes moyennes et Energie - Région Wallonne - Communauté flamande"
+retrieved: 2026-10-11
+---
+
+# 26 AOUT 2003. - Loi portant assentiment à l'Accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relative à l'exécution et au financement de l'assainissement du sol des stations-service, conclu à Bruxelles le 13 décembre 2002.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+Assentiment est donné à l'Accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'exécution et au financement de l'assainissement du sol des stations-service, conclu à Bruxelles, le 13 décembre 2002, annexé à la présente loi.
+
+## Art. 3
+
+L'article 1er de la loi du 23 janvier 1989 relative à la compétence fiscale visée à l'article 110, §§ 1er et 2, de la Constitution est complété par ce qui suit :
+
+" sauf sur les huiles minérales, conformément à l'accord de coopération du 13 décembre 2002 relatif à l'exécution et au financement de l'assainissement du sol des stations-services. "
+
+## Art. 4
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle sont revêtue du sceau et publiée par le Moniteur belge.
+
+Donné à Châteauneuf-de-Grasse, le 26 août 2003.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de l'Economie, de l'Energie, du Commerce extérieur et de la Politique scientifique,
+
+Mme F. MOERMAN
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX
+
+## ANNEXE.
+
+## Art. N
+
+Accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'exécution et au financement de l'assainissement du sol des stations-service.
+
+(Annexe non reprise pour motifs techniques. Voir M.B. 29-09-2003, p. 47554-47570).

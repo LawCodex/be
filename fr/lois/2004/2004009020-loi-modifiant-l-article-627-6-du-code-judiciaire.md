@@ -1,0 +1,48 @@
+---
+title: "Loi modifiant l'article 627, 6°, du Code judiciaire."
+identifier: "2004009020"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2004/01/08/2004009020/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2004-01-08
+published: 2004-02-06
+entry_into_force: 2004-02-16
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2004/01/08/2004009020/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 8 JANVIER 2004. - Loi modifiant l'article 627, 6°, du Code judiciaire.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+L'article 627, 6°, du Code judiciaire, modifié par la loi du 6 août 1993, est complété par l'alinéa suivant :
+
+" Lorsqu'il s'agit de demandes formulées en vertu de la loi du 26 juin 1990 relative à la protection de la personne des malades mentaux à l'égard d'un malade ayant sa résidence ou son domicile dans l'arrondissement judiciaire d'Eupen, le juge de paix du lieu de la résidence, ou, à défaut, du lieu du domicile du malade, ou, à défaut encore, le juge de paix du lieu où le malade se trouve. Si le malade ne peut être déplacé, le juge de paix peut agir en-dehors des limites de son canton. "
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 8 janvier 2004.
+
+ALBERT
+
+Par le Roi :
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

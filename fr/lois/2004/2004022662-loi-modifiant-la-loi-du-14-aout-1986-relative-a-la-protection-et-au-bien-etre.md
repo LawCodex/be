@@ -1,0 +1,62 @@
+---
+title: "Loi modifiant la loi du 14 août 1986 relative à la protection et au bien-être des animaux, en ce qui concerne l'agrément d'établissements commerciaux pour animaux."
+identifier: "2004022662"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/23/2004022662/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2004-06-23
+published: 2004-11-03
+entry_into_force: 2004-11-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2004/06/23/2004022662/justel"
+department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
+retrieved: 2026-10-11
+---
+
+# 23 JUIN 2004. - Loi modifiant la loi du 14 août 1986 relative à la protection et au bien-être des animaux, en ce qui concerne l'agrément d'établissements commerciaux pour animaux.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 5, § 4, de la loi du 14 août 1986 relative à la protection et au bien-être des animaux, abrogé par la loi du 4 mai 1995, est rétabli dans la rédaction suivante :
+
+" § 4. Lorsque l'une des mesures visées à l'article 42 est prise dans un établissement visé au § 1er, le Service Bien-être animal du Service public fédéral Santé publique, Sécurité de la chaîne alimentaire et Environnement en fait rapport sans délai au ministre qui a le bien-être des animaux dans ses attributions. Ce rapport ne doit pas être fait si le Service Bien-être animal du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement décide la restitution sous caution.
+
+Le ministre peut prononcer le retrait de l'agrément accordé à l'établissement. Ce retrait entraîne, pour le propriétaire ou le détenteur qui gère l'établissement concerné et y exerce une surveillance directe des animaux, l'interdiction de solliciter un nouvel agrément pendant une durée déterminée, indéterminée ou définitivement. En outre, ce dernier ne pourra pas, pendant la période en question, gérer un établissement visé à l'article 5, § 1er, ou y exercer une surveillance directe des animaux. ".
+
+## Art. 3
+
+L'article 35 de la même loi est complété par un 7° et 8°, rédigé comme suit :
+
+" 7° introduit une demande d'agrément pour l'exploitation d'un établissement visé à l'article 5, § 1er, alors qu'il fait l'objet d'une interdiction visée au § 4 du même article;
+
+8° gère un établissement visé à l'article 5, § 1er, et y exerce une surveillance directe sur les animaux alors qu'il fait l'objet d'une interdiction visée au § 4 du même article. "
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 23 juin 2004.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires sociales et de la Santé publique,
+
+R. DEMOTTE
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

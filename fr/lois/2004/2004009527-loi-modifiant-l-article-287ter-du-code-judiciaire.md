@@ -1,0 +1,72 @@
+---
+title: "Loi modifiant l'article 287ter du Code judiciaire."
+identifier: "2004009527"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/08/2004009527/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2004-07-08
+published: 2004-08-04
+entry_into_force: 2004-08-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/08/2004009527/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 8 JUILLET 2004. - Loi modifiant l'article 287ter du Code judiciaire.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution
+
+## Art. 2
+
+A l'article 287ter du Code judiciaire, inséré par la loi du 17 février 1997 et modifié par les lois des 20 mai 1997, 12 avril 1999, 17 juillet 2000, 13 mars 2001 et 21 juin 2001, sont apportées les modifications suivantes :
+
+1° au § 1er alinéa 1er, les mots " tous les deux ans " sont supprimés;
+
+2° au § 4 :
+
+\- l'alinéa 1er, est remplacé par l'alinéa suivant :
+
+" Le bulletin d'évaluation est établi dans les cas suivants :
+
+1° entre le neuvième et le douzième mois qui suivent l'entrée en fonction du membre du personnel;
+
+2° entre le neuvième et le douzième mois qui suivent le jour où le membre du personnel exerce une autre fonction que celle dans laquelle un bulletin d'évaluation définitif lui a été attribué, soit par nomination, soit par contrat ou en application des articles 328, 329, 329bis, 330 ou 330bis ;
+
+3° si, depuis l'établissement du dernier bulletin d'évaluation, des faits ou constatations favorables ou défavorables sont susceptibles d'améliorer ou d'aggraver le bulletin d'évaluation du membre du personnel;
+
+4° si le membre du personnel le demande, au plus tôt un an après l'établissement du bulletin d'évaluation précédent. ";
+
+\- l'alinéa 2, est remplacé par l'alinéa suivant :
+
+" L'évaluation porte sur la période révolue depuis l'entrée en fonction, depuis la date de début d'exercice des nouvelles fonctions ou depuis le bulletin d'évaluation précédent. ";
+
+\- l'alinéa 3 est abrogé.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 8 juillet 2004.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

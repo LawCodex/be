@@ -1,0 +1,70 @@
+---
+title: "Loi modifiant l'article 53 du Code des impôts sur les revenus 1992 en matière de frais de restaurant."
+identifier: "2004003205"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2004/05/10/2004003205/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2004-05-10
+published: 2004-05-24
+entry_into_force: 2004-01-01
+last_amended: 2004-12-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2004/05/10/2004003205/justel"
+department: "Finances"
+justel_note: "Consultation des versions antérieures à partir du 24-05-2004 et mise à jour au 31-12-2004"
+retrieved: 2026-10-11
+---
+
+# 10 MAI 2004. - Loi modifiant l'article 53 du Code des impôts sur les revenus 1992 en matière de frais de restaurant.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 53, 8°, du Code des impôts sur les revenus 1992, est remplacé par la disposition suivante
+
+" 8° 50 p.c. de la quotité professionnelle des frais de réception et de cadeaux d'affaires, à l'exclusion toutefois des articles publicitaires portant de manière apparente et durable la dénomination de l'entreprise donatrice; ".
+
+## Art. 3
+
+A. Dans l'article 53 du Code des impôts sur les revenus 1992, il est inséré un 8°bis rédigé comme suit :
+
+" 8°bis 37,5 p.c. de la quotité professionnelle des frais de restaurant, à l'exclusion toutefois des frais de restaurant des représentants du secteur alimentaire, dont la nécessité dans l'exercice de l'activité professionnelle, dans le cadre d'une relation potentielle ou réelle de fournisseur à client, est établie par le contribuable; ";
+
+B. (Dans le 8°bis du même article, les mots " 37,5 p.c. " sont remplacés par les mots " 31 p.c. ".) &lt;L 2004-12-27/30, art. 364, 002; En vigueur : 01-01-2005&gt;
+
+(C. Dans le 8°bis du même article, les mots " 31 p.c. " sont remplacés par les mots " 25 p.c. ".) &lt;L 2004-12-27/30, art. 364, 002; En vigueur : indéterminée &gt;
+
+## Art. 4
+
+Les articles 2 et 3, A, sont applicables aux dépenses faites à partir du 1er janvier 2004.
+
+Le Roi fixe, par arrêté délibéré en Conseil des Ministres, la date de l'entrée en vigueur de l'article 3, B.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 10 mai 2004.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

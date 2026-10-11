@@ -1,0 +1,58 @@
+---
+title: "Loi modifiant l'article 42 de la loi du 14 août 1986 relative à la protection et au bien-être des animaux."
+identifier: "2004022663"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/04/2004022663/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2004-07-04
+published: 2004-11-03
+entry_into_force: 2004-11-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2004/07/04/2004022663/justel"
+department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
+retrieved: 2026-10-11
+---
+
+# 4 JUILLET 2004. - Loi modifiant l'article 42 de la loi du 14 août 1986 relative à la protection et au bien-être des animaux.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+A l'article 42, § 2, de la loi du 14 août 1986 relative à la protection et au bien-être des animaux, les alinéas suivants sont insérés après le premier alinéa :
+
+" Le Service Bien-être animal du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement peut également décider, sans appel, de le donner en pleine propriété à une personne, à un refuge pour animaux, à un zoo ou à un parc d'animaux, avec leur accord, qui aura pour mission de lui assurer :
+
+\- entretien, hébergement et soins appropriés,
+
+\- l'adoption dès qu'il sera apte physiquement à être adopté et qu'il remplira les conditions légales nécessaires à l'adoption.
+
+La rémunération obtenue est affectée en priorité aux frais exposés par la personne ou l'organisme visé à l'alinéa précédent. Le surplus est déposé au greffe, conformément à l'alinéa suivant. "
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 4 juillet 2004.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires sociales et de la Santé publique,
+
+R. DEMOTTE
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

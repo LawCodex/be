@@ -1,0 +1,22 @@
+---
+title: "Loi spéciale instaurant un nouveau mode de calcul de la contribution de responsabilisation à charge de certains employeurs du secteur public"
+identifier: "2003022561"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/05/2003022561/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2003-05-05
+published: 2003-05-15
+entry_into_force: 2001-01-01
+last_amended: 2014-01-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2003/05/05/2003022561/justel"
+department: "Sécurité sociale"
+justel_note: "Consultation des versions antérieures à partir du 31-01-2014 et mise à jour au 31-01-2014"
+retrieved: 2026-10-11
+---
+
+# 5 MAI 2003. - Loi spéciale instaurant un nouveau mode de calcul de la contribution de responsabilisation à charge de certains employeurs du secteur public
+
+[Abrogé] &lt;L 2014-01-06/48, art. 81, 002; En vigueur : 01-01-2015&gt;
