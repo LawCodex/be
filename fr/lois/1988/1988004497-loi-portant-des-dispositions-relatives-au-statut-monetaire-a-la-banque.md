@@ -1,0 +1,176 @@
+---
+title: "Loi portant des dispositions relatives au statut monétaire, à la Banque Nationale de Belgique, à la politique monétaire et au Fonds monétaire."
+identifier: "1988004497"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1988/12/23/1988004497/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1988-12-23
+published: 1988-12-31
+entry_into_force: 1989-01-10
+last_amended: 2001-12-20
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1988/12/23/1988004497/justel"
+department: "Finances"
+justel_note: "Consultation des versions antérieures à partir du 31-12-1988 et mise à jour au 20-12-2001"
+retrieved: 2026-10-12
+---
+
+# 23 DECEMBRE 1988. - Loi portant des dispositions relatives au statut monétaire, à la Banque Nationale de Belgique, à la politique monétaire et au Fonds monétaire.
+
+## CHAPITRE I. (Abrogé) &lt;L 2001-12-10/31, art. 39, 007; En vigueur : 01-03-2002&gt;
+
+### Art. 1
+
+(abrogé) &lt;L 1998-02-22/47, art.38, 003; En vigueur : 01-01-1999&gt; et confirmé par &lt;AR 1998-10-26/30, art. 3, En vigueur : 01-01-1999&gt; et confirmé par &lt;L 2001-12-10/31, art. 39, 007; En vigueur : 01-03-2002&gt;
+
+### Art. 2
+
+(abrogé) &lt;L 1998-02-22/47, art.38, 003; En vigueur : 01-01-1999&gt; et confirmé par &lt;AR 1998-10-26/30, art. 3, En vigueur : 01-01-1999&gt; et confirm»é par &lt;L 2001-12-10/31, art. 39, 007; En vigueur : 01-03-2002&gt;
+
+### Art. 3
+
+(abrogé) &lt;L 1998-02-22/47, art.38, 003; En vigueur : 01-01-1999&gt; et confirmé par &lt;AR 1998-10-26/30, art. 3, En vigueur : 01-01-1999&gt; et confirmé par &lt;L 2001-12-10/31, art. 39, 007; En vigueur : 01-03-2002&gt;
+
+### Art. 4
+
+(Abrogé) &lt;L 2001-12-10/31, art. 39, 006; En vigueur : 01-01-2002&gt; et confirmé par &lt;L 2001-12-10/31, art. 39, 007; En vigueur : 01-03-2002&gt;
+
+### Art. 5
+
+(Abrogé) &lt;L 2001-12-10/31, art. 39, 007; En vigueur : 01-03-2002&gt;
+
+### Art. 6
+
+(Abrogé) &lt;L 2001-12-10/31, art. 39, 006; En vigueur : 01-01-2002&gt; et confirmé par &lt;L 2001-12-10/31, art. 39, 007; En vigueur : 01-03-2002&gt;
+
+## CHAPITRE II. - Dispositions relatives à la Banque Nationale de Belgique.
+
+### Art. 7
+
+&lt;disposition modificative de l'article 1er de l'arrêté royal n° 29 du 24 août 1939 relatif à l'activité, à l'organisation et aux attributions de la Banque Nationale de Belgique : CN : 1939-08-24/30&gt;
+
+### Art. 8
+
+&lt;disposition abrogatoire de l'article 2, alinéa 3, du même arrêté : CN : 1939-08-24/30&gt;
+
+### Art. 9
+
+&lt;disposition abrogatoire de l'article 3 du même arrêté : CN : 1939-08-24/30&gt;
+
+### Art. 10
+
+&lt;disposition modificative de l'article 7 du même arrêté : CN :1939-08-24/30&gt;
+
+### Art. 11
+
+&lt;disposition modificative de l'article 8, alinéa 2, du même arrêté : CN : 1939-08-24/30&gt;
+
+### Art. 12
+
+&lt;disposition modificative de l'article 9 du même arrêté : CN : 1939-08-24/30&gt;
+
+### Art. 13
+
+&lt;disposition abrogatoire de l'article 10 du même arrêté : CN : 1939-08-24/30&gt;
+
+### Art. 14
+
+&lt;insertion d'un article 20bis dans le même arrêté : CN : 1939-08-24/30&gt;
+
+### Art. 15
+
+&lt;disposition modificative de l'article 35 du même arrêté : CN : 1939-08-24/30&gt;
+
+## CHAPITRE III. - Dispositions relatives à la politique monétaire.
+
+### Art. 16
+
+&lt;disposition modificative de l'article 1er, § 1er, de la loi du 28 décembre 1973 relative aux propositions budgétaires 1973-1974 : CN : 1973-12-28/04&gt;
+
+### Art. 17
+
+&lt;disposition modificative de l'article 1er, § 2, de la même loi : CN : 1973-12-28/04&gt;
+
+### Art. 18
+
+&lt;disposition modificative de l'article 1er, § 3, de la même loi : CN : 1973-12-28/04&gt;
+
+### Art. 19
+
+&lt;disposition modificative de l'article 2, alinéa 1er, de la même loi : CN : 1973-12-28/04&gt;
+
+### Art. 20
+
+&lt;insertion dans la même loi d'un article 2bis : CN : 1973-12-28/04&gt;
+
+### Art. 21
+
+&lt;disposition modificative de l'article 3 de la même loi : CN : 1973-12-28/04&gt;
+
+## CHAPITRE IV. - Dispositions relatives au Fonds monétaire.
+
+### Art. 22
+
+&lt;disposition modificative de l'article 1er, alinéa 1er de la loi du 12 juin 1930 portant création d'un Fonds monétaire : CN : 1930-06-12/30&gt;
+
+### Art. 23
+
+&lt;disposition modificative de l'article 2 de la même loi : CN : 1930-06-12/30&gt;
+
+### Art. 24
+
+&lt;disposition modificative de l'article 4, 1°, de la même loi : CN : 1930-06-12/30&gt;
+
+### Art. 25
+
+&lt;disposition modificative de l'article 6 de la même loi : CN : 1930-06-12/30&gt;
+
+### Art. 26
+
+&lt;disposition modificative de l'article 7 de la même loi : CN : 1930-06-12/30&gt;
+
+### Art. 27
+
+&lt;disposition abrogatoire du Chapitre II de la même loi, intitulé " Monnaies d'appoint " et comprenant l'article 11 : CN : 1930-06-12/30&gt;
+
+### Art. 28
+
+&lt;disposition modificative de l'article 12 de la même loi : CN : 1930-06-12/30&gt;
+
+### Art. 29
+
+&lt;disposition abrogatoire de l'article 13 de la même loi : CN : 1930-06-12/30&gt;
+
+## CHAPITRE V. - Dispositions diverses.
+
+### Art. 30
+
+Sont abrogés :
+
+1° la loi du 29 avril 1935 déterminant les effets de la loi monétaire du 30 mars 1935 relative à l'évaluation d'indemnités ou de dommages et intérêts;
+
+2° la loi du 12 avril 1957 relative au statut monétaire;
+
+3° la loi du 3 juillet 1972 relative à la parité monétaire.
+
+### Art. 31
+
+L'article 9 produit ses effets au 31 décembre 1988.
+
+L'article 11 n'est pas applicable aux types de billets émis par la Banque au moment de l'entrée en vigueur de la présente loi.
+
+### Art. 32
+
+Jusqu'à l'entrée en vigueur d'un instrument de droit international modifiant l'unité de compte-or utilisée dans une convention internationale à laquelle la Belgique est partie, la conversion de cette unité de compte en monnaie belge s'effectue comme suit pour les conventions que le Roi désigne :
+
+\- le franc-or d'un poids de 65,5 milligrammes d'or au titre de neuf cent millièmes de fin équivaut à un quinzième de Droit de tirage spécial;
+
+\- le franc-or d'un poids de 10/31 grammes d'or au titre de neuf cent millièmes de fin équivaut à un tiers de Droit de tirage spécial;
+
+\- l'unité de compte d'un poids de 0,88867088 gramme d'or fin équivaut à un Droit de tirage spécial.
+
+Le Droit de tirage spécial mentionné à l'alinéa premier est le Droit de tirage spécial tel que défini par le Fonds monétaire international. Il est converti en monnaie belge selon la méthode d'évaluation appliquée par le Fonds à la date de la conversion pour ses propres opérations et transactions.
+
+Pour l'unité de compte-or utilisée dans une convention internationale, non désignée par le Roi en vertu de l'alinéa 1er, il y a lieu de retenir comme base de la conversion de cette unité en monnaie belge le montant de 19,74824173 milligrammes d'or au titre de neuf cents millièmes de fin.

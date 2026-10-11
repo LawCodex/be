@@ -1,0 +1,416 @@
+---
+title: "Loi relative à la garantie des ouvrages en métaux précieux."
+identifier: "1987004122"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1987/08/11/1987004122/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1987-08-11
+published: 1987-10-14
+entry_into_force: 1987-10-24
+last_amended: 2025-12-24
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1987/08/11/1987004122/justel"
+department: "Affaires économiques - Finances - Classes Moyennes"
+justel_note: "Consultation des versions antérieures à partir du 23-05-1995 et mise à jour au 24-12-2025"
+retrieved: 2026-10-12
+---
+
+# 11 AOUT 1987. - Loi relative à la garantie des ouvrages en métaux précieux.
+
+## Art. 1
+
+La fabrication à tous les titres des ouvrages en métaux précieux est libre.
+
+Le colportage des ouvrages en métaux précieux est interdit.
+
+## Art. 2
+
+Le titre d'un alliage contenant un métal précieux est le rapport par quotient du poids de métal fin au poids total de l'alliage.
+
+Le titre s'exprime en millièmes.
+
+## Art. 3
+
+[<sup>1</sup> Les fabricants, les vendeurs et les acheteurs d'ouvrages en métaux précieux peuvent, s'ils le désirent, soumettre ces ouvrages à la vérification de l'essayeur du gouvernement ou à une institution agréée à cette fin par le Commissaire des monnaies, appelée ci-après une institution d'essai. L'essayeur du gouvernement ou l'institution d'essai appose le poinçon de l'Etat et sa marque sur les ouvrages fabriqués dans les métaux à l'un des titres minima ci-après :
+
+1° pour l'or :
+
+a) premier titre : 833 millièmes;
+
+b) deuxième titre : 750 millièmes;
+
+c) troisième titre : 585 millièmes;
+
+2° pour l'argent :
+
+a) premier titre : 925 millièmes;
+
+b) deuxième titre : 835 millièmes;
+
+3° pour le platine : 950 millièmes.
+
+Ces titres sont les seuls titres légaux que peuvent reconnaître l'essayeur du gouvernement et les institutions d'essai pour l'apposition du poinçon de l'Etat et de leur marque.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2007-06-03/78, art. 2, 004; En vigueur : 01-04-2013&gt;
+
+## Art. 3bis
+
+[<sup>1</sup> L'agrément comme institution d'essai visé à l'article 3, alinéa 1er, est accordé à condition que l'institution soit accréditée dans le secteur des métaux précieux en application de l'article 2 de la loi du 20 juillet 1990 concernant l'accréditation des organismes d'évaluation de la conformité ou dispose d'une accréditation qui est considérée comme équivalente en application de l'article 11 de l'arrêté royal du 31 janvier 2006 portant création du système BELAC d'accréditation des organismes d'évaluation de la conformité.
+
+Le Roi peut déterminer d'autres conditions à l'agrément visé à l'alinéa 1er. Il définit les procédures, règles et compétences pour cet agrément, ainsi que les obligations qui incombent aux institutions agréées et le contrôle auquel elles sont soumises.
+
+Les frais que fait la Monnaie royale de Belgique pour l'examen des demandes d'agrément comme institution d'essai, sont supportés par les demandeurs de l'agrément. Les frais que fait la Monnaie royale de Belgique pour exercer le contrôle sur les institutions agréées sont supportés par ces institutions. Le Roi détermine la manière dont la Monnaie royale de Belgique fait supporter ces frais aux demandeurs et aux institutions agréées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2007-06-03/78, art. 3, 004; En vigueur : 01-04-2013&gt;
+
+## Art. 4
+
+Le métal constituant les diverses parties des ouvrages en métaux précieux doit avoir au minimum le titre plein.
+
+[<sup>1</sup> Alinéa 2 abrogé.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2007-06-03/78, art. 4, 004; En vigueur : 01-04-2013&gt;
+
+## Art. 5
+
+Les ouvrages en métaux précieux dont le titre n'est pas égal à l'un de ceux qui sont prévus à l'article 3, sans être inférieur au plus bas des titres admis, sont marqués au titre légal immédiatement inférieur à celui qui est constaté par l'essai.
+
+## Art. 6
+
+Le titre des ouvrages en métaux précieux est indiqué en millièmes et précédé par les lettres-symboles: au (en minuscules) pour l'or, AG (en majuscules) pour l'argent et PT ou Pt pour le platine.
+
+## Art. 7
+
+Sauf dérogation à prévoir par le Roi, l'empreinte frappée en un seul endroit garantit que toutes les parties composant l'ouvrage sont au titre indiqué.
+
+Si l'ouvrage est composé de plusieurs métaux précieux ou alliages de métaux précieux différents, chacun de ces métaux précieux ou alliages est poinçonné à son titre.
+
+## Art. 8
+
+Le poinçon-signature du fabricant est constitué par un symbole. La plus grande netteté de frappe est imposée.
+
+Préalablement à tout emploi d'un poinçon-signature, son empreinte est approuvée par le commissaire des monnaies.
+
+## Art. 9
+
+Le Roi détermine les ouvrages en métaux précieux de fabrication étrangère qui sont admis en Belgique sans être porteurs des empreintes des poinçons prévus.
+
+Les ouvrages en métaux précieux de fabrication étrangère tombant sous l'application de la présente loi et qui ne sont pas visés par les dispositions prises en exécution de l'alinéa 1er doivent être poinçonnes par l'importateur, qui en garantit le titre par l'insculpation de l'empreinte des poinçons prévus.
+
+## Art. 10
+
+Le Roi détermine la forme des poinçons de l'Etat [<sup>1</sup> , y compris la marque de l'essayeur du gouvernement]<sup>1</sup>;
+
+Il fixe les conditions dans lesquelles les ouvrages en métaux précieux doivent se trouver pour être admis à la vérification du titre.
+
+----------
+
+(1)&lt;L 2007-06-03/78, art. 5, 004; En vigueur : 01-04-2013&gt;
+
+## Art. 10bis
+
+[<sup>1</sup> La marque des institutions d'essai visées à l'article 3 est constituée par un symbole. La plus grande netteté de frappe est imposée.
+
+Préalablement à tout emploi d'une telle marque, son empreinte doit être approuvée par le Commissaire des monnaies. A cette fin, une empreinte sur une planche de cuivre qui y est destinée, et trois reproductions de cette empreinte doivent être déposées auprès du Commissaire des monnaies. Ce dépôt de l'empreinte et son approbation ne portent pas préjudice aux droits des tiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;inséré par L 2007-06-03/78, art. 6, 004; En vigueur : 01-04-2013&gt;
+
+## Art. 11
+
+Le Roi peut organiser l'essai et la procédure de détermination des titres des lingots et des matières d'or, d'argent et de platine, qui sont présentés à l'essayeur du Gouvernement.
+
+Il détermine les modalités relatives au dépôt des empreintes. Il fixe les frais et rétributions dus pour ce dépôt ainsi que pour [<sup>1</sup> les essais et poinçonnages effectués par l'essayeur du gouvernement ou une institution d'essai visée à l'article 3]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2007-06-03/78, art. 7, 004; En vigueur : 01-04-2013&gt;
+
+## Art. 12
+
+Le Roi réglemente la profession d'essayeur du commerce.
+
+## Art. 13
+
+Les fabricants d'ouvrages en or, en argent ou en platine sont tenus de garantir le titre de l'alliage employé par l'insculpation de l'empreinte de deux poinçons.
+
+L'un de ces poinçons constitue le poinçon-signature du fabricant; l'autre indique le titre employé.
+
+La forme et les détails de ces poinçons ainsi que les ouvrages et les catégories de fabricants tombant sous l'application de la présente loi sont déterminés par le Roi.
+
+Sont assimilés aux fabricants, les importateurs et négociants d'ouvrages en métaux précieux pour les ouvrages vendus par eux et qui ne seraient pas poinçonnes conformément à la loi.
+
+[<sup>1</sup> A condition que le poinçon de l'Etat et la marque de l'essayeur du gouvernement ou de l'institution d'essai, tels qu'ils sont prévus aux articles 3, 10 et 10bis, soient apposés ensemble, ils dispensent de tout autre poinçonnage.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2007-06-03/78, art. 8, 004; En vigueur : 01-04-2013&gt;
+
+## Art. 14
+
+Quiconque, offre en vente, ou expose en vue de la vente, des ouvrages d'orfèvrerie en métal argenté est tenu de placer dans son étalage et dans les locaux commerciaux accessibles au public, un ou plusieurs avis visibles et lisibles, portant le texte suivant: "ouvrages en métal argenté, garantis sur facture", à l'exclusion de tout autre texte.
+
+Les factures relatives à ces ouvrages doivent indiquer qu'il s'agit d'ouvrages en métal argenté ou d'ouvrages réargentés selon le cas.
+
+Est interdite l'insculpation, sur ces ouvrages, de poinçons pouvant prêter à confusion avec ceux utilisés pour les ouvrages en argent.
+
+Les ouvrages en métal argenté sont présentés séparément de manière à éviter toute confusion avec les ouvrages en argent exposés ou mis en vente.
+
+## Art. 15
+
+[<sup>1</sup> § 1er. Tout fabricant d'ouvrages en métaux précieux est tenu de déposer au bureau de la garantie relevant de la Monnaie royale de Belgique, où il justifiera de son identité et de son inscription à la Banque Carrefour des Entreprises, une empreinte de son poinçon-signature sur une planche de cuivre à ce destinée, ainsi que trois reproductions de cette empreinte.
+
+§ 2. Tout fabricant, essayeur du commerce ou racheteur en métaux précieux, est tenu de prendre une inscription au registre de la garantie, déposé au bureau de la garantie.
+
+§ 3. Ce registre contient les données à caractère personnel suivantes:
+
+1° pour les personnes physiques :
+
+a) nom ;
+
+b) prénom ;
+
+c) numéro d'identification au Registre national ;
+
+d) numéro d'identification à la Banque-Carrefour des Entreprises ;
+
+e) adresse de courrier électronique ;
+
+f) le poinçon, s'il s'agit d'un fabricant ou d'un essayeur du commerce ;
+
+g) un extrait de casier judiciaire, s'il s'agit d'un racheteur en métaux précieux ou d'un essayeur du commerce ;
+
+2° pour les personnes morales :
+
+a) raison sociale ;
+
+b) adresse du siège ;
+
+c) numéro d'identification à la Banque-Carrefour des Entreprises ;
+
+d) nom de l'administrateur ;
+
+e) prénom de l'administrateur ;
+
+f) adresse de résidence de l'administrateur ;
+
+g) adresse de courrier électronique de la personne morale ;
+
+h) le poinçon, s'il s'agit d'un fabricant ou d'un essayeur du commerce ;
+
+i) un extrait de casier judiciaire de l'administrateur, s'il s'agit d'un racheteur en métaux précieux ou d'un essayeur du commerce.
+
+Lorsque les fabricants, essayeurs du commerce ou racheteurs en métaux précieux sont des personnes physiques, la finalité spécifique pour laquelle leur adresse de courrier électronique est susceptible d'être enregistrée est limitée à l'envoi de notifications lorsqu'un nouveau message est envoyé via l'application sécurisée visée à l'article 15, § 8.
+
+Par dérogation à l'alinéa 2, un message peut être envoyé à leur adresse de courrier électronique si l'application sécurisée ne permet pas l'échange de messages pour des raisons techniques ou de force majeure.
+
+§ 4. La Monnaie royale de Belgique est autorisée à traiter les données de l'extrait de casier judiciaire pour tout racheteur en métaux précieux, en vue de vérifier l'absence de condamnations conformément au paragraphe 9, alinéa 2, 3°, et pour tout essayeur du commerce, en vue de vérifier la condition énoncée à l'article 5, alinéa 1er, 1°, de l'arrêté royal du 18 janvier 1990 portant modalités d'exécution de la loi du 11 août 1987 relative à la garantie des ouvrages en métaux précieux.
+
+Cet extrait est limité aux condamnations relatives aux infractions visées à l'article 1er, a) à f), de l'arrêté royal n° 22 du 24 octobre 1934 relatif à l'interdiction judiciaire faite à certains condamnés et aux faillis d'exercer certaines fonctions, professions ou activités.
+
+§ 5. La Monnaie royale de Belgique traite les données à caractère personnel visées au paragraphe 3 aux fins de :
+
+1° protection des consommateurs, afin de garantir la traçabilité des objets en métaux précieux, au moyen du poinçon ;
+
+2° l'enregistrement et la conservation de ces données à caractère personnel à des fins de lutte contre la fraude, en permettant des contrôles par les autorités compétentes en vertu de l'article 25, visant à prévenir et à réprimer les infractions telles que le recel et l'escroquerie.
+
+§ 6. Les données du registre sont conservées tant que la personne exerce son activité professionnelle, puis pour une période maximum de dix ans après la cessation définitive de son activité professionnelle, sauf pour l'extrait de casier judiciaire qui est conservé maximum un an après l'inscription du racheteur en métaux précieux et de l'essayeur du commerce au registre du bureau de la garantie.
+
+§ 7. Le Service Public Fédéral Finances, représenté par le président du Comité de Direction, est le responsable du traitement au sens du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE et de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, pour le traitement des données à caractère personnel qu'il collecte, traite et conserve en vertu du paragraphe 3.
+
+§ 8. La Monnaie royale de Belgique met à disposition de tout fabricant, essayeur du commerce ou racheteur en métaux précieux, une application électronique sécurisée permettant l'inscription au registre visé au paragraphe 2.
+
+Le registre est accessible aux agents de la Monnaie royale de Belgique, de la police et de l'Inspection économique, dans le cadre de leurs missions respectives.
+
+Chaque personne physique et chaque personne morale, inscrites dans le registre, a également accès à son propre dossier.
+
+Le Roi détermine les modalités d'inscription et d'accès au registre.
+
+§ 9. Par racheteur en métaux précieux, il faut entendre toute entreprise au sens de l'article I.1 du Code de droit économique qui propose au consommateur le rachat d'ouvrages en métaux précieux.
+
+Le racheteur en métaux précieux doit :
+
+1° posséder et utiliser une balance conforme aux exigences légales relatives aux instruments de mesure, et en particulier aux instruments de pesage ;
+
+2° afficher de manière visible des taux de rachat pour les divers métaux précieux ;
+
+3° avoir un casier judiciaire ne comportant aucune condamnation par suite d'une des infractions visées à l'article 1er, a) à f), de l'arrêté royal n° 22 du 24 octobre 1934 relatif à l'interdiction judiciaire faite à certains condamnés et aux faillis d'exercer certaines fonctions, professions ou activités.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2025-12-11/13, art. 148, 007; En vigueur : 03-01-2026&gt;
+
+## Art. 15/1.
+
+[<sup>1</sup> Dans le but de permettre une identification précise et correcte, toute personne physique qui souhaite s'inscrire au registre de la garantie, en tant que fabricant, essayeur du commerce ou racheteur en métaux précieux, est identifiée sur la base de son numéro d'identification au Registre national.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-12-11/13, art. 149, 007; En vigueur : 03-01-2026&gt;
+
+## Art. 15/2.
+
+[<sup>1</sup> § 1er. L'utilisation de l'application visée à l'article 15, § 8, est obligatoire.
+
+Toute communication entre la Monnaie royale de Belgique et les personnes physiques ou morales agissant dans le cadre de leurs activités professionnelles s'effectue au moyen de services électroniques mis à disposition par le Service public fédéral Finances.
+
+§ 2. Le paragraphe 1er s'applique jusqu'à l'entrée en vigueur de l'ensemble des dispositions du chapitre 16 de la loi du 12 mai 2024 visant à digitaliser les relations entre le Service public fédéral Finances, les citoyens, les entreprises, les personnes morales et certains tiers et abrogeant la loi du 26 janvier 2021 sur la dématérialisation des relations entre le Service public fédéral Finances, les citoyens, personnes morales et certains tiers, et modifiant différents codes fiscaux et lois fiscales.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-12-11/13, art. 150, 007; En vigueur : 03-01-2026&gt;
+
+## Art. 16
+
+Le dépôt de l'empreinte d'un poinçon-signature et son approbation ne porte pas préjudice aux droits des tiers.
+
+## Art. 17
+
+Toute personne non ressortissante d'un Etat membre de la Communauté économique européenne est tenue d'accompagner le dépôt de l'empreinte de son poinçon-signature du versement d'un cautionnement déterminé par le Roi.
+
+## Art. 18
+
+[<sup>1</sup> En cas de cession de son établissement, le fabricant cédant ne peut plus utiliser le poinçon-signature enregistré. Le repreneur peut l'utiliser, avec l'accord du cédant, à condition que la reprise soit attestée par l'Office Benelux de la Propriété intellectuelle.
+
+Le Roi détermine les modalités d'information du Bureau de la garantie.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-06-27/09, art. 333, 005; En vigueur : 19-07-2021&gt;
+
+## Art. 19
+
+§ 1er. Seuls les ouvrages poinçonnes conformément à la loi peuvent être vendus comme ouvrages d'or, d'argent ou de platine.
+
+§ 2. (Ne peuvent être dénommés or que les alliages de ce métal dont le titre est supérieur à 333 millièmes.
+
+Ne peuvent être dénommés argent ou platine que les alliages de ces métaux dont le titre est supérieur à 500 millièmes.) &lt;L 1995-04-04/39, art. 30, 002; En vigueur : 02-06-1995&gt;
+
+§ 3. Il est interdit de dénommer or, argent ou platine, les ouvrages renforcés par un métal commun ou bourrés avec une matière quelconque, telle que notamment plomb, mastic, ciment, exception faite des manches d'orfèvrerie, où une nécessité technique rend l'emploi de ces matières inévitable.
+
+§ 4. Afin d'éviter toute confusion entre les ouvrages en or ou en platine et les ouvrages en métaux communs qui sont simplement recouverts d'un de ces métaux précieux, ces derniers ouvrages ne pourront être porteurs d'empreintes dont la présentation rappellerait celle des poinçons prévus par la loi pour la garantie du titre.
+
+## Art. 20
+
+Dans toute vente ayant pour objet des ouvrages en métaux précieux, le vendeur est tenu de délivrer à l'acheteur qui en fait la demande une facture indiquant l'espèce, le poids, le titre et le prix des objets vendus.
+
+## Art. 21
+
+Sans préjudice de l'application de dispositions plus sévères, notamment des articles 184 et 498 du Code pénal, quiconque aura contrevenu aux dispositions de la présente loi sera puni d'une amende [<sup>1</sup> administrative ou pénale]<sup>1</sup> de (50 EUR) à (5.000 EUR). &lt;AR 2001-07-13/50, art. 34, 003; En vigueur : 01-01-2002&gt;
+
+En cas de récidive, une peine de prison de huit jours à six mois pourra être infligée et l'interdiction de garantir les ouvrages par l'apposition du poinçon-signature sera toujours prononcée.
+
+[<sup>1</sup> En cas de récidive, les agents visés à l'article XV.60/4, s'ils prennent la décision d'infliger une amende administrative, peuvent également prononcer une interdiction de garantir les ouvrages par l'apposition du poinçon-signature.]<sup>1</sup>
+
+En outre, en cas d'infraction à l'article 1er, alinéa 2, les ouvrages mis en vente pourront être saisis.
+
+Tout jugement ou arrêt [<sup>1</sup> ou décision définitive d'infliger une amende administrative]<sup>1</sup> prononçant l'interdiction de garantir les ouvrages par l'apposition du poinçon-signature, passé en force de chose jugée, est signifié au commissaire des monnaies, qui en assure la publication par extrait au Moniteur belge.
+
+Cet extrait mentionne les nom, prénoms, adresse et profession du condamné, ainsi que la raison sociale sous laquelle il exerçait sa profession; il reproduit le dispositif de la décision portant l'interdiction de garantir les ouvrages par l'apposition du poinçon-signature.
+
+Les frais de publication au Moniteur belge sont mis à charge des condamnés.
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 89, 006; En vigueur : 31-03-2024&gt;
+
+## Art. 22
+
+La mise en vente des produits revêtus d'un poinçon-signature contrefait sera punie [<sup>1</sup> soit]<sup>1</sup> d'un emprisonnement de huit jours à six mois et d'une amende de (26 EUR) à (2.000 EUR), ou de l'une de ces peines seulement [<sup>1</sup> , soit d'une amende administrative de 26 à 2.000 EUR]<sup>1</sup>. &lt;AR 2001-07-13/50, art. 34, 003; En vigueur : 01-01-2002&gt;
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 90, 006; En vigueur : 31-03-2024&gt;
+
+## Art. 23
+
+Lorsqu'une personne poursuivie pour infraction à la présente loi soutient que le titre des objets fabriqués ou vendus par elle n'est pas inférieur au titre garanti, le titre véritable de l'objet sera déterminé par le commissaire des monnaies.
+
+## Art. 24
+
+Le Livre Ier du Code pénal, sans exception du chapitre VII et de l'article 85, est applicable aux infractions prévues par la présente loi.
+
+## Art. 25
+
+[<sup>1</sup> § 1er. Sans préjudice des compétences des fonctionnaires de police de la police locale et fédérale, [<sup>2</sup> les agents de la Direction générale de l'Inspection économique du Service public fédéral Economie, P.M.E., Classes moyennes et Energie]<sup>2</sup> sont chargés de surveiller l'application de la présente loi et de ses arrêtés d'exécution et sont compétents pour rechercher et constater les infractions aux dispositions de la présente loi. Ils disposent des compétences de recherche et de constatation visées aux articles XV.2 à XV.5, XV.10 et XV.32 à XV.34 dudit code.
+
+§ 2. Les agents commissionnés par le ministre de l'Economie en vertu de l'article XV.2 du Code de droit économique peuvent adresser au contrevenant un avertissement, conformément à l'article XV.31 du même code.
+
+[<sup>2</sup> § 3.]<sup>2</sup> Les agents désignés conformément à l'article XV.61 dudit code peuvent proposer au contrevenant le paiement d'une somme qui éteint l'action publique suivant la procédure prévue par la même disposition.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-06-27/09, art. 334, 005; En vigueur : 19-07-2021&gt;
+
+(2)&lt;L 2024-02-09/19, art. 91, 006; En vigueur : 31-03-2024&gt;
+
+## Art. 25/1.
+
+[<sup>1</sup> § 1er. Les infractions à la présente loi ou à ses arrêtés d'exécution peuvent faire l'objet de:
+
+1° l'application de la procédure de transaction telle que visée à l'article 25, § 3;
+
+2° une poursuite administrative en application de la procédure visée au titre 1/2 du livre XV du Code de droit économique;
+
+3° une poursuite pénale.
+
+§ 2. La poursuite se fait conformément au titre 1/1 du livre XV du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 92, 006; En vigueur : 31-03-2024&gt;
+
+## Art. 25/2.
+
+[<sup>1</sup> Le ministère public notifie aux agents compétents visés à l'article XV.60/4 du Code de droit économique sa décision d'intenter ou non les poursuites pénales ou de proposer ou non une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du Code d'instruction criminelle.
+
+Lorsque le ministère public renonce à intenter les poursuites pénales et à proposer une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du Code d'instruction criminelle, ou si le ministère public n'a pas pris de décision dans un délai de trois mois à compter du jour de la réception du procès-verbal consignant l'infraction, les agents compétents visés à l'article XV.60/4 du Code de droit économique décident s'il y a lieu d'entamer la procédure d'amende administrative.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 93, 006; En vigueur : 31-03-2024&gt;
+
+## Art. 25/3.
+
+[<sup>1</sup> Si le ministère public renonce à intenter les poursuites pénales et à proposer une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du Code d'instruction criminelle, il envoie une copie des pièces de procédure de l'enquête complémentaire aux agents compétents visés à l'article XV.60/4 du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 94, 006; En vigueur : 31-03-2024&gt;
+
+## Art. 25/4.
+
+[<sup>1</sup> Les dispositions du titre 2, chapitre 1/1, du livre XV du Code de droit économique sont applicables aux amendes administratives visées par la présente loi.
+
+Les décimes additionnels visés à l'article 1er, alinéa 1er, de la loi du 5 mars 1952 relative aux décimes additionnels sur les amendes pénales sont également applicables aux amendes administratives visées dans la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 95, 006; En vigueur : 31-03-2024&gt;
+
+## Art. 25/5.
+
+[<sup>1</sup> Les articles XV.71, XV.72, XV.73 et XV.74 du Code de droit économique sont applicables aux infractions pénales à la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 96, 006; En vigueur : 31-03-2024&gt;
+
+## Art. 26
+
+Sont abrogés:
+
+1° la loi du 5 juin 1868 relative à la liberté du travail des matières d'or et d'argent, modifiée par l'arrêté-loi du 28 février 1947;
+
+2° les articles 6 et 7 de la loi du 29 décembre 1909 contenant le budget des voies et moyens pour l'exercice 1910 ainsi que des dispositions relatives au droit de patente, au tarif des douanes, au transit, aux installations des distilleries et à la garantie des matières d'or, d'argent, etc.;
+
+3° l'arrêté royal n° 80 du 28 novembre 1939 complétant et modifiant la loi du 5 juin 1868 relative à la liberté du travail des matières d'or et d'argent, portant institution de la garantie obligatoire du titre des objets en métaux précieux, modifié par l'arrêté-loi du 28 février 1947 et par la loi du 30 juin 1969.

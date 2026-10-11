@@ -1,0 +1,598 @@
+---
+title: "Loi relative à la santé des animaux"
+identifier: "1987016057"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1987/03/24/1987016057/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1987-03-24
+published: 1987-04-17
+entry_into_force: 1987-04-27
+last_amended: 2024-06-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1987/03/24/1987016057/justel"
+department: "Agriculture"
+justel_notes:
+  - "par arrêt du 31 janvier 1989, M.B. du 03-03-1989, p. 3860, la Cour d'arbitrage a annulé pour les Régions wallonne et flamande, les articles 8, al. 1er, 1° à 4°, 10, 11, al. 1 et 2, 14 et 17"
+  - "Consultation des versions antérieures à partir du 09-01-1991 et mise à jour au 21-06-2024"
+retrieved: 2026-10-12
+---
+
+# 24 MARS 1987. - Loi relative à la santé des animaux
+
+## CHAPITRE I. - Dispositions générales.
+
+### Art. 1
+
+[<sup>1</sup> § 1er. Pour l'application de la présente loi, sous réserve du paragraphe 2, on entend par :
+
+1° Ministre : selon le cas le Ministre qui a la Sécurité de la Chaîne alimentaire dans ses attributions ou la Ministre qui a la santé publique dans ses attributions ;
+
+2° SPF : Service public fédéral Santé publique, Sécurité de la chaîne alimentaire et Environnement ;
+
+3° Agence : l'Agence fédérale pour la Sécurité de la Chaîne alimentaire ;
+
+4° Service : suivant le cas, le service vétérinaire du SPF ou l'Agence ;
+
+5° Fonds : Fonds budgétaire pour la Santé et la qualité des animaux et des produits animaux, créé par la loi du 23 mars 1998 relative à la création d'un Fonds budgétaire pour la santé et la qualité des animaux et des produits animaux ;
+
+6° Laboratoire : laboratoire visé par l'arrêté royal du 3 août 2012 relatif à l'agrément des laboratoires qui effectuent des analyses en rapport avec la sécurité de la chaîne alimentaire ;
+
+7° Vétérinaire officiel : le vétérinaire de l'Agence, ou le vétérinaire visé à l'arrêté royal du 20 décembre 2004 portant fixation des conditions dans lesquelles l'Agence Fédérale pour la Sécurité de la Chaîne Alimentaire peut faire exécuter des tâches par des médecins vétérinaires indépendants ;
+
+8° Règlement (UE) 2016/429 : règlement (UE) 2016/429 du Parlement Européen et du Conseil du 9 mars 2016 relatif aux maladies animales transmissibles et modifiant et abrogeant certains actes dans le domaine de la santé animale (" législation sur la santé animale ").
+
+§ 2. Les définitions du règlement (UE) 2016/429 sont d'application pour les dispositions de cette loi qui entrent dans le champ d'application dudit règlement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 8, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 2
+
+La présente loi a pour objet de lutter contre les maladies des animaux [<sup>1</sup> , y compris la lutte contre la résistance antimicrobienne]<sup>1</sup>, dans le but de promouvoir la santé publique et la prospérité économique des détenteurs d'animaux.
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 9, 018; En vigueur : 22-09-2022&gt;
+
+## CHAPITRE II. - Les associations et les fédérations de lutte contre les maladies des animaux.
+
+### Art. 3
+
+Le Roi détermine les conditions auxquelles (les associations et les fédérations de lutte contre les maladies des animaux) doivent satisfaire pour être agréées par le Ministre, notamment en ce qui concerne leur forme juridique, leur compétence territoriale, la composition de l'organe de direction, leur fonctionnement et leurs activités. &lt;L 1990-12-29/30, art. 209, 002; En vigueur : 19-01-1991&gt; Il peut fixer la contribution minimale des membres et les conditions de l'intervention financière de l'Etat. Il détermine le mode de la collaboration avec le Service.
+
+### Art. 4
+
+Les associations et les fédérations de lutte contre les maladies des animaux agréées peuvent être obligées par le [<sup>1</sup> Roi]<sup>1</sup> de participer à l'organisation de la prévention et de la lutte contre les maladies contagieuses des animaux.
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 10, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 5
+
+Les associations et les fédérations de lutte contre les maladies des animaux agréées soumettent au Ministre les décisions de leurs organes de direction, dans les trente jours de leur intervention.
+
+Le Ministre peut annuler toute décision visée à l'alinéa précédent, dans les vingt jours de sa communication soit parce que la décision est contraire à la présente loi ou à un arrêté d'exécution ou aux directives du Ministre, soit parce qu'elle est incompatible avec l'intérêt général en la matière. Avant d'arrêter sa décision, le Ministre peut prolonger le délai de vingt jours par un délai d'une même durée, afin de procéder à un examen complémentaire.
+
+## CHAPITRE III. [<sup>1</sup> - Mesures particulières de prévention, de contrôle et d'éradication contre certaines maladies animales.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 11, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 6
+
+[<sup>1</sup> § 1er. Le présent chapitre est applicable aux maladies répertoriées figurant dans la liste de l'annexe II du Règlement (UE) 2016/429.
+
+§ 2. Le Roi peut désigner d'autres maladies des animaux auxquelles le présent chapitre est applicable.
+
+§ 3. En cas de danger imminent de contamination par une maladie contagieuse, le Service peut prendre des mesures produisant effet pendant trente jours au maximum et en informe sans délai le Ministre.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 12, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 7
+
+§ 1er. Le Roi peut imposer dans les conditions qu'il détermine, [<sup>2</sup> à l'opérateur ou au détenteur d'un animal de compagnie]<sup>2</sup> ou aux vétérinaires la déclaration de toute apparition ou de tout symptôme d'apparition de maladies des animaux et désigner les agents de l'autorité auxquels la déclaration doit être faite.
+
+[<sup>1</sup> § 1er/1. Le Roi peut imposer dans les conditions qu'Il détermine, au responsable d'un laboratoire, la notification des maladies des animaux constatées dans le cadre d'un examen au laboratoire et désigner les agents de l'autorité auxquels la déclaration doit être faite.]<sup>1</sup>
+
+§ 2. Le Roi peut imposer [<sup>2</sup> à l'opérateur ou au détenteur d'un animal de compagnie]<sup>2</sup> l'intervention d'un vétérinaire qui sera chargé de l'exécution des décisions prises par le Service.
+
+§ 3. Le Roi détermine les conditions dans lesquelles les vétérinaires participent à l'exécution de la présente loi [<sup>2</sup> et le cas échéant, détermine le montant des indemnisations qui peuvent leur être accordées]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2017-04-07/10, art. 3, 017; En vigueur : 18-05-2017&gt;
+
+(2)&lt;L 2022-07-12/18, art. 13, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 8
+
+&lt;NOTE: par arrêt du 31 janvier 1989, M.B. du 03-03-1989, p. 3860 la Cour d'arbitrage a annulé pour les Régions wallonne et flamande: l'article 8, al. 1er 1° à 3°, dans la mesure où il s'applique aux animaux vivant à l'état sauvage; à l'alinéa 1er, 3° les mots : "et déterminer également la destination des cadavres ou carcasses de ces animaux ou partie de ceux-ci" dans la mesure où ces cadavres et carcasses sont devenus des déchets; à l'alinéa 1er, 4° les mots : "par les moyens et de la manière qu'il désigne" dans la mesure où ils s'appliquent aux biens autres que les immeubles.&gt;
+
+Le Roi peut:
+
+1° prendre toute mesure ayant pour but de lutter contre les maladies des animaux, de les éradiquer, ainsi que d'empêcher leur propagation, leur introduction dans le pays et leur sortie du pays [<sup>2</sup> et mettre le coût de ces mesures à la charge du responsable]<sup>2</sup>;
+
+2° interdire toutes ou certaines méthodes de lutte contre les maladies des animaux autres que celles qu'Il fixe;
+
+3° prescrire l'abattage ou la mise à mort d'un animal atteint ou contaminé d'une maladie des animaux, ou suspect d'en être atteint ou contaminé, dans le délai qu'il fixe et dans le lieu qu'il désigne, et déterminer également la destination des cadavres ou carcasses de ces animaux ou parties de ceux-ci;
+
+4° prescrire la démolition ou la destruction, par les moyens et de la manière qu'il désigne, de bâtiments, véhicules, produits végétaux ou [<sup>1</sup> d'origine animale]<sup>1</sup>, matières premières pour l'agriculture et l'élevage et de tous autres biens lorsque ceux-ci sont contaminés ou suspects d'être contaminés.
+
+Il détermine dans quelle mesure et sous quelles conditions une indemnité peut être accordée en cas d'application des mesures visées aux [<sup>1</sup> 1°, 3° et 4°]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 14, 018; En vigueur : 22-09-2022&gt;
+
+(2)&lt;L 2023-03-12/13, art. 15, 019; En vigueur : 27-04-1987&gt;
+
+### Art. 9
+
+Le Roi peut:
+
+1° prescrire la mise en observation, l'isolement, la séquestration ou la mise en quarantaine d'animaux atteints ou contaminés par une maladie des animaux ou suspects d'en être atteints ou contaminés, et mettre le coût de ces mesures à charge [<sup>1</sup> de l'opérateur ou du détenteur d'un animal de compagnie]<sup>1</sup>;
+
+2° prescrire à charge [<sup>1</sup> de l'opérateur ou du détenteur d'un animal de compagnie]<sup>1</sup> le nettoyage et la désinfection de bâtiments, d'ustensiles, de moyens de transport et de tous biens qui sont porteurs ou peuvent être porteurs de maladies ou de contages, et imposer à cet effet les produits [<sup>1</sup> de nettoyage et de désinfection]<sup>1</sup> et leur mode d'emploi;
+
+3° interdire ou réglementer le rassemblement, la circulation et le transport d'animaux;
+
+4° interdire ou réglementer la circulation de personnes et de biens dans une zone déterminée;
+
+5° [<sup>1</sup> ...]<sup>1</sup>
+
+6° interdire la possession, la mise dans le commerce, la vente, l'achat, l'échange, la cession à titre gratuit ou onéreux et le transport soit d'un animal auquel un traitement interdit a été appliqué soit d'un animal auquel un traitement désigné n'a pas été appliqué ou a été appliqué d'une manière différente de celle prescrite.
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 15, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 9bis
+
+&lt;L 2005-12-27/31, art. 51, 012; En vigueur : 09-01-2006&gt; Lorsqu'une des maladies reprises sur les listes de l'Organisation mondiale de santé animale (OIE) visées respectivement [<sup>1</sup> au chapitre 1.3 du code sanitaire pour les animaux terrestres]<sup>1</sup> et au chapitre 1.1.3. du code sanitaire pour les animaux aquatiques présente un accroissement soudain et inattendu de la morbidité ou de la mortalité ou de son impact zoonotique, le Ministre est autorisé en cas de danger grave de contamination et jusqu'à l'éradication de la contamination, à prendre toute mesure de lutte, y compris la réquisition d'entreprises, de biens et de personnes et l'abattage ou la mise à mort d'animaux et la détermination de la destination d'animaux, produits animaux ou autres objets.
+
+Le Ministre est autorisé à prendre ces mêmes mesures lors de l'apparition d'une maladie émergente présentant un important impact de morbidité ou de mortalité ou zoonotique.
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 16, 018; En vigueur : 22-09-2022&gt;
+
+## CHAPITRE IV. [<sup>1</sup> - Mesures générales de prévention, de contrôle et d'éradication des maladies animales et de la résistance antimicrobienne.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 17, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 10
+
+&lt;Abrogé par L 2022-07-12/18, art. 18, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 11
+
+&lt;Abrogé par L 2022-07-12/18, art. 18, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 12
+
+Le Roi peut définir les conditions de la collecte, du transport, du traitement et de l'utilisation auxquelles des [<sup>1</sup> produits d'origine animale]<sup>1</sup> et végétaux qui ne sont pas impropres ou qui ne sont pas déclarés impropres à la consommation humaine doivent satisfaire pour servir à l'alimentation des animaux.
+
+Il peut subordonner les activités des personnes effectuant des opérations visées ci-dessus à un agrément préalable, accordé par le Ministre et en fixer les conditions.
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 19, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 13
+
+§ 1er. Sans préjudice des dispositions de la loi du 11 juillet 1969 relative aux pesticides et aux matières premières pour l'agriculture, l'horticulture, la sylviculture et l'élevage, le Roi peut prescrire les conditions sanitaires de la fabrication, de l'importation, de l'exportation, du transit, de la préparation, de la vente, de la détention et du transport de la matière à traiter (et sous-produits animaux). &lt;L 2007-03-01/37, art. 109, 1°, 014; En vigueur : 24-03-2007&gt;
+
+§ 2. Le Roi peut fixer les conditions auxquelles les entreprises de fabrication, de transformation ou de préparation de la matière à traiter (et sous-produits animaux) doivent satisfaire pour être agréées par le Ministre. &lt;L 2007-03-01/37, art. 109, 2°, 014; En vigueur : 24-03-2007&gt;
+
+### Art. 14
+
+&lt;NOTE: par arrêt du 31 janvier 1989, M.B. du 03-03-1989, p. 3860, la Cour d'Arbitrage a annulé cet article pour les Régions wallonne et flamande sauf dans la mesure où cet article réglemente l'importation, l'exportation et le transit de la matière à détruire.&gt;
+
+§ 1er. Le Roi détermine les conditions de ramassage, de transport, d'importation, d'exportation et de traitement de la matière à détruire [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 2. La matière à détruire est uniquement ramassée, transportée, importée et traitée par les usines de destruction.
+
+§ 3. Le Roi fixe les conditions auxquelles les usines de destruction doivent satisfaire pour être agréées par le Ministre. Le Roi définit leur compétence territoriale, la durée de l'agrément qui ne peut dépasser trente ans, l'équipement technique ainsi que les conditions de commercialisation et de destination des produits obtenus par le traitement de la matière à détruire.
+
+Il peut déterminer que le Ministre fixe le tarif de certains enlèvements ainsi que des indemnités pour certaines parties d'animaux qui sont enlevées.
+
+§ 4. Les usines de destruction sont des entreprises d'utilité publique. Elles peuvent être réquisitionnées par les autorités publiques.
+
+§ 5. En dérogation aux dispositions des §§ 1er et 2, le Roi peut fixer les conditions de ramassage, de transport, d'importation, d'utilisation et de traitement de certaines matières à détruire par des entreprises agréées ainsi que les conditions d'agrément de ces entreprises.
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 20, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 15
+
+Sans préjudice des dispositions de la loi du 28 mars 1975 relative au commerce des produits de l'agriculture, de l'horticulture et de la pêche maritime, le Roi peut, en vue de la lutte contre les maladies des animaux [<sup>1</sup> ou contre la résistance antimicrobienne]<sup>1</sup>;
+
+1° fixer les conditions auxquelles doivent satisfaire les animaux, les [<sup>1</sup> produits d'origine animale]<sup>1</sup>, (sous-produits animaux,) [<sup>1</sup> les produits germinaux,]<sup>1</sup> les végétaux et les substrats pour être mis dans le commerce, acquis, offerts en vente, exposés, détenus, transportés, vendus, cédés à titre gratuit ou onéreux, importés, exportés ou traités en transit; &lt;L 2007-03-01/37, art. 110, 1°, 014; En vigueur : 24-03-2007&gt;
+
+2° interdire et réglementer l'importation, l'exportation ou le transit d'animaux, de [<sup>1</sup> produits d'origine animale]<sup>1</sup>, (sous-produits animaux,) [<sup>1</sup> de produits germinaux,]<sup>1</sup> de végétaux et de substrats; &lt;L 2007-03-01/37, art. 110, 2°, 014; En vigueur : 24-03-2007&gt;
+
+3° subordonner les activités des personnes effectuant des opérations indiquées sous 1° à un agrément préalable incessible accordé par le Ministre;
+
+4° fixer les conditions auxquelles sont subordonnées l'obtention et la conservation de l'agrément visé au 3°, dont Il peut fixer la durée, y compris le paiement d'une redevance et la fixation du montant de cette redevance.
+
+(5° fixer les redevances à payer par les opérateurs pour l'obtention d'un certificat sanitaire à l'exportation de sous-produits animaux [<sup>1</sup> , de produits d'origine animale ou de produits germinaux]<sup>1</sup>.) &lt;L 2008-06-08/30, art. 47, 015; En vigueur : 26-06-2008&gt;
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 21, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 16
+
+Le Roi peut fixer les conditions auxquelles doivent répondre les locaux et les espaces en plein air où ont lieu des rassemblements d'animaux pour des expositions, marchés, foires, concours, expertises, manifestations sportives et ventes.
+
+Il peut fixer les conditions auxquelles doivent répondre les [<sup>1</sup> établissements fermés et les établissements qui collectent, rassemblent, traitent, commercialisent ou entreposent les produits germinaux]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 22, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 17
+
+&lt;NOTE: par arrêt du 31 janvier 1989, M.B. 03-03-1989, p. 3860, la Cour d'Arbitrage a annulé cet article pour les Régions wallonne et flamande dans la mesure où il s'applique au marquage des animaux vivant à l'état sauvage.&gt;
+
+Le Roi peut fixer les [<sup>1</sup> conditions]<sup>1</sup> pour l'enregistrement, pour le marquage et pour l'identification des animaux et des [<sup>1</sup> établissements]<sup>1</sup>. Il détermine les conditions auxquelles les pièces d'identification doivent satisfaire pour être agréées par le Ministre, ainsi que les conditions de leur distribution, enregistrement et emploi.
+
+(Il détermine le tarif des [<sup>1</sup> rétributions]<sup>1</sup> pour l'identification et l'enregistrement des animaux, qui sont à la charge [<sup>1</sup> de l'opérateur]<sup>1</sup>.) &lt;L 2005-12-23/31, art. 74, 011; En vigueur : 09-01-2006&gt;
+
+[<sup>1</sup> Il détermine, à la charge du fabricant ou du distributeur du moyen d'identification, le montant de la rétribution unique à payer lors de la demande d'agrément d'un moyen d'identification et le tarif de la rétribution annuelle par moyen d'identification agréé, nécessaire à sa gestion et à sa mise à disposition des opérateurs.]<sup>1</sup>
+
+(Il peut désigner les associations, agréées en application de l'article 3, ou d'autres organismes, agréés par le ministre, comme bénéficiaires de ces redevances et les charger de leur perception. Il fixe les conditions auxquelles ces organismes doivent satisfaire pour être agréés par le ministre.) &lt;L 2006-07-20/39, art. 163, 013; En vigueur : 07-08-2006&gt;
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 23, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 17/1.
+
+[<sup>1</sup> § 1er. Dans le cadre de l'exécution des dispositions de la présente loi, les données personnelles suivantes des opérateurs ou détenteurs d'animaux de compagnie peuvent être traitées et rassemblées dans une base de données informatique:
+
+1° le prénom;
+
+2° le nom de famille;
+
+3° l'adresse physique;
+
+4° le pays;
+
+5° le numéro de téléphone;
+
+6° l'adresse mail;
+
+7° le numéro de registre national;
+
+8° le numéro de T.V.A.;
+
+9° le numéro d'entreprise.
+
+La saisie du numéro de registre national permet d'accéder aux données du registre national pour une gestion efficace de la base de données des opérateurs et détenteurs d'animaux de compagnie.
+
+§ 2. Le traitement des données à caractère personnel visées au paragraphe 1er a pour finalités:
+
+1° pouvoir mettre en oeuvre les articles 109 et 110 du règlement (UE) 2016/429 selon les modalités déterminées par le Roi;
+
+2° de créer les registres tels que prévus aux articles 93, 101, 173 et 185 du règlement (UE) 2016/429.
+
+§ 3. Les personnes physiques ou morales, les organismes et autorités qui ont accès aux données personnelles visées au paragraphe 1er sont:
+
+1° le SPF, l'Agence et l'Agence fédérale des médicaments et des produits de santé, pour la consultation des données qui sont nécessaires à l'exécution de leurs missions;
+
+2° les services/administrations régionaux du bien-être animal pour la consultation des données qui sont nécessaires aux contrôles effectués dans le cadre de la législation relative au bien-être animal;
+
+3° les services/administrations régionaux chargés de l'agriculture et de la pêche, qui ont besoin de données dans le cadre de l'octroi de subventions et de la politique agricole commune;
+
+4° les associations agréées en application de l'arrêté royal du 26 novembre 2006 agréant des associations de lutte contre les maladies des animaux, pour l'exercice de leurs missions;
+
+5° tout laboratoire agréé conformément aux dispositions de l'arrêté royal du 3 août 2012 relatif à l'agrément des laboratoires qui effectue des analyses en rapport avec la sécurité de la chaîne alimentaire et qui reçoit des échantillons à examiner dans le cadre de la prévention ou de la lutte d'une maladie animale, pour retrouver les coordonnées de contact de l'opérateur pour la notification des résultats;
+
+6° tout opérateur enregistré qui reçoit un login et un mot de passe, seulement pour les données qui le concernent, ou toute personne pour les tâches qui lui sont imposées par le Roi;
+
+7° la police fédérale;
+
+8° le vétérinaire agréé et la personne morale vétérinaire agréée pour les données sur les animaux et les établissements des opérateurs avec lesquels ils ont signé une convention d'épidémiosurveillance;
+
+9° Sciensano, créé par la loi du 25 février 2018, pour les missions qui lui sont confiées, visées à l'article 4 de la même loi.
+
+§ 4. Les données traitées qui concernent les personnes physiques ou morales sont conservées pour une durée maximale de dix années civiles consécutives après l'arrêt de l'activité ayant entraîné l'enregistrement de la personne physique ou morale. Ces données sont ensuite éliminées ou anonymisées.
+
+§ 5. Les responsables du traitement sont:
+
+1° le SPF et, ou,
+
+2° l'Agence,
+
+pour les missions qui leur sont imposées par les lois ou par le Roi.
+
+§ 6. Le Roi peut fixer les modalités pour:
+
+1° l'enregistrement et la mise à jour des données visées au paragraphe 1er;
+
+2° l'accès à ces données pour les personnes, organismes ou autorités mentionnés au paragraphe 3;
+
+3° établir la liste des tiers ayant accès aux données visées au paragraphe 1er, ainsi que les modalités et les finalités pour lesquelles il leur est donné accès à ces données.
+
+Il détermine quelles données sont accessibles à chaque personne.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-25/34, art. 2, 020; En vigueur : 01-07-2024&gt;
+
+### Art. 18
+
+Le Roi peut déterminer les livres, attestations, certificats, écriteaux, signes ou autres indications et documents, établissant ou attestant que les conditions fixées par la présente loi et ses arrêtés d'exécution sont réunies.
+
+### Art. 18bis
+
+&lt;Introduit par L 1990-12-29/30, art. 211, 002; En vigueur : 19-01-1991&gt; Le Roi peut déterminer les conditions auxquelles des détenteurs, des transporteurs, des commercants, des travailleurs et des transformateurs d'animaux et de [<sup>1</sup> produits d'origine animale]<sup>1</sup> (et sous-produits animaux) doivent satisfaire en vue de prévenir et de lutter contre les maladies des animaux [<sup>1</sup> ou de prévenir et de lutter contre la résistance antimicrobienne]<sup>1</sup>, notamment en ce qui concerne les formes d'exploitation, les précautions et les équipements hygiéniques, la sécurité sanitaire et les pratiques de commerce. &lt;L 2007-03-01/37, art. 111, 014; En vigueur : 24-03-2007&gt;
+
+Il peut subordonner les activités des personnes visées à l'alinéa 1er à un agrément et déterminer les conditions de retrait de l'agrément.
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 24, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 18ter
+
+[<sup>1</sup> § 1. Le Roi peut déterminer toutes les mesures pour la prévention de et/ou la lutte contre la résistance antimicrobienne.
+
+§ 2. Le Roi peut classer les établissements, ou une partie d'un établissement, sur la base de l'utilisation d'agents antimicrobiens. Il peut définir les paramètres et les limites de cette classification.
+
+Le Roi peut déterminer toutes les mesures pour la prévention de et/ou la lutte contre la résistance antimicrobienne sur base de cette classification.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-12/18, art. 25, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 19
+
+Le Service est chargé en particulier de tout examen sanitaire des animaux et [<sup>1</sup> produits d'origine animale]<sup>1</sup> (et sous-produits animaux) destinés à l'exportation, à l'importation et au transit et de délivrer les certificats de transport et de garanties sanitaires ayant trait à ces examens. Il peut prendre toutes les mesures utiles pour en vérifier l'état sanitaire. &lt;L 2007-03-01/37, art. 112, 014; En vigueur : 24-03-2007&gt;
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 26, 018; En vigueur : 22-09-2022&gt;
+
+## CHAPITRE V. - Surveillance.
+
+### Art. 20
+
+[<sup>1</sup> § 1er. Sans préjudice des pouvoirs des officiers de police judiciaire, les infractions à la présente loi, à ses arrêtés d'exécution et aux règlements et décisions de l'Union européenne en la matière sont recherchées et constatées par:
+
+\- les agents statutaires et contractuels du SPF désignés par le ministre ;
+
+\- les autres agents statutaires et contractuels désignés par le Roi ;
+
+\- les membres du personnel statutaire et contractuel de l'Agence, chargés de l'exécution des contrôles.
+
+§ 2. Les membres du personnel du SPF prêtent serment, préalablement à l'exercice de leur fonction, entre les mains du ministre ou de son délégué.
+
+§ 3. Les agents de l'autorité visés au paragraphe 1er constatent les infractions à la présente loi, à ses arrêtés d'exécution et aux règlements et décisions de l'Union européenne en la matière dans les procès-verbaux faisant foi jusqu'à preuve du contraire. Une copie en est notifiée aux auteurs de l'infraction dans les [<sup>2</sup> trente]<sup>2</sup> jours de la constatation.
+
+§ 4. Dans l'exercice de leurs compétences, les agents de l'autorité visés au paragraphe 1er peuvent à tout moment pénétrer et investiguer dans tout lieu concerné par tous les stades de la chaîne des opérations portant sur les sous-produits animaux et les produits dérivés, tel que visé à l'article 4.2. du Règlement (CE) n° 1069/2009 du Parlement européen et du Conseil du 21 octobre 2009 établissant des règles sanitaires applicables aux sous-produits animaux et produits dérivés non destinés à la consommation humaine et abrogeant le règlement (CE) n° 1774/2002 (règlement relatif aux sous-produits animaux).
+
+Ils ne peuvent procéder à la visite des lieux servant à l'habitation si ce n'est en vertu d'une autorisation du juge au tribunal de police.
+
+Ils peuvent procéder à l'audition du contrevenant et à toute autre audition utile.
+
+Ils peuvent requérir, dans l'exercice de leurs missions, l'assistance des forces de police.
+
+§ 5. Le présent article ne s'applique pas aux contrôles effectués en application de la loi du 4 février 2000 relative à la création de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 27, 018; En vigueur : 22-09-2022&gt;
+
+(2)&lt;L 2024-05-25/34, art. 3, 020; En vigueur : 01-07-2024&gt;
+
+### Art. 20bis
+
+[<sup>1</sup> Lorsqu'une infraction à la présente loi ou à un de ses arrêtés d'exécution ou aux règlements, directives ou décisions européens en la matière est constatée, les agents de l'autorité visés à l'article 20 de la présente loi peuvent adresser au contrevenant un avertissement le mettant en demeure de mettre fin à cette infraction.
+
+L'original de l'avertissement est envoyé au contrevenant dans les quinze jours de la constatation de l'infraction. L'avertissement mentionne:
+
+a) les faits imputés et la ou les dispositions légales enfreintes;
+
+b) le délai dans lequel il doit y être mis fin à l'infraction;
+
+c) qu'au cas où il n'est pas donné suite à l'avertissement, un procès-verbal sera dressé et transmis au procureur du Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-25/34, art. 4, 020; En vigueur : 01-07-2024&gt;
+
+### Art. 21
+
+&lt;L 1990-12-29/30, art. 212, 002; En vigueur : 19-01-1991&gt; Les agents de l'autorité visés à l'article 20 peuvent, en cas d'infraction, saisir les animaux ou biens qui forment l'objet de l'infraction, qui ont servi ou qui ont été destinés à la commettre.
+
+Lorsque la saisie porte sur des animaux pour lesquels l'ordre d'abattage ou de mise à mort n'a pas été exécuté, ou lorsque la saisie porte sur des animaux qui se trouvent en infraction et qui présentent un danger de contamination constaté par les agents de l'autorité, ceux-ci peuvent les faire abattre ou mettre à mort sans délai. Ils peuvent, dans ces cas, refuser les indemnités d'abattage ou de mise à mort et mettre les frais à charge [<sup>1</sup> de l'opérateur ou du détenteur d'un animal de compagnie]<sup>1</sup>.
+
+Dans la mesure où les impératifs sanitaires établis par les agents de l'autorité le permettent, les animaux ou biens saisis peuvent être soit remis à leur propriétaire qui ne pourra en disposer que conformément aux instructions des agents de l'autorité et moyennant le dépôt préalable au greffe du tribunal d'une somme équivalente à la valeur, estimée par un expert, soit vendus par les agents de l'autorité qui, dans ce cas, en déposeront le produit audit greffe.
+
+La somme obtenue tient lieu des animaux ou biens saisis jusqu'à ce qu'il ait été statué sur l'infraction, tant en ce qui concerne sa confiscation que sa restitution éventuelle à l'intéressé.
+
+(A l'exception de la dernière phrase du second alinéa, le présent article ne s'applique pas aux infractions constatées en exécution de l'arrêté royal du 22 février 2001 organisant les contrôles effectués par l'Agence fédérale pour la Sécurité de la Chaîne alimentaire et modifiant diverses dispositions légales.) &lt;AR 2001-02-22/33, art. 21, 009; En vigueur : 01-01-2003&gt;
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 29, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 22
+
+[<sup>1</sup> Les agents de l'autorité visés à l'article 20 peuvent, par mesure administrative retirer ou suspendre l'agrément/autorisation ou interdire les activités d'un opérateur.
+
+L'alinéa précédent ne s'applique pas aux contrôles effectués en application de l'arrêté royal du 22 février 2001 organisant les contrôles effectués par l'Agence fédérale pour la Sécurité de la Chaîne alimentaire et modifiant diverses dispositions légales.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 30, 018; En vigueur : 22-09-2022&gt;
+
+## CHAPITRE VI. - Sanctions.
+
+### Art. 23
+
+[<sup>1</sup> § 1er. Sans préjudice de l'application éventuelle des peines plus sévères prévues par le Code pénal, est puni :
+
+1° d'un emprisonnement de quinze jours à cinq ans et d'une amende de mille euros à dix mille euros ou de l'une de ces peines seulement :
+
+a) celui qui omet ou qui empêche d'abattre ou de mettre à mort dans le délai fixé et dans le lieu désigné un animal dont l'abattage ou la mise à mort a été prescrit conformément à l'article 8 ;
+
+b) celui qui omet ou qui empêche d'appliquer un traitement imposé, celui qui applique un traitement non autorisé ou interdit ou celui qui enfreint l'article 9, 6° ;
+
+c) celui qui transporte des animaux ou les amène à un lieu de rassemblement lorsque le transport, la circulation ou le rassemblement d'animaux sont interdits conformément à l'article 9 ;
+
+d) celui qui ramasse, transporte, importe, exporte, ou traite de la matière à détruire sans y être agréé conformément à l'article 14;
+
+e) celui qui, en omettant d'observer les arrêtés pris en exécution de la présente loi, provoque la contagion d'autres animaux ;
+
+2° d'une amende de cent euros à cinq mille euros :
+
+a) l'opérateur ou le détenteur d'un animal de compagnie ou les vétérinaires qui n'avertissent pas sur-le-champ l'autorité désignée lorsque la déclaration de toute existence ou de toute suspicion d'une maladie des animaux est imposée conformément à l'article 7;
+
+b) l'opérateur qui, pour ses animaux, n'exécute ou ne maintient pas l'enregistrement et l'identification et qui ne produit pas les documents prescrits par les articles 17 et 18 ;
+
+c) celui qui enfreint les dispositions des arrêtés pris en exécution de l'article 15 ;
+
+d) celui qui n'exécute pas les mesures de nettoyage et de désinfection des bâtiments, véhicules et ustensiles, imposés conformément à l'article 9, 2° ;
+
+e) celui qui omet de mettre, détériore, néglige, détruit ou enlève les écriteaux, signes ou autres objets imposés conformément à l'article 18 ;
+
+f) celui qui enfreint les dispositions des articles 8, 4°, 9, 1° et 4°, 12 et 13 ;
+
+3° d'une amende de vingt-six euros à mille euros : celui qui s'oppose aux visites, inspections, saisies, contrôles, prises de sang et d'urine, prélèvements diagnostiques et autres prises d'échantillons ou aux demandes de renseignements ou de documents faits par les agents de l'autorité visés à l'article 20 ou qui, sciemment, fournit des renseignements ou des documents inexacts.
+
+§ 2. En cas de récidive dans les trois ans d'une condamnation antérieure pour une des infractions prévues au présent article, les peines fixées sont portées au double. ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 31, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 24
+
+[<sup>1</sup> Les infractions aux dispositions de la présente loi ou aux arrêtés pris en exécution de la présente loi ou aux règlements et décisions de l'Union européenne en la matière qui ne tombent pas sous l'application de l'article 23, sont punies d'une amende de dix euros à vingt-cinq euros.
+
+En cas de récidive dans les deux ans d'une condamnation antérieure pour une infraction visée au premier alinéa, les peines fixées à l'article 23, § 1er, 3°, sont applicables.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 32, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 25
+
+Toutes les dispositions du livre Ier du Code pénal y compris le chapitre VII et l'article 85 sont applicables aux infractions visées aux articles 23 et 24.
+
+### Art. 26
+
+§ 1er. En cas de condamnation, le tribunal peut ordonner la confiscation ainsi que la destruction des animaux et biens saisis.
+
+La confiscation et la destruction sont toujours ordonnées dans le cas où, sur avis du Service, la nature et la composition du bien l'imposent.
+
+La destruction ordonnée par le tribunal se fait aux frais du condamné.
+
+§ 2. [<sup>1</sup> Le tribunal peut, à charge du condamné, prononcer l'interdiction temporaire ou définitive du droit d'exercer des activités visées par la présente loi ou du droit d'exploiter un établissement. L'infraction à cette défense est punie d'un mois à six mois d'emprisonnement et d'une amende de cent euros à deux mille euros ou de l'une de ces peines seulement.]<sup>1</sup>
+
+§ 3. Si une condamnation définitive constate à charge d'un médecin vétérinaire, une infraction aux dispositions de la présente loi ou de ses arrêtés d'exécution, le parquet adresse une copie de cette condamnation à l'Ordre des médecins vétérinaires ainsi qu'au Ministre.
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 33, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 27
+
+§ 1er. Les infractions à la présente loi et à ses arrêtés d'exécution [<sup>1</sup> et aux règlements et décisions européens en la matière]<sup>1</sup> font l'objet soit de poursuites pénales, soit d'une amende administrative.
+
+Le fonctionnaire verbalisant envoie au procureur du Roi le procès-verbal qui constate l'infraction ainsi qu'une copie au fonctionnaire désigné par le Roi.
+
+§ 2. Le procureur du Roi décide s'il y a lieu ou non à des poursuites pénales.
+
+Les poursuites pénales excluent l'application d'une amende administrative, même si un acquittement les clôture.
+
+§ 3. Le procureur du Roi dispose d'un délai (de trois mois) à compter de la réception du procès-verbal pour notifier sa décision au fonctionnaire désigné par le Roi. &lt;L 1999-02-05/35, art. 33, 1°, 008; En vigueur : 29-03-1999&gt;
+
+Dans le cas où le procureur du Roi renonce à intenter des poursuites pénales ou omet de notifier sa décision dans le délai fixé, le fonctionnaire désigné par le Roi, suivant les modalités et conditions qu'Il fixe, décide, après avoir mis l'intéressé en mesure de présenter ses moyens de défense s'il y a lieu de proposer une amende administrative du chef de l'infraction.
+
+§ 4. La décision du fonctionnaire est motivée et fixe le montant de l'amende administrative qui ne peut être (inférieur à la moitié du minimum) de l'amende prévue par la disposition légale violée, ni supérieur au quintuple de ce minimum. &lt;L 1999-02-05/35, art. 33, 2°, 008; En vigueur : 29-03-1999&gt;
+
+Toutefois, ces montants sont toujours majorés des décimes additionnels fixés pour les amendes pénales.
+
+En outre, les frais d'expertise sont mis à charge du contrevenant.
+
+§ 5. En cas de concours d'infractions, les montants des amendes administratives sont cumulés, sans que leur total puisse excéder le double du maximum prévu au § 4.
+
+§ 6. La décision, visée au § 4 de cet article, est notifiée à l'intéressé par lettre recommandée à la poste en même temps qu'une invitation à acquitter l'amende dans le délai fixé par le Roi. Cette notification éteint l'action publique; le paiement de l'amende administrative met fin à l'action de l'administration.
+
+§ 7. Si l'intéressé demeure en défaut de payer l'amende et les frais d'expertise dans le délai fixé, le fonctionnaire requiert la condamnation à l'amende et aux frais d'expertise devant le tribunal compétent. Les dispositions du Code judiciaire, notamment la quatrième partie, livre II et livre III, sont applicables.
+
+§ 8. Il ne peut être infligé d'amende administrative (cinq ans) après le fait constitutif d'une infraction prévue par la présente loi. &lt;L 1999-02-05/35, art. 33, 3°, 008; En vigueur : 29-03-1999&gt;
+
+Toutefois, les actes d'instruction ou de poursuite faits dans le délai déterminé à l'alinéa 1er de ce paragraphe en interrompent le cours.
+
+Ces actes font courir un nouveau délai d'égale durée, même à l'égard des personnes qui n'y sont pas impliquées.
+
+§ 9. Le Roi détermine les règles de procédure applicables en matière d'amendes administratives.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+(§ 10. La personne morale dont le contrevenant est l'organe ou le préposé est également responsable du paiement de l'amende administrative.) &lt;L 1999-02-05/35, art. 33, 4°, 008; En vigueur : 29-03-1999&gt;
+
+(§ 11. Le présent article ne s'applique pas aux infractions constatées en exécution de l'arrêté royal du 22 février 2001 organisant les contrôles effectués par l'Agence fédérale pour la Sécurité de la Chaîne alimentaire et modifiant diverses dispositions légales.) &lt;AR 2001-02-22/33, art. 21, 009; En vigueur : 01-01-2003&gt;
+
+----------
+
+(1)&lt;L 2012-12-27/15, art. 33, 016; En vigueur : 10-01-2013&gt;
+
+### Art. 28
+
+Le Roi peut fixer les mesures de contrôle destinées à assurer l'exécution des règlements pris en vertu de la présente loi ainsi que les rétributions exigibles à cet effet.
+
+### Art. 28bis
+
+&lt;Inséré par L 1999-02-05/35, art. 34; En vigueur : 29-03-1999&gt; En cas d'infraction aux dispositions de la présente loi ou de ses arrêtés d'exécution, l'Etat belge (ou, suivant le cas, l'Agence fédérale pour la Sécurité de la Chaîne alimentaire) peut procéder au recouvrement des indemnités fixées en vertu des articles 8, alinéa 2, et 9bis, en se constituant partie civile auprès de la juridiction répressive devant laquelle l'action pénale a été portée. Ce droit peut même être exercé pour la première fois en appel. &lt;AR 2001-02-22/33, art. 21, 009; En vigueur : 01-01-2003&gt;
+
+## CHAPITRE VII. - Dispositions diverses.
+
+### Art. 29
+
+&lt;AR 2001-02-22/33, art. 21, 009; En vigueur : 01-01-2003&gt; Sans préjudice des dispositions de la loi du 4 février 2000 relative à la création de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire, le Roi peut déléguer au Ministre l'exercice des pouvoirs prévus à la présente loi qu'Il détermine.
+
+### Art. 30
+
+Les attestations et les certificats visés par la présente loi peuvent, lorsqu'ils sont destinés à usage international, être dressés en plusieurs langues.
+
+### Art. 31
+
+§ 1er. Les dispositions de la présente loi sont applicables en cas d'infraction aux règlements [<sup>1</sup> de l'Union européenne]<sup>1</sup> relatifs à des matières que la présente loi fait relever du pouvoir réglementaire du Roi, et qui sont en vigueur dans le Royaume.
+
+§ 2. Le Roi peut, par arrêté délibéré en Conseil des Ministres, prendre dans le cadre de la présente loi toutes mesures nécessaires à l'exécution des obligations qui découlent du Traité de la C.E.E. et des actes internationaux pris en vertu de ce Traité, ces mesures pouvant comporter l'abrogation et la modification de dispositions législatives.
+
+(§ 3. Les dispositions des §§ 1er et 2 du présent article ne s'appliquent pas aux matières qui relèvent de la compétence de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire.) &lt;AR 2001-02-22/33, art. 21, 009; En vigueur : 01-01-2003&gt;
+
+----------
+
+(1)&lt;L 2022-07-12/18, art. 34, 018; En vigueur : 22-09-2022&gt;
+
+### Art. 32
+
+§ 1er. Sont abrogés:
+
+1° les articles 319, 320 et 321 du Code pénal;
+
+2° la loi du 30 décembre 1882 sur la police sanitaire des animaux et les insectes nuisibles, modifiée par l'arrêté royal du 14 août 1933, par la loi du 2 avril 1971 et par l'arrêté royal n° 426 du 5 août 1986 instaurant un Fonds de la santé et de la production des animaux.
+
+§ 2. (abrogé) &lt;L 1998-03-23/30, art. 21, 007; En vigueur : 30-04-1998&gt;
+
+§ 3. (abrogé) &lt;L 1998-03-23/30, art. 21, 007; En vigueur : 30-04-1998&gt;
+
+§ 4. Les arrêtés réglementaires pris en exécution de la législation visée au § 1er, restent en vigueur jusqu'à leur abrogation explicite.

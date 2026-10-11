@@ -3,7 +3,7 @@ title: "NOUVELLE LOI COMMUNALE (REGION DE BRUXELLES-CAPITALE)"
 identifier: "1988062452"
 eli: "https://www.ejustice.just.fgov.be/eli/loi/1988/06/24/1988062452/justel"
 type: act
-justel_type: "LOI COMMUNALE"
+justel_type: "LOI"
 jurisdiction: be
 language: fr
 date: 1988-06-24
@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1988/06/24/1988062452/justel"
 department: "Région de Bruxelles-Capitale"
 justel_note: "Consultation des versions antérieures à partir du 25-04-2016 et mise à jour au 23-06-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # 24 JUIN 1988. - NOUVELLE LOI COMMUNALE (REGION DE BRUXELLES-CAPITALE)

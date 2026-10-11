@@ -1,0 +1,936 @@
+---
+title: "Loi relative aux allocations aux [personnes handicapées]. <Intitulé modifié par L 2002-12-24/31, art. 115, 018; En vigueur : 01-07-2003>"
+identifier: "1987022077"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1987/02/27/1987022077/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1987-02-27
+published: 1987-04-01
+entry_into_force: 1987-07-01
+last_amended: 2026-04-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1987/02/27/1987022077/justel"
+department: "Prévoyance Sociale"
+justel_note: "Consultation des versions antérieures à partir du 16-04-1987 et mise à jour au 29-04-2026"
+retrieved: 2026-10-12
+---
+
+# 27 FEVRIER 1987. - Loi relative aux allocations aux [personnes handicapées]. &lt;Intitulé modifié par L 2002-12-24/31, art. 115, 018; En vigueur : 01-07-2003&gt;
+
+## Art. 1
+
+&lt;L 1989-12-22/31, art. 127, 003; En vigueur : 01-11-1989&gt; Il existe trois allocations aux (personnes handicapées) : l'allocation de remplacement de revenus, l'allocation d'intégration et l'allocation pour l'aide aux personnes âgées. &lt;L 2002-12-24/31, art. 115, 018; En vigueur : 01-07-2003&gt;
+
+(Pour bénéficier des allocations visées à l'alinéa 1er, il faut satisfaire aux conditions des articles 2, 4 et 7.) &lt;L 2002-12-24/31, art. 116, 018; En vigueur : 01-07-2003&gt;
+
+## Art. 1_COMMUNAUTE_GERMANOPHONE
+
+&lt;L 1989-12-22/31, art. 127, 003; En vigueur : 01-11-1989&gt; Il existe trois allocations aux (personnes handicapées) : l'allocation de remplacement de revenus, l'allocation d'intégration [<sup>1</sup> ...]<sup>1</sup>. &lt;L 2002-12-24/31, art. 115, 018; En vigueur : 01-07-2003&gt;
+
+(Pour bénéficier des allocations visées à l'alinéa 1er, il faut satisfaire aux conditions des articles 2, 4 et 7.) &lt;L 2002-12-24/31, art. 116, 018; En vigueur : 01-07-2003&gt;
+
+----------
+
+(1)&lt;DCG 2022-06-27/07, art. 53, 044; En vigueur : 01-01-2023&gt;
+
+## Art. 1_REGION_WALLONNE
+
+&lt;L 1989-12-22/31, art. 127, 003; En vigueur : 01-11-1989&gt; Il existe trois allocations aux (personnes handicapées) : l'allocation de remplacement de revenus, l'allocation d'intégration [<sup>1</sup> ...]<sup>1</sup>. &lt;L 2002-12-24/31, art. 115, 018; En vigueur : 01-07-2003&gt;
+
+(Pour bénéficier des allocations visées à l'alinéa 1er, il faut satisfaire aux conditions des articles 2, 4 et 7.) &lt;L 2002-12-24/31, art. 116, 018; En vigueur : 01-07-2003&gt;
+
+----------
+
+(1)&lt;DRW 2020-10-01/16, art. 40, 040; En vigueur : 01-01-2021&gt;
+
+## Art. 2
+
+&lt;L 2002-12-24/31, art. 117, 018; En vigueur : 01-07-2003 et modifié par L 2004-07-09/30, art. 156, 023; En vigueur : 01-07-2004&gt; § 1er. L'allocation de remplacement de revenus est accordée à la personne handicapée qui est âgée d'au moins [<sup>1</sup> 18]<sup>1</sup> ans et qui, au moment de l'introduction de la demande, [<sup>2</sup> n'a pas atteint l'âge légal de la pension visé à l'article 2 de l'arrêté royal du 23 décembre 1996 portant exécution des articles 15, 16 et 17 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux de pensions]<sup>2</sup>, dont il est établi que l'état physique ou psychique a réduit sa capacité de gain à un tiers ou moins de ce qu'une personne valide est en mesure de gagner en exerçant une profession sur le marché général du travail.
+
+Le marché général du travail ne comprend pas les entreprises de travail adapté.
+
+§ 2. L'allocation d'intégration est accordée à la personne handicapée qui, au moment de l'introduction de la demande, est âgée d'au moins [<sup>1</sup> 18]<sup>1</sup> ans et [<sup>2</sup> n'a pas atteint l'âge légal de la pension visé à l'article 2 de l'arrêté royal du 23 décembre 1996 portant exécution des articles 15, 16 et 17 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux de pensions]<sup>2</sup>, dont le manque ou la réduction d'autonomie est établi.
+
+§ 3. L'allocation pour l'aide aux personnes âgées est accordée à la personne handicapée âgée d'au moins 65 ans dont le manque ou la réduction d'autonomie est établi.
+
+L'allocation pour l'aide aux personnes âgées n'est pas accordée à la personne handicapée qui bénéficie d'une allocation de remplacement de revenus ou d'une allocation d'intégration.
+
+----------
+
+(1)&lt;L 2020-12-20/19, art. 2, 041; En vigueur : 01-08-2020&gt;
+
+(2)&lt;L 2025-11-13/17, art. 2, 049; En vigueur : 01-01-2025&gt;
+
+## Art. 2_COMMUNAUTE_GERMANOPHONE
+
+&lt;L 2002-12-24/31, art. 117, 018; En vigueur : 01-07-2003 et modifié par L 2004-07-09/30, art. 156, 023; En vigueur : 01-07-2004&gt; § 1er. L'allocation de remplacement de revenus est accordée à la personne handicapée qui est âgée d'au moins [<sup>1</sup> 18]<sup>1</sup> ans et qui, au moment de l'introduction de la demande, est âgée de moins de 65 ans, dont il est établi que l'état physique ou psychique a réduit sa capacité de gain à un tiers ou moins de ce qu'une personne valide est en mesure de gagner en exerçant une profession sur le marché général du travail.
+
+Le marché général du travail ne comprend pas les entreprises de travail adapté.
+
+§ 2. L'allocation d'intégration est accordée à la personne handicapée qui, au moment de l'introduction de la demande, est âgée d'au moins [<sup>1</sup> 18]<sup>1</sup> ans et de moins de 65 ans, dont le manque ou la réduction d'autonomie est établi.
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2020-12-20/19, art. 2, 041; En vigueur : 01-08-2020&gt;
+
+(2)&lt;DCG 2022-06-27/07, art. 54, 044; En vigueur : 01-01-2023&gt;
+
+## Art. 2_REGION_WALLONNE
+
+&lt;L 2002-12-24/31, art. 117, 018; En vigueur : 01-07-2003 et modifié par L 2004-07-09/30, art. 156, 023; En vigueur : 01-07-2004&gt; § 1er. L'allocation de remplacement de revenus est accordée à la personne handicapée qui est âgée d'au moins 21 ans et qui, au moment de l'introduction de la demande, est âgée de moins de 65 ans, dont il est établi que l'état physique ou psychique a réduit sa capacité de gain à un tiers ou moins de ce qu'une personne valide est en mesure de gagner en exerçant une profession sur le marché général du travail.
+
+Le marché général du travail ne comprend pas les entreprises de travail adapté.
+
+§ 2. L'allocation d'intégration est accordée à la personne handicapée qui, au moment de l'introduction de la demande, est âgée d'au moins 21 ans et de moins de 65 ans, dont le manque ou la réduction d'autonomie est établi.
+
+§ 3.[<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DRW 2020-10-01/16, art. 41, 040; En vigueur : 01-01-2021&gt;
+
+## Art. 2_REGION_FLAMANDE
+
+&lt;L 2002-12-24/31, art. 117, 018; En vigueur : 01-07-2003 et modifié par L 2004-07-09/30, art. 156, 023; En vigueur : 01-07-2004&gt; § 1er. L'allocation de remplacement de revenus est accordée à la personne handicapée qui est âgée d'au moins 21 ans et qui, au moment de l'introduction de la demande, est âgée de moins de 65 ans, dont il est établi que l'état physique ou psychique a réduit sa capacité de gain à un tiers ou moins de ce qu'une personne valide est en mesure de gagner en exerçant une profession sur le marché général du travail.
+
+Le marché général du travail ne comprend pas les entreprises de travail adapté.
+
+§ 2. L'allocation d'intégration est accordée à la personne handicapée qui, au moment de l'introduction de la demande, est âgée d'au moins 21 ans et de moins de 65 ans, dont le manque ou la réduction d'autonomie est établi.
+
+§ 3. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2016-06-24/16, art. 61, 034; En vigueur : 01-01-2017&gt;
+
+## Art. 3
+
+(Est assimilé à (une personne handicapée) de [<sup>1</sup> 18]<sup>1</sup> ans, (la personne handicapée âgée) de moins de [<sup>1</sup> 18]<sup>1</sup> ans qui est ou a été mariée ou qui a un ou plusieurs enfants à charge.) &lt;L 1992-12-30/40, art. 47, 009; En vigueur : 01-07-1993; AR 1993-04-14/33, art. 1&gt; &lt;L 2002-12-24/31, art. 115, 018; En vigueur : 01-07-2003&gt;
+
+Le Roi détermine ce qu'il faut entendre par "enfants à charge".
+
+(Est également assimilé à (une personne handicapée) de [<sup>1</sup> 18]<sup>1</sup> ans, (la personne handicapée âgée) de moins de [<sup>1</sup> 18]<sup>1</sup> ans dont il est établi que le handicap est survenu après qu'elle ait cessé d'être ayant droit aux prestations familiales.) &lt;L 1991-07-20/31, art. 57, 007; En vigueur : 01-01-1990&gt; &lt;L 2002-12-24/31, art. 115, 018; En vigueur : 01-07-2003&gt;
+
+----------
+
+(1)&lt;L 2020-12-20/19, art. 2, 041; En vigueur : 01-08-2020&gt;
+
+## Art. 4
+
+&lt;L 2002-12-24/31, art. 118, 018; En vigueur : 01-07-2003&gt; § 1er. Les allocations visées à l'article 1er ne peuvent être octroyées qu'à une personne qui a sa résidence réelle en Belgique et qui est :
+
+1° Belge;
+
+2° ressortissante d'un pays membre de l'Union européenne;
+
+3° Marocaine, Algérienne, ou Tunisienne qui satisfait aux conditions du Règlement (CEE) n° 1408 du 14 juin 1971 du Conseil des Communautés européennes relatif à l'application des régimes de sécurité sociale aux travailleurs salariés, aux travailleurs non salariés ainsi qu'aux membres de leur famille qui se déplacent à l'intérieur de la Communauté;
+
+4° apatride qui tombe sous l'application de la Convention relative au statut des apatrides, signée à New York le 28 septembre 1954 et approuvée par la loi du 12 mai 1960;
+
+5° réfugiée visée à l'article 49 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers [<sup>3</sup> ou bénéficiaire de la protection subsidiaire visée à l'article 49/2 de la même loi du 15 décembre 1980]<sup>3</sup>;
+
+6° exclue des catégories définies aux 1° à 5°, mais qui a bénéficié jusqu'à l'âge de [<sup>2</sup> 18]<sup>2</sup> ans de la majoration de l'allocation familiale prévue à l'article 47, § 1er, des lois coordonnées relatives aux allocations familiales pour travailleurs salariés ou à l'article 20, § 2, de l'arrêté royal du 8 avril 1976 établissant le régime des prestations familiales en faveur des travailleurs indépendants.
+
+[<sup>1</sup> Pour l'allocation de remplacement de revenus, la personne doit également avoir eu sa résidence réelle en Belgique pendant au moins dix ans, dont au moins cinq années ininterrompues.
+
+Pour l'application de la présente loi, la résidence réelle en Belgique est déterminée au moyen des informations enregistrées et conservées pour le bénéficiaire dans le Registre national conformément à l'article 3, alinéa 1er, 5°, de la loi du 8 août 1983 organisant un registre national des personnes physiques.]<sup>1</sup>
+
+§ 2. Le Roi peut, par arrêté délibéré en Conseil des Ministres, aux conditions qu'Il fixe, étendre l'application de la présente loi à d'autres catégories de personnes que celles visées au paragraphe premier qui ont leur résidence réelle en Belgique.
+
+§ 3. Le Roi détermine, par arrêté délibéré en Conseil des Ministres, ce qu'il faut entendre par résidence réelle pour l'application de la présente loi.
+
+§ 4. Si une personne à laquelle une allocation visée à l'article 1er a été octroyée ne satisfait plus aux conditions visées aux § 1er ou § 2, le droit à cette allocation est supprimé. Lorsqu'elle satisfait à nouveau à ces conditions, elle peut introduire une nouvelle demande.
+
+§ 5. Le Roi peut fixer la manière dont est opéré le contrôle du respect de cet article.
+
+----------
+
+(1)&lt;L 2018-03-26/01, art. 23, 036; En vigueur : 01-07-2018&gt; (NOTE : par son arrêt n° 410/2020 du 12-03-2020 (M.B. 30-04-2020, p. 29767), la Cour constitutionnelle a annulé l'article modificatif 23)
+
+(2)&lt;L 2020-12-20/19, art. 2, 041; En vigueur : 01-08-2020&gt;
+
+(3)&lt;L 2023-05-25/13, art. 2, 046; En vigueur : 10-08-2023&gt;
+
+## Art. 5
+
+&lt;L 2002-12-24/31, art. 119, 018; En vigueur : 01-07-2003&gt; Le droit à l'allocation de remplacement de revenus ou à l'allocation d'intégration continue à exister après [<sup>1</sup> l'âge légal de la pension visé par l'article 2 de l'arrêté royal du 23 décembre 1996 portant exécution des articles 15, 16 et 17 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux de pensions]<sup>1</sup> pour autant qu'il reste payable sans interruption.
+
+----------
+
+(1)&lt;L 2025-11-13/17, art. 3, 049; En vigueur : 01-01-2025&gt;
+
+## Art. 6
+
+&lt;L 2002-12-24/31, art. 120, 018; En vigueur : 01-07-2003&gt; § 1er. [<sup>4</sup> L'allocation de remplacement de revenus s'élève par an à:
+
+1° [<sup>10</sup> 6.191,01]<sup>10</sup> pour les personnes appartenant à la catégorie A;
+
+2° [<sup>10</sup> [<sup>11</sup> 9.472,26]<sup>11</sup>]<sup>10</sup> pour les personnes appartenant à la catégorie B;
+
+3° [<sup>10</sup> 12.550,16]<sup>10</sup> pour les personnes appartenant à la catégorie C.]<sup>4</sup>
+
+Le Roi détermine les personnes qui appartiennent aux catégories A, B et C.
+
+§ 2. Le montant de l'allocation d'intégration varie selon le degré d'autonomie et selon la catégorie à laquelle la personne handicapée appartient :
+
+1° à la catégorie 1 appartient la personne handicapée dont le degré d'autonomie est fixé à 7 ou 8 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 908,33 EUR]<sup>3</sup>;
+
+2° à la catégorie 2 appartient la personne handicapée dont le degré d'autonomie est fixé de 9 à 11 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 3.004,40 EUR]<sup>3</sup>;
+
+3° à la catégorie 3 appartient la personne handicapée dont le degré d'autonomie est fixé de 12 à 14 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 4.778,10 EUR]<sup>3</sup>;
+
+4° à la catégorie 4 appartient la personne handicapée dont le degré d'autonomie est fixé à 15 ou 16 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 6.943,85 EUR]<sup>3</sup>;
+
+5° à la catégorie 5 appartient la personne handicapée dont le degré d'autonomie est fixé à 17 points au moins. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 7.872 ,29 EUR]<sup>3</sup>.
+
+§ 3. Le montant de l'allocation pour l'aide aux personnes âgées varie en fonction du degré d'autonomie et de la catégorie à laquelle la personne handicapée appartient :
+
+1° à la catégorie 1 appartient la personne handicapée dont le degré d'autonomie est fixé à 7 ou 8 points. Elle perçoit une allocation pour l'aide aux personnes âgées qui s'élève à 743,98 EUR;
+
+2° à la catégorie 2 appartient la personne handicapée dont le degré d'autonomie est fixé de 9 à 11 points. Elle perçoit une allocation pour l'aide aux personnes âgées qui s'élève à 2.839,94 EUR;
+
+3° à la catégorie 3 appartient la personne handicapée dont le degré d'autonomie est fixé de 12 à 14 points. Elle perçoit une allocation pour l'aide aux personnes âgées qui s'élève à 3.452,91 EUR;
+
+4° à la catégorie 4 appartient la personne handicapée dont le degré d'autonomie est fixé à 15 ou 16 points. Elle perçoit une allocation pour l'aide aux personnes âgées qui s'élève à 4.065,70 EUR;
+
+5° à la catégorie 5 appartient la personne handicapée dont le degré d'autonomie est fixé à 17 ou 18 points. Elle perçoit une allocation pour l'aide aux personnes âgées qui s'élève à 4.994,14 EUR.
+
+§ 4. Le Roi détermine, par arrêté délibéré en Conseil des Ministres, à partir de quel degré, selon quels critères, de quelle manière et par qui le manque d'autonomie est établi.
+
+En matière de degré d'autonomie, le Roi peut faire une distinction suivant qu'il s'agit des personnes handicapées visées à l'article 2, § 2, ou des personnes handicapées visées à l'article 2, § 3.
+
+§ 5. Les montants mentionnés dans le présent article sont liés à l'indice-pivot 103,14 des prix à la consommation (base 1996 = 100) conformément aux dispositions de la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du Trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants.
+
+§ 6. Le Roi peut, par arrêté délibéré en Conseil des Ministres, augmenter les montants fixés dans le présent article.
+
+----------
+
+(1)&lt;AR 2015-09-16/02, art. 1, 032; En vigueur : 01-09-2015&gt;
+
+(2)&lt;AR 2017-08-03/05, art. 1, 035; En vigueur : 01-09-2017&gt;
+
+(3)&lt;AR 2018-07-15/06, art. 1, 037; En vigueur : 01-07-2018&gt;
+
+(4)&lt;L 2018-09-02/07, art. 2, 038; En vigueur : 01-07-2018&gt;
+
+(5)&lt;AR 2019-06-12/03, art. 1, 039; En vigueur : 01-07-2019&gt;
+
+(6)&lt;AR 2019-06-12/03, art. 2, 039; En vigueur : 01-01-2020&gt;
+
+(7)&lt;AR 2021-01-14/26, art. 1, 042; En vigueur : 01-01-2021&gt;
+
+(8)&lt;AR 2021-08-06/10, art. 1, 043; En vigueur : 01-07-2021&gt;
+
+(9)&lt;AR 2023-01-29/10, art. 1, 045; En vigueur : 01-07-2023&gt;
+
+(10)&lt;AR 2023-01-29/10, art. 2, 045; En vigueur : 01-01-2024&gt;
+
+(11)&lt;AR 2026-04-14/09, art. 1, 050; En vigueur : 01-01-2026&gt;
+
+## Art. 6 DROIT FUTUR.
+
+&lt;L 2002-12-24/31, art. 120, 018; En vigueur : 01-07-2003&gt; § 1er. [<sup>4</sup> L'allocation de remplacement de revenus s'élève par an à:
+
+1° [<sup>10</sup> 6.191,01]<sup>10</sup> pour les personnes appartenant à la catégorie A;
+
+2° [<sup>10</sup> [<sup>11</sup> [<sup>12</sup> 9.661,71]<sup>12</sup>]<sup>11</sup>]<sup>10</sup> pour les personnes appartenant à la catégorie B;
+
+3° [<sup>10</sup> 12.550,16]<sup>10</sup> pour les personnes appartenant à la catégorie C.]<sup>4</sup>
+
+Le Roi détermine les personnes qui appartiennent aux catégories A, B et C.
+
+§ 2. Le montant de l'allocation d'intégration varie selon le degré d'autonomie et selon la catégorie à laquelle la personne handicapée appartient :
+
+1° à la catégorie 1 appartient la personne handicapée dont le degré d'autonomie est fixé à 7 ou 8 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 908,33 EUR]<sup>3</sup>;
+
+2° à la catégorie 2 appartient la personne handicapée dont le degré d'autonomie est fixé de 9 à 11 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 3.004,40 EUR]<sup>3</sup>;
+
+3° à la catégorie 3 appartient la personne handicapée dont le degré d'autonomie est fixé de 12 à 14 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 4.778,10 EUR]<sup>3</sup>;
+
+4° à la catégorie 4 appartient la personne handicapée dont le degré d'autonomie est fixé à 15 ou 16 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 6.943,85 EUR]<sup>3</sup>;
+
+5° à la catégorie 5 appartient la personne handicapée dont le degré d'autonomie est fixé à 17 points au moins. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 7.872 ,29 EUR]<sup>3</sup>.
+
+§ 3. Le montant de l'allocation pour l'aide aux personnes âgées varie en fonction du degré d'autonomie et de la catégorie à laquelle la personne handicapée appartient :
+
+1° à la catégorie 1 appartient la personne handicapée dont le degré d'autonomie est fixé à 7 ou 8 points. Elle perçoit une allocation pour l'aide aux personnes âgées qui s'élève à 743,98 EUR;
+
+2° à la catégorie 2 appartient la personne handicapée dont le degré d'autonomie est fixé de 9 à 11 points. Elle perçoit une allocation pour l'aide aux personnes âgées qui s'élève à 2.839,94 EUR;
+
+3° à la catégorie 3 appartient la personne handicapée dont le degré d'autonomie est fixé de 12 à 14 points. Elle perçoit une allocation pour l'aide aux personnes âgées qui s'élève à 3.452,91 EUR;
+
+4° à la catégorie 4 appartient la personne handicapée dont le degré d'autonomie est fixé à 15 ou 16 points. Elle perçoit une allocation pour l'aide aux personnes âgées qui s'élève à 4.065,70 EUR;
+
+5° à la catégorie 5 appartient la personne handicapée dont le degré d'autonomie est fixé à 17 ou 18 points. Elle perçoit une allocation pour l'aide aux personnes âgées qui s'élève à 4.994,14 EUR.
+
+§ 4. Le Roi détermine, par arrêté délibéré en Conseil des Ministres, à partir de quel degré, selon quels critères, de quelle manière et par qui le manque d'autonomie est établi.
+
+En matière de degré d'autonomie, le Roi peut faire une distinction suivant qu'il s'agit des personnes handicapées visées à l'article 2, § 2, ou des personnes handicapées visées à l'article 2, § 3.
+
+§ 5. Les montants mentionnés dans le présent article sont liés à l'indice-pivot 103,14 des prix à la consommation (base 1996 = 100) conformément aux dispositions de la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du Trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants.
+
+§ 6. Le Roi peut, par arrêté délibéré en Conseil des Ministres, augmenter les montants fixés dans le présent article.
+
+----------
+
+(1)&lt;AR 2015-09-16/02, art. 1, 032; En vigueur : 01-09-2015&gt;
+
+(2)&lt;AR 2017-08-03/05, art. 1, 035; En vigueur : 01-09-2017&gt;
+
+(3)&lt;AR 2018-07-15/06, art. 1, 037; En vigueur : 01-07-2018&gt;
+
+(4)&lt;L 2018-09-02/07, art. 2, 038; En vigueur : 01-07-2018&gt;
+
+(5)&lt;AR 2019-06-12/03, art. 1, 039; En vigueur : 01-07-2019&gt;
+
+(6)&lt;AR 2019-06-12/03, art. 2, 039; En vigueur : 01-01-2020&gt;
+
+(7)&lt;AR 2021-01-14/26, art. 1, 042; En vigueur : 01-01-2021&gt;
+
+(8)&lt;AR 2021-08-06/10, art. 1, 043; En vigueur : 01-07-2021&gt;
+
+(9)&lt;AR 2023-01-29/10, art. 1, 045; En vigueur : 01-07-2023&gt;
+
+(10)&lt;AR 2023-01-29/10, art. 2, 045; En vigueur : 01-01-2024&gt;
+
+(11)&lt;AR 2026-04-14/09, art. 1, 050; En vigueur : 01-01-2026&gt;
+
+(12)&lt;AR 2026-04-14/09, art. 2, 050; En vigueur : 01-01-2028&gt;
+
+## Art. 6_COMMUNAUTE_GERMANOPHONE
+
+&lt;L 2002-12-24/31, art. 120, 018; En vigueur : 01-07-2003&gt; § 1er. [<sup>4</sup> L'allocation de remplacement de revenus s'élève par an à:
+
+1° [<sup>12</sup> 6.191,01]<sup>12</sup> pour les personnes appartenant à la catégorie A;
+
+2° [<sup>12</sup> 9.286,53]<sup>12</sup> pour les personnes appartenant à la catégorie B;
+
+3° [<sup>12</sup> 12.550,16]<sup>12</sup> pour les personnes appartenant à la catégorie C.]<sup>4</sup>
+
+Le Roi détermine les personnes qui appartiennent aux catégories A, B et C.
+
+§ 2. Le montant de l'allocation d'intégration varie selon le degré d'autonomie et selon la catégorie à laquelle la personne handicapée appartient :
+
+1° à la catégorie 1 appartient la personne handicapée dont le degré d'autonomie est fixé à 7 ou 8 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 908,33 EUR]<sup>3</sup>;
+
+2° à la catégorie 2 appartient la personne handicapée dont le degré d'autonomie est fixé de 9 à 11 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 3.004,40 EUR]<sup>3</sup>;
+
+3° à la catégorie 3 appartient la personne handicapée dont le degré d'autonomie est fixé de 12 à 14 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 4.778,10 EUR]<sup>3</sup>;
+
+4° à la catégorie 4 appartient la personne handicapée dont le degré d'autonomie est fixé à 15 ou 16 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 6.943,85 EUR]<sup>3</sup>;
+
+5° à la catégorie 5 appartient la personne handicapée dont le degré d'autonomie est fixé à 17 points au moins. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 7.872 ,29 EUR]<sup>3</sup>.
+
+§ 3. [<sup>11</sup> ...]<sup>11</sup>
+
+§ 4. Le Roi détermine, par arrêté délibéré en Conseil des Ministres, à partir de quel degré, selon quels critères, de quelle manière et par qui le manque d'autonomie est établi.
+
+En matière de degré d'autonomie, le Roi peut faire une distinction suivant qu'il s'agit des personnes handicapées visées à l'article 2, § 2, ou des personnes handicapées visées à l'article 2, § 3.
+
+§ 5. Les montants mentionnés dans le présent article sont liés à l'indice-pivot 103,14 des prix à la consommation (base 1996 = 100) conformément aux dispositions de la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du Trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants.
+
+§ 6. Le Roi peut, par arrêté délibéré en Conseil des Ministres, augmenter les montants fixés dans le présent article.
+
+----------
+
+(1)&lt;AR 2015-09-16/02, art. 1, 032; En vigueur : 01-09-2015&gt;
+
+(2)&lt;AR 2017-08-03/05, art. 1, 035; En vigueur : 01-09-2017&gt;
+
+(3)&lt;AR 2018-07-15/06, art. 1, 037; En vigueur : 01-07-2018&gt;
+
+(4)&lt;L 2018-09-02/07, art. 2, 038; En vigueur : 01-07-2018&gt;
+
+(5)&lt;AR 2019-06-12/03, art. 1, 039; En vigueur : 01-07-2019&gt;
+
+(6)&lt;AR 2019-06-12/03, art. 2, 039; En vigueur : 01-01-2020&gt;
+
+(7)&lt;AR 2021-01-14/26, art. 1, 042; En vigueur : 01-01-2021&gt;
+
+(8)&lt;AR 2021-01-14/26, art. 2, 042; En vigueur : 01-01-2022&gt;
+
+(9)&lt;AR 2021-08-06/10, art. 1, 043; En vigueur : 01-07-2021&gt;
+
+(10)&lt;AR 2021-08-06/10, art. 2, 043; En vigueur : 01-01-2022&gt;
+
+(11)&lt;DCG 2022-06-27/07, art. 55, 044; En vigueur : 01-01-2023&gt;
+
+(12)&lt;AR 2023-01-29/10, art. 2, 045; En vigueur : 01-01-2024&gt;
+
+## Art. 6_REGION_WALLONNE
+
+&lt;L 2002-12-24/31, art. 120, 018; En vigueur : 01-07-2003&gt; § 1er. [<sup>4</sup> L'allocation de remplacement de revenus s'élève par an à:
+
+1° [<sup>10</sup> 6.191,01]<sup>10</sup> pour les personnes appartenant à la catégorie A;
+
+2° [<sup>10</sup> 9.286,53]<sup>10</sup> pour les personnes appartenant à la catégorie B;
+
+3° [<sup>10</sup> 12.550,16]<sup>10</sup> EUR pour les personnes appartenant à la catégorie C.]<sup>4</sup>
+
+Le Roi détermine les personnes qui appartiennent aux catégories A, B et C.
+
+§ 2. Le montant de l'allocation d'intégration varie selon le degré d'autonomie et selon la catégorie à laquelle la personne handicapée appartient :
+
+1° à la catégorie 1 appartient la personne handicapée dont le degré d'autonomie est fixé à 7 ou 8 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 908,33 EUR]<sup>3</sup>;
+
+2° à la catégorie 2 appartient la personne handicapée dont le degré d'autonomie est fixé de 9 à 11 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 3.004,40 EUR]<sup>3</sup>;
+
+3° à la catégorie 3 appartient la personne handicapée dont le degré d'autonomie est fixé de 12 à 14 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 4.778,10 EUR]<sup>3</sup>;
+
+4° à la catégorie 4 appartient la personne handicapée dont le degré d'autonomie est fixé à 15 ou 16 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 6.943,85 EUR]<sup>3</sup>;
+
+5° à la catégorie 5 appartient la personne handicapée dont le degré d'autonomie est fixé à 17 points au moins. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 7.872 ,29 EUR]<sup>3</sup>.
+
+§ 3. [<sup>6</sup> ...]<sup>6</sup>
+
+§ 4. Le Roi détermine, par arrêté délibéré en Conseil des Ministres, à partir de quel degré, selon quels critères, de quelle manière et par qui le manque d'autonomie est établi.
+
+En matière de degré d'autonomie, le Roi peut faire une distinction suivant qu'il s'agit des personnes handicapées visées à l'article 2, § 2, ou des personnes handicapées visées à l'article 2, § 3.
+
+§ 5. Les montants mentionnés dans le présent article sont liés à l'indice-pivot 103,14 des prix à la consommation (base 1996 = 100) conformément aux dispositions de la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du Trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants.
+
+§ 6. Le Roi peut, par arrêté délibéré en Conseil des Ministres, augmenter les montants fixés dans le présent article.
+
+----------
+
+(1)&lt;AR 2015-09-16/02, art. 1, 032; En vigueur : 01-09-2015&gt;
+
+(2)&lt;AR 2017-08-03/05, art. 1, 035; En vigueur : 01-09-2017&gt;
+
+(3)&lt;AR 2018-07-15/06, art. 1, 037; En vigueur : 01-07-2018&gt;
+
+(4)&lt;L 2018-09-02/07, art. 2, 038; En vigueur : 01-07-2018&gt;
+
+(5)&lt;AR 2019-06-12/03, art. 1, 039; En vigueur : 01-07-2019&gt;
+
+(6)&lt;DRW 2020-10-01/16, art. 42, 040; En vigueur : 01-01-2021&gt;
+
+(7)&lt;AR 2021-01-14/26, art. 1, 042; En vigueur : 01-01-2021&gt;
+
+(8)&lt;AR 2021-08-06/10, art. 1, 043; En vigueur : 01-07-2021&gt;
+
+(10)&lt;Inséré par AR 2023-01-29/10, art. 2, 045; En vigueur : 01-01-2024&gt;
+
+## Art. 6_REGION_FLAMANDE
+
+&lt;L 2002-12-24/31, art. 120, 018; En vigueur : 01-07-2003&gt; § 1er. [<sup>4</sup> L'allocation de remplacement de revenus s'élève par an à:
+
+1° [<sup>10</sup> 6.191,01]<sup>10</sup> pour les personnes appartenant à la catégorie A;
+
+2° [<sup>10</sup> 9.286,53]<sup>10</sup> pour les personnes appartenant à la catégorie B;
+
+3° [<sup>10</sup> 12.550,16]<sup>10</sup> EUR pour les personnes appartenant à la catégorie C.]<sup>4</sup>
+
+Le Roi détermine les personnes qui appartiennent aux catégories A, B et C.
+
+§ 2. Le montant de l'allocation d'intégration varie selon le degré d'autonomie et selon la catégorie à laquelle la personne handicapée appartient :
+
+1° à la catégorie 1 appartient la personne handicapée dont le degré d'autonomie est fixé à 7 ou 8 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 908,33 EUR]<sup>3</sup>;
+
+2° à la catégorie 2 appartient la personne handicapée dont le degré d'autonomie est fixé de 9 à 11 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 3.004,40 EUR]<sup>3</sup>;
+
+3° à la catégorie 3 appartient la personne handicapée dont le degré d'autonomie est fixé de 12 à 14 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 4.778,10 EUR]<sup>3</sup>;
+
+4° à la catégorie 4 appartient la personne handicapée dont le degré d'autonomie est fixé à 15 ou 16 points. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 6.943,85 EUR]<sup>3</sup>;
+
+5° à la catégorie 5 appartient la personne handicapée dont le degré d'autonomie est fixé à 17 points au moins. Elle perçoit une allocation d'intégration qui s'élève à [<sup>3</sup> 7.872 ,29 EUR]<sup>3</sup>.
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 4. Le Roi détermine, par arrêté délibéré en Conseil des Ministres, à partir de quel degré, selon quels critères, de quelle manière et par qui le manque d'autonomie est établi.
+
+En matière de degré d'autonomie, le Roi peut faire une distinction suivant qu'il s'agit des personnes handicapées visées à l'article 2, § 2, ou des personnes handicapées visées à l'article 2, § 3.
+
+§ 5. Les montants mentionnés dans le présent article sont liés à l'indice-pivot 103,14 des prix à la consommation (base 1996 = 100) conformément aux dispositions de la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du Trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants.
+
+§ 6. Le Roi peut, par arrêté délibéré en Conseil des Ministres, augmenter les montants fixés dans le présent article.
+
+----------
+
+(1)&lt;AR 2015-09-16/02, art. 1, 032; En vigueur : 01-09-2015&gt;
+
+(2)&lt;DCFL 2016-06-24/16, art. 62, 034; En vigueur : 01-01-2017&gt;
+
+(3)&lt;AR 2018-07-15/06, art. 1, 037; En vigueur : 01-07-2018&gt;
+
+(4)&lt;L 2018-09-02/07, art. 2, 038; En vigueur : 01-07-2018&gt;
+
+(5)&lt;AR 2019-06-12/03, art. 1, 039; En vigueur : 01-07-2019&gt;
+
+(6)&lt;AR 2019-06-12/03, art. 2, 039; En vigueur : 01-01-2020&gt;
+
+(7)&lt;AR 2021-01-14/26, art. 1, 042; En vigueur : 01-01-2021&gt;
+
+(8)&lt;AR 2021-08-06/10, art. 1, 043; En vigueur : 01-07-2021&gt;
+
+(9)&lt;AR 2023-01-29/10, art. 1, 045; En vigueur : 01-07-2023&gt;
+
+(10)&lt;Inséré par AR 2023-01-29/10, art. 2, 045; En vigueur : 01-01-2024&gt;
+
+## Art. 7
+
+&lt;L 2002-12-24/31, art. 121, 018; En vigueur : 01-07-2003 et modifié par L 2004-07-09/30, art. 157, 023; En vigueur : 01-07-2004&gt; (NOTE : par son arrêt n° 123/2004 du 07-07-2004 (M.B. 20-07-2004, p. 56291), la Cour d'Arbitrage a annulé l'article 121 du L 2002-12-24/31) § 1er. Les allocations visées à l'article 1er ne peuvent être accordées que si le montant du revenu de la personne handicapée et le montant du revenu de la personne avec laquelle elle forme un ménage ne dépasse pas le montant des allocations visé à l'article 6.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, ce qu'il faut entendre par " revenu " et par qui, selon quels critères et de quelle manière le montant doit en être fixé.
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, déterminer que certains revenus ou parties de revenus, dans les conditions qu'il détermine, ne sont que partiellement ou ne sont pas pris en considération. Il peut opérer une distinction en fonction du fait qu'il s'agit d'une allocation de remplacement de revenus, d'une allocation d'intégration ou d'une allocation pour l'aide aux personnes âgées. Il peut aussi opérer une distinction en fonction de l'appartenance du bénéficiaire à la catégorie A, B ou C, en fonction du degré d'autonomie de la personne handicapée, en fonction du fait qu'il s'agit du revenu de la personne handicapée elle-même ou du revenu de la personne avec laquelle elle forme un ménage, ou en fonction de l'origine des revenus.
+
+§ 2. La personne handicapée et la personne avec laquelle elle forme un ménage, sont tenues de faire valoir leurs droits :
+
+1° aux prestations et indemnités auxquelles elle peut prétendre en vertu d'une autre législation belge ou étrangère ou en vertu de règles applicables au personnel d'une institution internationale publique, et qui trouvent leur fondement dans une limitation de la capacité de gain, dans un manque ou une réduction de l'autonomie ou dans [<sup>1</sup> le livre 6 du Code civil]<sup>1</sup>;
+
+2° à des prestations sociales relatives à la maladie et l'invalidité, au chômage, aux accidents du travail, aux maladies professionnelles, aux pensions de retraite et de survie, à la garantie de revenus aux personnes âgées et au revenu garanti pour personnes âgées.
+
+§ 3. Il y lieu d'entendre par " ménage " toute cohabitation de deux personnes qui ne sont pas parentes ou alliées au premier, deuxième ou troisième degré.
+
+L'existence d'un ménage est présumée lorsque deux personnes au moins qui ne sont pas parentes ou alliées au premier, deuxième ou troisième degré, ont leur résidence principale à la même adresse. La preuve du contraire peut être apportée par tous les moyens possibles par la personne handicapée ou par la direction d'administration des prestations aux personnes handicapées.
+
+Cependant, si un des membres du ménage est détenu en prison ou dans un établissement de défense sociale, le ménage cesse d'exister.
+
+§ 4. Les allocations visées à l'article 1er peuvent être accordées au demandeur à titre d'avance sur les prestations et indemnités visées au § 2.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, dans quelles conditions, selon quelles modalités et jusqu'à concurrence de quel montant ces avances peuvent être accordées, ainsi que leur mode de récupération. Le service ou l'organisme payeur est subrogé aux droits du bénéficiaire jusqu'à concurrence du montant des avances versées.
+
+----------
+
+(1)&lt;L 2024-02-07/18, art. 27, 048; En vigueur : 01-01-2025&gt;
+
+## Art. 7_COMMUNAUTE_GERMANOPHONE
+
+&lt;L 2002-12-24/31, art. 121, 018; En vigueur : 01-07-2003 et modifié par L 2004-07-09/30, art. 157, 023; En vigueur : 01-07-2004&gt; (NOTE : par son arrêt n° 123/2004 du 07-07-2004 (M.B. 20-07-2004, p. 56291), la Cour d'Arbitrage a annulé l'article 121 du L 2002-12-24/31) § 1er. Les allocations visées à l'article 1er ne peuvent être accordées que si le montant du revenu de la personne handicapée et le montant du revenu de la personne avec laquelle elle forme un ménage ne dépasse pas le montant des allocations visé à l'article 6.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, ce qu'il faut entendre par " revenu " et par qui, selon quels critères et de quelle manière le montant doit en être fixé.
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, déterminer que certains revenus ou parties de revenus, dans les conditions qu'il détermine, ne sont que partiellement ou ne sont pas pris en considération. Il peut opérer une distinction en fonction du fait qu'il s'agit d'une allocation de remplacement de revenus, d'une allocation d'intégration [<sup>1</sup> ...]<sup>1</sup>. Il peut aussi opérer une distinction en fonction de l'appartenance du bénéficiaire à la catégorie A, B ou C, en fonction du degré d'autonomie de la personne handicapée, en fonction du fait qu'il s'agit du revenu de la personne handicapée elle-même ou du revenu de la personne avec laquelle elle forme un ménage, ou en fonction de l'origine des revenus.
+
+§ 2. La personne handicapée et la personne avec laquelle elle forme un ménage, sont tenues de faire valoir leurs droits :
+
+1° aux prestations et indemnités auxquelles elle peut prétendre en vertu d'une autre législation belge ou étrangère ou en vertu de règles applicables au personnel d'une institution internationale publique, et qui trouvent leur fondement dans une limitation de la capacité de gain, dans un manque ou une réduction de l'autonomie ou dans [<sup>2</sup> le livre 6 du Code civil]<sup>2</sup>;
+
+2° à des prestations sociales relatives à la maladie et l'invalidité, au chômage, aux accidents du travail, aux maladies professionnelles, aux pensions de retraite et de survie, à la garantie de revenus aux personnes âgées et au revenu garanti pour personnes âgées.
+
+§ 3. Il y lieu d'entendre par " ménage " toute cohabitation de deux personnes qui ne sont pas parentes ou alliées au premier, deuxième ou troisième degré.
+
+L'existence d'un ménage est présumée lorsque deux personnes au moins qui ne sont pas parentes ou alliées au premier, deuxième ou troisième degré, ont leur résidence principale à la même adresse. La preuve du contraire peut être apportée par tous les moyens possibles par la personne handicapée ou par la direction d'administration des prestations aux personnes handicapées.
+
+Cependant, si un des membres du ménage est détenu en prison ou dans un établissement de défense sociale, le ménage cesse d'exister.
+
+§ 4. Les allocations visées à l'article 1er peuvent être accordées au demandeur à titre d'avance sur les prestations et indemnités visées au § 2.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, dans quelles conditions, selon quelles modalités et jusqu'à concurrence de quel montant ces avances peuvent être accordées, ainsi que leur mode de récupération. Le service ou l'organisme payeur est subrogé aux droits du bénéficiaire jusqu'à concurrence du montant des avances versées.
+
+----------
+
+(1)&lt;DCG 2022-06-27/07, art. 56, 044; En vigueur : 01-01-2023&gt;
+
+(2)&lt;L 2024-02-07/18, art. 27, 048; En vigueur : 01-01-2025&gt;
+
+## Art. 7_REGION_WALLONNE
+
+&lt;L 2002-12-24/31, art. 121, 018; En vigueur : 01-07-2003 et modifié par L 2004-07-09/30, art. 157, 023; En vigueur : 01-07-2004&gt; (NOTE : par son arrêt n° 123/2004 du 07-07-2004 (M.B. 20-07-2004, p. 56291), la Cour d'Arbitrage a annulé l'article 121 du L 2002-12-24/31) § 1er. Les allocations visées à l'article 1er ne peuvent être accordées que si le montant du revenu de la personne handicapée et le montant du revenu de la personne avec laquelle elle forme un ménage ne dépasse pas le montant des allocations visé à l'article 6.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, ce qu'il faut entendre par " revenu " et par qui, selon quels critères et de quelle manière le montant doit en être fixé.
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, déterminer que certains revenus ou parties de revenus, dans les conditions qu'il détermine, ne sont que partiellement ou ne sont pas pris en considération. Il peut opérer une distinction en fonction du fait qu'il s'agit d'une allocation de remplacement de revenus, d'une allocation d'intégration[<sup>1</sup> ...]<sup>1</sup>. Il peut aussi opérer une distinction en fonction de l'appartenance du bénéficiaire à la catégorie A, B ou C, en fonction du degré d'autonomie de la personne handicapée, en fonction du fait qu'il s'agit du revenu de la personne handicapée elle-même ou du revenu de la personne avec laquelle elle forme un ménage, ou en fonction de l'origine des revenus.
+
+§ 2. La personne handicapée et la personne avec laquelle elle forme un ménage, sont tenues de faire valoir leurs droits :
+
+1° aux prestations et indemnités auxquelles elle peut prétendre en vertu d'une autre législation belge ou étrangère ou en vertu de règles applicables au personnel d'une institution internationale publique, et qui trouvent leur fondement dans une limitation de la capacité de gain, dans un manque ou une réduction de l'autonomie ou dans [<sup>2</sup> le livre 6 du Code civil]<sup>2</sup>;
+
+2° à des prestations sociales relatives à la maladie et l'invalidité, au chômage, aux accidents du travail, aux maladies professionnelles, aux pensions de retraite et de survie, à la garantie de revenus aux personnes âgées et au revenu garanti pour personnes âgées.
+
+§ 3. Il y lieu d'entendre par " ménage " toute cohabitation de deux personnes qui ne sont pas parentes ou alliées au premier, deuxième ou troisième degré.
+
+L'existence d'un ménage est présumée lorsque deux personnes au moins qui ne sont pas parentes ou alliées au premier, deuxième ou troisième degré, ont leur résidence principale à la même adresse. La preuve du contraire peut être apportée par tous les moyens possibles par la personne handicapée ou par la direction d'administration des prestations aux personnes handicapées.
+
+Cependant, si un des membres du ménage est détenu en prison ou dans un établissement de défense sociale, le ménage cesse d'exister.
+
+§ 4. Les allocations visées à l'article 1er peuvent être accordées au demandeur à titre d'avance sur les prestations et indemnités visées au § 2.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, dans quelles conditions, selon quelles modalités et jusqu'à concurrence de quel montant ces avances peuvent être accordées, ainsi que leur mode de récupération. Le service ou l'organisme payeur est subrogé aux droits du bénéficiaire jusqu'à concurrence du montant des avances versées.
+
+----------
+
+(1)&lt;DRW 2020-10-01/16, art. 43, 040; En vigueur : 01-01-2021&gt;
+
+(2)&lt;L 2024-02-07/18, art. 27, 048; En vigueur : 01-01-2025&gt;
+
+## Art. 8
+
+&lt;L 2002-12-24/31, art. 122, 018; En vigueur : 01-07-2003&gt; § 1er. Les allocations visées à l'article 1er sont accordées sur demande.
+
+Le Roi détermine comment, par qui, à partir de quand et de quelle manière la demande est introduite, ainsi que la date de prise de cours de la décision.
+
+Chaque demande d'allocation de remplacement de revenus vaut comme demande d'allocation d'intégration et inversement.
+
+La demande d'allocation d'intégration ou d'allocation de remplacement de revenus introduite par une personne qui a atteint [<sup>2</sup> l'âge légal de la pension visé à l'article 2 de l'arrêté royal du 23 décembre 1996 portant exécution des articles 15, 16 et 17 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux de pensions]<sup>2</sup> au moment de l'introduction de la demande, est considérée comme une demande d'allocation pour l'aide aux personnes âgées.
+
+Le Roi peut déterminer les cas dans lesquels une demande introduite en vue d'obtenir une prestation sociale du régime de la sécurité sociale ou de l'assistance sociale vaut comme demande d'obtention d'une allocation visée à l'article 1.
+
+[<sup>1</sup> § 1erbis. Lorsque la personne résidant en Belgique perd le droit aux allocations familiales majorées pour les enfants présentant une affection parce qu'elle a atteint la limite d'âge prévue par la réglementation, ses droits aux allocations visées à l'article 1er sont examinés d'office avec effet au premier jour du mois qui suit celui au cours duquel cette limite d'âge est atteinte.
+
+Le Roi détermine les cas dans lesquels les allocations visées à l'article 1er, sont examinées d'office.
+
+Le Roi fixe les modalités d'application de l'alinéa 1er.]<sup>1</sup>
+
+§ 2. Le Roi détermine dans quels cas une nouvelle demande peut être introduite.
+
+Le Roi détermine comment, par qui et de quelle manière la nouvelle demande est introduite, ainsi que la date de prise de cours de la décision.
+
+§ 3. Le recours auprès du tribunal compétent contre une décision d'octroi, de révision ou de refus d'une allocation visée à l'article 1er vaut comme nouvelle demande au sens du § 2 s'il est déclaré irrecevable.
+
+§ 4. Le Roi détermine dans quels cas une nouvelle décision peut être prise. Il détermine également la date de prise de cours de la nouvelle décision.
+
+§ 5. Le Roi détermine dans quels cas une décision peut être rapportée.
+
+----------
+
+(1)&lt;L 2007-03-06/46, art. 2, 024; En vigueur : indéterminée &gt;
+
+(2)&lt;L 2025-11-13/17, art. 4, 049; En vigueur : 01-01-2025&gt;
+
+## Art. 8_COMMUNAUTE_GERMANOPHONE
+
+&lt;L 2002-12-24/31, art. 122, 018; En vigueur : 01-07-2003&gt; § 1er. Les allocations visées à l'article 1er sont accordées sur demande.
+
+Le Roi détermine comment, par qui, à partir de quand et de quelle manière la demande est introduite, ainsi que la date de prise de cours de la décision.
+
+Chaque demande d'allocation de remplacement de revenus vaut comme demande d'allocation d'intégration et inversement.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Le Roi peut déterminer les cas dans lesquels une demande introduite en vue d'obtenir une prestation sociale du régime de la sécurité sociale ou de l'assistance sociale vaut comme demande d'obtention d'une allocation visée à l'article 1.
+
+[<sup>1</sup> § 1erbis. Lorsque la personne résidant en Belgique perd le droit aux allocations familiales majorées pour les enfants présentant une affection parce qu'elle a atteint la limite d'âge prévue par la réglementation, ses droits aux allocations visées à l'article 1er sont examinés d'office avec effet au premier jour du mois qui suit celui au cours duquel cette limite d'âge est atteinte.
+
+Le Roi détermine les cas dans lesquels les allocations visées à l'article 1er, sont examinées d'office.
+
+Le Roi fixe les modalités d'application de l'alinéa 1er.]<sup>1</sup>
+
+§ 2. Le Roi détermine dans quels cas une nouvelle demande peut être introduite.
+
+Le Roi détermine comment, par qui et de quelle manière la nouvelle demande est introduite, ainsi que la date de prise de cours de la décision.
+
+§ 3. Le recours auprès du tribunal compétent contre une décision d'octroi, de révision ou de refus d'une allocation visée à l'article 1er vaut comme nouvelle demande au sens du § 2 s'il est déclaré irrecevable.
+
+§ 4. Le Roi détermine dans quels cas une nouvelle décision peut être prise. Il détermine également la date de prise de cours de la nouvelle décision.
+
+§ 5. Le Roi détermine dans quels cas une décision peut être rapportée.
+
+----------
+
+(1)&lt;L 2007-03-06/46, art. 2, 024; En vigueur : indéterminée &gt;
+
+(2)&lt;DCG 2022-06-27/07, art. 57, 044; En vigueur : 01-01-2023&gt;
+
+## Art. 8_REGION_WALLONNE
+
+&lt;L 2002-12-24/31, art. 122, 018; En vigueur : 01-07-2003&gt; § 1er. Les allocations visées à l'article 1er sont accordées sur demande.
+
+Le Roi détermine comment, par qui, à partir de quand et de quelle manière la demande est introduite, ainsi que la date de prise de cours de la décision.
+
+Chaque demande d'allocation de remplacement de revenus vaut comme demande d'allocation d'intégration et inversement.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Le Roi peut déterminer les cas dans lesquels une demande introduite en vue d'obtenir une prestation sociale du régime de la sécurité sociale ou de l'assistance sociale vaut comme demande d'obtention d'une allocation visée à l'article 1.
+
+[<sup>1</sup> § 1erbis. Lorsque la personne résidant en Belgique perd le droit aux allocations familiales majorées pour les enfants présentant une affection parce qu'elle a atteint la limite d'âge prévue par la réglementation, ses droits aux allocations visées à l'article 1er sont examinés d'office avec effet au premier jour du mois qui suit celui au cours duquel cette limite d'âge est atteinte.
+
+Le Roi détermine les cas dans lesquels les allocations visées à l'article 1er, sont examinées d'office.
+
+Le Roi fixe les modalités d'application de l'alinéa 1er.]<sup>1</sup>
+
+§ 2. Le Roi détermine dans quels cas une nouvelle demande peut être introduite.
+
+Le Roi détermine comment, par qui et de quelle manière la nouvelle demande est introduite, ainsi que la date de prise de cours de la décision.
+
+§ 3. Le recours auprès du tribunal compétent contre une décision d'octroi, de révision ou de refus d'une allocation visée à l'article 1er vaut comme nouvelle demande au sens du § 2 s'il est déclaré irrecevable.
+
+§ 4. Le Roi détermine dans quels cas une nouvelle décision peut être prise. Il détermine également la date de prise de cours de la nouvelle décision.
+
+§ 5. Le Roi détermine dans quels cas une décision peut être rapportée.
+
+----------
+
+(1)&lt;L 2007-03-06/46, art. 2, 024; En vigueur : indéterminée &gt;
+
+(2)&lt;DRW 2020-10-01/16, art. 44, 040; En vigueur : 01-01-2021&gt;
+
+## Art. 8_REGION_FLAMANDE
+
+&lt;L 2002-12-24/31, art. 122, 018; En vigueur : 01-07-2003&gt; § 1er. Les allocations visées à l'article 1er sont accordées sur demande.
+
+Le Roi détermine comment, par qui, à partir de quand et de quelle manière la demande est introduite, ainsi que la date de prise de cours de la décision.
+
+Chaque demande d'allocation de remplacement de revenus vaut comme demande d'allocation d'intégration et inversement.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Le Roi peut déterminer les cas dans lesquels une demande introduite en vue d'obtenir une prestation sociale du régime de la sécurité sociale ou de l'assistance sociale vaut comme demande d'obtention d'une allocation visée à l'article 1.
+
+[<sup>1</sup> § 1erbis. Lorsque la personne résidant en Belgique perd le droit aux allocations familiales majorées pour les enfants présentant une affection parce qu'elle a atteint la limite d'âge prévue par la réglementation, ses droits aux allocations visées à l'article 1er sont examinés d'office avec effet au premier jour du mois qui suit celui au cours duquel cette limite d'âge est atteinte.
+
+Le Roi détermine les cas dans lesquels les allocations visées à l'article 1er, sont examinées d'office.
+
+Le Roi fixe les modalités d'application de l'alinéa 1er.]<sup>1</sup>
+
+§ 2. Le Roi détermine dans quels cas une nouvelle demande peut être introduite.
+
+Le Roi détermine comment, par qui et de quelle manière la nouvelle demande est introduite, ainsi que la date de prise de cours de la décision.
+
+§ 3. Le recours auprès du tribunal compétent contre une décision d'octroi, de révision ou de refus d'une allocation visée à l'article 1er vaut comme nouvelle demande au sens du § 2 s'il est déclaré irrecevable.
+
+§ 4. Le Roi détermine dans quels cas une nouvelle décision peut être prise. Il détermine également la date de prise de cours de la nouvelle décision.
+
+§ 5. Le Roi détermine dans quels cas une décision peut être rapportée.
+
+----------
+
+(1)&lt;L 2007-03-06/46, art. 2, 024; En vigueur : indéterminée &gt;
+
+(2)&lt;DCFL 2016-06-24/16, art. 63, 034; En vigueur : 01-01-2017&gt;
+
+## Art. 8bis
+
+&lt;Inséré par L 2002-12-24/31, art. 123; En vigueur : 01-07-2003 et modifié par L 2004-07-09/30, art. 158, 023; En vigueur : 01-07-2003&gt; Le Roi determine :
+
+1° la manière dont les demandes d'obtention des allocations visées à l'article 1er sont traitées et en particulier la manière dont les administrations publiques interviennent lors de la fixation du revenu du demandeur et de la personne avec laquelle il forme un ménage;
+
+2° la manière dont le ministre qui a les allocations aux personnes handicapées dans ses attributions prend une décision au sujet de ces demandes;
+
+3° les délais dans lesquels les demandes d'allocations sont examinées [<sup>1</sup> , étant entendu qu'ils ne pourront excéder six mois à partir du 1er janvier 2010.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-03-13/35, art. 1, 027; En vigueur : 06-04-2009&gt;
+
+## Art. 8ter
+
+[<sup>1</sup> Les données nécessaires à l'application de la présente loi, y compris des nouvelles données susceptibles de donner lieu à une modification du montant de l'allocation, seront recueillies auprès des services et des institutions qui en disposent sur support électronique, sans préjudice des dispositions de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-Carrefour de la sécurité sociale.
+
+Le Roi détermine les données devant être communiquées par la personne handicapée.
+
+Le Roi détermine les modalités et les délais dans lesquels cette communication doit être faite.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2007-03-06/46, art. 3, 024; En vigueur : indéterminée &gt;
+
+## Art. 9
+
+(abrogé) &lt;L 2002-12-24/31, art. 124, 018; En vigueur : 01-07-2003&gt;
+
+## Art. 10
+
+&lt;L 2002-12-24/31, art. 125, 018; En vigueur : 01-07-2003&gt; La décision d'octroi, de révision ou de refus d'une allocation visée à l'article 1er doit, sous peine de nullité, être dûment motivée.
+
+Elle doit contenir les mentions suivantes :
+
+1° la possibilité d'intenter un recours devant le tribunal compétent;
+
+2° l'adresse du tribunal compétent;
+
+3° le délai et les modalités pour intenter un recours;
+
+4° le contenu des articles 728 et 1017 du Code judiciaire;
+
+5° les références du dossier et du service qui gère celui-ci;
+
+6° la possibilité d'obtenir toute explication sur la décision auprès du service qui gère le dossier ou d'un service d'information désigné.
+
+Si la décision ne contient pas les mentions prévues à l'alinéa précédent, le délai de recours ne commence pas à courir.
+
+## Art. 11
+
+Les allocations sont payées selon les règles établies par le Roi.
+
+(alinéa supprimé) &lt;L 2002-12-24/31, art. 126, 018; En vigueur : 01-07-2003&gt;
+
+## Art. 11bis
+
+(abrogé) &lt;L 2002-12-24/31, art. 126, 018; En vigueur : 01-07-2003&gt;
+
+## Art. 12
+
+§ 1er. (En cas d'admission (de la personne handicapée) dans une institution, totalement ou partiellement à charge des pouvoirs publics, d'un service public ou d'un organisme de sécurité sociale, le paiement est, dans les conditions que le Roi détermine par arrêté délibéré en Conseil des Ministres, suspendu (pour 28 pour cent) pour l'allocation d'intégration (...).) &lt;L 1989-12-22/31, art. 134, 003; En vigueur : 01-11-1989&gt; &lt;L 2002-12-24/31, art. 128, 017; En vigueur : 01-01-2003&gt; &lt;L 2002-12-24/31, art. 115, 018; En vigueur : 01-07-2003&gt; &lt;L 2007-04-27/35, art. 38, 025; En vigueur : 01-06-2007&gt;
+
+§ 2. (Le Roi détermine par arrêté délibéré en Conseil des Ministres, les cas dans lesquels les allocations visées à l'article 1er sont totalement ou partiellement suspendues à l'égard des bénéficiaires détenus dans les prisons ou internés dans les établissements de défense sociale, ainsi que la durée de la suspension.) &lt;L 2002-12-24/31, art. 128, 017; En vigueur : 01-01-2003&gt;
+
+## Art. 13
+
+(abrogé) &lt;L 2002-12-24/31, art. 129, 018; En vigueur : 01-07-2003&gt;
+
+## Art. 14
+
+&lt;L 2002-12-24/31, art. 130, 018; En vigueur : 01-07-2003&gt; Les montants octroyés lors de la fixation ou de la révision du droit aux allocations visées à l'article 1er en application des articles 6, 7 et 12 sont liés aux variations de l'indice des prix à la consommation conformément aux dispositions de la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du Trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants.
+
+## Art. 15
+
+&lt;L 1989-12-22/31, art. 136; 003; En vigueur : 01-11-1989&gt; Le Roi détermine, par arrêté délibéré en Conseil des Ministres, les termes échus et non payés des allocations dont le paiement peut être effectué après le décès du bénéficiaire, les personnes physiques auxquelles ils sont payés, l'ordre dans lequel ces personnes peuvent exercer leur droit et les formalités qui doivent être observées, ainsi que le délai d'introduction de la demande.
+
+## Art. 16
+
+&lt;L 2002-12-24/31, art. 131, 018; En vigueur : 01-07-2003&gt; § 1er. La répétition des allocations versées indûment se prescrit par trois ans à compter de la date du paiement.
+
+Le délai prévu à l'alinéa 1er est ramené à un an lorsque le paiement résulte uniquement de l'erreur d'un service administratif ou organisme, et dont l'intéressé ne peut normalement se rendre compte.
+
+Le délai prévu à l'alinéa 1er est porté à cinq ans lorsque les sommes indues ont été perçues suite à des manoeuvres frauduleuses ou à des déclarations fausses ou sciemment incomplètes. Ce délai de cinq ans vaut aussi pour les sommes qui ont été payées à tort par suite d'une absence, par le débiteur, d'une déclaration, prescrite par une disposition légale ou réglementaire, ou faisant suite à un engagement pris antérieurement.
+
+§ 2. La décision de répétition est, sous peine de nullité, portée à la connaissance des débiteurs par lettre recommandée.
+
+Cette lettre mentionne :
+
+1° la constatation de l'indu;
+
+2° le montant total de l'indu, ainsi que le mode de calcul;
+
+3° le contenu et les références des dispositions en infraction desquelles les paiements ont été effectués;
+
+4° le délai de prescription pris en considération, et, lorsqu'il n'est pas de trois ans, sa justification;
+
+5° la possibilité d'introduire un recours auprès du tribunal du travail compétent dans les trois mois de la présentation du pli recommandé à l'intéressé;
+
+6° la possibilité de soumettre une proposition motivée en vue d'un remboursement étalé;
+
+7° la possibilité, pour le ministre qui a les allocations aux personnes handicapées dans ses attributions, de renoncer d'office ou à la demande de la personne handicapée, à la récupération des allocations payées indûment.
+
+Si la décision ne contient pas les mentions prévues à l'alinéa précédent, le délai de recours ne commence pas à courir.
+
+§ 3. La prescription est interrompue par le dépôt du pli recommandé, la récupération par la retenue sur les allocations ou le remboursement volontaire effectué par la personne handicapée.
+
+§ 4. La récupération s'opère de plein droit sur les allocations échues et non encore versées.
+
+Si les montants échus non encore versés sont supérieurs à l'indu, la différence entre les arriérés et la dette est payée à la personne handicapée.
+
+§ 5. A défaut pour le service de pouvoir récupérer l'indu sur des allocations dues par lui, la récupération peut être opérée à la demande de celui-ci par un service ou un organisme versant l'une des prestations visées au § 1er, 2°, 3°, 4°, 5° et 8° de l'article 1410 du Code Judiciaire, ou sur des montants échus non encore versés de ces mêmes prestations.
+
+§ 6. La décision de récupération ne peut être exécutée qu'après un délai de trois mois à partir de la notification.
+
+Lorsque le bénéficiaire a introduit une demande en renonciation avant l'expiration de ce délai de trois mois, la récupération est suspendue jusqu'à ce que le ministre qui a les allocations aux personnes handicapées dans ses attributions ait statué sur la demande.
+
+Si la demande en renonciation est introduite au-delà du délai de trois mois suivant la notification de l'indu, la récupération des sommes indues est entamée ou continuée jusqu'à ce que le ministre qui a les allocations aux personnes handicapées dans ses attributions ait pris une décision contraire.
+
+§ 7. Il est renoncé d'office à la récupération des allocations payées indûment, au décès de la personne handicapée.
+
+Il n'est toutefois pas renoncé d'office :
+
+1° en cas de dol ou de fraude;
+
+2° si, au moment du décès de l'intéressé, il existe des allocations échues et non encore payées. Dans ce cas, la récupération s'effectue sur les allocations échues mais non encore payées à l'intéressé ou aux personnes visées à l'article 15, et ce même si l'intéressé avait introduit de son vivant une demande en renonciation pour laquelle le ministre n'aurait pas encore pris de décision;
+
+3° quand le montant à récupérer est supérieur au montant à déterminer par le Roi.
+
+§ 8. Le ministre qui a les allocations aux personnes handicapées dans ses attributions peut, dans les conditions déterminées par le Roi, renoncer d'office ou à la demande de la personne handicapée, à la récupération des allocations payées indûment lorsqu'il s'agit de cas dignes d'intérêt ou que la somme payée indûment est inférieure à un montant à déterminer par le Roi ou est hors de proportion avec les frais de procédure présumés.
+
+Le Roi détermine le mode d'introduction de la demande en renonciation. La demande en renonciation doit être motivée.
+
+## Art. 17
+
+Les ordonnances de paiement des allocations ne doivent pas être munies du visa à l'article 14, premier alinéa, de la loi organique de la Cour des comptes du 29 octobre 1846.
+
+La justification de ces dépenses payées au moyen d'ouverture de crédit se fait sur présentation de bordereaux récapitulatifs de paiement, approuvés par le Ministre qui a la sécurité sociale dans ses attributions ou par son délégué et estampillés par [<sup>1</sup> bpost]<sup>1</sup> &lt;L 1991-03-21/30, art. 130, 004; En vigueur : 01-10-1992&gt;
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 029; En vigueur : 17-01-2011&gt;
+
+## Art. 18
+
+Toutes les administrations publiques, tous les organismes chargés de l'application de la législation sur la sécurité sociale, les accidents du travail, les maladies professionnelles et l'assistance, ainsi que les bénéficiaires d'allocations, sont tenus de communiquer à l'autorité octroyante, ainsi qu'au service ou organisme payeur, sur simple réquisition et sans déplacement, tous renseignements utiles à l'accomplissement de leur mission.
+
+(Les dispensateurs de soins sont tenus de communiquer tous renseignements ou documents utiles à l'évaluation de la réduction de capacité de gain et/ou du manque ou de la réduction d'autonomie. La communication ou l'utilisation de ces renseignements et documents sont subordonnées au respect du secret médical.) &lt;L 1998-02-22/43, art. 264, 010; En vigueur : 03-03-1998&gt;
+
+## Art. 18bis
+
+&lt;inséré par L 1989-12-22/31, art. 137, 003; En vigueur : 01-11-1989&gt; Les copies photographiques, microphotographiques ou par moyen électronique des documents détenus par le (Service des allocations aux handicapés (NOTE : le mots "handicapés" est remplacé partout dans la présente loi par les mots "personnes handicapées")) font foi comme les originaux, si elles ont été établies par ce service ou sous son contrôle. &lt;L 2002-12-24/31, art. 115, 018; En vigueur : 01-07-2003&gt;
+
+## Art. 19
+
+Les litiges portant sur les droits résultant de la présente loi sont de la compétence des juridictions du travail.
+
+Le recours contre une décision du Ministre ou de son délégué doit être formé dans les (trois mois) de sa notification. &lt;AR 1998-07-05/44, art. 2, 011; En vigueur : 01-01-1997&gt;
+
+Aucun recours n'est possible contre une décision de renoncer ou non à une récupération.
+
+L'action engagée devant les juridictions du travail n'est pas suspensive.
+
+(Dans les affaires pour lesquelles un expert médical est désigné, les provisions, les honoraires et les frais de cet expert, contenus dans le relevé qu'il établit conformément aux dispositions du Code judiciaire, sont indiqués en appliquant le tarif fixé par le Roi.) &lt;L 1992-06-26/30, art. 164, 008; En vigueur : 10-07-1992&gt; &lt;L 1998-02-22/43, art. 265, 010; En vigueur : 03-03-1998&gt;
+
+## Art. 20
+
+Pour exercer les compétences qui Lui sont conférées par la présente loi, le Roi prend l'avis du (Conseil supérieur national des handicapés. (NOTE : le mot "handicapés" est remplacé partout dans la présente loi par les mots "personnes handicapées".)) &lt;L 2002-12-24/31, art. 115, 018; En vigueur : 01-07-2003&gt;
+
+## Art. 21
+
+Il est institué auprès (de la Direction d'administration des prestations aux personnes handicapées) une Commission d'aide sociale aux (personnes handicapées), dont le Roi fixe la composition et le mode de fonctionnement. &lt;L 2002-12-24/31, art. 115, 018; En vigueur : 01-07-2003&gt;
+
+La commission donne son avis sur des matières relatives à des cas individuels, qui lui sont soumis par le Ministre qui a la sécurité sociale dans ses attributions.
+
+## Art. 22
+
+Les dépenses découlant de l'application de la présente loi sont à charge de l'Etat.
+
+## Art. 23
+
+L'article 47, premier alinéa, des lois coordonnées relatives aux allocations familiales pour travailleurs salariés, modifié par la loi du 30 juin 1981 et l'arrêté royal n° 131 du 30 décembre 1982, est remplacé par l'alinéa suivant : "....."
+
+## Art. 24
+
+L'article 47, premier alinéa, des mêmes lois, tel qu'il existait avant d'avoir été modifié par la présente loi reste d'application en faveur des enfants handicapés qui ont au moins [<sup>1</sup> 18]<sup>1</sup> ans à la date d'entrée en vigueur de cette loi.
+
+----------
+
+(1)&lt;L 2020-12-20/19, art. 2, 041; En vigueur : 01-08-2020&gt;
+
+## Art. 25
+
+A l'article 47bis des mêmes lois, inséré par l'arrêté royal n° 122 du 30 décembre 1982 et modifié par l'arrêté royal n° 207 du 13 septembre 1983 et l'arrêté royal n° 282 du 31 mars 1984, sont apportées les modifications suivantes :
+
+1° dans le premier alinéa, les mots " tel qu'il existait avant d'avoir été modifié par la loi du ... " sont insérés entre les mots " article 63, premier alinéa, 2°, de ces lois " et " sont accordées ".
+
+2° dans le deuxième alinéa, les mots " tel qu'il existait avant d'avoir été modifié par la loi du ... " sont insérés entre les mots " article 63, premier alinéa, 2°, de ces lois " et " d'un travailleur ".
+
+## Art. 26
+
+L'article 63 des mêmes lois modifié par l'arrêté royal n° 207 du 13 septembre 1983, est remplacé par les dispositions suivantes : "....."
+
+## Art. 27
+
+L'article 63 des mêmes lois tel qu'il existait avant d'avoir été modifié par la présente loi, reste d'application en faveur des enfants handicapés bénéficiaires d'allocations familiales âgés d'au moins [<sup>1</sup> 18]<sup>1</sup> ans à la date de l'entrée en vigueur de cette loi.
+
+----------
+
+(1)&lt;L 2020-12-20/19, art. 2, 041; En vigueur : 01-08-2020&gt;
+
+## Art. 28
+
+La loi du 27 juin 1969 relative à l'octroi d'allocations aux (handicapés (NOTE : le mot "handicapés est remplacé partout dans la présente loi par les mots "personnes handicapées")) est abrogée. &lt;L 2002-12-24/31, art. 115, 018; En vigueur : 01-07-2003&gt;
+
+(La loi du 27 juin 1969 reste toutefois d'application pour les (personnes handicapées auxquelles) il a été accordé une allocation (ordinaire, spéciale, et/ou une allocation pour l'aide d'une tierce personne y afférente, visés à l'article 2 de la loi du 27 juin 1969) qui a pris cours avant le 1er janvier 1975 et qui continuent à bénéficier de cette allocation conformément aux dispositions règlementaires qui étaient applicables avant cette date, à moins que l'application de la présente loi ne leur soit plus avantageuse. En aucun cas, l'application de la présente loi ne peut entraîner à leur égard une déchéance du droit à l'allocation ou une diminution de l'allocation.) &lt;L 1992-12-30/40, art. 52, 009; En vigueur : 01-07-1993; AR 1993-04-14/33, art. 1&gt; &lt;L 2000-08-12/62, art. 209, 1°, 013; En vigueur : 01-07-2000&gt; &lt;L 2002-12-24/31, art. 115, 018; En vigueur : 01-07-2003&gt;
+
+(En matière de prescription de la répétition des allocations, visées à l'alinéa 2, versées indûment, l'article 16 de la présente loi est d'application.) &lt;L 2001-07-19/38, art. 58, 015; En vigueur : 28-07-2001&gt;
+
+(Les (personnes handicapées) qui bénéficient d'une allocation complémentaire, d'une allocation de complément du revenu garanti aux personnes âgées et/ou d'une allocation pour l'aide d'une tierce personne y afférente, continuent à percevoir ces allocations aux montants liquidés par [<sup>1</sup> le Service fédéral des Pensions]<sup>1</sup> au 30 juin 2000 jusqu'à ce que, à l'occasion d'une révision effectuée à leur demande ou d'office, une décision en application de la présente loi ait été prise à leur égard. &lt;L 2002-12-24/31, art. 115, 018; En vigueur : 01-07-2003&gt;
+
+Toutefois, les montants visés au paragraphe précédent varient conformément aux dispositions de la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du Trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants.) &lt;L 2000-08-12/62, art. 209, 2°, 013; En vigueur : 01-07-2000&gt;
+
+(Toutefois, le Roi détermine, par arrêté délibéré en Conseil des Ministres, quels sont les droits auxquels peuvent prétendre les (personnes handicapées auxquelles) il a été accordé une allocation complémentaire et/ou une allocation pour l'aide d'une tierce personne y afférente, ayant pris cours après le 31 décembre 1974 mais avant le 1er juillet 1987.) &lt;L 1989-12-22/31, art. 138, 003; En vigueur : 01-11-1989&gt; &lt;L 2002-12-24/31, art. 115, 018; En vigueur : 01-07-2003&gt;
+
+----------
+
+(1)&lt;L 2016-03-18/03, art. 112, 033; En vigueur : 01-04-2016&gt;
+
+## Art. 29
+
+Le Roi peut adapter dans les dispositions légales existantes, la forme des références aux dispositions portées par la présente loi.
+
+## Art. 30
+
+Le Roi fixe la date d'entrée en vigueur des dispositions de la présente loi.
+
+(NOTE : entrée en vigueur fixée au 01-07-1987, par AR 1987-07-06/30, art. 40)

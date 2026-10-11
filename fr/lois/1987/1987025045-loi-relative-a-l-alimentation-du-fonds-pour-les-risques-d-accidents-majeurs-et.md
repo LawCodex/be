@@ -1,0 +1,312 @@
+---
+title: "[Loi relative à l'alimentation du fonds pour les risques d'accidents majeurs et du fonds pour la prévention des accidents majeurs.] <L 2002-05-26/43, art. 2, 008; En vigueur : 07-07-2002>"
+identifier: "1987025045"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1987/01/21/1987025045/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1987-01-21
+published: 1987-03-10
+entry_into_force: 1987-03-20
+last_amended: 2022-12-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1987/01/21/1987025045/justel"
+department: "Santé Publique et Environnement"
+justel_note: "Consultation des versions antérieures à partir du 07-11-1987 et mise à jour au 29-12-2022"
+retrieved: 2026-10-12
+---
+
+# 21 JANVIER 1987. - [Loi relative à l'alimentation du fonds pour les risques d'accidents majeurs et du fonds pour la prévention des accidents majeurs.] &lt;L 2002-05-26/43, art. 2, 008; En vigueur : 07-07-2002&gt;
+
+## Art. 1
+
+&lt;L 2002-05-26/43, art. 3, 008; En vigueur : 07-07-2002&gt; La présente loi est d'application aux établissements visés à l'article 3, § 1er, alinéa 2, de l'accord de coopération visé à l'article 2, 1°.
+
+La présente loi n'est pas d'application aux entrepôts de transit.
+
+## Art. 2
+
+&lt;L 2002-05-26/43, art. 4, 008; En vigueur : 07-07-2002&gt; Au sens de cette loi, on entend par :
+
+1° accord de coopération : l'accord de coopération du 21 juin 1999 entre l'Etat fédéral, les régions flamande et wallonne et la Région de Bruxelles-Capitale concernant la maîtrise des dangers liés aux accidents majeurs impliquant des substances dangereuses, approuvé par la loi du 22 mai 2001;
+
+2° présence de substances dangereuses, établissement, nouvel établissement, installation, exploitant, substances dangereuses : les mêmes définitions que celles visées aux articles 3 et 4 de l'accord de coopération;
+
+3° entrepôt de transit : un entrepôt qui satisfait simultanément aux conditions suivantes :
+
+\- l'entrepôt est uniquement destiné à l'entreposage temporaire de biens emballés;
+
+\- l'entrepôt est situé en dehors de l'établissement où ces biens sont produits ou utilisés;
+
+\- aucune activité, autre que celles qui ont rapport avec le transport et l'entreposage des biens, n'est effectuée à l'intérieur de cet entrepôt;
+
+\- l'exploitant doit prouver, au moyen de documents, que l'entreposage temporaire fait partie de la chaîne de transport globale des biens;
+
+4° valeur liminale : les valeurs mentionnées dans la troisième colonne des parties 1 et 2 de l'annexe I de l'accord de coopération.
+
+## Art. 3
+
+(Abrogé) &lt;L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+## Art. 4
+
+(Abrogé) &lt;L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+## Art. 5
+
+(Abrogé) &lt;(Abrogé) L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+## Art. 6
+
+(Abrogé) &lt;L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+## Art. 7
+
+§ 1er. (...) &lt;L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+§ 2. (...) &lt;L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+§ 2bis. &lt;Inséré par L 1990-12-29/30, art. 207, 005; En vigueur : 19-01-1991&gt; 1° (Pour couvrir les frais d'administration, de fonctionnement, d'étude et d'investissement encourus pour la protection civile ainsi que les frais des missions de prévention effectuées par les ministres ayant l'Emploi et le Travail et l'Environnement dans leurs attributions, en application de la présente loi, il est percu un prélèvement (par établissement). (Le prélèvement est dû par l'exploitant)) &lt;L 1992-06-26/30, art. 159, 006; En vigueur : 01-01-1993&gt; &lt;L 2002-05-26/43, art. 5, 008; En vigueur : 07-07-2002&gt;
+
+Pour l'application des présentes dispositions, (chaque établissement est classé) par caractéristiques de substances et paramètres de procédés (de l'établissement) dans une des catégories suivantes : &lt;L 2002-05-26/43, art. 5, 008; En vigueur : 07-07-2002&gt;
+
+Indice d'incendie Indice de
+
+et d'explosion (F) toxicité (T)
+
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+
+Catégorie I F &lt; 65 T &gt; 6
+
+Catégorie II 65 &lt; F &lt; 95 6 &lt; T &lt; 10
+
+Catégorie III F &gt; 95 T &gt; 10
+
+(L'indice d'incendie et d'explosion F est calculé comme suit :
+
+F = MF x (1 + GPH x (1 + SPH
+
+tot) tot)
+
+Ou :
+
+MF est le facteur matériel, le critère de l'énergie potentielle des
+
+substances dangereuses impliquées, déterminé à l'aide de critères qui sont
+
+une mesure pour l'inflammabilité et la réactivité, comme l'importance du
+
+point d'ignition, la température adiabatique de désagrégation et les
+
+résultats des essais calorimétriques;
+
+GPH est un critère des risques inhérents au procédé utilisé, selon sa
+
+tot
+
+nature et ses caractéristiques, tel que celui-ci doit être décrit dans le
+
+rapport de sécurité dont le contenu est fixe a l'annexe II de l'accord de
+
+coopération;
+
+SPH est un critère des risques propres a l'installation concernée, selon
+
+tot
+
+les conditions de fonctionnement, la nature et l'ampleur de l'installation,
+
+fixe au moyen de critères qui se rapportent :
+
+\- a la température du procédé;
+
+\- la pression;
+
+\- le fonctionnement ou non en dessous de la pression atmosphérique ou a
+
+proximité de la zone présentant un risque d'explosion;
+
+\- la quantité de matières inflammables présentes dans l'installation;
+
+\- le taux de corrosion des matériaux utilisées;
+
+\- la mesure dans laquelle des fuites peuvent se produire.
+
+) &lt;L 2002-05-26/43, art. 5, 008; En vigueur : 07-07-2002&gt;
+
+(L'indice de toxicité T est calcule comme suit :
+
+T = TF x (1 + GPH + SPH
+
+tot tot)
+
+Ou :
+
+TF est le facteur de toxicité, le critère de toxicité potentielle des
+
+substances dangereuses impliquées, calcule au moyen de critères qui sont
+
+une mesure pour la toxicité comme l'importance des valeurs LD50 et LC50 et
+
+des concentrations maximales admises sur le lieu du travail.
+
+GPH et SPH ont les mêmes valeurs que celles qui s'appliquent pour le
+
+tot tot
+
+calcul de l'indice d'incendie et d'explosion, comme vise à l'alinéa
+
+précédent.
+
+) &lt;L 2002-05-26/43, art. 5, 008; En vigueur : 07-07-2002&gt;
+
+Lorsque plusieurs produits sont impliqués dans l'(établissement), le calcul doit se faire par produit et par installation. Pour chaque valeur obtenue, il est tenu compte de la valeur la plus élevée. &lt;L 2002-05-26/43, art. 5, 008; En vigueur : 07-07-2002&gt;
+
+Le Roi détermine les modalités et la procédure de fixation des valeurs d'indice.
+
+Le Ministre de l'Emploi et du Travail veille à ce que les (établissements) soient (classés) dans une des catégories visées à l'alinéa 2. Au cas où l'(établissement), après calcul de l'indice d'incendie et d'explosion et de l'indice de toxicité, entre en ligne de compte pour une catégorie différente, la catégorie la plus élevée est d'application. &lt;L 2002-05-26/43, art. 5, 008; En vigueur : 07-07-2002&gt;
+
+Pour les (établissements) ainsi (classés), le montant du prélèvement est fixé comme suit : &lt;L 2002-05-26/43, art. 5, 008; En vigueur : 07-07-2002&gt;
+
+catégorie I : 500 000 francs;
+
+catégorie II : 1 000 000 de francs;
+
+catégorie III : (2 400 000 francs.) &lt;L 1992-06-26/30, art. 159, 006; En vigueur : 01-01-1993&gt;
+
+Ces montants sont liés aux fluctuations de l'indice des prix à la consommation, conformément à la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du Trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants; à cette fin, les montants sont liés à l'indice-pivot 240,77.
+
+(Lorsque l'établissement est composé de plusieurs installations individuelles, à l'intérieur desquelles les valeurs liminales en matière de présence de substances dangereuses sont dépassées en soi, le calcul se fait par installation et le prélèvement est dû par installation.
+
+Lorsque plusieurs installations au sein d'un établissement font partie d'une unité de production intégrée, ces installations sont considérées, dans le cadre de l'application de cette loi, comme une seule installation.) &lt;L 2002-05-26/43, art. 5, 008; En vigueur : 07-07-2002&gt;
+
+(2° Le produit du prélèvement est destiné à :
+
+a) un " Fonds pour la prévention des accidents majeurs " créé au budget du Ministère de l'Emploi et du Travail à concurrence de [<sup>2</sup> 2.500.000 euros]<sup>2</sup>, destiné à couvrir les frais des missions de prévention; &lt;AR 2008-09-09/44, art. 1, 009; En vigueur : 01-01-2008&gt;
+
+b) un " Fonds pour les risques d'accidents majeurs " créé au budget du Ministère de l'Intérieur et de la Fonction publique à concurrence du solde, destiné à couvrir les frais d'administration, de fonctionnement, d'étude et d'investissement encourus pour la protection civile.
+
+Les deux Fonds précités constituent des fonds au sens de l'article 45 des lois sur la comptabilité de l'Etat, coordonnées le 17 juillet 1991.
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, adapter le montant de (deux millions d'euros)). &lt;L 1993-08-06/30, art. 70, 007; En vigueur : 19-08-1993&gt; &lt;AR 2008-09-09/44, art. 1, 009; En vigueur : 01-01-2008&gt;
+
+3° Le prélèvement est dû à partir de l'exercice d'imposition 1991.
+
+Le prélèvement est établi en fonction de la situation durant l'année précédente.
+
+L'imposition du prélèvement a lieu une fois par an, au courant du mois de mars.
+
+(Pour l'exercice d'imposition 2002, le prélèvement a lieu au mois d'octobre 2002, pour les établissements visés à l'article 1er et qui y sont soumis pour la première fois.) &lt;L 2002-05-26/43, art. 6, 008; En vigueur : 07-07-2002&gt;
+
+Le Roi désigne les fonctionnaires du Ministère de l'Intérieur qui sont chargés de la perception et du recouvrement du prélèvement et du contrôle du respect des obligations liées au prélèvement.
+
+4° Le Roi détermine les modalités de paiement du prélèvement.
+
+Le montant du prélèvement est notifié par lettre recommandée à la poste et le paiement est effectué dans les deux mois de l'imposition du prélèvement.
+
+Dans un délai de trente jours à partir de la notification, le redevable peut exercer, par lettre recommandée, un recours auprès du Ministre de l'Intérieur, qui statue dans les trente jours. Par lettre recommandée motivée, adressée au redevable, le Ministre de l'Intérieur peut proroger une fois ce délai pour une période de trente jours.
+
+Si, à l'expiration du délai visé au 4°, alinéa 2, le Ministre de l'Intérieur n'a pas statué, le recours du redevable est réputé être agréé.
+
+5° Le redevable n'acquittant pas le prélèvement dans le délai légal est tenu de payer une amende administrative égale à la moitié de l'imposition.
+
+Les fonctionnaires visés au paragraphe 2bis, 3°, alinéa 4, peuvent appliquer l'amende administrative pour toute infraction aux dispositions de ce paragraphe, ainsi que des arrêtés pris en son exécution.
+
+Ils délivrent une contrainte. La signification de cette contrainte se fait par exploit d'huissier.
+
+La contrainte est régie par les dispositions contenues dans la cinquième partie du Code judiciaire.
+
+Le Ministre de l'Intérieur statue sur les requêtes ayant pour objet la remise des amendes.
+
+§ 3. (...) &lt;L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+§ 4. (...) &lt;L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+----------
+
+(1)&lt;AR 2022-05-31/07, art. 1,1°, 010; En vigueur : 01-01-2022&gt;
+
+(2)&lt;AR 2022-05-31/07, art. 1,2°, 010; En vigueur : 01-01-2023&gt;
+
+## Art. 8
+
+(Abrogé) &lt;L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+## Art. 9
+
+(Abrogé) &lt;L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+## Art. 10
+
+(Abrogé) &lt;L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+## Art. 11
+
+(Abrogé) &lt;L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+## Art. 12
+
+(Abrogé) &lt;L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+## Art. 13
+
+(Abrogé) &lt;L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+## Art. 14
+
+(Abrogé) &lt;L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+## Art. 15
+
+(Abrogé) &lt;L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+## Art. 16
+
+(Abrogé) &lt;L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+## Art. 17
+
+(Abrogé) &lt;L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+## Art. 18
+
+(Abrogé) &lt;L 2002-05-26/43, art. 7, 008; En vigueur : 07-07-2002&gt;
+
+## Art. 19
+
+(abrogé) &lt;L 1989-12-22/31, art. 232, 003; En vigueur : 09-01-1990&gt;
+
+## Art. 20
+
+(abrogé) &lt;L 1989-12-22/31, art. 232, 003; En vigueur : 09-01-1990&gt;
+
+## Art. N1
+
+Annexe I : Installations industrielles visées à l'article 2.
+
+(NOTE : abrogé implicitement par la version de l'article 2 modifiée par la loi du 26 mai 2002. L'article 2 fait désormais référence à une annexe 1 d'un accord de coopération)
+
+## Art. N2
+
+Annexe II : &lt;AR 1990-05-16/31, art. 2, 1°, 004; En vigueur : 18-06-1990&gt; Stockage, à l'exception du stockage de substances énumérées à l'annexe III, associé à une installation visée à l'annexe I.
+
+(NOTE : abrogé implicitement par la version de l'article 2 modifiée par la loi du 26 mai 2002. L'article 2 fait depuis lors référence à une annexe 1 d'un accord de coopération qui n'est donc plus l'annexe 1 originale)
+
+## Art. N3
+
+Annexe III : Liste de substances visées par l'article 2
+
+(NOTE : abrogé implicitement par la version de l'article 2 modifiée par la loi du 26 mai 2002. L'article 2 fait désormais référence à une annexe 1 d'un accord de coopération)
+
+## Art. N4
+
+Annexe IV : Liste d'informations à donner en application de l'article 10, §4, 3°
+
+(NOTE : abrogé implicitement par l'abrogation de l'article 10 précité, par la loi du 26 mai 2002.)
+
+## Art. N5
+
+Annexe V : Informations à communiquer en application de l'article 7, § 2, 2°
+
+(NOTE : abrogé implicitement par l'abrogation de l'article 7 précité, par la loi du 26 mai 2002.)

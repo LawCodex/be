@@ -3,7 +3,7 @@ title: "NIEUWE GEMEENTEWET"
 identifier: "1988062450"
 eli: "https://www.ejustice.just.fgov.be/eli/wet/1988/06/24/1988062450/justel"
 type: act
-justel_type: "LOI COMMUNALE"
+justel_type: "LOI"
 jurisdiction: be
 language: nl
 date: 1988-06-24
@@ -15,7 +15,7 @@ justel_notes:
   - "voor het Brussels Hoofdstedelijk Gewest zie 1988-06-24/35 "
   - "TEKSTBIJWERKING VOORLOPIG TOT 06-01-2001"
   - "Raadpleging van vroegere versies vanaf 02-10-2023 en tekstbijwerking tot 21-04-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # 24 JUNI 1988. - NIEUWE GEMEENTEWET
