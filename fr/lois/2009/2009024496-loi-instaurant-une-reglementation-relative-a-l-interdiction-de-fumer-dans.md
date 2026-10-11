@@ -1,0 +1,514 @@
+---
+title: "[Loi instaurant une réglementation relative à l'interdiction de fumer dans certains lieux et à la protection de la population contre la fumée du tabac] <Intitulé remplacé L 2019-07-08/09 , art. 2, 006; En vigueur : 18-08-2019>"
+identifier: "2009024496"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2009/12/22/2009024496/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2009-12-22
+published: 2009-12-29
+entry_into_force: 2010-01-01
+last_amended: 2024-06-04
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2009/12/22/2009024496/justel"
+department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
+justel_note: "Consultation des versions antérieures à partir du 29-12-2009 et mise à jour au 04-06-2024"
+retrieved: 2026-10-11
+---
+
+# 22 DECEMBRE 2009. - [Loi instaurant une réglementation relative à l'interdiction de fumer dans certains lieux et à la protection de la population contre la fumée du tabac] &lt;Intitulé remplacé L 2019-07-08/09 , art. 2, 006; En vigueur : 18-08-2019&gt;
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+[Les Chambres ont adopté et Nous sanctionnons ce qui suit :] (Erratum, M.B. 18-01-2010, p. 2173)
+
+## CHAPITRE 1er. - Disposition générale
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## CHAPITRE 2. - Définitions
+
+### Art. 2
+
+Pour l'application de la présente loi et de ses arrêtés d'exécution, il faut entendre par :
+
+1° fumer : le fait de fumer du tabac, des produits à base de tabac ou des produits similaires;
+
+2° lieu fermé : lieu isolé de l'environnement par des parois, pourvu d'un plafond ou faux plafond;
+
+3° lieu accessible au public :
+
+a) lieu dont l'accès n'est pas limité à la sphère familiale;
+
+b) notamment les établissements ou bâtiments suivants :
+
+i. lieux administratifs;
+
+ii. gares;
+
+iii. aéroports;
+
+iv. commerces;
+
+v. lieux dans lesquels des services sont fournis au public à titre gratuit ou moyennant paiement, y compris les lieux dans lesquels des aliments et/ou des boissons sont offerts à la consommation;
+
+vi. lieux dans lesquels des malades ou des personnes âgées sont accueillis ou soignés;
+
+vii. lieux dans lesquels des soins de santé préventifs ou curatifs sont prodigués;
+
+viii. lieux dans lesquels des enfants ou des jeunes en âge scolaire sont accueillis, logés ou soignés;
+
+ix. lieux dans lesquels un enseignement et/ou des formations professionnelles sont dispensés;
+
+x. lieux dans lesquels des représentations sont données;
+
+xi. lieux dans lesquels des expositions sont organisées;
+
+xii. lieux dans lesquels des activités sportives sont exercées;
+
+[<sup>3</sup> xiii: galeries marchandes;]<sup>3</sup>
+
+4° [<sup>3</sup> transport professionnel de passagers: transport de passagers effectué par une personne physique ou morale pour des raisons professionnelles, qu'il soit ou non commandé par une organisation, une entreprise ou une institution;]<sup>3</sup>
+
+5° espace de travail :
+
+a) tout lieu de travail, qu'il se trouve dans une entreprise ou un établissement, ou en dehors de ceux-ci, et qu'il se trouve dans un espace ouvert ou fermé, à l'exception de l'espace à ciel ouvert;
+
+b) tout espace ouvert ou fermé dans l'entreprise ou l'établissement, auquel le travailleur a accès;
+
+6° équipements sociaux : les installations sanitaires, le réfectoire et les locaux destinés au repos ou aux premiers soins;
+
+7° fumoir : lieu fermé par des parois et un plafond et dans lequel il est permis de fumer;
+
+8° le Comité : le Comité pour la prévention et la protection au travail ou, à défaut, la délégation syndicale ou, à défaut, les travailleurs eux-mêmes conformément aux dispositions des articles 48 et suivants de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail;
+
+9° débit de boissons : établissement dont l'activité principale et permanente consiste à servir uniquement des boissons, y compris des boissons contenant de l'alcool éthylique, destinées à être consommées sur place et où aucune autre denrée alimentaire n'est servie mis à part les denrées alimentaires préemballées avec une période de conservation d'au moins trois mois sans qu'aucune mesure supplémentaire ne soit utilisée pour prolonger la durée de conservation;
+
+10° signal d'interdiction de fumer : signal d'interdiction ayant un diamètre d'au moins neuf centimètres et réalisé dans les couleurs suivantes :
+
+a) fond : blanc;
+
+b) représentation de la cigarette : noire;
+
+c) bord et barre diagonale : rouge.
+
+11° [<sup>1</sup> ...]<sup>1</sup>
+
+12° [<sup>1</sup> ...]<sup>1</sup>
+
+13° sport : tous les sports et sports de loisir reconnus et/ou subsidiés par une Communauté et tous les sports de fédérations sportives reconnues et/ou subsidiées par une Communauté.
+
+[<sup>2</sup> 14° véhicule: tout moyen de transport par terre, ainsi que tout matériel roulant agricole ou industriel;]<sup>2</sup>
+
+[<sup>3</sup> 15° parc d'attractions: espace de loisirs centralisé et immobile où l'accès n'est pas libre et où sont installées des attractions majeures;
+
+16° parc zoologique: un établissement ouvert au public plus de 7 jours par an où sont détenus et exposés des animaux vivants ne figurant pas sur la liste des animaux domestiques;
+
+17° plaine de jeux: tout terrain ou espace de jeux où se trouve au moins un équipement d'aires de jeux qui peut être utilisé collectivement par des enfants ou des jeunes de moins de 18 ans à des fins de jeu;
+
+18° ferme pour enfants: une ferme spécialement équipée pour que les enfants puissent, entre autres, mais pas exclusivement, faire connaissance avec les animaux de la ferme;
+
+19° terrain de sport: lieu où, de par sa nature et sa destination, le sport est pratiqué et regardé;
+
+20° centre de soins: un établissement, quelle que soit sa dénomination, où des personnes âgées, qui y résident de façon permanente, se voient offrir un hébergement et des soins pour les personnes âgées dans un environnement de remplacement du domicile;
+
+21° centre de court séjour: un établissement où l'hébergement et les soins aux personnes âgées sont offerts à des personnes âgées pour une période limitée;
+
+22° maison de repos et de soins: un centre de soins résidentiels, où une offre plus étendue de soins pour les personnes âgées est proposée;
+
+23° crèche: l'accueil de bébés et d'enfants en bas âge, à savoir la prise en charge professionnelle et rémunérée, contribuant au développement et aux soins des bébés et des enfants en bas âge jusqu'à ce qu'ils entrent à l'école maternelle. Les haltes garderies sont comprises dans la terminologie;
+
+24° accueil extra-scolaire: la prise en charge des enfants d'âge préscolaire et primaire;
+
+25° hôpital: un lieu comme défini à l'article 2 de la loi coordonnée du 10 juillet 2008 sur les hôpitaux et autres établissements de soins.]<sup>3</sup>
+
+(NOTE : par son arrêt (extrait) n° 37/2011 du 15-03-2011 (M.B. 06-05-2011, p. 26566-26570), la Cour Constitutionnelle a annulé l'art. 2, 9°; En vigueur : 01-07-2011)
+
+----------
+
+(1)&lt;L 2014-04-10/23, art. 196, 004; En vigueur : 10-05-2014&gt;
+
+(2)&lt;L 2019-07-08/09, art. 3, 006; En vigueur : 18-08-2019&gt;
+
+(3)&lt;L 2024-03-26/03, art. 1, 008; En vigueur : 15-04-2024&gt;
+
+## CHAPITRE 3. - Interdiction de fumer dans les lieux fermés [<sup>1</sup> et ouverts]<sup>1</sup> accessibles au public
+
+----------
+
+(1)&lt;L 2024-03-26/03, art. 3, 008; En vigueur : 15-04-2024&gt;
+
+### Art. 3
+
+§ 1er. Il est interdit de fumer dans les lieux fermés accessibles au public. Ces lieux doivent être exempts de fumée.
+
+A l'intérieur et à l'entrée de chaque lieu visé à l'alinéa 1er, des signaux d'interdiction de fumer tels que définis à l'article 2, 10°, doivent être apposés de telle sorte que toutes les personnes présentes puissent en prendre connaissance. Le Roi peut définir les conditions complémentaires auxquelles doit répondre la signalisation de l'interdiction de fumer.
+
+§ 2. L'interdiction visée au paragraphe 1er s'applique également en permanence dans tous les véhicules utilisés pour le transport [<sup>1</sup> professionnel de passagers,]<sup>1</sup> donc même lorsqu'ils sont hors service.
+
+§ 3. Tout élément susceptible d'inciter à fumer ou qui porte à croire que fumer est autorisé, est interdit dans les lieux visés aux paragraphes 1er et 2.
+
+----------
+
+(1)&lt;L 2024-03-26/03, art. 4, 008; En vigueur : 15-04-2024&gt;
+
+### Art. 3/1
+
+[<sup>1</sup> § 1er. Il est interdit de fumer à l'air libre dans les lieux accessibles au public suivants:
+
+1° les parcs d'attractions;
+
+2° les parcs zoologiques;
+
+3° les plaines de jeux;
+
+4° les fermes pour enfants, uniquement pendant les heures d'ouverture;
+
+5° les terrains de sports sauf pendant les festivals de musique qui se déroulent pendant plusieurs jours consécutifs sur ces terrains.
+
+Ces lieux doivent être exempts de fumée.
+
+§ 2. Dans les lieux visés à l'alinéa 1er, des signaux d'interdiction de fumer suffisants doivent être apposés de telle sorte que toutes les personnes présentes puissent en prendre connaissance. Le Roi peut définir les conditions complémentaires auxquelles doit répondre la signalisation de l'interdiction de fumer.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-26/03, art. 5, 008; En vigueur : 31-12-2024&gt;
+
+### Art. 3/2
+
+[<sup>1</sup> § 1er. Il est interdit de fumer, dans un rayon de 10 mètres, aux entrées et sorties des lieux accessibles au public suivants:
+
+1° les centres de soins, les centres de court séjour, les maisons de repos et de soins;
+
+2° les hôpitaux;
+
+3° les crèches;
+
+4° les accueils extra-scolaires;
+
+5° les écoles primaires, secondaires et supérieures et les académies d'enseignement artistique à temps partiel;
+
+6° les bibliothèques publiques.
+
+Ces zones doivent être exemptes de fumée et clairement indiquées par tous les moyens permettant de les situer.
+
+Pour les lieux visés aux 1°, 3°, 4° et 5°, les seuls lieux visés sont ceux reconnus par les autorités compétentes.
+
+Les zones fumeurs extérieures des lieux visées au paragraphe 1er qui existaient déjà au moment de l'entrée en vigueur de la présente loi et qui étaient situées dans le rayon de 10 mètres d'une entrée ou sortie peuvent continuer à exister jusqu'au 31/12/2028.
+
+§ 2. Pour une entrée ou sortie d'une façade de moins de 10 mètres dans les lieux énumérés au paragraphe 1er, le périmètre ne s'applique pas. Dans ces cas, la zone sans fumée s'étend jusqu'aux limites de la façade.
+
+Si le lieu visé au 3° ou 4° est une habitation, le périmètre de 10 mètres cesse d'exister. Dans ce cas, la zone sans fumée s'étend jusqu'aux limites de la façade, avec un rayon maximal de 10 mètres.
+
+§ 3. Le Roi peut définir les conditions complémentaires auxquelles doit répondre la signalisation de l'interdiction de fumer.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-26/03, art. 6, 008; En vigueur : 31-12-2024&gt;
+
+### Art. 3/3
+
+[<sup>1</sup> L'interdiction de fumer sur les quais extérieurs des gares est régie par la loi sur la police des chemins de fer du 27 avril 2018.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-26/03, art. 7, 008; En vigueur : 15-04-2024&gt;
+
+### Art. 4
+
+§ 1er. Sans préjudice des dispositions de l'article 3, § 1er, une exception est prévue pour les débits de boissons cloisonnés et qui ne font pas partie d'une enceinte sportive.
+
+L'exploitant d'un débit de boissons, visé à l'alinéa 1er, qu'il s'agisse d'une personne physique ou d'une personne morale, peut installer une zone clairement délimitée dans laquelle il est permis de fumer selon les formes et les conditions prévues aux paragraphes suivants.
+
+[<sup>1</sup> L'exception prévue à l'alinéa 1er est applicable jusqu'au 1er juillet 2014. Néanmoins, le Roi peut, par un arrêté délibéré en Conseil des Ministres et après concertation avec le secteur, mettre fin à cette exception à partir du 1er janvier 2012.]<sup>1</sup>
+
+§ 2. La zone réservée aux fumeurs doit être indiquée par tous les moyens permettant de la situer.
+
+Elle doit être établie de manière à réduire au maximum les inconvénients de la fumée vis-à-vis des non-fumeurs.
+
+Sa superficie doit être inférieure à la moitié de la superficie totale du local dans lequel des boissons sont servies à la consommation, sauf si cette superficie totale est inférieure à 50 mètres carrés.
+
+§ 3. Dans les espaces réservés aux non-fumeurs, des signaux d'interdiction de fumer conformes au point 10°de l'article 2 doivent être posés de telle sorte que toute personne présente puisse en prendre connaissance.
+
+§ 4. Tout élément susceptible d'inciter à fumer ou qui porte à croire que fumer est autorisé, est interdit dans les zones réservées aux non-fumeurs.
+
+§ 5. Le Roi peut fixer des conditions complémentaires auxquelles doivent répondre les débits de boissons où il est autorisé de fumer. Ces conditions sont relatives à l'installation d'un système d'aération garantissant un débit minimal de renouvellement d'air.
+
+(NOTE : par son arrêt (extrait) n° 37/2011 du 15-03-2011 (M.B. 06-05-2011, p. 26566-26570), la Cour Constitutionnelle a annulé l'art. 4 ; En vigueur : 01-07-2011)
+
+----------
+
+(1)&lt;L 2009-12-22/06, art. 2, 002; En vigueur : 08-01-2010&gt;
+
+### Art. 5
+
+L'interdiction visée à l'article 3 n'est pas applicable aux établissements de jeux de hasard de classe I tels que définis à l'article 28 de la loi du 7 mai 1999 sur les jeux de hasard, les établissements de jeux de hasard et la protection des joueurs dans les locaux destinés exclusivement aux jeux et où des boissons peuvent être servies.
+
+[<sup>1</sup> L'exception prévue à l'alinéa 1er est applicable jusqu'au 1er juillet 2014. Néanmoins, le Roi peut, par un arrêté délibéré en Conseil des Ministres et après concertation avec le secteur, mettre fin à cette exception à partir du 1er janvier 2012.]<sup>1</sup>
+
+(NOTE : par son arrêt (extrait) n° 37/2011 du 15-03-2011 (M.B. 06-05-2011, p. 26566-26570), la Cour Constitutionnelle a annulé l'art. 5 ; En vigueur : 01-07-2011)
+
+----------
+
+(1)&lt;L 2009-12-22/06, art. 2, 002; En vigueur : 08-01-2010&gt;
+
+### Art. 6
+
+Sans préjudice des dispositions de l'article 3, l'exploitant d'un lieu fermé accessible au public peut installer un fumoir.
+
+Ce fumoir n'est pas une zone de transit et est conçu et installé de manière à réduire au maximum les inconvénients de la fumée vis-à-vis des non-fumeurs.
+
+Le fumoir est clairement identifié comme local réservé aux fumeurs et il est indiqué par tous moyens permettant de le situer. Seules des boissons peuvent être emportées dans le fumoir.
+
+La superficie du fumoir ne peut excéder le quart de la superficie totale du lieu fermé accessible au public.
+
+Le fumoir doit être muni d'un système d'extraction de fumée ou d'aération qui élimine suffisamment la fumée.
+
+Le Roi définit les conditions complémentaires auxquelles doit répondre le fumoir.
+
+[<sup>1</sup> Dans les établissements HORECA, l'accès aux fumoirs est interdit aux mineurs.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-03-26/03, art. 8, 008; En vigueur : 15-04-2024&gt;
+
+### Art. 6/1
+
+[<sup>1</sup> Sans préjudice des dispositions de l'article 3/1, § 1er, l'exploitant des lieux suivants, peut installer à l'extérieur une ou plusieurs zones fumeurs clairement délimitées:
+
+1° les terrains de sports;
+
+2° les parcs d'attractions;
+
+3° les parcs zoologiques;
+
+4° les plaines de jeux;
+
+5° les fermes pour enfants.
+
+La zone fumeur n'est pas une zone de transit, elle est située à l'abri des regards et est conçue de manière à éviter les inconvénients de la fumée vis-à-vis des non-fumeurs.
+
+La zone fumeurs est clairement indiquée par tous les moyens permettant de la situer.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-26/03, art. 9, 008; En vigueur : 31-12-2024&gt;
+
+### Art. 7
+
+L'exploitant et le [<sup>1</sup> fumeur]<sup>1</sup> sont, chacun en ce qui le concerne, responsables du respect des dispositions de la présente loi et de ses arrêtés d'exécution.
+
+----------
+
+(1)&lt;L 2024-03-26/03, art. 10, 008; En vigueur : 15-04-2024&gt;
+
+### Art. 8
+
+&lt;Abrogé par L 2024-03-26/03, art. 11, 008; En vigueur : 15-04-2024&gt;
+
+### Art. 9
+
+Est puni des peines visées à l'article 13 de la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits, celui qui enfreint les dispositions de la présente loi ou ses arrêtés d'exécution.
+
+### Art. 9/1
+
+[<sup>1</sup> Outre les peines prévues à l'article 9, le tribunal peut ordonner la fermeture, pour une période d'un mois à six mois, du lieu fermé accessible au public où les infractions ont été commises.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-10/23, art. 197, 004; En vigueur : 10-05-2014&gt;
+
+### Art. 10
+
+[<sup>1</sup> Les articles 11, 11bis, 16, 17, 19, 20 et 27 de la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits s'appliquent par analogie aux articles 1er à 9 et 16/1 à 16/4.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2020-05-04/20, art. 2, 007; En vigueur : 06-07-2020&gt;
+
+### Art. 10/1
+
+&lt;Abrogé par L 2024-03-26/03, art. 11, 008; En vigueur : 15-04-2024&gt;
+
+### Art. 10/2
+
+[<sup>1</sup> Les membres du personnel statutaire ou contractuel visés à l'article 11 de la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits peuvent procéder à la fermeture temporaire d'un établissement commercial, pour une durée comprise entre une heure et trente jours, en cas de danger grave et imminent pour la santé publique ou en cas de non-respect répété, sur une période d'un an, des articles 3 à 6 et des arrêtés d'exécution qui en découlent.
+
+La mesure de fermeture temporaire est motivée par écrit et notifiée au contrevenant par remise contre récépissé ou par lettre recommandée et contient au moins les éléments suivants :
+
+1° la date et l'heure du début et de la fin de la mesure. En cas de danger grave et imminent pour la santé publique, la mesure peut prendre effet immédiatement ;
+
+2° la date et l'heure de la notification ;
+
+3° l'identité des agents visés au présent article, la qualité en laquelle ils interviennent et l'administration dont ils relèvent ;
+
+4° la base factuelle et juridique ;
+
+5° le lieu sur lequel porte la mesure.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-18/13, art. 7, 009; En vigueur : 01-07-2024&gt;
+
+## CHAPITRE 4. - Interdiction de fumer sur le lieu du travail
+
+### Art. 11
+
+§ 1er. Le présent chapitre s'applique aux employeurs et aux travailleurs, ainsi qu'aux personnes y assimilées, visées à l'article 2, § 1er, alinéa 2, 1°, a) à e), et 2°, de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail.
+
+§ 2. Le présent chapitre ne s'applique pas :
+
+1° dans les lieux fermés de toutes les institutions de services sociaux et des prisons qui sont à considérer comme des espaces privés, et où les résidents et non-résidents peuvent fumer sous les conditions qui leur sont fixées;
+
+2° dans les habitations privées, à l'exception des espaces destinés exclusivement à un usage professionnel et où des travailleurs sont occupés;
+
+3° dans les débits de boissons et les établissements de jeux de hasard visés respectivement aux articles 4, § 1er et 5.
+
+----------
+
+Art. 11. § 1er. Le présent chapitre s'applique aux employeurs et aux travailleurs, ainsi qu'aux personnes y assimilées, visées à l'article 2, § 1er, alinéa 2, 1°, a) à e), et 2°, de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail.
+
+§ 2. Le présent chapitre ne s'applique pas :
+
+1° dans les lieux fermés de toutes les institutions de services sociaux et des prisons qui sont à considérer comme des espaces privés, et où les résidents et non-résidents peuvent fumer sous les conditions qui leur sont fixées;
+
+2° dans les habitations privées, à l'exception des espaces destinés exclusivement à un usage professionnel et où des travailleurs sont occupés;
+
+3° [<sup>1</sup> ...]<sup>1</sup>
+
+(NOTE : par son arrêt (extrait) n° 37/2011 du 15-03-2011 (M.B. 06-05-2011, p. 26566-26570), la Cour Constitutionnelle a annulé l'art. 11, § 2, 3°; En vigueur : 01-07-2011)
+
+----------
+
+(1)&lt;L 2009-12-22/06, art. 5, 002; En vigueur : indéterminée ; l'article 11, § 2, 3°, de la même loi est abrogé au plus tard le 1er juillet 2014. Néanmoins, le Roi peut avancer cette abrogation par un arrêté délibéré en Conseil des Ministres et après concertation avec le secteur à partir du 1er janvier 2012.&gt;
+
+### Art. 12
+
+Tout travailleur a le droit de disposer d'espaces de travail et d'équipements sociaux exempts de fumée de tabac.
+
+### Art. 13
+
+L'employeur interdit de fumer dans les espaces de travail, les équipements sociaux, ainsi que dans les moyens de transport qu'il met à la disposition du personnel pour le transport collectif du et vers le lieu de travail.
+
+L'employeur prend les mesures nécessaires pour veiller à ce que les tiers qui se trouvent dans l'entreprise soient informés des mesures qu'il applique en vertu de la présente loi.
+
+Tout élément susceptible d'inciter à fumer ou qui porte à croire que fumer est autorisé, est interdit dans les locaux visés à l'alinéa 1er.
+
+### Art. 14
+
+Par dérogation à l'interdiction visée à l'article 13, il est possible de prévoir un fumoir dans l'entreprise, après avis préalable du Comité.
+
+Le fumoir, qui est exclusivement destiné aux fumeurs, est efficacement ventilé ou est équipé d'un système d'extraction de fumée qui élimine la fumée de manière efficace. Le Roi fixe les conditions supplémentaires auxquelles doit répondre le fumoir.
+
+Le règlement d'accès à ce fumoir pendant les heures de travail est fixé après avis préalable du Comité.
+
+Ce règlement ne cause pas d'inégalité de traitement entre les travailleurs.
+
+### Art. 15
+
+[<sup>1</sup> L'employeur est responsable du respect des dispositions de la présente loi et de ses arrêtés d'exécution.
+
+Les infractions aux dispositions du chapitre 4 de la présente loi et des arrêtés d'exécution de ces dispositions sont recherchées, constatées et sanctionnées conformément au Code pénal social.
+
+Les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 39 et 43 à 49 du Code pénal social lorsqu'ils agissent d'initiative ou sur demande dans le cadre de leur mission d'information, de conseil et de surveillance relative au respect des dispositions visées à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-02-29/09, art. 96, 005; En vigueur : 01-05-2016&gt;
+
+### Art. 15/1
+
+[<sup>1</sup> Les fonctionnaires désignés pour surveiller le respect de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail et de ses arrêtés d'exécution en exécution de l'article 17 du Code pénal social sont chargés de la surveillance du respect des dispositions du chapitre 4 de la présente loi et des arrêtés d'exécution de ces dispositions et ceci conformément aux dispositions du Code pénal social.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-02-29/09, art. 97, 005; En vigueur : 01-05-2016&gt;
+
+### Art. 16
+
+Les dispositions du présent chapitre ne peuvent être modifiées qu'après obtention de l'avis du Conseil supérieur pour la prévention et la protection au travail.
+
+## CHAPITRE 4/1. [<sup>1</sup> Interdiction de fumer dans certains véhicules ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-07-08/09, art. 4, 006; En vigueur : 18-08-2019&gt;
+
+### Art. 16/1.
+
+[<sup>1</sup> Il est interdit de fumer dans un véhicule couvert ou dans une partie couverte d'un véhicule où se trouvent deux personnes ou plus, dont l'une au moins n'a pas encore atteint l'âge de [<sup>2</sup> 18 ans]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-07-08/09, art. 5, 006; En vigueur : 18-08-2019&gt;
+
+(2)&lt;L 2020-05-04/20, art. 3, 007; En vigueur : 06-07-2020&gt;
+
+### Art. 16/2
+
+[<sup>1</sup> Un véhicule ou une partie d'un véhicule est couvert, au sens de l'article 16/1, lorsqu'il est entièrement ou partiellement fermé par un toit et par une ou plusieurs portières et/ou vitres qui peuvent être ouvertes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-07-08/09, art. 6, 006; En vigueur : 18-08-2019&gt;
+
+### Art. 16/3.
+
+[<sup>1</sup> Par toit, au sens de l'article 16/2, on entend tout système fixe ou mobile permettant de couvrir l'ensemble ou une partie du véhicule, y compris les systèmes en toile ou autres tissus.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-07-08/09, art. 7, 006; En vigueur : 18-08-2019&gt;
+
+### Art. 16/4.
+
+[<sup>1</sup> L'article 16/1 ne s'applique pas lorsque le toit du véhicule, au sens de l'article 16/3, est entièrement replié, de manière à ce qu'il ne couvre aucune partie du véhicule. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-07-08/09, art. 8, 006; En vigueur : 18-08-2019&gt;
+
+## CHAPITRE 5. - Dispositions abrogatoires
+
+### Art. 17
+
+Sont abrogés :
+
+1° l'article 35, 10°, de l'arrêté royal du 15 septembre 1976 portant règlement sur la police des transports de personnes par tram, pré-métro, métro, autobus et autocar;
+
+2° les articles 7, § 3, et 13, 3°, de la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits;
+
+3° l'arrêté royal du 19 janvier 2005 relatif à la protection des travailleurs contre la fumée de tabac et ses arrêtés d'exécution;
+
+4° l'arrêté royal du 13 décembre 2005 portant interdiction de fumer dans les lieux publics et ses arrêtés d'exécution.
+
+### Art. 18
+
+La présente loi entre en vigueur le 1er janvier 2010.
+
+---
+
+[Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 22 décembre 2009.
+
+ALBERT
+
+Par le Roi :
+
+Pour la Ministre des Affaires sociales et de la Santé publique, absente,
+
+Le Ministre des Pensions et des Grandes villes,
+
+M. DAERDEN
+
+Scellé du secau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK] (Erratum, voir M.B. 04.01.2010, p. 66)

@@ -1,0 +1,146 @@
+---
+title: "Loi portant assentiment à la Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure, aux Annexes 1re et 2, et aux Appendices I, II, III, IV et V, faits à Strasbourg le 9 septembre 1996. - Addendum"
+identifier: "2011015122"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/19/2011015122/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2008-06-19
+published: 2011-12-13
+entry_into_force: 2009-11-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/19/2011015122/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+retrieved: 2026-10-11
+---
+
+# 19 JUIN 2008. - Loi portant assentiment à la Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure, aux Annexes 1re et 2, et aux Appendices I, II, III, IV et V, faits à Strasbourg le 9 septembre 1996. - Addendum
+
+## Art. M1
+
+(1) Voir le Moniteur belge des 22 octobre 2009, 9 mars 2010, 3 août 2010 et 27 septembre 2010.
+
+CDNI 2011-I-6
+
+Rectifications du texte de la version française de la Convention
+
+La Conférence des Parties Contractantes,
+
+rappelant que la France, par sa lettre du 9 décembre 2010, a attiré l'attention du dépositaire sur un défaut de concordance relevé entre la version française et les versions allemande et néerlandaise de la Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure (CDNI) et a proposé de procéder à la correction de ces défauts linguistiques dans la Convention en langue française,
+
+rappelant que toutes les Parties Contractantes ont été informées de cette proposition, et que le dépositaire a transmis une lettre à cet égard aux Parties Contractantes le 20 mai 2011,
+
+constate que la liste des corrections à prévoir a été arrêtée par le dépositaire d'un commun accord avec les délégations des Parties Contractantes (en annexe),
+
+constate que toutes les Parties Contractantes confirment par la présente résolution leur plein accord sur ces corrections rédactionnelles de la Convention en langue française,
+
+invite le dépositaire à communiquer aux Parties Contractantes une copie certifiée conforme de ladite Convention en langue française, en tenant compte de ces corrections.
+
+Annexe résolution CDNI 2011-I-6
+
+MODIFICATIONS REDACTIONNELLES
+
+DANS LES ARTICLES DE LA CONVENTION CDNI ET SON ANNEXE 2
+
+<table><tr><td colspan="4">Corpus de la Convention</td></tr><tr><td>Corr.</td><td>ARTICLE </td><td>Par.</td><td>Modification rédactionnelle </td></tr><tr><td>1</td><td>1</td><td>q.</td><td>l'expression " l'exploitant du bâtiment " est remplacée par " le transporteur "</td></tr><tr><td>2</td><td>8</td><td>2</td><td>l'expression " l'exploitant du bâtiment " est remplacée par " le transporteur " </td></tr><tr><td>3</td><td>11</td><td> </td><td>l'expression " l'exploitant du bâtiment " est remplacée par " le transporteur "</td></tr><tr><td>4</td><td>12</td><td>3</td><td>l'expression " l'exploitant du bâtiment " est remplacée par " le transporteur "<br>  les mots " son armateur ou son propriétaire " sont remplacés par " l'armateur ou le propriétaire du bâtiment "</td></tr><tr><td>5</td><td>13</td><td>titre</td><td>l'expression " de l'exploitant du bâtiment " est remplacée par " du transporteur "</td></tr><tr><td>6</td><td>13</td><td>1</td><td>l'expression " l'exploitant du bâtiment " est remplacée par " le transporteur "</td></tr></table>
+
+<table><tr><td colspan="5">Annexe 2 - Règlement d'application</td></tr><tr><td>Corr.</td><td>Référence </td><td>Par.</td><td>Phrase</td><td>Modification rédactionnelle </td></tr><tr><td>1</td><td>6.02</td><td>2</td><td>1</td><td>Une virgule est placée entre " "état aspiré" " et " pour " </td></tr><tr><td>2</td><td>6.03</td><td>1</td><td>3</td><td>l'expression " exploitant du bâtiment " est remplacée par " transporteur "</td></tr><tr><td>3</td><td>Chapitre VII</td><td>-</td><td>-</td><td>l'expression " de l'exploitant du bâtiment " dans le titre est remplacée par " du transporteur "</td></tr><tr><td>4</td><td>7.02</td><td>1</td><td>1</td><td>l'expression " l'exploitant du bâtiment " est remplacée par " le transporteur " </td></tr><tr><td>5</td><td>7.02</td><td>3</td><td>-</td><td>les mots " son exploitant " sont remplacés par " le transporteur "</td></tr><tr><td>6</td><td>7.04</td><td>4</td><td>1</td><td>le mot " l'exploitant " est remplacé par " le transporteur "</td></tr><tr><td>7</td><td>7.04</td><td>4</td><td>2</td><td>l'expression " à l'exploitant du bâtiment " est remplacée par " au transporteur " </td></tr><tr><td>8</td><td>7.05</td><td>1</td><td>-</td><td>l'expression " l'exploitant du bâtiment " est remplacée par " le transporteur "</td></tr><tr><td>9</td><td>7.05</td><td>2</td><td>-</td><td>l'expression " à l'exploitant du bâtiment " est remplacée par " au transporteur "</td></tr><tr><td>10</td><td>7.06</td><td>3</td><td>-</td><td>l'expression " de l'exploitant du bâtiment " est remplacée par " du transporteur "</td></tr><tr><td>11</td><td>7.07</td><td>-</td><td>-</td><td>l'expression " l'exploitant du bâtiment " est remplacée par " le transporteur "</td></tr></table>
+
+## Art. M2
+
+CDNI 2011-I-5
+
+Modification du Règlement d'application
+
+Annexe 2
+
+Appendice III
+
+Standards de déchargement et prescriptions relatives au dépôt et à la réception en vue de l'autorisation
+
+du déversement des eaux de lavage, de précipitation et de ballastage contenant des résidus de cargaison
+
+La Conférence des Parties Contractantes,
+
+dans un souci de s'assurer que la liste des matières dans l'Appendice III de l'Annexe 2 de la Convention, tienne compte des marchandises transportées régulièrement par voie d'eau;
+
+reconnaissant la nécessité d'effectuer quelques corrections d'ordre rédactionnel aux versions adoptées sous forme de résolution (CDNI 2009-II-2) de l'Appendice concerné;
+
+vu les articles 14 et 19 de la Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure;
+
+adopte les corrections et modifications relatives à la liste des matières de l'Appendice III de l'Annexe 2 de la Convention qui figurent en annexe;
+
+charge le Secrétariat d'intégrer ces corrections et modifications dans les publications relatives à l'Appendice III de l'Annexe 2.
+
+Cette résolution entrera en vigueur le 1er septembre 2011.
+
+Annexe résolution CDNI 2011-I-5
+
+ANNEXE 2
+
+Règlement d'application
+
+APPENDICE III
+
+Standards de déchargement et prescriptions relatives au dépôt et à la réception en vue de l'autorisation
+
+du déversement des eaux de lavage, de précipitation et de ballastage contenant des résidus de cargaison
+
+I. CORRECTIONS REDACTIONNELLES DES STANDARDS DE DECHARGEMENT
+
+Dans le tableau des standards de déchargement les corrections suivantes sont à apporter :
+
+<table><tr><td>Corrections</td><td>Correction à apporter</td></tr><tr><td>1,<br>  concerne uniquement la version NL</td><td>Ligne 1449 (Produits laitiers non spécifiés) : dans la colonne 4 la lettre " A " est à ajouter</td></tr><tr><td>2</td><td>Ligne 6341 (Craie, brut) : dans la colonne 3 supprimer la lettre " B ".</td></tr><tr><td>3</td><td>Ligne 6342 (Craie pour engrais) : dans la colonne 3 supprimer la lettre " B ".</td></tr><tr><td>4</td><td>Ligne 6412 (Clinkers de ciment) : dans la colonne 3 supprimer la lettre " B ".</td></tr><tr><td>5</td><td>Ligne 6420 (Chaux en morceaux, aussi calcinée, hydrate de chaux, chaux éteinte) : dans la colonne 3 supprimer la lettre " B ".</td></tr><tr><td>6</td><td>Ligne 6502 (Plâtre, brut, pour engrais) : dans la colonne 3 supprimer la lettre " B ".</td></tr><tr><td>7</td><td>Ligne 6503 (Plâtre provenant de matériel de désulfuration des fumées, autre plâtre industriel) : dans la colonne 3 supprimer la lettre " B ".</td></tr><tr><td>8</td><td>Ligne 7121 (Phosphate d'aluminium et de calcium, phosphate tricalcique, superphosphate) : dans la colonne 3 supprimer la lettre " B ".</td></tr><tr><td>9</td><td>Ligne 7122 (Apatite, coprolithe, phosphorite, phosphates bruts non spécifiés) : dans la colonne 3 supprimer la lettre " B ".</td></tr></table>
+
+II. MODIFICATIONS DES STANDARDS DE DECHARGEMENT
+
+Dans le tableau des standards de déchargement les modifications suivantes sont à apporter :
+
+<table><tr><td>Modification</td><td>Modification proposées</td></tr><tr><td>1</td><td>Après la ligne 0150 (Maïs) : ajouter les lignes 016 " Riz " et 0160 " Riz ", et dans cette dernière mettre la lettre " A " dans les colonnes 3 et 4 </td></tr><tr><td>2</td><td>Ligne 6342 (Craie pour engrais) : dans la colonne 4 remplacer la lettre " A " par " - ".</td></tr><tr><td>3</td><td>Ligne 7222 (Diphosphate de chaux) :<br>  dans la colonne 3 remplacer le " - " par la lettre " A "<br>  dans la colonne 4 remplacer la lettre " B " par " - "<br>  dans la colonne 5 supprimer la lettre " S "<br>  dans la colonne 6 supprimer le chiffre/note bas de page " 11) "</td></tr></table>
+
+## Art. M3
+
+CDNI 2011-I-4
+
+Modification du Règlement d'application
+
+Annexe 2
+
+Appendice II
+
+Exigences pour les systèmes d'assèchement
+
+Modèle 1
+
+Dispositif relatif à la remise de quantités restantes
+
+La Conférence des Parties Contractantes,
+
+au titre des articles 14 et 19 de la Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure;
+
+adopte la nouvelle version de l'annexe 2, Appendice II - Modèle 1 " Dispositif relatif à la remise de quantités restantes " de la Convention (Annexe).
+
+Cette résolution entre en vigueur le 1er janvier 2012.
+
+Annexe résolution CDNI 2011-I-4
+
+Annexe 2
+
+Appendice II
+
+Modèle 1
+
+Dispositif relatif à la remise de quantités restantes
+
+(Image non reprise pour des raisons techniques, voir M.B. du 13-12-2011, p. 73110)
+
+Raccord pour la remise de quantités restantes.
+
+Raccord conforme aux normes :
+
+\- EN 14 420-6 DN 50 (connexion mâle), ou
+
+\- EN 14 420-7 DN 50 (connexion mâle).
+
+Des raccords alternatifs qui correspondent à d'exigences supérieures ou équivalentes peuvent être utilisés.

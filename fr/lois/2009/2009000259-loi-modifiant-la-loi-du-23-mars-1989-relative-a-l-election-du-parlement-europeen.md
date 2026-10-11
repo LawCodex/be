@@ -1,0 +1,96 @@
+---
+title: "Loi modifiant la loi du 23 mars 1989 relative à l'élection du Parlement européen"
+identifier: "2009000259"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2009/04/14/2009000259/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2009-04-14
+published: 2009-04-15
+entry_into_force: 2009-04-15
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2009/04/14/2009000259/justel"
+department: "Intérieur"
+retrieved: 2026-10-11
+---
+
+# 14 AVRIL 2009. - Loi modifiant la loi du 23 mars 1989 relative à l'élection du Parlement européen
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Dans l'article 2, alinéa 2, 1°, alinéa 2, de la loi du 23 mars 1989 relative à l'élection du Parlement européen, modifié par l'arrêté royal du 11 avril 1994, le mot " et " est remplacé par les mots " ou selon son choix ".
+
+## Art. 3
+
+Dans l'article 3, alinéa 2, 1re phrase, de la même loi, modifié par les lois des 16 juillet 1993 et 11 avril 1994, les mots " et la résidence principale " sont remplacés par les mots " , la résidence principale et le numéro d'identification visé à l'article 2, alinéa 2, de la loi du 8 août 1983 organisant un Registre national des personnes physiques ".
+
+## Art. 4
+
+Dans la même loi, il est inséré un article 12bis rédigé comme suit :
+
+" Art. 12bis. Les présidents des bureaux principaux visés à l'article 12 de la présente loi et à l'article 93 du Code électoral communiquent par voie digitale leurs coordonnées au Ministre de l'Intérieur au plus tard à la date fixée à l'article 3. "
+
+## Art. 5
+
+Dans l'article 15, alinéa 1er, de la même loi, modifié par l'arrêté royal du 11 avril 1994, les mots " 100 et 102 à 104 " sont remplacés par les mots " 100 à 104 ".
+
+## Art. 6
+
+Dans l'article 21, § 2, de la même loi, l'alinéa 6 est remplacé par ce qui suit :
+
+" La qualité d'électeur des électeurs présentants est certifiée par la commune où ils sont inscrits via l'apposition du sceau communal sur l'acte de présentation. "
+
+## Art. 7
+
+Dans l'article 33, alinéa 2, 4°, de la même loi, modifié par l'arrêté royal du 11 avril 1994, le b) est remplacé par ce qui suit :
+
+" b) de lire l'alinéa 11 comme suit :
+
+Le président du bureau principal de canton ou la personne qu'il désigne à cette fin communique sans délai au Ministre de l'Intérieur par la voie digitale, en utilisant la signature électronique émise au moyen de sa carte d'identité, le total des bulletins déposés, le total des bulletins valables, le total des bulletins blancs et nuls, le chiffre électoral de chaque liste et le total des suffrages nominatifs qui sont obtenus par chaque candidat titulaire ou suppléant.
+
+Le président du bureau principal de canton envoie sans délai par la voie digitale, en utilisant la signature électronique émise au moyen de sa carte d'identité, le procès-verbal de son bureau reprenant le tableau récapitulatif, au président du bureau principal de province qui en donne récépissé et au Ministre de l'Intérieur. Les doubles des tableaux de dépouillement et une version papier du procès-verbal reprenant le tableau récapitulatif sont également transmis au président du bureau principal de province. "
+
+## Art. 8
+
+Les modèles de bulletin de vote II (a) à II (d) figurant en annexe à la même loi, modifiés par les lois des 26 juin 2000, 11 mars 2003 et 27 mars 2006, sont remplacés par les modèles II (a) à II (d) figurant en annexe à la présente loi.
+
+## Art. 9
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Châteauneuf-de-Grasse, le 14 avril 2009.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de l'Intérieur,
+
+G. DE PADT
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK
+
+## ANNEXE.
+
+## Art. N1
+
+Annexe 1.
+
+(Image non reprise pour des raisons techniques, voir M.B. du 15-04-2009, p. 30510)

@@ -1,0 +1,54 @@
+---
+title: "Loi visant à modifier le Code de la taxe sur la valeur ajoutée"
+identifier: "2009003158"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2009/04/01/2009003158/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2009-04-01
+published: 2009-04-22
+entry_into_force: 2009-05-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2009/04/01/2009003158/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 1 AVRIL 2009. - Loi visant à modifier le Code de la taxe sur la valeur ajoutée
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+La présente loi transpose l'article 2, paragraphe 3, de la Directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée.
+
+## Art. 3
+
+Dans l'article 1er, § 6, du Code de la taxe sur la valeur ajoutée, le 4°, inséré par la loi du 28 décembre 1992, est remplacé par ce qui suit :
+
+" 4° " produits soumis à accise " : les produits énergétiques, l'alcool et les boissons alcooliques et les tabacs manufacturés tels que définis par les dispositions communautaires en vigueur, à l'exception du gaz fourni par le système de distribution de gaz naturel et de l'électricité. "
+
+Donné à Bruxelles, le 1er avril 2009.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK

@@ -1,0 +1,84 @@
+---
+title: "Loi modifiant les articles 199ter et 212 de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques"
+identifier: "2009014145"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2009/05/31/2009014145/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2009-05-31
+published: 2009-06-08
+entry_into_force: 2009-06-18
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2009/05/31/2009014145/justel"
+department: "Mobilité et Transports"
+retrieved: 2026-10-11
+---
+
+# 31 MAI 2009. - Loi modifiant les articles 199ter et 212 de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 162septies de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques, inséré par la loi du 22 mars 2002, modifié par la loi du 31 décembre 2002, est abrogé.
+
+## Art. 3
+
+A l'article 199ter de la même loi tel qu'inséré par loi du 22 décembre 2008 portant des dispositions diverses (I), les modifications suivantes sont apportées :
+
+1° dans le texte français, dans le paragraphe 1er, alinéa 1er, les mots " entreprise liée " sont remplacés par les mots " société liée "; dans le texte néerlandais uniquement les mots " bij een spoorwegbedrijf, bij de NMBS-Holding of bij een dienst van een onderneming, die in de zin van artikel 11 van het Wetboek van de vennootschappen verbonden is met één van deze ondernemingen " sont remplacés par les mots " ten dienste van een spoorwegonderneming, ten dienste van de NMBS-Holding of ten dienste van een vennootschap die, in de zin van artikel 11 van het Wetboek van vennootschappen, verbonden is met één ervan ";
+
+2° le paragraphe 3 est remplacé par ce qui suit :
+
+" § 3. Toute infraction aux interdictions visées au § 1er et § 2 sera punie d'une amende de 1.000 euros à 10.000 euros. "
+
+## Art. 4
+
+A l'article 212 de la même loi tel qu'inséré par l'arrêté royal du 14 juin 2004 portant réforme des structures de gestion de l'infrastructure ferroviaire confirmé par la loi programme du 27 décembre 2004 et modifié par la loi du 22 décembre 2008 portant des dispositions diverses (I), les modifications suivantes sont apportées :
+
+1° dans le texte français, dans le paragraphe 2, alinéa 1er, les mots " entreprise liée " sont remplacés par les mots " société liée "; dans le texte néerlandais les mots " bij een spoorwegonderneming, bij de NMBS-Holding of bij een dienst van een onderneming, die in de zin van artikel 11 van het Wetboek van de vennootschappen verbonden is met één van deze ondernemingen " sont remplacés par les mots " ten dienste van een spoorwegonderneming, ten dienste van de NMBS-Holding of ten dienste van een vennootschap die, in de zin van artikel 11 van het Wetboek van vennootschappen, verbonden is met één ervan ";
+
+2° dans le paragraphe 2, un alinéa rédigé comme suit est inséré entre les alinéas 1er et 2 :
+
+" L'interdiction énoncée à l'alinéa 1er ne s'applique pas lorsqu'un membre du conseil d'administration ou du comité de direction représente Infrabel :
+
+\-auprès de la commission paritaire nationale ou auprès d'une instance de concertation ou de coordination à laquelle sont également associées des entreprises visées à l'alinéa premier;
+
+\- au sein du conseil d'administration ou du comité de direction d'une société filiale contrôlée par Infrabel au sens de l'article 5 du Code des sociétés. "
+
+3° le dernier alinéa du paragraphe 2 est abrogé;
+
+4° le paragraphe 5 est remplacé par ce qui suit :
+
+" § 5. Toute infraction aux interdictions visées au § 2, alinéa 1er et § 4 sera punie d'une amende de 1.000 euros à 10.000 euros. "
+
+## Art. 5
+
+Les articles 3 et 4 produisent leurs effets le 8 janvier 2009.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Châteauneuf-de-Grasse, le 31 mai 2009.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Entreprises publiques,
+
+S. VANACKERE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK

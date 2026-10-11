@@ -1,0 +1,96 @@
+---
+title: "Loi portant assentiment à la Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure, aux Annexes 1re et 2, et aux Appendices I, II, III, IV et V, faits à Strasbourg le 9 septembre 1996. - Addendum"
+identifier: "2010015123"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/19/2010015123/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2008-06-19
+published: 2010-08-03
+entry_into_force: 2010-07-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/19/2010015123/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+retrieved: 2026-10-11
+---
+
+# 19 JUIN 2008. - Loi portant assentiment à la Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure, aux Annexes 1re et 2, et aux Appendices I, II, III, IV et V, faits à Strasbourg le 9 septembre 1996. - Addendum
+
+## Art. M
+
+Annexe 2 - Appendice V
+
+Valeurs limites et de contrôle pour les stations
+
+d'épuration à bord de bateaux à passagers
+
+(Règlement d'application)
+
+La Conférence des Parties contractantes,
+
+rappelant sa résolution CDNI 2009-II-4 portant sur les valeurs limites et de contrôle pour les stations d'épurations à bord de bateaux à passagers, prévues par l'Annexe 2 - Appendice V de la Convention,
+
+considérant que des dispositions complémentaires de mise en oeuvre seraient nécessaires pour assurer le maintien au plan opérationnel des nouvelles normes,
+
+vu les articles 14 et 19 de la Convention relative à la collecte, au dépôt et à la réception des déchets survenant en navigation rhénane et intérieure,
+
+constate l'accord de toutes les Parties contractantes avec la présente résolution,
+
+adopte la version 2010 de l'Appendice V, remplaçant l'Appendice V figurant dans la résolution 2009-II-4 relative aux valeurs limites et de contrôle pour les stations d'épuration à bord de bateaux à passagers, en annexe.
+
+Cette résolution entrera en vigueur le 1er juillet 2010.
+
+Annexe
+
+APPENDICE V
+
+du Règlement d'application
+
+(Edition 2010)
+
+Valeurs limites et de contrôle pour les stations
+
+d'épuration à bord de bateaux à passagers
+
+1\. Les stations d'épuration à bord de bateaux à passagers doivent respecter les valeurs limites suivantes lors de l'essai de type :
+
+Tableau 1 : Valeurs limites devant être respectées à l'évacuation de la station d'épuration de bord (installation d'essai) durant l'essai de type
+
+<table><tr><td>Paramètres </td><td colspan="2">Taux d'oxygène</td><td>Echantillon <br>  </td></tr><tr><td> </td><td>Etape I</td><td>Etape II à partir du 1.1.2011 </td></tr><tr><td>Demande biochimique en oxygène (DBO<sub>5)</sub><br>  ISO 5815-1 en 5815-2 (2003) <sup>1)</sup></td><td>25 mg/l</td><td>20 mg/l</td><td>Echantillon de prélèvement sur 24 h homogénéisé <br>  </td></tr><tr><td> </td><td>40 mg/l</td><td>25 mg/l</td><td>Echantillon, homogénéisé  </td></tr><tr><td>Demande chimique en oxygène (DCO <sup>2)</sup><br>  ISO 6060 (1989) <sup>1)</sup></td><td>125 mg/l</td><td>100 mg/l</td><td>Echantillon de prélèvement sur 24 h, homogénéisé <br>  </td></tr><tr><td> </td><td>180 mg/l</td><td>125 mg/l</td><td>Echantillon, homogénéisé </td></tr><tr><td>Carbone orgnanique total (COT)<br>  EN 1484 (1997) <sup>1)</sup></td><td>-</td><td>35 mg/l</td><td>Echantillon, de prélèvements sur 24 h, homogénéisé<br>  </td></tr><tr><td> </td><td>-</td><td>45 mg/l</td><td>Echantillon, homogénéisé </td></tr></table>
+
+1\) Les Etats contractants peuvent utiliser des méthodes équivalents.
+
+2\) A la place de la demande chimique en oxygène (DCO), il est également possible d'utiliser le carbone organique total (COT) pour l'essai de type
+
+2\. Les valeurs de contrôle suivantes doivent être respectées durant le fonctionnement :
+
+Tableau 2 : Valeurs limites à l'évacuation de la station d'épuration de bord durant le fonctionnement à bord de bateaux à passagers en navigation intérieure
+
+<table><tr><td>Paramètres </td><td colspan="2">Taux d'oxygène</td><td>Echantillon <br>  </td></tr><tr><td> </td><td>Etape I</td><td>Etape II<br>  à partir du 1.1.2011</td><td><br>   </td></tr><tr><td>Demande biochimique en oxygène (DBO<sub>5</sub>)<br>  ISO 5815-1 en 5815-2 (2003) <sup>1)</sup></td><td>40 mg/l</td><td>25 mg/l</td><td>Echantillon, homogénéisé</td></tr><tr><td>Demande chimique en oxygène (DCO) <sup>2)</sup><br>  ISO 6060 (1989) <sup>1)</sup></td><td>180 mg/l</td><td>125 mg/l</td><td>Echantillon, homogénéisé<br>  </td></tr><tr><td> </td><td>-</td><td>150 mg/l</td><td>Echantillon <br>   </td></tr><tr><td>Carbone organique total (COT)<br>  EN 1484 (1997) <sup>1)</sup></td><td>-</td><td>45 mg/l</td><td>Echantillon, homogénéisé</td></tr></table>
+
+1\) Les Etats contractants peuvent utiliser des méthodes équivalentes.
+
+2\) A la place de la demande chimique en oxygène (DCO), il est également possible d'utiliser le carbone organique total (COT) pour l'essai de type
+
+La valeur correspondante doit être respectée par l'échantillon. Les autorités compétentes doivent prendre des échantillons à intervalles variables.
+
+3\. Les procédés avec utilisation de produits chlorés ne sont pas admis.
+
+De même, une dilution des eaux usées domestiques visant à en réduire la charge spécifique et à en permettre l'élimination n'est pas admise.
+
+Régime des dispositions transitoires pour les bateaux à passagers
+
+Règlement d'application, Annexe 2, Partie C, article 9.01
+
+La Conférence des Parties Contractantes,
+
+considérant que les délais transitoires prévus dans le Règlement d'application de la Convention sont expirés,
+
+consciente que d'éventuels délais supplémentaires doivent être aussi limités que possible au vu de l'objectif écologique escompté,
+
+constate que chaque Partie Contractante peut décider que la disposition de l'article 9.01 sous point 3. de l'annexe 2, Partie C de la Convention peut entrer en application sur tout ou partie de son réseau de voies navigables à une date ultérieure que celle figurant dans l'article précité; toutefois, la date limite du 31 décembre 2011 ne doit pas être dépassée,
+
+prie les représentants des Parties Contractantes concernées d'informer le secrétariat exécutif de toute mesure d'application sur ce point.
+
+(1) Voir Moniteur belge du 22 octobre 2009 et du 9 mars 2010.

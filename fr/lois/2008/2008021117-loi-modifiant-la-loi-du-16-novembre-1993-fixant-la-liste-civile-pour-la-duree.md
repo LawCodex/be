@@ -1,0 +1,66 @@
+---
+title: "Loi modifiant la loi du 16 novembre 1993 fixant la Liste civile pour la durée du règne du Roi Albert II, l'attribution d'une dotation annuelle et viagère à Sa Majesté la Reine Fabiola et l'attribution d'une dotation annuelle à Son Altesse Royale le Prince Philippe et la loi du 7 mai 2000 attribuant une dotation annuelle à Son Altesse Royale le Prince Philippe, une dotation annuelle à Son Altesse Royale la Princesse Astrid et une dotation annuelle à Son Altesse Royale le Prince Laurent."
+identifier: "2008021117"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2008/12/22/2008021117/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2008-12-22
+published: 2008-12-29
+entry_into_force: 2009-01-08
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2008/12/22/2008021117/justel"
+department: "Chancellerie du Premier Ministre"
+retrieved: 2026-10-11
+---
+
+# 22 DECEMBRE 2008. - Loi modifiant la loi du 16 novembre 1993 fixant la Liste civile pour la durée du règne du Roi Albert II, l'attribution d'une dotation annuelle et viagère à Sa Majesté la Reine Fabiola et l'attribution d'une dotation annuelle à Son Altesse Royale le Prince Philippe et la loi du 7 mai 2000 attribuant une dotation annuelle à Son Altesse Royale le Prince Philippe, une dotation annuelle à Son Altesse Royale la Princesse Astrid et une dotation annuelle à Son Altesse Royale le Prince Laurent.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 4 de la loi du 16 novembre 1993 fixant la Liste civile pour la durée du règne du Roi Albert II, l'attribution d'une dotation annuelle et viagère à Sa Majesté la Reine Fabiola et l'attribution d'une dotation annuelle à Son Altesse Royale le Prince Philippe, est remplacé par ce qui suit :
+
+" Art. 4. Les montants visés aux articles 1er et 2, tels qu'adaptés au 31 décembre 2008 conformément à la présente loi, évoluent à partir du 1er janvier 2009 de la même manière que celle prévue dans la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du Trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants. "
+
+## Art. 3
+
+Dans l'article 3bis de la loi du 7 mai 2000 attribuant une dotation annuelle à Son Altesse Royale le Prince Philippe, une dotation annuelle à Son Altesse Royale la Princesse Astrid et une dotation annuelle à Son Altesse Royale le Prince Laurent, inséré par la loi du 13 novembre 2001, le dernier alinéa est abrogé.
+
+## Art. 4
+
+L'article 5 de la même loi est remplacé par ce qui suit :
+
+" Art. 5. Les montants visés aux articles 2, 3 et 3bis, tels qu'adaptés au 31 décembre 2008 conformément à la présente loi, évoluent à partir du 1er janvier 2009 de la même manière que celle prévue dans la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du Trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants. "
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 22 décembre 2008.
+
+ALBERT
+
+Par le Roi :
+
+Le Premier Ministre,
+
+Y. LETERME
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+J. VANDEURZEN.

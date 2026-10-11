@@ -1,0 +1,72 @@
+---
+title: "Loi modifiant les dispositions financières de la loi du 22 février 1998 fixant le statut organique de la Banque Nationale de Belgique"
+identifier: "2009003163"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2009/04/03/2009003163/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2009-04-03
+published: 2009-04-28
+entry_into_force: 2009-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2009/04/03/2009003163/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 3 AVRIL 2009. - Loi modifiant les dispositions financières de la loi du 22 février 1998 fixant le statut organique de la Banque Nationale de Belgique
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 29 de la loi du 22 février 1998 fixant le statut organique de la Banque Nationale de Belgique est abrogé.
+
+## Art. 3
+
+L'article 32 de la même loi est remplacé par ce qui suit :
+
+" Art. 32. Les bénéfices annuels sont répartis de la manière suivante :
+
+1° un premier dividende de 6 % du capital est attribué aux actionnaires;
+
+2° de l'excédent, un montant proposé par le Comité de direction et fixé par le Conseil de régence est, en toute indépendance, attribué au fonds de réserve ou à la réserve disponible;
+
+3° du deuxième excédent, est attribué aux actionnaires un second dividende, fixé par le Conseil de régence, à concurrence de 50 % minimum du produit net des actifs qui forment la contrepartie du fonds de réserve et de la réserve disponible;
+
+4° le solde est attribué à l'Etat; il est exonéré de l'impôt des sociétés. "
+
+## Art. 4
+
+Par dérogation à l'article 36 de la même loi, le Conseil de régence est habilité à remplacer, dans l'article 61, alinéa 1er, des statuts de la Banque Nationale de Belgique, le mot " mars " par le mot " mai ".
+
+## Art. 5
+
+Les articles 2 et 3 produisent leurs effets le 1er janvier 2009.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 3 avril 2009.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCQ

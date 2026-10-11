@@ -1,0 +1,58 @@
+---
+title: "Loi modifiant la loi du 16 juillet 1973 garantissant la protection des tendances idéologiques et philosophiques"
+identifier: "2009202206"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2009/05/12/2009202206/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2009-05-12
+published: 2009-05-26
+entry_into_force: 2009-06-05
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2009/05/12/2009202206/justel"
+department: "Chancellerie du Premier Ministre"
+retrieved: 2026-10-11
+---
+
+# 12 MAI 2009. - Loi modifiant la loi du 16 juillet 1973 garantissant la protection des tendances idéologiques et philosophiques
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+A l'article 22, alinéa 4, de la loi du 16 juillet 1973 garantissant la protection des tendances idéologiques et philosophiques, le mot " quatre " est remplacé par le mot " cinq ".
+
+## Art. 3
+
+A l'article 23, alinéa 1er, de la même loi, les mots " trois mois après le renouvellement des Chambres législatives " sont remplacés par les mots " six mois après le renouvellement intégral des parlements de communauté ".
+
+## Art. 4
+
+Le mandat des membres de la Commission permanente nationale du pacte culturel qui sont en fonction au moment de l'entrée en vigueur de la présente loi, expire six mois après le prochain renouvellement intégral des parlements de communauté.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge .
+
+Donné à Bruxelles, le 12 mai 2009.
+
+ALBERT
+
+Par le Roi :
+
+Le Premier Ministre,
+
+H. VAN ROMPUY
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK

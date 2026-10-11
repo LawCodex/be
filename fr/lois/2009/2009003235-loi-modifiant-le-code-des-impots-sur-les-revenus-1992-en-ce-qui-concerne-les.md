@@ -1,0 +1,76 @@
+---
+title: "Loi modifiant le Code des impôts sur les revenus 1992 en ce qui concerne les déclarations aux impôts"
+identifier: "2009003235"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2009/06/08/2009003235/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2009-06-08
+published: 2009-06-18
+entry_into_force: 2008-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2009/06/08/2009003235/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 8 JUIN 2009. - Loi modifiant le Code des impôts sur les revenus 1992 en ce qui concerne les déclarations aux impôts
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 305, alinéa 4, du Code des impôts sur les revenus 1992, est remplacé par ce qui suit :
+
+" Les contribuables ne sachant ni lire, ni signer, peuvent faire remplir leur déclaration par les agents du service de taxation compétent, à condition qu'ils donnent les indications requises. Dans ce cas, il est fait mention de ladite circonstance dans la déclaration et celle-ci est revêtue de la signature de l'agent qui l'a remplie. "
+
+## Art. 3
+
+L'article 307, § 4, du même Code, est remplacé par ce qui suit :
+
+" La déclaration doit être renvoyée ou remise au service indiqué sur la formule. La déclaration à l'impôt des personnes physiques doit être renvoyée au service indiqué sur la formule. "
+
+## Art. 4
+
+Dans l'article 308, § 1er, du même Code, inséré par la loi du 10 août 2005, les mots " au service intéressé " sont remplacés par les mots " au service indiqué sur la formule ".
+
+## Art. 5
+
+L'article 314bis du même Code, inséré par la loi du 10 août 2005, est remplacé par ce qui suit :
+
+" Art. 314bis. Les déclarations visées aux sections I et II du présent chapitre, ainsi que les documents et pièces justificatives, introduites par les contribuables, qui sont enregistrées, conservées ou reproduites par l'administration qui a l'établissement de l'impôt sur les revenus dans ses attributions selon un procédé photographique, optique, électronique ou par toute autre technique de l'informatique ou de la télématique, ainsi que leur représentation sur un support lisible ont force probante pour l'application des dispositions du Code des impôts sur les revenus 1992. "
+
+## Art. 6
+
+Dans l'article 353, alinéa 1er, du même Code, les mots " au service de taxation compétent " sont remplacés par les mots " au service indiqué sur la formule ".
+
+## Art. 7
+
+La présente loi produit ses effets à partir de l'exercice d'imposition 2009.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 8 juin 2009.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK
