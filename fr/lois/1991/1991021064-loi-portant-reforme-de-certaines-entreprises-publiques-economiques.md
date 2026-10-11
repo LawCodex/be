@@ -1,0 +1,5216 @@
+---
+title: "Loi portant réforme de certaines entreprises publiques économiques."
+identifier: "1991021064"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1991/03/21/1991021064/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1991-03-21
+published: 1991-03-27
+entry_into_force: 1991-03-27
+last_amended: 2026-07-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1991/03/21/1991021064/justel"
+department: "Premier Ministre"
+justel_note: "Consultation des versions antérieures à partir du 04-09-1992 et mise à jour au 13-07-2026"
+retrieved: 2026-10-12
+---
+
+# 21 MARS 1991. - Loi portant réforme de certaines entreprises publiques économiques.
+
+## TITRE I. - Les entreprises publiques autonomes.
+
+### CHAPITRE I. - Classification de certains organismes d'intérêt public parmi les entreprises publiques autonomes.
+
+##### Art. 1
+
+§ 1. Chaque organisme d'intérêt public qui doit disposer d'une autonomie de gestion dans un secteur industriel ou commercial donné, peut, après adaptation par la loi de son statut organique aux dispositions du présent titre, obtenir une telle autonomie par la conclusion d'un contrat de gestion avec l'Etat aux conditions de la présente loi.
+
+§ 2. Le Roi, par arrêté délibéré en Conseil des Ministres, supprime à l'article 1er de la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public, remplacé par l'arrêté royal n° 431 du 5 août 1986, modifié par l'arrêté royal n° 429 du 5 août 1986, complété par le décret du 23 avril 1986, modifié par l'arrêté royal n° 526 du 31 mars 1987 et par le décret du 13 juillet 1988, tout organisme visé au § 1er, à partir de la date d'entrée en vigueur de son premier contrat de gestion, au cas où l'organisme concerné était soumis à la loi du 16 mars 1954 visée.
+
+§ 3. Le Roi classe, par arrêté délibéré en Conseil des Ministres, à partir de la date d'entrée en vigueur de son premier contrat de gestion, tout organisme visé au § 1er parmi les entreprises publiques autonomes. Celles-ci sont reprises au § 4.
+
+§ 4. Les organismes classés (...) parmi les entreprises publiques autonomes sont : &lt;AR 2006-11-10/78, art. 3, 1°, 063; En vigueur : 01-01-2005&gt;
+
+(1° [<sup>4</sup> Proximus]<sup>4</sup>;) AR 1992-08-19/43, art. 2, 002; En vigueur : 04-09-1992&gt;
+
+2° [<sup>3</sup> la Société Nationale des Chemins de fer belges, en abrégé SNCB, et Infrabel]<sup>3</sup>
+
+3°[<sup>2</sup> bpost]<sup>2</sup>;
+
+(4° [<sup>5</sup> skeyes]<sup>5</sup>) &lt;L 1998-08-25/33, art. 2, 022; En vigueur : 02-10-1998&gt;
+
+(alinéa 2 abrogé) &lt;AR 2004-05-27/44, art. 62, 048; En vigueur : 29-12-2004; date de la transformation de B.I.A.C. en société anonyme de droit privé régie par le Code des sociétés&gt;
+
+5°[<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;AR 2008-09-28/33, art. 19, 076; En vigueur : 01-01-2009&gt;
+
+(2)&lt;L 2010-12-13/07, art. 4, 078; En vigueur : 17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+(3)&lt;AR 2013-12-11/03, art. 2, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+(4)&lt;L 2015-08-10/26, art. 2, 092; En vigueur : 22-06-2015 (voir AR 2015-09-11/02, art. 1)&gt;
+
+(5)&lt;L 2019-04-13/20, art. 2, 104; En vigueur : 07-11-2018&gt;
+
+##### Art. 2
+
+§ 1. Par dérogation à l'article 1er, § 1er, le Roi peut, dans l'arrêté portant approbation du premier contrat de gestion d'un organisme visé au § 2, abroger, compléter, modifier ou remplacer les dispositions législatives qui règlent le statut organique, le financement et le fonctionnement de l'organisme concerné afin de rendre les règles qu'elles contiennent compatibles avec les dispositions de la présente loi.
+
+Le Roi peut, dans l'arrêté visé à l'alinéa premier, coordonner les dispositions législatives réglant les organismes visés au § 2 ainsi que les dispositions qui les auraient expressément ou implicitement modifiées au moment où cette coordination est établie. A cette fin, Il peut :
+
+1° modifier l'ordre, le numérotage et, en général, la présentation des dispositions à coordonner;
+
+2° modifier les références qui seraient contenues dans les dispositions à coordonner, en vue de les mettre en concordance avec le numérotage nouveau;
+
+3° modifier la rédaction des dispositions à coordonner en vue d'assurer leur concordance et d'en unifier la terminologie, sans qu'il puisse être porté atteinte aux principes inscrits dans ces dispositions autrement qu'en vertu de l'alinéa premier;
+
+4° reprendre des dispositions de la présente loi dans le texte coordonné, dans l'ordre et avec le numérotage qu'Il détermine;
+
+5° arrêter l'intitulé de la coordination.
+
+§ 2. Le paragraphe premier est applicable aux organismes d'intérêt public suivants :
+
+1° la Régie des voies aériennes;
+
+2° [<sup>1</sup> la SNCB]<sup>1</sup>
+
+3° la Régie des postes;
+
+4° la Régie des télégraphes et des téléphones.
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 3, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+### CHAPITRE II. - Le contrat de gestion.
+
+#### Section I. - Définition et contenu.
+
+##### Art. 3
+
+§ 1. Les règles et conditions spéciales selon lesquelles une entreprise publique autonome exerce les missions de service public qui lui sont confiées par la loi, sont arrêtées dans un contrat de gestion conclu entre l'Etat et l'entreprise publique concernée.
+
+§ 2. Le contrat de gestion règle les matières suivantes :
+
+1° les tâches que l'entreprise publique assume en vue de l'exécution de ses missions de service public, ci-après dénommées les " tâches de service public ";
+
+2° les principes gouvernant les tarifs pour les prestations fournies dans le cadre des tâches de service public, ci-après dénommées les " prestations de service public ";
+
+3° des règles de conduite vis-à-vis des usagers des prestations de service public;
+
+4° la fixation, le calcul et les modalités de paiement des subventions éventuelles à charge du budget général des dépenses de l'Etat que l'Etat accepte d'affecter à la couverture des charges qui découlent pour l'entreprise publique de ses tâches de service public, compte tenu des coûts et recettes propres à ces tâches et des conditions d'exploitation imposées par ou en vertu de la loi, ou par le contrat de gestion et, pour ce qui concerne le coût du personnel, de l'évolution des salaires comparables dans les administrations de l'Etat;
+
+5° la fixation, le calcul et les modalités de paiement des indemnités éventuelles à verser par l'entreprise publique à l'Etat, notamment en ce qui concerne les avantages liés aux droits exclusifs éventuels de l'entreprise publique et, le cas échéant, les droits d'usage qui sont concédés par l'Etat à l'entreprise publique sur des biens;
+
+6° le cas échéant, les matières d'intérêt économique stratégique pour lesquelles la passation des marchés est soumise à l'approbation, selon le montant, du ministre dont relève l'entreprise publique ou du Comité ministériel compétent, ainsi que la détermination du montant visé;
+
+7° le cas échéant, des objectifs relatifs à la structure financière de l'entreprise publique;
+
+8° le cas échéant, des règles relatives à la répartition des bénéfices nets;
+
+9° les éléments que le plan d'entreprise doit contenir et les délais pour la communication et le délai au delà duquel l'autorisation est censée être donnée;
+
+10° le cas échéant, la fixation d'un montant, pour ce qui concerne les opérations immobilières soumises à l'autorisation préalable du ministre dont relève l'entreprise publique et, le cas échéant, la fixation d'un délai à l'expiration duquel l'autorisation est supposée être accordée;
+
+11° les sanctions en cas de non-respect par une partie de ses engagements résultant du contrat de gestion.
+
+§ 3. Toute clause résolutoire expresse dans le contrat de gestion est réputée non écrite.
+
+L'article 1184 du Code Civil n'est pas applicable au contrat de gestion. La partie envers laquelle une obligation dans le contrat de gestion n'est pas exécutée, ne peut poursuivre que l'exécution de l'obligation, et, le cas échéant, demander des dommages-intérêts, sans préjudice de l'application de toute sanction spéciale prévue dans le contrat de gestion.
+
+§ 4. Les obligations financières générales éventuelles de l'Etat à l'égard d'une entreprise publique autonome sont limitées à celles qui résultent des dispositions du contrat de gestion conclu avec l'entreprise concernée. Les régimes légaux particuliers de subvention existant en faveur de l'entreprise publique ne sont plus d'application à partir de la date d'entrée en vigueur du classement de l'entreprise publique parmi les entreprises publiques autonomes.
+
+(Alinéa 2 abrogé) &lt;L 2005-12-27/31, art. 26, 060; En vigueur : 24-09-2005&gt;
+
+§ 5. Le contrat de gestion ne constitue pas un acte ou règlement visé à l'article 14 des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973. Toutes ses clauses sont réputées contractuelles.
+
+#### Section II. - Conclusion, approbation, fin et renouvellement.
+
+##### Art. 4
+
+§ 1. Lors de la négociation et de la conclusion du contrat de gestion, l'Etat est représenté par le ministre dont relève l'entreprise publique.
+
+§ 2. Lors de la négociation du contrat de gestion, l'entreprise publique est représentée par son comité de direction. Le contrat de gestion est soumis à l'approbation du conseil d'administration statuant à la majorité des deux tiers des voix exprimées.
+
+Le projet de contrat de gestion ou de modification du contrat de gestion est soumis pour concertation à la commission paritaire.
+
+La commission paritaire est appelée périodiquement, sur convocation de son président, à donner son avis motivé à propos de l'état d'avancement des négociations.
+
+[<sup>1</sup> Pour l'application des deux alinéas qui précèdent, le comité d'entreprise stratégique auprès d'Infrabel et de la SNCB remplit la fonction de la commission paritaire.]<sup>1</sup>
+
+§ 3. Le contrat de gestion n'entre en vigueur qu'après son approbation par le Roi, par arrêté délibéré en Conseil des Ministres, et à la date fixée par cet arrêté.
+
+----------
+
+(1)&lt;AR 2013-12-11/02, art. 7, 085; En vigueur : 01-01-2014&gt;
+
+##### Art. 5
+
+§ 1. Le contrat de gestion est réévalué chaque année et, le cas échéant, adapté aux modifications des conditions du marché et aux développements techniques par application de paramètres objectifs prévus dans le contrat de gestion.
+
+Toutefois, toute autre adaptation, proposée par une des parties ou par les deux parties, est faite conformément à l'article 4.
+
+§ 2. Le contrat de gestion est conclu pour une durée de trois ans au moins et de cinq ans au plus.
+
+[<sup>1</sup> § 2/1. Au plus tard un mois après réception du projet de nouveau contrat de gestion proposé par le comité de direction de l'entreprise publique, le ministre en fait rapport aux Chambres législatives.]<sup>1</sup>
+
+§ 3. Au plus tard six mois avant l'expiration d'un contrat de gestion, le comité de direction soumet au ministre dont relève l'entreprise publique un projet de nouveau contrat de gestion.
+
+Si, à l'expiration d'un contrat de gestion, un nouveau contrat de gestion n'est pas entré en vigueur, le contrat est prorogé de plein droit jusqu'à l'entrée en vigueur d'un nouveau contrat de gestion. Cette prorogation est publiée au Moniteur belge par le ministre dont relève l'entreprise publique.
+
+Si, un an après la prorogation visée à l'alinéa précédent, un nouveau contrat de gestion n'est pas entré en vigueur, le Roi peut, par arrêté délibéré en Conseil des Ministres, fixer des règles provisoires concernant les matières visées à l'article 3, § 2. Ces règles provisoires valent comme nouveau contrat de gestion et sont d'application jusqu'à l'entrée en vigueur d'un nouveau contrat de gestion, conclu conformément à l'article 4.
+
+----------
+
+(1)&lt;L 2013-01-29/09, art. 2, 084; En vigueur : 04-03-2013&gt;
+
+##### Art. 6
+
+Les arrêtés portant approbation d'un contrat de gestion, ou de son adaptation, ainsi que les arrêtés fixant des règles provisoires sont publiés au Moniteur belge.
+
+Les dispositions du contrat de gestion ou, le cas échéant, des règles provisoires, sont publiées en annexe de l'arrêté royal, à l'exception de celles qui contiennent des secrets industriels ou commerciaux.
+
+### CHAPITRE III. - Autonomie.
+
+##### Art. 7
+
+Les entreprises publiques autonomes sont libres de développer, dans les limites de la présente loi, toutes les activités qui sont compatibles avec leur objet social. Elles peuvent constituer des succursales ou des agences en Belgique et à l'étranger sur décision de leur conseil d'administration.
+
+##### Art. 8
+
+Les actes des entreprises publiques autonomes sont réputés commerciaux.
+
+Les entreprises publiques autonomes ne sont toutefois pas soumises aux dispositions du livre III du Code de Commerce. Elles bénéficient de l'immunité d'exécution pour les biens entièrement ou partiellement affectés à la mise en oeuvre de leurs tâches de service public.
+
+##### Art. 9
+
+Les entreprises publiques autonomes sont soumises à la législation sur le contrôle des prix.
+
+Elles déterminent librement les tarifs et les structures tarifaires pour les prestations qu'elles fournissent, autres que les prestations de service public.
+
+Elles déterminent les tarifs et les structures tarifaires pour les prestations de service public dans les limites des principes concernant les tarifs contenus dans le contrat de gestion. Toutefois, les tarifs maximums, ou les formules pour leur calcul, qui ne sont pas réglés dans le contrat de gestion, sont soumis à l'approbation du ministre dont relève l'entreprise publique. (L'approbation est demandée par l'entreprise publique par le biais d'une demande écrite préalable, chiffrée et argumentée, au ministre dont relève l'entreprise publique.) &lt;L 2007-04-01/50, art. 2, 1°, 069; En vigueur : 24-05-2007&gt;
+
+(Le ministre dispose d'un délai de 40 jours à partir de la réception du dossier pour approuver ou refuser les tarifs maximaux ou les formules visés à l'alinéa précédent. A défaut d'une décision dans le délai mentionné, la demande est considérée comme approuvée tacitement.) &lt;L 2007-04-01/50, art. 2, 2°, 069; En vigueur : 24-05-2007&gt;
+
+##### Art. 10
+
+§ 1. Les entreprises publiques autonomes décident librement, dans les limites de leur objet social, de l'acquisition, l'utilisation et l'aliénation de leurs biens matériels et immatériels, de la constitution ou la suppression de droits réels sur ces biens, ainsi que de l'exécution de telles décisions.
+
+Par dérogation à l'alinéa 1er et sans préjudice de l'application de l'article 167 de la loi-programme du 30 décembre 1988, le contrat de gestion peut déterminer un montant au delà duquel toute décision d'acquérir, construire ou aliéner un immeuble ou un droit immobilier est soumise à l'autorisation préalable du ministre dont relève l'entreprise publique, le cas échéant, dans le délai fixé dans le contrat de gestion.
+
+§ 2. Les entreprises publiques autonomes chargent le comité d'acquisition d'immeubles compétent de :
+
+1° la passation des actes authentiques de transmission, déclaration ou création d'un droit réel sur des immeubles;
+
+2° l'introduction et la poursuite des procédures d'expropriation d'immeubles décidées par l'entreprise publique conformément à la loi.
+
+§ 3. L'Etat peut, aux conditions fixées dans l'arrêté royal portant approbation du premier contrat de gestion, notamment en ce qui concerne une contrepartie éventuelle, céder à une entreprise publique autonome la propriété de biens meubles ou immeubles dont il est propriétaire et qui sont affectés, à la date d'entrée en vigueur du contrat visé, à l'exécution de prestations de service public assumées par l'entreprise concernée.
+
+##### Art. 11
+
+§ 1. (Les entreprises publiques autonomes ne sont soumises à l'application de la loi du 24 décembre 1993 relative aux marchés publics et à certains marchés de travaux, de fournitures et de services que pour les marchés publics ayant trait à leurs tâches de service public. Cela ne porte pas préjudice à la mise en concurrence dans le cadre de la Communauté européenne de certains marchés n'ayant pas trait à ces mêmes tâches, mais se rapportant à une des activités visées (par les livres premier et II de cette loi).) En vigueur : 01-05-1997&gt; En vigueur : 14-01-1999&gt;
+
+[<sup>1</sup> (NOTE : abrogé au 01/07/2013, pour les marchés publics, les marchés et les concessions de travaux publics publiés ou qui auraient dû être publiés à partir de cette date au Journal officiel de lUnion européenne ou au Bulletin des Adjudications ainsi que pour les marchés publics, les marchés, et les concessions de travaux publics, pour lesquels, à défaut dune obligation de publication préalable, linvitation à introduire une demande de participation ou une offre est lancée à partir de cette date)]<sup>1</sup>
+
+§ 2. Les marchés de travaux, de fournitures et de services sont passés par ou en vertu d'une décision du conseil d'administration de l'entreprise publique. Le conseil d'administration détermine les marchés pour lesquels le comité de direction est seul compétent et les marchés pour lesquels le comité peut déléguer la décision.
+
+Par dérogation à l'alinéa premier, le contrat de gestion peut, pour les marchés ayant trait à la mise en oeuvre de tâches de service public, désigner les matières qui sont d'intérêt économique stratégique et pour lesquelles la décision de passer le marché est soumise, selon le montant du marché, à l'approbation du ministre dont relève l'entreprise publique ou du comité ministériel compétent en matière d'investissements publics.
+
+Si la décision du ministre ou du comité ministériel n'est pas conforme à la proposition de l'entreprise publique concernée et qu'il en résulte pour celle-ci un coût supplémentaire, ce coût supplémentaire devra être couvert par une intervention équivalente à charge du budget général des dépenses de l'Etat.
+
+----------
+
+(1)&lt;L 2006-06-15/57, art. 78,1°, 114; En vigueur : 01-07-2013&gt;
+
+##### Art. 12
+
+§ 1. Les entreprises publiques autonomes décident librement, dans les limites de leur objet social et, le cas échéant, conformément aux dispositions de leur contrat de gestion concernant la structure financière, de l'étendue, des techniques et des conditions de leur financement externe.
+
+§ 2. Les entreprises publiques autonomes dont les emprunts bénéficient de plein droit de la garantie de l'Etat par ou en vertu d'une loi, peuvent, nonobstant toute disposition contraire, choisir de faire appel ou non à la garantie de l'Etat pour les emprunts qu'elles contractent.
+
+A compter de la date à partir de laquelle une entreprise publique est classée parmi les entreprises publiques autonomes :
+
+1° les limitations et modalités de contrôle imposées par les lois susvisées ne s'appliquent qu'aux emprunts contractés par l'entreprise publique concernée avec la garantie de l'Etat;
+
+2° l'entreprise publique concernée est ou reste soumise à l'arrêté royal n° 517 du 31 mars 1987 instaurant une prime annuelle sur les nouveaux engagements garantis par l'Etat de certaines institutions du secteur public.
+
+§ 3. Les entreprises publiques autonomes décident librement, dans les limites de leur objet social, du placement de leurs fonds disponibles en francs belges. Les placements en devises sont soumis à l'autorisation préalable du Ministre des Finances, à l'exception des opérations en devises couvrant des opérations commerciales.
+
+§ 4. A l'exception de la couverture temporaire de besoins de trésorerie, les entreprises publiques autonomes n'utilisent des moyens provenant de subventions de l'Etat ou de revenus de prestations de service public, pour le développement, le financement ou l'exploitation d'activités autres que dans le cadre de leurs tâches de service public.
+
+##### Art. 13
+
+§ 1. Les entreprises publiques autonomes peuvent, aux conditions déterminées ci-dessous, prendre des participations directes ou indirectes dans des sociétés, associations et institutions de droit public ou privé dont l'objet est compatible avec leur objet social, ci-après dénommées les " filiales ".
+
+§ 2. Le conseil d'administration décide à la majorité simple des voix exprimées de toute prise de participation conformément au § 1er pour autant que la participation dans son intégralité :
+
+1° représente moins de 25 % du capital de la filiale concernée; et
+
+2° n'excède pas un pourcentage des capitaux propres de l'entreprise publique concernée déterminé dans l'arrêté royal portant approbation du premier contrat de gestion.
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, ramener la limite prévue à l'alinéa précédent, 1°, au dessous de 25 % et modifier la limite visée à l'alinéa précédent, 2°, pour les entreprises publiques autonomes qu'Il désigne.
+
+Le conseil d'administration peut décider, à la majorité des deux tiers des voix exprimées, de prendre une participation qui excède l'une des limites ou les limites déterminées à l'alinéa premier.
+
+§ 3. Le Roi peut, par arrêté délibéré en Conseil des Ministres, autoriser, le cas échéant, sous les conditions spéciales qu'Il détermine, une entreprise publique autonome à associer une filiale à la mise en oeuvre de ses tâches de service public, pour autant que la participation directe ou indirecte des autorités publiques dans la filiale concernée excède 50 % du capital et donne droit statutairement à plus de 75 % des voix et des mandats dans tous les organes de la filiale concernée.
+
+Toute cession d'actions représentatives du capital, suite à laquelle la participation directe ou indirecte des pouvoirs publics visée à l'alinéa précédent n'excèderait plus 50 %, est nulle de plein droit à défaut de porter cette participation au-delà de 50 % dans un délai de trois mois de ladite cession par une augmentation de capital entièrement ou partiellement souscrite par les autorités publiques.
+
+Les conditions concernant la participation des autorités publiques déterminées par les alinéas premier et deux ne sont pas applicables aux projets de coopération internationale dont le champ d'application excède le territoire du Royaume.
+
+Pour l'application du présent article, il y a lieu d'entendre par autorité publique, une ou plusieurs des autorités visées à l'article 42.
+
+§ 4. Le Roi peut, dans l'arrêté visé au § 3, premier alinéa, classer, parmi les entreprises publiques autonomes, la filiale, constituée conformément au droit belge, le cas échéant, pour la durée qu'Il détermine. Dans ce cas, la filiale et l'entreprise publique autonome concernée sont solidairement responsables envers l'Etat de l'exécution par la filiale des tâches de service public auxquelles la filiale est associée, et ce, jusqu'à l'entrée en vigueur d'un contrat de gestion avec la filiale.
+
+A défaut de classement conformément à l'alinéa précédent, l'entreprise publique autonome concernée reste responsable envers l'Etat de l'exécution par la filiale des tâches de service public auxquelles celle-ci est associée.
+
+L'alinéa précédent n'est pas applicable aux projets de coopération internationale dont le champ d'application excède le territoire du Royaume.
+
+§ 5. Le Roi peut dans l'arrêté visé au § 3, premier alinéa, transférer ou attribuer des droits exclusifs légaux de l'entreprise publique autonome à une filiale de celle-ci dans la mesure où un tel transfert ou une telle attribution est nécessaire pour le développement de la filiale. Dans ce cas, le Roi peut classer la filiale concernée parmi les entreprises publiques autonomes conformément au § 4.
+
+§ 6. Le présent article est également applicable à la constitution de sociétés, d'associations ou d'institutions par une entreprise publique autonome.
+
+Une entreprise publique autonome peut constituer seule des sociétés anonymes. Dans ce cas, l'article 13ter, alinéa 1er, 4°, des lois coordonnées sur les sociétés commerciales, n'est pas d'application, de même que l'article 104bis, deuxième alinéa, des mêmes lois, aussi longtemps que l'entreprise fondatrice est le seul actionnaire.
+
+##### Art. 14
+
+Une entreprise publique autonome peut transiger et compromettre. Toutefois, toute convention d'arbitrage conclue avec des personnes physiques avant la naissance du différend est nulle.
+
+### CHAPITRE IV. - Administration.
+
+#### Section I. - Principes.
+
+##### Art. 15
+
+Les entreprises publiques autonomes sont gérées par un conseil d'administration et un comité de direction.
+
+(Alinéa 2 abrogé) &lt;L 2002-03-22/30, art. 2, 039; En vigueur : 26-03-2002&gt;
+
+##### Art. 16
+
+Dans les entreprises publiques autonomes dont les tâches de service public couvrent l'ensemble du Royaume, le conseil d'administration et le comité de direction comptent autant de membres d'expression française que d'expression néerlandaise, éventuellement à l'exception respectivement du président du conseil d'administration et de l'administrateur délégué.
+
+#### Section II. - Le conseil d'administration.
+
+##### Art. 17
+
+§ 1. Le conseil d'administration a le pouvoir d'accomplir tous les actes nécessaires ou utiles à la réalisation de l'objet social de l'entreprise publique.
+
+Le conseil d'administration contrôle la gestion assurée par le comité de direction. Le comité de direction fait régulièrement rapport au conseil.
+
+Le conseil, ou son président, sans préjudice des pouvoirs lui conférés par l'article 18, § 5, peut, à tout moment, demander au comité de direction un rapport sur les activités de l'entreprise ou sur certaines d'entre elles.
+
+§ 2. Le conseil d'administration peut déléguer au comité de direction en tout ou en partie les compétences visées au § 1er, à l'exception de :
+
+1° l'approbation du contrat de gestion, de même que de toute modification de celui-ci;
+
+2° l'élaboration du plan d'entreprise et la définition de la politique générale;
+
+3° le contrôle du comité de direction, notamment en ce qui concerne l'exécution du contrat de gestion;
+
+4° les autres compétences qui sont réservées au conseil d'administration par le présent titre et, si l'entreprise publique a la forme de société anonyme de droit public, par les lois coordonnées sur les sociétés commerciales.
+
+§ 3. Au cas où l'entreprise publique n'a pas la forme de société anonyme de droit public, les articles 54, deuxième alinéa, 60, alinéa 1er, 61, 62, 63bis et 67 des lois coordonnées sur les sociétés commerciales, sont applicables par analogie au conseil d'administration.
+
+(§ 4. Le conseil d'administration constitue en son sein un comité des rémunérations ainsi que tout autre comité qu'il estimera nécessaire. Il en fixe la composition et le mode de fonctionnement en se conformant à la présente loi.
+
+Le comité de rémunération remet une proposition de décision au conseil d'administration, au Roi ou à l'assemblée générale selon le cas, pour chaque décision relative aux avantages pécuniaires, directs ou immédiats, indirects ou postposés, liés directement à la fonction ou accordés aux membres des organes de gestion. Il établit en outre annuellement un rapport relatif aux rémunérations qui sera inséré dans le rapport de gestion.) &lt;L 2002-12-24/31, art. 502, 042; En vigueur : 10-01-2003&gt;
+
+[<sup>1</sup> Ce rapport contient les informations figurant dans le rapport visé à l'article 96, § 3, du Code des sociétés. Pour les membres des organes de gestion, les informations visées à l'article 96, § 3, du même Code, tel qu'il s'applique aux sociétés dont les actions sont admises aux négociations sur un marché réglementé au sens de l'article 2, 3°, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, sont communiquées mutatis mutandis.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-04-06/21, art. 21, 077; En vigueur : 03-05-2010; voir aussi L 2010-04-06/21, art. 23&gt;
+
+##### Art. 18
+
+§ 1. Le conseil d'administration est composé de dix-huit membres au plus, y compris les membres du comité de direction, qui en sont membres de plein droit.
+
+Le nombre des membres ordinaires du conseil d'administration est le double du nombre des membres du comité de direction.
+
+§ 2. Au cas où l'entreprise publique n'a pas la forme de société anonyme de droit public, le Roi, par arrêté délibéré en Conseil des Ministres, détermine le nombre d'administrateurs et nomme les administrateurs ordinaires.
+
+Si l'entreprise publique a la forme de société anonyme de droit public, le nombre des membres du conseil d'administration est déterminé par l'assemblée générale des actionnaires. Le Roi nomme, par arrêté délibéré en Conseil des Ministres, un nombre de membres ordinaires proportionnel aux droits de vote attachés aux actions détenues par [<sup>2</sup> les autorités publiques]<sup>2</sup>. Les autres membres ordinaires sont ensuite nommés par les autres actionnaires.
+
+Parmi les membres ordinaires du conseil d'administration de la (S.N.C.B. Holding) à nommer par le Roi, deux sont nommés sur la proposition du ministre dont la Société nationale relève, agissant sur proposition des deux organisations syndicales les plus représentatives siégeant à la Commission paritaire nationale auprès de cette entreprise. &lt;AR 2004-10-18/32, art. 27, 050 ; En vigueur : 01-01-2005&gt;
+
+Les membres ordinaires du conseil d'administration nommés par le Roi ne peuvent être révoqués que par arrêté royal délibéré en Conseil des Ministres, sur avis conforme motivé du conseil d'administration, approuvé à la majorité des deux tiers des voix exprimées.
+
+[<sup>1</sup> § 2bis. Un tiers au moins des membres du conseil d'administration désignés par l'Etat belge ou par une société contrôlée par l'Etat belge sont de sexe différent de celui des autres membres. Pour l'application de la présente disposition, le nombre minimum requis de ces membres de sexe différent est arrondi au nombre entier le plus proche. Si le nombre d'administrateurs de sexe différent n'atteint pas le minimum fixé par la présente disposition, le prochain administrateur nommé est de ce sexe, faute de quoi, sa nomination est nulle. Il en va de même si une nomination a pour effet de faire baisser le nombre de ces administrateurs de sexe différent sous ce nombre minimum requis.]<sup>1</sup>
+
+§ 3. Les membres ordinaires du conseil d'administration sont nommés pour un terme renouvelable de six ans.
+
+§ 4. En cas de vacance d'une place d'administrateur, les administrateurs restants ont le droit d'y pourvoir provisoirement jusqu'à une nomination définitive conformément à l'article 18 ou 20.
+
+§ 5. Le Roi nomme, par arrêté délibéré en Conseil des Ministres, le président du conseil d'administration parmi les membres ordinaires.
+
+En cas de partage des voix au sein du conseil d'administration, la voix du président est prépondérante.
+
+Le président peut, à tout moment, prendre connaissance, sans déplacement, des livres, de la correspondance, des procès-verbaux et généralement de tous les documents et de toutes les écritures de l'entreprise publique. Il peut requérir des membres du comité de direction, des agents et des préposés de l'entreprise publique toutes les explications ou informations et procéder à toutes les vérifications qui lui paraissent nécessaires pour l'exécution de son mandat. Il peut se faire assister par un expert-comptable désigné par lui. La rémunération de l'expert-comptable incombe à l'entreprise publique.
+
+----------
+
+(1)&lt;L 2011-07-28/14, art. 2, 081; En vigueur : indéterminée ; voir L 2011-07-28/14, art. 7, §4&gt;
+
+(2)&lt;L 2015-12-16/30, art. 2, 093; En vigueur : 12-01-2016&gt;
+
+#### Section III. - Le comité de direction.
+
+##### Art. 19
+
+Le comité de direction est chargé de la gestion journalière et de la représentation en ce qui concerne cette gestion, de même que de l'exécution des décisions du conseil d'administration et de la négociation du contrat de gestion.
+
+Les membres du comité de direction forment un collège. Ils peuvent se répartir les tâches.
+
+A l'exception de celles visées aux articles 4, § 2, et 11, § 2, le comité de direction peut déléguer certaines de ces compétences à un ou plusieurs de ses membres ou à des membres du personnel. Il peut en autoriser la subdélégation.
+
+Au cas où l'entreprise publique n'a pas la forme de société anonyme de droit public, les articles 60, premier alinéa, 61, 62, 63, troisième alinéa, 63bis et 67 des lois coordonnées sur les sociétés commerciales, sont applicables par analogie.
+
+##### Art. 20
+
+§ 1. Le comité de direction est composé de l'administrateur délégué et des administrateurs-directeurs. Le comité de direction est présidé par l'administrateur délégué.
+
+§ 2. Le Roi nomme l'administrateur délégué par arrêté délibéré en Conseil des Ministres pour un terme renouvelable de six ans. L'administrateur délégué appartient à un rôle linguistique différent de celui du président du conseil d'administration. Il ne peut être révoqué que par arrêté royal délibéré en Conseil des Ministres, sur avis conforme motivé de deux tiers des membres ordinaires du conseil d'administration.
+
+§ 3. Les membres ordinaires du conseil d'administration nomment, sur la proposition de l'administrateur délégué, les autres membres du comité de direction pour un terme renouvelable de six ans, afin de compléter le conseil d'administration. Ces membres du comité de direction portent le titre d'administrateur-directeur. Leur nomination est soumise à l'approbation du ministre dont relève l'entreprise publique.
+
+Un membre ordinaire du conseil d'administration ne peut être membre du comité de direction en même temps.
+
+Les administrateurs-directeurs ne peuvent être révoqués que par décision de deux tiers des membres ordinaires du conseil d'administration. La révocation est soumise à l'approbation du ministre dont relève l'entreprise publique.
+
+§ 4. L'administrateur délégué et les administrateurs-directeurs remplissent au sein de l'entreprise ou pour la représentation de celle-ci, des fonctions de plein exercice.
+
+#### Section IV. - Du mandat d'administrateur.
+
+##### Art. 21
+
+§ 1. Les droits, y compris la rémunération, et obligations mutuels de l'administrateur délégué et des administrateurs-directeurs, d'une part, et de l'entreprise publique, d'autre part, sont réglés dans une convention particulière entre les parties concernées. Lors de la négociation de cette convention, l'entreprise publique est représentée par les membres ordinaires du conseil d'administration.
+
+L'administrateur délégué ou l'administrateur-directeur qui, au moment de sa nomination, se trouve dans un lien statutaire avec l'Etat ou toute autre personne de droit public relevant de l'Etat est mis de plein droit en congé pour mission selon les dispositions du statut en question pour toute la durée de son mandat. Toutefois, durant cette période, il garde ses titres à la promotion et à l'avancement de traitement.
+
+Lorsque l'administrateur délégué ou un administrateur-directeur au moment de sa nomination se trouve dans un lien contractuel avec l'Etat ou avec toute autre personne de droit public relevant de l'Etat, le contrat concerné est suspendu de plein droit pour toute la durée de son mandat. Toutefois, durant cette période, il garde ses titres à l'avancement de traitement.
+
+[<sup>1</sup> Les articles 520bis et 520ter du Code des sociétés s'appliquent mutatis mutandis à l'administrateur délégué, aux administrateurs-directeurs et aux membres du comité de direction.
+
+Si une convention mentionnée à l'alinéa 1er prévoit une indemnité de départ qui dépasse les 12 mois de rémunération, ou, sur l'avis motivé du comité de rémunération, dépasse les 18 mois de rémunération, cette clause [<sup>2</sup> ...]<sup>2</sup> en matière d'indemnité de départ doit recueillir l'approbation préalable [<sup>2</sup> ...]<sup>2</sup> de la première assemblée générale ordinaire qui suit[<sup>2</sup> ...]<sup>2</sup>. Toute disposition contraire est nulle de plein droit.
+
+L'alinéa précédent s'applique également à la convention conclue avec les membres du comité de direction.
+
+La demande de convenir d'une indemnité de départ plus élevée comme stipulée dans l'alinéa 5, doit être communiquée à la commission paritaire ou, à défaut, aux représentants des travailleurs au comité pour la prévention et la protection au travail ou, à défaut, à la délégation syndicale. A la demande d'une des parties à la commission paritaire, de la délégation syndicale ou des représentants des travailleurs au comité pour la prévention et la protection au travail, celui-ci donne un avis [<sup>2</sup> ...]<sup>2</sup> à l'assemblée générale[<sup>2</sup> ...]<sup>2</sup> .
+
+[<sup>2</sup> Dans ce cas]<sup>2</sup>, la demande [<sup>2</sup> ...]<sup>2</sup> doit être communiquée trente jours avant le jour de la publication de la convocation de la première assemblée générale ordinaire qui suit et la demande d'avis doit être formulée au moins vingt jours avant la même date. L'avis est donné et publié sur le site Internet de l'entreprise publique au plus tard le jour de publication de la convocation.
+
+Les données à caractère personnel ainsi transmises, selon le cas, [<sup>2</sup> à la commission paritaire]<sup>2</sup>, à la délégation syndicale ou aux représentants des travailleurs au comité pour la prévention et la protection au travail ne peuvent être divulguées par ceux-ci, sauf aux fins de l'avis à l'assemblée générale visé à l'alinéa précédent.
+
+Les alinéas 4 à 9 ne sont pas d'application aux entreprises publiques autonomes dont les actions sont admises à la négociation sur un marché visé à l'article 2, 3°, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers.]<sup>1</sup>
+
+§ 2. Le Roi ou, si l'entreprise publique a la forme de société anonyme de droit public, l'assemblée générale, détermine la rémunération des membres du conseil d'administration en vertu de leur mandat d'administrateur.
+
+§ 3. Les rémunérations visées aux §§ 1er et 2 sont à charge de l'entreprise publique. Si les rémunérations concernées comportent un élément variable, l'assiette ne peut comprendre des éléments ayant le caractère de charge d'exploitation.
+
+[<sup>3</sup> § 4. Pour l'application du présent article, le comité d'entreprise stratégique auprès d'Infrabel et de la SNCB remplit la fonction de la commission paritaire.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2010-04-06/21, art. 22, 077; En vigueur : 03-05-2010; voir aussi L 2010-04-06/21, art. 23&gt;
+
+(2)&lt;L 2011-11-14/05, art. 2, 082; En vigueur : 10-12-2011&gt;
+
+(3)&lt;AR 2013-12-11/02, art. 8, 085; En vigueur : 01-01-2014&gt;
+
+##### Art. 22
+
+§ 1er. Sans préjudice des autres limitations prévues par ou en vertu d'une loi ou dans le statut organique de l'entreprise publique autonome, le mandat d'administrateur est incompatible avec le mandat ou les fonctions de :
+
+1° membre du Parlement européen;
+
+2° membre des Chambres législatives;
+
+3° ministre ou secrétaire d'Etat;
+
+4° (membre du Parlement ou du Gouvernement d'une Communauté ou d'une Région;) &lt;L 2006-03-27/35, art. 21, 062; En vigueur : 21-04-2006&gt;
+
+5° gouverneur d'une province ou membre de la députation permanente d'un conseil provincial;
+
+6° membre du personnel de l'entreprise publique concernée pour ce qui concerne les membres ordinaires du conseil d'administration; (...). &lt;AR 2004-10-18/32, art. 27, 050 ; En vigueur : 01-01-2005&gt;
+
+En outre, le mandat d'administrateur-directeur est incompatible avec le mandat de bourgmestre, échevin ou président du centre public d'aide sociale, d'une commune de plus de 30.000 habitants.
+
+§ 2. Lorsqu'un administrateur contrevient aux dispositions du § 1er, il est tenu de se démettre des mandats ou fonctions en question dans un délai de trois mois. S'il ne le fait pas, il est réputé, à l'expiration de ce délai, s'être démis de plein droit de son mandat auprès de l'entreprise publique, sans que cela ne porte préjudice à la validité juridique des actes qu'il a accomplis ou des délibérations auxquelles il a pris part pendant la période concernée.
+
+§ 3. (...). &lt;L 2000-08-12/62, art. 234, 031; En vigueur : 01-02-2000&gt;
+
+### CHAPITRE V. - Tutelle administrative et contrôle.
+
+#### Section I. - Tutelle administrative.
+
+##### Art. 23
+
+§ 1. L'entreprise publique autonome est soumise au pouvoir de contrôle du ministre dont elle relève. Ce contrôle est exercé à l'intervention d'un commissaire du Gouvernement, nommé et révoqué par le Roi sur la proposition du ministre concerné.
+
+Le ministre dont relève l'entreprise publique désigne un suppléant pour le cas d'empêchement éventuel du commissaire du Gouvernement.
+
+Le Roi règle l'exercice des missions des commissaires du Gouvernement (et leur rémunération. Cette rémunération est à charge de l'entreprise publique concernée.) &lt;L 1994-12-12/31, art. 1, 009; En vigueur : 22-12-1994&gt;
+
+§ 2. Le commissaire du Gouvernement veille au respect de la loi, du statut organique de l'entreprise publique et du contrat de gestion. Il s'assure de ce que la politique de l'entreprise publique, en particulier, celle menée en exécution de l'article 13, ne porte pas préjudice à la mise en oeuvre des tâches de service public.
+
+Le commissaire du Gouvernement fait rapport au ministre dont relève l'entreprise publique. Il fait rapport au Ministre du Budget sur toutes les décisions du conseil d'administration ou du comité de direction qui ont une incidence sur le budget général des dépenses de l'Etat.
+
+§ 3. Le commissaire du Gouvernement est invité à toutes les réunions du conseil d'administration et du comité de direction et y a voix consultative. Il peut, à tout moment, prendre connaissance, sans déplacement, des livres, de la correspondance, des procès-verbaux et généralement de tous les documents et de toutes les écritures de l'entreprise publique. Il peut requérir des administrateurs, des agents et des préposés de l'entreprise publique toutes les explications ou informations et procéder à toutes les vérifications qui lui paraissent nécessaires à l'exécution de son mandat.
+
+L'entreprise publique met à la disposition du commissaire du Gouvernement les ressources humaines et matérielles nécessaires à l'exécution de son mandat.
+
+§ 4. Le commissaire du Gouvernement peut, dans un délai de quatre jours francs, introduire un recours auprès du ministre dont relève l'entreprise publique contre toute décision qu'il estime contraire à la loi, au statut organique ou au contrat de gestion.
+
+Ce délai court à partir du jour de la réunion à laquelle la décision a été prise, pour autant que le commissaire du Gouvernement y ait été régulièrement convoqué et, dans le cas contraire, à partir du jour où il en a reçu connaissance. Le recours est suspensif.
+
+En cas d'incidence sur le budget général des dépenses de l'Etat, le ministre dont relève l'entreprise publique demande l'accord du Ministre du Budget.
+
+Si, dans un délai de huit jours francs commençant le même jour que le délai visé à l'alinéa premier, le ministre dont relève l'entreprise publique n'a pas prononcé l'annulation, la décision devient définitive, sans préjudice des dispositions du dernier alinéa. Le ministre concerné notifie l'annulation à l'organe de gestion.
+
+Si le Ministre du Budget et le ministre dont relève l'entreprise publique ne trouvent pas d'accord dans le délai de huit jours visé à l'alinéa précédent, il est statué dans un délai de trente jours francs commençant le même jour que le délai visé à l'alinéa premier, selon la procédure fixée par le Roi.
+
+§ 5. Chaque année, le conseil d'administration fait rapport au ministre dont relève l'entreprise publique de l'accomplissement par l'entreprise publique de ses tâches de service public.
+
+§ 6. Chaque année, le ministre dont relève l'entreprise publique autonome fait rapport aux Chambres législatives de l'application du présent titre.
+
+##### Art. 24
+
+Lorsque le respect de la loi, du statut organique ou du contrat de gestion le requiert, le ministre dont relève l'entreprise publique autonome ou le commissaire du Gouvernement peut requérir l'organe de gestion compétent de délibérer, dans le délai qu'il fixe, sur toute question qu'il détermine.
+
+#### Section II. - Contrôle.
+
+##### Art. 25
+
+§ 1. Le contrôle de la situation financière, des comptes annuels et de la régularité, au regard de la loi et du statut organique, des opérations à constater dans les comptes annuels, est confié, dans chaque entreprise publique autonome, à un collège de commissaires qui compte quatre membres. Les membres du collège portent le titre de commissaire.
+
+[<sup>2</sup> § 1er/1. Les dispositions du § 1er s'appliquent également aux filiales respectivement d'Infrabel et de la SNCB et à leurs sociétés avec lesquelles il existe un lien de participation, dans lesquelles l'ensemble des autorités publiques détiennent, directement ou indirectement, un pourcentage de contrôle de plus de 50 %.]<sup>2</sup>
+
+§ 2. Le Roi peut, par arrêté délibéré en Conseil des Ministres, préciser la mission, les moyens d'action et le statut des commissaires.
+
+§ 3. Au cas où l'entreprise publique n'a pas la forme de société anonyme de droit public, deux membres du collège des commissaires sont nommés par la Cour des Comptes et deux membres sont nommés par le ministre dont relève l'entreprise publique.
+
+Dans les entreprises publiques qui ont la forme de société anonyme de droit public, la Cour des Comptes nomme deux membres. Les autres membres sont nommés par l'assemblée générale des actionnaires.
+
+Les membres nommés par la Cour des Comptes sont nommes parmi les membres de la Cour des Comptes. Les autres membres sont nommés parmi les membres, personnes physiques ou morales, de l'Institut des réviseurs d'entreprises proposés conformément à l'article 15ter de la loi du 20 septembre 1948 portant organisation de l'économie, inséré par la loi du 21 février 1985, la commission paritaire remplissant la fonction du conseil d'entreprise.
+
+[<sup>1</sup> Pour l'application de l'alinéa qui précède, le comité d'entreprise stratégique auprès d'Infrabel et de la SNCB remplit la fonction du conseil d'entreprise.]<sup>1</sup>
+
+§ 4. Les commissaires sont nommés pour un terme renouvelable de (au maximum) six ans. Sous peine de dommages-intérêts, ils ne peuvent être révoqués en cours de mandat que pour juste motif. (La durée du mandat doit, le cas échéant, être précisée dans les statuts de l'entreprise publique concernée.) Un commissaire ne peut, sans motifs personnels graves, démissionner de ses fonctions qu'à l'occasion du dépôt de son rapport sur les comptes annuels et après avoir fait un rapport par écrit sur les raisons de sa démission au ministre dont relève l'entreprise publique et, le cas échéant, à l'assemblée générale. &lt;L 2004-07-09/30, art. 51, 049; En vigueur : 25-07-2004&gt;
+
+§ 5. Le Roi ou, si l'entreprise publique a la forme de société anonyme de droit public, l'assemblée générale, détermine la rémunération des commissaires. Cette rémunération est à charge de l'entreprise publique concernée.
+
+§ 6. Les articles 64, § 1er, quatrième alinéa, 64bis, 64ter, 64sexies, 64octies et 65 des lois coordonnées sur les sociétés commerciales, sont applicables au collège des commissaires par analogie dans les entreprises publiques qui n'ont pas la forme de société anonyme de droit public. Le rapport visé à l'article 65 des lois coordonnées sur les sociétés commerciales, est transmis au conseil d'administration et au ministre dont relève l'entreprise publique.
+
+§ 7. La Cour des Comptes exerce son contrôle exclusivement sur la base de l'article 27, § 3 [<sup>2</sup> , § 4, § 5 et § 6]<sup>2</sup>. Les comptables des entreprises publiques autonomes ne sont pas soumis à la loi du 29 octobre 1846 relative à l'organisation de la Cour des Comptes.
+
+----------
+
+(1)&lt;AR 2013-12-11/02, art. 9, 085; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2018-01-26/29, art. 2, 102; En vigueur : 11-03-2018&gt;
+
+### CHAPITRE VI. - Plan d'entreprise.
+
+##### Art. 26
+
+Le conseil d'administration de chaque entreprise publique autonome établit chaque année un plan d'entreprise fixant les objectifs et la stratégie à moyen terme de l'entreprise publique.
+
+Les éléments du plan d'entreprise qui concernent l'exécution des tâches de service public sont communiqués pour information à la commission paritaire auprès de l'entreprise publique autonome. Ils sont soumis à l'approbation du ministre dont relève l'entreprise publique pour évaluation en regard des dispositions du contrat de gestion. Les autres éléments sont communiqués pour information au ministre concerné.
+
+[<sup>1</sup> Pour l'application de l'alinéa qui précède, le comité d'entreprise stratégique auprès d'Infrabel et de la SNCB remplit la fonction de la commission paritaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2013-12-11/02, art. 10, 085; En vigueur : 01-01-2014&gt;
+
+### CHAPITRE VII. - Comptabilité et comptes annuels.
+
+##### Art. 27
+
+§ 1. Les entreprises publiques autonomes sont soumises à la loi du 17 juillet 1975 relative à la comptabilité et aux comptes annuels des entreprises. Elles établissent leur comptabilité par année civile. Elles établissent un système distinct de comptes pour les activités ayant trait à leurs tâches de service public, d'une part, et pour leurs autres activités, d'autre part.
+
+L'annexe des comptes annuels contient un état récapitulatif des comptes relatifs aux tâches de service public et un commentaire à ce sujet. Le Roi peut arrêter des règles générales ou particulières relatives à la forme et au contenu de cet état récapitulatif et de ce commentaire.
+
+§ 2. Chaque année, le conseil d'administration dresse un inventaire et établit les comptes annuels et un rapport de gestion. Le rapport de gestion contient les informations visées à l'article 77, quatrième alinéa, des lois coordonnées sur les sociétés commerciales.
+
+(Le rapport de gestion comprendra en outre des informations complètes sur la rémunération des membres des organes de gestion ainsi que sur les mandats et les rémunérations y afférent que ces membres et le personnel de l'entreprise exercent dans les sociétés, groupements et organismes dans lesquels l'entreprise détient des participations ou au fonctionnement desquels elle contribue, et où ces personnes ont été désignées sur sa proposition.) &lt;L 2002-12-24/31, art. 503, 042; En vigueur : 10-01-2003&gt;
+
+Sous réserve des règles particulières arrêtées en vertu de l'article 10, § 2, deuxième alinéa, de la loi du 17 juillet 1975 relative à la comptabilité et aux comptes annuels des entreprises, inséré par la loi du 1er juillet 1983, les comptes annuels, le rapport de gestion et le rapport du collège des réviseurs sont publiés de la manière déterminée à l'article 80 des lois coordonnées sur les sociétés commerciales. L'article 80bis des mêmes lois est applicable par analogie.
+
+[<sup>2</sup> Le rapport de gestion de la SNCB et d'Infrabel comprend en outre un relevé exhaustif de toutes les sociétés et de tous les groupements et organismes dans lesquels l'entreprise détient directement ou indirectement des participations, en mentionnant le pourcentage de détention.]<sup>2</sup>
+
+[<sup>2</sup> § 2/1. Les dispositions du paragraphe 2 s'appliquent également aux filiales respectivement d'Infrabel et de la SNCB et à leurs sociétés avec lesquelles il existe un lien de participation, dans lesquelles l'ensemble des autorités publiques détiennent, directement ou indirectement, un pourcentage de contrôle de plus de 50 %.]<sup>2</sup>
+
+§ 3. Le conseil d'administration communique les comptes annuels accompagnés du rapport de gestion et du rapport du collège des commissaires au ministre dont relève l'entreprise publique et au Ministre du Budget, avant le 30 avril de l'année suivant l'exercice concerné.
+
+Les comptes annuels des entreprises publiques qui n'ont pas la forme de société anonyme de droit public et l'affectation des résultats qui y est proposée, sont soumis à l'approbation du ministre dont relève l'entreprise publique.
+
+Avant le 31 mai de l'année suivant l'exercice concerné, le ministre dont relève l'entreprise publique communique les documents visés au premier alinéa à la Cour des Comptes pour vérification.
+
+La Cour des Comptes peut, à l'intervention de ses représentants au collège des commissaires, organiser un contrôle sur place des comptes et opérations ayant trait à l'exécution des tâches de service public. La Cour peut publier les comptes dans son Cahier d'observations.
+
+Avant la même date, le ministre dont relève l'entreprise publique communique les documents visés au premier alinéa aux Chambres législatives.
+
+(§ 4. Par dérogation au § 3, alinéa 1er, pour ce qui concerne [<sup>1</sup> la SNCB]<sup>1</sup>, [<sup>1</sup> ...]<sup>1</sup> et Infrabel [<sup>2</sup> et leurs filiales respectives et leurs sociétés avec lesquelles il existe un lien de participation, dans lesquelles l'ensemble des autorités publiques détiennent, directement ou indirectement, un pourcentage de contrôle de plus de 50 %]<sup>2</sup>, le conseil d'administration communique les comptes annuels accompagnés du rapport de gestion et du rapport du collège des commissaires au ministre dont relève l'entreprise publique et au Ministre du Budget, quatorze jours avant la tenue de l'assemblée générale.
+
+§ 5. Par dérogation au § 3, alinéa 3, pour ce qui concerne Infrabel, [<sup>1</sup> ...]<sup>1</sup> et [<sup>1</sup> la SNCB]<sup>1</sup> [<sup>2</sup> et leurs filiales respectives et leurs sociétés avec lesquelles il existe un lien de participation, dans lesquelles l'ensemble des autorités publiques détiennent, directement ou indirectement, un pourcentage de contrôle de plus de 50 %]<sup>2</sup>, la date de communication à la Cour des comptes des documents visés au premier alinéa du § 3 est le 30 juin de l'année suivant l'exercice concerné.) &lt;L 2008-12-22/33, art. 74, 072; En vigueur : 08-01-2009&gt;
+
+[<sup>2</sup> § 6. Par dérogation au § 3, alinéa 4, pour ce qui concerne la SNCB et Infrabel, la Cour des comptes peut, à l'intervention de ses représentants au collège des commissaires, organiser un contrôle sur place des comptes et opérations des :
+
+1° entreprises publiques ;
+
+2° filiales et des sociétés avec lesquelles il existe un lien de participation, dans lesquelles l'ensemble des autorités publiques détiennent, directement ou indirectement, un pourcentage de contrôle de plus de 50 %.]<sup>2</sup>
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 4, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+(2)&lt;L 2018-01-26/29, art. 3, 102; En vigueur : 11-03-2018&gt;
+
+##### Art. 28
+
+Le statut organique de l'entreprise publique autonome règle l'affectation des bénéfices nets. Au cas où l'entreprise publique n'a pas la forme de société anonyme de droit public et le statut organique ne règle pas l'affectation des bénéfices, cette affectation est réglée dans le contrat de gestion.
+
+Au cas où l'entreprise publique autonome n'a pas encore pris la forme d'une société anonyme de droit public, il est fait annuellement, sur les bénéfices nets, un prélèvement d'un vingtième au moins, affecté à la formation d'un fonds de réserve; ce prélèvement cesse d'être obligatoire lorsque le fonds de réserve a atteint un montant déterminé dans le statut organique.
+
+### CHAPITRE VIII. - Personnel.
+
+#### Section I. - Principes gouvernant le statut du personnel et le statut syndical.
+
+##### Art. 29
+
+§ 1. [<sup>1</sup> Les membres du personnel d'une entreprise publique autonome sont recrutés et employés en vertu du cadre et du statut du personnel arrêtés par le conseil d'administration ou, le cas échéant, le Roi, conformément au présent titre et à l'article 176, § 7.]<sup>1</sup>
+
+Toutefois, une entreprise publique autonome peut recruter et employer du personnel en vertu d'un contrat de travail soumis à la loi du 3 juillet 1978 relative aux contrats de travail, afin :
+
+1° de répondre à des besoins exceptionnels et temporaires en personnel, qu'il s'agisse soit de la mise en oeuvre d'actions limitées dans le temps, soit d'un surcroît extraordinaire de travail;
+
+2° d'exécuter des tâches nécessitant une connaissance ou expérience de haute qualification;
+
+3° de remplacer des membres du personnel statutaire ou contractuel pendant des périodes d'absence temporaire partielle ou totale;
+
+4° d'accomplir des tâches auxiliaires ou spécifiques.
+
+Les membres du personnel d'une entreprise publique autonome sont nommés ou engagés par ou en vertu d'une décision du conseil d'administration.
+
+§ 2. Les relations entre une entreprise publique autonome et les organisations syndicales représentatives de son personnel sont réglées dans le statut syndical arrêté par le conseil d'administration ou, le cas échéant, le Roi, conformément au présent titre.
+
+----------
+
+(1)&lt;L 2017-03-19/09, art. 2, 098; En vigueur : 01-01-2017&gt;
+
+##### Art. 29bis
+
+&lt;Inséré par L 2006-12-27/30, art. 273; En vigueur : 01-01-2007&gt; Les membres du personnel nommés des entreprises publiques autonomes qui répondent aux conditions visées au cinquième alinéa peuvent solliciter, à titre individuel ou dans le cadre d'un projet, la mobilité externe vers tout service public prévoyant cette possibilité.
+
+Pendant une période, déterminée conformément à l'alinéa 6, les membres du personnel visés à l'alinéa 1er, conservent leur position administrative au sein de leur entreprise publique autonome.
+
+Ils peuvent, après une période de stage ou d'essai, être nommés dans cet autre service public s'ils en conservent au moins leur ancienneté pécuniaire auprès de l'entreprise publique autonome et s'ils sont nommés dans le niveau conformément à leur diplôme ou, s'ils ne disposent pas du diplôme requis, dans le niveau comparable à leur niveau auprès de l'entreprise publique autonome.
+
+Le service public dans le sens de l'alinéa 1er du présent article est tout service public dépendant du pouvoir fédéral, des régions et des communautés ainsi que les institutions qui en dépendent, les provinces et les communes, les agglomérations, les fédérations et associations de communes, les zones de police. Les entreprises publiques autonomes sont, dans le cadre du présent article, également considérées comme " services publics ".
+
+Les conditions auxquelles doivent répondre ces membres du personnel pour demander la mobilité externe ainsi que les modalités sont définies par l'entreprise publique autonome dont provient le membre du personnel, conformément à l'article 34, § 2, A, 4°, et l'article 35 de la présente loi.
+
+Lorsque le service public visé au quatrième alinéa n'est pas régi par des dispositions permettant l'entrée en fonction et la nomination définitive des membres du personnel visés à l'alinéa 1er, il conclut un protocole d'accord avec l'entreprise publique autonome concernée comprenant au moins :
+
+1° les conditions de sélections;
+
+2° la fixation des niveaux et des tableaux barémiques dans lesquels le personnel affecté sera versé et qui sont d'application au sein du service public recevant;
+
+3° la durée du stage ou période d'essai;
+
+4° le règlement en matière de transfert de jours de congé et de maladie.
+
+En outre, chaque entreprise publique autonome conclut un protocole d'accord avec le service public, visé au quatrième alinéa, concernant :
+
+1° les règles concernant les modalités de répartition du coût salarial selon le niveau;
+
+2° une référence à la réglementation en vigueur relative à la fixation des cotisations de pension pour le membre du personnel auprès d'un service public recevant dans le cadre de la mobilité externe.
+
+Le protocole visé à l'alinéa 7 peut être conclu par l'autorité compétente pour plusieurs services publics.
+
+Le service public recevant peut éventuellement déterminer un projet précis ainsi que le nombre de membres du personnel pouvant être affectés dans le cadre de cette mobilité.
+
+#### Section II. - La commission paritaire.
+
+##### Art. 30
+
+§ 1. Il est constitué dans chaque entreprise publique autonome une commission paritaire.
+
+§ 2. La commission paritaire est compétente en ce qui concerne :
+
+1° la concertation et l'information générale du personnel, en ce compris, pour les matières visées à l'article 34, § 2, les réglementations que la commission paritaire n'aurait pas désignées, à la majorité des deux tiers des voix exprimées, comme réglementations de base;
+
+2° la négociation avec les organisations syndicales représentatives au sujet de la fixation du statut du personnel et du statut syndical, conformément à l'article 33 ou 35;
+
+3° les matières concernant la santé et la sécurité des travailleurs, ainsi que la salubrité du travail et des lieux de travail, conformément à l'article 36, § 2;
+
+4° l'examen de l'information économique et financière concernant l'entreprise publique et ses entreprises liées, visée à l'article 15, premier alinéa, littera b, et deuxième alinéa, de la loi du 20 septembre 1948 portant organisation de l'économie, modifié par la loi du 17 février 1971, telle que précisée et complétée dans les conventions collectives conclues au sein du Conseil national du travail;
+
+(4°bis la formulation d'un avis concernant l'état triennal du chef d'entreprise sur les déplacements de ses travailleurs entre leur domicile et leur lieu du travail, vise à l'article 15, l), de la loi du 20 septembre 1948 portant organisation de l'économie, inséré par la loi-programme du 8 april 2003;) &lt;L 2003-04-08/33, art. 166, 045; En vigueur : 01-07-2004&gt;
+
+5° la concertation avec les organisations syndicales représentatives au sujet de la conclusion du contrat de gestion, conformément à l'article 4, § 2;
+
+6° l'établissement et la modification du règlement de travail, conformément à l'article 11 de la loi du 8 avril 1965 instituant les règlements de travail, la commission paritaire exerçant les tâches du conseil d'entreprise.
+
+§ 3. Le Roi fixe le nombre des membres de la commission paritaire, sans qu'il puisse dépasser dix-huit, le président non compris.
+
+La commission paritaire est présidée par le président du conseil d'administration; le président dispose d'une voix consultative.
+
+§ 4. La moitié des membres de la commission paritaire est nommée par le conseil d'administration. L'autre moitié est nommée par le conseil d'administration sur avis conforme des organisations syndicales représentatives. Il est nommé un suppléant pour chaque membre de la commission paritaire.
+
+Chaque organisation syndicale représentative propose un nombre de membres proportionnel au nombre de ses affiliés cotisants parmi le nombre total des membres du personnel de l'entreprise publique affiliés à une organisation syndicale représentative.
+
+§ 5. Est considérée comme représentative pour siéger dans la commission paritaire d'une entreprise publique :
+
+1° toute organisation syndicale visée à l'article 8, § 1er, 1°, de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités, tel que modifié par l'article 51, § 3, de la présente loi;
+
+2° sans préjudice du 1°, l'organisation syndicale qui, à la fois :
+
+a) défend les intérêts de toutes les catégories du personnel;
+
+b) est affiliée à une organisation syndicale constituée en centrale sur le plan national ou fait partie d'une fédération syndicale constituée sur le même plan;
+
+c) comprend le plus grand nombre d'affiliés cotisants parmi les organisations syndicales autres que celles visées au 1° et dont le nombre d'affiliés cotisants représente au moins 10 % de l'effectif de l'entreprise publique concernée.
+
+Le contrôle de la représentativité des organisations syndicales est exercé par la commission visée à l'article 14, § 1er, de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités. Tous les six ans, la commission visée fixe pour chaque organisation syndicale représentative le nombre de membres de la commission paritaire à nommer par l'organisation, conformément au § 4, deuxième alinéa.
+
+§ 6. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 7. Pour l'application du présent titre, les termes " affilié cotisant ", " membre du personnel " et " effectif " sont entendus tels que définis en vertu de l'article 14, § 3, de la loi du 19 décembre 1974 précitée.
+
+§ 8. Le Roi règle les modalités d'application du présent article.
+
+----------
+
+(1)&lt;Abrogé par AR 2013-12-11/02, art. 11, 085; En vigueur : 01-01-2014&gt;
+
+#### Section III. - La Commission Entreprises publiques.
+
+##### Art. 31
+
+§ 1. [<sup>1</sup> Il est créé une commission paritaire pour les entreprises publiques autonomes qui est compétente pour l'ensemble des entreprises publiques autonomes et pour HR Rail, ci-après dénommée la " Commission Entreprises publiques ".]<sup>1</sup>
+
+§ 2. La Commission Entreprises publiques est compétente en ce qui concerne :
+
+1° le recours visé à l'article 35, § 3, 1°;
+
+2° l'avis visé au § 3;
+
+3° la conclusion des conventions collectives visée au § 4.
+
+§ 3. Chaque avant-projet de loi ou d'arrêté réglant le statut du personnel ou le statut syndical de plus d'une entreprise publique autonome est soumis à l'avis de la Commission Entreprises publiques. La Commission dispose d'un délai d'un mois à partir de la date de la communication du projet pour rendre son avis.
+
+Elle émet son avis à la majorité des deux tiers des voix exprimées.
+
+[<sup>1</sup> La Commission Entreprises publiques n'est pas compétente en matière d'avant-projet de loi ou d'arrêté réglant exclusivement le statut du personnel ou le statut syndical au sens de l'Art. 21 de la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges, en ce qui concerne le personnel mis ou non à la disposition d'Infrabel ou de la SNCB.]<sup>1</sup>
+
+§ 4. Il peut être conclu au sein de la Commission Entreprises publiques, à l'unanimité de ses membres présents, des conventions collectives relatives au statut du personnel et au statut syndical des entreprises publiques autonomes, sans préjudice :
+
+1° des dispositions légales et réglementaires;
+
+2° dans chaque entreprise publique autonome, des dispositions du statut du personnel et du statut syndical plus avantageuses pour le personnel.
+
+Les conventions collectives lient toutes les entreprises publiques autonomes et les organisations syndicales, qui sont représentées à la Commission Entreprises publiques, ainsi que les membres du personnel de ces entreprises.
+
+Le Roi peut, sur proposition des ministres dont relèvent les entreprises publiques autonomes concernées, rendre une convention collective obligatoire pour toutes les entreprises publiques non représentées au sein de la Commission Entreprises publiques, les organisations syndicales et les membres du personnel de ces entreprises.
+
+§ 5. La Commission Entreprises publiques est présidée par une personne choisie pour ses compétences particulières en matière de relations sociales.
+
+Le Roi nomme le président, sur proposition du Premier Ministre, par arrêté royal délibéré en Conseil des Ministres.
+
+§ 6. [<sup>1</sup> La Commission Entreprises publiques compte dix-huit membres, le président et les membres avec voix consultative non compris.
+
+Le conseil d'administration de chaque entreprise publique autonome, à l'exception des entreprises publiques autonomes qui sont une filiale d'une autre entreprise publique autonome, et à l'exception d'Infrabel et de la SNCB, propose au moins trois candidats. Le conseil d'administration d'Infrabel et le conseil d'administration de la SNCB proposent chacun au moins deux candidats.
+
+Le Roi nomme, sur proposition du Premier Ministre par arrêté délibéré en Conseil des ministres, neuf membres choisis parmi les candidats proposés par les conseils d'administration. Il nomme au moins deux membres sur proposition du conseil d'administration de chaque entreprise publique autonome, à l'exception d'Infrabel et de la SNCB, pour lesquelles Il nomme au moins un membre sur proposition du conseil d'administration d'Infrabel et au moins un membre sur proposition du conseil d'administration de la SNCB.
+
+En outre, le conseil d'administration de HR Rail propose au moins deux candidats pour représenter HR Rail dans la Commission Entreprises publiques avec voix consultative. Parmi ces candidats proposés le Roi nomme un représentant de HR Rail avec voix consultative au sein de la Commission Entreprises publiques.
+
+Neuf membres sont nommés par les ministres dont relèvent les entreprises publiques concernées et HR Rail, sur proposition des organisations syndicales représentatives. Chaque organisation syndicale représentative propose un nombre de membres proportionnel au nombre de ses affiliés cotisants parmi le nombre total des membres du personnel de l'ensemble des entreprises publiques autonomes et de HR Rail affiliés à une organisation syndicale représentative.]<sup>1</sup>
+
+Il est nommé un suppléant pour chaque membre de la Commission Entreprises publiques conformément aux alinéas précédents.
+
+Est considérée comme représentative pour siéger dans la Commission Entreprises publiques, toute organisation syndicale qui, à la fois :
+
+1° compte un nombre d'affiliés cotisants représentant au moins 10 % du nombre total des membres du personnel de l'ensemble des entreprises publiques autonomes;
+
+2° exerce son activité sur le plan national;
+
+3° défend les intérêts de toutes les catégories du personnel des entreprises publiques autonomes;
+
+4° est affiliée à une organisation syndicale représentée au Conseil national du travail.
+
+§ 7. Un membre d'une commission paritaire ne peut pas être nommé membre de la Commission Entreprises publiques.
+
+[<sup>1</sup> Pour Infrabel et la SNCB les mots " une commission paritaire " dans l'alinéa qui précède doivent être compris comme la Commission paritaire nationale visée à l'article 115 de la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges.]<sup>1</sup>
+
+§ 8. Le Roi règle les modalités d'application du présent article.
+
+----------
+
+(1)&lt;AR 2013-12-11/02, art. 12, 085; En vigueur : 01-01-2014&gt;
+
+#### Section IV. - La fixation du statut du personnel et du statut syndical.
+
+##### Art. 32
+
+A l'exception des dispositions introduites par les articles 50, 51, §§ 2 et 3, et 53 de la présente loi, les dispositions légales et réglementaires qui règlent le statut du personnel et le statut syndical restent applicables à une entreprise publique autonome jusqu'à l'entrée en vigueur d'une réglementation y afférente dans un statut du personnel ou dans un statut syndical, arrêtée conformément au présent titre.
+
+##### Art. 33
+
+§ 1. Le conseil d'administration fixe, sans préjudice des dispositions du présent titre, le premier statut du personnel et le premier statut syndical sur avis conforme de la commission paritaire.
+
+La commission paritaire émet l'avis conforme à la majorité des deux tiers des voix exprimées.
+
+Le commissaire du Gouvernement peut assister aux travaux de la commission paritaire relatifs à la fixation du premier statut du personnel et du premier statut syndical.
+
+Le Roi peut, sans préjudice des dispositions du présent titre, par arrêté délibéré en Conseil des Ministres, abroger, compléter, modifier ou remplacer des dispositions légales relatives au statut du personnel et au statut syndical afin de les rendre compatibles avec les dispositions du premier statut du personnel et du premier statut syndical arrêtés conformément au premier alinéa.
+
+§ 2. Au cas où un premier statut du personnel ou statut syndical ne serait pas arrêté conformément au § 1er, premier alinéa, dans un délai d'un an à partir de la date d'entrée en vigueur du classement de l'entreprise parmi les entreprises publiques autonomes, le Roi peut, dans un délai supplémentaire de trois mois, fixer le premier statut du personnel et le premier statut syndical par arrêté délibéré en Conseil des Ministres sans préjudice des droits du personnel en ce qui concerne la sécurité d'emploi, la pension et la rémunération.
+
+Le Roi peut, dans l'arrêté visé au premier alinéa, abroger, compléter, modifier ou remplacer des dispositions légales, sans préjudice :
+
+1° des droits du personnel en ce qui concerne la sécurité d'emploi, la pension et la rémunération;
+
+2° des dispositions du présent titre;
+
+3° des règles relatives à la constitution et la composition de la Commission paritaire nationale visée à l'article 13 de la loi du 23 juillet 1926 portant création de la Société nationale des chemins de fer belges.
+
+Une réglementation dans le premier statut arrêté par le Roi restera applicable jusqu'à la fixation d'une réglementation y afférente par le conseil d'administration, conformément à la procédure visée à l'article 34, § 1er, ou 35.
+
+##### Art. 34
+
+§ 1. Une fois le premier statut établi conformément à l'article 33, et au plus tard à partir de l'expiration du délai de quinze mois après la date d'entrée en vigueur du classement de l'organisme parmi les entreprises publiques autonomes, le statut du personnel et le statut syndical sont fixés par le conseil d'administration, sans préjudice des dispositions légales et réglementaires qui règlent le statut concerné. Toutefois, pour ce qui concerne les réglementations de base désignées conformément au § 2, le conseil décide conformément à la procédure visée à l'article 35.
+
+§ 2. Les réglementations suivantes du statut du personnel, respectivement du statut syndical, qui au préalable ont été désignées par la commission paritaire, statuant à la majorité des deux tiers des voix exprimées, soit comme réglementations de base, soit comme principes généraux visés à l'article 35, § 3, 1°, sont fixées conformément à la procédure visée à l'article 35 :
+
+A) Les réglementations de base relatives au statut administratif du personnel statutaire ayant trait :
+
+1° au recrutement, à l'admission au stage et à la nomination;
+
+2° aux droits, aux devoirs et à la responsabilité du personnel;
+
+3° au régime disciplinaire;
+
+4° aux positions administratives, notamment l'activité de service, la non-activité de service et la disponibilité;
+
+5° aux règles applicables en matière de congés;
+
+6° au calcul de l'ancienneté;
+
+7° à la cessation définitive des fonctions;
+
+8° à la durée maximale du travail;
+
+9° au régime relatif aux accidents du travail, aux accidents sur le chemin du travail et aux maladies professionnelles.
+
+B) Les réglementations de base relatives au statut pécuniaire du personnel statutaire ayant trait :
+
+1° au droit au traitement et à l'avancement de traitement;
+
+2° au traitement, à la rémunération, au salaire, y compris la fixation des échelles de traitement, et le calcul de leur montant, y compris les périodes qui entrent en considération pour leur fixation;
+
+3° à l'ancienneté pécuniaire;
+
+4° à la périodicité du paiement du traitement;
+
+5° au traitement garanti;
+
+6° à la protection du traitement;
+
+7° aux indemnités, allocations, primes et avantages en nature;
+
+8° à l'attribution d'un pourcentage éventuel des bénéfices.
+
+C) Les réglementations de base relatives au régime des pensions du personnel statutaire ayant trait :
+
+1° au champ d'application;
+
+2° aux différentes catégories d'ayants droit;
+
+3° à l'âge de la retraite;
+
+4° aux conditions d'ouverture du droit à la pension;
+
+5° au calcul du montant de la pension;
+
+6° à la protection de la pension;
+
+D) Les réglementations de base relatives aux relations collectives de travail ayant trait :
+
+1° à l'agréation des organisations syndicales du personnel;
+
+2° à l'agréation des délégués syndicaux, des dirigeants responsables et des mandataires permanents des organisations syndicales;
+
+3° aux prérogatives des organisations syndicales représentatives et des organisations syndicales agréées;
+
+4° à l'organisation et aux compétences des commissions paritaires au niveau local;
+
+5° aux avantages accordés aux affiliés des organisations syndicales représentatives et des organisations syndicales agréées.
+
+E) Les réglementations de base ayant trait à l'organisation des services sociaux éventuels ayant trait :
+
+1° au cadre général des missions des services sociaux;
+
+2° au fonctionnement, à la gestion et au contrôle;
+
+3° à la détermination des bénéficiaires;
+
+4° au financement.
+
+F) Les réglementations de base relatives aux matières suivantes en ce qui concerne le personnel statutaire :
+
+1° la détermination, la répartition, le classement et l'équivalence des grades, emplois ou fonctions;
+
+2° l'appréciation professionnelle du personnel;
+
+3° l'organisation d'un recours à l'encontre de décisions en matière disciplinaire, de nomination à titre définitif, d'appréciation professionnelle et de licenciement pour inaptitude professionnelle;
+
+4° la carrière du personnel;
+
+5° la procédure relative aux mesures d'ordre, y compris les mutations dans l'intérêt du service;
+
+6° la réaffectation du personnel en excédent ou inapte;
+
+7° l'interruption de carrière professionnelle;
+
+8° la fixation du cadre du personnel;
+
+9° la formation et le recyclage; la préparation aux épreuves de carrière;
+
+10° les vêtements de travail;
+
+11° l'accueil du personnel;
+
+12° les horaires de travail;
+
+13° la sécurité du personnel;
+
+14° les conditions de travail;
+
+15° les incompatibilités;
+
+16° les missions à l'extérieur de l'entreprise publique en question;
+
+17° les aptitudes physiques exigées;
+
+18° l'organisation de la médecine du travail.
+
+G) Pour ce qui concerne le personnel contractuel :
+
+1° la nature ou les catégories de fonctions ouvertes au personnel contractuel;
+
+2° les réglementations de base relatives aux droits et obligations du personnel contractuel.
+
+##### Art. 35
+
+§ 1. Le conseil d'administration ou la délégation d'une organisation syndicale représentative siégeant dans la commission paritaire soumet chaque proposition portant fixation ou modification des réglementations de base du statut du personnel ou du statut syndical, désignées conformément à l'article 34, § 2, à la commission paritaire.
+
+§ 2. Le conseil d'administration est lié par toute réglementation arrêtée par la commission paritaire à la majorité des deux tiers des voix exprimées au sujet de matières qui font l'objet d'une proposition.
+
+§ 3. A défaut d'une réglementation liant le conseil d'administration arrêtée par la commission paritaire dans un délai d'un mois après la communication de la proposition au président de la commission paritaire :
+
+1° le conseil d'administration ou la délégation d'une organisation syndicale représentative siégeant dans la commission paritaire peut soumettre la proposition à la Commission Entreprises publiques, au cas où la proposition vise à arrêter ou modifier l'une des réglementations de base visées, à l'article 34, § 2, subdivisions B, C, D et E, ou l'un des principes généraux des réglementations de base visées à la subdivision A;
+
+2° le conseil d'administration peut décider sur la proposition à la majorité des deux tiers des voix exprimées, pour toutes les autres propositions.
+
+Dans le cas visé au 1° de l'alinéa premier, le délai d'un mois est prorogé d'un délai supplémentaire d'un mois, au cas ou le conseil d'administration ou la délégation d'une organisation syndicale représentative siégeant dans la commission paritaire charge le président de la Commission Entreprises publiques d'une mission de conciliation préalable.
+
+§ 4. En cas de recours visé au 1° de l'alinéa premier du § 3, le conseil d'administration est lié par toute réglementation arrêtée par la Commission Entreprises publiques à la majorité des deux tiers des voix exprimées au sujet de matières qui font l'objet de la proposition à l'origine du recours.
+
+A défaut d'une réglementation liant le conseil d'administration dans un délai d'un mois après la communication du recours au président de la Commission Entreprises publiques, le conseil d'administration peut décider sur la proposition à la majorité des deux tiers des voix exprimées. Le commissaire du Gouvernement communique la décision au ministre dont relève l'entreprise publique autonome. Le ministre dispose d'un délai de huit jours francs pour annuler la décision. Ce délai court à partir du jour de la réunion à laquelle la décision a été prise, pour autant que le commissaire du Gouvernement y ait été régulièrement convoqué et, dans le cas contraire, à partir du jour où il en a reçu connaissance.
+
+§ 5. [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/06, art. 16, 114; En vigueur : 12-06-2026&gt;
+
+#### Section V. - Emploi des langues; compétences spécifiques de la commission paritaire.
+
+##### Art. 36
+
+§ 1. Les entreprises publiques autonomes, ainsi que leurs filiales qu'elles associent à la mise en oeuvre de leurs tâches de service public et dans lesquelles la participation des autorités publiques dépasse 50 %, sont soumises aux dispositions des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966.
+
+§ 2. Les entreprises publiques autonomes sont soumises à la loi du 10 juin 1952 concernant la santé et la sécurité des travailleurs, ainsi que la salubrité du travail et des lieux de travail, étant entendu que la commission paritaire exerce les tâches et est dotée des compétences du comité de sécurité, d'hygiène et d'embellissement des lieux de travail. La commission paritaire organise les tâches et les attributions des organes de sécurité, d'hygiène et d'embellissement, conformément aux dispositions du Règlement général pour la protection du travail.
+
+§ 3. Le conseil d'administration de chaque entreprise publique autonome communique à la commission paritaire les informations économiques et financières visées à l'article 15, premier alinéa, littéra b, et deuxième alinéa, de la loi du 20 septembre 1948 portant organisation de l'économie. L'article 15bis de la loi du 20 septembre 1948 susvisée est applicable aux entreprises publiques autonomes. L'article 30 de la même loi est applicable aux membres de la commission paritaire et leurs suppléants.
+
+### CHAPITRE IX. - Transformation en société anonyme de droit public.
+
+#### Section I. - La transformation.
+
+##### Art. 37
+
+Les entreprises publiques autonomes peuvent adopter la forme de société anonyme de droit public. Dans ce cas, l'entreprise publique concernée est soumise aux dispositions légales et réglementaires de droit commercial qui sont applicables aux sociétés anonymes pour tout ce qui n'est pas expressément autrement prévu par ou en vertu du présent titre ou par ou en vertu d'une loi spécifique quelconque.
+
+##### Art. 38
+
+§ 1. La décision de transformation en société anonyme de droit public est prise par le conseil d'administration.
+
+Le conseil justifie sa décision dans un rapport.
+
+A ce rapport est joint un état résumant l'actif et le passif, arrêté à une date ne remontant pas à plus de trois mois et indiquant le montant du capital social après la transformation. Ce montant ne peut être supérieur à l'actif net, tel qu'il résulte de l'état précité. Un réviseur d'entreprises, désigné par le ministre dont relève l'entreprise publique, fait rapport sur cet état et indique notamment s'il traduit d'une manière complète, fidèle et correcte la situation de l'entreprise publique.
+
+§ 2. Les statuts de l'entreprise publique sous sa forme nouvelle sont établis par le conseil d'administration.
+
+§ 3. La transformation ne produit ses effets qu'après l'approbation par le Roi, par arrêté délibéré en Conseil des Ministres, de la décision de transformation et des statuts.
+
+§ 4. Les articles 170 et 171, alinéa 1er, des lois coordonnées sur les sociétés commerciales sont applicables par analogie à la transformation.
+
+§ 5. Le cas échéant, l'article 118 du Code des impôts sur les revenus n'est pas applicable à la transformation. Par dérogation à l'article 115 du Code des droits d'enregistrement, d'hypothèque et de greffe, la transformation est exemptée du droit d'enregistrement proportionnel.
+
+§ 6. Le directeur général de l'Administration de la taxe sur la valeur ajoutée, de l'enregistrement et des domaines, ou son délégué, a qualité pour conférer l'authenticité à l'acte de transformation et aux statuts.
+
+§ 7. Par dérogation au § 1er, premier alinéa, et au § 3, le Roi peut, dans l'arrêté portant approbation du premier contrat de gestion, décider de la transformation sous les conditions et avec les statuts qu'Il détermine. Les §§ 1er, troisième alinéa, 4, 5 et 6 sont applicables à une telle transformation. Les conclusions du réviseur visé au § 1er, troisième alinéa, sont reprises dans le rapport au Roi.
+
+Le Roi applique les dispositions de l'alinéa précédent à la Société nationale des chemins de fer belges dans l'arrête classant ladite Société parmi les entreprises publiques autonomes.
+
+#### Section II. - Les actions.
+
+##### Art. 39
+
+§ 1. Toutes les actions émises à l'occasion de la transformation en société anonyme de droit public sont attribuées à l'Etat.
+
+Le premier alinéa n'est pas applicable aux actions émises par la Société nationale des chemins de fer belges qui ne représentent pas la participation de l'Etat.
+
+L'Etat ne peut céder les actions qui lui sont attribuées à l'occasion de la transformation qu'aux autorités publiques désignées par le Roi, par arrêté délibéré en Conseil des Ministres, sous les conditions qu'Il détermine et, au maximum, à concurrence de la moitié.
+
+§ 2. Les actions attribuées à l'Etat à l'occasion de la transformation, de même que les actions souscrites par une autorité publique à l'occasion d'une augmentation de capital, sont nominatives.
+
+§ 3. De nouvelles actions ou obligations convertibles ou avec droit de souscription ne peuvent être souscrites par des personnes autres que les autorités publiques si, suite à une telle souscription, la participation directe des autorités publiques dans le capital, au moment de la souscription, n'excédait plus 50 %.
+
+§ 4. Toute cession par une autorité publique, autre que l'Etat, d'actions représentatives du capital est notifiée par l'autorité publique concernée à l'entreprise publique autonome. Une telle cession suite à laquelle la participation directe des autorités publiques n'excèderait plus 50 % est nulle de plein droit, à défaut de porter cette participation au-delà de 50 % dans un délai de trois mois de ladite cession par une augmentation de capital entièrement ou partiellement souscrite par les autorités publiques.
+
+§ 5. Les titres détenus par les autorités publiques donnent droit, dans leur ensemble, de plein droit à plus de 75 % des voix et des mandats dans tous les organes de l'entreprise publique autonome. Les droits de vote et mandats des autres actionnaires sont réduits proportionnellement.
+
+##### Art. 40
+
+§ 1. Toute émission de nouvelles actions ou d'obligations convertibles ou avec droit de souscription est soumise à l'autorisation préalable du Roi, par arrêté délibéré en Conseil des Ministres.
+
+§ 2. Par dérogation à l'article 34bis, § 1er, premier alinéa, des lois coordonnées sur les sociétés commerciales, les actions à souscrire en espèces sont offertes par préférence à l'Etat, puis aux autres autorités publiques désignées dans l'arrêté visé au § 1er, et enfin, sans préjudice du § 3, aux autres actionnaires qui exerceraient alors leur droit de préférence conformément audit article.
+
+§ 3. En cas de souscription d'actions visées au § 2 par des personnes autres que les autorités publiques, une partie de l'émission est offerte par préférence aux membres du personnel de l'entreprise publique émettrice.
+
+Les membres du personnel exercent leur droit préférentiel de souscription avant les autres actionnaires. Ce droit préférentiel n'est pas négociable.
+
+Les actions souscrites par des membres du personnel, en vertu du présent article, en limitant le droit de préférence des actionnaires autres que l'Etat, sont privées du droit de vote, sauf dans le cas visé à l'article 71 des lois coordonnées sur les sociétés commerciales.
+
+Le Roi détermine dans l'arrêté visé au § 1er :
+
+1° la partie de l'émission qui sera offerte aux membres du personnel;
+
+2° les modalités d'exercice du droit préférentiel de souscription des membres du personnel;
+
+3° les modalités de l'émission d'actions sans droit de vote.
+
+#### Section III. - Dispositions diverses.
+
+##### Art. 41
+
+§ 1. Les articles 13ter, alinéa 1er, 4°, 75, deuxième alinéa, 76 et 104bis, deuxième alinéa, des lois coordonnées sur les sociétés commerciales, ne sont pas applicables aux entreprises publiques autonomes qui ont la forme de société anonyme de droit public.
+
+§ 2. Le ministre dont relève l'entreprise publique, ou son délégué, représente l'Etat à l'assemblée générale.
+
+§ 3. Tous les actes, factures, annonces, publications, correspondance, lettres de commande et autres documents émanant de l'entreprise publique portent la mention " société anonyme de droit public ".
+
+§ 4. Une modification aux statuts ne produit ses effets qu'après approbation par le Roi, par arrêté délibéré en Conseil des Ministres.
+
+§ 5. La dissolution d'une entreprise publique autonome, qui a adopté la forme de société anonyme de droit public, ne peut être prononcée que par ou en vertu d'une loi. La loi règle le mode et les conditions de la liquidation.
+
+(§ 6. L'administrateur général de la Documentation Patrimoniale, ou son délégué, a qualité pour conférer l'authenticité à tous les actes passés au nom ou en faveur des entreprises publiques autonomes.) &lt;L 2005-12-23/31, art. 90, 059; En vigueur : 09-01-2006&gt;
+
+##### Art. 42
+
+Pour l'application [<sup>1</sup> des articles 13 et 18 et des chapitres IX et XIV du présent titre]<sup>1</sup>, il y a lieu d'entendre par " autorité publique " :
+
+1° l'Etat;
+
+2° les organismes d'intérêt public, sociétés, institutions ou associations de droit public qui relèvent de l'Etat, en ce compris les entreprises publiques autonomes;
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, pour l'entreprise publique ou les entreprises publiques qu'Il désigne, limiter la notion d'" autorité publique " à une ou plusieurs des autorités visées au premier alinéa.
+
+----------
+
+(1)&lt;L 2015-12-16/30, art. 3, 093; En vigueur : 12-01-2016&gt;
+
+### CHAPITRE X. - (Des services de médiation). &lt;L 1997-12-19/30, art. 2, 017; En vigueur : 01-01-1998&gt;
+
+#### Section I. - Les compétences du service de médiation.
+
+##### Art. 43
+
+§ 1. Il est créé auprès de chaque entreprise publique autonome [<sup>2</sup> à l'exclusion de [<sup>4</sup> Proximus]<sup>4</sup>, [<sup>1</sup> bpost]<sup>1</sup>, [<sup>3</sup> la SNCB et Infrabel]<sup>3</sup> ]<sup>2</sup> ou, le cas échéant, auprès de chaque groupe d'entreprises publiques autonomes liées, un service de médiation compétent pour les matières concernant les usagers.
+
+L'alinéa précédent n'est applicable qu'aux entreprises publiques autonomes dont les usagers sont principalement des personnes physiques et qui sont désignées comme telles par le Roi, par arrêté délibéré en Conseil des Ministres.
+
+§ 2. Le service de médiation est composé de deux membres; ils appartiennent à un rôle linguistique différent.
+
+Le service de médiation agit en tant que collège.
+
+§ 3. Le service de médiation a les missions suivantes :
+
+1° examiner toutes les plaintes des usagers ayant trait aux activités de l'entreprise publique;
+
+2° s'entremettre pour faciliter un compromis à l'amiable des différends entre l'entreprise publique et les usagers;
+
+3° émettre un avis à l'entreprise publique au cas où un compromis à l'amiable ne peut être trouvé; une copie de l'avis est adressée au plaignant;
+
+4° se prononcer en tant qu'arbitre dans tout différend que l'entreprise publique et l'usager soumettent à un tel arbitrage par convention conclue après la naissance du différend.
+
+§ 4. Le service de médiation peut, dans le cadre d'une plainte dont il est saisi, prendre connaissance, sans déplacement, des livres, de la correspondance, des procès-verbaux et généralement de tous les documents et de toutes les écritures de l'entreprise publique ayant trait directement à l'objet de la plainte. Il peut requérir des administrateurs, des agents et des préposés de l'entreprise publique toutes les explications ou informations et procéder à toutes les vérifications qui sont nécessaires pour son examen. L'information ainsi obtenue est traitée par le service de médiation comme confidentielle, lorsque la divulgation pourrait nuire à l'entreprise sur un plan général.
+
+§ 5. L'entreprise publique justifie sa décision au cas où elle ne suivrait pas l'avis visé au § 3, 3°. La décision motivée est envoyée au plaignant et au service de médiation.
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 078; En vigueur : 17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+(2)&lt;L 2010-04-28/01, art. 19, 080; En vigueur : 14-03-2011&gt;
+
+(3)&lt;AR 2013-12-11/03, art. 5, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+(4)&lt;L 2015-08-10/26, art. 2, 092; En vigueur : 22-06-2015 (voir AR 2015-09-11/02, art. 1)&gt;
+
+##### Art. 43bis
+
+&lt;Inséré par L 1997-12-19/30, art. 4; En vigueur : 01-01-1998&gt; § 1er. (Il est institué, auprès de l'Institut belge des services postaux et des télécommunications, un service de médiation pour les télécommunications compétent pour les relations entre l'utilisateur final, au sens de la législation en vigueur en matière de communications électroniques, et les personnes suivantes :
+
+1° tout opérateur au sens (de la loi du 13 juin 2005 relative aux communications électroniques); &lt;L 2007-04-25/38, art. 157, 067; En vigueur : 18-05-2007&gt;
+
+2° toute personne confectionnant, vendant ou distribuant un annuaire au sens (de la loi du 13 juin 2005 relative aux communications électroniques); &lt;L 2007-04-25/38, art. 157, 067; En vigueur : 18-05-2007&gt;;
+
+3° toute personne fournissant un service de renseignements téléphonique au sens (de la loi du 13 juin 2005 relative aux communications électroniques); &lt;L 2007-04-25/38, art. 157, 067; En vigueur : 18-05-2007&gt;;
+
+4° toute personne exploitant des systèmes de communications électroniques au sens (de la loi du 13 juin 2005 relative aux communications électroniques); &lt;L 2007-04-25/38, art. 157, 067; En vigueur : 18-05-2007&gt;;
+
+5° toute personne fournissant au public des services de cryptographie au sens (de la loi du 13 juin 2005 relative aux communications électroniques); &lt;L 2007-04-25/38, art. 157, 067; En vigueur : 18-05-2007&gt;;
+
+6° toute personne offrant d'autres activités en matière de communications électroniques au sens (de la loi du 13 juin 2005 relative aux communications électroniques).) &lt;L 2005-06-13/32, art. 154, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 157, 067; En vigueur : 18-05-2007&gt;
+
+(7° tout fournisseur de services de radiotransmission et/ou de radiodistribution, pour autant qu'il s'agit des plaintes des utilisateurs finals relatives à des factures intermédiaires, aux dispositions contractuelles et aux conditions générales de l'opérateur.) &lt;L 2007-05-15/51, art. 18, 1°, 070; En vigueur : 15-07-2007&gt;
+
+§ 2. Le Service de Médiation est composé de deux membres; ils appartiennent à un rôle linguistique différent.
+
+Le Service de Médiation agit en tant que collège. Néanmoins, les médiateurs peuvent s'accorder des délégations par décision collégiale approuvée par le Ministre qui a les Télécommunications dans ses attributions.
+
+(Une convention est conclue entre les membres du service de médiation pour les télécommunications et le Conseil de l'Institut belge des services postaux et des télécommunications, dans laquelle sont reprises les modalités pratiques et organisationnelles du fonctionnement du service de médiation au sein de l'Institut et de l'accomplissement des missions et des compétences confiées par la loi au service de médiation. Cette convention reprend au minimum les modalités concernant :
+
+\- la création et le fonctionnement d'un comité de contact entre les membres du service de médiation et le Conseil de l'Institut belge des services postaux et des télécommunications;
+
+\- la résolution de conflits de compétence;
+
+\- les aspects logistiques;
+
+\- la politique à l'égard du personnel mis à disposition;
+
+\- le contrôle financier et le budget.) &lt;L 2006-12-21/79, art. 3, 1°, 065; En vigueur : 02-02-2007&gt;
+
+§ 3. Le Service de Médiation est investi des missions suivantes :
+
+1° examiner toutes les plaintes des utilisateurs finals ayant trait aux activités des entreprises visées au § 1er du présent article.
+
+Les plaintes des utilisateurs finals ne sont recevables que lorsque le plaignant a entamé une démarche préalable auprès de l'entreprise concernée. Le Service de Médiation peut refuser de traiter une réclamation lorsque la plainte y afférente a été introduite auprès de l'entreprise concernée plus d'un an auparavant (ou que la plainte est de nature clairement vexatoire); &lt;L 2006-12-21/79, art. 3, 2°, 065; En vigueur : 02-02-2007&gt;
+
+2° s'entremettre pour faciliter un compromis à l'amiable des différends entre les entreprises visées au § 1er du présent article et les utilisateurs finals; &lt;Err. M.B. 23-04-1998, p. 12443&gt;
+
+3° adresser une recommandation aux entreprises visées au § 1er du présent article au cas ou un compromis à l'amiable ne peut être trouvé; une copie de la recommandation est adressée au plaignant;
+
+4° (...) &lt;L 2006-12-21/79, art. 3, 3°, 065; En vigueur : 02-02-2007&gt;
+
+5° orienter au mieux de leur intérêt les utilisateurs finals qui s'adressent à lui par écrit ou oralement;
+
+6° émettre, à la demande du Ministre qui a les Télécommunications dans ses attributions (, du ministre qui a la protection de la consommation dans ses attributions) ou de l'Institut belge des Services postaux et des Télécommunications ou du [<sup>2</sup> commission consultative spéciale Télécommunication]<sup>2</sup> (ou des ministres des Communautés qui ont les programmes de radiotélévision dans leurs compétences et des régulateurs des Communautés en matière de programmes de radiotélévision qui relèvent de la compétence du service de médiation pour les télécommunications), des avis dans le cadre de ses missions; &lt;L 2006-12-21/79, art. 3, 4°, 065; En vigueur : 02-02-2007&gt; &lt;L 2007-05-15/51, art. 18, 2°, 070; En vigueur : 15-07-2007&gt;
+
+7° (examiner la demande de toute personne se prétendant victime d'une utilisation malveillante d'un réseau ou d'un service de communications électroniques visant à obtenir communication de l'identité et de l'adresse des utilisateurs de réseaux ou de services de communications électroniques l'ayant importunée, pour autant que ces données sont disponibles. Le service de médiation accède à la demande si les conditions suivantes sont réunies :
+
+a) les faits semblent établis;
+
+b) la demande se rapporte à des dates et heures précises.) &lt;L 2005-06-13/32, art. 154, 056; En vigueur : 30-06-2005&gt;
+
+(8° collaborer avec :
+
+a) d'autres commissions sectorielles indépendantes de litiges ou médiateurs indépendants, entre autres en transmettant des plaintes qui ne relèvent pas de la compétence du service de médiation pour les télécommunications à la commission de litiges ou au médiateur compétent;
+
+b) les médiateurs étrangers ou des instances dont la fonction est équivalente qui agissent en tant qu'instance de recours pour le traitement des plaintes pour lesquelles le service de médiation pour les télécommunications est compétent;
+
+c) les régulateurs des Communautés [<sup>1</sup> et l'Institut belge des services postaux et des télécommunications, sans que ceux-ci ne puissent intervenir dans le traitement des dossiers et des plaintes individuelles]<sup>1</sup>.
+
+Le cas échéant, des protocoles de collaboration peuvent être conclus par le ministre qui a la Protection de la Consommation dans ces attributions.
+
+En ce qui concerne les opérateurs visés au § 1er, 7°, le ministre qui a la Protection de la Consommation dans ses attributions conclura un accord de coopération avec les Communautés en vue de traiter les plaintes autres que celles visées au § 1er, 7°.) &lt;L 2007-05-15/51, art. 18, 3°, 070; En vigueur : 15-07-2007&gt;
+
+§ 4. Le Service de Médiation peut, dans le cadre d'une plainte dont il est saisi, prendre connaissance, sur place, des livres, de la correspondance, des procès-verbaux et généralement de tous les documents et de toutes les écritures d'une ou des entreprises concernées ayant trait directement à l'objet de la plainte. Il peut requérir des administrateurs et du personnel d'une ou des entreprises concernées toutes les explications ou informations et procéder à toutes les vérifications qui sont nécessaires pour son examen.
+
+L'information ainsi obtenue est traitée par le Service de Médiation comme confidentielle lorsque la divulgation pourrait nuire à l'entreprise sur un plan général.
+
+Dans les limites de ses attributions, le Service de Médiation ne reçoit d'instruction d'aucune autorité.
+
+L'examen d'une plainte prend fin lorsqu'elle fait l'objet d'un recours juridictionnel, hors le cas visé au § 3, 4°, du présent article.
+
+§ 5. L'entreprise concernée dispose d'un délai de vingt jours ouvrables pour motiver sa décision au cas où elle ne suivrait pas la recommandation visée au § 3, 3°, du présent article. La décision motivée est envoyée au plaignant et au Service de Médiation.
+
+(Après l'expiration du délai visé à l'alinéa précédent, le service de médiation envoie un rappel à l'entreprise concernée. Celle-ci dispose d'un délai de vingt jours ouvrables pour tout de même motiver sa décision au cas où elle ne suivrait pas la recommandation visée au § 3, 3°. La décision motivée est envoyée au plaignant et au service de médiation.
+
+Par le non-respect des délais visés aux alinéas précédents, l'entreprise concernée s'engage à exécuter la recommandation pour ce qui est de l'intervention spécifique et personnelle au plaignant concerné.) &lt;L 2005-12-27/31, art. 31, 060; En vigueur : 09-01-2006&gt;
+
+(§ 6. Si la plainte d'un consommateur est déclarée recevable par le service de médiation, la procédure de perception est suspendue par l'opérateur pour une période maximale de quatre mois à partir du jour de l'introduction de la plainte auprès du service de médiation ou jusqu'à ce que le service de médiation formule une recommandation ou jusqu'à ce qu'on se mette d'accord sur un règlement transactionnel.) &lt;L 2005-12-27/31, art. 31, 060; En vigueur : 09-01-2006&gt;
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 2, 107; En vigueur : 10-01-2022&gt;
+
+(2)&lt;AR 2024-05-12/17, art. 8, 112; En vigueur : 09-06-2024&gt;
+
+##### Art. 43ter
+
+&lt;Inséré par L 2006-12-21/79, art. 4; En vigueur : 02-02-2007&gt; § 1er. Il est institué, auprès de l'Institut belge des services postaux et des télécommunications, un service de médiation pour le secteur postal compétent pour les matières concernant les usagers des entreprises suivantes :
+
+1° [<sup>2</sup> bpost]<sup>2</sup>;
+
+2° les entreprises qui offrent des services postaux au sens de l'article 131, 1°, de la présente loi [<sup>1</sup> ...]<sup>1</sup>;
+
+3° [<sup>1</sup> ...]<sup>1</sup>.
+
+Les matières concernant les usagers sont des matières qui concernent les intérêts des utilisateurs qui n'offrent pas de services postaux eux-mêmes.
+
+§ 2. Le service de médiation pour le secteur postal est composé de deux membres qui appartiennent à un rôle linguistique différent.
+
+Le service de médiation agit en tant que collège. Néanmoins, les médiateurs peuvent s'accorder des délégations par décision collégiale approuvée par le ministre qui a les services postaux dans ses attributions.
+
+Une convention est conclue entre les membres du service de médiation pour le secteur postal et le Conseil de l'Institut belge des services postaux et des télécommunications, dans laquelle sont reprises les modalités pratiques et organisationnelles du fonctionnement du service de médiation au sein de l'Institut et de l'accomplissement des missions et des compétences confiées par la loi au service de médiation. Cette convention reprend au minimum les modalités concernant :
+
+\- la création et le fonctionnement d'un comité de contact entre les membres du service de médiation et le Conseil de l'Institut belge des services postaux et des télécommunications;
+
+\- la résolution de conflits de compétence;
+
+\- les aspects logistiques;
+
+\- la politique à l'égard du personnel mis à disposition;
+
+\- le contrôle financier et le budget.
+
+§ 3. Le service de médiation pour le secteur postal est investi des missions suivantes :
+
+1° examiner toutes les plaintes des utilisateurs ayant trait :
+
+a) aux activités de [<sup>2</sup> bpost]<sup>2</sup>, à l'exception de :
+
+\- plaintes qui relèvent de la compétence d'une autre commission sectorielle indépendante des litiges ou d'un autre médiateur indépendant;
+
+\- plaintes concernant des produits et services offerts par [<sup>2</sup> bpost]<sup>2</sup> en sous-traitance de tiers.
+
+b) aux activités postales des entreprises visées au § 1er, 2° et 3°, du présent article.
+
+2° Par activités postales, on entend pour l'application de ce chapitre :
+
+a) les activités qui consistent en la prestation de services postaux au sens de l'article 131, 1°, de la présente loi, y compris les services postaux caractérisés par une ou plusieurs prestations supplémentaires;
+
+b) les services prestés supplémentairement par [<sup>1</sup> entreprises auxquelles il est fait référence au § 1er, 2°]<sup>1</sup>, de cet article du fait qu'ils sont nécessaires à leurs services postaux au sens de l'article 131, 1°, de cette loi et ayant trait à l'infrastructure de l'entreprise concernée ou aux modes possibles de paiement de leurs services postaux au sens de l'article 131, 1°, de cette loi.
+
+3° s'entremettre pour faciliter un compromis à l'amiable des litiges entre les entreprises visées au § 1er du présent article et les utilisateurs;
+
+4° adresser une recommandation aux entreprises visées au § 1er du présent article au cas où un compromis à l'amiable ne peut être trouvé. Une copie de la recommandation est adressée au plaignant;
+
+5° orienter au mieux de leurs droits et intérêts les utilisateurs qui s'adressent à lui par écrit ou oralement;
+
+6° émettre, à la demande du ministre qui a le secteur postal dans ses attributions ou du ministre qui a la protection des consommateurs dans ses attributions ou de l'Institut belge des services postaux et des télécommunications ou du [<sup>3</sup> commission consultative spéciale Services postaux et e-commerce]<sup>3</sup>, des avis dans le cadre de ses missions;
+
+7° collaborer avec :
+
+a) d'autres commissions sectorielles indépendantes de litiges ou médiateurs indépendants, entre autres en transmettant des plaintes qui ne relèvent pas de la compétence du service de médiation pour le secteur postal à la commission de litiges ou au médiateur compétent;
+
+b) les médiateurs étrangers ou des instances dont la fonction est équivalente qui agissent en tant qu'instance de recours pour le traitement des plaintes pour lesquelles le service de médiation pour le secteur postal est compétent.
+
+Le cas échéant, des protocoles de collaboration peuvent être conclus par le ministre qui a la protection de la consommation dans ces attributions.
+
+§ 4. Les plaintes des utilisateurs finals ne sont recevables que lorsque le plaignant a introduite une plainte selon la procédure interne de l'entreprise concernée. Les plaintes des utilisateurs finals sont irrecevables lorsque celles-ci ont été introduites anonymement ou n'ont pas été introduites par voie écrit auprès du service de médiation pour le secteur postal.
+
+Le service de médiation pour le secteur postal peut refuser de traiter une plainte de manière motivée lorsque cette plainte a été introduite il y a plus d'un an auprès de l'entreprise concernée ou que la plainte est de nature clairement vexatoire.
+
+Différentes plaintes introduites par un même usager contre un même opérateur sur le même sujet peuvent être traitées comme une seule plainte par le service de médiation.
+
+[<sup>1</sup> L'utilisateur peut s'adresser au médiateur ou à la médiatrice soit néerlandophone soit francophone. L'enregistrement des plaintes par le service de médiation se fait conformément à la norme CEN14012.
+
+Le service de médiation transmet les plaintes de première ligne pour traitement au prestataire de services postaux et en informe l'utilisateur. Le service de médiation informe toujours l'utilisateur et le prestataire de services postaux, y compris lorsque le service de médiation se déclare incompétent ou met fin au traitement de la plainte.
+
+Dans les dix jours ouvrables qui suivent la réception de la notification du service de médiation, le prestataire de services postaux transmet tous les éléments permettant d'argumenter sa position initiale, ou dans l'autre cas, l'entreprise fait une proposition de compromis à l'amiable.
+
+Lorsqu'un compromis à l'amiable est trouvé, le service de médiation pour le secteur postal clôture le dossier et en envoie la confirmation aux deux parties.
+
+Le Roi peut fixer les autres modalités pratiques relatives à la réception de plaintes par le service de médiation pour le secteur postal, l'enregistrement de celles-ci et l'échange d'informations;]<sup>1</sup>
+
+§ 5. Le service de médiation pour le secteur postal peut, dans le cadre d'une plainte introduite auprès de lui, prendre connaissance, sur place, des livres, de la correspondance, des procès-verbaux et généralement de tous les documents et de toutes les écritures de l'entreprise ou des entreprises concernées ayant trait directement à l'objet de la plainte à l'exception des pièces relevant du secret des lettres. Il peut requérir des organismes d'administration et du personnel des entreprises concernées toutes les explications ou informations et procéder à toutes les vérifications qui sont nécessaires pour son examen.
+
+L'information ainsi obtenue est traitée confidentiellement lorsque la divulgation peut nuire à l'entreprise sur un plan général.
+
+Dans les limites de ses attributions, le service de médiation ne reçoit d'instruction d'aucune autorité.
+
+L'examen d'une plainte prend fin lorsqu'elle fait l'objet d'un recours juridictionnel.
+
+§ 6. L'entreprise concernée dispose d'un délai de vingt jours ouvrables pour motiver sa décision au cas où elle ne suivrait pas la recommandation visée au § 3, 4°, du présent article. La décision motivée est envoyée au plaignant et au service de médiation.
+
+Après l'expiration du délai visé à l'alinéa précédent, le service de médiation envoie un rappel à l'entreprise concernée. Celle-ci dispose d'un nouveau délai de vingt jours ouvrables pour motiver sa décision au cas où elle ne suivrait pas la recommandation visée au § 3, 4°, du présent article. La décision motivée est envoyée au plaignant ainsi qu'au service de médiation.
+
+Par le non-respect du délai visé, l'entreprise concernée s'engage à appliquer l'avis pour ce qui est du dédommagement spécifique et personnel au plaignant concerné.
+
+§ 7. Si la plainte d'un utilisateur est déclarée recevable par le service de médiation pour le secteur postal, la procédure de recouvrement est suspendue par l'opérateur pour une période de 4 mois au maximum à partir de l'introduction de la plainte auprès du service de médiation ou jusqu'à ce que le service de médiation pour le secteur postal ait formulé une recommandation ou jusqu'à ce qu'un compromis à l'amiable puisse être trouvé.
+
+[<sup>1</sup> § 8. L'utilisateur et le prestataire de services postaux ont le droit de consulter le dossier auprès du service de médiation.]<sup>1</sup>
+
+[<sup>1</sup> § 9. Le service de médiation pour le secteur postal invite à intervalles réguliers les personnes visées à l'article 148bis, § 2, à un dialogue dans le but de prévenir des conflits. Le Roi peut édicter les autres modalités pratiques concernant cette concertation permanente.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 2, 078; En vigueur : 31-12-2010&gt;
+
+(2)&lt;L 2010-12-13/07, art. 4, 078; En vigueur : 17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+(3)&lt;AR 2024-05-12/16, art. 8, 111; En vigueur : 09-06-2024&gt;
+
+#### Section II. - Composition et fonctionnement du service de médiation.
+
+##### Art. 44
+
+§ 1. Les membres du service de médiation sont nommés par le Roi, par arrêté délibéré en Conseil des Ministres, pour un terme renouvelable de [<sup>1</sup> six ans]<sup>1</sup>.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> Le mandat du membre du service de médiation n'est toutefois renouvelable qu'une seule fois.
+
+Le renouvellement du mandat dépend d'une évaluation favorable par une institution indépendante désignée par le ministre compétent, obtenue six mois avant la fin du mandat.
+
+Cette évaluation se fonde notamment sur les résultats des rapports annuels, visés à l'article 46, que les membres du service de médiation soumettent annuellement au ministre compétent et qui portent sur le fonctionnement de leur service de médiation au cours de l'année écoulée et de la bonne exécution des missions visées respectivement à l'article 43, § 3, à l'article 43bis, § 3 et à l'article 43ter, § 3, selon le cas. Le mandat est renouvelé par le Roi, par arrêté délibéré en Conseil des ministres.
+
+Lorsque le mandat d'un membre du service de médiation n'est pas renouvelé, ce membre continue à exercer ses fonctions jusqu'à la nomination de son successeur.
+
+Un avis de vacance, précisant les conditions de dépôt des candidatures, est publié au Moniteur belge en cas de non-renouvellement du mandat en raison d'une évaluation défavorable, de la fin du mandat renouvelé, d'un départ à la retraite, d'une démission, d'une révocation comme prévu au paragraphe 5, ou du décès du membre du service de médiation.]<sup>1</sup>
+
+Le membre du service de médiation, qui au moment de sa nomination se trouve dans un lien statutaire avec l'Etat ou toute autre personne morale de droit public relevant de l'Etat, est mis de plein droit en congé pour mission selon les dispositions du statut en question pour toute la durée de son mandat. Toutefois, durant cette période, il garde ses titres à la promotion et à l'avancement de traitement.
+
+Lorsque le membre du service de médiation au moment de sa nomination se trouve dans un lien contractuel avec l'Etat ou toute autre personne de droit public relevant de l'Etat, le contrat concerné est suspendu de plein droit pour toute la durée de son mandat. Toutefois, durant cette période, il garde ses titres à l'avancement de traitement.
+
+§ 2. Pour pouvoir être nommé membre du service de médiation, le candidat doit :
+
+1° posséder la nationalité belge;
+
+2° être d'une conduite irréprochable et jouir des droits civils et politiques;
+
+3° détenir un diplôme donnant accès à des fonctions du niveau 1 aux administrations de l'Etat;
+
+(4° ne pas avoir exercé un mandat ou une fonction pendant une période de trois ans avant sa nomination au sein :
+
+a) de l'entreprise publique concernée ou de l'une des entreprises liées en ce qui concerne les médiateurs auprès des entreprises publiques;
+
+b) d'une des entreprises visées au § 1er de l'article 43bis de la présente loi ou de l'une des entreprises liées en ce qui concerne les membres du Service de Médiation pour les télécommunications;) &lt;L 1997-12-19/30, art. 5, 017; En vigueur : 01-01-1998&gt;
+
+(c) d'une des entreprises visées au § 1er, de l'article 43ter de la présente loi ou de l'une des entreprises liées en ce qui concerne les membres du service de médiation pour le secteur postal.) &lt;L 2006-12-21/79, art. 5, a, 065; En vigueur : 02-02-2007&gt;
+
+§ 3. La fonction de membre du service de médiation est incompatible avec :
+
+1° un mandat public rémunéré;
+
+2° un mandat public conféré par des élections;
+
+3° la profession d'avocat;
+
+4° la fonction de notaire, magistrat ou huissier de justice;
+
+(5° un mandat ou une fonction au sein :
+
+a) de l'entreprise publique concernée ou l'une des entreprises liées en ce qui concerne les médiateurs auprès des entreprises publiques;
+
+b) d'une des entreprises visées au § 1er de l'article 43bis de la présente loi ou de l'une des entreprises liées en ce qui concerne les membres du Service de Médiation pour les télécommunications;) &lt;L 1997-12-19/30, art. 5, 017; En vigueur : 01-01-1998&gt;
+
+(c) d'une des entreprises visées au § 1er de l'article 43ter de la présente loi ou de l'une des entreprises liées en ce qui concerne les membres du service de médiation pour le secteur postal.) &lt;L 2006-12-21/79, art. 5, b, 065; En vigueur : 02-02-2007&gt;
+
+§ 4. (Abrogé) &lt;L 1993-08-06/30, art. 89, 005; En vigueur : 19-08-1993&gt;
+
+§ 5. Les membres du service de médiation ne peuvent être révoqués que pour juste motif par arrêté royal délibéré en Conseil des Ministres.
+
+----------
+
+(1)&lt;L 2024-02-27/02, art. 2, 110; En vigueur : 18-03-2024&gt;
+
+##### Art. 44bis
+
+&lt;Inséré par L 1993-08-06/30, art. 88; En vigueur : 19-08-1993&gt; § 1. Le Roi fixe le statut administratif et pécuniaire des membres du service de médiation.
+
+§ 2. Les membres du service de médiation sont soumis aux dispositions qui, pour les agents de l'Etat, régissent :
+
+1° les congés;
+
+2° la disponibilité pour maladie;
+
+3° le pécule de vacances.
+
+§ 3. Les membres du service de médiation sont soumis au secteur des soins de santé du régime de l'assurance obligatoire contre la maladie et l'invalidité.
+
+§ 4. La loi du 3 juillet 1967 sur la réparation des dommages résultant des accidents du travail, des accidents sur le chemin du travail et des maladies professionnelles dans le secteur public, est applicable aux membres des services de médiation créés auprès des entreprises publiques autonomes (ainsi qu'aux membres du service de médiation pour les télécommunications et du service de médiation pour le secteur postal). &lt;L 2006-12-21/79, art. 6, a, 065; En vigueur : 02-02-2007&gt;
+
+(Les rentes et indemnités, ainsi que les frais de procédure, sauf si la demande est téméraire et vexatoire, sont à charge de l'entreprise publique. (et en ce qui concerne le (services de médiations pour les télécommunications et le secteur postal) à charge de l'Institut belge des Services postaux et des Télécommunications [<sup>1</sup> ...]<sup>1</sup>. ) &lt;L 1995-12-20/31, art. 54, 013; En vigueur : 02-01-1996&gt; &lt;L 1997-12-19/30, art. 6, 017; En vigueur : 01-01-1998&gt; &lt;L 2006-12-21/79, art. 6, b, 065; En vigueur : 02-02-2007&gt;
+
+§ 5. (Les entreprises publiques autonomes et l'Institut belge des Services postaux et des Télécommunications accordent, directement aux membres respectivement de leur (services de médiation pour les télécommunications et le secteur postal), les allocations familiales, l'allocation de naissance et la prime d'adoption prévues par les lois coordonnées relatives aux allocations familiales pour travailleurs salariés.) &lt;L 1997-12-19/30, art. 6, 017; En vigueur : 01-01-1998&gt; &lt;L 2006-12-21/79, art. 6, c, 065; En vigueur : 02-02-2007&gt;
+
+Le montant et les conditions d'octroi de ces allocations et prime sont au moins aussi favorables que ceux des allocations réparties obligatoirement par les caisses de compensation pour allocations familiales.
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 3, 107; En vigueur : 10-01-2022&gt;
+
+##### Art. 44ter
+
+&lt;Inséré par L 1993-08-06/30, art. 88; En vigueur : 19-08-1993&gt; § 1. Les entreprises publiques autonomes sont tenues d'assurer aux membres de leur service de médiation une pension de retraite. Les règles qui régissent les conditions d'octroi et le mode de calcul des pensions des fonctionnaires de l'Administration générale du Royaume sont applicables à cette pension. Chaque entreprise publique autonome supporte la charge des pensions accordées aux membres de son service de médiation.
+
+(L'Institut belge des services postaux et des télécommunications assume la charge des pensions accordées aux membres du service de médiation pour les télécommunications et du service de médiation pour le secteur postal pour les seules années prestées dans ces services de médiation.) &lt;L 2006-12-21/79, art. 7, 065; En vigueur : 02-02-2007&gt;
+
+§ 2. Les ayants droit des personnes visées au § 1er peuvent prétendre à une pension de survie à charge du Trésor public selon les règles qui régissent l'octroi et le mode de calcul des pensions des ayants droit des fonctionnaires de l'Administration générale du Royaume. Cette pension est financée par une contribution personnelle à charge des membres du service de médiation égale à celle prévue par l'article 60 de la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions. Cette contribution est soumise aux règles prévues par les articles 61 et 61bis de la loi du 15 mai 1984 précitée.
+
+§ 3. Pour l'ouverture du droit et le calcul des pensions visées aux §§ 1er et 2, seuls les services prestés en qualité de membre du service de médiation sont pris en compte.
+
+Ces mêmes services ne peuvent être pris en considération ni pour l'ouverture du droit à une autre pension du secteur public, ni pour le calcul de celle-ci.
+
+##### Art. 45
+
+Le Roi détermine, par arrêté royal délibéré en Conseil des Ministres, les ressources humaines et matérielles que doit affecter l'entreprise publique autonome à son service de médiation. Les frais de fonctionnement du service de médiation sont à charge de l'entreprise publique. Toutefois, le Roi peut soumettre l'appel au service de médiation au paiement d'une contribution aux frais.
+
+##### Art. 45bis
+
+&lt;Inséré par L 1997-12-19/30, art. 8; En vigueur : 01-01-1998&gt; § 1er. Le Roi détermine, par arrêté délibéré en Conseil des Ministres, sur avis de l'institut, les ressources humaines et matérielles que l'Institut belge des Services postaux et des Télécommunications doit affecter au Service de Médiation pour les télécommunications.
+
+Les frais de fonctionnement du Service de Médiation pour les télécommunications sont à charge de l'Institut belge des Services postaux et des Télécommunications.
+
+§ 2. Afin de rémunérer les prestations du Service de Médiation pour les télécommunications, les entreprises, visées à l'article 43bis, § 1er, de la présente loi, acquittent annuellement, auprès de l'Institut belge des Services postaux et des Télécommunications, une redevance établie sur base du coût du financement du Service de Médiation pour les télécommunications, appelée " redevance de médiation ".
+
+§ 3. Chaque année, l'institut fixe le montant de la redevance de médiation due par chacune des entreprises visées à l'article 43bis de la loi.
+
+§ 4. Les entreprises, visées à l'article 43bis, § 1er, de la présente loi, communiquent, au plus tard le 30 juin de chaque année à l'Institut belge des Services postaux et des Télécommunications, le chiffre d'affaires réalisé l'année précédente pour chacune des activités rentrant dans le champ de compétence du Service de Médiation.
+
+§ 5. Le montant de la redevance de médiation correspond au montant des moyens financiers nécessaires au fonctionnement du Service de Médiation inscrit au budget de l'année en cours de l'Institut belge des Services postaux et des Télécommunications, après avis de l'Inspection des Finances et du [<sup>1</sup> commission consultative spéciale Télécommunication]<sup>1</sup>, multiplié par un coefficient égal à la part de l'entreprise dans le chiffre d'affaires réalisé l'année précédente par l'ensemble des entreprises concernées pour les activités rentrant dans le champ de compétence du Service de Médiation.
+
+Les premiers (1.240.000 EUR) de chiffre d'affaires de chaque entreprise ne sont pas pris en compte pour le calcul de la redevance de médiation. &lt;AR 2000-07-20/55, art. 1, 034; En vigueur : 01-01-2002&gt;
+
+§ 6. Les redevances de médiation sont payées au plus tard le 30 septembre de l'année pour laquelle elles sont dues, au numéro de compte indiqué par l'Institut belge des Services postaux et des Télécommunications.
+
+Les redevances qui ne sont pas payées à l'échéance fixée produiront de plein droit et sans mise en demeure un intérêt au taux légal majoré de 2 %. Cet intérêt est calculé au prorata du nombre de jours calendrier de retard.
+
+Au plus tard un mois avant l'échéance, l'institut communique aux entreprises, visées à l'article 43bis de la loi, le montant de la redevance due.
+
+§ 7. Les médiateurs soumettent, chaque année, le projet de budget du Service de Médiation pour les télécommunications à l'avis du [<sup>1</sup> commission consultative spéciale Télécommunication]<sup>1</sup>. Le budget du Service de Médiation pour les télécommunications figure distinctement au budget de l'Institut belge des Services postaux et des Télécommunications.
+
+----------
+
+(1)&lt;AR 2024-05-12/17, art. 8, 112; En vigueur : 09-06-2024&gt;
+
+##### Art. 45ter
+
+&lt;Inséré par L 2006-12-21/79, art. 8; En vigueur : 02-02-2007&gt; § 1er. Le Roi détermine, par un arrêté délibéré en Conseil des ministres, après avis de l'Institut, les ressources humaines et matérielles que l'Institut belge des services postaux et des télécommunications doit affecter au service de médiation pour le secteur postal.
+
+§ 2. Afin de financer les prestations du service de médiation du secteur postal, les entreprises visées à l'article 43ter, § 1er, de la présente loi, acquittent annuellement, auprès de l'Institut belge des services postaux et des télécommunications, une redevance établie sur base du coût du financement du service de médiation pour le secteur postal, appelée " redevance de médiation ".
+
+§ 3. Chaque année, l'Institut belge des services postaux et des télécommunications détermine le montant de la redevance de médiation due par chacune des entreprises visées à l'article 43ter de la présente loi.
+
+§ 4.[<sup>1</sup>...]<sup>1</sup>.
+
+§ 5. [<sup>1</sup> Le montant de la redevance de médiation correspond au montant des moyens financiers nécessaires au fonctionnement du service de médiation inscrit au budget de l'Institut belge des services postaux et des télécommunications pour l'année en cours, après avis de l'Inspection des Finances et du [<sup>2</sup> commission consultative spéciale Services postaux et e-commerce]<sup>2</sup>.
+
+La redevance de médiation individuelle, appelée In, est calculée comme suit :
+
+(Formule non reprise pour des raisons techniques, voir M.B. du 31-12-2010, p. 83268)
+
+Pour l'application de la formule précitée, les éléments indiqués ci-dessus sont définis comme suit :
+
+\- X = le montant des moyens financiers nécessaires au fonctionnement du service de médiation inscrit au budget de l'année en cours de l'Institut, après avis de l'Inspection des Finances et du Comité consultatif pour les services postaux;
+
+\- Kn = nombre de plaintes recevables (K) à l'encontre de l'entreprise (n) au cours de l'année précédente à condition qu'il y ait eu plus de 12 plaintes recevables à l'encontre de l'entreprise (n) l'année précédente et que l'entreprise (n) ait eu un chiffre d'affaires supérieur à 500.000 EUR l'année précédente;
+
+(Formule non reprise pour des raisons techniques, voir M.B. du 31-12-2010, p. 83268).]<sup>1</sup>
+
+§ 6. Les redevances de médiation sont payées au plus tard le 30 septembre de l'année pour laquelle elles sont dues, au numéro de compte donné par l'Institut belge des services postaux et des télécommunications.
+
+Les redevances qui ne sont pas payées à l'échéance fixée produisent de plein droit et sans mise en demeure un intérêt au taux légal majoré de 2 %. Cet intérêt est calculé au prorata du nombre de jours calendrier de retard.
+
+Au plus tard un mois avant échéance, l'Institut communique aux entreprises visées à l'article 43ter de la loi, le montant des redevances dues.
+
+§ 7. Si les dépenses du service de médiation sont inférieures ou supérieures aux prévisions, et / ou qu'un payeur de redevances de médiation individuelles a omis en tout ou en partie de payer la redevance de médiation due, les redevances de médiation individuelles sont calculées l'année suivant l'année de fonctionnement du service de médiation. Si ce calcul donne lieu à une redevance supplémentaire ou un remboursement partiel, cette différence est portée en compte par le biais des nouvelles redevances de médiation individuelles à payer.
+
+§ 8. Les médiateurs soumettent, chaque année, le projet de budget du service de médiation du secteur postal à l'avis du [<sup>2</sup> commission consultative spéciale Services postaux et e-commerce]<sup>2</sup> Le budget du service de médiation du secteur postal figure distinctement au budget de l'Institut belge des services postaux et des télécommunications.
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 3, 078; En vigueur : 31-12-2010&gt;
+
+(2)&lt;AR 2024-05-12/16, art. 8, 111; En vigueur : 09-06-2024&gt;
+
+##### Art. 46
+
+&lt;L 2006-12-21/79, art. 9, 065; En vigueur : 02-02-2007&gt; § 1er. Chaque année, le service de médiation fait rapport de ses activités. Le rapport traite notamment les différentes plaintes ou types de plaintes et la suite donnée à ces plaintes, sans toutefois identifier directement ou indirectement le plaignant.
+
+§ 2. Le rapport du service de médiation pour les télécommunications est communique à l'Institut belge des services postaux et des télécommunications, aux entreprises visées au § 1er de l'article 43bis de la présente loi, au ministre ayant en charge les télécommunications et au ministre qui a la protection des consommateurs dans ses attributions.
+
+Le rapport du service de médiation pour le secteur postal est communiqué à l'Institut belge des services postaux et des télécommunications, aux entreprises visées au § 1er de l'article 43ter de la présente loi, au ministre ayant en charge le secteur postal et au ministre qui a la protection des consommateurs dans ses attributions.
+
+Le rapport des services de médiation qui ne sont pas mentionnés dans le présent paragraphe est transmis à l'entreprise publique, au ministre dont relève l'entreprise publique ainsi qu'au ministre qui a la protection des consommateurs dans ses attributions.
+
+§ 3. Les services de médiation précités communiquent le rapport aux Chambres législatives et le mettent à la disposition du public.
+
+##### Art. 46bis
+
+&lt;Inséré par L 1997-12-19/30, art. 10; En vigueur : 01-01-1998&gt; § 1er. Les agents mis à la disposition du Service de Médiation créé auprès de [<sup>1</sup> Proximus]<sup>1</sup>, dont la liste est arrêtée par le Ministre qui a les Télécommunications dans ses attributions, sont transférés, sauf opposition de leur part, à l'Institut belge des Services postaux et des Télécommunications, avec effet au 1er janvier 1998 et selon les modalités fixées par le Roi.
+
+§ 2. Les agents statutaires nommés à titre définitif à [<sup>1</sup> Proximus]<sup>1</sup> sont nommes agents de l'Institut belge des Services postaux et des Télécommunications.
+
+En ce qui concerne les agents contractuels qui bénéficiaient d'un contrat de travail à durée indéterminée et qui sont transférés à l'institut, il est conclu, par dérogation à l'article 73, § 2, de la présente loi, un contrat de travail à durée indéterminée.
+
+§ 3. (Pour le calcul de la pension des agents transférés en application du présent article, les services prestés à [<sup>1</sup> Proximus]<sup>1</sup> sont considérés comme services prestés auprès de l'Etat fédéral.) &lt;L 2003-12-11/33, art. 15, 046; En vigueur : 15-12-2003&gt;
+
+§ 4. Les emplois occupés par les agents transférés sont ajoutés au cadre organique de l'Institut belge des Services postaux et des Télécommunications fixé par l'article 1er de l'arrêté royal du 18 mars 1993 fixant le cadre organique dudit institut.
+
+(§ 5. Au cours de leur mise à disposition, les membres du personnel, sont soumis à l'autorité hiérarchique du médiateur.
+
+§ 6. Au cours de leur mise à disposition du service de médiation pour les télécommunications, les membres du personnel gardent leur situation statutaire en matière de rémunération y compris leur allocation de gestion, d'ancienneté, de promotion et de pension dont ils bénéficiaient auprès de l'Institut belge des services postaux et des télécommunications.) &lt;L 2006-12-21/79, art. 10, 065; En vigueur : 02-02-2007&gt;
+
+----------
+
+(1)&lt;L 2015-08-10/26, art. 2, 092; En vigueur : 22-06-2015 (voir AR 2015-09-11/02, art. 1)&gt;
+
+##### Art. 46ter
+
+&lt;Inséré par L 2006-12-21/79, art. 11; En vigueur : 02-02-2007&gt; § 1er. Les agents mis à la disposition du Service de médiation de [<sup>1</sup> bpost]<sup>1</sup> et dont la liste est arrêtée par le ministre qui a les services postaux dans ses attributions, sont transférés, sauf opposition de leur part, à l'Institut belge des services postaux et des télécommunications selon les règles à fixer par le Roi, après concertation avec les organisations syndicales représentatives du personnel.
+
+Le transfert mentionné au paragraphe précédent est effectué au plus tard le 1er janvier 2007.
+
+§ 2. Les agents statutaires nommés à titre définitif à [<sup>1</sup> bpost]<sup>1</sup> sont nommés agents de l'Institut belge des services postaux et des télécommunications, soit en conservant leur grade, soit à un grade équivalent selon un tableau fixé par le Roi.
+
+Ils conservent au moins la rémunération et l'ancienneté qu'ils avaient à [<sup>1</sup> bpost]<sup>1</sup> au moment du transfert.
+
+En ce qui concerne les agents contractuels qui bénéficiaient d'un contrat de travail à durée indéterminée et qui sont transférés à l'Institut belge des services postaux et des télécommunications, il est conclu, par dérogation à l'article 73, § 2, de la présente loi, un contrat de travail à durée indéterminée.
+
+§ 3. Pour le calcul de la pension des agents transférés en application du présent article, les services prestés à [<sup>1</sup> bpost]<sup>1</sup> restent à charge de [<sup>1</sup> bpost]<sup>1</sup>.
+
+§ 4. Les emplois occupés par les agents transférés sont ajoutés au cadre organique de l'Institut belge des services postaux et des télécommunications fixé par l'article 1er de l'arrêté royal du 18 mars 1993 fixant le cadre organique dudit Institut.
+
+§ 5. Au cours de leur mise à disposition du service de médiation pour le secteur postal, les membres du personnel, sont soumis à l'autorité hiérarchique du médiateur.
+
+§ 6. Au cours de leur mise à disposition du service de médiation pour le secteur postal, les membres du personnel gardent leur situation statutaire en matière de rémunération y compris leur allocation de gestion, d'ancienneté, de promotion et de pension dont ils bénéficiaient auprès de l'Institut belge des services postaux et des télécommunications
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 078; En vigueur :17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+### CHAPITRE XI. - Comité consultatif.
+
+##### Art. 47
+
+&lt;Abrogé par L 2014-04-10/81, art. 2, 090; En vigueur : 23-08-2014&gt;
+
+##### Art. 47/1
+
+[<sup>1</sup> Il est créé un comité consultatif pour les voyageurs ferroviaires, dénommé ci-après "le comité", auprès du Service public Fédéral Mobilité et Transports. Ce comité est compétent pour les services de transport ferroviaires de voyageurs qui font l'objet de missions de service public. Le Roi règle la composition et le fonctionnement du comité consultatif pour les voyageurs ferroviaires.
+
+§ 2. Le comité émet des avis à la demande des [<sup>2</sup> entreprises fournissant des services de transport ferroviaires de voyageurs faisant l'objet de missions de service public]<sup>2</sup>, à la demande du ministre dont relèvent ces entreprises publiques, à la demande du ministre qui a la régulation du transport ferroviaire dans ses attributions ou de la propre initiative du comité.
+
+[<sup>2</sup> En cas d'urgence dûment motivée, le Ministre peut demander l'avis du comité, lequel se prononce dans un délai de dix jours ouvrables. Est considéré comme jour ouvrable chaque jour civil autre qu'un samedi, dimanche ou jour férié légal.]<sup>2</sup>
+
+Le comité peut émettre d'initiative des avis sur toute question relative aux services de transport ferroviaires de voyageurs faisant l'objet de missions de service public rendus par une [<sup>2</sup> entreprise ferroviaire]<sup>2</sup>. Ces avis reflètent la diversité des positions de ses membres.
+
+Il est consulté sur les projets de plans pluriannuels d'investissements et sur les plans de transport qui concernent les voyageurs. Ces documents sont communiqués au comité par le gestionnaire de l'infrastructure ferroviaire et les [<sup>2</sup> entreprises fournissant des services de transport ferroviaires de voyageurs faisant l'objet de missions de service public]<sup>2</sup>.
+
+Au plus tard six mois avant l'expiration des contrats de gestion, le comité transmet aux Chambres législatives ses recommandations relatives aux contrats de gestion.
+
+Le comité peut organiser des concertations réunissant les [<sup>2</sup> entreprises fournissant des services de transport ferroviaires de voyageurs faisant l'objet de missions de service public]<sup>2</sup> et les pouvoirs publics.
+
+§ 3. Le comité fait annuellement rapport de ses activités aux [<sup>2</sup> entreprises fournissant des services de transport ferroviaires de voyageurs faisant l'objet de missions de service public]<sup>2</sup>, au ministre dont relèvent les entreprises publiques, au ministre qui a la régulation du transport ferroviaire dans ses attributions, aux Chambres législatives fédérales et aux exécutifs régionaux.
+
+§ 4. Le Roi peut accorder une compensation pour la couverture des frais supportés par les membres du bureau exécutif du comité et liés à l'exercice de leur mandat depuis l'année 2009. Le montant global maximum de cette compensation est de douze mille cinq cents euros par an.
+
+§ 5. L'[<sup>2</sup> entreprise ferroviaire]<sup>2</sup> transmet sur demande du président ou du vice-président les informations utiles au bon fonctionnement de la mission du comité. ]<sup>1</sup>
+
+[<sup>2</sup> § 6. La SNCB et le comité déterminent, de commun accord, les modalités de leur collaboration. Ces modalités sont approuvées par le Ministre.
+
+En cas d'absence d'accord entre la SNCB et le comité dans un délai de quatre mois après l'entrée en vigueur de ce paragraphe ou en cas de différend sur la nécessité de modifier l'accord ou sur les modifications elles-mêmes, le Ministre détermine les modalités de leur collaboration.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-10/81, art. 3, 090; En vigueur : 23-08-2014&gt;
+
+(2)&lt;L 2015-08-10/17, art. 2, 091; En vigueur : 05-09-2015&gt;
+
+### HOOFDSTUK XIbis. [<sup>1</sup> - Cellule d'Investissement ferroviaire]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-08-03/30, art. 2, 096; En vigueur : 17-09-2016&gt;
+
+##### Art. 47/2
+
+[<sup>1</sup> Il est créé une Cellule d'Investissement ferroviaire qui remet des avis, qui peuvent inclure des propositions d'adaptation, au ministre des entreprises publiques.
+
+Ces avis portent sur :
+
+1° la cohérence entre les plans pluriannuels adoptés par la SNCB et Infrabel et les objectifs de mobilité fixés par le Conseil des ministres ;
+
+2° la cohérence entre les plans pluriannuels adoptés par la SNCB et Infrabel conformément aux articles 162decies, § 4, 200, § 3, alinéa 2 ;
+
+3° le suivi de l'exécution des plans pluriannuels adoptés par la SNCB et Infrabel.
+
+Les avis sont rendus dans un délai de soixante jours à partir du jour qui suit le jour où la Cellule a reçu :
+
+1° dans le cas de l'alinéa 2, 1° et 2°, les plans pluriannuels de la SNCB et d'Infrabel ;
+
+2° dans le cas de l'alinéa 2, 3°, les documents qu'elle juge utiles aux fins de l'exécution des plans pluriannuels adoptés par la SNCB et Infrabel.
+
+La SNCB et Infrabel fournissent à la Cellule tout document requis par celle-ci et nécessaire dans le cadre de la réalisation des missions de la Cellule.
+
+La composition et le fonctionnement de la Cellule d'Investissement ferroviaire sont fixés par le Roi par arrêté délibéré en Conseil des ministres.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-08-03/30, art. 3, 096; En vigueur : 17-09-2016&gt;
+
+### CHAPITRE XII. - Dispositions transitoires et modificatives.
+
+#### Section I. - Constitution et compétences de nouveaux organes auprès de certains organismes.
+
+##### Art. 48
+
+§ 1. Il est procédé, dès l'entrée en vigueur de la présente loi, à la constitution d'un conseil d'administration, d'un comité de direction et, pour ce qui concerne la Société nationale des chemins de fer belges, d'un comité restreint auprès de chaque organisme visé à l'article 2, § 2, conformément aux articles 15, 18 et 20, qui sont d'application par analogie. Au moins un membre du premier comité de direction est nommé parmi les membres du personnel de l'organisme.
+
+Les personnes ainsi nommées ont pour mission la négociation et la conclusion du premier contrat de gestion conformément à l'article 4.
+
+En outre, ils reprennent les compétences des organes de gestion correspondants, telles qu'elles existent à la date d'entrée en vigueur de la présente loi, et les exercent chacun de manière collégiale. Les mandats des membres des organes de gestion correspondants visés prennent fin de plein droit à la date des nominations conformément à l'alinéa premier.
+
+§ 2. Si, à l'expiration d'un délai de six mois après les nominations conformément au § 1er, un contrat de gestion n'est pas entré en vigueur, le Roi peut, par arrêté délibéré en Conseil des Ministres, fixer des règles provisoires concernant les matières visées à l'article 3, § 2. Ces règles provisoires valent comme premier contrat de gestion et sont d'application jusqu'à l'entrée en vigueur d'un contrat de gestion conclu conformément à l'article 4.
+
+§ 3. Les personnes nommées conformément au § 1er, premier alinéa, prennent la fonction de membre du premier conseil d'administration à partir de la date d'entrée en vigueur du classement de l'organisme parmi les entreprises publiques autonomes. Le mandat de la moitie des membres ordinaires, d'une part, et des administrateurs-directeurs, d'autre part, désignée dans l'arrêté de nomination, prend fin trois ans après la date visée. Le mandat des autres membres prend fin six ans après la même date.
+
+##### Art. 49
+
+§ 1. Dès l'entrée en vigueur de la présente loi, il est constitué auprès de chaque organisme visé à l'article 2, § 2, à l'exception de la [<sup>1</sup> SNCB]<sup>1</sup>, une commission paritaire conformément à l'article 30, qui est d'application par analogie. Les membres de cette commission ont pour seule mission l'exercice des compétences visées à l'article 4, § 2, deuxième alinéa, et à l'article 33, § 1er, qui sont d'application par analogie et ce à l'exclusion de toute autre organe de négociation. Ils prennent la fonction de membre de la première commission paritaire à partir de la date d'entrée en vigueur du classement de l'organisme parmi les entreprises publiques autonomes. &lt;AR 2004-10-18/32, art. 27, 050 ; En vigueur : 01-01-2005&gt;
+
+[<sup>1</sup> Deuxième alinéa abrogé.]<sup>1</sup>
+
+§ 2. Pour l'application de l'article 30, § 5, la commission paritaire visée au § 1er, premier alinéa, est constituée sur la base des données établies par la commission visée à l'article 14, § 1er, de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités, qui sont disponibles à la date entrée en vigueur de la présente loi. Ensuite, la composition de la commission paritaire est adaptée aux données établies par ladite commission, dans les trente jours suivant leur notification à l'organisme ou l'entreprise publique autonome concernée.
+
+§ 3. La première des périodes de six ans visées à l'article 30, § 5, prend cours en 1996, à une date à fixer par le Roi. A partir de l'année 1996 incluse, la commission paritaire est composée sur la base des données au premier janvier de l'année de son renouvellement.
+
+[<sup>1</sup> Deuxième alinéa abrogé.]<sup>1</sup>
+
+§ 4. Le Roi règle, par arrêté délibéré en Conseil des Ministres, les modalités d'application du présent article.
+
+----------
+
+(1)&lt;AR 2013-12-11/02, art. 13, 085; En vigueur : 01-01-2014&gt;
+
+#### Section II. - Dispositions modificatives.
+
+##### Art. 50
+
+&lt;Disposition modificative de l'article 51, § 1, subdivision B, de L 1973-12-28/04&gt;
+
+##### Art. 51
+
+&lt;disposition modificative des articles 1, § 3; 2, § 2 et 8, § 1 de L 1974-12-19/30&gt;
+
+##### Art. 52
+
+&lt;insertion d'un art. 34bis dans L 1974-12-23/01&gt;
+
+##### Art. 53
+
+&lt;insertion d'un article 17bis dans AR56 1982-07-16&gt;
+
+##### Art. 54
+
+&lt;Disposition modificative de l'article 87, § 1, al. 1 de L 1985-08-01/30&gt;
+
+### CHAPITRE XIII. [<sup>1</sup> - Dispositions particulières relatives aux entreprises publiques autonomes actives dans des secteurs ouverts à la concurrence]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-12-16/30, art. 4, 093; En vigueur : 12-01-2016&gt;
+
+##### Art. 54/1
+
+[<sup>1</sup> Les dispositions du présent chapitre s'appliquent aux entreprises publiques autonomes suivantes :
+
+1° Proximus;
+
+2° bpost; et
+
+3° à partir de la date fixée par le Roi par arrêté délibéré en Conseil des ministres, toute autre entreprise publique autonome qui, pendant au moins deux exercices consécutifs, réalise au moins septante-cinq pour cent de son chiffre d'affaires annuel, hors taxe sur la valeur ajoutée, dans des activités qui sont ouvertes à la concurrence sans être réservées, par ou en vertu de la loi, à l'entreprise en question.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-12-16/30, art. 5, 093; En vigueur : 12-01-2016&gt;
+
+##### Art. 54/2
+
+[<sup>1</sup> L'article 13 n'est pas applicable aux entreprises publiques autonomes visées à l'article 54/1.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-12-16/30, art. 6, 093; En vigueur : 12-01-2016&gt;
+
+##### Art. 54/3
+
+[<sup>1</sup> Les entreprises publiques autonomes visées à l'article 54/1 peuvent répondre à leurs besoins en personnel par le recrutement et l'emploi de personnes en vertu d'un contrat de travail régi par la loi du 3 juillet 1978 relative aux contrats de travail, y compris en dehors des cas prévus à l'article 29, § 1er, alinéa 2. L'article 34, § 2, G), 1°, n'est pas applicable à ces entreprises.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-12-16/30, art. 7, 093; En vigueur : 12-01-2016&gt;
+
+##### Art. 54/4
+
+[<sup>1</sup> Les entreprises publiques autonomes visées à l'article 54/1 peuvent :
+
+1° conclure, dans le cadre de leurs activités, des contrats de sous-traitance avec des tiers, le cas échéant, dans le respect de l'article 148bis, § 1er, et des règles applicables relatives aux marchés publics;
+
+2° recourir à une collaboration professionnelle avec des tiers pour la prestation d'un travail en qualité de travailleur indépendant, sans préjudice des dispositions du titre XIII de la loi-programme (I) du 27 décembre 2006 et, le cas échéant, de l'article 148decies, § 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-12-16/30, art. 8, 093; En vigueur : 12-01-2016&gt;
+
+### CHAPITRE XIV. [<sup>1</sup> - Dispositions particulières relatives aux entreprises publiques autonomes cotées en bourse]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-12-16/30, art. 9, 093; En vigueur : 12-01-2016&gt;
+
+##### Art. 54/5
+
+[<sup>1</sup> Les dispositions du présent chapitre sont applicables aux entreprises publiques autonomes dont les actions sont admises à la négociation sur un marché réglementé au sens de l'article 2, 3°, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-12-16/30, art. 10, 093; En vigueur : 12-01-2016&gt;
+
+##### Art. 54/6
+
+[<sup>1</sup> Les dispositions suivantes ne sont pas applicables aux entreprises publiques autonomes visées à l'article 54/5 :
+
+1° l'article 10, § 1er, alinéa 2;
+
+2° l'article 12, § 3, deuxième phrase;
+
+3° l'article 17, modifié par les lois des 24 décembre 2002 et 6 avril 2010;
+
+4° l'article 18, modifié par l'arrêté royal du 18 octobre 2004 et la loi du 28 juillet 2011, à l'exception de l'article 18, § 2bis, inséré par la loi du 28 juillet 2011;
+
+5° les articles 19 et 20, à l'exception de l'article 20, § 2, deuxième phrase;
+
+6° l'article 21, modifié par les lois des 6 avril 2010 et 14 novembre 2011 et l'arrêté royal du 11 décembre 2013;
+
+7° l'article 23, modifié par la loi du 12 décembre 1994;
+
+8° l'article 24;
+
+9° l'article 27, § 3;
+
+10° l'article 35, § 4, alinéa 2, deuxième, troisième et quatrième phrases;
+
+11° l'article 39, § 1er, alinéa 3, et §§ 2 et 5;
+
+12° l'article 40, §§ 2 et 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-12-16/30, art. 11, 093; En vigueur : 12-01-2016&gt;
+
+##### Art. 54/7
+
+[<sup>1</sup> § 1er. Par dérogation à l'article 39, §§ 3 et 4, et, le cas échéant, aux articles 60/1, § 3, et 147bis, le Roi peut, par arrêté délibéré en Conseil des ministres, aux conditions qu'Il détermine, autoriser des opérations ayant pour conséquence que la participation des autorités publiques dans le capital des entreprises publiques autonomes visées à l'article 54/5 descende en dessous de cinquante pour cent plus une action. Dans ce cadre, le Roi se laisse guider par l'importance stratégique d'une participation dans l'entreprise concernée, la nécessité d'un ancrage belge, la contribution essentielle que l'entreprise peut apporter à l'égard de l'objectif d'une croissance économique durable, son utilité sociale et l'impact sur l'emploi.
+
+Le pouvoir accordé au Roi par l'alinéa 1er expire le 31 décembre 2018.
+
+§ 2. Dès que la participation des autorités publiques dans le capital de l'une des entreprises publiques autonomes visées à l'article 54/5 descend en dessous de cinquante pour cent plus une action en application du paragraphe 1er, cette entreprise cesse de ressortir de la catégorie des entreprises publiques autonomes et est supprimée de la liste de l'article 1er, § 4, sans préjudice des dispositions transitoires prises en vertu de l'article 54/8. Elle est alors convertie en une société anonyme de droit privé, sans interruption de personnalité juridique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-12-16/30, art. 12, 093; En vigueur : 12-01-2016&gt;
+
+##### Art. 54/8
+
+[<sup>1</sup> Dans le cas où le Roi autorise une opération visée à l'article 54/7, § 1er, Il prend, par arrêté délibéré en Conseil des ministres, toutes les mesures nécessaires pour :
+
+1° maintenir, en vue de la continuité du service public, les dispositions relatives aux missions de service public de l'entreprise concernée et au contrat de gestion y afférent, et ce, pour une période transitoire expirant au plus tard le 31 décembre 2020;
+
+2° supprimer les dispositions légales liées au statut de droit public de l'entreprise concernée;
+
+3° régler les relations individuelles de travail entre l'entreprise concernée et les travailleurs qui, à la date effective de l'opération visée à l'article 54/7, § 1er, appartiennent au personnel statutaire de l'entreprise, de manière à assurer la continuité des droits de ces travailleurs en matière de stabilité d'emploi, de rémunération et de pension prévus dans les réglementations de base du statut du personnel établi conformément aux articles 34 et 35;
+
+4° régler l'application des lois en matière de sécurité sociale des travailleurs aux membres du personnel visés au 3°, y compris aligner les interdictions en matière de cumul de pensions avec celles applicables dans le secteur privé;
+
+5° organiser une régime transitoire en matière de relations collectives de travail au sein de l'entreprise concernée jusqu'aux élections sociales qui doivent se tenir dans les trois ans de l'opération visée à l'article 54/7, § 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-12-16/30, art. 13, 093; En vigueur : 12-01-2016&gt;
+
+##### Art. 54/9
+
+[<sup>1</sup> Les arrêtés pris en vertu de l'article 54/8 peuvent modifier, compléter, remplacer ou abroger les dispositions légales en vigueur.
+
+Les pouvoirs accordés au Roi par l'article 54/8 expirent le 31 décembre 2018. Après cette date, les arrêtés pris en vertu de l'article 54/8 ne peuvent plus être modifiés, complétés, remplacés ou abrogés que par une loi.
+
+Les dispositions prises en vertu de l'article 54/8, 3°, 4° et 5°, cessent de produire leurs effets si elles n'ont pas été confirmées par la loi dans les six mois de leur date d'entrée en vigueur. La confirmation produit ses effets à partir de cette date.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-12-16/30, art. 14, 093; En vigueur : 12-01-2016&gt;
+
+## TITRE II. - Réforme de la Régie des télégraphes et des téléphones.
+
+### CHAPITRE I. - Dénomination.
+
+##### Art. 55
+
+Sans préjudice des dispositions de l'article 119 de la présente loi, les mots " Régie des télégraphes et des téléphones " et " Régie " lorsque l'on vise la Régie des télégraphes et des téléphones, sont remplacés par le mot " BELGACOM " dans toutes les lois et règlements.
+
+[<sup>1</sup> Dans toutes les lois et règlements, le mot " Belgacom ", lorsqu'il a été introduit en vertu de l'alinéa 1er, est remplacé par le mot `Proximus'.
+
+Dans toutes les lois et règlements, le mot " Belgacom ", lorsqu'il fait référence à la personne morale visée à l'article 1er de la loi du 19 juillet 1930 créant la Régie des télégraphes et des téléphones, est remplacé par le mot " Proximus ".]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2015-08-10/26, art. 3, 092; En vigueur : 22-06-2015 (voir AR 2015-09-11/02, art. 1)&gt;
+
+### CHAPITRE II. - Objet social.
+
+##### Art. 56
+
+Les alinéas 2, 3 et 4 de l'article 1er de la loi du 19 juillet 1930 créant la Régie des télégraphes et des téléphones, telle que modifiée par l'article unique de la loi du 7 décembre 1984, sont remplacés par la disposition suivante :
+
+" [<sup>1</sup> Proximus]<sup>1</sup> a pour objet social :
+
+1° le développement de services, à l'intérieur ou à l'extérieur du pays, dans le domaine des télécommunications;
+
+2° l'exécution de toutes les opérations destinées à promouvoir directement ou indirectement ses activités ou à permettre une utilisation optimale de son infrastructure;
+
+3° la prise de participation dans des organismes, sociétés ou associations publics ou privés, existants ou à créer, belges, étrangers ou internationaux, laquelle peut contribuer directement ou indirectement à la réalisation de son objet social. "
+
+----------
+
+(1)&lt;L 2015-08-10/26, art. 2, 092; En vigueur : 22-06-2015 (voir AR 2015-09-11/02, art. 1)&gt;
+
+##### Art. 57
+
+L'article 1er, alinéa 5, de la loi du 19 juillet 1930 créant la Régie des télégraphes et des téléphones, est abrogé.
+
+### CHAPITRE III. - Missions de service public.
+
+##### Art. 58
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Par dérogation à l'article 3, le contrat de gestion entre l'Etat et [<sup>1</sup> Proximus]<sup>1</sup> porte exclusivement sur les missions [<sup>2</sup> d'intérêt général visées à l'article 106 de la loi du 13 juin 2005 relative aux communications électroniques]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2015-08-10/26, art. 2, 092; En vigueur : 22-06-2015 (voir AR 2015-09-11/02, art. 1)&gt;
+
+(2)&lt;L 2021-12-21/05, art. 4, 107; En vigueur : 10-01-2022&gt;
+
+### CHAPITRE IV. - Administration.
+
+##### Art. 59
+
+Sans préjudice des dispositions de l'article 22 de la présente loi, le mandat d'administrateur, en qualité de représentant des autorités publiques visées à l'article 42 de la présente loi, est incompatible avec l'exercice d'une fonction quelconque dans l'Institut belge des services postaux et des télécommunications [<sup>1</sup> ...]<sup>1</sup> ou dans un établissement privé ou public, qui fournit dans un but de lucre des biens ou services de télécommunications.
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 5, 107; En vigueur : 10-01-2022&gt;
+
+##### Art. 59/1
+
+&lt;inséré par L 1994-12-12/31, art. 2, 009; En vigueur : 22-12-1994&gt; A l'article 37 de la présente loi, les mots " du présent titre " sont remplacés par les mots " de la présente loi ".
+
+##### Art. 59/2
+
+&lt;inséré par L 1994-12-12/31, art. 3, 009; En vigueur : 22-12-1994&gt; § 1. Outre l'application des dispositions visées aux §§ 1, 2 et 3 de l'article 38, le Roi peut, par arrêté délibéré en Conseil des Ministres, décider de la transformation de l'entreprise publique autonome [<sup>1</sup> Proximus]<sup>1</sup> en société anonyme de droit public, aux conditions et avec les statuts qu'Il détermine. Les §§ 4, 5 et 6 sont applicables à une telle transformation. Un réviseur d'entreprises, désigné par le Ministre dont relève [<sup>1</sup> Proximus]<sup>1</sup>, fait rapport sur un état résumant l'actif et le passif et indiquant le montant du capital social après la transformation. Ce montant ne peut être supérieur à l'actif net, tel qu'il résulte de l'état précité qui est établi par le conseil d'administration. Les conclusions du réviseur sont reprises dans le rapport au Roi.
+
+§ 2. Par dérogation à l'article 18, § 1, alinéa 1, le conseil d'administration de [<sup>1</sup> Proximus]<sup>1</sup> est composé de dix-huit membres au plus, en ce compris l'administrateur-délégué et les membres du comité de direction qui en sont membres.
+
+L'article 18, § 1, alinéa 2, n'est pas applicable à [<sup>1</sup> Proximus]<sup>1</sup>.
+
+(Les statuts de [<sup>1</sup> Proximus]<sup>1</sup> peuvent déroger à l'article 18, § 3.) &lt;L 1995-12-20/31, art. 81, 1°, 013; En vigueur : 02-01-1996&gt;
+
+§ 3. Au jour de l'entrée en vigueur de l'arrêté royal visé au § 3 de l'article 38 ou au § 1 du présent article, les fonctions des membres du conseil d'administration prennent fin de plein droit.
+
+§ 4. En ce qui concerne [<sup>1</sup> Proximus]<sup>1</sup>, la représentation pour la gestion journalière, les pouvoirs de l'administrateur-délégué, (et, le cas échéant,) le rôle et le fonctionnement du comité de direction ainsi que la nomination et la révocation des membres du comité de direction, autres que l'administrateur-délégué, seront déterminés par les statuts. Ces statuts peuvent déroger aux articles 19 et 20. &lt;L 1995-12-20/31, art. 81, 2°, 013; En vigueur : 02-01-1996&gt;
+
+(En ce qui concerne [<sup>1</sup> Proximus]<sup>1</sup>, à l'article 17, §§ 1er et 2, les mots "Comité de direction" sont remplacés par les mots "administrateur délégué".) &lt;L 1995-12-20/31, art. 81, 3°, 013; En vigueur : 02-01-1996&gt;
+
+En ce qui concerne [<sup>1</sup> Proximus]<sup>1</sup>, les mots " administrateur-directeur " sont remplacés par les mots " membre du comité de direction " dans les articles 20, 21 et 22.
+
+----------
+
+(1)&lt;L 2015-08-10/26, art. 2, 092; En vigueur : 22-06-2015 (voir AR 2015-09-11/02, art. 1)&gt;
+
+##### Art. 59/3
+
+&lt;inséré par L 1994-12-12/31, art. 4, 009; En vigueur : 22-12-1994&gt; Outre l'application de l'article 18, § 5, les modalités d'information, de vérification et de contrôle peuvent être définies par les statuts de [<sup>1</sup> Proximus]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2015-08-10/26, art. 2, 092; En vigueur : 22-06-2015 (voir AR 2015-09-11/02, art. 1)&gt;
+
+##### Art. 59/4
+
+&lt;inséré par L 1994-12-12/31, art. 5, 009; En vigueur : 22-12-1994&gt; § 1. Par dérogation aux articles 18, § 2, dernier alinéa, et 20, § 3, troisième alinéa, le président et les membres du conseil d'administration de [<sup>1</sup> Proximus]<sup>1</sup> nommés par le Roi, ne peuvent être révoqués que par arrêté royal délibéré en Conseil des Ministres.
+
+§ 2. Par dérogation à l'article 20, § 2, l'Administrateur-délégué de [<sup>1</sup> Proximus]<sup>1</sup> ne peut être révoqué que par arrêté royal délibéré en Conseil des Ministres.
+
+----------
+
+(1)&lt;L 2015-08-10/26, art. 2, 092; En vigueur : 22-06-2015 (voir AR 2015-09-11/02, art. 1)&gt;
+
+##### Art. 59/5
+
+&lt;inséré par 1994-12-12/31, art. 6, 009; En vigueur : 22-12-1994&gt; Outre l'application des articles 22, § 1, et 59, les statuts de l'entreprise définissent des incompatibilités supplémentaires en ce qui concerne les mandats d'administrateur de [<sup>1</sup> Proximus]<sup>1</sup>, de ses filiales et sous-filiales.
+
+----------
+
+(1)&lt;L 2015-08-10/26, art. 2, 092; En vigueur : 22-06-2015 (voir AR 2015-09-11/02, art. 1)&gt;
+
+##### Art. 59/6
+
+(Abrogé) &lt;L 2003-12-11/33, art. 16, 046; En vigueur : 15-12-2003&gt;
+
+##### Art. 59/7
+
+&lt;Inséré par L 1995-12-20/31, art. 82; En vigueur : 02-01-1996&gt; L'article 3, § 2, 6°, 8° et 10°, l'article 10, § 1er, alinéa 2, l'article 11, § 2, alinéas 2 et 3, et la deuxième phrase de l'article 12, § 3, ne sont pas applicables à [<sup>1</sup> Proximus]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2015-08-10/26, art. 2, 092; En vigueur : 22-06-2015 (voir AR 2015-09-11/02, art. 1)&gt;
+
+##### Art. 59/8
+
+&lt;Inséré par L 1995-12-20/31, art. 83; En vigueur : 02-01-1996&gt; A l'article 13, § 3, alinéa 1er, les mots "et donne droit statutairement à plus de 75 % des voix et des mandats dans tous les organes de la filiale concernée" ne sont pas applicables à [<sup>1</sup> Proximus]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2015-08-10/26, art. 2, 092; En vigueur : 22-06-2015 (voir AR 2015-09-11/02, art. 1)&gt;
+
+##### Art. 59/9
+
+[<sup>1</sup> Les articles 59/2, §§ 2 et 4, et 59/4 ne sont pas d'application aussi longtemps que les actions de Proximus sont admises à la négociation sur un marché réglementé au sens de l'article 2, 3°, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-12-16/30, art. 15, 093; En vigueur : 12-01-2016&gt;
+
+##### Art. 60
+
+Dans la loi du 19 juillet 1930 créant la Régie des télégraphes et des téléphones, sont abrogés :
+
+1° l'article 3, modifié par l'arrêté royal n° 91 du 11 novembre 1967;
+
+2° l'article 8, alinéas 2 et 3 et alinéa 4, modifié par l'arrêté royal n° 91 du 11 novembre 1967;
+
+3° l'article 10, 1°, 2°, 4° et 5°, modifié par la loi du 18 janvier 1962;
+
+4° les articles 11, 12 et 14;
+
+5° l'article 14bis, inséré par la loi du 18 janvier 1962;
+
+6° l'article 15, modifié par la loi du 23 décembre 1937;
+
+7° l'article 16;
+
+8° l'article 18, remplacé par la loi du 23 décembre 1937;
+
+9° l'article 19;
+
+10° l'article 20, remplacé par la loi du 23 décembre 1937.
+
+### CHAPITRE IVbis. - Actions émises par [<sup>1</sup> Proximus]<sup>1</sup>. &lt;inséré par 1994-12-12/31, art. 7, 009; En vigueur : 22-12-1994&gt;
+
+----------
+
+(1)&lt;L 2015-08-10/26, art. 2, 092; En vigueur : 22-06-2015 (voir AR 2015-09-11/02, art. 1)&gt;
+
+##### Art. 60/1
+
+&lt;inséré par L 1994-12-12/31, art. 7, 009; En vigueur : 22-12-1994&gt; § 1. (L'article 39, § 1er, alinéa 3, § 2 et § 5, et l'article 40, § 2, ne sont pas applicables à [<sup>1</sup> Proximus]<sup>1</sup>.) &lt;L 1995-12-20/31, art. 84, 1°, 013; En vigueur : 02-01-1996&gt;
+
+§ 2. Tous les titres représentatifs du capital sont nominatifs tant qu'ils sont détenus par une autorité publique au sens de l'article 42.
+
+§ 3. (L'Etat ne peut céder les actions qui lui sont attribuées à l'occasion de la transformation ou qu'il souscrirait lors d'une augmentation de capital ultérieure qu'à des personnes désignées par le Roi, par arrêté délibéré en Conseil des ministres, aux conditions qu'Il détermine et pour autant que la participation directe des autorités publiques ne descende pas en dessous de 50 pourcent des actions plus une action.) &lt;L 1995-12-20/31, art. 84, 2°, 013; En vigueur : 02-01-1996&gt;
+
+§ 4. (Sans préjudice de l'article 39, § 3, en cas de souscription d'actions par des personnes autres que des autorités publiques, une partie de l'émission peut être offerte par préférence aux membres du personnel de [<sup>1</sup> Proximus]<sup>1</sup> et de celui de ses filiales dans des conditions qui peuvent déroger à celles prévues à l'article 52septies, § 1er, alinéa 1er, et § 2, 4°, des lois sur les sociétés commerciales, coordonnées le 30 novembre 1935.) &lt;L 1995-12-20/31, art. 84, 3°, 013; En vigueur : 02-01-1996&gt;
+
+----------
+
+(1)&lt;L 2015-08-10/26, art. 2, 092; En vigueur : 22-06-2015 (voir AR 2015-09-11/02, art. 1)&gt;
+
+### CHAPITRE V. - Tutelle.
+
+##### Art. 61
+
+Dans la même loi, sont abrogés :
+
+1° l'article 9, remis en vigueur par l'arrêté royal du 18 novembre 1957 et modifié par l'arrête royal n° 91 du 11 novembre 1967;
+
+2° l'article 9bis, inséré par l'arrêté royal n° 91 du 11 novembre 1967.
+
+### CHAPITRE VI. - Moyens.
+
+##### Art. 62
+
+§ 1. Dans cette loi sont abrogés :
+
+1° l'article 2;
+
+2° l'article 4, modifié par l'arrêté royal n° 237 du 31 décembre 1983;
+
+3° les articles 5, 6 et 7;
+
+4° l'article 13, modifié par l'arrêté royal n° 91 du 11 novembre 1967;
+
+5° l'article 23, modifié par la loi du 13 octobre 1930 et par la loi du 30 juillet 1979;
+
+6° l'article 26.
+
+§ 2. Cinq pour cent des bénéfices annuels, avant le prélèvement de l'impôt sur les sociétés, seront versés au cadre et au personnel.
+
+[<sup>1</sup> Proximus]<sup>1</sup> SA de droit public a la possibilité de déroger aux dispositions prévues à l'alinéa précédent pour la répartition aux cadres et au personnel en 2004 de la part des bénéfices avant impôts des sociétés concernant 2003, après en avoir soumis la proposition à la Commission Paritaire conformément à l'article 34, § 2, B, 8°, et G, 2°, et après décision telle que prévue à l'article 35.
+
+[<sup>2</sup> Proximus SA de droit public a la possibilité de déroger aux dispositions prévues à l'alinéa premier pour la répartition au cadre et au personnel de la part des bénéfices avant impôts des sociétés, après en avoir soumis la proposition à la Commission Paritaire conformément à l'article 34, § 2, B, 8°, et G, 2°, et après décision telle que prévue à l'article 35.]<sup>2</sup> &lt;L 2003-12-22/42, art. 448, 047; En vigueur : 31-12-2003&gt;
+
+----------
+
+(1)&lt;L 2015-08-10/26, art. 2, 092; En vigueur : 22-06-2015 (voir AR 2015-09-11/02, art. 1)&gt;
+
+(2)&lt;L 2023-08-30/05, art. 2, 108; En vigueur : 01-01-2024&gt;
+
+### CHAPITRE VII. - Personnel.
+
+##### Art. 63
+
+Dans la loi du 19 juillet 1930 créant la Régie des télégraphes et des téléphones, l'article 21 modifié par l'arrêté royal n° 91 du 11 novembre 1967, est abrogé.
+
+### CHAPITRE VIII. - Responsabilité.
+
+##### Art. 64
+
+(Abrogé) &lt;L 1997-12-19/30, art. 12, 017; En vigueur : 01-01-1998&gt;
+
+##### Art. 65
+
+L'article 24 de la loi du 19 juillet 1930 créant la Régie des télégraphes et des téléphones, est abrogé.
+
+### CHAPITRE IX. - Dispositions transitoires et d'entrée en vigueur.
+
+##### Art. 66
+
+Le premier conseil d'administration et le premier comité de direction de BELGACOM, établis conformément à l'article 48 du titre Ier de la présente loi, exerceront une double mission jusqu'à son classement parmi les entreprises publiques autonomes, par dérogation aux dispositions du chapitre IV, du titre Ier susmentionné : d'une part, la négociation et la conclusion du premier contrat de gestion et, d'autre part, la reprise des pouvoirs de l'Administration générale de la Régie des télégraphes et des téléphones dans le cadre de la loi du 19 juillet 1930.
+
+##### Art. 67
+
+Les dispositions du présent titre entrent en vigueur à la date du classement de BELGACOM parmi les entreprises publiques autonomes, conformément au titre Ier de la présente loi, à l'exception :
+
+1° des articles 59 et 66, qui entrent en vigueur le jour de la publication au Moniteur belge;
+
+2° de l'article 63, qui entre en vigueur à la date de l'entrée en vigueur du premier statut du personnel et du premier statut syndical fixés conformément à l'article 33.
+
+## TITRE III. - Les télécommunications.
+
+### CHAPITRE I. - Définitions.
+
+##### Art. 68
+
+Pour l'application de la présente loi, on entend par :
+
+1° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+2° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+3° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+4° (abroge) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+(5° Réseau de télécommunications : les systèmes de transmission et, le cas échéant, l'équipement de commutation et autres ressources permettant le transport de signaux entre des points de terminaisons définis, par fils, par faisceaux hertziens, par moyens optiques ou par d'autres moyens electro-magnétiques;) &lt;L 1997-12-19/30, art. 13, 017; En vigueur : 01-01-1998&gt;
+
+(5°bis [<sup>2</sup> réseau public de communications électroniques]<sup>2</sup> : un réseau de télécommunications utilisé en tout ou partie pour la fourniture de services de télécommunications offerts au public;) &lt;L 1997-12-19/30, art. 13, 017; En vigueur : 01-01-1998&gt;
+
+6° (abroge) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+7° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+8° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+9° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+10° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+11° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+12° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+13° (...) &lt;L 1997-12-19/30, art. 13, 017; En vigueur : 01-01-1998&gt;
+
+14° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+15° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+16° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+17° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+18° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+(19° Service de télécommunications : service consistant, en tout ou en partie, en la transmission et l'acheminement de signaux par des réseaux de télécommunications, à l'exception [<sup>1</sup> des services de médias audiovisuels ou sonores]<sup>1</sup>;
+
+20° (abroge) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+21° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+21°bis. (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+22° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+23° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+24° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+25° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+26° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+27° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+28° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+29° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+30° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+31° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+32° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+33° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+34° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+35° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+36° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+37° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+38° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+39° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+40° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+41° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+42° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+43° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+44° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+45° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+46° (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 6, 107; En vigueur : 10-01-2022&gt;
+
+(2)&lt;L 2021-12-21/05, art. 7, 107; En vigueur : 10-01-2022&gt;
+
+### CHAPITRE II. - Dispositions générales. (abrogé) &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 69
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 70
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 70bis
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+### CHAPITRE III. - Institut belge des services postaux et des télécommunications. (abrogé) &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 71
+
+(abrogé) &lt;L 2007-04-25/38, art. 158 et 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 72
+
+(Abrogé) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 73
+
+(Abrogé. Les §§ 2 et 3 forment l'art. 26bis de la L 2003-01-17/30.) &lt;L 2007-04-25/38, art. 158, 159 et 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 74
+
+(Abrogé) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 75
+
+(Abrogé) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 76
+
+(Abrogé) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 77
+
+(Abrogé) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 78
+
+(Abrogé) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 79
+
+(Abrogé) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 79bis
+
+(Abrogé) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 79ter
+
+(Abrogé) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+### CHAPITRE IV. - Comité consultatif. (abrogé) &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 80
+
+(Abrogé) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 81
+
+(Abrogé) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+### CHAPITRE V. - (Le service public des télécommunications.) &lt;L 1997-12-19/30, art. 23, 017; En vigueur : 01-01-1998&gt;
+
+##### Art. 82
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+##### Art. 83
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+##### Art. 84
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+##### Art. 85
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+##### Art. 85bis
+
+(Abrogé) &lt;L 1997-12-19/30, art. 28, 017; En vigueur : 01-01-1998&gt;
+
+##### Art. 85ter
+
+(Abrogé) &lt;L 1997-12-19/30, art. 28, 017; En vigueur : 01-01-1998&gt;
+
+##### Art. 85quater
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+##### Art. 86
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+##### Art. 86bis
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt;
+
+##### Art. 86ter
+
+&lt;Inséré par L 1997-12-19/30, art. 31; En vigueur : 01-01-1998&gt; § 1er. [<sup>1</sup> Proximus]<sup>1</sup> est tenue de participer à :
+
+\- la collaboration à la défense civile dans le cadre du Comité national des Plans de défense civile;
+
+\- la collaboration à la Commission mixte des télécommunications, créée par l'arrêté royal du 10 décembre 1957, modifié par l'arrêté royal du 24 septembre 1993;
+
+\- la mise à disposition de toutes les lignes louées nécessaires pour les réseaux de télécommunications au profit des institutions visées à l'article 91, alinéa 2, de la présente loi. La qualité et la capacité des lignes louées concernées ainsi que le payement sont déterminés dans le contrat de gestion conclu entre [<sup>1</sup> Proximus]<sup>1</sup> et l'Etat fédéral ou dans un contrat, en ce qui concerne les autres opérateurs.
+
+Tous les autres opérateurs peuvent participer seuls ou ensemble, à des conditions équivalentes, à des services d'intérêt général visés dans le présent paragraphe, et ce, aux conditions fixées par le Roi et sur avis de l'institut.
+
+§ 2. [<sup>1</sup> Proximus]<sup>1</sup> assure la mise à disposition à un prix abordable en ce qui concerne la connexion, le coût des communications et de la redevance, d'une ligne permettant l'interactivité, en vue de fournir un accès à des réseaux de données, notamment Internet, et répondre ainsi aux besoins particuliers des hôpitaux, écoles et bibliothèques publiques.
+
+Cette mise à disposition est faite dans les conditions décrites à l'annexe 3 à la présente loi. Le Roi peut (...), par arrêté délibéré en Conseil des Ministres, suivant la procédure décrite à l'article 122, §§ 2 et 3, de la présente loi, modifier cette annexe 3 en vue de répondre au progrès technologique et social. &lt;L 2003-01-17/30, art. 42, 043; En vigueur : 23-04-2003&gt;
+
+Tous les autres opérateurs peuvent, seuls ou conjointement, aux conditions fixées par le Roi (...), participer, à des conditions équivalentes, aux services d'intérêt général visés au présent paragraphe. &lt;L 2003-01-17/30, art. 42, 043; En vigueur : 23-04-2003&gt;
+
+§ 3. [<sup>1</sup> Proximus]<sup>1</sup> peut être chargée, par arrêté délibéré en Conseil des Ministres, d'autres missions d'intérêt général.
+
+Tous les autres opérateurs peuvent participer, seuls ou ensemble, à des conditions équivalentes, à des services d'intérêt général visés dans le présent paragraphe, et ce, aux conditions fixées par le Roi et sur avis de l'institut.
+
+(§ 4. [<sup>1</sup> Proximus]<sup>1</sup> assure à ses frais la fourniture d'un tarif téléphonique spécial en faveur des quotidiens et hebdomadaires politiques et d'information générale et des agences de presse établies en Belgique et avec lesquelles la majorité des journaux à diffusion nationale ou à large diffusion en Belgique ont souscrit un contrat d'abonnement.) &lt;L 2001-07-19/38, art. 31, 035; En vigueur : 28-07-2001&gt;
+
+----------
+
+(1)&lt;L 2015-08-10/26, art. 2, 092; En vigueur : 22-06-2015 (voir AR 2015-09-11/02, art. 1)&gt;
+
+### CHAPITRE VI. - (Les autres services de télécommunications.) (abrogé) &lt;L 1997-12-19/30, art. 32, 017; En vigueur : 01-01-1998&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 87
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 88
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 89
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 90
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 90bis
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+### CHAPITRE VII. - Installations de télécommunications. (abrogé) &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 91
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 92
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 92bis
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 92ter
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 92quater
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 92quinquies
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+### CHAPITRE VIII. - (Equipements.) &lt;L 2000-07-03/31, art. 10, 030; En vigueur : 08-04-2000&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 93
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 94
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 95
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 96
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+##### Art. 96bis
+
+(abrogé) &lt;L 2007-04-25/38, art. 160, 067; En vigueur : 18-05-2007&gt;
+
+### CHAPITRE IX. - Câbles, lignes aériennes et équipements connexes.
+
+##### Art. 97
+
+§ 1. Dans les conditions prévues dans ce chapitre, (tout opérateur d'un [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup>) est autorisée à faire usage du domaine public et des propriétés pour établir des câbles, lignes aériennes et équipements connexes et exécuter tous les travaux y afférents, dans le respect de leur destination et des dispositions légales et réglementaires régissant leur utilisation. &lt;L 1997-12-19/30, art. 48, 017; En vigueur : 01-01-1998&gt;
+
+Font partie de ces travaux, ceux qui sont nécessaires au maintien, à la modification, à la réparation, à l'enlèvement et au contrôle des câbles, lignes aériennes et équipements connexes.
+
+§ 2. Les câbles, lignes aériennes et équipements connexes établis restent la propriété de (l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné) [<sup>2</sup> , même si ceux-ci sont installés dans les parties communes d'un bâtiment conformément à l'article 3.82, § 2, du Code civil]<sup>2</sup>. &lt;L 1997-12-19/30, art. 48, 017; En vigueur : 01-01-1998&gt;
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 7, 107; En vigueur : 10-01-2022&gt;
+
+(2)&lt;L 2021-12-21/05, art. 8, 107; En vigueur : 10-01-2022&gt;
+
+##### Art. 98
+
+(NOTE : voir plus loin forme(s) non fédérale(s) de cet article.) § 1er. Avant d'établir des câbles, lignes aériennes et équipements connexes sur le domaine public, (tout opérateur d'un [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup>) soumet le plan des lieux et les caractéristiques d'aménagement à l'approbation de l'autorité dont relève le domaine public. &lt;L 1997-12-19/30, art. 49, 017; En vigueur : 01-01-1998&gt;
+
+Cette autorité devra statuer dans les deux mois à compter du dépôt du plan et donner notification de sa décision à (l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné). Passé ce délai, le silence de autorité vaut approbation. &lt;L 1997-12-19/30, art. 49, 017; En vigueur : 01-01-1998&gt;
+
+En cas de contestation persistante, il est statué par arrêté royal.
+
+§ 2. Pour ce droit d'utilisation, l'autorité ne peut imposer à (l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné) aucun impôt, taxe, péage, rétribution ou indemnité, de quelque nature que ce soit. &lt;L 1997-12-19/30, art. 49, 017; En vigueur : 01-01-1998&gt;
+
+(Tout opérateur d'un [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup>) détient en outre un droit de passage gratuit pour les câbles, lignes aériennes et équipements connexes dans les ouvrages publics ou privés situés dans le domaine public.&lt;L 1997-12-19/30, art. 49, 017; En vigueur : 01-01-1998&gt;
+
+§ 3. L'autorité a le droit de faire modifier l'installation ou le plan d'aménagement des câbles, lignes aériennes et équipements connexes à l'occasion de travaux qu'elle désire effectuer au domaine public qu'elle gère. Elle doit en informer (l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné) par lettre recommandée à la poste au moins deux mois avant de commencer l'exécution des travaux. Les frais inhérents à la modification des câbles, lignes aériennes et équipements connexes sont à charge de (l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné). &lt;L 1997-12-19/30, art. 49, 017; En vigueur : 01-01-1998&gt;
+
+Lorsque ces travaux au domaine public ne sont pas entrepris ou lorsque l'autorité a demandé la modification des câbles, lignes aériennes et équipements connexes en faveur d'une autre personne, (l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné) peut mettre les frais de modification à la charge de l'autorité. &lt;L 1997-12-19/30, art. 49, 017; En vigueur : 01-01-1998&gt;
+
+COMMUNAUTES ET REGIONS
+
+Art. 98. (Région de Bruxelles-Capitale)
+
+§ 1er. (NOTE : § 1er abrogé pour la Région de Bruxelles-Capitale en tant qu'il vise les chantiers. &lt;ORD 2008-07-03/43, art. 91, 071; En vigueur : 01-11-2013&gt;) Avant d'établir des câbles, lignes aériennes et équipements connexes sur le domaine public, (tout opérateur d'un [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup>) soumet le plan des lieux et les caractéristiques d'aménagement à l'approbation de l'autorité dont relève le domaine public. &lt;L 1997-12-19/30, art. 49, 017; En vigueur : 01-01-1998&gt;
+
+Cette autorité devra statuer dans les deux mois à compter du dépôt du plan et donner notification de sa décision à (l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné). Passé ce délai, le silence de autorité vaut approbation. &lt;L 1997-12-19/30, art. 49, 017; En vigueur : 01-01-1998&gt;
+
+En cas de contestation persistante, il est statué par arrêté royal.
+
+§ 2. Pour ce droit d'utilisation, autorité ne peut imposer à (l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné) aucun impôt, taxe, péage, rétribution ou indemnité, de quelque nature que ce soit. &lt;L 1997-12-19/30, art. 49, 017; En vigueur : 01-01-1998&gt;
+
+(Tout opérateur d'un [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup>) détient en outre un droit de passage gratuit pour les câbles, lignes aériennes et équipements connexes dans les ouvrages publics ou privés situés dans le domaine public. &lt;L 1997-12-19/30, art. 49, 017; En vigueur : 01-01-1998&gt;
+
+§ 3. L'autorité a le droit de faire modifier l'installation ou le plan d'aménagement des câbles, lignes aériennes et équipements connexes à l'occasion de travaux qu'elle désire effectuer au domaine public qu'elle gère. Elle doit en informer (l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné) par lettre recommandée à la poste au moins deux mois avant de commencer l'exécution des travaux. Les frais inhérents à la modification des câbles, lignes aériennes et équipements connexes sont à charge de (l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné). &lt;L 1997-12-19/30, art. 49, 017; En vigueur : 01-01-1998&gt;
+
+Lorsque ces travaux au domaine public ne sont pas entrepris ou lorsque l'autorité a demandé la modification des câbles, lignes aériennes et équipements connexes en faveur d'une autre personne, (l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné) peut mettre les frais de modification à la charge de l'autorité. &lt;L 1997-12-19/30, art. 49, 017; En vigueur : 01-01-1998&gt;
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 7, 107; En vigueur : 10-01-2022&gt;
+
+##### Art. 99
+
+§ 1. (Tout opérateur d'un [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup>) dispose à titre gratuit du droit, pour l'établissement des câbles, lignes aériennes et équipements connexes, de fixer à demeure des supports sur des murs et façades donnant sur la voie publique, d'utiliser des terrains ouverts et non bâtis, de traverser ou de franchir des propriétés sans attache ni contact. &lt;L 1997-12-19/30, art. 50, 017; En vigueur : 01-01-1998&gt;
+
+§ 2. Lorsque (un opérateur d'un [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup>) a l'intention d'établir des câbles, lignes aériennes et équipements connexes, de les enlever ou d'y exécuter des travaux, elle tend à rechercher un accord quant à l'endroit et la méthode d'exécution des travaux, avec la personne dont la propriété sert d'appui, est franchie ou traversée. &lt;L 1997-12-19/30, art. 49, 017; En vigueur : 01-01-1998&gt;
+
+A défaut d'accord, (l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné) transmet par lettre recommandée à la poste une description claire de l'endroit projeté et de la méthode d'exécution des travaux, à la personne dont la propriété sert d'appui, est franchie ou traversée. Dans les huit jours francs de la réception de ce courrier, la personne dont la propriété sert d'appui, est franchie ou traversée peut introduire une réclamation motivée auprès de l'Institut. L'introduction de la réclamation suspend l'exécution de l'intention. L'Institut entend les deux parties et prend une décision motivée dans un délai d'un mois après réception de la réclamation. &lt;L 1997-12-19/30, art. 50, 017; En vigueur : 01-01-1998&gt;
+
+§ 3. L'exécution de ces travaux n'entraîne aucune dépossession.
+
+Le propriétaire ou l'ayant droit débiteur de la servitude conserve le droit d'exécuter tous autres travaux à la propriété privée, sous réserve de ne prendre aucune mesure qui viserait uniquement à modifier ou déplacer les câbles, lignes aériennes et équipements connexes.
+
+Il doit en avertir (tout opérateur d'un [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné) par lettre recommandée à la poste, au moins deux mois avant le début des travaux qui impliquent une modification ou un déplacement des câbles, lignes aériennes et équipements connexes. &lt;L 1997-12-19/30, art. 50, 017; En vigueur : 01-01-1998&gt;
+
+Les frais de modification ou de déplacement des câbles, lignes aériennes et équipements connexes sont à charge de (tout opérateur d'un [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné). &lt;L 1997-12-19/30, art. 50, 017; En vigueur : 01-01-1998&gt;
+
+Sauf en cas de force majeure, lorsque les travaux envisagés n'ont pas débuté dans un délai d'un an à dater de cet avertissement, (tout opérateur d'un [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné) peut mettre les frais occasionnés par la modification des câbles, lignes aériennes et équipements connexes à charge du propriétaire ou de l'ayant droit et également rétablir la situation primitive aux frais de celui-ci, si cela s'avère nécessaire. &lt;L 1997-12-19/30, art. 50, 017; En vigueur : 01-01-1998&gt;
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 7, 107; En vigueur : 10-01-2022&gt;
+
+##### Art. 100
+
+L'établissement et l'exécution de tous les autres travaux aux câbles, lignes aériennes et équipements connexes, dans, contre et sur des bâtiments ainsi que dans et sur des terrains y attenant, pour les besoins de raccordements à l'infrastructure dans ces bâtiments, doivent être tolérés par le propriétaire et l'ayant droit, à moins qu'ils aient accepté de supporter le coût supplémentaire d'une contre-proposition.
+
+##### Art. 101
+
+§ 1. Lorsque des branches ou des racines constituent raisonnablement un obstacle pour l'établissement, la maintenance et le fonctionnement des câbles, lignes aériennes et équipements connexes, le propriétaire ou l'ayant droit doit les raccourcir à la demande de (l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné). &lt;L 1997-12-19/30, art. 51, 017; En vigueur : 01-01-1998&gt;
+
+Si le propriétaire ou l'ayant droit n'a pas donné suite à la requête après un mois, (l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné) peut procéder elle-même au raccourcissement. &lt;L 1997-12-19/30, art. 51, 017; En vigueur : 01-01-1998&gt;
+
+§ 2. Les frais du raccourcissement sont à charge :
+
+1° du propriétaire ou de l'ayant droit lorsque les arbres ou plantations se trouvent sur sa propriété privée et que leurs branches ou leurs racines constituent un obstacle, des dérangements aux câbles, lignes aériennes et équipements connexes :
+
+a) qui se trouvent dans ou au-dessus du domaine public;
+
+b) qui se trouvent dans ou au-dessus de sa propriété privée et servent à son raccordement;
+
+2° de (l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné), dans les autres cas. &lt;L 1997-12-19/30, art. 51, 017; En vigueur : 01-01-1998&gt;
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 7, 107; En vigueur : 10-01-2022&gt;
+
+##### Art. 102
+
+Lorsque la présence d'une installation d'eau, de gaz, d'électricité, de radiodistribution, de télédistribution (de télécommunication) ou de toute autre installation d'utilité publique gêne l'exécution de travaux aux câbles, lignes aériennes et équipements connexes, (tout opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné) prend à sa charge les frais occasionnés par la modification, à sa demande, de l'installation d'utilité publique. (Cette modification est faite exclusivement par l'administrateur de l'installation d'utilité publique concernée ou l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné, chacun pour ce qui le concerne.) &lt;L 1997-12-19/30, art. 52, 017; En vigueur : 01-01-1998&gt;
+
+Sauf en cas d'application des articles 98, § 3, et 99, § 3, l'administrateur d'une installation d'utilité publique visée à l'alinéa 1er prend à sa charge les frais occasionnés par la modification, à sa demande, des câbles, lignes aériennes et équipements connexes dont la présence gêne l'exécution de travaux à son installation. (Cette modification est faite exclusivement par l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné ou l'administrateur de l'installation d'utilité publique visée à l'alinéa 1er.) &lt;L 1997-12-19/30, art. 52, 017; En vigueur : 01-01-1998&gt;
+
+Les modifications visées au premier et deuxième alinéa ne peuvent être réclamées qu'en cas de nécessité absolue.
+
+Il peut être dérogé aux dispositions visées au premier et deuxième alinéa par convention réciproque entre (tout opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné) et l'administrateur de l'installation d'utilité publique. &lt;L 1997-12-19/30, art. 52, 017; En vigueur : 01-01-1998&gt;
+
+Lorsqu'une personne demande de modifier les câbles, lignes aériennes et équipements connexes, dans d'autres cas que ceux visés au deuxième alinéa et aux articles 98, § 3, et 99, § 3, (l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné) peut effectuer cette modification à condition que cela ne nuise pas à l'usage normal des télécommunications publiques et que le demandeur prenne les frais à sa charge. &lt;L 1997-12-19/30, art. 52, 017; En vigueur : 01-01-1998&gt;
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 7, 107; En vigueur : 10-01-2022&gt;
+
+##### Art. 103
+
+(Voir plus loin forme(s) non fédérale(s) de cet article.) § 1er. Lorsque (l'opérateur d'un [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup>) exécute les travaux visés aux articles 97 à 102 inclus, (il) est (tenu) de rétablir le bien dans son état primitif dans les meilleurs délais, selon les cas, soit par (lui-même), soit par personne interposée. &lt;L 1997-12-19/30, art. 53, 017; En vigueur : 01-01-1998&gt;
+
+Il peut être dérogé à la disposition du premier alinéa par convention entre (l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné) et le propriétaire ou l'ayant droit du bien. &lt;L 1997-12-19/30, art. 53, 017; En vigueur : 01-01-1998&gt;
+
+§ 2. Les dispositions du § 1er, alinéa 1er, ne sont pas applicables au dommage occasionné inévitablement à un bien lorsque (l'opérateur d'un [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup>) exécute un travail nécessaire pour les raccordements du propriétaire ou de l'ayant droit de ce bien. &lt;L 1997-12-19/30, art. 53, 017; En vigueur : 01-01-1998&gt;
+
+COMMUNAUTES ET REGIONS
+
+Art. 103. (Région de Bruxelles-Capitale)
+
+§ 1er. (NOTE : § 1er abrogé pour la Région de Bruxelles-Capitale en tant qu'il vise les chantiers. &lt;ORD 2008-07-03/43, art. 91, 071; En vigueur : 01-11-2013&gt;) Lorsque (l'opérateur d'un [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup>) exécute les travaux visés aux articles 97 à 102 inclus, (il) est (tenu) de rétablir le bien dans son état primitif dans les meilleurs délais, selon les cas, soit par (lui-même), soit par personne interposée. &lt;L 1997-12-19/30, art. 53, 017; En vigueur : 01-01-1998&gt;
+
+Il peut être dérogé à la disposition du premier alinéa par convention entre (l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné) et le propriétaire ou l'ayant droit du bien. &lt;L 1997-12-19/30, art. 53, 017; En vigueur : 01-01-1998&gt;
+
+§ 2. Les dispositions du § 1er, alinéa 1er, ne sont pas applicables au dommage occasionné inévitablement à un bien lorsque (l'opérateur d'un [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup>) exécute un travail nécessaire pour les raccordements du propriétaire ou de l'ayant droit de ce bien. &lt;L 1997-12-19/30, art. 53, 017; En vigueur : 01-01-1998&gt;
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 7, 107; En vigueur : 10-01-2022&gt;
+
+##### Art. 104
+
+Le gestionnaire d'installations électriques ou autres, situées au-dessus, dans, contre ou sur un domaine public ou une propriété privée et qui, par leur proximité, leurs caractéristiques physiques ou techniques ou leurs conditions d'utilisation, ont ou peuvent avoir un effet néfaste sur le [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup>, sur les personnes travaillant à (ce réseau) ou sur les utilisateurs de (ce réseau), doit prendre, à ses frais, toutes les dispositions nécessaires pour éviter cet effet néfaste. &lt;L 1997-12-19/30, art. 54, 017; En vigueur : 01-01-1998&gt;
+
+Le gestionnaire d'installations électriques ou autres situées au-dessus, dans, contre ou sur un domaine public ou une propriété privée doit, sur demande spécifique de (tout opérateur d'un [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup>), à ses frais, mettre ces installations hors tension ou encore prendre ou faire prendre toutes les mesures nécessaires pour faire exécuter les travaux (au [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> en sécurité. &lt;L 1997-12-19/30, art. 54, 017; En vigueur : 01-01-1998&gt;
+
+Le propriétaire ou l'ayant droit d'un bien doit prendre toutes les mesures pour permettre une exécution sans entrave de tous les travaux aux câbles, lignes aériennes et équipements connexes.
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 7, 107; En vigueur : 10-01-2022&gt;
+
+##### Art. 104_REGION_FLAMANDE
+
+Le gestionnaire d'installations électriques ou autres, situées au-dessus, dans, contre ou sur un domaine public ou une propriété privée et qui, par leur proximité, leurs caractéristiques physiques ou techniques ou leurs conditions d'utilisation, ont ou peuvent avoir un effet néfaste sur (le [<sup>2</sup> réseau public de communications électroniques]<sup>2</sup>, sur les personnes travaillant à (ce réseau) ou sur les utilisateurs de (ce réseau), doit prendre, à ses frais, toutes les dispositions nécessaires pour éviter cet effet néfaste. &lt;L 1997-12-19/30, art. 54, 017; En vigueur : 01-01-1998&gt;
+
+Le gestionnaire d'installations électriques ou autres situées au-dessus, dans, contre ou sur un domaine public ou une propriété privée doit, sur demande spécifique de (tout opérateur d'un [<sup>2</sup> réseau public de communications électroniques]<sup>2</sup>), à ses frais, mettre ces installations hors tension ou encore prendre ou faire prendre toutes les mesures nécessaires pour faire exécuter les travaux (au réseau public) de télécommunications en sécurité. &lt;L 1997-12-19/30, art. 54, 017; En vigueur : 01-01-1998&gt;
+
+Le propriétaire ou l'ayant droit d'un bien doit prendre toutes les mesures pour permettre une exécution sans entrave de tous les travaux aux câbles, lignes aériennes et équipements connexes.
+
+[<sup>1</sup> Les coûts pour les mesures visées aux alinéas 1er et 2 ne sont pas à charge du gestionnaire d'installations électriques ou autres situées au-dessus, dans, contre ou sur un domaine public ou une propriété privée si un opérateur d'un réseau de communications électroniques revendique le droit d'accès conformément à [<sup>3</sup> l'article 3 du règlement (UE) 2024/1309 du Parlement européen et du Conseil du 29 avril 2024 relatif à des mesures visant à réduire le coût du déploiement de réseaux gigabit de communications électroniques, modifiant le règlement (UE) 2015/2120 et abrogeant la directive 2014/61/UE (règlement sur les infrastructures gigabit)]<sup>3</sup>.
+
+En cas de droit d'accès conformément à [<sup>3</sup> l'article 3 du règlement (UE) 2024/1309 du Parlement européen et du Conseil du 29 avril 2024 relatif à des mesures visant à réduire le coût du déploiement de réseaux gigabit de communications électroniques, modifiant le règlement (UE) 2015/2120 et abrogeant la directive 2014/61/UE (règlement sur les infrastructures gigabit) ]<sup>3</sup>, l'alinéa 3 ne s'applique pas si le propriétaire ou l'ayant droit du bien est le gestionnaire d'un domaine public ou d'une voie publique]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-11-10/01, art. 12, 103; En vigueur : 24-11-2017&gt;
+
+(2)&lt;L 2021-12-21/05, art. 13, 107; En vigueur : 10-01-2022&gt;
+
+(3)&lt;DCFL 2026-07-03/01, art. 2, 115; En vigueur : 23-07-2026&gt;
+
+##### Art. 105
+
+(Abrogé) &lt;L 1997-12-19/30, art. 55, 017; En vigueur : 01-01-1998&gt;
+
+### CHAPITRE IXBIS. - (Gestion de l'espace de numérotation national.) (abrogé) &lt;Inséré par AR 1996-10-28/50, art. 12, En vigueur : 10-12-1996&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 105bis
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+### CHAPITRE IXTER. - (Protection des utilisateurs.) (abrogé) &lt;Inséré par L 1997-12-19/30, art. 57; En vigueur : 01-01-1998&gt;
+
+##### Art. 105ter
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 105quater
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 105quinquies
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 105sexiesA
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 105sexiesB
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 105septies
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 105octies
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 105nonies
+
+(NOTE de Justel : au lieu de "nonies", il faudrait "novies".) (abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 105deciesA
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 105deciesB
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 105undecies
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+### CHAPITRE X. - (Opérateurs puissants, orientation sur les coûts et interconnexion.) (abrogé) &lt;L 2003-01-17/30, art. 42, 043; En vigueur : 23-04-2003&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 106
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 107
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 108
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 108bis
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 109
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 109bis
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 109ter
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 109terB
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+### CHAPITRE XBIS. - (Secret des communications et protection de la vie privée.) (abrogé) &lt;Inséré par L 1997-12-19/30, art. 75; En vigueur : 01-01-1998&gt; &lt;W 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 109terC
+
+(abroge) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 109terD
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 109terE
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 109terF
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 056; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+### CHAPITRE XI. - (Sanctions, surveillance, (...) et dispositions pénales). &lt;L 1995-12-20/31, art. 98; En vigueur : 02-01-1996&gt; &lt;L 1997-12-19/30, art. 80, 017; En vigueur : 01-01-1998&gt;
+
+##### Art. 109quater
+
+(Abrogé) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt;
+
+##### Art. 110
+
+(Abrogé) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt;
+
+##### Art. 111
+
+(NOTE : Abrogé par L 1997-12-19/30, art. 83, et rétabli par &lt;L 2001-12-30/30, art. 151, 038; En vigueur : 01-01-2002&gt;) Nul ne peut, dans le Royaume, via l'infrastructure des télécommunications, donner ou tenter de donner des communications portant atteinte au respect des lois, à la sécurité de l'Etat, à l'ordre public ou aux bonnes moeurs ou constituant une offense à l'égard d'un Etat étranger.
+
+(NOTE : par son arrêt n° 69/2003 du 14-05-2003 (M.B. 30-05-2003, p. 29588), la Cour d'Arbitrage a annulé le rétablissement de cet article)
+
+##### Art. 112
+
+(Abrogé) &lt;L 1997-12-19/30, art. 83, 017; En vigueur : 01-01-1998&gt;
+
+##### Art. 113
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt;
+
+##### Art. 114
+
+§ 1. Est punie [<sup>2</sup> d'une peine de niveau 1]<sup>2</sup> :
+
+1° la personne qui, sauf en cas de force majeure, effectue ou fait effectuer, sans en aviser (l'opérateur de réseau de télécommunications concerné) au moins huit jours d'avance par lettre recommandée à la poste, tous travaux pouvant endommager l'infrastructure ou mettre en danger son fonctionnement; &lt;L 1997-12-19/30, art. 85, 017; En vigueur : 01-01-1998&gt;
+
+2° la personne qui, lorsqu'elle effectue ou fait effectuer un travail visé au 1°, ne respecte pas les directives prescrites par (le fournisseur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné) en vue de la protection de l'infrastructure. &lt;L 1997-12-19/30, art. 85, 017; En vigueur : 01-01-1998&gt;
+
+3° (abrogé) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt;
+
+§ 2. (abroge) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt;
+
+§ 3. Est punie [<sup>2</sup> d'une peine de niveau 1 où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 40.000 euros]<sup>2</sup>, la personne qui involontairement, par défaut de prévoyance ou de précaution, endommage ou détériore une partie d'un [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup>, ou en gêne ou empêche le fonctionnement. &lt;L 1997-12-19/30, art. 85, 017; En vigueur : 01-01-1998&gt;
+
+Lorsqu'un de ces actes est le fait d'une personne au service d'un tiers, la peine est imposée à l'employeur ou à la personne responsable du travail, selon que celle-ci ou celui-là a omis d'informer le travailleur en question de la présence (d'un [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> ou des directives fournies par l'opérateur du [<sup>1</sup> réseau public de communications électroniques]<sup>1</sup> concerné) en vue de la protection de cette infrastructure. &lt;L 1997-12-19/30, art. 85, 017; En vigueur : 01-01-1998&gt;
+
+§ 4. Est punie [<sup>2</sup> d'une peine de niveau 1 où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 200.000 euros, la personne qui a posé délibérément]<sup>2</sup> les actes prévus au § 3.
+
+§ 5. Est punie [<sup>2</sup> d'une peine de niveau 1 où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 80.000 euros]<sup>2</sup>, la personne condamnée sur base du § 3 et qui involontairement, par défaut de prévoyance et de précaution, récidive dans un délai d'un an à dater du prononce du jugement ou de l'arrêt coulé en force de chose jugée.
+
+§ 6. Est punie [<sup>2</sup> d'une peine de niveau 2, où, par dérogation aux articles 36 et 38 du Code pénal, d'une amende maximale de 400.000 euros, la personne condamnée sur la base du paragraphe 3 et qui récidive délibérément]<sup>2</sup> dans un des actes prévus à ce paragraphe, dans un délai d'un an à dater du prononcé du jugement ou de l'arrêt coulé en force de chose jugée.
+
+§ 7. (abrogé) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt;
+
+§ 8. (abrogé) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt;
+
+§ 9. (abrogé) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt;
+
+§ 10. (abrogé) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt;
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 7, 107; En vigueur : 10-01-2022&gt;
+
+(2)&lt;L 2026-07-02/05, art. 8, 116; En vigueur : 01-09-2026&gt;
+
+##### Art. 115
+
+(Abrogé) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt;
+
+##### Art. 116
+
+(Abrogé) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt;
+
+##### Art. 117
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt;
+
+##### Art. 117bis
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt;
+
+##### Art. 117ter
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt;
+
+##### Art. 118
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt;
+
+### CHAPITRE XII. - Dispositions diverses. (abrogé) &lt;W 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 119
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 120
+
+(Abrogé) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 121
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 122
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 123
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 124
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 125
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 126
+
+(Abrogé) &lt;L 1997-12-19/30, art. 89, 017; En vigueur : 01-01-1998&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 127
+
+(Abrogé) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 128
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+##### Art. 128bis
+
+(abrogé) &lt;L 2005-06-13/32, art. 155, 057; En vigueur : 30-06-2005&gt; &lt;L 2007-04-25/38, art. 160, 068; En vigueur : 18-05-2007&gt;
+
+## TITRE IV. - Réforme de la Régie des postes.
+
+### CHAPITRE I. - Dénomination.
+
+##### Art. 129
+
+&lt;disposition modificative de l'art. 1, al. 1, de L 1971-07-06/30&gt;
+
+##### Art. 130
+
+Les mots " Régie des postes ", " Administration des postes ", et " Office des chèques postaux " dans tous les articles de la loi du 6 juillet 1971 portant création de la Régie des postes, de la loi du 26 décembre 1956 sur le Service des postes et de la loi du 2 mai 1956 sur le chèque postal, sont remplacés par les mots " LA POSTE ".
+
+Les mots " Régie des Postes ", " Administration des Postes ", " Office des chèques postaux " et " Régie ", lorsque l'on vise la Régie des Postes, sont remplacés par les mots " LA POSTE " dans toutes les lois et règlements.
+
+[<sup>1</sup> Les mots " LA POSTE " dans tous les articles de la loi du 6 juillet 1971 portant création de la Régie des Postes, de la loi du 26 décembre 1956 sur le Service des postes et de la loi du 2 mai 1956 sur le chèque postal, lorsqu'ils ont été introduits en vertu de l'alinéa premier, sont remplacés par le mot " bpost ".
+
+Dans toutes les lois et règlements, les mots " LA POSTE ", lorsqu'ils ont été introduits en vertu de l'alinéa 2, sont remplacés par le mot " bpost.]<sup>1</sup>
+
+[<sup>2</sup> Dans toutes les lois, les mots " LA POSTE ", lorsqu'ils font référence à la personne morale visée à l'article 1er de la loi du 6 juillet 1971 relative à la création de LA POSTE et à certains services postaux, sont remplacés par le mot " bpost ".]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 078; En vigueur : 17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+(2)&lt;L 2010-12-29/01, art. 190, 079; En vigueur : 17-01-2011, voir AR 2011-01-10/01, art. 1, 2°&gt;
+
+### CHAPITRE II. - Définitions et siège social.
+
+##### Art. 131
+
+[<sup>1</sup> Pour l'application du présent titre, on entend par :
+
+1° services postaux : des services qui consistent en la levée, le tri, l'acheminement et la distribution des envois postaux.
+
+La prestation de services postaux par la personne physique ou morale qui est à l'origine de l'envoi du courrier est exclue du champ d'application de la définition;
+
+2° prestataire de services postaux : toute entreprise qui fournit un ou plusieurs services postaux;
+
+3° réseau postal : l'ensemble de l'organisation et des moyens de toute nature mis en oeuvre par le ou les prestataires du service universel, en vue notamment de :
+
+a) la levée des envois postaux couverts par une obligation de service universel aux points d'accès sur l'ensemble du territoire;
+
+b) l'acheminement et le traitement de ces envois du point d'accès du réseau postal jusqu'au centre de distribution;
+
+c) la distribution à l'adresse indiquée sur l'envoi postal;
+
+4° point d'accès : les installations physiques, notamment les boîtes aux lettres mises à la disposition du public soit sur la voie publique, soit dans les locaux du ou des prestataires de services postaux, où les envois postaux peuvent être confiés au réseau postal par les expéditeurs;
+
+[<sup>2</sup> 4° bis point de service postal: un bureau de poste, [<sup>3</sup> ou un point poste]<sup>3</sup>;
+
+4° ter bureau de poste: un point de service postal exploité par bpost qui propose au client au moins l'assortiment complet de services, c'est-à-dire:
+
+a) l'assortiment de base;
+
+b) l'exécution des opérations relatives au service bancaire de base tel que défini par [<sup>3</sup> l'article VII.57 du Code de droit économique]<sup>3</sup>;
+
+c) [<sup>3</sup> ...]<sup>3</sup>
+
+d) [<sup>3</sup> ...]<sup>3</sup>
+
+e) l'acceptation de versements sur des comptes ouverts auprès de bpost ou d'autres institutions financières;
+
+f) le retrait en espèces d'un compte quelle que soit la méthode proposée;
+
+g) le paiement des assignations -P;
+
+h) la réception de bulletins de virement relatifs à des paiements à partir d'un compte propre;
+
+4° quater [<sup>3</sup> point poste]<sup>3</sup>: un point de service postal exploité par un tiers, où celui-ci exécute les services publics dont bpost lui a confié l'exécution (au nom et pour le compte de bpost);
+
+4° quinquies [<sup>3</sup> ...]<sup>3</sup>
+
+4° sexies assortiment de base: les services suivants:
+
+a) la réception d'envois de courrier égrené et de colis postaux individuels faisant partie du service postal universel, à l'exception des envois avec valeur déclarée;
+
+b) la conservation et la remise d'envois recommandés individuels et de colis postaux individuels faisant partie du service postal universel et pour lesquels un avis a été remis à la suite d'une présentation à domicile infructueuse;
+
+c) la vente de timbres-poste;
+
+d) l'acceptation de versements en espèces de maximum 500 euros, pourvus d'une mention structurée, sur un compte auprès de bpost ou d'une institution financière;
+
+e) dans la mesure du possible, un nombre minimum de conditionnements pour les envois postaux et les colis seront disponibles à la vente;]<sup>2</sup>
+
+5° levée : l'opération consistant pour un prestataire de services postaux à collecter les envois postaux;
+
+6° distribution : le processus allant du tri au centre de distribution jusqu'à la remise des envois postaux aux destinataires;
+
+7° envoi postal : un envoi portant une adresse sous la forme définitive dans laquelle il doit être acheminé par le prestataire de services postaux.
+
+Il s'agit, en plus des envois de correspondance, par exemple de livres, de catalogues, de journaux, de périodiques et de colis postaux contenant des marchandises avec ou sans valeur commerciale;
+
+8° envoi de correspondance : une communication écrite sur un support physique quelconque qui doit être acheminée et remise à l'adresse indiquée par l'expéditeur sur l'envoi lui-même ou sur son conditionnement. Les livres, catalogues, journaux et périodiques ne sont pas considérés comme des envois de correspondance;
+
+9° envoi recommandé : un service garantissant forfaitairement contre les risques de perte, vol ou détérioration et fournissant à l'expéditeur, le cas échéant à sa demande, une preuve de la date du dépôt de l'envoi postal et/ou de sa remise au destinataire;
+
+10° envoi à valeur déclarée : un service consistant à assurer l'envoi postal à concurrence de la valeur déclarée par l'expéditeur en cas de perte, vol ou détérioration;
+
+11° envoi enregistré : envoi recommandé ou à valeur déclarée;
+
+12° courrier transfrontière : le courrier en provenance ou à destination d'un autre Etat;
+
+13° prestataire du service universel : le prestataire de services postaux qui assure la totalité ou une partie du service postal universel en Belgique et dont l'identité a été communiquée à la Commission conformément à l'article 4 de la Directive 97/67/CE, modifiée par la Directive 2008/06/CE du Parlement européen et du Conseil du 20 février 2008 modifiant la Directive 97/67/CE en ce qui concerne l'achèvement du marché intérieur des services postaux de la Communauté;
+
+14° licence : une autorisation qui est octroyée par l'Institut et qui donne à un prestataire d'envois de correspondance domestiques et transfrontières entrants et qui relèvent du service universel des droits spécifiques et soumet les activités dudit prestataire à des obligations spécifiques, lorsque le prestataire de services postaux n'est pas habilité à exercer les droits concernés avant d'avoir reçu la décision de l'Institut;
+
+15° frais terminaux : la rémunération des prestataires du service universel au titre de la distribution du courrier transfrontière entrant constitué par les envois postaux provenant d'un autre Etat;
+
+16° expéditeur : une personne physique ou morale qui est à l'origine de l'envoi postal.
+
+17° utilisateur : toute personne physique ou morale bénéficiaire d'une prestation de service postal en tant qu'expéditeur ou destinataire;
+
+18° Institut : l'Institut belge des services postaux et des télécommunications, en abrégé IBPT, visé au chapitre III de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et des télécommunications belges;
+
+19° exigences essentielles : les raisons d'intérêt général de nature non économique qui peuvent amener l'Etat à imposer des conditions pour la prestation de services postaux. Ces raisons sont la confidentialité de la correspondance, la sécurité du réseau en ce qui concerne le transport de matières dangereuses, le respect des conditions de travail et des régimes de sécurité sociale prévus par des dispositions législatives, réglementaires ou administratives et/ou par les conventions collectives négociées entre partenaires sociaux, conformément au droit communautaire et à la législation nationale et, dans les cas justifiés, la protection des données, la protection de l'environnement et l'aménagement du territoire. La protection des données peut comprendre la protection des données à caractère personnel, la confidentialité des informations transmises ou stockées ainsi que la protection de la vie privée;
+
+20° services prestés au tarif unitaire : les services postaux dont le tarif est établi dans les conditions générales du ou des prestataires du service universel pour les envois postaux qui sont déposés par pièce individuelle;
+
+21° La Poste : l'entreprise publique autonome visée à l'article 1er, § 4, 3°;
+
+22° services financiers postaux : les opérations en monnaie fiduciaire, scripturale ou électronique, gratuites ou rétribuées, effectuées par La Poste, tant pour son propre compte que pour le compte de tiers;
+
+23° adresse : ensemble de données permettant au prestataire de services postaux de déterminer le lieu de distribution et contenant au moins le numéro de maison, le nom de la rue et le nom de la commune ou une mention ou information acceptée par le prestataire de services postaux concerné lui permettant de déterminer sans équivoque au moins le numéro de maison, le nom de la rue et le nom de la commune;
+
+24° publipostage : une communication consistant uniquement en matériel de publicité ou de marketing et contenant un message identique, à l'exception du nom, de l'adresse et du numéro d'identification du destinataire ainsi que d'autres variables/paramètres qui ne modifient pas la nature du message, qui est envoyée à un nombre significatif de personnes et qui doit être acheminée et remise à l'adresse indiquée par l'expéditeur sur l'envoi lui-même ou sur son conditionnement;
+
+25° activités de routage : les activités de routage sont exécutées par une personne physique ou morale pour le compte d'un expéditeur. Les activités de routage consistent en des activités de conditionnement des envois postaux selon les normes du prestataire de services postaux, éventuellement combinées avec d'autres activités de préparation d'envois postaux comme l'emballage, l'imprimerie ou l'affranchissement des envois postaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 5, 078; En vigueur : 31-12-2010&gt;
+
+(2)&lt;L 2014-04-19/26, art. 2, 088; En vigueur : 15-05-2014&gt;
+
+(3)&lt;L 2021-12-27/02, art. 2, 106; En vigueur : 10-01-2022&gt;
+
+##### Art. 132
+
+[<sup>1</sup> bpost]<sup>1</sup> a son siège dans la Région de Bruxelles-Capitale et peut établir, sur simple décision de son conseil d'administration, des établissements, sièges d'exploitation, succursales, ou agences en Belgique et à l'étranger.
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 078; En vigueur :17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+### CHAPITRE III. - Attributions de l'Institut belge des services postaux et des télécommunications en matière postale.
+
+##### Art. 133
+
+Pour ce qui concerne [<sup>1</sup> bpost]<sup>1</sup>, l'Institut donne un avis motivé selon les formes et dans les cas prévus en vertu du présent titre.
+
+De sa propre initiative, à la demande du Ministre, (...) ou du [<sup>2</sup> commission consultative spéciale Services postaux et e-commerce]<sup>2</sup>, l'Institut donne un avis motivé sur toutes questions relatives aux services postaux (...). &lt;AR 1999-06-09/57, art. 3, 1°, 2° et 3°, 027; En vigueur : 18-08-1999&gt;
+
+L'Institut assiste le Ministre dans la négociation du contrat de gestion avec [<sup>1</sup> bpost]<sup>1</sup>, ainsi que de ses adaptations.
+
+L'Institut peut, en outre, être charge des missions suivantes :
+
+1° réaliser des recherches et des études relatives aux services postaux et aux services financiers postaux;
+
+2° (...) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt;
+
+(Alinéa 5 abrogé) &lt;L 2003-01-17/30, art. 41, 043; En vigueur : 23-04-2003&gt;
+
+(Alinéa 6 abrogé) &lt;AR 1999-06-09/57, art. 3, 6°, 027; En vigueur : 18-08-1999&gt;
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 078; En vigueur :17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+(2)&lt;AR 2024-05-12/16, art. 8, 111; En vigueur : 09-06-2024&gt;
+
+##### Art. 134
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 135
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 136
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 137
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+### CHAPITRE IV.
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 138
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 139
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+### CHAPITRE V. - Objet social et missions de service public.
+
+#### Section I. - Objet social.
+
+##### Art. 140
+
+[<sup>2</sup> L'objet social de bpost comprend:
+
+a) la collecte, le transport et la distribution du courrier, des colis et de tout autre type de biens physiques et l'exploitation de tous services postaux, de transport et de logistique;
+
+b) la fourniture de services de communication papier ou digitale, de certification, de données, d'impression et de gestion de documents;
+
+c) la fourniture de services financiers postaux et de tout autre service financier, bancaire et de paiement;
+
+d) l'exploitation d'activités de vente de détail de biens ou de services de tiers;
+
+e) toutes les activités, en ce compris dans de nouveaux secteurs d'activités, indépendamment de la nature de ces activités ou des secteurs d'activités, destinées à améliorer directement ou indirectement les services de la société ou, plus généralement, à contribuer directement ou indirectement au développement des activités visées aux a) à d) ci-dessus ou à permettre une utilisation optimale de l'infrastructure et/ou du personnel de la société.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 078; En vigueur :17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+(2)&lt;L 2014-04-19/26, art. 3, 088; En vigueur : 29-05-2013&gt;
+
+#### Section II. - (Missions de service public de [<sup>1</sup> bpost]<sup>1</sup>.) &lt;AR 1999-06-09/57, art. 11; En vigueur : 18-08-1999&gt;
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 078; En vigueur :17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+##### Art. 141
+
+&lt;AR 1999-06-09/57, art. 12, 027; En vigueur : 18-08-1999&gt; § 1er. [<sup>3</sup> bpost est chargée des missions de service public suivantes sur l'ensemble du territoire du Royaume:
+
+A. Le maintien, en vue d'assurer la cohésion territoriale et sociale, d'un réseau de proximité configuré comme suit:
+
+1° ce réseau doit être composé d'au moins 1300 points de service postal dont au moins un dans chaque commune du pays comme nécessaire au respect des obligations pesant sur bpost au titre de la desserte aux fins de la mise en oeuvre du service postal universel en vertu de [<sup>6</sup> l'article 16, § 1er, 1° de la loi du 26 janvier 2018 relative aux services postaux]<sup>6</sup> ;
+
+2° les points de service postal visés au 1° doivent comprendre au moins 650 bureaux de poste dont au moins un dans chaque commune du pays; et
+
+3° au moins 95 pour cent de la population doit avoir accès à un point de service postal offrant l'assortiment de base qui est situé à une distance de route de cinq kilomètres au plus, et au moins 98 pour cent de la population doit avoir accès à un tel point de service postal situé à une distance de route de 10 kilomètres au plus.
+
+B. L'exécution des services financiers postaux suivants:
+
+1° la réception de dépôts en espèces sur un compte courant postal et l'exécution des paiements à partir de ce compte ou sur celui-ci;
+
+2° la réception de dépôts en espèces à porter au crédit d'un compte postal courant ou d'un compte auprès d'une institution financière; et
+
+3° [<sup>7</sup> ...]<sup>7</sup>
+
+C. Le paiement à domicile des pensions de retraite et de survie et des allocations de sécurité sociale aux personnes handicapées.
+
+D. Le développement du rôle social des facteurs, notamment envers les personnes isolées et démunies, et du service "SVP facteur".
+
+E. L'information au public à la demande de l'autorité publique compétente.
+
+F. L'envoi à des tarifs réduits de correspondance expédiée par des fondations et associations sans but lucratif.
+
+G. La distribution des envois de la poste aux lettres soumis au régime des franchises de port.]<sup>3</sup>
+
+[<sup>4</sup> § 1erbis. D'autres missions de service public peuvent être attribuées, soit à bpost, par son contrat de gestion, soit à bpost ou un tiers, par une convention spécifique.
+
+Les missions de service public autres que celles énumérées à l'article 141, § 1er, A. à G. qui sont susceptibles d'être attribuées conformément au paragraphe précédent, aux conditions prévues dans le contrat de gestion ou dans la convention spécifique, peuvent notamment inclure le service des abonnements pour les journaux reconnus et les écrits périodiques reconnus [<sup>5</sup> , dont l'exécution est, le cas échéant, contrôlée par l'autorité désignée par un arrêté royal, délibéré en Conseil des ministres]<sup>5</sup>.
+
+Lorsque l'exécution de ces missions ne serait pas assumée ou ne serait pas assumée dans les mêmes conditions sans contrepartie, une compensation est octroyée à charge du budget de l'Etat.
+
+Lorsque bpost ou le tiers n'a pas été désigné dans le cadre d'une procédure d'attribution permettant de sélectionner le candidat capable de fournir ces services au moindre coût pour la collectivité, l'article 141ter s'applique mutatis mutandis à la compensation.
+
+Pour ce qui concerne les missions de service public visées au deuxième alinéa du présent § 1erbis, le contrat de gestion ou la convention spécifique règle les matières suivantes:
+
+1° la définition des obligations de service public et les modalités opérationnelles de l'exécution de ces missions;
+
+2° les règles de conduite à l'égard des utilisateurs;
+
+3° le cas échéant, les paramètres objectifs et transparents sur la base desquels est calculée la compensation; et
+
+4° le cas échéant, les montants provisoires et les modalités de paiement des compensations, selon le cas, visées à l'article 141ter.]<sup>4</sup>
+
+§ 2. (Alinéa 1 abrogé) &lt;L 2007-04-01/50, art. 12, 069; En vigueur : 24-05-2007&gt;
+
+Les dispositions du contrat de gestion doivent être compatibles avec les obligations contenues dans la directive 97/67/CE du Parlement européen et du Conseil du 15 décembre 1997 concernant des règles communes pour le développement du marché intérieur des services postaux de la Communauté et l'amélioration de la qualité de service.
+
+(§ 3. Sans préjudice de l'application du Code pénal et des peines disciplinaires qui peuvent leur être imposées en vertu de leur statut, doivent payer une surtaxe qui est égale à deux fois le montant des taxes éludées, les fonctionnaires et employés qui se sont rendus coupables de :
+
+1° abus d'enveloppes, de bandes ou de cartes utilisées comme courrier administratif;
+
+2° fraude.
+
+Est considéré comme frauduleux, le courrier en franchise postale, avec rétribution différée ou envoyé affranchi :
+
+1° qui ne possède pas de nature administrative d'intérêt général;
+
+2° qui porte une indication erronée concernant les mentions obligatoires;
+
+3° avec une adresse simulée, par " adresse simulée " on entend l'adresse qui attribue au destinataire une qualité dont il n'est pas revêtu, dans le but de se soustraire au paiement des tarifs postaux.
+
+Le même principe vaut pour les fonctionnaires et les agents qui ont permis tout abus par un tiers.) &lt;L 2007-04-01/50, art. 5, 069; En vigueur : 24-05-2007&gt;
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 9, 078; En vigueur : 31-12-2010&gt;
+
+(2)&lt;L 2010-12-13/07, art. 4, 078; En vigueur :17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+(3)&lt;L 2014-04-19/26, art. 4, 088; En vigueur : 15-05-2014&gt;
+
+(4)&lt;L 2014-04-19/26, art. 5, 088; En vigueur : 15-05-2014&gt;
+
+(5)&lt;L 2017-04-18/03, art. 37, 099; En vigueur : 04-05-2017&gt;
+
+(6)&lt;L 2021-12-27/02, art. 3, 106; En vigueur : 10-01-2022&gt;
+
+(7)&lt;L 2021-12-27/02, art. 4, 106; En vigueur : 10-01-2022&gt;
+
+##### Art. 141bis
+
+[<sup>1</sup> § 1er. Pour chacune des missions de service public visées à l'article 141, § 1er, A., B. et C., le Roi, par arrêté délibéré en Conseil des Ministres, définit:
+
+1° les principales modalités d'exécution de la mission; et
+
+2° le cas échéant, les principes gouvernant la fixation des tarifs pour les prestations fournies par bpost aux utilisateurs.
+
+§ 2. Le Roi peut, par arrêté délibéré en Conseil des Ministres, définir les modalités pour chacune des missions de service public visées à l'article 141, § 1er, D. à G.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/26, art. 6, 088; En vigueur : 15-05-2014&gt;
+
+##### Art. 141ter
+
+[<sup>1</sup> § 1er. Pour l'exécution des missions de service public visées à l'article 141, § 1er, A., B. et C., qui occasionnent pour bpost un coût net, bpost reçoit une compensation à charge du budget de l'Etat. Cette compensation correspond à la somme des éléments suivants:
+
+1° le coût net de l'exécution de la mission en question, calculé à partir des coûts effectivement supportés et des recettes effectivement perçues par bpost et en utilisant la méthode du coût net évité;
+
+2° un bénéfice raisonnable, en termes de marge d'exploitation, fixé notamment en fonction du degré de risque encouru par bpost dans l'exécution de la mission en question; et
+
+3° le résultat positif ou négatif d'un mécanisme d'incitation à l'efficience,
+
+étant entendu que toute compensation est soumise au plafond global fixé par le contrat de gestion pour l'ensemble des compensations reçues par bpost au titre des missions de service public.
+
+§ 2. Le Roi, par arrêté délibéré en Conseil des Ministres, définit:
+
+1° les modalités de calcul de chacun des paramètres visés au § 1er;
+
+2° les procédures à suivre pour l'établissement des montants provisoire et définitif de la compensation; et
+
+3° les modalités de contrôle de la compensation et de récupération d'une éventuelle surcompensation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/26, art. 7, 088; En vigueur : 15-05-2014&gt;
+
+##### Art. 141quater
+
+[<sup>1</sup> Pour ce qui concerne les missions de service public visées à l'article 141, § 1er, A. à G., le contrat de gestion règle les matières suivantes:
+
+1° les modalités opérationnelles de l'exécution de ces missions;
+
+2° les règles de conduite à l'égard des utilisateurs; et
+
+3° les montants provisoires et les modalités de paiement des compensations visées à l'article 141ter.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/26, art. 8, 088; En vigueur : 15-05-2014&gt;
+
+##### Art. 141quinquies
+
+[<sup>1</sup> bpost est chargée des missions de service public énumérées à l'article 141, § 1er, A. à G. jusqu'au [<sup>4</sup> 31 décembre 2026]<sup>4</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/26, art. 9, 088; En vigueur : 15-05-2014&gt;
+
+(2)&lt;L 2015-12-16/30, art. 16, 093; En vigueur : 12-01-2016&gt;
+
+(3)&lt;L 2020-12-20/09, art. 92, 105; En vigueur : 09-01-2021&gt;
+
+(4)&lt;L 2021-12-27/02, art. 5, 106; En vigueur : 10-01-2022&gt;
+
+##### Art. 141sexies
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+#### Section III. - (Contenu et exigences liées au service postal universel.) &lt;AR 1999-06-09/57, art. 13; En vigueur : 18-08-1999&gt;
+
+##### Art. 142
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 143
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 144
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 144bis
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 144ter
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 144quater
+
+&lt;Inséré par AR 1999-06-09/57, art. 19; En vigueur : 18-08-1999&gt; § 1er. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 2. [<sup>1</sup> Le service de médiation pour le secteur postal publie chaque année dans son rapport annuel le nombre de plaintes ainsi que la manière dont celles-ci ont été traitées.]<sup>1</sup>
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 4. [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 13, 078; En vigueur : 31-12-2010&gt;
+
+(2)&lt;L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+### CHAPITRE VBIS.
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 144quinquies
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 144sexies
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 144septies
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+### CHAPITRE VTER.
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 144octies
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+### CHAPITRE VQUATER.
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 144novies
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 144decies
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 144undecies
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+### CHAPITRE VQUINQUIES.
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 144duodecies
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+### CHAPITRE VI. - Des biens.
+
+##### Art. 145
+
+Les immeubles mis à la disposition de [<sup>1</sup> bpost]<sup>1</sup>, appartenant à l'Etat et affectés, à la date d'entrée en vigueur de la présente loi, à l'exploitation des services de [<sup>1</sup> bpost]<sup>1</sup> aux lettres et des services financiers postaux, demeurent affectés à cet usage.
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 078; En vigueur :17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+##### Art. 146
+
+[<sup>1</sup> bpost]<sup>1</sup> prend à sa charge les titres établis au nom de l'Etat en vue notamment de la prise en location ou concession de biens qui, à la date du classement de [<sup>1</sup> bpost]<sup>1</sup> parmi les entreprises publiques autonomes, sont mis à la disposition de la Régie des postes.
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 078; En vigueur :17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+##### Art. 147
+
+L'actif et le passif de [<sup>1</sup> bpost]<sup>1</sup> comprennent l'actif et le passif de la Régie des postes.
+
+(Le Roi peut, par arrêté délibéré en Conseil des ministres, autoriser l'Etat et des sociétés relevant des autorités publiques à augmenter le capital de [<sup>1</sup> bpost]<sup>1</sup>, en mission déléguée de l'Etat.) &lt;L 1995-12-20/31, art. 62, 013; En vigueur : 02-01-1996&gt;
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 078; En vigueur :17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+### CHAPITRE VIbis. - Actions émises par [<sup>1</sup> bpost]<sup>1</sup>. &lt;Inséré par L 2004-12-27/30, art. 301, En vigueur : 31-12-2004&gt;
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 078; En vigueur :17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+##### Art. 147bis
+
+&lt;AR 2005-12-13/30, art. 1, 058; En vigueur : 17-01-2006&gt; L'article 39, § 1er, troisième alinéa, et § 5, et l'article 40, §§ 2 et 3, ne s'appliquent pas à [<sup>1</sup> bpost]<sup>1</sup>.
+
+Aucune opération ne peut avoir pour conséquence que la participation directe des autorités publiques, telles que définies par ou en vertu de l'article 42, dans le capital de [<sup>1</sup> bpost]<sup>1</sup> descend en dessous de 50 % des actions plus une action.
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 078; En vigueur :17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+### CHAPITRE VII. - Administration.
+
+##### Art. 148
+
+Sans préjudice des dispositions de l'article 22, ne peuvent être appelées à faire partie du conseil d'administration de [<sup>1</sup> bpost]<sup>1</sup> en qualité de membre ordinaire nommé par le Roi :
+
+1° les personnes remplissant une fonction quelconque dans un établissement privé ou public de crédit, soumis au contrôle de la Commission bancaire ou dans une Société commerciale ou à forme commerciale ou dans une institution [<sup>2</sup> (autre qu'une autorité publique visée à l'article 42)]<sup>2</sup> détenant directement ou indirectement 25 % du capital d'un tel établissement;
+
+2° les personnes remplissant une fonction quelconque dans un établissement, privé ou public, qui assure des services de messagerie, de vente par correspondance ou qui offre des services postaux;
+
+3° les membres du personnel de l'Institut.
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 078; En vigueur :17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+(2)&lt;L 2014-04-19/26, art. 11, 088; En vigueur : 15-05-2014&gt;
+
+### CHAPITRE VIIBIS. - (Dispositions générales relatives à la prestation de services postaux.) &lt;Inséré par AR 1999-06-09/57, art. 24; En vigueur : 18-08-1999&gt;
+
+#### Section I. - [<sup>1</sup> Dispositions concernant la prestation de services postaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 23, 078; En vigueur : 31-12-2010&gt;
+
+##### Art. 148bis
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 148bis/1
+
+&lt;Inséré par L 1999-12-24/34, art. 9, En vigueur : 10-01-2000&gt; § 1er. Outre l'application des dispositions visées aux §§ 1er, 2 et 3 de l'article 38, le Roi peut, par arrêté délibéré en Conseil des ministres, décider de la transformation de l'entreprise publique autonome [<sup>1</sup> bpost]<sup>1</sup> en société anonyme de droit public, aux conditions et avec les statuts qu'Il détermine. Les §§ 4, 5 et 6 sont applicables à une telle transformation. Un réviseur d'entreprises, désigné par le ministre dont relève [<sup>1</sup> bpost]<sup>1</sup>, fait rapport sur un état résumant l'actif et le passif et indiquant le montant du capital social après la transformation. Ce montant ne peut être supérieur à l'actif net, tel qu'il résulte de l'état précité qui est établi par le conseil d'administration ou le réviseur désigné par le ministre. Les conclusions du réviseur sont reprises dans le rapport au Roi.
+
+§ 2. Par dérogation à l'article 18, § 1er, alinéa 1er, le conseil d'administration de [<sup>1</sup> bpost]<sup>1</sup> est composé de dix-huit membres au plus, en ce compris l'administrateur-délégué et ceux des membres du comité de direction, qui en seraient membres.
+
+L'article 18, § 1er, alinéa 2, n'est pas applicable à [<sup>1</sup> bpost]<sup>1</sup>.
+
+§ 3. Au jour de l'entrée en vigueur de l'arrêté royal visé au § 3 de l'article 38 ou au § 1er du présent article, les fonctions des membres du conseil d'administration prennent fin de plein droit.
+
+§ 4. En ce qui concerne [<sup>1</sup> bpost]<sup>1</sup>, la représentation pour la gestion journalière, les pouvoirs de l'administrateur-délégué, le rôle et le fonctionnement du comité de direction ainsi que la nomination et la révocation des membres du comité de direction, autres que l'administrateur-délégué, seront déterminés par les statuts. Ces statuts peuvent déroger aux articles 19 et 20.
+
+En ce qui concerne [<sup>1</sup> bpost]<sup>1</sup>, les mots " administrateur-directeur " sont remplacés par les mots " membre du comité de direction " dans les articles 20, 21 et 22.
+
+(En ce qui concerne [<sup>1</sup> bpost]<sup>1</sup>, dans la deuxième phrase de l'article 18, § 2, deuxième alinéa, le mot " Etat " est remplacé par les mots " autorités publiques ".
+
+Les membres du conseil d'administration de [<sup>1</sup> bpost]<sup>1</sup> qui ne sont pas nommés par le Roi ne sont pas pris en compte pour la parité linguistique requise par l'article 16.) &lt;AR 2005-12-13/30, art. 2, 058; En vigueur : 17-01-2006&gt;
+
+[<sup>2</sup> § 5. Par dérogation à l'article 18, § 3, les membres ordinaires du conseil d'administration de bpost sont nommés pour un terme renouvelable de maximum quatre ans.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 078; En vigueur :17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+(2)&lt;L 2014-04-19/26, art. 12, 088; En vigueur : 15-05-2014&gt;
+
+##### Art. 148bis/2
+
+&lt;Inséré par L 1999-12-24/34, art. 10, En vigueur : 10-01-2000&gt; Outre l'application de l'article 18, § 5, les modalités d'information, de vérification et de contrôle peuvent être définies par les statuts de [<sup>1</sup> bpost]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 078; En vigueur :17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+##### Art. 148bis/3
+
+&lt;Inséré par L 1999-12-24/34, art. 11, En vigueur : 10-01-2000&gt; § 1er. Par dérogation aux articles 18, § 2, dernier alinéa, et 20, § 3, alinéa 3, le président et les membres du conseil d'administration de [<sup>1</sup> bpost]<sup>1</sup>, nommés par le Roi par arrêté délibéré en Conseil des ministres, ne peuvent être révoqués que par arrêté royal délibéré en Conseil des ministres.
+
+§ 2. Par dérogation à l'article 20, § 2, l'administrateur délégué de [<sup>1</sup> bpost]<sup>1</sup> ne peut être révoqué que par arrêté royal délibéré en Conseil des ministres.
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 078; En vigueur :17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+##### Art. 148bis/4
+
+[<sup>1</sup> Les articles 148bis/1, § 2, § 4, alinéa 1er, et § 5, et 148bis/3 ne sont pas d'application aussi longtemps que les actions de bpost sont admises à la négociation sur un marché réglementé au sens de l'article 2, 3°, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-12-16/30, art. 17, 093; En vigueur : 12-01-2016&gt;
+
+##### Art. 148ter
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 148quater
+
+&lt;Abrogé par L 2010-12-13/07, art. 26, 078; En vigueur : 31-12-2010&gt;
+
+##### Art. 148quinquies
+
+&lt;Abrogé par L 2010-12-13/07, art. 27, 078; En vigueur : 31-12-2010&gt;
+
+#### Section II.
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 148sexies
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 148septies
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+#### Section IIbis.
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 148septies/1
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+#### Section III.
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 148octies
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 148novies
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+##### Art. 148decies
+
+&lt;Abrogé par L 2018-01-26/08, art. 36, 101; En vigueur : 10-02-2018&gt;
+
+### CHAPITRE IX. - [<sup>1</sup> Dispositions modificatives, transitoires et abrogatoires.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 33, 078; En vigueur : 31-12-2010&gt;
+
+##### Art. 149
+
+Le premier conseil d'administration et le premier comité de direction de [<sup>1</sup> bpost]<sup>1</sup>, établis conformément à l'article 48 de cette loi, exerceront une double mission jusqu'à son classement parmi les entreprises publiques autonomes, par dérogation aux dispositions visées au chapitre IV du titre Ier : d'une part, la négociation et la conclusion du premier contrat de gestion et, d'autre part, la prise en charge des pouvoirs de la direction de la Régie des postes dans le cadre de la loi du 6 juillet 1971.
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 078; En vigueur :17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+##### Art. 150
+
+&lt;insertion d'un article 190bis dans le C.P. de 1897-06-08/01&gt;
+
+##### Art. 150/1
+
+[<sup>1</sup> § 1er. A titre de mesure transitoire, les dispositions de l'article 144ter, § 3, à l'exception des mots " - les services postaux réservés, à l'exception du courrier transfrontière entrant, énumérés à l'article 144octies, quel que soit le régime tarifaire appliqué. " restent d'application pour les tarifs appliqués par le prestataire du service universel pendant l'année 2011.
+
+§ 2. A titre de mesure transitoire, les augmentations tarifaires relatives à l'année 2011 sont communiquées par le prestataire du service universel à l'Institut au plus tard le 1er mars 2011. Sur la base des informations fournies, l'Institut vérifie si les augmentations tarifaires proposées sont conformes aux principes tarifaires mentionnés à l'article 144ter de la présente loi. L'Institut dispose d'un mois, à partir du jour de la réception des augmentations tarifaires, pour communiquer ses observations au titulaire de licence. A défaut de réponse dans ce délai, la réaction de l'institut est considérée comme positive.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-12-13/07, art. 34, 078; En vigueur : 31-12-2010&gt;
+
+##### Art. 151
+
+&lt;dispositions abrogatoires de l'art.1, al. 2, al.3 et al.4; de l'art. 2, al. 2, al. 3, 4 et 5; de l'art. 4; de l'art. 5; de l'art. 6; de l'art. 7; de l'art. 8, §§ 4, 5 et 6; de l'art. 9; de l'art. 10, § 1, 1( et 4(, § 2, § 4, 2( et al. dernier; de l'art. 11; de l'art. 12, al. 2 et 3; de l'art. 13; de l'art. 14, «« 1, 2, 3, et 3bis; de l'art. 14bis; de l'art. 17, al. 2; de l'art. 19; de l'art. 20; de l'art. 25; de l'art. 26; de l'art. 28; de l'art. 29; et disposition modificative de l'art. 8, § 2 et art. 24 de L 1971-07-06/30&gt;
+
+##### Art. 152
+
+&lt;dispositions abrogatoires de l'art. 1, de l'art. 4, des art. 7 á 11; de l'art. 15; de l'art. 25; de l'art. 33; de l'art. 35 et de l'art. 37 de L 1956-12-26/30&gt;
+
+§ 2. &lt;disposition modificative de l'art. 18 de L 1956-12-26/30&gt;
+
+§ 3. (...) &lt;L 1997-12-19/30, art. 93, 017; En vigueur : 01-01-1998&gt;
+
+§ 4. (...) &lt;L 1997-12-19/30, art. 93, 017; En vigueur : 01-01-1998&gt;
+
+##### Art. 153
+
+&lt;dispositions modificatives de l'art. 11, al. 1, de l'art. 18 et 19 de L 1956-05-02/30&gt;
+
+##### Art. 154
+
+Les dispositions du présent titre entrent en vigueur à la date à laquelle la Régie est classée parmi les entreprises publiques autonomes, conformément au titre 1er.
+
+Les dispositions concernant les attributions de l'Institut en matière postale entrent en vigueur à l'égard de [<sup>1</sup> bpost]<sup>1</sup>, à la même date que celle du classement de [<sup>1</sup> bpost]<sup>1</sup> parmi les entreprises publiques autonomes.
+
+Les articles 148 et 149 entrent en vigueur le jour de leur publication au Moniteur belge.
+
+L'article 151, § 1er, 17°, entre en vigueur à la date de l'entrée en vigueur du premier statut du personnel et du premier statut syndical, fixés conformément à l'article 33.
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 078; En vigueur :17-01-2011, voir AR 2011-01-10/01, art. 1, 1°&gt;
+
+##### Art. 154bis
+
+&lt;Inséré par L 1999-05-03/31, art. 27; En vigueur : 14-05-1999&gt; § 1er. Le Roi peut, par arrêté délibéré en Conseil des Ministres, (avant le 31 décembre 2003) supprimer, compléter, modifier ou remplacer les dispositions de la présente loi afin de prendre les mesures nécessaires à l'exécution des obligations qui, en matière de services postaux, résultent des règlements et directives en vigueur de la Communauté européenne. &lt;L 2002-12-24/31, art. 481, 042; En vigueur : 10-01-2003&gt;
+
+§ 2. Le projet d'arrêté dont question au § 1er de cet article est soumis à l'avis motivé de la Section de Législation du Conseil d'Etat. Cet avis est publié en même temps que le rapport au Roi et l'arrêté royal y relatif.
+
+§ 3. L'arrêté royal pris en exécution du § 1er de cet article est abrogé lorsqu'il n'a pas été confirmé par la loi dans les quinze mois qui suivent sa publication au Moniteur belge.
+
+##### Art. 154ter
+
+&lt;L 2000-07-03/31, art. 23, 030; En vigueur : 23-07-2000&gt; § 1er. Sont abrogés dans la loi du 26 décembre 1956 sur le service des postes :
+
+1° l'article 16, remplacé par la loi du 21 mars 1991 et par l'arrêté n° 437 du 5 août 1986;
+
+2° l'article 17, remplacé par la loi du 21 mars 1991;
+
+3° l'article 18, modifié par la loi du 21 mars 1991;
+
+4° l'article 19, modifié par la loi du 9 juillet 1976;
+
+5° l'article 21, modifié par la loi du 9 juillet 1976 et remplacé par la loi du 21 mars 1991;
+
+6° l'article 22, modifié par la loi du 9 juillet 1976 et remplacé par la loi du 21 mars 1991;
+
+7° l'article 23, remplacé par la loi du 21 mars 1991.
+
+§ 2. Dans l'article 26 de la loi du 26 décembre 1956 sur le service des postes, les mots " ainsi qu'aux articles 134, § 2 et 141, de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques " sont supprimés.
+
+§ 3. Dans l'article 28 de la loi du 26 décembre 1956 sur le service des postes, les mots " les agents des postes " sont remplacés par les mots " les membres du personnel d'un opérateur postal " et les mots " La Poste, " sont remplacés par les mots " un opérateur postal ".
+
+§ 4. Dans l'article 29 de la loi du 26 décembre 1956 sur le service des postes, les mots " La Poste " sont remplacés par les mots " un opérateur postal ".
+
+## TITRE V. - [<sup>1</sup> La Société nationale des Chemins de fer belges]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 6, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+### CHAPITRE I. - [<sup>1</sup> Définitions et objet social ]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 7, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 154quater
+
+[<sup>1</sup> Pour l'application du présent titre, il y a lieu d'entendre par :
+
+1° Service de Régulation du Transport ferroviaire : le Service de Régulation du Transport ferroviaire et de l'Exploitation de l'Aéroport de Bruxelles-National, visé dans l'arrêté royal du 25 octobre 2004 créant le Service de Régulation du Transport ferroviaire et de l'Exploitation de l'Aéroport de Bruxelles-National, fixant sa composition ainsi que les statuts administratif et pécuniaire applicables à ses membres;
+
+2° HR Rail : la société anonyme de droit public HR Rail, visée par la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges;]<sup>1</sup>
+
+[<sup>2</sup> 3° RER (Réseau Express Régional) : le réseau visé à l'article 2, 2°, de la convention du 4 avril 2003 visant à mettre en oeuvre le programme du réseau express régional de, vers, dans et autour de Bruxelles, conclue entre l'Etat, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 8, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+(2)&lt;L 2014-04-19/34, art. 2, 089; En vigueur : 27-05-2014&gt;
+
+##### Art. 154quinquies
+
+[<sup>1</sup> La Société nationale des Chemins de fer belges, en abrégé SNCB, est une entreprise publique autonome ayant la forme d'une société anonyme de droit public. Elle relève du ministre qui a les entreprises publiques dans ses attributions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 8, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 155
+
+[<sup>1</sup> La SNCB a pour objet :
+
+1° le transport de voyageurs, en ce compris l'accueil et l'information de sa clientèle, et de marchandises par chemin de fer;
+
+2° le transport de marchandises en général et les services de logistique prévus à cet effet;
+
+3° l'acquisition, la maintenance, la gestion et le financement de matériel roulant ferroviaire;
+
+4° la sécurité et le gardiennage dans le domaine ferroviaire;
+
+5° l'acquisition, la conception, la construction, le renouvellement, l'entretien et la gestion des gares ferroviaires, des points d'arrêts non gardés et de leurs dépendances ainsi que de leurs abords, en ce compris la conception, le développement, la modernisation et la valorisation des centres urbains;
+
+6° le développement d'activités commerciales ou autres destinées à favoriser directement ou indirectement ses services ou à optimiser l'utilisation de ses biens.
+
+La SNCB peut, par elle-même ou par voie de participation à des organismes et personnes morales existants ou à créer, belges, étrangers ou internationaux, faire toutes opérations commerciales, industrielles ou financières se rapportant directement ou indirectement, en tout ou en partie, à son objet ou qui seraient susceptibles d'en faciliter ou d'en favoriser la réalisation ou le développement, y compris la constitution de sûretés pour dettes de sociétés liées ou avec lesquelles il existe un lien de participation.
+
+Sont notamment considérées comme susceptibles de favoriser la réalisation ou le développement de l'objet, la fabrication et la vente de biens ou services ayant trait directement ou indirectement à l'activité ferroviaire.
+
+La SNCB peut en outre agir comme administrateur, porteur d'une procuration, mandataire ou liquidateur dans d'autres sociétés ou entreprises.]<sup>1</sup>
+
+----------
+
+(1)&lt;Rétabli par AR 2013-12-11/03, art. 9, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+### CHAPITRE II. - Missions de service public.
+
+##### Art. 156
+
+[<sup>1</sup> Les missions de service public de la SNCB comprennent :
+
+1° le transport intérieur de voyageurs assuré par les trains du service ordinaire, en ce compris l'accueil et l'information de sa clientèle, ainsi que les dessertes intérieures par trains à grande vitesse;
+
+2° le transport transfrontalier de voyageurs, c'est-à-dire le transport assuré par les trains du service ordinaire pour la partie du trajet national non couverte au titre du 1° et jusqu'aux gares situées sur les réseaux voisins définies dans le contrat de gestion;
+
+3° l'acquisition, la maintenance, la gestion et le financement de matériel roulant ferroviaire destiné à l'accomplissement des missions visées aux 1° et 2° ;
+
+4° les prestations que l'entreprise ferroviaire est tenue de fournir pour les besoins de la Nation;
+
+5° l'acquisition, la conception, la construction, le renouvellement, l'entretien et la gestion des gares ferroviaires, des points d'arrêt non gardés et de leurs dépendances;
+
+6° la conservation du patrimoine historique relatif à l'exploitation ferroviaire;
+
+7° les activités de sécurité dans les gares, dans les points d'arrêt non gardés, dans les trains, sur les voies, en ce compris les faisceaux voyageurs et marchandises, dans les autres espaces du domaine ferroviaire accessibles au public et dans tous les espaces gérés par la SNCB;
+
+8° les activités de gardiennage des installations dont elle est propriétaire ou desquelles elle assure la gestion;
+
+9° les autres missions de service public dont elle est chargée par ou en vertu de la loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 10, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 156bis
+
+[<sup>1</sup> La mission de service public visée à l'article 156, 7° comprend les activités suivantes :
+
+1° contrôler le respect de la législation sur la police des chemins de fer, dans les limites fixées par le contrat de gestion;
+
+2° veiller à la sécurité, notamment par la présence et les interventions du service de sécurité;
+
+3° coordonner toutes les activités visant à améliorer la lutte contre la fraude;
+
+4° gérer les caméras placées dans les espaces accessibles au public, les trains et autres installations gérées par la SNCB;
+
+5° traiter les appels d'urgence liés aux problèmes de sécurité;
+
+6° participer, à la demande des services de police ou de la douane, à l'organisation de leurs contrôles ainsi qu'à l'exécution des contrôles de sécurité pour les passagers et leurs bagages transitant par le tunnel sous la Manche;
+
+7° coordonner les opérations liées à la sécurité avec les autorités judiciaires ainsi que les services de police et la sûreté de l'Etat;
+
+8° surveiller les voies, en ce compris les faisceaux voyageurs et marchandises en vue de lutter notamment contre le vol de câbles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 11, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 156ter
+
+[<sup>1</sup> § 1er. La SNCB conclut avec Infrabel une convention de coopération dont l'objet est d'assurer l'exercice conjoint de leurs missions de service public liées à la sécurité.
+
+Cette convention définit la stratégie commune de la SNCB et d'Infrabel, notamment en ce qui concerne le type et l'étendue de la collaboration, ses modalités financières, les obligations réciproques des parties et le suivi de la convention.
+
+§ 2. La SNCB et Infrabel prennent toutes les mesures nécessaires afin d'assurer le maintien de la chaîne de sécurité et la cohérence de la politique de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 11, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 156quater
+
+[<sup>1</sup> § 1er. La SNCB est titulaire d'une servitude perpétuelle à titre gratuit sur les quais, sur les couloirs sous voie et sur toutes les voies d'accès aux quais, relevant de la propriété d'Infrabel et situés dans l'enceinte des gares et points d'arrêt non gardés dont la SNCB a la gestion ainsi que sur les nouvelles installations similaires, réalisées par ou pour le compte d'Infrabel, dès leur mise en exploitation, et ce, exclusivement, en vue de la réalisation de ses missions de service public visées à l'article 156, 1° et 5°.
+
+§ 2. La SNCB effectue à la décharge d'Infrabel les travaux suivants sur les biens qui font l'objet de la servitude :
+
+1° les travaux d'entretien;
+
+2° les petites et grosses réparations;
+
+3° l'aménagement, l'amélioration et la rénovation.
+
+La SNCB est autorisée à prendre des emprises dans la structure des quais, couloirs sous voies et autres voies d'accès aux quais appartenant à Infrabel pour autant que ces emprises soient nécessaires à la réalisation des travaux visés à l'alinéa précédent.
+
+Si les travaux modifient ou sont susceptibles de modifier les limites de l'assiette de la servitude, l'accord préalable d'Infrabel est requis.
+
+§ 3. La servitude ne porte pas sur la construction des quais, leur hauteur, leur structure, leur longueur et largeur utiles, leur distance par rapport à l'axe de la voie, leur tracé, leur protection contre les chocs électriques, le placement d'éléments de sécurité sur les quais tels que signalisation, armoires de relais ou électriques et poteaux caténaires et éléments de procédure de démarrage des trains. L'exercice de la servitude ne peut pas affecter ces éléments de sécurité ni en gêner le fonctionnement.
+
+Infrabel conserve le droit en tant que propriétaire d'installer tous les éléments nécessaires à la réalisation de ses missions de service public de gestion de l'infrastructure ferroviaire.
+
+§ 4. Infrabel renonce à l'accession sur les constructions, équipements et installations érigés par la SNCB dans le cadre de la servitude visée au paragraphe 1er.
+
+§ 5. La SNCB est responsable à l'égard des tiers en tant que gardienne des biens sur la base [<sup>2</sup> de l'article 6.16]<sup>2</sup> du Code Civil, et du fait de sa faute ou de sa négligence, des dommages causés aux personnes et aux biens sur ou dans les installations visées au paragraphe 1er.
+
+§ 6. La servitude n'a pas pour effet de conférer à la SNCB la qualité de gestionnaire d'infrastructure au sens de l'article 3, 2°, de la directive du Parlement européen et du Conseil de l'Union européenne 2012/34/UE du 21 novembre 2012 établissant un espace ferroviaire unique européen.
+
+§ 7. La SNCB et Infrabel ont l'obligation de se coordonner, selon des modalités à fixer entre elles, notamment pour l'application de la loi du 25 juillet 1891 révisant la loi du 15 avril 1843 sur la police des chemins de fer et pour l'organisation des travaux sur les quais, couloirs sous voies et autres voies d'accès aux quais, en vue de perturber le moins possible tant la circulation sur les quais, couloirs sous voies et autres voies d'accès aux quais, que la circulation ferroviaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 11, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+(2)&lt;L 2024-02-07/18, art. 28, 113; En vigueur : 01-01-2025&gt;
+
+##### Art. 156quinquies
+
+[<sup>1</sup> § 1er. Si, dans une gare située dans une zone urbanisée, la SNCB envisage un projet de développement immobilier destiné à être réalisé totalement ou partiellement dans des espaces surplombant ou se situant sous le domaine d'Infrabel, cette dernière accorde à la SNCB les droits réels nécessaires à la réalisation de ce projet. Dans l'hypothèse où des problèmes techniques sont invoqués par Infrabel, les parties se concertent pour trouver une solution permettant néanmoins la réalisation du projet.
+
+§ 2. Par rapport audit projet, la SNCB prend en charge tous les coûts supplémentaires relatifs à l'infrastructure ferroviaire encourus par Infrabel dans le cadre des phases de conception et de construction, ainsi que, après la réalisation du projet, tous les éventuels coûts d'exploitation supplémentaires découlant du projet réalisé.
+
+§ 3. Pour la partie des droits réels accordés dans le cadre dudit projet qui ne relève pas des missions de service public de la SNCB, une rémunération unique à négocier par les deux parties, sur base d'une proposition établie par le comité d'acquisition d'immeubles de l'Etat, visé à l'article 10, § 2, et tenant compte de la valeur comptable de la surface des terrains sur lesquels les droits réels susvisés sont accordés, est prévue au bénéfice d'Infrabel ou d'une de ses filiales. Cette rémunération unique est limitée à maximum la valeur comptable de la surface des terrains sur lesquels les droits réels susvisés sont accordés, telle qu'exprimée dans les livres d'Infrabel au moment de l'octroi des droits réels.
+
+§ 4. Une convention à conclure entre Infrabel et la SNCB reprend la liste des gares visées au paragraphe 1er et son mode de révision éventuelle, ainsi que les procédures de concertation visant à résoudre les éventuels problèmes techniques rencontrés, et détermine les modalités de la rémunération visée au paragraphe 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 11, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 156sexies
+
+[<sup>1</sup> Par dérogation à l'article 5, § 2, le contrat de gestion entre la SNCB et l'Etat est conclu pour une durée de cinq ans au moins et de dix ans au plus.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 11, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 157
+
+&lt;Abrogé par AR 2013-12-11/02, art. 14, 085; En vigueur : 01-01-2014&gt;
+
+##### Art. 158
+
+(Abrogé) &lt;AR 2004-10-18/32, art. 27, 051 ; En vigueur : 01-01-2005&gt;
+
+##### Art. 159
+
+[<sup>1</sup> Les biens immeubles relevant de la propriété de la SNCB ne peuvent faire l'objet d'une mesure d'expropriation. Toutefois, sur proposition du ministre qui a les entreprises publiques dans ses attributions, et après avis du conseil d'administration de la SNCB rendu dans les deux mois qui suivent la réception de la demande, le Roi peut autoriser l'expropriation d'un bien immeuble qui ne serait plus utile à l'exploitation ferroviaire. Le produit de l'aliénation de tout bien immeuble revient à la SNCB.]<sup>1</sup>
+
+----------
+
+(1)&lt;Rétabli par AR 2013-12-11/03, art. 12, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 159bis
+
+[<sup>1</sup> Avant l'aliénation d'un bien immeuble qui n'est pas nécessaire à l'exercice de ses missions de service public, la SNCB informe Infrabel des conditions de l'aliénation en ce compris le prix de cession.
+
+Si les conditions de la SNCB sont acceptées par Infrabel sans réserve ni condition, la cession à Infrabel est réputée réalisée.
+
+Si Infrabel n'exerce pas le droit visé à l'alinéa 1er et qu'ultérieurement, les conditions de l'offre sont modifiées substantiellement par la SNCB, ce droit renaît.
+
+Les modalités d'exécution de ce droit sont réglées dans une convention à conclure entre la SNCB et Infrabel. Dans l'intervalle, les parties exercent ce droit en bon père de famille.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 13, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 160
+
+(Abrogé) &lt;AR 2004-10-18/32, art. 27, 051 ; En vigueur : 01-01-2005&gt;
+
+##### Art. 161
+
+(Abrogé) &lt;L 2008-12-22/33, art. 75, 072; En vigueur : 08-01-2009&gt;
+
+##### Art. 161bis
+
+(Abrogé) &lt;AR 2004-10-18/32, art. 27, 051 ; En vigueur : 01-01-2005&gt;
+
+##### Art. 161ter
+
+&lt;Inséré par L 2002-03-22/30, art. 7; En vigueur : 26-03-2002&gt; § 1er. [<sup>1</sup> Le conseil d'administration constitue en son sein un comité d'audit et un comité de nominations et de rémunération.]<sup>1</sup>
+
+§ 2. (Le comité d'audit est composé de quatre administrateurs, à l'exclusion de l'administrateur délégué. Le conseil d'administration nomme les membres du comité d'audit. Ce comité peut inviter à ses réunions l'administrateur délégué, qui y siège avec voix consultative.
+
+Le comité de nomination et de rémunération est composé de quatre administrateurs, dont le président du conseil d'administration qui le préside et l'administrateur délégué. Le conseil d'administration nomme les membres du comité de nomination et de rémunération. (Le comité d'audit et le comité de nomination et de rémunération comptent autant de membres d'expression française que d'expression néerlandaise.) &lt;L 2002-12-24/31, art. 497, 042; En vigueur : 10-01-2003&gt; &lt;AR 2004-10-18/32, art. 27, 051 ; En vigueur : 01-01-2005&gt;
+
+§ 3. Le comité d'audit assume les taches que lui confie le conseil d'administration. En outre, il a pour mission d'assister le conseil d'administration par l'examen d'informations financières, notamment les comptes annuels, le rapport de gestion et les rapports intermédiaires. Il s'assure également de la fiabilité et de l'intégrité des rapports financiers en matière de gestion des risques.
+
+Au moins quatorze jours avant la réunion au cours de laquelle il établit les comptes annuels, le conseil d'administration demande l'avis du comité d'audit à propos de ces comptes.
+
+(Le commissaire du gouvernement participe avec voix consultative aux réunions du comité d'audit. L'assemblée générale peut désigner, sur proposition du conseil d'administration, un auditeur extérieur afin qu'il participe également avec voie consultative aux réunions de ce comité.) &lt;L 2002-12-24/31, art. 497, 042; En vigueur : 10-01-2003&gt;
+
+§ 4. Le comité de nominations et de rémunération rend un avis conformément à l'article 162quater, alinéa 6, sur les candidatures proposées par l'administrateur délégué en vue de la nomination des membres du comité de direction.
+
+Le conseil d'administration détermine, sur proposition du comité de nominations et de rémunération, la rémunération et les avantages accordés aux membres du comité de direction et aux cadres supérieurs. Il suit ces questions de manière continue.
+
+§ 5. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 5bis. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 6. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 7. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 14, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+### CHAPITRE IIIBIS. - [<sup>1</sup> Le comité d'orientation au sein de la SNCB.]<sup>1</sup>
+
+----------
+
+(1)&lt;Rétabli par AR 2013-12-11/03, art. 15, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 161quater
+
+[<sup>1</sup> Il est créé un comité au sein de la SNCB, ci-après dénommé le comité d'orientation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Rétabli par AR 2013-12-11/03, art. 15, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 161quinquies
+
+[<sup>1</sup> § 1er. Le comité d'orientation est composé :
+
+1° de six représentants de la SNCB;
+
+2° de six représentants des sociétés régionales de transport, nommés selon les modalités fixées dans un accord de coopération avec les Régions.
+
+§ 2. Le comité d'orientation, de sa propre initiative ou à la demande du conseil d'administration, rend des avis au sujet de toute mesure susceptible d'influencer la coopération avec les sociétés régionales de transport. Si le conseil d'administration souhaite s'écarter de l'avis du comité, il motive sa position.]<sup>1</sup>
+
+----------
+
+(1)&lt;Rétabli par AR 2013-12-11/03, art. 15, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+### CHAPITRE IIITER. [<sup>1</sup> - Le comité d'orientation RER.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/34, art. 3, 089; En vigueur : 27-05-2014&gt;
+
+##### Art. 161sexies
+
+[<sup>1</sup> § 1er. Le conseil d'administration constitue en son sein un comité d'orientation RER.
+
+§ 2. Le comité d'orientation RER est composé de six administrateurs, en ce compris l'administrateur délégué. Le conseil d'administration nomme les membres du comité d'orientation RER.
+
+§ 3. Le comité d'orientation RER compte autant de membres d'expression française que d'expression néerlandaise.
+
+§ 4. Le comité d'orientation RER est présidé par l'administrateur délégué.
+
+§ 5. Le comité d'orientation RER invite la personne qui a la direction du service RER au sein de la SNCB aux réunions du comité d'orientation RER. Cette personne y siège avec voix consultative.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/34, art. 4, 089; En vigueur : 27-05-2014&gt;
+
+##### Art. 161septies
+
+[<sup>1</sup> § 1er. Le comité d'orientation RER établit une proposition de plan quinquennal relative à l'exploitation du RER. Cette proposition comprend, en tout cas, les éléments suivants :
+
+1° une évaluation de la situation actuelle en matière d'exploitation du RER;
+
+2° les objectifs stratégiques et opérationnels relatifs à l'exploitation du RER avec un plan d'action comprenant la planification des actions à entreprendre, leur impact budgétaire, le personnel nécessaire et le timing pour leur réalisation pour les cinq prochaines années;
+
+3° la planification détaillée, pour les cinq prochaines années, des actions à entreprendre en matière d'exploitation du RER;
+
+4° une explication détaillée des moyens financiers, des besoins en personnel et des délais projetés, requis pour chacune des actions visées au 3°.
+
+§ 2. Le comité d'orientation RER soumet la proposition de plan quinquennal, au plus tard trois mois avant l'expiration du plan quinquennal précédent, à l'approbation du conseil d'administration.
+
+Le comité d'orientation RER peut adapter la proposition de plan quinquennal, le cas échéant, aux observations que le conseil d'administration formule à propos de cette proposition.
+
+Le conseil d'administration se prononce sur la proposition de plan quinquennal en tout cas dans les trois mois de la réception de la proposition visée à l'alinéa 1er.
+
+§ 3. Le comité d'orientation RER rend chaque année un rapport au conseil d'administration sur la mise en oeuvre du plan quinquennal, visé au § 1er, et formule des recommandations sur ladite mise en oeuvre.
+
+Le cas échéant, le conseil d'administration informe le comité d'orientation RER, par écrit, de la suite donnée aux recommandations visées à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/34, art. 5, 089; En vigueur : 27-05-2014&gt;
+
+##### Art. 161octies
+
+[<sup>1</sup> § 1er. De sa propre initiative ou à la demande du conseil d'administration, le comité d'orientation RER rend au conseil d'administration un avis préalable sur toute décision ou toute proposition de décision relative à l'exploitation du RER. A cette fin, les propositions de décision sont communiquées à temps au comité d'orientation RER.
+
+§ 2. Si le conseil d'administration s'écarte de l'avis visé au § 1er, il motive sa décision.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/34, art. 6, 089; En vigueur : 27-05-2014&gt;
+
+### CHAPITRE IV. - Administration.
+
+##### Art. 162
+
+[<sup>1</sup> Les articles 18 à 23 ne sont pas applicables à la SNCB.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 16, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 162bis
+
+&lt;Inséré par L 2002-03-22/30, art. 9; En vigueur : 26-03-2002&gt; § 1er. [<sup>1</sup> Le conseil d'administration est composé de maximum quatorze membres, en ce compris l'administrateur délégué. Le nombre d'administrateurs est déterminé par le Roi, par arrêté délibéré en Conseil des ministres. Un tiers de ses membres au minimum doivent être de l'autre sexe.]<sup>1</sup>
+
+[<sup>2</sup> Deux membres du conseil d'administration répondent aux critères énumérés à l'article 526ter du Code des sociétés, à l'exception du 5°, c). Ces deux membres sont de rôle linguistique différent.]<sup>2</sup>
+
+§ 2. [<sup>2</sup> A l'exception des deux administrateurs qui répondent aux critères énumérés à l'article 526ter du Code des sociétés et qui sont nommés par l'assemblée générale, le Roi nomme les administrateurs par arrêté délibéré en Conseil des ministres.]<sup>2</sup>
+
+Les administrateurs sont choisis en fonction de la complémentarité de leurs compétences telle que l'analyse financière et comptable, les aspects juridiques, la connaissance du secteur du transport, l'expertise en matière de mobilité, la stratégie du personnel et les relations sociales.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> Les administrateurs ne peuvent être révoqués que par le Roi, par arrêté délibéré en Conseil des ministres.]<sup>1</sup>
+
+§ 3. Les administrateurs sont nommés pour un terme renouvelable de six ans.
+
+§ 4. En cas de vacance d'une place d'administrateur, les administrateurs restants ont le droit d'y pourvoir provisoirement jusqu'à ce qu'une nomination définitive intervienne conformément à la présente disposition.
+
+§ 5. Le Roi nomme, par arrêté délibéré en Conseil des Ministres, le président du conseil d'administration parmi les administrateurs. Le président du conseil d'administration appartient à un autre rôle linguistique que l'administrateur délégué.
+
+En cas de partage des voix au sein du conseil d'administration, la voix du président est prépondérante.
+
+Le président peut, à tout moment, prendre connaissance, sans déplacement, des livres, de la correspondance, des procès-verbaux et généralement de tous les documents et de toutes les écritures de la [<sup>1</sup> SNCB]<sup>1</sup>, en ce compris les informations et documents dont dispose la [<sup>1</sup> SNCB]<sup>1</sup> en sa qualité d'actionnaire. (Il peut se faire assister par un expert, aux frais de la société.) &lt;AR 2004-10-18/32, art. 27, 051 ; En vigueur : 01-01-2005&gt;
+
+§ 6. Dans le cadre de l'exercice de leur mandat et au regard des intérêts de la société, les membres des organes de la [<sup>1</sup> SNCB]<sup>1</sup> sont tenus à un devoir de discrétion.
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 17, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+(2)&lt;L 2016-08-03/30, art. 6, 096; En vigueur : 17-09-2016&gt;
+
+##### Art. 162bis/1
+
+[<sup>1</sup> L'administrateur délégué de la SNCB appartient à un rôle linguistique différent de celui de l'administrateur délégué d'Infrabel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 18, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 162ter
+
+[<sup>1</sup> Le comité de direction est chargé de la gestion journalière et de la représentation en ce qui concerne cette gestion, de même que de l'exécution des décisions du conseil d'administration.
+
+Les membres du comité de direction forment un collège.
+
+Ils peuvent se répartir les tâches. Sous réserve des compétences qui lui sont réservées par la présente loi en tant que collège, le comité de direction peut déléguer certaines de ses compétences à un ou plusieurs de ses membres ou à des membres du personnel. Il peut en autoriser la subdélégation. Il informe le conseil d'administration des délégations accordées en vertu du présent alinéa.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 19, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 162quater
+
+&lt;Inséré par L 2002-03-22/30, art. 9; En vigueur : 26-03-2002&gt; [<sup>1</sup> Le comité de direction de la SNCB se compose de l'administrateur délégué et des membres du comité de direction. Le nombre de membres du comité de direction est déterminé par le conseil d'administration. Ce nombre ne peut dépasser la moitié du nombre de membres du conseil d'administration. Le comité de direction est présidé par l'administrateur délégué.]<sup>1</sup>
+
+L'administrateur délégué est nommé par le Roi, par arrêté délibéré en Conseil des Ministres, pour un terme renouvelable de six ans. Il est révoqué par le Roi par arrêté délibéré en Conseil des Ministres.
+
+La société est valablement représentée dans ses actes, y compris la représentation en justice, par l'administrateur délégué et le directeur général, désigné à cette fin par le conseil d'administration, agissant conjointement.
+
+Tous les actes de gestion ou qui engagent la société sont signés conjointement par l'administrateur délégué et le directeur général désigné à cette fin par le conseil d'administration. (Le Roi détermine, par arrêté délibéré en Conseil des Ministres, les actes dont le mode d'approbation déroge à cet article.) &lt;L 2002-12-24/31, art. 499, 042; En vigueur : 10-01-2003&gt;
+
+L'administrateur délégué appartient à un rôle linguistique différent de celui du directeur général.
+
+Le conseil d'administration nomme les membres du comite de direction, sur proposition de l'administrateur délégué et après avoir pris l'avis du comité de nominations et de rémunération. (...). &lt;AR 2004-10-18/32, art. 27, 051 ; En vigueur : 01-01-2005&gt;
+
+Ils sont révoqués par le conseil d'administration. Ils ne peuvent avoir la qualité d'administrateur de la [<sup>1</sup> SNCB]<sup>1</sup>.
+
+Tous les membres du comité de direction remplissent au sein de la [<sup>1</sup> SNCB]<sup>1</sup>, ou pour la représentation de celle-ci, des fonctions de plein exercice.
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 20, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 162quinquies
+
+&lt;Inséré par L 2002-03-22/30, art. 9; En vigueur : 26-03-2002&gt; § 1er. Sans préjudice de l'article [<sup>3</sup> 161ter, § 4, alinéa 2]<sup>3</sup>, les droits, y compris la rémunération, et obligations mutuels de l'administrateur délégué et des membres du comité de direction, d'une part, et de la [<sup>3</sup> SNCB]<sup>3</sup>, d'autre part, sont réglés dans une convention particulière entre les parties concernées. Lors de la négociation de cette convention, la [<sup>3</sup> SNCB]<sup>3</sup> est représentée par son conseil d'administration à l'exclusion de l'administrateur délégué. L'administrateur délégué ne peut percevoir d'autres émoluments que sa rémunération.
+
+L'administrateur délégué ou un membre du comité de direction qui, au moment de sa nomination, se trouve dans un lien statutaire avec l'Etat ou toute autre personne de droit public relevant de l'Etat est mis de plein droit en congé pour mission selon les dispositions du statut en question pour toute la durée de son mandat. Toutefois, durant cette période, il garde ses titres à la promotion et à l'avancement de traitement.
+
+Lorsque l'administrateur délégué ou un membre du comité de direction au moment de sa nomination se trouve dans un lien contractuel avec l'Etat ou avec toute autre personne de droit public relevant de l'Etat, le contrat concerné est suspendu de plein droit pour toute la durée de son mandat. Toutefois, durant cette période, il garde ses titres à l'avancement de traitement.
+
+[<sup>1</sup> Les articles 520bis et 520ter du Code des sociétés s'appliquent mutatis mutandis à l'administrateur délégué et aux membres du comité de direction.
+
+Si une convention mentionnée au présent paragraphe prévoit une indemnité de départ qui dépasse les 12 mois de rémunération, ou, sur l'avis motivé du comité de nominations et de rémunération, dépasse les 18 mois de rémunération, cette clause en matière d'indemnité de départ doit recueillir l'approbation préalable de la première assemblée générale ordinaire qui suit. Toute convention contraire est nulle de plein droit.
+
+La demande de convenir d'une indemnité de départ plus élevée comme stipulée dans l'alinéa 5, doit être communiquée à [<sup>2</sup> le comité d'entreprise stratégique visé à l'Art. 127 de la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges]<sup>2</sup>. A la demande d'une des parties à [<sup>2</sup> ce comité d'entreprise stratégique]<sup>2</sup>, celle-ci donne un avis à l'assemblée générale.
+
+Dans ce cas, la demande doit être communiquée trente jours avant le jour de la publication de la convocation de la première assemblée générale ordinaire qui suit et la demande d'avis doit être formulée au moins vingt jours avant la même date. L'avis est donné et publié sur Ie site Internet de la société au plus tard le jour de publication de la convocation.
+
+Les données à caractère personnel ainsi transmises [<sup>2</sup> au comité d'entreprise stratégique visé à l'alinéa six]<sup>2</sup>, ne peuvent être divulguées par celle-ci, sauf aux fins de l'avis à l'assemblée générale visé à l'alinéa 7.]<sup>1</sup>
+
+§ 2. [<sup>3</sup> L'assemblée générale détermine la rémunération des membres du conseil d'administration sur proposition du comité de nominations et de rémunération. Elle tient compte à cette fin de la prestation des mandataires eu égard notamment à leur participation dans les comités prévus par la loi. Elle tient également compte des objectifs de l'entreprise.]<sup>3</sup>
+
+§ 3. Les rémunérations visées aux §§ 1er et 2 sont à charge de la [<sup>3</sup> SNCB]<sup>3</sup> Si les rémunérations concernées comportent un élément variable, l'assiette ne peut comprendre des éléments ayant le caractère de charge d'exploitation. &lt;AR 2004-10-18/32, art. 27, 051 ; En vigueur : 01-01-2005&gt;
+
+----------
+
+(1)&lt;L 2011-11-14/05, art. 3, 082; En vigueur : 10-12-2011&gt;
+
+(2)&lt;AR 2013-12-11/02, art. 15, 085; En vigueur : 01-01-2014&gt;
+
+(3)&lt;AR 2013-12-11/03, art. 21, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 162sexies
+
+&lt;Inséré par L 2002-03-22/30, art. 9; En vigueur : 26-03-2002&gt; § 1er. Sans préjudice des autres limitations prévues par ou en vertu d'une loi ou dans le statut organique de la [<sup>1</sup> SNCB]<sup>1</sup>, le mandat de membre du conseil d'administration, [<sup>1</sup> ...]<sup>1</sup>, du comité d'orientation et du comité de direction est incompatible avec le mandat ou les fonctions de :
+
+1° membre du Parlement européen;
+
+2° membre des Chambres législatives;
+
+3° ministre ou secrétaire d'Etat;
+
+4° membre du Conseil ou du Gouvernement d'une Communauté ou d'une Région;
+
+5° gouverneur d'une province ou membre de la députation permanente d'un conseil provincial;
+
+6° [<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> Les administrateurs autres que l'administrateur délégué ne peuvent pas être membres du personnel de la SNCB au sens de l'article 163bis.]<sup>1</sup>
+
+En outre, le mandat de membre du comité de direction est incompatible avec le mandat de bourgmestre, échevin ou président de centre public d'aide sociale.
+
+§ 2. Lorsqu'un des membres visés au § 1er contrevient aux dispositions du § 1er, il est tenu de se démettre des mandats ou fonctions en question dans un délai de trois mois. S'il ne le fait pas, il est réputé, à l'expiration de ce délai, s'être démis de plein droit de son mandat auprès de la S.N.C.B., sans que cela ne porte préjudice à la validité juridique des actes qu'il a accomplis ou des délibérations auxquelles il a pris part pendant la période concernée.
+
+(Le mandat de membre du conseil d'administration ou du comité de direction est incompatible avec tout mandat ou toute fonction au sein d'Infrabel.) &lt;L 2008-12-22/33, art. 68, 072; En vigueur : 08-01-2009&gt;
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 22, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 162septies
+
+&lt;Abrogé par L 2009-05-31/01, art. 2, 074; En vigueur : 18-06-2009&gt;
+
+##### Art. 162octies
+
+&lt;Inséré par L 2002-03-22/30, art. 9; En vigueur : 26-03-2002&gt; (§ 1.) Tout acte de délégation identifie clairement les compétences faisant l'objet de cette délégation. La délégation est accordée pour une durée fixée par le conseil d'administration. &lt;L 2002-12-24/31, art. 501, 042; En vigueur : 10-01-2003&gt;
+
+(§ 2. Les comités d'audit, [<sup>1</sup> ...]<sup>1</sup>, de direction, de nomination et de rémunération [<sup>2</sup> et d'orientation RER]<sup>2</sup> dressent un règlement d'ordre intérieur, qui explicite le cadre régissant leur fonctionnement. Les règlements d'ordre intérieur sont soumis à l'approbation du conseil d'administration.) &lt;L 2002-12-24/31, art. 501, 042; En vigueur : 10-01-2003&gt;
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 23, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+(2)&lt;L 2014-04-19/34, art. 7, 089; En vigueur : 27-05-2014&gt;
+
+##### Art. 162nonies
+
+&lt;Inséré par L 2002-03-22/30, art. 9, 039; En vigueur : 26-03-2002&gt; § 1er. La [<sup>1</sup> SNCB]<sup>1</sup> est soumise au pouvoir de contrôle du [<sup>1</sup> ministre des entreprises publiques]<sup>1</sup>. Ce contrôle est exercé à l'intervention d'un commissaire du Gouvernement, nommé et révoqué par le Roi, sur la proposition du ministre concerné.
+
+Le [<sup>1</sup> ministre des entreprises publiques]<sup>1</sup> peut désigner un suppléant pour le cas d'empêchement éventuel du commissaire du Gouvernement ou pour l'assister dans sa mission.
+
+Le Roi règle l'exercice des missions du commissaire du Gouvernement et sa rémunération. Cette rémunération est à charge de la [<sup>1</sup> SNCB]<sup>1</sup>.
+
+§ 2. Le commissaire du Gouvernement veille au respect de la loi, [<sup>1</sup> des statuts]<sup>1</sup> de la [<sup>1</sup> SNCB]<sup>1</sup> et du contrat de gestion. Il s'assure de ce que la politique de la [<sup>1</sup> SNCB]<sup>1</sup>, en particulier celle menée en exécution de l'article 13, ne porte pas préjudice à la mise en oeuvre des tâches de service public.
+
+Le commissaire du Gouvernement fait rapport au [<sup>1</sup> ministre des entreprises publiques]<sup>1</sup>. Il fait rapport au ministre du Budget sur toutes les décisions du conseil d'administration, du comité de direction, [<sup>1</sup> ...]<sup>1</sup> [<sup>1</sup> ...]<sup>1</sup> qui ont une incidence sur le budget général des dépenses de l'Etat.
+
+§ 3. Le commissaire du Gouvernement est invité à toutes les réunions [<sup>1</sup> ...]<sup>1</sup>, [<sup>1</sup> ...]<sup>1</sup>, du conseil d'administration et du comité de direction et y a voix consultative. Il peut, à tout moment, prendre connaissance, sans déplacement, des livres, de la correspondance, des procès-verbaux et généralement de tous les documents et de toutes les écritures de la [<sup>1</sup> SNCB]<sup>1</sup> Il peut requérir des membres [<sup>1</sup> ...]<sup>1</sup> et des administrateurs, des agents et des préposés de la [<sup>1</sup> SNCB]<sup>1</sup> toutes les explications ou informations et procéder à toutes les vérifications qui lui paraissent nécessaires à l'exécution de son mandat.
+
+La [<sup>1</sup> SNCB]<sup>1</sup> met à la disposition du commissaire du Gouvernement les ressources humaines et matérielles nécessaires à l'exécution de son mandat.
+
+§ 4. [<sup>1</sup> Le commissaire du Gouvernement introduit, dans un délai de quatre jours ouvrables, un recours auprès du ministre précité contre toute décision contraire à la loi, aux statuts, au contrat de gestion ou susceptible de porter préjudice à la mise en oeuvre des missions de service public de la SNCB.]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Ce délai court à partir du jour de la réunion à laquelle la décision a été prise, pour autant que le commissaire du Gouvernement y ait été régulièrement convoqué et, dans le cas contraire, à partir du jour où il en a reçu connaissance. Lorsqu'il est recouru à la procédure écrite prévue à l'article 521, alinéa 2, du Code des sociétés, le délai court à partir du jour ou le commissaire du Gouvernement a reçu connaissance de la décision ainsi adoptée. Le recours est suspensif.
+
+[<sup>1</sup> Le ministre peut annuler la décision en question dans un délai de quatorze jours à compter du même jour que le délai visé au premier alinéa. Il notifie l'annulation à l'organe de gestion concerné. Si, dans le délai précité, le ministre n'a pas prononcé l'annulation, la décision devient définitive, sans préjudice des dispositions du dernier alinéa.
+
+En cas d'incidence sur le budget général des dépenses de l'Etat, le ministre demande l'accord du ministre du budget. A défaut d'accord entre ces deux ministres dans le délai de quatorze jours visé à l'alinéa 4, il est statué dans un délai de trente jours à compter du même jour que le délai visé au premier alinéa, selon la procédure fixée par le Roi.]<sup>1</sup>
+
+§ 5. [<sup>2</sup> Chaque année, l'administrateur délégué de la SNCB est auditionné par la Chambre des représentants.
+
+Lors de cette audition, l'administrateur délégué fait rapport de l'accomplissement par la SNCB de ses missions de service public.]<sup>2</sup>
+
+§ 6. Chaque année, le [<sup>1</sup> ministre des entreprises publiques]<sup>1</sup> fait rapport aux Chambres législatives de l'application du titre premier et du présent titre.
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 24, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+(2)&lt;L 2015-08-10/17, art. 3, 091; En vigueur : 05-09-2015&gt;
+
+##### Art. 162decies
+
+[<sup>1</sup> § 1er. Par dérogation à l'article 26, alinéa 1er, le conseil d'administration de la SNCB établit le plan d'entreprise pour la durée du contrat de gestion et l'adapte chaque année. Ce plan énonce les objectifs et la stratégie de l'entreprise en tenant compte des objectifs de mobilité fixés par le Conseil des ministres.
+
+§ 2. Le plan d'entreprise contient obligatoirement :
+
+1° la structure et les caractéristiques de l'offre de transport sur le réseau ferroviaire et les points d'accueil;
+
+2° les besoins qui découlent de son objet traduits dans un plan pluriannuel d'investissement;
+
+3° les prévisions en matière de besoins en personnel;
+
+4° l'évolution des comptes d'exploitation traduits dans un plan financier;
+
+5° la description des conditions générales d'exploitation relatives aux secteurs d'activité qui ne relèvent pas des missions de service public de la SNCB.
+
+§ 3. Le plan pluriannuel d'investissement visé au paragraphe 2, 2°, contient la planification sur plusieurs années des investissements relatifs à l'acquisition, la maintenance, la gestion et le financement de matériel roulant ferroviaire, ainsi qu'à l'acquisition, la conception, la construction, le renouvellement, l'entretien et la gestion des gares ferroviaires, des points d'arrêt non gardés et de leurs dépendances ainsi qu'aux activités de sécurité et de gardiennage.
+
+§ 4. Le plan pluriannuel d'investissement de la SNCB est aligné sur le plan pluriannuel d'investissement d'Infrabel dans la mesure où le calendrier des travaux de la SNCB relatifs à la conception, à la construction et au renouvellement des gares ferroviaires, des points d'arrêt non gardés et de leurs dépendances a un impact sur le plan pluriannuel d'investissement d'Infrabel.
+
+§ 5. [<sup>2</sup> Le plan d'entreprise et ses adaptations annuelles sont communiqués au ministre des entreprises publiques. Le plan pluriannuel visé au § 2, 2°, est communiqué à la Cellule d'Investissement ferroviaire qui remet un avis au ministre des entreprises publiques préalablement à son approbation par le Roi conformément à l'alinéa 2.
+
+Par dérogation à l'article 26, alinéa 2, les éléments visés au § 2 sont approuvés par le Roi par arrêté délibéré en Conseil des ministres, en tant que partie nécessaire à l'exécution des missions de service public de la SNCB et de son plan pluriannuel d'investissement.]<sup>2</sup>
+
+§ 6. Le plan d'entreprise est une condition préalable à la conclusion du contrat de gestion. En cas de renouvellement du contrat de gestion, le plan est établi au plus tard douze mois avant l'expiration du contrat de gestion en cours. L'article 3, § 2, 9°, n'est pas applicable.
+
+§ 7. La SNCB établit un plan de transport en exécution du contrat de gestion. Toute modification significative à ce plan est soumise à l'approbation du Conseil des ministres.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 25, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+(2)&lt;L 2016-08-03/30, art. 4, 096; En vigueur : 17-09-2016&gt;
+
+##### Art. 162undecies
+
+(Abrogé) &lt;AR 2004-10-18/32, art. 27, 051 ; En vigueur : 01-01-2005&gt;
+
+### CHAPITRE IVbis. [<sup>1</sup> - Dispositions financières et comptables.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 26, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 162duodecies
+
+[<sup>1</sup> § 1er. Le présent article transpose l'article 6(3) de la Directive 2012/34/UE du 21 novembre 2012 du Parlement européen et du Conseil de l'Union européenne établissant un espace ferroviaire unique européen.
+
+§ 2. Sans préjudice de l'article 27, § 1er, la SNCB tient, dans sa comptabilité interne, des comptes séparés pour ses activités relatives au transport de marchandises par chemin de fer. Les comptes annuels de la SNCB reprennent, dans leur annexe, un bilan et un compte de résultats séparés pour ces activités.
+
+§ 3. Les contributions versées aux activités relatives à la fourniture de services de transport de voyageurs au titre des missions de service public doivent figurer séparément dans les comptes correspondants et ne peuvent pas être transférées aux activités relatives à la fourniture d'autres services de transport ou à toute autre activité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 26, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+### CHAPITRE V. - Personnel.
+
+##### Art. 163
+
+A l'alinéa 6 de l'article 13, inséré dans la loi du 26 juillet 1926 créant la Société nationale des chemins de fer belges par la loi du 21 avril 1965, les mots " par le Ministre ayant les chemins de fer dans ses attributions ou par son délégué " sont remplacés par les mots " par le Président du Conseil d'administration ".
+
+##### Art. 163bis
+
+[<sup>1</sup> § 1. La SNCB dispose du personnel nécessaire à l'accomplissement de ses missions, mis à sa disposition par HR Rail. Le statut du personnel tel que visé à l'article 21 de la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges, y compris le statut syndical, reste applicable au personnel. Toutefois, pendant la période de sa mise à disposition, ce personnel se trouve sous l'autorité exclusive de la SNCB.
+
+Les conditions et modalités de la mise à disposition du personnel en vertu du premier alinéa, sont fixées par ou en vertu de la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges.
+
+§ 2. Le Chapitre III de la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs ne s'applique pas à la mise à disposition de personnel visée au § 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/02, art. 16, 085; En vigueur : 01-01-2014&gt;
+
+##### Art. 163ter
+
+[<sup>1</sup> Les dispositions du titre I, chapitre VIII, à l'exception de l'article 31, et sans porter préjudice à l'article 71 de la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges, ne s'appliquent pas à la SNCB et au personnel mis à la disposition de la SNCB. La SNCB et son personnel sont soumis à la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/02, art. 17, 085; En vigueur : 01-01-2014&gt;
+
+### CHAPITRE Vbis. [<sup>1</sup> - La convention de transport.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 27, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+#### Section Ire. [<sup>1</sup> - Définition et contenu.]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par AR 2013-12-11/03, art. 27, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 163quater
+
+[<sup>1</sup> § 1er. La SNCB conclut avec Infrabel une convention de transport qui établit les conditions et modalités de la collaboration opérationnelle entre la SNCB et Infrabel, pour les services à prester dans le cadre des missions de service public, entre autres en vue de fournir un service ponctuel et de qualité aux voyageurs.
+
+§ 2. La convention de transport règle au moins les matières suivantes :
+
+1° la ponctualité et la circulation des trains;
+
+2° l'accueil et l'information aux voyageurs;
+
+3° la gestion des incidents dont les plans d'intervention d'urgence;
+
+4° la coordination de l'exécution des investissements de la SNCB et d'Infrabel.
+
+§ 3. Toute clause résolutoire expresse dans la convention de transport est réputée non écrite.L'article 1184 du Code civil n'est pas applicable à la convention de transport.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 27, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+#### Section II. [<sup>1</sup> - Conclusion, approbation, fin et renouvellement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par AR 2013-12-11/03, art. 27, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 163quinquies
+
+[<sup>1</sup> § 1er. Lors de la négociation de la convention de transport, la SNCB et Infrabel sont représentées par leur comité de direction. La convention de transport est soumise à l'approbation des conseils d'administration statuant à la majorité des deux tiers des voix exprimées.
+
+§ 2. Le Service de Régulation du Transport ferroviaire rend un avis sur tout projet de convention de transport ou sur tout projet de modification de la convention de transport dans un délai d'un mois après que la SNCB et Infrabel lui aient soumis un projet commun.
+
+La SNCB et Infrabel ne peuvent procéder à la conclusion ou à la modification de la convention de transport avant l'expiration du délai d'un mois précité.
+
+§ 3. La convention de transport et ses modifications ultérieures n'entrent en vigueur qu'après leur approbation par le Roi, par arrêté délibéré en Conseil des ministres, et à la date fixée par cet arrêté.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 27, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 163sexies
+
+[<sup>1</sup> § 1er. La convention de transport est conclue pour une période de cinq ans.
+
+§ 2. La convention de transport est adaptée, conformément à la procédure prévue à l'article 163quinquies, aux modifications du contrat de gestion de la SNCB et/ou d'Infrabel, dans la mesure où ces modifications le requièrent.
+
+En cas de différend sur la nécessité de modifier la convention de transport ou sur les modifications elles-mêmes, le Roi détermine par arrêté délibéré au Conseil des ministres, le contenu de la convention de transport, le cas échéant, modifiée, après avoir sollicité l'avis du Service de Régulation du Transport ferroviaire. Cette convention de transport est contraignante à l'égard de la SNCB et d'Infrabel. L'article 163quinquies, § 3, n'est pas applicable.
+
+§ 3. La SNCB et Infrabel peuvent modifier à tout moment la convention de transport, de commun accord, conformément à la procédure prévue à l'article 163quinquies.
+
+§ 4. Au plus tard six mois avant l'expiration de la convention de transport, la SNCB et Infrabel entament les négociations sur le contenu d'une nouvelle convention de transport. Si, à l'expiration de cette période, une nouvelle convention de transport n'est pas entrée en vigueur, le Roi détermine, par arrêté délibéré en Conseil des ministres, provisoirement le contenu de la convention de transport après avoir sollicité l'avis du Service de Régulation du Transport ferroviaire. Cette convention est contraignante à l'égard de la SNCB et d'Infrabel jusqu'à la conclusion d'une nouvelle convention de transport, conformément aux dispositions du présent chapitre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 27, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 163septies
+
+[<sup>1</sup> Le Service de Régulation du Transport ferroviaire tranche les litiges concernant l'exécution de la convention de transport endéans les trente jours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 27, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+### CHAPITRE VI. - Dispositions transitoires et modifications.
+
+##### Art. 164
+
+1° &lt;Dispositions abrogatoires de l'AR174 1982-12-30/73, en ce qui concerne la S.N.C.B., et de l'AR238 1983-12-31/75&gt;
+
+2° &lt;Disposition abrogatoire de l'article 1ter de la L 1926-07-23/30&gt;
+
+##### Art. 165
+
+&lt;Dispositions modificatives des articles 11 - 15, 17, 18, 21 - 27, 29 - 46 de CCOM 1891-08-25/30&gt;
+
+##### Art. 166
+
+Dans la loi du 25 juillet 1891 révisant la loi du 15 avril 1843 sur la police des chemins de fer, sont apportées les modifications suivantes :
+
+1° l'article 2, alinéa 2, est remplacé par la disposition suivante :
+
+" En aucun cas, les arbres ne peuvent être plantés, sans autorisation écrite de la S.N.C.B., à moins de 6 mètres du franc-bord du chemin de fer. ";
+
+2° à l'article 3, alinéas 1er, 3 et 4, les mots " sans autorisation du Gouvernement " sont remplacés par les mots " sans autorisation écrite de la S.N.C.B. ";
+
+3° à l'article 4, les mots " le Gouvernement " sont remplacés par les mots " la S.N.C.B. ";
+
+4° l'article 5 est remplacé par la disposition suivante :
+
+" Art. 5. Sans autorisation écrite de la S.N.C.B., il est défendu d'exécuter des fouilles, déblais ou excavations quelconques, même à titre provisoire, d'ouvrir ou d'exploiter des minières, tourbières, carrières, sablières, phosphatières, soit à ciel ouvert, soit souterraines, ou d'effectuer des travaux de recherches de mines, le long du chemin de fer, dans la distance de 20 mètres du franc-bord. ";
+
+5° à l'article 6, alinéa 3, les modifications suivantes sont apportées :
+
+a) les mots " autorisation du Gouvernement " sont remplacés par les mots " autorisation écrite de la S.N.C.B. ";
+
+b) les mots " par le feu des locomotives " sont remplacés par les mots " du fait de l'exploitation du chemin de fer ";
+
+6° à l'article 7, l'alinéa 3 est remplacé par la disposition suivante :
+
+" A l'expiration du délai fixé par le jugement, la S.N.C.B. peut faire procéder d'office à la suppression des ouvrages illicites, aux frais du délinquant. ";
+
+7° à l'article 8, les mots " le Gouvernement " sont remplacés par les mots " la S.N.C.B. ".
+
+##### Art. 167
+
+§ 1er. Dans l'article 1er, alinéa 2, de la loi du 23 juillet 1926 créant la Société nationale des chemins de fer belges, le mot " Gouvernement " est remplacé par le mot " Roi ".
+
+§ 2. L'alinéa 3 du même article est abrogé.
+
+##### Art. 168
+
+§ 1er. Les articles 5, 7, 7bis, 7ter, 7quater et 7quinquies de la loi du 26 juillet 1926 cessent leurs effets à la date des nominations visées à l'article 48 de la présente loi.
+
+§ 2. L'article 162 de la présente loi entre en vigueur à la date des nominations visées à l'article 48.
+
+§ 3. Les autres dispositions du titre V entrent en vigueur à la date de l'arrêté portant approbation du premier contrat de gestion de la Société nationale des chemins de fer belges, conformément au titre Ier de la présente loi.
+
+## TITRE VI. - [<sup>1</sup> Skeyes.]<sup>1</sup> &lt;AR 1998-04-02/34, art. 32, 019; En vigueur : 02-10-1998&gt;
+
+----------
+
+(1)&lt;L 2019-04-13/20, art. 2, 104; En vigueur : 07-11-2018&gt;
+
+### CHAPITRE I. - (Objet et missions de service public.) &lt;AR 1998-04-02/34, art. 32, 019; En vigueur : 02-10-1998&gt;
+
+##### Art. 169
+
+&lt;AR 1998-04-02/34, art. 32, 019; En vigueur : 02-10-1998&gt; [<sup>1</sup> Skeyes]<sup>1</sup> est une entreprise publique autonome relevant du ministre qui a les transports dans ses attributions.
+
+----------
+
+(1)&lt;L 2019-04-13/20, art. 2, 104; En vigueur : 07-11-2018&gt;
+
+##### Art. 170
+
+&lt;AR 1998-04-02/34, art. 32, 019; En vigueur : 02-10-1998&gt; [<sup>1</sup> Skeyes]<sup>1</sup> a pour objet : 1° d'assurer la sécurité de la navigation aérienne dans les espaces aériens dont l'Etat belge est responsable en vertu de la Convention relative à l'Aviation civile internationale du 7 décembre 1944, notamment son annexe 2, approuvée par la loi du 30 avril 1947, ou en vertu de tout autre accord international;
+
+2° d'assurer à l'aéroport de Bruxelles-National le contrôle des mouvements des aéronefs en approche, à l'atterrissage, au décollage et sur les pistes et les voies de circulation, ainsi que le guidage des aéronefs sur les aires de trafic, et de continuer à assurer la sécurité du trafic aérien des aéroports et aérodromes publics régionaux conformément à l'accord de coopération conclu le 30 novembre 1989 avec les Régions;
+
+3° de fournir aux services de police et d'inspection aéronautique et aéroportuaire des informations relatives aux aéronefs, à leur pilotage, à leurs mouvements et aux effets observables de ceux-ci;
+
+4° de fournir des informations météorologiques pour la navigation aérienne, ainsi que des services de télécommunications ou autres services liés aux activités visées aux 1° ou 2°.
+
+----------
+
+(1)&lt;L 2019-04-13/20, art. 2, 104; En vigueur : 07-11-2018&gt;
+
+##### Art. 171
+
+&lt;AR 1998-04-02/34, art. 32, 019; En vigueur : 02-10-1998&gt; Les activités visées à l'article 170, 1° à 3°, constituent des missions de service public.
+
+##### Art. 172
+
+&lt;AR 1998-04-02/34, art. 32, 019; En vigueur : 02-10-1998&gt; [<sup>1</sup> Skeyes]<sup>1</sup> fixe les redevances pour les services qu'elle rend dans le cadre des missions visées à l'article 171, dans le respect des principes de base et limites établis dans le contrat de gestion.
+
+----------
+
+(1)&lt;L 2019-04-13/20, art. 2, 104; En vigueur : 07-11-2018&gt;
+
+##### Art. 172bis
+
+&lt;Inséré par L 2004-12-27/30, art. 317, En vigueur : 10-01-2005&gt; Outre l'application des dispositions visées à l'article 38, §§ 1er, 2 et 3, le Roi peut, par arrêté délibéré en Conseil des ministres, décider de la transformation de l'entreprise publique autonome [<sup>1</sup> skeyes]<sup>1</sup> en société anonyme de droit public, aux conditions et avec les statuts qu'Il détermine. Les §§ 4, 5 et 6 sont applicables à une telle transformation. Un réviseur d'entreprises, désigné par le ministre dont relève [<sup>1</sup> skeyes]<sup>1</sup>, fait rapport sur un état résumant l'actif et le passif et indiquant le montant du capital social après la transformation. Ce montant ne peut être supérieur à l'actif net, tel qu'il résulte de l'état précité qui est établi par le conseil d'administration ou le réviseur désigné par le ministre. Les conclusions du réviseur d'entreprises sont reprises dans le rapport au Roi.
+
+----------
+
+(1)&lt;L 2019-04-13/20, art. 2, 104; En vigueur : 07-11-2018&gt;
+
+### CHAPITRE II. - (Gestion.) &lt;AR 1998-04-02/34, art. 32, 019; En vigueur : 02-10-1998&gt;
+
+##### Art. 173
+
+&lt;AR 1998-04-02/34, art. 32, 019; En vigueur : 02-10-1998&gt; § 1er. En ce qui concerne [<sup>1</sup> skeyes]<sup>1</sup>, les modifications suivantes sont apportées à l'article 18 : 1° le § 1er est remplacé par la disposition suivante :
+
+"Le conseil d'administration de [<sup>1</sup> skeyes]<sup>1</sup> se compose de huit membres au moins et de douze membres au plus, en ce compris l'administrateur délégué";
+
+2° les mots "membres ordinaires" et "membres ordinaires du conseil d'administration" sont remplacés par le mot "administrateurs";
+
+3° au § 3, les mots "au plus" sont ajoutés après les mots "six ans";
+
+4° au § 4, le renvoi à l'article 20 est supprimé.
+
+§ 2. En ce qui concerne [<sup>1</sup> skeyes]<sup>1</sup>, les modifications suivantes sont apportées à l'article 20 :
+
+1° dans la première phrase du § 2, les mots "au plus" sont ajoutés après les mots "six ans";
+
+2° la dernière phrase du § 2 est remplacée par la disposition suivante :
+
+"Il ne peut être révoqué que par arrêté royal délibéré en Conseil des Ministres, sur avis conforme motivé du conseil d'administration adopté à la majorité des deux tiers des voix exprimées";
+
+3° le § 3 est remplacé par la disposition suivante :
+
+"Le conseil d'administration nomme, sur la proposition de l'administrateur délégué, les autres membres du comite de direction pour un terme renouvelable de six ans au plus. Le membre responsable pour le contrôle de la circulation aérienne doit avoir une expérience opérationnelle de contrôle aérien civil. Les membres du comité de direction ne peuvent être révoqués que par décision du conseil d'administration adoptée à la majorité des deux tiers des voix exprimées."
+
+§ 3. En ce qui concerne [<sup>1</sup> skeyes]<sup>1</sup>, dans les articles 20 à 22, les mots "administrateur-directeur" et "administrateurs-directeurs" sont remplacés respectivement par les mots "membre du comité de direction" et "membres du comité de direction".
+
+§ 4. En vue d'assister le conseil dans l'examen des comptes, le contrôle du budget et toute autre question de contrôle interne, le conseil d'administration constitue en son sein un comité d'audit composé d'au moins quatre administrateurs autres que l'administrateur délégué. Le président du conseil et le commissaire du Gouvernement sont invités aux réunions du comité d'audit et y siègent avec voix consultative.
+
+----------
+
+(1)&lt;L 2019-04-13/20, art. 2, 104; En vigueur : 07-11-2018&gt;
+
+##### Art. 174
+
+&lt;AR 1998-04-02/34, art. 32, 019; En vigueur : 02-10-1998&gt; Le conseil d'administration et le comité de direction de [<sup>1</sup> skeyes]<sup>1</sup> comprennent autant de membres d'expression française que d'expression néerlandaise. Le président du conseil d'administration et l'administrateur délégué sont d'expression linguistique différente. Les membres qui ne sont ni d'expression française ni d'expression néerlandaise ne sont pas pris en compte pour déterminer la parité linguistique.
+
+----------
+
+(1)&lt;L 2019-04-13/20, art. 2, 104; En vigueur : 07-11-2018&gt;
+
+### CHAPITRE III. - (Personnel.) &lt;AR 1998-04-02/34, art. 32, 019; En vigueur : 02-10-1998&gt;
+
+##### Art. 175
+
+&lt;AR 1998-04-02/34, art. 32, 019; En vigueur : 02-10-1998&gt; § 1er. Les dispositions de l'article 29, § 1er, sont sans préjudice du droit de [<sup>1</sup> skeyes]<sup>1</sup> d'employer sous régime contractuel les travailleurs qu'elle occupait sous un tel régime à la date de son classement en entreprise publique autonome.
+
+§ 2. Dans les cas et aux conditions prévus dans une réglementation arrêtée par la commission paritaire à la majorité des deux tiers des voix exprimées, [<sup>1</sup> skeyes]<sup>1</sup> peut recruter et employer du personnel en vertu d'un contrat de travail régi par la loi du 3 juillet 1978 relative aux contrats de travail en dehors des cas prévus à l'article 29, § 1er, deuxième alinéa.
+
+§ 3. Une réglementation arrêtée par la commission paritaire à la majorité des deux tiers des voix exprimées et ratifiée par le Roi peut établir un régime facultatif permettant à des membres du personnel statutaire de [<sup>1</sup> skeyes]<sup>1</sup> de passer sous régime contractuel.
+
+----------
+
+(1)&lt;L 2019-04-13/20, art. 2, 104; En vigueur : 07-11-2018&gt;
+
+##### Art. 176
+
+&lt;AR 1998-04-02/34, art. 32, 019; En vigueur : 02-10-1998&gt; § 1er. Dans l'article 7 de l'arrêté royal n° 117 du 27 février 1935 établissant le statut des pensions du personnel des établissements publics autonomes et des régies institués par l'Etat, modifié par les lois des 28 avril 1958, 1er juillet 1971, 11 juillet 1975, 17 mai 1976 et 15 juillet 1977, l'arrêté royal n° 429 du 5 août 1986 et l'arrêté royal du 2 avril 1998, la mention "Régie des voies aériennes" est supprimée.
+
+§ 2. (1. Pour l'application de ce paragraphe et des paragraphes suivants, il faut entendre par :
+
+1° " les membres du personnel " : les membres du personnel de [<sup>4</sup> skeyes]<sup>4</sup>, ainsi que les membres du personnel de l'ancienne Régie des voies aériennes qui n'étaient pas affectés aux services en charge des activités au sol, titulaires d'une nomination à titre définitif ou d'une nomination y assimilée par ou en vertu d'une loi.
+
+2° [<sup>1</sup> "le Service des Pensions" : "le Service fédéral des Pensions";]<sup>1</sup>
+
+§ 2. 2. Les membres du personnel bénéficient, à partir du 1er janvier 2005, d'une pension de retraite à charge du Trésor public dans les mêmes conditions et selon les mêmes modalités que les fonctionnaires publics.) &lt;AR 2004-12-27/37, art. 1, 054; En vigueur : 31-12-2004&gt;
+
+§ 3. ([<sup>4</sup> Skeyes]<sup>4</sup> virera un montant total de 190.897.114 d'euros au profit de l'Etat, le 31 décembre 2004 à minuit ou avant cette date. Cette cotisation patronale unique est une cotisation ordinaire de sécurité sociale en compensation des droits de pension de retraite accumulés jusqu'au 31 décembre 2004 des pensionnés à cette date ainsi que de ceux qui ont quitté l'entreprise et qui se sont constitués des droits de pension différés et des contrôleurs de la circulation aérienne qui sont en disponibilité obligatoire pour incapacité fonctionnelle. Le cas échéant, le Roi peut, pour l'ensemble des paiements ou une partie de ceux-ci, reporter cette échéance d'une période de quatorze jours au plus et déterminer les modalités afférentes à cette prolongation.
+
+[<sup>4</sup> Skeyes]<sup>4</sup> est autorisée à contracter sous la garantie de l'Etat un emprunt d'un montant correspondant à la différence entre le montant visé à l'alinéa 1er et le montant des provisions pour les obligations de pension constituées par [<sup>4</sup> skeyes]<sup>4</sup>. Cette différence entre le montant visé à l'alinéa 1er et le montant des provisions pour les obligations de pension constituées par [<sup>4</sup> skeyes]<sup>4</sup> sont à considérer pour [<sup>4</sup> skeyes]<sup>4</sup> comme des frais de restructuration qui conformément à l'article 58 de l'arrêté royal du 30 janvier 2001 portant exécution du code des sociétés, peuvent être portés à l'actif. Par dérogation à l'article 59 de l'arrêté royal précité, [<sup>4</sup> skeyes]<sup>4</sup> peut amortir ces frais activés par tranches annuelles de minimum 10 %.
+
+Par dérogation à l'article 12, § 2, 2°, [<sup>4</sup> skeyes]<sup>4</sup> n'est pas soumis à l'arrêté royal n° 517 du 31 mars 1987 instaurant une prime annuelle sur les nouveaux engagements garantis par l'Etat de certaines institutions du secteur public, pour tout emprunt contracté dans le cadre des obligations de paiement visées à l'alinéa 1er à l'Etat.
+
+Le Roi peut prévoir que le versement visé à l'alinéa 1er peut être totalement ou partiellement effectués par le transfert à l'Etat d'instruments financiers désignés par le Roi sur la proposition du Ministre des Finances.) &lt;AR 2004-12-27/37, art. 2, 054; En vigueur : 31-12-2004&gt;
+
+§ 4. (A partir du salaire dû pour janvier 2005, [<sup>4</sup> skeyes]<sup>4</sup> est redevable d'une cotisation patronale équivalente à 35 %. Cette cotisation patronale est fixée sur la base des traitements ainsi que sur les autres éléments de la rémunération qui sont pris en considération pour le calcul de la pension de retraite. Les dispositions des articles 61 et 61bis de la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pension s'appliquent à la cotisation patronale susmentionnée.
+
+Le pourcentage prévu à l'alinéa 1er pourra être revu en concertation avec [<sup>4</sup> skeyes]<sup>4</sup> si la réglementation en matière de pension applicable au 31 décembre 2004 sur la base de laquelle ce pourcentage a été fixé, devait être modifiée ou si le nombre et la composition des engagements statutaires dévient par rapport à l'hypothèse arrêté pour le calcul de base.
+
+La cotisation patronale visée à l'alinéa 1er est une cotisation ordinaire de sécurité sociale.) &lt;AR 2004-12-27/37, art. 3, 054; En vigueur : 01-01-2005&gt;
+
+§ 5. (1. Si à un quelconque moment après le 1er janvier 2005, les obligations de pension augmentent ou diminuent à la suite d'une initiative de [<sup>4</sup> skeyes]<sup>4</sup>, [<sup>4</sup> skeyes]<sup>4</sup> fera un paiement de compensation au [<sup>1</sup> Service fédéral des Pensions]<sup>1</sup> ou ce dernier fera un paiement de compensation à [<sup>4</sup> skeyes]<sup>4</sup>. &lt;L 2006-01-12/45, art. 47, 2°, 061 ; En vigueur : 01-01-2006&gt;
+
+§ 5.2. Les situations visées au § 5.1 sont :
+
+a) Toute modification apportée à partir du 1er janvier 2005 à l'initiative de [<sup>4</sup> skeyes]<sup>4</sup> au statut pécuniaire entraînant une majoration des pensions de retraite à la suite de l'application de l'article 12 de la loi du 9 juillet 1969 modifiant et complétant la législation relative aux pensions de retraite et de survie des agents du secteur public;
+
+b) Majorations individuelles réelles de traitement au-delà de l'évolution individuelle du traitement barémique qui est utilisée pour les calculs actuariels au 31 décembre 2004 et au-delà de l'inflation;
+
+c) Plans sociaux.
+
+§ 5.3. Les paiements de compensation dont il est question au § 5.1 qui sont dus dans les cas énumérés au § 5.2 sont calculés et limités comme suit :
+
+A. Dans le cas visé au § 5.2, a, [<sup>4</sup> skeyes]<sup>4</sup> paie au (Service des Pensions du Secteur public) la valeur actuelle de la majoration des pensions de retraite, pour les pensions de retraite immédiates et différées des anciens membres du personnel. Ce paiement de compensation est dû au moment où la majoration est payée effectivement pour la première fois aux bénéficiaires et uniquement pour les pensions de retraite en cours. &lt;L 2006-01-12/45, art. 47, 2°, 061 ; En vigueur : 01-01-2006&gt;
+
+B. Dans le cas visé au § 5.2, b, un paiement de compensation est dû pour toute nouvelle pension de retraite immédiate accordée à partir du 1er janvier 2005, sur la différence entre la pension de retraite effectivement octroyée reliée à l'indice 138,01 et la pension de retraite déterminée sur la même base, mais avec un traitement moyen qui est le résultat de l'évolution normale du membre du personnel statutaire à travers les échelles de traitement à l'indice 138,01 applicables chez [<sup>4</sup> skeyes]<sup>4</sup> au 1er janvier 2005 et tenant compte des promotions connues à cette date. La valeur capitalisée des cotisations qui sont payées en vertu du § 4 sur la différence entre le traitement qui aurait été appliqué pour une évolution normale et le traitement augmenté réellement payé, est déduite pour le calcul des paiements de compensation le cas échéant dus par [<sup>4</sup> skeyes]<sup>4</sup>.
+
+Si la période de référence pour le calcul de la pension de retraite se situe entièrement ou pour partie avant le 1er janvier 2005, la pension théorique pour cette partie de la période de référence sera calculée sur les traitements réels pour cette période
+
+Si le membre du personnel est entré en service au plus tôt le 1er janvier 2005, dans ce cas pour la détermination du traitement moyen qui est le résultat de l'évolution normale à travers les échelles de traitement à l'indice 138,01 applicables chez [<sup>4</sup> skeyes]<sup>4</sup> au 1er janvier 2005, il est considéré que ces échelles de traitement et cette évolution normale lui étaient applicables au moment de son engagement.
+
+Si la pension de retraite effectivement octroyée est supérieure à la pension théorique telle que décrite ci-dessus, [<sup>4</sup> skeyes]<sup>4</sup> est redevable de la valeur actuelle de la différence après application de la déduction mentionnée plus haut. Cette valeur actuelle, dont le mode de calcul est fixé par le Roi, par un arrêté délibéré en Conseil des Ministres, doit être payée au (Service des Pensions du Secteur public). &lt;L 2006-01-12/45, art. 47, 2°, 061 ; En vigueur : 01-01-2006&gt;
+
+Si la pension de retraite effectivement octroyée est inférieure à la pension théorique, le (Service des Pensions du Secteur public) sera redevable à [<sup>4</sup> skeyes]<sup>4</sup> de la valeur actuelle de la différence. &lt;L 2006-01-12/45, art. 47, 2°, 061 ; En vigueur : 01-01-2006&gt;
+
+C. Dans le cas visé au § 5.2, c, si à partir du 1er janvier 2005, [<sup>4</sup> skeyes]<sup>4</sup> autorise une nouvelle forme de congé préalable à la retraite, [<sup>4</sup> skeyes]<sup>4</sup> devra payer la cotisation patronale telle que définie au § 4 sur le montant non réduit du traitement qui sert de base au calcul du montant de la pension. Pour les périodes qui, à la suite de l'application de l'arrêté royal n° 442 du 14 août 1986 relatif à l'incidence de certaines positions administratives sur les pensions des agents des services publics ou d'autres réglementations similaires, ne relèvent pas totalement ou en partie du calcul de la pension, la cotisation patronale n'est pas due ou n'est due qu'au pro rata.
+
+§ 5.4. Les paiements de compensation dont il est question aux §§ 5.1 à 5.3, sont considérés comme des cotisations ordinaires de sécurité sociale.
+
+§ 5.5. Les facteurs actuariels sur la base desquels la valeur actuelle et la valeur capitalisée sont calculées sont déterminés par arrêté royal délibéré en Conseil des Ministres.
+
+§ 5.6. Les modalités plus précises de paiement sont, en exécution du présent arrêté, déterminées par arrêté royal.) &lt;AR 2004-12-27/37, art. 4, 054; En vigueur : 01-01-2005&gt;
+
+(§ 6. L'article 12bis de la loi du 28 avril 1958 relative à la pension des membres du personnel de certains organismes d'intérêt public et de leurs ayants droit ne s'applique pas à la restructuration des obligations de pensions de [<sup>4</sup> skeyes]<sup>4</sup>.) &lt;AR 2004-12-27/37, art. 5, 054; En vigueur : 01-01-2005&gt;
+
+[<sup>2</sup> § 7. Par dérogation aux articles 33 et 34, à partir du premier janvier 2017, toute nouvelle forme de mise en disponibilité avec traitement d'attente ou de congé préalable à la pension avec traitement d'attente accordés par [<sup>1</sup> skeyes]<sup>1</sup> à ses membres du personnel, nommés dans les grades liés à la carrière de contrôleur de la circulation aérienne, est fixée par arrêté royal.]<sup>2</sup>
+
+[<sup>3</sup> § 8. En ce qui concerne les obligations de [<sup>4</sup> skeyes]<sup>4</sup> en matière de provisions pour risques et charges pour la disponibilité et le congé préalable à la pension de son personnel, [<sup>4</sup> skeyes]<sup>4</sup> ne doit pas constituer de provision.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2016-03-18/03, art. 116, 094; En vigueur : 01-04-2016&gt;
+
+(2)&lt;L 2017-03-19/09, art. 3, 098; En vigueur : 01-01-2017&gt;
+
+(3)&lt;L 2017-07-31/19, art. 2, 100; En vigueur : 24-08-2017&gt;
+
+(4)&lt;L 2019-04-13/20, art. 2, 104; En vigueur : 07-11-2018&gt;
+
+### CHAPITRE IV. - (Règlements.) &lt;Inséré par AR 1998-07-17/31, art. 9; En vigueur : 02-10-1998&gt;
+
+##### Art. 176bis
+
+&lt;Inséré par AR 1998-07-17/31, art. 9; En vigueur : 02-10-1998&gt; Le conseil d'administration de [<sup>1</sup> skeyes]<sup>1</sup> peut, dans le respect des principes de base et limites fixés dans le contrat de gestion et sans préjudice des dispositions de la loi du 27 juin 1937 portant révision de la loi du 16 novembre 1919 relative à la réglementation de la navigation aérienne, arrêter des règlements en vue de régler les matières visées aux articles 170, 1° et 2°, et 172.
+
+----------
+
+(1)&lt;L 2019-04-13/20, art. 2, 104; En vigueur : 07-11-2018&gt;
+
+##### Art. 176ter
+
+&lt;Inséré par AR 1998-07-17/31, art. 9; En vigueur : 02-10-1998&gt; Les règlements arrêtés par [<sup>1</sup> skeyes]<sup>1</sup> en vertu de l'article 176bis sont soumis à l'approbation du ministre qui a les transports dans ses attributions. Ils sont obligatoires dès leur publication au Moniteur belge, ou si la notification a lieu avant cette publication, dès leur notification aux intéressés.
+
+En outre, les dispositions des règlements visés au premier alinéa qui intéressent les usagers d'aéroports situés en Belgique sont publiées à l'" Aeronautical Information Publication " publiée par les soins de [<sup>1</sup> skeyes]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2019-04-13/20, art. 2, 104; En vigueur : 07-11-2018&gt;
+
+##### Art. 176quater
+
+&lt;Inséré par AR 1998-07-17/31, art. 9; En vigueur : 02-10-1998&gt; § 1er. Les règlements vises à l'article 176bis peuvent prévoir les sanctions suivantes pour des infractions à leurs dispositions, et ce en fonction de la nature et de la gravité de ces infractions :
+
+1° un accroissement des redevances visées à l'article 172 allant de 50 pour-cent à 200 pour-cent des redevances dues;
+
+2° une amende administrative de 2.000 à 200.000 francs, étant entendu que :
+
+a) en cas de nouvelle infraction dans les trois ans, ces montants sont doublés;
+
+b) en cas de concours de plusieurs infractions, les montants des amendes administratives sont cumulés sans pouvoir excéder la somme de 2.000.000 de francs.
+
+§ 2. Les sanctions visées au § 1er sont imposées par décision motivée de l'administrateur délégué de [<sup>1</sup> skeyes]<sup>1</sup>, l'auteur de l'infraction ou son représentant ayant été entendu ou dûment appelé. Aucune de ces sanctions ne peut être prononcée plus de douze mois après les faits constitutifs de l'infraction.
+
+L'auteur de l'infraction peut, dans les trente jours suivant la date de notification de la décision de l'administrateur délégué, prendre recours contre cette décision auprès du Directeur général de l'Administration de l'Aéronautique. Ce recours suspend l'exécution de la décision.
+
+§ 3. Les accroissements et amendes visés au § 1er sont recouvrés au profit du Trésor par l'Administration de la taxe sur la valeur ajoutée, de l'enregistrement et des domaines.
+
+----------
+
+(1)&lt;L 2019-04-13/20, art. 2, 104; En vigueur : 07-11-2018&gt;
+
+### CHAPITRE V. - (Dispositions diverses.) &lt;AR 1998-07-17/31, art. 9; En vigueur : 02-10-1998&gt;
+
+##### Art. 177
+
+&lt;AR 1998-04-02/34, art. 32, 019; En vigueur : 02-10-1998&gt; Le statut de la R.V.A., annexé à l'arrêté royal du 5 octobre 1970 portant refonte du statut de la Régie des voies aériennes et modifié par l'arrêté royal du 31 mars 1981, l'arrêté royal n° 240 du 31 décembre 1983 et l'arrêté royal n° 425 du 1er août 1986, est abrogé, à l'exception des articles 12 et 20.
+
+##### Art. 177/1
+
+[<sup>1</sup> Dans toutes les lois et tous les règlements, à l'exception des articles 31, 32 et 34 de l'arrêté royal du 2 avril 1998 portant réforme des structures de gestion de l'aéroport de Bruxelles-National, le mot "Belgocontrol", est remplacé par le mot "skeyes".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/20, art. 3, 104; En vigueur : 07-11-2018&gt;
+
+## TITRE VII. - (Brussels International Airport Company.) &lt;Inséré par AR 1998-04-02/34, art. 10; En vigueur : 01-10-1998&gt;
+
+### CHAPITRE I. - (Objet et missions de service public.) &lt;Inséré par AR 1998-04-02/34, art. 10; En vigueur : 01-10-1998&gt;
+
+##### Art. 178
+
+(abrogé) &lt;AR 2004-05-27/44, art. 62, 048; En vigueur : 29-12-2004; date de la transformation de B.I.A.C. en société anonyme de droit privé régie par le Code des sociétés&gt;
+
+##### Art. 179
+
+(abrogé) &lt;AR 2004-05-27/44, art. 62, 048; En vigueur : 29-12-2004; date de la transformation de B.I.A.C. en société anonyme de droit privé régie par le Code des sociétés&gt;
+
+##### Art. 180
+
+(abrogé) &lt;AR 2004-05-27/44, art. 62, 048; En vigueur : 29-12-2004; date de la transformation de B.I.A.C. en société anonyme de droit privé régie par le Code des sociétés&gt;
+
+##### Art. 181
+
+(abrogé) &lt;AR 2004-05-27/44, art. 62, 048; En vigueur : 29-12-2004; date de la transformation de B.I.A.C. en société anonyme de droit privé régie par le Code des sociétés&gt;
+
+### CHAPITRE II. - (Gestion.) &lt;Inséré par AR 1998-04-02/34, art. 10; En vigueur : 01-10-1998&gt;
+
+##### Art. 182
+
+(abrogé) &lt;AR 2004-05-27/44, art. 62, 048; En vigueur : 29-12-2004; date de la transformation de B.I.A.C. en Société anonyme de droit privé régie par le Code des sociétés&gt;
+
+##### Art. 183
+
+(abrogé) &lt;AR 2004-05-27/44, art. 62, 048; En vigueur : 29-12-2004; date de la transformation de B.I.A.C. en société anonyme de droit privé régie par le Code des sociétés&gt;
+
+##### Art. 184
+
+(abrogé) &lt;AR 2004-05-27/44, art. 62, 048; En vigueur : 29-12-2004; date de la transformation de B.I.A.C. en société anonyme de droit privé régie par le Code des sociétés&gt;
+
+##### Art. 185
+
+(abrogé) &lt;AR 2004-05-27/44, art. 62, 048; En vigueur : 29-12-2004; date de la transformation de B.I.A.C. en Société anonyme de droit privé régie par le Code des sociétés&gt;
+
+##### Art. 186
+
+(abrogé) &lt;AR 2004-05-27/44, art. 62, 048; En vigueur : 29-12-2004; date de la transformation de B.I.A.C. en société anonyme de droit privé régie par le Code des société&gt;
+
+##### Art. 187
+
+(abrogé) &lt;AR 2004-05-27/44, art. 62, 048; En vigueur : 29-12-2004; date de la transformation de B.I.A.C. en société anonyme de droit privé régie par le Code des société&gt;
+
+##### Art. 188
+
+(abrogé) &lt;AR 2004-05-27/44, art. 62, 048; En vigueur : 29-12-2004; date de la transformation de B.I.A.C. en société anonyme de droit privé régie par le Code des sociétés&gt;
+
+### CHAPITRE III. - (Personnel.) &lt;Inséré par AR 1998-04-02/34, art. 10; En vigueur : 01-10-19985&gt;
+
+##### Art. 189
+
+(abrogé) &lt;AR 2004-05-27/44, art. 62, 048; En vigueur : 29-12-2004; date de la transformation de B.I.A.C. en société anonyme de droit privé régie par le Code des sociétés&gt;
+
+##### Art. 190
+
+&lt;Inséré par AR 1998-04-02/34, art. 10; En vigueur : 01-10-1998&gt; § 1er. Dans l'article 7 de l'arrêté royal n° 117 du 27 février 1935 établissant le statut des pensions du personnel des établissements publics autonomes et des régies institués par l'Etat, modifié par les lois des 28 avril 1958, 1er juillet 1971, 11 juillet 1975, 17 mai 1976 et 15 juillet 1977 et l'arrête royal n° 429 du 5 août 1986, la mention "Brussels International Airport Company" est insérée après la mention "Régie des voies aériennes".
+
+§ 2. (...) &lt;AR 2004-12-22/32, art. 14, 053; En vigueur : 01-01-2005&gt;
+
+##### Art. 191
+
+(Abrogé) &lt;AR 2004-12-22/32, art. 15, 053; En vigueur : 01-01-2005&gt;
+
+### CHAPITRE IV. - (Capital et actions.) &lt;Inséré par AR 1998-04-02/34, art. 10; En vigueur : 01-10-1998&gt;
+
+##### Art. 192
+
+(abrogé) &lt;AR 2004-05-27/44, art. 62, 048; En vigueur : 29-12-2004; date de la transformation de B.I.A.C. en société anonyme de droit privé régie par le Code des sociétés&gt;
+
+##### Art. 193
+
+(abrogé) &lt;AR 2004-05-27/44, art. 62, 048; En vigueur : 29-12-2004; date de la transformation de B.I.A.C. en société anonyme de droit privé régie par le Code des sociétés&gt;
+
+### CHAPITRE V. - (Règlements.) &lt;Inséré par AR 1998-07-17/31, art. 10; En vigueur : 01-10-1998&gt;
+
+##### Art. 194
+
+(abrogé) &lt;AR 2004-05-27/44, art. 62, 048; En vigueur : 29-12-2004; date de la transformation de B.I.A.C. en société anonyme de droit privé régie par le Code des sociétés&gt;
+
+##### Art. 195
+
+(abrogé) &lt;AR 2004-05-27/44, art. 62, 048; En vigueur : 29-12-2004; date de la transformation de B.I.A.C. en société anonyme de droit privé régie par le Code des sociétés&gt;
+
+##### Art. 196
+
+(abrogé) &lt;AR 2004-05-27/44, art. 62, 048; En vigueur : 29-12-2004; date de la transformation de B.I.A.C. en société anonyme de droit privé régie par le Code des sociétés&gt;
+
+## Titre VIII- Infrabel. &lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt;
+
+### CHAPITRE Ier. - Objet et missions de service public. &lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt;
+
+##### Art. 197
+
+&lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt; Pour l'application du présent titre, il y a lieu d'entendre par :
+
+1° " infrastructure ferroviaire " : l'ensemble des éléments visés à l'annexe I, partie A, du règlement (CEE) n° 2598/70 de la Commission européenne du 18 décembre 1970 relatif à la fixation du contenu des différentes positions des schémas de comptabilisation de l'annexe I du règlement (CEE) n° 1108/70 du Conseil du 4 juillet 1970, à l'exception du dernier tiret qui, aux fins du présent titre, se lit comme suit : " Bâtiments affectés au service des infrastructures ";
+
+2° (" entreprise ferroviaire " : toute entreprise à statut privé ou public et titulaire d'une licence conformément à la législation européenne applicable, dont l'activité est la fourniture de prestations de services de transport de marchandises et/ou de passagers par chemin de fer, la traction devant être obligatoirement assurée par cette entreprise; cette notion recouvre également les entreprises qui fournissent uniquement la traction;) &lt;L 2008-12-22/33, art. 70, 072; En vigueur : 08-01-2009&gt;
+
+3° [<sup>2</sup> ...]<sup>2</sup>
+
+4° [<sup>1</sup> " Commission Paritaire Nationale " : la Commission paritaire nationale visée à l'article 115 de la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges.]<sup>1</sup>
+
+[<sup>2</sup> 5° Service de Régulation du Transport ferroviaire : le Service de Régulation du Transport ferroviaire et de l'Exploitation de l'Aéroport de Bruxelles-National, visé dans l'arrêté royal du 25 octobre 2004 créant le Service de Régulation du Transport ferroviaire et de l'Exploitation de l'Aéroport de Bruxelles-National, fixant sa composition ainsi que les statuts administratif et pécuniaire applicables à ses membres;
+
+6° HR Rail : la société anonyme de droit public HR Rail, visée par la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges.]<sup>2</sup>
+
+----------
+
+(1)&lt;AR 2013-12-11/02, art. 18, 085; En vigueur : 01-01-2014&gt;
+
+(2)&lt;AR 2013-12-11/03, art. 28, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 198
+
+&lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt; Infrabel est une entreprise publique autonome ayant la forme d'une société anonyme de droit public. Elle relève du ministre qui a les entreprises publiques dans ses attributions.
+
+##### Art. 199
+
+[<sup>1</sup> § 1er. Infrabel a pour objet, pour l'ensemble du réseau belge :
+
+1° l'acquisition, la conception, la construction, le renouvellement, l'entretien et la gestion de l'infrastructure ferroviaire;
+
+2° la gestion des systèmes de régulation et de sécurité de cette infrastructure;
+
+3° la fourniture aux entreprises ferroviaires des services devant leur être fournis conformément à la loi;
+
+4° la répartition des capacités de l'infrastructure ferroviaire disponibles;
+
+5° la tarification, la facturation et la perception des redevances d'utilisation de l'infrastructure ferroviaire et des services visés au 3° ;
+
+6° l'acquisition, le développement, l'entretien, la gestion, l'exploitation et la commercialisation de ressources informatiques et de réseaux de télécommunication.
+
+Infrabel peut prendre des participations dans toute société ou association, de droit public ou privé, en Belgique comme à l'étranger, qui peuvent contribuer directement ou indirectement à la réalisation de son objet. Elle peut également constituer des sûretés pour les dettes de sociétés liées.
+
+Infrabel peut en outre agir comme administrateur, porteur d'une procuration, mandataire ou liquidateur dans d'autres sociétés ou entreprises.
+
+Elle peut, en Belgique comme à l'étranger, accomplir tous actes et opérations nécessaires ou utiles à la réalisation de son objet.
+
+§ 2. Les missions de service public du gestionnaire de l'infrastructure comprennent les tâches visées au paragraphe 1er, 1° à 5°, ainsi que les autres missions de service public qui lui sont confiées par ou en vertu de la loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 29, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 199bis
+
+&lt;inséré par L 2004-07-09/30, art. 56; En vigueur : 25-07-2004&gt; § 1er. Au sein d'Infrabel, les tâches visées à l'article 199, § 1er, 4° et 5°, sont confiées à un service spécialisé dépendant directement du comité de direction.
+
+§ 2. Les membres du service visé au § 1er sont tenus au secret professionnel et ne peuvent divulguer à quelque personne que ce soit les informations commerciales confidentielles qui leur sont communiquées par des entreprises ferroviaires ou regroupements de telles entreprises dans le cadre de la répartition des capacités de l'infrastructure ferroviaire.
+
+L'interdiction énoncée à l'alinéa 1er ne fait cependant pas obstacle à la communication d'informations confidentielles :
+
+1° à des entités ou organismes compétents pour la répartition des capacités de l'infrastructure ferroviaire dans d'autres Etats membres de l'Union européenne, dans le cadre de la coopération prévue à l'article 15 de la directive 2001/14/CE du Parlement européen et du Conseil du 26 février 2001 concernant la répartition des capacités d'infrastructure ferroviaire, la tarification de l'infrastructure ferroviaire et la certification en matière de sécurité;
+
+2° à l'organisme de contrôle belge au sens de l'article 30 de la même directive;
+
+3° lors d'un témoignage en justice;
+
+4° dans le cadre de recours contre les actes et décisions d'Infrabel en matière de répartition des capacités de l'infrastructure ferroviaire;
+
+5° sous une forme sommaire ou agrégée de façon que des entreprises ou regroupements individuels ne puissent pas être identifiés.
+
+§ 3. Les infractions au § 2 sont punies [<sup>1</sup> d'une peine prévue à l'article 352 du Code pénal]<sup>1</sup>. [<sup>1</sup> ...]<sup>1</sup>
+
+(§ 4. Les membres du personnel affectés auprès du service visé au § 1er ne peuvent exercer, soit personnellement, soit par l'intermédiaire d'une personne morale, aucune autre fonction ou activité, rémunérée ou non, au service d'une entreprise ferroviaire.) &lt;L 2008-12-22/33, art. 69, 072; En vigueur : 08-01-2009&gt;
+
+----------
+
+(1)&lt;L 2026-07-02/05, art. 9, 116; En vigueur : 01-09-2026&gt;
+
+##### Art. 199ter
+
+&lt;Inséré par L 2008-12-22/33, art. 71; En vigueur : 08-01-2009&gt; § 1er. [<sup>2</sup> Les membres du personnel affectés auprès du service spécialisé visé à l'article 199bis, § 1er, et y exerçant une fonction de direction ou une fonction de cadre supérieur ne peuvent exercer, soit personnellement, soit par l'intermédiaire d'une personne morale, aucune autre fonction, mandat ou activité, rémunérée ou non, au service d'une entreprise ferroviaire, au service de HR Rail ou au service d'une société liée à l'une de celles-ci au sens de l'article 11 du Code des sociétés.]<sup>2</sup>
+
+Le Roi détermine les fonctions de direction et les fonctions supérieures concernées par cette interdiction.
+
+§ 2. L'interdiction prévue au § 1er subsiste pendant deux ans après que les personnes visées au § 1er aient quitté leur fonction au sein du dit service spécialisé.
+
+§ 3. [<sup>1</sup> Toute infraction aux interdictions visées au § 1er et § 2 sera punie [<sup>3</sup> d'une peine de niveau 1 où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 80.000 euros]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-05-31/01, art. 3, 074; En vigueur : 08-01-2009&gt;
+
+(2)&lt;AR 2013-12-11/03, art. 30, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+(3)&lt;L 2026-07-02/05, art. 10, 116; En vigueur : 01-09-2026&gt;
+
+##### Art. 199quater
+
+[<sup>1</sup> Infrabel conclut avec la SNCB la convention de coopération visé à l'article 156ter.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 31, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 199quinquies
+
+[<sup>1</sup> Par dérogation à l'article 5, § 2, le contrat de gestion entre Infrabel et l'Etat est conclu pour une durée de cinq ans au moins et de dix ans au plus.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 31, 086; En vigueur : 01-04-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 200
+
+&lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt; § 1er. [<sup>2</sup> Par dérogation à l'article 26, alinéa 1er, le conseil d'administration d'Infrabel établit le plan d'entreprise pour la durée du contrat de gestion et l'adapte chaque année. Ce plan énonce les objectifs et la stratégie de l'entreprise en tenant compte des objectifs de mobilité fixés par le Conseil des Ministres.]<sup>2</sup>
+
+§ 2. Le plan d'entreprise contient obligatoirement :
+
+1° les besoins en infrastructure traduits dans un plan pluriannuel d'investissement;
+
+2° les prévisions en matière de besoins en personnel;
+
+3° l'évolution des comptes d'exploitation traduits dans un plan financier;
+
+4° la méthode de calcul des redevances d'utilisation de l'infrastructure ferroviaire;
+
+5° les moyens de financement des investissements programmés.
+
+§ 3. [<sup>2</sup> Le plan pluriannuel d'investissement visé au paragraphe 2, 1°, contient la planification sur plusieurs années des investissements relatifs à l'acquisition, la conception, la construction, le renouvellement, l'entretien et la gestion de l'infrastructure ferroviaire.]<sup>2</sup>
+
+[<sup>2</sup> Le plan pluriannuel d'investissement d'Infrabel est aligné avec le plan pluriannuel d'investissement de la SNCB dans la mesure où le calendrier des travaux d'Infrabel relatifs à la conception, la construction et le renouvellement de l'infrastructure ferroviaire a un impact sur la partie du plan pluriannuel d'investissement de la SNCB relative à la conception, à la construction et au renouvellement des gares ferroviaires, des points d'arrêt non gardés et de leurs dépendances.]<sup>2</sup>
+
+Avant d'arrêter le plan pluriannuel d'investissement, le conseil d'administration d'Infrabel en transmet le projet par voie recommandée aux entreprises ferroviaires qui utilisent l'infrastructure ferroviaire du réseau belge. Celles-ci peuvent soumettre leurs commentaires à Infrabel dans un délai de quarante-cinq jours de la date d'envoi du projet.
+
+§ 4. [<sup>3</sup> Le plan d'entreprise et ses adaptations annuelles sont communiqués au ministre des entreprises publiques ainsi qu'au ministre qui a la régulation du transport ferroviaire dans ses attributions. Le plan pluriannuel visé au § 2, 1°, est communiqué à la Cellule d'Investissement ferroviaire qui remet un avis au ministre des entreprises publiques préalablement à son approbation par le Roi conformément à l'alinéa 2.
+
+Par dérogation à l'article 26, alinéa 2, les éléments visés au § 2 sont approuvés par le Roi, par arrêté délibéré en Conseil des ministres, en tant que partie nécessaire à l'exécution des missions de service public d'Infrabel et de son plan pluriannuel d'investissement.]<sup>3</sup>
+
+§ 5. Le plan d'entreprise est une condition préalable à la conclusion du contrat de gestion. En cas de renouvellement du contrat de gestion, le plan est établi au plus tard douze mois avant l'expiration du contrat de gestion en cours. [L'article 3, § 2, 9°, n'est pas applicable.] &lt;AR 2004-10-18/32, art. 37, En vigueur : 20-10-2004&gt;
+
+----------
+
+(2)&lt;AR 2013-12-11/03, art. 32, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+(3)&lt;L 2016-08-03/30, art. 5, 096; En vigueur : 17-09-2016&gt;
+
+### CHAPITRE II. - Dispositions financières et fiscales. &lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt;
+
+##### Art. 201
+
+&lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt; Infrabel fixe des redevances d'utilisation de l'infrastructure ferroviaire pour les services qu'elle rend dans le cadre de ses missions de service public, dans le respect des principes et procédures définis par le Roi, par arrête délibéré en Conseil des Ministres, et des dispositions du contrat de gestion.
+
+##### Art. 202
+
+&lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt; § 1er. Le contrat de gestion à conclure entre l'Etat et Infrabel définit le calcul et les modalités de paiement de l'ensemble des subventions de l'Etat pour l'accomplissement des missions de service public d'Infrabel, de manière à :
+
+1° assurer au moins un équilibre, dans des conditions normales d'activité et par rapport à une période raisonnable, entre, d'une part, les recettes provenant des redevances d'utilisation de l'infrastructure ferroviaire, les excédents dégagés d'activités commerciales et les subventions de l'Etat et, d'autre part, les dépenses d'infrastructure;
+
+2° prévoir des incitants financiers appropriés pour réduire tant les coûts de fourniture de l'infrastructure ferroviaire que le niveau des redevances d'utilisation de cette infrastructure, pour maximaliser l'utilisation de l'infrastructure et pour réaliser les investissements nécessaires afin de maintenir la performance, la qualité du service et la sécurité de l'infrastructure à un niveau supérieur.
+
+##### Art. 202bis
+
+[<sup>1</sup> Les biens immeubles relevant de la propriété d'Infrabel ne peuvent faire l'objet d'une mesure d'expropriation. Toutefois, sur proposition du ministre qui a les entreprises publiques dans ses attributions, et après avis du conseil d'administration d'Infrabel rendu dans les deux mois qui suivent la réception de la demande, le Roi peut autoriser l'expropriation d'un bien immeuble qui ne serait plus utile à la gestion de l'infrastructure ferroviaire. Le produit de l'aliénation de tout bien immeuble revient à Infrabel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 33, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 202ter
+
+[<sup>1</sup> Avant l'aliénation d'un bien immeuble qui n'est pas nécessaire à l'exercice de ses missions de service public, Infrabel informe la SNCB des conditions de l'aliénation en ce compris le prix de cession.
+
+Si les conditions d'Infrabel sont acceptées par la SNCB sans réserve ni condition, la cession à la SNCB est réputée réalisée.
+
+Si la SNCB n'exerce pas le droit visé à l'alinéa 1er et qu'ultérieurement, les conditions de l'offre sont modifiées substantiellement par Infrabel, ce droit renaît.
+
+Les modalités d'exécution de ce droit sont réglées dans une convention à conclure entre Infrabel et la SNCB. Dans l'intervalle, les parties exercent ce droit en bon père de famille.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 33, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 203
+
+&lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt; Le Roi peut, aux conditions qu'Il détermine, accorder la garantie de l'Etat aux obligations d'Infrabel en vertu d'emprunts émis ou contractés par celle-ci dans le cadre de ses missions de service public ou en vertu de conventions visant à couvrir les risques de change ou de taux d'intérêt afférents à de tels emprunts. [<sup>1</sup> Par dérogation à l'article 12, § 2, alinéa 2, 2°, le Roi peut, pour les emprunts contractés auprès d'une banque multilatérale, déroger à l'arrêté royal n° 517 du 31 mars 1987 instaurant une prime annuelle sur les nouveaux engagements garantis par l'Etat de certaines institutions du secteur public.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-28/01, art. 114, 109; En vigueur : 08-01-2024&gt;
+
+##### Art. 204
+
+&lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt; A l'article 180 du Code des impôts sur les revenus 1992, il est ajouté un 12°, rédigé comme suit :
+
+" 12° la société anonyme de droit public Infrabel ".
+
+Infrabel est exempte de tous impôts, taxes et droits au profit des provinces, communes et agglomérations et fédérations de communes.
+
+##### Art. 205
+
+&lt;Abrogé par AR 2013-12-11/03, art. 34, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+### CHAPITRE III. - Gestion. &lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt;
+
+##### Art. 206
+
+&lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt; Les articles 18 à 23 ne sont pas applicables à Infrabel.
+
+##### Art. 207
+
+&lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt; § 1er. Le conseil d'administration est composé de [<sup>1</sup> quatorze]<sup>1</sup> membres au plus, en ce compris l'administrateur délégué. [Le nombre d'administrateurs est déterminé par le Roi, par arrêté délibéré en Conseil des Ministres.] &lt;AR 2004-10-18/32, art. 37, En vigueur : 20-10-2004&gt;
+
+Un tiers des administrateurs au moins doivent être de sexe différent que les autres administrateurs.
+
+[<sup>2</sup> Deux membres du conseil d'administration répondent aux critères énumérés à l'article 526ter du Code des sociétés, à l'exception du 5°, c). Ces deux membres sont de rôle linguistique différent.]<sup>2</sup>
+
+§ 2. [<sup>2</sup> A l'exception des deux administrateurs qui répondent aux critères énumérés à l'article 526ter du Code des sociétés et qui sont nommés par l'assemblée générale, le Roi nomme les administrateurs par arrêté délibéré en Conseil des ministres.]<sup>2</sup>
+
+Les administrateurs sont choisis en fonction de la complémentarité de leurs compétences telles que l'analyse financière, la gestion comptable, les aspects juridiques, la connaissance du secteur du transport, l'expertise en matière de mobilité, la gestion du personnel et les relations sociales.
+
+Les administrateurs sont nommés pour un terme renouvelable de six ans [...]. [<sup>1</sup> Les administrateurs ne peuvent être révoqués que par le Roi, par arrêté délibéré en Conseil des ministres.]<sup>1</sup> &lt;AR 2004-10-18/32, art. 37, En vigueur : 20-10-2004&gt;
+
+§ 3. En cas de vacance d'un mandat d'administrateur, les administrateurs restants ont le droit d'y pourvoir provisoirement jusqu'à ce qu'une nomination définitive intervienne conformément au § 2.
+
+§ 4. Le Roi nomme, par arrêté délibéré en Conseil des Ministres, le président du conseil d'administration parmi les administrateurs. Le président du conseil d'administration appartient à un autre rôle linguistique que l'administrateur délégué.
+
+En cas de partage des voix au sein du conseil d'administration, la voix du président est prépondérante.
+
+Le président peut, à tout moment, prendre connaissance, sans déplacement, des livres, de la correspondance, des procès-verbaux et généralement de tous les documents et de toutes les écritures d'Infrabel. Il peut requérir des membres du comité de direction, des agents et des préposés d'Infrabel toutes les explications ou informations et procéder à toutes les vérifications qui lui paraissent nécessaires pour l'exécution de son mandat. [Il peut se faire assister par un expert, aux frais de la société.] &lt;AR 2004-10-18/32, art. 37, En vigueur : 20-10-2004&gt;
+
+§ 5. Dans le cadre de l'exercice de leur mandat et au regard des intérêts de la société, les membres des organes d'Infrabel sont tenus à un devoir de discrétion.
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 35, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+(2)&lt;L 2016-08-03/30, art. 7, 096; En vigueur : 17-09-2016&gt;
+
+##### Art. 207bis
+
+[<sup>1</sup> L'administrateur délégué d'Infrabel appartient à un rôle linguistique différent de celui de l'administrateur délégué de la SNCB.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 36, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 208
+
+&lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt; § 1er. Le comité de direction est chargé de la gestion journalière et de la représentation en ce qui concerne cette gestion, de même que de l'exécution des décisions du conseil d'administration.
+
+Les membres du comité de direction forment un collège. Ils peuvent se répartir les tâches. Sous réserve des compétences qui lui sont réservées par la présente loi en tant que collège, le comité de direction peut déléguer certaines de ses compétences à un ou plusieurs de ses membres ou à des membres du personnel. Il peut en autoriser la subdélégation. Il informe le conseil d'administration des délégations accordées en vertu du présent alinéa.
+
+§ 2. Le comité de direction est présidé par l'administrateur délégué. Le conseil d'administration fixe le nombre des autres membres du comité de direction et nomme ceux-ci sur proposition de l'administrateur délégué et après avis du comité de nominations et de rémunération. [<sup>1</sup> Le nombre de membres du comité de direction ne peut dépasser la moitié du nombre de membres du conseil d'administration]<sup>1</sup>
+
+Les membres du comité de direction autres que l'administrateur délégué sont révoques par le conseil d'administration.
+
+Tous les membres du comité de direction remplissent au sein d'Infrabel des fonctions de plein exercice. A l'exception de l'administrateur délégué, ils ne peuvent avoir la qualité d'administrateur d'Infrabel.
+
+§ 3. L'administrateur délégué est nommé par le Roi, par arrêté délibéré en Conseil des Ministres, pour un terme renouvelable de six ans. Il est révoqué par le Roi par arrêté délibéré en Conseil des Ministres.
+
+§ 4. [<sup>1</sup> Infrabel est valablement représentée à l'égard des tiers et en justice par l'administrateur délégué et le membre du comité de direction désigné à cet effet par le conseil d'administration, agissant conjointement.
+
+Tous les actes de gestion ou qui engagent la société sont signés conjointement par l'administrateur délégué et le membre du comité de direction désigné à cet effet par le conseil d'administration. Le Roi détermine, par arrêté délibéré en Conseil des ministres, les actes dont le mode d'approbation déroge au présent paragraphe.
+
+L'administrateur délégué appartient à un rôle linquistique différent de celui du membre du comité de direction désigné conformément au premier alinéa.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 37, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 209
+
+&lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt; § 1er. [<sup>3</sup> Sans préjudice de l'article 211, § 2, alinéa 2, les droits, y compris la rémunération, et obligations de l'administrateur délégué et des autres membres du comité de direction, d'une part, et d'Infrabel, d'autre part, sont réglés dans une convention particulière entre les parties. Lors de la négociation de cette convention, Infrabel est représentée par son conseil d'administration à l'exclusion de l'administrateur délégué.
+
+L'administrateur délégué ne peut percevoir d'autres émoluments que sa rémunération.]<sup>3</sup>
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+Lorsque l'administrateur délégué ou un membre du comité de direction se trouve, au moment de sa nomination, dans un lien contractuel avec l'Etat ou avec toute autre personne de droit public relevant de l'Etat, le contrat concerné est suspendu de plein droit pour toute la durée du mandat de l'intéressé auprès d'Infrabel. Toutefois, durant cette période, il garde ses titres à l'avancement de traitement.
+
+[<sup>1</sup> Les articles 520bis et 520ter du Code des sociétés s'appliquent mutatis mutandis à l'administrateur délégué et aux membres du comité de direction.
+
+Si une convention mentionnée au présent paragraphe prévoit une indemnité de départ qui dépasse les 12 mois de rémunération, ou, sur l'avis motivé du comité de nominations et de rémunération, dépasse les 18 mois de rémunération, cette clause doit recueillir l'approbation préalable de la première assemblée générale ordinaire qui suit. Toute convention contraire est nulle de plein droit.
+
+La demande de convenir d'une indemnité de départ plus élevée comme stipulée à l'alinéa 5, doit être communiquée à [<sup>2</sup> le comité d'entreprise stratégique visé à l'article 127 de la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges]<sup>2</sup>. A la demande d'une des parties à [<sup>2</sup> ce comité d'entreprise stratégique]<sup>2</sup>, celle-ci donne un avis à l'assemblée générale.
+
+Dans ce cas, la demande doit être communiquée trente jours avant le jour de la publication de la convocation de la première assemblée générale ordinaire qui suit et la demande d'avis doit être formulée au moins vingt jours avant la même date. L'avis est donné et publié sur le site internet de la société au plus tard le jour de publication de la convocation.
+
+Les données à caractère personnel ainsi transmises [<sup>2</sup> au comité d'entreprise stratégique visé à l'alinéa six]<sup>2</sup>, ne peuvent être divulguées par celle-ci, sauf aux fins de l'avis à l'assemblée générale visé à l'alinéa 7.]<sup>1</sup>
+
+§ 2. L'assemblée générale détermine la rémunération des membres du conseil d'administration sur proposition du comité de nominations et de rémunération. L'assemblée tient compte à cette fin de la prestation des mandataires eu égard notamment à leur participation dans les comités prévus par la loi et aux objectifs de l'entreprise.
+
+§ 3. Les rémunérations visées aux §§ 1er et 2 sont à charge d'Infrabel. Si les rémunérations concernées comportent un élément variable, l'assiette ne peut comprendre des éléments ayant le caractère de charge d'exploitation.
+
+----------
+
+(1)&lt;L 2011-11-14/05, art. 4, 082; En vigueur : 10-12-2011&gt;
+
+(2)&lt;AR 2013-12-11/02, art. 19, 085; En vigueur : 01-01-2014&gt;
+
+(3)&lt;AR 2013-12-11/03, art. 38, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 210
+
+§ 1er. &lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt; Le conseil d'administration constitue en son sein un comité d'audit.
+
+Le comité d'audit est composé de quatre administrateurs autres que l'administrateur délégué, qui sont nommés par le conseil d'administration. Ce comité compte autant de membres d'expression française que d'expression néerlandaise.
+
+Le comité d'audit peut inviter à ses réunions l'administrateur délégué, qui y siège avec voix consultative. Les commissaires du Gouvernement participent également avec voix consultative aux réunions de ce comité.
+
+§ 2. Le comité d'audit assume les tâches que lui confie le conseil d'administration. En outre, il a pour mission d'assister le conseil d'administration par l'examen des informations financières, notamment les comptes annuels, le rapport de gestion et les rapports intermédiaires. Il s'assure également de la fiabilité et de l'intégrité des rapports financiers en matière de gestion des risques.
+
+Au moins quatorze jours avant la réunion au cours de laquelle il établit les comptes annuels, le conseil d'administration soumet ces comptes à l'avis du comité d'audit.
+
+[<sup>1</sup> L'assemblée générale peut désigner, sur proposition du conseil d'administration, un auditeur extérieur afin qu'il participe également avec voix consultative aux réunions de ce comité.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 39, 086; En vigueur : 01-04-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 211
+
+&lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt; § 1er. Le conseil d'administration constitue en son sein un comité de nominations et de rémunération.
+
+Le comité de nominations et de rémunération est composé de quatre administrateurs, dont le président du conseil d'administration, qui le préside, et l'administrateur délégué. Le conseil d'administration nomme les autres membres de ce comité. Celui-ci compte autant de membres d'expression française que d'expression néerlandaise.
+
+§ 2. Le comité de nominations et de rémunération rend un avis conformément à l'article 208, § 2, premier alinéa, sur les candidatures proposées par l'administrateur délégué en vue de la nomination des membres du comité de direction.
+
+Le conseil d'administration détermine, sur proposition du comité de nominations et de rémunération, la rémunération et les avantages accordés aux membres du comité de direction et aux cadres supérieurs. Le comité suit ces questions de manière continue.
+
+##### Art. 212
+
+&lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt; § 1er. Sans préjudice des autres limitations prévues par ou en vertu de la loi ou dans les statuts d'Infrabel, le mandat de membre du conseil d'administration ou du comité de direction est incompatible avec le mandat ou les fonctions de :
+
+1° membre du Parlement européen;
+
+2° membre des Chambres législatives;
+
+3° Ministre ou secrétaire d'Etat;
+
+4° membre du Conseil ou du Gouvernement d'une Communauté ou d'une Région;
+
+5° gouverneur d'une province ou membre de la députation permanente d'un conseil provincial.
+
+En outre, les administrateurs autres que l'administrateur délégué ne peuvent pas être membres du personnel d'Infrabel au sens de l'article 214, § 1er.
+
+Les membres du comité de direction ne peuvent pas être bourgmestre, échevin ou président d'un centre public d'aide sociale.
+
+§ 2. [<sup>2</sup> Le mandat de membre du conseil d'administration ou du comité de direction est incompatible avec une fonction, un mandat ou une activité, rémunérée ou non, soit personnellement, soit par l'intermédiaire d'une personne morale, au service d'une entreprise ferroviaire, au service de HR Rail ou au service d'une société liée à l'une de celles-ci au sens de l'article 11 du Code des sociétés.]<sup>2</sup>
+
+[<sup>1</sup> L'interdiction énoncée à l'alinéa 1er ne s'applique pas lorsqu'un membre du conseil d'administration ou du comité de direction représente Infrabel :
+
+\-auprès de la commission paritaire nationale ou auprès d'une instance de concertation ou de coordination à laquelle sont également associées des entreprises visées à l'alinéa premier;
+
+\- au sein du conseil d'administration ou du comité de direction d'une société filiale contrôlée par Infrabel au sens de l'article 5 du Code des sociétés.]<sup>1</sup>
+
+[<sup>2</sup> L'interdiction visée à l'alinéa 1er ne s'applique pas pour les mandats visés aux articles 34, § 1er, 2° et 45, § 1er, 3e tiret de la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges.]<sup>2</sup>
+
+[Un membre du comité de direction ou du conseil d'administration ne peut détenir aucun droit social ou actions de l'une des entreprises visées à l'alinéa 1er.
+
+Un membre du comité de direction ou du conseil d'administration est tenu de notifier au président du Conseil d'administration toute forme d'intérêt de nature patrimoniale qu'il détient dans une telle entreprise.] &lt;L 2008-12-22/33, art. 72, 1°, 072; En vigueur : 08-01-2009&gt;
+
+[<sup>1</sup> lid opgeheven]<sup>1</sup>
+
+§ 3. Lorsqu'un des membres du conseil d'administration ou du comité de direction contrevient aux dispositions des §§ 1er et 2, premier alinéa, il est tenu de se démettre des mandats ou fonctions en question dans un délai de trois mois. S'il ne le fait pas, il est réputé, à l'expiration de ce délai, s'être démis de plein droit de son mandat auprès d'Infrabel, sans que cela ne porte préjudice à la validité juridique des actes qu'il a accomplis ou des délibérations auxquelles il a pris part pendant la période concernée.
+
+[§ 4. L'interdiction prévue au § 2, alinéa 1er, subsiste pendant deux ans après la sortie de charge.] &lt;L 2008-12-22/33, art. 72, 2°, 072; En vigueur : 08-01-2009&gt;
+
+§ 5. [<sup>1</sup> Toute infraction aux interdictions visées au § 2, alinéa 1er et § 4 sera punie [<sup>3</sup> d'une peine de niveau 1 où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 80.000 euros]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-05-31/01, art. 4, 074; En vigueur : 08-01-2009&gt;
+
+(2)&lt;AR 2013-12-11/03, art. 40, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+(3)&lt;L 2026-07-02/05, art. 11, 116; En vigueur : 01-09-2026&gt;
+
+##### Art. 213
+
+&lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt; § 1er. Infrabel est soumise au contrôle du ministre qui a les entreprises publiques dans ses attributions et du ministre qui a la régulation du transport ferroviaire dans ses attributions. Ce contrôle est exercé à l'intervention de deux commissaires du Gouvernement, nommés et révoqués par le Roi sur la proposition du ministre concerné.
+
+Les ministres précités peuvent chacun désigner un suppléant pour le cas d'empêchement éventuel du commissaire du Gouvernement ou pour l'assister dans sa mission.
+
+Le Roi règle l'exercice des missions des commissaires du Gouvernement et leur rémunération. Cette rémunération est à charge d'Infrabel.
+
+§ 2. Les commissaires du Gouvernement veillent au respect de la loi, des statuts et du contrat de gestion. Ils veillent à ce que la politique d'Infrabel, en particulier celle menée en exécution de l'article 13, ne porte pas préjudice à la mise en oeuvre des missions de service public.
+
+Chaque commissaire du Gouvernement fait rapport au ministre dont il relève. Les commissaires du Gouvernement font rapport au ministre du budget sur toutes les décisions du conseil d'administration ou du comité de direction qui ont une incidence sur le budget général des dépenses de l'Etat.
+
+§ 3. Les commissaires du Gouvernement sont invités à toutes les réunions du conseil d'administration et du comité de direction et y siègent avec voix consultative. Ils peuvent chacun individuellement, à tout moment, prendre connaissance, sans déplacement, des livres, de la correspondance, des procès-verbaux et généralement de tous les documents et de toutes les écritures d'Infrabel. Ils peuvent chacun individuellement requérir des administrateurs, agents et préposés d'Infrabel et des membres de son comité de direction toutes les explications ou informations et procéder à toutes les vérifications qui leur paraissent nécessaires à l'exécution de leur mandat.
+
+Infrabel met à la disposition des commissaires du Gouvernement les ressources humaines et matérielles nécessaires à l'exécution de leur mandat.
+
+§ 4. Chaque commissaire du Gouvernement introduit, dans un délai de quatre jours ouvrables, un recours auprès du ministre dont il relève contre toute décision du conseil d'administration ou du comité de direction qu'il estime contraire à la loi, aux statuts ou au contrat de gestion ou susceptible de porter préjudice à la mise en oeuvre des missions de service public d'Infrabel. Chaque commissaire du Gouvernement peut, dans le même délai, introduire un tel recours contre toute décision d'augmentation des redevances de l'utilisation de l'infrastructure ferroviaire. Le recours est suspensif.
+
+Le délai visé au premier alinéa court à partir du jour de la réunion à laquelle la décision a été prise, pour autant que le commissaire du Gouvernement en question y ait été régulièrement convoque et, dans le cas contraire, à partir du jour où il en a reçu connaissance. Lorsqu'il est recouru à la procédure écrite prévue à l'article 521, alinéa 2, du Code des sociétés, le délai court à partir du jour où le commissaire du Gouvernement en question a reçu connaissance de la décision ainsi adoptée.
+
+Le ministre saisi du recours peut annuler la décision en question dans un délai de [<sup>1</sup> quatorze jours]<sup>1</sup> à compter du même jour que le délai visé au premier alinéa. Le ministre notifie l'annulation à l'organe de gestion concernée. Si, dans le délai précité, aucun des ministres compétents n'a prononcé l'annulation, la décision devient définitive, sans préjudice des dispositions du dernier alinéa.
+
+En cas d'incidence sur le budget général des dépenses de l'Etat, le ministre saisi du recours demande l'accord du ministre du budget. A défaut d'accord entre ces deux ministres dans le délai de [<sup>1</sup> quatorze jours]<sup>1</sup> vise à l'alinéa 3, il est statué dans un délai de [<sup>1</sup> trente jours]<sup>1</sup> à compter du même jour que le délai visé au premier alinéa, selon la procédure fixée par le Roi.
+
+§ 5. [<sup>2</sup> Chaque année, l'administrateur délégué d'Infrabel est auditionné par la Chambre des représentants.
+
+Lors de cette audition, l'administrateur délégué fait rapport de l'accomplissement par Infrabel de ses missions de service public.
+
+Chaque année, le ministre qui a les entreprises publiques dans ses attributions et le ministre qui a la régulation du transport ferroviaire dans ses attributions font rapport à la Chambre des représentants de l'application du présent titre.]<sup>2</sup>
+
+----------
+
+(1)&lt;AR 2013-12-11/03, art. 41, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+(2)&lt;L 2015-08-10/17, art. 4, 091; En vigueur : 05-09-2015&gt;
+
+##### Art. 213bis
+
+[<sup>1</sup> Infrabel conclut avec la SNCB la convention visée à l'article 163quater, § 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 42, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+### CHAPITRE IV. - Personnel. &lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt;
+
+##### Art. 214
+
+&lt;inséré par AR 2004-06-14/31, art. 5; En vigueur : indéterminée et au plus tard : 01-01-2005&gt; § 1er. Infrabel dispose du personnel nécessaire à l'accomplissement de ses missions, mis à sa disposition par la [<sup>1</sup> HR Rail]<sup>1</sup>. [<sup>1</sup> Le statut du personnel, visé à l'article 21 de la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges ]<sup>1</sup>, y compris le statut syndical, reste applicable à ce personnel. Toutefois, pendant la période de sa mise à disposition, ce personnel se trouve [<sup>1</sup> sous l'autorité exclusive d'Infrabel ]<sup>1</sup>. &lt;AR 2004-10-18/32, art. 6, 052 ; En vigueur : 01-01-2005&gt;
+
+[<sup>1</sup> Les conditions et modalités de la mise à disposition du personnel en vertu du premier alinéa, sont fixées par ou en vertu de la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges.]<sup>1</sup>
+
+§ 2. Le Chapitre III de la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs ne s'applique pas à la mise à disposition de personnel visée au § 1er.
+
+----------
+
+(1)&lt;AR 2013-12-11/02, art. 20, 085; En vigueur : 01-01-2014&gt;
+
+##### Art. 215
+
+[<sup>1</sup> Le titre I, chapitre VIII, à l'exception de l'article 31, et sans porter préjudice à l'article 71 de la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges, ne s'applique pas à Infrabel et au personnel mis à disposition d'Infrabel. Infrabel et son personnel sont soumis à la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2013-12-11/02, art. 21, 085; En vigueur : 01-01-2014&gt;
+
+### CHAPITRE V. [<sup>1</sup> - Dispositions diverses]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 43, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 215bis
+
+[<sup>1</sup> Infrabel est titulaire d'une servitude perpétuelle à titre gratuit sur les gares et sur les terrains relevant de la propriété de la SNCB pour faire passer tous les câbles liés à la haute tension, aux éléments de procédure de démarrage des trains, à la signalisation ou à la sonorisation, nécessaires à l'exécution par Infrabel de ses missions de service public.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 43, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 215ter
+
+[<sup>1</sup> § 1er. Par ailleurs, Infrabel est autorisée à utiliser le domaine des gares perpétuellement et à titre gratuit pour établir et maintenir des câbles et équipements connexes relatifs aux installations de communication et informatiques et exécuter les travaux y afférents.
+
+§ 2. Font partie des travaux visés au paragraphe 1er ceux qui sont nécessaires à l'entretien, au maintien, à la modification, à la réparation, à l'enlèvement et au contrôle des câbles et équipements connexes.
+
+Avant d'établir des câbles et équipements connexes sur le domaine d'une gare, lnfrabel recueille l'accord préalable de la SNCB sur le plan d'implantation et les caractéristiques d'aménagement.
+
+§ 3. Infrabel est autorisée à accéder aux équipements précités afin de pouvoir procéder à leur entretien, à leur maintien, à leur modification, à leur réparation, à leur enlèvement ou à leur contrôle.
+
+§ 4. Les travaux sont exécutés en bon père de famille et de manière à provoquer le moins de nuisances possibles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 43, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 215quater
+
+[<sup>1</sup> § 1er. La SNCB a le droit de faire modifier l'implantation des câbles et équipements connexes visés à l'article 215ter à l'occasion de travaux qu'elle désire effectuer dans la gare.
+
+La SNCB et Infrabel ont l'obligation de s'informer et de se coordonner pour l'organisation des travaux.
+
+§ 2. Les frais inhérents à la modification des câbles et équipements connexes exécutée à la demande de la SNCB dans le cadre de ses missions de service public sont à charge d'Infrabel.
+
+§ 3. Si, toutefois, les travaux que la SNCB effectue le sont dans le cadre de ses activités commerciales de développement immobilier, les frais de déplacement des câbles et équipements connexes restent à sa charge.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par AR 2013-12-11/03, art. 43, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+## TITRE IX.
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+### CHAPITRE Ier.
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 216
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 217
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 218
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 219
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+### CHAPITRE II.
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 220
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 221
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+### CHAPITRE III.
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 222
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 223
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 224
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 225
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 226
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 227
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 228
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 229
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 230
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+### CHAPITRE IV.
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 231
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+### CHAPITRE V.
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 232
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+##### Art. 233
+
+&lt;Abrogé par AR 2013-12-11/03, art. 44, 086; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+## TITRE X. Fonds de l'infrastructure ferroviaire. &lt;inséré par AR 2006-11-10/78, art. 2; En vigueur : 01-01-2005&gt;
+
+##### Art. 234
+
+&lt;Abrogé par AR 2008-09-28/33, art. 19, 076; En vigueur : 01-01-2009&gt;
+
+##### Art. 235
+
+&lt;Abrogé par AR 2008-09-28/33, art. 19, 076; En vigueur : 01-01-2009&gt;
+
+##### Art. 236
+
+&lt;Abrogé par AR 2008-09-28/33, art. 19, 076; En vigueur : 01-01-2009&gt;
+
+##### Art. 237
+
+&lt;Abrogé par AR 2008-09-28/33, art. 19, 076; En vigueur : 01-01-2009&gt;
+
+##### Art. 238
+
+&lt;Abrogé par AR 2008-09-28/33, art. 19, 076; En vigueur : 01-01-2009&gt;
+
+##### Art. 239
+
+&lt;Abrogé par AR 2008-09-28/33, art. 19, 076; En vigueur : 01-01-2009&gt;
+
+##### Art. 240
+
+&lt;Abrogé par AR 2008-09-28/33, art. 19, 076; En vigueur : 01-01-2009&gt;
+
+##### Art. 241
+
+&lt;Abrogé par AR 2008-09-28/33, art. 19, 076; En vigueur : 01-01-2009&gt;
+
+##### Art. 242
+
+&lt;Abrogé par AR 2008-09-28/33, art. 19, 076; En vigueur : 01-01-2009&gt;
+
+##### Art. 243
+
+&lt;Abrogé par AR 2008-09-28/33, art. 19, 076; En vigueur : 01-01-2009&gt;
+
+##### Art. 244
+
+&lt;Abrogé par AR 2008-09-28/33, art. 19, 076; En vigueur : 01-01-2009&gt;
+
+##### Art. 245
+
+&lt;Abrogé par AR 2008-09-28/33, art. 19, 076; En vigueur : 01-01-2009&gt;
+
+## ANNEXES.
+
+##### Art. N1
+
+&lt;Abrogé par L 2021-12-21/05, art. 9, 107; En vigueur : 10-01-2022&gt;
+
+##### Art. N2
+
+&lt;Abrogé par L 2021-12-21/05, art. 9, 107; En vigueur : 10-01-2022&gt;
+
+##### Art. N3
+
+&lt;Inséré par L 1997-12-19/30, art. 31; En vigueur : 01-01-1998&gt; Annexe 3. Arrêtant les conditions techniques et financières de prestation des services offerts en vue de rencontrer les besoins sociaux particuliers visés à l'article 86ter, § 2, de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques.
+
+(Pour l'annexe, voir 1997-12-19/33).
+
+Modifié par :
+
+&lt;L 2001-07-19/38, art. 35 à 37; M.B. 28-07-2001&gt;

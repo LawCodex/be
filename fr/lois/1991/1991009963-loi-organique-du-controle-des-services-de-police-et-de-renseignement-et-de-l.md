@@ -1,0 +1,1268 @@
+---
+title: "[Loi organique du contrôle des services de police et de renseignement et de l'Organe de coordination pour l'analyse de la menace]. <Intitulé remplacé par L 2006-07-10/31, art. 2, 014; En vigueur : 01-12-2006>"
+identifier: "1991009963"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1991/07/18/1991009963/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1991-07-18
+published: 1991-07-26
+entry_into_force: 1991-08-05
+last_amended: 2026-06-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1991/07/18/1991009963/justel"
+department: "Justice"
+justel_note: "Consultation des versions antérieures à partir du 09-03-1994 et mise à jour au 01-06-2026"
+retrieved: 2026-10-12
+---
+
+# 18 JUILLET 1991. - [Loi organique du contrôle des services de police et de renseignement et de l'Organe de coordination pour l'analyse de la menace]. &lt;Intitulé remplacé par L 2006-07-10/31, art. 2, 014; En vigueur : 01-12-2006&gt;
+
+## CHAPITRE I. - Dispositions générales.
+
+##### Art. 1
+
+(Il est créé, d'une part, un Comité permanent de contrôle des services de police et, d'autre part, un Comité permanent de contrôle des services de renseignement et de sécurité. Le contrôle porte en particulier :
+
+1° sur la protection des droits que la Constitution et la loi confèrent aux personnes, ainsi que sur la coordination et l'efficacité, d'une part, des services de police et, d'autre part, des services de renseignement et de sécurité;
+
+2° sur la protection des droits que la Constitution et la loi confèrent aux personnes, ainsi que sur la coordination et l'efficacité de l'Organe de coordination pour l'analyse de la menace;
+
+3° sur la manière dont les autres services d'appui répondent à l'obligation visée aux articles 6 et 14 de la loi du 10 juillet 2006 relative à l'analyse de la menace.) &lt;L 2006-07-10/31, art. 2, 014; En vigueur : 01-12-2006&gt;
+
+A chacun de ces comités est attaché un Service d'enquêtes.
+
+##### Art. 2
+
+Le contrôle organisé par la présente loi ne porte ni sur les autorités judiciaires ni sur les actes accomplis par celles-ci dans l'exercice de l'action publique. Le contrôle ne porte pas non plus sur les autorités de police administrative.
+
+(Le contrôle visé par la présente loi est organisé sans préjudice des contrôles et inspections organisés par ou en vertu d'autres lois. En cas de contrôle ou d'inspection organisé par ou en vertu d'autres lois, le contrôle visé par la présente loi, portant sur les activités, méthodes, documents et directives des services de police et des [<sup>1</sup> services de renseignement]<sup>1</sup> et de sécurité, se fait uniquement pour assurer l'exécution des missions prévues par la présente loi.) &lt;L 1999-04-01/31, art. 3, 006; En vigueur : 03-04-1999&gt;
+
+----------
+
+(1)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+##### Art. 3
+
+Au sens de la présente loi, on entend par :
+
+1° ("services de police", outre la police locale et la police fédérale, les services relevant d'autorités publiques et d'organismes d'intérêt public, dont les membres sont revêtus de la qualité d'officier de police judiciaire ou d'agent de police judiciaire;) &lt;L 1998-12-07/31, art. 223, 005; En vigueur : 01-01-2001&gt;
+
+2° " [<sup>3</sup> services de renseignement]<sup>3</sup> ", (...) la Sûreté de l'Etat du ministère de la Justice et le [<sup>2</sup> Service Général du Renseignement et de la Sécurité]<sup>2</sup> du ministère de la Défense nationale ainsi que tout service public spécialement chargé, après l'entrée en vigueur de cette loi, de la collecte et du traitement de données concernant des personnes, groupes et événements et effectué dans un but de sécurité. &lt;L 1998-11-30/32, art. 46, A, 004; En vigueur : 01-02-1999&gt;
+
+(3° " Organe de coordination pour l'analyse de la menace ", le service visé par la loi du 10 juillet 2006 relative à l'analyse de la menace;
+
+4° " Les autres services d'appui ", les services, autres que les services de police et les services de renseignement et de sécurité visés dans cette loi, qui sont tenus, conformément à la loi du 10 juillet 2006 relative à l'analyse de la menace, de communiquer des renseignements à l'Organe de coordination pour l'analyse de la menace;
+
+5° " La loi relative à l'analyse de la menace ", la loi du 10 juillet 2006 relative à l'analyse de la menace;
+
+6° [<sup>1</sup> ...]<sup>1</sup>;) &lt;L 2006-07-10/31, art. 4, 014; En vigueur : 01-12-2006&gt;;
+
+[<sup>4</sup> 7° "la loi protection des données" : la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel;
+
+8° "une autorité de protection des données" : une autorité de contrôle des traitements de données à caractère personnel.]<sup>4</sup>
+
+Sont assimilées à des services de police pour l'application de la présente loi, les personnes qui ont qualité à titre individuel pour rechercher et constater des infractions.
+
+----------
+
+(1)&lt;L 2015-12-06/07, art. 2, 020; En vigueur : 28-01-2015&gt;
+
+(2)&lt;L 2018-07-30/46, art. 256, 024; En vigueur : 05-09-2018&gt;
+
+(3)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+(4)&lt;L 2018-07-30/46, art. 258, 024; En vigueur : 05-09-2018&gt;
+
+## CHAPITRE II. - Contrôle des services de police.
+
+### Section 1. - Le Comité permanent de contrôle des services de police.
+
+#### Sous-section 1. - Composition.
+
+##### Art. 4
+
+(Le Comité permanent de contrôle des services de police, ci-après dénommé " le Comité permanent P ", se compose de cinq membres effectifs, dont un président et un vice-président. [<sup>2</sup> Un suppléant est nommé]<sup>2</sup> pour chacun d'eux. Tous sont nommés par la Chambre des représentants, qui peut les révoquer s'ils exercent une des fonctions ou activités ou un des emplois ou mandats visés à l'alinéa 4, ou pour motifs graves.) &lt;L 1999-04-01/31, art. 5, 006; En vigueur : 03-04-1999&gt;
+
+Le Comité permanent P est assisté d'un greffier. [<sup>1</sup> En cas d'absence de ce dernier, le Comité permanent P procède à son remplacement selon les modalités reprises dans le règlement d'ordre intérieur visé à l'article 60.]<sup>1</sup>
+
+Au moment de leur nomination, les membres et leurs suppléants doivent remplir les conditions suivantes :
+
+1° être belge;
+
+2° jouir des droits civils et politiques;
+
+3° avoir atteint l'âge de 35 ans;
+
+4° avoir leur domicile en Belgique;
+
+5° (faire preuve d'une expérience pertinente d'au moins sept ans dans le domaine du droit pénal ou de la criminologie, du droit public, ou de techniques de gestion, acquise dans des fonctions proches du fonctionnement, des activités et de l'organisation des services de police ou des services de renseignements et de sécurité, de même qu'avoir exercé des fonctions à un niveau de responsabilité élevé;) &lt;L 1999-04-01/31, art. 5, 006; En vigueur : 03-04-1999&gt;
+
+(6° détenir une habilitation de sécurité du niveau " très secret " en vertu de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité.) &lt;L 2006-07-10/31, art. 5, 1°, 014; En vigueur : 01-12-2006&gt;
+
+Les membres et leurs suppléants ne peuvent occuper aucun mandat public conféré par élection. Ils ne peuvent exercer d'emploi ou d'activité public ou privé qui pourrait mettre en péril l'indépendance ou la dignité de la fonction. Ils ne peuvent être membres ni du Comité permanent de contrôle des services de renseignements, ni d'un service de police, ni d'un service de renseignements.
+
+Parmi les membres et leurs suppléants doivent figurer au moins un magistrat et une personne possédant l'expérience requise dans des fonctions scientifiques ou administratives. (Le président doit être un magistrat (, ni de l'Organe de coordination pour l'analyse de la menace, ni d'un autre service d'appui.) &lt;L 2006-07-10/31, art. 5, 2°, 014; En vigueur : 01-12-2006&gt;
+
+----------
+
+(1)&lt;L 2010-04-18/20, art. 2, 016; En vigueur : 17-06-2010&gt;
+
+(2)&lt;L 2024-03-29/18, art. 2, 028; En vigueur : 28-04-2024&gt;
+
+##### Art. 5
+
+(Le greffier est nommé par la Chambre des représentants, qui peut le révoquer ou mettre fin à ses fonctions dans les cas visés à l'article 4. ) Au moment de sa nomination, le greffier doit remplir les conditions suivantes : &lt;L 1999-04-01/31, art. 6, 006; En vigueur : 03-04-1999&gt;
+
+1° être Belge;
+
+2° jouir des droits civils et politiques;
+
+3° connaître les langues française et néerlandaise;
+
+4° avoir atteint l'âge de 30 ans;
+
+5° avoir son domicile en Belgique;
+
+6° être titulaire d'un [<sup>2</sup> diplôme de master pertinent pour l'exercice de la fonction]<sup>2</sup>;
+
+7° avoir une expérience utile d'au moins deux ans.
+
+8° (détenir une habilitation de sécurité du niveau " très secret " en vertu de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité.) &lt;L 2006-07-10/31, art. 6, 014; En vigueur : 01-12-2006&gt;
+
+(Avant d'entrer en fonction, le greffier prête, entre les mains du président de la Chambre des représentants, le serment prescrit par l'article 2 du décret du 30 juillet 1831.) &lt;L 1999-04-01/31, art. 6, 006; En vigueur : 03-04-1999&gt;
+
+----------
+
+(1)&lt;L 2016-04-21/06, art. 85, 023; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+(2)&lt;L 2021-08-14/23, art. 2, 025; En vigueur : 18-12-2021&gt;
+
+##### Art. 6
+
+[<sup>1</sup> Les membres du Comité permanent P sont nommés pour un terme renouvelable de six ans qui prend cours à partir de leur prestation de serment. A l'issue de ce terme, les membres continuent à exercer leurs fonctions jusqu'à la prestation de serment de leur remplaçant.
+
+Les suppléants sont nommés pour un terme renouvelable de six ans qui prend cours à partir de la prestation de serment du membre effectif dont ils assurent la suppléance.]<sup>1</sup>
+
+(alinéa supprimé) &lt;L 1999-04-01/31, art. 7, 006; En vigueur : 03-04-1999&gt;
+
+[<sup>3</sup> Le membre dont le mandat prend fin avant l'expiration du terme de six ans est remplacé, pour la durée restante de son mandat, par son suppléant.]<sup>3</sup> En cas de vacance d'une place de membre suppléant, la Chambre des Représentants (...) procède sans délai à la nomination d'un nouveau membre suppléant. &lt;L 1999-04-01/31, art. 7, 006; En vigueur : 03-04-1999&gt;
+
+(Pour la nomination d'un suppléant, les conditions prescrites à l'article 4, alinéa 4, sont vérifiées par la Chambre des représentants lors de son entrée en fonction.
+
+Avant d'entrer en fonction, les membres du Comité permanent P prêtent, entre les mains du président de la Chambre des représentants, le serment prescrit par l'article 2 du décret du 30 juillet 1831.) &lt;L 1999-04-01/31, art. 7, 006; En vigueur : 03-04-1999&gt;
+
+----------
+
+(1)&lt;L 2010-04-18/20, art. 3, 016; En vigueur : 17-06-2010&gt;
+
+(2)&lt;L 2015-12-14/07, art. 2, 021; En vigueur : 03-01-2016&gt;
+
+(3)&lt;L 2024-03-29/18, art. 3, 028; En vigueur : 28-04-2024&gt;
+
+#### Sous-section 2. - Définitions.
+
+##### Art. 7
+
+&lt;L 1998-12-07/31, art. 224, 005; En vigueur : 01-01-2001&gt; § 1er. Pour l'application du présent chapitre, on entend par "les ministres compétents", selon le cas :
+
+1° le ministre de la Justice pour :
+
+a) l'exercice, par les services de police, des missions de police judiciaire;
+
+b) l'exercice, par la police fédérale, des missions de sûreté de l'Etat;
+
+2° le ministre de l'Intérieur pour :
+
+a) l'exercice, par les services de police, des missions de police administrative;
+
+b) l'organisation et les normes de gestion de la police locale.
+
+(3° [<sup>1</sup> le Conseil national de sécurité]<sup>1</sup> pour l'Organe de coordination pour l'analyse de la menace ou pour les autres services d'appui.) &lt;L 2006-07-10/31, art. 7, 1°, 014; En vigueur : 01-12-2006&gt;
+
+§ 2. Pour l'application du présent chapitre, on entend par "les autorités compétentes" :
+
+1° le procureur général près la cour d'appel, le procureur fédéral et le procureur du Roi pour l'exécution des missions de police judiciaire par les services de police dans leurs ressorts respectifs;
+
+2° le bourgmestre territorialement compétent pour l'exercice des missions de police administrative par les services de police sur le territoire communal;
+
+3° le bourgmestre ou le collège de police, pour l'organisation, la gestion et la direction du corps de police locale.
+
+(4° le directeur de l'Organe de coordination pour l'analyse de la menace.) &lt;L 2006-07-10/31, art. 7, 2°, 014; En vigueur : 01-12-2006&gt;
+
+----------
+
+(1)&lt;L 2015-12-06/07, art. 3, 020; En vigueur : 28-01-2015&gt;
+
+#### Sous-section 3. - Missions.
+
+##### Art. 8
+
+[<sup>1</sup> Le Comité permanent P agit soit d'initiative, soit à la demande de la Chambre des représentants [<sup>2</sup> ...]<sup>2</sup>, du ministre compétent ou de l'autorité compétente.]<sup>1</sup>
+
+[Lorsque le Comité permanent P agit d'initiative, il en informe aussitôt la Chambre des représentants.] &lt;L 1999-04-01/31, art. 8, 006; En vigueur : 03-04-1999&gt;
+
+----------
+
+(1)&lt;L 2010-02-04/26, art. 21, 015; En vigueur : indéterminée , au plus tard le 01-09-2010&gt;
+
+(2)&lt;L 2014-01-06/63, art. 2, 018; En vigueur : 25-05-2014&gt;
+
+##### Art. 9
+
+(Dans le cadre des objectifs prévus à l'article 1er, le Comité permanent P enquête sur les activités et les méthodes des services de police, de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui, sur leurs règlements et directives internes, ainsi que sur tous les documents réglant le comportement des membres de ces services à l'exception des directives en matière de politique de recherche et de poursuite des infractions et en matière de politique se rapportant à la police administrative.) &lt;L 2006-07-10/31, art. 9, 1°, 014; En vigueur : 01-12-2006&gt;
+
+Les services de police (, l'Organe de coordination pour l'analyse de la menace et les autres services d'appui) transmettent d'initiative au Comité permanent P les règlements et directives (...) ainsi que tous les documents réglant le comportement des membres de ces services. Le Comité permanent P et le Service d'enquête des services de police ont le droit de se faire communiquer tous les textes qu'ils estiment nécessaires à l'accomplissement de leur mission. &lt;L 2003-05-03/59, art. 2, 012; En vigueur : 01-07-2003&gt; &lt;L 2006-07-10/31, art. 9, 2°, 014; En vigueur : 01-12-2006&gt;
+
+Le Comité permanent P remet au ministre compétent ou à l'autorité compétente, selon le cas, ainsi qu'à la Chambre des Représentants (...), un rapport relatif à chaque enquête. Ce rapport est confidentiel jusqu'à sa communication à la Chambre des Représentants (...) conformément à l'article 11. &lt;L 1999-04-01/31, art. 9, 006; En vigueur : 03-04-1999&gt;
+
+Ce rapport comprend les conclusions qui portent sur les textes, les activités ou les méthodes qui seraient de nature à mettre en péril les objectifs visés à l'article 1er.
+
+Le ministre compétent ou l'autorité compétente peut, à propos des rapports d'enquête, organiser un échange de vues avec le Comité permanent P. Celui-ci peut proposer lui-même qu'un tel échange de vues soit organisé.
+
+Les ministres compétents ou les autorités compétentes informent dans un délai raisonnable le Comité permanent P de la suite qu'ils réservent à ses conclusions.
+
+(Le Comité permanent P ne peut rendre un avis sur un projet de loi, d'arrêté royal, de circulaire, ou sur des documents de toutes natures exprimant les orientations politiques des ministres compétents, qu'à la demande de la Chambre des représentants [<sup>1</sup> ...]<sup>1</sup>, ou du Ministre compétent.
+
+Lorsque le Comité permanent P agit à la demande du Ministre compétent, le rapport n'est remis à la Chambre qu'à l'issue du terme fixé conformément à l'article 11, 3°. Le président de la Commission de suivi concernée visée à l'article 66bis est cependant informé de la demande du Ministre au Comité permanent P et du contenu du rapport avant le terme du délai visé à l'article 11, 3°.) &lt;L 1999-04-01/31, art. 9, 006; En vigueur : 03-04-1999&gt;
+
+----------
+
+(1)&lt;L 2014-01-06/63, art. 3, 018; En vigueur : 25-05-2014&gt;
+
+##### Art. 10
+
+(Dans le cadre des objectifs prévus à l'article 1er, le Comité permanent P traite les plaintes et dénonciations qu'il reçoit en matière de fonctionnement, d'intervention, d'action ou d'abstention d'action des services de police, de l'Organe de coordination pour l'analyse de la menace, des autres services d'appui et de leurs membres.) &lt;L 2006-07-10/31, art. 10, 1°, 014; En vigueur : 01-12-2006&gt;
+
+(Sous réserve des dispositions de l'article 22, le Comité permanent P peut décider, conjointement avec le Comité permanent R, de ne pas donner suite à une plainte ou à une dénonciation qui concerne l'Organe de coordination pour l'analyse de la menace, les autres services d'appui et leurs membres et qui est manifestement non fondée.) &lt;L 2006-07-10/31, art. 10, 2°, 014; En vigueur : 01-12-2006&gt;
+
+Sous réserve des dispositions de l'article 22, le Comité permanent P peut décider de ne pas donner suite à une plainte ou à une dénonciation manifestement non fondée. Il peut déléguer ce pouvoir au (directeur général) du Service d'enquêtes des services de police. &lt;L 2003-05-03/59, art. 12, 012; En vigueur : 01-07-2003&gt;
+
+(Le Comité permanent P peut décider, lorsqu'il estime que les données de la plainte ou de la dénonciation n'ont pas trait à des dysfonctionnements organisationnels ou à des dysfonctionnements, négligences ou fautes individuels graves, de transférer la compétence de traitement de la plainte ou dénonciation, selon le cas, au commissaire général de la police fédérale, au chef de corps de la police locale, au chef des autres services de police visés à l'article 3 pour leurs services et personnel.) &lt;L 2003-05-03/59, art. 3, 012; En vigueur : 01-07-2003&gt;
+
+(Si une plainte ou une dénonciation est traitée simultanément par l'Inspection générale de la Police fédérale et de la Police locale et par le Service d'Enquête du Comité permanent P, et que la personne qui a déposé la plainte ou fait la dénonciation n'a pas sollicité expressément l'intervention du Comité, le Comité peut décider de ne pas donner suite à cette plainte ou à cette dénonciation (et de transférer la compétence de traitement de celle-ci à l'inspection générale de la police fédérale et de la police locale).) &lt;L 1999-04-01/31, art. 10, 006; En vigueur : 03-04-1999&gt; &lt;L 2003-05-03/59, art. 3, 012; En vigueur : 01-07-2003&gt;
+
+(La décision du Comité permanent P de ne pas donner suite à une plainte ou une dénonciation, de transférer la compétence de traitement de la plainte ou dénonciation ou de clôturer l'enquête est motivée et communiquée par écrit à la partie qui a déposé la plainte ou formulé la dénonciation.
+
+En cas de transfert de cette compétence, il doit être mentionné dans la notification que, si la partie ayant déposé la plainte ou formulé la dénonciation conteste les conclusions de l'enquête qui lui ont été communiquées lors de la clôture du dossier, elle peut demander au Comité permanent P d'examiner à nouveau sa plainte ou dénonciation moyennant une demande écrite et motivée.
+
+Lorsque l'enquête est clôturée, le résultat de celle-ci est communiqué en termes généraux.
+
+Le Comité permanent P communique les conclusions de l'enquête, selon le cas, au commissaire général de la police fédérale, au chef de corps de la police locale (, à la direction des services de police visés à l'article 3, au directeur de l'Organe de coordination pour l'analyse de la menace ou au fonctionnaire dirigeant de l'autre service d'appui). &lt;L 2006-07-10/31, art. 10, 3°, 014; En vigueur : 01-12-2006&gt;
+
+Le service de police auquel la compétence de traitement de la plainte ou de la dénonciation a été transférée, informe le Comité permanent P, lors de la clôture de l'enquête, des conclusions de celle-ci et des mesures prises.) &lt;L 2003-05-03/59, art. 3, 012; En vigueur : 01-07-2003&gt;
+
+##### Art. 11
+
+Le Comité permanent P fait rapport à la Chambre des Représentants et au Sénat dans les cas suivants :
+
+1° [annuellement, par un rapport général d'activités qui comprend, s'il échet, des conclusions et des propositions d'ordre général et qui couvre la période allant du 1er janvier au 31 décembre de l'année précédente. [<sup>1</sup> Dans ce rapport, le Comité permanent P accorde une attention spécifique à la mise en oeuvre de la loi du 10 juillet 2006 relative à l'analyse de la menace.]<sup>1</sup> Ce rapport est transmis aux Présidents de la Chambre des représentants et du Sénat ainsi qu'aux ministres compétents le [1er juin] au plus tard.] &lt;L 2000-07-20/32, art. 2, 009; En vigueur : 01-08-2000&gt; &lt;L 2003-05-03/59, art. 4, 012; En vigueur : 01-07-2003&gt;
+
+[1°bis [<sup>2</sup> chaque fois qu'il l'estime utile ou à la demande de la Chambre des représentants, par un rapport d'activités intermédiaire, qui peut comprendre, s'il échet, des conclusions et des propositions d'ordre général relatives à un dossier d'enquête déterminé. Ce rapport est transmis aux présidents de la Chambre des représentants et du Sénat ainsi qu'aux ministres compétents;]<sup>2</sup>
+
+2° lorsque la Chambre des Représentants [<sup>2</sup> ...]<sup>2</sup> lui a confié une enquête;
+
+3° lorsqu'au terme d'un délai qu'il estime raisonnable, il constate qu'aucune suite n'a été réservée à ses conclusions, ou que les mesures prises sont inappropriées ou insuffisantes. [Ce délai ne peut être inférieur à soixante jours.] &lt;L 1999-04-01/31, art. 11, 006; En vigueur : 03-04-1999&gt;
+
+[<sup>1</sup> 4° ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-02-04/26, art. 22, 015; En vigueur : indéterminée , au plus tard le 01-09-2010&gt;
+
+(2)&lt;L 2014-01-06/63, art. 4, 018; En vigueur : 25-05-2014&gt;
+
+##### Art. 12
+
+[<sup>1</sup> En vue de préparer ses conclusions d'ordre général, la Chambre des représentants peut se faire communiquer par le Comité permanent P tout dossier d'enquête, selon les modalités et aux conditions qu'elle détermine et qui visent notamment à préserver le caractère confidentiel des dossiers et à protéger la vie privée des personnes.]<sup>1</sup> (Si l'enquête fait suite à la demande d'un Ministre compétent, son accord est requis avant la communication du dossier d'enquête, sauf si le délai prévu à l'article 11, 3°, est expiré.) &lt;L 1999-04-01/31, art. 12, 006; En vigueur : 03-04-1999&gt;
+
+----------
+
+(1)&lt;L 2014-01-06/63, art. 5, 018; En vigueur : 25-05-2014&gt;
+
+##### Art. 13
+
+Après avoir recueilli l'avis des ministres compétents ou des autorités compétentes, le Comité permanent P décide, dans un délai d'un mois à compter de la demande d'avis, de rendre public tout ou partie de ses rapports et conclusions, selon les modalités qu'il détermine.
+
+(Les rapports et conclusions rendus publics comprennent cet avis des ministres compétents et des autorités compétentes.) &lt;L 1999-04-01/31, art. 13, 006; En vigueur : 03-04-1999&gt;
+
+##### Art. 14
+
+Le procureur général et l'auditeur général adressent d'office au président du Comité permanent P copie des jugements et arrêts relatifs aux [<sup>1</sup> infractions commises]<sup>1</sup> par les membres des services de police (et de l'Organe de coordination pour l'analyse de la menace). &lt;L 2006-07-10/31, art. 14, 1°, 014; En vigueur : 01-12-2006&gt;
+
+(Le procureur du Roi, l'auditeur du travail, le procureur fédéral ou le procureur général près la Cour d'appel, selon le cas, informe le président du Comité P chaque fois qu'une information ou qu'une instruction pour [<sup>1</sup> une infraction]<sup>1</sup> est ouverte à charge d'un membre d'un service de police (et de l'Organe de coordination pour l'analyse de la menace).) &lt;L 1999-04-01/31, art. 14, 006; En vigueur : 03-04-1999&gt; &lt;L 2006-07-10/31, art. 12, 2°, 014; En vigueur : 01-12-2006&gt;
+
+A la demande du président du Comité permanent P, le procureur général ou l'auditeur général peut fournir copie des actes ou des documents ou les renseignements relatifs aux procédures pénales à charge des membres des services de police (et de l'Organe de coordination pour l'analyse de la menace) pour les [<sup>1</sup> infractions commises]<sup>1</sup> dans l'exercice de leurs fonctions. &lt;L 2006-07-10/31, art. 12, 1°, 014; En vigueur : 01-12-2006&gt;
+
+Toutefois, si l'acte, le document ou le renseignement concerne une instruction judiciaire en cours, il ne peut être communiqué que de l'accord du juge d'instruction.
+
+Les copies sont délivrées sans frais.
+
+----------
+
+(1)&lt;L 2026-03-30/01, art. 87, 030; En vigueur : 01-09-2026&gt;
+
+##### Art. 14bis
+
+&lt;Inséré par L 1999-04-01/31, art. 15, 006; En vigueur : 03-04-1999, mais voir L 1999-04-01/31, art. 42&gt; Le Comité permanent P enquête également sur les activités et les méthodes de l'Inspection générale de la Police fédérale et de la Police locale. Sans préjudice de cette mission, il se concerte avec l'Inspection générale en vue d'assurer ses missions légales de contrôle des services de police. (Le commissaire général de la police fédérale, l'inspection générale de la police fédérale et de la police locale et les chefs de corps de la police locale transmettent d'office au Comité permanent P une copie des plaintes et dénonciations qu'ils ont reçues concernant les services de police ainsi qu'un bref résumé des résultats de l'enquête lors de la clôture de celle-ci.) Si un contrôle est demandé par un Ministre compétent, son accord est requis avant toute communication. &lt;L 2003-05-03/59, art. 5, 012; En vigueur : 01-07-2003&gt;
+
+Les autorités disciplinaires compétentes informent mensuellement de manière complète le Comité des mesures disciplinaires et des mesures d'ordre prononcées à l'encontre d'un membre d'un service de police.
+
+(Ces informations peuvent être enregistrées et traitées par le Comité permanent P pour les besoins de ses missions légales de contrôle des services de police, afin de procéder à une analyse du fonctionnement général et global des services de police et des fonctionnaires de police individuels et pour formuler des propositions aux autorités en vue d'améliorer le fonctionnement des services de police.
+
+Les données individuelles peuvent uniquement être communiquées aux services de police en ce qui concerne leur personnel et à l'inspection générale de la police fédérale et de la police locale.) &lt;L 2003-05-03/59, art. 5, 012; En vigueur : 01-07-2003&gt;
+
+[<sup>1</sup> Un protocole d'accord est conclu entre l'Inspection générale et le Comité P et est soumis à l'approbation des ministres de l'Intérieur et de la Justice et de la commission parlementaire d'accompagnement du Comité P. L'objectif de ce protocole d'accord consiste à optimaliser la synergie entre les deux services, d'augmenter leur efficience et de préciser leurs modalités de collaboration.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-10/91, art. 2, 019; En vigueur : 01-04-2014&gt;
+
+##### Art. 14ter
+
+&lt;Inséré par L 2003-05-03/59, art. 6; En vigueur : 01-07-2003&gt; Le commissaire général de la police fédérale, les chefs de corps de la police locale, l'inspecteur général de la police fédérale et de la police locale et la direction des services de police visés à l'article 3 qui établissent un rapport annuel ou tout autre rapport général portant sur leur fonctionnement, en font parvenir un exemplaire au président du Comité permanent P dans les deux semaines.
+
+##### Art. 15
+
+Le Comité permanent P exerce son autorité sur le Service d'enquêtes des services de police (et sur le (directeur général) de ce service), lui confie des enquêtes et reçoit des rapports sur toutes les enquêtes qui sont effectuées. &lt;L 1999-04-01/31, art. 16, 006; En vigueur : 03-04-1999&gt; &lt;L 2003-05-03/59, art. 12, 012; En vigueur : 01-07-2003&gt;
+
+(Cependant, lorsqu'ils remplissent une mission de police judiciaire, le (directeur général) et les membres du Service d'Enquêtes sont soumis à la surveillance, selon la distinction établie par la loi, du procureur général près la Cour d'appel, du procureur fédéral ou de l'auditeur général près la Cour militaire.) &lt;L 1999-04-01/31, art. 16, 006; En vigueur : 03-04-1999&gt; &lt;L 2003-05-03/59, art. 12, 012; En vigueur : 01-07-2003&gt;
+
+### Section 2. - Le Service d'enquêtes des services de police.
+
+##### Art. 16
+
+(Sur décision du Comité permanent P ou, sauf à l'égard de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui, d'initiative, auquel cas il en informe sans délai le président du Comité permanent P, le Service d'enquêtes des services de police, dénommé ci-après " le Service d'enquêtes P ", contrôle, par des enquêtes, le fonctionnement des services de police, de l'Organe de coordination pour l'analyse de la menace et des services d'appui, dans les limites de l'article 1er.) &lt;L 2006-07-10/31, art. 13, 1°, 014; En vigueur : 01-12-2006&gt;
+
+Il examine les plaintes et dénonciations des particuliers qui ont été directement concernés par l'intervention d'un service de police (, de l'Organe de coordination pour l'analyse de la menace ou d'un autre service d'appui.) Tout fonctionnaire, toute personne exerçant une fonction publique et tout membre des forces armées directement concerné par des directives, des décisions ou des modalités d'application de celles-ci, ainsi que par des méthodes ou des actions, peut porter plainte ou faire une dénonciation sans devoir demander d'autorisation à ses chefs ou à ses supérieurs hiérarchiques. &lt;L 2006-07-10/31, art. 13, 2°, 014; En vigueur : 01-12-2006&gt;
+
+D'initiative ou sur réquisition du procureur du Roi, de l'auditeur militaire ou du juge d'instruction compétent, il effectue, en concurrence avec les autres officiers et agents de police judiciaire et même avec un droit de prévention sur ceux-ci, les enquêtes sur les [<sup>1</sup> infractions mises]<sup>1</sup> à charge des membres des services de police (et de l'Organe de coordination pour l'analyse de la menace). (Concernant les membres des autres services d'appui, la présente disposition s'applique uniquement à l'égard de l'obligation consacrée aux articles 6 et 14 de la loi du 10 juillet 2006 relative à l'analyse de la menace.) &lt;L 2006-07-10/31, art. 13, 3° et 4°, 014; En vigueur : 01-12-2006&gt;
+
+(L'exécution des enquêtes judiciaires ne peut mettre en péril l'exécution des autres missions du Service d'Enquêtes. A cette fin, le Ministre de la Justice arrête, conformément à l'article 143ter du Code judiciaire et sur proposition du Comité permanent P, les enquêtes sur les [<sup>1</sup> infractions mises]<sup>1</sup> à charge des membres de services de police (et de l'Organe de coordination pour l'analyse de la menace) qui sont confiées prioritairement, d'une part, au Service d'Enquêtes P, d'autre part, à l'Inspection générale de la Police fédérale et de la Police locale ou aux services de police.) &lt;L 1999-04-01/31, art. 17, 006; En vigueur : 03-04-1999&gt; &lt;L 2006-07-10/31, art. 13, 3°, 014; En vigueur : 01-12-2006&gt;
+
+Si la personne qui fait une dénonciation le souhaite, son anonymat doit être garanti. Dans ce cas, son identité ne peut être révélée qu'au sein du Service et au Comité permanent P.
+
+----------
+
+(1)&lt;L 2026-03-30/01, art. 88, 030; En vigueur : 01-09-2026&gt;
+
+##### Art. 17
+
+&lt;L 2000-07-20/32, art. 3, 009; En vigueur : 01-08-2000&gt; Nul ne peut être nommé (directeur général) ou (directeur général adjoint) du Service d'enquêtes P s'il n'a été pendant cinq ans magistrat ou membre d'un service de police ou si, comme fonctionnaire, il ne peut faire valoir une expérience utile d'au moins cinq ans dans des fonctions en rapport avec les activités des services de police. Au moment de sa nomination, il doit avoir atteint l'âge de 35 ans. &lt;L 2003-05-03/59, art. 12, 012; En vigueur : 01-07-2003&gt;
+
+Le (directeur général) et les deux (directeurs généraux adjoints) du Service d'enquêtes P sont nommés par le Comité permanent P [<sup>1</sup> pour un terme de cinq ans renouvelable]<sup>1</sup> . &lt;L 2003-05-03/59, art. 12, 012; En vigueur : 01-07-2003&gt;
+
+Avant d'entrer en fonction, le (directeur général) et les (directeurs généraux adjoints) du Service d'enquêtes P prêtent, entre les mains du président du Comité permanent P, le serment prescrit par l'article 2 du décret du 30 juillet 1831. &lt;L 2003-05-03/59, art. 12, 012; En vigueur : 01-07-2003&gt;
+
+(Ils doivent être titulaires d'une habilitation de sécurité du niveau " très secret " en vertu de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité.) &lt;L 2006-07-10/31, art. 14, 014; En vigueur : 01-12-2006&gt;
+
+Ils doivent connaître les langues française et néerlandaise.
+
+Les (directeurs généraux adjoints) du Service d'enquêtes P appartiennent à des rôles linguistiques différents. &lt;L 2003-05-03/59, art. 12, 012; En vigueur : 01-07-2003&gt;
+
+Le (directeur général) et les (directeurs généraux adjoints) du Service d'enquêtes P conservent leurs droits à la promotion et à l'avancement de traitement. &lt;L 2003-05-03/59, art. 12, 012; En vigueur : 01-07-2003&gt;
+
+Ils peuvent être révoqués par le Comité permanent P.
+
+----------
+
+(1)&lt;L 2010-04-18/20, art. 4, 016; En vigueur : 17-06-2010&gt;
+
+##### Art. 18
+
+[<sup>1</sup> Sans préjudice de l'article 15, alinéa 2, le directeur général du Service d'enquêtes P dirige celui-ci et y répartit les tâches, sous l'autorité, la direction et la surveillance collégiales du Comité permanent P.]<sup>1</sup>
+
+Il est chargé des relations avec le Comité permanent P dont il reçoit les missions et auquel il transmet les rapports.
+
+Il est chargé des relations avec les autorités judiciaires dont il reçoit les réquisitions et auxquelles il transmet les procès-verbaux visés à l'article 22.
+
+(Il est assisté par deux (directeurs généraux adjoints). Si le (directeur général) du Service d'enquêtes est empêché, les chefs adjoints le remplacent dans l'ordre fixé par le Comité permanent P.) &lt;L 2000-07-20/32, art. 4, 009; En vigueur : 01-08-2000&gt; &lt;L 2003-05-03/59, art. 12, 012; En vigueur : 01-07-2003&gt;
+
+(Un (directeur général adjoint) est chargé d'assister le (directeur général adjoint) en ce qui concerne la direction des membres du Service d'enquêtes visés à l'article (20ter), alinéa 1er; (l'autre directeur général adjoint) est chargé d'assister le (directeur adjoint) en ce qui concerne la direction des autres membres du service.) &lt;L 2000-07-20/32, art. 4, 009; En vigueur : 01-08-2000&gt; &lt;L 2003-05-03/59, art. 12 et 13, 012; En vigueur : 01-07-2003&gt;
+
+----------
+
+(1)&lt;L 2010-04-18/20, art. 5, 016; En vigueur : 17-06-2010&gt;
+
+##### Art. 19
+
+Sauf dans les cas prévus aux articles 16, alinéa 3, et 22, le (directeur général) du Service d'enquêtes P informe le ministre compétent et l'autorité compétente qu'une enquête est effectuée. &lt;L 2003-05-03/59, art. 12, 012; En vigueur : 01-07-2003&gt;
+
+Il transmet un rapport au Comité permanent P, à la fin de chaque mission d'enquête.
+
+Toutefois, dans les cas prévus aux articles 16, alinéa 3, et 22, le rapport se limite aux informations qui sont nécessaires à l'accomplissement de ses missions par le Comité permanent P.
+
+##### Art. 20
+
+Les membres du Service d'enquêtes P sont nommés et révoqués par le Comité permanent P, sur proposition du (directeur général) du Service d'enquêtes P. &lt;L 2003-05-03/59, art. 12, 012; En vigueur : 01-07-2003&gt;
+
+[<sup>1</sup> Certains membres sont, pour un terme renouvelable de cinq ans, détachés d'un service de police ou d'une administration]<sup>1</sup> dans laquelle ils ont acquis une expérience d'au moins cinq ans dans des fonctions en rapport avec les activités des services de police.
+
+Les membres du Service d'enquêtes P prêtent le même serment que le (directeur général) du Service. &lt;L 2003-05-03/59, art. 12, 012; En vigueur : 01-07-2003&gt;
+
+Ils conservent dans le service ou dans l'administration dont ils sont détachés leurs droits à la promotion et à l'avancement de traitement.
+
+(Pour pouvoir être nommés, ils doivent posséder les qualités de loyauté, de discrétion et d'intégrité indispensables au traitement d'informations sensibles ou détenir une habilitation de sécurité du niveau " très secret " en vertu de la loi du 11 décembre 1998 relative à la classification et aux habilitations de sécurité.) (Au moins quatre membres du Service d'enquêtes doivent être titulaires de cette habilitation de sécurité.) &lt;L 1999-04-01/31, art. 18, 006; En vigueur : 03-04-1999&gt;
+
+[<sup>1</sup> Les membres du Service d'enquêtes P s'abstiennent en toutes circonstances de manifester publiquement leurs opinions politiques. Ils ne peuvent se porter candidat à un mandat politique. Les membres du personnel administratif, avant de se porter candidat à un mandat politique, sont tenus d'en avertir le Comité permanent P. L'exercice d'un tel mandat devra aussi être porté à la connaissance du Comité permanent P.]<sup>1</sup>
+
+(Le commissionnement, selon le cas, au grade de commissaire divisionnaire de police ou de commissaire de police est accordé de plein droit au commissaire de police ou à l'inspecteur principal de police qui est nommé par le Comité permanent P en application de l'alinéa 1er dès sa prestation de serment et au plus tôt le 1er avril 2001.
+
+Le commissionnement reste valable aussi longtemps que le membre du personnel concerné reste membre du Service d'Enquêtes.
+
+Le membre du Service d'Enquêtes commissionné en application de la présente loi ne bénéficie d'aucun supplément de traitement lié à ce commissionnement.) &lt;L 2003-05-03/58, art. 2, 013; En vigueur : 11-07-2003&gt;
+
+----------
+
+(1)&lt;L 2010-04-18/20, art. 6, 016; En vigueur : 17-06-2010&gt;
+
+##### Art. 20bis
+
+&lt;L 2003-05-03/59, art. 7, 012; En vigueur : 01-07-2003&gt; § 1er. Le Comité permanent P exerce à l'égard des membres de son Service d'Enquêtes détachés de la police fédérale et de la police locale les compétences visées aux articles 19, 1° et 2°, et 20, 1° et 2°, de la loi du 13 mai 1999 portant le statut disciplinaire des membres du personnel des services de police.
+
+§ 2. Lorsqu'un membre du personnel de la police fédérale ou de la police locale est, au moment des faits qui lui sont reprochés, membre du Service d'enquêtes du Comité permanent P, il reste soumis pour ces faits à l'autorité disciplinaire du Comité permanent P.
+
+§ 3. Dans les cas prévus aux §§ 1er et 2, un membre du Comité permanent P siège en tant qu'assesseur au conseil de discipline en lieu et place de l'assesseur prévu à l'article 40, alinéa 1er, 2°, de la loi du 13 mai 1999 portant le statut disciplinaire des membres du personnel des services de police.
+
+##### Art. 20ter
+
+&lt;Inséré (au sens technique) par L 2003-05-03/59, art. 7, 8 et 12; En vigueur : 03-04-1999; est en fait le résultat de modifications de l'article antérieurement numéroté 20bis&gt; Le Comité permanent P désigne, parmi les membres du Service d'Enquêtes P et sur proposition du directeur général du Service d'Enquêtes P, les enquêteurs qui seront spécialement chargés d'exécuter les enquêtes judiciaires visées à l'article 16, alinéas 3 et 4.
+
+Le nombre d'enquêteurs ne peut être supérieur à la moitié des effectifs du Service d'Enquêtes. Le directeur général du Service d'Enquêtes P ne peut confier l'exécution des réquisitions qu'il reçoit des autorités judiciaires aux autres membres du Service d'Enquêtes, sauf accord du président du Comité P.
+
+##### Art. 21
+
+Le (directeur général) et les membres du Service d'enquêtes P ont la qualité d'officier de police judiciaire, auxiliaire du procureur du Roi et de l'auditeur militaire. &lt;L 2003-05-03/59, art. 12, 012; En vigueur : 01-07-2003&gt;
+
+##### Art. 22
+
+Lorsqu'un membre du Service d'enquêtes P a connaissance [<sup>1</sup> d'une infraction]<sup>1</sup>, il en dresse procès-verbal qui est transmis sur-le-champ, par le (directeur général) du Service d'enquêtes P, au procureur du Roi, à l'auditeur militaire, ou, au juge d'instruction, selon le cas. &lt;L 2003-05-03/59, art. 12, 012; En vigueur : 01-07-2003&gt;
+
+Le (directeur général) du Service d'enquêtes P en informe la personne qui a porté plainte ou qui a fait la dénonciation, ou l'autorité qui a requis le Comité permanent P. &lt;L 2003-05-03/59, art. 12, 012; En vigueur : 01-07-2003&gt;
+
+----------
+
+(1)&lt;L 2026-03-30/01, art. 89, 030; En vigueur : 01-09-2026&gt;
+
+##### Art. 22bis
+
+&lt;Inséré par L 2003-05-03/58, art. 3; En vigueur : 11-07-2003&gt; Pour la promotion par accession au grade supérieur, le membre du Service d'Enquêtes revêtu du grade de commissaire de police qui, à la fin du terme renouvelable de cinq ans visé à l'article 20, alinéa 2, fait l'objet d'une dernière évaluation avec la mention finale " bon ", est dispensé de la condition visée à l'article 32, 3, de la loi du 26 avril 2002 portant les éléments essentiels du statut des membres du personnel des services de police et portant diverses autres dispositions relatives aux services de police.
+
+Pour la promotion par accession à un cadre supérieur, le membre du Service d'Enquêtes revêtu du grade d'inspecteur principal de police qui, à la fin du terme renouvelable de cinq ans visé à l'article 20, alinéa 2, fait l'objet d'une dernière évaluation avec la mention finale " bon ", est dispensé des épreuves de sélection visées à l'article 39 de la loi du 26 avril 2002 portant les éléments essentiels du statut des membres du personnel des services de police et portant diverses autres dispositions relatives aux services de police.
+
+Les dispenses visées aux alinéas précédents valent sans limite de temps.
+
+##### Art. 22ter
+
+&lt;Inséré par L 2003-05-03/58, art. 4; En vigueur : 11-07-2003&gt; Le membre du Service d'Enquêtes, candidat pour une fonction au sein des services de police et reconnu apte pour celle-ci, bénéficie de la priorité sur tous les autres candidats à cette fonction, même si les autres candidats disposent d'une priorité accordée en vertu de la loi.
+
+La priorité visée à l'alinéa 1er vaut pendant deux ans à l'issue d'une deuxième période de cinq ans prestée au Service d'Enquêtes, mais peut être utilisée qu'une seule fois par le membre du personnel candidat pour une fonction au sein des services de police.
+
+##### Art. 22quater
+
+&lt;Inséré par L 2003-05-03/58, art. 5; En vigueur : 11-07-2003&gt; Le membre du Service d'Enquêtes qui, à la fin du premier terme renouvelable de cinq ans visé à l'article 20, alinéa 2, fait l'objet d'une dernière évaluation avec la mention finale " bon ", peut demander au Comité permanent P son transfert définitif dans le cadre organique statutaire du Service d'Enquêtes du Comité permanent P.
+
+Le membre du Service d'Enquêtes qui, à la fin du second terme renouvelable de cinq ans visé à l'article 20, alinéa 2, fait l'objet d'une dernière évaluation avec la mention finale " bon ", peut être transféré de plein droit dans le cadre organique statutaire du Service d'Enquêtes du Comité permanent P.
+
+##### Art. 23
+
+Lorsqu'un membre du Service d'enquêtes P constate, à l'occasion d'une enquête, des faits qui pourraient constituer une faute disciplinaire, le (directeur général) du Service d'enquêtes P en donne immédiatement connaissance a l'autorité disciplinaire compétente.&lt;L 2003-05-03/59, art. 12, 012; En vigueur : 01-07-2003&gt;
+
+[<sup>1</sup> Lorsqu'un membre du Service d'enquêtes P constate, à l'occasion d'une enquête pénale, des faits qui pourraient constituer une faute disciplinaire, le directeur général du Service d'enquêtes P en donne immédiatement connaissance à l'autorité disciplinaire compétente, après avoir obtenu l'accord du ministère public, le cas échéant après consultation du juge d'instruction.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-04-25/13, art. 2, 026; En vigueur : 08-12-2022&gt;
+
+### Section 3. - Procédures d'investigation.
+
+##### Art. 24
+
+§ 1. Sans préjudice des dispositions légales relatives aux immunités et aux privilèges de juridiction, le Comité permanent P et le Service d'enquêtes P peuvent inviter, afin de l'entendre, toute personne dont ils estiment l'audition nécessaire. (Les [<sup>1</sup> membres ou anciens membres]<sup>1</sup> des services de police (, de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui) sont tenus de donner suite à toute convocation écrite.) &lt;L 2003-05-03/59, art. 9, 012; En vigueur : 01-07-2003&gt; &lt;L 2006-07-10/31, art. 16, 1°, 014; En vigueur : 01-12-2006&gt;
+
+Les [<sup>1</sup> membres ou anciens membres]<sup>1</sup> des services de police (, de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui) peuvent déposer sur des faits couverts par le secret professionnel. &lt;L 2006-07-10/31, art. 16, 1°, 014; En vigueur : 01-12-2006&gt;
+
+§ 2. Le président du Comité permanent P peut faire citer des [<sup>1</sup> membres ou anciens membres]<sup>1</sup> des services de police (, de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui) par le ministère d'huissiers de justice. Les [<sup>1</sup> membres ou anciens membres]<sup>1</sup> des services de police (, de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui) sont tenus de déposer après avoir prêté le serment prévu à l'article 934, alinéa 2 du Code judiciaire. &lt;L 2006-07-10/31, art. 16, 1°, 014; En vigueur : 01-12-2006&gt;
+
+Les [<sup>1</sup> membres ou anciens membres]<sup>1</sup> des services de police (, de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui) sont tenus de révéler au Comité permanent P les secrets dont ils sont dépositaires, à l'exception de ceux qui concernent une information ou une instruction judiciaire en cours. &lt;L 2006-07-10/31, art. 16, 1°, 014; En vigueur : 01-12-2006&gt;
+
+Si [<sup>1</sup> le membre ou l'ancien membre]<sup>1</sup> du service de police (, de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui) estime devoir garder le secret dont il est dépositaire parce que sa révélation risquerait de faire courir un danger physique à une personne, la question est soumise au président du Comité permanent P, qui statue (ou, s'il s'agit d'[<sup>1</sup> un membre ou un ancien membre]<sup>1</sup> de l'Organe de coordination pour l'analyse de la menace ou d'un autre service d'appui, aux présidents des deux Comités permanents qui statuent conjointement). &lt;L 2006-07-10/31, art. 16, 1° et 2°, 014; En vigueur : 01-12-2006&gt;
+
+§ 3. Le Comité permanent P et le Service d'enquêtes P peuvent requérir la collaboration d'interprètes et d'experts. Ils prêtent serment d'après la formule utilisée devant la Cour d'assises. Les indemnités qui leurs sont dues sont réglées conformément au tarif des frais en matières civiles.
+
+§ 4. L'article 9 de la loi du 3 mai 1880 sur les enquêtes parlementaires est d'application aux [<sup>1</sup> membres ou anciens membres]<sup>1</sup> des services de police (, de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui) qui sont entendus ou cités par le Comité permanent P à titre de témoins et aux experts et interprètes qui sont requis. &lt;L 2006-07-10/31, art. 16, 1°, 014; En vigueur : 01-12-2006&gt;
+
+Les procès-verbaux constatant les infractions commises devant le Comité permanent P sont établis par le président ou le vice-président et transmis au procureur général près la Cour d'appel dans le ressort de laquelle elles sont commises.
+
+Les [<sup>1</sup> membres ou anciens membres]<sup>1</sup> des services de police (, de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui) qui refusent de témoigner devant le Comité permanent P et les experts et interprètes qui refusent leur collaboration sont punis d'[<sup>2</sup> une peine de niveau 2]<sup>2</sup>. &lt;L 2006-07-10/31, art. 16, 1°, 014; En vigueur : 01-12-2006&gt;
+
+----------
+
+(1)&lt;L 2011-02-09/13, art. 2, 017; En vigueur : 08-04-2011&gt;
+
+(2)&lt;L 2026-03-30/01, art. 90, 030; En vigueur : 01-09-2026&gt;
+
+##### Art. 25
+
+Les membres du service d'enquêtes P peuvent, dans l'exercice de leurs missions, requérir l'assistance de la force publique.
+
+##### Art. 26
+
+Tout membre d'un service de police qui constate [<sup>1</sup> une infraction commise]<sup>1</sup> par un membre d'un service de police rédige un rapport d'information et le communique dans les quinze jours au (directeur général) du Service d'enquêtes P. &lt;L 2003-05-03/59, art. 12, 012; En vigueur : 01-07-2003&gt;
+
+----------
+
+(1)&lt;L 2026-03-30/01, art. 91, 030; En vigueur : 01-09-2026&gt;
+
+##### Art. 27
+
+Les membres du Service d'enquêtes P font, en tous lieux, les constatations qui s'imposent.
+
+(Ils peuvent à tout moment, en présence de leur chef de service ou de son remplaçant et du chef de corps, directeur ou fonctionnaire dirigeant concerné ou de son remplaçant pénétrer dans les lieux dans lesquels des membres d'un service de police, de l'Organe de coordination pour l'analyse de la menace ou d'un autre service d'appui exercent leur fonction, afin d'y faire des constatations matérielles. Ils peuvent saisir dans ces lieux tous objets et documents utiles pour leur enquête, à l'exception de ceux qui concernent une information ou une instruction judiciaire en cours. Si le chef de corps ou son remplaçant estime que la saisie risque de faire courir un danger physique à une personne, la question est soumise au président du Comité permanent P, qui statue. Si le directeur ou fonctionnaire dirigeant ou son remplaçant estime que la saisie risque de faire courir un danger physique à une personne, la question est soumise aux présidents des deux Comités permanents, qui statuent conjointement. Les objets et documents saisis sont mentionnés dans un registre spécial tenu à cet effet.) &lt;L 2006-07-10/31, art. 17, 014; En vigueur : 01-12-2006&gt;
+
+##### Art. 27bis
+
+&lt;Inséré par L 2003-05-03/59, art. 10; En vigueur : 01-07-2003&gt; Le Comité permanent P et le directeur général du Service d'Enquêtes peuvent imposer des délais de réponse contraignants aux services ou aux membres de la police fédérale ou de la police locale auxquels ils adressent des questions dans l'exécution de leurs missions.
+
+## CHAPITRE III. - Contrôle des [<sup>1</sup> services de renseignement]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+### Section 1. - Comité permanent de contrôle des [<sup>1</sup> services de renseignement]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+#### Sous-section 1. - Composition.
+
+##### Art. 28
+
+(Le Comité permanent de contrôle des [<sup>4</sup> services de renseignement]<sup>4</sup> et de sécurité, ci-après dénommé " le Comité permanent R ", se compose de trois membres effectifs, dont un président. [<sup>7</sup> Un suppléant est nommé]<sup>7</sup> pour chacun d'eux. Tous sont nommés par [<sup>2</sup> la Chambre des représentants]<sup>2</sup>, qui peut les révoquer s'ils exercent une des fonctions ou activités ou un des emplois ou mandats visés à l'alinéa 4, ou pour motifs graves.) &lt;L 2000-07-20/32, art. 5, 009; En vigueur : 01-08-2000&gt;
+
+Le Comité permanent R est assisté d'un greffier. [<sup>1</sup> En cas d'absence de ce dernier, le Comité permanent R procède à son remplacement selon les modalités reprises dans le règlement d'ordre intérieur visé à l'article 60.]<sup>1</sup>
+
+Au moment de leur nomination, les membres et leurs suppléants doivent remplir les conditions suivantes :
+
+1° être belge;
+
+2° jouir des droits civils et politiques;
+
+3° avoir atteint l'âge de 35 ans;
+
+4° avoir leur domicile en Belgique;
+
+5° (être titulaire d'un diplôme de [<sup>3</sup> master en droit]<sup>3</sup> et faire preuve d'une expérience pertinente d'au moins sept ans dans le domaine [<sup>6</sup> du renseignement,]<sup>6</sup> du droit pénal ou de la criminologie, du droit public, [<sup>6</sup> du droit de la protection des données à caractère personnel,]<sup>6</sup> ou de techniques de gestion, acquise dans des fonctions proches du fonctionnement, des activités et de l'organisation des services de police ou des [<sup>4</sup> services de renseignement]<sup>4</sup> et de sécurité, de même qu'avoir exercé des fonctions à un niveau de responsabilité élevé;) &lt;L 1999-04-01/31, art. 20, 006; En vigueur : 03-04-1999&gt;
+
+(6° détenir une habilitation de sécurité du niveau " très secret " en vertu de la loi du 11 décembre 1998 relative a la classification et aux habilitations de sécurité.) &lt;L 1999-04-01/31, art. 20, 006; En vigueur : 03-04-1999&gt;
+
+Les membres et leurs suppléants ne peuvent occuper aucun mandat public conféré par élection. Ils ne peuvent exercer d'emploi ou d'activité public ou privé qui pourrait mettre en péril l'indépendance ou la dignité de la fonction. Ils ne peuvent être membres ni du Comité permanent de contrôle des services de police, ni d'un service de police, ni d'un [<sup>5</sup> service de renseignement]<sup>5</sup> (, ni de l'Organe de coordination pour l'analyse de la menace, ni d'un autre service d'appui) [<sup>6</sup> , ni d'une autre autorité de protection des données, ni de la commission administrative chargée de la surveillance des méthodes spécifiques et exceptionnelles de recueil de données des services de renseignement et de sécurité]<sup>6</sup>. &lt;L 2006-07-10/31, art. 18, 014; En vigueur : 01-12-2006&gt;
+
+(Le président doit être un magistrat.) &lt;L 1999-04-01/31, art. 20, 006; En vigueur : 03-04-1999&gt;
+
+(Les décisions que la présente loi ou d'autres lois attribuent au Comité permanent R sont prises en réunion plénière.) &lt;L 1999-04-01/31, art. 20, 006; En vigueur : 03-04-1999&gt;
+
+----------
+
+(1)&lt;L 2010-04-18/20, art. 7, 016; En vigueur : 17-06-2010&gt;
+
+(2)&lt;L 2014-01-06/63, art. 6, 018; En vigueur : 25-05-2014&gt;
+
+(3)&lt;L 2016-04-21/06, art. 85, 023; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+(4)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+(5)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+(6)&lt;L 2018-07-30/46, art. 259, 024; En vigueur : 05-09-2018&gt;
+
+(7)&lt;L 2024-03-29/18, art. 4, 028; En vigueur : 28-04-2024&gt;
+
+##### Art. 29
+
+(Le greffier est nommé par [<sup>1</sup> la Chambre des représentants]<sup>1</sup>, qui peut le révoquer ou mettre fin à ses fonctions dans les cas visés à l'article 28, alinéa 4.) Au moment de sa nomination, le greffier doit remplir les conditions suivantes : &lt;L 1999-04-01/31, art. 21, 006; En vigueur : 03-04-1999&gt;
+
+1° être Belge;
+
+2° jouir des droits civils et politiques;
+
+3° connaître les langues française et néerlandaise;
+
+4° avoir atteint l'âge de 30 ans;
+
+5° avoir son domicile en Belgique;
+
+6° être titulaire d'un [<sup>4</sup> diplôme de master pertinent pour l'exercice de la fonction]<sup>4</sup>;
+
+7° avoir une expérience utile d'au moins deux ans.
+
+(8° détenir une habilitation de sécurité du niveau " très secret " en vertu de la loi du 11 décembre 1998 relative a la classification et aux habilitations de sécurité [<sup>3</sup> , attestations et avis de sécurité]<sup>3</sup>.) &lt;L 1999-04-01/31, art. 21, 006; En vigueur : 03-04-1999&gt;
+
+(Avant d'entrer en fonction, le greffier prête, entre les mains du président [<sup>1</sup> de la Chambre des représentants]<sup>1</sup>, le serment prescrit par l'article 2 du décret du 30 juillet 1831.) &lt;L 1999-04-01/31, art. 21, 006; En vigueur : 03-04-1999&gt;
+
+----------
+
+(1)&lt;L 2014-01-06/63, art. 7, 018; En vigueur : 25-05-2014&gt;
+
+(2)&lt;L 2016-04-21/06, art. 85, 023; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+(3)&lt;L 2018-07-30/46, art. 260, 024; En vigueur : 05-09-2018&gt;
+
+(4)&lt;L 2021-08-14/23, art. 3, 025; En vigueur : 18-12-2021&gt;
+
+##### Art. 30
+
+[<sup>1</sup> Les membres du Comité permanent R sont nommés pour un terme renouvelable de six ans qui prend cours à partir de leur prestation de serment. A l'issue de ce terme, les membres continuent à exercer leurs fonctions jusqu'à la prestation de serment de leur remplaçant.
+
+Les suppléants sont nommés pour un terme renouvelable de six ans qui prend cours à partir de la prestation de serment du membre dont ils assurent la suppléance.]<sup>1</sup>
+
+(alinéa supprimé) &lt;L 1999-04-01/31, art. 22, 006; En vigueur : 03-04-1999&gt;
+
+[<sup>4</sup> Le membre dont le mandat prend fin avant l'expiration du terme de six ans est remplacé, pour la durée restante de son mandat, par son suppléant.]<sup>4</sup> En cas de vacance d'une place de membre suppléant, [<sup>2</sup> la Chambre des représentants]<sup>2</sup> procède sans délai à la nomination d'un nouveau membre suppléant.) &lt;L 2000-07-20/32, art. 6, 009; En vigueur : 01-08-2000&gt;
+
+(Pour la nomination d'un suppléant, les conditions prescrites par l'article 28, alinéa 4, sont vérifiées par [<sup>2</sup> la Chambre des représentants]<sup>2</sup> lors de son entrée en fonction.
+
+Avant d'entrer en fonction, les membres du Comité permanent R prêtent, entre les mains du président [<sup>2</sup> de la Chambre des représentants]<sup>2</sup>, le serment prescrit par l'article 2 du décret du 30 juillet 1831.) &lt;L 1999-04-01/31, art. 22, 006; En vigueur : 03-04-1999&gt;
+
+----------
+
+(1)&lt;L 2010-04-18/20, art. 8, 016; En vigueur : 17-06-2010&gt;
+
+(2)&lt;L 2014-01-06/63, art. 8, 018; En vigueur : 25-05-2014&gt;
+
+(3)&lt;L 2015-12-14/07, art. 3, 021; En vigueur : 03-01-2016&gt;
+
+(4)&lt;L 2024-03-29/18, art. 5, 028; En vigueur : 28-04-2024&gt;
+
+#### Sous-section 2. - Définitions.
+
+##### Art. 31
+
+Pour l'application du présent chapitre, on entend par " les ministres compétents " :
+
+1° le ministre qui a la Défense nationale dans ses attributions, pour le [<sup>2</sup> Service Général du Renseignement et de la Sécurité]<sup>2</sup>;
+
+2° le ministre qui a la Justice dans ses attributions, pour (...) la Sûreté de l'Etat; &lt;L 1999-04-01/31, art. 23, 006; En vigueur : 03-04-1999&gt;
+
+3° le ministre qui a un service visé à l'article 3, 2°, in fine dans ses attributions.
+
+(4° le Ministre qui a l'Intérieur dans ses attributions, pour les missions de la Sûreté de l'Etat qui ont trait au maintien de l'ordre public et à la protection des personnes [<sup>3</sup> ...]<sup>3</sup>.) &lt;L 1998-11-30/32, art. 46, C, 004; En vigueur : 01-02-1999&gt;
+
+(5° [<sup>1</sup> le Conseil national de sécurité]<sup>1</sup> pour l'Organe de coordination pour l'analyse de la menace ou pour les autres services d'appui.
+
+Dans ce chapitre, on entend par " l'autorité compétente " le directeur de l'Organe de coordination pour l'analyse de la menace.) &lt;L 2006-07-10/31, art. 19, 014; En vigueur : 01-12-2006&gt;
+
+----------
+
+(1)&lt;L 2015-12-06/07, art. 3, 020; En vigueur : 28-01-2015&gt;
+
+(2)&lt;L 2018-07-30/46, art. 256, 024; En vigueur : 05-09-2018&gt;
+
+(3)&lt;L 2018-07-30/46, art. 261, 024; En vigueur : 05-09-2018&gt;
+
+#### Sous-section 3. - Missions.
+
+##### Art. 32
+
+[<sup>1</sup> Le Comité permanent R agit soit d'initiative, soit à la demande de la Chambre des représentants, [<sup>2</sup> ...]<sup>2</sup> du ministre compétent [<sup>3</sup> ,]<sup>3</sup> de l'autorité compétente [<sup>3</sup> ou à la demande d'une autre autorité de protection des données]<sup>3</sup>.]<sup>1</sup>
+
+[Lorsque le Comité permanent R agit d'initiative [<sup>3</sup> dans le cadre des activités et méthodes visées à l'article 33, alinéa 1er]<sup>3</sup>, il en informe aussitôt [<sup>2</sup> la Chambre des représentants]<sup>2</sup>.] &lt;L 1999-04-01/31, art. 24, 006; En vigueur : 03-04-1999&gt;
+
+----------
+
+(1)&lt;L 2010-02-04/26, art. 23, 015; En vigueur : indéterminée , au plus tard le 01-09-2010&gt;
+
+(2)&lt;L 2014-01-06/63, art. 9, 018; En vigueur : 25-05-2014&gt;
+
+(3)&lt;L 2018-07-30/46, art. 33, 024; En vigueur : 05-09-2018&gt;
+
+##### Art. 33
+
+[Dans le cadre des objectifs prévus a l'article 1er, le Comité permanent R enquête sur les activités et les méthodes des services de renseignement, de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui, sur leurs règlements et directives internes, ainsi que sur tous les documents réglant le comportement des membres de ces services.] &lt;L 2006-07-10/31, art. 21, 1°, 014; En vigueur : 01-12-2006&gt;
+
+[<sup>4</sup> Le Comité permanent R enquête également sur les traitements de données à caractère personnel par les services de renseignement et leurs sous-traitants.]<sup>4</sup>
+
+[Les services de renseignement, l'Organe de coordination pour l'analyse de la menace et les autres services d'appui] transmettent d'initiative au Comité permanent R les règlements et directives internes ainsi que tous les documents réglant le comportement des membres de ces services. Le Comite permanent R [...] et le Service d'enquêtes des [<sup>3</sup> services de renseignement]<sup>3</sup> ont le droit de se faire communiquer les textes qu'ils estiment nécessaires à l'accomplissement de leur mission. [<sup>1</sup> Sur la base d'une demande motivée de son président, le Comité permanent R peut se faire communiquer auprès des autorités administratives les règlements, directives et documents dont ils émanent et qu'il estime indispensables à l'accomplissement de sa mission. Il appartient à l'autorité administrative concernée d'apprécier la pertinence de la communication au Comité permanent R des règlements, directives et documents demandés.]<sup>1</sup> &lt;L 2000-07-20/32, art. 7, 009; En vigueur : 01-08-2000&gt; &lt;L 2006-07-10/31, art. 21, 2°, 014; En vigueur : 01-12-2006&gt;
+
+[<sup>2</sup> Le Comité permanent R remet au ministre compétent ou à l'autorité compétente ainsi qu'à la Chambre des représentants un rapport relatif à chaque mission d'enquête. Ce rapport est confidentiel jusqu'à sa communication à la Chambre des représentants conformément à l'article 35.]<sup>2</sup>
+
+Ce rapport comprend des conclusions qui portent sur les textes, les activités [<sup>4</sup> ,]<sup>4</sup> les méthodes [<sup>4</sup> ou les traitements des données à caractère personnel]<sup>4</sup> qui seraient de nature à mettre en péril les objectifs visés à l'article 1er.
+
+Le ministre compétent [ou l'autorité compétente] peut, à propos des rapports d'enquête, organiser un échange de vues avec le Comité permanent R. Celui-ci peut proposer lui-même qu'un tel échange de vues soit organisé. &lt;L 2006-07-10/31, art. 21, 3°, 014; En vigueur : 01-12-2006&gt;
+
+Le ministre compétent [ou l'autorité compétente] informe dans un délai raisonnable le Comité permanent R de la suite qu'il réserve à ses conclusions. &lt;L 2006-07-10/31, art. 21, 3°, 014; En vigueur : 01-12-2006&gt;
+
+[[<sup>4</sup> Sauf si la loi impose son avis, le Comité permanent R peut seulement]<sup>4</sup> rendre un avis sur un projet de loi, d'arrêté royal, de circulaire, ou sur des documents de toute nature exprimant les orientations politiques des ministres compétents, qu'à la demande de la Chambre des représentants [<sup>2</sup> ...]<sup>2</sup> ou du Ministre compétent.
+
+Lorsque le Comité permanent R agit à la demande du Ministre compétent, le rapport n'est remis [<sup>2</sup> à la Chambre des représentants]<sup>2</sup> qu'à l'issue du terme fixé conformément à l' [<sup>1</sup> article 35, § 1er, 3°]<sup>1</sup>. Le président de la Commission de suivi concernée visée à l'article 66bis est informé de la demande du Ministre au Comité permanent R et du contenu du rapport avant le terme du délai visé à l' [<sup>1</sup> article 35, § 1er, 3°]<sup>1</sup>.] &lt;L 1999-04-01/31, art. 25, 006; En vigueur : 03-04-1999&gt;
+
+----------
+
+(1)&lt;L 2010-02-04/26, art. 24, 015; En vigueur : indéterminée , au plus tard le 01-09-2010&gt;
+
+(2)&lt;L 2014-01-06/63, art. 10, 018; En vigueur : 25-05-2014&gt;
+
+(3)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+(4)&lt;L 2018-07-30/46, art. 263, 024; En vigueur : 05-09-2018&gt;
+
+##### Art. 34
+
+&lt;L 2006-07-10/31, art. 22, 014; En vigueur : 01-12-2006&gt; Dans le cadre des objectifs prévus à l'article 1er, le Comité permanent R traite les plaintes et dénonciations qu'il reçoit en matière de fonctionnement, d'intervention, d'action ou d'abstention d'action des services de renseignement, de l'Organe de coordination pour l'analyse de la menace, des autres services d'appui et de leurs membres.
+
+[<sup>1</sup> Le Comité permanent R traite également des requêtes en matière de traitements des données à caractère personnel par les services de renseignement et leurs sous-traitants.]<sup>1</sup>
+
+Sous réserve des dispositions de l'article 46, le Comité permanent R, peut décider, conjointement avec le Comité permanent P, de ne pas donner suite à une plainte ou à une dénonciation qui concerne l'Organe de coordination pour l'analyse de la menace, les autres services d'appui et leurs membres et qui est manifestement non fondée.
+
+Sous réserve des dispositions de l'article 46, le Comité permanent R peut décider de ne pas donner suite à une plainte [<sup>1</sup> ,]<sup>1</sup> une dénonciation [<sup>1</sup> ou une requête]<sup>1</sup> manifestement non fondée. Il peut déléguer ce pouvoir au chef du Service d'enquêtes des services de renseignement.
+
+La décision du Comité permanent R de ne pas donner suite à une plainte [<sup>1</sup> ,]<sup>1</sup> une dénonciation [<sup>1</sup> ou une requête]<sup>1</sup> et de clôturer l'enquête est motivée et notifiée par écrit à la partie qui a déposé la plainte [<sup>1</sup> ,]<sup>1</sup> fait la dénonciation [<sup>1</sup> ou introduit la requête]<sup>1</sup>.
+
+Lorsque l'enquête est clôturée, le résultat de celle-ci est communiqué en termes généraux [<sup>1</sup> , sauf en matière d'enquêtes portant sur le traitement des données à caractère personnel par les services de renseignement et leurs sous-traitants où le Comité permanent R répond uniquement que les vérifications nécessaires ont été effectuées]<sup>1</sup>.
+
+Le Comite permanent R communique les conclusions de l'enquête, selon le cas, au fonctionnaire dirigeant du service de renseignement, au directeur de l'Organe de coordination pour l'analyse de la menace ou au fonctionnaire dirigeant de l'autre service d'appui.
+
+----------
+
+(1)&lt;L 2018-07-30/46, art. 35, 024; En vigueur : 05-09-2018&gt;
+
+##### Art. 35
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Le Comité permanent R fait rapport à la Chambre des Représentants et au Sénat dans les cas suivants :
+
+1° [annuellement, par un rapport général d'activités qui comprend, s'il échet, des conclusions et des propositions d'ordre général et qui couvre la période allant du 1er janvier au 31 décembre de l'année précédente. Ce rapport est transmis aux Présidents de la Chambre des représentants et du Sénat ainsi qu'aux ministres compétents le [1er juin] au plus tard.] [<sup>1</sup> Dans ce rapport, le Comité permanent R consacre une attention spécifique aux méthodes spécifiques et exceptionnelles de recueil de données, telles qu'elles sont visées dans l'article 18/2 de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité, à l'application du chapitre IV/2 de la même loi et à la mise en oeuvre de la loi du 10 juillet 2006 relative à l'analyse de la menace.]<sup>1</sup> &lt;L 2000-07-20/32, art. 8, 009; En vigueur : 01-08-2000&gt; &lt;L 2006-07-10/31, art. 23, 1°, 014; En vigueur : 01-12-2006&gt;
+
+2° lorsque la Chambre des Représentants [<sup>2</sup> ...]<sup>2</sup> lui a confié une enquête;
+
+3° lorsqu'au terme d'un délai qu'il estime raisonnable, il constate qu'aucune suite n'a été réservée à ses conclusions, ou que les mesures prises sont inappropriées ou insuffisantes. [Ce délai ne peut être inférieur à soixante jours.] &lt;L 1999-04-01/31, art. 26, 006; En vigueur : 03-04-1999&gt;
+
+[<sup>1</sup> 4° ...]<sup>1</sup>
+
+[<sup>1</sup> § 2. Le Comité permanent R fait rapport [<sup>2</sup> à la Chambre des représentants]<sup>2</sup> [<sup>3</sup> annuellement]<sup>3</sup> sur l'application de [<sup>3</sup> l'article 16/2 et de]<sup>3</sup> l'article 18/2 de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité. Copie de ce rapport [<sup>3</sup> annuel]<sup>3</sup> est également adressée aux Ministres de la Justice et de la Défense [<sup>3</sup> ainsi qu'à la Sûreté de l'Etat et au [<sup>4</sup> Service Général du Renseignement et de la Sécurité]<sup>4</sup>]<sup>3</sup>, qui ont la faculté d'attirer l'attention du Comité permanent R sur leurs observations.
+
+Le rapport indique le nombre d'autorisations accordées, la durée des méthodes exceptionnelles de recueil de données, le nombre de personnes concernées et, le cas échéant, les résultats obtenus. Il précise également les activités du Comité permanent R.
+
+Les éléments figurant dans le rapport ne peuvent pas porter atteinte au bon fonctionnement des services de renseignement et de sécurité ou mettre en danger la collaboration entre les services de renseignement et de sécurité belges et étrangers.]<sup>1</sup>
+
+[<sup>5</sup> § 3. Le Comité permanent R fait rapport annuellement à la Chambre des représentants sur les avis rendus en sa qualité d'autorité de protection des données, sur les enquêtes effectuées et mesures prises en cette même qualité ainsi que sur sa collaboration avec les autres autorités de protection des données. Copie de ce rapport est également adressée aux ministres compétents, ainsi qu'à la Sûreté de l'Etat et au Service Général du Renseignement et de la Sécurité, qui ont la faculté d'attirer l'attention du Comité permanent R sur leurs observations.]<sup>5</sup>
+
+----------
+
+(1)&lt;L 2010-02-04/26, art. 25, 015; En vigueur : indéterminée , au plus tard le 01-09-2010&gt;
+
+(2)&lt;L 2014-01-06/63, art. 11, 018; En vigueur : 25-05-2014&gt;
+
+(3)&lt;L 2016-02-05/11, art. 221, 022; En vigueur : 29-02-2016&gt;
+
+(4)&lt;L 2018-07-30/46, art. 256, 024; En vigueur : 05-09-2018&gt;
+
+(5)&lt;L 2018-07-30/46, art. 265, 024; En vigueur : 05-09-2018&gt;
+
+##### Art. 36
+
+[<sup>2</sup> En vue de préparer ses conclusions d'ordre général, la Chambre des représentants peut se faire communiquer par le Comité permanent R tout dossier d'enquête, selon les modalités et aux conditions qu'elle détermine et qui visent notamment à préserver le caractère confidentiel des dossiers et à protéger la vie privée des personnes.]<sup>2</sup> [Si l'enquête fait suite à une demande d'un Ministre compétent, son accord est requis avant la communication du dossier d'enquête, sauf si le délai prévu à l' [<sup>1</sup> article 35, § 1er, 3°,]<sup>1</sup> est expiré.] &lt;L 1999-04-01/31, art. 27, 006; En vigueur : 03-04-1999&gt;
+
+----------
+
+(1)&lt;L 2010-02-04/26, art. 26, 015; En vigueur : indéterminée , au plus tard le 01-09-2007&gt;
+
+(2)&lt;L 2014-01-06/63, art. 12, 018; En vigueur : 25-05-2014&gt;
+
+##### Art. 37
+
+Après avoir recueilli l'avis des ministres compétents (ou de l'autorité compétente), le Comité permanent R décide, dans un délai d'un mois à compter de la demande d'avis, de rendre public tout ou partie de ses rapports et conclusions, selon les modalités qu'il détermine. &lt;L 2006-07-10/31, art. 24, 014; En vigueur : 01-12-2006&gt;
+
+(Les rapports et conclusions rendus publics comprennent l'avis des ministres compétents et des autorités compétentes.) &lt;L 1999-04-01/31, art. 28, 006; En vigueur : 03-04-1999&gt;
+
+##### Art. 38
+
+Le procureur général et l'auditeur général adressent d'office au président du Comité permanent R copie des jugements et arrêts relatifs aux [<sup>3</sup> infractions commises]<sup>3</sup> par les membres des [<sup>1</sup> services de renseignement]<sup>1</sup> (et de l'Organe de coordination pour l'analyse de la menace). &lt;L 2006-07-10/31, art. 25, 1°, 014; En vigueur : 01-12-2006&gt;
+
+(Le procureur du Roi, l'auditeur du travail, le Procureur fédéral ou le Procureur général près la Cour d'appel, selon le cas, informe le président du Comité [<sup>2</sup> permanent]<sup>2</sup> R chaque fois qu'une information ou une instruction pour [<sup>3</sup> infraction]<sup>3</sup> est ouverte à charge d'un membre d'un service de renseignement ou de l'Organe de coordination pour l'analyse de la menace.) &lt;L 2006-07-10/31, art. 25, 2°, 014; En vigueur : 01-12-2006&gt;
+
+A la demande du président du Comité permanent R, le procureur général ou l'auditeur général peut fournir copie des actes ou des documents ou les renseignements relatifs aux procédures pénales à charge des membres des [<sup>1</sup> services de renseignement]<sup>1</sup> (et de l'Organe de coordination pour l'analyse de la menace) pour les [<sup>3</sup> infractions commises]<sup>3</sup> dans l'exercice de leurs fonctions. &lt;L 2006-07-10/31, art. 25, 1°, 014; En vigueur : 01-12-2006&gt;
+
+Toutefois, si l'acte, le document ou le renseignement concerne une instruction en cours, il ne peut être communiqué que de l'accord du juge d'instruction.
+
+Les copies sont délivrées sans frais.
+
+----------
+
+(1)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+(2)&lt;L 2018-07-30/46, art. 266, 024; En vigueur : 05-09-2018&gt;
+
+(3)&lt;L 2026-03-30/01, art. 92, 030; En vigueur : 01-09-2026&gt;
+
+##### Art. 39
+
+(...) Le Comité permanent R exerce son autorité sur le Service d'enquêtes des [<sup>1</sup> services de renseignement]<sup>1</sup>, lui confie des enquêtes et reçoit des rapports sur toutes les enquêtes qui sont effectuées. &lt;L 2000-07-20/32, art. 10, 010; En vigueur : 03-04-1999&gt;
+
+Cependant, lorsqu'ils remplissent une mission de police judiciaire, le chef et les membres du Service d'enquêtes des [<sup>1</sup> services de renseignement]<sup>1</sup> sont soumis à la surveillance du procureur général près la Cour d'appel (ou du Procureur fédéral). &lt;L 2006-07-10/31, art. 26, 014; En vigueur : 01-12-2006&gt;
+
+----------
+
+(1)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+### Section 2. - Le Service d'enquêtes des [<sup>1</sup> services de renseignement]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+##### Art. 40
+
+(Sur décision du Comité permanent R ou, sauf à l'égard de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui, d'initiative, auquel cas il en informe sans délai le président du Comité permanent R, le Service d'enquêtes des services de renseignement, dénommé ci-après " le Service d'enquêtes R ", contrôle, par des enquêtes, le fonctionnement des services de renseignement, de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui, dans les limites de l'article 1er.) &lt;L 2006-07-10/31, art. 27, 1°, 014; En vigueur : 01-12-2006&gt;
+
+Il examine [<sup>3</sup> les plaintes, dénonciations et requêtes]<sup>3</sup> des particuliers qui ont été directement concernés par l'intervention d'un [<sup>2</sup> service de renseignement]<sup>2</sup> (, de l'Organe de coordination pour l'analyse de la menace ou d'un autre service d'appui). [<sup>3</sup> ...]<sup>3</sup> Tout fonctionnaire, toute personne exerçant une fonction publique et tout membre des forces armées directement concerné par des directives, des décisions ou des modalités d'application de celles-ci, ainsi que par des méthodes [<sup>3</sup> , des actions ou des traitements de données à caractère personnel]<sup>3</sup>, peut porter plainte ou faire une dénonciation sans devoir demander d'autorisation à ses chefs ou à ses supérieurs hiérarchiques. &lt;L 2006-07-10/31, art. 27, 2°, 014; En vigueur : 01-12-2006&gt;
+
+D'initiative ou sur réquisition du procureur du Roi, de l'auditeur militaire ou du juge d'instruction compétent, il effectue, en concurrence avec les autres officiers et agents de police judiciaire et même avec un droit de prévention sur ceux-ci, les enquêtes sur les [<sup>4</sup> infractions]<sup>4</sup> à charge des membres des [<sup>1</sup> services de renseignement]<sup>1</sup> (et de l'Organe de coordination pour l'analyse de la menace. Concernant les membres des autres services d'appui, la présente disposition s'applique uniquement à l'égard de l'obligation consacrée aux articles 6 et 14 de la loi du 10 juillet 2006 relative à l'analyse de la menace). &lt;L 2006-07-10/31, art. 27, 3°, 014; En vigueur : 01-12-2006&gt;
+
+Si la personne qui fait une dénonciation le souhaite, son anonymat doit être garanti. Dans ce cas, son identité ne peut être révélée qu'au sein du Service et au Comité permanent R.
+
+----------
+
+(1)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+(2)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+(3)&lt;L 2018-07-30/46, art. 267, 024; En vigueur : 05-09-2018&gt;
+
+(4)&lt;L 2026-03-30/01, art. 93, 030; En vigueur : 01-09-2026&gt;
+
+##### Art. 41
+
+Nul ne peut être nommé chef du Service d'enquêtes R s'il n'a été pendant cinq ans magistrat, membre d'un [<sup>2</sup> service de renseignement]<sup>2</sup> ou de police ou si, comme fonctionnaire, il ne peut faire valoir une expérience utile d'au moins cinq ans dans des fonctions en rapport avec les activités [<sup>3</sup> des services de police ou de renseignement]<sup>3</sup>. Au moment de la nomination, il doit avoir atteint l'âge de 35 ans.
+
+Le chef du Service d'enquêtes R est nommé par le Comité permanent R [<sup>1</sup> pour un terme de cinq ans renouvelable]<sup>1</sup> .
+
+Avant d'entrer en fonction, le chef du Service d'enquête R prête, entre les mains du président du Comité permanent R, le serment prescrit par l'article 2 du décret du 30 juillet 1831.
+
+Il doit connaître les langues française et néerlandaise.
+
+Il conserve ses droits à la promotion et à l'avancement de traitement.
+
+Il peut être révoqué par le Comité permanent R.
+
+----------
+
+(1)&lt;L 2010-04-18/20, art. 9, 016; En vigueur : 17-06-2010&gt;
+
+(2)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+(3)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+##### Art. 42
+
+[<sup>1</sup> Sans préjudice de l'article 39, alinéa 2, le chef du Service d'enquêtes R dirige celui-ci et y répartit les tâches, sous l'autorité, la direction et la surveillance collégiales du Comité permanent R.]<sup>1</sup>
+
+Il est chargé des relations avec le (...) Comité permanent R dont il reçoit les missions et auquel il transmet les rapports. &lt;L 2000-07-20/32, art. 10, 010; En vigueur : 03-04-1999&gt;
+
+Il est chargé des relations avec les autorités judiciaires dont il reçoit les réquisitions et auxquelles il transmet les procès-verbaux visés à l'article 46.
+
+----------
+
+(1)&lt;L 2010-04-18/20, art. 10, 016; En vigueur : 17-06-2010&gt;
+
+##### Art. 43
+
+Sauf dans les cas prévus aux articles 40, alinéa 3, et 46, le chef du Service d'enquêtes R informe le ministre compétent (ou l'autorité compétente) qu'une enquête est effectuée. &lt;L 2006-07-10/31, art. 29, 1°, 014; En vigueur : 01-12-2006&gt;
+
+Il transmet un rapport au Comité permanent R, à la fin de chaque mission d'enquête.
+
+Toutefois, dans les cas prévus aux articles 40, alinéa 3, et 46, le rapport se limite aux informations qui sont nécessaires à l'accomplissement par le Comité permanent R de ses missions.
+
+##### Art. 44
+
+Les membres du Service d'enquêtes R sont nommés et révoqués par le Comité permanent R, sur proposition du chef du Service d'enquêtes R.
+
+Ils sont, pour moitié au moins et pour un terme renouvelable de cinq ans, détachés [<sup>2</sup> d'un service de police ou de renseignement]<sup>2</sup> ou d'une administration, dans laquelle ils ont acquis une expérience d'au moins cinq ans dans des fonctions en rapport avec les activités [<sup>1</sup> des services de police ou de renseignement]<sup>1</sup> [<sup>3</sup> ou dans le traitement des données à caractère personnel ou dans la sécurité de l'information]<sup>3</sup>.
+
+Les membres du Service d'enquêtes R prêtent le même serment que le chef du Service.
+
+Ils conservent dans le service ou dans l'administration dont ils sont détachés leurs droits à la promotion et à l'avancement de traitement.
+
+----------
+
+(1)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+(2)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+(3)&lt;L 2018-07-30/46, art. 268, 024; En vigueur : 05-09-2018&gt;
+
+##### Art. 45
+
+Le chef et les membres du Service d'enquêtes R ont la qualité d'officier de police judiciaire, auxiliaire du procureur du Roi et de l'auditeur militaire.
+
+(Pour pouvoir être nommés, ils doivent détenir une habilitation de sécurité du niveau " très secret " en vertu de la loi du 11 décembre 1998 relative à la classification et aux habilitations de sécurité [<sup>1</sup> , attestations et avis de sécurité]<sup>1</sup>.) &lt;L 1999-04-01/31, art. 31, 006; En vigueur : 03-04-1999&gt;
+
+----------
+
+(1)&lt;L 2018-07-30/46, art. 269, 024; En vigueur : 05-09-2018&gt;
+
+##### Art. 46
+
+Lorsqu'un membre du Service d'enquêtes R a connaissance [<sup>2</sup> d'une infraction]<sup>2</sup> [<sup>1</sup> en dehors des cas prévus à l'article 13/1 de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité et de ceux visés aux [<sup>2</sup> articles 226 et 227]<sup>2</sup> de la loi protection des données]<sup>1</sup>, il en dresse procès-verbal qui est transmis sur-le-champ, par le chef du Service d'enquêtes R, au procureur du Roi, à l'auditeur militaire ou au juge d'instruction, selon le cas.
+
+Le chef du Service d'enquêtes R en informe la personne qui a porté plainte ou qui a fait la dénonciation, ou l'autorité qui a requis le Comité permanent R.
+
+[<sup>1</sup> Lorsqu'un membre du Service d'enquêtes R a connaissance [<sup>2</sup> d'une infraction visée]<sup>2</sup> aux [<sup>2</sup> articles 226 et 227]<sup>2</sup> de la loi protection des données, il en informe le Comité permanent R dans les meilleurs délais. Celui-ci assure le suivi selon les modalités fixées à l'article 54.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-07-30/46, art. 270, 024; En vigueur : 05-09-2018&gt;
+
+(2)&lt;L 2026-03-30/01, art. 94, 030; En vigueur : 01-09-2026&gt;
+
+##### Art. 47
+
+Lorsqu'un membre du Service d'enquêtes R constate, à l'occasion d'une enquête, des faits qui pourraient constituer une faute disciplinaire, le chef du Service d'enquêtes R en donne immédiatement connaissance à l'autorité disciplinaire compétente.
+
+### Section 3. - Procédures d'investigation.
+
+##### Art. 48
+
+§ 1. Sans préjudice des dispositions légales relatives aux immunités et aux privilèges de juridiction, le Comité Permanent R et le Service d'enquêtes R peuvent inviter, afin de l'entendre, toute personne dont ils estiment l'audition nécessaire.
+
+Les [<sup>2</sup> membres ou anciens membres]<sup>2</sup> des [<sup>3</sup> services de renseignement]<sup>3</sup> [, de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui] peuvent déposer sur des faits couverts par le secret professionnel. &lt;L 2006-07-10/31, art. 29, 1°, 014; En vigueur : 01-12-2006&gt;
+
+§ 2. Le président du Comité permanent R peut faire citer des [<sup>2</sup> membres ou anciens membres]<sup>2</sup> des [<sup>3</sup> services de renseignement]<sup>3</sup> [, de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui] par le ministère d'huissiers de justice. Les [<sup>2</sup> membres ou anciens membres]<sup>2</sup> des [<sup>3</sup> services de renseignement]<sup>3</sup> sont tenus de déposer après avoir prêté le serment prévu à l'article 934, alinéa 2, du Code judiciaire. &lt;L 2006-07-10/31, art. 29, 1°, 014; En vigueur : 01-12-2006&gt;
+
+[<sup>1</sup> Les [<sup>2</sup> membres ou anciens membres]<sup>2</sup> des services de renseignement, de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui sont tenus de révéler au Comité permanent R les secrets dont ils sont dépositaires.
+
+Si ces secrets concernent une information ou une instruction judiciaire en cours, le Comité permanent R se concerte au préalable à ce sujet avec le magistrat compétent.]<sup>1</sup>
+
+Si [<sup>2</sup> le membre ou l'ancien membre]<sup>2</sup> du [<sup>4</sup> service de renseignement]<sup>4</sup> [, de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui] estime devoir garder le secret dont il est dépositaire parce que sa révélation risquerait de faire courir un danger physique à une personne, la question est soumise au président du Comité permanent R, qui statue [ou, s'il s'agit d'[<sup>2</sup> un membre ou un ancien membre]<sup>2</sup> de l'Organe de coordination pour l'analyse de la menace ou d'un autre service d'appui, aux présidents des deux Comités permanents, qui statuent conjointement]. &lt;L 2006-07-10/31, art. 29, 1° et 2°, 014; En vigueur : 01-12-2006&gt;
+
+§ 3. Le Comité permanent R et le Service d'enquêtes R peuvent requérir la collaboration d'experts et d'interprètes. Ils prêtent serment d'après la formule utilisée devant la Cour d'assises. Les indemnités qui leur sont dues sont réglées conformément au tarif des frais en matières civiles.
+
+§ 4. L'article 9 de la loi du 3 mai 1880 sur les enquêtes parlementaires, est d'application aux [<sup>2</sup> membres ou anciens membres]<sup>2</sup> des [<sup>3</sup> services de renseignement]<sup>3</sup> [, de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui] qui sont entendus ou cités à titre de témoins par le Comité permanent R, et aux experts et interprètes qui sont requis.
+
+Les procès-verbaux constatant les infractions commises devant le Comité permanent R sont établis par le président [...] et transmis au procureur général près la Cour d'appel dans le ressort de laquelle elles sont commises. &lt;L 1999-04-01/31, art. 32, 006; En vigueur : 03-04-1999&gt; &lt;L 2006-07-10/31, art. 19, 1°, 014; En vigueur : 01-12-2006&gt;
+
+Les [<sup>2</sup> membres ou anciens membres]<sup>2</sup> des [<sup>3</sup> services de renseignement]<sup>3</sup> [, de l'Organe de coordination pour l'analyse de la menace et des autres services d'appui] qui refusent de témoigner devant le Comité permanent R et les experts et interprètes qui refusent leur collaboration sont punis d'[<sup>5</sup> une peine de niveau 2]<sup>5</sup>. &lt;L 2006-07-10/31, art. 29, 1°, 014; En vigueur : 01-12-2006&gt;
+
+----------
+
+(1)&lt;L 2010-02-04/26, art. 2, 015; En vigueur : indéterminée , au plus tard le 01-09-2010&gt;
+
+(2)&lt;L 2011-02-09/13, art. 3, 017; En vigueur : 08-04-2011&gt;
+
+(3)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+(4)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+(5)&lt;L 2026-03-30/01, art. 95, 030; En vigueur : 01-09-2026&gt;
+
+##### Art. 49
+
+Les membres du Service d'enquêtes R peuvent, dans l'exercice de leurs missions, requérir l'assistance de la force publique.
+
+##### Art. 50
+
+Tout membre d'un service de police qui constate [<sup>1</sup> [<sup>3</sup> une infraction commise]<sup>3</sup> par un membre d'un [<sup>2</sup> service de renseignement]<sup>2</sup>]<sup>1</sup> rédige un rapport d'information et le communique dans les quinze jours au chef du Service d'enquêtes R.
+
+----------
+
+(1)&lt;L 2010-04-18/20, art. 11, 016; En vigueur : 17-06-2010&gt;
+
+(2)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+(3)&lt;L 2026-03-30/01, art. 96, 030; En vigueur : 01-09-2026&gt;
+
+##### Art. 51
+
+Les membres du Service d'enquêtes R font, en tous lieux, les constatations qui s'imposent.
+
+(Ils peuvent à tout moment, en présence de leur chef de service ou de son remplaçant et du chef de corps, du directeur ou du fonctionnaire dirigeant concerné ou de son remplaçant, pénétrer dans les lieux dans lesquels des membres d'un service de renseignement, de l'Organe de coordination pour l'analyse de la menace ou de l'autre service d'appui exercent leur fonction, afin d'y faire des constatations matérielles. Ils peuvent saisir dans ces lieux tous objets et documents utiles pour leur enquête, à l'exception de ceux qui concernent une information ou une instruction judiciaire en cours. Si le chef de corps ou son remplaçant estime que la saisie de données classifiées est de nature à constituer une menace pour l'exercice des missions des services de renseignement et de sécurité visées aux articles 7, 8 et 11 de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité, ou qu'elle risquerait de faire courir un danger physique à une personne, la question est soumise au président du Comité permanent R, qui statue. Si le directeur ou le fonctionnaire dirigeant ou son remplaçant estime que la saisie de données classifiées est de nature à constituer une menace pour l'exercice des missions des services de renseignement et de sécurité visées aux articles 7, 8 et 11 de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité, ou qu'elle risquerait de faire courir un danger physique à une personne, la question est soumise aux présidents des deux Comités permanents, qui statuent conjointement. Les objets et documents saisis sont mentionnés dans un registre spécial tenu à cet effet.) &lt;L 2006-07-10/31, art. 30, 014; En vigueur : 01-12-2006&gt;ps ou son remplaçant estime que la saisie (de données classifiées est de nature à constituer une menace pour l'exercice des missions des services de renseignement et de sécurité visées aux articles 7, 8 et 11 de la loi du 30 novembre 1998, organique des services de renseignement et de sécurité, ou qu'elle) risquerait de faire courir un danger physique à une personne, la question est soumise au président du Comité permanent R, qui statue. Les objets et documents saisis sont mentionnés dans un registre spécial tenu à cet effet. &lt;L 1998-11-30/32, art. 46, D, 004; En vigueur : 01-02-1999&gt;
+
+### Section 4. [<sup>1</sup> - Compétences du Comité permanent R en tant qu'autorité de protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-30/46, art. 271, 024; En vigueur : 05-09-2018&gt;
+
+##### Art. 51/1
+
+[<sup>1</sup> En sa qualité d'autorité de protection des données, le Comité permanent R agit soit d'initiative, soit à la demande d'une autre autorité de protection de données, soit à la requête de toute personne concernée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-30/46, art. 272, 024; En vigueur : 05-09-2018&gt;
+
+##### Art. 51/2
+
+[<sup>1</sup> Pour être recevable, la requête est écrite, datée, signée et motivée, et justifier de l'identité de la personne concernée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-30/46, art. 273, 024; En vigueur : 05-09-2018&gt;
+
+##### Art. 51/3
+
+[<sup>1</sup> Le Comité permanent R décide du suivi qu'il donne au dossier et a la compétence de :
+
+1° conclure que le traitement est effectué en conformité avec les dispositions de la réglementation relative au traitement des données à caractère personnel;
+
+2° avertir le service concerné ou son sous-traitant du fait qu'un traitement envisagé de données à caractère personnel est susceptible de violer la réglementation relative aux traitements des données à caractère personnel;
+
+3° rappeler à l'ordre le service concerné ou son sous-traitant lorsqu'un traitement a entraîné une violation d'une disposition de la réglementation relative aux traitements des données à caractère personnel;
+
+4° ordonner au service concerné ou à son sous-traitant de mettre un traitement en conformité avec les dispositions de la réglementation relative au traitement des données à caractère personnel, le cas échéant, de manière spécifique et dans un délai déterminé;
+
+5° imposer une limitation temporaire ou définitive, y compris une interdiction, du traitement;
+
+6° ordonner la rectification ou l'effacement de données à caractère personnel;
+
+7° transmettre le dossier au parquet du procureur du Roi de Bruxelles, qui l'informe des suites données au dossier.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-30/46, art. 274, 024; En vigueur : 05-09-2018&gt;
+
+##### Art. 51/4
+
+[<sup>1</sup> Le Comité permanent R informe le service concerné des enquêtes effectuées sur le traitement de données à caractère personnel par ses sous-traitants et de leurs résultats.
+
+Lorsqu'il en prend connaissance, le Comité permanent R informe également le service concerné des violations de la réglementation relative aux traitements de ses données à caractère personnel par d'autres responsables du traitement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-30/46, art. 275, 024; En vigueur : 05-09-2018&gt;
+
+## CHAPITRE IV. - Réunions communes des Comités permanents des services de police et des [<sup>1</sup> services de renseignement]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+##### Art. 52
+
+Les Comités permanents échangent des informations concernant leurs activités et se transmettent les rapports et conclusions prévus aux articles 9, 11, 33 et 35.
+
+Ils tiennent au moins deux fois l'an des réunions communes à l'occasion desquelles des informations complémentaires peuvent être échangées.
+
+##### Art. 53
+
+Lors de leurs réunions communes, les Comités permanents exercent conjointement leurs missions déterminées (aux articles 9, 10, 11, 33, 34 et 35) : &lt;L 2006-07-10/31, art. 31, 1°, 014; En vigueur : 01-12-2006&gt;
+
+1° à l'égard des services publics qui exercent tant des missions de police que [<sup>3</sup> des missions de renseignement]<sup>3</sup>;
+
+2° pour ce qui concerne la répartition des missions et la coordination du fonctionnement entre, d'une part, les services de police et, d'autre part, les [<sup>2</sup> services de renseignement]<sup>2</sup>;
+
+3° pour toute question qui leur est soumise soit par une requête commune émanant des ministres qui ont l'Intérieur, la Justice et la Défense nationale dans leurs attributions respectives, soit par une requête de la Chambre des Représentants [<sup>1</sup> ...]<sup>1</sup>;
+
+4° pour toute question que chaque Comité permanent estime ne pas relever de ses compétences exclusives;
+
+5° pour toute question qui est considérée par un Comité permanent comme suffisamment importante pour rendre nécessaire une réunion commune.
+
+Un rapport est rédigé conjointement par les Comités permanents lors de chaque réunion commune. Ce rapport peut comporter des avis et des recommandations. Il fait l'objet des transmissions prévues aux articles 9, 11, 33 et 35.
+
+(6° à l'égard de l'Organe de coordination pour l'analyse de la menace ou d'un autre service d'appui.) &lt;L 2006-07-10/31, art. 31, 2°, 014; En vigueur : 01-12-2006&gt;
+
+----------
+
+(1)&lt;L 2014-01-06/63, art. 13, 018; En vigueur : 25-05-2014&gt;
+
+(2)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+(3)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+##### Art. 54
+
+La présidence de ces réunions communes est exercée en alternance par les présidents des Comités permanents.
+
+Le secrétariat des réunions communes est assuré par le greffier le plus ancien et, en cas d'ancienneté égale, par le greffier le plus jeune.
+
+##### Art. 55
+
+Les Comités permanents réunis peuvent décider de confier des missions d'enquêtes aux deux Services d'enquêtes ou à l'un d'eux. Ils reçoivent les rapports sur toutes les enquêtes effectuées.
+
+## CHAPITRE V. - Dispositions communes.
+
+##### Art. 56
+
+Chaque Comité permanent examine les plaintes qui lui sont adressées par ses anciens membres ou par d'anciens membres des Services d'enquêtes qui estiment avoir fait l'objet de mesures préjudiciables en raison des fonctions qu'ils ont remplies dans les Comités permanents ou dans les Services d'enquêtes.
+
+##### Art. 57
+
+[<sup>1</sup> Une dotation est inscrite au budget général des dépenses de l'Etat pour financer le fonctionnement des Comités permanents.
+
+Les Comités permanents établissent annuellement un projet de budget pour leur fonctionnement. Assistée par la Cour des comptes, la Chambre des représentants examine les propositions budgétaires détaillées des Comités permanents. Elle les approuve et contrôle l'exécution du budget des Comités permanents. Elle examine et approuve en outre les comptes détaillés.
+
+Pour leur budget et leurs comptes, les Comités permanents utilisent un schéma budgétaire et des comptes comparable à celui qui est utilisé par la Chambre des représentants.
+
+Les présidents, les membres et les greffiers des Comités permanents, ainsi que le directeur général du Service d'Enquêtes P et le chef du Service d'Enquêtes R, jouissent de la franchise postale pour les affaires de service.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-11-23/52, art. 10, 027; En vigueur : 01-01-2024&gt;
+
+##### Art. 58
+
+(Chaque Comité permanent nomme et révoque, d'initiative ou sur proposition du greffier, les membres de son personnel administratif.) &lt;L 1999-04-01/31, art. 33, 006; En vigueur : 03-04-1999&gt;
+
+[<sup>1</sup> Sous l'autorité et la surveillance collégiales du Comité permanent concerné, le greffier assure la direction et la gestion des membres du personnel administratif et répartit les tâches entre eux.
+
+Le directeur général du Service d'enquêtes P et le chef du Service d'enquêtes R ont autorité sur les membres du personnel administratif dont le nombre et les exigences de fonction sont fixés par le Comité permanent concerné, qui les lui assigne.]<sup>1</sup>
+
+[<sup>1</sup> Le greffier a autorité sur les membres du Service d'enquêtes P ou R, selon le cas, dont le nombre et les exigences de fonction sont fixés par le Comité permanent concerné, qui les lui assigne.
+
+Les membres du personnel visés aux alinéas 3 et 4 conservent les droits et obligations propres au statut qui leur est applicable.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-04-18/20, art. 12, 016; En vigueur : 17-06-2010&gt;
+
+##### Art. 59
+
+Les frais de voyage et de séjour du président, des membres et du greffier de chaque Comité permanent, du (directeur général du Service d'Enquêtes P, du chef du Service d'Enquêtes R ainsi que des membres de ces services) sont fixés d'après les dispositions d'application dans les services de l'Etat. &lt;L 2003-05-03/59, art. 15, 012; En vigueur : 01-07-2003&gt;
+
+##### Art. 60
+
+[<sup>1</sup> Chaque Comité permanent arrête son règlement d'ordre intérieur et peut y fixer son organisation interne. Le règlement d'ordre intérieur pour les réunions communes est fixé conjointement par les deux Comités permanents.]<sup>1</sup>
+
+[<sup>2</sup> Les règlements d'ordre intérieur des Comités permanents et le règlement d'ordre intérieur pour les réunions communes sont approuvés par la Chambre des représentants.]<sup>2</sup>
+
+[<sup>2</sup> Conformément à l'alinéa 2, la Chambre des représentants peut]<sup>2</sup> modifier les règlements d'ordre intérieur après avoir pris l'avis du Comité permanent concerné. L'avis est réputé favorable s'il n'a pas été rendu dans les soixante jours de la demande.) &lt;L 1999-04-01/31, art. 34, 006; En vigueur : 03-04-1999&gt;
+
+----------
+
+(1)&lt;L 2010-04-18/20, art. 13, 016; En vigueur : 17-06-2010&gt;
+
+(2)&lt;L 2014-01-06/63, art. 14, 018; En vigueur : 25-05-2014&gt;
+
+##### Art. 61
+
+&lt;L 1993-12-15/34, art. 1, 002; En vigueur : 19-03-1994&gt; § 1. Les membres des Comités permanents jouissent d'un statut identique à celui des conseillers de la Cour des comptes. Les règles régissant le statut pécuniaire des conseillers de la Cour des comptes, contenues dans la loi du 21 mars 1964 relative aux traitements des membres de la Cour des comptes, telle qu'elle a été modifiée par les lois des 14 mars 1975 et 5 août 1992, sont applicables aux membres des Comités permanents.
+
+Les membres des Comités permanents bénéficient du régime de pension applicable aux fonctionnaires de l'administration générale. En outre les conditions particulières suivantes sont applicables.
+
+La pension peut être accordée dès que l'intéressé a atteint l'âge de cinquante-cinq ans. Elle est calculée sur la base du traitement moyen des cinq dernières années, à raison d'[un vingtième] par année de service en qualité de membre du Comité permanent. &lt;L 2000-07-20/32, art. 11, 009; En vigueur : indéterminée &gt;
+
+[<sup>2</sup> Le membre qui, par suite de maladie ou d'infirmité, n'est plus en état de remplir ses fonctions, peut être admis à la retraite quel que soit son âge. Le membre mis à la retraite pour cause de maladie ou d'infirmité, ne peut prétendre à une pension de retraite à moins qu'il ait atteint l'âge légal de la pension ou qu'il remplisse les conditions pour obtenir une pension immédiate ou différée, tels que définis à l'article 46 de la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions.]<sup>2</sup>
+
+Les services qui ne relèvent pas de la réglementation prévue aux [<sup>2</sup> alinéas 2 et 3]<sup>2</sup> et qui entrent en considération pour le calcul d'une pension à charge de l'Etat sont pris en compte en application des lois concernant la fixation des pensions relatives à ces services.
+
+[§ 2. Sauf s'il est révoqué, lorsqu'il est mis fin aux fonctions d'un membre d'un Comité permanent ou lorsque son mandat n'est pas renouvelé, il bénéficie d'une allocation forfaitaire de départ équivalente aux derniers dix-huit mois de salaire mensuel brut.
+
+Cette allocation est réduite à due concurrence lorsqu'elle est octroyée avant l'expiration du premier mandat de cinq ans.
+
+Sont exclus du bénéfice de cette allocation :
+
+1° les membres auxquels s'applique l'article 65;
+
+2° les membres qui étaient membres d'un service de police ou d'un [<sup>1</sup> service de renseignement]<sup>1</sup> et de sécurité avant leur nomination au Comité permanent et qui réintègrent ce service.] &lt;L 2000-07-20/32, art. 11, 009; En vigueur : indéterminée &gt;
+
+[§ 3.] Les greffiers des Comités permanents jouissent d'un statut et d'un régime de pension identiques à ceux des greffiers de la Cour des comptes. &lt;L 2000-07-20/32, art. 11, 009; En vigueur : indéterminée &gt;
+
+L'article 365, § 2, a), du Code judiciaire est applicable aux greffiers des Comités permanents.
+
+----------
+
+(1)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+(2)&lt;L 2026-05-30/02, art. 114, 029; En vigueur : 01-06-2026&gt;
+
+##### Art. 61bis
+
+&lt;Inséré par L 1999-04-01/31, art. 36, 006; En vigueur : 03-04-1999&gt; Le président de chaque Comité permanent assure, dans le respect de la collégialité, la direction des réunions du Comité et la gestion journalière de ses activités. Il veille à l'application du règlement d'ordre intérieur, au bon fonctionnement du Comité et à la bonne exécution de ses missions. Il veille aussi à ce que l'exécution des missions de police judiciaire n'entrave pas l'exécution des enquêtes de contrôle. A cette fin, il organise les concertations nécessaires avec les autorités judiciaires compétentes.
+
+[<sup>1</sup> Pour l'exécution des compétences qui lui sont attribuées, le président de chaque Comité permanent est assisté par le greffier et respectivement, par le directeur général du Service d'enquêtes P ou par le chef du Service d'enquêtes R.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-04-18/20, art. 14, 016; En vigueur : 17-06-2010&gt;
+
+##### Art. 62
+
+[<sup>1</sup> Sans préjudice de l'article 58, le greffier assure, sous l'autorité et la surveillance collégiales du Comité permanent concerné, notamment :
+
+\- la direction et la gestion du personnel administratif;
+
+\- la gestion de l'infrastructure et du matériel du Comité;
+
+\- le secrétariat des réunions du Comité permanent dont il dresse les procès-verbaux;
+
+\- l'expédition des pièces;
+
+\- la conservation et la protection du secret de la documentation et des archives.
+
+Il prépare le budget du Comité permanent et en est le comptable.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-04-18/20, art. 15, 016; En vigueur : 17-06-2010&gt;
+
+##### Art. 63
+
+Il est interdit aux membres des Comités permanents d'être présents à la délibération sur des objets auxquels ils ont un intérêt personnel ou direct ou auxquels leurs parents ou alliés jusqu'au quatrième degré ont un intérêt personnel ou direct.
+
+##### Art. 64
+
+&lt;L 1999-04-01/31, art. 38, 006; En vigueur : 03-04-1999&gt; Les membres des comités permanents, les greffiers, les membres des services d'enquêtes et le personnel administratif sont dépositaires des secrets qui leur sont confiés dans l'exercice de leur mission. Le secret subsiste même lorsqu'ils ont cessé leurs fonctions.
+
+Sans préjudice de l'[<sup>1</sup> article 352]<sup>1</sup> du Code pénal, ils sont punis d'[<sup>1</sup> une peine de niveau 2, où, par dérogation à l'article 52, § 1er, alinéa 2, 7°, du Code pénal, l'amende maximale est de 32.000 euros]<sup>1</sup> s'ils révèlent ces secrets dans d'autres circonstances que celles qui sont prévues par la loi ou par le règlement d'ordre intérieur.
+
+----------
+
+(1)&lt;L 2026-03-30/01, art. 97, 030; En vigueur : 01-09-2026&gt;
+
+##### Art. 65
+
+§ 1. Les articles 1er, 6, 11 et 12 de la loi du 18 septembre 1986 instituant le congé politique pour les membres du personnel des services publics sont applicables, s'il échet et moyennant les adaptations nécessaires, aux membres des Comités permanents.
+
+§ 2. Les magistrats de l'ordre judiciaire peuvent être nommés membres du Comité permanent de contrôle des services de police et membres du Comité permanent de contrôle des [<sup>1</sup> services de renseignement]<sup>1</sup> (et directeur général du Service d'Enquêtes P ou chef du Service d'Enquêtes R). &lt;L 2003-05-03/59, art. 16, 012; En vigueur : 01-07-2003&gt;
+
+(Alinéas 2 à 4 abrogés) &lt;L 2003-05-03/45, art. 52, 011; En vigueur : 02-06-2003&gt;
+
+----------
+
+(1)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+##### Art. 66
+
+Son président excepté, chaque Comité permanent comprend autant de membres d'expression française que de membres d'expression néerlandaise.
+
+Le président d'un des Comités permanents est d'expression française, le président de l'autre, d'expression néerlandaise.
+
+##### Art. 66bis
+
+[<sup>2</sup> § 1er. La Chambre des représentants crée une commission permanente chargée du suivi du Comité permanent P et du Comité permanent R.
+
+La Chambre des représentants détermine dans son règlement les règles relatives à la composition et au fonctionnement de la commission.
+
+§ 2. La commission supervise le fonctionnement des Comités permanents, veille au respect des dispositions de la présente loi et des règlements d'ordre intérieur.
+
+La commission exerce en outre les missions dévolues à la Chambre des représentants par les articles 8, 9, 11, 1°bis, 2° et 3°, 12, 32, 33, 35, § 1er, 2° et 3° et § 2, 36 et 60.
+
+§ 3. La commission se réunit au moins une fois par trimestre avec le président ou les membres de chaque Comité permanent. En outre, elle peut se réunir soit à la demande de la majorité des membres de la commission, soit à la demande du président d'un Comité permanent, soit à la demande de la majorité des membres d'un Comité permanent.
+
+La commission peut être saisie de toute dénonciation faite par un membre d'un Comité permanent portant sur le dysfonctionnement de celui-ci ou sur le non-respect de la présente loi ou du règlement d'ordre intérieur.
+
+La commission peut adresser à chaque Comité permanent ou à chaque membre de celui-ci des recommandations relatives au fonctionnement du Comité permanent, au respect de la présente loi ou du règlement d'ordre intérieur.
+
+§ 4. Les membres de la commission prennent les mesures nécessaires afin de garantir le caractère confidentiel des faits, actes ou renseignements dont ils ont connaissance en raison de leurs fonctions et sont soumis à une obligation de confidentialité. Ils sont dépositaires des secrets qui leur sont confiés dans l'exercice de leur mandat et même lorsqu'ils ont cessé leurs fonctions. Toute violation de cette obligation de confidentialité et de ce secret sera sanctionnée conformément au règlement de la Chambre des représentants.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2010-02-04/26, art. 28, 015; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2014-01-06/63, art. 15, 018; En vigueur : 25-05-2014&gt;
+
+## CHAPITRE VI. - Dispositions transitoire et modificative.
+
+##### Art. 67
+
+Par dérogation aux articles 20, alinéa 2, et 44, alinéa 2, les premières nominations des membres des Services d'enquêtes sont faites à la suite de détachement d'un service de police, d'un [<sup>1</sup> service de renseignement]<sup>1</sup> ou d'une administration, pour autant que soient réunies les conditions d'expérience imposées par ces dispositions.
+
+----------
+
+(1)&lt;L 2018-07-30/46, art. 257, 024; En vigueur : 05-09-2018&gt;
+
+##### Art. 68
+
+&lt;Disposition modificative de l'art. 1, § 1, 3° de la L 1966-07-18/02&gt;
