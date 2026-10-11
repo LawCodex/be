@@ -1,0 +1,92 @@
+---
+title: "Wet houdende instemming met het Verdrag van Minamata inzake kwik, gedaan te Kumamoto (Japan) op 10 oktober 2013"
+identifier: "2018012141"
+eli: "https://www.ejustice.just.fgov.be/eli/wet/2017/06/30/2018012141/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: nl
+date: 2017-06-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/wet/2017/06/30/2018012141/justel"
+department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
+retrieved: 2026-10-11
+---
+
+# 30 JUNI 2017. - Wet houdende instemming met het Verdrag van Minamata inzake kwik, gedaan te Kumamoto (Japan) op 10 oktober 2013
+
+FILIP, Koning der Belgen,
+
+Aan allen die nu zijn en hierna wezen zullen, Onze Groet.
+
+De Kamer van volksvertegenwoordigers heeft aangenomen en Wij bekrachtigen, hetgeen volgt :
+
+## Art. 1
+
+Deze wet regelt een aangelegenheid als bedoeld in artikel 74 van de Grondwet.
+
+## Art. 2
+
+Het Verdrag van Minamata inzake kwik, gedaan te Kumamoto (Japan) op 10 oktober 2013, zal volkomen gevolg hebben.
+
+## Art. 3
+
+Onder voorbehoud van het derde lid, zullen de wijzigingen van de bijlagen bij het Verdrag en de aanvullende bijlagen toegevoegd aan het Verdrag, die met toepassing van artikel 27 van het Verdrag van Minamata inzake kwik, gedaan te Kumamoto (Japan) op 10 oktober 2013, aangenomen worden, volkomen gevolg hebben.
+
+De Koning meldt elk voorstel van bijlage of van wijziging van een bijlage als bedoeld in het eerste lid, dat aan de Partijen meegedeeld werd door de Depositaris, binnen een termijn van drie maanden aan de Kamer van Volksvertegenwoordigers.
+
+Binnen een termijn van zes maanden na de mededeling van de Koning, bedoeld in het tweede lid, kan de Kamer van Volksvertegenwoordigers zich ertegen verzetten dat een aanvullende bijlage of een wijziging van een bijlage bedoeld in het eerste lid, volkomen gevolg zal hebben.
+
+## BIJLAGE.
+
+## Art. N1
+
+Verdrag van Minamata inzake kwik, gedaan te Kumamoto (Japan) op 10 oktober 2013
+
+(Beeld niet opgenomen om technische redenen, zie B.St. van 07-09-2018, p. 69063)
+
+## Art. N2
+
+Gebonden Staten
+
+<table><tr><td>Land </td><td>ondertekening datum </td><td>Type instemming </td><td>datum Instemming </td><td>Datum inwerkingtreding</td></tr><tr><td>AFGHANISTAN </td><td> </td><td>Toetreding </td><td>02/05/2017 </td><td>16/08/2017</td></tr><tr><td>ALBANIE </td><td>09/10/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>ANGOLA </td><td>11/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>ANTIGUA ET BARBUDA </td><td> </td><td>Toetreding </td><td>23/09/2016 </td><td>16/08/2017</td></tr><tr><td>ARGENTINIE </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>25/09/2017 </td><td>24/12/2107</td></tr><tr><td>ARMENIE </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>13/12/2017 </td><td>13/03/2018</td></tr><tr><td>AUSTRALIE </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>BANGLADESH </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>BELARUS </td><td>23/09/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>België </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>26/02/2018 </td><td>27/05/2018</td></tr><tr><td>BENIN </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>07/11/2016 </td><td>16/08/2017</td></tr><tr><td>BOLIVIA </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>26/01/2016 </td><td>16/08/2017</td></tr><tr><td>BOTSWANA </td><td> </td><td>Toetreding </td><td>03/06/2016 </td><td>16/08/2017</td></tr><tr><td>BRAZILIE </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>08/08/2017 </td><td>06/11/2017</td></tr><tr><td>BULGARIJE </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>18/05/2017 </td><td>16/08/2017</td></tr><tr><td>BURKINA FASO </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>10/04/2017 </td><td>16/08/2017</td></tr><tr><td>BURUNDI </td><td>14/02/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>CAMBODJA </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>CANADA </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>07/04/2017 </td><td>16/08/2017</td></tr><tr><td>CENTRAAL-AFRIKAANSE REPUBLIEK </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>CHILI </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>27/08/2018 </td><td>25/11/2018</td></tr><tr><td>CHINA (VOLKSREPUBLIEK) </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>31/08/2016 </td><td>16/08/2017</td></tr><tr><td>COLOMBIA </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>COMOREN </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>CONGO (DEMOCRATISCHE REP.) </td><td>08/10/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>COSTA RICA </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>19/01/2017 </td><td>16/08/2017</td></tr><tr><td>CUBA </td><td> </td><td>Toetreding </td><td>30/01/2018 </td><td>30/04/2018</td></tr><tr><td>CYPRUS </td><td>24/09/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>DENEMARKEN </td><td>10/10/2013 </td><td>Goedkeuring </td><td>18/05/2017 </td><td>16/08/2017</td></tr><tr><td>DJIBOUTI </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>23/09/2014 </td><td>16/08/2017</td></tr><tr><td>DOMINICAANSE REPUBLIEK </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>20/03/2018 </td><td>18/06/2018</td></tr><tr><td>DUITSLAND </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>15/09/2017 </td><td>14/12/2017</td></tr><tr><td>ECUADOR </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>29/07/2016 </td><td>16/08/2017</td></tr><tr><td>EL SALVADOR </td><td> </td><td>Toetreding </td><td>20/06/2017 </td><td>18/09/2017</td></tr><tr><td>ESTLAND </td><td> </td><td>Toetreding </td><td>21/06/2017 </td><td>19/09/2017</td></tr><tr><td>ETHIOPIE </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>Europese Unie </td><td>10/10/2013 </td><td>Goedkeuring </td><td>18/05/2017 </td><td>16/08/2017</td></tr><tr><td>FILIPPIJNEN </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>FINLAND </td><td>10/10/2013 </td><td>Aanvaarding </td><td>01/06/2017 </td><td>30/08/2017</td></tr><tr><td>FRANKRIJK </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>15/06/2017 </td><td>13/09/2017</td></tr><tr><td>GABON </td><td>30/06/2014 </td><td>Aanvaarding </td><td>24/09/2014 </td><td>16/08/2017</td></tr><tr><td>GAMBIA </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>07/11/2016 </td><td>16/08/2017</td></tr><tr><td>GEORGIE </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>GHANA </td><td>24/09/2014 </td><td>Bekrachtiging </td><td>23/03/2017 </td><td>16/08/2017</td></tr><tr><td>GRIEKENLAND </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>GUATEMALA </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>GUINEA </td><td>25/11/2013 </td><td>Bekrachtiging </td><td>21/10/2014 </td><td>16/08/2017</td></tr><tr><td>GUINEE-BISSAU </td><td>24/09/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>GUYANA </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>24/09/2014 </td><td>16/08/2017</td></tr><tr><td>HONDURAS </td><td>24/09/2014 </td><td>Bekrachtiging </td><td>22/03/2017 </td><td>16/08/2017</td></tr><tr><td>HONGARIJE </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>18/05/2017 </td><td>16/08/2017</td></tr><tr><td>IERLAND </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>IJSLAND </td><td> </td><td>Toetreding </td><td>03/05/2018 </td><td>01/08/2018</td></tr><tr><td>INDIA </td><td>30/09/2014 </td><td>Bekrachtiging </td><td>18/06/2018 </td><td>16/09/2018</td></tr><tr><td>INDONESIE </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>22/09/2017 </td><td>21/12/2017</td></tr><tr><td>IRAK </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>IRAN </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>16/06/2017 </td><td>14/09/2017</td></tr><tr><td>ISRAEL </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>ITALIE </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>IVOORKUST </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>JAMAICA </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>19/07/2017 </td><td>17/10/2017</td></tr><tr><td>JAPAN </td><td>10/10/2013 </td><td>Aanvaarding </td><td>02/02/2016 </td><td>16/08/2017</td></tr><tr><td>JEMEN (REP.) </td><td>21/03/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>JORDANIE </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>12/11/2015 </td><td>16/08/2017</td></tr><tr><td>KAMEROEN </td><td>24/09/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>KENIA </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>KIRIBATI </td><td> </td><td>Toetreding </td><td>28/07/2017 </td><td>26/10/2017</td></tr><tr><td>KOEWEIT </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>03/12/2015 </td><td>16/08/2017</td></tr><tr><td>KOREA (ZUID) </td><td>24/09/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>KROATIE </td><td>24/09/2014 </td><td>Bekrachtiging </td><td>25/09/2017 </td><td>24/12/2017</td></tr><tr><td>LAOS </td><td> </td><td>Toetreding </td><td>21/09/2017 </td><td>20/12/2017</td></tr><tr><td>LESOTHO </td><td> </td><td>Toetreding </td><td>12/11/2014 </td><td>16/08/2017</td></tr><tr><td>LETLAND </td><td>24/09/2014 </td><td>Bekrachtiging </td><td>20/06/2017 </td><td>18/09/2017</td></tr><tr><td>LIBANON </td><td> </td><td>Toetreding </td><td>13/10/2017 </td><td>11/01/2018</td></tr><tr><td>LIBERIA </td><td>24/09/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>LIBIE </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>LIECHTENSTEIN </td><td> </td><td>Toetreding </td><td>01/02/2017 </td><td>16/08/2017</td></tr><tr><td>LITOUWEN </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>15/01/2018 </td><td>15/04/2018</td></tr><tr><td>LUXEMBURG </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>21/09/2017 </td><td>20/12/2017</td></tr><tr><td>MACEDONIE (VOORMALIGE JOEGOSLAVISCHE REP.) </td><td>25/07/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>MADAGASCAR </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>13/05/2015 </td><td>16/08/2017</td></tr><tr><td>MALAWI </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>MALEISIE </td><td>24/09/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>MALI </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>27/05/2016 </td><td>16/08/2017</td></tr><tr><td>MALTA </td><td>08/10/2014 </td><td>Bekrachtiging </td><td>18/05/2017 </td><td>16/08/2017</td></tr><tr><td>MAROKKO </td><td>06/06/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>MAURITANIE </td><td>11/10/2013 </td><td>Bekrachtiging </td><td>18/08/2015 </td><td>16/08/2017</td></tr><tr><td>MAURITIUS </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>21/09/2017 </td><td>20/12/2017</td></tr><tr><td>MEXICO </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>29/09/2015 </td><td>16/08/2017</td></tr><tr><td>MOLDAVIE </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>20/06/2017 </td><td>18/09/2017</td></tr><tr><td>MONACO </td><td>24/09/2014 </td><td>Bekrachtiging </td><td>24/09/2014 </td><td>16/08/2017</td></tr><tr><td>MONGOLIE </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>28/09/2015 </td><td>16/08/2017</td></tr><tr><td>MONTENEGRO </td><td>24/09/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>MOZAMBIQUE </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>NAMIBIE </td><td> </td><td>Toetreding </td><td>06/09/2017 </td><td>15/12/2017</td></tr><tr><td>NEDERLAND </td><td>10/10/2013 </td><td>Aanvaarding </td><td>18/05/2017 </td><td>16/08/2017</td></tr><tr><td>NEPAL </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>NICARAGUA </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>29/10/2014 </td><td>16/08/2017</td></tr><tr><td>NIEUW-ZEELAND </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>NIGER </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>09/06/2017 </td><td>07/09/2017</td></tr><tr><td>NIGERIA </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>01/02/2018 </td><td>02/05/2018</td></tr><tr><td>NOORWEGEN </td><td>10/10/2013 </td><td>Kennisgeving </td><td>12/05/2017 </td><td>16/08/2017</td></tr><tr><td>OEGANDA </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>OOSTENRIJK </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>12/06/2017 </td><td>10/09/2017</td></tr><tr><td>PAKISTAN </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>PALAU </td><td>09/10/2014 </td><td>Bekrachtiging </td><td>21/06/2017 </td><td>19/09/2017</td></tr><tr><td>PANAMA </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>29/09/2015 </td><td>16/08/2017</td></tr><tr><td>PARAGUAY </td><td>10/02/2014 </td><td>Bekrachtiging </td><td>26/06/2018 </td><td>24/09/2018</td></tr><tr><td>PERU </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>21/01/2016 </td><td>16/08/2017</td></tr><tr><td>POLEN </td><td>24/09/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>PORTUGAL </td><td> </td><td>Toetreding </td><td>28/08/2018 </td><td>26/11/2018</td></tr><tr><td>ROEMENIE </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>18/05/2017 </td><td>16/08/2017</td></tr><tr><td>RUSLAND </td><td>24/09/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>RWANDA </td><td> </td><td>Toetreding </td><td>29/06/2017 </td><td>27/09/2017</td></tr><tr><td>SAINT KITTS ET NEVIS </td><td> </td><td>Toetreding </td><td>24/05/2017 </td><td>22/08/2017</td></tr><tr><td>SAMOA AMERICAINE </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>24/09/2015 </td><td>16/08/2017</td></tr><tr><td>SENEGAL </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>03/03/2016 </td><td>16/08/2017</td></tr><tr><td>SERVIE </td><td>09/10/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>SEYCHELLEN </td><td>27/05/2014 </td><td>Bekrachtiging </td><td>13/01/2015 </td><td>16/08/2017</td></tr><tr><td>SIERRA LEONE </td><td>12/08/2014 </td><td>Bekrachtiging </td><td>01/11/2016 </td><td>16/08/2017</td></tr><tr><td>SINGAPORE </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>22/09/2017 </td><td>21/12/2017</td></tr><tr><td>SLOVAKIJE </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>31/05/2017 </td><td>29/08/2017</td></tr><tr><td>SLOVENIE </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>23/06/2017 </td><td>21/09/2017</td></tr><tr><td>SOEDAN </td><td>24/09/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>SPANJE </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>SRI LANKA </td><td>08/10/2014 </td><td>Bekrachtiging </td><td>19/06/2017 </td><td>17/09/2017</td></tr><tr><td>SURINAME </td><td> </td><td>Toetreding </td><td>02/08/2018 </td><td>31/10/2018</td></tr><tr><td>SWAZILAND </td><td> </td><td>Toetreding </td><td>21/09/2016 </td><td>16/08/2017</td></tr><tr><td>SYRIE </td><td>24/09/2014 </td><td>Bekrachtiging </td><td>26/07/2017 </td><td>24/10/2017</td></tr><tr><td>TANZANIA </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>THAILAND </td><td> </td><td>Toetreding </td><td>22/06/2017 </td><td>20/09/2017</td></tr><tr><td>TOGO </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>03/02/2017 </td><td>16/08/2017</td></tr><tr><td>TSJAAD </td><td>25/09/2014 </td><td>Bekrachtiging </td><td>24/09/2015 </td><td>16/08/2017</td></tr><tr><td>TSJECHISCHE REP. </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>19/06/2017 </td><td>17/09/2017</td></tr><tr><td>TUNESIE </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>TURKIJE </td><td>24/09/2014 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>URUGUAY </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>24/09/2014 </td><td>16/08/2017</td></tr><tr><td>VENEZUELA </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>VERENIGD KONINKRIJK </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>23/03/2018 </td><td>21/06/2018</td></tr><tr><td>VERENIGDE ARABISCHE EMIRATEN </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>27/04/2015 </td><td>16/08/2017</td></tr><tr><td>VERENIGDE STATEN </td><td>06/11/2013 </td><td>Aanvaarding </td><td>06/11/2013 </td><td>16/08/2017</td></tr><tr><td>VIETNAM </td><td>11/10/2013 </td><td>Goedkeuring </td><td>23/06/2017 </td><td>21/09/2017</td></tr><tr><td>ZAMBIA </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>11/03/2016 </td><td>16/08/2017</td></tr><tr><td>ZIMBABWE </td><td>11/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>ZUID-AFRIKA </td><td>10/10/2013 </td><td>Onbepaald </td><td> </td><td> </td></tr><tr><td>ZWEDEN </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>18/05/2017 </td><td>16/08/2017</td></tr><tr><td>ZWITSERLAND </td><td>10/10/2013 </td><td>Bekrachtiging </td><td>25/05/2016 </td><td>16/08/2017</td></tr></table>
+
+---
+
+Kondigen deze wet af, bevelen dat zij met `s Lands zegel zal worden bekleed en door het Belgisch Staatsblad zal worden bekendgemaakt.
+
+Gegeven te Brussel, 30 juni 2017.
+
+FILIP
+
+Van Koningswege :
+
+De Minister van Buitenlandse Zaken,
+
+D. REYNDERS
+
+De Minister van Werk en Economie,
+
+K.PEETERS
+
+De Minister van Volksgezondheid,
+
+M. DE BLOCK
+
+De Minister van Zelfstandigen, K.M.O.'s en Landbouw,
+
+W. BORSUS
+
+De Minister van Leefmilieu,
+
+M.C. MARGHEM
+
+De Staatssecretaris voor de Noordzee,
+
+Ph. DE BACKER
+
+Met 's Lands zegel gezegeld :
+
+De Minister van Justitie,
+
+K. GEENS

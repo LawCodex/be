@@ -1,0 +1,504 @@
+---
+title: "Loi instituant des amendes administratives applicables en cas d'infractions aux lois sur la navigation"
+identifier: "2017030001"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/25/2017030001/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2016-12-25
+published: 2017-01-19
+entry_into_force: 2017-01-01
+last_amended: 2024-07-04
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/25/2017030001/justel"
+department: "Mobilité et Transports"
+justel_note: "Consultation des versions antérieures à partir du 19-01-2017 et mise à jour au 04-07-2024"
+retrieved: 2026-10-11
+---
+
+# 25 DECEMBRE 2016. - Loi instituant des amendes administratives applicables en cas d'infractions aux lois sur la navigation
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## CHAPITRE 1er. - Définitions
+
+### Art. 2
+
+Pour l'application de la présente loi, il y a lieu d'entendre par :
+
+1° [<sup>2</sup> les lois sur la navigation :
+
+[<sup>5</sup> - Loi du 13 juin 1969 sur l'exploration et l'exploitation des ressources non vivantes de la mer territoriale et du plateau continental ;]<sup>5</sup>
+
+\- la loi du 20 août 1981 portant approbation de la Convention internationale sur la sécurité des conteneurs, et des Annexes, faites à Genève le 2 décembre 1972;
+
+\- la [<sup>6</sup> loi du 11 décembre 2022 visant la protection du milieu marin et l'organisation de l'aménagement des espaces marins belges]<sup>6</sup>;
+
+\- la loi du 22 avril 1999 concernant la zone économique exclusive de la Belgique en mer du Nord;
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+\- la loi du 13 juin 2014 d'exécution et de contrôle de l'application de la Convention du travail maritime 2006;]<sup>2</sup>
+
+[<sup>5</sup> - la loi du 12 juin 2020 relative au travail dans la pêche;]<sup>5</sup>
+
+[<sup>7</sup> - la loi du 25 mai 2024 relative à la protection des êtres humaines et de l'environnement lors de la prospection, de l'exploration et de l'exploitation des ressources marines, des fonds marins et du sous-sol au-delà des limites de la juridiction nationale;]<sup>7</sup>
+
+2° l'autorité compétente: l'autorité désignée conformément à l'article 3, § 2, alinéa 1er;
+
+[<sup>3</sup> 3° commandant: commandant selon la définition figurant dans l'article 2.1.1.3, 1°, du Code belge de la Navigation;
+
+4° membre d'équipage: membre d'équipage selon la définition figurant dans l'article 2.1.1.3, 4°, du Code belge de la Navigation;
+
+5° agent maritime: agent maritime selon la définition figurant dans l'article 2.1.1.2, 8°, du Code belge de la Navigation.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2020-06-12/03, art. 97, 003; En vigueur : 26-06-2020&gt;
+
+(2)&lt;L 2019-05-08/14, art. 101, 004; En vigueur : 01-09-2020&gt;
+
+(3)&lt;L 2021-01-19/03, art. 11, 005; En vigueur : 01-04-2021&gt;
+
+(4)&lt;L 2021-04-23/10, art. 24, 006; En vigueur : 04-06-2021&gt;
+
+(5)&lt;L 2021-06-16/17, art. 137, 007; En vigueur : 16-09-2021&gt;
+
+(6)&lt;L 2022-12-11/01, art. 66, 008; En vigueur : 26-12-2022&gt;
+
+(7)&lt;L 2024-05-25/30, art. 32, 010; En vigueur : 30-06-2024&gt;
+
+## CHAPITRE 2. - L'amende administrative pour faits passibles de poursuites pénales
+
+### Art. 3
+
+§ 1er. Dans les conditions fixées par la présente loi, et pour autant que les faits soient passibles de poursuites pénales, une amende administrative peut être infligée pour les infractions aux lois sur la navigation et à leurs arrêtés d'exécution qui relèvent des compétences fédérales.
+
+L'amende administrative est appliquée nonobstant d'autres sanctions disciplinaires.
+
+§ 2. Le Roi est compétent pour la désignation, le fonctionnement et la composition de l'autorité compétente pour infliger des amendes administratives conformément au paragraphe 1er, alinéa 1er.
+
+Le Roi peut désigner les membres de l'autorité compétente comme officiers de police judiciaire.
+
+Les membres de l'autorité compétente ne peuvent traiter les infractions qu'ils ont eux-mêmes constatées.
+
+### Art. 4
+
+La police de la navigation, le Carrefour d'information maritime, toute autorité, tout fonctionnaire ou officier public qui, dans l'exercice de ses fonctions, prend connaissance d'une infraction aux lois sur la navigation ou à leurs arrêtés d'exécution en informe l'autorité compétente dans un délai de 14 jours.
+
+Un exemplaire du procès-verbal constatant l'infraction aux lois sur la navigation ou à leurs arrêtés d'exécution est transmis à l'autorité compétente.
+
+### Art. 5
+
+§ 1er. Le ministère public dispose d'un délai d'un mois à compter du jour de la réception du procès-verbal pour informer l'autorité compétente par écrit ou par voie électronique:
+
+1° qu'une information ou une instruction judiciaire a été ouverte, ou;
+
+2° que des poursuites ont été entamées, ou;
+
+3° qu'il a été fait application des articles 216bis ou 216ter du Code d'instruction criminelle, ou;
+
+4° que le dossier a été classé sans suite pour des motifs liés aux éléments constitutifs de l'infraction, ou;
+
+5° que le dossier a été classé sans suite pour des motifs qui ne sont pas liés aux éléments constitutifs de l'infraction.
+
+Lorsque le ministère public transmet l'information visée à l'alinéa 1er, [<sup>1</sup> ...]<sup>1</sup> 2°, 3° ou 4° à l'autorité compétente, l'action administrative visée dans la présente loi s'éteint.
+
+[<sup>1</sup> Quand le ministère public transmet les informations visées à l'alinéa 1er, 1°, à l'autorité compétente, le délai visé au § 2, alinéa 3, est suspendu jusqu'à l'instant où le ministère public transmet les informations visées à l'alinéa 1er, 2°, 3°, 4° ou 5°.]<sup>1</sup>
+
+§ 2. Après que le ministère public a transmis l'information visée au paragraphe 1er, alinéa 1er, 5°, ou, en l'absence de cette information, après le délai visé au paragraphe 1er, alinéa 1er, l'autorité compétente décide de procéder aux poursuites administratives ou au classement sans suite.
+
+Si l'autorité compétente ne procède pas aux poursuites administratives, elle indique le motif des décisions de classement sans suite.
+
+Si l'autorité compétente procède aux poursuites administratives, elle convoque l'intéressé par envoi recommandé au plus tard un an à compter du jour où le fait a été commis. L'envoi recommandé contient au moins les informations suivantes:
+
+1° les faits pour lesquels la procédure d'amende administrative a été entamée;
+
+2° les jours et heures auxquels l'intéressé a le droit de consulter son dossier;
+
+3° le fait qu'il a le droit de se faire assister d'un conseil;
+
+4° le fait qu'il dispose d'un délai de trente jours à compter du premier jour ouvrable suivant la convocation pour envoyer à l'autorité compétente un envoi recommandé contenant ses moyens de défense et, le cas échéant, la demande d'être entendu.
+
+§ 3. Lorsque l'autorité compétente est saisie d'une demande conformément au paragraphe 2, 4°, elle dispose de 45 jours, à dater de la réception de cette demande, pour notifier à l'intéressé, par envoi recommandé, la date de l'audition.
+
+Ces délais sont prescrits à peine de nullité de l'ensemble de la procédure d'amende administrative.
+
+L'intéressé peut, par envoi recommandé adressé à l'autorité compétente, solliciter une seule fois le report de son audition en indiquant le motif du report. L'autorité compétente fixe dans ce cas, par envoi recommandé, une nouvelle date.
+
+----------
+
+(1)&lt;L 2021-01-19/03, art. 12, 005; En vigueur : 01-04-2021&gt;
+
+### Art. 6
+
+§ 1er. Après le délai de trente jours visé à l'article 5, § 2, 4°, et, le cas échéant, après l'audition de l'intéressé, l'autorité compétente prend une décision concernant les faits pour lesquels la procédure d'amende administrative a été entamée. L'autorité compétente notifie cette décision à l'intéressé par envoi recommandé.
+
+La décision d'infliger une amende administrative est motivée et indique, à peine de nullité, le montant de l'amende administrative ainsi que la possibilité de recours.
+
+§ 2. Dans la même décision que celle où elle inflige une amende administrative, l'autorité compétente peut accorder, en tout ou en partie, le sursis à l'exécution du paiement de cette amende. Le Roi détermine les modalités du sursis à l'exécution.
+
+§ 3. La décision a force exécutoire à l'échéance d'un délai de [<sup>1</sup> trente jours]<sup>1</sup> à compter du jour de sa notification.
+
+La notification de la décision fixant le montant de l'amende administrative éteint l'action publique.
+
+Le paiement de l'amende administrative met fin à l'action de l'autorité compétente.
+
+----------
+
+(1)&lt;L 2021-01-19/03, art. 13, 005; En vigueur : 01-04-2021&gt;
+
+### Art. 7
+
+Les montants minimal et maximal de l'amende administrative correspondent respectivement aux montants minimal et maximal, majorés des [<sup>1</sup> décimes]<sup>1</sup> additionnels, de l'amende pénale prévue par les lois sur la navigation qui sanctionne le même fait. Pour la fixation du montant de l'amende administrative, l'autorité compétente tient compte de la gravité des faits et de l'éventuelle récidive.
+
+En cas de récidive dans l'année qui suit une décision d'infliger une amende administrative, les montants peuvent être doublés.
+
+En cas de concours d'infractions, les montants des amendes administratives sont cumulés sans qu'ils puissent excéder le double du montant maximal de l'amende la plus élevée.
+
+Si des circonstances atténuantes ont été retenues dans la décision d'infliger une amende administrative, le montant de l'amende administrative peut être diminué en dessous de son minimum, sans qu'elle puisse être inférieure à vingt-six euros.
+
+----------
+
+(1)&lt;L 2017-12-17/23, art. 2, 002; En vigueur : 19-01-2018&gt;
+
+## CHAPITRE 3. - L'amende administrative pour infractions dépénalisées
+
+### Art. 8
+
+[<sup>1</sup> Une amende administrative ne peut être infligée que par l'autorité compétente pour les infractions énumérées dans l'annexe ou pour les infractions dépénalisées par la loi.
+
+Les montants pour chaque infraction sont énumérés dans l'annexe ou sont déterminés dans les lois spéciales. Les montants sont majorés des décimes additionnels.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-01-19/03, art. 14, 005; En vigueur : 01-04-2021&gt;
+
+### Art. 9
+
+La police de la navigation, le Carrefour d'information maritime, toute autorité, tout fonctionnaire ou officier public qui, dans l'exercice de ses fonctions, prend connaissance d'infractions visées à l'article 8 en informe l'autorité compétente dans un délai de 14 jours.
+
+[<sup>1</sup> Les procès-verbaux constatant des infractions ne pouvant être sanctionnées que par une amende administrative ne sont transmis qu'à l'autorité compétente.]<sup>1</sup> [<sup>2</sup> Un exemplaire du procès-verbal où l'infraction a été constatée est envoyé à l'autorité compétente.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2021-01-19/03, art. 15, 005; En vigueur : 01-04-2021&gt;
+
+(2)&lt;L 2021-06-16/17, art. 138, 007; En vigueur : 16-09-2021&gt;
+
+### Art. 10
+
+§ 1. Si l'autorité compétente ne procède pas aux poursuites administratives, elle indique le motif des décisions de classement sans suite.
+
+Si l'autorité compétente procède aux poursuites administratives, elle convoque l'intéressé par envoi recommandé au plus tard un an à compter du jour où le fait a été commis. L'envoi recommandé contient au moins les informations suivantes
+
+1° les faits pour lesquels la procédure d'amende administrative a été entamée;
+
+2° les jours et heures auxquels l'intéressé a le droit de consulter son dossier;
+
+3° le fait qu'il a le droit de se faire assister d'un conseil;
+
+4° le fait qu'il dispose d'un délai de trente jours à compter du premier jour ouvrable suivant la convocation pour envoyer à l'autorité compétente un envoi recommandé contenant ses moyens de défense et, le cas échéant, la demande d'être entendu.
+
+§ 2. Lorsque l'autorité compétente est saisie d'une demande conformément au paragraphe 1er, 4°, elle dispose de 45 jours, à dater de la réception de cette demande, pour notifier à l'intéressé, par envoi recommandé, la date de l'audition.
+
+Ces délais sont prescrits à peine de nullité de l'ensemble de la procédure d'amende administrative.
+
+L'intéressé peut, par envoi recommandé adressé à l'autorité compétente, solliciter une seule fois le report de son audition en indiquant le motif du report. L'autorité compétente fixe dans ce cas, par envoi recommandé, une nouvelle date.
+
+### Art. 11
+
+Après le délai de trente jours visé à l'article 10, § 1, 4°, et, le cas échéant, après l'audition de l'intéressé, l'autorité compétente prend une décision relative aux faits pour lesquels la procédure d'amende administrative a été entamée. L'autorité compétente notifie cette décision à l'intéressé par envoi recommandé.
+
+La décision d'infliger une amende administrative est motivée et indique, à peine de nullité, son montant ainsi que la possibilité de recours.
+
+Dans la même décision que celle où elle inflige une amende administrative, l'autorité compétente peut accorder, en tout ou en partie, le sursis à l'exécution du paiement de cette amende. Le Roi détermine les modalités du sursis à l'exécution.
+
+La décision a force exécutoire à l'échéance d'un délai de [<sup>1</sup> trente jours]<sup>1</sup> à compter du jour de sa notification.
+
+Le paiement de l'amende administrative met fin à l'action.
+
+----------
+
+(1)&lt;L 2021-01-19/03, art. 13, 005; En vigueur : 01-04-2021&gt;
+
+### Art. 12
+
+Lorsqu'elle inflige l'amende administrative, l'autorité compétente tient compte de l'éventuelle récidive.
+
+En cas de récidive dans l'année qui suit une décision d'infliger une amende administrative, les montants peuvent être doublés.
+
+En cas de concours d'infractions, les montants des amendes administratives sont additionnés sans qu'ils puissent excéder le double du montant maximal de l'amende la plus élevée.
+
+Si des circonstances atténuantes ont été retenues dans la décision d'infliger une amende administrative, le montant de l'amende administrative peut être diminué en dessous de son minimum, sans qu'elle puisse être inférieure à vingt-six euros.
+
+## CHAPITRE 4. - Dispositions générales
+
+### Art. 13
+
+Le Roi désigne les agents et personnes ressortissant à une autorité publique chargés de rechercher et de constater les infractions aux lois sur la navigation, leurs arrêtés d'exécution et les infractions reprises dans l'annexe.
+
+### Art. 14
+
+Aucune amende administrative ne peut être infligée par l'autorité compétente:
+
+\- lorsque l'action publique relative à la même infraction est éteinte, ou;
+
+\- à l'encontre d'une personne qui était mineure au moment des faits, ou;
+
+\- plus de deux ans après le jour où les poursuites administratives ont été entamées.
+
+### Art. 14/1.
+
+[<sup>1</sup> Si l'infraction a été commise par un commandant, un membre d'équipage ou un autre employé, l'autorité compétente peut infliger l'amende administrative, le cas échéant, uniquement à l'employeur.
+
+S'il s'agit d'un suspect étranger, la procédure se déroule par l'intermédiaire de son représentant légal en Belgique. Toutefois, le représentant légal n'est pas tenu de payer l'amende administrative.
+
+Si aucun représentant légal n'est désigné en Belgique, l'agent maritime est présumé être le représentant légal du suspect.
+
+Lorsque la procédure se déroule par l'intermédiaire d'un représentant légal, le choix du domicile est réputé avoir été fait au représentant légal conformément à l'article 39 du Code judiciaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-01-19/03, art. 16, 005; En vigueur : 01-04-2021&gt;
+
+### Art. 14/2.
+
+[<sup>1</sup> Les frais des poursuites administratives sont à charge du destinataire de l'amende administrative.
+
+L'autorité compétente peut décider d'imputer tout ou une partie des frais à l'Etat.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-01-19/03, art. 16, 005; En vigueur : 01-04-2021&gt;
+
+### Art. 14/3.
+
+[<sup>1</sup> L'autorité compétente peut requérir des ministres, des institutions ou des services publics compétents, les renseignements administratifs qu'elle estime nécessaires pour pouvoir disposer de tous les éléments lui permettant de décider, en pleine connaissance de cause, des suites à donner au dossier qu'elle traite.
+
+A cette fin, tous les services publics, y compris les parquets, les greffes des cours et tribunaux, la police, tous les services des provinces, des agglomérations, des fédérations de communes, des communes, des associations dont elles font partie, des institutions publiques qui en dépendent, sont tenus, à la demande de l'autorité compétente, de lui fournir tout renseignement et copies, sous n'importe quelle forme, de tous les supports d'information.
+
+Les services précités sont tenus de fournir ces renseignements et copies sans frais.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-01-19/03, art. 16, 005; En vigueur : 01-04-2021&gt;
+
+### Art. 14/4.
+
+[<sup>1</sup> § 1er. L'autorité compétente peut, pour les infractions au Code belge de la Navigation et ses arrêtés d'exécution et aux lois sur la navigation et leurs arrêtés d'exécution punissables d'une amende administrative, proposer une transaction administrative, soit immédiatement, soit dans un délai déterminé par l'autorité compétente selon les modalités déterminées par l'autorité compétente.
+
+Le montant de cette somme ne peut dépasser le maximum de l'amende prévue pour cette infraction, majoré des décimes additionnels. En plus de cette somme, un supplément administratif de 10,02 euros peut être perçu pour les dossiers non transmis par envoi recommandé. Le supplément administratif pour les dossiers transmis par envoi recommandé s'élève à 28,71 euros.
+
+Ces suppléments administratifs sont perçus au profit du Service public fédéral Justice dans le cadre de la mise en oeuvre du programme Crossborder. Les paiements effectués par le contrevenant sont d'abord imputés à ce supplément administratif.
+
+Le montant de ce supplément administratif est automatiquement adapté le 1er janvier de chaque année en fonction de l'évolution de l'indice des prix à la consommation du mois de novembre de l'année précédente.
+
+§ 2. Les agents et personnes ressortissant à une autorité publique désignés par le Roi sont chargés de l'application du présent article et des mesures pour sa mise en oeuvre.
+
+§ 3. Lorsque la transaction administrative n'est pas payée dans le délai déterminé, l'autorité compétente peut engager les poursuites administratives.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-16/55, art. 9, 011; En vigueur : 01-06-2024&gt;
+
+### Art. 15
+
+Le Roi fixe les modalités de perception et de recouvrement des amendes administratives.
+
+### Art. 16
+
+L'intéressé peut introduire, à peine de forclusion, par voie de requête devant le tribunal de première instance, un recours suspensif contre la décision visée à l'article 6 ou 11, dans un délai de [<sup>1</sup> trente jours]<sup>1</sup> à compter de la notification de cette décision.
+
+Le tribunal de première instance statue en dernier ressort.
+
+Sans préjudice des dispositions des alinéas 1 et 2, les dispositions du Code judiciaire s'appliquent au recours auprès du tribunal de première instance.
+
+Le tribunal de Bruxelles est compétent à l'égard des personnes qui ne résident pas en Belgique pour connaître des infractions à la législation sur la navigation intérieure et de plaisance.
+
+Le tribunal d'Anvers est compétent à l'égard des personnes qui ne résident pas en Belgique pour connaître des infractions à la législation sur la navigation maritime.
+
+En cas de recours contre la décision de l'autorité compétente, le tribunal de première instance dispose des mêmes compétences que l'autorité compétente
+
+----------
+
+(1)&lt;L 2021-01-19/03, art. 13, 005; En vigueur : 01-04-2021&gt;
+
+### Art. 17
+
+[<sup>1</sup> Lorsqu'il existe des présomptions sérieuses d'infractions visées notamment aux articles 3 et 8, les agents chargés du contrôle de la navigation désignés à cet effet peuvent interdire au capitaine de quitter les ports belges avec son navire, à moins que ne soit consignée une somme d'argent à la Caisse des dépôts et consignations à titre de garantie, conformément aux dispositions de la loi du 11 juillet 2018 sur la Caisse des Dépôts et Consignations, tous les frais éventuels restant à charge de l'auteur présumé.
+
+Le montant de cette somme d'argent est déterminé par le Ministre et peut être égal au maximum pour les infractions, augmenté des décimes additionnels.
+
+Le récépissé délivré par la Caisse des Dépôts et Consignations forme titre envers la Caisse des Dépôts et Consignations et est communiqué sans délai par l'auteur présumé à l'inspecteur ayant constaté l'infraction à titre de preuve du paiement du cautionnement.
+
+Le versement du cautionnement peut, sans occasionner de frais pour l'autorité, être remplacé par une garantie bancaire, accordée par une banque établie en Belgique ou d'une garantie signée par un " Protection and Indemnity Club " et déclarée recevable par le Contrôle de la navigation.
+
+L'amende imposée par une décision exécutoire sur la base de la présente loi, une décision judiciaire coulée en force de chose jugée ou une transaction, selon le cas, est récupérée sur le cautionnement.
+
+Le solde du montant est immédiatement restitué.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-06-16/17, art. 139, 007; En vigueur : 16-09-2021&gt;
+
+### Art. 18
+
+En ce qui concerne les infractions visées à l'article 3, un protocole d'accord peut être conclu entre [<sup>1</sup> le ministère public compétent]<sup>1</sup> et l'autorité compétente.
+
+Ce protocole d'accord respecte l'ensemble des dispositions légales concernant notamment les procédures prévues pour les contrevenants et ne peut violer les droits de ces derniers.
+
+Ce protocole d'accord est communiqué au moyen d'un avis publié en français et en néerlandais au Moniteur belge.
+
+----------
+
+(1)&lt;L 2021-01-19/03, art. 17, 005; En vigueur : 01-04-2021&gt;
+
+### Art. 19
+
+[<sup>1</sup> L'article 39 et les articles 53 à 55 du Code judiciaire s'appliquent à cette loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-01-19/03, art. 18, 005; En vigueur : 01-04-2021&gt;
+
+## CHAPITRE 5. - Dispositions modificatives
+
+### Art. 20
+
+Dans l'article 19 de la loi du 5 juin 1972 sur la sécurité des bâtiments de navigation, modifié par la loi du 22 janvier 2007, les mots "amende de 50 à 5000 euros" sont remplacés par les mots "amende de 200 à 1 000 000 euros".
+
+### Art. 21
+
+Dans l'article 21 de la même loi, modifié par la loi du 22 janvier 2007, les mots "amende de 26 à 300 (euros)" sont remplacés par les mots "amende de 200 à 1 000 000 euros".
+
+### Art. 22
+
+L'article 15 de la loi du 3 mai 1999 organisant la répartition des compétences suite à l'intégration de la police maritime, de la police aéronautique et de la police des chemins de fer dans la police fédérale est complété par un alinéa rédigé comme suit:
+
+"Pour l'application du délai visé à l'alinéa 6, le fait de donner un avertissement ou d'accorder un délai pour se mettre en règle ne constitue pas la constatation de l'infraction.".
+
+### Art. 23
+
+Dans l'article 8 de la loi du 22 juin 2016 portant exécution du Règlement (UE) n° 1177/2010 du Parlement européen et du Conseil du 24 novembre 2010 concernant les droits des passagers voyageant par mer ou par voie de navigation intérieure et modifiant le Règlement (CE) n° 2006/2004, les modifications suivantes sont apportées:
+
+1° dans le paragraphe 1er, alinéa 1er, les mots "visés à l'article 9" sont abrogés;
+
+2° dans le paragraphe 1er, alinéa 2, les mots "l'autorité publique compétente" sont remplacés par les mots "l'autorité compétente désignée dans la loi du 25 décembre 2016 instituant des amendes administratives applicables en cas d'infractions aux lois sur la navigation".
+
+## CHAPITRE 6. - Dispositions abrogatoires
+
+### Art. 24
+
+Dans l'article 19 de la loi du 5 juin 1972 sur la sécurité des bâtiments de navigation, modifié par la loi du 22 janvier 2007, les mots "d'un emprisonnement d'un mois à deux ans et" sont abrogés.
+
+### Art. 25
+
+Dans l'article 21 de la même loi, modifié par la loi du 22 janvier 2007, les modifications suivantes sont apportées:
+
+1° les mots "d'un emprisonnement de huit jours à trois mois et" sont abrogés;
+
+2° les mots "ou d'une de ces peines seulement" sont abrogés.
+
+### Art. 26
+
+Dans l'article 25 de la même loi, modifié par la loi du 22 janvier 2007, les modifications suivantes sont apportées:
+
+1° dans l'alinéa premier, les mots "d'un emprisonnement de un à sept jours et" sont abrogés;
+
+2° dans l'alinéa 2, les mots "d'un emprisonnement de huit jours à six mois et" sont abrogés.
+
+### Art. 27
+
+Dans l'article 3 de la loi du 24 novembre 1975 portant approbation et exécution de la Convention sur le règlement international de 1972 pour prévenir les abordages en mer, Règlement y annexé et ses Annexes, faits à Londres le 20 octobre 1972, les modifications suivantes sont apportées:
+
+1° les mots "d'un emprisonnement de huit jours à trois mois et" sont abrogés;
+
+2° les mots "ou d'une de ces peines seulement" sont abrogés.
+
+### Art. 28
+
+Dans l'article 5 de la loi du 8 juillet 1976 relative à la licence d'exploitation des bâtiments de navigation intérieure et au financement de l'Institut pour le transport par batellerie, modifié par les lois du 29 décembre 2010 et 8 mai 2014, les mots "d'un emprisonnement d'un mois à deux ans et" et let mots "ou d'une de ces peines seulement" sont abrogés.
+
+### Art. 29
+
+Les articles 6 et 7 de la même loi, modifiés par la loi du 29 décembre 2010, sont abrogés.
+
+### Art. 30
+
+Dans l'article 4 de la loi du 20 août 1981 portant approbation de la Convention internationale sur la sécurité des conteneurs, et des Annexes, faites à Genève le 2 décembre 1972, les mots "d'un emprisonnement d'un mois à deux ans et" et les mots "ou d'une de ces peines seulement" sont abrogés.
+
+### Art. 31
+
+Dans l'article 13 de la loi du 12 juillet 1983 sur le jaugeage des navires, modifié par la loi du 8 mars 2010, les modifications suivantes sont apportées:
+
+1° dans le paragraphe 1er, les mots "d'un emprisonnement d'un mois à un an et" et les mots "ou d'une de ces peines seulement" sont abrogés;
+
+2° dans le paragraphe 2, les mots "d'un emprisonnement de huit jours à trois mois et" et les mots "ou d'une de ces peines seulement" sont abrogés.
+
+3° dans le paragraphe 3, les mots "d'un emprisonnement d'un à sept jours et" sont abrogés.
+
+### Art. 32
+
+Dans l'article 14, § 3, de la loi du 21 décembre 1990 relative à l'enregistrement des navires les mots "d'un emprisonnement de huit jours à trois mois et" et les mots "ou d'une de ces peines seulement" sont abrogés.
+
+### Art. 33
+
+Les articles 9 à 16 de la loi du 22 juin 2016 portant exécution du Règlement (UE) n° 1177/2010 du Parlement européen et du Conseil du 24 novembre 2010 concernant les droits des passagers voyageant par mer ou par voie de navigation intérieure et modifiant le Règlement (CE) n° 2006/2004 sont abrogés.
+
+## CHAPITRE 7. - Disposition finale
+
+### Art. 34
+
+La présente loi entre en vigueur le 1er janvier 2017.
+
+## ANNEXE.
+
+### Art. N
+
+(Annexe non reprise. Voir M.B. du 19-01-2017, p. 3445)
+
+Modifiée par:
+
+&lt;L 2017-12-17/23, art. 3, 002; En vigueur : 19-01-2018&gt;
+
+&lt;L 2019-05-08/14, art. 102, 004; En vigueur : 01-09-2020&gt;
+
+---
+
+Donné à Bruxelles, le 25 décembre 2016.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+K. GEENS
+
+La Ministre des Affaires sociales et de la Santé publique,
+
+M. DE BLOCK
+
+Le Ministre de la Mobilité,
+
+Fr. BELLOT
+
+Le Secrétaire d'Etat à la Mer du Nord,
+
+Ph. DE BACKER
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS

@@ -1,0 +1,662 @@
+---
+title: "Loi portant réforme du financement de la sécurité sociale"
+identifier: "2017202167"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2017/04/18/2017202167/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2017-04-18
+published: 2017-04-28
+entry_into_force: 2017-01-01
+last_amended: 2026-07-07
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2017/04/18/2017202167/justel"
+department: "Sécurité sociale"
+justel_note: "Consultation des versions antérieures à partir du 28-04-2017 et mise à jour au 07-07-2026"
+retrieved: 2026-10-11
+---
+
+# 18 AVRIL 2017. - Loi portant réforme du financement de la sécurité sociale
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition introductive
+
+##### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## CHAPITRE 2. - Simplification du financement alternatif et financement des soins de santé
+
+### Section 1re. - Financement alternatif du régime des travailleurs salariés
+
+#### Sous-section 1re. - Financement alternatif - Montant de base
+
+##### Art. 2
+
+§ 1er. [<sup>1</sup> [<sup>3</sup> A partir du 1er janvier 2026, 22,64 % ]<sup>3</sup> du produit de la taxe sur la valeur ajoutée, dénommée ci-après "T.V.A.", sont prélevés sur le montant net encaissé de cette taxe et affectés à l'ONSS-Gestion globale visé à l'article 5, alinéa 1er, 2°, de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.
+
+Si de nouvelles réductions de cotisations ou des réductions de cotisations sociales supplémentaires ou d'autres mesures en faveur de l'emploi sont décidées, ce pourcentage de T.V.A. peut être adapté par arrêté royal délibéré en Conseil des ministres.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> Le montant fixé conformément au § 1er ne peut être inférieur au montant de [<sup>2</sup> [<sup>3</sup> 9.343.772 milliers d'euros]<sup>3</sup>]<sup>2</sup>. Ce dernier montant est adapté annuellement au taux de croissance de l'indice-santé moyen de l'année. Le montant minimum définitif pour l'année T sera déterminé au mois de janvier de l'année T+1 sur la base de l'indice santé moyen réel de l'année T (exprimé avec deux décimales).
+
+Si de nouvelles réductions de cotisations ou des réductions de cotisations sociales supplémentaires ou d'autres mesures en faveur de l'emploi sont décidées, ce montant minimum de T.V.A. peut être adapté par arrêté royal délibéré en Conseil des ministres.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-22/06, art. 159, 009; En vigueur : 01-01-2024&gt;
+
+(2)&lt;AR 2025-07-04/06, art. 1, 010; En vigueur : 01-01-2025&gt;
+
+(3)&lt;AR 2026-03-08/05, art. 1, 012; En vigueur : 01-01-2026&gt;
+
+##### Art. 3
+
+§ 1er. [<sup>1</sup> [<sup>2</sup> [<sup>3</sup> A partir du 1er janvier 2026, 80,48 %]<sup>3</sup>]<sup>2</sup> du produit du précompte mobilier sont prélevés sur le montant net encaissé de ce précompte et affectés à l'ONSS-Gestion globale visé à l'article 5, alinéa 1er, 2°, de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.
+
+Si de nouvelles réductions de cotisations ou des réductions de cotisations sociales supplémentaires ou d'autres mesures en faveur de l'emploi sont décidées, ce pourcentage de précompte mobilier peut être adapté par arrêté royal délibéré en Conseil des ministres.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> Le montant fixé conformément au § 1er ne peut être inférieur au montant de [<sup>2</sup> [<sup>3</sup> 4.611.332 milliers d'euros ]<sup>3</sup>]<sup>2</sup>. Ce dernier montant est adapté annuellement au taux de croissance de l'indice-santé moyen de l'année. Le montant minimum définitif pour l'année T sera déterminé au mois de janvier de l'année T+1 sur la base de l'indice santé moyen réel de l'année T (exprimé avec deux décimales).
+
+Si de nouvelles réductions de cotisations ou des réductions de cotisations sociales supplémentaires ou d'autres mesures en faveur de l'emploi sont décidées, ce montant minimum de précompte mobilier peut être adapté par arrêté royal délibéré en Conseil des ministres.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-22/06, art. 160, 009; En vigueur : 01-01-2024&gt;
+
+(2)&lt;AR 2025-07-04/06, art. 2, 010; En vigueur : 01-01-2025&gt;
+
+(3)&lt;AR 2026-03-08/05, art. 2, 012; En vigueur : 01-01-2026&gt;
+
+##### Art. 4
+
+En cas de modifications dans la réglementation concernant les tarifs, l'assiette fiscale et les exceptions de la TVA et du précompte mobilier, les pourcentages fixés aux articles 2, § 1er et 3, § 1er sont actualisés par un arrêté royal délibéré en Conseil des ministres.
+
+#### Sous-section 2.
+
+&lt;Abrogé par L 2023-12-22/06, art. 161, 009; En vigueur : 01-01-2024&gt;
+
+##### Art. 5
+
+&lt;Abrogé par L 2023-12-22/06, art. 161, 009; En vigueur : 01-01-2024&gt;
+
+#### Sous-section 3.
+
+&lt;Abrogé par L 2023-12-22/06, art. 162, 009; En vigueur : 01-01-2024&gt;
+
+##### Art. 6
+
+&lt;Abrogé par L 2023-12-22/06, art. 162, 009; En vigueur : 01-01-2024&gt;
+
+#### Sous-section 4. - Modalités de prélèvement et de versement
+
+##### Art. 7
+
+§ 1er. En cas d'insuffisance du produit net de la TVA pour effectuer, dans l'ordre de priorité ci-dessous, les paiements des montants dus en application de:
+
+1° la décision du Conseil du 26 mai 2014 relative au système des ressources propres des Communautés européennes (2000/597/CE, Euratom);
+
+2° l'article 43 de la loi-programme du 11 juillet 2005;
+
+3° l'article 36, alinéa 2, 1°, de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions;
+
+4° les articles 2, 5, 6, 9, 12 et 13 de la présente loi;
+
+5° les articles 17 et 19 de la présente loi;
+
+6° l'article 190 de la loi-programme du 24 décembre 2002;
+
+7° l'article 21ter de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité;
+
+8° les articles 57 à 59 de la loi-programme du 22 décembre 2008,
+
+un montant complémentaire peut être prélevé sur le montant net encaissé des accises sur le tabac [<sup>1</sup> et, si ce dernier est insuffisant, sur le montant net encaissé du précompte professionnel pour garantir le paiement du montant dû en application de l'article 2,]<sup>1</sup> sans que ce prélèvement puisse être supérieur au montant de l'insuffisance constatée du montant net encaissé de la TVA.
+
+§ 2. [<sup>1</sup> De même un montant supplémentaire peut être prélevé sur le montant net encaissé des accises sur le tabac et, si ce dernier est insuffisant, sur le montant net encaissé du précompte professionnel, quand il est constaté que le montant net encaissé du précompte mobilier ne suffit pas pour financer le montant tel que fixé à l'article 3, sans que néanmoins ce prélèvement puisse être supérieur au montant de l'insuffisance constatée du montant net encaissé du précompte mobilier.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-22/06, art. 163, 009; En vigueur : 01-01-2024&gt;
+
+##### Art. 8
+
+§ 1er. Les pourcentages fixés aux articles 2 et 3 sont appliqués sur le montant net encaissé mensuel de la TVA et du précompte mobilier. Les montants sont calculés et transférés en tranches mensuelles.
+
+§ 2. Les montants doivent être disponibles sur le compte de l'ONSS-Gestion globale au plus tard le 25 de chaque mois. Si le 25 est un samedi, un dimanche ou un jour férié, les montants doivent être disponibles sur le compte le jour ouvrable précédant le 25.
+
+### Section 2. - Financement alternatif du régime des travailleurs indépendants
+
+#### Sous-section 1re. - Financement alternatif - Montant de base
+
+##### Art. 9
+
+§ 1er. [<sup>1</sup> [<sup>2</sup> A partir du 1er janvier 2026, 4,56%]<sup>2</sup> du produit de la T.V.A. sont prélevés sur le montant net encaissé de cette taxe et affectés au Fonds pour l'équilibre financier du statut social des travailleurs indépendants, visé à l'article 21bis de l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants.
+
+Si de nouvelles réductions de cotisations ou des réductions de cotisations sociales supplémentaires ou des améliorations sociales dans le régime des travailleurs indépendants sont décidées, ce pourcentage de T.V.A. peut être adapté par arrêté royal délibéré en Conseil des ministres.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> Le montant fixé conformément au § 1er ne peut être inférieur au montant de [<sup>2</sup> [<sup>3</sup> 1.878.473 milliers d'euros]<sup>3</sup>]<sup>2</sup>. Ce dernier montant est adapté annuellement au taux de croissance de l'indice-santé moyen de l'année. Le montant minimum définitif pour l'année T sera déterminé au mois de janvier de l'année T+1 sur la base de l'indice santé moyen réel de l'année T (exprimé avec deux décimales).
+
+Si de nouvelles réductions de cotisations ou des réductions de cotisations sociales supplémentaires ou des améliorations sociales dans le régime des travailleurs indépendants sont décidées, ce montant minimum de T.V.A. peut être adapté par arrêté royal délibéré en Conseil des ministres.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-22/06, art. 165, 009; En vigueur : 01-01-2024&gt;
+
+(2)&lt;AR 2025-12-16/03, art. 1, 011; En vigueur : 01-01-2026&gt;
+
+(3)&lt;AR 2026-06-05/18, art. 1, 013; En vigueur : 01-01-2026&gt;
+
+##### Art. 10
+
+§ 1er. [<sup>1</sup> [<sup>2</sup> [<sup>3</sup> A partir du 1er janvier 2026, 15,58 %]<sup>3</sup>]<sup>2</sup> du produit du précompte mobilier sont prélevés sur le montant net encaissé de ce précompte et affectés au Fonds pour l'équilibre financier du statut social des travailleurs indépendants visé à l'article 21bis de l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants.
+
+Si de nouvelles réductions de cotisations ou des réductions de cotisations sociales supplémentaires ou des améliorations sociales dans le régime des travailleurs indépendants sont décidées, ce pourcentage de précompte mobilier peut être adapté par arrêté royal délibéré en Conseil des ministres.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> Le montant fixé conformément au § 1er ne peut être inférieur au montant de [<sup>2</sup> [<sup>3</sup> 881.073 milliers d'euros]<sup>3</sup>]<sup>2</sup>. Ce dernier montant est adapté annuellement au taux de croissance de l'indice-santé moyen de l'année. Le montant minimum définitif pour l'année T sera déterminé au mois de janvier de l'année T+1 sur la base de l'indice santé moyen réel de l'année T (exprimé avec deux décimales).
+
+Si de nouvelles réductions de cotisations ou des réductions de cotisations sociales supplémentaires ou des améliorations sociales dans le régime des travailleurs indépendants sont décidées, ce montant minimum de précompte mobilier peut être adapté par arrêté royal délibéré en Conseil des ministres.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-22/06, art. 166, 009; En vigueur : 01-01-2024&gt;
+
+(2)&lt;AR 2025-12-16/03, art. 2, 011; En vigueur : 01-01-2026&gt;
+
+(3)&lt;AR 2026-06-05/18, art. 2, 013; En vigueur : 01-01-2026&gt;
+
+##### Art. 11
+
+En cas de modifications dans la réglementation concernant les tarifs, l'assiette fiscale et les exceptions de la TVA et du précompte mobilier, les pourcentages fixés aux articles 9, § 1er, et 10, § 1er, sont actualisés par un arrêté royal délibéré en Conseil des ministres.
+
+#### Sous-section 2.
+
+&lt;Abrogé par L 2023-12-22/06, art. 167, 009; En vigueur : 01-01-2024&gt;
+
+##### Art. 12
+
+&lt;Abrogé par L 2023-12-22/06, art. 167, 009; En vigueur : 01-01-2024&gt;
+
+#### Sous-section 3.
+
+&lt;Abrogé par L 2023-12-22/06, art. 168, 009; En vigueur : 01-01-2024&gt;
+
+##### Art. 13
+
+&lt;Abrogé par L 2023-12-22/06, art. 168, 009; En vigueur : 01-01-2024&gt;
+
+#### Sous-section 4. - Modalités de prélèvement et de versement
+
+##### Art. 14
+
+§ 1er. En cas d'insuffisance du produit net de la TVA pour effectuer, dans l'ordre de priorité ci-dessous, les paiements des montants dus en application de:
+
+1° la décision du Conseil du 26 mai 2014 relative au système des ressources propres des Communautés européennes (2000/597/CE, Euratom);
+
+2° l'article 43 de la loi-programme du 11 juillet 2005;
+
+3° l'article 36, alinéa 2, 1°, de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions;
+
+4° les articles 2, 5, 6, 9, 12 et 13, de la présente loi;
+
+5° les articles 17 et 19 de la présente loi;
+
+6° l'article 190 de la loi-programme du 24 décembre 2002;
+
+7° l'article 21ter de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité;
+
+8° les articles 57 à 59 de la loi-programme du 22 décembre 2008,
+
+un montant complémentaire peut être prélevé sur le montant net encaissé des accises sur le tabac [<sup>1</sup> et, si ce dernier est insuffisant, sur le montant net encaissé du précompte professionnel pour garantir le paiement du montant dû en application de l'article 9,]<sup>1</sup>, sans que ce prélèvement puisse être supérieur au montant de l'insuffisance constatée du montant net encaissé de la TVA.
+
+§ 2. [<sup>1</sup> De même un montant supplémentaire peut être prélevé sur le montant net encaissé des accises sur le tabac et, si ce dernier est insuffisant, sur le montant net encaissé du précompte professionnel, quand il est constaté que le montant net encaissé du précompte mobilier ne suffit pas pour financer le montant tel que fixé à l'article 10, sans que néanmoins ce prélèvement puisse être supérieur au montant de l'insuffisance constatée du montant net encaissé du précompte mobilier.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-22/06, art. 169, 009; En vigueur : 01-01-2024&gt;
+
+##### Art. 15
+
+§ 1er. Les pourcentages fixés aux articles 9 et 10 sont appliqués sur le montant net encaissé mensuel de la TVA et du précompte mobilier. Les montants sont calculés et transférés en tranches mensuelles.
+
+§ 2. Les montants doivent être disponibles sur le compte du Fonds pour l'équilibre financier du statut social des travailleurs indépendants au plus tard le 25 de chaque mois. Si le 25 est un samedi, un dimanche ou un jour férié, les montants doivent être disponibles sur le compte le jour ouvrable précédant le 25.
+
+### Section 3. - Financement des soins de santé
+
+#### Sous-section 1re. - Financement de base par la Gestion globale des travailleurs salariés
+
+##### Art. 16
+
+L'article 24, § 1erbis, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, modifié en dernier lieu par la loi du 1er juillet 2016, est complété par trois alinéas rédigés comme suit:
+
+"Par dérogation aux dispositions des alinéas précédents, pour l'exercice 2017, le montant est fixé à 19 362 830 milliers d'euros.
+
+Pour les exercices 2018 jusqu'à 2021 y compris, le montant fixé à l'alinéa précédent est adapté chaque année au taux de croissance de l'indice-santé moyen de l'année.
+
+A partir de l'exercice 2022, le montant est de nouveau fixé selon les modalités de l'alinéa 2."
+
+#### Sous-section 2. - Financement alternatif des moyens additionnels alloués par la Gestion globale des travailleurs salariés
+
+##### Art. 17
+
+A partir de l'année 2008, un montant est prélevé sur le montant net encaissé de la TVA et est attribué à l'ONSS-Gestion globale, visé à l'article 5, alinéa 1er, 2°, de la loi du 27 juin 1969 révisant l'arrête-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs. Le Roi détermine annuellement le montant visé à cet alinéa.
+
+Le montant visé à l'alinéa 1er correspond, par exercice, au montant des moyens financiers additionnels tels que définis au § 1quater de l'article 24 de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés.
+
+#### Sous-section 3. - Financement de base par la Gestion globale des travailleurs indépendants
+
+##### Art. 18
+
+L'article 6, § 1bis, de l'arrêté royal du 18 novembre 1996 visant l'introduction d'une gestion financière globale dans le statut social des travailleurs indépendants, en application du chapitre I du titre VI de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions, modifié en dernier lieu par la loi du 1er juillet 2016, est complété par trois alinéas rédigés comme suit:
+
+"Par dérogation aux dispositions des alinéas précédents, pour l'exercice 2017, le montant est fixé à 1 937 491 milliers d'euros.
+
+Pour les exercices 2018 jusqu'à 2021 y compris, le montant fixé à l'alinéa précédent est adapté chaque année au taux de croissance de l'indice-santé moyen de l'année.
+
+A partir de l'exercice 2022, le montant est de nouveau fixé selon les modalités de l'alinéa 2."
+
+#### Sous-section 4. - Financement alternatif des moyens additionnels alloués par la Gestion globale des travailleurs indépendants
+
+##### Art. 19
+
+A partir de l'année 2008, un montant est prélevé sur le montant net encaissé de la TVA et est attribué au Fonds pour l'équilibre financier du statut social des travailleurs indépendants visé à l'article 21bis de l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendant. Le Roi détermine annuellement le montant visé à cet alinéa.
+
+Le montant visé à l'alinéa 1er correspond, par exercice, au montant des moyens financiers additionnels tels que définis au § 1quater de l'article 6 de l'arrêté royal du 18 novembre 1996 visant l'introduction d'une gestion financière globale dans le statut social des travailleurs indépendants, en application du chapitre I du titre VI de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions.
+
+#### Sous-section 5. - Modalités de prélèvement et de versement du financement alternatif
+
+##### Art. 20
+
+§ 1er. En cas d'insuffisance du produit net de la TVA pour effectuer, dans l'ordre de priorité ci-dessous, les paiements des montants dus en application de:
+
+1° la décision du Conseil du 26 mai 2014 relative au système des ressources propres des Communautés européennes (2000/597/CE, Euratom);
+
+2° l'article 43 de la loi-programme du 11 juillet 2005;
+
+3° l'article 36, alinéa 2, 1°, de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions;
+
+4° les articles 2, 5, 6, 9, 12 et 13, de la présente loi;
+
+5° les articles 17 et 19 de la présente loi;
+
+6° l'article 190 de la loi-programme du 24 décembre 2002;
+
+7° l'article 21ter de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité;
+
+8° les articles 57 à 59 de la loi-programme du 22 décembre 2008,
+
+un montant complémentaire peut être prélevé sur le montant net encaissé des accises sur le tabac [<sup>1</sup> et, si ce dernier est insuffisant, sur le montant net encaissé du précompte professionnel]<sup>1</sup> pour garantir le paiement des montants dus en application des articles 17 et 19, sans que ce prélèvement puisse être supérieur au montant de l'insuffisance constatée du montant net encaissé de la TVA.
+
+§ 2. Les montants visés aux articles 17 et 19 sont transférés en tranches mensuelles. Les montants doivent être disponibles sur les comptes respectifs de l'ONSS-Gestion globale et du Fonds pour l'équilibre financier du statut social des travailleurs indépendants, au plus tard le 25 de chaque mois. Si le 25 est un samedi, un dimanche ou un jour férié, les montants doivent être disponibles sur le compte le jour ouvrable précédant le 25.
+
+[<sup>2</sup> Pour chacun des mois de l'année N qui précèdent la publication de l'arrêté royal relatif à l'année courante, pris en exécution des articles 17, alinéa 1er, et 19, alinéa 1er, les avances mensuelles sont fixées à un douzième du montant arrêté par le Roi pour l'année N-1 conformément aux dispositions des articles 17 et 19.
+
+A compter du mois de l'année N au cours duquel la publication de l'arrêté royal relatif à l'année courante, pris en exécution des articles 17, alinéa 1er, et 19, alinéa 1er, a eu lieu, les avances mensuelles sont ajustées de manière à ce que le montant total versé au titre de l'année N corresponde au montant arrêté par le Roi en application des articles 17 et 19.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2023-12-22/06, art. 164, 009; En vigueur : 01-01-2024&gt;
+
+(2)&lt;L 2026-06-28/04, art. 9, 014; En vigueur : 07-07-2026&gt;
+
+## CHAPITRE 3. - Subventions de l'Etat
+
+### Section 1re. - Détermination de subventions de l'Etat au profit du régime de sécurité sociale des travailleurs salariés
+
+##### Art. 21
+
+§ 1er. [<sup>1</sup> L'ensemble des subventions annuelles de l'Etat au profit des différents régimes et branches de la sécurité sociale des travailleurs salariés, tels que visés à l'article 21, § 2, 1° à 9°, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, est fixé forfaitairement à 1 926 594 milliers d'euros. Ce montant est rattaché à l'indice-santé moyen 105,49 (base 2013 = 100) de l'année 2017.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> Le montant visé au premier paragraphe est adapté annuellement à l'indice-santé moyen de l'année budgétaire au cours de laquelle les subventions sont allouées.]<sup>1</sup>
+
+§ 3. A partir de l'année 2018, le montant visé au paragraphe 2 est également adapté annuellement au coefficient de vieillissement.
+
+Le coefficient de vieillissement est déterminé chaque année par un arrêté royal délibéré en Conseil des ministres. Le coefficient est appliqué s'il y a une augmentation significative de l'âge de sortie définitive du marché du travail et si la croissance réelle du PIB atteint au moins 1,5 % .
+
+§ 4. L'ensemble des subventions de l'Etat est inscrit au budget du SPF Sécurité sociale.
+
+----------
+
+(1)&lt;L 2020-12-20/09, art. 44, 003; En vigueur : 01-01-2021&gt;
+
+##### Art. 21/1.
+
+[<sup>1</sup> Le montant obtenu après application de l'article 21, § § 2 et 3, est majoré [<sup>2</sup> pour les années 2018, 2019, 2020 et 2021]<sup>2</sup> d'un montant égal au montant visé à l'article 24, § 2ter, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés.]<sup>1</sup>
+
+[<sup>2</sup> A partir de 2022, l'arrêté, délibéré en Conseil des ministres, pris en application de l'article 24, § 2ter, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs, prévoit simultanément une majoration identique du montant obtenu après application de l'article 21, §§ 2 et 3.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-21/49, art. 65, 002; En vigueur : 27-01-2019&gt;
+
+(2)&lt;L 2021-06-21/02, art. 9, 004; En vigueur : 09-07-2021&gt;
+
+### Section 2. - Détermination de la subvention de l'Etat au profit du statut social des travailleurs indépendants
+
+##### Art. 22
+
+§ 1er. La subvention annuelle de l'Etat au profit des différents régimes et secteurs de la sécurité sociale des travailleurs indépendants, tels que visés à l'article 6, § 2, de l'arrêté royal du 18 novembre 1996 visant l'introduction d'une gestion financière globale dans le statut social des travailleurs indépendants, en application du chapitre I du titre VI de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions, est fixé à 363 343 milliers d'euros pour l'année 2017.
+
+§ 2. A partir de l'année 2018, le montant visé au paragraphe 1er est adapté annuellement au taux de croissance de l'indice-santé moyen de l'année.
+
+§ 3. A partir de l'année 2018, le montant visé au paragraphe 1er est également adapté annuellement au coefficient de vieillissement.
+
+Le coefficient de vieillissement est le même que celui utilisé pour les subventions de l'Etat au profit de la Gestion globale des travailleurs salariés. Le Roi le détermine chaque année par un arrêté délibéré en Conseil des ministres. Le coefficient est appliqué s'il y a une augmentation significative de l'âge de sortie définitive du marché du travail et si la croissance réelle du PIB atteint au moins 1,5 % .
+
+§ 4. La subvention annuelle de l'Etat est inscrit au budget du SPF Sécurité sociale.
+
+##### Art. 22/1.
+
+[<sup>1</sup> § 1er. A partir de 2024, le montant obtenu après application de l'article 22, §§ 2 et 3, est majoré d'un montant de 4.000.000 d'euros. Ce dernier est accordé dans le cadre de la sensibilisation et de la promotion du bien-être mental au travail pour les travailleurs indépendants.
+
+§ 2. A partir de 2025, le montant de 4.000.000 d'euros mentionné au paragraphe 1er est indexé annuellement par une fraction dont le dénominateur est 128,82 (soit l'indice santé pour août 2023 dans la base 2013 = 100) et le numérateur est l'indice santé du mois d'août de l'année qui précède celle pour laquelle la subvention est due (base 2013 = 100).]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-22/06, art. 80, 009; En vigueur : 01-01-2024&gt;
+
+## CHAPITRE 4. - Dotation d'équilibre
+
+### Section 1re. - Dotation d'équilibre dans le régime des travailleurs salariés
+
+##### Art. 23
+
+§ 1er. La dotation d'équilibre dans le régime des travailleurs salariés est inscrite au budget du SPF Sécurité sociale.
+
+Au budget du SPF Sécurité sociale, un montant provisoire est inscrit, égal au montant de la dotation d'équilibre de l'année précédente comme établi au § 2, augmenté d'une norme de croissance égale au taux de craissance de l'indice-santé moyen de l'année.
+
+[<sup>1</sup> A partir du 1er janvier 2017]<sup>1</sup>, une dotation d'équilibre est versée à l'ONSS-Gestion globale visé à l'article 5, alinéa 1er, 2°, de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.
+
+§ 2. Afin de conserver l'équilibre budgétaire à l'ONSS-Gestion globale et de garantir la continuité des paiements des prestations sociales, le Roi détermine chaque année, par arrêté délibéré en Conseil des ministres, le montant définitif de la dotation d'équilibre destiné à l'ONSS-Gestion globale, après la prise en compte de plusieurs facteurs de responsabilisation, à telle fin que l'ONSS-Gestion globale n'ait ni de surplus ni de déficit sur ses comptes budgétaires, à l'exclusion de la variation des placements effectués pour son propre compte.
+
+Les facteurs de responsabilisation visés à l'alinéa 1er sont entre autres:
+
+\- les effets de mesures concernant la lutte contre la fraude sociale;
+
+\- les effets de mesures concernant la lutte contre les mécanismes d'utilisation impropre;
+
+\- la contribution de la sécurité sociale dans la réalisation des objectifs budgétaires tels que déterminés dans le Pacte de Stabilité;
+
+\- les causes des augmentations des effets de volumes;
+
+\- le respect ou non de la neutralité budgétaire des accords conclus entre les partenaires sociaux. Le terme accords peut être interprété de manière large. Les partenaires sociaux devront proposer des mesures de correction. Le gouvernement décide alors s'il exécute l'accord entièrement ou partiellement et prend aussi une décision concernant les mesures compensatoires;
+
+\- le suivi des mesures prévues par le gouvernement; en cas de mesures non réalisées, le gouvernement propose de nouvelles mesures du même type.
+
+§ 3. La dotation d'équilibre est payée en tranches mensuelles le 13e du mois sur le compte de l'ONSS-Gestion globale.
+
+§ 4. Le versement du mois de décembre est adapté en fonction de l'actualisation des données budgétaires établie par le Comité de monitoring de sorte que l'ONSS-Gestion globale présente un équilibre budgétaire.
+
+Cette adaptation est toutefois limitée à maximum un douzième de la dotation d'équilibre.
+
+§ 5. Le montant de la dotation d'équilibre fixé au paragraphe 2 est adapté par un arrêté royal délibéré en Conseil des ministres sur la base des résultats provisoires de l'année N établis lors du contrôle budgétaire de l'année N+1. Il n'est plus modifié par la suite.
+
+§ 6. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2020-12-20/09, art. 45, 003; En vigueur : 01-01-2021&gt;
+
+### Section 2. - Dotation d'équilibre dans le régime des travailleurs indépendants
+
+##### Art. 24
+
+§ 1er. La dotation d'équilibre dans le régime des travailleurs indépendants est inscrite au budget du SPF Sécurité sociale.
+
+Au budget du SPF Sécurité sociale, un montant provisoire est inscrit, égal à la dotation d'équilibre de l'année précédente comme fixé au § 2, augmenté d'une norme de croissance égale au taux de croissance de l'indice-santé de l'année.
+
+[<sup>1</sup> A partir du 1er janvier 2017]<sup>1</sup>, une dotation d'équilibre est versée à la gestion financière globale du statut social des travailleurs indépendants, visée à l'article 2, alinéa 1er, de l'arrêté royal du 18 novembre 1996 visant l'introduction d'une gestion financière globale dans le statut social des travailleurs indépendants, en application du chapitre I du titre VI de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions.
+
+§ 2. Afin de conserver l'équilibre budgétaire de la gestion financière globale du statut social des travailleurs indépendants et de garantir la continuité des paiements des prestations sociales, le Roi détermine chaque année, par arrêté délibéré en Conseil des ministres, le montant définitif de la dotation d'équilibre destiné à la gestion financière globale du statut social des travailleurs indépendants, après la prise en compte de plusieurs facteurs de responsabilisation, à telle fin que la gestion financière globale du statut social des travailleurs indépendants n'ait pas de surplus ni de déficit sur ses comptes budgétaires, à l'exclusion de la variation des placements effectués pour son propre compte.
+
+Les facteurs de responsabilisation visés à l'alinéa 1er sont entre autres:
+
+\- les effets de mesures concernant la lutte contre la fraude sociale;
+
+\- les effets de mesures concernant la lutte contre les mécanismes d'utilisation impropre;
+
+\- la contribution de la sécurité sociale dans la réalisation des objectifs budgétaires tels que déterminés dans le Pacte de Stabilité;
+
+\- les causes des augmentations des effets de volumes;
+
+\- le respect ou non de la neutralité budgétaire des accords conclus entre les partenaires sociaux. Le terme accords peut être interprété de manière large. Les partenaires sociaux devront proposer des mesures de correction. Le gouvernement décide alors s'il exécute l'accord entièrement ou partiellement et prend aussi une décision concernant les mesures compensatoires;
+
+\- le suivi des mesures prévues par le gouvernement; en cas de mesures non réalisées, le gouvernement propose de nouvelles mesures du même type.
+
+§ 3. La dotation d'équilibre est payée en tranches mensuelles le 13 du mois sur le compte de la gestion financière globale du statut social des travailleurs indépendants.
+
+§ 4. Le versement du mois de décembre est adapté en fonction de l'actualisation des données budgétaires établie par le comité de monitoring de sorte que la gestion financière globale du statut social des travailleurs indépendants présente un équilibre budgétaire.
+
+Cette adaptation est toutefois limitée à maximum un douzième de la dotation d'équilibre.
+
+§ 5. Le montant de la dotation d'équilibre fixé au paragraphe 2 est adapté par un arrêté royal délibéré en Conseil des ministres sur la base des résultats provisoires de l'année N établis lors du contrôle budgétaire de l'année N+1. Il n'est plus modifié par la suite.
+
+§ 6. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 7. Le montant de la dotation d'équilibre dans le régime des travailleurs indépendants doit être au moins 1/9ième du montant fixé de la dotation d'équilibre dans le régime des travailleurs salariés. Si ce montant est trop élevé par rapport au déficit du régime des travailleurs indépendants, le montant de la dotation d'équilibre est corrigé de façon à présenter un solde nul.
+
+Dans l'Exposé général du Budget, la différence entre un 1/9e du montant fixé de la dotation d'équilibre dans le régime des travailleurs salariés et le montant déterminé de la dotation d'équilibre dans le régime des travailleurs indépendants est à chaque fois explicitée.
+
+----------
+
+(1)&lt;L 2020-12-20/09, art. 46, 003; En vigueur : 01-01-2021&gt;
+
+## CHAPITRE 5. - Monitoring budgétaire et financier de la sécurité sociale
+
+##### Art. 25
+
+§ 1er. Une "Commission Finances et Budget" est instaurée à l'ONSS Gestion globale visé à l'article 5, alinéa 1er, 2°, de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, dénommée ci-après "CFB ONSS".
+
+§ 2. Le siège de la CFB ONSS se trouve à l'Office national de sécurité sociale.
+
+##### Art. 26
+
+§ 1er. Une "Commission Finances et Budget" est instaurée dans la gestion financière globale du statut social des travailleurs indépendants, visée à l'article 2, alinéa 1er, de l'arrêté royal du 18 novembre 1996 visant l'introduction d'une gestion financière globale dans le statut social des travailleurs indépendants, en application du chapitre I du titre VI de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions, dénommée ci-après "CFB INASTI".
+
+§ 2. Le siège de la CFB INASTI se trouve à l'Institut national d'assurances sociales pour travailleurs indépendants.
+
+##### Art. 27
+
+§ 1er. Sans préjudice des dispositions de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, les CFB ONSS et INASTI, dénommées ci-après "les CFBs" ont les missions suivantes:
+
+1° suivre le financement de trésorerie des branches de la Gestion globale et des institutions hors Gestion globale, pour lesquelles des cotisations sont prélevées;
+
+2° assurer le calendrier des paiements des prestations sociales;
+
+3° suivre l'évolution des prestations sociales, des cotisations et des réductions de cotisations;
+
+4° analyser les effets de volume dans l'évolution des prestations sociales, des cotisations et des réductions de cotisations;
+
+5° suivre les mesures du gouvernement à l'aide d'un tableau de bord.
+
+§ 2. Pour que les CFBs puissent effectuer correctement leurs missions, les Institutions publiques de sécurité sociale concernées par les gestions globales et les SPF concernés fournissent aux CFBs les données nécessaires en ce qui concerne:
+
+\- les recettes réalisées;
+
+\- les dépenses realisées;
+
+\- les réductions de cotisations réalisées;
+
+\- l'évolution des effectifs et des montants moyens.
+
+Ces données sont ensuite consolidées et analysées par le SPF Sécurité sociale. Le résultat en est discuté dans les CFBs respectives et les causes des augmentations des effets de prix et de volume par branche de la sécurité sociale sont analysées. Une attention particulière est donnée aux effets mutuels. Si un risque de dérapage est constaté, la CFB concernée avertit le gouvernement, le Comité de gestion de la sécurité sociale et le Comité de gestion général pour le statut social des travailleurs indépendants. Elle demande aux comités de gestion des IPSS concernées de fournir des explications et d'éventuellement proposer des mesures pour corriger le risque du dérapage.
+
+La CFB ONSS se réunit au minimum une fois par mois. La CFB INASTI se réunit au minimum une fois par trimestre.
+
+##### Art. 28
+
+§ 1er. La CFB ONSS est présidée par l'ONSS-Gestion globale. La CFB INASTI est présidée par l'INASTI-Gestion globale.
+
+§ 2. Les CFBs sont composées d'experts-représentants des IPSS des gestions globales concernées et des experts-représentants du SPF Sécurité sociale, du SPF Budget et Contrôle de la Gestion et du SPF Finances. Un représentant de l'Inspection des Finances peut également participer aux CFBs.
+
+§ 3. Au sein des CFB des groupes de travail avec des compositions différentes peuvent être instaurés afin d'exécuter les missions déterminées à l'article 27.
+
+##### Art. 29
+
+En préparation du budget initial et des contrôles budgétaires, et à la suite des travaux menés en application de l'article 27, les CFB rédigent un rapport respectivement à l'attention du Comité de gestion de la sécurité sociale et du Comité de gestion général pour le statut social des travailleurs indépendants. Ce rapport est joint au rapport que les deux Comités doivent soumettre au gouvernement.
+
+## CHAPITRE 6. - Modification du financement des dépenses impropres à la sécurité sociale
+
+##### Art. 30
+
+L'article 21, § 2, 2°, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, remplacé par l'arrêté royal du 8 août 1997, est remplacé par ce qui suit:
+
+"2° les allocations de chômage, en ce compris les allocations pour le régime du chômage avec complément d'entreprise, les allocations d'interruption pour le régime général du crédit-temps et les allocations d'interruption pour les congés thématiques des travailleurs du secteur privé;".
+
+##### Art. 31
+
+A l'article 56 de la loi du 26 juin 2002 relative aux fermetures d'entreprises, modifié par la loi du 11 juillet 2006, les mots "un financement de l'Autorité fédérale." sont remplacés par les mots "un crédit inscrit dans le budget du SPF Emploi, Travail et Concertation sociale, destiné au financement du coût dû à l'élargissement du champ d'application aux entreprises avec moins de vingt travailleurs.".
+
+##### Art. 32
+
+L'article 116, alinéa 1er, 1°, de la loi programme (I) du 27 décembre 2006, modifié par la loi du 21 décembre 2007, est complété par l'alinéa suivant:
+
+"A partir du 1er janvier 2017 ce montant est financé par un crédit annuel inscrit au budget du SPF Sécurité sociale.".
+
+##### Art. 33
+
+Les initiatives autres que celles qui concernent la police mentionnées à l'article 21, de la loi du 12 mai 2014 portant création de l'Office des régimes particuliers de sécurité sociale, sont financées par un crédit annuel inscrit au budget de l'Etat fédéral.
+
+##### Art. 34
+
+Les allocations d'interruption pour les interruptions de carrière, autres que celles visées à l'article 21, § 2, 2°, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, remplacé par l'arrêté royal du 8 août 1997, payées par l'Office national de l'Emploi, sont financées par une dotation annuelle, inscrite au budget du SPF Emploi, Travail et Concertation sociale.
+
+## CHAPITRE 7. - Dispositions modificatives
+
+##### Art. 35
+
+A l'article 4ter, § 2, de la loi du 25 avril 1963 sur la gestion des organismes d'intérêt public de sécurité sociale et de prévoyance sociale, inséré par la loi du 10 juillet 2016, l'alinéa suivant est inséré entre les alinéas 5 et 6, qui devient l'alinéa 7:
+
+"Les fonctionnaires dirigeants des Institutions publiques de sécurité sociale (IPSS) qui font partie de la Gestion globale des travailleurs salariés, ou leurs représentants, ainsi qu'un représentant du SPF Sécurité sociale, un représentant du SPF Budget et Contrôle de la Gestion et l'Inspecteur des Finances qui est accrédité près du SPF Sécurité sociale assistent aux réunions du Comité de gestion de la Sécurité sociale, à titre consultatif.".
+
+##### Art. 36
+
+L'article 8ter de la même loi, inséré par la loi du 30 mars 1994 et remplacé par la loi du 21 décembre 1994, est abrogé.
+
+##### Art. 37
+
+L'article 19bis, 5°, de la même loi, inséré par la loi du 30 mars 1994 et remplacé par la loi du 21 décembre 1994, est abrogé.
+
+##### Art. 38
+
+L'article 19 de l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants, remplacé par la loi du 26 mars 2007, est abrogé.
+
+##### Art. 39
+
+L'article 24, § 1quinquies, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, inséré par la loi du 26 mars 2007 et complété par la loi du 1er juillet 2016, est abrogé.
+
+##### Art. 40
+
+A l'article 26 de la même loi, les modifications suivantes sont apportées:
+
+1° à l'alinéa 1er, remplacé par l'arrêté royal du 8 août 1997, les mots ", visé à l'article 1er de la loi du 29 décembre 1990 portant des dispositions sociales," sont abrogés;
+
+2° l'alinéa 2, remplacé par l'arrêté royal du 8 août 1997, est abrogé.
+
+##### Art. 41
+
+Dans la loi du 29 décembre 1990 portant des dispositions sociales, les articles suivants sont abrogés:
+
+1° l'article 1er, modifié en dernier lieu par la loi du 11 juillet 2005;
+
+2° les articles 2, 3, 4 et 5;
+
+3° l'article 6, modifié en dernier lieu par la loi du 26 juillet 1996.
+
+##### Art. 42
+
+Dans l'article 191, alinéa 1er, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, les modifications suivantes sont apportées:
+
+1° le 3°, rétabli par la loi du 22 décembre 2003 et modifié en dernier lieu par la loi du 10 décembre 2009, est abrogé;
+
+2° le 4°, rétabli par la loi du 22 décembre 2003 et modifié par la loi du 26 mars 2007, est abrogé;
+
+3° le 5°, rétabli par la loi du 22 décembre 2003, est abrogé;
+
+4° le 5bis°, inséré par la loi du 27 décembre 2005, est abrogé.
+
+##### Art. 43
+
+A l'article 3 de l'arrêté royal du 18 novembre 1996 visant l'introduction d'une gestion financière globale dans le statut social des travailleurs indépendants, en application du chapitre I du titre VI de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions, les modifications suivantes sont apportées:
+
+1° le 2° est remplacé par ce qui suit:
+
+"2° une subvention de l'Etat visée à l'article 22 de la loi du 18 avril 2017 portant réforme du financement de la sécurité sociale;";
+
+2° le 3°, remplacé par la loi du 22 décembre 2008, est remplacé par ce qui suit:
+
+"3° les revenus du financement alternatif visés aux articles 9 à 15, 19 et 20 de la loi du 18 avril 2017 portant réforme du financement de la sécurité sociale, destinés au Fonds pour l'équilibre financier du statut social des travailleurs indépendants, visé à l'article 21bis de l'arrêté royal n° 38;";
+
+3° l'article 3 est complété par le 7° rédigé comme suit:
+
+"7° une dotation d'équilibre, visée à l'article 24 de la loi du 18 avril 2017 portant réforme du financement de la sécurité sociale;";
+
+##### Art. 44
+
+L'article 6, § 1quinquies, du même arrêté royal, inséré par la loi du 27 mars 2007 et modifié par la loi du 1 juillet 2016, est abrogé.
+
+##### Art. 45
+
+Dans la loi du 26 mars 1999 relative au plan d'action belge pour l'emploi 1998 et portant des dispositions diverses, les articles suivants sont abrogés:
+
+1° l'article 46, remplacé par la loi du 19 juillet 2001;
+
+2° l'article 47, § 3.
+
+##### Art. 46
+
+Dans la loi-programme du 2 janvier 2001, les articles suivants sont abrogés:
+
+1° l'article 65;
+
+2° l'article 66, modifié en dernier lieu par la loi du 1er juillet 2016;
+
+3° l'article 67bis, inséré par la loi du 22 décembre 2003 et modifié en dernier lieu par la loi du 8 juin 2008;
+
+4° l'article 67ter, inséré par la loi du 22 décembre 2003 et modifié en dernier lieu par la loi du 27 décembre 2006;
+
+5° l'article 67quater, inséré par la loi du 22 décembre 2003;
+
+6° l'article 67quinquies, inséré par la loi du 20 juillet 2005.
+
+##### Art. 47
+
+L'article 36 de la loi du 22 mai 2001 relative aux régimes de participation des travailleurs au capital et aux bénéfices des sociétés, modifié par la loi du 30 décembre 2001, est abrogé.
+
+## CHAPITRE 8. - Disposition finale
+
+##### Art. 48
+
+La présente loi produit ses effets le 1er janvier 2017.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du Sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 18 avril 2017.
+
+PHILIPPE
+
+Par le Roi :
+
+La ministre des Affaires sociales,
+
+M. DE BLOCK
+
+Le ministre des Indépendants,
+
+W. BORSUS
+
+Le ministre des Finances,
+
+J. VAN OVERTVELDT
+
+Scellé du Sceau de l'Etat :
+
+Le ministre de la Justice,
+
+K. GEENS

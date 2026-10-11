@@ -1,0 +1,116 @@
+---
+title: "Loi portant diverses dispositions en matière de fonction publique"
+identifier: "2016002054"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/11/2016002054/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2016-12-11
+published: 2016-12-22
+entry_into_force: 2017-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/11/2016002054/justel"
+department: "Personnel et Organisation"
+retrieved: 2026-10-11
+---
+
+# 11 DECEMBRE 2016. - Loi portant diverses dispositions en matière de fonction publique
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition générale
+
+### Art. 1er
+
+<sup></sup>La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## CHAPITRE 2. - Modification de la loi du 3 juillet 1967 sur la prévention ou la réparation des dommages résultant des accidents du travail, des accidents survenus sur le chemin du travail et des maladies professionnelles dans le secteur public
+
+### Art. 2
+
+L'article 1er, alinéa 1er, de la loi du 3 juillet 1967 sur la prévention ou la réparation des dommages résultant des accidents du travail, des accidents survenus sur le chemin du travail et des maladies professionnelles dans le secteur public, modifié en dernier lieu par la loi du 17 mai 2007, est complété par un 13° rédigé comme suit :
+
+"13° aux juridictions administratives flamandes.".
+
+### Art. 3
+
+Dans l'article 2, alinéa 2, de la même loi, modifié par la loi du 17 mai 2007, est complété par la phrase suivante :
+
+"L'accident causé par le terrorisme, comme défini dans la loi du 1er avril 2007 relative à l'assurance contre les dommages causés par le terrorisme, et survenu dans le cours de l'exercice des fonctions, est considéré comme étant survenu par le fait de l'exercice des fonctions.".
+
+### Art. 4
+
+Dans l'article 14, § 1er, 5°, de la même loi, modifié en dernier lieu par la loi du 6 juin 2010, le d) est abrogé.
+
+### Art. 5
+
+Dans l'article 20novies de la même loi, inséré par la loi du 17 mai 2007, les mots "ceux-ci lui communiquent" sont remplacés par les mots "ceux-ci communiquent à l'autorité et à la victime ou ses ayants droit".
+
+### Art. 6
+
+Dans le chapitre IVbis de la même loi, inséré par la loi du 17 mai 2007, il est inséré un article 20decies rédigé comme suit :
+
+"Art. 20decies. En cas de contestation entre une administration, un service, un organisme, un établissement ou une personne énumérée aux articles 1er et 1erbis auxquels la présente loi a été rendue applicable et le Fonds des Accidents du travail au sujet de la prise en charge de l'accident du travail et de maintien du refus de l'autorité de prendre le cas en charge, le Fonds peut porter le litige devant la juridiction compétente.
+
+Il informe l'autorité par envoi recommandé, ainsi que la victime ou ses ayants droit et, le cas échéant, pour le membre du personnel qui n'a pas la qualité d'agent définitif, l'organisme assureur auquel la victime est affiliée, de son intention de porter le litige devant la juridiction compétente à l'issue d'un délai de trois mois à dater de cet envoi.
+
+La victime ou ses ayants droit peuvent, dans ce délai de trois mois, manifester de manière expresse leur opposition à l'introduction de cette action par le Fonds des Accidents du travail. Dans ce cas, l'action est abandonnée.
+
+Lorsque l'action est introduite devant la juridiction compétente, la victime ou ses ayants droit ainsi que son organisme assureur sont appelés à la cause.
+
+Le jugement à intervenir leur sera opposable.".
+
+## CHAPITRE 3. - Modification de l'arrêté royal n° 279 du30 mars 1984 relatif au paiement à terme échu des traitements de certains agents du secteur public
+
+### Art. 7
+
+A l'article 2 de l'arrêté royal n° 279 du 30 mars 1984 relatif au paiement à terme échu des traitements de certains agents du secteur public, les modifications suivantes sont apportées :
+
+1° dans l'alinéa 1er les mots "sauf le paiement du traitement du mois de décembre qui a lieu le premier jour ouvrable du mois de janvier de l'année suivante" sont abrogés;
+
+2° l'article est complété par un alinéa rédigé comme suit :
+
+"Par dérogation aux alinéas 1er et 2, le paiement du traitement du mois de décembre de l'année 2016 des membres du personnel de la police fédérale et des années 2016 à 2019 des membres du personnel de la police locale a lieu le premier jour ouvrable du mois de janvier de l'année suivante.".
+
+## CHAPITRE 4. - Modification de la loi du 14 décembre 2000 fixant certains aspects de l'aménagement du temps de travail dans le secteur public
+
+### Art. 8
+
+L'article 8, § 3, de la loi du 14 décembre 2000 fixant certains aspects de l'aménagement du temps de travail dans le secteur public, est complété par un alinéa rédigé comme suit :
+
+"En cas de survenance de circonstances imprévisibles nécessitant des mesures urgentes, les repos compensatoires visés à l'alinéa 1er peuvent être remplacés par une compensation financière moyennant l'accord du travailleur.".
+
+## CHAPITRE 5. - Entrée en vigueur
+
+### Art. 9
+
+La présente loi entre en vigueur le 1er jour du mois qui suit sa publication au Moniteur belge, à l'exception de :
+
+1° l'article 2 qui produit ses effets au 1er novembre 2014;
+
+2° l'article 3 qui produit ses effets au 1er janvier 2016.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 11 décembre 2016.
+
+PHILIPPE
+
+Par le Roi :
+
+Le ministre chargé de la Fonction publique,
+
+S. VANDEPUT
+
+Scellé du sceau de l'Etat :
+
+Le ministre de la Justice,
+
+K. GEENS

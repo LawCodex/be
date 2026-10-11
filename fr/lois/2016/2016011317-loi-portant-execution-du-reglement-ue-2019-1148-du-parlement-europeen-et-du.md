@@ -1,0 +1,240 @@
+---
+title: "[Loi portant exécution du Règlement (UE) 2019/1148 du Parlement européen et du Conseil du 20 juin 2019 relatif à la commercialisation et à l'utilisation de précurseurs d'explosifs, modifiant le Règlement (CE) n° 1907/2006 et abrogeant le Règlement (UE) n° 98/2013] <L 2021-11-21/01 , art. 2, 003; En vigueur : 06-12-2021>"
+identifier: "2016011317"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/15/2016011317/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2016-07-15
+published: 2016-07-28
+entry_into_force: 2016-08-07
+last_amended: 2024-03-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2016/07/15/2016011317/justel"
+department: "Economie, PME, Classes moyennes et Energie"
+justel_note: "Consultation des versions antérieures à partir du 28-07-2016 et mise à jour au 21-03-2024"
+retrieved: 2026-10-11
+---
+
+# 15 JUILLET 2016. - [Loi portant exécution du Règlement (UE) 2019/1148 du Parlement européen et du Conseil du 20 juin 2019 relatif à la commercialisation et à l'utilisation de précurseurs d'explosifs, modifiant le Règlement (CE) n° 1907/2006 et abrogeant le Règlement (UE) n° 98/2013] &lt;L 2021-11-21/01 , art. 2, 003; En vigueur : 06-12-2021&gt;
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+[<sup>1</sup> La présente loi vise l'exécution du Règlement (UE) 2019/1148 du Parlement européen et du Conseil du 20 juin 2019 relatif à la commercialisation et à l'utilisation de précurseurs d'explosifs, modifiant le Règlement (CE) n° 1907/2006 et abrogeant le Règlement (UE) n° 98/2013, dénommé ci-après "le Règlement".]<sup>1</sup>
+
+Pour l'application de la présente loi, les définitions figurant à l'article 3 du Règlement sont applicables.
+
+----------
+
+(1)&lt;L 2021-11-21/01, art. 3, 003; En vigueur : 06-12-2021&gt;
+
+## Art. 3
+
+Le Roi peut, en dérogation [<sup>1</sup> à l'article 5]<sup>1</sup>, alinéa 1er, du Règlement, fixer par arrêté délibéré en Conseil des ministres, [<sup>1</sup> un régime de licence, conformément à l'article 6 du Règlement,]<sup>1</sup> permettant la mise à disposition de précurseurs d'explosifs faisant l'objet d'une restriction [<sup>1</sup> aux membres du grand public]<sup>1</sup> et autorisant ces personnes à en introduire sur le territoire, en détenir ou en utiliser.
+
+----------
+
+(1)&lt;L 2021-11-21/01, art. 4, 003; En vigueur : 06-12-2021&gt;
+
+## Art. 4
+
+Le Roi détermine de quelle façon les transactions suspectes, disparitions et vols visés [<sup>1</sup> aux articles 3, 7)]<sup>1</sup> et 9 du Règlement, sont signalés.
+
+----------
+
+(1)&lt;L 2021-11-21/01, art. 5, 003; En vigueur : 06-12-2021&gt;
+
+## Art. 4/1.
+
+[<sup>1</sup> Le Roi peut déterminer le modèle de déclaration du client visé a l'article 8, paragraphe 2, du Règlement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-11-21/01, art. 6, 003; En vigueur : 06-12-2021&gt;
+
+## Art. 5
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres:
+
+1° désigner les précurseurs d'explosifs faisant l'objet d'une restriction et ceux nécessitant une notification qui, outre les substances visées aux annexes I et II du Règlement, tombent sous l'application de la présente loi;
+
+2° fixer une valeur limite de concentration moins élevée pour les substances figurant à l'annexe I du Règlement et les faire relever de l'application de la présente loi;
+
+3° fixer une valeur limite de concentration pour les substances mentionnées à l'annexe II du Règlement, au-delà de laquelle elles seront soumises aux restrictions applicables aux précurseurs d'explosifs faisant l'objet d'une restriction, telles que visées à l'article 3.
+
+## Art. 6
+
+§ 1er. Sans préjudice des compétences exercées par les fonctionnaires de police, les fonctionnaires désignés respectivement par le ministre ayant l'Economie dans ses attributions ou le ministre ayant l'Environnement dans ses attributions, ainsi que les fonctionnaires de l'Administration générale des douanes et accises, sont habilités à rechercher et constater les infractions visées dans le Règlement, dans la présente loi ainsi que dans ses arrêtés d'exécution.
+
+§ 2. Les procès-verbaux dressés par ces fonctionnaires font foi jusqu'à preuve du contraire.
+
+Dans les trente jours qui suivent la constatation de l'infraction, une copie du procès-verbal est envoyée au contrevenant, de la façon prévue à l'article XV.2, § 2, du Code de droit économique.
+
+## Art. 7
+
+Les infractions visées à l'article 10, § 1er, sont recherchées et constatées par les fonctionnaires cités à l'article 6, conformément aux dispositions du livre XV, titre 1er, chapitre 1er, du Code de droit économique.
+
+Dans l'exercice de leur fonction, les fonctionnaires visés à l'article 6 peuvent, sur demande motivée, requérir l'assistance des services de police.
+
+## Art. 7/1.
+
+[<sup>1</sup> § 1er. Lorsqu'il est constaté qu'un acte constitue une infraction à la présente loi ou à ses arrêtés d'exécution, les agents visés à l'article 6, § 1er, peuvent adresser au contrevenant un avertissement le mettant en demeure de mettre fin à cet acte, conformément à l'article XV.31 du Code de droit économique.
+
+§ 2. Lorsque les agents visés à l'article 6, § 1er, constatent des infractions à la présente loi ou à ses arrêtés d'exécution, les agents désignés par le ministre peuvent proposer une somme, dont le paiement volontaire par l'auteur de l'infraction éteint l'action publique, conformément à l'article XV.61 du Code de droit économique.
+
+Le montant de la transaction ne peut être supérieur au montant maximum de l'amende pénale pouvant être infligée pour l'infraction constatée, majorée des décimes additionnels.
+
+Les modalités de paiement et de perception de cette transaction sont arrêtées par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 148, 004; En vigueur : 31-03-2024&gt;
+
+## Art. 8
+
+[<sup>1</sup> § 1er. Dans l'exercice de leur mission de recherche et de constatation des infractions visées par la présente loi, les fonctionnaires visés à l'article 6, à l'exception des fonctionnaires de l'Administration générale des douanes et accises, sont soumis, selon le cas, à la surveillance du procureur général compétent ou du procureur fédéral, sans préjudice de leur subordination à leurs supérieurs au sein de l'administration.
+
+§ 2. Les fonctionnaires de l'Administration générale des douanes et accises agissent, en ce qui concerne les infractions visées à l'article 10, § 2, conformément aux dispositions de la Loi générale sur les douanes et accises.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-04-18/03, art. 61, 002; En vigueur : 04-05-2017&gt;
+
+## Art. 9
+
+Les fonctionnaires visés à l'article 6 sont tenus de garder le secret sur les informations obtenues lors de l'exercice de leur mission de recherche et de constatation des infractions mentionnées à l'article 10.
+
+Le secret professionnel prévu par cet article ne peut être invoqué contre le demandeur qui sollicite l'accès à son propre dossier, lequel n'a pas donné lieu à la constitution d'un dossier judiciaire.
+
+## Art. 9/1.
+
+[<sup>1</sup> § 1er. Les infractions visées à l'article 10, § 1er, ou à ses arrêtés d'exécution peuvent faire l'objet de:
+
+1° l'application de la procédure de transaction telle que visée à l'article 7/1, § 2;
+
+2° une poursuite administrative en application de la procédure visée au titre 1/2 du livre XV du Code de droit économique;
+
+3° une poursuite pénale.
+
+§ 2. La poursuite se fait conformément au titre 1/1 du livre XV du Code de droit économique, à l'exception de l'article XV.60/1, § 2, lorsque les infractions à la présente loi sont recherchées et constatées par les agents désignés par le ministre qui a l'Environnement dans ses attributions et par les agents de l'Administration générale des douanes et accises.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 149, 004; En vigueur : 31-03-2024&gt;
+
+## Art. 9/2.
+
+[<sup>1</sup> Le ministère public notifie aux agents compétents visés à l'article XV.60/4 du Code de droit économique sa décision d'intenter ou non les poursuites pénales ou de proposer ou non une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du même Code.
+
+Lorsque le ministère public renonce à intenter les poursuites pénales et à proposer une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du même Code ou si le ministère public n'a pas pris de décision dans un délai de trois mois à compter du jour de la réception du procès-verbal consignant l'infraction, les agents compétents visés à l'article XV.60/4 du Code de droit économique décident s'il y a lieu d'entamer la procédure d'amende administrative.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 150, 004; En vigueur : 31-03-2024&gt;
+
+## Art. 9/3.
+
+[<sup>1</sup> Si le ministère public renonce à intenter les poursuites pénales et à proposer une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du Code d'instruction criminelle, il envoie une copie des pièces de procédure de l'enquête complémentaire aux agents compétents visés à l'article XV.60/4 du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 151, 004; En vigueur : 31-03-2024&gt;
+
+## Art. 10
+
+§ 1er. [<sup>1</sup> Sans préjudice de l'application de peines plus sévères prévues par le Code pénal, les infractions ou tentatives d'infraction au Règlement, à la présente loi et à ses arrêtés d'exécution, sont punies soit d'une amende pénale de 100 euros à 100.000 euros et d'une peine d'emprisonnement d'un an à cinq ans ou de l'une de ces deux peines seulement, soit d'une amende administrative de 100 à 100.000 euros.]<sup>1</sup>
+
+§ 2. Lorsqu'il s'agit toutefois d'une infraction ou d'une tentative d'infraction concernant l'importation sur le territoire belge depuis un pays tiers de précurseurs d'explosifs faisant l'objet d'une restriction, celle-ci sera sanctionnée conformément aux dispositions de l'article 231, § 1er, de la loi générale sur les douanes et accises.
+
+La peine d'emprisonnement est cependant d'un an à cinq ans et l'amende de 100 euros à 100 000 euros.
+
+L'infraction ou la tentative d'infraction sera poursuivie selon la procédure définie aux articles 249 à 253 et 263 à 284 de la loi générale sur les douanes et accises.
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 152, 004; En vigueur : 31-03-2024&gt;
+
+## Art. 11
+
+En cas de récidive dans un délai de cinq ans à compter d'une condamnation ayant force de chose jugée pour la même infraction, les maxima des amendes ainsi que les peines d'emprisonnement visées à l'article 10 sont doublés.
+
+## Art. 11/1.
+
+[<sup>1</sup> Les dispositions du titre 2, chapitre 1/1, du livre XV du Code de droit économique sont applicables aux amendes administratives visées par la présente loi.
+
+Les décimes additionnels visés à l'article 1er, alinéa 1er, de la loi du 5 mars 1952 relative aux décimes additionnels sur les amendes pénales sont également applicables aux amendes administratives visées dans la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 153, 004; En vigueur : 31-03-2024&gt;
+
+## Art. 11/2.
+
+[<sup>1</sup> Les articles XV.69, XV.71, XV.72, XV.73 et XV.74 du Code de droit économique sont applicables aux infractions pénales à la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 154, 004; En vigueur : 31-03-2024&gt;
+
+## Art. 12
+
+Les associations qui ont la personnalité juridique sont civilement responsables pour les condamnations à des dommages-intérêts, les amendes, les frais, la confiscation, la restitution et les sanctions pécuniaires de toutes formes qui ont été prononcées à l'encontre de leurs organes ou de leur personnel en raison d'infractions aux dispositions du Règlement, de la présente loi et de ses arrêtés d'exécution.
+
+Ceci vaut également pour les membres de toute association sans personnalité juridique, lorsque l'infraction est perpétrée par un associé, un gérant ou un employé durant une opération relevant de l'activité exercée par l'association. L'associé responsable civilement n'est toutefois redevable que des sommes ou valeurs qu'il a perçues lors de l'opération.
+
+Les sociétés, associations et membres peuvent être directement cités devant le juge pénal par le ministère public ou par la partie civile.
+
+## Art. 13
+
+Par dérogation à l'article 43 du Code pénal, le juge peut ordonner la confiscation spéciale des biens faisant l'objet d'une infraction aux dispositions du Règlement, de la présente loi ou de ses arrêtés d'exécution.
+
+Par dérogation à l'article 43 du Code précité, le juge peut ordonner la confiscation spéciale des biens meubles et immeubles qui ont servi ou étaient destinés à produire, fabriquer, transformer, distribuer ou transporter l'objet de l'infraction ainsi que les moyens nécessaires pour prester les services.
+
+Par dérogation à l'article 42, 1°, du Code précité, le juge peut prononcer la confiscation spéciale visée aux alinéas 1er et 2, même si la propriété des biens ou moyens sur lesquels elle porte n'appartient pas au condamné, sans que cette peine puisse porter préjudice aux droits des tiers de bonne foi sur ces biens ou moyens. Si les biens susceptibles de faire l'objet de la confiscation spéciale sont la propriété d'un tiers, l'article 5ter du Titre préliminaire du Code de procédure pénale est appliqué.
+
+La confiscation spéciale peut être appliquée à la contre-valeur des biens et moyens visés à l'alinéa 2, qui sont aliénés entre la commission de l'infraction et la décision judiciaire définitive.
+
+En cas de saisie d'un bien immeuble, il est procédé conformément à l'article 35bis du Code d'instruction criminelle.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 15 juillet 2016.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de l'Economie et des Consommateurs,
+
+K. PEETERS
+
+Le Ministre de la Sécurité et de l'Intérieur,
+
+J. JAMBON
+
+Le Ministre des Finances,
+
+J. VAN OVERTVELDT
+
+La Ministre de l'Environnement,
+
+M. C. MARGHEM
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS

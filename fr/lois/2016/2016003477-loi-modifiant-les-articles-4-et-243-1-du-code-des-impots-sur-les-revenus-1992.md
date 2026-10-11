@@ -1,0 +1,62 @@
+---
+title: "Loi modifiant les articles 4 et 243/1 du Code des impôts sur les revenus 1992"
+identifier: "2016003477"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/25/2016003477/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2016-12-25
+published: 2016-12-30
+entry_into_force: 2017-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/25/2016003477/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 25 DECEMBRE 2016. - Loi modifiant les articles 4 et 243/1 du Code des impôts sur les revenus 1992
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+L'article 4 du Code des impôts sur les revenus 1992, modifié par la loi du 6 juillet 1994, est complété par un 4°, rédigé comme suit:
+
+"4° les personnes physiques inscrites au registre d'attente, conformément à l'article 1er, § 1er, alinéa 1er, 2°, de la loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes d'étranger et aux documents de séjour et modifiant la loi du 8 août 1983 organisant un Registre national des personnes physiques, à l'exception des personnes qui avaient déjà établi leur siège de fortune en Belgique avant leur inscription dans le registre d'attente et des conjoints de contribuables assujettis à l'impôt des personnes physiques pour autant que ces conjoints ne se trouvent pas dans un des cas visés à l'article 126, § 2, alinéa 1er, 1° à 3°. ".
+
+## Art. 3
+
+Dans l'article 243/1, du même Code, inséré par la loi du 8 mai 2014 et modifié par la loi du 10 août 2015, il est inséré un 1° bis, rédigé comme suit:
+
+"1° bis le crédit d'impôt visé à l'article 134, § 3, n'est pas octroyé à la personne visée à l'article 4, 4°, lorsque les conditions d'assujettissement à l'impôt des non-résidents cessent d'être réunies avant le 31 décembre pour une cause autre que le décès ou lorsque ces conditions d'assujettissement ne sont réunies qu'après le 1er janvier;".
+
+## Art. 4
+
+La présente loi est applicable à partir de l'exercice d'imposition lié à la période imposable qui commence le 1er janvier 2017.
+
+---
+
+Donné à Bruxelles, le 25 décembre 2016.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre des Finances,
+
+J. VAN OVERTVELDT
+
+Scellé du sceau de l'Etat:
+
+Le Ministre de la Justice,
+
+K. GEENS

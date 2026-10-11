@@ -1,0 +1,852 @@
+---
+title: "Loi relative au traitement des données des passagers"
+identifier: "2017010166"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/25/2017010166/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2016-12-25
+published: 2017-01-25
+entry_into_force: 2017-08-07
+last_amended: 2026-06-23
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2016/12/25/2017010166/justel"
+department: "Intérieur"
+justel_note: "Consultation des versions antérieures à partir du 25-01-2017 et mise à jour au 23-06-2026"
+retrieved: 2026-10-11
+---
+
+# 25 DECEMBRE 2016. - Loi relative au traitement des données des passagers
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions générales
+
+#### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+#### Art. 2
+
+La présente loi et les arrêtés royaux, qui seront pris en exécution de la présente loi, transposent [<sup>1</sup> ...]<sup>1</sup> la Directive 2016/681 de 27 avril 2016 du Parlement européen et du Conseil relative à l'utilisation des données des dossiers passagers pour la prévention et la détection des infractions terroristes et des formes graves de criminalité, ainsi que pour les enquêtes et les poursuites en la matière. La présente loi et l'arrêté royal concernant le secteur maritime transposent partiellement la directive 2010/65/EU du Parlement européen et du Conseil du 20 octobre 2010 concernant les formalités déclaratives applicables aux navires à l'entrée et/ou à la sortie des ports des Etats membres et abrogeant la directive 2002/6/CE.
+
+----------
+
+(1)&lt;L 2024-05-16/57, art. 2, 005; En vigueur : 15-07-2024&gt;
+
+## CHAPITRE 2. - Champ d'application
+
+#### Art. 3
+
+§ 1er. La présente loi détermine les obligations des transporteurs et des opérateurs de voyage relatives à la transmission des données des passagers à destination du, en provenance du et transitant par le territoire national.
+
+§ 2. Le Roi détermine par arrêté délibéré en Conseil des ministres par secteur de transport et pour les opérateurs de voyage, les données des passagers à transmettre et leurs modalités de transmission, après avis de [<sup>1</sup> l'autorité compétente de contrôle des traitements de données à caractère personnel]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2019-05-02/32, art. 2, 004; En vigueur : 03-06-2019&gt;
+
+## CHAPITRE 3. - Définitions
+
+#### Art. 4
+
+Pour l'application de la présente loi et de ses arrêtés d'exécution, l'on entend par :
+
+1° "transporteur" : toute personne physique ou morale qui assure, à titre professionnel, le transport de personnes par voie aérienne, maritime, ferroviaire ou terrestre;
+
+2° "opérateur de voyage" : tout organisateur ou intermédiaire de voyage au sens de la loi du 16 février 1994 régissant le contrat d'organisation de voyages et le contrat d'intermédiaire de voyages;
+
+3° "transport par voie aérienne" : le transport international, assuré par les entreprises possédant une licence d'exploitation ou l'équivalent, en cours de validité, leur permettant de transporter des passagers par aéronefs;
+
+4° "transport par voie terrestre" : le transport international régulier par bus lorsque le lieu de départ, de transit ou d'arrivée se trouve sur le territoire national, à l'exception du transport visé à l'article 6, § 1er, X, alinéa 1er, 8°, de la loi spéciale du 8 août 1980 de réformes institutionnelles;
+
+5° [<sup>2</sup> "transport par voie ferroviaire": tout service international de transport de voyageurs par train à grande vitesse qui est exploité sur une ligne à grande vitesse au sens de l'annexe 14 du Code ferroviaire et dont la gare de départ, d'arrivée ou de transit est située en Belgique;]<sup>2</sup>
+
+6° "transport par voie maritime" : une traversée par mer à caractère international à l'aide d'un navire transportant des passagers à destination, en provenance ou transitant par un port situé en Belgique;
+
+7° "L'UIP" : l'Unité d'information des passagers visée au chapitre 7;
+
+8° "les services compétents" : les services visés à l'article 14, § 1er, 2° ;
+
+9° "PNR" : le dossier relatif aux conditions de voyage de chaque passager, qui contient les informations visées à l'article 9, nécessaires pour permettre le traitement et le contrôle des réservations par les transporteurs et les opérateurs de voyage concernés qui assurent les réservations, pour chaque voyage réservé par une personne ou en son nom, que ce dossier figure dans des systèmes de réservation, des systèmes de contrôle des départs (utilisés pour contrôler les passagers lors de l'embarquement) ou des systèmes équivalents offrant les mêmes fonctionnalités;
+
+10° "passager" : toute personne, y compris une personne en correspondance ou en transit et à l'exception du personnel d'équipage, transportée ou devant être transportée par le transporteur, avec le consentement de ce dernier, lequel se traduit par l'inscription de cette personne sur la liste des passagers;
+
+11° "journalisation" : le mécanisme visé à l'article 23, § 2, permettant le traçage des traitements de données effectués afin qu'il soit possible d'identifier la personne qui a consulté des données, les données consultées, le moment et la finalité de cette consultation;
+
+12° [<sup>1</sup> "loi relative à la protection des données": la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel ;]<sup>1</sup>
+
+13° [<sup>1</sup> " traitement " : le traitement au sens des articles 26, 2° et 168, § 1er de la loi relative à la protection des données et de l'article 4.2 du Règlement (UE)2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données);]<sup>1</sup>
+
+14° "dépersonnalisation par masquage d'éléments de données" : le fait de rendre invisible pour un utilisateur des éléments de données qui pourraient servir à identifier directement la personne concernée, visé à l'article 19;
+
+15° [<sup>2</sup> ...]<sup>2</sup>
+
+16° [<sup>2</sup> ...]<sup>2</sup>
+
+17° "données des passagers" : les données contenues dans le PNR;
+
+18° "délégué à la protection des données" : la personne chargée au sein du Service Public Fédéral Intérieur des tâches visées à l'article 44;
+
+[<sup>2</sup> 19° "autorité compétente": une autorité mentionnée sur la liste notifiée à la Commission européenne en vertu de l'article 7, paragraphe 3, de la directive (UE) 2016/681 du Parlement européen et du Conseil du 27 avril 2016 relative à l'utilisation des données des dossiers passagers (PNR) pour la prévention et la détection des infractions terroristes et des formes graves de criminalité, ainsi que pour les enquêtes et les poursuites en la matière.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2019-05-02/32, art. 3, 004; En vigueur : 03-06-2019&gt;
+
+(2)&lt;L 2024-05-16/57, art. 3, 005; En vigueur : 15-07-2024&gt;
+
+## CHAPITRE 4. - Obligations des transporteurs et opérateurs de voyage
+
+#### Art. 5
+
+Chaque transporteur et opérateur de voyage recueille et transmet les données des passagers à destination de, en provenance de et transitant par le territoire national, dont il dispose, en vue de leur enregistrement dans la banque de données passagers visée à l'article 15.
+
+#### Art. 6
+
+Les transporteurs et les opérateurs de voyage informent les personnes concernées que leurs données sont transmises à l'UIP et peuvent être traitées ultérieurement pour les finalités visées à l'article 8.
+
+#### Art. 7
+
+§ 1er. Les transporteurs transmettent les données des passagers visées à l'article 9, § 1er, dont ils disposent, et s'assurent que les données de passagers visées à l'article 9, § 1er, 18°, dont ils disposent, sont complètes, exactes et actuelles. A cette fin, ils vérifient la correspondance entre les documents de voyage et l'identité du passager concerné.
+
+§ 2. Les opérateurs de voyage transmettent les données des passagers visées à l'article 9, § 1er, dont ils disposent, et s'assurent que les données des passagers visées à l'article 9, § 1er, 18°, dont ils disposent, sont complètes, exactes et actuelles. A cette fin, ils prennent toutes les mesures nécessaires afin de vérifier la correspondance entre les documents de voyage et l'identité du passager concerné.
+
+§ 3. Le Roi détermine par arrêté délibéré en Conseil des ministres par secteur de transport et pour les opérateurs de voyage, les modalités relatives à l'obligation prévue aux §§ 1er et 2.
+
+## CHAPITRE 5. - Finalités du traitement des données
+
+#### Art. 8
+
+[<sup>1</sup> § 1er. Les données des passagers peuvent uniquement être traitées à des fins de prévention, de détection, d'enquêtes et de poursuites en la matière, soit:
+
+1° des infractions terroristes prévues par le Code pénal en vertu de la directive (UE) 2017/541 du Parlement européen et du Conseil du 15 mars 2017 relative à la lutte contre le terrorisme et remplaçant la décision-cadre 2002/475/JAI du Conseil et modifiant la décision 2005/671/JAI du Conseil; soit
+
+2° des infractions de criminalité grave, listées à l'Annexe II de la directive (UE) 2016/681 du Parlement européen et du Conseil du 27 avril 2016 relative à l'utilisation des données des dossiers passagers (PNR) pour la prévention et la détection des infractions terroristes et des formes graves de criminalité, ainsi que pour les enquêtes et les poursuites en la matière, qui sont passibles d'une peine privative de liberté d'une durée maximale d'au moins trois ans au titre du droit national.
+
+§ 2. Les infractions terroristes et de criminalité grave doivent présenter un lien objectif, direct ou indirect, avec le transport international.
+
+§ 3. Sur la proposition conjointe du ministre qui a l'Intérieur dans ses attributions et du ministre qui a la Justice dans ses attributions, le Roi établit par arrêté délibéré en Conseil des ministres, une liste des infractions visées au paragraphe 1er, en vue de fournir un cadre de référence aux autorités compétentes et à l'UIP. La liste est évaluée, au moins tous les trois ans, et actualisée le cas échéant.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-16/57, art. 4, 005; En vigueur : 15-07-2024&gt;
+
+## CHAPITRE 6. - Données des passagers
+
+#### Art. 9
+
+§ 1er. [<sup>1</sup> ...]<sup>1</sup> les données des passagers comprennent au maximum :
+
+1° le code repère du PNR;
+
+2° la date de réservation et d'émission du billet;
+
+3° les dates prévues du voyage;
+
+4° les noms, prénoms et la date de naissance;
+
+5° l'adresse et les coordonnées (numéro de téléphone, adresse électronique);
+
+6° les informations relatives aux modes de paiement, y compris l'adresse de facturation;
+
+7° l'itinéraire complet pour le passager concerné;
+
+8° les informations relatives aux "voyageurs enregistrés", c'est-à-dire les grands voyageurs;
+
+9° l'agence de voyage ou l'agent de voyage;
+
+10° le statut du voyageur, y compris les confirmations, l'enregistrement, la non-présentation, ou un passager de dernière minute sans réservation;
+
+11° les indications concernant la scission ou la division du PNR;
+
+12° les remarques générales, y compris toutes les informations disponibles sur les mineurs non accompagnés de moins de 18 ans, telles que le nom et le sexe du mineur, son âge, la ou les langues parlées, le nom et les coordonnées du tuteur présent au départ et son lien avec le mineur, le nom et les coordonnées du tuteur présent à l'arrivée et son lien avec le mineur, l'agent présent au départ et à l'arrivée;
+
+13° les informations relatives à l'établissement des billets, y compris le numéro du billet, la date d'émission, les allers simples, les champs de billets informatisés relatifs à leur prix;
+
+14° le numéro du siège et autres informations concernant le siège;
+
+15° les informations sur le partage de code;
+
+16° toutes les informations relatives aux bagages;
+
+17° le nombre et les noms des autres voyageurs figurant dans le PNR;
+
+18° [<sup>1</sup> toutes les données préalables sur les passagers (données API) qui ont été collectées et qui contiennent au maximum:
+
+\- le type, le numéro, le pays de délivrance et la date d'expiration du document de voyage;
+
+\- la nationalité, le nom de famille et prénom, le sexe et la date de naissance du passager;
+
+\- le transporteur/opérateur de voyage, le numéro du transport, la date, l'heure et le lieu de départ, la date, l'heure et le lieu d'arrivée;
+
+\- le nombre total de personnes transportées;
+
+\- le numéro de siège;
+
+\- le code repère du PNR;
+
+\- le nombre, le poids et l'identification des bagages;
+
+\- le point de passage frontalier utilisé pour entrer sur le territoire national;]<sup>1</sup>
+
+19° l'historique complet des modifications des données énumérées aux 1° à 18° ;
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-16/57, art. 5, 005; En vigueur : 15-07-2024&gt;
+
+#### Art. 10
+
+Les données des passagers ne peuvent pas concerner l'origine raciale ou ethnique d'une personne, ses convictions religieuses ou philosophiques, ses opinions politiques, son appartenance à une organisation syndicale, ou les données concernant son état de santé, sa vie sexuelle ou son orientation sexuelle.
+
+#### Art. 11
+
+Lorsque les données des passagers transférées par les transporteurs et opérateurs de voyages comportent des données autres que celles énumérées à l'article 9 ou comportent des données comme énumérées à l'article 10, l'UIP efface ces données supplémentaires dès leur réception et de façon définitive.
+
+## CHAPITRE 7. - L'Unité d'information des passagers
+
+#### Art. 12
+
+Il est créé, au sein du Service Public Fédéral Intérieur une Unité d'information des passagers.
+
+#### Art. 13
+
+§ 1er. L'UIP est chargée de :
+
+1° la collecte, de la conservation et du traitement des données des passagers transmises par les transporteurs et les opérateurs de voyage, ainsi que de la gestion de la banque de données des passagers;
+
+2° l'échange, à la fois des données des passagers et des résultats de leur traitement, avec les UIP d'autres Etats membres de l'Union européenne, avec Europol, et avec les pays tiers, conformément au chapitre 12.
+
+§ 2. Sans préjudice d'autres dispositions légales, l'UIP ne peut utiliser les données conservées en vertu du chapitre 9 pour d'autres finalités que celles visées à l'article 8.
+
+#### Art. 14
+
+§ 1er. L'UIP est composée :
+
+1° d'un fonctionnaire dirigeant, assisté par un service d'appui, responsable :
+
+a) de l'organisation et du fonctionnement de l'UIP;
+
+b) du contrôle du respect par les transporteurs et les opérateurs de voyage de leurs obligations prévues au chapitre 4;
+
+c) de la gestion et de l'exploitation de la banque de données des passagers;
+
+d) du traitement des données de passagers;
+
+e) du respect de la légalité et de la régularité des traitements visés au chapitre 10;
+
+f) du soutien des services compétents pour l'exécution de leurs compétences au sein de l'UIP.
+
+2° de membres détachés issus des services compétents suivants :
+
+a) des Services de police visés par la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux;
+
+b) de la Sûreté de l'Etat visée par la loi du 30 novembre 1998 organique des services de renseignement et de sécurité;
+
+c) du Service général de Renseignement et de Sécurité visé par la loi du 30 novembre 1998 organique des services de renseignement et de sécurité;
+
+d) [<sup>1</sup> Les services d'enquête, les services de recherche et les services chargés de la surveillance, du contrôle et de la constatation de l'Administration générale des Douanes et Accises;]<sup>1</sup>
+
+Durant la période de leur détachement, les membres des services compétents sont placés sous l'autorité fonctionnelle et hiérarchique du fonctionnaire dirigeant de l'UIP. Toutefois, ceux-ci gardent le statut de leur service d'origine.
+
+§ 2. Après concertation avec le délégué à la protection des données et après avis de [<sup>2</sup> l'autorité compétente de contrôle des traitements de données à caractère personnel]<sup>2</sup>, le fonctionnaire dirigeant de l'UIP et les services compétents concluent le protocole d'accord visé à l'article 17 afin de déterminer les modalités relatives à la transmission des données. Le protocole prévoit au minimum les garanties suivantes :
+
+\- les modalités relatives à l'échange des données;
+
+\- les délais maximaux déterminés par la loi pour le traitement des données;
+
+\- l'information de l'UIP par les services compétents de la suite donnée aux correspondances positives validées.
+
+§ 3. Conformément aux obligations légales de chaque service compétent, l'Autorité Nationale de Sécurité homologue un système de communication et d'informations sécurisé et crypté en vue de l'envoi automatisé des correspondances positives.
+
+§ 4. [<sup>1</sup> Le Roi détermine par arrêté délibéré en Conseil des ministres et après avis de l'autorité compétente de contrôle des traitements de données à caractère personnel, les modalités de composition et d'organisation de l'UIP ainsi que le statut du fonctionnaire dirigeant et des membres de l'UIP.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-07-15/08, art. 63, 003; En vigueur : 05-10-2018&gt;
+
+(2)&lt;L 2019-05-02/32, art. 2, 004; En vigueur : 03-06-2019&gt;
+
+## CHAPITRE 8. - La banque de données des passagers
+
+#### Art. 15
+
+§ 1er. Il est créé une banque de données des passagers gérée par le Service Public Fédéral Intérieur dans laquelle sont enregistrées les données de passagers.
+
+§ 2. Le fonctionnaire dirigeant de l'UIP est le responsable du traitement [<sup>2</sup> des données des passagers]<sup>2</sup> au sens de [<sup>4</sup> l'article 26, 8°]<sup>4</sup>, de la [<sup>4</sup> loi relative à la protection des données]<sup>4</sup>.
+
+§ 3. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 4. Les traitements des données des passagers effectués en vertu de la présente loi sont soumis à [<sup>4</sup> loi relative à la protection des données]<sup>4</sup> à l'égard des traitements de données à caractère personnel. [<sup>3</sup> L'autorité compétente de contrôle des traitements de données à caractère personnel]<sup>3</sup> exerce les compétences prévues dans la loi relative à la protection de la vie privée.
+
+----------
+
+(1)&lt;L 2018-07-30/46, art. 280, 002; En vigueur : 05-09-2018&gt;
+
+(2)&lt;L 2018-07-15/08, art. 64, 003; En vigueur : 05-10-2018&gt;
+
+(3)&lt;L 2019-05-02/32, art. 2, 004; En vigueur : 03-06-2019&gt;
+
+(4)&lt;L 2019-05-02/32, art. 4, 004; En vigueur : 03-06-2019&gt;
+
+#### Art. 16
+
+Dans le cadre des finalités visées à l'article 8, § 1er, la banque de données des passagers est directement accessible par l'UIP pour les traitements visés aux articles 24 à 27, conformément aux dispositions prévues au chapitre 9.
+
+#### Art. 17
+
+[<sup>1</sup> Après concertation avec le délégué à la protection des données et après avis de l'autorité compétente de contrôle des traitements de données à caractère personnel, le fonctionnaire dirigeant de l'UIP et les services compétents concluent un protocole d'accord mettant en oeuvre les modalités techniques de sécurisation et d'accès.
+
+Ce protocole:
+
+1° garantit que les données traitées sont soumises aux mêmes exigences de sécurité et de protection;
+
+2° veille à ce que les mesures de protection nécessaires soient prises afin:
+
+\- de respecter les obligations qui découlent des règles concernant les délais définis dans la présente loi, la conservation et la destruction des données conservées dans la banque de données des passagers;
+
+\- de rendre les données inaccessibles pour toute personne qui n'est pas autorisée à y avoir accès;
+
+\- d'assurer que les traitements effectués par les membres de l'UIP soient conformes à la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité;
+
+3° prévoit que des autorisations d'accès aux données des passagers et des profils d'utilisateurs communs et spécifiques sont attribuées à toute personne susceptible d'accéder aux données des passagers;
+
+4° garantit que les données sont conservées sur le territoire de l'Union européenne.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-07-15/08, art. 65, 003; En vigueur : 05-10-2018&gt;
+
+## CHAPITRE 9. - Des délais de conservation
+
+#### Art. 18
+
+Les données des passagers sont conservées dans la banque de données des passagers pour une durée maximale de cinq ans à compter de leur enregistrement. A l'issue de ce délai, elles sont détruites.
+
+#### Art. 19
+
+A l'expiration d'une période de six mois, à compter de l'enregistrement des données des passagers dans la banque de données des passagers, toutes les données des passagers sont dépersonnalisées, par masquage des éléments d'information suivants, pouvant servir à identifier directement le passager auquel se rapportent les données :
+
+1° le(s) nom(s), notamment les noms d'autres passagers, ainsi que le nombre de passagers voyageant ensemble;
+
+2° l'adresse et les coordonnées;
+
+3° tous les modes de paiement, y compris l'adresse de facturation, dans la mesure où y figurent des informations pouvant servir à identifier directement le passager ou toute autre personne;
+
+4° les informations concernant les grands voyageurs;
+
+5° les remarques générales, dans la mesure où elles comportent des informations pouvant servir à identifier directement le passager; et
+
+6° toutes les données visées à l'article 9, § 1er, 18°.
+
+#### Art. 20
+
+A l'expiration de la période de six mois visée à l'article 19, la communication de l'intégralité des données des passagers n'est autorisée que pour le traitement des données prescrit par l'article 27 et uniquement selon les conditions prévues par cette disposition.
+
+#### Art. 21
+
+§ 1er. L'UIP veille à ce que les données des passagers soient effacées de sa banque de données de manière définitive à l'issue de la période visée à l'article 18.
+
+§ 2. Cette obligation s'applique sans préjudice des cas où des données spécifiques ont été transférées et sont utilisées dans le cadre de cas particuliers à des fins de prévention, de détection d'infractions terroristes ou de formes graves de criminalité ou d'enquêtes, ou de poursuites en la matière. Dans ce cas, la conservation de ces données obéit aux règles particulières en la matière.
+
+§ 3. Le résultat du traitement visé à l'article 24 n'est conservé par l'UIP que le temps nécessaire pour informer les autorités compétentes et, conformément à l'article 36, pour informer les UIP des autres Etats membres de l'Union européenne de l'existence d'une correspondance positive.
+
+Lorsque, à la suite du réexamen individuel visé à l'article 24, § 4, le résultat du traitement s'est révélé négatif, il peut néanmoins être archivé tant que les données de base n'ont pas été effacées sur la base de l'article 18, de manière à éviter de fausses correspondances positives.
+
+#### Art. 22
+
+Le fonctionnaire dirigeant et le délégué à la protection des données visé au chapitre 13 ont accès à toutes les données pertinentes dans le cadre de l'accomplissement de leurs missions.
+
+#### Art. 23
+
+§ 1er. Le traitement des données fait l'objet d'une journalisation et est en corrélation directe avec les finalités prévues à l'article 8.
+
+§ 2. L'UIP veille à la journalisation en conservant pendant cinq ans une trace documentaire de tous les systèmes et procédures de traitement sous sa responsabilité. Cette trace documentaire comprend au minimum :
+
+1° le nom et les coordonnées de l'organisation et du personnel chargés du traitement des données des passagers au sein de l'UIP ainsi que leurs demandes et les différents niveaux d'autorisation d'accès;
+
+2° un registre des opérations de traitement qui indique au minimum l'identité de la personne qui a traité les données des passagers;
+
+3° les demandes formulées par les autorités compétentes et les UIP d'autres Etats membres de l'Union européenne;
+
+4° toutes les demandes et tous les transferts de données vers un pays tiers.
+
+L'UIP met ces traces documentaires à la disposition de [<sup>1</sup> l'autorité compétente de contrôle des traitements de données à caractère personnel]<sup>1</sup>, à la demande de celle-ci.
+
+----------
+
+(1)&lt;L 2019-05-02/32, art. 2, 004; En vigueur : 03-06-2019&gt;
+
+## CHAPITRE 10. - Le traitement des données
+
+### Section 1re. - Le traitement des données de passagers dans le cadre de l'évaluation préalable des passagers
+
+#### Art. 24
+
+§ 1er. Les données des passagers sont traitées en vue de la réalisation d'une évaluation préalable des passagers avant leur arrivée, leur départ ou leur transit prévu sur le territoire national afin de déterminer quelles personnes doivent être soumises à un examen plus approfondi.
+
+§ 2. [<sup>1</sup> Dans le cadre des finalités visées à l'article 8, [<sup>3</sup> ...]<sup>3</sup> l'évaluation préalable des passagers repose sur une correspondance positive, résultant d'une corrélation des données des passagers avec:]<sup>1</sup>
+
+1° les banques de données gérées par les services compétents ou qui leur sont directement disponibles ou accessibles dans le cadre de leurs missions ou avec des listes de personnes élaborées par les services compétents dans le cadre de leurs missions.
+
+2° les critères d'évaluation préétablis par l'UIP, visés à l'article 25.
+
+[<sup>2</sup> Dans le cadre de la finalité visée à l'alinéa 1er pour laquelle la correspondance positive a été obtenue, l'exploitation des données des passagers dans le cadre de l'évaluation préalable repose, pendant une période de vingt-quatre heures à partir de la validation visée au paragraphe 4, sur :
+
+1° les données des passagers pertinentes du même transport que celui dont est issu la correspondance positive, pour autant que ces données soient corrélées avec les données reprises dans la correspondance positive.
+
+2° les autres données des passagers enregistrées dans la banque de données des passagers de la personne ayant fait l'objet de la correspondance positive, sans préjudice de l'application des articles 19 et 20.]<sup>2</sup>
+
+§ 3. [<sup>3</sup> ...]<sup>3</sup>
+
+§ 4. La correspondance positive est validée par l'UIP dans les vingt-quatre heures après réception de la notification automatisée de la correspondance positive.
+
+§ 5. Dès le moment de cette validation, le service compétent, qui est à l'origine de cette correspondance positive, donne une suite utile le plus rapidement possible.
+
+----------
+
+(1)&lt;L 2018-07-15/08, art. 66, 003; En vigueur : 05-10-2018&gt;
+
+(2)&lt;L 2019-05-02/32, art. 5, 004; En vigueur : 03-06-2019&gt;
+
+(3)&lt;L 2024-05-16/57, art. 6, 005; En vigueur : 15-07-2024&gt;
+
+### Section 1re/1. [<sup>1</sup> - L'analyse des données des passagers en vue de définir des critères préétablis]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-16/57, art. 7, 005; En vigueur : 15-07-2024&gt;
+
+#### Art. 25
+
+§ 1er. Les données des passagers peuvent être exploitées par l'UIP pour mettre à jour ou définir de nouveaux critères destinés à cibler des individus lors des évaluations préalables des passagers, visées à l'article 24, § 2, 2°
+
+§ 2. L'évaluation des passagers avant leur arrivée, leur transit ou leur départ au regard des critères préétablis est réalisée de façon non-discriminatoire. Ces critères ne peuvent viser l'identification d'un individu et doivent être ciblés, proportionnés et spécifiques.
+
+§ 3. Ces critères ne peuvent pas être fondés sur des données qui révèlent l'origine raciale ou ethnique d'une personne, ses convictions religieuses ou philosophiques, ses opinions politiques, son appartenance à une organisation syndicale, son état de santé, sa vie sexuelle ou son orientation sexuelle.
+
+#### Art. 26
+
+&lt;Abrogé par L 2024-05-16/57, art. 8, 005; En vigueur : 15-07-2024&gt;
+
+### Section 2. - Le traitement des données dans le cadre des recherches ponctuelles
+
+#### Art. 27
+
+[<sup>1</sup> § 1er. Les autorités compétentes peuvent introduire, au cas par cas, une demande dûment motivée visant à ce que des données des passagers ou le résultat du traitement de ces données leur soient communiqués et à ce que celles-ci fassent l'objet d'un traitement dans un cas spécifique, aux fins prévues à l'article 8.
+
+§ 2. Dans la motivation, sont mentionnés:
+
+1° les circonstances qui justifient la demande;
+
+2° l'infraction en cause et son lien objectif avec le transport international;
+
+3° les éléments objectifs fondant un soupçon raisonnable d'implication de la personne ou des personnes concernées dans ladite infraction.
+
+§ 3. La demande est transmise à l'UIP après qu'elle a été approuvée au préalable par une autorité indépendante et impartiale. Cette décision est jointe à la demande.
+
+§ 4. En cas d'urgence dûment justifiée, le contrôle visé au paragraphe 3 est réalisé dans les meilleurs délais et au plus tard dans les 48 heures.
+
+Si l'approbation prévue au paragraphe 3 n'est pas obtenue, l'autorité compétente qui a reçu les données les efface immédiatement.
+
+§ 5. Lorsque le contrôle visé aux paragraphes 3 et 4 n'est pas réalisé par une autorité judiciaire, le délégué à la protection des données est informé des communications de données effectuées et peut procéder à un contrôle postérieur.
+
+§ 6. Par dérogation aux paragraphes 4 et 5, les données des passagers visées au paragraphe 1er qui sont communiquées au Ministère public et aux cours et tribunaux de droit commun dans le cadre d'enquêtes et de procédures pénales ne peuvent être vérifiées et effacées que conformément aux règles du Code d'instruction criminelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-16/57, art. 9, 005; En vigueur : 15-07-2024&gt;
+
+## CHAPITRE 11. - Le traitement des données des passagers en vue de l'amélioration du contrôle aux frontières et de la lutte contre l'immigration illégale
+
+#### Art. 28
+
+§ 1er. Le présent chapitre s'applique au traitement des données des passagers par les services de police chargés du contrôle aux frontières et par l'Office des étrangers en vue de l'amélioration des contrôles de personnes aux frontières extérieures et en vue de lutter contre l'immigration illégale.
+
+§ 2. Il s'applique sans préjudice des obligations qui incombent aux services de police chargés du contrôle aux frontières et à l'Office des étrangers de transmettre des données à caractère personnel ou d'informations en vertu de dispositions légales ou réglementaires.
+
+NOTE: art. 28 annulé par ACC 2023-12-05/01; En vigueur : 25-12-2016
+
+#### Art. 29
+
+§ 1er. Aux fins visées à l'article 28, § 1er, les données de passagers sont transmises aux services de police [<sup>2</sup> visés à l'article 14, § 1er, 2°, a)]<sup>2</sup> et à l'Office des étrangers pour leur permettre d'exercer leurs missions légales, dans les limites prévues au présent article.
+
+§ 2. Seules les données de passagers visées à l'article 9, § 1er, 18°, concernant les catégories de passagers suivantes sont transmises :
+
+1° les passagers qui envisagent d'entrer ou sont entrés sur le territoire par les frontières extérieures de la Belgique;
+
+2° les passagers qui envisagent de quitter ou ont quitté le territoire par les frontières extérieures de la Belgique;
+
+3° les passagers qui envisagent de passer par, se trouvent dans ou sont passés par une zone internationale de transit située en Belgique.
+
+§ 3. Les données de passagers visées au § 2 sont transmises aux services de police [<sup>2</sup> visés à l'article 14, § 1er, 2°, a)]<sup>2</sup> immédiatement après leur enregistrement dans la banque de données de passagers. Ceux-ci conservent ces données dans un fichier temporaire et les détruisent dans les vingt-quatre heures qui suivent la transmission.
+
+§ 4. Lorsqu'il en a besoin pour l'exercice de ses missions légales, les données de passagers visées au § 2 sont transmises à l'Office des étrangers immédiatement après leur enregistrement dans la banque de données de passagers. Celui-ci conserve ces données dans un fichier temporaire et les détruit dans les vingt-quatre heures qui suivent la transmission.
+
+Si à l'expiration de ce délai, l'accès aux données des passagers visées au § 2 est nécessaire dans le cadre de l'exercice de ses missions légales, l'Office des étrangers adresse une requête dûment motivée à l'UIP.
+
+L'Office des étrangers transmet mensuellement un rapport à [<sup>1</sup> l'autorité compétente de contrôle des traitements de données à caractère personnel]<sup>1</sup> concernant l'application de l'alinéa 2.
+
+Le Roi détermine par arrêté délibéré en Conseil des ministres et après avis de [<sup>1</sup> l'autorité compétente de contrôle des traitements de données à caractère personnel]<sup>1</sup> les conditions d'accès visées à l'alinéa 2.
+
+NOTE: art. 29 annulé par ACC 2023-12-05/01; En vigueur : 25-12-2016
+
+----------
+
+(1)&lt;L 2019-05-02/32, art. 2, 004; En vigueur : 03-06-2019&gt;
+
+(2)&lt;L 2019-05-02/32, art. 7, 004; En vigueur : 03-06-2019&gt;
+
+#### Art. 30
+
+§ 1er. Les modalités techniques de sécurisation et d'accès, ainsi que les modalités de transmission des données des passagers aux services de police chargés du contrôle aux frontières et à l'Office des étrangers sont précisées dans un protocole conclu en concertation avec le délégué à la protection des données et après avis de [<sup>1</sup> l'autorité compétente de contrôle des traitements de données à caractère personnel]<sup>1</sup> entre le fonctionnaire dirigeant de l'UIP, d'une part, et le Commissaire général de la police fédérale et le fonctionnaire dirigeant de l'Office des étrangers, chacun en ce qui le concerne, d'autre part.
+
+§ 2. Ces modalités portent au moins sur :
+
+1° le besoin de l'Office des étrangers de connaître les données;
+
+2° les catégories des membres du personnel qui sur la base de l'exécution de leurs missions disposent d'un accès direct aux données transmises;
+
+3° l'obligation du respect du secret professionnel par toutes les personnes qui prennent directement ou indirectement connaissance des données de passagers;
+
+4° les mesures de sécurité en relation avec leur transmission.
+
+NOTE: art. 30 annulé par ACC 2023-12-05/01; En vigueur : 25-12-2016
+
+----------
+
+(1)&lt;L 2019-05-02/32, art. 2, 004; En vigueur : 03-06-2019&gt;
+
+#### Art. 31
+
+Dans les vingt-quatre heures après la fin du transport, visé à l'article 4, 3° à 6°, les transporteurs et les opérateurs de voyage détruisent toutes les données des passagers visées [<sup>1</sup> à l'article 9, § 1er, 18°]<sup>1</sup>, qu'ils transfèrent conformément à l'article 7.
+
+NOTE: art. 31 annulé par ACC 2023-12-05/01; En vigueur : 25-12-2016
+
+----------
+
+(1)&lt;L 2018-07-15/08, art. 68, 003; En vigueur : 05-10-2018&gt;
+
+## CHAPITRE 12. - L'échange international des données
+
+### Section 1re. - Dispositions générales
+
+#### Art. 32
+
+L'échange des données passagers et du résultat du traitement des données des passagers s'effectue conformément aux dispositions légales ou aux instruments de droit liant la Belgique en matière de coopération internationale permettant ou imposant la transmission du résultat du traitement des données des passagers, par les services compétents à d'autres autorités et services.
+
+#### Art. 33
+
+Sans préjudice des instruments de droit liant la Belgique en matière de coopération internationale, l'échange des données des passagers et du résultat du traitement des données des passagers s'effectue conformément aux finalités visées à l'article 8 et [<sup>1</sup> aux articles 66 à 70 ou aux articles 182 et 183 de la loi relative à la protection à l'égard des données à caractère personnel]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2019-05-02/32, art. 8, 004; En vigueur : 03-06-2019&gt;
+
+#### Art. 34
+
+&lt;Abrogé par L 2019-05-02/32, art. 9, 004; En vigueur : 03-06-2019&gt;
+
+#### Art. 35
+
+Chaque fois que l'UIP transfère des données passagers en vertu du présent chapitre, elle en informe le délégué à la protection des données.
+
+### Section 2. - L'échange de données entre les Etats membres de l'Union européenne
+
+#### Art. 36
+
+§ 1er. Lorsqu'une personne est identifiée conformément au traitement des données des passagers visées à l'article 24, l'UIP communique aux autres UIP concernées toutes les données pertinentes et nécessaires ou le résultat du traitement de ces données.
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-02/32, art. 9, 004; En vigueur : 03-06-2019&gt;
+
+#### Art. 37
+
+§ 1er. [<sup>1</sup> L'UIP transmet, le plus rapidement possible, à l'UIP de l'Etat membre de l'Union européenne, ou en cas d'urgence, à un service compétent de l'Etat membre de l'Union européenne [<sup>2</sup> ...]<sup>2</sup>, qui lui en fait la demande, les données des passagers conservées dans sa banque de données [<sup>2</sup> ...]<sup>2</sup> ainsi que, si nécessaire le résultat du traitement de ces données, s'il a déjà été réalisé conformément à l'article 24.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> L'UIP requérante ou, le cas échéant, l'autorité visée au § 1er, motive la demande par la nécessité d'obtenir ces données dans un cas précis aux fins de prévention, de détection d'infractions terroristes ou de formes graves de criminalité ou d'enquête ou de poursuites en la matière.
+
+Le service compétent envoie une copie de la demande introduite conformément au § 1er à l'UIP de l'Etat membre requérant.]<sup>1</sup>
+
+§ 3. [<sup>2</sup> Les données demandées en vertu du présent article ne sont transmises par l'UIP que si toutes les dispositions de l'article 27 sont respectées et si une autorité indépendante et impartiale de l'Etat membre requérant a préalablement approuvé la demande.
+
+L'UIP refuse de transmettre les données demandées si la demande ne contient pas la décision prise par l'autorité visée à l'alinéa 1er ou si son exécution porte atteinte à l'ordre public.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2018-07-15/08, art. 69, 003; En vigueur : 05-10-2018&gt;
+
+(2)&lt;L 2024-05-16/57, art. 10, 005; En vigueur : 15-07-2024&gt;
+
+#### Art. 38
+
+[<sup>1</sup> § 1er. L'UIP, ou en cas d'urgence, un service compétent visé à l'article 14, § 1er, 2°, peut introduire une demande auprès de l'UIP d'un Etat membre de l'Union européenne visant le transfert de données des passagers ou le résultat du traitement de ces données. L'UIP conserve les données reçues le cas échéant, conformément aux dispositions de la présente loi.
+
+§ 2. L'UIP ou, le cas échéant, le service visé au § 1er, motive la demande par la nécessité d'obtenir ces données dans un cas précis aux fins de prévention, de détection d'infractions terroristes ou de formes graves de criminalité ou d'enquête ou de poursuites en la matière.
+
+Le service compétent envoie une copie de la demande introduite conformément au § 1er à l'UIP.]<sup>1</sup>
+
+[<sup>2</sup> § 3. La demande visée au paragraphe 1er est soumise au contrôle organisé à l'article 27, §§ 3 et 4.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2018-07-15/08, art. 70, 003; En vigueur : 05-10-2018&gt;
+
+(2)&lt;L 2024-05-16/57, art. 11, 005; En vigueur : 15-07-2024&gt;
+
+#### Art. 39
+
+Aux fins prévues à l'article 8, l'UIP peut, à la demande de l'UIP d'un autre Etat membre de l'Union européenne, à titre exceptionnel, lorsque l'accès à des données des passagers (PNR) est nécessaire pour répondre à une menace précise et réelle liée à des infractions terroristes ou à des formes graves de criminalité, qui sont définies à l'article 3, 9°, de la directive 2016/681/EU, requérir des informations auprès d'un transporteur ou un opérateur de voyages. Dans les mêmes conditions, l'UIP peut adresser une telle demande à l'UIP d'un autre Etat membre de l'Union européenne.
+
+### Section 3. - Conditions d'accès aux données des passagers par Europol
+
+#### Art. 40
+
+§ 1er. Dans les limites de ses compétences et pour l'accomplissement de ses missions, Europol est habilité à demander à l'UIP de lui communiquer des données des passagers ou le résultat du traitement de ces données.
+
+§ 2. Europol peut présenter à l'UIP par l'intermédiaire de l'unité nationale Europol, au cas par cas, une demande électronique dûment motivée de transmission de données des passagers précises ou des résultats du traitement de données des passagers précises :
+
+\- lorsque cela est strictement nécessaire au soutien et au renforcement de l'action des Etats membres de l'Union européenne en vue de prévenir ou de détecter une infraction terroriste spécifique ou une forme grave de criminalité spécifique, ou de mener des enquêtes en la matière,
+
+\- dans la mesure où ladite infraction relève de la compétence d'Europol.
+
+§ 3. La demande motivée établit les motifs raisonnables sur lesquels s'appuie Europol pour estimer que la transmission des données des passagers ou des résultats du traitement des données des passagers contribuera de manière substantielle à la prévention ou à la détection de l'infraction concernée, ou à des enquêtes en la matière.
+
+### Section 4. - Le transfert de données vers des Etats non-membres de l'Union européenne
+
+#### Art. 41
+
+L'UIP peut, au cas par cas, transférer à un pays tiers des données des passagers et les résultats du traitement de ces données qu'elle conserve, selon les conditions suivantes :
+
+1° cela est nécessaire dans le cadre des finalités mentionnées dans l'article 8;
+
+2° avec accord préalable de l'UIP de l'Etat membre de l'Union européenne dont les données ont été obtenues, lorsque les données ont été reçues conformément à l'article 38;
+
+3° les mêmes conditions que celles prévues à l'article 37 sont remplies.
+
+#### Art. 42
+
+§ 1er. Les transferts de données des passagers sans accord préalable de l'UIP de l'Etat membre de l'Union européenne dont les données ont été obtenues ne sont autorisés que dans des circonstances exceptionnelles et seulement si toutes les autres conditions sont satisfaites :
+
+1° ces transferts sont essentiels pour répondre à une menace précise et réelle liée à une infraction terroriste ou à une forme grave de criminalité dans un Etat membre de l'Union européenne ou un pays tiers,
+
+2° et l'accord préalable ne peut pas être obtenu en temps utile.
+
+§ 2. L'UIP de l'Etat membre de l'Union européenne, qui n'a pu donner son accord en temps utile, est informée sans retard.
+
+§ 3. Le transfert est dûment enregistré et soumis à une vérification ex post.
+
+#### Art. 43
+
+L'UIP ne peut transférer à un pays tiers des données passagers et les résultats du traitement de ces données, qu'après avoir obtenu l'assurance que l'intention du destinataire est d'utiliser ces données dans des conditions compatibles avec la présente loi, et après avoir obtenu l'assurance que l'intention du destinataire est d'utiliser ces données dans le respect desdites dispositions et garanties et [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2019-05-02/32, art. 10, 004; En vigueur : 03-06-2019&gt;
+
+## CHAPITRE 13. - Le délégué à la protection des données
+
+#### Art. 44
+
+§ 1er. L'UIP désigne un délégué à la protection des données au sein du Service Public Fédéral Intérieur.
+
+§ 2. Celui-ci est notamment chargé des tâches suivantes :
+
+1° le contrôle du traitement des données des passagers et l'application des garanties prévues;
+
+2° la fourniture d'avis qualifiés en matière de protection de la vie privée et de sécurisation des données à caractère personnel et informations et de leur traitement;
+
+3° l'élaboration, avec le fonctionnaire dirigeant et les services compétents, des protocoles d'accord visés aux articles 17, 30 et 34;
+
+4° l'information et la fourniture d'avis au fonctionnaire dirigeant et aux collaborateurs traitant des données personnelles sur les obligations auxquelles ils sont soumis dans le cadre de la présente loi et dans le cadre général de la protection des données et de la vie privée;
+
+5° l'établissement, la mise en oeuvre, la mise à jour et le contrôle d'une politique de sécurisation et de protection de la vie privée;
+
+6° [<sup>2</sup> la création d'un point de contact avec les différentes autorités de contrôle compétentes de contrôle des traitements de données à caractère personnel ;]<sup>2</sup>
+
+7° l'exécution des autres missions relatives à la protection de la vie privée et à la sécurisation qui sont déterminées par le Roi après avis de [<sup>1</sup> l'autorité compétente de contrôle des traitements de données à caractère personnel]<sup>1</sup>;
+
+8° la création d'un point de contact pour les personnes concernées dont les données des passagers sont traitées conformément à la présente loi;
+
+9° informer les personnes concernées ainsi que [<sup>1</sup> l'autorité compétente de contrôle des traitements de données à caractère personnel]<sup>1</sup> lorsqu'il constate des atteintes à la protection des données.
+
+§ 3. Le délégué à la protection des données effectue ses missions en toute indépendance et fait directement rapport au fonctionnaire dirigeant de l'UIP et au ministre de l'Intérieur.
+
+§ 4. Le Roi détermine, après avis de [<sup>1</sup> l'autorité compétente de contrôle des traitements de données à caractère personnel]<sup>1</sup>, les modalités selon lesquelles le délégué à la protection des données exécute ses missions.
+
+----------
+
+(1)&lt;L 2019-05-02/32, art. 2, 004; En vigueur : 03-06-2019&gt;
+
+(2)&lt;L 2019-05-02/32, art. 11, 004; En vigueur : 03-06-2019&gt;
+
+## CHAPITRE 14. - Sanctions
+
+### Section 1re. - Les transporteurs et opérateurs de voyage
+
+#### Art. 45
+
+§ 1er. Est sanctionné d'une amende d'un montant maximum de 50 000 euros pour chaque infraction le fait pour un transporteur ou un opérateur de voyage de méconnaître les obligations fixées aux articles 5 et 7. Est sanctionnée d'une amende d'un montant maximum de 75 000 euros pour chaque infraction, la récidive dans les deux ans pour des manquements similaires ou non.
+
+§ 2. Est sanctionné d'une amende d'un montant maximum de 50 000 euros pour chaque infraction le fait pour un transporteur ou un opérateur de voyage de méconnaître l'obligation fixée à l'article 6. Est sanctionnée d'une amende d'un montant maximum de 75 000 euros pour chaque infraction, la récidive dans les deux ans pour des manquements similaires ou non.
+
+#### Art. 46
+
+§ 1er. Le manquement est constaté par un procès-verbal établi par le fonctionnaire dirigeant de l'UIP.
+
+Une copie du procès-verbal est notifiée au transporteur ou opérateur de voyage contrevenant. Celui-ci peut présenter ses observations écrites auprès du fonctionnaire dirigeant dans un délai d'un mois à dater de la notification.
+
+§ 2. Le délai visé au § 1er écoulé, le ministre de l'Intérieur transmet, après avis du fonctionnaire dirigeant de l'UIP, l'ensemble du dossier au ministre compétent pour le transporteur ou l'opérateur de voyage.
+
+§ 3. Le ministre compétent notifie au contrevenant sa décision de classement sans suite ou un projet de sanction. Dans le mois de la notification du projet de sanction, le contrevenant peut présenter ses observations écrites.
+
+§ 4. Passé ce délai, le ministre compétent rend sa décision et la transmet au ministre de l'Intérieur.
+
+#### Art. 47
+
+Aucune sanction ne peut être infligée à raison de faits remontant à plus d'un an à dater de l'établissement du procès-verbal visé à l'article 46, § 1er.
+
+### Section 2. - Les membres de l'UIP
+
+#### Art. 48
+
+[<sup>1</sup> Toute personne qui apporte son concours à l'application de la présente loi est tenue aux secrets dont elle a eu connaissance dans le cadre de l'exercice de sa mission ou de sa collaboration, même lorsqu'elle a cessé ses activités.
+
+La personne qui aura révélé les secrets en violation de l'alinéa 1er est punie d'une peine de niveau 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-13/11, art. 26, 006; En vigueur : 01-09-2026&gt;
+
+#### Art. 49
+
+Toute personne qui retient sciemment et volontairement des informations, données et renseignements faisant obstacle aux finalités prévues à l'article 8, sera punie [<sup>1</sup> d'une peine de niveau 1]<sup>1</sup>.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-13/11, art. 27, 006; En vigueur : 01-09-2026&gt;
+
+## CHAPITRE 15. - Dispositions modificatives
+
+### Section 1re. - Modification du Code d'instruction criminelle
+
+#### Art. 50
+
+Dans le Code d'instruction criminelle, il est inséré un article 46septies rédigé comme suit :
+
+"Art. 46septies. En recherchant les crimes et délits visés à l'article 8, § 1er, 1°, 2° et 5°, de la loi du 25 décembre 2016 relative au traitement des données des passagers, le procureur du Roi peut, par une décision écrite et motivée, charger l'officier de police judiciaire de requérir l'UIP afin de communiquer les données des passagers conformément à l'article 27 de la loi du 25 décembre 2016 relative au traitement des données des passagers.
+
+La motivation reflète le caractère proportionnel eu égard au respect de la vie privée et subsidiaire à tout autre devoir d'enquête.
+
+La mesure peut porter sur un ensemble de données relatives à une enquête spécifique. Dans ce cas, le procureur du Roi précise la durée de la mesure qui ne peut excéder un mois à dater de la décision, sans préjudice de renouvellement.
+
+En cas d'extrême urgence, chaque officier de police judiciaire peut, avec l'accord oral et préalable du procureur du Roi, et, par une décision motivée et écrite, requérir du fonctionnaire dirigeant de l'UIP la communication des données des passagers. L'officier de police judiciaire communique cette décision motivée et écrite ainsi que les informations recueillies dans les vingt-quatre heures au procureur du Roi et motive par ailleurs l'extrême urgence.".
+
+### Section 2. - Modification de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité
+
+#### Art. 51
+
+Dans le chapitre III, section 1re, sous-section 2, de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité, il est inséré un article 16/3 rédigé comme suit :
+
+"Art. 16/3. § 1er. Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions, décider de façon dûment motivée d'accéder aux données des passagers visées à l'article 27 de la loi du 25 décembre 2016 relative au traitement des données des passagers.
+
+§ 2. La décision visée au § 1er est prise par le dirigeant du service et communiquée par écrit à l'Unité d'information des passagers visée au chapitre 7 de la loi précitée. La décision est notifiée au Comité permanent R avec la motivation de celle-ci.
+
+Le Comite permanent R interdit aux services de renseignement et de sécurité d'exploiter les données recueillies dans les conditions qui ne respectent pas les conditions légales.
+
+La décision peut porter sur un ensemble de données relatives à une enquête de renseignement spécifique. Dans ce cas, la liste des consultations des données des passagers est communiquée une fois par mois au Comité permanent R.".
+
+NOTE: art. 51 annulé par ACC 2023-12-05/01; En vigueur : 25-12-2016
+
+## CHAPITRE 16. - Dispositions finales
+
+#### Art. 52
+
+§ 1er. La présente loi est soumise à une évaluation [<sup>1</sup> tous les trois ans]<sup>1</sup>.
+
+§ 2. Le fonctionnaire dirigeant de l'UIP envoie annuellement au ministre de l'Intérieur, à la date qu'il détermine, un rapport d'activités dont il arrête la teneur. Le ministre de l'Intérieur fait annuellement rapport par écrit à la Chambre des représentants, au sujet de l'application de la présente loi.
+
+----------
+
+(1)&lt;L 2024-05-16/57, art. 12, 005; En vigueur : 15-07-2024&gt;
+
+#### Art. 53
+
+L'article 32, alinéa 4, de la loi du 27 juin 1937 portant révision de la loi du 16 novembre 1919 relative à la réglementation de la navigation aérienne est abrogé.
+
+#### Art. 54
+
+Le Roi détermine par arrêté délibéré en Conseil des ministres, par secteur de transport et pour les opérateurs de voyage, la date d'entrée en vigueur de la présente loi.
+
+(NOTE : Entrée en vigueur, en ce qui concerne les compagnies aériennes, fixée au 07-08-2017 par AR 2017-07-18/04, art. 12)
+
+(NOTE : Entrée en vigueur, en ce qui concerne les transporteurs HST et les distributeurs de tickets HST, fixée au 22-02-2019 par AR 2019-02-03/05, art. 10)
+
+(NOTE : Entrée en vigueur, en ce qui concerne les transporteurs par bus, fixée au 22-02-2019 par AR 2019-02-03/06, art. 10)
+
+#### Art. 55
+
+Le Roi détermine la date d'entrée en vigueur de l'article 53.
+
+(NOTE : Entrée en vigueur de l'article 53 fixée au 07-08-2017 par AR 2017-07-18/04, art. 11)
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 25 décembre 2016.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de la Sécurité et de l'Intérieur,
+
+J. JAMBON
+
+Le Ministre et ministre de l'Emploi, de l'Economie et des Consommateurs
+
+K. PEETERS
+
+Le Ministre de la Justice
+
+K. GEENS
+
+Le Ministre des Finances
+
+J. VAN OVERTVELDT
+
+Le Ministre de la Défense, chargé de la Fonction publique
+
+S. VANDEPUT
+
+Le Ministre de la Mobilité
+
+F. BELLOT
+
+Le Secrétaire d'Etat à l'Asile et la Migration
+
+T. FRANCKEN
+
+Le Secrétaire d'Etat à la Mer du Nord
+
+P. DE BACKER
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS
