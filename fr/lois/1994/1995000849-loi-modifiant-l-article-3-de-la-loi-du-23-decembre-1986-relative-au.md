@@ -1,0 +1,42 @@
+---
+title: "Loi modifiant l'article 3 de la loi du 23 décembre 1986 relative au recouvrement et au contentieux en matière de taxes provinciales et locales."
+identifier: "1995000849"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/28/1995000849/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1994-12-28
+published: 1995-01-19
+entry_into_force: 1994-12-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/28/1995000849/justel"
+department: "Intérieur - Fonction publique"
+retrieved: 2026-10-11
+---
+
+# 28 DECEMBRE 1994. - Loi modifiant l'article 3 de la loi du 23 décembre 1986 relative au recouvrement et au contentieux en matière de taxes provinciales et locales.
+
+ALBERT II, Roi des Belges, A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+L'article 3, § 2, de la loi du 23 décembre 1988 relative au recouvrement et au contentieux en matière de taxes provinciales et locales est complété par disposition suivante :
+
+" Les rôles sont rendus exécutoires au plus tard le 30 juin de l'année qui suit l'exercice. Les droits établis dans les rôles sont comptabilisés aux recettes de l'exercice au cours duquel les rôles sont rendus exécutoires.
+
+## Art. 2
+
+La présente loi entre en vigueur le 31 décembre 1994. Promulguons la présente loi, ordonnons qu'elle soit revêtue sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Châteauneuf-de-Grasse, le 28 décembre 1994.
+
+ALBERT Par le Roi :
+
+Le Ministre de l'Intérieur et de la Fonction publique, J. VANDE LANOTTE .
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice, M. WATHELET

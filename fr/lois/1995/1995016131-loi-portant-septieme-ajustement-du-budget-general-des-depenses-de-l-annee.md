@@ -1,0 +1,54 @@
+---
+title: "Loi portant septième ajustement du Budget général des dépenses de l'année budgétaire 1994 - Section 31 - \"Agriculture\"."
+identifier: "1995016131"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1995/03/07/1995016131/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1995-03-07
+published: 1995-09-26
+entry_into_force: 1995-10-06
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1995/03/07/1995016131/justel"
+department: "Classes Moyennes - Agriculture"
+retrieved: 2026-10-11
+---
+
+# 7 MARS 1995. - Loi portant septième ajustement du Budget général des dépenses de l'année budgétaire 1994 - Section 31 - "Agriculture".
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+Les crédits non dissociés ouverts au Budget général des dépenses de l'année budgétaire 1994 - sous la section "Ministère de l'Agriculture" et la division "Secrétariat général et Administration des services généraux" - pour le programme 31-40-0, libellé "Programme de subsistance", sont majorés de F 700 000.
+
+## Art. 2
+
+Les crédits non dissociés ouverts au Budget général des dépenses de l'année budgétaire 1994 - sous la section "Ministère de l'Agriculture" et la division "Administration de l'Agriculture et de l'Horticulture" - pour le programme 31-51-0, libellé "Programme de subsistance", sont majorés de F 94 300 000.
+
+## Art. 3
+
+Les crédits non dissociés ouverts au Budget général des dépenses de l'année budgétaire 1994 - sous la section "Ministère de l'Agriculture" et la division "Administration des Services économiques" - pour le programme 31-53-0, libellé "Programme de subsistance", sont majorés de F 8 100 000.
+
+Promulguons la présente loi, ordonnons quelle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 7 mars 1995.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Classes moyennes et de l'Agriculture,
+
+A. BOURGEOIS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. WATHELET

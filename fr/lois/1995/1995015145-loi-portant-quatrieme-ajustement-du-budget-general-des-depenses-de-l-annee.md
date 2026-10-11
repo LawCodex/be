@@ -1,0 +1,62 @@
+---
+title: "Loi portant quatrième ajustement du budget général des dépenses de l'année budgétaire 1994 - Section \"14. - Affaires étrangères et Commerce extérieur\"."
+identifier: "1995015145"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1995/08/07/1995015145/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1995-08-07
+published: 1995-10-14
+entry_into_force: 1995-10-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1995/08/07/1995015145/justel"
+department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
+retrieved: 2026-10-11
+---
+
+# 7 AOUT 1995. - Loi portant quatrième ajustement du budget général des dépenses de l'année budgétaire 1994 - Section "14. - Affaires étrangères et Commerce extérieur".
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+Les crédits d'engagement ouverts au budget général des dépenses de l'année budgétaire 1994 - sous la section "Ministère des Affaires étrangères et du Commerce extérieur" et la division "Administration du Commerce extérieur" - pour le programme 14-51-1 - Commerce extérieur sont majorés de 1 250 millions de francs.
+
+## Art. 2
+
+Les crédits ouverts par la présente loi seront couverts par les ressources générales du Trésor.
+
+## Art. 3
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du Sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Châteauneuf-de-Grasse, le 7 août 1995.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre du Budget,
+
+H. VAN ROMPUY
+
+Le Ministre des Finances et du Commerce extérieur,
+
+Ph. MAYSTADT
+
+Le Ministre des Affaires étrangères,
+
+E. DERYCKE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK

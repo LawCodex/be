@@ -1,0 +1,212 @@
+---
+title: "Loi spéciale relative à l'obligation de déposer une liste de mandats, fonctions et professions et une déclaration de patrimoine."
+identifier: "1995021225"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1995/05/02/1995021225/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1995-05-02
+published: 1995-07-26
+entry_into_force: 1995-08-05
+last_amended: 2026-07-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1995/05/02/1995021225/justel"
+department: "Premier Ministre"
+justel_note: "Consultation des versions antérieures à partir du 26-07-1995 et mise à jour au 29-07-2026"
+retrieved: 2026-10-11
+---
+
+# 2 MAI 1995. - Loi spéciale relative à l'obligation de déposer une liste de mandats, fonctions et professions et une déclaration de patrimoine.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi s'applique aux :
+
+1\. membres du Gouvernement flamand, du Gouvernement de la Communauté française, du Gouvernement de la Région wallonne ainsi qu'aux membres et secrétaires d'Etat du Gouvernement de la Région de Bruxelles-Capitale;
+
+2\. membres (du Parlement flamand), (du Parlement wallon), (du Parlement de la Communauté française) et (du Parlement de la Région de Bruxelles-Capitale); &lt;L 2006-03-27/33, art. 19, 003; En vigueur : 21-04-2006&gt;
+
+3\. fonctionnaires généraux des ministères de communauté et de région et administrateurs généraux des organismes d'intérêt public sur lesquels les communautés ou les régions exercent la tutelle. (Pour l'application de la présente loi spéciale, on entend par fonctionnaires généraux, les agents revêtus de l'un des grades des rangs 16 et 17 ou d'un rang équivalent; dans les organismes d'intérêt public sur lesquels les communautés ou les régions exercent la tutelle et dans lesquelles personne n'est revêtu du titre d'administrateur général, la loi s'applique au fonctionnaire dirigeant;) &lt;L 2004-06-26/30, art. 12, 002; En vigueur : 01-01-2005&gt;
+
+4\. [<sup>2</sup> membres qui perçoivent directement ou indirectement une rémunération à ce titre, des conseils d'administration, des conseils consultatifs et des comités de direction :
+
+a) des intercommunales et des interprovinciales;
+
+b) des personnes morales sur lesquelles une ou plusieurs autorités publiques jointes exercent, directement ou indirectement, une influence dominante :
+
+\- soit en concluant avec ces personnes morales un contrat de gestion ou un contrat d'administration;
+
+\- soit en désignant, directement ou indirectement, plus de la moitié des membres de leur organe d'administration, de gestion ou de direction, ou en désignant une ou plusieurs personnes chargées d'exercer la tutelle en leur sein;
+
+\- soit en détenant, directement ou indirectement, la majorité du capital souscrit;
+
+\- soit en disposant, directement ou indirectement, de la majorité des voix attachées aux parts émises par la personne morale;]<sup>2</sup>
+
+[<sup>2</sup> 4/1. commissaires du gouvernement et aux membres des conseils d'administration, des conseils consultatifs et des comités de direction d'une personne morale qui en font partie à la suite d'une décision d'une autorité publique et qui perçoivent directement ou indirectement une rémunération à ce titre;]<sup>2</sup>
+
+5\. chefs de cabinet et chefs de cabinet adjoints des cabinets ministériels des gouvernements de région et de communauté, y compris du Gouvernement et des secrétaires d'Etat de la Région de Bruxelles-Capitale, à l'exception toutefois du Gouvernement de la Communauté germanophone (, et y compris les commissaires du gouvernement). &lt;L 2004-06-26/30, art. 12, 002 ; En vigueur : 01-01-2005&gt;
+
+(6. gouverneurs de province, gouverneur adjoint de la province du Brabant flamand [<sup>1</sup> ...]<sup>1</sup> et vice-gouverneur de l'arrondissement administratif de Bruxelles-Capitale;
+
+7\. membres des députations permanentes;
+
+8\. bourgmestres, échevins et présidents des centres publics d'action sociale;) &lt;L 2007-06-03/67, art. 3, 004; En vigueur : 07-07-2007&gt;
+
+[<sup>3</sup> 8/1. titulaires de mandats exécutifs des organes territoriaux intracommunaux visés à l'article 41 de la Constitution;]<sup>3</sup>
+
+[<sup>2</sup> 9. collaborateurs chargés de rendre des avis sur la politique, la stratégie politique et la communication, des cabinets des membres des gouvernements des régions et communautés.]<sup>2</sup>
+
+[<sup>2</sup> Au sens de l'alinéa 1er, 4/1, on entend par commissaires de gouvernement toute personne qui, indépendamment de la dénomination de son mandat, exerce, au nom du gouvernement un contrôle pour empêcher que la loi soit violée ou l'intérêt général blessé.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2014-01-06/54, art. 59, 006; En vigueur : 01-07-2014&gt;
+
+(2)&lt;L 2018-10-14/13, art. 2, 007; En vigueur : 01-01-2019&gt;
+
+(3)&lt;L 2022-06-01/03, art. 2, 008; En vigueur : 27-06-2022&gt;
+
+## Art. 2
+
+§ 1. (Les personnes qui exercent au cours d'une année une des fonctions ou un des mandats visés à l'article 1er déposent avant le 1er [<sup>1</sup> octobre]<sup>1</sup> de l'année suivante une déclaration [<sup>1</sup> ...]<sup>1</sup> dans laquelle elles mentionnent tous les mandats, fonctions dirigeantes ou professions, quelle qu'en soit la nature, qu'elles ont exercés au cours de l'année citée en premier lieu, tant dans le secteur public que pour le compte de toute personne physique ou morale, de tout organisme ou association de fait, établis en Belgique ou à l'étranger.) &lt;L 2004-06-26/30, art. 13, 002 ; En vigueur : 01-01-2005&gt;
+
+[<sup>2</sup> L'alinéa 1er n'est pas applicable aux bourgmestres, membres des députations permanentes, échevins et présidents des centres publics d'aide sociale, ni aux titulaires de mandats exécutifs des organes territoriaux intracommunaux visés à l'article 41 de la Constitution qui, dans l'année qui suit celle des élections, ont uniquement exercé leur mandat dans l'attente de l'installation de leur successeur.]<sup>2</sup>
+
+[<sup>1</sup> Cette déclaration mentionne le montant brut sur une base annuelle octroyé, directement ou indirectement, à titre de rémunération pour les mandats et fonctions visés à l'article 1er, 1. à 4/1.
+
+La déclaration mentionne l'ordre de grandeur du montant brut sur une base annuelle octroyé, directement ou indirectement, à titre de rémunération pour l'ensemble des mandats, fonctions dirigeantes ou professions autres que ceux visés à l'article 1er, 1. à 4/1. La fourchette appliquée se décompose comme suit :
+
+1\. non rémunéré;
+
+2\. entre 1 et 5 000 euros brut par an;
+
+3\. entre 5 001 et 10 000 euros brut par an;
+
+4\. entre 10 001 et 50 000 euros brut par an;
+
+5\. entre 50 001 et 100 000 euros brut par an;
+
+6\. plus de 100 000 euros brut par an, le montant mentionné étant arrondi à la centaine de milliers la plus proche.
+
+[<sup>3</sup> Pour l'application de la présente loi, les indemnités de rupture, de sortie et de départ ne sont pas considérées comme des rémunérations octroyées pour l'exercice de mandats, de fonctions dirigeantes et de professions visés à l'article 1er.]<sup>3</sup>
+
+Les montants [<sup>3</sup> des fourchettes]<sup>3</sup> sont indexés chaque année sur la base des fluctuations de l'indice des prix à la consommation selon la formule suivante: le nouveau montant = le montant de base x le nouvel indice / l'indice de départ, où :
+
+a) le montant de base est le montant valable pour l'année x;
+
+b) l'indice de départ est l'indice du mois d'octobre de l'année x-1;
+
+c) le nouvel indice est l'indice des prix à la consommation du mois d'octobre de l'année x.
+
+Les montants sont arrondis à l'euro, les montants égaux ou supérieurs à 50 cents étant arrondis à l'euro supérieur, et les montants inférieurs à 50 cents à l'euro inférieur. Les montants ainsi indexés entrent en vigueur le 1er janvier de l'année x+1.]<sup>1</sup>
+
+Cette déclaration [<sup>1</sup> est certifiée sur l'honneur exacte et sincère]<sup>1</sup>.
+
+§ 2. La Cour des comptes veille à ce que la liste visée au § 1er soit publiée [<sup>3</sup> ...]<sup>3</sup> [<sup>1</sup> sur le site web de la Cour des comptes]<sup>1</sup> selon les modalités fixées par la loi spéciale visée à l'article 5.
+
+----------
+
+(1)&lt;L 2018-10-14/13, art. 3, 007; En vigueur : 01-01-2019&gt;
+
+(2)&lt;L 2022-06-01/03, art. 3, 008; En vigueur : 27-06-2022&gt;
+
+(3)&lt;L 2022-12-21/12, art. 2, 009; En vigueur : 01-01-2023&gt;
+
+## Art. 3
+
+§ 1. [<sup>1</sup> Les personnes qui exercent au cours d'une année une des fonctions ou un des mandats visés à l'article 1er [<sup>2</sup> à l'exception de celles visées à l'article 1er, 4., 4/1. et 9.,]<sup>2</sup> déposent, sous pli fermé, avant le 1er [<sup>2</sup> octobre]<sup>2</sup> de l'année suivante, une déclaration de patrimoine relative à l'état de leur patrimoine au 31 décembre de l'année citée en premier lieu, certifiée sur l'honneur exacte et sincère.
+
+Cette obligation ne s'applique pas lorsqu'au cours de l'année précédente, aucune entrée en fonction, nomination à un mandat ou cessation de fonction ou de mandat visées à l'article 1er n'est intervenue.
+
+Par dérogation à l'alinéa 2, les personnes qui sont nommées pour une période indéterminée ou pour une période excédant six ans déposent avant le 1er [<sup>2</sup> octobre]<sup>2</sup> de la sixième année qui suit celle de leur nomination et avant le 1er [<sup>2</sup> octobre]<sup>2</sup> de chaque sixième année suivante, une nouvelle déclaration de patrimoine relative à l'état de leur patrimoine au 31 décembre de la cinquième année qui suit celle de leur nomination et au 31 décembre de chaque cinquième année suivante.]<sup>1</sup>
+
+[<sup>1</sup> La déclaration]<sup>1</sup> fait état de toutes les [<sup>3</sup> dettes et]<sup>3</sup> créances (telles que les comptes bancaires, les actions et les obligations), de tous les immeubles ainsi que de tous les biens meubles de valeur, tels que les antiquités et les oeuvres d'art.
+
+§ 2. ]<sup>1</sup> ...]<sup>1</sup>.
+
+§ 3. La Cour des comptes est garante de l'absolue confidentialité des documents qu'elle doit conserver sous pli (fermé). &lt;L 2004-06-26/30, art. 14, 002 ; En vigueur : 01-01-2005&gt;
+
+(Les membres du personnel de la Cour des comptes et tout dépositaire ou détenteur de la déclaration de patrimoine sont tenus au secret professionnel, conformément à [<sup>4</sup> l'article 352 du Code pénal]<sup>4</sup>.) &lt;L 2004-06-26/30, art. 14, 002 ; En vigueur : 01-01-2005&gt;
+
+§ 4. Seul un juge d'instruction est habilité à consulter la déclaration d'une personne visée à l'article 1er, dans le cadre d'une instruction pénale menée à l'encontre de cette personne en raison de son mandat ou de sa fonction.
+
+§ 5. (...) A l'expiration d'un délai de cinq ans, prenant cours à la fin du dernier mandat ou fonction exercé par une personne visée à l'article 1er, les déclarations visées [<sup>1</sup> au § 1er]<sup>1</sup>, sont [<sup>3</sup> détruites]<sup>3</sup> selon les modalités fixées à l'article 5. &lt;L 2004-06-26/30, art. 14, 002 ; En vigueur : 01-01-2005&gt;
+
+(§ 6. Les déclarations de patrimoine visées [<sup>1</sup> au § 1er]<sup>1</sup> de personnes décédées sont détruites à l'expiration d'un délai d'un mois à dater du décès.) &lt;L 2004-06-26/30, art. 14, 002 ; En vigueur : 01-01-2005&gt;
+
+----------
+
+(1)&lt;L 2009-03-12/38, art. 2, 005; En vigueur : 01-01-2009&gt;
+
+(2)&lt;L 2018-10-14/13, art. 4, 007; En vigueur : 01-01-2019&gt;
+
+(3)&lt;L 2022-12-21/12, art. 3, 009; En vigueur : 01-01-2023&gt;
+
+(4)&lt;L 2026-07-20/02, art. 5, 010; En vigueur : 01-09-2026&gt;
+
+## Art. 4
+
+Les personnes visées à l'article 1er déposent les déclarations visées aux articles 2 et 3 au greffe de la Cour des comptes.
+
+## Art. 5
+
+Une loi spéciale règle les modalités de la présentation, [<sup>1</sup> du dépôt, du contrôle et de la destruction]<sup>1</sup> des déclarations visées aux articles 2 et 3.
+
+----------
+
+(1)&lt;L 2022-12-21/12, art. 4, 009; En vigueur : 01-01-2023&gt;
+
+## Art. 6
+
+§ 1. Les sanctions frappant [<sup>3</sup> le faux en écritures ou sur d'autres supports durables et l'usage de faux en vertu de l'article 451 du Code pénal]<sup>3</sup> sont applicables aux déclarations visées aux articles 2 et 3.
+
+§ 2. [<sup>3</sup> Est punie d'une peine de niveau 1]<sup>3</sup>, toute personne qui omet de faire les déclarations prévues aux articles 2 et 3. [<sup>3</sup> Par dérogation à l'article 60 du Code pénal,]<sup>3</sup> [<sup>1</sup> en cas de récidive dans les trois ans qui suivent un jugement de condamnation coulé en force de chose jugée du chef d'une infraction au présent paragraphe ou à l'article 6, § 2, de la loi du 2 mai 1995 relative à l'obligation de déposer une liste de mandats, fonctions et professions et une déclaration de patrimoine, cette amende est triplée et une interdiction d'éligibilité pour une période de cinq ans est prononcée.]<sup>1</sup>
+
+§ 3. La liste des personnes qui n'ont pas déposé les déclarations visées aux articles 2 et 3 est publiée [<sup>2</sup> ...]<sup>2</sup> [<sup>1</sup> sur le site web de la Cour des comptes]<sup>1</sup> en même temps que la liste des mandats prévue à l'article 2, § 2.
+
+----------
+
+(1)&lt;L 2018-10-14/13, art. 5, 007; En vigueur : 01-01-2019&gt;
+
+(2)&lt;L 2022-12-21/12, art. 5, 009; En vigueur : 01-01-2023&gt;
+
+(3)&lt;L 2026-07-20/02, art. 6, 010; En vigueur : 01-09-2026&gt;
+
+## Art. 7
+
+[<sup>1</sup> § 1er. En cas d'infraction à la présente loi et à la loi spéciale du 26 juin 2004 exécutant et complétant la loi spéciale du 2 mai 1995 relative à l'obligation de déposer une liste de mandats, fonctions et professions et une déclaration de patrimoine, la Cour des comptes informe le contrevenant de ses griefs, ainsi que du montant envisagé de l'amende administrative et de la possibilité d'introduire un recours.
+
+L'amende administrative s'élève à 100 à 1 000 euros et est multipliée par trois en cas de nouvelle infraction aux lois spéciales visées à l'alinéa 1er dans les trois ans suivant une condamnation en vertu de l'article 6, § 2. L'amende revient au Trésor.
+
+§ 2. Si les faits sont à la fois constitutifs d'une infraction pénale et d'une infraction administrative, l'original du procès-verbal est envoyé au procureur du Roi. Le procureur du Roi dispose d'un délai d'un mois à compter du jour de la réception de l'original du procès-verbal pour informer la Cour des comptes qu'une information ou une instruction judiciaire ont été entamées ou que des poursuites pénales ont été engagées. Cette communication éteint la possibilité pour la Cour des comptes d'imposer une amende administrative. La Cour des comptes ne peut infliger l'amende administrative avant l'échéance de ce délai, sauf communication préalable par le procureur du Roi que ce dernier ne souhaite pas réserver de suite au fait. Passé ce délai, les faits ne pourront être sanctionnés que de manière administrative.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-10-14/13, art. 6, 007; En vigueur : 01-01-2019&gt;
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 2 mai 1995.
+
+ALBERT
+
+Par le Roi :
+
+Le Premier Ministre,
+
+J.-L. DEHAENE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. WATHELET

@@ -452,6 +452,11 @@ def main():
     else:
         files.sort(key=lambda f: (prio.get(cat_of(order[f])[0], 9), f.name))
     lock = threading.Lock()
+    # texts listed both under a CODE type and another type (e.g. LOI) are written once, as code
+    code_numacs = set()
+    for f in files:
+        if cat_of(order[f])[0] == "code":
+            code_numacs |= {json.loads(x)["numac"] for x in f.read_text(encoding="utf-8").splitlines() if x.strip()}
     for lf in files:
         items = [json.loads(x) for x in lf.read_text(encoding="utf-8").splitlines() if x.strip()]
         if not items:
@@ -480,6 +485,8 @@ def main():
                 except Exception as e:  # noqa: BLE001
                     print("WARN", it["numac"], e, file=sys.stderr)
             code_dirs = {"fr": ascii_slug(fr_dir, 60), "nl": nl_code_dir(titles, ascii_slug(fr_dir, 60))}
+        if cat != "code":
+            items = [it for it in items if it["numac"] not in code_numacs]
         todo = [it for it in items if it["numac"] not in done]
         print(f"{dt}: {len(items)} listed, {len(todo)} to do", flush=True)
         n = 0

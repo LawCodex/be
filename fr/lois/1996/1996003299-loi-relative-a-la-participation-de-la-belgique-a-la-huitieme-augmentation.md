@@ -1,0 +1,62 @@
+---
+title: "Loi relative à la participation de la Belgique à la huitième augmentation générale des ressources de la Banque interaméricaine de Développement."
+identifier: "1996003299"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1996/04/15/1996003299/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1996-04-15
+published: 1996-06-21
+entry_into_force: 1996-07-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1996/04/15/1996003299/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 15 AVRIL 1996. - Loi relative à la participation de la Belgique à la huitième augmentation générale des ressources de la Banque interaméricaine de Développement.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adoptés et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77, alinéa 1er, 6°, de la Constitution.
+
+## Art. 2
+
+Le Roi est autorisé à porter la souscription de la Belgique au capital-actions de la Banque interaméricaine de Développement de 114,313 à 330,996 millions de dollars des Etats-Unis, conformément à la Résolution AG-10/95 relative à l'augmentation de 40 milliards de dollars des Etats-Unis du capital autorisé et souscriptions correspondantes, adoptée par le Conseil des Gouverneurs de la Banque le 20 avril 1995.
+
+## Art. 3
+
+Le Roi est autorisé à consentir au nom de la Belgique une contribution de 8 710 127 dollars au Fonds des Opérations spéciales de la Banque interaméricaine de Développement, conformément à la Résolution AG-11/95 relative à l'augmentation des ressources du Fonds des Opérations spéciales et contributions y afférentes, adoptée par le Conseil des Gouverneurs de la Banque le 6 juin 1995.
+
+## Art. 4
+
+La Résolution AG-12/95 relative aux amendements de l'accord constitutif de la Banque interaméricaine de Développement, du règlement de l'Assemblée des Gouverneurs et des normes générales régissant l'admission de pays extra-régionaux comme membres de la Banque, approuvée par le Conseil des Gouverneurs de la Banque en date du 11 juillet 1995, sortira son plein et entier effet.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Châteauneuf-de-Grasse, le 15 avril 1996.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre des Finances,
+
+Ph. MAYSTADT
+
+Le Ministre des Affaires étrangères,
+
+E. DERYCKE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK

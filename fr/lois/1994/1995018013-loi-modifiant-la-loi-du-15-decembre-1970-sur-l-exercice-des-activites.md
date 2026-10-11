@@ -1,0 +1,56 @@
+---
+title: "Loi modifiant la loi du 15 décembre 1970 sur l'exercice des activités professionnelles dans les petites et moyennes entreprises du commerce et de l'artisanat."
+identifier: "1995018013"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/23/1995018013/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1994-12-23
+published: 1995-03-14
+entry_into_force: 1995-03-24
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1994/12/23/1995018013/justel"
+department: "Classes Moyennes - Agriculture"
+retrieved: 2026-10-11
+---
+
+# 23 DECEMBRE 1994. - Loi modifiant la loi du 15 décembre 1970 sur l'exercice des activités professionnelles dans les petites et moyennes entreprises du commerce et de l'artisanat.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous santionnons ce qui suit :
+
+## Art. 1
+
+L'article 4 de la loi du 15 décembre 1970 sur l'exercice des activités professionnelles dans les petites et moyennes entreprises du commerce et de l'artisanat est remplacé par la disposition suivante :
+
+"Article 4. Le Roi peut, après consultation dû Conseil supérieur des Classes moyennes, imposer des connaissances de gestion pour l'exercice des activités professionnelles dans les petites et moyennes entreprises du commerce et de l'artisanat qu'Il détermine."
+
+## Art. 2
+
+A l'article 6, a), de la même loi, modifié par la loi du 25 février 1987, sont apportées les modifications suivantes :
+
+1° le 7° est abrogé;
+
+2° le texte est complété par un alinéa rédigé comme suit :
+
+"La liste ci-dessus peut-être modifiée par le Roi." Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 23 décembre 1994.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Petites et Moyennes Entreprises et de l'Agriculture,
+
+A. BOURGEOIS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. WATHELET

@@ -1,0 +1,186 @@
+---
+title: "Loi portant approbation du Protocole au Traité sur l'Antarctique, relatif à la protection de l'environnement, Appendice, Annexes I, II, III, IV et V, faits à Madrid le 4 octobre 1991."
+identifier: "1997015003"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1995/05/19/1997015003/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1995-05-19
+published: 1997-05-01
+entry_into_force: 1997-05-11
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1995/05/19/1997015003/justel"
+department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
+retrieved: 2026-10-11
+---
+
+# 19 MAI 1995. - Loi portant approbation du Protocole au Traité sur l'Antarctique, relatif à la protection de l'environnement, Appendice, Annexes I, II, III, IV et V, faits à Madrid le 4 octobre 1991.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. Le Protocole au Traité sur l'Antarctique, relatif à la protection de l'environnement, Appendice, Annexes I, II, III, IV et V, faits à Madrid le 4 octobre 1991 sortiront leur plein et entier effet.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 19 mai 1995.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires étrangères,
+
+E. DERYCKE
+
+Le Ministre des Communications,
+
+E. DI RUPO
+
+Le Ministre de la Politique scientifique,
+
+M. DAERDEN
+
+Le Ministre de l'Environnement,
+
+J. SANTKIN
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK
+
+## ANNEXE.
+
+## Art. N1
+
+Protocole au traité sur l'Antarctique, relatif à la protection de l'environnement.
+
+(Pour le protocole, l'appendice et les annexes I à V, voir %%1991-10-04/30%%, %%1991-10-04/31%%, %%1991-10-04/32%%, %%1991-10-04/33%%, %%1991-10-04/34%%, %%1991-10-04/35%%, %%1991-10-04/36%%).
+
+## Art. N2
+
+Liste des etats liées. Protocole et Annexe I - IV.
+
+--------------------------------------------------------------------------
+
+Date du depot de l'instrument
+
+de ratification (R), Reserve (R) Date de
+
+Pays d'adhesion (A), Declaration l'entree
+
+d'approbation (AA) (D) en vigueur
+
+ou de succession (S)
+
+--------------------------------------------------------------------------
+
+Afrique du Sud 3 août 1995
+
+Allemagne 25 novembre 1994
+
+(Rep. fed. d')
+
+Argentine 28 octobre 1993
+
+Australie 6 avril 1994
+
+Belgique 26 avril 1996
+
+Bresil 15 août 1995
+
+(Rep. fed. du)
+
+Chili 11 janvier 1995
+
+Chine 2 août 1994
+
+Coree 2 janvier 1996
+
+(Rep. dem. pop. Nord)
+
+Equateur 4 janvier 1993
+
+Espagne 1 juillet 1992
+
+France 5 fevrier 1993
+
+Grece 23 mai 1995
+
+Inde 26 avril 1996
+
+Italie 31 mars 1995
+
+Norvege 16 juin 1993
+
+Nouvelle Zelande 22 décembre 1994
+
+Pays-Bas 14 avril 1994
+
+Perou 8 mars 1993
+
+Pologne 1 novembre 1993
+
+R.U. de Gr. Bretagne
+
+& Irl. Nord 25 avril 1995
+
+Suede 30 mars 1994
+
+Uruguay 11 janvier 1995
+
+Annexe IV.
+
+--------------------------------------------------------------------------
+
+Date du depot Reserve (R) Date de
+
+de l'instrument Declaration l'entree
+
+Pays d'approbation (D) en vigueur
+
+--------------------------------------------------------------------------
+
+Afrique du Sud 14 juin 1995
+
+Allemagne 25 novembre 1994
+
+(Rep. fed. d')
+
+Australie 6 avril 1994
+
+Belgique 26 avril 1996
+
+Chine 26 janvier 1995
+
+Coree 5 juin 1996
+
+(Rep. dem. pop. Nord)
+
+Espagne 8 décembre 1993
+
+France 26 avril 1995
+
+Italie 31 mai 1995
+
+Norvege 23 octobre 1993
+
+Nouvelle Zelande 21 octobre 1992
+
+Perou 8 mars 1993
+
+R.U. de Gr. Bretagne
+
+& Irl. Nord 21 mai 1996
+
+Suede 30 mars 1994
+
+Uruguay 15 mai 1995

@@ -1,0 +1,48 @@
+---
+title: "Loi portant modification de la limite séparative entre les communes de Gavere et de Zingem."
+identifier: "1995000088"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1995/01/26/1995000088/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1995-01-26
+published: 1995-04-19
+entry_into_force: 1995-04-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1995/01/26/1995000088/justel"
+department: "Intérieur"
+retrieved: 2026-10-11
+---
+
+# 26 JANVIER 1995. - Loi portant modification de la limite séparative entre les communes de Gavere et de Zingem.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. Est distraite du territoire de la commune de Zingem et rattachée au territoire de la commune de Gavere, la parcelle cadastrée Zingem, 1re division, section B, n° 1C, y compris une petite partie de la A. Amelotstraat située à l'ouest et au nord de la nouvelle limite séparative décrite ci-après.
+
+A partir du point de l'ancienne limite communale situé au sommet de l'angle nord-est de la parcelle susvisée, la nouvelle limite communale est constituée par la limite entre, d'une part, la parcelle susdite cadastrée Zingem, 1re division, section B, n° 1C, et, d'autre part, successivement, les parcelles cadastrées Zingem, 1re division, section B, n° 62 et n° 4B jusqu'à l'intersection avec l'alignement est de la A. Amelotstraat, et ensuite par la ligne de jonction allant de l'intersection précitée, par la A. Amelotstraat, vers le point d'intersection situé de l'autre côté de cette rue, de la limite communale existante avec l'alignement ouest.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 26 janvier 1995.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de l'Intérieur,
+
+J. VANDE LANOTTE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. WATHELET
