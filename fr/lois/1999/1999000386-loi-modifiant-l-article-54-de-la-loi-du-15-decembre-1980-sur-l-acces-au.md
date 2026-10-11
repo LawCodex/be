@@ -1,0 +1,92 @@
+---
+title: "Loi modifiant l'article 54 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers et l'article 57ter de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, les articles 2, § 5, 5, § 2 et 11bis de la loi du 2 avril 1965 relative à la prise en charge des secours accordés par les centres publics d'aide sociale."
+identifier: "1999000386"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999000386/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1999-05-07
+published: 1999-05-15
+entry_into_force: 1999-04-18
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999000386/justel"
+department: "Intérieur"
+retrieved: 2026-10-11
+---
+
+# 7 MAI 1999. - Loi modifiant l'article 54 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers et l'article 57ter de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, les articles 2, § 5, 5, § 2 et 11bis de la loi du 2 avril 1965 relative à la prise en charge des secours accordés par les centres publics d'aide sociale.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 54, § 1er, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, remplacé par la loi du 6 mai 1993 et modifié par les lois des 24 mai 1994 et 15 juillet 1996, est complété par la disposition suivante :
+
+" 5° appartiennent aux catégories de personnes désignées par un arrêté royal délibéré en Conseil des ministres dans le cadre de mesures spéciales visant la protection temporaire de personnes. ".
+
+## Art. 3
+
+Dans l'article 57ter, alinéa 1er de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, inséré par la loi du 30 décembre 1992 et modifie par la loi du 15 juillet 1996, les mots " ou l'étranger enjoint de s'inscrire en un lieu déterminé en application de l'article 54, § 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers " sont ajoutés après les mots " demandeur d'asile ".
+
+## Art. 4
+
+Dans l'article 2, § 5, de la loi du 2 avril 1965 relative à la prise en charge des secours accordés par les centres publics d'aide sociale, les mots " ou une personne visée l'article 54, § 1er, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers " sont chaque fois insérés après les mots " candidat réfugié ".
+
+## Art. 5
+
+Les modifications suivantes sont apportées à l'article 5, § 2, de la loi du 2 avril 1965 relative à la prise en charge des secours accordés par les centres publics d'aide sociale :
+
+1°) dans l'alinéa 1er, les mots " ou à la personne visée à l'article 54, § 1er, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers " sont insérés après les mots " en cette qualité ".
+
+2°) dans l'alinéa 2, les mots " ou la personne visée à l'article 54, § 1er, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers " sont insérés après les mots " candidat réfugié ";
+
+3°) dans l'alinéa 3 :
+
+a) les mots " ou les personnes visées à l'article 54, § 1, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers " sont insérés après le mot " candidat " et
+
+b) les mots " ou personnes " sont insérés après les mots " de candidats ".
+
+4°) l'alinéa 4 est remplacé comme suit : " La disposition de l'alinéa 1er reste applicable jusqu'à ce que le candidat est reconnu réfugié ou jusqu'à ce que le candidat ou la personne bénéficie de l'aide sociale en application de l'article 57, § 2, de la loi organique du 8 juillet 1976 des centres publics d'aide sociale. ".
+
+## Art. 6
+
+Dans l'article 11bis de la loi du 2 avril 1965 relative à la prise en charge des secours accordés par les centres publics d'aide sociale, les mots " ou une personne visée à l'article 64, § 1er, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers " sont insérés après les mots " candidat réfugié ".
+
+## Art. 7
+
+La présente loi produit ses effets le 18 avril 1999.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 7 mai 1999.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de l'Intérieur,
+
+L. VAN DEN BOSSCHE
+
+Le Ministre de la Santé publique en des Pensions,
+
+M. COLLA
+
+Le Secrétaire d'Etat à l'Intégration sociale,
+
+J. PEETERS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+T. VAN PARYS

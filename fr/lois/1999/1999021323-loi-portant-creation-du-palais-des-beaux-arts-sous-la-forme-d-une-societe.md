@@ -1,0 +1,500 @@
+---
+title: "Loi portant création du Palais des Beaux-Arts sous la forme d'une société anonyme de droit public [...]. <L 2023-12-08/09 , art. 2, 007; En vigueur : 30-12-2023>"
+identifier: "1999021323"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999021323/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1999-05-07
+published: 1999-08-20
+entry_into_force: 1999-10-28
+last_amended: 2023-12-20
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999021323/justel"
+department: "Premier Ministre"
+justel_note: "Consultation des versions antérieures à partir du 20-08-1999 et mise à jour au 20-12-2023"
+retrieved: 2026-10-11
+---
+
+# 7 MAI 1999. - Loi portant création du Palais des Beaux-Arts sous la forme d'une société anonyme de droit public [...]. &lt;L 2023-12-08/09 , art. 2, 007; En vigueur : 30-12-2023&gt;
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Base constitutionnelle
+
+#### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## TITRE I. - Du Palais des Beaux-Arts.
+
+### CHAPITRE I. [<sup>1</sup> - Forme légale, dénomination et siège, objet, durée, capital, statuts, dispositions légales et réglementaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-08/09, art. 3, 007; En vigueur : 30-12-2023&gt;
+
+### Forme légale, dénomination et siège.
+
+#### Art. 2
+
+[<sup>1</sup> La société dénommée "Palais des Beaux-Arts" est une société de droit public prenant la forme d'une société anonyme.]<sup>1</sup>
+
+La dénomination " Palais des Beaux-Arts " devra toujours être précédée ou suivie sur tous les actes, factures, annonces, publications, correspondances, lettres de commandes et autres documents émanant de la société, de la mention " société anonyme de droit public [<sup>1</sup> ...]<sup>1</sup> ", de la mention " naamloze vennootschap van publiek recht [<sup>1</sup> ...]<sup>1</sup> " ou de la mention " Aktiengesellschaft des öffentlichen Rechts [<sup>1</sup> ...]<sup>1</sup> ".
+
+[<sup>1</sup> Le siège de la société est établi au Palais des Beaux-Arts, dans la Région bruxelloise. Il peut être transféré en tout lieu de la région bilingue de Bruxelles-Capitale, par simple décision du conseil d'administration, qui a tous les pouvoirs pour acter authentiquement toute modification des statuts qui en découlerait.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-08/09, art. 4, 007; En vigueur : 30-12-2023&gt;
+
+### Objet
+
+#### Art. 3
+
+§ 1er. La Société a pour objet :
+
+1° d'élaborer et de mettre en oeuvre, sur le site du Palais des Beaux-Arts, une programmation culturelle pluridisciplinaire et intégrée, qui contribue au rayonnement européen et international de la Belgique fédérale, des Communautés et de Bruxelles-Capitale et qui comprend :
+
+1\. des productions culturelles spécifiques à la société Palais des Beaux-Arts, qui ne s'adressent pas exclusivement à l'une ou l'autre Communauté;
+
+2\. des coproductions dans les domaines visés au paragraphe précédent, en collaboration avec les sociétés, organismes et institutions qui poursuivent le même but;
+
+3\. la mise à disposition des salles et de 1'infrastructure du bâtiment à des sociétés, organismes et institutions développant une programmation culturelle qui leur est propre.
+
+Les tâches énumérées aux 1., 2. et 3. du présent paragraphe constituent la mission de service public de la société.
+
+2° de gérer le bâtiment " Palais des Beaux-Arts ", tant dans l'exercice de la mission de service public développée au 1°, qu'à des fins privées.
+
+§ 2. [<sup>1</sup> La société peut organiser une activité en dehors du site du Palais des Beaux-Arts en cas de force majeure ou lorsque cette activité est complémentaire à une activité organisée sur le site du Palais des Beaux-Arts.
+
+La société peut développer toutes les activités qui se rapportent directement ou indirectement à son objet. Dans la mesure où cela est nécessaire à l'accomplissement de sa mission, la société peut être autorisée par le Roi à acquérir des participations ou à assumer la direction de sociétés, associations ou institutions belges ou étrangères, de droit public ou privé, ou à initier ou participer à la création de telles sociétés, associations ou institutions, ou à des opérations visant à restructurer des sociétés, telles que des fusions ou des scissions ou des opérations similaires.
+
+Une participation minoritaire est soumise à l'approbation préalable du Roi, par arrêté royal délibéré en Conseil des ministres.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-08/09, art. 5, 007; En vigueur : 30-12-2023&gt;
+
+### Durée
+
+#### Art. 3/1
+
+[<sup>1</sup> La société a une durée illimitée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-08/09, art. 6, 007; En vigueur : 30-12-2023&gt;
+
+### Capital
+
+#### Art. 4
+
+[<sup>2</sup> Le capital de la société est représenté par des actions nominatives et sans valeur nominale. Lors de la constitution de la société, le capital a été formé des apports suivants:]<sup>2</sup>
+
+\- la valeur nette comptable de l'apport de la personne juridique de droit public dénommée " Palais des Beaux-Arts " classée dans la catégorie B visée à la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public;
+
+\- la valeur nette de l'apport de l'usufruit de l'immeuble " Palais des Beaux-Arts "; cet usufruit est constitué pour toute la durée de l'existence de la société par dérogation à l'article [<sup>1</sup> 3.141]<sup>1</sup> du Code civil.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Toutes les actions émises à l'occasion de la constitution de la société sont apportées à l'Etat fédéral.
+
+Toute émission d'actions nouvelles est soumise à l'autorisation préalable du Roi, par arrêté royal délibéré en Conseil des ministres.
+
+----------
+
+(1)&lt;L 2020-02-04/16, art. 20, 005; En vigueur : 01-09-2021&gt;
+
+(2)&lt;L 2023-12-08/09, art. 7, 007; En vigueur : 30-12-2023&gt;
+
+### Cession des parts
+
+#### Art. 5
+
+L'Etat fédéral devra détenir à tout moment plus de 50 % du montant total des actions émises et des droits de vote.
+
+Toute cession d'actions est approuvée au préalable par un arrêté royal délibéré en Conseil des ministres.
+
+Les actions ne peuvent être cédées par l'Etat fédéral qu'à titre onéreux. Le mode de détermination de la valeur de ces actions sera défini par arrêté royal délibéré en Conseil des ministres.
+
+### Apport
+
+#### Art. 6
+
+&lt;Abrogé par L 2023-12-08/09, art. 8, 007; En vigueur : 30-12-2023&gt;
+
+### Modification de l'objet ou de la forme juridique de la société
+
+#### Art. 7
+
+L'objet [<sup>1</sup> ...]<sup>1</sup>, de même que la forme juridique de la société ne pourront être modifiés que par la loi.
+
+----------
+
+(1)&lt;L 2023-12-08/09, art. 9, 007; En vigueur : 30-12-2023&gt;
+
+### Statuts
+
+#### Art. 8
+
+Les statuts de la société et toutes modifications de ceux-ci sont établis par arrêté royal délibéré en Conseil des ministres.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Les statuts de la société peuvent comporter des dénominations [<sup>1</sup> ...]<sup>1</sup> abrégées et des dénominations [<sup>1</sup> ...]<sup>1</sup> dans des langues qui ne sont pas officielles en Belgique.
+
+----------
+
+(1)&lt;L 2023-12-08/09, art. 10, 007; En vigueur : 30-12-2023&gt;
+
+### Dispositions légales et réglementaires
+
+#### Art. 9
+
+§ 1er. La société est soumise aux dispositions légales et réglementaires [<sup>2</sup> ...]<sup>2</sup>, qui sont applicables aux sociétés anonymes pour autant qu'il n'y soit pas expressément dérogé par ou en vertu de la présente loi ou d'une loi particulière quelconque.
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 4 [<sup>2</sup> La société n'est pas soumise aux dispositions suivantes :
+
+1° le livre XX du Code de droit économique ;
+
+2° la partie 1e, livre 2, titre 5, chapitre 1er, section 1e, du Code des sociétés et des associations ;
+
+3° l'article 2: 50 du Code des sociétés et des associations ;
+
+4° la partie 1e, livre 2, titre 7, du Code des sociétés et des associations ;
+
+5° la partie 1e, livre 2, titre 8, chapitre 1er, du Code des sociétés et des associations ;
+
+6° la partie 2, livre 7, titre 2, chapitre 5, du Code des sociétés et des associations ;
+
+7° l'article 7: 85, § § 2 et 3, du Code des sociétés et des associations ;
+
+8° la partie 2, livre 7, titre 5, chapitre 3, section 4, du Code des sociétés et des associations ;
+
+9° la cinquième partie du Code judiciaire en ce qui concerne les biens utilisés en tout ou en partie pour l'exercice des missions de service public de la société.]<sup>2</sup>]<sup>1</sup>.
+
+----------
+
+(1)&lt;AR 2022-04-18/12, art. 15, 006; En vigueur : 11-06-2022&gt;
+
+(2)&lt;L 2023-12-08/09, art. 11, 007; En vigueur : 30-12-2023&gt;
+
+### CHAPITRE II. - Organisation.
+
+### L'assemblée générale des actionnaires
+
+#### Art. 10
+
+§ 1er. Le Ministre qui a les affaires culturelles dans ses attributions représente l'Etat fédéral à l'assemblée générale [<sup>1</sup> des actionnaires]<sup>1</sup>.
+
+§ 2. L'assemblée générale exerce les compétences qui lui sont dévolues [<sup>1</sup> par le Code des sociétés et des associations]<sup>1</sup>. Elle est notamment chargée de l'approbation de l'inventaire et des comptes annuels [<sup>1</sup> , de la décharge des administrateurs et des commissaires et de l'affectation du résultat]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2023-12-08/09, art. 12, 007; En vigueur : 30-12-2023&gt;
+
+### Le conseil d'administration
+
+#### Art. 11
+
+§ 1er. Le conseil d'administration est composé de douze membres, en ce compris le président.
+
+§ 2. Le conseil d'administration est composé d'un nombre égal de membres d'expression néerlandaise et d'expression française.
+
+§ 3. Les membres du conseil d'administration sont nommés par le Roi, par arrêté royal délibéré en Conseil des ministres, sur base de leurs connaissances en matière culturelle ou en matière de gestion. Les membres du conseil d'administration ne peuvent être révoqués que par le Roi. par arrêté royal délibéré en Conseil des ministres sur avis conforme motivé du conseil d'administration statuant à la majorité simple.
+
+§ 4. Les membres du conseil d'administration sont nommés pour des termes renouvelables de six ans.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+§ 5. Le mandat des membres du conseil d'administration est exercé à titre gratuit.
+
+§ 6. En cas de vacance d'un mandat d'administrateur, les autres administrateurs pourront y pourvoir provisoirement, jusqu'à la nomination définitive conformément au paragraphe 3.
+
+§ 7. Sans préjudice des autres limitations prévues par ou en vertu d'une loi ou par les statuts de la société, le mandat d'administrateur est incompatible avec le mandat ou la fonction suivante :
+
+1° membre du Parlement européen ou de la Commission européenne;
+
+2° membre des chambres législatives;
+
+3° ministre ou secrétaire d'Etat fédéral;
+
+4° (membre d'un Parlement de communauté ou de région;) &lt;L 2006-03-27/35, art. 47, 003; En vigueur : 21-04-2006&gt;
+
+5° membre du gouvernement d'une communauté ou d'une région ou secrétaire d'Etat régional;
+
+6° membre du personnel statutaire ou contractuel de la société;
+
+7° gouverneur d'une province ou membre [<sup>1</sup> du collège provincial]<sup>1</sup>.
+
+§ 8. Lorsqu'un administrateur contrevient aux dispositions du paragraphe précédent, il est tenu de remettre sa démission. S'il ne le fait pas, il sera réputé de plein droit être démissionnaire dans un délai d'un mois à compter de la date de sa désignation prévue par son mandat, sans que cela ne porte préjudice à la validité juridique des actes qu'il a accomplis ou des délibérations auxquelles il a pris part pendant la période concernée.
+
+§ 9. Le Roi nomme, par arrêté royal délibéré en Conseil des ministres, le président du conseil d'administration, ainsi que le vice-président. La révocation du président et du vice-président en leur qualité d'administrateur entraîne de plein droit leur démission. En cas de partage des voix au sein du conseil d'administration, la voix du président, ou en l'absence de celui-ci, du vice-président, est prépondérante. Le président et le vice-président appartiennent à un rôle linguistique différent.
+
+§ 10. [<sup>1</sup> Le conseil d'administration est chargé de la surveillance et du contrôle de l'activité du comité exécutif, du directeur général et du directeur financier.
+
+Le conseil d'administration définit la stratégie de la société sur proposition du comité exécutif et approuve chaque année un plan d'entreprise fixant les objectifs de la société. Ce projet lui est soumis par le comité exécutif.
+
+Le conseil d'administration est également compétent pour :
+
+1° l'approbation du contrat de gestion, ainsi que pour toutes les modifications de celui-ci ;
+
+2° l'approbation de la convention relative aux conditions d'occupation, de prestation et de promotion de l'Orchestre National de Belgique comme orchestre en résidence au sein du Palais des Beaux-Arts. La convention visée à l'alinéa 3, 2°, est soumise à l'approbation du ministre qui a les institutions culturelles dans ses attributions ;
+
+3° l'élaboration de l'inventaire, du rapport de gestion et des comptes annuels à soumettre à l'approbation de l'assemblée générale de même que la décharge des membres du comité exécutif ;
+
+4° la prise de participation dans les sociétés, groupements, associations ou institutions de droit public ou privé existants ou à créer ;
+
+5° la convocation de l'assemblée générale.
+
+Le conseil d'administration peut déléguer au comité exécutif tout ou partie de ses compétences, de même que la gestion journalière, à l'exception des compétences qui sont réservées expressément au conseil d'administration par le présent paragraphe et par les dispositions légales applicables aux sociétés anonymes.
+
+Les marchés publics sont passés par ou en vertu d'une décision du conseil d'administration. Le conseil d'administration détermine les marchés pour lesquels le comité exécutif est seul compétent et les marchés pour lesquels le comité exécutif peut subdéléguer la décision.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-08/09, art. 13, 007; En vigueur : 30-12-2023&gt;
+
+### Le directeur général [<sup>1</sup> , le directeur financier]<sup>1</sup> et le comité exécutif
+
+----------
+
+(1)&lt;L 2013-07-30/11, art. 2, 004; En vigueur : 05-09-2013&gt;
+
+#### Art. 12
+
+§ 1er. [<sup>2</sup> Le directeur général est chargé de la gestion journalière de la société. Il est assisté d'un comité exécutif, qu'il préside. Le comité exécutif exerce les pouvoirs qui lui sont délégués par le conseil d'administration. Le directeur général ou le conseil d'administration peuvent déléguer certaines tâches de gestion journalière à des membres du comité exécutif ou à des membres du personnel.]<sup>2</sup>
+
+Le directeur général est nommé pour [<sup>1</sup> un terme renouvelable de six ans]<sup>1</sup>, sur base de ses connaissances en matière culturelle [<sup>2</sup> et]<sup>2</sup> en matière de gestion.
+
+Le [<sup>2</sup> comité exécutif]<sup>2</sup> a notamment pour tâche d'initier la programmation culturelle telle qu'elle est définie à l'article 3.
+
+[<sup>1</sup> Le directeur financier est responsable avec le directeur général, vis-à-vis du conseil d'administration, de l'équilibre financier de la société. Il vise, avant la signature par le directeur général, [<sup>2</sup> les contrats et les opérations financières]<sup>2</sup>, rédige avec le directeur général les propositions budgétaires et informe [<sup>2</sup> régulièrement]<sup>2</sup> le conseil d'administration de la situation financière de l'établissement. Il est responsable d'une correcte exécution financière de toutes les décisions du conseil d'administration et de la gestion financière journalière. Il est nommé pour un terme renouvelable de six ans.
+
+[<sup>2</sup> Le conseil d'administration détermine les modes d'exercice et les modalités du visa par le directeur financier.]<sup>2</sup>
+
+Si le visa est refusé le directeur général peut soumettre le dossier au conseil d'administration pour décision.]<sup>1</sup>
+
+§ 2. [<sup>2</sup> Le comité exécutif est composé de six membres au plus, en ce compris le directeur général et le directeur financier.
+
+Le comité exécutif compte autant de membres d'expression française que d'expression néerlandaise. Les membres qui ne sont ni d'expression française ni d'expression néerlandaise ne sont pas pris en compte pour déterminer la parité linguistique. Dans ce cas, le cas échéant, le nombre de membres du comité exécutif pourra être porté à sept au plus.
+
+Au moins deux membres du Comité exécutif, dont le directeur général, seront choisis sur la base de leurs compétences en matière culturelle.
+
+Le mandat des membres du comité exécutif nommés par le conseil d'administration est exercé à titre gratuit.]<sup>2</sup>
+
+§ 3. [<sup>2</sup> La société est valablement représentée à l'égard des tiers, en ce compris la représentation en justice, par :
+
+\- soit le directeur général et le directeur financier, agissant seul ou conjointement ;
+
+\- soit le directeur général ou le directeur financier agissant conjointement avec un membre du comité exécutif ;
+
+\- soit deux membres du comité exécutif agissant conjointement et désignés par le directeur général.]<sup>2</sup>
+
+§ 4. [<sup>1</sup> Le directeur général et le directeur financier sont nommés et révoqués]<sup>1</sup> par le Roi, par arrêté délibéré en Conseil des ministres. Les autres membres du [<sup>2</sup> comité exécutif]<sup>2</sup> sont nommés par le conseil d'administration sur proposition du directeur général pour des termes renouvelables de six ans. Ils sont révoqués par le conseil d'administration statuant à la majorité des deux tiers des membres présents ou représentés.
+
+[<sup>1</sup> La vacance de l'emploi du directeur général et du directeur financier est annoncée par avis publié au Moniteur belge, qui fixe le délai pour le dépôt des candidatures.]<sup>1</sup>
+
+§ 5. [<sup>1</sup> Le directeur général et le directeur financier sont invités]<sup>1</sup> à toutes les réunions du conseil d'administration et y [<sup>1</sup> ont voix consultative]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2013-07-30/11, art. 2, 004; En vigueur : 05-09-2013&gt;
+
+(2)&lt;L 2023-12-08/09, art. 14, 007; En vigueur : 30-12-2023&gt;
+
+### CHAPITRE III. - Contrat de gestion.
+
+### Contenu et durée
+
+#### Art. 13
+
+§ 1er. Le contrat de gestion à conclure entre l'Etat fédéral et la société règle au moins les matières suivantes :
+
+1° Les modalités selon lesquelles la mission de service public de la société, telle qu'énoncée à l'article 3, § 1er, 1°, sera assurée.
+
+2° la description des lignes de force et des accents spécifiques en matière de programmation culturelle;
+
+3° la fixation, le calcul, les conditions et les modalités de paiement des subventions éventuelles à charge du Budget général des Dépenses de l'Etat fédéral;
+
+4° la manière dont les intérêts financiers de l'Etat fédéral sont garantis;
+
+5° les obligations en matière de contrôles interne et externe;
+
+6° la manière dont un service multilingue sera assuré à la clientèle et aux partenaires de la société;
+
+7° les contrats à long terme avec les sociétés, groupements. associations et institutions qui contribuent activement à la réalisation de l'objet [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 2. Le contrat de gestion est conclu pour une durée de trois ans au moins et de cinq ans au plus.
+
+§ 3. Le contrat de gestion n'entre en vigueur qu'après son approbation par le Roi par arrêté royal délibéré en Conseil des ministres et à la date fixée par cet arrêté.
+
+§ 4. Au plus tard six mois avant l'expiration du contrat de gestion, le [<sup>1</sup> comité exécutif]<sup>1</sup> soumet au ministre fédéral qui a les affaires culturelles dans ses attributions, un projet de nouveau contrat de gestion. Si, à l'expiration du contrat de gestion, un nouveau contrat de gestion n'est pas entré en vigueur, le contrat est prorogé de plein droit jusqu'à l'entrée en vigueur d'un nouveau contrat de gestion. Cette prorogation est publiée au Moniteur belge par le ministre fédéral qui a les affaires culturelles dans ses attributions.
+
+----------
+
+(1)&lt;L 2023-12-08/09, art. 15, 007; En vigueur : 30-12-2023&gt;
+
+### CHAPITRE IV. - Tutelle administrative.
+
+### Commissaires du gouvernement.
+
+#### Art. 14
+
+§ 1er. (La société est soumise au pouvoir de contrôle du ministre fédéral qui a les institutions culturelles fédérales dans ses attributions et du Ministre du Budget. Ce contrôle est exercé à l'intervention des deux commissaires du gouvernement nommés conformément à l'article 151 de la loi-programme du 8 avril 2003 et d'un commissaire du gouvernement nommé et révoqué par le Roi sur la proposition du Ministre du Budget.
+
+Le Roi détermine le statut et la rémunération du commissaire du gouvernement nommé sur la proposition du Ministre du Budget. Cette rémunération est à charge du Budget général des Dépenses de l'Etat fédéral.
+
+Le Roi peut régler, par arrêté délibéré en Conseil des Ministres, l'exercice de la mission et les moyens d'actions des commissaires du gouvernement.) &lt;L 2003-04-08/33, art. 156, 002; En vigueur : 19-04-2004&gt;
+
+§ 2. Les commissaires du gouvernement veillent au respect de la loi, des statuts de la société et du contrat de gestion.
+
+§ 3. (Les commissaires du gouvernement sont invités à toutes les réunions du conseil d'administration et y ont voix consultative. Les commissaires du gouvernement reçoivent l'ordre du jour complet du conseil d'administration et du [<sup>1</sup> comité exécutif]<sup>1</sup>, ainsi que tout document y relatif en ce compris les procès-verbaux.) &lt;L 2003-04-08/33, art. 156, 002; En vigueur : 19-04-2004&gt;
+
+Chaque commissaire du gouvernement peut, à tout moment, prendre connaissance, sur place, des livres, de la correspondance, des procès-verbaux et généralement de tous les documents et de toutes les écritures de la société. Chaque commissaire du gouvernement peut requérir des administrateurs, du directeur général, des membres du [<sup>1</sup> comité exécutif]<sup>1</sup>, des agents et des préposés de la société toutes les explications ou informations et procéder à toutes les vérifications qui lui paraissent nécessaires à l'exécution de son mandat.
+
+La société transmet immédiatement à chaque commissaire du gouvernement les remarques du Collège des commissaires visé à l'article 15, ainsi que les réponses fournies à ces remarques.
+
+La société met à la disposition des commissaires du gouvernement les ressources humaines et matérielles nécessaires à l'exécution de leur mandat.
+
+§ 4. Chaque commissaire du gouvernement peut, dans un délai de quatre jours ouvrables, introduire un recours auprès du ministre auquel il fait rapport contre toute décision des organes de la société qu'il estime contraire à la loi, aux statuts de la société ou au contrat de gestion. Ce recours existe également contre toute décision visant à confier à des tiers des tâches que la société peut exécuter elle-même.
+
+Le délai pour exercer un recours contre une décision du conseil d'administration court à partir du jour de la réunion au cours de laquelle la décision a été prise, pour autant que le commissaire du gouvernement y ait été régulièrement convoqué et, dans le cas contraire, à partir du jour où il en a reçu connaissance.
+
+Le recours est suspensif.
+
+Tout recours d'un commissaire du gouvernement est communiqué le jour même par recommandé au président du conseil d'administration, au directeur général, au ministre fédéral qui a les affaires culturelles dans ses attributions et au ministre du Budget.
+
+§ 5. Dans un délai de dix jours ouvrables commençant le même jour que le délai visé au paragraphe 4, le ministre fédéral qui a les affaires culturelles dans ses attributions et le ministre du Budget notifient, après concertation, au président du conseil d'administration et au directeur général l'annulation de la décision, s'il échet.
+
+En cas de désaccord entre le ministre fédéral qui a les affaires culturelles dans ses attributions et le ministre du Budget, l'un ou l'autre notifie, après concertation et dans le délai de dix jours ouvrables visé à l'alinéa précédent, au président du conseil d'administration et au directeur général, l'absence d'accord et [<sup>1</sup> la prolongation à trente jours ouvrables du délai initial de dix jours ouvrables]<sup>1</sup>.
+
+Si dans le délai de trente jours ouvrables commençant le même jour que le délai visé au paragraphe 4, le ministre fédéral qui a les affaires culturelles dans ses attributions et le ministre du Budget trouvent un accord, ils en informent aussitôt le président du conseil d'administration de la société et le directeur général.
+
+A défaut de décision dans le délai de trente jours ouvrables visé à l'alinéa précédent, le Roi statue, par arrêté royal délibéré en Conseil des ministres dans un délai de soixante jours ouvrables, commençant le même jour que le délai au paragraphe 4.
+
+A défaut de décision dans le délai de soixante jours visé à l'alinéa précédent, la décision de la société devient définitive.
+
+§ 6. Chaque année, le conseil d'administration fait rapport au ministre fédéral qui a les affaires culturelles dans ses attributions et au ministre du Budget de l'accomplissement par la société de ses tâches de service public.
+
+Chaque année, le ministre fédéral qui a les affaires culturelles dans ses attributions fait rapport à la Chambre des représentants de l'application de la présente loi.
+
+§ 7. Lorsque le respect de la loi, des statuts de la société ou du contrat de gestion le requiert, le ministre fédéral qui a les affaires culturelles dans ses attributions, le ministre du Budget ou chaque commissaire du gouvernement peuvent requérir de l'organe de gestion compétent une délibération dans le délai qu'ils fixent, sur toute question qu'ils déterminent.
+
+----------
+
+(1)&lt;L 2023-12-08/09, art. 16, 007; En vigueur : 30-12-2023&gt;
+
+### CHAPITRE V. - Contrôle.
+
+### Commissaires réviseurs
+
+#### Art. 15
+
+§ 1er. Le contrôle de la situation financières, des comptes annuels et de la régularité des opérations à constater dans les comptes annuels, au regard de la présente loi et des statuts, est confié à un collège de quatre commissaires.
+
+§ 2. [<sup>1</sup> Deux commissaires sont nommés par l'assemblée générale de la société, parmi les réviseurs d'entreprises, inscrits au registre public des réviseurs d'entreprises ou des cabinets d'audit enregistrés.]<sup>1</sup>
+
+Deux commissaires sont nommés par la Cour des comptes.
+
+§ 3. Les commissaires sont nommés pour un terme renouvelable de quatre années.
+
+----------
+
+(1)&lt;L 2023-12-08/09, art. 17, 007; En vigueur : 30-12-2023&gt;
+
+### CHAPITRE VI. - Dispositions sociales.
+
+### Personnel
+
+#### Art. 16
+
+§ 1er. A dater de la constitution de la société, les droits et obligations des membres du personnel de la personne juridique de droit public dénommée "Palais des Beaux-Arts" transférés au sein de la société sont continués de plein droit à charge et au bénéfice de la société dans le cadre du régime statutaire en vigueur au sein de la personne juridique de droit public dénommée " Palais des Beaux-Arts ".
+
+§ 2. Tout nouveau recrutement de membres du personnel postérieur à la constitution de la société sera effectué en vertu d'un contrat de travail soumis à la loi du 3 juillet 1978 relative aux contrats de travail.
+
+§ 3. Chaque membre du personnel statutaire de la personne juridique de droit public dénommée " Palais des Beaux-Arts " qui a été transféré à la société, pourra, dans un délai de six mois prenant cours à la date du transfert du personnel, opter pour le régime contractuel, par pli recommandé adressé au directeur général de la société.
+
+§ 4. La société et les organisations syndicales représentatives concluront au sein de la commission paritaire prévue au paragraphe 7 du présent article les conventions nécessaires en vue de préserver les droits des membres du personnel de la personne juridique de droit public dénommée " Palais des Beaux-Arts " qui ont été transférés à la société et ont opté pour le régime contractuel conformément au paragraphe 3, en matière de sécurité d'emploi, de pension, et de rémunération, sans préjudice de la primauté des règles impératives ou hiérarchiquement supérieures à ces conventions.
+
+Jusqu'à l'entrée en vigueur des conventions visées à l'alinéa précédent, les droits et obligations du personnel ayant opté pour le régime contractuel, conformément au paragraphe 3 du présent article, sont continués de plein droit à charge ou au bénéfice de la société dans le cadre de contrats individuels de travail, sous réserve de leur compatibilité avec l'ensemble des règles impératives ou hiérarchiquement supérieures auxdits contrats de travail individuels.
+
+§ 5. A dater de l'exercice de l'option pour le régime contractuel prévue au paragraphe 3 du présent article, l'ensemble des dispositions légales et réglementaires en matière de droit du travail individuel et collectif et de la sécurité sociale des travailleurs salariés s'appliqueront à la société et aux membres du personnel transférés et ayant opté pour le régime contractuel conformément au paragraphe 3 du présent article.
+
+§ 6. La fixation du statut du personnel et du statut syndical est organisée conformément et par référence aux articles 32, 33, 34 et 35 de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques.
+
+§ 7. Il est institué au sein de la société une commission paritaire conformément à l'article 30 de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques.
+
+### CHAPITRE VII. - Dispositions diverses.
+
+### Dissolution
+
+#### Art. 17
+
+La dissolution de la société ne peut être prononcée que par ou en vertu d'une loi. La loi règle le mode et les conditions de la liquidation [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2023-12-08/09, art. 18, 007; En vigueur : 30-12-2023&gt;
+
+### Entrée en vigueur
+
+#### Art. 18
+
+Le Roi fixe la date d'entrée en vigueur de la présente loi.
+
+La loi du 12 août 1981 portant création d'une personne juridique de droit public dénommée " Palais des Beaux-Arts " est abrogée à la date de la constitution de la société.
+
+(NOTE : Entrée en vigueur de l'art. 21 fixée le 28-10-1999 par AR 1999-10-01/34, art. 1)
+
+(NOTE : Entrée en vigueur des articles 2 à 20 fixée le 25-08-2000 par AR 2000-03-01/93, art. 1)
+
+### Dispositions finales
+
+#### Art. 19
+
+1° La société peut transiger et compromettre.
+
+2° La société peut recevoir des dons et des legs.
+
+3° Elle est exonérée de l'obligation de paiement de tout droit de succession.
+
+### CHAPITRE VIII. - Dispositions transitoires.
+
+### Sociétés affiliées
+
+#### Art. 20
+
+§ 1er. A dater de la constitution de la société, les droits et obligations des sociétés affiliées sont continués de plein droit à charge et au bénéfice de la société, sous la réserve précisée au paragraphe 2.
+
+§ 2. Les dispositions du paragraphe 1er régiront les rapports entre les sociétés affiliées et la société tant que le conseil d'administration et le comité de direction de la société n'auront pas défini les critères, conditions et règles des partenariats à établir en application de l'article 3, 1er alinéa, 2°.
+
+## TITRE II. - De la modification de la loi du 30 mars 1995 concernant les réseaux de distribution d'émissions de radiodiffusion et l'exercice d'activités de radiodiffusion dans la région bilingue de Bruxelles-Capitale.
+
+#### Art. 21
+
+Le dernier alinéa de l'article 14 de la loi du 30 mars 1995 concernant les réseaux de distribution d'émissions de radiodiffusion et l'exercice d'activités de radiodiffusion dans la région bilingue de Bruxelles-Capitale est abrogé.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du Sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 7 mai 1999.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Politique scientifique,
+
+Y. YLIEFF

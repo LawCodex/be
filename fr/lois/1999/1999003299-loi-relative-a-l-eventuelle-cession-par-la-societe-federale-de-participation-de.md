@@ -1,0 +1,96 @@
+---
+title: "Loi relative à l'éventuelle cession par la Société fédérale de Participation de ses actions de l'Office central de Crédit hypothécaire."
+identifier: "1999003299"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/23/1999003299/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1999-04-23
+published: 1999-05-22
+entry_into_force: 1999-06-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/23/1999003299/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 23 AVRIL 1999. - Loi relative à l'éventuelle cession par la Société fédérale de Participation de ses actions de l'Office central de Crédit hypothécaire.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, charger la Société fédérale de Participations de céder tout ou partie des actions qu'elle détient dans le capital social de la société anonyme Office central de Crédit hypothécaire, dénommée ci-après " OCCH ".
+
+Les conditions des cessions visées à l'alinéa précédent sont soumises à l'approbation préalable du Ministre des Finances, du Ministre des Affaires économiques et du Ministre du Budget.
+
+Le Roi peut également, par arrêté délibéré en Conseil des Ministres, charger la Société fédérale de Participations, soit de souscrire à une augmentation de capital de l'OCCH, soit d'organiser la scission de l'OCCH en sociétés de droit privé en vue de céder tout ou partie des actions des sociétés issues de la scission, soit d'organiser l'apport par l'OCCH d'une partie de ses activités à une filiale de droit privé, en vue de céder tout ou partie des actions de celle-ci.
+
+## Art. 3
+
+A l'article 61 de la loi coordonnée du 24 décembre 1996 portant organisation du secteur public du crédit et de la détention des participations du secteur public dans certaines sociétés financières de droit privé, le troisième alinéa est abrogé.
+
+## Art. 4
+
+En vue de cessions visées à l'article 2, et sans préjudice de l'article 89 de la même loi coordonnée, le Roi peut, par arrête délibéré en Conseil des ministres, prendre toutes les mesures utiles, et, le cas échéant, modifier ou abroger les dispositions légales applicables à l'OCCH, en vue de :
+
+1° régler les modalités des opérations nécessaires, en ce compris :
+
+a) des cessions ou échanges de dettes, créances, valeurs mobilières ou droits négociables;
+
+b) des apports ou cessions d'actifs, de passifs ou de branches d'activité;
+
+c) la création de sociétés nouvelles ou la souscription à des augmentations de capital de l'OCCH ou de sociétés nouvelles contre espèces ou apports en nature;
+
+d) l'émission de tous droits négociables ou valeurs mobilières avec ou sans droit de vote, représentatif ou non du capital social;
+
+2° modifier les dispositions relatives à la création, l'organisation, les missions, le fonctionnement, le financement, le contrôle, la dissolution et la liquidation de l'OCCH;
+
+3° supprimer les règles spéciales applicables à l'OCCH qui diffèrent des règles de droit commun applicables aux sociétés anonymes de droit privé.
+
+## Art. 5
+
+§ 1er. Les arrêtés pris en vertu de l'article 4 peuvent modifier, compléter, remplacer ou abroger les dispositions légales en vigueur.
+
+§ 2. Les pouvoirs accordés au Roi par l'article 4 expirent le 31 décembre 1999.
+
+Après cette date, les arrêtés pris en vertu de l'article 4 ne peuvent être modifiés, complétés, remplacés ou abrogés que par la loi.
+
+## Art. 6
+
+Le Ministre des Finances fait apport, à la Chambre des représentants sur les cessions visées à l'article 2 et les mesures prises en vertu de l'article 4.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 23 avril 1999.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre de l'Economie,
+
+E. DI RUPO
+
+Le Vice-Premier Ministre et Ministre du Budget,
+
+H. VAN ROMPUY
+
+Le Ministre des Finances,
+
+J.-J. VISEUR
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+T. VAN PARYS

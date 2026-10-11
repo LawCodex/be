@@ -1,0 +1,74 @@
+---
+title: "Loi contenant le septième ajustement du Budget général des dépenses pour l'année 1999 - section 33 et 51."
+identifier: "2000003029"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1999/12/22/2000003029/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1999-12-22
+published: 2000-02-08
+entry_into_force: 2000-02-08
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1999/12/22/2000003029/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 22 DECEMBRE 1999. - Loi contenant le septième ajustement du Budget général des dépenses pour l'année 1999 - section 33 et 51.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1. - Dispositions générales.
+
+### Art. 1
+
+La présente loi règle une matière visée à l'article 74, 3° de la Constitution.
+
+### Art. 2
+
+Le Budget général des dépenses pour l'année budgétaire 1999 est ajusté conformément aux totaux des programmes, repris au tableau de crédit joint en annexe à la présente loi.
+
+## CHAPITRE 2. - Disposition finale.
+
+### Art. 3
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 22 décembre 1999.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre du Budget,
+
+J. VANDE LANOTTE
+
+La Ministre de la Mobilité et des Transports,
+
+Mme I. DURANT
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN
+
+## ANNEXE.
+
+### Art. N
+
+TABLEAUX ANNEXES A LA LOI.
+
+(Tableau non repris pour des raisons techniques. Voir M.B. 08-02-2000, p. 3810 - 3816).

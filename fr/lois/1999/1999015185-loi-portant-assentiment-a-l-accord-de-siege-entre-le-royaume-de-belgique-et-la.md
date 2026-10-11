@@ -1,0 +1,86 @@
+---
+title: "Loi portant assentiment à l'Accord de siège entre le Royaume de Belgique et la Ligue des Etats arabes, signé à Bruxelles le 16 novembre 1995."
+identifier: "1999015185"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/09/1999015185/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1999-06-09
+published: 1999-11-04
+entry_into_force: 1999-11-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/09/1999015185/justel"
+department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
+retrieved: 2026-10-11
+---
+
+# 9 JUIN 1999. - Loi portant assentiment à l'Accord de siège entre le Royaume de Belgique et la Ligue des Etats arabes, signé à Bruxelles le 16 novembre 1995.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+L'Accord de siège entre le Royaume de Belgique et la Ligue des Etats arabes, signé à Bruxelles le 16 novembre 1995, sortira son plein et entier effet.
+
+## Art. 3
+
+La présente loi produit ses effets le 16 novembre 1995.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné le 9 juin 1999.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires étrangères,
+
+E. DERYCKE
+
+Le Ministre de l'Intérieur,
+
+L. VAN DEN BOSSCHE
+
+La Ministre de l'Emploi et du Travail,
+
+Mme M. SMET
+
+La Ministre des Affaires sociales,
+
+Mme M. DE GALAN
+
+Le Ministre des Transports,
+
+M. DAERDEN
+
+Le Ministre de la Justice,
+
+T. VAN PARYS
+
+Le Ministre des Finances,
+
+J.-J. VISEUR
+
+Vu et scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+T. VAN PARYS
+
+## ANNEXE.
+
+## Art. N
+
+Accord de siège entre le Royaume de Belgique et la Ligue des Etats arabes.
+
+(Pour l'accord, voir %%1995-11-16/35%%).

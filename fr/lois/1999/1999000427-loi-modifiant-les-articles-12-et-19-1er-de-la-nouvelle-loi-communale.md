@@ -1,0 +1,66 @@
+---
+title: "Loi modifiant les articles 12 et 19, § 1er, de la nouvelle loi communale."
+identifier: "1999000427"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/04/1999000427/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1999-05-04
+published: 1999-07-28
+entry_into_force: 1999-08-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/04/1999000427/justel"
+department: "Intérieur"
+retrieved: 2026-10-11
+---
+
+# 4 MAI 1999. - Loi modifiant les articles 12 et 19, § 1er, de la nouvelle loi communale.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Dans l'article 12 de la nouvelle loi communale, remplacé par l'arrêté royal du 30 mai 1989, est inséré un § 1erbis, libellé comme suit :
+
+" § 1erbis. La commune peut, selon les modalités que le Roi détermine, majorer les jetons de présence du conseiller communal qui bénéficie d'autres traitements, pensions, indemnités ou allocations légaux ou réglementaires, d'un montant compensant la perte de revenus subie par l'intéressé, pourvu que le mandataire en fasse lui-même la demande.
+
+Le montant des jetons de présence, majoré du montant compensant la perte de revenus, ne peut jamais excéder le traitement d'un échevin d'une commune de 50 000 habitants. ".
+
+## Art. 3
+
+L'article 19, § 1er, de la nouvelle loi communale, modifié par la loi du 28 décembre 1989, est complété par les alinéas suivants :
+
+" Dans les communes de moins de 50 000 habitants, la commune peut, selon les modalités que le Roi détermine, majorer le traitement du bourgmestre ou de l'échevin qui bénéficie de traitements, pensions, indemnités ou allocations légaux ou réglementaires, d'un montant compensant la perte de revenus subie par l'intéressé, pour autant que le mandataire en fasse lui-même la demande.
+
+Le traitement du bourgmestre ou de l'échevin, majoré du montant compensant la perte de revenus, ne peut jamais excéder respectivement le traitement d'un bourgmestre ou d'un échevin d'une commune de 50 000 habitants. ".
+
+## Art. 4
+
+La présente loi entre en vigueur le premier jour du mois qui suit celui au cours duquel elle aura été publiée au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 4 mai 1999.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de l'Intérieur,
+
+L. VAN DEN BOSSCHE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+T. VAN PARYS

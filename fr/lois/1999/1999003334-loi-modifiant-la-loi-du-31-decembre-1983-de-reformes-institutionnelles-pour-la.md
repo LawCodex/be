@@ -1,0 +1,70 @@
+---
+title: "Loi modifiant la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone."
+identifier: "1999003334"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/04/1999003334/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1999-05-04
+published: 1999-10-29
+entry_into_force: 1999-11-08
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/04/1999003334/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 4 MAI 1999. - Loi modifiant la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+§ 1er. L'article 58quinquies, § 2, de la loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone, remplacé par la loi du 16 juillet 1993, est complété comme suit :
+
+" 4° pour l'année budgétaire 1999, un montant unique non renouvelable de 84 806 657 francs. ".
+
+§ 2. L'article 58quinquies, § 3, de le loi du 31 décembre 1983 de réformes institutionnelles pour la Communauté germanophone, remplacé par la loi du 16 juillet 1993, est complété comme suit :
+
+" 4° pour les années budgétaires 2000 et 2001, un montant unique non renouvelable de chaque fois 84 806 658 francs;
+
+5° un montant fixe annuel de 11,1 millions de francs. ".
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 4 mai 1999.
+
+ALBERT
+
+Par le Roi :
+
+Le Premier Ministre,
+
+J.-L. DEHAENE
+
+Le Vice-Premier Ministre,
+
+L. VAN DEN BOSSCHE
+
+Le Vice-Premier Ministre,
+
+H. VAN ROMPUY
+
+Le Ministre des Finances,
+
+J.-J. VISEUR
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+T. VAN PARYS

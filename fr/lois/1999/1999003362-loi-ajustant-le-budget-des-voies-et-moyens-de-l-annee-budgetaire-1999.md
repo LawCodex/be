@@ -1,0 +1,114 @@
+---
+title: "Loi ajustant le budget des Voies et Moyens de l'année budgétaire 1999. -"
+identifier: "1999003362"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999003362/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1999-05-07
+published: 1999-09-30
+entry_into_force: 1999-09-30
+last_amended: 1999-12-23
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/07/1999003362/justel"
+department: "Finances"
+justel_note: "Consultation des versions antérieures à partir du 30-09-1999 et mise à jour au 23-12-1999."
+retrieved: 2026-10-11
+---
+
+# 7 MAI 1999. - Loi ajustant le budget des Voies et Moyens de l'année budgétaire 1999. -
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des Représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 74, 3°, de la Constitution.
+
+## Art. 2
+
+Pour l'année budgétaire 1999, les recettes courantes de l'Etat sont réévaluées :
+
+Pour les recettes fiscales, a 1 443 856 100 000 F
+
+Pour les recettes non fiscales, a 115 692 800 000 F
+
+Soit ensemble 1 559 548 900 000 F
+
+conformément au Titre I du tableau ci-annexé.
+
+## Art. 3
+
+Pour l'année budgétaire 1999, les recettes en capital sont reévaluées à la somme de 16 568 900 000 francs, conformément au Titre II du tableau ci-annexé.
+
+## Art. 4
+
+Pour l'année budgétaire 1999, les produits d'emprunts sont réévalués à la somme de 1 141 100 000 000 de francs, conformément au Titre III du tableau ci-annexé.
+
+## Art. 5
+
+Le montant de la plus-value réalisée à l'occasion de la cession d'or à la Banque Centrale Européenne, comptabilisé dans un compte spécial de réserve au bilan de la Banque Nationale de Belgique, qui est versé à l'Etat aux fins de financer le remboursement d'une partie de la dette publique, est porté en recettes au Titre III - produits d'emprunts - du budget des Voies et Moyens de l'année budgétaire 1999.
+
+## Art. 6
+
+Conformément à l'article 53, 1°, de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions, modifiée par la loi spéciale du 16 juillet 1993 visant à achever la structure fédérale de l'Etat, et en tenant compte de l'affectation des intérêts de retard et de la charge des intérêts moratoires relatifs aux impôts régionaux telles que visées à l'article 4, § 6, de cette même loi spéciale, les moyens financiers des Régions en provenance des impôts régionaux y compris les intérêts susvisés, sont estimés pour l'année budgétaire 1999 à 40 746 900 000 francs pour la Région flamande, à 17 397 100 000 francs pour la Région wallonne et à 11 557 200 000 francs pour la Région de Bruxelles-Capitale. La concrétisation, à compter du 1er janvier 1999, de la décision du Gouvernement flamand d'assurer lui-même le service de l'impôt en matière de précompte immobilier, et ce en exécution de l'article 5, § 4, de cette même loi spéciale, ramènera l'estimation des transferts susvisés, intérêts compris, à 37 204 600 000 francs pour la Région flamande.
+
+## Art. 7
+
+&lt;L 1999-12-07/32, art. 2, 002; En vigueur : 23-12-1999&gt; Conformément à l'article 53, 2° de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions, modifiée par la loi spéciale du 16 juillet 1993 visant à achever la structure fédérale de l'Etat, compte tenu des soldes définitifs de décompte de l'année budgétaire 1998, compte tenu de la régularisation des parties attribuées du produit de la taxe sur la valeur ajoutée pour les années budgétaires 1990 à 1998 incluse, suite à la révision du nombre d'habitants âgés de moins de dix-huit ans, visées à l'article 38, § 4 de la même loi spéciale modifiée, les moyens financiers des Communautés en provenance des parties attribuées du produit de la taxe sur la valeur ajoutée et du produit de l'impôt des personnes physiques sont réestimés pour l'année budgétaire 1999 à FB 316 711 800 000 pour la Communauté flamande et à FB 214 180 200 000 pour la Communauté française.
+
+## Art. 8
+
+Conformément à l'article 53, 3°, et 35bis de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions, modifiée par la loi spéciale du 16 juillet 1993 visant à achever la structure fédérale de l'Etat, les moyens financiers des Régions en provenance de la partie attribuée du produit de l'impôt des personnes physiques sont réestimés, pour l'année budgétaire 1999, en tenant compte des soldes définitifs du décompte de l'année budgétaire 1998, à 226 029 400 000 francs pour la Région flamande, à 129 743 500 000 francs pour la Région wallonne et à 35 683 200 000 francs pour la Région de Bruxelles-Capitale.
+
+## Art. 9
+
+Les recettes au profit des Communautés et des Régions sont versées, selon le cas, soit à un fonds d'attribution ouvert au budget général des dépenses, soit à un compte d'ordre de Trésorerie.
+
+## Art. 10
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 7 mai 1999.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre du Budget,
+
+H. VAN ROMPUY
+
+Le Ministre des Finances,
+
+J.-J. VISEUR
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+T. VAN PARYS
+
+## Annexe.
+
+## Art. N
+
+Annexe. Tableau des recettes. - TITRE I. - Recettes courantes.
+
+(Annexe non reprise pour des raisons techniques. Voir MB 30-09-1999, p.
+
+36878 - 36905).
+
+TITRE II. - Recettes de capital.
+
+(Annexe non reprise pour des raisons techniques. Voir MB 30-09-1999, p. 36906 - 36911).
+
+TITRE III. - Produit d'emprunts.
+
+(Annexe non reprise pour des raisons techniques. Voir MB 30-09-1999, p. 36912).

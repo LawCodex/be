@@ -1,0 +1,58 @@
+---
+title: "Loi modifiant l'article 23 de la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour les élections des Chambres fédérales ainsi qu'au financement et à la comptabilité ouverte des partis politiques."
+identifier: "1999000601"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/23/1999000601/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1999-06-23
+published: 1999-08-19
+entry_into_force: 1999-08-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1999/06/23/1999000601/justel"
+department: "Intérieur"
+retrieved: 2026-10-11
+---
+
+# 23 JUIN 1999. - Loi modifiant l'article 23 de la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour les élections des Chambres fédérales ainsi qu'au financement et à la comptabilité ouverte des partis politiques.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+L'article 23 de la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour les élections des Chambres fédérales ainsi qu'au financement et à la comptabilité ouverte des partis politiques, modifié par le lois des 19 mai 1994 et 19 novembre 1998, est remplacé par la disposition suivante :
+
+" Art. 23. § 1er. Le conseil d'administration de l'institution visée à l'article 22 établit un rapport financier sur les comptes annuels du parti politique et de ses composantes.
+
+Le rapport financier est établi chaque année dans le respect des dispositions de la loi du 17 juillet 1975 relative à la comptabilité et aux comptes annuels des entreprises et de ses arrêtés d'exécution.
+
+Le rapport financier comprend au moins les documents énumérés en annexe de la présente loi, le cas échéant dans la forme prévue par cette annexe.
+
+§ 2. L'assemblée générale de l'institution visée à l'article 22 désigne un réviseur d'entreprises. Le réviseur d'entreprises établit chaque année un rapport sur le rapport financier visé au § 1er. ".
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 23 juin 1999.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de l'Intérieur,
+
+L. VAN DEN BOSSCHE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN

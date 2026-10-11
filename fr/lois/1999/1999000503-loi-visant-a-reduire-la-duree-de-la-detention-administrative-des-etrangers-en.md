@@ -1,0 +1,64 @@
+---
+title: "Loi visant à réduire la durée de la détention administrative des étrangers en séjour illégal sur le territoire belge."
+identifier: "1999000503"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/29/1999000503/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1999-04-29
+published: 1999-06-26
+entry_into_force: 1999-07-06
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/29/1999000503/justel"
+department: "Intérieur"
+retrieved: 2026-10-11
+---
+
+# 29 AVRIL 1999. - Loi visant à réduire la durée de la détention administrative des étrangers en séjour illégal sur le territoire belge.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+La loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, modifiée par la loi du 15 juillet 1996, est modifiée comme suit :
+
+Aux articles 7, alinéa 6, 25, alinéa 6, 29, alinéa 4, 74/5, § 3, alinéa 3, 74/5, § 4, 3°, et 74/6, § 2, alinéa 3, le mot " huit " est remplacé chaque fois par le mot " cinq ".
+
+## Art. 3
+
+La même loi est modifiée comme suit :
+
+A. Aux articles 7 et 29 est ajouté chaque fois un alinéa rédigé comme suit : " Dans le cas où la sauvegarde de l'ordre public ou la sécurité nationale l'exige, la détention de l'étranger peut être prolongée chaque fois d'un mois, après l'expiration du délai visé à l'alinéa précédent, sans toutefois que la durée totale de la détention puisse de ce fait dépasser huit mois. ".
+
+B. A l'article 25 est ajouté un alinéa rédigé comme suit : " Dans les cas où la sauvegarde de l'ordre public ou la sécurité nationale l'exige, la mise à disposition de l'étranger peut être prolongée chaque fois d'un mois, après l'expiration du délai visé à l'alinéa précédent, sans toutefois que la durée totale de la mise à disposition puisse de ce fait dépasser huit mois. ".
+
+C. Aux articles 74/5, § 3, et 74/6, § 2, il est ajouté chaque fois un alinéa rédigé comme suit : " Dans les cas où la sauvegarde de l'ordre public ou la sécurité nationale l'exige, la détention de l'étranger peut être prolongée chaque fois d'un mois, après l'expiration du délai visé à l'alinéa précédent, sans toutefois que la durée totale du maintien puisse de ce fait dépasser huit mois. ".
+
+D. A l'article 74/5, § 4, 3°, le mot " respectivement " est inséré après le mot " atteint " et les mots " ou huit " sont insérés après le mot " cinq ".
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 29 avril 1999.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de l'Intérieur,
+
+L. VAN DEN BOSSCHE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+T. VAN PARYS

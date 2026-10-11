@@ -1,0 +1,62 @@
+---
+title: "Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et le Gouvernement de la République du Kazakhstan, d'autre part, concernant l'encouragement et la protection des investissements, signé à Almaty le 16 avril 1998."
+identifier: "2000015109"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/31/2000015109/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1999-05-31
+published: 2001-03-15
+entry_into_force: 2001-03-25
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1999/05/31/2000015109/justel"
+department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
+retrieved: 2026-10-11
+---
+
+# 31 MAI 1999. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et le Gouvernement de la République du Kazakhstan, d'autre part, concernant l'encouragement et la protection des investissements, signé à Almaty le 16 avril 1998.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+L'Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et le Gouvernement de la République du Kazakhstan, d'autre part, concernant l'encouragement et la protection des investissements, signé à Almaty le 16 avril 1998, sortira son plein et entier effet.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 31 mai 1999.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires étrangères,
+
+E. DERYCKE
+
+Le Vice-Premier Ministre et Ministre de l'Economie et des Télécommunications, chargé du Commerce extérieur,
+
+E. DI RUPO
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+T. VAN PARYS
+
+## ANNEXE.
+
+## Art. N
+
+Accord entre l'Union économique belgo-luxembourgeoise, d'une part, et le Gouvernement de la République du Kazakhstan, d'autre part, concernant l'encouragement et la protection des investissements
+
+(Pour l'Accord, voir %%1998-04-16/65%%).

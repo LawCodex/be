@@ -1,0 +1,78 @@
+---
+title: "Loi modifiant la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités."
+identifier: "1999002052"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/11/1999002052/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1999-04-11
+published: 1999-05-12
+entry_into_force: 1999-05-12
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/11/1999002052/justel"
+department: "Fonction publique"
+retrieved: 2026-10-11
+---
+
+# 11 AVRIL 1999. - Loi modifiant la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+L'article 1er, § 1er, 3°, de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités, modifié par les lois des 19 juillet 1983, 21 décembre 1994 et 20 mai 1997, est remplacé par la disposition suivante :
+
+" 3° a) des établissements de l'enseignement subventionné créés par la Commission communautaire française;
+
+b) de la Haute Ecole Lucia de Brouckère visée par le décret du Conseil de la Communauté française du 24 juin 1996 octroyant la personnalité juridique au pouvoir organisateur de la Haute Ecole Lucia de Brouckère;
+
+c) des provinces;
+
+d) des communes;
+
+e) de la Commission communautaire flamande;
+
+f) de tous autres organismes provinciaux et locaux visés aux articles 162 et 165 de la Constitution; ".
+
+## Art. 3
+
+Dans l'article 11, § 2, de la même loi, modifié par la loi du 19 juillet 1983, les mots " comités de sécurité, d'hygiène et d'embellissement des lieux de travail " sont remplacés par les mots " comités pour la prévention et la protection au travail ".
+
+## Art. 4
+
+L'article 18 de la même loi est complété par les alinéas suivants :
+
+" Le Roi fixe les règles concernant le remboursement à l'autorité par les organisations syndicales des sommes payées à certains délégués de celles-ci en leur qualité de membres du personnel.
+
+Toutefois, le Roi peut, selon les conditions et critères qu'Il fixe, dispenser les organisations syndicales représentatives en tout ou en partie du remboursement. ".
+
+## Art. 5
+
+L'article 19, 1, de la même loi est abrogé.
+
+## Art. 6
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge, à l'exception de l'article 4, qui produit ses effets le 1er juillet 1997.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 11 avril 1999.
+
+ALBERT
+
+Par le Roi :Le Ministre de la Fonction publique,
+
+A. FLAHAUT
+
+Scellé du sceau de l'Etat : Le Ministre de la Justice,
+
+T. VAN PARYS

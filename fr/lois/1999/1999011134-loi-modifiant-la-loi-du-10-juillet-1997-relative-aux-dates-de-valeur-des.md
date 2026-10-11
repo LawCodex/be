@@ -1,0 +1,72 @@
+---
+title: "Loi modifiant la loi du 10 juillet 1997 relative aux dates de valeur des opérations bancaires."
+identifier: "1999011134"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/19/1999011134/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1999-04-19
+published: 1999-05-19
+entry_into_force: 1999-05-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/19/1999011134/justel"
+department: "Affaires économiques"
+retrieved: 2026-10-11
+---
+
+# 19 AVRIL 1999. - Loi modifiant la loi du 10 juillet 1997 relative aux dates de valeur des opérations bancaires.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+A l'article 2, alinéa 1er, de la loi du 10 juillet 1997 relative aux dates de valeur des opérations bancaires sont ajoutés in fine les mots " en francs belges ou en euros ".
+
+## Art. 3
+
+A l'article 4 de la même loi sont apportées les modifications suivantes :
+
+1° dans les alinéas 1er et 2 sont insérés chaque fois après les mots " opérations électroniques " les mots " domestiques en francs belges ou en euros ".
+
+2° l'alinéa 1er est complété comme suit :
+
+" Constitue notamment une opération électronique, le retrait d'argent au moyen d'un distributeur ou d'un guichet automatiques. ".
+
+## Art. 4
+
+A l'article 5, § 1er, de la même loi sont apportées les modifications suivantes :
+
+1° dans les alinéas 1er et 2, sont insérés, après le mot " virements ", les mots " en francs belges ou en euros ".
+
+2° dans l'alinéa 3 les mots " aux virements " sont remplacés par les mots " à ces virements ".
+
+## Art. 5
+
+L'article 3, 2°, entre en vigueur le premier jour du treizième mois suivant celui au cours duquel la présente loi est publiée au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 19 avril 1999.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre de l'Economie,
+
+E. DI RUPO
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+T. VAN PARYS

@@ -1,0 +1,290 @@
+---
+title: "Loi visant à transposer la Directive 98/26/CE du 19 mai 1998 concernant le caractère définitif du règlement dans les systèmes de paiement et de règlement des opérations sur titres."
+identifier: "1999003307"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/28/1999003307/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1999-04-28
+published: 1999-06-01
+entry_into_force: 1999-06-11
+last_amended: 2025-10-06
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1999/04/28/1999003307/justel"
+department: "Finances"
+justel_note: "Consultation des versions antérieures à partir du 01-06-1999 et mise à jour au 06-10-2025"
+retrieved: 2026-10-11
+---
+
+# 28 AVRIL 1999. - Loi visant à transposer la Directive 98/26/CE du 19 mai 1998 concernant le caractère définitif du règlement dans les systèmes de paiement et de règlement des opérations sur titres.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## CHAPITRE I. - Champ d'application.
+
+### Art. 1er/1
+
+[<sup>1</sup> Pour l'application de la présente loi, il y a lieu d'entendre par :
+
+1° "système" : un accord formel
+
+\- convenu entre trois participants ou davantage, sans compter ni l'opérateur de ce système, ni le cas échéant un éventuel organe de règlement, une éventuelle contrepartie centrale, une éventuelle chambre de compensation ou un éventuel participant indirect, et comportant des règles communes ainsi que des procédures normalisées pour la compensation, que celle-ci soit effectuée par l'intermédiaire d'une contrepartie centrale ou non, ou l'exécution des ordres de transfert entre participants;
+
+\- régi par la législation d'un Etat membre choisie par les participants; toutefois, les participants peuvent uniquement choisir la législation d'un Etat membre dans lequel l'un d'entre eux au moins a son siège social; et
+
+\- désigné en tant que système et notifié à [<sup>3</sup> l'Autorité Européenne des Marchés Financiers]<sup>3</sup> par l'Etat membre dont la législation est applicable, après que cet Etat membre s'est assuré du caractère adéquat des règles de fonctionnement du système;
+
+2° [<sup>6</sup> institution :
+
+a) un établissement de crédit visé à l'article 4, paragraphe 1, point 1), du règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013 concernant les exigences prudentielles applicables aux établissements de crédit et aux entreprises d'investissement et modifiant le règlement (UE) n° 648/2012, y compris les entités visées à l'article 2, paragraphe 5, de la directive 2013/36/UE du Parlement européen et du Conseil du 26 juin 2013 concernant l'accès à l'activité des établissements de crédit et la surveillance prudentielle des établissements de crédit, modifiant la directive 2002/87/CE et abrogeant les directives 2006/48/CE et 2006/49/CE ;
+
+b) une entreprise d'investissement, y compris les sociétés de bourse, visée à l'article 4, paragraphe 1, point 1), de la directive 2014/65/UE du Parlement européen et du Conseil du 15 mai 2014 concernant les marchés d'instruments financiers et modifiant la directive 2002/92/CE et la directive 2011/61/UE, agréée en vertu de la loi du 25 octobre 2016 relative à l'accès à l'activité de prestation de services d'investissement et au statut et au contrôle des sociétés de gestion de portefeuille et de conseil en investissement, en vertu de la loi du 20 juillet 2022 relative au statut et au contrôle des sociétés de bourse et portant dispositions diverses, ou en vertu de la législation d'un autre Etat membre prise en vue de la transposition de la directive 2014/65/UE, à l'exclusion des entités visées à l'article 4, § 1er, 2° à 15°, de la loi du 25 octobre 2016 précitée et des entités visées à l'article 2, paragraphe 1, de la directive 2014/65/UE ;
+
+c) une autorité publique ou une entreprise contrôlée opérant sous garantie de l'Etat ; ou
+
+d) une entreprise ayant son siège social hors du territoire de l'Union européenne et dont les activités correspondent à celles des établissements de crédit, des sociétés de bourse ou des entreprises d'investissement communautaires visés aux points a) et b),
+
+qui participe à un système et qui est chargé d'exécuter les obligations financières résultant d'ordres de transfert émis au sein de ce système ;
+
+e) un établissement de paiement visé à de l'article 4, point 4), de la directive (UE) 2015/2366 du Parlement européen et du Conseil du 25 novembre 2015 concernant les services de paiement dans le marché intérieur, modifiant les directives 2002/65/CE, 2009/110/CE et 2013/36/UE et le règlement (UE) n° 1093/2010, et abrogeant la directive 2007/64/CE, agréé en vertu de la loi du 11 mars 2018 relative au statut et au contrôle des établissements de paiement et des établissements de monnaie électronique, à l'accès à l'activité de prestataire de services de paiement, et à l'activité d'émission de monnaie électronique, et à l'accès aux systèmes de paiement, ou en vertu de la législation d'un autre Etat membre prise en vue de la transposition de la directive (UE) 2015/2366, à l'exception des établissements de paiement limités visés à l'article 82, § 2, alinéa 2, de la loi du 11 mars 2018 précitée, des établissements de paiement agrégateurs de comptes visés à l'article 91, alinéa 2, de la loi du 11 mars 2018, et des personnes physiques ou morales bénéficiant d'une exemption en vertu de la législation prise en vue de la transposition de l'article 32 ou 33 de la directive (UE) 2015/2366 ; ou
+
+f) un établissement de monnaie électronique visé à de l'article 2, point 1), de la directive 2009/110/CE du Parlement européen et du Conseil du 16 septembre 2009 concernant l'accès à l'activité des établissements de monnaie électronique et son exercice ainsi que la surveillance prudentielle de ces établissements, modifiant les directives 2005/60/CE et 2006/48/CE et abrogeant la directive 2000/46/CE, agréé en vertu de la loi du 11 mars 2018 précitée, ou en vertu de la législation d'un autre Etat membre prise en vue de la transposition de la directive 2009/110/CE, à l'exception des établissements de monnaie électronique limités visés à l'article 200, § 2, alinéa 2, de la loi du 11 mars 2018 précitée et des personnes morales bénéficiant d'une exemption en vertu de la législation prise en vue de la transposition de l'article 9 de la directive 2009/110/CE,
+
+qui participe à un système dont l'activité consiste à exécuter des ordres de transfert visés au 9°, premier tiret, et qui est chargé d'exécuter les obligations financières résultant de ces ordres de transfert émis au sein dudit système.
+
+Les personnes morales qui participent à un système de règlement-titres visé à l'article 2, § 1er, b), sont considérées comme des institutions à condition qu'au moins trois autres participants de ce système entrent dans les catégories visées à l'alinéa 1er, dès lors que cette assimilation est justifiée pour des raisons de risque systémique. L'existence d'une telle justification est constatée par la Banque nationale de Belgique. A cette fin, la Banque nationale de Belgique établit et publie les critères qu'elle utilise. Elle peut constater l'existence d'une telle justification par catégorie de participants ou sur une base individuelle]<sup>6</sup>;
+
+3° [<sup>5</sup> "contrepartie centrale" : une contrepartie centrale telle que visée à l'article 2, point 1), du Règlement (UE) n° 648/2012 du Parlement européen et du Conseil du 4 juillet 2012 sur les produits dérivés de gré à gré, les contreparties centrales et les référentiels centraux;]<sup>5</sup>
+
+4° "organe de règlement" : une entité qui met à la disposition d'institutions et/ou d'une contrepartie centrale participant aux systèmes, des comptes de règlement par lesquels les ordres de transfert dans ces systèmes sont liquidés et qui, le cas échéant, octroie des crédits à ces institutions et/ou contreparties centrales à des fins de règlement;
+
+5° "chambre de compensation" : une organisation chargée du calcul de la position nette des institutions, d'une éventuelle contrepartie centrale ou d'un éventuel organe de règlement;
+
+6° "participant" : une institution, une contrepartie centrale, un organe de règlement, une chambre de compensation [<sup>5</sup> , un opérateur de système ou un membre compensateur d'une contrepartie centrale agréée conformément à l'article 17 du règlement (UE) n° 648/2012]<sup>5</sup>. Conformément aux règles de fonctionnement du système, le même participant peut agir en qualité de contrepartie centrale, de chambre de compensation ou d'organe de règlement ou exécuter tout ou partie de ces tâches.
+
+Lorsqu'un participant indirect est considéré comme un participant pour des raisons de risque systémique, ceci ne limite pas la responsabilité du participant par l'intermédiaire duquel le participant indirect introduit des ordres de transfert dans le système. L'existence d'un risque systémique est constatée par la Banque Nationale de Belgique. A cette fin, la Banque Nationale de Belgique établit et publie les critères qu'elle utilise. Elle peut constater l'existence d'une telle justification par catégorie de participants indirects ou sur une base individuelle;
+
+7° "participant indirect" : une institution, une contrepartie centrale, un organe de règlement, une chambre de compensation ou un opérateur de système ayant une relation contractuelle avec un participant à un système, qui exécute des ordres de transfert permettant au participant indirect de passer des ordres de transfert dans le système, à condition que le participant indirect soit connu de l'opérateur du système;
+
+8° "titres" : les instruments financiers visés à l'article 2, 1°, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers et les droits sur ou relatifs à de tels titres, en ce compris les droits de copropriété, de nature incorporelle, conférés sur l'universalité de titres de même espèce;
+
+9° "ordre de transfert" :
+
+\- toute instruction donnée par un participant de mettre à la disposition d'un destinataire des espèces par le biais d'une inscription dans les livres d'un établissement de crédit, d'une banque centrale, d'une contrepartie centrale ou d'un organe de règlement, ou toute instruction qui entraîne la prise en charge ou l'exécution d'une obligation de paiement telle que définie par les règles de fonctionnement du système, ou
+
+\- [<sup>4</sup> une instruction donnée par un participant de transférer la propriété d'un ou de plusieurs titres ou le droit à un ou plusieurs titres par le biais d'une inscription dans un registre, dans un compte qui peut être tenu au sein ou par le biais de dispositifs d'enregistrement électroniques sécurisés, y compris des dispositifs d'enregistrement électronique distribués, ou sous une autre forme. Le Roi peut déterminer les conditions auxquelles les dispositifs d'enregistrement électroniques sécurisés doivent satisfaire;]<sup>4</sup>
+
+10° "procédure d'insolvabilité" : toute mesure collective prévue par la législation d'un Etat membre, ou d'un pays tiers, aux fins soit de liquider le participant, soit de le réorganiser dès lors que cette mesure implique la suspension ou une limitation des transferts ou des paiements. Les actes de disposition visés à l'article 57bis, § 1er, de la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit ainsi que ceux visés à l'article 36/27, § 1er, de la loi du 22 février 1998 fixant le statut organique de la Banque Nationale de Belgique constituent une procédure d'insolvabilité;
+
+11° "moment d'ouverture d'une procédure d'insolvabilité" : le moment où l'autorité judiciaire ou administrative compétente d'un Etat membre ou d'un pays tiers rend sa décision;
+
+12° "compensation" : la conversion des créances et des obligations résultant d'ordres de transfert qu'un ou plusieurs participants émettent en faveur d'un ou plusieurs autres participants ou reçoivent de ceux-ci en une créance ou en une obligation nette unique, de sorte que seule une créance nette peut être exigée ou une obligation nette peut être due;
+
+13° "compte de règlement" : un compte auprès d'une banque centrale, d'un organe de règlement ou d'une contrepartie centrale utilisé pour le dépôt d'espèces ou de titres ainsi que pour le règlement de transactions entre participants d'un système;
+
+14° "jour ouvrable" : période couvrant les règlements effectués de jour et de nuit et englobant tous les évènements se produisant durant le cycle d'activité d'un système;
+
+15° "systèmes interopérables" : deux systèmes ou plus dont les opérateurs du système ont conclu entre eux un accord qui implique l'exécution d'ordres de transfert entre systèmes. Un tel accord ne peut constituer de plein droit un système;
+
+16° "opérateur du système" : l'entité ou les entités juridiquement responsables de l'exploitation d'un système. Il peut aussi intervenir en tant qu'organe de règlement, contrepartie centrale ou chambre de compensation;
+
+17° "Etat membre" : un Etat membre de l'Union européenne ou un autre Etat partie à l'Accord sur l'Espace économique européen dans les limites définies par cet Accord et les actes y afférents.]<sup>1</sup>
+
+[<sup>2</sup> 18° " Comité européen du risque systémique " : le Comité européen du risque systémique institué par le Règlement n° 1092/2010 du Parlement européen et du Conseil du 24 novembre 2010 relatif à la surveillance macroprudentielle du système financier dans l'Union européenne et instituant un Comité européen du risque systémique;
+
+19° " Autorité européenne des marchés financiers " : l'Autorité européenne des marchés financiers instituée par le Règlement n° 1095/2010 du Parlement européen et du Conseil du 24 novembre 2010 instituant une Autorité européenne de surveillance (Autorité européenne des marchés financiers), modifiant la Décision n° 716/2009/CE et abrogeant la Décision 2009/77/CE de la Commission.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-09-26/19, art. 3, 013; En vigueur : 10-11-2011&gt;
+
+(2)&lt;AR 2013-11-12/02, art. 34, 014; En vigueur : 29-11-2013&gt;
+
+(3)&lt;L 2016-10-25/05, art. 85, 017; En vigueur : 01-12-2016&gt;
+
+(4)&lt;L 2021-06-27/09, art. 410, 019; En vigueur : 19-07-2021&gt;
+
+(5)&lt;L 2021-07-11/08, art. 12, 020; En vigueur : 23-07-2021&gt;
+
+(6)&lt;L 2025-09-23/01, art. 3, 023; En vigueur : 16-10-2025&gt;
+
+### Art. 2
+
+[<sup>2</sup> § 1er. La présente loi s'applique à tout système, tel que défini à l'article 1er/1, 1°, régi par le droit belge, dont la désignation suit :
+
+a) Systèmes de paiement
+
+1° [<sup>6</sup> le système dénommé " TARGET-BE ", opéré par la Banque nationale de Belgique ;]<sup>6</sup>
+
+2° [<sup>4</sup> le système dénommé "Centre d'échange et de compensation" ("CEC"), opéré par l'ASBL CEC. ]<sup>4</sup>.
+
+b) Systèmes de règlement-titres
+
+1° le système de circulation, par voie scripturale, des instruments financiers opéré par la société anonyme de droit belge "Caisse interprofessionnelle de dépôts et de virement de titres" ("CIK") dont la dénomination commerciale est Euroclear Belgium;
+
+2° le système de liquidation de titres de la Banque Nationale de Belgique [<sup>7</sup> ("NBB-SSS")]<sup>7</sup>, opéré par la Banque Nationale de Belgique;
+
+3° le "système Euroclear" opéré par la société anonyme de droit belge Euroclear Bank.]<sup>2</sup>
+
+[<sup>5</sup> 4° [<sup>7</sup> ...]<sup>7</sup>]<sup>5</sup>
+
+[<sup>2</sup> § 2. La présente loi est applicable à tout participant aux systèmes désignés au paragraphe 1er.]<sup>2</sup>
+
+[<sup>2</sup> § 3. ...]<sup>2</sup>
+
+[<sup>2</sup> § 4. La présente loi est également applicable, s'il échet, pour ce qui concerne la détermination, au regard du droit belge, des droits et obligations découlant de la participation d'une personne morale de droit belge reconnue comme participant par la loi de l'Etat membre ou de l'Etat tiers applicable au système, à un système d'un Etat membre tel que notifié par les autorités compétentes dudit Etat à la Commission européenne ou d'un Etat tiers.]<sup>2</sup>
+
+§ 5. 1° Le Roi peut modifier la liste des systèmes visés au paragraphe premier et la publie annuellement au Moniteur belge.
+
+2° Le Roi peut étendre la liste des participants à ces systèmes, telle que définie [<sup>2</sup> au § 2]<sup>2</sup>, dans les conditions prévues à l'article 2 de la Directive 98/26/CE du 19 mai 1998 concernant le caractère définitif du règlement dans les systèmes de paiement et de règlement des opérations sur titres.
+
+3° Le ministre des Finances est chargé de notifier à [<sup>3</sup> l'Autorité européenne des marchés financiers]<sup>3</sup> les systèmes visés par la présente loi et l'autorité visée à l'article 5 ci-après.
+
+----------
+
+(1)&lt;AR 2011-01-27/07, art. 1, 012; En vigueur : 19-06-2010&gt;
+
+(2)&lt;L 2011-09-26/19, art. 4, 013; En vigueur : 10-11-2011&gt;
+
+(3)&lt;AR 2013-11-12/02, art. 35, 014; En vigueur : 29-11-2013&gt;
+
+(4)&lt;AR 2014-12-10/23, art. 1,1°, 016; En vigueur : 01-04-2013&gt;
+
+(5)&lt;AR 2014-12-10/23, art. 1,2°, 016; En vigueur : 06-08-2013&gt;
+
+(6)&lt;AR 2023-03-06/07, art. 1,1°, 022; En vigueur : 20-03-2023&gt;
+
+(7)&lt;AR 2023-03-06/07, art. 1,2°, 022; En vigueur : 19-04-2023&gt;
+
+## CHAPITRE II. - [<sup>1</sup> Compensation et ordres de transfert.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-09-26/19, art. 5, 013; En vigueur : 10-11-2011&gt;
+
+### Art. 3
+
+[<sup>2</sup> § 1er. Les ordres de transfert et la compensation au sein d'un système sont valables et opposables aux tiers, y compris en cas de procédure d'insolvabilité à l'encontre d'un participant à ce système ou à un système interopérable ou de l'opérateur d'un système interopérable qui n'est pas un participant, pour autant que les ordres de transfert aient été introduits dans le système, conformément aux règles de fonctionnement de ce dernier, avant le moment de l'ouverture de la procédure d'insolvabilité.
+
+Lorsque les ordres de transfert sont introduits dans un système après le moment de l'ouverture de la procédure d'insolvabilité et qu'ils sont exécutés le jour ouvrable, tel que défini par les règles de fonctionnement du système, au cours duquel cette procédure est ouverte, ils ne sont valables et opposables aux tiers qu'à condition que l'opérateur du système puisse établir que, au moment où ces ordres de transfert sont devenus irrévocables, il n'avait pas connaissance ni n'aurait dû avoir connaissance de l'ouverture de la procédure d'insolvabilité.
+
+§ 2. La compensation visée au paragraphe premier ne peut être remise en cause par l'effet [<sup>3</sup> du livre XX du Code de droit économique]<sup>3</sup> ni par aucune loi, réglementation, disposition ou pratique de droit belge ou étranger prévoyant la nullité des contrats et des transactions conclus avant l'ouverture d'une procédure d'insolvabilité.
+
+§ 3. Dans le cas de systèmes interopérables, chaque système détermine dans ses propres règles le moment de l'introduction dans son système afin de garantir à cet égard, dans la mesure du possible, une coordination entre les règles de tous les systèmes interopérables concernés. Sauf disposition contraire expresse des règles de fonctionnement de l'ensemble des systèmes parties aux systèmes interopérables, les règles relatives au moment de l'introduction propres à un système ne sont affectées par aucune règle des autres systèmes avec lesquels il est interopérable.
+
+§ 4. Nonobstant l'ouverture d'une procédure d'insolvabilité à l'encontre d'un participant à un système ou de l'opérateur d'un système interopérable qui n'est pas un participant, l'opérateur du système ou l'organe de règlement peut, si les dispositions contractuelles applicables l'y autorisent :
+
+\- débiter d'office le compte de règlement du participant ou de l'opérateur d'un système interopérable en défaut d'acquitter ses obligations, en particulier aux fins d'apurer le solde débiteur de ce dernier après compensation et permettre ainsi le règlement final du système;
+
+\- prélever d'office les espèces ou les titres nécessaires à l'exécution des obligations du participant ou de l'opérateur d'un système interopérable, en particulier quant à l'apurement du solde débiteur du participant ou de l'opérateur d'un système interopérable en défaut par voie d'utilisation de l'ouverture de crédit (en ce compris un prêt d'instruments financiers) éventuellement consentie audit participant ou à l'opérateur d'un système interopérable, dans les limites des garanties attachées à l'ouverture de crédit au jour du règlement.
+
+§ 5. Si les règles d'un système prévoient l'irrévocabilité des ordres de transfert, cette irrévocabilité s'impose en tous les cas au participant donneur d'ordre ou à un tiers. Dans le cas de systèmes interopérables, chaque système détermine dans ses propres règles le moment de l'irrévocabilité, afin de garantir à cet égard, dans la mesure du possible, une coordination entre les règles de tous les systèmes interopérables concernés. Sauf disposition contraire expresse des règles de l'ensemble des systèmes parties aux systèmes interopérables, les règles relatives au moment de l'irrévocabilité propres à un système ne sont affectées par aucune règle des autres systèmes avec lesquels il est interopérable.]<sup>2</sup>
+
+----------
+
+(1)&lt;AR 2010-12-19/15, art. 24, 011; En vigueur : 03-02-2011&gt;
+
+(2)&lt;L 2011-09-26/19, art. 6, 013; En vigueur : 10-11-2011&gt;
+
+(3)&lt;AR 2022-04-18/12, art. 13, 021; En vigueur : 11-06-2022&gt;
+
+## CHAPITRE III. - Ordres de transfert.
+
+### Art. 4
+
+&lt;Abrogé par L 2011-09-26/19, art. 7, 013; En vigueur : 10-11-2011&gt;
+
+## CHAPITRE IV. - Dispositions relatives aux procédures d'insolvabilité d'un participant. - Transparence des systèmes.
+
+### Art. 5
+
+§ 1er. Lorsqu'il s'agit d'un participant de droit belge visé à l'article 2, § 2 [<sup>2</sup> ...]<sup>2</sup> de la présente loi, toute demande [<sup>1</sup> en réorganisation judiciaire]<sup>1</sup>, introduite par requête de ce participant [<sup>2</sup> ou, lorsqu'il s'agit d'une procédure de réorganisation judiciaire par transfert sous autorité de justice, par l'une des personnes énumérées aux termes de l'article [<sup>5</sup> XX.84 du Code de droit économique]<sup>5</sup>]<sup>2</sup>, tout aveu de faillite et toute demande en déclaration de faillite, tout jugement accordant, prorogeant ou mettant fin à un (sursis [<sup>1</sup> ...]<sup>1</sup>, tout jugement) déclaratif de faillite prononcés par un [<sup>4</sup> tribunal de l'entreprise]<sup>4</sup>, doivent être d'office notifiés par le greffe du tribunal compétent, par téléfax ou par porteur, dans l'heure de son dépôt, de sa signification ou de son prononcé, à la Banque nationale de Belgique, et pour [<sup>3</sup> ...]<sup>3</sup> et les entreprises d'investissement soumis à son contrôle, également à [<sup>3</sup> l'Autorité des services et marchés financiers]<sup>3</sup>. La Banque nationale de Belgique veille à son tour à notifier sans délai la demande ou le jugement aux gestionnaires et agents de règlement des systèmes visés à l'article 2, ainsi que tout jugement visé ci-dessus aux autorités désignées par les autres Etats membres de l'Union européenne concernés par [<sup>1</sup> la réorganisation judiciaire]<sup>1</sup> ou la faillite du participant en question. De même, la Banque nationale de Belgique veille à informer sans délai lesdits gestionnaires et agents de règlement de toute décision relative à une procédure d'insolvabilité [<sup>3</sup> ...]<sup>3</sup> qui viendrait à lui être notifiée par une autorité d'un Etat membre de l'Union européenne. &lt;Erratum, voir M.B. 17.11.1999, p. 42538&gt;
+
+[<sup>3</sup> La Banque Nationale de Belgique notifie la demande ou le jugement au Comité européen du risque systémique, aux autres Etats membres et à l'Autorité européenne des marchés financiers.]<sup>3</sup>
+
+§ 2. Chaque système visé par la présente loi communique à la Banque nationale de Belgique la liste des participants au système, y compris tout participant indirect au sens de l'[<sup>2</sup> article 1er/1, 7°]<sup>2</sup>, de cette loi, ainsi que toute modification ultérieure à la liste de ces participants. La Banque nationale de Belgique est tenue d'assurer la confidentialité de ces données.
+
+§ 3. Toute personne ayant un intérêt légitime, dûment justifié par elle, peut obtenir d'une institution [<sup>2</sup> ...]<sup>2</sup> que celle-ci lui indique les systèmes auxquels elle participe et lui fournisse, aux frais du requérant, des informations sur les principales règles de fonctionnement desdits systèmes.
+
+----------
+
+(1)&lt;AR 2010-12-19/15, art. 26, 011; En vigueur : 03-02-2011&gt;
+
+(2)&lt;L 2011-09-26/19, art. 8, 013; En vigueur : 10-11-2011&gt;
+
+(3)&lt;AR 2013-11-12/02, art. 36, 014; En vigueur : 29-11-2013&gt;
+
+(4)&lt;L 2018-04-15/14, art. 252, 018; En vigueur : 01-11-2018&gt;
+
+(5)&lt;AR 2022-04-18/12, art. 14, 021; En vigueur : 11-06-2022&gt;
+
+### Art. 6
+
+[<sup>1</sup> Une procédure d'insolvabilité ne peut avoir, sur les droits et obligations d'un participant découlant de la participation de celui-ci à un système ou liés à cette participation, d'effet rétroactif par rapport au moment d'ouverture de la procédure d'insolvabilité. Cette disposition est également applicable à un participant à un système interopérable et à un opérateur d'un système interopérable qui n'est pas un participant.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-09-26/19, art. 9, 013; En vigueur : 10-11-2011&gt;
+
+## CHAPITRE V. - Droit international privé.
+
+### Art. 7
+
+§ 1er. Les effets d'une procédure d'insolvabilité, ouverte à l'encontre d'un participant relevant du droit d'un autre Etat membre de l'Union européenne ou d'un Etat tiers, sur les droits et obligations de ce participant liés à sa participation à un système belge, sont régis exclusivement par la loi belge, et en particulier par la présente loi.
+
+§ 2. [<sup>1</sup> Sans préjudice de l'article 8, § 2,]<sup>1</sup> dans le cas d'un participant relevant du droit belge à un système régi par le droit d'un autre Etat membre de l'Union européenne ou d'un Etat tiers, les droits et obligations de ce participant liés à sa participation à un système étranger, sont régis exclusivement par la loi étrangère applicable audit système.
+
+[<sup>1</sup> § 3... ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-09-26/19, art. 10, 013; En vigueur : 10-11-2011&gt;
+
+## CHAPITRE VI. - Efficacité des sûretés.
+
+### Art. 8
+
+[<sup>1</sup> § 1er. Les droits d'un opérateur de système ou d'un participant sur les garanties constituées en sa faveur dans le cadre d'un système ou d'un système interopérable et les droits des banques centrales des Etats membres ou de la Banque centrale européenne sur les garanties constituées en leur faveur ne sont pas affectés par une mesure de saisie ou de séquestre à leur encontre ou par une procédure d'insolvabilité à l'encontre du participant au système concerné ou à un système interopérable, de l'opérateur d'un système interopérable qui n'est pas un participant, de la contrepartie des banques centrales des Etats membres ou de la Banque centrale européenne, ou du tiers qui a constitué les garanties.
+
+Lesdites garanties peuvent être réalisées pour satisfaire ces droits.
+
+[<sup>2</sup> Lorsqu'un opérateur de système a fourni une garantie à un autre opérateur de système en rapport avec un système interopérable, ses droits à l'égard de la garantie qu'il a fournie ne sont pas affectés par les poursuites pour insolvabilité intentées contre l'opérateur de système qui les a reçues.]<sup>2</sup>
+
+§ 2. Lorsque des titres, en ce compris les droits portant sur la délivrance ou la restitution de titres détenus par ailleurs, font l'objet d'une garantie en faveur de participants, d'opérateurs de système ou de banques centrales des Etats membres ou de la Banque centrale européenne, et que leur droit, ou celui de tout mandataire, agent ou tiers agissant pour leur compte, relatif aux titres est inscrit légalement dans un registre, un compte ou auprès d'un système de dépôt centralisé situé dans un Etat membre, toute question concernant l'un des éléments énumérés au § 3 qui se pose au sujet d'une telle garantie est régie par la législation de cet Etat membre.
+
+§ 3. Les éléments visés au § 2 sont les suivants : (1) la nature juridique et les effets patrimoniaux de la garantie; (2) les éventuelles exigences relatives aux formalités nécessaires pour rendre une telle garantie opposable aux tiers; (3) le concours entre droits concurrents et le fait de savoir si une acquisition de bonne foi a eu lieu; (4) les éventuelles conditions requises pour la réalisation de la garantie.
+
+§ 4. Une garantie au sens du présent article est tout gage, toute opération de cession-rétrocession ou de transfert de propriété à titre de garantie, ou toute autre forme de garantie analogue ou tout privilège spécial portant sur des actifs réalisables (y compris des espèces et des créances), organisé par le droit belge ou par un droit étranger, dans le but de garantir des droits et obligations susceptibles de naître dans le cadre d'un système, ou fourni aux banques centrales des Etats membres de l'Union européenne ou à la Banque centrale européenne.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-09-26/19, art. 11, 013; En vigueur : 10-11-2011&gt;
+
+(2)&lt;L 2014-04-25/64, art. 35, 015; En vigueur : 07-06-2014&gt;
+
+## CHAPITRE VII. - Insaisissabilité des comptes de règlement.
+
+### Art. 9
+
+[<sup>1</sup> Tout compte de règlement auprès de l'opérateur ou de l'organe de règlement du système utilisé pour le dépôt de fonds, de même que tout transfert de fonds, à l'intervention d'un établissement de crédit de droit belge ou étranger, à porter à un tel compte de règlement, ne peut être saisi, mis sous séquestre ou bloqué d'une manière quelconque par un participant, une contrepartie ou un tiers autre que l'opérateur ou l'organe de règlement du système.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-09-26/19, art. 12, 013; En vigueur : 10-11-2011&gt;
+
+### Art. 10
+
+[<sup>1</sup> Un système désigné avant l'entrée en vigueur des dispositions nationales mettant en oeuvre la Directive 2009/44/CE du Parlement européen et du Conseil du 6 mai 2009 modifiant la Directive 98/26/CE concernant le caractère définitif du règlement dans les systèmes de paiement et de règlement des opérations sur titres et la Directive 2002/47/CE concernant les contrats de garantie financière, en ce qui concerne les systèmes liés et les créances privées continue à être désigné aux fins de la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-09-26/19, art. 13, 013; En vigueur : 10-11-2011&gt;
