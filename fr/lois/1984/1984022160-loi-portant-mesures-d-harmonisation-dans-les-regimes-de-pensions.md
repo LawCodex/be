@@ -1,0 +1,2376 @@
+---
+title: "Loi portant mesures d'harmonisation dans les régimes de pensions."
+identifier: "1984022160"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1984/05/15/1984022160/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1984-05-15
+published: 1984-05-22
+entry_into_force: 1979-07-01
+last_amended: 2026-07-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1984/05/15/1984022160/justel"
+department: "Finances - Prévoyance Sociale - Classes Moyennes"
+justel_note: "Consultation des versions antérieures à partir du 19-04-1985 et mise à jour au 31-07-2026"
+retrieved: 2026-10-12
+---
+
+# 15 MAI 1984. - Loi portant mesures d'harmonisation dans les régimes de pensions.
+
+## LIVRE Ier. \_ Mesures d'harmonisation dans le régime de pension du secteur public.
+
+### TITRE Ier. \_ Pensions de survie.
+
+#### CHAPITRE Ier. \_ Champ d'application.
+
+##### Art. 1
+
+&lt;AR 2004-12-22/32, art. 19, 030; En vigueur : 01-01-2005&gt; Une pension de survie à charge du Trésor public est octroyée aux conditions déterminées par le présent titre aux ayants droit des personnes assujetties à un régime de pension de retraite dont la charge est assumée par :
+
+le Trésor public;
+
+les organismes auxquels s'applique l'arrêté royal n° 117 du 27 février 1935 établissant le statut des pensions du personnel des établissements publics autonomes et des régies instituées par l'Etat;
+
+[<sup>1</sup> bpost]<sup>1</sup>;
+
+la Régie des Transports maritimes;
+
+les organismes auxquels est applicable la loi du 28 avril 1958 relative à la pension des membres du personnel de certains organismes d'intérêt public et de leurs ayants droit.
+
+Ne sont pas visés par le présent titre, les ayants droit :
+
+des anciens avoués;
+
+des sauveteurs volontaires de l'administration de la Marine;
+
+des ministres des cultes auxquels le mariage est interdit et qui jouissent d'un traitement à charge du Trésor public;
+
+des anciens membres du personnel de carrière des cadres d'Afrique.
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 042; En vigueur : 17-01-2011&gt;
+
+#### CHAPITRE II. \_ De la pension de conjoint survivant.
+
+##### Art. 2
+
+§ 1er. A droit à la pension de survie, le conjoint survivant dont le mariage a duré un an au moins et dont l'époux ou l'épouse :
+
+a) est décédé pendant sa carrière;
+
+b) est décédé après avoir obtenu une pension de retraite à charge du Trésor public ou d'un organisme visé à l'article 1er;
+
+c) (est décédé après avoir quitté définitivement le service et compte soit [<sup>3</sup> des services ou périodes admissibles pour l'ouverture du droit à la pension postérieurs au 31 décembre 1976 dans le régime des agents de l'Etat]<sup>3</sup>, soit quinze années de services admissibles pour le calcul d'une pension de survie sur la base des dispositions en vigueur au 31 mai 1984.) &lt;L 1991-05-21/41, art. 1, 012; En vigueur : 01-07-1991&gt;
+
+La durée d'un an de mariage n'est toutefois pas requise si une des conditions suivantes est remplie :
+
+\_ un enfant est né du mariage;
+
+\_ au moment du décès, un enfant est à charge pour lequel l'époux ou l'épouse percevait des allocations familiales;
+
+\_ un enfant posthume est né dans les trois cents jours du décès;
+
+\_ le décès est dû à un accident postérieur à la date du mariage ou a été causé par une maladie professionnelle contractée dans l'exercice ou à l'occasion de l'exercice des fonctions, d'une mission confiée par le Gouvernement belge ou de prestations dans le cadre de l'assistance technique belge et pour autant que l'origine ou l'aggravation de cette maladie soit postérieure à la date du mariage.
+
+[<sup>1</sup> Pour la détermination de la durée minimum d'un an de mariage visée à l'alinéa 1er, il est le cas échéant tenu compte de la durée de la cohabitation légale entre le conjoint survivant et le conjoint décédé précédant immédiatement leur mariage. Seule est néanmoins prise en compte la déclaration de cohabitation légale visée à l'article 1476 du Code civil.]<sup>1</sup>
+
+(§ 2. Le conjoint survivant dont le mariage n'a pas duré un an au moins et qui ne réunit aucune des conditions de dispense prévues au § 1er, a droit à la pension pendant un an à compter du premier jour du mois qui suit le décès. Si l'octroi de la pension est, conformément à l'article 21, § 2, subordonné à l'introduction d'une demande, la demande de pension doit sous peine de nullité parvenir à l'Administration des pensions dans l'année qui suit le jour du décès.) &lt;AR 1998-07-16/58, art. 14, 020; En vigueur : 01-09-1998&gt;
+
+(Si des conjoints dont le mariage a été dissout par un divorce se remarient entre eux et que le conjoint donnant droit à une pension de survie décède moins d'un an après le remariage, sans qu'aucune des conditions de dispense prévues au § 1er, alinéa 2, soit remplie, le conjoint survivant aura droit, le cas échéant, à la pension qu'il aurait eue en qualité de conjoint divorcé avant son remariage.) &lt;L 2003-02-03/41, art. 68, 027; En vigueur : 01-01-2003&gt;
+
+(§ 3. [<sup>2</sup> Le conjoint survivant ne peut prétendre au bénéfice du présent chapitre s'il est, en raison de délits commis envers son conjoint, indigne d'en hériter conformément à l'article 727, § 1er, 1° ou 3° du Code Civil.]<sup>2</sup>) &lt;L 2003-02-03/41, art. 68, 027; En vigueur : 01-01-2003&gt;
+
+----------
+
+(1)&lt;L 2014-05-15/35, art. 90,1°, 051; En vigueur : 01-01-2000, produit ses effets le 1er janvier 2000 et s'applique uniquement aux décès qui sont survenus à partir de cette date; voir aussi L 2014-05-15/35, art. 101&gt;
+
+(2)&lt;L 2014-05-15/35, art. 90,2°, 051; En vigueur : 01-01-2015&gt;
+
+(3)&lt;L 2022-05-05/15, art. 2, 064; En vigueur : 25-05-2022&gt;
+
+##### Art. 3
+
+(§ 1er. La pension de survie prend cours le premier jour du mois qui suit celui au cours duquel le conjoint est décédé. Toutefois, si l'octroi de la pension est, conformément à l'article 21, § 2, subordonné à l'introduction d'une demande et que cette demande n'est pas parvenue à l'Administration des pensions dans l'année qui suit le jour du décès ou de la naissance de l'enfant posthume visé à l'article 2, § 1er, la pension de survie prend cours le premier jour du mois qui suit celui au cours duquel la demande est parvenue à l'Administration des pensions.
+
+La déclaration d'absence conformément aux dispositions du Code civil vaut preuve de décès.) &lt;AR 1998-07-16/58, art. 15, 020; En vigueur : 01-09-1998&gt;
+
+§ 2. Si le conjoint survivant se remarie, le paiement de sa pension de survie est suspendu (à partir du premier jour du mois qui suit celui du remariage et jusqu'au premier jour du mois qui suit celui du décès du conjoint ou de l'ex-conjoint avec lequel le conjoint survivant s'est remarié). &lt;L 2003-02-03/41, art. 69, 027; En vigueur : 01-04-2003&gt;
+
+Si ce remariage entraîne la suspension du paiement de la pension de survie des deux époux et si le total des paiements suspendus est plus élevé que le montant non diminué par application des règles de cumul de la plus élevée des deux pensions de survie, le Roi peut déterminer dans quels cas et pour quelle partie de ces pensions de survie le paiement n'est pas suspendu.
+
+Le présent paragraphe n'est pas applicable à la pension temporaire dont question à l'article 2, § 2.
+
+##### Art. 4
+
+§ 1er. La pension de survie est calculée sur la base du traitement moyen des cinq dernières années de la carrière du conjoint décédé, ou de toute la durée de la carrière si celle-ci est inférieure à cinq ans, cette moyenne étant établie de la même manière que pour le calcul d'une pension de retraite (...). La pension de survie est égale à 60 p.c. du traitement moyen précité, multipliés par une fraction dont le numérateur est constitué par l'ensemble des services admissibles définis à l'article 5 exprimés en mois (avec deux décimales), et dont le dénominateur est constitué par le nombre de mois compris entre le premier jour du mois qui suit le vingtième anniversaire de la naissance du conjoint décédé et le dernier jour du mois de son décès, sans que ce nombre puisse dépasser 480. Si le décès s'est produit avant l'expiration du mois qui suit celui au cours duquel le conjoint décédé a ou aurait atteint son vingtième anniversaire, la fraction précitée est égale (au rapport prévu à l'article 2, § 1er, alinéa 1er,c, de l'arrêté royal n° 206 du 29 août 1983) réglant le calcul de la pension du secteur public pour les services à prestations incomplètes. &lt;L 1991-05-21/41, art. 2, 012; En vigueur : 01-06-1984&gt; &lt;L 2003-02-03/41, art. 70, 027; En vigueur : 01-09-2003&gt; &lt;L 2007-04-25/52, art. 56, 034; En vigueur : 01-06-2007&gt;
+
+(Si avant l'âge de 60 ans, le conjoint décédé a été [<sup>1</sup> mis à la retraite]<sup>1</sup> (soit pour cause d'inaptitude physique, soit d'office pour une autre raison), le dénominateur de la fraction défini à l'alinéa 1er est constitué par le nombre de mois compris entre le premier jour du mois qui suit le vingtième anniversaire de la naissance du conjoint décédé et le dernier jour du mois qui précède celui au cours duquel il a été mis à la retraite. &lt;L 2003-02-03/41, art. 70, 027; En vigueur : 01-07-1991&gt;
+
+La fraction découlant de l'application des alinéas qui précèdent ne peut dépasser l'unité ou, si la durée des services admissibles visés à l'alinéa 1er a été réduite conformément aux dispositions de l'article 2 de l'arrêté royal n° 206 précité, le rapport prévu à l'article 2, § 1er, alinéa 1er, c), de cet arrêté.) &lt;L 1991-05-21/41, art. 2, 012; En vigueur : 01-07-1991&gt;
+
+§ 2. (La pension de survie ne peut être supérieure à 50 p.c. du traitement maximum de l'échelle barémique attachée au dernier grade de l'agent défunt ou de la moyenne des traitements des cinq dernières années si celle-ci est plus élevée, multiplié par la fraction résultant de l'application du § 1er. (Toutefois, le traitement maximum ou la moyenne des traitements précités) précité est remplacé par le dernier traitement du conjoint décédé : &lt;L 2003-02-03/41, art. 70, 027; En vigueur : 01-01-2003&gt;
+
+1° lorsque la pension n'est pas afférente à l'exercice d'une fonction réputée principale au sens de l'alinéa 3;
+
+2° lorsque le conjoint n'est pas décédé en activité de service, que ses droits à pension découlaient uniquement de l'application de l'article 46 et qu'il comptait moins de vingt années de services admissibles au sens de l'article précité.
+
+(3° lorsque le conjoint n'est pas décédé en activité de service, qu'il ne pouvait pas faire valoir des services ou périodes postérieurs au 31 décembre 1976 et que sur la base des dispositions en vigueur au 31 mai 1984, il comptait moins de vingt années de services admissibles pour le calcul d'une pension de survie.) &lt;L 2003-02-03/41, art. 70, 027; En vigueur : 01-01-2003&gt;
+
+Les traitements définis ci-dessus sont augmentés, le cas échéant, des rémunérations supplémentaires prises en compte pour le calcul de la pension de survie. En outre, ils sont ceux correspondant à des prestations complètes si, pour la détermination de la fraction visée à l'alinéa 1er, il a été fait application de l'arrêté royal n° 206 précité.) &lt;L 1991-05-21/41, art. 2, 012; En vigueur : 01-06-1984&gt;
+
+(Par fonction principale, il faut entendre :
+
+1° la fonction qui n'a comporté que des prestations complètes;
+
+2° la fonction qui donne lieu à l'octroi d'une pension fixée conformément à l'arrêté royal n° 206 du 29 août 1983 précité (,considérée comme pension principale au sens de l'article 2, § 1er, alinéa 5 de cet arrêté) et pour laquelle le rapport visé à l'article 2, § 1er, alinéa 1er, c), de cet arrêté atteint au moins 5/10; &lt;L 2003-02-03/41, art. 70, 027; En vigueur : 01-01-2003&gt;
+
+3° la fonction qui donne lieu à l'octroi d'une pension qui n'est pas établie conformément à l'arrêté royal n° 206 du 29 août 1983 précité mais qui a comporté au cours des cinq dernières années de la carrière des prestations incomplètes correspondant en moyenne au moins à 5/10 de ces mêmes services à prestations complètes.) &lt;L 1992-06-26/30, art. 143, 015; En vigueur : 01-01-1993&gt;
+
+§ 3. (Si le conjoint décédé exerçait une fonction principale au sens du § 2, alinéa 3, le montant de la pension établi conformément aux §§ 1er et 2 ne peut, aussi longtemps que le conjoint survivant n'a pas atteint l'âge de 45 ans, excéder le montant prévu à l'article 122, alinéa 1er, de la loi du 26 juin 1992 portant des dispositions sociales et diverses.
+
+Si le conjoint décédé n'exerçait pas une fonction principale au sens du § 2, alinéa 3, le montant de la pension établi conformément aux §§ 1er et 2 ne peut, aussi longtemps que le conjoint survivant n'a pas atteint l'âge de 45 ans, excéder le montant minimum de pension de survie prévu à l'article 122 de la loi du 26 juin 1992 précitée, diminué éventuellement en application de l'article 125, § 1er, de cette même loi.
+
+Par dérogation à l'alinéa 1er, l'alinéa 2 est également applicable si le conjoint décédé exerçait une fonction principale au sens du § 2, alinéa 3, mais qu'il a bénéficié d'une pension visée à l'article 118, § 2, 2°, 3° ou 4°, de la loi du 26 juin 1992 précitée ou qu'il aurait pu prétendre à une telle pension s'il n'était pas décédé avant la date de prise de cours de celle-ci.) &lt;L 2003-02-03/41, art. 70, 027; En vigueur : 01-01-2003&gt;
+
+Les restrictions prévues par les alinéas 1er et 2 à l'égard du conjoint survivant n'ayant pas atteint l'âge de 45 ans, ne sont applicables ni à la pension temporaire dont question à l'article 2, § 2, ni au conjoint survivant qui justifie d'une incapacité permanente de 66 p.c. au moins ou qui a un enfant à charge.
+
+Le Roi détermine les modalités de reconnaissance de l'incapacité permanente et définit la notion d'enfant à charge au sens du présent paragraphe.
+
+Les modifications du montant de la pension, découlant du présent paragraphe, produisent leurs effets le premier jour du mois qui suit la date de l'événement qui les justifie.
+
+§ 4. La pension de survie ne peut en aucun cas, être supérieure à 50 p.c. du traitement maximum de secrétaire général de ministère.
+
+----------
+
+(1)&lt;L 2026-05-30/02, art. 109, 069; En vigueur : 01-06-2026&gt;
+
+##### Art. 5
+
+§ 1er. Pour le calcul de la pension de survie, il est tenu compte des services et périodes qui sont pris en considération pour le calcul des pensions de retraite. Toutefois, les périodes et services précités n'interviennent que pour leur durée simple, à l'exception des services visés par la loi du 20 avril 1971 relative à l'admissibilité, en matière de pension à charge du Trésor public, de services antérieurs à la nomination définitive des membres du personnel enseignant.
+
+Les périodes pendant lesquelles l'agent a interrompu ses fonctions pour exercer une activité du chef de laquelle le conjoint survivant peut effectivement prétendre à une pension de survie dans un autre régime ne sont pas admissibles. Il en est de même des services qui donnent lieu à l'octroi, soit d'une rente de veuve allouée en vertu du décret du 28 juin 1957 portant statut de la Caisse coloniale d'assurance, soit d'une pension de veuve allouée en vertu de la loi du 16 juin 1960 placant sous le contrôle et la garantie de l'Etat belge les organismes gérant la sécurité sociale des employés du Congo belge et du Ruanda-Urundi et portant garantie par l'Etat belge des prestations sociales en faveur de ceux-ci, ou de la loi du 17 juillet 1963 relative à la sécurité sociale d'outre-mer.
+
+Les sommes versées en vertu des dispositions antérieures à la présente loi en vue de valider des périodes et des services, donnent lieu à une augmentation du numérateur de la fraction définie à l'article 4, § 1er, d'une durée égale à celle de la réduction de temps qui aurait été effectuée si la validation n'était pas intervenue, et d'une durée égale aux périodes et services validés dans les autres cas. Le cas échéant, la durée ainsi bonifiée est (multipliée par le rapport prévu à l'article 2, § 1er, alinéa 1er,c, de l'arrêté royal n° 206 précité.) L'application du présent alinéa ne peut avoir pour effet de porter la fraction au-delà de l'unité. &lt;L 1991-05-21/41, art. 3, 012; En vigueur : 01-06-1984&gt;
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>
+
+(§ 3. Par dérogation au § 1er et en considération du diplôme de l'enseignement universitaire obtenu par le conjoint défunt, il est tenu compte pour le calcul de la pension de survie :
+
+1° d'une bonification de temps de cinq années, si la pension de retraite du conjoint défunt a ou aurait été établie conformément aux dispositions du Code judiciaire;
+
+2° (d'une bonification égale à celle prévue par les articles 33, alinéa 1er, et 34bis de la loi du 9 juillet 1969 modifiant et complétant la législation relative aux pensions de retraite et de survie des agents du secteur public, si la pension de retraite du conjoint défunt n'a pas été ou n'aurait pas été établie en prenant en compte une bonification pour diplôme.) &lt;L 2003-02-03/41, art. 71, 027; En vigueur : 01-01-2003&gt;
+
+(Le cas échéant, la bonification prévue à l'alinéa 1er est réduite en application de l'article 35, § 1er, alinéas 1er et 3, et § 2, ainsi que de l'article 37 de la loi du 9 juillet 1969 précitée. En outre, si les droits à pension de retraite du conjoint découlaient uniquement de l'application de l'article 46 de la présente loi, la bonification est limitée conformément aux dispositions de l'article 49, sauf si le conjoint est décédé en activité de service.
+
+La déduction prévue à l'article 35, § 1er, alinéa 2, de la loi du 9 juillet 1969 précitée est, s'il y a lieu, opérée sur l'accroissement de la pension de survie qui découle de l'application des alinéas 1er et 2.) &lt;L 1991-05-21/41, art. 3, 013; En vigueur : 01-09-1990&gt;
+
+Dans les cas prévus à l'alinéa 1er et du chef de ce même diplôme, aucune autre bonification ne peut être accordée.) &lt;L 1991-05-21/41, art. 3, 012; En vigueur : 01-06-1984&gt;
+
+[<sup>1</sup> Le présent paragraphe n'est plus applicable aux pensions de survie qui prennent cours à partir du 1er décembre 2018 sauf si le conjoint défunt a bénéficié d'une pension de retraite avant cette date ou si le conjoint défunt aurait bénéficié d'une pension de retraite calculée en application des articles 393/1, § 3, du Code judiciaire, 36quater, § 3, de la loi précitée du 9 juillet 1969 ou 5quater, § 3, de la loi du 16 juin 1970 relative aux bonifications pour diplômes en matière de pensions des membres de l'enseignement et que le diplôme visé par le présent paragraphe n'ait pas été en tout ou en partie validé à titre onéreux conformément à la loi du 2 octobre 2017 relative à l'harmonisation de la prise en compte des périodes d'études pour le calcul de la pension.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-10-02/05, art. 22, 060; En vigueur : 01-12-2018&gt;
+
+#### CHAPITRE IIbis. [<sup>1</sup> - l'allocation de transition]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-05-15/35, art. 91, 051; En vigueur : 01-01-2015&gt;
+
+##### Art. 5/1
+
+[<sup>1</sup> § 1er. Le présent chapitre s'applique uniquement aux conjoints survivants d'un conjoint décédé à partir du 1er janvier 2015 et qui sont âgés de moins de 45 ans au moment de ce décès.
+
+L'âge de 45 ans prévu à l'alinéa 1er sera porté à
+
+\- 45 ans et 6 mois lorsque le décès du conjoint survient dans la période comprise entre le 1er janvier 2016 et 31 décembre 2016;
+
+\- 46 ans lorsque le décès du conjoint survient dans la période comprise entre le 1er janvier 2017 et 31 décembre 2017;
+
+\- 46 ans et 6 mois lorsque le décès du conjoint survient dans la période comprise entre le 1er janvier 2018 et 31 décembre 2018;
+
+\- 47 ans lorsque le décès du conjoint survient dans la période comprise entre le 1er janvier 2019 et le 31 décembre 2019;
+
+\- 47 ans et 6 mois lorsque le décès du conjoint survient dans la période comprise entre le 1er janvier 2020 et 31 décembre 2020;
+
+\- 48 ans lorsque le décès du conjoint survient dans la période comprise entre le 1er janvier 2021 et le 31 décembre 2021;
+
+\- 48 ans et 6 mois lorsque le décès du conjoint survient dans la période comprise entre le 1er janvier 2022 et 31 décembre 2022;
+
+\- 49 ans lorsque le décès du conjoint survient dans la période comprise entre le 1er janvier 2023 et le 31 décembre 2023;
+
+\- 49 ans et 6 mois lorsque le décès du conjoint survient dans la période comprise entre le 1er janvier 2024 et 31 décembre 2024;
+
+\- 50 ans lorsque le décès du conjoint [<sup>2</sup> survient dans la période comprise entre le 1er janvier 2025 et le 31 décembre 2025]<sup>2</sup> ;
+
+[<sup>2</sup> - 51 ans lorsque le décès du conjoint survient dans la période comprise entre le 1er janvier 2026 et le 31 décembre 2026;
+
+\- 52 ans lorsque le décès du conjoint survient dans la période comprise entre le 1er janvier 2027 et le 31 décembre 2027;
+
+\- 53 ans lorsque le décès du conjoint survient dans la période comprise entre le 1er janvier 2028 et le 31 décembre 2028;
+
+\- 54 ans lorsque le décès du conjoint survient dans la période comprise entre le 1er janvier 2029 et le 31 décembre 2029;
+
+\- 55 ans lorsque le décès du conjoint se situe postérieurement au 31 décembre 2029.]<sup>2</sup>
+
+§ 2. Par arrêté délibéré en Conseil des Ministres, le Roi peut autoriser, aux conditions qu'Il fixe, le conjoint survivant qui atteint l'âge visé au § 1er, alinéa 1er, à opter pour le bénéfice des dispositions du présent chapitre en matière d'allocation de transition.
+
+§ 3. Par arrêté délibéré en Conseil des Ministres, le Roi peut, aux conditions qu'Il fixe, étendre le bénéfice de l'allocation de transition aux cohabitants légaux qui ne sont pas unis par un lien de parenté, d'alliance ou d'adoption entraînant une prohibition de mariage prévue par le Code civil.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-05-15/35, art. 92, 051; En vigueur : 01-01-2015&gt;
+
+(2)&lt;L 2015-08-10/09, art. 9, 058; En vigueur : 01-01-2017&gt;
+
+##### Art. 5/2
+
+[<sup>1</sup> Pour les conjoints survivants visés à l'article 5/1, le paiement de la pension de survie établie conformément au chapitre II, est suspendu depuis la date de prise de cours de cette pension jusqu'au moment où l'intéressé vient à bénéficier effectivement d'une pension de retraite.
+
+Pour l'application de l'alinéa premier, si le titulaire de la pension de survie peut prétendre à une pension de retraite belge et à une pension de retraite étrangère, il est uniquement tenu compte de la pension belge.
+
+[<sup>2</sup> [<sup>3</sup> Si le titulaire de la pension de survie bénéficie effectivement d'une pension de retraite du chef d'une mise à la retraite d'office, incluant la mise à la retraite pour cause d'inaptitude médicale,]<sup>3</sup> avant l'âge légal de la pension du titulaire de la pension de survie, celle-ci est payée à partir du premier jour du mois qui suit la période visée à l'article 5/3, alinéa 2.]<sup>2</sup>
+
+Si à l'âge légal de mise à la retraite, le titulaire de la pension de survie ne peut prétendre à une pension de retraite, la pension de survie lui est payée à partir du premier jour du mois qui suit celui durant lequel ce titulaire atteint l'âge légal.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-05-15/35, art. 93, 051; En vigueur : 01-01-2015&gt;
+
+(2)&lt;L 2022-05-05/15, art. 3, 064; En vigueur : 01-07-2022&gt;
+
+(3)&lt;L 2026-05-30/02, art. 110, 069; En vigueur : 01-06-2026&gt;
+
+##### Art. 5/3
+
+[<sup>1</sup> En lieu et place du paiement de la pension de survie, il est accordé au conjoint survivant une allocation temporaire de transition égale au montant de la pension de survie.
+
+[<sup>2</sup> L'allocation de transition est octroyée au conjoint survivant à partir du premier jour du mois qui suit celui du décès de son conjoint et ce pendant une durée de:
+
+1° 18 mois, si au moment du décès, aucun enfant n'est à charge pour lequel un des conjoints percevait des allocations familiales;
+
+2° 36 mois, si au moment du décès il y a un enfant à charge qui atteint l'âge de 13 ans au cours de l'année civile du décès et pour lequel un des conjoints percevait des allocations familiales;
+
+3° 48 mois,
+
+\- si au moment du décès, il y a un enfant à charge qui n'atteint pas l'âge de 13 ans au cours de l'année civile du décès et pour lequel un des conjoints percevait des allocations familiales ou;
+
+\- si, au moment du décès, il y a un enfant en situation de handicap à charge, quel que soit l'âge de cet enfant, pour lequel un des conjoints percevait des allocations familiales ou;
+
+\- si un enfant posthume est né dans les trois cents jours suivant le décès.]<sup>2</sup>]<sup>1</sup>
+
+[<sup>2</sup> Le Roi définit la notion d'enfant à charge et celle d'enfant en situation de handicap au sens du deuxième alinéa.
+
+Les dispositions concernant la demande et l'octroi d'office d'une pension de survie sont également applicables à l'allocation de transition. Une demande de pension de survie vaut comme une demande d'allocation de transition et inversement.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-05-15/35, art. 94, 051; En vigueur : 01-01-2015&gt;
+
+(2)&lt;L 2021-12-27/01, art. 106, 063; En vigueur : 01-10-2021&gt;
+
+##### Art. 5/4
+
+[<sup>1</sup> § 1er. Le remariage du titulaire d'une allocation de transition entraîne la suspension du paiement de cette allocation à partir du premier jour du mois qui suit celui du remariage et jusqu'au premier jour du mois qui suit celui du décès du conjoint ou de l'ex-conjoint avec lequel le conjoint survivant s'est remarié.
+
+§ 2. Du chef de mariages successifs :
+
+\- le conjoint survivant ne peut bénéficier simultanément que d'une seule allocation de transition, la plus élevée;
+
+\- le cumul d'une pension de survie et d'une allocation de transition n'est pas autorisé. Dans ce cas, seul l'avantage le plus élevé est payé.
+
+Pour l'application du présent paragraphe :
+
+\- il est tenu compte des pensions et allocations accordées dans l'un des régimes de pension visés à l'article 38 de la loi du 5 août 1978 de réformes économiques et budgétaires;
+
+\- les pensions ou allocations résultant d'activités distinctes d'un même conjoint, en ce compris celles exercées en tant que travailleur salarié ou indépendant, sont considérées comme formant une seule pension ou allocation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-05-15/35, art. 95, 051; En vigueur : 01-01-2015&gt;
+
+##### Art. 5/5
+
+[<sup>1</sup> § 1er. Ne sont pas applicables à l'allocation de transition :
+
+\- les articles 4, § 3, 8 et 14;
+
+\- l'article 12 de la loi du 9 juillet 1969 modifiant et complétant la législation relative aux pensions de retraite et de survie des agents du secteur public;
+
+[<sup>2</sup> - l'article 40bis de la loi du 5 août 1978 de réformes économiques et budgétaires, pour le bénéficiaire d'une pension de retraite qui a été mis à la retraite d'office avant l'âge légal de la pension, incluant la mise à la retraite pour cause d'inaptitude physique, et tant qu'il n'a pas atteint l'âge légal de la pension;]<sup>2</sup>
+
+\- les dispositions du Titre 8, chapitre 1er de la loi programme du 28 juin 2013.".
+
+§ 2 Les articles 118 à 133 de la loi du 26 juin 1992 portant des dispositions sociales et diverses, sont applicables à l'allocation de transition.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-05-15/35, art. 96, 051; En vigueur : 01-01-2015&gt;
+
+(2)&lt;L 2022-05-05/15, art. 4, 064; En vigueur : 01-07-2022&gt;
+
+#### CHAPITRE III. \_ De la pension de conjoint divorcé.
+
+##### Art. 6
+
+Les dispositions relativés aux conditions d'octroi, de prise de cours et de suspension de la pension de survie, prévues par les articles 2 et3, sont applicables au conjoint divorcé qui n'a pas contracté un nouveau mariage avant le décès de celui qui a été son conjoint mais le paiement de la pension est suspendu aussi longtemps qu'il n'a pas atteint l'âge de 45 ans, à moins qu'il ne justifie d'une incapacité permanente de 66 p.c. au moins ou qu'il n'ait un enfant à charge. Le Roi détermine les modalités de reconnaissance de l'incapacité permanente et définit la notion d'enfant à charge au sens du présent alinéa.
+
+(Si, au décès de l'agent, il y a simultanément un conjoint divorcé et un conjoint survivant qui a droit à la pension visée à l'article 2, § 1er, le conjoint divorcé, même âgé de moins de 45 ans, est déchu de ses droits à pension si sa demande de pension n'est pas parvenue à l'Administration des pensions dans l'année qui suit le jour du décès de son ex-conjoint. Dans ce cas, la pension entière est attribuée au conjoint survivant.) &lt;AR 1998-07-16/58, art. 16, 020; En vigueur : 01-09-1998&gt;
+
+[<sup>1</sup> Le conjoint divorcé ne peut prétendre au bénéfice du présent chapitre s'il est, en raison de délits commis envers son ex-conjoint, indigne d'en hériter conformément à l'article 727, § 1er, 1° ou 3° du Code Civil.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-05-15/35, art. 97, 051; En vigueur : 01-01-2015&gt;
+
+##### Art. 6/1
+
+[<sup>1</sup> Lorsque le décès du donnant droit survient à partir du 1er janvier 2015 et que le conjoint divorcé est âgé de moins de 45 ans au moment de ce décès, la pension de survie du conjoint divorcé est suspendue depuis la date de prise de cours de cette pension jusqu'au moment où l'intéressé vient à bénéficier effectivement d'une pension de retraite.
+
+Il en va de même pour le conjoint divorcé s'il existe au moment du décès un conjoint survivant âgé de moins de 45 ans.
+
+L'âge de 45 ans est [<sup>2</sup> porté à 55 ans]<sup>2</sup> selon les modalités fixées à l'article 5/1.
+
+Aucune pension de survie ne peut être payée au conjoint divorcé tant qu'il n'a pas atteint l'âge de 45 ans, à moins qu'il ne justifie d'une incapacité permanente de 66 % au moins ou qu'il n'ait un enfant à charge. Le Roi détermine les modalités de reconnaissance de l'incapacité permanente et définit la notion d'enfant à charge au sens du présent alinéa.
+
+Pour l'application de l'alinéa premier, si le titulaire de la pension de survie peut prétendre à une pension de retraite belge et à une pension de retraite étrangère, il est uniquement tenu compte de la pension belge.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-05-15/35, art. 98, 051; En vigueur : 01-01-2015&gt;
+
+(2)&lt;L 2015-08-10/09, art. 10, 058; En vigueur : 01-01-2017&gt;
+
+##### Art. 7
+
+&lt;L 1991-05-21/41, art. 4, 012; En vigueur : 01-06-1984&gt; La pension attribuée au conjoint divorcé est obtenue en multipliant le montant de la pension de survie qui lui reviendrait au titre de conjoint survivant par une fraction dont le numérateur est constitué par l'ensemble des services et périodes admissibles se situant pendant la durée du mariage, et dont le dénominateur est constitué par l'ensemble des services et périodes admissibles, la partie de mois que comporteraient éventuellement ces ensembles étant négligée.
+
+[<sup>1</sup> Par durée du mariage, il faut entendre la période qui débute le jour du mariage et se termine la veille du jour de la transcription du jugement ou de l'arrêt prononçant le divorce.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-05-05/05, art. 20, 049; En vigueur : 01-08-2014&gt;
+
+##### Art. 8
+
+&lt;L 1991-05-21/41, art. 5, 012; En vigueur : 01-06-1984&gt; Si, au décès de l'agent, il y a simultanément un conjoint divorcé et un conjoint survivant, il est réparti entre ces bénéficiaires une pension de survie globale prenant en considération l'ensemble des services et périodes admissibles et établie conformément à l'article 4, §§ 1er, 2 et 4.
+
+La part de cette pension globale attribuée au conjoint divorcé est égale à la pension résultant de l'application de l'article 7.
+
+Pour le calcul de la pension globale ainsi que de la part attribuée au conjoint divorcé, il est tenu compte des dispositions de l'article 5, § 1er, alinéa 2, quel que soit le conjoint qui bénéficie de l'avantage visé à cet alinéa.
+
+La part de la pension attribuée au conjoint survivant est égale à la différence entre la pension globale et la part revenant au conjoint divorcé, (sans pouvoir être inférieure à la moitié de la pension globale.) &lt;L 1991-05-21/41, art. 5, § 2, 013; En vigueur : 01-07-1991&gt;
+
+Toutefois, s'il s'agit d'un conjoint survivant visé par l'article 4, § 3, alinéa 1er, la part qui lui revient est fixée conformément aux dispositions de cet alinéa; s'il s'agit d'un conjoint survivant visé par l'article 4, § 3, alinéa 2, sa part est limitée conformément à cet alinéa.
+
+La pension du conjoint survivant n'est pas modifiée en cas de réduction ou de suspension de la pension revenant au conjoint divorcé ou au décès de ce dernier.
+
+#### CHAPITRE IV. \_ De la pension d'orphelin.
+
+##### Art. 9
+
+L'orphelin de père et de mère a droit à une pension de survie jusqu'à l'âge de 18 ans, à condition que son père ou sa mère soit décédé dans une des situations prévues aux litteras a, b ou c de l'article 2, § 1er, alinéa 1er. Ce droit est maintenu au-delà de 18 ans aussi longtemps que l'orphelin donne droit à des allocations familiales.
+
+L'orphelin de père est assimilé à l'orphelin de père et de mère si sa mère n'a pas droit à la pension. Il en est de même pour l'orphelin de mère dont le père n'a pas droit à la pension.
+
+(L'enfant dont la filiation n'est établie qu'á l'égard d'un seul parent est au décès de celui-ci assimilé à un orphelin de père et de mère.) &lt;L 1991-05-21/41, art. 6, 012; En vigueur : 06-06-1987&gt;
+
+Si, du chef du décès de chacun de ses parents, l'orphelin peut prétendre à des pensions visées par le présent chapitre, est seule accordée la pension à charge du Trésor public qui, éventuellement additionnée avec des pensions d'orphelin octroyées par d'autres régimes, du chef du décès du même parent, procure l'avantage le plus élevé. La pension attribuée par application du présent alinéa est réduite du montant des pensions auxquelles l'orphelin peut prétendre dans d'autres régimes du chef du décès de l'autre parent.
+
+Si, du chef du décès de chacun de ses parents, l'orphelin ne peut prétendre à une pension visée par le présent chapitre qu'en raison de l'activité d'un seul d'entre eux, cette pension est réduite du montant des pensions octroyées par d'autres régimes du chef du décès de l'autre parent.
+
+Pour l'application (des alinéas 4 et 5), sont considérés comme autres régimes, les régimes de pension établis en vertu d'une législation belge autres que ceux faisant l'objet du présent chapitre, ceux établis en vertu d'une législation étrangère et ceux des institutions de droit international public. &lt;L 2003-02-03/41, art. 72, 027; En vigueur : 06-06-1987&gt;
+
+(L'orphelin ne peut prétendre au bénéfice du présent chapitre s'il a été condamné pour avoir attenté à la vie de celui qui lui ouvre un droit à une pension de survie.) &lt;L 2003-02-03/41, art. 72, 027; En vigueur : 01-01-2003&gt;
+
+##### Art. 10
+
+§ 1er. (Abrogé.) &lt;L 1991-05-21/41, art. 67, 17°, 012; En vigueur : 06-06-1987&gt;
+
+§ 2. L'enfant adopté par un agent ou un ancien agent, décédé dans une des situations prévues aux litteras a, b ou c de l'article 2, § 1er, alinéa 1er, a les mêmes droits que s'il était issu d'un mariage dissous par le décès du conjoint.
+
+S'il a également été adopté par le conjoint d'un tel agent, il est considéré comme issu du mariage desdits époux.
+
+La pension d'orphelin adopté n'est pas attribuée ou cesse de l'être si l'enfant adopté percoit, du chef du décès de ses parents naturels ou de l'un d'entre eux, une pension d'orphelin plus élevée. Si cette pension est moins élevée, elle vient en déduction de la pension précitée. Il en est de même en ce qui concerne l'enfant légitimé par adoption.
+
+§ 3. Le cumul d'avantages résultant d'adoptions successives est interdit. Seul, l'avantage le plus élevé est accordé.
+
+##### Art. 11
+
+&lt;AR 1998-07-16/58, art. 17, 020; En vigueur : 01-09-1998&gt; La pension d'orphelin prend cours le premier jour du mois qui suit celui au cours duquel s'est produit l'événement donnant ouverture au droit. Toutefois, si la demande prévue à l'article 21, § 2, n'est pas parvenue à l'Administration des pensions dans l'année qui suit cet événement, la pension d'orphelin prend cours le premier jour du mois qui suit celui au cours duquel cette demande est parvenue à l'Administration des pensions.
+
+##### Art. 12
+
+La pension d'un orphelin est fixée aux 6/10 d'une pension de survie calculée conformément à l'article 4, §§ 1er, 2 et 4; celle de deux orphelins atteint les 8/10 de la même pension; celle de trois orphelins et plus est égale à la pension entière.
+
+##### Art. 13
+
+(Si, au décès de l'agent, il y a simultanément des orphelins de lits différents,) la pension se calcule comme s'ils étaient tous issus du même lit. Cette pension est répartie entre les groupes d'intéressés proportionnellement au nombre d'enfants constituant chaque groupe. &lt;L 1991-05-21/41, art. 7, 012; En vigueur : 01-06-1984&gt;
+
+##### Art. 14
+
+&lt;L 1991-05-21/41, art. 8, 012; En vigueur : 01-06-1984&gt; Si, au décès de l'agent, il y a simultanément un conjoint survivant et des orphelins qui ne sont pas issus de ce conjoint et de l'agent décédé, une pension de survie calculée conformément aux dispositions de l'article 4, §§ 1er, 2 et 4, est répartie entre le conjoint survivant d'une part et les orphelins d'autre part proportionnellement aux pensions que chacun de ces deux groupes d'ayants droit, considéré isolément, aurait obtenues, la part du groupe des orphelins étant, s'il y a lieu, répartie conformément aux dispositions de l'article 13.
+
+Toutefois, s'il s'agit d'un conjoint survivant visé par l'article 4, § 3, alinéa 1er, la part qui lui revient est fixée conformément aux dispositions de cet alinéa; s'il s'agit d'un conjoint survivant visé par l'article 4, § 3, alinéa 2, sa part est limitée, conformément à cet alinéa.
+
+##### Art. 15
+
+&lt;L 1991-05-21/41, art. 9, 012; En vigueur : 01-06-1984&gt; Si, au décès de l'agent, il y a simultanément un conjoint divorcé et des orphelins qui ne sont pas issus de ce conjoint et de l'agent décédé, une pension de survie calculée conformément aux dispositions de l'article 4, §§ 1er, 2 et 4, est répartie entre le conjoint divorcé d'une part et les orphelins d'autre part proportionnellement aux pensions que chacun de ces deux groupes d'ayants droit, considéré isolément, aurait obtenues, la part du groupe des orphelins étant, s'il y a lieu, répartie conformément aux dispositions de l'article 13.
+
+La part de pension revenant à chacun des deux groupes d'ayants droit est limitée à la pension que ce groupe aurait obtenue s'il n'y avait pas eu deux groupes de bénéficiaires.
+
+##### Art. 15bis
+
+&lt;Inséré par L 1991-05-21/41, art. 10, 012; En vigueur : 01-07-1991&gt; Si le droit à pension d'un orphelin découle de l'application de l'article 9, alinéa 2, le paiement de la pension est suspendu à partir du premier jour du (...) mois qui suit celui du mariage du parent survivant. Cette suspension cesse de s'appliquer lorsque l'orphelin atteint l'âge de la majorité ou lorsque le parent survivant vient à décéder avant que l'orphelin atteigne cet âge. &lt;L 2003-02-03/41, art. 73, 027; En vigueur : 01-04-2003&gt;
+
+(L'alinéa 1er ne s'applique pas dans le cas où :
+
+\- un tuteur est nommé conformément à l'article 389 du Code Civil, du fait que le parent survivant est légalement inconnu ou reconnu dans l'impossibilité durable d'exercer l'autorité parentale sur l'orphelin;
+
+\- le tribunal de la jeunesse a désigné une personne pour exercer certains droits se rapportant à l'orphelin, du fait que le parent survivant, sans être déchu de l'autorité parentale, fait l'objet de l'une des mesures prévues aux articles 29 à 31 de la loi du 8 avril 1965 relative à la protection de la jeunesse, pour le temps de cette mesure;
+
+\- le tribunal de la jeunesse a désigné une personne ou a homologué la désignation d'une personne pour exercer certains droits se rapportant à l'orphelin, du fait que le parent survivant est déchu de l'autorité parentale sur base des articles 32 à 35 de la loi du 8 avril 1965 relative à la protection de la jeunesse, pour le temps de cette déchéance.) &lt;L 2007-04-25/52, art. 35, 034; En vigueur : 01-06-2007&gt;
+
+#### CHAPITRE V. \_ Dispositions communes.
+
+##### Art. 16
+
+Si le conjoint survivant ou divorcé peut, du chef de mariages successifs, prétendre à plusieurs pensions d'ayant droit visées à l'article 38 de la loi du 5 août 1978 de réformes économiques et budgétaires, seule la pension la plus élevée est accordée, maintenue ou restituée.
+
+Les pensions d'ayant droit visées à l'article 40 de la même loi résultant d'activités distinctes d'un même conjoint sont considérées comme formant une seule pension pour l'application du présent article.
+
+##### Art. 17
+
+(Si le conjoint survivant ou le conjoint divorcé est reconnu dans l'impossibilité durable d'exercer l'autorité parentale sur les enfants issus de son mariage avec l'agent défunt, ceux-ci sont considérés comme orphelins.
+
+L'alinéa 1er s'applique également si le conjoint y visé, sans être déchu de l'autorité parentale, fait l'objet de l'une des mesures prévues aux articles 29 a 31 de la loi du 8 avril 1965 relative à la protection de la jeunesse, pour le temps de cette mesure.
+
+L'alinéa 1er s'applique également si le conjoint y visé est déchu de l'autorité parentale sur base des articles 32 à 35 de la loi du 8 avril 1965 relative à la protection de la jeunesse, pour le temps de cette déchéance.) &lt;L 2007-04-25/52, art. 36, 034; En vigueur : 01-06-2007&gt;
+
+Dans les cas visés à l'alinéa 1er, la pension du conjoint survivant ou divorcé est partagée entre les groupes d'intéressés proportionnellement aux pensions que les différents groupes, considérés isolément, auraient obtenues, sans que chaque groupe puisse obtenir une pension plus importante que celle qu'il aurait obtenue isolément.
+
+La part revenant aux enfants est payée à la personne qui percoit les allocations familiales pour lesdits enfants.
+
+##### Art. 18
+
+&lt;L 2003-02-03/41, art. 28, 027; En vigueur : 01-01-2003&gt; § 1er. Si aucun des services prévus à l'article 5 n'a été rendu simultanément, les services accomplis successivement sont pris en compte pour le calcul d'une pension de survie unique même si ces services ont ou auraient ouvert des droits à des pensions de retraite distinctes.
+
+Si les services prestés auprès du pouvoir ou de l'organisme dans lequel l'agent n'a pas terminé sa carrière avaient ouvert ou avaient pu, à eux seuls, ouvrir des droits à une pension de retraite distincte et que le traitement moyen qui aurait servi de base au calcul de la pension de survie est plus élevé que le traitement moyen attaché aux cinq dernières années de la carrière, la pension de survie unique peut être établie sur la base de ce traitement moyen plus élevé mais dans ce cas, la durée des services prestés auprès du pouvoir ou de l'organisme dans lequel l'agent a terminé sa carrière, est réduite en proportion du rapport existant entre d'une part le traitement moyen attaché aux cinq dernières années de la carrière ou à toute la durée de la carrière dans la dernière fonction si cette durée est inférieure à cinq ans et d'autre part le traitement moyen plus élevé précité. Ce mode de calcul ne s'applique que s'il produit des effets favorables à l'intéressé.
+
+Lorsqu'il est fait application de l'alinéa 2, la fraction résultant de l'application de l'article 4, § 1er, alinéa 3, est multipliée par le rapport entre d'une part la durée de l'ensemble des services pris en compte pour le calcul de la pension de survie unique après application de l'alinéa 2 et d'autre part la durée de ces mêmes services abstraction faite de l'application de cet alinéa.
+
+Les alinéas 2 et 3 ne sont pas applicables lorsque les services prestés dans la fonction dans laquelle l'intéressé ne termine pas sa carrière ont été accomplis dans le cadre d'un mandat auquel est attaché un régime de pension prévoyant (un tantième plus favorable que le 1/50). &lt;L 2007-04-25/52, art. 37, 034; En vigueur : 01-06-2007&gt;
+
+§ 2. Les services rendus simultanément qui ont ou auraient entraîné l'octroi de pensions de retraite distinctes donnent lieu à l'octroi de pensions de survie distinctes établies chacune sur la base des mêmes éléments que ceux qui ont ou auraient été pris en compte pour le calcul de pensions de retraite distinctes.
+
+§ 3. Pour l'application des §§ 1er et 2, il est fait abstraction des services et périodes dont la prise en considération aurait pour effet de causer un préjudice à l'intéressé.
+
+##### Art. 19
+
+(Abrogé) &lt;L 2007-04-25/52, art. 38, 034; En vigueur : 01-06-2007&gt;
+
+#### CHAPITRE VI. \_ Dispositions générales.
+
+##### Art. 20
+
+§ 1er. Les pensions accordées en vertu du présent titre sont acquises par mois et payées le premier jour ouvrable de chaque mois.
+
+§ 2. (...) (Abrogé) &lt;AR 2000-07-20/64, art. 6, 023; En vigueur : 01-01-2002&gt;
+
+##### Art. 21
+
+&lt;AR 1998-07-16/58, art. 18, 020; En vigueur : 01-09-1998&gt; § 1er. Le conjoint survivant n'est pas tenu d'introduire une demande de pension de survie lorsque le conjoint décédé était déjà titulaire d'une pension de retraite servie par l'Administration des pensions.
+
+Le conjoint divorcé n'est pas tenu d'introduire une demande de pension de survie lorsque l'ex-conjoint décédé était déjà titulaire d'une pension de retraite servie par l'Administration des pensions et que, sur la base des renseignements disponibles au registre national des personnes physiques, cette administration est en mesure de constater que le conjoint divorcé est le seul ayant-droit potentiel.
+
+L'orphelin âgé de moins de 18 ans n'est pas tenu d'introduire une demande de pension de survie lorsque le parent décédé était déjà titulaire d'une pension de retraite servie par l'Administration des pensions et que, sur la base des renseignements disponibles au registre national des personnes physiques, cette administration est en mesure de constater que l'orphelin âgé de moins de 18 ans est le seul ayant-droit potentiel. Il en va de même si, au décès du titulaire d'une pension de survie, il apparaît que, sur la base des renseignements disponibles au registre national des personnes physiques, l'orphelin est à ce moment devenu le seul ayant-droit potentiel.
+
+[<sup>1</sup> Pour l'application de l'alinéa 2 ou de l'alinéa 3, plusieurs conjoints divorcés ou plusieurs orphelins, même issus de lits différents, âgés de moins de 18 ans sont considérés comme constituant un seul ayant droit potentiel.]<sup>1</sup>
+
+[<sup>2</sup> Le Roi peut déterminer d'autres cas dans lesquels une demande de pension de survie ne doit pas être introduite.
+
+Dans les cas visés aux alinéas 1 à 5, il est statué d'office sur les droits à pension de survie de l'ayant droit.]<sup>2</sup>
+
+§ 2. Dans tous les cas autres que ceux visés au § 1er, l'octroi de la pension est subordonné à l'introduction d'une demande.
+
+§ 3. [<sup>2</sup> Le Roi détermine les conditions auxquelles doit satisfaire une demande de pension valable.
+
+Sans préjudice de l'application des articles 139 à 163 de la loi du 29 décembre 2010 portant des dispositions diverses (I), le Roi détermine les pièces, documents ou attestations électroniques qui doivent être produits en vue de justifier les droits à une pension de survie.]<sup>2</sup>
+
+§ 4. [<sup>3</sup> ...]<sup>3</sup>
+
+----------
+
+(1)&lt;AR 2010-01-20/05, art. 16, 040; En vigueur : 01-04-2010&gt;
+
+(2)&lt;L 2014-05-05/05, art. 21, 049; En vigueur : 01-08-2014&gt;
+
+(3)&lt;L 2014-05-05/05, art. 47,3°, 049; En vigueur : 01-08-2014&gt;
+
+#### CHAPITRE VII. \_ Mesures d'harmonisation.
+
+##### Art. 22
+
+Les dispositions relatives aux conditions d'octroi, de prise de cours, de suspension ainsi qu'au mode de calcul des [<sup>1</sup> pensions ou allocations accordées aux ayants droit]<sup>1</sup> des membres du personnel, des membres des organes de gestion, d'administration et de direction, des pouvoirs et organismes visés à l'article 38, 2°, de la loi du 5 août 1978 précitée, ne peuvent en aucun cas produire des effets différents de ceux qui résultent des règles prévues par le présent titre en faveur des ayants droit des personnes visées à son article 1er, appartenant aux mêmes catégories de bénéficiaires que celles visées par le présent titre.
+
+A cette fin, les pouvoirs et organismes précités sont tenus d'apporter à leur régime de pension les modifications nécessaires, avec effet à la date d'entrée en vigueur du présent titre.
+
+----------
+
+(1)&lt;L 2014-05-15/35, art. 99, 051; En vigueur : 01-01-2015&gt;
+
+#### CHAPITRE VIII. \_ Dispositions finales et abrogatoires.
+
+##### Art. 23
+
+Le présent titre est applicable aux ayants droit des personnes décédées à partir du premier jour du mois de la publication de la présente loi, ainsi qu'aux orphelins de père et de mère dont la mère bénéficiait d'une pension de survie à la date précitée.
+
+(Il est également applicable aux orphelins dont la mère, qui avait été assujettie à un régime de pension de retraite visé à l'article 1er, est décédée avant le 1er mai 1984 et qui deviennent orphelins de père et de mère à partir de cette date.) &lt;L 1991-05-21/41, art. 13, 012; En vigueur : 01-06-1984&gt;
+
+Les droits nés avant le premier jour du mois de la publication de la présente loi restent régis par les dispositions en vigueur à cette date, y compris celles relatives à l'octroi et au renouvellement des allocations de survie. (Toutefois, si une personne âgée de 70 ans au moins bénéficie d'une allocation de survie qui a déjà fait l'objet d'un renouvellement au moins, l'allocation peut, lors du renouvellement suivant, lui être accordée à titre définitif.) &lt;L 1991-05-21/41, art. 13, 012; En vigueur : 01-07-1991&gt;
+
+##### Art. 24
+
+Les versements résultant d'engagements souscrits avant la date de l'entrée en vigueur du présent titre ne sont plus admis à compter de la date précitée, les sommes déjà versées donnant lieu à l'augmentation prévue à l'article 5, § 1er, alinéa 3.
+
+Toutefois, les versements des agents démissionnaires, démissionnés, licenciés, révoqués ou déchus peuvent être poursuivis jusqu'à ce que la durée minimum de 15 années de services admissibles prévue à l'article 2, § 1er, littera c, soit atteinte.
+
+##### Art. 25
+
+&lt;disposition modificative&gt;
+
+##### Art. 26
+
+Sont abrogés :
+
+1° l'arrêté royal du 28 mai 1849 sur les bases de liquidation des pensions de retraite et de celles des veuves et orphelins;
+
+2° les articles 2 à 5 de l'arrêté royal du 23 juin 1849 déterminant les limites dans lesquelles les congés accordés aux fonctionnaires et employés peuvent être comptés dans la liquidation des pensions, modifié et complété par les arrêtés royaux des 18 mars 1852 et 15 janvier 1898, et par la loi du 10 janvier 1974;
+
+3° l'arrêté royal du 21 avril 1867 portant que la partie de traitement attribuée aux Caisses de pensions des veuves et orphelins, en vertu des arrêtés royaux des 23 juin 1849 et 18 mars 1852, pour congés, absences ou punitions disciplinaires, ne pourra dépasser un mois de ce traitement;
+
+4° l'article 3 de la loi du 15 mai 1920 ayant pour but d'assurer aux officiers et agents judiciaires, au point de vue de leurs pensions personnelles et de celles de leurs veuves et orphelins, le bénéfice des services rendus par les intéressés dans la police d'une commune;
+
+5° l'arrêté royal du 1er mai 1928 relatif à la perception des retenues au profit des Caisses de veuves et orphelins;
+
+6° la loi du 13 septembre 1928 assurant à titre transitoire de nouveaux avantages aux titulaires de pensions à charge du Trésor public et des Caisses de prévoyance;
+
+7° la loi du 31 décembre 1929 augmentant de 10 p.c. les pensions de retraite à charge des Caisses de prévoyance;
+
+8° la loi du 27 décembre 1933 apportant diverses modifications aux lois sur les pensions à charge du Trésor public, sur les pensions à charge des Caisses de prévoyance et à la loi du 25 avril 1933 relative à la pension du personnel communal;
+
+9° l'article 6 de l'arrêté royal n° 117 du 27 février 1935 établissant le statut des pensions du personnel des établissements publics autonomes et des régies institués par l'Etat;
+
+10° les articles 2 à 8 de l'arrêté royal n° 221 du 27 décembre 1935 portant modification à la législation sur les pensions civiles et sur les pensions des veuves et orphelins;
+
+11° les articles 2 à 9 de l'arrêté royal n° 222 du 27 décembre 1935 modifiant la législation relative aux pensions des veuves et orphelins des membres de l'armée et de la gendarmerie et portant révision de certaines pensions militaires pour ancienneté de service, modifié par l'arrêté royal n° 255 du 12 mars 1936 et par la loi du 30 juin 1947;
+
+12° l'arrêté royal n° 254 du 12 mars 1936 unifiant le régime des pensions des veuves et orphelins du personnel civil de l'Etat et du personnel assimilé, modifié par la loi du 14 juillet 1951, la loi du 13 juillet 1957, la loi du 30 avril 1958, la loi du 25 février 1965, la loi du 3 juillet 1967, la loi du 10 octobre 1967, la loi du 5 août 1968, la loi du 9 juillet 1969, les arrêtés royaux des 27 janvier 1970 et 13 novembre 1972, la loi du 27 mars 1973, l'arrêté royal du 19 novembre 1973, la loi du 31 mai 1974, l'arrêté royal du 23 juillet 1974, la loi du 27 mars 1975, la loi du 14 avril 1975, la loi du 11 juin 1976, la loi du 27 décembre 1977 et l'arrêté royal n° 30 du 30 mars 1982;
+
+13° l'arrêté royal n° 255 du 12 mars 1936 unifiant le régime des pensions des veuves et orphelins des membres de l'armée et de la gendarmerie, modifié par la loi du 25 août 1947, la loi du 14 juillet 1951, la loi du 13 juillet 1957, la loi du 30 avril 1958, la loi du 25 février 1965, la loi du 9 juillet 1969, l'arrêté royal du 13 novembre 1972, la loi du 27 mars 1973, l'arrêté royal du 19 novembre 1973, la loi du 31 mai 1974, l'arrêté royal du 23 juillet 1974, la loi du 27 mars 1975, la loi du 14 avril 1975, la loi du 11 juin 1976, la loi du 22 décembre 1977, la loi du 27 décembre 1977 et l'arrêté royal n° 30 du 30 mars 1982;
+
+14° l'arrêté royal du 30 mai 1936 règlant l'exécution de certaines dispositions de l'arrêté royal n° 254 du 12 mars 1936 unifiant le régime des pensions des veuves et orphelins du personnel civil de l'Etat et du personnel assimilé;
+
+15° l'arrêté royal du 1er juillet 1936 réglant l'exécution de certaines dispositions de l'arrêté royal n° 255 du 12 mars 1936 unifiant le régime des pensions des veuves et orphelins des membres de l'armée et de la gendarmerie;
+
+16° l'arrêté royal du 12 septembre 1936 réglant les modalités d'application des articles 6, premier alinéa, et 9, deuxième alinéa, de l'arrêté royal n° 254 du 12 mars 1936 relatifs aux orphelins infirmes, modifiés par l'arrêté royal du 18 août 1939, l'arrêté du Régent du 7 juin 1945 et les arrêtés royaux du 23 novembre 1951, du 11 décembre 1956 et du 25 janvier 1973;
+
+17° l'arrêté royal du 12 septembre 1936 réglant les modalités d'application des articles 6, premier alinéa, et 10, deuxième alinéa, de l'arrêté royal n° 255 du 12 mars 1936 unifiant le régime des pensions des veuves et orphelins des membres de l'armée et de la gendarmerie, modifié par l'arrêté du Régent du 2 août 1945 et par les arrêtés royaux du 23 novembre 1951, du 2 février 1957 et du 25 janvier 1973;
+
+18° l'arrêté royal du 19 juin 1937 complétant celui du 12 septembre 1936 relatif aux orphelins infirmes, modifié par les arrêtés royaux du 23 novembre 1951 et du 11 décembre 1956;
+
+19° l'arrêté royal du 22 octobre 1937 réglant, en ce qui concerne les réductions de traitement dérivant de congés pour cause de maladie, l'exécution de l'article 7, § 4, de l'arrêté royal n° 254 du 12 mars 1936 unifiant le régime des pensions des veuves et des orphelins du personnel civil de l'Etat et du personnel assimilé;
+
+20° l'arrêté du Régent du 1er août 1945 complétant l'arrêté royal du 12 septembre 1936 relatif aux orphelins infirmes des membres de l'armée et de la gendarmerie, modifié par l'arreté royal du 2 février 1957;
+
+21° l'arrêté du Régent du 25 mars 1948 pris en exécution de la loi du 25 août 1947 apportant quelques modifications et additions aux dispositions de l'arrêté royal n° 255 du 12 mars 1936 unifiant le régime des pensions des veuves et orphelins des membres de l'armée et de la gendarmerie;
+
+22° l'article 3 de la loi du 30 juin 1951 accordant des avantages aux officiers et sous-officiers mis à la retraite par suite de rajeunissement des cadres de l'armée;
+
+23° les articles 12 et 14 de la loi du 14 juillet 1951 portant péréquation des pensions de retraite et de survie;
+
+24° les articles 3 à 6 de la loi du 26 février 1954 étendant à certains agents de l'Etablissement des assurances sociales d'Eupen-Malmédy et à leurs ayants droit le bénéfice des dispositions légales relatives aux pensions civiles et ecclésiastiques;
+
+25° l'alinéa 2 de l'article 24 de la loi du 2 août 1955 portant péréquation des pensions de retraite et de survie;
+
+26° l'arrêté royal du 3 octobre 1955 fixant un nouveau délai pour la remise des formules d'engagement destinées à valider certains services ou avantages en conformité de l'article 22 de l'arrêté royal n° 255 du 12 mars 1936 unifiant le régime des pensions des veuves et orphelins des membres de l'armée et de la gendarmerie;
+
+27° l'article 3 de la loi du 9 juillet 1956 relative à la pension de retraite et de survie des fonctionnaires et agents des services extérieurs de la Sûreté de l'Etat;
+
+28° l'arrêté royal du 11 décembre 1956 relatif au régime des pensions des orphelins infirmes du personnel de l'Etat et du personnel assimilé;
+
+29° l'alinéa 3 de l'article 23 de l'arrêté royal du 28 janvier 1957 portant refonte du statut de la Régie des Services frigorifiques de l'Etat belge;
+
+30° l'arrêté royal du 2 février 1957 relatif au régime des pensions des orphelins infirmes des membres de l'armée et de la gendarmerie;
+
+31° la dernière phrase de l'article 3 de la loi du 12 avril 1957 relative aux ouvriers civils du Ministère de la Défense nationale modifié par la loi du 31 janvier 1975;
+
+32° l'arrêté royal du 29 avril 1957 fixant un délai pour la souscription des engagements ayant pour objet de valider au regard de la pension de survie les services rendus en vertu d'une nomination considérée comme régulière en application de l'article 29 de la loi du 2 août 1955;
+
+33° les articles 8 à 10 de l'arrêté royal du 3 octobre 1957 modifiant l'arrêté royal du 1er juillet 1937 portant les statuts de la Caisse des Ouvriers de l'Etat;
+
+34° les articles 3, 4 et 5 de la loi du 30 avril 1958 modifiant les arrêtés royaux n°s 254 et 255 du 12 mars 1936 unifiant les régimes de pensions des veuves et des orphelins du personnel civil de l'Etat et des membres de l'armée et de la gendarmerie et instituant une indemnité de funérailles en faveur des ayants droit des pensionnés de l'Etat;
+
+35° l'article 15, alinéa 7, des lois sur les délégués-ouvriers à l'inspection des mines de houille, coordonnées le 31 décembre 1958;
+
+36° l'article 15, alinéa 8, de la loi du 12 avril 1960 instituant la fonction de délégué-ouvrier à l'inspection des mines et des carrière;
+
+37° l'article 118 de la loi du 14 février 1961 d'expansion économique, de progrès social et de redressement financier, modifié par la loi du 24 février 1965, la loi du 8 juillet 1970, l'arrêté royal du 13 novembre 1972 et l'arrêté royal n° 30 du 30 mars 1982.
+
+38° l'article 26 des lois relatives au personnel d'Afrique coordonnées par l'arrêté royal du 21 mai 1964;
+
+39° l'article 6bis de l'arrêté royal n° 33 du 20 juillet 1967 fixant le statut de certains agents des services publics chargés d'une mission internationale, y inséré par la loi du 3 juin 1971;
+
+40° les articles 2 et 25, § 1er, de la loi du 5 août 1968 établissant certaines relations entre les régimes de pensions du secteur public et ceux du secteur privé, modifiés par la loi du 11 juin 1976;
+
+41° l'article 38 de la loi du 9 juillet 1969 modifiant et complétant la législation relative aux pensions de retraite et de survie des agents du secteur public;
+
+42° l'article 7 de la loi du 16 juin 1970 relative aux bonifications pour diplômes en matière de pension des membres de l'enseignement;
+
+43° l'article 36ter de la loi du 1er juillet 1971 portant création de la Régie des Transports maritimes, y introduit par la loi du 11 juillet 1975;
+
+44° l'article 22 de la loi du 6 juillet 1971 portant création de [<sup>1</sup> bpost]<sup>1</sup>; &lt;L 1991-03-21/30, art. 130, 011; En vigueur : 01-10-1992&gt;
+
+45° l'arrêté royal du 11 septembre 1972 modifiant l'arrêté royal du 1er juillet 1937 portant les statuts de la Caisse des ouvriers de l'Etat;
+
+46° les articles 8 à 11 de la loi du 10 janvier 1974 réglant l'admissibilité de certains services et de périodes assimilées à l'activité de service pour l'octroi et le calcul des pensions à charge du Trésor public;
+
+47° l'arrêté royal du 5 juillet 1976 prenant en considération, pour le calcul des pensions de retraite et de survie des agents de l'Office de Sécurité sociale d'Outre-Mer et de leurs ayants droit, certains services accomplis avant le 1er janvier 1950;
+
+48° l'article 2 de la loi du 15 juillet 1977 relative à la pension de retraite et de survie des membres du personnel des hôpitaux psychiatriques de l'Etat et des établissements de bienfaisance institués par l'Etat.
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 042; En vigueur : 17-01-2011&gt;
+
+### TITRE II. \_ (Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 27
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 28
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 29
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 30
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 31
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 31bis
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 32
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 33
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 34
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 35
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 36
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 37
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 38
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 39
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 40
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 41
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 42
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 43
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+##### Art. 44
+
+(Abrogé) &lt;L 1992-06-26/30, art. 142, 015; En vigueur : 01-01-1993&gt;
+
+### TITRE III. \_ Pension immédiate ou différée.(...) &lt;L 1991-05-21/41, art. 21, 012; En vigueur : 01-07-1991&gt;
+
+##### Art. 45
+
+Le présent titre est applicable aux personnes dont les services peuvent donner lieu à l'octroi d'une pension de retraite à charge du Trésor public ou d'un des pouvoirs ou organismes auxquels la loi du 14 avril 1965 établissant certaines relations entre les divers régimes de pensions du secteur public est applicable.
+
+##### Art. 46
+
+[<sup>1</sup> § 1er. Peuvent être admises à la pension le 1er jour du mois qui suit celui de leur [<sup>5</sup> 63e anniversaire]<sup>5</sup> ou le premier jour du mois qui suit la date de la cessation de leurs fonctions si elle est postérieure, les personnes qui :
+
+1° peuvent faire valoir au moins [<sup>5</sup> 42 années]<sup>5</sup> de services admissibles pour l'ouverture du droit à la pension dans le régime des agents de l'Etat ;
+
+2° et ont terminé leur carrière après le 31 décembre 1976 et peuvent faire valoir des services admissibles postérieurs à cette date [<sup>7</sup> ...]<sup>7</sup>.
+
+[<sup>2</sup> Pour l'application de l'alinéa 1er, 1°, sont :
+
+1° également prises en considération les années civiles susceptibles d'ouvrir des droits à une pension anticipée dans le régime des travailleurs salariés ou dans un autre régime de pension légal belge [<sup>4</sup> et les années civiles pour lesquelles une pension peut être accordée comme membre du Parlement européen, du Parlement fédéral ou d'un Parlement ou Conseil d'une Communauté ou d'une Région]<sup>4</sup>;
+
+2° assimilées aux années de carrière comme pompier professionnel, les années de carrière comme pompier volontaire, dans la mesure où ce pompier volontaire participe directement à la lutte contre le feu et est mis à la retraite comme pompier professionnel. Par " pompier volontaire ", il faut entendre le pompier lié par un contrat d'engagement tel que visé à l'article 11 ou 16 de l'annexe 3 du " Règlement-type d'organisation d'un service communal d'incendie qualifié de service volontaire " de l'arrêté royal du 6 mai 1971 fixant les types de règlements communaux relatifs à l'organisation des services communaux d'incendie et qui fait partie d'un service d'incendie ou d'une association intercommunale d'incendie constitués en vertu de la loi du 31 décembre 1963 sur la protection civile et qui n'a pas la qualité de membre du personnel communal. Le Roi peut, par arrêté délibéré en Conseil des Ministres, modifier la notion de " pompier volontaire " pour la mettre en concordance avec la réglementation sur la position juridique du pompier volontaire.]<sup>2</sup>
+
+[<sup>6</sup> 3° également prises en considération les périodes passées en non-activité préalable à la pension par le membre du cadre opérationnel de la police intégrée accordée en vertu de l'article XII.XIII.1. du PJPoL tel qu'inséré par l'arrêté royal du 9 novembre 2015 portant dispositions relatives au régime de fin de carrière pour des membres du personnel du cadre opérationnel de la police intégrée.]<sup>6</sup>
+
+Par dérogation à l'alinéa 1er, l'âge de [<sup>5</sup> 63 ans]<sup>5</sup> est remplacé par :
+
+\- 60 ans pour les personnes qui peuvent faire valoir au moins [<sup>5</sup> 44 années]<sup>5</sup> de services déterminés conformément à l'alinéa 1er, 1° ;
+
+\- 61 ans pour les personnes qui peuvent faire valoir au moins [<sup>5</sup> 43 années]<sup>5</sup> de services déterminés conformément à l'alinéa 1er, 1°.
+
+§ 2. Par dérogation au § 1er, l'âge est fixé :
+
+1° Pour les pensions de retraite prenant cours entre le 1er janvier 2013 et le 31 décembre 2013 :
+
+\- à 60 ans et 6 mois pour les personnes qui peuvent faire valoir au moins 38 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+\- à 60 ans pour les personnes qui peuvent faire valoir au moins 40 années de services déterminés conformément au § 1er, alinéa 1er, 1°.
+
+2° Pour les pensions de retraite prenant cours entre le 1er janvier 2014 et le 31 décembre 2014 :
+
+\- à 61 ans pour les personnes qui peuvent faire valoir au moins 39 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+\- à 60 ans pour les personnes qui peuvent faire valoir au moins 40 années de services déterminés conformément au § 1er, alinéa 1er, 1°.
+
+3° Pour les pensions de retraite prenant cours entre le 1er janvier 2015 et le 31 décembre 2015 :
+
+\- à 61 ans et 6 mois pour les personnes qui peuvent faire valoir au moins 40 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+\- à 60 ans pour les personnes qui peuvent faire valoir au moins 41 années de services déterminés conformément au § 1er, alinéa 1er, 1°;
+
+[<sup>5</sup> 4° Pour les pensions de retraite prenant cours entre le 1er janvier 2016 et le 31 décembre 2016 :
+
+\- à 62 ans pour les personnes qui peuvent faire valoir au moins 40 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+\- à 61 ans pour les personnes qui peuvent faire valoir au moins 41 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+\- à 60 ans pour les personnes qui peuvent faire valoir au moins 42 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+5° Pour les pensions de retraite prenant cours entre le 1er janvier 2017 et le 31 décembre 2017 :
+
+\- à 62 ans et 6 mois pour les personnes qui peuvent faire valoir au moins 41 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+\- à 61 ans pour les personnes qui peuvent faire valoir au moins 42 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+\- à 60 ans pour les personnes qui peuvent faire valoir au moins 43 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+6° Pour les pensions de retraite prenant cours entre le 1er janvier 2018 et le 31 décembre 2018 :
+
+\- à 63 ans pour les personnes qui peuvent faire valoir au moins 41 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+\- à 61 ans pour les personnes qui peuvent faire valoir au moins 42 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+\- à 60 ans pour les personnes qui peuvent faire valoir au moins 43 années de services déterminés conformément au § 1er, alinéa 1er, 1°.]<sup>5</sup>
+
+[<sup>2</sup> § 2/1. Par dérogation aux §§ 1er et 2 et sans préjudice du § 1er, alinéa 1er, 2°, l'âge est fixé à 62 ans pour les personnes qui sont nées avant le 1er janvier 1956, pour autant qu'elles puissent faire valoir au moins 37 années civiles déterminées conformément au § 1er, alinéa 2, 1°]<sup>2</sup>
+
+§ 3. [<sup>5</sup> La condition de durée de services fixée au § 1er, alinéa 1er, 1°, au § 2 et au § 2/1 ne doit pas être remplie par [<sup>8</sup> les personnes nées avant le 1er janvier 1960 qui ont atteint l'âge de 65 ans]<sup>8</sup>.
+
+[<sup>8</sup> L'âge de 65 ans visé à l'alinéa 1er est porté à :
+
+\- 66 ans pour les personnes nées après le 31 décembre 1959 et avant le 1er janvier 1964 ;
+
+\- 67 ans pour les personnes nées après le 31 décembre 1963]<sup>8</sup>.
+
+Les pensions qui prennent cours durant les mois de janvier des années 2014, 2015, 2016, 2017, 2018 ou 2019, sont, pour l'application du paragraphe 2, censées prendre cours respectivement en 2013, 2014, 2015, 2016, 2017 ou 2018.
+
+Les pensions qui prennent cours durant le mois de janvier des années 2017, 2018, 2019, 2020, 2021 ou 2022, sont, pour l'application du paragraphe 3/1, censées prendre cours respectivement en 2016, 2017, 2018, 2019, 2020 ou 2021.]<sup>5</sup>
+
+[<sup>2</sup> § 3/1. Pour déterminer si le nombre minimum d'années de services admissibles pour l'ouverture du droit à la pension prévu au § 1er, alinéas 1er, 1°, et 3, au § 2 et au [<sup>5</sup> § 3, alinéa 3]<sup>5</sup>, est atteint, la durée des services visés à l'alinéa 2 rendus dans une fonction à laquelle la loi attache, pour le calcul de pension, un tantième plus favorable que 1/60<sup>e</sup> est multipliée par le coefficient fixé à l'alinéa 5 qui correspond au tantième attaché à ces services, à l'année de prise de cours de la pension et au nombre minimal d'années de services exigé.
+
+Les services visés à l'alinéa 1er sont les services réellement prestés, les congés avec maintien de la rémunération et les situations énumérées dans la liste visée à l'article 88, alinéa 5, de la loi du 28 décembre 2011 portant des dispositions diverses, admissibles pour l'ouverture du droit à la pension, ainsi que les années de carrière comme pompier volontaire visées au § 1er, alinéa 2, 2°. Même si, pour le calcul de la pension, le tantième préférentiel n'est pas maintenu pendant les situations énumérées dans la liste précitée, le coefficient visé à l'alinéa 5 doit être appliqué à cette période en fonction du tantième qui aurait été lié à cette période si l'intéressé avait continué à prester des services effectifs dans la fonction qu'il exerçait avant cette situation.
+
+L'alinéa 1er est également applicable aux services visés à l'alinéa 2 prestés à la SNCB-Holding [<sup>3</sup> ou à HR Rail]<sup>3</sup>.
+
+L'alinéa 1er n'est pas applicable aux services prestés auprès d'organismes dont le régime de pensions est régi par la loi du 28 avril 1958 relative à la pension des membres de certains organismes d'intérêt public et de leurs ayants droit.
+
+Le ou les coefficients visés à l'alinéa 1er sont fixés comme suit :
+
+<table><tr><td>Année de prise de cours de la pension</td><td colspan="5">Tantième 1/55</td><td colspan="5">Tantième 1/50 et autres tantièmes plus favorables</td></tr><tr><td></td><td colspan="5">Nombre minimal d'années de services exigé</td><td colspan="5">Nombre minimal d'années de services exigé<br>  <br>  </td></tr><tr><td> </td><td>38 ans</td><td>39 ans</td><td>40 ans</td><td>41 ans</td><td>[<sup><font>1</font></sup> 42 ans ou plus]<sup><font>1</font></sup></td><td>38 ans</td><td>39 ans</td><td>40 ans</td><td>41 ans</td><td>[<sup><font>1</font></sup> 42 ans ou plus]<sup><font>1</font></sup><br>  <br>  </td></tr><tr><td>2013</td><td>1,0910</td><td>-</td><td>1,0908</td><td>-</td><td>-</td><td>1,1999</td><td>-</td><td>1,2001</td><td>-</td><td>-</td></tr><tr><td>2014</td><td>1,0910</td><td>1,0909</td><td>1,0908</td><td>-</td><td>-</td><td>1,1999</td><td>1,2000</td><td>1,2001</td><td>-</td><td>-</td></tr><tr><td>2015</td><td>-</td><td>1,0909</td><td>1,0908</td><td>1,0910</td><td>-</td><td>-</td><td>1,2000</td><td>1,2001</td><td>1,1999</td><td>-</td></tr><tr><td>2016</td><td>-</td><td>-</td><td>1,0908</td><td>1,0910</td><td>1,0909</td><td>-</td><td>-</td><td>1,2001</td><td>1,1999</td><td>1,2000</td></tr><tr><td>2017</td><td>-</td><td>-</td><td>1,0644</td><td>1,0649</td><td>1,0654</td><td>-</td><td>-</td><td>1,1706</td><td>1,1714</td><td>1,1722</td></tr><tr><td>2018</td><td>-</td><td>-</td><td>1,0390</td><td>1,0401</td><td>1,0500</td><td>-</td><td>-</td><td>1,1429</td><td>1,1443</td><td>1,1454</td></tr><tr><td>2019</td><td>-</td><td>-</td><td>1,0390</td><td>1,0401</td><td>1,0500</td><td>-</td><td>-</td><td>1,1164</td><td>1,1181</td><td>1,1200</td></tr><tr><td>2020</td><td>-</td><td>-</td><td>1,0390</td><td>1,0401</td><td>1,0500</td><td>-</td><td>-</td><td>1,0908</td><td>1,0933</td><td>1,0957</td></tr><tr><td>2021</td><td>-</td><td>-</td><td>1,0390</td><td>1,0401</td><td>1,0500</td><td>-</td><td>-</td><td>1,0667</td><td>1,0697</td><td>1,0722</td></tr><tr><td>A partir de 2022</td><td> </td><td>-</td><td>1,0390</td><td>1,0401</td><td>1,0500</td><td> </td><td>-</td><td>1,0436</td><td>1,0467</td><td>1,0500</td></tr><tr><td colspan="11">(<font>1</font>)&lt;L <a>2015-08-10/09</a>, art. 2; En vigueur : 01-01-2017&gt; </td></tr></table>
+
+Chaque période ininterrompue admissible pour l'ouverture du droit à la pension, subdivisée, le cas échéant, en périodes séparées selon le tantième attaché aux services, est comptée depuis sa date de début jusqu'à sa date de fin incluses. Les jours faisant partie d'un mois calendrier incomplet sont pris en compte à concurrence de la fraction qu'ils représentent par rapport au nombre de jours réellement compris dans ce mois calendrier complet. Le résultat de ce décompte est, pour chaque période séparée, exprimé en mois avec quatre décimales, en arrondissant vers le haut si la cinquième décimale est égale à ou plus grande que cinq. Le même arrondi est appliqué au produit obtenu après avoir multiplié la somme de ces périodes séparées, additionnées par tantième, par le coefficient visé à l'alinéa 5. La somme de ces produits est exprimée en mois avec quatre décimales.
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, décider de maintenir, pour les années après 2019, le coefficient 1,1200 fixé dans la dernière colonne du tableau à l'alinéa 5, pour les cas visés dans cette colonne.
+
+§ 3/2. L'application du § 1er, alinéa 2, 1°, ne peut avoir pour effet que pour une année civile déterminée plus de 12 mois soient pris en compte pour l'ouverture du droit à la pension.]<sup>2</sup>
+
+§ 4. Les paragraphes 1er à 3 ne sont pas applicables :
+
+1° aux personnes dont les services ont pris fin à la suite de la sanction disciplinaire la plus grave prévue par leur statut ou, si elles n'ont pas de statut ou si celui-ci ne comporte pas un régime disciplinaire, à la suite d'un licenciement pour motif grave les privant de leur emploi sans préavis ni indemnité compensatoire de préavis, et pour autant que ce licenciement, s'il a été contesté judiciairement, ait été reconnu valable par les juridictions compétentes et qu'aucune indemnité n'ait été accordée à l'intéressé;
+
+2° aux militaires obligés de quitter l'armée par l'effet des articles 19, 31, 32 ou 33 du Code pénal ou de l'article 5 du Code pénal militaire.
+
+Lorsqu'une personne a terminé sa carrière dans les conditions prévues à l'alinéa 1er et qu'ultérieurement elle preste à nouveau des services admissibles, seuls les services accomplis à partir de la reprise de fonction peuvent entrer en ligne de compte pour l'octroi et le calcul de la pension de retraite.
+
+§ 5. Pour l'application du § 1er, alinéa 1er, 2°, il n'est pas tenu compte des services qui ont été pris en compte pour l'octroi d'une pension du régime des travailleurs salariés en vertu de la loi du 5 août 1968 établissant certaines relations entre les régimes de pensions du secteur public et ceux du secteur privé.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-12-28/01, art. 85, 044; En vigueur : 01-01-2013&gt;
+
+(2)&lt;L 2012-12-13/13, art. 2, 045; En vigueur : 01-01-2013&gt;
+
+(3)&lt;AR 2013-12-11/02, art. 37, 048; En vigueur : 01-01-2014&gt;
+
+(4)&lt;L 2014-05-05/05, art. 22, 049; En vigueur : 01-01-2013&gt;
+
+(5)&lt;L 2015-08-10/09, art. 2, 058; En vigueur : 01-01-2017&gt;
+
+(6)&lt;L 2015-12-18/04, art. 2, 055; En vigueur : 25-11-2015&gt;
+
+(7)&lt;L 2018-03-30/18, art. 5, 061; En vigueur : 01-05-2019&gt;
+
+(8)&lt;L 2026-05-30/02, art. 11, 069; En vigueur : 01-01-2025&gt;
+
+##### Art. 46 DROIT FUTUR.
+
+[<sup>1</sup> § 1er. Peuvent être admises à la pension le 1er jour du mois qui suit celui de leur [<sup>5</sup> 63e anniversaire]<sup>5</sup> ou le premier jour du mois qui suit la date de la cessation de leurs fonctions si elle est postérieure, les personnes qui :
+
+1° peuvent faire valoir au moins [<sup>5</sup> 42 années]<sup>5</sup> de services admissibles pour l'ouverture du droit à la pension dans le régime des agents de l'Etat ;
+
+2° et ont terminé leur carrière après le 31 décembre 1976 et peuvent faire valoir des services admissibles postérieurs à cette date [<sup>7</sup> ...]<sup>7</sup>.
+
+[<sup>2</sup> Pour l'application de l'alinéa 1er, 1°, sont :
+
+1° également prises en considération les années civiles susceptibles d'ouvrir des droits à une pension anticipée dans le régime des travailleurs salariés ou dans un autre régime de pension légal belge [<sup>4</sup> et les années civiles pour lesquelles une pension peut être accordée comme membre du Parlement européen, du Parlement fédéral ou d'un Parlement ou Conseil d'une Communauté ou d'une Région]<sup>4</sup>;
+
+2° assimilées aux années de carrière comme pompier professionnel, les années de carrière comme pompier volontaire, dans la mesure où ce pompier volontaire participe directement à la lutte contre le feu et est mis à la retraite comme pompier professionnel. Par " pompier volontaire ", il faut entendre le pompier lié par un contrat d'engagement tel que visé à l'article 11 ou 16 de l'annexe 3 du " Règlement-type d'organisation d'un service communal d'incendie qualifié de service volontaire " de l'arrêté royal du 6 mai 1971 fixant les types de règlements communaux relatifs à l'organisation des services communaux d'incendie et qui fait partie d'un service d'incendie ou d'une association intercommunale d'incendie constitués en vertu de la loi du 31 décembre 1963 sur la protection civile et qui n'a pas la qualité de membre du personnel communal. Le Roi peut, par arrêté délibéré en Conseil des Ministres, modifier la notion de " pompier volontaire " pour la mettre en concordance avec la réglementation sur la position juridique du pompier volontaire]<sup>2</sup>;
+
+[<sup>6</sup> 3° également prises en considération les périodes passées en non-activité préalable à la pension par le membre du cadre opérationnel de la police intégrée accordée en vertu de l'article XII.XIII.1. du PJPoL tel qu'inséré par l'arrêté royal du 9 novembre 2015 portant dispositions relatives au régime de fin de carrière pour des membres du personnel du cadre opérationnel de la police intégrée.]<sup>6</sup>
+
+Par dérogation à l'alinéa 1er, l'âge de [<sup>5</sup> 63 ans]<sup>5</sup> est remplacé par :
+
+\- 60 ans pour les personnes qui peuvent faire valoir au moins [<sup>5</sup> 44 années]<sup>5</sup> de services déterminés conformément à l'alinéa 1er, 1° ;
+
+\- 61 ans pour les personnes qui peuvent faire valoir au moins [<sup>5</sup> 43 années]<sup>5</sup> de services déterminés conformément à l'alinéa 1er, 1°;
+
+[<sup>9</sup> - 60 ans pour les personnes qui peuvent faire valoir au moins 42 années civiles, chaque année civile comprenant au moins 234 jours visés aux articles 24, § 1er, 25, § 1er, 26, § 1er, 27, § 1er, et 28, § 1er, de la loi du 30 mai 2026 portant la réforme des pensions]<sup>9</sup>;
+
+[<sup>11</sup> 4° également prise en compte, pour les militaires du cadre actif ayant appartenu au personnel navigant de l'aviation, la bonification de services admissibles égale au temps passé au sein de ce personnel navigant tel que visé à l'article 4, alinéa 4, des lois sur les pensions militaires, coordonnées le 11 août 1923. Cette bonification peut s'élever à un maximum de 12 ans et, en dérogation à l'article 4, alinéa 4, précité, est également accordée pour le temps passé dans le personnel navigant après le 31 décembre 2026. Cette bonification de services admissibles est accordée uniquement pour autant que l'intéressé puisse justifier d'au moins vingt années de services ouvrant des droits à la pension en qualité de militaire du cadre actif, et ne s'applique pas aux pensions différées ;
+
+5° également prise en compte, pour les militaires du cadre actif en service à partir du 1er janvier 2009, la bonification de temps de deux ans visée à l'article 4, alinéa 6, des lois sur les pensions militaires précitées. Cette bonification de temps est accordée uniquement pour autant que l'intéressé puisse justifier d'au moins vingt années de services ouvrant des droits à pension en qualité de militaire du cadre actif et elle ne s'applique pas aux pensions différées]<sup>11</sup>.
+
+§ 2. Par dérogation au § 1er, l'âge est fixé :
+
+1° Pour les pensions de retraite prenant cours entre le 1er janvier 2013 et le 31 décembre 2013 :
+
+\- à 60 ans et 6 mois pour les personnes qui peuvent faire valoir au moins 38 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+\- à 60 ans pour les personnes qui peuvent faire valoir au moins 40 années de services déterminés conformément au § 1er, alinéa 1er, 1°.
+
+2° Pour les pensions de retraite prenant cours entre le 1er janvier 2014 et le 31 décembre 2014 :
+
+\- à 61 ans pour les personnes qui peuvent faire valoir au moins 39 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+\- à 60 ans pour les personnes qui peuvent faire valoir au moins 40 années de services déterminés conformément au § 1er, alinéa 1er, 1°.
+
+3° Pour les pensions de retraite prenant cours entre le 1er janvier 2015 et le 31 décembre 2015 :
+
+\- à 61 ans et 6 mois pour les personnes qui peuvent faire valoir au moins 40 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+\- à 60 ans pour les personnes qui peuvent faire valoir au moins 41 années de services déterminés conformément au § 1er, alinéa 1er, 1°;
+
+[<sup>5</sup> 4° Pour les pensions de retraite prenant cours entre le 1er janvier 2016 et le 31 décembre 2016 :
+
+\- à 62 ans pour les personnes qui peuvent faire valoir au moins 40 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+\- à 61 ans pour les personnes qui peuvent faire valoir au moins 41 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+\- à 60 ans pour les personnes qui peuvent faire valoir au moins 42 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+5° Pour les pensions de retraite prenant cours entre le 1er janvier 2017 et le 31 décembre 2017 :
+
+\- à 62 ans et 6 mois pour les personnes qui peuvent faire valoir au moins 41 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+\- à 61 ans pour les personnes qui peuvent faire valoir au moins 42 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+\- à 60 ans pour les personnes qui peuvent faire valoir au moins 43 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+6° Pour les pensions de retraite prenant cours entre le 1er janvier 2018 et le 31 décembre 2018 :
+
+\- à 63 ans pour les personnes qui peuvent faire valoir au moins 41 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+\- à 61 ans pour les personnes qui peuvent faire valoir au moins 42 années de services déterminés conformément au § 1er, alinéa 1er, 1° ;
+
+\- à 60 ans pour les personnes qui peuvent faire valoir au moins 43 années de services déterminés conformément au § 1er, alinéa 1er, 1°.]<sup>5</sup>
+
+[<sup>2</sup> § 2/1. Par dérogation aux §§ 1er et 2 et sans préjudice du § 1er, alinéa 1er, 2°, l'âge est fixé à 62 ans pour les personnes qui sont nées avant le 1er janvier 1956, pour autant qu'elles puissent faire valoir au moins 37 années civiles déterminées conformément au § 1er, alinéa 2, 1°]<sup>2</sup>
+
+§ 3. [<sup>5</sup> La condition de durée de services fixée au § 1er, alinéa 1er, 1°, au § 2 et au § 2/1 ne doit pas être remplie par [<sup>8</sup> les personnes nées avant le 1er janvier 1960 qui ont atteint l'âge de 65 ans]<sup>8</sup>.
+
+[<sup>8</sup> L'âge de 65 ans visé à l'alinéa 1er est porté à :
+
+\- 66 ans pour les personnes nées après le 31 décembre 1959 et avant le 1er janvier 1964 ;
+
+\- 67 ans pour les personnes nées après le 31 décembre 1963]<sup>8</sup>.
+
+Les pensions qui prennent cours durant les mois de janvier des années 2014, 2015, 2016, 2017, 2018 ou 2019, sont, pour l'application du paragraphe 2, censées prendre cours respectivement en 2013, 2014, 2015, 2016, 2017 ou 2018.
+
+Les pensions qui prennent cours durant le mois de janvier des années 2017, 2018, 2019, 2020, 2021 ou 2022, sont, pour l'application du paragraphe 3/1, censées prendre cours respectivement en 2016, 2017, 2018, 2019, 2020 ou 2021.]<sup>5</sup>
+
+[<sup>2</sup> § 3/1. [<sup>10</sup> Pour déterminer si le nombre minimum d'années de services admissibles pour l'ouverture du droit à la pension prévu au paragraphe 1er, alinéas 1er, 1°, et 3, est atteint, la durée des services et des périodes visés à l'alinéa 3 liés aux fonctions visées à l'alinéa 2 est multipliée par le coefficient prévu à l'alinéa 5.
+
+Les fonctions visées à l'alinéa 1er sont les fonctions :
+
+a) des membres du personnel de l'enseignement visés à l'article 77 de la loi du 20 juillet 1991 portant des dispositions sociales et diverses, à l'exception des membres du personnel de l'enseignement supérieur ;
+
+b) des membres du personnel effectuant des services actifs tels que définis dans le tableau à l'annexe de la loi générale du 21 juillet 1844 sur les pensions civiles et ecclésiastiques ;
+
+c) des membres du personnel du cadre opérationnel des services de police visé à l'article 117 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, en qualité de fonctionnaire de police ou d'agent de police ;
+
+d) des pompiers professionnels visés à l'article 103, alinéa 1er, 1°, de la loi du 15 mai 2007 relative à la sécurité civile qui participent directement à la lutte contre le feu.
+
+Les services et périodes visés à l'alinéa 1er sont :
+
+\- les services réellement prestés ;
+
+\- les périodes de congé avec maintien de la rémunération intégrale ;
+
+\- les années de carrière comme pompier volontaire visées au paragraphe 1er, alinéa 2, 2°.
+
+L'alinéa 1er n'est pas applicable aux services prestés auprès d'organismes dont le régime de pensions est régi par la loi du 28 avril 1958 relative à la pension des membres du personnel de certains organismes d'intérêt public et de leurs ayants droit.
+
+Le coefficient visé à l'alinéa 1er est fixé comme suit en fonction de la date de prise de cours de la pension :
+
+<table><tr><td>Jaar waarin het pensioen ingaat </td><td>Coëfficiënt </td><td>Année de prise de cours<br>    de la pension </td><td>Coefficient </td></tr><tr><td>2027 </td><td>1,0450 </td><td>2027 </td><td>1,0450 </td></tr><tr><td>2028 </td><td>1,0400 </td><td>2028 </td><td>1,0400 </td></tr><tr><td>2029 </td><td>1,0350 </td><td>2029 </td><td>1,0350 </td></tr><tr><td>2030 </td><td>1,0300 </td><td>2030 </td><td>1,0300 </td></tr><tr><td>2031 of later </td><td>1,0250 </td><td>2031 ou postérieurement </td><td>1,0250</td></tr></table>
+
+Les pensions qui prennent cours le 1er janvier des années 2028, 2029, 2030 ou 2031, sont, pour l'application de l'alinéa 5, réputées prendre cours respectivement en 2027, 2028, 2029 ou 2030]<sup>10</sup>.
+
+§ 3/2. L'application du § 1er, alinéa 2, 1°, ne peut avoir pour effet que pour une année civile déterminée plus de 12 mois soient pris en compte pour l'ouverture du droit à la pension.]<sup>2</sup>
+
+§ 4. Les paragraphes 1er à 3 ne sont pas applicables :
+
+1° aux personnes dont les services ont pris fin à la suite de la sanction disciplinaire la plus grave prévue par leur statut ou, si elles n'ont pas de statut ou si celui-ci ne comporte pas un régime disciplinaire, à la suite d'un licenciement pour motif grave les privant de leur emploi sans préavis ni indemnité compensatoire de préavis, et pour autant que ce licenciement, s'il a été contesté judiciairement, ait été reconnu valable par les juridictions compétentes et qu'aucune indemnité n'ait été accordée à l'intéressé;
+
+2° aux militaires obligés de quitter l'armée par l'effet des articles 19, 31, 32 ou 33 du Code pénal ou de l'article 5 du Code pénal militaire.
+
+Lorsqu'une personne a terminé sa carrière dans les conditions prévues à l'alinéa 1er et qu'ultérieurement elle preste à nouveau des services admissibles, seuls les services accomplis à partir de la reprise de fonction peuvent entrer en ligne de compte pour l'octroi et le calcul de la pension de retraite.
+
+§ 5. Pour l'application du § 1er, alinéa 1er, 2°, il n'est pas tenu compte des services qui ont été pris en compte pour l'octroi d'une pension du régime des travailleurs salariés en vertu de la loi du 5 août 1968 établissant certaines relations entre les régimes de pensions du secteur public et ceux du secteur privé.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-12-28/01, art. 85, 044; En vigueur : 01-01-2013&gt;
+
+(2)&lt;L 2012-12-13/13, art. 2, 045; En vigueur : 01-01-2013&gt;
+
+(3)&lt;AR 2013-12-11/02, art. 37, 048; En vigueur : 01-01-2014&gt;
+
+(4)&lt;L 2014-05-05/05, art. 22, 049; En vigueur : 01-01-2013&gt;
+
+(5)&lt;L 2015-08-10/09, art. 2, 058; En vigueur : 01-01-2017&gt;
+
+(6)&lt;L 2015-12-18/04, art. 2, 055; En vigueur : 25-11-2015&gt;
+
+(7)&lt;L 2018-03-30/18, art. 5, 061; En vigueur : 01-05-2019&gt;
+
+(8)&lt;L 2026-05-30/02, art. 11, 069; En vigueur : 01-01-2025&gt;
+
+(9)&lt;L 2026-05-30/02, art. 16, 069; En vigueur : 01-01-2027&gt;
+
+(10)&lt;L 2026-05-30/02, art. 138, 069; En vigueur : 01-02-2027&gt;
+
+(11)&lt;L 2026-05-30/02, art. 148, 069; En vigueur : 01-02-2027&gt;
+
+##### Art. 47
+
+A moins qu'il n'en soit disposé autrement par le présent titre, et sans préjudice de l'application, en cas de carrière mixte, de la loi du 14 avril 1965, la pension accordée en exécution de l'article 46 est soumise aux dispositions régissant les pensions de retraite dans le régime auquel l'intéressé à été assujetti, telles qu'elles sont en vigueur à la date de prise de cours de la pension. ([<sup>1</sup> ...]<sup>1</sup>. Elle ne peut toutefois excéder les trois quarts du traitement qui sert de base à sa liquidation que si pour le calcul de cette pension entrent en ligne de compte des bonifications de temps accordées du chef d'emprisonnement, de déportation, de services militaires de guerre ou des services y assimilés.) &lt;L 1991-05-21/41, art. 23, 012; En vigueur : 01-07-1991&gt;
+
+----------
+
+(1)&lt;L 2026-05-30/02, art. 111, 069; En vigueur : 01-06-2026&gt;
+
+##### Art. 48
+
+Le présent titre ne deroge pas, en ce qui concerne le droit a la pension et le paiement de celle-ci, (aux sanctions qui sont prévues par le régime de pension applicable à l'intéressé conformément à l'article 47 :
+
+a) en cas de condamnation à une peine criminelle;
+
+b) en cas d'incarcération dans une prison ou d'internement dans un établissement de défense sociale;
+
+c) au cas où le pensionné ne se présente pas pour subir son incarcération ou son internement). &lt;L 2007-04-25/52, art. 12, 034; En vigueur : 01-06-2007&gt;
+
+##### Art. 49
+
+&lt;L 1991-05-21/41, art. 24, 012; En vigueur : 01-06-1984&gt; (§ 1. Pour les personnes qui ne comptent pas vingt années de services admissibles pour l'ouverture du droit à la pension, à l'exclusion des bonifications pour études et des périodes bonifiées à titre de services admis pour la détermination du traitement, les services et périodes pendant lesquels ces personnes se sont constitué des droits soit à une pension non visée à l'article 45, soit à une pension au titre d'ancien membre du personnel de carrière des cadres d'Afrique, ne sont pas pris en considération pour le calcul de la pension.
+
+§ 2. Pour les personnes qui ne comptent pas vingt années de services admissibles pour le calcul de la pension, à l'exclusion des bonifications pour études et des périodes bonifiées à titre de services admis pour la détermination du traitement :
+
+1° la bonification de temps pour diplôme ou pour études préliminaires qui n'a pas fait l'objet d'une validation à titre onéreux, n'est prise en considération qu'à concurrence du rapport existant entre la durée, exprimée en mois, desdits services admissibles et le nombre deux cent quarante;
+
+2° les tantièmes [<sup>1</sup> plus favorables que 1/50e ]<sup>1</sup> sont remplacés par le tantième 1/50e;
+
+3° les services et périodes admissibles n'interviennent que pour leur durée simple.
+
+Pour l'application du présent paragraphe, la durée des services admissibles est établie abstraction faite de la réduction de temps prévue à l'article 2 de l'arrêté royal n° 206 du 29 août 1983 précité.) &lt;L 2003-02-03/41, art. 56, 027; En vigueur : 01-01-2003&gt;
+
+[<sup>1</sup> L'alinéa 1er, 2°, ne s'applique pas aux services rendus comme membre du personnel roulant de la SNCB Holding [<sup>2</sup> ou de HR Rail]<sup>2</sup>.]<sup>1</sup>
+
+((§ 3.) (ancien § 2) Pour l'application du présent titre, les services supplémentaires visés à l'article 393 du Code judiciaire sont considérés comme bonifications pour études.) &lt;L 1991-05-21/41, art. 24, §2, 013; En vigueur : 01-07-1991&gt; &lt;L 2003-02-03/41, art. 56, 027; En vigueur : 01-01-2003&gt;
+
+----------
+
+(1)&lt;L 2012-12-13/13, art. 8, 045; En vigueur : 01-01-2013&gt;
+
+(2)&lt;AR 2013-12-11/02, art. 38, 048; En vigueur : 01-01-2014&gt;
+
+##### Art. 50
+
+Pour le calcul de la pension accordée en vertu du présent titre, le Roi peut déterminer des barèmes de traitements fictifs pour les fonctions qui ont cessé d'exister ou dont les traitements n'auraient pas été affectés par l'évolution générale des rémunérations. Ces arrêtés royaux sont pris de la manière prévue par l'article 15 de la loi du 14 avril 1965.
+
+##### Art. 51
+
+&lt;L 2003-02-03/41, art. 57, 027; En vigueur : 01-01-2003&gt; Le bénéfice du présent titre est subordonné à l'introduction d'une demande qui doit être adressée à l'administration à laquelle l'intéressé a appartenu en dernier lieu ou à l'organisme chargé du calcul de sa pension.
+
+Dans sa demande qui ne peut être introduite plus d'un an avant la date de prise de cours de la pension, l'intéressé fixe la date à laquelle il désire que sa pension prenne cours.
+
+Toutefois, la pension prend cours au plus tôt le premier jour du mois qui suit celui au cours duquel la demande a été introduite :
+
+\- si la demande n'est pas introduite dans l'année qui suit le [<sup>1</sup> 62e]<sup>1</sup> anniversaire du demandeur;
+
+\- si la demande n'est pas introduite dans l'année qui suit la cessation de ses fonctions lorsque le demandeur ne cesse ses fonctions qu'après son [<sup>1</sup> 62e]<sup>1</sup> anniversaire.
+
+[<sup>1</sup> Pour l'intéressé qui conformément à l'article 46, §§ 1er ou 2, peut prétendre à une pension de retraite avant l'âge de 62 ans, l'âge mentionné à l'alinéa 3 est remplacé par l'âge à partir duquel il peut conformément à ces paragraphes prétendre à une pension de retraite.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-12-28/01, art. 86, 044; En vigueur : 01-01-2013&gt;
+
+##### Art. 51 DROIT FUTUR.
+
+&lt;L 2003-02-03/41, art. 57, 027; En vigueur : 01-01-2003&gt; Le bénéfice du présent titre est subordonné à l'introduction d'une demande qui doit être adressée à l'administration à laquelle l'intéressé a appartenu en dernier lieu ou à l'organisme chargé du calcul de sa pension.
+
+Dans sa demande qui ne peut être introduite plus d'un an avant la date de prise de cours de la pension, l'intéressé fixe la date à laquelle il désire que sa pension prenne cours.
+
+[<sup>2</sup> Toutefois, la pension prend cours au plus tôt le premier jour du mois suivant celui au cours duquel la demande a été introduite :
+
+1° si la demande n'a pas été introduite dans l'année qui suit la date à laquelle le demandeur remplit les conditions d'âge et de carrière prévues à l'article 46, §§ 1er ou 2, pour avoir droit à une pension de retraite ;
+
+2° si la demande n'a pas été introduite dans l'année qui suit la cessation de ses fonctions lorsque le demandeur cesse ses fonctions après la date précitée]<sup>2</sup>.
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2011-12-28/01, art. 86, 044; En vigueur : 01-01-2013&gt;
+
+(2)&lt;L 2026-05-30/02, art. 17, 069; En vigueur : 01-01-2027&gt;
+
+##### Art. 52
+
+Les personnes qui, entre le 1er juillet 1982 et la veille de l'entrée en vigueur du présent titre, se sont trouvées dans la position de disponibilité pour limite d'âge avec un traitement d'attente égal au taux de la pension, peuvent, à leur demande, être mises à la retraite le premier jour du mois qui suit celui au cours duquel elles ont été placées dans cette position administrative, mais au plus tôt au 1er juillet 1982 si elles réunissent la condition d'ancienneté de service prévue à l'article 46.
+
+### Ttitre IIIbis. [<sup>1</sup> Tantièmes applicables]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-12-28/01, art. 93, 044; En vigueur : 01-01-2012&gt;
+
+##### Art. 52/1
+
+[<sup>1</sup> Le présent titre s'applique aux pensions visées à l'article 38 de la loi du 5 août 1978 de réformes économiques et budgétaires ou à l'article 80 de la loi du 3 février 2003 apportant diverses modifications à la législation relative aux pensions du secteur public.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-12-28/01, art. 4, 044; En vigueur : 01-01-2012&gt;
+
+##### Art. 52/2
+
+[<sup>1</sup> Lorsque dans le calcul d'une pension de retraite interviennent des services prestés après le 31 décembre 2011, les éventuels tantièmes plus favorables que le tantième 1/48e rattachés à ces services, sont remplacés par le tantième 1/48e.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-12-28/01, art. 95, 044; En vigueur : 01-01-2012&gt;
+
+##### Art. 52/2 DROIT FUTUR.
+
+[<sup>1</sup> Lorsque dans le calcul d'une pension de retraite interviennent des services prestés [<sup>2</sup> du 1er janvier 2012 jusqu'au 31 décembre 2026]<sup>2</sup>, les éventuels tantièmes plus favorables que le tantième 1/48e rattachés à ces services, sont remplacés par le tantième 1/48e.]<sup>1</sup>
+
+[<sup>2</sup> Lorsque dans le calcul d'une pension de retraite interviennent des services prestés après le 31 décembre 2026, les éventuels tantièmes plus favorables que le tantième 1/60e rattachés à ces services sont remplacés par le tantième 1/60e.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-12-28/01, art. 95, 044; En vigueur : 01-01-2012&gt;
+
+(2)&lt;L 2026-05-30/02, art. 139, 069; En vigueur : 01-01-2027&gt;
+
+### TITRE IV. \_ Mesures tendant a faciliter le recueil des informations nécessaires en matière de pensions.
+
+#### CHAPITRE Ier. \_ Fiche signalétique individuelle.
+
+##### Art. 53
+
+Les pouvoirs et organismes visés à l'article 38, 1° et 2°, de la loi du 5 août 1978 de réformes économiques et budgétaires sont, sans porter atteinte au respect de la vie privée, tenus d'établir, pour chacune des personnes visées au même article, une fiche signalétique individuelle mentionnant l'état civil de l'intéressé, la composition de sa famille et son domicile, ainsi que tous les renseignements relatifs à la carrière administrative et pécuniaire nécessaires à l'établissement des pensions.
+
+Le Roi precise le contenu de la fiche signalétique individuelle. Il détermine également les conditions auxquelles les personnes visées à l'alinéa 1er peuvent obtenir communication des mentions figurant sur la fiche qui les concerne en vue d'en contrôler l'exactitude et, le cas échéant, de les faire rectifier ou compléter.
+
+##### Art. 54
+
+L'autorité chargée de la tenue de la fiche signalétique individuelle est habilitée à en fournir à titre gratuit des copies ou des extraits certifiés conformes, à la demande des pouvoirs et organismes qui assurent e service des pensions.
+
+Sauf preuve contraire quant à l'exactitude des éléments contenus dans la fiche signalétique individuelle, ceux-ci ont force probante pour la justification des droits à pension.
+
+##### Art. 55
+
+Le Roi peut centraliser pour les categories de personnel qu'il désigne, la tenue et la gestion des fiches signalétiques individuelles au sein d'une administration ou d'un organisme existant ou à créer. Dans ce cas, les pouvoirs et organismes visés à l'article 53 sont déchargés de cette tâche mais sont tenus de fournir gratuitement à ce service les renseignements nécessaires à l'accomplissement de sa mission.
+
+##### Art. 56
+
+Les arrêtés royaux prévus par le présent chapitre sont déliberés en Conseil des Ministres.
+
+#### CHAPITRE II. \_ Mode d'identification des pensions.
+
+##### Art. 57
+
+En vue de permettre le groupement d'informations relatives à une même personne et d'en tenir un inventaire permanent, les organismes de droit public et de droit privé ainsi que les associations de fait sont tenus de doter d'un numéro d'identification fixe de la manière définie par le Roi, les bénéficiaires de prestations dont ils assurent le service et qui sont constituées :
+
+\_ par les pensions, rentes et allocations légales ou réglementaires de vieillesse, de retraite, d'ancienneté, d'invalidité et de survie;
+
+\_ par tout avantage complétant les pensions visées ci-dessus alloué soit en vertu de dispositions légales, réglementaires ou statutaires, soit en vertu de dispositions découlant d'un contrat de travail, d'un règlement d'entreprise, d'une convention collective d'entreprise ou de secteur;
+
+\_ par les pensions, rentes, indemnités et allocations d'invalidité allouées aux intéressés ou à leurs ayants droit en réparation d'un accident du travail, d'une maladie professionnelle ou d'un fait de guerre;
+
+\_ par les allocations de handicapés;
+
+\_ par d'autres avantages déterminés par le Roi.
+
+##### Art. 58
+
+Les organismes et associations visés à l'article 57 sont dotés d'un numéro d'identification fixé de la manière prévue par le Roi. Ils fournissent à titre gratuit, à l'administration publique désignée par le Roi, toutes les informations relatives aux prestations dont question audit article.
+
+Les renseignements ainsi recueillis ne peuvent être utilisés que pour l'application des dispositions légales et réglementaires régissant les prestations visées à l'article 57.
+
+### TITRE V. \_ Contributions personnelles au financement des pensions de survie.
+
+##### Art. 59
+
+Les dispositions du présent titre s'appliquent aux personnes appelées a bénéficier d'une pension de retraite à charge :
+
+a) du Trésor public [<sup>3</sup> ...]<sup>3</sup>;
+
+b) des organismes auxquels s'applique l'arrêté royal n° 117 du 27 février 1935 établissant le statut des pensions du personnel des établissements publics autonomes et des régies institués par l'Etat (...); &lt;AR 2004-12-22/32, art. 20, 030; En vigueur : 01-01-2005&gt;
+
+c) de [<sup>1</sup> bpost]<sup>1</sup>; &lt;L 1991-03-21/30, art. 130, 011; En vigueur : 01-10-1992&gt;
+
+d) de la Régie des Transports maritimes;
+
+e) des organismes auxquels est applicable la loi du 28 avril 1958 relative à la pension des membres du personnel de certains organismes d'intérêt public et de leurs ayants droit.
+
+En sont exceptés les sauveteurs volontaires, les ministres des cultes auxquels le mariage est interdit et qui jouissent d'un traitement à charge du Trésor public, et les anciens membres du personnel de carrière des cadres d'Afrique.
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 042; En vigueur : 17-01-2011&gt;
+
+(2)&lt;AR 2013-12-11/02, art. 39, 048; En vigueur : 01-01-2014&gt;
+
+(3)&lt;L 2016-03-18/03, art. 108, 056; En vigueur : 01-01-2017&gt;
+
+##### Art. 60
+
+Les traitements ainsi que les autres éléments de la rémunération qui interviennent pour le calcul des pensions de retraite, alloués aux personnes désignées à l'article 59 sont soumis à une retenue obligatoire fixée à 7,5 p.c.
+
+##### Art. 61
+
+&lt;L 2006-01-12/45, art. 43, 031 ; En vigueur : 01-01-2006&gt; Le produit de la contribution personnelle prévue à l'article 60 est versé au [<sup>1</sup> Service fédéral des Pensions]<sup>1</sup> et est destiné au financement des pensions des ayants droit des personnes visées à l'article 59. L'excédent du produit de celle contribution par rapport à la charge de ces pensions est destiné au financement des pensions de retraite à charge du Trésor public.t prévisible du produit de cette contribution par rapport à la charge de ces pensions, est, chaque année, dans la loi contenant le budget des Pensions, affecté à des dépenses prévues par ce budget.
+
+----------
+
+(1)&lt;L 2016-03-18/03, art. 109, 056; En vigueur : 01-04-2016&gt;
+
+##### Art. 61bis
+
+&lt;Inséré par L 1991-05-21/41, art. 25, 012; En vigueur : 01-07-1991&gt; § 1. Le produit de la contribution personnelle visée à l'article 60 que sont tenus de verser les pouvoirs, services et organismes publics ainsi que les établissements d'enseignement, qui assurent le paiement de la rémunération des personnes mentionnées à l'article 59, doit parvenir au [<sup>1</sup> Service fédéral des Pensions]<sup>1</sup> au plus tard (le cinquième jour ouvrable qui suit le jour du paiement de la rémunération aux personnes intéressées). &lt;L 1999-12-24/36, art. 109, 1°, 021; En vigueur : 01-01-2000&gt; &lt;L 2006-01-12/45, art. 44, 1°, 031 ; En vigueur : 01-01-2006&gt;
+
+Toutefois, si le total des contributions dues pour une année est inférieur à (12 394,68 EUR), ils peuvent au cours de l'année suivante n'effectuer qu'un seul versement par trimestre. Dans ce cas, l'ensemble des contributions dues pour un trimestre doit parvenir au Trésor public au plus tard le dernier jour ouvrable du mois qui suit le trimestre concerné. &lt;AR 2000-07-20/64, art. 2, 022; En vigueur : 01-01-2002&gt;
+
+§ 2. Les pouvoirs, services, organismes et établissements visés au § 1er, sont tenus d'adresser, avant le 1er mars de chaque année, à l'Administration des pensions du Ministère des Finances, la liste des personnes auxquelles ils ont versé, au cours de l'année précédente, une rémunération soumise à la retenue prévue à l'article 60. Cette liste doit comporter les différentes indications arrêtées par le Ministre dont relève l'Administration des pensions.
+
+§ 3. Si les pouvoirs, services, organismes et établissements visés au § 1er restent en défaut de satisfaire aux obligations prévues à ce paragraphe, ils sont de plein droit redevables envers le [<sup>1</sup> Service fédéral des Pensions]<sup>1</sup> d'intérêts de retard sur les sommes non versées. Ces intérêts, dont le taux est à tout moment égal (au taux de l'intérêt légal) augmenté de 2 p.c., commencent à courir (le sixième jour ouvrable qui suit le jour du paiement de la rémunération aux personnes intéressées. Si le pouvoir, le service, l'organisme ou l'établissement apporte la preuve de circonstances exceptionnelles justificatives du défaut du versement de la contribution dans le délai prévu, le ministre des Pensions peut accorder une dispense du paiement des intérêts de retard précités. La demande de dispense doit parvenir au ministre des Pensions dans le mois qui suit le jour auquel le pouvoir, le service, l'organisme ou l'établissement a été informé par l'administration des Pensions du fait qu'il est resté en défaut de satisfaire aux obligations précitées). &lt;L 1991-07-20/30, art. 12, 014; En vigueur : 01-07-1991&gt; &lt;L 1999-12-24/36, art. 109, 2°, 021; En vigueur : 01-01-2000&gt; &lt;L 2006-01-12/45, art. 44, 2°, 031 ; En vigueur : 01-01-2006&gt;
+
+S'ils n'ont pas satisfait aux obligations prévues au § 2, ils sont de plein droit redevables envers le Trésor public d'une amende égale, par mois entier de retard, à 0,1 p.c. du montant total des rémunérations se rapportant à l'année considéree. L'application du présent alinéa exclut celle de l'article 12, § 5, alinéa 2, de la loi du 28 avril 1958 relative à la pension des membres du personnel de certains organismes d'intérêt public et de leurs ayants droit. (La phrase qui précède est abrogée à partir du 1er janvier 1995.) &lt;L 1991-07-20/30, art. 15, 014&gt;
+
+Le produit de ces intérêts et amendes est affecté au financement des pensions des ayants droit des personnes visées à l'article 59.
+
+----------
+
+(1)&lt;L 2016-03-18/03, art. 110, 056; En vigueur : 01-04-2016&gt;
+
+##### Art. 62
+
+&lt;L 1991-05-21/41, art. 26, 012; En vigueur : 01-07-1991&gt; Les personnes autres que celles désignées à l'article 59, exerçant une activité leur conférant des droits à une pension visée à l'article 38 de la loi du 5 août 1978 de réformes économiques et budgétaires sont tenues de contribuer personnellement au financement du régime de pension qui leur est applicable du chef de cette activité par une retenue obligatoire au moins égale à celle prévue à l'article 60.
+
+### TITRE VI. \_ Modifications diverses de la législation relative aux pensions.
+
+#### CHAPITRE Ier. \_ Mesures tendant à hâter la liquidation des pensions et à uniformiser les règles relatives à leur date de prise de cours.
+
+##### Art. 63
+
+&lt;Abrogé par L 2014-05-05/05, art. 47,3°, 049; En vigueur : 01-08-2014&gt;
+
+##### Art. 64
+
+&lt;disposition modificative&gt;
+
+##### Art. 65
+
+&lt;disposition modificative&gt;
+
+##### Art. 66
+
+&lt;disposition abrogatoire&gt;
+
+#### CHAPITRE II. \_ Services ou periodes admissibles en matière de pensions.
+
+##### Art. 67
+
+&lt;disposition modificative&gt;
+
+##### Art. 68
+
+&lt;disposition modificative&gt;
+
+##### Art. 69
+
+&lt;disposition modificative&gt;
+
+##### Art. 70
+
+&lt;disposition modificative&gt;
+
+##### Art. 71
+
+Les pouvoirs et organismes visés à l'article 1er, littera b), de la loi du 14 avril 1965 établissant certaines relations entre les divers régimes de pensions du secteur public, ainsi que les organismes désignés en vertu du littera e) du même article, sont tenus d'apporter s'il y a lieu, aux dispositions organiques régissant leur régime de pension, les modifications nécessaires pour rendre admissibles en matière de pension les services effectifs quel que soit l'âge auquel ils ont été accomplis.
+
+##### Art. 72
+
+&lt;disposition modificative&gt;
+
+##### Art. 73
+
+&lt;disposition modificative&gt;
+
+##### Art. 74
+
+Le délai de 6 mois dont question aux dispositions faisant l'objet de l'article 72 court à partir de la date de la publication de la présente loi, en ce qui concerne les personnes qui, à cette date, ont déjà atteint l'âge de 65 ans et ont été reconnues invalides après avoir atteint cet âge.
+
+##### Art. 75
+
+&lt;disposition modificative&gt;
+
+##### Art. 76
+
+&lt;disposition modificative&gt;
+
+##### Art. 77
+
+Les personnes exerçant une fonction susceptible de leur conférer des droits à une pension de retraite à charge d'un pouvoir ou organisme auquel la loi du 14 avril 1965 établissant certaines relations entre les divers régimes de pensions de secteur public est applicable, peuvent faire compter, pour l'octroi et le calcul de cette pension, les services rendus antérieurement, soit en vertu d'une nomination régulière, soit en vertu d'une nomination déclarée nulle par l'arrêté-loi du 5 mai 1944, dans les agglomérations de communes créées pendant la guerre de 1940-1945 dans le cadre d'une mission administrative à temps plein, pour autant que ces services ne soient pas déjà admissibles en vertu d'une disposition légale ou réglementaire antérieure.
+
+Si des périodes prises en considération conformément au présent article interviennent dans la période retenue pour l'établissement de la moyenne des traitements servant de base au calcul de la pension, il est tenu compte, pour ces périodes, des traitements qui ont été alloués aux intéressés par l'agglomeration à laquelle ils appartenaient, sans préjudice de l'application de l'article 11 de la loi du 9 juillet 1969 modifiant et completant la legislation relative aux pensions de retraite et de survie des agents du secteur public.
+
+Lorsque la pension est accordée par un des pouvoirs ou organismes auxquels la loi du 14 avril 1965 est applicable, à l'exclusion du Trésor public, ce dernier supporte la charge de la quote-part résultant de la prise en considération des services mentionnés au présent article, calculée de la manière déterminée à l'article 13 de ladite loi.
+
+##### Art. 78
+
+§ 1er. L'article 1er de la loi du 5 août 1968 établissant certaines relations entre les régimes de pensions du secteur public et ceux du secteur privé n'est pas applicable du chef des services admis en vertu de l'article 77 si les intéressés ou leurs ayants droit étaient admis au bénéfice de la pension de retraite ou de survie des travailleurs salariés au moment de l'entrée en vigueur de l'article 77.
+
+Si les intéressés ou leurs ayants droit etaient admis au bénéfice de la rente de vieillesse ou de survie, du chef des services précités, au moment de l'entrée en vigueur de l'article 77, l'application des articles 1er et 15 de la loi du 5 août 1968 est subordonnée a l'introduction d'une demande dans un délai de 6 mois prenant cours à la date de la publication de la présente loi.
+
+§ 2. Dans les cas visés au § 1er, alinéa 1er, le Trésor public qui assume le paiement de la pension de retraite ou supporte la charge d'une quote-part de cette pension est subrogé dans les avantages en matière de pension résultant de l'application des lois concernant les pensions des travailleurs salariés du chef des services visés à l'article 77 à partir de la date à laquelle lesdits services sont pris en considération pour en fixer le montant.
+
+##### Art. 79
+
+Les pensions de retraite et de survie à charge d'un des régimes de pensions auxquels la loi du 14 avril 1965 est applicable, en cours à la date de l'entrée en vigueur de l'article 77, sont révisées à la demande des intéressés compte tenu des dispositions dudit article, et selon les modalités fixées par le Roi.
+
+Cette demande de révision produit ses effets :
+
+a) le premier jour du mois qui suit celui au cours duquel la présente loi aura été publiée au Moniteur belge, pour autant qu'elle soit introduite dans les six mois suivant la date de cette publication;
+
+b) le premier jour du mois suivant celui au cours duquel elle est introduite dans les autres cas.
+
+##### Art. 80
+
+Nonobstant toute autre disposition légale, réglementaire ou contractuelle, pour le calcul des pensions de retraite visées à l'article 38 de la loi du 5 août 1978 de réformes économiques et budgétaires, les services rendus par les membres du personnel de carrière des cadres d'Afrique, ne sont pas pris en considération lorsqu'il s'agit de personnes qui sont entrées en service dans un pouvoir ou organisme visé à l'article 38 précité, après avoir effectué 15 ans ou plus de services en Afrique sans avoir achevé une carrière complète ou après avoir été relevées de leurs fonctions pour cause d'inaptitude physique au service d'Afrique après 15 ans au moins de service.
+
+##### Art. 81
+
+&lt;disposition modificative&gt;
+
+##### Art. 82
+
+Les pensions de retraite en cours à la date de l'entrée en vigueur de l'article 80 sont révisées d'office avec effet au 1er janvier 1983, compte tenu des dispositions dudit article.
+
+#### CHAPITRE III. \_ Modifications à différentes lois en matière de pensions.
+
+##### Art. 83
+
+&lt;disposition modificative&gt;
+
+##### Art. 84
+
+&lt;disposition modificative&gt;
+
+##### Art. 85
+
+&lt;disposition modificative&gt;
+
+##### Art. 86
+
+&lt;disposition modificative&gt;
+
+##### Art. 87
+
+Produisent leurs pleins et entiers effets les décisions de mises à la retraite pour cause d'inaptitude physique prises avant la publication de la présente loi à l'égard des personnes soumises à l'article 117 de la même loi du 14 février 1961 et qui n'ont pu être réaffectées dans un emploi en rapport avec leurs aptitudes, ainsi qu'à l'égard de celles qui ont poursuivi leurs fonctions pendant la procédure d'appel contre une décision d'inaptitude physique.
+
+##### Art. 88
+
+&lt;disposition modificative&gt;
+
+##### Art. 89
+
+&lt;disposition modificative&gt;
+
+##### Art. 90
+
+&lt;disposition modificative&gt;
+
+##### Art. 91
+
+&lt;disposition modificative&gt;
+
+##### Art. 92
+
+&lt;disposition modificative&gt;
+
+##### Art. 93
+
+&lt;disposition modificative&gt;
+
+##### Art. 94
+
+&lt;disposition modificative&gt;
+
+##### Art. 95
+
+&lt;Disposition modificative de l'art. 32 de la L 1976-07-13/30&gt;
+
+### TITRE VII. \_ Dispositions finales.
+
+##### Art. 96
+
+Le Roi peut, dans les textes, légaux et réglementaires en vigueur à la date de la publication de la présente loi, remplacer les références à des dispositions qu'elle abroge par des références aux dispositions nouvelles qui s'y substituent.
+
+##### Art. 97
+
+Le Roi peut prendre toutes les mesures nécessaires à la solution des difficultés auxquelles donnerait lieu l'application des dispositions du présent livre.
+
+##### Art. 98
+
+Le Livre Ier entre en vigueur le premier jour du mois qui suit celui au cours duquel la présente loi aura été publiée au Moniteur belge, à l'exception :
+
+a) du Titre II qui entre en vigueur le premier jour du sixième mois qui suit la date de cette publication;
+
+b) du Titre IV qui entrera en vigueur à la date qui sera fixée par le Roi;
+
+c) de l'article 66, b et d, qui produisent leurs effets au 1er juillet 1979;
+
+d) des articles 72 à 74 et de l'article 88 qui produisent leurs effets le 1er janvier 1979;
+
+e) des articles 80 à 82 qui produisent leurs effets le 1er janvier 1983;
+
+f) des articles 84 et 85 qui produisent leurs effets le 1er janvier 1968;
+
+g) de l'article 86, § 1er, qui entre en vigueur le 1er septembre 1984;
+
+h) des articles 86, § 2, 3°, 89 et 90 qui produisent leurs effets le 1er janvier 1978.
+
+## LIVRE II. \_ Mesures d'harmonisation dans le régime de pension des travailleurs salariés.
+
+### TITRE Ier. \_ Modifications de l'arrêté royal n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés.
+
+##### Art. 99
+
+&lt;disposition modificative&gt;
+
+##### Art. 100
+
+&lt;disposition modificative&gt;
+
+##### Art. 101
+
+&lt;disposition modificative&gt;
+
+##### Art. 102
+
+&lt;disposition modificative&gt;
+
+##### Art. 103
+
+&lt;disposition modificative&gt;
+
+##### Art. 104
+
+&lt;disposition modificative&gt;
+
+##### Art. 105
+
+&lt;disposition modificative&gt;
+
+##### Art. 106
+
+&lt;disposition modificative&gt;
+
+##### Art. 107
+
+&lt;disposition modificative&gt;
+
+##### Art. 108
+
+&lt;disposition modificative&gt;
+
+##### Art. 109
+
+&lt;disposition modificative&gt;
+
+##### Art. 110
+
+&lt;disposition modificative&gt;
+
+##### Art. 111
+
+&lt;disposition modificative&gt;
+
+##### Art. 112
+
+&lt;disposition modificative&gt;
+
+##### Art. 113
+
+&lt;disposition modificative&gt;
+
+##### Art. 114
+
+&lt;disposition modificative&gt;
+
+### TITRE II. \_ Modifications de la loi du 8 août 1980 relative aux propositions budgétaires 1979-1980.
+
+##### Art. 115
+
+&lt;disposition modificative&gt;
+
+##### Art. 116
+
+&lt;disposition modificative&gt;
+
+### TITRE III. \_ Disposition finale.
+
+##### Art. 117
+
+Le Livre II entre en vigueur le 1er janvier 1984.
+
+## LIVRE III. \_ Mesures d'harmonisation dans le régime de pension des travailleurs indépendants.
+
+## DISPOSITION PRELIMINAIRE.
+
+##### Art. 118
+
+[<sup>1</sup> Pour l'application de la présente loi, il y a lieu d'entendre par:
+
+1° "arrêté royal n° 72": l'arrêté royal n° 72 du 10 novembre 1967 relatif à la pension de retraite et de survie des travailleurs indépendants;
+
+2° "la loi du 25 avril 2024": la loi du 25 avril 2024 portant la réforme des pensions.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-25/11, art. 16, 068; En vigueur : 01-01-2025&gt;
+
+### TITRE Ier. \_ Mesures tendant à réaliser l'égalité de traitement des hommes et des femmes.
+
+##### Art. 119
+
+&lt;disposition modificative&gt;
+
+##### Art. 120
+
+&lt;disposition modificative&gt;
+
+##### Art. 121
+
+&lt;disposition modificative&gt;
+
+##### Art. 122
+
+§ 1er. Le droit à une pension de survie que reconnaît l'arrêté royal n° 72 aux veuves est, dans les mêmes conditions, étendu en faveur du veuf.
+
+Le présent article n'est toutefois applicable que si la femme est décédée après le 31 décembre 1983 ou si son absence est, après cette date, déclarée conformément à l'article 115 du Code civil.
+
+§ 2. Le Roi peut adapter l'arrêté royal n° 72 en fonction de l'extension du droit à la pension de survie prévue par le présent article.
+
+### TITRE II. \_ Les modalités d'ouverture du droit à la pension de travailleur indépendant en fonction de la carrière et du calcul de cette pension proportionnellement aux revenus professionnels.
+
+##### Art. 123
+
+Par dérogation aux articles 9, 11, 13, 16, 16bis, 17 et 17bis de l'arrêté royal n° 72, (les articles 124 à 130 de la présente loi) visent le mode de calcul en fonction de la carrière et des revenus professionnels de la pension de retraite en qualité de travailleur indépendant et de la pension de survie en qualité de conjoint survivant d'un travailleur indépendant lorsque ces pensions prennent effectivement cours pour la première fois au plus tôt le 1er janvier 1985. &lt;L 1987-11-07/30, art. 88, 004; En vigueur : 01-01-1988&gt;
+
+#### CHAPITRE Ier. \_ L'ouverture du droit à la pension de retraite et à la pension de survie en fonction de la carrière.
+
+A. La pension de retraite.
+
+##### Art. 124
+
+La pension de retraite allouable en fonction de la carrière est exprimée par une fraction.
+
+Le dénominateur de cette fraction est 45 ou 40, selon qu'il s'agit d'un homme ou d'une femme.
+
+Le numérateur de cette fraction est obtenu en divisant par quatre le nombre qui exprime le total des trimestres susceptibles d'ouvrir le droit à la pension de retraite et qui se situent avant l'année au cours de laquelle la pension prend cours.
+
+Lorsqu'une année civile n'est susceptible d'ouvrir le droit à la pension de retraite que si l'intéressé justifie, pour l'année en cause, d'une occupation d'une durée déterminée par le Roi et s'il est satisfait à cette condition, ladite année intervient pour quatre trimestres.
+
+Le Roi détermine comment est calculée la carrière qui se rapporte aux années visées à l'article 15, § 5, de l'arrêté royal n° 72. Il détermine également les conditions dans lesquelles les trimestres antérieurs à l'année au cours de laquelle le demandeur a atteint l'âge de 20 ans entrent en ligne de compte en vue de la fixation du numérateur visé par le présent paragraphe.
+
+Le Roi fixe les cas dans lesquels le numérateur obtenu par application des alinéas précédents peut être majoré.
+
+L'application du présent paragraphe ne peut avoir pour effet de retenir une fraction dépassant l'unité.
+
+B. La pension de survie.
+
+##### Art. 125
+
+§ 1er. Lorsque le conjoint est décédé après le 31 décembre de l'année précédant celle au cours de laquelle il a atteint l'âge de 65 ans ou de 60 ans, selon qu'il s'agit du mari ou de la femme, ou s'il bénéficiait d'une pension de retraite anticipée en qualité de travailleur indépendant, la fraction qui exprime la pension de survie allouable en fonction de la carrière du conjoint défunt est égale à la fraction qui a été retenue pour le calcul de la pension de retraite du conjoint décédé ou qui, si le conjoint décédé ne bénéficiait pas d'une pension de retraite, pourrait être retenue, par application de l'article 124, pour le calcul d'une pension de retraite prenant cours le premier jour du mois du décès.
+
+§ 2. Dans les autres cas, la fraction qui exprime la pension de survie est établie comme suit :
+
+1° le numérateur représente le nombre obtenu en divisant par quatre le total des trimestres susceptibles d'ouvrir le droit à la pension de survie et qui se situent avant l'année au cours de laquelle le conjoint est décédé.
+
+Les dispositions de l'article 124, alinéas 4 à 6, sont applicables par analogie en vue de la fixation de ce numérateur;
+
+2° le dénominateur exprime le nombre d'années que comprend la période qui débute le 1er janvier de l'année du 20e anniversaire du conjoint décédé et qui se termine le 31 décembre de l'année qui précède celle au cours de laquelle il est décédé.
+
+L'application de l'alinéa précédent ne peut aboutir à retenir une fraction dépassant l'unité.
+
+§ 3. Le Roi fixe les modalites d'ouverture du droit à la pension de survie lorsque le conjoint est décédé avant l'expiration de l'année au cours de laquelle il a ou aurait atteint l'âge de 20 ans.
+
+#### CHAPITRE II. \_ Le calcul de la pension proportionnellement aux revenus professionnels.
+
+A. Les revenus professionnels.
+
+##### Art. 126
+
+§ 1er. La pension de retraite et la pension de survie sont calculées en fonction des revenus professionnels.
+
+§ 2. Par revenus professionnels il y a lieu d'entendre :
+
+1° pour les années antérieures à 1984 : un revenu professionnel forfaitaire de (8 133,63 EUR). Ce montant est lié à l'indice des prix à la consommation 142,75 (1971 = 100); &lt;AR 2001-07-13/48, art. 3, 024; En vigueur : 01-01-2002&gt;
+
+2° pour les années à partir de 1984 : les revenus professionnels réévalués qui ont été retenus en vue de la perception, pour l'année en cause, des cotisations dues en vertu de l'arreté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs independants.
+
+Ces revenus ne sont pas retenus pour la partie qui dépasse le montant visé à l'article 12, § 1er, 2°, a), de l'arrêté royal n° 38 susvisé tel qu'il est adapté aux fluctuations de l'indice des prix à la consommation pour l'année en cause.
+
+§ 3. Le Roi détermine :
+
+1° comment les revenus professionnels sont, au moment o il est statué sur la demande de pension, ad aptés aux fluctuations de l'indice des prix à la consommation;
+
+2° les revenus fictifs dont il y a lieu de tenir compte pour les périodes postérieures à 1983 qui sont assimilées par le Roi en exécution de l'article 14, § 1er, de l'arrêté royal n° 72.
+
+B. La pension de retraite.
+
+##### Art. 127
+
+§ 1er. En vue du calcul de la pension de retraite, la fraction de la pension allouable en fonction de la carrière résultant de l'application de l'article 124 est scindée en deux parties :
+
+1° une première partie qui exprime un nombre de 45mes ou de 40mes, selon qu'il s'agit d'un homme ou d'une femme, égal au nombre d'années et de trimestres situés après 1983, tout trimestre valant 0,25/45 ou 0,25/40, suivant le cas;
+
+2° le solde qui est présumé correspondre exclusivement à la partie de la carrière antérieure à 1984.
+
+§ 2. Par année civile, la pension qui correspond à la carrière visée au § 1er, 1°, est obtenue en multipliant les revenus professionnels successivement par :
+
+1° 1/45 ou 1/40, selon qu'il s'agit d'un homme ou d'une femme. Lorsque l'année en cause n'entre pas entièrement en ligne de compte, le numérateur de cette fraction est ramené à 0,25, 0,50 ou 0,75 selon que 1, 2 ou 3 trimestres ont pu être retenus;
+
+2° 75 p.c. ou 60 p.c. selon que l'intéressé répond ou non aux conditions fixées par [<sup>1</sup> l'article 9, § 1er, 1°, ou § 2]<sup>1</sup>, de l'arrêté royal n° 72;
+
+3° une fraction fixée chaque année par le Roi et qui reflète, au 1er janvier de l'année en cause, le rapport entre le taux de la cotisation destinée au régime de pension des travailleurs indépendants et la somme des taux de la cotisation personnelle et de la cotisation patronale dues sur la rémunération des travailleurs salariés et destinées à leur régime de pension.
+
+§ 3. La partie de la pension visée au § 1er, 2°, se calcule conformément aux dispositions du § 2, 1° et 2°.
+
+§ 4. Lorsque le numérateur de la fraction exprimant les années susceptibles d'ouvrir le droit à la pension de retraite est réduit en vertu de l'article 124, dernier alinea, ou en vertu de l'article 142, cette reduction portera, pour le calcul de la pension, sur les années qui donnent lieu à l'octroi de la pension la moins élevée.
+
+§ 5. [<sup>1</sup> Le paragraphe 2 de l'article 9 de l'arrêté royal n° 72 est applicable par analogie en vue du calcul de la pension conformément au présent article]<sup>1</sup>.
+
+C. La pension de survie.
+
+----------
+
+(1)&lt;L 2019-04-26/50, art. 3, 062; En vigueur : 01-07-2019&gt;
+
+##### Art. 128
+
+§ 1er. La pension de survie allouable pour chaque année de carrière est obtenue en multipliant le revenu professionnel successivement :
+
+1° par une fraction dont le numérateur est égal à l'unité et dont le dénominateur est celui de la fraction visée à l'article 125, § 1er, ou § 2, suivant le cas;
+
+2° par 60 p.c.
+
+Lorsque l'année en cause n'entre pas entierement en ligne de compte, le numérateur de cette fraction est ramené à 0,25, 0,50 ou 0,75 selon que 1, 2 ou 3 trimestres ont pu être retenus.
+
+En ce qui concerne les années postérieures à 1983, le montant obtenu par application des deux alinéas précédents est multiplié par la fraction visée à l'article 127, § 2, 3°.
+
+La part de carrière, ajoutée en vertu de l'application analogue de l'article 124, alinéa 6, est, en vue du calcul de la pension de survie y afférente, censee correspondre à des années de carrière antérieures à 1984.
+
+§ 2. Lorsque le numérateur de la fraction exprimant les années susceptibles d'ouvrir le droit à la pension de survie est réduit, conformément aux articles 124, dernier alinéa, et 142, dans l'hypothèse visée à l'article 125, § 1er, ou conformément aux articles 125, § 2, dernier alinéa, et 142, cette réduction portera, pour le calcul de la pension, sur les années qui donnent lieu à la pension la moins élevée.
+
+##### Art. 129
+
+Lorsque le conjoint est décédé avant l'année au cours de laquelle il aurait atteint l'âge de 65 ans ou de 60 ans, selon qu'il s'agit du mari ou de la femme, et ne bénéficiait pas à son décès d'une pension de retraite anticipée en qualité de travailleur indépendant, la pension de survie ne peut, par dérogation à l'article 128, être supérieure au montant obtenu en appliquant au montant d'une pension de retraite fictive la fraction obtenue par application des articles 125, § 2, et 142.
+
+Cette pension de retraite fictive est celle qui serait obtenue par un bénéficiaire, dont le conjoint satisfait aux conditions visées à [<sup>1</sup> l'article 9, § 1er, 1°, ou § 2]<sup>1</sup> de l'arreté royal n° 72, qui est supposé avoir atteint l'âge de 65 ans ou de 60 ans le jour du decès du mari ou de la femme suivant le cas, justifier d'une carrière complète en qualité de travailleur indépendant et avoir eu pour les années postérieures à 1983, le revenu professionnel retenu pour les mêmes années dans le chef du conjoint défunt.
+
+Le Roi détermine quel est le revenu dont il y a lieu de tenir compte en vue du calcul de la pension de retraite fictive visée à l'alinéa précédent pour les années ou les fractions d'années postérieures à 1983 qui n'ont pu être retenues dans la carrière du conjoint décédé.
+
+----------
+
+(1)&lt;L 2019-04-26/50, art. 4, 062; En vigueur : 01-07-2019&gt;
+
+##### Art. 130
+
+Le Roi détermine comment est calculée la pension de survie dans les cas visés à l'article 125, § 3.
+
+### (TITRE IIBIS. \_ La pension minimum.) &lt;L 1987-11-07/30, art. 89, 004; En vigueur : 01-01-1988&gt;
+
+##### Art. 131
+
+&lt;L 1987-11-07/30, art. 90, 004; En vigueur : 01-01-1988&gt; § 1. La pension de retraite accordée pour une carrière complète à charge du régime de pensions pour travailleurs indépendants, ne peut être inférieure à un minimum garanti de (6 456,91 EUR) par an. Si le bénéficiaire remplit les conditions visées à [<sup>1</sup> l'article 9, § 1er, 1°, ou § 2]<sup>1</sup>, de l'arrêté royal n° 72 du 10 novembre 1967 relatif à la pension de retraite et de survie des travailleurs indépendants, ou de (5 086,73 EUR) par an si le bénéficiaire ne remplit pas ces conditions. &lt;AR 2001-07-13/48, art. 3, 024; En vigueur : 01-01-2002&gt;
+
+La pension de retraite accordée à charge du régime de pensions pour travailleurs indépendants sur base d'une carrière au moins égale aux deux tiers d'une carrière professionnelle complète ne peut être inférieure à une fraction du taux de base fixé conformément à l'alinéa premier. Cette fraction est égale à celle qui a servi au calcul de la pension de retraite à charge du régime des travailleurs indépendants.
+
+§ 2. La pension de survie accordée à charge du régime de pension pour travailleurs indépendants sur base d'une carrière complète du conjoint décédé ne peut être inférieure à un minimum garanti de (5 086,73 EUR) par an. &lt;AR 2001-07-13/48, art. 3, 024; En vigueur : 01-01-2002&gt;
+
+La pension de survie accordée a charge du régime de pension pour travailleurs indépendants sur base d'une carrière professionnelle au moins égale aux deux tiers d'une carrière professionnelle complète ne peut être inférieure à une fraction du taux de base fixé à l'alinéa premier. Cette fraction est égale à celle qui a servi au calcul de la pension de survie a charge du régime des travailleurs indépendants.
+
+§ 3. (Les montants de (6 456,91 EUR) et (5 086,73 EUR) mentionnés aux §§ 1er et 2, sont portés respectivement à (6 852,97 EUR) et (5 322,72 EUR) à partir du 1er janvier 1989.) &lt;L 1988-12-30/31, art. 155, 005; En vigueur : 15-01-1989&gt; &lt;AR 2001-07-13/48, art. 3, 024; En vigueur : 01-01-2002&gt;
+
+§ 4. Les montants des minima garantis sont adaptés aux fluctuations de l'indice des prix à la consommation comme le sont les pensions accordées lorsqu'il n'est pas satisfait aux conditions de carrière visées par le présent article. ( Les montants fixés dans cet article sont rattachés à l'indice-pivot 103,14 (base 1996 = 100).) &lt;AR 2001-07-13/48, art. 4, 024; En vigueur : 01-01-2002&gt;
+
+(§ 5. Le Roi détermine :
+
+1° ce qu'il faut entendre par carrière complète;
+
+2° ce qu'il faut entendre par les deux tiers de la carrière complete;
+
+3° les modalités du calcul du minimum garanti lorsque la pension a fait l'objet d'une réduction.) &lt;Ancien § 3, L 1988-12-30/31, art. 155, 005&gt;
+
+----------
+
+(1)&lt;L 2019-04-26/50, art. 5, 062; En vigueur : 01-07-2019&gt;
+
+##### Art. 131bis
+
+&lt;Introduit par L 1989-12-22/31, art. 266, 006; En vigueur : 09-01-1990&gt; § 1. A partir du 1er janvier 1990 :
+
+1° les montants de (6 456,91 EUR) et de (5 086,73 EUR), visés à l'article 131, §§ 1 et 2, sont portés respectivement à (7 302,57 EUR) et (5 598,95 EUR); &lt;AR 2001-07-13/48, art. 3, 024; En vigueur : 01-01-2002&gt;
+
+2° la pension minimum est allouable lorsque le bénéficiaire d'une pension de retraite ou d'une pension de survie de travailleur indépendant justifie, dans son propre chef ou dans le chef de son conjoint défunt, selon le cas, une carrière professionnelle au moins égale aux deux tiers d'une carrière complète, soit dans le seul régime des travailleurs indépendants, soit ensemble dans le régime des travailleurs indépendants et dans celui des travailleurs salariés; elle est égale à une fraction de l'un des montants visés sub 1°, fraction égale à celle qui a servi au calcul de la pension de retraite ou de survie, selon le cas, à charge du régime des travailleurs indépendants;
+
+3° (lorsque le bénéficiaire d'une pension de retraite peut également prétendre à une pension de retraite dans le régime des travailleurs salariés ou lorsque le bénéficiaire d'une pension de survie peut également prétendre à une pension de survie dans le régime des travailleurs salariés, l'application des dispositions du présent titre ne peut avoir pour effet d'augmenter l'ensemble de ces avantages de même nature octroyés dans les régimes de pension des travailleurs indépendants et des travailleurs salariés au-delà de :
+
+\- (8 201,78 EUR) si l'intéressé remplit les conditions visées à [<sup>9</sup> l'article 9, § 1er, 1°, ou § 2 ]<sup>9</sup>, de l'arrêté royal n° 72 du 10 novembre 1967 précité; &lt;AR 2001-07-13/48, art. 3, 024; En vigueur : 01-01-2002&gt;
+
+\- (6 151,35 EUR) dans les autres cas; &lt;AR 2001-07-13/48, art. 3, 024; En vigueur : 01-01-2002&gt;
+
+Si cette limite est dépassée, la pension minimum de retraite ou de survie, selon le cas, dans le régime des travailleurs indépendants est réduite à due concurrence, sans toutefois que cette réduction puisse entraîner l'octroi, dans ce régime, d'une pension inférieure à la prestation qui eût été octroyée si l'intéressé n'avait pu prétendre à la pension minimum. Le Roi peut déroger à cette disposition lorsque la limite précitée est dépassée suite à l'augmentation de la pension de travailleur salarié en fonction de l'adaptation au bien-être général.) &lt;L 1990-12-29/30, art. 183, 010; En vigueur : 01-01-1990&gt;
+
+(§ 1bis. A partir du 1er juillet 1991, les montants de (7 302,57 EUR), (5 598,95 EUR), (8 201,78 EUR) et (6151,35 EUR), visés au § 1er, 1° et 3°, sont portés respectivement à (7 834,20 EUR), (5 936,60 EUR), (8 365,76 EUR) et (6 274,33 EUR).) &lt;L 1990-12-29/30, art. 183, 010; En vigueur : 01-07-1991&gt; &lt;AR 2001-07-13/48, art. 3, 024; En vigueur : 01-01-2002&gt;
+
+(§ 1erter. A partir du 1er juillet 1993, les montants de (7 834,20 EUR) et (5 936,60 EUR) visés au § 1erbis, sont portés respectivement à (8 100,02 EUR) et (6 105,47 EUR). &lt;AR 2001-07-13/48, art. 3, 024; En vigueur : 01-01-2002&gt;
+
+A partir du 1er juillet 1994, les montants de (8 100,02 EUR) et (6 105,47 EUR), visés à l'alinéa précédent, sont portés respectivement à (8 365,76 EUR) et (6 274,33 EUR). &lt;AR 2001-07-13/48, art. 3, 024; En vigueur : 01-01-2002&gt;
+
+(Toute augmentation du revenu garanti aux personnes âgees instauré par la loi du 1er avril 1969 instaurant un revenu garanti aux personnes âgées, entraîne, à la date de cette augmentation, une majoration proportionnelle des montants prévus à l'alinéa précédent et des montants de (8 365,76 EUR) et (6 274,33 EUR) prévus au § 1erbis.)) &lt;L 1992-12-30/40, art. 71, 016; En vigueur : 19-01-1993&gt; &lt;L 1994-03-30/31, art. 65, 018; En vigueur : 10-04-1994&gt; &lt;AR 2001-07-13/48, art. 3, 024; En vigueur : 01-01-2002&gt;
+
+(§ 1erquater. A partir du 1er avril 2003, les montants de 7.302,57 EUR, 5.598,95 EUR, 8.201,78 EUR et 6.151,35 EUR, visés au § 1er, sont portés respectivement à 9.307,77 EUR, 6.981,78 EUR, 9.307,77 EUR et 6.981,78 EUR.) &lt;L 2002-12-24/31, art. 40, 026; En vigueur : 10-01-2003&gt;
+
+§ 1erquinquies. (Les montants de 9.307,77 euros et 6.981,78 euros, visés au § 1erquater, sont portés respectivement :
+
+\- au 1er septembre 2004, à 9.673,62 euros et 7.281,11 euros;
+
+\- au 1er décembre 2005, à 10.039,47 euros et 7.580,44 euros;
+
+\- au 1er décembre 2006, à 10.405,32 euros et 7.879,77 euros;
+
+\- au 1er avril 2007, à 10.503,82 euros et 7.879,77 euros.) &lt;AR 2007-04-09/32, art. 3, § 2, 1°, 035; En vigueur : 01-01-2007&gt;
+
+(§ 1ersexies. Au 1er septembre 2007, les montants de 10.503,82 euros et 7.879,77 euros, visés au § 1erquinquies, sont portés respectivement a 10.713,90 euros et 8.037,37 euros.) &lt;AR 2007-04-09/32, art. 3, § 2, 2°, 035; En vigueur : 01-01-2007&gt;
+
+§ 1ersepties. (Les montants de 10 713,90 euros et 8 037,37 euros, visés au § 1ersexies sont portes respectivement :
+
+1° au 1er décembre 2007, a 11 080,38 euros et 8 336,70 euros;
+
+2° au 1er juillet 2008, à 11 301,99 euros et 8 503,43 euros;
+
+3° au 1er octobre 2008, à 11 400,43 euros et 8 601,87 euros;
+
+4° au 1er mai 2009, à 11 597,31 euros et 8 798,75 euros;
+
+[<sup>1</sup> 5° au 1er août 2009, à 11.945,23 euros et 9.062,72 euros;]<sup>1</sup>
+
+[<sup>2</sup> 6° au 1er août 2010, à 12.142,12 euros et 9.308,83 euros;]<sup>2</sup>
+
+[<sup>3</sup> 7° au 1er septembre 2011, à 12.398,32 euros et 9.529,45 euros;]<sup>3</sup>
+
+[<sup>4</sup> 8° au 1er avril 2013, à 12.608,39 euros et 9.529,45 euros;]<sup>4</sup>
+
+[<sup>5</sup> 9° au 1er septembre 2013, à 12.765,99 euros et 9.648,57 euros;]<sup>5</sup>
+
+[<sup>7</sup> 10° au 1er avril 2015, à 12.765,99 euros si l'intéressé remplit les conditions visées à [<sup>9</sup> l'article 9, § 1er, 1°, ou § 2]<sup>9</sup>, de l'arrêté royal n° 72, à 9.739,51 euros si l'intéressé remplit les conditions visées à l'[<sup>9</sup> article 9, § 1, 2°]<sup>9</sup> , de l'arrêté royal n° 72 et à 9.713,78 euros pour une pension de survie;]<sup>7</sup>
+
+[<sup>8</sup> 11° au 1er septembre 2015, à 13.021,30 euros si l'intéressé remplit les conditions visées à [<sup>9</sup> l'article 9, § 1er, 1°, ou § 2]<sup>9</sup>, de l'arrêté royal n° 72, à 9.934,31 euros si l'intéressé remplit les conditions visées à l'article 9, § 1er, alinéa 1er, 2°, de l'arrêté royal n° 72 et à 9.908,06 euros pour une pension de survie.]<sup>8</sup>
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, modifier et compléter l'alinéa 1er en vue d'augmenter, aux dates qu'Il détermine, les montants qui y sont mentionnés.
+
+A partir d'une date déterminée par le Roi, par un arrêté délibéré en Conseil des Ministres, où il sera tenu compte des disponibilités budgétaires, les montants de 10 713,90 euros et 8 037,37 euros vises au § 1ersexies, tels qu'adaptés conformément aux alinéas précédents, seront au moins égaux au montant visé à l'article 6, § 1er, de la loi du 22 mars 2001 instituant la garantie de revenus aux personnes âgées, multiplié respectivement par le coefficient 2 pour un ménage et par le coefficient 1,5 pour un isolé.) &lt;L 2008-12-22/32, art. 203, 038; En vigueur : 08-01-2009&gt;
+
+[<sup>6</sup> § 1erocties. A partir du 1er août 2016, les montants de 10 713,90 euros et 8 037,37 euros visés au § 1ersexies, sont égaux aux montants visés à l'article 152 de la loi du 8 août 1980 relative aux propositions budgétaires 1979-1980, en ce qui concerne la pension de retraite, et au montant visé à l'article 153 de la même loi, en ce qui concerne la pension de survie.]<sup>6</sup>
+
+[<sup>10</sup> § 1ernonies. A partir du 1er janvier 2025, les montants visés au § 1erocties sont égaux aux montants visés à l'article 4, alinéa 1er, 1° et 2°, de la loi du 25 avril 2024, en ce qui concerne la pension de retraite et à l'article 4, alinéa 1er, 3°, de la même loi, en ce qui concerne la pension de survie.]<sup>10</sup>
+
+§ 2. Le Roi determine ce qu'il faut entendre par carrière professionnelle au moins egale aux 2/3 d'une carrière complète, soit dans le seul régime des travailleurs indépendants, soit ensemble dans le régime des travailleurs indépendants et des travailleurs salariés.
+
+Il détermine également les modalités de calcul de la pension minimum lorsque la pension a fait l'objet d'une réduction.
+
+§ 3. (Les montants fixés au présent article sont rattachés à l'indice-pivot 103,14 (base 1996 = 100).) &lt;AR 2001-07-13/48, art. 5, 024; En vigueur : 01-01-2002&gt;
+
+Ils varient suivant les fluctuations de cet indice, conformément aux dispositions de l'article 43 de l'arrêté royal n° 72 du 10 novembre 1967 relatif à la pension de retraite et de survie des travailleurs indépendants, comme les pensions accordées lorsqu'il n'est pas satisfait aux conditions d'octroi de la pension minimum.
+
+§ 4. (L'application des dispositions du présent article ne peut avoir pour effet d'octroyer un montant inférieur à celui obtenu conformément aux dispositions en vigueur le mois précédant celui où une augmentation de la pension minimum est prévue par la loi.) &lt;L 1990-12-29/30, art. 183, 010; En vigueur : 01-07-1991&gt;
+
+----------
+
+(1)&lt;AR 2009-02-13/33, art. 1, 039; En vigueur : 01-08-2009&gt;
+
+(2)&lt;AR 2010-03-03/04, art. 1, 041; En vigueur : 01-08-2010&gt;
+
+(3)&lt;AR 2011-07-08/02, art. 4, 043; En vigueur : 01-09-2011&gt;
+
+(4)&lt;AR 2013-03-12/03, art. 1, 046; En vigueur : 01-04-2013&gt; (NOTE : cet AR a été annulé par l'arrêt du Conseil d'Etat n° 234638 du 3 mai 2016)
+
+(5)&lt;AR 2013-09-19/10, art. 1, 047; En vigueur : 01-09-2013&gt;
+
+(6)&lt;L 2014-12-19/07, art. 207, 052; En vigueur : 08-01-2015&gt;
+
+(7)&lt;AR 2015-03-27/08, art. 1, 053; En vigueur : 01-04-2015&gt;
+
+(8)&lt;AR 2015-06-07/02, art. 1, 054; En vigueur : 01-09-2015&gt;
+
+(9)&lt;L 2019-04-26/50, art. 6, 062; En vigueur : 01-07-2019&gt;
+
+(10)&lt;L 2024-04-25/11, art. 17, 068; En vigueur : 01-01-2025&gt;
+
+##### Art. 131ter
+
+[<sup>1</sup> § 1er. A partir du 1er janvier 2015 :
+
+1° les montants visés à l'article 131bis, § 1septies, 9°, sont portés respectivement à 12.765,99 euros et à 9.648,57 euros;
+
+2° [<sup>6</sup> la pension minimum est allouable lorsque le bénéficiaire d'une pension de retraite ou d'une pension de survie de travailleur indépendant justifie, dans son propre chef ou dans le chef de son conjoint décédé, selon le cas, une carrière professionnelle au moins égale aux deux tiers d'une carrière complète, soit dans le seul régime des travailleurs indépendants, soit ensemble dans le régime des travailleurs indépendants et dans celui des travailleurs salariés, soit ensemble dans le régime des travailleurs indépendants et dans un ou plusieurs régimes qui relèvent du champ d'application des règlements européens ou auxquels s'applique une convention internationale concernant totalement ou partiellement les pensions des travailleurs salariés ou indépendants et par laquelle la Belgique est liée, soit dans le régime des travailleurs indépendants et des travailleurs salariés et dans un ou plusieurs régimes auxquels s'appliquent les règlements européens ou auxquels s'applique une convention internationale concernant totalement ou partiellement les pensions des travailleurs salariés ou indépendants et par laquelle la Belgique est liée; la pension minimum est égale à une fraction de l'un des montants visés sub 1°, fraction égale à celle qui a servi au calcul de la pension de retraite ou de survie, selon le cas, à charge du régime des travailleurs indépendants après application de l'article 19 de l'arrêté royal n° 72 [<sup>8</sup> sans toutefois que cette fraction ne dépasse l'unité]<sup>8</sup>;]<sup>6</sup>
+
+3° lorsque le bénéficiaire d'une pension de retraite peut également prétendre à une pension de retraite dans le régime des travailleurs salariés ou lorsque le bénéficiaire d'une pension de survie peut également prétendre à une pension de survie dans le régime des travailleurs salariés, l'application des dispositions du présent titre ne peut avoir pour effet d'augmenter l'ensemble de ces avantages de même nature, octroyés dans les régimes de pension des travailleurs indépendants et des travailleurs salariés au-delà de :
+
+\- 12.765,99 EUR si l'intéressé remplit les conditions visées à [<sup>5</sup> l'article 9, § 1er, 1°, ou § 2]<sup>5</sup>, de l'arrêté royal n° 72;
+
+\- 9.648,57 EUR dans les autres cas.
+
+Si cette limite est dépassée, la pension minimum de retraite ou de survie, selon le cas, dans le régime des travailleurs indépendants est réduite à due concurrence, sans toutefois que cette réduction puisse entraîner l'octroi, dans ce régime, d'une pension inférieure à la prestation qui eût été octroyée si l'intéressé n'avait pu prétendre à la pension minimum. Le Roi peut déroger à cette disposition lorsque la limite précitée est dépassée suite à l'augmentation de la pension de travailleur salarié en fonction de l'adaptation au bien-être général.
+
+[<sup>3</sup> Au 1er avril 2015, les montants de 12.765,99 euros et 9.648,57 euros, visés à l'alinéa 1er, 1° et 3°, sont portés respectivement à :
+
+1° 12.765,99 euros si l'intéressé remplit les conditions visées à [<sup>5</sup> l'article 9, § 1er, 1°, ou § 2]<sup>5</sup>, de l'arrêté royal n° 72;
+
+2° 9.739,51 euros si l'intéressé remplit les conditions visées à [<sup>5</sup> l'article 9, § 1er, 2° ]<sup>5</sup>, de l'arrêté royal n° 72;
+
+3° 9.713,78 euros pour une pension de survie.]<sup>3</sup>
+
+[<sup>4</sup> Au 1er septembre 2015, les montants de 12.765,99 euros et 9.648,57 euros, visés à l'alinéa 1er, 1° et 3°, sont portés respectivement à :
+
+1° 13.021,30 euros si l'intéressé remplit les conditions visées à [<sup>5</sup> l'article 9, § 1er, 1°, ou § 2]<sup>5</sup>, de l'arrêté royal n° 72;
+
+2° 9.934,31 euros si l'intéressé remplit les conditions visées à [<sup>5</sup> l'article 9, § 1er, 2° ]<sup>5</sup>, de l'arrêté royal n° 72;
+
+3° 9.908,06 euros pour une pension de survie.]<sup>4</sup>
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, modifier et compléter [<sup>3</sup> le présent paragraphe]<sup>3</sup> en vue d'augmenter, aux dates qu'Il détermine, les montants qui y sont mentionnés.
+
+[<sup>2</sup> § 1erbis. A partir du 1er août 2016, les montants de 12 765,99 euros et de 9 648,57 euros visés au § 1er, alinéa 1er, 1° et 3°, sont égaux aux montants visés à l'article 152 de la loi du 8 août 1980 relative aux propositions budgétaires 1979-1980, en ce qui concerne la pension de retraite, et au montant visé à l'article 153 de la même loi, en ce qui concerne la pension de survie.]<sup>2</sup>
+
+[<sup>8</sup> A partir du 1er janvier 2025, les montants visés à l'alinéa 1er sont égaux aux montants visés à l'article 4, alinéa 1er, 1° et 2°, de la loi du 25 avril 2024 portant la réforme des pensions, en ce qui concerne la pension de retraite et à l'article 4, alinéa 1er, 3°, de la même loi, en ce qui concerne la pension de survie.]<sup>8</sup>
+
+[<sup>7</sup> § 1ter. Pour les pensions qui prennent cours effectivement et pour la première fois au plus tôt le 1er janvier 2023, par dérogation au § 1er, alinéa 1er, 2°, une pension minimum est attribuée au travailleur indépendant et/ou au conjoint aidant visé à l'article 7bis, § 1er, de l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants dans la mesure où il est satisfait [<sup>8</sup> aux dispositions de l'article 3, § 1er, alinéa 3, de la loi du 25 avril 2024]<sup>8</sup>.
+
+Cette pension minimale est égale à une fraction d'un des montants, [<sup>8</sup> visés à l'article 4, alinéa 1er, de la loi du 25 avril 2024]<sup>8</sup> qui est égale, selon le cas, à la fraction utilisée après application de l'article 19 de l'arrêté royal n° 72 pour le calcul de la pension de retraite ou de survie dans le régime des travailleurs indépendants.]<sup>7</sup>
+
+§ 2. [<sup>6</sup> Le Roi détermine ce qu'il faut entendre par carrière professionnelle au moins égale aux 2/3 d'une carrière complète, soit dans le seul régime des travailleurs indépendants, soit ensemble dans le régime des travailleurs indépendants et des travailleurs salariés, soit ensemble dans le régime des travailleurs indépendants et dans un ou plusieurs régimes qui relèvent du champ d'application des règlements européens ou auxquels s'applique une convention internationale concernant totalement ou partiellement les pensions des travailleurs salariés ou indépendants et par laquelle la Belgique est liée, soit ensemble dans le régime des travailleurs indépendants et salariés ou dans les régimes auxquels s'appliquent les règlements européens ou auxquels s'applique une convention internationale concernant totalement ou partiellement les pensions des travailleurs salariés ou indépendants et par laquelle la Belgique est liée.]<sup>6</sup>
+
+Il détermine également les modalités de calcul de la pension minimum lorsque la pension a fait l'objet d'une réduction.
+
+§ 3. Les montants fixés au présent article sont rattachés à l'indice-pivot 103,14 (base 1996 = 100).
+
+Ils varient suivant les fluctuations de cet indice, conformément aux dispositions de l'article 43 de l'arrêté royal n° 72, comme les pensions accordées lorsqu'il n'est pas satisfait aux conditions d'octroi de la pension minimum.
+
+§ 4. L'application des dispositions du présent article ne peut avoir pour effet d'octroyer un montant inférieur à celui obtenu conformément aux dispositions en vigueur le mois précédant celui où une augmentation de la pension minimum est prévue par la loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-24/64, art. 2, 050; En vigueur : 01-01-2015. Est d'application aux pensions des travailleurs indépendants qui prennent cours effectivement et pour la première fois au plus tôt le 1er janvier 2015&gt;
+
+(2)&lt;L 2014-12-19/07, art. 208, 052; En vigueur : 08-01-2015&gt;
+
+(3)&lt;AR 2015-03-27/08, art. 2, 053; En vigueur : 01-04-2015&gt;
+
+(4)&lt;AR 2015-06-07/02, art. 2, 054; En vigueur : 01-09-2015&gt;
+
+(5)&lt;L 2019-04-26/50, art. 7, 062; En vigueur : 01-07-2019&gt;
+
+(6)&lt;L 2022-12-05/06, art. 8, 065; En vigueur : 01-01-2021&gt;
+
+(7)&lt;L 2022-11-27/10, art. 7, 067; En vigueur : 01-01-2023&gt;
+
+(8)&lt;L 2024-04-25/11, art. 18, 068; En vigueur : 01-01-2025&gt;
+
+##### Art. 131quater
+
+[<sup>1</sup> § 1er. A partir du 1er janvier 2017, les pensions de retraite et de survie attribuées en vertu, selon le cas, de l'article 131bis ou 131ter sont majorées de 0,7% pour autant que la fraction qui a servi au calcul de la pension de retraite ou de survie à charge du régime de pension des travailleurs indépendants augmentée, le cas échéant, de la fraction utilisée ou qui devrait être utilisée pour le calcul de la pension minimum garantie de même nature à charge du régime de pension des travailleurs salariés attribuée, selon le cas, conformément aux articles 152 ou 153 de la loi du 8 août 1980 relative aux propositions budgétaires 1979-1980 ou aux articles 33, 33bis, 34 et 34bis de la loi de redressement du 10 février 1981 relative aux pensions du secteur social, tels qu'ils étaient d'application avant le 1er janvier 2025, portées au même dénominateur, atteigne l'unité.
+
+Lorsqu'une pension de retraite ou de survie attribuée, en vertu, selon le cas, de l'article 131bis ou 131ter, ne remplit pas la condition visée à l'alinéa 1er, les montants visés à l'article 131bis, § 1erocties, et 131ter, § 1er bis, alinéa 1er, sont égaux aux montants visés à l'article 33 de la loi de redressement du 10 février 1981 relative aux pensions du secteur social, lorsqu'il s'agit d'une pension de retraite et au montant visé à l'article 34 de la même loi, tels qu'ils étaient d'application avant le 1er janvier 2025, lorsqu'il s'agit d'une pension de survie, sans préjudice de l'article 6, alinéa 3 de loi du 25 avril 2024.
+
+§ 2. A partir du 1er janvier 2025, les pensions de retraite et de survie attribuées en vertu de l'article 131sexies dont la fraction qui a servi au calcul de la pension de retraite ou de survie à charge du régime de pension des travailleurs indépendants augmentée, le cas échéant, d'une part, avec la fraction qui exprime le nombre de trimestres pour lesquels une dispense de cotisations, au sens de l'arrêté royal n° 38 organisant le statut social des travailleurs indépendants, a été octroyée dans le cadre de la crise du COVID-19 au cours de la période du 1er janvier 2020 au 31 mars 2022, et d'autre part, de la fraction utilisée ou qui devrait être utilisée pour le calcul de la pension minimum garantie de même nature à charge du régime de pension des travailleurs salariés et attribuée, conformément à l'article 5 de la loi du 25 avril 2024, portées au même dénominateur, atteint l'unité, sont calculées sur la base des montants visés à l'article 4, alinéa 2 et 3, de la même loi.
+
+Lorsqu'une pension de retraite ou de survie attribuée en vertu de l'article 131sexies ne remplit pas la condition visée à l'alinéa 1er, elles sont calculées sur la base des montants visés à l'article 4, alinéa 1er, 1° et 2° de la loi du 25 avril 2024, lorsqu'il s'agit d'une pension de retraite et sur la base de l'article 4, alinéa 1er, 3°, lorsqu'il s'agit d'une pension de survie.
+
+§ 3. Le Roi peut, par arrêté, délibéré en Conseil des ministres:
+
+1° réduire la fraction exigée pour l'application du paragraphe 1er, alinéa 1er, et du paragraphe 2, alinéa 1er, sans que celle-ci puisse être inférieure à 43/45 ou à une fraction équivalente;
+
+2° augmenter le pourcentage visé au paragraphe1er, alinéa 1er, sans que ce pourcentage puisse excéder 10%.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-25/11, art. 19, 068; En vigueur : 01-01-2025&gt;
+
+##### Art. 131quinquies
+
+[<sup>1</sup> § 1er. Lorsque la carrière du conjoint aidant né entre le 1er janvier 1956 et le 31 mai 1968, et qui soit s'est volontairement assujetti au maxi-statut visé à l'article 7bis, § 1er, de l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants, dans la période du 1er janvier 2003 au 30 juin 2005 pendant au moins un trimestre soit a dû s'affilier obligatoirement au maxi-statut le 1er juillet 2005, n'est pas au moins égale aux deux tiers d'une carrière complète comme prévu à l'article 131ter, la pension minimum est allouable au conjoint aidant s'il prouve dans la période qui débute le 1er janvier 2003 et se termine à la fin du trimestre précédant la date de prise de cours de la pension, une carrière comme conjoint aidant dans le maxi-statut et, le cas échéant, une carrière dans le régime des travailleurs indépendants, une carrière dans le régime des travailleurs salariés et dans des régimes qui relèvent du champ d'application des Règlements européens ou auxquels une convention internationale concernant totalement ou partiellement les pensions des travailleurs salariés ou des travailleurs indépendants et par laquelle la Belgique est liée, s'applique, qui est au moins égale aux deux tiers du nombre d'années et de trimestres situés dans la période visée.
+
+§ 2. Cette pension minimum est égale à une fraction d'un des montants visés à l'article 33 de la loi de redressement du 10 février 1981 relative aux pensions du secteur social, selon que le conjoint aidant remplit les conditions visées à l'article 9, § 1er, 1° ou 2°, de l'arrêté royal n° 72, qui est égale à celle qui a servi au calcul de la pension de retraite dans le régime des travailleurs indépendants, après application de l'article 19 de l'arrêté royal n° 72.
+
+Lorsque le conjoint aidant a également droit à une pension de retraite dans le régime des travailleurs salariés, l'application des alinéas 1er et 2 ne peut avoir pour effet d'augmenter l'ensemble de ces avantages de même nature, octroyés dans les régimes de pension des travailleurs indépendants et des travailleurs salariés au-delà d'un des montants visés à l'article 33 de la loi de redressement du 10 février 1981 relative aux pensions du secteur social, selon que le conjoint aidant remplit les conditions visées à l'article 9, § 1er, 1° ou 2°, de l'arrêté royal n° 72.
+
+Si cette limite est dépassée, la pension minimum dans le régime des travailleurs indépendants est réduite à due concurrence, sans toutefois que cette réduction puisse entraîner l'octroi, dans ce régime, d'une pension inférieure à la prestation qui eût été octroyée si l'intéressé n'avait pu prétendre à la pension minimum. Le Roi peut déroger à cette disposition lorsque la limite précitée est dépassée suite à l'augmentation de la pension de travailleur salarié en fonction de l'adaptation au bien-être général.
+
+[<sup>2</sup> A partir du 1er janvier 2025, la pension minimum visée aux alinéas 1er et 2 est calculée sur la base des montants visés à l'article 4, alinéa 1er, 1° ou 2°, de la loi du 25 avril 2024.]<sup>2</sup>
+
+§ 3. L'application des dispositions du présent article ne peut avoir pour effet d'octroyer un montant inférieur à celui obtenu conformément aux dispositions en vigueur le mois précédant celui où une augmentation de la pension minimum est prévue par la loi.
+
+§ 4. Le présent article n'est pas d'application à la pension de survie du conjoint survivant d'un conjoint aidant.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-27/10, art. 2, 067; En vigueur : 01-01-2023&gt;
+
+(2)&lt;L 2024-04-25/11, art. 20, 068; En vigueur : 01-01-2025&gt;
+
+##### Art. 131sexies
+
+[<sup>1</sup> § 1er. A partir du 1er janvier 2025, une pension minimum est allouable au bénéficiaire d'une pension de retraite ou d'une pension de survie de travailleur indépendant à la condition qu'il réponde dans son propre chef ou dans le chef de son conjoint défunt, selon le cas, aux conditions cumulatives suivantes:
+
+1° prouver une carrière professionnelle au moins égale aux deux tiers d'une carrière complète telle que prévue à l'article 131ter, § 1er, 2°;
+
+2° prouver une carrière professionnelle qui comporte au moins 64 trimestres de travail effectif ou y assimilés, soit dans le seul régime des travailleurs indépendants, soit ensemble dans le régime des travailleurs indépendants et dans un ou plusieurs régimes qui relèvent du champ d'application des règlements européens ou auxquels s'applique une convention internationale concernant totalement ou partiellement les pensions des travailleurs salariés ou indépendants et par laquelle la Belgique est liée, et qui, le cas échéant, est réduite quand la carrière contient des trimestres assimilés en vertu de l'article 29 de l'arrêté royal du 22 décembre 1967 portant règlement général relatif à la pension de retraite et de survie des travailleurs indépendants.
+
+Néanmoins, pour les bénéficiaires d'une pension de survie dont le conjoint est décédé avant le 31 décembre de l'année précédant celle au cours de laquelle il atteint l'âge de la retraite visé à l'article 3, § 1er, § 1bis ou § 1ter, de l'arrêté royal du 30 janvier 1997 relatif au régime de pension des travailleurs indépendants en application des articles 15 et 27 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux de pensions et de l'article 3, § 1er, 4°, de la loi du 26 juillet 1996 visant à réaliser les conditions budgétaires de la participation de la Belgique à l'Union économique et monétaire européenne, selon le cas, et sans avoir bénéficié d'une pension anticipée en tant qu'indépendant, le nombre requis de trimestre d'activité professionnelle effective d'indépendant est multiplié par une fraction dont le numérateur correspond au nombre d'années civiles comprises dans la période prenant cours le 1er janvier de l'année du vingtième anniversaire du conjoint décédé et prenant fin le 31 décembre de l'année précédant celle au cours de laquelle il est décédé et dont le dénominateur est égal à 45.
+
+§ 2. Lorsque le bénéficiaire d'une pension de retraite ou de survie comme indépendant, qui, dans son propre chef ou dans le chef de son conjoint défunt, prouve une carrière professionnelle, soit en qualité de travailleur indépendant et de travailleur salarié, soit en qualité de travailleur indépendant, de travailleur salarié et de fonctionnaire, satisfait aux conditions relatives au nombre de jours équivalents temps plein effectivement prestés, visées à l'article 3, § § 1er, 2 et 4 de la loi du 25 avril 2024, il est présumé satisfaire aux conditions visées au paragraphe 1er, 2°.
+
+Lorsque le bénéficiaire d'une pension de retraite ou de survie comme indépendant, qui, dans son propre chef ou dans le chef de son conjoint défunt, prouve une carrière professionnelle en qualité de travailleur indépendant et de fonctionnaire, satisfait à la condition relative au nombre de mois de services réellement prestés visés à l'article 120 de la loi du 26 juin 1992 portant des dispositions sociales et diverses, il est présumé satisfaire à la condition visée au paragraphe 1er, 2°.
+
+§ 3. Sans préjudice du paragraphe 2, la condition visée au paragraphe 1er, 2°, ne s'applique pas:
+
+1° aux bénéficiaires d'une pension de retraite nés avant le 1er janvier 1963 et aux bénéficiaires d'une pension de survie dont le conjoint décédé est né avant 1963;
+
+2° aux bénéficiaires d'une pension de retraite nés avant le 1er janvier 1969 et qui prouvent au 1er janvier 2025, une carrière professionnelle au moins égale aux deux tiers d'une carrière complète au sens de l'article 131ter, § 1er, 2°, ainsi qu'aux bénéficiaires d'une pension de survie dont le conjoint décédé répondait aux mêmes conditions au moment du décès;
+
+3° aux bénéficiaires d'une pension de survie dont le conjoint décédé bénéficiait d'une pension de retraite qui répondait aux conditions fixées à l'article 131ter, § 1er, 2°, avant le 1er janvier 2025;
+
+4° aux bénéficiaires visés à l'article 131quinquies.
+
+§ 4. La pension minimum est égale à une fraction d'un des montants visés à l'article 4, alinéa 1er ou alinéa 2, de la loi du 25 avril 2024, selon qu'il s'agit d'une pension de retraite ou de survie, fraction égale à celle qui a servi au calcul de la pension de retraite ou de survie, selon le cas, dans le régime des travailleurs indépendants après application de l'article 19 de l'arrêté royal n° 72, sans que cette fraction ne puisse dépasser l'unité.
+
+Lorsque le bénéficiaire d'une pension de retraite peut également prétendre à une pension de retraite dans le régime des travailleurs salariés ou lorsque le bénéficiaire d'une pension de survie peut également prétendre à une pension de survie dans le régime des travailleurs salariés, l'application des dispositions du présent titre ne peut avoir pour effet d'augmenter l'ensemble de ces avantages de même nature, octroyés dans les régimes de pension des travailleurs indépendants et des travailleurs salariés au-delà:
+
+1° du montant visé à l'article 4, alinéa 1er, 1°, de la loi du 25 avril 2024, lorsque l'intéressé remplit les conditions visées à l'article 9, § 2, alinéa 1er, 1°, de l'arrêté royal n° 72;
+
+2° du montant visé à l'article 4, alinéa 1er, 2°, de la loi du 25 avril 2024, lorsque l'intéressé remplit les conditions visées à l'article 9, § 2, alinéa 1er, 2°, de l'arrêté royal n° 72;
+
+3° du montant visé à l'article 4, alinéa 1er, 3°, de la loi du 25 avril 2024, lorsque l'intéressé remplit les conditions visées à l'article 4 de l'arrêté royal n° 72.
+
+Lorsque cette limite est dépassée, la pension minimum de retraite ou de survie, selon le cas, dans le régime des travailleurs indépendants est réduite à due concurrence, sans toutefois que cette réduction puisse entraîner l'octroi, dans ce régime, d'une pension inférieure à la prestation qui eût été octroyée si l'intéressé n'avait pu prétendre à la pension minimum.
+
+Le Roi peut déroger à cette disposition lorsque la limite précitée est dépassée à la suite de l'augmentation de la pension de travailleur salarié en fonction de l'adaptation au bien-être général.
+
+§ 5. Par dérogation au paragraphe 1er, 2°, et sans préjudice de la réduction éventuellement appliquée au nombre de trimestres effectifs ou y assimilés quand la carrière comporte des trimestres assimilés en vertu de l'article 29 de l'arrêté royal du 22 décembre 1967 portant règlement général relatif à la pension de retraite et de survie des travailleurs indépendants, la condition de 64 trimestres de travail effectif ou y assimilés comme indépendant à prouver par le bénéficiaire d'une pension de retraite ou par le bénéficiaire d'une pension de survie, du chef de la carrière de son conjoint décédé, est portée à:
+
+1° 16 trimestres pour ceux qui sont nés en 1963;
+
+2° 19 trimestres pour ceux qui sont nés en 1964;
+
+3° 23 trimestres pour ceux qui sont nés en 1965;
+
+4° 29 trimestres pour ceux qui sont nés en 1966;
+
+5° 35 trimestres pour ceux qui sont nés en 1967;
+
+6° 45 trimestres pour ceux qui sont nés en 1968;
+
+7° 55 trimestres pour ceux qui sont nés en 1969.
+
+Si la carrière professionnelle comprend des trimestres qui ont été assimilés pour cause de maladie conformément à l'article 29 de l'arrêté royal du 22 décembre 1967 précité, il sera tenu compte du résultat le plus avantageux entre le nombre de trimestres tels qu'établis à l'alinéa 1er et le nombre de trimestres obtenus après la réduction éventuellement appliquée, tel que prévu au § 1er, 2°.
+
+§ 6. Le Roi détermine, par arrêté royal délibéré en Conseil des ministres:
+
+1° ce qu'il faut entendre, à partir du 1er janvier 2025, par carrière professionnelle au moins égale aux deux-tiers d'une carrière complète soit dans le seul régime des travailleurs indépendants, soit ensemble dans le régime des travailleurs indépendants et des travailleurs salariés, soit ensemble dans le régime des travailleurs indépendants et dans un ou plusieurs régimes qui relèvent du champ d'application des règlements européens ou auxquels s'applique une convention internationale concernant totalement ou partiellement les pensions des travailleurs salariés ou indépendants et par laquelle la Belgique est liée, soit ensemble dans le régime des travailleurs indépendants et salariés ou dans les régimes auxquels s'appliquent les règlements européens ou auxquels s'applique une convention internationale concernant totalement ou partiellement les pensions des travailleurs salariés ou indépendants et par laquelle la Belgique est liée;
+
+2° ce qu'il y a lieu d'entendre par trimestres de travail effectif comme travailleur indépendant;
+
+3° quels trimestres peuvent être assimilés à des périodes de travail effectif;
+
+4° comment les périodes ouvrant des droits à pension à charge d'un ou plusieurs régimes qui relèvent du champ d'application des règlements européens ou auxquels s'applique une convention internationale concernant totalement ou partiellement les pensions des travailleurs salariés ou indépendants et par laquelle la Belgique est liée sont converties en trimestres;
+
+5° comment les périodes assimilées en vertu de l'article 29 de l'arrêté royal du 22 décembre 1967 portant règlement général relatif à la pension de retraite et de survie des travailleurs indépendants sont déduites du nombre de trimestres de travail effectif requis.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/11, art. 21, 068; En vigueur : 01-01-2025&gt;
+
+##### Art. 131sexies DROIT FUTUR.
+
+[<sup>1</sup> § 1er. A partir du 1er janvier 2025, une pension minimum est allouable au bénéficiaire d'une pension de retraite ou d'une pension de survie de travailleur indépendant à la condition qu'il réponde dans son propre chef ou dans le chef de son conjoint défunt, selon le cas, aux conditions cumulatives suivantes:
+
+1° prouver une carrière professionnelle au moins égale aux deux tiers d'une carrière complète telle que prévue à l'article 131ter, § 1er, 2°;
+
+2° prouver une carrière professionnelle qui comporte au moins 64 trimestres de travail effectif ou y assimilés, soit dans le seul régime des travailleurs indépendants, soit ensemble dans le régime des travailleurs indépendants et dans un ou plusieurs régimes qui relèvent du champ d'application des règlements européens ou auxquels s'applique une convention internationale concernant totalement ou partiellement les pensions des travailleurs salariés ou indépendants et par laquelle la Belgique est liée [<sup>2</sup> ...]<sup>2</sup>.
+
+Néanmoins, pour les bénéficiaires d'une pension de survie dont le conjoint est décédé avant le 31 décembre de l'année précédant celle au cours de laquelle il atteint [<sup>2</sup> l'âge de la retraite visé à l'article 3, § 1er, de l'arrêté royal du 30 janvier 1997]<sup>2</sup> relatif au régime de pension des travailleurs indépendants en application des articles 15 et 27 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux de pensions et de l'article 3, § 1er, 4°, de la loi du 26 juillet 1996 visant à réaliser les conditions budgétaires de la participation de la Belgique à l'Union économique et monétaire européenne, selon le cas, et sans avoir bénéficié d'une pension anticipée en tant qu'indépendant, le nombre requis de trimestre d'activité professionnelle effective d'indépendant est multiplié par une fraction dont le numérateur correspond au nombre d'années civiles comprises dans la période prenant cours le 1er janvier de l'année du vingtième anniversaire du conjoint décédé et prenant fin le 31 décembre de l'année précédant celle au cours de laquelle il est décédé et dont le dénominateur est égal à 45.
+
+§ 2. Lorsque le bénéficiaire d'une pension de retraite ou de survie comme indépendant, qui, dans son propre chef ou dans le chef de son conjoint défunt, prouve une carrière professionnelle, soit en qualité de travailleur indépendant et de travailleur salarié, soit en qualité de travailleur indépendant, de travailleur salarié et de fonctionnaire, satisfait aux conditions relatives au nombre de jours équivalents temps plein effectivement prestés, visées à l'article 3, § § 1er, 2 et 4 de la loi du 25 avril 2024, il est présumé satisfaire aux conditions visées au paragraphe 1er, 2°.
+
+Lorsque le bénéficiaire d'une pension de retraite ou de survie comme indépendant, qui, dans son propre chef ou dans le chef de son conjoint défunt, prouve une carrière professionnelle en qualité de travailleur indépendant et de fonctionnaire, satisfait à la condition relative au nombre de mois de services réellement prestés visés à l'article 120 de la loi du 26 juin 1992 portant des dispositions sociales et diverses, il est présumé satisfaire à la condition visée au paragraphe 1er, 2°.
+
+§ 3. Sans préjudice du paragraphe 2, la condition visée au paragraphe 1er, 2°, ne s'applique pas:
+
+1° aux bénéficiaires d'une pension de retraite nés avant le 1er janvier 1963 et aux bénéficiaires d'une pension de survie dont le conjoint décédé est né avant 1963;
+
+2° aux bénéficiaires d'une pension de retraite nés avant le 1er janvier 1969 et qui prouvent au 1er janvier 2025, une carrière professionnelle au moins égale aux deux tiers d'une carrière complète au sens de l'article 131ter, § 1er, 2°, ainsi qu'aux bénéficiaires d'une pension de survie dont le conjoint décédé répondait aux mêmes conditions au moment du décès;
+
+3° aux bénéficiaires d'une pension de survie dont le conjoint décédé bénéficiait d'une pension de retraite qui répondait aux conditions fixées à l'article 131ter, § 1er, 2°, avant le 1er janvier 2025;
+
+4° aux bénéficiaires visés à l'article 131quinquies.
+
+§ 4. La pension minimum est égale à une fraction d'un des montants visés à l'article 4, alinéa 1er ou alinéa 2, de la loi du 25 avril 2024, selon qu'il s'agit d'une pension de retraite ou de survie, fraction égale à celle qui a servi au calcul de la pension de retraite ou de survie, selon le cas, dans le régime des travailleurs indépendants après application de l'article 19 de l'arrêté royal n° 72, sans que cette fraction ne puisse dépasser l'unité.
+
+Lorsque le bénéficiaire d'une pension de retraite peut également prétendre à une pension de retraite dans le régime des travailleurs salariés ou lorsque le bénéficiaire d'une pension de survie peut également prétendre à une pension de survie dans le régime des travailleurs salariés, l'application des dispositions du présent titre ne peut avoir pour effet d'augmenter [<sup>2</sup> l'ensemble de ces avantages de même nature, octroyés dans les régimes de pension des travailleurs indépendants et des travailleurs salariés, avant l'éventuelle application de la réduction ou la majoration, visé à l'article 3, § 4 ou § 5, de l'arrêté royal du 30 janvier 1997 relatif au régime de pension des travailleurs indépendants en application des articles 15 et 27 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux de pensions et de l'article 3, § 1er, 4°, de la loi du 26 juillet 1996 visant à réaliser les conditions budgétaires de la participation de la Belgique à l'Union économique et monétaire européenne [<sup>3</sup> au-delà]<sup>3</sup> et à l'article 5bis, § 1er ou § 2, de l'arrêté royal du 23 décembre 1996 portant exécution des articles 15, 16 et 17 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions]<sup>2</sup> au-delà:
+
+1° du montant visé à l'article 4, alinéa 1er, 1°, de la loi du 25 avril 2024, lorsque l'intéressé remplit les conditions visées à l'article 9, § 2, alinéa 1er, 1°, de l'arrêté royal n° 72;
+
+2° du montant visé à l'article 4, alinéa 1er, 2°, de la loi du 25 avril 2024, lorsque l'intéressé remplit les conditions visées à l'article 9, § 2, alinéa 1er, 2°, de l'arrêté royal n° 72;
+
+3° du montant visé à l'article 4, alinéa 1er, 3°, de la loi du 25 avril 2024, lorsque l'intéressé remplit les conditions visées à l'article 4 de l'arrêté royal n° 72.
+
+Lorsque cette limite est dépassée, la pension minimum de retraite ou de survie, selon le cas, dans le régime des travailleurs indépendants est réduite à due concurrence, sans toutefois que cette réduction puisse entraîner l'octroi, dans ce régime, d'une pension inférieure à la prestation qui eût été octroyée si l'intéressé n'avait pu prétendre à la pension minimum.
+
+Le Roi peut déroger à cette disposition lorsque la limite précitée est dépassée à la suite de l'augmentation de la pension de travailleur salarié en fonction de l'adaptation au bien-être général.
+
+§ 5. Par dérogation au paragraphe 1er, 2°, [<sup>2</sup> ...]<sup>2</sup> la condition de 64 trimestres de travail effectif ou y assimilés comme indépendant à prouver par le bénéficiaire d'une pension de retraite ou par le bénéficiaire d'une pension de survie, du chef de la carrière de son conjoint décédé, est portée à:
+
+1° 16 trimestres pour ceux qui sont nés en 1963;
+
+2° 19 trimestres pour ceux qui sont nés en 1964;
+
+3° 23 trimestres pour ceux qui sont nés en 1965;
+
+4° 29 trimestres pour ceux qui sont nés en 1966;
+
+5° 35 trimestres pour ceux qui sont nés en 1967;
+
+6° 45 trimestres pour ceux qui sont nés en 1968;
+
+7° 55 trimestres pour ceux qui sont nés en 1969.
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+§ 6. Le Roi détermine, par arrêté royal délibéré en Conseil des ministres:
+
+1° ce qu'il faut entendre, à partir du 1er janvier 2025, par carrière professionnelle au moins égale aux deux-tiers d'une carrière complète soit dans le seul régime des travailleurs indépendants, soit ensemble dans le régime des travailleurs indépendants et des travailleurs salariés, soit ensemble dans le régime des travailleurs indépendants et dans un ou plusieurs régimes qui relèvent du champ d'application des règlements européens ou auxquels s'applique une convention internationale concernant totalement ou partiellement les pensions des travailleurs salariés ou indépendants et par laquelle la Belgique est liée, soit ensemble dans le régime des travailleurs indépendants et salariés ou dans les régimes auxquels s'appliquent les règlements européens ou auxquels s'applique une convention internationale concernant totalement ou partiellement les pensions des travailleurs salariés ou indépendants et par laquelle la Belgique est liée;
+
+2° ce qu'il y a lieu d'entendre par trimestres de travail effectif comme travailleur indépendant;
+
+3° quels trimestres peuvent être assimilés à des périodes de travail effectif;
+
+4° comment les périodes ouvrant des droits à pension à charge d'un ou plusieurs régimes qui relèvent du champ d'application des règlements européens ou auxquels s'applique une convention internationale concernant totalement ou partiellement les pensions des travailleurs salariés ou indépendants et par laquelle la Belgique est liée sont converties en trimestres;
+
+5° [<sup>2</sup> ...]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/11, art. 21, 068; En vigueur : 01-01-2025&gt;
+
+(2)&lt;L 2026-05-30/02, art. 159, 069; En vigueur : 01-01-2027&gt;
+
+(3)&lt;L 2026-07-22/03, art. 1, 070; En vigueur : 01-07-2027&gt;
+
+##### Art. 132
+
+&lt;L 1990-12-29/30, art. 184, 010; En vigueur : 01-07-1991&gt; [<sup>2</sup> Le Service fédéral des Pensions]<sup>2</sup> procède d'office sans qu'une nouvelle décision soit notifiée au bénéficiaire, à l'adaptation des pensions de retraite et de survie qui ont effectivement pris cours avant la date à laquelle la pension minimum visée par le présent titre ou une augmentation de cette pension est applicable, et pour lesquelles un ordre de paiement lui a été transmis avant cette date.
+
+[<sup>1</sup> [<sup>2</sup> le Service fédéral des Pensions]<sup>2</sup> procède d'office, sans qu'une nouvelle décision soit notifiée au bénéficiaire, à l'adaptation des pensions de retraite et de survie qui ont pris cours effectivement et pour la première fois après le 31 décembre 2014 et pour lesquelles la pension minimum visée à l'article 131ter est d'application, et pour lesquelles un ordre de paiement lui a été transmis.]<sup>1</sup>
+
+[<sup>3</sup> Le Service fédéral des Pensions procède d'office, sans qu'une nouvelle décision soit notifiée au bénéficiaire, à l'augmentation des pensions qui ont pris cours effectivement et pour la première fois à partir du 1er janvier 2023 et auxquelles la pension minimum visée à l'article 131quinquies est applicable, et pour lesquelles un ordre de paiement lui a été transmis.]<sup>3</sup>
+
+[<sup>4</sup> Le Service fédéral des Pensions procède d'office, sans qu'une nouvelle décision soit notifiée au bénéficiaire, à l'augmentation des pensions qui ont pris cours effectivement et pour la première fois à partir du 1er janvier 2025 et auxquelles la pension minimum visée à l'article 131sexies est applicable, et pour lesquelles un ordre de paiement lui a été transmis.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2014-04-24/64, art. 3, 050; En vigueur : 01-01-2015. Est d'application aux pensions des travailleurs indépendants qui prennent cours effectivement et pour la première fois au plus tôt le 1er janvier 2015&gt;
+
+(2)&lt;L 2016-03-18/03, art. 111, 056; En vigueur : 01-04-2016&gt;
+
+(3)&lt;L 2022-11-27/09, art. 3, 066; En vigueur : 01-01-2023&gt;
+
+(4)&lt;L 2024-04-25/11, art. 22, 068; En vigueur : 01-01-2025&gt;
+
+### TITRE III. \_ Modifications de l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants.
+
+##### Art. 133
+
+&lt;disposition modificative&gt;
+
+##### Art. 134
+
+&lt;disposition modificative&gt;
+
+### TITRE IV. \_ Modifications diverses de l'arrête royal n° 72 du 10 novembre 1967 relatif à la pension de retraite et de survie des travailleurs indépendants.
+
+##### Art. 135
+
+&lt;disposition modificative&gt;
+
+##### Art. 136
+
+&lt;disposition modificative&gt;
+
+##### Art. 137
+
+&lt;disposition modificative&gt;
+
+##### Art. 138
+
+&lt;disposition modificative&gt;
+
+##### Art. 139
+
+&lt;disposition modificative&gt;
+
+##### Art. 140
+
+&lt;disposition modificative&gt;
+
+##### Art. 141
+
+&lt;disposition modificative&gt;
+
+##### Art. 142
+
+&lt;disposition modificative&gt;
+
+##### Art. 143
+
+Le Roi peut adapter les dispositions de l'article 20 de l'arrêté royal n° 72, en vue de les rendre applicables au mode de calcul de la pension fixé au Titre II de la présente loi.
+
+##### Art. 144
+
+&lt;disposition modificative&gt;
+
+##### Art. 145
+
+&lt;disposition modificative&gt;
+
+##### Art. 146
+
+&lt;disposition modificative&gt;
+
+##### Art. 147
+
+&lt;disposition modificative&gt;
+
+##### Art. 148
+
+&lt;disposition modificative&gt;
+
+##### Art. 149
+
+&lt;disposition modificative&gt;
+
+##### Art. 150
+
+&lt;disposition modificative&gt;
+
+##### Art. 151
+
+&lt;disposition modificative&gt;
+
+### TITRE V. \_ Allocation spéciale.
+
+##### Art. 152
+
+&lt;L 1992-12-30/40, art. 72, 016; En vigueur : 19-01-1993&gt; § 1. Il est payé annuellement par [<sup>1</sup> le Service fédéral des Pensions]<sup>1</sup>, dans le courant du mois de juillet, une allocation spéciale aux personnes qui bénéficient effectivement pour le mois en cause, d'une prestation dans le régime de pension des travailleurs indépendants à condition qu'il ne s'agisse pas d'une prestation visée à l'article 37 de l'arrêté royal n° 72. (L'application des sanctions prévues à l'article 30bis, alinéa 4, de l'arrêté royal n° 72, n'a pas d'incidence sur le droit à l'allocation spéciale.) &lt;L 1995-04-07/42, art. 2, 019; En vigueur : 01-01-1993&gt;
+
+L'allocation spéciale est de 3 585 francs pour les bénéficiaires d'une pension de retraite qui répondent aux conditions fixées par [<sup>2</sup> l'article 9, § 1er, 1°, ou § 2]<sup>2</sup>, de l'arrêté royal n° 72, et de 2 868 francs pour les autres bénéficiaires.
+
+Cette allocation ne peut dépasser 20 p.c. de la pension du mois de juillet.
+
+Les montants visés à l'alinéa 2 sont liés à l'indice-pivot qui détermine le montant de la pension pour le mois de juillet 1992. Ils sont, en ce qui concerne les années suivantes, adaptés aux fluctuations de l'indice des prix à la consommation comme le sont les pensions afférentes au mois de juillet de l'année concernée.
+
+Le Roi détermine les conditions dans lesquelles l'allocation spéciale est payée aux bénéficiaires qui sont séparés de corps et de biens ou qui sont séparés de fait.
+
+§ 2. (Au 1er juillet 1993, les montants et le pourcentage visés au § 1er sont réduits de moitié :
+
+a) pour les personnes qui, avant application des règles de cumul, ont droit pour la première fois à une pension minimum en vertu de l'article 131bis;
+
+b) pour les personnes bénéficiant d'une pension minimum, qui, avant application des règles de cumul, est effectivement augmentée après limitation éventuelle conformément à l'article 131bis, § 1er, 3°.) &lt;L 1993-08-06/30, art. 40, 1°, 017; En vigueur : 19-08-1993&gt;
+
+(§ 3. A partir du 1er juillet 1994, les dispositions du § 1er ne sont plus applicables aux personnes qui répondent aux conditions reprises aux a) et b) du § 2.) &lt;L 1993-08-06/30, art. 40, 2°, 017; En vigueur : 19-08-1993&gt;
+
+(§ 4. A partir du 1er juillet 1994, les dispositions du § 1er ne sont plus applicables :
+
+1° aux béneficiaires qui répondent aux conditions de carrière prévues à l'article 131bis, § 1er, 2°;
+
+2° aux bénéficiaires d'une pension dont le montant annuel est supérieur au montant de la pension minimum garantie visée à l'article 131bis, § 1ter, alinéas 2 et 3, et § 3, multiplié par la fraction accordée à la carriere en tant que travailleur indépendant;
+
+3° aux bénéficiaires de plusieurs pensions dont le montant annuel, soit dans le seul régime des indépendants, soit dans le régime des indépendants et dans tout autre régime belge de pensions de retraite et de survie, ou tout autre regime analogue d'un pays étranger ou dans un régime qui est applicable au personnel d'une institution de droit international public, est supérieur au montant de la pension minimum visée à l'article 131bis, § 1ter, alinéas 2 et 3, et § 3.) &lt;L 1994-03-30/31, art. 66, 018; En vigueur : 10-04-1994&gt;
+
+[<sup>3</sup> § 5 A partir du 1er juillet 2015, les dispositions du paragraphe 1er ne sont plus applicables:
+
+1° aux bénéficiaires visés au paragraphe 4;
+
+2° aux bénéficiaires qui satisfont aux conditions de carrière prévues à l'article 131ter, § 1, alinéa 1er, 2°;
+
+3° aux bénéficiaires d'une pension dont le montant total annuel est supérieur au montant de la pension minimum visée à l'article 131ter, § 1er, § 1erbis et § 3, selon le cas, multiplié par la fraction qui exprime la carrière de travailleur indépendant;
+
+4° aux bénéficiaires de plusieurs pensions dont le montant annuel, soit dans le seul régime des indépendants, soit ensemble dans le régime des indépendants et dans tout autre régime belge de pensions de retraite et de survie, ou tout autre régime analogue d'un pays étranger ou dans un régime qui est applicable au personnel d'une institution de droit international public, est supérieur au montant de la pension minimum visée à l'article 131ter, § 1, § 1erbis et § 3, selon le cas.]<sup>3</sup>
+
+[<sup>4</sup> § 6. A partir du 1er juillet 2017, les dispositions du paragraphe 1er ne sont plus applicables:
+
+1° aux bénéficiaires visés au paragraphe 4 et au paragraphe 5;
+
+2° aux bénéficiaires qui satisfont aux conditions de carrière visées à l'article 131quater;
+
+3° aux bénéficiaires d'une pension dont le montant total annuel est supérieur au montant visé à l'article 131quater, alinéa 1er ou alinéa 3, multiplié par la fraction qui exprime la carrière de travailleur indépendant, selon le cas;
+
+4° aux bénéficiaires de plusieurs pensions dont le montant annuel, soit dans le seul régime des indépendants, soit ensemble dans le régime des indépendants et dans tout autre régime belge de pensions de retraite et de survie, ou tout autre régime analogue d'un pays étranger ou dans un régime qui est applicable au personnel d'une institution de droit international public, est supérieur au montant de la pension minimum visée à l'article 131quater, alinéa 1er ou alinéa 3, selon le cas.]<sup>4</sup>
+
+[<sup>5</sup> § 7 A partir du 1er juillet 2023, les dispositions du paragraphe 1er ne sont plus applicables:
+
+1° aux bénéficiaires visés aux paragraphes 4 à 6;
+
+2° aux bénéficiaires visés à l'article 131ter, § 1erter;
+
+3° aux bénéficiaires qui satisfont aux conditions de carrière prévues à l'article 131quinquies, § 1er;
+
+4° aux bénéficiaires d'une pension dont le montant total annuel est supérieur au montant de la pension minimum visé à l'article 33 de la loi de redressement du 10 février 1981 relative aux pensions du secteur social, tel qu'il est d'application avant le 1er janvier 2025, multiplié par la fraction qui exprime la carrière de travailleur indépendant;
+
+5° aux bénéficiaires de plusieurs pensions dont le montant annuel, soit dans le seul régime des indépendants, soit ensemble dans le régime des indépendants et dans tout autre régime belge de pensions de retraite et de survie, ou tout autre régime analogue d'un pays étranger ou dans un régime qui est applicable au personnel d'une institution de droit international public, est supérieur au montant de la pension minimum visé à l'article 33 de la loi de redressement du 10 février 1981 relative aux pensions du secteur social, tel qu'il est d'application avant le 1er janvier 2025.]<sup>5</sup>
+
+[<sup>6</sup> § 8. A partir du 1er juillet 2025, les dispositions du paragraphe 1er ne sont plus applicables:
+
+1° aux bénéficiaires visés aux paragraphes 4 à 7;
+
+2° aux bénéficiaires qui satisfont aux conditions de carrière prévues à l'article 131sexies, § 1, 1° et 2°, § 2, § 3 et § 5;
+
+3° aux bénéficiaires d'une pension dont le montant total annuel est supérieur au montant de la pension minimum visée à l'article 4, alinéas 1er et 2, de la loi du 25 avril 2024, multiplié par la fraction qui exprime la carrière de travailleur indépendant;
+
+4° aux bénéficiaires de plusieurs pensions dont le montant annuel, soit dans le seul régime des indépendants, soit ensemble dans le régime des indépendants et dans tout autre régime belge de pensions de retraite et de survie, ou tout autre régime analogue d'un pays étranger ou dans un régime qui est applicable au personnel d'une institution de droit international public, est supérieur au montant de la pension minimum visé à l'article 4, alinéas 1er et 2, de la loi du 25 avril 2024.]<sup>6</sup>
+
+----------
+
+(1)&lt;L 2016-03-18/03, art. 111, 056; En vigueur : 01-04-2016&gt;
+
+(2)&lt;L 2019-04-26/50, art. 8, 062; En vigueur : 01-07-2019&gt;
+
+(3)&lt;L 2024-04-25/11, art. 23,1°, 068; En vigueur : 01-07-2015&gt;
+
+(4)&lt;L 2024-04-25/11, art. 23,2°, 068; En vigueur : 01-07-2017&gt;
+
+(5)&lt;L 2024-04-25/11, art. 23,3°, 068; En vigueur : 01-07-2023&gt;
+
+(6)&lt;L 2024-04-25/11, art. 23,4°, 068; En vigueur : 01-07-2025&gt;
+
+##### Art. 152 DROIT FUTUR.
+
+&lt;L 1992-12-30/40, art. 72, 016; En vigueur : 19-01-1993&gt; § 1. Il est payé annuellement par [<sup>1</sup> le Service fédéral des Pensions]<sup>1</sup>, dans le courant du mois de juillet, une allocation spéciale aux personnes qui bénéficient effectivement pour le mois en cause, d'une prestation dans le régime de pension des travailleurs indépendants à condition qu'il ne s'agisse pas d'une prestation visée à l'article 37 de l'arrêté royal n° 72. (L'application des sanctions prévues à l'article 30bis, alinéa 4, de l'arrêté royal n° 72, n'a pas d'incidence sur le droit à l'allocation spéciale.) &lt;L 1995-04-07/42, art. 2, 019; En vigueur : 01-01-1993&gt;
+
+L'allocation spéciale est de 3 585 francs pour les bénéficiaires d'une pension de retraite qui répondent aux conditions fixées par [<sup>2</sup> l'article 9, § 1er, 1°, ou § 2]<sup>2</sup>, de l'arrêté royal n° 72, et de 2 868 francs pour les autres bénéficiaires.
+
+Cette allocation ne peut dépasser 20 p.c. [<sup>7</sup> de la pension effectivement payée pour le mois de juillet]<sup>7</sup>.
+
+Les montants visés à l'alinéa 2 sont liés à l'indice-pivot qui détermine le montant de la pension pour le mois de juillet 1992. Ils sont, en ce qui concerne les années suivantes, adaptés aux fluctuations de l'indice des prix à la consommation comme le sont les pensions afférentes au mois de juillet de l'année concernée.
+
+Le Roi détermine les conditions dans lesquelles l'allocation spéciale est payée aux bénéficiaires qui sont séparés de corps et de biens ou qui sont séparés de fait.
+
+§ 2. (Au 1er juillet 1993, les montants et le pourcentage visés au § 1er sont réduits de moitié :
+
+a) pour les personnes qui, avant application des règles de cumul, ont droit pour la première fois à une pension minimum en vertu de l'article 131bis;
+
+b) pour les personnes bénéficiant d'une pension minimum, qui, avant application des règles de cumul, est effectivement augmentée après limitation éventuelle conformément à l'article 131bis, § 1er, 3°.) &lt;L 1993-08-06/30, art. 40, 1°, 017; En vigueur : 19-08-1993&gt;
+
+(§ 3. A partir du 1er juillet 1994, les dispositions du § 1er ne sont plus applicables aux personnes qui répondent aux conditions reprises aux a) et b) du § 2.) &lt;L 1993-08-06/30, art. 40, 2°, 017; En vigueur : 19-08-1993&gt;
+
+(§ 4. A partir du 1er juillet 1994, les dispositions du § 1er ne sont plus applicables :
+
+1° aux béneficiaires qui répondent aux conditions de carrière prévues à l'article 131bis, § 1er, 2°;
+
+2° aux bénéficiaires d'une pension dont le montant annuel est supérieur au montant de la pension minimum garantie visée à l'article 131bis, § 1ter, alinéas 2 et 3, et § 3, multiplié par la fraction accordée à la carriere en tant que travailleur indépendant;
+
+3° aux bénéficiaires de plusieurs pensions dont le montant annuel, soit dans le seul régime des indépendants, soit dans le régime des indépendants et dans tout autre régime belge de pensions de retraite et de survie, ou tout autre regime analogue d'un pays étranger ou dans un régime qui est applicable au personnel d'une institution de droit international public, est supérieur au montant de la pension minimum visée à l'article 131bis, § 1ter, alinéas 2 et 3, et § 3.) &lt;L 1994-03-30/31, art. 66, 018; En vigueur : 10-04-1994&gt;
+
+[<sup>3</sup> § 5 A partir du 1er juillet 2015, les dispositions du paragraphe 1er ne sont plus applicables:
+
+1° aux bénéficiaires visés au paragraphe 4;
+
+2° aux bénéficiaires qui satisfont aux conditions de carrière prévues à l'article 131ter, § 1, alinéa 1er, 2°;
+
+3° aux bénéficiaires d'une pension dont le montant total annuel est supérieur au montant de la pension minimum visée à l'article 131ter, § 1er, § 1erbis et § 3, selon le cas, multiplié par la fraction qui exprime la carrière de travailleur indépendant;
+
+4° aux bénéficiaires de plusieurs pensions dont le montant annuel, soit dans le seul régime des indépendants, soit ensemble dans le régime des indépendants et dans tout autre régime belge de pensions de retraite et de survie, ou tout autre régime analogue d'un pays étranger ou dans un régime qui est applicable au personnel d'une institution de droit international public, est supérieur au montant de la pension minimum visée à l'article 131ter, § 1, § 1erbis et § 3, selon le cas.]<sup>3</sup>
+
+[<sup>4</sup> § 6. A partir du 1er juillet 2017, les dispositions du paragraphe 1er ne sont plus applicables:
+
+1° aux bénéficiaires visés au paragraphe 4 et au paragraphe 5;
+
+2° aux bénéficiaires qui satisfont aux conditions de carrière visées à l'article 131quater;
+
+3° aux bénéficiaires d'une pension dont le montant total annuel est supérieur au montant visé à l'article 131quater, alinéa 1er ou alinéa 3, multiplié par la fraction qui exprime la carrière de travailleur indépendant, selon le cas;
+
+4° aux bénéficiaires de plusieurs pensions dont le montant annuel, soit dans le seul régime des indépendants, soit ensemble dans le régime des indépendants et dans tout autre régime belge de pensions de retraite et de survie, ou tout autre régime analogue d'un pays étranger ou dans un régime qui est applicable au personnel d'une institution de droit international public, est supérieur au montant de la pension minimum visée à l'article 131quater, alinéa 1er ou alinéa 3, selon le cas.]<sup>4</sup>
+
+[<sup>5</sup> § 7 A partir du 1er juillet 2023, les dispositions du paragraphe 1er ne sont plus applicables:
+
+1° aux bénéficiaires visés aux paragraphes 4 à 6;
+
+2° aux bénéficiaires visés à l'article 131ter, § 1erter;
+
+3° aux bénéficiaires qui satisfont aux conditions de carrière prévues à l'article 131quinquies, § 1er;
+
+4° aux bénéficiaires d'une pension dont le montant total annuel est supérieur au montant de la pension minimum visé à l'article 33 de la loi de redressement du 10 février 1981 relative aux pensions du secteur social, tel qu'il est d'application avant le 1er janvier 2025, multiplié par la fraction qui exprime la carrière de travailleur indépendant;
+
+5° aux bénéficiaires de plusieurs pensions dont le montant annuel, soit dans le seul régime des indépendants, soit ensemble dans le régime des indépendants et dans tout autre régime belge de pensions de retraite et de survie, ou tout autre régime analogue d'un pays étranger ou dans un régime qui est applicable au personnel d'une institution de droit international public, est supérieur au montant de la pension minimum visé à l'article 33 de la loi de redressement du 10 février 1981 relative aux pensions du secteur social, tel qu'il est d'application avant le 1er janvier 2025.]<sup>5</sup>
+
+[<sup>6</sup> § 8. A partir du 1er juillet 2025, les dispositions du paragraphe 1er ne sont plus applicables:
+
+1° aux bénéficiaires visés aux paragraphes 4 à 7;
+
+2° aux bénéficiaires qui satisfont aux conditions de carrière prévues à l'article 131sexies, § 1, 1° et 2°, § 2, § 3 et § 5;
+
+3° aux bénéficiaires d'une pension dont le montant total annuel est supérieur au montant de la pension minimum visée à l'article 4, alinéas 1er et 2, de la loi du 25 avril 2024, multiplié par la fraction qui exprime la carrière de travailleur indépendant;
+
+4° aux bénéficiaires de plusieurs pensions dont le montant annuel, soit dans le seul régime des indépendants, soit ensemble dans le régime des indépendants et dans tout autre régime belge de pensions de retraite et de survie, ou tout autre régime analogue d'un pays étranger ou dans un régime qui est applicable au personnel d'une institution de droit international public, est supérieur au montant de la pension minimum visé à l'article 4, alinéas 1er et 2, de la loi du 25 avril 2024.]<sup>6</sup>
+
+----------
+
+(1)&lt;L 2016-03-18/03, art. 111, 056; En vigueur : 01-04-2016&gt;
+
+(2)&lt;L 2019-04-26/50, art. 8, 062; En vigueur : 01-07-2019&gt;
+
+(3)&lt;L 2024-04-25/11, art. 23,1°, 068; En vigueur : 01-07-2015&gt;
+
+(4)&lt;L 2024-04-25/11, art. 23,2°, 068; En vigueur : 01-07-2017&gt;
+
+(5)&lt;L 2024-04-25/11, art. 23,3°, 068; En vigueur : 01-07-2023&gt;
+
+(6)&lt;L 2024-04-25/11, art. 23,4°, 068; En vigueur : 01-07-2025&gt;
+
+(7)&lt;L 2026-05-30/02, art. 160, 069; En vigueur : 01-01-2027&gt;
+
+### TITRE VI. \_ Dispositions générales et finales.
+
+##### Art. 153
+
+Le Roi peut coordonner les dispositions de l'arrêté royal n° 72 du 10 novembre 1967 relatif à la pension de retraite et de survie des travailleurs indépendants et les dispositions qui les auraient expressément ou implicitement modifiées au moment o les coordinations seront établies .
+
+A cette fin, il peut:
+
+1° modifier l'ordre, le numérotage et, en général, la presentation des dispositions à coordonner;
+
+2° modifier les références qui seraient contenues dans les dispositions à coordonner en vue de les mettre en concordance avec le numérotage nouveau;
+
+3° modifier la rédaction des dispositions à coordonner en vue d'assurer leur concordance et d'en unifier la terminologie sans qu'il puisse être porté atteinte aux principes inscrits dans ces dispositions.
+
+Les coordinations porteront l'intitulé suivant : "Lois relatives à la pension de retraite et de survie des travailleurs indépendants, coordonnées le ......".
+
+##### Art. 154
+
+Le livre III entre en vigueur le 1er janvier 1984, à l'exception des articles 133 et 134 qui entrent en vigueur à partir du premier jour du trimestre civil suivant la date de publication de la présente loi.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 15 mai 1984.
+
+BAUDOUIN
+
+Par le Roi :
+
+Le Ministre des Affaires sociales,
+
+J.-L. DEHAENE
+
+Le Secrétaire d'Etat aux Pensions,
+
+P. MAINIL
+
+Vu et scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+J. GOL

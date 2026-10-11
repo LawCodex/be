@@ -1,0 +1,1554 @@
+---
+title: "Loi de réformes institutionnelles pour la Communauté germanophone"
+identifier: "1984023027"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1983/12/31/1984023027/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1983-12-31
+published: 1984-01-18
+entry_into_force: 1984-01-28
+last_amended: 2024-08-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1983/12/31/1984023027/justel"
+department: "Premier Ministre"
+justel_note: "Consultation des versions antérieures à partir du 20-07-1990 et mise à jour au 29-08-2024"
+retrieved: 2026-10-12
+---
+
+# 31 DECEMBRE 1983. - Loi de réformes institutionnelles pour la Communauté germanophone
+
+## TITRE I. - Dispositions préliminaires.
+
+###### Art. 1
+
+&lt;L 1990-07-18/30, art. 1, 003; En vigueur : 01-01-1989&gt; Pour l'application de la présente loi, il y a lieu d'entendre par :
+
+1° la loi spéciale : la loi spéciale du 8 août 1980 de réformes institutionnelles;
+
+2° la loi de financement : la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions;
+
+3° (le Parlement : le Parlement de la Communauté germanophone;) &lt;L 2006-03-27/34, art. 14, 017; En vigueur : 21-04-2006&gt;
+
+4° le (gouvernement) : le (gouvernement) de la Communauté germanophone. &lt;L 1993-07-16/31, art. 122, 005; En vigueur : 30-07-1993&gt;
+
+###### Art. 2
+
+La Communauté germanophone a la personnalité juridique.
+
+###### Art. 3
+
+La Communauté germanophone est compétente pour le territoire des communes d'Amblève, Bullange, Burg-Reuland, Bütgenbach, Eupen, La Calamine, Lontzen, Raeren et Saint-Vith.
+
+## TITRE II. - Des compétences.
+
+###### Art. 4
+
+§ 1. Les matières culturelles visées à l'article (130, § 1er, 1°,) de la Constitution sont les matières énoncées à l'article 4 de la loi spéciale. &lt;L 2007-03-20/52, art. 2, 019; En vigueur : 23-06-2007&gt;
+
+§ 2. Les matières personnalisables visées à l'article (130, § 1er, 2°,), de la Constitution sont les matières énoncées à l'article 5, § 1er, de la loi spéciale. &lt;L 2007-03-20/52, art. 3, 019; En vigueur : 23-06-2007&gt;
+
+###### Art. 5
+
+&lt;L 1990-07-18/30, art. 2, 003; En vigueur : 01-01-1989&gt; § 1. Les articles 5, § 2, 6, § 3bis, 1° et 4°, (6, § 8,) 6bis, [<sup>1</sup> 6quinquies,]<sup>1</sup> 8 à 12, et en ce qui concerne les dispositions relatives au Comité supérieur de contrôle l'article 13, § 4, l'article 13, § 5, ainsi que (les articles [<sup>1</sup> 14 à 16, 94, § 1erbis et § 1erter, et 99]<sup>1</sup>) de la loi spéciale sont applicables à la Communauté germanophone, moyennant les adaptations nécessaires. &lt;L 1993-07-16/31, art. 106, 005; En vigueur : 30-07-1993&gt; &lt;&lt;L 1993-12-30/31, art. 5, 006; En vigueur : 1994-01-11&gt;&gt;
+
+§ 2. Par dérogation à l'article 12 de la loi spéciale, les biens mobiliers et immobiliers de l'Etat, tant du domaine public que du domaine privé, affectés exclusivement à l'enseignement en Région de langue allemande, sont transférés sans indemnité à la Communauté germanophone.
+
+Sont applicables à ces transferts, moyennant les adaptations nécessaires, les (articles 57, §§ 4 à 7) de la loi de financement. &lt;L 1993-07-16/31, art. 106, 005; En vigueur : 30-07-1993&gt;
+
+----------
+
+(1)&lt;L 2014-01-06/64, art. 4, 030; En vigueur : 01-07-2014&gt;
+
+## TITRE III. - Des pouvoirs.
+
+### CHAPITRE I. - Dispositions générales.
+
+###### Art. 6
+
+&lt;L 1990-07-18/30, art. 3, 003; En vigueur : 01-01-1989&gt; Le (Parlement) règle les matières qui relèvent de la compétence de la Communauté germanophone. L'article 19, § 1er, alinéa 1er, et § 2, de la loi spéciale est applicable à la Communauté germanophone, moyennant les adaptations nécessaires. &lt;L 2006-03-27/34, art. 15, 017; En vigueur : 21-04-2006&gt;
+
+###### Art. 7
+
+Les articles 17, 20 et 21 de la loi spéciale sont applicables à la Communauté germanophone.
+
+### CHAPITRE II. - (Le Parlement.) &lt;L 2006-03-27/34, art. 16, 017; En vigueur : 21-04-2006&gt;
+
+#### Section I. - De la composition.
+
+##### Sous-section I. - Dispositions générales.
+
+###### Art. 8
+
+§ 1. Le (Parlement) comprend 25 membres. &lt;L 2006-03-27/34, art. 17, 017; En vigueur : 21-04-2006&gt;
+
+[<sup>1</sup> Le Parlement peut par décret modifier le nombre visé à l'alinéa 1er et fixer des règles complémentaires de composition.]<sup>1</sup>
+
+§ 2. (Les membres du (Parlement) sont élus par les électeurs des communes faisant partie de la région de langue allemande.) &lt;L 1990-07-06/34, art. 51, 002; En vigueur : 30-07-1990&gt; &lt;L 2006-03-27/34, art. 17, 017; En vigueur : 21-04-2006&gt;
+
+(§ 3. abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+§ 4. Lorsqu'ils ne sont pas membres du (Parlement), assistent de droit aux séances avec voix consultative : &lt;L 2006-03-27/34, art. 17, 017; En vigueur : 21-04-2006&gt;
+
+1° (les membres de la Chambre des Représentants et les membres du (Parlement wallon) élus dans la circonscription électorale de Verviers, qui sont domiciliés dans la région de langue allemande et qui ont prêté le serment constitutionnel uniquement ou en premier lieu en allemand;) &lt;L 1993-07-16/31, art. 107, 005; En vigueur : 30-07-1993&gt; &lt;L 2006-03-27/34, art. 17, 017; En vigueur : 21-04-2006&gt;
+
+2° [<sup>2</sup> les sénateurs visés à l'article 67, § 1er, 6° et 7°, de la Constitution, pour autant qu'ils répondent aux conditions prévues au 1°;]<sup>2</sup>
+
+3° les conseillers provinciaux élus dans le district d'Eupen pour autant qu'ils répondent aux deux conditions prévues au 1°.
+
+(4° le membre du Parlement européen élu dans la circonscription électorale germanophone qui est domicilié dans la Région de langue allemande.) &lt;L 1996-12-16/32, art. 2, 007; En vigueur : 10-01-1997&gt;
+
+[<sup>3</sup> Le Parlement peut, par décret, remplacer, modifier, compléter ou abroger les dispositions de l'alinéa premier.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2014-01-06/61, art. 2, 027; En vigueur : 10-02-2014&gt;
+
+(2)&lt;L 2014-01-06/59, art. 2, 028; En vigueur : 25-05-2014&gt;
+
+(3)&lt;L 2016-12-25/24, art. 2, 033; En vigueur : 20-01-2017&gt;
+
+###### Art. 8_COMMUNAUTE_GERMANOPHONE.
+
+§ 1. Le (Parlement) comprend 25 membres. &lt;L 2006-03-27/34, art. 17, 017; En vigueur : 21-04-2006&gt;
+
+[<sup>1</sup> Le Parlement peut par décret modifier le nombre visé à l'alinéa 1er et fixer des règles complémentaires de composition.]<sup>1</sup>
+
+§ 2. (Les membres du (Parlement) sont élus par les électeurs des communes faisant partie de la région de langue allemande.) &lt;L 1990-07-06/34, art. 51, 002; En vigueur : 30-07-1990&gt; &lt;L 2006-03-27/34, art. 17, 017; En vigueur : 21-04-2006&gt;
+
+(§ 3. abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+§ 4. Lorsqu'ils ne sont pas membres du (Parlement), assistent de droit aux séances avec voix consultative : &lt;L 2006-03-27/34, art. 17, 017; En vigueur : 21-04-2006&gt;
+
+1°[<sup>4</sup> les membres de la Chambre des Représentants élus dans la circonscription électorale de [<sup>5</sup> Liège]<sup>5</sup> et les membres du Parlement wallon élus dans la circonscription électorale de Verviers]<sup>4</sup>, qui sont domiciliés dans la région de langue allemande et qui ont prêté le serment constitutionnel uniquement ou en premier lieu en allemand;) &lt;L 1993-07-16/31, art. 107, 005; En vigueur : 30-07-1993&gt; &lt;L 2006-03-27/34, art. 17, 017; En vigueur : 21-04-2006&gt;
+
+2° [<sup>2</sup> les sénateurs visés à l'article 67, § 1er, 6° et 7°, de la Constitution, pour autant qu'ils répondent aux conditions prévues au 1°;]<sup>2</sup>
+
+3° [<sup>5</sup> ...]<sup>5</sup>
+
+(4° le membre du Parlement européen élu dans la circonscription électorale germanophone qui est domicilié dans la Région de langue allemande.) &lt;L 1996-12-16/32, art. 2, 007; En vigueur : 10-01-1997&gt;
+
+[<sup>3</sup> Le Parlement peut, par décret, remplacer, modifier, compléter ou abroger les dispositions de l'alinéa premier.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2014-01-06/61, art. 2, 027; En vigueur : 10-02-2014&gt;
+
+(2)&lt;L 2014-01-06/59, art. 2, 028; En vigueur : 25-05-2014&gt;
+
+(3)&lt;L 2016-12-25/24, art. 2, 033; En vigueur : 20-01-2017&gt;
+
+(4)&lt;DCG 2024-05-06/13, art. 4, 038; En vigueur : indéterminée &gt;
+
+(5)&lt;DCG 2023-06-26/04, art. 1, 039; En vigueur : 09-06-2024&gt;
+
+###### Art. 9
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 10
+
+&lt;L 1990-07-18/30, art. 4, 003; En vigueur : 01-01-1989&gt; L'(article 23) de la loi spéciale est applicable à la Communauté germanophone, moyennant les adaptations nécessaires, sauf en ce qui concerne les membres du personnel de l'enseignement communautaire, qui peuvent être membres du (Parlement) et ((du gouvernement)). &lt;L 1993-07-16/31, art. 108, 005; En vigueur : 30-07-1993&gt; &lt;L 1993-07-16/31, art. 122, 005; En vigueur : 30-07-1993&gt; &lt;L 2006-03-27/34, art. 18, 017; En vigueur : 21-04-2006&gt;
+
+###### Art. 10bis
+
+&lt;Inséré par L 1993-07-16/31, art. 109, 005; En vigueur : 21-05-1995; voir art. 404&gt; Le mandat de membre du (Parlement) de la Communauté germanophone est incompatible avec les fonctions ou mandats suivants : &lt;L 2006-03-27/34, art. 19, 017; En vigueur : 21-04-2006&gt;
+
+1° membre de la Chambre des Représentants;
+
+2° sénateur conformément à l'article (67, § 1er,) 1°, 2°, 3°, 4°, 6° et 7°, de la Constitution; &lt;L 2007-03-20/52, art. 4, 019; En vigueur : 23-06-2007&gt;
+
+3° ministre ou secrétaire d'Etat fédéral;
+
+4° gouverneur de province, vice-gouverneur ou gouverneur adjoint, greffier provincial;
+
+5° commissaire d'arrondissement;
+
+6° titulaire de fonctions dans l'ordre judiciaire;
+
+7° conseiller d'Etat, assesseur de la section de législation ou membre de l'auditorat, du bureau de coordination ou du greffe du Conseil d'Etat;
+
+8° juge, référendaire ou greffier à la [<sup>2</sup> Cour constitutionnelle]<sup>2</sup>;
+
+9° militaire en service actif, à l'exception des officiers de réserve rappelés sous les armes et des miliciens;
+
+10° [<sup>1</sup> sauf les personnes mentionnées à l'article 10, membre du personnel placé directement sous l'autorité du Parlement ou du gouvernement; le décret peut organiser un régime de congé politique à ce sujet;]<sup>1</sup>
+
+11° membre de la Cour des Comptes.
+
+(12° membre du Gouvernement,) &lt;L 1996-12-16/32, art. 3, 007; En vigueur : 10-01-1997&gt;
+
+(13° membre du Gouvernement wallon ou membre du Gouvernement de la Communauté française;) &lt;L 1996-12-16/32, art. 3, 007; En vigueur : 10-01-1997&gt;
+
+[<sup>4</sup> 14° bourgmestre.]<sup>4</sup>
+
+(Le mandat de membre du (Parlement) de la Communauté germanophone ne peut pas être cumulé avec plus d'un mandat exécutif rémunéré. &lt;L 2006-03-27/34, art. 19, 017; En vigueur : 21-04-2006&gt;
+
+Sont considérés comme mandats exécutifs rémunérés au sens de l'alinéa précédent :
+
+1° les mandats [<sup>5</sup> ...]<sup>5</sup> d'échevin et de président d'un conseil de l'aide sociale, quel que soit le revenu y afférent;
+
+2° tout mandat exercé au sein d'un organisme public ou privé, en tant que représentant de l'Etat, d'une communauté, d'une région, d'une province ou d'une commune, pour autant que ce mandat confère davantage de pouvoir que la simple qualité de membre de l'assemblée générale ou du conseil d'administration de cet organisme et quel que soit le revenu y afférent;
+
+3° tout mandat exercé au sein d'un organisme public ou privé, en tant que représentant de l'Etat, d'une communauté, d'une région, d'une province ou d'une commune, pour autant que le revenu mensuel brut imposable y afférent atteigne un montant de 20 000 francs au moins. Ce montant est adapté annuellement à l'évolution de l'indice des prix à la consommation.) &lt;L 1999-05-25/61, art. 2, 010; En vigueur : 31-01-2001&gt;
+
+[<sup>3</sup> Le Parlement peut par décret modifier, compléter, remplacer ou abroger les dispositions de l'alinéa 1er, 12° et 13°.
+
+Le Parlement peut par décret déterminer des incompatibilités supplémentaires.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/15, art. 1, 024; En vigueur : 25-01-2010&gt;
+
+(2)&lt;L 2010-02-21/02, art. 15, 025; En vigueur : 08-03-2010&gt;
+
+(3)&lt;L 2014-01-06/61, art. 3, 027; En vigueur : 10-02-2014&gt;
+
+(4)&lt;DCG 2016-05-30/10, art. 2, 031; En vigueur : 16-07-2016&gt;
+
+(5)&lt;DCG 2016-05-30/10, art. 3, 031; En vigueur : 16-07-2016&gt;
+
+###### Art. 10bis_COMMUNAUTE_GERMANOPHONE.
+
+&lt;Inséré par L 1993-07-16/31, art. 109, 005; En vigueur : 21-05-1995; voir art. 404&gt; Le mandat de membre du (Parlement) de la Communauté germanophone est incompatible avec les fonctions ou mandats suivants : &lt;L 2006-03-27/34, art. 19, 017; En vigueur : 21-04-2006&gt;
+
+1° membre de la Chambre des Représentants;
+
+2° sénateur conformément à l'article (67, § 1er,) 1°, 2°, 3°, 4°, 6° et 7°, de la Constitution; &lt;L 2007-03-20/52, art. 4, 019; En vigueur : 23-06-2007&gt;
+
+3° ministre ou secrétaire d'Etat fédéral;
+
+4° gouverneur de province, vice-gouverneur ou gouverneur adjoint, greffier provincial;
+
+5° commissaire d'arrondissement;
+
+6° titulaire de fonctions dans l'ordre judiciaire;
+
+7° conseiller d'Etat, assesseur de la section de législation ou membre de l'auditorat, du bureau de coordination ou du greffe du Conseil d'Etat;
+
+8° juge, référendaire ou greffier à la [<sup>2</sup> Cour constitutionnelle]<sup>2</sup>;
+
+9° militaire en service actif, à l'exception des officiers de réserve rappelés sous les armes et des miliciens;
+
+10° [<sup>1</sup> sauf les personnes mentionnées à l'article 10, membre du personnel placé directement sous l'autorité du Parlement ou du gouvernement; le décret peut organiser un régime de congé politique à ce sujet;]<sup>1</sup>
+
+11° membre de la Cour des Comptes.
+
+(12° membre du Gouvernement,) &lt;L 1996-12-16/32, art. 3, 007; En vigueur : 10-01-1997&gt;
+
+(13° membre du Gouvernement wallon ou membre du Gouvernement de la Communauté française;) &lt;L 1996-12-16/32, art. 3, 007; En vigueur : 10-01-1997&gt;
+
+[<sup>4</sup> 14° bourgmestre]<sup>4</sup> [<sup>6</sup> ;]<sup>6</sup>
+
+[<sup>6</sup> 15° fonctionnaire dirigeant, directeur ou directeur délégué d'un organisme d'intérêt public défini à l'article 87 du décret du 25 mai 2009 relatif au règlement budgétaire de la Communauté germanophone.]<sup>6</sup>
+
+(Le mandat de membre du (Parlement) de la Communauté germanophone ne peut pas être cumulé avec plus d'un mandat exécutif rémunéré. &lt;L 2006-03-27/34, art. 19, 017; En vigueur : 21-04-2006&gt;
+
+Sont considérés comme mandats exécutifs rémunérés au sens de l'alinéa précédent :
+
+1° les mandats [<sup>5</sup> ...]<sup>5</sup> d'échevin et de président d'un conseil de l'aide sociale, quel que soit le revenu y afférent;
+
+2° tout mandat exercé au sein d'un organisme public ou privé, en tant que représentant de l'Etat, d'une communauté, d'une région, d'une province ou d'une commune, pour autant que ce mandat confère davantage de pouvoir que la simple qualité de membre de l'assemblée générale ou du conseil d'administration de cet organisme et quel que soit le revenu y afférent;
+
+3° tout mandat exercé au sein d'un organisme public ou privé, en tant que représentant de l'Etat, d'une communauté, d'une région, d'une province ou d'une commune, pour autant que le revenu mensuel brut imposable y afférent atteigne un montant de 20 000 francs au moins. Ce montant est adapté annuellement à l'évolution de l'indice des prix à la consommation.) &lt;L 1999-05-25/61, art. 2, 010; En vigueur : 31-01-2001&gt;
+
+[<sup>3</sup> Le Parlement peut par décret modifier, compléter, remplacer ou abroger les dispositions de l'alinéa 1er, 12° et 13°.
+
+Le Parlement peut par décret déterminer des incompatibilités supplémentaires.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/15, art. 1, 024; En vigueur : 25-01-2010&gt;
+
+(2)&lt;L 2010-02-21/02, art. 15, 025; En vigueur : 08-03-2010&gt;
+
+(3)&lt;L 2014-01-06/61, art. 3, 027; En vigueur : 10-02-2014&gt;
+
+(4)&lt;DCG 2016-05-30/10, art. 2, 031; En vigueur : 16-07-2016&gt;
+
+(5)&lt;DCG 2016-05-30/10, art. 3, 031; En vigueur : 16-07-2016&gt;
+
+(6)&lt;DCG 2023-06-26/04, art. 2, 039; En vigueur : 09-06-2024&gt;
+
+###### Art. 10ter
+
+&lt;Inséré par L 1996-12-16/32, art. 4, En vigueur : 10-01-1997&gt; § 1er. Nonobstant l'article 10bis, 12°, le membre du (Parlement) qui a été élu en qualité de membre du Gouvernement cesse immédiatement de siéger et reprend son mandat lorsque ses fonctions de ministre prennent fin. &lt;L 2006-03-27/34, art. 20, 017; En vigueur : 21-04-2006&gt;
+
+Il est remplacé par le premier suppléant en ordre utile de la liste sur laquelle il a été élu. Cependant, un membre d'un Gouvernement qui a présenté sa démission peut, après un renouvellement intégral du (Parlement), concilier sa fonction de membre du Gouvernement avec le mandat de membre du (Parlement) jusqu'à l'élection d'un nouveau Gouvernement. &lt;L 2006-03-27/34, art. 20, 017; En vigueur : 21-04-2006&gt;
+
+§ 2. Nonobstant l'article 10bis, 13°, le membre du (Parlement) qui a été élu en qualité de membre du Gouvernement de la Communauté française ou du Gouvernement wallon cesse immédiatement de siéger et retrouve son mandat lorsque ses fonctions de ministre prennent fin. &lt;L 2006-03-27/34, art. 20, 017; En vigueur : 21-04-2006&gt;
+
+Il est remplacé par le premier suppléant en ordre utile de la liste sur laquelle il a été élu. Cependant, un membre d'un Gouvernement qui a présenté sa démission peut, après un renouvellement intégral du (Parlement), concilier sa fonction de membre du Gouvernement concerné avec le mandat de membre du (Parlement) jusqu'à l'élection d'un nouveau Gouvernement. &lt;L 2006-03-27/34, art. 20, 017; En vigueur : 21-04-2006&gt;
+
+§ 3. Nonobstant l'article 10bis, 3°, le membre du (Parlement), qui est nommé ministre ou secrétaire d'Etat fédéral par le Roi et qui accepte cette nomination, cesse de siéger et reprend son mandat lorsqu'il a été mis fin par le Roi à ses fonctions de ministre ou de secrétaire d'Etat.
+
+Il est remplacé par le premier suppléant en ordre utile de la liste sur laquelle il a été élu. Cependant, un ministre ou un secrétaire d'Etat d'un Gouvernement fédéral qui a présenté sa démission au Roi, peut, après un renouvellement intégral du (Parlement), concilier sa fonction de ministre ou de secrétaire d'Etat avec le mandat de membre du (Parlement) jusqu'au moment où le Roi a statué sur cette démission. &lt;L 2006-03-27/34, art. 20, 017; En vigueur : 21-04-2006&gt;
+
+§ 4. Le suppléant du membre du (Parlement), visé aux §§ 1er, 2 et 3, jouit du statut de membre du (Parlement).&lt;L 2006-03-27/34, art. 20, 017; En vigueur : 21-04-2006&gt;
+
+Si le membre du (Parlement) reprend son mandat au (Parlement), conformément aux règles fixées aux §§ 1er, 2 et 3, le suppléant reprend la place qui correspond à son rang initial. &lt;L 2006-03-27/34, art. 20, 017; En vigueur : 21-04-2006&gt;
+
+[<sup>1</sup> § 5. Le Parlement peut par décret modifier, compléter, remplacer ou abroger les dispositions des § 1er, § 2, § 3, alinéa 2, et § 4. Dans ce cas, le décret prévoit des dispositions pour le remplacement du membre du Parlement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-01-06/61, art. 4, 027; En vigueur : 10-02-2014&gt;
+
+###### Art. 11
+
+[<sup>1</sup> Le membre du Parlement qui s'est porté candidat à l'élection pour la Chambre des représentants et qui est élu en qualité d'effectif, perd de plein droit sa qualité de membre du Parlement au jour de la validation de son nouveau mandat effectif.
+
+Il perd également cette qualité de plein droit dès l'instant où il renonce à son nouveau mandat effectif entre le jour de la proclamation des élus et le jour de la validation de son nouveau mandat effectif.
+
+Le présent article s'applique également aux membres du Parlement qui ont cessé de siéger par suite de leur élection en qualité de membre du gouvernement ou par suite de leur nomination en qualité de ministre ou de secrétaire d'Etat du gouvernement fédéral ou par suite de leur élection en qualité de ministre ou de secrétaire d'Etat d'un autre gouvernement de communauté ou de région.]<sup>1</sup>
+
+----------
+
+(1)&lt;rétabli par L 2012-07-19/29, art. 5, 026; En vigueur : 01-01-2014. Est d'application pour la première fois aux élections pour le Parlement européen qui suivent la publication au Moniteur belge de la présente loi, ainsi qu'aux autres élections qui sont organisées simultanément&gt;
+
+###### Art. 12
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 13
+
+Avant d'entrer en fonction, les membres du (Parlement) prêtent le serment suivant : " Ich schwöre die Verfassung zu befolgen ". &lt;L 2006-03-27/34, art. 21, 017; En vigueur : 21-04-2006&gt;
+
+###### Art. 14
+
+&lt;L 1993-07-16/31, art. 110, 005; En vigueur : 30-07-1993&gt; (L'article 31ter, §§ 1er et 2,) de la loi spéciale est applicable à la Communauté germanophone. &lt;L 2007-03-20/53, art. 2, 020; En vigueur : 23-06-2007&gt;
+
+###### Art. 14bis
+
+[<sup>3</sup> L'addition du montant des indemnités, traitements ou jetons de présence perçus par un membre du Parlement de la Communauté germanophone dans l'exercice de son mandat parlementaire et le montant des indemnités, traitements ou jetons de présence perçus en rétribution des activités exercées par ce membre en dehors de son mandat de député ne peut excéder 150 % du montant de l'indemnité allouée aux membres de la Chambre des représentants.]<sup>3</sup>
+
+[<sup>3</sup> Sont pris en considération pour le calcul du montant des indemnités, traitements ou jetons de présence perçus en rétribution des activités exercées par ce membre en dehors de son mandat de député, les indemnités, traitements ou jetons de présence qui découlent de l'exercice d'un mandat, d'une fonction ou charge publics d'ordre politique.]<sup>3</sup> [<sup>1</sup> Les indemnités, traitements ou jetons de présence découlant de l'exercice de fonctions spéciales, telles que déterminées par le règlement du Parlement, sont également pris en considération pour le calcul de ce montant.]<sup>1</sup> [<sup>2</sup> Relèvent notamment des indemnités, traitements ou jetons de présence visés à la première phrase du présent alinéa les indemnités perçues directement ou indirectement à la suite de l'exercice de fonctions au sein du conseil d'administration, du conseil consultatif ou du comité de direction :
+
+a) des intercommunales et des interprovinciales;
+
+b) des personnes morales sur lesquelles une ou plusieurs autorités publiques jointes exercent directement ou indirectement une influence dominante:
+
+\- soit en concluant avec ces personnes morales un contrat de gestion ou un contrat d'administration;
+
+\- soit en désignant, directement ou indirectement, plus de la moitié des membres de leur organe d'administration, de gestion ou de direction, ou en désignant une ou plusieurs personnes chargées d'exercer la tutelle en leur sein;
+
+\- soit en détenant, directement ou indirectement, la majorité du capital souscrit;
+
+\- soit en disposant, directement ou indirectement, de la majorité des voix attachées aux parts émises par la personne morale;
+
+c) des personnes morales dans lesquelles le membre du parlement fait partie du conseil d'administration, conseil consultatif ou comité de direction, à la suite d'une décision d'une autorité publique.]<sup>2</sup>
+
+Si le plafond fixé à l'alinéa 1er est dépassé, l'indemnité fixée à l'article 14 est réduite, sauf lorsque le mandat de membre du (Parlement) de la Communauté germanophone est cumulé avec un mandat de bourgmestre, d'échevin ou de président d'un conseil de l'aide sociale. Dans ce cas, c'est le traitement de bourgmestre, d'échevin ou de président d'un conseil de l'aide sociale qui est diminué. &lt;L 2006-03-27/34, art. 22, 017; En vigueur : 21-04-2006&gt;
+
+Lorsque les activités visées aux alinéas 1er et 2 débutent ou prennent fin en cours du mandat parlementaire, le (député) concerné en informe le président de son assemblée. &lt;L 2006-03-27/34, art. 22, 017; En vigueur : 21-04-2006&gt;
+
+Le (Parlement) organise dans son règlement les modalités d'exécution des présente dispositions. &lt;L 2006-03-27/34, art. 22, 017; En vigueur : 21-04-2006&gt;
+
+[<sup>1</sup> Le présent article ne s'applique pas au président du Parlement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-10-14/08, art. 2, 034; En vigueur : 26-05-2019&gt;
+
+(2)&lt;L 2018-10-14/12, art. 2, 035; En vigueur : 27-05-2019&gt;
+
+(3)&lt;L 2021-03-16/06, art. 2, 036; En vigueur : 27-05-2019&gt;
+
+###### Art. 14ter.
+
+[<sup>1</sup> § 1er. Un membre du Parlement qui démissionne notifie sa démission au Parlement par un écrit adressé au président.
+
+§ 2. La démission prend effet le jour de la réception de la lettre de démission par le Parlement ou à une date ultérieure si le membre l'indique dans sa lettre de démission.
+
+Si la démission prend effet à une date ultérieure, elle peut être retirée jusqu'au jour précédant cette date par un écrit adressé au président.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-04-07/08, art. 2, 037; En vigueur : 29-04-2023&gt;
+
+##### Sous-section II. - De l'élection. (Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 15
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 16
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 17
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 18
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 19
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 20
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 21
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 22
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 23
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 24
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 25
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 26
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 27
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 28
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 29
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 30
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 31
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 32
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 33
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 34
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 35
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 36
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 37
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 38
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 39
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 40
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+###### Art. 41
+
+(Abrogé) &lt;L 1990-07-06/34, art. 52, 002; En vigueur : 30-07-1990&gt;
+
+#### Section II. - Du fonctionnement.
+
+###### Art. 42
+
+Le (Parlement) se réunit de plein droit chaque année le troisième [<sup>1</sup> lundi]<sup>1</sup> de septembre, à moins qu'il n'ait été réuni antérieurement par (le gouvernement). &lt;L 1993-07-16/31, art. 122, 005; En vigueur : 30-07-1993&gt; &lt;L 2006-03-27/34, art. 23, 017; En vigueur : 21-04-2006&gt;
+
+Il se réunit également de plein droit après chaque renouvellement du (Parlement) (le quatrième [<sup>1</sup> lundi]<sup>1</sup> qui suit le jour de ce renouvellement). &lt;L 1999-05-06/54, art. 2, 009; En vigueur : 07-06-1999&gt; &lt;L 2006-03-27/34, art. 23, 017; En vigueur : 21-04-2006&gt;
+
+(...) &lt;L 1999-05-06/54, art. 3, 009; En vigueur : 07-06-1999&gt;
+
+Il doit rester réuni chaque année au moins quarante jours.
+
+----------
+
+(1)&lt;DCG 2016-05-30/10, art. 4, 031; En vigueur : 16-07-2016&gt;
+
+###### Art. 43
+
+Les séances du (Parlement) sont publiques. &lt;L 2006-03-27/34, art. 24, 017; En vigueur : 21-04-2006&gt;
+
+Néanmoins, le (Parlement) se forme en comité secret, sur la demande de son président ou de [<sup>1</sup> deux]<sup>1</sup> membres. &lt;L 2006-03-27/34, art. 24, 017; En vigueur : 21-04-2006&gt;
+
+Le (Parlement) décide ensuite, à la majorité absolue, si la séance doit être reprise en public sur le même sujet. &lt;L 2006-03-27/34, art. 24, 017; En vigueur : 21-04-2006&gt;
+
+----------
+
+(1)&lt;DCG 2016-05-30/10, art. 5, 031; En vigueur : 16-07-2016&gt;
+
+###### Art. 43.1
+
+[<sup>1</sup> § 1er. En début de législature, le doyen des membres du Parlement en assure la présidence jusqu'à l'élection du bureau définitif; il est assisté des deux plus jeunes membres.
+
+Le Parlement choisit en son sein ses président, vice-président et secrétaires. Ils constituent le bureau définitif du Parlement.
+
+§ 2. Si, lors de l'élection des membres du bureau, la majorité absolue n'est pas obtenue au premier scrutin, un second a lieu afin de déterminer l'ordre des deux candidats ayant obtenu le plus de suffrages, et ce, après que des candidats se sont éventuellement retirés. Le cas échéant, la participation au second scrutin est déterminée en tenant compte des règles fixée au deuxième alinéa.
+
+En cas de parité des voix, la préférence est accordée au candidat qui, sans interruption, a rempli depuis le plus longtemps le mandat de membre du Parlement ou du Conseil de la Communauté culturelle allemande. En cas d'ancienneté égale, la préférence est donnée au candidat le plus jeune.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2016-05-30/10, art. 6, 031; En vigueur : 16-07-2016&gt;
+
+###### Art. 44
+
+Les articles (31, §§ 5 et 6,) 32, §§ 2 et 3 [<sup>2</sup> ...]<sup>2</sup> (, 35, §§ 1er et 2, 36, [<sup>1</sup> 37]<sup>1</sup> et 38 à (48 bis)), de la loi spéciale sont applicables à la Communauté germanophone. &lt;L 1993-07-16/31, art. 111, 005; En vigueur : 30-07-1993&gt; &lt;L 1996-12-16/32, art. 5, 007; En vigueur : 10-01-1997&gt; &lt;L 2002-01-07/39, art. 2, 013; En vigueur : 01-01-2002&gt; &lt;L 2003-07-03/58, art. 2, 016; En vigueur : 11-09-2003&gt;
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>1</sup> Par dérogation à l'article 35, § 2, de la loi spéciale, les décrets visés aux articles [<sup>3</sup> 8, § 1er, alinéa 2, et § 4, alinéa 2,]<sup>3</sup> [<sup>3</sup> 10bis, alinéas 4 et 5,]<sup>3</sup> 10ter, § 5, 45, 49, alinéa 1er, 50, alinéa 3, de la présente loi ainsi qu'aux articles 11, § § 1bis, 1ter et 1quater, 20bis, 22, alinéa 1er, et 45, § 2, alinéa 3, de la loi du 6 juillet 1990 réglant les modalités de l'élection du Parlement de la Communauté germanophone, sont adoptés à la majorité des deux tiers des suffrages exprimés.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-01-06/61, art. 5, 027; En vigueur : 10-02-2014&gt;
+
+(2)&lt;DCG 2016-05-30/10, art. 7, 031; En vigueur : 16-07-2016&gt;
+
+(3)&lt;L 2016-12-25/24, art. 3, 033; En vigueur : 20-01-2017&gt;
+
+###### Art. 45
+
+[<sup>1</sup> Le Parlement peut modifier, compléter, remplacer ou abroger par décret les dispositions des articles 42, 43, 44, alinéa 1er, en ce qui concerne les règles énoncées dans les articles 32, § § 2 et 3, 33, 37, 41, 46, 47 et 48 de la loi spéciale, 44, alinéa 2, et 51, en ce qui concerne les règles énoncées dans les articles 68 à 73 de la loi spéciale.]<sup>1</sup>
+
+----------
+
+(1)&lt;rétabli par L 2014-01-06/61, art. 6, 027; En vigueur : 10-02-2014&gt;
+
+#### Section III. - De la publication et de l'entrée en vigueur des décrets.
+
+###### Art. 46
+
+La sanction et la promulgation des décrets du (Parlement) se font de la manière suivante : &lt;L 2006-03-27/34, art. 26, 017; En vigueur : 21-04-2006&gt;
+
+" (Das Parlament der Deutschsprachigen Gemeinschaft) hat das Folgende angenommen und wir, (Regierung), sanktionnieren es : &lt;L 2006-03-27/34, art. 26, 017; En vigueur : 21-04-2006&gt;
+
+" DEKRET
+
+" Wir fertigen das vorliegende Dekret aus und ordnen an, dass es durch das Belgische Staatsblatt veröffentlicht wird. "
+
+###### Art. 47
+
+Après leur promulgation, les décrets du (Parlement) sont publiés au Moniteur belge en allemand, avec une traduction en français et en néerlandais, ainsi qu'au Mémorial (des Parlaments) der deutschsprachigen Gemeinschaft en allemand. &lt;L 2006-03-27/34, art. 27, 017; En vigueur : 21-04-2006&gt;
+
+###### Art. 48
+
+Les décrets sont obligatoires le dixième jour après celui de leur publication au Moniteur belge, à moins qu'ils n'aient fixé un autre délai.
+
+### CHAPITRE III. - (Le Gouvernement) &lt;L 2006-03-27/34, art. 28, 017; En vigueur : 21-04-2006&gt;
+
+#### Section première. - De la composition, du fonctionnement et des compétences.
+
+###### Art. 49
+
+(Le gouvernement se compose de minimum trois membres et de maximum cinq membres élus par le (Parlement), conformément aux règles fixées à l'article 60 de la loi spéciale.) [<sup>1</sup> Le Parlement peut modifier par décret le nombre maximum des membres du gouvernement.]<sup>1</sup> &lt;L 2002-01-07/39, art. 3, 013; En vigueur : 01-01-2002&gt; &lt;L 2006-03-27/34, art. 29, 017; En vigueur : 21-04-2006&gt;
+
+Toutefois, les présentations de candidatures ne doivent être signées que par trois membres au moins du (Parlement). &lt;L 2006-03-27/34, art. 29, 017; En vigueur : 21-04-2006&gt;
+
+(En cas d'élection séparée des membres du gouvernement, si après désignation de l'avant-dernier membre, tous les membres sont de même sexe, le scrutin pour la désignation du dernier membre est limité aux candidats appartenant à l'autre sexe.) &lt;L 2003-05-05/44, art. 2, 015; En vigueur : 13-06-2004; voir art. 3&gt;
+
+----------
+
+(1)&lt;L 2014-01-06/61, art. 7, 027; En vigueur : 10-02-2014&gt;
+
+###### Art. 50
+
+(Les conditions et incompatibilités prévues aux articles 10 et 10bis et à l'article 5 de la loi du 6 juillet 1990 réglant les modalités de l'élection du (Parlement) de la Communauté germanophone sont applicables aux membres du Gouvernement.) &lt;L 1996-12-16/32, art. 6, 007; En vigueur : 10-01-1997&gt; &lt;L 2006-03-27/34, art. 30, 017; En vigueur : 21-04-2006&gt;
+
+Nul ne peut être à la fois membre (du gouvernement) et membre du Gouvernement (fédéral) ou membre d'un autre (gouvernement). &lt;L 1993-07-16/31, art. 122, 005; En vigueur : 30-07-1993&gt;
+
+[<sup>1</sup> Le Parlement peut par décret déterminer des incompatibilités supplémentaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-01-06/61, art. 8, 027; En vigueur : 10-02-2014&gt;
+
+###### Art. 51
+
+Les articles 62, [<sup>1</sup> 68 à 73]<sup>1</sup> 78, 79, §§ 1 et 3, 81 et 82, de la loi spéciale sont applicables à la Communauté germanophone.
+
+----------
+
+(1)&lt;L 2014-01-06/61, art. 9, 027; En vigueur : 10-02-2014&gt;
+
+###### Art. 52
+
+§ 1. Dans les matières qui sont de la compétence de la Communauté, (le gouvernement) : &lt;L 1993-07-16/31, art. 122, 005; En vigueur : 30-07-1993&gt;
+
+1° délibère de tous projets de décrets ou d'arrêtés, selon le cas;
+
+2° propose l'affectation des crédits budgétaires;
+
+3° élabore et coordonne la politique de la Communauté.
+
+§ 2. La délibération (du gouvernement) remplace la délibération du Conseil des Ministres ou du Comité ministériel national qui est requise par une loi ou par un arrêté royal, chaque fois qu'il s'agit d'une affaire relevant de la compétence (du gouvernement). &lt;L 1993-07-16/31, art. 122, 005; En vigueur : 30-07-1993&gt;
+
+§ 3. Les compétences attribuées à un Ministre par la loi, par arrêté réglementaire du Conseil de la Communauté culturelle allemande ou par arrêté royal, sont exercées par (le gouvernement), chaque fois qu'il s'agit d'une affaire relevant de la compétence de ce dernier. &lt;L 1993-07-16/31, art. 122, 005; En vigueur : 30-07-1993&gt;
+
+#### Section II. - De la publication et de l'entrée en vigueur des arrêtés.
+
+###### Art. 53
+
+Les arrêtés (du gouvernement) sont publiés au Moniteur belge en allemand, avec une traduction en français et en néerlandais. &lt;L 1993-07-16/31, art. 122, 005; En vigueur : 30-07-1993&gt;
+
+Ils sont également publiés en allemand au Mémorial (des Parlements) der deutschsprachigen Gemeinschaft. &lt;L 2006-03-27/34, art. 31, 017; En vigueur : 21-04-2006&gt;
+
+Néanmoins, lorsqu'ils n'intéressent pas la généralité des citoyens, les arrêtés visés au premier alinéa peuvent n'être publiés que par extrait ou ne faire l'objet que d'une simple mention au Moniteur belge; si leur publicité ne présente aucun caractère d'utilité publique, ils peuvent ne pas être publiés.
+
+Les arrêtés sont obligatoires le dixième jour après celui de leur publication au Moniteur belge à moins qu'ils ne fixent un autre délai.
+
+Les arrêtés notifiés aux intéressés sont obligatoires à partir de leur notification ou de leur publication si elle lui est antérieure.
+
+#### Section III. - Des services.
+
+###### Art. 54
+
+&lt;L 1990-07-18/30, art. 5, 003; En vigueur : 01-01-1989&gt; &lt;NOTE : Selon l'art. 27 de la L 1990-07-18/30, cet article n'entre en vigueur, en ce qui concerne la référence à l'article 87, §3, de la loi spéciale, qu'à la même date que l'arrêté royal visé à l'article 87, §4, de la loi spéciale.&gt;
+
+Les articles 87, §§ 1er à 4, 88, §§ 1er et 2, ainsi que l'article 89 de la loi spéciale sont applicables à la Communauté germanophone, moyennant les adaptations nécessaires.
+
+Les règles relatives aux relations entre les autorités publiques et les organisations syndicales des agents relevant de ces autorités, ainsi qu'aux relations avec les membres de ces organisations syndicales, relèvent, en ce qui concerne la Communauté germanophone et les personnes morales de droit public qui en dépendent, en ce compris l'enseignement, de la compétence de l'(autorité fédérale). &lt;L 1993-07-16/31, art. 122, 005; En vigueur : 30-07-1993&gt;
+
+#### Section IV. - Personnel de l'enseignement. &lt;Insérée par L 1990-07-18/30, art. 6, 003; En vigueur : 01-01-1989&gt;
+
+###### Art. 54bis
+
+&lt;Inséré par L 1990-07-18/30, art. 6, 003; En vigueur : 01-01-1989&gt; En vue de l'exercice des compétences attribuées par la Constitution, les membres du personnel de l'enseignement (visé à l'article 24 de la Constitution), organisé par l'Etat, des Fonds et des Services d'inspection, visés par la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement, sont transférés à la Communauté germanophone. L'article 91bis, § 2, de la loi spéciale est applicable à la Communauté germanophone, moyennant les adaptations nécessaires. &lt;L 2007-03-20/52, art. 5, 019; En vigueur : 23-06-2007&gt;
+
+## TITRE IV. - De la coopération entre les communautés.
+
+###### Art. 55
+
+§ 1. Pour l'exercice des compétences qui lui sont attribuées, la Communauté germanophone peut conclure des accords de coopération ou d'association avec une ou plusieurs communautés.
+
+§ 2. Il est créé au sein du (Parlement) une commission qui a pour but de promouvoir la coopération avec la Communauté française et la Communauté flamande. Elle est composée suivant le système de la représentation proportionnelle des groupes politiques. Elle constitue avec les commissions visées au § 1 de l'article 4 de la loi du 21 juillet 1971 relative à la compétence et au fonctionnement des Conseils culturels pour la Communauté culturelle française et pour la Communauté culturelle néerlandaise, les commissions réunies de coopération. &lt;L 2006-03-27/34, art. 32, 017; En vigueur : 21-04-2006&gt;
+
+§ 3. Il est créé une commission de coopération composée de huit membres qui doivent être pour une moitié d'expression allemande et pour l'autre d'expression française. Les premiers sont nommés par (le gouvernement) de la Communauté germanophone, les seconds sont nommés par (le gouvernement) de la Communauté française. &lt;L 1993-07-16/31, art. 122, 005; En vigueur : 30-07-1993&gt;
+
+Les décisions de la commission doivent recueillir la majorité des voix et au moins deux voix de membres d'expression allemande et deux voix de membres d'expression française.
+
+La commission statue sur les demandes d'aides aux activités culturelles qui sont introduites en faveur des minorités linguistiques établies dans les communes indiquées à l'article 8, 1° et 2°, et à l'article 16 des lois coordonnées sur l'emploi des langues en matière administrative.
+
+La commission accorde les subventions à charge d'un crédit mis à sa disposition par l'un et l'autre des deux (Parlements de communauté). La commune concernée est informée de la décision de la commission. &lt;L 2006-03-27/34, art. 32, 017; En vigueur : 21-04-2006&gt;
+
+En l'absence de décision à l'égard d'un dossier introduit dans un délai de trois mois à compter de l'introduction du dossier, celui-ci peut être porté, à la demande d'une des parties, devant le Comité de concertation visé à l'article 31 de la loi ordinaire.
+
+## TITRE IVbis. - Coopération entre l'Etat, les Communautés et les Régions. &lt;Inséré par L 1990-07-18/30, art. 7, 003; En vigueur : 01-01-1989&gt;
+
+###### Art. 55bis
+
+&lt;L 1993-05-05/66, art. 2, 004; En vigueur : 18-05-1993&gt; L'article 92bis, §§ 1er, 4 bis, 4ter, [<sup>2</sup> 4sexies, 4septies, 4octies, 4decies, 4undecies,]<sup>2</sup> 5 et 6, de même que [<sup>1</sup> les articles 92bis/1 et 92ter]<sup>1</sup> de la loi spéciale s'appliquent à la Communauté germanophone moyennant les adaptations nécessaires.
+
+----------
+
+(1)&lt;L 2014-01-06/61, art. 10, 027; En vigueur : 10-02-2014&gt;
+
+(2)&lt;L 2014-01-06/64, art. 5, 030; En vigueur : 01-07-2014&gt;
+
+## TITRE IVter. - &lt;Inséré par L 1993-05-05/66, art. 2, 004; En vigueur : 18-05-1993&gt; Information des Chambres et des (Parlements de communauté et de région) sur les propositions d'actes normatifs de la Commission des Communautés européennes. &lt;L 2006-03-27/34, art. 33, 017; En vigueur : 21-04-2006&gt;
+
+###### Art. 55ter
+
+&lt;Inséré par L 1993-05-05/66, art. 2, 004; En vigueur : 18-05-1993&gt; L'article 92quater de la loi spéciale s'applique de la même manière à la Communauté germanophone.
+
+## TITRE V. - Des moyens financiers.
+
+### Chapitre Ier. - [<sup>1</sup> Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 2, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 56
+
+[<sup>1</sup> Sans préjudice de l'article 170, § 2, de la Constitution, le financement du budget de la Communauté germanophone est assuré par :
+
+1° des recettes non fiscales;
+
+2° pour la période de 1989 jusqu'à 2014, une dotation fédérale générale;
+
+3° des parties attribuées du produit d'impôts;
+
+4° des dotations fédérales;
+
+5° pour la période de 2015 jusqu'à 2033, un mécanisme de transition;
+
+6° des emprunts.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-19/03, art. 3, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 56bis
+
+[<sup>1</sup> Les articles 1erter, alinéa 3, et 11, de la loi de financement sont applicables à la Communauté germanophone, moyennant les adaptations nécessaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 4, 029; En vigueur : 01-07-2014&gt;
+
+### Chapitre II. - [<sup>1</sup> Des recettes non fiscales propres]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 5, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 57
+
+&lt;L 1990-07-18/30, art. 9, 003; En vigueur : 01-01-1989&gt; L'article 2 de la loi de financement est applicable à la Communauté germanophone, moyennant les adaptations nécessaires.
+
+### Chapitre III. - [<sup>1</sup> De la dotation fédérale générale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 6, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 58
+
+&lt;L 1993-07-16/31, art. 115, 005; En vigueur : 30-07-1993&gt; Le montant total du crédit prévu à l'article 56, 2°, du budget de l'Etat pour l'année 1989 est de 2 637,4 millions de francs.
+
+Jusqu'à l'année budgétaire 1992 incluse, ce montant est adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation, selon les modalités fixées à l'article 13, § 2, de (la loi de financement). &lt;L 2002-01-07/39, art. 5, 013; En vigueur : 01-01-2002&gt;
+
+Pour l'année 1989, il est attribué, en outre, un crédit unique de 65 millions de francs.
+
+###### Art. 58bis
+
+&lt;Inséré par L 1993-07-16/31, art. 116, 005; En vigueur : 30-07-1993&gt; § 1. Dans l'année budgétaire 1993, le montant attribué dans l'année budgétaire 1992 en application de l'article 58 est adapté au taux de fluctuation de l'indice moyen des prix à la consommation, selon les modalités fixées à l'article 13, § 2, de (la loi de financement). &lt;L 2002-01-07/39, art. 6, 013; En vigueur : 01-01-2002&gt;
+
+§ 2. Le montant obtenu en application du § 1er est scindé en deux quotités égales.
+
+§ 3. (Pour les années budgétaires 1994 à 1999 incluse), la première quotité de 50 % obtenue en application du § 2 est annuellement adapté au taux de fluctuation de l'indice moyen des prix à la consommation, selon les modalités fixées à l'article 13, § 2, de (la loi de financement). &lt;L 2000-12-22/65, art. 2, 012; En vigueur : 29-01-2001&gt;
+
+(§ 4. Pour l'année budgétaire 2000, le montant obtenu dans l'année budgétaire précédente, en application du § 3, est adapté au taux de fluctuation de l'indice moyen des prix à la consommation, selon les modalités fixées à l'article 13, § 2, de (la loi de financement). &lt;L 2002-01-07/39, art. 4, 013; En vigueur : 01-01-2002&gt;
+
+Le montant, obtenu à l'alinéa 1er, est augmenté d'un montant de 160 millions de francs belges qui n'est pris en considération qu'en proportion de la part du montant obtenu pour l'année budgétaire 2000, en application de l'alinéa 1er, dans la somme totale :
+
+1° du montant obtenu pour l'année budgétaire 2000, en application de l'alinéa 1er;
+
+2° du montant obtenu pour l'année budgétaire 2000, en application de l'article 58ter, § 3, alinéa 1er;
+
+3° du montant obtenu pour l'année budgétaire 2000, en application de l'article 58quater.
+
+§ 5. Pour l'année budgétaire 2001, le montant obtenu durant l'année budgétaire précédente, en application du § 4, alinéa 1er, est adapté au taux de fluctuation de l'indice moyen des prix à la consommation, selon les modalités fixées à l'article 13, § 2, de (la loi de financement). &lt;L 2002-01-07/39, art. 6, 013; En vigueur : 01-01-2002&gt;
+
+Le montant, obtenu à l'alinéa 1er, est augmenté d'un montant de 195,6 millions de francs belges qui, après adaptation au taux de fluctuation de l'indice moyen des prix à la consommation, selon les modalités fixées à l'article 13, § 2, de la loi spéciale du 16 janvier 1989 relative au financement des communautés et des régions, n'est pris en considération qu'en proportion de la part du montant obtenu pour l'année budgétaire 2000, en application du § 4, alinéa 1er, dans la somme totale :
+
+1° du montant obtenu pour l'année budgétaire 2000, en application du § 4, alinéa 1er;
+
+2° du montant obtenu pour l'année budgétaire 2000, en application de l'article 58ter, § 3, alinéa 1er;
+
+3° du montant obtenu pour l'année budgétaire 2000, en application de l'article 58quater.
+
+§ 6. (Dès l'année budgétaire 2002 et jusqu'à l'année budgétaire 2006 incluse), le montant obtenu pour l'année budgétaire 2001, en application du § 5, est adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation, (selon les modalités fixées à l'article 38, § 3, de la loi de financement).) &lt;L 2000-12-22/65, art. 2, 012; En vigueur : 29-01-2001&gt; &lt;L 2002-01-07/39, art. 6, 013; En vigueur : 01-01-2002&gt;
+
+§ 7. [<sup>1</sup> Pour les années budgétaires 2007 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation des montants de base visés aux articles 58nonies et 58decies, le montant obtenu pour l'année budgétaire 2006 en application du § 6 est adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée, ainsi qu'à 91 % de la croissance réelle du produit intérieur brut de l'année budgétaire concernée, selon les modalités visées à l'article 38, § 3ter, alinéa 5, de la loi de financement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-19/03, art. 7, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 58ter
+
+&lt;Inséré par L 1993-07-16/31, art. 117, 005; En vigueur : 30-07-1993&gt; § 1. Dans l'année budgétaire 1993, la deuxième quotité de 50 % obtenue en application de l'article 58bis, § 2, est augmentée de 31 millions de francs.
+
+§ 2. Dès l'année budgétaire 1994 jusque 1999 incluse, le montant obtenu dans l'année budgétaire 1993 en application du § 1er est annuellement adapté au taux de fluctuation de l'indice moyen des prix à la consommation, ainsi qu'à un pourcentage de la croissance réelle du produit national brut de l'année budgétaire en question.
+
+Le pourcentage de la croissance réelle du produit national brut à prendre en considération à l'alinéa précédent, s'élève à :
+
+\- dans l'année budgétaire 1994 : 10 %;
+
+\- dans l'année budgétaire 1995 : 15 %;
+
+\- dans l'année budgétaire 1996 : 20 %;
+
+\- dans l'année budgétaire 1997 : 70 %;
+
+\- dans l'année budgétaire 1998 : 75 %;
+
+\- dans l'année budgétaire 1999 : 97,5 %.
+
+En attendant la fixation définitive de l'indice moyen des prix à la consommation et de la croissance réelle du produit national brut, l'adaptation se fait en fonction du taux de fluctuation de l'indice moyen des prix à la consommation et de la croissance réelle du produit national brut de l'année précédente.
+
+(§ 3. Pour l'année budgétaire 2000, le montant obtenu dans l'année budgétaire précédente, en application du § 2, est adapté au taux de fluctuation de l'indice moyen des prix à la consommation, ainsi qu'à la croissance réelle du produit national brut de l'année budgétaire concernée.
+
+Le montant, obtenu à l'alinéa 1er, est augmenté de la différence entre le montant total de l'augmentation, égale à 160 millions de francs belges, et de la part de cette augmentation, déterminée en application de l'article 58bis, § 4, alinéa 2.
+
+En attendant la fixation définitive de l'indice moyen des prix à la consommation et de la croissance réelle du produit national brut, les montants sont adaptés en fonction du taux de fluctuation de l'indice moyen des prix à la consommation et de la croissance réelle du produit national brut de l'année précédente.) &lt;L 2000-12-22/65, art. 3, 012; En vigueur : 29-01-2001&gt;
+
+(§ 4. Pour l'année budgétaire 2001, le montant obtenu pour l'année budgétaire précédente, en application du § 3, alinéa 1er, est adapté au taux de fluctuation de l'indice moyen des prix à la consommation, ainsi qu'à la croissance réelle du produit national brut de l'année budgétaire concernée.
+
+La différence est fixée entre le montant total de l'augmentation, égale à 195,6 millions de francs belges, après adaptation au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée, d'une part, et la part de cette augmentation, déterminée en application de l'article 58bis, § 5, alinéa 2, d'autre part. Cette différence est ajoutée, après adaptation à la croissance réelle du produit national brut de l'année budgétaire concernée, au montant obtenu à l'alinéa 1er.
+
+En attendant la fixation définitive de l'indice moyen des prix à la consommation et de la croissance réelle du produit national brut, les montants sont adaptés en fonction du taux de fluctuation de l'indice moyen des prix à la consommation et de la croissance réelle du produit national brut de l'année précédente.) &lt;L 2000-12-22/65, art. 3, 012; En vigueur : 29-01-2001&gt;
+
+§ 5. ([<sup>1</sup> A partir de l'année budgétaire 2002 jusqu'à l'année budgétaire 2013 incluse]<sup>1</sup>, le montant obtenu durant l'année budgétaire 2001 en application du § 4 est adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation, ainsi qu'à la croissance réelle du revenu national brut de l'année budgétaire concernée, selon les modalités fixées à l'article 47, § 2, de la loi de financement.) &lt;L 2002-01-07/39, art. 7, 013; En vigueur : 01-01-2002&gt;
+
+(Alinéa 2 abrogé) &lt;L 2002-01-07/39, art. 7, 013; En vigueur : 01-01-2002&gt;
+
+(§ 6. Si la moyenne arithmétique de la croissance réelle annuelle du produit national brut durant la période 1993 à 2004 incluse est inférieure à 2 %, le montant, fixé au § 5, pour l'année budgétaire 2005 est à nouveau fixé, mais, sur la base d'une croissance réelle uniforme de 2 % pendant les années budgétaires 1993 à 2005 incluse.
+
+Si la différence entre le montant fixé à l'alinéa précédent et le montant, fixé au § 5, pour l'année budgétaire 2005 s'élève à plus de 0,25 % du montant fixé pour l'année budgétaire 2004, en vertu du § 5, un montant égal au montant obtenu pour l'année budgétaire 2005, en vertu du § 5, majoré de 0,25 % du montant obtenu pour l'année budgétaire 2004, en vertu du § 5, est pris en considération pour l'année budgétaire 2005.
+
+Si la différence entre le montant fixé à l'alinéa 1er et le montant, fixé au § 5, pour l'année budgétaire 2005 s'élève à moins de 0,25 % du montant déterminé pour l'année budgétaire 2004, en vertu du § 5, le montant fixé à l'alinéa 1er est pris en considération pour l'année budgétaire 2005.) &lt;L 2000-12-22/65, art. 3, 012; En vigueur : 29-01-2001&gt;
+
+[<sup>1</sup> § 7. Pour l'année budgétaire 2014 et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation des montants de base visés aux articles 58nonies et 58decies, le montant obtenu pour l'année budgétaire précédente en application des §§ 5 et 6 est adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée et à la croissance réelle du produit intérieur brut de l'année budgétaire concernée suivant les modalités définies à l'article 33, § 2, de la loi de financement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-19/03, art. 8, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 58quater
+
+&lt;Inséré par L 1993-07-16/31, art. 118, 005; En vigueur : 30-07-1993&gt; Pour l'année budgétaire 1993, un montant supplémentaire est fixé à 25,2 millions de francs.
+
+(Dès l'année budgétaire 1994 et jusqu'à l'année budgétaire 2001), ce montant supplémentaire est adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation, ainsi qu'à la croissance réelle du produit national brut de l'année budgétaire en question, selon les modalités fixées à l'article 58ter, § 3. &lt;L 2002-01-07/39, art. 8, 013; En vigueur : 01-01-2002&gt;
+
+[<sup>1</sup> Pour les années budgétaires 2002 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation des montants de base visés aux articles 58nonies et 58decies, le montant obtenu dans l'année budgétaire 2001 en application de l'alinéa 2 est adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée, ainsi qu'à la croissance réelle du produit intérieur brut de l'année budgétaire concernée, selon les modalités fixées à l'article 33, § 2, de la loi de financement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-19/03, art. 9, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 58quinquies
+
+&lt;L 2000-12-22/65, art. 4, 012; En vigueur : 29-01-2001&gt; § 1er. [<sup>1</sup> Pour les années budgétaires 2001 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation des montants de base visés aux articles 58nonies et 58decies]<sup>1</sup>, une liaison à l'évolution du nombre d'habitants âgés de moins de 18 ans, appartenant à la Communauté germanophone, est introduite.
+
+Le montant de base pour la liaison, visée à l'alinéa 1er, est fixé à 2 451,6 millions de francs belges pour l'année budgétaire 2000.
+
+§ 2. (Pour l'année budgétaire 2001, le montant visé au § 1er est adapté au taux de fluctuation de l'indice moyen des prix à la consommation, selon les modalités fixées à l'article 13, § 2, de la loi de financement.
+
+[<sup>1</sup> Pour les années budgétaires 2002 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation des montants de base visés aux articles 58nonies et 58decies]<sup>1</sup>, le montant obtenu durant l'année budgétaire 2001 en application de l'alinéa 1er est adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation, selon les modalités fixées à l'article 38, § 3, de la loi de financement.) &lt;L 2002-01-07/39, art. 9, 013; En vigueur : 01-01-2002&gt;
+
+§ 3. Le montant obtenu en application du § 2 est multiplié annuellement par un facteur d'adaptation.
+
+Ce facteur d'adaptation s'obtient en déterminant le rapport entre :
+
+1° d'une part, la moyenne arithmétique du nombre d'habitants âgés de moins de 18 ans, appartenant à la Communauté germanophone, au 30 juin des cinq années budgétaires précédentes, diminuée de 20 % de l'augmentation ou, le cas échéant, augmentée de 20 % de la diminution de ce nombre par rapport à la moyenne arithmétique déterminée au 2° ci-après;
+
+2° et, d'autre part :
+
+a) pour l'année budgétaire 2001, la moyenne arithmétique du nombre d'habitants âgés de moins de 18 ans, appartenant à la Communauté germanophone, au 30 juin des années 1995 à 1999 incluse;
+
+b) pour l'année budgétaire 2002, la moyenne arithmétique du nombre d'habitants âgés de moins de 18 ans, appartenant à la Communauté germanophone, au 30 juin des années 1996 à 1999 incluse;
+
+c) pour l'année budgétaire 2003, la moyenne arithmétique du nombre d'habitants âgés de moins de 18 ans, appartenant à la Communauté germanophone, au 30 juin des années 1997 à 1999 incluse;
+
+d) pour l'année budgétaire 2004, la moyenne arithmétique du nombre d'habitants âgés de moins de 18 ans, appartenant à la Communauté germanophone, au 30 juin des années 1998 à 1999 incluse;
+
+e) [<sup>1</sup> pour les années budgétaires 2005 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation des montants de base visés aux articles 58nonies et 58decies]<sup>1</sup>, le nombre d'habitants âgés de moins de 18 ans, appartenant à la Communauté germanophone, à la date du 30 juin 1999.
+
+§ 4. Pour l'application de l'(article 58septies), la différence est calculée entre le montant obtenu en application du § 3 et le montant obtenu en application du § 2. &lt;L 2002-01-07/39, art. 9, 013; En vigueur : 01-01-2002&gt;
+
+§ 5. Le facteur d'adaptation, visé au § 3, est fixé annuellement par le Roi, par arrêté délibéré en Conseil des Ministres, après concertation avec le Gouvernement de la Communauté germanophone.
+
+----------
+
+(1)&lt;L 2014-04-19/03, art. 10, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 58sexies
+
+&lt;Inséré par L 2002-01-07/39, art. 10, 013; En vigueur : 01-01-2002&gt; § 1er. Dès l'année budgétaire 2002, des moyens supplémentaires sont accordés.
+
+§ 2. Les montants suivants sont fixés :
+
+1° pour l'année budgétaire 2002 : un pourcentage du montant de 198.314.819,82 euros;
+
+2° pour l'année budgétaire 2003 : un pourcentage du montant de 148.736.114,86 euros;
+
+3° pour l'année budgétaire 2004 : un pourcentage du montant de 148.736.114,86 euros;
+
+4° pour l'année budgétaire 2005 : un pourcentage du montant de 371.840.287,16 euros;
+
+5° pour l'année budgétaire 2006 : un pourcentage du montant de 123.946.762,39 euros;
+
+6° pour les années budgétaires 2007 jusque 2011 incluse : un pourcentage du montant de 24.789.352,48 euro.
+
+(Le pourcentage visé à l'alinéa 1er est égal au rapport entre, d'une part, le nombre d'élèves appartenant à la Communauté germanophone fixé pour l'année scolaire 2001-2002 selon les mêmes critères que ceux visés à l'article 39, § 2, de la loi de financement et, d'autre part, le nombre total des élèves appartenant à la Communauté française et à la Communauté flamande fixé pour la même année scolaire selon ces mêmes critères.) &lt;L 2002-12-24/32, art. 2, 014; En vigueur : 01-01-2002&gt;
+
+§ 3. Pour l'année budgétaire 2002, le montant total est égal au montant fixé au § 2 pour l'année budgétaire concernée.
+
+Pour chacune des années budgétaires 2003 à 2006 incluse, le montant total est égal au montant fixé au § 2 pour l'année budgétaire concernée, majoré du montant total obtenu pour l'année budgétaire précédente en application de ce paragraphe, après que ce dernier a été adapté au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée, selon les modalités fixées à l'article 38, § 3, de la loi de financement.
+
+Pour chacune des années budgétaires 2007 à 2011 incluse, le montant total est égal au montant fixé au § 2 pour l'année budgétaire concernée, majoré du montant total obtenu pour l'année budgétaire précédente en application de ce paragraphe, après que ce dernier a été adapté au taux de fluctuation de l'indice moyen des prix à la consommation, ainsi qu'au taux de 91 % de la croissance réelle du revenu national brut de l'année budgétaire concernée, selon les modalités fixées à l'article 38, § 3ter, dernier alinéa, de la loi de financement.
+
+[<sup>1</sup> Pour les années budgétaires 2012 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation des montants de base visés aux articles 58nonies et 58decies, le montant total est égal au montant total obtenu pour l'année budgétaire précédente en application de ce paragraphe, après que ce dernier montant a été adapté au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée ainsi qu'à 91 % de la croissance réelle du produit intérieur brut de l'année budgétaire concernée, selon les modalités fixées à l'article 38, § 3ter, alinéa 5, de la loi de financement.]<sup>1</sup>
+
+§ 4. Les moyens supplémentaires visés au § 1er sont fixés comme suit :
+
+1° pour l'année budgétaire 2002 : le montant obtenu en application du § 3, alinéa 1er;
+
+2° pour chacune des années budgétaires 2003 à 2011 incluse, le montant total obtenu en application du § 3, après déduction du montant fixé au § 2 pour l'année budgétaire concernée, est multiplié annuellement par le facteur d'adaptation visé à l'article 58quinquies, § 3.
+
+Le montant obtenu en application de l'alinéa précédent est majoré du montant fixé au § 2 pour l'année budgétaire concernée;
+
+3° [<sup>1</sup> pour les années budgétaires 2012 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation des montants de base visés aux articles 58nonies et 58decies]<sup>1</sup>, le montant total obtenu en application du § 3 est multiplié annuellement par le facteur d'adaptation visé à l'article 58quinquies, § 3.
+
+----------
+
+(1)&lt;L 2014-04-19/03, art. 11, 029; En vigueur : 01-07-2014&gt;
+
+(Art. 58septies).&lt;Inséré par L 2000-12-12/65, art. 5; En vigueur : 29-01-2001&gt; &lt;L 2002-01-07/39, art. 10, 013; En vigueur : 01-01-2002&gt; § 1er. Pour l'année budgétaire 1993, le crédit total prévu au budget de l'Etat, visé à l'article 56, 2, se décompose comme suit :
+
+1° la première quotité de 50 % obtenue en application de l'article 58bis, § 2;
+
+2° le montant obtenu en application de l'article 58ter, § 1er;
+
+3° le montant obtenu en application de l'article 58quater.
+
+§ 2. Des l'année budgétaire 1994 jusqu'en 1999 inclus, le crédit total prévu dans le budget de l'Etat, visé à l'[<sup>1</sup> article 56, 2°]<sup>1</sup>, se décompose comme suit :
+
+1° le montant obtenu en application de l'article 58bis, § 3;
+
+2° le montant obtenu en application de l'article 58ter, § 2;
+
+3° le montant obtenu en application de l'article 58quater;
+
+4° un montant unique non renouvelable de 84 806 657 francs belges pour l'année budgétaire 1999.
+
+§ 3. Pour l'année budgétaire 2000, le crédit total prévu au budget de l'Etat, visé à l'[<sup>1</sup> article 56, 2°]<sup>1</sup>, se décompose comme suit :
+
+1° le montant obtenu en application de l'article 58bis, § 4;
+
+2° le montant obtenu en application de l'article 58ter, § 3;
+
+3° le montant obtenu en application de l'article 58quater;
+
+4° un montant unique non renouvelable de 84 806 658 francs belges pour l'année budgétaire 2000;
+
+5° un montant annuel fixe de 11,1 millions de francs belges.
+
+§ 4. Pour l'année budgétaire 2001, le crédit total prévu au budget de l'Etat, visé à l'[<sup>1</sup> article 56, 2°]<sup>1</sup>, se décompose comme suit :
+
+1° le montant obtenu en application de l'article 58bis, § 5;
+
+2° le montant obtenu en application de l'article 58ter, § 4;
+
+3° le montant obtenu en application de l'article 58quater;
+
+4° le montant obtenu en application de l'article 58quinquies, § 4;
+
+5° un montant unique non renouvelable de 84 806 658 francs belges pour l'année budgétaire 2001;
+
+6° un montant annuel fixe de 11,1 millions de francs belges.
+
+§ 5. (Dès l'année budgétaire 2002 et jusqu'à l'année budgétaire 2006 incluse, le montant total du crédit porté au budget de l'Etat, visé à l'[<sup>1</sup> article 56, 2°]<sup>1</sup>, est constitué comme suit :
+
+1° le montant obtenu en application de l'article 58bis, § 6;
+
+2° le montant obtenu en application de l'article 58ter, § 5, ou, le cas échéant, pour l'année budgétaire 2005, le montant retenu en application de l'article 58ter, § 6;
+
+3° le montant obtenu en application de l'article 58quater;
+
+4° le montant obtenu en application de l'article 58quinquies, § 4;
+
+5° le montant obtenu en application de l'article 58sexies;
+
+6° un montant fixe annuel de 275161,81 euros.) &lt;L 2002-01-07/39, art. 11, 013; En vigueur : 01-01-2002&gt;
+
+(§ 6. [<sup>1</sup> A partir de l'année budgétaire 2007 et jusqu'à l'année budgétaire 2013 incluse]<sup>1</sup>, le montant total du crédit porté au budget de l'Etat, visé à l'[<sup>1</sup> article 56, 2°]<sup>1</sup>, est constitué comme suit :
+
+1° le montant obtenu en application de l'article 58bis, § 7;
+
+2° le montant obtenu en application de l'article 58ter, § 5;
+
+3° le montant obtenu en application de l'article 58quater;
+
+4° le montant obtenu en application de l'article 58quinquies, § 4;
+
+5° le montant obtenu en application de l'article 58sexies;
+
+6° un montant fixe annuel de 275161,81 euros.) &lt;L 2002-01-07/39, art. 11, 013; En vigueur : 01-01-2002&gt;
+
+[<sup>1</sup> § 7. Pour l'année budgétaire 2014 et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation des montants de base visés aux articles 58nonies et 58decies, le montant total de la dotation fédérale générale, visée à l'article 56, 2°, est constitué comme suit :
+
+1° le montant obtenu en application de l'article 58bis, § 7;
+
+2° le montant obtenu en application de l'article 58ter, § 7;
+
+3° le montant obtenu en application de l'article 58quater;
+
+4° le montant obtenu en application de l'article 58quinquies, § 4;
+
+5° le montant obtenu en application de l'article 58sexies;
+
+6° un montant annuel fixe de 275.161,81 euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-19/03, art. 12, 029; En vigueur : 01-07-2014&gt;
+
+### Chapitre IV. - [<sup>1</sup> Des parties attribuées du produit d'impôts]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 13, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 58octies
+
+[<sup>1</sup> Une dotation est accordée à la Communauté germanophone à titre de compensation de la redevance radio et télévision.
+
+Le montant de base de cette dotation est fixé comme la moyenne, pour les années budgétaires 1999 à 2001 incluse, du produit net de la redevance radio et télévision localisée dans la Communauté germanophone, dans le respect du critère de localisation, tel que défini à l'article 5, § 2, 9°, de la loi de financement. Le produit net est exprimé en prix de 2002.
+
+Pour les années budgétaires 2003 à 2014 incluse et pour l'année budgétaire 2015 mais exclusivement pour ce qui concerne la fixation des montants de base visés aux articles 58nonies et 58decies, le montant obtenu en application de l'alinéa 2 est adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation pour l'année budgétaire concernée, selon les modalités fixées à l'article 38, § 3, de la loi de financement.
+
+La dotation visée à l'alinéa 1er est constituée d'une part du produit de l'impôt des personnes physiques fédéral visé à l'article 7 de la loi de financement. ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-19/03, art. 14, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 58novies
+
+[<sup>1</sup> Un montant de base est fixé qui est égal à 50 % de la somme du montant obtenu en application de l'article 58septies, § 7, pour l'année budgétaire 2015 et du montant obtenu en application de l'article 58octies pour l'année budgétaire 2015.
+
+Pour l'année budgétaire 2015, le montant attribué est égal à la somme des montants repris aux 1° et 2° et diminué du montant repris au 3° :
+
+1° le montant de base obtenu en application de l'alinéa 1er;
+
+2° un montant de 303.702 euros;
+
+3° un montant de 2.160.000 euros.
+
+Pour l'année budgétaire 2016, le montant obtenu pour l'année budgétaire 2015 en application de l'alinéa 2, est d'abord adapté au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée et à 91 % de la croissance réelle du produit intérieur brut de l'année budgétaire concernée suivant les modalités définies à l'article 33, § 2, de la loi de financement et ensuite diminué de 2.160.000 euros.
+
+A partir de l'année budgétaire 2017, le montant obtenu pour l'année budgétaire précédente est adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée et à 91 % de la croissance réelle du produit intérieur brut de l'année budgétaire concernée suivant les modalités définies à l'article 33, § 2, de la loi de financement.
+
+Les moyens visés aux alinéas 2 à 4 sont constitués d'une partie du produit de l'impôt des personnes physiques fédéral visé à l'article 7 de la loi de financement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-19/03, art. 15, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 58decies
+
+[<sup>1</sup> Un montant de base est fixé qui est égal à la différence entre les montants mentionnés aux 1° et 2° :
+
+1° le montant égal à la somme du montant obtenu en application de l'article 58septies, § 7, pour l'année budgétaire 2015 et du montant obtenu en application de l'article 58octies pour l'année budgétaire 2015;
+
+2° le montant de base obtenu en application de l'article 58nonies, alinéa 1er.
+
+Pour l'année budgétaire 2015, le montant attribué est égal au montant obtenu par la somme des montants suivants :
+
+1° le montant de base visé à l'alinéa 1er;
+
+2° un montant égal à 1.363.361 euros.
+
+A partir de l'année budgétaire 2016, le montant obtenu pour l'année budgétaire précédente est adapté annuellement au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée et à 91 % de la croissance réelle du produit intérieur brut de l'année budgétaire concernée suivant les modalités définies à l'article 33, § 2, de la loi de financement et ensuite multiplié par le rapport entre le facteur d'adaptation visé à l'alinéa 4, pour l'année budgétaire concernée et le facteur d'adaptation visé à l'alinéa 4, pour l'année budgétaire précédente.
+
+Ce facteur d'adaptation s'obtient en déterminant le rapport entre :
+
+1° d'une part, la moyenne arithmétique du nombre d'habitants âgés de moins de 18 ans, appartenant à la Communauté germanophone, au 30 juin des cinq années budgétaires précédentes, diminuée de 20 % de l'augmentation ou, le cas échéant, augmentée de 20 % de la diminution de ce nombre par rapport au nombre d'habitants déterminé au 2°;
+
+2° et, d'autre part, le nombre d'habitants âgés de moins de 18 ans, appartenant à la Communauté germanophone, au 30 juin 1999.
+
+Le facteur d'adaptation, visé à l'alinéa 4, est fixé annuellement, par arrêté royal délibéré en Conseil des Ministres et pris après concertation avec le gouvernement de la Communauté germanophone.
+
+Les moyens visés aux alinéas 2 et 3, sont constitués d'une partie du produit de la taxe sur la valeur ajoutée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-19/03, art. 16, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 58undecies
+
+[<sup>1</sup> A partir de l'année budgétaire 2015, un montant égal à 3.038.832 euros est annuellement accordé à la Communauté germanophone.
+
+Les moyens visés à l'alinéa 1er sont constitués d'une partie du produit de l'impôt des personnes physiques fédéral visé à l'article 7 de la loi de financement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 17, 029; En vigueur : 01-07-2014&gt;
+
+### Chapitre V. - [<sup>1</sup> Des dotations fédérales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 18, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 58duodecies
+
+[<sup>1</sup> Pour la Communauté germanophone, les dotations visées aux articles 58terdecies à 58octodecies sont inscrites annuellement au budget général des dépenses de l'autorité fédérale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 19, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 58terdecies
+
+[<sup>1</sup> A partir de l'année budgétaire 2015, une dotation est accordée à la Communauté germanophone.
+
+Pour l'année budgétaire 2015, le montant des moyens visés à l'alinéa 1er, est obtenu par la multiplication du montant obtenu en application de l'article 47/5, § 2, alinéas 1er et 2, de la loi de financement par le pourcentage obtenu à l'article 47/5, § 2, alinéa 3, de la loi de financement.
+
+Pour l'établissement des moyens pour l'année budgétaire 2016 et pour chacune des années budgétaires subséquentes, les moyens obtenus pour l'année budgétaire précédente sont annuellement adaptés :
+
+1° au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée, suivant les modalités définies à l'article 38, § 3, de la loi de financement;
+
+2° à l'évolution du nombre d'habitants de 0 à 18 ans inclus de la Communauté germanophone au 1er janvier de l'année budgétaire concernée par rapport à ce nombre au 1er janvier de l'année budgétaire précédente suivant les modalités définies à l'article 47/5, § 2, alinéa 2, 2°, de la loi de financement, le nombre d'habitants de 0 à 18 ans inclus de la Communauté germanophone étant fixé suivant les modalités définies à l'article 47/5, § 5, 4°, de la loi spéciale de financement;
+
+3° à 25 % de la croissance réelle du produit intérieur brut par habitant suivant les modalités définies à l'article 47/5, § 4, 3°, de la loi de financement. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 20, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 58quaterdecies
+
+[<sup>1</sup> Lorsque le Roi, en application de l'article 47/6 de la loi de financement, affecte une partie de l'enveloppe bien-être à la majoration des dotations visées à l'article 47/5 de la même loi, Il affecte également une partie de cette enveloppe à la majoration de la dotation visée à l'article 58terdecies si le taux de participation des jeunes dans l'enseignement supérieur a également augmenté dans la région de langue allemande entre l'année qui précède et la dernière année pour laquelle une partie de l'enveloppe bien-être a été affectée à une majoration de la ou des dotations précitées, ou à défaut l'année 2015.
+
+Le taux de participation dans la région de langue allemande est défini suivant les modalités définies à l'article 47/6, alinéa 2, de la loi de financement.
+
+La majoration de la dotation visée à l'article 58terdecies est égale au montant déterminé par le Roi en application de l'article 47/6 de la loi de financement, multiplié par un coefficient égal à la part de l'augmentation du taux de participation de la Communauté germanophone dans l'augmentation du taux de participation du Royaume, l'augmentation étant observée sur la période visée à l'alinéa 1er, la part dans la majoration qui est attribuée à la Communauté germanophone correspondant à la part de la région de langue allemande dans l'augmentation du taux de participation du Royaume.
+
+Le montant ainsi obtenu est maintenu nominalement constant et ajouté chaque année aux moyens attribués à la Communauté germanophone en vertu de l'article 58terdecies.
+
+L'article 47/6, alinéa 5, de la loi de financement est applicable à la Communauté germanophone, moyennant les adaptations nécessaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 21, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 58quindecies
+
+[<sup>1</sup> A partir de l'année budgétaire 2015, une dotation est accordée à la Communauté germanophone.
+
+Pour l'année budgétaire 2015, le montant des moyens visés à l'alinéa 1er, est obtenu par la multiplication du montant obtenu en application de l'article 47/7, § 2, alinéas 1er et 2, de la loi de financement par le pourcentage obtenu à l'article 47/7, § 2, alinéa 3, de la loi de financement.
+
+Pour l'établissement des moyens pour l'année budgétaire 2016 et pour chacune des années budgétaires subséquentes, les moyens obtenus pour l'année budgétaire précédente sont annuellement adaptés :
+
+1° au taux de fluctuation de l'indice moyen des prix à la consommation de l'année budgétaire concernée, selon les modalités définies à l'article 38, § 3, de la loi de financement;
+
+2° à l'évolution du nombre d'habitants âgés de plus de 80 ans dans la Communauté germanophone au 1er janvier de l'année budgétaire concernée par rapport à ce nombre au 1er janvier de l'année budgétaire précédente, suivant les modalités fixées à l'article 47/5, § 2, alinéa 2, 2°, de la loi de financement, le nombre d'habitants âgés de plus de 80 ans étant fixé suivant les modalités définies à l'article 47/7, § 5, 4°, de la loi de financement;
+
+3° à un pourcentage de la croissance réelle du produit intérieur brut par habitant de l'année budgétaire concernée, suivant les modalités fixées à l'article 47/5, § 4, 3°, de la loi de financement, le pourcentage étant fixé suivant les modalités définies à l'article 47/7, § 4, alinéa 2, de la loi de financement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 22, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 58sexdecies
+
+[<sup>1</sup> A partir de l'année budgétaire 2015, une dotation est accordée à la Communauté germanophone dont le montant de base est égal à 5.695.663 euros.
+
+Pour la fixation de la dotation à partir de l'année budgétaire 2016, l'article 47/8, alinéas 3 et 4, de la loi de financement est applicable à la Communauté germanophone, moyennant les adaptations nécessaires.
+
+Pour l'application de l'alinéa 2, le nombre d'habitants de la Communauté germanophone est égal au nombre d'habitants appartenant à la région de langue allemande.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 23, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 58septiesdecies
+
+[<sup>1</sup> A partir de l'année budgétaire 2016, une dotation est accordée à la Communauté germanophone en raison de ses compétences en matière de financement des infrastructures hospitalières et des services médico-techniques.
+
+A partir de l'année budgétaire 2016, le montant des moyens visés à l'alinéa 1er, est obtenu par la multiplication de la première partie obtenue en application de l'article 47/9, § 3, alinéa 1er, de la loi de financement pour l'année budgétaire concernée par le pourcentage obtenu à l'article 47/9, § 3, alinéa 2, de la loi de financement pour l'année budgétaire concernée.
+
+L'article 47/9, §§ 4 et 5, de la loi de financement est applicable à la Communauté germanophone moyennant les adaptations nécessaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 24, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 58octodecies
+
+[<sup>1</sup> A partir de l'année budgétaire 2015, une dotation est accordée à la Communauté germanophone dont le montant de base est égal à 602.058 euros.
+
+L'article 47/10, alinéas 2 et 3, de la loi de financement est applicable à la Communauté germanophone moyennant les adaptations nécessaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 25, 029; En vigueur : 01-07-2014&gt;
+
+### Chapitre VI. -[<sup>1</sup> Du mécanisme de transition]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 26, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 58novodecies
+
+[<sup>1</sup> § 1er. A titre transitoire, pour l'année budgétaire 2015 pour la Communauté germanophone, un montant de transition est fixé, étant la somme :
+
+1° du montant résultant de la différence pour l'année budgétaire 2015 entre :
+
+a) le montant obtenu en application de l'article 58terdecies, alinéa 2, et;
+
+b) le montant résultant de la multiplication du montant obtenu en application de l'article 47/5, § 2, alinéas 1er et 2, de la loi de financement par 0,5182 %;
+
+2° du montant résultant de la différence pour l'année budgétaire 2015 entre :
+
+a) le montant obtenu en application de l'article 58quindecies, alinéa 2, et
+
+b) le montant résultant de la multiplication du montant obtenu en application de l'article 47/7, § 2, alinéas 1er et 2, de la loi de financement par 0,6637 %;
+
+3° du montant résultant de la différence pour l'année budgétaire 2015 entre :
+
+a) le montant fixé à l'article 58sexdecies, alinéa 1er, et
+
+b) un montant égal à 3.131.339 euros;
+
+4° du montant résultant de la différence pour l'année budgétaire 2015 entre :
+
+a) le montant fixé à l'article 58octodecies, alinéa 1er, et
+
+b) un montant égal à 503.802 euros.
+
+Le montant de transition fixé conformément à l'alinéa 1er, restera nominalement constant durant les années 2015 jusqu'à 2024 incluse, puis, à partir de 2025 jusqu'à 2034 incluse, sera réduit linéairement sur dix ans jusqu'à zéro.
+
+§ 2. Toutefois, à partir de l'année budgétaire 2016, au montant de transition fixé au § 1er est ajouté le montant qui correspond à la différence, pour l'année budgétaire 2016, entre :
+
+a) le montant obtenu en application de l'article 58septdecies, alinéa 2, diminué du montant des financements assurés par l'autorité fédérale pour la Communauté germanophone conformément à l'article 47/9, § 4, de la loi de financement et;
+
+b) le montant fixé par l'article 47/9, § 2, alinéa 1er, de la loi de financement, diminué du montant des financements assurés par l'autorité fédérale pour les trois communautés et la Commission Communautaire Commune conformément à l'article 47/9, § 4, de la loi de financement et multiplié par 0,5399 %.
+
+Le montant ajouté conformément au § 2 restera nominalement constant durant les années 2016 jusqu'à 2024 incluse et, à partir de 2025 jusqu'à 2034 incluse, sera réduit linéairement sur dix ans jusqu'à zéro.
+
+§ 3. Si le montant de transition est positif, le montant obtenu par application du § 1er, pour l'année 2015 et du § 2, pour les années 2016 et suivantes, est durant la période de 2015 jusqu'à 2033 incluse annuellement porté en déduction des moyens visés à l'article 58nonies.
+
+Si le montant de transition est négatif, la valeur absolue du montant obtenu par application du § 1er, pour l'année 2015 et du § 2, pour les années 2016 et suivantes, est durant la période de 2015 jusqu'à 2033 incluse annuellement ajouté aux moyens visés à l'article 58nonies.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 27, 029; En vigueur : 01-07-2014&gt;
+
+### Chapitre VIbis. [<sup>1</sup> - Des moyens financiers divers]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-12-26/57, art. 2, 032; En vigueur : 01-01-2015&gt;
+
+###### Art. 58vicies
+
+[<sup>1</sup> § 1er. Pour l'année budgétaire 2015, un montant égal à 3 000 000 euros est accordé à la Communauté germanophone.
+
+§ 2. A partir de l'année budgétaire 2016, un montant égal à 7 000 000 euros est accordé à la Communauté germanophone.
+
+Les moyens visés à l'alinéa 1er sont inscrits annuellement au budget général des dépenses de l'autorité fédérale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-12-26/57, art. 3, 032; En vigueur : 01-01-2015&gt;
+
+### Chapitre VII. - [<sup>1</sup> Des emprunts]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 28, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 59
+
+[<sup>1</sup> L'article 49 de la loi de financement est applicable à la Communauté germanophone, moyennant les adaptations nécessaires. ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-19/03, art. 29, 029; En vigueur : 01-07-2014&gt;
+
+### Chapitre VIII. - [<sup>1</sup> Dispositions d'organisation budgétaire et financière]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 30, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 60
+
+[<sup>1</sup> Les articles 50 à 53 et 54, § 1er, alinéas 1er, 4 et 5, et § 2, de la loi de financement sont applicables à la Communauté germanophone, moyennant les adaptations nécessaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-19/03, art. 31, 029; En vigueur : 01-07-2014&gt;
+
+### Chapitre IX. - [<sup>1</sup> Dispositions diverses]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 32, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 60bis
+
+[<sup>1</sup> Un montant correspondant à 0,8428 % du montant obtenu en application de l'article 62bis, alinéa 1er, de la loi de financement est attribué à la Communauté germanophone.
+
+L'article 62bis, alinéa 4, de la loi de financement est applicable à la Communauté germanophone, moyennant les adaptations nécessaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-19/03, art. 33, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 60ter
+
+[<sup>1</sup> A partir des élections pour les parlements de communauté et de région en 2014, un montant équivalent à l'indemnité qu'un sénateur désigné par le Parlement wallon perçoit, est annuellement attribué à la Communauté germanophone.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-19/03, art. 34, 029; En vigueur : 25-05-2014&gt;
+
+###### Art. 60quater
+
+[<sup>1</sup> Pour les années budgétaires 2015 et suivantes, la Communauté germanophone est redevable d'une contribution de responsabilisation pour la pension de ses fonctionnaires.
+
+Pour les années budgétaires 2015 jusqu'à 2020 incluse, la contribution de responsabilisation est déterminée comme suit :
+
+2015 881.347 euros
+
+2016 978.547 euros
+
+20171.075.746 euros
+
+20181.172.946 euros
+
+20191.270.145 euros
+
+20201.367.345 euros.
+
+L'article 65quinquies, § 1er, alinéa 3 et 4, §§ 2 et 3, de la loi de financement est applicable à la Communauté germanophone, moyennant les adaptations nécessaires, pour la détermination de la contribution de responsabilisation à partir de l'année budgétaire 2021.
+
+Les montants visés à l'alinéa 2 et les montants fixés en application de l'alinéa 3 sont portés en déduction des moyens visés à l'article 58nonies.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 35, 029; En vigueur : 01-01-2015&gt;
+
+###### Art. 60quinquies
+
+[<sup>1</sup> L'article 61, §§ 1er, 3 et 8, de la loi de financement est applicable à la Communauté germanophone, moyennant les adaptations nécessaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 36, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 60sexies
+
+[<sup>1</sup> § 1er. L'article 68quinquies, § 1er, de la loi de financement est applicable à la Communauté germanophone, moyennant les adaptations nécessaires.
+
+§ 2. Les dépenses effectuées par les institutions chargées au plus tard jusqu'au 31 décembre 2019 de la gestion administrative et du paiement des allocations familiales conformément à l'article 94, § 1erbis, de la loi spéciale qui sont à charge de la Communauté germanophone, sont imputées chaque année sur les dotations visées aux articles 58terdecies et 58sexdecies.
+
+Il est tenu compte de l'estimation de ces dépenses pour le versement des acomptes prévu à l'article 54, § 1er, alinéa 5, de la loi de financement.
+
+§ 3. La rémunération visée à l'article 94, § 1erter, de la loi spéciale s'élève à 80 % des interventions personnelles pour des prestations de soins visées à l'article 5, § 1er, I, alinéa 1er, 3° à 5°, de la loi spéciale. Elle est due par la Communauté germanophone lorsque les bénéficiaires sont inscrits au registre de la population d'une commune de la région de langue allemande. Cette rémunération est portée en déduction de la dotation visée à l'article 58quindecies.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 37, 029; En vigueur : 01-07-2014&gt;
+
+## TITRE VI. - De la prévention et du règlement des conflits.
+
+### CHAPITRE I. - Des conflits de compétence.
+
+###### Art. 61
+
+&lt;Disposition modificative de l'art. 61 de AR 12-01-1973&gt;
+
+###### Art. 62
+
+&lt;Disposition modificative de l'art. 51bis de AR 12-01-1973&gt;
+
+###### Art. 63
+
+&lt;Disposition modificative de l'art. 73, § 3, de AR 12-01-1973&gt;
+
+###### Art. 64
+
+&lt;Disposition modificative de l'art. 50bis de AR 12-01-1973&gt;
+
+###### Art. 65
+
+&lt;Disposition modificative de l'art. 52, L 5 de L 28-06-1983&gt;
+
+###### Art. 66
+
+&lt;Disposition modificative de l'art. 96, 2° de L 28-06-1983&gt;
+
+### CHAPITRE II. - Des conflits d'intérêts.
+
+###### Art. 67
+
+(Abrogé) &lt;L 2007-03-20/51, art. 3, 018; En vigueur : 23-06-2007&gt;
+
+## TITRE VII. - Emploi des langues.
+
+### CHAPITRE I. - Des services de le (Gouvernement). &lt;L 2006-03-27/34, art. 35, 017; En vigueur : 21-04-2006&gt;
+
+###### Art. 68
+
+Les dispositions du présent titre sont applicables aux services centralises et décentralisés (du gouvernement) dont l'activité s'étend à tout ou partie du territoire de la région de langue allemande. &lt;L 1993-07-16/31, art. 122, 005; En vigueur : 30-07-1993&gt;
+
+###### Art. 69
+
+§ 1. Les services mentionnés à l'article 68 sont soumis au régime linguistique imposé par les lois coordonnées sur l'emploi des langues en matière administrative aux services locaux des communes de la région de langue allemande.
+
+Toutefois les avis, communications et formulaires destinés au public sont rédigés en allemand. Néanmoins à la demande de l'intéressé, il lui est délivré un formulaire en français.
+
+§ 2. Dans les services mentionnés à l'article 68, nul ne peut être nommé ou promu à un emploi s'il n'a une connaissance de l'allemand constatée conformément à l'article 15, § 1er, des lois coordonnées sur l'emploi des langues en matière administrative.
+
+§ 3. Les services sont organisés de manière telle qu'ils puissent respecter, sans la moindre difficulté, les dispositions du § 1er.
+
+### CHAPITRE II. - Des sanctions et du contrôle.
+
+###### Art. 70
+
+Les dispositions des chapitres VII et VIII des lois coordonnées sur l'emploi des langues en matière administrative sont applicables aux services visés au chapitre I.
+
+###### Art. 71
+
+Le secrétaire permanent au recrutement est seul compétent pour délivrer des certificats en vue d'attester les connaissances linguistiques exigées par l'article 69.
+
+### CHAPITRE III. - Disposition finale.
+
+###### Art. 72
+
+Les dispositions des chapitres I et II entrent en vigueur le jour de la reprise par (le gouvernement) de la Communauté germanophone du personnel et des services visés à l'article 54. &lt;L 1993-07-16/31, art. 122, 005; En vigueur : 30-07-1993&gt;
+
+## TITRE VIII. - Disposition en vue de prévenir toute discrimination pour des raisons idéologiques ou philosophiques.
+
+###### Art. 73
+
+Une motion motivée, signée par au moins trois membres du (Parlement) et introduite après le dépôt du rapport et avant le vote final en séance publique, peut déclarer que les dispositions d'un projet ou d'une proposition de décret qu'elle désigne et dont le (Parlement) est saisi, contiennent une discrimination pour des raisons idéologiques ou philosophiques. &lt;L 2006-03-27/34, art. 36, 017; En vigueur : 21-04-2006&gt;
+
+###### Art. 74
+
+La motion est envoyée à un collège composé des présidents de la Chambre des Représentants, du Sénat, du (Parlement de la Communauté française et du Parlement flamand, ainsi que du président du Parlement). &lt;L 2006-03-27/34, art. 37, 017; En vigueur : 21-04-2006&gt;
+
+Ce collège est alternativement présidé par le président du Sénat et par le président de la Chambre des Représentants.
+
+Le collège statue sur la recevabilité de la motion, eu égard aux dispositions de l'article 73.
+
+La décision de recevabilité suspend l'examen des dispositions incriminées.
+
+Dans ce cas, le projet ou la proposition de décret ainsi que la motion sont déférés aux Chambres législatives qui statuent sur la motion quant au fond.
+
+###### Art. 75
+
+L'examen des dispositions désignées par la motion ne peut être repris par le (Parlement) qu'après que chacune des Chambres législatives a déclaré la motion non fondée. &lt;L 2006-03-27/34, art. 38, 017; En vigueur : 21-04-2006&gt;
+
+## TITRE IX. - De la traduction des lois, arrêtés et règlements.
+
+###### Art. 76
+
+(Abrogé) &lt;L 2007-04-21/95, art. 4, 023; En vigueur : 01-01-2009&gt;
+
+###### Art. 77
+
+(Abrogé) &lt;L 2007-04-21/95, art. 5, 023; En vigueur : 01-01-2009&gt;
+
+## TITRE X. - Dispositions finales.
+
+###### Art. 78
+
+&lt;L 1990-07-18/30, art. 17, 003; En vigueur : 01-01-1989&gt; Le (Parlement) donne un avis motivé sur toute modification des lois et arrêtés réglementaires applicables à la région de langue allemande et relatifs à l'emploi des langues pour les matières administratives, (...), les relations sociales entre les employeurs et leur personnel, ainsi que les actes et documents des entreprises imposés par la loi et les règlements. Il donne un avis motivé sur toute modification de la présente loi et des arrêtés réglementaires y relatifs. A cette fin, les Ministres soumettent au (Parlement) tous les avant-projets de loi et projets d'arrêtés réglementaires y relatifs. Le président d'une des Chambres législatives ou un Ministre soumet, à cet effet, au (Parlement) toutes les propositions de loi et tous les amendements de projets ou propositions de loi y relatifs. L'absence d'un avis dans les soixante jours à compter de la date à laquelle le (Parlement) est saisi de la demande, vaut avis favorable. &lt;L 2006-03-27/34, art. 39, 017; En vigueur : 21-04-2006&gt; &lt;L 2007-03-20/54, art. 2, 021; En vigueur : 23-06-2007&gt;
+
+###### Art. 79
+
+(Abrogé) &lt;L 2007-03-20/54, art. 3, 021; En vigueur : 23-06-2007&gt;
+
+###### Art. 80
+
+&lt;disposition modificative de l'article 105, deuxième alinéa, de la loi organique du 8 juillet 1976 concernant les centres publics d'aide sociale&gt;
+
+###### Art. 81
+
+Sous réserve de l'article 52, §§ 2 et 3, les autorités chargées d'attributions par les lois et règlements dans les matières relevant de la compétence de la Communauté germanophone continuent d'exercer ces attributions selon les procédures fixées par les règles existantes tant que celles-ci n'auront pas été modifiées ou abrogées par le (Parlement) ou par (le gouvernement) de cette Communauté. &lt;L 1993-07-16/31, art. 122, 005; En vigueur : 30-07-1993&gt; &lt;L 2006-03-27/34, art. 40, 017; En vigueur : 21-04-2006&gt;
+
+###### Art. 82
+
+&lt;Inséré par L 1990-07-18/30, art. 18, 003; En vigueur : 01-01-1989&gt; L'article 46 de la loi ordinaire du 9 août 1980 de réformes institutionnelles est applicable à la Communauté germanophone, moyennant les adaptations nécessaires.
+
+###### Art. 83
+
+&lt;Inséré par L 1990-07-18/30, art. 19, 003; En vigueur : 01-01-1989&gt; Par arrêté délibéré en Conseil des Ministres, pris de l'accord (du gouvernement) de la Communauté germanophone, le Roi peut coordonner, en tout ou en partie, les dispositions légales prises en vertu (des articles 115, § 1er, alinéa 2, 116, § 1er, 120, 121, § 1er, alinéa 2, 130, 131, 132, 140 et 176) de la Constitution. &lt;L 1993-07-16/31, art. 122, 005; En vigueur : 30-07-1993&gt; &lt;L 2007-03-20/52, art. 7, 019; En vigueur : 23-06-2007&gt;
+
+A cette fin, Il peut :
+
+1\. modifier l'ordre, le numérotage et, en général, la présentation des dispositions à coordonner;
+
+2\. modifier les références qui seraient contenues dans les dispositions à coordonner en vue de les mettre en concordance avec le numérotage nouveau;
+
+3\. modifier la rédaction des dispositions à coordonner en vue d'assurer leur concordance et d'en harmoniser la terminologie sans qu'il puisse être porté atteinte aux principes inscrits dans ces dispositions.
+
+Les dispositions coordonnées porteront l'intitulé suivant : " Loi relative à la Communauté germanophone, coordonnée le ...
+
+[<sup>1</sup> 4. remplacer les formules et les principes exprimés qui ont mené à un montant de base ou un pourcentage de base, par le montant de base numérique ou le pourcentage de base numérique, sans pour autant modifier le résultat.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-19/03, art. 38, 029; En vigueur : 01-07-2014&gt;
+
+## TITRE XI. - Dispositions abrogatives. &lt;Inséré par L 1990-07-18/30, art. 20, 003; En vigueur : 01-01-1989&gt;
+
+###### Art. 84
+
+&lt;Inséré par L 1990-07-18/30, art. 21, 003; En vigueur : 01-01-1989&gt; Les articles 1er à 15 de la loi ordinaire du 9 août 1980 de réformes institutionnelles sont abrogés, sauf s'ils sont nécessaires au paiement des ristournes dues par l'Etat au 31 décembre 1988.
+
+## TITRE XII. - Dispositions transitoires. &lt;Inséré par L 1990-07-18/30, art. 22, 003; En vigueur : 01-01-1989&gt;
+
+###### Art. 85
+
+&lt;Inséré par L 1990-07-18/30, art. 23, 003; En vigueur : 01-01-1989&gt; L'article 96 de la loi spéciale est applicable à la Communauté germanophone, moyennant les adaptations nécessaires.
+
+###### Art. 86
+
+&lt;Inséré par L 1990-07-18/30, art. 24, 003; En vigueur : 01-01-1989&gt; § 1. [<sup>1</sup> Les articles 71, 73, §§ 2 à 4, 75, §§ 1er, 1erquater et 2, et 77 de la loi de financement sont applicables à la Communauté germanophone, moyennant les adaptations nécessaires.]<sup>1</sup>
+
+§ 2. Au moment de l'entrée en vigueur de la présente loi, la Communauté germanophone succède aux obligations du Fonds des bâtiments scolaires de l'Etat et du Fonds des bâtiments scolaires provinciaux et communaux pour autant qu'elles se rapportent à la Communauté germanophone.
+
+----------
+
+(1)&lt;L 2014-04-19/03, art. 39, 029; En vigueur : 01-01-2014&gt;
+
+###### Art. 87
+
+&lt;Inséré par L 1990-07-18/30, art. 25, 003; En vigueur : 01-01-1989&gt; § 1. Les décisions qui, du 1er au 17 janvier 1989, ont été prises par les (autorités fédérales) relativement à des matières qui, à partir du 1er janvier 1989 ont été attribuées à la Communauté germanophone par la Constitution ou en vertu de celle-ci, sont réputées avoir été prises par les autorités de la Communauté germanophone. &lt;L 1993-07-16/31, art. 122, 005; En vigueur : 30-07-1993&gt;
+
+§ 2. Les décisions qui, du 1er janvier 1989 au jour de la publication de la présente loi, ont été prises par les (autorités fédérales) relativement à des matières qui ont été attribuées à la Communauté germanophone par la présente loi, sont réputées avoir été prises par les autorités de la Communauté germanophone. &lt;L 1993-07-16/31, art. 122, 005; En vigueur : 30-07-1993&gt;
+
+###### Art. 88
+
+&lt;Inséré par L 1990-07-18/30, art. 26, 003; En vigueur : 01-01-1989&gt; § 1. Les moyens qui sont transférés en 1989 à la Communauté germanophone en vertu de la présente loi, sont diminués à concurrence du montant des dépenses relatives à l'enseignement et effectuées par le pouvoir national pour compte (du gouvernement) de la Communauté germanophone en vertu des lois octroyant les crédits provisoires pour l'année 1989. &lt;L 1993-07-16/31, art. 122, 005; En vigueur : 30-07-1993&gt;
+
+§ 2. Les moyens transférés en 1989 à la Communauté germanophone en vertu de la présente loi sont diminués à concurrence du montant des dépenses effectuées en application de l'article 87, § 2, sauf s'il s'agit de dépenses qui restent, en vertu de la présente loi, à charge du pouvoir national. Le Roi fixe ces réductions par arrêté délibéré en Conseil des Ministres, après concertation avec (le gouvernement). &lt;L 1993-07-16/31, art. 122, 005; En vigueur : 30-07-1993&gt;
+
+###### Art. 89
+
+&lt;Inséré par L 2002-01-07/39, art. 16; En vigueur : 01-01-2002&gt; L'article 88, § 3bis, alinéa 1er, de la loi spéciale du 8 août 1980 de réformes institutionnelles est applicable à la Communauté germanophone, moyennant les adaptations nécessaires.
+
+###### Art. 90
+
+[<sup>1</sup> Pour l'année budgétaire 2014, un montant égal à 453.432 euros est déduit de la dotation générale visée à l'article 58septies à partir du 1er juillet 2014.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-19/03, art. 40, 029; En vigueur : 01-07-2014&gt;
+
+###### Art. 91
+
+[<sup>1</sup> Le bureau élu le 19 septembre 2016 constitue, pour la durée restante de la législature 2014-2019, le bureau définitif au sens de l'article 43.1., § 1er, alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCG 2016-05-30/10, art. 8, 031; En vigueur : 16-07-2016&gt;
