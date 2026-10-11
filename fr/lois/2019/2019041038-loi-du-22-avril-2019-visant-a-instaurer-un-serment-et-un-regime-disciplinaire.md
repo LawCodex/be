@@ -1,0 +1,372 @@
+---
+title: "[ Loi du 22 avril 2019 visant à instaurer un serment et un régime disciplinaire bancaires] <L 2023-12-20/08 , art. 63 , 002; En vigueur : 15-01-2025; 15-07-2026>"
+identifier: "2019041038"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/22/2019041038/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2019-04-22
+published: 2019-05-02
+entry_into_force: 2026-07-15
+last_amended: 2025-12-24
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/22/2019041038/justel"
+department: "Finances"
+justel_note: "Consultation des versions antérieures à partir du 02-05-2019 et mise à jour au 24-12-2025"
+retrieved: 2026-10-11
+---
+
+# 22 AVRIL 2019. - [ Loi du 22 avril 2019 visant à instaurer un serment et un régime disciplinaire bancaires] &lt;L 2023-12-20/08 , art. 63 , 002; En vigueur : 15-01-2025; 15-07-2026&gt;
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Chapitre Ier. [<sup>1</sup> Définitions et champ d'application]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 64, 002; En vigueur : 15-07-2026&gt;
+
+### Art. 2
+
+[<sup>1</sup> Pour l'application de la présente loi et des arrêtés et règlements pris pour son exécution, l'on entend par :
+
+1° "loi du 25 avril 2014": loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit ;
+
+2° "loi du 22 mars 2006": loi du 22 mars 2006 relative à l'intermédiation en services bancaires et en services d'investissement et à la distribution d'instruments financiers ;
+
+3° "loi du 2 août 2002": loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers" ;
+
+4° "établissement de crédit": une entreprise qui dispose du statut d'établissement de crédit tel que défini à l'article 1er, § 3, alinéa 1er, 1°, de la loi du 25 avril 2014 ;
+
+5° "agents en services bancaires et en services d'investissement": les intermédiaires en services bancaires et d'investissement visés à l'article 4, 3° de la loi du 22 mars 2006, et inscrits au registre des intermédiaires en services bancaires et en services d'investissement tenu par la FSMA ;
+
+6° "entité visée": tout établissement de crédit ou agent en services bancaires et en services d'investissement visé à l'article 3 ;
+
+7° "cadre responsable": toute personne physique qui, au sein d'une entité visée, assume de facto la responsabilité à l'égard de personnes qui prennent directement part à l'exercice, sur le territoire belge, d'activités bancaires ou de la prestation de services bancaires ou exerce le contrôle sur de telles personnes ;
+
+8° "activités bancaires" ou "services bancaires": activités à l'article 4 de la loi du 25 avril 2014 ;
+
+9° "la FSMA": l'Autorité des services et marchés financiers ;
+
+10° "la BNB": la Banque nationale de Belgique, visée par la loi du 22 février 1998 fixant le statut organique de la Banque nationale de Belgique ;
+
+11° "autorité de contrôle prudentiel": la Banque nationale de Belgique ou la Banque centrale européenne selon les répartitions de compétences prévues par ou en vertu du Règlement (UE) n° 1024/2013 du Conseil du 15 octobre 2013 confiant à la Banque centrale européenne des missions spécifiques ayant trait aux politiques en matière de contrôle prudentiel des établissements de crédit ;
+
+12° "l'auditeur": l'auditeur de la FSMA, désigné conformément à l'article 70, § 3, de la loi du 2 août 2002 ;
+
+13° "l'auditeur adjoint": l'auditeur adjoint de la FSMA, désigné conformément à l'article 70, § 3 de la loi du 2 août 2002 ;
+
+14° "directive CRD": la directive 2013/36/UE du Parlement européen et du Conseil du 26 juin 2013 concernant l'accès à l'activité des établissements de crédit et la surveillance prudentielle des établissements de crédit et des entreprises d'investissement, modifiant la directive 2002/87/CE et abrogeant les directives 2006/48/CE et 2006/49/CE.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 65, 002; En vigueur : 15-07-2026&gt;
+
+### Art. 3
+
+[<sup>1</sup> La présente loi s'applique aux personnes énumérées à l'article 4, actives en Belgique auprès des établissements suivants :
+
+1° les établissements de crédit relevant du droit belge ;
+
+2° les établissements de crédit relevant du droit d'un autre Etat membre de l'Espace économique européen ayant établi une succursale en Belgique et/ou recourant à des agents liés établis en Belgique pour y fournir des services d'investissement et/ou y exercer des activités d'investissement, visés à l'article 312, §§ 2 et 5 de la loi du 25 avril 2014 ;
+
+3° les établissements de crédit relevant du droit de pays tiers ayant établi une succursale en Belgique, visés à l'article 333 de la loi du 25 avril 2014 ;
+
+4° les agents en services bancaires et en services d'investissement, agissant au nom et pour le compte d'un établissement de crédit visé au 1°, 2° ou 3°.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 66, 002; En vigueur : 15-07-2026&gt;
+
+## Chapitre II. [<sup>1</sup> Serment bancaire et règles de conduite individuelles]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 67, 002; En vigueur : 15-07-2026&gt;
+
+### Art. 4
+
+[<sup>3</sup> § 1er. Les personnes suivantes prêtent serment :
+
+1° les personnes qui, au sein d'une entité visée doivent disposer en permanence de l'honorabilité professionnelle nécessaire et de l'expertise adéquate à l'exercice de leur fonction conformément à la loi du 25 avril 2014 ou à la loi du 22 mars 2006 ;
+
+2° les cadres responsables ;
+
+3° les agents en services bancaires et en services d'investissement inscrits auprès de la FSMA en qualité de personne physique ;
+
+4° toute autre personne qui, au sein d'une entité visée, prend directement part, sur le territoire belge, à l'exercice d'activités bancaires ou y fournit des services bancaires.
+
+Pour les besoins de la présente loi et des arrêtés et règlements pris pour son exécution, les personnes visées à l'alinéa 1er sont dénommées "prestataires de services bancaires".
+
+Les établissements de crédit visés à l'article 3, 1° à 3° établissent la liste des prestataires de services bancaires exerçant en leur sein ou pour leur compte et la notifient, ainsi que toute actualisation, à la FSMA, selon les modalités que la FSMA détermine et rend publiques sur son site web. La liste précise, pour chaque prestataire de services bancaires, la ou les catégories visées à l'alinéa 1er à laquelle ou auxquelles il appartient, et, le cas échéant, la date à laquelle il a prêté serment.
+
+§ 2. Le serment est une déclaration individuelle par laquelle celui qui la prononce s'engage à respecter les règles énoncées au paragraphe 3.
+
+Le serment est prêté en ces termes :
+
+"Je m'engage, dans l'exercice de mes activités professionnelles, à agir en toutes circonstances de manière honnête et intègre, avec compétence et professionnalisme, en tenant compte des intérêts des clients et en les traitant de manière équitable. J'ai pris connaissance des règles particulières édictées par le Roi à cet égard."
+
+Le serment est prêté, selon les cas, auprès de l'entité visée ou auprès de la FSMA, selon les modalités et dans le délai définis conformément à l'alinéa 4.
+
+[<sup>1</sup> La FSMA précise, dans un règlement pris en exécution de l'article 64 de la loi du 2 août 2002, les règles et modalités liées à la prestation du serment, en ce compris le délai endéans lequel le serment doit être prêté.]<sup>1</sup>
+
+§ 3. Dans l'exercice de leurs fonctions, les prestataires de services bancaires sont tenus de respecter en permanence les principes et règles suivantes :
+
+1° ils agissent de manière honnête et intègre ;
+
+2° ils agissent avec compétence et professionnalisme ;
+
+3° ils agissent en tenant compte des intérêts des clients et en les traitant de manière équitable.
+
+Ces principes et règles sont ci-après, et dans les arrêtés et règlements pris en exécution de la présente loi, désignés sous le vocable "règles de conduite individuelles".
+
+[<sup>1</sup> Le Roi, sur proposition de la FSMA ou, d'initiative, sur avis de celle-ci, et après avis de la Banque nationale de Belgique et consultation des entités visées concernées représentées par leurs associations professionnelles, précise, par arrêté délibéré en Conseil des ministres, le contenu des règles de conduite individuelles. Le Roi peut également, selon les mêmes modalités, définir des règles de conduite individuelles spécifiques pour les personnes visées à l'article 4, § 1er, 1° et/ou pour les cadres responsables.]<sup>1</sup>]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 68, 002; En vigueur : 15-01-2024&gt;
+
+(2)&lt;L 2023-12-20/08, art. 68, 002; En vigueur : 15-01-2025&gt;
+
+(3)&lt;L 2023-12-20/08, art. 68, 002; En vigueur : 15-07-2026&gt;
+
+## Chapitre III. [<sup>1</sup> Contrôle et sanctions disciplinaires]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 69, 002; En vigueur : 15-07-2026&gt;
+
+### Art. 5
+
+[<sup>3</sup> § 1er. L'auditeur, ou en son absence, l'auditeur adjoint, examine les indices sérieux de manquements aux règles visées à l'article 4, §§ 1er ou 3, ou aux arrêtés et règlements pris pour leur exécution :
+
+\- sur plainte, ou
+
+\- lorsque de tels indices sont constatés dans l'exercice des autres missions légales de la FSMA.
+
+[<sup>4</sup> Lorsque la FSMA constate, dans l'exercice de ses missions légales, qu'il existe des indices sérieux de l'existence d'une infraction à l'obligation de prêter serment conformément à l'article 4, § 1er, alinéa 1er, le comité de direction charge l'auditeur ou, en son absence, l'auditeur adjoint, d'instruire le dossier conformément au présent article.]<sup>4</sup>
+
+§ 2. La FSMA met en place des mécanismes pour permettre à toute personne de porter à la connaissance de l'auditeur ou, en son absence, de l'auditeur adjoint, une plainte relative à l'application, par les prestataires de services bancaires, des règles visées à l'article 4, §§ 1er ou 3, ou des arrêtés et règlements pris pour son exécution.
+
+[<sup>1</sup> La FSMA précise, dans un règlement pris en exécution de l'article 64 de la loi du 2 août 2002, les règles et modalités liées à la réception, la recevabilité et au traitement des plaintes.]<sup>1</sup>
+
+§ 3. Aux fins de l'exercice de la mission visée au paragraphe 1er, l'auditeur ou, en son absence, l'auditeur adjoint, peut :
+
+1° exercer les pouvoirs visés aux articles 34 et 35 de la loi du 2 août 2002 ;
+
+2° exercer les pouvoirs visés à l'article 79 de la loi du 2 août 2002, selon les modalités prévues par cet article.
+
+Le cas échéant, l'auditeur ou, en son absence, l'auditeur adjoint, peut solliciter un avis auprès de l'entité visée concernée.
+
+Les articles 36 et 37 de la loi du 2 août 2002 sont applicables en cas de manquement aux obligations imposées en vertu de l'alinéa 1er.
+
+Les membres du personnel qui assistent l'auditeur ou, en son absence, l'auditeur adjoint, pour l'accomplissement de la mission visée au paragraphe 1er ne reçoivent, pour l'accomplissement de leurs tâches, d'instructions que d'eux.
+
+L'auditeur et l'auditeur adjoint exercent leur fonction dans le respect des droits de la défense.
+
+§ 4. A l'issue de l'examen visé au paragraphe 1er, l'auditeur ou, en son absence, de l'auditeur adjoint, établit un rapport provisoire d'instruction qui indique si les faits relevés sont susceptibles de constituer un manquement aux règles visées à l'article 4, §§ 1er ou 3, ou aux arrêtés et règlements pris pour son exécution. L'auditeur ou, en son absence, l'auditeur adjoint, adresse une copie de ce rapport provisoire d'instruction à la personne concernée qui dispose d'un délai d'un mois pour faire valoir ses observations. La personne concernée peut demander à l'auditeur ou, en son absence, à l'auditeur adjoint, l'accomplissement d'actes d'instruction complémentaires. Lorsque l'auditeur ou l'auditeur adjoint estiment ne pas devoir réserver de suite à cette demande, ils en mentionnent la raison dans leur rapport d'instruction.
+
+L'auditeur ou, en son absence, l'auditeur adjoint saisit le comité de direction de la FSMA du rapport d'instruction définitif.
+
+§ 5. La FSMA peut, moyennant le respect des droits de la défense, prononcer les sanctions disciplinaires énoncées à l'article 6, lorsqu'elle constate, après avoir pris connaissance du rapport d'instruction définitif de l'auditeur ou, en son absence, de l'auditeur adjoint l'existence, dans le chef d'une personne qui détenait, au moment des faits concernés, la qualité de prestataire de services bancaires autre que celle à laquelle s'applique la procédure visée au paragraphe 7, d'un manquement aux règles visées à l'article 4, §§ 1er ou 3, ou aux arrêtés et règlements pris pour son exécution.
+
+Avant de prononcer une telle sanction, la FSMA peut demander à l'auditeur ou à l'auditeur adjoint de commenter le rapport d'instruction. Elle peut également requérir des actes d'instructions supplémentaires.
+
+§ 6. Si la FSMA décide de ne pas prononcer de sanction disciplinaire conformément au paragraphe 5, alinéa 1er, elle notifie cette décision à la personne concernée.
+
+Si l'auditeur ou, en son absence, l'auditeur adjoint a informé l'entité visée au sein de laquelle la personne concernée exerce ses activités qu'il examinait les indices sérieux d'éventuels manquements conformément à l'article 5, paragraphe 1er à l'encontre de cette personne, la FSMA en informe également l'entité visée.
+
+§ 7. Si le rapport d'instruction définitif de l'auditeur ou, en son absence, de l'auditeur adjoint, conclut à l'existence d'un manquement aux règles visées à l'article 4, §§ 1er ou 3, ou aux arrêtés et règlements pris pour son exécution, dans le chef d'une personne qui détenait, au moment des faits concernés, la qualité de prestataire de services bancaires visé à l'article 4, § 1er, alinéa 1er, 1°, actif au sein d'un établissement de crédit, la FSMA en informe sans délai la BNB pour permettre à l'autorité de contrôle prudentiel d'exercer ses prérogatives prévues par la loi du 25 avril 2014, en particulier son article 236, § 7.
+
+Lorsque le rapport d'instruction définitif précité conclut à l'existence d'un manquement aux règles visées à l'article 4, §§ 1er ou 3, ou aux arrêtés et règlements pris pour son exécution, dans le chef d'un prestataire de service bancaire au sens de l'article 4, § 1er, alinéa 1er, 2° ou 4°, actif au sein d'un établissement de crédit visé à l'article 3, 2° et soumis, au moment des faits concernés, à une exigence d'honorabilité professionnelle et d'expertise dans l'Etat membre d'origine de l'établissement de crédit susvisé conformément aux dispositions du droit de cet Etat membre transposant la directive CRD, la FSMA en informe l'autorité de contrôle prudentiel de l'Etat membre d'origine concerné pour permettre à cette autorité d'exercer ses prérogatives prévues par les dispositions transposant la directive CRD, en particulier son article 67, § 2, d).
+
+La FSMA joint à la communication effectuée en vertu des alinéas 1er et 2 une copie du rapport définitif de l'auditeur ou, en son absence, de l'auditeur adjoint, visé au paragraphe 4 ci-dessus et des pièces du dossier.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 70, 002; En vigueur : 15-01-2024&gt;
+
+(2)&lt;L 2023-12-20/08, art. 70, 002; En vigueur : 15-01-2025&gt;
+
+(3)&lt;L 2023-12-20/08, art. 70, 002; En vigueur : 15-07-2026&gt;
+
+(4)&lt;L 2025-12-11/13, art. 164, 003; En vigueur : 03-01-2026&gt;
+
+### Art. 6
+
+[<sup>1</sup> § 1er. La FSMA peut, s'agissant de personnes qui détenaient, au moment des faits concernés, la qualité de prestataires de services bancaires autre que celle à laquelle s'applique la procédure visée à l'article 5, § 7, prononcer les sanctions disciplinaires suivantes :
+
+1° un avertissement,
+
+2° un blâme,
+
+3° une interdiction professionnelle.
+
+L'avertissement ou le blâme, prononcé conformément à l'alinéa 1er, 1° ou 2°, peut, le cas échéant, être accompagné de l'obligation de suivre certaines formations et d'apporter la preuve de ce suivi à la FSMA.
+
+L'interdiction professionnelle visée à l'alinéa 1er, 3° emporte l'interdiction d'exercer, en Belgique, des activités de prestataires de services bancaires, ou certaines de ces activités seulement, et ce pour la durée définie par la FSMA lorsqu'elle prononce la sanction.
+
+L'interdiction professionnelle a une durée maximale de 3 ans.
+
+§ 2. La FSMA tient compte de toutes les circonstances pertinentes et, notamment, le cas échéant :
+
+1° de la gravité et de la durée de l'infraction ;
+
+2° du degré de responsabilité de la personne responsable ;
+
+3° de la solidité financière de cette personne ;
+
+4° de l'importance du profit réalisé ou de la perte évitée, dans la mesure où ils peuvent être déterminés ;
+
+5° du préjudice patrimonial subi par des tiers du fait de l'infraction, dans la mesure où il peut être déterminé ;
+
+6° du degré de coopération avec la FSMA dont a fait preuve la personne responsable ;
+
+7° des infractions antérieures commises par la personne responsable ;
+
+8° des mesures qui ont été prises, après l'infraction, par la personne responsable en vue d'éviter une récidive ;
+
+9° des incidences de l'infraction sur les intérêts et la réputation du secteur bancaire.
+
+§ 3. Les sanctions disciplinaires prononcées par la FSMA conformément au paragraphe 1er sont notifiées à la personne concernée par lettre recommandée.
+
+Lorsqu'une interdiction professionnelle visée à l'alinéa 1er, 3°, du paragraphe 1er est prononcée par la FSMA, la personne concernée en informe sans délai l'entité visée au sein de laquelle elle exerce ses activités et communique la preuve de cette information à la FSMA. A défaut, la FSMA en informera elle-même l'entité visée concernée.
+
+§ 4. La FSMA publie sur son site internet toutes les sanctions disciplinaires prononcées en application du paragraphe 1er, d'une façon telle que les personnes sanctionnées et les entités visées concernées ne puissent être identifiées.
+
+§ 5. Les articles 36 et 37 de la loi du 2 août 2002 sont applicables dans le cas où la personne concernée ne respecterait pas :
+
+\- l'interdiction prononcée par la FSMA conformément au paragraphe 1er, alinéa 1er, 3° ; ou
+
+\- l'obligation de suivre certaines formations et d'apporter la preuve de ce suivi, visée au paragraphe 1er, alinéa 2.
+
+§ 6. Les articles 36 et 37 de la loi du 2 août 2002 sont applicables lorsque la FSMA constate, dans le chef d'une entité visée, une infraction à l'article 4, § 1er, alinéa 3, ou à l'article 7, § 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 71, 002; En vigueur : 15-07-2026&gt;
+
+### Art. 7
+
+[<sup>1</sup> § 1er. La FSMA tient un registre des sanctions disciplinaires prononcées conformément à la présente loi.
+
+Ce registre contient :
+
+1° les données à caractère personnel indispensables à l'identification correcte des personnes qui font l'objet de sanctions disciplinaires visées à l'article 6, § 1er, c'est-à-dire, à tout le moins leur nom, prénom(s) et date de naissance ;
+
+2° le type de sanction disciplinaire et le jour où elle a été infligée.
+
+§ 2. Les personnes aspirant à exercer des activités de prestataires de services bancaires peuvent obtenir auprès de la FSMA, selon les modalités que celle-ci détermine et rend publiques sur son site web, la preuve qu'ils ne font pas l'objet d'une interdiction professionnelle prononcée en application de la présente loi, de l'article 236, § 7 de la loi du 25 avril 2014, de l'article 204, § 8/1 de la loi du 20 juillet 2022 relative au statut et au contrôle des sociétés de bourse ou de l'article 64, § 7 de la loi du 25 octobre 2016 relative à l'accès à l'activité de prestation de services d'investissement et au statut et au contrôle des sociétés de gestion de portefeuille et de conseil en investissement.
+
+§ 3. Une entité visée requiert de toute personne qui présente sa candidature aux fins d'exercer en son sein une ou plusieurs activités de prestataires de services bancaires qu'elle lui remette une copie de la preuve visée au paragraphe 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 72, 002; En vigueur : 15-07-2026&gt;
+
+## Chapitre IV. [<sup>1</sup> Modifications de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 73, 002; En vigueur : 15-07-2026&gt;
+
+### Art. 8
+
+[<sup>1</sup> L'article 45, § 1er, alinéa 1er, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers remplacé par l'arrêté royal du 3 mars 2011 et modifié en dernier lieu par la loi du 20 juillet 2022, est complété par le 8°, rédigé comme suit :
+
+"8° de contribuer au respect des dispositions de la loi du 22 avril 2019 visant à instaurer un serment et un régime disciplinaire bancaires et des arrêtés et règlements pris pour son exécution, dans la mesure décrite aux articles 5 à 7 de cette loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 74, 002; En vigueur : 15-07-2026&gt;
+
+## Chapitre V. [<sup>1</sup> Modifications de la loi du 22 mars 2006 relative à l'intermédiation en services bancaires et en services d'investissement et à la distribution d'instruments financier]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 75, 002; En vigueur : 15-07-2026&gt;
+
+### Art. 9
+
+[<sup>1</sup> Dans l'article 17/1 de la loi du 22 mars 2006 relative à l'intermédiation en services bancaires et en services d'investissement et à la distribution d'instruments financiers inséré par la loi du 18 avril 2017 et modifié par la loi du 2 mai 2019, les mots "ou qui ont cessé d'exercer leurs activités." sont remplacés par les mots ", qui ont cessé d'exercer leurs activités, ou, en ce qui concerne les agents en services bancaires et en services d'investissement, qui font l'objet d'une interdiction professionnelle prononcée par la FSMA conformément à la loi du 22 avril 2019 visant à instaurer un serment et un régime disciplinaire bancaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 76, 002; En vigueur : 15-07-2026&gt;
+
+### Art. 10
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 77, 002; En vigueur : 15-07-2026&gt;
+
+### Art. 11
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 77, 002; En vigueur : 15-07-2026&gt;
+
+### Art. 12
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 77, 002; En vigueur : 15-07-2026&gt;
+
+### Art. 13
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 77, 002; En vigueur : 15-07-2026&gt;
+
+### Art. 14
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 77, 002; En vigueur : 15-07-2026&gt;
+
+### Art. 15
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-20/08, art. 77, 002; En vigueur : 15-07-2026&gt;
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 22 avril 2019.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre des Finances,
+
+A. DE CROO
+
+Scellé du sceau de l'Etat:
+
+Le Ministre de la Justice,
+
+K. GEENS

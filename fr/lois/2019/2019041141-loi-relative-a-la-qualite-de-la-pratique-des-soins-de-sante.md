@@ -1,0 +1,1662 @@
+---
+title: "Loi relative à la qualité de la pratique des soins de santé"
+identifier: "2019041141"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/22/2019041141/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2019-04-22
+published: 2019-05-14
+entry_into_force: 2021-07-01
+last_amended: 2026-06-18
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/22/2019041141/justel"
+department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
+justel_note: "Consultation des versions antérieures à partir du 14-05-2019 et mise à jour au 18-06-2026"
+retrieved: 2026-10-11
+---
+
+# 22 AVRIL 2019. - Loi relative à la qualité de la pratique des soins de santé
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition générale
+
+#### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## CHAPITRE 2. - Définitions et champ d'application
+
+#### Art. 2
+
+Pour l'application de la présente loi, il faut entendre par :
+
+1° patient : la personne physique [<sup>3</sup> qui bénéficie de soins de santé]<sup>3</sup>, à sa demande ou non ;
+
+2° professionnel des soins de santé : le praticien professionnel visé dans la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé ainsi que le praticien d'une pratique non conventionnelle visée dans la loi du 29 avril 1999 relative aux pratiques non conventionnelles dans les domaines de l'art médical, de l'art pharmaceutique, de la kinésithérapie, de l'art infirmier et des professions paramédicales ;
+
+3° soins de santé : les services dispensés par un professionnel des soins de santé en vue de promouvoir, de déterminer, de conserver, de restaurer ou d'améliorer l'état de santé d'un patient, de modifier son apparence corporelle à des fins principalement esthétiques ou de l'accompagner en fin de vie ;
+
+4° prestation à risque : une prestation invasive, chirurgicale ou médicale, relative à des soins de santé à but diagnostique, thérapeutique ou esthétique, lors de laquelle l'un des éléments suivants est d'application :
+
+a) la prestation est nécessairement réalisée sous anesthésie générale, anesthésie locorégionale ou sédation profonde ;
+
+b) la prestation nécessite une surveillance médicale ou infirmière prolongée de plusieurs heures après la fin de la prestation ;
+
+c) la prestation s'effectue sous anesthésie locale par tumescence ;
+
+5° anxiolyse : l'administration entérale ou parentérale de médicaments en vue d'une prestation de soins de santé dans le but de prévenir une réaction anxieuse sans qu'il soit question d'une incidence sur la fonction cardiorespiratoire ou hémodynamique [<sup>2</sup> lors de laquelle le patient peut être réveillé si on lui parle]<sup>2</sup> et dont l'effet est spontanément réversible ;
+
+6° anesthésie locale : l'administration locale de médicaments en vue d'une prestation de soins de santé, ayant pour conséquence un effet analgésique exclusivement local ;
+
+7° anesthésie locorégionale : l'interruption ou la modulation de la conduction de la douleur par l'administration de médicaments sur le parcours neuraxial ou sur le parcours périphérique des nerfs, à l'exception [<sup>1</sup> des branches périphériques du nerf trijumeau (nerf opthtalmique, nerf mandibulaire et nerf maxillaire)]<sup>1</sup>, y compris les techniques de tumescence ;
+
+8° [<sup>2</sup> anesthésie générale: une perte de conscience induite par des médicaments, pendant laquelle le patient ne peut pas être réveillé par un stimulus douloureux. La respiration spontanée et les réflexes de protection sont généralement absents et les voies respiratoires doivent souvent être protégées. Une ventilation peut s'avérer nécessaire. La fonction cardiovasculaire peut être inadéquate à ce stade;]<sup>2</sup>
+
+[<sup>2</sup> 8° /1 sédation profonde: une perte de conscience induite par des médicaments, pendant laquelle le patient ne peut pas être facilement réveillé. Cependant, le patient peut répondre de manière ciblée après une incitation répétée ou une stimulation de la douleur. Le patient peut avoir besoin d'un soutien pour préserver ses voies respiratoires. Les réflexes de protection peuvent ne pas être présents. La fonction cardiovasculaire est généralement maintenue;]<sup>2</sup>
+
+9° hôpital : un hôpital visé dans la loi coordonnée du 10 juillet 2008 sur les hôpitaux et autres établissements de soins ;
+
+10° Commission de contrôle : la Commission fédérale de contrôle de la pratique des soins de santé visée à l'article 44 ;
+
+11° ministre : le ministre ayant la Santé publique dans ses attributions.
+
+----------
+
+(1)&lt;L 2022-07-30/01, art. 28, 005; En vigueur : 01-01-2022&gt;
+
+(2)&lt;L 2023-11-13/04, art. 5, 007; En vigueur : 04-12-2023&gt;
+
+(3)&lt;L 2024-02-06/05, art. 30, 008; En vigueur : 04-03-2024&gt;
+
+#### Art. 3
+
+§ 1er. La présente loi est applicable aux professionnels des soins de santé dans le cadre de la prestation de soins de santé.
+
+§ 2. Le Roi peut définir des modalités plus précises en matière d'application de la loi à des professionnels des soins de santé et à des prestations de soins de santé qu'Il détermine afin de tenir compte de la nécessité d'une protection spécifique du patient.
+
+Les modalités visées à l'alinéa 1er sont définies après avis [<sup>1</sup> de la Commission fédérale "Droits du patient" telle que visée à l'article 16 de la loi du 22 août 2002 relative aux droits du patient et]<sup>1</sup> des conseils consultatifs fédéraux constitués dans le cadre de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé, qui représentent les professionnels des soins de santé auxquels les modalités seront applicables.
+
+----------
+
+(1)&lt;L 2024-02-06/05, art. 31, 008; En vigueur : 04-03-2024&gt;
+
+## CHAPITRE 3. - Exigences relatives à la qualité de la pratique des soins de santé
+
+### Section 1re. - Liberté diagnostique et thérapeutique
+
+#### Art. 4
+
+Le professionnel des soins de santé choisit librement, dans les limites des compétences qui lui sont conférées par ou en vertu de la loi, les moyens qu'il met en oeuvre dans le cadre de la prestation de soins de santé. Aucune restriction réglementaire ne peut lui être imposée dans ce cadre.
+
+Le professionnel des soins de santé se laisse guider, dans son choix visé à l'alinéa 1er, par des données scientifiques pertinentes et son expertise, tout en tenant compte des préférences du patient.
+
+#### Art. 5
+
+Par dérogation à l'article 4, la prescription de certains médicaments peut être réservée à certains professionnels des soins de santé, porteurs d'un titre professionnel particulier.
+
+Le Roi définit les cas et les conditions dans lesquels le présent article est applicable, après avis des conseils consultatifs fédéraux constitués dans le cadre de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé, qui représentent les professionnels des soins de santé concernés par les dispositions dérogatoires.
+
+#### Art. 6
+
+Pour les traitements aigus avec antibiotiques et antimycosiques, ou lorsque le prix de la spécialité pharmaceutique prescrite est supérieur à la somme de la quote-part personnelle et de l'intervention de l'assurance lorsque celle-ci se présente sous la forme de montants fixes conformément à l'article 37, § 3/2, alinéa 2, de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, le pharmacien, par dérogation à l'article 4, peut substituer la spécialité pharmaceutique prescrite qui est dispensée en officine ouverte au public, par un autre médicament contenant la même substance active ou combinaison de substances actives, et ayant le même dosage, le même mode d'administration et la même fréquence d'administration, à condition que le prix soit inférieur et que le prescripteur n'ait consigné aucune objection thérapeutique à l'encontre de cette substitution. [<sup>1</sup> En cas d'indisponibilité d'un médicament, notifiée à I'Agence fédérale des Médicaments et des Produits de Santé (AFMPS) et publiée sur le site web de cette Agence, le pharmacien peut substituer à la spécialité pharmaceutique prescrite qui est dispensée en officine ouverte au public un autre médicament contenant la même substance active ou combinaison de substances actives, et ayant le même dosage, le même mode d'administration et la même fréquence d'administration, à condition de respecter les lignes directrices de I'AFMPS et à condition que le prescripteur n'ait consigné aucune objection thérapeutique à l'encontre de cette substitution.]<sup>1</sup> Les raisons de l'objection thérapeutique doivent être mentionnées dans le dossier du patient. Le pharmacien informe le patient de la substitution. [<sup>1</sup> Le Roi fixe les conditions et les modalités de la substitution en cas d'indisponibilité.]<sup>1</sup>
+
+Si la prescription reprend des spécifications relatives à la forme d'administration, la substitution visée à l'alinéa 1er est limitée aux médicaments qui répondent à ces spécifications.
+
+Si la prescription mentionne une allergie à un excipient, c'est-à-dire à toute autre substance du médicament que la substance active et le matériel d'emballage, à effet notoire conformément aux lignes directrices détaillées publiées par la Commission européenne, le pharmacien ne peut pas procéder à une substitution.
+
+Le Roi peut, après avis de la Commission des médicaments à usage humain et de la Commission nationale médico-mutualiste déclarer la substitution applicable entièrement ou partiellement à d'autres classes thérapeutiques de médicaments et éventuellement y assortir des modalités. Le Roi peut établir les règles de procédure pour la substitution visée.
+
+----------
+
+(1)&lt;L 2019-12-20/51, art. 8, 002; En vigueur : 13-02-2020&gt;
+
+#### Art. 7
+
+Les dispositions reprises dans des conventions conclues par un professionnel des soins de santé qui portent atteinte à sa liberté de choix telle que définie dans la présente section, sont réputées non écrites.
+
+### Section 2. - Compétence [<sup>1</sup> , maîtrise de la langue]<sup>1</sup> et visa
+
+----------
+
+(1)&lt;L 2024-05-18/09, art. 2, 010; En vigueur : 10-06-2024&gt;
+
+#### Art. 8
+
+Le professionnel des soins de santé dispense uniquement des soins de santé pour lesquels il dispose de la compétence et de l'expérience nécessaires démontrables.
+
+Le professionnel des soins de santé tient à jour un portfolio contenant les données nécessaires, de préférence sous forme électronique, et démontrant qu'il dispose des compétences et de l'expérience nécessaires.
+
+#### Art. 9
+
+Le professionnel des soins de santé réfère son patient vers un autre professionnel des soins de santé compétent en la matière lorsque le problème de santé ou les soins de santé requis excèdent son propre domaine de compétence.
+
+Le professionnel des soins de santé mentionne le renvoi visé à l'alinéa 1er dans le dossier du patient.
+
+#### Art. 10
+
+Le professionnel des soins de santé peut uniquement dispenser des soins de santé s'il dispose d'un visa qui atteste sa compétence [<sup>2</sup> et son aptitude physique et psychique" ]<sup>2</sup> à exercer sa profession des soins de santé.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, le Roi détermine la date à partir de laquelle l'alinéa 1er est applicable au secouriste-ambulancier, au bandagiste, à l'orthésiste et au prothésiste. Le Roi peut également déterminer des modalités particulières. Il peut fixer une date différente pour les professionnels des soins de santé visés.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-06-27/03, art. 2, 003; En vigueur : 30-06-2021&gt;
+
+(2)&lt;L 2026-05-25/15, art. 2, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 11
+
+Le visa visé à l'article 10 est délivré par la Direction générale Soins de santé du SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement sur la base du diplôme de base du professionnel des soins de santé requis [<sup>1</sup> et sur la base de la preuve d'une connaissance suffisante de la langue néerlandaise, française ou allemande]<sup>1</sup> pour pouvoir exercer en Belgique la profession concernée.
+
+Le Roi peut définir les modalités relatives à la demande et à la délivrance du visa.
+
+[<sup>1</sup> Font foi d'une connaissance suffisante de la langue visée à l'alinéa 1er:
+
+1° un diplôme d'enseignement secondaire émanant d'un établissement d'enseignement néerlandophone, francophone ou germanophone; ou
+
+2° un diplôme d'enseignement supérieur ou universitaire émanant d'un établissement d'enseignement néerlandophone, francophone ou germanophone; ou
+
+3° un certificat du niveau:
+
+a) C1 du Cadre européen commun de référence pour les langues, à l'exception de l'aptitude "écrire", pour les professionnels des soins de santé dont le diplôme de base visé à l'alinéa 1er est du niveau de master.
+
+Pour l'aptitude "écrire", les professionnels des soins de santé précités disposent d'un certificat du niveau B2 du Cadre européen commun de référence pour les langues;
+
+b) B2 du Cadre européen commun de référence pour les langues pour les professionnels des soins de santé dont le diplôme de base visé à l'alinéa 1er est du niveau de bachelier;
+
+c) B1 du Cadre européen commun de référence pour les langues pour les professionnels des soins de santé dont le diplôme de base visé à l'alinéa 1er est d'un niveau inférieur à celui de bachelier, et différent de celui visé au point d);
+
+d) A2 du Cadre européen commun de référence pour les langues pour les aides-soignants et les ambulanciers de transport non urgent de patients.
+
+Les justificatifs visés au 3° ne remontent pas à plus de quatre ans au moment de l'introduction de la demande du visa.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-18/09, art. 3, 010; En vigueur : 10-06-2024&gt;
+
+#### Art. 11/1
+
+[<sup>1</sup> Le professionnel des soins de santé maîtrise en tout temps la langue néerlandaise, française ou allemande de manière suffisante pour pouvoir exercer sa profession des soins de santé de manière qualitative. Par maîtrise suffisante de la langue, il faut entendre une maîtrise de la langue correspondant au niveau exigé à l'article 11, alinéa 3, 3°, pour le professionnel des soins de santé concerné.
+
+Le professionnel des soins de santé à qui un visa est délivré à partir de la date d'entrée en vigueur de la loi du 18 mai 2024 modifiant la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé conserve dans le portfolio visé à l'article 8, alinéa 2, les données nécessaires démontrant qu'il dispose de la maîtrise de la langue visée à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-18/09, art. 4, 010; En vigueur : 10-06-2024&gt;
+
+#### Art. 11/2
+
+[<sup>1</sup> Les exigences en matière de maîtrise de la langue visées aux articles 11, alinéa 1er, et 11/1, ne s'appliquent pas au professionnel des soins de santé étranger qui, à la demande de et sous la responsabilité d'un professionnel des soins de santé belge, accomplit auprès d'un patient qu'il est impossible de déplacer de façon justifiée sur le plan médical, certaines prestations exceptionnelles de soins de santé pour lesquelles le professionnel des soins de santé belge responsable ne dispose pas de l'expertise nécessaire pour effectuer celles-ci correctement et pour lesquelles le professionnel des soins de santé étranger est réputé pour son expertise particulière.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-18/09, art. 5, 010; En vigueur : 10-06-2024&gt;
+
+#### Art. 11/3
+
+[<sup>1</sup> Le Roi peut préciser des modalités sur la base desquelles le professionnel des soins de santé peut être dispensé de l'exigence de maîtrise de la langue visée aux articles 11, alinéa 1er et 11/1. Il peut à cet égard prendre une disposition différente pour les différents professionnels des soins de santé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-18/09, art. 6, 010; En vigueur : 10-06-2024&gt;
+
+### Section 3. - Caractérisation
+
+#### Art. 12
+
+Avant de dispenser des soins de santé, le professionnel des soins de santé effectue une caractérisation du patient et de la prestation en question si cela est pertinent. Le professionnel des soins de santé analyse l'état de santé du patient et enregistre les données pertinentes dans le dossier du patient.
+
+#### Art. 13
+
+La caractérisation visée à l'article 12 aboutit dans tous les cas à ce que les soins de santé suivants soient exclusivement dispensés dans un hôpital :
+
+1° les prestations pour lesquelles le patient nécessite des soins intensifs et des anesthésistes, des infirmiers et/ou des instrumentistes pendant ou après la prestation relative à des soins de santé ;
+
+2° les prestations qui nécessitent, dans la phase postopératoire, une thérapie parentérale et/ou sous perfusion de longue durée, à savoir de plus de 6 heures, et nécessitant une surveillance ;
+
+3° les prestations à des patients ne disposant pas, jusqu'à 24 heures après la prestation, de la prise en charge et/ou de la surveillance nécessaires alors que le professionnel des soins de santé juge celles-ci indispensables compte tenu de la nature des soins de santé ;
+
+4° les prestations nécessitant une transfusion sanguine.
+
+Le Roi peut définir les modalités relatives aux soins de santé visés à l'alinéa 1er.
+
+### Section 4. - Encadrement
+
+#### Art. 14
+
+Le professionnel des soins de santé s'assure que l'encadrement nécessaire est présent lui permettant d'exécuter les soins de santé avec un niveau de qualité élevé.
+
+Le Roi peut en ce qui concerne l'acte médical lui-même, fixer des conditions plus précises en matière d'encadrement.
+
+### Section 5. [<sup>1</sup> - Anxiolyse, sédation profonde et anesthésie]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-11-13/04, art. 6, 007; En vigueur : 04-12-2023&gt;
+
+#### Art. 15
+
+Le professionnel des soins de santé qui dispense des soins de santé lors desquels une anxiolyse, une anesthésie locale, une anesthésie locorégionale [<sup>2</sup> une sédation profonde]<sup>2</sup> et/ou une anesthésie générale est pratiquée, dispose d'une procédure qu'il respecte en cas de problème survenant à la suite de l'anxiolyse [<sup>2</sup> de la sédation profonde]<sup>2</sup> ou de l'anesthésie visée. La procédure susvisée est évaluée à intervalles réguliers et adaptée le cas échéant.
+
+L'alinéa 1er s'applique également lorsque la conduction de la douleur est interrompue ou modulée par l'administration de médicaments sur le parcours neuraxial ou sur le parcours périphérique du [<sup>1</sup> nerf trijumeau (nerf ophtalmique, nerf mandibulaire et nerf maxillaire)]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2022-07-30/01, art. 29, 005; En vigueur : 01-01-2022&gt;
+
+(2)&lt;L 2023-11-13/04, art. 7, 007; En vigueur : 04-12-2023&gt;
+
+#### Art. 16
+
+Le professionnel des soins de santé qui dispense des soins de santé lors desquels une anesthésie locorégionale [<sup>1</sup> une sédation profonde]<sup>1</sup> et/ou une anesthésie générale est pratiquée répond en outre aux exigences de qualité suivantes :
+
+1° il garantit la proximité immédiate auprès du patient, lors des prestations visées, d'un médecin spécialiste porteur du titre professionnel particulier en anesthésiologie-réanimation ou d'un candidat médecin spécialiste en anesthésiologie-réanimation. Le médecin spécialiste ou le candidat médecin spécialiste précité est responsable des prestations relevant de l'anesthésie [<sup>1</sup> et/ou de la sédation profonde]<sup>1</sup>. Ce médecin spécialiste ou ce candidat maîtrise également la gestion de base des voies respiratoires.
+
+Dans le cas de soins de santé lors desquels [<sup>1</sup> une sédation profonde et/ou]<sup>1</sup> une anesthésie générale est pratiquée, le médecin spécialiste ou le candidat médecin spécialiste visé intervient chez tout au plus un patient en même temps.
+
+[<sup>2</sup> L'alinéa premier et l'alinéa 2 ne s'appliquent pas si un médecin spécialiste dispense des soins de santé à un patient lorsqu'il est question d'une urgence critique ou d'une maladie critique à condition que :
+
+a) le portfolio visé à l'article 8, alinéa 2, du médecin spécialiste concerné contient les données nécessaires démontrant qu'il dispose des compétences et de l'expérience nécessaires pour ce qui concerne les prestations d'anesthésie et de sédation profonde ;
+
+b) la surveillance, au moins, du système cardiovasculaire et respiratoire du patient est assurée par un professionnel des soins de santé formé à cet effet, différent de la personne qui accomplit les prestations;]<sup>2</sup>
+
+2° il prend les mesures nécessaires afin de pouvoir faire appel à un hôpital en cas de complications ;
+
+3° il respecte plus particulièrement, lors des prestations visées, les exigences de qualité et de sécurité suivantes :
+
+a) garantir que, préalablement à [<sup>1</sup> la sédation profonde et/ou]<sup>1</sup> l'anesthésie, une évaluation des risques est réalisée ;
+
+b) veiller à ce que [<sup>1</sup> la sédation profonde et/ou]<sup>1</sup> l'anesthésie s'accompagne d'un monitoring portant au minimum sur le système cardio-vasculaire et respiratoire ;
+
+c) veiller à ce [<sup>1</sup> la sédation profonde et/ou]<sup>1</sup> que l'anesthésie et le monitoring soient confiés à un seul médecin spécialiste ou candidat médecin spécialiste tel que visé au 1°, autre que celui qui accomplit la prestation.
+
+[<sup>2</sup> Cette exigence ne s'applique pas aux prestations de soins de santé visées au 1°, alinéa 3;]<sup>2</sup>
+
+d) informer le patient au préalable qu'il ne peut pas rester seul pendant un laps de temps suffisant suivant les soins dispensés ;
+
+e) veiller à pouvoir faire appel de manière structurée à l'infrastructure d'un hôpital.
+
+[<sup>2</sup> Pour l'application du présent article, il faut entendre par :
+
+1° urgence critique : une situation aiguë dans laquelle se trouve un patient, où le report d'une prestation immédiate de soins de santé entraîne un risque probable pour la vie ou des dommages probables aux membres ou aux organes ;
+
+2° maladie critique : une maladie ou une blessure qui provoque ou peut provoquer l'altération d'une ou de plusieurs fonctions organiques, pour laquelle il existe un risque important de dégradation imminente ou impliquant une menace vitale de l'état du patient et qui nécessite une surveillance et une thérapie spécifique en unité de soins intensifs.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2023-11-13/04, art. 8, 007; En vigueur : 04-12-2023&gt;
+
+(2)&lt;L 2024-05-18/13, art. 10, 011; En vigueur : 14-06-2024&gt;
+
+### Section 6. - Continuité
+
+#### Art. 17
+
+Le professionnel des soins de santé n'est pas autorisé à interrompre un traitement en cours auprès d'un patient sans avoir pris au préalable toutes les dispositions visant à garantir la continuité des soins.
+
+En vue d'assurer cette continuité, le professionnel des soins de santé, lorsque lui-même n'est pas disponible pour sa pratique, informe son patient du professionnel des soins de santé appartenant à la même profession des soins de santé et disposant de la même compétence, à qui le patient peut s'adresser pour le suivi de son traitement.
+
+#### Art. 18
+
+Le professionnel des soins de santé qui accomplit des prestations à risque prévoit une procédure d'urgence efficace en cas de complications et une procédure pour le transfert de patients.
+
+Le Roi peut définir les modalités les règles relatives à l'application de ces procédures.
+
+#### Art. 19
+
+Le professionnel des soins de santé communique, moyennant le consentement du patient visé à l'article 36, à un autre professionnel des soins de santé traitant, désigné par le patient pour poursuivre ou compléter soit le diagnostic, soit le traitement, toutes les informations utiles ou nécessaires les concernant.
+
+#### Art. 20
+
+§ 1er. Lorsque le professionnel des soins de santé arrête définitivement sa pratique, il transmet à un autre professionnel des soins de santé, avec l'accord du patient, le dossier du patient et éventuellement d'autres informations utiles et nécessaires à la continuité des soins.
+
+Si la Commission de contrôle est informée du fait qu'un professionnel des soins de santé n'est ou n'était plus en mesure de satisfaire à l'obligation visée à l'alinéa 1er, la Commission de contrôle prend les dispositions nécessaires pour la conservation adéquate des dossiers des patients, afin de pouvoir garantir la continuité des soins ainsi que pour la préservation du secret professionnel. S'il existe un organe déontologique pour le professionnel des soins de santé concerné, la Commission de contrôle informe cet organe. Cet organe prend les dispositions mentionnées.
+
+§ 2. Le Roi peut, par dérogation au paragraphe 1er, pour certains professionnels des soins de santé ou certaines catégories de professionnels des soins de santé, fixer des règles spécifiques visant à assurer la continuité en cas d'arrêt définitif de la pratique.
+
+### Section 7. - Permanence
+
+#### Art. 21
+
+Le médecin, l'infirmier, le dentiste, la sage-femme, le pharmacien, le kinésithérapeute, le psychologue clinique et l'orthopédagogue clinique doivent, lorsqu'une permanence est organisée pour leur profession, y participer et le mentionner dans leur portfolio.
+
+Tout médecin généraliste a l'obligation de participer à la permanence médicale dans la zone où il exerce sa profession. Pour répondre à cette obligation, le médecin généraliste participe à la permanence médicale organisée par une coopération fonctionnelle de médecins généralistes agréée qui fixe des modalités en matière de permanence médicale dans la zone concernée.
+
+#### Art. 22
+
+§ 1er. Le Roi fixe les conditions minimales auxquelles doit satisfaire la permanence visée à l'article 21. Ces conditions peuvent porter sur la permanence organisée par profession des soins de santé ou sur la permanence organisée de manière interdisciplinaire.
+
+Dans ce cadre, Il peut entre autres définir les modalités relatives :
+
+1° au nombre de professionnels des soins de santé qui doivent être disponibles dans le cadre de la permanence ;
+
+2° aux périodes au cours desquelles la permanence doit être garantie ;
+
+3° au nombre minimal d'habitants pour lequel la permanence doit être organisée ;
+
+4° au mode de publication de la permanence ;
+
+5° à l'enregistrement des appels pendant la période de permanence médicale.
+
+#### Art. 23
+
+Pour pouvoir être agréées, les coopérations fonctionnelles visées à l'article 21, alinéa 2, introduisent une demande motivée qui démontre la nécessité d'organiser la permanence médicale dans la zone concernée.
+
+La demande visée à l'alinéa 1er montre également comment il est satisfait dans la zone aux besoins en permanence médicale, en signalant le ou les endroits où la permanence médicale sera assurée.
+
+La demande visée à l'alinéa 1er consiste en un rapport décrivant la situation actuelle au sein de la zone concernée ainsi qu'en un plan pluriannuel précisant les actions à mener pour répondre au besoin.
+
+Le Roi fixe les modalités en matière d'octroi de l'agrément.
+
+Les conditions et la procédure d'obtention de l'agrément ainsi que les modalités de motivation peuvent être fixées par le Roi.
+
+#### Art. 24
+
+Aucun professionnel des soins de santé répondant aux conditions requises ne peut être exclu de la permanence visée à l'article 21.
+
+#### Art. 25
+
+Le gouverneur de la province au sein de laquelle le professionnel des soins de santé doit participer à la permanence peut requérir de sa propre initiative ou sur requête de la Commission de contrôle la participation du professionnel des soins de santé à la permanence. La réquisition s'effectue toujours en étroite concertation avec la Commission de contrôle.
+
+#### Art. 26
+
+Le professionnel des soins de santé peut être dispensé de participer à la permanence visée à l'article 21 sur la base de son état de santé, de son âge, de sa situation familiale ou de l'exercice effectif de sa profession des soins de santé.
+
+La dispense visée à l'alinéa 1er est accordée par le conseil déontologique compétent. Dans le cas des professionnels des soins de santé pour lesquels il n'existe aucun conseil déontologique, la dispense visée est accordée par la Commission de contrôle.
+
+Le Roi peut fixer les modalités et la procédure relatives à la dispense visée à l'alinéa 1er.
+
+### Section 8. - Prescription
+
+#### Art. 27
+
+Le professionnel des soins de santé établit, pour des médicaments ou des produits de santé, une prescription [<sup>2</sup> individuelle]<sup>2</sup> répondant aux conditions suivantes :
+
+1° elle mentionne le nom et le prénom du patient ;
+
+2° elle est électronique ou éventuellement sur papier ;
+
+3° elle indique le médicament ou le produit de santé et, de façon aussi détaillée que possible, le mode d'emploi de celui-ci ;
+
+4° elle est datée par le professionnel des soins de santé sur papier ou de manière électronique [<sup>1</sup> ...]<sup>1</sup> ;
+
+5° [<sup>1</sup> elle est signée par le professionnel des soins de santé.]<sup>1</sup>
+
+La signature d'une prescription ne peut pas être déléguée.
+
+Le Roi peut étendre l'application des procédures visées à l'alinéa 1er, 4° et 5°, à des catégories de prescriptions autres que les prescriptions de médicaments et de produits de santé.
+
+[<sup>2</sup> Par dérogation à l'alinéa 1er, le professionnel des soins de santé peut établir une demande écrite pour un groupe de patients. La signature d'une demande écrite pour un groupe de patients ne peut pas être déléguée. Le Roi fixe le contenu et la forme de la demande écrite pour un groupe de patients, et les hypothèses dans lesquelles ladite demande écrite peut être utilisée. Une telle demande écrite n'est pas rendue au patient individuel, mais est transférée directement par le prescripteur à la personne habilitée à délivrer le médicament.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2022-05-18/08, art. 145, 004; En vigueur : 09-06-2022&gt;
+
+(2)&lt;L 2023-07-11/12, art. 65, 006; En vigueur : 08-09-2023&gt;
+
+#### Art. 28
+
+Lorsqu'un professionnel des soins de santé qui, soit en vue de l'établissement ou de la confirmation d'un diagnostic, soit en vue de l'instauration d'une thérapie, souhaite faire appel à un autre professionnel des soins de santé et établit une prescription, dénommée ci-après prescription de renvoi, cette prescription de renvoi répond aux conditions suivantes :
+
+1° elle mentionne le nom et le prénom du patient :
+
+2° elle est électronique ou éventuellement sur papier ;
+
+3° elle est datée par le professionnel des soins de santé, sur papier ou de manière électronique [<sup>1</sup> ...]<sup>1</sup> ;
+
+4° [<sup>1</sup> elle est signée par le professionnel des soins de santé. La signature d'une prescription de renvoi ne peut pas être déléguée;]<sup>1</sup>
+
+5° elle indique le diagnostic ou les éléments de diagnostic du professionnel des soins de santé ;
+
+6° elle peut indiquer une demande d'accomplissement de certaines prestations diagnostiques ou thérapeutiques. En ce qui concerne les prestations thérapeutiques, elle peut indiquer un nombre maximum de séances de traitement. Le professionnel des soins de santé qui reçoit la prescription peut le cas échéant déroger à cette demande, dans les limites des compétences qui lui sont conférées par ou en vertu de la loi. Le Roi peut désigner les professionnels des soins de santé ayant besoin d'une autorisation du professionnel des soins de santé prescripteur pour la dérogation visée ;
+
+7° elle indique les contre-indications éventuelles pour certains traitements ;
+
+8° elle peut comporter une demande de rapportage du diagnostic, du traitement ou des résultats obtenus.
+
+----------
+
+(1)&lt;L 2022-05-18/08, art. 146, 004; En vigueur : 09-06-2022&gt;
+
+#### Art. 29
+
+Le professionnel des soins de santé peut rédiger une prescription de groupe dans le cadre d'un accord de collaboration entre professionnels des soins de santé tel que visé à l'article 32.
+
+La prescription de groupe visée implique une délégation de compétences pour les professionnels des soins de santé faisant partie de l'accord de collaboration.
+
+Les professionnels des soins de santé faisant partie de l'accord de collaboration décident d'un commun accord, après concertation avec le patient et le professionnel des soins de santé prescripteur, de l'exécution de la prescription de groupe.
+
+La coordination de l'exécution de la prescription de groupe est assurée par un professionnel des soins de santé faisant partie de l'accord de collaboration.
+
+Le patient et le professionnel des soins de santé prescripteur reçoivent un retour d'information régulier de l'exécution de la prescription de groupe.
+
+L'exécution de la prescription de groupe est documentée dans le dossier du patient.
+
+#### Art. 30
+
+Le Roi peut préciser le contenu et les modalités [<sup>2</sup> des prescriptions et des demandes écrites]<sup>2</sup> visée dans la présente section.
+
+Le Roi peut fixer les conditions complémentaires auxquelles doivent répondre les prescriptions [<sup>2</sup> et les demandes écrites]<sup>2</sup> en milieu ambulatoire et extrahospitalier.
+
+[<sup>1</sup> Le Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement, l'Agence fédérale des médicaments et des produits de santé et l'Institut National d'Assurance Maladie-Invalidité assurent la gestion exclusive et centralisée de l'ensemble des prescriptions électroniques y compris les ordonnances autres que les prescriptions de médicaments. Les administrations susvisées sont responsables conjoints du traitement au sens du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE.
+
+La finalité de la prescription électronique est de permettre l'exécution par le praticien professionnel légalement compétent de la prescription rédigée par le prescripteur légalement habilité au bénéfice d'un patient déterminé.
+
+Seules les personnes concernées (le patient, le prescripteur) et le destinataire (le praticien professionnel chargé d'exécuter la prescription) ont accès au contenu de la prescription électronique.
+
+Les données visées dans la présente section sont complétées le cas échéant des numéros d'identification instaurés par ou en vertu de la loi.
+
+La prescription électronique est conservée dans la base de données unique jusqu'à son exécution et pendant une durée maximale d'un an à partir de la signature de la prescription.]<sup>1</sup>
+
+Le Roi peut également déterminer le contenu et les modalités de la prescription en vue de la reconnaissance en Belgique des prescriptions émises par des prescripteurs établis dans un autre Etat membre ainsi qu'en vue de la reconnaissance dans un autre Etat membre des prescriptions émises par des professionnels des soins de santé établis en Belgique. Aux fins du présent alinéa, on entend par Etat membre, les Etats membres de l'Union européenne ainsi que la Norvège, l'Islande et Liechtenstein.
+
+----------
+
+(1)&lt;L 2022-05-18/08, art. 147, 004; En vigueur : 09-06-2022&gt;
+
+(2)&lt;L 2023-07-11/12, art. 66, 006; En vigueur : 08-09-2023&gt;
+
+#### Art. 30/1
+
+[<sup>1</sup> Par arrêté délibéré en Conseil des ministres, le Roi fixe la date à partir de laquelle, le professionnel des soins de santé qui établit une prescription doit utiliser un système d'aide à la décision pour les médicaments ou produits de santé ou pour les prestations de soins de santé que le Roi définit. Le Roi peut fixer une date distincte pour les différents types de prescriptions.
+
+Le Roi peut désigner le système d'aide à la décision qui doit être utilisé pour chaque médicament, produit de santé ou prestation de soins de santé défini par Lui et, le cas échéant, les circonstances dans lesquelles il doit être utilisé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-18/13, art. 10, 011; En vigueur : 14-06-2024&gt;
+
+### Section 9. - Informations professionnelles
+
+#### Art. 31
+
+§ 1er. Le professionnel des soins de santé peut porter des informations professionnelles à la connaissance du public.
+
+Aux fins de l'application du présent article, on entend par information professionnelle toute forme de communication ayant pour but direct et spécifique, peu importe le lieu, le support ou les techniques employées à cet effet, de faire connaître un professionnel des soins de santé ou de fournir des informations sur la nature de sa pratique.
+
+§ 2. Le professionnel des soins de santé peut porter des informations professionnelles à la connaissance du public dans le respect des conditions suivantes :
+
+1° l'information professionnelle doit être conforme à la réalité, objective, pertinente et vérifiable, et doit être scientifiquement fondée ;
+
+2° l'information professionnelle ne peut pas inciter à pratiquer des examens ou des traitements superflus et ne peut pas avoir pour objectif de rabattre des patients.
+
+L'information professionnelle mentionne le(s) titre(s) professionnel(s) particulier(s) dont dispose le professionnel des soins de santé. Cette disposition n'exclut pas que le professionnel des soins de santé puisse également communiquer des informations sur certaines formations pour lesquelles il n'existe aucun titre professionnel particulier.
+
+### Section 10. - Structure et organisation de la pratique
+
+#### Art. 32
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, pour ce qui est de la prestation proprement dite de soins de santé, préciser les règles relatives à la structure et à l'organisation de la pratique du professionnel des soins de santé individuel et des accords de collaboration entre professionnels des soins de santé précisés par Lui. Dans ce cadre, il peut désigner les professionnels des soins de santé qui font partie de l'accord de collaboration visé.
+
+Les modalités visées à l'alinéa 1er sont précisées après avis des conseils consultatifs fédéraux constitués dans le cadre de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé, qui représentent les professionnels des soins de santé auxquels les modalités s'appliqueront [<sup>1</sup> ou après avis de la Commission fédérale "Droits du patient" telle que visée à l'article 16 de la loi du 22 août 2002 relative aux droits du patient pour ce qui concerne le respect des droits du patient dans le cadre de l'accord de collaboration]<sup>1</sup>.
+
+Les règles visées à l'alinéa 1er peuvent entre autres concerner le dossier du patient [<sup>1</sup> , les droits du patient]<sup>1</sup>, la continuité et la permanence de la pratique, la description du rôle du professionnel des soins de santé individuel, la collaboration entre professionnels des soins de santé dans le cadre ou non d'un accord de collaboration et les conditions en matière d'encadrement permettant de dispenser des soins de santé avec un niveau de qualité élevé.
+
+Les règles visées à l'alinéa 1er ne concernent pas l'établissement du diagnostic, ni le choix, la mise en route et l'exécution du traitement.
+
+----------
+
+(1)&lt;L 2024-02-06/05, art. 32, 008; En vigueur : 04-03-2024&gt;
+
+### Section 11. - Dossier du patient
+
+#### Art. 33
+
+Le professionnel des soins de santé mentionne, le cas échéant et dans les limites de sa compétence, au moins les informations suivantes dans le dossier de patient :
+
+1° l'identification du patient par son numéro d'identification à la sécurité sociale (NISS), son nom, son sexe, sa date de naissance, son adresse, ses numéros de téléphone et ses adresses électroniques ;
+
+2° l'identification du médecin généraliste du patient ;
+
+3° l'identification personnelle du professionnel des soins de santé et, le cas échéant, celle du référent et des professionnels des soins de santé qui est/sont également intervenus dans les soins de santé dispensés ;
+
+4° le motif du contact ou la problématique au moment de la consultation ;
+
+5° les antécédents personnels et familiaux ;
+
+6° les résultats d'examens tels que des examens cliniques, radiologiques, biologiques, fonctionnels et histo-pathologiques ;
+
+7° le compte-rendu des entretiens de concertation avec le patient, d'autres professionnels des soins de santé ou des tiers ;
+
+8° les attestations, rapports ou avis reçus du patient ou de tiers ;
+
+9° les objectifs de santé et les déclarations d'expression de la volonté reçues du patient ;
+
+10° le diagnostic établi par le professionnel des soins de santé concerné ;
+
+11° la caractérisation du patient telle que visée à l'article 12 ;
+
+12° l'aperçu chronologique des soins de santé dispensés avec indication du type et de la date ;
+
+13° l'évolution de l'affection si cela est pertinent ;
+
+14° les renvois vers d'autres professionnels des soins de santé, services ou tiers ;
+
+15° les médicaments et les produits de santé pré, péri- et postopératoires, y compris le schéma de médication ;
+
+16° les complications qui nécessitent un traitement complémentaire ;
+
+17° en cas d'hospitalisation du patient, si le professionnel des soins de santé le juge pertinent, une note journalière d'évaluation de l'état de santé du patient ;
+
+18° la mention qu'en application [<sup>1</sup> de l'article 11/1]<sup>1</sup> de la loi du 22 août 2002 relative aux droits du patient, des informations ont été communiquées, avec l'accord du patient, à une personne de confiance ou au patient en présence d'une personne de confiance et l'identité de cette personne de confiance ;
+
+19° la demande expresse du patient de ne pas lui fournir d'informations en application des articles 7, § 3, et 8, § 3, de la loi précitée du 22 août 2002 ;
+
+20° la motivation du fait de ne pas divulguer des informations au patient en application de l'article 7, § 4, de la loi précitée du 22 août 2002 ;
+
+21° la demande du patient en application de l'[<sup>1</sup> article 11/1]<sup>1</sup>, de la loi précitée du 22 août 2002 de se faire assister par une personne de confiance désignée par lui ou d'exercer son droit de consultation par l'entremise de celle-ci ainsi que l'identité de cette personne de confiance ;
+
+22° la motivation du rejet total ou partiel de la demande d'un représentant du patient visant à obtenir la consultation ou une copie du dossier de patient en application de l'article 15, § 1er, de la loi précitée du 22 août 2002 ;
+
+23° la motivation de la dérogation à la décision prise par un représentant du patient en application de l'article 15, § 2, de la loi précitée du 22 août 2002;
+
+[<sup>1</sup> 24° l'identité et la portée de la compétence de la personne de confiance telle que visée à l'article 11/1, § 1er, de la loi du 22 août 2002 relative aux droits du patient.]<sup>1</sup>
+
+Le Roi peut préciser les informations visées à l'alinéa 1er.
+
+----------
+
+(1)&lt;L 2024-02-06/05, art. 33, 008; En vigueur : 04-03-2024&gt;
+
+#### Art. 34
+
+A partir d'une date à fixer par le Roi par arrêté délibéré en Conseil des ministres, le professionnel des soins de santé tient à jour le dossier du patient et le conserve sous une forme électronique. Le Roi peut fixer une date distincte pour les différents professionnels des soins de santé.
+
+#### Art. 35
+
+Le professionnel des soins de santé conserve le dossier du patient pendant minimum 30 ans et maximum 50 ans à compter du dernier contact avec le patient.
+
+### Section 12. - Accès aux données de santé
+
+#### Art. 36
+
+Le professionnel des soins de santé a accès aux données à caractère personnel relatives à la santé du patient qui sont tenues à jour et conservées par d'autres professionnels des soins de santé à condition que le patient ait préalablement donné son consentement éclairé concernant cet accès.
+
+Lors de l'octroi du consentement visé à l'alinéa 1er, le patient peut exclure certains professionnels des soins de santé.
+
+Le Roi peut définir les modalités relatives au consentement visé à l'alinéa 1er.
+
+#### Art. 37
+
+Le professionnel des soins de santé a uniquement accès aux données à caractère personnel relatives à la santé des patients avec lesquels il entretient une relation thérapeutique.
+
+Pour l'application de l'alinéa 1er, on entend par relation thérapeutique toute relation entre un patient et un professionnel des soins de santé dans le cadre de laquelle des soins de santé sont dispensés.
+
+Le Roi peut, avec indication des cas spécifiques d'échange de données à caractère personnel relatives à la santé du patient, désigner les catégories de professionnels des soins de santé qui, malgré le fait qu'en application de l'alinéa 2, ils entretiennent une relation thérapeutique avec le patient, n'ont pas accès à l'échange des données visées.
+
+#### Art. 38
+
+Le professionnel des soins de santé qui entretient une relation thérapeutique avec le patient, a uniquement accès aux données à caractère personnel relatives à la santé de ce patient dans le respect des conditions suivantes :
+
+1° la finalité de l'accès consiste à dispenser des soins de santé ;
+
+2° l'accès est nécessaire à la continuité et à la qualité des soins de santé dispensés ;
+
+3° l'accès se limite aux données utiles et pertinentes dans le cadre de la prestation de soins de santé.
+
+#### Art. 39
+
+Lorsque, dans un cas d'urgence, il y a incertitude quant au consentement du patient concernant l'accès du professionnel des soins de santé aux données à caractère personnel relatives à la santé du patient, le professionnel des soins de santé, en vue de dispenser les soins de santé nécessaires dans l'intérêt du patient, a accès aux données visées dans le respect des conditions visées aux articles 37 et 38.
+
+#### Art. 40
+
+Le professionnel des soins de santé qui tient à jour et conserve les données personnelles relatives à la santé du patient prend les mesures nécessaires afin que le patient puisse contrôler quelles personnes ont ou ont eu accès à ses données personnelles relatives à la santé.
+
+### Section 13. - Contrôle de qualité
+
+#### Art. 41
+
+Le Roi peut, pour les professionnels des soins de santé qui accomplissent des prestations à risque, le cas échéant par profession des soins de santé, par arrêté délibéré en Conseil des ministres et après avis du Conseil supérieur des médecins spécialistes et des médecins généralistes :
+
+1° déterminer la composition et le fonctionnement des structures organisationnelles qui organisent ou conduisent de manière ad hoc le contrôle de la qualité de la pratique des professionnels des soins de santé qui accomplissent des prestations à risque et de l'entretien de leur compétence professionnelle, étant entendu que les professionnels des soins de santé qui dispensent des soins de santé à risque tels que ceux qui sont contrôlés, doivent siéger au sein de ces structures ;
+
+2° déterminer les règles et les modalités du contrôle de qualité de la pratique et de l'entretien de la compétence professionnelle des professionnels des soins de santé qui accomplissent des prestations à risque.
+
+### Section 14. - Registre
+
+#### Art. 42
+
+§ 1er. Le professionnel des soins de santé communique à la direction générale Soins de santé du Service Public Fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement :
+
+1° une description générale des soins de santé qu'il dispense ;
+
+2° s'il dispense ou non des soins de santé dans le cadre d'une collaboration avec d'autres professionnels des soins de santé ;
+
+3° l'endroit où il dispense les soins de santé en question.
+
+Toute modification des données visées à l'alinéa 1er est communiquée sans délai.
+
+Les alinéas 1er et 2 ne sont pas d'application si la direction générale Soins de santé dispose des données visées par une autre source.
+
+§ 2. Les données communiquées sont consignées dans un registre des pratiques, après vérification éventuelle par la direction générale précitée.
+
+Le professionnel des soins de santé reçoit une notification des données le concernant qui sont consignées dans le registre des pratiques.
+
+Si la direction générale visée constate que les données communiquées en application du paragraphe 1er ne sont pas ou ne sont plus correctes, elle procède d'office à l'adaptation des données.
+
+§ 3. Le public a accès aux données reprises dans le registre des pratiques. Le professionnel des soins de santé qui n'exerce plus substantiellement les soins de santé pour lesquels il est enregistré, peut demander de ne plus accorder au public l'accès à son enregistrement.
+
+§ 4. Le Roi peut définir les modalités relatives à l'application du présent article.
+
+#### Art. 43
+
+Le Roi peut par arrêté délibéré en Conseil des ministres, pour les professionnels des soins de santé, les collaborations entre professionnels des soins de santé et/ou les soins de santé qu'Il définit, fixer des conditions complémentaires relatives à la consignation dans le registre des pratiques visé à l'article 42, § 2.
+
+## CHAPITRE 4. - Commission fédérale de contrôle de la pratique des soins de santé
+
+#### Art. 44
+
+Il est institué auprès de la direction générale Soins de santé du SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement, une Commission fédérale de contrôle de la pratique des soins de santé [<sup>1</sup> ci-après: la Commission de contrôle]<sup>1</sup>.
+
+[<sup>1</sup> Comme visé à l'article 46, la Commission de contrôle se compose d'une chambre multidisciplinaire d'expression française et d'une chambre multidisciplinaire d'expression néerlandaise. Pour ce qui concerne la préparation des dossiers, elle est assistée par les inspecteurs visés à l'article 49.]<sup>1</sup>
+
+[<sup>1</sup> La chambre multidisciplinaire d'expression française et la chambre multidisciplinaire d'expression néerlandaise ont, respective-ment, compétence sur les professionnels des soins de santé domiciliés dans la région de langue française et sur les professionnels des soins de santé domiciliés dans la région de langue néerlandaise. Les professionnels des soins de santé domiciliés dans l'arrondissement administratif de Bruxelles-Capitale choisissent la chambre à la compétence de laquelle ils veulent être soumis. Les professionnels des soins de santé domiciliés dans la région de langue allemande, sont soumis à la compétence de la chambre d'expression française. Pour l'application de la présente loi, il y a lieu d'entendre par "domicile" le lieu où le professionnel exerce principalement ses activités de soins. L'emploi des langues dans les relations administratives de la Commission de contrôle est régi par les dispositions légales relatives à l'emploi des langues en matière administrative.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-30/01, art. 2, 005; En vigueur : 18-08-2022&gt;
+
+#### Art. 45
+
+[<sup>1</sup> La Commission de contrôle a pour mission de surveiller la pratique des professionnels des soins de santé.
+
+En application du premier alinéa, la Commission de contrôle est habilitée à [<sup>2</sup> ...]<sup>2</sup> :
+
+1° [<sup>3</sup> contrôler]<sup>3</sup> l'aptitude physique et psychique des professionnels des soins de santé pour poursuivre sans risque l'exercice de leur profession ;
+
+2° [<sup>3</sup> contrôler]<sup>3</sup> le respect par les professionnels des soins de santé des dispositions de la présente loi et de ses arrêtés d'exécution ;
+
+3° [<sup>3</sup> investiguer et dénoncer la commission de faits pouvant constituer une infraction pénale par les professionnels des soins de santé aux termes des dispositions pénales de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé ou de la loi du 23 mai 2013 réglementant les qualifications requises pour poser des actes de médecine esthétique non chirurgicale et de chirurgie esthétique et réglementant la publicité et l'information relative à ces actes; ]<sup>3</sup> ;
+
+4° [<sup>3</sup> contrôler]<sup>3</sup> le respect, par les professionnels de soins de santé, des droits du patient tels que visés au chapitre 3 de la loi du 22 août 2002 relative aux droits du patient à compter d'une date fixée par le Roi dans un arrêté délibéré en Conseil des ministres ;
+
+5° [<sup>3</sup> à prendre des mesures à l'égard d'un professionnel des soins de santé, telles que prévues à l'article 56 et, le cas échéant, en cas d'urgence, telles que prévues à l'article 57, au cas où la poursuite de sa pratique professionnelle fait craindre de graves conséquences pour les patients ou la santé publique]<sup>3</sup>;
+
+[<sup>2</sup> 6° Dans la mesure des compétences décrites aux 1° à 5°, la Commission de contrôle succède aux Commissions médicales abrogées par la présente loi, dans toutes procédures et actions prises ou en cours.]<sup>2</sup>
+
+La Commission de contrôle peut exécuter sa mission de la façon suivante :
+
+1° par un contrôle systématique ;
+
+2° par un contrôle ad hoc :
+
+a) à la suite d'une plainte ;
+
+b) sur initiative propre ;
+
+c) à la demande du ministre.]<sup>1</sup>
+
+[<sup>2</sup> Le présent article produit ses effets le 1er juillet 2022.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2022-07-30/01, art. 3, 005; En vigueur : 18-08-2022&gt;
+
+(2)&lt;L 2026-05-25/15, art. 3,§7,§8, 013; En vigueur : 28-06-2026&gt;
+
+(3)&lt;L 2026-05-25/15, art. 3,§7,§8, 013; En vigueur : 18-06-2026&gt;
+
+#### Art. 46
+
+[<sup>1</sup> § 1er. Au sein de la Commission de contrôle, une chambre multidisciplinaire d'expression française et une chambre multidisciplinaire d'expression néerlandaise sont instituées, au sein desquelles au moins les catégories suivantes de professionnels des soins de santé sont représentées :
+
+1° médecins ;
+
+2° dentistes ;
+
+3° pharmaciens ;
+
+4° sages-femmes ;
+
+5° infirmiers ;
+
+6° kinésithérapeutes ;
+
+7° psychologues cliniciens ;
+
+8° orthopédagogues cliniciens ;
+
+9° praticiens d'une profession paramédicale ;
+
+10° secouristes-ambulanciers ;
+
+11° aides-soignants.
+
+Les patients sont également représentés au sein des Chambres visées à l'alinéa premier.
+
+Les Chambres sont présidées par un magistrat ou un magistrat honoraire de l'ordre judiciaire.
+
+En fonction de l'intensité des activités de la Commission de contrôle, le Roi peut déterminer qu'une ou plusieurs chambres multidisciplinaires d'expression française supplémentaires et/ou une ou plusieurs chambres multidisciplinaires d'expression néerlandaise supplémentaires, telles que visées à l'alinéa premier, seront instituées au sein de la Commission de contrôle.
+
+§ 2. Le Roi fixe, par arrêté délibéré en Conseil des ministres, la composition des chambres visées au paragraphe 1er.
+
+§ 3. Les membres des chambres sont nommés par le Roi pour un terme renouvelable de six ans après proposition sur une liste double de candidats par les organisations représentatives de la catégorie de professionnels des soins de santé concernée en ce qui concerne les membres visés au paragraphe 1er, alinéa 1er, et par les organisations représentatives des patients en ce qui concerne les membres visés au paragraphe 1er, alinéa 2.
+
+Le Roi désigne le président et le président suppléant pour un terme de six ans sur proposition du ministre compétent pour la Santé publique et du ministre compétent pour la Justice. Le mandat de président et de président suppléant ne peut être renouvelé qu'une fois.
+
+§ 4. Le Roi peut, le cas échéant par catégorie de professionnels des soins de santé visée au paragraphe 1er, fixer les critères auxquels une organisation doit répondre pour être représentative en vue d'être autorisée à proposer des membres pour les Chambres.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-30/01, art. 4, 005; En vigueur : 18-08-2022&gt;
+
+#### Art. 46i/1
+
+[<sup>1</sup> Art. 46/1. § 1er. Pour chacune des chambres de la Commission de contrôle visée à l'article 46, un bureau est constitué qui assure le fonctionnement journalier de la Chambre concernée.
+
+§ 2. Le bureau visé au paragraphe 1er est composé du président de la chambre concernée et de deux membres désignés par la chambre concernée. Les inspecteurs qui assistent la chambre concernée de la Commission de contrôle ainsi que le membre du personnel de la Direction générale Soins de santé du SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement qui assure le secrétariat de la chambre compétente, participent au bureau avec voix consultative.
+
+§ 3. Le bureau règle et coordonne les activités de la chambre concernée et prend toutes les initiatives requises en vue de préparer les travaux de la Chambre.
+
+Le bureau décide de la recevabilité du dossier et, sur la base des éléments disponibles dans le dossier, il décide soit du classement sans suite d'un dossier, soit, s'il estime le dossier suffisamment étayé, de la soumission du dossier à la chambre compétente.
+
+§ 4. Les bureaux des chambres de la Commission de contrôle constituent ensemble le Bureau de coordination. Le Bureau de coordination règle et coordonne les activités de la Commission de contrôle et prend toutes les initiatives requises en vue de préparer les travaux de la Commission de contrôle.
+
+§ 5. Le Bureau de coordination représente la Commission de contrôle et intervient au nom de la Commission de contrôle dans ses relations avec des personnes, des autorités et des institutions en rapport avec les matières qui concernent la Commission de contrôle dans son ensemble.
+
+§ 6. Le Bureau de coordination détermine la stratégie de contrôle ainsi que les priorités d'action des Chambres, en particulier pour le contrôle systématique visé à l'article 45, alinéa 3, 1°. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 4, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 47
+
+§ 1er. Un fonctionnaire de l'inspection de l'Agence fédérale des Médicaments et des Produits de santé ainsi qu'un fonctionnaire du Service de Contrôle et d'Evaluation médicaux de l'Institut national d'assurance maladie-invalidité peuvent participer avec voix consultative aux réunions des chambres visées à l'article 46, § 1er. Ces fonctionnaires disposent d'une compétence de procéder à des constatations et de rédiger des procès-verbaux. Ils sont désignés par le Roi pour une période de six ans.
+
+Les inspecteurs visés à l'article 49 peuvent également participer avec voix consultative aux réunions visées à l'alinéa 1er.
+
+§ 2. Les chambres peuvent recourir à des experts pour l'exécution de leurs missions.
+
+#### Art. 47/1
+
+[<sup>1</sup> Les chambres multidisciplinaires visées à l'article 46 peuvent créer un ou plusieurs groupes de travail pour les assister dans la préparation des tâches qui leur sont confiées par la présente loi.
+
+Les groupes de travail visés à l'alinéa premier sont composés de membres de la chambre multidisciplinaire qui crée le groupe de travail, et éventuellement d'experts invités ne faisant pas partie de la chambre multidisciplinaire. Les experts sont invités par la Chambre en fonction du dossier ou du thème abordé. Les chambres définissent la composition concrète d'un groupe de travail au moment de sa création.
+
+Les chambres définissent quels dossiers sont préparés par le groupe de travail qu'elles créent. Elles définissent également à cet effet quelles actions elles délèguent au groupe de travail visé. Les actions suivantes ne peuvent être déléguées :
+
+1° imposer des mesures telles que visées [<sup>2</sup> à l'article ]<sup>2</sup> 56, ainsi que mettre fin à ces mesures comme visé à l'article 58 ;
+
+2° transmettre [<sup>2</sup> un constat de la commission de faits pouvant constituer une infraction pénale]<sup>2</sup> au procureur du Roi ;
+
+3° prendre des mesures d'urgence et y mettre fin comme visé à l'article 57 ;
+
+4° [<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-30/01, art. 5, 005; En vigueur : 18-08-2022&gt;
+
+(2)&lt;L 2026-05-25/15, art. 5, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 48
+
+[<sup>1</sup> Le secrétariat de la Commission de contrôle est assuré par la Direction générale Soins de santé, [<sup>2</sup> ...]<sup>2</sup>, du SPF Santé publique, Sécurité de la Chaîne alimentaire et Environnement. [<sup>2</sup> La Direction générale susvisée]<sup>2</sup> se charge du soutien logistique, administratif, scientifique et juridique ainsi que du soutien à l'élaboration de la stratégie en matière de contrôle et d'analyse des risques.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-30/01, art. 6, 005; En vigueur : 18-08-2022&gt;
+
+(2)&lt;L 2026-05-25/15, art. 6, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 49
+
+§ 1er. [<sup>1</sup> Les chambres sont assistées par des inspecteurs pour la préparation des dossiers. Il s'agit de membres du personnel statutaire ou contractuel, désignés par le Roi, de la Direction générale Soins de santé du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement.]<sup>1</sup>
+
+§ 2. Ce contrôle peut également être effectué par des inspecteurs de l'Agence fédérale des Médicaments et des Produits de santé et du Service de Contrôle et d'Evaluation médicaux de l'Institut national d'assurance maladie-invalidité qui sont désignés par le Roi.
+
+[<sup>2</sup> Dans l'exercice de leurs missions visées à l'alinéa 1er, les fonctionnaires statutaires et les membres du personnel visés de l'AFMPS disposent des compétences visées, et sont soumis aux obligations visées aux articles 14 et 14bis de la loi du 25 mars 1964 sur les médicaments à usage humain. L'article 14bis de la loi précitée du 25 mars 1964 s'applique mutatis mutandis.
+
+Toute personne est tenue de fournir tous les renseignements et documents dont les fonctionnaires et agents contractuels visés à l'alinéa 1er ont besoin pour remplir leur mission.
+
+Les membres du personnel contractuel visés aux alinéas 1er et 2 prêtent serment, préalablement à l'exercice de leurs fonctions, entre les mains du ministre ou de son délégué. Pour l'application du présent article, l'administrateur général de l'AFMPS est désigné comme le délégué du ministre. Le ministre peut également désigner comme délégué d'autres membres du personnel de l'AFMPS, tout en indiquant la limite des compétences qui leur sont déléguées.]<sup>2</sup>
+
+[<sup>1</sup> § 2/1. Si les inspecteurs visés aux paragraphes 1er et 2 sont des membres du personnel contractuel, ils prêtent serment, préalablement à l'exercice de leur fonction, dans les mains du ministre ou de son délégué.]<sup>1</sup>
+
+[<sup>1</sup> § 2/2. Si les inspecteurs visés aux paragraphes 1er et 2 ne sont pas des professionnels des soins de santé, ils ont suivi une formation spécifique qui, entre autres, leur apporte des connaissances dans les matières pour lesquelles la Commission de contrôle est compétente en application de l'article 45. Tel est également le cas pour les inspecteurs qui, quant à eux, sont des professionnels des soins de santé, pour les matières dans lesquelles ils ne possèdent pas de connaissances sur la base de leur profession spécifique des soins de santé.]<sup>1</sup>
+
+§ 3. Le Roi peut préciser les conditions auxquelles les inspecteurs visés au présent article doivent satisfaire [<sup>1</sup> ainsi que celles auxquelles la formation spécifique visée au paragraphe 2/2 doit satisfaire]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2022-07-30/01, art. 7, 005; En vigueur : 18-08-2022&gt;
+
+(2)&lt;L 2023-07-11/12, art. 67, 006; En vigueur : 08-09-2023&gt;
+
+#### Art. 49/1
+
+[<sup>1</sup> L'AFMPS traite des données à caractère personnel nécessaires pour assurer la surveillance de la présente loi et de ses arrêtés d'exécution, dans le cadre de ses compétences, suivant les dispositions du Chapitre IV/3, de la loi du 20 juillet 2006 relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 31, 009; En vigueur : 27-05-2024&gt;
+
+#### Art. 50
+
+[<sup>1</sup> § 1er. Les inspecteurs visés à l'article 49, § 1er, sont habilités à investiguer et dénoncer la commission, par toute personne qui n'est pas professionnel de santé, de faits pouvant constituer une infraction pénale aux termes des dispositions pénales de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé ou de la loi du 23 mai 2013 réglementant les qualifications requises pour poser des actes de médecine esthétique non chirurgicale et de chirurgie esthétique et réglementant la publicité et l'information relative à ces actes.
+
+§ 2. Le procès-verbal qui constate les faits visés au paragraphe 1er est envoyé au procureur du Roi et une copie est envoyée au fonctionnaire du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement désigné par le Roi pour imposer une amende administrative. Le procureur du Roi décide s'il y a lieu ou non de poursuivre pénalement. Les poursuites pénales excluent l'application d'une amende administrative, même si un acquittement les clôture.
+
+§ 3. Le procureur du Roi dispose d'un délai de trois mois à compter du jour de la réception du procès-verbal pour notifier sa décision au fonctionnaire visé aux §§ 1er et 2. Dans le cas où le procureur du Roi renonce à intenter des poursuites pénales ou omet de notifier sa décision dans le délai fixé, le fonctionnaire visé au § 2, décide, après avoir mis l'intéressé en mesure de présenter ses moyens de défense, s'il y a lieu de proposer une amende administrative pour l'infraction.
+
+§ 4. La décision du fonctionnaire visé au § 2, sur base du procès-verbal de l'inspecteur, est motivée et fixe le montant de l'amende administrative qui ne peut être supérieur à la moitié du maximum ni inférieur à la moitié du minimum de l'amende pénale prévue.
+
+§ 5. Le recours contre l'amende est formé devant le Conseil d'Etat en application de l'article 14, § 1er, 1°, des lois coordonnées sur le Conseil d'Etat.
+
+§ 6. Les amendes administratives perçues à la suite d'une dénonciation de faits par les inspecteurs visés à l'article 49, § 1er, sont versées au Trésor public.
+
+§ 7. Le Roi peut préciser les modalités relatives à l'imposition et au paiement de l'amende administrative ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/15, art. 7, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 51
+
+[<sup>1</sup> Art. 51. En vue de la surveillance visée à l'article 45, alinéa 2, les inspecteurs visés à l'article 49 peuvent instruire un dossier:
+
+1° sur instruction de la chambre compétente;
+
+2° de leur propre initiative lorsqu'ils ont connaissance d'éléments montrant qu'il existe probablement un manquement tel que visé à l'article 45, alinéa 2.
+
+L'instruction visée à l'alinéa précédent peut être menée par les inspecteurs de toute manière possible, comme une enquête sur le terrain, une enquête à distance ou une enquête administrative.
+
+Les inspecteurs visés à l'article 49 instruisent à charge et à décharge, dans le respect du principe du contradictoire ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/15, art. 8, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 51/1
+
+[<sup>1</sup> Tout employeur amené à prendre une mesure de licenciement, de révocation ou de suspension d'activité d'un professionnel de santé dont l'exercice professionnel expose les patients à un danger grave le signale sans délai à la Commission de contrôle. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 9, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 52
+
+[<sup>1</sup> § 1er. En vue de surveiller l'application de la législation relevant de leur contrôle, les inspecteurs visés à l'article 49, § 1er, sont autorisés, dans l'exercice de leur mission de contrôle, à:
+
+1° constater les violations de la législation dont ils exercent la surveillance;
+
+2° munis des documents de légitimation nécessaires, pénétrer et inspecter sans avertissement préalable, tous lieux accessibles au public et où ils peuvent avoir un motif sérieux de supposer que des infractions sont commises aux dispositions des législations dont ils exercent la surveillance;
+
+3° munis des documents de légitimation nécessaires et moyennant l'autorisation des occupants ou des résidents, pénétrer et inspecter, entre 5 heures du matin et 9 heures du soir, sans avertissement préalable, tous lieux non-accessibles au public où ils peuvent avoir un motif sérieux de supposer que des infractions sont commises aux dispositions des législations dont ils exercent la surveillance. Tout refus d'autorisation est consigné par les inspecteurs visés à l'article 49, § 1er, dans le procès-verbal visé à l'article 53.
+
+La même entrée et la même inspection, selon les mêmes conditions qu'à l'alinéa précédent, entre 21 heures et 5 heures du matin, n'est possible que si le juge du tribunal de police a préalablement accordé une autorisation de visite;
+
+4° munis des documents de légitimation nécessaires et moyennant l'autorisation préalable d'un juge d'instruction, pénétrer et mener des perquisitions, sans avertissement préalable, en tous lieux où ils peuvent avoir un motif sérieux de supposer que des infractions sont commises aux dispositions des législations dont ils exercent la surveillance;
+
+5° procéder à tout examen, contrôle et audition, au besoin sans les annoncer, et recueillir toutes informations qu'ils estiment strictement nécessaires pour s'assurer que les dispositions des législations dont ils exercent la surveillance sont effectivement observées et notamment:
+
+a) interroger toute personne dont ils estiment l'audition strictement nécessaire, sur tout fait dont la connaissance est strictement nécessaire à l'exercice de la surveillance;
+
+b) prendre l'identité de toute personne dont ils estiment l'audition strictement nécessaire pour l'exercice de la surveillance; à cet effet, exiger des personnes la présentation de documents officiels d'identité ou rechercher l'identité de ces personnes par d'autres moyens, y compris en faisant des photos et des prises de vues par film et vidéo;
+
+6° réclamer toutes les informations strictement nécessaires à la surveillance et se faire produire, sans déplacement, tous les documents ou supports électroniques dont ils ont besoin pour l'exercice de leur mission de contrôle, et prendre des extraits, des duplicatas, des impressions, des listages, des copies ou des photocopies ou se faire fournir ceux-ci sans frais. En particulier, ils peuvent demander le portfolio visé à l'article 8 du professionnel des soins de santé concerné. Toute personne est tenue, dans un délai raisonnable, de fournir tous les renseignements et documents, y compris les supports électroniques, dont les inspecteurs ont besoin pour l'accomplissement de leur mission.
+
+Si, en ce qui concerne les patients, des données anonymisées ou pseudonymisées sont disponibles et actuelles, les inspecteurs demandent dans un premier temps l'accès à ces données. Dans la mesure où cela est nécessaire dans le cadre de la mission de contrôle, les inspecteurs peuvent demander l'accès aux données à caractère personnel conformément au chapitre 4/1;
+
+7° moyennant remise d'un accusé de réception, procéder à la saisie ou à la mise sous scellés des supports d'information visés au point 6° et de tout objet servant de preuve ou permettant d'accomplir des actes comportant un risque pour la santé publique ou pour les patients, indépendamment du fait que le professionnel des soins de santé, l'employeur, ses préposés ou ses mandataires soient propriétaires ou non de ces supports d'information. Les inspecteurs disposent de ces compétences lorsque cela est nécessaire pour la détection, l'instruction ou l'apport de la preuve des infractions ou lorsque le risque existe qu'avec ces supports d'information, les infractions se poursuivent ou que de nouvelles infractions soient commises. Lorsque la saisie est matériellement impossible, ces données, de même que celles nécessaires pour pouvoir les comprendre, sont copiées sur des supports appartenant à l'autorité. En cas d'urgence ou pour des raisons techniques, il peut être fait usage de supports qui sont mis à la disposition des personnes habilitées à utiliser le système informatique. Le Roi peut préciser les modalités relatives à la saisie et à la mise sous scellés.
+
+La saisie ou la mise sous scellés doit être confirmée par le ministère public dans un délai de quinze jours. En l'absence de confirmation par le ministère public, la saisie ou la mise sous scellés est levée de plein droit. La personne chez qui les biens sont saisis ou mis sous scellés peut être désignée comme dépositaire judiciaire.
+
+Les saisies ou les scellés peuvent donner lieu à la désignation d'un gardien sur place ou être exécutés en tout autre lieu désigné par les inspecteurs visés à l'article 49, § 1er.
+
+Le ministère public peut à tout moment lever la saisie ou la mise sous scellés qu'il a ordonnée ou confirmée, de même que si le contrevenant renonce à présenter les biens dans les circonstances qui ont donné lieu à l'instruction; cette renonciation n'implique aucune reconnaissance de culpabilité pénale.
+
+La saisie ou la mise sous scellés est levée de plein droit par la décision judiciaire mettant fin aux poursuites, dès qu'elle est passée en force de chose jugée;
+
+8° dans l'exercice de leur fonction, requérir l'aide de la force publique.
+
+Les inspecteurs visés à l'article 49, § 1er, fournissent également, dans le cadre strict de leur compétence, une aide aux autorités compétentes dans l'exercice de leurs tâches.
+
+§ 2. En vue uniquement de procéder à des constatations à l'égard de personnes qui ne sont pas professionnels de santé, les inspecteurs visés à l'article 49, § 1er, de la présente loi peuvent se rendre dans tous lieux où ils exercent leur contrôle, aussi en ligne, en se présentant, à l'égard de personnes qui ne sont pas professionnels de santé, comme des patients ou patients potentiels et peuvent se faire prodiguer des soins de santé, si nécessaire en utilisant également une identité fictive, sans devoir communiquer leur qualité et le fait que les constatations faites à cette occasion peuvent être utilisées pour l'exercice de leur contrôle. Les personnes physiques ou morales concernées faisant l'objet de constatations ne peuvent être provoquées au sens de l'article 30 du titre préliminaire du Code d'Instruction criminelle. Les inspecteurs visés à l'article 49, § 1er, de la présente loi peuvent uniquement exercer cette compétence, à condition qu'il existe des motifs raisonnables de soupçonner des infractions aux dispositions des législations qu'ils contrôlent, s'il est nécessaire à l'exercice de leur contrôle de pouvoir constater les circonstances réelles valables pour les patients et clients habituels ou potentiels et si ces constatations, compte tenu du principe de proportionnalité, ne peuvent être effectuées d'une autre manière. Ils sont exemptés des peines, s'ils commettent, dans ce cadre, des infractions strictement nécessaires.
+
+Les circonstances de l'exercice de cette compétence, en particulier le motif de l'investigation et toute identité fictive utilisée, doivent, le cas échéant, être mentionnées dans le procès-verbal de constatation d'infraction.
+
+Le cas échéant, le procès-verbal de constatation d'infraction mentionne les faits punissables strictement nécessaires commis par l'inspecteur en question.
+
+§ 3. Tous les services de l'Etat, y compris les parquets et les greffes des cours et de toutes les juridictions, des provinces, des agglomérations, des fédérations de communes, des communes, des associations dont elles font partie, ainsi que des institutions publiques qui en dépendent, et les organes déontologiques compétents pour les praticiens de soins de santé, sont tenus, vis-à-vis des inspecteurs visés à l'article 49, § 1er, et à leur demande, de leur fournir toutes les données et informations en leur possession concernant l'exercice de la profession, les conditions d'exercice, le remboursement des prestations médicales dans le cadre de l'assurance maladie, la prescription et la délivrance de médicaments, de produits de santé ou d'actes médicaux, le statut social et les données d'entreprise des professionnels de la santé, ainsi que de leur permettre de prendre connaissance de tous actes, pièces, documents, ou n'importe quels autres supports d'information et de leur en fournir tous les extraits, duplicata, impressions, listages, copies ou photocopies que ces derniers estiment strictement nécessaires à la surveillance du respect des législations dont ils sont chargés. Tous les services précités sont tenus de fournir sans frais ces renseignements, extraits, duplicata, impressions, listages, copies ou photocopies. Toutefois, les actes, pièces, registres, documents ou renseignements relatifs à des procédures judiciaires ne peuvent être communiqués sans l'autorisation expresse du procureur général ou de l'auditeur général.
+
+§ 4. Dans l'exercice des pouvoirs visés au présent article, les inspecteurs veillent à ce que les moyens qu'ils utilisent soient appropriés et nécessaires, en fonction de la gravité ou de la nature des faits donnant lieu à l'exercice de ces pouvoirs, pour contrôler le respect des lois et des arrêtés d'exécution dont ils sont chargés de veiller au respect.
+
+§ 5. Les inspecteurs sont tenus au secret professionnel conformément à l'article 53/1 § 1er.
+
+Si l'instruction porte sur des données traitées par le professionnel de la santé et couvertes par le secret médical, les pouvoirs d'instruction prévus dans le présent article ne peuvent être exercés qu'après en avoir informé un représentant de l'organe déontologique de la profession concernée, s'il existe. La Commission de contrôle prend les dispositions nécessaires pour que les données de patients soient conservées de manière appropriée afin de préserver le secret professionnel ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/15, art. 10, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 53
+
+[<sup>1</sup> Les inspecteurs consignent les constats de leur contrôle visé à l'article 51, dans un procès-verbal qui fait foi jusqu'à preuve du contraire et envoient ce procès-verbal à la chambre compétente.]<sup>1</sup>
+
+[<sup>2</sup> Le procès-verbal visé à l'alinéa premier contient au moins les données suivantes:
+
+1° l'identité de l'inspecteur;
+
+2° les dispositions légales en vertu desquelles l'inspecteur a le pouvoir d'intervenir;
+
+3° les mesures d'investigation prises;
+
+4° les motifs qui justifient les mesures d'investigation;
+
+5° le lieu et la date de l'investigation;
+
+6° l'identité de l'auteur présumé et des personnes intéressées;
+
+7° un récit succinct des faits constatés;
+
+8° la date et le lieu d'établissement du procès-verbal, le lien éventuel avec d'autres procès-verbaux et, le cas échéant, l'inventaire des annexes.
+
+Le Roi peut définir les règles formelles générales applicables aux procès-verbaux visés à l'alinéa premier. Lors de l'établissement des procès-verbaux, les constatations matérielles faites par eux peuvent être utilisées, avec force probante, par les autres membres du personnel statutaires ou contractuels du même service, d'autres services d'inspection ou par les membres du personnel statutaires ou contractuels chargés de la surveillance du respect d'autres législations.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2022-07-30/01, art. 10, 005; En vigueur : 18-08-2022&gt;
+
+(2)&lt;L 2026-05-25/15, art. 11, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 53/1
+
+[<sup>1</sup> § 1er. Les inspecteurs visés à l'article 49 doivent prendre les mesures nécessaires afin de garantir le caractère confidentiel des données à caractère personnel dont ils ont obtenu connaissance dans l'exercice de leur mission, et afin de garantir l'usage de ces données aux seules fins requises pour l'exercice de leur mission de contrôle.
+
+Celui qui viole l'alinéa 1er, même devant les tribunaux, est puni des peines prévues à l'article 458 du Code pénal.
+
+§ 2. Sauf les exceptions prévues par la loi, l'enquête administrative est secrète. Toute personne appelée à collaborer à l'enquête administrative à titre professionnel est tenue au secret professionnel. Celui qui viole ce secret est puni des peines prévues à l'article 458 du Code pénal.
+
+§ 3. Sauf autorisation expresse de l'auteur d'une plainte ou d'une dénonciation relative à une infraction aux dispositions de la législation dont ils exercent la surveillance, les inspecteurs visés à l'article 49 ne peuvent révéler en aucun cas, même devant les tribunaux, le nom de l'auteur de cette plainte ou de cette dénonciation.
+
+Il leur est également interdit de révéler à l'employeur ou à son représentant qu'il a été procédé à une enquête à la suite d'une plainte ou d'une dénonciation.
+
+Celui qui viole ce devoir de discrétion, même devant les tribunaux, est puni des peines prévues à l'article 458 du Code pénal.
+
+§ 4. Les inspecteurs visés à l'article 49 ne peuvent avoir un intérêt quelconque, direct ou indirect, dans les entreprises ou institutions qu'ils sont chargés de contrôler.
+
+§ 5. Les inspecteurs visés à l'article 49 sont tenus de respecter, dans l'exercice de leur mission de contrôle, les règles de déontologie. Conformément à l'article 14ter, alinéa 2, de l'arrêté royal du 2 octobre 1937 portant le statut des agents de l'Etat, les ministres dont les inspecteurs visés à l'article 49 relèvent déterminent les règles de déontologie complémentaires desdits inspecteurs, dans le respect du cadre déontologique des agents de la fonction publique administrative fédérale. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 12, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 54
+
+[<sup>1</sup> . § 1er. Le professionnel de soins de santé dont le dossier sera examiné par la chambre compétente de la Commission de contrôle quant à un manquement aux termes de l'article 45, alinéa 2, est convoqué par courrier recommandé au moins trente jours avant la réunion au cours de laquelle son dossier sera examiné, en vue d'être entendu par la chambre compétente.
+
+Le professionnel des soins de santé peut, à sa demande, consulter son dossier.
+
+Le professionnel des soins de santé transmet ses remarques motivées et pièces justificatives à la chambre au plus tard une semaine avant la réunion.
+
+Le professionnel des soins de santé peut se faire assister à la réunion par une personne de confiance ou un conseil.
+
+La convocation visée à l'alinéa premier communique ces modalités au professionnel des soins de santé concerné et mentionne:
+
+1° les infractions probables;
+
+2° une indication claire des mesures qui peuvent être imposées dans le cas en question conformément à l'article 56.
+
+§ 2. En cas de force majeure ou de circonstances indépendantes de sa volonté justifiant son absence, le professionnel concerné est convoqué à une réunion ultérieure conformément au paragraphe 1er. La chambre compétente de la Commission de contrôle statue souverainement sur la recevabilité et le fondement des motifs d'absence.
+
+En cas d'absence injustifiée du professionnel des soins de santé à la réunion, la Chambre décide par défaut.
+
+§ 3. La Chambre décide à la majorité simple des membres présents. La décision est envoyée au professionnel des soins de santé par courrier recommandé avec accusé de réception.
+
+Si la Chambre prend une mesure, celle-ci prend cours le lendemain de la réception du courrier recommandé.
+
+§ 4. Pour l'application du présent article, la date de réception du courrier recommandé est censée être le troisième jour ouvrable suivant celui où la lettre a été remise aux services postaux, à moins que le destinataire ne prouve le contraire ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/15, art. 13, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 55
+
+[<sup>1</sup> § 1er. La décision de la Commission de contrôle qui constate des faits pouvant constituer une infraction pénale aux termes des dispositions pénales de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé ou de la loi du 23 mai 2013 réglementant les qualifications requises pour poser des actes de médecine esthétique non chirurgicale et de chirurgie esthétique et réglementant la publicité et l'information relative à ces actes, est envoyé au procureur du Roi et une copie est envoyée au fonctionnaire du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement désigné par le Roi pour imposer une amende administrative. Le procureur du Roi décide s'il y a lieu ou non de poursuivre pénalement. Les poursuites pénales excluent l'application d'une amende administrative, même si un acquittement les clôture.
+
+§ 2. Le procureur du Roi dispose d'un délai de trois mois à compter du jour de la réception de la décision pour notifier sa décision au fonctionnaire visé au § 1er. Dans le cas où le procureur du Roi renonce à intenter des poursuites pénales ou omet de notifier sa décision dans le délai fixé, le fonctionnaire visé au § 1er, décide, après avoir mis l'intéressé en mesure de présenter ses moyens de défense, s'il y a lieu de proposer une amende administrative pour l'infraction.
+
+§ 3. La décision du fonctionnaire visé au § 1er est motivée et fixe le montant de l'amende administrative qui ne peut être supérieur à la moitié du maximum ni inférieur à la moitié du minimum de l'amende pénale prévue.
+
+§ 4. Le recours contre l'amende est formé devant le Conseil d'Etat en application de l'article 14, § 1er, 1°, des lois coordonnées sur le Conseil d'Etat.
+
+§ 5. Les amendes administratives perçues à la suite des décisions de la Commission fédérale de contrôle, sont versées au Trésor public.
+
+§ 6. Le Roi peut préciser les modalités relatives à l'imposition et au paiement de l'amende administrative]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/15, art. 14, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 56
+
+[<sup>1</sup> Les chambres peuvent prendre les mesures suivantes :
+
+1° dans le cadre du contrôle visé à l'article 45, deuxième alinéa, 1° et 5° :
+
+a) Le visa peut être retiré, suspendu ou son maintien peut être subordonné au respect de certaines conditions précises ;
+
+b) En cas de non-respect des limitations relatives au visa visées sous a), une amende administrative telle que visée à l'article 58/1 peut être infligée selon les règles fixées à l'article précité ;
+
+2° dans le cadre du contrôle visé à l'article 45, deuxième alinéa, 2° et 4° :
+
+a) Un plan d'amélioration peut être présenté au professionnel des soins de santé que celui-ci doit exécuter dans un délai fixé prolongeable une seule fois ;
+
+b) Le visa peut être retiré, suspendu ou son maintien peut être subordonné au respect de certaines conditions précises ;
+
+c) En cas de non-exécution du plan d'amélioration visé sous a) et en cas de non-respect des limitations relatives au visa visées sous b), une amende administrative telle que visée à l'article 58/1 peut être infligée selon les règles fixées à l'article précité.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-30/01, art. 13, 005; En vigueur : 18-08-2022&gt;
+
+#### Art. 57
+
+[<sup>1</sup> Si à la suite du contrôle visé à l'article 45, deuxième alinéa, la crainte existe que la poursuite de la pratique par le professionnel des soins de santé entraîne des conséquences graves et imminentes pour les patients ou la santé publique, la chambre composée du président et deux membres peut décider à l'unanimité, à titre de mesure provisoire, de suspendre immédiatement le visa du professionnel des soins de santé concerné ou de le limiter en y imposant certaines conditions sans que le professionnel des soins de santé ait pu transmettre au préalable ses remarques motivées ou ait eu la possibilité d'être entendu par [<sup>2</sup> une chambre restreinte]<sup>2</sup> à propos des motifs justifiant pareilles mesures.
+
+La suspension ou la limitation visée dure au maximum [<sup>2</sup> trente]<sup>2</sup> jours et ne peut pas être prolongée avant que l'intéressé ait eu la possibilité de transmettre ses remarques motivées ou d'être entendu par la chambre à propos des motifs justifiant pareilles mesures.
+
+Si la chambre, pendant le traitement du manquement, constate qu'il n'est plus question de conséquences graves et imminentes pour les patients ou la santé publique, elle décide à la majorité simple des membres présents de mettre immédiatement fin à la mesure provisoire visée dans le présent article.
+
+Une décision définitive de la chambre met fin de plein droit à la mesure provisoire visée au présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-30/01, art. 14, 005; En vigueur : 18-08-2022&gt;
+
+(2)&lt;L 2026-05-25/15, art. 15, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 58
+
+[<sup>1</sup> § 1er. Le professionnel des soins de santé à qui un plan d'amélioration a été présenté en application de l'article 56, 2°, a) doit pouvoir démontrer à la chambre, à l'expiration du délai fixé, que les améliorations nécessaires ont été apportées.
+
+§ 2. Si le visa du professionnel des soins de santé a été [<sup>2</sup> retiré,]<sup>2</sup> suspendu ou si son maintien a été subordonné au respect de certaines conditions en application de l'article 56, 1°, a), ou 2°, b), la chambre met fin à la mesure visée lorsqu'elle constate que les raisons qui l'ont justifiée ont disparu, soit d'office, soit à la demande du professionnel des soins de santé.
+
+[<sup>2</sup> La demande du professionnel des soins de santé doit être basée sur des éléments nouveaux et pertinents. La demande est examinée par la chambre compétente conformément à la procédure visée à l'article 54]<sup>2</sup>.
+
+La décision de retirer la suspension [<sup>2</sup> La demande du professionnel des soins de santé doit être basée sur des éléments nouveaux et pertinents. La demande est examinée par la chambre compétente conformément à la procédure visée à l'article 54.]<sup>2</sup> ou la limitation du visa est prise par la chambre à la majorité simple des voix des membres présents.
+
+[<sup>2</sup> Par dérogation à l'article 54, le professionnel des soins de santé concerné est ]<sup>2</sup> immédiatement informé par courrier recommandé de la fin de la mesure qui prend effet à la date de la décision de la chambre.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-30/01, art. 15, 005; En vigueur : 18-08-2022&gt;
+
+(2)&lt;L 2026-05-25/15, art. 16, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 58/1
+
+[<sup>1</sup> § 1er. Le professionnel des soins de santé qui ne respecte pas les [<sup>2</sup> mesures]<sup>2</sup> relatives au visa visées à l'article 56, 1°, a), 2°, b° ) ou qui n'exécute pas le plan d'amélioration visé à l'article 56, 2°, a) dans le délai fixé, peut se voir infliger une amende de 1 à 10 000 euros. Le montant de l'amende administrative est indexé le 1er janvier de chaque année sur la base des fluctuations de l'indice des prix à la consommation.
+
+De même, une amende administrative telle que visée au premier alinéa peut être infligée [<sup>2</sup> à la personne]<sup>2</sup> qui refuse de prêter son concours aux actes d'enquête visés à l'article 52.
+
+§ 2. [<sup>2</sup> Le procès-verbal qui constate le non-respect des mesures ou le refus de prêter son concours visé au § 1er est dressé par un inspecteur visé à l'article 49, § 1er et envoyé au fonctionnaire du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement désigné par le Roi pour imposer une amende administrative ]<sup>2</sup>.
+
+§ 3.[<sup>2</sup> Le fonctionnaire visé au § 2, décide, après avoir mis l'intéressé en mesure de présenter ses moyens de défense, s'il y a lieu de proposer une amende administrative pour les faits visés. La décision du fonctionnaire visé au § 2 est motivée et fixe le montant de l'amende administrative.]<sup>2</sup>.
+
+§ 4. [<sup>2</sup> Le recours contre l'amende est formé devant le Conseil d'Etat en application de l'article 14, § 1er, 1°, des lois coordonnées sur le Conseil d'Etat]<sup>2</sup>.
+
+§ 5. [<sup>2</sup> § 5. Les amendes administratives perçues à la suite d'une dénonciation des inspecteurs visés à l'article 49, § 1er, de non-respect des mesures ou de refus de prêter son concours visé au § 1er sont versées au Trésor public]<sup>2</sup>.
+
+§ 6. [<sup>2</sup> Le Roi peut préciser les modalités relatives à l'imposition et au paiement de l'amende administrative]<sup>2</sup>.
+
+§ 7.[<sup>2</sup> Le professionnel des soins de santé qui a été condamné en application de l'article 84/1 ou qui a bénéficié d'une transaction en application de l'article 84/1, ne peut plus faire l'objet d'une amende administrative pour les mêmes faits]<sup>2</sup>.
+
+§ 8.[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-30/01, art. 16, 005; En vigueur : 18-08-2022&gt;
+
+(2)&lt;L 2026-05-25/15, art. 17, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 59
+
+[<sup>1</sup> La communication par courrier recommandé prévue dans le présent chapitre peut être à chaque fois remplacée par un courrier recommandé via la e-Box, visée par la loi du 27 février 2019 relative à l'échange électronique de messages par le biais de l'e-Box, si le professionnel des soins de santé concerné a activé la sienne. Dans ce cas, la date de réception du courrier recommandé est censée être le troisième jour ouvrable qui suit l'envoi via la e-Box.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-30/01, art. 17, 005; En vigueur : 18-08-2022&gt;
+
+#### Art. 59/1
+
+[<sup>1</sup> La Commission de contrôle rédige un règlement d'ordre intérieur qui est soumis à l'approbation du Roi.
+
+Le règlement d'ordre intérieur visé à l'alinéa premier règle au moins les questions suivantes:
+
+1° les modalités selon lesquelles la personne qui dépose une plainte auprès de la Commission de contrôle est entendue si elle en fait la demande ;
+
+2° les modalités selon lesquelles la personne qui dépose une plainte auprès de la Commission de contrôle est informée des autres possibilités de traitement de la plainte ;
+
+3° les modalités de création et de fonctionnement des groupes de travail visés à l'article 47/1, ainsi que toute délégation éventuelle de tâches à ces groupes ;
+
+4° les modalité d'obtention d'une action objective et uniforme ;
+
+5° la manière dont sont déterminées la stratégie de contrôle et les priorités d'action desdites chambres, en particulier pour le contrôle systématique visé à l'article 45, troisième alinéa, 1° ;
+
+6° les modalités d'exécution des tâches confiées à la Commission de contrôle en application des articles 20, § 1er, deuxième alinéa, 25 et 26.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-30/01, art. 18, 005; En vigueur : 18-08-2022&gt;
+
+#### Art. 60
+
+Le Roi définit les modalités de fonctionnement de la Commission de contrôle.
+
+[<sup>1</sup> La Commission de contrôle établit chaque année un rapport à l'intention du ministre sur le contrôle qu'elle a exercé, en application de la présente loi, sur l'exercice des professionnels des soins de santé. Le rapport annuel peut également contenir des recommandations pour l'amélioration des exigences de qualité des pratiques en matière de soins de santé telles que définies dans la présente loi, ainsi que des recommandations pour la prévention des lacunes en matière de respect de ces exigences. Le rapport ne peut pas concerner une personne physique identifiée ou identifiable.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-30/01, art. 19, 005; En vigueur : 18-08-2022&gt;
+
+#### Art. 61
+
+La [<sup>1</sup> chambre compétente]<sup>1</sup> informe l'Agence Fédérale des Médicaments et des Produits de Santé, l'Institut national d'assurance maladie-invalidité et, le cas échéant, le patient, le professionnel des soins de santé ou l'instance qui a déposé plainte et les autres personnes et instances intéressées, des mesures prises par [<sup>1</sup> elle]<sup>1</sup>.
+
+Le Roi peut désigner d'autres instances devant être informées par la [<sup>1</sup> chambre compétente]<sup>1</sup>. Il peut également définir les modalités à respecter par la [<sup>1</sup> chambre compétente]<sup>1</sup> lors de l'information relative aux mesures prises.
+
+----------
+
+(1)&lt;L 2022-07-30/01, art. 20, 005; En vigueur : 18-08-2022&gt;
+
+#### Art. 62
+
+Le Roi peut définir les modalités de l'information du public sur l'état actuel du visa des professionnels des soins de santé.
+
+#### Art. 63
+
+[<sup>1</sup> Les présidents, les vice-présidents et les membres des chambres multidisciplinaires et des groupes de travail ainsi que les experts]<sup>1</sup> ont droit aux jetons de présence, aux indemnités pour frais de parcours et aux indemnités pour frais de séjour de la manière précisée par le Roi.
+
+----------
+
+(1)&lt;L 2022-07-30/01, art. 21, 005; En vigueur : 18-08-2022&gt;
+
+## CHAPITRE 4/1 [<sup>1</sup> Traitements de données nécessaires aux missions d'inspection et de contrôle de la Commission de contrôle ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 18, 013; En vigueur : 28-06-2026&gt;
+
+### Section 1. [<sup>1</sup> Traitement de données ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 19, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 63/1
+
+[<sup>1</sup> Les dispositions du présent chapitre ne s'appliquent que dans la mesure où il n'existe pas, dans les législations pour lesquelles la Commission fédérale de contrôle est compétente, de dispositions spécifiques ayant le même objectif, la même nature ou le même effet que celles établies par le présent chapitre. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 20, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 63/2
+
+[<sup>1</sup> La Commission fédérale de contrôle traite les données à caractère personnel nécessaires pour permettre à ses inspecteurs d'exécuter leurs missions telles que prévues par la présente loi et par la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé:
+
+1° afin de garantir le respect, l'application et le contrôle de la réglementation relevant de sa compétence;
+
+2° afin de détecter et constater les infractions concernant tous les domaines et réglementations visés au 1° ainsi que leurs arrêtés d'exécution . ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 21, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 63/3
+
+[<sup>1</sup> Le Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement est le responsable du traitement des données visé à l'article 63/2. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 22, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 63/4
+
+[<sup>1</sup> Les données traitées dans le cadre du traitement des données d'inspection proviennent:
+
+1° des documents et informations demandés lors de l'inspection ou en préparation de celle-ci, et les rapports d'inspection;
+
+2° des saisies et mises sous scellés;
+
+3° des informations fournies au procureur du Roi;
+
+4° des procès-verbaux de constat d'infraction;
+
+5° des plaintes et signalements relatifs à des faits potentiellement punissables par la loi, qui sont adressés à la Commission fédérale de contrôle et qui relèvent des missions des inspecteurs;
+
+6° des apostilles et autres documents reçus des autorités judiciaires;
+
+7° des lettres et questions adressées spontanément à la Commission fédérale de contrôle par des citoyens, des patients ou des personnes travaillant dans les secteurs couverts par les missions des inspecteurs et contrôleurs;
+
+8° des demandes d'autorisations, d'agréments, d'enregistrements ou de certificats adressées au Service public fédéral Santé publique, Sécurité de la chaîne alimentaire et Environnement;
+
+9° des avertissements via le système d'information du marché intérieur (IMI) adressés à la Commission fédérale de contrôle dans le cadre des missions des inspecteurs. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 23, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 63/5
+
+[<sup>1</sup> Les catégories de données traitées dans le cadre du traitement des données visé à l'article 63/2 sont les suivantes:
+
+1° les données de référence permettant d'identifier les documents ou tout autre support d'information visés à l'article 63/2: leur date, leurs références, leur objet;
+
+2° le cas échéant, le nom et le prénom de l'inspecteur qui a rédigé le document visé à l'article 63/4;
+
+3° les données permettant d'identifier les personnes qui font l'objet d'un rapport d'inspection, d'une saisie, d'une mise sous scellés, d'une transmission d'informations au procureur du Roi, d'un procès-verbal de constat d'infractions, d'une décision de la Commission fédérale de contrôle, d'une décision du fonctionnaire désigné pour infliger une amende administrative, ou qui sont témoins ou lanceurs d'alerte d'actes potentiellement délictueux: leurs nom et prénom, le domicile, le siège social de leur activité, les sièges d'exploitation, la date de naissance, le numéro de téléphone, l'adresse électronique et le numéro d'identification dans le registre national;
+
+4° la description des faits constatés, des biens saisis ou mis sous scellés;
+
+5° l'identification du parquet auquel le procès-verbal est envoyé;
+
+6° les données permettant la gestion de l'amende administrative: les montants, les dates de paiement et d'envoi à l'huissier;
+
+7° la description des mesures imposées au contrevenant par la Commission fédérale de contrôle;
+
+8° les éléments contenus dans les avertissements via le système d'information du marché intérieur (IMI);
+
+9° les informations contenues dans la banque de données fédérale permanente des professionnels des soins de santé;
+
+10° la copie électronique intégrale des documents visés à l'article 63/4 ou de tout autre support d'information;
+
+11° les données des personnes morales;
+
+12° des données relatives aux procédures disciplinaires et aux sanctions disciplinaires. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 24, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 63/6
+
+[<sup>1</sup> Les personnes concernées par le traitement des données visées à l'article 63/2 sont les suivantes:
+
+1° les inspecteurs visés à l'article 49;
+
+2° les personnes soupçonnées d'être auteurs ou coauteurs d'une infraction aux législations visées à l'article 63/2;
+
+3° les personnes qui font l'objet d'une inspection, d'un contrôle ou d'une instruction sans être soupçonnées d'infraction;
+
+4° les témoins d'une infraction aux législations visées à l'article 63/2;
+
+5° les personnes qui introduisent une plainte ou une dénonciation auprès de la Commission fédérale de contrôle pour des faits potentiellement punissables en vertu des législations mentionnées à l'article 63/2;
+
+6° les personnes qui adressent des questions ou de la correspondance à la Commission de contrôle concernant ses missions visées à l'article 63/2;
+
+7° les personnes qui rapportent des signalements à la Commission de contrôle ou qui font l'objet d'un signalement par la Commission de contrôle en vertu des législations visées à l'article 63/2. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 25, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 63/7
+
+[<sup>1</sup> . § 1er. Seules les personnes suivantes ont accès direct au traitement des données visées à l'article 63/2:
+
+1° les inspecteurs visés à l'article 49;
+
+2° le supérieur hiérarchique, au sens de l'article 2, alinéa 1er, 7°, de l'arrêté royal du 14 janvier 2022 relatif à l'évaluation dans la fonction publique fédérale, des personnes visées au point 1° ;
+
+3° les membres des chambres de la Commission fédérale de contrôle;
+
+4° les membres du personnel statutaire ou contractuel du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement désignés pour le traitement administratif des documents et supports d'information visés à l'article 64/4.
+
+§ 2. Les personnes visées au paragraphe 1er n'accèdent aux fichiers, données ou applications électroniques que dans la mesure où cet accès est adéquat, pertinent et non excessif au regard de l'exécution des finalités définies à l'article 63/2.
+
+Tout accès aux fichiers, données ou applications électroniques fait l'objet d'une vérification par le système de gestion de l'identité de la personne qui sollicite l'accès et de sa correspondance au profil défini.
+
+Chaque accès ou tentative d'accès aux fichiers, données ou applications électroniques fait l'objet d'un enregistrement automatisé dont le contenu et la durée de conservation sont fixés par un règlement interne soumis pour avis au Délégué à la protection des données du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement.
+
+Le Délégué à la protection des données contrôle périodiquement les accès dans le but de détecter les incidents de sécurité. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 26, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 63/8
+
+[<sup>1</sup> § 1er. Les personnes visées à l'article 63/7, § 1er, ne peuvent divulguer à quelque personne ou autorité que ce soit les données à caractère personnel contenues dans le traitement des données visé à l'article 63/2 ni les autres informations confidentielles dont ils ont eu connaissance en raison de leurs fonctions. Ces données sont utilisées exclusivement pour l'exercice de leurs missions.
+
+§ 2. Sauf autorisation expresse de l'auteur d'une plainte ou d'une dénonciation relative à une infraction aux dispositions des réglementations dont ils exercent la surveillance, les personnes visées à l'article 63/7 ne peuvent révéler en aucun cas, même devant les tribunaux, le nom de l'auteur de cette plainte ou de cette dénonciation.
+
+Cette interdiction vaut également en cas de demande fondée sur la loi du 11 avril 1994 relative à la publicité de l'administration.
+
+Il est également interdit de révéler à la personne qui fait l'objet du contrôle ou de l'inspection qu'il y est procédé suite à une plainte ou une dénonciation.
+
+§ 3. Par dérogation au paragraphe 1er, les personnes visées à l'article 63/7, § 1er, peuvent communiquer les données et informations visées au paragraphe 1er:
+
+1° aux membres du personnel statutaire ou contractuel du Service public fédéral Santé publique, Sécurité de la chaîne alimentaire et Environnement, qui n'ont pas d'accès direct au traitement des données visé à l'article 63/2, pour autant que cette communication soit importante pour l'accomplissement des missions du Service public fédéral Santé publique, Sécurité de la chaîne alimentaire et Environnement. Le paragraphe 1er s'applique à ces autres membres du personnel du Service public fédéral Santé publique, Sécurité de la chaîne alimentaire et Environnement pour les données qui leur sont communiquées;
+
+2° aux autorités et instances européennes dans le cadre du système d'information du marché intérieur (IMI), à d'autres Etats membres, à des pays tiers ou à des organisations internationales ou étrangères, en vue d'organiser une collaboration opérationnelle dans la lutte contre les infractions aux réglementations relevant de la compétence de la Commission de contrôle, ou à toute autre fin prévue dans les dispositions du droit de l'Union ou du droit national et dans les conditions fixées par ces dispositions;
+
+3° aux services de police, aux autorités judiciaires ou au personnel chargé de contrôler le respect des réglementations relevant de la compétence de l'Agence fédérale des médicaments et des produits de santé, de l'Institut national d'assurance maladie-invalidité, du Service public fédéral Sécurité sociale et du Service public fédéral Economie, ainsi qu'aux organes déontologiques des professionnels des soins de santé.
+
+Ces communications ne peuvent avoir lieu que pour les finalités suivantes:
+
+\- pour leur dénoncer des infractions, lorsqu'il existe des indices sérieux que des infractions aux réglementations qui tombent dans la compétence de ces institutions ont été commises et que la communication est nécessaire pour permettre à ces institutions d'exercer leurs missions. Les catégories de données qui peuvent être communiquées sont celles qui sont nécessaires à l'identification des personnes suspectées, ainsi que celles qui sont nécessaires pour déterminer si une infraction a été commise;
+
+\- dans le but d'organiser et de coordonner une collaboration opérationnelle dans la lutte contre des infractions aux réglementations relevant de la compétence de la Commission fédérale de contrôle et aux législations qui tombent dans les compétences des institutions visées au 3°. Les données qui peuvent être communiquées sont celles qui sont nécessaires à l'organisation de la collaboration opérationnelle.
+
+Toutefois, les renseignements recueillis à l'occasion de l'exécution de devoirs prescrits par l'autorité judiciaire ne peuvent être communiqués que moyennant son autorisation.
+
+A des fins de contrôle, le transfert de ces données est consigné dans un document écrit justifiant le transfert.
+
+Les inspecteurs susceptibles de communiquer des données à caractère personnel en application de l'article 63/8, § 3, doivent suivre une formation sur les possibilités et les limites de ces communications afin de s'assurer qu'elles sont justifiées et conformes aux principes de la protection des données à caractère personnel.
+
+Le Roi peut déterminer le contenu minimal de cette formation ainsi que les modalités de sa mise en oeuvre." ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 27, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 63/9
+
+[<sup>1</sup> La durée de conservation des données à caractère personnel enregistrées dans le traitement des données visé à l'article 63/2 est d'un an après la clôture du dossier.
+
+Les données relatives à des faits qui ont abouti à une mesure définitive de la Commission de contrôle, à une amende administrative ou à une condamnation pénale définitive de la personne concernée, sont conservées pour une durée de dix ans à compter de la clôture du dossier par la Commission de contrôle, du paiement de l'amende administrative ou du prononcé de la condamnation.
+
+Les données relatives à des faits qui ont abouti à une décision de classement sans suite sont conservées pour une durée de dix ans à dater du classement.
+
+Les données relatives à des faits pour lesquels les poursuites pénales sont prescrites ou ont abouti à une décision définitive de non-lieu ou d'acquittement sont effacées sans délai. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 28, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 63/10
+
+[<sup>1</sup> . Le Roi peut déterminer les moyens techniques et les mesures organisationnelles qui doivent être adoptés par le Service public fédéral Santé publique, Sécurité de la chaîne alimentaire et Environnement pour mettre en oeuvre le traitement des données visé à l'article 63/2 et prévenir les abus de consultation ou l'accès ou le transfert illicites des données qu'il contient.
+
+Il peut notamment préciser quelles données sont contenues dans les catégories visées à l'article 63/5, préciser les moyens techniques et les mesures organisationnelles qui doivent être mis en oeuvre pour assurer le respect des délais de conservations visés à l'article 63/9, la gestion des accès aux données visés à l'article 63/7 et la communication des données visée à l'article 63/8. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 29, 013; En vigueur : 28-06-2026&gt;
+
+### Section 2. [<sup>1</sup> Limitation des droits des personnes concernées ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 30, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 63/11
+
+[<sup>1</sup> Outre les exceptions de l'article 14, alinéa 5, de l'article 17, alinéa 3, de l'article 18, alinéa 2, et de l'article 20, alinéa 3, du règlement 2016/679, et de l'article 14 de la loi du 30 juillet 2018, en vue de garantir les objectifs visés à l'article 23, alinéa 1er, d), e) et h), dudit règlement, l'exercice des droits visés aux articles 12 (transparence des informations et des communications et modalités de l'exercice des droits de la personne concernée), 13 (informations à fournir lorsque des données à caractère personnel sont collectées auprès de la personne concernée), 15 (droit d'accès), 16 (droit de rectification), 19 (obligation de notification en ce qui concerne la rectification ou l'effacement de données à caractère personnel ou la limitation du traitement), 21 (droit d'opposition) et 34 (communication à la personne concernée d'une violation de données à caractère personnel) du règlement susmentionné, est exclu en ce qui concerne le traitement visé à l'article 63/2.
+
+L'application des principes relatifs au traitement de données à caractère personnel visés à l'article 5 du Règlement 2016/679 est exclue pour les traitements de données à caractère personnel effectués par le Service public fédéral Santé publique, Sécurité de la chaîne alimentaire et Environnement dans les mêmes hypothèses que celles visées au paragraphe 1er, dans la mesure où les dispositions de cet article correspondent aux droits et obligations prévus aux articles 12 à 22 de ce règlement. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 31, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 63/12
+
+[<sup>1</sup> § 1er. Les exclusions visées à l'article 63/11 s'appliquent pendant la période où la personne concernée fait l'objet d'un contrôle, d'une instruction, d'une inspection ou d'actes préparatoires dans le cadre de l'exécution des missions visées à l'article 63/2. Cette exclusion s'applique également pendant la période au cours de laquelle les données sont traitées dans le but d'exécuter une ou plusieurs des actions suivantes: la rédaction d'un rapport d'inspection, une décision de la Commission fédérale de contrôle, une saisie, une mise sous scellés, une transmission d'informations au procureur du Roi, un procès-verbal de constatation d'infraction ou une décision d'amende administrative. La durée des actes préparatoires ne peut excéder un an à partir de la collecte des données personnelles ou de la réception d'une demande par la personne concernée en vue d'exercer un ou plusieurs des droits concernés.
+
+Lorsque des données à caractère personnel ont été communiquées en vertu de l'article 63/8, § 3, 2° et 3°, les autorités concer-nées, à l'exception des autorités judiciaires et de la police, doivent confirmer à la Commission fédérale de contrôle, dans un délai d'un mois à compter de la communication des données, que les limitations doivent être maintenues et fournir la justification et la base juridique sur lesquelles elles s'appuient. A défaut, les limitations expireront après le délai d'un mois susmentionné.
+
+§ 2. Les exclusions prévues à l'article 63/11 sont appliquées de manière restrictive uniquement dans des circonstances où l'exercice des droits ou principes en question, ou de certains d'entre eux, pourrait manifestement porter atteinte à l'efficacité des contrôles, instructions et inspections effectués par les inspecteurs de la Commission fédérale de contrôle, ou des missions des personnes auxquelles les données sont communiquées, en raison de risques accrus notamment de collusion ou de disparition de preuves.
+
+Sans préjudice de l'alinéa 1er, ces limitations s'appliquent également lorsque des informations sur une personne suspectée d'infraction sont transmises à la Commission fédérale de contrôle par l'une des entités mentionnées à l'article 63/8, § 3, 3°, ou lorsque de telles informations sont communiquées par la Commission fédérale de contrôle à ces entités, dans la mesure où l'exercice des droits ou principes, ou de certains d'entre eux, pourrait manifestement porter atteinte aux instructions, contrôles ou poursuites relevant de la compétence de ces entités, en raison des risques notamment de collusion ou de disparition de preuves.
+
+Toute limitation est justifiée et cette justification est consignée dans le dossier concerné. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 32, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 63/13
+
+[<sup>1</sup> Les exclusions visées à l'article 63/11 cessent de s'appliquer lorsque le dossier pour lequel les données sont collectées aboutit à:
+
+1° la notification d'une décision d'imposer une mesure à la personne concernée;
+
+2° une décision d'imposer une amende administrative à la personne concernée;
+
+3° un rapport d'inspection dans lequel aucune infraction n'a été constatée.
+
+Les exclusions visées à l'article 63/11 ne visent pas les données qui sont étrangères à l'objet de l'instruction ou du contrôle justifiant la limitation du droit concerné. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 33, 013; En vigueur : 28-06-2026&gt;
+
+#### Art. 63/14
+
+[<sup>1</sup> Dès réception d'une demande concernant l'exercice d'un droit ou d'un principe visé à l'article 63/11 par une personne concernée, le Délégué à la protection des données du Service public fédéral Santé publique, Sécurité de la chaîne alimentaire et Environnement, en accuse réception.
+
+Le Délégué à la protection des données informe la personne concernée par écrit, dans les meilleurs délais, et en tout état de cause dans un délai d'un mois à compter de la réception de la demande, de tout refus ou de toute limitation à l'exercice du droit concerné, ainsi que des motifs du refus ou de la limitation.
+
+Ces informations concernant le refus ou la limitation ne peuvent pas être fournies si leur communication est susceptible de nuire aux besoins du contrôle, de l'instruction, de l'inspection ou des actes préparatoires, ou risque de mettre en danger le secret de l'instruction pénale ou la sécurité des personnes. Au besoin, ce délai peut être prolongé de deux mois, en fonction de la complexité et du nombre de demandes.
+
+Le Délégué à la protection des données informe la personne concernée de cette prolongation et des motifs du report dans un délai d'un mois à compter de la réception de la demande.
+
+Le Délégué à la protection des données informe la personne concernée des possibilités d'introduire une réclamation auprès de l'Autorité de protection des données et de former un recours juridictionnel.
+
+Le Délégué à la protection des données consigne les motifs de fait ou de droit sur lesquels la décision est fondée. Ces informations sont mises à la disposition de l'Autorité de protection des données. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/15, art. 34, 013; En vigueur : 28-06-2026&gt;
+
+## CHAPITRE 5. - Dispositions modificatives
+
+#### Art. 64
+
+A l'article 29 de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé, les modifications suivantes sont apportées :
+
+1° au paragraphe 1er, les modifications suivantes sont apportées :
+
+a) dans l'alinéa 1er, les mots "les services de permanence médicale visés à l'article 28" sont remplacés par les mots "la permanence visée à l'article 21 de la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé" ;
+
+b) le paragraphe est complété par un alinéa, rédigé comme suit :
+
+"Dans la mesure où le système d'appel unifié est opérationnel dans la zone concernée, une coopération fonctionnelle visée à l'article 21, alinéa 2, de la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé s'y associe." ;
+
+2° le paragraphe 2, alinéa 1er, est complété par une phrase rédigée comme suit :
+
+"Les coopérations fonctionnelles visées à l'article 21, alinéa 2, de la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé qui s'associent au système d'appel unifié pour la permanence médicale délèguent à ce système d'appel unifié le choix de la réponse que donneront les personnes désignées au sein de ce système d'appel unifié aux questions des patients faisant appel à ce système d'appel unifié."
+
+#### Art. 65
+
+A l'article 72, § 3, de la même loi, modifié par la loi du 10 mai 2015, les modifications suivantes sont apportées :
+
+1° Dans l'alinéa 2, les mots "et s'il n'a fait viser ses titres par la commission médicale prévue à l'article 118 et compétente en raison du lieu où il compte s'établir" sont abrogés ;
+
+2° Les alinéas 3 et 4 sont abrogés.
+
+#### Art. 66
+
+L'article 119, § 1er, 2°, b), alinéa 1er, de la même loi est complété par les mots "ou que le professionnel des soins de santé visé ou qu'un membre d'une pratique non conventionnelle enregistrée n'accomplit pas sa pratique dans un souci de qualité".
+
+#### Art. 67
+
+Dans l'article 122, § 1er, 1°, alinéa 1er, de la même loi, les mots "de la commission médicale" sont abrogés.
+
+#### Art. 68
+
+Dans l'article 126, 1°, alinéa premier, de la même loi, les mots "prévu à l'article 25" sont abrogés.
+
+## CHAPITRE 6. - Dispositions abrogatoires
+
+#### Art. 69
+
+L'article 25 de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé est abrogé.
+
+#### Art. 70
+
+L'article 27 de la même loi, modifié par la loi du 10 juillet 2016, est abrogé.
+
+#### Art. 71
+
+L'article 28 de la même loi, modifié par la loi du 10 juillet 2016, est abrogé.
+
+#### Art. 72
+
+L'article 31 de la même loi, modifié par la loi du 10 mai 2015, est abrogé.
+
+#### Art. 73
+
+L'article 31/1 de la même loi, inséré par la loi du 10 mai 2015, est abrogé.
+
+#### Art. 74
+
+L'article 32 de la même loi, modifié par la loi du 10 mai 2015, est abrogé.
+
+#### Art. 75
+
+L'article 33 de la même loi, modifié par la loi du 10 mai 2015, est abrogé.
+
+#### Art. 76
+
+L'article 42 de la même loi, modifié par les lois des 5 et 20 septembre 2018, est abrogé.
+
+#### Art. 77
+
+L'article 43, § 6, alinéas 2 à 4, de la même loi est abrogé.
+
+#### Art. 78
+
+L'article 60 de la même loi est abrogé.
+
+#### Art. 79
+
+L'article 94 de la même loi est abrogé.
+
+#### Art. 80
+
+L'article 95 de la même loi, modifié par la loi du 10 mai 2015, est abrogé.
+
+#### Art. 81
+
+L'article 118 de la même loi, modifié par la loi du 10 mai 2015 est abrogé.
+
+#### Art. 82
+
+L'article 119 de la même loi, modifié en dernier lieu par la présente loi est abrogé.
+
+#### Art. 83
+
+A l' article 122, § 1er, de la même loi est les modifications suivantes sont apportées :
+
+1° dans le 1°, alinéa 1er, les mots "soit quand il y a lieu, sans être inscrit au tableau de l'Ordre" sont abrogés ;
+
+2° le 3° est abrogée ;
+
+3° le 5°, les mots ", et 42" sont abrogés ;
+
+4° dans la disposition sous 6°, les mots "de l'article 42, alinéa 3, et" sont abrogés.
+
+#### Art. 84
+
+L'article 64 de la loi du 30 octobre 2018 portant des dispositions diverses en matière de santé est abrogé.
+
+## CHAPITRE 6/1. [<sup>1</sup> - Disposition pénale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-11/12, art. 68, 006; En vigueur : 08-09-2023&gt;
+
+#### Art. 84/1
+
+[<sup>1</sup> La substitution d'un médicament en violation des dispositions de l'article 6 de la présente loi ou de ses arrêtés d'exécution est punie d'une amende de 20 à 200 euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-11/12, art. 69, 006; En vigueur : 08-09-2023&gt;
+
+#### Art. 84/2
+
+[<sup>1</sup> Dans le cadre des infractions visées au présent chapitre, une transaction, dont le paiement éteint l'action publique, peut être proposé à l'auteur présumé de l'infraction dans les conditions et selon la procédure visées à l'article 17 de la loi du 25 mars 1964 sur les médicaments à usage humain.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-11/12, art. 70, 006; En vigueur : 08-09-2023&gt;
+
+## CHAPITRE 7. - Modifications de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, et de la réglementation relative au remboursement
+
+## CHAPITRE 7. DROIT\_FUTUR.
+
+&lt;Abrogé par L 2026-05-30/04, art. 61, 012; En vigueur : 01-01-2028&gt;
+
+#### Art. 85
+
+A l'article 49, § 7, de la loi relative à l'assurance obligatoire soins de santé et indemnités coordonnée le 14 juillet 1994, modifié en dernier lieu par la loi du 11 août 2017, les modifications suivantes sont apportées :
+
+1° l'alinéa 2 est abrogé ;
+
+2° dans l'alinéa 3, devenant l'alinéa 2 :
+
+a) les mots "aux alinéas 2 et 3" sont remplacés par les mots "à l'alinéa 1er" ;
+
+b) les mots "dans ce cas, si le quorum fixé à l'alinéa 2 est atteint, les dispositions de l'alinéa 3 peuvent être applicables à l'ensemble du pays" sont abrogés ;
+
+c) les mots "dans ce cas, les dispositions de l'alinéa 3 peuvent être applicables à chacune des régions où ce quorum est atteint, et celles de l'alinéa 2 peuvent être applicables à chacune des régions où ce quorum n'est pas atteint" sont abrogés.
+
+#### Art. 85 DROIT FUTUR
+
+&lt;Abrogé par L 2026-05-30/04, art. 61, 012; En vigueur : 01-01-2028&gt;
+
+#### Art. 86
+
+L'arrêté royal du 8 juin 1967 fixant les taux de remboursement de l'assurance dans les honoraires et prix des prestations de santé effectuées par les accoucheuses et les auxiliaires paramédicaux qui n'ont pas adhéré individuellement à une convention nationale qui a obtenu le quorum de 60 p.c. d'adhésions individuelles des praticiens des diverses professions intéressées est abrogé.
+
+#### Art. 86 DROIT FUTUR
+
+&lt;Abrogé par L 2026-05-30/04, art. 61, 012; En vigueur : 01-01-2028&gt;
+
+#### Art. 87
+
+Le Roi fixe, par arrêté délibéré en Conseil des ministres, la date d'entrée en vigueur des articles 85 et 86.
+
+#### Art. 87 DROIT FUTUR
+
+&lt;Abrogé par L 2026-05-30/04, art. 61, 012; En vigueur : 01-01-2028&gt;
+
+## CHAPITRE 8. - Entrée en vigueur
+
+#### Art. 88
+
+[<sup>1</sup> La présente loi entre en vigueur le 1er juillet 2022, à l'exception des dispositions dont la date d'entrée en vigueur est déterminée par l'article 87.
+
+Le Roi peut déterminer, par arrêté délibéré en Conseil des ministres, une date d'entrée en vigueur préalable au 1er juillet 2022 pour les articles 1er, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 27, 28, 29, 30, 31, 32, 33, 34, 35, 41, 65, 66, 67, 68, 69, 70, 72, 73, 74, 75, 76, 77, 78, 79, 80 et 84.]<sup>1</sup>
+
+(NOTE : Entrée en vigueur des articles 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 27, 28, 29, 30, 31, 32, 33, 34, 35, 41, 65, 66, 67, 68, 69, 70, 72, 73, 74, 75, 76, 77, 78, 79, 80 et 84 fixée au 01-01-2022 par AR 2021-12-12/02, art. 1)
+
+----------
+
+(1)&lt;L 2021-06-27/03, art. 3, 003; En vigueur : 30-06-2021&gt;
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 22 avril 2019.
+
+PHILIPPE
+
+Par le Roi :
+
+La Ministre des Affaires sociales et de la Santé publique,
+
+M. DE BLOCK
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS

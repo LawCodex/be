@@ -1,0 +1,72 @@
+---
+title: "Loi portant modification de la loi du 15 avril 1994 relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de Contrôle nucléaire"
+identifier: "2019202372"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/22/2019202372/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2019-04-22
+published: 2019-05-21
+entry_into_force: 2019-05-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2019/04/22/2019202372/justel"
+department: "Intérieur"
+retrieved: 2026-10-11
+---
+
+# 22 AVRIL 2019. - Loi portant modification de la loi du 15 avril 1994 relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de Contrôle nucléaire
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+A l'article 1er de la loi du 15 avril 1994 relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de Contrôle nucléaire, modifié en dernier lieu par la loi du 13 décembre 2017 est completé par la définition suivante :
+
+\- 'délégué à la protection des données' : le délégué désigné par l'Agence en application de l'article 37.1. a) du règlement 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE.
+
+## Art. 3
+
+Dans l'article 25/5 de la même loi, inséré par la loi du 26 janvier 2014, entre les alinéas 1er et 2, un alinéa rédigé comme suit est inséré :
+
+"Les données figurant dans le registre d'exposition peuvent être utilisées à des fins de statistiques".
+
+## Art. 4
+
+A l'article 25/6, 1° de la même loi inséré par la loi du 26 janvier 2014, les mots 'à la nationalité' sont abrogés.
+
+## Art. 5
+
+Dans l'article 25/7, 4° de la même loi, inséré par la loi du 26 janvier 2014, les mots 'consultant en sécurité de l'information et en protection de la vie privée' sont remplacés par les mots 'délégué à la protection des données'.
+
+## Art. 6
+
+Dans l'article 25/12 de la même loi, inséré par la loi du 26 janvier 2014, les mots 'de la loi du 8 décembre 1992 relative à la protection de la vie privé à l'égard des traîtements de données à caractère personnel' sont remplaces par les mots ', la réglementation sur la protection des personnes physiques à l'égard du traitement des données à caractère personnel'.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 22 avril 2019.
+
+PHILIPPE
+
+Par le Roi :
+
+le Ministre de la Sécurité et de l'Intérieur
+
+P. DE CREM
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS

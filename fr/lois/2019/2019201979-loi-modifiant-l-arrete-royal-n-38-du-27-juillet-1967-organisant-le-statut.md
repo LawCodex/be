@@ -1,0 +1,85 @@
+---
+title: "Loi modifiant l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants concernant l'aide à la maternité et instaurant l'aide à l'adoption"
+identifier: "2019201979"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/21/2019201979/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2019-03-21
+published: 2019-05-03
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2019/03/21/2019201979/justel"
+department: "Sécurité sociale"
+retrieved: 2026-10-11
+---
+
+# 21 MARS 2019. - Loi modifiant l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants concernant l'aide à la maternité et instaurant l'aide à l'adoption
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+Dans l'article 18bis de l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants, les modifications suivantes sont apportées :
+
+1° dans le paragraphe 1er, il est inséré un 8° rédigé comme suit:
+
+"8° la destination de l'aide à la maternité, si la travailleuse indépendante décède pendant ou après la naissance de l'enfant ou des enfants.";
+
+2° il est inséré un paragraphe 1er/1, rédigé comme suit :
+
+" § 1er/1. Un régime d'aide à l'adoption est organisé en faveur des travailleurs indépendants pour les aider à créer un lien familial après l'adoption d'un ou de plusieurs enfants. Il s'agit d'une prestation pour permettre au travailleur indépendant d'obtenir une aide à domicile de nature ménagère.
+
+Sont visés par cette aide à l'adoption, les travailleurs indépendants qui remplissent les conditions pour bénéficier de l'allocation d'adoption telle que prévue pour les travailleurs indépendants, les aidants et les conjoints aidants.
+
+L'action en paiement ou en répétition de l'aide à l'adoption se prescrit par cinq ans.
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, modifier la nature de l'aide à l'adoption et déterminer les modalités d'octroi de cette aide à l'adoption :
+
+1\) les conditions d'octroi;
+
+2\) les institutions et organismes compétents pour l'octroi et la gestion;
+
+3\) la procédure de demande;
+
+4\) le délai dans lequel la demande doit être introduite;
+
+5\) les modalités de paiement;
+
+6\) les dates de prise de cours des délais de prescription;
+
+7\) les cas dans lesquels il peut être renoncé à la récupération de l'aide à l'adoption payée indûment;
+
+8\) la destination de l'aide à l'adoption, si le travailleur indépendant décède pendant la naissance ou après l'adoption.
+
+## Art. 3
+
+Le Roi fixe la date d'entrée en vigueur de la présente loi.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 21 mars 2019.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre des Indépendants,
+
+D. DUCARME
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS
