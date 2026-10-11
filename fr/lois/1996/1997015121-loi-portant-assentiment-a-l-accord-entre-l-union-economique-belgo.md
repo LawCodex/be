@@ -1,0 +1,62 @@
+---
+title: "Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République de Géorgie concernant la promotion et la protection réciproques des investissements, signés à Bruxelles le 23 juin 1993."
+identifier: "1997015121"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1996/06/10/1997015121/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1996-06-10
+published: 1997-09-18
+entry_into_force: 1997-09-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1996/06/10/1997015121/justel"
+department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
+retrieved: 2026-10-11
+---
+
+# 10 JUIN 1996. - Loi portant assentiment à l'Accord entre l'Union économique belgo-luxembourgeoise et la République de Géorgie concernant la promotion et la protection réciproques des investissements, signés à Bruxelles le 23 juin 1993.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77, alinéa 1er, 6°, de la Constitution.
+
+## Art. 2
+
+L'Accord entre l'Union économique belgo-luxembourgeoise et la République de Géorgie concernant la promotion et la protection réciproques des investissements, signés à Bruxelles le 23 juin 1993, sortira son plein et entier effet.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 10 juin 1996.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires étrangères,
+
+E. DERYCKE
+
+Le Ministre du Commerce extérieur,
+
+Ph. MAYSTADT
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK
+
+## ANNEXE.
+
+## Art. N
+
+Accord entre l'Union économique belgo-luxembourgeoise et la République de Géorgie concernant la promotion et la protection réciproques des investissements.
+
+(Pour l'accord, voir %%1993-06-23/38%%).

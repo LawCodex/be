@@ -1,0 +1,74 @@
+---
+title: "Loi portant création d'une Commission Centrale chargée d'examiner la concrétisation des revendications non satisfaites des anciens combattants et des victimes de la guerre en fonction des disponibilités budgétaires."
+identifier: "1997002002"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/20/1997002002/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1996-12-20
+published: 1997-01-31
+entry_into_force: 1997-01-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/20/1997002002/justel"
+department: "Fonction publique"
+retrieved: 2026-10-11
+---
+
+# 20 DECEMBRE 1996. - Loi portant création d'une Commission Centrale chargée d'examiner la concrétisation des revendications non satisfaites des anciens combattants et des victimes de la guerre en fonction des disponibilités budgétaires.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Il est créé une Commission Centrale chargée d'examiner la concrétisation des revendications non satisfaites des anciens combattants et des victimes de la guerre en fonction des disponibilités budgétaires.
+
+## Art. 3
+
+§ 1 La Commission Centrale est composée :
+
+1° de 8 membres effectifs et de 8 membres suppléants désignés par les ministres ayant la santé publique, les pensions, les finances, le budget, la défense nationale, les communications, les affaires sociales et les victimes de la guerre dans leurs attributions;
+
+2° de 5 membres effectifs et de 5 membres suppléants représentant la Communauté des Anciens Combattants et des Victimes de la Guerre, à savoir : le président du Conseil supérieur des invalides de guerre, anciens combattants et victimes de guerre, le président du Comité de contact des associations patriotiques représentant toutes ses associations, le président du Comité de coordination des associations de déportés, réfractaires et victimes civiles des deux guerres, représentant toutes les associations qui en font partie, le président du Comité d'action des forces belges de Grande-Bretagne et du Commonwealth et le président du Comité d'action de la résistance, ces deux derniers représentant les Forces belges combattantes actives de la Guerre.
+
+§ 2 - Les membres effectifs de la Commission Centrale peuvent, s'ils le jugent nécessaire, se faire assister par un ou deux experts ou techniciens dans les matières particulières traitées au cours des séances.
+
+§ 3 - Le président et le secrétaire de la Commission Centrale sont désignés par le Ministre ayant les victimes de guerre dans ses attributions.
+
+## Art. 4
+
+Le secrétariat de la Commission Centrale est assuré par le secrétariat du Conseil supérieur des invalides de guerre, anciens combattants et victimes de la guerre.
+
+## Art. 5
+
+La Commission établit son règlement d'ordre intérieur.
+
+## Art. 6
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Bruxelles, le 20 décembre 1996.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Fonction publique,
+
+A. FLAHAUT
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK

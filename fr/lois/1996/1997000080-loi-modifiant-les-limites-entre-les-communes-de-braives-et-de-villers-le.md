@@ -1,0 +1,62 @@
+---
+title: "Loi modifiant les limites entre les communes de Braives et de Villers-le-Bouillet."
+identifier: "1997000080"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/19/1997000080/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1996-12-19
+published: 1997-04-04
+entry_into_force: 1997-04-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1996/12/19/1997000080/justel"
+department: "Intérieur"
+retrieved: 2026-10-11
+---
+
+# 19 DECEMBRE 1996. - Loi modifiant les limites entre les communes de Braives et de Villers-le-Bouillet.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+La partie du territoire de Villers-le-Bouillet, 2e division/Warnant-Dreye/section B, 5e feuille, est rattachée à Braives, 5e division/Fumal/section A, 2e feuille.
+
+La nouvelle limite suivra l'axe du ruisseau du Fond des Colonvas et, ensuite, en traversant un chemin non cadastré, la limite entre successivement, d'une part au nord, les parcelles 196 A,195 B et 193, et d'autre part au sud, les parcelles 198, 197, 200 L, 200 M et 200 N. A partir du coin est, de la parcelle 193, ladite limite traversera la parcelle 204 A, en ligne droite, pour rejoindre le bord ouest de la route Huy-Hannut à 95,29 mètres du bord nord du chemin vicinal n° 3 de Fumal à Oultremont. A partir de là, elle longera vers le sud, ledit bord ouest de la route Huy-Hannut pour rejoindre son tracé ancien.
+
+## Art. 3
+
+La partie du territoire de Braives, 4e division/Fallais/section B, 1re feuille, est rattachée à Villers-le-Bouillet 3e division/Vieux Waleffe/section A, 1re feuille.
+
+Au coin est de la parcelle 368, la nouvelle limite s'écartera de son tracé original pour longer le côté sud de ladite parcelle et traverser ensuite la parcelle 364 H, en ligne droite, pour rejoindre le bord est de la route Hannut-Huy à 59,84 mètres du bord nord du chemin vicinal n° 5 de Fallais. Elle suivra ensuite ledit côté est de cette route, en direction du sud, jusqu'au coin sud de la parcelle 397 V 2. Puis vers l'est la nouvelle limite empruntera le côté nord de la parcelle 397 S et traversera, dans le prolongement de ce côté en ligne droite les parcelles 379 D, 377 B et 376 pour rejoindre l'ancienne limite, à 84,98 mètres du bord sud du chemin vicinal n° 5 de Fallais.
+
+## Art. 4
+
+Les indications cadastrales auxquelles se réfèrent les articles 2 et 3 sont extraites des documents cadastraux mis à jour au 1er janvier 1993.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 19 décembre 1996.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de l'Intérieur,
+
+J. VANDE LANOTTE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK
