@@ -1,0 +1,1228 @@
+---
+title: "Loi relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs."
+identifier: "1989011371"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1989/11/21/1989011371/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1989-11-21
+published: 1989-12-08
+entry_into_force: 1991-05-06
+last_amended: 2025-12-23
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1989/11/21/1989011371/justel"
+department: "Affaires économiques - Justice"
+justel_note: "Consultation des versions antérieures à partir du 27-03-1991 et mise à jour au 23-12-2025"
+retrieved: 2026-10-12
+---
+
+# 21 NOVEMBRE 1989. - Loi relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs.
+
+## CHAPITRE I. - Dispositions préliminaires.
+
+#### Art. 1
+
+Pour l'application de la présente loi on entend :
+
+Par véhicules automoteurs : les véhicules destinés à circuler sur le sol et qui peuvent être actionnés par une force mécanique sans être liés à une voie ferrée; tout ce qui est attelé au véhicule est considéré comme en faisant partie.
+
+Sont assimilées aux véhicules automoteurs, les remorques construites spécialement pour être attelées à un véhicule automoteur en vue du transport de personnes ou de choses et qui sont déterminées par le Roi. [<sup>1</sup> Le Roi peut, par arrêté délibéré en Conseil des ministres, préciser quels sont les moyens de transport relevant de la définition de véhicule automoteur.]<sup>1</sup>
+
+[<sup>2</sup> Par circulation d'un véhicule: toute utilisation d'un véhicule qui est conforme à la fonction de moyen de transport du véhicule au moment de l'accident, quelles que soient les caractéristiques du véhicule et quel que soit le terrain sur lequel le véhicule automoteur est utilisé et que celui-ci soit à l'arrêt ou en mouvement.]<sup>2</sup>
+
+Par assurés : les personnes dont la responsabilité est couverte conformément aux dispositions de la présente loi.
+
+[<sup>2</sup> Par personne lésée: toute personne ayant droit à la réparation du dommage causé par des véhicules.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 2, 024; En vigueur : 22-06-2017&gt;
+
+(2)&lt;L 2024-03-17/12, art. 2, 029; En vigueur : 12-04-2024&gt;
+
+## CHAPITRE II. - De l'assurance obligatoire.
+
+#### Art. 2
+
+§ 1. Les véhicules automoteurs ne sont admis à la circulation sur la voie publique, les terrains ouverts au public et les terrains non publics mais ouverts à un certain nombre de personnes ayant le droit de les fréquenter, que si la responsabilité civile à laquelle ils peuvent donner lieu est couverte par un contrat d'assurance répondant aux dispositions de la présente loi et dont les effets ne sont pas suspendus.
+
+[<sup>2</sup> Les véhicules automoteurs se trouvant sur des terrains, autres que ceux visés à l'alinéa 1er, doivent être couverts par un contrat d'assurance conformément à l'alinéa 1er.
+
+Les véhicules automoteurs dont la circulation sur la voie publique n'est pas autorisée sont exemptés de l'obligation d'assurance lorsqu'ils se trouvent sur des terrains autres que ceux visés à l'alinéa 1er. Le Roi peut déterminer ce qu'il faut entendre par "non autorisés sur la voie publique.]<sup>2</sup>
+
+L'obligation de contracter l'assurance incombe au propriétaire du véhicule. Si une autre personne à contracté l'assurance, l'obligation du propriétaire est suspendue pour la durée du contrat conclu par cette autre personne.
+
+[<sup>2</sup> L'assurance doit être contractée auprès d'un assureur qui est autorisé à offrir de souscrire cette assurance, conformément à la loi.]<sup>2</sup>
+
+§ 2. Toutefois, les véhicules automoteurs ayant leur stationnement habituel à l'étranger sont également admis à la circulation en Belgique à la condition que le Bureau agréé ou créé à cette fin en application de [<sup>1</sup> l'article 19bis-1]<sup>1</sup> assume lui-même à l'égard des personnes lésées, la charge de réparer conformément aux dispositions de la présente loi les dommages causés en Belgique par ces véhicules.
+
+Pour l'application de la présente loi, ce Bureau est assimilé à un assureur.
+
+Le Roi détermine quels sont les véhicules qui sont réputés, pour l'exécution de la présente loi, avoir leur stationnement habituel à l'étranger. Il fixe les modalités d'admission de ces véhicules en Belgique et il peut exiger la production d'un certificat international d'assurance.
+
+Lorsque, pour des conducteurs de véhicules ayant leur stationnement habituel dans les pays étrangers que le Roi détermine, le port du certificat international d'assurance n'est pas exigé, l'obligation du Bureau est maintenue même si l'obligation d'assurance n'a pas été respectée.
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 3, 024; En vigueur : 22-06-2017&gt;
+
+(2)&lt;L 2024-03-17/12, art. 3, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 2bis
+
+[<sup>1</sup> Sont exemptés de l'obligation d'assurance visée à l'article 2, § 1er, les véhicules automoteurs:
+
+a) qui peuvent être actionnés par une force mécanique avec une vitesse maximale par construction ne dépassant pas 6 km/h et ayant une masse maximale ne dépassant pas 100 kg;
+
+b) qui peuvent être actionnés par une force mécanique avec une vitesse maximale par construction supérieure à 6 km/h, mais ne dépassant pas 25 km/h et ayant une masse maximale ne dépassant pas 25 kg;
+
+c) qui sont des fauteuils roulants automoteurs exclusivement destinés à être utilisés par des personnes souffrant d'un handicap physique.
+
+La masse est estimée batterie comprise.
+
+Restent soumis à l'obligation d'assurance visée à l'article 2, § 1er, les véhicules automoteurs qui sont destinés également à d'autres finalités que le simple déplacement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-03-17/12, art. 4, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 3
+
+§ 1. L'assurance doit garantir l'indemnisation des personnes lésées chaque fois qu'est engagée la responsabilité civile du propriétaire, de tout détenteur et de tout conducteur du véhicule assuré, de toute personne transportée [<sup>1</sup> et des personnes qui sont civilement responsables des personnes précitées,]<sup>1</sup> à l'exclusion de la responsabilité civile de ceux qui se seraient rendus maîtres du véhicule par vol ou violence ou par suite de recel. &lt;L 2005-07-03/59, art. 8bis; En vigueur : 01-01-2007&gt;
+
+L'assurance doit garantir, aux conditions que le Roi détermine, les dommages causés aux personnes et aux biens par des faits survenus sur le territoire des Etats déterminés par le Roi. Elle doit garantir les dommages causés aux personnes transportées à quelque titre que ce soit par le véhicule assuré.
+
+(L'assurance garantit pendant toute la durée du contrat, chaque séjour du véhicule assuré dans un autre Etat de l'Espace économique européen. En aucun cas, ce séjour ne peut être considéré comme une aggravation ou une diminution du risque assuré, ni entraîner une modification des conditions d'assurance. Dès que le véhicule assuré est inscrit dans un autre Etat que la Belgique, l'assurance prend fin de plein droit.) &lt;L 2008-06-08/31, art. 14, 019; En vigueur : 26-06-2008&gt;
+
+Toutefois, peuvent être exclus de l'assurance, les dommages :
+
+1° au véhicule assuré;
+
+2° [<sup>1</sup> aux biens transportés à titre professionnel et onéreux par ce véhicule à l'exception des vêtements et bagages appartenant personnellement aux personnes transportées.]<sup>1</sup>
+
+L'assurance doit couvrir la responsabilité civile du chef des dommages causés par le véhicule automoteur telle qu'elle résulte de la loi applicable.
+
+L'assurance portant sur une remorque assimilée à un véhicule automoteur par l'article 1er, ne doit couvrir que les dommages causés par la remorque non attelée.
+
+[<sup>2</sup> Lorsque l'assureur de la remorque dispose d'informations sur l'identité de l'assureur responsabilité civile du véhicule tracteur, il fournit ces informations, sans délai, à la demande de la personne lésée. Si l'assureur de la remorque n'a pas connaissance de ces éléments et que l'accident est survenu sur le territoire belge, il informe la personne lésée des conditions d'indemnisation qui sont appliquées par le Fonds visé à l'article 19bis-2 si le véhicule automoteur ayant causé l'accident ne peut être identifié.]<sup>2</sup>
+
+§ 2. (En ce qui concerne les dommages résultant des lésions corporelles, la garantie est illimitée.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+En ce qui concerne les dommages matériels, la couverture peut être limitée à un montant qui ne peut être inférieur à 100 millions d'euros par sinistre.) &lt;L 2007-01-12/49, art. 2, 1°, 018; En vigueur : 17-03-2007&gt;
+
+[<sup>2</sup> Le Roi peut, par arrêté délibéré en Conseil des ministres, déterminer un montant unique pour l'ensemble des lésions corporelles et des dommages matériels, lequel montant ne peut pas être inférieur à un montant 200 millions d'euros par sinistre pour l'ensemble des dommages corporels et matériels. Dans ce cas, lorsque l'assureur constate que le montant fixé par le Roi ne suffit pas à indemniser l'ensemble des dommages subis ou lorsqu'il n'est pas encore établi avec suffisance que le montant fixé par le Roi permettra d'indemniser l'ensemble des dommages, les lésions corporelles sont indemnisées en priorité.]<sup>2</sup>
+
+§ 3. Le présent article n'est pas applicable aux dommages dont la réparation est organisée par la législation relative à la responsabilité civile dans le domaine de l'énergie nucléaire.
+
+(Alinéa 2 abrogé) &lt;L 2007-01-12/49, art. 2, 2°, 018; En vigueur : 17-03-2007&gt;
+
+§ 4. (Tous les cinq ans, les montants visés aux paragraphes précédents sont adaptés d'office à l'évolution de l'indice des prix à la consommation de Royaume. La première révision a lieu le 1er janvier 2011, l'indice de base étant celui de décembre 2005 (base 2004 = 100).) &lt;L 2007-01-12/49, art. 2, 3°, 018; En vigueur : 17-03-2007&gt;
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 4, 024; En vigueur : 22-06-2017&gt;
+
+(2)&lt;L 2024-03-17/12, art. 5, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 4
+
+§ 1. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. Peuvent être exclus de l'assurance, les dommages qui découlent de la participation du véhicule à des courses ou concours de vitesse, de régularité ou d'adresse autorisés conformément à l'article 8.
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 5, 024; En vigueur : 22-06-2017&gt;
+
+#### Art. 5
+
+&lt;Rétabli par L 2007-01-12/49, art. 3, 018; En vigueur : 17-03-2007&gt; Sans préjudice de l'application du Chapitre III, l'Etat qui, pour des raisons de solidarité, a indemnisé la personne lésée en tout ou en partie avant que l'assureur procède au paiement volontaire ou forcée, est subrogé à concurrence du montant de cette indemnisation, dans les droits et actions de la personne lésée contre l'assureur.
+
+Si par le fait de la personne lésée, la subrogation ne peut plus produire ses effets en faveur de l'Etat, l'Etat peut réclamer à la personne lésée la restitution de l'indemnité versée dans la mesure du préjudice subi.
+
+La subrogation ne peut nuire à la personne lésée qui n'aurait été indemnisée qu'en partie. Dans ce cas, elle peut exercer ses droits, pour ce qui lui reste dû, de préférence à l'Etat.
+
+#### Art. 6
+
+§ 1. L'immatriculation d'un véhicule automoteur est subordonnée à la couverture conforme aux dispositions de la présente loi de la responsabilité civile à laquelle ce véhicule peut donner lieu.
+
+Le Roi réglemente la délivrance et la restitution de la marque d'immatriculation.
+
+(Alinéa 3 abrogé) &lt;L 2004-07-09/30, art. 70, 013; En vigueur : 25-07-2004&gt;
+
+(Alinéa 4 abrogé) &lt;L 2004-07-09/30, art. 70, 013; En vigueur : 25-07-2004&gt;
+
+§ 2. Aucun véhicule automoteur ne peut être mis en circulation sur la voie publique sans qu'il soit satisfait aux prescriptions suivantes :
+
+1\. Si le véhicule est immatriculé en Belgique, il doit être muni de la marque d'immatriculation correspondant aux mentions du certificat d'immatriculation.
+
+2\. [<sup>1</sup> ...]<sup>1</sup>
+
+3\. Si le véhicule a son stationnement habituel à l'étranger, le conducteur doit pouvoir établir par les moyens de preuve déterminés par le Roi que le véhicule est admis à circuler en Belgique en vertu de l'article 2 de la présente loi ou en vertu d'un traité international.
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 6, 024; En vigueur : 22-06-2017&gt;
+
+#### Art. 7
+
+&lt;L 2008-06-08/31, art. 15, 019; En vigueur : 26-06-2008&gt; § 1er. L'assureur délivre au preneur d'assurance un certificat justifiant du contrat d'assurance prévu à l'article 2.
+
+[<sup>1</sup> Le Roi peut déterminer les conditions dans lesquelles les assureurs peuvent être dispensés de l'obligation de délivrer le certificat international d'assurance au preneur d'assurance.]<sup>1</sup>
+
+§ 2. Il lui délivre également dans les quinze jours de sa demande et à la fin de son contrat, une attestation relative aux recours de tiers ou à l'absence de tels recours impliquant le véhicule ou les véhicules couverts par le contrat d'assurance au cours des cinq dernières années au moins de la relation contractuelle.
+
+[<sup>2</sup> Lorsque l'entreprise d'assurances tient compte de l'attestation visée à l'alinéa 1er fournie par d'autres entreprises d'assurances ou d'autres organismes, le preneur d'assurance n'est pas traité de manière discriminatoire et des primes plus élevées ne sont pas facturées en raison de la nationalité ou sur le seul fondement du précédent Etat membre de résidence.
+
+L'entreprise d'assurances publie une synthèse générale de sa politique en matière d'utilisation de l'attestation visée à l'alinéa 1er pour le calcul des primes.
+
+L'attestation visée à l'alinéa 1er reprend la forme et le contenu d'un modèle adopté par la Commission européenne par l'acte d'exécution visé à l'article 16, sixième alinéa, de la directive 2009/103/CE du Parlement européen et du Conseil du 16 septembre 2009 concernant l'assurance de la responsabilité civile résultant de la circulation de véhicules automoteurs et le contrôle de l'obligation d'assurer cette responsabilité.]<sup>2</sup>
+
+§ 3. Le Roi peut déterminer les conditions de délivrance et de retrait des documents visés aux paragraphes précédents. Il peut également en déterminer la forme ainsi que les mentions qui doivent y figurer.
+
+[<sup>3</sup> § 4. Dans le cadre de la délégation prévue au paragraphe 3, le Roi peut préciser le traitement de données à caractère personnel relatives à l'attestation visée au paragraphe 2, alinéa 1er, dénommée ci-après "le relevé de sinistres", à condition qu'il soit satisfait aux conditions suivantes:
+
+1° la catégorie de personnes dont les données à caractère personnel sont susceptibles de faire l'objet d'un traitement sont le preneur d'assurance, l'émetteur du relevé de sinistres et le conducteur du véhicule assuré;
+
+2° les données à caractère personnel traitées sont:
+
+a) les données d'identification personnelles et les données de contact du preneur d'assurance et de l'émetteur du relevé de sinistres;
+
+b) les données d'identification personnelles du conducteur du véhicule assuré au moment du sinistre;
+
+c) les données d'identification du véhicule assuré;
+
+d) le numéro de police du contrat d'assurance;
+
+3° la finalité du traitement des données à caractère personnel est de permettre au candidat assureur, sur la base du relevé de sinistres, d'apprécier correctement le risque et de déterminer la prime pour le risque à assurer;
+
+4° la catégorie des personnes qui ont accès aux données à caractère personnel sont le preneur d'assurance, l'émetteur du relevé de sinistres, le candidat assureur et, le cas échéant, l'intermédiaire d'assurance;
+
+5° sauf disposition contraire de la loi, le délai maximum de conservation des données à caractère personnel est de cinq ans après la remise du relevé de sinistres à l'assureur et, le cas échéant, à l'intermédiaire d'assurance. En cas de procédure judiciaire, ce délai peut être prolongé jusqu'à ce que le jugement ou l'arrêt soit coulé en force de chose jugée.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2021-02-02/06, art. 19, 026; En vigueur : 21-02-2021&gt;
+
+(2)&lt;L 2024-03-17/12, art. 6, 029; En vigueur : 12-04-2024&gt;
+
+(3)&lt;L 2025-12-12/08, art. 2, 030; En vigueur : 02-01-2026&gt;
+
+#### Art. 8
+
+L'organisation de courses ou de concours de vitesse, de régularité ou d'adresse au moyen de véhicules automoteurs est soumise à une autorisation délivrée par une autorité, désignée par le Roi, qui a pour mission de constater qu'une assurance spéciale répondant aux dispositions de la présente loi, couvre la responsabilité civile des organisateurs et des personnes visées à l'article 3, § 1er.
+
+Cette autorisation ne dispense pas de celles qui sont requises par d'autres dispositions légales ou réglementaires.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>2</sup> Le Roi peut préciser les conditions de l'assurance, visée à l'alinéa 1er.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 7, 024; En vigueur : 22-06-2017&gt;
+
+(2)&lt;L 2024-03-17/12, art. 7, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 9
+
+(Alinéa 1 abrogé) &lt;L 2002-08-22/41, art. 4, 010; En vigueur : 19-01-2003&gt;
+
+Le Roi peut fixer des règles concernant la constatation de l'accident par les assurés, la forme et les modalités de la déclaration à l'assureur, et le modèle des documents qui doivent être utilisés à ces fins et dont l'assuré doit être porteur.
+
+Le Roi peut également fixer des règles concernant la constatation de l'accident par les agents qualifiés à cet effet. Il peut notamment établir le modèle du constat à utiliser par ceux-ci et déterminer les renseignements qui doivent être transmis sans délai aux parties intéressées et à leurs assureurs.
+
+## CHAPITRE IIbis. - Bureau de tarification. &lt;Inséré par L 2002-08-02/47, art. 2, 009; En vigueur : 09-09-2002&gt;
+
+#### Art. 9bis
+
+&lt;Inséré par L 2002-08-02/47, art. 2, 009; En vigueur : 09-09-2002&gt; § 1er. II est créé, au sein du Fonds commun de garantie visé à l' [<sup>1</sup> article 19bis-2]<sup>1</sup>, un Bureau de tarification qui a pour mission d'établir la prime et les conditions auxquelles une entreprise d'assurances est tenue de couvrir une personne soumise à l'obligation de [<sup>3</sup> l'article 2, § 1er, alinéa 1er,]<sup>3</sup> et qui se trouve dans les conditions fixées par ou en vertu du présent chapitre.
+
+(Le Bureau n'est pas considéré comme un intermédiaire d'assurances au sens de la [<sup>1</sup> loi du 4 avril 2014 relative aux assurances, Partie 6]<sup>1</sup>.) &lt;L 2005-12-27/31, art. 17, 016; En vigueur : 09-01-2006&gt;
+
+§ 2. Le bureau se compose de quatre membres représentant les entreprises d'assurances et quatre membres représentant les consommateurs, nommés par le Roi pour un terme de six ans. Ces membres sont choisis [<sup>2</sup> à partir de deux listes, présentées l'une par les associations professionnelles des entreprises d'assurances et l'autre par les associations ayant pour objet la défense des intérêts des consommateurs]<sup>2</sup>.
+
+Le Roi désigne également pour chaque membre un suppléant. Les suppléants sont choisis de la même manière que les membres effectifs.
+
+Le Roi nomme, pour un terme de six ans, un président n'appartenant pas aux catégories précédentes. Le bureau peut s'adjoindre des experts n'ayant pas voix délibérative.
+
+Le Ministre ayant les Affaires économiques dans ses attributions peut déléguer un observateur auprès du bureau.
+
+§ 3. Le Fonds commun de garantie assure le secrétariat et la gestion journalière du Bureau de tarification.
+
+Le Bureau de tarification établit son règlement d'ordre intérieur et le soumet à l'approbation du Ministre ayant les Affaires économiques dans ses attributions.
+
+[<sup>1</sup> § 4. Le Bureau de Tarification rédige, tous les trois ans, un rapport sur son fonctionnement et les problématiques rencontrées qui est publié sur son site et transmis sans délai aux Chambres législatives fédérales.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 8, 024; En vigueur : 22-06-2017&gt;
+
+(2)&lt;L 2023-11-05/07, art. 74, 028; En vigueur : 21-12-2023&gt;
+
+(3)&lt;L 2024-03-17/12, art. 8, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 9ter
+
+&lt;Inséré par L 2002-08-02/47, art. 2, 009; En vigueur : 09-09-2002&gt; § 1er. Toute personne soumise à l'obligation de [<sup>2</sup> l'article 2, § 1er, alinéa 1er,]<sup>2</sup> peut introduire une demande auprès du Bureau de tarification lorsqu'au moins trois entreprises d'assurances auxquelles elle s'est adressée ont refusé de lui accorder une couverture. [<sup>1</sup> Après avis de la Commission des assurances et sur proposition du Bureau de tarification, le Roi peut réduire le nombre de refus requis en fonction de la catégorie spécifique de risque de la personne concernée.]<sup>1</sup>
+
+§ 2. Est assimilée à un refus la proposition d'une prime supérieure au seuil défini par le Roi.
+
+Ce seuil est déterminé en multipliant la prime la plus basse du tarif de l'entreprise d'assurances pour un véhicule automoteur identique à celui faisant l'objet de la demande de couverture par 5. Ce coefficient peut être modifié par le Roi sans qu'il puisse être inférieur à 4.
+
+§ 3. Est assimilée à un refus la proposition d'une franchise supérieure au seuil défini par le Roi.
+
+Ce seuil est déterminé en multipliant la prime la plus basse du tarif de l'entreprise d'assurances pour un véhicule automoteur identique à celui faisant l'objet de la demande de couverture par 3. Ce coefficient peut être modifié par le Roi sans qu'il puisse être inférieur à 2,5.
+
+§ 4. Le Roi peut subdiviser les coefficients visés aux §§ 2 et 3 notamment en fonction de l'âge, de l'ancienneté du permis de conduire et des statistiques en matière de sinistre du conducteur.
+
+§ 5. L'entreprise d'assurances est tenue d'informer le candidat preneur d'assurance qu'il se trouve dans l'un des cas visés aux §§ 2 et 3.
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 9, 024; En vigueur : 22-06-2017&gt;
+
+(2)&lt;L 2024-03-17/12, art. 9, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 9quater
+
+&lt;Inséré par L 2002-08-02/47, art. 2, 009; En vigueur : 09-09-2002&gt; § 1er. La demande doit être introduite auprès du Bureau de tarification dans les deux mois à dater du refus ou de la proposition de tarification visés à l'article 9ter. Elle n'est pas recevable lorsque le demandeur a reçu une offre du Bureau de tarification, pour le même risque, dans les neuf mois précédant ce refus ou cette proposition.
+
+§ 2. Le Bureau de tarification fixe la prime en tenant compte du risque que le preneur d'assurance présente et de la solidarité entre l'ensemble des assurés. Il peut imposer des conditions propres à réduire le risque que le preneur d'assurance présente.
+
+§ 3. Le Bureau de tarification fait une proposition de tarification dans le mois de la réception de la demande et des renseignements nécessaires à l'établissement de la tarification. La proposition est notifiée au demandeur dans les huit jours. Elle est valable pendant un mois à compter de son expédition.
+
+#### Art. 9quinquies
+
+&lt;Inséré par L 2002-08-02/47, art. 2, 009; En vigueur : 09-09-2002&gt; § 1er. Le Bureau de tarification confie la gestion des risques tarifés par lui à une ou plusieurs entreprises d'assurances membres du Fonds commun de garantie institué par l' [<sup>1</sup> article 19bis-2]<sup>1</sup>.
+
+§ 2. Le résultat de la gestion des sinistres relatifs aux risques tarifés par le Bureau de tarification est intégré aux comptes du Fonds.
+
+§ 3. Le Roi peut fixer des règles propres à répartir ce résultat entre les entreprises d'assurances membres du fonds.
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 10, 024; En vigueur : 22-06-2017&gt;
+
+## CHAPITRE III. - Des véhicules appartenant à l'Etat ou à certains organismes publics.
+
+#### Art. 10
+
+§ 1. L'Etat, les Régions, les Communautés, ([<sup>3</sup> Proximus]<sup>3</sup>), (la Société nationale des voies aériennes (S.N.V.A.)), la Société nationale des chemins de fer belges, ([<sup>2</sup> ...]<sup>2</sup>, Infrabel), la Société nationale des chemins de fer vicinaux, (...) et [<sup>1</sup> bpost]<sup>1</sup> ne sont pas tenus de contracter une assurance pour les véhicules leur appartenant ou immatriculés en leur nom. &lt;L 1991-03-21/30, art. 55, 002; En vigueur : 04-09-1992&gt; &lt;L 1991-03-21/30, art. 169, 002; En vigueur : 5555-55-55&gt; &lt;L 1991-03-21/30, art. 130, 002; En vigueur : 01-10-1992&gt; &lt;AR 1997-02-18/30, art. 10, 006; En vigueur : indéterminée &gt; &lt;AR 2004-10-18/32, art. 24, 014; En vigueur : 01-01-2005&gt; &lt;AR 2004-10-18/32, art. 24, 014 ; En vigueur : 01-01-2005&gt;
+
+En l'absence d'assurance, ils couvrent eux-mêmes conformément à la présente loi la responsabilité civile à laquelle le véhicule automoteur peut donner lieu, les exclusions et limitations prévues aux articles 3 et 4 étant applicables si le Roi n'en dispose autrement.
+
+Lorsqu'ils ne sont pas obligés de réparer le dommage, en raison de la responsabilité civile qui leur est propre, ils sont tenus, à l'égard des personnes lésées, dans les mêmes conditions que l'assureur. Ils peuvent en tout cas être mis en cause devant la juridiction répressive, saisie de l'action civile intentée contre l'auteur du dommage.
+
+Ils ont, à l'égard de la personne lésée, les obligations mises à charge du Fonds de garantie (par l'article 19bis-11, § 1er, 3°) et 4°)) si le conducteur ou le détenteur du véhicule automoteur s'en est rendu maître par vol, violence ou par suite de recel, ou s'il est exonéré de toute responsabilité par suite d'un cas fortuit. &lt;L 2002-08-22/41, art. 5, 010; En vigueur : 19-01-2003&gt;
+
+§ 2. Le Roi peut autoriser les organismes d'intérêt public de transport en commun nationaux ou régionaux qu'Il désigne à bénéficier du régime applicable à l'Etat.
+
+Toutefois, en ce qui concerne les organismes qui dépendent des Régions, cette autorisation est accordée après avis de celles-ci.
+
+Le Roi fixe les conditions d'octroi et de retrait de cette autorisation, ainsi que les mesures de contrôle nécessaires.
+
+L'autorisation peut notamment être subordonnée au dépôt d'un cautionnement à la Caisse de dépôts et consignations.
+
+[<sup>4</sup> § 3. Lorsqu'un véhicule automoteur tombant sous l'application de la loi du 9 janvier 1953 portant approbation de la Convention entre les Etats parties au Traité de l'Atlantique nord sur le statut de leurs forces et de l'annexe, signées à Londres le 19 juin 1951 et qui est habituellement stationné à l'étranger, cause des dommages en Belgique, l'Etat paie l'indemnisation conformément au § 1er et sans préjudice de l'application de l'article 2, § 2.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2010-12-13/07, art. 4, 020; En vigueur : 17-01-2011&gt;
+
+(2)&lt;AR 2013-12-11/03, art. 47, 021; En vigueur : 01-01-2014 ou à une date ultérieure fixée par le Roi et au plus tard le 1er avril 2014&gt;
+
+(3)&lt;L 2015-08-10/26, art. 3, 023; En vigueur : 22-06-2015 (voir AR 2015-09-11/02, art. 1)&gt;
+
+(4)&lt;L 2017-05-31/04, art. 11, 024; En vigueur : 22-06-2017&gt;
+
+#### Art. 11
+
+§ 1. Les véhicules automoteurs ayant leur stationnement habituel en dehors du territoire de la Belgique seront dispensés, en Belgique, de l'application de l'article 2 lorsqu'ils seront munis d'une attestation du gouvernement d'un autre Etat constatant que le véhicule appartient à cet Etat ou, s'il s'agit d'un Etat fédéral, à celui-ci ou à l'un de ses pays membres; dans ce dernier cas, l'attestation sera délivrée par le gouvernement fédéral.
+
+§ 2. Cette attestation désignera l'autorité ou l'organisme qui sera chargé de réparer le dommage conformément à la loi belge et qui sera susceptible d'être cité, devant les juridictions compétentes selon cette loi. L'Etat ou le pays auquel appartient ce véhicule se portera garant dudit règlement.
+
+## CHAPITRE IV. - De l'action de la personne lésée contre l'assureur et le représentant chargé du règlement des sinistres &lt;L 2002-08-22/41, art. 6, 010; En vigueur : 19-01-2003&gt;
+
+### Section 1. - Du représentant chargé du règlement des sinistres &lt;L 2002-08-22/41, art. 6, 010; En vigueur : 19-01-2003&gt;
+
+#### Art. 12
+
+&lt;L 2002-08-22/41, art. 6, 010; En vigueur : 19-01-2003&gt; § 1er. [<sup>1</sup> Chaque entreprise d'assurances ayant obtenu un agrément pour couvrir les risques classés dans la branche 10 de l'annexe I à la loi du 13 mars 2016 relative au statut et au contrôle des entreprises d'assurance ou de réassurance, à l'exclusion de la responsabilité civile du transporteur, désigne, dans chacun des Etats de l'Espace économique européen autre que la Belgique, un représentant chargé du règlement des sinistres.
+
+Ce représentant a pour mission de traiter et de régler les demandes d'indemnisation résultant d'un accident survenu sur le territoire d'un pays dont le Bureau national a adhéré au système de la preuve internationale d'assurance et impliquant un véhicule ayant son stationnement habituel sur le territoire d'un Etat de l'Espace économique européen, assuré en responsabilité civile automobile par l'entreprise qui l'a désigné. Le représentant chargé du règlement des sinistres a sa résidence ou est établi dans l'Etat où il est désigné.]<sup>1</sup>
+
+§ 2. Le choix du représentant chargé du règlement des sinistres est laissé à l'appréciation de l'entreprise d'assurances.
+
+§ 3. Le représentant chargé du règlement des sinistres peut agir pour le compte d'une ou de plusieurs entreprises d'assurances.
+
+§ 4. Le représentant chargé du règlement des sinistres réunit, à propos des demandes d'indemnisation, toutes les informations nécessaires pour pouvoir les traiter et prend les mesures adéquates pour en négocier le règlement. L'exigence relative à la désignation d'un représentant n'exclut pas le droit pour la personne lésée ou son entreprise d'assurances d'engager directement des procédures contre la personne ayant causé l'accident ou son entreprise d'assurances.
+
+§ 5. [<sup>1</sup> Le représentant chargé du règlement des sinistres dispose de pouvoirs suffisants pour représenter l'entreprise d'assurances auprès des personnes lésées et pour traiter intégralement leurs demandes d'indemnisation. Parmi les pouvoirs suffisants dont dispose le représentant chargé du règlement des sinistres, figure l'habilitation de celui-ci à recevoir valablement la notification des actes judiciaires nécessaires à l'introduction d'une procédure en réparation d'un sinistre devant la juridiction compétente. Il doit être en mesure d'examiner l'affaire dans la ou les langues officielles de l'Etat de résidence de la personne lésée.]<sup>1</sup>
+
+§ 6. [<sup>1</sup> La désignation d'un représentant chargé du règlement des sinistres ne constitue pas en soi l'ouverture d'une succursale au sens de l'article 15, 33°, de la loi du 13 mars 2016 relative au statut et au contrôle des entreprises d'assurance ou de réassurance.
+
+Le représentant chargé du règlement des sinistres n'est pas considéré comme un établissement au sens:
+
+1° de l'article 15, 34°, de la loi du 13 mars 2016 relative au statut et au contrôle des entreprises d'assurance ou de réassurance;
+
+2° du règlement (UE) n° 1215/2012 du Parlement européen et du Conseil du 12 décembre 2012 concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale, de la Convention concernant la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale signée à Lugano le 30 octobre 2007 et de la décision 2009/430/CE du Conseil du 27 novembre 2008 relative à la conclusion de la convention sur la compétence judiciaire, la reconnaissance et l'exécution des décisions en matière civile et commerciale.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-03-17/12, art. 10, 029; En vigueur : 12-04-2024&gt;
+
+### Section 2. - Dispositions relatives à l'introduction et à la poursuite de l'action. &lt;L 2002-08-22/41, art. 6, 010; En vigueur : 19-01-2003&gt;
+
+#### Art. 13
+
+[<sup>1</sup> § 1er. Dans un délai de trois mois à compter de la date à laquelle la personne lésée a présenté une demande d'indemnisation, l'assureur qui couvre la responsabilité de la personne à qui le sinistre est imputé ou l'assureur du propriétaire, du détenteur ou du conducteur du véhicule automoteur impliqué dans l'accident au sens de l'article 29bis, § 1er, alinéa 1er, ou de l'article 29ter, § 1er, ou leur représentant chargé du règlement des sinistres, est tenu de présenter une offre d'indemnisation motivée lorsque chacune des conditions suivantes est remplie:
+
+1° la couverture de la responsabilité par le contrat d'assurance ou l'application de l'article 29bis ou de l'article 29ter n'est pas contestée; et
+
+2° la responsabilité n'est pas contestée, et le dommage n'est pas contesté et a été quantifié.
+
+Lorsque le dommage n'est pas entièrement quantifié, l'assureur ou son représentant chargé du règlement des sinistres doit présenter une offre d'avance. En ce qui concerne le dommage corporel, l'avance porte au moins sur les frais déjà exposés et sur l'incontestablement dû au regard des conséquences déjà connues du dommage subi et, en particulier, des périodes d'incapacité et d'invalidité temporaires déjà écoulées et prévisibles sur la base des rapports d'expertise médicale, contradictoires ou non, disponibles. La prise en compte du préjudice futur peut être limitée aux trois mois suivant la date à laquelle la personne lésée a présenté sa demande d'indemnisation.
+
+L'assureur verse l'indemnisation à la personne lésée sans délai et, en tout cas, dans les trente jours ouvrables qui suivent la date à laquelle l'assureur reçoit l'acceptation de son offre motivée d'indemnisation par la personne lésée.
+
+Le cas échéant, l'assureur communique à la personne lésée les conclusions du rapport provisoire unilatéral d'expertise médicale, en précisant qu'il s'agit d'un rapport médical provisoire, et en recommandant à la personne lésée de s'informer de ce à quoi elle a droit.
+
+§ 2. La personne lésée qui s'est vu adresser une offre d'avance peut, au plus tôt six mois après la demande précédente, introduire une nouvelle demande sur la base des informations complémentaires recueillies ultérieurement sur son dommage et son évolution.
+
+§ 3. Si aucune offre d'indemnisation n'est présentée dans le délai de trois mois visé au paragraphe 1er, alinéa 1er, l'assureur est tenu de plein droit en faveur de la personne lésée au paiement d'un montant complémentaire, correspondant à l'intérêt légal sur le montant de l'indemnisation ou de l'avance offerte par l'assureur ou octroyée par le juge à la personne lésée, pendant un délai qui court du jour de l'expiration du délai de trois mois précité au jour suivant celui de la réception de l'offre par la personne lésée ou, le cas échéant, au jour où le jugement ou l'arrêt par lequel l'indemnisation est accordée est coulé en force de chose jugée.
+
+La même sanction est applicable lorsque le montant proposé dans l'offre visée au paragraphe 1er n'est pas liquidé dans les trente jours ouvrables qui suivent la date à laquelle l'assureur reçoit l'acceptation de cette offre par la personne lésée. Dans ce cas, le délai court du jour de la réception de l'acceptation au jour où la somme a été versée à la personne lésée.
+
+La même sanction est applicable lorsque le montant proposé dans l'offre visée au paragraphe 1er est manifestement insuffisant. L'intérêt est calculé sur la différence entre le montant mentionné dans l'offre et le montant mentionné dans le jugement ou dans l'arrêt relatif à cette offre et passé en force de chose jugée. Le délai court du lendemain de l'expiration du délai de trois mois précité au jour du jugement ou de l'arrêt.
+
+§ 4. En aucun cas les offres d'avance ne peuvent contenir quittance pour solde de compte, même partiel.
+
+§ 5. Les demandes de l'assureur relatives aux documents et informations visant à lui permettre de déterminer si le sinistre survenu est couvert par la garantie ainsi que le montant de la prestation doivent être raisonnables et pertinentes.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-03-17/12, art. 11, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 14
+
+[<sup>1</sup> § 1er. Lorsque la personne lésée présente une demande d'indemnisation mais que:
+
+1° la couverture de la responsabilité par le contrat d'assurance ou l'application de l'article 29bis ou de l'article 29ter est contestée, ou que
+
+2° la responsabilité ou l'application de l'article 29bis ou de l'article 29ter n'est pas clairement établie, ou que
+
+3° le dommage est contesté ou n'est pas quantifié,
+
+l'assureur qui couvre la responsabilité de la personne à qui le sinistre est imputé ou l'entreprise d'assurances du propriétaire, du détenteur ou du conducteur du véhicule impliqué dans l'accident au sens de l'article 29bis, § 1er, alinéa 1er, ou de l'article 29ter, § 1er, ou leur représentant chargé du règlement des sinistres, donne une réponse motivée aux éléments invoqués dans la demande dans un délai de trois mois à compter de la date à laquelle celle-ci a été présentée.
+
+§ 2. Si aucune réponse motivée n'est donnée dans le délai de trois mois visé au paragraphe 1er, l'assureur est tenu de plein droit au paiement d'un montant forfaitaire de 300 euros en faveur de la personne lésée.
+
+Lorsque, après l'expiration du délai de trois mois visé au paragraphe 1er la personne lésée a envoyé un rappel, par envoi recommandé ou par tout autre moyen équivalent, à l'assureur, celui-ci est tenu de plein droit au paiement d'un montant forfaitaire de 300 euros par jour de retard en faveur de la personne lésée à partir du jour de l'envoi du rappel s'il n'a pas répondu au rappel dans les onze jours. Le Roi peut préciser les moyens de communication considérés équivalents à l'envoi recommandé.
+
+Le délai de onze jours visé à l'alinéa 2 prend cours le troisième jour ouvrable qui suit celui de l'envoi du rappel par la personne lésée, sauf preuve contraire de l'assureur.
+
+Le montant visé à l'alinéa 2 cesse d'être dû le jour suivant celui de la réception de la réponse motivée ou de l'offre motivée d'indemnisation par la personne lésée.
+
+Les montants visés aux alinéas 1er et 2 sont indexés automatiquement le 1er janvier de chaque année sur la base du dernier indice des prix à la consommation disponible. L'indexation a lieu pour la première fois le 1er janvier de l'année suivant l'entrée en vigueur du présent article, en utilisant comme indice de référence l'indice des prix à la consommation du mois précédant l'entrée en vigueur du présent article. L'année de base utilisée pour l'indice des prix à la consommation est 2013 = 100.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-03-17/12, art. 12, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 15
+
+Pour l'application des dispositions de la présente loi, la personne lésée peut citer l'assureur en Belgique, soit devant le juge du lieu où s'est produit le fait générateur du dommage, soit devant le juge de son propre domicile, soit devant le juge du siège de l'assureur.
+
+#### Art. 16
+
+&lt;L 2002-08-22/41, art. 6, 010; En vigueur : 19-01-2003&gt; Sans préjudice des dispositions de la section 3 du présent chapitre, aucune nullité, aucune exception [<sup>1</sup> , franchise]<sup>1</sup> ou déchéance dérivant de la loi ou du contrat d'assurance ne peut être opposée par l'assureur à la personne lésée.
+
+Tout contrat d'assurance conclu en vue de l'exécution de la présente loi est réputé couvrir de plein droit, à l'égard de la personne lésée, tous les risques qui doivent obligatoirement être assurés.
+
+----------
+
+(1)&lt;L 2024-03-17/12, art. 13, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 16bis
+
+[<sup>1</sup> L'assureur peut se réserver un droit de recours contre le preneur d'assurance et, s'il y a lieu, contre l'assuré autre que le preneur d'assurance, lorsqu'il prouve qu'au moment du sinistre, le véhicule automoteur assuré est conduit :
+
+1° par une personne n'ayant pas atteint l'âge minimum légalement requis en Belgique pour conduire ce véhicule automoteur;
+
+2° par une personne n'étant pas titulaire d'un permis de conduire valable pour conduire ce véhicule automoteur;
+
+3° par une personne qui a enfreint les restrictions spécifiques pour conduire le véhicule automoteur mentionnées sur son permis de conduire;
+
+4° par une personne qui a une interdiction de conduire en cours en Belgique, même si le sinistre se produit à l'étranger.
+
+Il n'y a pas de droit de recours pour les cas visés à l'alinéa 1er, 1°, 2° et 3° si la personne qui conduit le véhicule automoteur à l'étranger a respecté les conditions prescrites par la loi et les règlements locaux pour conduire le véhicule automoteur.
+
+Il n'y a pas de droit de recours pour les cas visés à l'alinéa 1er, 2°, 3° et 4° lorsque le preneur d'assurance, ou l'assuré autre que le preneur d'assurance, démontre que cette situation résulte uniquement du non-respect d'une formalité purement administrative.
+
+Toutefois, l'assureur ne peut exercer le recours pour les cas visés à l'alinéa 1er, 1°, 2°, 3° et 4° contre le preneur d'assurance, ou l'assuré autre que le preneur d'assurance, qui établit que les manquements ou faits générateurs du recours sont imputables à un autre assuré ou se sont produits à l'encontre de ses instructions ou à son insu.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-05-31/04, art. 12, 024; En vigueur : 22-06-2017&gt;
+
+### Section 3. - De l'opposabilité aux personnes lésées des événements ou clauses mettant fin au contrat d'assurance, suspendant celui-ci ou la garantie qui en fait l'objet. &lt;L 2002-08-22/41, art. 6, 010; En vigueur : 19-01-2003&gt;
+
+#### Art. 17
+
+&lt;L 2002-08-22/41, art. 6, 010; En vigueur : 19-01-2003&gt; § 1er. En cas de transfert de propriété du véhicule automoteur, les stipulations du contrat d'assurance qui ont pour objet de mettre fin, par le seul effet du transfert, à l'assurance portant sur ce véhicule, sont opposables à la personne lésée.
+
+§ 2. Par dérogation au § 1er, pendant seize jours à dater du transfert et pour autant qu'une autre assurance ne couvre pas le même risque, l'assureur du véhicule automoteur dont la propriété a été transférée reste cependant tenu à l'égard de la personne lésée.
+
+En application de l'alinéa 1er, l'assureur n'est tenu à l'égard de la personne lésée que si le dommage a été causé par :
+
+1° le véhicule dont la propriété a été transférée, s'il circule même illicitement sous la marque d'immatriculation qu'il portait avant le transfert;
+
+2° le véhicule utilisé en remplacement de celui dont la propriété a été transférée, s'il circule même illicitement sous la marque d'immatriculation que ce dernier portait avant le transfert.
+
+#### Art. 18
+
+&lt;L 2002-08-22/41, art. 6, 010; En vigueur : 19-01-2003&gt; L'article 17, § 2, alinéa 2, n'est pas applicable aux [<sup>1</sup> véhicules automoteurs non soumis à l'immatriculation]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 13, 024; En vigueur : 22-06-2017&gt;
+
+#### Art. 19
+
+&lt;L 2002-08-22/41, art. 6, 010; En vigueur : 19-01-2003&gt; Lorsqu'un véhicule automoteur fait l'objet d'une mesure de réquisition civile ou militaire en propriété ou en location, la personne publique au nom de laquelle la réquisition a eu lieu couvre seule, par ce fait et pour la durée de la prise en charge, selon les règles de l'article 10, § 1er, la responsabilité à laquelle le véhicule réquisitionné peut donner lieu.
+
+## CHAPITRE IVbis. - Des règles relatives à la réparation de certains dommages causés par des véhicules automoteurs &lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt;
+
+### Section 1. - Dispositions générales. &lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt;
+
+#### Art. 19bis-1
+
+&lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt; Le Roi agrée, aux conditions qu'Il détermine, un bureau national d'assurances, ci-après dénommé le Bureau belge, qui a pour mission de réparer, conformément à la législation relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs, les dommages causés en Belgique par des véhicules ayant leur stationnement habituel à l'étranger.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-03-17/12, art. 14, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 19bis-2
+
+&lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt; Le Roi agrée, aux conditions qu'Il détermine, un Fonds commun de Garantie, ci-après dénommé le Fonds, qui a pour mission :
+
+1°) de fournir aux personnes lésées par les accidents de la circulation les informations visées à la section 2,
+
+2°) de réparer les dommages causés par un véhicule automoteur dans les cas cités à la Section 3.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-03-17/12, art. 15, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 19bis-3
+
+&lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt; Le Roi approuve les statuts et réglemente le contrôle des activités du Bureau belge et du Fonds. II indique les actes qui doivent faire l'objet d'une publication au Moniteur belge. Au besoin, le Roi crée le Bureau belge ou le Fonds.
+
+#### Art. 19bis-4
+
+[<sup>1</sup> Les entreprises d'assurances qui pratiquent l'assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs sont solidairement tenues aux contributions financières nécessaires au Bureau belge et au Fonds pour l'accomplissement de leurs missions et pour supporter leurs frais de fonctionnement.
+
+Par dérogation à l'alinéa 1er, dans les cas visés à l'article 19bis-11, § 1er, 1° ) et 2° ), les contributions financières peuvent uniquement être imposées par le Fonds aux entreprises d'assurances qui ont obtenu leur agrément de la Banque nationale de Belgique.
+
+Si le Bureau belge ou le Fonds sont créés par le Roi, un arrêté royal fixe chaque année la règle de calcul des contributions financières nécessaires à charge des entreprises d'assurances.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-03-17/12, art. 16, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 19bis-5
+
+&lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt; L'agrément est retiré si le Bureau belge ou le Fonds n'agissent pas conformément aux lois, règlements ou à leurs statuts.
+
+Dans ce cas, le Roi peut prendre toutes mesures propres à sauvegarder les droits des preneurs d'assurance, des assurés et des personnes lésées.
+
+Les organismes restent soumis au contrôle pendant la durée de la liquidation de leurs opérations.
+
+Le Roi nomme un liquidateur spécial chargé de cette liquidation.
+
+Pendant cette liquidation, l'article 19bis-4 reste d'application.
+
+### Section 2. - Mission d'information du Fonds. &lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt;
+
+#### Art. 19bis-6
+
+&lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt; § 1er. Le Fonds tient un registre contenant les données suivantes :
+
+1°) en ce qui concerne les véhicules ayant leur stationnement habituel sur le territoire belge,
+
+a) le numéro d'immatriculation, la date de la dernière immatriculation et la durée de la validité de l'immatriculation dans le répertoire matricule des véhicules;
+
+b) le nom, le premier prénom ou la dénomination du titulaire de la marque d'immatriculation et l'adresse [<sup>1</sup> actualisée]<sup>1</sup> du détenteur de la marque d'immatriculation;
+
+c) le genre du véhicule ou de l'immatriculation;
+
+d) la marque, le type, le numéro de châssis, le numéro de contrôle, la puissance ou la cylindrée du moteur, la masse maximale autorisée et la date de la première mise en circulation du véhicule;
+
+2°) [<sup>2</sup> les numéros des polices d'assurance couvrant la circulation des véhicules visés au 1° ) pour les risques mentionnés dans la branche 10 de l'annexe I [<sup>4</sup> à la loi du 13 mars 2016 relative au statut et au contrôle des entreprises d'assurance ou de réassurance,]<sup>4</sup> à l'exclusion de la responsabilité civile du transporteur, la date à laquelle la couverture d'assurance prend fin et la date à laquelle la garantie est suspendue;]<sup>2</sup>
+
+3°) les entreprises d'assurances couvrant la circulation des véhicules pour les risques mentionnés dans la branche 10 de l'annexe I [<sup>4</sup> la loi du 13 mars 2016 relative au statut et au contrôle des entreprises d'assurance ou de réassurance,]<sup>4</sup> à l'exclusion de la responsabilité civile du transporteur, et les représentants chargés du règlement des sinistres désignés par ces entreprises d'assurances conformément à l'article 12, § 1er;
+
+4°) la liste des véhicules bénéficiant de la dérogation à l'obligation d'être couverts par une assurance conformément à l'article 10;
+
+5°) en ce qui concerne les véhicules visés au 4°), le nom et l'adresse des autorités ou organismes désignés pour indemniser les personnes lésées;
+
+6°) le nom et l'adresse du représentant chargé du règlement des sinistres désigné dans chacun des Etats de l'Espace économique européen;
+
+[<sup>4</sup> 7° ) les numéros des polices d'assurance couvrant la circulation des véhicules expédiés, soit de la Belgique vers un autre Etat membre de l'Espace économique européen, soit d'un Etat membre de l'Espace économique européen vers la Belgique, pour les risques mentionnés dans la branche 10 de l'annexe I à la loi du 13 mars 2016 relative au statut et au contrôle des entreprises d'assurance ou de réassurance, à l'exclusion de la responsabilité civile du transporteur, la date à laquelle la couverture d'assurance prend fin et la date à laquelle la garantie est suspendue.]<sup>4</sup>
+
+§ 2. Les données visées au § 1er, doivent être conservées pendant une période de sept ans après que l'immatriculation du véhicule ou le contrat d'assurance a pris fin.
+
+§ 3. Le Roi détermine, sur proposition des ministres ayant les affaires économiques et l'immatriculation des véhicules dans leurs compétences, les données à fournir au Fonds par la direction de l'immatriculation auprès de l'administration de la circulation routière et de l'infrastructure, par les entreprises d'assurances et par les autorités et organismes visés à l'article 10.
+
+[<sup>3</sup> § 4. Le Fonds est responsable du traitement au sens de l'article 4, 7), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE des traitements de données à caractère personnel nécessaires à l'exécution des missions et obligations qui lui incombent en vertu de la loi.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 14, 024; En vigueur : 22-06-2017&gt;
+
+(2)&lt;L 2021-02-02/06, art. 20, 026; En vigueur : 21-02-2021&gt;
+
+(3)&lt;L 2022-09-25/14, art. 54, 027; En vigueur : 26-01-2023&gt;
+
+(4)&lt;L 2024-03-17/12, art. 17, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 19bis-7
+
+&lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt; Le Fonds peut, sur la base d'un accord réciproque de collaboration, recevoir, céder ou échanger des données aux organismes d'information équivalents étrangers.
+
+(Le Fonds adresse à la Commission européenne la liste des personnes ou institutions dispensées de l'obligation d'assurance au nom desquelles sont immatriculés les véhicules visés par l'article 19bis-6, § 1er, 4°), ainsi que le nom et l'adresse des autorités et organismes chargés de l'indemnisation visés à l'article 19bis-6, § 1er, 5°).) &lt;L 2008-06-08/31, art. 16, 019; En vigueur : 26-06-2008&gt;
+
+#### Art. 19bis-8
+
+&lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt; § 1er. Toute personne impliquée dans un accident de la circulation routière ainsi que ses ayants droit et toute personne physique ou morale ainsi que toute institution ou organisme disposant d'un droit de subrogation légale ou conventionnelle ou d'un droit propre suite à cet accident, [<sup>1</sup> peut avoir accès au registre visé à l'article 19bis-6 pour obtenir les informations suivantes concernant tout véhicule automoteur impliqué dans l'accident]<sup>1</sup> :
+
+1°) le nom et l'adresse de l'entreprise d'assurances;
+
+2°) le numéro de la police d'assurance;
+
+3°) le nom et l'adresse du représentant chargé du règlement des sinistres de cette entreprise d'assurances dans l'Etat de résidence de la personne lésée;
+
+4°) si le demandeur justifie d'un intérêt légitime, le nom et l'adresse du propriétaire, le cas échéant du conducteur habituel ou du détenteur déclaré du véhicule;
+
+5°) s'il s'agit d'un véhicule pour lequel il a été fait usage de la dispense visée à l'article 10 ou d'une disposition équivalente du droit d'un autre Etat de l'Espace économique européen, le nom et l'adresse de l'autorité ou de l'organisme désigné pour régler les accidents qui y sont survenus.
+
+[<sup>1</sup> ...]<sup>1</sup> La demande d'informations n'est recevable que pour autant que :
+
+1°) [<sup>1</sup> la demande concerne un véhicule automoteur ayant son stationnement habituel sur le territoire d'un Etat de l'Espace économique européen]<sup>1</sup>;
+
+2°) [<sup>1</sup> l'accident s'est produit sur le territoire d'un Etat de l'Espace économique européen ou d'un Etat tiers dont le bureau national d'assurance a adhéré au système international duquel le Bureau visé à l'article 19bis-1 est membre;]<sup>1</sup>
+
+3°) la demande a été adressée au Fonds dans un délai de sept ans après l'accident.
+
+Le Roi peut déterminer la forme et le contenu de la demande d'informations.
+
+[<sup>1</sup> § 2. Aux fins de lutter contre la non-assurance, les membres compétents des services de police au sens de l'article 2, 2°, de la loi du 7 décembre 1998 organisant un service de police structuré organisé à deux niveaux disposent d'un accès par voie électronique au registre visé à l'article 19bis-6. La consultation est limitée au contrôle de la situation d'assurance d'un véhicule déterminé.
+
+Aux fins d'exercer des missions de prévention, de contrôle et d'enquête, ont accès au registre visé à l'article 19bis-6 dans le cadre de l'exercice de leurs missions légales :
+
+1° les membres des services de police visés à l'article 593 du Code d'Instruction Criminelles qui sont chargés de l'exécution de missions de police administrative et judiciaire conformément aux articles 14 et 15 de la loi du 5 août 1992 sur la fonction de police;
+
+2° les membres du personnel du Comité permanent de contrôle des services de police et de son Service d'enquêtes, visés à l'article 593 du Code d'instruction Criminelle;
+
+3° les membres du personnel du Comité permanent de contrôle des services de renseignements et de sécurité et de son Service d'enquêtes, visés à l'article 593 du Code d'instruction criminelle;
+
+4° les membres et membres du personnel de l'Organe de contrôle de l'information policière et de son Service d'enquêtes, visés à l'article 593 du Code d'instruction criminelle;
+
+5° les membres du personnel de l'inspection générale de la police fédérale et de la police locale, visés à l'article 593 du Code d'Instruction Criminelle;
+
+6° les magistrats du siège de toutes les juridictions pénales et les magistrats des tribunaux de police, les assesseurs au tribunal de l'application des peines et les greffes, le ministère public et les secrétariats du parquet, la commission de probation et son secrétariat, qui ont le besoin d'en connaître, et qui sont nominativement et préalablement désignés par l'autorité hiérarchique compétente;
+
+7° les services de renseignement et de sécurité visé à l'article 593 du Code d'Instruction criminelle.
+
+Pour les besoins relatifs aux missions légales des personnes visées à l'alinéa 2, le Roi détermine par arrêté délibéré en Conseil des ministres, les données pertinentes auxquelles l'accès est donné.]<sup>1</sup>
+
+[<sup>2</sup> § 3. Ont accès sur la base du registre, à la confirmation que le Fonds est ou non en possession de données prouvant l'existence du contrat d'assurance d'un véhicule du répertoire matricule des véhicules belges:
+
+1° la personne lésée et les personnes pouvant agir en son nom afin d'obtenir réparation du dommage subi;
+
+2° le propriétaire, le conducteur et le détenteur du véhicule automoteur et les personnes pouvant agir en leur nom afin de déterminer si le véhicule est en ordre d'assurance conformément au droit applicable;
+
+3° à l'exception des personnes visées au paragraphe 2, toute personne physique ou morale pouvant exiger une carte internationale d'assurance automobile, en vertu d'une disposition légale belge et conformément à la finalité poursuivie par cette disposition.
+
+La consultation est permise en temps réel, en permanence, à distance et par voie électronique. Elle est limitée à la confirmation que le Fonds est ou non en possession de données prouvant l'existence du contrat d'assurance.
+
+Le Roi détermine la forme et le contenu de la demande d'information.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2021-02-02/06, art. 21, 026; En vigueur : 21-02-2021&gt;
+
+(2)&lt;L 2022-09-25/14, art. 55, 027; En vigueur : 26-01-2023&gt;
+
+#### Art. 19bis-9
+
+&lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt; Les membres du Conseil d'administration du Fonds ainsi que les personnes habilitées, en vertu d'une disposition légale ou statutaire, à assister aux réunions de ce Conseil, de même que les membres du personnel du Fonds et les personnes ayant exercé par le passé les fonctions précitées, sont soumis au secret professionnel et ne peuvent divulguer à quelque personne ou autorité que ce soit les données dont ils ont eu connaissance en raison des missions visées au présent chapitre, hormis le cas où ils sont appelés à rendre témoignage en justice en matière pénale.
+
+#### Art. 19bis-10
+
+&lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt; L'article 19bis-9 ne porte pas préjudice à :
+
+1°) la possibilité de communiquer, sous une forme sommaire ou agrégée, des données relatives aux entreprises d'assurances ou preneurs d'assurance à condition que les éléments individuels relatifs aux entreprises d'assurances ou aux preneurs d'assurance ne puissent être identifiés;
+
+2°) la possibilité pour le Fonds, lorsqu'il se trouve dans l'impossibilité d'identifier immédiatement l'entreprise d'assurances d'un véhicule automoteur, de s'informer auprès du titulaire de la marque d'immatriculation quant à la situation en matière d'assurance de son véhicule;
+
+3°) la possibilité, pour le Fonds, sur base d'un accord de collaboration réciproque avec un organisme d'information similaire d'un autre Etat membre de l'Union européenne, de recevoir, de céder ou d'échanger des données;
+
+4°) la possibilité, pour le Fonds, sur base d'un accord de collaboration réciproque, avec un organisme d'information similaire d'un Etat tiers, de recevoir, de céder ou d'échanger des données, pour autant que cet organisme soit soumis à un secret professionnel équivalent à celui visé à l'article 19bis-9.
+
+### Section 3. - Mission d'indemnisation du Fonds &lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt;
+
+(NOTE 1 : l'article 19bis-11, § 2, entre en vigueur le 17-09-2002 &lt;L 2002-08-22/41, art. 13&gt;)
+
+(NOTE 2 : en ce qui concerne les accidents survenus sur le territoire d'un autre Etat de l'Espace économique européen ou d'un Etat tiers dont le bureau national a adhéré au système de la carte verte, les articles 19bis-11 à 19bis-18 , n'entrent cependant en vigueur qu'à une date fixée par le Roi; En vigueur : indéterminée &lt;L 2002-08-22/41, art. 13&gt;; En vigueur : 20-01-2003 &lt;AR 2003-02-07/34, art. 1&gt;)
+
+#### Art. 19bis-11
+
+&lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt; § 1er. Toute personne lésée peut obtenir du Fonds la réparation des dommages causés par un véhicule automoteur :
+
+1°) [<sup>3</sup> lorsque l'entreprise d'assurances débitrice des indemnités fait l'objet d'une procédure de faillite. Pour les entreprises de droit belge, cette procédure correspond à la faillite au sens du livre XX du Code de droit économique.
+
+La Banque nationale de Belgique informe le Fonds dès qu'elle est informée de la procédure susmentionnée;]<sup>3</sup>
+
+2°) [<sup>3</sup> lorsque l'entreprise d'assurances débitrice des indemnités fait l'objet d'une procédure de liquidation au sens de l'article 268, paragraphe 1, d), de la directive 2009/138/CE du Parlement européen et du Conseil du 25 novembre 2009 sur l'accès aux activités de l'assurance et de la réassurance et leur exercice. Pour les entreprises de droit belge, cette procédure correspond aux procédures collectives de liquidation, visées au livre 2, titre 8, du Code des sociétés et des associations.
+
+La Banque nationale de Belgique informe le Fonds dès qu'elle est informée de la procédure susmentionnée;]<sup>3</sup>
+
+3°) lorsqu'aucune entreprise d'assurances n'est obligée à ladite réparation en raison d'un cas fortuit exonerant le conducteur du véhicule qui a causé l'accident;
+
+4°) lorsque, en cas de vol, de violence ou de recel, la responsabilité civile à laquelle le véhicule peut donner lieu n'est pas assurée, conformément à l'exclusion légalement permise;
+
+5°) lorsque, dans un délai de trois mois à compter de la date à laquelle elle a présenté à l'entreprise d'assurances [<sup>3</sup> du véhicule dont la circulation a causé l'accident]<sup>3</sup> ou à son représentant chargé du règlement des sinistres une demande d'indemnisation, l'entreprise d'assurances ou son représentant chargé du règlement des sinistres n'a pas donné de réponse motivée aux éléments de la demande;
+
+6°) lorsque l'entreprise d'assurances n'a pas désigné de représentant chargé du règlement des sinistres;
+
+7°) si le véhicule automoteur qui a causé l'accident ne peut pas être identifié; dans ce cas, le Fonds est substitué à la personne responsable;
+
+8°) lorsqu'aucune entreprise d'assurances n'est obligée à ladite réparation soit du fait que l'obligation d'assurance n'a pas été respectée, soit parce que, dans les deux mois après l'accident, il est impossible d'identifier l'entreprise d'assurances;
+
+[<sup>2</sup> 9°) lorsque, s'agissant d'un véhicule automoteur exempté de l'obligation d'assurance conformément à l'article 2bis, alinéa 1er, aucune entreprise d'assurances ne couvre la responsabilité civile du conducteur du véhicule qui a causé l'accident.]<sup>2</sup>
+
+§ 2. [<sup>3</sup> Le Roi peut déterminer l'étendue de la réparation visée au paragraphe 1er et en fixer les conditions.
+
+L'intervention du Fonds ne peut pas être subordonnée à la condition que la personne lésée établisse, d'une quelconque manière, que la personne responsable n'est pas en mesure ou refuse de payer.
+
+Lorsque le Fonds intervient pour toute personne lésée en raison de lésions corporelles importantes visées à l'article 19bis-13, § 3, alinéa 3, en conséquence du même accident dans lequel des dommages matériels ont été causés par un véhicule non identifié, l'indemnisation des dommages matériels ne peut être exclue au motif qu'il s'agit d'un véhicule non identifié. Une franchise de maximum 500 euros peut être imposée à la personne lésée qui subit de tels dommages matériels.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 15, 024; En vigueur : 22-06-2017&gt;
+
+(2)&lt;L 2019-05-02/28, art. 44, 025; En vigueur : 01-06-2019&gt;
+
+(3)&lt;L 2024-03-17/12, art. 19, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 19bis-12
+
+&lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt; [<sup>3</sup> § 1er.]<sup>3</sup> En application de l'article 19bis-11, § 1er, une demande d'indemnisation peut être introduite auprès du Fonds par la personne lésée. Cette demande n'est recevable que si :
+
+1°) l'accident s'est produit sur le territoire belge, en ce qui concerne les cas [<sup>3</sup> visés à l'article 19bis-11, § 1er, 3° ) et 4° )]<sup>3</sup>;
+
+2°) [<sup>3</sup> l'accident s'est produit sur le territoire d'un Etat membre de l'Espace économique européen ou d'un Etat tiers dont le Bureau national des assureurs a adhéré au système de la preuve internationale d'assurance, à condition que le véhicule ait son stationnement habituel dans un des Etats membres de l'Espace économique européen, en ce qui concerne les cas visés à l'article 19bis-11, § 1er, 5° ) et 6° );]<sup>3</sup>
+
+3°) [<sup>3</sup> l'accident s'est produit sur le territoire d'un Etat membre de l'Espace économique européen, en ce qui concerne les cas visés à l'article 19bis-11, § 1er, 1° ), 2° ), 7° ) et 9° );]<sup>3</sup>
+
+4°) la personne lésée qui, dans le cas visé au 6°) de l'article 19bis-11, § 1er, a adressé directement une demande d'indemnisation à l'entreprise d'assurances du véhicule qui a causé l'accident, n'a pas reçu de réponse motivée dans un délai de trois mois à compter de la présentation de la demande;
+
+5°) dans les cas visés aux 5°) et 6°) de l'article 19bis-11, § 1er, la personne lésée n'a pas introduit d'action en justice directement à l'encontre de l'entreprise d'assurances;
+
+[<sup>1</sup> 6° ) [<sup>3</sup> l'accident s'est produit sur le territoire d'un Etat membre de l'Espace économique européen, en ce qui concerne les cas visés à l'article 19bis-11, § 1er, 8° ).]<sup>3</sup>]<sup>1</sup>
+
+[<sup>3</sup> § 2. Pour les accidents qui ne se sont pas produits sur le territoire belge, la demande d'indemnisation visée au paragraphe 1er est uniquement recevable si la personne lésée a sa résidence en Belgique.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 16, 024; En vigueur : 22-06-2017&gt;
+
+(2)&lt;L 2019-05-02/28, art. 45, 025; En vigueur : 01-06-2019&gt;
+
+(3)&lt;L 2024-03-17/12, art. 20, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 19bis-13
+
+&lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt; § 1er. Dans les cas visés aux 5°) et 6°) de l'article 19bis-11, § 1er, le Fonds intervient dans un délai de deux mois après que la personne lésée lui ait présenté une demande d'indemnisation, mais cesse d'intervenir si l'entreprise d'assurances ou son représentant chargé du règlement des sinistres a, dans ce délai, donné une réponse motivée à la demande.
+
+Dans ces mêmes cas, le Fonds informe immédiatement les personnes suivantes du fait qu'il a reçu une demande d'indemnisation de la part de la personne lésée et qu'il va y répondre, dans un délai de deux mois après présentation de cette demande :
+
+1°) l'entreprise d'assurances du véhicule dont la circulation a causé l'accident ou le représentant chargé du règlement des sinistres;
+
+2°) [<sup>1</sup> l'organisme d'indemnisation de l'Etat membre d'établissement de l'entreprise d'assurances qui a produit le contrat d'assurance;]<sup>1</sup>
+
+3°) si elle est identifiée, la personne ayant causé l'accident.
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 3. (Dans le cas prévu à l'article 19bis-11, § 1er, 7°), et lorsque l'accident est survenu sur le territoire belge, le Roi peut limiter les obligations du Fonds à l'indemnisation des dommages resultant de lésions corporelles.
+
+Toutefois, cette limitation n'est pas autorisée lorsque le Fonds indemnise en raison de lésions corporelles importantes encourues par toute personne lésée d'un accident dans lequel des dommages matériels ont été causés par un véhicule non identifié.
+
+Sont considérées comme lésions corporelles importantes, les lésions corporelles résultant d'un accident qui a occasionné soit :
+
+1\. le décès de la [<sup>1</sup> personne lésée]<sup>1</sup>;
+
+2\. une invalidité permanente de 15 % ou plus;
+
+3\. une invalidite temporaire d'un mois ou plus;
+
+4\. une hospitalisation de sept jours ou plus.
+
+Le Roi peut préciser davantage les conditions dans lesquelles les lésions corporelles peuvent être considérées comme importantes ou en compléter la liste.
+
+Les dispositions du présent paragraphe ne sont pas d'application aux conséquences des accidents qui se sont produits avant son entrée en vigueur.) &lt;L 2008-06-08/31, art. 17, 019; En vigueur : 26-06-2008&gt;
+
+----------
+
+(1)&lt;L 2024-03-17/12, art. 21, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 19bis-13/1
+
+[<sup>2</sup> § 1er.]<sup>2</sup> [<sup>1</sup> Dans les cas visés à l'article 19bis-11, § 1er, 1° ) et 2° ), le Fonds dispose de tous les pouvoirs et compétences nécessaires pour pouvoir coopérer avec d'autres organismes similaires dans d'autres Etats membres de l'Espace économique européen, et avec d'autres parties intéressées, notamment avec l'entreprise d'assurance faisant l'objet d'une procédure de faillite ou de liquidation, son administrateur ou son liquidateur, le représentant chargé du règlement des sinistres et les autorités nationales compétentes des Etats membres de l'Espace économique européen. Cette coopération comprend la demande, la réception et la fourniture d'informations, y compris sur le détail des demandes spécifiques, le cas échéant.]<sup>1</sup>
+
+[<sup>2</sup> § 2. Dans les cas visés à l'article 19bis-11, § 1er, 1° ) ou 2° ), lorsque l'entreprise d'assurances concernée a obtenu son agrément auprès de la Banque nationale de Belgique:
+
+1° ) le Fonds veille à ce que tous les organismes d'indemnisation visés aux articles 10bis, 24 et 25bis, de la directive 2009/103/CE du Parlement européen et du Conseil du 16 septembre 2009 concernant l'assurance de la responsabilité civile résultant de la circulation de véhicules automoteurs et le contrôle de l'obligation d'assurer cette responsabilité, soient informés, sans délai, de la procédure visée à l'article 19bis-11, § 1er, 1° ) ou 2° ), selon le cas;
+
+2° ) le Fonds paie l'organisme correspondant de l'Etat membre de l'Espace économique européen où réside la personne lésée dans les six mois suivant la réception d'une demande de remboursement, sauf s'il en est convenu autrement par écrit.
+
+§ 3. Dans les cas visés à l'article 19bis-11, § 1er, 1° ) ou 2° ), l'entreprise d'assurances visée au paragraphe 2 qui fait l'objet d'une procédure de faillite ou de liquidation, ou son administrateur ou liquidateur, informe le Fonds lorsqu'elle indemnise ou lorsqu'elle rejette la demande d'indemnisation également présentée par la personne lésée au Fonds.
+
+§ 4. Dans les cas visés à l'article 19bis-11, § 1er, 1° ) ou 2° ), lorsque le Fonds a reçu une demande d'indemnisation de la personne lésée, dans les cas visés à l'article 19bis-11, § 1er, 1° ) ou 2° ), il en informe les personnes, organismes et entreprises d'assurances énumérés ci-après:
+
+1° ) l'organisme correspondant dans l'Etat membre où se trouve le siège principal de l'entreprise d'assurances couvrant le risque;
+
+2° ) l'organisme d'indemnisation de l'Etat membre de résidence de la personne lésée, tel que visé au § 2, 1° );
+
+3° ) l'entreprise d'assurances qui, selon le cas, fait l'objet d'une procédure visée à l'article 19bis-1, § 1er, 1° ) ou 2° ), son administrateur ou son liquidateur.
+
+§ 5. Lorsque le Fonds a reçu une demande d'indemnisation d'une personne lésée résidant sur le territoire de l'Etat membre dont l'organe correspondant est tenu de rembourser le Fonds conformément à l'article 19bis-14, § 6, le Fonds peut appliquer la même subsidiarité que celle appliquée par cet organisme.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-11-05/07, art. 75, 028; En vigueur : 23-06-2023&gt;
+
+(2)&lt;L 2024-03-17/12, art. 22, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 19bis-13/2.
+
+[<sup>1</sup> § 1er. Cet article a pour champ d'application les cas visés à l'article 19bis-11, § 1er.
+
+§ 2. Dans un délai de trois mois à compter de la date à laquelle la personne lésée a présenté une demande d'indemnisation au Fonds, le Fonds est tenu, sur la base notamment des informations recueillies à sa demande auprès de la personne lésée et conformément au droit national applicable, de présenter une offre d'indemnisation motivée lorsque chacune des conditions suivantes est remplie:
+
+1° le Fonds a établi qu'il est tenu de verser une indemnisation; et
+
+2° la demande n'est pas contestée; et,
+
+3° les dommages ont été partiellement ou entièrement quantifiés.
+
+Lorsque le dommage n'est pas entièrement quantifié, le Fonds doit présenter une offre d'avance.
+
+En ce qui concerne le dommage corporel, l'avance porte au moins sur les frais déjà exposés et sur l'incontestablement dû au regard des conséquences déjà connues du dommage subi et, en particulier, des périodes d'incapacité et d'invalidité temporaires déjà écoulées et prévisibles sur la base des rapports d'expertise médicale, contradictoire ou non, disponibles. La prise en compte du préjudice futur peut être limitée aux trois mois suivant la date à laquelle la personne lésée a présenté sa demande d'indemnisation.
+
+Le cas échéant, le Fonds communique à la personne lésée les conclusions du rapport provisoire unilatéral d'expertise médicale, en précisant qu'il s'agit d'un rapport médical provisoire, et en recommandant à la personne lésée de s'informer de ce à quoi elle a droit.
+
+§ 3. Le Fonds verse l'indemnité à la personne lésée sans délai et, en tout cas, dans les trente jours ouvrables qui suivent la date à laquelle le Fonds reçoit l'acceptation de son offre motivée d'indemnisation par la personne lésée.
+
+§ 4. La personne lésée qui s'est vu adresser une offre d'avance peut, au plus tôt six mois après la demande précédente, introduire une nouvelle demande sur la base des informations complémentaires recueillies ultérieurement sur son dommage et son évolution.
+
+§ 5. Si aucune offre n'est présentée dans le délai de trois mois visé au paragraphe 2, le Fonds est tenu de plein droit en faveur de la personne lésée au paiement d'une somme complémentaire, correspondant à l'intérêt légal sur le montant de l'indemnisation ou de l'avance offerte par le Fonds ou octroyée par le juge à la personne lésée, pendant un délai qui court du jour de l'expiration du délai de trois mois précité au jour suivant celui de la réception de l'offre par la personne lésée ou, le cas échéant, au jour où le jugement ou l'arrêt par lequel l'indemnisation est accordée est coulé en force de chose jugée.
+
+La même sanction est applicable lorsque le montant proposé dans l'offre visée au paragraphe 2 n'est pas liquidé dans les trente jours ouvrables qui suivent la date à laquelle le Fonds reçoit l'acceptation de cette offre par la personne lésée. Dans ce cas, le délai court du jour de la réception de l'acceptation au jour où la somme a été versée à la personne lésée.
+
+La même sanction est applicable lorsque le montant proposé dans l'offre visée au paragraphe 2 est manifestement insuffisant. L'intérêt est calculé sur la différence entre le montant mentionné dans l'offre et le montant mentionné dans le jugement ou dans l'arrêt relatif à cette offre et passé en force de chose jugée. Le délai court du lendemain de l'expiration du délai de trois mois précité au jour du jugement ou de l'arrêt.
+
+§ 6. En aucun cas les offres d'avance ne peuvent contenir quittance pour solde de compte, même partiel.
+
+§ 7. Les demandes du Fonds relatives aux documents et informations visant à lui permettre de déterminer s'il est tenu d'octroyer une indemnisation pour le sinistre survenu ainsi que de déterminer le montant de la prestation doivent être raisonnables et pertinentes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-17/12, art. 23, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 19bis-13/3.
+
+[<sup>1</sup> § 1er. Cet article a pour champ d'application, les cas visés à l'article 19bis-11, § 1er.
+
+§ 2. Lorsque la personne lésée présente une demande d'indemnisation mais que le Fonds a établi:
+
+1° ne pas être tenu d'octroyer une indemnisation, ou que
+
+2° la responsabilité ou l'application de l'article 29bis ou 29ter n'est pas clairement établie, ou que
+
+3° le dommage est contesté ou non quantifié,
+
+le Fonds donne une réponse motivée aux éléments repris dans la demande notamment sur la base des informations recueillies à sa demande auprès de la personne lésée, dans un délai de trois mois à compter de la date à laquelle la demande d'indemnisation a été introduite auprès du Fonds.
+
+§ 3. Si aucune réponse motivée n'est donnée dans le délai de trois mois visé au paragraphe 2, le Fonds est tenu de plein droit au paiement d'un montant forfaitaire de 300 euros en faveur de la personne lésée.
+
+Lorsque, après l'expiration du délai de trois mois visé au paragraphe 2, la personne lésée a envoyé un rappel, par envoi recommandé ou par tout autre moyen équivalent au Fonds, celui-ci est tenu de plein droit au paiement d'un montant forfaitaire de 300 euros par jour de retard en faveur de la personne lésée à partir du jour de l'envoi du rappel s'il n'a pas répondu au rappel dans les onze jours. Le Roi peut préciser les moyens de communication considérés équivalents à l'envoi recommandé.
+
+Le délai de onze jours visé à l'alinéa 2 prend cours le troisième jour ouvrable qui suit celui de l'envoi du rappel par la personne lésée, sauf preuve contraire du Fonds.
+
+Le montant visé à l'alinéa 2 cesse d'être dû le jour suivant celui de la réception de la réponse motivée ou de l'offre motivée d'indemnisation par la personne lésée.
+
+Les montants visés aux alinéas 1er et 2 sont indexés automatiquement le 1er janvier de chaque année sur la base du dernier indice des prix à la consommation disponible. L'indexation a lieu pour la première fois le 1er janvier de l'année suivant l'entrée en vigueur du présent article, en utilisant comme indice de référence l'indice des prix à la consommation du mois précédant l'entrée en vigueur du présent article. L'année de base utilisée pour l'indice des prix à la consommation est 2013 = 100.
+
+§ 4. Les délais prévus dans le présent article sont suspendus lorsque le Fonds a fait connaître par écrit à la personne lésée les raisons qui, indépendantes de sa volonté, le mettent dans l'impossibilité d'exécuter ses obligations dans lesdits délais.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-17/12, art. 24, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 19bis-14
+
+&lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt; § 1er. Dans les cas prévus à l'article (19bis-11, § 1er), le Fonds est subrogé, dans la mesure où il a réparé le dommage, aux droits de la personne lésée contre les personnes responsables et éventuellement contre leurs assureurs.
+
+[<sup>1</sup> § 1/1. S'il a indemnisé la personne lésée en application de l'article 19bis-11, § 1er, 4° ), le Fonds n'a le droit de réclamer la somme payée à titre d'indemnisation qu'à l'auteur de vol, de violence ou de recel.]<sup>1</sup>
+
+§ 2. S'il a indemnisé la personne lésée, en application de l'article 19bis-11, § 1er, 5°) ou 6°), le Fonds a le droit de réclamer à l'organisme d'indemnisation de l'Etat où est situé l'établissement de l'entreprise d'assurances qui a produit le contrat, le remboursement de la somme payée à titre d'indemnisation. &lt;Erratum, voir M.B. 28.09.2002, p. 43944&gt;
+
+§ 3. [<sup>2</sup> Le Fonds qui a remboursé un organisme d'indemnisation d'un autre Etat en application d'une disposition similaire à l'article 19bis-11, § 1er, 5° ) ou 6° ), du droit de cet Etat, est subrogé dans les droits de la personne lésée à l'encontre de la personne ayant causé l'accident ou de son entreprise d'assurances, dans la mesure où l'organisme d'indemnisation de l'Etat membre de résidence de la personne lésée l'a indemnisée pour le préjudice subi.]<sup>2</sup>
+
+§ 4. Le Fonds qui a indemnisé la personne lésée en application de l'article 19bis-11, § 1er, 7°) ou 8°), a une créance :
+
+1°) sur le fonds de garantie de l'Etat de l'Espace économique européen où le véhicule a son stationnement habituel si l'entreprise d'assurances ne peut pas être identifiée;
+
+2°) sur le fonds de garantie de l'Etat de l'Espace économique européen où l'accident a eu lieu dans le cas d'un véhicule non identifié;
+
+3°) sur le fonds de garantie de l'Etat de l'Espace économique européen où l'accident a eu lieu dans le cas d'un véhicule d'un pays tiers.
+
+[<sup>1</sup> § 5. Par dérogation au paragraphe 1er et dans le cas de l'article 19bis-11, § 1er, 8° ), le Fonds a un droit de recours à concurrence du montant de l'indemnité contre le propriétaire du véhicule automoteur et le cas échéant, contre son assureur. Le propriétaire ne dispose d'aucun droit en vue de récupérer le montant de l'indemnisation.
+
+Par dérogation à l'alinéa précédent, le paragraphe 1er reste d'application si l'accident et les dommages ont été causés intentionnellement.]<sup>1</sup>
+
+[<sup>2</sup> § 6. Dans les cas visés à l'article 19bis-11, § 1er, 1° ) et 2° ), le Fonds est en droit de réclamer, à l'organisme correspondant dans l'Etat membre où se trouve le siège principal de l'entreprise d'assurances couvrant le risque, le remboursement intégral des montants versés à titre d'indemnisation.
+
+Dans les cas visés à l'article 19bis-11, § 1er, 1° ) ou 2° ), le Fonds est subrogé dans les droits de la personne lésée à l'encontre de la personne responsable ou de son entreprise d'assurances. Le Fonds ne peut exercer de recours contre la personne responsable, le preneur d'assurance ou l'assuré, que si les conditions, dans lesquelles un tel recours est permis par la loi ou le contrat à l'assureur lui-même, sont remplies.
+
+§ 7. La subrogation ne peut porter préjudice aux droits que pourraient faire valoir personnellement des personnes lésées qui seraient en concours avec le Fonds. Ces personnes lésées, à l'exclusion des personnes subrogées, exercent leurs droits par préférence au Fonds.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 17, 024; En vigueur : 22-06-2017&gt;
+
+(2)&lt;L 2024-03-17/12, art. 25, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 19bis-15
+
+&lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt; Lorsque, en application de la loi, une caution est fournie ou un cautionnement est verse, le Fonds est, à l'égard de la caution ou du cautionnement, subrogé dans les droits des personnes lésées qu'il a indemnisées des dommages causés par le véhicule. II en est de même à l'égard du produit de la vente du véhicule qui a été affecté à la réparation des dommages.
+
+La subrogation ne peut préjudicier aux droits que pourraient faire valoir personnellement des personnes lésées qui seraient en concours avec le Fonds. Ces personnes lésées, à l'exclusion des personnes qui leur seraient subrogées, exercent leurs droits par préférence au Fonds.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-03-17/12, art. 26, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 19bis-16
+
+[<sup>1</sup> Le jugement rendu sur une contestation née d'un préjudice causé par un véhicule automoteur est uniquement opposable au Fonds, à la personne responsable ou à la personne lésée, s'ils ont été présents ou appelés à l'instance.
+
+Dans les cas visés à l'article 19bis-11, § 1er, 1° ) et 2° ), le jugement peut, par dérogation à l'alinéa 1er, être opposé au Fonds, même s'il n'a pas été présent ou appelé à l'instance.
+
+Dans les mêmes cas, le Fonds peut intervenir en tout état de cause dans les actions dirigées contre l'entreprise d'assurances ou ses assurés.
+
+Le Fonds peut mettre la personne responsable en cause dans le procès qui lui est intenté par la personne lésée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-03-17/12, art. 27, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 19bis-17
+
+&lt;Inséré par L 2002-08-22/41, art. 7; En vigueur : 19-01-2003&gt; Lorsque l'action civile en réparation du dommage cause par un véhicule automoteur est intentée devant la juridiction répressive, le Fonds peut être mis en cause par la personne lésée et peut aussi intervenir volontairement dans les mêmes conditions que si l'action était portée devant la juridiction civile. Lorsque, en cas de non assurance, il a procédé à la réparation du dommage, le Fonds peut se porter partie civile contre la personne responsable [<sup>1</sup> pour autant qu'il s'agisse du propriétaire du véhicule ou la personne qui a intentionnellement causé l'accident et les dommages]<sup>1</sup>.
+
+Le Fonds et la personne responsable peuvent se faire représenter dans les mêmes conditions que la partie civilement responsable.
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 18, 024; En vigueur : 22-06-2017&gt;
+
+#### Art. 19bis-18
+
+[<sup>1</sup> En cas de litige entre le Fonds et l'entreprise d'assurances, sur le point de savoir qui des deux doit indemniser la personne lésée, le Fonds indemnise celle-ci dans un premier temps. S'il est finalement décidé que l'entreprise d'assurances aurait dû payer tout ou partie de l'indemnisation, elle rembourse au Fonds le montant de l'indemnité majoré des intérêts légaux. Ces intérêts courent à partir des paiements du Fonds à la personne lésée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-03-17/12, art. 28, 029; En vigueur : 12-04-2024&gt;
+
+## CHAPITRE V. - Dispositions pénales.
+
+### Section 1. - (Des saisies et autres mesures similaires.) &lt;L 2002-08-02/47, art. 3, 009; En vigueur : 09-09-2002&gt;
+
+#### Art. 19bis
+
+&lt;Inséré par L 2002-08-02/47, art. 4, 009; En vigueur : 09-09-2002&gt; Le Fonds commun de garantie, institué par l' [<sup>1</sup> article 19bis-2]<sup>1</sup> est chargé de collecter toutes informations permettant l'application des dispositions du présent chapitre.
+
+Lorsque le Fonds commun de garantie se trouve, sur la base des informations recueillies dans le cadre de l' [<sup>1</sup> article 19bis-6]<sup>1</sup> dans l'impossibilité d'identifier immédiatement l'entreprise d'assurances d'un véhicule automoteur, ce fonds invite le propriétaire du véhicule automoteur à lui fournir toutes informations permettant d'établir la situation d'assurance de son véhicule automoteur.
+
+A défaut de réponse dans le mois de la demande ou s'il résulte de la réponse fournie que le véhicule automoteur ne satisfait pas à la réglementation relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs, le fonds signale cette situation sans délai aux officiers de police judiciaire, fonctionnaires ou agents visés à l'article 20. Ceux-ci appliquent, le cas échéant, les mesures visées à l'article 20.
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 19, 024; En vigueur : 22-06-2017&gt;
+
+#### Art. 20
+
+(Sans préjudice des pouvoirs accordés par le Code d'instruction criminelle, tout officier de police judiciaire et tout fonctionnaire ou agent de l'autorité publique qualifié pour dresser des procès-verbaux du chef d'infraction à la présente loi peut, lorsqu'il y a lieu de croire que la responsabilité civile à laquelle peut donner lieu un véhicule automoteur mis en circulation sur la voie publique ou sur un des terrains visés à l'article 2, § 1er n'est pas couverte, procéder à [<sup>1</sup> l'immobilisation ou]<sup>1</sup> la saisie du véhicule ou de ses marques d'immatriculation.
+
+Lorsque le véhicule n'est pas mis en circulation sur la voie publique, ces mêmes officiers, fonctionnaires et agents peuvent également prendre toute mesure destinée à garantir que le véhicule ne sera pas mis en circulation sur la voie publique ou les terrains visés à l'article 2, § 1er.) &lt;L 2002-08-02/47, art. 5, 009; En vigueur : 09-09-2002&gt;
+
+Une copie du procès-verbal est adressée au propriétaire du véhicule dans les deux jours à compter de celui où son identité a pu être établie.
+
+Le véhicule reste aux risques du propriétaire pendant la durée de la saisie.
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 20, 024; En vigueur : 22-06-2017&gt;
+
+#### Art. 21
+
+&lt;L 2006-12-27/33, art. 32, 017; En vigueur : 07-01-2007&gt; § 1er. Lorsqu'il est justifié qu'au moment de la saisie, la responsabilité civile à laquelle le véhicule pouvait donner lieu, était couverte par une assurance répondant aux dispositions de la présente loi, ou que le véhicule en était légalement dispensé, et lorsque aucune infraction aux articles 22, 23 ou 26 n'est retenue à charge du propriétaire du véhicule, la saisie est levée par le ministère public, le juge d'instruction, la juridiction d'instruction ou la juridiction de jugement saisie, à moins qu'elle ne soit exigée pour un autre motif.
+
+§ 2. Dans les autres cas, la saisie ne peut être levée qu'apres la justification de la conclusion d'un contrat d'assurance répondant aux dispositions de la présente loi ainsi que du paiement des frais de saisie et de conservation du véhicule.
+
+La levée de la saisie peut être subordonnée au paiement d'une somme d'argent à l'Organe central pour la Saisie et la Confiscation en vue de garantir la réparation des dommages causés par le véhicule. Son montant est déterminé par le ministère public, par le juge d'instruction, par la juridiction d'instruction ou la juridiction de jugement saisie.
+
+§ 3. Lorsque la saisie se prolonge plus de trente jours, le procureur du Roi, le juge d'instruction, la juridiction d'instruction ou la juridiction de jugement saisie peut appliquer la procédure prévue aux articles 28octies et 61sexies du Code d'instruction criminelle sauf en ce qui concerne le recours réglé par le § 4 du présent article.
+
+§ 4. Lorsque la saisie est faite par le procureur du Roi en application de la présente loi, les personnes à qui la décision a été notifiée en vertu de l'article 28octies du Code d'instruction criminelle peuvent saisir le tribunal de police dans les quinze jours de la notification de la décision.
+
+Ce délai est prolongé de quinze jours, si une de ces personnes réside hors du Royaume.
+
+Le juge de police est saisi du recours par une déclaration faite au greffe du tribunal de police et inscrite dans le registre ouvert à cet effet.
+
+Le procureur du Roi depose les pièces justificatives de sa décision au greffe.
+
+Le juge de police statue en unique ressort, dans les quinze jours du dépôt de la déclaration, les parties et le ministère public étant entendues.
+
+Le greffier avise les parties et leurs avocats, par télécopie ou par [<sup>1</sup> envoi recommandé]<sup>1</sup>, des lieux, date et heure de l'audience, au plus tard quarante-huit heures à l'avance.
+
+Le greffier communique une copie du jugement à l'Organe central pour la Saisie et la Confiscation.
+
+§ 5. Après prélèvement par l'Etat des frais de saisie et de conservation du véhicule, le produit de l'aliénation est substitué au véhicule saisi.
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 21, 024; En vigueur : 22-06-2017&gt;
+
+### Section 2. - Des peines.
+
+#### Art. 22
+
+§ 1. Le propriétaire ou le détenteur d'un véhicule automoteur qui le met en circulation ou tolère qu'il soit mis en circulation dans l'un des endroits prévus à l'article 2, § 1er, sans que la responsabilité civile à laquelle il peut donner lieu soit couverte conformément à la présente loi, ainsi que le conducteur de ce vehicule, sont punis d'un emprisonnement de huit jours à six mois et d'une amende de cent francs à mille francs, ou d'une de ces peines seulement.
+
+Le détenteur et le conducteur du véhicule ne sont punissables, en vertu de l'alinéa 1er, que s'ils savent que la responsabilité civile à laquelle le véhicule peut donner lieu n'est pas couverte conformément à la présente loi.
+
+§ 2. Est puni des peines prévues au § 1er, alinéa 1er, quiconque organise des courses ou concours de vitesse, de régularité ou d'adresse ou y participe, sans être couvert par l'assurance speciale prévue a l'article 8.
+
+§ 3. (...) &lt;L 2005-12-23/31, art. 60, 015; En vigueur : 09-01-2006&gt;
+
+#### Art. 23
+
+Lorsqu'un véhicule automoteur, autre que ceux soumis aux prescriptions du § 2 de l'article 2, se trouve dans un des lieux indiqués [<sup>2</sup> à l'article 2, § 1er, alinéas 1er et 2]<sup>2</sup> sans être muni du certificat prévu à l'article 7, le conducteur est puni des peines prévues (à l'article 29, § 2) des lois relatives à la police de la circulation routière, coordonnées par l'arrêté royal du 16 mars 1968. &lt;L 2003-02-07/38, art. 40, 011; En vigueur : 01-03-2004&gt;
+
+[<sup>1</sup> L'alinéa premier n'est pas d'application lorsque les conditions fixées par le Roi en exécution de l'article 7, § 1er, alinéa 2, sont réunies.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-02-02/06, art. 22, 026; En vigueur : 21-02-2021&gt;
+
+(2)&lt;L 2024-03-17/12, art. 29, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 23 DROIT FUTUR
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-09-25/14, art. 56, 027; En vigueur : 31-12-2025&gt;
+
+#### Art. 24
+
+&lt;L 2006-12-27/33, art. 33, 017; En vigueur : 07-01-2007&gt; Dans les cas prévus à l'article 22 les tribunaux peuvent, en outre :
+
+1° prononcer la déchéance du droit de conduire un véhicule automoteur, soit à titre définitif, soit pour une durée de huit jours au moins et de cinq ans au plus.
+
+Les dispositions relatives à la déchéance du droit de conduire contenues dans la législation sur la police de la circulation routière sont applicables à la déchéance du droit de conduire prévue à l'alinéa 1er;
+
+2° sans préjudice des droits de [<sup>1</sup> personnes lésées]<sup>1</sup> et du légitime propriétaire, ordonner la confiscation du véhicule. Il peut être procedé à la confiscation si le propriétaire est demeuré inconnu.
+
+----------
+
+(1)&lt;L 2024-03-17/12, art. 30, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 25
+
+&lt;L 2006-12-27/33, art. 34, 017; En vigueur : 07-01-2007&gt; En condamnant le propriétaire du véhicule automoteur pour infraction à l'article 22, les tribunaux peuvent ordonner que la somme d'argent visée à l'article 21, § 2, alinéa 2, ou le produit de l'aliénation visée à l'article 21, § 3, soit, après déduction des frais de saisie et de conservation du véhicule automoteur, affecté à la réparation des dommages causés par celui-ci par préférence à toute autre créance.
+
+#### Art. 26
+
+Est puni des peines prévues (par l'article 29, § 2), des lois relatives à la police de la circulation routière, coordonnées par arrêté royal du 16 mars 1968, le titulaire de la marque d'immatriculation qui, après l'expiration du délai fixé par le Roi, reste en défaut de satisfaire à l'obligation imposée en vertu de l'article 6, § 1er, alinéa 2. &lt;L 2003-02-07/38, art. 41, 011; En vigueur : 01-03-2004&gt;
+
+Les mêmes peines sont applicables au propriétaire, au détenteur ou au conducteur en cas d'infraction aux dispositions de l'article 6, § 2.
+
+Le détenteur et le conducteur du véhicule ne sont punissables que s'ils savent que les conditions auxquelles l'article 6, § 2, subordonne la mise en circulation d'un véhicule automoteur ne sont pas remplies.
+
+#### Art. 27
+
+(Abrogé) &lt;L 2005-12-23/31, art. 60, 015; En vigueur : 09-01-2006&gt;
+
+#### Art. 28
+
+Les dispositions du livre Ier du Code pénal, y compris le chapitre VII et l'article 85, mais à l'exception de l'article 43, alinéa 1er, sont applicables aux infractions prévues par la présente loi.
+
+#### Art. 29
+
+Sans préjudice des devoirs incombant aux officiers de police judiciaire, sont qualifiés pour constater les infractions aux dispositions de la présente loi et des règlements pris pour son exécution, les fonctionnaires et agents de l'autorité publique délégues pour surveiller l'exécution de la législation et des règlements sur la police du roulage, ainsi que ceux qui seront specialement désignés par le Roi.
+
+[<sup>1</sup> Les appareils automatiques peuvent, dans les mêmes conditions que celles visées à l'article 62 de la loi du 16 mars 1968 relative à la police de la circulation routière, être utilisés pour constater les infractions à la présente loi et à ses arrêtés d'exécution. ]<sup>1</sup>
+
+Les procès-verbaux dressés par ces fonctionnaires et agents font foi jusqu'à preuve contraire.
+
+----------
+
+(1)&lt;L 2014-03-09/16, art. 33, 022; En vigueur : 01-07-2014&gt;
+
+## CHAPITRE Vbis. - De l'indemnisation de certaines victimes d'accidents de la circulation. &lt;inséré par L 1994-03-30/31, art. 45, En vigueur : 10-04-1994&gt;
+
+#### Art. 29bis
+
+&lt;L 1995-04-13/58, art. 1, 005; En vigueur : 01-07-1995&gt; § 1er. (En cas d'accident de la circulation impliquant un ou plusieurs véhicules automoteurs, aux endroits visés à l'[<sup>3</sup> article 2, § 1er, alinéa 1er]<sup>3</sup>, et à l'exception des dégâts matériels et des dommages subis par le conducteur de chaque véhicule automoteur impliqué, tous les dommages subis par les victimes et leurs ayants droit et résultant de lésions corporelles ou du décès, y compris les dégâts aux vêtements, sont réparés solidairement par les assureurs qui, conformément à la présente loi, couvrent la responsabilité du propriétaire, du conducteur ou du détenteur des véhicules automoteurs. La présente disposition s'applique également si les dommages ont été causés volontairement par le conducteur.) &lt;L 2001-01-19/42, art. 2, 008; En vigueur : 03-03-2001&gt;
+
+(En cas d'accident de la circulation impliquant un véhicule automoteur lié à une voie ferrée, l'obligation de réparer les dommages prévue à l'alinéa précédent incombe au propriétaire de ce véhicule.) &lt;L 2001-01-19/42, art. 2, 008; En vigueur : 03-03-2001&gt;
+
+Les dommages occasionnés aux prothèses fonctionnelles sont considérés comme des lésions corporelles. (Il y a lieu d'entendre par prothèses fonctionnelles : les moyens utilisés par la victime pour compenser des déficiences corporelles.) &lt;L 2001-01-19/42, art. 2, 008; En vigueur : 03-03-2001&gt;
+
+L' [<sup>1</sup> article 19bis-11, § 1er]<sup>1</sup> s'applique à cette indemnisation. Toutefois, si l'accident résulte d'un cas fortuit, l'assureur reste tenu.
+
+Les dispositions du présent article s'appliquent également aux accidents de la circulation (, au sens de l'alinéa 1er,) impliquant des véhicules automoteurs qui sont exemptés de l'obligation d'assurance en vertu de l'article 10 de la présente loi et dont les propriétaires ont fait usage de cette exemption. &lt;L 2001-01-19/42, art. 2, 008; En vigueur : 03-03-2001&gt;
+
+(Les victimes âgées de plus de 14 ans qui ont voulu l'accident et ses conséquences ne peuvent se prévaloir des dispositions visées à l'alinéa 1.) &lt;L 2001-01-19/42, art. 2, 008; En vigueur : 03-03-2001&gt;
+
+(alinéa abrogé) &lt;L 2001-01-19/42, art. 2, 008; En vigueur : 03-03-2001&gt;
+
+(alinea abrogé) &lt;L 2001-01-19/42, art. 2, 008; En vigueur : 03-03-2001&gt;
+
+Cette obligation d'indemnisation est exécutée conformément aux dispositions légales relatives à l'assurance de la responsabilité en général et à l'assurance de la responsabilité en matière de véhicules automoteurs en particulier, pour autant que le présent article n'y déroge pas.
+
+§ 2. Le conducteur d'un véhicule automoteur et ses ayants droit ne peuvent se prévaloir du présent article (, sauf si le conducteur agit en qualité d'ayant droit d'une victime qui n'était pas conducteur et à condition qu'il n'ait pas causé intentionnellement les dommages.) &lt;L 2001-01-19/42, art. 2, 008; En vigueur : 03-03-2001&gt;
+
+§ 3. [<sup>3</sup> Pour l'application du présent article, il faut entendre par véhicules automoteurs tout véhicule visé à I' article 1er, à l'exclusion de ceux qui sont exemptés de I'obligation d'assurance conformément à l'article 2bis, alinéa 1er.]<sup>3</sup>
+
+§ 4. L'assureur ou le fonds commun de garantie automobile sont subrogés dans les droits de la victime contre les tiers responsables en droit commun. [<sup>2</sup> Les modalités d'exercice de ce recours sont soumises aux conditions prévues par l'article 95, alinéas 2 à 5, de la loi du 4 avril 2014 relative aux assurances.]<sup>2</sup>
+
+Les indemnités versées en exécution du présent article ne peuvent faire l'objet de compensation ou de saisie en vue du paiement des autres indemnités dues à raison de l'accident de la circulation.
+
+§ 5. Les règles de la responsabilité civile restent d'application pour tout ce qui n'est pas régi expressément par le présent article.
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 22, 024; En vigueur : 22-06-2017&gt;
+
+(2)&lt;L 2019-05-02/28, art. 46, 025; En vigueur : 01-06-2019&gt;
+
+(3)&lt;L 2024-03-17/12, art. 31, 029; En vigueur : 12-04-2024&gt;
+
+#### Art. 29ter
+
+[<sup>1</sup> § 1er. Lorsque deux ou plusieurs véhicules sont impliqués dans un accident de circulation en Belgique et s'il n'est pas possible de déterminer quel véhicule a causé l'accident, tous les dommages subis par les victimes innocentes et leurs ayants droit, c'est-à-dire les personnes sur lesquelles ne pèse manifestement aucune responsabilité, sont pris en charge conformément aux dispositions de cet article.
+
+Pour l'application de cet article, il faut entendre par véhicule tous les véhicules automoteurs, tels que définis à l'article 1er, ainsi que les véhicules motorisés qui sont liés à une voie ferrée.
+
+Le dommage pour lequel une indemnisation peut être allouée en exécution de l'article 29bis, est exclu de l'application du présent article.
+
+Les dommages subis par les véhicules qui n'ont manifestement pas causé l'accident, sont indemnisables en application du présent article. Les dommages aux autres véhicules impliqués sont exclus de l'application du présent article.
+
+Pour les véhicules automoteurs, visés à l'article 1er, le présent article est d'application quand l'accident se produit dans les lieux visés à [<sup>2</sup> l'article 2, § 1er, alinéa 1er]<sup>2</sup>.
+
+§ 2. Pour les véhicules automoteurs, visés à l'article 1er, l'obligation d'indemnisation repose sur les assureurs qui couvrent leur responsabilité civile. Le Fonds indemnise les victimes innocentes et leurs ayants droit dans les cas visés par l'article 19bis-11, § 1er, 1° ), 2° ), 4° ), 7° ) et 8° ).
+
+Pour les véhicules automoteurs qui sont exemptés de l'obligation d'assurance en exécution de l'article 10, l'obligation d'indemnisation repose sur celui à qui ils appartiennent ou au nom duquel ils sont immatriculés.
+
+Pour les véhicules automoteurs qui sont liés à une voie ferrée, l'obligation d'indemnisation repose sur le propriétaire de ces véhicules automoteurs.
+
+Tous ceux qui donnent leur garantie à des véhicules qui n'ont certainement pas causé l'accident, ne sont pas tenus à l'indemnisation.
+
+§ 3. Les personnes mentionnées au paragraphe 2 et sur lesquelles pèse l'obligation d'indemnisation sont tenues solidairement à l'égard des victimes innocentes et de leurs ayants droit. La contribution à la charge de l'indemnisation du dommage se répartit par parts égales entre ces débiteurs de l'indemnisation.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-05-31/04, art. 23, 024; En vigueur : 22-06-2017&gt;
+
+(2)&lt;L 2024-03-17/12, art. 32, 029; En vigueur : 12-04-2024&gt;
+
+## CHAPITRE VI.
+
+&lt;Abrogé par L 2017-05-31/04, art. 24, 024; En vigueur : 22-06-2017&gt;
+
+#### Art. 30
+
+&lt;Abrogé par L 2017-05-31/04, art. 24, 024; En vigueur : 22-06-2017&gt;
+
+## CHAPITRE X. - Dispositions finales.
+
+#### Art. 31
+
+Il ne peut être dérogé aux dispositions de la présente loi par des conventions particulières qui porteraient atteinte aux droits des personnes lésées.
+
+#### Art. 32
+
+§ 1. La loi du 1er juillet 1956 relative à l'assurance obligatoire de la responsabilité civile en matière de véhicules automoteurs, modifiée par la loi du 4 juillet 1972, est abrogée.
+
+§ 2. Les dispositions relatives à l'assurance de la responsabilité civile en matière de véhicules automoteurs figurant dans l'article 28 de l'arrêté-loi du 30 décembre 1946 portant révision et coordination de la législation relative au transport rémunéré de personnes par véhicule automobile, tel qu'il a été modifié par la loi du 20 décembre 1957, sont abrogées dans la mesure où cette responsabilité fait l'objet d'une assurance obligatoire conformément à la présente loi.
+
+§ 3. L'article 3 de l'arrêté-loi du 24 février 1947 étendant l'obligation du contrôle technique aux véhicules automobiles servant au transport de choses pour le compte propre de leur propriétaire est abrogé.
+
+#### Art. 33
+
+Les dispositions de la présente loi entreront en vigueur aux dates fixées par le Roi.
+
+#### Art. 33bis
+
+[<sup>1</sup> Les modifications à la présente loi sont applicables aux accidents de la circulation qui sont survenus à partir de l'entrée en vigueur de ces modifications.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-05-31/04, art. 25, 024; En vigueur : 22-06-2017&gt;
+
+#### Art. 33ter
+
+[<sup>1</sup> L'entrée en vigueur de la loi du 31 mai 2017 modifiant la loi du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs, les modifications ultérieures de la loi du 21 novembre 1989 précitée ainsi que les arrêtés d'exécution ultérieurs de cette dernière ont pour effet de modifier de plein droit, dans les limites fixées par ses dispositions, les obligations des assureurs telles qu'elles résultent des conditions générales des contrats en cours.
+
+A l'exception des augmentations de prime, ces modifications ne peuvent justifier la résiliation du contrat en cours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-05-31/04, art. 26, 024; En vigueur : 22-06-2017&gt;
+
+#### Art. 34
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, adapter les dispositions de la présente loi aux obligations découlant pour la Belgique d'accords et de traités internationaux.
+
+#### Art. 35
+
+&lt;Inséré par L 2002-08-22/41, art. 8; En vigueur : 19-01-2003&gt; Le Roi peut coordonner les dispositions de la présente loi et les dispositions qui les auraient expressément ou implicitement modifiées au moment ou les coordinations seront établies.
+
+A cette fin, II peut notamment :
+
+1°) modifier l'ordre, le numérotage et, en général, la présentation des dispositions à coordonner;
+
+2°) modifier les références qui seraient contenues dans les dispositions à coordonner, en vue de les mettre en concordance avec la nouvelle numérotation;
+
+3°) modifier la rédaction des dispositions à coordonner, en vue d'assurer leur concordance et d'en unifier la terminologie, sans qu'il puisse être porté atteinte aux principes inscrits dans ces dispositions.
+
+Les coordinations porteront l'intitulé déterminé par le Roi.

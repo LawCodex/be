@@ -1,0 +1,26 @@
+---
+title: "Loi contenant délégation de pouvoirs pour assurer l'exécution de la directive du Conseil des Communautés européennes du 10 juin 1985."
+identifier: "1989011263"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1989/07/04/1989011263/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1989-07-04
+published: 1989-09-13
+entry_into_force: 1989-09-23
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1989/07/04/1989011263/justel"
+department: "Classes Moyennes"
+retrieved: 2026-10-12
+---
+
+# 4 JUILLET 1989. - Loi contenant délégation de pouvoirs pour assurer l'exécution de la directive du Conseil des Communautés européennes du 10 juin 1985.
+
+## Art. 1
+
+Afin d'assurer l'exécution des obligations résultant du Traité instituant la Communauté économique européenne, en l'espèce la directive du Conseil du 10 juin 1985 visant à la reconnaissance mutuelle des diplômes, certificats et autres titres du domaine de l'architecture et comportant des mesures destinées à faciliter l'exercice effectif du droit d'établissement et de libre prestation de services, le Roi est habilité, par arrêtés délibérés en Conseil des Ministres, à modifier, compléter et éventuellement abroger, dans la mesure nécessaire, les dispositions prévues par la loi du 20 février 1939 sur la protection du titre et de la profession d'architecte ainsi que par la loi du 26 juin 1963 créant un Ordre des architectes.
+
+## Art. 2
+
+Pour réprimer la méconnaissance des dispositions prises en application de l'article 1er, le Roi peut prévoir des sanctions administratives et disciplinaires ainsi que des sanctions pénales; ces dernières ne peuvent excéder un emprisonnement de trois mois et une amende de mille francs.

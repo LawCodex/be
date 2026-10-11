@@ -1,0 +1,123 @@
+---
+title: "Loi portant approbation de l'Accord concernant la coopération en matière de lutte contre la pollution de la mer du Nord par les hydrocarbures et autres substances dangereuses, et de l'Annexe, faits à Bonn le 13 septembre 1983"
+identifier: "2021022412"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1989/06/16/2021022412/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1989-06-16
+published: 2022-01-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1989/06/16/2021022412/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+retrieved: 2026-10-12
+---
+
+# 16 JUIN 1989. - Loi portant approbation de l'Accord concernant la coopération en matière de lutte contre la pollution de la mer du Nord par les hydrocarbures et autres substances dangereuses, et de l'Annexe, faits à Bonn le 13 septembre 1983
+
+## Art. M
+
+Amendement (élargissement du champ d'application de l'Accord en vue de la coopération en matière de surveillance du respect des exigences établies à l'Annexe VI de la Convention MARPOL, adopté le 11 octobre 2019 lors de l'Assemblée des Parties contractantes à Bonn)
+
+Décision des Parties contractantes de l'Accord concernant la coopération en matière de lutte contre la pollution de la mer du Nord par les hydrocarbures et autres substances dangereuses sur l'élargissement du champ d'application de l'Accord en vue de la coopération en matière de surveillance du respect des exigences établies à l'Annexe VI de la Convention MARPOL
+
+Les Parties contractantes de l'Accord concernant la coopération en matière de lutte contre la pollution de la mer du Nord par les hydrocarbures et autres substances dangereuses (" l'Accord "),
+
+Rappelant les dispositions de l'article 16 de l'Accord selon lesquelles des propositions émanant d'une ou de plusieurs Parties contractantes en vue de l'amendement de l'Accord peuvent être adoptées par un vote unanime lors d'une réunion des Parties contractantes,
+
+Dans l'intention de porter le plus rapidement possible à la connaissance du Gouvernement dépositaire la notification de l'approbation par toutes les Parties contractantes, pour permettre l'entrée en vigueur rapide d'un tel amendement en vertu de l'article 16, paragraphe 2, de l'Accord,
+
+Soucieux d'améliorer la coopération et la coordination des Etats contractants en matière de lutte contre les émissions atmosphériques illégales des navires afin de limiter les effets nocifs sur la santé humaine, la biodiversité et le milieu marin résultant des combustibles marins dont la teneur en soufre et en azote est élevée,
+
+Adoptent la décision suivante à l'unanimité :
+
+Paragraphe 1er - Amendement du titre de l'Accord
+
+Le titre de l'Accord est rédigé comme suit :
+
+" Accord concernant la coopération en matière de lutte contre la pollution de la mer du Nord par les hydrocarbures et autres substances dangereuses et la pollution atmosphérique provenant des navires "
+
+Paragraphe 2 - Amendement du préambule de l'Accord
+
+Le préambule de l'Accord est amendé comme suit :
+
+Le mot " de l'Irlande " est inséré devant les mots " du Royaume de Norvège ".
+
+Les paragraphes 2 à 6 du préambule ont le libellé suivant :
+
+" Reconnaissant que la pollution des eaux par les hydrocarbures et autres substances dangereuses ainsi que la pollution atmosphérique provenant des navires dans la région de la mer du Nord peuvent présenter un danger pour le milieu marin, la biodiversité, la santé humaine et les intérêts afférents des Etats côtiers,
+
+Prenant note du fait que ces types de pollution ont des sources nombreuses et que les sinistres et autres événements de mer suscitent de vives inquiétudes,
+
+Convaincus que l'aptitude à lutter contre ces pollutions, ainsi qu'une coopération active et une assistance mutuelle entre les Etats sont nécessaires pour protéger leurs côtes et leurs intérêts connexes,
+
+Se félicitant des progrès déjà réalisés dans le cadre de l'Accord concernant la coopération en matière de lutte contre la pollution des eaux de la mer du Nord par les hydrocarbures, signé à Bonn le 9 juin 1969,
+
+Souhaitant développer l'assistance mutuelle et la coopération en matière de lutte contre les différents types de pollution, "
+
+Paragraphe 3 - Amendement de l'Article 1er
+
+L'article 1er de l'Accord est rédigé comme suit :
+
+" Article 1er
+
+Le présent Accord s'applique dans la région de la mer du Nord, telle qu'elle est définie à l'article 2,
+
+(1) quand la présence ou la menace d'hydrocarbures ou d'autres substances dangereuses polluant ou pouvant polluer les eaux dans la région de la mer du Nord constitue un danger grave et imminent pour les côtes ou les intérêts connexes d'une ou plusieurs Parties contractantes ; ou
+
+(2) quand la présence ou la menace d'émissions provenant des navires au sens de l'Annexe VI de la Convention MARPOL polluant ou pouvant polluer le milieu marin contribue à l'eutrophisation des eaux et à la mise en danger de la santé des hommes vivant sur les côtes ou des espèces marines ; et
+
+(3) à la surveillance exercée pour contribuer à détecter des pollutions telles que définies aux paragraphes 1er et 2 du présent article et à lutter contre elles, et afin de prévenir les violations des réglementations ayant pour objet la prévention des pollutions. "
+
+Paragraphe 4 - Amendement de l'Article 5
+
+L'article 5 de l'Accord est rédigé comme suit :
+
+" Article 5
+
+(1) Chaque fois qu'une Partie contractante a connaissance d'un accident ou de la présence d'hydrocarbures ou d'autres substances dangereuses, y compris les émissions des navires, dans la région de la mer du Nord, susceptibles de constituer une menace grave pour les côtes ou les intérêts connexes d'une autre Partie contractante, elle en informe sans délai cette Partie contractante par l'intermédiaire de son autorité compétente.
+
+(2) Les Parties contractantes s'engagent à inviter les capitaines de tous les navires battant leur pavillon national et les pilotes des avions immatriculés dans leur pays, à signaler sans délai par les voies les plus pratiques et les plus adéquates compte tenu des circonstances :
+
+a) tous les accidents causant ou pouvant causer une pollution du milieu marin ;
+
+b) la présence, la nature et l'étendue des hydrocarbures ou d'autres substances dangereuses susceptibles de constituer une menace grave pour la côte ou les intérêts connexes d'une ou plusieurs Parties contractantes.
+
+(3) Les Parties contractantes utilisent un formulaire type pour signaler la pollution ainsi qu'il est prévu au paragraphe 1er du présent article. "
+
+Paragraphe 5 - Amendement de l'Article 6
+
+L'article 6 de l'Accord est rédigé comme suit :
+
+" Article 6
+
+(1) Aux seules fins du présent Accord la région de la mer du Nord est divisée en zones définies à l'Annexe du présent Accord.
+
+(2) La Partie contractante dans la zone de laquelle survient une situation de la nature de celle décrite à l'article 1er, paragraphe 1er du présent Accord fait les évaluations nécessaires concernant la nature et l'importance de l'accident ou, le cas échéant, le type et la quantité approximative des hydrocarbures ou d'autres substances dangereuses ainsi que la direction et la vitesse de leur mouvement.
+
+(3) La Partie contractante intéressée informe immédiatement toutes les autres Parties contractantes, par l'intermédiaire de leur autorité compétente, de ses évaluations et de toute action entreprise pour lutter contre ces hydrocarbures ou autres substances dangereuses ; elle continue à garder ces substances sous surveillance aussi longtemps que celles-ci sont présentes dans sa zone.
+
+(4) Les obligations incombant aux Parties contractantes en vertu des dispositions du présent article en ce qui concerne les zones dites de responsabilité commune, font l'objet d'arrangements techniques particuliers entre les Parties intéressées. Ces arrangements sont communiqués aux autres Parties contractantes. "
+
+Paragraphe 6 - Amendement de l'Article 15
+
+L'article 15 de l'Accord est rédigé comme suit :
+
+" Article 15
+
+(1) Les Parties contractantes prennent des dispositions pour que soient assurées les fonctions de secrétariat relatives au présent Accord, en tenant compte des arrangements existant à cet effet dans le cadre d'autres accords internationaux sur la prévention en matière de pollution du milieu marin et de pollution atmosphérique, en vigueur dans la même région que le présent Accord.
+
+(2) Chaque Partie contractante contribue à raison de 2,5 % aux dépenses annuelles entraînées par l'Accord. Le solde des dépenses de l'Accord est réparti entre les Parties contractantes autres que la Communauté économique européenne au prorata de leur produit national brut, conformément au barème de répartition voté régulièrement par l'Assemblée générale des Nations Unies. En aucun cas, la contribution d'une Partie contractante au règlement de ce solde ne peut excéder 20 % de ce solde. "
+
+Paragraphe 7 - Entrée en vigueur
+
+Cette décision entre en vigueur le premier jour du second mois suivant la date à laquelle le Gouvernement dépositaire a reçu notification de son approbation par toutes les Parties contractantes.
+
+(1) Voir le Moniteur belge du 28 décembre 1989 (page 21059)
+
+(2) Liste des Etats liés :
+
+<table><tr><td>Parties </td><td>Notification de l'approbation </td><td>Partijen </td><td>Kennisgeving van goedkeuring </td></tr><tr><td>Allemagne </td><td>17/03/2020 </td><td>België </td><td>08/07/2021 </td></tr><tr><td>Belgique </td><td>08/07/2021 </td><td>Denemarken </td><td>04/02/2021 </td></tr><tr><td>Danemark </td><td>04/02/2021 </td><td>Duitsland </td><td>17/03/2020 </td></tr><tr><td>Espagne </td><td> </td><td>Europese Unie </td><td>23/02/2021 </td></tr><tr><td>France </td><td> </td><td>Frankrijk </td><td> </td></tr><tr><td>Irlande </td><td>25/08/2021 </td><td>Ierland </td><td>25/08/2021 </td></tr><tr><td>Norvège </td><td>15/07/2020 </td><td>Nederland </td><td>11/05/2021 </td></tr><tr><td>Pays-Bas </td><td>11/05/2021 </td><td>Noorwegen </td><td>15/07/2020 </td></tr><tr><td>Suède </td><td> </td><td>Spanje </td><td> </td></tr><tr><td>Royaume-Uni </td><td> </td><td>Verenigd Koninkrijk </td><td> </td></tr><tr><td>Union européenne </td><td>23/02/2021 </td><td>Zweden </td><td></td></tr></table>
+
+L'Amendement n'est pas encore entré en vigueur, conformément à l'article 16 § 2 de l'Accord.

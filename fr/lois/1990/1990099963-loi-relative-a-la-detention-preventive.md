@@ -3,7 +3,7 @@ title: "Loi relative à la détention préventive."
 identifier: "1990099963"
 eli: "https://www.ejustice.just.fgov.be/eli/loi/1990/07/20/1990099963/justel"
 type: act
-justel_type: "LOI DETENTION PREVENTIVE"
+justel_type: "LOI"
 jurisdiction: be
 language: fr
 date: 1990-07-20
@@ -14,7 +14,7 @@ status: in_force
 source: "https://www.ejustice.just.fgov.be/eli/loi/1990/07/20/1990099963/justel"
 department: "Justice"
 justel_note: "Consultation des versions antérieures à partir du 01-12-1990 et mise à jour au 26-03-2026"
-retrieved: 2026-10-11
+retrieved: 2026-10-12
 ---
 
 # 20 JUILLET 1990. - Loi relative à la détention préventive.
