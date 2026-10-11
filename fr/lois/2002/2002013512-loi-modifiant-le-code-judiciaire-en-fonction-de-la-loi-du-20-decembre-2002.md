@@ -1,0 +1,88 @@
+---
+title: "Loi modifiant le Code judiciaire en fonction de la loi du 20 décembre 2002 portant protection des conseillers en prévention."
+identifier: "2002013512"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/20/2002013512/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2002-12-20
+published: 2003-01-20
+entry_into_force: 2003-02-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/20/2002013512/justel"
+department: "Emploi, Travail et Concertation sociale"
+retrieved: 2026-10-11
+---
+
+# 20 DECEMBRE 2002. - Loi modifiant le Code judiciaire en fonction de la loi du 20 décembre 2002 portant protection des conseillers en prévention.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE I. - Disposition générale.
+
+### Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## CHAPITRE II. - Modification du Code judiciaire.
+
+### Art. 2
+
+A l'article 81 du Code judiciaire, modifié par les lois des 30 juin 1971, 26 juillet 1990 et 17 juin 2002, sont apportées les modifications suivantes :
+
+1° l'alinéa suivant est inséré entre les alinéas 4 et 5 :
+
+" Dans les litiges portant sur les matières prévues à l'article 578, 12°, b) , un des juges sociaux doit être nommé au titre d'employeur, l'autre au titre de travailleur indépendant. ";
+
+2° l'alinéa 5 est remplacé par l'alinéa suivant :
+
+" Dans les litiges portant sur les matières prévues aux articles 578, 4°, 5°, 6°, 8°, 10°, 11° et 12°, a) , 579, 580, 582, 3° et 4°, et pour l'application aux employeurs des sanctions administratives prévues à l'article 583, un des juges sociaux doit être nommé au titre d'employeur, l'autre au titre de travailleur. "
+
+### Art. 3
+
+A l'article 104 du Code judiciaire, modifié par les lois des 30 juin 1971 et 17 juin 2002 sont apportées les modifications suivantes :
+
+1° l'alinéa suivant est inséré entre les alinéas 4 et 5 :
+
+" Les chambres qui connaissent de l'appel d'un jugement rendu dans un litige portant sur la matière prévue à l'article 578, 12°, b) , sont composées, outre les présidents, de deux conseillers sociaux nommés respectivement au titre d'employeur et au titre de travailleur indépendant ";
+
+2° l'alinéa 4 est remplacé par l'alinéa suivant :
+
+" Les chambres qui connaissent de l'appel d'un jugement rendu dans un litige portant sur les matières prévues aux articles 578, 4°, 5°, 6°, 8°, 10° et 11 °, et 12°, a) , 579, 580, 582, 3° et 4° ou concernant l'application aux employeurs de sanctions administratives prévues à l'article 583, sont composées, outre les présidents, de deux conseillers sociaux nommés respectivement au titre d'employeur et au titre de travailleur. "
+
+### Art. 4
+
+L'article 578 du Code judiciaire, modifié par les lois des 5 décembre 1968, 4 août 1978, 17 juillet 1997, 13 février 1998, 7 mai 1999 et 17 juin 2002, est complété comme suit :
+
+" 12° des contestations qui trouvent leur origine dans la loi du... portant protection des conseillers en prévention et qui concernent :
+
+a) les travailleurs;
+
+b) les travailleurs indépendants. "
+
+### Art. 5
+
+La présente loi entre en vigueur le premier jour du premier mois qui suit celui au cours duquel elle aura été publiée au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 20 décembre 2002.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de l'Emploi,
+
+Mme L. ONKELINX
+
+Vu et scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

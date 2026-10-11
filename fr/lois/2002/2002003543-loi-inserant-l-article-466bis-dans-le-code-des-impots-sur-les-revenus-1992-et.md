@@ -1,0 +1,56 @@
+---
+title: "Loi insérant l'article 466bis dans le Code des impôts sur les revenus 1992 et réglant l'application de l'article 244bis du même code aux résidents des Pays-Bas."
+identifier: "2002003543"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/13/2002003543/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2002-12-13
+published: 2002-12-28
+entry_into_force: 2003-01-07
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/13/2002003543/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 13 DECEMBRE 2002. - Loi insérant l'article 466bis dans le Code des impôts sur les revenus 1992 et réglant l'application de l'article 244bis du même code aux résidents des Pays-Bas.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Dans le Code des impôts sur les revenus 1992, est inséré un article 466bis , rédigé comme suit :
+
+" Art. 466bis. Lorsqu'un habitant du Royaume reçoit de l'étranger des revenus professionnels qui sont exonérés de l'impôt des personnes physiques en Belgique en vertu d'une convention internationale préventive de la double imposition, la taxe communale additionnelle et la taxe d'agglomération additionnelle visées à l'article 466 sont néanmoins calculées, pour autant que la convention internationale le permette, sur l'impôt des personnes physiques qui serait dû en Belgique si les revenus professionnels en question étaient tirés de sources situées en Belgique. ".
+
+## Art. 3
+
+L'article 244bis du Code des impôts sur les revenus 1992 est applicable aux résidents des Pays-Bas visés à l'article 26, paragraphe 2, de la Convention entre le Royaume de Belgique et le Royaume des Pays-Bas tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune qui a été signée le 5 juin 2001.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du Sceau de l'Etat et publiée par le Moniteur Belge.
+
+Donné à Bruxelles, le 13 décembre 2002.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

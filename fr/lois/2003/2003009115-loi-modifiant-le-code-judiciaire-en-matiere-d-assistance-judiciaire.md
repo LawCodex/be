@@ -1,0 +1,62 @@
+---
+title: "Loi modifiant le Code judiciaire en matière d'assistance judiciaire."
+identifier: "2003009115"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/06/2003009115/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2003-01-06
+published: 2003-02-19
+entry_into_force: 2003-03-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/06/2003009115/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 6 JANVIER 2003. - Loi modifiant le Code judiciaire en matière d'assistance judiciaire.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+A l'article 674bis du Code judiciaire, inséré par la loi du 7 janvier 1998, sont apportées les modifications suivantes :
+
+a) le § 2, alinéa 1er, est complété comme suit :
+
+" 5° au président de la chambre du tribunal correctionnel ou au président de la chambre de la cour d'appel qui connaît de l'appel de l'action publique. ";
+
+b) le § 2, alinéa 2, est abrogé;
+
+c) le § 4 est complété par les alinéas suivants :
+
+" Lorsque l'action publique est portée en appel devant le tribunal correctionnel ou la cour d'appel, la demande d'assistance judiciaire en vue d'obtenir la délivrance de copies de pièces du dossier est introduite, à peine de déchéance, dans les huit jours à dater de la déclaration d'appel. S'il est interjeté appel par le ministère public ou par la partie civile, sans que le prévenu ait interjeté appel, la demande d'assistance judiciaire est introduite, à peine de déchéance, dans les huit jours à dater de la citation.
+
+Le texte de l'alinéa 3 de ce paragraphe est reproduit dans la citation en appel. "
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 6 janvier 2003.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

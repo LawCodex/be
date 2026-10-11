@@ -1,0 +1,66 @@
+---
+title: "Loi portant assentiment à l'Accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'établissement, l'exécution et le suivi d'un Plan national Climat, ainsi que l'établissement de rapports, dans le cadre de la Convention-cadre des Nations Unies sur les Changements climatiques et du Protocole de Kyoto, conclu à Bruxelles le 14 novembre 2002."
+identifier: "2003011319"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/11/2003011319/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2003-04-11
+published: 2003-07-15
+entry_into_force: 2003-07-15
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/11/2003011319/justel"
+department: "Economie, PME, Classes moyennes et Energie"
+retrieved: 2026-10-11
+---
+
+# 11 AVRIL 2003. - Loi portant assentiment à l'Accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'établissement, l'exécution et le suivi d'un Plan national Climat, ainsi que l'établissement de rapports, dans le cadre de la Convention-cadre des Nations Unies sur les Changements climatiques et du Protocole de Kyoto, conclu à Bruxelles le 14 novembre 2002.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+Assentiment est donné à l'Accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'établissement, l'exécution et le suivi d'un Plan national Climat, ainsi que l'établissement de rapports, dans le cadre de la Convention-cadre des Nations Unies sur les Changements climatiques et du Protocole de Kyoto, conclu à Bruxelles le 14 novembre 2002, annexé à la présente loi.
+
+## Art. 3
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'état et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 11 avril 2003.
+
+ALBERT
+
+Par le Roi :
+
+La Vice-Première Ministre et Ministre de la Mobilité et des Transports,
+
+Mme I. DURANT
+
+Le Secrétaire d'Etat à l'Energie et au Développement durable,
+
+O. DELEUZE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN
+
+## ANNEXE.
+
+## Art. N
+
+Accord de coopération entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'établissement, l'exécution et le suivi d'un Plan national Climat, ainsi que l'établissement de rapports, dans le cadre de la Convention-cadre des Nations Unies sur les Changements climatiques et du Protocole de Kyoto.
+
+(Pour l'Accord de coopération, voir %%2002-11-14/61%%).

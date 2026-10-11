@@ -1,0 +1,74 @@
+---
+title: "Loi modifiant les articles 357 et 362 du Code judiciaire."
+identifier: "2003009408"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/22/2003009408/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2003-04-22
+published: 2003-05-09
+entry_into_force: 2003-12-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/22/2003009408/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 22 AVRIL 2003. - Loi modifiant les articles 357 et 362 du Code judiciaire.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+L'article 357 du Code judiciaire, remplacé par la loi du 29 avril 1999 et modifié par les lois des 28 mars 2000 et 15 juin 2001, par l'arrêté royal du 13 juillet 2001, confirmé par la loi du 26 juin 2002, et par la loi du 27 décembre 2002, est complété par un § 4, rédigé comme suit :
+
+" § 4. Une prime est accordée aux magistrats qui ont justifié de la connaissance d'une autre langue que celle dans laquelle ils ont subi les examens du doctorat ou de la licence en droit, conformément à l'article 43quinquies la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire, pour autant qu'ils soient nommés dans une juridiction où une partie au moins des magistrats sont, en vertu de la législation sur l'emploi des langues en matière judiciaire, tenus de justifier de la connaissance de plus d'une langue nationale.
+
+Dans chaque juridiction, le nombre de magistrats auxquels une prime est accordée est limité, selon le cas, au nombre minimal ou au nombre prescrit par la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire par juridiction. L'attribution de la prime se fait sur base de l'ancienneté de service du magistrat dans la juridiction concernée.
+
+La prime est due pour autant que le magistrat, visé à l'alinéa 1er exerce réellement ses fonctions au sein de la juridiction où il est nommé ou remplit une mission au sein d'une juridiction où une partie au moins des magistrats sont, en vertu de la législation sur l'emploi des langues en matière judiciaire, tenus de justifier de la connaissance de plus d'une langue nationale.
+
+Cette prime est également allouée au procureur fédéral et aux magistrats fédéraux qui ont justifié de la connaissance d'une autre langue que celle dans laquelle ils ont subi les examens du doctorat ou de la licence en droit, conformément à l'article 43quinquies de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire.
+
+Le montant mensuel de la prime est fixé à :
+
+\- 281,98 EUR pour les magistrats qui ont justifié de la connaissance orale active et passive et de la connaissance écrite active et passive de l'autre langue;
+
+\- 216,91 EUR pour les magistrats qui ont justifié de la connaissance orale active et passive et de la connaissance écrite passive de l'autre langue.
+
+La prime est liquidée en même temps que le traitement.
+
+## Art. 3
+
+A l'article 362, alinéa 2, du même Code, inséré par la loi du 29 avril 1999, les mots " §§ 2 et 3 " sont remplacés par les mots " §§ 2 à 4 ".
+
+## Art. 4
+
+La présente loi entre en vigueur le 1er décembre 2003.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Châteauneuf-de-Grasse, le 22 avril 2003.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

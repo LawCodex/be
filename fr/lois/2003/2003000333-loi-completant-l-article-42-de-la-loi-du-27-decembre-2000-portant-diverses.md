@@ -1,0 +1,56 @@
+---
+title: "Loi complétant l'article 42 de la loi du 27 décembre 2000 portant diverses dispositions relatives à la position juridique du personnel des services de police en vue de combler une lacune concernant le congé préalable à la mise à la retraite des membres de la police communale désignés à une fonction à mandat à la police fédérale."
+identifier: "2003000333"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/26/2003000333/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2003-03-26
+published: 2003-04-23
+entry_into_force: 2003-04-23
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2003/03/26/2003000333/justel"
+department: "Intérieur"
+retrieved: 2026-10-11
+---
+
+# 26 MARS 2003. - Loi complétant l'article 42 de la loi du 27 décembre 2000 portant diverses dispositions relatives à la position juridique du personnel des services de police en vue de combler une lacune concernant le congé préalable à la mise à la retraite des membres de la police communale désignés à une fonction à mandat à la police fédérale.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 42 de la loi du 27 décembre 2000 portant diverses dispositions relatives à la position juridique du personnel des services de police est complété par l'alinéa suivant :
+
+" Le congé préalable à la mise à la retraite visé à l'alinéa précédent est également d'application aux membres du personnel de la police communale désignés avant le 1er juillet 2001 à une fonction à mandat à la police fédérale. "
+
+## Art. 3
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 26 mars 2003.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de l'Intérieur,
+
+A. DUQUESNE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

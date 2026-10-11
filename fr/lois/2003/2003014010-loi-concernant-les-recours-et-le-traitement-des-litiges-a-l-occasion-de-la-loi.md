@@ -1,0 +1,240 @@
+---
+title: "Loi concernant les recours et le traitement des litiges à l'occasion de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et télécommunications belges."
+identifier: "2003014010"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/17/2003014010/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2003-01-17
+published: 2003-01-24
+entry_into_force: 2003-04-23
+last_amended: 2026-03-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/17/2003014010/justel"
+department: "Mobilité et Transports"
+justel_note: "Consultation des versions antérieures à partir du 24-01-2003 et mise à jour au 27-03-2026"
+retrieved: 2026-10-11
+---
+
+# 17 JANVIER 2003. - Loi concernant les recours et le traitement des litiges à l'occasion de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et télécommunications belges.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons qui suit :
+
+## CHAPITRE I. - Disposition générale.
+
+### Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+### Art. 1/1
+
+[<sup>1</sup> La présente loi transpose partiellement la directive (UE) 2018/1972 du Parlement européen et du Conseil du 11 décembre 2018 établissant le code des communications électroniques européen.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 25, 013; En vigueur : 10-01-2022&gt;
+
+## CHAPITRE II. - Les recours.
+
+### Art. 2
+
+[<sup>1</sup> § 1er. Les décisions de l'Institut belge des services postaux et des télécommunications peuvent faire l'objet d'un recours en pleine juridiction devant la [<sup>4</sup> Cour des marchés]<sup>4</sup> statuant comme en référé. [<sup>3</sup> L'Institut est partie adverse à la procédure.]<sup>3</sup> [<sup>5</sup> Lorsque le recours est dirigé contre une décision à caractère réglementaire, la Cour des marchés ne dispose que d'un pouvoir d'annulation.]<sup>5</sup>
+
+Toute personne ayant un intérêt pour agir peut introduire le recours visé à l'alinéa 1er.
+
+[<sup>2</sup> Le Ministre qui a les Télécommunications dans ses attributions ou le Ministre qui a le Secteur postal dans ses attributions]<sup>2</sup> peut introduire le recours visé à l'alinéa 1er.
+
+§ 2. Les recours sont formés, [<sup>5</sup> à peine d'irrecevabilité prononcée d'office, par requête déposée au greffe de la cour d'appel de Bruxelles, à laquelle est jointe la décision attaquée, dans un délai de soixante jours]<sup>5</sup> à partir de la notification de la décision ou à défaut de notification, après la publication de la décision ou à défaut de publication, après la prise de connaissance de la décision.
+
+A peine de nullité, la requête contient :
+
+1° l'indication des jour, mois et an;
+
+2° si le demandeur est une personne physique, ses nom, prénoms, profession et domicile, ainsi que, le cas échéant, son numéro d'entreprise; si le demandeur est une personne morale, sa dénomination, sa forme juridique, son siège social et la qualité de la personne ou de l'organe qui la représente, ainsi que, le cas échéant, son numéro d'entreprise; si le recours émane du [<sup>2</sup> Ministre qui a les Télécommunications dans ses attributions ou le Ministre qui a le Secteur postal dans ses attributions]<sup>2</sup>, la dénomination et l'adresse du service qui le représente;
+
+3° [<sup>5</sup> l'adresse exacte de l'Institut;]<sup>5</sup>
+
+4° [<sup>3</sup> ...]<sup>3</sup>
+
+5° l'exposé [<sup>3</sup> complet]<sup>3</sup> des moyens [<sup>3</sup> , sans préjudice de l'article 748 du Code judiciaire, aucun nouveau moyen ne pourra être développé par le requérant pendant la mise en état de la cause, à l'exception des moyens d'ordre public qui peuvent être soulevés à tout moment de la procédure, jusqu'à clôture des débats, par la [<sup>4</sup> Cour des marchés]<sup>4</sup> et par les parties]<sup>3</sup>;
+
+6° l'indication des lieu, jour et heure de la comparution fixés par le greffe de la cour d'appel;
+
+7° la signature du requérant ou de son avocat.
+
+[<sup>3</sup> Si la requête contient des éléments que le requérant considère comme confidentiels, il l'indique de manière explicite et il dépose, à peine de nullité, une version non-confidentielle de celle-ci.
+
+[<sup>5</sup> Le greffe de la cour d'appel notifie sans délai la requête à l'Institut, le cas échéant, dans sa version confidentielle, ainsi qu'au ministre sauf si celui-ci est le requérant. La notification à l'Institut est effectuée par pli judiciaire ou par courrier électronique à son adresse judiciaire électronique. La version non-confidentielle de la requête est publiée sur le site internet de l'Institut.]<sup>5</sup>
+
+Toute partie intéressée peut intervenir à la cause. Cette intervention ne sera recevable que si elle est introduite dans le respect des conditions et dans les limites fixées à l'alinéa 2, dans les trente jours qui suivent la publication de la requête par l'Institut sur son site Internet.]<sup>3</sup>
+
+[<sup>5</sup> L'audience d'introduction a lieu au plus tôt huit jours après la notification de la requête visée à l'alinéa 4.]<sup>5</sup>
+
+La [<sup>4</sup> Cour des marchés]<sup>4</sup> fixe le délai dans lequel les parties doivent se communiquer leurs observations écrites et les déposer au greffe.
+
+[<sup>2</sup> Le Ministre qui a les Télécommunications dans ses attributions ou le Ministre qui a le Secteur postal dans ses attributions]<sup>2</sup> peut déposer ses observations écrites au greffe de la cour d'appel de Bruxelles et consulter le dossier au greffe sans déplacement. La [<sup>4</sup> Cour des marchés]<sup>4</sup> fixe les délais de production de ces observations. Elles sont portées par le greffe à la connaissance des parties.
+
+§ 3. Le dossier administratif initial de l'Institut est communiqué aux autres parties en même temps que les observations de l'Institut.
+
+[<sup>3</sup> L'Institut indique au regard de chaque pièce de son dossier si celle-ci est confidentielle ou non. Les pièces confidentielles ne sont pas transmises aux parties. S'il est possible d'établir une version publique des pièces confidentielles, seule cette version non-confidentielle est transmise aux parties.]<sup>3</sup>
+
+Le dossier définitif de procédure, tel que communiqué aux autres parties avec chaques observations de l'Institut, est déposé au greffe de la [<sup>4</sup> Cour des marchés]<sup>4</sup> de Bruxelles en même temps que les dernières observations de l'Institut.
+
+§ 4. Le recours ne suspend pas les décisions de l'Institut.
+
+La [<sup>4</sup> Cour des marchés]<sup>4</sup> peut toutefois, [<sup>5</sup> si la demande en est faite par le requérant dans sa requête introductive]<sup>5</sup> et par décision avant dire droit, suspendre, en tout ou en partie, l'exécution de la décision de l'Institut et ce, jusqu'au jour du prononcé de l'arrêt.
+
+La suspension de l'exécution ne peut être ordonnée que si des moyens sérieux susceptibles de justifier l'annulation de la décision attaquée sont invoqués et à condition que l'exécution immédiate de la décision risque d'avoir des conséquences graves [<sup>2</sup> et difficilement réparables]<sup>2</sup> pour [<sup>5</sup> le requérant et pour autant que la balance des intérêts penche en faveur de la suspension demandée]<sup>5</sup>.
+
+La [<sup>4</sup> Cour des marchés]<sup>4</sup> peut, le cas échéant, ordonner la restitution à l'intéressé du montant versé des amendes.
+
+Elle peut également ne pas se prononcer immédiatement sur la restitution des amendes payées.
+
+§ 5. La [<sup>4</sup> Cour des marchés]<sup>4</sup> veille à ce que la confidentialité du dossier transmis par l'Institut soit préservée tout au long de la procédure devant la cour.]<sup>1</sup>
+
+[<sup>5</sup> § 6. A la demande d'une partie, la Cour des marchés, si elle l'estime nécessaire, peut indiquer ceux des effets des décisions individuelles annulées ou, par voie de disposition générale, ceux des effets des décisions à caractère réglementaire annulées qui doivent être considérés comme définitifs ou maintenus provisoirement pour le délai qu'elle détermine.]<sup>5</sup>
+
+----------
+
+(1)&lt;L 2009-05-31/15, art. 2, 006; En vigueur : 20-07-2009&gt;
+
+(2)&lt;L 2010-12-13/06, art. 2, 007; En vigueur : 31-12-2010&gt;
+
+(3)&lt;L 2012-07-10/05, art. 3, 008; En vigueur : 04-08-2012&gt;
+
+(4)&lt;L 2016-12-25/14, art. 112 et 160, 011; En vigueur : 09-01-2017&gt;
+
+(5)&lt;L 2021-12-21/05, art. 26, 013; En vigueur : 10-01-2022&gt;
+
+### Art. 2/1
+
+[<sup>1</sup> Les pourvois en cassation dirigés contre les arrêts rendus par la [<sup>3</sup> Cour des marchés]<sup>3</sup> en application du présent chapitre peuvent également être introduits par le [<sup>2</sup> Ministre qui a les Télécommunications dans ses attributions ou le Ministre qui a le Secteur postal dans ses attributions]<sup>2</sup>, sans que celui-ci doive justifier d'un intérêt et sans qu'il ait été partie devant la cour d'appel de Bruxelles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-05-31/15, art. 3, 006; En vigueur : 20-07-2009&gt;
+
+(2)&lt;L 2010-12-13/06, art. 3, 007; En vigueur : 31-12-2010&gt;
+
+(3)&lt;L 2016-12-25/14, art. 112 et 160, 011; En vigueur : 09-01-2017&gt;
+
+### Art. 3
+
+[<sup>1</sup> Pour l'ensemble des aspects ayant trait à la procédure devant la [<sup>2</sup> Cour des marchés]<sup>2</sup> qui ne sont pas traités par ce chapitre, les dispositions du Code judiciaire relatives à l'appel sont d'application]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-05-31/15, art. 4, 006; En vigueur : 20-07-2009&gt;
+
+(2)&lt;L 2016-12-25/14, art. 112 et 160, 011; En vigueur : 09-01-2017&gt;
+
+## CHAPITRE III. - Traitement des litiges.
+
+### Art. 4
+
+[<sup>1</sup> [<sup>4</sup> Sans préjudice du droit pour toute partie de saisir une juridiction, l'Institut prend une décision administrative contraignante selon la procédure fixée par le Roi, par arrêté délibéré en Conseil des ministres :
+
+1° en cas de litige entre fournisseurs de réseaux de communications électroniques, de services de communications électroniques, d'équipements de communications électroniques, ou de ressources associées; ou
+
+2° en cas de litige entre des prestataires de services postaux conformément à la loi du 26 janvier 2018 relative aux services postaux; ou
+
+3° en cas de litige entre des fournisseurs de services ou de réseaux de communications électroniques ou entre des fournisseurs de services de médias audiovisuels visés par la loi du 5 mai 2017 relative aux services de médias audiovisuels en région bilingue de Bruxelles-Capitale; ou
+
+4° en l'absence d'accord au sens de l'article XI.216/2, § 2, du Code de droit économique; ou
+
+5° dans le cadre du règlement (UE) 2024/1309 du Parlement européen et du Conseil du 29 avril 2024 relatif à des mesures visant à réduire le coût du déploiement de réseaux gigabit de communications électroniques, modifiant le règlement (UE) 2015/2120 et abrogeant la directive 2014/61/UE (règlement sur les infrastructures gigabit), pour le règlement des litiges qu'il vise :
+
+a) à l'article 13, paragraphe 1er, premier alinéa, point a), en cas de litige entre fournisseurs de réseaux de communications électroniques, de services de communications électroniques ou de ressources associées; ou
+
+b) à l'article 13, paragraphe 1er, premier alinéa, point b), en rapport avec les droits et obligations énoncés à l'article 4 du règlement, en cas de litige entre fournisseurs de réseaux de communications électroniques, de services de communications électroniques, ou de ressources associées; ou
+
+c) à l'article 13, paragraphe 1er, premier alinéa, point d)]<sup>4</sup>.
+
+Il ne peut y avoir de litige au sens [<sup>4</sup> de l'alinéa 1er, 1° à 4° ]<sup>4</sup> que si les parties n'aboutissent pas à une solution négociée dans un délai de quatre mois après la demande motivée d'ouvrir les négociations.
+
+[<sup>4</sup> Sauf circonstances exceptionnelles, l'Institut rend une décision administrative contraignante dans un délai de:
+
+1° quatre mois pour les litiges visés à l'alinéa 1er, 1° à 5°, a);
+
+2° un mois pour les litiges visés à l'alinéa 1er, 5°, b) et c)]<sup>4</sup>.
+
+L'Institut peut, à la demande d'une partie, dans un délai de dix jours ouvrables après le dépôt de cette demande, rejeter par décision motivée des demandes de règlement de litiges manifestement irrecevables ou manifestement non fondées. Avant de déclarer une demande de règlement de litiges manifestement irrecevable ou manifestement non fondée, l'Institut entend toutes les parties concernées.
+
+Une demande de règlement de litiges au sens du présent article met fin à la procédure de conciliation visée à l'article 14, § 1er, 4°, de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et des télécommunications belges.
+
+Les décisions de l'Institut rendues en exécution du présent article et de l'article 4/1 peuvent faire l'objet du recours prévu à l'article 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-07-31/30, art. 5, 012; En vigueur : 18-02-2018&gt;
+
+(2)&lt;L 2021-12-21/05, art. 27, 013; En vigueur : 10-01-2022&gt;
+
+(3)&lt;L 2022-06-19/03, art. 97, 014; En vigueur : 01-08-2022&gt;
+
+(4)&lt;L 2026-03-11/08, art. 16, 015; En vigueur : 06-04-2026&gt;
+
+### Art. 4/1
+
+[<sup>1</sup> § 1er. Toute partie peut soumettre à l'Institut un litige entre une entreprise établie en Belgique et une entreprise établie dans un autre Etat membre de l'Union européenne. Lorsque le litige a une incidence sur les échanges entre les Etats membres, l'Institut notifie le litige à l'ORECE afin que le litige soit réglé de façon cohérente, conformément aux objectifs énoncés à l'article 6 de la loi du 13 juin 2005 relative aux communications électroniques.
+
+§ 2. Lorsqu'il a été procédé à une telle notification, l'ORECE émet un avis invitant l'Institut et les autres autorités de régulation nationales concernées à prendre des mesures spécifiques pour régler le litige, ou à s'abstenir d'agir, dans les meilleurs délais, et en tout état de cause dans un délai de quatre mois, sauf dans des circonstances exceptionnelles.
+
+§ 3. Les autorités de régulation nationales concernées attendent l'avis de l'ORECE avant de prendre toute mesure pour régler le litige. Dans des circonstances exceptionnelles, lorsqu'il est urgent d'agir afin de préserver la concurrence ou de protéger les intérêts des utilisateurs finaux, l'Institut peut, à la demande des parties ou de sa propre initiative, adopter des mesures provisoires.
+
+§ 4. Les obligations imposées à une entreprise par l'Institut dans le cadre du règlement d'un litige respectent la présente loi, tiennent le plus grand compte de l'avis émis par l'ORECE et sont adoptées dans un délai d'un mois à compter dudit avis.
+
+§ 5. La procédure visée au paragraphe 1er ne fait pas obstacle à ce que l'une des parties engage une action devant une juridiction.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 28, 013; En vigueur : 10-01-2022&gt;
+
+## CHAPITRE IV. - Dispositions diverses.
+
+### Art. 5
+
+§ 1er. Le Roi peut, par arrêté royal délibéré en Conseil des ministres, (avant le 31 décembre 2007), abroger, compléter, modifier ou remplacer les dispositions de cette loi, afin de prendre toutes les mesures nécessaires pour exécuter les obligations découlant des directives en vigueur de l'Union européenne. &lt;L 2007-04-25/38, art. 164, 005; En vigueur : 18-05-2007&gt;
+
+L'avis de la section législation du Conseil d'Etat est publié en même temps que le rapport au Roi de l'arrêté royal y relatif.
+
+§ 2. L'arrêté royal pris en exécution du § 1er de cet article est abrogé lorsqu'il n'est pas confirmé par la loi dans les quinze mois qui suivent sa publication au Moniteur belge.
+
+[<sup>1</sup> § 3. Toutes les obligations reprises dans la présente loi et dans toutes les autres lois relatives aux matières visées à l'article 77 de la Constitution et leurs arrêtés d'exécution qui, concernant les envois recommandés, contiennent les mots " à la poste ", " par la poste " ou toute autre référence du même type sont remplies lorsqu'un envoi recommandé tel que défini à l'article 131, 9° de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques est utilisé ou lorsqu'un envoi recommandé électronique est utilisé conformément à la loi du 9 juillet 2001 fixant certaines règles relatives au cadre juridique pour les signatures électroniques, le recommandé électronique et les services de certification.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-12-13/06, art. 5, 007; En vigueur : 31-12-2010&gt;
+
+## CHAPITRE V. - Entrée en vigueur.
+
+### Art. 6
+
+La présente loi entre en vigueur le jour de la publication au Moniteur belge de l'arrêté royal visé à l'article 17, § 2, de la loi du 17 janvier 2003 précitée.
+
+(NOTE : les arrêtés royaux concernés du 07-04-2003, ont été publiés par mention le 23-04-2003 avec entrée en vigueur le 23-04-2003)
+
+---
+
+Promulguons la présente disposition, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 17 janvier 2003.
+
+ALBERT
+
+Par le Roi :
+
+Ministre des Télécommunications et des Entreprises et Participations publiques, chargé des Classes moyennes,
+
+R. DAEMS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

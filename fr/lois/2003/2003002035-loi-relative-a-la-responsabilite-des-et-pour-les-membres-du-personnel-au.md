@@ -1,0 +1,78 @@
+---
+title: "Loi relative à la responsabilité des et pour les membres du personnel au service des personnes publiques"
+identifier: "2003002035"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/10/2003002035/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2003-02-10
+published: 2003-02-27
+entry_into_force: 2003-03-09
+last_amended: 2024-07-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/10/2003002035/justel"
+department: "Personnel et Organisation"
+justel_note: "Consultation des versions antérieures à partir du 27-02-2003 et mise à jour au 01-07-2024"
+retrieved: 2026-10-11
+---
+
+# 10 FEVRIER 2003. - Loi relative à la responsabilité des et pour les membres du personnel au service des personnes publiques
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Les membres du personnel au service d'une personne publique, dont la situation est réglée statutairement, en cas de dommage causé par eux dans l'exercice de leurs fonctions à la personne publique ou à des tiers ne répondent que de leur dol et de leur faute lourde. Ils ne répondent de leur faute légère que si celle-ci présente dans leur chef un caractère habituel plutôt qu'accidentel.
+
+## Art. 3
+
+&lt;Abrogé par L 2024-02-07/18, art. 32, 002; En vigueur : 01-01-2025&gt;
+
+## Art. 4
+
+Les membres du personnel au service d'une personne publique qui font l'objet d'une action en dommages et intérêts devant la juridiction civile ou pénale en raison d'un dommage causé à un tiers dans l'exercice de leurs fonctions en informent la personne publique. Ils peuvent appeler en intervention forcée la personne morale; celle-ci peut également intervenir volontairement.
+
+## Art. 5
+
+L'action en dommages et intérêts ainsi que l'action récursoire exercée par une personne publique contre un membre de son personnel, n'est recevable que si elle est précédée d'une offre de règlement amiable faite au défendeur.
+
+Les personnes publiques peuvent décider que le dommage ne doit être réparé qu'en partie.
+
+## Art. 6
+
+La présente loi d'application aux membres du personnel de l'enseignement libre qui ne sont pas soumis à la loi du 3 juillet 1978 relative aux contrats de travail.
+
+## Art. 7
+
+L'article 23, 3° de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs, est remplacé par la disposition suivante :
+
+" 3° les indemnités et dédommagements, dûs en exécution de l'article 18 de la loi du 3 juillet 1978 relative aux contrats de travail et de l'article 24 de la loi du 1er avril 1936 sur les contrats d'engagement pour le service des bâtiments de navigation intérieure et de l'article 5 de la loi du 10 février 2003 relative à la responsabilité des et pour les membres du personnel au service des personnes publiques. "
+
+## Art. 8
+
+La présente loi ne porte pas préjudice à l'application d'autres lois ou de décrets qui régissent les matières visées par la présente loi, pour certaines catégories de membres du personnel des personnes publiques.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du Sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 10 février 2003.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Fonction publique et de la Modernisation de l'administration,
+
+L. VAN DEN BOSSCHE
+
+Scellé du sceau de l'Etat :
+
+M. VERWILGHEN.

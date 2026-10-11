@@ -1,0 +1,210 @@
+---
+title: "Loi portant création de l'Institut pour l'égalité des femmes et des hommes. -"
+identifier: "2002013438"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/16/2002013438/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2002-12-16
+published: 2002-12-31
+entry_into_force: 2003-03-31
+last_amended: 2023-01-09
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2002/12/16/2002013438/justel"
+department: "Emploi et Travail"
+justel_note: "Consultation des versions antérieures à partir du 31-12-2002 et mise à jour au 09-01-2023"
+retrieved: 2026-10-11
+---
+
+# 16 DECEMBRE 2002. - Loi portant création de l'Institut pour l'égalité des femmes et des hommes. -
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Il est créé auprès du/de la ministre chargé(e) de la politique d'égalité des femmes et des hommes, un " Institut pour l'égalité des femmes et des hommes ", ci-après dénommé l'Institut.
+
+L'Institut est doté de la personnalité juridique.
+
+La loi 16 mars 1954 relative au contrôle de certains organismes d'intérêt public s'applique à l'Institut, sauf dérogations apportées par la présente loi.
+
+A l'article 1er de la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public, sont insérés dans la catégorie B et dans l'ordre alphabétique " Institut pour l'égalité des femmes et des hommes ".
+
+## Art. 3
+
+L'Institut a pour objet de veiller au respect de l'égalité des femmes et des hommes, de combattre toute forme de discrimination et d'inégalité basée sur [<sup>1</sup> un critère protégé par la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes]<sup>1</sup> et d'élaborer des instruments et stratégies fondés sur une approche intégrée de la dimension du genre.
+
+Dans l'accomplissement de sa mission, l'Institut dialogue et collabore avec les associations, institutions, organes et services dont l'action se situe, exclusivement ou en partie, en ce même domaine ou qui sont immédiatement associés à l'accomplissement de ladite mission.
+
+----------
+
+(1)&lt;L 2022-11-15/03, art. 22, 006; En vigueur : 19-01-2023&gt;
+
+## Art. 4
+
+L'Institut est habilité à :
+
+1° faire, développer, soutenir et coordonner les études et recherches en matière de genre et d'égalité des femmes et des hommes et évaluer l'impact en terme de genre des politiques, programmes et mesures mis en oeuvre;
+
+2° adresser des recommandations aux pouvoirs publics en vue de l'amélioration des lois et réglementations en application de l'article 3;
+
+3° adresser des recommandations aux pouvoirs publics et aux personnes et institutions privées sur la base des résultats des études et des recherches visées au 1°;
+
+4° organiser le soutien aux associations actives en matière d'égalité [<sup>1</sup> des genres]<sup>1</sup> ou les projets ayant pour finalité la réalisation de l'égalité [<sup>1</sup> des genres]<sup>1</sup>;
+
+5° aider, dans les limites de son objet, toute personne sollicitant une consultation sur l'étendue de ses droits et obligations. Cette aide permet à son/sa bénéficiaire d'obtenir des informations et des conseils sur les moyens de faire valoir ses droits;
+
+6° [<sup>3</sup> agir en justice dans les litiges en lien avec la mission légale de l'Institut telle que définie à l'article 3. Lorsque la victime est une personne physique ou morale identifiée l'action au nom de cette victime n'est recevable qu'avec son consentement. Une action de l'Institut en son nom propre ne nécessite pas le consentement d'une victime identifiée;]<sup>3</sup>
+
+[<sup>2</sup> 6° /1 [<sup>4</sup> ...]<sup>4</sup>]<sup>2</sup>
+
+7° produire et fournir toute information, documentation, et archives utiles dans le cadre de son objet;
+
+8° recueillir et publier, sans possibilité d'identification des parties en cause, les données statistiques et les décisions juridictionnelles utiles à l'évaluation des lois et réglementations relatives à l'égalité des femmes et des hommes;
+
+9° demander à l'autorité compétente lorsque l'Institut invoque des faits qui permettent de présumer l'existence d'un traitement discriminatoire, tel que visé dans les lois et réglementations relatives à l'égalité des femmes et des hommes, de s'informer et de tenir informé celui-ci des résultats de l'analyse des faits dont il est question.
+
+L'autorité informe l'Institut de manière motivée des suites qui y sont réservées;
+
+10° élaborer une structure de réseau avec les différents acteurs dans le domaine de l'égalité des femmes et des hommes.
+
+Le/la ministre ayant la politique d'égalité des femmes et des hommes dans ses attributions ne peut donner que des injonctions positives à l'Institut dans le cadre des missions visées à l'alinéa précédent.
+
+----------
+
+(1)&lt;L 2015-12-18/17, art. 1, 004; En vigueur : 08-01-2016&gt;
+
+(2)&lt;L 2020-05-04/16, art. 10, 005; En vigueur : 01-07-2020&gt;
+
+(3)&lt;L 2022-11-15/03, art. 23, 006; En vigueur : 19-01-2023&gt;
+
+(4)&lt;L 2022-11-15/03, art. 24, 006; En vigueur : 19-01-2023&gt;
+
+## Art. 5
+
+L'Institut est chargé de la préparation et de l'application des décisions du gouvernement et du suivi des politiques européennes et internationales, en matière d'égalité des femmes et des hommes. Il exerce ces missions sous l'autorité du/de la ministre chargé(e) de la politique d'égalité des femmes et des hommes.
+
+## Art. 6
+
+Les ministres et secrétaires d'Etat compétents mettent à la disposition de l'Institut, à sa demande, les informations nécessaires à l'accomplissement de ses missions. L'Institut peut demander l'avis des Communautés, des Régions, des autorités provinciales et locales ainsi que de tout autre organisme public, si cela s'avère utile à l'exécution de sa mission.
+
+## Art. 7
+
+L'Institut comprend un conseil d'administration et une direction, dont les compétences sont fixées par le Roi, par arrêté délibéré en Conseil des ministres.
+
+Les membres du conseil d'administration sont désignés par le Roi, par arrêté délibéré en Conseil des Ministres.
+
+La direction de l'Institut est nommée par le Roi.
+
+## Art. 8
+
+§ 1er. Le conseil d'administration dispose de tous les pouvoirs nécessaires au fonctionnement de l'Institut et à l'exécution de ses missions. Il a notamment pour tâche de déterminer la politique générale de l'Institut.
+
+§ 2. La direction est chargée d'exécuter les décisions du conseil d'administration ainsi que les décisions visées aux articles 4 et 5.
+
+Elle assure la gestion journalière de l'Institut.
+
+Elle établit chaque année un rapport relatif à la mise en oeuvre de la politique générale de l'Institut.
+
+En cas d'urgence, elle peut prendre toute décision qui s'avère nécessaire dans le cadre des missions et du fonctionnement de l'Institut. Cette décision doit être communiquée par écrit dans les cinq jours au/à la président(e) du conseil d'administration et est inscrite d'office à l'ordre du jour du prochain conseil d'administration.
+
+## Art. 9
+
+Le Roi fixe, par arrêté délibéré en Conseil des Ministres, le statut organique de l'Institut. Ce statut arrête notamment :
+
+1° la structure de l'Institut, de manière à pouvoir organiser de façon optimale les différentes compétences mentionnées aux articles 4 et 5 et permettre la collaboration des Communautés et des Régions;
+
+2° la composition des organes précités à l'article 7;
+
+3° le statut du personnel;
+
+## Art. 10
+
+L'Institut est financé par :
+
+1° une subvention à charge du budget général des dépenses;
+
+2° des subventions octroyées par d'autres pouvoirs, institutions ou organismes publics;
+
+3° des dons et des legs :
+
+4° des revenus occasionnels;
+
+5° toute autre recette provenant de l'exécution de son objet statutaire.
+
+## Art. 11
+
+Le projet de budget est établi par le conseil d'administration.
+
+Dans ce cadre, l'Institut assure à charge de ses moyens budgétaires le soutien des projets ponctuels visant la promotion de l'égalité des femmes et des hommes, développés par des associations, et le financement de conventions visant à garantir l'égalité des femmes et des hommes.
+
+## Art. 12
+
+L'Institut remet annuellement un rapport circonstancié de l'exécution de sa mission au/à la ministre en charge de la politique d'égalité des femmes et des hommes. Celle-ci/celui-ci transmet ce rapport aux chambres législatives fédérales.
+
+## Art. 13
+
+L'article 26, alinéa 2, de la loi du 13 mai 1999 contenant le statut disciplinaire des agents des services de police est complété comme suit :
+
+8° " L'Institut pour l'égalité des femmes et des hommes lorsque les faits laissent supposer un traitement discriminatoire ou qui vont à l'encontre des lois et réglementations sur l'égalité des femmes et des homes. ".
+
+## Art. 14
+
+&lt;L 2003-02-27/50, art. 2, 002; En vigueur : 03-04-2003&gt; A l'article 1er de la loi du 22 juillet 1993 portant certaines mesures en matière de fonction publique, remplacé par la loi-programme (I) du 24 décembre 2002, le 3° est complété comme suit :
+
+" - l'Institut pour l'égalité des femmes et des hommes ".
+
+## Art. 15
+
+Pour l'exécution de ses missions, l'Institut reprend le personnel de la Direction de l'Egalité des chances du Ministère de l'Emploi et du Travail.
+
+Le Roi détermine, après concertation des organisations représentatives du personnel, la date et les modalités du transfert des membres du personnel visé à l'alinéa précédent. Ces membres sont transférés dans leur grade ou un grade équivalent et en leur qualité. Ils conservent au moins la rétribution et l'ancienneté qu'ils avaient ou auraient obtenues s'ils avaient continué à exercer dans leur service d'origine la fonction dont ils étaient titulaires au moment de leur transfert. Le statut juridique de ces membres demeure régi par les dispositions en vigueur en cette matière, aussi longtemps que le Roi n'aura pas fait usage de cette compétence.
+
+## Art. 16
+
+La Régie des Bâtiments met à la disposition de l'Institut des locaux nécessaires à l'accomplissement de son objet.
+
+## Art. 17
+
+La présente loi entre en vigueur à la date fixée par le Roi.
+
+(NOTE : Entrée en vigueur fixée le 31-03-2003 par AR 2003-03-19/31, art. 23)
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du Sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 16 décembre 2002.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de l'Emploi, chargée de la Politique d'Egalité des Femmes et des Hommes,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Intérieur,
+
+A. DUQUESNE
+
+Le Ministre des Télécommunications et des Entreprises et Participations publiques,
+
+R. DAEMS
+
+Le Ministre de la Fonction publique,
+
+L. VAN DEN BOSSCHE
+
+Scellé du sceau de l'Etat,
+
+M. VERWILGHEN.

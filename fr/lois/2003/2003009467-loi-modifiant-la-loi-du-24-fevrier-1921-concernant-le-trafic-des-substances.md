@@ -1,0 +1,86 @@
+---
+title: "Loi modifiant la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, désinfectantes et antiseptiques, et l'article 137 du Code d'instruction criminelle."
+identifier: "2003009467"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/04/2003009467/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2003-04-04
+published: 2003-06-02
+entry_into_force: 2003-06-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/04/2003009467/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 4 AVRIL 2003. - Loi modifiant la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, désinfectantes et antiseptiques, et l'article 137 du Code d'instruction criminelle.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE I. - Disposition générale.
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## CHAPITRE II. - Dispositions modificatives.
+
+### Art. 2
+
+Dans la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, désinfectantes ou antiseptiques, il est inséré un article 2ter, rédigé comme suit :
+
+" Art. 2ter. Le Roi peut, par arrêté délibéré en Conseil des Ministres, en fonction des distinctions et des catégories qu'il établit conformément à l'article 2bis, § 1er, alinéa premier, définir les infractions qui, en dérogation des peines prévues à l'article 2bis, seront punies :
+
+1° d'une amende de 15 à 25 EUR pour la première infraction;
+
+2° d'une amende de 26 à 50 EUR en cas de récidive dans l'année depuis la première condamnation;
+
+3° d'un emprisonnement de huit jours à un mois et d'une amende de 50 à 100 EUR en cas de nouvelle récidive dans l'année depuis la deuxième condamnation;
+
+4° d'un emprisonnement de trois mois à un an, et d'une amende de 1.000 à 100.000 EUR, ou de l'une de ces peines seulement.
+
+Outre les infractions punies des peines visées à l'alinéa premier, 4°, et par dérogation à l'article 137 du Code d'instruction criminelle, les tribunaux correctionnels connaissent des infractions visées à l'alinéa premier, 1° à 3°. "
+
+### Art. 3
+
+L'article 137 du Code d'instruction criminelle, modifié par la loi du 10 octobre 1967, est complété par l'alinéa suivant :
+
+" Par dérogation à l'alinéa 1er, les tribunaux correctionnels connaissent des contraventions visées à l'article 2ter de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes. "
+
+## CHAPITRE III. - Disposition finale.
+
+### Art. 4
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 4 avril 2003.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Le Ministre de la Santé publique,
+
+J. TAVERNIER
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

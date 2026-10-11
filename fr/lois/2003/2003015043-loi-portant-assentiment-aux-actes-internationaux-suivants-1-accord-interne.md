@@ -1,0 +1,84 @@
+---
+title: "Loi portant assentiment aux actes internationaux suivants : 1° Accord interne entre les représentants des gouvernements des Etats membres, réunis au sein du Conseil, relatif au financement et à la gestion des aides de la Communauté dans le cadre du protocole financier de l'accord de partenariat entre les Etats d'Afrique, des Caraïbes et du Pacifique et la Communauté européenne et ses Etats membres, signé à Cotonou (Bénin) le 23 juin 2000, et à l'affectation des aides financières destinées aux pays et territoires d'outre-mer auxquels s'appliquent les dispositions de la quatrième partie du traité CE, et Annexe; 2° Accord interne entre les représentants des gouvernements des Etats membres, réunis au sein du Conseil, relatif aux mesures à prendre et aux procédures à suivre pour la mise en oeuvre de l'accord de partenariat ACP-CE, et Annexe, faits à Bruxelles le 18 septembre 2000."
+identifier: "2003015043"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/21/2003015043/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2003-02-21
+published: 2003-03-28
+entry_into_force: 2003-04-07
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/21/2003015043/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+retrieved: 2026-10-11
+---
+
+# 21 FEVRIER 2003. - Loi portant assentiment aux actes internationaux suivants : 1° Accord interne entre les représentants des gouvernements des Etats membres, réunis au sein du Conseil, relatif au financement et à la gestion des aides de la Communauté dans le cadre du protocole financier de l'accord de partenariat entre les Etats d'Afrique, des Caraïbes et du Pacifique et la Communauté européenne et ses Etats membres, signé à Cotonou (Bénin) le 23 juin 2000, et à l'affectation des aides financières destinées aux pays et territoires d'outre-mer auxquels s'appliquent les dispositions de la quatrième partie du traité CE, et Annexe; 2° Accord interne entre les représentants des gouvernements des Etats membres, réunis au sein du Conseil, relatif aux mesures à prendre et aux procédures à suivre pour la mise en oeuvre de l'accord de partenariat ACP-CE, et Annexe, faits à Bruxelles le 18 septembre 2000.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+L'Accord interne entre les représentants des gouvernements des Etats membres, réunis au sein du Conseil, relatif au financement et à la gestion des aides de la Communauté dans le cadre du protocole financier de l'accord de partenariat entre les états d'Afrique, des Caraïbes et du Pacifique et la Communauté européenne es ses états membres, signé à Cotonou (Bénin) le 23 juin 2000, et à l'affectation des aides financières destinées aux pays et territoires d'outre-mer auxquels s'appliquent les dispositions de la quatrième partie du traité CE, et Annexe, faits à Bruxelles, le 18 septembre 2000, sortiront leur plein et entier effet.
+
+## Art. 3
+
+L'Accord interne entre les représentants des gouvernements des Etats membres, réunis au sein du Conseil, relatif aux mesures à prendre et aux procédures à suivre pour la mise en oeuvre de l'accord de partenariat ACP-CE, et Annexe, faits à Bruxelles le 18 septembre 2000, sortiront leur plein et entier effet.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 21 février 2003.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires étrangères,
+
+L. MICHEL
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Le Ministre de l'Economie,
+
+Ch. PIQUE
+
+La Ministre, adjointe au Ministre des Affaires étrangères,
+
+Mme A. NEYTS-UYTTEBROECK
+
+Le Secrétaire d'Etat à la Coopération au Développement, adjoint au Ministre des Affaires étrangères,
+
+E. BOUTMANS
+
+Vu et scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN
+
+## ANNEXES.
+
+## Art. N1
+
+Annexe 1. - Accord interne entre les représentants des gouvernements des Etats membres, réunis au sein du Conseil, relatif au financement et à la gestion des aides de la Communauté dans le cadre du protocole financier de l'accord de partenariat entre les Etats d'Afrique, des Caraïbes et du Pacifique et la Communauté européenne et ses Etats membres, signé à Cotonou (Bénin) le 23 juin 2000, et à l'affectation des aides financières destinées aux pays et territoires d'outre-mer auxquels s'appliquent les dispositions de la quatrième partie du traité CE.
+
+(Pour l'Accord, voir %%2000-09-18/34%%).
+
+## Art. N2
+
+Annexe 2. - Accord interne entre les représentants des gouvernements des Etats membres, réunis au sein du Conseil, relatif aux mesures à prendre et aux procédures à suivre pour la mise en oeuvre de l'accord de partenariat ACP-CE.
+
+(Pour l'Accord, voir %%2000-09-18/35%%).

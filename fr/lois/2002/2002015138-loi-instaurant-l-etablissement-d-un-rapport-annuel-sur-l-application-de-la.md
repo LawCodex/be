@@ -1,0 +1,64 @@
+---
+title: "Loi instaurant l'établissement d'un rapport annuel sur l'application de la Convention relative aux droits de l'enfant."
+identifier: "2002015138"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2002/09/04/2002015138/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2002-09-04
+published: 2002-10-17
+entry_into_force: 2002-10-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2002/09/04/2002015138/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+retrieved: 2026-10-11
+---
+
+# 4 SEPTEMBRE 2002. - Loi instaurant l'établissement d'un rapport annuel sur l'application de la Convention relative aux droits de l'enfant.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Le Gouvernement fait rapport chaque année, à l'initiative du Ministre de la Justice, aux Chambres fédérales sur la politique menée en vue de l'exécution des dispositions de la Convention internationale relative aux droits de l'enfant.
+
+Ce rapport est présenté sous la forme d'une note de suivi contenant un plan d'action spécifique et une évaluation des mesures qui ont été prises. Il comporte, outre un rapport global du gouvernement sur la politique des droits de l'enfant, des sous-rapports, établis par département, sur les mesures qui ont été prises et sur les possibilités d'action.
+
+Ledit rapport est déposé chaque année avant le 20 novembre, date de la journée internationale des droits de l'enfant.
+
+## Art. 3
+
+Le premier rapport est déposé avant le 20 novembre 2002.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 4 septembre 2002.
+
+ALBERT
+
+Par le Roi :
+
+Pour le Ministre des Affaires étrangères, absent,
+
+le Ministre des Finances,
+
+D. REYNDERS
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

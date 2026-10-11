@@ -1,0 +1,74 @@
+---
+title: "Loi portant confirmation de divers arrêtés royaux pris en application des articles 38 et 39 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions."
+identifier: "2003022290"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/24/2003022290/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2003-02-24
+published: 2003-04-02
+entry_into_force: 2003-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2003/02/24/2003022290/justel"
+department: "Sécurité sociale - Emploi, Travail et Concertation sociale"
+retrieved: 2026-10-11
+---
+
+# 24 FEVRIER 2003. - Loi portant confirmation de divers arrêtés royaux pris en application des articles 38 et 39 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Sont confirmés avec effet à la date de leur entrée en vigueur :
+
+1° l'arrêté royal du 10 juin 2001 modifiant l'article 49 des lois relatives à la réparation des dommages résultant des maladies professionnelles, coordonnées le 3 juin 1970;
+
+2° l'arrêté royal du 10 juin 2001 portant définition uniforme de notions relatives au temps de travail à l'usage de la sécurité sociale, en application de l'article 39 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions, modifié par l'arrêté royal du 5 novembre 2002 modifiant certaines dispositions, en application de l'article 39 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions;
+
+3° l'arrêté royal du 10 juin 2001 relatif à l'harmonisation de la sécurité sociale à l'arrêté royal du 10 juin 2001 portant définition uniforme de notions relatives au temps de travail à l'usage de la sécurité sociale, en application de l'article 39 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions, modifié par l'arrêté royal du 5 novembre 2002 modifiant certaines dispositions, en application de l'article 39 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions;
+
+4° l'arrêté royal du 10 juin 2001 établissant la notion uniforme de " rémunération journalière moyenne " en application de l'article 39 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions et harmonisant certaines dispositions légales, modifié par l'arrêté royal du 5 novembre 2002 modifiant certaines dispositions, en application de l'article 39 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions;
+
+5° l'arrêté royal du 5 novembre 2002 modifiant certaines dispositions, en application de l'article 39 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions;
+
+6° l'arrêté royal du 5 novembre 2002 instaurant une déclaration immédiate de l'emploi, en application de l'article 38 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions;
+
+7° l'arrêté royal du 3 décembre 2002 harmonisant certaines dispositions en matière de réduction de cotisations à l'arrêté royal du 10 juin 2001 portant définition uniforme de notions relatives au temps de travail à l'usage de la sécurité sociale, en application de l'article 39 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions.
+
+## Art. 3
+
+La présente loi entre en vigueur le 1er janvier 2003.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 24 février 2003.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de l'Emploi,
+
+Mme L. ONKELINX
+
+Le Ministre des Affaires sociales et des Pensions,
+
+F. VANDENBROUCKE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

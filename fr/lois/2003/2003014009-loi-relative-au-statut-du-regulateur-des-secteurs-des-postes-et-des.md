@@ -1,0 +1,1172 @@
+---
+title: "Loi relative au statut du régulateur des secteurs des postes et des télécommunications belges."
+identifier: "2003014009"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/17/2003014009/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2003-01-17
+published: 2003-01-24
+entry_into_force: 2003-04-23
+last_amended: 2026-03-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/17/2003014009/justel"
+department: "Mobilité et Transports"
+justel_note: "Consultation des versions antérieures à partir du 24-01-2003 et mise à jour au 27-03-2026"
+retrieved: 2026-10-11
+---
+
+# 17 JANVIER 2003. - Loi relative au statut du régulateur des secteurs des postes et des télécommunications belges.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons qui suit :
+
+## CHAPITRE I. - Généralités.
+
+##### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+##### Art. 1er/1
+
+[<sup>1</sup> La présente loi transpose partiellement les directives suivantes:
+
+1° [<sup>2</sup> la directive (UE) 2022/2555 du Parlement européen et du Conseil du 14 décembre 2022 concernant des mesures destinées à assurer un niveau élevé commun de cybersécurité dans l'ensemble de l'Union, modifiant le règlement (UE) n° 910/2014 et la directive (UE) 2018/1972, et abrogeant la directive (UE) 2016/1148;]<sup>2</sup>
+
+2° la directive (UE) 2018/1972 du Parlement Européen et du Conseil du 11 décembre 2018 établissant le code des communications électroniques européen.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 10, 024; En vigueur : 10-01-2022&gt;
+
+(2)&lt;L 2024-04-26/19, art. 82, 035; En vigueur : 18-10-2024&gt;
+
+##### Art. 2
+
+Dans la présente loi, il faut entendre par :
+
+1° loi du 21 mars 1991 : loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques;
+
+2° (abrogé) &lt;L 2007-04-25/38, art. 161, 009; En vigueur : 18-05-2007&gt;
+
+3° Institut : l'Institut belge des services postaux et des télécommunications, en abrégé IBPT;
+
+4° Ministre : le ministre ou secrétaire d'Etat qui a les services postaux ou les télécommunications dans ses attributions;
+
+[<sup>2</sup> 5° demande de données d'identification: demande de l'Institut ou de ses officiers de police judiciaire adressée à un opérateur ou à une autre personne morale de communiquer des données autres que celles conservées en vertu des articles 126/1 et 126/3 de la loi du 13 juin 2005 relative aux communications électroniques, et visant à identifier:
+
+\- l'abonné ou l'utilisateur habituel du service de communications électroniques, son équipement terminal ou le dispositif matériel ou logiciel intégré dans cet équipement terminal ou installé auprès de l'abonné en vue de la fourniture du service de communications électroniques, ou;
+
+\- les services de communications électroniques auxquels une personne déterminée est abonnée ou qui sont habituellement utilisés par une personne déterminée;
+
+6° demande de métadonnées: demande de l'Institut ou de ses officiers de police judiciaire adressée à un opérateur de communiquer des métadonnées de communications électroniques autres que celles conservées en vertu des articles 126/1 et 126/3 de la loi du 13 juin 2005 relative aux communications électroniques, autre qu'une demande de données d'identification et visant notamment à:
+
+a) déterminer les métadonnées liées à une communication électronique;
+
+b) localiser l'équipement terminal;
+
+c) déterminer si l'équipement terminal est allumé ou éteint;]<sup>2</sup>
+
+[<sup>3</sup> 7° règlement sur les services numériques: le règlement (UE) 2022/2065 du Parlement européen et du Conseil du 19 octobre 2022 relatif à un marché unique des services numériques et modifiant la directive 2000/31/CE;
+
+8° service intermédiaire: un des services visés à l'article 3, points g), i) et j), du règlement sur les services numériques.]<sup>3</sup>
+
+[<sup>1</sup> Les termes utilisés dans la présente loi ont la même signification que celle qui en est donnée dans la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques, dans la loi du 13 juin 2005 relative aux communications électroniques, dans la loi du 26 janvier 2018 relative aux services postaux, ainsi que dans leurs arrêtés d'exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-01-26/08, art. 30, 022; En vigueur : 10-02-2018&gt;
+
+(2)&lt;L 2022-07-20/14, art. 19, 028; En vigueur : 18-08-2022&gt;
+
+(3)&lt;L 2024-04-21/06, art. 6, 031; En vigueur : 25-05-2024&gt;
+
+## CHAPITRE II. - Les Comités consultatifs.
+
+### Section I. - Comité consultatif pour les télécommunications.
+
+##### Art. 3
+
+&lt;Abrogé par AR 2024-05-12/17, art. 9, 034; En vigueur : 09-06-2024&gt;
+
+##### Art. 4
+
+&lt;Abrogé par AR 2024-05-12/17, art. 9, 034; En vigueur : 09-06-2024&gt;
+
+##### Art. 5
+
+&lt;Abrogé par AR 2024-05-12/17, art. 9, 034; En vigueur : 09-06-2024&gt;
+
+##### Art. 6
+
+&lt;Abrogé par AR 2024-05-12/17, art. 9, 034; En vigueur : 09-06-2024&gt;
+
+##### Art. 7
+
+&lt;Abrogé par AR 2024-05-12/17, art. 9, 034; En vigueur : 09-06-2024&gt;
+
+### Section 2. - Comité consultatif pour les services postaux.
+
+##### Art. 8
+
+&lt;Abrogé par AR 2024-05-12/16, art. 9, 033; En vigueur : 09-06-2024&gt;
+
+##### Art. 9
+
+&lt;Abrogé par AR 2024-05-12/16, art. 9, 033; En vigueur : 09-06-2024&gt;
+
+##### Art. 10
+
+&lt;Abrogé par AR 2024-05-12/16, art. 9, 033; En vigueur : 09-06-2024&gt;
+
+##### Art. 11
+
+&lt;Abrogé par AR 2024-05-12/16, art. 9, 033; En vigueur : 09-06-2024&gt;
+
+##### Art. 12
+
+&lt;Abrogé par AR 2024-05-12/16, art. 9, 033; En vigueur : 09-06-2024&gt;
+
+## CHAPITRE III. - L'Institut.
+
+### Section I. - Généralités.
+
+##### Art. 13
+
+[<sup>1</sup> L'Institut est un organisme d'intérêt public doté de la personnalité juridique.]<sup>1</sup>
+
+L'Institut a son siège dans la Région de Bruxelles-Capitale.
+
+L'Institut ne peut exercer aucune activité commerciale.
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 11, 024; En vigueur : 10-01-2022&gt;
+
+### Section 2. - Compétences et Missions.
+
+##### Art. 14
+
+&lt;L 2005-07-20/41, art. 73, 005 ; En vigueur : 31-12-2005&gt; § 1er. Sans préjudice de ses compétences légales, les missions de l'Institut en ce qui concerne les réseaux de communications électroniques et les services de communications électroniques, équipement terminal équipement hertzien [<sup>11</sup> , en ce qui concerne le secteur des infrastructures numériques au sens de la [<sup>22</sup> loi du 26 avril 2024 établissant un cadre pour la cybersécurité des réseaux et des systèmes d'information d'intérêt général pour la sécurité publique]<sup>22</sup>, [<sup>23</sup> relevant du secteur des infrastructures numériques, à l'exception des fournisseurs de services de confiance, au sens de la loi du 19 décembre 2025 relative à la résilience des entités critiques]<sup>23</sup>,]<sup>11</sup> [<sup>19</sup> en ce qui concerne la lutte contre la diffusion des contenus à caractère terroriste en ligne au sens du règlement (UE) 2021/784 du Parlement européen et du Conseil du 29 avril 2021 relatif à la lutte contre la diffusion des contenus à caractère terroriste en ligne,]<sup>19</sup> [<sup>21</sup> en ce qui concerne les services intermédiaires,]<sup>21</sup> [<sup>15</sup> en ce qui concerne l'article XI.216/2, § 2, du Code de droit économique,]<sup>15</sup> et en ce qui concerne les services postaux et les réseaux postaux publics tels que définis à [<sup>10</sup> l'article 2 de la loi du 26 janvier 2018 relative aux services postaux]<sup>10</sup>, sont les suivantes :
+
+1° la formulation d'avis d'initiative, dans les cas prévus par les lois et arrêtés ou à la demande du ministre [<sup>21</sup> , du ministre qui a l'Economie dans ses attributions et du membre du gouvernement qui a l'Agenda numérique dans ses attributions, dans la limite de leurs attributions respectives,]<sup>21</sup> [<sup>4</sup> ou de la Chambre des représentants]<sup>4</sup>;
+
+2° la prise de décisions administratives;
+
+3° [<sup>11</sup> le contrôle du respect des normes suivantes et de leurs arrêtés d'exécution :
+
+a) la loi du 13 juin 2005 relative aux communications électroniques ;
+
+b) le Titre Ier, chapitre X et le Titre III de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques ;
+
+c) la loi du 26 janvier 2018 relative aux services postaux [<sup>20</sup> à l'exception des articles 3, § 2, alinéa 5, 5, § 1er, 5/2, 5/3, 5/4, 5/5 et 10/1]<sup>20</sup>;
+
+d) les articles 14, § 2, 2°, [<sup>18</sup> 15]<sup>18</sup> [<sup>21</sup> , 15/1]<sup>21</sup> et 21, §§ 5 à 7, de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et télécommunications belges ;
+
+e) les articles 4 et 4/1 de la loi du 17 janvier 2003 concernant les recours et le traitement des litiges à l'occasion de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et des télécommunications belges ;
+
+f) la loi du 5 mai 2017 relative aux services de médias audiovisuels en région bilingue de Bruxelles-Capitale ;
+
+g) [<sup>23</sup> la loi du 19 décembre 2025 relative à la résilience des entités critiques, en ce qui concerne le secteur de l'infrastructure numérique, à l'exception des fournisseurs de services de confiance;]<sup>23</sup>
+
+h) [<sup>22</sup> la loi du 26 avril 2024 établissant un cadre pour la cybersécurité des réseaux et des systèmes d'information d'intérêt général pour la sécurité publique, pour ce qui concerne les tâches dévolues à l'autorité sectorielle et au service d'inspection sectoriel pour le secteur d'infrastructure numérique, à l'exception des prestataires de services de confiance au sens de l'article 8, 24°, de la même loi;]<sup>22</sup>
+
+i) le Règlement (UE) 611/2013 de la Commission du 24 juin 2013 concernant les mesures relatives à la notification des violations de données à caractère personnel en vertu de la Directive 2002/58/CE du Parlement européen et du Conseil sur la vie privée et les communications électroniques;
+
+[<sup>12</sup> j) tout acte juridique contraignant en droit de l'Union européenne, qui attribue des missions à l'autorité réglementaire nationale dans le secteur des postes ou des communications électroniques;]<sup>12</sup>
+
+[<sup>13</sup> k) toute décision contraignante adoptée par :
+
+i) l'Institut ;
+
+ii) les ministres sur base de l'article 105, § 6, alinéa 1er, de la loi du 13 juin 2005 relative aux communications électroniques ;
+
+iii) la Commission européenne dans le secteur des communications électroniques ou dans le secteur postal;]<sup>13</sup>
+
+[<sup>19</sup> l) le règlement (UE) 2021/784 du Parlement européen et du Conseil du 29 avril 2021 relatif à la lutte contre la diffusion des contenus à caractère antiterroriste en ligne, sans préjudice de tâches confiées à d'autres autorités compétentes en vertu de l'article 12, paragraphe 1er, a) et b), dudit règlement;]<sup>19</sup>
+
+[<sup>21</sup> m) le règlement sur les services numériques.]<sup>21</sup>
+
+Pour l'application de la loi du 7 avril 2019 établissant un cadre pour la sécurité des réseaux et des systèmes d'information d'intérêt général pour la sécurité publique, l'Institut est désigné comme autorité sectorielle et service d'inspection pour le secteur des infrastructures numériques. Le Roi peut fixer les modalités pratiques des inspections pour ce secteur, après avis de l'Institut.]<sup>11</sup>
+
+4° en cas de litige entre des fournisseurs de réseaux, de services ou d'équipements [<sup>12</sup> de communications électroniques]<sup>12</sup> ou en cas de litige entre des [<sup>10</sup> prestataires de services postaux]<sup>10</sup>, (ou en cas de litige entre les fournisseurs de services ou de réseaux de communications électroniques ou [<sup>7</sup> de fournisseurs de services de médias audiovisuels visés par la loi du 5 mai 2017 relative aux services de médias audiovisuels en région bilingue de Bruxelles-Capitale]<sup>7</sup>,) la formulation de propositions tendant à concilier les parties dans le délai d'un mois. Le Roi fixe, sur avis de l'Institut, les modalités de cette procédure; &lt;L 2007-03-16/41, art. 59, 2°, 008; En vigueur : 15-04-2007&gt;
+
+[<sup>5</sup> 4° /1 en cas de litige entre fournisseurs de réseaux, de services ou d'équipements [<sup>12</sup> de communications électroniques]<sup>12</sup> ou en cas de litige entre des [<sup>10</sup> prestataires de services postaux]<sup>10</sup>, ou en cas de litige entre les fournisseurs de services ou de réseaux de communications électroniques ou [<sup>7</sup> de fournisseurs de services de médias audiovisuels visés par la loi du 5 mai 2017 relative aux services de médias audiovisuels en région bilingue de Bruxelles-Capitale]<sup>7</sup> [<sup>15</sup> ou en l'absence d'accord au sens de l'article XI.216/2, § 2, du Code de droit économique,]<sup>15</sup>, la prise de décision administrative [<sup>9</sup> sur base de l'article 4 ou 4/1 de la loi du 17 janvier 2003 concernant les recours et le traitement des litiges à l'occasion de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et des télécommunications belges]<sup>9</sup>;]<sup>5</sup>
+
+5° poser tous les actes utiles qui ont pour objet la préparation de l'application des directives européennes entrées en vigueur dans le secteur des postes et des télécommunications.
+
+[<sup>2</sup> 6° L'Institut est chargé de contrôler l'exécution de toutes les missions de service public qui sont attribuées par l'Etat dans le secteur postal et dans le secteur des communications électroniques [<sup>6</sup> , sous réserve des missions de service publics attribué dans le cadre d'article 141, § 1erbis, de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques]<sup>6</sup>. L'Institut informe tant le Ministre en charge du Secteur postal que le Ministre en charge des Entreprises publiques de l'exécution du contrat de gestion;]<sup>2</sup>
+
+[<sup>16</sup> 7° l'exercice des missions de contrôle et de sanctions qui lui sont confiées par l'arrêté royal visant à exécuter l'article 5, § 2, de la loi du 20 juillet 2022 relative à la certification de cybersécurité des technologies de l'information et des communications et portant désignation d'une autorité nationale de certification de cybersécurité.]<sup>16</sup>
+
+[<sup>22</sup> Pour l'application de la loi du 26 avril 2024 établissant un cadre pour la cybersécurité des réseaux et des systèmes d'information d'intérêt général pour la sécurité publique, l'Institut est désigné comme autorité sectorielle au sens de l'article 8, 54°, de cette même loi et service d'inspection sectoriel au sens de l'article 44, § 1er, alinéa 2, de cette même loi pour le secteur d'infrastructure numérique, à l'exception des prestataires de services de confiance au sens de l'article 8, 24°, de cette même loi, et pour le secteur des services postaux et d'expédition.]<sup>22</sup>
+
+[<sup>21</sup> § 1er/1. En ce qui concerne les compétences fédérales, l'Institut est une autorité compétente au sens de l'article 49 du règlement sur les services numériques.]<sup>21</sup>
+
+[<sup>24</sup> § 1er/2. En ce qui concerne les compétences fédérales relative aux télécommunications et à l'accès aux infrastructures physiques intérieures, l'Institut est l'organisme national compétent au sens de l'article 14 du règlement (UE) 2024/1309 du Parlement européen et du Conseil du 29 avril 2024 relatif à des mesures visant à réduire le coût du déploiement de réseaux gigabit de communications électroniques, modifiant le règlement (UE) 2015/2120 et abrogeant la directive 2014/61/UE (règlement sur les infrastructures gigabit).]<sup>24</sup>
+
+§ 2. Dans le cadre de ses compétences, l'Institut :
+
+1° peut organiser de manière non discriminatoire toute forme d'enquêtes et de consultations publiques [<sup>4</sup> ; il doit organiser de telles consultations publiques afin qu'il tienne compte des points de vue des utilisateurs finals, des consommateurs (y compris notamment, des consommateurs handicapés), des fabricants et des entreprises qui fournissent des réseaux et/ou des services de communications électroniques sur toute question relative à tous les droits des utilisateurs finals et des consommateurs en ce qui concerne les services de communications électroniques accessibles au public, en particulier lorsqu'ils ont une incidence importante sur le marché; ces consultations garantissent que, lorsque l'Institut statue sur des questions relatives aux droits des utilisateurs finals et des consommateurs en ce qui concerne les services de communications électroniques accessibles au public, les intérêts des consommateurs en matière de communications électroniques sont dûment pris en compte]<sup>4</sup>;
+
+2° peut exiger, par demande motivée, de toute personne concernée toute information utile. L'Institut fixe le délai de communication des informations demandées;
+
+3° coopère avec et communique de l'information à :
+
+a) la Commission européenne [<sup>4</sup> , l'ENISA, l'Office [<sup>21</sup> , l'ORECE et au Comité européen des services numériques]<sup>21</sup>]<sup>4</sup>;
+
+b) les autorités de régulation étrangères en matière de services postaux et de télécommunications;
+
+c) les autorités de régulation des autres secteurs économiques;
+
+d) les services publics fédéraux en charge de la protection des consommateurs;
+
+e) les autorités belges en charge de la concurrence;
+
+Après consultation de ces autorités et de l'Institut et sur proposition conjointe du ministre de l'Economie et du ministre, le Roi peut fixer les modalités de la coopération, de la consultation et de l'échange d'informations entre ces instances et l'Institut;
+
+f) les autorités régulatrices des Communautés et des Régions, selon les modalités convenues dans les accords de coopération avec ces niveaux de pouvoir;
+
+[<sup>4</sup> g) les services publics qui ont une compétence en matière de sécurité publique, [<sup>17</sup> en ce compris la sécurité des réseaux et des systèmes d'information,]<sup>17</sup> ou de sécurité et protection civile, ou de défense civile, ou de planification de crise, ou de sécurité ou de protection du potentiel économique et scientifique du pays;]<sup>4</sup>
+
+[<sup>5</sup> h) [<sup>12</sup> l'Autorité de protection des données;]<sup>12</sup>
+
+i) [<sup>21</sup> le Service public fédéral Economie, P.M.E., Classes moyennes et Energie;
+
+Après consultation de l'Institut et sur proposition conjointe du ministre qui a l'Economie dans ses attributions et du ministre, le Roi peut fixer les modalités de la coopération, de la consultation et de l'échange d'informations entre le Service public fédéral visé à l'alinéa 1er et l'Institut;]<sup>21</sup>]<sup>5</sup>
+
+[<sup>14</sup> j) les ministres visés à l'article 105, § 1er, alinéa 3, 1°, de la loi du 13 juin 2005 relative aux communications électroniques et leur cabinet, pour la mise en oeuvre de cet article ;]<sup>14</sup>
+
+[<sup>19</sup> k) le Parquet fédéral et les autorités compétentes des autres Etats membres visées au règlement (UE) 2021/784 du Parlement européen et du Conseil du 29 avril 2021 relatif à la lutte contre la diffusion des contenus à caractère antiterroriste en ligne;]<sup>19</sup>
+
+[<sup>20</sup> k) [<sup>21</sup> ...]<sup>21</sup>
+
+l) [<sup>21</sup> es inspecteurs sociaux de la Direction générale Contrôle des lois sociales du Service public fédéral Emploi, Travail et Concertation sociale, les inspecteurs sociaux de l'Inspection de l'Office national de Sécurité sociale, les inspecteurs sociaux de l'Inspection de l'Office national de l'Emploi et les inspecteurs sociaux de l'Institut national d'assurances sociales pour travailleurs indépendants;]<sup>21</sup>]<sup>20</sup>
+
+[<sup>21</sup> m) les coordinateurs pour les services numériques et les autres autorités compétentes au sens de l'article 49 du règlement sur les services numériques;]<sup>21</sup>
+
+4° apporte sa collaboration aux activités de la Commission mixte des télécommunications, créée par l'arrêté royal du 10 décembre 1957, modifié par l'arrêté royal du 24 septembre 1993;
+
+5° l'Institut peut uniquement prendre des décisions relatives aux réseaux de communications électroniques pour lesquels les Communautés sont également compétentes, après l'entrée en vigueur d'un accord de coopération avec les Communautés portant sur l'exercice des compétences en matière de réseaux de communications électroniques.
+
+[<sup>1</sup> 6° peut procéder, en respectant les motifs de l'annulation et sans modifier l'étendue de son champ d'application, à la réfection d'une décision annulée par une autorité juridictionnelle lorsque, du fait de cette annulation, un ou plusieurs des objectifs visés [<sup>12</sup> à l'article 6 de la loi du 13 juin 2005 relative aux communications électroniques ou à l'article 35 de la loi du 5 mai 2017 relative aux services de médias audiovisuels en région bilingue de Bruxelles-Capitale]<sup>12</sup> ne sont plus réalisés. [<sup>3</sup> L'Institut peut procéder à une même réfection lorsque la décision annulée concerne le secteur postal et qu'un ou plusieurs des objectifs suivants ne sont plus réalisés :
+
+\- veiller à la qualité et à la pérennité du service universel;
+
+\- veiller aux intérêts des utilisateurs des services postaux;
+
+\- contribuer au développement d'un marché intérieur des services postaux;
+
+\- promouvoir la concurrence dans le secteur postal;]<sup>3</sup>]<sup>1</sup>
+
+[<sup>12</sup> 7° [<sup>23</sup> ...]<sup>23</sup>]<sup>12</sup>
+
+§ 3. Dans le cadre de la coopération avec les autorités énumérées au point 3 du paragraphe précédent, les membres du Conseil et les membres du personnel de l'Institut peuvent communiquer à ces autorités des informations confidentielles dont ils ont connaissance dans l'exercice de leur fonction [<sup>4</sup> , dans la mesure où cette communication est nécessaire pour l'accomplissement des missions de ces autorités.]<sup>4</sup>
+
+[<sup>21</sup> § 4. Sur proposition de l'Institut ou sur proposition conjointe du ministre qui a l'Economie dans ses attributions, du membre du gouvernement qui a l'Agenda numérique dans ses attributions et du ministre, après avis de l'Institut, le Roi peut fixer les modalités de la coopération, de la consultation et de l'échange d'informations entre l'Institut et les autres autorités sectorielles non encore visées au paragraphe 2, 3°, lorsque cela s'avère utile pour une application efficace du règlement sur les services numériques.]<sup>21</sup>
+
+----------
+
+(1)&lt;L 2009-05-18/04, art. 2, 010; En vigueur : 14-06-2009&gt;
+
+(2)&lt;L 2010-12-13/07, art. 35, 013; En vigueur : 31-12-2010&gt;
+
+(3)&lt;L 2010-12-13/07, art. 36, 013; En vigueur : 31-12-2010&gt;
+
+(4)&lt;L 2012-07-10/04, art. 3, 015; En vigueur : 04-08-2012&gt;
+
+(5)&lt;L 2014-03-27/35, art. 2, 016; En vigueur : 08-05-2014&gt;
+
+(6)&lt;L 2017-04-18/03, art. 42, 019; En vigueur : 04-05-2017&gt;
+
+(7)&lt;L 2017-05-05/03, art. 66, 020; En vigueur : 02-06-2017&gt;
+
+(8)&lt;L 2017-07-31/30, art. 2,1°, 021; En vigueur : 22-09-2017&gt;
+
+(9)&lt;L 2017-07-31/30, art. 2,2°, 021; En vigueur : 18-02-2018&gt;
+
+(10)&lt;L 2018-01-26/08, art. 31, 022; En vigueur : 10-02-2018&gt;
+
+(11)&lt;L 2019-04-07/15, art. 88, 023; En vigueur : 03-05-2019&gt;
+
+(12)&lt;L 2021-12-21/05, art. 12, 024; En vigueur : 10-01-2022&gt;
+
+(13)&lt;L 2022-02-17/16, art. 2, 025; En vigueur : 21-03-2022&gt;
+
+(14)&lt;L 2022-02-17/16, art. 3, 025; En vigueur : 21-03-2022&gt;
+
+(15)&lt;L 2022-06-19/03, art. 96, 026; En vigueur : 01-08-2022&gt;
+
+(16)&lt;L 2022-07-20/11, art. 39, 027; En vigueur : 05-08-2022&gt;
+
+(17)&lt;L 2022-07-20/11, art. 40, 027; En vigueur : 05-08-2022&gt;
+
+(18)&lt;L 2022-07-20/14, art. 20, 028; En vigueur : 18-08-2022&gt;
+
+(19)&lt;L 2023-11-05/07, art. 89, 029; En vigueur : 21-12-2023&gt;
+
+(20)&lt;L 2023-12-17/20, art. 18, 030; En vigueur : 07-01-2024&gt;
+
+(21)&lt;L 2024-04-21/06, art. 7, 031; En vigueur : 25-05-2024&gt;
+
+(22)&lt;L 2024-04-26/19, art. 83, 035; En vigueur : 18-10-2024&gt;
+
+(23)&lt;L 2025-12-19/94, art. 56, 036; En vigueur : 19-01-2026&gt;
+
+(24)&lt;L 2026-03-11/08, art. 15, 037; En vigueur : 06-04-2026&gt;
+
+##### Art. 15
+
+[<sup>1</sup> § 1er. Lorsque c'est nécessaire pour permettre à l'Institut d'accomplir l'une de ses missions d'application et de contrôle des dispositions énumérées à l'article 14, § 1er, 3°, a) et g) à i), l'Institut peut exiger, par demande écrite et motivée, d'un opérateur de répondre à une demande de données d'identification. L'Institut fixe le délai de communication des données demandées.
+
+§ 2. Lorsque c'est nécessaire pour permettre à l'Institut d'accomplir l'une de ses missions d'application et de contrôle des dispositions énumérées à l'article 14, § 1er, 3°, a) et g) à i), l'Institut peut exiger, par demande écrite et motivée, d'un opérateur de répondre à une demande de métadonnées. L'Institut fixe le délai de communication des données demandées.
+
+Sauf en cas d'urgence dûment justifiée et sauf lorsque des métadonnées anonymes sont demandées à l'opérateur, l'Institut ne peut adresser la demande à l'opérateur qu'après avoir soumis une demande écrite et motivée à l'Autorité de protection des données et après avoir obtenu l'autorisation écrite de cette dernière.
+
+En cas d'urgence dûment justifiée, l'Institut communique à l'Autorité de protection des données, sans délai après l'envoi de la demande à l'opérateur, une copie de cette demande, la motivation de la demande ainsi que la justification de l'urgence. L'Autorité de protection des données effectue ultérieurement un contrôle.
+
+Lorsqu'à la suite de ce contrôle ultérieur, l'Autorité de protection des données refuse de confirmer la validité de la demande envoyée par l'Institut à l'opérateur, l'Institut le notifie sans délai à l'opérateur concerné et supprime les métadonnées reçues.
+
+Pour l'application du présent paragraphe, l'Institut demande à l'opérateur des métadonnées anonymisées ou pseudonymisées, sauf lorsqu'elles ne lui permettent pas de rencontrer l'objectif poursuivi.
+
+§ 3. Par dérogation aux paragraphes 1er et 2 et afin de contrôler le respect par un opérateur des articles 122, 123, 126, 126/1, 126/2, 126/3 ou 127 de la loi du 13 juin 2005 relative aux communications électroniques ou d'un arrêté d'exécution d'un de ces articles, l'Institut peut exiger d'un opérateur, par demande écrite et motivée, de fournir l'accès à l'Institut lui permettant de consulter une base de données qui met en oeuvre un de ces articles ou un de ces arrêtés d'exécution.
+
+L'alinéa 1er n'est applicable pour ce qui concerne les articles 126, 126/1, 126/2, 126/3 et 127 de la loi précitée du 13 juin 2005 et leurs arrêtés d'exécution que pour autant que l'Institut soit chargé de sanctionner l'opérateur sur la base des informations communiquées par le procureur du Roi en application de l'article 21/1.
+
+La demande adressée à l'opérateur précise les noms des membres du personnel de l'Institut qui peuvent consulter cette base de données.
+
+Ces membres du personnel ne peuvent prendre une copie des données et documents consultés dans le cadre de l'alinéa 1er que dans le but de constater des infractions commises par l'opérateur.
+
+§ 4. Pour l'application des paragraphes 1er à 3, la motivation de la demande adressée à l'opérateur ou à l'Autorité de protection des données doit être développée au regard des circonstances.
+
+Pour l'application des paragraphes 1er et 2, l'Institut motive:
+
+1° le lien entre les données demandées et la mission attribuée à l'Institut;
+
+2° le caractère strictement nécessaire des données demandées dans le cadre de cette mission.
+
+Pour l'application du paragraphe 2, l'Institut indique dans la demande adressée à l'Autorité de protection des données:
+
+1° le motif pour lequel la communication par l'opérateur de métadonnées anonymisées ne permet pas de rencontrer l'objectif poursuivi;
+
+2° le motif pour lequel la communication par l'opérateur de métadonnées pseudonymisées ne permet pas de rencontrer l'objectif poursuivi, sauf lorsque la demande précise que l'opérateur doit fournir de telles données.
+
+Sont consignées dans un registre tenu auprès de l'Institut:
+
+1° les demandes adressées aux opérateurs et à l'Autorité de protection des données;
+
+2° la motivation de la demande et la justification de l'urgence communiquées à l'Autorité de protection des données conformément au paragraphe 2, alinéa 3;
+
+3° les autorisations données par l'Autorité de protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-20/14, art. 21, 028; En vigueur : 18-08-2022&gt;
+
+### Section 2/1. [<sup>1</sup> - Pouvoirs d'enquête dans le cadre du règlement sur les services numériques.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-21/06, art. 8, 031; En vigueur : 25-05-2024&gt;
+
+##### Art. 15/1
+
+[<sup>1</sup> § 1er. Dans le cadre de l'article 51, paragraphe 1, point b), du règlement sur les services numériques, l'Institut procède lui-même aux inspections de locaux.
+
+Cette inspection peut seulement avoir lieu après décision du Conseil ou, s'il est impossible de convoquer une séance extraordinaire du Conseil, après décision du président au nom du Conseil. La décision du président est confirmée par le Conseil dans les quatre jours ouvrables suivant son adoption. A défaut d'avoir été confirmée dans ce délai, cette décision perd ses effets.
+
+La décision du Conseil ou de son président indique l'objet et le but de l'inspection, fixe la date à laquelle elle commence et mentionne les sanctions applicables en cas de non-respect.
+
+L'article 19, alinéa 1er, n'est pas applicable au présent paragraphe.
+
+L'Institut peut effectuer une inspection dans un domicile privé par l'intermédiaire d'au moins deux agents agissant conjointement:
+
+1° lorsqu'il y a lieu de soupçonner que des informations relatives à un manquement au règlement sur les services numériques sont conservées dans un local affecté en tout ou partie au domicile privé, et;
+
+2° après l'autorisation d'un juge d'instruction du tribunal de première instance néerlandophone de Bruxelles ou d'un juge d'instruction du tribunal de première instance francophone de Bruxelles, qui pour l'application du présent paragraphe, est également compétent en dehors de son arrondissement.
+
+Seuls les membres du personnel de l'Institut qui sont dotés d'une carte de légitimation, dont le modèle est fixé par le Roi, peuvent effectuer des inspections sur place, entre huit et dix-huit heures.
+
+Si nécessaire, l'Institut peut requérir la force publique.
+
+§ 2. Dans le cadre de l'article 51, paragraphe 1, point c), du règlement sur les services numériques, la demande d'explications est effectuée par un ou plusieurs membres du personnel de l'Institut, mandaté(s) par le Conseil.
+
+Les explications sont consignées dans un rapport qui est signé par la ou les personne(s) interrogée(s).]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-21/06, art. 9, 031; En vigueur : 25-05-2024&gt;
+
+### Section 3. - Le Conseil.
+
+#### Sous-section I. - Généralités.
+
+##### Art. 16
+
+Le Conseil a le pouvoir d'accomplir tous les actes utiles à l'exercice des compétences de l'Institut. [<sup>1</sup> Il exerce ses pouvoirs de manière impartiale, transparente et au moment opportun.]<sup>1</sup> Il représente l'Institut en justice et à l'égard des tiers, et peut contracter au nom de l'Institut. [<sup>2</sup> ...]<sup>2</sup>
+
+Le Conseil peut, par décision unanime, déléguer certains de ses pouvoirs à un ou plusieurs de ses membres [<sup>3</sup> ...]<sup>3</sup>. [<sup>3</sup> De la même façon, il peut déléguer certains de ses pouvoirs à un membre du personnel dans les hypothèses suivantes:
+
+1° dans les matières visées à l'article 11, § 1er, 2°, de la loi du 13 juin 2005 relative aux communications électroniques;
+
+2° dans les matières visées à l'article 18 de la loi du 13 juin 2005 relative aux communications électroniques, à l'exclusion des bandes de fréquences pour lesquelles le Roi a fixé une procédure visant à limiter le nombre de droits d'utilisation à octroyer, conformément à l'article 20, § 1er, de la même loi;
+
+3° dans les matières visées à l'article 39, § 2, de la loi du 13 juin 2005 relative aux communications électroniques;
+
+4° pour des décisions de gestion courante des revenus et dépenses.]<sup>3</sup>
+
+Le Conseil peut déléguer par écrit la signature de certains documents à un ou plusieurs membres du personnel.
+
+Le Conseil peut faire appel à une expertise extérieure dans le cadre de l'accomplissement des missions de l'Institut. Ces experts doivent être indépendants de toute personne physique ou morale soumise au contrôle de l'Institut.
+
+----------
+
+(1)&lt;L 2012-07-10/04, art. 5, 015; En vigueur : 04-08-2012&gt;
+
+(2)&lt;L 2014-03-27/35, art. 3, 016; En vigueur : 08-05-2014&gt;
+
+(3)&lt;L 2021-12-21/05, art. 13, 024; En vigueur : 10-01-2022&gt;
+
+#### Sous-section 2. - Composition.
+
+##### Art. 17
+
+§ 1er. Le Conseil est composé de quatre membres, à savoir un président et trois membres ordinaires. Deux des membres appartiennent au rôle linguistique néerlandophone et les deux autres membres appartiennent au rôle linguistique francophone. Au cas où les voix sont partagées, le président a voix prépondérante.
+
+§ 2. Le Roi nomme, [<sup>8</sup> sur proposition conjointe du ministre et du ministre qui a l'Economie dans ses attributions]<sup>8</sup>, par arrêté délibéré en Conseil des Ministres, le président et les autres membres du Conseil.
+
+[<sup>7</sup> ...]<sup>7</sup>
+
+Les membres du Conseil sont nommés pour un terme de six ans renouvelable.
+
+Sauf en cas de révocation visée au § 5, les membres du Conseil continuent à exercer leur fonction à l'expiration de leur mandat tant qu'il n'a pas été pourvu à leur remplacement.
+
+[<sup>2</sup> [<sup>6</sup> ...]<sup>6</sup> Le Conseil peut [<sup>6</sup> ...]<sup>6</sup> inviter des experts externes à assister aux réunions du Conseil avec ou sans voix consultative. [<sup>6</sup> ...]<sup>6</sup> Les experts externes sont tenus aux mêmes règles que celles applicables aux membres du Conseil en vertu de l'article 17, § 3. Les experts sont tenus au secret professionnel pendant et après la fin de leur mission. Ils ne peuvent communiquer à des tiers les informations confidentielles dont ils ont connaissance dans le cadre de l'exercice de leur mission, hormis les exceptions prévues par la loi. La violation de cette obligation entraîne la fin immédiate de la mission.]<sup>2</sup>
+
+[<sup>6</sup> ...]<sup>6</sup>
+
+§ 3. Les membres du Conseil sont nommés en vertu de leur compétence, de leur intégrité et de leur indépendance. Il doit être satisfait à ces conditions pendant toute la durée du mandat.
+
+Les membres du Conseil ne peuvent avoir un intérêt quel qu'il soit dans les entreprises actives sur les marchés des télécommunications et/ou des services postaux [<sup>8</sup> et/ou des services intermédiaires]<sup>8</sup>, ni exercer pour celles-ci directement ou indirectement, à titre gratuit ou onéreux, la moindre fonction ou prester le moindre service. Il doit être satisfait à cette condition pendant toute la durée du mandat et pendant [<sup>1</sup> un an]<sup>1</sup> suivant la fin de ce mandat.
+
+§ 4. Les membres du Conseil sont employés à temps plein. Le Roi fixe, par arrêté délibéré en Conseil des Ministres, le statut et la rémunération du Président et des autres membres du Conseil ainsi que leurs devoirs.
+
+§ 5. Les membres du Conseil sont révocables par arrêté délibéré en Conseil des ministres [<sup>8</sup> sur proposition conjointe du ministre et du ministre qui a l'Economie dans ses attributions]<sup>8</sup>.
+
+Le Roi fixe par arrêté délibéré en Conseil des Ministres les circonstances dans lesquelles une révocation peut être proposée.
+
+----------
+
+(1)&lt;L 2009-05-18/04, art. 3, 010; En vigueur : 14-06-2009&gt;
+
+(2)&lt;L 2009-12-30/01, art. 182, 012; En vigueur : 10-01-2010&gt;
+
+(3)&lt;L 2011-05-31/02, art. 5, 014; En vigueur : 01-07-2011&gt;
+
+(4)&lt;L 2012-07-10/04, art. 6, 015; En vigueur : indéterminée , lors de la prochaine nomination du Conseil de l'Institut&gt;
+
+(5)&lt;L 2014-03-27/35, art. 4, 016; En vigueur : 08-05-2014&gt;
+
+(6)&lt;L 2017-07-31/30, art. 3, 021; En vigueur : 22-09-2017&gt;
+
+(7)&lt;L 2021-12-21/05, art. 14, 024; En vigueur : 10-01-2022&gt;
+
+(8)&lt;L 2024-04-21/06, art. 10, 031; En vigueur : 25-05-2024&gt;
+
+##### Art. 18
+
+A l'exception des membres désignés lors de la première composition du Conseil, les membres doivent fournir la preuve de la connaissance fonctionnelle de la deuxième langue comme prévu à l'article 43ter, § 7, alinéa 1, des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966.
+
+#### Sous-section 3. - Fonctionnement.
+
+##### Art. 19
+
+Le Conseil offre à toute personne directement et personnellement concernée par une décision la possibilité d'être entendue au préalable.
+
+Les décisions du Conseil sont notifiées aux personnes directement et personnellement concernées [<sup>1</sup> , au ministre ainsi qu'au ministre qui a l'Economie dans ses attributions, dans la limite de leurs attributions respectives]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2024-04-21/06, art. 11, 031; En vigueur : 25-05-2024&gt;
+
+##### Art. 20
+
+§ 1er. [<sup>2</sup> [<sup>4</sup> Lorsque le Conseil [<sup>5</sup> ]<sup>4</sup> constate un manquement à la législation ou à la réglementation dont l'Institut contrôle le respect, ou de leurs mesures d'exécution, entraînant une menace immédiate et grave pour la sûreté publique]<sup>5</sup>, la sécurité publique ou la santé publique ou de nature à provoquer de graves problèmes économiques ou opérationnels pour d'autres fournisseurs ou utilisateurs de réseaux ou de services de communications électroniques, ou d'autres utilisateurs du spectre radioélectrique, [<sup>4</sup> ou pour des fournisseurs ou utilisateurs de réseaux ou de services postaux]<sup>4</sup> ]<sup>2</sup> [<sup>6</sup> , il peut adopter des mesures provisoires appropriées]<sup>6</sup>. [<sup>6</sup> Il en détermine la durée, sans que celle-ci ne puisse initialement excéder trois mois, prorogeable d'une nouvelle durée de trois mois au maximum si la mise en oeuvre des procédures d'exécution n'est pas terminée.]<sup>6</sup> [<sup>2</sup> Il peut prendre ces mesures même si elles ont un impact sur les relations contractuelles des parties concernées.]<sup>2</sup> [<sup>2</sup> ...]<sup>2</sup>.]<sup>1</sup>. [<sup>5</sup> ...]<sup>5</sup> [<sup>5</sup> En vue d'assurer le respect des mesures provisoires, le Conseil peut infliger l'astreinte visée à l'article 21, § 5, alinéa 1er, 2° /1, le cas échéant durant l'instruction du dossier. Dans chaque cas, il veille à ce que la mesure adoptée n'ait pas de conséquences irréversibles.]<sup>5</sup>
+
+[<sup>2</sup> Dans les trois jours ouvrables, l'intéressé peut demander à être entendu pour exposer son point de vue et proposer [<sup>5</sup> des mesures correctrices]<sup>5</sup>.
+
+Si nécessaire, le Conseil peut ensuite lever, adapter ou confirmer les mesures provisoires.]<sup>2</sup>
+
+§ 2. En respectant les conditions prévues au § 1er et s'il n'est matériellement pas possible de convoquer une séance extraordinaire du Conseil, le président est compétent pour adopter des mesures provisoires au nom du Conseil. La décision du président qui impose des mesures provisoires doit être confirmée par le Conseil dans les quatre jours ouvrables suivant son adoption. A défaut d'avoir été confirmée dans ce délai, la décision du président perd ses effets.
+
+[<sup>6</sup> § 3. Dans le cadre de l'article 51, paragraphe 2, point e), du règlement sur les services numériques, lorsqu'il constate prima facie un manquement, le Conseil adopte les mesures provisoires conformément au présent article, à l'exception du paragraphe 1er, alinéa 1er, première phrase.]<sup>6</sup>
+
+----------
+
+(1)&lt;L 2009-05-18/04, art. 4, 010; En vigueur : 14-06-2009&gt;
+
+(2)&lt;L 2012-07-10/04, art. 7, 015; En vigueur : 04-08-2012&gt;
+
+(3)&lt;L 2017-05-05/03, art. 67, 020; En vigueur : 02-06-2017&gt;
+
+(4)&lt;L 2017-07-31/30, art. 4, 021; En vigueur : 22-09-2017&gt;
+
+(5)&lt;L 2021-12-21/05, art. 15, 024; En vigueur : 10-01-2022&gt;
+
+(6)&lt;L 2024-04-21/06, art. 12, 031; En vigueur : 25-05-2024&gt;
+
+##### Art. 21
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Si le Conseil dispose d'un faisceau d'indices qui pourraient indiquer [<sup>6</sup> un manquement]<sup>6</sup> à la législation ou à la réglementation dont l'Institut contrôle le respect [<sup>7</sup> , à une décision prise]<sup>7</sup> par l'Institut en exécution de cette législation ou réglementation [<sup>7</sup> ou à une décision visée à l'article 105, § 6, alinéa 1er, de la loi du 13 juin 2005 relative aux communications électroniques]<sup>7</sup>, il fait part [<sup>3</sup> le cas échéant]<sup>3</sup> de ses griefs à l'intéressé ainsi que des mesures envisagées visées au paragraphe 5 qui seront appliquées en cas de confirmation [<sup>6</sup> du manquement]<sup>6</sup>.]<sup>2</sup> [<sup>6</sup> Les sanctions ainsi prévues sont appropriées, effectives, proportionnées et dissuasives.]<sup>6</sup>
+
+§ 2. Le Conseil fixe le délai dont dispose [<sup>2</sup> l'intéressé]<sup>2</sup> pour consulter le dossier et présenter ses observations écrites. Ce délai ne peut être inférieur à dix jours ouvrables.
+
+§ 3. [<sup>2</sup> L'intéressé]<sup>2</sup> est invité à comparaître à la date fixée par le Conseil et communiquée par lettre recommandée. Il peut se faire représenter par le conseil de son choix.
+
+§ 4. Le Conseil peut entendre toute personne pouvant contribuer utilement à son information, soit d'office, soit à la demande [<sup>2</sup> de l'intéressé]<sup>2</sup>.
+
+§ 5. [<sup>2</sup> Si le Conseil conclut à l'existence d'[<sup>6</sup> un manquement]<sup>6</sup>, [<sup>3</sup> il peut adopter, en une ou plusieurs décisions, une ou plusieurs des mesures suivantes :
+
+1° [<sup>6</sup> l'ordre qu'il soit mis fin au manquement, soit immédiatement, soit dans le délai raisonnable qu'il impartit, pour autant que ce manquement n'ait pas cessé; l'Institut prend à cet égard des mesures appropriées et proportionnées pour garantir le respect de ces conditions;]<sup>6</sup>]<sup>3</sup>
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>3</sup> 1°/1.]<sup>3</sup> des prescriptions relatives à la manière dont il faut remédier [<sup>6</sup> au manquement]<sup>6</sup>;
+
+[<sup>9</sup> 1° /2 dans le cadre du règlement sur les services numériques, accepter les engagements proposés par le fournisseur d'un service intermédiaire et les rendre contraignants;]<sup>9</sup>
+
+2° [<sup>6</sup> le paiement dans le délai imparti par le Conseil d'une amende administrative au profit du Trésor public d'un montant maximal de 5 000 euros pour les personnes physiques et de 5 % au maximum du chiffre d'affaires consolidé du contrevenant, avant impôts et hors T.V.A., réalisé au cours de l'exercice complet le plus récent dans le secteur des communications électroniques ou des services postaux en Belgique ou si le contrevenant ne développe pas d'activités lui faisant réaliser un chiffre d'affaires, d'un montant maximal de 1 000 000 d'euros pour les personnes morales. Pour les manquements au chapitre 2 de la loi du 5 mai 2017 relative aux services de médias audiovisuels en région bilingue de Bruxelles-Capitale, le montant de l'amende administrative est de maximum 5 % du chiffre d'affaires consolidé du contrevenant, avant impôts et hors T.V.A., réalisé dans le secteur en question au cours de l'exercice complet le plus récent, plafonné à 125 000 euros.]<sup>6</sup> [<sup>9</sup> En ce qui concerne les manquements au règlement sur les services numériques, le montant maximal de l'amende administrative est celui visé à l'article 52, paragraphe 3, dudit règlement;]<sup>9</sup>
+
+[<sup>6</sup> 2° /1 en vue de faire respecter une ou plusieurs de ses décisions, le paiement dans le délai imparti par le Conseil d'une astreinte au profit du Trésor public d'un montant maximal de 500 euros par jour de retard pour les personnes physiques et de 5 % du chiffre d'affaires journalier par jour de retard pour les personnes morales. L'astreinte est due à compter de la date que le Conseil fixe dans sa décision.]<sup>6</sup> [<sup>9</sup> En ce qui concerne les manquements au règlement sur les services numériques, le montant maximal de l'astreinte est celui visé à l'article 52, paragraphe 4, dudit règlement;]<sup>9</sup>
+
+3° l'ordre de cesser ou de suspendre la fourniture d'un service ou d'un ensemble de services qui, si elle se poursuivait, serait de nature à entraver la concurrence de manière significative, jusqu'au respect, selon les modalités fixées par le Conseil, des obligations imposées en matière d'accès à la suite d'une analyse de marché réalisée conformément à la loi du 13 juin 2005 relative aux communications électroniques [<sup>6</sup> ou à la loi du 5 mai 2017 relative aux services de médias audiovisuels en région bilingue de Bruxelles-Capitale]<sup>6</sup>.
+
+[<sup>6</sup> Le chiffre d'affaires journalier visé à l'alinéa 1er, 2° /1, est le chiffre d'affaires annuel total consolidé avant impôts et hors T.V.A., réalisé en Belgique, dans le secteur des communications électroniques ou des services postaux, au cours de l'exercice comptable le plus récent, divisé par 365.]<sup>6</sup>
+
+En l'absence de données concernant le chiffre d'affaires visé [<sup>6</sup> à l'alinéa 1er, 2° et 2° /1]<sup>6</sup>, l'Institut peut déterminer un chiffre d'affaires sur la base de données obtenues de tiers ou sur la base du chiffre d'affaires d'une personne comparable.]<sup>2</sup>
+
+[<sup>6</sup> § 5/1. Les amendes et astreintes visées au paragraphe 5, alinéa 1er, 2° et 2/1°, ne sont pas fiscalement déductibles.]<sup>6</sup>
+
+[<sup>8</sup> § 5/2. Par dérogation au paragraphe 5, si le Conseil conclut à l'existence d'un manquement aux dispositions visées à l'article 18 du règlement (UE) 2021/784 du Parlement européen et du Conseil du 29 avril 2021 relatif à la lutte contre la diffusion des contenus à caractère terroriste en ligne de la part d'un fournisseur de services d'hébergement, il peut adopter, en une ou plusieurs décisions, une ou plusieurs des mesures suivantes:
+
+1° l'ordre qu'il soit mis fin au manquement, soit immédiatement, soit dans un délai raisonnable qu'il impartit, pour autant que ce manquement n'ait pas cessé;
+
+2° le paiement dans le délai imparti par le Conseil d'une astreinte d'un montant de quatre pour cent au maximum du chiffre d'affaires mondial journalier moyen du fournisseur de services d'hébergement;
+
+3° le paiement dans le délai imparti par le Conseil d'une amende administrative au profit du Trésor public d'un montant de quatre pour cent au maximum du chiffre d'affaires mondial annuel du fournisseur de services d'hébergement concerné.
+
+Le chiffre d'affaires visé à l'alinéa 1er, 2° et 3°, est le montant atteint par une entreprise au sens de l'article 5, paragraphe 1er, du règlement (CE) n° 139/2004 du Conseil du 20 janvier 2004 relatif au contrôle des concentrations entre entreprises.]<sup>8</sup>
+
+§ 6. [<sup>2</sup> Si les mesures prises conformément au paragraphe 5 n'ont pas permis de remédier [<sup>6</sup> au manquement]<sup>6</sup>, le Conseil peut, après avoir suivi la procédure prévue aux paragraphes 1er à 5, imposer une amende administrative [<sup>6</sup> ou une astreinte]<sup>6</sup> dont le montant ou le pourcentage maximum représente le double du montant ou du pourcentage visé au paragraphe 5, [<sup>6</sup> alinéa 1er, 2° et 2° /1]<sup>6</sup>.]<sup>2</sup>
+
+[<sup>2</sup> § 7. Si les mesures prises conformément au paragraphe 5 n'ont pas permis de remédier [<sup>6</sup> au manquement]<sup>6</sup> et s'il s'agit [<sup>6</sup> d'un manquement grave ou répété]<sup>6</sup>, le Conseil peut en outre :
+
+1° suspendre ou retirer les droits d'utilisation attribués, dont les conditions n'ont pas été respectées ou
+
+2° ordonner la suspension de tout ou partie de l'exploitation du réseau ou de la fourniture du service en question ainsi que de la commercialisation ou de l'utilisation de tout service ou produit concerné;]<sup>2</sup>
+
+[<sup>6</sup> § 7/1. L'Institut ne prévoit des sanctions dans le cadre de la procédure visée à l'article 49/2 de la loi du 13 juin 2005 relative aux communications électroniques, que lorsqu'une entreprise ou une autorité publique fournit, en connaissance de cause ou du fait d'une négligence grave, des informations trompeuses, erronées ou incomplètes.
+
+Lors de la détermination du montant des amendes ou des astreintes imposées à une entreprise ou à une autorité publique en application de l'alinéa 1er, l'Institut tient compte notamment de l'effet négatif du comportement de l'entreprise ou de l'autorité publique sur la concurrence et, en particulier, si, contrairement aux informations initialement communiquées ou à toute actualisation de ces informations, l'entreprise ou l'autorité publique soit a déployé un réseau ou procédé à une extension ou à une mise à niveau d'un réseau, soit n'a pas déployé de réseau et elle n'a pas fourni de justification objective à ce changement de plan.]<sup>6</sup>
+
+[<sup>9</sup> § 7/2. Les paragraphes 6 à 7/1 ne s'appliquent pas en cas de manquement au règlement sur les services numériques.
+
+§ 7/3. Pour ce qui concerne l'article 51, paragraphe 3, alinéa 1er, point b), du règlement sur les services numériques, l'Institut saisit le président du tribunal de première instance statuant comme en référé en vue de voir ordonner la restriction visée dans cet article.]<sup>9</sup>
+
+[<sup>2</sup> § 8. Toute décision prise en application du présent article est notifiée sans retard à l'intéressé [<sup>6</sup> ...]<sup>6</sup> ainsi qu'au ministre et publiée sur le site Internet de l'Institut. [<sup>6</sup> La notification à l'intéressé se fait par lettre recommandée.]<sup>6</sup>
+
+La décision fait mention du délai raisonnable dans lequel l'intéressé doit satisfaire à la mesure ou aux mesures imposées.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2009-05-18/04, art. 5, 010; En vigueur : 14-06-2009&gt;
+
+(2)&lt;L 2012-07-10/04, art. 8, 015; En vigueur : 04-08-2012&gt;
+
+(3)&lt;L 2014-03-27/35, art. 5, 016; En vigueur : 08-05-2014&gt;
+
+(4)&lt;L 2016-03-04/11, art. 2, 018; En vigueur : 08-04-2016&gt;
+
+(5)&lt;L 2017-05-05/03, art. 68, 020; En vigueur : 02-06-2017&gt;
+
+(6)&lt;L 2021-12-21/05, art. 16, 024; En vigueur : 10-01-2022&gt;
+
+(7)&lt;L 2022-02-17/16, art. 4, 025; En vigueur : 21-03-2022&gt;
+
+(8)&lt;L 2023-11-05/07, art. 90, 029; En vigueur : 21-12-2023&gt;
+
+(9)&lt;L 2024-04-21/06, art. 13, 031; En vigueur : 25-05-2024&gt;
+
+##### Art. 21/1
+
+[<sup>1</sup> § 1er. L'agent verbalisant envoie le procès-verbal qui constate les faits érigés en infraction pénale par une des dispositions visées à l'article 14, § 1er, 3°, au procureur du Roi ainsi qu'une copie au Conseil.
+
+Sur la base de cette copie, celui-ci peut prendre les mesures visées aux articles 20 et 21 ainsi que toute autre mesure prévue par la réglementation.
+
+§ 2. Si des mesures sont envisagées, le Conseil le notifie au préalable au procureur du Roi dans les 15 jours de sa décision.
+
+§ 3. Le procureur du Roi informe le Conseil par écrit dans un délai d'un mois après la réception de la notification visée au paragraphe 2, ou à défaut de celle-ci, de sa propre initiative:
+
+1° qu'une information ou une instruction judiciaire a été ouverte, ou;
+
+2° que des poursuites ont été entamées, ou;
+
+3° qu'il a été fait application des articles 216bis ou 216ter du Code d'instruction criminelle, ou;
+
+4° que le dossier a été classé sans suite pour des motifs liés aux éléments constitutifs de l'infraction, ou;
+
+5° que le dossier a été classé sans suite pour des motifs qui ne sont pas liés aux éléments constitutifs de l'infraction.
+
+§ 4. Lorsque le procureur du Roi transmet au Conseil l'information visée au paragraphe 3, 1°, 2°, 3° ou 4°, l'Institut n'impose pas la sanction administrative visée à l'article 21.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 17, 024; En vigueur : 10-01-2022&gt;
+
+#### Sous-section 4. - Règlement d'ordre intérieur.
+
+##### Art. 22
+
+[<sup>3</sup> Le Conseil établit son propre règlement d'ordre intérieur]<sup>3</sup>
+
+Ce règlement d'ordre intérieur comprend au moins les éléments suivants :
+
+1° [<sup>2</sup> ...]<sup>2</sup>
+
+2° [<sup>2</sup> ...]<sup>2</sup>
+
+3° [<sup>2</sup> ...]<sup>2</sup>
+
+4° [<sup>2</sup> ...]<sup>2</sup>
+
+5° [<sup>2</sup> ...]<sup>2</sup>
+
+6° [<sup>2</sup> ...]<sup>2</sup>
+
+7° les modalités et les délais de communication des décisions et avis du Conseil aux personnes intéressées;
+
+8° les règles de notification et de publication applicables aux décisions ou avis du Conseil, ainsi que le délai dans lequel ces notification et publication interviennent;
+
+[<sup>1</sup> 9° les règles en matière de quorum requis pour prendre des décisions;]<sup>1</sup>
+
+[<sup>3</sup> 10° les modalités de la procédure de vote électronique, pour autant que celui-ci soit accepté à l'unanimité des membres.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2011-05-31/02, art. 6, 014; En vigueur : 01-07-2011&gt;
+
+(2)&lt;L 2014-03-27/35, art. 6, 016; En vigueur : 08-05-2014&gt;
+
+(3)&lt;L 2021-12-21/05, art. 18, 024; En vigueur : 10-01-2022&gt;
+
+#### Sous-section 5. - Confidentialité.
+
+##### Art. 23
+
+§ 1er. Les membres du Conseil sont soumis au secret professionnel. Ils ne peuvent communiquer à des tiers les informations confidentielles dont ils ont connaissance dans le cadre de l'exercice de leurs fonctions, hormis les exceptions prévues par la loi. La violation de cette obligation entraîne une proposition de révocation, dans les formes visées à l'article 17, § 5, alinéa 1.
+
+§ 2. L'obligation prévue au § 1er reste d'application après la fin du mandat de chaque membre du Conseil [<sup>3</sup> ou l'annulation de sa nomination]<sup>3</sup>.
+
+§ 3. L'Institut veille à préserver la confidentialité des données fournies par les entreprises et qui sont considérées par l'entreprise comme des informations d'entreprise ou de fabrication confidentielles au sens de l'article 6, § 1er, 7°, de la loi du 11 avril 1994 [<sup>2</sup> relative à la publicité de l'administration]<sup>2</sup>.
+
+[<sup>2</sup> Lorsqu'une entreprise transmet un document contenant des données qu'elle considère confidentielles, elle transmet simultanément une version non-confidentielle de ce document à l'Institut.]<sup>2</sup>
+
+[<sup>1</sup> Lorsque le caractère confidentiel des données fournies par l'entreprise, ou de certaines d'entre elles, apparaît douteux, l'Institut demande à l'entreprise de motiver son point de vue de considérer les informations concernées comme confidentielles au sens de l'article 6, § 1er, 7°, de la loi du 11 avril 1994 relative à la publicité de l'administration .
+
+Si l'entreprise s'abstient de communiquer la motivation sollicitée, ou lorsque l'entreprise considère les informations déterminées comme confidentielles au sens de l'article 6, § 1, 7°, de la loi du 11 avril 1994, l'Institut peut, de manière motivée et après avoir entendu l'entreprise concernée, divulguer ces informations, à la condition qu'elles ne soient pas confidentielles par nature ou en vertu de la loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-05-18/04, art. 7, 010; En vigueur : 14-06-2009&gt;
+
+(2)&lt;L 2012-07-10/04, art. 10, 015; En vigueur : 04-08-2012&gt;
+
+(3)&lt;L 2014-03-27/35, art. 7, 016; En vigueur : 08-05-2014&gt;
+
+### Section 4. - Les membres du personnel de l'Institut.
+
+#### Sous-section 1. - Officiers de police judiciaire.
+
+##### Art. 24
+
+[<sup>2</sup> § 1er.]<sup>2</sup> [<sup>1</sup> Sur proposition de l'Institut, le Roi peut conférer la qualité d'officier de police judiciaire aux membres statutaires du personnel de l'Institut qu'Il charge de la constatation:
+
+1° des faits érigés en infraction pénale par une des dispositions visées à l'article 14, § 1er, 3° ;
+
+2° des infractions au Code pénal et aux lois spéciales lorsque les infractions sont commises au moyen d'équipements, de réseaux ou services de communications électroniques ou de radiocommunications au sens de la loi du 13 juin 2005 relative aux communications électroniques.]<sup>1</sup>
+
+[<sup>2</sup> § 2. Le Roi désigne, parmi les officiers de police judiciaire de l'Institut visés au paragraphe 1er, ceux qui sont chargés du contrôle des demandes visées à l'article 25/1, §§ 1er et 3.
+
+Sans préjudice de l'article 25, § 5, les officiers de police judiciaire de l'Institut désignés par le Roi en vertu de l'alinéa 1er, exécutent leur mission en toute indépendance. Ils ne peuvent être soumis à aucun lien de subordination à l'égard des autres officiers de police judiciaire de l'Institut.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 19, 024; En vigueur : 10-01-2022&gt;
+
+(2)&lt;L 2022-07-20/14, art. 22, 028; En vigueur : 18-08-2022&gt;
+
+##### Art. 25
+
+§ 1er. Dans le cadre du contrôle de l'utilisation du spectre, de la lutte contre les perturbations, [<sup>1</sup> ...]<sup>1</sup> ainsi que du contrôle du respect de la législation en matière de compatibilité électromagnétique et la conformité des équipements, les [<sup>2</sup> officiers de police judiciaire de l'Institut peuvent]<sup>2</sup> :
+
+1° [<sup>1</sup> pénétrer à tout moment, lorsque l'accomplissement de leur mission le requiert, dans tout moyen de transport, bâtiment ou dépendance, à l'exception d'un domicile au sens de l'article 15 de la Constitution;]<sup>1</sup>
+
+[<sup>1</sup> 1° /1 pénétrer, munis d'un mandat du juge d'instruction, dans un domicile au sens de l'article 15 de la Constitution, dans le respect de la loi du 7 juin 1969 fixant le temps pendant lequel il ne peut être procédé à des perquisitions, visites domiciliaires ou arrestations;]<sup>1</sup>
+
+2° effectuer toutes les constatations utiles, se faire produire et saisir tous les documents, pièces, livres et objets nécessaires à l'instruction et à la constatation des infractions;
+
+3° saisir tous les documents, pièces, livres et objets, pour autant que cela soit nécessaire pour mettre fin [<sup>1</sup> au manquement]<sup>1</sup>;
+
+4° recueillir tous renseignements, recevoir toutes dépositions ou tous témoignages écrits ou oraux;
+
+5° prêter leur assistance dans le cadre de l'exécution des décisions de l'Institut.
+
+Lorsque ces actes ont le caractère d'une perquisition, ils ne peuvent être posés qu'en application des articles 87 à 90 du Code d'instruction criminelle.
+
+§ 2. Dans le cadre du contrôle du respect de la législation en matière de compatibilité électromagnétique et de la conformité des équipements, les membres du personnel de l'Institut visés à l'article 24 peuvent procéder à la prise d'échantillons et faire procéder à leur analyse. Le Roi, sur avis de l'Institut, en détermine les modalités.
+
+§ 3. A l'exception des cas visés au § 1er, les [<sup>2</sup> officiers de police judiciaire de l'Institut peuvent]<sup>2</sup>, procéder à toutes les constatations, rassembler des informations, prendre des déclarations, se faire présenter des documents, pièces, livres et objets et saisir ceux qui sont nécessaires à la recherche ou à la constatation ou nécessaires pour pouvoir mettre fin [<sup>1</sup> au manquement]<sup>1</sup>. Ils peuvent procéder à des perquisitions ou entreprendre toutes les actions nécessaires pour constater une infraction à la législation dont ils contrôlent le respect.
+
+Toute perquisition se fait dans le respect des dispositions du Code d'instruction criminelle.
+
+L'accord du juge d'instruction est nécessaire pour procéder à une perquisition :
+
+1° au domicile des chefs d'entreprises, administrateurs, gérants, directeurs et autres membres du personnel de l'entreprise concernée ainsi qu'au domicile et dans les locaux utilisés à des fins professionnelles de personnes physiques et morales, internes ou externes, chargées des la gestion commerciale, comptable, administrative, fiscale et financière de cette entreprise;
+
+2° au siège social ou d'exploitation de l'entreprise concernée.
+
+§ 4. Les procès-verbaux des officiers de police judiciaire [<sup>2</sup> de l'Institut]<sup>2</sup> font foi jusqu'à preuve du contraire.
+
+§ 5. Dans l'exercice de leurs missions de recherche ou de constatation d'infractions, les officiers de police judiciaire [<sup>2</sup> de l'Institut]<sup>2</sup> sont soumis à la surveillance du procureur général.
+
+§ 6. Les officiers de police judiciaire [<sup>2</sup> de l'Institut]<sup>2</sup> peuvent, pour les besoins de l'accomplissement de leurs missions, requérir la force publique et bénéficier de tous les moyens reconnus aux agents de la force publique.
+
+§ 7. Sans préjudice des lois particulières qui garantissent le secret des déclarations, les administrations publiques sont tenues de prêter leur concours aux officiers de police judiciaire [<sup>2</sup> de l'Institut]<sup>2</sup> dans l'exécution de leurs missions.
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 20, 024; En vigueur : 10-01-2022&gt;
+
+(2)&lt;L 2022-07-20/14, art. 23, 028; En vigueur : 18-08-2022&gt;
+
+##### Art. 25/1
+
+[<sup>1</sup> § 1er. Afin de rechercher, de constater ou de poursuivre une infraction visée à l'article 145, § 3 ou § 3bis, de la loi du 13 juin 2005 relative aux communications électroniques ou à l'article 24, § 1er, 2°, un officier de police judiciaire de l'Institut peut, par écrit:
+
+1° exiger d'un opérateur de répondre à une demande de données d'identification qui est nécessaire à ces fins;
+
+2° requérir la collaboration des personnes et institutions visées à l'article 46quater, § 1er, du Code d'instruction criminelle et d'associations les représentant, sur la base de la référence de paiement en ligne spécifique à un service de communications électroniques qui a préalablement été communiquée par un opérateur conformément au 1°, afin d'identifier la personne qui a payé le service;
+
+3° requérir la collaboration des centres fermés ou des lieux d'hébergement au sens des articles 74/8 et 74/9 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, où la souscription de l'abonné à un service de communications électroniques a été effectué, sur la base des coordonnées du centre ou du lieu d'hébergement qui ont préalablement été communiquées par un opérateur conformément au 1°, afin d'identifier l'abonné;
+
+4° requérir la collaboration de toute autre personne morale qui est l'abonnée d'un opérateur ou qui souscrit à un service de communications électroniques au nom et pour le compte de personnes physiques, sur la base des données qui ont préalablement été communiquées par un opérateur conformément au 1°, afin d'identifier l'abonné ou l'utilisateur habituel du service.
+
+Une demande visée à l'alinéa 1er ne peut être transmise à un acteur visé à l'alinéa 1er qu'après autorisation écrite d'un officier de police judiciaire visé à l'article 24, § 2. Cette autorisation ne peut être octroyée que sur demande écrite et motivée adressée à cet officier conformément au paragraphe 5.
+
+§ 2. Pour les besoins de l'accomplissement de ses missions, un officier de police judiciaire de l'Institut peut exiger d'un opérateur, par écrit, de répondre à une demande de métadonnées, qui est nécessaire afin de rechercher, de constater ou de poursuivre une infraction visée à l'article 145, § 3, ou § 3bis, de la loi du 13 juin 2005 relative aux communications électroniques ou à l'article 24, § 1er, 2°.
+
+Sauf en cas d'urgence dûment justifiée, l'officier de police judiciaire de l'Institut ne peut adresser la demande à l'opérateur qu'après avoir soumis une demande écrite et motivée au juge d'instruction et après autorisation écrite de ce dernier.
+
+En cas d'urgence dûment justifiée visée à l'alinéa 2, l'officier de police judiciaire de l'Institut communique au juge d'instruction, sans délai après l'envoi de la demande à l'opérateur, une copie de cette demande, la motivation de la demande et la justification de l'urgence. Un contrôle ultérieur est effectué par le juge d'instruction.
+
+Lorsqu'à la suite de ce contrôle ultérieur, le juge d'instruction refuse de confirmer la validité de la demande envoyée par l'officier de police judiciaire de l'Institut à l'opérateur, cet officier le notifie sans délai à l'opérateur concerné et supprime les métadonnées reçues.
+
+§ 3. Par dérogation aux paragraphes 1er et 2, afin de contrôler le respect des articles 126, 126/1, 126/2, 126/3 ou 127 de la loi du 13 juin 2005 relative aux communications électroniques et de leurs arrêtés d'exécution et à la demande écrite et motivée d'un officier de police judiciaire de l'Institut, un opérateur fournit, dans le délai fixé dans le réquisitoire, un accès permettant de consulter ses bases de données qui mettent en oeuvre un de ces articles ou un de ces arrêtés d'exécution.
+
+Une demande visée à l'alinéa 1er ne peut être transmise à un opérateur qu'après autorisation écrite d'un officier de police judiciaire de l'Institut visé à l'article 24, § 2. Cette autorisation ne peut être octroyée que sur demande écrite et motivée conformément au paragraphe 5.
+
+La demande adressée à l'opérateur précise les noms des officiers de police judiciaire de l'Institut qui peuvent consulter la base de données.
+
+Ces officiers ne peuvent prendre une copie des données et documents consultés dans le cadre de l'alinéa 1er que dans le but de constater des infractions commises par l'opérateur.
+
+§ 4. Pour l'application des paragraphes 1er et 2, les acteurs visés au paragraphe 1er, alinéa 1er, auxquels un officier de police judiciaire de l'Institut a demandé des données, lui communiquent ces données en temps réel ou, le cas échéant, au moment précisé dans le réquisitoire.
+
+Pour l'application des paragraphes 1er à 3, toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours, est tenue de garder le secret. Toute violation du secret est punie conformément à l'article 458 du Code pénal.
+
+Toute personne qui refuse de communiquer les données ou qui ne les communique pas en temps réel ou, le cas échéant, au moment précisé dans le réquisitoire est punie d'une amende de vingt-six euros à dix mille euros.
+
+Toute personne qui refuse de permettre la consultation de la base de données conformément au paragraphe 3 ou qui ne permet pas cette consultation dans le délai fixé dans le réquisitoire est punie d'une amende de vingt-six euros à dix mille euros.
+
+§ 5. Pour l'application des paragraphes 1er à 3, la motivation de la demande adressée à l'officier de police judiciaire visé à l'article 24, § 2, ou au juge d'instruction doit être développée au regard des circonstances de l'enquête.
+
+Pour l'application des paragraphes 1er et 2, cette motivation indique:
+
+1° le lien entre les données demandées et l'objectif de recherche, de constat ou de poursuite de l'infraction spécifique qui justifie la demande;
+
+2° le caractère strictement nécessaire des données demandées dans le cadre de l'enquête.
+
+§ 6. Les officiers de police judiciaire de l'Institut consignent dans un registre:
+
+1° l'ensemble des demandes visées aux paragraphes 1er, 2 et 3;
+
+2° la motivation de la demande et la justification de l'urgence communiquées au juge d'instruction conformément au paragraphe 2, alinéa 3;
+
+3° les autorisations prévues aux paragraphes 1er, 2 et 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-20/14, art. 24, 028; En vigueur : 18-08-2022&gt;
+
+#### Sous-section 2. - Organisation.
+
+##### Art. 26
+
+Chaque membre ordinaire du Conseil dirige au moins un des services de l'Institut. [<sup>1</sup> Le président peut également diriger un ou plusieurs services.]<sup>1</sup>
+
+[<sup>2</sup> Le Conseil fixe l'organigramme de l'Institut.]<sup>2</sup>
+
+Le Roi fixe, sur proposition de l'Institut et après accord des ministres de la Fonction publique et du Budget, (le statut administratif et) le cadre organique de l'Institut. &lt;L 2006-07-20/39, art. 89, 1°, 006; En vigueur : 23-04-2003&gt;
+
+(Le Roi fixe, sur proposition de l'Institut et après accord du ministre du Budget, le statut pécuniaire du personnel de l'Institut.) &lt;L 2006-07-20/39, art. 89, 2°, 006; En vigueur : 23-04-2003&gt;
+
+----------
+
+(1)&lt;L 2011-05-31/02, art. 7, 014; En vigueur : 01-07-2011&gt;
+
+(2)&lt;L 2021-12-21/05, art. 21, 024; En vigueur : 10-01-2022&gt;
+
+##### Art. 26bis
+
+&lt;Inséré par L 2007-04-25/38, art. 159; En vigueur : 18-05-2007&gt; § 1er. Le Roi détermine, par arrêté délibéré en Conseil des Ministres, les grades qui correspondent à des fonctions spécialisées, ainsi que les règlements administratifs et pécuniaires spécifiques relatifs à ces grades.
+
+Par dérogation au statut administratif et pécuniaire du personnel des organismes d'intérêt public, l'Institut peut recruter et employer du personnel en vertu d'un contrat de travail soumis à la loi du 3 juillet 1978 relative aux contrats de travail, afin :
+
+1° de répondre à des besoins exceptionnels et temporaires en personnel, qu'il s'agisse soit de la mise en oeuvre d'actions limitées dans le temps, soit d'un surcroît extraordinaire de travail;
+
+2° d'exécuter des tâches nécessitant une connaissance ou expérience de haute qualification;
+
+3° de remplacer des membres du personnel statutaire ou contractuel pendant des périodes d'absence temporaire, partielle ou totale;
+
+4° d'accomplir des tâches auxiliaires ou spécifiques.
+
+§ 2. La situation administrative et pécuniaire d'un membre du personnel statutaire de l'Institut ne peut jamais être moins favorable que celle d'un agent revêtu d'un grade équivalent de la Régie des télégraphes et des téléphones à la date qui précède celle de l'entrée en vigueur du présent article.
+
+Dans le présent paragraphe, on entend par situation pécuniaire tout ce qui a trait à la rémunération au sens large, notamment, le traitement, le pécule de vacances, les allocations, les indemnités, les primes et les avantages sociaux de toute nature.
+
+#### Sous-section 3. - Fonctionnement.
+
+##### Art. 27
+
+Les membres du personnel de l'Institut ne peuvent avoir un intérêt quel qu'il soit dans les entreprises actives sur les marchés des télécommunications et/ou des services postaux [<sup>1</sup> et/ou des services intermédiaires]<sup>1</sup>, ni exercer pour celles-ci directement ou indirectement, à titre gratuit ou onéreux, la moindre fonction ou prester le moindre service et ce pendant toute la durée de l'exercice de leur fonction au sein de l'Institut.
+
+----------
+
+(1)&lt;L 2024-04-21/06, art. 14, 031; En vigueur : 25-05-2024&gt;
+
+##### Art. 28
+
+Les membres du personnel de l'Institut sont soumis au secret professionnel et ne peuvent communiquer à des tiers les informations confidentielles dont ils ont eu connaissance dans le cadre de l'exercice de leur fonction, hormis les exceptions prévues par la loi.
+
+L'obligation prévue à l'alinéa 1er ci-dessus reste d'application après la cessation de l'exercice de leurs fonctions par les membres du personnel de l'Institut.
+
+## CHAPITRE IV. - Financement.
+
+##### Art. 29
+
+L'Institut jouit d'une autonomie de gestion financière. L'ensemble des frais de fonctionnement sont supportés par les ressources de l'Institut.
+
+##### Art. 30
+
+&lt;L 2006-07-20/39, art. 66, 006; En vigueur : 07-08-2006&gt; § 1er. Les ressources de l'Institut comprennent :
+
+1° les legs et donations en sa faveur;
+
+2° les revenus occasionnels;
+
+3° toutes autres recettes légales et reglementaires liées à son action et les indemnités pour prestations;
+
+4° l'ensemble des redevances perçues en vertu des titres III et IV de la loi du 21 mars 1991 (ainsi que l'ensemble des redevances perçues sur la base de la loi du 13 juin 2005 relative aux communications électroniques et [<sup>1</sup> la loi du 5 mai 2017 relative aux services de médias audiovisuels en région bilingue de Bruxelles-Capitale]<sup>1</sup>); &lt;L 2007-03-16/41, art. 61, 008; En vigueur : 15-04-2007&gt;
+
+5° le remboursement des frais liés à la gestion et la surveillance du service postal universel selon les dispositions applicables de la loi du 21 mars 1991;
+
+6° le remboursement des frais liés à la gestion et la surveillance du service de télécommunications universel selon les dispositions applicables de la loi du 13 juin 2005 relative aux communications électroniques. Les redevances administratives telles que visées à l'article 29 de la loi précitée du 13 juin 2005 sont notamment affectées à la couverture des frais visés dans le présent alinéa.
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 4. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 5. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 6. Sans préjudice d'autres dispositions applicables, les montants des redevances perçues par l'Institut sont fixés par arrêté royal sur avis de l'Institut.
+
+En ce qu'ils établissent une rémunération à caractère général du fonctionnement de l'Institut, les arrêtés existants visés à l'alinéa précédent sont censés être abrogés par la présente loi s'ils n'ont pas été confirmés par la loi dans les douze mois de l'entrée en vigueur de la loi du 20 juillet 2006 portant des dispositions diverses.
+
+Les autres arrêtés royaux qui établissent une rémunération à caractère général du fonctionnement de l'Institut sont abrogés avec effet rétroactif s'ils n'ont pas été confirmés par la loi dans les douze mois de leur entrée en vigueur.
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 22,1°, 024; En vigueur : 10-01-2022&gt;
+
+(2)&lt;L 2021-12-21/05, art. 22,2°, 024; En vigueur : 30-06-2015&gt;
+
+##### Art. 31
+
+Les contributions de l'Etat belge au sein d'instances ou organismes nationaux ou internationaux responsables des secteurs des télécommunications ou des services postaux sont à charge de l'Institut.
+
+##### Art. 31/1
+
+[<sup>1</sup> L'Institut contribue aux frais de fonctionnement du Conseil central de l'économie tel qu'institué par l'article XIII.1er du Code de droit économique à concurrence d'un montant annuel de 50.982,90 euros. Ce montant est lié à l'indice-pivot 138,01.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-03/21, art. 55, 032; En vigueur : 10-06-2024&gt;
+
+##### Art. 32
+
+§ 1er. L'Institut rétrocède à l'Etat le solde des ressources lorsque ces ressources excèdent les frais de fonctionnement de l'Institut.
+
+§ 2. L'Institut ne peut s'engager au-delà de la couverture globale des frais de fonctionnement.
+
+§ 3. L'Institut établit les règles qui président au mode de calcul et à la fixation du montant maximum :
+
+a) des dotations aux fonds de roulement;
+
+b) des réserves spéciales et autres provisions qui sont nécessaires en raison de la nature des activités de l'Institut.
+
+Les règles définies à l'alinéa 1er sont approuvées par le Ministre du Budget.
+
+##### Art. 33
+
+L'Institut est assimile à l'Etat pour l'application des lois et règlements relatifs aux impôts directs, taxes, droits et redevances de l'Etat, des régions et communautés, des provinces, des communes et des agglomérations de communes ou toute autre entité étatique. [<sup>1</sup> En l'absence de paiement dans les délais fixés, l'Institut peut charger l'Administration de la taxe sur la valeur ajoutée, de l'enregistrement et des domaines, du recouvrement par voie de contrainte des redevances administratives concernées, conformément à l'article 3 de la loi domaniale du 22 décembre 1949. Tous les montants recouvrés sont versés à l'Institut.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-12-21/05, art. 23, 024; En vigueur : 10-01-2022&gt;
+
+## CHAPITRE V. - Contrôle.
+
+##### Art. 34
+
+[<sup>1</sup> [<sup>4</sup> ...]<sup>4</sup>
+
+[<sup>2</sup> Le Conseil établit, dans les douze semaines après l'entrée en fonction de ses membres et tous les trois ans, un plan stratégique triennal. [<sup>4</sup> ...]<sup>4</sup>. Tous les membres composant le Conseil présentent le plan stratégique [<sup>4</sup> ...]<sup>4</sup> à la Chambre des représentants.]<sup>2</sup>
+
+Le Conseil prépare alors un plan d'activité annuel qui s'inscrit dans le plan stratégique. Ce plan annuel est soumis à consultation publique durant [<sup>4</sup> minimum]<sup>4</sup> deux semaines avant d'être publié sur le site de l'Institut.
+
+Le Conseil transmet au gouvernement un rapport annuel sur ses activités et l'évolution des marchés des services postaux et des télécommunications. Ce rapport annuel contient, entre autres, un rapport financier et les comptes annuels des fonds pour les services universels en matière de services postaux et de télécommunications [<sup>3</sup> , ainsi qu'un rapport sur le contrôle visé à l'article 21]<sup>3</sup>. Il est mis à la disposition du public [<sup>3</sup> au plus tard le 1er juin de l'année suivante]<sup>3</sup>.
+
+Tous les membres composant le Conseil sont entendus chaque année par la Chambre des représentants dans le mois qui suit la publication du rapport d'activités annuel.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-05-31/02, art. 8, 014; En vigueur : 01-07-2011&gt;
+
+(2)&lt;L 2012-07-10/04, art. 11, 015; En vigueur : 04-08-2012&gt;
+
+(3)&lt;L 2014-03-27/35, art. 9, 016; En vigueur : 08-05-2014&gt;
+
+(4)&lt;L 2015-03-16/12, art. 3, 017; En vigueur : 17-04-2015&gt;
+
+##### Art. 35
+
+§ 1er. Le projet de budget de l'Institut est élaboré par le Conseil et est approuvé par les Ministres du Budget et de Finances [<sup>1</sup> et rendu public par l'Institut]<sup>1</sup>.
+
+[<sup>2</sup> Par dérogation à l'article 126, § 2, de la loi du 22 mai 2003 portant organisation du budget et de la comptabilité de l'Etat fédéral, le Conseil procède seul aux transferts de crédits visés à l'article 91, alinéa 1er, de la même loi.]<sup>2</sup>
+
+Le budget est communiqué à la Chambre des Représentants.
+
+§ 2. Les comptes de l'Institut sont élaborés par le Conseil et approuvés par les Ministres du Budget et des Finances.
+
+§ 3. Avant le 31 mai de l'année suivant l'exercice concerné, le Ministre des Finances communique les comptes annuels de l'Institut accompagnés du rapport d'activités à la Cour des comptes pour vérification. La Cour des comptes peut exercer son contrôle sur place.
+
+----------
+
+(1)&lt;L 2012-07-10/04, art. 12, 015; En vigueur : 04-08-2012&gt;
+
+(2)&lt;L 2021-12-21/05, art. 24, 024; En vigueur : 10-01-2022&gt;
+
+##### Art. 36
+
+Le Ministre du Budget exerce, selon les modalités fixées par le Roi, un pouvoir de contrôle sur les décisions de l'Institut qui ont une incidence financière et budgétaire.
+
+## CHAPITRE VI. - Dispositions diverses.
+
+##### Art. 37
+
+§ 1er. Le Roi peut, par arrêté royal déliberé en Conseil des ministres, (avant le 31 décembre 2007), abroger, compléter, modifier ou remplacer les dispositions de cette loi, afin de prendre toutes les mesures nécessaires pour exécuter les obligations découlant des directives en vigueur de l'Union européenne. &lt;L 2007-04-25/38, art. 163, 009; En vigueur : 18-05-2007&gt;
+
+L'avis de la section législation du Conseil d'Etat est publié en même temps que le rapport au Roi de l'arreté royal y relatif.
+
+§ 2. L'arrêté royal pris en exécution du § 1er de cet article est abrogé lorsqu'il n'est pas confirme par la loi dans les quinze mois qui suivent sa publication au Moniteur belge.
+
+## CHAPITRE VII. - Dispositions pénales.
+
+##### Art. 38
+
+Est punie d'une amende de 1 à 1.000 EUR toute personne qui méconnaît les obligations lui incombant en vertu l'article 17, § 3, alinéa 2 et de l'article 27.
+
+Toute violation des obligations de secret professionnel visées aux articles 23 et 28 est punie des peines prévues à l'article 458 du Code pénal. Les dispositions du livre premier du Code pénal, sans exception du chapitre VII et de l'article 85, sont applicables à ces infractions.
+
+Les articles 269 à 274 du Code pénal sont d'application à l'égard des officiers de police judiciaire agissant dans l'exercice de leurs fonctions.
+
+Toute entrave à l'exécution des missions des officiers de police judiciaire de l'Institut expose celui qui en est coupable à la sanction prévue à l'article 114, § 3 de la loi du 21 mars 1991.
+
+## CHAPITRE VIII. - Dispositions modificatives et finales.
+
+##### Art. 39
+
+L'article 14 de la loi du 30 juillet 1979 est abroge.
+
+##### Art. 40
+
+Les modifications suivantes sont apportées à la loi du 30 juillet 1979 :
+
+1° à l'article 3, § 1er les mots " du ministre, " sont remplacés par les mots " de l'Institut ";
+
+2° à l'article 6, alinéa 3, les mots " Le ministre " sont remplacés par les mots " L'Institut ";
+
+3° à l'article 8, modifié par la loi du 6 mai 1998, les mots " Le ministre ou son délégué " sont remplacés par les mots " L'Institut " et les mots " au ministre ou à son délégué " sont remplacés par les mots " à l'Institut ".
+
+##### Art. 41
+
+Sont abrogés, dans la loi du 21 mars 1991 :
+
+1° l'article 71, alinéas 2 et 3;
+
+2° l'article 72;
+
+3° (...); &lt;L 2003-04-08/33, art. 147, 002; En vigueur : 23-04-2003; NOTE : la loi L 2003-04-08/33, art. 147, stipule que l'article 41, alinéa 1er, 3° est abrogé le jour de la publication au Moniteur belge de l'arrêté royal visé à l'article 17, § 2, de la présente loi L 2003-01-17/30. Cet arrêté est mentionné succintement au M.B. du 23-04-2003, p. 21614-5, comme entrant en vigueur "le jour de la publication"; Justel a supposé que la mention succinte de cet arrêté était assimilable à sa publication.&gt;
+
+4° l'article 74, modifié par la loi du 10 novembre 1993;
+
+5° l'article 75, modifié par les lois du 19 décembre 1997 et du 3 juillet 2000;
+
+6° l'article 76;
+
+7° l'article 77;
+
+8° l'article 78, modifié par les lois du 12 décembre 1994, du 19 décembre 1997 et du 9 juin 1999;
+
+9° l'article 79;
+
+10° l'article 79bis, inséré par la loi du 19 décembre 1997;
+
+11° l'article 79ter, inséré par la loi du 19 décembre 1997 et modifié par l'arrêté royal du 4 mars 1999 et par la loi du 2 janvier 2001;
+
+12° l'article 109quater, remplacé par la loi du 19 décembre 1997 et modifié par l'arrêté royal du 4 mars 1999;
+
+13° l'article 110, modifie par la loi du 19 décembre 1997;
+
+14° l'article 115, modifié par la loi du 19 décembre 1997;
+
+15° l'article 116;
+
+16° l'article 120, remplacé par la loi du 19 décembre 1997;
+
+17° l'article 127;
+
+18° l'article 133, alinéa 4, 2°;
+
+19° l'article 133, alinéa 5, modifié par l'arrêté royal du 9 juin 1999;
+
+20° l'article 136, remplacé par la loi du 19 décembre 1997;
+
+21° l'article 137, insére par la loi du 19 décembre 1997;
+
+22° l'article 144duodecies, § 1er, inséré par l'arreté royal du 9 juin 1999 et modifié par la loi du 2 août 2002;
+
+23° l'article 144duodecies, § 2, alinéa 1er, modifié par l'arrêté royal du 13 juillet 2001.
+
+Les articles 80 et 81 de la loi du 21 mars 1991, modifiés par la loi du 19 décembre 1997, sont abrogés au jour de la publication au Moniteur belge de l'arrêté visé à l'article 3, § 2, alinéa 1.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-01-26/08, art. 33, 022; En vigueur : 10-02-2018&gt;
+
+##### Art. 42
+
+Les modifications suivantes sont apportées à la loi du 21 mars 1991 :
+
+1° à l'article 43bis, § 1er, 1°, inséré par la loi du 19 décembre 1997, les mots " du ministre qui a les télécommunications dans ses attributions " sont remplacés par les mots " de l'Institut ";
+
+2° à l'article 83, § 2, les mots " sur proposition de l'Institut, " sont supprimés;
+
+3° aux articles 84, § 3, alinéa 2, remplacé par la loi du 19 décembre 1997, et 86ter, § 2, alinéa 2, inséré par la loi du 19 décembre 1997, les mots " , sur avis de l'Institut " sont supprimés;
+
+4° à l'article 86, § 2, 3°, remplacé par la loi du 19 décembre 1997, les mots " , sur avis de l'Institut " sont supprimés ";
+
+5° à l'article 86ter, § 2, alinéa 3, inséré par la loi du 19 décembre 1997, les mots " et sur avis de l'Institut " sont supprimés;
+
+6° à l'article 87, § 1er, remplacé par la loi du 19 décembre 1997 et modifié par la loi du 21 décembre 1999, les mots " du ministre sur proposition de l'Institut " sont remplacés par les mots " de l'Institut ";
+
+7° à l'article 87, § 2, remplacé par la loi du 19 décembre 1997 et modifié par les arrêtés royaux des 4 mars 1999 et 21 décembre 1999, les mots " du ministre, après avis de l'Institut " sont remplacés par les mots " de l'Institut ";
+
+8° à l'article 89, § 4, remplacé par la loi du 19 décembre 1997, les mots " le ministre " sont remplacés par les mots " l'Institut " et les mots " , sur avis de l'Institut, " sont supprimés;
+
+9° aux articles 90bis, inséré par la loi du 19 décembre 1997, 92, remplacé par la loi du 19 décembre 1997 et modifié par l'arrêté royal du 4 mars 1999, et 105decies B les mots " Comité consultatif " sont remplacés par les mots " Comité consultatif pour les télécommunications ";
+
+10° à l'article 92bis, § 1er alinéa 1er, remplacé par la loi du 19 décembre 1997 et modifié par l'arrêté royal du 21 décembre 1999, les mots " par le ministre sur proposition de l'Institut " sont remplacés par les mots " par l'Institut ";
+
+11° à l'article 92bis, § 1er, alinéa 2, remplacé par la loi du 19 décembre 1997, les mots " le ministre attribue des autorisations individuelles. " sont remplacés par les mots " l'Institut attribue des autorisations individuelles ";
+
+12° à l'article 92bis, § 1er, alinéa 5, remplacé par la loi du 19 décembre 1997, les mots " par le ministre " sont remplacés par les mots " par l'Institut ";
+
+13° l'intitulé du Chapitre X est remplacé comme suit : " CHAPITRE X Opérateurs puissants, orientation sur les coûts et interconnexion. ";
+
+14° à l'article 109ter, § 2, inséré par la loi du 20 décembre 1995 et remplacé par la loi du 19 décembre 1997, les mots " et dans le rapport annuel visé à l'article 75, § 7 de la présente loi " sont supprimés;
+
+15° à l'article 144duodecies, § 2, l'alinéa 2, inséré par l'arrêté royal du 9 juin 1999, et l'alinéa 3, inséré par l'arrêté royal du 9 juin 1999 et modifié par l'arrêté royal du 13 juillet 2001, sont remplacés par la disposition suivante :
+
+" Sans préjudice de l'article 21, § 2, de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et des télécommunications belges, l'Institut peut en outre selon le cas retirer la licence individuelle et/ou rayer l'opérateur postal de la liste prévue à l'article 148ter.
+
+L'Institut applique, après avertissement et mise en demeure, une amende administrative d'un montant de 250 EUR au minimum et de 2.500 EUR au maximum à l'encontre de quiconque contracte de manière répétée avec un opérateur postal qui ne figure pas ou plus sur la liste publiée au Moniteur belge conformément à l'article 148ter ou à l'article 148sexies ";
+
+16° l'article 144duodecies, § 3, inséré par l'arrêté royal du 9 juin 1999, est remplacé par la disposition suivante :
+
+" Par dérogation à l'article 21, § 2, de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et des télécommunications belges, en cas d'exécution défaillante par le prestataire du service universel des obligations prévues à la section III du chapitre V du Titre IV concernant le service universel, l'Institut pourra, à la fin de chaque année civile, imposer au prestataire du service universel, pour chaque type de manquement, le paiement d'une indemnité ne pouvant excéder au total 1 % du chiffre d'affaires réalisé en matière de service universel.
+
+L'Institut peut imposer la même mesure si la cause invoquée à l'article 142, § 3, quatrième tiret, ne peut pas être qualifiée de force majeure;
+
+17° l'article 144duodecies, § 4, inséré par l'arrêté royal du 9 juin 1999, est remplacé par la disposition suivante :
+
+" Dans les cas prévus au § 3, la procédure prévue à l'article 21, § 1er, de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et des télécommunications belges est d'application.
+
+##### Art. 43
+
+A l'article 1er, A, de la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public, les mots " Institut belge des services postaux et des télécommunications " sont supprimes.
+
+##### Art. 44
+
+Les articles 1er et 2, 13 à 44 entrent en vigueur le jour de la publication au Moniteur belge de l'arrêté visé à l'article 17, § 2.
+
+Les articles 3 à 7 entrent en vigueur le jour de la publication au Moniteur belge de l'arrêté royal visé à l'article 3, § 2, alinéa 1.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+(NOTE : Entrée en vigueur des articles 1er et 2, 13 et 44 fixée le 23-04-2003 par DIVERS 2003-04-23/41, voir M.B. 23-04-2003, p. 21614.
+
+Entrée en vigueur des articles 3 à 7 visés par l'alinéa 2, fixée le 03-07-2006 (AR 2006-06-14/34)
+
+Pas encore d'entrée en vigueur pour les articles 8 à 12 visées par l'alinéa 3.)
+
+----------
+
+(1)&lt;L 2018-01-26/08, art. 34, 022; En vigueur : 10-02-2018&gt;
+
+---
+
+Promulguons la présente disposition, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 17 janvier 2003.
+
+ALBERT
+
+Par le Roi :
+
+Ministre des Télécommunications et des Entreprises et Participations publiques, chargé des Classes moyennes,
+
+R. DAEMS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

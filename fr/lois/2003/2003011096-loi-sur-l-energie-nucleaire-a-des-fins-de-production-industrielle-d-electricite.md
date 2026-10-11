@@ -1,0 +1,258 @@
+---
+title: "[ Loi sur l'énergie nucléaire à des fins de production industrielle d'électricité\"]"
+identifier: "2003011096"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/31/2003011096/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2003-01-31
+published: 2003-02-28
+entry_into_force: 2003-03-10
+last_amended: 2025-05-26
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2003/01/31/2003011096/justel"
+department: "Economie, PME, Classes moyennes et Energie"
+justel_note: "Consultation des versions antérieures à partir du 28-02-2003 et mise à jour au 26-05-2025"
+retrieved: 2026-10-11
+---
+
+# 31 JANVIER 2003. - [ Loi sur l'énergie nucléaire à des fins de production industrielle d'électricité"]
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE I. - Généralités.
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+### Art. 2
+
+Pour l'application de la présente loi, il y a lieu d'entendre par :
+
+1° [<sup>1</sup> ...]<sup>1</sup>
+
+2° " la loi du 15 avril 1994 " : loi du 15 avril 1994 relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de Contrôle nucléaire;
+
+[<sup>2</sup> 3° "la date de redémarrage": la date à laquelle, après la date de désactivation [<sup>3</sup> visée à l'article 4, § 3]<sup>3</sup>, les conditions suivantes sont rencontrées: (a) la centrale nucléaire destinée à la production industrielle d'électricité à partir de la fission de combustibles nucléaires concernée est connectée au réseau de transmission et cette connexion a fait l'objet d'une déclaration de l'exploitant nucléaire conformément à ses obligations de transparence en vertu du règlement (UE) n° 1227/2011 du Parlement européen et du Conseil du 25 octobre 2011 concernant l'intégrité et la transparence du marché de gros de l'énergie, et (b) la centrale nucléaire destinée à la production industrielle d'électricité à partir de la fission de combustibles nucléaires concernée, après une montée en puissance à une capacité nominale de production d'électricité d'au moins 85 % de (i) 1026 MWe en ce qui concerne la centrale nucléaire Doel 4 et (ii) 1030 MWe en ce qui concerne la centrale nucléaire Tihange 3, a maintenu un fonctionnement stable pendant une période d'au moins nonante-six heures à une capacité nominale de production d'électricité d'au moins 85 % de (i) 1026 MWe en ce qui concerne la centrale nucléaire Doel 4 et (ii) 1030 MWe en ce qui concerne la centrale nucléaire Tihange 3, tel que mesuré par l'instrumentation de la centrale nucléaire concernée et conformément aux bonnes pratiques en vigueur.]<sup>2</sup>
+
+[<sup>2</sup> Dès que possible après la date de redémarrage respective des centrales nucléaires Doel 4 et Tihange 3, le ministre qui a l'Energie dans ses attributions publie un avis officiel au Moniteur belge mentionnant la date de redémarrage de la centrale nucléaire.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-12-18/04, art. 2, 002; En vigueur : 03-01-2014&gt;
+
+(2)&lt;L 2024-04-26/41, art. 2, 006; En vigueur : 15-06-2024&gt;
+
+(3)&lt;L 2025-05-17/01, art. 4, 007; En vigueur : 05-06-2025&gt;
+
+### Art. 2 DROIT FUTUR
+
+Pour l'application de la présente loi, il y a lieu d'entendre par :
+
+1° [<sup>1</sup> ...]<sup>1</sup>
+
+2° " la loi du 15 avril 1994 " : loi du 15 avril 1994 relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de Contrôle nucléaire;
+
+[<sup>2</sup> 3° [<sup>4</sup> ...]<sup>4</sup>
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2013-12-18/04, art. 2, 002; En vigueur : 03-01-2014&gt;
+
+(2)&lt;L 2024-04-26/41, art. 2, 006; En vigueur : 15-06-2024&gt;
+
+(3)&lt;L 2025-05-17/01, art. 4, 007; En vigueur : 05-06-2025&gt;
+
+(4)&lt;L 2025-05-17/01, art. 26, 007; En vigueur : indéterminée &gt;
+
+## CHAPITRE II. [<sup>1</sup> Principes associés à la production industrielle d'électricité à partir de la fission de combustibles nucléaires ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2025-05-17/01, art. 3, 007; En vigueur : 05-06-2025&gt;
+
+### Art. 3
+
+&lt;Abrogé par L 2025-05-17/01, art. 5, 007; En vigueur : 05-06-2025&gt;
+
+### Art. 4
+
+§ 1er. [<sup>6</sup> ...]<sup>6</sup>
+
+§ 2. [<sup>6</sup> ...]<sup>6</sup>
+
+[<sup>2</sup> § 3. [<sup>4</sup> [<sup>6</sup> Les]<sup>6</sup> centrales nucléaires Doel 4 et Tihange 3 peuvent, après la date de désactivation [<sup>6</sup> respectivement du 1er juillet 2025 pour Doel 4 et du 1er septembre 2025 pour Tihange 3]<sup>6</sup>, produire, à partir de la date de redémarrage, de l'électricité de manière industrielle à partir de la fission de combustibles nucléaires, pour une période de 10 ans à compter de la date de redémarrage, étant entendu que les centrales nucléaires sont désactivées à la fin de cette période et au plus tard le 31 décembre 2037.
+
+[<sup>6</sup> Les autorisations individuelles d'exploitation des centrales nucléaires Doel 4 et Tihange 3 suivantes, délivrées pour une période sans limitation de durée par la Roi, restent intégralement d'application jusqu'à ce qu'elles soient adaptées en vertu de la loi du 15 avril 1994 ou de ses arrêtés d'exécution:
+
+a) celles délivrées en vertu de la loi du 29 mars 1958 relative à la protection de la population contre les dangers résultant des radiations ionisantes ainsi que sur la base de l'article 5 de l'arrêté royal du 28 février 1963 portant règlement général de la protection de la population et des travailleurs contre le danger des radiations ionisantes et qui restent d'application en vertu de l'article 66 de la loi du 15 avril 1994;
+
+b) celles délivrées sur la base de l'article 16 de la loi du 15 avril 1994, ainsi qu'en vertu des articles 5 et 6 de l'arrêté royal du 20 juillet 2001 portant règlement général de la protection de la population, des travailleurs et de l'environnement contre le danger des rayonnements ionisants]<sup>6</sup>.
+
+Les autorisations individuelles des centrales Doel 4 et Tihange 3 de production industrielle d'électricité à partir de la fission de combustibles nucléaires ne prennent pas fin à la date de désactivation visée au paragraphe 1er et restent en vigueur pendant la période visée à l'alinéa 1er.]<sup>4</sup>]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-12-18/04, art. 3, 002; En vigueur : 03-01-2014&gt;
+
+(2)&lt;L 2015-06-28/04, art. 2, 003; En vigueur : 06-07-2015&gt;
+
+(3)&lt;L 2022-10-11/02, art. 2, 005; En vigueur : 13-11-2022&gt;
+
+(4)&lt;L 2024-04-26/41, art. 3, 006; En vigueur : 15-06-2024&gt;
+
+(6)&lt;L 2025-05-17/01, art. 6, 007; En vigueur : 05-06-2025&gt;
+
+### Art. 4 DROIT FUTUR
+
+§ 1er. [<sup>3</sup> Les centrales nucléaires destinées à la production industrielle d'électricité à partir de la fission de combustibles nucléaires, sont désactivées aux dates suivantes et ne peuvent plus produire d'électricité dès cet instant:
+
+1° Doel 3: 1er octobre 2022;
+
+2° Tihange 2: 1er février 2023;
+
+3° Doel 4: 1er juillet 2025;
+
+4° Tihange 3: 1er septembre 2025;
+
+5° Tihange 1: 1er octobre 2025;
+
+6° Doel 2: 1er décembre 2025;
+
+7° Doel 1: 15 février 2025.]<sup>3</sup>
+
+§ 2. [<sup>1</sup> Dans les autorisations individuelles d'exploitation et de production industrielle d'électricité à partir de la fission de combustibles nucléaires, délivrées pour une période sans limitation de durée par le Roi,
+
+a) en vertu de la loi du 29 mars 1958 relative à la protection de la population contre les dangers résultants des radiations ionisantes ainsi que sur base de l'article 5 de l'arrêté royal du 28 février 1963 portant règlement général de la protection de la population et des travailleurs contre le danger des radiations ionisantes et qui restent d'application en vertu de l'article 52 de la loi du 15 avril 1994;
+
+b) sur base de l'article 16 de la loi du 15 avril 1994, ainsi qu'en vertu des articles 5 et 6 de l'arrêté royal du 20 juillet 2001 portant règlement général de la protection de la population, des travailleurs et de l'environnement contre le danger des rayonnements ionisants;
+
+les dispositions relatives à la permission de production industrielle d'électricité à partir de la fission de combustibles nucléaires prennent fin à la date mentionnée au paragraphe 1er. Les autres dispositions restent intégralement d'application jusqu'à ce qu'elles soient adaptées en vertu de la loi du 15 avril 1994 ou de ses arrêtés d'exécution.]<sup>1</sup>
+
+[<sup>2</sup> § 3[<sup>5</sup> ...]<sup>5</sup>
+
+----------
+
+(1)&lt;L 2013-12-18/04, art. 3, 002; En vigueur : 03-01-2014&gt;
+
+(2)&lt;L 2015-06-28/04, art. 2, 003; En vigueur : 06-07-2015&gt;
+
+(3)&lt;L 2022-10-11/02, art. 2, 005; En vigueur : 13-11-2022&gt;
+
+(4)&lt;L 2024-04-26/41, art. 3, 006; En vigueur : 15-06-2024&gt;
+
+(5)&lt;L 2025-05-17/01, art. 26, 007; En vigueur : indéterminée &gt;
+
+### Art. 4/1
+
+[<sup>1</sup> § 1er. Les propriétaires de la centrale nucléaire Tihange 1 versent à l'Etat, chacun au prorata de sa part indivise et sans solidarité entre eux, une redevance annuelle, calculée conformément au paragraphe 2, en contrepartie de la prolongation de la durée d'exploitation de la centrale jusqu'au 30 septembre 2025.
+
+§ 2. La redevance annuelle visée au paragraphe 1er est établie pour la période du 1er octobre au 31 décembre 2015, pour chacune des années calendrier de 2016 à 2024 et pour la période du 1er janvier au 30 septembre 2025. Elle est due au 15 avril de l'année qui suit la période pour laquelle elle est établie.
+
+Ladite redevance correspond, pour chaque période, à 70 pourcent de la différence positive entre, d'une part, le produit de la vente de l'électricité de la centrale nucléaire Tihange 1, établi comme prévu à l'alinéa 3, et, d'autre part, la somme des postes suivants :
+
+1° l'ensemble des charges réelles liées à l'exploitation de la centrale, en ce compris les amortissements relatifs aux investissements de jouvence requis, et
+
+2° une rémunération globale nette de 9,3 pourcent appliquée aux investissements de jouvence, destinée à couvrir le coût du capital mobilisé par ces investissements et les risques spécifiques du projet, mesurés de façon comparative dans un environnement international.
+
+Les propriétaires de la centrale nucléaire Tihange 1 ont la libre disposition de l'électricité produite par la centrale. Pour le calcul de ladite redevance, le produit de la vente de l'électricité de la centrale est établi sur la base de la production maximale de celle-ci, à une disponibilité de 100 pourcent, qui est réputée être vendue, au prix du marché, pour un tiers à terme deux ans à l'avance, pour un tiers à terme un an à l'avance et pour un tiers le jour avant le jour de production. Ce produit est régularisé en fonction de la quantité réellement produite par la prise en compte du prix des volumes achetés pour compenser des volumes non produits lors des périodes d'indisponibilité.
+
+Lorsque, pour une période, le produit de la vente ainsi établi est inférieur à la somme des postes visés à l'alinéa 2, 1° et 2°, la différence négative est portée en déduction du produit de vente des périodes suivantes, étant entendu qu'un solde négatif subsistant au 30 septembre 2025 demeure à charge des propriétaires.
+
+§ 3. Sans préjudice des missions qui lui sont confiées par la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité, la Commission de Régulation de l'Electricité et du Gaz est chargée d'une mission spéciale de vérification des revenus et des charges visés au paragraphe 2. Les propriétaires de la centrale nucléaire Tihange 1 communiquent à la Commission toutes les données dont celle-ci a besoin aux fins de cette vérification.
+
+§ 4. La redevance visée au paragraphe 1er exclut [<sup>2</sup> , jusqu'au 30 septembre 2025,]<sup>2</sup> toutes autres charges en faveur de l'Etat (à l'exception des impôts d'application générale) qui seraient liées à la propriété ou à l'exploitation de la centrale nucléaire Tihange 1, aux revenus, production ou capacité de production de cette centrale ou à l'utilisation par celle-ci de combustible nucléaire.
+
+§ 5. L'Etat peut conclure une convention avec les propriétaires de la centrale nucléaire Tihange 1 en vue de :
+
+1° préciser les modalités de calcul de chacune des composantes de la redevance visée au paragraphe 1er, de l'imputation d'éventuelles différences négatives sur les revenus des périodes suivantes, et de la vérification des revenus et charges liés à l'exploitation de la centrale; et
+
+2° régler l'indemnisation des propriétaires en cas d'arrêt définitif anticipé de la centrale imposé par les autorités publiques ou en cas d'actes unilatéraux de l'Etat fédéral qui auraient pour effet soit de modifier les paramètres économiques définis dans la convention soit de réduire la capacité des propriétaires à rentabiliser les investissements de jouvence consentis pour la prolongation de l'exploitation de la centrale nucléaire de Tihange 1.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-18/04, art. 4, 002; En vigueur : 03-01-2014&gt;
+
+(2)&lt;L 2025-05-17/01, art. 7, 007; En vigueur : 05-06-2025&gt;
+
+### Art. 4/2
+
+[<sup>1</sup> § 1er. Le propriétaire des centrales nucléaires Doel 1 et Doel 2 verse à partir de l'année 2016, jusqu'en 2025 inclus à l'Etat fédéral une redevance annuelle en contrepartie de la prolongation de la durée de permission de production industrielle d'électricité à partir de la fission de combustibles nucléaires.
+
+Le montant global de la redevance annuelle est fixé à 20 millions d'euros pour les deux centrales nucléaires. Ce montant est versé au plus tard le 30 juin de chacune des années, visées à l'alinéa 1er, au Fonds de transition énergétique, visé à l'article 4ter de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité.
+
+En cas d'arrêt définitif de l'une des centrales visées à l'alinéa 1er, imposé par les autorités publiques en vertu de la loi du 15 avril 1994 pour des raisons impératives de sûreté nucléaire, ou en exécution d'une décision contraignante de toute institution européenne ou internationale compétente imposant l'arrêt définitif anticipé de Doel 1 ou de Doel 2, la redevance annuelle est réduite de manière proportionnelle à la durée d'indisponibilité de la centrale concernée pour l'année en cours. La réduction est fixée par le Roi, par arrêté délibéré en Conseil des ministres. Dans ce cas, la redevance n'est plus due pour les années ultérieures.
+
+§ 2. La redevance, visée au paragraphe 1er, exclut [<sup>2</sup> , jusqu'au 31 décembre 2025,]<sup>2</sup> toutes autres charges en faveur de l'Etat fédéral (à l'exception des impôts d'application générale et des taxes annuelles en vertu de la loi du 15 avril 1994) qui seraient liées à la propriété ou à l'exploitation des centrales nucléaires Doel 1 et Doel 2, aux revenus, à la production ou à la capacité de production de ces centrales, ou à l'utilisation par celles-ci de combustible nucléaire.
+
+§ 3. L'Etat fédéral conclut une convention avec le propriétaire des centrales nucléaires Doel 1 et Doel 2 notamment en vue de:
+
+1° préciser les modalités de paiement de la redevance, visée au paragraphe 1er;
+
+2° régler l'indemnisation des parties en cas de non-respect des dispositions de la convention, en cas d'arrêt temporaire ou définitif anticipé de Doel 1 ou de Doel 2, ou en cas d'actes unilatéraux d'une partie contractante et, en ce qui concerne exclusivement l'Etat fédéral, d'actes unilatéraux dans le respect de ses compétences, qui auraient pour effet de modifier les paramètres économiques définis dans la convention.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-10-11/02, art. 3, 005; En vigueur : 13-11-2022&gt;
+
+(2)&lt;L 2025-05-17/01, art. 8, 007; En vigueur : 05-06-2025&gt;
+
+## CHAPITRE III. - Dispositions modificatives et finales.
+
+### Art. 5
+
+&lt;Abrogé par L 2025-05-17/01, art. 9, 007; En vigueur : 05-06-2025&gt;
+
+### Art. 6
+
+&lt;Abrogé par L 2025-05-17/01, art. 10, 007; En vigueur : 05-06-2025&gt;
+
+### Art. 7
+
+&lt;Abrogé par L 2025-05-17/01, art. 11, 007; En vigueur : 05-06-2025&gt;
+
+### Art. 8
+
+L'article 23, § 2, deuxième alinéa, de la même loi, modifié par la loi du 16 juillet 2001 est complété comme suit :
+
+" 18° assure le suivi de la sécurité d'approvisionnement en matière d'électricité, signale d'éventuels problèmes et formule le cas échéant, des recommandations à ce sujet. "
+
+### Art. 9
+
+&lt;Abrogé par L 2013-12-18/04, art. 5, 002; En vigueur : 03-01-2014&gt;
+
+### Art. 10
+
+Lorsqu'il est procédé à la fermeture d'une centrale nucléaire, un plan d'accompagnement social doit être élaboré pour les travailleurs concernés, en concertation avec les partenaires sociaux.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 31 janvier 2003.
+
+ALBERT
+
+Par le Roi :
+
+La Vice-Première Ministre, Ministre de la Mobilité et des Transports,
+
+Mme I. DURANT
+
+Le Secrétaire d'Etat à l'Energie et au Développement durable,
+
+O. DELEUZE
+
+Scellé du sceau de l'Etat,
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

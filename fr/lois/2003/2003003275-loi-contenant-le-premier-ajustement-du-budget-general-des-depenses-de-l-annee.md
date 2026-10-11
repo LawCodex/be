@@ -1,0 +1,82 @@
+---
+title: "Loi contenant le premier ajustement du Budget général des dépenses de l'année budgétaire 2003, Section 19. - Régie des Bâtiments."
+identifier: "2003003275"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/11/2003003275/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2003-04-11
+published: 2003-05-26
+entry_into_force: 2003-05-26
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2003/04/11/2003003275/justel"
+department: "Budget et Contrôle de la gestion"
+retrieved: 2026-10-11
+---
+
+# 11 AVRIL 2003. - Loi contenant le premier ajustement du Budget général des dépenses de l'année budgétaire 2003, Section 19. - Régie des Bâtiments.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74, 3°, de la Constitution.
+
+## Art. 2
+
+&lt;L 2003-12-22/64, art. 2.19.1, 002; En vigueur : 09-04-2004&gt; A l'article 2.19.2 de la loi du 27 décembre 2002 contenant le Budget général des dépenses pour l'année budgétaire 2003, le montant de 95.453.376 euros est remplacé par 135.889.395 euros.
+
+En outre, le tableau est remplacé par le tableau suivant :
+
+Montant maximum A engager
+
+a financer en 2003
+
+\- -
+
+Ittre, nouvelle prison 39.107.069 1.952.332
+
+Courtrai, nouveau palais de justice 21.318.843 749.301
+
+Hasselt, nouvelle prison 49.578.705 5.651.624
+
+Louvain, police federale (site Philips) 13.622.516 13.622.516
+
+Mons, nouveau palais de Justice 56.100.000 46.913.622
+
+Liege, nouveau palais de Justice 74.368.057 67.000.000
+
+Anvers, nouveau palais de justice 218.566.764 0
+
+Mons, extension palais de Justice 13.634.144 0
+
+## Art. 3
+
+Cette loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 11 avril 2003.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre du Budget,
+
+J. VANDE LANOTTE
+
+Le Ministre des Télécommunications et des Entreprises et Participations publiques,
+
+R. DAEMS
+
+Vu et scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.
