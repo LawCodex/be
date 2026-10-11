@@ -1,0 +1,60 @@
+---
+title: "Loi relevant de caducité certains projets de loi réglant une matière visée à l'article 78 de la Constitution."
+identifier: "2008202061"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/08/2008202061/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2008-06-08
+published: 2008-06-16
+entry_into_force: 2008-06-16
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2008/06/08/2008202061/justel"
+department: "Chancellerie du Premier Ministre"
+retrieved: 2026-10-11
+---
+
+# 8 JUIN 2008. - Loi relevant de caducité certains projets de loi réglant une matière visée à l'article 78 de la Constitution.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+En vertu de l'article 2, alinéa 2, de la loi du 5 mai 1999 relative aux effets de la dissolution des Chambres législatives à l'égard des projets et propositions de loi dont elles sont saisies, les Chambres restent saisies des projets de loi ci-après énumérés :
+
+1° projet de loi modifiant le Code judiciaire en vue d'instituer une immunité d'exécution à l'égard des avoirs de banques centrales étrangères et d'autorités monétaires internationales (projet transmis par la Chambre des représentants le 19 avril 2007 - Sénat, Doc. n° 3-2418/1);
+
+2° projet de loi modifiant l'article 8bis de la loi du 27 février 1987 relative aux allocations aux personnes handicapées, en vue de réduire le délai de confirmation d'un handicap (projet transmis par le Sénat le 24 avril 2007 - Chambre, Doc. 51 3087/001);
+
+3° projet de loi modifiant le Code des sociétés en vue d'instaurer la participation à distance à l'assemblée générale (projet transmis par le Sénat le 26 avril 2007 - Chambre, Doc. 51 3114/001).
+
+## Art. 3
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 8 juin 2008.
+
+ALBERT
+
+Par le Roi :
+
+Le Premier Ministre,
+
+Y. LETERME
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+J. VANDEURZEN.

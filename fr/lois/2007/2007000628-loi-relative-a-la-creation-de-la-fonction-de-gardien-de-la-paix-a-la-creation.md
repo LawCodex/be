@@ -1,0 +1,462 @@
+---
+title: "Loi relative à la création de la fonction de gardien de la paix, à la création du service des gardiens de la paix et à la modification de l'article 119bis de la nouvelle loi communale."
+identifier: "2007000628"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/15/2007000628/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2007-05-15
+published: 2007-06-29
+entry_into_force: 2007-07-09
+last_amended: 2026-06-23
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/15/2007000628/justel"
+department: "Intérieur"
+justel_note: "Consultation des versions antérieures à partir du 29-06-2007 et mise à jour au 23-06-2026"
+retrieved: 2026-10-11
+---
+
+# 15 MAI 2007. - Loi relative à la création de la fonction de gardien de la paix, à la création du service des gardiens de la paix et à la modification de l'article 119bis de la nouvelle loi communale.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+### Art. 1
+
+La présente loi régit une matière telle que visée à l'article 78 de la Constitution.
+
+## CHAPITRE Ier. - Champ d'application.
+
+### Art. 2
+
+&lt;L 2008-07-24/35, art. 147, 002; En vigueur : 17-08-2008&gt; La commune qui emploie des personnes pour l'exercice des activités visées à l'article 3, § 1er, ci-après dénommée la commune organisatrice, crée par décision du conseil communal, un " service de gardiens de la paix ".
+
+Ce service peut comprendre :
+
+1° des personnes directement engagées par la commune organisatrice;
+
+2° des personnes mises à disposition de la commune organisatrice par le biais d'une Agence Locale pour l'Emploi ou à l'intervention d'une personne morale qu'elle crée.
+
+La commune organisatrice conclut avec l'Agence Locale pour l'Emploi ou avec la personne morale créée une convention précisant les modalités de la mise à disposition des personnes visées à l'alinéa 2, 2°.
+
+Cette convention prévoit notamment que les personnnes mises à disposition font partie du service gardiens de la paix et que les dispositions de la présente loi leur sont directement applicables.
+
+### Art. 3
+
+(§ 1er) [<sup>1</sup> Les personnes qui font partie du service des gardiens de la paix sont chargées]<sup>1</sup> de missions de sécurité et de prévention dans le but d'accroître le sentiment de sécurité des citoyens et de prévenir les nuisances publiques et la criminalité par le biais d'une ou plusieurs des activités suivantes : &lt;L 2008-07-24/35, art. 148, 1°, 002; En vigueur : 17-08-2008&gt;
+
+1° la sensibilisation du public à la sécurité et à la prévention de la criminalité;
+
+2° l'information des citoyens en vue de garantir le sentiment de sécurité ainsi que l'information et le signalement aux services compétents des problèmes de sécurité, d'environnement et de voirie;
+
+3° l'information des automobilistes au sujet du caractère gênant ou dangereux du stationnement fautif et la sensibilisation de ceux-ci au respect du règlement général sur la police de la circulation routière et à l'utilisation correcte de la voie publique, ainsi que l'aide pour assurer la sécurité de la traversée d'enfants, d'écoliers, de personnes handicapées ou âgées;
+
+4° [<sup>2</sup> sans préjudice de l'article 21, § 1er, 1°, de la loi du 24 juin 2013 relative aux sanctions administratives communales, la constatation d'infractions aux règlements et ordonnances communaux dans le cadre de ladite loi, pour autant qu'il s'agisse d'infractions qui peuvent exclusivement faire l'objet de sanctions administratives ou d'infractions telles que visées à l'article 3, 3°, de la loi précitée;]<sup>2</sup>
+
+[<sup>2</sup> 4° /1 en ce qui concerne les constatations d'infractions en matière d'arrêt et de stationnement, ces personnes doivent satisfaire aux conditions minimales visées à l'article 21, § 1er, 1 °, de la loi du 24 juin 2013 relative aux sanctions administratives communales.]<sup>2</sup>
+
+5° l'exercice d'une surveillance de personnes en vue d'assurer la sécurité lors d'événements organisés par les autorités.
+
+[<sup>1</sup> 6° la présence dissuasive en vue de prévenir les conflits entre personnes, y compris l'intervention non violente en cas de constatation de conflit verbal entre personnes;
+
+7° l'accompagnement d'enfants scolarisés qui se déplacent en groupe, à pied ou à vélo, de leur domicile à l'école et inversement.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> Le conseil communal ou les conseils communaux de la commune organisatrice ou des communes organisatrices peut ou peuvent également charger les gardiens de la paix-constatateurs de la constatation exclusivement limitée à la situation immédiatement perceptible de biens qui ouvre, pour la commune, le droit au prélèvement d'un impôt ou d'une redevance.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-01-13/08, art. 2, 003; En vigueur : 09-02-2014&gt;
+
+(2)&lt;L 2018-07-15/08, art. 38, 005; En vigueur : 05-10-2018&gt;
+
+### Art. 4
+
+[<sup>1</sup> Les personnes qui font partie du service des gardiens de la paix peuvent exercer leurs activités exclusivement :]<sup>1</sup>
+
+1° [<sup>1</sup> (pour les activités visées à l'article 3, § 1er, 1° à 4° et 6° et 7°]<sup>1</sup>° et/ou § 2), sur la voie publique et dans des lieux publics faisant partie du territoire de la commune organisatrice [<sup>1</sup> sont considérées comme voies publiques toutes les voiries et places qui appartiennent au réseau public et auxquelles l'usager de la route a normalement accès librement et à tout moment; est considéré comme lieu public la voie publique et les terrains qui font partie du domaine public et qui sont accessibles au public;]<sup>1</sup>; &lt;L 2008-07-24/35, art. 149, a, 002; En vigueur : 17-08-2008&gt;
+
+2° pour l'(activité visée à l'article 3, § 1er, 5°), dans tous les lieux dans lesquels les autorités organisent ces événements sur le territoire de la commune organisatrice. &lt;L 2008-07-24/35, art. 149, b, 002; En vigueur : 17-08-2008&gt;
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, 1°, les activités visées à l'article 3, § 1er, 1° à 7°, peuvent aussi être organisées dans les lieux accessibles au public désignés par le Collège des bourgmestre et échevins.
+
+Au sens de la présente loi est considéré comme lieu accessible au public : tout lieu relevant du domaine public, à l'exclusion des lieux dont la gestion a été transférée à un concessionnaire, où d'autres personnes que le gestionnaire et les personnes qui y travaillent ont accès soit parce qu'elles sont censées avoir accès habituellement à ce lieu, soit parce qu'elles y sont autorisées sans être invitées personnellement.
+
+Par dérogation à l'alinéa 1er, 1°, les activités visées à l'article 3, § 1er, 1° et 2°, peuvent aussi être effectuées dans les parties communes des complexes de logements sociaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-01-13/08, art. 3, 003; En vigueur : 09-02-2014&gt;
+
+### Art. 5
+
+[<sup>1</sup> Par dérogation à l'article 4, alinéa 1er, 1°, les personnes qui font partie du service des gardiens de la paix peuvent exercer leurs activités dans les mêmes conditions que les personnes qui font partie du service des gardiens de la paix de la commune organisatrice, dans les lieux suivants et au profit des personnes morales suivantes :]<sup>1</sup>
+
+1° sur la voie publique et dans les lieux publics faisant partie du territoire d'une [<sup>1</sup> autre commune que la commune organisatrice]<sup>1</sup>, ci-après dénommée " commune bénéficiaire ";
+
+2° [<sup>1</sup> dans les domaines qui appartiennent à une personne morale de droit public, après l'accord de la précitée;]<sup>1</sup>
+
+3° dans l'infrastructure d'une société de transports en commun située sur le territoire de la commune organisatrice ou bénéficiaire, ci-après dénommée " société de transports en commun bénéficiaire ".
+
+[<sup>1</sup> Par dérogation à l'article 4, alinéa 1er, 2°, les personnes qui font partie du service des gardiens de la paix peuvent exercer leurs activités dans les mêmes conditions que les personnes qui font partie du service des gardiens de la paix de la commune organisatrice, dans tous les lieux où l'autorité organise ses événements sur le territoire de la commune bénéficiaire.]<sup>1</sup>
+
+Préalablement à l'exercice des activités visées aux alinéas 1er et 2, la commune organisatrice établit une convention écrite avec la commune bénéficiaire, la province bénéficiaire ou la société de transports en commun bénéficiaire, selon le cas.
+
+----------
+
+(1)&lt;L 2014-01-13/08, art. 4, 003; En vigueur : 09-02-2014&gt;
+
+## CHAPITRE II. - Création d'un service des gardiens de la paix.
+
+### Art. 6
+
+§ 1er. La commune organisatrice rend publique par une décision du conseil communal la création du service des gardiens de la paix, [<sup>1</sup> la définition des activités des personnes qui font partie du service des gardiens de la paix]<sup>1</sup>, le nom du fonctionnaire communal chargé de diriger ce service et la manière dont les citoyens peuvent déposer plainte contre le service des gardiens de la paix auprès de la commune organisatrice.
+
+Lorsqu'il est prévu d'exercer des activités au profit d'une commune bénéficiaire, le conseil communal de celle-ci entérine, dans une de ses décisions, la convention écrite qui a été conclue avec la commune organisatrice.
+
+La commune organisatrice et, le cas échéant, la commune bénéficiaire transmettent au ministre de l'Intérieur la décision du conseil communal visant à créer le service des gardiens de la paix et, le cas échéant, à entériner la convention conclue entre la commune organisatrice et la commune bénéficiaire et ce, dans les trois mois qui suivent la prise de la décision.
+
+§ 2. [<sup>1</sup> Les missions des personnes qui font partie du service]<sup>1</sup> des gardiens de la paix exercées au profit d'une commune organisatrice ou bénéficiaire doivent s'inscrire dans le cadre de la politique de sécurité et de prévention de la commune organisatrice ou de la commune bénéficiaire, selon le cas.
+
+§ 3. La commune organisatrice conclut avec la police locale une convention qui désigne une personne de contact au sein du service de police et qui mentionne la nature de l'échange d'informations mutuel, ainsi que les accords concrets pris pour l'exercice des activités au sein de la commune organisatrice ou de la commune bénéficiaire.
+
+----------
+
+(1)&lt;L 2014-01-13/08, art. 5, 003; En vigueur : 09-02-2014&gt;
+
+### Art. 6/1
+
+[<sup>1</sup> § 1er. Deux ou plusieurs communes, appartenant à une même zone ou plusieurs zones de police, ci-après dénommées les communes organisatrices, peuvent décider de créer, après approbation des conseils communaux respectifs, un service pluricommunal des gardiens de la paix, sur la base d'une convention entre les communes concernées.
+
+§ 2. La convention prévoit notamment la création du service pluricommunal des gardiens de la paix, la définition de ses activités, le nom du fonctionnaire communal chargé de diriger ce service, son organisation, la manière dont le personnel y est affecté et les modes de financement.
+
+§ 3. Le personnel qui fait partie de ce service pluricommunal des gardiens de la paix reste engagé sous le statut ou le contrat qui le lie à sa commune d'origine.
+
+§ 4. Les communes organisatrices sont solidairement responsables vis-à-vis des tiers.
+
+§ 5. Dans un délai de trois mois suivant la décision du conseil, les communes organisatrices transmettent les décisions du conseil communal au ministre de l'Intérieur. Les conventions portant création d'un service pluricommunal des gardiens de la paix sont soumises pour entérinement au ministre de l'Intérieur, dans le même délai.
+
+§ 6. Les communes organisatrices rendent publics, par une décision du conseil communal, la création du service pluricommunal des gardiens de la paix, la définition de ses activités et la manière dont les citoyens peuvent déposer plainte auprès des communes organisatrices à l'égard de ce service pluricommunal des gardiens de la paix.
+
+§ 7. Les communes organisatrices concluent avec la police locale ou, le cas échéant, la zone de police, une convention portant désignation d'une personne de contact au sein du service de police ou de la zone de police, mentionnant la nature de l'échange d'informations ainsi que les accords concrets en la matière dans l'exercice d'activités au sein des communes organisatrices.
+
+§ 8. Pour les gardiens de la paix-constatateurs qui le souhaitent, la ou les communes organisatrices peut ou peuvent assurer, le cas échéant avec les communes de la même zone de police, l'accès à un accompagnement et à une préparation, en vue d'accéder aux épreuves de sélection d'agent de police.
+
+Le conseil de police peut prendre en compte les gardiens de la paix-constatateurs provenant de la zone de police en question et ayant réussi les épreuves de sélection d'agent de police dans le cadre de sa stratégie de recrutement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-13/08, art. 6, 003; En vigueur : 09-02-2014&gt;
+
+## CHAPITRE III. - Conditions d'exercice.
+
+### Art. 7
+
+§ 1er. Les personnes qui exercent (les activités telles que visées à [<sup>1</sup> l'article 3, § 1er, 1°, 2°, 3°, 5°, 6° et/ou 7° ]<sup>1</sup>), sont appelées " gardiens de la paix ". &lt;L 2008-07-24/35, art. 150, 1°, 002; En vigueur : 17-08-2008&gt;
+
+Les personnes qui exercent (les activités telles que visées par l'article 3, § 1, 4° et/ou § 2), sont appelées " gardiens de la paix-constatateurs ". &lt;L 2008-07-24/35, art. 150, 2°, 002; En vigueur : 17-08-2008&gt;
+
+[<sup>1</sup> § 1er/1. Les personnes qui, au profit de la commune, aident exclusivement les enfants, écoliers, personnes à mobilité réduite et personnes âgées à traverser en toute sécurité et/ou qui effectuent un travail de nature stratégique et conceptuelle, ne sont pas considérées comme gardiens de la paix. Par dérogation à l'article 2, alinéa 1er, la commune est dispensée, dans ce cas, de la création d'un service des gardiens de la paix.]<sup>1</sup>
+
+§ 2. Les gardiens de la paix et les gardiens de la paix-constatateurs ne peuvent être engagés par la commune organisatrice qu'après avis rendu par le chef de corps de la police locale compétent pour la zone de police dont fait partie la commune organisatrice.
+
+Pour formuler son avis, le chef de corps tient particulièrement compte des éléments qui ont trait aux conditions visées à l'article 8, 2°, 3°, 4° et 5°. Sans la réalisation d'enquêtes spécifiques, il base ses conclusions sur les renseignements de la police administrative et judiciaire, dont il a connaissance.
+
+----------
+
+(1)&lt;L 2014-01-13/08, art. 7, 003; En vigueur : 09-02-2014&gt;
+
+### Art. 8
+
+Les gardiens de la paix, les gardiens de la paix-constatateurs et le fonctionnaire communal chargé de diriger le service, doivent satisfaire aux conditions suivantes :
+
+1° être âgés de 18 ans accomplis;
+
+2° [<sup>8</sup> ne pas avoir été condamnés, même avec sursis, à une quelconque peine de niveau 1 à 8 telle que visée à l'article 36 du Code pénal ou à une peine similaire à l'étranger, à l'exception des condamnations pour infraction à la réglementation relative à la police de la circulation routière et des condamnations pour infraction à l'article 218 du Code pénal]<sup>8</sup>;
+
+3° ne pas avoir commis de faits qui, même s'ils n'ont pas fait l'objet d'une condamnation pénale, portent atteinte au crédit de l'intéressé car ils constituent, dans le chef de ce dernier, un manquement social grave ou une contre-indication au profil souhaité d'un gardien de la paix, tel que visé [<sup>3</sup> au 2°]<sup>3</sup>;
+
+4° en ce qui concerne le " gardien de la paix-constatateur ", avoir la nationalité belge [<sup>5</sup> ...]<sup>5</sup> et, en ce qui concerne le gardien de la paix, être ressortissant d'un Etat membre de l'[<sup>3</sup> Espace économique européen]<sup>3</sup> ou d'un autre Etat, et, dans ce cas, avoir sa résidence principale légale en Belgique depuis trois ans. [<sup>5</sup> Le gardien de la paix-constatateur doit au moins disposer, soit:
+
+a) d'un certificat d'enseignement secondaire supérieur, soit
+
+b) d'un certificat d'enseignement secondaire inférieur ou de l'enseignement secondaire du deuxième degré, complété d'une expérience de cinq ans au minimum au profit d'une commune, qui est utile pour l'exercice de la fonction]<sup>5</sup>;
+
+5° ne pas exercer simultanément [<sup>7</sup> des activités de recherche privée]<sup>7</sup>, ne pas exercer une fonction dans le cadre de la loi du 10 avril 1990 réglementant la sécurité privée et particulière, ne pas être membre d'un service de police ou ne pas exercer une activité définie par le Roi;
+
+6° avoir été engagé par la commune organisatrice;
+
+7° satisfaire aux conditions en matière de préparation et de formation, telles que visées à l'article 10.
+
+8° en ce qui concerne le " gardien de la paix-constatateur ", satisfaire aux conditions minimales figurant à l'article 119bis, § 6, de la nouvelle loi communale.
+
+[<sup>8</sup> Pour l'application de l'alinéa 1er, 2°, les condamnations à des peines correctionnelles ou criminelles telles que visées à l'article 7 du Code pénal du 8 juin 1867, sont assimilées à des condamnations à des peines de niveau 1 à 8 telles que visées à l'article 36 du Code pénal adopté par la loi du 29 février 2024 introduisant le livre Ier du Code pénal et la loi du 29 février 2024 introduisant le livre II du Code pénal. Les condamnations pour infraction à l'article 420, alinéa 2, du Code pénal du 8 juin 1867 sont assimilées à des condamnations pour infraction à l'article 218 du Code pénal adopté par la loi du 29 février 2024 introduisant le livre Ier du Code pénal et la loi du 29 février 2024 introduisant le livre II du Code pénal.]<sup>8</sup>
+
+Le profil recherché du gardien de la paix et du gardien de la paix-constatateur se caractérise par :
+
+1° le respect pour son prochain;
+
+2° le sens civique;
+
+3° une capacité à faire face à un comportement agressif de la part de tiers et à se maîtriser dans de telles situations;
+
+4° le respect des devoirs et des procédures;
+
+[<sup>3</sup> 5° ne pas représenter un danger pour l'ordre public.]<sup>3</sup>
+
+[<sup>3</sup> [<sup>6</sup> Un examen psychotechnique permet de vérifier si le candidat répond au profil. Le Roi peut déterminer les modalités qui portent sur l'organisation de l'examen psychotechnique et la désignation de l'organisme.]<sup>6</sup>
+
+Les gardiens de la paix et les gardiens de la paix- constatateurs ne peuvent être recrutés que par la commune organisatrice qu'après avis du chef de corps de la police locale compétent pour la zone de police à laquelle la commune organisatrice appartient.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2014-01-13/08, art. 8, 003; En vigueur : 09-02-2014&gt;
+
+(2)&lt;L 2014-04-10/80, art. 24, 004; En vigueur : indéterminée et au plus tard le 01-05-2016 (voir L 2015-11-23/02, art. 13)&gt;
+
+(3)&lt;L 2018-07-15/08, art. 39, 005; En vigueur : 05-10-2018&gt;
+
+(4)&lt;L 2022-05-05/17, art. 4, 007; En vigueur : 06-06-2022&gt;
+
+(5)&lt;L 2023-12-11/14, art. 27, 008; En vigueur : 01-01-2024&gt;
+
+(6)&lt;L 2023-12-11/14, art. 27,3°, 008; En vigueur : 08-01-2024&gt;
+
+(7)&lt;L 2024-05-18/31, art. 187, 009; En vigueur : 16-12-2024&gt;
+
+(8)&lt;L 2026-05-13/11, art. 11, 010; En vigueur : 01-09-2026&gt;
+
+### Art. 8/1
+
+[<sup>1</sup> Le fonctionnaire communal chargé de diriger le service des gardiens de la paix ou le service pluricommunal des gardiens de la paix doit avoir les aptitudes et connaissances suffisantes en matière de gestion d'équipe, de fonctionnement et d'organisation des services communaux et des droits et devoirs des gardiens de la paix.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-13/08, art. 9, 003; En vigueur : 09-02-2014&gt;
+
+### Art. 9
+
+La commune organisatrice arrête un règlement d'ordre intérieur dans lequel elle fixe les règles de déontologie auxquelles les gardiens de la paix et les gardiens de la paix-constatateurs doivent satisfaire et qui détermine les modalités des conditions d'exercice de leurs activités.
+
+Ce règlement d'ordre intérieur est transmis aux gardiens de la paix et aux gardiens de la paix-constatateurs préalablement à leur entrée en service.
+
+### Art. 10
+
+La formation visée à l'article 8, alinéa 1er, 7°, peut être dispensée par (les écoles provinciales et régionales d'administration) des organismes de formation agréés pour la formation d'agents de police ou par les organismes de formation agréés en vertu de l'article 4, § 3, de la loi du 10 avril 1990 réglementant la sécurité privée et particulière qui, après avoir fait preuve de leur capacité à dispenser correctement la formation visée à l'alinéa 2, ont été désignés à cet effet par le ministre de l'Intérieur. &lt;L 2008-07-24/35, art. 151, 1°, 002; En vigueur : 17-08-2008&gt;
+
+[<sup>1</sup> L'initiative d'inscription à la formation est libre. Le candidat peut uniquement participer à une formation s'il satisfait aux conditions suivantes :
+
+1° avoir présenté un extrait du casier judiciaire, datant de maximum six mois, dont il ressort qu'il n'a pas été condamné pour des délits visés à l'article 8, alinéa 1er, 2°.
+
+2° avoir présenté un document d'identité ou un historique du registre de population qui montre qu'il satisfait à l'article 8, alinéa 1er, 4°.
+
+L'école ne peut pas inscrire un candidat qui ne satisfait pas aux conditions prévues à l'alinéa 2.]<sup>1</sup>
+
+(L'intéressé doit suivre la formation de base qui comporte au moins les matières suivantes :) &lt;L 2008-07-24/35, art. 151, 2°, 002; En vigueur : 17-08-2008&gt;
+
+1° l'étude des droits et devoirs des gardiens de la paix et des gardiens de la paix-constatateurs [<sup>1</sup> et notamment dans le cadre des relations avec les services de police et les services de gardiennage]<sup>1</sup>;
+
+2° les techniques de communication verbale et non verbale;
+
+3° l'interculturel et l'apprentissage du contact avec la diversité;
+
+4° l'observation et la rédaction de rapports;
+
+5° [<sup>1</sup> la gestion des conflits, y compris la gestion positive de conflits avec des mineurs;]<sup>1</sup>
+
+6° les techniques de défense physique;
+
+7° le secourisme.
+
+[<sup>1</sup> 8° compétences rédactionnelles;
+
+9° sport/condition physique.]<sup>1</sup>
+
+[<sup>1</sup> [<sup>2</sup> Un examen est réalisé pour toutes les branches enseignées. Le candidat a réussi s'il a obtenu pour chaque branche minimum 50 % des points. Seul le candidat qui a réussi est habilité à exercer la fonction de gardien de la paix. Seul le candidat qui a obtenu pour chaque branche minimum 50 % des points et minimum 60 % des points au total de toutes les branches est habilité à entamer la formation de gardien de la paix-constatateur.]<sup>2</sup>]<sup>1</sup>
+
+[<sup>2</sup> Le candidat qui n'a pas réussi les branches visées à l'alinéa 4 peut demander un repêchage selon les modalités définies par le Roi.]<sup>2</sup>
+
+Le Roi fixe les modalités qui ont trait à la désignation des organismes de formation, ainsi que les conditions et les modalités de la formation.
+
+----------
+
+(1)&lt;L 2014-01-13/08, art. 10, 003; En vigueur : 09-02-2014&gt;
+
+(2)&lt;L 2018-07-30/49, art. 2, 006; En vigueur : 01-10-2019&gt;
+
+### Art. 11
+
+Les gardiens de la paix et les gardiens de la paix-constatateurs portent une tenue de travail uniforme. La tenue de travail est pourvue d'un emblème uniforme et reconnaissable.
+
+Le ministre de l'Intérieur fixe le modèle de la tenue de travail et de l'emblème des gardiens de la paix et des gardiens de la paix-constatateurs.
+
+### Art. 12
+
+§ 1er. Tous les gardiens de la paix et gardiens de la paix-constatateurs sont porteurs d'une carte d'identification [<sup>1</sup> , dont le modèle a été fixé par le ministre de l'Intérieur]<sup>1</sup>.
+
+Cette carte d'identification est valable pour une durée de cinq ans à compter de sa date de délivrance. Elle est renouvelable pour des périodes de durée identique.
+
+La carte d'identification comporte les mentions suivantes :
+
+1° les nom et prénom, ainsi que la photo du détenteur;
+
+2° le nom de la commune organisatrice;
+
+3° la fonction de gardien de la paix ou de gardien de la paix-constatateur, selon le cas;
+
+4° la date d'expiration de la carte d'identification.
+
+Les gardiens de la paix et les gardiens de la paix-constatateurs peuvent uniquement exercer les activités telles que visées à l'article 3, s'ils portent la carte d'identification de manière clairement lisible.
+
+§ 2. La carte d'identification est délivrée par le [<sup>1</sup> ministre de l'Intérieur]<sup>1</sup> après avoir constaté que l'intéressé satisfait aux conditions mentionnées à l'article 8.
+
+----------
+
+(1)&lt;L 2014-01-13/08, art. 11, 003; En vigueur : 09-02-2014&gt;
+
+## CHAPITRE IV. - Compétences.
+
+### Art. 13
+
+Les " gardiens de la paix " et les " gardiens de la paix-constatateurs " ne peuvent exercer aucune autre mission que celles visées à l'article 3.
+
+Ils exercent leurs tâches de manière non armée.
+
+Ils ne sont pas munis de menottes.
+
+### Art. 14
+
+Les gardiens de la paix et les gardiens de la paix-constatateurs ne peuvent pas poser d'actes autres que ceux qui découlent de l'exercice des droits dont jouit tout citoyen et des compétences explicitement prévues dans la présente loi [<sup>1</sup> et dans la loi du 24 juin 2013 relative aux sanctions administratives communales]<sup>1</sup>.
+
+Ils ne peuvent avoir recours à aucune forme de contrainte ou de force, excepté la contrainte qui s'impose dans l'exercice du droit visé à l'article 1er, 3°, de la loi du 20 juillet 1990 relative à la détention préventive.
+
+Dans l'exercice de (l'activité visée à l'article 3, § 1er, 3°), les gardiens de la paix et les gardiens de la paix-constatateurs peuvent exercer les tâches telles que visées à l'article 40bis, 2 et 3, du règlement général sur la police de la circulation routière. &lt;L 2008-07-24/35, art. 152, 002; En vigueur : 17-08-2008&gt;
+
+----------
+
+(1)&lt;L 2023-12-11/14, art. 28, 008; En vigueur : 08-01-2024&gt;
+
+### Art. 15
+
+Les gardiens de la paix et les gardiens de la paix-constatateurs portent sans délai à la connaissance de la police locale relevant du territoire sur lequel ils exercent leurs missions tous les faits qui constituent un délit ou un crime.
+
+Chaque fois qu'un fonctionnaire d'un service compétent en fait la demande, les gardiens de la paix fournissent les renseignements dont ils ont connaissance dans le cadre de leurs activités.
+
+Les obligations visées au présent article sont exercées conformément au règlement d'ordre intérieur.
+
+### Art. 16
+
+Le Roi peut fixer l'équipement, les méthodes et les procédures qui ne sont pas prévues par la présente loi et que les gardiens de la paix et les gardiens de la paix-constatateurs peuvent ou doivent utiliser dans l'exercice de leurs missions.
+
+## CHAPITRE V. - Contrôle [<sup>1</sup> et sanctions]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2014-01-13/08, art. 12, 003; En vigueur : 09-02-2014&gt;
+
+### Art. 17
+
+§ 1er. Conformément à la procédure qui doit être déterminée par le Roi, le bourgmestre de la commune organisatrice peut, à titre temporaire ou définitif, retirer la carte d'identification des gardiens de la paix ou des gardiens de la paix-constatateurs qui ne respectent pas la loi, ses arrêtés d'exécution ou le règlement d'ordre intérieur.
+
+En vertu de la procédure qui doit être déterminée par le Roi, le bourgmestre retire définitivement la carte d'identification du gardien de la paix ou du gardien de la paix-constatateur quand celui-ci ne satisfait plus aux conditions visées à l'article 8.
+
+§ 2. Les membres des services de police ainsi que les fonctionnaires et agents désignés par le Roi contrôlent l'application de la présente loi et de ses arrêtés d'exécution.
+
+Les membres des services de police adressent, au bourgmestre de la commune organisatrice, un compte rendu relatif au contrôle réalisé. Les fonctionnaires et agents désignés par le Roi rendent compte du contrôle au bourgmestre et au ministre de l'Intérieur.
+
+La commune organisatrice apporte aux fonctionnaires et agents désignés par le Roi la collaboration indispensable à l'exercice de leur mission; ils peuvent consulter toutes les pièces nécessaires à cet effet.
+
+[<sup>1</sup> § 3. Le ministre de l'Intérieur est compétent pour infliger les sanctions visées à l'article 17/1, conformément à une procédure déterminée par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-01-13/08, art. 13, 003; En vigueur : 09-02-2014&gt;
+
+### Art. 17/1
+
+[<sup>1</sup> En cas d'infraction aux articles 11, 12, § 1er, 13 et 15 ou à une disposition d'un arrêté d'exécution et s'il est établi qu'une ou plusieurs de ces infractions résultent du fait de l'employeur, des employeurs ou du fonctionnaire communal chargé de la direction du service des gardiens de la paix, ou du service pluricommunal des gardiens de la paix, le Collège des bourgmestre et échevins de la commune qui a mis sur pied le service de gardiens de la paix ou, selon le cas, le Collège des bourgmestre et échevins de chaque commune qui a mis sur pied le service pluricommunal des gardiens de la paix est averti par envoi recommandé.
+
+L'envoi mentionne au moins l'infraction constatée et le délai de minimum trois mois et de maximum six mois dont dispose la commune ou dont disposent, dans le cas d'un service pluricommunal des gardiens de la paix, les communes pour mettre fin à l'infraction.
+
+S'il est constaté après l'échéance du délai mentionné dans le premier avertissement, que l'infraction n'a pas cessé, la commune est avertie ou dans le cas d'un service pluricommunal des gardiens de la paix, les communes sont averties une seconde fois par envoi recommandé.
+
+S'il est constaté que la commune n'a pas ou, dans le cas d'un service pluricommunal des gardiens de la paix, les communes n'ont pas mis fin à l'infraction signalée dans un délai de nonante jours suivant la réception de ce second avertissement, une amende administrative de 1.000 à 2.500 euros par gardien de la paix en infraction sera infligée à la commune organisatrice ou bénéficiaire, selon le cas. Dans le cas d'un service pluricommunal des gardiens de la paix, les communes organisatrices déterminent elles-mêmes la clé de répartition en vue de payer l'amende.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-13/08, art. 14, 003; En vigueur : 09-02-2014&gt;
+
+## CHAPITRE VI. - Dispositions finales et transitoires.
+
+### Art. 18
+
+(Les activités visées à l'article 3, § 1er) sont exclusivement régies par la présente loi, à l'exception de ce qui suit : &lt;L 2008-07-24/35, art. 153, 1°, 002; En vigueur : 17-08-2008&gt;
+
+1° les activités organisées par les services de police;
+
+2° (les activités visées à l'[<sup>1</sup> article 3, § 1er, 3°, 4°, 5° et 7°]<sup>1</sup>), et à l'article 5, alinéa 1er, 2° si elles sont exercées dans le cadre de la loi du 10 avril 1990 réglementant la sécurité privée et particulière; &lt;L 2008-07-24/35, art. 153, 2°, 002; En vigueur : 17-08-2008&gt;
+
+3° les activités exercées par des sociétés de transports en commun, en vertu de la loi.
+
+----------
+
+(1)&lt;L 2014-01-13/08, art. 15, 003; En vigueur : 09-02-2014&gt;
+
+### Art. 19
+
+Les communes organisatrices qui, au moment de l'entrée en vigueur de la présente loi, emploient des personnes en vue de l'exercice d'activités telles que (visées à l'article 3, § 1er), disposent d'un délai de (dix-huit mois), à compter de la date de l'entrée en vigueur de la présente loi, pour aboutir à une décision du conseil communal visant à créer un service des gardiens de la paix et pour transmettre cette décision du conseil communal au ministre de l'Intérieur. &lt;L 2008-07-24/35, art. 154, 002; En vigueur : 17-08-2008&gt;
+
+### Art. 20
+
+&lt;L 2008-07-24/35, art. 155, 002; En vigueur : 17-08-2008&gt; § 1er. Les gardiens de la paix doivent satisfaire aux conditions de formation visées à l'article 8, alinéa 1er, 7°, au plus tard un an après la première désignation de l'organisme qui dispense la formation dans la langue de l'intéressé, conformément à l'article 10, alinéa 3.
+
+§ 2. Les personnes qui exercent les activités visées à l'article 3, § 1er, 1°, 2°, 3° ou 5°, avant l'entrée en vigueur de la loi peuvent être engagées en tant que gardien de la paix à condition de :
+
+1° ne pas avoir subi après le 1er janvier 2007, de condamnation visée à l'article 8, alinéa 1er, 2°, ni avoir commis, après cette même date, des faits visés à l'article 8, alinéa 1er, 3°;
+
+2° ne pas exercer d'activités telles que visées à l'article 8, alinéa 1er, 5°, à la date de création du service des gardiens de la paix;
+
+3° satisfaire aux conditions visées au § 1er.
+
+§ 3. Les personnes qui exercent les activités telles que visées à l'article 3, § 1er, 4°, avant l'entrée en vigueur de la loi, doivent remplir les conditions minimales visées au § 2 et à l'article 8, alinéa 1er, 8°.
+
+### Art. 20/1.
+
+[<sup>1</sup> Les gardiens de la paix doivent remplir la condition énoncée à l'article 10, alinéa 5, lorsqu'ils entament leur formation après l'entrée en vigueur de la loi du 19 juillet 2018 modifiant la loi du 15 mai 2007 relative à la création de la fonction de gardien de la paix, à la création du service des gardiens de la paix et à la modification de l'article 119bis de la nouvelle loi communale, en ce qui concerne la formation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-30/49, art. 3, 006; En vigueur : 01-10-2019&gt;
+
+## CHAPITRE VII. - Modification de l'article 119bis de la nouvelle loi communale.
+
+### Art. 21
+
+L'article 119bis, § 6, alinéa 2, 1°, de la nouvelle loi communale, inséré dans la loi du 13 mai 1999 et modifié par les lois des 26 juin 2000, 7 mai 2004, 17 juin 2004 et 20 juillet 2005, est complété comme suit :
+
+" l'agent communal-constatateur peut demander au contrevenant la pièce d'identité ou un autre document d'identification afin de s'assurer de l'identité exacte de l'intéressé.
+
+Le contrôle d'identité est uniquement autorisé à l'égard de personnes au sujet desquelles l'agent a constaté qu'elles ont commis des faits pouvant donner lieu à une sanction administrative communale ".
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 15 mai 2007.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de l'Intérieur,
+
+P. DEWAEL
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

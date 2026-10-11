@@ -1,0 +1,78 @@
+---
+title: "Loi modifiant la loi du 14 août 1986 relative à la protection et au bien-être des animaux."
+identifier: "2007023351"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/11/2007023351/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2007-05-11
+published: 2007-10-04
+entry_into_force: 2004-10-04
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/11/2007023351/justel"
+department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
+retrieved: 2026-10-11
+---
+
+# 11 MAI 2007. - Loi modifiant la loi du 14 août 1986 relative à la protection et au bien-être des animaux.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+A l'article 3 de la loi du 14 août 1986 relative à la protection et au bien-être des animaux, modifié par les lois du 4 mai 1995 et du 9 juillet 2004, sont apportées les modifications suivantes :
+
+1° le point 1 est remplacé par la disposition suivante :
+
+" 1. Elevage de chiens : établissement dans lequel sont détenues des chiennes pour la reproduction et sont commercialisés des chiens provenant de nichées propres ou de nichées d'autres élevages qui satisfont aux dispositions légales";
+
+2° le point 2 est remplacé par la disposition suivante :
+
+" 2. Elevage de chats : établissement dans lequel sont détenues des chattes pour la reproduction et sont commercialisés des chats provenant de nichées propres ou de nichées d'autres élevages qui satisfont aux dispositions légales. "
+
+## Art. 3
+
+Un article 10bis, rédigé comme suit, est inséré dans le chapitre III de la même loi :
+
+" Art 10bis. Il est interdit de conclure tout contrat de crédit, au sens de la loi du 12 juin 1991 relative au crédit à la consommation, qui vise à l'acquisition d'un animal de compagnie. ".
+
+## Art. 4
+
+L'article 12 de la même loi, remplacé par la loi du 4 mai 1995, est complété par les alinéas suivants :
+
+" Pour contrer les achats impulsifs et favoriser la socialisation des chiens et des chats, aucun chien ou chat ne peut être détenu ou exposé dans l'espace commercial des établissements commerciaux pour animaux ou dans leurs dépendances. Ces établissements commerciaux peuvent néanmoins servir d'intermédiaires dans le commerce de chats et de chiens.
+
+La disposition visée à l'alinéa précédent n'empêche toutefois pas les propriétaires ou les exploitants d'établissements commerciaux pour animaux d'exploiter aussi un élevage de chiens ou de chats, à condition qu'ils satisfassent aux conditions prévues.
+
+Le Roi peut prendre les mesures complémentaires nécessaires. ".
+
+## Art. 5
+
+L'article 4 entre en vigueur le 1er janvier 2009, à l'exception du dernier alinéa qui entre en vigueur le jour de la publication de la présente loi au Moniteur belge. "
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 11 mai 2007.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires sociales et de la Santé publique,
+
+R. DEMOTTE
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

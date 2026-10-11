@@ -1,0 +1,1206 @@
+---
+title: "Loi relative à la reconnaissance et à la protection de la profession d'expert en automobiles et créant un Institut des experts en automobiles"
+identifier: "2007011262"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/15/2007011262/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2007-05-15
+published: 2008-06-02
+entry_into_force: 2008-06-12
+last_amended: 2025-12-19
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/15/2007011262/justel"
+department: "Economie, PME, Classes moyennes et Energie"
+justel_note: "Consultation des versions antérieures à partir du 02-06-2008 et mise à jour au 19-12-2025"
+retrieved: 2026-10-11
+---
+
+# 15 MAI 2007. - Loi relative à la reconnaissance et à la protection de la profession d'expert en automobiles et créant un Institut des experts en automobiles
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE Ier. [<sup>1</sup> Dispositions générales ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2025-11-20/09, art. 2, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+#### Art. 1/1
+
+[<sup>1</sup> Pour l'application de la présente loi, l'on entend par:
+
+1° véhicule:
+
+a) les véhicules tels que définis dans l'arrêté royal du 15 mars 1968 portant règlement général sur les conditions techniques auxquelles doivent répondre les véhicules automobiles et leurs remorques, leurs éléments ainsi que les accessoires de sécurité, ci-après "l'arrêté royal du 15 mars 1968";
+
+b) les véhicules tels que définis dans l'arrêté royal du 10 octobre 1974 portant règlement général sur les conditions techniques auxquelles doivent répondre les cyclomoteurs et les motocyclettes ainsi que leurs remorques;
+
+c) les speed pedelecs au sens de l'article 2.17, alinéa 1er, 3), de l'arrêté royal du 1er décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique;
+
+2° loi du 12 février 2008 relative aux qualifications professionnelles: la loi du 12 février 2008 instaurant un cadre général pour la reconnaissance des qualifications professionnelles UE;
+
+3° Etat membre: l'Etat membre tel que visé à l'article 2, § 1er, l), de la loi du 12 février 2008 relative aux qualifications professionnelles;
+
+4° membre titulaire: personne inscrite au tableau de l'Institut des experts en automobiles comme effectif à l'exclusion des stagiaires inscrits comme stagiaire;
+
+5° membre: membre titulaire ou stagiaire inscrit au tableau de l'Institut des experts en automobiles ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 3, 004; En vigueur : 14-12-2025&gt;
+
+## CHAPITRE II. - Institut des experts en automobiles. - Objet.
+
+#### Art. 2
+
+Il est créé un Institut des experts en automobiles jouissant de la personnalité civile, ci-après dénommé " l'Institut ".
+
+Le siège de l'Institut est établi dans l'arrondissement administratif de Bruxelles-capitale.
+
+Les organes qui composent l'Institut sont :
+
+\- l'Assemblée générale;
+
+\- le Conseil de l'Institut;
+
+[<sup>1</sup> - le Comité exécutif]<sup>1</sup>
+
+\- la Commission de stage;
+
+\- la Commission de discipline;
+
+\- la Commission d'appel.
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 2, 002; En vigueur : 20-11-2011&gt;
+
+#### Art. 3
+
+[<sup>1</sup> . L'Institut a pour objet d'assurer l'organisation permanente d'un corps de spécialistes capables de remplir la fonction d'expert en automobiles telle que définie à l'article 4, avec toutes les garanties requises aux points de vue de la compétence, de la formation, de l'indépendance et de la probité professionnelle et de veiller à une exécution correcte des missions confiées à ses membres ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2025-11-20/09, art. 4, 004; En vigueur : 14-12-2025&gt;
+
+## CHAPITRE III. - Des experts en automobiles, de leurs droits et obligations.
+
+### Section 1re [<sup>1</sup> La profession d'expert en automobiles ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 5, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 4
+
+[<sup>1</sup> § 1er. L'expert en automobiles a pour fonction l'expertise au sens large de véhicules.
+
+La profession d'expert en automobiles consiste en l'exercice, sous le statut d'indépendant, de salarié ou de statutaire, d'une ou plusieurs des activités professionnelles suivantes pour le compte d'autrui:
+
+1° l'évaluation des véhicules et la vérification de leur conformité aux lois et règlements ainsi que l'identification et la description de ces véhicules;
+
+2° toute recherche et toute analyse de nature technique susceptible de déterminer les circonstances et les causes des sinistres dans lesquels sont impliqués un ou plusieurs véhicules et permettant la détermination des responsabilités qui y sont liées;
+
+3° la détermination de l'usure, des dommages, vices et avaries ainsi que des anomalies de fonctionnement dont les véhicules sont affectés;
+
+4° la détermination des causes des éléments visés au 3° ;
+
+5° l'estimation du préjudice matériel subi du fait des dommages aux véhicules;
+
+6° la détermination des travaux et modes de réparation propres à assurer la mise ou la remise en état d'un véhicule, l'estimation de leur coût et la vérification de leur bonne exécution;
+
+7° l'appréciation technique du bien-fondé de l'immobilisation d'un véhicule et la détermination de la durée de celle-ci;
+
+8° la rédaction d'un rapport motivé d'exécution de la mission confiée.
+
+§ 2. Les personnes qui travaillent dans un centre agréé de contrôle technique peuvent exercer, dans le cadre de leur mission de contrôle technique des véhicules qui leur est confiée par l'arrêté royal du 15 mars 1968, les activités de vérification de conformité des véhicules aux exigences prévues par ou en vertu de la loi ainsi que d'identification et de description de ces véhicules, sans s'inscrire au tableau ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2025-11-20/09, art. 6, 004; En vigueur : 14-12-2025&gt;
+
+### Section 2. [<sup>1</sup> Inscription au tableau ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 7, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 5
+
+[<sup>1</sup> § 1er. Il est tenu au sein de l'Institut un tableau. Les personnes inscrites au tableau comme membre titulaire ou stagiaire ont la qualité de membre de l'Institut. Le tableau des membres est publié et mis à jour sur le site internet de l'Institut et est publiquement accessible.
+
+§ 2. Toute personne physique est, à sa demande, inscrite au tableau comme membre titulaire si elle remplit les conditions suivantes:
+
+1° être honorable, c'est-à-dire:
+
+a) ne pas être privée de ses droits civils et politiques;
+
+b) ne pas être en faillite ou ne pas avoir été déclarée en faillite sans avoir obtenu la réhabilitation;
+
+c) ne pas avoir encouru une peine d'emprisonnement, même conditionnelle, de trois mois au moins pour:
+
+i) l'une des infractions visées à l'article 1er de l'arrêté royal n° 22 du 24 octobre 1934 relatif à l'interdiction judiciaire faite à certains condamnés et aux faillis d'exercer certaines fonctions, professions ou activités;
+
+ii) une infraction à la loi du 20 septembre 1948 portant organisation de l'économie;
+
+iii) une infraction au livre XIII du Code de droit économique;
+
+iv) une infraction au Code des sociétés et des associations;
+
+v) une infraction à la législation fiscale;
+
+2° fournir une des preuves de qualification professionnelle suivantes:
+
+a) la preuve que l'activité professionnelle d'expert en automobiles a été exercée au préalable, en tant que ressortissant d'un Etat membre, dans un Etat membre autre que la Belgique conformément à l'article 21 de la loi du 12 février 2008 relative aux qualifications professionnelles;
+
+b) une attestation de compétence ou un titre de formation visé au titre III, chapitre Ier, de la loi du 12 février 2008 relative aux qualifications professionnelles, délivré par un Etat membre autre que la Belgique au demandeur, ressortissant d'un Etat membre, et répondant aux conditions fixées dans ce chapitre, ou un titre de formation assimilé à un tel titre en application de l'article 2, § 3, de la loi du 12 février 2008 relative aux qualifications professionnelles;
+
+c) un des titres suivants reconnus par la Communauté française:
+
+i) un diplôme de bachelier en automobile;
+
+ii) un diplôme de bachelier en électromécanique;
+
+iii) un diplôme de bachelier en mécatronique et robotique;
+
+iv) un diplôme de master en sciences industrielles;
+
+v) un diplôme de master en sciences de l'ingénieur industriel;
+
+vi) un diplôme de master en sciences de l'ingénieur civil;
+
+d) un des titres suivants reconnus par la Communauté flamande:
+
+i) un diplôme "HBO5 Auto-expertise";
+
+ii) un diplôme "HBO5 Motorvoertuigtechnieken";
+
+iii) un diplôme "HBO5 Autotechnicus";
+
+iv) un diplôme de "bachelor in de autotechnologie";
+
+v) un diplôme de "bachelor in de elektromechanica";
+
+vi) un diplôme de "master in de ingenieurs wetenschappen";
+
+vii) un diplôme de "master in de industriële wetenschappen";
+
+e) un diplôme délivré par tout autre établissement de niveau comparable à ceux qui délivrent les diplômes précités et reconnus par le Roi, après avis du conseil de l'Institut;
+
+f) un diplôme reconnu de niveau comparable par le Roi après avis du conseil de l'Institut et de la Communauté française, de la Communauté flamande ou de la Communauté germanophone;
+
+g) les diplômes belges qui donnaient accès à la profession ou au titre d'expert en automobiles et qui ont été délivrés avant l'entrée en vigueur de la loi du 20 novembre 2025 modifiant la loi du 15 mai 2007 relative à la reconnaissance et à la protection de la profession d'expert en automobiles et créant un Institut des experts en automobiles;
+
+h) les titres délivrés dans un pays tiers dans les mêmes disciplines, non visés au b), moyennant la reconnaissance préalable de leur équivalence par l'autorité belge compétente, et pour autant que, pour ce qui concerne les ressortissants de pays tiers, le pays tiers accorde le bénéfice de la réciprocité aux experts en automobiles en matière d'accès à la profession. Le Roi peut autoriser le conseil de l'Institut à admettre, dans des cas individuels, l'équivalence de diplômes délivrés dans un pays tiers;
+
+i) une expérience professionnelle pertinente résultant de l'exercice pendant au moins six ans équivalent temps plein durant les dix dernières années d'une ou plusieurs activités professionnelles telles que visées à l'article 4, § 1er, alinéa 2. Le demandeur prouve cette expérience par tous modes de preuve. La chambre compétente du conseil de l'Institut apprécie le caractère pertinent de cette expérience;
+
+3° pour le demandeur qui prouve sa qualification professionnelle sur la base d'un des titres visés au 2°, c) à h), ou sur la base de l'expérience visée au 2°, i), avoir accompli avec succès le stage organisé par le règlement de stage ou en être dispensé par une disposition légale ou réglementaire;
+
+4° pour le demandeur qui prouve sa qualification professionnelle sur la base des documents visés au 2°, b), et qui tombe sous un des cas visés à l'article 16, § 1er, de la loi du 12 février 2008 relative aux qualifications professionnelles, fournir la preuve d'avoir accompli le stage d'adaptation organisé par l'Institut ou d'avoir passé l'épreuve d'aptitude organisée par l'Institut, selon les modalités visées au paragraphe 3.
+
+L'interdiction d'inscription suite aux cas visés l'alinéa 1er, 1°, a une durée:
+
+a) de quinze ans pour la situation visée à l'alinéa 1er, 1°, a), à compter de l'expiration de la période de privation des droits civils et politiques;
+
+b) de dix ans pour la situation visée à l'alinéa 1er, 1°, b), à compter de l'état de faillite ou de la déclaration de faillite sans réhabilitation;
+
+c) de quinze ans pour la situation visée à l'alinéa 1er, 1°, c), à compter de la date du jugement ou arrêt ayant force de chose jugée.
+
+Le Roi peut ajouter à la liste de diplômes visés à l'alinéa 1er, 2°, c) et d), des diplômes reconnus comparables après avis du conseil de l'Institut ou délivrés par une institution reconnue comparable, après avis du conseil de l'Institut et de la Communauté française, de la Communauté flamande ou de la Communauté germanophone. Il peut également modifier la liste et les dénominations des diplômes ou retirer des diplômes de la liste sur la base d'un avis de la Communauté française, de la Communauté flamande ou de la Communauté germanophone.
+
+§ 3. Les ressortissants d'un Etat membre visés au paragraphe 2, alinéa 1er, 2°, a) ou b), sont soumis à l'ensemble des conditions et bénéficient de l'ensemble des droits prévus dans la loi du 12 février 2008 relative aux qualifications professionnelles, sans préjudice des dispositions prévues par ou en vertu de la présente loi.
+
+S'il est envisagé d'exiger d'un demandeur détenteur d'une attestation de compétence ou d'un titre de formation visé au paragraphe 2, alinéa 1er, 2°, b), qu'il accomplisse un stage d'adaptation ou passe une épreuve d'aptitude, il est préalablement vérifié si les connaissances, aptitudes et compétences professionnelles acquises par le demandeur comme expert en automobiles dans un Etat membre ou dans un pays tiers au cours de son expérience professionnelle ou de l'apprentissage tout au long de la vie, et ayant fait l'objet à cette fin d'une validation en bonne et due forme par un organisme compétent, sont de nature à couvrir, en tout ou en partie, la différence substantielle de la formation.
+
+L'Institut informe le demandeur de la décision visée à l'alinéa 2 en mentionnant:
+
+1° le niveau de qualification requis et celui dont dispose le demandeur;
+
+2° les différences substantielles qui justifient le stage d'adaptation ou l'épreuve d'aptitude et les raisons pour lesquelles elles ne peuvent pas être compensées par les connaissances, aptitudes et compétences professionnelles acquises par le demandeur au cours de son expérience professionnelle ou de son apprentissage tout au long de la vie, et ayant fait formellement l'objet d'une validation par un organisme compétent.
+
+L'Institut accuse réception du dossier du demandeur dans un délai d'un mois à dater de sa réception et l'informe, le cas échéant, de tout document manquant.
+
+La procédure d'examen d'une demande de reconnaissance mutuelle des qualifications professionnelles en vue d'exercer la profession d'expert en automobiles a lieu dans les plus brefs délais. Cette procédure est clôturée par une décision dûment motivée qui intervient au plus tard dans les quatre mois à compter de la présentation d'un dossier complet par le demandeur.
+
+La décision visée à l'alinéa 5, ou l'absence de décision, est susceptible d'un recours devant la commission d'appel.
+
+Les modalités du stage d'adaptation, de l'épreuve d'aptitude, de l'établissement de la liste des matières et du statut du demandeur qui veut s'y préparer, sont déterminées par le conseil de l'Institut, dans le respect des règles du droit de l'Union européenne et de la loi du 12 février 2008 relative aux qualifications professionnelles.
+
+La personne physique, détentrice de l'attestation de compétence ou du titre de formation visé au paragraphe 2, alinéa 1er, 2°, b), a le droit d'utiliser le titre académique de son Etat membre d'origine, et éventuellement son abréviation, dans la langue de cet Etat. Dans ce cas, ce titre est suivi des nom et lieu de l'établissement ou du jury qui l'a délivré.
+
+§ 4. La personne morale est, à sa demande, inscrite au tableau si elle répond aux conditions cumulatives suivantes:
+
+1° plus de cinquante pour cent de l'ensemble des membres de l'organe de gestion qui interviennent au nom et pour le compte de la personne morale, sont des personnes physiques autorisées à exercer la profession d'expert en automobiles et inscrites au tableau de l'Institut et/ou des personnes morales autorisées à exercer la profession d'expert en automobiles et inscrites au tableau de l'Institut et dont le représentant permanent, au sens de l'article 2:55 du Code des sociétés et des associations, est lui-même autorisé à exercer la profession d'expert en automobiles et inscrit au tableau de l'Institut;
+
+2° aucun des membres de l'organe de gestion n'exerce une des activités visées à l'article 11;
+
+3° conformément au Code des sociétés et des associations, son objet mentionne les activités visées à l'article 4 et, le cas échéant, les autres activités exercées, lesquelles ne peuvent pas être incompatibles avec l'exercice de la profession d'expert en automobiles;
+
+4° plus de cinquante pour cent des parts ou actions ainsi que des droits de vote sont détenus, par des personnes physiques autorisées à exercer la profession d'expert en automobiles et inscrites au tableau de l'Institut et/ou par des personnes morales autorisées à exercer la profession d'expert en automobiles et inscrites au tableau de l'Institut; les autres parts et actions peuvent être détenues par des personnes physiques ou morales à l'exclusion des personnes exerçant une des activités visées à l'article 11;
+
+5° la personne morale ne peut pas détenir de participations dans d'autres sociétés dont l'objet et les activités sont incompatibles avec la profession d'expert en automobiles.
+
+Si en raison du décès, du départ, de la suspension ou de la radiation d'une personne visée à l'alinéa 1er, 1°, 3° ou 5°, la personne morale ne répond plus aux conditions requises pour exercer la profession d'expert en automobiles, celle-ci dispose d'un délai de six mois pour se mettre en conformité avec ces conditions. Durant ce délai, la personne morale peut continuer à exercer la profession d'expert en automobiles.
+
+Le stagiaire peut uniquement constituer une personne morale au sens de la présente loi ou en être associé ou être membre de l'organe de gestion s'il s'agit d'une personne morale au sein de laquelle il exerce la profession avec son maître de stage ou avec un expert en automobiles inscrit au tableau de l'Institut.
+
+§ 5. Parmi les membres de l'organe de gestion de la personne morale, seules les personnes visées au paragraphe 4, alinéa 1er, 1°, peuvent, pour l'application de la présente loi, dans le cadre de leur mandat, poser des actes de gestion directement en lien avec l'exercice de la profession d'expert en automobiles ou représenter la personne morale dans des actes juridiques qui concernent la profession d'expert en automobiles.
+
+Sans préjudice des obligations de la personne morale de respecter les règles déontologiques, ces personnes sont également soumises aux règles déontologiques pour l'exercice de ces actes ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2025-11-20/09, art. 8, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 6
+
+&lt;Abrogé par L 2025-11-20/09, art. 9, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 7
+
+La qualité de membre est [<sup>2</sup> , compte tenu des conditions prévues à l'article 5,]<sup>2</sup> retirée par [<sup>1</sup> la chambre compétente du conseil de]<sup>1</sup> l'Institut si les conditions mises à son octroi ne sont plus réunies.
+
+[<sup>2</sup> Le retrait de la qualité de membre entraîne de plein droit l'omission du tableau.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 6, 002; En vigueur : 20-11-2011&gt;
+
+(2)&lt;L 2025-11-20/09, art. 10, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 7/1.
+
+[<sup>1</sup> Un expert en automobiles peut à tout moment demander son omission du tableau.
+
+Toutefois, lorsque la personne concernée a été rappelée à l'ordre ou lorsque la personne concernée est renvoyée devant les instances disciplinaires, elle peut être omise à sa demande uniquement après la décision de la commission de discipline ou, le cas échéant, uniquement après la décision de la commission d'appel. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 11, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 8
+
+[<sup>1</sup> Les décisions suivantes d'une des chambres du conseil de l'Institut peuvent faire l'objet d'un recours de la part de l'intéressé devant la commission d'appel visée à l'article 30:
+
+1° le refus de l'admission d'un candidat en qualité de membre de l'Institut;
+
+2° le retrait de la qualité de membre de l'Institut;
+
+3° le refus de l'inscription ou de la prolongation de l'inscription au registre des prestataires de services visé à l'article 10/2 ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2025-11-20/09, art. 12, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 9
+
+[<sup>1</sup> § 1er. Les membres payent une cotisation dont le montant annuel est fixé par l'assemblée générale, dans les limites et selon les modalités prévues par le règlement d'ordre intérieur de l'Institut.
+
+§ 2. Lorsqu'une personne acquiert la qualité de membre de l'Institut en cours d'année, la cotisation est calculée au prorata du nombre de trimestres restant à courir dans l'année en cours. Ce système s'applique également au membre stagiaire au moment où il devient membre titulaire.
+
+§ 3. La cotisation, entière ou partielle, reste due à l'Institut même en cas de suspension, d'interruption ou d'arrêt de l'exercice des activités d'expert en automobiles par le membre, quelles qu'en soient les causes.
+
+§ 4. Le non-paiement de la cotisation majorée selon les modalités prévues dans le règlement d'ordre intérieur, dans le délai fixé par la mise en demeure visée dans le règlement d'ordre intérieur, entraîne de plein droit la suspension du droit de participer et de voter à l'assemblée générale.
+
+§ 5. En cas de non-paiement de la cotisation majorée selon les modalités prévues dans le règlement d'ordre intérieur, dans le délai fixé par la mise en demeure visée dans le règlement d'ordre intérieur, la chambre compétente du conseil de l'Institut peut rappeler le membre à l'ordre. La chambre du conseil de l'Institut peut retirer la qualité de membre lorsque le membre reste en défaut de s'exécuter trente jours après le rappel à l'ordre.
+
+Le retrait de la qualité de membre entraîne de plein droit l'omission du tableau.
+
+Lorsque l'intéressé démontre avoir payé la cotisation majorée selon les modalités prévues dans le règlement d'ordre intérieur, la chambre compétente du conseil de l'Institut procède à sa réinscription au tableau.
+
+§ 6. Lorsque la qualité de membre de la personne en défaut de paiement lui a déjà été retirée pour non-paiement de la cotisation dans les cinq ans précédant l'actuel défaut de paiement, la chambre compétente du conseil de l'Institut peut également saisir la commission de discipline qui peut lui infliger, en plus du paiement de la cotisation majorée, une sanction disciplinaire conformément à l'article 28.
+
+Lorsque le membre en défaut de paiement exerce une fonction au sein d'un des organes de l'Institut, la commission de discipline peut lui infliger une sanction disciplinaire dès le premier défaut de paiement.
+
+§ 7. La cotisation et la majoration éventuelle ne sont pas dues si le membre concerné a demandé son omission du tableau avant l'expiration du délai fixé par l'invitation à payer ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2025-11-20/09, art. 13, 004; En vigueur : 14-12-2025&gt;
+
+### Section 3. [<sup>1</sup> Exercice de la profession et port du titre ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 14, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 9/1
+
+[<sup>1</sup> § 1er. Sous réserve de la section 4, personne ne peut exercer la profession d'expert en automobiles sans être inscrit au tableau.
+
+§ 2. Une personne physique qui est inscrite au tableau peut exercer la profession d'expert en automobiles au sein d'une personne morale, sans que la personne morale ne soit inscrite au tableau. Seul un indépendant, un salarié ou un fonctionnaire inscrit au tableau peut exercer la profession en son nom et pour le compte de la personne morale. L'expert en automobiles reste dans ce cas personnellement responsable des conséquences du non-respect des dispositions légales et réglementaires régissant l'exercice des activités professionnelles d'expert en automobiles visées à l'article 4, § 1er, du fait de l'exercice des activités professionnelles au sein de cette personne morale.
+
+La personne physique visée à l'alinéa 1er ne peut pas exercer la profession d'expert en automobiles au sein d'une personne morale si l'un des membres de l'organe de gestion est suspendu pour la durée de la sanction et sous réserve de l'article 5, § 4, alinéa 2, ou a été radié du tableau de l'Institut sans faire l'objet d'une réhabilitation, et lorsque ce membre de l'organe de gestion exerce une influence décisive sur l'exercice de la profession par l'expert en automobiles. La personne physique peut continuer à exercer la profession d'expert en automobiles pendant un délai de six mois à compter de la prise de connaissance de cette situation. Passé ce délai, la chambre compétente du conseil de l'Institut peut prononcer le retrait de la qualité de membre de la personne physique.
+
+Le retrait de la qualité de membre entraîne de plein droit l'omission du tableau. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 15, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 10
+
+[<sup>1</sup> Seuls les membres titulaires de l'Institut peuvent porter le titre d'expert en automobiles. Ils seront en outre les seuls à pouvoir porter l'abréviation IEA.
+
+Les stagiaires portent le titre d'expert en automobiles stagiaire.
+
+Une personne morale ne peut utiliser dans sa raison sociale, dans sa dénomination particulière, dans la définition de son objet social ou dans sa publicité le titre d'expert en automobiles que si elle s'est vu conférer ce titre par l'Institut.
+
+La disposition de l'alinéa 3 ne s'applique pas aux établissements d'enseignement ni aux groupements professionnels d'experts en automobiles.
+
+Le conseil de l'Institut peut, aux conditions prévues par le règlement d'ordre intérieur, autoriser le port du titre d'expert en automobiles honoraire.
+
+[<sup>2</sup> ...]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 9, 002; En vigueur : 20-11-2011&gt;
+
+(2)&lt;L 2025-11-20/09, art. 16, 004; En vigueur : 14-12-2025&gt;
+
+### Section 4. [<sup>1</sup> Libre prestation de services et inscription au registre des prestataires de services ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 17, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 10/1
+
+[<sup>1</sup> § 1er. Les ressortissants d'un Etat membre sont autorisés à exercer temporairement et occasionnellement la profession d'expert en automobiles sans devoir remplir les conditions de l'article 5, selon les modalités prévues dans la loi du 12 février 2008 relative aux qualifications professionnelles et au paragraphe 2, si:
+
+1° ils sont légalement établis dans un autre Etat membre pour y exercer la même profession et;
+
+2° lorsque la profession d'expert en automobiles n'est pas réglementée dans l'Etat membre d'établissement, ils l'ont exercée dans un ou plusieurs Etats membres pendant au moins une année au cours des dix années qui précèdent leur prestation de services.
+
+Le caractère temporaire et occasionnel de la prestation de services est apprécié au cas par cas par la chambre compétente du conseil de l'Institut, notamment en fonction de sa durée, de sa fréquence, de sa périodicité et de sa continuité.
+
+§ 2. En application de l'article 9 de la loi du 12 février 2008 relative aux qualifications professionnelles, lorsque les personnes visées au paragraphe 1er se déplacent vers le territoire de la Belgique pour la première fois pour exercer, de façon temporaire et occasionnelle, la profession d'expert en automobiles, ils en informent préalablement la chambre compétente du conseil de l'Institut par une déclaration écrite comprenant les informations relatives aux couvertures d'assurance ou autres moyens de protection personnelle ou collective concernant la responsabilité professionnelle.
+
+La déclaration visée à l'alinéa 1er est renouvelée une fois par an si le prestataire de services compte fournir des services d'une manière temporaire ou occasionnelle en Belgique au cours de l'année concernée. Le prestataire de services peut fournir la déclaration par tout moyen.
+
+En outre, lors de la première prestation de services ou en cas de changement matériel relatif à la situation établie par les documents, le prestataire de services fournit également les documents visés à l'article 9, § 2, a) à e), de la loi du 12 février 2008 relative aux qualifications professionnelles. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 18, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 10/2
+
+[<sup>1</sup> Un registre reprenant les prestataires de services est tenu au sein de l'Institut. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 19, 004; En vigueur : 14-12-2025&gt;
+
+## CHAPITRE III/1. [<sup>1</sup> Déontologie ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 20, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 11
+
+Les experts en automobiles ne peuvent :
+
+\- exercer des activités incompatibles avec la dignité et l'indépendance de la profession;
+
+\- [<sup>1</sup> - exercer, directement ou indirectement, en personne physique ou en personne morale, une ou plusieurs des activités suivantes:
+
+a) la vente, la location ou la réparation de véhicules;
+
+b) la vente ou la réparation de pièces détachées;
+
+c) l'offre des services d'assurance et de courtage]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2025-11-20/09, art. 21, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 12
+
+[<sup>2</sup> Les experts en automobiles s'acquittent en toute impartialité et dans le respect du code de déontologie des missions qui leur sont confiées.]<sup>2</sup>
+
+[<sup>2</sup> Le code de déontologie est approuvé ou adopté par le Roi.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 10, 002; En vigueur : 20-11-2011&gt;
+
+(2)&lt;L 2025-11-20/09, art. 22, 004; En vigueur : 14-12-2025&gt;
+
+## CHAPITRE IV. - Gestion et fonctionnement de l'Institut.
+
+### Section 1ere. [<sup>1</sup> L'assemblée générale ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 23, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 13
+
+&lt;Abrogé par L 2025-11-20/09, art. 24, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 14
+
+[<sup>1</sup> § 1er. L'assemblée générale de l'Institut est composée de tous les membres titulaires personnes physiques.
+
+L'assemblée générale élit pour trois ans par un vote secret parmi ses membres le président, le vice-président, le secrétaire, le trésorier et les autres membres et membres suppléants du conseil de l'Institut, ainsi que le commissaire aux comptes.
+
+[<sup>2</sup> Tout électeur peut introduire un recours contre les résultats des élections auprès du Conseil d'Etat dans les huit jours de leur publication au Moniteur belge. A peine d'irrecevabilité, le recours est préalablement notifié par envoi recommandé ou contre accusé de réception au président de l'Institut. Le Conseil d'Etat statue sur le recours dans un délai de soixante jours. En cas d'annulation totale ou partielle des élections ainsi qu'en cas de recours contre les élections, les mandataires sortants assument la vacance des mandats concernés aussi longtemps que dure cette vacance. En cas d'annulation totale ou partielle des élections, le commissaire du gouvernement fixe la date à laquelle il y a lieu de procéder à de nouvelles élections. Le Roi détermine, par arrêté délibéré en Conseil des ministres, la procédure devant le Conseil d'Etat.]<sup>2</sup>
+
+§ 2. L'assemblée générale accepte ou refuse les dons et legs en faveur de l'Institut. Elle autorise l'aliénation ou le nantissement de ses immeubles, approuve le compte annuel des recettes et des dépenses, donne décharge au conseil de sa gestion et délibère sur tous les sujets pour lesquels la présente loi et les règlements lui attribuent compétence.
+
+L'assemblée générale connaît, en outre, par voie d'avis, propositions ou recommandations au conseil, de tous objets intéressant l'Institut et qui lui sont régulièrement soumis.
+
+Les décisions de l'assemblée générale s'appliquent à tous les membres. Elles sont prises à la majorité des membres titulaires personnes physiques présents ou représentés. Chaque membre titulaire personne physique a droit à une voix. Les membres titulaires personnes physiques peuvent donner à un autre membre titulaire personne physique procuration par écrit pour voter en leur lieu et place à l'assemblée générale. Chaque membre personne physique ne peut être porteur que de deux procurations au maximum ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2025-11-20/09, art. 25, 004; En vigueur : 14-12-2025&gt;
+
+(2)&lt;L 2025-12-11/05, art. 2, 005; En vigueur : 29-12-2025&gt;
+
+#### Art. 15
+
+L'assemblée se réunit au moins une fois par an. La date et les modalités de cette réunion sont fixées par le règlement d'ordre intérieur.
+
+A cette assemblée, le conseil de l'Institut présente un rapport sur son activité pendant l'année écoulée et soumet à son approbation le compte annuel des recettes et des dépenses et le budget pour le nouvel exercice.
+
+Le conseil de l'Institut peut convoquer l'assemblée générale chaque fois qu'il le juge utile. Il doit la convoquer lorsque le cinquième des membres [<sup>1</sup> de l'Institut]<sup>1</sup> le demandent par écrit, en indiquant l'objet qu'ils désirent voir porter à l'ordre de jour.
+
+Les convocations sont adressées pour l'assemblée générale ordinaire, au moins quinze jours, et pour les assemblées générales extraordinaires, au moins huit jours avant la réunion; elles mentionnent l'ordre du jour.
+
+Les comptes sont dressés conformément au modèle arrêté par le Roi et sont tenus à la disposition des membres inscrits au siège de l'Institut.
+
+----------
+
+(1)&lt;L 2025-11-20/09, art. 26, 004; En vigueur : 14-12-2025&gt;
+
+### Section 2. [<sup>1</sup> Le conseil]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art .27, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 16
+
+[<sup>1</sup> § 1er. Le conseil de l'Institut est composé du président, du vice-président, du secrétaire, du trésorier, et des dix autres membres élus par l'assemblée générale parmi les membres titulaires de l'Institut, conformément à l'article 14. Leur mandat, renouvelable et d'une durée de trois ans, expire le jour même de l'assemblée générale annuelle de l'année concernée. Si le président appartient au rôle linguistique français ou allemand, le vice-président appartient au rôle linguistique néerlandais ou inversement. Si le secrétaire appartient au rôle linguistique français ou allemand, le trésorier appartient au rôle linguistique néerlandais ou inversement.
+
+Parmi les dix autres membres, cinq appartiennent au rôle linguistique néerlandais et cinq appartiennent au rôle linguistique français ou allemand.
+
+Les quatorze membres du conseil se répartissent en deux chambres. Les sept membres du rôle linguistique néerlandais forment la chambre d'expression néerlandaise. Les sept membres du rôle linguistique français ou allemand forment la chambre d'expression française. La chambre d'expression française compte un membre du rôle linguistique allemand si au moins un candidat éligible du rôle linguistique allemand s'est présenté aux élections.
+
+Au moins un membre suppléant est élu pour chacun des dix autres membres visés à l'alinéa 1er suivant les mêmes conditions que celles prévues pour l'élection de ces membres effectifs. Un membre suppléant peut remplacer n'importe lequel de ces membres effectifs pour autant qu'il remplisse les mêmes conditions que ce dernier. Les suppléants sont convoqués dans l'ordre décroissant du nombre de voix qu'ils ont obtenu.
+
+§ 2. Lorsque le président est définitivement absent, le vice-président le remplace.
+
+Dans ce cas, le vice-président est remplacé par le membre du conseil de l'Institut qui répond aux conditions cumulatives suivantes:
+
+1° il fait partie des dix autres membres du conseil de l'Institut visés au paragraphe 1er, alinéa 1er;
+
+2° il appartient au même rôle linguistique que le président définitivement absent;
+
+3° il a obtenu, parmi les personnes répondant aux conditions des 1° et 2°, le plus de voix lors des élections.
+
+Lorsqu'un membre du comité exécutif visé à l'article 17/1, autre que le président, est définitivement absent, il est remplacé par le membre du conseil de l'Institut qui répond aux conditions cumulatives suivantes:
+
+1° il fait partie des dix autres membres du conseil de l'Institut visés au paragraphe 1er, alinéa 1er;
+
+2° il appartient au même rôle linguistique que le membre du comité exécutif qu'il remplace;
+
+3° il a obtenu, parmi les personnes répondant aux conditions des 1° et 2°, le plus de voix lors des élections.
+
+Le membre du conseil de l'Institut qui remplace un membre du comité exécutif conformément à l'alinéa 2 ou 3 est remplacé par un membre suppléant.
+
+Un remplacement s'effectue jusqu'au terme du mandat du membre remplacé.
+
+§ 3. Le conseil de l'Institut délibère valablement uniquement si au moins trois membres de chaque chambre du conseil de l'Institut, dont au moins un membre du comité exécutif visé à l'article 17/1, sont présents. Les décisions du conseil de l'Institut sont prises à la majorité des membres présents. En cas de parité des voix, la voix du président est prépondérante. En l'absence du président et en cas de parité des voix, la voix du vice-président est prépondérante.
+
+§ 4. Chaque chambre du conseil de l'Institut délibère valablement uniquement si au moins trois membres du conseil de l'Institut, dont au moins un membre du comité exécutif visé à l'article 17/1, sont présents. Les décisions de la chambre sont prises à la majorité des membres présents. En cas de parité des voix, la voix du président ou du vice-président est prépondérante. En l'absence du président ou du vice-président, ceux-ci sont remplacés par un autre membre du comité exécutif, dont la voix est prépondérante en cas de parité.
+
+§ 5. Toute décision du conseil de l'Institut concernant une personne déterminée est motivée ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2025-11-20/09, art. 28, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 17
+
+[<sup>1</sup> § 1er. Le conseil de l'Institut propose ou donne son avis sur [<sup>2</sup> le règlement de stage, le code de déontologie]<sup>2</sup> ainsi que les règlements nécessaires pour assurer le fonctionnement de l'Institut et la réalisation des objectifs que la présente loi lui assigne.
+
+Il veille au respect des conditions d'accès à la profession et dénonce à l'autorité judiciaire toute infraction à la présente loi et à ses règlements.
+
+Il fixe les conditions auxquelles les membres doivent répondre pour pouvoir porter le titre d'expert en automobiles honoraire.
+
+Il fixe les critères [<sup>2</sup> minimaux]<sup>2</sup> auxquels les titulaires de la profession doivent répondre pour assumer la fonction de maître de stage dans le cadre du stage.
+
+Il fixe les obligations relatives au perfectionnement professionnel et à la formation des membres.
+
+Il vote le budget proposé par le comité exécutif. Ce budget doit être approuvé par le Ministre qui a les Classes moyennes dans ses attributions.
+
+Tant en justice que pour stipuler et s'obliger, l'Institut agit par le conseil. Celui-ci peut se faire représenter par son président ou son vice-président.
+
+Le contrôle des actes du conseil de l'Institut est exercé par un commissaire du gouvernement, assisté d'un suppléant. L'un et l'autre sont nommés par le Roi, sur proposition du Ministre qui a les Classes moyennes dans ses attributions parmi les fonctionnaires de son département. Il est invité aux réunions du conseil. Les procès-verbaux lui sont communiqués. Il peut, en outre, prendre connaissance sur place de toutes les décisions et documents du conseil et du comité exécutif. Il doit recevoir toutes les informations et documents lui permettant d'accomplir ses missions.
+
+Le commissaire du gouvernement dispose d'un délai de quinze jours ouvrables pour prendre son recours auprès du ministre contre l'exécution de toute décision du conseil qui est contraire aux lois et règlements ou qui ne fait pas partie de la mission du conseil telle que définie au présent article, qui est de nature à compromettre la solvabilité de l'institut ou qui est contraire au budget approuvé de l'Institut.
+
+Ce délai court à partir du jour où [<sup>2</sup> le procès-verbal actant la décision a été notifié au commissaire du gouvernement]<sup>2</sup>.
+
+Le recours est suspensif.
+
+Si le ministre n'a pas prononcé l'annulation dans un délai de quinze jours ouvrables à partir de la réception du recours, la décision devient définitive.
+
+§ 2. Les chambres du conseil de l'Institut sont compétentes pour octroyer et retirer la qualité de stagiaire et de membre de l'Institut.
+
+Leur compétence est déterminée par le lieu où le demandeur exercera sa profession pour la première fois ou ultérieurement par celui de son principal établissement.
+
+Si ce lieu est situé dans la région bilingue de Bruxelles-Capitale, cette compétence dépendra de la langue utilisée dans la demande ou de celle choisie par le défendeur.
+
+La personne qui ne possède pas une connaissance suffisante de la langue de la procédure utilisée par la chambre devant laquelle elle est citée à comparaître en matière disciplinaire ou d'honoraires peut se faire assister à l'audience par un interprète de son choix.
+
+§ 3. Tant le conseil de l'Institut que chacune de ses chambres peuvent donner des avis, d'initiative ou sur demande, aux autorités compétentes pour les matières qui relèvent de la profession d'expert en automobiles.
+
+§ 4. [<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 14, 002; En vigueur : 20-11-2011&gt;
+
+(2)&lt;L 2025-11-20/09, art. 29, 004; En vigueur : 14-12-2025&gt;
+
+### Section 3. [<sup>1</sup> Le comité exécutif ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 30, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 17/1
+
+[<sup>1</sup> Le comité exécutif est composé du président, du vice-président, du secrétaire et du trésorier. Il est chargé de la gestion journalière de l'Institut. Celle-ci comprend la conduite des affaires courantes, la surveillance de la gestion financière de l'Institut, la préparation des réunions du conseil de l'Institut, l'engagement et la direction du personnel et toutes autres missions définies par le conseil de l'Institut, à l'exception des attributions expressément confiées au conseil de l'Institut par la loi ou en vertu de celle-ci.
+
+Le comité exécutif prend toutes les mesures nécessaires à la préparation ainsi qu'à l'exécution des décisions du conseil de l'Institut et il établit l'ordre du jour des séances.
+
+Le comité exécutif peut être réuni à la requête du commissaire du gouvernement.
+
+Les décisions du comité exécutif sont prises à l'unanimité des membres présents et pour autant qu'au moins un membre de la chambre d'expression néerlandaise et un membre de la chambre d'expression française soient présent ]<sup>1</sup>.
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 31, 004; En vigueur : 14-12-2025&gt;
+
+### [-1 Section 4.]-1 [<sup>1</sup> Dispositions communes ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 32, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 18
+
+[<sup>1</sup> Le Roi fixe le montant des jetons de présence et/ou des indemnités alloués aux membres et à leurs suppléants du conseil de l'Institut, [<sup>2</sup> du commissaire aux comptes,]<sup>2</sup> du comité exécutif, de la commission de stage, de la commission de discipline et de la commission d'appel.
+
+Ils reçoivent un remboursement de leurs frais de déplacement effectivement exposés pour le compte de l'Institut, conformément aux tarifs de remboursement valables pour les fonctionnaires fédéraux.
+
+Ils ne peuvent recevoir de l'Institut d'autres indemnités ou jetons de présence.
+
+Le Roi détermine le montant de l'indemnité de fonction du commissaire du gouvernement et de son suppléant.
+
+L'Indemnité de fonction et les jetons de présence ne peuvent être cumulés.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 15, 002; En vigueur : 20-11-2011&gt;
+
+(2)&lt;L 2025-11-20/09, art. 33, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 18/1
+
+[<sup>1</sup> Les membres du personnel peuvent être invités à assister aux réunions des organes de l'Institut.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 34, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 18/2
+
+[<sup>1</sup> Chaque organe de l'Institut peut se faire assister par un expert ou un conseiller sur décision unanime de l'organe concerné, à condition qu'au moins deux tiers des membres soient présents.
+
+La décision visée à l'alinéa 1er reste valable jusqu'à son abrogation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 35, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 18/3
+
+[<sup>1</sup> Les organes de l'Institut sont soumis au secret professionnel.
+
+Toutefois, les organes, les membres de ces organes et les membres du personnel de l'Institut peuvent échanger des informations avec d'autres organes, avec d'autres membres de ces organes et avec d'autres membres du personnel de l'Institut pour autant que cet échange d'informations soit nécessaire à l'accomplissement de leurs missions légales ou réglementaires. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 36, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 18/4
+
+[<sup>1</sup> Le Roi arrête, sur proposition ou après avis du conseil de l'Institut, les règlements nécessaires pour assurer le fonctionnement de l'Institut et la réalisation des objectifs que la présente loi lui assigne. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 37, 004; En vigueur : 14-12-2025&gt;
+
+## CHAPITRE V. [<sup>1</sup> De l'organisation du stage des experts en automobiles ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2025-11-20/09, art. 38, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 19
+
+L'Institut organise pour ceux qui se destinent à la profession d'expert en automobiles un stage dont la durée est de deux ans.
+
+[<sup>1</sup> Le conseil peut réduire la période de stage sur avis motivé de la commission de stage, tant pour les ressortissants belges qu'étrangers]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2025-11-20/09, art. 39, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 20
+
+[<sup>1</sup> Pour être admis au stage [<sup>2</sup> et être inscrit au tableau comme stagiaire]<sup>2</sup>, il faut :
+
+\- satisfaire aux conditions prévues [<sup>2</sup> à l'article 5, § 2, alinéa 1er, 1°, 2°, c), d), e), f), g), h), ou i),]<sup>2</sup> ;
+
+\- [<sup>2</sup> ...]<sup>2</sup>.
+
+\- avoir conclu une convention de stage avec un membre de l'Institut comptant au moins cinq années d'inscription au tableau de l'Institut, qui s'engage à guider le stagiaire et à l'assister dans sa formation. La convention requiert l'approbation de la commission de stage. Cette disposition ne sera d'application qu'à partir de la sixième année d'existence de l'Institut. Durant les cinq premières années suivant la création de l'Institut, la convention de stage peut être conclue avec les membres qui disposent d'au moins cinq ans d'expérience professionnelle comme expert en automobiles.
+
+[<sup>2</sup> L'expert en automobiles qui fournit la preuve des qualifications professionnelles visées à l'article 5, § 2, alinéa 1er, 2°, a) ou b), est exempté du stage visé à l'article 19.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 16, 002; En vigueur : 20-11-2011&gt;
+
+(2)&lt;L 2025-11-20/09, art. 40, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 21
+
+[<sup>2</sup> Le Roi arrête, sur proposition ou après avis du conseil de l'Institut, le règlement de stage, lequel détermine au moins les droits et obligations du maître de stage et du stagiaire, la composition et les attributions de la commission de stage, les règles de la rémunération des stagiaires et la procédure d'inscription. Le règlement de stage peut reprendre d'autres conditions ou modalités liées à la formation professionnelle]<sup>2</sup>.
+
+Toute décision [<sup>1</sup> des chambres]<sup>1</sup> du conseil de l'Institut refusant l'admission d'un candidat au stage est susceptible d'un recours de la part de l'intéressé devant la commission prévue à l'article 30.
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 17, 002; En vigueur : 20-11-2011&gt;
+
+(2)&lt;L 2025-11-20/09, art. 41, 004; En vigueur : 14-12-2025&gt;
+
+## CHAPITRE VI. - De l'exercice de la fonction d'expert en automobiles.
+
+#### Art. 22
+
+Le conseil de l'Institut peut définir les normes usuelles pour l'exécution des missions visées à l'article 4.
+
+#### Art. 23
+
+[<sup>1</sup> Conformément à leur objet, les chambres du conseil de l'Institut veillent au bon accomplissement par les membres des missions qui leur sont confiées. En particulier, elles veillent à ce que ceux-ci :
+
+\- poursuivent une formation professionnelle permanente;
+
+\- disposent des capacités, des collaborations et du temps requis pour le bon accomplissement des missions qui leur sont confiées;
+
+\- s'acquittent avec la diligence requise et en toute impartialité des missions d'expertise qui leur sont confiées;
+
+\- n'acceptent pas de missions dans des conditions susceptibles de mettre en cause l'objectivité de leur exercice;
+
+\- n'exercent pas d'activités incompatibles avec l'indépendance de leur fonction.]<sup>1</sup>
+
+A cet effet, [<sup>1</sup> les chambres peuvent]<sup>1</sup> :
+
+\- exiger [<sup>1</sup> des membres]<sup>1</sup> la production de toute information, de toute justification et de tout document à caractère professionnel pour autant que ces pièces aient une importance pour le contrôle des dispositions reprises dans la présente loi ou dans les règlements qui en découlent;
+
+\- faire procéder auprès [<sup>1</sup> des membres]<sup>1</sup> à des enquêtes sur leurs méthodes de travail, leur organisation, [<sup>1</sup> l'exécution des tâches attribuées]<sup>1</sup> et la manière dont ils exercent leurs missions.
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 18, 002; En vigueur : 20-11-2011&gt;
+
+#### Art. 24
+
+[<sup>1</sup> La chambre du conseil de l'Institut qui]<sup>1</sup> a connaissance du fait qu'un expert en automobiles a un comportement [<sup>1</sup> non conforme]<sup>1</sup> au prescrit de l'article 23, alinéa 1er, [<sup>1</sup> lui]<sup>1</sup> lui enjoint de s'y conformer endéans un délai [<sup>1</sup> tel qu'il aura été précisé dans le code de déontologie]<sup>1</sup>.
+
+[<sup>1</sup> Si l'expert en automobiles n'y donne pas suite de manière satisfaisante dans le délai imparti, la chambre concernée peut déférer le cas à la commission de discipline. En vertu des articles 26, 28, 29 et 30, celle-ci peut faire interdiction à l'expert en automobiles d'accepter certaines missions nouvelles ou exiger qu'il se démette, dans les délais fixés par le code de déontologie, de certaines missions qu'il a acceptées jusqu'à ce qu'il soit satisfait aux injonctions de la chambre.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 19, 002; En vigueur : 20-11-2011&gt;
+
+#### Art. 25
+
+Tout expert en automobiles qui [<sup>1</sup> fait]<sup>1</sup> l'objet d'une procédure judiciaire, disciplinaire ou administrative portant sur l'exercice de sa fonction [<sup>2</sup> ou concernant la condition visée à l'article 5, § 2, alinéa 1er, 1° ]<sup>2</sup>, doit en [<sup>1</sup> informer la chambre compétente du conseil]<sup>1</sup> de l'Institut.
+
+[<sup>1</sup> Les chambres du conseil de l'Institut peuvent être consultées]<sup>1</sup> par l'instance judiciaire, disciplinaire ou administrative en cause.
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 20, 002; En vigueur : 20-11-2011&gt;
+
+(2)&lt;L 2025-11-20/09, art. 42, 004; En vigueur : 14-12-2025&gt;
+
+## CHAPITRE VII. - De la discipline professionnelle.
+
+#### Art. 26
+
+[<sup>1</sup> La discipline sur les experts en automobiles est exercée en premier ressort par une commission de discipline. Cette commission comprend deux chambres, l'une d'expression française, l'autre d'expression néerlandaise. Chaque chambre est composée d'un magistrat effectif ou honoraire ou d'un avocat inscrit au barreau depuis au moins cinq ans qui la préside, ainsi que de [<sup>2</sup> trois]<sup>2</sup> experts en automobiles [<sup>2</sup> élus par l'assemblée générale]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>2</sup> La chambre d'expression française compte un membre du rôle linguistique allemand si au moins un candidat éligible du rôle linguistique allemand s'est présenté aux élections]<sup>2</sup>.
+
+[<sup>1</sup> Les présidents des chambres de la commission de discipline sont nommés par le Roi, sur proposition du Ministre qui a les Classes moyennes dans ses attributions.]<sup>1</sup>
+
+Pour chaque membre effectif, il est [<sup>2</sup> élu]<sup>2</sup> un membre suppléant. Les membres et les suppléants sont nommés pour une période renouvelable de six ans.
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 21, 002; En vigueur : 20-11-2011&gt;
+
+(2)&lt;L 2025-11-20/09, art. 43, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 27
+
+Des peines disciplinaires peuvent être infligées aux [<sup>1</sup> membres titulaires et stagiaires]<sup>1</sup> :
+
+\- qui ont manqué à leurs obligations professionnelles dans l'exercice de leur mission d'expert automobiles;
+
+\- qui ont manqué aux principes de dignité, de probité et d'intégrité qui font la base de la profession.
+
+[<sup>2</sup> qui ont violé les dispositions de la présente loi ou de ses arrêtés d'exécution;
+
+\- qui n'ont pas respecté les incompatibilités visées à l'article 11.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 22, 002; En vigueur : 20-11-2011&gt;
+
+(2)&lt;L 2025-11-20/09, art. 44, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 28
+
+§ 1er. Les peines disciplinaires qui peuvent être infligées sont :
+
+\- l'avertissement;
+
+\- la réprimande;
+
+\- l'interdiction d'accepter ou de continuer certaines missions;
+
+\- la suspension pour un terme ne pouvant excéder une année;
+
+\- la radiation.
+
+La suspension emporte interdiction d'exercer des activités professionnelles en tant qu'expert en automobiles en Belgique pour la durée prévue par la peine. Elle emporte interdiction de participer aux délibérations et élections de l'assemblée générale, du conseil et des commissions de l'Institut ainsi que de la commission d'appel des experts en automobiles, pendant la durée de l'exécution de cette peine disciplinaire.
+
+La radiation emporte interdiction d'exercer la profession d'expert en automobiles en Belgique.
+
+[<sup>2</sup> L'expert en automobiles qui a fait l'objet d'une radiation peut demander sa réinscription, moyennant le respect de l'article 5 et des conditions liées à la réhabilitation visées à l'article 32/2, au terme d'un délai de cinq ans qui commence à courir à partir du moment où la décision de la radiation a été coulée en force de chose jugée.]<sup>2</sup>
+
+§ 2. [<sup>1</sup> La commission de discipline [<sup>2</sup> peut être]<sup>2</sup> saisie par la chambre compétente du conseil de l'Institut, agissant soit d'office, soit sur plainte de tout intéressé à l'encontre d'un expert en automobiles ou d'un expert en automobiles stagiaire.
+
+La chambre compétente du conseil adresse à la commission de discipline un rapport dans lequel elle expose les faits reprochés à l'expert en automobiles avec référence aux dispositions légales, réglementaires ou disciplinaires concernées.]<sup>1</sup>
+
+§ 3. La commission de discipline ne peut prononcer une peine disciplinaire que si l'expert [<sup>2</sup> en automobiles]<sup>2</sup> intéressé a été invité par [<sup>2</sup> envoi recommandé]<sup>2</sup>, adressée au moins [<sup>2</sup> trente]<sup>2</sup> jours à l'avance à se présenter devant la commission.[<sup>2</sup> Sous peine de nullité, cet envoi relate]<sup>2</sup> les faits reprochés, mentionne la faculté de consulter le dossier et invite l'expert à adresser à la commission de discipline un mémoire de défense auquel sont joints tous les documents utiles à sa défense.
+
+L'expert en automobiles peut faire valoir sa défense verbalement ou par écrit. Il peut se faire assister par un avocat ou par un membre de l'Institut qui ne siège pas auprès de la commission de discipline [<sup>2</sup> , de la commission d'appel ou au sein du conseil]<sup>2</sup>.
+
+§ 4. Les décisions de la commission de discipline sont motivées. Elles sont notifiées sans retard par [<sup>2</sup> envoi recommandé]<sup>2</sup> à l'expert en automobiles intéressé [<sup>2</sup> avec simple copie à la chambre compétente du conseil de l'Institut]<sup>2</sup>.
+
+Cette notification est accompagnée de tous les renseignements utiles concernant les délais d'opposition et d'appel et les modalités selon lesquelles l'opposition ou l'appel peuvent être formés. A défaut de ces mentions, la notification est nulle.
+
+[<sup>2</sup> Elles délibèrent valablement uniquement si deux tiers des membres, à l'exception du président, sont présents.]<sup>2</sup>
+
+[<sup>2</sup> § 5. Les séances sont publiques, à moins que l'expert en automobiles intéressé ne fasse la demande expresse d'un traitement à huis clos.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 23, 002; En vigueur : 20-11-2011&gt;
+
+(2)&lt;L 2025-11-20/09, art. 45, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 29
+
+Celui à charge duquel une décision disciplinaire par défaut a été rendue peut faire opposition à cette décision dans un délai de trente jours à dater de sa notification. [<sup>1</sup> L'opposition a un effet suspensif.]<sup>1</sup>
+
+Pour être recevable, l'opposition doit être notifiée dans le délai prescrit à la commission de discipline par [<sup>1</sup> envoi recommandé]<sup>1</sup>.
+
+Lorsque l'opposant fait défaut une seconde fois, une nouvelle opposition n'est plus recevable.
+
+----------
+
+(1)&lt;L 2025-11-20/09, art. 46, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 30
+
+§ 1er. L'appel des décisions de la commission de discipline est introduit auprès de la commission d'appel.
+
+[<sup>1</sup> Cette commission comprend deux chambres, l'une d'expression française, l'autre d'expression néerlandaise. Chaque chambre est composée d'un magistrat effectif ou honoraire ou d'un avocat inscrit au barreau depuis au moins cinq ans qui la préside, ainsi que de trois experts en automobiles [<sup>2</sup> élus par l'assemblée générale]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>2</sup> La chambre d'expression française compte un membre du rôle linguistique allemand si au moins un candidat éligible du rôle linguistique allemand s'est présenté aux élections]<sup>2</sup>.
+
+Pour chaque membre effectif, il est [<sup>2</sup> élu]<sup>2</sup> un membre suppléant.
+
+[<sup>1</sup> Les membres et les suppléants sont nommés pour une période renouvelable de six ans. Les présidents des chambres de la commission d'appel sont nommés par le Roi, sur proposition du Ministre qui a les Classes moyennes dans ses attributions.]<sup>1</sup>
+
+§ 2. L'expert en automobiles intéressé ainsi que [<sup>1</sup> la chambre compétente du conseil]<sup>1</sup> de l'Institut peuvent interjeter appel dans un délai de trois mois à dater de la notification de la décision. [<sup>2</sup> L'appel a un effet suspensif.]<sup>2</sup>
+
+§ 3. Pour être recevable, l'appel doit être notifié à la commission d'appel par [<sup>2</sup> envoi recommandé]<sup>2</sup>.
+
+§ 4. La commission d'appel ne peut statuer qu'après que l'expert en automobiles intéressé ait été invité à se présenter devant la commission d'appel par [<sup>2</sup> envoi recommandé adressé]<sup>2</sup> au moins quinze jours à l'avance. [<sup>2</sup> Sous peine de nullité, cet envoi relate les faits reprochés, mentionne la faculté de consulter le dossier et invite l'expert à adresser à la commission d'appel un mémoire en défense auquel sont jointes toutes les pièces utiles à sa défense.]<sup>2</sup>
+
+[<sup>2</sup> L'expert en automobiles peut faire valoir sa défense verbalement ou par écrit. Il peut se faire assister par un avocat ou par un membre de l'Institut qui ne siège pas auprès de la commission d'appel ou au sein du conseil.]<sup>2</sup>
+
+L'intéressé doit être mis en mesure de consulter le dossier.
+
+§ 5. Les §§ [<sup>2</sup> ...]<sup>2</sup> 4 et 5, de l'article 28 sont également d'application.
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 24, 002; En vigueur : 20-11-2011&gt;
+
+(2)&lt;L 2025-11-20/09, art. 47, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 30/1
+
+[<sup>1</sup> Les fonctions de membre du conseil de l'Institut, de la commission de discipline et de la commission d'appel [<sup>2</sup> et la fonction de commissaire aux comptes]<sup>2</sup> sont incompatibles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-10-06/11, art. 25, 002; En vigueur : 20-11-2011&gt;
+
+(2)&lt;L 2025-11-20/09, art. 48, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 31
+
+[<sup>1</sup> Les décisions prises en première instance en matière disciplinaire sont envoyées par le président du conseil de l'Institut au procureur général près la cour d'appel du domicile de l'expert en automobiles concerné. Le procureur général peut demander communication du dossier]<sup>1</sup>.
+
+Le procureur général peut déférer d'office à la commission d'appel prévue à [<sup>1</sup> l'article 30]<sup>1</sup> toute sentence rendue en matière disciplinaire par la commission de discipline.
+
+----------
+
+(1)&lt;L 2025-11-20/09, art. 49, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 32
+
+[<sup>1</sup> La décision de la commission d'appel peut faire l'objet d'un pourvoi en cassation conformément aux dispositions de la quatrième partie, livre III, titre IVbis, du Code judiciaire.]<sup>1</sup> [<sup>2</sup> Le pourvoi en cassation est suspensif]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2014-04-10/57, art. 35, 003; En vigueur : 25-05-2014&gt;
+
+(2)&lt;L 2025-11-20/09, art. 50, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 32/1
+
+[<sup>1</sup> A l'exception de la suspension et de la radiation, les sanctions disciplinaires sont effacées après un délai de cinq ans, à compter de la date de la décision définitive prononçant une peine disciplinaire.
+
+L'effacement peut uniquement être effectué à condition que l'intéressé n'ait pas encouru une nouvelle peine disciplinaire pendant la période visée à l'alinéa 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 51, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 32/2
+
+[<sup>1</sup> L'intéressé qui a encouru une sanction disciplinaire n'ayant pas été effacée, peut introduire une demande en réhabilitation auprès de la commission d'appel.
+
+La demande visée à l'alinéa 1er est uniquement recevable si:
+
+1° un délai de cinq ans s'est écoulé depuis la date de la décision définitive prononçant la dernière peine disciplinaire;
+
+2° l'intéressé a obtenu la réhabilitation en matière pénale au cas où une des sanctions disciplinaires a été prise pour un fait qui a donné lieu à une condamnation pénale ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 52, 004; En vigueur : 14-12-2025&gt;
+
+## CHAPITRE VIII. - Du patrimoine et du budget de l'Institut.
+
+#### Art. 33
+
+Les recettes de l'Institut ainsi que les règles relatives à l'établissement et au contrôle des comptes et du budget sont déterminées par le règlement d'ordre intérieur, sauf les dispositions des articles 34 et 35.
+
+L'Institut ne peut, en aucun cas, disposer à titre gratuit ni répartir son patrimoine en tout ou en partie entre ses membres ou leurs ayants droits.
+
+#### Art. 34
+
+Les recettes de l'Institut sont constituées notamment par :
+
+\- les cotisations des membres;
+
+\- les revenus et produits divers de son patrimoine;
+
+\- les subsides, legs et donations.
+
+[<sup>1</sup> la participation aux frais demandée aux membres participant à des événements, conférences ou séminaires organisés par l'Institut, pour autant que ces frais aient un caractère indemnitaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2025-11-20/09, art. 53, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 35
+
+Chaque année, le conseil de l'Institut [<sup>1</sup> communique]<sup>1</sup> à l'assemblée générale :
+
+\- l'inventaire des valeurs actives et passives de l'Institut au 31 décembre précédent;
+
+\- le relevé des recettes et dépenses de l'exercice arrêté au 31 décembre précédent;
+
+\- le budget pour le nouvel exercice;
+
+\- le rapport sur l'activité de l'Institut pendant l'année écoulée;
+
+\- le rapport du commissaire [<sup>2</sup> aux comptes]<sup>2</sup>.
+
+L'inventaire et les comptes doivent, au préalable, avoir été vérifiés par le commissaire au compte, [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 26, 002; En vigueur : 20-11-2011&gt;
+
+(2)&lt;L 2025-11-20/09, art. 54, 004; En vigueur : 14-12-2025&gt;
+
+## CHAPITRE IX. - Dispositions pénales.
+
+#### Art. 36
+
+[<sup>1</sup> Celui qui porte publiquement et illégalement le titre d'expert en automobiles ou qui exerce illégalement la profession, est puni d'une [<sup>2</sup> soit d'une amende pénale de 26 euros à 1000 euros et d'un emprisonnement de huit jours à quinze jours, ou d'une de ces peines seulement, soit d'une amende administrative de 26 à 1000 euros]<sup>2</sup>.]<sup>1</sup>
+
+Le chapitre VII du livre premier du Code pénal, ainsi que l'article 85 du même code sont applicables à ces infractions.
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 27, 002; En vigueur : 20-11-2011&gt;
+
+(2)&lt;L 2025-11-20/09, art. 55, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 36/1
+
+[<sup>1</sup> Sans préjudice des devoirs incombant aux officiers de police judiciaire, le personnel de police, ainsi que les fonctionnaires et agents désignés à cet effet par le Roi sur proposition du ministre qui a les Classes moyennes dans ses attributions, sont chargés de rechercher et de constater par des procès-verbaux les infractions à la présente loi.
+
+Les procès-verbaux établis par ces agents font foi jusqu'à preuve du contraire. Dans les trente jours qui suivent la constatation de l'infraction, une copie du procès-verbal est notifiée au contrevenant par envoi recommandé avec accusé de réception ou lui est remise en mains propres, dans les formes prévues à l'article XV.2, § 2, du Code de droit économique.
+
+La recherche et la constatation des infractions visées à l'article 36 par les agents visés à l'alinéa 1er ont lieu conformément aux dispositions du livre XV, titre 1er, chapitre 1er, du Code de droit économique. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 56, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 36/2
+
+[<sup>1</sup> Lorsqu'ils constatent des infractions visées à l'article 36, les agents visés à l'article 36/1, alinéa 1er, peuvent adresser au contrevenant un avertissement le mettant en demeure de mettre fin à cet acte, conformément à l'article XV.31 du Code de droit économique.
+
+Lorsque les agents visés à l'article 36/1, alinéa 1er, constatent des infractions visées à l'article 36, les agents désignés par le ministre qui a les Classes moyennes dans ses attributions peuvent proposer une somme, dont le paiement volontaire par l'auteur de l'infraction éteint l'action publique, conformément à l'article XV.61 du Code de droit économique ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 57, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 36/3
+
+[<sup>1</sup> Les infractions visées à l'article 36 recherchées et constatées par les agents visés à l'article 36/1, alinéa 1er, peuvent faire l'objet de:
+
+1° l'application de la procédure de transaction visée à l'article 36/2, alinéa 2;
+
+2° une poursuite administrative en application de la procédure visée au titre 1/2 du livre XV du Code de droit économique;
+
+3° une poursuite pénale.
+
+La poursuite se fait conformément au titre 1/1 du livre XV du Code de droit économique. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 58, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 36/4
+
+[<sup>1</sup> Le ministère public notifie aux agents compétents visés à l'article XV.60/4 du Code de droit économique sa décision d'intenter ou non les poursuites pénales ou de proposer ou non une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du même Code.
+
+Lorsque le ministère public renonce à intenter les poursuites pénales ou à proposer une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du même Code, ou si le ministère public n'a pas pris de décision dans un délai de trois mois à compter du jour de la réception du procès-verbal consignant l'infraction, les agents compétents visés à l'article XV.60/4 du Code de droit économique décident s'il y a lieu d'entamer la procédure d'amende administrative. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 59, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 36/5
+
+[<sup>1</sup> Si le ministère public renonce à intenter les poursuites pénales ou à proposer une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du même Code, il envoie une copie des pièces de procédure de l'enquête complémentaire aux agents compétents visés à l'article XV.60/4 du Code de droit économique." ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 60, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 36/6
+
+[<sup>1</sup> Les dispositions du livre XV, titre 2, chapitre 1/1, du Code de droit économique sont applicables aux amendes administratives visées par la présente loi.
+
+Les décimes additionnels visés à l'article 1er, alinéa 1er, de la loi du 5 mars 1952 relative aux décimes additionnels sur les amendes pénales sont également applicables aux amendes administratives visées dans la présente loi. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 61, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 36/7
+
+[<sup>1</sup> Les articles XV.71, XV.73 et XV.74 du Code de droit économique sont applicables aux infractions pénales visées à l'article 36. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 62, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 36/8
+
+[<sup>1</sup> Les personnes qui ont été membres titulaires de l'Institut peuvent récupérer cette qualité sans devoir respecter les conditions de l'article 5, § 2, alinéa 1er, 2° à 4°.
+
+La possibilité visée à l'alinéa 1er n'est pas offerte aux personnes qui ont été radiées sans avoir obtenu la réhabilitation. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-11-20/09, art. 64, 004; En vigueur : 14-12-2025&gt;
+
+## CHAPITRE X. - Dispositions transitoires.
+
+#### Art. 37
+
+[<sup>1</sup> § 1er. 1° Les personnes suivantes peuvent devenir membres de l'Institut sans devoir répondre aux conditions visées à l'article[<sup>2</sup> article 5, § 2, alinéa 1er]<sup>2</sup>, 2°, 3° et 4° :
+
+\- l'expert en automobiles indépendant ou administrateur ou gérant d'une société d'expertise qui est porteur d'une des qualifications professionnelles visées à [<sup>2</sup> article [<sup>2</sup> 5, § 4]<sup>2</sup>, alinéa 1er]<sup>2</sup>, 2°, et qui est régulièrement inscrit à la Banque-Carrefour des Entreprises en qualité d'expert en automobiles à la date de publication de la loi du 6 octobre 2011 modifiant la loi du 15 mai 2007 relative à la reconnaissance et à la protection de la profession d'expert en automobiles et créant un Institut des experts en automobiles;
+
+\- l'expert en automobiles salarié qui est porteur d'une des qualifications professionnelles visées à [<sup>2</sup> article [<sup>2</sup> 5, § 4]<sup>2</sup> alinéa 1er]<sup>2</sup> 2°, et qui exerce l'activité d'expert en automobiles dans le cadre d'un contrat de travail à la date de publication de la loi du 6 octobre 2011 modifiant la loi du 15 mai 2007 relative à la reconnaissance et à la protection de la profession d'expert en automobiles et créant un Institut des experts en automobiles;
+
+\- ceux qui ont exercé, à la date de la demande, la profession d'expert en automobiles pendant au moins 2 années.
+
+2° Les personnes physiques qui répondent aux conditions du 1°, premier et deuxième tiret, et les personnes physiques et morales [<sup>2</sup> visées]<sup>2</sup> au 1°, premier à troisième tiret, introduisent une demande d'inscription à la liste des experts automobiles auprès du SPF Economie, P.M.E., Classes moyennes et Energie, par lettre recommandée à la poste ou contre récépissé valable, dans les six mois qui suivent l'entrée en vigueur du présent article. En cas de demande incomplète, le demandeur est informé dans les plus brefs délais du besoin de fournir des documents supplémentaires. Une seule demande peut être introduite.
+
+3° Les personnes physiques qui ne répondent pas aux conditions visées à l'article [<sup>2</sup> article [<sup>2</sup> 5, § 4]<sup>2</sup>, alinéa 1er]<sup>2</sup>, 2°, 3° et 4° ou aux conditions du 1°, peuvent devenir membres de l'Institut [<sup>2</sup> si elles]<sup>2</sup> demandent une dérogation au SPF Economie, P.M.E., Classes moyennes et Energie, par lettre recommandée à la poste ou contre récépissé valable, dans les six mois qui suivent l'entrée en vigueur du présent article. En cas de demande incomplète, le demandeur est informé dans les plus brefs délais du besoin de fournir des documents supplémentaires. Une seule demande peut être introduite.
+
+L'alinéa précédent ne vaut que pour des personnes qui introduisent leur demande de stage endéans les six mois après l'entrée en vigueur de l'arrêté royal fixant le règlement de stage.
+
+§ 2. Le SPF Economie, P.M.E., Classes moyennes et Energie s'assure de la preuve de la possession des qualifications professionnelles pour la profession d'expert en automobiles par le requérant, qui peut la fournir par tous les moyens de droit commun, avec exception de la prestation de serment.
+
+§ 3. La décision d'inscription sur la liste ou de refus d'inscription doit être prise par le président du SPF Economie, P.M.E., Classes moyennes et Energie, ou par un fonctionnaire de son département qu'il mandate, dans le mois à compter de la date de réception du dossier complet.
+
+Elle est notifiée immédiatement à l'intéressé et au Conseil d'agrément des experts en automobiles.
+
+Lors de la notification officielle d'une décision favorable, le SPF Economie, P.M.E., Classes moyennes et Energie informe l'expert en automobiles qu'il est redevable de la provision mentionnée à l'article 39.
+
+§ 4. Un recours est ouvert auprès des Conseils d'agrément des experts en automobiles aux demandeurs qui se sont vu refuser l'inscription ou [<sup>2</sup> lorsqu'aucune décision n'a été prise]<sup>2</sup> dans le délai visé au paragraphe 3. Il doit être introduit dans les trente jours calendrier qui suivent la notification de la décision de refus, par lettre recommandée à la poste ou contre récépissé valable.
+
+§ 5. 1° Les indépendants qui répondent aux conditions fixées dans l'article [<sup>2</sup> 5, § 2, alinéa 1er]<sup>2</sup>, 1°, 2°,[<sup>2</sup> c), d), e), f), g) ou h)"]<sup>2</sup>), et 5°, qui désirent s'installer en Belgique et qui veulent débuter l'exercice de la profession d'expert en automobiles dans la période après l'entrée en vigueur du présent article et avant l'entrée en vigueur de l'arrêté royal fixant le règlement de stage, tel que visé à [<sup>2</sup> l'article 21, alinéa 1er]<sup>2</sup>, peuvent, jusqu'à la décision de la Commission de Stage relative à leur demande de stage, exercer la profession d'expert en automobiles, sans répondre aux conditions de l'article [<sup>2</sup> 5, § 2, alinéa 1er]<sup>2</sup>, 3° et 6°.
+
+Les indépendants qui désirent s'installer en Belgique et qui veulent débuter l'exercice de la profession d'expert en automobiles et qui répondent aux conditions telles que visées à l'article 5, § 1er, 1°, 2°, a) ou b) en [<sup>2</sup>et 5° ]<sup>2</sup>°, peuvent exercer la profession jusqu'à la décision de la chambre qui s'occupe de la demande d'inscription au tableau de l'Institut. Les personnes pour lesquelles les conditions visées à l'article 5, § 1er, 4°, sont d'application, ne doivent pas répondre à ces conditions.
+
+2° Les travailleurs salariés qui répondent aux conditions fixées dans l'article [<sup>2</sup> 5, § 2, alinéa 1er]<sup>2</sup>, 1° et 2°, [<sup>2</sup> c), d), e), f), g) ou h)"]<sup>2</sup>, et qui veulent débuter l'exercice de la profession d'expert en automobiles dans la période après l'entrée en vigueur du présent article et avant l'entrée en vigueur de l'arrête royal fixant le règlement de stage, tel que visé à [<sup>2</sup> l'article 21, alinéa 1er]<sup>2</sup>, peuvent, jusqu'à la décision de la Commission de Stage relative à leur demande de stage, exercer la profession d'expert en automobile, sans répondre aux conditions de l'article 5, § 1er, 3° et 6°.
+
+Les travailleurs salariés qui désirent s'installer en Belgique et qui veulent débuter l'exercice de la profession d'expert en automobiles et qui répondent aux conditions telles que visées à l'article [<sup>2</sup> 5, § 2, alinéa 1er]<sup>2</sup>, 1°, 2°, a) ou b), peuvent exercer la profession jusqu'à la décision de la chambre chargée du traitement de la demande d'inscription au tableau de l'Institut. Les personnes pour lesquelles les conditions visées à l'article 5, § 1er, 4°, sont d'application, ne doivent pas répondre à ces conditions.
+
+L'alinéa précédent ne vaut que pour des personnes qui introduisent leur demande de stage endéans les six mois après l'entrée en vigueur de l'arrêté royal fixant le règlement de stage.
+
+La commission de stage déduit cette pratique professionnelle de la période de stage obligatoire, si le candidat-stagiaire répond aux conditions mentionnées ci-dessus.
+
+§ 6. Les personnes morales qui veulent débuter l'exercice de la profession d'expert en automobiles dans la période après l'entrée en vigueur du présent article et avant l'entrée en vigueur de l'arrête royal fixant le règlement de stage, tel que visé à [<sup>2</sup> l'article 21, alinéa 1er]<sup>2</sup> peuvent exercer la profession sous les conditions de l'article 5, § 2 si les personnes physiques visées dans l'article 5, § 2, 1° et 3°, répondent aux conditions de l'article 5, § 1er ou aux conditions de l'article 37, § 1er, 1°, ou § 5, alinéas 1er et 2.
+
+§ 7. Le Roi fixe les modalités d'inscription sur une des listes de l'Institut pour les personnes visées aux paragraphes 5 et 6.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 28, 002; En vigueur : 20-11-2011&gt;
+
+(2)&lt;L 2025-11-20/09, art. 65, 004; En vigueur : 14-12-2025&gt;
+
+#### Art. 38
+
+[<sup>1</sup> § 1er. Chaque conseil d'agrément des experts en automobiles comprend un président effectif et son suppléant, qui sont des magistrats effectifs ou honoraires ou avocats inscrits au tableau de l'Ordre depuis cinq ans au moins, ainsi que deux assesseurs effectifs et leurs suppléants, l'un fonctionnaire et l'autre proposé par le Conseil supérieur des indépendants et des P.M.E.. Le président, les assesseurs et leurs suppléants sont nommés par le ministre qui a les Classes moyennes dans ses attributions.
+
+Le secrétariat est assuré par deux secrétaires nommés par le Ministre qui a les Classes moyennes dans ses attributions, l'un du rôle francophone et l'autre du rôle néerlandophone.
+
+§ 2. La compétence des conseils d'agrément est déterminée par la langue qui a été utilisée par le SPF Economie, P.M.E., Classes moyennes et Energie pour établir la décision contestée.
+
+§ 3. Les personnes qui ont introduit un recours sont convoquées par lettre recommandée à la poste avec accusé de réception huit jours au moins avant l'audience; la convocation indique le lieu, jours et heures auxquels le dossier peut être consulté.
+
+Cette consultation se fait sur place en présence du secrétaire.
+
+§ 4. Les conseils d'agrément siègent au nombre de trois membres, y compris le président.
+
+Le président ouvre les séances, les dirige et les lève. Il accorde et retire la parole, clôt les discussions et les délibérations. Le conseil d'agrément délibère à huis clos et statue à la majorité des voix.
+
+§ 5. Les décisions doivent être notifiées par lettre recommandée à la poste dans les soixante jours qui suivent la date de réception du recours. La notification des décisions favorables mentionne l'obligation de verser dans les quinze jours la provision dont question à l'article 39.
+
+§ 6. Les listes définitives établies par les conseils d'agrément sont transmises au Ministre qui a les Classes moyennes dans ses attributions.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-10-06/11, art. 29, 002; En vigueur : 20-11-2011&gt;
+
+#### Art. 39
+
+[<sup>1</sup> La provision dont est redevable l'expert en automobiles qui a fait l'objet d'une décision favorable du SPF Economie, P.M.E., Classes moyennes et Energie ou du Conseil d'agrément est de 100 euros. Elle constitue une avance sur sa première cotisation et lui permet de participer aux élections constitutives de l'Institut. Déduction faite des frais des premières élections, le solde de cette provision est versé à l'Institut après son installation par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-10-06/11, art. 30, 002; En vigueur : 20-11-2011&gt;
+
+#### Art. 40
+
+[<sup>1</sup> § 1er. Le Ministre qui a les Classes moyennes dans ses attributions compose une commission électorale dont les membres sont choisis parmi les experts en automobiles inscrits sur les listes définitives des conseils d'agrément.
+
+Dans les soixante jours qui suivent sa composition, cette commission électorale est chargée de l'organisation de la première assemblée générale de l'Institut.
+
+Cette assemblée générale qui se déroule le jour fixé par le Roi pour l'installation de l'Institut a pour objet l'élection dont question à l'article 14.
+
+Le commissaire du gouvernement est présent lors de cette assemblée générale.
+
+§ 2. Dans les trois mois à compter de l'élection prévue au § 1er, le conseil de l'Institut :
+
+a) établira le projet de règlement d'ordre intérieur;
+
+b) convoquera une nouvelle assemblée générale;
+
+c) préparera un code de déontologie;
+
+d) établira le projet de règlement de stage qui contient la procédure d'inscription telle que visée à [<sup>2</sup> l'article 21, alinéa 1er]<sup>2</sup>.
+
+Lors de l'assemblée générale visée à b), le conseil soumettra à l'assemblée générale le règlement d'ordre intérieur et lui communiquera le budget pour le premier exercice.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-10-06/11, art. 31, 002; En vigueur : 20-11-2011&gt;
+
+(2)&lt;L 2025-11-20/09, art. 66, 004; En vigueur : 14-12-2025&gt;
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 15 mai 2007.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre des Classes moyennes et de l'Agriculture,
+
+Mme S. LARUELLE
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

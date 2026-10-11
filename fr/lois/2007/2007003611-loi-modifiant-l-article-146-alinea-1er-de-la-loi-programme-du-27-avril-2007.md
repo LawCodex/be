@@ -1,0 +1,60 @@
+---
+title: "Loi modifiant l'article 146, alinéa 1er, de la loi-programme du 27 avril 2007."
+identifier: "2007003611"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2007/12/21/2007003611/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2007-12-21
+published: 2007-12-31
+entry_into_force: 2008-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2007/12/21/2007003611/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 21 DECEMBRE 2007. - Loi modifiant l'article 146, alinéa 1er, de la loi-programme du 27 avril 2007.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 146, alinéa 1er, de la loi-programme du 27 avril 2007 est remplacé par la disposition suivante :
+
+" Le présent chapitre entre en vigueur le 1er janvier 2008 à l'exception de l'article 140, 3°, qui entre en vigueur le 1er janvier 2009. "
+
+## Art. 3
+
+La présente loi entre en vigueur le 1er janvier 2008.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 21 décembre 2007.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre des Finances,
+
+D. REYNDERS
+
+La Ministre des Affaires sociales,
+
+Mme L. ONKELINX
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+J. VANDEURZEN.

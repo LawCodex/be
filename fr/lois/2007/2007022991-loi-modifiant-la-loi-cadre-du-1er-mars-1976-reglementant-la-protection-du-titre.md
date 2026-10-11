@@ -1,0 +1,58 @@
+---
+title: "Loi modifiant la loi-cadre du 1er mars 1976 réglementant la protection du titre professionnel et l'exercice des professions intellectuelles prestataires de services."
+identifier: "2007022991"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/11/2007022991/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2007-05-11
+published: 2007-06-29
+entry_into_force: 2007-07-09
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/11/2007022991/justel"
+department: "Economie, PME, Classes moyennes et Energie"
+retrieved: 2026-10-11
+---
+
+# 11 MAI 2007. - Loi modifiant la loi-cadre du 1er mars 1976 réglementant la protection du titre professionnel et l'exercice des professions intellectuelles prestataires de services.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+A l'article 7, § 1er, alinéa 3, de la loi-cadre du 1er mars 1976 réglementant la protection du titre professionnel et l'exercice des professions intellectuelles prestataires de services, le 1° est remplacé par la disposition suivante : " 1. de veiller au respect des conditions d'accès à la profession et, à cet effet, d'ester en justice, notamment en dénonçant aux autorités judiciaires toute infraction aux lois et règlements protégeant le titre professionnel et organisant la profession, et/ou en requérant de ces autorités toute mesure de nature à faire cesser une telle infraction et le cas échéant en exigeant des dommages et intérêts ".
+
+## Art. 3
+
+L'article 7, § 1, alinéa 3, 3° est remplacé par la disposition suivante : " 3. de fixer les critères minimum auxquels les titulaires de la profession doivent répondre pour assumer la fonction de maître de stage dans le cadre du stage ".
+
+## Art. 4
+
+A l'article 8, § 1er, de la même loi, il est ajouté un point 5 libellé comme suit : " 5. d'établir et de tenir à jour la liste des maîtres de stage, qui ont pour mission de conseiller et d'assister les stagiaires et d'établir un rapport d'évaluation ".
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 11 mai 2007.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre des Classes moyennes,
+
+Mme S. LARUELLE
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

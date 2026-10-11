@@ -1,0 +1,76 @@
+---
+title: "Loi modifiant la loi du 26 janvier 2006 relatif à la détention des stocks obligatoires de pétrole et des produits pétroliers et à la création d'une agence pour la gestion d'une partie de ces stocks et modifiant la loi du 10 juin 1997 relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis à accises."
+identifier: "2007011381"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/04/2007011381/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2007-05-04
+published: 2007-07-23
+entry_into_force: 2007-07-23
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2007/05/04/2007011381/justel"
+department: "Economie, PME, Classes moyennes et Energie"
+retrieved: 2026-10-11
+---
+
+# 4 MAI 2007. - Loi modifiant la loi du 26 janvier 2006 relatif à la détention des stocks obligatoires de pétrole et des produits pétroliers et à la création d'une agence pour la gestion d'une partie de ces stocks et modifiant la loi du 10 juin 1997 relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis à accises.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+Sur la proposition de Notre Ministre des Finances et de Notre Ministre de l'Economie et de l'Energie,
+
+Nous avons arrêté et arrêtons :
+
+Notre Ministre de l'Economie et de l'Energie est chargé de présenter en Notre nom aux Chambres législatives et de déposer à la Chambre des représentants le projet de loi dont la teneur suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+A l'article 9 de la loi du 26 janvier 2006 relative à la détention des stocks obligatoires de pétrole et des produits pétroliers et à la création d'une agence pour la gestion d'une partie de ces stocks et modifiant la loi du 10 juin 1997 relative au régime général, à la détention, à la circulation et aux contrôles des produits soumis à accises s'ajoute la phrase suivante :
+
+" Les stocks obligatoires ne peuvent pas être aliénés et ne sont pas sensibles à saisie par des tiers. Ils ne peuvent pas être chargés d'une sécurité commerciale ou personnelle, sauf quand ils servent comme garantie pour le financement de la somme d'achat du produit en concurrence du volume détenu comme stock obligatoire.
+
+Cette sécurité ne peut néanmoins pas nuire au droit d'APETRA d'acheter les stocks en cas d'une crise d'approvisionnement. "
+
+## Art. 3
+
+L'article 19, § 1er, de la même loi est remplacé par le texte suivant :
+
+" Art. 19. § 1er. Afin d'obtenir une image correcte de la mise à la consommation, l'Administration centrale des Douanes et Accises du Service public fédéral Finances transmet, sur base des données dont elle dispose, au plus tard le dernier jour ouvrable du mois suivant un trimestre, à la Direction générale et à APETRA, la mise à la consommation par chaque personne physique ou morale au cours de ce trimestre ou des 12 semaines écoulées.
+
+L'Administration centrale des Douanes et Accises donne APETRA accès à la liste des entreprises ayant un numéro d'accises pour le pétrole et les produits pétroliers. "
+
+## Art. 4
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 4 mai 2007.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Le Ministre de l'Economie et de l'Energie,
+
+M. VERWILGHEN
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

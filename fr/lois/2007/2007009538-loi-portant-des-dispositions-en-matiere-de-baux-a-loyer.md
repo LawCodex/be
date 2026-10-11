@@ -1,0 +1,58 @@
+---
+title: "Loi portant des dispositions en matière de baux à loyer."
+identifier: "2007009538"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/26/2007009538/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2007-04-26
+published: 2007-06-05
+entry_into_force: 2007-06-15
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/26/2007009538/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 26 AVRIL 2007. - Loi portant des dispositions en matière de baux à loyer.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+Dans le Code civil, livre III, titre VIII, chapitre II, section 2, insérée par la loi du 20 février 1991, il est inséré un article 1erbis, rédigé comme suit :
+
+" Art. 1erbis. Tout bail tombant sous la présente section affectant la résidence principale du preneur doit être établi dans un écrit qui devra contenir indépendamment de toutes autres modalités : l'identité de toutes les parties contractantes, la date de prise en cours, la désignation de tous les locaux et parties d'immeuble couvrant l'objet locatif et le montant du loyer.
+
+La partie contractante la plus diligente pourra, faute d'exécution dans les huit jours d'une mise en demeure signifiée par lettre recommandée à la poste ou par exploit d'huissier, contraindre l'autre partie par voie procédurale s'il échet à dresser, compléter ou signer une convention écrite selon l'alinéa 1er et requérir si besoin que le jugement vaudra bail écrit.
+
+La compétence du juge est limitée par l'existence préalable d'un contrat oral entre les parties.
+
+Sans préjudice des alinéas 2 et 3, les baux oraux conclus avant l'entrée en vigueur du présent article restent soumis à la présente section. "
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 26 avril 2007.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

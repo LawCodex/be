@@ -1,0 +1,7074 @@
+---
+title: "[Loi fixant le statut des militaires et candidats militaires du cadre actif des Forces armées]. <Intitulé remplacé par L 2013-07-31/04 , art. 15, 006; En vigueur : 30-09-2013>"
+identifier: "2007007077"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2007/02/28/2007007077/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2007-02-28
+published: 2007-04-10
+entry_into_force: 2009-01-01
+last_amended: 2026-05-08
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2007/02/28/2007007077/justel"
+department: "Défense Nationale"
+justel_note: "Consultation des versions antérieures à partir du 10-04-2007 et mise à jour au 08-05-2026"
+retrieved: 2026-10-11
+---
+
+# 28 FEVRIER 2007. - [Loi fixant le statut des militaires et candidats militaires du cadre actif des Forces armées]. &lt;Intitulé remplacé par L 2013-07-31/04 , art. 15, 006; En vigueur : 30-09-2013&gt;
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## TITRE Ier. - Dispositions générales.
+
+###### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+###### Art. 2
+
+[<sup>1</sup> Pour l'application de la présente loi, font partie du cadre actif :
+
+1° les militaires et candidats militaires de carrière;
+
+2° les officiers et candidats officiers auxiliaires;
+
+3° [<sup>3</sup> ...]<sup>3</sup>
+
+4° les musiciens et candidats musiciens militaires;
+
+5° les militaires en engagement volontaire militaire;
+
+6° les candidats militaires en engagement volontaire militaire qui ne perçoivent plus de solde;
+
+[<sup>2</sup> 7° les militaires et candidats militaires recrutés pour une carrière à durée limitée.]<sup>2</sup>
+
+Sauf disposition contraire, la présente loi fixe le statut des militaires et des candidats militaires de carrière.
+
+Le statut des autres militaires et candidats militaires du cadre actif est fixé :
+
+1° pour les officiers et candidats officiers auxiliaires, par la loi du 23 décembre 1955 sur les officiers auxiliaires de la force aérienne, pilotes et navigateurs, et par la loi du 11 novembre 2002 relative aux officiers auxiliaires des Forces armées et leurs arrêtés d'exécution;
+
+2° [<sup>3</sup> ...]<sup>3</sup>
+
+3° pour les musiciens et candidats musiciens militaires, par la loi du 27 mars 2003 relative au recrutement des militaires et au statut des musiciens militaires et modifiant diverses lois applicables au personnel de la Défense et ses arrêtés d'exécution;
+
+4° pour les militaires et candidats militaires en engagement volontaire militaire, par la loi du 10 janvier 2010 instituant l'engagement volontaire militaire et modifiant diverses lois applicables au personnel militaire et ses arrêtés d'exécution;
+
+[<sup>2</sup> 5° pour les militaires et candidats-militaires recrutés pour une carrière à durée limitée, par la loi du 30 août 2013 instituant la carrière militaire à durée limitée.]<sup>2</sup>
+
+Sauf disposition contraire, les dispositions de la présente loi ne sont pas applicables aux membres de la famille royale.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 16, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;L 2013-08-30/50, art. 35, 007; En vigueur : 31-12-2013&gt;
+
+(3)&lt;L 2016-11-21/20, art. 39, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 3
+
+Pour l'application de la présente loi, il faut entendre par :
+
+1° [<sup>1</sup> "le militaire" : le candidat militaire qui a terminé avec succès sa période de candidature et acquiert la qualité, selon le cas, d'officier, de sous-officier ou de volontaire de carrière;]<sup>1</sup>
+
+2° " la Défense " : le ministère de la Défense;
+
+3° [<sup>3</sup> "force" : la force terrestre, la force aérienne, la marine et le service médical tel que fixé dans l'article 2 de l'arrêté royal du 21 décembre 2001 déterminant la structure générale du ministère de la Défense et fixant les attributions de certaines autorités;]<sup>3</sup>
+
+4° [<sup>1</sup> "le poste vacant" : une place ouverte au sein des Forces armées, pour laquelle une personne peut être recrutée comme candidat militaire, selon le cas dans une fonction, une filière de métiers ou un groupe de filières de métiers;]<sup>1</sup>
+
+5° " l'inscription " : la démarche par laquelle une personne, civile ou militaire [<sup>1</sup> communique à l'autorité compétente sa décision de postuler]<sup>1</sup>;
+
+6° [<sup>1</sup> "le postulant" : la personne, entre l'inscription et le moment où elle acquiert la qualité de candidat militaire ou, le cas échéant, où il est mis fin au processus de recrutement lié à cette inscription;]<sup>1</sup>
+
+7° [<sup>1</sup> "le recrutement" : l'ouverture des places et les opérations d'inscription, de sélection et d'incorporation des postulants;]<sup>1</sup>
+
+8° " la session de recrutement " : un ensemble bien déterminé de postes vacants caractérisé par une même catégorie de personnel, [<sup>1</sup> un type de recrutement et, le cas échéant, un régime linguistique]<sup>1</sup>;
+
+9° [<sup>1</sup> ...]<sup>1</sup>
+
+10° [<sup>1</sup> ...[<sup>1</sup>
+
+11° [<sup>1</sup> ...]<sup>1</sup>
+
+12° [<sup>1</sup> ...]<sup>1</sup>
+
+13° [<sup>1</sup> "le candidat militaire" :
+
+a) celui qui, militaire du cadre de réserve ou non, a été admis à contracter un engagement pour suivre comme candidat militaire du cadre actif une formation de base en vue de son admission comme membre du personnel de carrière dans la catégorie des officiers de carrière du niveau A ou B, des sous-officiers de carrière du niveau B ou C, ou des volontaires de carrière;
+
+b) [<sup>5</sup> les militaires visés aux articles 114 et 116, 1°, qui ont été admis à suivre une formation de base en vue de leur admission dans une autre catégorie de personnel;]<sup>5</sup>]<sup>1</sup>
+
+14° " le bachelier " : le grade académique sanctionnant des études de premier cycle d'au moins 180 crédits, ou un diplôme ou certificat équivalent;
+
+15° [<sup>1</sup> ...]<sup>1</sup>
+
+16° " le master " : le grade académique sanctionnant des études de deuxième cycle d'au moins 60 crédits, ou un diplôme de l'enseignement universitaire ou de l'enseignement supérieur du type long délivré en Communauté française, flamande ou germanophone, ou un diplôme ou certificat équivalent;
+
+17° " le master complémentaire " : le grade académique sanctionnant des études de deuxième cycle d'au moins 60 crédits, faites à l'issue d'une formation académique initiale d'au moins [<sup>1</sup> 240 crédits]<sup>1</sup> et sanctionnée par le grade de master, ou un diplôme ou certificat équivalent;
+
+18° " le diplôme ou certificat équivalent " : le diplôme ou certificat reconnu au moins équivalent par ou en vertu d'une loi, d'un décret, d'une directive européenne, d'un accord bilatéral ou d'une convention internationale;
+
+19° [<sup>1</sup> ...]<sup>1</sup>
+
+20° [<sup>1</sup> "la période de stage" : la période de formation principalement pratique en unité avec une durée effective de minimum trois mois qui se termine au plus tard à la fin de la formation de base, pendant laquelle le candidat militaire exerce sous accompagnement une partie des tâches qui lui seraient confiées comme officier, sous-officier ou volontaire;]<sup>1</sup>
+
+[<sup>1</sup> 20/1° "l'emploi" : une fonction au sein de la Défense, exercée en qualité d'officier, de sous-officier ou de volontaire;]<sup>1</sup>
+
+21° [<sup>1</sup> "la fonction" : un ensemble de tâches et de responsabilités qu'un militaire doit assumer afin d'exécuter les missions attribuées;]<sup>1</sup>
+
+22° [<sup>1</sup> "la fonction de base" : la fonction qui peut être exercée par un militaire après avoir suivi une formation de base;]<sup>1</sup>
+
+23° " la fonction annexe " : une fonction exercée par un militaire, supplémentaire à la fonction qu'il exerce déjà;
+
+24° " le poste " : une fonction ou une fonction annexe attribuée à une structure d'organisation;
+
+25° " la carrière plane " : la carrière d'un militaire exerçant une ou plusieurs fonctions spécifiques déterminées, pour lesquelles des aptitudes spécifiques sont exigées qui ne peuvent être acquises que par l'obtention d'un diplôme déterminé;
+
+26° [<sup>1</sup> ...]<sup>1</sup>
+
+27° [<sup>1</sup> ...]<sup>1</sup>
+
+28° [<sup>1</sup> ...]<sup>1</sup>
+
+29° [<sup>1</sup> "la filière de métiers militaire" : un groupement de fonctions avec principalement des compétences professionnelles communes dans le domaine militaire, opérationnel ou technique, dénommé ci-après "filière de métier";]<sup>1</sup>
+
+[<sup>1</sup> 29° /1 "un groupe de filières de métiers"; le groupement de plusieurs filières de métiers militaires;
+
+29° /2 "le groupe interfilières de métiers" : le groupement de toutes les filières de métiers militaires;]<sup>1</sup>
+
+30° " le pôle de compétence " : un groupement de fonctions avec principalement des compétences professionnelles communes dans le domaine de la gestion [<sup>1</sup> ...]<sup>1</sup>;
+
+31° [<sup>1</sup> ...]<sup>1</sup>
+
+32° " l'officier du niveau A " : [<sup>1</sup> celui qui acquiert la qualité d'officier sur la base d'un master]<sup>1</sup> ou qui, après avoir servi en qualité d'officier du niveau B, acquiert la qualité d'officier du niveau A;
+
+33° " l'officier du niveau B " : [<sup>1</sup> celui qui acquiert la qualité d'officier sur la base d'un bachelier ou d'un diplôme de candidat délivré par une institution de niveau universitaire ou équivalent]<sup>1</sup> ou qui a reçu dans les Forces armées une formation dont la durée est comparable à celle d'un bachelier, ou qui est passé de la catégorie de personnel des sous-officiers vers celle des officiers;
+
+[<sup>1</sup> 33/1° "le sous-officier du niveau B" : celui qui acquiert la qualité de sous-officier sur la base d'un bachelier nécessaire à l'exécution de ses fonctions ou qui, après avoir servi en qualité de sous-officier du niveau C [<sup>6</sup> ou de volontaire]<sup>6</sup>, acquiert la qualité de sous-officier du niveau B;
+
+33/2° "le sous-officier du niveau C" : celui qui acquiert la qualité de sous-officier sur la base d'un diplôme ou certificat de l'enseignement secondaire supérieur, ou un diplôme ou certificat équivalent, ou le militaire qui, après avoir servi en qualité de volontaire, acquiert la qualité de sous-officier du niveau C;]<sup>1</sup>
+
+34° [<sup>1</sup> "le candidat officier" : le candidat militaire qui vise une carrière d'officier, soit en qualité d'officier du niveau A, soit en qualité d'officier du niveau B;]<sup>1</sup>
+
+35° [<sup>1</sup> ...]<sup>1</sup>
+
+36° [<sup>1</sup> ...]<sup>1</sup>
+
+37° [<sup>1</sup> "le candidat sous-officier" : le candidat militaire qui vise une carrière de sous-officier, soit en qualité de sous-officier du niveau B, soit en qualité de sous-officier du niveau C;]<sup>1</sup>
+
+38° [<sup>1</sup> "le candidat volontaire" : le candidat militaire qui vise une carrière de volontaire;]<sup>1</sup>
+
+39° [<sup>1</sup> "la formation de base" : le cycle de formation de base qu'un candidat militaire doit suivre en fonction de sa qualité de candidat militaire;]<sup>1</sup>
+
+[<sup>1</sup> 39° /1 "la formation" : la formation qu'un militaire peut ou doit suivre au cours de sa carrière;
+
+39° /2 "la période de candidature" : la période pendant laquelle le candidat militaire suit sa formation de base;
+
+39° /3 "la période de candidature normale" : la durée normale d'une formation de base, sans prolongations ou retards éventuels;]<sup>1</sup>
+
+40° [<sup>1</sup> "le test" : une épreuve, [<sup>4</sup> écrite, orale ou informatisée]<sup>4</sup>, individuelle ou collective, visant l'évaluation d'une tâche, selon une technique d'évaluation spécifique;]<sup>1</sup>
+
+41° [<sup>1</sup> ...]<sup>1</sup>
+
+42° [<sup>1</sup> "la réorientation" : la mesure par laquelle le candidat militaire peut parachever ou recommencer sa formation de base dans un autre cycle de formation spécifique, éventuellement dans une autre qualité de candidat militaire;]<sup>1</sup>
+
+43° [<sup>1</sup> "le reclassement" : la mesure par laquelle le candidat militaire ayant échoué définitivement peut obtenir l'autorisation d'entamer une nouvelle formation de base;]<sup>1</sup>
+
+44° [<sup>1</sup> "l'ajournement" : la mesure par laquelle le candidat militaire qui se trouve ou se trouvait dans l'impossibilité de participer à une partie de la formation de base, obtient l'autorisation de présenter ultérieurement certaines épreuves et examens ou de suivre ultérieurement certaines parties de la formation de base;]<sup>1</sup>
+
+45° [<sup>1</sup> "la prolongation de la période de candidature" : la mesure par laquelle la période de candidature d'un candidat militaire est prolongée;]<sup>1</sup>
+
+46° " la période de rendement " : chaque période de service actif pendant laquelle un militaire est tenu de servir durant la carrière militaire [<sup>1</sup> ...]<sup>1</sup>;
+
+47° " le groupe de grades " : le regroupement, au sein d'une sous-catégorie de personnel, de deux ou plusieurs grades en vue de la sous-répartition des effectifs [<sup>1</sup> ou de la répartition des grades sur les fonctions]<sup>1</sup>;
+
+48° " l'aptitude caractérielle " : la capacité [<sup>3</sup> ...]<sup>3</sup> [<sup>1</sup> du postulant ou du candidat militaire]<sup>1</sup>, en fonction des caractéristiques de sa personnalité, à s'adapter au milieu militaire et à l'exercice de la fonction pour laquelle il est formé;
+
+[<sup>1</sup> 48° /1" les qualités professionnelles" : à l'exclusion des qualités morales, caractérielles et physiques, toutes les qualités de nature professionnelle requises d'un candidat militaire sur le plan militaire, et spécifiquement professionnel, et sur le plan de l'éventuelle formation académique ou théorique;]<sup>1</sup>
+
+49° " les critères d'aptitude physique " : les exigences physiques auxquelles un militaire doit [<sup>1</sup> satisfaire]<sup>1</sup>;
+
+50° " les critères d'aptitude médicale " : les exigences médicales auxquelles un militaire doit répondre pour pouvoir exercer sa fonction;
+
+51° [<sup>1</sup> "la catégorie d'aptitude" : la codification de l'aptitude professionnelle, physique et médicale du militaire à exercer sa fonction ou à être déployé en opération;]<sup>1</sup>
+
+52° [<sup>1</sup> "le cycle de formation spécifique" : le cycle de formation de base qu'un candidat militaire doit suivre en fonction de sa qualité, du type de recrutement, et de la filière de métiers ou de la fonction pour laquelle il est recruté;]<sup>1</sup>
+
+53° [<sup>1</sup> "la période de formation scolaire" : la période de formation principalement académique ou théorique dispensée par des établissements d'enseignement militaires ou civils;]<sup>1</sup>
+
+54° [<sup>1</sup> "la période d'instruction" : la période de formation principalement militaire et professionnelle dispensée par un organisme de formation ou par une unité chargée d'une formation spécifique;]<sup>1</sup>
+
+55° [<sup>1</sup> "la période d'évaluation" : la période de formation pratique en unité avec une durée d'au moins trois mois, pendant laquelle le candidat militaire peut exercer sous accompagnement l'ensemble des tâches qui lui seraient confiées comme officier, sous-officier ou volontaire;]<sup>1</sup>
+
+56° [<sup>1</sup> ...]<sup>1</sup>
+
+57° [<sup>1</sup> ...]<sup>1</sup>
+
+58° [<sup>1</sup> ...]<sup>1</sup>
+
+59° [<sup>1</sup> ...]<sup>1</sup>
+
+60° [<sup>1</sup> ...]<sup>1</sup>
+
+61° " le jour ouvrable " : le jour qui n'est ni un samedi, ni un dimanche, ni un jour férié.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 17, 006; En vigueur : 30-09-2013 et 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 11, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2016-11-21/20, art. 40, 012; En vigueur : 02-01-2017&gt;
+
+(4)&lt;L 2018-04-30/07, art. 8, 017; En vigueur : 25-05-2018&gt;
+
+(5)&lt;L 2022-11-24/07, art. 2, 026; En vigueur : 01-04-2023&gt;
+
+(6)&lt;L 2025-12-08/07, art. 32, 028; En vigueur : 08-01-2026&gt;
+
+###### Art. 3/1
+
+[<sup>1</sup> En dérogation à l'article 2, pour l'application du présent titre, il faut entendre par "candidat militaire" :
+
+1° le candidat militaire visé à l'article 3, 13°, a) de la présente loi;
+
+2° le candidat officier auxiliaire;
+
+3° [<sup>2</sup> ...]<sup>2</sup>
+
+4° le candidat militaire de réserve;
+
+5° le candidat musicien militaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 18, 006; En vigueur : 31-12-2013; voir AR 2013-11-07/51, art. 48, 1°&gt;
+
+(2)&lt;L 2016-11-21/20, art. 41, 012; En vigueur : 02-01-2017&gt;
+
+## TITRE II. - Du recrutement.
+
+###### Art. 4
+
+[<sup>1</sup> Les différents types de recrutements sont :
+
+1° le recrutement normal;
+
+2° le recrutement spécial;
+
+3° le recrutement latéral;
+
+4° le recrutement complémentaire;
+
+5° le recrutement de candidats officiers auxiliaires.
+
+6° [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 19, 006; En vigueur : 31-12-2013; voir AR 2013-11-07/51, art. 48, 1°&gt;
+
+(2)&lt;L 2016-11-21/20, art. 42, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 5
+
+[<sup>1</sup> § 1er. Le recrutement normal est le recrutement de :
+
+1° candidats militaires qui visent une carrière d'officier de carrière du niveau A et qui sont admis dans la première année de la formation de base, à l'Ecole royale militaire, [<sup>3</sup> ...]<sup>3</sup> ou à l'école supérieure de navigation, ou de la formation de base [<sup>3</sup> d'ingénieur industriel,]<sup>3</sup> de médecin, vétérinaire, dentiste ou pharmacien [<sup>4</sup> , ou dans une université en vue de l'obtention d'un master]<sup>4</sup>;
+
+2° candidats militaires qui visent une carrière de sous-officier de carrière du niveau B et qui sont admis dans la première année d'une formation de base dans un établissement de l'enseignement supérieur en vue de l'obtention d'un bachelier;
+
+3° candidats militaires qui visent une carrière de sous-officier de carrière du niveau C et qui sont titulaires du certificat de l'enseignement secondaire supérieur ou d'un diplôme ou certificat équivalent;
+
+4° candidats militaires qui visent une carrière de volontaire de carrière;
+
+5° candidats militaires qui visent une carrière de militaire de réserve, à l'exception de ceux qui sont issus du recrutement spécial.
+
+§ 2. Le recrutement spécial est le recrutement de :
+
+1° candidats militaires qui visent une carrière d'officier de carrière du niveau A et qui sont titulaires d'un master ou d'un master complémentaire;
+
+2° candidats militaires qui visent une carrière d'officier de carrière du niveau B et qui sont titulaires d'un bachelier;
+
+3° candidats militaires qui visent une carrière de sous-officier de carrière du niveau B et qui sont titulaires d'un diplôme de bachelier;
+
+4° candidats militaires qui visent une carrière de militaire de réserve.
+
+Le recrutement spécial visé à l'alinéa 1er, 4°, est subdivisé en recrutement spécial de base et en recrutement spécial latéral.
+
+Le recrutement spécial de base est le recrutement de :
+
+1° candidats militaires qui visent une carrière d'officier de réserve et qui sont titulaires d'un master;
+
+2° candidats militaires qui visent une carrière de sous-officier de réserve et qui sont titulaires d'un bachelier.
+
+Le recrutement spécial latéral est le recrutement de candidats militaires qui visent une carrière d'officier de réserve, qui sont titulaires d'un master et qui peuvent justifier d'une expérience professionnelle dans le domaine visé dont la durée minimum est fixée par le Roi.
+
+§ 3. Le recrutement latéral est [<sup>2</sup> le recrutement de candidats officiers de carrière du niveau A,]<sup>2</sup> afin de pourvoir à des postes vacants dans des domaines bien déterminés, auxquels il ne peut être pourvu par du personnel de la Défense.
+
+Les postulants pour le recrutement latéral doivent être titulaires d'un master ou d'un master complémentaire et posséder une expérience professionnelle spécifique dans le domaine visé.
+
+L'expérience professionnelle spécifique visée à l'alinéa 2 doit avoir été acquise hors de la Défense et être jugée répondre aux exigences du poste vacant par l'autorité que le Roi désigne.
+
+La durée de cette expérience professionnelle est fixée par le Roi par domaine visé.
+
+§ 4. Le recrutement complémentaire est le recrutement de :
+
+1° candidats militaires qui visent une carrière d'officier de carrière du niveau A et qui sont admis en cours de formation de base [<sup>3</sup> ...]<sup>3</sup> à l'école supérieure de navigation, [<sup>4</sup> ou dans une université en vue de l'obtention d'un master,]<sup>4</sup> ou de la formation de base [<sup>3</sup> d'ingénieur industriel,]<sup>3</sup> de médecin, vétérinaire, dentiste ou pharmacien;
+
+2° candidats militaires qui visent une carrière de sous-officier de carrière du niveau B et qui sont admis en cours de formation de base dans un établissement de l'enseignement supérieur en vue de l'obtention d'un bachelier.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 20, 006; En vigueur : 31-12-2013; voir AR 2013-11-07/51, art. 48, 1°&gt;
+
+(2)&lt;L 2018-04-30/07, art. 9, 017; En vigueur : 25-05-2018&gt;
+
+(3)&lt;L 2025-12-08/07, art. 33, 028; En vigueur : 08-01-2026&gt;
+
+(4)&lt;L 2026-04-22/06, art. 6, 029; En vigueur : 18-05-2026&gt;
+
+###### Art. 6
+
+§ 1er. [<sup>2</sup> L'autorité désignée par le Roi fixe par session de recrutement, le nombre de postes vacants. A cette occasion, elle spécifie les particularités des postes vacants qui ont une conséquence sur la sélection du postulant, parmi lesquelles le régime linguistique des postes vacants. Toutefois, l'autorité précitée peut s'abstenir de fixer le régime linguistique des postes vacants d'une session de recrutement du recrutement spécial si elle juge que le nombre restreint de postes vacants de cette session le justifie.]<sup>2</sup>
+
+[<sup>1</sup> L'autorité désignée par le Roi]<sup>1</sup> fixe, dans les limites des places ouvertes, le transfert des places non occupées à l'intérieur d'une même session de recrutement ou entre deux sessions de recrutement.
+
+[<sup>1</sup> L'autorité désignée par le Roi]<sup>1</sup> fixe, par session de recrutement, la priorité qui sera appliquée pour l'attribution des postes vacants aux postulants lorsqu'un même postulant satisfait aux conditions d'admission pour différentes sessions de recrutement.
+
+§ 2. Le Roi fixe :
+
+1° les règles relatives à la publication des sessions de recrutement et des postes vacants y afférents;
+
+2° les modalités d'inscription.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 21, 006; En vigueur : 31-12-2013; voir AR 2013-11-07/51, art. 48, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 12, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 7
+
+Le postulant doit, le jour où il acquiert la qualité de [<sup>1</sup> candidat]<sup>1</sup> militaire, avoir satisfait à l'obligation scolaire telle que fixée dans la loi du 29 juin 1983 concernant l'obligation scolaire.
+
+[<sup>1</sup> Le postulant ne peut avoir atteint au 31 décembre de l'année de son incorporation l'âge de 34 ans, ou de 26 ans lorsqu'il s'agit d'un candidat pilote.]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> En dérogation à l'alinéa 2, le Roi peut fixer pour certains recrutements qu'Il détermine, une autre limite d'âge maximale, sans que celle-ci puisse être inférieure à 25 ans.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 22, 006; En vigueur : 31-12-2013; voir AR 2013-11-07/51, art. 48, 1°&gt;
+
+###### Art. 8
+
+[<sup>1</sup> Le postulant doit satisfaire aux conditions suivantes :
+
+1° ne pas avoir été pensionné définitivement pour inaptitude physique ou démis par réforme;
+
+2° ne pas avoir été démis définitivement de son emploi par démission d'office, mise à la pension d'office ou résiliation d'engagement d'office excepté pour inaptitude médicale au service aérien ou pour incapacité professionnelle au service aérien;
+
+3° ne pas être candidat militaire dans la même catégorie de personnel et le même type de recrutement;
+
+4° ne pas avoir perdu la qualité de militaire suite au passage à la catégorie d'aptitude D, visée à l'article 69, alinéa 7, sauf si ce passage a été dû à une inaptitude médicale;
+
+5° ne pas avoir perdu la qualité de candidat militaire dans la même catégorie de personnel ou dans une catégorie inférieure, au cours des douze mois qui précèdent le jour où il s'inscrit à nouveau;
+
+6° ne pas avoir auparavant échoué deux fois dans une année de formation d'un cycle de formation dans la même catégorie de personnel;
+
+7° pour le postulant candidat au service aérien, ne pas avoir été radié d'une catégorie du personnel navigant, sauf si cette radiation a eu lieu à sa demande ou pour cause d'inaptitude médicale au service aérien;
+
+8° ne pas avoir auparavant perdu la qualité de candidat militaire en raison de qualités caractérielles insuffisantes dans la même catégorie de personnel ou dans une catégorie de personnel inférieure, au cours des vingt-quatre mois qui précèdent le jour où il s'inscrit à nouveau;
+
+9° après attribution d'une fonction, ne pas avoir auparavant par trois fois, selon le cas, renoncé à une incorporation ou été absent sans raison fondée le jour de l'incorporation.
+
+Toutefois, en dérogation à l'alinéa 1er, 2°, le postulant candidat au service aérien ne peut avoir été démis définitivement de son emploi par démission d'office, mise à la pension d'office ou résiliation d'engagement d'office pour inaptitude médicale au service aérien ou pour incapacité professionnelle au service aérien.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 23, 006; En vigueur : 31-12-2013; voir AR 2013-11-07/51, art. 48, 1°&gt;
+
+###### Art. 9
+
+Pour pouvoir acquérir la qualité de militaire, le postulant doit :
+
+1° satisfaire aux conditions de l'article 8;
+
+2° être Belge ou ressortissant d'un [<sup>1</sup> autre]<sup>1</sup> état membre de l'Espace économique européen ou de la Confédération suisse;
+
+3° [<sup>1</sup> justifier des qualités morales indispensables;]<sup>1</sup>
+
+4° bénéficier des droits civils et politiques;
+
+5° [<sup>3</sup> le cas échéant, satisfaire aux conditions d'études;]<sup>3</sup>
+
+6° satisfaire aux conditions d'âge;
+
+7° satisfaire aux épreuves de sélection;
+
+8° être classifié, conformément aux dispositions de l'article 13;
+
+[<sup>1</sup> 9° ne pas avoir reçu un avis de sécurité négatif du département d'état-major renseignement et sécurité, délivré sur la base d'une vérification de sécurité conformément aux dispositions de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité, ou ne pas avoir refusé cette vérification de sécurité. Par dérogation à l'article 22septies de la loi précitée, aucune rétribution n'est due par le postulant qui fait l'objet d'une vérification de sécurité;
+
+10° satisfaire aux prescriptions réglementaires relatives à la présentation du militaire.]<sup>1</sup>
+
+[<sup>2</sup> 11° satisfaire aux conditions supplémentaires relatives à des aptitudes et/ou compétences professionnelles, techniques et/ou linguistiques justifiées par un certificat de qualification, une licence, un brevet, une attestation, une agrégation, une autorisation ou un permis ou acquises sur la base de l'expérience qui peuvent être imposées par poste vacant par l'autorité désignée par le Roi.]<sup>2</sup>
+
+Le ressortissant d'un état membre de l'Espace économique européen autre que la Belgique ou de la Confédération Suisse doit avoir satisfait à la législation sur la milice en vigueur dans le pays dont il a la nationalité et doit être dispensé de toute obligation militaire dans ce pays.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 24, 006; En vigueur : 31-12-2013; voir AR 2013-11-07/51, art. 48, 1°&gt;
+
+(2)&lt;L 2018-04-30/07, art. 10, 017; En vigueur : 27-08-2018&gt;
+
+(3)&lt;L 2022-06-02/05, art. 2, 023; En vigueur : 01-10-2022&gt;
+
+###### Art. 10
+
+§ 1er. Les épreuves de sélection visées à l'article 9, alinéa 1er, 7°, comportent :
+
+1° des épreuves psychotechniques;
+
+2° [<sup>1</sup> le cas échéant, des épreuves de connaissance académique ou professionnelle;]<sup>1</sup>
+
+3° [<sup>1</sup> des épreuves d'appréciation de l'aptitude physique et de l'aptitude médicale;]<sup>1</sup>
+
+[<sup>3</sup> 4° le cas échéant, des épreuves pratiques.]<sup>3</sup>
+
+[<sup>1</sup> Certaines épreuves de sélection peuvent :
+
+1° [<sup>2</sup> en tout ou en partie avoir lieu en dehors de la Défense, dans le secteur privé ou public, en Belgique ou à l'étranger, selon les mêmes règles que celles visées à l'article 12, alinéa 1er, 1°, 2°, et 5° ;]<sup>2</sup>
+
+2° être subies en anglais, pour autant qu'une partie de la formation de base soit donnée en anglais.]<sup>1</sup>
+
+[<sup>3</sup> L'autorité désignée par le Roi peut limiter le nombre de postulants pouvant participer aux épreuves pratiques sur la base des besoins des Forces armées et de sa capacité à pouvoir organiser ces épreuves.]<sup>3</sup>
+
+§ 2. Le postulant peut interjeter appel d'une décision d'inaptitude médicale auprès de [<sup>1</sup> la commission médicale d'appel]<sup>1</sup>.
+
+Sous peine d'irrecevabilité, l'appel doit être motivé et introduit dans les cinq jours ouvrables suivant la notification de la décision d'inaptitude médicale.
+
+[<sup>1</sup> La commission médicale d'appel statue sur l'appel contre une décision d'inaptitude médicale visée à l'alinéa 1er. Cette commission notifie, par envoi recommandé, sa décision à l'intéressé.
+
+Outre le président, la commission médicale d'appel se compose au minimum de trois médecins militaires du cadre actif, et est éventuellement assistée par des spécialistes et un secrétaire.
+
+Le Roi fixe les modalités relatives à la composition concrète et au fonctionnement de la commission médicale d'appel.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 25, 006; En vigueur : 31-12-2013; voir AR 2013-11-07/51, art. 48, 1°&gt;
+
+(2)&lt;L 2016-12-06/02, art. 1, 011; En vigueur : 02-01-2017&gt;
+
+(3)&lt;L 2019-05-20/09, art. 12, 021; En vigueur : 18-08-2019&gt;
+
+###### Art. 11
+
+[<sup>1</sup> Ne justifie pas des qualités morales indispensables visées à l'article 9, alinéa 1er, 3°, le postulant qui, selon le cas :
+
+1° a été condamné à une peine criminelle;
+
+2° a été condamné à une peine correctionnelle de trois mois ou plus, à l'exception des infractions que le Roi détermine en fonction de leur compatibilité avec l'état de militaire;
+
+3° a été destitué d'un emploi public ou a été déchu de l'un des droits prévus à l'article 31, 1° et 6°, du Code pénal, indépendamment de l'infraction commise;
+
+4° comme militaire de réserve, a fait l'objet d'un retrait d'office du grade ou d'un retrait du grade parce qu'il s'est rendu coupable de faits graves incompatibles avec son état de militaire ou, selon le cas, a été mis prématurément, pour les mêmes motifs, en disponibilité, en congé illimité ou en congé définitif lorsqu'il effectuait des prestations volontaires d'encadrement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 26, 006; En vigueur : 31-12-2013; voir AR 2013-11-07/51, art. 48, 1°&gt;
+
+###### Art. 12
+
+[<sup>1</sup> Le Roi fixe :
+
+1° les épreuves de sélection ainsi que les règles selon lesquelles les épreuves de sélection sont organisées, selon la catégorie de personnel, le type de recrutement ou le poste vacant;
+
+2° les règles selon lesquelles le postulant est apprécié lors des épreuves de sélection, la durée de validité des résultats de ces épreuves et la période qui doit s'écouler avant de pouvoir à nouveau présenter ces épreuves;
+
+3° les documents à fournir par le postulant qui attestent qu'il satisfait aux conditions de nationalité et d'études, et qu'il justifie des qualités morales indispensables;
+
+4° pour le ressortissant d'un état membre de l'Espace économique européen, autre que la Belgique, ou de la Confédération Suisse, l'autorité qui se prononce sur l'équivalence dans la législation du pays dont il a la nationalité, des critères d'appréciation des qualités morales visés à l'article 11;
+
+5° les conditions d'études;
+
+6° les conditions et les modalités relatives à la constitution et l'utilisation d'une réserve de recrutement.
+
+Toutefois, la disposition de l'alinéa 1er, 2°, relative à la durée maximale de validité des résultats des épreuves, n'est pas applicable au postulant déclaré définitivement inapte médicalement.
+
+Les conditions d'études visées à l'alinéa 1er, 5°, sont fixées selon le type de recrutement et la catégorie de personnel visée, avec les niveaux minimum requis suivants :
+
+1° le postulant candidat officier doit être apte à entamer des études du niveau de l'enseignement supérieur;
+
+2° le postulant candidat sous-officier doit avoir réussi le degré de l'enseignement secondaire correspondant à son type de recrutement;
+
+3° le postulant candidat volontaire doit avoir terminé l'enseignement primaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 27, 006; En vigueur : 31-12-2013; voir AR 2013-11-07/51, art. 48, 1°&gt;
+
+###### Art. 12 DROIT FUTUR
+
+[<sup>1</sup> Le Roi fixe :
+
+1° les épreuves de sélection ainsi que les règles selon lesquelles les épreuves de sélection sont organisées, selon la catégorie de personnel, le type de recrutement ou le poste vacant;
+
+2° les règles selon lesquelles le postulant est apprécié lors des épreuves de sélection, la durée de validité des résultats de ces épreuves et la période qui doit s'écouler avant de pouvoir à nouveau présenter ces épreuves;
+
+3° les documents à fournir par le postulant qui attestent qu'il satisfait aux conditions de nationalité et d'études, et qu'il justifie des qualités morales indispensables;
+
+4° pour le ressortissant d'un état membre de l'Espace économique européen, autre que la Belgique, ou de la Confédération Suisse, l'autorité qui se prononce sur l'équivalence dans la législation du pays dont il a la nationalité, des critères d'appréciation des qualités morales visés à l'article 11;
+
+5° [<sup>2</sup> le cas échéant, les conditions d'études;]<sup>2</sup>
+
+6° les conditions et les modalités relatives à la constitution et l'utilisation d'une réserve de recrutement.
+
+Toutefois, la disposition de l'alinéa 1er, 2°, relative à la durée maximale de validité des résultats des épreuves, n'est pas applicable au postulant déclaré définitivement inapte médicalement.
+
+Les conditions d'études visées à l'alinéa 1er, 5°, sont fixées selon le type de recrutement et la catégorie de personnel visée, avec les niveaux minimum requis suivants :
+
+1° le postulant candidat officier doit être apte à entamer des études du niveau de l'enseignement supérieur;
+
+2° le postulant candidat sous-officier doit avoir réussi le degré de l'enseignement secondaire correspondant à son type de recrutement;
+
+3° [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 27, 006; En vigueur : 31-12-2013; voir AR 2013-11-07/51, art. 48, 1°&gt;
+
+(2)&lt;L 2022-06-02/05, art. 3, 023; En vigueur : 01-10-2022&gt;
+
+###### Art. 13
+
+[<sup>1</sup> Les postulants candidats officiers ou sous-officiers sont répartis, pour les postes vacants pour lesquels ils postulent, selon un modèle de classification utilisant une méthode d'attribution parallèle séquentielle.
+
+Les postulants candidats volontaires sont répartis, pour les postes vacants pour lesquels ils postulent, selon un modèle de classification psychométrique.
+
+La classification tient compte :
+
+1° de la mesure de l'aptitude des postulants aux différents postes vacants;
+
+2° des préférences des postulants;
+
+3° de l'importance accordée à l'occupation des différents postes vacants.
+
+[<sup>3</sup> Toutefois, dans le cas visé à l'article 10, § 1er, alinéa 3, la classification des postulants, pour l'ensemble des épreuves visées à l'article 10, § 1er, alinéa 1er, 1° à 4°, tient compte uniquement de la mesure de l'aptitude des postulants au poste vacant.]<sup>3</sup>
+
+Les coefficients de pondération utilisés pour l'exécution des modèles de classification sont fixés par l'autorité que le Roi désigne.
+
+Le Roi détermine les fourchettes dans lesquelles les coefficients de pondération visés à [<sup>3</sup> l'alinéa 5]<sup>3</sup> peuvent être fixés.
+
+Le contenu, les règles de calcul, les critères et l'algorithme des modèles de classification sont fixés dans un règlement arrêté par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 28, 006; En vigueur : 31-12-2013; voir AR 2013-11-07/51, art. 48, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 13, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2019-05-20/09, art. 13, 021; En vigueur : 18-08-2019&gt;
+
+###### Art. 14
+
+[<sup>1</sup> Pour le processus de recrutement du postulant candidat officier ou sous-officier, la commission du recrutement est compétente pour :
+
+1° la délibération des postulants, en fonction des besoins des Forces armées et sur la base des résultats de toutes les épreuves de sélection;
+
+2° l'application du modèle de classification aux postulants délibérés;
+
+3° l'attribution des postes vacants aux postulants répartis conformément aux dispositions de l'article 13;
+
+4° l'évaluation des résultats de la procédure de classification;
+
+[<sup>2</sup> 5° le cas échéant, la sélection des postulants, lorsque le nombre de postulants pouvant participer aux épreuves pratiques est limité, conformément à l'article 10, § 1er, alinéa 3, sur la base des résultats des épreuves de sélection visées à l'article 10, § 1er, alinéa 1er, 1° à 3°.]<sup>2</sup>
+
+Outre le président, la commission de recrutement se compose au minimum de six membres, et est éventuellement assistée par des spécialistes et un secrétaire.
+
+Le Roi fixe les modalités relatives à la composition concrète et au fonctionnement de la commission du recrutement.
+
+Pour le processus de recrutement du postulant candidat volontaire, l'autorité désignée par le Roi est compétente pour :
+
+1° l'application du modèle de classification aux postulants;
+
+2° l'attribution des postes vacants aux postulants conformément aux dispositions de l'article 13;
+
+3° l'évaluation des résultats de la procédure de classification;]<sup>1</sup>
+
+[<sup>2</sup> 4° le cas échéant, la sélection des postulants, lorsque le nombre de postulants pouvant participer aux épreuves pratiques est limité, conformément à l'article 10, § 1er, alinéa 3, sur la base des résultats des épreuves de sélection visées à l'article 10, § 1er, alinéa 1er, 1° à 3°.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 29, 006; En vigueur : 31-12-2013; voir AR 2013-11-07/51, art. 48, 1°&gt;
+
+(2)&lt;L 2019-05-20/09, art. 14, 021; En vigueur : 18-08-2019&gt;
+
+###### Art. 15
+
+Le postulant qui participe à une épreuve de sélection bénéficie de la gratuité des soins de santé [<sup>1</sup> dispensés, de préférence et en priorité, par la composante médicale]<sup>1</sup>.
+
+Les affections pour lesquelles ce droit aux soins peut être exercé sont limitées aux accidents, indispositions ou maladies résultant de la participation à une épreuve de sélection.
+
+Ces soins médicaux sont limités au traitement d'urgence, ambulatoire ou non, [<sup>1</sup> des affections visées à l'alinéa 2]<sup>1</sup> et ne peuvent dépasser la durée strictement indispensable pour permettre au postulant de rejoindre sa résidence ou d'être transporté vers un hôpital civil de son choix en Belgique.
+
+Le remboursement de soins médicaux complémentaires et l'octroi de dommages et intérêts découlant des affections visées à l'alinéa 2 sont soumis à l'application [<sup>2</sup> du livre 6]<sup>2</sup> du Code Civil.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 30, 006; En vigueur : 31-12-2013; voir AR 2013-11-07/51, art. 48, 1°&gt;
+
+(2)&lt;L 2024-02-07/18, art. 33, 027; En vigueur : 01-01-2025&gt;
+
+###### Art. 16
+
+Le postulant qui participe à une épreuve de sélection, bénéficie [<sup>1</sup> ...]<sup>1</sup>, le cas échéant, du logement, à charge de l'Etat. Le logement est mis à la disposition du postulant par la Défense.
+
+----------
+
+(1)&lt;L 2016-11-21/20, art. 43, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 17
+
+A tout moment, le postulant peut renoncer par écrit à sa candidature pour un poste vacant.
+
+###### Art. 18
+
+Il est mis définitivement fin au processus de recrutement à l'égard du postulant :
+
+1° qui renonce par écrit à sa candidature;
+
+2° qui, sans motif fondé, ne se présente pas à la date ou à l'endroit fixés pour participer aux activités de sélection;
+
+3° qui ne satisfait pas ou plus à une condition fixée aux articles 8 et 9;
+
+4° qui commet une fraude ou une tentative de fraude;
+
+[<sup>2</sup> 5° qui n'est pas sélectionné, selon le cas, conformément à l'article 14, alinéa 1er, 5°, ou alinéa 4, 4°;]<sup>2</sup>
+
+[<sup>3</sup> 6° qui perd la qualité de candidat militaire dans la même catégorie de personnel ou dans une catégorie de personnel inférieure entre le moment de son inscription pour un poste vacant et la veille du jour prévu pour son incorporation.]<sup>3</sup>
+
+Le Roi désigne l'autorité habilitée à mettre fin au processus de recrutement dans les cas visés à l'alinéa 1er, [<sup>3</sup> 2° à 6°]<sup>3</sup>. Cette autorité notifie sa décision au postulant.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 31, 006; En vigueur : 31-12-2013; voir AR 2013-11-07/51, art. 48, 1°&gt;
+
+(2)&lt;L 2019-05-20/09, art. 15, 021; En vigueur : 18-08-2019&gt;
+
+(3)&lt;L 2022-06-02/05, art. 4, 023; En vigueur : 30-06-2022&gt;
+
+## TITRE III. - De la carrière militaire.
+
+### CHAPITRE Ier. - Dispositions générales.
+
+#### Section Ire. - [<sup>1</sup> De la qualité de candidat militaire et de militaire]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 32, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 19
+
+Le postulant est convoqué en vue de son incorporation.
+
+Le Roi fixe les modalités relatives à la convocation et à l'incorporation.
+
+###### Art. 20
+
+Le jour de son incorporation, le postulant rédige une déclaration écrite concernant sa situation médicale.
+
+Toutefois, le postulant peut être soumis à un examen médical de contrôle afin de vérifier son aptitude médicale.
+
+Le Roi fixe les modalités et la procédure relatives à la déclaration et à l'examen médical de contrôle.
+
+###### Art. 21
+
+[<sup>1</sup> Le postulant acquiert la qualité de candidat militaire le jour de son incorporation, pour autant qu'il soit considéré comme médicalement apte et après qu'il lui a été déclaré qu'il est soumis aux lois militaires. L'acquisition de la qualité de candidat militaire est constatée par l'établissement d'un document signé par le postulant qui en reçoit une copie. En période de guerre, l'accomplissement de cette formalité est constaté par toutes voies de droit.
+
+L'acquisition de la qualité de candidat militaire est consacrée par la signature d'un acte d'engagement, dont [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> fixe le modèle. Un exemplaire de l'acte d'engagement complété est remis au candidat militaire concerné.
+
+Le chef de corps de l'organisme d'incorporation est l'autorité compétente pour recevoir le document par lequel le postulant reconnaît qu'il est soumis aux lois militaires, ainsi que l'acte d'engagement.
+
+Le cas échéant, de plein droit et à sa date, l'engagement entraîne la démission de l'emploi en qualité de militaire ou la résiliation de tout engagement ou rengagement antérieur en qualité de candidat militaire.
+
+En période de guerre et en temps de guerre, les engagements en cours sont prorogés de plein droit jusqu'au jour fixé par le ministre et au plus tard jusqu'au jour fixé pour la remise de l'armée sur pied de paix.
+
+Le postulant mineur non émancipé doit justifier, sous la forme d'un certificat, du consentement de celui ou de ceux qui exercent à son égard l'autorité parentale. Le postulant domicilié à l'étranger présente un document considéré comme équivalent au certificat précité.
+
+Le Roi fixe :
+
+1° les modalités relatives à l'acquisition de la qualité de candidat militaire et à la procédure d'engagement;
+
+2° les cas dans lesquels le postulant est autorisé à acquérir la qualité de candidat militaire à une date ultérieure, ainsi que la durée maximale du retard qui peut être autorisé.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 33, 006; En vigueur : 31-12-2013; voir AR 2013-11-07/51, art. 48, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 14, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 21/1
+
+[<sup>1</sup> La qualité de candidat militaire est retirée de plein droit par l'autorité que le Roi désigne, lorsque :
+
+1° le candidat militaire est considéré comme ayant définitivement échoué parce qu'il :
+
+a) ne possède pas les qualités professionnelles requises, selon les règles en vigueur sur le plan de l'appréciation des qualités professionnelles, et soit ne peut pas, soit ne désire pas être reclassé;
+
+b) ne possède pas les qualités caractérielles requises, selon les règles en vigueur sur le plan de l'appréciation des qualités caractérielles, et soit ne peut pas, soit ne désire pas être reclassé;
+
+c) ne possède pas les qualités physiques requises, selon les règles en vigueur sur le plan de l'appréciation de l'aptitude physique, et soit ne peut pas, soit ne désire pas poursuivre sa formation et soit ne peut pas, soit ne désire pas être reclassé;
+
+2° le candidat militaire ne répond plus aux exigences requises sur le plan médical ou sur le plan de l'aptitude professionnelle et soit ne peut pas, soit ne désire pas poursuivre sa formation;
+
+3° le candidat militaire ne possède plus les qualités morales requises, selon les règles en vigueur sur le plan de l'appréciation des qualités morales;
+
+4° le candidat militaire visé à l'article 3, 13°, a), et à l'article 87, alinéa 1er, obtient à sa demande la résiliation de son engagement ou rengagement;
+
+5° le candidat militaire visé à l'article 3, 13°, b), en obtient à sa demande l'autorisation du chef de la défense ou de l'autorité qu'il désigne;
+
+6° l'engagement ou le rengagement du candidat militaire est résilié d'office;
+
+7° le candidat militaire n'est plus ressortissant d'un état membre de l'Espace économique européen ou de la Confédération suisse, ou lorsqu'il fait l'objet d'une décision d'éloignement du territoire, de renvoi ou d'expulsion, en application de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
+
+8° le candidat militaire doit être éloigné de son cycle de formation spécifique du fait du refus ou du retrait de l'habilitation de sécurité exigée et soit ne peut pas, soit ne désire pas être reclassé;
+
+9° une période de guerre est décrétée pour le candidat âgé de moins de dix-huit ans;
+
+[<sup>2</sup> 10° le candidat militaire doit être éloigné de son cycle de formation spécifique du fait du refus d'un ajournement pour présenter certains examens ou épreuves ou pour suivre ou parfaire certaines parties de la formation de base;]<sup>2</sup>
+
+[<sup>3</sup> 11° le candidat officier de carrière doit être retiré de son cycle de formation spécifique parce qu'il ne répond pas à la condition de compétence linguistique visée à l'article 2, alinéa 5, de la loi du 30 juillet 1938 concernant l'usage des langues à l'armée et soit ne peut pas, soit ne désire pas être reclassé.]<sup>3</sup>
+
+Lorsque la perte de la qualité de candidat militaire visée l'alinéa 1er, s'applique à un candidat militaire âgé de moins de dix-huit ans, célibataire et non émancipé, ceux qui exercent à son égard l'autorité parentale en sont avisés, par envoi recommandé.
+
+Les droits pécuniaires et sociaux du candidat militaire qui a perdu la qualité de candidat en application de l'alinéa 1er, 9°, sont sauvegardés jusqu'à sa réintégration.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 34, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;L 2016-11-21/20, art. 44, 012; En vigueur : 02-01-2017&gt;
+
+(3)&lt;L 2022-06-02/07, art. 2, 025; En vigueur : 01-12-2022&gt;
+
+###### Art. 21/2
+
+[<sup>1</sup> Le candidat militaire acquiert la qualité d'officier, sous-officier ou volontaire le jour qui suit celui au cours duquel il a terminé avec succès sa période de candidature.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 35, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 22
+
+[<sup>1</sup> La qualité d'officier, sous-officier ou volontaire est retirée de plein droit par le Roi ou l'autorité qu'Il désigne, lorsque le militaire :
+
+1° n'est plus ressortissant d'un état membre de l'Espace économique européen ou de la Confédération Suisse, ou fait l'objet d'une décision d'éloignement du territoire, de renvoi ou d'expulsion, en application de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
+
+2° est définitivement mis à la pension;
+
+3° effectue le transfert visé aux articles 141 et 144, 2° ;
+
+4° entame, dans le cadre de la mobilité externe, une nouvelle activité professionnelle, comme visé à l'article 168;
+
+5° obtient sa démission à sa demande;
+
+6° est retiré définitivement de son emploi conformément à l'article 57, alinéa 1er, l'article 58 ou l'article 59, alinéa 1er;
+
+7° se trouve dans un des cas visés à l'article 72/3;]<sup>1</sup>
+
+[<sup>2</sup> 8° a une deuxième nomination définitive à temps plein dans un autre service public, dès que cette nomination n'est plus susceptible d'être annulée par le Conseil d'Etat.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 36, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;L 2018-04-30/07, art. 11, 017; En vigueur : 25-05-2018&gt;
+
+#### Section 2. - Description générale de la carrière.
+
+###### Art. 23
+
+[<sup>1</sup> § 1er. Les candidats militaires visés à l'article 3, 13°, a), débutent leur carrière par le cycle de formation de base visé à l'article 88.
+
+Pendant le cycle de formation de base, les candidats militaires acquièrent les compétences nécessaires à l'exercice d'une fonction de base.
+
+A leur admission en qualité de militaire de carrière, les volontaires possèdent les compétences correspondant à une fonction de base, et les officiers et les sous-officiers possèdent les compétences de la filière de métiers à laquelle la fonction de base appartient.
+
+§ 2. Au cours de leur carrière, les militaires acquièrent selon le cas, une ou plusieurs compétences, afin :
+
+1° de continuer à évoluer dans leur fonction ou filière de métiers;
+
+2° d'exercer des fonctions dans un pôle de compétence;
+
+3° d'exercer des fonctions spécifiques visées aux articles 111 et 112, dans leur filière de métiers ou un pôle de compétence;
+
+4° de changer de fonction ou de filière de métiers selon les dispositions visées aux articles 40 à 42.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 37, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+#### Section 3. - Des catégories de personnel et des grades.
+
+###### Art. 24
+
+Chaque fois qu'un grade est mentionné, le grade équivalent est également pris en considération.
+
+###### Art. 25
+
+§ 1er. [<sup>1</sup> Les catégories de personnel sont :
+
+1° les "officiers", nommés ou commissionnés dans un grade d'officier;
+
+2° les "sous-officiers", nommés ou commissionnés dans un grade de sous-officier;
+
+3° les "volontaires", nommés ou commissionnés dans un grade de volontaire.]<sup>1</sup>
+
+§ 2. Servent en qualité d'officier du niveau A, les officiers visés [<sup>1</sup> au § 1er, 1°]<sup>1</sup>, [<sup>2</sup> qui ont été recrutés sur la base d'un master ou qui ont obtenu un master après une formation de base dans une institution visée à l'article 5, § 1er, 1°, ou après une formation de base de médecin, dentiste, vétérinaire ou pharmacien]<sup>2</sup> et les officiers visés à l'article 119.
+
+[<sup>1</sup> Servent en qualité d'officier du niveau B, les officiers et sous-officiers visés à l'article 3, 33°.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 38, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+(2)&lt;L 2018-04-30/07, art. 12, 017; En vigueur : 25-05-2018&gt;
+
+###### Art. 26
+
+&lt;Abrogé par L 2013-07-31/04, art. 39, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 27
+
+§ 1er. Les grades d'officiers se succèdent dans l'ordre hiérarchique suivant :
+
+1° sous-lieutenant ou enseigne de vaisseau de deuxième classe;
+
+2° lieutenant ou enseigne de vaisseau;
+
+3° capitaine ou lieutenant de vaisseau;
+
+4° capitaine-commandant ou lieutenant de vaisseau de première classe;
+
+5° major ou capitaine de corvette;
+
+6° lieutenant-colonel ou capitaine de frégate;
+
+7° colonel ou capitaine de vaisseau;
+
+8° général-major ou amiral de division;
+
+9° [<sup>2</sup> lieutenant général]<sup>2</sup> ou vice-amiral;
+
+10° [<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> On distingue les sous-catégories d'officiers suivantes :
+
+1° les titulaires des grades visés à l'alinéa 1er, 1° à 4°, sont appelés officiers subalternes;
+
+2° les titulaires des grades visés à l'alinéa 1er, 5° à 7°, sont appelés officiers supérieurs;
+
+3° les titulaires des grades visés à l'alinéa 1er, 8° et 9°, sont appelés officiers généraux.]<sup>1</sup>
+
+§ 2. L'appellation du grade peut être complétée par l'un des vocables que le Roi détermine.
+
+[<sup>1</sup> § 3. Les officiers subalternes servent, selon le cas, en qualité d'officier du niveau A ou d'officier du niveau B.
+
+Les officiers supérieurs et généraux servent en qualité d'officier du niveau A.
+
+Les officiers du niveau B n'ont accès qu'aux grades d'officiers subalternes.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 40, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+(2)&lt;L 2016-11-21/20, art. 45, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 28
+
+&lt;Abrogé par L 2013-07-31/04, art. 41, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 29
+
+&lt;Abrogé par L 2013-07-31/04, art. 42, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 30
+
+&lt;Abrogé par L 2013-07-31/04, art. 43, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 31
+
+§ 1er. Les grades des sous-officiers se succèdent dans l'ordre hiérarchique suivant :
+
+1° sergent ou second maître;
+
+2° premier sergent ou maître;
+
+3° premier sergent-chef ou maître-chef;
+
+4° premier sergent-major ou premier maître;
+
+5° adjudant ou premier maître-chef;
+
+6° adjudant-chef ou maître principal;
+
+7° adjudant-major ou maître principal-chef.
+
+On distingue les sous-catégories de sous-officiers suivantes :
+
+1° les titulaires des grades visés à l'alinéa 1er, 1° à 3°, sont appelés sous-officiers subalternes;
+
+2° les titulaires des grades visés à l'alinéa 1er, 4° et 5°, sont appelés sous-officiers d'élite;
+
+3° les titulaires des grades visés à l'alinéa 1er, 6° et 7°, sont appelés sous-officiers supérieurs;
+
+§ 2. L'appellation du grade peut être complétée par l'un des vocables que le Roi détermine.
+
+[<sup>1</sup> § 3. Les sous-officiers servent, selon le cas, en qualité de sous-officier du niveau B ou de sous-officier du niveau C.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 44, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+###### Art. 32
+
+§ 1er. Les grades des volontaires se succèdent dans l'ordre hiérarchique suivant :
+
+1° soldat ou matelot;
+
+2° premier soldat ou premier matelot;
+
+3° caporal ou quartier-maître;
+
+4° [<sup>1</sup> ...]<sup>1</sup>
+
+5° caporal-chef ou quartier-maître-chef;
+
+6° premier caporal-chef ou premier quartier-maître-chef;
+
+7° [<sup>1</sup> ...]<sup>1</sup>
+
+On distingue les sous-catégories de volontaires suivantes :
+
+1° les titulaires des grades visés à l'alinéa 1er, 1° à 3°, sont appelés volontaires subalternes;
+
+2° les titulaires des grades visés à l'alinéa 1er, [<sup>1</sup> 5° et 6°]<sup>1</sup>, sont appelés volontaires d'élite;
+
+3° [<sup>1</sup> ...]1
+
+§ 2. L'appellation du grade peut être complétée par l'un des vocables que le Roi détermine.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 45, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+###### Art. 33
+
+&lt;Abrogé par L 2013-07-31/04, art. 46, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 34
+
+[<sup>1</sup> Le militaire ou le candidat militaire qui, en fonction de la catégorie de personnel qu'il vise, est nommé ou commissionné pour la première fois dans le grade respectivement de capitaine, de sous-lieutenant, de sergent ou de premier soldat, prête le serment prévu par le décret du 20 juillet 1831 concernant le serment à la mise en vigueur de la monarchie constitutionnelle représentative, entre les mains de son chef de corps.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 47, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+###### Art. 35
+
+[<sup>1</sup> Sous réserve des dispositions relatives à la nomination et la commission des candidats militaires visées aux articles 81/5, 82 et 83/1 :
+
+1° les officiers sont nommés ou commissionnés dans le grade par le Roi;
+
+2° [<sup>2</sup> les sous-officiers et les volontaires sont nommés ou commissionnés dans le grade par l'autorité désignée par le Roi;]<sup>2</sup>
+
+3° [<sup>2</sup> ...]<sup>2</sup>
+
+Les grades ne peuvent être conférés qu'à concurrence du nombre d'emplois correspondant.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 48, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 15, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 36
+
+Sous réserve de l'application des dispositions pénales, entraînent de plein droit le retrait du grade :
+
+1° [<sup>1</sup> ...]<sup>1</sup>
+
+2° le retrait définitif d'emploi;
+
+3° le fait, pour un militaire [<sup>1</sup> ou un candidat militaire]<sup>1</sup> commissionné dans un grade, de ne pas satisfaire, en temps voulu, aux conditions qui restent à remplir pour sa nomination.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 49, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+###### Art. 37
+
+Tout militaire peut à tout moment renoncer à l'avancement. [<sup>1</sup> Il peut revenir une fois sur sa décision. Cette décision devient toutefois irrévocable [<sup>2</sup> après une période de trois ans de service actif]<sup>2</sup> après que le militaire concerné ait communiqué par écrit sa décision à l'autorité que le Roi désigne.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 50, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+(2)&lt;L 2025-12-08/07, art. 34, 028; En vigueur : 08-01-2026&gt;
+
+#### Section 4. [<sup>1</sup> - Des forces, des filières de métiers et des pôles de compétence.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-11-21/20, art. 46, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 37/1
+
+[<sup>1</sup> Chaque militaire appartient à une des forces suivantes : la force terrestre, la force aérienne, la marine ou le service médical.
+
+L'inscription définitive dans une force a lieu au plus tard lorsque le militaire concerné a terminé avec succès sa formation de base.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-11-21/20, art. 47, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 37/2
+
+[<sup>1</sup> Tout militaire peut être transféré d'une force à une autre :
+
+1° à sa demande;
+
+2° d'office, dans l'intérêt du service;
+
+3° lorsqu'un transfert entre filières de métiers l'exige;
+
+4° lorsqu'une modification dans l'organisation des Forces armées impose une nouvelle répartition des militaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-11-21/20, art. 48, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 37/3
+
+[<sup>1</sup> Les transferts visés à l'article 37/2, 1° à 3°, et, le cas échéant, les formations ou les formations de base qui y sont liées, sont prescrits par l'autorité que le Roi désigne.
+
+Dans le cas visé à l'article 37/2, 4°, les transferts nécessaires sont prescrits selon les modalités visées à l'article 42. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-11-21/20, art. 49, 012; En vigueur : 12-06-2017&gt;. (Note : Entrée en vigueur de l'article 49 fixée au 12-06-2017 par AR 2017-04-28/19, art. 7)
+
+###### Art. 37/4
+
+[<sup>1</sup> Pour les officiers et les sous-officiers, les transferts d'une force à une autre qui impliquent également un transfert d'une filière de métiers à une autre sont prescrits conformément, selon le cas, aux articles 40, 41 ou 42.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-11-21/20, art. 50, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 38
+
+[<sup>1</sup> Le Roi fixe la liste des filières de métiers et des pôles de compétence.
+
+Toute inscription d'un officier ou sous-officier dans une filière de métiers et, le cas échéant, toute acquisition d'un pôle de compétence par un militaire s'effectue sur la base des besoins en personnel des Forces armées, suivant une des manières et aux conditions fixées aux articles 39 à 42.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 52, 006; En vigueur : 01-10-2013; voir 2013-10-01/02, art. 11, 1°&gt;
+
+###### Art. 38/1
+
+[<sup>1</sup> Les officiers cessent d'appartenir à une filière de métiers dès qu'ils sont nommés à un grade d'officier général ou pour la période durant laquelle ils sont commissionnés à un grade d'officier général pour exercer l'emploi ou la fonction du grade supérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 53, 006; En vigueur : 01-10-2013; voir 2013-10-01/02, art. 11, 1°&gt;
+
+###### Art. 38/2
+
+[<sup>1</sup> Dans le cadre de l'avancement des officiers généraux et supérieurs et des sous-officiers supérieurs, et en fonction des besoins de l'organisation des Forces armées, le Roi peut subdiviser l'enveloppe en militaires du cadre actif, conformément à l'article 5 de la loi du 25 mai 2000 relative à l'enveloppe en personnel militaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 54, 006; En vigueur : 01-10-2013; voir 2013-10-01/02, art. 11, 1°&gt;
+
+###### Art. 39
+
+§ 1er. [<sup>1</sup> L'inscription provisoire dans une filière de métiers ou, selon le cas, dans un groupe de filières de métiers a lieu au moment où l'intéressé débute une formation de base.]<sup>1</sup>
+
+[<sup>1</sup> L'inscription définitive dans une filière de métiers a lieu au plus tard lorsque le militaire concerné a terminé avec succès sa formation de base.]<sup>1</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+§ 2. [<sup>1</sup> L'acquisition d'un pôle de compétence a lieu lorsque le militaire concerné :
+
+1° le cas échéant, a suivi avec succès un cours de perfectionnement [<sup>2</sup> visé à l'article 110, § 1er, alinéa 2, 2°,]<sup>2</sup> destiné à l'acquisition de ce pôle de compétence;
+
+2° a reçu une évaluation positive dans une fonction relevant de ce pôle de compétence, selon la procédure et les modalités fixées par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 55, 006; En vigueur : 01-10-2013; voir 2013-10-01/02, art. 11, 1°&gt;
+
+(2)&lt;L 2018-04-30/07, art. 13, 017; En vigueur : 25-05-2018&gt;
+
+###### Art. 40
+
+[<sup>1</sup> En cas de suppression d'une filière de métiers ou dans l'intérêt du service, chaque militaire peut être transféré d'office d'une filière de métiers à une autre, pour autant qu'il réponde aux critères d'aptitude physique et aux critères d'aptitude médicale de sa nouvelle filière de métiers.
+
+Ce transfert et, le cas échéant, les formations ou les formations de base qui y sont liées, sont prescrits par l'autorité que le Roi désigne.
+
+[<sup>2</sup> L'inscription définitive dans la nouvelle filière de métiers a lieu au plus tard lorsque le militaire concerné :
+
+1° a terminé avec succès les formations ou formations de base visées à l'alinéa 2;
+
+2° [<sup>3</sup> a reçu pour son évaluation statutaire de sa nouvelle fonction, la mention "suffisant".]<sup>3</sup>]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 56, 006; En vigueur : 01-10-2013; voir 2013-10-01/02, art. 11, 1°&gt;
+
+(2)&lt;L 2016-11-21/20, art. 51, 012; En vigueur : 02-01-2017&gt;
+
+(3)&lt;L 2017-07-31/24, art. 2, 019; En vigueur : 31-12-2019&gt;
+
+###### Art. 41
+
+[<sup>1</sup> Chaque militaire peut être transféré à sa demande d'une filière de métiers à une autre, pour autant qu'il réponde aux critères d'aptitude physique et aux critères d'aptitude médicale de sa nouvelle filière de métiers.
+
+Ce transfert et, le cas échéant, les formations ou les formations de base qui y sont liées, sont prescrits par l'autorité que le Roi désigne.
+
+[<sup>2</sup> L'inscription définitive dans la nouvelle filière de métiers a lieu au plus tard lorsque le militaire concerné :
+
+1° a terminé avec succès les formations ou formations de base visées à l'alinéa 2;
+
+2° [<sup>3</sup> a reçu pour son évaluation statutaire de sa nouvelle fonction, la mention "suffisant".]<sup>3</sup>]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 57, 006; En vigueur : 01-10-2013; voir 2013-10-01/02, art. 11, 1°&gt;
+
+(2)&lt;L 2016-11-21/20, art. 52, 012; En vigueur : 02-01-2017&gt;
+
+(3)&lt;L 2017-07-31/24, art. 3, 019; En vigueur : 31-12-2019&gt;
+
+###### Art. 42
+
+Lorsqu'une modification dans l'organisation des Forces armées impose une nouvelle répartition des militaires, et pour autant que les militaires concernés répondent aux critères d'aptitude physique et aux critères d'aptitude médicale [<sup>1</sup> des filières de métiers visées]<sup>1</sup>, le Roi prescrit les transferts nécessaires après concertation avec les organisations syndicales représentatives.
+
+[<sup>2</sup> Cette concertation avec les organisations syndicales représentatives a lieu selon les modalités fixées par le Roi.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 58, 006; En vigueur : 01-10-2013; voir 2013-10-01/02, art. 11, 1°&gt;
+
+(2)&lt;L 2016-11-21/20, art. 53, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 42/1
+
+[<sup>1</sup> Tout militaire peut, quelle que soit la fonction qu'il exerce ou la filière de métiers dans laquelle il est inscrit, être désigné pour effectuer des prestations de service dans tout organisme des Forces armées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 59, 006; En vigueur : 01-10-2013; voir 2013-10-01/02, art. 11, 1°&gt;
+
+#### Section 5. - De l'emploi.
+
+##### Sous-section Ire. - Généralités.
+
+###### Art. 43
+
+L'emploi est exercé en vertu d'ordres de service émanant :
+
+1° du Roi ou de l'autorité qu'Il détermine pour les officiers [<sup>1</sup> ...]<sup>1</sup>;
+
+2° [<sup>2</sup> de l'autorité désignée par le Roi pour les sous-officiers et les volontaires;]<sup>2</sup>
+
+3° [<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 60, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 16, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 44
+
+[<sup>1</sup> Le militaire peut être détaché pour cause de mission officielle auprès d'une institution de droit international public, d'un gouvernement étranger, de tout service public dépendant de l'autorité fédérale, des régions, des communautés, des provinces, des communes, des agglomérations, des fédérations et des associations de communes, des zones de police, des entreprises publiques autonomes visées à la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques, ainsi que des organismes qui dépendent de tel service public ou des organismes qui dépendent de la Défense.]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 61, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+##### Sous-section 2. - Du retrait temporaire d'emploi.
+
+###### Art. 45
+
+Le retrait temporaire d'emploi n'a lieu que dans les cas suivants :
+
+1° à la demande du militaire :
+
+a) pour convenances personnelles;
+
+b) par interruption de carrière;
+
+c) pour raisons familiales;
+
+2° imposé par l'autorité :
+
+a) pour motif de santé;
+
+b) par mesure disciplinaire;
+
+c) [<sup>1</sup> ...]<sup>1</sup>
+
+Le militaire en retrait temporaire d'emploi reste soumis aux lois pénales militaires et à la discipline militaire.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 62, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 46
+
+En cas de mobilisation ou en période de guerre ou de crise, vises à l'article 186, les militaires ne peuvent pas obtenir un retrait temporaire d'emploi à leur demande. Il en est de même pour les militaires qui en période de paix se trouvent dans la sous-position " en engagement opérationnel " ou font effectivement partie d'un détachement qui se prépare en vue de cet engagement.
+
+Les retraits temporaires d'emploi accordés à la demande prennent automatiquement fin, sans période de préavis, en période de guerre ou en cas de mobilisation.
+
+En période de crise ou en période de paix, les retraits temporaires d'emploi accordés à la demande peuvent, dans des cas exceptionnels et pour autant que le besoin en personnel ne puisse être rencontré d'aucune autre manière, être suspendus par l'autorité les ayant accordés en cas d'engagement opérationnel ou de [<sup>1</sup> préparation]<sup>1</sup> en vue de cet engagement.
+
+[<sup>1</sup> Le militaire qui est affecté dans un organisme international ou interallié peut obtenir un retrait temporaire d'emploi à la demande pour autant que la demande soit motivée par des raisons personnelles exceptionnelles qui sont appréciées par l'autorité que le Roi désigne. Ce retrait temporaire d'emploi dure trois mois et ne peut être accordé qu'une seule fois.
+
+Le militaire qui occupe un poste nécessitant un profil de compétences spécifique et rare ne peut pas obtenir un retrait temporaire d'emploi à la demande. Le Roi fixe ces postes par catégorie de personnel, et éventuellement par sous-catégorie de personnel.
+
+Toutefois, pour des raisons personnelles exceptionnelles motivées, le militaire visé à l'alinéa 5 peut introduire une demande [<sup>2</sup> auprès de l'autorité désignée par le Roi]<sup>2</sup> afin d'obtenir un retrait temporaire d'emploi à la demande. Ce retrait temporaire d'emploi dure trois mois.
+
+En fonction des besoins d'encadrement, la demande d'un retrait temporaire d'emploi à la demande d'un militaire peut être refusée par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup>, afin de garantir le bon fonctionnement et la continuité des Forces armées.
+
+Si un retrait temporaire d'emploi à la demande est accepté par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup>, celui-ci prend effet au plus tard trois mois après la date d'introduction de la demande, sauf si le militaire concerné demande lui-même une prise d'effet ultérieure aux trois mois précités.
+
+Toutefois, si l'intérêt du service l'exige afin de préserver les capacités opérationnelles des Forces armées, [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> peut fixer une date ultérieure, mais au plus tard :
+
+1° neuf mois après la date d'introduction de la demande pour les officiers;
+
+2° six mois après la date d'introduction de la demande pour les sous-officiers et les volontaires.
+
+Les alinéas 4 à 6 et 9 ne sont pas d'application à un retrait temporaire d'emploi pour raisons familiales.]<sup>1</sup>
+
+[<sup>3</sup> La durée de tous les retraits temporaires d'emploi pour convenances personnelles ou par interruption de carrière ne peut dépasser un total de six mois au cours des cinq premières années [<sup>4</sup> de service actif]<sup>4</sup> suivant la fin de la période de candidature du militaire concerné.
+
+Toutefois, pour des raisons personnelles exceptionnelles motivées, à apprécier par l'autorité désignée par le Roi, la durée maximale visée à l'alinéa 11 peut être dépassée.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 63, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 17, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2018-04-30/07, art. 14, 017; En vigueur : 25-05-2018&gt;
+
+(4)&lt;L 2025-12-08/07, art. 35, 028; En vigueur : 08-01-2026&gt;
+
+###### Art. 47
+
+Les militaires qui le demandent peuvent être retirés provisoirement de leur emploi par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> pour convenances personnelles.
+
+[<sup>1</sup> Tout retrait temporaire d'emploi ou toute prolongation est exprimé en mois et est sollicité pour une durée de minimum trois mois et maximum douze mois.]<sup>1</sup>
+
+Sauf pour motifs exceptionnels à apprécier par le ministre, et sans que cette durée ne dépasse trente-six mois, la durée de tous les retraits temporaires d'emploi pour convenances personnelles ne peut depasser au total douze mois au cours de la carrière du militaire.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 64, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 18, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 48
+
+§ 1er. Les militaires qui le demandent peuvent obtenir [<sup>2</sup> de l'autorité désignée par le Roi]<sup>2</sup> une interruption de leur carrière.
+
+§ 2. [<sup>1</sup> Toute interruption de carrière ou toute prolongation est exprimée en mois et est sollicitée pour une durée de minimum trois mois et maximum douze mois.]<sup>1</sup>
+
+Sauf pour motifs exceptionnels à apprécier par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup>, la durée de toutes les interruptions de carrière ne peut dépasser au total trente-six mois au cours de la carrière du militaire.
+
+§ 3. [<sup>1</sup> Sans préjudice de l'application de l'article 176, le militaire en interruption de carrière ne peut [<sup>3</sup> que continuer à exercer]<sup>3</sup> l'activité accessoire en tant que travailleur salarié qui a été autorisée au moins trois mois avant le début de l'interruption de carrière, dans les conditions et les limites de cette autorisation. Il peut également exercer une activité de travailleur indépendant.]<sup>1</sup>
+
+En ce qui concerne les officiers [<sup>1</sup> ...]<sup>1</sup>, aucune des activités visées à l'alinéa 1er ne peut être exercée dans le secteur de la production ou du commerce d'armes, de munitions et de matériel de guerre visé à l'article 296, § 1er, b), du Traité du 25 mars 1957 instituant la Communauté européenne.
+
+Pour l'application de ce paragraphe, est considérée comme activité accessoire en tant que travailleur salarié, l'activité salariée dont le nombre d'heures de travail par semaine, en moyenne, ne dépasse pas 38 heures. Est considérée comme une activité indépendante, l'activité qui oblige, selon la réglementation en vigueur, la personne concernée à s'inscrire auprès de l'Institut National d'Assurances sociales pour travailleurs indépendants.
+
+Si le militaire entame une activité professionnelle sans autorisation ou [<sup>1</sup> s'il n'exerce pas son activité accessoire dans les conditions et les limites de l'autorisation visée à l'alinéa 1er]<sup>1</sup>, le retrait temporaire d'emploi par interruption de carrière est converti dès ce moment en retrait temporaire d'emploi pour convenances personnelles.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 65, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 19, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2018-04-30/07, art. 15, 017; En vigueur : 25-05-2018&gt;
+
+###### Art. 49
+
+[<sup>1</sup> [<sup>2</sup> L'autorité désignée par le Roi]<sup>2</sup> ]<sup>1</sup> peut, à la demande du militaire, accorder un retrait temporaire d'emploi pour raisons familiales afin de lui permettre de se consacrer à ses enfants.
+
+Ce retrait temporaire d'emploi est accordé pour une période maximum de deux ans; en tout état de cause, il prend fin lorsque l'enfant atteint l'âge de trois ans.
+
+La durée maximum de ce retrait temporaire d'emploi durant la carrière militaire complète est portee à quatre ans et prend fin, au plus tard, lorsque l'enfant atteint l'âge de six ans, si ce dernier est handicapé et satisfait aux conditions pour bénéficier des allocations familiales en application de l'article 47 des lois coordonnées relatives aux allocations familiales pour travailleurs salariés.
+
+A la demande du militaire et moyennant le respect d'un préavis d'un mois, il peut être mis fin au retrait temporaire d'emploi pour raisons familiales avant son expiration.
+
+Si le père et la mère de l'enfant sont militaires, le retrait temporaire d'emploi visé au présent article peut être réparti entre les parents.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 66, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 20, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 50
+
+Le Roi pour les officiers [<sup>1</sup> ...]<sup>1</sup>, ou [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> pour les autres catégories de personnel, peut retirer temporairement de son emploi pour motif de santé, le militaire qui, suite à la décision de la commission militaire d'aptitude et de reforme ou de la commission militaire d'aptitude et de réforme d'appel, n'est pas encore en état de reprendre du service.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 67, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 21, 008; En vigueur : 24-04-2014&gt;
+
+##### Sous-section 3. - De la suspension par mesure d'ordre.
+
+###### Art. 51
+
+[<sup>1</sup> § 1er. Lorsque [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> estime que la présence d'un militaire dans les Forces armées porte atteinte à la discipline ou au bon renom des Forces armées, [<sup>2</sup> elle]<sup>2</sup> peut, d'office ou sur la proposition des chefs hiérarchiques du militaire, suspendre ce dernier par mesure d'ordre.
+
+La suspension par mesure d'ordre constitue une mesure provisoire qui ne présente aucun caractère disciplinaire.
+
+§ 2. Le militaire concerné est entendu au préalable au sujet des faits qui lui sont reprochés et peut être assisté de la personne de son choix.
+
+Il est convoqué par [<sup>3</sup> tout moyen de communication écrit contre accusé de réception ou accusé de confirmation, et est réputé avoir été entendu, sauf en cas de force majeure,]<sup>3</sup> même s'il n'en accuse pas réception, dès lors que ladite convocation lui a été présentée une deuxième fois après un délai raisonnable.
+
+Lorsqu'il est impossible d'entendre le militaire préalablement à sa suspension par mesure d'ordre ou lorsqu'une situation d'urgence le justifie, [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> peut, sans délai et jusqu'au prononcé de la suspension par mesure d'ordre, l'écarter préventivement. S'il n'a pu être entendu préalablement à l'écartement préventif, le militaire concerné est entendu sans délai après le prononcé de celui-ci. Lorsque l'urgence est invoquée, le militaire ne peut être écarté préventivement plus de quinze jours ouvrables.
+
+En tant que mesure d'ordre interne, l'écartement préventif visé à l'alinéa 3 n'a, pour le militaire concerné, aucune conséquence sur le plan du statut administratif ou pécuniaire.
+
+§ 3. La durée de la suspension par mesure d'ordre ne peut dépasser les trois mois.
+
+[<sup>4</sup> Toutefois, en cas de besoin et]<sup>4</sup> moyennant le respect des dispositions du § 2, la suspension peut être prolongée par périodes de [<sup>4</sup> maximum six]<sup>4</sup> mois jusqu'une durée maximum de deux ans. Cette prolongation est décidée par le Roi pour les officiers et par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> pour les sous-officiers et les volontaires.
+
+Toutefois, lorsqu'une information judiciaire ou une poursuite pénale est en cours en raison des faits qui motivent la suspension, celle-ci doit prendre fin au plus tard six mois après la fin de l'action judiciaire.
+
+Il peut être mis fin à tout moment à la suspension par mesure d'ordre par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> qui détermine, le cas échéant, les modalités de la régularisation du militaire concerné.
+
+§ 4. Lorsqu'un militaire suspendu par mesure d'ordre est privé de sa liberté, cette suspension est suspendue de plein droit jusqu'à la date de mise en liberté du militaire concerné. A cette date, la période restante de la suspension par mesure d'ordre recommence de plein droit à courir, sans nouvelle notification à ce dernier. D'autre part, lorsque la suspension par mesure d'ordre est notifiée à un militaire qui est en détention préventive, la prise d'effet de cette suspension par mesure d'ordre est suspendue de plein droit jusqu'à la mise en liberté du militaire concerné, sans nouvelle notification à ce dernier.
+
+§ 5. Lorsqu'un militaire est suspendu par mesure d'ordre, ou que cette suspension est prolongée, sans qu'une procédure pouvant donner lieu à une mesure statutaire ne soit entamée, un conseil d'enquête, constitué par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> et composé conformément aux dispositions de l'article 57, alinéa 5, est chargé d'émettre un avis sur cette suspension.
+
+Le Roi règle la procédure du conseil d'enquête visé à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 68, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 22, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2025-12-08/07, art. 36, 028; En vigueur : 01-01-2026&gt;
+
+(4)&lt;L 2026-04-22/06, art. 7, 029; En vigueur : 18-05-2026&gt;
+
+##### Sous-section 4. - De la démission à la demande.
+
+###### Art. 52
+
+§ 1er. [<sup>1</sup> A tout moment, le militaire peut présenter sa démission par écrit. Cette démission n'a d'effet que lorsqu'elle est acceptée par le Roi [<sup>4</sup> , ou l'autorité qu'Il désigne,]<sup>4</sup> pour les officiers [<sup>2</sup> et par l'autorité désignée par le Roi pour les sous-officiers et les volontaires]<sup>2</sup>.
+
+La démission qui a été acceptée, prend effet, selon le cas :
+
+1° au plus tard trois mois après la date d'introduction de la demande, sauf si le militaire concerné demande une date ultérieure aux trois mois précités;
+
+2° si l'intérêt du service l'exige afin de préserver les capacités opérationnelles des Forces armées, à la date fixée par le Roi ou l'autorité qu'Il détermine, [<sup>3</sup> visée à l'alinéa 1er,]<sup>3</sup> mais au plus tard :
+
+a) neuf mois après la date d'introduction de la demande pour les officiers;
+
+b) six mois après la date d'introduction de la demande pour les sous-officiers et les volontaires.]<sup>1</sup>
+
+§ 2. L'autorité visée au § 1er peut refuser la démission si elle estime qu'elle est contraire à l'intérêt du service.
+
+§ 3. La démission est toujours contraire à l'intérêt du service dans les cas suivants :
+
+1° [<sup>4</sup> ...]<sup>4</sup>
+
+2° en période de crise;
+
+3° en cas de mobilisation;
+
+4° en période de guerre;
+
+5° si le militaire [<sup>1</sup> ...]<sup>1</sup> se trouve en période de paix dans la sous-position " en engagement opérationnel " ou fait effectivement partie d'un détachement qui se prépare en vue de cet engagement.
+
+§ 4. Hormis les cas exceptionnels motivés expressément par le Roi ou l'autorité qu'Il désigne, la démission visée au § 2 n'est pas contraire à l'intérêt du service si le militaire concerné est resté en service actif pendant toute la période de rendement visée à l'article 179.
+
+Aussi bien dans le cas exceptionnel expressément motivé visé à l'alinéa 1er, que dans le cas d'une demande de démission prenant effet après la période visée au § 3, 1°, mais avant la fin de la période de rendement visée à l'article 179, le militaire concerné obtient sa démission au plus tard trois ans après la décision de refus de la démission, pour autant qu'il n'ait pas formellement retiré sa demande de démission.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 69, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 23, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2018-04-30/07, art. 16, 017; En vigueur : 25-05-2018&gt;
+
+(4)&lt;L 2025-12-08/07, art. 37, 028; En vigueur : 01-01-2026&gt;
+
+###### Art. 53
+
+Le militaire qui a perdu la qualité de militaire pour l'un des motifs énumérés à l'article 22, alinéa 1er, ne peut être réintégré dans le cadre actif.
+
+[<sup>4</sup> Toutefois, pour autant qu'il n'ait pas atteint l'âge de mise à la retraite et que l'intérêt du service le permette, le militaire qui a perdu la qualité de militaire suite à sa démission à sa demande, depuis cinq ans au plus, peut obtenir du Roi ou de l'autorité qu'Il désigne l'autorisation d'être réintégré dans le cadre actif.]<sup>4</sup>
+
+[<sup>4</sup> Le militaire visé à l'alinéa 2 subit une perte d'ancienneté égale au temps écoulé depuis sa démission.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 70, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 24, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2016-11-21/20, art. 54, 012; En vigueur : 02-01-2017&gt;
+
+(4)&lt;L 2025-12-08/07, art. 38, 028; En vigueur : 01-01-2026&gt;
+
+##### Sous-section 5. - Des mesures statutaires.
+
+###### Art. 54
+
+Les mesures statutaires suivantes peuvent être prononcées à l'encontre du militaire :
+
+1° la retenue sur le traitement;
+
+2° le retrait temporaire d'emploi par mesure disciplinaire;
+
+3° le retrait définitif de l'emploi.
+
+###### Art. 55
+
+[<sup>1</sup> Sans préjudice de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs, si]<sup>1</sup> un militaire s'est rendu coupable de faits graves incompatibles avec l'état de militaire correspondant à sa catégorie de personnel, [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> peut procéder à une retenue sur le traitement du militaire concerné. Cette retenue est appliquée durant au maximum un mois et s'élève au moins à deux pour cent et au plus à [<sup>1</sup> cinq]<sup>1</sup> pour cent du traitement mensuel brut, dû pour le mois durant lequel la mesure statutaire est notifiée au militaire concerné.
+
+L'application de cette mesure statutaire ne peut avoir, pour le militaire concerné, aucune autre conséquence pécuniaire que celle fixée à l'alinéa 1er.
+
+Le Roi fixe les modalités selon lesquelles cette mesure est prononcée.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 71, 006; En vigueur : 31-12-2013, voir AR 2013-10-14/12, art. 52,1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 25, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 56
+
+Si un militaire s'est rendu coupable de faits graves incompatibles avec l'état de militaire correspondant à sa catégorie de personnel, [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> peut retirer le militaire de son emploi par mesure disciplinaire pour une période de maximum trois mois.
+
+Si le retrait temporaire d'emploi par mesure disciplinaire d'un officier [<sup>1</sup> ...]<sup>1</sup> dépasse un mois, la décision de retrait d'emploi est prononcée par le Roi.
+
+[<sup>1</sup> Lorsque le militaire a été suspendu par mesure d'ordre préalablement à la prise de décision de retrait temporaire d'emploi par mesure disciplinaire, l'absence découlant du retrait temporaire d'emploi est diminuée de la période déjà subie de suspension par mesure d'ordre.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 72, 006; En vigueur : 31-12-2013, voir AR 2013-10-14/12, art. 52,1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 26, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 57
+
+Si un militaire s'est rendu coupable de faits graves incompatibles avec l'état de militaire correspondant à sa catégorie de personnel, il peut être retiré définitivement de son emploi.
+
+La mesure est prononcée par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup>, après consultation d'un conseil d'enquête. Toutefois, pour les officiers [<sup>1</sup> ...]<sup>1</sup>, la mesure est prononcée par le Roi sur rapport motivé [<sup>2</sup> de l'autorité qu'Il désigne]<sup>2</sup> après consultation d'un conseil d'enquête.
+
+[<sup>1</sup> Le conseil d'enquête recherche si les faits sont établis et, le cas échéant, donne un avis sur leur gravité et leur incompatibilité avec l'état de militaire correspondant à sa catégorie de personnel.]<sup>1</sup>
+
+[<sup>1</sup> Le conseil d'enquête peut proposer [<sup>2</sup> à l'autorité désignée par le Roi]<sup>2</sup> de prononcer une autre mesure que le retrait définitif d'emploi.]<sup>1</sup>
+
+[<sup>1</sup> Le conseil d'enquête, dont la procédure est fixée par le Roi, est composé de cinq membres, revêtus au moins d'un grade supérieur au militaire qui comparaît ou d'une ancienneté supérieure dans le même grade, et dont au moins deux membres font partie de la même catégorie de personnel que le militaire qui comparaît. Ces membres sont désignés selon les modalités fixées par le Roi. Le conseil d'enquête est assisté par un secrétaire désigné par l'autorité désignée par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 73, 006; En vigueur : 31-12-2013, voir AR 2013-10-14/12, art. 52,1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 27, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 58
+
+[<sup>1</sup> Sauf si les condamnations suivantes sont prononcées avec sursis et pour autant que ce sursis ne soit pas révoqué, le militaire est retiré définitivement de son emploi sans l'intervention d'un conseil d'enquête s'il est condamné, conformément à l'article 19 du Code pénal ou à l'article 5 du Code pénal militaire ou à l'interdiction, même temporaire, d'un des droits visés à l'article 31, 1° et 6°, du Code pénal.]<sup>1</sup>
+
+La mesure est prononcée par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup>. Toutefois, pour les officiers [<sup>1</sup> ...]<sup>1</sup>, la mesure est prononcée par le Roi.
+
+[<sup>3</sup> La mesure prend effet le jour où la décision de condamnation est passée en force de chose jugée.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 74, 006; En vigueur : 31-12-2013, voir AR 2013-10-14/12, art. 52,1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 28, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2025-12-08/07, art. 39, 028; En vigueur : 08-01-2026&gt;
+
+###### Art. 59
+
+[<sup>2</sup> Le militaire qui est absent illégalement, peut être retiré définitivement de son emploi selon la procédure fixée par le Roi, pour autant:
+
+1° qu'un premier avertissement de la possibilité d'être retiré définitivement de son emploi lui soit communiqué par envoi recommandé;
+
+2° qu'un deuxième avertissement lui soit communiqué par envoi recommandé, au plus tôt le quinzième jour qui suit le jour de l'envoi du premier avertissement;
+
+3° qu'il n'ait pas été repris en force ou qu'il n'ait pas justifié son absence, au plus tard le septième jour qui suit l'envoi du deuxième avertissement.
+
+Même s'il n'accuse pas réception des avertissements visés à l'alinéa 1er, le militaire concerné est censé avoir été averti par le deuxième avertissement.]<sup>2</sup>
+
+Le militaire dont l'absence illégale est justifiée par un cas de force majeure, [<sup>2</sup> est repris en force]<sup>2</sup> par l'autorité désignée par le Roi.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 75, 006; En vigueur : 31-12-2013, voir AR 2013-10-14/12, art. 52,1°&gt;
+
+(2)&lt;L 2025-12-08/07, art. 40, 028; En vigueur : 01-01-2026&gt;
+
+###### Art. 60
+
+Lorsqu'un militaire est séparé de l'armée, soit en raison de circonstances de guerre, soit en raison de circonstances extraordinaires qui ne sont pas son fait, toute disposition relative au retrait définitif de l'emploi est suspendue à son égard pendant son absence.
+
+#### Section 6. - [<sup>1</sup> De l'ancienneté et de la nomination]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 76, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 61
+
+[<sup>1</sup> Sous réserve des dispositions relatives à la nomination et à la commission des candidats militaires conformément aux articles 82 et 83/1, et des dispositions relatives à la commission des militaires à un grade supérieur conformément aux articles 74 et 75, l'ancienneté dans le grade est déterminée par la date de nomination à ce grade.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 77, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+###### Art. 62
+
+[<sup>1</sup> Sous réserve des dispositions visées à l'article 83/2 relatives au classement des candidats militaires dont, selon le cas, la nomination ou la commission prend effet le même jour, l'ancienneté relative des officiers, sous-officiers ou volontaires qui sont nommés à la même date au même grade, est déterminée :
+
+1° par leur ancienneté dans le grade précédent;
+
+2° à égalité d'ancienneté dans le grade précédent, en fonction de l'ancienneté dans les grades inférieurs;
+
+3° à égalité d'ancienneté dans les grades inférieurs, en fonction de l'ancienneté de service au sein de la catégorie du personnel concernée;
+
+4° à égalité d'ancienneté de service au sein de la catégorie du personnel concernée, en fonction de l'âge du militaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 78, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+###### Art. 63
+
+&lt;Abrogé par L 2013-07-31/04, art. 79, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 64
+
+Est décomptée de l'ancienneté dans le grade [<sup>1</sup> ...]<sup>1</sup> et de l'ancienneté de service :
+
+1° pour toute sa durée, toute période de non-activité autre que la période de retrait temporaire d'emploi pour motif de santé et la période d'absence illégale justifiée suite a un cas de force majeure;
+
+2° la moitié de la période de retrait temporaire d'emploi pour motif de santé si ce retrait temporaire d'emploi trouve son origine dans un fait étranger [<sup>1</sup> à l'exercice du service]<sup>1</sup>;
+
+3° le temps écoulé entre la [<sup>1</sup> perte de la qualité de militaire]<sup>1</sup> et la réintégration visée à l'article 53, alinéa 2.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+L'ancienneté dans le grade dont le militaire est titulaire est modifiée en fonction de l'application qui lui est faite de l'alinéa 1er, selon les règles fixées par le Roi.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 80, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+###### Art. 64/1
+
+[<sup>1</sup> Le militaire transféré à sa demande, d'office ou à la suite d'une modification dans l'organisation des Forces armées, prend rang dans sa nouvelle filière de métiers avec son grade et son ancienneté dans ce grade.
+
+Il suit, pour l'avancement, le sort des militaires de cette nouvelle filière de métiers qui ont été nommés en même temps que lui au grade dont il est revêtu et qui ont effectué une carrière normale.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-11-21/20, art. 55, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 64/2
+
+[<sup>1</sup> § 1er. Dans les limites fixées aux paragraphes 2 à 4, le Roi détermine, pour l'avancement de grade, le cas échéant, par filière de métiers et pour les catégories de militaires qu'Il fixe, l'ancienneté minimum dans le grade immédiatement inférieur.
+
+§ 2. Aucun officier ne peut être nommé au grade de major s'il n'a au moins onze années d'ancienneté d'officier du cadre actif.
+
+Aucun officier ne peut être nommé au grade de lieutenant-colonel, de colonel ou à un grade d'officier général s'il n'a pas deux ans d'ancienneté dans le grade immédiatement inférieur.
+
+§ 3. Aucun sous-officier ne peut être nommé au grade d'adjudant-chef s'il n'a au moins dix années d'ancienneté de sous-officier du cadre actif.
+
+Aucun sous-officier ne peut, sauf en période de guerre, être nommé au grade immédiatement supérieur s'il ne compte au moins deux ans de service actif dans le grade dont il est revêtu.
+
+§ 4. Aucun volontaire ne peut, sauf en période de guerre, être nommé au grade de caporal, de caporal-chef, de premier caporal-chef s'il ne compte au moins deux ans de service actif dans le grade immédiatement inférieur.
+
+Toutefois, pour la nomination au grade de premier soldat un an de service suffit.
+
+Aucun vo]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 82, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+###### Art. 64/3
+
+[<sup>1</sup> Les nominations des officiers et des sous-officiers ont lieu au sein de la filière de métiers à laquelle ils appartiennent en application des dispositions de l'article 38.
+
+Les officiers généraux sont nommés selon les modalités que le Roi détermine et qui doivent concilier les intérêts des Forces armées avec une proportion équitable dans ces grades entre les filières de métiers, au sein d'un groupe de filières de métiers et au sein d'un groupe interfilières de métiers.
+
+Les officiers supérieurs et sous-officiers supérieurs sont nommés dans la filière de métiers visée à l'alinéa 1er selon les modalités que le Roi détermine et qui doivent concilier les intérêts des Forces armées avec une proportion équitable dans ces grades entre les filières de métiers, au sein d'un groupe de filières de métiers et au sein d'un groupe interfilières de métiers.
+
+L'alinéa 3 n'est pas applicable aux filières de métiers ou aux catégories de personnel fixées par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 83, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+#### Section 7. - De l'avancement de grade.
+
+###### Art. 65
+
+§ 1er. Le militaire ne peut être nommé ou commissionné au grade supérieur pendant qu'il est soit en non-activité, [<sup>1</sup> soit en détention préventive,]<sup>1</sup> soit suspendu par mesure d'ordre, soit séparé de l'armée.
+
+§ 2. Peut être nommé ou commissionné avec effet rétroactif :
+
+1° le militaire repris en service actif après un retrait temporaire d'emploi pour motif de santé;
+
+2° le militaire qui [<sup>1</sup> reprend le service]<sup>1</sup> après avoir été suspendu par mesure d'ordre;
+
+3° le militaire qui rejoint l'armée après en avoir été séparé;
+
+4° le militaire qui est repris en service actif après avoir été mis à la pension temporaire pour inaptitude physique;
+
+5° le militaire dont la candidature n'a pas été examinée en temps voulu pour des raisons de santé ou pour des raisons dues à l'administration;
+
+6° le militaire qui est repris en service actif après la justification de son absence illégale en raison d'un cas de force majeure.
+
+7° [<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> 8° le militaire qui reprend le service après avoir été en détention préventive.]<sup>1</sup>
+
+[<sup>1</sup> Le Roi pour les officiers et [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> pour les autres militaires peuvent prendre des dispositions spéciales pour la régularisation de l'avancement des militaires visés au présent paragraphe.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 84, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 28, 008; En vigueur : 24-04-2014&gt;
+
+#### Section 8. - De l'appréciation des militaires.
+
+##### Sous-section Ire. - De l'appréciation des compétences.
+
+###### Art. 66
+
+[<sup>1</sup> § 1er. Le militaire est apprécié annuellement quant à son aptitude professionnelle. Cette appréciation est appelée "l'évaluation professionnelle".
+
+L'évaluation professionnelle comporte trois évaluations :
+
+1° l'évaluation de poste;
+
+2° l'évaluation statutaire;
+
+3° l'évaluation de potentiel.
+
+L'évaluation professionnelle se déroule selon le cycle d'évaluation et les modalités que le Roi fixe par arrêté délibéré en Conseil des ministres. Elle est fondée sur :
+
+1° la description de poste du poste occupé par le militaire évalué;
+
+2° les compétences comportementales et professionnelles liées à la fonction exercée par le militaire évalué;
+
+3° les compétences comportementales génériques inhérentes à la qualité de militaire;
+
+4° les compétences comportementales non nécessaires pour la fonction exercée par le militaire, mais requises pour l'exercice d'une autre fonction, selon le cas, d'un autre niveau dans l'organisation, d'un autre niveau de catégorie de personnel ou dans une autre catégorie de personnel.
+
+L'évaluation de poste a pour but d'accompagner le militaire dans l'exercice de sa fonction. Elle est basée sur les éléments visés à l'alinéa 3, 1° et 2°.
+
+L'évaluation statutaire a pour but d'évaluer si le militaire possède les compétences comportementales génériques visées à l'alinéa 3, 3°, indispensables à la qualité de militaire, par l'attribution d'une mention "suffisant" ou "insuffisant".
+
+L'évaluation de potentiel a pour but d'estimer le potentiel du militaire. Elle est basée sur les compétences visées à l'alinéa 3, 4°.
+
+Les compétences appréciées visées à l'alinéa 3, 2° à 4°, peuvent différer en fonction de la catégorie ou sous-catégorie de personnel du militaire concerné et du poste qu'il occupe.
+
+§ 2. Le militaire est évalué par un premier évaluateur qui est le supérieur militaire hiérarchique du militaire évalué.
+
+Le premier évaluateur est, soit :
+
+1° un officier;
+
+2° un sous-officier du niveau B [<sup>2</sup> ...]<sup>2</sup>;
+
+3° un sous-officier du niveau C qui a au moins suivi avec succès le cours de perfectionnement visé à [<sup>2</sup> l'article 112, alinéa 1er, 1°]<sup>2</sup> ;
+
+4° un sous-officier musicien qui a au moins réussi l'examen visé à [<sup>2</sup> l'article 48]<sup>2</sup> de la loi du 27 mars 2003 relative au statut des musiciens militaires et modifiant diverses lois applicables au personnel de la Défense.
+
+Si le supérieur militaire hiérarchique du militaire évalué ne répond pas à l'une des conditions visées à l'alinéa 2, un autre militaire répondant aux conditions visées à l'alinéa 2, qui en qualité de premier évaluateur connaît le contenu de la fonction exercée par le militaire évalué est désigné par l'autorité fixée par le Roi par arrêté délibéré en Conseil des ministres.
+
+Selon les modalités fixées par le Roi par arrêté délibéré en Conseil des ministres, le premier évaluateur visé à l'alinéa 3 doit, pour procéder à l'évaluation professionnelle du militaire évalué, demander l'avis du supérieur militaire hiérarchique du militaire évalué, qui peut assister aux entretiens de fonctionnement et aux entretiens d'évaluation.
+
+Le second évaluateur est le supérieur militaire hiérarchique du premier évaluateur exerçant au minimum les attributions de commandant d'unité.
+
+Le premier évaluateur et le second évaluateur appartiennent au même régime linguistique que le militaire évalué.
+
+En dérogation à l'alinéa 6, le premier évaluateur et le second évaluateur qui n'appartiennent pas au même régime linguistique que le militaire évalué, peuvent procéder à l'évaluation, s'ils possèdent, selon le cas :
+
+1° comme officier, la connaissance effective de la langue visée à l'article 3, § 1er, de la loi du 30 juillet 1938 concernant l'usage des langues à l'armée;
+
+2° comme sous-officier, la connaissance effective de la langue visée à l'article 8, § 1er, alinéa 3, de la même loi.
+
+Conformément aux alinéas 1 à 7, le Roi fixe par arrêté délibéré en Conseil des ministres les modalités de désignation des premiers évaluateurs et seconds évaluateurs.
+
+Le militaire évalué peut introduire un recours auprès du second évaluateur au moment et selon la procédure déterminée par le Roi par arrêté délibéré en Conseil des ministres.
+
+Le second évaluateur doit, avant de prendre une décision finale, consulter au moins un et au maximum trois conseillers qui ont été proposés par le militaire évalué. Les conseillers peuvent avoir la qualité d'avocat, de représentant syndical ou de militaire du cadre actif. Toutefois, le militaire du cadre actif proposé comme conseiller ne peut pas être ou avoir été : le conjoint, le cohabitant légal ou un parent ou allié jusqu'au quatrième degré du militaire évalué. Les modalités relatives à la proposition et la consultation des conseillers sont déterminées par le Roi par arrêté délibéré en Conseil des ministres.
+
+La chaîne hiérarchique ne peut pas donner de mention "insuffisant" à l'évaluation statutaire d'un militaire, si aucun entretien de fonctionnement n'a auparavant été tenu selon les modalités fixées par le Roi par arrêté délibéré en Conseil des ministres.
+
+§ 3. L'exercice d'une fonction annexe donne lieu à une évaluation de poste complémentaire par le supérieur militaire hiérarchique du militaire évalué dans le cadre de la fonction annexe, selon les dispositions visées aux § 1er, alinéa 4, et § 2.
+
+§ 4. L'autorité que le Roi désigne par arrêté délibéré en Conseil des ministres, peut prévoir, le cas échéant, une évaluation de potentiel supplémentaire.
+
+Sans préjudice de l'application du paragraphe 2, le Roi peut par arrêté délibéré en Conseil des ministres charger un service de la Défense ou une organisation externe à la Défense de l'organisation et de l'exécution de l'évaluation de potentiel.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-07-31/24, art. 4, 019; En vigueur : 31-12-2019&gt;
+
+(2)&lt;L 2022-06-02/04, art. 2, 022; En vigueur : 30-06-2022&gt;
+
+###### Art. 67
+
+&lt;Abrogé par L 2017-07-31/24, art. 5, 019; En vigueur : 31-12-2019&gt;
+
+##### Sous-section 2. - De l'appréciation de l'aptitude physique et de l'aptitude médicale.
+
+###### Art. 68
+
+[<sup>1</sup> § 1er. Le militaire est apprécié quant à son aptitude physique et son aptitude médicale.
+
+Cette appréciation est effectuée sur la base de critères d'aptitude physique et de critères d'aptitude médicale.
+
+§ 2. Le militaire doit satisfaire aux critères d'aptitude physique qui sont fixés par le Roi, selon le cas, par catégorie d'âge, par sexe et par fonction ou fonction annexe.
+
+Le cas échéant, le Roi peut, pour l'exercice de certaines activités, fixer des critères d'aptitude physique complémentaires.
+
+Pour prouver qu'il satisfait aux critères d'aptitude physique, le militaire concerné doit réussir les épreuves physiques que le Roi fixe. Les résultats de ces épreuves sont validés par le chef de corps du militaire concerné.
+
+L'appréciation de l'aptitude physique a lieu :
+
+1° selon une périodicité que le Roi fixe;
+
+2° au plus tard six mois après l'occupation d'une nouvelle fonction;
+
+§ 3. Le militaire doit satisfaire aux critères d'aptitude médicale correspondant au profil médical exigé.
+
+Les critères d'aptitude médicale sont fixés par le Roi, selon le cas, par filière de métiers, fonction ou fonction annexe.
+
+Le cas échéant, le Roi peut, pour l'exercice de certaines activités, fixer des critères d'aptitude médicale complémentaires.
+
+De plus, le Roi fixe :
+
+1° les autorités qui doivent donner un avis quant à l'aptitude médicale du militaire;
+
+2° les autorités qui sont compétentes pour décider de l'aptitude médicale du militaire;
+
+3° la procédure donnant lieu à l'appréciation de l'aptitude médicale du militaire.
+
+L'appréciation de l'aptitude médicale a lieu :
+
+1° selon une périodicité que le Roi fixe par fonction, fonction annexe ou poste;
+
+2° à la demande du :
+
+a) chef de corps du militaire concerné;
+
+b) militaire concerné;
+
+c) conseiller en prévention-médecin du travail compétent pour l'unité du militaire concerné;
+
+d) médecin chargé de l'appui médical de l'unité à laquelle appartient le militaire concerné;
+
+e) les autorités désignées par le Roi;
+
+3° au moment où le militaire rejoint son unité après une absence ininterrompue pour motif de santé de plus de vingt-huit jours;
+
+4° au plus tard six mois après le moment où il a été constaté que le militaire concerné ne répondait plus à son profil médical.
+
+Sur une période de trente-six mois consécutifs, la durée de l'absence pour motif de santé ne peut excéder vingt-quatre mois.
+
+Toutefois, la commission militaire d'aptitude et de réforme ou la commission militaire d'aptitude et de réforme d'appel peut prolonger cette durée par tranche de maximum douze mois, jusqu'à une durée maximale de soixante mois, dans les cas suivants :
+
+1° pour le militaire atteint d'une affection pour laquelle il y a suffisamment d'indices de guérison possible;
+
+2° pour le militaire atteint de maladie grave et de longue durée.
+
+Par maladies graves et de longue durée, on entend uniquement les maladies chroniques, somatiques ou physiques de longue durée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 87, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+##### Sous-section 3. - Des catégories [<sup>1</sup> d'aptitude]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 88, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 69
+
+[<sup>1</sup> L'appartenance à une catégorie d'aptitude est déterminée annuellement, et pour la première fois, à l'issue de la période d'instruction.
+
+L'appartenance à une catégorie d'aptitude est déterminée à la date du 1er janvier d'une année et, en ce qui concerne l'aptitude professionnelle et physique, est déterminée pour toute la durée de cette année.
+
+Le militaire appartient à une des catégories d'aptitude suivantes : A, B, C ou D.
+
+Pour une année considérée, le militaire appartient à la catégorie d'aptitude A, pour autant :
+
+1° [<sup>3</sup> qu'au 31 décembre de l'année précédente, il ait obtenu la mention "suffisant" à l'occasion de ses deux dernières évaluations statutaires;]<sup>3</sup>
+
+2° et qu'au 31 décembre de l'année précédente, il ait répondu aux critères d'aptitude physique exigés;
+
+3° et qu'il réponde aux critères d'aptitude médicale pour être engagé dans la fonction et, le cas échéant, la fonction annexe qu'il exerce.
+
+Pour une année considérée, le militaire appartient à la catégorie d'aptitude B, pour autant :
+
+1° [<sup>3</sup> qu'au 31 décembre de l'année précédente, il ait obtenu la mention "suffisant" à l'occasion de sa dernière évaluation statutaire et qu'il ait obtenu la mention "insuffisant" à l'occasion de son avant-dernière évaluation statutaire;]<sup>3</sup>
+
+2° ou qu'au 31 décembre de l'année précédente, il n'ait pas répondu aux critères d'aptitude physique exigés;
+
+3° ou que, sur la base de la décision d'une autorité que le Roi fixe, il ne peut, pour des raisons médicales pour une durée cumulée de plus d'un mois et de moins d'un an :
+
+a) exercer sans limitations sa fonction ou, le cas échéant, sa fonction annexe;
+
+b) ou être engagé dans une des sous-positions visées à l'article 190, 3°, 4° ou 6°.
+
+Pour une année considérée, le militaire appartient à la catégorie d'aptitude C :
+
+1° si au 31 décembre de l'année précédente, il a obtenu pour la première fois une mention "insuffisant" et ceci à l'occasion de la dernière [<sup>3</sup> évaluation statutaire]<sup>3</sup>;
+
+2° ou si au 31 décembre de l'année précédente, il appartenait à la catégorie d'aptitude B conformément à l'alinéa 5, 2°, et au 31 décembre de l'année précédente, il n'a toujours pas répondu aux critères d'aptitude physique exigés;
+
+3° ou que, sur la base de la décision d'une autorité que le Roi fixe, il ne peut, pour des raisons médicales pour une durée cumulée de plus d'un an :
+
+a) exercer sans limitations sa fonction ou, le cas échéant, sa fonction annexe;
+
+b) ou être engagé dans une des sous-positions visées à l'article 190, 3°, 4° ou 6° ;
+
+4° ou si une procédure de comparution devant la commission militaire d'aptitude et de réforme est entamée à l'égard du militaire concerné.
+
+Pour une année considérée, le militaire appartient à la catégorie d'aptitude D :
+
+1° si au 31 décembre de l'année précédente, il a obtenu deux mentions "insuffisant" à l'occasion de ses deux dernières [<sup>3</sup> évaluations statutaires]<sup>3</sup>;
+
+2° ou si au 31 décembre de l'année précédente, il appartenait à la catégorie d'aptitude C conformément à l'alinéa 6, 2°, et qu'à la date précitée de l'année précédente, il n'a toujours pas répondu aux critères d'aptitude physique exigés;
+
+3° ou s'il dépasse la période d'absence pour motif de santé visée à l'article 68, § 3, alinéa 6.
+
+Le chef de corps doit entamer la procédure de comparution devant la commission militaire d'aptitude et de réforme à l'égard du militaire qui pendant une période de trente-six mois consécutifs n'a pas répondu durant vingt-quatre mois aux critères d'aptitude médicale pour être engagé dans la fonction et, le cas échéant, la fonction annexe qu'il exerce.
+
+Toutefois, le militaire pour lequel une procédure de comparution est entamée devant la commission militaire d'aptitude et de réforme ou la commission militaire d'aptitude et de réforme d'appel ne peut passer dans la "catégorie d'aptitude D" avant la clôture de cette procédure.
+
+Des périodes d'éventuelles inaptitudes liées à la protection maternelle et parentale ne sont pas prises en considération pour le calcul des délais maximum précités.
+
+Après une absence pour motif de santé, le militaire peut, pour autant que le service le permette, être autorisé par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> à travailler à mi-temps pour raisons médicales. Les périodes pendant lesquelles le militaire bénéficiant d'une telle autorisation s'absente, doivent être comptées dans la période visée à l'alinéa 7, 3°. L'autorisation de travailler à mi-temps pour raisons médicales ne peut pas être accordée pour plus de six mois pendant la période au cours de laquelle le militaire souffre de la même affection.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 89, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;L 2016-11-21/20, art. 56, 012; En vigueur : 02-01-2017&gt;
+
+(3)&lt;L 2017-07-31/24, art. 6, 019; En vigueur : 31-12-2019&gt;
+
+###### Art. 70
+
+[<sup>1</sup> Le militaire appartenant à la catégorie d'aptitude C parce qu'il ne répond pas aux critères d'aptitude physique ou aux critères d'aptitude médicale nécessaires pour l'exercice d'une fonction déterminée doit, pour pouvoir être transféré à sa demande ou d'office, vers une autre fonction, le cas échéant dans une autre filière de métier, le jour de son transfert, répondre aux critères d'aptitude physique et aux critères d'aptitude médicale pour l'exercice de sa nouvelle fonction.
+
+[<sup>3</sup> En dérogation à l'alinéa 1er, le sous-officier du niveau B appartenant à la catégorie d'aptitude C parce qu'il ne répond pas aux critères d'aptitude physique ou aux critères d'aptitude médicale nécessaires pour l'exercice d'une fonction de sous-officier du niveau B, peut être transféré à sa demande dans la qualité de sous-officier du niveau C, vers une autre fonction, le cas échéant dans une autre filière de métiers. Le jour de son transfert, il doit répondre aux critères d'aptitude physique et aux critères d'aptitude médicale pour l'exercice de sa nouvelle fonction dans sa nouvelle qualité.
+
+Le sous-officier du niveau B qui est transféré dans la qualité de sous-officier du niveau C, conserve le grade et l'ancienneté dans le grade auquel il était nommé. Il suit le sort des autres militaires de sa nouvelle promotion de référence pour les nominations ultérieures.
+
+La promotion de référence du sous-officier transféré visé à l'alinéa 3, est la promotion du candidat sous-officier du niveau C qui, simultanément:
+
+1° a entamé la formation de base comme candidat sous-officier de carrière du niveau C du recrutement normal la même année de formation que celle dans laquelle le sous-officier du niveau B concerné avait entamé sa période de candidature;
+
+2° a effectué une période de candidature normale comme candidat sous-officier du niveau C.]<sup>3</sup>
+
+Le militaire qui répond aux conditions visées [<sup>3</sup> , selon le cas, à l'alinéa 1er ou 2,]<sup>3</sup> est transféré provisoirement vers sa nouvelle fonction et est, le cas échéant, provisoirement inscrit dans sa nouvelle filière de métiers.
+
+Pour pouvoir être transféré définitivement vers une autre fonction, et le cas échéant dans une autre filière de métier, le militaire doit :
+
+1° le cas échéant, avoir suivi avec succès la formation liée à sa nouvelle fonction et fixée dans un règlement arrêté par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup>;
+
+2° [<sup>4</sup> avoir reçu pour son évaluation statutaire de sa nouvelle fonction, la mention "suffisant".]<sup>4</sup>
+
+Le Roi fixe les modalités de ce transfert.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 90, 006; En vigueur : 31-12-2013; voir AR 2013-11-07/52, art. 21, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 28, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2016-08-03/27, art. 4, 010; En vigueur : 01-10-2016&gt;
+
+(4)&lt;L 2017-07-31/24, art. 7, 019; En vigueur : 31-12-2019&gt;
+
+###### Art. 71
+
+[<sup>1</sup> Le militaire qui appartient à la catégorie d'aptitude D peut perdre d'office la qualité de militaire.
+
+La perte de qualité est prononcée par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup>. Toutefois, pour les officiers, la mesure est prononcée par le Roi sur la base de l'avis motivé [<sup>2</sup> de l'autorité qu'Il désigne]<sup>2</sup>.
+
+Lorsque le militaire concerné a introduit un appel auprès de l'instance d'appel visée à l'article 178/2, la perte de qualité est prononcée par le Roi ou [<sup>2</sup> l'autorité qu'Il désigne]<sup>2</sup> sur avis motivé de l'instance d'appel.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 91, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 29, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 72
+
+[<sup>1</sup> Le militaire qui appartient à la catégorie d'aptitude D peut, sur décision [<sup>2</sup> de l'autorité désignée par le Roi]<sup>2</sup> ou de l'instance d'appel visée à l'article 178/2, conserver la qualité de militaire pour une période de :
+
+1° deux ans, si le militaire concerné a accompli moins de huit ans de service actif;
+
+2° trois ans, si le militaire concerné a accompli au moins huit ans de service actif.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 92, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 30, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 72/1
+
+[<sup>1</sup> Le militaire qui, à la fin de la période visée à l'article 72, continue à appartenir à la catégorie d'aptitude D, peut, selon le cas :
+
+1° perdre la qualité de militaire conformément à l'article 71;
+
+2° sur décision [<sup>2</sup> de l'autorité désignée par le Roi]<sup>2</sup> ou de l'instance d'appel visée à l'article 178/2, conserver à nouveau la qualité de militaire pour une période identique à celle visée à l'article 72.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 93, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 30, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 72/2
+
+[<sup>1</sup> Sans préjudice de l'application des articles 72 et 72/1, le militaire qui appartient à la catégorie d'aptitude D et qui est à cinq ans ou moins de la date de sa mise à la retraite peut, sur décision [<sup>2</sup> de l'autorité désignée par le Roi]<sup>2</sup> ou de l'instance d'appel visée à l'article 178/2, conserver la qualité de militaire jusqu'à sa mise à la retraite, pour autant qu'il ait obtenu [<sup>3</sup> la mention "suffisant" lors de ses deux dernières évaluations statutaires et qu'il conserve cette mention lors des évaluations statutaires ultérieures]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 94, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 30, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2017-07-31/24, art. 8, 019; En vigueur : 31-12-2019&gt;
+
+###### Art. 72/3
+
+[<sup>1</sup> Perd de plein droit la qualité de militaire :
+
+1° le militaire qui, à la fin de la période visée à l'article 72/1, 2°, continue à appartenir à la catégorie d'aptitude D;
+
+2° le militaire visé à l'article 72/2 qui obtient la mention "insuffisant" lors d'une [<sup>2</sup> évaluation statutaire]<sup>2</sup> ultérieure.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 95, 006; En vigueur : 30-09-2013&gt;
+
+(2)&lt;L 2017-07-31/24, art. 9, 019; En vigueur : 31-12-2019&gt;
+
+###### Art. 72/4
+
+[<sup>1</sup> Les dispositions de la présente sous-section ne s'appliquent pas aux candidats militaires.
+
+Toutefois, le candidat militaire qui ne possède plus les qualités professionnelles, physiques ou caractérielles requises ou qui ne satisfait plus aux critères d'aptitude médicale pour la poursuite de sa formation de base, passe en catégorie d'aptitude B dans l'attente de la décision de la commission ou de l'autorité compétente.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 96, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 72/5
+
+[<sup>1</sup> En dérogation aux conditions visées à l'article 163/1, le militaire qui ne répond plus aux critères d'aptitude physique ou aux critères d'aptitude médicale nécessaires pour l'exercice d'une fonction déterminée, et qui ne peut être transféré dans une autre fonction, peut bénéficier d'un mois de dispense de service et de la phase d'information de la reconversion professionnelle visée à l'article 165.
+
+Pour pouvoir bénéficier des mesures précitées, le militaire concerné doit :
+
+1° avoir obtenu [<sup>2</sup> ...]<sup>2</sup> la mention "suffisant" lors de ses deux dernières [<sup>2</sup> évaluations statutaires]<sup>2</sup>;
+
+2° en cas d'inaptitude physique, avoir saisi l'instance d'appel visée à l'article 178/2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 97, 006; En vigueur : 30-09-2013&gt;
+
+(2)&lt;L 2017-07-31/24, art. 10, 019; En vigueur : 31-12-2019&gt;
+
+##### Sous-section 4. - De la gestion du personnel.
+
+###### Art. 73
+
+Les appréciations visées aux articles 66 et 68 [<sup>2</sup> ...]<sup>2</sup> sont utilisées par chaque supérieur en vue de la gestion du personnel.
+
+[<sup>1</sup> Ces appréciations doivent être utilisées en vue d'une promotion sociale visée à l'article 114.]<sup>1</sup>
+
+Ces appréciations peuvent être utilisées pour :
+
+1° une affectation;
+
+2° [<sup>1</sup> une promotion;]<sup>1</sup>
+
+[<sup>1</sup> 3° la prise de mesures statutaires visées aux articles 54 à 59.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 98, 006; En vigueur : 30-09-2013&gt;
+
+(2)&lt;L 2017-07-31/24, art. 11, 019; En vigueur : 31-12-2019&gt;
+
+#### Section 9. - Dispositions spéciales.
+
+###### Art. 74
+
+Le commandant militaire du Palais de la Nation est placé hors cadre. Pendant la durée de son service spécial, il peut être commissionné aux divers grades jusques et y compris celui de [<sup>2</sup> lieutenant général]<sup>2</sup>.
+
+Ces commissions sont octroyées parallèlement à l'avancement des officiers qui ont la même ancienneté de sous-lieutenant, sur la proposition des présidents de la Chambre des représentants et du Sénat et moyennant le respect de l'ancienneté minimum pour l'avancement dans un grade déterminé fixée dans la présente loi et des dispositions de la loi du 30 juillet 1938 concernant l'usage des langues à l'armée.
+
+[<sup>1</sup> En raison de ses fonctions spéciales, le commandant militaire du Palais de la Nation n'est pas astreint aux épreuves imposées pour l'avancement.
+
+Toutefois, dans le cas où il serait de nouveau repris dans les cadres organiques des Forces armées, l'officier concerné ne conservera le ou les grades obtenus par voie de commission pendant sa position hors cadre, que s'il a satisfait aux conditions exigées par les lois et instructions applicables en la matière.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 99, 006; En vigueur : 30-09-2013&gt;
+
+(2)&lt;L 2016-11-21/20, art. 57, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 75
+
+[<sup>1</sup> § 1er. Dans des cas exceptionnels, un officier ou un sous-officier peut être commissionné à titre précaire pour exercer l'emploi d'un grade supérieur dans sa catégorie de personnel ou pour l'exercice de fonctions dans les organismes internationaux ou dans les formations militaires interalliées.
+
+Dans des cas exceptionnels, le Roi peut conférer par voie de commission le grade de général de brigade ou d'amiral de flottille pour l'exercice de fonctions dans des représentations belges à l'étranger, dans les organismes internationaux, dans les formations militaires interalliées, et pour l'exercice de fonctions nationales à caractère international.
+
+Le grade de général de brigade ou d'amiral de flottille est hiérarchiquement immédiatement inférieur au grade de général-major ou d'amiral de division.
+
+Pour la commission visée à l'alinéa 1er d'officiers, et à l'alinéa 2 de général de brigade ou d'amiral de flottille, l'arrêté de commission ainsi que le rapport au Roi sont publiés au Moniteur belge.
+
+La commission pour l'exercice d'un emploi du grade supérieur expire à la date à laquelle [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> décide que la mission prend fin.
+
+§ 2. Le Roi peut conférer, par voie de commission, le grade de général ou d'amiral pour l'exercice des emplois suivants :
+
+1° chef de la Maison Militaire du Roi;
+
+2° chef de la défense.
+
+Ce grade peut également être conféré par voie de commission pour l'exercice de fonctions dans les organismes internationaux ou dans les formations militaires interalliées.
+
+Le grade de général ou d'amiral est hiérarchiquement immédiatement supérieur au grade de [<sup>3</sup> lieutenant général]<sup>3</sup> ou de vice-amiral.
+
+§ 3. Le militaire commissionné exerce les fonctions du grade auquel il est commissionné et en porte les insignes.
+
+Toutefois, seul le grade auquel le militaire est nommé est pris en considération pour l'application de la présente loi.
+
+Le militaire qui a été commissionné à un grade conserve ce grade à titre honorifique lorsqu'il est mis à la pension à l'issue de la période au cours de laquelle il a exercé les fonctions ayant nécessité sa commission.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 100, 006; En vigueur : 30-09-2013&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 31, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2016-11-21/20, art. 58, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 76
+
+[<sup>1</sup> Le Roi désigne, par arrêté délibéré en Conseil des ministres, l'officier général qui exerce l'emploi de chef de la défense.]<sup>1</sup>
+
+La durée de ce mandat est de quatre ans.
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, prolonger le mandat par périodes d'un an.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 101, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 77
+
+En sa qualité de commandant en chef des Forces armées, le Roi est revêtu du grade de général [<sup>1</sup> ou d'amiral]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 102, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 77/1
+
+[<sup>1</sup> Selon les modalités et la procédure fixées par le Roi pour chacune des catégories concernées, les militaires et candidats militaires qui participent au service aérien appartiennent à une des catégories du personnel navigant suivantes :
+
+1° le personnel navigant breveté;
+
+2° le personnel navigant breveté de réserve;
+
+3° le personnel navigant élève;
+
+4° le personnel navigant certifié.
+
+Les militaires et candidats militaires sont suspendus ou radiés de ces catégories par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> sur avis conforme des organes d'avis dont le Roi fixe la composition concrète et la procédure à suivre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 103, 006; En vigueur : 30-09-2013&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 31, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 77/2
+
+[<sup>1</sup> Lorsque l'armée est mobilisée, le Roi peut suspendre l'application des articles 39, § 1er, 64/2, § 1er, et § 3, alinéa 2, 75, § 1er, alinéa 5, 84/1, alinéa 1er, 139/1, alinéa 2, et 139/2, alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 104, 006; En vigueur : 30-09-2013&gt;
+
+#### Section 10.
+
+&lt;Abrogé par L 2013-07-31/04, art. 105, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 78
+
+&lt;Abrogé par L 2013-07-31/04, art. 106, 006; En vigueur : 30-09-2013&gt;
+
+### CHAPITRE II. - De la carrière militaire [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 107, 006; En vigueur : 30-09-2013&gt;
+
+#### Section Ire. - Généralités.
+
+###### Art. 79
+
+[<sup>1</sup> § 1er. Les candidats militaires visés à l'article 3, 13°, a), et à l'article 87, alinéa 1er, servent en vertu d'engagements et de rengagements successifs.
+
+§ 2. Le Roi arrête les modalités pour contracter un engagement, visé à l'article 87, alinéa 1er, ou un rengagement en tant que candidat militaire.
+
+§ 3. Le Roi fixe le nombre d'engagements et de rengagements et leur durée, en fonction de la durée de la formation qu'Il fixe par type de formation et par catégorie de personnel. La durée de ces engagements ne peut cependant pas être inférieure à deux ans.
+
+§ 4. L'engagement visé à l'article 87, alinéa 1er, prend cours par la signature de l'acte le jour où le candidat militaire commence sa formation.
+
+Cet acte met fin, de plein droit et à sa date, à tout engagement ou rengagement antérieur.
+
+Le rengagement prend cours à l'expiration de l'engagement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 108, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 79/1
+
+[<sup>1</sup> L'engagement ou le rengagement d'un candidat militaire visé à l'article 3, 13°, a), et à l'article 87, alinéa 1er, ne peut être résilié que dans les cas suivants :
+
+1° par mise à la pension pour cause d'inaptitude physique définitive à tout service militaire;
+
+2° par résiliation de plein droit suite à la perte de la qualité de candidat militaire;
+
+[<sup>2</sup> 3° par résiliation d'office par l'autorité et selon les modalités et la procédure fixées par le Roi, lorsque l'intéressé :
+
+a) a contracté cet engagement sur base d'une fausse déclaration;
+
+b) est condamné, avec ou sans sursis, à un emprisonnement militaire d'un mois au moins du chef d'une infraction réprimée par le Code pénal militaire;
+
+c) s'est rendu coupable de faits graves incompatibles avec son état de militaire ou lorsque sa conduite ou sa manière de servir est manifestement insuffisante;
+
+d) fait l'objet d'une décision d'inaptitude prise à la suite d'un ou plusieurs examens médicaux de sélection, dont le résultat n'était pas disponible avant la date de prise d'effet de l'engagement;
+
+e) [<sup>3</sup> est absent illégalement de longue durée, conformément à l'article 59;]<sup>3</sup>
+
+f) ne peut pas, dans les cas visés aux articles 103 à 104/1, poursuivre sa formation dans la même qualité et dans une promotion contemporaine, dans un autre cycle de formation spécifique pour lequel cette aptitude médicale spécifique, cette capacité professionnelle spécifique ou cette condition physique spécifique n'est pas exigée;
+
+g) doit être retiré de son cycle de formation de base spécifique du fait du refus ou du retrait de l'habilitation de sécurité exigée;
+
+4° par résiliation sur demande par l'autorité et selon les modalités fixées par le Roi.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 109, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;L 2016-11-21/20, art. 59, 012; En vigueur : 02-01-2017&gt;
+
+(3)&lt;L 2025-12-08/07, art. 42, 028; En vigueur : 01-01-2026&gt;
+
+###### Art. 80
+
+[<sup>1</sup> Chaque candidat militaire visé à l'article 3, 13°, a), est, dès son admission, revêtu de plein droit du grade de soldat.
+
+Pour pouvoir être commissionné à d'autres grades, le candidat militaire doit avoir réussi la période de formation précédente ou la partie précédente de la période de formation.
+
+Dans les cas que le Roi détermine, le candidat militaire conserve le grade dans lequel il était nommé ou commissionné au moment de son admission.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 110, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 81
+
+[<sup>1</sup> § 1er. Suivant la catégorie de personnel pour laquelle il est formé, le candidat militaire visé à l'article 3, 13°, a), peut être commissionné à un ou plusieurs des grades suivants et ce dans l'ordre hiérarchique suivant :
+
+1° le candidat officier :
+
+a) caporal ou quartier-maître;
+
+b) sergent ou second maître;
+
+c) adjudant ou premier maître-chef;
+
+d) sous-lieutenant ou enseigne de vaisseau de deuxième classe;
+
+e) capitaine ou lieutenant de vaisseau;
+
+2° le candidat sous-officier :
+
+a) caporal ou quartier-maître;
+
+b) sergent ou second maître;
+
+c) premier sergent-major ou premier maître.
+
+3° le candidat volontaire : premier soldat ou premier matelot.
+
+Ces grades correspondent aux grades des militaires de carrière.
+
+Le Roi règle les modalités de l'octroi de ces commissions, ainsi que de leur retrait dans les cas visés à l'article 81/6.
+
+La commission aux grades visés à l'alinéa 1er du candidat qui est réintégré en application de l'article 107, alinéa 3, et qui n'a pas subi de retard dans son cycle de formation pour une autre raison que la perte de la qualité de candidat en application de l'article 21/1, alinéa 1er, 9°, prend effet à la même date que celle des candidats de sa promotion d'origine qui n'ont pas encouru de retard dans le cycle de formation.
+
+Le candidat qui, en application de l'article 108, alinéa 2, est rattaché à une promotion ultérieure de candidats de la même qualité conserve le grade auquel il était commissionné. Sans préjudice de l'application de l'alinéa 4, il suit toutefois le sort des autres candidats de sa nouvelle promotion pour les commissions ultérieures.
+
+§ 2. Le candidat officier ne peut être commissionné au grade de sous-lieutenant s'il n'a réussi l'examen linguistique sur la connaissance effective de la deuxième langue nationale visé à l'article 3 de la loi du 30 juillet 1938 concernant l'usage des langues à l'armée, et le candidat sous-officier ne peut être commissionné au grade de sergent s'il n'a donné preuve de la connaissance effective de la langue de l'unité dans laquelle il sera appelé à servir, conformément à l'article 8 de la loi du 30 juillet 1938 précitée.
+
+Pour le candidat officier du recrutement latéral, la connaissance effective de la deuxième langue nationale n'est exigée que pour la nomination au grade de major, pour laquelle le candidat officier concerné doit avoir réussi l'examen linguistique visé à l'article 5, § 1er, de la loi du 30 juillet 1938 précitée, ou posséder la connaissance approfondie de la langue au sens de l'article 7 de cette loi. Lorsque le candidat officier concerné doit représenter cet examen conformément à l'article 6 de la même loi, sa période de candidature est prolongée du délai nécessaire.
+
+§ 3. Les candidats militaires de la même promotion qui ont participé aux mêmes examens sont commissionnés à la même date.
+
+Le candidat militaire qui réussit un examen de repêchage ou qui réussit après ajournement, est commissionné avec effet au premier jour du mois qui suit la réussite de l'examen de repêchage ou la réussite après ajournement.
+
+Toutefois, le candidat militaire est commissionné au grade de, selon le cas, capitaine ou sous-lieutenant pour le candidat officier ou de sergent pour le candidat sous-officier, au jour fixé à l'article 82, du dernier mois du trimestre durant lequel l'examen de repêchage a été présenté avec succès ou durant lequel la réussite après ajournement a eu lieu.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 111, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 81/1
+
+[<sup>1</sup> Le candidat militaire visé à l'article 3, 13°, b), peut être commissionné dans un grade supérieur de sa catégorie de personnel ou dans le grade dans lequel il peut être nommé à la fin de sa formation de base selon les modalités que le Roi fixe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 112, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 81/2
+
+[<sup>1</sup> Le candidat militaire visé à l'article 3, 13°, a), peut être nommé au grade le moins élevé, selon le cas, d'officier, de sous-officier ou de volontaire de carrière, le cas échéant avec effet rétroactif, à la date fixée par le Roi.
+
+Toutefois, par dérogation à l'article 64/2, le candidat officier du niveau A du recrutement latéral et spécial et le candidat sous-officier de carrière du niveau B du recrutement spécial peut être nommé :
+
+1° au grade de major, pour le candidat officier du niveau A du recrutement latéral;
+
+2° au grade de lieutenant, pour le candidat officier du niveau A du recrutement spécial;
+
+3° au grade de premier sergent-major, pour le candidat sous-officier du niveau B du recrutement spécial.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 113, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 81/3
+
+[<sup>1</sup> Lorsque l'intéressé n'a pas terminé sa formation de base dans le délai fixé ou lorsqu'il a subi une perte d'ancienneté en application de son statut, la date de sa nomination est fixée en tenant compte du délai supplémentaire qui a été nécessaire pour terminer cette formation, ou de la perte d'ancienneté subie.
+
+Toutefois, cette disposition n'est pas applicable lorsque le retard encouru pendant le cycle de formation de base trouve son origine, selon le cas :
+
+1° dans un accident ou une maladie à la suite d'un fait en rapport avec le service;
+
+2° à la suite d'intempéries qui ont un impact direct sur le déroulement du cycle de formation de base concerné;
+
+3° à la suite de la perte de la qualité de candidat visée à l'article 21/1, alinéa 1er, 9°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 114, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 81/4
+
+[<sup>1</sup> Les articles 81/2 et 81/3 ne s'appliquent pas au candidat militaire qui a reçu l'autorisation de suivre une autre formation de base en application de l'article 106.
+
+L'intéressé suit dans ce cas le sort des candidats militaires qui suivent la même formation de base.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 115, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 81/5
+
+[<sup>1</sup> Les commissions sont octroyées de plein droit à la date déterminée dans la présente loi, sauf :
+
+1° la commission au grade de capitaine et de sous-lieutenant qui est octroyée par le Roi;
+
+2° la commission du candidat sous-officier au grade de sergent qui est octroyée par l'autorité que le Roi désigne;
+
+3° la commission du candidat volontaire au grade de premier soldat qui est octroyée par l'autorité que le Roi désigne.
+
+Si les périodes de candidature ne connaissent pas un déroulement normal, les dates des commissions sont adaptées conformément au régime des commissions fixé dans la présente section.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 116, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 81/6
+
+[<sup>1</sup> La commission est retirée de plein droit du candidat militaire qui :
+
+1° perd la qualité de candidat militaire;
+
+2° est reclassé dans une autre [<sup>2</sup> catégorie de personnel ou dans un autre niveau]<sup>2</sup> conformément à l'article 106;
+
+3° est réintégré dans une autre qualité conformément à l'article 107;
+
+4° à sa demande est réorienté dans une autre qualité conformément à l'article 105, alinéa [<sup>2</sup> 3]<sup>2</sup>.
+
+Le candidat militaire visé à l'alinéa 1er, 2°, 3° et 4°, suit pour ses commissions ultérieures le sort des autres candidats militaires de sa nouvelle promotion.
+
+Le candidat militaire [<sup>2</sup> reclassé dans la même catégorie de personnel et le même niveau]<sup>2</sup> et le candidat militaire rattaché à une promotion ultérieure de candidats militaires de la même qualité conformément à l'article 97/1, § 3, 3°, conservent le grade auquel ils étaient commissionnés. Ils suivent le sort des autres candidats militaires de leur nouvelle promotion pour les commissions ultérieures.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 117, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;L 2022-06-02/07, art. 3, 025; En vigueur : 01-12-2022&gt;
+
+###### Art. 82
+
+[<sup>1</sup> § 1er. Le candidat officier de carrière du niveau A du recrutement normal qui a été recruté selon les dispositions visées à l'article 5, § 1er, 1°, est commissionné au grade de :
+
+1° caporal, le 1er octobre de la première année de formation;
+
+2° sergent, le 1er mars de la première année de formation;
+
+3° adjudant, le 1er septembre de la deuxième année de formation;
+
+4° sous-lieutenant, le 26 septembre de la quatrième année de formation, à condition qu'il soit porteur du diplôme du premier cycle de sa formation académique.
+
+§ 2. Le candidat officier de carrière du niveau A du recrutement spécial qui a été recruté selon les dispositions visées à l'article 5, § 2, alinéa 1er, 1°, est commissionné :
+
+1° s'il est porteur d'un master ou d'un diplôme ou certificat équivalent obtenu après un cycle universitaire ou équivalent d'au moins six années :
+
+a) au grade de sergent, le premier jour du premier mois qui suit le mois d'entrée en service;
+
+b) au grade d'adjudant, le premier jour du quatrième mois qui suit le mois d'entrée en service;
+
+c) au grade de sous-lieutenant, le vingt-sixième jour du sixième mois qui suit le mois d'entrée en service;
+
+2° s'il est porteur d'un master ou d'un diplôme ou certificat équivalent obtenu après un cycle universitaire ou équivalent de cinq années au plus :
+
+a) au grade de caporal à la fin de la phase d'initiation militaire;
+
+b) au grade de sergent, le premier jour du quatrième mois qui suit le mois d'entrée en service;
+
+c) au grade d'adjudant, le premier jour du sixième mois qui suit le mois d'entrée en service;
+
+d) au grade de sous-lieutenant, le vingt-sixième jour du douzième mois qui suit le mois d'entrée en service.
+
+§ 3. [<sup>3</sup> ...]<sup>3</sup>
+
+Le candidat officier de carrière du niveau A qui a été reclassé comme candidat officier de carrière du niveau B est, le jour de son reclassement, commissionné au grade dont il était revêtu en qualité de candidat officier de carrière du niveau A. [<sup>3</sup> Le cas échéant, pour la commission ultérieure, il suit le sort des autres candidats de la promotion à laquelle il appartenait avant son reclassement.]<sup>3</sup>
+
+§ 4. Le candidat officier de carrière du niveau B du recrutement spécial qui a été recruté selon les dispositions visées à l'article 5, § 2, alinéa 1er, 2°, est commissionné au grade de :
+
+1° caporal, à la fin de la phase d'initiation militaire;
+
+2° sergent, le premier jour du quatrième mois qui suit le mois d'entrée en service;
+
+3° adjudant, le premier jour du sixième mois qui suit le mois d'entrée en service;
+
+4° sous-lieutenant, le vingt-sixième jour du douzième mois qui suit le mois d'entrée en service.
+
+§ 5. Le candidat sous-officier de carrière du niveau B du recrutement normal qui a été recruté selon les dispositions visées à l'article 5, § 1er, 2°, est commissionné au grade de :
+
+1° caporal, le vingt-sixième jour du deuxième mois qui suit le mois d'entrée en service;
+
+2° sergent, le vingt-sixième jour du sixième mois qui suit le mois d'entrée en service.
+
+§ 6. Le candidat sous-officier de carrière du niveau B du recrutement spécial qui a été recruté selon les dispositions visées à l'article 5, § 2, alinéa 1er, 3°, est commissionné au grade de :
+
+1° caporal, à la fin de la phase d'initiation militaire;
+
+2° sergent, le vingt-sixième jour du troisième mois qui suit le mois d'entrée en service;
+
+[<sup>2</sup> 3° premier sergent-major, le vingt-sixième jour du quinzième mois qui suit le mois d'entrée en service.]<sup>2</sup>
+
+§ 7. Le candidat sous-officier de carrière du niveau C du recrutement normal qui a été recruté selon les dispositions visées à l'article 5, § 1er, 3°, est commissionné au grade de :
+
+1° caporal, le vingt-sixième jour du troisième mois qui suit le mois d'entrée en service;
+
+2° sergent, le vingt-sixième jour du sixième mois qui suit le mois d'entrée en service.
+
+§ 8. Le candidat volontaire qui a été recruté selon les dispositions visées à l'article 5, § 1er, 4°, est commissionné au grade de premier soldat le premier jour du mois qui suit la fin de la première année de formation, s'il a réussi la phase d'instruction professionnelle spécialisée.
+
+§ 9. Le candidat officier de carrière du niveau A du recrutement latéral qui a été recruté selon les dispositions visées à l'article 5, § 3, est commissionné dans le grade de capitaine à la fin de la phase d'initiation militaire.
+
+§ 10. Sous réserve de l'application de l'article 81, § 2, alinéa 2, le candidat officier ou sous-officier de carrière du recrutement complémentaire est, lorsqu'il entame sa formation, commissionné au même grade que celui dont sont revêtus les candidats de la promotion à laquelle il est rattaché. Pour les commissions ultérieures, il suit le sort des candidats du recrutement normal de sa promotion.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 118, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;L 2016-11-21/20, art. 60, 012; En vigueur : 02-01-2017&gt;
+
+(3)&lt;L 2022-06-02/07, art. 4, 025; En vigueur : 01-12-2022&gt;
+
+###### Art. 83
+
+[<sup>1</sup> Toutefois, les commissions visées à l'article 82 peuvent avoir lieu à un moment ultérieur selon les dispositions visées à l'article 81.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 119, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 83/1
+
+[<sup>1</sup> § 1er. Sont nommés au grade de, selon le cas, sous-lieutenant, premier sergent-major, sergent ou premier soldat [<sup>5</sup> ...]<sup>5</sup> en qualité de militaire de carrière le vingt-sixième jour du dernier mois du trimestre dans lequel la formation de base a été terminée avec succès :
+
+1° les candidats militaires de carrière du recrutement normal et complémentaire;
+
+2° les candidats officiers de carrière du niveau B du recrutement spécial;
+
+[<sup>4</sup> 3° les candidats officiers de carrière du niveau B qui ont été reclassés.]<sup>4</sup>
+
+Ces nominations sont octroyées :
+
+1° par le Roi, pour la nomination au grade de sous-lieutenant;
+
+2° par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup>, pour la nomination au grade de premier sergent-major ou de sergent;
+
+3° par l'autorité que le Roi désigne, pour la nomination au grade de premier soldat.
+
+§ 2. Excepté pour le candidat militaire qui a obtenu une prolongation de sa formation de base pour des raisons professionnelles, dont la rétroactivité est diminuée de la durée de la prolongation, l'effet de la nomination a lieu avec effet rétroactif :
+
+1° pour le candidat officier de carrière du niveau A du recrutement normal et complémentaire [<sup>4</sup> , pour le candidat officier de carrière du niveau B qui a été reclassé]<sup>4</sup> et pour le candidat officier de carrière du niveau B du recrutement spécial, jusqu'au jour de la commission au grade de sous-lieutenant des candidats militaires de la promotion qui n'ont pas encouru un retard, sauf application de l'article 4, alinéa 4, de la loi du 30 juillet 1938 concernant l'usage des langues à l'armée;
+
+2° pour le candidat sous-officier de carrière du niveau C du recrutement normal, jusqu'à un an et demi après la date de commission au grade de sergent;
+
+3° pour le candidat volontaire de carrière, jusqu'au vingt-sixième jour du dernier mois du trimestre dans lequel il a été commissionné au grade de premier soldat.
+
+§ 3. Le candidat officier de carrière du niveau A du recrutement latéral ou spécial et le candidat sous-officier de carrière du niveau B du recrutement spécial sont nommés et admis dans le cadre actif le vingt-sixième jour du dernier mois du trimestre dans lequel la formation de base a été terminée avec succès, selon le cas :
+
+1° par le Roi, au grade de :
+
+a) major, pour le recrutement latéral;
+
+b) lieutenant, pour le recrutement spécial;
+
+2° par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup>, au grade de premier sergent-major.
+
+La nomination des candidats militaires visés à l'alinéa 1er prend effet à la même date que celle des candidats militaires de leur promotion de référence.
+
+[<sup>3</sup> Toutefois, lorsque la date visée à l'alinéa 2 est antérieure à la date d'incorporation des militaires concernés, leur nomination et admission dans le cadre actif prend effet le vingt-sixième jour du dernier mois du trimestre au cours duquel ils ont été incorporés.
+
+Toutefois, les militaires visés à l'alinéa 3, suivent en ce qui concerne leur prochain avancement au grade supérieur, le sort des militaires de leur promotion de référence.]<sup>3</sup>
+
+§ 4. La promotion de référence du candidat officier de carrière du niveau A et du candidat sous-officier de carrière du niveau B du recrutement spécial qui a effectué une durée normale d'études pendant ses études supérieures afin d'obtenir le diplôme pour lequel il est recruté, est la promotion du candidat militaire qui, simultanément :
+
+1° soit :
+
+a) pour le candidat officier de carrière du niveau A du recrutement spécial, a entamé la formation de base dans la faculté des sciences sociales et militaires de l'Ecole royale militaire la même année académique que celle dans laquelle le candidat militaire concerné du recrutement spécial a entamé ses études supérieures relatives au diplôme exigé pour le recrutement spécial;
+
+b) pour le candidat sous-officier de carrière du niveau B du recrutement spécial, a entamé la formation de base de candidat sous-officier de carrière la même année de formation que celle dans laquelle le candidat militaire concerné du recrutement spécial a entamé ses études supérieures relatives au diplôme exigé pour le recrutement spécial;
+
+2° a effectué une période de candidature normale comme candidat militaire.
+
+La promotion de référence du candidat militaire qui n'a pas effectué une durée normale d'études, qui n'a pas effectué une période de candidature normale comme candidat militaire ou qui n'a pas été admis comme candidat immédiatement après ses études supérieures, est calculée sur la base de la promotion de référence mentionnée à l'alinéa 1er, en tenant compte des retards subis.
+
+§ 5. La promotion de référence du candidat officier de carrière du niveau A du recrutement latéral qui a effectué une durée normale d'études pendant ses études supérieures afin d'obtenir le diplôme pour lequel il est recruté, est la promotion du candidat officier qui, simultanément :
+
+1° a entamé la formation de base comme candidat officier de carrière du recrutement normal la même année académique que celle dans laquelle le candidat militaire concerné du recrutement latéral a entamé ses études supérieures relatives au diplôme exigé pour le recrutement latéral;
+
+2° a effectué une période de candidature normale comme candidat militaire.
+
+La promotion de référence du candidat militaire qui n'a pas effectué une durée normale d'études ou qui n'a pas effectué une période de candidature normale comme candidat militaire est calculée sur la base de la promotion de référence mentionnée à l'alinéa 1er, en tenant compte des retards subis.
+
+Toutefois, il n'est pas tenu compte pour la fixation de la promotion de référence d'une expérience professionnelle supérieure à cinq ans dans le domaine exigé lors du recrutement.
+
+L'ancienneté relative des officiers de carrière du niveau A du recrutement latéral est déterminée en fonction de l'expérience professionnelle qu'ils pouvaient justifier au moment du recrutement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 120, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 31, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2016-11-21/20, art. 61, 012; En vigueur : 02-01-2017&gt;
+
+(4)&lt;L 2022-06-02/07, art. 5, 025; En vigueur : 01-12-2022&gt;
+
+(5)&lt;L 2025-12-08/07, art. 43, 028; En vigueur : 08-01-2026&gt;
+
+###### Art. 83/2
+
+[<sup>1</sup> § 1er. Les candidats officiers de carrière du niveau A dont soit la nomination, soit la commission prend effet le même jour, sont classés dans leurs filières de métiers dans l'ordre suivant :
+
+1° les candidats officiers du recrutement normal et complémentaire dans l'ordre suivant :
+
+a) les candidats officiers de la faculté polytechnique de l'Ecole royale militaire;
+
+b) les candidats officiers de la faculté des sciences sociales et militaires de l'Ecole royale militaire;
+
+c) les candidats officiers médecins, dentistes, vétérinaires ou pharmaciens;
+
+d) les candidats officiers [<sup>2</sup> ingénieurs industriels]<sup>2</sup>;
+
+e) les candidats officiers de l'école supérieure de navigation;
+
+2° les candidats officiers du recrutement spécial;
+
+3° les candidats officiers du recrutement latéral.
+
+Les candidats sous-officiers de carrière, dont soit la nomination, soit la commission prend effet le même jour, sont classés dans l'ordre suivant :
+
+1° les candidats sous-officiers du niveau B du recrutement normal;
+
+2° les candidats sous-officiers du niveau C du recrutement normal;
+
+3° les candidats sous-officiers du niveau B du recrutement spécial.
+
+§ 2. Le classement des candidats officiers de carrière et candidats sous-officiers de carrière dont, selon le cas, les nominations ou les commissions prennent effet le même jour et qui n'ont pas participé aux mêmes examens lesquels sont pris en compte pour le classement visé à l'article 93, § 2, est défini par un classement unique. Celui-ci est établi dans chacun des groupes visés au § 1er sur base des divers classements visés à l'article 93, § 2. Les officiers ou sous-officiers qui ont présenté des examens différents, alternent dans ce classement proportionnellement à leur nombre.
+
+Toutefois, le classement ainsi établi ne peut avoir pour effet de classer, selon le cas, un officier ou un sous-officier avant un autre officier ou sous-officier, dont la note d'examen est supérieure à la sienne de plus de dix pour cent du total des points.
+
+§ 3. Le candidat militaire qui suit tout ou partie de sa formation de base dans un établissement militaire étranger ou dans un établissement civil, en Belgique ou à l'étranger, autre que l'établissement dans lequel la formation de base est normalement dispensée, est classé par l'autorité que le Roi désigne, selon le cas, avant, après ou selon les règles d'interpolation qu'elle détermine, parmi les candidats militaires dont la formation de base est reconnue comme équivalente.
+
+La décision concernant la manière de classement visée à l'alinéa 1er est prise avant que l'intéressé entame cette formation de base ou cette partie de la formation de base.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 121, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;L 2025-12-08/07, art. 44, 028; En vigueur : 08-01-2026&gt;
+
+###### Art. 84
+
+[<sup>1</sup> § 1er. Sous réserve des dispositions relatives à la nomination et la commission des candidats militaires conformément aux articles 82 et 83/1, les grades d'officier subalterne, de sous-officier subalterne, de sous-officier d'élite et de volontaire [<sup>2</sup> , ainsi que le grade d'adjudant-chef pour les sous-officiers du niveau B,]<sup>2</sup> sont conférés à l'ancienneté respectivement aux officiers, aux sous-officiers et aux volontaires remplissant les conditions visées, selon le cas, aux articles 64/2, 65 [<sup>2</sup> , 84/1 et 139, alinéa 4]<sup>2</sup>.
+
+Toutefois, le militaire visé à l'alinéa 1er, dont la manière de servir n'est pas jugée satisfaisante ou, le cas échéant, l'officier ou le sous-officier qui n'est pas jugé apte à l'exercice des fonctions du grade supérieur, peut être dépassé à l'avancement. [<sup>4</sup> Cette décision est prise par:
+
+1° le Roi ou par l'autorité désignée par le Roi pour les officiers;
+
+2° l'autorité désignée par le Roi pour les sous-officiers et les volontaires.]<sup>4</sup>
+
+[<sup>2</sup> La manière de servir des militaires et, le cas échéant, leur aptitude à l'exercice des fonctions du grade supérieur, sont appréciées par leurs chefs hiérarchiques selon les règles établies par le Roi et dans la forme qu'Il prescrit.]<sup>2</sup>
+
+Ces avis sont portés à la connaissance de l'intéressé. Aucun avis défavorable ne peut être émis sans que le militaire concerné ait pu faire valoir ses justifications.
+
+Lors de l'appréciation, il est tenu compte :
+
+1° des [<sup>3</sup> évaluations statutaires]<sup>3</sup> visées à l'article 66;
+
+2° le cas échéant, des [<sup>3</sup> évaluations de potentiel visées à l'article 66]<sup>3</sup>;
+
+3° des appréciations relatives aux aptitudes visées à l'article 68.
+
+§ 2. La manière de servir et, le cas échéant, l'aptitude du militaire visé au paragraphe 1er, alinéa 2, est examinée une deuxième fois un an après la date du premier examen ou, moyennant accord du militaire concerné, dans le courant de l'année de service actif qui suit la date du premier examen et une troisième et dernière fois deux ans après la date du premier examen ou, moyennant accord du militaire concerné, dans le courant de la deuxième année de service actif qui suit la date du premier examen.
+
+Le militaire qui n'a pas été promu après ce dernier examen ne participe plus à l'avancement.
+
+En dérogation aux dispositions des alinéas 1er et 2, à la demande du militaire concerné, la manière de servir et, le cas échéant, l'aptitude du militaire peut être réexaminée après que cinq années de service actif se soient écoulées après le dernier examen fixé à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 122, 006;En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;L 2016-11-21/20, art. 62, 012; En vigueur : 02-01-2017&gt;
+
+(3)&lt;L 2017-07-31/24, art. 12, 019; En vigueur : 31-12-2019&gt;
+
+(4)&lt;L 2025-12-08/07, art. 45, 028; En vigueur : 01-01-2026&gt;
+
+###### Art. 84/1
+
+[<sup>1</sup> Sans préjudice de l'application des dispositions relatives à l'ancienneté minimum requise dans le grade pour l'avancement au grade supérieur, un sous-officier du niveau C ne peut être nommé au grade de premier sergent-major que s'il:
+
+1° a suivi avec succès les cours de perfectionnement visés à l'article 112, alinéa 1er, 1° ;
+
+2° a réussi l'épreuve d'accession au grade de premier sergent-major.
+
+Le Roi fixe la nature de cette épreuve ainsi que les conditions qui doivent être remplies pour pouvoir y participer.
+
+Le sous-officier du niveau C qui ne satisfait pas encore aux conditions visées à l'alinéa 1er, est nommé au grade de premier sergent-chef s'il possède l'ancienneté dans le grade de premier sergent fixée par le Roi.
+
+Le sous-officier du niveau C qui satisfait aux conditions visées à l'alinéa 1er et qui possède l'ancienneté dans le grade de premier sergent fixée par le Roi, est nommé au grade de premier sergent-major. Le cas échéant, il n'est pas nommé au grade de premier sergent-chef préalablement à sa nomination au grade de premier sergent-major.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-06-02/06, art. 6, 024; En vigueur : 26-08-2022&gt;
+
+###### Art. 85
+
+&lt;Abrogé par L 2013-07-31/04, art. 124, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 86
+
+&lt;Abrogé par L 2013-07-31/04, art. 125, 006; En vigueur : 30-09-2013&gt;
+
+#### Section 2. [<sup>1</sup> - De la période de candidature]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par L 2013-07-31/04, art. 126, 006; En vigueur : 30-09-2013&gt;
+
+##### Sous-section 1re. [<sup>1</sup> - Généralités]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par L 2013-07-31/04, art. 127, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 87
+
+[<sup>1</sup> L'officier auxiliaire qui est radié comme membre du personnel navigant breveté pour inaptitude médicale au service aérien ou pour incapacité professionnelle au service aérien peut, à sa demande, être admis à suivre une formation en vue de son admission comme candidat officier du niveau B dans la carrière à durée limitée, pour autant qu'il signe un acte par lequel il s'engage à rester en service pendant une période, exprimée en nombre d'années entières, qui correspond à la durée de formation, définie par le Roi, au besoin arrondie vers le haut. Le candidat concerné reçoit un exemplaire de l'acte d'engagement qu'il a souscrit.
+
+L'officier auxiliaire qui a été admis à suivre une formation en vue d'être admis comme candidat officier du niveau B dans la carrière à durée limitée, est commissionné dans le grade auquel il a été nommé comme officier auxiliaire.
+
+Lorsqu'il a terminé avec succès sa formation, il est admis comme officier du niveau B dans la carrière limitée, avec son grade et son ancienneté dans ce grade, diminuée d'un an.
+
+Le candidat officier auxiliaire pilote qui a échoué définitivement ou qui est radié d'une catégorie du personnel navigant et le candidat officier auxiliaire contrôleur de trafic aérien qui a échoué définitivement peut, à sa demande, en fonction des besoins d'encadrement des Forces armées et sur décision de l'autorité que le Roi désigne, obtenir l'autorisation de suivre une nouvelle formation en qualité de candidat sous-officier de carrière du niveau C. L'autorité prend sa décision sur la base :
+
+1° des parties de formation déjà suivies;
+
+2° de l'aptitude médicale du candidat;
+
+3° de l'habilitation de sécurité exigée.
+
+La commission au grade du candidat officier auxiliaire pilote ou du candidat officier auxiliaire contrôleur de trafic aérien qui a obtenu l'autorisation de suivre une nouvelle formation en qualité de candidat sous-officier de carrière du niveau C est retirée de plein droit. Le candidat suit pour ses commissions suivantes le sort des autres candidats de sa nouvelle promotion.
+
+Le candidat sous-officier de carrière du niveau C peut être dispensé de tout ou partie de la période d'instruction s'il a suivi auparavant avec succès une formation équivalente comme candidat officier auxiliaire pilote ou candidat officier auxiliaire contrôleur de trafic aérien.
+
+Sauf disposition contraire, les candidats officiers auxiliaires qui ont obtenu l'autorisation de suivre une nouvelle formation en qualité de sous-officier de carrière du niveau C sont considérés dans cette qualité comme des candidats-militaires visés à l'article 3, 13°, a).]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 128, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+#### Section 2.
+
+&lt;Abrogé par L 2013-07-31/04, art. 129, 006; En vigueur : 30-09-2013&gt;
+
+##### Sous-section Ire.
+
+&lt;Abrogée par L 2013-07-31/04, art. 130, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 88
+
+[<sup>1</sup> La formation de base visée à l'article 3, 39°, dénommée le cycle de formation de base, se compose, selon le cas, d'une ou de plusieurs des périodes de formation suivantes :
+
+1° une période de formation scolaire;
+
+2° une période d'instruction;
+
+3° une période de stage;
+
+4° une période d'évaluation.
+
+Pendant les périodes de stage et d'évaluation le candidat militaire exécute des activités appartenant à l'ensemble des tâches de la fonction pour laquelle il a été formé.
+
+Sur la base des périodes visées à l'alinéa 1er, le Roi fixe la structure des formations de base de chaque candidat militaire, par catégorie de personnel, par type de formation et, le cas échéant, par filières de métiers, suivant les besoins des forces et l'objectif final de cette formation.
+
+Le candidat militaire ne peut entamer une période de formation que s'il a réussi la période de formation précédente.
+
+Toutefois :
+
+1° le candidat militaire qui, suite à un échec pour une période de formation déterminée, attend la décision de la commission de délibération ou d'évaluation visée à l'article 101 ou de l'instance d'appel visée à l'article 178/2, participe provisoirement à la période de formation suivante;
+
+2° des parties de la période d'instruction peuvent interrompre la période de formation scolaire, la période de stage et la période d'évaluation.
+
+Si l'organisation des différentes parties de la formation de base l'exige, le candidat militaire peut être placé en stage d'attente pendant la formation avant d'entamer la partie suivante du cycle de formation de base.
+
+Pendant le stage d'attente, le candidat militaire exerce des activités qui s'appuient sur sa fonction future ou une fonction qui s'en approche le plus possible, afin de l'intégrer dans son milieu de travail futur et de l'initier à sa fonction future.
+
+Toutefois, s'il n'a encore reçu aucune instruction ou si les circonstances ne permettent pas l'application de l'alinéa précédent, il est placé dans une période d'attente et exerce d'autres activités qui se rapportent à sa fonction future ou à une fonction qui s'en approche le plus possible, ou suit une autre formation de base.
+
+La durée du cycle de formation de base peut être prolongée par l'autorité que le Roi désigne en fonction d'un stage d'attente ou d'une période d'attente imposé. Les commissions et la nomination prennent toutefois effet aux dates prévues pour les candidats militaires qui n'ont pas encouru de retard dans le cycle de formation de base.
+
+Pendant un stage d'attente ou une période d'attente, les qualités professionnelles et caractérielles du candidat ne sont pas appréciées.
+
+L'autorité désignée par le Roi détermine les règles complémentaires qui sont applicables au candidat militaire pendant le stage ou la période d'attente.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 131, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 89
+
+[<sup>1</sup> Le candidat militaire peut être astreint à recevoir tout ou partie de sa formation de base dans un établissement militaire étranger ou multinational, ou dans un établissement civil en Belgique ou à l'étranger.
+
+Le Roi détermine l'autorité qui se prononce sur l'équivalence des formations visées à l'alinéa 1er et qui fixe dans quelle mesure les différentes qualités des candidats militaires sont appréciées.
+
+Si une partie du cycle de formation de base est suivie dans un établissement visé à l'alinéa 1er, il est tenu compte, pour cette partie, du régime de cet établissement quant à l'octroi d'une dispense ou d'un ajournement, l'appréciation professionnelle, l'organisation et le fonctionnement de la commission de délibération et quant aux mesures à prendre par cette commission. L'appréciation des qualités caractérielles et physiques peut être limitée à certaines périodes de la formation de base.]<sup>1</sup>
+
+[<sup>2</sup> Toutefois, à la fin de chaque année de formation, l'appréciation professionnelle du candidat visée à l'alinéa 3, doit être présentée devant la commission de délibération compétente, s'il est satisfait aux conditions suivantes :
+
+1° le candidat suit une période de formation scolaire pour laquelle les programmes de bachelier, de master et de master complémentaire sont exprimés en crédits;
+
+2° le candidat n'a pas obtenu le nombre de crédits prévus dans son trajet de formation, le cas échéant, y compris les crédits de l'année de formation précédente encore à obtenir.
+
+La commission de délibération décide que le candidat visé à l'alinéa 4, selon le cas :
+
+1° peut continuer sa formation dans la qualité de candidat, selon les règles de l'établissement d'enseignement où il suit sa formation;
+
+2° peut exceptionnellement continuer sa formation dans la qualité de candidat, selon les règles de l'établissement d'enseignement où il suit sa formation et est rattaché à la promotion suivante;
+
+3° ne peut pas continuer sa formation dans la qualité de candidat et a comme candidat échoué définitivement à la suite d'une appréciation insuffisante des qualités professionnelles.
+
+Le candidat visé à l'alinéa 5, 1° et 2°, qui refuse de poursuivre sa formation est considéré comme candidat en échec définitif suite à une appréciation insuffisante des qualités professionnelles.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 132, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;L 2017-09-28/07, art. 7, 013; En vigueur : 15-08-2017&gt;
+
+###### Art. 90
+
+&lt;Abrogé par L 2013-07-31/04, art. 133, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 91
+
+[<sup>1</sup> Pour l'application de la présente section, le candidat militaire est "en service" lorsqu'il est en service actif ou en non-activité.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 134, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 92
+
+[<sup>1</sup> Aux conditions et selon la procédure que le Roi fixe, le candidat militaire peut être dispensé par l'autorité qu'Il désigne, de parties de formation de base ou de cours s'il a suivi auparavant, avec succès, ces parties de formation de base, ces cours ou des parties de formation de base ou des cours équivalents.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 135, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 92 DROIT FUTUR.
+
+[<sup>1</sup> Aux conditions et selon la procédure que le Roi fixe, le candidat militaire peut être dispensé par l'autorité qu'Il désigne, de parties de formation de base ou de cours [<sup>2</sup> , soit]<sup>2</sup> s'il a suivi auparavant, avec succès, ces parties de formation de base, ces cours ou des parties de formation de base ou des cours équivalents [<sup>2</sup> , soit sur la base de l'expérience acquise, le cas échéant, confirmée par une épreuve de compétence]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 135, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;L 2026-04-22/06, art. 8, 029; En vigueur : 01-07-2027&gt;
+
+###### Art. 92/1
+
+[<sup>1</sup> Le candidat militaire qui obtient, conformément à l'article 92, une dispense d'une ou plusieurs années de formation académiques entières en vue de l'obtention d'un master ou d'un bachelier est rattaché à une promotion antérieure suivant des modalités définies par l'autorité visée à l'article 92.
+
+Le candidat militaire visé à l'alinéa 1er suit, à partir de son rattachement à une promotion antérieure, le sort des autres candidats militaires de sa nouvelle promotion. Toutefois, le cas échéant, il ne peut être commissionné au grade de sous-lieutenant que s'il a réussi l'examen sur la connaissance effective de la deuxième langue nationale en vertu de l'article 4 de la loi du 30 juillet 1938 concernant l'usage des langues à l'armée.
+
+Toutefois, lorsque la nomination du candidat militaire prend effet à une date antérieure à la date d'incorporation du militaire concerné, sa nomination et admission dans le cadre actif prend effet le vingt-sixième jour du dernier mois du trimestre au cours duquel il a été incorporé.
+
+Toutefois, le candidat militaire visé à l'alinéa 3, suit en ce qui concerne son prochain avancement au grade supérieur, le sort des militaires de sa nouvelle promotion.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-06-02/07, art. 6, 025; En vigueur : 01-12-2022&gt;
+
+###### Art. 93
+
+[<sup>1</sup> § 1er. Le classement des candidats militaires est utilisé :
+
+1° [<sup>5</sup> le cas échéant, pour l'orientation vers:
+
+a) une filière de métier pour les candidats officiers et les candidats sous-officiers;
+
+b) la fonction de base envisagée pour les candidats volontaires;]<sup>5</sup>
+
+2° [<sup>4</sup> le cas échéant]<sup>4</sup>, pour la désignation d'une unité :
+
+a) à la fin du cycle de formation de base, pour les candidats officiers de carrière du recrutement normal et du recrutement complémentaire;
+
+b) à la fin de la période d'instruction ou d'une partie de cette période pour les candidats officiers de carrière du recrutement spécial;
+
+c) à la fin de la période d'instruction pour les candidats officiers de carrière du niveau B;
+
+d) à la fin de la période d'instruction ou d'une partie de cette période pour les candidats sous-officiers;
+
+[<sup>5</sup> e) à la fin de la période d'instruction ou d'une partie de cette période pour les candidats volontaires;]<sup>5</sup>
+
+3° pour la fixation de l'ancienneté relative dans le grade.
+
+§ 2. Le classement des candidats militaires est établi sur la base de tous les résultats obtenus pendant l'ensemble ou la partie déjà suivie du cycle de formation de base lors de l'appréciation :
+
+1° des qualités professionnelles;
+
+2° des qualités caractérielles;
+
+3° des qualités physiques.
+
+[<sup>3</sup> Le Roi peut fixer des dispositions spécifiques pour le classement des candidats militaires du recrutement complémentaire.]<sup>3</sup>
+
+§ 3. Le coefficient d'importance des qualités visées au § 2, en vue du classement est fixé dans un règlement arrêté par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> par cycle de formation de base et, le cas échéant, par période de formation ou partie de période de formation.
+
+§ 4. Lorsque le candidat militaire a subi un examen de repêchage, seuls les résultats obtenus lors du premier examen sont pris en considération pour le classement.
+
+§ 5. Lorsqu'un candidat militaire est dispensé d'une partie de la formation de base, l'autorité compétente pour octroyer la dispense décide, dans la mesure où la formation de base suivie antérieurement avec succès et la cotation étaient identiques ou non :
+
+1° de reprendre le résultat antérieur, le cas échéant, avec une conversion en fonction du total des points de la cotation dans la formation actuelle du candidat militaire;
+
+2° de ne pas utiliser le résultat antérieur et de calculer les totaux de points du candidat militaire sur la base des résultats obtenus dans les parties restantes de la formation ou de la période de formation.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 136, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 31, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2016-11-21/20, art. 64, 012; En vigueur : 02-01-2017&gt;
+
+(4)&lt;L 2022-06-02/07, art. 7, 025; En vigueur : 01-12-2022&gt;
+
+(5)&lt;L 2025-12-08/07, art. 46, 028; En vigueur : 01-01-2026&gt;
+
+###### Art. 93 DROIT FUTUR.
+
+[<sup>1</sup> § 1er. Le classement des candidats militaires est utilisé :
+
+1° [<sup>5</sup> le cas échéant, pour l'orientation vers:
+
+a) une filière de métier pour les candidats officiers et les candidats sous-officiers;
+
+b) la fonction de base envisagée pour les candidats volontaires;]<sup>5</sup>
+
+2° [<sup>4</sup> le cas échéant]<sup>4</sup>, pour la désignation d'une unité :
+
+a) à la fin du cycle de formation de base, pour les candidats officiers de carrière du recrutement normal et du recrutement complémentaire;
+
+b) à la fin de la période d'instruction ou d'une partie de cette période pour les candidats officiers de carrière du recrutement spécial;
+
+c) à la fin de la période d'instruction pour les candidats officiers de carrière du niveau B;
+
+d) à la fin de la période d'instruction ou d'une partie de cette période pour les candidats sous-officiers;
+
+[<sup>5</sup> e) à la fin de la période d'instruction ou d'une partie de cette période pour les candidats volontaires;]<sup>5</sup>
+
+3° pour la fixation de l'ancienneté relative dans le grade.
+
+§ 2. Le classement des candidats militaires est établi sur la base de tous les résultats obtenus pendant l'ensemble ou la partie déjà suivie du cycle de formation de base lors de l'appréciation :
+
+1° des qualités professionnelles;
+
+2° des qualités caractérielles;
+
+3° des qualités physiques.
+
+[<sup>3</sup> Le Roi peut fixer des dispositions spécifiques pour le classement des candidats militaires du recrutement complémentaire.]<sup>3</sup>
+
+§ 3. Le coefficient d'importance des qualités visées au § 2, en vue du classement est fixé dans un règlement arrêté par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> par cycle de formation de base et, le cas échéant, par période de formation ou partie de période de formation.
+
+§ 4. Lorsque le candidat militaire a subi un examen de repêchage, seuls les résultats obtenus lors du premier examen sont pris en considération pour le classement.
+
+§ 5. Lorsqu'un candidat militaire est dispensé d'une partie de la formation de base, l'autorité compétente pour octroyer la dispense décide, [<sup>6</sup> selon le cas]<sup>6</sup> :
+
+1° de reprendre le résultat antérieur, le cas échéant, avec une conversion en fonction du total des points de la cotation dans la formation actuelle du candidat militaire;
+
+2° [<sup>6</sup> ...]<sup>6</sup> de calculer les totaux de points du candidat militaire sur la base des résultats obtenus dans les parties restantes de la formation ou de la période de formation.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 136, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 31, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2016-11-21/20, art. 64, 012; En vigueur : 02-01-2017&gt;
+
+(4)&lt;L 2022-06-02/07, art. 7, 025; En vigueur : 01-12-2022&gt;
+
+(5)&lt;L 2025-12-08/07, art. 46, 028; En vigueur : 01-01-2026&gt;
+
+(6)&lt;L 2026-04-22/06, art. 9, 029; En vigueur : 01-07-2027&gt;
+
+###### Art. 94
+
+[<sup>1</sup> § 1er. Au candidat militaire s'applique le régime des congés de circonstances applicable aux militaires de carrière en dessous du rang d'officier.
+
+Pendant les périodes de formation scolaire et d'instruction, le candidat militaire bénéficie des congés inscrits au programme de formation.
+
+Toutefois, sans préjudice des dispositions relatives à l'ajournement, le candidat militaire suit pendant la période de stage ou d'évaluation, ainsi que pendant la période ou le stage d'attente, le régime de congés et de dispenses de service de la catégorie de personnel des militaires de carrière pour laquelle il est candidat.
+
+§ 2. En dehors des heures normales d'études inscrites au programme de formation, des mesures supplémentaires d'assistance pédagogique peuvent être imposées lorsque les résultats d'études du candidat militaire sont insuffisants.
+
+Les règles concernant ces mesures d'assistance pédagogique, qui n'ont pas le caractère d'une punition disciplinaire, sont fixées dans un règlement approuvé par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 137, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 31, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 95
+
+[<sup>1</sup> Pour autant que ces dispositions ne soient pas incompatibles avec les dispositions de la présente section et pour autant que les dispositions réglementaires ne soient pas incompatibles avec les dispositions réglementaires prises en exécution de la présente section, toutes les dispositions législatives et réglementaires relatives au statut des officiers de carrière, des sous-officiers de carrière ou des volontaires de carrière sont applicables aux candidats militaires, selon la catégorie de personnel pour laquelle ils sont formés.
+
+Les dispositions législatives et réglementaires applicables aux militaires de carrière en matière [<sup>3</sup> de régime volontaire de travail de la semaine de quatre jours, de départ anticipé à mi-temps,]<sup>3</sup> de retrait temporaire d'emploi pour convenances personnelles, [<sup>2</sup> de retrait temporaire d'emploi par interruption de carrière,]<sup>2</sup> de protection parentale [<sup>3</sup> , à l'exception du congé de paternité,]<sup>3</sup> et de retrait temporaire d'emploi pour raisons familiales ne sont pas applicables aux candidats militaires.
+
+Les dispositions législatives et réglementaires applicables aux militaires de carrière en matière de détention préventive, de suspension par mesure d'ordre [<sup>3</sup> , de retenue sur le traitement]<sup>3</sup> et de retrait temporaire d'emploi par mesure disciplinaire s'appliquent aux candidats militaires.
+
+Les dispositions des lois coordonnées sur les pensions militaires s'appliquent aux candidats militaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 138, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;L 2022-06-02/07, art. 8, 025; En vigueur : 01-12-2022&gt;
+
+(3)&lt;L 2025-12-08/07, art. 47, 028; En vigueur : 08-01-2026&gt;
+
+##### Sous-section 2. - De l'appréciation.
+
+###### Art. 96
+
+[<sup>1</sup> § 1er. En fonction des formations de base visées à l'article 88, alinéa 3, le Roi fixe la nature des cours, les périodes de stage ou d'évaluation à suivre, les éventuels rapports de stage à soumettre et les critères de réussite à remplir pour réussir la formation.
+
+§ 2. Pendant toute la formation de base, le candidat doit :
+
+1° posséder les qualités professionnelles et caractérielles requises, ainsi que les qualités physiques requises sur le plan de la condition physique;
+
+2° posséder l'aptitude médicale requise;
+
+3° justifier des qualités morales visées à l'article 11.
+
+§ 3. Au cas où des moments d'appréciation sont espacés de moins de trois mois, seule la dernière appréciation est réalisée pour la période considérée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 139, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 97
+
+[<sup>1</sup> § 1er. Pendant une période d'instruction ou de formation scolaire, l'appréciation des qualités professionnelles est fondée sur les résultats obtenus pour les éléments de cette période de formation.
+
+Pendant une période de stage ou d'évaluation, l'appréciation des qualités professionnelles consiste à vérifier dans quelle mesure le candidat militaire est capable d'exercer de façon autonome les tâches qui lui seraient confiées, selon le cas, comme officier, sous-officier ou volontaire. Cette appréciation est exprimée par une des mentions suivantes : "insuffisant", "suffisant" ou "bien".
+
+§ 2. Les qualités professionnelles de tout candidat militaire sont appréciées, le cas échéant, au moins :
+
+1° pendant la formation scolaire, à la fin de chaque année de formation et à la fin de la formation scolaire;
+
+2° pendant la période d'instruction, une fois par année de formation et à la fin de la période d'instruction;
+
+3° pendant la période de stage, une fois par année de formation et à la fin de la période de stage;
+
+4° pendant la période d'évaluation, une fois par année de formation et à la fin de la période d'évaluation.
+
+Le Roi peut fixer des moments d'appréciation professionnelle supplémentaires, en fonction du cycle de formation de base spécifique du candidat militaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 140, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 97/1
+
+[<sup>1</sup> § 1er. Pendant une période d'instruction ou pendant une période de formation scolaire, le candidat militaire possède les qualités professionnelles requises s'il satisfait simultanément, lors de chaque appréciation visée à l'article 97, § 2, aux critères de réussite suivants :
+
+1° ne pas s'être abstenu sans raison valable de participer à tous les examens;
+
+2° avoir obtenu au moins la note minimum globale pour réussir;
+
+3° avoir obtenu au moins la note minimum pour réussir dans chaque élément exclusif.
+
+§ 2. Chaque appréciation portée sur un candidat militaire pendant une période d'instruction ou de formation scolaire visée à l'article 97, § 2, pour laquelle il n'a pas satisfait aux critères de réussite, ou pendant laquelle il n'a pas participé à un examen ou une épreuve sans raison valable, est soumise à la commission de délibération compétente.
+
+Toutefois, le candidat officier qui n'a réussi, à aucun des deux essais, l'examen sur la connaissance effective de la seconde langue nationale, prévu à l'article 3 de la loi du 30 juillet 1938 concernant l'usage des langues à l'armée, continue sa formation avec sa promotion initiale.
+
+§ 3. En ce qui concerne l'appréciation des qualités professionnelles, la commission de délibération décide que le candidat militaire, selon le cas et sous réserve de l'application des dispositions de l'article 89, alinéa 3 :
+
+1° possède les qualités professionnelles requises et peut, le cas échéant, continuer la formation;
+
+2° peut présenter un examen de repêchage, réintroduire et représenter son mémoire de fin d'études, ou réintroduire ou représenter son mémoire de fin d'études;
+
+3° peut exceptionnellement recommencer la formation et peut être rattaché à la promotion suivante;
+
+[<sup>2</sup> 3° /1 peut exceptionnellement, représenter un deuxième examen de repêchage pour lequel il dispose de deux essais, dans un délai imposé par la commission et durant cette période, il peut poursuivre sa formation jusqu'à la prise d'une nouvelle décision par la commission, pour autant que :
+
+a) cet examen de repêchage soit relatif à l'appréciation des qualités professionnelles d'une partie de la formation académique de la période de formation scolaire pour laquelle les programmes sont fixés en exécution de la loi du 18 mars 1838 organique de l'Ecole royale militaire;
+
+b) la réussite de cette partie de la formation académique ne soit pas considérée par la commission comme une condition nécessaire pour la poursuite de la formation académique de l'année de formation suivante.]<sup>2</sup>
+
+4° ne possède plus les qualités professionnelles requises et a échoué définitivement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 141, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;L 2017-09-28/07, art. 8, 013; En vigueur : 15-08-2017&gt;
+
+###### Art. 97/2
+
+[<sup>1</sup> § 1er. Pendant une période de stage ou d'évaluation, le candidat militaire possède les qualités professionnelles requises s'il obtient au moins la mention "suffisant" lors de l'appréciation annuelle et lors de l'appréciation à la fin de la période de stage et d'évaluation.
+
+§ 2. Chaque appréciation visée au paragraphe 1er pour laquelle le candidat militaire n'a pas obtenu au moins la mention "suffisant" est soumise à la commission d'évaluation compétente.
+
+La commission d'évaluation décide que le candidat militaire soit :
+
+1° possède les qualités professionnelles requises en lui attribuant pour l'appréciation concernée la mention "suffisant" et peut, le cas échéant, continuer la formation;
+
+2° ne possède plus les qualités professionnelles requises et a échoué définitivement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 142, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 98
+
+[<sup>1</sup> § 1er. L'appréciation des qualités caractérielles est l'appréciation de l'attitude du candidat militaire comme militaire selon certaines compétences, sur la base de comportements observables. La liste des compétences et la liste des indicateurs de comportement sont fixées par le Roi.
+
+La pondération et le caractère exclusif ou non des compétences et les notes à obtenir pour réussir sont fixés par le Roi en fonction de la catégorie de personnel pour laquelle le candidat militaire est formé et, le cas échéant, de son cycle de formation de base spécifique, ainsi que du moment de l'appréciation.
+
+§ 2. Les qualités caractérielles du candidat militaire sont appréciées, le cas échéant, au moins :
+
+1° à la fin de la période de formation scolaire ou d'instruction et une fois par année de formation;
+
+2° à la fin de la période de stage;
+
+3° à la fin de la période d'évaluation.
+
+Le Roi peut fixer des moments d'appréciation caractérielle supplémentaires, en fonction du cycle de formation de base spécifique du candidat militaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 143, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 98/1
+
+[<sup>1</sup> § 1er. Pour posséder les qualités caractérielles requises, le candidat militaire doit, lors de chaque appréciation visée à l'article 98, § 2, satisfaire aux critères de réussite suivants :
+
+1° avoir obtenu au moins la note minimum globale pour réussir;
+
+2° avoir obtenu la mention exigée pour chaque compétence.
+
+§ 2. Chaque appréciation visée au paragraphe 1er pour laquelle le candidat militaire n'a pas satisfait aux critères de réussite est soumise, selon le cas :
+
+1° à une commission de délibération, s'il s'agit d'une appréciation établie pendant une période de formation scolaire ou une période d'instruction;
+
+2° à une commission d'évaluation s'il s'agit d'une appréciation établie pendant une période de stage ou d'évaluation.
+
+Si la commission de délibération ou d'évaluation confirme l'appréciation défavorable, le candidat militaire est considéré comme ayant définitivement échoué.
+
+Dans le cas contraire, le candidat militaire est censé avoir les qualités caractérielles requises.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 144, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 99
+
+[<sup>1</sup> § 1er. L'appréciation des qualités physiques est fondée sur les résultats obtenus lors d'épreuves de condition physique.
+
+Les épreuves de condition physique comprennent les épreuves de base de condition physique et, pour certains cycles de formation de base spécifiques, des épreuves supplémentaires de condition physique.
+
+§ 2. Les qualités physiques sont appréciées une fois par année de formation.
+
+Afin de réussir, le candidat militaire dispose de deux essais.
+
+Lors de la première année de formation, les épreuves de condition physique peuvent être présentées pour la première fois, au plus tôt le premier jour du sixième mois suivant le mois de l'incorporation.
+
+§ 3. Le Roi fixe :
+
+1° la nature et le caractère exclusif ou non des épreuves;
+
+2° la note minimum globale à obtenir pour réussir;
+
+3° des moments d'appréciation supplémentaires, en fonction du cycle de formation de base spécifique du candidat militaire..]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 145, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 100
+
+[<sup>1</sup> § 1er. Pour posséder les qualités physiques requises, le candidat militaire doit, lors de chaque appréciation visée à l'article 99, satisfaire aux critères de réussite suivants :
+
+1° avoir obtenu au moins la note minimum globale pour réussir;
+
+2° avoir obtenu au moins la note minimum pour réussir pour chaque épreuve exclusive.
+
+§ 2. Chaque appréciation visée au paragraphe 1er pour laquelle le candidat militaire n'a pas satisfait aux critères de réussite est soumise, selon le cas :
+
+1° à une commission de délibération, s'il s'agit d'une appréciation établie pendant une période de formation scolaire ou une période d'instruction;
+
+2° à une commission d'évaluation s'il s'agit d'une appréciation établie pendant une période de stage ou d'évaluation.
+
+Cette commission peut :
+
+1° soit décider d'assimiler le candidat militaire à ceux qui ont réussi, auquel cas il est censé posséder les qualités physiques requises;
+
+2° soit décider que le candidat militaire a définitivement échoué parce qu'il ne possède pas les qualités physiques requises;
+
+3° soit décider d'accorder un ajournement au candidat militaire qui le demande pour représenter les épreuves de base de condition physique, dans les cas que le Roi fixe;
+
+4° soit décider d'accorder une prolongation de la période de formation de sorte qu'il puisse présenter les dernières épreuves de condition physique à une date ultérieure fixée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 146, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 101
+
+[<sup>1</sup> Une commission de délibération ou d'évaluation se prononce sur le candidat militaire qui n'a pas satisfait aux critères de réussite lors :
+
+1° d'une appréciation des qualités professionnelles visées aux articles 97, 97/1 et 97/2;
+
+2° d'une appréciation des qualités caractérielles visée aux articles 98 et 98/1;
+
+3° d'une appréciation des qualités physiques visée aux articles 99 et 100.
+
+Outre le président, la commission de délibération ou d'évaluation se compose au minimum de [<sup>3</sup> deux]<sup>3</sup> membres, et est éventuellement assistée par des spécialistes et un secrétaire.
+
+Le Roi fixe les modalités relatives à la composition concrète et au fonctionnement de la commission de délibération ou d'évaluation.
+
+[<sup>2</sup> La commission compétente donne un avis motivé relatif au reclassement du candidat militaire ayant définitivement échoué visé aux articles 106 et 106/1, à l'autorité compétente désignée par le Roi qui prend la décision.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 147, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;L 2022-11-24/07, art. 3, 026; En vigueur : 01-04-2023&gt;
+
+(3)&lt;L 2025-12-08/07, art. 48, 028; En vigueur : 08-01-2026&gt;
+
+###### Art. 101/1
+
+[<sup>1</sup> Le candidat militaire ou l'autorité désignée par le Roi peut interjeter un appel motivé auprès de l'instance d'appel, selon le cas, contre une décision de la commission de délibération ou de la commission d'évaluation.
+
+L'instance d'appel peut confirmer la décision de la commission de délibération ou d'évaluation, ou prendre une nouvelle décision.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 148, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 101/2
+
+[<sup>1</sup> Possède les qualités physiques requises sur le plan médical, le candidat militaire qui satisfait aux critères [<sup>2</sup> fixés par le Roi]<sup>2</sup>, qui correspondent à son cycle de formation de base spécifique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 149, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;L 2016-11-21/20, art. 65, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 101/3
+
+[<sup>1</sup> Possède les qualités morales visées à l'article 96, § 2, 3°, le candidat militaire qui satisfait aux critères de l'article 11 de la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 150, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 101/4
+
+[<sup>1</sup> Il est définitivement mis un terme à la formation en qualité de candidat militaire dans les cas suivants :
+
+1° par l'admission du candidat militaire dans la catégorie du personnel de carrière pour laquelle il a été formé;
+
+2° par la perte de la qualité de candidat militaire;
+
+3° par résiliation de plein droit ou d'office de l'engagement ou du rengagement du candidat militaire visé aux articles 3, 13°, a), et 87, alinéa 1er;
+
+4° par retrait définitif de l'emploi du candidat militaire visé à l'article 3, 13°, b).
+
+Afin de permettre au candidat militaire de terminer sa formation de base avec succès, la période de candidature peut exceptionnellement être prolongée aux conditions et dans les cas que le Roi fixe.
+
+Les dispositions de l'alinéa 1er, 2°, 3° et 4°, entraînent de plein droit la perte du grade dans lequel le candidat militaire était commissionné.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 151, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+##### Sous-section 3. - Mesures particulières.
+
+###### Art. 102
+
+[<sup>1</sup> Aux conditions, pour la durée, et selon la procédure que le Roi fixe, le candidat militaire qui, à la suite d'une suspension par mesure d'ordre, d'un écartement préventif, d'une détention préventive ou d'un retrait temporaire d'emploi par mesure disciplinaire ou pour des raisons de santé, à la suite d'un congé pour soins palliatifs ou d'un congé pour soins à un parent gravement malade, à la suite d'une grossesse, ou à la suite de la perte de la qualité de candidat en application de l'article 21/1, alinéa 1er, 9°, se trouve ou se trouvait dans l'impossibilité de se préparer ou de se présenter à certains examens ou épreuves ou pour suivre ou parfaire certaines parties de la formation de base peut obtenir de l'autorité désignée par le Roi un ajournement pour présenter certains examens ou épreuves ou pour suivre ou parfaire certaines parties de la formation de base.
+
+Le candidat militaire qui, pour des raisons graves ou exceptionnelles, se trouve ou se trouvait dans l'impossibilité de se préparer ou de se présenter à certains examens ou épreuves, peut obtenir l'autorisation de les présenter à une date ultérieure fixée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 152, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 103
+
+[<sup>1</sup> Le candidat officier de carrière ou le candidat sous-officier de carrière visé à l'article 3, 13°, a), qui n'est pas autorisé à poursuivre sa formation de base comme candidat membre ou comme membre du personnel navigant aérien pour des raisons d'inaptitude médicale au service aérien ou d'incapacité professionnelle au service aérien peut à sa demande et aux conditions que le Roi fixe, obtenir de l'autorité qu'Il désigne, l'autorisation de poursuivre sa formation de base dans la même qualité et dans une promotion contemporaine, dans un autre cycle de formation de base pour lequel l'aptitude médicale au service aérien ou la capacité professionnelle au service aérien n'est pas exigée.
+
+Le candidat militaire de carrière de la marine visé à l'article 3, 13°, a), qui n'est pas autorisé à poursuivre sa formation de base pour des raisons d'inaptitude médicale au service en mer peut, à sa demande et aux conditions que le Roi fixe, obtenir de l'autorité qu'Il désigne, l'autorisation de poursuivre sa formation de base dans la même qualité et dans une promotion contemporaine, dans un autre cycle de formation de base pour lequel l'aptitude médicale au service en mer n'est pas exigée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 153, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 104
+
+[<sup>1</sup> Le candidat militaire de carrière qui, pour des raisons d'inaptitude médicale, n'est pas en état de poursuivre son cycle de formation de base spécifique peut, à sa demande et aux conditions que le Roi fixe, obtenir de l'autorité qu'Il désigne l'autorisation de poursuivre sa formation de base dans la même qualité et dans une promotion contemporaine, dans un autre cycle de formation de base pour lequel cette aptitude médicale n'est pas exigée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 154, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 104/1
+
+[<sup>1</sup> Le candidat militaire de carrière qui ne possède plus les qualités physiques requises et qui n'est pas en état de poursuivre son cycle de formation de base spécifique peut, à sa demande et aux conditions que le Roi fixe, obtenir de l'autorité qu'Il désigne l'autorisation de poursuivre sa formation de base dans la même qualité et dans une promotion contemporaine, dans un autre cycle de formation de base pour lequel ces qualités physiques ne sont pas exigées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 155, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 105
+
+[<sup>1</sup> Aux conditions et selon la procédure que le Roi fixe, le candidat militaire peut être orienté ou réorienté par l'autorité qu'Il désigne vers un autre cycle de formation de base spécifique dans la même catégorie de personnel, dans la même qualité et dans une promotion contemporaine.
+
+[<sup>2</sup> Toutefois lorsqu'aucun cycle de formation spécifique n'est accessible dans une promotion contemporaine, une réorientation à la suite d'une modification structurelle dans les besoins en personnel peut exceptionnellement avoir lieu dans une autre promotion selon la procédure et les modalités fixées par le Roi.]<sup>2</sup>
+
+Aux conditions et selon la procédure que le Roi fixe, le candidat militaire peut, à sa demande, être réorienté par l'autorité qu'Il désigne vers un autre cycle de formation de base spécifique dans la même ou dans une autre catégorie de personnel, dans la même ou dans une autre qualité.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 156, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;L 2016-11-21/20, art. 66, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 106
+
+[<sup>1</sup> En fonction des besoins d'encadrement des Forces armées, peut être reclassé à sa demande le candidat militaire visé à l'article 3, 13°, a), et à l'article 87, alinéa 1er, qui, pendant les parties du cycle de formation de base fixées par le Roi :
+
+1° soit, a échoué définitivement à la suite d'une appréciation insuffisante des qualités professionnelles;
+
+2° soit, a échoué définitivement à la suite d'une appréciation insuffisante des qualités caractérielles;
+
+3° soit, doit être retiré de son cycle de formation de base spécifique du fait du refus ou du retrait de l'habilitation de sécurité exigée;
+
+4° soit, a échoué définitivement à la suite d'une appréciation insuffisante des qualités physiques;
+
+[<sup>2</sup> 5° soit, comme candidat officier de carrière, doit être retiré de son cycle de formation spécifique parce qu'il ne répond pas à la condition de compétence linguistique visée à l'article 2, alinéa 5, de la loi du 30 juillet 1938 concernant l'usage des langues à l'armée.]<sup>2</sup>
+
+Selon les conditions fixées par le Roi, la décision de reclassement peut consister à obtenir l'autorisation de suivre une nouvelle formation de base, selon le cas :
+
+1° dans la même qualité et dans la même catégorie de personnel;
+
+2° dans une autre qualité et dans la même catégorie de personnel;
+
+3° dans une autre qualité et dans une catégorie de personnel inférieure;
+
+Toutefois, seul le reclassement visé à l'alinéa 2, 3°, peut être autorisé lorsque le candidat militaire est considéré comme ayant échoué définitivement à la suite d'une appréciation insuffisante, selon le cas :
+
+1° des qualités professionnelles, basée sur l'échec définitif, selon le cas, comme candidat officier à l'examen sur la connaissance effective de la deuxième langue nationale en vertu de l'article 4 de la loi du 30 juillet 1938 concernant l'usage des langues à l'armée, ou comme candidat sous-officier à l'examen sur la connaissance effective de la langue de l`unité dans laquelle il aurait été appelé à servir en vertu de l'article 8 de la même loi;
+
+2° des qualités caractérielles.
+
+Lorsque le candidat militaire est considéré comme ayant échoué définitivement à la suite d'une appréciation insuffisante des qualités physiques, seul le reclassement visé à l'alinéa 2, 1°, peut être autorisé. Dans ce cas, le candidat militaire ne peut être reclassé que dans un autre cycle de formation de base pour lequel ces qualités physiques ne sont pas exigées.
+
+Le reclassement est accepté ou refusé par l'autorité que le Roi désigne et selon la procédure qu'Il fixe.
+
+Le reclassement ne peut être accordé qu'une fois.
+
+Toutefois, aux conditions fixées par le Roi, un second reclassement peut être accordé au candidat officier de carrière du niveau A du recrutement normal, admis à l'Ecole royale militaire, ou au candidat sous-officier de carrière du niveau C du recrutement normal.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 157, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;L 2022-06-02/07, art. 9, 025; En vigueur : 01-12-2022&gt;
+
+###### Art. 106/1
+
+[<sup>1</sup> En fonction des besoins d'encadrement des Forces armées, peut être reclassé à sa demande le candidat militaire visé à l'article 3, 13°, b), admis à suivre une formation de base en vue d'une promotion sociale visée à l'article 114, qui, pendant les parties du cycle de formation fixées par le Roi a échoué définitivement à la suite d'une appréciation insuffisante des qualités professionnelles.
+
+Selon les conditions fixées par le Roi, la décision de reclassement consiste à obtenir l'autorisation de suivre une nouvelle formation de base dans la même qualité et dans la même catégorie de personnel.
+
+Le reclassement est accepté ou refusé par l'autorité que le Roi désigne et selon la procédure qu'Il fixe.
+
+Le reclassement visé à l'alinéa 1er ne peut être accordé qu'une fois par cycle de formation en vue d'une promotion sociale visé à l'article 114.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-11-24/07, art. 4, 026; En vigueur : 01-04-2023&gt;
+
+###### Art. 107
+
+[<sup>1</sup> Aux conditions et selon la procédure que le Roi fixe, le candidat militaire visé à l'article 3, 13°, a), qui a arrêté sa formation de base originelle afin de suivre une nouvelle formation de base, mais qui y échoue pour les motifs que le Roi détermine, peut obtenir de l'autorité qu'Il désigne l'autorisation d'être réintégré dans sa formation de base originelle.
+
+Le candidat militaire [<sup>2</sup> ...]<sup>2</sup> qui perd la qualité de candidat militaire est réintégré dans sa catégorie d'origine du personnel de carrière. Il lui est accordé l'ancienneté et le grade qu'il aurait obtenus s'il n'avait pas quitté sa catégorie de personnel des militaires de carrière.
+
+Le candidat militaire qui a perdu la qualité de candidat en application de l'article 21/1, alinéa 1er, 9°, est réintégré de plein droit dans sa formation originelle dès le moment où il a atteint l'âge de dix-huit ans ou dès que la période de paix est rétablie.
+
+Les obligations militaires du candidat militaire visé à l'article 3, 13°, a), qui perd la qualité de candidat militaire et qui avant son admission comme candidat militaire appartenait au cadre de réserve ou était en congé illimité, sont, sous réserve de l'application de l'alinéa 5, déterminées par les règles relatives au statut des militaires du cadre de réserve des Forces armées.
+
+Le candidat militaire visé à l'article 3, 13°, a), qui perd la qualité de candidat militaire et qui avant son admission comme candidat militaire n'appartenait pas au cadre de réserve ou n'était pas envoyé en congé illimité est, sans préjudice de l'application des alinéas 1er, 2 et 6, envoyé en congé définitif.
+
+Le candidat militaire qui est mis à la pension pour cause d'inaptitude physique est considéré comme ayant satisfait à ses obligations militaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 158, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+(2)&lt;L 2016-11-21/20, art. 67, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 108
+
+[<sup>1</sup> Le candidat militaire visé à l'article 105, à l'article 106, alinéa 2, 2° et 3°, et le cas échéant à l'article 107, alinéa 1er, contracte un engagement dans sa nouvelle qualité.
+
+Le candidat militaire visé à l'article 107, alinéa 3 contracte un nouvel engagement et est rattaché à une promotion afin de suivre son cycle de formation spécifique originelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 159, 006; En vigueur : 31-12-2013 (voir AR 2013-11-07/49, art. 47, 1°)&gt;
+
+###### Art. 109
+
+&lt;Abrogé par L 2013-07-31/04, art. 160, 006; En vigueur : 30-09-2013&gt;
+
+#### Section 3. - De la formation continuée [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 161, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/06, art. 78, 1°&gt;
+
+###### Art. 110
+
+[<sup>1</sup> § 1er. Durant sa carrière militaire, le militaire peut :
+
+1° être astreint à suivre certains cours de perfectionnement;
+
+2° se porter candidat pour suivre certains cours de perfectionnement.
+
+[<sup>2</sup> L'ensemble de ces cours de perfectionnement est appelé la formation continuée comprenant :
+
+1° les cours visés aux articles 111 et 112;
+
+2° les cours qui ont, le cas échéant, pour but de permettre aux militaires d'acquérir un pôle de compétence ou d'acquérir des compétences supplémentaires dans les domaines de la gestion ou des opérations. L'ensemble de ces cours est appelé la formation spécialisée.]<sup>2</sup>
+
+Les militaires peuvent recevoir tout ou partie de leur formation continuée dans une institution de la Défense ou dans une institution militaire étrangère ou multinationale ou dans une institution civile, en Belgique ou à l'étranger.
+
+L'autorité désignée par le Roi se prononce sur l'équivalence de tout ou partie de la formation continuée qui est donnée dans une institution autre qu'une institution de la Défense.
+
+Le Roi ou l'autorité qu'Il désigne, fixe, selon le cas, les règles relatives à l'ajournement, l'inscription et la participation à la formation continuée, ainsi que l'organisation, la nature et la composition des cours de perfectionnement, et les conditions de réussite dans ces cours.
+
+§ 2. Certains cours de perfectionnement permettent d'obtenir un brevet que le Roi fixe. Le Roi fixe les conditions d'octroi de ces brevets.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 162, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/06, art. 78, 1°&gt;
+
+(2)&lt;L 2018-04-30/07, art. 17, 017; En vigueur : 25-05-2018&gt;
+
+###### Art. 111
+
+[<sup>1</sup> Pour l'officier du niveau A, la formation continuée durant la carrière militaire comprend, selon le cas :
+
+1° un cours de perfectionnement destiné au développement des compétences qui sont nécessaires à un officier subalterne pour exercer des fonctions de commandement et d'état-major dans un cadre national ou international;
+
+2° [<sup>3</sup> un cours de perfectionnement destiné au développement des compétences qui sont nécessaires à un futur officier supérieur pour exercer des fonctions de commandement et d'état-major dans un cadre national ou international;]<sup>3</sup>
+
+3° un cours de perfectionnement destiné au développement des compétences qui sont nécessaires à un officier supérieur pour exercer des fonctions supérieures de commandement et d'état-major dans un cadre national ou international;
+
+4° des cours de perfectionnement en vue d'acquérir les qualifications universitaires pour lesquelles un besoin des Forces armées est exprimé par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup>.
+
+Pour l'officier du niveau B, la formation continuée durant la carrière militaire comprend le cours visé à l'alinéa 1er, 1°.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 163, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/06, art. 78, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 31, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2022-06-02/06, art. 7, 024; En vigueur : 26-08-2022&gt;
+
+###### Art. 112
+
+[<sup>1</sup> Pour le sous-officier du niveau C, la formation continuée durant la carrière militaire comprend, selon le cas :
+
+1° un cours de perfectionnement visant :
+
+a) à développer des compétences qui sont nécessaires à exercer des fonctions de sous-officier d'élite;
+
+b) à préparer l'épreuve d'accession au grade de premier sergent-major visée à l'article 84/1, alinéa 1er, 2° ;
+
+2° un cours de perfectionnement visant :
+
+a) à développer des compétences qui sont nécessaires à exercer des fonctions de sous-officier supérieur;
+
+b) à préparer l'examen de qualification au grade d'adjudant-chef visé à l'article 139/2, alinéa 2, 2°.
+
+Pour le sous-officier du niveau B, la formation continuée durant la carrière militaire comprend un cours de perfectionnement visant, selon le cas :
+
+1° à développer des compétences qui sont nécessaires à exercer des fonctions spécifiques d'adjudant-chef du niveau B;
+
+2° à développer des compétences qui sont nécessaires à exercer des fonctions de sous-officier supérieur, autres que celles visées au 1° ;
+
+3° à préparer l'examen de qualification au grade d'adjudant-chef visé à l'article 139/2, alinéa 2, 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 164, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/06, art. 78, 1°&gt;
+
+###### Art. 113
+
+[<sup>1</sup> Dans les conditions et selon la procédure que le Roi fixe, le militaire peut être dispensé par l'autorité désignée par le Roi, de tout ou partie d'une formation continuée visée aux articles 111 et 112, s'il a suivi auparavant avec succès cette formation ou partie de cette formation, ou une formation continuée équivalente.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 165, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/06, art. 78, 1°&gt;
+
+###### Art. 113 DROIT FUTUR.
+
+[<sup>1</sup> Dans les conditions et selon la procédure que le Roi fixe, le militaire peut être dispensé par l'autorité désignée par le Roi, de tout ou partie d'une formation continuée visée aux articles 111 et 112, [<sup>2</sup> soit]<sup>2</sup> s'il a suivi auparavant avec succès cette formation ou partie de cette formation, ou une formation continuée équivalente [<sup>2</sup> , soit sur la base de l'expérience acquise, le cas échéant, confirmée par une épreuve de compétence]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 165, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/06, art. 78, 1°&gt;
+
+(2)&lt;L 2026-04-22/06, art. 10, 029; En vigueur : 01-07-2027&gt;
+
+###### Art. 113/1
+
+[<sup>1</sup> Une commission de délibération pour la formation continuée se prononce sur le militaire en formation qui n'a pas satisfait aux critères de réussite de l'une des formations continuées ou, selon le cas, [<sup>2</sup> des examens visés aux articles 111, alinéa 1er, 3°, et 112, ou qui, sans raison valable, n'a pas participé à sa formation continuée ou aux examens prescrits]<sup>2</sup>.
+
+Selon les modalités fixées par le Roi, la commission de délibération peut, selon le cas visé à l'alinéa 1er, prendre une ou plusieurs des décisions suivantes :
+
+1° le militaire concerné a réussi en tout ou en partie et peut, le cas échéant, continuer sa formation;
+
+2° le militaire concerné peut obtenir un repêchage;
+
+3° le militaire concerné peut obtenir un ajournement;
+
+4° le militaire concerné a échoué définitivement pour, selon le cas, son cours de perfectionnement ou ses [<sup>2</sup> ...]<sup>2</sup> examens prescrits.
+
+Outre le président, une commission de délibération se compose au minimum de trois membres, éventuellement assistés par un ou plusieurs spécialistes ou conseillers et un secrétaire désigné par le président.
+
+Le Roi fixe les modalités relatives à l'organisation, la composition concrète et le fonctionnement de la commission de délibération.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 166, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/06, art. 78, 1°&gt;
+
+(2)&lt;L 2022-06-02/06, art. 8, 024; En vigueur : 26-08-2022&gt;
+
+###### Art. 113/2
+
+[<sup>1</sup> Si une partie d'une formation continuée est suivie dans une institution autre qu'une institution de la Défense, il est tenu compte, pour cette partie, du régime de cette institution quant à l'octroi d'une dispense, l'appréciation des compétences et les critères de réussite.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 167, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/06, art. 78, 1°&gt;
+
+#### Section 4. - [<sup>1</sup> De la promotion sociale, du passage et de la promotion sur diplôme]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 168, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 114
+
+[<sup>1</sup> Par promotion sociale, il faut entendre l'admission, selon le cas :
+
+1° des volontaires de carrière dans la catégorie de personnel des sous-officiers de carrière du niveau C;
+
+2° des sous-officiers de carrière du niveau C ou B dans la catégorie de personnel des officiers de carrière du niveau B.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 169, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 115
+
+[<sup>1</sup> Par passage, il faut entendre l'admission des officiers de carrière du niveau B vers la catégorie de personnel des officiers de carrière du niveau A.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 170, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 116
+
+[<sup>1</sup> Par promotion sur diplôme, il faut entendre l'admission, selon le cas:
+
+1° des volontaires de carrière dans la catégorie de personnel des sous-officiers de carrière du niveau B;
+
+2° des sous-officiers de carrière du niveau C dans la catégorie de personnel des sous-officiers de carrière du niveau B.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-24/07, art. 5 , 026; En vigueur : 01-04-2023&gt;
+
+###### Art. 117
+
+[<sup>1</sup> [<sup>3</sup> Pour être admis par l'autorité désignée par le Roi dans le cadre de la promotion sociale, du passage ou de la promotion sur diplôme, et indépendamment des conditions propres à la catégorie de personnel pour laquelle ils entrent en ligne de compte, les militaires visés aux article 114 à 116, doivent satisfaire aux conditions suivantes:]<sup>3</sup>
+
+1° [<sup>3</sup> ...]<sup>3</sup>
+
+2° ne pas être refusé par l'autorité que le Roi désigne;
+
+3° au 31 décembre de l'année de leur agrément, ne pas avoir atteint l'âge fixé par le Roi;
+
+4° [<sup>3</sup> le cas échéant,]<sup>3</sup> être classé en ordre utile lors d'une épreuve de passage, dans la limite du nombre de places ouvertes;
+
+5° avoir réussi les tests militaires d'aptitude physique, selon les critères fixés par l'autorité que le Roi désigne;
+
+6° pour le militaire de la marine, être médicalement apte au service en mer;
+
+7° le cas échéant, être titulaire d'un bachelier avant la date de clôture des inscriptions pour la promotion sur diplôme concernée;
+
+8° [<sup>3</sup> pour le passage concerné, le cas échéant:
+
+a) être titulaire d'un master;
+
+b) avoir suivi avec succès le cours technique d'état-major, le cours de base d'état-major ou la formation de base d'état-major avant la date de clôture des inscriptions;]<sup>3</sup>
+
+9° le cas échéant, [<sup>4</sup> avant la date de clôture des inscriptions,]<sup>4</sup> avoir réussi les examens linguistiques visés, selon le cas :
+
+a) à l'article 2 de la loi du 30 juillet 1938 concernant l'usage des langues à l'armée;
+
+b) aux articles 3 et 4 de la même loi;
+
+c) à l'article 8, § 1er, de la même loi ou être exempté de cet examen selon les dispositions de l'article 8, § 2, de la même loi.
+
+Par type d'admission et catégorie de personnel, le Roi fixe :
+
+1° les conditions auxquelles les militaires doivent satisfaire parmi celles visées à l'alinéa 1er;
+
+2° [<sup>3</sup> le cas échéant, le contenu et les modalités de l'épreuve de passage visée à l'alinéa 1er, 4°.]<sup>3</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 172, 006; En vigueur : 30-09-2013&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 31, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2022-11-24/07, art. 6, 026; En vigueur : 01-04-2023&gt;
+
+(4)&lt;L 2025-12-08/07, art. 49, 028; En vigueur : 01-01-2026&gt;
+
+###### Art. 118
+
+[<sup>1</sup> § 1er. Pour être admis dans la catégorie des officiers de carrière du niveau B, le sous-officier de carrière doit avoir la qualité de candidat officier de carrière du niveau B et doit avoir suivi avec succès la formation fixée par le Roi.
+
+Pour être admis dans la catégorie des sous-officiers de carrière du niveau C, le volontaire de carrière doit avoir la qualité de candidat sous-officier de carrière du niveau C et doit avoir suivi avec succès la formation fixée par le Roi.
+
+§ 2. Le sous-officier de carrière agréé comme candidat officier de carrière du niveau B est commissionné au grade d'adjudant par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> au début du cycle de formation, s'il n'est pas encore revêtu de ce grade.
+
+Le candidat officier de carrière du niveau B est commissionné au grade de sous-lieutenant par le Roi, le premier jour du sixième mois suivant le mois de son agrément par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup>, comme candidat officier de carrière du niveau B.
+
+Le candidat officier de carrière du niveau B est nommé par le Roi au grade de sous-lieutenant le vingt-sixième jour du dernier mois du trimestre au cours duquel il a terminé sa formation avec succès.
+
+[<sup>3</sup> Selon le cas, il est classé à la suite:
+
+1° des officiers de carrière du niveau B qui ont été reclassés et qui ont été nommés sous-lieutenant à la même date;
+
+2° des officiers de carrière du niveau B du recrutement spécial qui ont été nommés sous-lieutenant à la même date, s'il possédait précédemment la qualité de sous-officier de carrière du niveau B;
+
+3° des militaires visés au 2°, s'il possédait précédemment la qualité de sous-officier de carrière du niveau C.]<sup>3</sup>
+
+L'effet de la nomination a lieu avec effet rétroactif jusqu'au vingt-sixième jour du dernier mois du trimestre au cours duquel il a été commissionné au grade de sous-lieutenant.
+
+§ 3. Le volontaire de carrière agréé comme candidat sous-officier de carrière du niveau C est commissionné au grade de sergent par l'autorité désignée par le Roi, le premier jour du sixième mois suivant le mois de son agrément par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> comme candidat sous-officier de carrière du niveau C.
+
+Le candidat sous-officier de carrière du niveau C est nommé par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> au grade de sergent le vingt-sixième jour du dernier mois du trimestre au cours duquel il a terminé sa formation avec succès.
+
+Il est classé après les sous-officiers de carrière du niveau C du recrutement normal qui ont été nommés sergent à la même date.
+
+L'effet de la nomination a lieu avec effet rétroactif jusqu'au vingt-sixième jour du dernier mois du trimestre au cours duquel il a été commissionné au grade de sergent.
+
+§ 4. L'ancienneté relative de ceux qui sont nommés à la même date et qui ont participé au même cycle de formation est déterminée par le classement établi à la fin de l'instruction sur la base du résultat final.
+
+Les candidats qui obtiennent la même note finale sont classés dans l'ordre décroissant de leur ancienneté de service et en cas d'ex-aequo, priorité est donnée au plus âgé.
+
+En cas de réussite après repêchage, seul le résultat final obtenu au premier essai intervient pour l'établissement du classement.
+
+§ 5. L'ancienneté relative de ceux qui sont nommés à la même date et qui n'ont pas participé au même cycle de formation est déterminée par un classement unique établi sur la base des différents classements établis conformément aux dispositions du paragraphe 4 et dans lequel les officiers ou les sous-officiers concernés, qui ont suivi des cycles de formations différents, alternent proportionnellement à leur nombre.
+
+Le classement unique ainsi établi ne peut toutefois avoir pour conséquence de classer un officier ou un sous-officier avant un autre officier ou un autre sous-officier dont le résultat final est supérieur au sien de plus de dix pourcent du total des points.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 173, 006; En vigueur : 30-09-2013&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 31, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2022-06-02/07, art. 10, 025; En vigueur : 01-12-2022&gt;
+
+###### Art. 119
+
+[<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup>
+
+L'officier de carrière du niveau B est admis dans la catégorie des officiers de carrière du niveau A avec son grade et son ancienneté dans ce grade. Il est classé à la suite de l'officier de carrière du niveau A de même grade et de même ancienneté dans ce grade.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 174, 006; En vigueur : 30-09-2013&gt;
+
+(2)&lt;L 2022-11-24/07, art. 7, 026; En vigueur : 01-04-2023&gt;
+
+###### Art. 119/1
+
+[<sup>1</sup> § 1er. [<sup>2</sup> ...]<sup>2</sup>
+
+Le sous-officier de carrière du niveau C est admis dans la catégorie des sous-officiers de carrière du niveau B avec son grade et son ancienneté dans ce grade, selon les modalités fixées par le Roi. Il est classé à la suite du sous-officier de carrière du niveau B de même grade et de même ancienneté dans ce grade.
+
+Toutefois, lors de son admission dans la catégorie des sous-officiers de carrière du niveau B, celui qui ne possède pas encore le grade de premier sergent-major est nommé à ce grade de plein droit, selon les modalités fixées par le Roi.
+
+§ 2. [<sup>2</sup> L'ancienneté relative de ceux qui sont nommés à la même date, est déterminée par le résultat obtenu lors de l'épreuve de passage visée à l'article 117, alinéa 1er, 4°.]<sup>2</sup>
+
+[<sup>2</sup> Ceux qui obtiennent le même résultat]<sup>2</sup> sont classés dans l'ordre décroissant de leur ancienneté de service et en cas d'ex-aequo, priorité est donnée au plus âgé.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 175, 006; En vigueur : 30-09-2013&gt;
+
+(2)&lt;L 2022-11-24/07, art. 8, 026; En vigueur : 01-04-2023&gt;
+
+###### Art. 119/2
+
+[<sup>1</sup> § 1er. Pour être admis dans la catégorie des sous-officiers de carrière du niveau B, le volontaire de carrière doit avoir la qualité de candidat sous-officier de carrière du niveau B et doit avoir suivi avec succès la formation fixée par le Roi.
+
+§ 2. Le volontaire de carrière agréé comme candidat sous-officier de carrière du niveau B est commissionné au grade de sergent par l'autorité désignée par le Roi, le premier jour du sixième mois suivant le mois de son agrément par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> comme candidat sous-officier de carrière du niveau B.
+
+Le candidat sous-officier de carrière du niveau B est nommé par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> au grade de premier sergent-major le vingt-sixième jour du dernier mois du trimestre au cours duquel il a terminé avec succès la période d'évaluation.
+
+Il est classé à la suite des sous-officiers de carrière du niveau C, ayant participé à la promotion sur diplôme en vue d'acquérir la qualité de sous-officier de carrière du niveau B, qui ont été nommés premier sergent-major à la même date.
+
+§ 3. L'ancienneté relative de ceux qui sont nommés à la même date et qui ont participé au même cycle de formation est déterminée par le classement établi à la fin de l'instruction sur la base du résultat final.
+
+Les candidats qui obtiennent la même note finale sont classés dans l'ordre décroissant de leur ancienneté de service et en cas d'ex-aequo, priorité est donnée au plus âgé.
+
+En cas de réussite après repêchage, seul le résultat final obtenu au premier essai intervient pour l'établissement du classement.
+
+§ 4. L'ancienneté relative de ceux qui sont nommés à la même date et qui n'ont pas participé au même cycle de formation est déterminée par un classement unique établi sur la base des différents classements établis conformément aux dispositions du paragraphe 3 et dans lequel les sous-officiers qui ont suivi des cycles de formations différents alternent proportionnellement à leur nombre.
+
+Le classement unique ainsi établi ne peut toutefois avoir pour conséquence de classer un sous-officier avant un autre sous-officier dont le résultat final est supérieur au sien de plus de dix pourcent du total des points.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 176, 006; En vigueur : 30-09-2013&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 31, 008; En vigueur : 24-04-2014&gt;
+
+#### Section 5.
+
+&lt;Abrogée par L 2013-07-31/04, art. 177, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 120
+
+&lt;Abrogé par L 2013-07-31/04, art. 178, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 121
+
+&lt;Abrogé par L 2013-07-31/04, art. 179, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 122
+
+&lt;Abrogé par L 2013-07-31/04, art. 180, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 123
+
+&lt;Abrogé par L 2013-07-31/04, art. 181, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 124
+
+&lt;Abrogé par L 2013-07-31/04, art. 182, 006; En vigueur : 30-09-2013&gt;
+
+#### Section 6.
+
+&lt;Abrogée par L 2013-07-31/04, art. 183, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 125
+
+&lt;Abrogé par L 2013-07-31/04, art. 184, 006; En vigueur : 30-09-2013&gt;
+
+### CHAPITRE III.
+
+&lt;Abrogé par L 2013-07-31/04, art. 185, 006; En vigueur : 30-09-2013&gt;
+
+#### Section Ire.
+
+&lt;Abrogée par L 2013-07-31/04, art. 186, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 126
+
+&lt;Abrogé par L 2013-07-31/04, art. 187, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 127
+
+&lt;Abrogé par L 2013-07-31/04, art. 188, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 128
+
+&lt;Abrogé par L 2013-07-31/04, art. 189, 006; En vigueur : 30-09-2013&gt;
+
+#### Section 2.
+
+&lt;Abrogée par L 2013-07-31/04, art. 190, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 129
+
+&lt;Abrogé par L 2013-07-31/04, art. 191, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 130
+
+&lt;Abrogé par L 2013-07-31/04, art. 192, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 131
+
+&lt;Abrogé par L 2013-07-31/04, art. 193, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 132
+
+&lt;Abrogé par L 2013-07-31/04, art. 194, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 133
+
+&lt;Abrogé par L 2013-07-31/04, art. 195, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 134
+
+&lt;Abrogé par L 2013-07-31/04, art. 196, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 135
+
+&lt;Abrogé par L 2013-07-31/04, art. 197, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 136
+
+&lt;Abrogé par L 2013-07-31/04, art. 198, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 137
+
+&lt;Abrogé par L 2013-07-31/04, art. 199, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 138
+
+&lt;Abrogé par L 2013-07-31/04, art. 200, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 139
+
+[<sup>1</sup> Sans préjudice de l'application des dispositions relatives à l'ancienneté minimum requise dans le grade pour l'avancement au grade supérieur, les grades de sous-officier supérieur sont conférés au choix [<sup>2</sup> de l'autorité désignée par le Roi]<sup>2</sup>, et les grades d'officier supérieur et d'officier général sont conférés au choix du Roi, suivant les modalités que le Roi fixe.
+
+Lors de l'appréciation, il doit être tenu compte :
+
+1° des connaissances dont dispose le militaire concerné, acquises à la suite de formations suivies et d'expériences vécues;
+
+2° des compétences acquises par le militaire concerné dans le domaine de la gestion et appréciées selon les modalités fixées par le Roi.
+
+Lors de l'appréciation, il peut être tenu compte :
+
+1° des [<sup>3</sup> évaluations statutaires]<sup>3</sup> visées à l'article 66;
+
+2° le cas échéant, des [<sup>3</sup> évaluations de potentiel visées à l'article 66]<sup>3</sup>;
+
+3° des appréciations relatives aux aptitudes visées à l'article 68.
+
+En dérogation à l'alinéa 1er, le grade d'adjudant-chef est conféré à l'ancienneté aux sous-officiers du niveau B qui ont suivi avec succès le cours de perfectionnement visé à l'article 112, alinéa 2, 1°, sauf s'ils ont été dépassés à l'avancement selon les dispositions applicables aux sous-officiers d'élite]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 201, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 32, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2017-07-31/24, art. 13, 019; En vigueur : 31-12-2019&gt;
+
+###### Art. 139/1
+
+[<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup>
+
+Aucun officier ne peut être nommé au grade de major s'il n'a pas :
+
+1° suivi avec succès les cours de perfectionnement visés à l'article 111, alinéa 1er, 1° et 2° ;
+
+2° réussi un test relatif à la connaissance d'une langue que le Roi fixe, autre que le néerlandais ou le français;
+
+3° [<sup>3</sup> ...]<sup>3</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 202, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+(2)&lt;L 2017-11-19/01, art. 2, 014; En vigueur : 01-12-2017&gt;
+
+(3)&lt;L 2022-06-02/06, art. 9, 024; En vigueur : 26-08-2022&gt;
+
+###### Art. 139/2
+
+[<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup>.
+
+Aucun sous-officier du niveau C ne peut être nommé au grade d'adjudant-chef s'il n'a pas :
+
+1° suivi avec succès les cours de perfectionnement visés à l'article 112, alinéa 1er, 2° ;
+
+2° réussi l'examen de qualification au grade d'adjudant-chef dont le Roi fixe les règles de participation, les programmes et les modalités d'organisation.
+
+Aucun sous-officier du niveau B ne peut être nommé au grade d'adjudant-major s'il n'a pas :
+
+1° suivi avec succès les cours de perfectionnement visés à l'article 112, alinéa 2, 1° et 2° ;
+
+2° réussi l'examen de qualification au grade d'adjudant-chef visé à l'alinéa 2, 3°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 203, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+(2)&lt;L 2017-11-19/01, art. 3, 014; En vigueur : 01-12-2017&gt;
+
+###### Art. 139/3
+
+[<sup>1</sup> Pour l'avancement aux grades d'officier supérieur et d'officier général, tous les candidats de la même ancienneté qui ont été recommandés favorablement en même temps pour le grade dont ils sont titulaires, sont, sous réserve de l'application de l'article 64, censés posséder l'ancienneté du candidat de leur ancienneté nommé le premier à ce grade lorsqu'il y a des places vacantes, ou du candidat de leur ancienneté qui aurait été nommé s'il y avait eu des places vacantes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 204, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+###### Art. 139/4
+
+[<sup>1</sup> Chaque fois que les candidatures à l'avancement visées à l'article 139/3 sont examinées suivant les anciennetés pour l'avancement fixées à ce même article, l'examen des candidats a lieu dans l'ordre mutuel d'ancienneté dans le grade.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 205, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+#### Section 3.
+
+&lt;Abrogée par L 2013-07-31/04, art. 206, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 140
+
+&lt;Abrogé par L 2013-07-31/04, art. 207, 006; En vigueur : 30-09-2013&gt;
+
+## TITRE IV. - Du [<sup>1</sup> transfert]<sup>1</sup> interne.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 208, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 141
+
+[<sup>1</sup> Le transfert interne [<sup>2</sup> est applicable à chaque militaire et candidat militaire]<sup>2</sup> qui est déclaré définitivement inapte sur le plan médical sur décision de la commission militaire d'aptitude et de réforme ou la commission militaire d'aptitude et de réforme d'appel [<sup>2</sup> ...]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 209, 006; En vigueur : 31-12-2013 par AR 2013-10-14/11, art. 6, 1°&gt;
+
+(2)&lt;L 2025-12-08/07, art. 50, 028; En vigueur : 08-01-2026&gt;
+
+###### Art. 142
+
+[<sup>1</sup> A sa demande, au plus tard dans le mois suivant la décision visée à l'article 141, [<sup>2</sup> le militaire ou candidat militaire concerné peut demander]<sup>2</sup> à être admis en qualité d'agent de l'Etat au sein de la Défense, pour autant que sa candidature corresponde à un des profils de compétence établis par l'autorité compétente pour accomplir une fonction compatible avec son état de santé.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 210, En vigueur : 31-12-2013 par AR 2013-10-14/11, art. 6, 1°&gt;
+
+(2)&lt;L 2025-12-08/07, art. 51, 028; En vigueur : 08-01-2026&gt;
+
+###### Art. 143
+
+[<sup>1</sup> Le Roi détermine la procédure et les modalités à suivre [<sup>2</sup> pour que le militaire ou candidat militaire concerné puisse bénéficier du transfert interne]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>2</sup> Pour l'application des dispositions réglementaires prises en exécution de l'alinéa 1er, on entend par "le militaire", "le militaire et le candidat militaire", par "la qualité de militaire", "la qualité du candidat militaire" s'il s'agit d'un candidat militaire, par "volontaires", "volontaires et candidats volontaires", par "sous-officiers du niveau C","sous-officier et candidats sous-officiers du niveau C", par "sous-officiers du niveau B", "sous-officiers et candidats sous-officiers du niveau B", par "officiers du niveau B", "officiers et candidats officiers du niveau B" et par "officiers du niveau A", "officiers et candidats officiers du niveau A.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 211, En vigueur : 31-12-2013 par AR 2013-10-14/11, art. 6, 1°&gt;
+
+(2)&lt;L 2025-12-08/07, art. 52, 028; En vigueur : 08-01-2026&gt;
+
+## TITRE V. - [<sup>1</sup> La mobilité]<sup>1</sup> externe.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 212, 006; En vigueur : 30-09-2013&gt;
+
+#### Section première. - Généralités.
+
+###### Art. 144
+
+[<sup>1</sup> Par mobilité externe, il faut entendre :
+
+1° soit, l'utilisation par un employeur, visée à la section 2 du présent titre;
+
+2° soit, le transfert vers un employeur, visée à la section 3 du même titre;
+
+3° soit, la reconversion professionnelle, visée à la section 4 du même titre.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 213, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 145
+
+[<sup>1</sup> Par employeur, il faut entendre :
+
+1° le service public dépendant de l'autorité fédérale, des régions ou communautés ainsi que les organismes qui en dépendent [<sup>2</sup> ...]<sup>2</sup>;
+
+2° les entreprises publiques autonomes visées à la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques;
+
+3° les provinces, les communes, les agglomérations, fédérations et associations de communes et les organismes qui en dépendent;
+
+4° les zones de police et les organismes qui en dépendent;
+
+5° les zones de secours, les services d'incendie, les services d'incendie et d'aide médicale urgente et les organismes qui en dépendent;
+
+6° uniquement dans le cadre d'une utilisation, les institutions ou organismes non gouvernementaux d'utilité publique ne faisant pas partie des services publics.
+
+Les employeurs visés à l'alinéa 1er, 1° à 5°, sont appelés "employeur public" dans le cadre du transfert.
+
+Les employeurs visés à l'alinéa 1er, 1° à 6° sont appelés "employeur externe" dans le cadre de l'utilisation.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 214, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+(2)&lt;L 2019-05-20/07, art. 2, 020; En vigueur : 21-06-2019&gt;
+
+###### Art. 146
+
+[<sup>1</sup> Le Roi détermine les modalités à respecter pour pouvoir poser sa candidature à une utilisation, un transfert ou une reconversion professionnelle, ainsi que l'autorité qui accepte ou refuse les candidatures.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 215, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 147
+
+&lt;Abrogé par L 2013-07-31/04, art. 216, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 148
+
+&lt;Abrogé par L 2013-07-31/04, art. 217, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 149
+
+&lt;Abrogé par L 2013-07-31/04, art. 218, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+#### Section 2. - [<sup>1</sup> L'utilisation par un employeur externe]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 219, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 150
+
+[<sup>1</sup> On entend par "poste d'utilisation", une fonction ou un emploi chez un employeur externe pour lequel le militaire utilisé peut être retenu. Si ses besoins en personnel le justifient, l'employeur externe peut ouvrir plusieurs places pour un même poste d'utilisation.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 220, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 151
+
+[<sup>1</sup> L'employeur externe peut fixer des critères auxquels un militaire agréé doit satisfaire pour être retenu. Ces critères sont repris dans l'accord visé à l'article 153, § 2, alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 221, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 152
+
+[<sup>1</sup> Les militaires peuvent être utilisés par un employeur externe dans un poste d'utilisation, à condition :
+
+1° que leur candidature soit agréée;
+
+2° d'être en service actif à la date du début des épreuves de sélection;
+
+3° de ne pas occuper, à la date à laquelle leur utilisation prend cours, une fonction dont la rémunération n'est pas supportée par le budget de la Défense;
+
+4° de compter, à la date à laquelle leur utilisation prend cours, au moins le nombre d'années d'ancienneté de service comme militaire du cadre actif fixé par le Roi, sans que celui-ci puisse être inférieur à quinze ans;
+
+5° à la date à laquelle leur utilisation prend cours, ainsi que pendant la période de douze mois préalable à cette date :
+
+a) de ne pas déjà être sélectionnés par un employeur public dans le cadre d'un transfert;
+
+b) de ne pas déjà être sélectionnés par un employeur externe dans le cadre d'une utilisation;
+
+c) de ne pas déjà être mis à disposition d'un employeur public dans le cadre d'un transfert;
+
+d) de ne pas déjà être utilisés;
+
+6° de ne pas se trouver, à la date à laquelle leur utilisation prend cours, dans une période de rendement en application de l'article 179;
+
+7° de ne pas se trouver, à la date du début des épreuves de sélection, dans une des formes d'engagement opérationnel que le Roi fixe, et de ne pas faire effectivement partie d'un détachement qui se prépare en vue d'un tel engagement;
+
+8° de ne pas être, à la date à laquelle leur utilisation prend cours, affectés dans un organisme international ou interallié;
+
+9° de ne pas être, à la date du début des épreuves de sélection, en suspension volontaire des prestations;
+
+10° de ne pas exercer, à la date à laquelle leur utilisation prend cours, un poste nécessitant un profil de compétences spécifique et rare.
+
+Le Roi fixe les postes visés à l'alinéa 1er, 10°, par catégorie de personnel, et éventuellement par sous-catégorie de personnel.
+
+Les militaires visés à l'alinéa 1er, 10°, peuvent toutefois introduire une demande pour des raisons personnelles exceptionnelles motivées auprès de l'autorité que le Roi désigne, afin d'entrer en ligne de compte pour une utilisation. Un refus peut faire l'objet d'un recours [<sup>2</sup> auprès de l'autorité désignée par le Roi]<sup>2</sup>.
+
+En fonction des besoins d'encadrement, la candidature d'un militaire qui satisfait aux conditions visées à l'alinéa 1er peut être refusée par l'autorité que le Roi désigne, afin de garantir le bon fonctionnement et la continuité des Forces armées. Ce refus peut faire l'objet d'un recours [<sup>2</sup> auprès de l'autorité désignée par le Roi]<sup>2</sup>.
+
+Si une procédure de comparution devant la commission militaire d'aptitude et de réforme a été entamée, la candidature de l'intéressé pour un poste d'utilisation peut être agréée au plus tôt, le cas échéant, à :
+
+1° la date à laquelle un recours n'est plus possible contre la décision de la commission militaire d'aptitude et de réforme qui déclare le militaire apte médicalement;
+
+2° la date de la décision de la commission militaire d'aptitude et de réforme d'appel qui déclare le militaire apte médicalement.
+
+La candidature d'un militaire inapte médicalement, temporairement ou définitivement, ou déclaré apte médicalement à travailler à mi-temps, est refusée.
+
+Lorsque le militaire accomplit des prestations dans le régime de travail volontaire de la semaine de quatre jours, il est mis fin à ce régime]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 222, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 33, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 153
+
+[<sup>1</sup> § 1er. Les postes d'utilisation ouverts par des employeurs externes, le nombre de places ouvertes par poste d'utilisation, ainsi que les catégories de personnel et le régime linguistique pour lesquels ces postes sont ouverts, sont publiés par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup>.
+
+Les postes d'utilisation visés à l'alinéa 1er ne peuvent être que des postes à temps plein.
+
+§ 2. Les militaires qui sont agréés par l'employeur externe sont désignés à leur poste d'utilisation par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup>.
+
+L'utilisation de l'intéressé fait l'objet d'un accord entre [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> et l'employeur externe concerné. Le militaire reçoit un exemplaire du document, qu'il signe pour accord.
+
+Cet accord, établi à partir d'un modèle-type défini par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup>, comprend notamment :
+
+1° la durée de l'utilisation;
+
+2° la fixation du régime de travail;
+
+3° la formation et le stage éventuels;
+
+4° les règles relatives à la prise en charge des coûts de formation et de stage éventuels;
+
+5° l'autorité qui, chez l'employeur externe du militaire en utilisation, est investie d'un rang équivalent à celui de chef de corps;
+
+6° les règles relatives à la prise en charge de la charge salariale;
+
+7° les avantages pécuniaires que l'employeur externe octroie au militaire, en application du statut propre à cet employeur;
+
+8° une liste de l'équipement qui sera mis gratuitement à disposition ou dont le militaire doit lui-même se pourvoir;
+
+9° les règles relatives à la responsabilité civile de l'employeur externe;
+
+10° les critères de sélection définis par l'employeur externe.
+
+Une copie du règlement de travail et des statuts applicables aux membres du personnel statutaire de l'employeur externe est remise au militaire en utilisation.
+
+§ 3. L'utilisation prend effet au plus tôt le premier jour du premier mois et au plus tard le premier jour du sixième mois qui suit la désignation de l'intéressé, moyennant accord conjoint de l'employeur externe et [<sup>2</sup> de l'autorité désignée par le Roi]<sup>2</sup> tout en visant le délai le plus court. L'utilisation prend toujours effet le premier jour d'un mois.
+
+L'utilisation se termine d'office à la date de perte de la qualité de militaire du cadre actif.
+
+L'utilisation se termine également moyennant le respect d'un préavis de trente jours, lorsque les raisons pour l'utilisation n'existent plus et que le militaire ne peut être utilisé dans un nouveau poste. L'employeur externe communique la décision motivée au militaire et [<sup>2</sup> à l'autorité désignée par le Roi]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 223, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 34, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 154
+
+[<sup>1</sup> Si le supérieur hiérarchique du militaire, désigné conformément à l'article 156/4, alinéa 3, constate qu'il ne donne pas satisfaction ou ne pourra pas satisfaire aux exigences du service, il pourra être mis fin à l'utilisation moyennant le respect d'un préavis de trente jours. Les motifs sont consignés dans un rapport.
+
+Ce rapport est communiqué au militaire intéressé qui peut y joindre sa défense, selon les modalités applicables chez l'employeur externe concerné.
+
+Le rapport, accompagné, le cas échéant, des remarques de l'intéressé, est transmis, selon le cas, [<sup>2</sup> à l'autorité désignée par le Roi]<sup>2</sup> ou à la plus haute autorité de l'employeur externe.
+
+Sur la base des documents visés à l'alinéa 2, cette autorité peut mettre fin à l'utilisation du militaire concerné.
+
+Le militaire peut mettre fin à son utilisation moyennant le respect d'un préavis de minimum quinze jours.
+
+Le militaire est réintégré dans les Forces armées le premier jour qui suit l'expiration du préavis.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 224, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 35, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 155
+
+[<sup>1</sup> Le militaire en utilisation est en service actif. Il se trouve dans la sous-position "en service normal".
+
+Il exerce l'emploi en dehors des Forces armées et en vertu d'ordres de service émanant de l'employeur externe.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 225, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 156
+
+[<sup>1</sup> Le militaire en utilisation ne participe pas à l'avancement sauf si celui-ci a lieu par ancienneté de service.
+
+Le militaire en utilisation ne peut participer ni à la formation continuée, ni aux examens [<sup>2</sup> ...]<sup>2</sup> pour l'avancement à un grade militaire supérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 226, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+(2)&lt;L 2022-06-02/06, art. 10, 024; En vigueur : 26-08-2022&gt;
+
+###### Art. 156/1
+
+[<sup>1</sup> Pendant qu'ils sont en utilisation, les militaires ne peuvent plus exercer leur emploi au sein des Forces armées, sauf :
+
+1° en cas de mobilisation;
+
+2° en période de guerre;
+
+3° dans des circonstances exceptionnelles à la suite d'une décision du gouvernement.
+
+D'autres cas dans lesquels les militaires en utilisation peuvent exercer leur emploi au sein des Forces armées peuvent être prévus dans l'accord visé à l'article 153, § 2, alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 227, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 156/2
+
+[<sup>1</sup> Sous réserve de l'accord de l'employeur externe, un militaire en utilisation peut prétendre à un retrait temporaire d'emploi, au régime volontaire de travail de la semaine de quatre jours et au régime de départ anticipé à mi-temps.
+
+Si un retrait temporaire d'emploi par mesure disciplinaire ou pour motif de santé doit être imposé, le militaire en utilisation doit réintégrer les Forces armées endéans les trente jours après la décision qu'un des retraits temporaires d'emploi susmentionnés doit etre imposé. Le retrait temporaire d'emploi pour motif disciplinaire ne peut être effectué qu'après la réintégration.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 228, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 156/3
+
+[<sup>1</sup> Au terme d'une absence pour motif de santé, le militaire utilisé peut, pour motif de santé, obtenir l'autorisation de travailler à mi-temps. A cet effet, il doit obtenir l'accord de l'employeur externe ainsi que d'un médecin qui contrôle les absences pour motif de santé pour le compte de cet employeur.
+
+Sauf en ce qui concerne les compétences du chef de corps et du conseiller en prévention-médecin du travail compétent pour l'unité du militaire concerné qui sont transmises respectivement à l'autorité hiérarchique désignée conformément à l'article 156/4, alinéa 3, et au service de médecine du travail ou au médecin du travail qui assiste l'employeur externe, la procédure devant la commission d'aptitude et de réforme ou la commission militaire d'aptitude et de réforme d'appel reste applicable au militaire utilisé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 229, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 156/4
+
+[<sup>1</sup> Le chef hiérarchique d'un militaire utilisé qui occupe chez l'employeur externe un rang qui est au moins équivalent à celui de chef de corps, est compétent pour introduire une proposition qui introduit la procédure qui, en application du statut du militaire concerné et sur la décision de l'autorité qui, selon ce statut, est compétente à cet effet, peut mener à :
+
+1° le retrait temporaire d'emploi par mesure disciplinaire du militaire concerné;
+
+2° la suspension par mesure d'ordre;
+
+3° la démission d'office;
+
+4° la retenue sur le traitement.
+
+Lors de l'application des procédures visées à l'alinéa 1er, 1° et 3°, l'avis d'une chambre de recours, d'un conseil de discipline ou d'un organe similaire, doit être demandé conformément aux règles applicables au personnel de l'employeur externe.
+
+L'autorité qui, chez l'employeur externe du militaire concerné, est investie d'un rang équivalent à celui de chef de corps, est expressément désignée dans l'accord visé à l'article 153, § 2, alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 230, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 156/5
+
+[<sup>1</sup> Le militaire en utilisation doit respecter les conditions de travail imposées chez l'employeur externe, et notamment les devoirs, les incompatibilités, les horaires de travail, le régime des congés, ainsi que les règles qui imposent une obligation de résidence ou instaurent un contrôle médical en cas d'absence pour motifs de santé.
+
+Les militaires utilisés conservent leur droit au congé de fin de carrière.
+
+Le militaire en utilisation qui, sans motif valable, néglige ou refuse d'assumer la fonction qui lui est assignée, est, après une absence de dix jours, considéré comme démissionnaire auprès de l'employeur externe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 231, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 156/6
+
+[<sup>1</sup> Pendant leur utilisation, les militaires sont soumis aux règles concernant l'appréciation ou l'évaluation qui sont applicables aux membres du personnel de son employeur externe.
+
+Pour l'octroi de distinctions honorifiques, ils restent soumis aux règles d'appréciation et d'octroi qui sont applicables dans les Forces armées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 232, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 156/7
+
+[<sup>1</sup> Sauf lorsqu'il en est disposé autrement dans la présente section, toutes les dispositions législatives et réglementaires applicables au militaire au début de son utilisation, ainsi que les modifications éventuelles que ces dispositions subiraient, restent applicables au militaire pendant son utilisation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 233, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 156/8
+
+[<sup>1</sup> Les militaires utilisés sont soumis au pouvoir hiérarchique, tel qu'il s'exerce réglementairement chez leur employeur externe à l'égard des autres titulaires des fonctions qu'ils assument.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 234, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 156/9
+
+[<sup>1</sup> Les militaires utilisés par un employeur externe peuvent, conformément à la réglementation en vigueur chez l'employeur externe, s'y voir appliquer un rappel à l'ordre, une réprimande ou un blâme, ou une sanction assimilée qui est d'application chez l'employeur externe.
+
+Si l'intéressé s'est rendu coupable d'une faute grave justifiant l'application d'une sanction plus sévère, l'autorité hiérarchique désignée conformément à l'article 156/4, alinéa 3, introduit une proposition menant à une des procédures visées à l'article 156/4, alinéas 1er et 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 235, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 156/10
+
+[<sup>1</sup> Les articles 5 à 8, 10bis à 12, 14bis, 21 à 39 et 41 à 44, de la loi du 14 janvier 1975 portant le règlement de discipline des Forces armées, et les articles 175 et 176 de la présente loi, ne sont pas applicables aux militaires pendant leur période d'utilisation, sauf :
+
+1° lorsqu'ils exercent à nouveau leur emploi au sein des Forces armées conformément à l'article 156/1;
+
+2° ou pour l'application des procédures en vue de l'exécution des mesures visées aux articles 156/3, alinéa 2 et 156/4.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 236, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 156/11
+
+[<sup>1</sup> Sauf lorsqu'ils exercent à nouveau leur emploi au sein des Forces armées conformément à l'article 156/1 ou pour l'application des procédures en vue de l'exécution des mesures visées aux articles 156/3, alinéa 2, et 156/4, le Code Pénal Militaire n'est pas applicable aux actes posés par les militaires pendant leur période d'utilisation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 237, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 156/12
+
+[<sup>1</sup> Sans préjudice des dispositions de la présente section, les dispositions relatives à la sécurité sociale des militaires du cadre actif sont applicables aux militaires utilisés.
+
+Pour l'établissement de leur pension, ils sont réputés avoir été rémunérés par la Défense et y avoir presté leurs services.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 238, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 156/13
+
+[<sup>1</sup> Sans préjudice de l'application de l'article 156/14, le statut pécuniaire militaire reste applicable aux militaires en utilisation. La liquidation et le paiement des droits pécuniaires restent assurés par la Défense.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 239, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 156/14
+
+[<sup>1</sup> Les militaires en utilisation bénéficient des mêmes allocations et indemnités de la part de l'employeur externe que celles qui sont octroyées aux autres membres du personnel de l'employeur externe et qui sont liées à la fonction occupée ou aux conditions de travail.
+
+Les allocations et indemnités visées au premier alinéa sont intégralement à charge de l'employeur externe et sont payées par lui.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 240, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 156/15
+
+[<sup>1</sup> Par charge salariale au sens de la présente section, il faut entendre :
+
+1° le traitement, en ce inclus les augmentations intercalaires, les augmentations dues aux fluctuations de l'index des prix à la consommation et les bonifications de traitement et les révisions des échelles de traitement;
+
+2° l'allocation de foyer ou de résidence;
+
+3° le pécule de vacances;
+
+4° l'allocation de fin d'année;
+
+5° les allocations fixées par le Roi.
+
+La charge salariale des militaires en utilisation est prise en charge à cent pour cent par l'employeur externe.
+
+La Défense prend à sa charge le montant total des charges salariales pendant la période de congé de fin de carrière du militaire en utilisation.
+
+La partie des charges salariales visée au présent article qui n'est pas à charge de la Défense est portée trimestriellement en compte à l'employeur externe.
+
+L'employeur externe rembourse la Défense dans les quarante-cinq jours après la réception de la facture.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 241, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+#### Section 3. - Le transfert vers un employeur public.
+
+###### Art. 157
+
+[<sup>1</sup> Le processus de transfert vers un employeur public comprend :
+
+1° une phase de sélection pendant laquelle le militaire participe à la sélection organisée par l'employeur public concerné;
+
+2° [<sup>2</sup> le cas échéant,]<sup>2</sup> une phase de mise à disposition;
+
+3° le transfert.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 242, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+(2)&lt;L 2017-11-12/07, art. 50, 016; En vigueur : 01-01-2018&gt;
+
+###### Art. 158
+
+[<sup>1</sup> A leur demande, des militaires peuvent être transférés en tant qu'agent statutaire vers les emplois vacants ouverts par les employeurs, à condition :
+
+1° que leur candidature soit agréée;
+
+2° d'être, à la date du début des épreuves de sélection, en service actif;
+
+3° de ne pas avoir été en retrait temporaire d'emploi à la demande, sauf pour raisons familiales, pendant la période de douze mois préalable à la date à laquelle leur mise à disposition prend cours [<sup>3</sup> , ou à la date du transfert lorsqu'il n'y a pas de mise à disposition]<sup>3</sup>;
+
+4° de ne pas occuper, à la date à laquelle leur mise à disposition prend cours, [<sup>3</sup> , ou à la date du transfert lorsqu'il n'y a pas de mise à disposition]<sup>3</sup> une fonction dont la rémunération n'est pas supportée par le budget de la Défense;
+
+5° de se trouver, à la date à laquelle leur mise à disposition prend cours, [<sup>3</sup> , ou à la date du transfert lorsqu'il n'y a pas de mise à disposition,]<sup>3</sup> à plus d'un an de la date normale de mise à la pension;
+
+6° de compter, à la date à laquelle leur mise à disposition prend cours, [<sup>3</sup> , ou à la date du transfert lorsqu'il n'y a pas de mise à disposition,]<sup>3</sup> au moins le nombre d'années d'ancienneté de service comme militaire du cadre actif fixé par le Roi, sans que celui-ci puisse être inférieur à quinze ans;
+
+7° à la date à laquelle leur mise à disposition prend cours, [<sup>3</sup> , ou à la date du transfert lorsqu'il n'y a pas de mise à disposition,]<sup>3</sup> ainsi que pendant la période de douze mois préalable à cette date :
+
+a) de ne pas déjà être sélectionnés par un employeur public dans le cadre d'un transfert;
+
+b) de ne pas déjà être sélectionnés par un employeur externe dans le cadre d'une utilisation;
+
+c) de ne pas déjà être mis à disposition d'un employeur public dans le cadre d'un transfert;
+
+d) de ne pas déjà être utilisés;
+
+8° de ne pas se trouver, à la date à laquelle leur mise à disposition prend cours, [<sup>3</sup> ou à la date du transfert lorsqu'il n'y a pas de mise à disposition,]<sup>3</sup> dans une période de rendement visée à l'article 179;
+
+9° de ne pas se trouver, à la date du début des épreuves de sélection, dans une des formes d'engagement opérationnel que le Roi fixe, et de ne pas faire effectivement partie d'un détachement qui se prépare en vue d'un tel engagement;
+
+10° de ne pas être, à la date à laquelle leur mise à disposition prend cours, [<sup>3</sup> ou à la date du transfert lorsqu'il n'y a pas de mise à disposition,]<sup>3</sup> affectés dans un organisme international ou interallié;
+
+11° [<sup>4</sup> ...]<sup>4</sup>
+
+12° de ne pas être, à la date du début des épreuves de sélection, en suspension volontaire des prestations;
+
+13° de ne pas exercer, à la date à laquelle leur mise à disposition prend cours, [<sup>3</sup> ou à la date du transfert lorsqu'il n'y a pas de mise à disposition,]<sup>3</sup> un poste nécessitant un profil de compétences spécifique et rare.
+
+Le Roi fixe les postes visés à l'alinéa 1er, 13°, par catégorie de personnel, et éventuellement par sous-catégorie de personnel.
+
+Le militaire visé à l'alinéa 1er, 13°, peut introduire une demande pour des raisons personnelles exceptionnelles motivées auprès de l'autorité que le Roi désigne, afin d'entrer en ligne de compte pour un transfert. Un refus peut faire l'objet d'un recours [<sup>2</sup> auprès de l'autorité désignée par le Roi]<sup>2</sup>.
+
+En fonction des besoins d'encadrement, la candidature d'un militaire qui satisfait aux conditions visées à l'alinéa 1er peut être refusée par l'autorité que le Roi désigne, afin de garantir le bon fonctionnement et la continuité des Forces armées. Ce refus peut faire l'objet d'un recours [<sup>2</sup> auprès de l'autorité désignée par le Roi]<sup>2</sup>.
+
+Pour l'application de l'alinéa 1er, la date normale de mise à la pension est la date de mise à la pension par limite d'âge sur la base de la législation et de la réglementation en vigueur à la date où la mise à disposition prend cours [<sup>3</sup> ou à la date du transfert lorsqu'il n'y a pas de mise à disposition]<sup>3</sup>.
+
+Si une procédure de comparution devant la commission militaire d'aptitude et de réforme ou devant la commission militaire d'aptitude et de réforme d'appel a été entamée, cette procédure est suspendue aussi longtemps que le militaire est mis à disposition. Si le militaire est transféré, la procédure est terminée de plein droit.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 243, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 36, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2017-11-12/07, art. 51, 016; En vigueur : 01-01-2018&gt;
+
+(4)&lt;L 2019-05-20/07, art. 3, 020; En vigueur : 21-06-2019&gt;
+
+###### Art. 159
+
+L'employeur public peut fixer des critères auxquels un militaire doit satisfaire pour être sélectionné.
+
+[<sup>1</sup> Le militaire est mis à disposition de l'employeur public au plus tôt le premier jour du mois et au plus tard le premier jour du sixième mois qui suit la date de la sélection favorable du militaire, moyennant accord conjoint de l'employeur public et de la Défense tout en visant le délai le plus court. La mise à disposition prend toujours effet le premier jour d'un mois.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 244, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 160
+
+[<sup>1</sup> Lorsque le militaire accomplit des prestations dans le régime de travail volontaire de la semaine de quatre jours [<sup>2</sup> ou dans le régime du départ anticipé à mi-temps]<sup>2</sup>, il est mis fin à ce régime.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 245, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+(2)&lt;L 2019-05-20/07, art. 4, 020; En vigueur : 21-06-2019&gt;
+
+###### Art. 161
+
+La mise à disposition [<sup>1</sup> , qui ne peut excéder un an,]<sup>1</sup> et le transfert du militaire font l'objet d'un accord entre [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> et l'employeur public concerné. Le militaire reçoit un exemplaire du document, qu'il doit signer pour accord.
+
+Cet accord, établi à partir d'un modèle-type approuvé par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup>, comprend notamment :
+
+1° la durée de la phase de mise à disposition;
+
+2° la fixation du grade, du niveau et de la table de traitement applicable au personnel de l'employeur public, dont sera revêtu le militaire le jour de son transfert;
+
+3° la fixation du régime de travail;
+
+4° (la durée et le contenu de la formation et du stage éventuels); &lt;Erratum, M.B. 12.09.2007, p 48328&gt;
+
+5° les règles relatives à la prise en charge des coûts de la mise à disposition, en ce compris les coûts de formation et de stage éventuels;
+
+6° l'autorité qui, chez l'employeur public du militaire mis à disposition, est investie d'un rang équivalent à celui de chef de corps;
+
+7° les règles relatives à la prise en charge, cotisations patronales comprises, du traitement, des allocations, des indemnités, des primes, des avantages de toute nature, des avantages sociaux et des allocations familiales des militaires mis à disposition sans que la prise en charge par le budget de la Défense n'excède toutefois [<sup>1</sup> le terme d'un an]<sup>1</sup>;
+
+8° les avantages pécuniaires que l'employeur public octroie au militaire, en application du statut propre au dit employeur public;
+
+9° une liste de l'équipement qui sera mis gratuitement à disposition ou dont le militaire lui-même devra se pourvoir;
+
+10° la procédure et les critères d'évaluation applicables durant la formation et le stage éventuels;
+
+11° les règles relatives a la responsabilité civile de l'employeur public;
+
+12° la date de transfert;
+
+13° la procédure de transfert.
+
+Une copie du règlement de travail et des statuts applicables aux membres du personnel statutaire de l'employeur public est remise au militaire mis à disposition.
+
+[<sup>1</sup> La durée d'un an visée à l'alinéa 1er est prolongée de plein droit de la durée du congé relatif à la protection de la maternité, du congé de paternité, du congé parental, du congé d'accueil ou du congé d'adoption.
+
+La durée d'un an visée à l'alinéa 1er peut être prolongée de trois mois en cas d'échec dans la formation, moyennant l'autorisation [<sup>2</sup> de l'autorité désignée par le Roi]<sup>2</sup>.
+
+Si l'intéressé peut démontrer des cas exceptionnels expressément motivés, [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> peut toutefois déroger à ce délai.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 246, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 37, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 162
+
+[<sup>1</sup> Pendant la période de mise à disposition, le militaire est en service actif.
+
+Il exerce l'emploi en dehors des Forces armées et en vertu d'ordres de service émanant de l'employeur public.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 247, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 162/1
+
+[<sup>1</sup> Les articles 156, 156/2, 156/3, 156/4, alinéas 1er et 2, 156/5, alinéas 1er et 3, 156/6, 156/8, 156/9, 156/10, 156/11 et 156/12 sont applicables au militaire mis à disposition d'un employeur public.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 248, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 162/2
+
+[<sup>1</sup> Sauf lorsqu'il en est disposé autrement dans la présente section, toutes les dispositions légales et réglementaires relatives au statut des militaires du cadre actif restent applicables aux militaires mis à disposition d'un employeur public, selon la catégorie de personnel à laquelle ils appartiennent.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 249, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 162/3
+
+[<sup>1</sup> [<sup>2</sup> L'autorité désignée par le Roi]<sup>2</sup> prononce, le cas échéant, le transfert du militaire mis à disposition conformément aux conditions prévues dans l'accord visé à l'article 161.
+
+Le jour du transfert, le militaire :
+
+1° cesse de faire partie des Forces armées et perd la qualité de militaire du cadre actif;
+
+2° acquiert la qualité de membre du personnel statutaire auprès de son employeur public;
+
+3° n'est plus rémunéré par la Défense.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 250, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 38, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 162/4
+
+[<sup>1</sup> Les dispositions de la loi du 16 mai 2001 portant statut des militaires du cadre de réserve des Forces armées sont applicables au militaire qui a quitté le cadre actif par la voie d'un transfert.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 251, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+#### Section 4. - La reconversion professionnelle.
+
+###### Art. 163
+
+[<sup>1</sup> La reconversion professionnelle est le processus qui permet au militaire de quitter la Défense par voie de démission volontaire et de chercher un emploi auprès d'un nouvel employeur ou de développer une activité professionnelle en tant qu'indépendant avec l'aide, à la demande de la Défense, des services et des conseils de guidance qui sont fournis individuellement ou en groupe par un tiers, dénommé ci-après "bureau de reconversion professionnelle".]<sup>1</sup>
+
+Le bureau de reconversion professionnelle est le service chargé de cette mission au sein de la Défense ou, à défaut, la personne physique, la personne morale privée ou publique ou encore l'institution ou l'organisme de droit public qui fournit l'appui à la reconversion professionnelle.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 252, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 163/1
+
+[<sup>1</sup> Les sous-officiers et volontaires du cadre actif peuvent bénéficier d'une reconversion professionnelle, à condition :
+
+1° que leur candidature soit agréée;
+
+2° d'être, à la date à laquelle leur phase d'orientation prend cours, en service actif;
+
+3° de ne pas avoir été en retrait temporaire d'emploi à leur demande sauf pour raisons familiales, pendant la période de douze mois préalable à la date à laquelle leur phase d'orientation prend cours;
+
+4° de ne pas occuper, à la date à laquelle leur phase d'orientation prend cours, une fonction dont la rémunération n'est pas supportée par le budget de la Défense;
+
+5° de se trouver, à la date à laquelle leur phase d'orientation prend cours, à plus d'un an de la date normale de mise à la pension;
+
+6° de compter, à la date à laquelle leur phase d'orientation prend cours, au moins le nombre d'années d'ancienneté de service comme militaire du cadre actif fixé par le Roi, sans que celui-ci puisse être moins de quinze ans;
+
+7° à la date à laquelle leur phase d'orientation prend cours, ainsi que pendant la période de douze mois préalable à cette date :
+
+a) de ne pas déjà être sélectionnés par un employeur public dans le cadre d'un transfert;
+
+b) de ne pas déjà être sélectionnés par un employeur externe dans le cadre d'une utilisation;
+
+c) de ne pas déjà être mis à disposition d'un employeur public dans le cadre d'un transfert;
+
+d) de ne pas déjà être utilisés;
+
+8° de ne pas se trouver, à la date à laquelle leur phase d'orientation prend cours, dans une période de rendement en application de l'article 179;
+
+9° de ne pas se trouver, à la date à laquelle leur phase d'orientation prend cours, dans une des formes d'engagement opérationnel que le Roi fixe, et de ne pas être mis sur préavis en vue d'un tel engagement;
+
+10° de ne pas être, à la date à laquelle leur phase d'orientation prend cours, affectés dans un organisme international ou interallié;
+
+11° [<sup>3</sup> ...]<sup>3</sup>
+
+12° de ne pas être, à la date à laquelle leur phase d'orientation prend cours, en suspension volontaire des prestations;
+
+13° de ne pas exercer, à la date à laquelle leur phase d'orientation prend cours, un poste nécessitant un profil de compétences spécifique et rare.
+
+Le Roi fixe les postes visés à l'alinéa 1er, 13°, par catégorie de personnel, et éventuellement par sous-catégorie de personnel.
+
+Le militaire visé à l'alinéa 1er, 13°, peut toutefois introduire une demande pour des raisons personnelles exceptionnelles motivées auprès de l'autorité que le Roi désigne, afin d'entrer en ligne de compte pour une reconversion professionnelle. Un refus peut faire l'objet d'un recours [<sup>2</sup> auprès de l'autorité désignée par le Roi]<sup>2</sup>.
+
+En fonction des besoins d'encadrement, la candidature d'un militaire qui satisfait aux conditions visées à l'alinéa 1er peut être refusée par l'autorité que le Roi désigne, afin de garantir le bon fonctionnement et la continuité des Forces armées. Ce refus peut faire l'objet d'un recours [<sup>2</sup> auprès de l'autorité désignée par le Roi]<sup>2</sup>.
+
+Pour l'application de l'alinéa 1er, la date normale de mise à la pension est la date de mise à la pension par limite d'âge sur la base de la législation et de la réglementation en vigueur à la date où la phase d'orientation prend cours.
+
+Si une procédure de comparution devant la commission militaire d'aptitude et de réforme ou devant la commission militaire d'aptitude et de réforme d'appel a été entamée, cette procédure est suspendue tant que le militaire se trouve dans la phase d'orientation. Si le militaire passe dans la phase de reclassement, la procédure est terminée de plein droit.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 253, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 39, 008; En vigueur : 24-04-2014&gt;
+
+(3)&lt;L 2019-05-20/07, art. 5, 020; En vigueur : 21-06-2019&gt;
+
+###### Art. 164
+
+[<sup>1</sup> Le programme de la reconversion professionnelle comprend trois phases successives constituant une session de reconversion professionnelle. Ces phases sont :
+
+1° la phase d'information;
+
+2° la phase d'orientation;
+
+3° la phase de reclassement.
+
+[<sup>2</sup> L'autorité désignée par le Roi]<sup>2</sup> fixe le nombre annuel de sessions de reconversion professionnelle ainsi que la date de début de chaque session.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 254, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 40, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 165
+
+[<sup>1</sup> La phase d'information comprend, dans l'ordre suivant :
+
+1° une séance d'information collective, organisée par la Défense en collaboration avec le bureau de reconversion professionnelle, à la suite de laquelle les participants peuvent introduire une candidature pour une démission accompagnée d'un programme de reconversion professionnelle;
+
+2° pour les militaires dont la candidature est agréée, une évaluation individuelle, organisée par le bureau de reconversion professionnelle, afin de permettre aux candidats d'apprécier leur motivation et leurs chances de retrouver du travail.
+
+La phase d'information débute le jour de la séance d'information collective visée à l'alinéa 1er, 1°, et dure maximum trois mois.
+
+La candidature visée à l'alinéa 1er, 1°, doit être introduite dans les deux semaines qui suivent la séance d'information collective.
+
+La phase d'information prend fin, selon le cas :
+
+1° dès le passage à la phase d'orientation;
+
+2° à la demande du militaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 255, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 166
+
+La phase d'orientation comprend des activités organisées par le bureau de reconversion professionnelle afin d'établir le bilan des capacités du militaire et de ses possibilités de reconversion professionnelle.
+
+[<sup>1</sup> L'autorité désignée par le Roi détermine la date de début de la phase d'orientation. Celle-ci débute toujours le premier jour ouvrable d'un mois, au plus tôt le premier jour ouvrable du mois qui suit la fin de la phase d'information, au plus tard le premier jour ouvrable du troisième mois qui suit la fin de la phase d'information.]<sup>1</sup>
+
+[<sup>1</sup> La phase d'orientation dure de un à trois mois. La durée concrète est fixée par le Roi.]<sup>1</sup>
+
+La phase d'orientation prend fin, selon le cas :
+
+1° dès que le militaire entame une nouvelle activité professionnelle sauf si celle-ci est exercée en cumul avec les activités de la reconversion professionnelle;
+
+2° dès le passage à la phase de [<sup>1</sup> reclassement]<sup>1</sup> de la reconversion professionnelle;
+
+3° à la demande du militaire;
+
+[<sup>1</sup> 4° dès que le militaire demande que sa démission prenne effet immédiatement et pour autant que sa démission soit acceptée.]<sup>1</sup>
+
+Un congé d'orientation est automatiquement octroyé au militaire au début de la phase d'orientation et prend automatiquement fin à la fin de cette phase.
+
+[<sup>1</sup> Le militaire qui a interrompu la phase d'orientation à sa propre demande comme visé à l'alinéa 4, 3°, ne peut introduire qu'une seule nouvelle candidature pour une reconversion professionnelle, dans la mesure où une nouvelle session est programmée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 256, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 167
+
+[<sup>1</sup> § 1er. La phase de reclassement comprend des activités organisées par le bureau de reconversion professionnelle afin d'assister le militaire dans sa recherche d'une nouvelle activité professionnelle.
+
+§ 2. La phase de reclassement débute automatiquement à la fin de la phase d'orientation.
+
+§ 3. A partir de cette date, l'acceptation de la candidature pour une démission accompagnée d'un programme de reconversion professionnelle visée à l'article 165, alinéa 1er, 1°, est irrévocable.
+
+§ 4. La durée maximale de la phase de reclassement est comprise entre cinq et vingt-trois mois. La durée concrète est fixée par le Roi.
+
+Toutefois, en cas d'absence pour motif de santé d'une durée supérieure à trois mois ou pour des raisons sociales dont le caractère exceptionnel est apprécié par [<sup>2</sup> elle]<sup>2</sup>, [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> peut :
+
+1° prolonger la phase de reclassement d'une durée égale à la durée de l'absence pour motif de santé, avec un maximum de six mois;
+
+2° annuler la démission.
+
+§ 5. La phase de reclassement prend fin dans un des cas suivants :
+
+1° dès que le militaire entame une nouvelle activité professionnelle, sauf si celle-ci est exercée en cumul avec les activités de la reconversion professionnelle;
+
+2° dès que le militaire demande que sa démission prenne effet immédiatement et pour autant que sa démission soit acceptée;
+
+3° à la fin de la durée fixée au paragraphe 4, alinéa 1er, éventuellement prolongée de la durée visée au paragraphe 4, alinéa 2, 1° ;
+
+4° à la date de l'annulation de la démission visée au paragraphe 4, alinéa 2, 2°.
+
+§ 6. Un congé de reclassement est automatiquement octroyé au militaire au début de la phase de reclassement et s'achève automatiquement à la fin de cette phase.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 257, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 41, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 168
+
+[<sup>1</sup> La date à laquelle le militaire entame une nouvelle activité professionnelle, visée aux articles 166, alinéa 4, 1°, et 167, § 5, 1°, correspond, selon le cas, à la date à laquelle il :
+
+1° conclut en tant que salarié un contrat de travail à durée indéterminée, déterminée ou un contrat équivalent;
+
+2° prouve, par un document officiel, qu'il exerce une activité de travailleur indépendant à titre principal;
+
+3° est agréé comme fonctionnaire dans un service public, en stage ou non.
+
+La démission accompagnée d'une reconversion professionnelle prend effet à la date à laquelle la reconversion professionnelle prend fin dans les cas visés à l'article 166, alinéa 4, 1° et 4°, et à l'article 167, § 5, 1° à 3°.
+
+La démission accompagnée d'une reconversion professionnelle est assimilée à une démission acceptée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 258, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 169
+
+Le programme de reconversion professionnelle prend automatiquement fin sans préavis :
+
+1° en période de guerre;
+
+2° en cas de mobilisation.
+
+[<sup>1</sup> Pour les militaires qui se trouvent dans la phase d'information et d'orientation du programme de reconversion professionnelle, ce programme prend automatiquement fin sans préavis lorsque la période de crise est décrétée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 259, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 170
+
+[<sup>1</sup> Le militaire qui quitte le cadre actif par voie de démission accompagnée d'une reconversion professionnelle perçoit une prime de reclassement.
+
+Le montant de la prime de reclassement correspond à :
+
+1° douze fois le dernier traitement mensuel brut du militaire, si la démission prend effet pendant la phase d'orientation;
+
+2° un montant qui, additionné à la somme des traitements bruts dus pendant la phase de reclassement, égale douze fois le dernier traitement mensuel brut du militaire, si la démission prend effet pendant la phase de reclassement;
+
+3° une fois le dernier traitement mensuel brut du militaire, si la démission prend effet après le onzième mois de la phase de reclassement.
+
+Les traitements visés à l'alinéa 2 comprennent, le cas échéant, les allocations ayant le caractère d'un accessoire du traitement. Les allocations à prendre en considération sont fixées par le Roi.
+
+La prime de reclassement est payée le premier jour du mois suivant le mois au cours duquel la démission prend effet.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 260, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 170/1
+
+[<sup>1</sup> Le militaire qui a introduit une demande pour une démission accompagnée d'une reconversion professionnelle ne peut pas bénéficier des dispositions visées à l'article 52, § 4, alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 261, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 170/2
+
+[<sup>1</sup> Le militaire qui a quitté le cadre actif par la voie de la démission accompagnée d'une reconversion professionnelle ne peut pas être réintégré dans le cadre actif comme visé à l'article 53, alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 262, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 170/3
+
+[<sup>1</sup> Les dispositions de la loi du 16 mai 2001 portant statut des militaires du cadre de réserve des Forces armées sont applicables au militaire qui a quitté le cadre actif par la voie de la démission accompagnée d'une reconversion professionnelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 263, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+## TITRE VI. - Des droits et devoirs des militaires.
+
+#### Section Ire. - Généralités.
+
+###### Art. 171
+
+Les militaires doivent, en toutes circonstances :
+
+1° servir le pays avec conscience et courage, au besoin au péril de leur vie;
+
+2° accomplir consciencieusement toutes les obligations de service qui leur sont imposées par le droit international, la Constitution, les dispositions législatives ou réglementaires ainsi que par les règlements, instructions et ordres qui sont applicables aux Forces armées;
+
+3° être respectueux des institutions de droit international public, du chef de l'Etat, des pouvoirs constitutionnels et des institutions de l'Etat;
+
+4° [<sup>1</sup> éviter tout ce qui peut]<sup>1</sup> compromettre l'honneur ou la dignité de leur état et de leur fonction;
+
+5° s'abstenir de se livrer à toute activité qui est en opposition avec le droit international, la Constitution et les lois du peuple belge.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 264, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 172
+
+§ 1er. Les militaires ne peuvent se livrer à des activités politiques au sein de la Défense.
+
+Les militaires peuvent s'affilier au parti politique de leur choix et y exercer les droits afférents à leur qualité de membre.
+
+Ils peuvent y remplir les fonctions d'expert, de conseiller ou de membre d'un centre d'étude.
+
+Toute autre participation active ou publique à la vie politique à un autre titre leur est interdite, même en dehors des périodes pendant lesquelles des prestations au sein des Forces armées sont fournies.
+
+§ 2. [<sup>1</sup> § 2. Toutefois, sans préjudice de l'application des incompatibilités prévues dans des lois particulières, les militaires du cadre actif qui satisfont aux conditions fixées à l'article 173, alinéa 1er, peuvent se porter candidat aux élections des conseils de district, aux élections communales et aux élections provinciales. Ils peuvent exercer tous les mandats politiques exécutifs et non exécutifs relatifs à ces niveaux de pouvoir.]<sup>1</sup>
+
+[<sup>1</sup> § 2/1. Sans préjudice de l'application d'autres lois qui régissent l'exercice d'activités et de mandats politiques, les militaires du cadre de réserve sont toutefois autorisés à exercer des activités et des mandats politiques pour autant que le service le permette et qu'ils aient lieu en dehors des périodes de prestations au sein des Forces armées.]<sup>1</sup>
+
+§ 3. Les militaires doivent s'abstenir de toute activité politique durant les heures de service. Ils doivent toujours s'abstenir dans le cadre de leur activité politique de porter la tenue militaire et de faire état de leur qualité militaire. Ils peuvent néanmoins mentionner leur profession, comme reprise au registre national des personnes physiques.
+
+----------
+
+(1)&lt;L 2017-11-19/02, art. 2, 015; En vigueur : 08-12-2017&gt;
+
+###### Art. 173
+
+Les conditions visées à l'article 172, § 2, sont les suivantes :
+
+1° au plus tôt le douzième mois précédant les élections et [<sup>1</sup> ...]<sup>1</sup> avoir informé [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> de l'intention de se porter candidat;
+
+2° ne pas être en [<sup>1</sup> période de candidature]<sup>1</sup>.
+
+La déclaration d'intention de se porter candidat visée à l'alinéa 1er, 1°, doit être envoyée [<sup>2</sup> à l'autorité désignée par le Roi]<sup>2</sup> par [<sup>1</sup> envoi recommandé]<sup>1</sup>.
+
+L'engagement politique du militaire, ne peut pas avoir pour conséquence que l'intéressé ne respecte plus les devoirs militaires, visés à l'article 171, ou prenne une position contraire aux droits et libertés garantis par la Convention de sauvegarde des droits de l'homme et des libertés fondamentales du 4 novembre 1950, approuvée par la loi du 13 mai 1955, et par les protocoles additionnels à cette Convention en vigueur en Belgique.
+
+Le fait qu'un militaire, dans le cadre de son engagement politique, ne respecte pas ses devoirs militaires, visés à l'article 171, ou prenne une position contraire aux droits et libertés garantis par la Convention de sauvegarde des droits de l'homme et des libertés fondamentales du 4 novembre 1950, approuvée par la loi du 13 mai 1955, et par les protocoles additionnels à cette Convention en vigueur en Belgique, est considéré comme un fait grave incompatible avec son état de militaire, et peut dès lors conduire à la prise de mesures statutaires conformément aux dispositions en vigueur pour la catégorie de personnel du militaire concerné.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 265, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 42, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 174
+
+[<sup>1</sup> Les dispositions de la loi du 18 septembre 1986 instituant le congé politique pour les membres du personnel des services publics, en ce qui concerne l'octroi de la dispense de service, du congé facultatif et du congé politique d'office, à mi-temps ou à plein temps, sont applicables aux militaires dans le cadre de l'exercice d'un mandat visé à l'article 172, § 2, pour autant que ces dispositions ne soient pas incompatibles avec celles de la présente loi.
+
+L'exercice, par un militaire en congé politique facultatif, de l'un des mandats visés à l'article 172, § 2, ne peut jamais avoir pour conséquence que le militaire concerné ne puisse participer aux activités dans le cadre de la mise en condition ou de la mise en oeuvre des Forces armées.
+
+§ 2. Le militaire n'a droit ni au congé facultatif ni à la dispense de service mais est mis en congé politique d'office pour les mandats visés à l'article 172, § 2, s'il exerce l'une des fonctions suivantes:
+
+1° une fonction de commandement;
+
+2° une fonction à bord d'une unité navigante belge ou étrangère;
+
+3° une fonction dans un organisme international ou interallié;
+
+4° une fonction d'instructeur.
+
+Le Roi précise comment est prise la décision de savoir si le militaire exerce l'une des fonctions visées dans le présent paragraphe. Cette décision est définitive et n'est susceptible d'aucun recours administratif.
+
+§ 3. Le congé politique d'office prend cours à la date de la prestation de serment.
+
+§ 4. Pour l'application du paragraphe 1er, le nombre d'habitants est déterminé conformément aux dispositions de la Nouvelle loi communale.
+
+§ 5. Le militaire qui, selon le cas, est visé au § 2 et est en congé politique d'office, ou a été mis en congé politique d'office à temps plein en application des dispositions de la loi du 18 septembre 1986 instituant le congé politique pour les membres du personnel des services publics, se trouve durant cette période dans la position "en non-activité", visée à l'article 189.
+
+Dès que le congé politique d'office a pris fin, le militaire est repris en service actif avec le grade et l'ancienneté dans ce grade, dont il était titulaire au début du congé politique.
+
+§ 6. Les périodes couvertes par un congé politique facultatif ou par un congé politique d'office ne sont pas rémunérées.
+
+Le congé politique expire au plus tard le dernier jour du mois au cours duquel le mandat prend fin.
+
+Le congé politique prend fin de plein droit:
+
+1° lorsque la mobilisation est décrétée;
+
+2° lorsque la période de guerre est décrétée;
+
+3° dans le cas où des circonstances exceptionnelles l'exigent, par décision du Conseil des ministres.
+
+Le Roi fixe les modalités du congé politique, notamment en ce qui concerne la procédure de demande.
+
+§ 7. Les dispositions du présent article relatives au congé politique ne s'appliquent pas aux militaires en suspension volontaire des prestations, visés au titre 7, chapitre 4, de la loi du 22 décembre 2008 portant des dispositions diverses]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-11-19/02, art. 3, 015; En vigueur : 08-12-2017&gt;
+
+###### Art. 175
+
+Toute forme de grève est interdite aux militaires.
+
+###### Art. 176
+
+§ 1er. Sans préjudice des incompatibilités prévues par les lois particulières, les militaires ne peuvent exercer ni par eux-mêmes ni par personnes interposées, d'autres emplois, profession ou occupation publics ou privés, sauf s'ils les exercent gratuitement.
+
+Ils ne peuvent en outre accepter aucun mandat ni prêter aucun service même gratuit dans les entreprises à but lucratif.
+
+§ 2. Des dérogations particulières peuvent être accordées par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> :
+
+1° dans les cas d'emplois, professions ou occupations accessoires d'intérêt public se rapportant à l'enseignement ou exigeant des aptitudes ou des connaissances spéciales;
+
+2° dans les cas d'emplois, professions ou occupations accessoires ne compromettant pas l'intérêt général du service.
+
+L'autorisation doit être préalable. Elle est toujours révocable.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+§ 3. Le présent article ne s'applique pas aux militaires ayant obtenu un retrait temporaire d'emploi pour convenances personnelles, aux militaires qui sont en congé exceptionnel ou de reclassement, et aux militaires lors de l'exercice de leurs droits, visés à l'article 172, § 2.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 267, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 44, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 177
+
+Sans préjudice de l'application des dispositions de l'article 94, le militaire a droit, annuellement, à des congés dont le Roi fixe la nature, le nombre et les modalités d'octroi.
+
+Le nombre précité ne peut être inférieur à trente jours ouvrables par an.
+
+###### Art. 178
+
+[<sup>1</sup> Toute décision administrative est notifiée par écrit au militaire, au candidat militaire ou au postulant concerné.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 268, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 178/1
+
+[<sup>1</sup> § 1er. Toute décision prise par une instance collégiale est prise à la majorité absolue des voix. Les membres de cette instance ne peuvent pas s'abstenir. En cas de parité des voix, celle du président est prépondérante. Le secrétaire n'a pas le droit de vote.
+
+§ 2. Lorsqu'une instance collégiale est saisie, le concerné peut demander la récusation de tout membre de cette instance, s'il estime qu'il existe une suspicion légitime à l'égard d'un membre.
+
+Doit demander sa récusation tout membre d'une instance :
+
+1° qui est le conjoint ou cohabitant légal, ou un parent ou allié jusqu'au quatrième degré du concerné;
+
+2° qui estime qu'il ne peut apprécier le concerné en toute impartialité.
+
+La cause de récusation est motivée par une preuve ou un commencement de preuve et est envoyée par tout moyen de communication écrite avec accusé de réception à l'autorité compétente pour se prononcer sur la demande de récusation ou à l'autorité que le Roi désigne.
+
+L'autorité compétente pour se prononcer sur la demande de récusation est :
+
+1° le président de l'instance compétente si la cause de récusation concerne un membre de cette instance;
+
+2° l'autorité compétente pour désigner les membres, ou, le cas échéant, l'autorité que le Roi désigne, si la cause de récusation concerne le président.
+
+L'autorité compétente pour se prononcer sur la demande de récusation peut :
+
+1° désigner de nouveaux membres;
+
+2° rejeter la demande de récusation, de manière motivée et par tout moyen de communication écrite avec accusé de réception, si elle estime que motivation est insuffisante.
+
+[<sup>2</sup> En dérogation aux alinéas 4 et 5, l'autorité désignée par le Roi est compétente pour se prononcer sur une demande de récusation qui concerne le chef de la défense et, le cas échéant, pour désigner un remplaçant, par arrêté royal délibéré en Conseil des Ministres.]<sup>2</sup>
+
+Les modalités supplémentaires relatives à la procédure de récusation sont fixées par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 269, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;AR 2014-04-10/06, art. 45, 008; En vigueur : 24-04-2014&gt;
+
+###### Art. 178/2
+
+[<sup>1</sup> Un militaire ou un candidat militaire peut introduire auprès de l'instance d'appel un appel contre les décisions relatives :
+
+1° au changement de filière de métiers visé à l'article 40, alinéa 1er;
+
+2° à l'appartenance à la catégorie d'aptitude D, dans les cas visés à l'article 69, alinéa 7, 1° et 2° ;
+
+3° à l'appréciation de la manière de servir visée à l'article 84, § 1er, alinéa 2, lorsque cette décision a pour conséquence que le militaire concerné est dépassé définitivement à l'avancement;
+
+4° aux décisions de la commission de délibération ou d'évaluation visées aux articles 97/1, § 3, 97/2, § 2, 98/1, § 2, et 100, § 2;
+
+5° aux décisions de la commission de délibération pour la formation continuée visée à l'article 113/1.
+
+Toutefois, le militaire qui, dans le cas visé à l'alinéa 1er, 2°, a déjà introduit deux fois un appel auprès de l'instance d'appel, n'est plus autorisé à introduire de nouvel appel.
+
+L'appel est introduit par envoi recommandé au plus tard le dixième jour ouvrable qui suit le jour où la décision est notifiée.
+
+En dérogation à l'alinéa 3, le délai est de trente jours ouvrables pour le militaire qui est à l'étranger pour raison de service.
+
+Les règles relatives à la procédure d'appel sont fixées par le Roi.
+
+L'instance d'appel est composée selon les règles suivantes :
+
+1° l'instance d'appel est composée de trois membres, dont un président, revêtu au moins d'un grade d'officier supérieur et de deux autres membres, revêtus d'un grade supérieur à celui du militaire ou du candidat militaire qui comparait, ou au moins plus anciens dans le même grade de la même catégorie de personnel;
+
+2° toutefois, pour autant que l'appartenance à la catégorie d'aptitude D soit la conséquence d'[<sup>2</sup> évaluations statutaires]<sup>2</sup> insuffisantes, l'instance d'appel compétente dans le cas visé à l'alinéa 1er, 2°, est composée paritairement. Elle comporte un nombre égal de représentants de l'autorité et de représentants des syndicats représentatifs du personnel militaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 270, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;L 2017-07-31/24, art. 14, 019; En vigueur : 31-12-2019&gt;
+
+#### Section 2. - De la période de rendement.
+
+###### Art. 178/3
+
+[<sup>1</sup> Les dispositions de la présente section sont applicables :
+
+1° aux candidats militaires de carrière et militaires de carrière;
+
+2° aux candidats officiers auxiliaires et officiers auxiliaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 271, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+###### Art. 179
+
+[<sup>1</sup> § 1er. Pour l'application de la présente section, il faut entendre par "période de rendement" chaque période de service actif pendant laquelle un militaire est tenu de servir, selon le cas :
+
+1° s'il est militaire de carrière, à partir de la date à laquelle il a été définitivement mis un terme à la formation en qualité de candidat militaire;
+
+2° s'il est militaire de carrière ayant suivi avec succès la formation de pilote de l'aviation légère ou de pilote de la marine, à partir de la date à laquelle cette formation prend fin;
+
+3° s'il est militaire de carrière, à partir de la date de fin de chaque période de formation, appelée ci-après "formation complémentaire", qui consiste en une formation sanctionnée par un diplôme ou un certificat de l'enseignement supérieur ou équivalent;
+
+4° s'il est officier auxiliaire, à partir de la date à laquelle il a été définitivement mis un terme à la formation en qualité de candidat officier auxiliaire;
+
+5° s'il est militaire de carrière ou officier auxiliaire, à partir de la date de fin de toute autre formation, si celle-ci a été suivie aux frais de la Défense et si le coût cumulé sur une période de deux ans dépasse le minimum que le Roi fixe, sans que ce dernier puisse être inférieur à 5.000 euros;
+
+6° s'il est pilote, à partir de la date de fin de toute formation suivie en vue de sa conversion sur un autre type d'aéronef que celui sur lequel il a été initialement formé.
+
+§ 2. Pour les formations visées au § 1er, 1° à 3°, la période de rendement est égale à une fois et demie la durée de la formation définie dans la présente loi, que le militaire a suivi aux frais de la Défense.
+
+Toutefois, pour l'officier de carrière qui a suivi avec succès la formation de pilote ou de contrôleur de trafic aérien, la période de rendement est augmentée de trois ans.
+
+Pour l'officier auxiliaire, la période de rendement est de six ans.
+
+Toutefois, l'officier auxiliaire pilote qui a été dispensé d'une partie de la formation de pilote militaire, étant titulaire des qualifications aéronautiques visées à l'article 5, § 2, alinéa 3, de la loi du 11 novembre 2002 relative aux officiers auxiliaires des Forces armées, acquises préalablement à la date de son engagement, a une période de rendement de trois ans.
+
+Toutefois, par formation, les périodes de rendement visées dans ce paragraphe, ne peuvent pas être inférieures à trois ans, ni excéder douze ans. Est assimilée à une formation suivie aux frais de la Défense, toute formation pour laquelle le militaire a obtenu des dispenses de service complètes pour la totalité de la formation.
+
+§ 3. Pour les formations visées au § 1er, 5°, la période de rendement est de deux ans.
+
+Pour la formation visée au § 1er, 6°, la période de rendement est de [<sup>2</sup> six]<sup>2</sup> ans.
+
+§ 4. La période de rendement est calculée en mois entiers. Elle commence le premier jour du mois qui suit les dates telles que fixées au § 1er.
+
+La date de fin de la période de rendement est fixée au premier jour du mois qui suit la fin de la durée de cette période.
+
+§ 5. La durée de la formation prise en compte et la durée de la période de rendement sont fixées au tableau A de l'annexe B à la présente loi.
+
+Une formation suivie pendant une période de rendement qui implique une période de rendement supplémentaire, a pour effet de suspendre la période de rendement en cours.
+
+Les périodes de rendement correspondant à diverses formations sont cumulées. La période totale de rendement ne peut pas excéder quinze ans.
+
+§ 6. La période de rendement en cours est suspendue pour le militaire qui se trouve dans la position "en non-activité".]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 272, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+(2)&lt;L 2019-02-15/01, art. 2, 018; En vigueur : 11-03-2019&gt;
+
+###### Art. 180
+
+[<sup>1</sup> Le militaire de carrière qui a obtenu sa démission ou qui a été démis d'office avant la fin de la période de rendement accumulée pour les raisons visées à l'article 179, § 1er, 1° à 3°, est tenu de rembourser une partie des traitements perçus pendant la formation. L'indemnité est dégressive. Elle s'élève à une fraction des 73 % des traitements nets payés pendant la formation. Le numérateur de cette fraction est constitué de la différence entre le nombre de mois à effectuer pour la période de rendement, fixé à l'article 179, § 2, et le nombre de mois déjà effectués. Le dénominateur de cette fraction est le nombre de mois à effectuer pour la période de rendement, fixé à l'article 179, § 2.
+
+Le militaire de carrière qui a obtenu sa démission ou qui a été démis d'office, après l'obtention du brevet supérieur de pilote, après avoir suivi une formation de pilote de l'aviation légère ou de pilote du personnel navigant aérien de la marine, est également tenu de rembourser à l'Etat une partie des frais de sa formation, selon les taux et modalités figurant aux tableaux B et C de l'annexe B à la présente loi.
+
+Le militaire de carrière qui a obtenu sa démission ou qui a été démis d'office avant la fin de la période de rendement accumulée dans les conditions visées à l'article 179, § 1er, 5°, est également tenu de rembourser une partie du coût visé à la disposition précitée. L'indemnité est dégressive. Elle s'élève à une fraction du coût précité. Le numérateur de cette fraction est constitué de la différence entre les vingt-quatre mois à effectuer pour la période de rendement, fixée à l'article 179, § 3, et le nombre de mois déjà effectués. Le dénominateur de cette fraction est vingt-quatre mois.
+
+Le militaire de carrière qui a obtenu sa démission ou qui a été démis d'office ou qui est pensionné en application des articles 3, A, et 3, B, des lois sur les pensions militaires coordonnées par l'arrêté royal n° 16020 du 11 août 1923, ou de l'article 46 de la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions, avant la fin de la période de rendement accumulée après avoir suivi une formation visée à l'article 179, § 1er, 6°, est également tenu de rembourser à l'Etat une partie des frais de sa formation, selon les taux et modalités repris au tableau E de l'annexe B à la présente loi.
+
+Le militaire de carrière qui a commencé sa formation professionnelle pour l'obtention du brevet ATC et qui a obtenu sa démission ou qui a été démis d'office avant la fin de la période de rendement accumulée pour les raisons visées à l'article 179, § 1er, 1°, et § 2, alinéa 2, est également tenu de rembourser à l'Etat une partie des frais de cette formation professionnelle, selon les taux et modalités repris [<sup>2</sup> au tableau]<sup>2</sup> F2 de l'annexe B à la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 273, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+(2)&lt;L 2018-04-30/07, art. 18, 017; En vigueur : 25-05-2018&gt;
+
+###### Art. 181
+
+[<sup>1</sup> L'officier auxiliaire qui a obtenu la résiliation de son engagement ou dont l'engagement est résilié pour motif disciplinaire, inaptitude morale ou professionnelle avant la fin de la période de rendement accumulée pour les raisons visées à l'article 179, § 1er, 4°, est tenu de rembourser une partie des traitements perçus pendant la formation. L'indemnité est dégressive. Elle s'élève à une fraction des 73 % des traitements nets payés pendant la formation. Le numérateur de cette fraction est constitué de la différence entre le nombre de mois à effectuer pour la période de rendement, fixé à l'article 179, § 2, et le nombre de mois déjà effectués. Le dénominateur de cette fraction est le nombre de mois à effectuer pour la période de rendement, fixé à l'article 179, § 2.
+
+L'officier auxiliaire pilote qui a obtenu la résiliation de son engagement ou dont l'engagement est résilié pour motif disciplinaire, inaptitude morale ou professionnelle, avant la fin de la période de rendement accumulée pour les raisons visées à l'article 179, § 1er, 4°, ou après avoir suivi une formation visée à l'article 179, § 1er, 6°, est également tenu de rembourser à l'Etat une partie des frais de sa formation, selon les taux et modalités figurant aux tableaux B, C, D et E de l'annexe B à la présente loi.
+
+L'officier auxiliaire contrôleur de trafic aérien qui a obtenu la résiliation de son engagement ou dont l'engagement est résilié pour motif disciplinaire, inaptitude morale ou professionnelle, avant la fin de la période de rendement accumulée pour les raisons visées à l'article 179, § 1er, 4°, est également tenu de rembourser à l'Etat une partie des frais de la formation professionnelle pour l'obtention du brevet ATC, selon les taux et modalités repris au tableau F2 de l'annexe B à la présente loi.
+
+L'officier auxiliaire qui a obtenu la résiliation de son engagement ou dont l'engagement est résilié pour motif disciplinaire, inaptitude morale ou professionnelle avant la fin de la période de rendement accumulée pour les raisons visées à l'article 179, § 1er, 5°, est également tenu de rembourser une partie du coût visé à la disposition précitée. L'indemnité est dégressive. Elle s'élève à une fraction du coût précité. Le numérateur de cette fraction est constitué de la différence entre les vingt-quatre mois à effectuer pour la période de rendement, fixée à l'article 179, § 3, alinéa 1er, et le nombre de mois déjà effectués. Le dénominateur de cette fraction est vingt-quatre mois.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 274, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+###### Art. 182
+
+[<sup>1</sup> Le candidat officier auxiliaire pilote dont l'engagement est résilié, après l'obtention du brevet de pilote, pour toute autre raison que l'inaptitude médicale et qui cesse d'être militaire du cadre actif, est tenu de rembourser une partie des traitements perçus pendant la formation. L'indemnité s'élève à 73 % des traitements nets payés pendant la formation.
+
+[<sup>2</sup> Le candidat officier auxiliaire pilote visé à l'alinéa 1er et titulaire du brevet supérieur de pilote, est également tenu de rembourser une partie des frais de sa formation, selon les taux et modalités figurant au tableau B de l'annexe B à la présente loi.]<sup>2</sup>
+
+Les dispositions des alinéas 1er et 2 sont également applicables au candidat militaire qui perd cette qualité et qui a été admis à cette formation après résiliation de son engagement comme candidat officier auxiliaire pilote et auquel les dispositions de l'alinéa 1er étaient applicables à ce moment.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 275, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+(2)&lt;L 2016-11-21/20, art. 71, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 183
+
+[<sup>1</sup> Est tenu de rembourser une partie des traitements perçus pendant la formation, tout candidat militaire dont l'engagement ou le rengagement est résilié pour une autre raison que l'inaptitude médicale, qui cesse d'être candidat militaire du cadre actif et qui :
+
+1° soit a acquis, dans la qualité de candidat officier de carrière, au moins 60 crédits à l'Ecole royale militaire ou dans une autre institution de l'enseignement supérieur;
+
+2° soit a obtenu, dans la qualité de candidat sous-officier de carrière, le certificat d'enseignement secondaire supérieur, ou un diplôme ou certificat équivalent, à l'Ecole royale des sous-officiers.
+
+La disposition visée à l'alinéa 1er n'est pas applicable :
+
+1° au militaire réintégré dans son cadre d'origine, sauf s'il perd la qualité de militaire du cadre actif endéans une période débutant à la date de sa réintégration et égale à une fois et demi la formation suivie dans la qualité visée à l'alinéa 1er, 1° ou 2° ;
+
+2° au candidat militaire, âgé de moins de dix-huit ans, qui perd la qualité de candidat à la suite de la déclaration de la période de guerre.
+
+L'indemnité s'élève à 73 % des traitements nets payés pendant la formation dans la qualité visée à l'alinéa 1er, 1° ou 2°. Toutefois, le remboursement visé à l'alinéa 2, 1°, est calculé selon la disposition visée à l'article 180, alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 276, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+###### Art. 183/1
+
+[<sup>1</sup> Le candidat officier auxiliaire contrôleur de trafic aérien dont l'engagement est résilié, pour toute autre raison que l'inaptitude médicale, et qui cesse d'être militaire du cadre actif, est également tenu de rembourser à l'Etat une partie des traitements perçus pendant la formation. L'indemnité s'élève à 73 % des traitements nets payés pendant la formation.
+
+L'alinéa 1er est également applicable au candidat militaire qui perd cette qualité et qui a été admis à cette formation après résiliation de son engagement comme candidat officier auxiliaire contrôleur de trafic aérien sous les conditions visées à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-04-30/07, art. 19, 017; En vigueur : 25-05-2018&gt;
+
+###### Art. 184
+
+Pour des raisons sociales exceptionnelles, le Roi [<sup>2</sup> ou l'autorité qu'Il désigne,]<sup>2</sup> peut, par décision motivée, exonérer de tout ou partie du remboursement des frais de formation et des traitements perçus pendant la formation, le militaire qui en fait la demande.
+
+[<sup>1</sup> Toutefois, l'alinéa 1er n'est pas applicable au militaire qui a perdu la qualité de militaire suite à son passage dans la catégorie d'aptitude D sans avoir introduit d'appel auprès de l'instance d'appel visée à l'article 178/2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 278, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+(2)&lt;L 2016-11-21/20, art. 72, 012; En vigueur : 12-06-2017&gt;. (NOTE : Entrée en vigueur de l'article 72 fixée au 12-06-2017 par AR 2017-04-28/19, art. 7)
+
+###### Art. 184/1
+
+[<sup>1</sup> Les montants fixés dans la présente loi sont adaptés conformément à la loi du 1er mars 1977 organisant un régime de liaison à l'indice des prix à la consommation du Royaume de certaines dépenses dans le secteur public. Les montants correspondent à l'indice-pivot 138,01 (base 1981=100).
+
+La récupération des sommes dues est effectuée par l'intermédiaire des receveurs de l'Administration de la T.V.A., de l'enregistrement et des domaines.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 279, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+## TITRE VII. - Les périodes et positions dans lesquelles le militaire peut se trouver.
+
+###### Art. 185
+
+Sans préjudice du pouvoir conféré au Roi par l'article 167 de la Constitution, la mesure dans laquelle le militaire peut exercer ses droits et doit exécuter ses obligations varie en fonction :
+
+1° de la période dans laquelle il se trouve;
+
+2° de la position ou, le cas échéant, la sous-position dans laquelle il se trouve pendant cette période;
+
+3° du fait qu'il fasse effectivement partie d'un détachement qui se prépare en vue d'un engagement opérationnel.
+
+###### Art. 186
+
+Le militaire se trouve en période de guerre, en période de crise ou en période de paix.
+
+La période de guerre est, pour l'ensemble des Forces armées, la période qui, en cas de conflit international, débute et prend fin aux moments fixés par le Roi par arrête délibéré en Conseil des Ministres.
+
+La période de crise est, pour l'ensemble des Forces armées, la période qui, en cas de crise nationale ou internationale importante, débute et prend fin aux moments fixés par le Roi par arrêté délibéré en Conseil des Ministres.
+
+Hors ces périodes, le militaire est en période de paix.
+
+###### Art. 187
+
+En période de guerre comme en période de crise ou en période de paix, le militaire se trouve dans une des positions suivantes :
+
+1° " en service actif ";
+
+2° " en non-activité ".
+
+Le militaire est considéré, dans ces deux positions, comme étant " en service ".
+
+###### Art. 188
+
+La position " en service actif " est la position du militaire qui n'est pas en non-activité conformément à l'article 189.
+
+###### Art. 189
+
+[<sup>1</sup> La position "en non-activité" est celle du militaire :
+
+1° qui est retiré temporairement de son emploi;
+
+2° qui a été reconnu en absence illégale;
+
+3° qui subit une peine privative de liberté, à laquelle il a été condamné par une juridiction belge ou par une juridiction étrangère si la décision est reconnue en Belgique, sauf s'il exécute sa peine sous le mode d'exécution de la peine de la détention limitée, de la surveillance électronique ou de la libération conditionnelle;
+
+4° [<sup>2</sup> qui est en congé politique d'office;]<sup>2</sup>
+
+[<sup>2</sup> 5° qui a été condamné conformément à l'article 19 du Code pénal ou à l'article 5 du Code pénal militaire ou à l'interdiction, même temporaire, d'un des droits visés à l'article 31, 1° et 6°, du Code pénal.]<sup>2</sup>
+
+La période de suspension par mesure d'ordre est convertie en une période de non-activité si elle est suivie :
+
+1° d'un retrait définitif d'emploi par démission d'office;
+
+2° d'une résiliation d'office de l'engagement ou du rengagement, sauf pour motifs médicaux;
+
+3° d'une destitution sans sursis visée à l'article 6 du Code pénal militaire ou à l'article 19 du Code pénal;
+
+4° d'une dégradation militaire;
+
+5° d'un retrait temporaire d'emploi par mesure disciplinaire, mais seulement pour la durée de ce retrait temporaire d'emploi.
+
+La période de détention préventive est convertie en période de non-activité si celle-ci est suivie d'une condamnation à une peine privative de liberté sans sursis, mais seulement pour la durée de cette condamnation.
+
+L'internement est converti en période de non-activité si cet internement est suivi d'un retrait définitif d'emploi par démission d'office.
+
+La période d'absence d'un militaire séparé de l'armée est convertie en tout ou en partie en une période de non-activité si les faits qui sont à l'origine de l'absence ou si la conduite du militaire pendant l'absence sont incompatibles avec son état de militaire correspondant à sa catégorie de personnel. Cette mesure est prononcée conformément aux dispositions de l'article 57, alinéas 2, 3 et 4.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 280, 006; En vigueur : 31-12-2013, voir AR 2013-10-14/12, art. 52,1°&gt;
+
+(2)&lt;L 2025-12-08/07, art. 53, 028; En vigueur : 08-01-2026&gt;
+
+###### Art. 190
+
+Le militaire en service actif en période de paix se trouve dans une des sous-positions suivantes :
+
+1° " en formation ";
+
+2° " en service normal ";
+
+3° " en assistance ";
+
+4° " en engagement opérationnel ";
+
+[<sup>1</sup> 5° "en service intensif";
+
+6° "en appui militaire".]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 281, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 191
+
+[<sup>1</sup> La sous-position "en formation" est la sous-position des candidats militaires durant la période d'instruction et le cas échéant la période de formation scolaire de leur période de candidature, à l'exception [<sup>2</sup> du candidat militaire qui est placé en stage d'attente ou en période d'attente et]<sup>2</sup> du militaire qui est admis à suivre une formation en vue de son admission dans une autre catégorie de personnel.
+
+La sous-position "en assistance" est la sous-position de chaque militaire qui participe à une mission visée à l'article 3, § 1er, 2°, b) de la loi du 20 mai 1994 relative à la mise en oeuvre des Forces armées, à la mise en condition, ainsi qu'aux périodes et positions dans lesquelles le militaire peut se trouver. Le militaire visé à l'alinéa 1er et le militaire qui n'a pas atteint l'âge de dix-huit ans ne peuvent être dans cette sous-position.
+
+La sous-position "en engagement opérationnel" est la sous-position de chaque militaire qui participe à une opération visée à l'article 3, § 1er, 2°, a) de la loi précitée du 20 mai 1994. Le militaire visé à l'alinéa 1er et le militaire qui n'a pas atteint l'âge de dix-huit ans ne peuvent se trouver dans la sous-position "en engagement opérationnel".
+
+La sous-position "en service intensif" est la sous-position de chaque militaire, excepté celui visé à l'alinéa 1er, qui participe à un exercice ou une manoeuvre d'au moins vingt-quatre heures.
+
+La sous-position "en appui militaire" est la sous-position de chaque militaire, à l'exception de celui visé à l'alinéa 1er et de celui qui n'a pas atteint l'âge de dix-huit ans, qui participe à une mission visée à l'article 3, § 1er, 2°, c) de la loi du 20 mai 1994 précitée.
+
+La sous-position "en service normal" est la sous-position de chaque militaire qui ne se trouve pas dans une des sous-positions visées aux alinéas 1er à 5.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 282, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;L 2025-12-08/07, art. 54, 028; En vigueur : 08-01-2026&gt;
+
+###### Art. 192
+
+&lt;L 2007-05-11/51, art. 7, 002; En vigueur : indéterminée ; au plus tard le 01-07-2011&gt; En période de paix, le militaire qui n'a pas atteint l'âge de dix-huit ans ne peut porter les armes et la tenue militaire que lorsque cela est requis pour sa formation.
+
+[<sup>1</sup> La période écoulée entre la perte de la qualité de candidat militaire par un candidat militaire âgé de moins de dix-huit ans à la suite d'une déclaration d'une période de guerre ou de crise et sa réintégration, est convertie de plein droit en une période de service actif.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 283, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+## TITRE VIII. - Des pensions.
+
+###### Art. 193
+
+&lt;Abrogé par L 2013-07-31/04, art. 284, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 194
+
+En dérogation à l'article 46, alinéa 1er, de la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions, les anciens militaires du cadre actif en service actif comme militaire de ce cadre a partir de la date d'entrée en vigueur de la présente disposition, peuvent, à leur demande, être admis à la retraite le premier jour du mois qui suit celui au cours duquel ils atteignent l'âge de 58 ans accomplis, ou le premier jour du mois qui suit la cessation de leurs fonctions si celle-ci survient postérieurement, à la condition de compter au moins vingt cinq années de service admissibles, passées en qualité de militaire, pour l'ouverture du droit à la pension, à l'exclusion des bonifications pour études et des autres périodes bonifiées à titre de services admis pour la détermination du traitement. Pour le calcul de ces vingt cinq années de service, les temps de service et périodes admissibles ne sont pris en considération que pour leur durée simple.
+
+L'alinéa 1er n'est pas d'application aux demandes de pension différée, ni aux demandes de pension immédiate à partir de l'âge de 60 ans. L'alinéa 1er n'est pas non plus d'application aux militaires dont la limite d'âge est supérieure à 58 ans.
+
+Pour les anciens militaires qui, en application de l'alinéa 1er, demandent à être admis à la pension avant l'age de 60 ans, l'âge minimum prévu a l'article 2, alinéa 2, de la loi du 14 avril 1965 établissant certaines relations entre les divers régimes de pensions du secteur public, est fixé à 58 ans.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-04-30/07, art. 20, 017; En vigueur : 25-05-2018&gt;
+
+###### Art. 195
+
+Le Roi fixe par arrêté délibéré en Conseil des ministres les montants et les périodes pour lesquelles l'allocation de commandement visée à l'article 31, § 3, de l'arrêté royal du 18 mars 2003 relatif au statut pécuniaire des militaires de tous rangs et au régime des prestations de service des militaires du cadre actif [<sup>1</sup> au-dessous]<sup>1</sup> du rang d'officier, l'allocation de formation visée à l'article 32, du même arrêté et l'allocation de maîtrise visée à l'article 34 du même arrêté, sont prises en compte pour le calcul des pensions de retraite et de survie.
+
+----------
+
+(1)&lt;L 2016-11-21/20, art. 73, 012; En vigueur : 02-01-2017&gt;
+
+## TITRE IX. - Dispositions modificatives et abrogatoires.
+
+### CHAPITRE Ier. - Modification de la loi générale du 21 juillet 1844 sur les pensions civiles et ecclésiastiques.
+
+###### Art. 196
+
+L'article 8, § 3, de la loi générale du 21 juillet 1844 sur les pensions civiles et ecclésiastiques est complété comme suit :
+
+" 4° 1/50e pour chaque année qui, conformément au tableau I des lois sur les pensions militaires coordonnées par l'arrêté royal N° 16020 du 11 août 1923, peut être prise en compte a ce tantième pour le calcul de la pension militaire d'ancienneté d'un militaire du cadre actif en service à partir de la date d'entrée en vigueur de la présente disposition. ".
+
+### CHAPITRE II. - Modification des lois coordonnées sur les pensions militaires coordonnées par l'arrêté royal N° 16020 du 11 août 1923.
+
+###### Art. 197
+
+L'article 1er des lois coordonnées sur les pensions militaires coordonnées par l'arrêté royal N° 16020 du 11 août 1923 est complété par les alinéas suivants :
+
+" Pour l'application des présentes lois, il faut entendre par :
+
+1° " en service " : la position du militaire visée à l'article 187, alinéa 2, de la loi du 28 février 2007 fixant le statut des militaires du cadre actif des forces armées et à l'article 4, alinéa 2, de la loi du 20 mai 1994 relative à la mise en oeuvre des forces armées, à la mise en condition, ainsi qu'aux périodes et positions dans lesquelles le militaire peut se trouver;
+
+2° " en service actif " : la position du militaire visée à l'article 188 de la loi du 28 février 2007 précitée et à l'article 5, alinéa 1er, de la loi du 20 mai 1994 précitée;
+
+3° " en non-activité " : la position du militaire visée à l'article 189 de la loi du 28 février 2007 précitée et à l'article 6 de la loi du 20 mai 1994;
+
+4° le point de transfert : le moment qui clôture la période de transfert comme visé à l'article 3, 58°, de la loi du 28 février 2007 (précitée); &lt;Erratum, M.B. 12.09.2007, p 48328&gt;
+
+En dérogation à l'alinéa précédent, les services antérieurs au 15 août 1994 sont pris en considération sur la base de la législation qui était en vigueur avant cette date. ".
+
+###### Art. 198
+
+L'article 3 des mêmes lois, modifié par les lois des 14 juillet 1930, 13 juillet 1934, 17 juin 1971, par l'arrêté royal du 24 juillet 1997, et les lois des 25 mai 2000 et 3 février 2003, est complété par les alinéas suivants :
+
+" Les officiers qui en font la demande et qui, la veille de la mise en vigueur de la présente disposition, sont titulaires d'un grade dans lequel ils auraient été pensionnés d'office par atteinte de la limite d'âge de 51 ans, conformément aux dispositions en vigueur à cette date, peuvent prétendre à une pension qui prend cours le premier jour du trimestre qui suit celui au cours duquel ils atteignent l'âge de 51 ans accomplis, à la condition qu'à la veille de la date d'entrée en vigueur de la présente disposition ils aient au moins atteint l'âge de 42 ans accomplis et qu'au moment de leur mise à la retraite, ils ne soient ni officier supérieur ou général ni expert principal.
+
+Les militaires en-dessous du rang d'officier du personnel navigant qui en font la demande et qui, à la veille de la date d'entrée en vigueur de la présente disposition, sont titulaires d'un brevet par lequel ils auraient été pensionnés d'office par atteinte de la limite d'âge de 51 ans, conformément aux dispositions en vigueur à cette date, peuvent prétendre à une pension qui prend cours le premier jour du trimestre qui suit celui au cours duquel ils atteignent l'âge de 51 ans accomplis, à la condition qu'à la veille de la date d'entrée en vigueur de la présente disposition ils aient au moins atteint l'âge de 35 ans accomplis.
+
+Les alinéas 2 et 3 ne sont pas d'application aux demandes de pension différée. Ces alinéas ne sont pas non plus d'application si les militaires y visés doivent être mis d'office à la retraite à la fin du trimestre au cours duquel ils ont atteint l'âge de 51 ans accomplis. ".
+
+###### Art. 199
+
+A l'article 4 des mêmes lois, modifié par les lois des 14 juillet 1930, 21 mai 1991, par l'arrêté royal du 24 juillet 1997 et par la loi du 25 mai 2000, sont apportées les modifications suivantes :
+
+1° l'alinéa suivant est inséré entre les alinéas 2 et 3 :
+
+" L'alinéa précédent n'est pas d'application aux pensions des militaires du cadre actif en service à partir de la date d'entrée en vigueur de la présente disposition ni aux pensions différées qui sont octroyées à partir de cette date. ";
+
+2° l'article est complété par les alinéas suivants :
+
+" Pour le calcul de la pension d'ancienneté militaire des militaires du cadre actif en service à partir de la date d'entrée en vigueur de la présente disposition, une bonification en temps de deux ans est prise en considération comme service actif, à la condition que les militaires précités aient dépassé leur point de transfert et comptent au moins douze années de service admissibles pour la pension passés en qualité de militaire du cadre actif, à l'exclusion des bonifications pour études et des autres périodes bonifiées à titre de services admis pour la détermination du traitement. Pour le calcul de ces douze années de service, les temps de service et périodes admissibles ne sont pris en considération que pour leur durée simple.
+
+L'alinéa précédent n'est pas d'application aux pensions différées. ".
+
+###### Art. 200
+
+L'article 5 des mêmes lois, modifié par l'arrêté royal du 24 juillet 1997 et la loi du 25 mai 2000, est complété par l'alinéa suivant :
+
+" En dérogation à l'alinéa 3, pour les militaires du cadre actif en service à partir de la date d'entrée en vigueur de la présente disposition, toute période rémunérée de non-activité pour une autre cause est prise en compte pour le calcul du service actif pour sa durée complète dans la pension. ".
+
+###### Art. 201
+
+Un article 27bis, rédigé comme suit, est inséré dans les mêmes lois :
+
+" Art. 27bis. En dérogation à l'article 27, alinéa premier, le traitement d'activité visé au tableau I annexé aux présentes lois, pour le calcul de la pension des militaires du cadre actif en service à partir de la date d'entrée en vigueur de la présente disposition, est remplacé par le traitement de référence établi conformément à l'article 8, §§ 1er et 2, de la loi générale du 21 juillet 1844 sur les pensions civiles et ecclésiastiques. ".
+
+###### Art. 202
+
+L'article 58 des mêmes lois est complété par l'alinéa suivant :
+
+" Le présent article n'est pas applicable aux pensions de retraite des militaires du cadre actif en service à partir de la date d'entrée en vigueur de la présente disposition ni aux pensions différées qui sont octroyées à partir de cette date. ".
+
+###### Art. 203
+
+Un article 58bis, rédigé comme suit, est inséré dans les mêmes lois :
+
+" Art. 58bis. Restent soumises aux dispositions des présentes lois telles qu'elles leur étaient applicables la veille de la date d'entrée en vigueur de la présente disposition, tenant compte des modifications que ces dispositions auraient subies :
+
+1° les pensions accordées à la date d'entrée en vigueur de la présente disposition;
+
+2° les pensions des anciens gendarmes qui après leur passage aux services de la police intégrée ont décidé de rester soumis aux lois et règlements qui étaient d'application à la catégorie de personnel à laquelle ils appartenaient avant leur passage à ces services de police;
+
+3° les pensions qui, en application des articles fixés par arrêté royal délibéré en Conseil des Ministres de l'arrêté du Régent du 6 février 1950 relatif à la mise à la retraite des officiers des forces armées, ou de l'arrêté royal du 22 avril 1969 relatif à la mise à la retraite des militaires au-dessous du rang d'officier, sont octroyées aux militaires du cadre actif en service à partir de la date de mise en vigueur de la présente disposition, si cela est plus avantageux;
+
+4° si cela est plus avantageux, les pensions des militaires du cadre actif en service à partir de la date de mise en vigueur de la présente disposition qui, à cette date, se trouvent à 5 ans au plus de la date à laquelle ils sont mis à la retraite, tenant compte de la limite d'âge qui, la veille de la date d'entrée en vigueur de la présente disposition, était d'application au grade dans lequel ils terminent leur carrière dans le cadre actif, quand cette limite d'âge reste inchangée à la date d'entrée en vigueur de la présente disposition;
+
+5° si cela est plus avantageux, les pensions des militaires du cadre actif en service à partir de la date d'entrée en vigueur de la présente disposition qui, à cette date, se trouvent à 5 ans au plus de la date à laquelle ils sont mis à la retraite conformément à l'arrêté royal du 13 août 2004 relatif à l'âge de mise à la retraite d'officiers qui exercent certaines fonctions particulières. ".
+
+###### Art. 204
+
+Un article 58ter, rédigé comme suit, est inséré dans les memes lois :
+
+" Art. 58ter. Les pensions qui en application des articles fixés par arrêté royal délibéré en Conseil des Ministres, de l'arrêté du Régent du 6 février 1950 précité, ou de l'arrêté royal du 22 avril 1969 précité, sont accordées aux militaires du cadre actif en service à partir de la date d'entrée en vigueur de la présente disposition, sont assimilées à des pensions octroyées après une mise à la pension d'office par limite d'âge. ".
+
+###### Art. 205
+
+A l'article 76 des mêmes lois, sont apportées les modifications suivantes :
+
+1° le littera 1° est complété comme suit :
+
+" Sont appliquées lors de la révision, les dispositions des présentes lois qui étaient d'application à la pension initiale, tenant compte des modifications que ces dispositions auraient subies; ";
+
+2° le littera 3° est complété comme suit :
+
+" L'alinéa 2 n'est pas d'application aux militaires dont la pension initiale a été calculée sur la base du traitement de référence visé à l'article 27bis. Si un tel militaire, au moment où il quitte à nouveau l'armée, est revêtu d'un grade supérieur a celui avec lequel il a été mis à la retraite, la pension est, par dérogation à l'alinéa premier, revisée sur la base d'un nouveau traitement de référence, à la condition que le militaire ait bénéficié durant au moins six mois d'un traitement supérieur au dernier traitement qui a été pris en considération pour l'établissement du traitement de référence qui a servi de base au calcul de la pension initiale. Dans la comparaison de ces traitements, il est, le cas échéant, tenu compte des suppléments de traitement qui entrent en ligne de compte pour l'établissement du traitement de référence; ".
+
+###### Art. 206
+
+Dans le tableau en annexe aux mêmes lois, modifié par les lois des 29 juillet 1926, 14 juillet 1930, par l'arrêté royal N° 16 du 15 octobre 1934, par les lois des 30 juin 1947, 14 juillet 1951, 2 août 1955 et par l'arrêté royal du 20 juillet 2000, la fraction " 1/60 " est remplacée dans la colonne " Fraction du traitement d'activité servant d'annuité pour le calcul de la pension " par la disposition suivante :
+
+" 1/60. Pour les militaires du cadre actif en service a partir de la date d'entrée en vigueur de la présente disposition, cette fraction est toutefois portée à 1/50 pour toutes les périodes de service actif et les périodes y assimilées, ainsi que pour les absences pour motif de santé, à l'exception des périodes :
+
+1° d'enseignement secondaire de jour à l'Ecole Royale des Cadets;
+
+2° de service militaire, rappels et prestations complémentaires effectuées dans le cadre de la réserve, à l'exception des prestations volontaires d'encadrement;
+
+3° d'absence des retraits temporaires d'emploi par interruption de carrière et des absences non rémunérées par un traitement, autres que pour motif de santé à partir de la date d'entrée en vigueur de la présente disposition;
+
+Le temps qui est passé par le militaire précité dans un service civil est pris en compte pour le calcul de leur pension militaire d'ancienneté au tantième propre à ce service civil, sous réserve de l'application de l'article 3 de la loi du 14 avril 1965 établissant certaines relations entre les divers régimes de pensions du secteur public. ".
+
+### CHAPITRE II/I [<sup>1</sup> - Modifications de la loi du 30 juillet 1938 concernant l'usage des langues à l'armée]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 285, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 206/1
+
+[<sup>1</sup> Dans l'article 2 de la loi du 30 juillet 1938 concernant l'usage des langues à l'armée, modifié par les lois des 30 juillet 1955, 13 novembre 1974 et 26 mars 1999, les alinéas 4 et 5 sont abrogés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 286, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 206/2
+
+[<sup>1</sup> Dans l'article 4 de la même loi, modifié par les lois des 28 décembre 1990 et 22 mars 2001, l'alinéa 6 est remplacé par ce qui suit :
+
+"La nomination au grade de sous-lieutenant du candidat qui ne réussit qu'à l'un des deux essais de la deuxième participation est diminuée de six mois. Toutefois, cette nomination produit ses effets à la même date que celle des candidats visés à l'alinéa 4 qui n'ont pas encouru de retard. Toutefois, le candidat qui réussit au premier essai de la deuxième participation n'encourt pas de retard si la participation à cette épreuve découlait de l'impossibilité de passer la deuxième épreuve de la première participation par un accident ou d'une maladie à la suite d'un fait en rapport avec le service."]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 287, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 206/3
+
+[<sup>1</sup> L'article 6 de la même loi, modifié par la loi du 30 juillet 1955, est complété par un alinéa rédigé comme suit :
+
+"L'obtention ultérieure de la connaissance approfondie de la seconde langue visée à l'article 7 ne peut être utilisée afin de faire valoir une révision de cet échec."]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 288, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 206/4
+
+[<sup>1</sup> Dans l'article 8, § 2, de la même loi, remplacé par la loi du 22 mars 2001, les mots "certificat d'enseignement secondaire supérieure" sont remplacés par les mots "certificat d'enseignement secondaire supérieur".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 289, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 206/5
+
+[<sup>1</sup> Dans l'article 11, alinéa 3, de la même loi, inséré par la loi du 26 avril 2009, les mots "obtenir au préalable au moins cinquante pour cent des points à", sont remplacés par les mots "réussir au préalable".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 290, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 206/6
+
+[<sup>1</sup> Dans l'article 31, § 1er, alinéa 2, de la même loi, inséré par la loi du 26 avril 2009, les mots "obtenir au préalable au moins cinquante pour cent des points à", sont remplacés par les mots "réussir au préalable".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 291, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### CHAPITRE III. - [<sup>1</sup> Modifications]<sup>1</sup> de la loi du 23 décembre 1955 sur les officiers auxiliaires de la Force aérienne, pilotes et navigateurs.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 292, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 207
+
+[<sup>1</sup> Dans l'article 1er de la loi du 23 décembre 1955 sur les officiers auxiliaires de la force aérienne, pilotes et navigateurs, le mot "breveté" est inséré entre les mots "pour la catégorie du personnel navigant" et les mots "de la force aérienne".]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 293, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 207/1
+
+[<sup>1</sup> Dans l'article 9, § 2, alinéa 2, de la même loi, remplacé par la loi du 26 avril 2009, les mots "qui a été acceptée" sont insérés entre les mots "La résiliation d'engagement" et les mots "prend effet".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 294, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 207/2
+
+[<sup>1</sup> L'article 10bis de la même loi, remplacé par la loi du 13 juillet 1976, est complété par un alinéa, rédigé comme suit :
+
+"Les articles 21/1, alinéas 1er, 9°, 3 et 4, 81, § 1er, alinéas 4 et 5, 81/3, alinéa 2, 3°, 102, alinéa 1er, 107, alinéa 3, et 108, alinéa 2, de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées, qui sont d'application au candidat âgé de moins de 18 ans lorsqu'une période de guerre est décrétée, sont applicables au candidat officier auxiliaire.".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 295, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 207/3
+
+[<sup>1</sup> Dans l'article 16 de la même loi, remplacé par la loi du 13 juillet 1976, les mots "dans le cadre de carrière du personnel navigant de la force aérienne" sont remplacés par les mots "comme officier de carrière du niveau A dans la filière de métiers à laquelle il appartient".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 296, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 207/4
+
+[<sup>1</sup> Dans l'article 16bis de la même loi, inséré par la loi du 13 juillet 1976 et modifié par la loi du 16 juillet 2005, les mots "dans le cadre de complément du corps du personnel navigant de la force aérienne" sont remplacés par les mots "comme officier de carrière du niveau B dans la filière de métiers à laquelle il appartient".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 297, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 207/5
+
+[<sup>1</sup> Dans l'article 17 de la même loi, remplacé par la loi du 13 juillet 1976, les mots "dans les cadres de carrière ou de complément du corps du personnel navigant de la force aérienne" sont remplacés par les mots "comme officier de carrière du niveau A ou officier de carrière du niveau B".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 298, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 207/6
+
+[<sup>1</sup> Dans l'article 18 de la même loi, remplacé par la loi du 13 juillet 1976, les mots "dans le cadre de carrière ou de complément du corps du personnel navigant de la force aérienne" sont remplacés par les mots "comme officier de carrière du niveau A ou officier de carrière du niveau B".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 299, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 207/7
+
+[<sup>1</sup> Dans l'article 19 de la même loi, remplacé par la loi du 18 février 1987, les mots "dans le cadre de carrière ou de complément du corps du personnel navigant de la force aérienne" sont remplacés par les mots "comme officier de carrière du niveau A ou officier de carrière du niveau B".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 300, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 207/8
+
+[<sup>1</sup> A l'article 21 de la même loi, remplacé par la loi du 22 mars 2001, les modifications suivantes sont apportées :
+
+1° dans le paragraphe 1er, les mots "article 3, 3° " sont remplacés par les mots "article 3";
+
+2° dans le paragraphe 2, alinéa 1er, 1°, 2° et 3°, et le paragraphe 3, 1°, 2° et 3°, les mots "traitement brut" sont chaque fois remplacés par les mots "traitement mensuel brut".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 301, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### CHAPITRE IV. - Abrogation de la loi du 1er mars 1958 relative au statut des officiers de carrière des Forces armees.
+
+###### Art. 208
+
+[<sup>1</sup> La loi du 1er mars 1958 relative au statut des officiers de carrière des Forces armées, modifiée par les lois des 28 juin 1960, 26 juillet 1962, 23 juin 1964, 6 juillet 1967, 27 décembre 1973, 13 juillet 1976, 18 février 1987, 22 décembre 1989, 21 décembre 1990, 28 décembre 1990, 20 mai 1994, 11 juin 1998, 16 mars 2000, 25 mai 2000, 22 mars 2001, 16 mai 2001, 2 août 2002, 3 février 2003, 27 mars 2003, 15 février 2005, 16 juillet 2005, 20 juillet 2006 et 26 avril 2009, est abrogée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 302, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### CHAPITRE V. - Abrogation de la loi du 27 décembre 1961 relative au statut des sous-officiers du cadre actif des Forces armées.
+
+###### Art. 209
+
+[<sup>1</sup> La loi du 27 décembre 1961 relative au statut des sous-officiers du cadre actif des Forces armées, modifiée par les lois des 13 juillet 1976, 21 décembre 1990, 28 décembre 1990, 20 mai 1994, 16 mars 2000, 25 mai 2000, 22 mars 2001, 3 février 2003, 27 mars 2003, 15 février 2005, 16 juillet 2005 et 26 avril 2009, est abrogée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 303, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### CHAPITRE V/1. [<sup>1</sup> - Modification des lois sur la milice, coordonnées le 30 avril 1962]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 304, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 209/1
+
+[<sup>1</sup> Dans l'article 2, § 4, des lois sur la milice coordonnées le 30 avril 1962, les mots "depuis le 1er janvier de l'année pendant laquelle ils atteignent 17 ans" sont remplacés par les mots "à partir du moment où ils atteignent l'âge de 18 ans accomplis".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 305, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### CHAPITRE VI. - Modification de la loi du 14 avril 1965 établissant certaines relations entre les divers régimes de pensions du secteur public.
+
+###### Art. 210
+
+L'article 3 de la loi du 14 avril 1965 établissant certaines relations entre les divers régimes de pensions du secteur public est complété par l'alinéa suivant :
+
+" En dérogation à l'alinéa premier, la pension de retraite unique est calculée au prorata de 1/50 du traitement de référence pour chaque année qui, conformément au tableau I des lois sur les pensions militaires, coordonnées par l'arrêté royal N° 16020 du 11 août 1923, peut être prise à ce tantième pour le calcul de la pension militaire d'ancienneté d'un militaire du cadre actif en service à partir de la date d'entrée en vigueur de la présente disposition. ".
+
+### CHAPITRE VII. - Modification de la loi du 9 juillet 1969 modifiant et complétant la législation relative aux pensions de retraite et de survie des agents du secteur public.
+
+###### Art. 211
+
+Dans l'article 32 de la loi du 9 juillet 1969 modifiant et complétant la législation relative aux pensions de retraite et de survie des agents du secteur public, modifie par la loi du 3 février 2003, l'alinéa suivant est inséré entre les alinéas 1er et 2 :
+
+" Les dispositions du présent chapitre sont également d'application aux pensions d'ancienneté des militaires du cadre actif qui, à partir de la date d'entrée en vigueur de la présente disposition sont en service comme visé à l'article 187, alinéa 2 de la loi du 28 février 2007 fixant le statut des militaires du cadre actif des Forces armées. ".
+
+###### Art. 212
+
+L'article 35, § 1er, alinéa 4, de la même loi, inséré par la loi du 3 février 2003, est complété comme suit :
+
+" L'alinéa 1er reste néanmoins d'application pour les services que le pensionné, pendant une partie ou la totalité de ces études, a accompli dans la qualité de militaire du cadre actif et qui entrent en compte pour le calcul de sa pension. ".
+
+### CHAPITRE VIII. - Abrogation de la loi du 12 juillet 1973 relative au statut des volontaires du cadre actif des Forces armées.
+
+###### Art. 213
+
+La loi du 12 juillet 1973 relative au statut des volontaires du cadre actif des Forces armées, modifiée par les lois des 13 juillet 1976, 21 décembre 1990, 28 décembre 1990, 20 mai 1994, 16 mars 2000, 25 mai 2000, 22 mars 2001, 3 février 2003, 27 mars 2003, 15 février 2005 et 16 juillet 2005, est abrogée.
+
+### CHAPITRE IX. - Modification de la loi du 14 janvier 1975 portant le règlement de discipline des Forces armées.
+
+###### Art. 214
+
+Sont abrogés, dans la loi du 14 janvier 1975 portant le règlement de discipline des Forces armées :
+
+1° l'article 9;
+
+2° l'article 15, modifié par les lois des 22 décembre 1989, 24 juillet 1992, 16 juillet 2005 et 14 juin 2006;
+
+3° les articles 15bis et 15ter, insérés par la loi du 14 juin 2006;
+
+4° l'article 16, remplacé par la loi du 21 avril 1994;
+
+5° l'article 18, modifiés par les lois des 22 décembre 1989 et 16 juillet 2005;
+
+6° l'article 19, modifié par la loi du 16 juillet 2005;
+
+7° l'article 20, modifié par les lois du 6 février 2003 et 14 juin 2006.
+
+### CHAPITRE X. - Modification de la loi du 13 juillet 1976 relative aux effectifs en officiers et aux statuts du personnel des Forces armées.
+
+###### Art. 215
+
+Sont abrogés, dans la loi du 13 juillet 1976 relative aux effectifs en officiers et aux statuts du personnel des Forces armées :
+
+1° l'article 37, remplacé par la loi du 21 décembre 1990;
+
+2° les articles 38, 39 et 40;
+
+3° l'article 41, remplacé par la loi du 21 décembre 1990;
+
+4° l'article 42, abrogé par la loi du 21 décembre 1990 et rétabli par la loi du 20 mai 1994, modifié par la loi du 22 mars 2001;
+
+5° l'article 43;
+
+6° l'article 44, modifié par les lois des 16 mars 2000 et 16 juillet 2005;
+
+7° l'article 45;
+
+8° l'article 54, remplacé par la loi du 28 décembre 1990 et modifié par les lois des 27 mars 2003 et 16 juillet 2005.
+
+### CHAPITRE XI. - Abrogation de la loi du 21 décembre 1990 portant statut des candidats militaires du cadre actif.
+
+###### Art. 216
+
+La loi du 21 décembre 1990 portant statut des candidats militaires du cadre actif, modifiée par les lois des 20 mai 1994, 16 mars 2000, 25 mai 2000, 22 mars 2001, 2 août 2002, 6 février 2003, 27 mars 2003, 16 juillet 2005 et 20 juillet 2005, est abrogée.
+
+### CHAPITRE XI/1. [<sup>1</sup> - Abrogation de la loi du 20 mai 1994 relative à l'utilisation des militaires en dehors des Forces armées]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 307, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 216/1
+
+[<sup>1</sup> La loi du 20 mai 1994 relative à l'utilisation des militaires en dehors des Forces armées, modifiée par les lois des 27 décembre 2000 et 23 avril 2010, est abrogée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 308, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+### CHAPITRE XII. - [<sup>1</sup> Modification]<sup>1</sup> de la loi du 20 mai 1994 portant statut des militaires court terme.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 309, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 217
+
+[<sup>1</sup> L'article 4 de la loi du 20 mai 1994 portant statut des militaires court terme est complété par un alinéa rédigé comme suit :
+
+"Pour autant que ces dispositions ne soient pas incompatibles avec les dispositions de la présente loi et pour autant que les dispositions réglementaires ne soient pas incompatibles avec les dispositions réglementaires prises en exécution de la présente loi, les articles 21/1, alinéas 1er, 9°, 3 et 4, 81, § 1er, alinéas 4 et 5, 81/3, alinéa 2, 3°, 102, alinéa 1er, 107, alinéa 3 et 108, alinéa 2, de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées, qui sont d'application au candidat âgé de moins de 18 ans lorsqu'une période de guerre est décrétée, sont applicables au candidat militaire court terme.".]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 310, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### CHAPITRE XIII. - Modification de la loi du 20 mai 1994 relative a la mise oeuvre des Forces armées, à la mise en condition, ainsi qu'aux périodes et positions dans lesquelles le militaire peut se trouver.
+
+###### Art. 218
+
+L'intitulé de la loi du 20 mai 1994 relative à la mise en oeuvre des Forces armées, à la mise en condition, ainsi qu'aux périodes et positions dans lesquelles le militaire peut se trouver est remplacé par l'intitulé suivant :
+
+" Loi du 20 mai 1994 relative aux périodes et aux positions des militaires du cadre de réserve, ainsi qu'à la mise en oeuvre et à la mise en condition des Forces armées ".
+
+###### Art. 219
+
+L'intitulé du chapitre II de la même loi est remplacé par l'intitulé suivant :
+
+" Chapitre II. De la mise en oeuvre et de la mise en condition ".
+
+###### Art. 220
+
+L'intitulé du chapitre III de la même loi est remplacé par l'intitulé suivant :
+
+" Chapitre III. Des positions du militaire du cadre de réserve ".
+
+###### Art. 221
+
+[<sup>1</sup> Dans l'article 3 de la même loi, modifié par la loi du 27 mars 2003, les modifications suivantes sont apportées :
+
+1° le paragraphe 1er, 2°, est complété par le c) rédigé comme suit :
+
+"c) lorsqu'ils participent à une mission d'appui militaire dans le cadre d'un programme de partenariat militaire.";
+
+2° le paragraphe 2 est complété par le 4° rédigé comme suit :
+
+"4° les activités de préparation d'une opération.".]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 311, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 222
+
+L'article 4 de la même loi est remplacé par la disposition suivante :
+
+" En période de guerre comme en période de crise ou de paix, le militaire du cadre de réserve se trouve dans une des positions suivantes :
+
+1° " en service actif ";
+
+2° " en non-activité ";
+
+3° " en congé illimité ".
+
+Le militaire du cadre de réserve " en service actif " ou en " non-activité ", est considéré comme étant " en service ". ".
+
+###### Art. 223
+
+L'article 5 de la même loi est remplacé par la disposition suivante :
+
+" Article 5. La position " en service actif " est celle du militaire du cadre de réserve :
+
+1° qui effectue un rappel;
+
+2° qui effectue des prestations complémentaires;
+
+3° qui effectue des prestations dans le cadre de sa formation de candidat militaire de réserve;
+
+4° qui, à l'issue d'une période de service actif, est frappé d'une incapacité de travail consécutive à des blessures reçues ou à des maladies contractées ou s'étant aggravées pendant le service et par le fait du service et qui souhaite rester en service conformément aux conditions que le Roi détermine;
+
+5° pendant une période de suspension par mesure d'ordre, si aucune sanction entraînant la sortie du cadre de réserve n'a été prononcée;
+
+6° pendant une période de séparation de l'armée, si les faits qui ont causé l'absence ou si la conduite du militaire de réserve pendant l'absence sont compatibles avec son état. ".
+
+###### Art. 223/1
+
+[<sup>1</sup> L'article 9 de la même loi est remplacé par la disposition suivante :
+
+"Art. 9. Le militaire du cadre de réserve en service actif en période de paix se trouve dans une des sous-positions visées à l'article 190 de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées.".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 312, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 224
+
+[<sup>1</sup> Sont abrogés, dans la même loi :
+
+1° l'article 1er;
+
+2° l'article 2, modifié par la loi du 22 mars 2001;
+
+3° l'article 3bis, inséré par la loi du 22 mars 2001;
+
+4° l'article 6, modifié par les lois du 27 mars 2003 et du 14 juin 2006;
+
+5° l'article 10, modifié par les lois du 22 mars 2001 et du 27 mars 2003.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 313, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### CHAPITRE XIV. - Modification de la loi du 20 mai 1994 relative aux droits pécuniaires des militaires.
+
+###### Art. 225
+
+[<sup>1</sup> L'article 1er de la loi du 20 mai 1994 relative aux droits pécuniaires des militaires, modifié par la loi du 16 mai 2001, est remplacé par la disposition suivante :
+
+"Article 1er. La présente loi est applicable aux militaires du cadre actif visés à l'article 2, alinéa 1er, de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées, et du cadre de réserve visé à l'article 2 de la loi du 16 mai 2001 portant statut des militaires du cadre de réserve des Forces armées, ci-après dénommés "les militaires".".]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 314, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 226
+
+&lt;Abrogé par L 2013-07-31/04, art. 315, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 226/1
+
+[<sup>1</sup> Dans l'article 3 de la même loi, les modifications suivantes sont apportées :
+
+1° au paragraphe 1er, l'alinéa 2 est remplacé par ce qui suit :
+
+"En dérogation à l'alinéa 1er, le militaire du cadre de réserve qui effectue une période de formation, un rappel ou une prestation complémentaire visée à l'article 38 de la loi du 16 mai 2001 portant statut des militaires du cadre de réserve des Forces armées, a droit :
+
+1° lorsqu'il bénéficie d'une pension militaire d'ancienneté, à une allocation égale à la différence entre d'une part le traitement de militaire auquel il peut prétendre, et d'autre part le montant de sa pension;
+
+2° lorsqu'il est un agent statutaire dont, en vertu de son statut, la rémunération n'est pas suspendue, ou n'est suspendue qu'après un certain temps, par la personne morale de droit public ou par l'établissement d'enseignement libre subventionné, qui est son employeur, à un complément de traitement égal à la différence entre, d'une part le traitement de militaire auquel il peut prétendre, et d'autre part le traitement auquel il peut prétendre en tant qu'agent statutaire, à condition que le traitement de militaire soit supérieur.";
+
+2° le paragraphe 1erbis, inséré par la loi du 16 mai 2001, est abrogé;
+
+3° le paragraphe 3bis, inséré par la loi du 25 mai 2000 et modifié par les lois du 27 mars 2003 et du 5 mars 2006, est complété par un alinéa, rédigé comme suit :
+
+"Le militaire en congé pour soins palliatifs n'a pas droit au traitement. Toutefois, il perçoit une allocation d'interruption aux taux et aux conditions fixées pour le personnel des services publics fédéraux.";
+
+4° le paragraphe 3ter, inséré par la loi du 22 mars 2001 et modifié par la loi du 27 mars 2003, est abrogé;
+
+5° au paragraphe 4 :
+
+a) l'alinéa 1er, modifié par les lois des 27 mars 2003 et 16 juillet 2005, est remplacé par ce qui suit :
+
+"Le militaire qui subit une peine privative de liberté, à laquelle il a été condamné par une juridiction belge ou par une juridiction étrangère si la décision est reconnue en Belgique, perçoit 50 pour cent du dernier traitement, sans que le montant puisse être inférieur au montant du revenu d'intégration visé à l'article 14 de la loi du 26 mai 2002 concernant le droit à l'intégration sociale.";
+
+b) dans l'alinéa 2, 1°, modifié par la loi du 27 mars 2003, les mots "sous le régime de la semi-détention, des arrêts de fin de semaine, de la semi-liberté," sont remplacés par les mots "sous le mode d'exécution de la détention limitée, de la libération conditionnelle";
+
+6° au paragraphe 5 :
+
+a) dans l'alinéa 1er, modifié par la loi du 27 mars 2003, les mots "minimum de moyens d'existence, tel que visé à l'article 2 de la loi du 7 août 1974 instituant le droit à un minimum de moyens d'existence" sont remplacés par les mots "montant du revenu d'intégration visé à l'article 14 de la loi du 26 mai 2002 concernant le droit à l'intégration sociale";
+
+b) un alinéa rédigé comme suit est inséré entre les alinéas 2 et 3 :
+
+"Lorsqu'il est mis fin à la suspension par mesure d'ordre d'un militaire au cours d'une procédure pénale engagée à son encontre ou d'une procédure pouvant donner lieu à une mesure statutaire, entamée pour les mêmes faits, le militaire concerné ne peut prétendre à la liquidation de la quote-part du traitement non perçu sur la base de l'alinéa 1er, 1°, qu'à partir du moment où le jugement, l'arrêt ou la mesure statutaire n'est plus susceptible de recours. Cette liquidation n'est pas due pour la période de suspension par mesure d'ordre qui est convertie en une période de non-activité.";
+
+c) dans l'alinéa 3 ancien, devenant l'alinéa 4, les mots "des alinéas 1er et 2" sont remplacés par les mots "des alinéas 1er à 3".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 316, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 227
+
+[<sup>1</sup> L'article 4 de la même loi est remplacé par ce qui suit :
+
+"Article 4. § 1er. Le traitement du candidat militaire "en période de formation scolaire" est réduit d'un montant correspondant à un coefficient fixé par le Roi. Ce coefficient ne peut être supérieur à 0,5.
+
+Par candidat militaire "en période de formation scolaire", on entend :
+
+1° le candidat officier qui suit les cours de l'Ecole royale militaire, d'un institut supérieur industriel, de l'école supérieure de navigation, d'une université en vue de l'obtention du diplôme de médecine, de vétérinaire, de dentiste ou de pharmacien, ou de tout autre établissement déterminé par le Roi, qui dispense un enseignement permettant l'accès au niveau A;
+
+2° le candidat sous-officier du niveau B qui suit les cours d'un établissement de l'enseignement supérieur en vue de l'obtention d'un bachelier.
+
+§ 2. Le traitement du candidat officier qui est recruté sur la base des dispositions visées à l'article 5, § 1er, 2°, de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées, est réduit du même coefficient que celui visé au § 1er jusqu'au moment où il est nommé dans un grade d'officier.".]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 317, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 227/1
+
+[<sup>1</sup> Dans l'article 5, § 1er, alinéa 2, de la même loi, les mots "de la Défense nationale" sont chaque fois remplacés par les mots "de la Défense".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 318, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 228
+
+[<sup>1</sup> A l'article 9bis de la même loi, inséré par la loi du 27 mars 2003 et modifié par la loi du 5 mars 2006, sont apportées les modifications suivantes :
+
+1° dans le paragraphe 1er, alinéa 1er, les mots ", "en appui militaire"" sont insérés entre les mots ""en assistance"" et les mots "en engagement opérationnel"";
+
+2° l'article est complété par le paragraphe 4 rédigé comme suit :
+
+" § 4. Le Roi peut créer une allocation visant à accorder au militaire les mêmes avantages que ceux accordés au personnel des services publics fédéraux. Il en détermine, le cas échéant forfaitairement le montant et en règle l'octroi.
+
+Le Roi peut accorder, éventuellement pour une durée limitée, une allocation ou un complément de traitement visant à compenser une perte éventuelle de revenus ou de perspectives de revenus, due à une modification de droits pécuniaires existants. Il en détermine, le cas échéant forfaitairement, le montant et en règle l'octroi.
+
+Toutefois, Il peut charger le Ministre de la Défense de fixer les mesures complémentaires nécessaires à l'exécution de la réglementation arrêtée par Lui.".]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 319, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 228/1
+
+[<sup>1</sup> Dans l'article 10, alinéa 1er de la même loi, inséré par la loi du 22 mars 2001 et modifié par la loi du 27 mars 2003, les mots "ou dans la sous-position "engagement opérationnel"" sont remplacés par les mots ", "appui militaire", ou "engagement opérationnel"".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 320, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 228/2
+
+[<sup>1</sup> Dans l'article 10bis, § 1er, alinéa 1er, de la même loi, inséré par la loi du 27 mars 2003, le mot "également" est abrogé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 321, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 228/3
+
+[<sup>1</sup> Dans l'article 10ter, § 2, alinéa 2, 4°, de la même loi, les mots "ou de vice-chef de la défense" sont abrogés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 322, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 228/4
+
+[<sup>1</sup> A l'article 11, § 4, de la même loi, inséré par la loi du 22 mars 2001, les modifications suivantes sont apportées :
+
+1° l'alinéa 1er est complété par le 3°, rédigé comme suit :
+
+"3° accorder des allocations visant à promouvoir la rétention de certains militaires au sein des Forces armées.";
+
+2° le paragraphe est complété par un alinéa rédigé comme suit :
+
+"Concernant les allocations de rétention visées à l'alinéa 1er, 3°, le Roi fixe :
+
+1° le montant et les modalités d'octroi des allocations;
+
+2° par catégorie de personnel, les conditions auxquelles les militaires doivent répondre afin d'être pris en compte pour l'octroi de ces allocations;
+
+3° par catégorie de personnel, le nombre maximal de militaires qui peuvent en bénéficier;
+
+4° les modalités éventuelles de remboursement si le militaire ne satisfait plus aux conditions fixées.".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 323, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 228/5
+
+[<sup>1</sup> Dans l'article 13ter, § 1er, de la même loi, inséré par la loi du 29 décembre 2010, l'alinéa 1er est remplacé par ce qui suit :
+
+"Le militaire qui est détaché en application de l'article 44 de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées, n'est plus rémunéré par la Défense pendant la période de mise à la disposition ou de la mission officielle. Pendant cette période, le militaire bénéficie en principe des avantages pécuniaires octroyés par l'organisme auprès duquel il est détaché.".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 324, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 228/6
+
+[<sup>1</sup> Dans le chapitre V de la même loi, il est inséré un article 13quater rédigé comme suit :
+
+"Art. 13quater. Le militaire qui est soumis au régime de travail des veilleurs de nuit ou du travail en équipe, et qui, au 31 décembre de l'année fixée par l'autorité que le Roi désigne, compte plus de 200 heures prestées en trop qui n'ont pu être récupérées en temps, perçoit pour chaque heure au-delà de la norme de 200 heures, une allocation dont le montant est fixé à 1/1850 du traitement annuel brut qui a servi de base au calcul de la rémunération due pour le mois précédent la date fixée.".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 325, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 228/7
+
+[<sup>1</sup> Dans l'article 14, alinéa 2, de la même loi, les mots "de la Défense nationale" sont remplacés par les mots "de la Défense".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 326, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### CHAPITRE XV. - Modification de la loi du 20 mai 1994 relative aux statuts du personnel de la Défense.
+
+###### Art. 229
+
+Sont abrogés dans la loi du 20 mai 1994 relative aux statuts du personnel de la Défense :
+
+1° l'article 90, § 1er, remplacé par la loi du 22 mars 2001;
+
+2° l'article 99bis, inséré par la loi du 20 juillet 2005 et modifié par les lois des 5 mars 2006 et 20 juillet 2006.
+
+###### Art. 229/1
+
+[<sup>1</sup> L'article 91 de la loi du 20 mai 1994 relative aux statuts du personnel de la Défense est complété par un alinéa rédigé comme suit :
+
+"Dans le cadre des opérations et exercices effectués à l'étranger, l'Etat peut, si des circonstances exceptionnelles le justifient, prendre en charge l'indemnisation des dommages causés aux tiers par un militaire, lorsque ce militaire a agi en dehors de ses fonctions. Le militaire est tenu de rembourser les sommes dont question à l'Etat, selon les modalités fixées par le Roi.".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 327, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 229/2
+
+[<sup>1</sup> L'article 95 de la même loi est complété par un alinéa 2 rédigé comme suit :
+
+"Dans le cadre des opérations et exercices effectués à l'étranger, l'Etat peut, si des circonstances exceptionnelles le justifient, mettre à disposition d'un militaire les frais de caution, entendus au sens de la loi locale, auxquels ce militaire est exposé, même s'il a agi en dehors de ses fonctions. Le militaire est tenu de rembourser les sommes dont question à l'Etat, selon les modalités fixées par le Roi.".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 328, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### CHAPITRE XV/1. [<sup>1</sup> - Modification de la loi du 7 décembre 1998 organisant un service de police intégré à deux niveaux]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 329, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 229/3
+
+[<sup>1</sup> Dans l'article 118, alinéa 2, de la loi du 7 décembre 1998 organisant un service de police intégré à deux niveaux, modifié par la loi du 16 juillet 2005, les mots "et au sens du Titre V, Section 3, de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées" sont insérés entre les mots "au sens de la loi du 16 juillet 2005 instituant le transfert de certains militaires vers un employeur public," et les mots "soit des membres de personnel engagé dans les liens d'un contrat de travail".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 330, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### CHAPITRE XVI. - Abrogation de la loi du 16 mars 2000 relative à la démission de certains militaires et à la résiliation de l'engagement ou du rengagement de certains candidats militaires, à la fixation de la période de rendement et à la récupération par l'Etat d'une partie des frais consentis par l'Etat pour la formation et d'une partie des traitements perçus pendant la formation.
+
+###### Art. 230
+
+La loi du 16 mars 2000 relative à la démission de certains militaires et à la résiliation de l'engagement ou du rengagement de certains candidats militaires, à la fixation de la période de rendement et à la récupération par l'Etat d'une partie des frais consentis par l'Etat pour la formation et d'une partie des traitements perçus pendant la formation, modifiée par la loi du 22 mars 2001, modifiée par l'arrêt de la Cour d'Arbitrage numéro 28/2002 du 30 janvier 2002, modifié par les lois des 11 novembre 2002, 27 mars 2003, 16 juillet 2005 et 5 mars 2006, est abrogée.
+
+### CHAPITRE XVII. - Modification de la (loi) du 25 mai 2000 instaurant le régime volontaire de travail de la semaine de quatre jours et le régime du départ anticipé à mi-temps pour certains militaires et modifiant le statut des militaires en vue d'instaurer le retrait temporaire d'emploi par interruption de carrière. &lt;Erratum, M.B. 12.09.2007, p 48328&gt;
+
+###### Art. 231
+
+Dans l'article 2, § 1er, alinéa 1er, de la loi du 25 mai 2000 instaurant le régime volontaire de travail de la semaine de quatre jours et le régime du départ anticipé à mi-temps pour certains militaires et modifiant le statut des militaires en vue d'instaurer le retrait temporaire d'emploi par interruption de carrière, modifié par la loi du 16 juillet 2005, les mots " Le militaire de carrière ou de complément " sont remplacés par les mots " Le militaire du cadre actif " et les mots " de la gendarmerie " sont remplacés par les mots " du service de police intégré, structuré à deux niveaux ".
+
+###### Art. 232
+
+&lt;Abrogé par L 2013-07-31/04, art. 331, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 233
+
+[<sup>1</sup> Dans l'article 6 de la même loi, modifié par les lois des 6 février 2003, 16 juillet 2005 et 20 juillet 2006, les modifications suivantes sont apportées :
+
+a) dans le paragraphe 1er, 5°, les mots "juridiction militaire" sont remplacés par le mot "juridiction";
+
+b) le paragraphe 1er est complété comme suit :
+
+"11° lorsque la période de crise est décrétée.".]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 332, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 234
+
+[<sup>1</sup> Dans l'article 11, alinéa 1er, de la même loi, modifié par la loi du 16 juillet 2005, les mots "de la gendarmerie" sont remplacés par les mots "du service de police intégré, structuré à deux niveaux".]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 333, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 235
+
+L'article 14, § 1er, alinéa 1er, de la même loi, remplacé par la loi du 16 juillet 2005 et modifié par la loi du 20 juillet 2006, est complété comme suit :
+
+" 7° lorsque la période de crise est décrétée. "
+
+### CHAPITRE XVIII. - Modification de la loi du 16 mai 2001 portant statut des militaires du cadre de réserve des Forces armées.
+
+###### Art. 236
+
+[<sup>1</sup> A l'article 6 de la loi du 16 mai 2001 portant statut des militaires du cadre de réserve des Forces armées, modifié par la loi du 30 décembre 2008, les modifications suivantes sont apportées :
+
+1° l'alinéa 2 est complété par les mots ", selon la catégorie de personnel pour laquelle ils sont formés.";
+
+2° l'article est complété par un alinéa rédigé comme suit :
+
+"Toutefois, jusqu'à la date que le Roi fixe, il faut entendre par "dispositions législatives et réglementaires" visées à cet article, celles qui étaient d'application à la veille de la mise en vigueur de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées, tenant compte des modifications que ces dispositions auraient subies. Toutefois, l'article 189 de la loi précitée est applicable aux militaires du cadre de réserve.".]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 334, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 236/1
+
+[<sup>1</sup> Dans l'article 56 de la même loi, l'alinéa 2 est abrogé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 335, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 236/2
+
+[<sup>1</sup> Dans l'article 59 de la même loi, les mots "d'officier général et" sont abrogés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 336, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 236/3
+
+[<sup>1</sup> A l'article 60 de la même loi, modifié par les lois des 30 décembre 2008 et 22 mars 2012, les modifications suivantes sont apportées :
+
+1° dans l'alinéa 1er, les mots "de lieutenant-colonel, de colonel et de général-major" sont remplacés par les mots "de lieutenant-colonel et de colonel";
+
+2° l'alinéa 5 est remplacé par ce qui suit :
+
+"L'officier revêtu respectivement du grade de lieutenant, de major ou de lieutenant-colonel, admis avec ce grade dans le cadre de réserve en application de l'article 10, est dispensé de tout ou partie des épreuves professionnelles pour l'avancement aux grades respectivement de capitaine, de lieutenant-colonel ou de colonel.".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 337, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 236/4
+
+[<sup>1</sup> L'article 63bis de la même loi, inséré par la loi du 30 décembre 2008, est abrogé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 338, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 236/5
+
+[<sup>1</sup> Dans le chapitre X de la même loi, il est inséré un article 68/1 rédigé comme suit :
+
+"Article 68/1. Sans préjudice de l'application d'autres lois qui régissent l'exercice d'activités et de mandats politiques, les militaires du cadre de réserve sont autorisés à exercer toute activité ou mandats politiques, pour autant que le service le permette et qu'ils aient lieu en dehors des périodes de prestations au sein des Forces armées.".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 339, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 236/6
+
+[<sup>1</sup> L'article 72, alinéa 1er, de la même loi, modifié par les lois des 16 juillet 2005 et 30 décembre 2008, est complété par le 6° rédigé comme suit :
+
+"6° par l'expiration de son engagement ou rengagement, s'il ne souscrit pas un nouveau rengagement et n'a pas un rengagement suspendu.".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 340, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 236/7
+
+[<sup>1</sup> A l'article 73 de la même loi, les modifications suivantes sont apportées :
+
+1° l'alinéa 2, inséré par la loi du 30 décembre 2008, est remplacé par ce qui suit :
+
+"Toutefois, lorsque les nécessités d'encadrement l'exigent, le ministre de la Défense peut autoriser un militaire de réserve à rester ou à être réintégré dans le cadre de réserve au-delà de l'âge fixé à l'alinéa 1er, en vue d'exécuter des rappels visés à l'article 4, 7° à 11°, ou des prestations visées à l'article 38 pour autant que leur durée soit de moins de deux mois sur une base annuelle. Ce militaire de réserve ne peut plus être promu à un grade supérieur. A cette fin, ce militaire de réserve signe un rengagement spécial. Le rengagement spécial est souscrit, soit pour une durée d'un an, qui peut être renouvelée pour des périodes successives d'un an, soit pour exécuter un mandat dont le militaire de réserve est chargé par le ministre de la Défense.";
+
+2° l'article est complété par un alinéa 3, rédigé comme suit :
+
+"Tout rengagement en cours prend fin de plein droit le 31 décembre de l'année au cours de laquelle le militaire de réserve a atteint l'âge de soixante-cinq ans.".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 341, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### CHAPITRE XIX. - [<sup>1</sup> Modification]<sup>1</sup> de la loi du 11 novembre 2002 relative aux officiers auxiliaires des Forces armées.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 342, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 237
+
+[<sup>1</sup> L'article 3 de la loi du 11 novembre 2002 relative aux officiers auxiliaires des Forces armées est remplacé par ce qui suit :
+
+"Art. 3. L'officier auxiliaire pilote appartient à la filière de métiers "emploi des systèmes d'arme aériens".
+
+L'officier auxiliaire ATC appartient à la filière de métiers "contrôle aérien"."]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 343, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 237/1
+
+[<sup>1</sup> A l'article 4 de la même loi, les modifications suivantes sont apportées :
+
+1° dans l'alinéa 2, modifié par la loi du 26 avril 2009, les mots "7 et 9, §§ 1er, 2 et 2bis, les articles 9bis" sont remplacés par les mots "7, 9, 9bis";
+
+2° l'article est complété par un alinéa rédigé comme suit :
+
+"Pour autant que ces dispositions ne soient pas incompatibles avec les dispositions de la présente loi et pour autant que les dispositions réglementaires ne soient pas incompatibles avec les dispositions réglementaires prises en exécution de la présente loi, l'article 10bis, alinéa 2, de la loi du 23 décembre 1955 est applicable au candidat officier auxiliaire pilote ou ATC.".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 344, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 237/2
+
+[<sup>1</sup> Dans l'article 5, §§ 1er et 2, alinéa 2, de la même loi, modifié par la loi du 16 juillet 2005, les mots "par corps visés" sont chaque fois remplacés par les mots "par filière de métiers visée".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 345, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 237/3
+
+[<sup>1</sup> Dans l'article 16 de la même loi, les mots "des officiers de complément du corps auquel" sont remplacés par les mots "des officiers de carrière du niveau B de la filière de métiers à laquelle".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 346, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 237/4
+
+[<sup>1</sup> Dans l'article 18 de la même loi, les mots "dans le cadre de carrière du corps auquel" sont remplacés par les mots "comme officier de carrière du niveau A de la filière de métiers à laquelle".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 347, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 237/5
+
+[<sup>1</sup> Dans l'article 19 de la même loi, les mots "dans le cadre de complément du corps auquel" sont remplacés par les mots "comme officier de carrière du niveau B de la filière de métiers à laquelle".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 348, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 237/6
+
+[<sup>1</sup> L'intitulé de la loi du 6 février 2003 relative à la démission volontaire accompagnée d'un programme personnalisé de reconversion professionnelle au bénéfice de certains militaires et portant des dispositions sociales, est remplacé par ce qui suit :
+
+"Loi du 6 février 2003 portant des dispositions sociales pour des militaires qui retournent à la vie civile".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 349, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+### CHAPITRE XX. - Modification de la loi du 6 février 2003 relative à la démission volontaire accompagnée d'un programme personnalisé de reconversion professionnelle au bénéfice de certains militaires et portant des dispositions sociales.
+
+###### Art. 238
+
+[<sup>1</sup> Sont abrogés dans la même loi :
+
+1° les articles 2 à 6;
+
+2° l'article 7, modifié par la loi du 16 juillet 2005;
+
+3° l'article 8;
+
+4° l'article 9, modifié par la loi du 16 juillet 2005;
+
+5° les articles 10, 11 et 12;
+
+6° l'article 13, modifié par la loi du 16 juillet 2005;
+
+7° les articles 22 et 23.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 350, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 238/1
+
+[<sup>1</sup> Dans l'article 26 de la même loi, les mots "du programme de reconversion professionnelle" sont abrogés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 351, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+### CHAPITRE XXI. - Modification de la loi du 25 février 2003 portant création de la fonction d'agent de sécurité en vue de l'exécution des missions de police des cours et tribunaux et de transfert de détenus.
+
+###### Art. 239
+
+L'article 5, alinéa 1er, de la loi du 25 février 2003 portant création de la fonction d'agent de sécurité en vue de l'exécution des missions de police des cours et tribunaux et de transfert des détenus, remplacé par la loi du 20 juillet 2006, est remplacé par la disposition suivante :
+
+" En dérogation à l'article 8, § 1er, alinéa 1er, de la loi du 21 juillet 1844 sur les pensions civiles et ecclésiastiques, chaque année passée en activité de service en qualité d'agent de sécurité est calculée à raison de 1/50e du traitement de référence qui sert de base à l'établissement de la pension de retraite. ".
+
+### CHAPITRE XXII. - [<sup>1</sup> Modification]<sup>1</sup> de la loi du 27 mars 2003 relative au recrutement des militaires et au statut des musiciens militaires et modifiant diverses lois applicables au personnel de la Défense.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 352, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 240
+
+[<sup>1</sup> Les articles 2 à 20 de la loi du 27 mars 2003 relative au recrutement des militaires et au statut des musiciens militaires et modifiant diverses lois applicables au personnel de la Défense, modifiés par les lois des 16 juillet 2005 et 30 décembre 2008, sont abrogés.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 353, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### CHAPITRE XXIII. - [<sup>1</sup> Modification]<sup>1</sup> de la loi du 16 juillet 2005 instituant le transfert de certains militaires vers un employeur public.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 354, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 241
+
+[<sup>1</sup> Dans la loi du 16 juillet 2005 instituant le transfert de certains militaires vers un employeur public, les articles suivants sont abrogés :
+
+1° l'article 2, modifié par les lois du 27 décembre 2006 et 23 avril 2010;
+
+2° l'article 3;
+
+3° l'article 4, modifié par la loi du 5 mars 2006;
+
+4° l'article 5, modifié par les lois du 20 juillet 2006 et 20 juin 2012;
+
+5° les articles 6 à 9.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 355, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 241/1
+
+[<sup>1</sup> Dans l'article 10 de la même loi, remplacé par la loi du 20 juillet 2006, les modifications suivantes sont apportées :
+
+1° dans l'alinéa 1er, les mots "les militaires transférés" sont remplacés par les mots "les militaires transférés en application de la présente loi";
+
+2° l'alinéa 6 est abrogé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 356, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+### CHAPITRE XXIV. - [<sup>1</sup> Modification]<sup>1</sup> de la loi du 5 mars 2006 fixant des dispositions spécifiques relatives au statut des officiers du corps technique médical du service médical.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 357, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 242
+
+[<sup>1</sup> Dans l'intitulé de la loi du 5 mars 2006 fixant des dispositions spécifiques relatives au statut des officiers du corps technique médical du service médical, les mots "du corps technique médical du service médical" sont remplacés par les mots "appartenant à la filière de métiers "techniques médicales"".]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 358, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 242/1
+
+[<sup>1</sup> A l'article 2 de la même loi, les modifications suivantes sont apportées :
+
+1° dans l'alinéa 1er, les mots "du corps technique médical du service médical" sont remplacés par les mots "appartenant à la filière de métiers "techniques médicales"";
+
+2° dans l'alinéa 2, 2° à 5°, les mots "au corps technique médical" sont remplacés par les mots "à la filière de métiers "techniques médicales"";
+
+3° dans l'alinéa 2, 13°, les mots "du corps technique médical" sont remplacés par les mots "appartenant à la filière de métiers "techniques médicales"".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 359, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 242/2
+
+[<sup>1</sup> Dans la même loi, il est inséré un article 3/1 rédigé comme suit :
+
+"Art. 3/1. Un officier appartenant à la filière de métiers "techniques médicales" ne peut pas être transféré à sa demande dans une autre filière de métiers.".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 360, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 242/3
+
+[<sup>1</sup> Dans l'article 11, alinéa 1er, de la même loi, les mots "au corps technique médical" sont remplacés par les mots "à la filière de métiers "techniques médicales"".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 361, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 242/4
+
+[<sup>1</sup> Dans l'article 15 de la même loi, les mots "des autres corps" sont remplacés par les mots "des autres filières de métiers".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 362, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 242/5
+
+[<sup>1</sup> Dans l'article 18 de la même loi, les mots "des autres corps" sont remplacés par les mots "des autres filières de métiers".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 363, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 242/6
+
+[<sup>1</sup> Dans la même loi, il est inséré un article 21/1 rédigé comme suit :
+
+"Art. 21/1. L'article 176 de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées, ne s'applique pas aux candidats officiers du recrutement spécial ou latéral appartenant à la filière de métiers "techniques médicales"."]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 364, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 242/7
+
+[<sup>1</sup> Dans l'article 32 de la même loi, les mots "du corps technique médical" sont remplacés par les mots "appartenant à la filière de métiers "techniques médicales"".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 365, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 242/8
+
+[<sup>1</sup> Dans l'article 35 de la même loi, les mots "du corps technique médical" sont remplacés par les mots "appartenant à la filière de métiers "techniques médicales"".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 366, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 242/9
+
+[<sup>1</sup> Dans l'article 36 de la même loi, les mots "du corps technique médical" sont remplacés par les mots "appartenant à la filière de métiers "techniques médicales"".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 367, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### CHAPITRE XXV. [<sup>1</sup> - Modification de la loi du 22 décembre 2008 portant des dispositions diverses]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 368, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 242/10
+
+[<sup>1</sup> L'article 35 de la loi du 22 décembre 2008 portant des dispositions diverses est abrogé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 369, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+### CHAPITRE XXVI. [<sup>1</sup> - Modification de la loi du 10 janvier 2010 instituant l'engagement volontaire militaire et modifiant diverses lois applicables au personnel militaire]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 370, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 242/11
+
+[<sup>1</sup> Dans la loi du 10 janvier 2010 instituant l'engagement volontaire militaire et modifiant diverses lois applicables au personnel militaire, il est inséré un article 36/1 rédigé comme suit :
+
+"Art. 36/1. Pour des raisons de santé et pour autant que la prolongation de la formation consécutive à cet ajournement n'excède pas la durée maximum du cycle de formation fixée par le Roi, le candidat EVMI peut obtenir un ajournement.".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 371, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 242/12
+
+[<sup>1</sup> Dans l'article 37 de la même loi, le 1° est abrogé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 372, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+## TITRE X. - Dispositions transitoires et finales.
+
+###### Art. 243
+
+§ 1er. [<sup>1</sup> L'officier et le sous-officier sont inscrits, dès l'entrée en vigueur de la présente disposition, dans une filière de métiers. Le militaire qui est inscrit dans une filière de métier peut également acquérir un ou plusieurs pôles de compétence.]<sup>1</sup>
+
+§ 2. L'inscription dans une filière de métiers a lieu sur base :
+
+1° soit du corps ou de la spécialité du militaire concerné;
+
+2° soit d'une fonction exercée ou d'une formation reçue [<sup>1</sup> ...]<sup>1</sup> dans le domaine de la filière de métiers concernée.
+
+§ 3. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 4. [<sup>1</sup> L'acquisition d'un]<sup>1</sup> pôle de compétence a lieu sur base :
+
+1° soit d'une fonction exercée ou d'une formation reçue dans le domaine du pôle de compétence concerné;
+
+2° soit de l'expérience acquise dans le pôle de compétence concerné.
+
+§ 5. [<sup>1</sup> Le Roi fixe les modalités d'inscription dans les filières de métiers, et d'acquisition de pôles de compétence.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 373, 006; En vigueur : 01-10-2013; voir 2013-10-01/02, art. 11, 1°&gt;
+
+###### Art. 244
+
+[<sup>1</sup> Sans préjudice de l'application des dispositions de l'article 243, les volontaires et candidats volontaires de carrière, ainsi que les volontaires et candidats volontaires de complément, en service la veille de la date d'entrée en vigueur de la présente disposition, sont transférés dans la catégorie de personnel des volontaires de carrière. En fonction de leur ancienneté dans le dernier grade la veille de la date d'entrée en vigueur de la présente disposition, reprise dans la colonne de gauche des tableaux I et II de l'annexe A à la présente loi, ils sont, selon le cas, nommés ou commissionnés dans le grade et possèdent l'ancienneté dans ce grade correspondant à la colonne de droite de ces tableaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 374, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 244/1
+
+[<sup>1</sup> Les sous-officiers et candidats sous-officiers en service la veille de la date d'entrée en vigueur de la présente disposition sont répartis en deux groupes, à savoir :
+
+1° les sous-officiers et candidats sous-officiers qui, la veille de la date d'entrée en vigueur de la présente disposition, étaient rémunérés sur la base, selon le cas :
+
+a) du tableau 10 de l'arrêté royal du 18 mars 2003 relatif au statut pécuniaire des militaires de tous rangs et au régime des prestations de service des militaires du cadre actif au-dessous du rang d'officier;
+
+b) de l'article 2 de l'arrêté royal du 6 décembre 2001 accordant des avantages pécuniaires à certains militaires exerçant une fonction paramédicale;
+
+2° les autres sous-officiers et candidats sous-officiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 375, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 245
+
+[<sup>1</sup> Sans préjudice de l'application des dispositions de l'article 243, les sous-officiers et candidats sous-officiers visés à l'article 244/1, 2°, sont transférés dans la catégorie de personnel des sous-officiers de niveau C. En fonction de leur ancienneté dans le dernier grade la veille de la date d'entrée en vigueur de la présente disposition, reprise dans la colonne de gauche des tableaux III, IV et V de l'annexe A à la présente loi, ils sont, selon le cas, nommés ou commissionnés dans le grade et possèdent l'ancienneté dans ce grade correspondant à la colonne de droite de ces tableaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 376, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 246
+
+[<sup>1</sup> Sans préjudice de l'application des dispositions de l'article 243, les sous-officiers et candidats sous-officiers visés à l'article 244/1, 1°, sont transférés dans la catégorie de personnel des sous-officiers de niveau B. En fonction de leur ancienneté dans le dernier grade la veille de la date d'entrée en vigueur de la présente disposition, reprise dans la colonne de gauche des tableaux VI et VII de l'annexe A à la présente loi, ils sont, selon le cas, nommés ou commissionnés dans le grade et possèdent l'ancienneté dans ce grade correspondant à la colonne de droite de ces tableaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 377, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 246/1
+
+[<sup>1</sup> Les officiers et candidats officiers en service la veille de la date d'entrée en vigueur de la présente disposition sont répartis en deux groupes, à savoir :
+
+1° les officiers et candidats-officiers de carrière;
+
+2° les officiers et candidats-officiers de complément.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 378, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 247
+
+[<sup>1</sup> Sans préjudice de l'application des dispositions de l'article 243, les officiers et candidats officiers visés à l'article 246/1, 1°, sont transférés dans la catégorie de personnel des officiers de carrière de niveau A avec leur grade et ancienneté dans le grade qu'ils avaient la veille de la date d'entrée en vigueur de la présente disposition.
+
+Sans préjudice de l'application des dispositions de l'article 243, les officiers et candidats officiers visés à l'article 246/1, 2°, sont transférés dans la catégorie de personnel des officiers de niveau B. En fonction de leur ancienneté dans le dernier grade la veille de la date d'entrée en vigueur de la présente disposition, reprise dans la colonne de gauche des tableaux IX et X de l'annexe A à la présente loi, ils sont, selon le cas, nommés ou commissionnés dans le grade et possèdent l'ancienneté dans ce grade correspondant à la colonne de droite de ces tableaux.
+
+Les officiers et candidats officiers du niveau B visés à l'alinéa 2, bénéficient du traitement applicable aux officiers et candidats officiers du niveau A]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 379, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 248
+
+&lt;Abrogé par L 2013-07-31/04, art. 380, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 249
+
+§ 1er. Si un militaire en service la veille de la date d'entrée en vigueur de la présente disposition possède à cette date une ancienneté supérieure à celle mentionnée à une des lignes de la colonne de gauche des tableaux [<sup>1</sup> I à X]<sup>1</sup> de l'annexe A à la présente loi, l'ancienneté dans le grade correspondant visée à une des lignes de la colonne de droite des mêmes tableaux [<sup>1</sup> I à X]<sup>1</sup> est majorée en proportion.
+
+Toutefois, le militaire dont la candidature à l'avancement à l'ancienneté a été réexaminée au moins une fois conserve son grade et son ancienneté dans ce grade. Le militaire promu lors d'un examen ultérieur, prend rang dans le grade dans lequel il aurait été transféré et avec l'ancienneté qu'il aurait eue dans ce grade s'il y avait été nommé à la date d'entrée en vigueur de la présente disposition.
+
+Tous les militaires qui, le jour avant la date d'entrée en vigueur de la présente disposition, sont définitivement dépassés à l'avancement, [<sup>1</sup> à l'exception des sous-officiers de carrière qui sont transférés dans la catégorie de personnel des sous-officiers du niveau B selon les tableaux VI et VII,]<sup>1</sup> restent dépassés à l'avancement et ne peuvent être promus dans un grade supérieur.
+
+[<sup>1</sup> En dérogation à l'article 37, dans les trois ans qui suivent l'entrée en vigueur de la présente disposition, le militaire qui la veille de l'entrée en vigueur de la présente disposition n'a pas encore atteint l'âge de 51 ans et qui a renoncé à l'avancement, peut être nommé au grade supérieur pour autant qu'il satisfasse aux conditions pour l'avancement de grade fixées dans la présente loi et pour autant qu'il introduise une demande à cet effet dans cette période de trois ans.]<sup>1</sup>
+
+§ 2. Le revenu alloué à un candidat militaire ou à un militaire en service la veille de la date d'entrée en vigueur de la présente disposition et [<sup>1</sup> soit transféré dans un grade visé à la colonne de droite des tableaux I à X de l'annexe A à la présente loi ou soit transféré en application de l'article 247, alinéa 1er]<sup>1</sup>, ne peut être, à aucun moment, inférieur au traitement dont il bénéficiait avant ce transfert complété de, s'il en bénéficiait, l'allocation de sélectionné visée à l'article 30 de l'arrêté royal du 18 mars 2003 relatif au statut pécuniaire des militaires de tous rangs et au régime des prestations de service des militaires du cadre actif [<sup>2</sup> au-dessous]<sup>2</sup> du rang d'officier, l'allocation de fonction d'état-major visée a l'article 31, § 2, du même arrêté, l'allocation de commandement visée à l'article 31, § 3, du même arrêté, l'allocation de formation visée à l'article 32 du même arrêté, le complément de traitement visé à l'article 2 de l'arrêté royal du 6 décembre 2001 accordant des avantages pécuniaires a certains militaires exerçant une fonction paramédicale.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 381, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;L 2016-11-21/20, art. 74, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 250
+
+Les militaires commissionnés à titre précaire pour exercer l'emploi d'un grade supérieur et les officiers commissionnés à un grade d'officier général non prévus dans la hiérarchie des grades avant la date d'entrée en vigueur de la présente disposition, conservent le bénéfice de leur commission [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 382, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 251
+
+[<sup>1</sup> Les candidats militaires en service la veille de la date d'entrée en vigueur de la présente disposition, visés à la colonne de gauche des tableaux I à X de l'annexe A à la présente loi et à l'article 247, alinéa 1er, et transférés dans le grade correspondant, selon le cas, visé à la colonne de droite des mêmes tableaux I à X, sont comptabilisés parmi les volontaires, les sous-officiers et les officiers en fonction du grade auquel ils sont commissionnés ou nommés à l'issue de leur transfert.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 383, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 252
+
+&lt;Abrogé par L 2013-07-31/04, art. 384, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 253
+
+&lt;Abrogé par L 2013-07-31/04, art. 385, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 254
+
+&lt;Abrogé par L 2013-07-31/04, art. 386, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 255
+
+[<sup>1</sup> Conserve de plein droit la qualité de militaire jusqu'à l'âge de sa mise à la retraite, le militaire qui appartient à la catégorie d'aptitude D en application de l'article 69, alinéa 7, pour autant :
+
+1° qu'à la date d'entrée en vigueur de la présente disposition, selon le cas :
+
+a) il ait atteint l'âge de 45 ans;
+
+b) ou qu'il compte au moins vingt-cinq années d'ancienneté de service comme militaire du cadre actif;
+
+2° qu'il ait obtenu [<sup>2</sup> ...]<sup>2</sup> la mention "suffisant" lors de ses deux dernières appréciations de poste et qu'il conserve au moins cette mention lors des [<sup>2</sup> évaluations statutaires]<sup>2</sup> ultérieures.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 387, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;L 2017-07-31/24, art. 15, 019; En vigueur : 31-12-2019&gt;
+
+###### Art. 256
+
+&lt;Abrogé par L 2013-07-31/04, art. 388, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 257
+
+&lt;Abrogé par L 2013-07-31/04, art. 389, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 258
+
+[<sup>1</sup> Les sous-officiers de complément visés à l'article 245, peuvent, après transfert dans la catégorie de sous-officiers de carrière du niveau C, être admis aux cours de perfectionnement visés à l'article 112, alinéa 1er.
+
+Pour pouvoir participer au cours de perfectionnement visé à l'article 112, alinéa 1er, 1°, le sous-officier visé à l'alinéa 1er doit satisfaire aux conditions suivantes :
+
+1° dans sa nouvelle qualité de sous-officier de carrière du niveau C, posséder une ancienneté d'au moins [<sup>3</sup> trois]<sup>3</sup> ans dans le grade de premier sergent ou être revêtu d'un grade supérieur;
+
+2° [<sup>3</sup> ...]<sup>3</sup>
+
+3° ne pas avoir atteint l'âge de [<sup>2</sup> 51 ans]<sup>2</sup> au 31 décembre de l'année de l'agrément de sa demande pour participer à ce cours.
+
+[<sup>3</sup> ...]<sup>3</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 390, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;L 2014-05-15/45, art. 2, 009; En vigueur : 31-12-2013&gt;
+
+(3)&lt;L 2022-06-02/06, art. 11, 024; En vigueur : 26-08-2022&gt;
+
+###### Art. 259
+
+&lt;Abrogé par L 2013-07-31/04, art. 391, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 260
+
+§ 1er. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 3. L'officier qui, la veille de l'entrée en vigueur de la présente disposition, a été recommandé favorablement par le comité d'avancement ou le haut comité pour l'avancement à un grade d'officier supérieur ou d'officier général, mais qui, le jour de l'entrée en vigueur de la présente disposition, n'a pas encore été nommé dans ce grade, est nomme dans ce grade à la date qui était prévue selon la réglementation en vigueur la veille de l'entrée en vigueur de la présente disposition.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 392, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 261
+
+&lt;Abrogé par L 2013-07-31/04, art. 393, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 262
+
+&lt;Abrogé par L 2013-07-31/04, art. 394, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 263
+
+[<sup>1</sup> A l'exception des candidats militaires visés à l'article 264, les candidats militaires qui, à la date d'entrée en vigueur de la présente disposition, suivent une formation visée à l'article 88, sont admis dans la qualité, selon le cas, de :
+
+1° candidat officier de carrière du niveau A du recrutement normal, complémentaire ou spécial, s'ils étaient, selon le cas, candidat officier de carrière du recrutement normal, complémentaire ou spécial;
+
+2° candidat officier de carrière du niveau B, s'ils étaient candidat officier de complément;
+
+3° candidat sous-officier de carrière du niveau C, s'ils étaient candidat sous-officier de carrière du recrutement normal, titulaires du certificat d'enseignement secondaire supérieur ou d'un diplôme ou certificat équivalent;
+
+4° candidat sous-officier de carrière du niveau B, s'ils étaient candidat sous-officier de carrière du recrutement spécial.
+
+Les candidats volontaires de carrière conservent cette qualité.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 395, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 264
+
+[<sup>1</sup> Les dispositions qui leur étaient applicables lorsqu'ils ont débuté leur formation, restent applicables aux candidats sous-officiers de carrière admis dans une école de sous-officiers en vue de l'obtention d'un diplôme de l'enseignement secondaire supérieur, candidats sous-officiers de complément, et candidat volontaires de complément.
+
+Le jour où ils terminent avec succès leur cycle de formation, les candidats visés à l'alinéa 1er obtiennent, selon le cas :
+
+1° la qualité de sous-officier de carrière du niveau C, s'ils étaient candidat sous-officier;
+
+2° la qualité de volontaire de carrière, s'ils étaient candidat volontaire de complément.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 396, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 265
+
+[<sup>1</sup> A l'exception des candidats militaires visés aux articles 263 et 264, les candidats militaires qui suivent une formation visée aux articles 114 et 115 à la date d'entrée en vigueur de la présente disposition, sont admis dans la qualité, selon le cas, de :
+
+1° candidat officier de carrière du niveau A, s'ils étaient candidat officier de carrière;
+
+2° candidat officier de carrière du niveau B, s'ils étaient candidat officier de complément;
+
+3° candidat sous-officier de carrière du niveau C, s'ils étaient candidat sous-officier de complément ou de carrière.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 397, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 266
+
+&lt;Abrogé par L 2013-07-31/04, art. 398, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 267
+
+&lt;Abrogé par L 2013-07-31/04, art. 399, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 268
+
+&lt;Abrogé par L 2013-07-31/04, art. 400, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 269
+
+&lt;Abrogé par L 2013-07-31/04, art. 401, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 270
+
+[<sup>1</sup> Le candidat militaire qui, à la date d'entrée en vigueur de la présente disposition, suit une formation en vue de son admission dans une autre catégorie de personnel, poursuit sa formation selon les dispositions de la section 4 du Chapitre II du Titre III.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 402, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 271
+
+Les commissions et nominations des militaires auxquels s'appliquent les dispositions [<sup>1</sup> des articles 263 et 270]<sup>1</sup> sont réglées [<sup>1</sup> dans les tableaux I à X]<sup>1</sup> de l'annexe A à la présente loi.
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 403, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 271/1
+
+[<sup>1</sup> Les militaires qui ont introduit une candidature pour une démission volontaire accompagnée d'un programme personnalisé de reconversion professionnelle, pour une utilisation ou pour un transfert, avant la date de mise en vigueur de la présente loi, restent soumis aux dispositions en vigueur à la veille de cette date.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 404, 006; En vigueur : 31-12-2013 par AR 2013-10-14/09, art. 9, 1°&gt;
+
+###### Art. 271/2
+
+[<sup>1</sup> A la date d'entrée en vigueur de la présente disposition, chaque militaire est censé appartenir à la catégorie d'aptitude A sur le plan de l'appréciation de poste et de l'appréciation de l'aptitude physique.
+
+En outre, à partir de la date d'entrée en vigueur de la présente disposition et en dérogation à l'article 69, chaque militaire reste durant cinq ans dans la catégorie d'aptitude A sur le plan de l'appréciation de l'aptitude physique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 405, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+###### Art. 271/3
+
+[<sup>1</sup> Jusqu'à la date que le Roi fixe, les dispositions relatives aux corps et spécialités, telles que celles-ci étaient d'application la veille de la date d'entrée en vigueur de la présente disposition, peuvent continuer à être appliquées, pour autant que cela soit nécessaire pour l'organisation de comités d'avancement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 406, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+###### Art. 271/4
+
+[<sup>1</sup> Le Roi fixe les mesures transitoires pour l'application de l'article 139/1, alinéa 2, 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 407, 006; En vigueur : 31-12-2013; voir AR 2013-12-26/04, art. 34, 1°&gt;
+
+###### Art. 271/5
+
+[<sup>1</sup> Le Roi est habilité, par arrêté royal délibéré en Conseil des Ministres, à modifier ou remplacer les dispositions de la présente loi conférant des habilitations au ministre de la Défense, afin de les attribuer à une autorité qu'Il désigne.
+
+L'habilitation conférée au Roi par l'alinéa 1er expire le 30 avril 2014.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-31/04, art. 408, 006; En vigueur : 30-09-2013&gt;
+
+###### Art. 272
+
+Le Roi fixe la date d'entrée en vigueur de chacune des dispositions de la présente loi, au plus tard le [<sup>1</sup> 31 décembre 2013]<sup>1</sup>.
+
+(NOTE : Entrée en vigueur des articles 54 à 60 fixée avec effet à une date indéterminée par AR 2007-11-25/30, art. 24, 1°; c'est-à-dire le jour de l'entrée en vigueur de l'AR 2007-11-21/43)
+
+(NOTE : entrée en vigueur de l'art. 195 fixée au 01-01-2009, par AR 2008-02-10/60, art. 1)
+
+(NOTE : entrée en vigueur des art. 194, 196 a 206, 210 à 212 et 239 fixée au 01-01-2009 par AR 2009-01-07/32, art. 1)
+
+(NOTE : entrée en vigueur des art. 38 à 42/1 et 243 - tels que modifiés par L 2013-07-31/04 - fixée au 01-10-2013 par AR 2013-10-01/02, art. 11, 1°)
+
+(NOTE : entrée en vigueur des art. 144 à 170/3, 216/1, 237/6 à 238/1, 241, 241/1 et 271/1 - tels que modifiés par L 2013-07-31/04 - fixée au 31-12-2013 par AR 2013-10-14/09, art. 9, 1°)
+
+(NOTE : entrée en vigueur des art. 141 à 143 - tels que modifiés par L 2013-07-31/04 - fixée au 31-12-2013 par AR 2013-10-14/11, art. 6, 1°)
+
+(NOTE : entrée en vigueur des art. 54 à 60 et 189 fixée au 31-12-2013 par AR 2013-10-14/12, art. 52, 1°)
+
+(NOTE : entrée en vigueur des articles 114, 115, 116, 117, 118, 119, 119/1 et 119/2 fixée au 31-12-2013 par AR 2013-11-07/48, art. 45, 1°)
+
+(NOTE : Entrée en vigueur les articles 3/1, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 18 et 21, tels que modifiés par la loi 2013-07-31/04 , et les articles 16, 17, 19 et 20 fixées au 31-12-2013 par AR 2013-11-07/51, art. 48, 1°)
+
+(NOTE : Entrée en vigueur de l'article 70, tel que remplacé par la loi 2013-07-31/04 , fixée au 31-12-2013 par AR 2013-11-07/52, art. 21, 1°)
+
+(NOTE : Entrée en vigueur des articles 23 à 25, 27, 31 en 32, 34 à 37, 43, 61 et 62, 64 à 65, 139 à 139/4, 178/3 à 184/1, 271/3 et 271/4, tels que modifiées par la loi 2013-07-31/04 , fixées au 31-12-2013 par AR 2013-12-26/04, art. 34, 1°)
+
+(NOTE : Entrée en vigueur des articles 1 à 3, 1° à 8°, 13° et 14°, 16° à 18°, 20° à 25°, 29° à 30°, 32° à 34°, 37° à 40°, 42° à 55°, et 61°, 44 à 53, 68 et 69, 71 à 77/2, 171 à 178/2, 185 à 188, 190 à 192, 206/1 à 209/1, 213 à 216, 217 à 225, 226/1 à 231, 233 à 237/5, 239 et 240, 242 à 242/12, 244 à 247, 249 à 251, 255, 258, 260, § 3, 263 à 265, 270 et 271, et 271/2, tels que modifiés par la loi 2013-07-31/04 , fixées au 31-12-2013 par AR 2013-12-26/05, art. 1, 1°)
+
+(NOTA : Entrée en vigueur des articles 110 à 113/2, tels que modifiés par la loi 2013-07-31/04, fixées au 31-12-2013 par AR 2013-12-26/06, art. 78, 1°)
+
+----------
+
+(1)&lt;L 2012-06-20/03, art. 19, 005; En vigueur : 30-06-2012&gt;
+
+## ANNEXES.
+
+###### Art. N1
+
+[<sup>1</sup> Annexe A.]<sup>1</sup>
+
+(Image non reprise pour des raisons techniques, voir M.B. du 23-12-2016, p. 89400)
+
+----------
+
+(1)&lt;L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 1N1
+
+[<sup>1</sup> Tableau I. - Transfert des candidats volontaires de carrière et des volontaires de carrière dans la catégorie de personnel des volontaires du cadre de carrière]<sup>1</sup>
+
+(Image non reprise pour des raisons techniques, voir M.B. du 23-12-2016, p. 89400)
+
+----------
+
+(1)&lt;L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 2N1
+
+[<sup>1</sup> Tableau II. - Transfert des candidats volontaires de complément et des volontaires de complément dans la catégorie de personnel des volontaires du cadre de carrière]<sup>1</sup>
+
+(Image non reprise pour des raisons techniques, voir M.B. du 23-12-2016, p. 89400)
+
+----------
+
+(1)&lt;L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 3N1
+
+[<sup>1</sup> Tableau III. - - Transfert des candidats sous-officiers de carrière et des sous-officiers de carrière visés à l'article 244/1, 2°, dans la catégorie de personnel des sous-officiers de carrière du niveau C]<sup>1</sup>
+
+(Image non reprise pour des raisons techniques, voir M.B. du 23-12-2016, p. 89400)
+
+----------
+
+(1)&lt;L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 4N1
+
+[<sup>1</sup> Tableau IV. - Transfert des sous-officiers de carrière visés à l'article 244/1, 2°, qui, après avoir participé à l'épreuve d'accession au grade de premier sergent-major, n'ont pas réussi cet examen ou qui ont renoncé à la participation à cet examen, dans la catégorie de personnel des sous-officiers de carrière du niveau C]<sup>1</sup>
+
+(Image non reprise pour des raisons techniques, voir M.B. du 23-12-2016, p. 89400)
+
+----------
+
+(1)&lt;L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 4/1N1
+
+&lt;Abrogé par L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 5N1
+
+[<sup>1</sup> Tableau V. - Transfert des candidats sous-officiers de complément et des sous-officiers de complément visés à l'article 244/1, 2°, dans la catégorie de personnel des sous-officiers de carrière du niveau C]<sup>1</sup>
+
+(Image non reprise pour des raisons techniques, voir M.B. du 23-12-2016, p. 89400)
+
+----------
+
+(1)&lt;L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 6N1
+
+[<sup>1</sup> Tableau VI. - Transfert des candidats sous-officiers de carrière et des sous-officiers de carrière visés à l'article 244/1, 1°, dans la catégorie de personnel des sous-officiers de carrière du niveau B]<sup>1</sup>
+
+(Image non reprise pour des raisons techniques, voir M.B. du 23-12-2016, p. 89400)
+
+----------
+
+(1)&lt;L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 7N1
+
+[<sup>1</sup> Tableau VII. - Transfert des sous-officiers de carrière visés à l'article 244/1, 1°, qui, après avoir participé à l'épreuve d'accession au grade de premier sergent-major, n'ont pas réussi cet examen ou qui ont renoncé à la participation à cet examen, dans la catégorie de personnel des sous-officiers de carrière du niveau B]<sup>1</sup>
+
+(Image non reprise pour des raisons techniques, voir M.B. du 23-12-2016, p. 89400)
+
+----------
+
+(1)&lt;L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 8N1
+
+[<sup>1</sup> Tableau VIII. - Transfert des candidats officiers de carrière et des officiers de carrière du recrutement normal, complémentaire ou spécial dans la catégorie de personnel des officiers de carrière du niveau A]<sup>1</sup>
+
+(Image non reprise pour des raisons techniques, voir M.B. du 23-12-2016, p. 89400)
+
+----------
+
+(1)&lt;L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 8/1N1
+
+&lt;Abrogé par L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 9N1
+
+[<sup>1</sup> Tableau IX. - Transfert des candidats officiers de complément et des officiers de complément autres que ceux visés au tableau X dans la catégorie de personnel des officiers de carrière du niveau B]<sup>1</sup>
+
+(Image non reprise pour des raisons techniques, voir M.B. du 23-12-2016, p. 89400)
+
+----------
+
+(1)&lt;L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 10N1
+
+[<sup>1</sup> Tableau X. - Transfert des candidats officiers de complément et des officiers de complément du corps du personnel navigant de la force aérienne dans la catégorie de personnel des officiers de carrière du niveau B]<sup>1</sup>
+
+(Image non reprise pour des raisons techniques, voir M.B. du 23-12-2016, p. 89400)
+
+----------
+
+(1)&lt;L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 10/1N1
+
+&lt;Abrogé par L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 11N1
+
+&lt;Abrogé par L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 12N1
+
+&lt;Abrogé par L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 13N1
+
+&lt;Abrogé par L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 14N1
+
+&lt;Abrogé par L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 15N1
+
+&lt;Abrogé par L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 16N1
+
+&lt;Abrogé par L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 17N1
+
+&lt;Abrogé par L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. 18N1
+
+&lt;Abrogé par L 2016-11-21/20, art. 76, 012; En vigueur : 02-01-2017&gt;
+
+###### Art. N2
+
+Annexe B.[<sup>1</sup> [<sup>5</sup>
+
+<table><tr><td>TABLEAU A</td><td> </td><td>TABEL A </td></tr><tr><td>Type de formation<br>    Type van de vorming </td><td>Durée de la formation<br>    Vormingsduur </td><td>Durée de la période de rendement<br>    Duur van de rendementsperiode </td></tr><tr><td>Officiers (*)/Officieren (*) </td><td> </td><td> </td></tr><tr><td>(1) (**) </td><td>4/5 ans/ jaar </td><td>6/7,5 ans/ jaar </td></tr><tr><td>(2) </td><td>5 ans/ jaar </td><td>7,5 ans/ jaar </td></tr><tr><td>(3) (* * *) </td><td>4/5 ans/ jaar </td><td>6/7,5 ans/ jaar </td></tr><tr><td>(4) (* * *) </td><td>4 ans/ jaar </td><td>6 ans/ jaar </td></tr><tr><td>(5) (* * *) </td><td>5 ans/ jaar </td><td>7,5 ans/ jaar </td></tr><tr><td>(6) (* * *) </td><td>6 ans/ jaar </td><td>9 ans/ jaar </td></tr><tr><td>(7) (* * *) </td><td>6 ans/ jaar </td><td>9 ans/ jaar </td></tr><tr><td>(8) </td><td>4 ans/ jaar </td><td>6 ans/ jaar </td></tr><tr><td>(9) </td><td>3 ans/ jaar </td><td>4,5 ans/ jaar </td></tr><tr><td>(10) </td><td>- </td><td>- </td></tr><tr><td>Sous-officiers/Onderofficieren </td><td> </td><td> </td></tr><tr><td>(11) (12) (* * **) </td><td>-<br>    3 ans/ jaar </td><td>- 4,5 ans/ jaar </td></tr><tr><td>(13) </td><td>- </td><td>- </td></tr><tr><td>Volontaires/Vrijwilligers </td><td>- </td><td>- </td></tr><tr><td>(14) </td><td>Enseignement universitaire ou enseignement supérieur du type long/Universitair onderwijs of hoger onderwijs van het lange type </td><td>1,5 fois la durée de la formation (* * * * *) </td></tr><tr><td> </td><td>Enseignement supérieur du type court/Hoger onderwijs van het korte type </td><td>1,5 keer de vormingsduur (* * * * *) </td></tr><tr><td colspan="2"></td><td></td></tr></table>
+
+(1) Officiers issus de la faculté des sciences sociales et militaires de l'Ecole royale militaire ou niveau équivalent dans un institut civil.
+
+(2) Officiers issus de la faculté polytechnique de l'Ecole royale militaire ou niveau équivalent dans un institut civil.
+
+(3) Officiers issus d'un institut supérieur industriel. 4 ans : communauté flamande ; 5 ans communauté française.
+
+(4) Officiers issus de l'école supérieure de navigation.
+
+(5) Officiers pharmaciens et dentistes.
+
+(6) Officiers vétérinaires.
+
+(7) Officiers médecins. A partir de l'année académique 2012. Avant l'année académique 2012: 7 ans.
+
+(8) Officiers auxiliaires (...).
+
+(9) Officiers du niveau B, candidats officiers du niveau A reclassés (détenteur d'un bachelier obtenu comme candidat officier du recrutement normal).
+
+(10) Officiers du niveau A et du niveau B du recrutement spécial.
+
+(11) Sous-officiers de carrière du recrutement normal issus d'une école de sous-officiers.
+
+(12) Sous-officiers de carrière du niveau B du recrutement normal (obtention d'un diplôme de bachelier) et le candidat officier de carrière reclassé (après l'obtention d'un bachelier et suite à échec à l'examen linguistique SLt).
+
+(13) Candidats-sous-officiers reclassés.
+
+(14) Formation complémentaire comme définie à l'article 179, § 1er, 3°.
+
+(\*) L'officier de carrière qui a suivi avec succès une formation de pilote de l'aviation légère ou de pilote du personnel navigant aérien de la marine ou qui a obtenu le brevet supérieur de pilote ou le brevet ATC, voit sa période de rendement augmentée de 3 ans.
+
+(\*\*) Pour l'officier qui a débuté sa formation dans l'année académique 2006 à 2015 inclus, la durée de la formation est de 5 ans.
+
+(\* \* \*) Pour l'officier issu du recrutement complémentaire, il n'est tenu compte que du nombre d'années réussies en qualité de candidat officier de carrière.
+
+(\* \* \*\*) Pour le sous-officier issu du recrutement complémentaire, il n'est tenu compte que du nombre d'années réussies en qualité de candidat sous-officier de carrière.
+
+(\* \* \* \* \*) Avec une durée minimale de la période de rendement de 3 ans.]<sup>5</sup>
+
+TABLEAU B
+
+<table><tr><td>Titulaire du brevet supérieur de pilote<br>  Dès l'obtention du brevet, départ au cours de la</td><td>Montant à rembourser</td></tr><tr><td>1re année</td><td>148.736,11 EUR</td></tr><tr><td>2e année</td><td>148.736,11 EUR</td></tr><tr><td>3e année</td><td>111.552,09 EUR</td></tr><tr><td>4e année</td><td>89.241,67 EUR</td></tr><tr><td>5e année</td><td>44.620,83 EUR</td></tr><tr><td>6e année</td><td>29.747,22 EUR</td></tr></table>
+
+TABLEAU C
+
+<table><tr><td>Réussi une formation de pilote de l'aviation légère ou de pilote du personnel navigant aérien de la marine<br>  Durant la période de rendement, départ au cours de la</td><td>Montant à rembourser</td></tr><tr><td>1re année</td><td>30.986,69 EUR</td></tr><tr><td>2e année</td><td>27.888,02 EUR</td></tr><tr><td>3e année</td><td>24.789,35 EUR</td></tr><tr><td>4e année</td><td>21.690,68 EUR</td></tr><tr><td>5e année</td><td>18.592,01 EUR</td></tr><tr><td>6e année</td><td>9.296,01 EUR</td></tr></table>
+
+TABLEAU D
+
+<table><tr><td>A partir de la fin de la formation de pilote,<br>  départ au cours de la</td><td>Officier auxiliaire du corps du personnel navigant qui est titulaire des qualifications aéronautiques visées à l'article 179, § 2, alinéa 4</td><td>Officier auxiliaire du corps de l'aviation légère qui est titulaire des qualifications aéronautiques visées à l'article 179, § 2, alinéa 4</td></tr><tr><td>1re année</td><td>148.736,11 EUR</td><td>24.789,35 EUR</td></tr><tr><td>2e année</td><td>111.552,09 EUR</td><td>21.690,68 EUR</td></tr><tr><td>3e année</td><td>89.241,67 EUR</td><td>18.592,01 EUR</td></tr></table>
+
+[<sup>4</sup> TABLEAU E]<sup>4</sup>
+
+(Image non reprise pour des raisons techniques, voir M.B. du 01-03-2019, p. 21160)
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+TABLEAU F2
+
+<table><tr><td>Dès avoir réussi la formation professionnelle pour l'obtention du brevet militaire de contrôleur de trafic aérien, départ au cours de la :</td><td>Montant à rembourser</td></tr><tr><td>1re année</td><td>45.601,970 EUR</td></tr><tr><td>2e année</td><td>38.001,643 EUR</td></tr><tr><td>3e année</td><td>30.401,314 EUR</td></tr><tr><td>4e année</td><td>22.800,986 EUR</td></tr><tr><td>5e année</td><td>15.200,657 EUR</td></tr><tr><td>6e année</td><td>7.600,329 EUR</td></tr></table>
+
+]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 410, 006; En vigueur : 30-09-2013&gt;
+
+(2)&lt;L 2017-09-28/07, art. 9, 013; En vigueur : 15-08-2017&gt;
+
+(3)&lt;L 2018-04-30/07, art. 21, 017; En vigueur : 25-05-2018&gt;
+
+(4)&lt;L 2019-02-15/01, art. 3, 018; En vigueur : 11-03-2019&gt;
+
+(5)&lt;L 2025-12-08/07, art. 55, 028; En vigueur : 08-01-2026&gt;
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donne à Bruxelles, le 28 février 2007.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Défense,
+
+A. FLAHAUT
+
+De Ministre des Pensions,
+
+B. TOBBACK
+
+Scelle du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX

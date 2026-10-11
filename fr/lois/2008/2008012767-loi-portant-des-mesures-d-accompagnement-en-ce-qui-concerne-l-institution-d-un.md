@@ -1,0 +1,188 @@
+---
+title: "Loi portant des mesures d'accompagnement en ce qui concerne l'institution d'un groupe spécial de négociation, d'un organe de représentation et de procédures relatives à l'implication des travailleurs au sein de la Société coopérative européenne."
+identifier: "2008012767"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2008/05/09/2008012767/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2008-05-09
+published: 2008-07-23
+entry_into_force: 2008-08-02
+last_amended: 2016-04-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2008/05/09/2008012767/justel"
+department: "Emploi, Travail et Concertation sociale"
+justel_note: "Consultation des versions antérieures à partir du 23-07-2008 et mise à jour au 21-04-2016"
+retrieved: 2026-10-11
+---
+
+# 9 MAI 2008. - Loi portant des mesures d'accompagnement en ce qui concerne l'institution d'un groupe spécial de négociation, d'un organe de représentation et de procédures relatives à l'implication des travailleurs au sein de la Société coopérative européenne.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Dispositions générales.
+
+### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+### Art. 2
+
+La présente loi transpose la Directive 2003/72/CE du Conseil du 22 juillet 2003 complétant le statut de la Société coopérative européenne pour ce qui concerne l'implication des travailleurs.
+
+## CHAPITRE II. - Définitions.
+
+### Art. 3
+
+Pour l'application de la présente loi, il y a lieu d'entendre par :
+
+1° Société coopérative européenne ou SCE : une société constituée conformément au règlement (CE) n° 1435/2003 du Conseil européen du 22 juillet 2003 relatif au statut de la Société coopérative européenne;
+
+2° entités juridiques participantes : les sociétés au sens de l'article 48, deuxième alinéa du traité instituant la Communauté européenne y compris les coopératives, ainsi que les entités juridiques constituées selon la législation d'un Etat membre et relevant de cette législation, participant directement à la constitution d'une Société coopérative européenne.
+
+Est considérée comme participant directement à la constitution d'une Société coopérative européenne, la coopérative dont les membres deviendront membres et détiendront des parts de la société coopérative européenne suite à la constitution de celle-ci ou l'entité qui détiendra elle-même des parts de la Société coopérative européenne;
+
+3° filiale d'une entité juridique participante ou d'une société coopérative européenne : une entreprise sur laquelle ladite entité juridique participante ou société coopérative européenne exerce une influence dominante.
+
+L'exercice d'une influence dominante est présumé établi jusqu'à preuve du contraire, lorsqu'une entreprise, directement ou indirectement :
+
+a) peut nommer plus de la moitié des membres du conseil d'administration, de direction ou de surveillance de l'entreprise ou;
+
+b) dispose de la majorité des voix attachées aux parts émises par l'entreprise ou;
+
+c) détient la majorité des parts du capital souscrit de l'entreprise.
+
+Lorsque plusieurs entreprises d'un groupe satisfont à un des critères mentionnés au deuxième alinéa, l'entreprise qui satisfait au critère a) est présumée exercer l'influence dominante. Si aucune entreprise ne satisfait au critère a), l'entreprise qui satisfait au critère b) est présumée exercer l'influence dominante.
+
+Pour l'application du deuxième alinéa, les droits de vote et de nomination que détient l'entreprise qui exerce le contrôle comprennent ceux de toute autre entreprise qu'elle contrôle et de toute personne ou de tout organisme agissant en son nom, mais pour le compte de l'entreprise qui exerce le contrôle ou de toute entreprise qu'elle contrôle.
+
+Une influence dominante n'est pas présumée établie en raison du seul fait qu'une personne mandatée exerce ses fonctions, en vertu de la législation d'un Etat membre relative à la liquidation, à la faillite, à l'insolvabilité, à la cession de paiements, au concordat ou à une procédure analogue.
+
+Nonobstant les alinéas 1er et 2, une entreprise n'est pas une " entreprise qui exerce le contrôle " d'une autre entreprise dont elle détient les participations lorsqu'il s'agit d'une société visée à l'article 3, § 5, point a) ou c), du règlement (CEE) n° 4064/89 du Conseil européen du 21 décembre 1989, relatif au contrôle des opérations de concentration entre entreprises;
+
+4° filiale ou établissement concerné : une filiale ou un établissement d'une entité juridique participante, qui devient une filiale ou un établissement de la SCE lors de sa constitution, et qui est situé dans un Etat membre.
+
+Doivent être considérés comme filiale ou établissement concerné, pour autant que puisse être établie l'influence dominante définie au 3° :
+
+\- les filiales directes des entités juridiques participantes relevant ou non du même droit national;
+
+\- les établissements directs des entités juridiques participantes, situés ou non dans le même Etat membre;
+
+\- les filiales indirectes des entités juridiques participantes, c'est-à-dire les filiales de filiales directes d'entités juridiques participantes et les filiales de filiales indirectes;
+
+\- les établissements indirects des entités juridiques participantes, c'est-à-dire les établissements des filiales indirectes de ces sociétés;
+
+5° organe de représentation : l'organe transnational représentant les travailleurs régulièrement institué afin de mettre en oeuvre l'information et la consultation des travailleurs d'une SCE et de ses filiales et établissements situés dans un Etat membre et, le cas échéant, d'exercer les droits de participation liés à la SCE.
+
+6° groupe spécial de négociation : le groupe régulièrement constitué afin de négocier avec l'organe compétent des entités juridiques participantes la fixation des modalités relatives à l'implication des travailleurs au sein de la SCE.
+
+7° implication des travailleurs : l'information, la consultation et la participation telles que définies dans la présente loi.
+
+8° information : le fait que l'organe représentant les travailleurs et/ou les représentants des travailleurs est informé, par l'organe compétent de la SCE, sur les questions qui concernent la SCE elle-même et toute filiale ou tout établissement situé dans un autre Etat membre ou sur les questions qui excèdent les pouvoirs des instances de décision d'un Etat membre, cette information se faisant à un moment, d'une façon et avec un contenu qui permettent aux représentants des travailleurs d'évaluer en profondeur l'incidence éventuelle et, le cas échéant, de préparer des consultations avec l'organe compétent de la SCE;
+
+9° consultation : l'instauration d'un dialogue et l'échange de vues entre l'organe représentant les travailleurs et/ou les représentants des travailleurs et l'organe compétent de la SCE, à un moment, d'une façon et avec un contenu qui permettent aux représentants des travailleurs, sur la base des informations fournies, d'exprimer un avis sur les mesures envisagées par l'organe compétent, qui pourra être pris en considération dans le cadre du processus décisionnel au sein de la SCE;
+
+10° participation : l'influence qu'a l'organe représentant les travailleurs et/ou les représentants des travailleurs sur les affaires d'une entité juridique :
+
+\- en exerçant leur droit d'élire ou de désigner certains membres de l'organe de surveillance ou d'administration de l'entité juridique,
+
+ou
+
+\- en exerçant leur droit de recommander la désignation d'une partie ou de l'ensemble des membres de l'organe de surveillance ou d'administration de l'entité juridique et/ou de s'y opposer;
+
+11° Etat membre : les Etats membres de l'Union européenne et les autres Etats membres de l'Espace économique européen visés par la Directive 2003/72/CE du Conseil du 22 juillet 2003.
+
+## CHAPITRE III. - Droit applicable.
+
+### Art. 4
+
+Les règles relatives à la création du groupe spécial de négociation, en dehors du mode d'élection ou de désignation de ses membres, à la procédure de négociation en vue de parvenir à un accord sur les modalités relatives à l'implication des travailleurs au sein de la SCE et au contenu de cet accord sont soumises à la loi de l'Etat membre sur le territoire duquel est situé le siège statutaire de la SCE.
+
+### Art. 5
+
+Les règles relatives à l'institution et au fonctionnement de l'organe de représentation, en dehors du mode d'élection ou de désignation de ses membres, et d'une procédure relative à l'implication des travailleurs au sein de la SCE sont soumises à la loi de l'Etat membre sur le territoire duquel est situé le siège statutaire de la SCE.
+
+### Art. 6
+
+Les règles relatives au calcul du nombre de travailleurs occupés, à la notion de travailleurs et au mode d'élection ou de désignation des représentants des travailleurs sont régies par la loi de l'Etat membre dans lequel se situent les établissements ou les entreprises concernées.
+
+### Art. 7
+
+La loi qui régit les règles relatives au statut des représentants des travailleurs est la loi de l'Etat membre dans lequel se situe leur employeur, ou, en cas de conflit de loi, cette loi est déterminée, conformément à la Convention sur la loi applicable aux obligations contractuelles faite à Rome le 19 juin 1980.
+
+## CHAPITRE IV. - Informations confidentielles.
+
+### Art. 8
+
+L'organe de surveillance ou d'administration d'une SCE ou d'une entité juridique participante est autorisé, vis-à-vis des membres du groupe spécial de négociation ou des membres de l'organe de représentation ou à l'égard des représentants des travailleurs qui reçoivent des informations dans le cadre d'une procédure d'information et de consultation, ainsi que vis-à-vis des experts qui les assistent éventuellement :
+
+1° à signaler, lors de leur communication, le caractère confidentiel de certaines informations dont la diffusion est susceptible de porter gravement préjudice à la société; les délégués sont tenus de ne pas les divulguer;
+
+2° à ne pas communiquer certaines informations dont la liste est établie par le Roi, lorsque leur nature est telle que, selon des critères objectifs, leur communication entraverait gravement le fonctionnement de la société ou lui porterait préjudice.
+
+## CHAPITRE V. - Protection en cas de licenciement &lt;Inséré par L 2008-07-24/35, art. 89; En vigueur : 02-08-2008&gt;
+
+### Art. 9
+
+&lt;Inséré par L 2008-07-24/35, art. 89; En vigueur : 02-08-2008&gt; Les membres du groupe spécial de négociation, les membres de l'organe de représentation, les représentants des travailleurs exerçant leur fonctions dans le cadre d'une procédure d'information et de consultation et les représentants des travailleurs siégeant dans l'organe de surveillance ou d'administration d'une SCE ou participant à l'assemblée générale ou à l'assemblée de section ou de branche qui sont des travailleurs de la SCE, de ses filiales ou établissements ou d'une société participante, et leurs remplaçants, bénéficient du régime de licenciement particulier prévu par la loi du 19 mars 1991 portant un régime de licenciement particulier pour les délégués du personnel aux conseils d'entreprise et aux comités de sécurité, d'hygiène et d'embellissement des lieux de travail, ainsi que pour les candidats délégués du personnel. Ce régime particulier leur est applicable pour tout licenciement se situant dans une période débutant le trentième jour précédant leur désignation et se terminant le jour où leur mandat prend fin.
+
+## CHAPITRE VI. - Surveillance et sanctions. &lt;Inséré par L 2008-07-24/35, art. 89; En vigueur : 02-08-2008&gt;
+
+### Art. 10
+
+&lt;Inséré par L 2008-07-24/35, art. 89; En vigueur : 02-08-2008&gt; Sans préjudice des attributions des officiers de police judiciaire, les fonctionnaires désignés par le Roi surveillent le respect des dispositions relatives à l'implication des travailleurs au sein de la SCE.
+
+[<sup>1</sup> Les infractions aux dispositions de la présente loi et de ses arrêtés d'exécution sont recherchées, constatées et sanctionnées conformément au Code pénal social.
+
+Les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 39 du Code pénal social lorsqu'ils agissent d'initiative ou sur demande dans le cadre de leur mission d'information, de conseil et de surveillance relative au respect des dispositions de la présente loi et de ses arrêtés d'exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-02-29/09, art. 92, 002; En vigueur : 01-05-2016&gt;
+
+### Art. 11
+
+&lt;Abrogé par L 2016-02-29/09, art. 93, 002; En vigueur : 01-05-2016&gt;
+
+### Art. 12
+
+&lt;Abrogé par L 2016-02-29/09, art. 93, 002; En vigueur : 01-05-2016&gt;
+
+### Art. 13
+
+&lt;Abrogé par L 2016-02-29/09, art. 93, 002; En vigueur : 01-05-2016&gt;
+
+## CHAPITRE VII. - Entrée en vigueur. &lt;Inséré par L 2008-07-24/35, art. 89; En vigueur : 02-08-2008&gt;
+
+### Art. 14
+
+&lt;Inséré par L 2008-07-24/35, art. 89; En vigueur : 02-08-2008&gt; Les articles 1er à 9 de la présente loi produisent leurs effets le 18 août 2006.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Florence, le 9 mai 2008.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+J. VANDEURZEN
+
+La Ministre de l'Emploi,
+
+Mme J. MILQUET
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+J. VANDEURZEN.

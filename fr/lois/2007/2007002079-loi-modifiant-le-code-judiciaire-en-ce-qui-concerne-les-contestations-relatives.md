@@ -1,0 +1,60 @@
+---
+title: "Loi modifiant le Code Judiciaire en ce qui concerne les contestations relatives à l'octroi, à la révision et au refus de l'aide matérielle."
+identifier: "2007002079"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/21/2007002079/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2007-04-21
+published: 2007-05-07
+entry_into_force: 2007-05-07
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2007/04/21/2007002079/justel"
+department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
+retrieved: 2026-10-11
+---
+
+# 21 AVRIL 2007. - Loi modifiant le Code Judiciaire en ce qui concerne les contestations relatives à l'octroi, à la révision et au refus de l'aide matérielle.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée par l'article 77 de la Constitution.
+
+## Art. 2
+
+Dans la troisième partie, Titre premier, Chapitre II, section première du Code Judiciaire, l'article 580, 8°, est complété par un point f) libellé comme suit :
+
+" f) la loi du 12 janvier 2007 relative à l'accueil des demandeurs d'asile et de certaines autres catégories d'étrangers en ce qui concerne les contestations concernant toute violation des droits garantis aux bénéficiaires de l'accueil par les livres II et III de la loi précitée. "
+
+## Art. 3
+
+La présente loi entre en vigueur le jour où entre en vigueur une première disposition des livres II ou III de la loi du 12 janvier 2007 relative à l'accueil des demandeurs d'asile et de certaines autres catégories d'étrangers.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge
+
+Donné à Bruxelles, le 21 avril 2007.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de l'Intégration sociale,
+
+Ch. DUPONT
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX
+
+Scellé du Sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.
