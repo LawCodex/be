@@ -1,0 +1,78 @@
+---
+title: "Loi visant à réprimer le graffiti et la dégradation des propriétés immobilières et modifiant la nouvelle loi communale."
+identifier: "2007009187"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/25/2007009187/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2007-01-25
+published: 2007-02-20
+entry_into_force: 2007-03-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/25/2007009187/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 25 JANVIER 2007. - Loi visant à réprimer le graffiti et la dégradation des propriétés immobilières et modifiant la nouvelle loi communale.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi vise une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Il est inséré dans le livre II, titre IX, chapitre III du Code pénal une section IVbis, comprenant les articles 534bis et 534ter, rédigé comme suit :
+
+" Section IVbis. - Graffiti et dégradation des propriétés immobilières ".
+
+## Art. 3
+
+Un article 534bis est inséré dans la section IVbis, chapitre III, titre IX du livre II du même Code, rédigé comme suit :
+
+" Art. 534bis. § 1er. Sera puni d'un emprisonnement d'un mois à six mois et d'une amende de vingt-six euros à deux cents euros ou d'une de ces peines seulement, quiconque réalise sans autorisation des graffitis sur des biens mobiliers ou immobiliers.
+
+§ 2. Le maximum de l'emprisonnement est porté à un an d'emprisonnement en cas de récidive sur une infraction visée au paragraphe premier dans les cinq années à compter de la date d'un jugement antérieur portant condamnation et passé en force de chose jugée. "
+
+## Art. 4
+
+Un article 534ter est inséré dans la même section, rédigé comme suit :
+
+" Art. 534ter. Sera puni d'un emprisonnement d'un mois à six mois et d'une amende de vingt-six euros à deux cents euros ou d'une de ces peines seulement, quiconque aura volontairement dégradé les propriétés immobilières d'autrui. "
+
+## Art. 5
+
+A l'article 119bis de la nouvelle loi communale, inséré par la loi du 13 mai 1999 et modifié par les lois des 26 juin 2000, 17 juin 2004 et 20 juillet 2005, sont apportées les modifications suivantes :
+
+1° au § 2, alinéa 3, les mots " 534bis, 534ter, " sont insérés entre le mot " 526 " et le mot " 537 ";
+
+2° au § 7, 1°, les mots " 534bis, 534ter, " sont insérés entre le mot " 526 " et le mot " 537 ";
+
+3° au § 8, alinéa 2, les mots " 534bis, 534ter, " sont insérés entre le mot " 526 " et le mot " 537 ";
+
+4° au § 8bis, les mots " 534bis, 534ter, " sont insérés entre le mot " 526 " et le mot " 537 ".
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 25 janvier 2007.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de la Justice,
+
+Mme. L. ONKELINX
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme. L. ONKELINX.

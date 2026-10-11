@@ -1,0 +1,66 @@
+---
+title: "Loi modifiant la loi du 15 juin 2006 relative aux marchés publics et à certains marchés de travaux, de fournitures et de services."
+identifier: "2007021007"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/12/2007021007/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2007-01-12
+published: 2007-02-15
+entry_into_force: 2007-02-25
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/12/2007021007/justel"
+department: "Chancellerie du Premier Ministre"
+retrieved: 2026-10-11
+---
+
+# 12 JANVIER 2007. - Loi modifiant la loi du 15 juin 2006 relative aux marchés publics et à certains marchés de travaux, de fournitures et de services.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Un article 79bis rédigé comme suit, est inséré dans la loi du 15 juin 2006 relative aux marchés publics et à certains marchés de travaux, de fournitures et de services :
+
+" Art. 79bis. Le Roi peut coordonner les dispositions de la loi du 15 juin 2006 relative aux marchés publics et certains marchés de travaux, de fournitures et de services et de la loi du 16 juin 2006 relative à l'attribution, à l'information aux candidats et soumissionnaires et au délai d'attente concernant les marchés publics et certains marchés de travaux, de fournitures et de services, et les dispositions qui les auraient expressément ou implicitement modifiées au moment où les coordinations seront établies.
+
+A cette fin, Il peut :
+
+1° modifier l'ordre, le numérotage et, en général, la présentation des dispositions à coordonner;
+
+2° modifier les références qui seraient contenues dans les dispositions à coordonner en vue de les mettre en concordance avec le numérotage nouveau;
+
+3° modifier la rédaction des dispositions à coordonner en vue d'assurer leur concordance et d'en unifier la terminologie sans qu'il puisse être porté atteinte aux principes inscrits dans ces dispositions.
+
+Les coordinations porteront l'intitulé suivant : " Lois relatives aux marchés publics et à certains marchés de travaux, de fournitures et de services, coordonnées le ... ". ".
+
+## Art. 3
+
+A l'article 80, alinéa 2, de la même loi, les mots " les articles 15, 31, 77 et 79 " sont remplacés par les mots " les articles 2, 4°, 15, 31, 77, 3°, et 79 ".
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 12 janvier 2007.
+
+ALBERT
+
+Par le Roi :
+
+Le Premier Ministre,
+
+G. VERHOFSTADT
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

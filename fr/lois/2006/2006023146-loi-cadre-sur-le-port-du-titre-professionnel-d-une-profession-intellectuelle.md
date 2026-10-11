@@ -1,0 +1,368 @@
+---
+title: "Loi-cadre sur le port du titre professionnel d'une profession intellectuelle prestataire de services et sur le port du titre professionnel d'une profession artisanale"
+identifier: "2006023146"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2006/09/24/2006023146/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2006-09-24
+published: 2006-11-16
+entry_into_force: 2006-12-14
+last_amended: 2024-03-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2006/09/24/2006023146/justel"
+department: "Economie, PME, Classes moyennes et Energie"
+justel_note: "Consultation des versions antérieures à partir du 16-11-2006 et mise à jour au 21-03-2024"
+retrieved: 2026-10-11
+---
+
+# 24 SEPTEMBRE 2006. - Loi-cadre sur le port du titre professionnel d'une profession intellectuelle prestataire de services et sur le port du titre professionnel d'une profession artisanale
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## TITRE Ier. - Disposition générale.
+
+##### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## TITRE II. - Des professions intellectuelles prestataires de services.
+
+### CHAPITRE Ier. - Définitions.
+
+##### Art. 2
+
+Pour l'application du présent titre, on entend par :
+
+\- le ministre : le ministre qui a les Classes moyennes dans ses attributions;
+
+\- le Conseil supérieur : le Conseil supérieur des indépendants et des Petites et Moyennes Entreprises créé par l'article 13 des lois relatives à l'organisation des Classes moyennes, coordonnées le 28 mai 1979;
+
+\- diplôme : un diplôme, un certificat ou un autre titre;
+
+\- profession intellectuelle prestataire de services : la profession dont les titulaires fournissent des services de nature principalement intellectuelle en agissant à la fois dans l'intérêt d'un mandant et dans l'intérêt de la collectivité, d'une part, et jouissent de l'indépendance nécessaire pour exercer leur profession et pour assumer la responsabilité des actes professionnels qu'ils accomplissent, d'autre part;
+
+\- fédérations professionnelles intéressées : les fédérations agréées en application de l'article 6 des lois relatives à l'organisation des Classes moyennes, coordonnées le 28 mai 1979;
+
+\- fédération nationale interprofessionnelle représentative des professions libérales et autres professions intellectuelles indépendantes : la fédération agréée en application de l'article 7 des mêmes lois, représentant la catégorie des professions libérales ou les autres professions intellectuelles indépendantes.
+
+### CHAPITRE II. - De la demande en protection du titre professionnel.
+
+##### Art. 3
+
+A la demande d'une ou de plusieurs fédérations professionnelles intéressées et d'au moins une fédération nationale interprofessionnelle représentative des professions libérales et autres professions intellectuelles indépendantes, et après avis du Conseil supérieur, le Roi peut protéger le titre professionnel d'une profession intellectuelle prestataire de services par un arrêté délibéré en Conseil des Ministres.
+
+##### Art. 4
+
+§ 1er. Toute requête en protection du titre professionnel est adressée au ministre, par lettre recommandée à la poste.
+
+Les requérants mentionnent dans la requête le titre professionnel à protéger et décrivent l'activité professionnelle indépendante recouverte par ce titre. Ils peuvent également proposer que la protection du titre soit étendue aux travailleurs salariés et/ou aux fonctionnaires. Ils motivent leur requête notamment en prenant en compte l'intérêt général. La requête mentionne les diplômes qui sont exigés pour être autorisé à porter le titre protégé et, le cas échéant, la pratique professionnelle. La formation doit pouvoir être acquise dans des établissements reconnus ou subventionnés par l'Etat, les communautés ou les régions.
+
+La requête prévoit également les éléments de base des règles de déontologie que les requérants désirent voir réglementer.
+
+Ces règles de déontologie se rapportent au moins :
+
+1° à l'information et la protection du consommateur;
+
+2° aux incompatibilités, en vue de garantir l'indépendance nécessaire.
+
+§ 2. La requête introduite conformément au § 1er et présentée dans les formes prévues par le Roi est transmise dans les soixante jours de sa réception [<sup>1</sup> à la Commission consultative spéciale Consommation ]<sup>1</sup>. Celui-ci rend un avis motivé et transmet cet avis ainsi qu'un extrait du procès-verbal de la séance au cours de laquelle la requête a été examinée au ministre et aux requérants, dans les quinze jours qui suivent la réception de la requête. A défaut d'avis transmis dans ce délai, l'avis est réputé favorable. La requête est également publiée au Moniteur belge et sur le site du service public fédéral Economie, Petites et Moyennes Entreprises, Classes moyennes et Energie, dans les soixante jours de sa réception. Toute personne intéressée peut faire connaître par écrit ses observations au ministre dans les soixante jours qui suivent sa publication. Dans le même délai, le ministre peut éventuellement solliciter l'avis d'un ordre ou institut professionnel établi par la loi, s'il juge que la parenté avec une réglementation existante ou d'autres aspects de la requête rendent ce genre d'avis supplémentaire opportun. Celui-ci est communiqué dans les soixante jours.
+
+§ 3. Ces délais écoulés, la requête est transmise au Conseil supérieur avec les observations auxquelles elle a donné lieu. Le Conseil supérieur rend un avis motivé après examen de la requête par la Commission permanente, créée en vertu de l'article 18, § 1er, des lois relatives à l'organisation des Classes moyennes, coordonnées le 28 mai 1979.
+
+L'avis et l'extrait du procès-verbal de la séance au cours de laquelle la requête a été examinée sont communiqués au ministre et aux requérants dans les trois mois de la réception de celle-ci par le Conseil supérieur.
+
+§ 4. Après avis du Conseil supérieur, les requérants peuvent, dans un délai de soixante jours, adapter leur requête de manière à tenir compte des observations et avis formulés. A défaut d'adaptation de la requête dans les soixante jours, la demande est rejetée.
+
+Ils peuvent également procéder à des modifications proposées par le ministre.
+
+Lorsque le Conseil supérieur ne rend pas d'avis dans le délai imparti, les requérants peuvent également demander au ministre d'apporter des modifications à la requête.
+
+L'adaptation en vertu du présent article ne peut en aucun cas avoir pour effet d'élargir la réglementation initialement proposée, du titre professionnel, ni de renforcer les conditions proposées initialement en matière de diplômes.
+
+§ 5. Lorsque le Roi a rejeté une requête en protection, le ministre se prononce sur la recevabilité d'une requête portant sur le même objet, introduite moins de trois ans après la date de la publication de l'arrêté royal de rejet au Moniteur belge.
+
+§ 6. Lorsqu'Il a protégé un titre professionnel en exécution du présent titre, le Roi peut, à tout moment, modifier, par un arrêté délibéré en Conseil des ministres, l'arrêté de réglementation le concernant en vue de l'adapter aux traités internationaux ou au droit de l'Union européenne.
+
+Après avis du Conseil supérieur, le Roi peut, par un arrêté délibéré en Conseil des ministres, également modifier ou abroger l'arrêté de réglementation.
+
+----------
+
+(1)&lt;AR 2017-12-13/14, art. 11,6°, 003; En vigueur : 01-01-2018&gt;
+
+### CHAPITRE III. - Du titre professionnel.
+
+##### Art. 5
+
+Nul ne peut porter un titre professionnel réglementé par un arrêté royal pris en exécution du présent titre, ou un titre pouvant prêter à confusion avec le titre professionnel réglementé, s'il ne remplit pas chacune des conditions suivantes :
+
+1° être porteur d'un des diplômes prévus par l'arrêté de réglementation;
+
+2° le cas échéant, avoir la pratique professionnelle prévue par l'arrêté de réglementation;
+
+3° être inscrit sur la liste visée à l'article 3 de la loi du 13 juillet 2006 relative aux commissions et commissions de recours compétentes en matière du port du titre professionnel d'une profession intellectuelle prestataire de services; l'inscription est soumise à un droit, payable annuellement et non remboursable, dont le montant est fixé par le Roi;
+
+4° respecter les règles de déontologie prévues par l'arrêté de réglementation.
+
+##### Art. 6
+
+Une société ne peut utiliser dans sa raison sociale, dans sa dénomination particulière, dans la définition de son objet social ou dans sa publicité, un titre professionnel réglementé par un arrêté royal pris en exécution du présent titre, que si au moins un de ses administrateurs-délégués ou gérants est inscrit sur la liste visée à l'article 3 de la loi du 13 juillet 2006 relative aux commissions et commissions de recours compétentes en matière du port du titre professionnel d'une profession intellectuelle prestataire de services.
+
+L'alinéa 1er ne s'applique pas aux établissements d'enseignement ni aux groupements professionnels.
+
+### CHAPITRE IV. - Dispositions finales.
+
+##### Art. 7
+
+Le Roi est chargé de codifier les dispositions de la loi-cadre du 1er mars 1976 réglementant la protection du titre professionnel et l'exercice des professions intellectuelles prestataires de services ainsi que celles du présent titre et celles de la loi du 13 juillet 2006 relative aux commissions et commissions de recours compétentes en matière de port du titre professionnel d'une profession intellectuelle prestataire de services, sous l'intitulé :
+
+" Arrêté royal codifiant les lois-cadres relatives aux professions intellectuelles prestataires de services. "
+
+## TITRE III. - Des professions artisanales.
+
+### CHAPITRE Ier. - Définitions.
+
+##### Art. 8
+
+Pour l'application du présent titre, on entend par :
+
+\- le ministre : le ministre qui a les Classes moyennes dans ses attributions;
+
+\- le Conseil supérieur : le Conseil supérieur des indépendants et des petites et moyennes entreprises créé par l'article 13 des lois relatives à l'organisation des Classes moyennes, coordonnées le 28 mai 1979;
+
+\- la [<sup>2</sup> Commission consultative spéciale Consommation ]<sup>2</sup> : l'organe consultatif créé par l'[<sup>2</sup> arrêté royal du 13 décembre 2017 portant création de la Commission consultative spéciale Consommation au sein du Conseil central de l'économie et portant suppression de la Commission pour l'étiquetage et la publicité écologiques]<sup>2</sup>;
+
+\- diplôme : un diplôme, un certificat ou un autre titre;
+
+\- [<sup>1</sup> profession artisanale: toute profession répondant aux critères prévus aux articles 2 et 3 de la loi du ... portant définition légale de l'artisan]<sup>1</sup>
+
+\- fédérations professionnelles intéressées : les fédérations agréées en application de l'article 6 des lois relatives à l'organisation des Classes moyennes, coordonnées le 28 mai 1979;
+
+\- fédération nationale interprofessionnelle : la fédération agréée en vertu de l'article 7 des mêmes lois.
+
+----------
+
+(1)&lt;L 2014-03-19/10, art. 26, 002; En vigueur : 01-06-2016 (AR 2016-05-26/05, art. 7)&gt;
+
+(2)&lt;AR 2017-12-13/14, art. 11,6°, 003; En vigueur : 01-01-2018&gt;
+
+### CHAPITRE II. - Du port du titre professionnel d'une profession artisanale.
+
+#### Section Ire. - De la demande en protection du titre professionnel.
+
+##### Art. 9
+
+A la demande d'une ou de plusieurs fédérations professionnelles intéressées et d'au moins une fédération nationale interprofessionnelle, et après avis du Conseil supérieur, le Roi peut, par un arrêté délibéré en Conseil des ministres, protéger le titre professionnel d'une profession artisanale qui n'est pas réglementé en exécution de la loi-programme du 10 février 1998 pour la promotion de l'entreprise indépendante.
+
+##### Art. 10
+
+§ 1er. Toute requête en protection du titre professionnel est adressée au ministre, par lettre recommandée à la poste.
+
+Les requérants mentionnent dans la requête le titre professionnel à protéger et décrivent l'activité professionnelle artisanale indépendante recouverte par ce titre.
+
+La requête mentionne les diplômes et/ou la pratique professionnelle exigés pour être autorisé à porter le titre protégé. La formation doit pouvoir être acquise dans des établissements reconnus ou subventionnés par l'Etat, les communautés ou les régions.
+
+§ 2. La requête introduite conformément au § 1er et présentée dans les formes prévues par le Roi est transmise dans les soixante jours de sa réception [<sup>1</sup> à la Commission consultative spéciale Consommation ]<sup>1</sup>. Celui-ci rend un avis motivé et transmet cet avis ainsi qu' un extrait du procès-verbal de la séance au cours de laquelle la requête a été examinée au ministre et aux requérants, dans les trente jours qui suivent la réception de la requête. A défaut d'avis dans ce délai, l'avis est réputé favorable.
+
+La requête est également publiée au Moniteur belge et sur le site du service public fédéral Economie, Petites et Moyennes Entreprises, Classes moyennes et Energie, dans les soixante jours de sa réception. Toute personne intéressée peut faire connaître par écrit ses observations au ministre dans les soixante jours qui suivent sa publication.
+
+§ 3. Ces délais écoulés, la requête est transmise au Conseil supérieur avec les observations auxquelles elle a donné lieu. Le Conseil supérieur rend un avis motivé.
+
+L'avis et l'extrait du procès-verbal de la séance au cours de laquelle la requête a été examinée sont communiqués au ministre et aux requérants dans les trois mois de la réception de celle-ci par le Conseil supérieur.
+
+§ 4. Après avis du Conseil supérieur, les requérants peuvent, dans un délai de soixante jours, adapter leur requête de manière à tenir compte des observations et avis formulés.
+
+Ils peuvent également procéder à des modifications proposées par le ministre.
+
+Lorsque le Conseil supérieur ne rend pas d'avis dans le délai imparti, les requérants peuvent également demander au ministre d'apporter des modifications à la requête.
+
+L'adaptation en vertu du présent article ne peut en aucun cas avoir pour effet d'élargir la réglementation initialement proposée, du titre professionnel, ni de renforcer les conditions proposées initialement en matière de diplômes et/ou de pratique professionnelle.
+
+§ 5. Lorsque le Roi a rejeté une requête en protection, le ministre se prononce sur la recevabilité d'une requête portant sur le même objet, introduite moins de trois ans après la date de la publication de l'arrêté royal de rejet au Moniteur belge, en fonction des éléments nouveaux invoqués par les demandeurs.
+
+§ 6. Lorsqu'il a protégé un titre professionnel en exécution du présent titre, le Roi peut, par un arrêté délibéré en Conseil des Ministres, modifier à tout moment, l'arrêté de réglementation le concernant en vue de l'adapter aux traités internationaux ou au droit de l'Union européenne.
+
+Après avis du Conseil supérieur, le Roi peut également, par un arrêté délibéré en Conseil des Ministres, modifier ou abroger l'arrêté de réglementation.
+
+----------
+
+(1)&lt;AR 2017-12-13/14, art. 11,6°, 003; En vigueur : 01-01-2018&gt;
+
+#### Section II. - Du titre professionnel.
+
+##### Art. 11
+
+Nul ne peut porter un titre professionnel réglementé par un arrêté royal pris en exécution du présent titre, ou un titre professionnel pouvant prêter à confusion avec le titre professionnel réglementé, s'il ne remplit pas chacune des conditions suivantes :
+
+1° être porteur d'un des diplômes et/ou avoir la pratique professionnelle prévus par l'arrêté de réglementation;
+
+2° être inscrit sur la liste dressée par le Roi.
+
+##### Art. 12
+
+Une société ne peut utiliser dans sa raison sociale, dans sa dénomination particulière, dans la définition de son objet social ou dans sa publicité, un titre professionnel réglementé par un arrêté royal pris en exécution du présent titre, que si au moins un de ses administrateurs délégués ou gérants est inscrit sur la liste dressée par le Roi.
+
+L'alinéa 1er ne s'applique pas aux établissements d'enseignement ni aux groupements professionnels.
+
+#### Section III. - De l'inscription.
+
+##### Art. 13
+
+La procédure d'inscription et de recours en cas de refus d'inscription est déterminée par le Roi.
+
+##### Art. 14
+
+Le Roi dresse la liste des personnes autorisées à porter le titre protégé et la tient à jour. Il assure également la publicité de cette liste, selon des modalités fixées par Lui.
+
+## TITRE IV. - Dispositions pénales.
+
+##### Art. 15
+
+Est [<sup>1</sup> puni soit d'une amende pénale]<sup>1</sup> de 200 euros à 1 000 euros [<sup>1</sup> soit d'une amende administrative de 200 à 1.000 euros]<sup>1</sup> :
+
+1° celui qui contrevient aux articles 5, 3, 6, 11, 2, ou 12;
+
+2° celui qui porte un titre professionnel réglementé par un arrêt pris en exécution du titre II, alors qu'il fait l'objet d'une mesure de suspension.
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 108, 004; En vigueur : 31-03-2024&gt;
+
+##### Art. 16
+
+Le livre premier du Code pénal, y compris le chapitre VII et l'article 85, est applicable aux infractions prévues par la présente loi.
+
+##### Art. 17
+
+Sans préjudice de la compétence des officiers de police judiciaire, le personnel de la police, ainsi que les fonctionnaires et agents désignés à cet effet par le Roi sur la proposition du ministre, sont chargés de rechercher et de constater par des procès-verbaux les infractions à la présente loi.
+
+[<sup>1</sup> Les procès-verbaux établis par ces agents font foi jusqu'à preuve du contraire. Dans les trente jours qui suivent la date de la constatation de l'infraction, une copie du procès-verbal est notifiée au contrevenant par envoi recommandé avec accusé de réception ou lui est remise en mains propres, dans les formes prévues à l'article XV.2, § 2, du Code de droit économique.]<sup>1</sup>
+
+[<sup>1</sup> La recherche et la constatation des infractions visées dans la présente loi par les agents visés à l'alinéa 1er ont lieu conformément aux dispositions du livre XV, titre 1er, chapitre 1er, du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 109, 004; En vigueur : 31-03-2024&gt;
+
+##### Art. 17/1.
+
+[<sup>1</sup> § 1er. Lorsqu'ils constatent des infractions à la présente loi ou à ses arrêtés d'exécution, les agents visés à l'article 17, alinéa 1er peuvent adresser au contrevenant un avertissement le mettant en demeure de mettre fin à cet acte, conformément à l'article XV.31 du Code de droit économique.
+
+§ 2. Lorsque les agents visés à l'article 17, alinéa 1er, constatent des infractions à la présente loi ou à ses arrêtés d'exécution, les agents désignés par le ministre qui a les Classes moyennes dans ses attributions peuvent proposer une somme, dont le paiement volontaire par l'auteur de l'infraction éteint l'action publique, conformément à l'article XV.61 du Code de droit économique.
+
+Le montant de la transaction ne peut être supérieur au montant maximum de l'amende pénale pouvant être infligée pour l'infraction constatée, majorée des décimes additionnels.
+
+Les modalités de paiement et de perception de cette transaction sont arrêtées par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 110, 004; En vigueur : 31-03-2024&gt;
+
+##### Art. 17/2.
+
+[<sup>1</sup> § 1er. Les infractions à la présente loi ou à ses arrêtés d'exécution recherchées et constatées par les agents visés à l'article 17, alinéa 1er, peuvent faire l'objet de:
+
+1° l'application de la procédure de transaction telle que visée à l'article 17/1, § 2;
+
+2° une poursuite administrative en application de la procédure visée au titre 1/2 du livre XV du Code de droit économique;
+
+3° une poursuite pénale.
+
+§ 2. La poursuite se fait conformément au titre 1/1 du livre XV du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 111, 004; En vigueur : 31-03-2024&gt;
+
+##### Art. 17/3.
+
+[<sup>1</sup> Le ministère public notifie aux agents compétents visés à l'article XV.60/4 du Code de droit économique sa décision d'intenter ou non les poursuites pénales ou de proposer ou non une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du même Code.
+
+Lorsque le ministère public renonce à intenter les poursuites pénales et à proposer une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du même Code, ou si le ministère public n'a pas pris de décision dans un délai de trois mois à compter du jour de la réception du procès-verbal consignant l'infraction, les agents compétents visés à l'article XV.60/4 du Code de droit économique décident s'il y a lieu d'entamer la procédure d'amende administrative.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 112, 004; En vigueur : 31-03-2024&gt;
+
+##### Art. 17/4.
+
+[<sup>1</sup> Si le ministère public renonce à intenter les poursuites pénales et à proposer une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du Code d'instruction criminelle, il envoie une copie des pièces de procédure de l'enquête complémentaire aux agents compétents visés à l'article XV.60/4 du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 113, 004; En vigueur : 31-03-2024&gt;
+
+##### Art. 17/5
+
+[<sup>1</sup> Les dispositions du titre 2, chapitre 1/1, du livre XV du Code de droit économique sont applicables aux amendes administratives visées par la présente loi.
+
+Les décimes additionnels visés à l'article 1er, alinéa 1er, de la loi du 5 mars 1952 relative aux décimes additionnels sur les amendes pénales sont également applicables aux amendes administratives visées dans la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 114, 004; En vigueur : 31-03-2024&gt;
+
+##### Art. 17/6.
+
+[<sup>1</sup> Les articles XV.71, XV.72, XV.73 et XV.74 du Code de droit économique sont applicables aux infractions pénales à la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 115, 004; En vigueur : 31-03-2024&gt;
+
+## TITRE V. - Dispositions transitoires.
+
+##### Art. 18
+
+§ 1er. Les personnes qui, à la date d'entrée en vigueur de l'arrêté de réglementation pris en exécution du titre II de la présente loi, exerçaient l'activité professionnelle couverte par ce titre au moins pendant la période fixée dans cet arrêté, sont également autorisées à porter le titre professionnel si elles sont titulaires du diplôme de formation correspondant à la profession dont le titre est protégé.
+
+En l'absence de diplôme visé à l'alinéa 1er, le Roi détermine si et à quelles conditions les personnes exerçant la profession intellectuelle visée dans la requête pendant la période visée dans ce même alinéa, sont autorisées à porter le titre protégé, en tenant compte notamment de l'expérience professionnelle acquise.
+
+Elles apportent la preuve de l'exercice de cette profession par deux documents de nature différente au moins choisis parmi ceux énumérés à cette fin dans l'arrêté de réglementation.
+
+Elles disposent de six mois à partir de l'entrée en vigueur de l'arrêté de réglementation pour introduire leur demande d'inscription auprès de la Commission visée au chapitre II de la loi du 13 juillet 2006 relative aux commissions et commissions de recours compétentes en matière de port du titre professionnel d'une profession intellectuelle prestataire de services.
+
+La Commission visée à l'alinéa précédent connaît également des demandes introduites par les personnes qui, en raison d'un cas de force majeure ou de circonstances spéciales indépendantes de leur volonté, n'ont pu introduire leur demande dans le délai de six mois.
+
+§ 2. Les personnes qui, à la date d'entrée en vigueur de l'arrêté de réglementation pris en exécution du titre III de la présente loi, exerçaient l'activité professionnelle couverte par ce titre au moins pendant la période visée dans cet arrêté, sont également autorisées à porter le titre professionnel si elles sont titulaires du diplôme de formation correspondant à la profession dont le titre est protégé.
+
+En l'absence de diplôme visé à l'alinéa précédent, le Roi détermine si et à quelles conditions les personnes exerçant la profession artisanale visée dans la requête pendant la période visée dans ce même alinéa sont autorisées à porter le titre protégé, en tenant compte notamment de l'expérience professionnelle acquise.
+
+Elles en apportent la preuve par deux documents de nature différente au moins choisis parmi ceux énumérés à cette fin dans l'arrêté de réglementation.
+
+Elles disposent d'un délai de six mois à partir de l'entrée en vigueur de l'arrêté de réglementation pour introduire leur demande d'inscription auprès du Roi.
+
+Le Roi connaît également des demandes introduites par les personnes qui, en raison d'un cas de force majeure ou de circonstances spéciales indépendantes de leur volonté n'ont pu introduire leur demande dans le délai de 6 mois.
+
+## TITRE VI. - Entrée en vigueur.
+
+##### Art. 19
+
+Le Roi fixe la date d'entrée en vigueur de la présente loi, à l'exception du présent article.
+
+(NOTE : Entrée en vigueur fixée au 14-12-2006 par AR 2006-11-10/74, art. 9)
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 24 septembre 2006.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre des Classes moyennes,
+
+Mme S. LARUELLE
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

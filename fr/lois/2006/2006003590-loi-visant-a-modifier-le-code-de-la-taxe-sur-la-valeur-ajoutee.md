@@ -1,0 +1,52 @@
+---
+title: "Loi visant à modifier le Code de la taxe sur la valeur ajoutée."
+identifier: "2006003590"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/07/2006003590/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2006-12-07
+published: 2006-12-22
+entry_into_force: 2007-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/07/2006003590/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 7 DECEMBRE 2006. - Loi visant à modifier le Code de la taxe sur la valeur ajoutée.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 53octies, § 2, du Code de la taxe sur la valeur ajoutée, inséré par la loi du 28 décembre 1992 et modifié par les lois du 22 avril 2003 et du 28 janvier 2004, est remplacé par la disposition suivante :
+
+" § 2. Le Roi peut autoriser voire exiger, aux conditions qu'Il fixe, le dépôt des déclarations visées aux articles 53, § 1er, alinéa 1er, 2°, et 53ter ainsi que la communication des renseignements prévue par les articles 53quinquies à 53octies, § 1er, par une procédure utilisant les techniques de l'informatique et de la télématique. "
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 7 décembre 2006.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

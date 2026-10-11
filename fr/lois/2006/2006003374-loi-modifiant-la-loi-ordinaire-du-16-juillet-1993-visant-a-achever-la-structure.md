@@ -1,0 +1,74 @@
+---
+title: "Loi modifiant la loi ordinaire du 16 juillet 1993 visant à achever la structure fédérale de l'Etat."
+identifier: "2006003374"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/20/2006003374/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2006-07-20
+published: 2006-08-07
+entry_into_force: 2006-07-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/20/2006003374/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 20 JUILLET 2006. - Loi modifiant la loi ordinaire du 16 juillet 1993 visant à achever la structure fédérale de l'Etat.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 371 de la loi ordinaire du 16 juillet 1993 visant à achever la structure fédérale de l'Etat est remplacé par la disposition suivante :
+
+" Art. 371. § 1er. Une cotisation d'emballage est due :
+
+1° lors de la mise à la consommation en matière d'accise des boissons visées à l'article 370, conditionnées dans des récipients individuels;
+
+2° lors de la mise sur le marché belge des boissons susvisées conditionnées en récipients individuels lorsque ce conditionnement a lieu postérieurement à la mise à la consommation en matière d'accise de ces boissons.
+
+Cette cotisation s'élève à :
+
+\- 0 EUR par hectolitre de produit contenu dans des récipients individuels réutilisables;
+
+\- 9,8537 EUR par hectolitre de produit contenu dans des récipients individuels non réutilisables.
+
+§ 2. Aux fins de bénéficier du taux afférent aux récipients individuels réutilisables, il doit être satisfait aux conditions suivantes :
+
+a) la personne physique ou morale qui met à la consommation des boissons conditionnées dans des récipients individuels fournit la preuve que ces récipients sont réutilisables, c'est-à-dire qu'ils peuvent être remplis au moins sept fois, et que ces récipients sont récupérés via un système de consigne et sont effectivement réutilisés;
+
+b) le montant de la consigne est au minimum de 0,16 EUR pour les récipients d'une contenance de plus de 0,5 litre et de 0,08 EUR pour ceux d'une contenance inférieure ou égale à 0,5 litre.
+
+§ 3. Par dérogation au § 1er, les récipients individuels de boissons principalement constitués par un des matériaux visés à l'annexe 18 ne sont pas soumis à la cotisation d'emballage. "
+
+## Art. 3
+
+La présente loi produit ses effets au 1er juillet 2006.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 20 juillet 2006.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+La Vice-Première Ministre et Ministre de la Justice,
+
+Mme L. ONKELINX

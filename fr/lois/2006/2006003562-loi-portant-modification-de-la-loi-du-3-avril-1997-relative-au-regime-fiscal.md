@@ -1,0 +1,68 @@
+---
+title: "Loi portant modification de la loi du 3 avril 1997 relative au régime fiscal des tabacs manufacturés."
+identifier: "2006003562"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2006/11/26/2006003562/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2006-11-26
+published: 2006-12-08
+entry_into_force: 2006-12-08
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2006/11/26/2006003562/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 26 NOVEMBRE 2006. - Loi portant modification de la loi du 3 avril 1997 relative au régime fiscal des tabacs manufacturés.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Dans l'article 3, de la loi du 3 avril 1997 relative au régime fiscal des tabacs manufacturés, sont apportées les modifications suivantes :
+
+1° le § 3 est remplacé par la disposition suivante :
+
+" § 3. Pour les cigarettes, le total des droits d'accise et des droits d'accise spéciaux perçus conformément aux §§ 1er, 2°, et 2, ne peut en aucun cas être inférieur à nonante cinq pour cent du montant cumulé des mêmes impôts qui seraient appliqués aux cigarettes de la catégorie correspondant au prix moyen pondéré, sans dépasser le montant de l'accise globale perçue sur les cigarettes appartenant à la classe de prix la plus demandée. "
+
+2° le § 5bis est complété par l'alinéa suivant :
+
+" Le prix moyen pondéré est le prix obtenu en effectuant la moyenne pondérée de tous les prix de la catégorie de mêmes produits mis sur le marché au cours de l'année précédant l'établissement du montant cumulé des impôts visés aux §§ 3 à 5, à l'exclusion des prix réservés aux produits vendus à un prix illimité. "
+
+3° le § 5ter est abrogé.
+
+## Art. 3
+
+L'arrêté royal du 15 juillet 2005 fixant un prix de référence minimum pour les cigarettes est abrogé.
+
+## Art. 4
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Naples, le 26 novembre 2006.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+La Vice-Première Ministre et Ministre de la Justice,
+
+Mme L. ONKELINX.

@@ -1,0 +1,1236 @@
+---
+title: "Loi sur l'accueil des demandeurs d'asile et de certaines autres catégories d'étrangers"
+identifier: "2007002066"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/12/2007002066/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2007-01-12
+published: 2007-05-07
+entry_into_force: 2007-05-07
+last_amended: 2025-07-23
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2007/01/12/2007002066/justel"
+department: "Intégration Sociale, Lutte Contre la Pauvreté et Economie Sociale"
+justel_note: "Consultation des versions antérieures à partir du 07-05-2007 et mise à jour au 23-07-2025"
+retrieved: 2026-10-11
+---
+
+# 12 JANVIER 2007. - Loi sur l'accueil des demandeurs d'asile et de certaines autres catégories d'étrangers
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## LIVRE Ier. - DEFINITIONS, PRINCIPES GENERAUX ET CHAMP D'APPLICATION.
+
+### TITRE Ier. - Définitions.
+
+**Art. 1**
+
+La présente loi règle une matière visée par l'article 78 de la Constitution.
+
+[<sup>1</sup> Elle transpose partiellement la directive 2013/33/UE du Parlement européen et du Conseil du 26 juin 2013 établissant des normes pour l'accueil des personnes demandant la protection internationale (refonte).]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-11-21/17, art. 60, 009; En vigueur : 22-03-2018&gt;
+
+**Art. 2**
+
+Pour l'application de la présente loi, il faut entendre par :
+
+1° le demandeur d'asile : l'étranger qui a [<sup>3</sup> présenté]<sup>3</sup> une demande d'asile, ayant pour objectif soit la reconnaissance du statut de réfugié, soit l'octroi du statut de protection subsidiaire;
+
+2° le bénéficiaire de l'accueil : le demandeur d'asile, tel que défini au 1° ainsi que tout étranger auquel le bénéfice de la présente loi est étendu par l'une de ses dispositions;
+
+3° le mineur : une personne de moins de dix-huit ans;
+
+4° le mineur non accompagné : une personne de moins de dix-huit ans non accompagnée au moment de son entrée sur le territoire du Royaume ou cessant d'être accompagnée postérieurement à celle-ci par une personne exerçant sur lui l'autorité parentale ou la tutelle, en vertu de la loi applicable conformément à l'article 35 de la loi du 16 juillet 2004 portant le Code de droit international privé, et se trouvant dans l'une des situations suivantes :
+
+\- soit, avoir [<sup>3</sup> présenté]<sup>3</sup> une demande d'asile au sens du 1°;
+
+\- soit, ne pas satisfaire aux conditions d'accès au territoire et de séjour déterminées par les lois sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
+
+5° les membres de la famille du demandeur d'asile : dans la mesure où la famille était déjà fondée dans le pays d'origine et s'ils sont présents sur le territoire du Royaume en raison de la demande d'asile :
+
+i) le conjoint du demandeur d'asile, ou son ou sa partenaire non marié(e) avec lequel (laquelle) il a une relation stable;
+
+ii) les enfants mineurs du couple du demandeur d'asile visé au point i) ou du demandeur d'asile, à condition qu'ils soient non mariés [<sup>3</sup> ...]<sup>3</sup>, sans discrimination selon qu'ils sont nés du mariage, hors mariage ou qu'ils ont été adoptés.
+
+6° l'aide matérielle : l'aide octroyée par l'Agence ou le partenaire, au sein d'une structure d'accueil, et consistant notamment en l'hébergement, les repas, l'habillement, l'accompagnement médical, social et psychologique et l'octroi d'une allocation journalière. Elle comprend également l'accès à l'aide juridique, l'accès à des services tels que l'interprétariat et des formations ainsi que l'accès à un programme de retour volontaire;
+
+7° [<sup>1</sup> le Ministre : le Ministre qui a l'asile et la migration dans ses attributions, et dont relève l'Agence;]<sup>1</sup>
+
+8° l'Agence : l'Agence fédérale pour l'accueil des demandeurs d'asile;
+
+9° le partenaire : la personne morale de droit public ou de droit privé chargée par l'Agence et aux frais de celle-ci, de dispenser l'aide matérielle au bénéficiaire de l'accueil conformément aux dispositions de la présente loi;
+
+10° la structure d'accueil : la structure communautaire ou individuelle au sein de laquelle l'aide matérielle est octroyée au bénéficiaire de l'accueil, qu'elle soit gérée par l'Agence ou un partenaire;
+
+11° le directeur général : le Directeur général de l'Agence;
+
+[<sup>2</sup> 12° le trajet de retour : le trajet d'accompagnement individuel offert par l'Agence en vue du retour. Le trajet est formalisé dans un document qui est signé par le demandeur d'asile ou par l'étranger en séjour illégal et par les membres de sa famille, et qui mentionne au moins les droits et devoirs du demandeur d'asile et un calendrier concret pour le retour;]<sup>2</sup>
+
+[<sup>2</sup> 13° le retour volontaire : le retour d'une personne vers son pays d'origine ou vers un pays tiers sur le territoire duquel elle est admise ou autorisée au séjour, à la suite d'une décision autonome de faire appel à un programme d'aide au retour élaboré par les autorités du pays d'accueil.]<sup>2</sup>
+
+[<sup>4</sup> 14° la place Dublin: la place d'accueil dans une structure d'accueil communautaire, où est assuré un accompagnement social spécifique, adapté à la situation administrative du bénéficiaire de l'accueil qui s'est vu notifier une décision de refus de séjour avec mesure de transfert en application de l'article 51/5, § 4, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers. Dans une place Dublin, des explications sont notamment données sur la décision déterminant l'Etat responsable de l'examen de la demande d'asile, les voies de recours disponibles, les modalités et le délai d'exécution du transfert. L'Office des Etrangers est présent à intervalles réguliers sur place et fournit au bénéficiaire de l'accueil l'accompagnement tel que visé à l'article 74/25 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;]<sup>4</sup>
+
+[<sup>4</sup> 15° la place ouverte de retour: la place d'accueil dans une structure d'accueil communautaire, où est assuré un accompagnement social spécifique, adapté à la situation administrative du bénéficiaire de l'accueil qui s'est vu notifier une décision finale négative dans le cadre d'une demande de protection internationale au sens de l'article 1er, § 1er, 19°, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers. Dans une place ouverte de retour, des explications sont notamment données sur les conséquences de la décision finale négative et un accompagnement au retour volontaire est proposé. L'Office des Etrangers est présent à intervalles réguliers sur place et fournit au bénéficiaire de l'accueil l'accompagnement tel que visé à l'article 74/24 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2012-01-19/13, art. 3, a, 004; En vigueur : 12-01-2012&gt;
+
+(2)&lt;L 2012-01-19/13, art. 3, b et c, 004; En vigueur : 27-02-2012&gt;
+
+(3)&lt;L 2017-11-21/17, art. 61, 009; En vigueur : 22-03-2018&gt;
+
+(4)&lt;L 2024-05-12/29, art. 36, 013; En vigueur : 20-07-2024&gt;
+
+### TITRE II. - Principes généraux.
+
+**Art. 3**
+
+Tout demandeur d'asile a droit à un accueil devant lui permettre de mener une vie conforme à la dignité humaine.
+
+Par accueil, on entend l'aide matérielle octroyée conformément à la présente loi ou l'aide sociale octroyée par les centres publics d'action sociale conformément à la loi du 8 juillet 1976 organique des centres publics d'action sociale.
+
+**Art. 4**
+
+[<sup>1</sup> § 1er. L'Agence peut limiter ou, dans des cas exceptionnels, retirer le droit à l'aide matérielle :
+
+1° lorsqu'un demandeur d'asile refuse le lieu obligatoire d'inscription désigné par l'Agence, ne l'utilise pas ou l'abandonne sans en avoir informé l'Agence ou, si une autorisation est nécessaire à cet effet, sans l'avoir obtenue; ou
+
+2° lorsqu'un demandeur d'asile ne respecte pas l'obligation de se présenter, ne répond pas aux demandes d'information ou ne se rend pas aux entretiens personnels concernant la procédure d'asile dans un délai raisonnable; ou
+
+3° lorsqu'un demandeur d'asile présente une demande ultérieure, jusqu'à ce qu'une décision de recevabilité soit prise en application de l'article 57/6/2, § 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers; ou
+
+4° en application des articles 35/2 et 45, alinéa 2, 8° et 9°.
+
+[<sup>2</sup> 5° lorsqu'un demandeur d'asile bénéficie déjà d'une protection internationale dans un autre Etat membre de l'Union européenne; ou
+
+6° lorsqu'un étranger mineur introduit une demande de protection internationale en son nom conformément à l'article 57/1, § 2, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, alors qu'une demande précédente introduite par les parents a fait l'objet d'une décision finale négative, jusqu'à ce qu'une décision de recevabilité soit prise en application de l'article 57/6, § 3, alinéa 1er, 6°, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.]<sup>2</sup>
+
+§ 2. Dans les cas visés au paragraphe 1er, 1° et 2°, lorsque le demandeur d'asile est retrouvé ou se présente volontairement, une décision fondée sur les raisons de sa disparition, est prise quant au rétablissement du bénéfice de certaines ou de l'ensemble des conditions matérielles d'accueil retirées ou réduites.
+
+§ 3. Les décisions portant limitation ou retrait du bénéfice des conditions matérielles d'accueil visées au présent article sont individuellement motivées. Elles prennent en considération la situation particulière de la personne concernée, en particulier des personnes visées à l'article 36 de la même loi, et compte tenu du principe de proportionnalité.
+
+§ 4. Le droit à l'accompagnement médical tel que visé aux articles 24 et 25 et le droit à un niveau de vie digne restent cependant garantis au demandeur d'asile visé dans le présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-11-21/17, art. 62, 009; En vigueur : 22-03-2018&gt;
+
+(2)&lt;L 2025-07-14/10, art. 2, 014; En vigueur : 02-08-2025&gt;
+
+**Art. 4/1**
+
+[<sup>1</sup> Tout demandeur d'asile auquel est désigné un centre de retour au sens de l'article 54, § 1er de la loi du 15 décembre 1980 sur l'accès, le séjour, l'établissement et l'éloignement des étrangers, ainsi que les membres de sa famille, cessent d'être des bénéficiaires de l'accueil au sens de la présente loi. Cette qualité se perd le lendemain du jour où la décision de désignation d'un centre de retour est notifiée au demandeur d'asile concerné.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-04-22/26, art. 4, 005; En vigueur : 01-07-2012&gt;
+
+**Art. 5**
+
+Sans préjudice [<sup>1</sup> de l'application des articles 4, 35/2 et]<sup>1</sup> du Livre III, Titre III relatif aux mesures d'ordre et sanctions, le bénéfice de l'aide matérielle décrite dans la présente loi ne pourra en aucun cas faire l'objet d'une suppression.
+
+----------
+
+(1)&lt;L 2012-01-19/13, art. 5, 004; En vigueur : indéterminée et au plus tard le 31-03-2012&gt;
+
+### TITRE III. - Champ d'application.
+
+#### CHAPITRE Ier. - L'aide matérielle.
+
+**Art. 6**
+
+§ 1er. [<sup>1</sup> Sans préjudice de l'application [<sup>3</sup> des articles 4, 4/1 et 35/2]<sup>3</sup> de la présente loi, le]<sup>1</sup> bénéfice de l'aide matérielle s'applique à tout demandeur d'asile dès [<sup>5</sup> la présentation]<sup>5</sup> de sa demande d'asile et produit ses effets pendant toute la procédure d'asile [<sup>2</sup> ...]<sup>2</sup> [<sup>6</sup> pour autant que le bénéficiaire de l'accueil soit autorisé à demeurer sur le territoire en qualité de demandeur]<sup>6</sup>.
+
+[<sup>2</sup> Alinéa 2 abrogé.]<sup>2</sup>
+
+[<sup>2</sup> En cas de décision négative rendue à l'issue de la procédure d'asile, l'aide matérielle prend fin [<sup>6</sup> avec la notification d'une décision finale négative dans le cadre de la procédure de demande de protection internationale, au sens de l'article 1, § 1, 19°, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers]<sup>6</sup>.]<sup>2</sup> [<sup>6</sup> Le bénéficiaire de l'accueil continue à bénéficier de l'aide matérielle pour une durée de trente jours, à compter de la notification de la décision finale négative.]<sup>6</sup> [<sup>4</sup> L'introduction d'un recours en cassation au Conseil d'Etat, n'engendre pas de droit à une aide matérielle. Lors de l'examen du recours en cassation un droit à l'aide matérielle est garanti uniquement si le recours en cassation est déclaré admissible en application de l'article 20, § 2, des lois sur le Conseil d'Etat coordonnées le 12 janvier 1973.]<sup>4</sup>
+
+Le bénéfice de l'aide matérielle s'applique également aux membres de la famille du demandeur d'asile.
+
+[<sup>1</sup> Le bénéfice de l'aide matérielle prend toutefois fin en cas de recours introduit devant le Conseil d'Etat contre la décision d'octroi de la protection subsidiaire et de refus du statut de réfugié. Le bénéfice de l'aide matérielle prend également fin lorsqu'une autorisation de séjour est accordée pour plus de trois mois sur la base de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, à une personne dont la procédure d'asile ou la procédure devant le Conseil d'Etat est toujours en cours.]<sup>1</sup>
+
+§ 2. Le bénéfice de l'aide matérielle s'applique également aux personnes visées à l'article 60 de la présente loi.
+
+----------
+
+(1)&lt;L 2009-12-30/01, art. 161, 002; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2012-01-19/13, art. 6, 004; En vigueur : indéterminée et au plus tard le 31-03-2012&gt;
+
+(3)&lt;L 2012-04-22/26, art. 5, 005; En vigueur : 01-07-2012&gt;
+
+(4)&lt;L 2013-05-08/18, art. 23, 006; En vigueur : 01-09-2013&gt;
+
+(5)&lt;L 2017-11-21/17, art. 63, 009; En vigueur : 22-03-2018&gt;
+
+(6)&lt;L 2024-03-14/30, art. 2, 010; En vigueur : 27-06-2024&gt;
+
+**Art. 6/1**
+
+[<sup>1</sup> § 1er. Le demandeur d'asile a toujours la possibilité de souscrire à un trajet de retour individualisé établi en concertation avec l'Agence.
+
+Le trajet de retour privilégie le retour volontaire.
+
+§ 2. Au plus tard 5 jours après une décision négative du Commissariat général aux réfugiés et aux apatrides, l'Agence propose une première fois l'accompagnement au retour, dans le cadre duquel le demandeur d'asile reçoit des informations relatives aux possibilités qui s'offrent à lui en ce qui concerne le trajet de retour.
+
+§ 3. [<sup>2</sup> Lorsque le droit à l'aide matérielle prend fin conformément à l'article 6, § 1er, alinéa 2, le trajet de retour est établi et exécuté dans un délai de trente jours à compter de la notification de la décision visée au même article 6, § 1er, alinéa 2.]<sup>2</sup>
+
+[<sup>2</sup> L'Office]<sup>2</sup> des étrangers doit être informé et tenu au courant de la situation et de l'avancement du trajet de retour, qui est, à partir de ce moment, géré conjointement par l'Agence et l'Office des étrangers. Le Roi peut déterminer, par arrêté délibéré en Conseil des ministres, les modalités de cet échange d'informations et de la gestion conjointe du trajet.
+
+Si l'Agence ou l'Office des étrangers estime que le demandeur d'asile ne coopère pas suffisamment au trajet de retour, son départ étant reporté à cause de son seul comportement, la gestion du trajet de retour et le dossier administratif y afférent sont transférés à l'Office des étrangers, en vue d'un retour forcé. A cette fin, l'Office des étrangers peut modifier le lieu obligatoire d'inscription.
+
+§ 4. L'Agence ou l'Office des étrangers peut modifier le lieu obligatoire d'inscription pour la durée du trajet. Le Roi peut déterminer les modalités en la matière, par arrêté délibéré en Conseil des ministres.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-01-19/13, art. 7, 004; En vigueur : indéterminée et au plus tard le 31-03-2012&gt;
+
+(2)&lt;L 2024-03-14/30, art. 3, 010; En vigueur : 27-06-2024&gt;
+
+**Art. 7**
+
+[<sup>1</sup> § 1er. Le bénéfice de l'aide matérielle est prolongé quand l'étranger [<sup>6</sup> se trouve dans l'impossibilité de quitter la structure d'accueil dans le délai visé à l'article 6, § 1er, alinéa 2, parce qu'il]<sup>6</sup> a un membre de sa famille ou une personne exerçant sur lui l'autorité parentale ou la tutelle en vertu de la loi applicable conformément à l'article 35 de la loi du 16 juillet 2004 portant le Code de droit international privé, qui entre dans le champ d'application de la présente loi.
+
+§ 2. Le bénéfice de l'aide matérielle peut être prolongé, sur décision motivée de l'Agence, quand l'étranger [<sup>6</sup> qui se trouve dans l'impossibilité de quitter la structure d'accueil dans le délai visé à l'article 6, § 1er, alinéa 2,]<sup>6</sup> se trouve dans une des situations suivantes et en fait la demande :
+
+1° [<sup>6</sup> ...]<sup>6</sup> en vue de terminer l'année scolaire, [<sup>6</sup> ...]<sup>6</sup> et ce au plus tôt trois moins avant la fin de l'année scolaire. La prolongation du droit à l'aide matérielle se termine [<sup>6</sup> à la fin de l'année scolaire]<sup>6</sup>;
+
+2° [<sup>6</sup> ...]<sup>6</sup> en raison de sa grossesse. La prolongation du droit à l'aide matérielle s'applique au plus tôt à partir du septième mois de grossesse et se termine au plus tard à la fin du deuxième mois suivant l'accouchement;
+
+3° [<sup>6</sup> car il a souscrit à un accompagnement au retour volontaire au sens de l'article 6/1, mais que le retour n'a pas encore pu avoir lieu en raison de circonstances indépendantes de sa volonté, qui font temporairement obstacle à celui-ci. L'Agence contrôle la persistance de ces circonstances;]<sup>6</sup>
+
+4° [<sup>6</sup> parce qu'il]<sup>6</sup> est parent d'un enfant belge et qui a introduit une demande d'autorisation de séjour auprès des autorités compétentes en matière d'asile et de migration sur la base de l'article 9bis de la loi du 15 décembre 1980. La prolongation du droit à l'aide matérielle se termine quand les autorités compétentes en matière d'asile et de migration se sont prononcées sur la demande d'autorisation de séjour;
+
+5° [<sup>2</sup> ...]<sup>2</sup>
+
+6° [<sup>6</sup> ...]<sup>6</sup> pour des raisons médicales certifiées et étayées par une demande d'autorisation de séjour introduite sur la base de l'article 9ter de la loi du 15 décembre 1980 précitée, et qui n'est pas en mesure de quitter la structure d'accueil dans laquelle il réside.
+
+Dans l'hypothèse visée à l'alinéa 1er, 6°, l'étranger doit justifier, par le biais d'une attestation d'un médecin déposée à l'appui de sa demande, qu'il se trouve dans cette situation d'impossibilité médicale de quitter la structure d'accueil. Si elle l'estime requis, l'Agence sollicite un avis médical complémentaire. Un contrôle de la persistance du motif d'impossibilité médicale de quitter la structure d'accueil est effectué périodiquement par l'Agence. La prolongation du droit à l'aide matérielle prend fin quand ce contrôle démontre que l'impossibilité médicale ne persiste plus, et, en toute hypothèse, au moment de la notification de la décision quant à la recevabilité de la demande d'autorisation de séjour.
+
+Les demandes visées dans le présent paragraphe doivent, sous peine d'irrecevabilité, être introduites avant l'issue du délai visé à l'article 6, § 1er, alinéa 3.
+
+Tant que l'Agence n'a pas notifié à l'étranger, qui a introduit une demande sur la base du présent paragraphe, la décision motivée visée à l'alinéa 1er, le bénéfice de l'aide matérielle est prolongé provisoirement.
+
+Pour que l'étranger puisse se prévaloir du bénéfice du présent paragraphe, la procédure d'asile ne doit pas avoir fait l'objet [<sup>5</sup> ...]<sup>5</sup> d'une décision désignant un autre Etat que l'Etat belge comme responsable du traitement de la demande d'asile en application de l'article 51/5 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers [<sup>5</sup> ...]<sup>5</sup>.
+
+§ 3. Dans des circonstances particulières liées au respect de la dignité humaine, l'Agence peut déroger aux conditions fixées par la présente disposition.]<sup>1</sup>
+
+[<sup>3</sup> § 4. L'application du présent article se fait sans préjudice de l'application de l'article 4/1.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/01, art. 162, 002; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2012-01-19/13, art. 8, 004; En vigueur : indéterminée et au plus tard le 31-03-2012&gt;
+
+(3)&lt;L 2012-04-22/26, art. 6, 005; En vigueur : 01-07-2012&gt;
+
+(4)&lt;L 2013-05-08/18, art. 24, 006; En vigueur : 01-09-2013&gt;
+
+(5)&lt;L 2017-11-21/17, art. 64, 009; En vigueur : 22-03-2018&gt;
+
+(6)&lt;L 2024-03-14/30, art. 4, 010; En vigueur : 27-06-2024&gt;
+
+#### CHAPITRE II. - L'aide sociale octroyée par les centres publics d'action sociale conformément à la loi du 8 juillet 1976 organique des centres publics d'action sociale.
+
+**Art. 8**
+
+§ 1er. L'aide sociale est octroyée par les centres publics d'action sociale lorsque la désignation d'une structure d'accueil prend fin en application de l'article 11, § 1er, ou lorsque le bénéficiaire de l'accueil s'est vu reconnaître un statut de protection temporaire en application de l'article 10, 3° ou 4° [<sup>1</sup> ou lorsque le bénéficiaire de l'accueil a obtenu une autorisation de séjour de plus de trois mois conformément à la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers]<sup>1</sup>.
+
+§ 2. A l'exception du Livre II, la présente loi n'est pas d'application pour l'octroi de l'aide sociale au bénéficiaire de l'accueil telle que visée au § 1er.
+
+----------
+
+(1)&lt;L 2009-12-30/01, art. 163, 002; En vigueur : 10-01-2010&gt;
+
+## LIVRE II. - DISPOSITIONS RELATIVES A LA DETERMINATION DE L'AUTORITE COMPETENTE POUR OCTROYER L'ACCUEIL.
+
+### TITRE Ier. - Désignation d'un lieu obligatoire d'inscription.
+
+**Art. 9**
+
+L'accueil tel que visé à l'article 3 est octroyé par la structure d'accueil ou le centre public d'action sociale désigné comme lieu obligatoire d'inscription [<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2009-12-30/01, art. 164, 002; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2025-07-14/10, art. 3, 014; En vigueur : 02-08-2025&gt;
+
+**Art. 10**
+
+L'Agence désigne un lieu obligatoire d'inscription aux étrangers :
+
+1° qui sont entrés dans le Royaume sans satisfaire aux conditions fixées à l'article 2 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers et ont introduit une demande d'asile;
+
+2° qui ont [<sup>1</sup> présenté]<sup>1</sup> une demande d'asile après l'expiration de leur autorisation de séjour;
+
+3° qui appartiennent aux catégories de personnes désignées par un arrêté royal délibéré en Conseil des ministres dans le cadre de mesures spéciales visant la protection temporaire de personnes;
+
+4° qui sont autorisés à séjourner dans le Royaume sur la base de l'article 57/30, § 1er, ou de l'article 57/34 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.
+
+----------
+
+(1)&lt;L 2017-11-21/17, art. 65, 009; En vigueur : 22-03-2018&gt;
+
+**Art. 11**
+
+§ 1er. Aux demandeurs d'asile visés à l'article 10, 1° et 2°, une structure d'accueil est désignée comme lieu obligatoire d'inscription :
+
+1° tant que le Commissaire général aux réfugiés et aux apatrides ou un de ses adjoints n'ont pas pris une décision définitive sur leur demande d'asile;
+
+2° tant que le Conseil du Contentieux des Etrangers n'a pas pris une décision sur le recours contre la décision du Commissaire général aux réfugiés et aux apatrides ou d'un de ses adjoints ou, en l'absence de recours, jusqu'à l'expiration du délai pour l'introduire.
+
+Un nouveau lieu obligatoire d'inscription [<sup>1</sup> , correspondant à un centre public d'action sociale,]<sup>1</sup> peut être désigné si la décision visée à l'alinéa précédent, 1° et 2°, n'est pas prise dans un délai fixé par arrêté royal délibéré en Conseil des Ministres, suite à l'évaluation de la procédure d'examen des demandes d'asile.
+
+Par dérogation aux alinéas précédents, la désignation visée à l'alinéa 1er est toutefois maintenue pour les demandeurs d'asile visés à l'article 10, 1° et 2° qui ont reçu notification avant l'expiration du délai visé à l'alinéa précédent d'un arrêt du Conseil du Contentieux des Etrangers contre lequel ils ont introduit un recours en cassation administrative devant le Conseil d'Etat [<sup>1</sup> , sauf dans les hypothèses prévues à l'article 6, § 1er, alinéa 5]<sup>1</sup>.
+
+§ 2. Aux étrangers visés à l'article 10, 3° et 4°, est désigné comme lieu obligatoire d'inscription, un centre public d'action sociale qui leur délivre l'aide sociale à laquelle ils peuvent prétendre conformément à la loi du 8 juillet 1976 organique des centres publics d'action sociale.
+
+§ 3. Lors de la désignation d'un lieu obligatoire d'inscription, l'Agence veille à ce que ce lieu soit adapté au bénéficiaire de l'accueil et ce, dans les limites des places disponibles.
+
+Elle tient compte :
+
+1° lors de la désignation d'un lieu obligatoire d'inscription en application du § 1er, du degré d'occupation des structures d'accueil;
+
+2° lors de la désignation d'un lieu obligatoire d'inscription en application du § 1er, 2° alinéa et du § 2 d'une répartition harmonieuse entre les communes en vertu de critères fixés par un arrêté royal délibéré en Conseil des ministres.
+
+L'appréciation du caractère adapté de ce lieu est notamment basée sur des critères comme la composition familiale du bénéficiaire de l'accueil, son état de santé, sa connaissance d'une des langues nationales ou de la langue de la procédure. Dans ce cadre, l'Agence porte une attention particulière à la situation des personnes vulnérables visées à l'article 36.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>1</sup> § 4. Dans des circonstances exceptionnelles liées à la disponibilité des places d'accueil dans les structures d'accueil, l'Agence peut, après une décision du Conseil des ministres sur la base d'un rapport établi par l'Agence, pendant une période qu'elle détermine, soit modifier le lieu obligatoire d'inscription d'un demandeur d'asile en tant qu'il vise une structure d'accueil pour désigner un centre public d'action sociale, soit en dernier recours, désigner à un demandeur d'asile un centre public d'action sociale comme lieu obligatoire d'inscription.
+
+Tant la modification que la désignation d'un lieu obligatoire d'inscriptions en application du présent paragraphe ont lieu sur la base d'une répartition harmonieuse entre les communes, en vertu des critères fixés selon les modalités visées au paragraphe 3, deuxième alinéa, 2°, de cet article.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/01, art. 165, 002; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2025-07-14/10, art. 4, 014; En vigueur : 02-08-2025&gt;
+
+### TITRE II. - Modification du lieu obligatoire d'inscription.
+
+**Art. 12**
+
+§ 1er. Le demandeur d'asile dont le lieu obligatoire d'inscription, désigné en application de l'article 11, § 1er, est une structure d'accueil communautaire peut demander, après y avoir résidé pendant [<sup>1</sup> six]<sup>1</sup> mois, que ce lieu soit modifié en faveur d'une structure d'accueil individuelle, dans la limite des places disponibles.
+
+La modification du lieu obligatoire d'inscription ne peut être demandée si le délai de [<sup>1</sup> six]<sup>1</sup> mois est atteint après la notification de la décision de rejet du Conseil du Contentieux des Etrangers, à moins que le demandeur d'asile n'ait introduit un recours en cassation administrative qui a fait l'objet d'une ordonnance d'admissibilité, en application de l'article 20, § 3, des lois sur le Conseil d'Etat coordonnées le 12 janvier 1973.
+
+§ 2. En application de l'article 11, § 3, alinéa 3, l'Agence peut d'initiative ou à la requête du partenaire ou du demandeur d'asile, modifier le lieu obligatoire d'inscription désigné en application de l'article 11, § 1er.
+
+Lorsque cette modification est envisagée par l'Agence pour des motifs d'unité familiale, l'accord du demandeur d'asile est requis préalablement.
+
+Le Roi fixe la procédure relative à la modification visée à l'alinéa 1er.
+
+§ 3. Le lieu obligatoire d'inscription, désigné en application de l'article 11, § 1er, peut également être modifié en exécution d'une mesure d'ordre ou d'une sanction prise conformément à l'article 44 ou 45.
+
+[<sup>2</sup> § 4. Après la notification d'une décision de refus de séjour avec mesure de transfert en application de l'article 51/5, § 4, alinéa 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers ou d'une décision finale négative dans le cadre d'une demande de protection internationale au sens de l'article 1er, § 1er, 19°, de la même loi, l'Agence modifie le lieu obligatoire d'inscription du bénéficiaire de l'accueil, respectivement vers une place Dublin ou une place ouverte de retour, sauf s'il se trouve déjà dans une structure d'accueil comptant de telles places.
+
+Le bénéficiaire de l'accueil doit se rendre à la place désignée dans les cinq jours ouvrables à compter de la notification de la décision modifiant le lieu obligatoire d'inscription.
+
+Dans ce délai de cinq jours ouvrables, le bénéficiaire de l'accueil peut introduire auprès de l'Agence une demande motivée d'exception à la désignation effectuée:
+
+1° pour des raisons médicales certifiées faisant obstacle au changement de structure d'accueil; les raisons sont examinées par le médecin-conseil de l'Agence;
+
+2° en raison de grossesse ou d'accouchement récent, entre le septième mois de la grossesse et la fin du deuxième mois suivant la naissance de l'enfant;
+
+3° en vue de terminer l'année scolaire de ses enfants entre le 1er avril et le 30 juin; ce motif ne peut être invoqué par le bénéficiaire de l'accueil auquel une place Dublin a été désignée.
+
+Le bénéficiaire de l'accueil peut se maintenir dans la structure d'accueil où il se trouve pendant le traitement de la demande visée à l'alinéa 3.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2016-05-04/29, art. 38, 007; En vigueur : 07-07-2016&gt;
+
+(2)&lt;L 2024-05-12/29, art. 37, 013; En vigueur : 20-07-2024&gt;
+
+### TITRE III. - Suppression du lieu obligatoire d'inscription.
+
+**Art. 13**
+
+&lt;Abrogé par L 2025-07-14/10, art. 5, 014; En vigueur : 02-08-2025&gt;
+
+## LIVRE III. - DISPOSITIONS RELATIVES A L'AIDE MATERIELLE OCTROYEE AUX BENEFICIAIRES DE L'ACCUEIL.
+
+### TITRE Ier. - Droits et obligations des bénéficiaires de l'accueil.
+
+#### CHAPITRE Ier. - Dispositions générales.
+
+##### Section 1re. - Information.
+
+**Art. 14**
+
+Lors de la désignation du lieu obligatoire d'inscription, l'Agence délivre au demandeur d'asile une brochure d'information rédigée, dans la mesure du possible, dans une langue qu'il comprend et décrivant notamment ses droits et obligations tels que décrits dans la présente loi ou dans la loi du 8 juillet 1976 organique des centres publics d'action sociale, ainsi que les coordonnées des instances compétentes et des associations pouvant leur prodiguer une assistance médicale, sociale et juridique.
+
+Ces informations sont complétées dès l'arrivée du demandeur d'asile dans la structure d'accueil qui lui est désignée en lui communiquant le règlement d'ordre intérieur de la structure d'accueil visé à l'article 19.
+
+**Art. 15**
+
+L'Agence ou le partenaire veille à ce que le bénéficiaire de l'accueil ait accès à des services d'interprétariat et de traduction sociale dans le cadre de l'exercice de ses droits et obligations décrits dans la présente loi.
+
+L'Agence ou le partenaire peut conclure des conventions avec des services ou organisations spécialisés dans l'interprétariat et la traduction sociale.
+
+**Art. 15/1**
+
+[<sup>1</sup> Le bénéficiaire de l'accueil est tenu de fournir tout renseignement utile concernant sa situation, ainsi que d'informer l'Agence ou le partenaire de toute nouvelle information susceptible d'avoir un impact sur l'aide qui lui est accordée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-04-28/01, art. 32, 003; En vigueur : 20-05-2010&gt;
+
+##### Section II. - Hébergement.
+
+**Art. 16**
+
+Le bénéficiaire de l'accueil est hébergé dans une structure d'accueil communautaire ou individuelle.
+
+**Art. 17**
+
+Le Roi définit les normes auxquelles les structures d'accueil doivent répondre tant en termes qualitatifs qu'en termes d'infrastructure ainsi que les modalités de contrôle par l'Agence du respect de ces normes.
+
+**Art. 18**
+
+Par dérogation aux articles 20 et 21 ainsi qu'aux articles 30 à 35, le bénéficiaire de l'accueil peut, lorsque les capacités de logement normalement disponibles sont temporairement épuisées, [<sup>1</sup> en cas d'afflux massif de demandeurs d'asile]<sup>1</sup> être hébergé dans une structure d'accueil d'urgence. Dans ce cas il bénéficie d'un accompagnement social limité.
+
+[<sup>1</sup> Le séjour dans une telle structure peut uniquement avoir lieu pour une période raisonnable aussi courte que possible et les besoins fondamentaux du bénéficiaire de l'accueil y sont rencontrés en fonction de l'évaluation de ses besoins spécifiques.]<sup>1</sup> Ceux-ci comprennent toute l'assistance nécessaire, et notamment la nourriture, le logement, l'accès aux facilités sanitaires et l'accompagnement médical tel que décrit aux articles 23 à 29.
+
+----------
+
+(1)&lt;L 2017-11-21/17, art. 66, 009; En vigueur : 22-03-2018&gt;
+
+**Art. 19**
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Le Roi détermine le régime et les règles de fonctionnement applicables aux structures d'accueil. Un règlement d'ordre intérieur établi par le ministre en détermine les modalités d'exercice. Il est veillé à la bonne et complète compréhension de celui-ci par le bénéficiaire de l'accueil.
+
+[<sup>1</sup> § 2. Dans le cadre de l'exercice de la mission visée au paragraphe 1er, le Roi détermine les modalités concrètes permettant au directeur ou au responsable de la structure d'accueil ou aux personnes désignées par eux à cet effet d'effectuer le contrôle des chambres des bénéficiaires qui y résident.
+
+Un tel contrôle ne peut être effectué que dans un objectif de prévention en matière de sécurité et de lutte contre l'incendie, de préservation de l'hygiène, de vérification du respect des dispositions du règlement d'ordre intérieur visé au paragraphe 1er qui assurent la protection des droits et libertés des autres bénéficiaires de la structure d'accueil et des membres du personnel de celle-ci.
+
+En aucun cas, un tel contrôle ne peut avoir un caractère vexatoire pour le bénéficiaire de l'accueil concerné et il doit se faire dans le respect des biens dont il dispose.
+
+Dans la mise en oeuvre de la compétence qui Lui est attribuée en vertu de l'alinéa 1er, le Roi prévoit la stricte limitation du nombre de personnes que le directeur ou le responsable de la structure d'accueil peut désigner pour exécuter le contrôle et précise clairement et limitativement les modalités des contrôles, notamment en termes de fréquence. A titre exceptionnel, le contrôle des chambres des bénéficiaires de l'accueil peut avoir lieu, en dehors des modalités de fréquence fixées par le Roi mais uniquement lorsqu'il s'avère motivé par des exigences particulières de prévention en matière de sécurité, de lutte contre l'incendie, d'hygiène ou en cas de manquement grave au règlement d'ordre intérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/01, art. 166, 002; En vigueur : 10-01-2010&gt;
+
+**Art. 20**
+
+Lors de son séjour au sein d'une structure d'accueil, le bénéficiaire de l'accueil a droit au respect de sa vie privée et familiale, au respect de ses convictions, à participer à l'organisation de la vie communautaire au sein de la structure d'accueil, à communiquer avec sa famille, son conseil, les représentants du Haut Commissariat des Nations unies pour les réfugiés et les associations ayant pour objet l'accueil des étrangers et la défense de leurs droits.
+
+L'aide matérielle est organisée dans le respect du principe de neutralité envers les convictions philosophiques et religieuses des bénéficiaires de l'accueil au sein de la structure d'accueil.
+
+**Art. 21**
+
+Les conseillers juridiques des bénéficiaires de l'accueil, les représentants du Haut Commissariat des Nations unies pour les réfugiés et les ONG qui agissent en son nom ont accès aux structures communautaires d'accueil, en vue d'aider les bénéficiaires de l'accueil.
+
+Le Roi peut imposer des limites à cet accès uniquement aux fins de sécurité des structures communautaires d'accueil et des locaux ainsi que des bénéficiaires de l'accueil.
+
+Il est prévu, dans la structure d'accueil communautaire, un local permettant d'assurer aux entretiens qui s'y déroulent un caractère confidentiel.
+
+##### Section III. - Evaluation.
+
+**Art. 22**
+
+§ 1er. Dans les trente jours qui suivent la désignation de son lieu obligatoire d'inscription, la situation individuelle du bénéficiaire de l'accueil est examinée en vue de déterminer si l'accueil répond à ses [<sup>1</sup> besoins spécifiques en termes d'accueil]<sup>1</sup>. S'il apparaît que ce n'est pas le cas, il peut être procédé à une modification du lieu obligatoire d'inscription.
+
+[<sup>1</sup> § 1er/1. En même temps que l'examen des besoins spécifiques en termes d'accueil, il est examiné s'il existe des besoins procéduraux spéciaux tels que visés par l'article 48/9 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers. L'Agence peut formuler des recommandations relatives aux besoins procéduraux spéciaux qu'un demandeur d'asile peut éprouver auprès de l'Office des étrangers et du Commissariat général aux réfugiés et apatrides, à condition qu'il ait donné son autorisation à cette fin.]<sup>1</sup>
+
+§ 2. A cette fin, l'examen de la situation individuelle du bénéficiaire de l'accueil porte notamment sur les signes non détectables a priori d'une éventuelle vulnérabilité telle que celle présente chez les personnes ayant subi des tortures ou d'autres formes graves de violence psychologique, physique ou sexuelle.
+
+§ 3. L'évaluation de la situation individuelle du bénéficiaire de l'accueil se poursuit tout au long de son séjour au sein de la structure d'accueil.
+
+§ 4. Le Roi fixe les modalités de cette évaluation.
+
+----------
+
+(1)&lt;L 2017-11-21/17, art. 67, 009; En vigueur : 22-03-2018&gt;
+
+##### Section IV. - Accompagnement médical, psychologique, social et aide juridique.
+
+###### Sous-section 1re. - Accompagnement médical.
+
+**Art. 23**
+
+Le bénéficiaire de l'accueil a droit à l'accompagnement médical nécessaire pour mener une vie conforme à la dignité humaine.
+
+**Art. 24**
+
+Par accompagnement médical, on entend l'aide et les soins médicaux, que ceux-ci soient repris dans la nomenclature telle que prévue à l'article 35 de la loi relative à l'assurance obligatoire soins de santé et indemnités coordonnée le 14 juillet 1994 ou qu'ils relèvent de la vie quotidienne.
+
+Le Roi détermine, par arrêté délibéré en Conseil des Ministres, d'une part, l'aide et les soins médicaux qui, bien que repris dans la nomenclature précitée, ne sont pas assurés au bénéficiaire de l'accueil en ce qu'ils apparaissent comme manifestement non nécessaires, et d'autre part, l'aide et les soins médicaux relevant de la vie quotidienne et qui bien que non repris dans la nomenclature précitée sont assurés au bénéficiaire de l'accueil.
+
+**Art. 25**
+
+§ 1er. L'Agence est compétente pour assurer l'accompagnement médical visé à l'article 23 au profit du bénéficiaire de l'accueil, et ce quelle que soit la structure d'accueil dans lequel il est accueilli, à l'exception de celle gérée par le partenaire visé à l'article 64.
+
+§ 2. A cette fin, chaque structure d'accueil garantit au bénéficiaire de l'accueil l'accès effectif à un accompagnement médical.
+
+§ 3. Cet accompagnement est délivré sous la responsabilité d'un médecin qui conserve son indépendance professionnelle envers le directeur ou le responsable de ladite structure.
+
+§ 4. Le demandeur d'asile qui ne réside pas dans la structure d'accueil qui lui a été désignée comme lieu obligatoire d'inscription peut bénéficier d'un accompagnement médical assuré par l'Agence.
+
+§ 5. Le bénéficiaire de l'accueil peut introduire auprès de l'Agence un recours contre une décision du médecin de la structure d'accueil relative à l'octroi d'un accompagnement médical qui n'est pas considéré comme étant nécessaire pour mener une vie conforme à la dignité humaine, conformément à l'article 47.
+
+**Art. 26**
+
+[<sup>1</sup> § 1er.]<sup>1</sup> L'Agence ou le partenaire peut, selon les modalités définies par le Roi, conclure des conventions avec les établissements de soins de santé en vue de fixer les conditions de remboursement des frais médicaux, pharmaceutiques et autres, résultant des soins dispensés au bénéficiaire de l'accueil.
+
+[<sup>1</sup> § 2. Le Roi peut, dans les conditions et selon les modalités qu'il détermine, confier à la Caisse auxiliaire d'assurance maladie-invalidité, visée à l'article 5 de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, le contrôle et le paiement aux prestataires de soins des factures médicales et pharmaceutiques présentées par ces prestataires de soins pour les bénéficiaires de l'aide matérielle, visée à l'article 25, § 1er.
+
+Les traitements visés aux alinéas 3 et 5 ont les finalités suivantes:
+
+1° identifier de manière unique le bénéficiaire de l'aide matérielle concerné;
+
+2° de la vérification des factures médicales et pharmaceutiques pour les frais encourus pour l'accompagnement médical du bénéficiaire de l'aide matérielle concerné;
+
+3° du paiement aux prestataires de soins des factures médicales et pharmaceutiques vérifiées;
+
+4° répondre aux questions des prestataires de soins concernant les droits des bénéficiaires de l'aide matérielle, concernant les accords sur les traitements médicaux acceptés et la prise en charge des traitements médicaux, en cas de dysfonctionnements techniques auprès des organisations concernées ou d'informations contradictoires provenant d'autres organisations, ou en ce qui concerne l'identité du bénéficiaire de l'aide matérielle qui ne dispose pas d'une preuve d'identité.
+
+L'Agence et la Caisse auxiliaire d'assurance maladie-invalidité peuvent, en vue de la finalité visée à l'alinéa 2, traiter et échanger, pour tous les bénéficiaires de l'aide matérielle, les catégories suivantes de données à caractère personnel:
+
+1° le nom et prénom;
+
+2° la date de naissance;
+
+3° le sexe;
+
+4° la date du décès;
+
+5° le code postal et la localité;
+
+6° la date à laquelle la demande d'asile a été introduite et l'autorité auprès de laquelle cette demande a été introduite;
+
+7° le cas échéant, la date de désistement de la demande d'asile;
+
+8° s'il échet, la date à laquelle une mesure d'éloignement du territoire a été prise, la date à laquelle elle a été notifiée au demandeur d'asile, et la date à laquelle celui-ci a quitté effectivement le territoire;
+
+9° le cas échéant, la date à laquelle le statut de réfugié ou le statut de protection subsidiaire a été accordé et l'autorité qui a pris cette décision;
+
+10° le numéro de Registre national;
+
+11° les accords sur les traitements médicaux acceptés;
+
+12° les données relatives à la santé.
+
+L'Agence et la Caisse auxiliaire d'assurance maladie-invalidité sont tous les deux responsables du traitement de ces données à caractère personnel visées à alinéa 3 dans les limites de leurs compétences respectives. Ces données à caractère personnel sont incluses dans le dossier médical du bénéficiaire concerné, qui est conservé uniquement à l'Agence conformément à l'article 27. Les données sont conservées pendant une période de trente ans dans le cadre de l'application de l'obligation légale relative à la conservation de ces catégories de données. Après l'expiration de la période de trente ans, ces données seront définitivement détruites.
+
+L'Agence peut, dans le cadre de la finalité visée à l'alinéa 2, traiter les catégories de données à caractère personnel suivantes pour tous les bénéficiaires de l'aide matérielle:
+
+1° le fait que le bénéficiaire concerné soit belge, ressortissant d'un pays de l'UE ou d'un pays hors de l'UE;
+
+2° l'absence provisoire de nationalité ou de statut, indiquée par les mots "nationalité indéterminée" ou "statut indéterminé";
+
+3° la résidence principale, y compris tout changement du lieu de résidence de la personne et les données de la radiation si la personne est basée à l'étranger;
+
+4° le cas échéant, l'adresse où la personne réside temporairement en dehors de la commune où elle a sa résidence principale;
+
+5° le domicile élu par le demandeur d'asile en vertu de l'article 51/2 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
+
+6° le cas échéant, le lieu obligatoire d'inscription fixé par l'Agence en application de l'article 54 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
+
+7° le lieu du décès;
+
+8° la date de la transcription de la décision déclarative d'absence;
+
+9° l'état civil;
+
+10° la composition du ménage;
+
+11° les actes et décisions relatifs à la capacité juridique et les décisions d'administration de biens ou de la personne visées à l'article 1250, alinéa 1er, du Code judiciaire;
+
+12° le nom, le prénom et l'adresse de la personne qui représente ou assiste un mineur, une personne déclarée incapable, un interné ou une personne placée sous statut de minorité prolongée, ou de l'administrateur de biens ou de la personne dont il est fait mention dans la décision visée à l'article 1250, alinéa 1er, du Code judiciaire;
+
+13° la mention du registre dans lequel sont inscrites les personnes visées à l'article 2 de la loi du 8 août 1983 organisant un registre national des personnes physiques;
+
+14° la déclaration de cohabitation légale (et la cessation);
+
+15° la situation de séjour pour les étrangers visés à l'article 2 de la loi du 8 août 1983 organisant un registre national des personnes physiques;
+
+16° la mention des ascendants au premier degré, que le lien de filiation soit établi dans l'acte de naissance, par décision judiciaire, par reconnaissance ou par une adoption;
+
+17° la mention des descendants en ligne directe au premier degré, que le lien de filiation soit établi dans l'acte de naissance, par décision judiciaire, par reconnaissance ou par une adoption;
+
+18° les données de contact fournies par les citoyens sur une base volontaire uniquement, telles que déterminées par le Roi;
+
+19° le numéro de la carte d'identité;
+
+20° le numéro et la date de délivrance de la carte de sécurité sociale;
+
+21° outre les informations d'identification de la personne avec laquelle le mariage est envisagé, les informations relatives aux formalités et décisions précédant la célébration du mariage visées aux articles 63, §§ 2 et 4, 64, § 1er, et 167 du Code civil;
+
+22° outre les données d'identification relatives à la personne avec laquelle une déclaration de cohabitation légale est faite, les informations relatives aux décisions précédant le fait d'acter la déclaration de cohabitation légale, visée à l'article 1476, § 1er, du Code civil;
+
+23° la mention du fait que le mineur réside partiellement, de façon égalitaire ou pas, chez le parent hébergeur, à savoir celui auprès duquel le mineur n'est pas inscrit comme ayant sa résidence principale, sur la base d'une décision judiciaire ou de commun accord des parents quant à l'hébergement du mineur, en application de l'article 374 du Code civil; cette mention est effectuée à la demande du parent hébergeur;
+
+24° la mention du fait que le parent hébergeur, accueille partiellement, de façon égalitaire ou pas, sur la base d'une décision judiciaire ou de commun accord des parents quant à l'hébergement du mineur, en application de l'article 374 du Code civil, un ou plusieurs de ses enfants mineurs à l'égard desquels la filiation est établie; l'identité du ou des mineurs concerné(s) est également mentionnée;
+
+25° le statut de réfugié;
+
+26° le statut d'apatride;
+
+27° le numéro de dossier attribué par l'Office des Etrangers (le numéro de sécurité publique ou le numéro SP);
+
+28° le numéro personnel provisoire attribué au demandeur d'asile par l'Office des Etrangers;
+
+29° les éléments d'identité autres que ceux mentionnés à cet alinéa et qui sont utilisés par l'étranger;
+
+30° le pays et le lieu de provenance;
+
+31° la date d'arrivée en Belgique;
+
+32° la date de départ pour l'étranger et la date de retour en Belgique, en cas d'absence temporaire assortie d'un droit de retour;
+
+33° la nature et les références des documents visés à l'article 2 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers ou des documents autorisés en vertu de cet article;
+
+34° la nature et les références du document de voyage belge ou étranger dont dispose le demandeur d'asile;
+
+35° tout document d'identité ou autre susceptible d'être pris en considération pour établir l'identité du demandeur d'asile;
+
+36° le nom, les prénoms, la date de naissance, l'adresse du conjoint ou conjointe et le fait que il ou elle soit belge, ressortissant d'un pays de l'UE ou d'un pays hors de l'UE;
+
+37° l'indication éventuelle du numéro de dossier attribué par l'Office des Etrangers au dossier des parents, du conjoint et des enfants;
+
+38° les autres noms ou pseudonymes sous lesquels le demandeur d'asile est également connu;
+
+39° l'état et l'historique de la procédure d'asile, en particulier les décisions et les arrêts concernant la demande du demandeur d'asile et prises par le ministre ou son délégué, par le Commissaire général aux réfugiés et aux apatrides ou son adjoint et par le Conseil du Contentieux des Etrangers;
+
+40° les recours introduits contre les décisions administratives et arrêts du Conseil du Contentieux des Etrangers, du Conseil d'Etat et, le cas échéant des tribunaux de l'Ordre judiciaire, ainsi que les décisions, avis, jugements et arrêts rendus sur ces recours;
+
+41° la date de notification ou de signification au demandeur d'asile des décisions, avis, jugements et arrêts visés dans cet alinéa;
+
+42° l'adresse déclarée auprès de l'Office des Etrangers, du Commissariat général aux réfugiés et apatrides, du Conseil du Contentieux des Etrangers, des directeurs des centres d'accueil pour réfugiés et du Conseil d'Etat.
+
+Seule l'Agence est responsable du traitement de ces données à caractère personnel visées à l'alinéa 5. Ces données ne seront pas échangées avec la Caisse auxiliaire d'assurance maladie-invalidité. Ces données à caractère personnel sont disponibles et consultables à l'Agence pendant trois ans, ou plus en cas d'application de l'article 174, alinéa 1er, 3°, et alinéa 5, de la loi relative à l'assurance obligatoire soins de santé et indemnités coordonnée le 14 juillet 1994. Dans ce dernier cas, les données à caractère personnel restent disponibles et peuvent être consultées pendant la période précédant la prescription de l'action relative au paiement des prestations de santé. Après cette période, les données seront détruites.
+
+Seuls les membres du personnel de l'Agence et de la Caisse auxiliaire d'assurance maladie-invalidité qui y sont expressément autorisés ont accès aux données à caractère personnel concernées par le biais d'une connexion convenablement sécurisée. Ces membres du personnel n'ont accès qu'aux données à caractère personnel dont ils ont besoin de prendre connaissance en fonction du service auquel ils appartiennent et de leurs fonctions.
+
+Sans préjudice de l'intervention éventuelle d'institutions telles que la Banque Carrefour de la sécurité sociale, instituée par la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale, en application de la législation relative à la communication de données sociales à caractère personnel, les données à caractère personnel collectées et traitées par les parties visées à l'alinéa 3, seront accessibles, dans le cadre de leur mission et pour autant que nécessaire, à tous les prestataires de soins qui peuvent facturer par voie électronique, au Collège Intermutualiste National et aux offices de tarification agréés. Le Roi peut en outre préciser, dans les conditions et selon les modalités qu'Il détermine, pour quels groupes de prestataires de soins la collaboration entre l'Agence et la Caisse auxiliaire d'assurance maladie-invalidité visée à l'alinéa 1er a des conséquences.
+
+En vue du contrôle et du paiement par la Caisse auxiliaire d'assurance maladie-invalidité aux prestataires de soins des factures médicales et pharmaceutiques présentées par ces prestataires de soins pour les bénéficiaires de l'aide matérielle, visée à l'article 25, § 1er, l'Agence a:
+
+1° le droit d'utiliser le numéro d'identification unique (NISS) auprès de la sécurité sociale belge, attribué en vertu de l'article 4 de la loi organique du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale;
+
+2° l'accès aux données du Registre national des personnes physiques, institué par la loi du 8 août 1983 organisant un registre national des personnes physiques.
+
+A des fins de contrôle et de paiement par la Caisse auxiliaire d'assurance maladie-invalidité aux prestataires de soins de santé des factures médicales et pharmaceutiques présentées par ces prestataires de soins de santé pour les bénéficiaires de l'aide matérielle, visée à l'article 25, § 1er, la Caisse auxiliaire d'assurance maladie-invalidité a également le droit d'utiliser le numéro d'identification unique (NISS) auprès de la sécurité sociale belge, visée au 1° de l'alinéa 9.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-25/32, art. 2, 011; En vigueur : 01-07-2024&gt;
+
+**Art. 27**
+
+Un dossier médical unique est tenu à jour et conservé au sein de la structure d'accueil communautaire désignée comme lieu obligatoire d'inscription.
+
+En cas de désignation du lieu obligatoire d'inscription conformément à l'article 11, § 2, et de modification du lieu obligatoire d'inscription conformément à l'article 12, ce dossier est transmis au nouveau lieu désigné.
+
+**Art. 28**
+
+Si l'état de santé du bénéficiaire de l'accueil le justifie et sur avis du médecin traitant, l'Agence peut modifier ou supprimer son lieu obligatoire d'inscription, conformément [<sup>1</sup> l'article 12]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2025-07-14/10, art. 6, 014; En vigueur : 02-08-2025&gt;
+
+**Art. 29**
+
+Le bénéficiaire de l'accueil peut être soumis à un examen médical obligatoire pour des motifs de santé publique.
+
+###### Sous-section II. - Accompagnement psychologique.
+
+**Art. 30**
+
+L'accompagnement psychologique nécessaire est assuré au bénéficiaire de l'accueil.
+
+A cette fin, l'Agence ou le partenaire peut conclure, selon les modalités définies par le Roi, des conventions avec des organismes et institutions spécialisés.
+
+###### Sous-section III. - Accompagnement social.
+
+**Art. 31**
+
+§ 1er. Le bénéficiaire de l'accueil a droit à un accompagnement social individualisé et permanent assuré par un travailleur social tout au long de son séjour dans la structure d'accueil.
+
+A cette fin, chaque structure d'accueil garantit au bénéficiaire de l'accueil un accès effectif à un service social et lui désigne un travailleur social de référence.
+
+§ 2. L'accompagnement social consiste notamment à informer le bénéficiaire de l'accueil sur l'accès et les modalités de l'aide matérielle, sur la vie quotidienne au sein d'une structure d'accueil, sur les activités auxquelles il a accès, sur les étapes de la procédure d'asile, en ce compris les recours juridictionnels éventuels, et les conséquences des actes qu'il pose en cette matière, ainsi que sur le contenu et l'intérêt des programmes de retour volontaire. Il consiste également à accompagner le bénéficiaire de l'accueil dans l'exécution d'actes administratifs, notamment ceux menés dans le cadre de la transition de l'aide matérielle vers l'aide sociale octroyée par les centres publics d'action sociale.
+
+§ 3. Les missions du travailleur social consistent notamment à aider le bénéficiaire de l'accueil à surmonter et améliorer les situations critiques dans lesquelles il se trouve. A cette fin, le travailleur social fournit la documentation, les conseils et la guidance sociale à l'intéressé, le cas échéant en l'orientant vers des services externes. Les missions du travailleur social incluent également l'évaluation des besoins spécifiques du bénéficiaire de l'accueil et, le cas échéant, la proposition de modifier le lieu obligatoire d'inscription.
+
+Le Roi [<sup>1</sup> peut déterminer]<sup>1</sup> les qualifications du travailleur social.
+
+----------
+
+(1)&lt;L 2010-04-28/01, art. 33, 003; En vigueur : 20-05-2010&gt;
+
+**Art. 32**
+
+Un dossier social, auquel le bénéficiaire de l'accueil a accès, est constitué et tenu à jour par le travailleur social.
+
+En cas de désignation du lieu obligatoire d'inscription conformément à l'article 11, § 2, et de modification du lieu obligatoire d'inscription conformément à l'article 12, ce dossier est transmis au nouveau lieu désigné.
+
+Une copie du dossier social est remise au bénéficiaire de l'accueil, quand celui-ci en fait la demande.
+
+###### Sous-section IV. - Aide juridique.
+
+**Art. 33**
+
+L'Agence ou le partenaire veille à ce que le bénéficiaire de l'accueil ait un accès effectif à l'aide juridique de première et de deuxième ligne, telle que visée aux articles 508/1 à 508/23 du Code judiciaire.
+
+A cette fin, l'Agence ou le partenaire peut conclure des conventions avec des associations ayant pour objet la défense des droits des étrangers ou avec les bureaux d'aide juridique.
+
+##### Section V. - Allocation journalière et services communautaires.
+
+**Art. 34**
+
+Le bénéficiaire de l'accueil résidant dans une structure d'accueil a droit à une allocation journalière.
+
+L'Agence ou le partenaire organise, pour les structures d'accueil, le paiement d'une d'allocation journalière fixée par semaine et par personne.
+
+L'Agence ou le partenaire organise également la prestation de services communautaires par les bénéficiaires de l'accueil dans les structures communautaires, sans préjudice de la possibilité pour les bénéficiaires de l'accueil d'exercer du volontariat conformément à la loi du 3 juillet 2005 relative aux droits des volontaires.
+
+Par service communautaire, on entend toute prestation effectuée par le bénéficiaire de l'accueil dans la structure communautaire, au profit de la communauté des bénéficiaires de l'accueil résidant dans celle-ci ou effectuée dans le cadre d'une activité, organisée par la structure précitée ou pour laquelle celle-ci est partenaire, qui concourt à son intégration dans son environnement local et pour laquelle peut lui être versée une majoration de son allocation journalière.
+
+La prestation du service communautaire n'est pas considérée comme un contrat de travail ni comme une prestation de travail; l'octroi d'une allocation journalière majorée n'est pas non plus considéré comme une rémunération.
+
+La majoration d'une allocation journalière versée au bénéficiaire de l'accueil est calculée sur la base d'un tarif forfaitaire fixé par la structure d'accueil communautaire et variant selon le type de prestation. Ce tarif forfaitaire est préalablement approuvé par l'Agence. Les prestations sont effectuées sur une base volontaire par les bénéficiaires de l'accueil sous l'encadrement d'un membre du personnel de la structure d'accueil communautaire qui aura été désigné à cette fin par sa hiérarchie et qui veillera à ce que les bénéficiaires de l'accueil aient la possibilité de participer sur une base équitable à ces prestations. L'identité de ces membres du personnel est communiquée à l'Agence.
+
+Le Roi fixe les montants relatifs à l'allocation journalière et le montant mensuel maximal de leur majoration en fonction des services communautaires prestés ainsi que les conditions dans lesquelles ces services communautaires sont exécutés.
+
+##### Section VI. - Formations.
+
+**Art. 35**
+
+Sans préjudice du respect des règles régissant l'accès à la formation professionnelle, des cours et des formations organisés par la structure d'accueil ou par des tiers sont proposés au bénéficiaire de l'accueil.
+
+#### CHAPITRE Ier/1. [<sup>1</sup> - Conséquences de l'exercice d'une activité professionnelle]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-04-28/01, art. 34, 003; En vigueur : 20-05-2010&gt;
+
+**Art. 35/1**
+
+[<sup>1</sup> Le Roi fixe, par arrêté délibéré en Conseil des Ministres, les conditions et les modalités selon lesquelles est octroyé l'accueil, au sens de l'article 3, alinéa 2, au demandeur d'asile lorsqu'il dispose de revenus professionnels.
+
+A cette fin, le Roi prévoit, d'une part, les conditions et les modalités de [<sup>2</sup> contribution à]<sup>2</sup> l'aide matérielle, le cas échéant en limitant le bénéfice de certains droits du Chapitre Ier du Titre Ier du Livre III, et, d'autre part, sans préjudice de l'éventuelle application envers les demandeurs d'asile concernés [<sup>3</sup> des articles 11 et 12]<sup>3</sup>, les conditions et les modalités de modification ou de suppression du lieu obligatoire d'inscription.
+
+Les conditions et modalités prévues à l'alinéa 1er, en ce compris la détermination du champ d'application respectif de chacune des situations visées à l'alinéa 2, dépendent de la situation professionnelle du demandeur d'asile et peuvent notamment être liées au type de contrat de travail, ainsi qu'au montant des revenus professionnels perçus [<sup>2</sup> , et au caractère spontané de la contribution financière]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>2</sup> L'Agence dispose d'un droit à récupérer directement auprès du résident les montants dus au titre de contribution à l'aide matérielle. Si le résident est hébergé dans une structure d'accueil gérée par un partenaire, l'Agence obtient la coopération de celui-ci dans toute la mesure nécessaire.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-04-28/01, art. 35, 003; En vigueur : 20-05-2010&gt;
+
+(2)&lt;L 2024-05-25/33, art. 2, 012; En vigueur : 01-07-2024&gt;
+
+(3)&lt;L 2025-07-14/10, art. 7, 014; En vigueur : 02-08-2025&gt;
+
+**Art. 35/2**
+
+[<sup>1</sup> A l'exception de l'accompagnement médical visé aux articles 23 et 24, l'aide matérielle visée à l'article 6, § 1er, n'est pas due si le demandeur d'asile dispose de ressources financières suffisantes pour pourvoir à ses besoins de base. Par ressources suffisantes, on entend des revenus égaux ou supérieurs au montant visé à l'article 14, § 1er, 3°, de la loi du 26 mai 2002 concernant le droit à l'intégration sociale.
+
+Le demandeur d'asile est tenu d'informer l'Agence par écrit de tout élément relatif à sa situation professionnelle, à ses revenus et à l'évolution de sa situation.
+
+Par décision motivée, l'Agence met fin à l'aide matérielle, à l'exception de l'accompagnement médical visé aux articles 23 et 24, si un demandeur d'asile a dissimulé ses ressources financières et a donc indûment bénéficié de cette aide matérielle. S'il apparaît que le demandeur d'asile disposait de ressources suffisantes pour pourvoir à ses besoins de base au moment où l'aide matérielle a été fournie, le demandeur d'asile doit indemniser l'Agence pour l'aide matérielle fournie, à l'exception de l'accompagnement médical visé aux articles 23 et 24.
+
+Le Roi fixe, par arrêté royal délibéré en Conseil des ministres, les modalités de l'exécution du présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-01-19/13, art. 9, 004; En vigueur : 27-02-2012&gt;
+
+**Art. 35/3.**
+
+[<sup>1</sup> En application du présent chapitre, des données à caractère personnel sont collectées pour contrôler les revenus professionnels des personnes hébergées dans une structure d'accueil collective ou individuelle en vertu de la présente loi. Ces données sont obtenues auprès des personnes concernées et des institutions de la sécurité sociale compétentes. Ces données sont traitées, sous la responsabilité de l'Agence, uniquement par le personnel mandaté de celle-ci ou par le personnel mandaté d'un partenaire avec qui l'Agence a conclu une convention en vertu de l'article 62, aux fins de l'application des dispositions du présent chapitre.
+
+Pour chaque personne concernée, seules les données à caractère personnel suivantes, provenant de la banque de données contenant des informations de la déclaration multifonctionnelle trimestrielle (DMFA) et de la déclaration immédiate (DIMONA) de l'employeur à l'Office national de sécurité sociale (ONSS), ainsi que les données personnelles pertinentes de la Banque Carrefour de la sécurité sociale (BCSS), de l'Office national de l'emploi (ONEM) ou de l'Institut national d'assurances sociales pour travailleurs indépendants (INASTI) sont traitées:
+
+1° les données d'identification: le nom, le prénom, le numéro de registre national ou le numéro d'identification de la sécurité sociale;
+
+2° le numéro d'immatriculation à l'ONSS et le numéro d'entreprise de l'employeur;
+
+3° l'année et le trimestre de la déclaration de l'employeur;
+
+4° la période de l'occupation;
+
+5° le nombre de jours par semaine du régime de travail;
+
+6° le nombre moyen d'heures par semaine du travailleur;
+
+7° le nombre moyen d'heures par semaine de la personne de référence;
+
+8° le type de contrat de travail;
+
+9° le numéro de la ligne de prestation;
+
+10° le code de prestation;
+
+11° le nombre de jours/d'heures de la prestation;
+
+12° le numéro de la ligne de rémunération;
+
+13° le code de la rémunération;
+
+14° le montant de la rémunération;
+
+15° les données et les montants relatifs aux différents régimes de chômage (temporaire);
+
+16° le statut et le revenu réel du travailleur indépendant.
+
+La durée de conservation de ces données est déterminée comme suit:
+
+1° les données à caractère personnel des demandeurs d'asile dont le lieu obligatoire d'inscription est supprimé sont conservées dans un tableau pendant douze mois;
+
+2° les données visées aux 1° à 4°, 8°, 11° et 14° à 16°, de l'alinéa 2 sont cependant conservées pendant dix ans à compter de la fin de l'aide matérielle ou d'une décision judiciaire, au moyen d'un dossier personnel isolé qui peut servir de preuve en cas de contestation judiciaire éventuelle ou future;
+
+3° les données à caractère personnel des demandeurs d'asile dont le lieu obligatoire d'inscription n'est pas supprimé mais auxquels une contribution à l'aide matérielle peut être demandée sont conservées pendant douze mois.
+
+Ces données seront détruites à l'expiration des délais susmentionnés.
+
+Le Roi fixe, par arrêté délibéré en Conseil des ministres, les modalités du traitement des données visées au présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-25/33, art. 3, 012; En vigueur : 01-07-2024&gt;
+
+#### CHAPITRE II. - Dispositions spécifiques applicables aux personnes vulnérables et aux mineurs.
+
+##### Section 1re. - Dispositions générales.
+
+**Art. 36**
+
+Afin de répondre aux besoins spécifiques de personnes vulnérables telles que les mineurs, les mineurs non accompagnés, les parents isolés accompagnés de mineurs, les femmes enceintes, les personnes ayant un handicap, les victimes de la traite des êtres humains, [<sup>2</sup> les personnes âgées, les personnes ayant des maladies graves, les personnes souffrant de troubles mentaux et les personnes qui ont subi des tortures, des viols ou d'autres formes graves de violence psychologique, physique ou sexuelle, par exemple les victimes de mutilation génitale féminine]<sup>2</sup>, l'Agence ou le partenaire conclut des conventions avec des institutions ou associations spécialisées.
+
+Dans l'hypothèse où le bénéficiaire de l'accueil est hébergé dans une de ces institutions ou associations, l'Agence ou le partenaire veillera à ce que le suivi administratif et social avec le lieu désigné comme lieu obligatoire d'inscription [<sup>1</sup> reste]<sup>1</sup> assuré et que le bénéfice de l'aide matérielle [<sup>1</sup> reste]<sup>1</sup> garanti.
+
+----------
+
+(1)&lt;L 2010-04-28/01, art. 36, 003; En vigueur : 20-05-2010&gt;
+
+(2)&lt;L 2017-11-21/17, art. 68, 009; En vigueur : 22-03-2018&gt;
+
+##### Section II. - Les mineurs.
+
+**Art. 37**
+
+Dans toutes les décisions concernant le mineur, l'intérêt supérieur du mineur prime.
+
+[<sup>1</sup> Lors de l'évaluation de l'intérêt supérieur de l'enfant, il est dûment tenu compte, en particulier, des facteurs suivants :
+
+1° les possibilités de regroupement familial;
+
+2° le bien-être et le développement social du mineur, en accordant une attention particulière à la situation personnelle du mineur;
+
+3° les considérations tenant à la sûreté et à la sécurité, en particulier lorsque le mineur est susceptible d'être une victime de la traite des êtres humains;
+
+4° l'avis du mineur, en fonction de son âge, de sa maturité et de sa vulnérabilité.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-11-21/17, art. 69, 009; En vigueur : 22-03-2018&gt;
+
+**Art. 38**
+
+Le mineur est logé avec ses parents [<sup>1</sup> avec ses frères ou soeurs mineurs non mariés]<sup>1</sup> ou avec la personne exerçant sur lui l'autorité parentale ou la tutelle en vertu de la loi applicable conformément à l'article 35 de la loi du 16 juillet 2004 portant le Code de droit international privé.
+
+----------
+
+(1)&lt;L 2017-11-21/17, art. 70, 009; En vigueur : 22-03-2018&gt;
+
+**Art. 39**
+
+Les mineurs victimes de toute forme d'abus, de négligence, d'exploitation, de torture, de traitements cruels, inhumains et dégradants, ou de conflits armés, ont droit au soutien qualifié et à l'accès aux soins de santé mentale et aux services de réadaptation.
+
+**Art. 40**
+
+Un encadrement approprié est assuré aux mineurs non accompagnés durant une phase d'observation et d'orientation dans un centre désigné à cet effet.
+
+Le Roi détermine le régime et les règles de fonctionnement applicables aux centres d'observation et d'orientation.
+
+**Art. 41**
+
+§ 1er. Un centre d'observation et d'orientation accueille les mineurs non accompagnés qui n'ont pas accès au territoire en application de l'article 3 ou de l'article 52, § 1er, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers dans l'attente de l'exécution éventuelle de la décision de refoulement. Ce centre est dans ce cas assimilé à un lieu déterminé situé aux frontières.
+
+§ 2. L'étranger qui se déclare mineur et au sujet duquel il n'existe aucun doute quant à sa minorité est accueilli dans un centre d'observation et d'orientation dès son arrivée à la frontière.
+
+Pour l'étranger qui se déclare mineur et au sujet duquel les autorités chargées du contrôle aux frontières émettent un doute quant à sa minorité, la détermination de l'âge doit avoir lieu dans les trois jours ouvrables de son arrivée à la frontière. Lorsque cet examen ne peut avoir lieu en raison de circonstances imprévues endéans ce délai, celui-ci peut être prolongé exceptionnellement de trois jours ouvrables.
+
+§ 3. Le mineur non accompagné est accueilli dans un centre d'observation et d'orientation dans un délai de vingt-quatre heures maximum qui suit, soit, l'arrivée à la frontière pour le mineur visé au § 2, alinéa 1er, soit, la notification de la décision relative à la détermination de l'âge à l'intéressé, pour le mineur visé au § 2, alinéa 2, et ce pour une durée de quinze jours maximum pouvant être prolongée de cinq jours en cas de circonstances exceptionnelles dûment motivées.
+
+Durant la période visée à l'alinéa précédent, le mineur n'est pas considéré comme ayant été autorisé à entrer dans le royaume.
+
+§ 4. La décision relative à la détermination de l'âge est notifiée au tuteur et aux autorités compétentes en matière d'asile, d'accès au territoire, de séjour et d'éloignement des étrangers en même temps que sa notification à l'intéressé.
+
+§ 5. Si la décision de refoulement ne peut être exécutée endéans le délai de 15 jours visé au § 3, le mineur non accompagné est autorisé à entrer sur le territoire.
+
+**Art. 42**
+
+Le personnel des structures d'accueil chargé des mineurs non accompagnés reçoit une formation appropriée.
+
+### TITRE II. - De la transition de l'aide matérielle vers l'aide sociale octroyée par les centres publics d'action sociale.
+
+**Art. 43**
+
+Lorsque l'une des hypothèses visées à l'article 8, § 1er, est rencontrée, l'aide sociale est octroyée par les centres publics d'action sociale conformément à la loi organique du 8 juillet 1976 des centres publics d'action sociale.
+
+Dans le cadre de la transition de l'aide matérielle vers l'aide sociale octroyée par les centres publics d'action sociale, le Roi fixe les conditions du maintien de l'aide matérielle nonobstant la situation visée à l'alinéa précédent ainsi que les modalités de collaboration entre la structure d'accueil et le centre public d'action sociale devant garantir au bénéficiaire de l'accueil la continuité de l'accueil.
+
+### TITRE III. - Mesures d'ordre et sanctions.
+
+#### CHAPITRE Ier. - Mesures d'ordre.
+
+**Art. 44**
+
+Afin de garantir et, si nécessaire, de rétablir l'ordre, la sécurité et la tranquillité dans la structure d'accueil, des mesures d'ordre interne peuvent être prises.
+
+Le Roi fixe [<sup>1</sup> ...]<sup>1</sup> les règles de procédure applicables ainsi que l'autorité habilitée à les prendre.
+
+----------
+
+(1)&lt;L 2009-12-30/01, art. 167, 002; En vigueur : 10-01-2010&gt;
+
+#### CHAPITRE II. - Sanctions.
+
+**Art. 45**
+
+Le bénéficiaire de l'accueil peut faire l'objet d'une sanction en cas de manquement grave au régime et règles de fonctionnement applicables aux structures d'accueil visée à l'article 19. Lors du choix de la sanction, il est tenu compte de la nature et de l'importance du manquement ainsi que des circonstances concrètes dans lesquelles il a été commis.
+
+[<sup>2</sup> Seules les sanctions suivantes peuvent être prononcées :
+
+1° l'avertissement formel avec mention dans le dossier social visé à l'article 32;
+
+2° l'exclusion temporaire de la participation aux activités organisées par la structure d'accueil;
+
+3° l'exclusion temporaire de la possibilité d'exécuter des prestations rémunérées de services communautaires, telles que visées par l'article 34;
+
+4° la restriction de l'accès à certains services;
+
+5° l'obligation d'effectuer des tâches d'intérêt général, dont la non-exécution ou l'exécution défaillante peut être considérée comme un nouveau manquement;
+
+6° la suppression ou la diminution temporaire de l'allocation journalière visée à l'article 34, alinéas 1er et 2, pour un délai maximum de quatre semaines;
+
+7° le transfert, sans délai, du bénéficiaire de l'accueil, vers une autre structure d'accueil;
+
+8° l'exclusion temporaire du bénéfice de l'aide matérielle dans une structure d'accueil, pour une durée maximale d'un mois;
+
+9° l'exclusion définitive du bénéfice de l'aide matérielle dans une structure d'accueil.]<sup>2</sup>
+
+Les sanctions sont infligées par le directeur ou le responsable de la structure d'accueil. [<sup>1</sup> [<sup>2</sup> les sanctions visées à l'alinéa 2, 8° et 9°, doivent être confirmées]<sup>2</sup> par le Directeur général de l'Agence dans un délai de trois jours ouvrables à compter de l'adoption de la sanction par le directeur ou le responsable de la structure d'accueil. A défaut de confirmation dans ce délai, [<sup>2</sup> la sanction d'exclusion temporaire ou définitive est automatiquement levée]<sup>2</sup>.]<sup>1</sup>
+
+Les sanctions peuvent être diminuées ou levées durant leur exécution par l'autorité qui les a infligées.
+
+La décision d'infliger une sanction est prise de manière objective et impartiale et fait l'objet d'une motivation.
+
+[<sup>2</sup> sous réserve des sanctions visées à l'alinéa 2, 8° et 9°]<sup>2</sup>, en aucun cas, la mise en oeuvre d'une sanction ne peut avoir , pour effet la suppression complète de l'aide matérielle octroyée en vertu de la présente loi, ni la diminution de l'accès à l'accompagnement médical. [<sup>2</sup> L'aide matérielle octroyée à la personne qui fait l'objet d'une sanction visée à l'alinéa 2, 8° ou 9°, est limitée à l'accompagnement médical prévu aux articles 24 et 25. Dans le cas où cette personne établit qu'un niveau de vie digne ne peut lui être assuré, elle peut introduire auprès de l'Agence une demande afin de remédier à cette situation. Une telle demande peut le cas échéant donner lieu à une décision prise sur base de l'alinéa 4. L'Agence prend une décision motivée au plus tard dans les cinq jours de l'introduction de la demande.]<sup>2</sup>
+
+[<sup>1</sup> [<sup>2</sup> les sanctions visées à l'alinéa 2, 8° et 9°, ne peuvent être prononcées]<sup>2</sup> qu'en cas de manquement très grave au règlement d'ordre intérieur de la structure d'accueil mettant en danger le personnel ou les autres résidents de la structure d'accueil ou faisant peser des risques caractérisés pour la sécurité ou le respect de l'ordre public dans la structure d'accueil. [<sup>2</sup> Hormis pour les cas sérieux de violence physique ou sexuelle, la sanction visée à l'alinéa 2, 9°, ne peut être prononcée qu'à l'égard d'une personne ayant fait au préalable l'objet d'une sanction visée à l'alinéa 2, 8°.]<sup>2</sup>
+
+La personne visée par la sanction d'exclusion temporaire [<sup>2</sup> ou définitive]<sup>2</sup> doit être entendue préalablement à la prise de celle-ci.]<sup>1</sup>
+
+Le Roi détermine les règles de procédure applicables au traitement des sanctions.
+
+----------
+
+(1)&lt;L 2009-12-30/01, art. 168, 002; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2016-07-06/06, art. 3, 008; En vigueur : 15-08-2016&gt;
+
+#### CHAPITRE III. - Plaintes et recours.
+
+**Art. 46**
+
+Le bénéficiaire de l'accueil s'adresse au directeur ou au responsable de la structure d'accueil en cas de plaintes portant sur :
+
+\- les conditions de vie au sein de la structure d'accueil
+
+\- l'application du règlement d'ordre intérieur visé à l'article 19 de la présente loi.
+
+Si la plainte n'est pas traitée dans un délai de 7 jours à compter de la communication de la plainte, le bénéficiaire de l'accueil peut adresser sa plainte par écrit [<sup>1</sup> , dans l'une des langues nationales ou en anglais,]<sup>1</sup> au directeur général de l'Agence, ou à la personne désignée à cet effet par le partenaire et agréée par l'Agence [<sup>1</sup> , si le bénéficiaire est hébergé dans une structure d'accueil gérée par un partenaire]<sup>1</sup>. Le directeur général de l'Agence, ou la personne désignée par le partenaire, répond à cette plainte dans les 30 jours.
+
+Le Roi détermine les règles de procédure applicables au traitement des plaintes.
+
+----------
+
+(1)&lt;L 2010-04-28/01, art. 37, 003; En vigueur : 20-05-2010&gt;
+
+**Art. 47**
+
+§ 1er. Le bénéficiaire de l'accueil logé dans une structure d'accueil gérée par l'Agence ou un partenaire peut introduire un recours en révision contre toute décision lui infligeant une sanction telle que visée [<sup>2</sup> à l'article 45, 4°, 5°, 6° ou 7° ]<sup>2</sup>, ainsi que contre toute décision relative à l'accompagnement médical telle que visée à l'article 25, § 5, de la présente loi.
+
+Le recours contre une sanction visée [<sup>2</sup> à l'article 45, 4°, 5°, 6° ou 7° ]<sup>2</sup> est introduit auprès du directeur général de l'Agence, auprès de la personne désignée par le partenaire et agréée par l'Agence, ou auprès du Conseil de l'aide sociale lorsqu'il s'agit d'une structure visée à l'article 64 de la présente loi, par simple courrier dans un délai de cinq jours ouvrables à compter de la notification au bénéficiaire de l'accueil de la décision visée à l'alinéa 1er. Le bénéficiaire transmet immédiatement une copie du recours à la structure d'accueil.
+
+Le recours doit être introduit dans une des langues nationales ou en anglais.
+
+Tout recours contre une décision relative à l'accompagnement médical telle que visée à l'article 25, § 5 de la présente loi, est introduit auprès du directeur général de l'Agence ou auprès du Conseil de l'aide sociale lorsqu'il s'agit d'une structure visée à l'article 64 de la présente loi [<sup>1</sup> , par courrier ordinaire dans un délai de cinq jours ouvrables à compter de la date de la consultation au cours de laquelle la décision médicale a été communiquée au bénéficiaire de l'accueil]<sup>1</sup>.
+
+Le directeur général, la personne désignée par le partenaire ou le Conseil de l'aide sociale, confirme, annule ou revoit la décision dans les 30 jours à compter de [<sup>1</sup> la réception]<sup>1</sup> du recours en révision. Pour le recours relatif à l'accompagnement médical et introduit auprès du directeur général de l'Agence l'avis préalable d'un médecin [<sup>1</sup> désigné par l'Agence]<sup>1</sup> est requis.
+
+Le directeur général, la personne désignée par le partenaire, ou le Conseil de l'aide sociale, peut, s'il l'estime nécessaire, suspendre la décision attaquée pendant l'examen du recours.
+
+Le directeur général, la personne désignée par le partenaire, ou le Conseil de l'aide sociale, entend, s'il l'estime nécessaire, les personnes concernées par le recours.
+
+Le directeur général, la personne désignée par le partenaire, ou le Conseil de l'aide sociale, motive sa décision.
+
+Si le directeur général, la personne désignée par le partenaire, ou le Conseil de l'aide sociale confirme ou revoit la décision attaquée, ou en cas d'absence d'une décision relative au recours dans le délai prescrit, le bénéficiaire de l'accueil peut introduire un recours devant le Tribunal du Travail du lieu de la structure d'accueil. Sous peine de déchéance ce recours doit être introduit dans un délai de trois mois à compter de la notification de la décision du directeur général, de la personne désignée par le partenaire, ou du Conseil de l'aide sociale, ou à compter de l'expiration du délai prescrit.
+
+----------
+
+(1)&lt;L 2010-04-28/01, art. 38, 003; En vigueur : 20-05-2010&gt;
+
+(2)&lt;L 2016-07-06/06, art. 4, 008; En vigueur : 15-08-2016&gt;
+
+**Art. 48**
+
+L'Agence présente au ministre chaque année un rapport relatif aux plaintes et aux recours.
+
+### TITRE IV. - Des membres du personnel des structures d'accueil.
+
+**Art. 49**
+
+Sans préjudice de l'article 458 du Code pénal, les membres du personnel des structures d'accueil sont tenus par un devoir de confidentialité. Celui-ci s'applique notamment aux informations portées à la connaissance d'un membre du personnel de la structure d'accueil par tout bénéficiaire de l'accueil accueilli en son sein et aux initiatives qu'un membre du personnel de la structure d'accueil entreprend dans le cadre des missions confiées à ladite structure d'accueil.
+
+**Art. 50**
+
+Les membres du personnel des structures d'accueil sont soumis à un code de déontologie arrêté par le ministre et faisant partie du règlement du travail.
+
+Le code de déontologie visé à l'alinéa 1er garantit notamment le respect du principe de non-discrimination, de la correspondance du bénéficiaire de l'accueil, de ses convictions philosophiques, religieuses ou politiques, de son droit à la vie privée et familiale ainsi que de son droit à la liberté d'expression. Il contient également des règles relatives à l'objet et aux missions du travail au sein de la structure d'accueil, à la nature des relations entre les membres du personnel des structures d'accueil et le bénéficiaire de l'accueil ainsi qu'au respect du devoir de confidentialité.
+
+**Art. 51**
+
+L'Agence ou le partenaire organise un cycle de formation pluridisciplinaire et continue à destination des membres du personnel des structures d'accueil.
+
+### TITRE V. - Intégration des structures d'accueil communautaires dans l'environnement local et subsides aux communes.
+
+**Art. 52**
+
+A l'exception des structures visées à l'article 64, les structures d'accueil communautaires organisent des initiatives de quartier au moyen de subventions octroyées par l'Agence.
+
+Par initiative de quartier, on entend l'action visant à l'intégration de la structure communautaire dans son environnement et à la création d'une perception positive de l'accueil des demandeurs d'asile au sein de la société.
+
+Des subventions sont octroyées aux structures d'accueil communautaires en vue de la réalisation des objectifs suivants :
+
+1° intégrer la structure d'accueil communautaire dans son environnement local;
+
+2° fournir une information correcte sur le fonctionnement de la structure d'accueil communautaire;
+
+3° promouvoir des actions de sensibilisation relatives à l'accueil des demandeurs d'asile.
+
+Le montant de ces subventions est composé d'un montant fixe auquel est ajouté le montant obtenu sur la base du calcul du nombre de places d'accueil au sein de la structure d'accueil communautaire.
+
+**Art. 53**
+
+Le ministre octroie un subside annuel aux communes sur le territoire desquelles une structure d'accueil communautaire est située.
+
+Ce subside a pour but de couvrir les frais suivants :
+
+1° les frais de personnel directement liés au suivi administratif de la structure d'accueil communautaire;
+
+2° les frais de fonctionnement directement ou indirectement liés au suivi administratif de la structure d'accueil communautaire; les frais indirects étant justifiés par une clé de répartition;
+
+3° les initiatives communales qui promeuvent l'intégration de la structure d'accueil communautaire dans la commune.
+
+Le ministre détermine au début de l'année le subside dû aux communes pour l'année précédente. Le montant du subside est fixé forfaitairement par an et par place d'accueil effective. Afin de tenir compte des fluctuations dans le nombre de places d'accueil disponibles pendant cette période, pour chaque structure d'accueil communautaire, ce nombre est déterminé le premier jour de chaque mois. Une diminution temporaire, pour cause de transformations ou d'aménagements, ne sera pas prise en considération.
+
+### TITRE VI. - Programme de retour volontaire dans l'Etat d'origine ou dans un Etat tiers.
+
+**Art. 54**
+
+L'Agence veille à ce que le bénéficiaire de l'accueil ait accès à un programme de retour volontaire dans son pays d'origine ou dans un pays tiers.
+
+Ce programme ainsi que le cadre dans lequel il s'opère sont définis par le Roi. Il consiste notamment en des modules de formations adaptés ainsi que la prise en charge des frais de voyage et, le cas échéant, d'un accompagnement à la réinsertion dans l'Etat d'origine ou dans un Etat tiers.
+
+A cette fin, l'Agence peut conclure des conventions avec des tiers.
+
+## LIVRE IV. - L'AGENCE FEDERALE POUR L'ACCUEIL DES DEMANDEURS D'ASILE.
+
+### TITRE Ier. - Statut, missions et compétences.
+
+**Art. 55**
+
+Il est créé, sous la dénomination " Agence fédérale pour l'accueil des demandeurs d'asile ", un organisme public doté de la personnalité juridique, classé dans la catégorie A telle que visée dans la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public.
+
+Le Roi détermine, par arrêté délibéré en Conseil des Ministres, la structure, l'organisation et le fonctionnement de l'Agence. L'Agence peut, pour tous ses besoins en personnel en vue d'accomplir les missions qui lui ont été attribuées, engager du personnel par contrat de travail.
+
+**Art. 56**
+
+§ 1er. L'Agence a notamment pour mission d'assurer l'organisation, la gestion et le contrôle de la qualité de l'aide matérielle octroyée aux bénéficiaires de l'accueil [<sup>2</sup> et la prospection de biens immobiliers inoccupés pouvant être utilisés comme structures d'accueil]<sup>2</sup>.
+
+[<sup>2</sup> L'Agence est responsable du traitement des données pour toutes ces missions.]<sup>2</sup>
+
+Elle peut octroyer des subventions en relation avec ses missions.
+
+§ 2. Dans le cadre des missions visées au § 1er, l'Agence exerce les compétences suivantes :
+
+1° l'octroi de l'aide matérielle aux bénéficiaires de l'accueil au sein des structures d'accueil communautaires qu'elle gère;
+
+2° le contrôle de l'exécution des conventions relatives à l'octroi de l'aide matérielle aux bénéficiaires de l'accueil avec les partenaires, conclues conformément à l'article 64;
+
+3° la désignation, la modification et la suppression du lieu obligatoire d'inscription, conformément au Livre II;
+
+4° l'organisation du paiement d'une allocation journalière et de la prestation de services communautaires conformément à l'article 34;
+
+[<sup>2</sup> 5° la prise de contact avec les propriétaires de biens immobiliers inoccupés susceptibles d'être utilisés comme structures d'accueil, afin de pouvoir examiner avec eux l'éventualité d'une telle utilisation de leurs biens, lorsque l'ouverture de nouvelles structures d'accueil est envisagée.]<sup>2</sup>
+
+[<sup>2</sup> Pour exercer la compétence visée à l'alinéa 1er, 5°, l'Agence demande par écrit au SPF Finances de lui transmettre les noms, prénoms et adresses postales des propriétaires des biens qui sont visés dans cette disposition lorsque, dans le cadre d'une prospection, ces données lui sont inconnues. Le SPF Finances transmet ces données à l'Agence par voie sécurisée.
+
+L'Agence conserve les données visées à l'alinéa 2 dix ans après la fin du contrat de location si la prospection mène à une utilisation du bien pour l'accomplissement de ses missions. Elle les conserve un an à compter du dernier contact avec le propriétaire du bien dans le cas où le projet ne se concrétise pas.
+
+L'Agence peut également s'adresser à toute autorité publique qui tient un registre des biens immobiliers inoccupés pour obtenir de telles données.]<sup>2</sup>
+
+[<sup>1</sup> § 3. L'Agence assure la préparation, la conception et l'exécution de la politique.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-04-28/01, art. 39, 003; En vigueur : 20-05-2010&gt;
+
+(2)&lt;L 2024-03-14/30, art. 5, 010; En vigueur : 27-06-2024&gt;
+
+**Art. 57**
+
+Conformément à l'article 43, l'Agence veille à assurer la continuité de l'accueil lors de la transition de l'aide matérielle octroyée au demandeur d'asile vers l'aide sociale octroyée par les centres publics d'action sociale.
+
+**Art. 58**
+
+[<sup>1</sup> Sans préjudice des dispositions des articles 6 et 6/1, l'Agence est chargée de]<sup>1</sup> la coordination du retour volontaire, tant des bénéficiaires de l'accueil que des autres étrangers.
+
+----------
+
+(1)&lt;L 2012-01-19/13, art. 10, 004; En vigueur : 27-02-2012&gt;
+
+**Art. 59**
+
+L'Agence est chargée de l'octroi de l'aide matérielle aux mineurs non accompagnés dans le cadre de la phase d'observation et d'orientation.
+
+**Art. 60**
+
+L'Agence est chargée de l'octroi de l'aide matérielle aux mineurs séjournant avec leurs parents illégalement sur le territoire et dont l'état de besoin a été constaté par un centre public d'action sociale, lorsque les parents ne sont pas en mesure d'assumer leur devoir d'entretien.
+
+[<sup>1</sup> Cette aide matérielle est octroyée dans les structures d'accueil communautaires gérées par l'Agence ou un partenaire avec lequel l'Agence a conclu une convention spécifique pour l'accueil des mineurs visés à l'alinéa 1er.]<sup>1</sup>
+
+Le Roi détermine les modalités d'octroi de cette aide matérielle.
+
+----------
+
+(1)&lt;L 2017-11-21/17, art. 71, 009; En vigueur : 22-03-2018&gt;
+
+**Art. 61**
+
+L'Agence est l'autorité responsable pour le Fonds européen des réfugiés.
+
+### TITRE II. - Des partenaires et du contrôle de la qualité de l'accueil.
+
+**Art. 62**
+
+L'Agence peut confier à des partenaires la mission d'octroyer aux bénéficiaires de l'accueil le bénéfice de l'aide matérielle telle que décrite dans la présente loi. Ces partenaires sont notamment la Croix-Rouge de Belgique, les autres autorités, les pouvoirs publics et les associations.
+
+A cette fin, l'Agence conclut des conventions.
+
+**Art. 63**
+
+Au début de chaque année civile, si la convention visée à l'article précédent n'est pas dénoncée et sous réserve d'autres réglementations ou dispositions spécifiques conventionnelles, la Croix-Rouge de Belgique ou les autres autorités, pouvoirs publics et associations visés à l'article précédent, ont droit au paiement d'une avance correspondant au moins au quart du montant auquel ils ont eu droit l'année précédente. Cette avance sera payée au plus tard le 31 mars.
+
+**Art. 64**
+
+Des structures d'accueil communautaires ou individuelles peuvent être organisées par les centres publics d'action sociale, en vue d'y octroyer l'aide matérielle au bénéficiaire de l'accueil. Ces structures d'accueil, désignées initiatives locales d'accueil, font l'objet d'une convention conclue entre le centre public d'action sociale et l'Agence.
+
+Le Roi définit le cadre relatif à la création d'une initiative locale d'accueil ainsi que les modalités de subvention par l'Agence.
+
+**Art. 65**
+
+L'Agence organise une concertation régulière avec les partenaires.
+
+## LIVRE V. - DISPOSITIONS FINALES.
+
+### TITRE Ier. - Dispositions transitoires.
+
+**Art. 66**
+
+Pour les demandeurs d'asile ayant introduit leur demande d'asile avant l'entrée en vigueur de la présente loi, les dispositions de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers et de la loi du 8 juillet 1976 organique des centres publics d'action sociale en vigueur le jour avant l'entrée en vigueur de la présente loi continuent à s'appliquer.
+
+Par dérogation à l'alinéa 1er, sont toutefois directement applicables, dès l'entrée en vigueur de la présente loi, aux demandeurs d'asile visés à l'alinéa précédent, les dispositions du Livre III, à l'exception du Titre II, les dispositions du Livre IV et les articles 69 et 70 de la présente loi.
+
+**Art. 67**
+
+Un an après l'entrée en vigueur de la présente loi, le gouvernement procède à une évaluation de la loi et fait rapport aux Chambres législatives.
+
+### TITRE II. - Dispositions modificatives.
+
+**Art. 68**
+
+&lt;Erratum, voir M.B. 07-06-2007, p. 30893&gt; A l'article 57, § 2, 2°, alinéa 6, de la loi du 8 juillet 1976 organique des centres publics d'action sociale, les mots " un mois " sont remplacés par " celui qui est fixé à l'article 7, 4°, de la loi du 12 janvier 2007 sur l'accueil des demandeurs d'asile et de certaines autres catégories d'étrangers ".
+
+**Art. 69**
+
+&lt;Erratum, voir M.B. 07-06-2007, p. 30893&gt; L'article 57ter, alinéas 1er et 2, de la loi du 8 juillet 1976 organique des centres publics d'action sociale est modifié comme suit :
+
+" L'aide sociale n'est pas due par le centre lorsque l'étranger enjoint de s'inscrire en un lieu déterminé en application de l'article 11, § 1er, de la loi du 12 janvier 2007 sur l'accueil des demandeurs d'asile et de certaines autres catégories d'étrangers bénéficie de l'aide matérielle au sein d'une structure d'accueil chargée de lui assurer l'aide nécessaire pour mener une vie conforme à la dignité humaine.
+
+Par dérogation à l'article 57, § 1er, le demandeur d'asile auquel a été désigné comme lieu obligatoire d'inscription en application de l'article 11, § 1er, de la loi du 12 janvier 2007 sur l'accueil des demandeurs d'asile et de certaines autres catégories d'étrangers, une structure d'accueil gérée par l'Agence ou par un partenaire de celle-ci ne peut obtenir l'aide sociale que dans cette structure d'accueil, conformément à la loi du 12 janvier 2007 sur l'accueil des demandeurs et de certaines autres catégories d'étrangers. ".
+
+### TITRE III. - Dispositions abrogatoires.
+
+**Art. 70**
+
+Lors de l'entrée en vigueur de la présente loi sont abrogés dans la loi programme du 19 juillet 2001, modifié par les lois programmes du 22 décembre 2003 et 27 décembre 2004 :
+
+1° l'article 60;
+
+2° les articles 62 à 64;
+
+3° l'article 65, § 3.
+
+**Art. 71**
+
+L'article 57ter, alinéa 3, de la loi du 8 juillet 1976 organique des centres publics d'action sociale est abrogé.
+
+**Art. 72**
+
+L'article 57ter 1, de la loi du 8 juillet 1976 organique des centres publics d'action sociale est abrogé.
+
+**Art. 73**
+
+L'article 54, §§ 1er et 3, de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers est abrogé.
+
+### TITRE IV. - Entrée en vigueur.
+
+**Art. 74**
+
+Le Roi détermine la date d'entrée en vigueur des dispositions de la présente loi.
+
+(NOTE : Entrée en vigueur des articles 1 à 2, 3 à 5, 14 à 27, 29 à 54, 55 à 65, 66 à 67, 70 à 71 et 74, fixée au 07-05-2007 par AR 2007-04-09/43, art. 1)
+
+(NOTE : Entrée en vigueur des articles 6 à 8, 9 à 13, 28, 68 à 69 et 72 à 73, fixée au 01-06-2007 par AR 2007-04-09/43, art. 2)
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 12 janvier 2007.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de l'Intégration sociale,
+
+C. DUPONT
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

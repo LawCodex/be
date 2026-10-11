@@ -1,0 +1,64 @@
+---
+title: "Loi modifiant l'article 249 du Titre Ier, Chapitre XVIII, section II, du Code des droits d'enregistrement, d'hypothèque et de greffe."
+identifier: "2006003593"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/07/2006003593/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2006-12-07
+published: 2006-12-20
+entry_into_force: 2006-12-20
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/07/2006003593/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 7 DECEMBRE 2006. - Loi modifiant l'article 249 du Titre Ier, Chapitre XVIII, section II, du Code des droits d'enregistrement, d'hypothèque et de greffe.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+A l'article 249 du Code des droits d'enregistrement, d'hypothèque et de greffe, remplacé par la loi du 15 mai 1987, sont apportées les modifications suivantes :
+
+1° le § 1er, alinéa 1er, est complété comme suit :
+
+"4° ne sont modifiés que par l'ajout ou la suppression d'un signe diacritique ou de ponctuation";
+
+2° Au § 3, l'alinéa suivant est inséré entre les alinéas 1er et 2 :
+
+"Toutefois, le droit fixé au paragraphe 2 est applicable aux autorisations d'adjoindre un nom à un autre nom lorsque le nom sollicité est conforme aux règles relatives à la détermination du nom applicables dans l'Etat dont le bénéficiaire possède également la nationalité. ";
+
+3° Au § 3, alinéa 2, les mots "ce droit" sont remplacés par les mots "le droit fixé à l'alinéa premier".
+
+## Art. 3
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 7 décembre 2006.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre des Finances,
+
+## D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+La Vice-Première Ministre et Ministre de la Justice,
+
+Mme L. ONKELINX.

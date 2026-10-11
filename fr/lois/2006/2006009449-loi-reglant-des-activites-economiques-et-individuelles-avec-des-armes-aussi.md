@@ -1,0 +1,1270 @@
+---
+title: "Loi réglant des activités économiques et individuelles avec des armes. (aussi appelée \"Loi sur les armes\")"
+identifier: "2006009449"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/08/2006009449/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2006-06-08
+published: 2006-06-09
+entry_into_force: 2006-06-09
+last_amended: 2026-03-26
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/08/2006009449/justel"
+department: "Justice"
+justel_note: "Consultation des versions antérieures à partir du 09-06-2006 et mise à jour au 26-03-2026"
+retrieved: 2026-10-11
+---
+
+# 8 JUIN 2006. - Loi réglant des activités économiques et individuelles avec des armes. (aussi appelée "Loi sur les armes")
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Dispositions générales.
+
+### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+La présente loi transpose partiellement la directive 91/477/CEE du Conseil du 18 juin 1991 relative au contrôle de l'acquisition et de la détention d'armes.
+
+### Art. 2
+
+Pour l'application de la présente loi et de ses arrêtés d'exécution, l'on entend par :
+
+1° " armurier " : " quiconque, pour son propre compte et à titre habituel, à titre d'activité principale ou d'activité accessoire, moyennant rétribution ou non, fabrique, répare, modifie ou fait le commerce ou une autre forme de mise à disposition d'armes à feu ou de pièces de ces armes [<sup>1</sup> ainsi que de chargeurs]<sup>1</sup> ou de munitions pour ces armes ";
+
+2° " intermédiaire " : " quiconque crée, moyennant rétribution ou non, les conditions nécessaires à la conclusion d'une convention portant sur la fabrication, la réparation, la modification, l'offre, l'acquisition, la cession ou une autre forme de mise à disposition d'armes à feu ou de pièces de ces armes [<sup>1</sup> ou de munitions]<sup>1</sup> ou de munitions pour ces armes, quelles qu'en soient l'origine et la destination et qu'elles se retrouvent ou non sur le territoire belge, ou qui conclut de telles conventions lorsque le transport est effectué par un tiers ";
+
+[<sup>2</sup> 2°/1 " musée " : "une institution permanente, au service de la société et de son développement, ouverte au public, qui acquiert, conserve, étudie et expose notamment des armes à feu, des parties essentielles soumises à l'épreuve, des munitions ou des chargeurs, à des fins historiques, culturelles, scientifiques, techniques, éducatives, récréatives ou de préservation du patrimoine]<sup>2</sup>
+
+[<sup>2</sup> 2°/2 " collectionneur " : "toute personne physique ou morale qui se voue à la collecte et à la conservation des armes à feu, des parties essentielles soumises à l'épreuve, des munitions ou des chargeurs, à des fins historiques, culturelles, scientifiques, techniques, éducatives ou de préservation du patrimoine]<sup>2</sup>
+
+3° " les mines antipersonnel et pièges ou dispositifs de même nature " : " tout engin placé sur ou sous n'importe quelle surface ou à proximité de celle-ci, et conçu ou adapté pour exploser ou éclater du simple fait de la présence, de la proximité ou du contact d'une personne, pourvu ou non d'un dispositif anti manipulation destiné à protéger la mine et qui fait partie de celle-ci, est relié à celle-ci, attaché à celle-ci ou placé sous celle-ci, et qui se déclenche en cas de tentative de manipulation ou autre dérangement intentionnel de la mine ";
+
+4° " les sous-munitions " : " toute munition qui, pour remplir sa fonction, se sépare d'une munition mère. Cela recouvre toutes les munitions ou charges explosives conçues pour exploser à un moment donné après avoir été lancées ou éjectées d'une munition à dispersion mère, à l'exception :
+
+\-des dispositifs à dispersion qui contiennent uniquement du matériel fumigène, ou du matériel éclairant, ou du matériel exclusivement conçu pour créer des contre-mesures électriques ou électroniques;
+
+\- des dispositifs qui contiennent plusieurs munitions uniquement destinés à percer et détruire des engins blindés, qui ne sont utilisables qu'à cette fin sans possibilité de saturer indistinctement des zones de combat, notamment par le contrôle obligatoire de leur trajectoire et de leur destination, et qui, le cas échéant, ne peuvent exploser qu'au moment de l'impact, et en tout état de cause ne peuvent exploser du fait du contact, de la présence ou de la proximité d'une personne ";
+
+5° " arme laser aveuglante " : " arme conçue ou adaptée de telle façon que sa seule fonction ou une de ses fonctions soit de provoquer une cécité permanente au moyen de la technologie laser ";
+
+6° " arme incendiaire " : " toute arme ou munition essentiellement conçue pour mettre le feu à des objets ou pour infliger des brûlures à des personnes par l'action des flammes, de la chaleur ou d'une combinaison de celles-ci, que dégage une réaction chimique d'une substance lancée sur la cible ";
+
+7° " couteau à cran d'arrêt et à lame jaillissante " : " le couteau dont la lame, actionnée par un mécanisme ou par la gravité, sort du manche et se bloque automatiquement ";
+
+8° " couteau papillon " : " couteau dont le manche est divisé en deux parties dans le sens de la longueur et dont la lame s'extrait en écartant latéralement chacune des deux parties du manche dans une direction opposée ";
+
+9° " arme factice " : " imitation fidèle, réplique ou copie, inerte ou pas, d'une arme à feu ";
+
+10° " arme longue " : " arme dont la longueur du canon est supérieure à 30 cm ou dont la longueur totale est supérieure à 60 cm ";
+
+11° " fusil pliant " : " arme dont le canon peut, en pivotant complètement autour d'un axe, se retrouver parallèle à la crosse de manière telle que la longueur de l'arme soit réduite de moitié et que cette arme puisse ainsi facilement se dissimuler sous un vêtement ";
+
+[<sup>2</sup> 11°/1 " arme à feu " : "toute arme à canon qui propulse des plombs, une balle ou un projectile par l'action d'un propulseur combustible, ou qui est conçue pour ce faire ou peut être transformée à cette fin.
+
+Un objet est considéré comme pouvant être transformé pour propulser des plombs, une balle ou un projectile par l'action d'un propulseur combustible si :
+
+a) il revêt l'aspect d'une arme à feu, et
+
+b) du fait de ses caractéristiques de construction ou du matériau dans lequel il est fabriqué, il peut être ainsi transformé.]<sup>2</sup>
+
+12° " arme non à feu " : " toute arme tirant un ou plusieurs projectiles dont la propulsion ne résulte pas de la combustion de poudre ou d'une amorce ";
+
+13° " arme blanche " : " toute arme munie d'une ou plusieurs lames et comportant un ou plusieurs tranchants ";
+
+14° " couteau à lancer " : " couteau dont l'équilibrage particulier permet le lancement avec précision ";
+
+15° " nunchaku " : " fléau formé de deux tiges courtes et rigides dont les extrémités sont reliés par une chaîne ou un autre moyen ";
+
+16° " étoile à lancer " : " morceau de métal en forme d'étoile et à pointes acérées, pouvant être dissimulé et également appelé " shuriken ";
+
+17° " permis de chasse " : " un document accordant le droit de pratiquer la chasse, qui est délivré par ou au nom des autorités régionales compétentes pour la chasse, ou un document équivalent délivré dans un autre Etat membre de l'Union européenne, ou un document reconnu par le ministre de la Justice, délivré dans un autre état ";
+
+18° " licence de tireur sportif " : " un document accordant le droit de pratiquer le tir sportif, qui est délivré par ou au nom des autorités communautaires compétentes pour le sport, ou un document équivalent délivré dans un autre état membre de l'Union européenne ou un document reconnu par le ministre de la Justice, délivré dans un autre état ";
+
+19° " stand de tir " : " une installation de tir à l'arme à feu, située dans un local fermé ou non ";
+
+20° " munition " : " un ensemble comprenant une douille, une amorce, une charge de poudre et un ou plusieurs projectiles ";
+
+21° " armes à feu automatique " : " toute arme à feu qui, après chaque coup tiré, se recharge automatiquement et qui peut, par une seule pression sur la détente, lâcher une rafale de plusieurs coups ".
+
+(22° " résidence " : " la résidence principale qu'une personne a en Belgique, à l'exclusion des endroits où des armes sont stockées et que l'intéressé partage avec des tiers ";
+
+23° " canon " : " pièce d'une arme composée de l'âme, rayée ou non, par laquelle le projectile passe, et habituellement d'une chambre dans laquelle le projectile est introduit ";
+
+24° " revolver " : " arme courte à magasin rotatif ou barillet à une ou plusieurs chambres. Les chambres se placent successivement devant le canon, soit par l'action du doigt sur la détente, soit par l'armement direct du chien avec le pouce ";
+
+25° " pistolet " : " arme courte dans laquelle l'extraction de l'étui vide, l'introduction d'une nouvelle cartouche et l'armement se font automatiquement, après le départ du coup, grâce à l'utilisation de l'énergie développée par l'explosion de la charge ou par les gaz de combustion. Le tireur doit relâcher la détente et la presser à nouveau pour obtenir une nouvelle mise à feu ";
+
+26° " arme à répétition " : " arme qui tire au coup par coup lors de chaque pression sur la détente mais qui nécessite l'intervention manuelle du tireur pour réarmer l'arme par un levier, un verrou ou une pompe ".) &lt;L 2008-07-25/37, art. 2, c, 007; En vigueur : 01-09-2008&gt;
+
+[<sup>2</sup> 26°/1 " armes de spectacle " : "les armes à feu spécifiquement construites ou transformées pour servir uniquement au tir de munitions à blanc, à l'occasion par exemple de représentations théâtrales, de séances de photos, de tournages de films, d'enregistrements télévisuels, de reconstitutions historiques, de parades, d'événements sportifs ou de séances d'entraînement";]<sup>2</sup>
+
+[<sup>1</sup> 27° " chargeur ": "un récipient à cartouches amovible pour une arme à feu servant au chargement des cartouches]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 2, 013; En vigueur : 22-01-2018&gt;
+
+(2)&lt;L 2019-05-05/10, art. 152, 014; En vigueur : 03-06-2019, sauf application des dispositions transitoires des art. 193 à 199&gt;
+
+## CHAPITRE II. - Classification des armes.
+
+### Art. 3
+
+§ 1er. Sont réputées armes prohibées :
+
+1° les mines antipersonnel et pièges ou dispositifs de même nature, et les armes laser aveuglantes;
+
+2° les armes incendiaires;
+
+3° les armes conçues exclusivement à usage militaire, tel que les armes à feu automatiques, les lanceurs, les pièces d'artillerie, les roquettes, les armes utilisant d'autres formes de rayonnement autres que celles visées au 1°, les munitions conçues spécifiquement pour ces armes, [<sup>2</sup> les chargeurs convenant exclusivement pour ces armes,]<sup>2</sup> les bombes, les torpilles et les grenades;
+
+4° les sous-munitions;
+
+5° les couteaux à cran d'arrêt et à lame jaillissante, couteaux papillon, coups-de-poing américains et armes blanches qui ont l'apparence d'un autre objet;
+
+6° les cannes à épée et cannes-fusils qui ne sont pas des armes décoratives historiques;
+
+7° les massues et matraques;
+
+8° les armes à feu dont la crosse ou le canon en soi se démonte en plusieurs tronçons, les armes à feu fabriquées ou modifiées de manière à en rendre le port invisible ou moins visible ou à ce que leurs caractéristiques techniques ne correspondent plus à celles du modèle défini dans l'autorisation de détention de l'arme à feu, et les armes à feu qui ont l'apparence d'un objet autre qu'une arme;
+
+9° les engins portatifs permettant d'inhiber les personnes ou de leur causer de la douleur au moyen d'une secousse électrique, à l'exception des outils médicaux ou vétérinaires;
+
+10° les objets destinés à toucher les personnes au moyen de substances toxiques, asphyxiantes, lacrymogènes et de substances similaires, à l'exception d'outils médicaux;
+
+11° les fusils pliants d'un calibre supérieur à 20;
+
+12° les couteaux à lancer;
+
+13° les nunchaku;
+
+14° les étoiles à lancer;
+
+15° les armes à feu dotées des pièces et accessoires suivants, ainsi que les pièces et accessoires suivants en particulier :
+
+\-- les silencieux;
+
+\-- les chargeurs à capacité plus grande que la capacité normale telle que définie par le ministre de la Justice pour un modèle donné d'arme à feu [<sup>2</sup> et le cas échéant pour certaines catégories de détenteurs]<sup>2</sup>;
+
+\-- le matériel de visée pour des armes à feu, projetant un rayon sur la cible (et les lunettes de visée nocturne); &lt;L 2008-07-25/37, art. 3, 1°, 007; En vigueur : 01-09-2008&gt;
+
+\-- les mécanismes permettant de transformer une arme à feu en une arme à feu automatique;
+
+16° les engins, armes et munitions désignés par les ministres de la Justice et de l'Intérieur qui peuvent constituer un (danger grave et nouveau) pour la sécurité publique et les armes et munitions que, pour cette raison, seuls les services visés à l'article 27, § 1er, alinéas 2 et 3, peuvent détenir; &lt;L 2008-07-25/37, art. 3, 2°, 007; En vigueur : 01-09-2008&gt;
+
+17° [<sup>1</sup> les objets et les substances qui ne sont pas conçus comme armes, mais qui ont été transformés, modifiés ou mélangés pour être utilisés comme armes et]<sup>1</sup> dont il apparaît clairement, étant donné les circonstances concrètes, que celui qui les détient, porte ou transporte entend manifestement les utiliser aux fins de menacer ou de blesser physiquement des personnes.
+
+(18° les munitions inertes et les blindages contenant de l'uranium appauvri ou tout autre type d'uranium industriel.) &lt;L 2007-05-11/48, art. 2, 005; En vigueur : 20-06-2009&gt;
+
+[<sup>2</sup> 19° les armes à feu automatiques transformées en armes à feu semi-automatiques;
+
+20° les armes à feu longues semi-automatiques dont la longueur peut être réduite à moins de 60 centimètres à l'aide d'une crosse repliable ou télescopique, ou d'une crosse démontable sans outils, sans qu'elles perdent leur fonctionnalité.]<sup>2</sup>
+
+§ 2. Sont réputées armes en vente libre :
+
+1° les armes blanches, les armes non à feu et les armes factices non soumises à une réglementation spéciale;
+
+2° les armes à feu d'intérêt historique, folklorique ou décoratif définies par le Roi. Si de telles armes à feu sont destinées au tir en dehors du cadre de manifestations historiques ou folkloriques, elles sont considérées comme des armes à feu soumises à autorisation;
+
+3° les armes à feu rendues définitivement inaptes au tir selon [<sup>2</sup> les modalités et les conditions arrêtées]<sup>2</sup> par le Roi. [<sup>2</sup> La détention d'armes à feu rendues définitivement inaptes au tir est soumise à déclaration. Les modalités de cette obligation de déclaration sont arrêtées par le Roi;]<sup>2</sup>
+
+[<sup>1</sup> 3°/1. les chargeurs rendus définitivement inutilisables selon les modalités arrêtées par le Roi;]<sup>1</sup>
+
+4° les armes à feu conçues aux fins d'alarme, de signalisation, de sauvetage, d'abattage, de pêche au harpon ou destinées à des fins industrielles ou techniques à condition qu'elles ne puissent être utilisées qu'à cet usage précis, selon des modalités arrêtées par le Roi. L'article 5 ne s'applique pas à ces armes.
+
+§ 3. Sont réputées armes soumises à autorisation :
+
+1° toutes les autres armes à feu;
+
+2° d'autres armes classées dans cette catégorie par le Roi (après avis du Conseil consultatif visé à l'article 37). &lt;L 2008-07-25/37, art. 3, 3°, 007; En vigueur : 01-09-2008&gt;
+
+[<sup>2</sup> § 4. Les armes à feu qui ont été transformées pour le tir de munitions à blanc, de produits irritants, d'autres substances actives ou d'articles de pyrotechnie, ou qui ont été transformées en armes de spectacle, et les armes à feu non transformées dans ce but servant uniquement à tirer les cartouches ou les substances précitées, demeurent dans la catégorie dans laquelle elles ont été réparties sur la base des paragraphes 1er et 3.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 3, 013; En vigueur : 22-01-2018&gt;
+
+(2)&lt;L 2019-05-05/10, art. 153, 014; En vigueur : 03-06-2019, sauf application des dispositions transitoires des art. 193 à 199&gt;
+
+## CHAPITRE III. - Du numéro national d'identification.
+
+### Art. 4
+
+Toutes les armes à feu fabriquées ou importées en Belgique doivent être inscrites dans un registre central des armes, dans lequel un numéro d'identification unique leur est attribué.
+
+## CHAPITRE IV. - De l'agrément des armuriers, des intermédiaires, des collectionneurs d'armes et de toute personne exerçant certaines activités professionnelles impliquant la détention d'armes à feu.
+
+### Art. 5
+
+§ 1er. Nul ne peut exercer des activités d'armurier ou d'intermédiaire ou se faire connaître comme tel sur le territoire belge s'il n'y a été préalablement agréé par le gouverneur compétent pour le lieu d'établissement.
+
+Si le demandeur est agréé comme armurier dans un autre Etat membre de l'Union européenne, le gouverneur tient compte, lors de l'appréciation de la demande d'agrément, des garanties apportées dans ce cadre.
+
+Les personnes exerçant ces activités sous l'autorité, la direction et la surveillance d'un armurier agréé au lieu où il est établi ne doivent toutefois pas être agréées. Le gouverneur vérifie toutefois, lors de la demande d'agrément de leur employeur ou lors de leur entrée en service, si elles satisfont au § 4.
+
+L'armurier agréé porte à la connaissance du gouverneur toute entrée en service d'une personne visée à l'alinéa 3 et ce dans le mois de celle-ci.
+
+§ 2. Le demandeur doit prouver son aptitude professionnelle pour l'activité qu'il souhaite exercer et justifier l'origine des moyens financiers utilisés pour exercer son activité dans les conditions déterminées par le Roi.
+
+Le gouverneur porte tout indice d'infraction à la connaissance du procureur du Roi compétent.
+
+L'aptitude professionnelle requise se rapporte à la connaissance de la réglementation à respecter et de la déontologie professionnelle, et de la technique et l'utilisation des armes.
+
+§ 3. Le gouverneur statue sur la demande d'agrément après avoir reçu l'avis motivé du procureur du Roi et du bourgmestre compétents pour le lieu d'établissement et pour le domicile du requérant.
+
+L'agrément ne peut être refusé que pour des raisons tenant au maintien de l'ordre public. Toute décision de refus du gouverneur doit être motivée.
+
+§ 4. Toutefois, les demandes introduites par les personnes suivantes sont irrecevables :
+
+1° [<sup>4</sup> les personnes qui ont été condamnées à une [<sup>8</sup> peine d'emprisonnement de cinq ans ou à une peine plus lourde]<sup>8</sup> ou qui ont été internées en vertu de la loi du 5 mai 2014 relative à l'internement [<sup>5</sup> , à l'égard desquelles une mesure de sûreté pour la protection de la société est en cours d'exécution]<sup>5</sup> ou qui ont fait l'objet d' [<sup>7</sup> une mesure de protection visée à l'article 4 de la loi du 26 juin 1990 relative à la protection imposée à une personne atteinte d'un trouble psychiatrique]<sup>7</sup>;]<sup>4</sup>
+
+[<sup>4</sup> 1° /1 [<sup>8</sup> les personnes qui ont été condamnées comme auteur ou participant pour avoir commis une des infractions visées au livre II, titre 1er et titre 4, chapitre 1er, du Code pénal ;]<sup>8</sup>]<sup>4</sup>
+
+2° les personnes qui ont été condamnées [<sup>4</sup> à une [<sup>8</sup> peine de niveau 1, 2 ou 3, sauf s'il s'agit d'une amende de maximum 4000 euros, comme auteur ou participant]<sup>8</sup>]<sup>4</sup> pour avoir commis une des infractions prévues :
+
+a) (par la présente loi, la loi visée à l'article 47 et leurs arrêtés d'exécution;) &lt;L 2008-07-25/37, art. 4, 1°, 007; En vigueur : 01-09-2008&gt;
+
+b) [<sup>8</sup> par les articles 96 à 102, 112 à 130, 134 à 149, 151, 192 à 202, 206 à 211, 219 à 220, 221 à 228, 231 à 235, 237, 238, 247, 258, 260 pour autant que cela concerne la traite des êtres humains, 265 à 268, 276 à 284, 288 à 291, 299 à 301, 317 à 321, 328 à 330, 332 à 337, 339, 340, 348 à 351, 356, 389 à 391, 393 à 400, 402 à 409, 412 à 418, 426 à 432, 434 à 454, 463 à 473, 475 à 485, 487, 488, 501, 502, 505 à 510, 513, 517 à 521, 542 à 546, 551 à 560, 562, 565 à 571, 573 à 578, 581 à 611, 613, 624, 627, 628, 638, 644 à 652, 661 à 664, 677 à 681, 685 et 688 du Code pénal;]<sup>8</sup>
+
+c) par les articles 17, 18, 29 à 31 et 33 à 41 du Code pénal militaire;
+
+d) [<sup>8</sup> les articles 4.1.2.45, 4.1.2.46 et 4.5.2.3, et la violation de l'article 2.4.5.42 du Code belge de la Navigation ;]<sup>8</sup>
+
+[<sup>4</sup> d/1) par la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes;]<sup>4</sup>
+
+e) par la loi du 29 juillet 1934 interdisant les milices privées;
+
+f) par la loi du 28 mai 1956 relative aux substances et mélanges explosifs ou susceptibles de déflagrer et aux engins qui en sont chargés et ses arrêtés d'exécution;
+
+g) par la loi du 11 septembre 1962 relative à l'importation, à l'exportation et au transit des marchandises et de la technologie y afférente et ses arrêtés d'exécution;
+
+h) par (...) la loi du 10 avril 1990 réglant la sécurité privée et particulière; &lt;L 2008-07-25/37, art. 4, 3°, 007; En vigueur : 01-09-2008&gt;
+
+i) [<sup>6</sup> ...]<sup>6</sup>
+
+j) par la loi du 5 août 1991 relative à l'importation, à l'exportation, au transit et à la lutte contre le trafic d'armes, de munitions et de matériel devant servir spécialement à un usage militaire ou de maintien de l'ordre et de technologie y afférente;
+
+(k) la réglementation concernant la chasse et le tir sportif;) &lt;L 2008-07-25/37, art. 4, 5°, 007; En vigueur : 01-09-2008&gt;
+
+[<sup>4</sup> l) par les articles 21 à 26 de l'Accord de Coopération du 2 mars 2007 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'exécution de la Convention sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction, faite à Paris le 13 janvier 1993;]<sup>4</sup>
+
+[<sup>4</sup> m) par l'article 47 du décret flamand du 15 juin 2012 concernant l'importation, l'exportation, le transit et le transfert de produits liés à la défense, d'autre matériel à usage militaire, de matériel de maintien de l'ordre, d'armes à feu civiles, de pièces et de munitions;]<sup>4</sup>
+
+[<sup>4</sup> n) par l'article 20 du décret de la Région wallonne du 21 juin 2012 relatif à l'importation, à l'exportation, au transit et au transfert d'armes civiles et de produits liés à la défense;]<sup>4</sup>
+
+[<sup>4</sup> o) par l'article 42 de l'ordonnance de la Région de Bruxelles-Capitale du 20 juin 2013 relative à l'importation, à l'exportation, au transit et au transfert de produits liés à la défense, d'autre matériel pouvant servir à un usage militaire, de matériel lié au maintien de l'ordre, d'armes à feu à usage civil, de leurs pièces, accessoires et munitions.]<sup>4</sup>
+
+3° les personnes morales qui ont elles-mêmes été condamnées et les personnes morales dont un administrateur, gérant, commissaire ou préposé à l'administration ou à la gestion a été condamné ou a fait l'objet d'une mesure de sûreté dans les conditions prévues aux 1° et 2° ci-dessus;
+
+4° les personnes qui, à l'étranger, ont :
+
+a) été condamnées à une peine qui correspond à l'internement;
+
+b) fait l'objet d'une mesure qui correspond à l'internement [<sup>5</sup> , d'une mesure de sûreté pour la protection de la société]<sup>5</sup> ou qui a fait l'objet d'une décision ordonnant un traitement en milieu hospitalier telle que prévue dans la loi du 26 juin 1990 relative à la protection de la personne des malades mentaux;
+
+c) été condamnées comme auteur ou [<sup>8</sup> participant]<sup>8</sup> pour avoir commis une des infractions prévues aux 1° et 2°;
+
+5° les mineurs et les mineurs prolongés [<sup>4</sup> et les personnes qui font l'objet de la mesure de protection judiciaire visée à l'article 492/1, § 1er, alinéa 3, 20°, du Code civil]<sup>4</sup>;
+
+6° les ressortissants d'Etats non membres de l'Union européenne et les personnes n'ayant pas leur résidence principale dans un Etat membre de l'Union européenne.
+
+§ 5. Le gouverneur peut stipuler qu'en cas de fusion, scission, incorporation d'une généralité ou d'une branche d'activités ou modification de la personnalité juridique, la nouvelle entité juridique peut, moyennant le respect des conditions fixées par lui, continuer les activités de l'entreprise bénéficiant de l'agrément initial durant la période qui précède la notification de la décision relative à la demande d'agrément.
+
+----------
+
+(1)&lt;L 2014-04-10/24, art. 17, 010; En vigueur : 10-05-2014&gt;
+
+(2)&lt;L 2016-02-01/09, art. 27, 011; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2016-05-04/03, art. 245, 012; En vigueur : 01-10-2016&gt;
+
+(4)&lt;L 2018-01-07/01, art. 4, 013; En vigueur : 22-01-2018&gt;
+
+(5)&lt;L 2024-02-29/11, art. 39, 017; En vigueur : 18-04-2024&gt;
+
+(6)&lt;L 2024-05-18/31, art. 183, 020; En vigueur : 16-12-2024&gt;
+
+(7)&lt;L 2024-05-16/06, art. 69, 021; En vigueur : 01-01-2025&gt;
+
+(8)&lt;L 2026-03-16/13, art. 19, 022; En vigueur : 01-09-2026&gt;
+
+### Art. 6
+
+§ 1er. Les personnes physiques et les personnes morales de droit privé souhaitant tenir [<sup>2</sup> en tant que musée ou collectionneur]<sup>2</sup> une collection de plus de (cinq) armes à feu soumises à autorisation ou de munitions [<sup>1</sup> ou chargeurs]<sup>1</sup>, sans devoir obtenir pour chaque arme supplémentaire une autorisation conformément à l'article 11, doivent, conformément à l'article 5, §§ 3 et 4, être agréées par le gouverneur compétent pour le lieu d'établissement. Le Roi détermine les conditions sur le plan du contenu auxquelles est soumise la collection et les précautions techniques spéciales à prendre si les armes ont été développées après 1945. &lt;L 2008-07-25/37, art. 5, 007; En vigueur : 01-09-2008&gt;
+
+§ 2. Le Roi détermine les conditions sous lesquelles le gouverneur compétent pour le lieu d'établissement peut délivrer des agréments spéciaux à des personnes exerçant des activités professionnelles de nature scientifique, culturelle ou non-commerciale avec des armes à feu [<sup>2</sup> , des munitions ou des chargeurs]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 5, 013; En vigueur : 01-01-2019&gt;
+
+(2)&lt;L 2019-05-05/10, art. 154, 014; En vigueur : 03-06-2019, sauf application des dispositions transitoires des art. 193 à 199&gt;
+
+### Art. 7
+
+§ 1er. L'agrément peut être limité à des opérations, des armes [<sup>1</sup> , des munitions ou des chargeurs déterminés]<sup>1</sup>.
+
+§ 2. Selon la procédure fixée par le Roi, l'agrément peut être, sur décision du gouverneur, suspendu pour une durée d'un à six mois, retiré, limité à des opérations, des armes [<sup>1</sup> ,des munitions ou des chargeurs déterminés]<sup>1</sup>, ou limité à une durée déterminée, lorsque le titulaire :
+
+1° se trouve dans une des catégories visées à l'article 5, § 4;
+
+2° ne respecte pas les dispositions de la présente loi et des arrêtés pris pour son exécution ou les limitations visées au § 1er;
+
+3° a obtenu l'agrément sur base de la communication de renseignements inexacts;
+
+4° n'a pas exercé, pendant un an, les activités faisant l'objet de l'agrément, à l'exception de celles visées à l'article 6;
+
+5° exerce des activités qui, par le fait qu'elles sont exercées concurremment avec les activités faisant l'objet de l'agrément, peuvent porter atteinte à l'ordre public.
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 6, 013; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE V. - Des opérations avec des armes prohibées.
+
+### Art. 8
+
+Nul ne peut fabriquer, réparer, exposer en vente, vendre, céder ou transporter des armes prohibées, en tenir en dépôt, en détenir ou en être porteur.
+
+En cas d'infraction à l'alinéa précédent, les armes seront saisies, confisquées et détruites, même si elles n'appartiennent pas au condamné.
+
+[Est également interdit le financement d'une entreprise de droit belge ou de droit étranger dont l'activité consiste en la fabrication, l'utilisation, la réparation, l'exposition en vente, la vente, la distribution, l'importation ou l'exportation, l'entreposage ou le transport [<sup>1</sup> de mines antipersonnel, de sous-munitions et/ou de munitions inertes et de blindages contenant de l'uranium appauvri ou tout autre type d'uranium industriel]<sup>1</sup> au sens de la présente loi en vue de leur propagation.] &lt;L 2007-03-20/48, art. 2, 004; En vigueur : 26-04-2007&gt;
+
+[A cette fin, le Roi publiera, au plus tard le premier jour du treizième mois suivant le mois de la publication de la loi, une liste publique
+
+i) des entreprises dont il a été démontré qu'elles exercent l'une des activités visées à l'alinéa précédent;
+
+ii) des entreprises actionnaires à plus de 50 % d'une entreprise au point i).
+
+iii) des organismes de placement collectif détenteurs d'instruments financiers d'une entreprise aux points i) et ii).
+
+Il fixera également les modalités de publication de cette liste.
+
+Par financement d'une entreprise figurant dans cette liste, on entend toutes les formes de soutien financier, à savoir les crédits et les garanties bancaires, ainsi que l'acquisition pour compte propre d'instruments financiers émis par cette entreprise.
+
+Lorsqu'un financement a déjà été accordé à une entreprise figurant dans la liste, ce financement doit être complètement interrompu pour autant que cela soit contractuellement possible.
+
+Cette interdiction ne s'applique pas aux organismes de placement dont la politique d'investissement, conformément à leurs statuts ou à leurs règlements de gestion, a pour objet de suivre la composition d'un indice d'actions ou d'obligations déterminé.
+
+L'interdiction de financement ne s'applique pas non plus aux projets bien déterminés d'une entreprise figurant dans cette liste, pour autant que le financement ne vise aucune des activités mentionnées dans cet article. L'entreprise est tenue de confirmer ceci dans une déclaration écrite.] &lt;L 2007-03-20/48, art. 2, 004; En vigueur : 26-04-2007&gt;
+
+----------
+
+(1)&lt;L 2009-07-16/01, art. 2, 008; En vigueur : 20-06-2009&gt;
+
+## CHAPITRE VI. - Des opérations avec des armes en vente libre.
+
+### Art. 9
+
+Le port d'une arme en vente libre n'est permis qu'à celui qui peut justifier d'un motif légitime.
+
+## CHAPITRE VII.Des opérations avec des armes soumises à autorisation.
+
+### Art. 10
+
+Nul ne peut vendre ou céder une arme à feu soumise à autorisation qu'aux personnes agréées conformément aux articles 5 et 6 et aux personnes munies d'une autorisation visée à l'article 11.
+
+Toute perte ou vol d'une arme soumise à autorisation doit être signalée sans délai à la police locale par le titulaire du titre de détention.
+
+### Art. 11
+
+§ 1er. La détention d'une arme à feu soumise à autorisation ou des munitions y afférentes est interdite aux particuliers, sans autorisation préalable délivrée par le gouverneur compétent pour la résidence du requérant. Cette autorisation ne peut être délivrée qu'après avis, dans les trois mois de la demande, du chef de corps de la police locale de la résidence du requérant. La décision doit être motivée. L'autorisation peut être limitée à la détention de l'arme à l'exclusion des munitions et elle n'est valable que pour une seule arme.
+
+S'il apparaît que la détention de l'arme peut porter atteinte à l'ordre public ou que le motif légitime invoqué pour obtenir l'autorisation n'existe plus, le gouverneur compétent pour la résidence de l'intéressé peut limiter, suspendre ou retirer l'autorisation par décision motivée selon une procédure définie par le Roi et après avoir pris l'avis du procureur du Roi compétent pour cette résidence.
+
+§ 2. Si le requérant n'a pas de résidence en Belgique, l'autorisation est délivrée par le ministre de la Justice conformément à la procédure prévue par la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité et peut être limitée à la détention de l'arme à l'exclusion des munitions.
+
+Si le requérant réside dans un autre état membre de l'Union européenne, l'autorisation ne peut être délivrée sans l'accord préalable de cet état. Si l'autorisation est délivrée, cet état en est informé.
+
+S'il apparaît que la détention de l'arme est susceptible de troubler l'ordre public ou que le motif légitime invoqué pour obtenir l'autorisation n'existe plus, le ministre de la Justice peut limiter, suspendre ou retirer l'autorisation après avis de la Sûreté de l'Etat. Cette décision doit être motivée. L'Etat de résidence du détenteur de l'arme est informé de la décision.
+
+§ 3. L'autorisation n'est accordée qu'aux personnes satisfaisant aux conditions suivantes :
+
+1° être majeur;
+
+2° [<sup>2</sup> ne pas avoir été condamné [<sup>3</sup> comme auteur ou participant à une amende de plus 4000 euros, à une peine sous surveillance électronique ou à une peine d'emprisonnement]<sup>3</sup> du chef d'une des infractions visées à l'article 5, § 4, 2° ;]<sup>2</sup>
+
+3° [<sup>2</sup> ne pas avoir été condamné à une des peines ni fait l'objet d'une des mesures visées à l'article 5, § 4, 1°, 1° /1, et 4° ;]<sup>2</sup>
+
+4° [<sup>2</sup> ...]<sup>2</sup>
+
+5° ne pas faire l'objet d'une suspension en cours et ne pas avoir fait l'objet d'un retrait dont les motifs sont encore actuels, d'une autorisation de détention ou d'un permis de port d'une arme;
+
+6° présenter une attestation médicale confirmant que le demandeur est apte à la manipulation d'une arme sans danger pour lui-même ou pour autrui;
+
+7° réussir une épreuve portant sur la connaissance de la réglementation applicable ainsi que sur la manipulation d'une arme à feu, dont les modalités sont déterminées par le Roi par arrêté délibéré en Conseil des Ministres;
+
+8° aucune personne majeure habitant avec le demandeur ne s'oppose à la demande;
+
+9° justifier d'un motif légitime pour l'acquisition (et la détention) de l'arme concernée et des munitions. Le type de l'arme doit correspondre au motif pour lequel elle a été demandée. Ces motifs légitimes sont, dans des conditions à déterminer par le Roi par arrêté délibéré en Conseil des Ministres : &lt;L 2008-07-25/37, art. 6, 1°, 007; En vigueur : 01-09-2008&gt;
+
+a) la chasse et des activités de gestion de la faune;
+
+b) le tir sportif et récréatif;
+
+c) (l'exercice d'une activité présentant des risques particuliers ou nécessitant la détention d'une arme à feu); &lt;L 2008-07-25/37, art. 6, 2°, 007; En vigueur : 01-09-2008&gt;
+
+d) la défense personnelle de personnes qui courent un risque objectif et important et qui démontrent en outre que la détention d'une arme à feu diminue ce risque important dans une large mesure et peut les protéger;
+
+e) l'intention de constituer une collection d'armes historiques;
+
+f) la participation à des activités historiques, folkloriques, culturelles ou scientifiques.
+
+[<sup>2</sup> g) la conservation d'une arme dans un patrimoine, sous les conditions précisées aux articles 11/1 et 11/2, alinéas 2 et 3.]<sup>2</sup>
+
+(Sont toutefois irrecevables, les demandes introduites par les personnes qui ne remplissent pas les conditions du 1° à 4°, 6° et 8°, ainsi que celles ne justifiant pas de motif légitime tel que prévu par le 9°.) &lt;L 2008-07-25/37, art. 6, 2°, 007; En vigueur : 01-09-2008&gt;
+
+(NOTE : art. 11, § 3, 9°, annulé par l'arrêt de la Cour constitutionnelle n° 154/2007 du 19-12-2007 - en ce qu'il ne mentionne pas comme motif légitime la conservation d'une arme dans un patrimoine, lorsque la demande d'autorisation de détention concerne une arme soumise à autorisation à l'exclusion des munitions, pour laquelle une autorisation de détention a été délivrée ou pour laquelle une autorisation de détention n'était pas requise - voir M.B. 23-01-2008, p. 3612)
+
+§ 4. Le § 3, 3° à 6° et 8°, ne s'appliquent pas aux personnes morales souhaitant acquérir les armes à des fins professionnelles.
+
+Sont exemptés de la partie théorique de l'épreuve visée au § 3, 7°, ceux qui l'ont déjà réussie au moment de la demande d'une autorisation antérieure. Ils doivent toutefois la subir à nouveau si un délai de deux ans s'est écoulé depuis leur première réussite.
+
+Sont exemptés de la partie pratique de l'épreuve visée au § 3, 7° :
+
+1° le demandeur qui a déjà une expérience déterminée par le Roi avec l'utilisation d'armes à feu;
+
+2° le demandeur d'une autorisation de détention d'une arme à l'exclusion de munitions;
+
+3° le demandeur d'une autorisation de détention d'une arme non à feu soumise à autorisation en vertu de la présente loi;
+
+4° le demandeur ayant sa résidence à l'étranger.
+
+(En outre, les titulaires d'un permis de chasse valide sont exemptés de l'épreuve théorique visée au paragraphe 3, 7°, et de l'épreuve pratique qui y est visée, pour autant que leur demande concerne une arme visée à l'article 12, alinéa 1er, 1°.
+
+Il en est de même pour les titulaires d'une licence de tireur sportif, pour autant que leur demande concerne une arme du même type qu'une arme pour laquelle ils ont déjà réussi une épreuve pratique dans le cadre de l'obtention de leur licence. En outre, ils sont exemptés de l'attestation médicale visée au paragraphe 3, 6°.
+
+Sont également exemptés de l'attestation médicale visée au paragraphe 3, 6°, ceux qui demandent une autorisation en invoquant les motifs légitimes visés au paragraphe 3, 9°, e) et f).) &lt;L 2008-07-25/37, art. 6, 4°, 007; En vigueur : 01-09-2008&gt;
+
+----------
+
+(1)&lt;L 2016-05-04/03, art. 245, 012; En vigueur : 01-10-2016&gt;
+
+(2)&lt;L 2018-01-07/01, art. 7, 013; En vigueur : 22-01-2018&gt;
+
+(3)&lt;L 2026-03-16/13, art. 20, 022; En vigueur : 01-09-2026&gt;
+
+### Art. 11/1
+
+&lt;Inséré par L 2008-07-25/37, art. 7; En vigueur : 01-09-2008&gt; Une autorisation de détention est également octroyée aux personnes désirant conserver dans leur patrimoine une arme qui avait fait l'objet d'une autorisation ou pour laquelle une autorisation n'était pas requise avant l'entrée en vigueur de la présente loi.
+
+Cette autorisation n'est valable que pour la simple détention de l'arme, à l'exclusion de munitions.
+
+L'article 11, § 3, 6°, 7° et 9°, ne s'applique pas aux personnes visées à l'alinéa 1er.
+
+### Art. 11/2
+
+&lt;Inséré par L 2008-07-25/37, art. 8; En vigueur : 01-09-2008&gt; Quiconque détient une arme devenue soumise à autorisation en vertu de la présente loi et souhaite demander une autorisation telle que visée à l'article 11/1, doit introduire la demande dans les deux mois de l'entrée en vigueur de cet article.
+
+L'héritier, qui apporte la preuve qu'il a acquis dans son patrimoine une arme détenue légalement par la personne décédée, peut, dans les [<sup>2</sup> trois]<sup>2</sup> mois de l'entrée en possession de l'arme, demander une autorisation telle que visée à l'article 11/1.
+
+Le particulier ayant acquis une arme dans les conditions fixées à l'article 12 et dont le permis de chasse, la licence de tireur sportif ou le document assimilé est expiré, et qui souhaite obtenir l'autorisation visée à l'article 11/1 [<sup>1</sup> doit introduire, selon le cas, la demande dans les [<sup>2</sup> trois]<sup>2</sup> mois de l'expiration du délai visé à l'article 13, alinéa 2, 1° ou 2° ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 8, 013; En vigueur : 22-01-2018&gt;
+
+(2)&lt;L 2019-05-05/10, art. 155, 014; En vigueur : 03-06-2019, sauf application des dispositions transitoires des art. 193 à 199&gt;
+
+### Art. 12
+
+L'article 11 ne s'applique pas :
+
+1° (aux titulaires d'un permis de chasse qui peuvent détenir des armes longues autorisées à cette fin, là où le permis de chasse est valable, ainsi que les munitions y afférentes, à condition que leurs antécédents pénaux, leur connaissance de la législation sur les armes et [<sup>3</sup> leur aptitude sur le plan pratique et médical à manipuler une arme à feu en sécurité sans danger pour eux-mêmes ou pour autrui aient été vérifiés au préalable]<sup>3</sup>;) &lt;L 2008-07-25/37, art. 9, a, 007; En vigueur : 01-09-2008&gt;
+
+2° aux titulaires d'une licence de tireur sportif pouvant détenir des armes à feu conçues pour le tir sportif et dont la liste est arrêtée par le ministre de la Justice, ainsi que les munitions y afférentes, à condition que leurs antécédents pénaux, leur connaissance de la législation sur les armes et [<sup>3</sup> leur aptitude sur le plan pratique et médical à manipuler une arme à feu en sécurité sans danger pour eux-mêmes ou pour autrui aient été vérifiés au préalable]<sup>3</sup>;
+
+3° aux titulaires d'une carte européenne d'armes à feu valable délivrée dans un autre Etat-membre de l'Union européenne, pouvant détenir temporairement en Belgique les armes et les munitions qui y sont mentionnées [<sup>2</sup> et les chargeurs y afférents]<sup>2</sup>;
+
+4° aux gardes particuliers qui peuvent posséder des armes à feu longues telles que celles visées aux articles 62 et 64 du Code rural ainsi que les munitions y afférentes dans le cadre de l'exercice des activités qui leur ont été attribuées par les autorités régionales compétentes et qui exigent selon ces autorités l'utilisation d'une arme sans préjudice des exigences visées dans le Code rural et ses arrêtés d'exécution.
+
+(5° [<sup>1</sup> aux particuliers]<sup>1</sup> majeurs qui manipulent au maximum une fois par an une arme soumise à autorisation sur un champ de tir reconnu, dans les conditions fixées par le Roi.) &lt;L 2008-07-25/37, art. 9, b, 007; En vigueur : 01-09-2008&gt;
+
+Les personnes visées à l'alinéa 1er, [<sup>1</sup> ...]<sup>1</sup> peuvent également tirer avec des armes détenues [<sup>1</sup> légalement]<sup>1</sup> par des tiers.
+
+Le Roi détermine les modalités de l'enregistrement de la cession et de la détention des armes à feu [<sup>1</sup> , des munitions et des chargeurs visés]<sup>1</sup> par le présent article.
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 9,2°-9,5°, 013; En vigueur : 22-01-2018&gt;
+
+(2)&lt;L 2018-01-07/01, art. 9,1°, 013; En vigueur : 01-01-2019&gt;
+
+(3)&lt;L 2019-05-05/10, art. 156, 014; En vigueur : 03-06-2019, sauf application des dispositions transitoires des art. 193 à 199&gt;
+
+### Art. 12/1
+
+&lt;Inséré par L 2008-07-25/37, art. 10; En vigueur : 01-09-2008&gt; Les titulaires d'un permis de chasse, d'une licence de tireur sportif [<sup>1</sup> ou d'une autorisation]<sup>1</sup> de détention d'une arme à feu peuvent se prêter des armes à feu dans les conditions suivantes :
+
+1° il ne peut s'agir que d'armes à feu du type que l'emprunteur peut détenir et en vue d'une activité autorisée sur la base du document dont il est le titulaire;
+
+2° les armes à feu ne peuvent être prêtées que pour la durée de l'activité pour laquelle elles sont prêtées et pour le transport à et de l'endroit où cette activité a lieu;
+
+3° les armes à feu ne peuvent être détenues, portées et utilisées qu'à l'endroit où l'activité pour laquelle elles sont prêtées a lieu;
+
+4° [<sup>1</sup> sauf s'ils sont tous deux présents, le prêteur et l'emprunteur sont en mesure de présenter d'une part un accord écrit, daté et signé par eux, mentionnant leurs noms et adresses respectifs, ainsi que l'objet et la durée du prêt, et, d'autre part, le document visé au 1° ou une copie de ces documents.]<sup>1</sup>
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, 2° et 3°, les titulaires d'un permis de chasse peuvent prêter des armes à feu pour une durée n'excédant pas six mois. Si elles sont prêtées pour une durée supérieure à [<sup>2</sup> une semaine]<sup>2</sup>, le prêteur en fait la déclaration [<sup>2</sup> selon les modalités déterminées par un arrêté royal délibéré en Conseil des ministres]<sup>2</sup>.
+
+Par dérogation à l'alinéa 1er, les titulaires d'une licence de tireur sportif ou d'une autorisation de détention d'une arme à feu peuvent se prêter des armes à feu d'un autre type que celui que l'emprunteur peut détenir sur la base du document dont il est le titulaire, dans les conditions suivantes:
+
+1° le prêt a lieu en présence du prêteur, moyennant l'accord préalable de l'exploitant du stand de tir ou du représentant de celui-ci, et sous la responsabilité du prêteur et de l'exploitant ou du représentant de celui-ci;
+
+2° le prêt a lieu pour un essai ponctuel;
+
+3° les armes prêtées ne sont utilisées qu'en vue d'une activité autorisée sur la base du document dont l'emprunteur est le titulaire.
+
+Les particuliers de moins de 18 ans qui sont titulaires d'une licence de tireur sportif ou d'une licence de tireur sportif provisoire peuvent utiliser des armes à feu soumises à autorisation dans le stand de tir pour l'exercice du tir sportif dans le respect des conditions fixées par décret.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 10, 013; En vigueur : 28-10-2018&gt;
+
+(2)&lt;L 2019-05-05/10, art. 157, 014; En vigueur : 03-06-2019, sauf application des dispositions transitoires des art. 193 à 199&gt;
+
+### Art. 13
+
+S'il apparaît que la détention des armes visées à l'article 12 peut porter atteinte à l'ordre public, le gouverneur compétent pour la résidence de l'intéressé (et le Ministre de la Justice s'il s'agit d'une personne sans résidence en Belgique peuvent limiter), suspendre ou retirer par une décision motivée le droit de détenir l'arme, ce après avoir recueilli l'avis du procureur du Roi de l'arrondissement où l'intéressé a sa résidence et selon une procédure définie par le Roi. &lt;L 2008-07-25/37, art. 11, 1°, 007; En vigueur : 01-09-2008&gt;
+
+[<sup>1</sup> Le particulier qui a acquis une arme à feu dans les conditions fixées à l'article 12 est autorisé à continuer à détenir cette arme sans toutefois pouvoir encore détenir des munitions pour celle-ci:
+
+1° pendant dix ans après l'expiration de la validité du permis de chasse ou du document assimilé, à condition de faire l'objet d'un contrôle de ses antécédents judiciaires après l'écoulement de cinq ans à partir de l'expiration de la validité du document; ou
+
+2° pendant trois ans après l'expiration de la licence de tireur sportif ou du document assimilé.]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup> [<sup>1</sup> La reprise par le particulier de l'activité concernée interrompt la période visée à l'alinéa 2, 1° ou 2°. ]<sup>1</sup>(Il dispose d'une période [<sup>1</sup> de trois mois]<sup>1</sup> pour remettre les munitions qu'il détient encore aux conditions prévues à l'article 12, alinéa 1er, à une personne agréée ou à une personne qui est autorisée à détenir ces munitions) Après cette période, l'arme sera soumise à autorisation et l'article 17 sera appliqué. &lt;L 2008-07-25/37, art. 11, 2° et 3°, 007; En vigueur : 01-09-2008&gt;
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 11, 013; En vigueur : 22-01-2018&gt;
+
+### Art. 14
+
+Nul ne peut porter une arme à feu soumise à autorisation si ce n'est pour un motif légitime et moyennant la possession de l'autorisation de détention de l'arme concernée ainsi que d'un permis de port d'arme, délivré par le gouverneur compétent pour la résidence du requérant, après avis du procureur du Roi de l'arrondissement de la résidence du requérant. Le requérant doit présenter une attestation d'un médecin reconnu à cet effet par le ministre de la Justice et qui atteste que l'intéressé ne présente pas de contre-indications physiques ou mentales pour le port d'une arme à feu.
+
+Si le requérant n'a pas de résidence en Belgique, le permis de port d'arme est délivré par le ministre de la Justice, conformément à la procédure prévue par la loi du 11 décembre 1998 relative à la classification et aux habilitations de sécurité.
+
+Le permis de port d'arme est délivré pour une durée maximale de trois ans, mentionne les conditions auxquelles est subordonné le port d'arme et doit être porté en même temps que l'arme.
+
+L'autorité qui a délivré un permis de port d'arme peut le limiter, le suspendre ou le retirer par une décision motivée selon une procédure définie par le Roi, s'il apparaît que le port de l'arme peut porter atteinte à l'ordre public, que les conditions auxquelles est subordonné le port de l'arme ne sont pas respectées ou que les motifs légitimes invoqués pour obtenir le permis n'existent plus.
+
+### Art. 15
+
+&lt;L 2008-07-25/37, art. 12, 007; En vigueur : 01-09-2008&gt; Les personnes visées aux articles 11, § 3, 9°, a) et b), et 12 peuvent, uniquement dans le cadre de la pratique de la chasse, la gestion de la faune ou le tir sportif, porter des armes à feu sans avoir obtenu un permis de port d'armes, à condition de justifier d'un motif légitime à cette fin.
+
+### Art. 16
+
+Le stockage d'armes à feu ou de munitions soumises à autorisation [<sup>1</sup> ou de chargeurs]<sup>1</sup> ne peut avoir lieu que si, pour la quantité concernée, il existe un des motifs légitimes suivants :
+
+1° la détention légitime de plusieurs armes à feu et d'une quantité nécessaire de munitions [<sup>1</sup> et de chargeurs]<sup>1</sup> pour ces armes par leurs propriétaires cohabitant à la même adresse qui stockent leurs armes à cet endroit;
+
+2° les activités légitimes de personnes agréées.
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 12, 013; En vigueur : 01-01-2019&gt;
+
+### Art. 17
+
+Lorsqu'un arrêté royal pris en exécution de l'article [<sup>1</sup> 3, § 2, 2°, ou]<sup>1</sup> 3, § 3, 2°, classe des armes comme armes soumises à autorisation, les personnes qui détiennent de telles armes doivent les faire immatriculer selon une procédure définie par le Roi. Une autorisation de détention de telles armes leur est délivrée gratuitement.
+
+Celui qui acquiert une arme soumise à autorisation dans des conditions autres que celles prévues aux articles 11 et 12 doit introduire une demande d'autorisation de détention de cette arme dans les trois mois de l'acquisition de l'arme. Il peut détenir provisoirement l'arme jusqu'à ce qu'il soit statué sur la demande, sauf s'il apparaît, par une décision motivée de l'autorité concernée, que cette détention peut porter atteinte à l'ordre public.
+
+----------
+
+(1)&lt;L 2012-12-27/29, art. 33, 009; En vigueur : 10-02-2013&gt;
+
+### Art. 18
+
+L'arme doit être, dans le délai prescrit par la décision de refus, de suspension ou de retrait, déposée chez une personne agréée ou cédée à une personne agréée ou à une personne autorisée à la détenir lorsque :
+
+1° une décision d'interdiction de détention provisoire d'une telle arme est prise à l'égard d'une personne visée à l'article 17, alinéa 2;
+
+2° une autorisation de détention d'une telle arme est refusée à une personne visée à l'article 17;
+
+3° une autorisation ou le droit de détention d'une arme [<sup>1</sup> sont suspendus ou retirés]<sup>1</sup> conformément [<sup>1</sup> à l'article 11, § 1er, alinéa 2, ou § 2, alinéa 3, ou l'article 13]<sup>1</sup>, alinéa 1er.
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 13, 013; En vigueur : 22-01-2018&gt;
+
+## CHAPITRE VIII. - Des interdictions.
+
+### Art. 19
+
+Il est interdit :
+
+1° ([<sup>4</sup> d'acheter ou de vendre, d'offrir en vente ou de céder des armes ainsi que des pièces détachées soumises à l'épreuve légale à des particuliers par correspondance ou par internet]<sup>4</sup>, ou d'organiser la vente à distance des armes [<sup>2</sup> , des munitions et des chargeurs]<sup>2</sup> à des particuliers); &lt;L 2008-07-25/37, art. 13, a, 007; En vigueur : 01-09-2008&gt;
+
+2° de vendre des armes à feu à des particuliers de moins de 18 ans;
+
+3° de faire de la publicité pour des armes prohibées;
+
+4° de faire de la publicité pour des armes soumises à autorisation ou d'exposer de telles armes en vente sans indiquer de façon visible que leur détention est soumise à autorisation;
+
+5° d'offrir en vente, de vendre ou de céder des armes à feu, des armes non à feu pouvant tirer des projectiles [<sup>1</sup> , des munitions ou des chargeurs]<sup>1</sup> sur des marchés publics, dans des bourses et à d'autres endroits où il n'y a pas d'établissements permanents, sauf en cas de vente publique par un huissier de justice ou par un notaire sous le contrôle du directeur du banc d'épreuves des armes à feu ou d'un des agents désignés par le ministre ayant l'Economie dans ses attributions et après avis du directeur du banc d'épreuves. Toutefois, l'Etat, les zones de police et les communes peuvent vendre exclusivement à des armuriers agréés l'armement individuel des autorités habilitées à porter des armes en service. Moyennant l'autorisation du ministre de la Justice [<sup>3</sup> ou de son délégué]<sup>3</sup>, des armes en vente libre peuvent cependant être vendues dans des bourses (...). [<sup>1</sup> Le Roi peut, après avis du Conseil consultatif des armes, définir une ou plusieurs conditions dont cette autorisation peut être assortie.]<sup>1</sup>;
+
+6° d'effacer, de manipuler et de rendre illisibles les numéros d'armes à feu et de faire le commerce, de transporter, de porter ou de stocker des armes à feu non enregistrées et des armes à feu non numérotées, sauf lors d'un transport international à l'occasion duquel les armes ne sont pas déchargées ou transbordées sur le territoire belge et vers le banc d'épreuves des armes à feu en vue de la numérotation; &lt;L 2008-07-25/37, art. 13, b, 007; En vigueur : 01-09-2008&gt;
+
+[<sup>1</sup> 7° de porter ou de transporter les objets piquants, tranchants ou contondants et substances qui ne sont pas conçus comme armes mais dont il apparaît, étant donné les circonstances concrètes, que celui qui les porte ou transporte entend manifestement les utiliser aux fins de menacer ou de blesser physiquement des personnes;]<sup>1</sup>
+
+[<sup>3</sup> 8° d'acquérir une arme détenue en Belgique en violation de la présente loi ou de ses arrêtés d'exécution.]<sup>3</sup>
+
+Des armes soumises à autorisation mises en loterie ou distribuées comme prix ne peuvent être remises au bénéficiaire qu'après qu'il ait obtenu une autorisation pour leur détention.
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 14, 013; En vigueur : 22-01-2018&gt;
+
+(2)&lt;L 2019-05-05/10, art. 158, 014; En vigueur : 03-06-2019, sauf application des dispositions transitoires des art. 193 à 199&gt;
+
+(3)&lt;L 2021-11-28/01, art. 93, 015; En vigueur : 10-12-2021&gt;
+
+(4)&lt;L 2022-12-06/02, art. 57, 016; En vigueur : 31-12-2022&gt;
+
+## CHAPITRE IX. - L'exploitation des stands de tir.
+
+### Art. 20
+
+Seules les personnes physiques ou morales agréées à cet effet conformément à l'article 5 peuvent exploiter un stand de tir. Toutefois, elles ne doivent pas prouver d'aptitude professionnelle. Elles doivent respecter des conditions d'exploitation concernant la sécurité interne et l'organisation du stand de tir et le contrôle des tireurs.
+
+Le Roi fixe les conditions d'exploitation, sur proposition des ministres qui ont la Justice et l'Intérieur dans leurs attributions.
+
+Le présent article ne s'applique pas aux stands de tir réservés exclusivement à la formation ou à l'entraînement des agents de services de l'autorité ou de la force publique déterminés conformément à l'article 27, § 1er, alinéa 3.
+
+## CHAPITRE X. - Le transport d'armes à feu.
+
+### Art. 21
+
+Le transport d'armes à feu [<sup>1</sup> , de munitions et de chargeurs]<sup>1</sup> n'est autorisé qu'aux :
+
+1° titulaires d'un agrément conformément à l'article 5 ou l'article 6, pour autant que les armes soient non chargées;
+
+2° titulaires d'une autorisation de détention d'une arme à feu et aux personnes visées à l'article 12, (ainsi qu'aux transporteurs d'armes à feu en vente libre) [<sup>2</sup> ...]<sup>2</sup>. [<sup>2</sup> Les armes sont transportées non chargées et de manière à ne pouvoir être immédiatement saisies. Le Roi détermine, conformément à l'article 35, 1°, les conditions de sécurité précises ou additionnelles à respecter lors du transport.]<sup>2</sup> &lt;L 2008-07-25/37, art. 14, 007; En vigueur : 01-09-2008&gt;
+
+3° titulaires d'un permis de port d'arme;
+
+4° personnes ayant obtenu exclusivement à cette fin un agrément conformément à l'article 5;
+
+5° transporteurs internationaux professionnels, à condition que les armes ne soient pas déchargées ou transbordés sur le territoire belge.
+
+Les personnes visées à l'alinéa premier, 4°, ne doivent pas prouver d'aptitude professionnelle, mais satisfaire à toutes les conditions légales pour pouvoir être considérées comme des transporteurs professionnels.
+
+Des transporteurs internationaux qui ne satisfont pas à l'alinéa premier, 5°, et qui sont établis dans un autre Etat membre de l'Union européenne ne doivent pas être agréés, mais prouver qu'ils peuvent exercer leur activité dans l'état membre concerné.
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 16,1°, 013; En vigueur : 01-01-2019&gt;
+
+(2)&lt;L 2018-01-07/01, art. 16,2°, 013; En vigueur : 09-12-2019&gt;
+
+## CHAPITRE XI. [<sup>1</sup> Dispositions concernant les munitions et les chargeurs. ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 17, 013; En vigueur : 22-01-2018&gt;
+
+### Art. 22
+
+§ 1er. Il est interdit de vendre ou de céder à des particuliers des munitions [<sup>1</sup> ou des chargeurs]<sup>1</sup> d'armes à feu soumises à autorisation, si ce n'est pour l'arme faisant l'objet de l'autorisation prévue à l'article 11 et sur présentation du document, ou pour l'arme que peut détenir une personne visée à l'article 12 et sur présentation du document qui atteste cette qualité.
+
+Il est interdit de vendre ou de céder des munitions d'armes à feu soumises à autorisation aux personnes munies d'un acte d'autorisation qui n'est pas valable pour l'acquisition de munitions.
+
+Les particuliers ne satisfaisant pas aux articles 11 ou 12 ne peuvent pas détenir des munitions d'armes à feu soumises à autorisation.
+
+Les dispositions des alinéas précédents s'appliquent également aux douilles et projectiles, sauf s'ils ont été rendus inutilisables.
+
+[<sup>2</sup> Les particuliers qui satisfont à l'article 11 peuvent uniquement détenir des chargeurs afférents à l'arme à feu faisant l'objet de l'autorisation prévue à cet article.
+
+Les particuliers qui satisfont à l'article 12 peuvent uniquement détenir des chargeurs afférents aux armes à feu soumises à autorisation du type qu'ils peuvent détenir. Ils peuvent en outre continuer à détenir ces chargeurs pendant le délai visé à l'article 13, alinéa 2, 1° ou 2°, selon le cas.
+
+Les particuliers ne satisfaisant pas aux articles 11 ou 12, et ne se trouvant pas dans la situation visée à l'article 13, alinéa 2, ne peuvent pas détenir de chargeurs d'armes à feu soumises à autorisation.]<sup>2</sup>
+
+§ 2. Il est interdit de fabriquer, de vendre, de tenir en dépôt ou de détenir :
+
+1° des munitions perforantes, incendiaires ou explosives;
+
+2° des munitions a effet expansif pour pistolets et revolvers;
+
+3° des projectiles pour ces munitions.
+
+§ 3. Un arrêté royal pourra étendre les dispositions des §§ 1er et 2 aux munitions ou projectiles dont le type serait douteux.
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 18,1°, 013; En vigueur : 22-01-2018&gt;
+
+(2)&lt;L 2018-01-07/01, art. 18,2°, 013; En vigueur : 01-01-2019&gt;
+
+## CHAPITRE XII. - Dispositions pénales.
+
+### Art. 23
+
+[<sup>2</sup> Ceux qui contreviennent délibérément aux dispositions de la présente loi ou à ses arrêtés d'exécution, sont punis d'une peine de niveau 3. Par dérogation à l'article 52, § 1er, alinéa 2, du Code pénal, l'amende s'élève à 200.000 euros au plus.]<sup>2</sup>
+
+Seront punis des mêmes peines ceux qui, [<sup>2</sup> délibérément]<sup>2</sup>, auront fait des déclarations inexactes en vue d'obtenir les agréments, autorisations ou permis visés par la présente loi ou les arrêtés pris pour son exécution, ainsi que ceux qui auront fait usage de ces déclarations.
+
+[<sup>2</sup> Lors du choix de la peine ou de la mesure et de la sévérité de celle-ci pour les infractions visées à l'alinéa 1er, le juge prend en considération le fait qu'elles sont commises par une personne agréée conformément à l'article 5 ou qu'elles sont commises à l'égard d'un mineur.]<sup>2</sup>
+
+[<sup>1</sup> [<sup>2</sup> Par dérogation aux alinéas 1er à 3, les personnes non agréées conformément à l'article 5 qui contreviennent aux articles 12/1, alinéa 1er, 4°, et 35, 1°, de la présente loi ou de leurs arrêtés d'exécution, sont punies d'une peine de niveau 1, où par dérogation aux articles 36, alinéa 9, 1° et 38, alinéa 9, 1°, du Code pénal, l'amende est de maximum 800 euros. L'amende pourra être appliquée autant de fois qu'il y a d'armes concernées. Si les faits ont été commis avec malveillance, la peine d'amende est portée à une amende de maximum 2.400 euros, par dérogation aux articles 36, alinéa 9, 1°, et 38, alinéa 9, 1°, du Code pénal.]<sup>2</sup>
+
+La tentative de commettre l'infraction visée à l'alinéa 1er est punie [<sup>2</sup> d'une peine de niveau 2, où par dérogation à l'article 52, § 1er, alinéa 2, 7°, du Code pénal, l'amende s'élève à 120.000 euros au plus. La tentative de commettre les infractions visées à l'alinéa 2 n'est pas punissable]<sup>2</sup>]<sup>1</sup>.
+
+[<sup>1</sup> Dans le cas d'une infraction visée aux alinéas 1er à 3, à l'alinéa 4, troisième phrase, ou à l'alinéa 5, et sans préjudice]<sup>1</sup> de l'application de l'article 8, alinéa 2, la confiscation est prononcée conformément à [<sup>2</sup> l'article 53, § 2, alinéa 1er,]<sup>2</sup> du Code pénal. Toutefois, [<sup>1</sup> dans le cas d'une infraction visée à l'alinéa 4, troisième phrase ou d'une infraction]<sup>1</sup> aux dispositions réglementaires prises en vertu de l'article 35, 7°, le juge peut ne pas la prononcer.
+
+[<sup>2</sup> Par dérogation à l'alinéa 1er, les infractions à l'article 5, § 1er, alinéa 1er, sont punies d'une peine de niveau 4.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 19, 013; En vigueur : 22-01-2018&gt;
+
+(2)&lt;L 2026-03-16/13, art. 21, 022; En vigueur : 01-09-2026&gt;
+
+### Art. 24
+
+Les armes confisquées en vertu [<sup>1</sup> de l'article 53, § 2, alinéa 1er]<sup>1</sup> du Code pénal seront remises au directeur du banc d'épreuves ou à son délégué pour être détruites. Les frais afférents à la conservation, au transport des armes jusqu'à leur lieu de destruction et à la destruction de celles-ci sont à la charge de la personne condamnée.
+
+Moyennant l'accord du ministre ayant la Justice dans ses attributions, le directeur du banc d'épreuves peut décider pour des raisons historiques, scientifiques ou didactiques, de ne pas faire détruire les armes à feu confisquées. (Dans ce cas, les armes rejoignent la collection d'un musée public, d'un établissement scientifique ou d'un service de police désigné par le ministre.) &lt;L 2008-07-25/37, art. 16, 007; En vigueur : 01-09-2008&gt;
+
+----------
+
+(1)&lt;L 2026-03-16/13, art. 22, 022; En vigueur : 01-09-2026&gt;
+
+### Art. 25
+
+En cas de récidive, les personnes agréées conformément à l'article 5 pourront être condamnées à la fermeture temporaire ou définitive de leur entreprise [<sup>1</sup> conformément à l'article 59 du Code pénal]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-03-16/13, art. 23, 022; En vigueur : 01-09-2026&gt;
+
+### Art. 26
+
+&lt;Abrogé par L 2026-03-16/13, art. 24, 022; En vigueur : 01-09-2026&gt;
+
+## CHAPITRE XIII. - Dispositions dérogatoires.
+
+### Art. 27
+
+§ 1er. Les dispositions de la présente loi ne s'appliquent pas aux commandes d'armes [<sup>1</sup> ,de munitions ou de chargeurs]<sup>1</sup> pour l'Etat ou les administrations publiques et les musées de droit public, ni à l'importation, à l'exportation et au transit d'armes, de munitions et de matériel devant servir spécialement à un usage militaire ou de maintien de l'ordre et de la technologie y afférente ainsi que des produits et des technologies à double usage.
+
+Elles ne s'appliquent pas non plus aux agents de l'autorité ou de la force publique qui portent en service ou détiennent, pour le service, une arme faisant partie de leur équipement réglementaire.
+
+Les services de l'autorité ou de la force publique dont font partie ces agents sont déterminés par le Roi, par arrêté délibéré en Conseil des Ministres.
+
+[<sup>2</sup> Des armuriers ne peuvent acquérir, détenir et céder au sens du présent paragraphe les armes et accessoires visés à l'article 3, § 1er, que s'ils sont agréés à cet effet. Ces armes à feu et accessoires doivent correspondre à des commandes spécifiques ou servir à la prospection dans une quantité limitée que le Roi peut déterminer.]<sup>2</sup>
+
+§ 2. (Par dérogation au § 1er, l'utilisation, le stockage, la vente, l'acquisition et la délivrance par l'Etat ou les administrations publiques, des armes visées à l'article 3, § 1er, 1°, 4° et 18°, sont interdits.) &lt;L 2007-05-11/48, art. 3, 005; En vigueur : 20-06-2009&gt;
+
+L'interdiction qui précède ne concerne pas l'utilisation, le stockage, l'acquisition ou la délivrance de ces armes aux fins de contribuer à la formation ou d'entretenir les connaissances de spécialistes et de militaires participant à des opérations de minimisation des risques en zones minées, de déminage, ou de destruction effective de ces armes.
+
+Dans les trois ans de la publication de la présente loi au Moniteur belge, l'Etat et les administrations publiques détruisent le stock existant de sous-munitions ou de dispositifs de même nature.
+
+(Dans les trois ans de la publication au Moniteur belge de la loi du 11 mai 2007 complétant la loi sur les armes, en ce qui concerne l'interdiction des systèmes d'armement à l'uranium appauvri, l'Etat et les administrations publiques détruisent le stock existant de munitions inertes et de blindages contenant de l'uranium appauvri ou tout autre type d'uranium industriel.) &lt;L 2007-05-11/48, art. 3, 005; En vigueur : 20-06-2009&gt;
+
+§ 3. Les armes et accessoires visés à l'article 3, § 1er, 3° ([<sup>2</sup> , 15°, 19° et 20°]<sup>2</sup>), peuvent être fabriquées, réparées, vendues, importées, mises en dépôt et transportées par des fabricants d'armes agréés, titulaires des licences des armes concernées, à l'exclusion des intermédiaires. &lt;L 2006-07-20/39, art. 39, 002; En vigueur : 09-06-2006&gt;
+
+[<sup>2</sup> Les collectionneurs et musées agréés peuvent les acquérir et détenir à condition qu'elles soient définitivement neutralisées. Les chargeurs visés à l'article 3, § 1er, 3°, ne doivent pas être neutralisés.
+
+Les armes à feu automatiques et les armes visées à l'article 3, § 1er, 19° et 20°, en état original peuvent cependant être acquises et détenues par les collectionneurs et musées agréés, qui doivent, s'il s'agit d'armes automatiques, en retirer le percuteur et les conserver dans les conditions déterminées par le Roi. En ce qui concerne les collectionneurs agréés, ceci n'est autorisé qu'exceptionnellement, dans des cas particuliers spéciaux et dûment motivés, après avoir apporté au gouverneur la preuve que des mesures sont en place pour parer à tous les risques pour la sécurité publique ou l'ordre public.]<sup>2</sup>
+
+[<sup>2</sup> Les armes à feu automatiques, les chargeurs convenant exclusivement pour ces armes, ainsi que les armes visées à l'article 3, § 1er, 19° et 20°, peuvent être acquis, détenus et cédés par des armuriers agréés à cet effet dans le cadre de commandes pour des collectionneurs et musées agréés. Les armes visées à l'article 3, § 1er, 19°, peuvent être acquises, détenues et cédées par des armuriers agréés à cet effet dans le cadre de commandes pour des tireurs sportifs qui satisfont aux conditions prévues à l'alinéa 4. Les armes à feu détenues doivent correspondre à des commandes spécifiques ou servir à la prospection dans une quantité limitée que le Roi peut déterminer.
+
+Les armes visées à l'article 3, § 1er, 19°, peuvent être acquises, détenues et cédées par des titulaires d'une licence de tireur sportif qui :
+
+1° apportent la preuve qu'ils s'entraînent activement pour ou participent à des compétitions de tir reconnues par une organisation de tir sportif officiellement reconnue en Belgique ou par une fédération de tir sportif internationale officiellement reconnue; et
+
+2° peuvent présenter un certificat émanant d'une organisation de tir sportif officiellement reconnue en Belgique, confirmant que :
+
+i) le tireur sportif est membre d'un club de tir et y a pratiqué régulièrement le tir sportif depuis au moins douze mois; et
+
+ii) l'arme à feu concernée remplit les spécifications requises pour la pratique d'une discipline de tir sportif reconnue par une fédération de tir sportif internationale officiellement reconnue.]<sup>2</sup>
+
+(§ 4. Les armes visées à l'article 3, § 1er, 5°, 6°, 7°, 12°, 13° et 14°, peuvent être détenues, acquises et importées par des collectionneurs agréés, à condition de les conserver comme des armes à feu conformément aux dispositions réglementaires en la matière. Un agrément de collectionneur portant exclusivement sur ces armes peut être obtenu conformément à l'article 6, § 1er, afin qu'elles soient assimilées à des armes à feu.) &lt;L 2008-07-25/37, art. 17, 007; En vigueur : 01-09-2008&gt;
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 20, 013; En vigueur : 22-01-2018&gt;
+
+(2)&lt;L 2019-05-05/10, art. 159, 014; En vigueur : 03-06-2019, sauf application des dispositions transitoires des art. 193 à 199&gt;
+
+## CHAPITRE XIV. - Le contrôle du respect de la loi.
+
+### Art. 28
+
+§ 1er. En cas de danger pour l'ordre public ou pour l'intégrité physique des personnes, qu'ils doivent démontrer concrètement, le bourgmestre ou le gouverneur peuvent ordonner la fermeture ou l'évacuation de magasins ou [<sup>1</sup> dépôts]<sup>1</sup> d'armes [<sup>1</sup> , de munitions ou de chargeurs et leur transfert]<sup>1</sup> en un lieu indiqué par eux.
+
+L'Etat indemnise le propriétaire des armes [<sup>1</sup> , munitions et chargeurs évacués]<sup>1</sup> dans le cas où elles n'auraient pu lui être restituées ou auraient été détériorées.
+
+§ 2. En cas de danger pour l'ordre public ou pour l'intégrité physique des personnes, qu'ils doivent démontrer concrètement, les officiers de police judiciaire et les officiers de police administrative peuvent en outre procéder à une saisie (...) des armes [<sup>1</sup> , munitions et chargeurs ainsi que les agréments]<sup>1</sup>, permis et autorisations mentionnés dans la présente loi. Un récépissé doit être délivré et les droits des tiers doivent être garantis. &lt;L 2008-07-25/37, art. 18, 1°, 007; En vigueur : 01-09-2008&gt;
+
+Ils exercent cette compétence dans l'attente d'une décision de retrait, de suspension ou de limitation à ce sujet par le gouverneur territorialement compétent, qui reçoit sans délai de leur part les informations nécessaires à cette fin. Le gouverneur prend sa décision (dans les [<sup>1</sup> quatre mois]<sup>1</sup>) de la délivrance du récépissé, à défaut de quoi les objets saisis sont libérés et les agréments, permis et autorisations restitués, sans préjudice de toute saisie judiciaire. &lt;L 2008-07-25/37, art. 18, 2°, 007; En vigueur : 01-09-2008&gt;
+
+(La saisie et la décision du gouverneur peuvent se rapporter également à des armes à feu en vente libre tirant des projectiles.) &lt;L 2008-07-25/37, art. 18, 3°, 007; En vigueur : 01-09-2008&gt;
+
+§ 3. Les autorités compétentes pour l'application de la présente loi s'envoient sans délai toutes les informations dont elles disposent, qui sont nécessaires ou utiles dans le cadre de l'exercice de leurs compétences respectives et qui ne sont pas protégées par le secret en vertu de dispositions légales spéciales.
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 21, 013; En vigueur : 22-01-2018&gt;
+
+### Art. 29
+
+§ 1er. Les infractions à la présente loi et à ses arrêtes d'exécution sont recherchées et constatées par :
+
+1° les membres de la police fédérale, de la police locale et des douanes;
+
+2° le directeur du banc d'épreuves des armes à feu et les personnes désignées par le ministre ayant l'Economie dans ses attributions;
+
+3° les inspecteurs et contrôleurs des explosifs et les agents de l'administration de l'Inspection économique.
+
+Ils peuvent, pour l'accomplissement de leur mission [<sup>1</sup> ...]<sup>1</sup>, se faire produire tous documents, pièces, registres, livres et objets se trouvant dans ces lieux ou qui sont relatifs à leurs activités.
+
+(NOTE : art. 29, § 1er, alinéa 2, 1°, annulé par l'arrêt de la Cour constitutionnelle n° 154/2007 du 19-12-2007; voir M.B. 23-01-2008, p. 3612)
+
+§ 2. A la requête du gouverneur ou de propre initiative, et en respectant l'inviolabilité du domicile privé, les officiers de police judiciaire contrôlent régulièrement à titre préventif les activités exercées par les personnes agréées et la détention effective d'armes à feu par des particuliers ayant une autorisation à cette fin, ou, conformément à l'article 12, y ayant droit, ainsi que les circonstances dans lesquelles cette détention se déroule.
+
+La police (fédérale) est chargée en particulier du contrôle des armuriers et des fabricants d'armes. &lt;L 2008-07-25/37, art. 19, 007; En vigueur : 01-09-2008&gt;
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 22, 013; En vigueur : 22-01-2018&gt;
+
+## CHAPITRE XV. - Dispositions diverses.
+
+### Art. 30
+
+Un recours est ouvert auprès du ministre de la Justice ou de son délégué en cas d'absence de décision du gouverneur dans les délais visés à l'article 31 ou contre les décisions du gouverneur refusant, limitant, suspendant ou retirant un agrément, une autorisation, un permis ou un droit, à l'exception des décisions concernant des demandes irrecevables.
+
+Sous peine d'irrecevabilité, la requête motivée est adressée sous pli recommandé au service fédéral des armes, au plus tard quinze jours après avoir constaté l'absence de décision dans les délais visés à l'article 31 ou après avoir eu connaissance de la décision du gouverneur [<sup>1</sup> ...]<sup>1</sup> accompagnée d'une copie de la décision attaquée. La décision est rendue dans les six mois de la réception de la requête.
+
+[<sup>2</sup> Si le requérant n'a pas joint une copie de la décision attaquée à la requête, le service fédéral des armes lui demande de joindre une copie dans un délai de quinze jours à partir de la notification de l'absence de celle-ci. A défaut de cette copie dans le délai imparti, le recours est déclaré irrecevable.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2019-05-05/10, art. 160, 014; En vigueur : 03-06-2019, sauf application des dispositions transitoires des art. 193 à 199&gt;
+
+(2)&lt;L 2024-05-15/03, art. 112, 019; En vigueur : 07-06-2024&gt;
+
+### Art. 31
+
+Le gouverneur se prononce :
+
+1° sur les demandes d'agrément conformément aux articles 5, 6, 20 et 21, dans les quatre mois de la réception de celles-ci;
+
+2° sur les demandes d'autorisation ou de permis conformément aux articles 11, 14 et 17, dans les quatre mois de la réception de celles-ci. (La prolongation ne peut être accordée qu'une seule fois par demande et sa durée ne peut excéder six mois;) &lt;L 2008-07-25/37, art. 20, 007; En vigueur : 01-09-2008&gt;
+
+[<sup>1</sup> 3° sur la manière dont la destruction des armes à feu, abandonnées volontairement et sans frais par les citoyens dans un commissariat de police doit être effectuée, dans le mois de la réception de la demande de destruction qui lui est adressée par la zone de police auprès de laquelle l'arme a été abandonnée. Dans ce cas, la police peut être chargée par le gouverneur de veiller au respect de la qualité et de la sécurité de la destruction.]<sup>1</sup>
+
+Sous peine de nullité, les délais prescrits par la présente loi, dans lesquels le gouverneur ou le ministre de la Justice sont tenus de prendre une décision, ne peuvent être prolongés que par décision motivée.
+
+----------
+
+(1)&lt;L 2024-04-18/08, art. 30, 018; En vigueur : 12-05-2024&gt;
+
+### Art. 32
+
+&lt;L 2008-07-25/37, art. 21, 007; En vigueur : 01-09-2008&gt; Les agréments et autorisations visés par la présente loi, à l'exception du permis de port d'armes, sont délivrés pour une durée indéterminée, sauf si la demande n'a été faite que pour une durée déterminée ou si le gouverneur ou le Ministre de la Justice impose une durée de validité limitée pour des motifs de préservation de l'ordre public.
+
+Une fois tous les cinq ans, le gouverneur prend l'initiative de vérifier si tous les titulaires d'agréments et d'autorisations visés par la présente loi, à l'exception des permis de port d'armes, respectent la loi et satisfont encore aux conditions pour la délivrance de ces autorisations et agréments.
+
+A cette fin, le gouverneur demande l'avis de la police locale et éventuellement du Ministère public et les titulaires d'autorisations et d'agréments doivent déclarer ou peuvent faire certifier qu'ils répondent encore aux conditions prévues par l'article 11, § 3,[<sup>1</sup> 2° à 6°]<sup>1</sup>, 8° et 9°, ou par l'article 11/1 [<sup>2</sup> ou par l'article 27, § 3, alinéa 4]<sup>2</sup>, entre autres, sur la base desquelles l'agrément ou l'autorisation a été précédemment délivré et qu'il n'existe aucune raison de décider d'une limitation, d'une suspension ou d'un retrait de ces documents.
+
+S'il apparaît que la détention de l'arme peut porter atteinte à l'intégrité physique de personnes ou que le motif légitime invoqué pour obtenir l'autorisation n'existe plus, le gouverneur compétent pour la résidence de l'intéressé peut limiter, suspendre ou retirer l'autorisation par décision motivée selon une procédure déterminée par le Roi et après avoir pris l'avis du procureur du Roi compétent pour cette résidence.
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 23, 013; En vigueur : 22-01-2018&gt;
+
+(2)&lt;L 2019-05-05/10, art. 161, 014; En vigueur : 03-06-2019, sauf application des dispositions transitoires des art. 193 à 199&gt;
+
+### Art. 33
+
+Les dispositions concernant les armes à feu s'appliquent également aux pièces détachées soumises à l'épreuve légale, ainsi qu'aux accessoires qui, montés sur une arme à feu, ont pour effet de modifier la catégorie à laquelle l'arme est réputée appartenir.
+
+### Art. 34
+
+[<sup>1</sup> Après avis du Conseil consultatif des armes, le Roi peut étendre l'application des dispositions des articles 5 à 7 et 19, 2° et 5°, en tout ou en partie aux armes autres que les armes à feu.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 24, 013; En vigueur : 22-01-2018&gt;
+
+### Art. 35
+
+Le Roi : 1° détermine les conditions de sécurité auxquelles sont soumis le stockage, le transport, la détention et la collection d'armes [<sup>1</sup> , de munitions ou de chargeurs]<sup>1</sup>;
+
+2° détermine, par arrêté délibéré en Conseil des Ministres, les conditions de délivrance et la forme des documents prévus par la présente loi;
+
+3° règle le numerotage des armes à feu et des pièces d'armes à feu soumises à l'épreuve, en vue de leur traçabilité et en tenant compte des garanties en la matière qui pourraient déjà être fournies dans d'autres Etats membres de l'Union européenne pour des armes importées;
+
+4° établit un code déontologique, dans lequel sont précisées notamment les obligations d'information à l'égard du client, pour les armuriers agréés;
+
+5° détermine les conditions dans lesquelles les armes peuvent, volontairement ou après une décision du juge, être détruites et les certificats de destruction des armes délivrés;
+
+6° détermine, par arrêté délibéré en Conseil des Ministres, les conditions et les modalités d'encodage des armes par les personnes agréées et au Registre central des armes, ainsi que de la délivrance de la carte européenne d'armes à feu;
+
+7° arrête les mesures destinées à assurer la constatation des acquisitions, des ventes, des cessions d'armes à feu [<sup>1</sup> , de munitions et de chargeurs]<sup>1</sup>, ainsi que de la détention d'armes à feu;
+
+8° détermine la procédure visée a l'article 28, § 2, relative à la saisie administrative provisoire des armes, munitions, [<sup>1</sup> chargeurs,]<sup>1</sup> agréments, permis et autorisations.
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 25, 013; En vigueur : 22-01-2018&gt;
+
+## CHAPITRE XVI. - (Le Service fédéral des armes et le Conseil consultatif des armes) &lt;L 2008-07-25/37, art. 23, 007; En vigueur : 01-09-2008&gt;
+
+### Art. 36
+
+Il est créé auprès du ministre de la Justice un service fédéral des armes, qui :
+
+1° lui donne des avis concernant les directives qu'il donne, en concertation avec le ministre de l'Intérieur, aux gouverneurs dans le cadre de l'exercice de leurs compétences en vertu de la présente loi;
+
+2° s'occupe de l'organisation de l'examen d'aptitude professionnelle pour les armuriers, de l'élaboration concrète des épreuves théorique et pratique à imposer par les gouverneurs en vertu de la présente loi et de l'élaboration de la liste des médecins reconnus visée à l'article 14, alinéa 1er;
+
+3° se concerte avec les différents secteurs et autorités concernés et lui fait des propositions en matière d'arrêtés et de mesures à prendre en exécution de la présente loi.
+
+Le Roi fixe la composition et le mode de fonctionnement du service fédéral des armes et les conditions dans lesquelles il a accès au registre central des armes.
+
+### Art. 37
+
+Un Conseil consultatif des armes est creé au sein [<sup>1</sup> duquel]<sup>1</sup> les secteurs et les autorités concernés sont représentés. Le Roi, par arrêté délibéré en Conseil des ministres, fixe le mode de fonctionnement de ce Conseil consultatif.
+
+Le ministre de la Justice peut consulter le Conseil sur toute modification qu'il est envisagé d'apporter à la présente loi, ainsi que sur tout projet d'arrêté d'exécution de celle-ci. [<sup>2</sup> La consultation du Conseil est requise]<sup>2</sup> sur les projets d'arrêtés pris en exécution des points suivants de l'article 35 : le 1°, (...) le 3°, le 4°, le 6° et le 7°. &lt;L 2008-07-25/37, art. 24, 1°, 007; En vigueur : 01-09-2008&gt;
+
+[<sup>1</sup> Le Conseil est composé comme suit:]<sup>1</sup>
+
+\- un représentant du service fédéral des armes en tant que président;
+
+[<sup>1</sup> - un magistrat francophone et un magistrat néerlandophone du ministère public;]<sup>1</sup>
+
+\- un représentant du [<sup>1</sup> Banc d'épreuves]<sup>1</sup>;
+
+\- un représentant du registre central des armes;
+
+\- un représentant francophone et un représentant néerlandophone d'associations représentatives de l'armurerie;
+
+\- un représentant francophone et un représentant néerlandophone des musées d'armes;
+
+\- deux représentants d'associations de fabricants d'armes;
+
+\- un représentant francophone et un représentant néerlandophone des collectionneurs;
+
+\- un représentant des fédérations de tir francophone;
+
+\- un représentant des fédérations de tir néerlandophone;
+
+(- un représentant des fédérations de tir germanophone;) &lt;L 2008-07-25/37, art. 24, 2°, 007; En vigueur : 01-09-2008&gt;
+
+\- [<sup>1</sup> un représentant des associations wallonnes de chasseurs]<sup>1</sup>;
+
+\- [<sup>1</sup> un représentant des associations flamandes de chasseurs]<sup>1</sup>;
+
+\- un représentant de la police fédérale;
+
+\- un représentant de la police locale;
+
+\- un représentant francophone et un représentant néerlandophone des gouverneurs;
+
+\- un représentant francophone et un représentant néerlandophone d'associations et d'organisations indépendantes démontrant une expérience effective de la gestion et de la prévention des problèmes poses par la détention et l'utilisation des armes légères.
+
+[<sup>1</sup> Le ministre de la Justice nomme les membres du Conseil pour un mandat renouvelable de cinq ans, sur proposition des associations, instances et ministres concernés. Pour chaque membre effectif, un membre suppléant est nommé. En cas de démission ou décès d'un membre, ou sur proposition de son mandant, le ministre de la Justice nomme un remplaçant qui achève le mandat. Le Conseil se réunit au moins une fois par an. Le service fédéral des armes assure le secrétariat du Conseil.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 26, 013; En vigueur : 22-01-2018&gt;
+
+(2)&lt;L 2019-05-05/10, art. 162, 014; En vigueur : 03-06-2019, sauf application des dispositions transitoires des art. 193 à 199&gt;
+
+## CHAPITRE XVII. - Dispositions modificatives.
+
+### Art. 38
+
+L'article 31, 6°, du Code pénal est remplacé comme suit :
+
+" 6° de fabriquer, de modifier, de réparer, de céder, de détenir, de porter, de transporter, d'importer, d'exporter ou de faire transiter une arme ou des munitions, ou de servir dans les Forces armées. "
+
+### Art. 39
+
+Aux articles 198, 199 et 202, alinéa 1er, du Code pénal, les mots " un port d'armes " sont remplacés par les mots " un document visé par la loi sur les armes ".
+
+### Art. 40
+
+L'article 14 de la loi du 24 mai 1888 portant réglementation de la situation du banc d'épreuves des armes à feu établi à Liège est remplacé par la disposition suivante :
+
+" Les ministres des Affaires économiques et de la Justice prescriront les mesures de contrôle et de surveillance nécessaires ".
+
+### Art. 41
+
+L'article 8, § 2, alinéas 1er et 2, de la loi du 10 avril 1990 réglant la sécurité privée et particulière est remplacé comme suit :
+
+Par dérogation aux articles 11, 13 et 14 de la loi sur les armes, les autorisations de stockage, de détention et de port d'armes dans le chef des entreprises, services et personnes visées dans la présente loi, sont accordées, limitées, suspendues ou retirées par le ministre de l'Intérieur dans les conditions fixées par la présente loi, ainsi que selon les conditions supplémentaires déterminées par le Roi et selon une procédure qu'il détermine.
+
+Sous réserve des dispositions visées à l'article 29 de la loi sur les armes, les infractions commises par les entreprises, services et personnes visés dans la présente loi à et en exécution de la disposition, visée à l'alinéa précédent, sont recherchées et constatées par les personnes visées à l'article 16 de la présente loi.
+
+### Art. 42
+
+A l'article 13.5 de la loi du 10 avril 1990 réglant la sécurité privée et particulière, les mots " par dérogation à l'article 4, alinéa premier de la loi du 3 janvier 1933 relative à la fabrication, au commerce et au port des armes et au commerce des munitions " sont remplacés par les mots " par dérogation à l'(article 3, § 1er, 10°), de la loi sur les armes ". &lt;L 2006-07-20/39, art. 40, 002; En vigueur : 09-06-2006&gt;
+
+### Art. 43
+
+L'article 1erbis de la loi du 29 juillet 1934 interdisant les milices privées est remplacé comme suit :
+
+" Sont aussi interdites :
+
+1° les exhibitions en public de particuliers en groupe qui, soit par les exercices auxquels ils se livrent, soit par l'uniforme ou les pièces d'équipement qu'ils portent, ont l'apparence de troupes militaires;
+
+2° la tenue de ou la participation à des exercices collectifs, avec ou sans armes, destinés à apprendre l'utilisation de la violence à des particuliers.
+
+La disposition visée a l'alinéa 1er n'est pas applicable aux exercices qui sont exclusivement exécutés dans le cadre d'un sport reconnu par les Communautés, ni aux organismes de formation agréés à cet effet dans le cadre de la loi réglementant la sécurité privée et particulière.
+
+La disposition visée à l'alinéa 1er, 1°, ne s'applique pas aux groupes qui poursuivent exclusivement un but charitable. "
+
+## CHAPITRE XVIII. - Dispositions transitoires.
+
+### Art. 44
+
+§ 1er. Quiconque, à la date d'entrée en vigueur de la présente loi, détient sans titre une arme ou des munitions qui, conformément à la loi du 3 janvier 1933 relative à la fabrication, au commerce et au port des armes et au commerce des munitions requérait une autorisation de détention d'arme de défense ou d'arme de guerre, pourra, (au plus tard le 31 octobre 2008) et selon une procédure à déterminer par le Roi, demander l'autorisation nécessaire sans pouvoir être poursuivi pour [<sup>1</sup> cette infraction]<sup>1</sup>, pour autant que l'arme concernée ne soit pas recherchée ou signalée. &lt;L 2007-11-23/44, art. 2, 1°, 006; En vigueur : 30-06-2007&gt;
+
+(Dans l'attente de la décision de délivrer ou non l'autorisation conformément aux dispositions de la présente loi, la demande d'autorisation vaut autorisation provisoire.) &lt;L 2008-07-25/37, art. 25, 1°, 007; En vigueur : 01-09-2008&gt;
+
+§ 2. Quiconque, à la date d'entrée en vigueur de la présente loi, détient une arme à feu devenue soumise à autorisation en vertu de la présente loi, doit, par le biais de la police locale, en faire la déclaration auprès du gouverneur compétent pour sa résidence (au plus tard le 31 octobre 2008). Si l'intéressé est titulaire d'un permis de chasse ou d'une licence de tireur sportif, l'arme est automatiquement enregistrée à son nom. Si tel n'est pas le cas, une autorisation lui est délivrée à condition qu'il soit majeur et qu'il n'ait pas encouru de condamnations visées à l'article 5, § 4. (Il ne peut en outre exister aucun motif d'ordre public qui donnerait lieu au retrait de l'autorisation.) &lt;L 2007-11-23/44, art. 2, 2°, 006; En vigueur : 30-06-2007&gt;&lt;L 2008-07-25/37, art. 25, 2°, 007; En vigueur : 01-09-2008&gt;
+
+(Dans l'attente de la décision de délivrer ou non l'autorisation conformément aux dispositions de la présente loi, la demande d'autorisation vaut autorisation provisoire.) &lt;L 2008-07-25/37, art. 25, 3°, 007; En vigueur : 01-09-2008&gt;
+
+Si l'arme à feu désormais soumise à autorisation a été acquise après le 1er janvier 2006, l'autorisation est délivrée à titre provisoire pour une période d'un an.
+
+----------
+
+(1)&lt;L 2026-03-16/13, art. 25, 022; En vigueur : 01-09-2026&gt;
+
+### Art. 45
+
+§ 1er. Quiconque, à la date d'entrée en vigueur de la présente loi, possédera une arme prohibée ou une arme ou des munitions visées à l'article 44, § 1er, pourra (au plus tard le 31 octobre 2008) en faire abandon auprès du service de police locale de son choix sous couvert de l'anonymat et sans s'exposer à des poursuites sur base de la présente loi, pour autant que l'arme concernée ne soit pas recherchée ou signalée. Le Roi règle cette procédure ainsi que le dépôt et la destruction de ces armes. &lt;L 2007-11-23/44, art. 3, 1°, 006; En vigueur : 30-06-2007&gt;
+
+§ 2. Les particuliers détenant une arme à feu automatique à la date d'entrée en vigueur de la présente loi, sont tenues, (au plus tard le 31 octobre 2008), soit de faire transformer de manière irréversible cette arme en arme semi-automatique ou de la faire neutraliser par le banc d'épreuves des armes à feu, soit de la céder à un armurier agréé, un collectionneur agréé, un intermédiaire agréé ou une personne agréé visée à l'article 6, § 2, soit d'en faire abandon auprès de la police locale de leur résidence. &lt;L 2007-11-23/44, art. 3, 2°, 006; En vigueur : 30-06-2007&gt;
+
+§ 3. Les personnes qui, à la date d'entrée en vigueur de la présente loi, sont titulaires d'une autorisation de détention d'une arme devenue prohibée en vertu de la présente loi, sont tenues, (au plus tard le 31 octobre 2008), soit de la faire transformer en arme non-prohibée ou de la faire neutraliser par le banc d'épreuves des armes a feu, soit de la céder à une personne autorisée à la détenir, soit d'en faire abandon auprès de la police locale de leur résidence contre une juste indemnité à établir par le ministre de la Justice. &lt;L 2007-11-23/44, art. 3, 3°, 006; En vigueur : 30-06-2007&gt;
+
+### Art. 45/1
+
+[<sup>1</sup> § 1er. Quiconque détient sans l'agrément ou l'autorisation requis une arme soumise à autorisation, un chargeur ou des munitions doit, au plus tard le 31 décembre 2018 en faire la déclaration à la police locale:
+
+\- soit en vue de demander l'agrément visé à l'article 6, l'autorisation visée à l'article 11 ou l'enregistrement visé à l'article 12, alinéa 3, auprès du gouverneur compétent pour sa résidence;
+
+\- soit en vue de faire neutraliser l'arme ou le chargeur à ses frais par le Banc d'épreuves des armes à feu;
+
+\- soit en vue de céder l'arme, le chargeur ou les munitions à une personne autorisée à les détenir ou agréée à cette fin,
+
+\- soit en vue d'en faire abandon.
+
+Les déclarations faites après le 31 décembre 2018 en vue de demander l'agrément visé à l'article 6, l'autorisation visée à l'article 11 ou l'enregistrement visé à l'article 12, alinéa 3, entraînent l'irrecevabilité de cette demande.
+
+§ 2. Dans l'attente de la décision du gouverneur, la demande d'agrément visé à l'article 6 ou d'autorisation visée à l'article 11 peut valoir agrément ou autorisation provisoire selon les modalités déterminées par le Roi. En cas contraire, l'arme, les chargeurs et les munitions doivent être déposés auprès de la police locale ou d'une personne autorisée à les détenir ou agréée à cette fin, du jour de sa déclaration jusqu'à l'obtention de l'agrément ou l'autorisation demandé ou jusqu'à l'application de l'alinéa 2.
+
+En cas de refus de l'agrément visé à l'article 6 ou de l'autorisation visée à l'article 11, l'intéressé est tenu, dans les trois mois à compter du jour où cette décision sera devenue définitive, soit de faire neutraliser l'arme et les chargeurs à ses frais par le Banc d'épreuves des armes à feu, soit de céder l'arme, les chargeurs et les munitions à une personne autorisée à les détenir, soit d'en faire abandon auprès de la police locale de sa résidence.
+
+§ 3. Lorsque l'intéressé déclare l'arme, le chargeur ou les munitions à la police locale en vue de l'application du paragraphe 1er, il lui est remis un récépissé de déclaration. Ce récépissé de déclaration est daté et signé par les deux parties ou leurs délégués et mentionne l'arme, le chargeur ou les munitions concernés ainsi que le choix pour une des possibilités prévues au paragraphe 1er, alinéa 1er.
+
+§ 4. Celui qui applique le paragraphe 1er ne peut être poursuivi du chef du défaut de l'autorisation en question:
+
+1° soit si ce fait n'a pas donné lieu jusqu'au moment de la déclaration à un procès-verbal ou un acte d'investigation spécifiques émanant d'un service de police ou d'une autorité judiciaire; ou
+
+2° si l'arme avait été enregistrée à son nom au Registre Central des armes avant l'entrée en vigueur de la présente loi.
+
+§ 5. Lorsqu'ils concernent des dossiers introduits durant la période visée au paragraphe 1er, les délais indiqués ci-après sont prolongés comme suit:
+
+1° le délai visé à l'article 11, § 1er, alinéa 1er, est porté à quatre mois au lieu de trois mois;
+
+2° le délai visé à l'article 31, 2°, est port é à cinq mois au lieu de quatre mois.
+
+§ 6. Le Roi peut déterminer la procédure et les modalités d'application de cet article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-01-07/01, art. 27, 013; En vigueur : 01-03-2018&gt;
+
+### Art. 45/2
+
+[<sup>1</sup> Les personnes qui ont légalement acquis et enregistré avant le 13 juin 2017 une arme visée à l'article 3, § 1, 19° et 20°, soit sur autorisation, soit par enregistrement sur base d'un permis de chasse, un certificat de garde particulier ou une licence de tireur sportif, soit par enregistrement dans le registre d'une personne agréée, peuvent continuer à détenir cette arme, à condition que les autres conditions légales concernant la détention d'armes soient remplies. Cette arme ne peut être cédée qu'à des tireurs sportifs visés à l'article 27, § 3, alinéa 4, et à des armuriers, collectionneurs ou musées agréés à cet effet. L'arme à feu peut aussi être neutralisée conformément à l'article 3, § 2, 3°, ou peut faire l'objet d'un abandon.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 163, 014; En vigueur : 03-06-2019, sauf application des dispositions transitoires des art. 193 à 199&gt;
+
+## CHAPITRE XIX. - Dispositions finales.
+
+### Art. 46
+
+La présente loi sera aussi appelée la " Loi sur les armes ".
+
+### Art. 47
+
+La loi du 3 janvier 1933 relative à la fabrication, au commerce et au port des armes et au commerce des munitions, modifiée par les lois des 30 janvier et 5 août 1991, 9 mars 1995, 24 juin 1996, 18 juillet 1997, 10 janvier 1999 et 30 mars 2000, est abrogée (...). &lt;L 2008-07-25/37, art. 26, 007; En vigueur : 01-09-2008&gt;
+
+### Art. 48
+
+Les arrêtés d'exécution de la loi visée à l'article 47 restent en vigueur comme arrêtés d'exécution de la présente loi jusqu'à leur remplacement, à condition qu'ils ne soient pas en contradiction avec la présente loi.
+
+(Les autorisations de détention d'armes délivrées ou modifiées avec perception de droits et redevances en vertu de la loi visée à l'article 47, plus de cinq ans avant l'entrée en vigueur de la présente disposition, sont caduques si elles ne font pas l'objet d'une demande de renouvellement auprès de l'autorité compétente (au plus tard le 31 octobre 2008). &lt;L 2007-11-23/44, art. 4, 1°, 006; En vigueur : 30-06-2007&gt;
+
+Les agréments délivrés ou modifiés avec perception de droits et redevances en vertu de la loi visée à l'article 47, plus de cinq ans avant l'entrée en vigueur des articles 5 à 7, 20 et 21, sont caducs s'ils ne font pas l'objet d'une demande de renouvellement auprès de l'autorité compétente (au plus tard le (31 mars 2009)). &lt;L 2007-11-23/44, art. 4, 2°, 006; En vigueur : 30-06-2007&gt; &lt;L 2008-07-25/37, art. 27, 1°, 007; En vigueur : 01-09-2008&gt;
+
+(Alinéa 4 abrogé) &lt;L 2008-07-25/37, art. 27, 2°, 007; En vigueur : 01-09-2008&gt;
+
+L'article 31 ne s'applique pas aux renouvellements visés au présent article.) &lt;L 2007-01-09/44, art. 5, 003; En vigueur : 09-06-2006&gt;
+
+### Art. 49
+
+Le Roi, par arrêté délibéré en Conseil des Ministres, fixe la date de l'entrée en vigueur des articles 4 à 7, 14, 16 à 18, 20, 21, 25 et 30 à 32 de la présente loi. (Les articles qui ne sont pas encore entrés en vigueur au 1er juillet 2008 entrent en vigueur le 1er septembre 2008, à l'exception de l'article 4 qui entre en vigueur le 1er janvier 2010.) &lt;L 2008-07-25/37, art. 28, 007; En vigueur : 01-09-2008&gt;
+
+(NOTE : Entrée en vigueur des articles 6, 16, 17, 18, 30, 31 et 32 fixée au 09-01-2007 par AR 2006-12-29/30, art. 20;
+
+Il en est de même pour l'article 5, §§ 3 à 5 et l'article 7, mais uniquement pour autant que ces dispositions soient nécessaires pour l'application de son article 6)
+
+Tous les autres articles entrent en vigueur le jour le leur publication au Moniteur belge.
+
+## CHAPITRE XX. - (Redevances) &lt;L 2008-07-25/37, art. 29, 007; En vigueur : 01-09-2008&gt;
+
+### Art. 50
+
+&lt;Inséré par L 2006-12-27/30, art. 352; En vigueur : 28-12-2006&gt; En vue de la délivrance et du renouvellement (éventuel, visé à l'article 48, des agréments, les redevances à payer sont fixées) comme suit : &lt;L 2008-07-25/37, art. 30, 007; En vigueur : 01-09-2008&gt;
+
+1° s'ils concernent un agrément d'armurier ou d'intermédiaire : un montant de deux fois 300 euros;
+
+2° s'ils concernent uniquement la fabrication, le stockage, le commerce ou le courtage de munitions : un montant de deux fois 200 euros;
+
+3° s'ils concernent uniquement le bronzage, la gravure ou le garnissage d'armes soumises à autorisation ou d'armes en vente libre : un montant de deux fois 150 euros;
+
+4° s'ils concernent un agrément d'un musée ou d'une collection d'armes à feu soumises à autorisation et leurs munitions : un montant de deux fois 150 euros;
+
+5° s'ils concernent uniquement un musée ou une collection de munitions [<sup>1</sup> ou de chargeurs]<sup>1</sup> pour des armes à feu soumises à autorisation : un montant de deux fois [<sup>1</sup> 25]<sup>1</sup> euros;
+
+6° s'ils concernent un agrément en vue de l'exercice d'activités professionnelles de nature scientifique, culturelle ou non-commerciale avec des armes à feu : un montant de deux fois 150 euros;
+
+7° s'ils concernent un stand de tir : un montant de deux fois 300 euros;
+
+8° s'ils concernent uniquement le transport d'armes et de munitions : un montant de deux fois 200 euros;
+
+Le premier montant est à payer lors de l'introduction de la demande, l'autre montant lors de la délivrance du certificat d'agrément.
+
+----------
+
+(1)&lt;L 2018-01-07/01, art. 28, 013; En vigueur : 22-01-2018&gt;
+
+### Art. 50/1
+
+&lt;Inséré par L 2008-07-25/37, art. 31; En vigueur : 01-09-2008&gt; En vue de la rétribution des contrôles visés à l'article 32, les redevances à payer une fois tous les cinq ans, sont les montants visés aux articles 50 et 51.
+
+### Art. 51
+
+&lt;Inséré par L 2006-12-27/30, art. 353; En vigueur : 28-12-2006&gt; Sous réserve de l'article 17, les (...) redevances à payer lors de la demande et du renouvellement des autorisations et permis visés dans la loi sont (fixées) comme suit : &lt;L 2008-07-25/37, art. 32, a, 007; En vigueur : 01-09-2008&gt;
+
+1° (pour toutes les autorisations de détention d'une arme soumise à autorisation au nom de la même personne : un montant forfaitaire de 85 euros;) &lt;L 2008-07-25/37, art. 32, b, 007; En vigueur : 01-09-2008&gt;
+
+2° pour un permis de port d'arme : un montant de 90 euros.
+
+### Art. 52
+
+&lt;Inséré par L 2006-12-27/30, art. 354; En vigueur : 28-12-2006&gt; Les (...) redevances visés aux articles 50 et 51, 2°, sont payés par virement du montant dû sur le compte du service des armes du gouverneur compétent ou, en cas de recours auprès du ministre de la Justice, sur le compte du service fédéral des armes, lesquels verseront, après vérification, les montants perçus au Trésor. &lt;L 2008-07-25/37, art. 33, 007; En vigueur : 01-09-2008&gt;
+
+Les (...) redevances visés à l'article 51, 1°, sont payés par virement du montant dû sur le compte du service des armes du gouverneur compétent ou, en cas de recours auprès du ministre de la Justice, sur le compte du service fédéral des armes, lesquels verseront, après vérification, (55) euros des montants perçus au Trésor et (30) euros à l'administration communale du lieu de résidence du demandeur. &lt;L 2008-07-25/37, art. 33, 007; En vigueur : 01-09-2008&gt; &lt;L 2008-07-25/37, art. 34, 007; En vigueur : 01-09-2008&gt;
+
+Si l'autorisation est demandée par une personne qui réside à l'étranger, le paiement doit intervenir sur le compte de la Sûreté de l'Etat qui versera, après vérification, les montants perçus au Trésor.
+
+### Art. 53
+
+&lt;Inséré par L 2006-12-27/30, art. 355; En vigueur : 28-12-2006&gt; Le 9 décembre de chaque année, tous les montants énumérés aux articles 50, 51 et 52 sont adaptés à l'indice des prix à la consommation. Les nouveaux montants résultent de la formule suivante : montant de base multiplié par le nouvel indice et divisé par l'indice de départ. L'indice de départ est l'indice des prix à la consommation du mois de novembre 2006. Le nouvel indice est l'indice calculé et désigné à cet effet du mois de novembre qui précède l'adaptation.
+
+### Art. 54
+
+&lt;L 2006-12-27/30, art. 356, 000; En vigueur : 28-12-2006&gt; § 1er. Par dérogation au prescrit de l'article 51, 1°, les montants suivants sont d'application pour les demandes introduites au plus tard le 30 juin 2007 :
+
+1° 65 euros pour une autorisation;
+
+2° 85 euros pour deux autorisations;
+
+3° 95 euros pour trois autorisations;
+
+4° 105 euros pour quatre autorisations ou plus.
+
+Les (...) redevances vises à l'alinéa 1er sont payés par virement du montant dû sur le compte du service des armes du gouverneur compétent ou, en cas de recours auprès du ministre de la Justice, sur le compte du service fédéral des armes, lesquels verseront, après vérification, 25 euros des montants perçus à l'administration communale du lieu de résidence du demandeur, et le reste au Trésor. &lt;L 2008-07-25/37, art. 33, 007; En vigueur : 01-09-2008&gt;
+
+Si l'autorisation est demandée par une personne qui réside à l'étranger, le paiement doit intervenir sur le compte de la Sûreté de l'Etat qui versera, après vérification, les montants perçus au Trésor.
+
+### Art. 55
+
+&lt;Inséré par L 2006-12-27/30, art. 357; En vigueur : 28-12-2006&gt; Les montants visés à l'article 50 sont réduits de moitié lors de la demande et de la délivrance d'un agrément pour une activité faisant déjà l'objet d'un agrément dans une autre province.
+
+Les (...) redevances perçus ne sont pas restitués en cas d'irrecevabilité ou de rejet de la demande, et de suspension, de retrait ou de limitation de l'agrément ou de l'autorisation, ni en cas de cessation des activités faisant l'objet de l'agrément ou de l'autorisation. &lt;L 2008-07-25/37, art. 33, 007; En vigueur : 01-09-2008&gt;
+
+Ils ne sont dus qu'une seule fois pour un agrément ou une autorisation portant sur le même objet.
+
+Ils ne sont pas dus lorsqu'il y a lieu de changer l'adresse indiquée sur un agrément ou une autorisation, si la nouvelle adresse est située dans le même territoire que celui de l'autorité qui l'a délivré(e). Les changements d'adresse sur les autorisations de détention d'une arme soumise à autorisation sont gratuits.
+
+Lors de l'extension d'un agrément ou d'une autorisation, seule la différence entre le montant payé lors de la demande et la délivrance originales de ce document et le montant dû lors d'une nouvelle demande et d'une nouvelle délivrance du document sollicité est due.
+
+### Art. 56
+
+&lt;Inséré par L 2006-12-27/30, art. 358; En vigueur : 28-12-2006&gt; Les (...) redevances visés à l'article 51 ne sont pas dus lors de la délivrance d'une autorisation ou d'un permis à l'égard : &lt;L 2008-07-25/37, art. 33, 007; En vigueur : 01-09-2008&gt;
+
+1° d'un membre du ministère public dûment autorisé par son chef de corps à détenir ou à porter une arme à feu courte;
+
+2° d'un juge d'instruction justifié à détenir ou à porter une arme à feu courte;
+
+3° du personnel des services de sécurité des institutions de l'OTAN et de l'Union européenne.
+
+Les (...) redevances visés à l'article 51, 1°, ne sont pas dus lors de la délivrance d'une autorisation de détention d'une arme à feu soumise a autorisation limitée à l'acquisition de munitions à un membre d'un service de l'autorité ou de la force publique visé par l'arrêté royal du 26 juin 2002 relatif à la détention et au port d'armes par les services de l'autorité ou de la force publique, dûment autorisé par l'autorité compétente de ce service à fréquenter un stand de tir sportif ou à participer à des compétitions de tir sportif avec une arme à feu réglementaire soumise à autorisation. &lt;L 2008-07-25/37, art. 33, 007; En vigueur : 01-09-2008&gt;
+
+Les (...) redevances visés à l'article 50, 4° et 5°, ne sont pas dus pour une demande d'agrément et pour la délivrance d'un agrément relatif à la tenue d'un musée ou d'une collection d'armes à feu soumises à autorisation ou de munitions pour ces armes par un service de l'autorité ou de la force publique visé à l'alinéa 2, par l'Institut national de criminalistique et de criminologie, et par tout établissement agréé par l'autorité compétente pour la formation des membres des services précités. &lt;L 2008-07-25/37, art. 33, 007; En vigueur : 01-09-2008&gt;
+
+### Art. 57
+
+&lt;Inséré par L 2006-12-27/30, art. 359; En vigueur : 28-12-2006&gt; Le présent chapitre s'applique :
+
+1° aux agréments et autorisations délivrés en application de la présente loi depuis son entrée en vigueur. Le non-paiement des (...) redevances entraîne de plein droit le retrait de ces documents; &lt;L 2008-07-25/37, art. 33, 007; En vigueur : 01-09-2008&gt;
+
+2° aux agréments et autorisations délivrés en application de la loi du 3 janvier 1933 relative à la fabrication, au commerce et au port des armes et au commerce des munitions, à compter de la date d'entrée en vigueur du présent chapitre.
+
+Les droits et redevances en application de l'article 41 sont réglés dans le cadre de l'article 20 de la loi du 10 avril 1990 réglementant la sécurité privée et particulière.
+
+### Art. 58
+
+&lt;Inséré par L 2006-12-27/30, art. 360; En vigueur : 28-12-2006&gt; Le présent chapitre entre en vigueur le jour de sa publication au Moniteur belge.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Ponza, le 8 juin 2006.
+
+ALBERT
+
+Par le Roi :
+
+La Vice-Première Ministre et Ministre de la Justice,
+
+Mme L. ONKELINX
+
+Le Vice-Premier Ministre et Ministre de l'Intérieur,
+
+P. DEWAEL
+
+Le Ministre de l'Economie, de l'Energie, du Commerce extérieur et de la Politique scientifique,
+
+M. VERWILGHEN
+
+Scellé du sceau de l'Etat :
+
+La Vice-Première Ministre et Ministre de la Justice,
+
+Mme L. ONKELINX.

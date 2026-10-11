@@ -1,0 +1,72 @@
+---
+title: "Loi portant assentiment au traité entre le Royaume de Belgique, la République fédérale d'Allemagne, le Royaume d'Espagne, la République française, le grand-duché de Luxembourg, le Royaume des Pays-Bas et la République d'Autriche relatif à l'approfondissement de la coopération transfrontalière, notamment en vue de lutter contre le terrorisme, la criminalité transfrontalière et la migration illégale, et aux annexes, faits à Prüm le 27 mai 2005."
+identifier: "2007015003"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/28/2007015003/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2006-12-28
+published: 2007-03-30
+entry_into_force: 2007-04-09
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2006/12/28/2007015003/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+retrieved: 2026-10-11
+---
+
+# 28 DECEMBRE 2006. - Loi portant assentiment au traité entre le Royaume de Belgique, la République fédérale d'Allemagne, le Royaume d'Espagne, la République française, le grand-duché de Luxembourg, le Royaume des Pays-Bas et la République d'Autriche relatif à l'approfondissement de la coopération transfrontalière, notamment en vue de lutter contre le terrorisme, la criminalité transfrontalière et la migration illégale, et aux annexes, faits à Prüm le 27 mai 2005.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+Le Traité entre le Royaume de Belgique, la République fédérale d'Allemagne, le Royaume d'Espagne, la République française, le grand-duché de Luxembourg, le Royaume des Pays-Bas et la République d'Autriche relatif à l'approfondissement de la coopération transfrontalière, notamment en vue de lutter contre le terrorisme, la criminalité transfrontalière et la migration illégale, et les Annexes, faits à Prüm le 27 mai 2005, sortiront leur plein et entier effet.
+
+## Art. 3
+
+Les accords conclus sur la base de l'article 44 du Traité, en vertu des articles 6, paragraphe 2, 11, paragraphe 2, 12, paragraphe 2, 24, paragraphe 4, 28, paragraphe 5, et 38, paragraphe 2, du Traité, définiront les détails techniques du Traité.
+
+Ces accords seront conclus par les ministres compétents; ils seront communiqués au Parlement aussitôt signés et ils sortiront leur plein et entier effet à la date qu'ils détermineront.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Châteauneuf-de-Grasse, le 28 décembre 2006.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires étrangères,
+
+K. DE GUCHT
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Intérieur,
+
+P. DEWAEL
+
+Vu et scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX
+
+## ANNEXE.
+
+## Art. N
+
+Traité entre le Royaume de Belgique, la République fédérale d'Allemagne, le Royaume d'Espagne, la République française, le grand-duché de Luxembourg, le Royaume des Pays-Bas et la République d'Autriche relatif à l'approfondissement de la coopération transfrontalière, notamment en vue de lutter contre le terrorisme, la criminalité transfrontalière et la migration illégale, faits à Prüm le 27 mai 2005.
+
+(Pour le Traité, voir 2005-05-27/47).

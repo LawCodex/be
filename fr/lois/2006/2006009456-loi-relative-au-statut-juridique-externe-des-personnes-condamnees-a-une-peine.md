@@ -1,0 +1,3668 @@
+---
+title: "Loi relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine."
+identifier: "2006009456"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/17/2006009456/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2006-05-17
+published: 2006-06-15
+entry_into_force: 2017-09-01
+last_amended: 2026-08-05
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2006/05/17/2006009456/justel"
+department: "Justice"
+justel_notes:
+  - "art. 2, 6°, b, modifié avec date d'entrée en vigueur fixée au 01-09-2014 par L 2013-01-21/12 , art. 3, abrogé lui-même par L 2013-12-15/05 , art. 34, 002; En vigueur : 01-01-2014"
+  - "Consultation des versions antérieures à partir du 15-06-2006 et mise à jour au 05-08-2026"
+retrieved: 2026-10-11
+---
+
+# 17 MAI 2006. - Loi relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## TITRE Ier. - Disposition générale.
+
+###### Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## TITRE II. - Définitions.
+
+###### Art. 2
+
+Pour l'application de la présente loi et de ses arrêtés d'exécution, on entend par :
+
+1° le ministre : le Ministre de la Justice;
+
+2° le condamné : une personne physique qui a été condamnée à une peine privative de liberté en vertu d'une décision judiciaire passée en force de chose jugée;
+
+3° [<sup>2</sup> le directeur : le fonctionnaire visé à l'article 2 de la loi de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus. ]<sup>2</sup>
+
+4° le juge de l'application des peines : le président du tribunal de l'application des peines;
+
+5° le ministère public : le ministère public près le tribunal de l'application des peines;
+
+6° la victime : les catégories suivantes de personnes qui, dans les cas prévus par la présente loi, peuvent demander, en cas d'octroi d'une modalité d'exécution de la peine, à être informées et/ou entendues selon les règles prévues par le Roi :
+
+a) la personne physique dont l'action civile est déclarée recevable et fondée;
+
+b) [<sup>1</sup> la personne physique à l'égard de laquelle un jugement ou un arrêt établit que des infractions ont été commises, ou son représentant légal;]<sup>1</sup>
+
+c) la personne physique qui n'a pas pu se constituer partie civile par suite d'une situation d'impossibilité matérielle ou de vulnérabilité;
+
+[<sup>1</sup> d) le proche de la personne dont le décès résulte directement de l'infraction ou le proche d'une personne décédée qui s'était constituée partie civile; par proche, on entend le conjoint de la personne décédée, la personne qui cohabitait et entretenait une relation affective durable avec elle, ses ascendants ou descendants, ses frères et soeurs, ainsi que les personnes qui étaient à sa charge;]<sup>1</sup>
+
+[<sup>1</sup> e) le proche d'une victime non décédée qui n'a pas pu se constituer partie civile par suite d'une situation d'impossibilité matérielle ou de vulnérabilité; par proche, on entend : le conjoint de la victime non décédée, la personne qui cohabite et entretient une relation affective durable avec elle, ses ascendants ou descendants, ses frères et soeurs, ainsi que les personnes qui sont à sa charge.]<sup>1</sup>
+
+[<sup>1</sup> A l'égard des personnes qui relèvent des catégories c), d) et e), le juge de l'application des peines apprécie, à leur demande, conformément aux dispositions du titre III, si elles ont un intérêt direct et légitime]<sup>1</sup>
+
+7° état de récidive : la récidive comme définie par le Code pénal et par des lois pénales particulières et qui est établie dans le jugement ou l'arrêt de condamnation par le renvoi exprès à la condamnation qui est à la base de la récidive;
+
+8° [<sup>3</sup> le service compétent des Communautés: les services des Communautés compétents pour l'organisation et le contrôle de la surveillance électronique, pour le suivi et la guidance des personnes condamnées ainsi que pour l'assistance aux victimes.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2013-12-15/05, art. 4, 015; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2017-02-20/05, art. 3, 023; En vigueur : 12-03-2017&gt;
+
+(3)&lt;L 2021-11-28/01, art. 64, 033; En vigueur : 10-12-2021&gt;
+
+## TITRE III. - Dispositions concernant la victime.
+
+###### Art. 3
+
+§ 1er. [<sup>3</sup> Les personnes visées à l'article 2, 6°, c), d) et e),]<sup>3</sup>, qui, dans les cas prévus par la loi, souhaitent être informées ou entendues sur l'octroi d'une modalité d'exécution de la peine, adressent une demande écrite au juge de l'application des peines.
+
+[<sup>2</sup> Cette demande écrite est déposée auprès [<sup>4</sup> du service compétent des Communautés]<sup>4</sup>, du ministère public ou d'un tribunal de l'application des peines. Ceux-ci la transmettent à leur tour sans délai au tribunal de l'application des peines compétent. Si le tribunal de l'application des peines compétent n'est pas encore connu, ils transmettent la demande écrite au tribunal de l'application des peines du ressort dans lequel le condamné réside à ce moment-là.]<sup>2</sup>
+
+Le greffe communique sans délai une copie de la demande au ministère public. Le ministère public rend son avis dans les sept jours de la réception de la copie.
+
+§ 2. Les personnes visées au § 1er peuvent à tout moment se faire représenter ou assister par leur conseil. Elles peuvent également se faire assister par le délégué d'un organisme public ou d'une association agréée à cette fin par le Roi.
+
+§ 3. Si le juge de l'application des peines l'estime utile pour pouvoir statuer sur l'intérêt direct et légitime, il peut demander au requérant de fournir à cet égard des informations complémentaires lors d'une audience. Cette audience doit se tenir au plus tard un mois après la réception de la demande visée au § 1er.
+
+§ 4. Le juge de l'application des peines statue sur l'intérêt direct et légitime dans les quinze jours de la réception de la demande ou, si une audience a eu lieu, dans les quinze jours de la mise en délibéré. La décision est communiquée au requérant par lettre recommandée à la poste [<sup>1</sup> ...]<sup>1</sup>.
+
+La décision est également communiquée sans délai au ministre (et au ministère public). &lt;L 2006-12-27/33, art. 53, 002; En vigueur : 01-02-2007&gt;
+
+§ 5. Cette décision n'est susceptible d'aucun recours.
+
+----------
+
+(1)&lt;L 2007-04-21/01, art. 146, 003; En vigueur : indéterminée et au plus tard au 01-01-2015, mais abrogé au 31-12-1984, avant son entrée en vigueur&gt;
+
+(2)&lt;L 2012-12-14/53, art. 15, 014; En vigueur : 02-05-2013&gt;
+
+(3)&lt;L 2013-12-15/05, art. 5, 015; En vigueur : 01-01-2014&gt;
+
+(4)&lt;L 2021-11-28/01, art. 65, 033; En vigueur : 10-12-2021&gt;
+
+###### Art. 3/1
+
+[<sup>1</sup> Le Roi détermine pour [<sup>2</sup> quelles infractions]<sup>2</sup> portant atteinte à l'intégrité physique ou psychique de tiers ou menaçant celle-ci le ministère public près la juridiction qui a prononcé le jugement ou l'arrêt ayant acquis force de chose jugée saisit, dans le mois qui suit l'acquisition de force jugée de la décision, le service compétent des Communautés aux fins de contacter les victimes connues, qu'il désignera dans la saisine.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/18, art. 2, 029; En vigueur : 01-09-2022&gt;
+
+(2)&lt;L 2026-03-30/02, art. 47, 045; En vigueur : 01-09-2026&gt;
+
+## TITRE IV. - Des modalités d'exécution de la peine à octroyer par le ministre.
+
+### CHAPITRE Ier. - De la permission de sortie.
+
+###### Art. 4
+
+§ 1er. La permission de sortie permet au condamné de quitter la prison pour une durée déterminée qui ne peut excéder seize heures.
+
+§ 2. Les permissions de sortie peuvent être accordées au condamné à tout moment de la détention en vue :
+
+1° de défendre des intérêts sociaux, moraux, juridiques, familiaux, de formation ou professionnels qui requièrent sa présence hors de la prison;
+
+2° de subir un examen ou un traitement médical en dehors de la prison.
+
+§ 3. Au cours des deux années précédant la date d'admissibilité à la libération conditionnelle, des permissions de sortie peuvent être accordées au condamné afin de préparer sa réinsertion sociale. Ces permissions de sortie peuvent être accordées avec une périodicité déterminée.
+
+§ 4. L'exécution de la peine privative de liberté se poursuit pendant la durée de la permission de sortie accordée.
+
+###### Art. 5
+
+La permission de sortie est accordée à condition :
+
+1° que le condamné soit dans les conditions de temps visées à l'article 4, §§ 2 et 3;
+
+2° qu'il n'existe pas, dans le chef du condamné, de contre-indications auxquelles la fixation de conditions particulières ne puisse répondre; ces contre-indications portent sur le risque que le condamné se soustraie à l'exécution de sa peine, sur le risque qu'il commette des infractions graves pendant la permission de sortie ou sur le risque qu'il importune les victimes;
+
+3° que le condamné marque son accord aux conditions qui peuvent être attachées à la permission de sortie en vertu de l'article 11, § 3.
+
+### CHAPITRE II. - Du congé pénitentiaire.
+
+###### Art. 6
+
+§ 1er. Le congé pénitentiaire permet au condamné de quitter la prison [<sup>1</sup> quatre fois]<sup>1</sup> trente six heures par trimestre.
+
+§ 2. Le congé pénitentiaire a pour objectifs :
+
+1° de préserver et de favoriser les contacts familiaux, affectifs et sociaux du condamné;
+
+2° de préparer la réinsertion sociale du condamné.
+
+§ 3. L'exécution de la peine privative de liberté se poursuit pendant la durée du congé pénitentiaire accordé.
+
+----------
+
+(1)&lt;L 2022-07-30/03, art. 42, 035; En vigueur : 01-09-2022&gt;
+
+###### Art. 7
+
+Le congé pénitentiaire est accordé à tout condamné qui satisfait aux conditions suivantes :
+
+1° le condamné se trouve dans l'année précédant la date d'admissibilité à la libération conditionnelle;
+
+2° il n'existe pas, dans le chef du condamné, de contre-indications auxquelles la fixation de conditions particulières ne puisse répondre; ces contre-indications portent sur le risque que le condamné se soustraie à l'exécution de sa peine, sur le risque qu'il commette des infractions graves pendant le congé pénitentiaire ou sur le risque qu'il importune les victimes;
+
+3° le condamné marque son accord aux conditions qui peuvent être attachées au congé pénitentiaire en vertu de l'article 11, § 3.
+
+###### Art. 8
+
+Trois mois avant que le condamné ne se trouve dans la condition de temps prévue à l'article 7, 1°, [<sup>2</sup> ou immédiatement si ce délai ne peut être respecté,]<sup>2</sup> le directeur informe le condamné, par écrit, des possibilités d'octroi de congés pénitentiaires.
+
+Le condamné adresse sa demande écrite de congé pénitentiaire au directeur.
+
+Le directeur peut charger le [<sup>1</sup> service compétent des Communautés]<sup>1</sup> de rédiger un rapport d'information succinct ou de procéder à une enquête sociale dans le milieu d'accueil proposé par le condamné pour le congé pénitentiaire. Le contenu de ce rapport d'information succinct et de cette enquête sociale est déterminé par le Roi.
+
+Dans les deux mois de la réception de la demande, le directeur rédige un avis motivé, transmet la demande et son avis motivé au ministre ou à son délégué et en adresse une copie au condamné.
+
+----------
+
+(1)&lt;L 2021-11-28/01, art. 66, 033; En vigueur : 10-12-2021&gt;
+
+(2)&lt;L 2021-06-29/09, art. 2, 036; En vigueur : 01-09-2022&gt;
+
+###### Art. 9
+
+Si l'avis du directeur n'est pas communiqué dans le délai prévu à l'article 8, alinéa 4, le président du tribunal de première instance peut, à la demande écrite du condamné, condamner le ministre sous peine d'astreinte à émettre son avis, par l'intermédiaire du directeur dans le délai prévu par le président du tribunal de première instance et à communiquer au condamné une copie de cet avis.
+
+Le président statue après avoir entendu le condamné et le ministre ou son délégué, sur avis du ministère public dans les cinq jours de la réception de la demande.
+
+Cette décision n'est susceptible d'aucun recours.
+
+### CHAPITRE IIbis. [<sup>1</sup> - Le placement en maison de transition.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 68, 026; En vigueur : 28-07-2018&gt;
+
+###### Art. 9/1
+
+[<sup>1</sup> Le placement en maison de transition est une forme de détention sous laquelle le détenu condamné subit sa peine privative de liberté sur la base d'un plan de placement.
+
+L'exécution de la peine privative de liberté se poursuit pendant la durée du placement en maison de transition.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 69, 026; En vigueur : 28-07-2018&gt;
+
+###### Art. 9/2
+
+[<sup>1</sup> § 1er. Une maison de transition est un établissement agréé par un arrêté royal délibéré en Conseil des ministres dans lequel des condamnés peuvent être placés afin d'y subir leur peine privative de liberté.
+
+§ 2. Le responsable de la maison de transition a accès aux données du dossier du condamné qui sont de nature à lui permettre d'exercer les missions relatives au placement.
+
+§ 3. Le Roi détermine, par arrêté délibéré en Conseil des ministres:
+
+1° les normes auxquelles un établissement doit satisfaire afin de pouvoir être agréé comme maison de transition.
+
+2° l'intervention financière de l'Etat fédéral pour les frais liés au placement.
+
+Les normes visées à l'alinéa 1er, 1°, concernent les exigences architecturales, organisationnelles, de personnel et fonctionnelles auxquelles l'établissement doit satisfaire ainsi que le règlement d'ordre intérieur.
+
+§ 4. En vue de l'exécution des placements dans une maison de transition, une convention est établie entre le ministre et le responsable de la maison de transition sur la base d'un modèle déterminé par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 70, 026; En vigueur : 28-07-2018&gt;
+
+###### Art. 9/3
+
+[<sup>1</sup> § 1er. Les condamnés qui satisfont aux conditions suivantes peuvent être placés en maison de transition:
+
+1° le condamné qui se trouve, à dix-huit mois près, dans les conditions de temps pour l'octroi d'une libération conditionnelle;
+
+2° le condamné est apte à séjourner dans un régime communautaire ouvert;
+
+3° il n'existe pas de contre-indications dans le chef du condamné auxquelles l'imposition de conditions particulières ne puisse répondre; ces contre-indications portent sur le risque que, durant la période de placement en maison de transition, le condamné se soustraie à l'exécution de la peine, commette des infractions graves ou importune les victimes;
+
+4° le condamné consent par écrit au plan de placement visé au paragraphe 2 et aux conditions liées au placement en maison de transition, conformément à l'article 11, § 3;
+
+5° le condamné consent par écrit au règlement d'ordre intérieur visé à l'article 9/2, § 3;
+
+[<sup>2</sup> 6° le condamné consent par écrit la possibilité de se soumettre au test visé à l'article 9/4.]<sup>2</sup>
+
+§ 2. Le plan de placement décrit le programme que doit suivre le condamné et indique au minimum, les activités obligatoires auxquelles doit participer le condamné en vue de sa réinsertion.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 71, 026; En vigueur : 28-07-2018&gt;
+
+(2)&lt;L 2026-02-08/02, art. 2, 044; En vigueur : 01-05-2026&gt;
+
+###### Art. 9/4.
+
+[<sup>1</sup> Afin de garantir la sécurité et le bon fonctionnement du régime communautaire ouvert, le responsable de la maison de transition peut décider de soumettre le condamné à la réalisation d'un test de salive ou d'urine pendant le placement en maison de transition afin de constater la présence de substances illicites dans le corps.
+
+Par substances illicites, on entend: les substances illicites conformément à la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes et ses arrêtés d'exécution.
+
+Le responsable de la maison de transition peut prendre cette décision sur la base d'indices individualisés de consommation de substances illicites. Il peut, également afin de garantir la sécurité et le bon fonctionnement du régime communautaire ouvert, décider de soumettre régulièrement un pourcentage de condamnés sélectionnés au hasard au test susmentionné.
+
+Les membres du personnel désignés à cet effet par le responsable de la maison de transition peuvent recevoir et doivent communiquer à ce dernier les indices individualisés de consommation de substances illicites visées au troisième alinéa dont ils prennent connaissance à l'occasion de l'exercice de leurs fonctions. Les décisions motivées de procéder à un test sont conservées par le responsable de la maison de transition dans le dossier individuel du condamné au sein de la maison de transition, pendant la durée du placement.
+
+Le test est réalisé par les membres du personnel désignés à cet effet par le responsable de la maison de transition, qui ont suivi une formation appropriée.
+
+La réalisation du test visé à l'alinéa 1er ne permet pas l'usage de la contrainte physique. Si un condamné refuse de coopérer à un test, les conséquences d'un test positif seront attachées à ce refus.
+
+Après la réalisation du test visé à l'alinéa 1er, le condamné est informé par écrit du résultat ainsi que de la possibilité de demander un réexamen. Cette demande peut uniquement être refusée par le responsable de la maison de transition s'il est impossible sur le plan scientifique de réaliser un test valable sur l'échantillon concerné.
+
+Le responsable de la maison de transition communique un résultat de test positif immédiatement au directeur chargé de la gestion et du suivi du dossier de détention du condamné qui, à son tour, le signale au service médical et au service psychosocial de la prison afin de vérifier si le condamné a besoin de soins médicaux aigus et de l'orienter éventuellement vers un service d'aide en vue d'établir un plan de traitement multidisciplinaire.
+
+Après un résultat de test positif, un contrôle de suivi unique est effectué de manière automatique.
+
+Le Roi fixe les modalités pour la réalisation du test visé à l'alinéa 1er. Ces modalités concernent, dans tous les cas, le réexamen et le contrôle de suivi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-02-08/02, art. 3, 044; En vigueur : 01-05-2026&gt;
+
+### CHAPITRE III. - Dispositions communes aux chapitres [<sup>1</sup> Ier, II et IIbis]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2018-07-11/02, art. 72, 026; En vigueur : 28-07-2018&gt;
+
+#### Section Ire. [<sup>1</sup> - De la procédure d'octroi de la permission de sortie, du congé pénitentiaire et du placement en maison de transition.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-07-11/02, art. 73, 026; En vigueur : 28-07-2018&gt;
+
+###### Art. 10
+
+§ 1er. La permission de sortie ou le congé pénitentiaire est accordé par le ministre ou son délégué, à la demande du condamné et après avis motivé du directeur. L'avis du directeur contient, le cas échéant, une proposition quant aux conditions particulières qu'il estime devoir être fixées.
+
+[<sup>2</sup> § 1bis. Le placement dans une maison de transition est décidé par le ministre ou son délégué, à la demande écrite du directeur, accompagné de son avis motivé.]<sup>2</sup>
+
+§ 2. Dans les quatorze (jours ouvrables) de la réception du dossier, le ministre ou son délégué prend une décision. Cette décision motivée est communiquée par écrit dans les vingt-quatre heures au condamné, au ministère public et au directeur. &lt;L 2006-12-27/33, art. 54, 1°, 002; En vigueur : 01-02-2007&gt;
+
+Si le ministre ou son délégué estime que le dossier n'est pas en état et que des informations complémentaires sont nécessaires pour pouvoir prendre une décision, ce délai peut être prolongé une seule fois pour une période de sept (jours ouvrables). Le ministre ou son délégué en informe sans délai le directeur et le condamné. &lt;L 2006-12-27/33, art. 54, 1°, 002; En vigueur : 01-02-2007&gt;
+
+[<sup>2</sup> La décision d'octroi d'une permission de sortie, d'un congé pénitentiaire ou d'un placement dans une maison de transition est communiquée dans les vingt-quatre heures au procureur du Roi de l'arrondissement où la permission de sortie, le congé pénitentiaire ou le placement dans une maison de transition se déroulera.]<sup>2</sup>
+
+La victime est, [<sup>1</sup> informée le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide,]<sup>1</sup> de l'octroi [<sup>4</sup> d'une première permission de sortie visée à l'article 4, § 3,]<sup>4</sup> d'un premier congé pénitentiaire [<sup>4</sup> , du placement en maison de transition]<sup>4</sup> [<sup>3</sup> et, le cas échéant, des conditions imposées dans son intérêt]<sup>3</sup>. &lt;L 2006-12-27/33, art. 54, 2°, 002; En vigueur : 01-02-2007&gt;
+
+[<sup>5</sup> § 2bis. Au paragraphe 2, il y a lieu d'entendre par jours ouvrables: tous les jours à l'exception des samedis, des dimanches, des jours fériés visés à l'article 14, § 1er, de l'arrêté royal du 19 novembre 1998 relatif aux congés et aux absences accordés aux membres du personnel des administrations de l'Etat, des jours visés à l'article 14, § 2, de l'arrêté royal du 19 novembre 1998 relatif aux congés et aux absences accordés aux membres du personnel des administrations de l'Etat, et des jours fixés pour chaque année civile comme jours de pont par le ministre de la Fonction publique par circulaire pour le personnel des services de la fonction publique administrative fédérale telle que définie à l'article 1er de la loi du 22 juillet 1993 portant certaines mesures en matière de fonction publique.]<sup>5</sup>
+
+§ 3. Si la permission de sortie visée à l'article 4, ou le congé pénitentiaire est refusé, le condamné peut introduire une nouvelle demande au plus tôt trois mois après la date de cette décision. (Ce délai pour introduire une nouvelle demande peut être réduit sur avis motivé du directeur.) &lt;L 2006-12-27/33, art. 54, 3°, 002; En vigueur : 01-02-2007&gt;
+
+La décision du ministre ou de son délégué est motivée.
+
+§ 4. A défaut de décision dans le délai prévu (et dans la mesure où l'avis du directeur sur l'octroi était positif), le ministre est réputé avoir accordé la permission de sortie ou le congé pénitentiaire. Cette permission de sortie ou ce congé pénitentiaire s'accompagne des conditions particulières proposées le cas échéant par le directeur conformément au § 1er. &lt;L 2006-12-27/33, art. 54, 4°, 002; En vigueur : 01-02-2007&gt;
+
+----------
+
+(1)&lt;L 2013-12-15/05, art. 6, 015; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2018-07-11/02, art. 74, 026; En vigueur : 28-07-2018&gt;
+
+(3)&lt;L 2021-11-28/01, art. 67, 033; En vigueur : 10-12-2021&gt;
+
+(4)&lt;L 2022-07-30/03, art. 43, 035; En vigueur : 01-09-2022&gt;
+
+(5)&lt;L 2024-01-18/06, art. 70, 038; En vigueur : 05-02-2024&gt;
+
+###### Art. 11
+
+§ 1er. La décision d'octroi d'une permission de sortie en précise la durée et, le cas échéant, la périodicité.
+
+§ 2. La décision d'octroi d'un congé pénitentiaire est censée être renouvelée de plein droit chaque trimestre, sauf décision contraire du ministre ou de son délégué.
+
+Le directeur décide, après concertation avec le condamné, de la répartition du congé accordé pour chaque trimestre.
+
+§ 3. [<sup>1</sup> Le ministre ou son délégué assortit la décision d'octroi d'une permission de sortie, d'un congé pénitentiaire ou d'un placement dans une maison de transition de la condition générale que le condamné ne peut commettre de nouvelles infractions. La décision d'octroi d'un placement en maison de transition est également assortie de la condition que le condamné doit respecter le règlement d'ordre intérieur visé à l'article 9/2, § 3, et le plan de placement visé à l'article 9/3, § 2. Le cas échéant, le ministre ou son délégué détermine les conditions particulières compte tenu des dispositions des articles 5, 2°, 7, 2° et 9/3, § 1er, 3°.
+
+En cas d'une décision de placement en maison de transition, le ministre ou son délégué désigne également la prison qui gèrera le dossier de détention pendant la durée du placement.]<sup>1</sup>
+
+§ 4. Par une décision motivée, le ministre ou son délégué peut, d'office, à la demande du condamné, ou sur proposition du directeur ou du ministère public, adapter les conditions particulières visées au § 3.
+
+----------
+
+(1)&lt;L 2018-07-11/02, art. 75, 026; En vigueur : 28-07-2018&gt;
+
+#### Section II. - Des mesures en cas de non-respect des conditions et arrestation provisoire.
+
+###### Art. 12
+
+§ 1er. En cas de non-respect des conditions d'une décision d'octroi d'une permission de sortie, accordée avec une certaine périodicité, [<sup>1</sup> ou s'il apparaît dans le chef du condamné une contre-indication qui n'existait pas au moment de l'octroi de la permission de sortie,]<sup>1</sup> le ministre ou son délégué peut décider :
+
+1° d'adapter les conditions;
+
+2° de suspendre la décision pour une période de trois mois maximum, à compter de la dernière permission de sortie accordée;
+
+3° de révoquer la décision; dans ce cas, le condamné peut introduire une nouvelle demande au plus tôt trois mois après la date de cette révocation.
+
+§ 2. En cas de non-respect des conditions d'une décision d'octroi d'un congé pénitentiaire, [<sup>1</sup> ou s'il apparaît dans le chef du condamné une contre-indication qui n'existait pas au moment de l'octroi du congé pénitentiaire,]<sup>1</sup> le ministre ou son délégué peut décider :
+
+1° d'adapter les conditions;
+
+2° de suspendre la décision pour une période de trois mois maximum, à compter du dernier congé accordé;
+
+3° de révoquer la décision; dans ce cas, le condamné peut introduire une nouvelle demande au plus tôt trois mois après la date de cette révocation.
+
+[<sup>2</sup> § 2bis. [<sup>3</sup> En cas de non-respect des conditions d'une décision de placement en maison de transition, s'il apparaît dans le chef du condamné une contre-indication qui n'existait pas au moment de la décision de placement, ou en cas de résultat positif au test visé à l'article 9/4, alinéa 1er]<sup>3</sup> le ministre ou son délégué peut décider:
+
+1° d'adapter les conditions;
+
+2° de révoquer la décision.
+
+Le responsable de la maison de transition transmet au directeur chargé de la gestion et du suivi du dossier de détention du condamné, après l'avoir entendu, un rapport sur le non-respect des conditions ou l'apparition d'une contre-indication. [<sup>3</sup> Le cas échéant, le responsable de la maison de transition informe le directeur du résultat positif du test visé à l'article 9/4, alinéa 1er.]<sup>3</sup>
+
+Le directeur transmet le rapport du responsable et, le cas échéant, les remarques du condamné au ministre ou son délégué [<sup>3</sup> et il l'informe, le cas échéant, du résultat positif du test visé à l'article 9/4, alinéa 1er.]<sup>3</sup>
+
+En cas de de révocation de la décision de placement en maison de transition, le condamné est transféré dans la prison visée à l'article 11, § 3, alinéa 2. En cas d'urgence, le directeur peut prendre cette décision qui doit être soumise sans délai au ministre ou son délégué pour approbation.]<sup>2</sup>
+
+[<sup>1</sup> § 3. Si le condamné ne satisfait plus aux conditions de temps pour une décision d'octroi d'une permission de sortie avec une certaine périodicité ou d'un congé pénitentiaire, le ministre ou son délégué révoque la décision.]<sup>1</sup>
+
+[<sup>2</sup> Si le condamné ne remplit plus les conditions de temps pour une décision de placement dans une maison de transition, la décision de placement est en principe revoquée.
+
+Le ministre ou son délégué peut néanmoins, après avoir récolté l'avis du directeur et sur la base d'une motivation spécifique, décider:
+
+1° d'adapter les conditions;
+
+2° de maintenir la décision.
+
+En cas de révocation de la décision de placement, le condamné est transféré vers la prison visée à l'article 11, § 3, alinéa 2.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 145, 022; En vigueur : 29-02-2016&gt;
+
+(2)&lt;L 2018-07-11/02, art. 76, 026; En vigueur : 28-07-2018&gt;
+
+(3)&lt;L 2026-02-08/02, art. 4, 044; En vigueur : 01-05-2026&gt;
+
+###### Art. 13
+
+Le ministre ou son délégué prend une décision dans les quatorze jours qui suivent la date à laquelle il a pris connaissance du non-respect des conditions. Cette décision motivée est communiquée par écrit dans les vingt-quatre heures au condamné, au ministère public et au directeur.
+
+S'il s'agit d'une décision prise conformément à l'article 12, [<sup>2</sup> §§ 2 et 2bis]<sup>2</sup> la victime en est informée [<sup>1</sup> le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide,]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2013-12-15/05, art. 7, 015; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2018-07-11/02, art. 77, 026; En vigueur : 28-07-2018&gt;
+
+###### Art. 14
+
+Si le condamné met gravement en péril l'intégrité physique ou psychique de tiers, le procureur du Roi près le tribunal dans le ressort duquel le condamné se trouve, peut ordonner l'arrestation provisoire de celui-ci. Il communique immédiatement sa décision au ministre ou à son délégué. (Dans les cas visés par l'article 59, le procureur du Roi communique sa décision au ministère public et au juge de l'application des peines ou au tribunal de l'application des peines.) &lt;L 2006-12-27/33, art. 55, 002; En vigueur : 01-02-2007&gt;
+
+Le ministre ou son délégué prend une décision sur la [<sup>2</sup> permission de sortie, le congé pénitentiaire ou le placement en maison de transition]<sup>2</sup> dans les sept jours qui suivent l'arrestation du condamné. Cette décision motivée est communiquée par écrit dans les vingt-quatre heures au condamné, au ministère public et au directeur.
+
+S'il s'agit d'une décision [<sup>3</sup> concernant une permission de sortie, visée à l'article 4, § 3, un congé pénitentiaire ou un placement en maison de transition]<sup>3</sup>, la victime en est informée [<sup>1</sup> le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide,]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2013-12-15/05, art. 8, 015; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2018-07-11/02, art. 78, 026; En vigueur : 28-07-2018&gt;
+
+(3)&lt;L 2022-07-30/03, art. 44, 035; En vigueur : 01-09-2022&gt;
+
+### CHAPITRE IV. - De l'interruption de l'exécution de la peine.
+
+###### Art. 15
+
+§ 1er. L'interruption de l'exécution de la peine suspend l'exécution de la peine pour une durée de trois mois au maximum, renouvelable.
+
+§ 2. L'interruption de l'exécution de la peine est accordée au condamné pour des motifs graves et exceptionnels à caractère familial.
+
+§ 3. Le délai de prescription de la peine ne court pas pendant l'interruption de l'exécution de la peine.
+
+###### Art. 16
+
+L'interruption de l'exécution de la peine n'est pas autorisée s'il existe des contre-indications dans le chef du condamné; ces contre-indications portent sur le risque que le condamné se soustraie à l'exécution de sa peine, sur le risque qu'il commette des infractions graves pendant l'interruption de l'exécution de la peine ou sur le risque qu'il importune les victimes.
+
+###### Art. 17
+
+§ 1er. L'interruption de l'exécution de la peine est accordée par le ministre ou son délégué à la demande écrite du condamné et après avis motivé du directeur.
+
+Le ministre ou son délégué et le directeur peuvent charger le [<sup>2</sup> service compétent des Communautés]<sup>2</sup> de rédiger un rapport d'information succinct ou de procéder à une enquête sociale sur les motifs graves et exceptionnels à caractère familial évoqués par le condamné pour demander une interruption de l'exécution de sa peine. Le contenu de ce rapport d'information succinct et de cette enquête sociale est déterminé par le Roi.
+
+§ 2. Le ministre ou son délégué prend une décision dans les quatorze jours de la réception de la demande du condamné. Cette décision motivée est communiquée par écrit dans les vingt-quatre heures au condamné, au ministère public, au directeur.
+
+La victime est [<sup>1</sup> informée le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide,]<sup>1</sup> de l'octroi d'une interruption de l'exécution de la peine.
+
+(La décision d'octroi d'une interruption de l'exécution de la peine est communiquée dans les vingt-quatre heures au procureur du Roi de l'arrondissement où l'interruption de l'exécution de la peine se déroulera.) &lt;L 2006-12-27/33, art. 56, 002; En vigueur : 01-02-2007&gt;
+
+§ 3. La décision d'accorder une interruption de l'exécution de la peine en précise la durée.
+
+----------
+
+(1)&lt;L 2013-12-15/05, art. 9, 015; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2021-11-28/01, art. 68, 033; En vigueur : 10-12-2021&gt;
+
+###### Art. 18
+
+L'interruption de peine peut être prolongée à la demande du condamné selon la procédure fixée par l'article 17.
+
+###### Art. 19
+
+Si le condamné met gravement en péril l'intégrité physique ou psychique de tiers, le procureur du Roi près le tribunal dans le ressort duquel le condamné se trouve peut ordonner l'arrestation provisoire de celui-ci. Il communique immédiatement sa décision au ministre ou à son délégué.
+
+Le ministre ou son délégué prend une décision sur la poursuite de l'interruption de l'exécution de la peine dans les sept jours qui suivent l'arrestation du condamné. [<sup>1</sup> Cette décision motivée est communiquée par écrit, dans les vingt-quatre heures, au condamné, au ministère public et au directeur. Elle est également communiquée à la victime le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-12-15/05, art. 10, 015; En vigueur : 01-01-2014&gt;
+
+###### Art. 19/1
+
+[<sup>1</sup> anc. art. 20]<sup>1</sup> Sauf dans le cas prévu à l'article 19, l'interruption de l'exécution de la peine prend fin de plein droit si le condamné est à nouveau incarcéré.
+
+Afin d'obtenir une nouvelle interruption de l'exécution de la peine, le condamné doit introduire une nouvelle demande écrite.
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 146, 022; En vigueur : 29-02-2016&gt;
+
+### CHAPITRE IVbis. - [<sup>1</sup> Disposition commune aux chapitres Ier, [<sup>2</sup> II, IIbis, III et IV]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-02-05/11, art. 147, 022; En vigueur : 29-02-2016&gt;
+
+(2)&lt;L 2018-07-11/02, art. 79, 026; En vigueur : 28-07-2018&gt;
+
+###### Art. 20
+
+[<sup>1</sup> La permission de sortie visée à l'article 4, § 3, le congé pénitentiaire et l'interruption de l'exécution de la peine ne sont pas accordés s'il ressort d'un avis de l'Office des étrangers que le condamné n'est pas autorisé ou habilité à séjourner dans le Royaume.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-02-05/11, art. 148, 022; En vigueur : 29-02-2016&gt; (NOTE : par son arrêt n° 148/2017 du 21-12-2017 (M.B. 12-01-2018, p. 1393), la Cour constitutionnelle a annulé l'article 148)
+
+### CHAPITRE V. [<sup>1</sup> - De la libération en vue d'un éloignement ou d'un transfert vers un lieu qui relève de la compétence du Ministre compétent pour l'accès au territoire, le séjour, l'établissement et l'éloignement d'étrangers en vue de leur éloignement imminent]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-03-15/09, art. 4, 009; En vigueur : 09-04-2012&gt;
+
+###### Art. 20/1
+
+[<sup>1</sup> Le condamné qui fait l'objet d'un arrêté royal d'expulsion exécutoire, d'un arrêté ministériel de renvoi exécutoire, ou d'un ordre de quitter le territoire exécutoire avec preuve d'éloignement effectif, peut faire l'objet d'un éloignement effectif ou d'un transfert vers un lieu qui relève de la compétence du ministre compétent pour l'accès au territoire, le séjour, l'établissement et l'éloignement d'étrangers, en vue de son éloignement imminent à partir de [<sup>3</sup> douze]<sup>3</sup> mois avant la fin de la partie exécutoire de la ou des peines privatives de liberté auxquelles il a été condamné. Le ministre ou son délégué autorise sa libération à cette fin.]<sup>1</sup>
+
+[<sup>2</sup> Si le condamné revient en Belgique dans les deux ans qui suivent sa libération par le ministre sans être en règle avec la législation et la réglementation relatives à l'accès, au séjour ou à l'établissement dans le Royaume, le procureur du Roi près le tribunal dans le ressort duquel le condamné se trouve, peut ordonner l'arrestation provisoire de celui-ci. Le procureur du Roi communique immédiatement sa décision au ministre ou à son délégué.
+
+Le ministre ou son délégué prend une décision d'exécution de la partie restante des peines dans les sept jours qui suivent l'arrestation provisoire du condamné. Cette décision est communiquée par écrit dans un délai d'un jour ouvrable au condamné, au procureur du Roi et au directeur.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-03-15/09, art. 5, 009; En vigueur : 09-04-2012&gt;
+
+(2)&lt;L 2016-02-05/11, art. 149, 022; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2026-07-22/07, art. 2, 046; En vigueur : 01-10-2026&gt;
+
+### CHAPITRE VI. [<sup>1</sup> - De l'information à la victime lors de la libération définitive]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-15/05, art. 11, 015; En vigueur : 01-01-2014&gt;
+
+###### Art. 20/2
+
+[<sup>1</sup> Si le condamné détenu est remis en liberté parce qu'il est arrivé au terme de sa peine, le ministre ou son délégué en informe la victime le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-15/05, art. 12, 015; En vigueur : 01-01-2014&gt;
+
+## TITRE V. - Des modalités d'exécution de la peine accordées par le juge d'application des peines et le tribunal de l'application des peines.
+
+### CHAPITRE Ier. - De la détention limitée et de la surveillance électronique.
+
+#### Section Ire. - De la détention limitée.
+
+###### Art. 21
+
+§ 1er. La détention limitée est un mode d'exécution de la peine privative de liberté qui permet au condamné de quitter, de manière régulière, l'établissement pénitentiaire pour une durée déterminée de maximum [<sup>1</sup> seize]<sup>1</sup> heures par jour.
+
+§ 2. La détention limitée peut être accordée au condamné afin de défendre des intérêts professionnels, de formation ou familiaux qui requièrent sa présence hors de la prison.
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 150, 022; En vigueur : 29-02-2016&gt;
+
+#### Section II. - De la surveillance électronique.
+
+###### Art. 22
+
+La surveillance électronique est un mode d'exécution de la peine privative de liberté par lequel le condamné subit l'ensemble ou une partie de sa peine privative de liberté en dehors de la prison selon un plan d'exécution déterminé, dont le respect est contrôlé notamment par des moyens électroniques.
+
+#### Section III. - Des conditions de temps.
+
+###### Art. 23
+
+§ 1er. [<sup>1</sup> La détention limitée et la surveillance électronique peuvent être accordées au condamné qui se trouve, à six mois près, dans les conditions de temps pour l'octroi d'une libération conditionnelle.]<sup>1</sup>
+
+Le condamné doit en outre satisfaire aux conditions visées à l'article 28, § 1er, ou, le cas échéant, aux articles 47, § 1er, et 48.
+
+§ 2. [<sup>1</sup> Quatre mois avant que le condamné ne se trouve dans la condition de temps prévue au paragraphe 1er, alinéa 1er, ou immédiatement si ce délai ne peut être respecté, le directeur l'informe par écrit de la possibilité de demander une détention limitée ou une surveillance électronique.]<sup>1</sup>
+
+Le condamné peut dès ce moment introduire une demande écrite d'octroi de détention limitée ou de surveillance électronique, conformément aux articles 29 et 49.
+
+----------
+
+(1)&lt;L 2021-06-29/09, art. 3, 036; En vigueur : 01-09-2022&gt;
+
+### CHAPITRE II. - De la libération conditionnelle.
+
+#### Section Ire. - Définition.
+
+###### Art. 24
+
+La libération conditionnelle est un mode d'exécution de la peine privative de liberté par lequel le condamné subit sa peine en dehors de la prison, moyennant le respect des conditions qui lui sont imposées pendant un délai d'épreuve déterminé.
+
+#### Section II. - Des conditions de temps.
+
+###### Art. 25
+
+§ 1er. La libération conditionnelle est octroyée à tout condamné à une ou plusieurs peines privatives de liberté dont la partie à exécuter s'élève à trois ans ou moins, pour autant que le condamné ait subi un tiers de ces peines et qu'il réponde aux conditions visées à l'article 28, § 1er.
+
+§ 2. La libération conditionnelle est octroyée à tout condamné à une ou plusieurs peines privatives de liberté dont la partie à exécuter s'élève à plus de trois ans, pour autant que le condamné ait :
+
+a) soit, subi un tiers de ces peines [<sup>5</sup> , sous réserve de l'application des articles 195, alinéa 4, ou 344, alinéa 4, du Code d'instruction criminelle]<sup>5</sup>;
+
+b) soit, si le jugement ou l'arrêt de condamnation a constaté que le condamné se trouvait en état de récidive, subi les deux tiers de ces peines, sans que la durée des peines déjà subies excède quatorze ans [<sup>5</sup> , sous réserve de l'application des articles 195, alinéa 4, ou 344, alinéa 4, du Code d'instruction criminelle]<sup>5</sup>;
+
+c) [<sup>1</sup> soit, en cas de condamnation à une [<sup>4</sup> [<sup>8</sup> peine d'emprisonnement de trente ans ou une peine d'emprisonnement à perpétuité]<sup>8</sup>]<sup>4</sup>, subi quinze ans de cette peine [<sup>5</sup> , sous réserve de l'application des articles 195, alinéa 5, ou 344, alinéa 4, du Code d'instruction criminelle]<sup>5</sup>;
+
+d) soit, en cas de condamnation à une [<sup>4</sup> [<sup>8</sup> peine d'emprisonnement à perpétuité]<sup>8</sup>]<sup>4</sup> et si la motivation [<sup>5</sup> du jugement ou]<sup>5</sup> de l'arrêt fait apparaître qu'il avait précédemment été condamné à une [<sup>8</sup> peine d'emprisonnement d'au moins trois ans d'emprisonnement ferme]<sup>8</sup> pour des faits visés :
+
+\- [<sup>8</sup> articles 82 à 92, 96 à 99, 100 à 102, 112 à 118, 120 à 126, 134 à 149, 151 à 165, 171 à 174, 177 à 179, 183, 185, 195 à 198, 1° à 4°, 199, 200, 2° à 4°, 201, 1° à 4°, 202, 204, 206 à 211, 214, 215, 219 à 228, 232, 233, 258 à 260, 265, 268, 273, 274, 276 à 284, 288 à 291, 307 à 308, 318 à 324, 328 à 330, 333 à 335, 339, 371, 373 à 375, 384 à 386, 404, 405, 407 à 409, 413, § 1, 1°, et § 2, 468, 469, 473, § 2, 2° et 3°, 509, 520, 551, 553 à 559, 685, alinéa 1er, du Code pénal]<sup>8</sup>;
+
+\- [<sup>8</sup> ...]<sup>8</sup>
+
+\- [<sup>7</sup> à l'article 4.5.2.3 du Code belge de la Navigation]<sup>7</sup>
+
+\- à l'article 30 de la loi du 27 juin 1937 portant révision de la loi du 16 novembre 1919 relative à la réglementation de la navigation aérienne;
+
+\- [<sup>8</sup> ...]<sup>8</sup>
+
+\- [<sup>8</sup> à l'article 618 du Code pénal.]<sup>8</sup>
+
+et qu'il s'est écoulé moins de dix ans entre le moment où il a purgé sa peine ou le moment où sa peine a été prescrite et les faits ayant donné lieu à sa condamnation à une [<sup>4</sup> [<sup>8</sup> peine d'emprisonnement de trente ans ou une peine d'emprisonnement à perpétuité]<sup>8</sup>]<sup>4</sup>, subi dix-neuf ans de cette peine [<sup>5</sup> , sous réserve de l'application des articles 195, alinéa 5, ou 344, alinéa 5, du Code d'instruction criminelle]<sup>5</sup>;
+
+e) soit, en cas de condamnation à une [<sup>4</sup> [<sup>8</sup> peine d'emprisonnement de trente ans ou une peine d'emprisonnement à perpétuité]<sup>8</sup>]<sup>4</sup>, et si la motivation [<sup>5</sup> du jugement ou]<sup>5</sup> de l'arrêt fait apparaître qu'il avait précédemment été condamné [<sup>8</sup> par une cour d'assises à une peine privative de liberté de plus de cinq ans]<sup>8</sup>, subi vingt-trois ans de cette peine;]<sup>1</sup>
+
+et qu'il réponde aux conditions visées aux articles 47, § 1er, et 48 [<sup>5</sup> , sous réserve de l'application des articles 195, alinéa 5, ou 344, alinéa 5, du Code d'instruction criminelle]<sup>5</sup>.
+
+----------
+
+(1)&lt;L 2013-03-17/01, art. 4, 013; En vigueur : 19-03-2013&gt;
+
+(2)&lt;L 2014-04-10/24, art. 15, 016; En vigueur : 10-05-2014&gt;
+
+(3)&lt;L 2016-02-01/09, art. 21, 021; En vigueur : 29-02-2016&gt;
+
+(4)&lt;L 2016-02-05/11, art. 151, 022; En vigueur : 29-02-2016&gt; (NOTE : par son arrêt n° 148/2017 du 21-12-2017 (M.B. 12-01-2018, p. 1393), la Cour constitutionnelle a annulé l'article 151)
+
+(5)&lt;L 2017-12-21/19, art. 4, 025; En vigueur : 21-01-2018&gt;
+
+(6)&lt;L 2020-05-04/16, art. 11, 028; En vigueur : 01-07-2020&gt;
+
+(7)&lt;L 2019-05-08/14, art. 91, 031; En vigueur : 01-09-2020&gt;
+
+(8)&lt;L 2026-03-30/02, art. 48, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 25/1
+
+[<sup>1</sup> Six mois avant que le condamné se trouve dans les conditions de temps déterminées par l'article 25, § 1er ou § 2, [<sup>2</sup> ou immédiatement si ce délai ne peut être respecté,]<sup>2</sup> le directeur l'informe par écrit de la possibilité de demander une libération conditionnelle.
+
+Dès ce moment, le condamné peut introduire une demande écrite d'octroi d'une libération conditionnelle conformément à l'article 30 ou à l'article 50, selon le cas.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-03-17/01, art. 5, 013; En vigueur : 19-03-2013&gt;
+
+(2)&lt;L 2021-06-29/09, art. 4, 036; En vigueur : 01-09-2022&gt;
+
+### CHAPITRE IIbis. - [<sup>1</sup> Disposition commune aux chapitres Ier et II]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-02-05/11, art. 152, 022; En vigueur : 29-02-2016&gt;
+
+###### Art. 25/2
+
+[<sup>1</sup> La détention limitée, la surveillance électronique et la libération conditionnelle ne sont pas accordées s'il ressort d'un avis de l'Office des étrangers que le condamné n'est pas autorisé ou habilité à séjourner dans le Royaume.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-02-05/11, art. 153, 022; En vigueur : 29-02-2016&gt; (NOTE : par son arrêt n° 148/2017 du 21-12-2017 (M.B. 12-01-2018, p. 1393), la Cour constitutionnelle a annulé l'article 25/2)
+
+### CHAPITRE III. - De la mise en liberté provisoire en vue de l'éloignement du territoire ou de la remise.
+
+###### Art. 25/3
+
+[<sup>1</sup> § 1er. La mise en liberté provisoire en vue de l'éloignement du territoire est un mode d'exécution de la peine privative de liberté par lequel le condamné, pour qui il ressort d'un avis de l'Office des étrangers qu'il n'est pas autorisé ou habilité à séjourner dans le Royaume, subit sa peine en dehors de la prison dans un autre pays que la Belgique, moyennant le respect de conditions qui lui sont imposées pendant un délai d'épreuve déterminé.
+
+§ 2. La mise en liberté provisoire en vue de la remise est accordée au condamné qui, sur la base d'un jugement exécutoire ou d'un titre exécutoire, doit être transféré dans un autre pays.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-02-05/11, art. 154, 022; En vigueur : 29-02-2016&gt;
+
+###### Art. 26
+
+§ 1er. La mise en liberté provisoire en vue de l'éloignement du territoire ou de la remise est octroyée au condamné à une ou plusieurs peines privatives de liberté dont la partie à exécuter s'élève à trois ans ou moins, pour autant que le condamné ait subi un tiers de ces peines et qu'il réponde aux conditions visées à l'article 28, § 2.
+
+§ 2. La mise en liberté provisoire en vue de l'éloignement du territoire ou de la remise est octroyée au condamné à une ou plusieurs peines privatives de liberté dont la partie à exécuter s'élève à plus de trois ans, pour autant que le condamné ait :
+
+a) soit, subi un tiers de ces peines , [<sup>5</sup> , sous réserve de l'application des articles 195, alinéa 4, ou 344, alinéa 4, du Code d'instruction criminelle]<sup>5</sup>;
+
+b) soit, si le jugement ou l'arrêt de condamnation a constaté que le condamné se trouvait en état de récidive, subi les deux tiers de ces peines, sans que la durée des peines déjà subies excède quatorze ans [<sup>5</sup> , sous réserve de l'application des articles 195, alinéa 4, ou 344, alinéa 4, du Code d'instruction criminelle]<sup>5</sup>;
+
+c) [<sup>1</sup> soit, en cas de condamnation à une [<sup>4</sup> [<sup>8</sup> peine d'emprisonnement de trente ans ou une peine d'emprisonnement à perpétuité]<sup>8</sup>]<sup>4</sup>, subi quinze ans de cette peine [<sup>5</sup> , sous réserve de l'application des articles 195, alinéa 5, ou 344, alinéa 5, du Code d'instruction criminelle]<sup>5</sup>;
+
+d) soit, en cas de condamnation à une [<sup>4</sup> [<sup>8</sup> peine d'emprisonnement à perpétuité]<sup>8</sup>]<sup>4</sup> et si la motivation [<sup>5</sup> du jugement ou]<sup>5</sup> de l'arrêt fait apparaître qu'il avait précédemment été condamné à une [<sup>8</sup> peine d'emprisonnement d'au moins trois ans d'emprisonnement ferme]<sup>8</sup> pour des faits visés :
+
+\- [<sup>8</sup> articles 82 à 92, 96 à 99, 100 à 102, 112 à 118, 120 à 126, 134 à 149, 151 à 165, 171 à 174, 177 à 179, 183, 185, 195 à 198, 1° à 4°, 199, 200, 2° à 4°, 201, 1° à 4°, 202, 204, 206 à 211, 214 à 215, 219 à 228, 232, 233, 258 à 260, 265, 268, 273 à 274, 276 à 284, 288 à 291, 307 à 308, 318 à 324, 328 à 330, 333 à 335, 339, 371, 373 à 375, 384 à 386, 404, 405, 407 à 409, 413, § 1, 1°, et § 2, 468, 469, 473, § 2, 2° et 3°, 509, 520, 551, 553 à 559, 685, alinéa 1er, du Code pénal]<sup>8</sup>
+
+\- [<sup>8</sup> ...]<sup>8</sup>
+
+\- [<sup>7</sup> à l'article 4.5.2.3 du Code belge de la Navigation]<sup>7</sup>
+
+\- à l'article 30 de la loi du 27 juin 1937 portant révision de la loi du 16 novembre 1919 relative à la réglementation de la navigation aérienne;
+
+\- [<sup>8</sup> ...]<sup>8</sup>
+
+\- [<sup>8</sup> à l'article 618 du Code pénal.]<sup>8</sup>
+
+et qu'il s'est écoulé moins de dix ans entre le moment où il a purgé sa peine ou le moment où sa peine a été prescrite et les faits ayant donné lieu à sa condamnation à une [<sup>4</sup> [<sup>8</sup> peine d'emprisonnement de trente ans ou une peine d'emprisonnement à perpétuité]<sup>8</sup>]<sup>4</sup>, subi dix-neuf ans de cette peine [<sup>5</sup> , sous réserve de l'application des articles 195, alinéa 5, ou 344, alinéa 5, du Code d'instruction criminelle]<sup>5</sup>;
+
+e) soit, en cas de condamnation à une [<sup>4</sup> [<sup>8</sup> peine d'emprisonnement de trente ans ou une peine d'emprisonnement à perpétuité]<sup>8</sup>]<sup>4</sup>, et si la motivation [<sup>5</sup> du jugement ou]<sup>5</sup> de l'arrêt fait apparaître qu'il avait précédemment été condamné, [<sup>8</sup> par une cour d'assises à une peine privative de liberté de plus de cinq ans]<sup>8</sup>, subi vingt-trois ans de cette peine,]<sup>1</sup>
+
+et qu'il réponde aux conditions visées à l'article 47, § 2 [<sup>5</sup> , sous réserve de l'application des articles 195, alinéa 5, ou 344, alinéa 5, du Code d'instruction criminelle]<sup>5</sup>.
+
+----------
+
+(1)&lt;L 2013-03-17/01, art. 6, 013; En vigueur : 19-03-2013&gt;
+
+(2)&lt;L 2014-04-10/24, art. 16, 016; En vigueur : 10-05-2014&gt;
+
+(3)&lt;L 2016-02-01/09, art. 22, 021; En vigueur : 29-02-2016&gt;
+
+(4)&lt;L 2016-02-05/11, art. 155, 022; En vigueur : 29-02-2016&gt; (NOTE : par son arrêt n° 148/2017 du 21-12-2017 (M.B. 12-01-2018, p. 1393), la Cour constitutionnelle a annulé l'article 155)
+
+(5)&lt;L 2017-12-21/19, art. 5, 025; En vigueur : 21-01-2018&gt;
+
+(6)&lt;L 2020-05-04/16, art. 12, 028; En vigueur : 01-07-2020&gt;
+
+(7)&lt;L 2019-05-08/14, art. 92, 031; En vigueur : 01-09-2020&gt;
+
+(8)&lt;L 2026-03-30/02, art. 49, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 26/1
+
+[<sup>1</sup> Six mois avant que le condamné se trouve dans les conditions de temps déterminées par l'article 26, § 1er ou § 2, [<sup>2</sup> ou immédiatement si ce délai ne peut être respecté,]<sup>2</sup> le directeur l'informe par écrit sur la possibilité de demander une mise en liberté provisoire en vue de l'éloignement du territoire ou de la remise.
+
+Dès ce moment, le condamné peut introduire une demande écrite d'octroi d'une mise en liberté provisoire en vue de l'éloignement du territoire ou de la remise, conformément à l'article 30 ou à l'article 50, selon le cas.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-03-17/01, art. 7, 013; En vigueur : 19-03-2013&gt;
+
+(2)&lt;L 2021-06-29/09, art. 5, 036; En vigueur : 01-09-2022&gt;
+
+### CHAPITRE IV. [<sup>1</sup> La modification de la peine visée à l'article 50 du Code pénal]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-30/02, art. 50, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 26/1
+
+[<sup>1</sup> La réduction de la durée de l'interdiction, prononcée par le juge, du droit d'habiter, de résider ou de se tenir dans une zone déterminée désignée est une modalité d'exécution de l'interdiction du droit visée à l'article 382bis, alinéa 1er, 4°, du Code pénal, dans le cadre de laquelle la durée de l'interdiction peut être réduite, les modalités ou les conditions relatives à l'interdiction peuvent être adaptées ou l'interdiction peut être suspendue ou prendre fin.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-12-14/53, art. 4, 014; En vigueur : 02-05-2013&gt;
+
+###### Art. 26/2.
+
+[<sup>1</sup> La modification de la peine visée à l'article 50 du Code pénal est une modalité d'exécution de cette peine permettant de diminuer la durée ou l'étendue de l'interdiction, d'adapter les modalités ou les conditions de l'interdiction, de suspendre l'exécution ou en d'y mettre fin.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-03-30/02, art. 51, 045; En vigueur : 01-09-2026&gt;
+
+## TITRE VI. - Octroi des modalités d'exécution de la peine fixées au Titre V.
+
+### CHAPITRE Ier. - Des peines privatives de liberté de trois ans ou moins.
+
+#### Section Ire. - Définition.
+
+###### Art. 27
+
+Pour l'application du présent chapitre, il y a lieu d'entendre par peines privatives de liberté de trois ans ou moins, une ou plusieurs peines privatives de liberté dont la partie à exécuter s'élève à trois ans ou moins.
+
+[<sup>1</sup> Lorsqu'une ou plusieurs des peines privatives de liberté visées à l'alinéa 1er sont assorties de la peine complémentaire de mise à la disposition du tribunal de l'application des peines [<sup>2</sup> ...]<sup>2</sup>, les dispositions du chapitre II s'appliquent.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-07-31/02, art. 18, 037; En vigueur : 01-09-2023&gt;
+
+(2)&lt;L 2026-03-30/02, art. 52, 045; En vigueur : 01-09-2026&gt;
+
+#### Section II. - Des conditions.
+
+###### Art. 28
+
+§ 1er. A l'exception de la mise en liberté provisoire en vue de l'éloignement du territoire ou de la remise [<sup>2</sup> [<sup>6</sup> et à l'exception de la modification de la peine visée à l'article 50 du Code pénal]<sup>6</sup>]<sup>2</sup>, les modalités d'exécution de la peine prévues au Titre V peuvent être accordées au condamné pour autant qu'il n'existe pas de contre-indications dans le chef de celui-ci [<sup>5</sup> auxquelles la fixation de conditions particulières ne puisse répondre]<sup>5</sup>. Ces contre-indications portent sur :
+
+1° le fait que le condamné n'a pas la possibilité de subvenir à ses besoins;
+
+2° un risque manifeste pour l'intégrité physique de tiers;
+
+3° le risque que le condamné importune les victimes;
+
+4° l'attitude du condamné à l'égard des victimes des infractions qui ont donné lieu à sa condamnation;
+
+[<sup>1</sup> 5° ...;]<sup>1</sup>
+
+[<sup>3</sup> 6° les efforts consentis par le condamné pour indemniser la partie civile, compte tenu de la situation patrimoniale du condamné telle qu'elle a évolué par son fait depuis la perpétration des faits pour lesquels il a été condamné.]<sup>3</sup>
+
+Le 1° n'est pas applicable à la détention limitée.
+
+§ 2. La mise en liberté provisoire en vue de l'éloignement du territoire ou de la remise peut être accordée au condamné pour autant qu'il n'existe pas de contre-indications dans le chef de celui-ci [<sup>5</sup> auxquelles la fixation de conditions particulières ne puisse répondre]<sup>5</sup>. Ces contre-indications portent sur :
+
+1° [<sup>4</sup> ...]<sup>4</sup>
+
+2° un risque manifeste pour l'intégrité physique de tiers;
+
+3° le risque que le condamné importune les victimes;
+
+4° les efforts fournis par le condamné pour indemniser les parties civiles [<sup>3</sup> , compte tenu de la situation patrimoniale du condamné telle qu'elle a évolué par son fait depuis la perpétration des faits pour lesquels il a été condamné.]<sup>3</sup>
+
+[<sup>2</sup> § 3. [<sup>6</sup> La modification de la peine visée à l'article 50 du Code pénal peut être accordée au condamné pour autant qu'il n'existe pas dans son chef de contre-indications portant sur le risque de récidive et qu'il n'existe pas de contre-indications portant sur le risque qu'il importune les victimes.]<sup>6</sup>]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2007-04-21/01, art. 147, 003; En vigueur : indéterminée et au plus tard au 01-01-2015, mais abrogé au 31-12-1984, avant son entrée en vigueur&gt;
+
+(2)&lt;L 2012-12-14/53, art. 5, 014; En vigueur : 02-05-2013&gt;
+
+(3)&lt;L 2013-12-15/05, art. 13, 015; En vigueur : 01-01-2014&gt;
+
+(4)&lt;L 2019-05-05/18, art. 24, 029; En vigueur : 01-09-2022&gt;
+
+(5)&lt;L 2022-07-30/03, art. 45, 035; En vigueur : 01-09-2022&gt;
+
+(6)&lt;L 2026-03-30/02, art. 53, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 28/1
+
+[<sup>1</sup> Lorsque le condamné subit une peine pour des faits visés par les articles [<sup>2</sup> 100, 112 à 118, 120 à 126, 129, 130, 143 à 146, 151 à 155, 160, 161, 168, 171 à 174, 200, 201, 206 à 211, 260, 333 à 337 du Code pénal]<sup>2</sup> ou pour des faits commis dans un contexte de violences intrafamiliales, la surveillance électronique ne peut pas être octroyée si la victime réside au lieu où la surveillance électronique sera effectuée. Le juge de l'application des peines peut, à titre exceptionnel, accorder une telle surveillance électronique par une décision motivée par des raisons particulières, lesquelles indiquent en quoi l'exécution de la surveillance électronique à l'adresse où réside la victime des faits ne présente aucun danger pour celle-ci. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 38, 042; En vigueur : 04-08-2025&gt;
+
+(2)&lt;L 2026-03-30/02, art. 54, 045; En vigueur : 01-09-2026&gt;
+
+#### Section III. - De la procédure d'octroi.
+
+###### Art. 29
+
+§ 1er. La détention limitée et la surveillance électronique sont accordées par le juge de l'application des peines à la demande écrite du condamné.
+
+§ 2. La demande écrite est introduite [<sup>1</sup> ...]<sup>1</sup> au greffe de la prison [<sup>1</sup> ...]<sup>1</sup>.
+
+Le greffe de la prison transmet la demande écrite au greffe du tribunal de l'application des peines dans les vingt-quatre heures et [<sup>1</sup> , sous réserve de l'application du paragraphe 2/1,]<sup>1</sup> en remet une copie au directeur.
+
+[<sup>1</sup> § 2/1. Le condamné, dont le greffe de la prison constate, après qu'il s'est spontanément présenté à la prison après réception de l'ordre d'exécution de sa condamnation du ministère public, qu'il doit subir une ou plusieurs peines privatives de liberté pour lesquelles il se trouve, à six mois près, dans les conditions de temps pour l'octroi d'une libération conditionnelle, peut introduire immédiatement la demande écrite visée au paragraphe 2, sauf si un avis spécialisé est requis conformément à l'article 32. Le greffe de la prison transmet la demande écrite et la fiche d'écrou au greffe du tribunal de l'application des peines dans les vingt-quatre heures et remet une copie de la demande écrite et la fiche d'écrou au ministère public.
+
+L'exécution de la peine privative de liberté est suspendue une seule fois de plein droit dès l'introduction de la demande écrite. Cette suspension prend fin de plein droit le jour où le jugement du juge de l'application des peines qui statue sur la demande est passé en force de chose jugée ou, en cas d'octroi de la surveillance électronique, au moment du placement effectif sous surveillance électronique. La prescription des peines contenues dans la demande ne court pas durant cette période de suspension.
+
+Dans les quinze jours ouvrables de l'introduction de la demande écrite au greffe de la prison, le condamné concerné dépose son dossier au greffe du tribunal de l'application des peines. Ce dossier contient la communication des éléments pertinents pour la modalité d'exécution de la peine spécifiquement demandée, à savoir:
+
+\- s'il s'agit d'une demande de surveillance électronique: des informations précises sur la manière dont il entend occuper utilement ses journées, sur l'endroit où la surveillance électronique se déroulera et l'accord des cohabitants majeurs de cet endroit;
+
+\- s'il s'agit d'une demande de détention limitée: des informations précises sur les intérêts professionnels, de formation ou familiaux qui requièrent sa présence hors de la prison.
+
+Le dossier contient également les éléments pertinents pour l'évaluation par le juge de l'application des peines des contre-indications visées à l'article 28, § 1er.
+
+Le greffe du tribunal de l'application des peines communique sans délai une copie de ce dossier au ministère public et joint au dossier un extrait actualisé du casier judiciaire, la fiche d'écrou et une copie des jugements et arrêts auxquels se rapporte la demande.
+
+§ 2/2. Durant la suspension de l'exécution de la peine privative de liberté, le procureur du Roi près le tribunal dans le ressort duquel le condamné se trouve ou le ministère public peut ordonner l'incarcération du condamné si celui-ci met gravement en péril l'intégrité physique ou psychique de tiers ou s'il existe un risque que le condamné se soustraie à l'exécution de sa peine. Cette décision est communiquée sans délai au condamné, au juge de l'application des peines compétent et au directeur de la prison. La suspension de l'exécution de la peine privative de liberté prend ce faisant fin, ainsi que l'application de la procédure mentionnée au paragraphe 2/1.]<sup>1</sup>
+
+§ 3. [<sup>1</sup> Sous réserve de l'application du paragraphe 2/1]<sup>1</sup>, le directeur rend un avis dans [<sup>1</sup> le mois]<sup>1</sup> de la réception de la copie de la demande écrite. Les articles 31 et 32 sont d'application.
+
+----------
+
+(1)&lt;L 2021-06-29/09, art. 6, 036; En vigueur : 01-09-2022&gt;
+
+###### Art. 29/1
+
+[<sup>1</sup> § 1er. [<sup>4</sup> La modification de la peine visée à l'article 50 du Code pénal]<sup>4</sup> est accordée par le juge de l'application des peines à la demande écrite du condamné ou du ministère public.
+
+§ 2. [<sup>3</sup> La demande écrite du ministère public est introduite au greffe du tribunal de l'application des peines et une copie en est remise au directeur de la prison si le condamné est détenu.
+
+Le condamné qui bénéficie d'une modalité d'exécution de la peine doit introduire sa demande écrite au greffe du tribunal de l'application des peines. Le greffe en remet une copie au ministère public.
+
+Si le condamné est détenu, il dépose sa demande au greffe de la prison. Le greffe de la prison transmet la demande écrite au greffe du tribunal de l'application des peines dans les vingt-quatre heures et en remet une copie au directeur.]<sup>3</sup>
+
+§ 3. Si le condamné est détenu, le directeur rend un avis dans [<sup>2</sup> le mois]<sup>2</sup> de la réception de la copie de la demande écrite. Les articles 31 et 32 sont d'application.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-12-14/53, art. 6, 014; En vigueur : 02-05-2013&gt;
+
+(2)&lt;L 2019-05-05/18, art. 5, 029; En vigueur : 01-09-2022&gt;
+
+(3)&lt;L 2021-06-29/09, art. 7, 036; En vigueur : 01-09-2022&gt;
+
+(4)&lt;L 2026-03-30/02, art. 55, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 30
+
+§ 1er. La libération conditionnelle et la mise en liberté provisoire en vue de l'éloignement du territoire ou de la remise sont accordées par le juge de l'application des peines [<sup>1</sup> sur demande écrite du condamné]<sup>1</sup>.
+
+[<sup>1</sup> § 1er/1. La demande écrite est introduite au greffe de la prison.
+
+Le greffe de la prison transmet la demande écrite au greffe du tribunal de l'application des peines dans les vingt-quatre heures et en remet une copie au directeur.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> Le directeur rend un avis au plus tard dans [<sup>2</sup> le mois]<sup>2</sup> après la réception de la demande écrite du condamné.]<sup>1</sup> Les articles 31 et 32 sont d'application.
+
+[<sup>4</sup> § 3. Par dérogation aux paragraphes 1er/1 et 2, le condamné qui est sous surveillance électronique, laquelle lui a été accordée sur une demande introduite conformément à l'article 29, § 2/1, introduit la demande écrite au greffe du tribunal de l'application des peines et joint à sa demande les éléments pertinents pour la modalité d'exécution [<sup>3</sup> de la peine demandée et pour l'évaluation par le juge de l'application des peines]<sup>3</sup> des contre-indications visées à l'article 28, § 1er. Le greffe du tribunal de l'application des peines en remet une copie au ministère public et au greffe de la prison, qui leur communique une copie de la fiche d'écrou.]<sup>4</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-03-17/01, art. 8, 013; En vigueur : 19-03-2013&gt;
+
+(2)&lt;L 2019-05-05/18, art. 6, 029; En vigueur : 01-09-2022&gt;
+
+(3)&lt;L 2022-07-30/03, art. 46, 035; En vigueur : 01-09-2022&gt;
+
+(4)&lt;L 2021-06-29/09, art. 8, 036; En vigueur : 01-09-2022&gt;
+
+###### Art. 31
+
+§ 1er. Pour rédiger son avis, le directeur constitue un dossier et entend le condamné. Ce dossier contient :
+
+\- une copie de la fiche d'écrou;
+
+\- une copie des jugements et arrêts;
+
+\- l'exposé des faits pour lesquels l'intéressé a été condamné;
+
+\- un extrait du casier judiciaire;
+
+\- la date d'admissibilité à la modalité d'exécution de la peine concernée;
+
+\- le rapport du directeur rédigé selon les règles fixées par le Roi;
+
+\- (le cas échéant, l'avis motivé d'un service ou d'une personne spécialisé(e) dans l'expertise diagnostique des délinquants sexuels;) &lt;L 2006-12-27/33, art. 58, 1°, 002; En vigueur : 01-02-2007&gt;
+
+[<sup>2</sup> - le cas échéant, le rapport d'un service ou d'une personne spécialisé(e) dans les problématiques liées au terrorisme et à l'extrémisme violent;]<sup>2</sup>
+
+\- [<sup>3</sup> ...]<sup>3</sup>
+
+\- le mémoire du condamné ou de son conseil.
+
+§ 2. [<sup>3</sup> ...]<sup>3</sup>
+
+§ 3. L'avis du directeur contient une proposition motivée d'octroi ou de refus de la modalité d'exécution de la peine et, le cas échéant, les conditions particulières qu'il estime nécessaire d'imposer au condamné.
+
+§ 4. L'avis du directeur est adressé au greffe du tribunal de l'application des peines, et une copie en est communiquée au ministère public et au condamné.
+
+§ 5. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-03-17/01, art. 9, 013; En vigueur : 19-03-2013&gt;
+
+(2)&lt;L 2019-05-05/10, art. 147, 027; En vigueur : 03-06-2019&gt;
+
+(3)&lt;L 2019-05-05/18, art. 7, 029; En vigueur : 01-09-2022&gt;
+
+###### Art. 32
+
+[<sup>2</sup> § 1er.]<sup>2</sup> Si le condamné subit une peine pour des faits visés [<sup>1</sup> aux [<sup>4</sup> articles 134 à 149, 151 à 168, 171 à 174, 177 à 179, 183 pour autant que la condamnation concerne de contenus à caractère extrêmement pornographique, et 185 du Code pénal,]<sup>4</sup> [<sup>3</sup> l'avis du directeur visé à l'article 29, § 3, et à l'article 30, § 2, doit être accompagné]<sup>3</sup> d'un avis motivé (d'un service ou d'une personne spécialisé(e) dans l'expertise diagnostique des délinquants sexuels). &lt;L 2006-12-27/33, art. 59, 1° et 2°, 002; En vigueur : 01-02-2007&gt;
+
+L'avis contient une appréciation de la nécessité d'imposer un traitement.
+
+[<sup>2</sup> § 2. Si le condamné subit une peine pour des faits visés au [<sup>4</sup> livre II, titre 4, chapitre 1er, du Code pénal]<sup>4</sup> ou si le condamné présente des signes d'extrémisme violent tels que définis à l'alinéa 2, l'avis visé [<sup>3</sup> à l'article 29, § 3, et à l'article 30, § 2]<sup>3</sup> doit être accompagné d'un rapport d'un service ou d'une personne spécialisé(e) dans les problématiques liées au terrorisme et à l'extrémisme violent.
+
+Par extrémisme violent, il convient d'entendre le fait de promouvoir, encourager ou commettre des actes pouvant mener au terrorisme et qui visent à défendre une idéologie prônant une suprématie raciale, nationale, ethnique ou religieuse ou s'opposant aux valeurs et principes fondamentaux de la démocratie.
+
+Cet avis contient une appréciation de la nécessité d'imposer un parcours d'accompagnement adapté.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2016-02-01/09, art. 23, 021; En vigueur : 29-02-2016&gt;
+
+(2)&lt;L 2019-05-05/10, art. 148, 027; En vigueur : 03-06-2019&gt;
+
+(3)&lt;L 2021-06-29/09, art. 8, 036; En vigueur : 01-09-2022&gt;
+
+(4)&lt;L 2026-03-30/02, art. 56, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 33
+
+§ 1er. [<sup>4</sup> Dans les cas où le ministère public l'estime utile et pour lesquels le Collège des procureurs généraux peut édicter des directives, le ministère public rédige un avis et le transmet, dans les dix jours ouvrables à compter de la réception de la copie de l'avis du directeur ou après l'introduction de la demande du condamné visée à l'article 29/1, § 2, alinéa 2, ou à l'article 30, § 3, ou à l'expiration du délai pour le dépôt du dossier au greffe du tribunal de l'application des peines visé à l'article 29, § 2/1, alinéa 3, au juge de l'application des peines et en remet une copie au condamné et, le cas échéant, au directeur.]<sup>4</sup>
+
+§ 2. [<sup>4</sup> Dans les cas où la loi n'a pas prévu de formulation d'avis préalable du directeur, le ministère public peut, en vue de leur octroi, charger le service compétent des Communautés de rédiger un rapport d'information succinct ou de procéder à une enquête sociale. Le contenu de ce rapport d'information succinct et de cette enquête sociale est déterminé par le Roi.]<sup>4</sup>
+
+[<sup>2</sup> § 3. [<sup>4</sup> ...]<sup>4</sup>]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-03-17/01, art. 10, 013; En vigueur : 19-03-2013&gt;
+
+(2)&lt;L 2012-12-14/53, art. 7, 014; En vigueur : 02-05-2013&gt;
+
+(3)&lt;L 2021-11-28/01, art. 69, 033; En vigueur : 10-12-2021&gt;
+
+(4)&lt;L 2021-06-29/09, art. 10, 036; En vigueur : 01-09-2022&gt;
+
+###### Art. 34
+
+[<sup>1</sup> § 1er. Le juge de l'application des peines statue conformément aux dispositions des sous-sections II et III de la section IV dans le mois de la réception de l'avis du directeur visé à l'article 31 ou de l'introduction de la demande visée à l'article 29/1, § 2, alinéas 1e et 2, ou à l'article 30, § 3, ou à l'expiration du délai pour le dépôt du dossier au greffe du tribunal de l'application des peines visé à l'article 29, § 2/1, alinéa 3, et, au plus tôt, après réception de l'avis du ministère public ou après expiration du délai imparti au ministère public pour communiquer son avis.
+
+§ 2. Si le juge de l'application des peines estime toutefois que le dossier n'est pas en état et que, pour pouvoir prendre une décision, des informations complémentaires sont nécessaires, qu'il estime nécessaire de charger le service compétent des Communautés de rédiger un rapport d'information succinct ou de procéder à une enquête sociale, en vue d'obtenir les informations nécessaires sur le milieu d'accueil où la surveillance électronique, la détention limitée ou la libération conditionnelle se déroulera ou qu'il est nécessaire d'organiser une audience pour entendre le condamné, le délai d'un mois visé au paragraphe 1er peut être prolongé une fois d'un mois au maximum.
+
+S'il charge le service compétent des Communautés de rédiger un rapport d'information succinct ou de procéder à une enquête sociale, en vue d'obtenir les informations nécessaires sur le milieu d'accueil où la surveillance électronique, la détention limitée ou la libération conditionnelle se déroulera, le greffe du tribunal de l'application des peines porte cette demande à la connaissance du service compétent des Communautés par le moyen de communication écrit le plus rapide, accompagnée du dossier qui contient au moins les documents suivants: la copie des jugements et des arrêts de condamnation, la copie de la fiche d'écrou et l'extrait du casier judiciaire. Le Roi détermine le contenu de ce rapport d'information succinct et de cette enquête sociale.
+
+Le juge de l'application des peines peut réclamer auprès du service compétent des Communautés les rapports qui concernent les procédures judiciaires.
+
+Si le juge de l'application des peines a demandé des informations supplémentaires ou s'il a chargé le service compétent des Communautés de rédiger un rapport d'information succinct ou de procéder à une enquête sociale, en vue d'obtenir les informations nécessaires sur le milieu d'accueil où la surveillance électronique, la détention limitée ou la libération conditionnelle se déroulera, et qu'il estime encore nécessaire pour pouvoir prendre une décision d'organiser une audience pour entendre le condamné, le délai visé à l'alinéa 1er peut encore être prolongé une fois d'un mois au maximum.
+
+§ 3. Si le juge de l'application des peines estime que des informations complémentaires sont nécessaires pour pouvoir prendre une décision ou s'il charge le service compétent des Communautés de rédiger un rapport d'information succinct ou de procéder à une enquête sociale, il communique sans délai la prolongation du délai au ministère public, au directeur, si le condamné est en détention, et au condamné et invite ce dernier ou, le cas échéant, le directeur à communiquer par écrit les informations nécessaires dans les quatorze jours.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-06-29/09, art. 11, 036; En vigueur : 01-09-2022&gt;
+
+###### Art. 35
+
+&lt;Abrogé par L 2019-05-05/18, art. 24, 029; En vigueur : 01-09-2022&gt;
+
+###### Art. 36
+
+[<sup>1</sup> § 1er. Si le juge de l'application des peines souhaite entendre le condamné, il communique sans délai la prolongation du délai au ministère public, au directeur, si le condamné est en détention, et au condamné. Il peut à cet égard inviter le directeur, si le condamné est en détention, ou le condamné, dans le délai qu'il fixe, à communiquer par écrit des informations complémentaires.
+
+§ 2. Les lieu, jour et heure de l'audience sont communiqués par envoi recommandé au condamné et à la victime et par écrit au directeur, si le condamné est en détention, et au ministère public.
+
+§ 3. Le dossier est tenu, au moins quatre jours avant la date fixée pour l'audience, à la disposition du condamné et de son avocat pour consultation au greffe du tribunal de l'application des peines ou, si le condamné est en détention, au greffe de la prison où le condamné subit sa peine. Le condamné peut, à sa demande, obtenir une copie du dossier.
+
+§ 4. Le juge de l'application des peines entend le condamné et son avocat ainsi que le ministère public et le directeur, si le condamné est en détention.
+
+La victime est entendue sur les conditions particulières à imposer dans son intérêt. La victime est présente à l'audience le temps nécessaire à l'examen de ces conditions. Le ministère public et le directeur expliquent à cette occasion les conditions qu'ils ont formulées dans leur avis dans l'intérêt de la victime. La victime peut présenter ses observations.
+
+Le juge de l'application des peines peut décider d'entendre également d'autres personnes.
+
+§ 5. L'audience se déroule à huis clos.
+
+§ 6. Le juge de l'application des peines rend sa décision dans les quatorze jours de la mise en délibéré.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-05/18, art. 10, 029; En vigueur : 01-09-2022&gt;
+
+###### Art. 37
+
+[<sup>1</sup> Lorsque le juge de l'application des peines refuse d'accorder la modalité d'exécution de la peine, le condamné a le droit de demander d'être entendu lors de la demande suivante pour l'octroi de la même modalité d'exécution de la peine.
+
+Après trois refus de se voir accorder une même modalité d'exécution de la peine, le condamné peut demander de comparaître en audience publique lors de la demande suivante pour l'octroi de la même modalité d'exécution de la peine.
+
+La demande de comparution en audience publique ne peut être rejetée, par décision motivée, que si cette publicité est dangereuse pour l'ordre public, les bonnes moeurs ou la sécurité nationale.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-05/18, art. 11, 029; En vigueur : 01-09-2022&gt;
+
+#### Section IV. - De la décision du juge de l'application des peines.
+
+##### Sous-section Ire. - Disposition générale.
+
+###### Art. 38
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> Le juge de l'application des peines]<sup>1</sup> octroie la modalité d'exécution de la peine lorsqu'il constate que toutes les conditions fixées par la loi sont remplies [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2019-05-05/18, art. 12, 029; En vigueur : 01-09-2022&gt;
+
+##### Sous-section II. - De la décision d'octroi d'une modalité d'exécution de la peine.
+
+###### Art. 39
+
+Le jugement d'octroi de la modalité d'exécution de la peine détermine que le condamné est soumis aux conditions générales suivantes :
+
+1° ne pas commettre d'infractions;
+
+2° sauf pour la détention limitée [<sup>2</sup> et la mise en liberté provisoire en vue de l'éloignement du territoire]<sup>2</sup>, avoir une adresse fixe et, en cas de changement d'adresse, communiquer sans délai l'adresse de sa nouvelle résidence au ministère public et, le cas échéant, [<sup>1</sup> au service compétent des Communautés]<sup>1</sup> chargé de sa guidance;
+
+3° donner suite aux convocations du ministère public et, le cas échéant, [<sup>1</sup> du service compétent des Communautés]<sup>1</sup> chargé d'exercer la guidance.
+
+[<sup>2</sup> 4° pour la mise en liberté provisoire en vue de l'éloignement du territoire, l'obligation de quitter effectivement le territoire et l'interdiction de revenir en Belgique pendant le délai d'épreuve sans être en règle avec la législation et la réglementation relative à l'accès au territoire, au séjour ou à l'établissement dans le Royaume et sans l'autorisation préalable du juge de l'application des peines.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2021-11-28/01, art. 71, 033; En vigueur : 10-12-2021&gt;
+
+(2)&lt;L 2022-07-30/03, art. 47, 035; En vigueur : 01-09-2022&gt;
+
+###### Art. 40
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Le juge de l'application des peines peut soumettre le condamné à des conditions particulières individualisées si elles sont absolument nécessaires pour limiter le risque de récidive ou si elles sont nécessaires dans l'intérêt de la victime.
+
+[<sup>1</sup> § 2. En cas d'octroi d'une libération conditionnelle, le juge de l'application des peines détermine également dans son jugement si le condamné peut ou non quitter le territoire du Royaume pendant la libération conditionnelle.
+
+Dans le cas où le condamné peut quitter le territoire du Royaume, le juge de l'application des peines détermine dans son jugement la période maximale pendant laquelle le condamné peut le faire et à quelle fréquence et, le cas échéant, si et de quelle manière le condamné doit en informer le ministère public avant de quitter le territoire du Royaume.
+
+§ 3. En cas de condamnation pour des faits visés au [<sup>2</sup> livre II, titre 4, chapitre 1er, du Code pénal]<sup>2</sup>, ou s'il existe des éléments concrets d'extrémisme violent tels que définis à l'article 32, § 2, alinéa 2, l'autorisation donnée par le juge de l'application des peines conformément au paragraphe 2 de quitter le territoire du Royaume doit faire l'objet d'une motivation spéciale.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-30/03, art. 48, 035; En vigueur : 01-09-2022&gt;
+
+(2)&lt;L 2026-03-30/02, art. 57, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 41
+
+[<sup>3</sup> § 1er.]<sup>3</sup> Si le condamné subit une peine pour un des faits visés [<sup>2</sup> aux [<sup>4</sup> articles 134 à 149, 151 à 168, 171 à 174, 177 à 179, 183 pour autant que la condamnation concerne de contenus à caractère extrêmement pornographique et 185 du Code pénal,]<sup>4</sup> le juge de l'application des peines peut assortir l'octroi de la modalité d'exécution de la peine de l'obligation de suivre une guidance ou un traitement dans un service spécialisé dans la guidance ou le traitement des délinquants sexuels. Le juge fixe la durée de la période pendant laquelle le condamné devra suivre cette guidance ou ce traitement. [<sup>1</sup> ...]<sup>1</sup>. &lt;L 2006-12-27/33, art. 62, 002; En vigueur : 01-02-2007&gt;
+
+[<sup>3</sup> § 2. Si le condamné subit une peine pour un des faits visés au [<sup>4</sup> livre II, titre 4, chapitre 1er, du Code pénal]<sup>4</sup> ou si le condamné présente des signes d'extrémisme violent tels que définis à l'article 32, § 2, alinéa 2, le juge de l'application des peines peut assortir l'octroi de la modalité d'exécution de la peine de l'obligation de suivre un parcours d'accompagnement adapté auprès d'un service ou d'une personne spécialisé(e) dans les problématiques liées au terrorisme et à l'extrémisme violent. Le juge fixe la durée de la période pendant laquelle le condamné devra suivre ce parcours.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2007-04-21/01, art. 149, 003; En vigueur : indéterminée et au plus tard au 01-01-2015, mais abrogé au 31-12-1984, avant son entrée en vigueur&gt;
+
+(2)&lt;L 2016-02-01/09, art. 24, 021; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2019-05-05/10, art. 149, 027; En vigueur : 03-06-2019&gt;
+
+(4)&lt;L 2026-03-30/02, art. 58, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 42
+
+Le juge de l'application des peines détermine dans le jugement d'octroi d'une détention limitée ou d'une surveillance électronique le programme du contenu concret de celle-ci.
+
+[<sup>1</sup> Le service compétent des Communautés]<sup>1</sup> se charge de donner un contenu concret à la modalité d'exécution de la peine octroyée conformément aux modalités fixées par le Roi.
+
+----------
+
+(1)&lt;L 2021-11-28/01, art. 72, 033; En vigueur : 10-12-2021&gt;
+
+###### Art. 43
+
+[<sup>1</sup> § 1er. [<sup>4</sup> Si le juge de l'application des peines décide de l'octroi de la détention limitée ou de la surveillance électronique, il peut également octroyer un congé pénitentiaire à ce moment.]<sup>4</sup>
+
+§ 2. Si le condamné demande un congé pénitentiaire après l'octroi de la détention limitée ou de la surveillance électronique, la demande écrite est déposée au greffe de la prison.
+
+Le greffe de la prison transmet la demande écrite au greffe du tribunal de l'application des peines dans le jour ouvrable et en remet une copie au directeur.
+
+Le directeur rend un avis sur l'adresse de congé proposée au plus tard dans les six semaines de la réception de la demande écrite du condamné. Le directeur peut charger le [<sup>2</sup> service compétent des Communautés]<sup>2</sup> de rédiger un rapport d'information succinct ou de procéder à une enquête sociale dans le milieu d'accueil proposé par le condamné pour le congé pénitentiaire. [<sup>2</sup> Le Roi détermine le contenu de ce rapport d'information succinct et de cette enquête sociale.]<sup>2</sup>
+
+L'avis du directeur est adressé au greffe du tribunal de l'application des peines, et une copie en est communiquée au ministère public et au condamné.
+
+[<sup>4</sup> Dans les cas où le ministère public l'estime utile et pour lesquels le Collège des procureurs généraux peut édicter des directives, le ministère public rédige un avis et le transmet, dans les dix jours ouvrables à compter de la réception de la copie de l'avis du directeur, au juge de l'application des peines et en remet une copie au condamné et, le cas échéant, au directeur.]<sup>4</sup>
+
+Le juge de l'application des peines prend une décision dans [<sup>4</sup> le mois]<sup>4</sup> de la réception de l'avis du directeur [<sup>4</sup> et au plus tôt, après réception de l'avis du ministère public ou après expiration du délai imparti au ministère public pour communiquer son avis]<sup>4</sup>.
+
+Les articles 39 et 40 s'appliquent.
+
+[<sup>4</sup> § 2/1. Par dérogation au paragraphe 2, le condamné qui demande un congé pénitentiaire après l'octroi de la détention limitée ou de la surveillance électronique en application de l'article 29, § 2/1, introduit sa demande écrite au greffe du tribunal de l'application des peines. Cette demande contient les informations relatives aux circonstances factuelles et au cadre dans lequel le congé se déroulera.
+
+Le juge de l'application des peines statue dans le mois qui suit l'introduction de la demande du condamné.
+
+Les articles 39 et 40 s'appliquent.]<sup>4</sup>
+
+§ 3. Le juge de l'application des peines fixe la durée du congé pénitentiaire, qui ne peut être inférieure à [<sup>3</sup> quatre fois]<sup>3</sup> trente-six heures par trimestre. Le congé pénitentiaire est renouvelé de plein droit chaque trimestre.
+
+§ 4. L'article 46 s'applique.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 157, 022; En vigueur : 29-02-2016&gt;
+
+(2)&lt;L 2021-11-28/01, art. 73, 033; En vigueur : 10-12-2021&gt;
+
+(3)&lt;L 2022-07-30/03, art. 49, 035; En vigueur : 01-09-2022&gt;
+
+(4)&lt;L 2021-06-29/09, art. 12, 036; En vigueur : 01-09-2022&gt;
+
+###### Art. 44
+
+&lt;Abrogé par L 2019-05-05/18, art. 24, 029; En vigueur : 01-09-2022&gt;
+
+##### Sous-section III. - De la décision de non-octroi d'une modalité d'exécution de la peine.
+
+###### Art. 45
+
+Si le juge de l'application des peines n'accorde pas la modalité d'exécution de la peine sollicitée, il indique dans son jugement la date à laquelle le condamné peut introduire une nouvelle demande [<sup>1</sup> ...]<sup>1</sup>.
+
+Ce délai ne peut excéder six mois à compter du jugement.
+
+----------
+
+(1)&lt;L 2013-03-17/01, art. 12, 013; En vigueur : 19-03-2013&gt;
+
+##### Sous-section IV. - De la communication de la décision.
+
+###### Art. 46
+
+§ 1er. Le jugement est notifié dans les vingt-quatre heures, [<sup>5</sup> par envoi recommandé]<sup>5</sup>, au condamné et porté par écrit à la connaissance du ministère public et [<sup>4</sup> ...]<sup>4</sup> du directeur. [<sup>4</sup> Lors de la prise de connaissance du jugement, le condamné marque son accord sur les conditions.]<sup>4</sup>
+
+La victime est informée [<sup>1</sup> le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide,]<sup>1</sup> du jugement et, le cas échéant, des conditions qui sont imposées dans son intérêt.
+
+[<sup>5</sup> Sans préjudice de l'alinéa 1er, le condamné qui n'est pas détenu et à l'égard duquel il a été statué sans l'avoir entendu et sans qu'il ait été assisté par un avocat est informé du jugement dans les plus brefs délais et en tout cas dans les vingt-quatre heures par le moyen de communication écrit le plus rapide.]<sup>5</sup>
+
+§ 2. Le jugement d'octroi d'une modalité d'exécution de la peine est communiqué aux autorités et instances suivantes :
+
+\- au chef de corps de la police locale de la commune où le condamné s'établira;
+
+\- à [<sup>2</sup> banque de données nationale visée à l'article 44/2 de la loi du 5 août 1992]<sup>2</sup> sur la fonction de police;
+
+\- le cas échéant, au directeur de la maison de justice de l'arrondissement judiciaire du lieu de résidence du condamné;
+
+\- [<sup>3</sup> au service des Communautés, compétent en matière de surveillance électronique, si la décision porte sur une surveillance électronique;]<sup>3</sup>
+
+[<sup>3</sup> - au directeur de la maison de justice du lieu de résidence de la victime [<sup>7</sup> ...]<sup>7</sup>;]<sup>3</sup>
+
+[<sup>6</sup> - à l'Office des Etrangers, si la décision porte sur une mise en liberté provisoire en vue de l'éloignement du territoire ou de la remise.]<sup>6</sup>
+
+----------
+
+(1)&lt;L 2013-12-15/05, art. 16, 015; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2016-02-05/11, art. 158, 022; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2021-11-28/01, art. 74, 033; En vigueur : 10-12-2021&gt;
+
+(4)&lt;L 2021-06-29/09, art. 13, 036; En vigueur : 01-09-2022&gt;
+
+(5)&lt;L 2023-07-31/02, art. 19, 037; En vigueur : 01-09-2023&gt;
+
+(6)&lt;L 2024-03-28/60, art. 36, 039; En vigueur : 08-04-2024&gt;
+
+(7)&lt;L 2026-03-30/02, art. 59, 045; En vigueur : 01-09-2026&gt;
+
+### CHAPITRE II. - Des peines privatives de liberté de plus de trois ans.
+
+#### Section Ire. - Des conditions.
+
+###### Art. 47
+
+§ 1er. A l'exception de la mise en liberté provisoire en vue de l'éloignement du territoire ou de la remise [<sup>2</sup> et [<sup>5</sup> à l'exception de la peine visée à l'article 50 du Code pénal]<sup>5</sup> ]<sup>2</sup>, les modalités d'exécution de la peine prévues au Titre V peuvent être accordées au condamné pour autant qu'il n'existe pas de contre-indications dans le chef de celui-ci [<sup>4</sup> auxquelles la fixation de conditions particulières ne puisse répondre]<sup>4</sup>. Ces contre-indications portent sur :
+
+1° l'absence de perspectives de réinsertion sociale du condamné;
+
+2° le risque de perpétration de nouvelles infractions graves;
+
+3° le risque que le condamné importune les victimes;
+
+4° l'attitude du condamné à l'égard des victimes des infractions qui ont donné lieu à sa condamnation;
+
+[<sup>1</sup> 5° ...]<sup>1</sup>
+
+[<sup>3</sup> 6° les efforts consentis par le condamné pour indemniser la partie civile, compte tenu de la situation patrimoniale du condamné telle qu'elle a évolué par son fait depuis la perpétration des faits pour lesquels il a été condamné.]<sup>3</sup>
+
+§ 2. La mise en liberté provisoire en vue de l'éloignement du territoire ou de la remise peut être accordée au condamné pour autant qu'il n'existe pas de contre-indications dans le chef de celui-ci [<sup>4</sup> auxquelles la fixation de conditions particulières ne puisse répondre]<sup>4</sup>. Ces contre-indications portent sur :
+
+1° [<sup>4</sup> ...]<sup>4</sup>;
+
+2° le risque de perpétration de nouvelles infractions graves;
+
+3° le risque que le condamné importune les victimes;
+
+4° les efforts fournis par le condamné pour indemniser les parties civiles [<sup>3</sup> , compte tenu de la situation patrimoniale du condamné telle qu'elle a évolué par son fait depuis la perpétration des faits pour lesquels il a été condamné.]<sup>3</sup>
+
+[<sup>2</sup> § 3. [<sup>5</sup> La modification de la peine visée à l'article 50 du Code pénal peut être accordée au condamné pour autant qu'il n'existe pas dans son chef de contre-indications portant sur le risque de récidive et qu'il n'existe pas de contre-indications portant au risque qu'il importune les victimes.]<sup>5</sup>]<sup>2</sup>
+
+----------
+
+(1)&lt;inséré par L 2007-04-21/01, art. 148, 003; En vigueur : indéterminée et au plus tard au 01-01-2015, jamais entré en vigueur suite à l'abrogation de la loi du 21-04-2007 par L 2014-12-19/24, art. 2, En vigueur : 31-12-2014&gt;
+
+(2)&lt;L 2012-12-14/53, art. 9, 014; En vigueur : 02-05-2013&gt;
+
+(3)&lt;L 2013-12-15/05, art. 17, 015; En vigueur : 01-01-2014&gt;
+
+(4)&lt;L 2016-02-05/11, art. 159, 022; En vigueur : 29-02-2016&gt;
+
+(5)&lt;L 2026-03-30/02, art. 60, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 47/1
+
+[<sup>1</sup> Lorsque le condamné subit une peine pour des faits visés par les articles [<sup>2</sup> 100, 112 à 118, 120 à 126, 129, 130, 143 à 146, 151 à 155, 160, 161, 168, 171 à 174, 200, 201, 206 à 211, 260, 333 à 337 du Code pénal]<sup>2</sup> ou pour des faits commis dans un contexte de violences intrafamiliales, la surveillance électronique ne peut pas être octroyée si la victime réside au lieu où la surveillance électronique sera effectuée. Le tribunal de l'application des peines peut, à titre exceptionnel, accorder une telle surveillance électronique par une décision motivée par des raisons particulières, lesquelles indiquent en quoi l'exécution de la surveillance électronique à l'adresse où réside la victime des faits ne présente aucun danger pour celle-ci. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 39, 042; En vigueur : 04-08-2025&gt;
+
+(2)&lt;L 2026-03-30/02, art. 61, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 48
+
+Sauf pour la mise en liberté provisoire en vue de l'éloignement du territoire ou de la remise [<sup>1</sup> [<sup>2</sup> et sauf pour la modification de la peine visée à l'article 50 du Code pénal]<sup>2</sup>]<sup>1</sup>, le dossier du condamné doit contenir un plan de réinsertion sociale indiquant les perspectives de réinsertion du condamné.
+
+----------
+
+(1)&lt;L 2012-12-14/53, art. 10, 014; En vigueur : 02-05-2013&gt;
+
+(2)&lt;L 2026-03-30/02, art. 62, 045; En vigueur : 01-09-2026&gt;
+
+#### Section II. - De la procédure d'octroi.
+
+###### Art. 49
+
+§ 1er. La détention limitée et la surveillance électronique sont accordées par le tribunal de l'application des peines à la demande écrite du condamné.
+
+§ 2. La demande est introduite au greffe de la prison.
+
+Le greffe de la prison transmet la demande au greffe du tribunal de l'application des peines dans les vingt-quatre heures et en remet une copie au directeur.
+
+§ 3. Le directeur rend un avis dans les deux mois de la réception de la copie de la demande. Les articles 31 et 32 sont d'application.
+
+###### Art. 49/1
+
+[<sup>1</sup> § 1er. [<sup>3</sup> La modification de la peine visée à l'article 50 du Code pénal]<sup>3</sup> est accordée par le [<sup>2</sup> tribunal de l'application des peines]<sup>2</sup> à la demande écrite du condamné ou du ministère public.
+
+§ 2. La demande écrite est introduite au greffe du tribunal de l'application des peines, ou au greffe de la prison si le condamné est détenu. Le greffe de la prison transmet la demande écrite dans les vingt-quatre heures au greffe du tribunal de l'application des peines et en remet une copie au directeur.
+
+§ 3. Si le condamné est détenu, le directeur rend un avis dans les deux mois de la réception de la copie de la demande écrite. Les articles 31 et 32 sont d'application.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-12-14/53, art. 11, 014; En vigueur : 02-05-2013&gt;
+
+(2)&lt;L 2021-11-28/01, art. 75, 033; En vigueur : 10-12-2021&gt;
+
+(3)&lt;L 2026-03-30/02, art. 63, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 50
+
+§ 1er. La libération conditionnelle et la mise en liberté provisoire en vue de l'éloignement du territoire ou de la remise sont accordées par le tribunal de l'application des peines [<sup>1</sup> sur demande écrite du condamné]<sup>1</sup>.
+
+[<sup>1</sup> § 1er/1. La demande écrite est introduite au greffe de la prison.
+
+Le greffe de la prison transmet la demande écrite au greffe du tribunal de l'application des peines dans les vingt-quatre heures et en remet une copie au directeur.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> Le directeur rend un avis au plus tard dans les quatre mois de la réception de la demande écrite du condamné.]<sup>1</sup> Les articles 31 et 32 sont d'application.
+
+----------
+
+(1)&lt;L 2013-03-17/01, art. 13, 013; En vigueur : 19-03-2013&gt;
+
+###### Art. 51
+
+Dans le mois de la réception de l'avis du directeur, le ministère public rédige un avis motivé [<sup>1</sup> sur l'octroi ou le refus de la modalité d'exécution de la peine et, le cas échéant, les conditions particulières qu'il estime nécessaire d'imposer au condamné]<sup>1</sup>, le transmet au tribunal de l'application des peines et en communique une copie au condamné et au directeur.
+
+----------
+
+(1)&lt;L 2013-03-17/01, art. 14, 013; En vigueur : 19-03-2013&gt;
+
+###### Art. 52
+
+§ 1er. L'examen de l'affaire a lieu à la première audience utile du tribunal de l'application des peines après réception de l'avis du ministère public. [<sup>1</sup> Cette audience a lieu au plus tard six mois après le dépôt de la demande. Si l'avis du ministère public n'est pas communiqué dans le délai déterminé à l'article 51, le ministère public rend son avis par écrit avant ou pendant l'audience.]<sup>1</sup>
+
+[<sup>2</sup> Les lieu, jour et heure de l'audience sont notifiés par pli recommandé à la poste au condamné et à la victime et portés par écrit à la connaissance du directeur.]<sup>2</sup>
+
+§ 2. Le dossier est tenu, pendant au moins quatre jours avant la date fixée pour l'audience, à la disposition du condamné et de son conseil pour consultation au greffe de la prison où le condamné subit sa peine.
+
+Le condamné peut, à sa demande, obtenir une copie du dossier.
+
+----------
+
+(1)&lt;L 2013-03-17/01, art. 15, 013; En vigueur : 19-03-2013&gt;
+
+(2)&lt;L 2016-02-05/11, art. 160, 022; En vigueur : 29-02-2016&gt;
+
+###### Art. 53
+
+Le tribunal de l'application des peines entend le condamné et son conseil, le ministère public et le directeur.
+
+La victime est entendue sur les conditions particulières à poser dans son intérêt. [<sup>2</sup> La victime est présente à l'audience le temps nécessaire à l'examen de ces conditions. Le ministère public et, le cas échéant, le directeur expliquent à cette occasion les conditions qu'ils ont formulées dans leur avis dans l'intérêt de la victime. La victime peut présenter ses observations.]<sup>2</sup>
+
+La victime peut se faire représenter ou assister par un conseil et peut se faire assister par le délégué d'un organisme public ou d'une association agréée à cette fin par le Roi.
+
+Le tribunal de l'application des peines peut décider d'entendre également d'autres personnes.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>1</sup> Le tribunal d'application des peines et le ministère public peuvent charger le [<sup>4</sup> service compétents des Communautés]<sup>4</sup> de rédiger un rapport d'information succinct ou de procéder à une enquête sociale.
+
+L'autorité mandante peut réclamer auprès du [<sup>4</sup> service compétents des Communautés]<sup>4</sup> les rapports qui concernent les procédures judiciaires.]<sup>1</sup>
+
+[<sup>3</sup> L'audience se déroule à huis clos.
+
+Lorsque le tribunal de l'application des peines a refusé trois fois d'accorder une même modalité d'exécution de la peine, le condamné peut demander de comparaître en audience publique lors de la demande suivante pour l'octroi de la même modalité d'exécution de la peine.
+
+Cette demande ne peut être rejetée, par décision motivée, que si cette publicité est dangereuse pour l'ordre public, les bonnes moeurs ou la sécurité nationale.
+
+Le tribunal de l'application des peines peut remettre une seule fois l'examen de l'affaire à une audience ultérieure, sans que cette audience puisse avoir lieu plus de deux mois après la remise.
+
+La décision d'ajournement est portée par écrit à la connaissance du directeur si le condamné est en détention.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2012-12-14/53, art. 2, 014; En vigueur : 02-05-2013&gt;
+
+(2)&lt;L 2013-12-15/05, art. 18, 015; En vigueur : 01-01-2014&gt;
+
+(3)&lt;L 2019-05-05/18, art. 15, 029; En vigueur : 01-09-2022&gt;
+
+(4)&lt;L 2021-11-28/01, art. 76, 033; En vigueur : 10-12-2021&gt;
+
+#### Section III. - De la décision du tribunal de l'application des peines.
+
+##### Sous-section Ire. - Disposition générale.
+
+###### Art. 54
+
+[<sup>1</sup> § 1.]<sup>1</sup> Le tribunal de l'application des peines rend sa décision dans les (quatorze) jours de la mise en délibéré. &lt;L 2006-12-27/33, art. 63, 002; En vigueur : 01-02-2007&gt;
+
+Le tribunal de l'application des peines octroie la modalité d'exécution de la peine, lorsqu'il constate que toutes les conditions prévues par la loi sont remplies, et si le condamné marque son accord sur les conditions imposées.
+
+[<sup>1</sup> § 2. Si l'affaire concerne une condamnation à une peine [<sup>2</sup> [<sup>3</sup> d'emprisonnement de trente ans ou à une peine d'emprisonnement à perpétuité]<sup>3</sup>]<sup>2</sup>, assortie d'une mise à disposition du tribunal de l'application des peines [<sup>3</sup> ...]<sup>3</sup>, le tribunal de l'application des peines rend sa décision dans les quatorze jours de la mise en délibéré. Si le tribunal de l'application des peines prend la décision d'accorder une modalité d'exécution de la peine, la décision est prise à l'unanimité.
+
+Si le tribunal de l'application des peines n'accorde pas la modalité d'exécution de la peine sollicitée, il indique dans son jugement la date à laquelle le condamné peut introduire une nouvelle demande.
+
+Ce délai est de six mois au moins et de dix-huit mois au plus à compter du jugement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-03-17/01, art. 16, 013; En vigueur : 19-03-2013&gt;
+
+(2)&lt;L 2017-12-21/19, art. 6, 025; En vigueur : 21-01-2018&gt;
+
+(3)&lt;L 2026-03-30/02, art. 64, 045; En vigueur : 01-09-2026&gt;
+
+##### Sous-section II. - De la décision d'octroi d'une modalité d'exécution de la peine.
+
+###### Art. 55
+
+Le jugement d'octroi de la modalité d'exécution de la peine précise que le condamné est soumis aux conditions générales suivantes :
+
+1° ne pas commettre d'infractions;
+
+2° sauf pour la détention limitée [<sup>1</sup> et pour la mise en liberté provisoire en vue de l'éloignement du territoire]<sup>1</sup>, avoir une adresse fixe et, en cas de changement, communiquer sans délai l'adresse de sa nouvelle résidence au ministère public et, le cas échéant, [<sup>2</sup> au service compétent des Communautés]<sup>2</sup> chargé de la guidance;
+
+3° donner suite aux convocations du ministère public et, le cas échéant, [<sup>2</sup> du service compétent des Communautés]<sup>2</sup> chargé de la guidance.
+
+[<sup>1</sup> 4° pour la mise en liberté provisoire en vue de l'éloignement du territoire, l'obligation de quitter effectivement le territoire et l'interdiction de revenir en Belgique pendant le délai d'épreuve sans être en règle avec la législation et la réglementation relative à l'accès au territoire, au séjour ou à l'établissement dans le Royaume et sans l'autorisation préalable du tribunal de l'application des peines.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 161, 022; En vigueur : 29-02-2016&gt;
+
+(2)&lt;L 2021-11-28/01, art. 77, 033; En vigueur : 10-12-2021&gt;
+
+###### Art. 56
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Le tribunal de l'application des peines peut soumettre le condamné à des conditions particulières individualisées qui permettent la réalisation du plan de réinsertion sociale, qui permettent de répondre aux contre-indications, visées à l'article 47, § 1er, ou qui s'avèrent nécessaires dans l'intérêt des victimes.
+
+[<sup>1</sup> § 2. Le tribunal de l'application des peines motive sa décision également avec des raisons particulières lorsque sa décision d'octroi ou de refus de la modalité d'exécution de la peine s'écarte de l'avis du directeur ou de l'avis du ministère public ou lorsque sa décision de d'imposer ou non des conditions particulières conformément au paragraphe 1er, alinéa premier, s'écarte de l'avis du directeur ou de l'avis du ministère public.
+
+§ 3. Lorsqu'il s'agit de l'octroi d'une libération conditionnelle, le tribunal de l'application des peines détermine également dans son jugement si le condamné peut quitter le territoire du Royaume ou non pendant la libération conditionnelle.
+
+Dans le cas où le condamné peut quitter le territoire du Royaume, le tribunal de l'application des peines détermine dans son jugement la période maximale pendant laquelle le condamné peut le faire et à quelle fréquence et, le cas échéant, si et de quelle manière le condamné doit en informer le ministère public avant de quitter le territoire du Royaume.
+
+§ 4. En cas de condamnation pour des faits visés au [<sup>2</sup> livre II, titre 4, chapitre 1er, du Code pénal]<sup>2</sup>, ou s'il existe des éléments concrets d'extrémisme violent tels que définis à l'article 32, § 2, alinéa 2, l'autorisation donnée par le tribunal de l'application des peines conformément au paragraphe 3 de quitter le territoire du Royaume doit faire l'objet d'une motivation spéciale.]<sup>1</sup>
+
+Les articles 41 à 43 sont d'application.
+
+----------
+
+(1)&lt;L 2019-05-05/10, art. 150, 027; En vigueur : 03-06-2019&gt;
+
+(2)&lt;L 2026-03-30/02, art. 65, 045; En vigueur : 01-09-2026&gt;
+
+##### Sous-section III. - De la décision de non-octroi d'une modalité d'exécution de la peine.
+
+###### Art. 57
+
+Si le tribunal de l'application des peines n'accorde pas la modalité d'exécution de la peine sollicitée, il indique dans son jugement la date à laquelle le condamné peut introduire une nouvelle demande [<sup>1</sup> ...]<sup>1</sup>.
+
+Ce délai ne peut excéder six mois à compter du jugement lorsque le condamné subit une ou plusieurs peines [<sup>2</sup> ...]<sup>2</sup> d'emprisonnement à titre principal dont le total ne dépasse pas cinq ans. [<sup>1</sup> Sous réserve de l'article 54, § 2, alinéa 3, ce délai]<sup>1</sup>est de maximum un an [<sup>2</sup> lorsque le total des peines principales est supérieur à cinq ans]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2013-03-17/01, art. 17, 013; En vigueur : 19-03-2013&gt;
+
+(2)&lt;L 2026-03-30/02, art. 66, 045; En vigueur : 01-09-2026&gt;
+
+##### Sous-section IV. - De la communication de la décision.
+
+###### Art. 58
+
+§ 1er. Le jugement est notifié dans les vingt-quatre heures, [<sup>5</sup> par envoi recommandé]<sup>5</sup>, au condamné et porté par écrit à la connaissance du ministère public et, si le condamné est en détention, du directeur.
+
+La victime est informée, [<sup>1</sup> le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide]<sup>1</sup>, du jugement et, le cas échéant, des conditions imposées dans son intérêt.
+
+§ 2. Le jugement d'octroi d'une modalité d'exécution de la peine est communiqué aux autorités et instances suivantes :
+
+\- au chef de corps de la police locale de la commune où le condamné s'établira;
+
+\- à [<sup>2</sup> la banque de données nationale visée à l'article 44/2 de la loi du 5 août 1992]<sup>2</sup> sur la fonction de police;
+
+\- le cas échéant, au directeur de la maison de justice de l'arrondissement judiciaire du lieu de résidence du condamné;
+
+\- [<sup>4</sup> au service des Communautés, compétent en matière de surveillance électronique, si la décision porte sur une surveillance électronique;]<sup>4</sup>
+
+[<sup>4</sup> - au directeur de la maison de justice du lieu de résidence de la victime [<sup>7</sup> ...]<sup>7</sup>;]<sup>4</sup>
+
+[<sup>6</sup> - à l'Office des Etrangers, si la décision porte sur une mise en liberté provisoire en vue de l'éloignement du territoire ou de la remise.]<sup>6</sup>
+
+----------
+
+(1)&lt;L 2013-12-15/05, art. 19, 015; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2016-02-05/11, art. 158, 022; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2016-02-05/11, art. 162, 022; En vigueur : 29-02-2016&gt;
+
+(4)&lt;L 2021-11-28/01, art. 78, 033; En vigueur : 10-12-2021&gt;
+
+(5)&lt;L 2023-07-31/02, art. 20, 037; En vigueur : 01-09-2023&gt;
+
+(6)&lt;L 2024-03-28/60, art. 37, 039; En vigueur : 08-04-2024&gt;
+
+(7)&lt;L 2026-03-30/02, art. 67, 045; En vigueur : 01-09-2026&gt;
+
+### CHAPITRE III. - Dispositions communes aux chapitres premier et II.
+
+#### Section Ire. - Des mesures particulières.
+
+###### Art. 59
+
+A titre exceptionnel, le juge de l'application des peines ou le tribunal de l'application des peines, saisi d'une procédure d'octroi d'une modalité d'exécution de la peine, peut accorder une modalité d'exécution de la peine autre que celle demandée si cela est absolument nécessaire pour permettre l'octroi à court terme de la modalité d'exécution de la peine sollicitée. Il peut ainsi accorder :
+
+1° une permission de sortie;
+
+2° un congé pénitentiaire;
+
+3° une détention limitée;
+
+4° une surveillance électronique.
+
+Dans les deux mois de la décision d'octroi de la modalité particulière d'exécution de la peine, le juge de l'application des peines ou le tribunal de l'application des peines statue sur la modalité d'exécution de la peine demandée. Cette période peut être prolongée une fois.
+
+[<sup>1</sup> Ces modalités d'exécution des peines, à l'exception de la permission de sortie visée à l'article 4, § 2, ne sont pas accordées s'il ressort d'un avis de l'Office des étrangers que le condamné n'est pas autorisé ou habilité à séjourner dans le Royaume.
+
+Les articles 64, 67, 68 et 70 s'appliquent.]<sup>1</sup>
+
+[<sup>2</sup> Les articles 64, 67, 68 et 70 s'appliquent.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 163, 022; En vigueur : 29-02-2016&gt; (NOTE : par son arrêt n° 148/2017 du 21-12-2017 (M.B. 12-01-2018, p. 1393), la Cour constitutionnelle a annulé l'article 163)
+
+(2)&lt;L 2021-11-28/01, art. 79, 033; En vigueur : 10-12-2021&gt;
+
+#### Section II. - Du début de l'exécution de la modalité d'exécution de la peine.
+
+###### Art. 60
+
+Le jugement d'octroi d'une modalité d'exécution de la peine visée au Titre V est exécutoire à partir du jour où il est passé en force de chose jugée et au plus tôt à partir du moment où le condamné satisfait aux conditions de temps prévues (par la présente loi). &lt;L 2006-12-27/33, art. 64, 002; En vigueur : 01-02-2007&gt;
+
+Toutefois, le juge de l'application des peines ou le tribunal de l'application des peines peut fixer à une date ultérieure le moment où le jugement sera exécutoire.
+
+Les alinéas 1er et 2 ne s'appliquent pas aux décisions d'octroi d'une mise en liberté provisoire en vue de la remise qui deviennent exécutoires au moment de la remise.
+
+[<sup>1</sup> Les alinéas 1er et 2 ne s'appliquent pas aux décisions [<sup>3</sup> du tribunal de l'application des peines]<sup>3</sup> d'octroi d'une mise en liberté provisoire en vue de l'éloignement du territoire d'un condamné qui fait l'objet d'un arrêté royal d'expulsion exécutoire, d'un arrêté ministériel de renvoi exécutoire ou d'un ordre de quitter le territoire exécutoire avec preuve d'éloignement effectif. Dans ce cas, le jugement devient exécutoire au moment de l'éloignement effectif ou du transfert vers un lieu qui relève de la compétence du Ministre compétent pour l'accès au territoire, le séjour, l'établissement et l'éloignement d'étrangers, et ce, au plus tard [<sup>2</sup> vingt]<sup>2</sup> jours après que la décision d'octroi a été coulée en force de chose jugée.]<sup>1</sup>
+
+[<sup>3</sup> Les alinéas 1er et 2 ne s'appliquent pas aux décisions du juge de l'application des peines d'octroi d'une libération provisoire en vue de l'éloignement du territoire. Dans ce cas, le jugement devient exécutoire au moment de l'éloignement effectif ou du transfert vers un lieu qui relève de la compétence du ministre compétent pour l'accès au territoire, le séjour, l'établissement et l'éloignement d'étrangers ou, dès que le condamné satisfait aux conditions de temps prévues par la présente loi, au moment de de la notification par l'Office des étrangers que l'éloignement ou le transfert n'aura pas lieu, et ce, au plus tard vingt jours après que le condamné satisfait aux conditions de temps prévues par la présente loi et après que le jugement soit passé en force de chose jugée. Si l'éloignement, le transfert ou la notification n'a pas eu lieu à l'expiration du délai précité, le condamné est remis en liberté.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2012-03-15/09, art. 6, 009; En vigueur : 09-04-2012&gt;
+
+(2)&lt;L 2016-02-05/11, art. 164, 022; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2022-07-30/03, art. 50, 035; En vigueur : 01-09-2022&gt;
+
+#### Section III. - De la modification de la décision.
+
+###### Art. 61
+
+§ 1er. S'il se produit, après la décision d'octroi d'une modalité d'exécution de la peine visée au Titre V, mais avant son exécution, une situation incompatible avec les conditions fixées dans cette décision, le juge de l'application des peines ou le tribunal de l'application des peines peut, sur réquisition du ministère public, prendre une nouvelle décision, en ce compris le retrait de la modalité d'exécution de la peine qui avait été accordée.
+
+§ 2. (Le condamné est convoqué [<sup>2</sup> par pli recommandé à la poste]<sup>2</sup> à comparaître devant le juge de l'application des peines ou, le cas échéant, devant le tribunal de l'application dans les sept jours qui suivent la constatation de l'incompatibilité. La convocation [<sup>2</sup> par pli recommandé à la poste]<sup>2</sup> suspend l'exécution de la décision d'octroi de la modalité d'exécution de la peine en question.) &lt;L 2006-12-27/33, art. 65, 002; En vigueur : 01-02-2007&gt;
+
+[<sup>2</sup> Les lieu, jour et heure de l'audience sont notifiés par pli recommandé à la poste au condamné et à la victime et portés par écrit à la connaissance du directeur.]<sup>2</sup>
+
+§ 3. Le dossier est tenu, pendant au moins deux jours avant la date fixée pour l'audience, à la disposition du condamné et de son conseil pour consultation au greffe du tribunal de l'application des peines.
+
+Le condamné peut, à sa demande, obtenir une copie du dossier.
+
+§ 4. L'audience se déroule à huis clos.
+
+Le juge de l'application des peines ou le tribunal de l'application des peines entend le condamné et son conseil, le ministère public et le directeur.
+
+La victime est entendue sur les conditions particulières à imposer dans son intérêt. [<sup>1</sup> La victime est présente à l'audience le temps nécessaire à l'examen de ces conditions. Le ministère public et, le cas échéant, le directeur expliquent à cette occasion les conditions qu'ils ont formulées dans leur avis dans l'intérêt de la victime. La victime peut présenter ses observations.]<sup>1</sup>
+
+La victime peut se faire représenter ou assister par un conseil et peut se faire assister par le délégué d'un organisme public ou d'une association agréée à cette fin par le Roi.
+
+Le juge de l'application des peines ou le tribunal de l'application des peines rend sa décision dans les sept jours de la mise en délibéré.
+
+L'article 46 est d'application.
+
+----------
+
+(1)&lt;L 2013-12-15/05, art. 20, 015; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2016-02-05/11, art. 165, 022; En vigueur : 29-02-2016&gt;
+
+## TITRE VI/1. [<sup>1</sup> - De la modification de la compétence.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-31/02, art. 21, 037; En vigueur : 01-09-2023&gt;
+
+###### Art. 61/1
+
+[<sup>1</sup> Le tribunal de l'application des peines est de plein droit compétent pour prendre de nouvelles décisions dans le dossier du condamné auquel le juge de l'application des peines a octroyé une modalité d'exécution de la peine visée au titre V dès que, à la suite de l'exécution additionnelle d'une condamnation à une peine privative de liberté passée en force de chose jugée, ce condamné subit une partie exécutoire d'une ou plusieurs peines privatives de liberté de plus de trois ans. Le juge de l'application des peines qui le constate transmet sans délai le dossier au greffe du tribunal de l'application des peines compétent.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-31/02, art. 22, 037; En vigueur : 01-09-2023&gt;
+
+## TITRE VII. - Du suivi et du contrôle des modalités d'exécution de la peine visées au Titre V.
+
+###### Art. 62
+
+§ 1er. Sans préjudice de l'application de l'article 20 de la loi du 5 août 1992 sur la fonction de police, le ministère public est chargé du contrôle du condamné. [<sup>2</sup> Le service compétent des Communautés est chargé du suivi et du contrôle:
+
+1° du programme et du contenu concret de la détention limitée ou de la surveillance électronique;
+
+2° des conditions particulières individualisées imposées au condamné par le juge de l'application des peines ou le tribunal de l'application des peines.]<sup>2</sup>
+
+§ 2. Si des conditions particulières sont imposées ou si une surveillance électronique est accordée, [<sup>2</sup> le service compétent des Communautés, contacte]<sup>2</sup> le condamné immédiatement après que la décision d'octroi d'une modalité d'exécution de la peine est devenue exécutoire, afin de lui fournir toute information utile au bon déroulement de la modalité d'exécution de la peine.
+
+§ 3. [<sup>2</sup> Dans les cas visés au paragraphe 1er, et dans le mois de l'octroi de la modalité d'exécution de la peine, le service compétent des Communautés fait rapport au juge de l'application des peines ou au tribunal de l'application des peines sur le condamné, puis chaque fois qu'il l'estime utile ou que le juge de l'application des peines ou le tribunal de l'application des peines l'y invite, et au moins une fois tous les six mois. Ce rapport contient toutes les informations relatives au condamné dont dispose le service compétent des Communautés et qui sont pertinentes pour le tribunal de l'application des peines ou le juge de l'application des peines. Le rapport contient au moins:
+
+1° des informations sur le programme et le contenu concret de la détention limitée ou de la surveillance électronique ainsi que la mesure dans laquelle celles-ci sont respectées;
+
+2° une énumération de toutes les conditions particulières individualisées imposées au condamné, ainsi que la mesure dans laquelle celles-ci sont respectées.
+
+Le cas échéant, le service compétent des Communautés propose les mesures qu'il juge nécessaires.
+
+Les communications entre le juge de l'application des peines ou le tribunal de l'application des peines et le service compétent des Communautés donnent lieu à des rapports dont une copie est adressée au ministère public.]<sup>2</sup>
+
+§ 4. Si l'octroi de la modalité d'exécution de la peine est soumis à la condition de suivre une guidance ou un traitement, le juge de l'application des peines ou le tribunal de l'application des peines invite le condamné, au vu des expertises réalisées au cours de la procédure, ainsi que, le cas échéant, au cours de l'exécution de la peine privative de liberté, à choisir une personne compétente ou un service compétent. Ce choix est soumis à l'approbation du juge de l'application des peines ou du tribunal de l'application des peines.
+
+Ladite personne ou ledit service qui accepte la mission, adresse au juge de l'application des peines ou au tribunal de l'application des peines ainsi [<sup>2</sup> qu'au service compétent des Communautés]<sup>2</sup>, dans le mois de l'octroi de la modalité d'exécution de la peine et chaque fois que cette personne ou ce service l'estime utile, sur invitation du juge de l'application des peines ou du tribunal de l'application des peines, et au moins une fois tous les six mois, un rapport de suivi sur la guidance ou le traitement.
+
+Le rapport visé à l'alinéa précédent porte sur les points suivants : les présences effectives de l'intéressé aux consultations proposées, ses absences injustifiées, la cessation unilatérale de la guidance ou du traitement par l'intéressé, les difficultés survenues dans la mise en oeuvre de ceux-ci et les situations comportant un risque sérieux pour les tiers.
+
+----------
+
+(1)&lt;L 2012-12-14/53, art. 12, 014; En vigueur : 02-05-2013&gt;
+
+(2)&lt;L 2021-11-28/01, art. 80, 033; En vigueur : 10-12-2021&gt;
+
+###### Art. 63
+
+§ 1er. Le condamné, le ministère public et le directeur peuvent demander au juge de l'application des peines ou au tribunal de l'application des peines de suspendre une ou plusieurs conditions imposées, de les préciser ou de les adapter aux circonstances, sans toutefois les renforcer ou imposer des conditions supplémentaires.
+
+La demande écrite est introduite au greffe du tribunal de l'application des peines, ou au greffe de la prison si le condamné est détenu.
+
+Le greffe de la prison transmet la demande écrite dans les vingt-quatre heures au greffe du tribunal de l'application des peines.
+
+Le greffe du tribunal de l'application des peines transmet sans délai une copie de la demande écrite aux autres parties.
+
+S'il s'agit de conditions qui sont imposées dans l'intérêt de la victime, une copie de la demande est aussi transmise sans délai à la victime.
+
+§ 2. S'ils ont des remarques, la personne condamnée, le ministère public (et, le cas échéant, le directeur et) la victime les communiquent par écrit, dans les sept jours de la réception de la copie, au juge de l'application des peines ou au tribunal de l'application des peines. &lt;L 2006-12-27/33, art. 67, 002; En vigueur : 01-02-2007&gt;
+
+§ 3. Si le juge de l'application des peines ou le tribunal de l'application des peines l'estime utile de pouvoir se prononcer sur la suspension, la précision ou l'adaptation, conformément au § 1er, des conditions imposées, il peut organiser une audience pour recueillir de plus amples informations à ce sujet. Cette audience doit avoir lieu au plus tard un mois après la réception de la demande écrite visée au § 1er. La personne condamnée et son conseiller et le ministère public sont entendus.
+
+S'il s'agit de conditions qui ont été imposées dans l'intérêt de la victime, celle-ci [<sup>2</sup> est]<sup>2</sup> entendue. [<sup>1</sup> La victime est présente à l'audience le temps nécessaire à l'examen de ces conditions. Le ministère public et, le cas échéant, le directeur expliquent à cette occasion les conditions qu'ils ont formulées dans leur avis dans l'intérêt de la victime. La victime peut présenter ses observations.]<sup>1</sup> La victime peut se faire représenter ou assister par un conseiller et peut se faire assister par le délégué d'un organisme public ou d'une association agréée à cette fin par le Roi.
+
+Le juge de l'application des peines ou le tribunal de l'application des peines peut décider d'entendre aussi d'autres personnes.
+
+L'audience se déroule à huis clos.
+
+§ 4. Dans les quinze jours de la réception de la demande écrite ou, si une audience a lieu, dans les quinze jours après la mise en délibéré, le juge de l'application des peines ou le tribunal de l'application des peines rend sa décision. Le jugement sur la suspension, sur la précision ou sur l'adaptation, conformément au § 1er, des mesures imposées est communiqué par lettre recommandée à la poste à la personne condamnée et [<sup>1</sup> le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide, à la victime]<sup>1</sup>, s'il s'agit de conditions qui ont été imposées dans l'intérêt de la victime, et est porté à la connaissance du ministère public et du directeur.
+
+Les modifications sont aussi communiquées aux autorités et aux instances qui, conformément aux articles 46, § 2, et 58, § 2, doivent être mises au courant.
+
+----------
+
+(1)&lt;L 2013-12-15/05, art. 21, 015; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2026-03-30/02, art. 68, 045; En vigueur : 01-09-2026&gt;
+
+## TITRE VIII. - De la révocation, de la suspension et de la révision des modalités d'exécution de la peine visées au Titre V.
+
+### CHAPITRE Ier. - De la révocation.
+
+###### Art. 64
+
+Le ministère public peut saisir le juge de l'application des peines ou, le cas échéant, le tribunal de l'application des peines en vue de la révocation de la modalité d'exécution de la peine accordée, dans les cas suivants :
+
+1° [<sup>1</sup> s'il est constaté dans une décision passée en force de chose jugée, que le condamné a commis, pendant le délai d'épreuve, [<sup>4</sup> une infraction]<sup>4</sup>.]<sup>1</sup>
+
+2° si le condamné met gravement en péril l'intégrité physique ou psychique de tiers;
+
+3° si les conditions particulières imposées ne sont pas respectées;
+
+4° si le condamne ne donne pas suite aux convocations du juge de l'application des peines ou du tribunal de l'application des peines, du ministère public ou, le cas échéant, [<sup>3</sup> du service compétent des Communautés]<sup>3</sup>.
+
+5° si le condamné ne communique pas son changement d'adresse au ministère public et, le cas échéant, [<sup>3</sup> au service compétent des Communautés]<sup>3</sup> chargé d'exercer la guidance.
+
+(6° si le condamné ne respecte pas le programme du contenu concret [<sup>3</sup> ou le contenu concret]<sup>3</sup> de la détention limitée ou de la surveillance électronique, [<sup>3</sup> en ce compris le respect de l'horaire,]<sup>3</sup> comme détermine conformément à l'article 42, alinéa 2.) &lt;L 2008-06-08/32, art. 13, 006; En vigueur : 26-06-2008&gt;
+
+[<sup>2</sup> 7° si le condamné ne se trouve plus dans les conditions de temps pour la modalité d'exécution de la peine accordée;
+
+8° si, après l'octroi d'une mise en liberté provisoire en vue de l'éloignement du territoire, le condamné omet ou refuse de quitter effectivement le territoire, ne coopère pas à son éloignement, ne coopère pas à son identification en vue de l'obtention d'un document de voyage ou revient sans l'autorisation du tribunal de l'application des peines requise à l'article 55, 4°.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 69, 017; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2016-02-05/11, art. 166, 022; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2021-11-28/01, art. 81, 033; En vigueur : 10-12-2021&gt;
+
+(4)&lt;L 2026-03-30/02, art. 69, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 64/1.
+
+[<sup>1</sup> Par dérogation à l'article 68, § 1er, alinéa 1er, première phrase, le ministère public saisit le juge de l'application des peines ou, le cas échéant, le tribunal de l'application des peines, lorsque le condamné a délibérément endommagé ou détourné le matériel de surveillance électronique, auquel cas le juge de l'application des peines ou, le cas échéant, le tribunal de l'application des peines révoque la surveillance électronique. L'article 68 s'applique pour le surplus.
+
+Par matériel de surveillance électronique, il y a lieu d'entendre l'ensemble des moyens électroniques utilisés par les services des communautés compétents pour l'organisation et le contrôle de la surveillance électronique dans le cadre de l'exécution de leurs missions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-12-19/73, art. 15, 043; En vigueur : 16-01-2026&gt;
+
+###### Art. 65
+
+En cas de révocation, le condamné est immédiatement réincarcéré.
+
+En cas de révocation conformément à l'article 64, 1°, la révocation est censée avoir débuté le jour où [<sup>2</sup> l'infraction a été commise]<sup>2</sup>.
+
+[<sup>1</sup> Le juge de l'application des peines ou le tribunal de l'application des peines, peut, moyennant l'accord du condamné, octroyer une autre modalité de l'exécution de la peine.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-30/03, art. 51, 035; En vigueur : 01-09-2022&gt;
+
+(2)&lt;L 2026-03-30/02, art. 70, 045; En vigueur : 01-09-2026&gt;
+
+### CHAPITRE II. - De la suspension.
+
+###### Art. 66
+
+§ 1er. Dans les cas visés à l'article 64, le ministère public peut saisir le juge de l'application des peines ou le tribunal de l'application des peines en vue de la suspension de la modalité d'exécution de la peine accordée.
+
+§ 2. En cas de suspension, le condamné est immédiatement réincarcéré.
+
+[<sup>1</sup> § 2/1. En cas de suspension, le juge de l'application des peines ou le tribunal de l'application des peines peut accorder une permission de sortie conformément aux articles 4 et 5 ou un congé pénitentiaire conformément aux articles 7 et 8 [<sup>2</sup> ...]<sup>2</sup>.]<sup>1</sup>
+
+§ 3. Dans un délai d'un mois maximum à compter du jugement de suspension, le juge de l'application des peines ou le tribunal de l'application des peines révoque la modalité d'exécution de la peine [<sup>2</sup> auquel cas il peut, conformément à l'article 65, alinéa 3, octroyer une autre modalité de l'exécution de la peine]<sup>2</sup> ou en lève la suspension. Dans ce dernier cas, la modalité d'exécution de la peine peut être revue conformément aux dispositions de l'article 63. Si aucune décision n'intervient dans ce délai, le condamné est remis en liberté aux mêmes conditions que précédemment.
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 167, 022; En vigueur : 29-02-2016&gt;
+
+(2)&lt;L 2022-07-30/03, art. 52, 035; En vigueur : 01-09-2022&gt;
+
+### CHAPITRE III. - De la révision.
+
+###### Art. 67
+
+§ 1er. Si le juge de l'application des peines ou le tribunal de l'application des peines, saisi conformément aux articles 64 ou 66, estime que la révocation ou la suspension n'est pas nécessaire dans l'intérêt de la société, de la victime ou de la réinsertion sociale du condamné, il peut revoir la modalité d'exécution de la peine. Dans ce cas, le juge de l'application des peines ou le tribunal de l'application des peines peut renforcer les conditions imposées ou imposer des conditions supplémentaires [<sup>2</sup> ...]<sup>2</sup>. La modalité d'exécution de la peine est toutefois révoquée si le condamné ne marque pas son accord sur les nouvelles conditions [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 2. Si le juge de l'application des peines ou le tribunal de l'application des peines décide de renforcer les conditions imposées ou d'imposer des conditions supplémentaires [<sup>2</sup> ...]<sup>2</sup>, il fixe le moment à partir duquel cette décision devient exécutoire.
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 168, 022; En vigueur : 29-02-2016&gt;
+
+(2)&lt;L 2022-07-30/03, art. 53, 035; En vigueur : 01-09-2022&gt;
+
+### CHAPITRE III/1. [<sup>1</sup> - De l'action en réévaluation à la suite de l'exécution additionnelle d'une condamnation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-15/03, art. 108, 040; En vigueur : 07-06-2024&gt;
+
+###### Art. 67/1
+
+[<sup>1</sup> Si à l'égard d'un condamné à qui le juge de l'application des peines ou le tribunal de l'application des peines avait octroyé une modalité d'exécution de la peine visée au titre V, une nouvelle condamnation à une peine privative de liberté passée en force de chose jugée est portée à exécution pour des faits commis avant l'octroi de la modalité d'exécution de la peine et sur la base de laquelle le condamné n'est pas en détention par le biais d'un mandat d'arrêt ou d'un ordre d'arrestation immédiate, le ministère public peut saisir le juge de l'application des peines ou le tribunal de l'application des peines compétent en vue d'une réévaluation de la modalité d'exécution de la peine octroyée. Le juge de l'application des peines ou le tribunal de l'application des peines peut prendre toute décision visée aux articles 63, 64, 65, 66 et 67. La décision de suspension, de révocation ou de révision des conditions ne peut être prise que pour les motifs énoncés à l'article 64 ou parce qu'une contre-indication est constatée à la suite de la nouvelle condamnation à laquelle la fixation de conditions particulières ne puisse répondre.
+
+La modalité d'exécution de la peine octroyée continue à courir et, sous réserve de l'application de l'article 70, le condamné n'est pas incarcéré dans l'attente de la décision du juge de l'application des peines ou du tribunal de l'application des peines.
+
+L'article 68 s'applique à cette procédure, étant entendu que les victimes des faits qui ont donné lieu à la nouvelle condamnation seront également entendues. A la demande du condamné, le juge de l'application des peines ou le tribunal de l'application des peines peut décider de maintenir la modalité d'exécution de la peine en cours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-15/03, art. 109, 040; En vigueur : 07-06-2024&gt;
+
+### CHAPITRE IV. - De la procédure.
+
+###### Art. 68
+
+§ 1er. Le ministère public peut saisir le juge d'application des peines ou le tribunal de l'application des peines en vue d'une révocation, d'une suspension ou d'une révision de la modalité d'exécution de la peine accordée [<sup>7</sup> ou en vue d'une réévaluation visée à l'article 67/1]<sup>7</sup>. (L'examen de l'affaire a lieu à la première audience utile du juge de l'application des peines ou du tribunal de l'application des peines. Cette audience doit se tenir au plus tard dans les quinze jours de la saisine du juge de l'application des peines ou du tribunal de l'application des peines par le ministère public.) &lt;L 2006-12-27/33, art. 68, 1°, 002; En vigueur : 01-02-2007&gt;
+
+Le condamné est convoqué,[<sup>4</sup> par pli recommandé à la poste]<sup>4</sup>, au moins dix jours avant la date de l'examen du dossier.
+
+L'audience se déroule à huis clos.
+
+§ 2. Le dossier est tenu, pendant au moins quatre jours avant la date fixée pour l'audience, à la disposition du condamné et de son conseil pour consultation au greffe du tribunal de l'application des peines ou au greffe de la prison si le condamné est détenu.
+
+Le condamné peut, à sa demande, obtenir une copie du dossier.
+
+§ 3. Le juge de l'application des peines ou le tribunal de l'application des peines entend le condamné et son conseil ainsi que le ministère public.
+
+S'il s'agit du non-respect des conditions qui ont été imposées dans l'intérêt de la victime, la victime est entendue. [<sup>2</sup> La victime est présente à l'audience le temps nécessaire à l'examen de ces conditions. Le ministère public explique à cette occasion les conditions qu'il a formulées dans son avis dans l'intérêt de la victime. La victime peut présenter ses observations.]<sup>2</sup>
+
+La victime peut se faire représenter ou assister par un conseiller et peut se faire assister par le délégué d'un organisme public ou d'une association agréée à cet effet par le Roi.
+
+Le juge de l'application des peines ou le tribunal de l'application des peines peut décider d'entendre également d'autres personnes.
+
+§ 4. Le juge de l'application des peines ou le tribunal de l'application des peines délibère sur la révocation, la suspension ou la révision dans les (sept) jours de la mise en délibéré. &lt;L 2006-12-27/33, art. 68, 2°, 002; En vigueur : 01-02-2007&gt;
+
+§ 5. S'il s'agit d'un jugement de révocation d'une détention limitée ou d'une surveillance électronique, le juge de l'application des peines ou le tribunal de l'application des peines précise que la période au cours de laquelle le condamné était en détention limitée ou sous surveillance électronique est déduite de la partie restante des peines privatives de liberté au moment de l'octroi.
+
+S'il s'agit d'un jugement de révocation d'une libération conditionnelle [<sup>4</sup> et d'une mise en liberté provisoire en vue de l'éloignement du territoire]<sup>4</sup>, le juge de l'application des peines ou le tribunal de l'application des peines détermine la partie de la peine privative de liberté que doit encore subir le condamné en tenant compte de la période du délai d'épreuve qui s'est bien déroulée et des efforts fournis par le condamné pour respecter les conditions qui lui étaient imposées.
+
+[<sup>4</sup> [<sup>7</sup> Sauf dans le cas où le condamné ne se trouve plus dans les conditions de temps relatives à la modalité d'exécution de la peine précédemment octroyée, le juge de l'application des peines ou le tribunal de l'application des peines fixe dans son jugement de révocation la date à laquelle le condamné peut introduire une nouvelle demande.]<sup>7</sup>
+
+Ce délai ne peut excéder six mois à compter du jugement lorsque le condamné subit une ou plusieurs peines [<sup>8</sup> ...]<sup>8</sup> d'emprisonnement à titre principal dont le total ne dépasse pas cinq ans. Ce délai est d'un an maximum [<sup>8</sup> lorsque le total des peines d'emprisonnement principal]<sup>8</sup> est supérieur à cinq ans. Ce délai est de six mois minimum et de dix-huit mois maximum si l'affaire concerne une condamnation à [<sup>8</sup> une peine d'emprisonnement de trente ans ou une peine d'emprisonnement à perpétuité]<sup>8</sup>, assortie d'une mise à disposition du tribunal de l'application des peines [<sup>8</sup> ...]<sup>8</sup>.]<sup>4</sup>
+
+§ 6. Le jugement est notifié dans les vingt-quatre heures, par pli judiciaire, au condamné et porté par écrit à la connaissance du ministère public et du directeur.
+
+La victime est informée [<sup>2</sup> le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide,]<sup>2</sup> de la révocation ou de la suspension de la modalité d'exécution de la peine ou, en cas de révision, des conditions modifiées dans son intérêt.
+
+§ 7. Le jugement de révocation, de suspension ou de révision est communiqué aux autorités et instances suivantes :
+
+\- au chef de corps de la police locale de la commune où le condamné s'établira;
+
+\- à [<sup>3</sup> la banque de données nationale visée à l'article 44/2 de la loi du 5 août 1992]<sup>3</sup> sur la fonction de police;
+
+\- le cas échéant, au directeur de la maison de justice de l'arrondissement judiciaire du lieu de résidence du condamné;
+
+\- [<sup>5</sup> au service des Communautés, compétent en matière de surveillance électronique, si la décision porte sur une surveillance électronique;]<sup>5</sup>
+
+[<sup>5</sup> - au directeur de la maison de justice du lieu de résidence de la victime [<sup>8</sup> ...]<sup>8</sup>.]<sup>5</sup>
+
+[<sup>6</sup> § 8. Un jugement de révocation ou de révision par défaut est susceptible d'opposition.]<sup>6</sup>
+
+----------
+
+(1)&lt;L 2007-04-21/01, art. 152, 003; En vigueur : indéterminée et au plus tard au 01-01-2015, mais abrogé au 31-12-1984, avant son entrée en vigueur&gt;
+
+(2)&lt;L 2013-12-15/05, art. 22, 015; En vigueur : 01-01-2014&gt;
+
+(3)&lt;L 2016-02-05/11, art. 158, 022; En vigueur : 29-02-2016&gt;
+
+(4)&lt;L 2016-02-05/11, art. 169, 022; En vigueur : 29-02-2016&gt;
+
+(5)&lt;L 2019-05-05/18, art. 16, 029; En vigueur : 01-09-2022&gt;
+
+(6)&lt;L 2021-11-28/01, art. 82, 033; En vigueur : 10-12-2021&gt;
+
+(7)&lt;L 2024-05-15/03, art. 110, 040; En vigueur : 07-06-2024&gt;
+
+(8)&lt;L 2026-03-30/02, art. 71, 045; En vigueur : 01-09-2026&gt;
+
+### CHAPITRE V. - Dispositions diverses.
+
+###### Art. 69
+
+§ 1er. La prescription des peines ne court pas lorsque le condamné est en liberté en vertu d'une décision non révoquée d'octroi d'une modalité d'exécution de la peine visée au Titre V.
+
+§ 2. La prescription ne peut être invoquée dans le cas visé à l'article 64, 1°.
+
+## TITRE IX. - De l'arrestation provisoire.
+
+###### Art. 70
+
+Dans les cas pouvant donner lieu à la révocation conformément à l'article 64 [<sup>2</sup> ou dans lesquels [<sup>3</sup> l'article 64/1 ou]<sup>3</sup> l'article 67/1 est appliqué]<sup>2</sup>, le procureur du Roi près le tribunal dans le ressort duquel le condamné se trouve [<sup>1</sup> ou le ministère public]<sup>1</sup>, peut ordonner l'arrestation provisoire de celui-ci, à charge d'en donner immédiatement avis au juge de l'application des peines ou au tribunal de l'application des peines compétent.
+
+Le juge de l'application des peines ou le tribunal de l'application des peines compétent se prononce sur la suspension de la modalité d'exécution de la peine dans les (sept jours ouvrables) qui suivent l'incarcération du condamné. Ce jugement est communiqué par écrit, dans les vingt-quatre heures, au condamné, au ministère public et au directeur. &lt;L 2006-12-27/33, art. 69, 002; En vigueur : 01-02-2007&gt;
+
+La décision de suspension est valable pour une durée d'un mois, conformément à l'article 66, § 3. [<sup>3</sup> Lorsque, en application de l'article 64/1, le juge de l'application des peines compétent ou le tribunal de l'application des peines compétent constate que le condamné a délibérément endommagé ou détourné le matériel de surveillance électronique, il prononce la révocation de la surveillance électronique.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2012-12-27/30, art. 2, 012; En vigueur : 10-02-2013&gt;
+
+(2)&lt;L 2024-05-15/03, art. 111, 040; En vigueur : 07-06-2024&gt;
+
+(3)&lt;L 2025-12-19/73, art. 16, 043; En vigueur : 16-01-2026&gt;
+
+## TITRE X. - De la libération définitive.
+
+###### Art. 71
+
+Lorsqu'aucune révocation n'est intervenue durant le délai d'épreuve, le condamné est définitivement remis en liberté.
+
+[<sup>4</sup> Le délai d'épreuve est]<sup>4</sup> égal à la durée de la peine privative de liberté que le condamné [<sup>6</sup> doit]<sup>6</sup> encore subir au jour où la décision relative à la libération conditionnelle [<sup>3</sup> ou à la mise en liberté provisoire en vue de l'éloignement du territoire ou en vue de la remise]<sup>3</sup> est devenue exécutoire. Toutefois, ce délai d'épreuve ne peut être inférieur à [<sup>5</sup> un an]<sup>5</sup> [<sup>7</sup> à l'exception d'une peine d'emprisonnement de trente an et d'une peine d'emprisonnement à perpétuité]<sup>7</sup>.
+
+Le délai d'épreuve est d'au moins cinq ans et de dix ans au plus en cas de condamnation à [<sup>7</sup> une ou plusieurs peines d'emprisonnement principales]<sup>7</sup> dont le total excède cinq ans d'emprisonnement principal.
+
+Le délai d'épreuve est de dix ans en cas de condamnation [<sup>1</sup> à une [<sup>3</sup> [<sup>7</sup> peine d'emprisonnement de trente ans ou une peine d'emprisonnement à perpétuité]<sup>7</sup>]<sup>3</sup>.
+
+[<sup>2</sup> La victime est informée le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide, de la libération définitive.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-03-17/01, art. 18, 013; En vigueur : 19-03-2013&gt;
+
+(2)&lt;L 2013-12-15/05, art. 23, 015; En vigueur : 01-01-2014&gt;
+
+(3)&lt;L 2016-02-05/11, art. 170, 022; En vigueur : 29-02-2016&gt; (NOTE : par son arrêt n° 148/2017 du 21-12-2017 (M.B. 12-01-2018, p. 1393), la Cour constitutionnelle a annulé l'article 170, 2°)
+
+(4)&lt;L 2019-05-05/18, art. 17, 029; En vigueur : 01-09-2022&gt;
+
+(5)&lt;L 2021-11-28/01, art. 83, 033; En vigueur : 10-12-2021&gt;
+
+(6)&lt;L 2023-07-31/02, art. 23, 037; En vigueur : 01-09-2023&gt;
+
+(7)&lt;L 2026-03-30/02, art. 72, 045; En vigueur : 01-09-2026&gt;
+
+## TITRE XI. - Des compétences particulières du juge de l'application des peines.
+
+### CHAPITRE Ier. - De la libération provisoire pour raisons médicales.
+
+###### Art. 72
+
+Le juge de l'application des peines peut accorder une libération provisoire pour raisons médicales au condamné pour lequel il est établi qu'il se trouve en phase terminale d'une maladie incurable ou que sa détention est devenue incompatible avec son état de santé.
+
+###### Art. 73
+
+Une libération provisoire pour raisons médicales peut être octroyée par le juge de l'application des peines à un condamné, pour autant :
+
+1° qu'il n'existe pas de contre-indications dans le chef du condamné; ces contre-indications portent sur le risque qu'il commette des infractions graves pendant (la mise en liberté provisoire pour raisons médicale), sur le fait qu'il n'a pas de milieu d'accueil ou sur le risque qu'il importune les victimes; &lt;L 2006-12-27/33, art. 71, 1°, 002; En vigueur : 01-06-2008&gt;
+
+2° que le condamné (ou son représentant) marque son accord sur les conditions dont la libération provisoire pour raisons médicales est assortie, compte tenu des dispositions du 1°. &lt;L 2006-12-27/33, art. 71, 2°, 002; En vigueur : 01-06-2008&gt;
+
+###### Art. 74
+
+§ 1er. Une libération provisoire pour raisons médicales peut être accordée, à la demande écrite du condamné, (ou de son représentant,) par le juge de l'application des peines après avis motivé du directeur. Cet avis est accompagné de celui du médecin traitant, du médecin-fonctionnaire dirigeant du Service de Santé pénitentiaire et, le cas échéant, du médecin choisi par le condamné. &lt;L 2006-12-27/33, art. 72, 002; En vigueur : 01-06-2008&gt;
+
+§ 2. [<sup>2</sup> La demande est introduite auprès du directeur. Celui-ci recueille sans délai et au plus tard dans les sept jours les avis des médecins mentionnés au paragraphe 1er. Le greffe de la prison transmet immédiatement la demande, accompagnée des avis visés au paragraphe 1er, au greffe du tribunal de l'application des peines et au ministère public.]<sup>2</sup>
+
+Le ministère public rédige sans délai un avis motivé, le transmet au juge de l'application des peines et en communique une copie au condamné et au directeur.
+
+§ 3. Le juge de l'application des peines prend une décision dans les sept jours [<sup>2</sup> de la réception du dossier comme déterminé au paragraphe 2, alinéa 1er]<sup>2</sup>. Ce jugement est notifié dans les vingt-quatre heures, [<sup>2</sup> par pli recommandé à la poste]<sup>2</sup>, au condamné et porté par écrit à la connaissance du ministère public et du directeur.
+
+La victime est [<sup>1</sup> informée le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide,]<sup>1</sup> de l'octroi d'une libération provisoire pour raisons médicales.
+
+§ 4. [<sup>2</sup> Le jugement d'octroi d'une mise en liberté provisoire pour raisons médicales est communiqué aux autorités et instances suivantes :
+
+\- au chef de corps de la police locale de la commune où s'établira le condamné;
+
+\- à la banque de données nationale visée à l'article 44/2 de la loi du 5 août 1992 sur la fonction de police;
+
+\- le cas échéant, au directeur de la maison de justice de l'arrondissement judiciaire du lieu de résidence du condamné;
+
+[<sup>3</sup> - au directeur de la maison de justice du lieu de résidence de la victime [<sup>4</sup> ...]<sup>4</sup>]<sup>3</sup>.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-12-15/05, art. 24, 015; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2016-02-05/11, art. 171, 022; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2021-11-28/01, art. 84, 033; En vigueur : 10-12-2021&gt;
+
+(4)&lt;L 2026-03-30/02, art. 73, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 75
+
+Le juge d'application des peines assortit la décision d'octroi d'une libération provisoire pour raisons médicales de la condition générale que le condamné ne peut pas commettre de nouvelles infractions. Le cas échéant, il fixe également des conditions particulières en tenant compte des dispositions de l'article 73.
+
+###### Art. 75/1
+
+[<sup>1</sup> § 1er. Sans préjudice de l'application de l'article 20 de la loi du 5 août 1992 sur la fonction de police, le ministère public est chargé du contrôle du condamné. Le cas échéant, [<sup>2</sup> le service compétent des Communautés]<sup>2</sup> est chargé du suivi et du contrôle de toutes les conditions imposées au condamné par le juge de l'application des peines.
+
+§ 2. En cas d'imposition de conditions particulières, [<sup>2</sup> le service compétent des Communautés]<sup>2</sup> appelle le condamné immédiatement après que le jugement est devenu exécutoire pour lui communiquer toutes les informations utiles au bon déroulement de la mise en liberté pour raisons médicales.
+
+§ 3. Dans le mois de l'octroi de la mise en liberté, [<sup>2</sup> le service compétent des Communautés]<sup>2</sup> fait rapport au juge de l'application des peines sur le condamné, puis à chaque fois qu'il l'estime utile ou que le juge de l'application des peines l'y invite, et au moins une fois tous les six mois. Ce rapport contient toutes les informations pertinentes dont dispose [<sup>2</sup> le service compétent des Communautés]<sup>2</sup> au sujet du condamné pour le juge de l'application des peines. Le rapport contient au moins une énumération de toutes les conditions imposées au condamné ainsi que la mesure dans laquelle celles-ci sont respectées. Le cas échéant, [<sup>2</sup> le service compétent des Communautés]<sup>2</sup> propose les mesures qu'il juge utiles.
+
+Les communications entre le juge de l'application des peines et [<sup>2</sup> le service compétent des Communautés]<sup>2</sup> donnent lieu à des rapports, dont une copie est adressée au ministère public.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-02-05/11, art. 172, 022; En vigueur : 29-02-2016&gt;
+
+(2)&lt;L 2021-11-28/01, art. 85, 033; En vigueur : 10-12-2021&gt;
+
+###### Art. 75/2
+
+[<sup>1</sup> Le juge de l'application des peines peut, à la demande du condamné ou du ministère public, suspendre, préciser ou adapter une ou plusieurs conditions imposées aux circonstances, sans toutefois les renforcer ou imposer des conditions complémentaires.
+
+La demande écrite est déposée au greffe du tribunal de l'application des peines.
+
+Le greffe du tribunal de l'application des peines transmet sans délai une copie de cette demande écrite à l'autre partie.
+
+§ 2. S'ils ont des remarques, le condamné ou le ministère public les communiquent par écrit, dans les sept jours de la réception de la copie, au juge de l'application des peines.
+
+Si le juge de l'application l'estime utile, il organise une audience, qui doit avoir lieu au plus tard un mois après la réception de la demande écrite visée au paragraphe 1er. Le condamné et son conseil ainsi que le ministère public sont entendus.
+
+Le juge de l'application des peines peut décider d'entendre également d'autres personnes.
+
+L'audience se déroule à huis clos.
+
+§ 3. Dans les quinze jours de la réception de la demande écrite ou, si une audience a eu lieu, dans les quinze jours de la mise en délibéré, le juge de l'application des peines rend sa décision. Le jugement est notifié par pli recommandé à la poste au condamné et porté par écrit à la connaissance du ministère public.
+
+Les modifications sont également communiquées aux autorités et aux instances qui, conformément à l'article 74, § 4, doivent être mises au courant.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-02-05/11, art. 173, 022; En vigueur : 29-02-2016&gt;
+
+###### Art. 76
+
+[<sup>2</sup> § 1er.]<sup>2</sup> Sans préjudice de l'article (79), le juge de l'application des peines peut décider de révoquer la libération provisoire pour raisons médicales : &lt;L 2006-12-27/33, art. 73, 002; En vigueur : 01-06-2008&gt;
+
+1° [<sup>1</sup> s'il est constaté dans une décision passée en force de chose jugée, que le condamné a commis, pendant le délai visé à l'article 80, [<sup>3</sup> une infraction]<sup>3</sup>;]<sup>1</sup>
+
+2° si les conditions particulières imposées ne sont pas respectées;
+
+3° si les raisons médicales pour lesquelles la libération provisoire a été accordée ont disparu. A cet effet, le juge de l'application des peines peut charger, [<sup>2</sup> d'office ou à la demande du ministère public,]<sup>2</sup> à tout moment de la libération provisoire pour raisons médicales, un médecin légiste d'une mission d'expertise médicale.
+
+[<sup>2</sup> § 2. Dans les cas visés au paragraphe 1er, le juge de l'application des peines peut revoir les conditions imposées à la mise en liberté provisoire pour raisons médicales. Dans ce cas, le juge de l'application des peines peut renforcer les conditions imposées ou imposer des conditions supplémentaires. La mise en liberté provisoire pour raisons médicales est toutefois révoquée si le condamné ne marque pas son accord sur les nouvelles conditions.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 70, 017; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2016-02-05/11, art. 174, 022; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2026-03-30/02, art. 74, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 77
+
+En cas de révocation, le condamné est immédiatement réincarcéré.
+
+En cas de révocation conformément à l'article 76, 1°, la révocation est censée avoir débuté le jour où [<sup>1</sup> l'infraction a été commise]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-03-30/02, art. 75, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 78
+
+§ 1er. Le ministère public peut saisir le juge de l'application des peines en vue d'une révocation de la libération provisoire pour raisons médicales [<sup>3</sup> ou d'une révision des conditions dans les cas prévus à l'article 76, § 1er, 1° à 3°]<sup>3</sup>.
+
+Le condamné est convoqué [<sup>3</sup> par pli recommandé à la poste]<sup>3</sup> au moins dix jours avant la date de l'examen du dossier.
+
+L'audience se déroule à huis clos.
+
+§ 2. Le dossier est tenu, au moins quatre jours avant la date fixée pour l'audience, à la disposition du condamné et de son conseil pour consultation au greffe du tribunal de l'application des peines ou, si le condamné est en détention, au greffe de la prison.
+
+Le condamné peut, à sa demande, obtenir une copie du dossier.
+
+§ 3. Le juge de l'application des peines entend le condamné et son conseil ainsi que le ministère public.
+
+Le juge de l'application des peines peut décider d'entendre également d'autres personnes.
+
+§ 4. Dans les quinze jours qui suivent les débats, le juge de l'application des peines met la révocation en délibération.
+
+[<sup>3</sup> Si le juge de l'application des peines décide de renforcer les conditions imposées ou d'imposer des conditions supplémentaires, il fixe le moment à partir duquel cette décision devient exécutoire.]<sup>3</sup>
+
+§ 5. Le jugement est notifié dans les vingt-quatre heures, [<sup>3</sup> par pli recommandé à la poste]<sup>3</sup>, au condamné et porté par écrit à la connaissance du ministère public et du directeur.
+
+La victime est informée [<sup>1</sup> le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide, de la révocation]<sup>1</sup>.
+
+§ 6. Le jugement d'octroi est communiqué aux autorités et instances suivantes :
+
+\- au chef de corps de la police locale de la commune où le condamné s'établira;
+
+\- à [<sup>2</sup> la banque de données nationale visée à l'article 44/2 de la loi du 5 août 1992]<sup>2</sup> sur la fonction de police;
+
+\- le cas échéant, au directeur de la maison de justice de l'arrondissement judiciaire du lieu de résidence du condamne;
+
+[<sup>4</sup> - au directeur de la maison de justice du lieu de résidence de la victime [<sup>5</sup> ...]<sup>5</sup>.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2013-12-15/05, art. 25, 015; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2016-02-05/11, art. 158, 022; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2016-02-05/11, art. 175, 022; En vigueur : 29-02-2016&gt;
+
+(4)&lt;L 2021-11-28/01, art. 86, 033; En vigueur : 10-12-2021&gt;
+
+(5)&lt;L 2026-03-30/02, art. 76, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 79
+
+§ 1er. Si le condamné met gravement en péril l'intégrité physique ou psychique de tiers, le procureur du Roi près le tribunal dans le ressort duquel le condamné se trouve [<sup>1</sup> ou le ministère public]<sup>1</sup>, peut ordonner l'arrestation provisoire de celui-ci. Il communique immédiatement sa décision au juge de l'application des peines.
+
+§ 2. Le juge de l'application des peines prend une décision sur la poursuite de la libération provisoire pour raisons médicales dans les sept jours ouvrables qui suivent l'incarcération du condamné.
+
+Le condamné est convoqué par le moyen de communication le plus rapide.
+
+L'audience se déroule à huis clos.
+
+§ 3. Le dossier est tenu, au moins deux jours avant la date fixée pour l'audience, a la disposition du condamné et de son conseil pour consultation au greffe du tribunal de l'application des peines ou, si le condamné est en détention, au greffe de la prison.
+
+Le condamné peut, à sa demande, obtenir une copie du dossier.
+
+§ 4. Le juge de l'application des peines entend le condamné et son conseil ainsi que le ministère public.
+
+Le juge de l'application des peines peut décider d'entendre également d'autres personnes.
+
+[<sup>1</sup> L'article 78, §§ 5 et 6]<sup>1</sup>, est d'application.
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 176, 022; En vigueur : 29-02-2016&gt;
+
+###### Art. 80
+
+S'il n'y a pas eu révocation de la libération provisoire pour raisons médicales, le condamné est libéré définitivement à l'échéance de la partie des peines privatives de liberté qui devait encore être subie au moment de la libération provisoire [<sup>1</sup> avec un maximum de dix ans]<sup>1</sup>. En cas de condamnation à une peine privative de liberté à perpétuité, la partie de la peine privative de liberté restante au moment de la mise en liberté provisoire est réputée être de dix ans.
+
+(Le délai de prescription de la peine ne court pas pendant la mise en liberté provisoire pour raisons médicales.) &lt;L 2006-12-27/33, art. 74, 002; En vigueur : 01-06-2008&gt;
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 177, 022; En vigueur : 29-02-2016&gt;
+
+### CHAPITRE II. - Du concours d'infractions.
+
+###### Art. 81
+
+[<sup>1</sup> Si un jugement ou un arrêt de condamnation passé en force de chose jugée n'a pas tenu compte de l'existence d'une situation de concours, le juge de l'application des peines peut recalculer le degré de la peine en application de l'article 62 du Code pénal.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-30/02, art. 77, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 82
+
+[<sup>1</sup> Le juge de l'application des peines est saisi de l'affaire à la demande écrite du condamné ou sur réquisition du ministère public.
+
+La demande est introduite au greffe du tribunal de l'application des peines ou au greffe de la prison si le condamné est en détention.
+
+Le greffe de la prison transmet la demande dans les vingt-quatre heures au greffe du tribunal de l'application des peines.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-30/02, art. 78, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 83
+
+[<sup>1</sup> § 1er. L'examen de l'affaire a lieu à la première audience utile du juge de l'application des peines après introduction de la réquisition du ministère public ou introduction de la demande écrite du condamné.
+
+Le condamné est informé par envoi recommandé des lieu, jour et heure de l'audience.
+
+§ 2. Le dossier est tenu, pendant au moins quatre jours avant la date fixée pour l'audience, à la disposition du condamné et de son conseil pour consultation au greffe du tribunal de l'application des peines.
+
+Le condamné peut également, à sa demande, obtenir une copie du dossier.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-30/02, art. 79, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 84
+
+[<sup>1</sup> Le juge de l'application des peines entend le condamné et son conseil ainsi que le ministère public.
+
+L'audience est publique, sauf si le condamné est en détention.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-30/02, art. 80, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 85
+
+[<sup>1</sup> Le juge de l`application des peines rend sa décision dans les sept jours de la mise en délibéré de l'affaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-30/02, art. 81, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 86
+
+[<sup>1</sup> La décision est notifiée dans les vingt-quatre heures, par envoi recommandé, au condamné et portée par écrit à la connaissance du ministère public et, si le condamné est en détention, du directeur.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-30/02, art. 82, 045; En vigueur : 01-09-2026&gt;
+
+### CHAPITRE III. - Du remplacement de la peine privative de liberté prononcée par le juge pénal par une peine de travail.
+
+###### Art. 87
+
+&lt;Abrogé par L 2019-05-05/18, art. 24, 029; En vigueur : 01-09-2022&gt;
+
+###### Art. 88
+
+&lt;Abrogé par L 2019-05-05/18, art. 24, 029; En vigueur : 01-09-2022&gt;
+
+###### Art. 89
+
+&lt;Abrogé par L 2019-05-05/18, art. 24, 029; En vigueur : 01-09-2022&gt;
+
+###### Art. 90
+
+&lt;Abrogé par L 2019-05-05/18, art. 24, 029; En vigueur : 01-09-2022&gt;
+
+###### Art. 91
+
+&lt;Abrogé par L 2019-05-05/18, art. 24, 029; En vigueur : 01-09-2022&gt;
+
+###### Art. 92
+
+&lt;Abrogé par L 2019-05-05/18, art. 24, 029; En vigueur : 01-09-2022&gt;
+
+###### Art. 93
+
+&lt;Abrogé par L 2019-05-05/18, art. 24, 029; En vigueur : 01-09-2022&gt;
+
+###### Art. 94
+
+&lt;Abrogé par L 2019-05-05/18, art. 24, 029; En vigueur : 01-09-2022&gt;
+
+###### Art. 95
+
+&lt;Abrogé par L 2019-05-05/18, art. 24, 029; En vigueur : 01-09-2022&gt;
+
+### CHAPITRE IV. [<sup>1</sup> La modification de la peine à l'article 50 du Code pénal.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-30/02, art. 83, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 95/1
+
+[<sup>1</sup> § 1er. Sans préjudice des articles 28, § 3, et 47, § 3, le juge de l'application des peines peut décider de modifier une condamnation passée en force de chose jugée [<sup>4</sup> à une peine visée à l'article 50 du Code pénal en vue de réduire la durée de l'interdiction, d'adapter les modalités ou les conditions de l'interdiction, de suspendre l'exécution ou d'y mettre fin]<sup>4</sup>.
+
+§ 2. [<sup>3</sup> Le juge de l'application des peines est saisi de l'affaire à la demande écrite du condamné ou sur réquisition du ministère public.
+
+La demande est introduite au greffe du tribunal de l'application des peines ou au greffe de la prison si le condamné est en détention.
+
+Le greffe de la prison transmet la demande dans les vingt-quatre heures au greffe du tribunal de l'application des peines et en remet une copie au directeur.
+
+Le greffe du tribunal de l'application des peines transmet sans délai à la victime une copie de la demande écrite ou de la réquisition.
+
+L'examen de l'affaire a lieu à la première audience utile du juge de l'application des peines après introduction de la réquisition du ministère public ou introduction de la demande écrite du condamné.
+
+Le condamné, le directeur, si le condamné est en détention, et la victime sont informés par envoi recommandé des lieu, jour et heure de l'audience.
+
+Le dossier est tenu, pendant au moins quatre jours avant la date fixée pour l'audience, à la disposition du condamné et de son conseil pour consultation au greffe du tribunal de l'application des peines.
+
+Le condamné peut également, à sa demande, obtenir une copie du dossier.
+
+Le juge de l'application des peines entend le condamné et son conseil ainsi que le ministère public et le directeur, si le condamné est en détention.
+
+La victime est entendue sur les conditions particulières imposées dans son intérêt. La victime est présente à l'audience le temps nécessaire à l'examen de ces conditions. Le ministère public et, le cas échéant, le directeur expliquent à cette occasion les conditions qu'ils ont formulées dans leur avis dans l'intérêt de la victime. La victime peut présenter ses observations.
+
+La victime peut se faire représenter ou assister par un conseil et peut se faire assister par le délégué d'un organisme public ou d'une association agréée à cette fin par le Roi.
+
+L'audience a lieu à huis clos.
+
+Le juge de l'application des peines rend sa décision dans les sept jours de la mise en déliberé.
+
+La décision est notifiée dans les vingt-quatre heures, par envoi recommandé, au condamné et portée par écrit à la connaissance du ministère public et, si le condamné est en détention, du directeur.]<sup>3</sup>
+
+§ 3. Le juge de l'application des peines peut soumettre le condamné à des conditions particulières individualisées si elles sont absolument nécessaires dans l'intérêt de la victime. [<sup>2</sup> La victime est informée le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide, de la décision et, le cas échéant, des conditions qui sont imposées dans son intérêt.]<sup>2</sup>
+
+§ 4. Le ministère public peut saisir le juge de l'application des peines de l'affaire en vue de la révocation de la réduction ou de la suspension [<sup>4</sup> de la peine visée à l'article 50 du Code pénal]<sup>4</sup>, si les conditions particulières imposées ne sont pas respectées. La procédure visée au § 2 est d'application.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-12-14/53, art. 14, 014; En vigueur : 02-05-2013&gt;
+
+(2)&lt;L 2013-12-15/05, art. 28, 015; En vigueur : 01-01-2014&gt;
+
+(3)&lt;L 2019-05-05/18, art. 18, 029; En vigueur : 01-09-2022&gt;
+
+(4)&lt;L 2026-03-30/02, art. 84, 045; En vigueur : 01-09-2026&gt;
+
+## Titre XIbis. - Des compétences particulières du tribunal de l'application des peines &lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt;
+
+### CHAPITRE Ier. - De la mise à la disposition du tribunal de l'application des peines &lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt;
+
+#### Section 1re. - Généralités &lt;Insérée par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt;
+
+###### Art. 95/2
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; § 1er. La mise à la disposition du tribunal de l'application des peines prononcée à l'égard du condamné [<sup>2</sup> ...]<sup>2</sup> prend cours à l'expiration de la peine principale [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 2. Le tribunal de l'application des peines décide préalablement à l'expiration de la peine principale [<sup>1</sup> ...]<sup>1</sup> conformément à la procédure établie à la section 2, soit de priver de liberté, soit de libérer sous surveillance le condamné mis à disposition.
+
+Après examen par le tribunal d'application des peines prévu à l'alinéa 1er, le condamné qui bénéficiait d'une libération conditionnelle au terme de [<sup>1</sup> son délai d'épreuve]<sup>1</sup> est placé en libération sous surveillance, le cas échéant avec des conditions telles que prévues au § 2 de l'article 95/7,
+
+§ 3. Le condamné mis à disposition est privé de sa liberté lorsqu'il existe dans son chef un risque qu'il commette des infractions graves portant atteinte à l'intégrité physique ou psychique de tiers et qu'il n'est pas possible d'y pallier en imposant des conditions particulières dans le cadre d'une libération sous surveillance.
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 34, 017; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2026-03-30/02, art. 85, 045; En vigueur : 01-09-2026&gt;
+
+#### Section 2. - De la procédure d'exécution de la mise à disposition &lt;Insérée par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt;
+
+###### Art. 95/3
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; § 1er. Si le condamné est en détention, le directeur rend un avis au plus tard quatre mois avant l'expiration de la peine principale [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 2. L'avis du directeur contient un avis motivé relatif à la privation de liberté ou à la libération sous surveillance. Le cas échéant, le directeur mentionne les conditions particulières qu'il estime nécessaires d'imposer au condamné.
+
+[<sup>4</sup> L'article 31, §§ 1er et 4, est d'application.]<sup>4</sup>
+
+Si le condamné subit une peine pour des faits visés [<sup>2</sup> aux [<sup>5</sup> 134 à 149, 151 à 168, 171 à 174, 177 à 179, 183 pour autant que la condamnation porte sur des contenus à caractère extrêmement pornographique, et 185 du Code pénal]<sup>5</sup>]<sup>2</sup>, l'avis doit être accompagné d'un avis motivé d'un service ou d'une personne spécialisé(e) dans l'expertise diagnostique des délinquants sexuels. Cet avis contient une appréciation de la nécessité d'imposer un traitement.
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 35, 017; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2016-02-05/11, art. 182, 022; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2016-02-01/09, art. 25, 021; En vigueur : 29-02-2016&gt;
+
+(4)&lt;L 2019-05-05/18, art. 19, 029; En vigueur : 01-09-2022&gt;
+
+(5)&lt;L 2026-03-30/02, art. 86, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 95/4
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; Dans le mois de la réception de l'avis du directeur ou, si le condamné n'est pas en détention, au plus tard quatre mois avant sa libération définitive conformément aux articles [<sup>2</sup> ...]<sup>2</sup> 71 et 80, ou au plus tard un mois après le retour sur le territoire du condamné pour lequel le délai d'épreuve a pris fin à la suite de la libération provisoire accordée conformément à l'article 47, § 2, [<sup>1</sup> ou au plus tard quatre mois avant la fin du délai du sursis tel que visé dans [<sup>3</sup> l'article 65, § 1er, alinéa 3, du Code pénal]<sup>3</sup>]<sup>1</sup> le ministère public rédige un avis motivé qu'il communique au tribunal de l'application des peines. Il en transmet une copie au condamné et au directeur.
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 36, 017; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2019-05-05/18, art. 20, 029; En vigueur : 01-09-2022&gt;
+
+(3)&lt;L 2026-03-30/02, art. 87, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 95/5
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; § 1er. L'examen de l'affaire a lieu à la première audience utile du tribunal de l'application des peines après réception de l'avis du ministère public. Cette audience a lieu au plus tard deux mois avant l'expiration de la peine principale [<sup>1</sup> ...]<sup>1</sup>. Si l'avis du ministère public n'est pas communiqué dans le délai fixé à l'article 95/4, le ministère public doit rendre son avis par écrit avant ou pendant l'audience.
+
+§ 2. [<sup>2</sup> Les lieu, jour et heure de l'audience sont notifiés par pli recommandé à la poste au condamné et à la victime et, si le condamné est en détention, portés par écrit à la connaissance du directeur.]<sup>2</sup>.
+
+Le dossier est tenu au moins quatre jours avant la date fixée pour l'audience à la disposition du condamné et de son conseil pour consultation au greffe du tribunal de l'application des peines ou, si le condamné est en détention, au greffe de la prison où il subit sa peine.
+
+Le condamné peut, à sa demande, obtenir une copie du dossier.
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 37, 017; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2016-02-05/11, art. 183, 022; En vigueur : 29-02-2016&gt;
+
+###### Art. 95/6
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; Le tribunal de l'application des peines entend le condamné et son conseil, le ministère public et, si le condamné est en détention, le directeur.
+
+La victime est entendue sur les conditions particulières imposées dans son intérêt. [<sup>1</sup> La victime est présente à l'audience le temps nécessaire à l'examen de ces conditions. Le ministère public et, le cas échéant, le directeur expliquent à cette occasion les conditions qu'ils ont formulées dans leur avis dans l'intérêt de la victime. La victime peut présenter ses observations.]<sup>1</sup>
+
+La victime peut se faire représenter ou assister par un conseil et peut se faire assister par le délégué d'un organisme public ou d'une association agréée à cette fin par le Roi.
+
+Le tribunal de l'application des peines peut décider d'entendre également d'autres personnes.
+
+Sauf dans les cas où la publicité des débats est dangereuse pour l'ordre public, les bonnes moeurs ou la sécurité nationale, l'audience est publique si le condamné en fait la demande.
+
+----------
+
+(1)&lt;L 2013-12-15/05, art. 29, 015; En vigueur : 01-01-2014&gt;
+
+###### Art. 95/7
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; § 1er. Le tribunal de l'application des peines rend sa décision dans les quatorze jours de la mise en délibéré.
+
+§ 2. Si le tribunal de l'application des peines accorde la libération sous surveillance, il établit que le condamne mis à disposition est soumis aux conditions générales fixées à l'article 55.
+
+Le tribunal de l'application des peines peut soumettre le condamné mis à disposition à des conditions particulières individualisées qui pallient au risque qu'il commette des infractions graves susceptibles de porter atteinte à l'intégrité physique ou psychique de personnes ou qui s'avèrent nécessaires dans l'intérêt des victimes.
+
+Dans le cas où le condamné est mis à la disposition du tribunal de l'application des peines pour un des faits visés aux [<sup>2</sup> articles [<sup>6</sup> 134 à 139, 140 à 146, 148 et 149]<sup>6</sup>, du Code pénal, le tribunal de l'application des peines peut assortir la libération sous surveillance de la condition de suivre une guidance ou un traitement auprès d'un service spécialisé dans la guidance ou le traitement de délinquants sexuels. Le tribunal de l'application des peines fixe la durée de la période pendant laquelle le condamné devra suivre cette guidance ou ce traitement.
+
+§ 3. Le jugement est notifié dans les vingt-quatre heures, par pli judiciaire, au condamné et porté par écrit à la connaissance du ministère public et, si le condamné est en détention, du directeur.
+
+La victime est informée [<sup>1</sup> le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide,]<sup>1</sup> de la décision et, en cas de libération sous surveillance, des conditions qui sont imposées dans son intérêt.
+
+§ 4. Le jugement d'octroi de la mise en liberté sous surveillance est communiqué aux autorités et instances suivantes :
+
+\- le chef de corps de la police locale de la commune où le condamné s'établira;
+
+\- [<sup>3</sup> la banque de données nationale visée à l'article 44/2 de la loi du 5 août 1992]<sup>3</sup> sur la fonction de police;
+
+\- le cas échéant, le directeur de la maison de justice de l'arrondissement judiciaire du lieu de résidence du condamné;
+
+[<sup>5</sup> - au directeur de la maison de justice du lieu de résidence de la victime [<sup>6</sup> ...]<sup>6</sup>.]<sup>5</sup>
+
+----------
+
+(1)&lt;L 2013-12-15/05, art. 30, 015; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2016-02-01/09, art. 26, 021; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2016-02-05/11, art. 158, 022; En vigueur : 29-02-2016&gt;
+
+(4)&lt;L 2020-05-04/16, art. 13, 028; En vigueur : 01-07-2020&gt;
+
+(5)&lt;L 2021-11-28/01, art. 89, 033; En vigueur : 10-12-2021&gt;
+
+(6)&lt;L 2026-03-30/02, art. 88, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 95/8
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; Le jugement est exécutoire le jour où le condamné a subi sa peine principale [<sup>1</sup> ...]<sup>1</sup> ou, en cas de libération anticipée, le jour où le condamné est définitivement remis en liberté conformément aux articles [<sup>2</sup> ...]<sup>2</sup> 71 ou 80 [<sup>1</sup> ou, si la peine principale a été prononcée avec sursis, à la fin du délai de sursis tel que visé dans [<sup>3</sup> l'article 65, § 1er, alinéa 3, du Code pénal]<sup>3</sup>]<sup>1</sup>.
+
+[<sup>1</sup> La décision de privation de liberté est exécutoire par provision.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 38, 017; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2019-05-05/18, art. 21, 029; En vigueur : 01-09-2022&gt;
+
+(3)&lt;L 2026-03-30/02, art. 89, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 95/9
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; S'il se produit, après la décision d'octroi d'une libération sous surveillance mais avant son exécution, une situation incompatible avec les conditions fixées dans cette décision, le tribunal de l'application des peines peut, sur réquisition du ministère public, prendre une nouvelle décision, en ce compris le retrait de la libération sous surveillance.
+
+L'article 61, §§ 2 à 4, est d'application.
+
+#### Section 3. - Du déroulement de la privation de liberté &lt;Insérée par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt;
+
+##### Sous-section 1re. - Généralités &lt;Insérée par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt;
+
+###### Art. 95/10
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; Au début de la privation de liberté, le directeur informe par écrit le condamné des possibilités d'octroi des modalités d'exécution de la peine visées dans la présente section.
+
+##### Sous-section 2. - De la permission de sortie et du congé pénitentiaire
+
+###### Art. 95/11
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; § 1er. Pendant la période de privation de liberté, le tribunal de l'application des peines peut, à la demande du condamné mis à disposition, lui accorder une permission de sortie telle que visée a l'article 4, §§ 1er et 2, ou un congé pénitentiaire tel que visé à l'article 6.
+
+Si cela s'avère nécessaire, le tribunal de l'application des peines peut également accorder des permissions de sortie en vue de préparer la réinsertion sociale du condamné mis à disposition. Les permissions de sortie peuvent être accordées avec une périodicité déterminée.
+
+La permission de sortie ou le congé pénitentiaire est accordé à condition qu'il n'existe pas dans le chef du condamné de contre-indications auxquelles la fixation de conditions particulières acceptées par le condamné mis à disposition ne puisse répondre; ces contre-indications portent sur le risque que le condamné se soustraie à l'exécution de sa peine, sur le risque qu'il commette des infractions graves pendant la permission de sortie ou le congé pénitentiaire ou sur le risque qu'il importune les victimes.
+
+###### Art. 95/12
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; § 1er. La demande écrite est déposée au greffe de la prison, lequel la transmet dans les vingt-quatre heures au greffe du tribunal de l'application des peines et en communique une copie au directeur.
+
+§ 2. Dans le cas où il s'agit d'une demande de congé pénitentiaire, le directeur rédige son avis motivé dans les deux mois de la réception de la demande.
+
+Le directeur peut charger le [<sup>2</sup> service compétent des Communautés]<sup>2</sup> de rédiger un rapport d'information succinct ou de procéder à une enquête sociale dans le milieu d'accueil proposé par le condamné pour le congé pénitentiaire. [<sup>2</sup> Le Roi détermine le contenu de ce rapport d'information succinct et de cette enquête sociale.]<sup>2</sup>
+
+Dans le cas où il s'agit d'une demande de permission de sortie, le directeur rédige son avis motivé sans délai.
+
+[<sup>1</sup> L'article 31 est d'application.]<sup>1</sup>
+
+L'avis motivé visé aux alinéas 1er et 3 est communiqué au tribunal de l'application des peines; il contient, le cas échéant, une proposition de conditions particulières que le directeur estime nécessaires d'imposer. Une copie de l'avis est transmise au condamné et au ministère public.
+
+§ 3. Si l'avis du directeur n'est pas communiqué dans le délai prévu au § 2, le président du tribunal de première instance peut, a la demande écrite du condamné mis à disposition, condamner le ministre sous peine d'astreinte à émettre son avis, par l'intermédiaire du directeur dans le délai prévu par le président du tribunal de première instance et à communiquer au condamné une copie de cet avis.
+
+Le président statue après avoir entendu le condamné mis à disposition et le ministre ou son délégué, sur avis du ministère public dans les cinq jours de la réception de la demande.
+
+Cette décision n'est susceptible d'aucun recours.
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 184, 022; En vigueur : 29-02-2016&gt;
+
+(2)&lt;L 2021-11-28/01, art. 90, 033; En vigueur : 10-12-2021&gt;
+
+###### Art. 95/13
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; § 1er. Dans les sept jours de la réception de l'avis du directeur, le ministère public rédige un avis motivé, le transmet au tribunal de l'application des peines et en communique une copie au condamné et au directeur.
+
+§ 2. Si le tribunal de l'application des peines l'estime utile pour pouvoir se prononcer sur la demande de permission de sortie ou de congé pénitentiaire, ou sur demande du condamné mis à disposition, il peut organiser une audience. Cette audience doit avoir lieu au plus tard un mois après la réception de l'avis du directeur.
+
+Le dossier est tenu au moins quatre jours avant la date fixée pour l'audience à la disposition du condamné et de son conseil pour consultation au greffe de la prison où il subit sa peine.
+
+Le condamné peut, à sa demande, obtenir une copie du dossier.
+
+§ 3. La personne condamnée mise à disposition, son conseiller, le directeur et le ministère public sont entendus.
+
+Le tribunal de l'application des peines peut décider d'entendre aussi d'autres personnes.
+
+Sauf dans les cas où la publicité des débats est dangereuse pour l'ordre public, les bonnes moeurs ou la sécurité nationale, l'audience est publique si le condamné en fait la demande.
+
+###### Art. 95/14
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; § 1er. Dans les quatorze jours de la réception de l'avis du directeur ou, si une audience a lieu, dans les quinze jours après la mise en délibéré, le tribunal de l'application des peines rend sa décision.
+
+§ 2. Le tribunal de l'application des peines assortit la décision d'octroi de la condition générale selon laquelle le condamné mis à disposition ne peut commettre de nouvelles infractions. Le cas échéant, il fixe les conditions particulières compte tenu des dispositions de l'article 95/11, § 1er, alinéa 3.
+
+§ 3. La décision d'octroi d'une permission de sortie en établit la durée qui ne peut excéder seize heures.
+
+La décision d'octroi du congé pénitentiaire est réputée être renouvelée d'office chaque trimestre sauf décision contraire du tribunal de l'application des peines.
+
+Le directeur décide, après concertation avec le condamné mis à disposition, de la répartition du congé accordé pour chaque trimestre.
+
+§ 4. Le jugement est notifié dans les vingt-quatre heures, par pli judiciaire, au condamne et porté par écrit à la connaissance du ministère public et du directeur. La victime est informée [<sup>1</sup> le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide,]<sup>1</sup> de l'octroi d'un premier congé pénitentiaire et, le cas échéant, des conditions imposées dans son intérêt.
+
+§ 5. Le jugement d'octroi d'une permission de sortie ou d'un congé pénitentiaire est communique au chef de corps de la police locale de la commune où le condamné résidera, et à [<sup>2</sup> la banque de données nationale visée à l'article 44/2 de la loi du 5 août 1992]<sup>2</sup> sur la fonction de police.
+
+----------
+
+(1)&lt;L 2013-12-15/05, art. 31, 015; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2016-02-05/11, art. 158, 022; En vigueur : 29-02-2016&gt;
+
+###### Art. 95/15
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; Si un congé pénitentiaire ou une permission de sortie est refusé, le condamné mis à disposition peut introduire une nouvelle demande au plus tôt trois mois après la date de la décision.
+
+Ce délai pour introduire une nouvelle demande peut être réduit sur avis motivé du directeur.
+
+###### Art. 95/16
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; § 1er. Le ministère public peut saisir le tribunal de l'application des peines en vue de la révocation, de la suspension ou de la révision de la décision d'octroi du congé pénitentiaire ou de la permission de sortie avec périodicité, en cas de non-respect des conditions de la décision d'octroi ou si le condamné met gravement en péril l'intégrité physique ou psychique de tiers.
+
+§ 2. En cas de suspension, l'[<sup>3</sup> article 66, §§ 2 et 3]<sup>3</sup> est d'application.
+
+§ 3. En cas de révision, le tribunal de l'application des peines peut renforcer les conditions imposées ou imposer des conditions supplémentaires. La décision d'octroi du congé pénitentiaire ou de la permission de sortie est toutefois révoquée si le condamné ne marque pas son accord sur les nouvelles conditions.
+
+Si le tribunal de l'application des peines décide de renforcer les conditions imposées ou d'imposer des conditions supplémentaires, il fixe le moment à partir duquel cette décision devient exécutoire.
+
+§ 4. L'article 68, § 1er, alinéas 1er à 3, § 2, alinéas 1 et 2, § 3, alinéas 1er à 4, et § 4, est d'application.
+
+§ 5. Le jugement est notifié dans les vingt-quatre heures, [<sup>3</sup> par pli recommandé à la poste]<sup>3</sup>, au condamné et porté par écrit à la connaissance du ministère public et du directeur.
+
+S'il s'agit d'un jugement de révocation, de suspension concernant un congé pénitentiaire, ou en cas de révision des conditions modifiées dans son intérêt, la victime est informée [<sup>1</sup> le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide, de la décision]<sup>1</sup>.
+
+Le jugement de révocation, de suspension ou de révision est communiqué au chef de corps de la police locale de la commune où le condamné réside, et à [<sup>2</sup> la banque de données nationale visée à l'article 44/2 de la loi du 5 août 1992]<sup>2</sup> sur la fonction de police.
+
+----------
+
+(1)&lt;L 2013-12-15/05, art. 32, 015; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2016-02-05/11, art. 158, 022; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2016-02-05/11, art. 185, 022; En vigueur : 29-02-2016&gt;
+
+###### Art. 95/17
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; § 1er. Dans les cas pouvant donner lieu à révocation du congé pénitentiaire ou de la permission de sortie, visés à l'article 95/16, le procureur du Roi près le tribunal dans le ressort duquel le condamné mis à disposition se trouve, peut ordonner l'arrestation provisoire de celui-ci, à charge d'en donner immédiatement avis au tribunal de l'application des peines compétent.
+
+§ 2. Le tribunal de l'application des peines compétent se prononce sur la suspension du congé pénitentiaire ou de la permission de sortie dans les sept jours ouvrables qui suivent l'incarcération du condamné mis à disposition. Ce jugement est communiqué par écrit, dans les vingt-quatre heures, au condamné mis à disposition, au ministère public et au directeur.
+
+La décision de suspension est valable pour une durée d'un mois, conformément à l'article 66, § 3.
+
+##### Sous-section 3. - De la détention limitée et de la surveillance électronique &lt;Insérée par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt;
+
+###### Art. 95/18
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; § 1er. Pendant la période de privation de liberté, le tribunal de l'application des peines peut accorder au condamné mis à disposition une détention limitée telle que visée à l'article 21 ou une surveillance électronique telle que visée à l'article 22.
+
+Les articles 47, § 1er, et 48 sont d'application.
+
+§ 2. [<sup>2</sup> La procédure d'octroi se déroule conformément aux articles 49, 51, 52 et 53, alinéas 1er à 4 et [<sup>3</sup> alinéas 10 et 11]<sup>3</sup>.]<sup>2</sup>
+
+Sauf dans les cas où la publicité des débats est dangereuse pour l'ordre public, les bonnes moeurs ou la sécurité nationale, l'audience est publique si le condamné mis à disposition en fait la demande.
+
+Le tribunal de l'application des peines rend sa décision conformément à l'article [<sup>1</sup> 54, § 1er]<sup>1</sup>.
+
+Si le tribunal de l'application des peines n'accorde pas la détention limitée ou la surveillance électronique, il indique dans son jugement la date à laquelle le condamné mis à disposition peut introduire une nouvelle demande. Ce délai ne peut excéder six mois à compter du jugement.
+
+Les articles 55, 56 et 58 s'appliquent à la décision du tribunal de l'application des peines.
+
+Le jugement d'octroi d'une détention limitée ou d'une surveillance électronique est exécutoire à partir du jour où il est passé en force de chose jugée. Toutefois, le tribunal de l'application des peines peut fixer à une date ultérieure le moment où le jugement sera exécutoire.
+
+----------
+
+(1)&lt;L 2013-03-17/01, art. 19, 013; En vigueur : 19-03-2013&gt;
+
+(2)&lt;L 2019-05-05/18, art. 22, 029; En vigueur : 01-09-2022&gt;
+
+(3)&lt;L 2022-07-30/03, art. 54, 035; En vigueur : 01-09-2022&gt;
+
+###### Art. 95/19
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; S'il se produit, après la décision d'octroi d'une détention limitée ou d'une surveillance électronique mais avant son exécution, une situation incompatible avec les conditions fixées dans cette décision, le tribunal de l'application des peines peut, sur réquisition du ministère public, prendre une nouvelle décision, en ce compris le retrait de la détention limitée ou de la surveillance électronique.
+
+L'article 61, §§ 2 à 4, est d'application.
+
+###### Art. 95/20
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; Les articles 62 et 63 sont d'application pour le suivi et le contrôle de la détention limitée et de la surveillance électronique.
+
+Le titre VIII [<sup>1</sup> et le titre IX sont]<sup>1</sup> d'application.
+
+----------
+
+(1)&lt;L 2012-12-27/30, art. 3, 012; En vigueur : 10-02-2013&gt;
+
+#### Section 4. - Du contrôle annuel d'office par le tribunal de l'application des peines &lt;Insérée par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt;
+
+###### Art. 95/21
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; Après une privation de liberté d'un an, fondée exclusivement sur la décision faisant suite à la mise à la disposition du tribunal de l'application des peines, le tribunal de l'application des peines examine d'office la possibilité d'accorder une libération sous surveillance. [<sup>1</sup> La privation de liberté du condamné mis à disposition est maintenue lorsqu'il existe dans son chef un risque qu'il commette des infractions graves portant atteinte à l'intégrité physique ou psychique de tiers et qu'il n'est pas possible d'y pallier en imposant des conditions particulières dans le cadre d'une libération sous surveillance.]<sup>1</sup>
+
+Le directeur émet un avis quatre mois avant le délai visé à l'alinéa 1er. L'article 95/3, § 2, est d'application.
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 186, 022; En vigueur : 29-02-2016&gt;
+
+###### Art. 95/22
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; Dans le mois de la réception de l'avis du directeur, le ministère public rédige un avis motivé, qu'il communique au tribunal de l'application des peines et en copie au condamné et au directeur.
+
+###### Art. 95/23
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; § 1er. L'examen de l'affaire a lieu à la première audience utile du tribunal de l'application des peines après réception de l'avis du ministère public. Cette audience a lieu au plus tard deux mois avant l'expiration du délai prévu à l'article 95/21.
+
+Si l'avis du ministère public n'est pas communiqué dans le délai fixé à l'article 95/22, le ministère public doit rendre son avis par écrit avant ou pendant l'audience.
+
+[<sup>1</sup> Les lieu, jour et heure de l'audience sont notifiés par pli recommandé à la poste au condamné et à la victime et portés par écrit à la connaissance du directeur.]<sup>1</sup>
+
+§ 3. Le dossier est tenu, pendant au moins quatre jours avant la date fixée pour l'audience, à la disposition du condamné et de son conseil pour consultation au greffe de la prison où le condamné subit sa peine.
+
+Le condamné peut, à sa demande, obtenir une copie du dossier.
+
+Les articles 95/6 et 95/7 sont d'application.
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 187, 022; En vigueur : 29-02-2016&gt;
+
+###### Art. 95/24
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; § 1er. [<sup>1</sup> Sans préjudice de]<sup>1</sup> l'application de l'article 95/2, § 2, alinéa 2, le jugement d'octroi d'une libération sous surveillance est exécutoire à compter du jour où il est coulé en force de chose jugée et au plus tôt à la fin du délai prévu à l'article 95/21.
+
+Toutefois, le tribunal de l'application des peines peut fixer à une date ultérieure le moment où le jugement sera exécutoire.
+
+§ 2. S'il se produit, après la décision d'octroi d'une libération sous surveillance mais avant son exécution, une situation incompatible avec les conditions fixées dans cette décision, le tribunal de l'application des peines peut, sur réquisition du ministère public, prendre une nouvelle décision, en ce compris le retrait de la libération sous surveillance.
+
+L'article 61, §§ 2 à 4, est d'application.
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 188, 022; En vigueur : 29-02-2016&gt;
+
+###### Art. 95/25
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; Si le tribunal de l'application des peines n'accorde pas la libération sous surveillance, il indique dans son jugement la date à laquelle le directeur doit émettre un nouvel avis.
+
+Ce délai ne peut excéder un an à compter du jugement.
+
+#### Section 5. - Du déroulement de la libération sous surveillance &lt;Insérée par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt;
+
+###### Art. 95/26
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; Le suivi et le contrôle du condamné mis à disposition durant la libération sous surveillance s'effectuent conformément aux articles 62 et 63.
+
+###### Art. 95/27
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; § 1er. Le ministère public peut saisir le tribunal de l'application des peines en vue [<sup>2</sup> e la révocation, de la suspension ou de la révision]<sup>2</sup> de la libération sous surveillance, dans les cas suivants :
+
+1° [<sup>1</sup> s'il est constaté par une décision passée en force de chose jugée que le condamné mis à disposition a commis, durant le délai visé à l'article 95/28, [<sup>3</sup> une infraction]<sup>3</sup>;]<sup>1</sup>
+
+2° dans les cas visés à l'article 64, 2° à 5°.
+
+§ 2. En cas de révocation, le condamné est immédiatement réincarcéré.
+
+En cas de révocation conformément au § 1er, 1°, la révocation est réputée avoir pris cours le jour où [<sup>3</sup> l'infraction a été commise]<sup>3</sup>.
+
+§ 3. [<sup>2</sup> Les articles 68, §§ 1er à 4, et 70 s'appliquent.]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 71, 017; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2016-02-05/11, art. 189, 022; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2026-03-30/02, art. 90, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 95/28
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; Sous réserve de l'application de l'article 95/29, le condamné mis à la disposition du tribunal de l'application des peines est définitivement remis en liberté à l'expiration du délai de mise à disposition fixé par le juge [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-03-30/02, art. 91, 045; En vigueur : 01-09-2026&gt;
+
+#### Section 6. - De la levée de la mise à la disposition du tribunal de l'application des peines &lt;Inséree par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt;
+
+###### Art. 95/29
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; § 1er. Le condamné libéré sous surveillance peut demander au tribunal de l'application des peines qu'il soit mis fin à la période de mise à la disposition du tribunal de l'application des peines.
+
+Cette demande écrite peut être introduite deux ans après l'octroi de la libération sous surveillance et, ensuite, tous les deux ans.
+
+La demande écrite est déposée au greffe du tribunal de l'application des peines.
+
+§ 2. Dans le mois du dépôt de la demande, le ministère public recueille toutes les informations utiles, rédige un avis motivé et communique le tout au tribunal de l'application des peines. Une copie de l'avis est communiquée au condamné.
+
+###### Art. 95/30
+
+&lt;Inséré par L 2007-04-26/89, art. 4; En vigueur : 01-01-2012&gt; § 1er. L'examen de l'affaire a lieu à la première audience utile du tribunal de l'application des peines après réception de l'avis du ministère public. Cette audience doit avoir lieu au plus tard deux mois après le dépôt de la demande écrite.
+
+[<sup>3</sup> Les lieu, jour et heure de l'audience sont notifiés par pli recommandé à la poste au condamné et à la victime et portés par écrit à la connaissance du directeur.]<sup>3</sup>
+
+§ 2. Le dossier est tenu, au moins quatre jours avant la date fixée pour l'audience, à la disposition du condamné et de son conseil pour consultation au greffe du tribunal de l'application des peines.
+
+Le condamné peut, à sa demande, obtenir une copie du dossier.
+
+§ 3. Le tribunal de l'application des peines entend le condamné et son conseil ainsi que le ministère public.
+
+§ 4. Sauf dans les cas où la publicité des débats est dangereuse pour l'ordre public, les bonnes moeurs ou la sécurité nationale, l'audience est publique si le condamné en fait la demande.
+
+§ 5. Le tribunal de l'application des peines rend sa décision dans les quatorze jours de la mise en délibéré.
+
+Il accorde la levée de la mise à disposition s'il n'y a raisonnablement pas lieu de craindre que le condamné commette de nouvelles infractions.
+
+§ 6. Le jugement est notifié dans les vingt-quatre heures, [<sup>3</sup> par pli recommandé à la poste]<sup>3</sup>, au condamné et porté par écrit à la connaissance du ministère public.
+
+La victime est informée [<sup>1</sup> le plus rapidement possible et en tout cas dans les vingt-quatre heures par le moyen de communication écrit le plus rapide de la décision]<sup>1</sup>.
+
+Le jugement d'octroi de la levée de la mise à disposition est communiqué aux autorités et instances suivantes :
+
+\- au chef de corps de la police locale de la commune où le condamné était établi;
+
+\- à [<sup>2</sup> la banque de données nationale visée à l'article 44/2 de la loi du 5 août 1992]<sup>2</sup> sur la fonction de police;
+
+\- [<sup>4</sup> le cas échéant, au service compétent des Communautés.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2013-12-15/05, art. 33, 015; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2016-02-05/11, art. 158, 022; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2016-02-05/11, art. 190, 022; En vigueur : 29-02-2016&gt;
+
+(4)&lt;L 2021-11-28/01, art. 91, 033; En vigueur : 10-12-2021&gt;
+
+## TITRE XII. - Du pourvoi en cassation.
+
+###### Art. 96
+
+Les décisions du juge de l'application des peines et du tribunal de l'application des peines relatives à l'octroi, au refus [<sup>3</sup> , à la révision ou à la révocation]<sup>3</sup> des modalités d'exécution de la peine visées au Titre V, [<sup>3</sup> ...]<sup>3</sup>, ainsi que les décisions prises en vertu du Titre XI sont susceptibles de pourvoi en cassation par le ministère public [<sup>2</sup> , soit d'office, soit par les ordres du Ministre de la Justice,]<sup>2</sup> et le condamné.
+
+[<sup>1</sup> Sont susceptibles de pourvoi en cassation par le ministère public [<sup>2</sup> , soit d'office, soit par les ordres du Ministre de la Justice,]<sup>2</sup> et le condamné mis à disposition, les décisions du tribunal de l'application des peines prises conformément au titre XIbis, chapitre premier, et relatives :
+
+a) à la privation de liberté;
+
+b) à l'octroi, au refus [<sup>3</sup> , à la révision]<sup>3</sup> ou à la révocation d'une permission de sortie périodique et [<sup>3</sup> ...]<sup>3</sup>
+
+c) à l'octroi, au refus [<sup>3</sup> , à la révision]<sup>3</sup> ou à la révocation d'un congé pénitentiaire et [<sup>3</sup> ...]<sup>3</sup>
+
+d) à l'octroi, au refus [<sup>3</sup> , à la révision]<sup>3</sup> ou à la révocation d'une détention limitée et [<sup>3</sup> ...]<sup>3</sup>
+
+e) l'octroi, au refus [<sup>3</sup> , à la révision]<sup>3</sup> ou à la révocation d'une surveillance électronique et [<sup>3</sup> ...]<sup>3</sup>
+
+f) à l'octroi, au refus [<sup>3</sup> , à la révision]<sup>3</sup> ou à la révocation d'une libération sous surveillance, et [<sup>3</sup> ...]<sup>3</sup> ou
+
+g) à la décision de refus ou d'octroi de la levée de la mise à la disposition du tribunal de l'application des peines.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2007-04-26/89, art. 5, 004; En vigueur : 01-01-2012&gt;
+
+(2)&lt;L 2013-03-17/01, art. 20, 013; En vigueur : 19-03-2013&gt;
+
+(3)&lt;L 2016-02-05/11, art. 191, 022; En vigueur : 29-02-2016&gt;
+
+###### Art. 97
+
+§ 1er. Le ministère public se pourvoit en cassation dans un délai de vingt-quatre heures à compter [<sup>1</sup> du prononcé du jugement]<sup>1</sup>.
+
+Le condamné se pourvoit en cassation dans un délai de [<sup>1</sup> [<sup>4</sup> cinq]<sup>4</sup> jours à compter du prononcé du jugement]<sup>1</sup>. [<sup>1</sup> La déclaration de recours en cassation [<sup>3</sup> est faite au greffe du tribunal de l'application des peines et]<sup>3</sup> doit être signée par un avocat.]<sup>1</sup> Les moyens de cassation sont proposés dans un mémoire qui doit parvenir au greffe de la Cour de cassation au plus tard le cinquième jour qui suit la date du pourvoi.
+
+§ 2. Le dossier est transmis par le greffe du tribunal de l'application des peines au greffe de la Cour de cassation dans les quarante-huit heures du pourvoi en cassation.
+
+§ 3. Le pourvoi en cassation contre une décision qui octroie une modalité d'exécution de la peine visée au Titre V ou au Titre XI [<sup>2</sup> , une permission de sortie périodique, un congé pénitentiaire, une détention limitée, une surveillance électronique, une libération sous surveillance ou la levée de la mise à la disposition du tribunal de l'application des peines conformément au titre XIbis]<sup>2</sup> a un effet suspensif.
+
+La Cour de cassation statue dans les trente jours du pourvoi en cassation, le condamné étant pendant ce temps maintenu en détention.
+
+----------
+
+(1)&lt;L 2009-02-06/36, art. 2, 008; En vigueur : 08-03-2009&gt;
+
+(2)&lt;L 2007-04-26/89, art. 6, 004; En vigueur : 01-01-2012&gt;
+
+(3)&lt;L 2014-12-19/24, art. 15, 018; En vigueur : 01-02-2015&gt;
+
+(4)&lt;L 2016-02-05/11, art. 192, 022; En vigueur : 29-02-2016&gt;
+
+###### Art. 98
+
+Après un arrêt de cassation avec renvoi, un autre juge de l'application des peines ou un tribunal de l'application des peines autrement composé statue dans les quatorze jours à compter du prononcé de cet arrêt, le condamné étant pendant ce temps maintenu en détention.
+
+## TITRE XIIbis. - Structures de concertation. &lt;inséré par L 2006-12-27/33, art. 52; En vigueur : 07-01-2007&gt;
+
+###### Art. 98/1
+
+&lt;L 2008-07-24/36, art. 4, 007; En vigueur : 17-08-2008; par contre l'AR 2008-10-01/34 donne En vigueur : 01-11-2008, voir AR 2008-10-01/34, art. 9, 1°&gt; Il est crée au sein du SPF Justice une structure de concertation relative à l'application de la présente loi. Cette structure de concertation a pour mission de réunir régulièrement, tant sur le plan fédéral que sur le plan local, les instances concernés par l'exécution de la présente loi afin d'évaluer leur collaboration. Le Roi fixe les modalités relatives à la composition et au fonctionnement de cette structure de concertation.es de composition et de fonctionnement de ces structures de concertation.
+
+## TITRE XIIter. [<sup>1</sup> L'utilisation de la vidéoconférence pour les audiences devant le juge de l'application des peines et le tribunal de l'application des peines]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 37, 041; En vigueur : 01-09-2024&gt;
+
+###### Art. 98/2
+
+[<sup>1</sup> Les articles 556 à 562 et 565 à 567 du Code d'instruction criminelle s'appliquent dans la mesure où il n'y est pas dérogé par le présent titre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 38, 041; En vigueur : 01-09-2024&gt;
+
+###### Art. 98/3
+
+[<sup>1</sup> § 1er. Le condamné, la victime, le directeur ou tout autre personne que le juge de l'application des peines ou le tribunal de l'application des peines a décidé d'entendre peuvent demander au juge de l'application des peines ou le tribunal de l'application des peines l'autorisation de participer à l'audience par vidéoconférence. Cette demande doit être communiquée au plus tard le sixième jour avant l'audience par voie électronique au greffe du tribunal de l'application des peines ainsi qu'aux autres personnes visées par le présent paragraphe.
+
+Le juge de l'application des peines ou le tribunal de l'application des peines peut faire droit à cette demande s'il estime que les conditions suivantes sont réunies:
+
+1° l'usage de la vidéoconférence est compatible avec les circonstances particulières de l'affaire;
+
+2° les garanties auxquelles doit répondre le système de vidéoconférence conformément à l'article 558, §§ 1er et 2, du Code d'instruction criminelle sont réunies.
+
+Pour l'évaluation des circonstances particulières de l'affaire visée à l'alinéa 2, il est notamment tenu compte de la possibilité d'interaction entre les personnes présentes à l'audience, de la phase de la procédure, de la nature du litige, de la complexité de l'affaire, de l'assistance d'un avocat, de la capacité technique des prisons et de la situation résidentielle, de la situation physique ou psychique et la situation de vulnérabilité dans laquelle se trouve le condamné, la victime ou toute autre personne que la juridiction souhaite entendre.
+
+Le greffe du tribunal de l'application des peines notifie cette décision à l'intéressé, au ministère public et selon le cas, au condamné, à la victime et au directeur, au plus tard le troisième jour avant l'audience.
+
+A l'égard du condamné qui a demandé de comparaitre par vidéoconférence, à qui une autorisation a été notifiée et qui ne comparait ni par vidéoconférence ni au lieu où siège la juridiction et à l'heure indiquée dans la convocation, les règles du défaut s'appliquent.
+
+§ 2. Le juge de l'application des peines et le tribunal de l'application des peines peuvent, par décision motivée, interdire au condamné, à la victime, au directeur ou à toute autre personne qu'ils ont décidé d'entendre de comparaitre ou de participer à l'audience physiquement, s'ils estiment que les conditions suivantes sont réunies:
+
+1° l'usage de la vidéoconférence est compatible avec les circonstances particulières de l'affaire, qui sont évaluées comme prévu au paragraphe 1er, alinéa 3;
+
+2° les garanties auxquelles doit répondre le système de vidéoconférence conformément à l'article 558, §§ 1er et 2, du Code d'instruction criminelle sont réunies;
+
+3° lorsque la vidéoconférence est l'unique possibilité de participer à l'audience car une situation d'urgence épidémique est déclarée conformément à l'article 3, § 1er, de la loi du 14 août 2021 relative aux mesures de police administrative lors d'une situation d'urgence épidémique et des mesures de police administrative empêchant la comparution physique à l'audience ou ayant pour conséquence d'empêcher une telle comparution physique sont adoptées.
+
+Cette décision est notifiée par le greffe du tribunal de l'application des peines aux personnes appelées à comparaitre ou à participer par vidéoconférence, au plus tard, le sixième jour avant l'audience.
+
+Cette décision n'est susceptible d'aucun recours.
+
+A l'égard du condamné à qui une interdiction de comparaitre physiquement a été notifiée et qui ne comparait pas à l'audience par vidéoconférence, les règles du défaut s'appliquent.
+
+§ 3. La personne ayant été autorisée à comparaitre ou participer par vidéoconférence en vertu du paragraphe 1er est présumée avoir marqué son accord.
+
+Sauf en ce qui concerne le condamné qui est privé de sa liberté, la personne ayant été autorisée à comparaitre ou participer par vidéoconférence, a toujours le droit de décider, avant le début de l'audience, de comparaitre ou de participer à l'audience dans le lieu où la juridiction siège.
+
+Au début de chaque audience, la juridiction vérifie que l'accord est libre et éclairé. Le procès-verbal de l'audience en fait mention.
+
+§ 4. Toute notification par le greffe visée au présent titre a lieu par voie électronique à l'adresse électronique professionnelle de l'avocat ou, s'il s'agit d'une personne non représentée par un avocat, à l'adresse judiciaire électronique du greffe de la prison si le condamné est privé de sa liberté ou, le cas échéant, à l'adresse judiciaire électronique de cette personne ou, à défaut, à la dernière adresse électronique que cette partie ou personne a fournie dans le cadre de la procédure. Si aucune adresse électronique n'est connue du greffier, ou si la notification à l'adresse électronique a manifestement échoué, la personne concernée ne peut comparaitre que physiquement dans la salle d'audience à l'audience à laquelle elle a été régulièrement convoquée par la juridiction. Lorsque l'interdiction de comparaitre physiquement n'a pas pu être notifiée, la juridiction peut remettre l'audience à une date ultérieure.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 39, 041; En vigueur : 01-09-2024&gt;
+
+###### Art. 98/4
+
+[<sup>1</sup> § 1er. Sauf lorsque la procédure doit se dérouler en audience publique, la comparution par vidéoconférence du condamné, de la victime, du directeur ou de la personne que le juge de l'application des peines ou le tribunal de l'application des peines a décidé d'entendre, n'est possible que si la vidéoconférence réunit les garanties visées à l'article 558, §§ 1er et 2, du Code d'instruction criminelle et:
+
+1° lorsque la personne est privée de sa liberté, un délégué du directeur de la prison ou, le cas échéant, son avocat lorsque celui-ci est présent, confirme à la juridiction que personne d'autre qu'eux-mêmes, la personne privée de sa liberté et, le cas échéant, les personnes nommément désignées et autorisées par le juge à être présentes, n'est présent au lieu où ils se trouvent et ne peut autrement suivre ce qui est dit; ou
+
+2° que la personne-même, ou le cas échéant, son avocat confirme à la juridiction que personne d'autre qu'eux-mêmes et, le cas échéant, les personnes nommément désignées et autorisées par le juge à être présentes, n'est présent au lieu où la personne se trouve au moment de la comparution et ne peut autrement suivre ce qui est dit; ou
+
+3° lorsque la juridiction estime que la présence de l'avocat ou, à défaut, d'un huissier de justice est requise auprès de la personne, l'avocat ou, à défaut, l'huissier de justice confirme à la juridiction que personne d'autre que lui-même, la personne concernée et, le cas échéant, les personnes nommément désignées et autorisées par le juge à être présentes, n'est présent au lieu où la personne se trouve au moment de la comparution, et ne peut suivre autrement ce qui y est dit.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 40, 041; En vigueur : 01-09-2024&gt;
+
+###### Art. 98/5
+
+[<sup>1</sup> L'article 98/3, § 1er, ne s'applique pas au condamné qui est détenu dans les cas où le juge de l'application des peines ou le tribunal de l'application des peines siège dans la partie administrative de la prison où le condamné séjourne, conformément à l'article 76, § 4, alinéa 1er, du Code judiciaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 41, 041; En vigueur : 01-09-2024&gt;
+
+## TITRE XIIquater. [<sup>1</sup> Dispositions temporaires ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 7, 042; En vigueur : 04-08-2025&gt;
+
+### CHAPITRE Ier. [<sup>1</sup> De la procédure d'urgence juge de l'application des peines ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 8, 042; En vigueur : 04-08-2025&gt;
+
+#### Section 1. [<sup>1</sup> Champ d'application ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 9, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 98/6
+
+[<sup>1</sup> Le présent chapitre s'applique au condamné à une ou plusieurs peines privatives de liberté dont la partie exécutoire est inférieure ou égale à trois ans, mais supérieure ou égale à six mois, à l'égard duquel les dispositions de la présente loi ne s'appliquent pas conformément à l'article 109/1.
+
+Le juge de l'application des peines octroie au condamné visé à l'alinéa 1er une détention limitée, une surveillance électronique, une libération conditionnelle, une mise en liberté provisoire en vue de l'éloignement du territoire ou une mise en liberté provisoire en vue de la remise sous la forme et aux conditions précisées ci-après. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 10, 042; En vigueur : 04-08-2025&gt;
+
+#### Section II. [<sup>1</sup> Modalités d'exécution de la peine ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 11, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 98/7
+
+[<sup>1</sup> La détention limitée est un mode d'exécution de la peine privative de liberté qui permet au condamné de quitter, de manière régulière, l'établissement pénitentiaire pour une durée déterminée de maximum seize heures par jour.
+
+La détention limitée peut être octroyée au condamné afin de défendre des intérêts professionnels, de formation ou familiaux qui requièrent sa présence hors de la prison. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 12, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 98/8
+
+[<sup>1</sup> La surveillance électronique est un mode d'exécution de la peine privative de liberté par lequel le condamné subit l'ensemble ou une partie de sa peine privative de liberté en dehors de la prison selon un plan d'exécution déterminé, dont le respect est contrôlé notamment par des moyens électroniques. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 13, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 98/9
+
+[<sup>1</sup> § 1er. La détention limitée et la surveillance électronique sont octroyées au condamné qui se trouve, à six mois près, dans les conditions de temps pour l'octroi de la libération conditionnelle et qui satisfait aux conditions visées à l'article 98/13.
+
+§ 2. Trois mois avant que le condamné ne se trouve dans la condition de temps prévue au paragraphe 1er ou immédiatement si ce délai ne peut être respecté, le directeur l'informe par écrit de la possibilité de demander une détention limitée ou une surveillance électronique.
+
+Le condamné peut dès ce moment introduire une demande écrite d'octroi de détention limitée ou de surveillance électronique, conformément à l'article 98/14. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 14, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 98/10
+
+[<sup>1</sup> La libération conditionnelle est un mode d'exécution de la peine privative de liberté par lequel le condamné subit sa peine en dehors de la prison, moyennant le respect des conditions qui lui sont imposées pendant un délai d'épreuve déterminé.
+
+La libération conditionnelle est octroyée au condamné qui a subi un tiers de ses peines et qui satisfait aux conditions visées à l'article 98/13. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 15, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 98/11
+
+[<sup>1</sup> La mise en liberté provisoire en vue de l'éloignement du territoire est un mode d'exécution de la peine privative de liberté octroyé au condamné à l'égard duquel il ressort, en vertu d'un avis de l'Office des Etrangers, qu'il n'est pas autorisé ou habilité à séjourner dans le Royaume, moyennant le respect de la condition de quitter effectivement le territoire et de l'interdiction de revenir en Belgique pendant un délai d'épreuve déterminé sans être en règle avec la législation et la réglementation concernant l'accès au territoire, le séjour ou l'établissement dans le Royaume et sans l'autorisation préalable du juge de l'application des peines.
+
+La mise en liberté provisoire en vue de l'éloignement du territoire est octroyée au condamné qui, à six mois près, a subi un tiers de ses peines et qui satisfait aux conditions visées à l'article 98/13.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 16, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 98/12
+
+[<sup>1</sup> La mise en liberté provisoire en vue de la remise est accordée au condamné qui, sur la base d'un jugement exécutoire ou d'un titre exécutoire, doit être transféré dans un autre pays.
+
+La mise en liberté provisoire en vue de la remise est octroyée au condamné qui a subi un tiers de ses peines et qui satisfait aux conditions visées à l'article 98/13. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 17, 042; En vigueur : 04-08-2025&gt;
+
+#### Section III. [<sup>1</sup> Conditions et procédure d'octroi ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 18, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 98/13
+
+[<sup>1</sup> Le juge de l'application des peines octroie les modalités de la peine visées à la section II à condition que le condamné ait un lieu de résidence et pour autant qu'il n'y ait pas dans le chef du condamné de risque [<sup>2</sup> concrètement]<sup>2</sup> observable pour l'intégrité physique de tiers auquel la fixation de conditions particulières ne puisse répondre.
+
+La condition relative à la disposition d'un lieu de résidence ne s'applique pas à la détention limitée, à la mise en liberté provisoire en vue de l'éloignement du territoire et à la mise en liberté provisoire en vue de la remise.
+
+[<sup>2</sup> Par risque concrètement observable pour l'intégrité physique des tiers, on entend un risque qui ressort à première vue du comportement actuel du condamné manifesté depuis la condamnation, tel que cela ressort des éléments de l'avis du directeur visés à l'article 98/16, alinéa 1er, 2°, d) et e), ou, le cas échéant, de l'avis visé à l'article 98/18]<sup>2</sup>.
+
+Une surveillance électronique ne peut être accordée au condamné pour qui il ressort d'un avis de l'Office des Etrangers qu'il n'est pas autorisé ou habilité à séjourner dans le Royaume, que dans la mesure où, sur la base d'un avis de l'Office des Etrangers, qui est à rendre dans les dix jours suivant la notification par le directeur, il apparaît que ce condamné ne peut être immédiatement éloigné ou transféré dans un lieu relevant de la compétence du ministre chargé de l'entrée, du séjour, de l'établissement et de l'éloignement des étrangers. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 19, 042; En vigueur : 04-08-2025&gt;
+
+(2)&lt;L 2026-07-22/07, art. 3, 046; En vigueur : 01-10-2026&gt;
+
+###### Art. 98/14
+
+[<sup>1</sup> . § 1er. La détention limitée et la surveillance électronique sont octroyées par le juge de l'application des peines à la demande écrite du condamné.
+
+§ 2. La demande écrite est introduite au greffe de la prison.
+
+Le greffe de la prison transmet la demande écrite au greffe du tribunal de l'application des peines dans les vingt-quatre heures et en remet une copie au directeur.
+
+S'il s'agit d'une demande de surveillance électronique et que le condamné subit une peine pour des faits visés par les articles [<sup>2</sup> 100, 112 à 118, 120 à 126, 129, 130, 143 à 146, 151 à 155, 160, 161, 168, 171 à 174, 200, 201, 206 à 211, 260, 333 à 337 du Code pénal]<sup>2</sup> ou pour des faits commis dans un contexte de violences intrafamiliales, le directeur demande au service compétent des communautés de procéder à une enquête sociale en vue d'obtenir les informations nécessaires sur le milieu d'accueil où se déroulera la surveillance électronique, sauf si cela s'avère inutile dans le cas concret.
+
+§ 3. Le directeur rend un avis dans le mois de la réception de la copie de la demande écrite. L'article 98/16 s'applique. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 20, 042; En vigueur : 04-08-2025&gt;
+
+(2)&lt;L 2026-03-30/02, art. 92, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 98/15
+
+[<sup>1</sup> La libération conditionnelle, la mise en liberté provisoire en vue de l'éloignement du territoire et la mise en liberté provisoire en vue de la remise sont accordées par le juge de l'application des peines sur avis d'office du directeur.
+
+Le directeur rend un avis au plus tard deux mois avant que le condamné satisfasse, selon le cas, aux conditions de temps prévues aux articles 98/10, alinéa 2, 98/11, alinéa 2, ou 98/12, alinéa 2, ou immédiatement si ce délai ne peut être respecté. L'article 98/16 s'applique.
+
+Si l'avis concerne une libération conditionnelle et que le condamné subit une peine pour des faits de violence intrafamiliale, le directeur demande au service compétent des communautés de procéder à une enquête sociale en vue d'obtenir les informations nécessaires sur le milieu d'accueil où se déroulera la libération conditionnelle, sauf si cela s'avère inutile dans le cas concret. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 1, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 98/16
+
+[<sup>1</sup> Le directeur entend le condamné et constitue un dossier. Ce dossier contient:
+
+1° une copie de la fiche d'écrou, mentionnant la date d'admissibilité à la modalité d'exécution de la peine à apprécier;
+
+2° l'avis du directeur qui contient les éléments suivants:
+
+a) si la modalité d'exécution de la peine à apprécier concerne une surveillance électronique: des informations sur l'endroit où la surveillance électronique se déroulera et l'accord des cohabitants majeurs de cet endroit et, si la demande émane d'un condamné sans droit de séjour: un avis de l'Office des Etrangers indiquant si le condamné peut être immédiatement éloigné ou transféré dans un lieu relevant de la compétence du ministre compétent pour l'accès au territoire, le séjour, l'établissement et l'éloignement d'étrangers;
+
+b) si la modalité d'exécution de la peine à apprécier concerne une détention limitée: des informations précises sur les intérêts d'ordre professionnel, de formation ou familiaux qui requièrent sa présence hors de la prison;
+
+c) si la modalité d'exécution de la peine à apprécier concerne une libération conditionnelle: des informations concernant l'adresse de séjour proposée;
+
+d) le cas échéant, l'enquête sociale visée aux articles 98/14, § 2, alinéa 3, et 98/15, alinéa 3;
+
+e) les éléments que le directeur estime pertinents pour évaluer le risque [<sup>2</sup> concrètement]<sup>2</sup> observable pour l'intégrité physique de tiers;
+
+f) une proposition d'octroi ou de refus et, le cas échéant, les conditions particulières qu'il estime nécessaires pour limiter le risque de récidive ou qui sont nécessaires dans l'intérêt de la victime.
+
+Le greffe de la prison transmet le dossier au greffe du tribunal de l'application des peines et en communique une copie au ministère public et au condamné.
+
+Le greffe du tribunal de l'application des peines joint au dossier une copie actualisée du casier judiciaire, une copie des jugements et des arrêts de condamnation ainsi que, le cas échéant, une copie des fiches victime. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 22, 042; En vigueur : 04-08-2025&gt;
+
+(2)&lt;L 2026-07-22/07, art. 4, 046; En vigueur : 01-10-2026&gt;
+
+###### Art. 98/17
+
+[<sup>1</sup> Si le directeur a formulé une proposition d'octroi d'une surveillance électronique ou, au cas où le condamné subit sa peine en prison, d'une libération conditionnelle et pour autant que le condamné se trouve dans les conditions de temps pour son octroi, l'exécution de la peine privative de liberté est suspendue de plein droit une seule fois par modalité d'exécution de la peine demandée. Le greffe de la prison en informe immédiatement le ministère public et le greffe du tribunal de l'application des peines.
+
+Cette suspension prend fin de plein droit à partir du jour où le jugement est passé en force de chose jugée ou, en cas d'octroi d'une surveillance électronique, au moment du placement effectif sous surveillance électronique. La prescription des peines contenues dans la demande ne court pas durant cette période de suspension.
+
+Durant la suspension de l'exécution de la peine privative de liberté, le procureur du Roi près le tribunal dans le ressort duquel le condamné se trouve ou le ministère public peut ordonner l'incarcération du condamné si celui-ci met gravement en péril l'intégrité physique de tiers ou s'il existe un risque que le condamné se soustraie à l'exécution de sa peine. Cette décision est communiquée sans délai au condamné, au juge du tribunal de l'application des peines et au directeur. La suspension de l'exécution de la peine privative de liberté prend ce faisant fin. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 23, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 98/18
+
+[<sup>1</sup> Dans les cas où le ministère public l'estime utile et pour lesquels le Collège des procureurs généraux peut édicter des directives, le ministère public rédige un avis quant à l'existence d'un risque [<sup>2</sup> concrètement]<sup>2</sup> observable pour l'intégrité physique de tiers et le transmet au juge de l'application des peines, dans les [<sup>2</sup> dix jours ouvrables]<sup>2</sup> à compter de la réception de la copie de l'avis du directeur, et en communique une copie au condamné et au directeur. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 24, 042; En vigueur : 04-08-2025&gt;
+
+(2)&lt;L 2026-07-22/07, art. 5, 046; En vigueur : 01-10-2026&gt;
+
+###### Art. 98/19
+
+[<sup>1</sup> Le juge de l'application des peines statue dans le mois de la réception du dossier du directeur visé à l'article 98/16, alinéa 1er, et, au plus tôt, après réception de l'avis du ministère public ou après expiration du délai imparti au ministère public pour communiquer son avis.
+
+Dans le cas où la demande porte sur une libération conditionnelle et le condamné subit une peine pour:
+
+\- des faits visés aux articles [<sup>2</sup> 96 à 102, 112 à 118, 120 à 126, 195 à 198, 2° à 4°, 199 à 202, 206 à 211, 467 à 469 et 471 à 473 du Code pénal]<sup>2</sup>;
+
+\- des faits d'importation, d'exportation, de transit et de transport visés à l'article 2bis de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes, ou des faits visés dans les articles [<sup>2</sup> 106 à 107/1, 196, 198, 202, 215, 217, 218, 223 à 225, 260, 407 à 409 du Code pénal]<sup>2</sup> pour autant que ces faits ont été commis en combinaison avec un des faits visés par le premier tiret;
+
+le juge de l'application des peines qui estime que le dossier n'est pas en état peut demander des informations complémentaires ou charger le service compétent des communautés conformément à l'article 34, § 2, alinéa 2, de rédiger un rapport d'information succinct ou de procéder à une enquête sociale, en vue d'obtenir les informations nécessaires sur le milieu d'accueil où la libération conditionnelle se déroulera. Dans ce cas, le délai d'un mois visé au paragraphe 1er peut être prolongé une fois d'un mois au maximum. Le juge de l'application des peines notifie immédiatement la prolongation du délai au ministère public, au directeur si le condamné est en détention, et au condamné et invite ce dernier ou, le cas échéant, le directeur à communiquer par écrit les informations nécessaires dans les quatorze jours. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 25, 042; En vigueur : 04-08-2025&gt;
+
+(2)&lt;L 2026-03-30/02, art. 93, 045; En vigueur : 01-09-2026&gt;
+
+#### Section IV. [<sup>1</sup> De la décision du juge de l'application des peines ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 26, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 98/20
+
+[<sup>1</sup> Le juge de l'application des peines qui ne conteste pas la date d'admissibilité visée à l'article 98/16, alinéa 1er, 1°, octroie la modalité d'exécution de la peine, sauf s'il constate que les conditions visées à l'article 98/13 ne sont pas remplies.
+
+Le jugement d'octroi d'une détention limitée, d'une surveillance électronique ou d'une libération conditionnelle est exécutoire à partir du jour où il est passé en force de chose jugée et au plus tôt à partir du moment où le condamné répond aux conditions de temps pour la modalité d'exécution de la peine accordée.
+
+Le jugement d'octroi d'une mise en liberté provisoire en vue de la remise devient exécutoire au moment de la remise.
+
+Le jugement d'octroi d'une mise en liberté provisoire en vue de l'éloignement du territoire devient exécutoire au moment de l'éloignement effectif ou du transfert vers un lieu qui relève de la compétence du ministre compétent pour l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, et ce, au plus tôt le jour où le jugement est passé en force de chose jugée et où le condamné répond aux conditions de temps pour cette modalité d'exécution de la peine et au plus tard vingt jours après que le condamné a subi un tiers des peines ou, s'il a déjà subi un tiers de ses peines au moment de l'octroi, vingt jours après que le jugement est passé en force de chose jugée. Si l'éloignement ou le transfert ne s'est pas produit à l'expiration du délai d'exécutabilité, le condamné est remis en liberté. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 27, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 98/21
+
+[<sup>1</sup> Le jugement d'octroi de la modalité d'exécution de la peine détermine que le condamné est soumis aux conditions générales suivantes:
+
+1° ne pas commettre d'infractions;
+
+2° ne pas importuner les victimes;
+
+3° pour la surveillance électronique et la libération conditionnelle, avoir une résidence et, en cas de changement, communiquer sans délai l'adresse de sa nouvelle résidence au ministère public et, le cas échéant, également au service compétent des communautés chargé de la guidance;
+
+4° donner suite aux convocations du ministère public et, le cas échéant, du service compétent des communautés chargé de la guidance;
+
+5° pour la mise en liberté provisoire en vue de l'éloignement du territoire, l'obligation de quitter effectivement le territoire et l'interdiction de revenir en Belgique pendant le délai d'épreuve sans être en règle avec la législation et la réglementation relative à l'accès au territoire, au séjour ou à l'établissement dans le Royaume et sans l'autorisation préalable du juge de l'application des peines. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 28, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 98/22
+
+[<sup>1</sup> § 1er. Le juge de l'application des peines peut soumettre le condamné à des conditions particulières individualisées si elles sont absolument nécessaires pour limiter le risque de récidive ou si elles sont nécessaires dans l'intérêt de la victime.
+
+§ 2. Lorsqu'il s'agit de l'octroi d'une libération conditionnelle, le juge de l'application des peines détermine également dans son jugement si le condamné peut ou non quitter le territoire du Royaume pendant la libération conditionnelle.
+
+Dans le cas où le condamné peut quitter le territoire du Royaume, le juge de l'application des peines détermine dans son jugement la période maximale pendant laquelle le condamné peut le faire et à quelle fréquence et, le cas échéant, si et de quelle manière le condamné doit en informer préalablement le ministère public avant de quitter le territoire du Royaume. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 29, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 98/23
+
+[<sup>1</sup> Le juge de l'application des peines détermine dans le jugement d'octroi d'une détention limitée ou d'une surveillance électronique le programme du contenu concret de celle-ci.
+
+Le service compétent des communautés se charge de donner un contenu concret à la modalité d'exécution de la peine octroyée conformément aux modalités fixées par le Roi. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 30, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 98/24
+
+[<sup>1</sup> § 1er. Si le juge de l'application des peines décide de l'octroi de la détention limitée ou de la surveillance électronique, il peut également octroyer un congé pénitentiaire à ce moment.
+
+§ 2. Si le condamné demande un congé pénitentiaire après l'octroi de la détention limitée ou de la surveillance électronique, il dépose sa demande écrite au greffe du tribunal de l'application des peines. Cette demande contient les informations relatives aux circonstances factuelles et au cadre dans lequel le congé se déroulera.
+
+Le juge de l'application des peines statue dans le mois qui suit l'introduction de la demande du condamné.
+
+Les articles 98/21 et 98/22 s'appliquent.
+
+§ 3. Le juge de l'application des peines fixe la durée du congé pénitentiaire, qui ne peut être inférieure à quatre fois trente-six heures par trimestre. Le congé pénitentiaire est renouvelé de plein droit chaque trimestre.
+
+§ 4. L'article 98/26 s'applique. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 1, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 98/25
+
+[<sup>1</sup> Si le juge de l'application des peines rejette la modalité d'exécution de la peine à évaluer, il indique dans son jugement la date à laquelle le condamné peut introduire une nouvelle demande ou à laquelle le directeur doit émettre un nouvel avis.
+
+Ce délai ne peut pas excéder deux mois à compter du jugement. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 32, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 98/26
+
+[<sup>1</sup> . § 1er. Le jugement est notifié dans les vingt-quatre heures, par envoi recommandé, au condamné et porté par écrit à la connaissance du ministère public et du directeur. Lors de la prise de connaissance du jugement, le condamné marque son accord sur les conditions.
+
+La victime est informée le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide du jugement et, le cas échéant, des conditions qui sont imposées dans son intérêt.
+
+Sans préjudice de l'alinéa 1er, le greffe du tribunal de l'application des peines informe le condamné à l'égard duquel l'exécution de la peine privative de liberté a été suspendue conformément à l'article 98/17 du jugement, dans les plus brefs délais et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide."
+
+§ 2. Le jugement d'octroi d'une modalité d'exécution de la peine est communiqué aux autorités et instances suivantes:
+
+\- le chef de corps de la police locale de la commune où le condamné s'établira;
+
+\- la banque de données nationale visée à l'article 44/2 de la loi du 5 août 1992 sur la fonction de police;
+
+\- le cas échéant, le service compétent des communautés de l'arrondissement judiciaire du lieu de résidence du condamné;
+
+\- le service des communautés, compétent pour la surveillance électronique, si la décision concerne une surveillance électronique;
+
+\- le service compétent de la communauté du lieu de résidence de la victime [<sup>2</sup> ...]<sup>2</sup>;
+
+\- l'Office des Etrangers, si la décision porte sur un condamné qui n'est pas autorisé ou habilité à séjourner dans le Royaume. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 33, 042; En vigueur : 04-08-2025&gt;
+
+(2)&lt;L 2026-03-30/02, art. 94, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 98/27
+
+[<sup>1</sup> Outre les cas visés à l'article 64, 1° à 7°, le ministère public peut saisir le juge de l'application des peines en vue de la révocation de la modalité d'exécution de la peine octroyée si le condamné ne respecte pas la condition générale prévue à l'article 98/21, 2°.
+
+Lorsque le condamné ne respecte pas la condition générale prévue à l'article 98/21, 5°, le ministère public saisit le juge de l'application des peines, auquel cas le juge de l'application des peines révoque la mise en libération provisoire en vue de l'éloignement du territoire. Dans le même cas, le procureur du Roi près le tribunal dans le ressort duquel le condamné se trouve ou le ministère public, peut ordonner l'arrestation provisoire de celui-ci, auquel cas le juge de l'application des peines révoque la mise en liberté provisoire en vue de l'éloignement du territoire. Seul l'article 68, §§ 5, 6 et 7, s'applique à ces procédures ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 34, 042; En vigueur : 04-08-2025&gt;
+
+### Chapitre Ier/1 [<sup>1</sup> De la procédure d'urgence pour l'octroi de la surveillance électronique de plein droit]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-07-22/07, art. 6, 046; En vigueur : 01-10-2026&gt;
+
+#### Section Ire [<sup>1</sup> Champ d'application et durée de validité]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-07-22/07, art. 7, 046; En vigueur : 01-10-2026&gt;
+
+###### Art. 98/27/1.
+
+[<sup>1</sup> § 1er. Le présent chapitre s'applique au:
+
+1° condamné à une ou plusieurs peines privatives de liberté dont la partie exécutoire est inférieure ou égale à dix-huit mois, mais supérieure ou égale à six mois;
+
+2° condamné à une ou plusieurs peines privatives de liberté dont la partie exécutoire est inférieure ou égale à trois ans, mais supérieure à dix-huit mois, pour autant qu'il se trouve à dix-huit mois de la fin de la partie exécutoire de la peine ou des peines privatives de liberté auxquelles il a été condamné et qu'il réponde aux conditions de temps requises pour l'octroi de la libération conditionnelle;
+
+3° condamné à une ou plusieurs peines privatives de liberté dont la partie exécutoire est inférieure ou égale à dix ans, mais supérieure à trois ans, pour autant qu'il se trouve à dix-huit mois de la fin de la partie exécutoire de la peine ou des peines privatives de liberté auxquelles il a été condamné et qu'il réponde aux conditions de temps requises pour l'octroi de la libération conditionnelle.
+
+§ 2. Les catégories de condamnés suivantes sont exclues de l'octroi de la surveillance électronique de plein droit visée au présent chapitre:
+
+1° le condamné qui subit une peine pour laquelle un avis spécialisé est requis conformément à l'article 32;
+
+2° le condamné qui subit une peine pour des faits visés à l'article 98/19, alinéa 2;
+
+3° le condamné qui subit une peine pour des faits visés à la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes;
+
+4° le condamné qui fait l'objet d'une condamnation avec une mise à disposition du tribunal de l'application des peines.
+
+Le condamné pour qui il ressort d'un avis de l'Office des étrangers qu'il n'est pas autorisé ou habilité à séjourner dans le Royaume, ne peut bénéficier de l'octroi de la surveillance électronique de plein droit que dans la mesure où, sur la base d'un avis de l'Office des étrangers, qui est à rendre dans les dix jours suivant la notification par le directeur, il apparaît que ce condamné ne peut pas être immédiatement éloigné ou transféré dans un lieu relevant de la compétence du ministre chargé de l'entrée, du séjour, de l'établissement et de l'éloignement des étrangers.
+
+Le condamné dont la modalité d'exécution de la peine est révoquée par le juge de l'application des peines ou le tribunal de l'application des peines pendant la période de validité du présent chapitre est exclu de l'octroi de la surveillance électronique de plein droit pendant les deux mois qui suivent l'exécution du jugement de révocation. Il en est également exclu pendant la période d'arrestation provisoire ou de suspension précédant une éventuelle révocation.
+
+§ 3. Au plus tôt deux mois après l'entrée en vigueur de loi du 22 juillet 2026 portant des mesures supplémentaires visant à réduire la surpopulation carcérale, le Roi peut, par un arrêté délibéré en Conseil des ministres, étendre le champ d'application de la procédure d'urgence pour l'octroi de la surveillance électronique de plein droit à l'égard du condamné visé au paragraphe 1er, 1°, dans la mesure où la capacité pénitentiaire disponible ne permet pas d'offrir à chaque détenu un espace de couchage digne.
+
+L'extension visée à l'alinéa 1er implique que l'une des dispositions d'exclusion ou les deux visées au paragraphe 2, alinéa 1er, 2° et 3°, ne sont, en tout ou en partie, pas appliquées.
+
+Dès que la capacité pénitentiaire disponible permet à nouveau d'offrir à chaque détenu un espace de couchage digne, le Roi peut, par un arrêté délibéré en Conseil des ministres, restreindre le champ d'application de la procédure d'urgence visée à l'alinéa 1er à l'égard du condamné visé au paragraphe 1er, 1° en appliquant, en tout ou en partie l'une des dispositions d'exclusion ou les deux visées au paragraphe 2, alinéa 1er, 2° et 3.
+
+§ 4. Le présent chapitre s'applique jusqu'au 31 décembre 2028.
+
+Le Roi peut, par un arrêté délibéré en Conseil des ministres, sur la base d'une évaluation de la situation en matière de surpopulation et de la capacité disponible, prolonger à l'égard du condamné visé au paragraphe 1er, 1°, la date visée à l'alinéa 1er à chaque fois d'un an au maximum, jusqu'au 1er juin 2030 au plus tard.
+
+§ 5. Une surveillance électronique au sens de l'article 22 est octroyée au condamné visé au paragraphe 1er aux conditions précisées aux articles 98/27/2 et 98/27/4.
+
+§ 6. La procédure d'urgence d'octroi de la surveillance électronique de plein droit prime sur toutes les autres procédures d'octroi de la surveillance électronique prévues par la présente loi, sans exclure les dispositions applicables de la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-07-22/07, art. 8, 046; En vigueur : 01-10-2026&gt;
+
+#### Section II. [<sup>1</sup> Conditions et procédure d'octroi]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-07-22/07, art. 9, 046; En vigueur : 01-10-2026&gt;
+
+###### Art. 98/27/2.
+
+[<sup>1</sup> § 1er. Une surveillance électronique est octroyée au condamné visé à l'article 98/27/1, § 1er, 1° à 3, qui subit sa peine privative de liberté en tout ou en partie en prison ou dont l'exécution de la peine privative de liberté a été suspendue conformément à l'article 98/17, dès que le directeur constate que le condamné dispose d'un lieu de résidence et que les cohabitants majeurs à cette adresse donnent leur accord.
+
+Si le condamné subit une peine pour des faits visés aux articles 28/1 et 47/1, le lieu de résidence n'est pas accepté si la victime réside à l'endroit où la surveillance électronique se déroulera.
+
+L'octroi de la surveillance électronique de plein droit comprend l'octroi de plein droit d'un congé pénitentiaire d'une durée de quatre fois trente-six heures par trimestre. Le congé pénitentiaire est renouvelé de plein droit chaque trimestre, sauf décision contraire du juge de l'application des peines ou du tribunal de l'application des peines conformément au paragraphe 5.
+
+§ 2. A l'égard du condamné visé à l'article 98/27/1, § 1, 1° et 2°, avant le placement effectif sous surveillance électronique, l'exécution de la peine privative de liberté est suspendue de plein droit.
+
+Le directeur informe immédiatement le condamné de l'octroi de la surveillance électronique de plein droit et, le cas échéant, de la suspension de peine de plein droit.
+
+Le directeur informe la victime le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide, de l'octroi de la surveillance électronique de plein droit et, le cas échéant, de la suspension de peine de plein droit.
+
+Le directeur informe immédiatement de l'octroi de la surveillance électronique de plein droit et, le cas échéant, de la suspension de peine de plein droit:
+
+1° le service des communautés, compétent pour la surveillance électronique;
+
+2° le greffe du tribunal de l'application des peines;
+
+3° le ministère public;
+
+4° le service compétent des communautés du lieu de résidence de la victime;
+
+5° l'Office des étrangers, dans le cas où la décision concerne un condamné qui n'est pas autorisé ou habilité à séjourner dans le Royaume.
+
+La suspension de peine prend fin de plein droit au moment du placement effectif sous surveillance électronique. Le condamné visé à l'article 98/27/1, § 1, 3°, séjourne en prison après l'octroi de la surveillance électronique de plein droit, pour le temps strictement nécessaire au placement effectif sous surveillance électronique.
+
+Durant la suspension de l'exécution de la peine privative de liberté, le procureur du Roi près le tribunal dans le ressort duquel le condamné se trouve ou le ministère public peut ordonner l'incarcération du condamné si celui-ci met gravement en péril l'intégrité physique de tiers ou s'il existe un risque que le condamné se soustraie à l'exécution de sa peine. Cette décision est communiquée sans délai au condamné, au juge de l'application des peines et au directeur. L'octroi de la surveillance électronique de plein droit devient dès lors caduc.
+
+§ 3. Pendant l'exécution de la surveillance électronique, le condamné est soumis aux conditions générales suivantes:
+
+1° ne pas commettre d'infractions;
+
+2° ne pas importuner les victimes;
+
+3° conserver un lieu de résidence en Belgique et ne le changer qu'après autorisation du service des communautés, compétent pour la surveillance électronique;
+
+4° donner suite aux convocations du service des communautés, compétent pour la surveillance électronique, et du ministère public;
+
+5° respecter le plan d'exécution établi par le service des communautés, compétent pour la surveillance électronique.
+
+§ 4. Le directeur informe du placement effectif sous surveillance électronique les autorités et instances suivantes:
+
+1° le greffe du tribunal de l'application des peines;
+
+2° le ministère public;
+
+3° le chef de corps de la police locale de la commune où le condamné s'établira;
+
+4° la banque de données nationale visée à l'article 44/2 de la loi du 5 août 1992 sur la fonction de police.
+
+§ 5. Le juge de l'application des peines, en ce qui concerne le condamné visé à l'article 98/27/1, § 1er, 1° et 2°, ou le tribunal de l'application des peines, en ce qui concerne le condamné visé à l'article 98/27/1, § 1er, 3°, est saisi par la notification visée au paragraphe 2, alinéa 4, 2°, et évalue au plus tard deux mois après cette notification si l'octroi de plein droit répondait aux conditions de temps ou aux conditions d'octroi visées au paragraphe 1er et à l'article 98/27/1, § 1er, et statue, sur la base de cette évaluation, sur l'éventuel arrêt de la surveillance électronique de plein droit ou du congé pénitentiaire. En l'absence de jugement dans ce délai, la surveillance électronique, y compris le congé pénitentiaire, se poursuit.
+
+Le juge de l'application des peines ou le tribunal de l'application des peines peut décider d'arrêter la surveillance électronique ou le congé pénitentiaire s'il est établi que l'octroi de plein droit ne répondait pas aux conditions de temps ou d'octroi visées au paragraphe 1er et à l'article 98/27/1, § 1er.
+
+Si le juge de l'application des peines ou le tribunal de l'application des peines envisage d'arrêter la surveillance électronique ou le congé pénitentiaire, l'examen de l'affaire a lieu à la première audience utile.
+
+Le condamné est convoqué, par envoi recommandé, au moins dix jours avant la date de l'examen de l'affaire.
+
+L'audience se déroule à huis clos.
+
+Le dossier est tenu, pendant au moins quatre jours avant la date fixée pour l'audience, à la disposition du condamné et de son conseil pour consultation au greffe du tribunal de l'application des peines ou au greffe de la prison si le condamné est détenu.
+
+Le condamné peut, à sa demande, obtenir une copie du dossier.
+
+Le juge de l'application des peines ou le tribunal de l'application des peines entend le condamné et son conseil ainsi que le ministère public.
+
+Le juge de l'application des peines ou le tribunal de l'application des peines délibère sur l'arrêt de la surveillance électronique de plein droit ou du congé pénitentiaire dans les sept jours de la mise en délibéré.
+
+En cas d'arrêt de la surveillance de plein droit, le condamné est immédiatement réincarcéré. En cas d'arrêt de la surveillance électronique de plein droit, la période pendant laquelle le condamné était sous surveillance électronique est déduite de la partie des peines privatives de liberté restant à subir au moment de l'octroi.
+
+§ 6. Le jugement est notifié dans les vingt-quatre heures, par envoi recommandé, au condamné et porté par écrit à la connaissance du ministère public et du directeur.
+
+La victime est informée le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide, du jugement d'arrêt de la surveillance électronique de plein droit.
+
+Le jugement d'arrêt de la surveillance électronique de plein droit est communiqué aux autorités et instances suivantes:
+
+1° le chef de corps de la police locale de la commune où le condamné séjourne;
+
+2° la banque de données nationale visée à l'article 44/2 de la loi du 5 août 1992 sur la fonction de police;
+
+3° le service des communautés, compétent pour la surveillance électronique;
+
+4° le service compétent des communautés du lieu de résidence de la victime;
+
+5° l'Office des étrangers, si la décision porte sur un condamné qui n'est pas autorisé ou habilité à séjourner dans le Royaume.
+
+§ 7. L'octroi de la surveillance électronique de plein droit entraîne la caducité de la demande du condamné, adressée au juge de l'application des peines ou au tribunal de l'application des peines, visant à l'octroi d'une détention limitée ou d'une surveillance électronique, mais ne met pas fin à la demande du condamné ou à l'avis d'office du directeur visant à octroyer une libération conditionnelle ou une mise en liberté provisoire en vue d'un éloignement du territoire ou d'une remise.
+
+L'octroi de la surveillance électronique de plein droit entraîne la caducité de la détention limitée octroyée par le juge de l'application des peines ou le tribunal de l'application des peines, mais ne met pas fin à la surveillance électronique octroyée par le juge de l'application des peines ou le tribunal de l'application des peines, ni à la libération conditionnelle ou à la mise en liberté provisoire en vue d'un éloignement du territoire ou d'une remise, ni à la libération anticipée "surpopulation" octroyée par le directeur visée à l'article 98/28.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-07-22/07, art. 10, 046; En vigueur : 01-10-2026&gt;
+
+###### Art. 98/27/3.
+
+[<sup>1</sup> Outre les cas visés à l'article 64, 2°, 4°, 6° et 7°, le ministère public peut saisir le juge de l'application des peines ou le tribunal de l'application des peines en vue de la révocation de la surveillance électronique octroyée de plein droit si le condamné ne respecte pas la condition générale visée à l'article 98/27/2, § 3, 1°, 2° ou 3°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-07-22/07, art. 11, 046; En vigueur : 01-10-2026&gt;
+
+###### Art. 98/27/4.
+
+[<sup>1</sup> A la suite de la caducité de l'octroi de la surveillance électronique de plein droit visée à l'article 98/27/2, § 2, alinéa 6, in fine, ou à la suite d'une décision de révocation de la surveillance électronique de plein droit, la surveillance électronique de plein droit est octroyée à nouveau après l'écoulement d'un délai de deux mois à compter de l'incarcération consécutive à l'ordonnance visée à l'article 98/27/2, § 2, alinéa 6, ou au jugement de révocation, sauf si la révocation est basée sur l'article 64, 7°.
+
+En cas de révocation de la surveillance électronique de plein droit sur la base de l'article 64, 2°, ou pour non-respect de la condition générale visée à l'article 98/27/2, § 3, 1° ou 2°, la surveillance électronique de plein droit n'est pas accordée à nouveau.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-07-22/07, art. 14, 046; En vigueur : 01-10-2026&gt;
+
+### CHAPITRE II. [<sup>1</sup> La libération anticipée "surpopulation" à partir de six mois avant la fin de peine ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 35, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 98/28
+
+[<sup>1</sup> § 1er. Le directeur accorde une libération anticipée "surpopulation" au condamné qui se trouve dans les conditions de temps pour la libération conditionnelle à partir de six mois avant la fin de la partie exécutoire de la peine privative de liberté ou des peines privatives de liberté auxquelles il a été condamné pour autant qu'il n'exécute que des peines passées en force de chose jugée de privation de liberté et pour autant qu'il remplisse cumulativement les conditions suivantes:
+
+1° il dispose d'une adresse d'accueil;
+
+2° il ne présente pas de risque manifeste d'atteinte grave à l'intégrité physique des tiers.
+
+Le condamné qui n'a pas le droit au séjour ne peut bénéficier de cette mesure que dans la mesure où l'Office des Etrangers communique au directeur qu'il est dans l'incapacité de procéder immédiatement à l'éloignement du territoire ou au transfert du condamné vers un lieu relevant de la compétence du ministre chargé de l'entrée, du séjour, de l'établissement et de l'éloignement des étrangers. Le condamné concerné ne doit remplir que la condition visée à l'alinéa 1er, 2°.
+
+Par dérogation à l'alinéa 1er, le condamné dont la modalité d'exécution de la peine est révoquée par le juge de l'application des peines ou le tribunal de l'application des peines pendant la période de validité de cette mesure est exclu de la libération anticipée pendant les deux mois qui suivent l'exécution du jugement de révocation. [<sup>3</sup> Il en est également exclu pendant la période d'arrestation provisoire ou de suspension précédant une éventuelle révocation.]<sup>3</sup>
+
+§ 2. Les catégories de condamnés suivantes sont exclues de la mesure de la libération anticipée "surpopulation" visée dans le présent chapitre:
+
+\- les condamnés qui subissent une ou plusieurs peines privatives de liberté dont le total s'élève à plus de [<sup>3</sup> trois]<sup>3</sup> ans;
+
+\- les condamnés qui subissent une peine pour des faits visés au [<sup>2</sup> livre II, titre 4, chapitre 1er, du Code pénal]<sup>2</sup>;
+
+\- les condamnés qui subissent une peine pour des faits visés aux articles [<sup>2</sup> 134 à 149, 151 à 168, 171 à 174, 177 à 179, 183 à 185 du Code pénal]<sup>2</sup>;
+
+\- les condamnés qui font l'objet d'une condamnation avec une mise à la disposition du tribunal de l'application des peines[<sup>2</sup> ...]<sup>2</sup>;
+
+\- les condamnés qui sont suivis par l'Organe de coordination pour l'analyse de la menace dans le cadre de la banque de données commune visée à l'article 3 de la loi du 29 mars 2024 portant création de la banque de données commune "Terrorisme, Extrémisme, processus de Radicalisation" ("T.E.R.") et modifiant la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, la loi du 30 juillet 2018 portant création de cellules de sécurité intégrale locales en matière de radicalisme, d'extrémisme et de terrorisme et la loi du 5 août 1992 sur la fonction de police.
+
+§ 3. La décision d'octroi de la libération anticipée "surpopulation" détermine que le condamné est soumis aux conditions générales suivantes pendant le délai d'épreuve;
+
+1° ne pas commettre d'infractions;
+
+2° ne pas importuner les victimes;
+
+3° continuer à avoir une adresse d'accueil et, en cas de changement de celle-ci, communiquer immédiatement son nouveau lieu de séjour au directeur ou, dans le cas d'un condamné visé au paragraphe 1er, alinéa 2, l'obligation de quitter effectivement le territoire dans le délai imposé par l'Office des Etrangers et l'interdiction de revenir en Belgique pendant le délai d'épreuve sans être en règle avec la législation et la réglementation relative à l'accès au territoire, au séjour ou à l'établissement dans le Royaume.
+
+§ 4. Le délai d'épreuve est égal à la durée de la partie restante des peines privatives de liberté au moment de l'octroi de la libération anticipée "surpopulation".
+
+§ 5. Le directeur communique la décision d'octroi de la libération anticipée "surpopulation" au condamné.
+
+Le directeur informe la victime le plus rapidement possible et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide, de l'octroi de la libération anticipée "surpopulation".
+
+Le directeur communique la décision d'octroi de la libération anticipée "surpopulation" aux autorités et instances suivantes:
+
+1° le chef de corps de la police locale de la commune où le condamné a son adresse d'accueil;
+
+2° la banque de données nationale visée à l'article 44/2 de la loi du 5 août 1992 sur la fonction de police;
+
+3° le procureur du Roi de l'arrondissement dans lequel le condamné a son adresse d'accueil;
+
+4° le ministère public près le tribunal de l'application des peines si le tribunal de l'application des peines est déjà saisi;
+
+5° le service compétent des communautés chargé de l'accompagnement de la détention limitée, si le condamné est en détention limitée;
+
+6° l'Office des Etrangers, si la décision porte sur un condamné visé au paragraphe 1er, alinéa 2.
+
+§ 6. Le directeur peut révoquer la libération anticipée "surpopulation" dans les cas suivants:
+
+1° s'il est constaté dans une décision passée en force de chose jugée que le condamné a commis une infraction pendant le délai d'épreuve;
+
+2° pour non-respect de la condition générale prévue au paragraphe 3, 2° ;
+
+3° après une arrestation provisoire conformément au paragraphe 8.
+
+En cas de révocation, la période au cours de laquelle le condamné était en libération anticipée "surpopulation" et qui court jusqu'à la décision de révocation est déduite de la partie restante des peines privatives de liberté au moment de l'octroi de la libération anticipée "surpopulation".
+
+Si la libération anticipée "surpopulation" est révoquée, elle ne peut pas être accordée à nouveau.
+
+§ 7. Le directeur communique la décision de révocation le plus rapidement possible:
+
+1° au condamné;
+
+2° à toutes les autorités et instances auxquelles la décision d'octroi a été communiquée conformément au paragraphe 5, alinéa 3.
+
+Le directeur informe la victime de la décision de révocation le plus rapidement possible et en tous cas dans les vingt-quatre heures, par le moyen de communication écrite le plus rapide.
+
+§ 8. Si le condamné met gravement en péril l'intégrité physique ou psychique de tiers pendant le délai d'épreuve, le procureur du Roi près le tribunal dans le ressort duquel le condamné se trouve peut ordonner son arrestation provisoire. Il communique immédiatement sa décision au directeur.
+
+Le directeur prend une décision sur la révocation de la libération anticipée "surpopulation" dans les sept jours qui suivent l'arrestation du condamné. Il communique sa décision par écrit dans les vingt-quatre heures au condamné et au procureur du Roi visé à l'alinéa 1er.
+
+Le directeur communique la décision de révocation à la victime dans les plus brefs délais, et en tout cas dans les vingt-quatre heures, par le moyen de communication écrit le plus rapide. Il communique la décision de révocation dans les plus brefs délais au ministère public près le tribunal de l'application des peines, si le tribunal de l'application des peines a déjà été saisi.
+
+§ 9. Sauf dans le cas visé au paragraphe 8, la libération anticipée "surpopulation" prend fin de plein droit au cas où:
+
+1° un non-respect de la condition visée au paragraphe 3, 3°, est constaté dans le chef du condamné visé au paragraphe 1, deuxième alinéa;
+
+2° le condamné est à nouveau incarcéré.
+
+Dans le cas visé par l'alinéa 1er, 1°, le condamné est immédiatement réincarcéré.
+
+Le directeur en informe le condamné, la victime et toutes les autorités et instances mentionnées au paragraphe 5, alinéa 3. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 1, 042; En vigueur : 04-08-2025&gt;
+
+(2)&lt;L 2026-03-30/02, art. 95, 045; En vigueur : 01-09-2026&gt;
+
+(3)&lt;L 2026-07-22/07, art. 13, 046; En vigueur : 01-10-2026&gt;
+
+###### Art. 98/29
+
+[<sup>1</sup> Le présent chapitre s'applique jusqu'au 31 décembre [<sup>2</sup> 2027]<sup>2</sup>.
+
+Le Roi peut, par un arrêté délibéré en Conseil des ministres, anticiper la date visée à l'alinéa 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 37, 042; En vigueur : 04-08-2025&gt;
+
+(2)&lt;L 2026-07-22/07, art. 14, 046; En vigueur : 01-10-2026&gt;
+
+### Chapitre III. [<sup>1</sup> La libération en vue d'un éloignement et d'un transfèrement vers un lieu qui relève de la compétence du ministre compétent pour l'accès au territoire, le séjour, l'établissement et l'éloignement d'étrangers en vue de l'éloignement imminent des condamnés à une ou plusieurs peines privatives de liberté dont la partie exécutoire est inférieure ou égale à trois ans]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-07-22/07, art. 15, 046; En vigueur : 01-10-2026&gt;
+
+###### Art. 98/29/1.
+
+[<sup>1</sup> Le condamné à une ou plusieurs peines privatives de liberté dont la partie exécutoire est inférieure ou égale à trois ans, qui ne subit pas de peine pour des faits pour lesquels un avis spécialisé est requis conformément à l'article 32 et qui fait l'objet d'un arrêté royal d'expulsion exécutoire, d'un arrêté ministériel de renvoi exécutoire, ou d'un ordre de quitter le territoire exécutoire avec preuve d'éloignement effectif, peut faire l'objet d'un éloignement effectif ou d'un transfert vers un lieu qui relève de la compétence du ministre compétent pour l'accès au territoire, le séjour, l'établissement et l'éloignement d'étrangers, en vue de son éloignement imminent dès qu'il a subi un tiers de ses peines. Le ministre ou son délégué autorise sa libération à cette fin.
+
+Si le condamné revient en Belgique dans les deux ans qui suivent sa libération par le ministre sans être en règle avec la législation et la réglementation relatives à l'accès, au séjour ou à l'établissement dans le royaume, le procureur du Roi près le tribunal dans le ressort duquel le condamné se trouve peut ordonner l'arrestation provisoire de celui-ci. Le procureur du Roi communique immédiatement sa décision au ministre ou à son délégué.
+
+Le ministre ou son délégué prend une décision d'exécution de la partie restante des peines dans les sept jours qui suivent l'arrestation provisoire du condamné. Cette décision est communiquée par écrit dans un délai d'un jour ouvrable au condamné, au procureur du Roi et au directeur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-07-22/07, art. 16, 046; En vigueur : 01-10-2026&gt;
+
+###### Art. 98/29/2.
+
+[<sup>1</sup> Le présent chapitre s'applique jusqu'au 1 juin 2030.
+
+Après évaluation de la capacité carcérale disponible et extrapolation du flux de la population détenue entrante, le Roi peut, par un arrêté délibéré en Conseil des ministres, anticiper la date visée à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-07-22/07, art. 17, 046; En vigueur : 01-10-2026&gt;
+
+## TITRE XIIquinquies. [<sup>1</sup> Disposition finale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-03-30/02, art. 96, 045; En vigueur : 01-09-2026&gt;
+
+###### Art. 98/30.
+
+[<sup>1</sup> Les références à l'article 50 du Code pénal dans les articles 26/1 et 95/1, s'entendent comme des références également aux articles 382bis, abrogé par la loi du 21 mars 2022, et 417/58 du Code pénal pour les condamnations prononcées avant l'entrée en vigueur du Code pénal du 29 février 2024.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-03-30/02, art. 97, 045; En vigueur : 01-09-2026&gt;
+
+## TITRE XIII. - Dispositions modificatives, abrogatoires et transitoires.
+
+### CHAPITRE Ier. - Dispositions modificatives.
+
+#### Section Ire. - Modification du titre préliminaire du Code de procédure pénale.
+
+###### Art. 99
+
+Dans l'article 3bis du titre préliminaire du Code de procédure pénale, modifié par les lois des 12 mars 1998 et 7 mai 1999, l'alinéa suivant est inséré entre les alinéas 1er et 2 :
+
+" Les victimes reçoivent notamment les informations utiles sur les modalités de constitution de partie civile et de déclaration de personne lésée. ".
+
+#### Section 2. - Modifications du Code d'instruction criminelle.
+
+###### Art. 100
+
+L'article 182 du Code d'instruction criminelle, modifié par les lois des 10 juillet 1967, 11 juillet 1994 et 28 mars 2000, est complété par l'alinéa suivant :
+
+" Le procureur du Roi communique les lieu, jour et heure de la comparution par tout moyen approprié aux victimes connues. ".
+
+###### Art. 101
+
+L'article 195 du même Code, remplacé par la loi du 27 avril 1987 et modifié par les lois des 24 décembre 1993, 22 juin et 20 juillet 2005, est complété par les alinéas suivants :
+
+" Si le juge prononce une peine privative de liberté effective, il informe les parties de l'exécution de cette peine privative de liberté et des éventuelles modalités d'exécution de la peine.
+
+Il informe également la partie civile des possibilités d'être entendue dans le cadre de l'exécution de la peine au sujet des conditions qui doivent être imposées dans l'intérêt de la partie civile. ".
+
+###### Art. 102
+
+L'article 216quater, § 1er, du même Code, inséré par la loi du 11 juillet 1994 et modifié par la loi du 13 avril 2005, est complété par l'alinéa suivant :
+
+" Le procureur du Roi communique les lieu, jour et heure de la comparution par tout moyen approprié aux victimes connues. ".
+
+#### Section 3. - Modification du Code pénal.
+
+###### Art. 103
+
+Dans l'article 37ter, § 1er, alinéa 2, troisième tiret, du Code pénal, inséré par la loi du 17 avril 2002, le chiffre " 386ter " est remplacé par le chiffre " 387 ".
+
+#### Section 4. - Modification de la loi du 23 mai 1990 sur le transfèrement interétatique des personnes condamnées, la reprise et le transfert de la surveillance de personnes condamnées sous condition ou libérées sous condition ainsi que la reprise et le transfert de l'exécution de peines et de mesures privatives de liberté.
+
+###### Art. 104
+
+Dans la première et la quatrième phrase de l'article 16 de la loi du 23 mai 1990 sur le transfèrement interétatique des personnes condamnées, la reprise et le transfert de la surveillance de personnes condamnées sous condition ou libérées sous condition ainsi que la reprise et le transfert de l'exécution de peines et de mesures privatives de liberté, inséré par la loi du 26 mai 2005, les mots " la commission de libération conditionnelle " sont remplacés par les mots " le juge de l'application des peines ou, le cas échéant, le tribunal de l'application des peines ".
+
+#### Section 5. - Modification de la loi du 5 août 1992 sur la fonction de police.
+
+###### Art. 105
+
+&lt;L 2006-12-27/33, art. 76, 002; En vigueur : 01-02-2007&gt; A l'article 20 de la loi du 5 août 1992 sur la fonction de police, modifiée par les lois des 5 mars 1998 et 7 décembre 1998, sont apportées les modifications suivantes :
+
+1° l'alinéa 1er est remplacé par l'alinéa suivant :
+
+" Les services de police surveillent les condamnés qui bénéficient d'une modalité d'exécution de la peine de leur peine privative de liberté, les condamnés qui bénéficient de toute autre mesure qui suspend l'exécution de la peine, les condamnés en congé pénitentiaire, les condamnés à une suspension probatoire ou à un sursis probatoire ainsi que les inculpés laissés ou mis en liberté conformément à la loi relative à la détention préventive. ";
+
+2° l'alinéa 2 est remplacé par l'alinéa suivant :
+
+" Ils veillent également que soient respectées les conditions qui leur sont communiquées à cet effet et qui sont imposées aux condamnés qui bénéficient d'une modalité d'exécution de la peine de leur peine privative de liberté, aux condamnés qui bénéficient de toute autre mesure qui suspend l'exécution de la peine, aux condamnés en congé pénitentiaire, aux condamnés à une suspension probatoire ou à un sursis probatoire ainsi qu'aux inculpés laissés ou mis en liberté conformément à la loi relative à la détention préventive."
+
+### CHAPITRE II. - Dispositions abrogatoires.
+
+###### Art. 106
+
+La loi du 5 mars 1998 relative à la libération conditionnelle et modifiant la loi du 9 avril 1930 de défense sociale à l'égard des anormaux et des délinquants d'habitude, remplacée par la loi du 1er juillet 1964, modifiée par les lois des 7 mai 1999, 28 novembre 2000, 22 novembre 2004 et 12 janvier 2005, est abrogée.
+
+### CHAPITRE III. - Dispositions transitoires.
+
+###### Art. 107
+
+&lt;Abrogé par L 2019-05-05/18, art. 24, 029; En vigueur : 01-09-2022&gt;
+
+###### Art. 108
+
+&lt;Abrogé par L 2019-05-05/18, art. 24, 029; En vigueur : 01-09-2022&gt;
+
+## TITRE XIV. - Entrée en vigueur.
+
+###### Art. 109
+
+A l'exception du présent article, qui entre en vigueur le jour de la publication de la présente loi au Moniteur belge, chacun des articles de la présente loi entre en vigueur à la date fixée par le Roi, [<sup>7</sup> et au plus tard le 1er septembre 2022]<sup>7</sup>.
+
+[<sup>7</sup> Par dérogation à l'alinéa 1er, les dispositions de la présente loi qui ont trait aux modalités d'exécution de la peine accordées par le juge de l'application des peines visées au titre V, entrent en vigueur à l'égard des condamnés exécutant une ou plusieurs peines privatives de liberté dont la partie à exécuter s'élève à deux ans ou moins [<sup>8</sup> mais six mois ou plus]<sup>8</sup>, à une date à déterminer par le Roi, et au plus tard le 1er septembre 2023.]<sup>7</sup>
+
+[<sup>8</sup> Par dérogation à l'alinéa 1er, les dispositions de la présente loi qui ont trait aux modalités d'exécution de la peine accordées par le juge de l'application des peines visées au titre V, entrent en vigueur à l'égard des condamnés exécutant une ou plusieurs peines privatives de liberté dont la partie à exécuter s'élève à moins de six mois, à une date à déterminer par le Roi, et au plus tard le [<sup>9</sup> 1er juin 2030]<sup>9</sup>.]<sup>8</sup>
+
+(NOTE : Entrée en vigueur des art. 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, § 1, premier alinéa, 1°, deuxième alinéa et § 2, 24, 25, § 2, 26, §2, 31, 32, 36, 37, 41, 42, 43, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 96, 97, 98, 99, 100, 101, 102, 103, 104, 105, 106, 107 et 108 fixée au 01-02-2007 par AR 2007-01-22/30, art. 1)
+
+(NOTE : Entrée en vigueur de l'article 98/1 fixée au 01-11-2008 par AR 2008-10-01/34, art. 9, 1°)
+
+(NOTE : Entrée en vigueur de l'article 20/1, inséré par L 2012-03-15/09, art. 4; En vigueur : 09-04-2012, fixée au 09-04-2012 par AR 2013-11-07/36, art. 1)
+
+(NOTE : Entrée en vigueur de l'article 25/1 et l'article 26/1 du Titre V, Chapitre III, inséré par L 2013-03-17/01, art. 5 et 7; En vigueur : 19-03-2013, fixée par 19-03-2013 par AR 2013-11-07/36, art. 2)
+
+(NOTE : Entrée en vigueur de l'article 26/1 du Titre V, Chapitre IV, inséré par L 2012-12-14/53, art. 4; En vigueur : 02-05-2013, fixée au 02-05-2013 par AR 2013-11-07/36, art. 3)
+
+(NOTE : Entrée en vigueur des art. 72 à 80 fixée au 12-01-2015 par AR 2014-12-30/09, art. 1)
+
+----------
+
+(1)&lt;L 2015-11-23/02, art. 14, 020; En vigueur : 31-12-2015&gt;
+
+(2)&lt;L 2017-07-06/24, art. 317, 024; En vigueur : 03-08-2017&gt;
+
+(3)&lt;L 2019-05-05/18, art. 23, 029; En vigueur : 14-06-2019&gt;
+
+(4)&lt;L 2020-07-31/03, art. 100, 030; En vigueur : 17-08-2020&gt;
+
+(5)&lt;L 2021-03-16/05, art. 2, 032; En vigueur : 26-03-2021&gt;
+
+(6)&lt;L 2021-11-28/01, art. 92, 033; En vigueur : 30-11-2021&gt;
+
+(7)&lt;L 2022-05-18/02, art. 2, 034; En vigueur : 25-05-2022&gt;
+
+(8)&lt;L 2023-07-31/02, art. 24, 037; En vigueur : 09-08-2023&gt;
+
+(9)&lt;L 2025-07-18/16, art. 3, 042; En vigueur : 04-08-2025&gt;
+
+###### Art. 109/1
+
+[<sup>1</sup> Jusqu'au 1er juin 2030, les articles 21, 22, 23, 24, 25, 25/1, 25/3, 26 et 26/1 du titre V, chapitres Ier, II et III, et les articles 28, 29, 30, 31, 33, 34, 36, 37, 38, 39, 40, 42, 43, 45, 46, 59 et 60 ne s'appliquent pas à l'égard du condamné qui subit une ou plusieurs peines privatives de liberté dont la partie à exécuter s'élève à trois ans ou moins, sauf à l'égard du:
+
+\- condamné qui subit une peine pour laquelle un avis spécialisé est requis conformément à l'article 32;
+
+\- condamné en ce qui concerne [<sup>2</sup> la modification de la peine visée à l'article 50 du Code pénal]<sup>2</sup>.
+
+Après évaluation de la capacité carcérale disponible et extrapolation du flux de la population détenue entrante, le Roi peut, par un arrêté délibéré en Conseil des ministres, anticiper la date visée à l'alinéa 1er à l'égard de tout ou partie des condamnés visés à l'alinéa 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/16, art. 4, 042; En vigueur : 04-08-2025&gt;
+
+(2)&lt;L 2026-03-30/02, art. 98, 045; En vigueur : 01-09-2026&gt;
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 17 mai 2006.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de la Justice,
+
+Mme. L. ONKELINX
+
+Scellé du Sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme. L. ONKELINX.

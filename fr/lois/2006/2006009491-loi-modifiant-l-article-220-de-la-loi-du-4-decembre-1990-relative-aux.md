@@ -1,0 +1,66 @@
+---
+title: "Loi modifiant l'article 220 de la loi du 4 décembre 1990 relative aux opérations financières et aux marchés financiers et les articles 121, § 1er, 1°, et 122 de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers."
+identifier: "2006009491"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/13/2006009491/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2006-06-13
+published: 2006-06-21
+entry_into_force: 2006-07-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/13/2006009491/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 13 JUIN 2006. - Loi modifiant l'article 220 de la loi du 4 décembre 1990 relative aux opérations financières et aux marchés financiers et les articles 121, § 1er, 1°, et 122 de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+A l'article 220, alinéa 2, de la loi du 4 décembre 1990 relative aux opérations financières et aux marchés financiers, sont apportées les modifications suivantes :
+
+a) le 2°, remplacé par la loi du 3 mai 2003, est remplacé par la disposition suivante :
+
+" 2° le fait de procéder à des offres publiques d'acquisition au sens de la loi du 22 avril 2003 relative aux offres publiques de titres, ou à des offres publiques d'instruments de placement ou des admissions d'instruments de placement au sens de la loi du.... relative aux offres publiques d'instruments de placement et aux admissions d'instruments de placement à la négociation sur un marché réglementé, en méconnaissant les obligations imposées par les lois précitées ou les décisions prises par la Commission bancaire, financière et des assurances sur la base des lois précitées; ";
+
+b) au 3°, les mots " dont la diffusion des parts dans le public en Belgique est autorisée en vertu du livre III " sont remplacés par les mots " dont l'offre publique de titres en Belgique est autorisée en vertu de la Partie II de la loi du 20 juillet 2004 relative à certaines formes de gestion collective de portefeuilles d'investissement; ".
+
+## Art. 3
+
+L'article 121, § 1er, 1°, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, modifié par la loi du 3 mai 2003, est remplacé par la disposition suivante :
+
+" 1° contre toute décision susceptible de recours prise en application des dispositions de la loi du 22 avril 2003 relative aux offres publiques de titres ou de la loi du... relative aux offres publiques d'instruments de placement et aux admissions d'instruments de placement à la négociation sur un marché réglementé et de leurs arrêtés d'exécution; ".
+
+## Art. 4
+
+L'article 122, 20°, de la même loi, inséré par la loi du 15 décembre 2004, est renuméroté en article 122, 26°.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 13 juin 2006.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

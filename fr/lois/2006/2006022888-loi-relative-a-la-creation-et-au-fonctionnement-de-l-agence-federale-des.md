@@ -1,0 +1,1972 @@
+---
+title: "Loi relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé."
+identifier: "2006022888"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/20/2006022888/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2006-07-20
+published: 2006-09-08
+entry_into_force: 2006-09-08
+last_amended: 2026-06-04
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/20/2006022888/justel"
+department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
+justel_note: "Consultation des versions antérieures à partir du 08-09-2006 et mise à jour au 04-06-2026"
+retrieved: 2026-10-11
+---
+
+# 20 JUILLET 2006. - Loi relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Disposition générale - Définitions.
+
+##### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+##### Art. 2
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Sauf stipulation contraire, on entend pour l'application de la présente loi par :
+
+1° " ministre " : le ministre qui a la Santé publique dans ses attributions;
+
+2° " loi sur les médicaments " : la loi du 25 mars 1964 sur les médicaments;
+
+[<sup>5</sup> 2° /1 "médicament": un médicament à usage humain ou un médicament vétérinaire, en ce compris les médicaments homéopathiques et les médicaments à base de plantes;"
+
+"2° /2 "médicament à usage humain": un médicament tel que visé à l'article 1er, § 1er de la loi du 25 mars 1964 sur les médicaments à usage humain;
+
+2° /3 "médicament vétérinaire": un médicament tel que visé à l'article 4, 1), du Règlement (UE) 2019/6 du Parlement et du Conseil du 11 décembre 2018 relatif aux médicaments vétérinaires et abrogeant la directive 2001/82/CE;
+
+2° /4 "médicament homéopathique":
+
+\- un médicament homéopathique à usage humain tel que visé à l'article 1er, § 1er, 5), de la loi du 25 mars 1964 sur les médicaments à usage humain, ou
+
+\- un médicament vétérinaire homéopathique tel que visé à l'article 4, 10), du Règlement 2019/6 susmentionné;
+
+2° /5 "médicament à base de plantes": un médicament à usage humain tel que visé à l'article 1er, § 1er, 6), de la loi du 25 mars 1964 sur les médicaments à usage humain;]<sup>5</sup>
+
+3° [<sup>5</sup> "préparation magistrale":
+
+\- un médicament à usage humain préparé en pharmacie conformément à une prescription médicale destinée à un patient déterminé, ou
+
+\- un médicament vétérinaire préparé en pharmacie conformément à une ordonnance vétérinaire pour un animal déterminé ou un petit groupe d'animaux;]<sup>5</sup>
+
+[<sup>5</sup> 3° /1 "préparation officinale":
+
+\- un médicament à usage humain préparé en pharmacie selon les indications d'une pharmacopée ou du Formulaire Thérapeutique Magistral et destiné à être délivré directement aux patients approvisionnés par cette pharmacie, ou
+
+\- un médicament vétérinaire préparé en pharmacie conformément aux instructions d'une pharmacopée ou du Formulaire Thérapeutique Magistral et destiné à être délivré directement à l'utilisateur final;]<sup>5</sup>
+
+4°[<sup>3</sup> dispositifs médicaux et accessoires ":
+
+\- ceux visés à l'article 2, 1) et 2), du règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE,
+
+\- les produits n'ayant pas de destination médicale visés à l'annexe XVI du même règlement ;
+
+\- ceux visés à l'article 2, 2) et 4), du règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission]<sup>3</sup>;
+
+5° [<sup>1</sup> "matière première" : toute substance, simple ou composée, qui, sans être en soi un médicament [<sup>5</sup> ...]<sup>5</sup>, est acquise par un pharmacien d'officine en vue de la délivrer en l'état ou après division, ou de l'incorporer dans une préparation magistrale ou officinale;]<sup>1</sup>
+
+6° " sang " : le sang tel que défini à l'article 1er, de la loi du 5 juillet 1994 relative au sang et aux dérivés du sang d'origine humaine;
+
+7° (" matériel corporel humain " : le matériel corporel humain tel que visé dans la loi du ... relative à l'obtention et à l'utilisation de matériel corporel humain destiné à des applications médicales humaines ou à des fins de recherche scientifique;) &lt;L 2008-12-19/44, art. 40, 007; En vigueur : 01-12-2009 (voir AR 2009-09-28/06, art. 14)&gt;
+
+8° " produits de santé " : les produits visés sous 4°, 5°, 6° et 7°;
+
+9° [<sup>6</sup> "EMA": l'Agence européenne des médicaments ("European medicines agency"), instituée par le Règlement (CE) N° 726/2004 du Parlement européen et du Conseil du 31 mars 2004 établissant des procédures communautaires pour l'autorisation et la surveillance en ce qui concerne les médicaments à usage humain et à usage vétérinaire et instituant une Agence européenne des médicaments;]<sup>6</sup>
+
+[<sup>1</sup> 10° "le chiffre d'affaires" : le chiffre d'affaires réalisé sur le marché belge tel que fixé conformément aux dispositions fixées par et en vertu de l'article 92 du Code des sociétés mais limité à la livraison de biens que surveille l'AFMPS;
+
+11° "livraison" : le transfert du pouvoir de disposer d'un bien corporel comme un propriétaire, tel que visé à l'article 10, § 1er, du Code de la taxe sur la valeur ajoutée;
+
+12° "service" : une prestation de services telle que visée à l'article 18, § 1er, alinéas 1er et 2, 7°, du Code de la taxe sur la valeur ajoutée;
+
+13° "la personne soumise à déclaration" : la personne physique ou morale qui a été désignée par la présente loi, chargée de l'exécution des modalités de déclaration et du paiement;
+
+14° "le redevable" : le redevable de la redevance, de la contribution ou de la rétribution;
+
+15° "le compte d'exécution" : le compte d'exécution du budget de l'Agence tel que visé au titre II, chapitre III, de la loi du 22 mai 2003 portant organisation du budget et de la comptabilité de l'Etat fédéral;
+
+16° "médicament commercialisé" : un médicament qui est effectivement sur le marché tel que visé à l'article 6, § 1sexies, de la loi du 25 mars 1964 sur les médicaments;
+
+17° "coûts" : le montant de l'indemnité accordée aux inspecteurs pour la fonction exercée à l'étranger, destinée à compenser les frais de voyage et les charges exceptionnelles qu'ils supportent dans l'exercice de leur fonction;
+
+18° "chiffre d'affaires total" : le montant total de la base d'imposition de la livraison de biens et de prestation de services effectuées par le redevable et pour lesquels la TVA est devenue exigible pendant l'année précédant celle pour laquelle l'impôt est dû, tel que prévu conformément aux dispositions du Code de la taxe sur la valeur ajoutée;
+
+19° "détaillant" : toute personne physique ou morale qui fournit des dispositifs à des consommateurs, à savoir toute personne physique qui acquiert ou utilise des dispositifs exclusivement à des fins non professionnelles;
+
+20° "utilisateur final" : toute personne physique ou morale, autre qu'un distributeur, qui utilise un dispositif médical dans le cadre de ses activités professionnelles;]<sup>1</sup>
+
+[<sup>2</sup> 21° "PME": une petite ou moyenne entreprise telle que visée à l'article 2/1;
+
+22° "grande entreprise": toute personne physique ou morale à l'exception des PME;]<sup>2</sup>
+
+[<sup>4</sup> 23° "investigation clinique non commerciale": toute investigation clinique dont:
+
+a) [<sup>8</sup> le promoteur est soit une université ou une haute école, soit un hôpital visé à l'article 4 de la loi du 10 juillet 2008 relative aux hôpitaux et autres établissements de soins, soit un hôpital visé à l'article 7, 2°, g), 2° de l'arrêté royal du 25 avril 2002 portant fixation et règlement du budget des moyens financiers des hôpitaux, dans lesquels sont dispensés des services à la fois chirurgicaux et médicaux, exclusivement pour les enfants ou en rapport avec des tumeurs, soit le Fonds National de la Recherche Scientifique, soit le Fonds voor Wetenschappelijk Onderzoek ou un fonds de recherche dépendant de l'un ou l'autre de ces Fonds, soit un service d'un hôpital reconnu à cet effet selon les modalités fixées par le Roi si ce service est, dans son domaine d'activité, un centre d'expertise, soit une institution sans but lucratif dont l'objet social est principalement axé sur la recherche, soit l'équivalent de l'une de ces entités dans un autre Etat membre;]<sup>8</sup>
+
+b) le détenteur du brevet de la marque déposée d'un dispositif médical sur lequel porte l'investigation clinique n'est, ni directement, ni indirectement, le promoteur de l'investigation;
+
+c) le promoteur exerce les droits de propriété intellectuelle sur la conception de l'investigation clinique, sa réalisation et les données scientifiques qui en résultent;
+
+24° "investigation clinique commerciale": toute investigation clinique qui n'est pas une investigation non commerciale au sens du § 1er, 23°;]<sup>4</sup>
+
+[<sup>6</sup> 25° "étude des performances non commerciale": toute étude des performances dont:
+
+a) [<sup>8</sup> le promoteur est soit une université ou une haute école, soit un hôpital visé à l'article 4 de la loi du 10 juillet 2008 relative aux hôpitaux et autres établissements de soins, soit un hôpital visé à l'article 7, 2°, g), 2° de l'arrêté royal du 25 avril 2002 portant fixation et règlement du budget des moyens financiers des hôpitaux, dans lesquels sont dispensés des services à la fois chirurgicaux et médicaux, exclusivement pour les enfants ou en rapport avec des tumeurs, soit le Fonds National de la Recherche Scientifique, soit le Fonds voor Wetenschappelijk Onderzoek ou un fonds de recherche dépendant de l'un ou l'autre de ces Fonds, soit un service d'un hôpital reconnu à cet effet selon les modalités fixées par le Roi si ce service est, dans son domaine d'activité, un centre d'expertise, soit une institution sans but lucratif dont l'objet social est principalement axé sur la recherche, soit l'équivalent de l'une de ces entités dans un autre Etat membre;]<sup>8</sup>
+
+b) le détenteur du brevet de la marque déposée d'un dispositif médical de diagnostic in vitro sur lequel porte l' étude des performances n'est, ni directement ni indirectement, le promoteur de l'étude;
+
+c) le promoteur exerce les droits de propriété intellectuelle sur la conception de l'étude des performances, sa réalisation et les données scientifiques qui en résultent;
+
+26° "étude des performances commerciale": toute étude des performances qui n'est pas une étude non commerciale au sens du § 1er, 25°. ".
+
+27° "essai clinique non commercial": tout essai clinique dont:
+
+a) [<sup>8</sup> le promoteur est soit une université ou une haute école, soit un hôpital visé à l'article 4 de la loi du 10 juillet 2008 relative aux hôpitaux et autres établissements de soins, soit un hôpital visé à l'article 7, 2°, g), 2° de l'arrêté royal du 25 avril 2002 portant fixation et règlement du budget des moyens financiers des hôpitaux, dans lesquels sont dispensés des services à la fois chirurgicaux et médicaux, exclusivement pour les enfants ou en rapport avec des tumeurs, soit le Fonds National de la Recherche Scientifique, soit le Fonds voor Wetenschappelijk Onderzoek ou un fonds de recherche dépendant de l'un ou l'autre de ces Fonds, soit un service d'un hôpital reconnu à cet effet selon les modalités fixées par le Roi si ce service est, dans son domaine d'activité, un centre d'expertise, soit une institution sans but lucratif dont l'objet social est principalement axé sur la recherche, soit l'équivalent de l'une de ces entités dans un autre Etat membre;]<sup>8</sup>
+
+b) le détenteur du brevet d'un médicament sur lequel porte l'essai clinique clinique n'est, ni directement ni indirectement, le promoteur de l'essai clinique;
+
+c) le promoteur exerce les droits de propriété intellectuelle sur la conception de l'essai clinique, sa réalisation et les données scientifiques qui en résultent;
+
+28° "essai clinique commercial": tout essai clinique qui n'est pas un essai clinique non commercial au sens du paragraphe 1er, 27°;]<sup>6</sup>
+
+[<sup>7</sup> 29° "pharmacien": personne visée à l'article 6, § 1er, de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé;
+
+30° "produit": tout bien qui est réglementé par l'une des législations visées aux 2° /1 à 8;]<sup>7</sup>
+
+[<sup>9</sup> 31° "autorités judiciaires": les cours et tribunaux du droit commun, le ministère public ou les juges d'instruction;
+
+32° "Règlement 2016/679": le règlement (UE) 2016/679 du Parlement Européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE;
+
+33° "loi du 30 juillet 2018": la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel;
+
+34° "Délégué à la protection des données": le Délégué à la protection des données de l'AFMPS;
+
+35° "inspecteurs et contrôleurs": les inspecteurs et contrôleurs de l'AFMPS;
+
+36° "le numéro d'identification de Registre national": le numéro de Registre national visé à l'article 2, § 3, de la loi du 8 août 1983 organisant un registre national des personnes physiques;
+
+37° "fonctionnaire-juriste": fonctionnaire chargé de la direction du service juridique de l'AFMPS ou son remplaçant qu'il désigne."
+
+38° "signature": les signatures manuscrites et les signatures électroniques avancées au sens de l'article 3.11 du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE, ou les signatures électroniques qualifiées, au sens de l'article 3.12 du même règlement.]<sup>9</sup>
+
+[<sup>1</sup> § 2. Le Roi peut fixer les coûts tels que visés au paragraphe 1er, 17°. Si le Roi n'a pas fait usage de cette délégation, les coûts sont prévus conformément aux dispositions correspondantes applicables aux fonctionnaires dépendant du Service public fédéral Affaires étrangères, Commerce extérieur et Coopération au développement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-03-11/08, art. 2, 017; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2019-04-07/22, art. 5, 020; En vigueur : 30-05-2019&gt;
+
+(3)&lt;L 2020-12-22/40, art. 107, 022; En vigueur : 26-05-2021&gt;
+
+(4)&lt;L 2021-05-09/07, art. 5, 023; En vigueur : 26-05-2021&gt;
+
+(5)&lt;L 2022-02-08/02, art. 2,1°-2,4°, 025; En vigueur : 28-01-2022&gt;
+
+(6)&lt;L 2022-02-08/02, art. 2, 025; En vigueur : 18-02-2022&gt;
+
+(7)&lt;L 2023-07-11/12, art. 22, 030; En vigueur : 08-09-2023&gt;
+
+(8)&lt;L 2023-12-22/06, art. 132, 031; En vigueur : 01-01-2024&gt;
+
+(9)&lt;L 2024-04-09/29, art. 6, 032; En vigueur : 27-05-2024&gt;
+
+##### Art. 2/1
+
+[<sup>1</sup> Pour l'application de la présente loi, une entreprise est une PME si elle répond aux conditions de l'annexe VIII tel qu'attesté par un réviseur d'entreprise.
+
+L'attestation visée à l'alinéa 1er ne peut, au moment de la soumission de celle-ci, dater de plus d'1 an.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-07/22, art. 6, 020; En vigueur : 30-05-2019&gt;
+
+## CHAPITRE II. - Des compétences et des missions de l'Agence.
+
+##### Art. 3
+
+Il est créé sous la dénomination " Agence fédérale des médicaments et des produits de santé ", ci-après dénommée l' " Agence ", un organisme d'intérêt public doté de la personnalité juridique, classé dans la catégorie A visée dans la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public.
+
+##### Art. 4
+
+(§ 1er.) &lt;L 2008-12-22/32, art. 178, 1°, 006; En vigueur : 08-01-2009&gt; L'Agence a pour mission d'assurer, de leur conception jusqu'à leur utilisation, la qualité, la sécurité et l'efficacité des médicaments à usage humain, des [<sup>6</sup> médicaments vétérinaires]<sup>6</sup>, en ce compris les médicaments homéopathiques et à base de plantes, des dispositifs médicaux et accessoires, des préparations magistrales, des préparations officinales, des matières premières destinées à la préparation et à la production des médicaments.
+
+L'Agence a également pour mission d'assurer, de leur prélèvement jusqu'à leur utilisation, la qualité, la sécurité et l'efficacité de toutes les opérations effectuées avec le sang, (et le matériel corporel humain). &lt;L 2008-12-19/44, art. 41, 1°, 007; En vigueur : 01-12-2009 (voir AR 2009-09-28/06, art. 14)&gt;
+
+En particulier, elle est chargée de :
+
+1° en matière de recherche et développement : contrôler les risques auxquels le patient est soumis lors de la phase de développement d'un médicament ou d'un produit de santé :
+
+a. en évaluant les demandes d'autorisation pour la réalisation d'essais cliniques, y compris la coordination des inspections Bonnes Pratiques cliniques;
+
+b. (en traitant les demandes d'essais cliniques;) &lt;L 2008-12-22/32, art. 178, 2°, 006; En vigueur : 08-01-2009&gt;
+
+c. en assurant le suivi et le contrôle des essais cliniques;
+
+d. en formulant des avis scientifiques au demandeur;
+
+2° en matière de mise sur le marché :
+
+a. d'évaluer les nouvelles demandes d'[<sup>7</sup> autorisation]<sup>7</sup> de mise sur le marché;
+
+b. d'évaluer [<sup>7</sup> les demandes de modification ou de prolongation d'une autorisation de mise sur le marché]<sup>7</sup>;
+
+c. (en traitant les demandes [<sup>7</sup> d'autorisation]<sup>7</sup> de mise sur le marché;) &lt;L 2008-12-22/32, art. 178, 3°, 006; En vigueur : 08-01-2009&gt;
+
+3° en matière de vigilance : de collecter et d'évaluer toute l'information pertinente concernant les produits visés [<sup>9</sup> aux alinéas 1er et 2]<sup>9</sup>, dans le but de déceler, de réduire et d'éviter les effets indésirables pour l'utilisateur en :
+
+a. centralisant et en évaluant les notifications d'effets indésirables ou d'incidents effectuées par les professionnels des soins de santé et les patients ainsi que les rapports de vigilance;
+
+b. contrôlant les obligations de vigilance des titulaires d'[<sup>7</sup> une autorisation]<sup>7</sup> de mise sur le marché ou des fabricants;
+
+c. collaborant avec l'[<sup>7</sup> EMA]<sup>7</sup>, les instances compétentes des autres Etats membres de l'Union européenne et les titulaires d'[<sup>7</sup> une autorisation]<sup>7</sup> de mise sur le marché;
+
+d. mettant en place des interventions en cas de risques;
+
+e. traitant les " rapid alerts de vigilance ";
+
+4° en matière de production et de distribution : de contrôler la fabrication, la distribution et la délivrance des produits visés à l'alinéa 1er, en vue de l'octroi [<sup>7</sup> d'une autorisation, d'un agrément ou d'un certificat]<sup>7</sup> pour la fabrication, la distribution, le contrôle et la délivrance de ces produits, ainsi que de lutter contre la fraude en :
+
+a. inspectant les entreprises de fabrication des produits visés à l'alinéa 1er;
+
+b. inspectant les entreprises pharmaceutiques ou autres instances qui prélèvent, importent, exportent, entreposent et/ou distribuent des, produits visés à l'alinéa 1er;
+
+c. inspectant les entreprises dans le cadre du contrôle des matières premières pour les préparations magistrales;
+
+d. inspectant les officines pharmaceutiques ouvertes au public, les pharmacies hospitalières et les dépôts de produits visés à l'alinéa 1er;
+
+e. (en traitant les demandes d'[<sup>7</sup> autorisation]<sup>7</sup> [<sup>14</sup> d'implantation et d'exploitation pour les officines pharmaceutiques ouvertes au public]<sup>14</sup>;) &lt;L 2008-12-22/32, art. 178, 4°, 006; En vigueur : 08-01-2009&gt;
+
+f. surveillant le commerce des produits spécialement réglementés;
+
+g. luttant contre la fraude en matière de fabrication, de distribution, de délivrance et d'usage des produits visés à l'alinéa 1er;
+
+h. (en traitant les demandes [<sup>7</sup> d'autorisation, d'agrément ou de certificat]<sup>7</sup> pour le prélèvement, la conservation, la fabrication, la distribution, le contrôle et la délivrance des produits visés à l'alinéa 1er;) &lt;L 2008-12-22/32, art. 178, 5°, 006; En vigueur : 08-01-2009&gt;
+
+i. contrôlant les instances accréditées pour accorder le marquage CE aux dispositifs médicaux et accessoires;
+
+j. traitant les " rapid alerts de qualité ";
+
+[<sup>2</sup> k. contrôlant la qualité des soins pharmaceutiques dans les officines pharmaceutiques ouvertes au public;
+
+l. inspectant le comportement de prescription des vétérinaires et la fourniture des médicaments aux responsables des animaux;]<sup>2</sup>
+
+5° en matière d'information et de communication sur la santé et en matière de publicité et de marketing et ce, en vue d'un usage rationnel et sûr des produits visés à l'alinéa 1er :
+
+a. d'assurer la diffusion de l'information sur le bon usage des produits visés à l'alinéa 1er;
+
+b. de diffuser les alertes en matière de pharmacovigilance, de matériovigilance, d'hémovigilance [<sup>10</sup> , de biovigilance]<sup>10</sup> ou autres cas de vigilance concernant les produits visés [<sup>11</sup> aux alinéas 1er et 2]<sup>11</sup> ;
+
+c. d'assurer la surveillance et le contrôle de la publicité et des informations sur les produits visés à l'alinéa 1er;
+
+6° [<sup>3</sup> en matière de législation :
+
+a. de proposer au ministre les réglementations pour les matières relevant des compétences de l'Agence et d'assurer le suivi, l'application, le contrôle des réglementations suivantes liées à ses missions ainsi que de leurs arrêtés d'exécution :
+
+\- la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes;
+
+\- la loi du 25 mars 1964 sur les médicaments [<sup>6</sup> à usage humain]<sup>6</sup>;
+
+\- la loi du 15 juillet 1985 relative à l'utilisation de substances à effet hormonal, à effet antihormonal, à effet bêta-adrénergique ou à effet stimulateur de production chez les animaux;
+
+\- la loi du 19 décembre 2008 relative à l'obtention et à l'utilisation de matériel corporel humain destiné à des applications médicales humaines ou à des fins de recherche scientifique;
+
+\- la loi du 28 août 1991 sur l'exercice de la médecine vétérinaire en ce qui concerne la fourniture et la prescription des médicaments aux responsables des animaux;
+
+\- la loi relative à l'exercice des professions des soins de santé, coordonnée le 10 mai 2015 en ce qui concerne la délivrance des médicaments;
+
+\- la loi du 5 juillet 1994 relative au sang et aux dérivés du sang;
+
+\- la loi du 7 mai 2004 relative aux expérimentations sur la personne humaine;
+
+\- la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits;
+
+\- la loi du 6 juillet 2007 relative à la procréation médicalement assistée et à la destination des embryons surnuméraires et des gamètes, à l'exception des articles 4, alinéa 3, 5, 6, 31, 32, 33, alinéa 2, 66, 67, 68, 71 et 72;
+
+\- [<sup>4</sup> ...]<sup>4</sup>
+
+\- la loi du 15 décembre 2013 en matière de dispositifs médicaux;
+
+[<sup>12</sup> - la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé, en ce qui concerne l'art pharmaceutique, les soins pharmaceutiques [<sup>14</sup> , la prescription et la délivrance des médicaments]<sup>14</sup> et la participation à la Commission fédérale de contrôle de la pratique des soins de santé;]<sup>12</sup>
+
+[<sup>4</sup> - Le Règlement (UE) 2017/745 du Parlement Européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la Directive 2001/83/CE, le règlement (CE) no 178/2002 et le règlement (CE) no 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE;
+
+\- Le Règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission.]<sup>4</sup>
+
+[<sup>13</sup> - la loi du 22 décembre 2020 relative aux dispositifs médicaux ;]<sup>13</sup>
+
+[<sup>13</sup> - la loi du xxx relative aux dispositifs médicaux de diagnostic in vitro;]<sup>13</sup>
+
+[<sup>6</sup> - le Règlement (UE) 2019/6 du Parlement et du Conseil du 11 décembre 2018 relatif aux médicaments vétérinaires et abrogeant la directive 2001/82/CE;]<sup>6</sup>
+
+[<sup>8</sup> - la loi du 5 mai 2022 sur les médicaments vétérinaires;]<sup>8</sup>
+
+[<sup>14</sup> - le règlement (CE) n° 273/2004 du Parlement européen et du Conseil du 11 février 2004 relatif aux précurseurs de drogues;
+
+\- le règlement (CE) n° 111/2005 du Conseil du 22 décembre 2004 fixant des règles pour la surveillance du commerce des précurseurs des drogues entre la Communauté et les pays tiers;
+
+\- le règlement (UE) n° 536/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif aux essais cliniques de médicaments à usage humain et abrogeant la directive 2001/20/CE;
+
+\- la loi du 18 décembre 2016 portant des dispositions diverses en matière de santé, les articles 41 jusqu'au 48;
+
+\- la loi du 7 mai 2017 relative aux essais cliniques de médicaments à usage humain;
+
+\- la loi du 7 avril 2019 portant des dispositions diverses en matière de spécialités pharmaceutiques, garde des pharmaciens et des mesures prophylactiques en matière de poliomyélite;]<sup>14</sup>
+
+[<sup>15</sup> - le règlement (UE) n° 536/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif aux essais cliniques de médicaments à usage humain et abrogeant la directive 2001/20/CE;
+
+\- la loi du 7 mai 2017 relative aux essais cliniques de médicaments à usage humain.]<sup>15</sup>
+
+b. de proposer au ministre les réglementations en vue de l'instauration d'un système d'autocontrôle au sein des secteurs relevant de sa compétence en vertu de la présente loi.]<sup>3</sup>
+
+7° en matière de vigilance sanitaire : de collaborer et de participer aux travaux de la cellule de vigilance sanitaire visée à l'article 37bis, de l'arrêté royal n° 78 du 10 novembre 1967 sur l'exercice des professions de soins de santé.
+
+[<sup>14</sup> 8° en matière d'assurance de la qualité:
+
+a. représenter l'Etat belge, en tant qu'Autorité nationale de Pharmacopée, auprès de la Commission européenne de la Pharmacopée telle qu'instituée par la Convention relative à l'élaboration d'une pharmacopée européenne, faite à Strasbourg le 22 juillet 1964; à cette fin, l'administrateur général peut désigner des membres du personnel statutaire ou contractuel de l'AFMPS ou de Sciensano;
+
+b. rédiger et publier la Pharmacopée belge;
+
+c. rédiger et publier le Formulaire Thérapeutique Magistral.]<sup>14</sup>
+
+(§ 2. Les compétences visées au paragraphe 1, sont exercées exclusivement au nom et pour le compte de l'Etat.)
+
+[<sup>14</sup> Le Roi peut préciser les conditions et modalités relatives aux compétences visées au paragraphe 1er, alinéa 3, 8°.]<sup>14</sup> &lt;L 2008-12-22/32, art. 178, 6°, 006; En vigueur : 08-01-2009&gt;
+
+----------
+
+(1)&lt;L 2013-03-19/03, art. 103, 009; En vigueur : 08-04-2013&gt;
+
+(2)&lt;L 2014-04-10/23, art. 126, 011; En vigueur : 10-05-2014&gt;
+
+(3)&lt;L 2016-06-22/03, art. 34, 014; En vigueur : 11-07-2016&gt;
+
+(4)&lt;L 2018-10-30/06, art. 74, 018; En vigueur : 26-11-2018&gt;
+
+(5)&lt;L 2020-12-22/40, art. 108, 022; En vigueur : 26-05-2021&gt;
+
+(6)&lt;L 2022-02-08/02, art. 3, 025; En vigueur : 28-01-2022&gt;
+
+(7)&lt;L 2022-02-08/02, art. 3,§2-3,§4, 025; En vigueur : 18-02-2022&gt;
+
+(8)&lt;L 2022-05-05/13, art. 106, 026; En vigueur : 21-05-2022&gt;
+
+(9)&lt;L 2022-05-18/08, art. 13, 027; En vigueur : 09-06-2022&gt;
+
+(10)&lt;L 2022-05-18/08, art. 14, 027; En vigueur : 09-06-2022&gt;
+
+(11)&lt;L 2022-05-18/08, art. 15, 027; En vigueur : 09-06-2022&gt;
+
+(12)&lt;L 2022-05-18/08, art. 16, 027; En vigueur : 09-06-2022&gt;
+
+(13)&lt;L 2022-06-15/03, art. 105, 028; En vigueur : 01-07-2022&gt;
+
+(14)&lt;L 2023-07-11/12, art. 23, 030; En vigueur : 08-09-2023&gt;
+
+(15)&lt;L 2017-05-07/04, art. 59, 033; En vigueur : 31-01-2022&gt;
+
+##### Art. 4/1
+
+[<sup>1</sup> § 1er. Si la culture du pavot, de plants de coca ou de plants de cannabis est autorisée, l'Agence a la mission d'effectuer les activités requises qui découlent de la Convention unique du 30 mars 1961 sur les stupéfiants.
+
+§ 2. Si les activités visées au paragraphe 1er soumises à la surveillance sont fixées par ou conformément à la législation reprise sous forme de liste à l'article 4, § 1er, alinéa 3, 6°, l'Agence est exemptée de plein droit.
+
+§ 3. Le Roi détermine les modalités pour l'exécution du présent article. Il fixe en particulier les mesures organisationnelles afin de garantir l'indépendance des inspecteurs de l'Agence en ce qui concerne les activités visées au paragraphe 2 ainsi que la manière dont la surveillance est exercée sur ces activités.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-07/22, art. 24, 020; En vigueur : 30-05-2019&gt;
+
+##### Art. 4/2
+
+[<sup>1</sup> § 1er. Le Roi fixe les conditions et les modalités selon lesquelles l'Agence remet des avis scientifiques et techniques relatifs à la recherche et au développement, au statut ou à la classification d'un produit visé à l'article 2, § 1er, [<sup>2</sup> 2° /2, 2° /3]<sup>2</sup> ou 8° en vue de son éventuelle mise sur le marché ou de son éventuelle modification après mise sur le marché.
+
+§ 2. Le Roi détermine également les délais et la procédure de traitement des demandes d'avis ainsi que les conditions pour l'obtention de ces avis.]<sup>1</sup>
+
+[<sup>2</sup> § 3. Par dérogation au paragraphe 2, l'AFMPS traite les demandes relatives aux avis scientifiques et techniques tels que visés au paragraphe 1er, dans les délais prévus au paragraphe 4, si le demandeur le demande et pour autant que les demandes concernent principalement la prévention ou le traitement de la maladie COVID-19.
+
+Le demandeur joint à sa demande une justification suffisante de l'urgence. A défaut d'une justification suffisante, la demande est traitée dans les délais généraux fixés dans l'arrêté royal pris en exécution du paragraphe 2.
+
+§ 4. L'AFMPS traite les demandes visées au paragraphe 3 dans un délai de:
+
+1° avis technico-réglementaire: 15 jours calendaires;
+
+2° avis scientifique ou mixte: 20 jours calendaires.
+
+Les délais visés à l'alinéa 1er prennent cours à la date à laquelle l'AFMPS déclare la demande recevable ou la valide, conformément au paragraphe 2.
+
+L'avis visé à l'alinéa 1er, 1°, est donné par écrit.
+
+L'avis visé à l'alinéa 1er, 2°, est donné oralement, lors d'une assemblée au siège de l'AFMPS en présence des experts compétents désignés par l'AFMPS, le demandeur et/ou une ou plusieurs personne(s) désignée(s) par le demandeur. Cette assemblée peut être remplacée par une téléconférence.
+
+Dans un délai de 7 jours calendaires après l'assemblée ou la téléconférence visée à l'alinéa 4, le demandeur transmet un rapport écrit pour approbation à l'AFMPS.Dans un délai de 14 jours calendaires après la réception du rapport visé à l'alinéa 5, l'AFMPS transmet le rapport approuvé au demandeur. Ce rapport contient un compte rendu écrit de l'avis visé à l'alinéa 1er, 2°.
+
+Par dérogation aux alinéas 4, 5 et 6, le demandeur peut demander le traitement écrit de la demande d'avis visé à l'alinéa 1er, 2°. Dans ce cas, le demandeur justifie l'urgence. Si l'AFMPS estime que l'urgence est prouvée et fondée, l'avis visé à l'alinéa 1er, 2°, est rendu par écrit.
+
+§ 5. Pour autant que le demandeur ait demandé l'application des délais réduits sur base des paragraphes 3 et 4 et que l'AFMPS ait rendu son avis dans les délais prévus au paragraphe 4, les délais de deux ans prévus à l'annexe V.3.1. jusqu'à V.3.3 incluse et à l'annexe VII.1.11.1.7 de la présente loi, sont réduits à des délais de 12 mois après la fourniture de l'avis scientifique et technique.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-07/22, art. 3, 020; En vigueur : 30-05-2019&gt;
+
+(2)&lt;L 2022-02-08/02, art. 4, 025; En vigueur : 28-01-2022&gt;
+
+##### Art. 4/3
+
+[<sup>1</sup> Le Roi peut fixer les conditions et les règles dans le cadre desquelles l'Agence donne une interprétation de la législation, pour laquelle [<sup>2</sup> elle est compétente]<sup>2</sup> en vertu de la présente loi, en réponse à des questions concrètes et individuelles.
+
+Par "interprétation", on entend l'acte juridique dans lequel l'Agence fixe, conformément aux dispositions en vigueur, la manière dont la loi est appliquée à une situation ou opération particulière.
+
+Une interprétation ne peut être donnée quand:
+
+1° la question concerne des situations ou des opérations qui sont identiques à celles faisant déjà l'objet d'un recours administratif ou d'un acte judiciaire entre l'Agence ou l'Etat belge et le demandeur;
+
+2° une interprétation n'est pas indiquée ou est sans effet en vertu des dispositions légales ou réglementaires invoquées dans la demande;
+
+3° la question concerne l'application d'une mesure imposée par ou en vertu de la présente loi ou l'exercice de l'action publique.
+
+L'Agence fournit, en tant qu'autorité administrative, l'interprétation. Celle-ci engage l'Agence pour l'avenir, sauf:
+
+1° si les conditions auxquelles l'interprétation est soumise ne sont pas remplies;
+
+2° s'il s'avère que la situation ou les opérations sont décrites par le demandeur de manière incomplète ou incorrecte, ou si des éléments essentiels des opérations n'ont pas été réalisés de la manière décrite par le demandeur;
+
+3° en cas de modification des dispositions des traités, du droit de l'Union européenne ou du droit interne qui s'appliquent à la situation ou opération visée par l'interprétation;
+
+4° s'il s'avère que l'interprétation n'est pas conforme aux dispositions des traités, du droit de l'Union européenne ou du droit interne.
+
+En outre, l'interprétation ne lie plus l'Agence quand les conséquences principales de la situation ou des opérations ont été modifiées par un ou plusieurs éléments connexes ou subséquents qui sont directement ou indirectement imputables au demandeur. Dans ce cas, le retrait de l'interprétation produit un effet à partir du jour des faits imputés au demandeur.
+
+Les interprétations sont publiées sur le site web de l'Agence après suppression des informations commerciales confidentielles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-07/22, art. 3, 020; En vigueur : 30-05-2019&gt;
+
+(2)&lt;L 2022-02-08/02, art. 5, 025; En vigueur : 18-02-2022&gt;
+
+##### Art. 5
+
+Par arrêté délibéré en Conseil des ministres, le Roi détermine dans le cadre des compétences de l'Agence les tâches pour lesquelles l'Agence peut se faire assister par des tiers ou que l'Agence peut faire exécuter par des tiers et détermine les conditions y [<sup>1</sup> afférentes]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2022-02-08/02, art. 6, 025; En vigueur : 18-02-2022&gt;
+
+##### Art. 6
+
+Le Roi détermine les conditions dans lesquelles chacun des fonctionnaires dirigeants de l'Agence, du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement [<sup>1</sup> et [<sup>2</sup> ...]<sup>2</sup> de Sciensano]<sup>1</sup> siège dans chacun des autres Comités de direction et/ou Conseils stratégiques dont il ne fait pas partie.
+
+----------
+
+(1)&lt;L 2018-02-25/02, art. 75, 019; En vigueur : 01-04-2018&gt;
+
+(2)&lt;L 2022-02-08/02, art. 7, 025; En vigueur : 18-02-2022&gt;
+
+##### Art. 7
+
+[<sup>1</sup> §1.]<sup>1</sup> Sans préjudice des autres compétences qui sont accordées en vertu de la présente loi, le Roi peut fixer les conditions selon lesquelles l'Agence peut collaborer au soutien des missions [<sup>1</sup> de l'Institut national d'assurance maladie-invalidité]<sup>1</sup> du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement, y compris de ses organes de consultation, de concertation et d'orientation. [<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>1</sup> Le Roi peut déterminer les conditions selon lesquelles l'Agence peut collaborer avec les autres organismes de l'Etat, en particulier l'Agence fédérale pour la sécurité de la chaîne alimentaire et l'INAMI, et solliciter des avis d'instances tierces.]<sup>1</sup>
+
+[<sup>3</sup> Dans le cadre des missions visées à l'alinéa 1er ou 2, et pour autant que la sous-traitance concerne l'exercice de compétences de surveillance et de contrôle, l'AFMPS peut exercer les compétences de l'organisme de l'Etat sous-traitant. Les dispositions de l'article 14/21 sont, dans ce cas, d'application.]<sup>3</sup>
+
+[<sup>1</sup> §2. [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-08-11/05, art. 46, 016; En vigueur : 07-09-2017&gt;
+
+(2)&lt;L 2018-03-11/08, art. 66, 017; En vigueur : 05-04-2018&gt;
+
+(3)&lt;L 2026-05-30/03, art. 20, 037; En vigueur : 14-06-2026&gt;
+
+##### Art. 7bis
+
+&lt;Inséré par L 2008-12-19/51, art. 85; En vigueur : 10-01-2009&gt; L'Agence peut se faire assister par des tiers, personnes morales sans but lucratif, pour l'exécution de ses missions. L'agence couvrira les frais encourus par ces personnes morales dans le cadre de cette assistance par le biais de subsides.
+
+Les modalités d'attribution des subsides visés à l'alinéa précédant ainsi que leur montant seront déterminées par le Roi. Le montant ne pourra être supérieur aux frais réellement encourus par la personne morale sans but lucratif dans le cadre de l'assistance apportée. Ces frais encourus sont les frais de personnel et de fonctionnement en ce y compris les frais d'investissement informatique. La liquidation du subside se fera par le biais d'avances et d'un solde. Le solde ne peut être libéré qu'après présentation des pièces comptables justificatives des frais encourus. Les sommes des avances ne pourra dépasser 80 pourcent du subside. La périodicité de paiement desdites avances ne pourra être inferieure à un mois.
+
+[<sup>1</sup> Dans le cadre des missions visées à l'alinéa 1er, l'AFMPS peut sous-traiter la surveillance et le contrôle visés à l'article 4, § 1er, troisième alinéa, 6° a) à l'AFSCA ou à un autre organisme de l'Etat, les fonctionnaires ou membres du personnel contractuels désignés par le Roi de cette autorité peuvent faire usage des compétences attribuées par la loi aux inspecteurs et contrôleurs de l'AFMPS. La sous-traitance visée au présent alinéa est réalisée au moyen d'un accord de coopération visé à l'article 7, § 1er, alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-30/03, art. 21, 037; En vigueur : 14-06-2026&gt;
+
+##### Art. 7ter
+
+[<sup>1</sup> Sans préjudice de dispositions contraires portant attribution d'une compétence, le ministre peut habiliter des fonctionnaires de l'Agence à signer des actes administratifs individuels pris par lui en vertu de la législation visée à l'article 4, § 1er, [<sup>2</sup> alinéa 3, 6°]<sup>2</sup> selon les conditions qu'il détermine.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-07-17/38, art. 74, 012; En vigueur : 27-08-2015&gt;
+
+(2)&lt;L 2022-02-08/02, art. 8, 025; En vigueur : 18-02-2022&gt;
+
+## CHAPITRE III. - De l'administrateur général et des membres du personnel.
+
+##### Art. 8
+
+§ 1er. L'Agence est dirigée par un administrateur général, désigné par voie de mandat, pour une durée de six ans renouvelable, selon les modalités fixées par arrêté royal délibéré en Conseil des ministres, après accord du ministre de la Fonction publique.
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, après accord des ministres du Budget et de la Fonction publique, fixer d'autres fonctions de management.
+
+§ 2. La gestion journalière est confiée à l'administrateur général. Elle comprend notamment les compétences hiérarchiques concernant les membres du personnel de l'Agence. Le Roi peut en outre attribuer des compétences spécifiques à l'administrateur général. [<sup>2</sup> L'administrateur général peut, en cas d'empêchement ou d'absence se faire remplacer par le titulaire d'une autre fonction de direction visée à l'article 8, paragraphe 1, alinéa 2, afin d'exercer les pouvoirs visés au présent article ou en vertu de celui-ci. Si l'administrateur général n'est pas en mesure de désigner un remplaçant, le comité de direction visé à l'alinéa 2 désigne un remplaçant. ]<sup>2</sup>
+
+[<sup>1</sup> L'administrateur général se fait assister par un comité de direction présidé par lui. Ce comité de direction exécute également les compétences du conseil de direction décrites à l'article 16, § 2, de l'arrêté royal du 8 janvier 1973 fixant le statut du personnel de certains organismes d'intérêt public. Le comité de direction comprend l'administrateur général et les autres fonctions de management. Le ministre peut désigner au maximum six autres membres du personnel comme membres du comité de direction, sur la proposition du comité de direction, ceci afin de garantir le caractère pluridisciplinaire parmi les membres du comité de direction. [<sup>2</sup> Le ministre détermine ainsi si les membres ainsi désignés siègent également en tant que membres du conseil de direction visé à l'article 16, § 2, de l'arrêté royal du 8 janvier 1973 fixant le statut du personnel de certains organismes d'intérêt public, ou si leur désignation est limitée aux membres du Comité de direction, tel que visé au présent paragraphe. ]<sup>2</sup> Le comité de direction rédige un règlement d'ordre intérieur, lequel sera soumis pour approbation au ministre.]<sup>1</sup> [<sup>2</sup> Les membres du comité de direction peuvent se faire remplacer, en cas d'absence ou d'empêchement, par un fonctionnaire AFMPS de la classe A4 ou d'une classe supérieure. ]<sup>2</sup>
+
+§ 3. Avant son entrée en fonction, tout membre du personnel statutaire ou contractuel de l'Agence déclare les intérêts qu'il a dans un établissement ou une entreprise quelconque relevant de la compétence de l'Agence et s'engage à informer celle-ci de toute modification relative aux intérêts déclarés.
+
+Le Roi détermine, par arrêté royal délibéré en Conseil des ministres, les conditions dans lesquelles l'Agence organise le service en vue de prévenir tout conflit d'intérêts.
+
+----------
+
+(1)&lt;L 2009-12-10/35, art. 19, 008; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2026-05-30/03, art. 22, 037; En vigueur : 14-06-2026&gt;
+
+##### Art. 9
+
+L'Agence est soumise à l'autorité hiérarchique du ministre.
+
+L'Agence transmet au ministre et au Parlement un rapport annuel sur ses activités, comprenant le bilan des résultats atteints au regard de ses missions.
+
+Elle dresse pour le 30 avril au plus tard, le compte annuel d'exécution de son budget, ainsi qu'une situation active et passive au 31 décembre de l'année considérée.
+
+## CHAPITRE IV. - Du Comité consultatif, du Comité scientifique et du Comité de transparence.
+
+##### Art. 10
+
+Il est institué auprès de l'Agence un Comité consultatif, chargé de la conseiller, autant à l'initiative du Comité qu'à la demande du ministre ou de l'administrateur général, à propos de toutes les matières relatives à la politique suivie et à suivre par l'Agence.
+
+Ce Comité comprend en tout cas des représentants de l'autorité fédérale, des secteurs concernés par les matières relevant de la compétence de l'Agence, des organismes assureurs ainsi que des présidents des Commissions créées en application des réglementations visées à l'article 4, alinéa 2, 6°.
+
+Le Roi détermine par arrêté délibéré en Conseil des ministres la composition, les règles relatives à l'exécution des missions du Comité, les modalités de désignation des membres, son fonctionnement ainsi que la date de son installation.
+
+##### Art. 11
+
+Il est institué, auprès de l'Agence, un Comité scientifique [<sup>1</sup> ...]<sup>1</sup>.
+
+Ce Comité constitue l'organe d'expertise scientifique [<sup>1</sup> ...]<sup>1</sup>. A ce titre, il remet des avis, tant de sa propre initiative qu'à la demande du ministre ou de l'administrateur général, sur les matières relevant de la compétence de l'Agence.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Le Roi détermine [<sup>2</sup> ...]<sup>2</sup> les règles relatives à l'exécution des missions du Comité, [<sup>1</sup> sa composition,]<sup>1</sup> son fonctionnement ainsi que la date de son installation.
+
+----------
+
+(1)&lt;L 2018-10-30/06, art. 75, 018; En vigueur : 26-11-2018&gt;
+
+(2)&lt;L 2026-05-30/03, art. 23, 037; En vigueur : 14-06-2026&gt;
+
+##### Art. 12
+
+Il est institué auprès de l'Agence un Comité de transparence, composé d'un représentant du ministre, de l'administrateur général, de représentants des secteurs contribuant aux recettes visées à l'article 13, § 1er, 2°, et d'un Inspecteur des Finances désigné par le ministre qui a le Budget dans ses attributions.
+
+Le Comité de transparence reçoit toutes les informations sur la manière dont les recettes susvisées sont utilisées. Les représentants des secteurs susvisés peuvent y demander tout renseignement qu'ils jugent utile en lien avec la gestion de ces recettes. Le Comité est également compétent pour remettre des avis et des suggestions sur le plan de management.
+
+Les rapports des réunions du Comité de transparence sont transmis au Comité consultatif.
+
+Le Roi détermine par arrêté délibéré en Conseil des ministres la composition, les règles relatives à l'exécution des missions du Comité, les modalités de désignation des membres, son fonctionnement ainsi que la date de son installation.
+
+(Le représentant du ministre et l'Inspecteur des Finances visés à l'alinéa 1er siègent au Comité de transparence avec voix consultative.) &lt;L 2008-12-22/32, art. 179, 006; En vigueur : 08-01-2009&gt;
+
+## CHAPITRE IV/1. [<sup>1</sup> - Produits borderline à usage humain et produits borderline à usage vétérinaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-11/12, art. 24, 030; En vigueur : 08-09-2023&gt;
+
+### Section 1re. [<sup>1</sup> - Produits borderline à usage humain.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-11/12, art. 25, 030; En vigueur : 08-09-2023&gt;
+
+##### Art. 12/1
+
+[<sup>1</sup> § 1. Sans préjudice des actes d'exécution de la Commission européenne adoptés conformément à l'article 4, paragraphes 1er et 2, du règlement (UE) 2017/745 et de l'article 3, paragraphes 1er et 2, du règlement (UE) 2017/746, et de l'article 2, § 2, alinéa 1er, de la loi du 25 mars 1964 sur les médicaments à usage humain, le ministre ou son délégué peut prendre, d'initiative ou sur demande, une décision relative au statut d'un produit ou d'un groupe de produits à usage humain, sur avis de la Commission visée au paragraphe 3.
+
+Le ministre ou son délégué, dans la décision visée à l'alinéa 1er, attribue un des statuts suivants aux produits borderline à usage humain:
+
+1° un médicament à usage humain, relevant du champ d'application de la loi sur les médicaments;
+
+2° une matière première, au sens de l'article 2, § 1er, 5° ;
+
+3° un dispositif médical ou accessoire, au sens de l'article 2, § 1er, 4° ;
+
+4° du matériel corporel humain relevant du champ d'application de la loi du 19 décembre 2008 relative à l'obtention et à l'utilisation de matériel corporel humain destiné à des applications médicales humaines ou à des fins de recherche scientifique, y compris le matériel corporel humain relevant du champ d'application de la loi du 6 juillet 2007 relative à la procréation médicalement assistée et à la destination des embryons surnuméraires et des gamètes;
+
+5° du sang ou un dérivé de sang relevant du champ d'application de la loi du 5 juillet 1994 relative au sang et aux dérivés du sang d'origine humaine;
+
+6° un produit autre que ceux visés aux 1° à 5°.
+
+Sans préjudice de la législation applicable, lorsque le ministre ou son délégué décide qu'un produit à usage humain relève d'une des catégories reprises à l'alinéa 3, 1° à 5° et que ce statut n'est pas celui sur base duquel il est mis sur le marché, il enjoint au responsable de sa mise sur le marché de prendre les mesures correctrices nécessaires, y compris un éventuel retrait du marché, dans les délais qu'il détermine.
+
+Le Roi peut déterminer la procédure relative à la prise de décision visée à l'alinéa 1er.
+
+§ 2. L'Agence peut, sur avis de la Commission visée au paragraphe 3, établir des lignes directrices non contraignantes concernant le statut de produits à usage humain spécifiques ou de groupes de produits à usage humain.
+
+§ 3. Le Roi établit une Commission pour les produits borderline à usage humain au sein de l'Agence. Il détermine la composition de cette Commission et précise ses missions. Il détermine le fonctionnement de cette Commission.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-11/12, art. 26, 030; En vigueur : 08-09-2023&gt;
+
+### Section 2. [<sup>1</sup> - Produits borderline à usage vétérinaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-11/12, art. 27, 030; En vigueur : 08-09-2023&gt;
+
+##### Art. 12/2
+
+[<sup>1</sup> § 1. Sans préjudice des actes d'exécution de la Commission européenne adoptés conformément à l'article 3, paragraphe 2, du règlement 2019/6, le ministre ou son délégué peut prendre, d'initiative ou sur demande, une décision relative au statut d'un produit ou d'un groupe de produits à usage vétérinaire, sur avis de la Commission visée au paragraphe 3.
+
+Le ministre ou son délégué, dans la décision visée à l'alinéa 1er, attribue un des statuts suivants aux produits borderline à usage vétérinaire:
+
+1° un médicament vétérinaire relevant du champ d'application du règlement (UE) 2019/6 du Parlement et du Conseil du 11 décembre 2018 relatif aux médicaments vétérinaires et abrogeant la directive 2001/82/CE;
+
+2° une matière première, au sens de l'article 2, § 1er, 5° ;
+
+3\. un produit autre que ceux visés aux 1° et 2°.
+
+Sans préjudice de la législation applicable, lorsque le ministre ou son délégué décide qu'un produit à usage vétérinaire relève d'une des catégories reprises à l'alinéa 3, 1° et 2° et que ce statut n'est pas celui sur base duquel il est mis sur le marché, il enjoint au responsable de sa mise sur le marché de prendre les mesures correctrices nécessaires, y compris un éventuel retrait du marché, dans les délais qu'il détermine.
+
+La décision du ministre ou de son délégué visée à l'alinéa 1er concernant un médicament vétérinaire ou un groupe de médicaments vétérinaires devient caduque dès que la Commission européenne adopte un acte d'exécution relatif au même médicament vétérinaire ou même groupe de médicaments vétérinaires conformément à l'article 3, paragraphe 2, du règlement 2019/6.
+
+Le Roi peut déterminer la procédure relative à la prise de décision visée à l'alinéa 1er.
+
+§ 2. L'Agence peut, sur avis de la Commission visée au paragraphe 3, établir des lignes directrices non contraignantes concernant le statut de produits à usage vétérinaire spécifiques ou de groupes de produits à usage vétérinaire.
+
+§ 3. Le Roi établit une Commission pour les produits borderline à usage vétérinaire au sein de l'Agence. Il détermine la composition de cette Commission et précise ses missions. Il détermine le fonctionnement de cette Commission.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-11/12, art. 28, 030; En vigueur : 08-09-2023&gt;
+
+## Chapitre IV/2. [<sup>1</sup> - De la Commission de Pharmacopée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-11/12, art. 29, 030; En vigueur : 01-01-2024&gt;
+
+##### Art. 12/3
+
+[<sup>1</sup> Il est institué auprès de l'Agence une Commission de Pharmacopée, chargée de:
+
+1° soutenir l'Agence dans sa mission d'Autorité nationale de Pharmacopée, visée à l'article 4, § 1er, alinéa 3, 8°, a., en remplissant les missions suivantes:
+
+a) l'élaboration des monographies par la participation de certains de ses membres aux Groupes d'Experts et Groupes de Travail de la Commission européenne de Pharmacopée;
+
+b) l'évaluation des projets de monographies de la Pharmacopée européenne, ainsi que les propositions de rédaction, de révision ou de suppression de monographies de la Pharmacopée européenne;
+
+c) la collaboration à toute autre activité relative à la Pharmacopée européenne à la demande de l'Agence;
+
+2° remettre des avis sur la Pharmacopée belge rédigée par l'Agence, conformément à l'article 4, § 1er, alinéa 3, 8°, b.;
+
+3° remettre des avis conformément à la législation en vigueur relative au contrôle et à l'analyse des matières premières utilisées par les pharmaciens d'officine.
+
+Le Roi peut préciser les missions de la Commission de Pharmacopée. Il détermine le fonctionnement et la composition de cette Commission. Il peut accorder une rémunération et/ou un dédommagement aux membres de cette Commission et en fixer le montant. Pour la coordination de ses tâches, la Commission peut prévoir la création d'un Bureau, dont le Roi fixe les tâches, le fonctionnement et la composition.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-11/12, art. 30, 030; En vigueur : 01-01-2024&gt;
+
+## Chapitre IV/3. [<sup>1</sup> Traitement de Données]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 7, 032; En vigueur : 27-05-2024&gt;
+
+### Section 1. [<sup>1</sup> Traitement de Données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 8, 032; En vigueur : 27-05-2024&gt;
+
+##### Art. 12/4
+
+[<sup>1</sup> Les dispositions du présent chapitre ne s'appliquent que dans la mesure où il n'existe pas, dans les législations pour lesquelles l'Agence est compétente, de dispositions spécifiques ayant le même objectif, la même nature ou le même effet que celles établies par le présent chapitre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 9, 032; En vigueur : 27-05-2024&gt;
+
+##### Art. 12/5
+
+[<sup>1</sup> L'Agence traite les données à caractère personnel nécessaires pour permettre à ses inspecteurs et contrôleurs d'accomplir leurs missions:
+
+1° en matière de production et de distribution, assurer les missions visées à l'article 4, § 1er, alinéa 3, 4° ;
+
+2° afin d'accomplir les missions visées à l'article 4, § 1er, alinéa 3, 5°, c);
+
+3° assurer le suivi, l'application et le contrôle des réglementations visées à l'article 4, § 1er, alinéa 3, 6°, a., et du chapitre V;
+
+4° rechercher et constater les infractions relatives à tous les domaines et toutes les réglementations visées au 3°, ainsi qu'à leurs arrêtés d'exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 10, 032; En vigueur : 27-05-2024&gt;
+
+##### Art. 12/6
+
+[<sup>1</sup> L'Agence est la responsable du traitement de données visé à l'article 12/5.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 11, 032; En vigueur : 27-05-2024&gt;
+
+##### Art. 12/7
+
+[<sup>1</sup> Les données traitées dans le traitement de données visé à l'article 12/5 proviennent des documents suivants:
+
+1° les pièces ou informations demandées en inspection ou en préparation de l'inspection et les rapports d'inspection;
+
+2° les avertissements;
+
+3° les saisies et les mises sous scellés;
+
+4° les informations transmises au procureur du Roi;
+
+5° les procès-verbaux de constatation d'infraction;
+
+6° les propositions de transactions;
+
+7° les plaintes et les dénonciations relatives à des faits potentiellement punissables par la loi qui sont adressées à l'Agence et qui tombent dans les missions des inspecteurs et contrôleurs;
+
+8° les apostilles et autres documents reçus des autorités judiciaires;
+
+9° les courriers et les questions spontanément adressés à l'Agence par des citoyens ou des opérateurs économiques, qui tombent dans les missions des inspecteurs et contrôleurs;
+
+10° les demandes d'autorisation, d'agrément, d'enregistrement ou de certificat adressées à l'Agence dans le cadre des missions des inspecteurs et contrôleurs;
+
+11° les déclarations de non-objection adressées à l'Agence dans le cadre des missions des inspecteurs et contrôleurs;
+
+12° les déclarations Schengen adressées à l'Agence dans le cadre des missions des inspecteurs et contrôleurs;
+
+13° les notifications de transactions suspectes et informations visées à l'article 8 du règlement (CE) N° 273/2004 du Parlement européen et du Conseil du 11 février 2004 relatif aux précurseurs de drogues et l'article 9 du règlement (CE) n° 111/2005 du Conseil du 22 décembre 2004 fixant des règles pour la surveillance du commerce des précurseurs des drogues entre l'Union et les pays tiers;
+
+14° les enregistrements des données concernant les transactions légales avec des substances stupéfiantes et psychotropes effectuées dans le cadre de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes;
+
+15° les demandes de désignation ou de modification de la désignation visant une extension de compétences introduites par les organismes d'évaluation de la conformité auprès de l'Agence conformément à l'article 38 du règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE, et l'article 34 du règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission;
+
+16° les autorisations, habilitations, agréments ou certificats, visés aux réglementations visées à l'article 4, § 1er, alinéa 3, 6°, a. et les demandes introduites à cette fin.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 12, 032; En vigueur : 27-05-2024&gt;
+
+##### Art. 12/8
+
+[<sup>1</sup> Les catégories de données traitées dans le traitement de données visé à l'article 12/5 sont les suivantes:
+
+1° les données de référence permettant d'identifier les documents visés à l'article 12/7: leur date, leurs références, leur objet;
+
+2° le cas échéant, le nom, le prénom de l'inspecteur ou du contrôleur auteur du document visé à l'article 12/7;
+
+3° les données permettant d'identifier les personnes qui font l'objet d'un rapport d'inspection, d'un avertissement, d'une saisie, d'une mise sous scellés, d'une transmission d'informations au procureur du Roi, d'un procès-verbal de constatation d'infraction, d'une proposition de transaction ou qui sont témoins ou dénonciateurs d'infractions potentiellement punissables, à savoir leur nom et prénom, domicile, siège social de leur activité, sièges d'exploitation, date de naissance, numéro de téléphone, adresse de messagerie électronique et numéro d'identification au Registre national;
+
+4° la description des faits constatés, des biens saisis ou mis sous scellés;
+
+5° l'identification du Parquet auquel le procès-verbal ou la proposition de transaction est envoyé;
+
+6° les données permettant de gérer les propositions de transaction: leurs montants, leurs dates de paiement et d'envoi au Parquet;
+
+7° l'éventuel délai donné au contrevenant pour se mettre en ordre;
+
+8° la description des éventuelles mesures correctives imposées au contrevenant pour se mettre en ordre;
+
+9° les éléments contenus dans les notifications et les informations visées à l'article 8 du règlement (CE) no 273/2004 du Parlement européen et du Conseil du 11 février 2004 relatif aux précurseurs de drogues et à l'article 9 du règlement 111/2005 du Conseil du 22 décembre 2004 fixant des règles pour la surveillance du commerce des précurseurs des drogues entre la Communauté et les pays tiers;
+
+10° en ce qui concerne les demandes d'autorisation pour une activité visée à l'article 1er, alinéas 1 à 3 de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes:
+
+\- le nom, le prénom, le domicile, l'adresse du siège social;
+
+\- l'adresse du lieu où les activités sont exercées, l'adresse de messagerie électronique, le numéro de l'autorisation;
+
+\- le numéro de téléphone, la signature, le numéro d'identification du Registre national;
+
+\- un extrait du casier judiciaire, la photo lorsque la personne concernée refuse de s'identifier et que son identification est nécessaire pour des motifs d'intérêt public dans le domaine de la santé publique conformément à l'article 9, § 2, i) du RGPD, les qualifications professionnelles, l'expérience dans le domaine concerné par la demande d'autorisation;
+
+\- la description des fonctions et tâches du demandeur;
+
+\- la nature des activités autorisées, la désignation des produits, la date d'échéance de l'autorisation et, le cas échéant, des remarques visant à clarifier la portée de l'autorisation.
+
+Les mêmes données peuvent être traitées en ce qui concerne la personne responsable de l'activité désignée par le demandeur de l'autorisation.
+
+11° en ce qui concerne l'enregistrement des transactions légales de substances stupéfiantes et psychotropes effectuées dans le cadre de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes:
+
+\- s'il s'agit d'une réception ou une livraison de substances psychotropes;
+
+\- le numéro d'autorisation ou numéro de dépôt des opérateurs qui réalisent la livraison et de ceux qui la reçoivent;
+
+\- le numéro de code visé à l'article 42, § 2, 3° de l'arrêté royal du 6 septembre 2017 réglementant les substances stupéfiantes et psychotropes;
+
+\- le nom et la quantité des substances stupéfiantes ou psychotropes qui font l'objet de la transaction;
+
+\- la date de la commande;
+
+\- la date de la livraison/réception des substances stupéfiantes ou psychotropes;
+
+12° en ce qui concerne les notifications de livraison ou de réception pour une activité visée à l'article 1er, alinéas 1 à 3 de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes:
+
+\- le numéro d'autorisation;
+
+\- le numéro d'autorisation de l'autre partie;
+
+\- la nature et la quantité des produits fournis ou reçus;
+
+\- la date de commande et de livraison.
+
+13° en ce qui concerne les statistiques pour une activité visée à l'article 1er, alinéas 1 à 3, de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes:
+
+\- le numéro d'autorisation;
+
+\- les statistiques sur la fabrication, l'importation, l'exportation, la perte et la destruction;
+
+14° en ce qui concerne les demandes d'autorisation ou les demandes d'enregistrement pour une activité visée aux articles 12bis, 12ter, ou 12octies, de la loi du 25 mars 1964 sur les médicaments à usage humain:
+
+\- le nom, le prénom, le domicile, l'adresse du siège social, l'adresse du lieu où s'exercent les activités, l'adresse e-mail, le numéro d'autorisation, le numéro de téléphone, la signature;
+
+\- les mêmes données peuvent être traitées en ce qui concerne la personne responsable de l'activité désignée par le demandeur de l'autorisation, et le curriculum vitae et les domaines d'expertise de cette personne;
+
+\- les noms, prénoms, qualifications professionnelles et domaines d'expertise des membres du personnel;
+
+\- la nature des activités autorisées, la désignation des produits ou la classe des produits, la date d'échéance de l'autorisation et, le cas échéant, des remarques visant à clarifier la portée de l'autorisation;
+
+15° en ce qui concerne les demandes d'autorisation ou les demandes d'enregistrement pour une activité visée au chapitre 8 de la loi du 5 mai 2022 sur les médicaments vétérinaires:
+
+\- le nom, le prénom, le domicile, l'adresse du siège social, l'adresse du lieu où s'exercent les activités, l'adresse e-mail, le numéro d'autorisation, le numéro de téléphone, la signature;
+
+\- les mêmes données peuvent être traitées en ce qui concerne la personne responsable de l'activité désignée par le demandeur de l'autorisation;
+
+\- la nature des activités autorisées, la désignation des produits ou la classe des produits, la date d'échéance de l'autorisation, le cas échéant, des remarques visant à clarifier la portée de l'autorisation.
+
+16° en ce qui concerne les demandes de certificat, telles que définies par l'Organisation mondiale de la santé:
+
+\- le nom, le prénom, l'adresse e-mail et le numéro d'entreprise du demandeur;
+
+\- la nature du médicament.
+
+17° en ce qui concerne les demandes d'agrément ou les notifications pour une activité visée à l'article 7 de la loi du 19 décembre 2008 relative à l'obtention et à l'utilisation de matériel corporel humain destiné à des applications médicales humaines ou à des fins de recherche scientifique:
+
+\- le nom, le prénom, le domicile, l'adresse du siège social, le numéro d'entreprise, l'adresse du lieu où s'exercent les activités, l'adresse e-mail, le numéro d'agrément, le numéro de notification, le numéro de téléphone, la signature;
+
+\- les activités agréées ou notifiées.
+
+18° en ce qui concerne les demandes de désignation ou de modification de la désignation visant une extension de compétences introduites par les organismes d'évaluation de la conformité auprès de l'Agence conformément à l'article 38 du règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE, et l'article 34 du règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission: les données visées à l'article 19, § 3 de la loi du 22 décembre 2020 relative aux dispositifs médicaux;
+
+19° les numéros des plaques d'immatriculation des véhicules suspectés d'appartenir à une personne suspectée d'être auteur ou coauteur d'une infraction punissable par la loi ou de servir ou d'avoir servi à commettre une infraction punissable en vertu des réglementations visées à l'article 12/5, 2° ;
+
+20° la copie digitale intégrale des documents visés à l'article 12/7.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 13, 032; En vigueur : 27-05-2024&gt;
+
+##### Art. 12/9
+
+[<sup>1</sup> Les personnes concernées par le traitement de données visé à l'article 12/5 sont les suivantes:
+
+1° les inspecteurs et contrôleurs de l'Agence;
+
+2° les personnes suspectées d'être auteur ou coauteur d'une infraction d'une législation visée à l'article 12/5;
+
+3° les personnes qui font l'objet d'une inspection, d'un contrôle ou d'une enquête sans être suspectées d'une infraction;
+
+4° les témoins d'une infraction d'une législation visée à l'article 12/5;
+
+5° les personnes qui adressent à l'Agence une plainte ou une dénonciation relative à des faits potentiellement punissables en vertu des législations visées à l'article 12/5;
+
+6° les personnes qui adressent à l'Agence des questions ou des courriers relatifs à ses missions visées à l'article 12/5;
+
+7° des personnes qui demandent ou disposent d'une autorisation, d'un agrément, d'un enregistrement, d'un certificat, d'une désignation ou d'une déclaration délivré par l'Agence;
+
+8° les personnes qui adressent des notifications à l'Agence ou font l'objet d'une notification par l'Agence en application des législations visées à l'article 12/5.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 14, 032; En vigueur : 27-05-2024&gt;
+
+##### Art. 12/10
+
+[<sup>1</sup> § 1. Seules les personnes suivantes ont accès direct au traitement de données visé à l'article 12/5:
+
+1° les inspecteurs et contrôleurs;
+
+2° le supérieur hiérarchique, au sens de l'article 2, alinéa 1er, 7°, de l'arrêté royal du 14 janvier 2022 relatif à l'évaluation dans la fonction publique fédérale, des personnes visées au point 1° ;
+
+3° le fonctionnaire-juriste;
+
+4° les membres du personnel statutaires ou contractuels de l'Agence désignés pour réaliser le traitement administratif des documents visés à l'article 12/7.
+
+§ 2. Les personnes visées au paragraphe 1er n'accèdent aux dossiers, données ou applications électroniques que dans la mesure où cet accès est adéquat, pertinent et non excessif au regard de l'exécution des finalités définies à l'article 12/5.
+
+Tout accès aux dossiers, données ou applications électroniques fait l'objet d'une vérification par le système de gestion de l'identité de la personne qui sollicite l'accès et de sa correspondance au profil défini.
+
+Chaque accès ou tentative d'accès aux dossiers, données ou applications fait l'objet d'un enregistrement automatisé dont le contenu et la durée de conservation sont fixés par un règlement interne soumis pour avis au Délégué à la protection des données.
+
+Le Délégué à la protection des données contrôle périodiquement les accès dans le but de détecter les incidents de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 15, 032; En vigueur : 27-05-2024&gt;
+
+##### Art. 12/11
+
+[<sup>1</sup> § 1er. Les personnes visées à l'article 12/10, § 1er, ne peuvent divulguer à quelque personne ou autorité que ce soit les données à caractère personnel contenues dans le traitement de données visé à l'article 12/5 ni les autres informations confidentielles dont ils ont eu connaissance en raison de leurs fonctions. Ces données sont utilisées exclusivement pour l'exercice de leurs missions.
+
+§ 2. Sauf autorisation expresse de l'auteur d'une plainte ou d'une dénonciation relative à une infraction aux dispositions de la réglementation dont ils exercent la surveillance, les personnes visées à l'article 12/10 ne peuvent révéler en aucun cas, même devant les tribunaux, le nom de l'auteur de cette plainte ou de cette dénonciation.
+
+Cette interdiction vaut également en cas de demande fondée sur la loi du 11 avril 1994 relative à la publicité de l'administration.
+
+Il est également interdit de révéler à la personne qui fait l'objet du contrôle ou de l'inspection qu'il y est procédé suite à une plainte ou une dénonciation.
+
+§ 3. Par dérogation au paragraphe 1er, les personnes visées à l'article 12/10, § 1, peuvent communiquer les données et informations visées au paragraphe 1er:
+
+1° aux membres du personnel statutaires ou contractuels de l'Agence, qui n'ont pas d'accès direct au traitement de données visé à l'article 12/5, pour autant que cette communication présente un intérêt pour l'accomplissement des missions de l'Agence. Le paragraphe 1er s'applique à ces autres membres du personnel de l'Agence pour les données qui leur sont communiquées;
+
+2° aux autorités et instances européennes, aux autres Etats membres, à des Etats tiers ou à des organisations internationales ou étrangères dans le but d'organiser une collaboration opérationnelle dans la lutte contre des infractions aux réglementations visées à l'article 12/5, 2° et à leurs arrêtés d'exécution, ou pour tout autre but prévu dans, et selon les conditions des dispositions du droit de l'Union ou du droit national;
+
+3° aux services de police, aux autorités judiciaires ou aux membres du personnel chargés du contrôle du respect des réglementations qui tombent dans les compétences de l'Agence Fédérale pour la Sécurité de la Chaîne Alimentaire, de l'Institut National d'Assurance Maladie Invalidité, du Service Public Fédéral Santé Publique, du Service Public Fédéral Economie, de l'Agence Fédérale de Contrôle Nucléaire, des fonctionnaires ou agents des douanes et accises et aux membres du personnel d'administrations des régions et communautés, chargés de la surveillance des réglementations qui relèvent de la politique de santé et d'aide aux personnes, telle que visée à l'article 5, § 1er, I, alinéa 1er, et II, 4° de la loi spéciale du 8 août 1980 de réformes institutionnelles.
+
+Ces communications ne peuvent avoir lieu que pour les finalités suivantes:
+
+\- pour leur dénoncer des infractions, lorsqu'il existe des indices sérieux que des infractions aux législations qui tombent dans la compétence de ces institutions ont été commises et que la communication est nécessaire pour permettre à ces institutions d'exercer leurs missions. Les données qui peuvent être communiquées sont celles qui sont nécessaires pour identifier des suspects ainsi que celles qui sont nécessaires pour déterminer si une infraction a été commise;
+
+\- dans le but d'organiser et de coordonner une collaboration opérationnelle dans la lutte contre des infractions aux législations visées à l'article 12/5, 2° et aux législations qui tombent dans les compétences des institutions visées au point 3°. Les données qui peuvent être communiquées sont celles qui sont nécessaires à l'organisation de la collaboration opérationnelle.
+
+Toutefois, les renseignements recueillis à l'occasion de l'exécution de devoirs prescrits par l'autorité judiciaire ne peuvent être communiqués aux autres institutions qu'avec son autorisation.
+
+Les inspecteurs et contrôleurs qui communiquent potentiellement des données à caractère personnel en application de l'article 12/11, § 3, 3°, doivent suivre une formation portant sur les possibilités et limitations de ces communications, afin d'assurer qu'elles soient justifiées et conformes aux principes de protection des données personnelles.
+
+Le Roi peut déterminer le contenu minimum de cette formation ainsi que ses modalités de mise en oeuvre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 16, 032; En vigueur : 27-05-2024&gt;
+
+##### Art. 12/12
+
+[<sup>1</sup> La durée de conservation des données à caractère personnel enregistrées dans le traitement de données visé à l'article 12/5 est de dix ans à dater du jour où elles ont été collectées auprès de la personne concernée ou d'un tiers.
+
+Par dérogation à l'alinéa 1er, la durée de conservation des données relatives aux autorisations ou aux agréments pour des activités visées à l'article 1er, alinéas 1 à 3 de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes n'excède pas dix ans après l'expiration de l'autorisation ou de l'agrément.
+
+Par dérogation à l'alinéa 1er, la durée de conservation des données visées à l'article 12/8, 11° est de cinq ans.
+
+Les données relatives à des faits qui ont donné lieu à une proposition de transaction acceptée ou ont abouti à la condamnation pénale définitive de la personne concernée, sont conservées pour une durée de trois ans à dater du paiement de la transaction ou du prononcé de la condamnation.
+
+Les données relatives à des faits qui ont abouti à une décision de classement sans suite sont conservées pour une durée de dix ans à dater du classement.
+
+Les données relatives à des faits pour lesquels les poursuites pénales sont prescrites ou ont abouti à une décision définitive de non-lieu ou d'acquittement sont effacées sans délai.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 17, 032; En vigueur : 27-05-2024&gt;
+
+##### Art. 12/13
+
+[<sup>1</sup> Le Roi peut établir les moyens techniques et les mesures organisationnelles qui doivent être adoptés par l'Agence pour mettre en oeuvre le traitement de données visé à l'article 12/5 et prévenir les abus de consultation ou l'accès ou le transfert illicite des données qu'il contient.
+
+Il peut notamment préciser quelles données sont contenues dans les catégories visées à l'article 12/8, préciser les moyens techniques et les mesures organisationnelles qui doivent être mis en oeuvre pour assurer le respect des délais de conservation visés à l'article 12/12, la gestion des accès aux données visées à l'article 12/10 et la communication des données visées à l'article 12/11.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 18, 032; En vigueur : 27-05-2024&gt;
+
+### Section 2. [<sup>1</sup> Limitations des droits des personnes concernées]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 19, 032; En vigueur : 27-05-2024&gt;
+
+##### Art. 12/14
+
+[<sup>1</sup> Outre les exceptions prévues aux articles 14, paragraphe 5, 17, paragraphe 3, 18, paragraphe 2, et 20, paragraphe 3, du Règlement 2016/679 et à l'article 14 de la loi du 30 juillet 2018, en vue de garantir les objectifs de l'article 23, paragraphe 1er, points d), e), et h), du règlement précité, l'exercice des droits visés aux articles 12 (transparence des informations et des communications et modalités de l'exercice des droits de la personne concernée), 13 (informations à fournir lorsque les données à caractère personnel sont collectées auprès de la personne concernée), 15 (droit d'accès), 16 (droit de rectification), 19 (obligation de notification en ce qui concerne la rectification ou l'effacement de données à caractère personnel ou la limitation du traitement), 21 (droit d'opposition) et 34 (communication à la personne concernée d'une violation de données à caractère personnel) de ce règlement est exclu s'agissant du traitement de données visé à l'article 12/5.
+
+L'application des principes relatifs au traitement de données à caractère personnel visés à l'article 5 du Règlement 2016/679 est exclue pour les traitements de données à caractère personnel effectués par l'Agence dans les mêmes hypothèses que celles visées à l'alinéa 1er, dans la mesure où les dispositions de cet article correspondent aux droits et obligations prévus aux articles 12 à 22 de ce règlement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 20, 032; En vigueur : 27-05-2024&gt;
+
+##### Art. 12/15
+
+[<sup>1</sup> § 1er. Les exclusions visées à l'article 12/14 valent durant la période pendant laquelle la personne concernée fait l'objet d'un contrôle, d'une enquête, d'une inspection ou d'actes préparatoires à ceux-ci dans le cadre de l'exécution des missions visées à l'article 12/5. Cette exclusion vaut aussi durant la période pendant laquelle les données sont traitées en vue d'entreprendre une ou plusieurs des actions suivantes: un rapport d'inspection, un avertissement, une saisie, une mise sous scellés, une transmission d'informations au procureur du Roi, un procès-verbal de constatation d'infraction, une proposition de transaction. La durée des actes préparatoires ne peut excéder un an à partir de la collecte des données personnelles ou de la réception d'une demande par la personne concernée en vue d'exercer un ou plusieurs des droits concernés.
+
+Lorsque des données à caractère personnel ont été fournies en vertu de l'article 12/11, § 3, 2° et 3°, les autorités concernées, à l'exception des autorités judiciaires, de la Police et de l'Administration des douanes et accises, doivent, dans un délai d'un mois après la fourniture des données, confirmer à l'Agence que les restrictions doivent être maintenues et lui fournir la justification et le fondement juridique sur lesquels elles se basent. A défaut, les restrictions cessent passé le délai d'un mois prémentionné.
+
+§ 2. Les exclusions prévues à l'article 12/14 sont appliquées de manière restrictive, uniquement dans les circonstances où l'exercice des droits ou principes concernés, ou de certains d'entre eux, risquerait manifestement de compromettre l'efficacité des contrôles, enquêtes, et inspections réalisés par les inspecteurs de l'Agence ou les missions des personnes auxquelles les données sont communiquées, en raison de risques accrus, notamment de collusion ou de disparition de preuves.
+
+Sans préjudice de l'alinéa 1er, ces restrictions sont également applicables lorsque des informations relatives à une personne suspectée d'une infraction sont transmises à l'Agence par une des entités visées à l'article 12/11, § 3, 3°, ou sont communiquées par l'Agence à ces entités, dans la mesure où l'exercice des droits ou principes, ou de certains d'entre eux, risquerait manifestement de compromettre les enquêtes, contrôles, ou poursuites de la compétence de ces entités, en raison des risques notamment de collusion ou de disparition de preuves.
+
+Chaque limitation est justifiée et cette justification est intégrée au dossier concerné. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 21, 032; En vigueur : 27-05-2024&gt;
+
+##### Art. 12/16
+
+[<sup>1</sup> Les exclusions visées à l'article 12/14 cessent de s'appliquer lorsque le dossier pour lequel les données sont collectées aboutit à:
+
+1° la notification d'un avertissement à la personne concernée;
+
+2° une proposition de transaction à la personne concernée;
+
+3° un rapport d'inspection et qu'aucune infraction n'a été constatée.
+
+Les exclusions visées à l'article 12/14 ne visent pas les données qui sont étrangères à l'objet de l'enquête ou du contrôle justifiant la limitation du droit concerné.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 22, 032; En vigueur : 27-05-2024&gt;
+
+##### Art. 12/17
+
+[<sup>1</sup> Dès réception d'une demande concernant l'exercice d'un droit ou d'un principe visé à l'article 12/14 par une personne concernée, le Délégué à la protection des données en accuse réception.
+
+Le Délégué à la protection des données informe la personne concernée par écrit, dans les meilleurs délais, et en tout état de cause dans un délai d'un mois à compter de la réception de la demande, de tout refus ou de toute limitation à l'exercice du droit concerné, ainsi que des motifs du refus ou de la limitation.
+
+Ces informations concernant le refus ou la limitation peuvent ne pas être fournies lorsque leur communication nuirait aux besoins du contrôle, de l'enquête, de l'inspection ou des actes préparatoires ou risque de mettre en danger le secret de l'enquête pénale ou la sécurité des personnes. Au besoin, ce délai peut être prolongé de deux mois, compte tenu de la complexité et du nombre de demandes.
+
+Le Délégué à la protection des données informe la personne concernée de cette prolongation et des motifs du report dans un délai d'un mois à compter de la réception de la demande.
+
+Le Délégué à la protection des données informe la personne concernée des possibilités d'introduire une réclamation auprès de l'Autorité de protection des données et de former un recours juridictionnel.
+
+Le Délégué à la protection des données consigne les motifs de fait ou de droit sur lesquels se fonde la décision. Ces informations sont mises à la disposition de l'Autorité de protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 23, 032; En vigueur : 27-05-2024&gt;
+
+## CHAPITRE V. - Du financement et des moyens de l'Agence.
+
+### Section 1re. [<sup>1</sup> - Les moyens de l'Agence]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 3, 017; En vigueur : 01-01-2018&gt;
+
+##### Art. 13
+
+[<sup>1</sup> L'Agence est financée par :
+
+1° les crédits inscrits au budget général des dépenses;
+
+2° les recettes provenant des redevances et contributions fixées aux sections 3, 4 et 5;
+
+3° les rétributions fixées par et en vertu de la section 6;
+
+4° les recettes provenant de l'Union européenne en ce qui concerne les activités de l'Agence;
+
+5° les sommes d'argent payées en vertu de transactions administratives proposées par l'Agence conformément à la législation applicable;
+
+6° des donations et legs;
+
+7° moyennant l'accord du ministre compétent pour les Finances, le produit du placement de réserves financières;
+
+8° des recettes fortuites;
+
+9° toutes les autres recettes provenant de l'exécution de ses missions;
+
+10° un montant annuel, à charge des frais d'administration de l'Institut national d'assurance maladie-invalidité, fixé par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-03-11/08, art. 4, 017; En vigueur : 01-01-2018&gt;
+
+##### Art. 13/1
+
+&lt;Abrogé par L 2018-03-11/08, art. 5, 017; En vigueur : 01-01-2018&gt;
+
+##### Art. 14
+
+[<sup>1</sup> § 1er. L'Agence peut acquérir l'équipement et les installations nécessaires à l'exercice de ses missions.
+
+L'Etat peut mettre, gratuitement ou à titre onéreux, à disposition de l'Agence, les services, équipements et installations appartenant à l'Etat ou à un organisme public qui sont nécessaires pour l'exécution des missions de l'Agence, telles que définies à l'article 4.
+
+§ 2. Moyennant l'accord du ministre compétent pour les Finances, l'Agence est autorisée à contracter des emprunts qui peuvent bénéficier de la garantie de l'Etat.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-03-11/08, art. 6, 017; En vigueur : 01-01-2018&gt;
+
+### Section 2. [<sup>1</sup> - Dispositions administratives.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 7, 017; En vigueur : 01-01-2018&gt;
+
+##### Art. 14/1
+
+[<sup>1</sup> L'agent statutaire chargé du contrôle du budget et de la gestion, désigné par le ministre, représente l'Agence dans les actes judiciaires et extrajudiciaires pour l'application de la présente loi. Cet agent peut déléguer cette compétence et soumettre cette délégation à des conditions.
+
+Sauf disposition contraire dans la présente loi, le redevable est également la personne soumise à déclaration.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 8, 017; En vigueur : 01-01-2018&gt;
+
+### Section 3. [<sup>1</sup> - Impôts.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 9, 017; En vigueur : 01-01-2018&gt;
+
+#### Sous-section 1re. [<sup>1</sup> - Redevances sur le chiffre d'affaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 10, 017; En vigueur : 01-01-2018&gt;
+
+##### Art. 14/2
+
+[<sup>1</sup> Une redevance annuelle est due sur le chiffre d'affaires, dont le redevable, les biens et services concernés, le montant [<sup>2</sup> , le seuil minimal]<sup>2</sup> et la redevance forfaitaire minimale prévue, sont fixés à l'annexe I de la présente loi.
+
+Cette redevance est due pour chaque année où le redevable réalise le chiffre d'affaires visé à l'alinéa 1er, y compris l'année pendant laquelle commence l'activité concernée et l'année pendant laquelle l'activité concernée est arrêtée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 11, 017; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2022-12-26/01, art. 81, 029; En vigueur : 01-01-2023&gt;
+
+##### Art. 14/3
+
+[<sup>1</sup> La redevance visée à l'article 14/2 est calculée sur le chiffre d'affaires réalisé durant l'année précédant celle pour laquelle la redevance est due. Si, au cours de l'année précédente, aucun chiffre d'affaires visé à l'article 14/4 n'a été réalisé, la redevance forfaitaire minimale prévue est alors due.]<sup>1</sup>
+
+[<sup>2</sup> Par dérogation à l'alinéa 1er, si le chiffre d'affaires déclaré conformément à l'article 14/4 est inférieur au seuil indiqué à l'annexe Ier, la redevance visée à l'article 14/2 n'est pas due.]<sup>2</sup>
+
+[<sup>3</sup> Toute entreprise exerçant des activités dont le chiffre d'affaires est soumis à une redevance est tenue de présenter une déclaration même si le chiffre d'affaires n'a pas atteint le seuil minimal indiqué à l'annexe Ier.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 12, 017; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2022-12-26/01, art. 82, 029; En vigueur : 01-01-2023&gt;
+
+(3)&lt;L 2023-12-22/06, art. 133, 031; En vigueur : 01-01-2024&gt;
+
+##### Art. 14/4
+
+[<sup>1</sup> Le montant du chiffre d'affaires visé à l'article 14/2 fait l'objet d'une déclaration par la personne soumise à déclaration qui est datée, signée et certifiée sincère et véritable. L'attestation qui a été rédigée conformément à l'article 14/6 est jointe à cette déclaration. Cette déclaration est envoyée à l'Agence au plus tard le [<sup>3</sup> 30 juin]<sup>3</sup> de l'année suivant celle durant laquelle le chiffre d'affaires a été réalisé. L'Agence envoie un avis de paiement avec le montant à payer. Le versement de la redevance se fait au plus tard [<sup>4</sup> 30 jours après l'envoi ]<sup>4</sup> de l'avis de paiement par l'Agence conformément à l'article 14/18, § 1er.]<sup>1</sup>
+
+[<sup>2</sup> Une déclaration visée par le présent article est effectuée quand des activités soumises à contribution, visées à l'article 14/9, § 1/1 sont effectuées. Dans la déclaration, les données suivantes doivent être mentionnées:
+
+1° le chiffre d'affaires réalisé en Belgique au cours de l'année précédente par des activités soumises à contribution, visées à l'article 14/9, § 1/1, lorsque le destinataire des services ou produits est un détaillant ou un utilisateur final;
+
+2° le chiffre d'affaires total réalisé en Belgique au cours de l'année précédente par des activités visés dans l'article 14/9, § 1/1.
+
+Si l'un des montants de chiffre d'affaires visé à l'alinéa précédent, est inférieur au seuil minimal fixé à l'Annexe I, ce fait peut être mentionné comme tel et le montant lui-même ne doit pas figurer dans la déclaration.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 13, 017; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2023-12-22/06, art. 134, 031; En vigueur : 01-01-2024&gt;
+
+(3)&lt;L 2026-05-30/01, art. 90, 036; En vigueur : 11-06-2026&gt;
+
+(4)&lt;L 2026-05-30/03, art. 24, 037; En vigueur : 14-06-2026&gt;
+
+##### Art. 14/5
+
+[<sup>1</sup> Sans préjudice des peines prévues à l'article 14/22, l'Agence peut, à défaut d'une déclaration rédigée conformément à [<sup>2</sup> l'article 14/4]<sup>2</sup>, fixer d'office la contribution sur la base du chiffre d'affaires total du redevable.
+
+Le redevable est informé par envoi recommandé avec accusé de réception de la fixation d'office avec indication du recours visé à l'article 14/20 ainsi que des formes et délais à respecter.
+
+L'Agence peut réduire le chiffre d'affaires qui sert de base pour la fixation de la contribution conformément à l'alinéa 1er, en cas de déséquilibre manifeste entre le chiffre d'affaires total et le chiffre d'affaires [<sup>2</sup> les biens pour lesquels une redevance est due]<sup>2</sup>, dans la mesure de ce déséquilibre.
+
+A la demande de l'Agence, le service compétent au sein du Service public fédéral Finances fournit les informations pour l'application de l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 14, 017; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2019-04-07/22, art. 7, 020; En vigueur : 01-01-2018&gt;
+
+##### Art. 14/6
+
+[<sup>1</sup> La personne soumise à déclaration tient chaque année un registre indiquant les biens et services visés à l'article 14/2, la personne physique ou morale à qui des biens et services sont livrés et les conséquences de ce transfert sur le chiffre d'affaires.
+
+Sur la base du registre visé à l'alinéa 1er, la personne soumise à déclaration fait rédiger une attestation par un réviseur d'entreprise ou un comptable dans laquelle les éléments suivants sont confirmés et dûment certifiés :
+
+1° le nom du redevable de la redevance visé à l'article 14/2, comme personne physique ou morale, en indiquant la forme juridique et son numéro d'entreprise;
+
+2° le chiffre d'affaires imposable visé à l'article 14/2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 15, 017; En vigueur : 01-01-2018&gt;
+
+#### Sous-section 2. [<sup>1</sup> - Contribution sur le conditionnement d'un médicament autorisé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 16, 017; En vigueur : 01-01-2018&gt;
+
+##### Art. 14/7
+
+[<sup>1</sup> Une contribution est due sur le conditionnement de médicaments et matières premières dont le redevable de la contribution, la personne soumise à déclaration, le montant par conditionnement ou le montant par poids de substance active et la périodicité, sont prévus à l'annexe II de la présente loi.
+
+Le nombre de conditionnements fait l'objet d'une déclaration par la personne soumise à déclaration qui est datée, signée et certifiée sincère et véritable. Cette déclaration est adressée à l'Agence, au plus tard pour la fin du mois qui suit la période concernée par la contribution en même temps que le versement de la contribution, conformément à l'article 14/18.
+
+Par dérogation à l'alinéa 2, si l'impôt est dû chaque année, l'avance des impôts sur le conditionnement d'un médicament autorisé visés dans le présent article sont dus sur les conditionnements vendus dans l'année précédant l'année de contribution. La déclaration est introduite au plus tard le 30 avril de l'année de contribution. L'Agence envoie un avis de paiement avec le montant à payer. Le redevable dispose d'un délai de paiement de [<sup>2</sup> 30 jours après l'envoi ]<sup>2</sup> de l'avis de paiement par l'Agence, conformément à l'article 14/18.
+
+Sans préjudice des peines prévues à l'article 14/22, l'Agence peut, à défaut d'une déclaration visée à l'alinéa 1er, fixer d'office la contribution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 17, 017; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2026-05-30/03, art. 24, 037; En vigueur : 14-06-2026&gt;
+
+##### Art. 14/8
+
+[<sup>1</sup> Si la contribution visée à l'article 14/7 est exprimée en fonction de la substance active, la contribution par conditionnement mis sur le marché individuellement est fixée en euros jusqu'à la deuxième décimale. Les montants sont arrondis au centime supérieur ou inférieur. Si la fixation entraîne un résultat qui est précisément la moitié d'un centime d'euro, le montant est arrondi au centime supérieur. L'Agence publie sur son site web la liste des contributions visées dans le présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 18, 017; En vigueur : 01-01-2018&gt;
+
+#### Sous-section 3. [<sup>1</sup> - Contribution annuelle des opérateurs économiques.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 19, 017; En vigueur : 01-01-2018&gt;
+
+##### Art. 14/9
+
+[<sup>1</sup> § 1er. Une contribution forfaitaire [<sup>5</sup> annuelle]<sup>5</sup> est due par le titulaire dont l'autorisation, le certificat, l'agrément ou l'exemption, la personne soumise à déclaration et la contribution sont repris à l'annexe III. Si c'est prévu, cette contribution est due pour toute entité d'activité économique telle que prévue à l'annexe VI.
+
+Pour la détermination du nombre total d'autorisations soumises à la contribution forfaitaire visée à l'alinéa 1er, le 1er avril de l'année pour laquelle la contribution est due est pris en compte comme date de référence.
+
+[<sup>2</sup> § 1er/1. Une contribution forfaitaire annuelle est due pour l'exercice de certaines activités, dont le redevable, l'activité soumise à contribution, les catégories par activité, les exonérations, les corrections et la contribution sont énumérés à l'annexe IX. Cette contribution est due pour chaque entité telle que définie à l'annexe IX.
+
+Une activité soumise à contribution peut être subdivisée en plusieurs catégories, pour lesquelles un nombre distinct d'entités est déterminé par catégorie, conformément à l'annexe IX.
+
+Si le redevable exerce plusieurs catégories au sein d'une même activité soumise à contribution, seule la catégorie comptant le plus grand nombre d'entités est prise en compte pour le calcul de la contribution à payer.
+
+Si le redevable exerce plusieurs activités soumises à contribution, l'activité soumise à contribution comportant le plus grand nombre d'entités constitue le point de départ du calcul de la contribution, augmenté d'une entité.
+
+Le nombre d'entités calculé conformément au présent paragraphe peut, le cas échéant, être modifié, conformément à l'annexe IX, chapitre 3 in fine.
+
+Le nombre d'entités pour une activité visée au présent paragraphe ne peut jamais être un nombre négatif.]<sup>2</sup>
+
+[<sup>3</sup> La détermination des activités soumises à contribution visées par le présent article, exercées par un redevable, est effectuée le [<sup>5</sup> 30 juin]<sup>5</sup> de l'année au cours de laquelle la contribution est due.]<sup>3</sup>
+
+[<sup>4</sup> § 1/2. Il est instauré une contribution annuelle supplémentaire, ci-après dénommé "contribution d'indisponibilité", à charge des firmes ayant une AMM ou une autorisation d'importation parallèle des médicaments inscrits dans la liste des spécialités pharmaceutiques remboursables, telles que visées par l'article 191, alinéa 1er, 15° de la loi coordonnée du 14 juillet 1994 relative à l'assurance obligatoire soins de santé et indemnités - cette contribution est reprise à l'Annexe III.16.
+
+Les recettes qui résultent de cette contribution d'indisponibilité sont tenues à disposition de l'INAMI, au financement de l'intervention visée à l'article 72ter de la loi coordonnée du 14 juillet 1994 relative à l'assurance obligatoire soins de santé et indemnités pour l'année comptable N.
+
+La redevance visée au présent paragraphe est limitée à ce qui est nécessaire pour couvrir les coûts de l'indemnité visée à l'alinéa 2. Le montant de la contribution fixée à l'annexe III.16 est réduit au montant nécessaire pour couvrir cette indemnité, pour l'exercice N. Pour l'application du présent alinéa, les dépenses de l'exercice N sont assimilées à l'indemnité versée au cours de la période allant du mois d'août de l'année précédente au mois de juillet inclus de l'année.
+
+La contribution est imposée aux acteurs ayant, au 1er avril de l'exercice N, au minimum un produit sur la liste des spécialités remboursables visée à l'alinéa 1er. L'INAMI fournit cette liste à l'AFMPS.
+
+L'AFMPS transfère le montant reçu des contributions perçues, visées au paragraphe présent, à l'INAMI.]<sup>4</sup>
+
+§ 2. L'Agence envoie un avis de paiement indiquant le montant à payer. Le redevable dispose d'un délai de paiement de [<sup>6</sup> 30 jours après l'envoi ]<sup>6</sup> de l'avis de paiement par l'Agence, conformément à l'article 14/18.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 20, 017; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2022-12-26/01, art. 83, 029; En vigueur : 01-01-2023&gt;
+
+(3)&lt;L 2023-12-22/06, art. 135, 031; En vigueur : 01-01-2024&gt;
+
+(4)&lt;L 2024-05-18/13, art. 26, 034; En vigueur : 01-01-2025&gt;
+
+(5)&lt;L 2026-05-30/01, art. 91, 036; En vigueur : 11-06-2026&gt;
+
+(6)&lt;L 2026-05-30/03, art. 24, 037; En vigueur : 14-06-2026&gt;
+
+### Section 4. [<sup>1</sup> - Impôts en fonction du compte d'exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 21, 017; En vigueur : 01-01-2018&gt;
+
+##### Art. 14/10
+
+[<sup>1</sup> § 1er. Les impôts repris à l'annexe IV sont tributaires d'une partie, prévue dans cette annexe de l'avance hypothétique sur le compte d'exécution. Par dérogation aux articles 14/2, 14/7 et 14/9, le paiement constitue une avance conformément à ces articles.
+
+Les impôts dus conformément au présent article sont positifs et leur montant ne dépasse pas l'avance visée à l'alinéa 1er.
+
+§ 2. L'avance hypothétique sur le compte d'exécution pour l'application de l'article 14/11, est la différence positive entre les recettes, y compris les avances visées au paragraphe 1er, et les dépenses de l'Agence sans tenir compte des versements et des moyens de l'Etat, effectués et reçus conformément à l'article 7bis de la loi du 5 juillet 1994 relative au sang et aux dérivés du sang d'origine humaine [<sup>5</sup> les articles 14/26 et 14/27, ni des versements et des moyens effectués en exécution de l'article 4/1, ni des recettes et dépense visées par l'article 14/9, paragraphe 1/2]<sup>5</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 22, 017; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2018-10-30/06, art. 76, 018; En vigueur : 26-11-2018&gt;
+
+(3)&lt;L 2019-04-07/22, art. 8, 020; En vigueur : 01-01-2018&gt;
+
+(4)&lt;L 2019-04-07/22, art. 25, 020; En vigueur : 30-05-2019&gt;
+
+(5)&lt;L 2024-05-18/13, art. 27, 034; En vigueur : 01-01-2025&gt;
+
+##### Art. 14/11
+
+[<sup>1</sup> § 1er. Le montant dû d'un impôt visé à l'article 14/10, § 1er, est l'avance payée multipliée par un coéfficient que l'Agence publie sur son site web pour l'impôt concerné. L'Agence rembourse la partie non due de l'avance pour le 31 janvier de l'année qui suit l'année sur laquelle porte l'impôt.
+
+Par dérogation à l'alinéa 1er, l'Agence compense la partie non due de l'avance par la contribution forfaitaire due pour l'année de contribution en cours si le redevable reste le même.
+
+§ 2. Le coéfficient visé au paragraphe 1er est le quotient de la partie de l'impôt visée à l'article 14/10, § 1er, multiplié par l'avance hypothétique, divisé par les avances dues pour cet impôt pour l'année sur laquelle porte l'impôt.
+
+§ 3. L'établissement de la partie non due de l'avance se fait en euros jusqu'à la deuxième décimale. Les montants sont arrondis au centime supérieur ou inférieur. Si la fixation entraîne un résultat qui est précisément la moitié d'un centime d'euro, le montant est arrondi au centime supérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 23, 017; En vigueur : 01-01-2018&gt;
+
+##### Art. 14/12
+
+[<sup>1</sup> Après application des articles 14/10 et 14/11, l'Agence verse le solde de l'avance hypothétique tel que visé à l'article 14/10, § 2, au Trésor.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 24, 017; En vigueur : 01-01-2018&gt;
+
+### Section 5. [<sup>1</sup> - Contributions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 22, 017; En vigueur : 05-04-2018&gt;
+
+##### Art. 14/13
+
+[<sup>1</sup> Une contribution, dont le redevable, le fait générateur et le montant sont fixés à l'annexe V de la présente loi, est due. L'article 14/15, alinéa 1er, s'applique mutatis mutandis à cette contribution.]<sup>1</sup>
+
+[<sup>2</sup> Les contributions prévues à l'Annexe V, Chapitre 4, sont payables à partir du septième jour après l'introduction de la demande ou de la notification via le système électronique visé à l'article 73 du règlement (UE) 2017/745 du 5 avril 2017 relatif aux dispositifs médicaux. L'AFMPS envoie une notification de paiement avec le montant à payer. Le redevable dispose d'un délai de paiement de [<sup>3</sup> 30 jours après l'envoi ]<sup>3</sup> de l'avis de paiement envoyé par l'AFMPS, conformément aux dispositions de l'article 14/18, § 1er.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 26, 017; En vigueur : 05-04-2018&gt;
+
+(2)&lt;L 2022-02-08/02, art. 9, 025; En vigueur : 19-02-2022&gt;
+
+(3)&lt;L 2026-05-30/03, art. 24, 037; En vigueur : 14-06-2026&gt;
+
+### Section 6. [<sup>1</sup> - Rétributions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 27, 017; En vigueur : 01-01-2018&gt;
+
+##### Art. 14/14
+
+[<sup>1</sup> Une rétribution, dont le redevable, le fait générateur et le montant sont fixés à l'annexe VII de la présente loi, est due.]<sup>1</sup>
+
+[<sup>2</sup> Si la rétribution a été fixée pour les PME, l'attestation visée à l'article 2/1 doit alors être transmise à l'AFMPS au plus tard au moment du fait générateur. La PME qui transmet tardivement l'attestation est réputée de plein droit être une grande entreprise pour l'application du présent article.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 28, 017; En vigueur : 05-04-2018&gt;
+
+(2)&lt;L 2019-04-07/22, art. 9, 020; En vigueur : 01-01-2018&gt;
+
+##### Art. 14/15
+
+[<sup>1</sup> Les rétributions sont payables à compter de la réception par le redevable d'un avis de paiement, émis par l'Agence. Le redevable dispose d'un délai de paiement de [<sup>2</sup> 30 jours après l'envoi ]<sup>2</sup> de l'avis de paiement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-22/06, art. 136, 031; En vigueur : 01-01-2024&gt;
+
+(2)&lt;L 2026-05-30/03, art. 24, 037; En vigueur : 14-06-2026&gt;
+
+##### Art. 14/16
+
+[<sup>1</sup> Le Roi peut modifier les montants visés à l'annexe VII et fixer des modalités relatives à la perception.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 30, 017; En vigueur : 05-04-2018&gt;
+
+### Section 7. [<sup>1</sup> - Intérêts.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 31, 017; En vigueur : 01-01-2018&gt;
+
+##### Art. 14/17
+
+[<sup>1</sup> § 1er. Un intérêt de 0,8 % par mois est dû de plein droit quand [<sup>3</sup> les impôts ou rétributions dues en application de la présente loi n'ont pas été payés dans le délai de paiement applicable]<sup>3</sup>]<sup>2</sup>.
+
+L'intérêt est calculé chaque mois sur le total [<sup>3</sup> des impôts et rétributions]<sup>3</sup> dû, arrondi au multiple de 10 euros immédiatement inférieur. Chaque période d'un mois commencée est comptée pour un mois entier.
+
+[<sup>3</sup> Les intérêts dus ne seront réclamés que lorsqu'ils atteindront au moins 2,50 euros]<sup>3</sup>.
+
+[<sup>3</sup> Lorsque l'avis de paiement, établi conformément à la présente loi, est transmis par l'intermédiaire du réseau de transmission PEPPOL, le délai de paiement visé par la présente loi et par l'alinéa 1er commence à courir le jour de la notification. Lorsque l'avis de paiement est transmis à la personne concernée par une autre moyen, le délai de paiement visé par la présente loi et par l'alinéa 1er commence à courir le troisième jour ouvrable suivant l'envoi de l'avis de paiement. Lorsque l'avis de paiement n'a pas été transmis par l'intermédiaire du réseau de transmission PEPPOL et que le redevable de l'impôt ou de la redevance démontre que, pour des raisons indépendantes de sa volonté, il n'a pu prendre connaissance de l'avis de paiement qu'à une date ultérieure, le délai prend cours à la date à laquelle il en a effectivement pris connaissance. ]<sup>3</sup>
+
+§ 2.[<sup>3</sup> ...]<sup>3</sup>
+
+§ 3. [<sup>3</sup> ...]<sup>3</sup>
+
+§ 4. Le Roi peut, quand ceci se justifie en raison des taux d'intérêts appliqués sur le marché financier, adapter [<sup>3</sup> le taux d'intérêt visé au § 1er]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 32, 017; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2019-04-07/22, art. 11, 020; En vigueur : 01-01-2018&gt;
+
+(3)&lt;L 2026-05-30/03, art. 25, 037; En vigueur : 14-06-2026&gt;
+
+### Section 8. [<sup>1</sup> - Modalités de paiement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 33, 017; En vigueur : 01-01-2018&gt;
+
+##### Art. 14/18
+
+[<sup>1</sup> § 1er. Les redevances, contributions et rétributions visées aux articles 14/2, 14/7, 14/9, 14/13 [<sup>2</sup> , 14/14 et 14/28]<sup>2</sup> sont versées par la personne soumise à déclaration sur le compte que l'Agence publie sur son site web. L'Agence y publie également les informations qui doivent être communiquées lors des virements, et ce afin de permettre le contrôle.
+
+Le Roi peut fixer les modalités des virements visés au présent article.
+
+§ 2. Sauf si la déclaration papier est imposée par ou en vertu du paragraphe 1er, les déclarations en vertu de la présente loi sont, sous peine de nullité, introduites par voie électronique conformément aux modalités fixées en vertu du paragraphe 1er.
+
+En cas de déclaration papier telle que visée à l'alinéa 1er, la déclaration est, sous peine de nullité, envoyée à l'Agence par envoi recommandé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 34, 017; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2025-07-18/06, art. 70, 035; En vigueur : 01-07-2025&gt;
+
+### Section 9. [<sup>1</sup> - Indexation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 35, 017; En vigueur : 01-01-2018&gt;
+
+##### Art. 14/19
+
+[<sup>3</sup> § 1er.]<sup>3</sup> [<sup>1</sup> Les montants visés aux articles 14/7, 14/9 [<sup>5</sup> , 14/13 et 14/28]<sup>5</sup>, la redevance forfaitaire minimale prévue visée à l'article 14/2, [<sup>4</sup> les rétributions visées à l'article 14/14, l'avance annuelle et les frais forfaitaires visés aux articles 14/26 et 14/28]<sup>4</sup>, sont adaptés [<sup>6</sup> ,de plein droit au 1er janvier de l'année à laquelle ils se rapportent, ]<sup>6</sup> chaque année à l'évolution de l'indice national des prix à la consommation, en fonction de l'indice du mois de septembre. L'indice initial est celui du mois de septembre [<sup>2</sup> 2017]<sup>2</sup>.[<sup>6</sup> ...]<sup>6</sup>.]<sup>1</sup>
+
+[<sup>6</sup> ...]<sup>6</sup>
+
+[<sup>3</sup> § 2. Par dérogation au paragraphe 1er, les montants visés au présent article sont indexés de plein droit pour le reste de l'année au cours de laquelle la contribution, redevance ou la rétribution correspondante est due pour la première fois:
+
+1° après que la contribution, redevance ou la rétribution [<sup>4</sup> ainsi que l'avance annuelle, ou les frais forfaitaires]<sup>4</sup> a été introduite ou modifiée par la loi;
+
+2° après que le montant a été adapté en vertu de l'article 14/16.
+
+[<sup>6</sup> ...]<sup>6</sup>
+
+[<sup>6</sup> § 3. L'Agence publie les montants indexés sur son site web dans un délai de 30 jours à compter du jour où l'ajustement, la modification ou l'introduction visés aux §§ 1 et 2 entre en vigueur ]<sup>6</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 36, 017; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2019-04-07/22, art. 12, 020; En vigueur : 01-01-2018&gt;
+
+(3)&lt;L 2020-12-20/09, art. 34, 021; En vigueur : 09-01-2021&gt;
+
+(4)&lt;L 2023-12-22/06, art. 137, 031; En vigueur : 01-01-2024&gt;
+
+(5)&lt;L 2025-07-18/06, art. 71, 035; En vigueur : 01-07-2025&gt;
+
+(6)&lt;L 2026-05-30/03, art. 26, 037; En vigueur : 14-06-2026&gt;
+
+### Section 10. [<sup>1</sup> - Recours administratif et recouvrement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 37, 017; En vigueur : 01-01-2018&gt;
+
+##### Art. 14/20
+
+[<sup>1</sup> § 1er. Le redevable visé aux articles 14/2, 14/7 et 14/10, ou le redevable visé à l'article 14/14 si la rétribution n'a pas été fixée sous peine d'irrecevabilité, peut introduire un recours administratif motivé, sous peine de déchéance dans les 30 jours, après la réception de l'avis de paiement. A défaut d'un recours administratif, l'impôt [<sup>3</sup> ou la rétribution ]<sup>3</sup> devient définitif.
+
+Sous peine de nullité, l'acte de recours est adressé à l'administrateur général de l'Agence et comprend :
+
+1° la signature du redevable ou, dans le cas d'une personne morale, les signatures des personnes qui représentent de droit la personne morale;
+
+2° l'indication si le redevable souhaite être entendu;
+
+et
+
+3° une copie de l'avis de paiement.
+
+L'administrateur général ou son délégué fixe le montant de l'impôt [<sup>3</sup> ou la rétribution]<sup>3</sup> dans une décision après que le redevable, s'il l'a demandé, a été entendu ou dûment convoqué. Cette décision est notifiée au redevable dans les trois mois après l'introduction du recours.
+
+A défaut de notification de décision dans les trois mois telle que visée à l'alinéa 3, le redevable peut saisir le tribunal compétent.
+
+§ 2. Si un recours administratif a été introduit conformément au paragraphe 1er, l'impôt [<sup>3</sup> ou la rétribution]<sup>3</sup> devient définitif :
+
+1° à l'échéance d'un délai de trois mois, si le redevable n'a pas introduit de recours auprès du tribunal compétent après avoir pris connaissance de la décision visée au paragraphe 1er, alinéa 3, ou à l'échéance du délai visé au paragraphe 1er, alinéa 4;
+
+ou
+
+2° si l'impôt [<sup>3</sup> ou la rétribution]<sup>3</sup> a été fixé par un jugement ou arrêté avec force de chose jugée.
+
+§ 3. La perception et le recouvrement des impôts [<sup>2</sup> et redevances devenus définitifs]<sup>2</sup> [<sup>2</sup> qu'ils soient ou non visés au paragraphe 1er,]<sup>2</sup> s'opèrent à la demande de l'Agence par l'administration chargée de la perception et du recouvrement des créances non fiscales du Service public Finances par toute voie de droit, conformément à la loi domaniale du 22 décembre 1949.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 38, 017; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2023-12-22/06, art. 138, 031; En vigueur : 01-01-2024&gt;
+
+(3)&lt;L 2026-05-30/03, art. 27, 037; En vigueur : 14-06-2026&gt;
+
+### Section 11. [<sup>1</sup> - Surveillance et dispositions pénales.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 39, 017; En vigueur : 01-01-2018&gt;
+
+##### Art. 14/21
+
+[<sup>1</sup> § 1er. Sans préjudice des compétences des officiers de police judiciaire, les agents statutaires, ou à défaut contractuels, désignés par le Roi à cette fin, recrutés au moyen d'un contrat à durée indéterminée, de l'Agence exercent la surveillance sur l'application de la présente loi et de ses arrêtés d'exécution, en effectuant, si nécessaire, des inspections inopinées.
+
+§ 2. Sans préjudice des compétences des officiers de police judiciaire, les membres du personnel statutaire ou contractuel visés au paragraphe 1er, munis de pièces justificatives de leurs fonctions peuvent, dans l'exercice de leur mission :
+
+1° visiter et fouiller, entre 5 heures du matin et 9 heures du soir, sans avertissement préalable, tous les lieux, à l'exception des lieux servant d'habitation, soumis au contrôle de l'Agence, même si ceux-ci ne sont pas accessibles au public et, de manière plus générale, tous les lieux où ils soupçonnent raisonnablement la présence de documents pertinents pour l'application de la présente loi;
+
+2° procéder à tout examen, contrôle et audition et recueillir toutes les informations qu'ils estiment nécessaires pour s'assurer que les dispositions fixées par et en vertu de la présente loi sont effectivement observées, et notamment :
+
+a) interroger toute personne dont ils estiment l'audition nécessaire, sur tout fait dont la connaissance est utile à l'exercice de la surveillance;
+
+b) prendre l'identité de toute personne dont ils estiment l'audition nécessaire pour l'exercice de la surveillance; à cet effet, ils peuvent exiger de ces personnes la présentation de documents officiels d'identité ou rechercher cette identité par d'autres moyens, y compris en faisant des photos et des prises de vues par film et vidéo;
+
+c) se faire produire, sans déplacement, pour en prendre connaissance, tous livres, registres, documents, disques, bandes ou n'importe quels autres supports d'information pouvant contenir des données dont l'établissement, la tenue ou la conservation sont prescrits par les législations dont ils exercent la surveillance et en prendre des extraits, des duplicata, des impressions, des listages, des copies ou des photocopies, ou se faire fournir ceux-ci sans frais, ou même saisir n'importe quels supports d'information visés par le présent littera contre récépissé.
+
+En cas de demande écrite d'information sur la base du présent article, le texte de l'article 14/22 est joint sous peine de nullité.
+
+§ 3. Les membres du personnel statutaire et contractuel visés au § 1er, ont le droit de [<sup>2</sup> faire toutes les constatations utiles,]<sup>2</sup> donner des avertissements et dresser des procès-verbaux.
+
+§ 4. Les membres du personnel statutaire et contractuel visés au § 1er peuvent, dans l'exercice de leur fonction, requérir l'assistance de la force publique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 40, 017; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2019-04-07/22, art. 13, 020; En vigueur : 01-01-2018&gt;
+
+##### Art. 14/22
+
+[<sup>1</sup> § 1er. Sans préjudice de l'article 14/5, l'infraction à l'obligation de déclaration telle que visée à l'article 14/4 et l'article 14/7, alinéa 2, sera punie d'un emprisonnement de huit jours à un mois et d'une amende de 100 euros à 100 000 euros ou de l'une ces peines seulement.
+
+Sans préjudice de l'article 14/5, la non-tenue d'un registre tel que visé à l'article 14/6, est punie d'un emprisonnement d'un mois à un an et d'une amende de 200 euros à 15 000 euros ou de l'une de ces peines seulement.
+
+Sont punis d'une amende de 50 euros à 500 euros :
+
+1° le non-paiement ou le non-paiement partiel d'un impôt ou d'une rétribution, visés aux articles 14/2, 14/7, 14/9, 14/13 [<sup>3</sup> , 14/14 et 14/28]<sup>3</sup>, sauf si un recours a été introduit à temps conformément à l'article 14/20;
+
+2° le non-paiement ou le non-paiement partiel d'un impôt définitif visé à l'article 14/20 ou d'une rétribution, visée aux articles 14/2, 14/7, 14/9, 14/13 et 14/14;
+
+3° le fait de ne pas répondre à une demande écrite d'informations telle que visée à l'article 14/21, alinéa 1er, 2°.
+
+§ 2. Par dérogation à l'article 29 du Code d'instruction criminelle, l'Agence propose à l'auteur présumé de l'infraction une transaction administrative dont le paiement éteint l'action publique à condition que :
+
+1° s'il s'agit d 'une infraction telle que visée au paragraphe 1er, alinéa 1er, ou au paragraphe 1er, alinéa 3, 1° ou 2° : l'impôt dû est payé dans le délai visé au paragraphe 3;
+
+2° s'il s'agit d'une infraction telle que visée au paragraphe 1er, alinéa 3, 3° : les informations demandées ont été fournies dans le délai visé au paragraphe 3.
+
+§ 3. La transaction administrative est envoyée à l'auteur de l'infraction dans les trois mois à compter de la date du procès-verbal.
+
+En cas de paiement de la transaction administrative dans le mois après l'envoi, l'Agence en informe le procureur du Roi et lui transmet le procès-verbal original et une copie de la proposition de transaction administrative. Si un recours est introduit conformément à l'article 14/20, le délai commence à courir au moment où l'impôt devient définitif tel que visé à l'article 14/20.
+
+Le paiement de la transaction administrative éteint l'action publique, sauf si le procureur du Roi notifie à l'auteur de l'infraction dans le mois à compter de la notification du paiement de la transaction administrative, qu'il entend exercer cette action publique.
+
+Si l'action publique est exercée après paiement de la transaction administrative et entraîne la condamnation de l'intéressé, le montant de la transaction administrative est alors imputé sur les frais de justice dus à l'Etat et sur l'amende prononcée. L'excédent éventuel est restitué. En cas d'acquittement, le montant de la transaction administrative est restitué.
+
+En cas de condamnation conditionnelle, le montant de la transaction administrative est restitué après déduction des frais de justice.
+
+En cas de non-paiement de la transaction administrative dans le mois de l'envoi, l'Agence en informe le procureur du Roi et lui transmet le procès-verbal original et une copie de la proposition de transaction administrative.
+
+Si l'Agence ne propose pas de transaction administrative, elle transmet le procès-verbal original au procureur du Roi dans un délai de trois mois à compter de la date du procès-verbal. Le procureur du Roi peut renvoyer le procès-verbal à l'Agence pour une proposition de transaction administrative à l'auteur présumé de l'infraction. La transaction administrative est envoyée à l'auteur de l'infraction dans les trois mois à compter du renvoi.
+
+§ 4. Le montant de la transaction administrative ne peut être inférieur au minimum ni dépasser le maximum de l'amende fixée pour l'infraction. Le montant des transactions administratives est majoré des centimes additionnels qui s'appliquent aux amendes prévues dans le Code pénal.
+
+§ 5. La personne à qui la transaction administrative est proposée peut sur demande, à l'Agence, prendre connaissance du dossier concernant l'infraction à sa charge. Cette personne peut faire parvenir par écrit ses remarques ou moyens de défense à l'Agence qui, en cas de non-paiement de la transaction administrative, les transmettra au procureur du Roi avec le procès-verbal qui constate l'infraction.
+
+§ 6. Si l'auteur présumé ne paie pas conformément au paragraphe 3, l'Agence, l'Agence transmet le dossier conformément à l'article 29 du Code d'instruction criminelle.
+
+§ 7. Le droit de proposer une transaction à l'auteur de l'infraction, dont le paiement éteint l'action publique, ne peut être exercé quand le tribunal a déjà été saisi de l'affaire ou quand le juge d'instruction est requis d'instruire.]<sup>1</sup>
+
+[<sup>2</sup> § 8. Par dérogation aux dispositions des paragraphes 1er à 7, le ministre ou son délégué ou l'AFMPS peut, le cas échéant, suspendre, en tout ou en partie, la prestation de services [<sup>4</sup> au redevable, ainsi qu'aux personnes liées au sens de l'article 1:20, 2° du Code des sociétés et associations, ]<sup>4</sup> en cas de non-paiement des impôts, contributions ou rétributions visés par la présente loi, jusqu'au paiement intégral des montants dus.
+
+Dans le cas visé à l'alinéa 1er, le ministre ou son délégué ou, le cas échéant, l'AFMPS, peut refuser de délivrer les certificats, autorisations, avis ou déclarations ou d'effectuer les enregistrements visés dans les législations énumérées à l'article 4, § 1er, alinéa 3, 6°, a).]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 41, 017; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2023-12-22/06, art. 139, 031; En vigueur : 06-02-2024&gt;
+
+(3)&lt;L 2025-07-18/06, art. 72, 035; En vigueur : 01-07-2025&gt;
+
+(4)&lt;L 2026-05-30/03, art. 28, 037; En vigueur : 14-06-2026&gt;
+
+##### Art. 14/23
+
+[<sup>1</sup> Toutes les dispositions du Livre 1 du Code pénal, sauf le chapitre V, s'appliquent aux infractions visées dans la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 42, 017; En vigueur : 01-01-2018&gt;
+
+##### Art. 14/23/1
+
+[<sup>1</sup> L'Agence traite des données à caractère personnel nécessaires pour:
+
+1° octroyer des autorisations, agréments ou des certificats, conformément à la présente loi et à ses arrêtés d'exécution;
+
+2° assurer la surveillance de la présente loi et de ses arrêtés d'exécution.
+
+Le traitement visé à l'alinéa 1er est réalisé suivant les dispositions du Chapitre IV/3, de la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 24, 032; En vigueur : 27-05-2024&gt;
+
+### Section 12. [<sup>1</sup> - Prescription.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 43, 017; En vigueur : 01-01-2018&gt;
+
+##### Art. 14/24
+
+[<sup>1</sup> Les [<sup>3</sup> impôts et rétributions]<sup>3</sup> fixés par et en vertu de la présente loi se prescrivent par l'écoulement de cinq années à partir de la date à laquelle ils doivent être payés sauf si un recours a été introduit conformément à l'article 14/20, auquel cas les [<sup>3</sup> impôts et rétributions]<sup>3</sup> se prescrivent par l'écoulement de cinq années à partir de la date à laquelle ils sont devenus définitifs.]<sup>1</sup>
+
+[<sup>2</sup> Le délais visés à l'alinéa 1er sont [<sup>4</sup> ...]<sup>4</sup>:
+
+1° [<sup>4</sup> selon le cas, interrompus ou suspendus]<sup>4</sup> dans les formes et conditions prévues par les articles 2244, § 1er, 2247 jusqu'à 2251 inclus, et 2257 de l'Ancien Code civil;
+
+2° [<sup>4</sup> interrompus ]<sup>4</sup> par l'envoi d'une demande de paiement par lettre recommandée avec accusé de réception, accompagnée d'un relevé des montants dus et des faits et fondements juridiques à l'origine de ces dettes.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 44, 017; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2023-12-22/06, art. 140, 031; En vigueur : 01-01-2024&gt;
+
+(3)&lt;L 2025-07-18/06, art. 73, 035; En vigueur : 01-07-2025&gt;
+
+(4)&lt;L 2026-05-30/03, art. 29, 037; En vigueur : 14-06-2026&gt;
+
+##### Art. 14/25
+
+[<sup>1</sup> Si le redevable ne respecte pas ses obligations de déclaration en contravention des articles 14/4 ou 14/7, l'Agence peut fixer l'impôt conformément aux articles 14/5 ou 14/7, alinéa 2, pour au maximum cinq ans pendant lesquels l'impôt a été éludé et précédant l'année de la fixation.
+
+L'article 14/24 s'applique au recouvrement de l'impôt qui est fixé pour les années précédentes en vertu de l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 45, 017; En vigueur : 01-01-2018&gt;
+
+### Section 13. [<sup>1</sup> - Financement des activités relatives aux essais cliniques.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-22/06, art. 141, 031; En vigueur : 01-01-2024&gt;
+
+##### Art. 14/26
+
+[<sup>1</sup> Sans préjudice des dispositions de la présente loi, le financement des activités exercées par l'Agence fédérale des Médicaments et des Produits de Santé en vertu de l'article 34/1 de la loi du 7 mai 2004 relative aux expérimentations sur la personne humaine et en vertu de la loi du 7 mai 2017 relative aux essais cliniques de médicaments à usage humain est pris en charge par l'Etat.
+
+Pour le financement des activités visées par l'alinéa 1er, l'AFMPS reçoit chaque année une avance sur les crédits visés à l'article 13, 1°. Le montant de l'avance est fixé à l'Annexe X.
+
+Pour l'application de l'alinéa 1er, des frais forfaitaires par type de dossier sont fixés sur les crédits visés à l'article 13, 1° dans l'Annexe X.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-22/06, art. 142, 031; En vigueur : 01-01-2024&gt;
+
+##### Art. 14/27
+
+[<sup>1</sup> Si, à la clôture de l'exercice budgétaire concerné, les moyens versés conformément à l'article 14/26, s'avèrent trop élevés, la différence est reversée au Trésor. Le montant de la différence, qui est reversé au Trésor, est égal à l'avance visée à l'article 14/26 diminué du montant total des frais forfaitaires de financement des activités exercées par l'AFMPS en vertu des articles 34/1 de la loi du 7 mai 2004 relative aux expérimentations sur la personne humaine et en vertu de la loi du 7 mai 2017 relative aux essais cliniques de médicaments à usage humain tels que déterminés sur la base de l'article 14/26, alinéa 2.
+
+Si la somme des montants du financement des activités exercées par l'AFMPS en vertu des mêmes articles dépasse le montant de l'avance visée à l'article 14/26, le montant de ce dépassement est octroyé, via les crédits visés à l'article 13, 1° de la loi du 20 juillet 2006 relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-22/06, art. 143, 031; En vigueur : 01-01-2024&gt;
+
+##### Art. 14/28
+
+[<sup>1</sup> Afin de financer la subvention visée à l'article 47/2 de la loi du 7 mai 2017 relative aux essais cliniques de médicaments à usage humain, une contribution, telle que fixée à l'annexe X, chapitre 3, est imposée à chaque promoteur d'un essai clinique commercial.
+
+Le montant de la contribution est fixé en fonction du type de demande.
+
+Les contributions fixées à l'annexe X, chapitre 3, sont payables à partir du septième jour après l'introduction de la demande qui constitue le fait générateur, tel que décrit à l'annexe X, chapitre 3. Le contribuable dispose d'un délai de paiement de [<sup>2</sup> ...]<sup>2</sup> de l'avis de paiement envoyé par l'Agence.
+
+Les contributions reçues sur la base du présent article sont accordées aux comités d'éthiques, en forme de subvention visée à l'alinéa 1er.
+
+Le Roi peut également affecter les contributions visées au présent article au financement des activités des comités d'éthique, visés à l'article 11 de la loi du 7 mai 2004 relative aux expérimentations sur la personne humaine. Dans ce cas, le Roi fixe le montant de la subvention et les modalités de paiement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/06, art. 74, 035; En vigueur : 01-07-2025&gt;
+
+(2)&lt;L 2026-05-30/03, art. 30, 037; En vigueur : 14-06-2026&gt;
+
+## CHAPITRE VI. - Dispositions modificatives et abrogatoires.
+
+##### Art. 15
+
+A l'article 1er de la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public, sont insérés dans l'ordre alphabétique, dans la catégorie A, les mots " Agence fédérale des médicaments et des produits de santé ".
+
+##### Art. 16
+
+L'article 1er, 3°, de la loi du 22 juillet 1993 portant certaines mesures en matière de fonction publique, modifié par les lois des 24 décembre 2002, 7 janvier 2003, 27 février 2003, 3 avril 2003, 27 décembre 2004 et 12 janvier 2006, est complété comme suit : " Agence fédérale des médicaments et des produits de santé ".
+
+##### Art. 17
+
+Dans le tableau annexé à la loi organique du 27 décembre 1990 créant des fonds budgétaires, modifié pour la dernière fois par la loi du 27 décembre 2005, la sous rubrique 25-3 " Fonds des médicaments " est abrogée.
+
+## CHAPITRE VII. - Dispositions transitoires, finales et d'entrée en vigueur.
+
+### Section première. - Dispositions transitoires.
+
+##### Art. 18
+
+Tant que l'arrêté royal prévu à l'article 8, § 1er, alinéa 1er, n'est pas entré en vigueur, la sélection et la désignation de l'administrateur général sont réalisées selon les modalités suivantes :
+
+Pour participer à la sélection comparative pour la fonction d'administrateur général, les candidats doivent être titulaires d'une fonction de niveau A ou pouvoir participer à une sélection comparative pour une fonction de niveau A dans un service public fédéral.
+
+Les candidats à la fonction d'administrateur général doivent posséder une expérience de management d'au moins six ans ou avoir une expérience professionnelle utile d'au moins dix ans. Par expérience de management, il y a lieu d'entendre une expérience en gestion au sein d'un service public ou d'une organisation du secteur privé.
+
+Les candidats à la fonction d'administrateur général doivent avoir les compétences et les aptitudes relationnelles, d'organisation et de gestion fixées dans la description de fonction et le profil de compétence afférents à la fonction de management à conférer.
+
+La description de la fonction et le profil de compétence de la fonction d'administrateur général sont détermines par le ministre.
+
+Les candidatures sont introduites auprès de SELOR - Bureau de sélection de l'Administration fédérale - qui en examine la recevabilité au regard des conditions générales et particulières d'admissibilité.
+
+Les candidatures déclarées recevables par SELOR - Bureau de sélection de l'Administration fédérale - sont transmises à la commission de sélection.
+
+Les candidats dont la candidature a été déclarée recevable présentent, devant la commission de sélection, une épreuve orale au départ d'un cas pratique ayant trait à la fonction de management à pourvoir.
+
+Cette épreuve a pour but d'évaluer tant les compétences spécifiques à la fonction à exercer que les aptitudes requises à l'exercice d'une fonction de management.
+
+Au terme des tests et de la comparaison des titres et mérites des candidats, les candidats à la fonction d'administrateur général sont inscrits dans le groupe " apte " ou dans le groupe " non apte ". Cette inscription est motivée.
+
+Dans le groupe " apte ", les candidats font l'objet d'un classement.
+
+La commission de sélection se compose :
+
+1° de l'administrateur délégué de SELOR - Bureau de sélection de l'Administration fédérale - ou de son délégué, président;
+
+2° d'un expert externe en management;
+
+3° d'un expert externe en gestion des ressources humaines;
+
+4° de deux experts externes ayant une expérience ou une connaissance particulière des matières spécifiques à la fonction à pourvoir;
+
+5° de deux agents issus d'un service public fédéral ou d'un service public fédéral de programmation, d'un ministère fédéral, d'une institution publique de sécurité sociale, d'un établissement scientifique fédéral, d'un organisme d'intérêt public fédéral ou, des services des Gouvernements de Région ou de Communauté ou des Collèges des Commissions communautaires, exerçant des fonctions au moins équivalentes à la fonction de management à pourvoir;
+
+6° d'un suppléant pour chacun des membres visés sous 2° à 5°. Ceux-ci sont désignés en même temps que les membres effectifs.
+
+La parité linguistique est assurée au sein de chacune des catégories de membres effectifs et suppléants de la commission de sélection visée à l'alinéa 9. Le membre effectif visé à l'alinéa 9, 2°, ainsi que son suppléant sont de l'autre appartenance linguistique que celle du membre effectif visé à l'alinéa 9, 3°, et de son suppléant. L'appartenance linguistique est déterminée, pour ce qui concerne les membres visés à l'alinéa 9, 2°, 3° et 4°, et leurs suppléants, par la langue du certificat ou du diplôme sanctionnant la réussite des études prises en compte pour l'appréciation de la compétence nécessaire à la mission d'expertise. Pour les membres visés à l'alinéa 9, 5°, et leurs suppléants, l'appartenance linguistique est déterminée par le rôle linguistique de l'agent ou en application des articles 35 à 41 de la loi ordinaire du 9 août 1980 de réformes institutionnelles.
+
+Les profils des membres effectifs de la commission de sélection visés à l'alinéa 9, 2°, 3°, 4° et 5°, ainsi que ceux de leurs suppléants, sont déterminés par SELOR - Bureau de sélection de l'Administration fédérale - en concertation avec le ministre.
+
+Lorsqu'une fonction de management est ouverte à des candidats des deux rôles linguistiques, le président de la commission de sélection doit soit avoir prouvé la connaissance de la seconde langue conformément à l'article 43, § 3, alinéa 3, des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966 soit être assisté d'un agent qui a prouvé cette connaissance.
+
+Lorsqu'une fonction de management n'est ouverte qu'à des candidats d'un seul rôle linguistique, ou lorsqu'il ne reste que des candidats d'un rôle linguistique à l'issue de l'examen de recevabilité des candidatures par SELOR - Bureau de sélection de l'Administration fédérale -, la commission de sélection est composée d'un seul représentant par catégorie de membres visés à l'alinéa 9, 2°, 3°, 4° et 5°. Ils sont du même rôle ou de la même appartenance linguistique que celui des candidats.
+
+Le président de la commission de sélection ne doit pas, s'il est de ce rôle ou de cette appartenance linguistique, se faire assister par un agent visé à l'alinéa 12.
+
+L'administrateur délégué du SELOR - Bureau de sélection de l'Administration fédérale - communique la composition de la commission de sélection, en ce compris les suppléants, au ministre qui a la Fonction publique dans ses attributions. Celui-ci informe sans délai les membres du gouvernement qui disposent d'un délai de sept jours ouvrables pour lui transmettre leurs objections. Dans ce cas, le ministre qui a la Fonction publique dans ses attributions soumet un dossier complet, pour décision, au Conseil des ministres, après en avoir transmis une copie au membre du gouvernement concerné.
+
+Si le Conseil des ministres, sur base du dossier soumis par le ministre qui a la Fonction publique dans ses attributions, récuse un membre de la commission de sélection, SELOR - Bureau de sélection de l'Administration fédérale - désigne un autre membre; en ce cas, l'alinéa 1er est applicable.
+
+La commission de sélection ne peut valablement procéder à l'audition des candidats et à la délibération que pour autant que la majorité des membres soit présente, que deux d'entre eux au moins soient du rôle linguistique du candidat et que chaque catégorie de membres visés à l'alinéa 9, 2° à 5°, soit représentée.
+
+Seuls les membres de la commission qui ont procédé à l'audition de tous les candidats peuvent prendre part à la délibération en vue de l'inscription desdits candidates en groupes " apte " et " non apte ". Aucun membre ne peut s'abstenir.
+
+En cas de partage des voix, le président décide.
+
+Les candidats sont informés de leur inscription dans le groupe " apte " ou " non apte " dans les quinze jours ouvrables qui suivent la délibération de la commission de sélection.
+
+SELOR - Bureau de sélection de l'Administration fédérale - communique le résultat de la procédure de sélection au ministre.
+
+Un entretien complémentaire est prévu avec les candidates du groupe " apte " afin de les comparer quant à leurs compétences spécifiques, leurs aptitudes relationnelles et leurs capacités à diriger par rapport à la description de fonction et au profil de compétences afférents à la fonction de management à pourvoir. Cet entretien est mené par le ministre.
+
+Un rapport de chaque entretien est rédigé et joint au dossier de désignation.
+
+Le candidat choisi est désigné pour une période de six ans par le Roi par arrêté délibéré en Conseil des ministres, sur proposition du ministre.
+
+##### Art. 19
+
+§ 1er. A partir du 1er janvier 2007, le Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement est déchargé des missions qui sont désormais confiées à l'Agence.
+
+§ 2. Dès le 1er janvier 2007, l'Agence reprend la gestion de tous les dossiers qui relèvent de sa compétence et qui ont été introduits auprès du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement. L'Agence en poursuit l'instruction. Les délais prévus par les procédures introduites auprès du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement restent inchangés.
+
+Il en va de même pour tous les dossiers qui, après le 1er janvier 2007, ont été erronément introduits auprès du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement, et ce pendant une période de 60 jours prenant cours le jour qui suit le 1er janvier 2007. Au-delà de cette période, la demande est renvoyée au demandeur et est considérée comme non introduite.
+
+§ 3. Lors de sa création, les biens mobiliers appartenant et/ou mis à disposition de la Direction générale Médicaments du SPF Santé Publique, Sécurité de la Chaîne alimentaire et Environnement, sont transférés à l'Agence à titre gratuit.
+
+§ 4. L'Agence succède aux droits et obligations de la Direction générale Médicaments et du Fonds des Médicaments, tel que défini dans le tableau annexé à la loi organique du 27 décembre 1990 créant des fonds budgétaires, en ce compris ses réserves telles que constatées au 31 décembre 2006.
+
+(L'Agence reprend également les droits et les obligations de la Direction générale Médicaments, y compris les réserves telles que constatées au 31 décembre 2006 des comptes visés à l'article 225 de la loi du 12 août 2000 portant des dispositions sociales, budgétaires et diverses et à l'article 30 de la loi du 7 mai 2004 relative aux expérimentations sur la personne humaine.) &lt;L 2006-12-27/32, art. 234, 003; En vigueur : 07-01-2007&gt;
+
+##### Art. 20
+
+En vue de l'exercice des missions attribuées à l'Agence, les membres du personnel - statutaires et contractuels - de la Direction générale Médicaments du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement sont transférés d'office à l'Agence.
+
+Pour les fonctions de soutien, les candidats sont sélectionnés à la suite d'un appel au sein des fonctions de soutien du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement et à la suite d'une procédure de sélection organisée par le SELOR ou son délégué.
+
+Les membres du personnel transférés à l'Agence le seront avec maintien de leur traitement et de leur ancienneté.
+
+##### Art. 21
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, abroger, compléter, modifier, remplacer et coordonner les dispositions légales visées à l'article 4, alinéa 2, 6°, (...) afin de réaliser le transfert de compétences, rendre l'Agence opérationnelle, éviter des conflits de compétences et garantir l'utilisation optimale des moyens disponibles. &lt;L 2006-12-27/32, art. 235, 003; En vigueur : 07-01-2007&gt;
+
+Les arrêtés royaux pris en exécution de l'alinéa 1er, sont abrogés de plein droit lorsqu'ils n'ont pas été confirmés par le législateur au plus tard dix-huit mois après le 1er janvier 2007.
+
+### Section 2. - Dispositions finales et entrée en vigueur.
+
+##### Art. 22
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, les règles relatives à l'organisation et au fonctionnement de l'Agence, pour autant que cela n'ait pas été réglé dans la loi du 16 mars 1954 relative au contrôle de certains organismes d'intérêt public ou dans la présente loi. [<sup>1</sup> Cependant, l'article 16, § 1er, de l'arrêté royal du 8 janvier 1973 fixant le statut du personnel de certains organismes d'intérêt public n'est pas d'application en ce qui concerne l'Agence fédérale des Médicaments et des Produits de Santé.]<sup>1</sup>
+
+L'Agence a son siège social à Bruxelles. Le Roi précise le lieu d'établissement.
+
+----------
+
+(1)&lt;L 2009-12-10/35, art. 20, 008; En vigueur : 10-01-2010&gt;
+
+##### Art. 23
+
+La présente loi entre en vigueur le 1er janvier 2007.
+
+Toutefois, les articles (3, 8, 15, 18, 20 (, alinéas 2 et 3,) et 23) entrent en vigueur le jour de la publication de la présente loi au Moniteur belge. &lt;Erratum, voir M.B. 06-10-2006, p. 53564&gt; &lt;AR 2006-09-24/30, art. 1, 002; En vigueur : 01-01-2007&gt; (NOTE : la L 2006-12-27/32, art. 236, dispose, avec effet au 08-09-2006, que, dans le présent article 23, les mots ", alinéas 2 et 3," sont insérés entre les mots "20" et "entrent".)
+
+##### Art. 24
+
+[<sup>1</sup> A l'article 4/2, les paragraphes 3 et 4 cessent d'être en vigueur à une date fixée par le Roi, et au plus tard le 31 décembre 2025.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-02-08/02, art. 10, 025; En vigueur : 18-02-2022&gt;
+
+### Annexe.
+
+### N. [<sup>2</sup> Annexes 1 à 8.]<sup>2</sup>
+
+[<sup>2</sup> (Image non reprise pour des raisons techniques, voir M.B. du 20-05-2019, p. 47874-47960)]<sup>2</sup>
+
+Modifiées par:
+
+&lt;L 2019-04-07/22, art. 14, 020; En vigueur : 01-01-2018&gt;
+
+&lt;L 2019-04-07/22, art. 15-19, 020; En vigueur : 01-01-2020&gt;
+
+&lt;L 2019-04-07/22, art. 20, 020; En vigueur : 30-05-2019&gt;
+
+&lt;L 2020-12-20/09, art. 35, 021; En vigueur : 09-01-2021&gt;
+
+&lt;L 2020-12-20/09, art. 36, 021; En vigueur : 09-01-2021&gt;
+
+&lt;L 2020-12-22/40, art. 109, 022; En vigueur : 26-05-2021&gt;
+
+&lt;L 2021-05-09/07, art. 6, 023; En vigueur : 26-05-2021&gt;
+
+&lt;L 2021-07-19/02, art. 2-4, 024; En vigueur : 23-07-2021&gt;
+
+&lt;L 2022-02-08/02, art. 11-36, 025; En vigueur : 18-02-2022; 31-01-2022; 01-01-2023; 01-01-2024&gt;
+
+&lt;L 2022-12-26/01, art. 84-90, 029; En vigueur : 01-01-2023&gt;
+
+&lt;L 2023-12-22/06, art. 144,1°,2°; 149,1°,2°, 031; En vigueur : 06-02-2024&gt;
+
+&lt;L 2023-12-22/06, art. 145-1488, 031; En vigueur : 01-01-2024&gt;
+
+&lt;L 2023-12-22/06, art. 144,3°; 145,2°,4°,5°,7°,9°; 146,3°, 031; En vigueur : 01-01-2025&gt;
+
+&lt;L 2024-05-18/13, art. 28, 034; En vigueur : 01-01-2025&gt;
+
+&lt;L 2026-05-30/01, art. 92, 036; En vigueur : 11-06-2026&gt;
+
+&lt;L 2026-05-30/01, art. 93, 036; En vigueur : 11-06-2026&gt;
+
+&lt;L 2026-05-30/01, art. 94, 036; En vigueur : 11-06-2026&gt;
+
+&lt;L 2026-05-30/01, art. 95, 036; En vigueur : 11-06-2026&gt;
+
+&lt;L 2026-05-30/01, art. 96, 036; En vigueur : 11-06-2026&gt;
+
+&lt;L 2026-05-30/01, art. 97, 036; En vigueur : 11-06-2026&gt;
+
+----------
+
+(1)&lt;Inséré par L 2018-03-11/08, art. 46-52, 017; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2019-04-07/22, art. 21, 020; En vigueur : 30-05-2019&gt;
+
+### N9. [<sup>1</sup> Annexe IX. - Impôt d'activité
+
+Aux fins de l'article 14/9 de la présente loi, on entend par " entité " l'expression de la charge de travail de l'AFMPS pour la surveillance du marché, basée sur une analyse de risque de la ou des activité(s) exercée(s)
+
+Chapitre 1. - Redevable et activité soumise à contribution
+
+<table><tr><td>Annexe </td><td>Redevable </td><td>Activité soumise à contribution </td></tr><tr><td>IX.1.1. </td><td>Le mandataire visé à l'article 2, 32) du Règlement (UE) 2017/745 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE ou l'article 2, 25) du Règlement (UE) 2017/746 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission </td><td>L'exercice de l'activité de mandataire visé à l'article 2, 32) du Règlement (UE) 2017/745 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE ou l'article 11 du Règlement (UE) 2017/746 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission </td></tr><tr><td>IX.1.2. </td><td>Le distributeur visé à l'article 2, 34) du Règlement (UE) 2017/745 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE ou l'article 2, 27) du Règlement (UE) 2017/746 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission </td><td>La mise à disposition sur le marché, jusqu'au stade de sa mise en service, d'un dispositif médical en qualité de distributeur </td></tr><tr><td>IX.1.3. </td><td>L'importateur visé à l'article 2, 33) du Règlement (UE) 2017/745 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE ou l'article 2, 26) du Règlement (UE) 2017/746 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission </td><td>La mise sur le marché de dispositifs médicaux en provenance de pays tiers </td></tr><tr><td>IX.1.4. </td><td>Le fabricant visé à l'article 2, 30) du Règlement (UE) 2017/745 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE ou l'article 2, 23) du Règlement (UE) 2017/746 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission </td><td>La fabrication, la remise à neuf d'un dispositif médical, ou le fait de faire concevoir, fabriquer ou remettre à neuf un dispositif médical, et le commercialiser sous son nom ou sous sa marque </td></tr><tr><td>IX.1.5. </td><td>Le fabricant visé à l'article 2, 30) du Règlement (UE) 2017/745 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE </td><td>La fabrication, la remise à neuf d'un dispositif médical, ou le fait de faire concevoir, fabriquer ou remettre à neuf un dispositif médical, et le commercialiser sous son nom ou sous sa marque, quand il s'agit d'un dispositif sur mesure visé à l'article 2, 3) du Règlement (UE) 2017/745 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE </td></tr><tr><td>IX.1.6. </td><td>Les personnes physiques ou morales visés à l'article 22 du Règlement (UE) 2017/745 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE </td><td>La mise sur le marché d'un système ou d'un nécessaire tel que visé à l'article 22, paragraphes 1er et/ou 3, du Règlement (UE) 2017/745 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE </td></tr><tr><td>IX.1.7. </td><td>L'entreprise visée à l'article 59 de la loi du 15 décembre 2013 en matière de dispositifs médicaux </td><td>L'installation et/ou la maintenance de dispositifs médicaux dans le cadre d'un traitement médical d'un patient en dehors d'un hôpital</td></tr></table>
+
+Chapitre 2. - Catégories au sein d'une activité soumise à contribution
+
+<table><tr><td>Annexe</td><td>Catégories au sein d'une activité soumise à contribution</td></tr><tr><td>IX.2.1.</td><td>Dispositif médical implantable actif visé à l'article 1, alinéa 2, c) du Directive 90/385/CEE du Conseil, du 20 juin 1990, concernant le rapprochement des législations des Etats membres relatives aux dispositifs médicaux implantables actifs</td></tr><tr><td>IX.2.2.</td><td>Dispositif médical de diagnostic in vitro visé à la liste A de l'annexe II de la Directive 98/79/CE du Parlement européen et du Conseil du 27 octobre 1998 relative aux dispositifs médicaux de diagnostic in vitro</td></tr><tr><td>IX.2.3.</td><td>Dispositif médical de diagnostic in vitro visé à la liste B de l'annexe II de la Directive 98/79/CE du Parlement européen et du Conseil du 27 octobre 1998 relative aux dispositifs médicaux de diagnostic in vitro</td></tr><tr><td>IX.2.4.</td><td>Autre dispositif médical de diagnostic in vitro que ceux visés à l'annexe II de la Directive 98/79/CE du Parlement européen et du Conseil du 27 octobre 1998 relative aux dispositifs médicaux de diagnostic in vitro</td></tr><tr><td>IX.2.5.</td><td>Dispositif destiné à des autodiagnostics visé à l'article 1, alinéa 2, d) de la Directive 98/79/CE du Parlement européen et du Conseil du 27 octobre 1998 relative aux dispositifs médicaux de diagnostic in vitro</td></tr><tr><td>IX.2.6.</td><td>Dispositif médical de diagnostic in vitro de classe A conformément à l'article 47, paragraphe 1er du Règlement (UE) 2017/746 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission</td></tr><tr><td>IX.2.7.</td><td>Dispositif médical de diagnostic in vitro de classe B conformément à l'article 47, paragraphe 1er du Règlement (UE) 2017/746 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission</td></tr><tr><td>IX.2.8.</td><td>Dispositif médical de diagnostic in vitro de classe C conformément à l'article 47, paragraphe 1er du Règlement (UE) 2017/746 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission</td></tr><tr><td>IX.2.9.</td><td>Dispositif médical de diagnostic in vitro de classe D conformément à l'article 47, paragraphe 1er du Règlement (UE) 2017/746 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission</td></tr><tr><td>IX.2.10.</td><td>Dispositif médical de classe I conformément à l'article 9 de la Directive 93/42/CEE du Conseil du 14 juin 1993 relative aux dispositifs médicaux</td></tr><tr><td>IX.2.11.</td><td>Dispositif médical de classe IIa conformément à l'article 9 de la Directive 93/42/CEE du Conseil du 14 juin 1993 relative aux dispositifs médicaux</td></tr><tr><td>IX.2.12.</td><td>Dispositif médical de classe IIb conformément à l'article 9 de la Directive 93/42/CEE du Conseil du 14 juin 1993 relative aux dispositifs médicaux</td></tr><tr><td>IX.2.13.</td><td>Dispositif médical de classe III conformément à l'article 9 de la Directive 93/42/CEE du Conseil du 14 juin 1993 relative aux dispositifs médicaux</td></tr><tr><td>IX.2.14.</td><td>Dispositif médical de classe I conformément à l'article 9 de la Directive 93/42/CEE du Conseil du 14 juin 1993 relative aux dispositifs médicaux, mis sur le marché à l'état stérile et/ou ayant une fonction de mesurage</td></tr><tr><td>IX.2.15.</td><td>Dispositif médical de classe I conformément à l'article 51, paragraphe 1er, du Règlement (UE) 2017/745 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE</td></tr><tr><td>IX.2.16.</td><td>Dispositif médical de classe IIa conformément à l'article 51, paragraphe 1er , du Règlement (UE) 2017/745 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE</td></tr><tr><td>IX.2.17.</td><td>Dispositif médical de classe IIb conformément à l'article 51, paragraphe 1er, du Règlement (UE) 2017/745 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE</td></tr><tr><td>IX.2.18.</td><td>Dispositif médical de classe III conformément à l'article 51, paragraphe 1er, du Règlement (UE) 2017/745 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE</td></tr><tr><td>IX.2.19.</td><td>Dispositif médical de classe I conformément à l'article 51, paragraphe 1er, du Règlement (UE) 2017/745 du 5 avril 2017 du Parlement européen et du Conseil relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE, mis sur le marché à l'état stérile et/ou ayant une fonction de mesurage [<sup><font>1</font></sup> et/ou qui est un instrument chirurgical réutilisable]<sup><font>1</font></sup></td></tr><tr><td colspan="2">(<font>1</font>)&lt;L <a>2023-12-22/06</a>, art. 149, 031; En vigueur : 01-01-2024&gt; </td></tr></table>
+
+Chapitre 3. - Entités par activité soumise à contribution
+
+<table><tr><td colspan="5">Activité </td><td colspan="4">Contribution </td></tr><tr><td colspan="5">IX.3.1. Redevables dans le cadre des dispositifs médicaux, visés au chapitre 1er </td><td colspan="4">308,10 EUR / entité </td></tr><tr><td><br>   </td><td colspan="8">Activité soumise à contribution </td></tr><tr><td> </td><td> </td><td>IX.1.1. </td><td>IX.1.2. </td><td>IX.1.3. </td><td>IX.1.4. </td><td>IX.1.5. </td><td>IX.1.6. </td><td>IX.1.7. </td></tr><tr><td>Catégorie de l'activité soumise à contribution<br>   </td><td>IX.2.1. </td><td>6 </td><td>1 </td><td>3 </td><td>8 </td><td>8 </td><td> </td><td>2 </td></tr><tr><td> </td><td>IX.2.2. </td><td>6 </td><td>1 </td><td>3 </td><td>8 </td><td> </td><td> </td><td>2<br>   </td></tr><tr><td> </td><td>IX.2.3. </td><td>2 </td><td>1 </td><td>3 </td><td>4 </td><td> </td><td> </td><td>2<br>   </td></tr><tr><td> </td><td>IX.2.4. </td><td>3 </td><td>1 </td><td>3 </td><td>5 </td><td> </td><td> </td><td>2<br>   </td></tr><tr><td> </td><td>IX.2.5. </td><td>4 </td><td>1 </td><td>3 </td><td>6 </td><td> </td><td> </td><td>2<br>   </td></tr><tr><td> </td><td>IX.2.6. </td><td>3 </td><td>1 </td><td>3 </td><td>5 </td><td> </td><td> </td><td>2<br>   </td></tr><tr><td> </td><td>IX.2.7. </td><td>2 </td><td>1 </td><td>3 </td><td>4 </td><td> </td><td> </td><td>2<br>   </td></tr><tr><td> </td><td>IX.2.8. </td><td>4 </td><td>1 </td><td>3 </td><td>6 </td><td> </td><td> </td><td>2<br>   </td></tr><tr><td> </td><td>IX.2.9. </td><td>6 </td><td>1 </td><td>3 </td><td>8 </td><td> </td><td> </td><td>2<br>   </td></tr><tr><td> </td><td>IX.2.10. </td><td>3 </td><td>1 </td><td>3 </td><td>5 </td><td>5 </td><td>4 </td><td>2<br>   </td></tr><tr><td> </td><td>IX.2.11. </td><td>2 </td><td>1 </td><td>3 </td><td>4 </td><td>4 </td><td>4 </td><td>2<br>   </td></tr><tr><td> </td><td>IX.2.12. </td><td>4 </td><td>1 </td><td>3 </td><td>6 </td><td>6 </td><td>4 </td><td>2<br>   </td></tr><tr><td> </td><td>IX.2.13. </td><td>6 </td><td>1 </td><td>3 </td><td>8 </td><td>8 </td><td>4 </td><td>2<br>   </td></tr><tr><td> </td><td>IX.2.14. </td><td>3 </td><td>1 </td><td>3 </td><td>5 </td><td>5 </td><td>4 </td><td>2<br>   </td></tr><tr><td> </td><td>IX.2.15. </td><td>3 </td><td>1 </td><td>3 </td><td>5 </td><td>5 </td><td>4 </td><td>2<br>   </td></tr><tr><td> </td><td>IX.2.16. </td><td>2 </td><td>1 </td><td>3 </td><td>4 </td><td>4 </td><td>4 </td><td>2<br>   </td></tr><tr><td> </td><td>IX.2.17. </td><td>4 </td><td>1 </td><td>3 </td><td>6 </td><td>6 </td><td>4 </td><td>2<br>   </td></tr><tr><td> </td><td>IX.2.18. </td><td>6 </td><td>1 </td><td>3 </td><td>8 </td><td>8 </td><td>4 </td><td>2<br>   </td></tr><tr><td> </td><td>IX.2.19. </td><td>3 </td><td>1 </td><td>3 </td><td>5 </td><td>5 </td><td>4 </td><td>2<br>   </td></tr><tr><td>Elément impliquant une modification du nombre d'entité </td><td colspan="8">Modification </td></tr><tr><td>Le redevable n'est pas établi en Belgique </td><td colspan="8">Réduction de 1 entité </td></tr><tr><td>Le distributeur applique le système d'autocontrôle visé aux articles 61 et 62 de la loi du 15 décembre 2013 en matière de dispositifs médicaux </td><td colspan="8">Réduction de 1 entité</td></tr></table>
+
+]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-12-26/01, art. 91, 029; En vigueur : 01-01-2023&gt;
+
+Modifie par :
+
+&lt;L 2026-05-30/01, art. 98, 036; En vigueur : 11-06-2026&gt;
+
+### N10. [<sup>1</sup> annexe X]<sup>1</sup>
+
+(Image non reprise pour des raisons techniques, voir M.B. du 29-12-2023, p. 124044)
+
+Modifié par :
+
+&lt;L 2025-07-18/06, art. 75, 035; En vigueur : 01-07-2025&gt;
+
+&lt;L 2026-05-30/01, art. 99, 036; En vigueur : 11-06-2026&gt;
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 20 juillet 2006.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires sociales et de la Santé publique,
+
+R. DEMOTTE
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

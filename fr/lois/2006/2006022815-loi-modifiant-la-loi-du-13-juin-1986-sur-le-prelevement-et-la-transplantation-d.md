@@ -1,0 +1,59 @@
+---
+title: "Loi modifiant la loi du 13 juin 1986 sur le prélèvement et la transplantation d'organes."
+identifier: "2006022815"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/14/2006022815/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2006-06-14
+published: 2006-08-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2006/06/14/2006022815/justel"
+department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
+retrieved: 2026-10-11
+---
+
+# 14 JUIN 2006. - Loi modifiant la loi du 13 juin 1986 sur le prélèvement et la transplantation d'organes.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Dans l'article 10 de la loi du 13 juin 1986 sur le prélèvement et la transplantation d'organes, modifié par les lois du 17 février 1987 et du 22 décembre 2003, il est inséré un § 3bis, rédigé comme suit : " § 3bis. L'opposition ou le consentement au prélèvement acté par les services du Registre national à la demande des proches cesse de produire ses effets lorsque la personne visée au § 2, alinéas 2 et 3, atteint l'âge de la majorité. La personne concernée est informée de cette annulation conformément aux modalités fixées par le Roi. Le Roi l'invite, si elle le souhaite, à formuler un choix.
+
+L'annulation visée à l'alinéa 1er, ne s'applique pas à l'égard de la personne visée au § 2, alinéa 4. "
+
+## Art. 3
+
+Les personnes qui sont majeures au moment de l'entrée en vigueur de la loi sont également soumises à l'application de l'article 10, § 3bis, alinéa 1er, de la loi du 13 juin 1986 sur le prélèvement et la transplantation d'organes, tel qu'inséré par l'article 2.
+
+## Art. 4
+
+Le Roi fixe la date d'entrée en vigueur de la présente loi.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 14 juin 2006.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires sociales et de la Santé publique,
+
+R. DEMOTTE
+
+Scellé du sceau de l'Etat
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

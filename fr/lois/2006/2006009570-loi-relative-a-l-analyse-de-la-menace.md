@@ -1,0 +1,433 @@
+---
+title: "Loi relative à l'analyse de la menace"
+identifier: "2006009570"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/10/2006009570/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2006-07-10
+published: 2006-07-20
+last_amended: 2026-03-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2006/07/10/2006009570/justel"
+department: "Justice"
+justel_note: "Consultation des versions antérieures à partir du 20-07-2006 et mise à jour au 10-03-2026"
+retrieved: 2026-10-11
+---
+
+# 10 JUILLET 2006. - Loi relative à l'analyse de la menace
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Dispositions générales.
+
+### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+### Art. 2
+
+Au sens de la présente loi, on entend par :
+
+1° " renseignements " : les informations et les données traitées et, le cas échéant, analysées par les différents services d'appui dans le cadre de leurs missions légales;
+
+2° " les services d'appui " :
+
+a) les services de renseignement et de sécurité tels que visés à l'article 2 de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité, ci-après dénommée " loi organique des services de renseignement et de sécurité ";
+
+b) les services de police tels que visés dans la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux;
+
+c) le service public fédéral Finances, en particulier l'Administration des Douanes et Accises;
+
+d) le service public fédéral Mobilité et Transports;
+
+e) le service public fédéral Intérieur, en particulier l'Office des Etrangers;
+
+f) le service public fédéral Affaires étrangères;
+
+[<sup>3</sup> f/1) le service public fédéral Intérieur, en particulier la Direction Générale Centre de Crise;
+
+f/2) le service public fédéral Justice, en particulier la direction générale Etablissements pénitentiaires;
+
+f/3) le service public fédéral Justice, en particulier le Service des Cultes et de la Laïcité de la Direction générale, Législation, libertés et droits fondamentaux;
+
+f/4) le service public fédéral Finances, en particulier l'administration générale de la Trésorerie;]<sup>3</sup>
+
+g) les services publics désignés par le Roi, sur la proposition du [<sup>2</sup> Conseil national de sécurité;]<sup>2</sup>
+
+3° [<sup>1</sup> ...]<sup>1</sup>.
+
+L'arrêté royal prévu à l'alinéa 1er, 2°, g), est confirmé par une loi adoptée dans un délai d'un an à compter de la date d'entrée en vigueur de cet arrêté royal.
+
+----------
+
+(1)&lt;L 2015-12-06/07, art. 10, 002; En vigueur : 28-01-2015&gt;
+
+(2)&lt;L 2015-12-06/07, art. 11, 002; En vigueur : 28-01-2015&gt;
+
+(3)&lt;L 2022-05-31/06, art. 2, 003; En vigueur : 29-10-2022&gt;
+
+### Art. 3
+
+Sont visées dans la présente loi, les menaces, énumérées à l'article 8, 1°, b) et c), de la loi organique des services de renseignement et de sécurité susceptibles de porter atteinte à la sûreté intérieure et extérieure de l'Etat, aux intérêts belges et à la sécurité des ressortissants belges à l'étranger ou à tout autre intérêt fondamental du pays tel que défini par le Roi sur la proposition du [<sup>1</sup> Conseil national de sécurité]<sup>1</sup>.
+
+Le Roi peut, sur la proposition du [<sup>1</sup> Conseil national de sécurité]<sup>1</sup>, étendre les menaces visées à l'alinéa 1er à une ou plusieurs autres menaces spécifiées à l'article 8 de la loi organique des services de renseignement et de sécurité.
+
+----------
+
+(1)&lt;L 2015-12-06/07, art. 11, 002; En vigueur : 28-01-2015&gt;
+
+### Art. 4
+
+Pour les menaces visées à l'article 3, le Roi détermine, sur la proposition du [<sup>1</sup> Conseil national de sécurité]<sup>1</sup>, les axes prioritaires de la mission d'évaluation de l'organe visé à l'article 5.
+
+----------
+
+(1)&lt;L 2015-12-06/07, art. 11, 002; En vigueur : 28-01-2015&gt;
+
+## CHAPITRE II. - Organisation.
+
+### Art. 5
+
+Il est institué sous la dénomination " Organe de coordination pour l'analyse de la menace ", ci-après dénommé " OCAM ", un organe chargé de l'évaluation de la menace conformément aux articles 3 et 4.
+
+Cet organe est placé sous l'autorité conjointe des ministres de la Justice et de l'Intérieur. Hormis les exceptions prévues par la présente loi, ces ministres sont chargés ensemble de l'organisation et de l'administration générale de l'OCAM.
+
+### Art. 6
+
+[<sup>1</sup> § 1er. Sans préjudice des obligations prévues dans les instruments internationaux qui les lient, les services d'appui sont tenus de communiquer à l'OCAM, d'office ou à la demande de son directeur, les données à caractère personnel visées à l'article 142 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel et les renseignements portant sur les menaces visées à l'article 3, les personnes et les groupements, auteurs ou cibles éventuels de menace, et les événements, dont ils disposent dans le cadre de leurs missions légales de prévention et de suivi du terrorisme et de l'extrémisme au sens de l'article 8, 1°, b) et c), de la loi organique des services de renseignement et de sécurité et qui s'avèrent pertinents en vue d'atteindre les finalités des évaluations communes visées à l'article 8, alinéa 1er, 1° et 2°.
+
+Lorsqu'il y a des raisons de croire que l'intégrité de personnes physiques se trouve en danger concret et imminent, liées à des menaces extrémistes ou terroristes, le directeur peut exiger des services d'appui la communication immédiate des données à caractère personnel et des renseignements visés à l'alinéa 1er. Le directeur motive sa demande sur la nécessité de transmettre immédiatement les données à caractère personnel et les renseignements.
+
+[<sup>2</sup> Sans préjudice des obligations prévues dans les instruments internationaux qui les lient, les services d'appui sont tenus de communiquer à l'OCAM, d'office ou à la demande de son directeur, les données à caractère personnel visées à l'article 142 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel et les renseignements dont ils disposent dans le cadre de leurs missions légales et qui s'avèrent pertinents en vue d'atteindre les finalités de l'analyse de la menace visée à l'article 9, § 2, de la loi du 19 décembre 2025 relative à la résilience des entités critiques.]<sup>2</sup>
+
+§ 2. Le Roi détermine, par arrêté délibéré en Conseil des ministres, et après avis du Comité permanent de contrôle des services de police et du Comité permanent de contrôle des services de renseignement et de sécurité, les modalités d'accès, de communication et d'effacement des données à caractère personnel et des renseignements visés au paragraphe 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-05-31/06, art. 3, 003; En vigueur : 29-10-2022&gt;
+
+(2)&lt;L 2025-12-19/94, art. 64, 004; En vigueur : 19-01-2026&gt;
+
+### Art. 7
+
+§ 1er. L'OCAM est composé des membres du personnel suivants :
+
+\- un directeur et un directeur-adjoint, qui assurent la direction et la gestion quotidienne;
+
+\- les experts qui sont détachés des services d'appui;
+
+\- les analystes engagés spécifiquement à cet effet;
+
+\- le personnel administratif.
+
+Le directeur, le directeur-adjoint et les experts exercent leurs fonctions à temps-plein.
+
+§ 2. Tous les membres du personnel sont désignés par le Roi sur la proposition commune du Ministre de la Justice et du ministre de l'Intérieur. La désignation des fonctionnaires détachés a cependant lieu sur la proposition du ministre compétent pour le service duquel l'intéressé est détaché.
+
+Le Roi peut mettre fin, sur la proposition commune du Ministre de la Justice et du Ministre de l'Intérieur, à la désignation de chaque membre du personnel pour manquement à ses obligations au sein de l'OCAM.
+
+Le Roi détermine sur la proposition commune du Ministre de la Justice et du Ministre de l'Intérieur, le nombre des membres du personnel, les profils de fonction et le statut du personnel, sans porter atteinte à leur statut administratif et pécuniaire d'origine dans le cas où ils sont détachés. Il peut, sur la proposition commune du Ministre de la Justice et du ministre de l'Intérieur, déterminer des règles spécifiques en ce qui concerne l'évaluation et les mesures d'ordre pour le personnel qui est détaché.
+
+§ 3. Au moment de leur désignation, le directeur et le directeur adjoint doivent remplir les conditions suivantes :
+
+1° [<sup>1</sup> être porteur d'un diplôme de licence, de master ou de doctorat et disposer d'une expertise juridique qui est pertinente pour l'exécution de la fonction, étant entendu que l'un d'entre eux au moins est titulaire d'un diplôme en droit]<sup>1</sup>;
+
+2° [<sup>1</sup> ...]<sup>1</sup>
+
+3° posséder, au regard des missions de l'OCAM, une expérience utile d'au moins cinq ans;
+
+4° détenir une habilitation de sécurité du niveau " très secret " en vertu de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité.
+
+[<sup>1</sup> Le directeur et le directeur adjoint sont désignés pour une période de cinq ans, renouvelable deux fois. S'ils sont détachés, le directeur et le directeur adjoint agissent pendant la durée de leur détachement en toute indépendance par rapport au service dont ils sont originaires.]<sup>1</sup>
+
+S'il ressort du diplôme du directeur qu'il a passé les examens de licence, de master ou de doctorat [<sup>1</sup> ...]<sup>1</sup> respectivement en langue néerlandaise ou en langue française, il doit ressortir du diplôme du directeur-adjoint qu'il a passé les examens de licence, de master ou de doctorat [<sup>1</sup> ...]<sup>1</sup> respectivement en langue française ou en langue néerlandaise.
+
+En cas de démission du directeur ou du directeur adjoint, il est pourvu à sa succession le plus rapidement possible afin d'achever le mandat en cours.
+
+§ 4. Au moment de leur désignation, les experts détachés et les analystes doivent remplir les conditions suivantes :
+
+1° être Belge;
+
+2° jouir des droits civils et politiques;
+
+3° [<sup>1</sup> ...]<sup>1</sup>
+
+4° être domicilié en Belgique;
+
+5° posséder, au regard des missions de l'OCAM, une expérience utile d'au moins cinq ans;
+
+6° détenir une habilitation de sécurité du niveau " très secret " en vertu de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité.
+
+§ 5. Au moment de leur désignation, les membres du personnel administratif doivent remplir les conditions suivantes :
+
+1° être Belge;
+
+2° jouir des droits civils et politiques;
+
+3° détenir une habilitation de sécurité du niveau " très secret " en vertu de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité.
+
+----------
+
+(1)&lt;L 2022-05-31/06, art. 4, 003; En vigueur : 29-10-2022&gt;
+
+## CHAPITRE III. - Missions.
+
+### Art. 8
+
+L'OCAM a pour mission :
+
+1° d'effectuer périodiquement une évaluation stratégique commune qui doit permettre d'apprécier si des menaces, visées à l'article 3, peuvent se manifester ou, si celles-ci ont déjà été détectées, comment elles évoluent et, le cas échéant, quelles mesures s'avèrent nécessaires;
+
+2° d'effectuer ponctuellement une évaluation commune qui doit permettre d'apprécier si des menaces visées à l'article 3, se manifestent et, le cas échéant, quelles mesures s'avèrent nécessaires;
+
+3° d'assurer les relations internationales spécifiques avec des services étrangers ou internationaux homologues, conformément aux directives du [<sup>1</sup> Conseil national de sécurité]<sup>1</sup>. Les données, les informations ou les renseignements obtenus à l'occasion de ces relations sont communiqués aux services belges compétents;
+
+[<sup>2</sup> 4° de coordonner l'approche globale des menaces, visées à l'article 3.]<sup>2</sup>
+
+[<sup>2</sup> La coordination visée à l'alinéa 1er, 4°, se fait dans le respect des missions légales ou des missions d'intérêt public des autorités, des services et des personnes concernés et du secret professionnel.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2015-12-06/07, art. 11, 002; En vigueur : 28-01-2015&gt;
+
+(2)&lt;L 2022-05-31/06, art. 5, 003; En vigueur : 29-10-2022&gt;
+
+### Art. 9
+
+§ 1er. [<sup>1</sup> Afin de lui permettre d'exercer ses missions telles que visées à l'article 8, alinéa 1er, il est institué au sein de l'OCAM un système d'informations, composé d'une banque de données et de fichiers de travail.
+
+La banque de données permet le traitement de renseignements sur des personnes, des groupements, des objets et des événements dans le cadre de l'exercice des missions confiées à l'OCAM en vertu de l'article 8, alinéa 1er.]<sup>1</sup>
+
+Les données traitées doivent présenter un lien direct avec la finalité du fichier et se limiter aux exigences qui en découlent.
+
+Les finalités spécifiques de la banque de données, les catégories précises de données et d'informations traitées, les délais de conservation des données, les modalités d'accès et de communication, les modalités d'effacement sont déterminés par le Roi par un arrêté royal, délibéré en Conseil des ministres, après avis de la Commission de la protection de la vie privée.
+
+§ 2. Les fichiers de travail sont créés pour des durées variables aux fins de l'analyse d'une ou de plusieurs menaces particulières.
+
+A la clôture de chaque analyse, une évaluation détermine les données qui sont intégrées dans la banque de données et celles qui sont détruites.
+
+§ 3. En ce qui concerne le traitement automatisé des données et informations au sein de l'OCAM, le directeur prend les mesures techniques et organisationnelles propres à :
+
+1° empêcher toute personne non autorisée d'accéder aux installations utilisées pour le traitement des données et informations;
+
+2° empêcher que des supports de données puissent être lus, copiés, modifiés ou enlevés par une personne non autorisée;
+
+3° empêcher l'introduction par une personne non autorisée de données dans le système d'informations ainsi que toute prise de connaissance, modification ou effacement des données par une personne non autorisée;
+
+4° empêcher que toute partie du système d'informations puisse être utilisée par une personne non autorisée à l'aide d'installations de transmissions de données;
+
+5° garantir que, pour l'utilisation du système d'informations, les personnes autorisées ne puissent accéder qu'aux données relevant de leur compétence;
+
+6° garantir qu'il puisse être vérifié et constaté à quelles instances des données et informations peuvent être transmises;
+
+7° garantir qu'il puisse être vérifié et constaté a posteriori quelles données et informations ont été introduites dans le système d'informations, à quel moment et par quelle personne;
+
+8° empêcher que, lors de la transmission ou lors du transport des données et informations, les données puissent être lues, copiées, modifiées ou effacées par une personne non autorisée;
+
+9° assurer que les technologies employées puissent être réparées immédiatement en cas de dérangement;
+
+10° assurer que les fonctions du système d'informations ne soient pas défectueuses, que les erreurs de fonctionnement soient immédiatement signalées et que les données conservées ne puissent pas être faussées par une erreur de fonctionnement du système.
+
+Toute interconnexion entre la banque de données ou un fichier de travail de l'OCAM et tout ou partie d'un autre système d'informations national, étranger ou dépendant d'une organisation internationale est interdite.
+
+Les données à caractère personnel, sont recueillies et traitées sous la responsabilité du directeur de l'OCAM.
+
+----------
+
+(1)&lt;L 2022-05-31/06, art. 6, 003; En vigueur : 29-10-2022&gt;
+
+### Art. 10
+
+§ 1er. [<sup>2</sup> Les évaluations visées à l'article 8, alinéa 1er, 1°,]<sup>2</sup> sont effectuées d'office ou à la demande d'un membre du gouvernement et communiquées :
+
+a) aux membres du [<sup>1</sup> Conseil national de sécurité]<sup>1</sup>;
+
+b) aux services d'appui;
+
+c) au membre du gouvernement qui a demandé l'évaluation;
+
+d) à la Direction générale du Centre de crise;
+
+e) au Parquet fédéral et au membre du Collège des procureurs généraux à qui est confiée la matière du terrorisme et de l'extrémisme;
+
+[<sup>2</sup> f) à toute autorité publique et organisme public belge sur initiative du directeur s'ils ont besoin d'en connaître pour l'exercice de leur fonction ou mission d'intérêt public liée à la lutte contre la menace terroriste ou extrémiste au sens de l'article 8, 1°, b) et c), de la loi organique des services de renseignement et de sécurité et sans préjudice des dispositions de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité.]<sup>2</sup>
+
+§ 2. [<sup>2</sup> Les évaluations visées à l'article 8, alinéa 1er, 2°, qui sont effectuées d'initiative par l'OCAM, sont communiquées aux personnes et services visés au § 1er, a), b), d), e) et f), à l'autorité de sécurité visée à l'article 15 de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité et aux membres du gouvernement que le directeur juge nécessaire d'informer pour l'exercice de leur fonction ou mission d'intérêt public liée à la lutte contre la menace terroriste ou extrémiste au sens de l'article 8, 1°, b) et c) de la loi organique des services de renseignement et de sécurité.]<sup>2</sup>
+
+§ 3. [<sup>2</sup> Les évaluations visées à l'article 8, alinéa 1er, 2°, qui sont effectuées à la demande d'un des services d'appui, sont communiquées à ce service et au ministre dont il dépend et aux personnes et services visés au § 1er, a), b), d) et e), à l'autorité de sécurité visée à l'article 15 de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité et aux membres du gouvernement que le directeur, en concertation avec le service d'appui demandeur, juge nécessaire d'informer pour l'exercice de leur fonction ou mission d'intérêt public liée à la lutte contre la menace terroriste ou extrémiste au sens de l'article 8, 1°, b) et c) de la loi organique des services de renseignement et de sécurité.
+
+Le directeur, en concertation avec le service d'appui qui a demandé l'évaluation, détermine les autres autorités publiques et organismes publics belges auxquels l'évaluation demandée est communiquée en raison de leur besoin d'en connaître pour l'exercice de leur fonction ou mission d'intérêt public liée à la lutte contre la menace terroriste ou extrémiste au sens de l'article 8, 1°, b) et c) de la loi organique des services de renseignement et de sécurité et sans préjudice des dispositions de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité.]<sup>2</sup>
+
+§ 4. [<sup>2</sup> Une fois par an,]<sup>2</sup> un rapport d'évaluation des activités et des objectifs stratégiques de l'OCAM est soumis au [<sup>1</sup> Conseil national de sécurité]<sup>1</sup> qui le transmet ensuite au Comité permanent de Contrôle des services de renseignement et au Comité permanent de Contrôle des Services de police.
+
+§ 5. Le Roi fixe, sur la proposition du [<sup>1</sup> Conseil national de sécurité]<sup>1</sup>, les modalités relatives aux évaluations visées aux §§ 1er à 3 ainsi que celles relatives aux rapports d'évaluation visés au § 4.
+
+----------
+
+(1)&lt;L 2015-12-06/07, art. 11, 002; En vigueur : 28-01-2015&gt;
+
+(2)&lt;L 2022-05-31/06, art. 7, 003; En vigueur : 29-10-2022&gt;
+
+### Art. 10/1.
+
+[<sup>1</sup> Le directeur est le responsable du traitement des données à caractère personnel, au sens de l'article 138, § 2, 2°, de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, effectués par l'OCAM dans le cadre des missions visées à l'article 8, alinéa 1er.
+
+La communication de données à caractère personnel à l'OCAM, ainsi que les demandes d'évaluation et la réception des évaluations de l'OCAM par chaque service d'appui sont des traitements effectués sous la responsabilité des responsables du traitement des données à caractère personnel respectifs de chaque service d'appui.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-05-31/06, art. 8, 003; En vigueur : 29-10-2022&gt;
+
+### Art. 10/2.
+
+[<sup>1</sup> § 1er. Les données à caractère personnel et les renseignements traités par l'OCAM dans le cadre des missions visées à l'article 8, alinéa 1er, sont conservés pendant une durée n'excédant pas celle nécessaire aux finalités pour lesquelles ils sont enregistrés et qui ne peut excéder une durée de cinquante ans à dater du jour de leur enregistrement.
+
+A l'expiration d'un délai de trente ans à dater du jour de l'enregistrement des données à caractère personnel et des renseignements, la nécessité de leur conservation ultérieure est examinée sur la base d'une évaluation du lien direct qu'ils doivent encore présenter avec les finalités pour lesquelles ils ont été enregistrés. Cet examen s'opère, autant de fois que nécessaire, tous les cinq ans.
+
+§ 2. A l'issue des délais fixés au paragraphe 1er, les données et renseignements sont effacés, sans préjudice de la loi du 24 juin 1955 relative aux archives.
+
+§ 3. Conformément aux dispositions de l'article 21/1 de la loi organique des services de renseignement et de sécurité, l'OCAM est dispensé du transfert de ses documents d'archives de moins de cinquante ans émanant des services de renseignements et de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-05-31/06, art. 9, 003; En vigueur : 29-10-2022&gt;
+
+## CHAPITRE IV. - Procédures d'embargo.
+
+### Art. 11
+
+Par dérogation à l'article 6, les renseignements de nature judiciaire dont le Procureur fédéral estime que la communication à l'OCAM peut compromettre l'exercice de l'action publique ou la sécurité de personnes, sont exclusivement [<sup>1</sup> transmis au directeur et aux membres habilités de l'OCAM désignés par celui-ci qui ont strictement le besoin d'en connaître pour l'exercice de leur fonction dans le cadre des missions de l'OCAM]<sup>1</sup>.
+
+[<sup>1</sup> Les renseignements de nature judiciaire sous embargo ne peuvent être consultés dans le système d'informations visé à l'article 9 que par le directeur et les membres habilités de l'OCAM désignés par celui-ci qui ont strictement le besoin d'en connaître pour l'exercice de leur fonction dans le cadre des missions de l'OCAM.
+
+Le directeur dresse une liste des membres de l'OCAM qui ont accès aux renseignements de nature judiciaire sous embargo et tient cette liste à disposition du Comité permanent de contrôle des services de police et du Comité permanent de contrôle des services de renseignement et de sécurité.]<sup>1</sup>
+
+Le directeur de l'OCAM et le Procureur fédéral décident conjointement si et dans quelle mesure ces renseignements sont intégrés dans l'évaluation et, le cas échéant, par dérogation à l'article 10, à quelles autres autorités cette évaluation est communiquée.
+
+Cependant, si le Procureur fédéral et le directeur de l'OCAM estiment que ces renseignements sont indispensables pour prendre des mesures nécessaires à la protection de personnes, ceux-ci sont intégrés dans l'évaluation.
+
+Dans les cas visés aux [<sup>1</sup> alinéas 4 et 5]<sup>1</sup>, le Procureur fédéral est associé à la décision relative aux mesures opérationnelles à prendre par les autorités compétentes.
+
+----------
+
+(1)&lt;L 2022-05-31/06, art. 10, 003; En vigueur : 29-10-2022&gt;
+
+### Art. 12
+
+Par dérogation à l'article 6, les renseignements qui sont fournis par les services de renseignement et de sécurité, par l'administration des Douanes et Accises du service public fédéral Finances et par le service public fédéral Affaires étrangères, qui proviennent d'un service étranger homologue qui a explicitement demandé de ne pas les transmettre à d'autres services ou dont la transmission peut compromettre la sécurité d'une source humaine sont exclusivement communiqués par le chef d'un des trois services ci-avant mentionnés [<sup>1</sup> au directeur et aux membres habilités de l'OCAM désignés par ce dernier qui ont strictement le besoin d'en connaître pour l'exercice de leur fonction dans le cadre des missions de l'OCAM]<sup>1</sup>.
+
+[<sup>1</sup> Les renseignements sous embargo qui sont fournis par les services visés à l'alinéa 1er ne peuvent être consultés dans le système d'informations visé dans l'article 9 que par le directeur et les membres habilités de l'OCAM désignés par celui-ci qui ont strictement le besoin d'en connaître pour l'exercice de leur fonction dans le cadre des missions de l'OCAM.
+
+Le directeur dresse une liste des membres de l'OCAM qui ont accès aux renseignements sous embargo et tient cette liste à disposition du Comité permanent de contrôle des services de police et du Comité permanent de contrôle des services de renseignement et de sécurité.]<sup>1</sup>
+
+Le directeur de l'OCAM et le chef d'un des services visés à l'alinéa 1er décident conjointement si et dans quelle mesure ces renseignements sont intégrés dans l'évaluation et, le cas échéant, par dérogation à l'article 10, à quelles autres autorités cette évaluation est communiquée.
+
+Cependant, si le chef du service concerné et le directeur de l'OCAM estiment que ces renseignements sont indispensables pour prendre des mesures nécessaires à la protection de personnes, ceux-ci sont intégrés dans l'évaluation.
+
+Dans les cas visés aux [<sup>1</sup> alinéas 4 et 5]<sup>1</sup>, le chef du service concerné est associé à la décision relative aux mesures opérationnelles à prendre par les autorités compétentes.
+
+----------
+
+(1)&lt;L 2022-05-31/06, art. 11, 003; En vigueur : 29-10-2022&gt;
+
+## CHAPITRE V. - Dispositions pénales.
+
+### Art. 13
+
+Chaque membre de l'OCAM qui collabore à l'application de la présente loi est tenu de garder les secrets qui lui sont confiés dans l'exercice de sa mission ou de sa collaboration.
+
+L'obligation de secret subsiste, même lorsque le membre a quitté l'OCAM ou a mis un terme à sa collaboration.
+
+[<sup>1</sup> Sans préjudice de l'article 352 du Code pénal, est punie d'une peine de niveau 2, la personne qui révèle délibérément les secrets dont elle est détentrice en violation du présent article. Par dérogation à l'article 52, § 1er, alinéa 2, 7°, du Code pénal, l'amende s'élève à 32.000 euros au plus. La tentative de commettre l'infraction visée au présent article n'est pas punissable]<sup>1</sup>.
+
+[<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-03-03/04, art. 118, 005; En vigueur : 01-09-2026&gt;
+
+### Art. 14
+
+[<sup>1</sup> Tout fonctionnaire des services d'appui qui retient délibérément des informations, des données et des renseignements, empêchant ainsi le service auquel il appartient de satisfaire à l'obligation visée à l'article 6, est puni d'une peine de niveau 1. La tentative de commettre l'infraction visée au présent article n'est pas punissable.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-03/04, art. 119, 005; En vigueur : 01-09-2026&gt;
+
+## CHAPITRE VI. - Modification de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel.
+
+### Art. 15
+
+Dans l'article 3, § 4, de la loi du 8 décembre 1992, modifié par les lois des 11 décembre 1998 (I) et 11 décembre 1998 (II), les mots " ainsi que par l'Organe de coordination pour l'analyse de la menace, " sont insérés entre les mots " et son Service d'enquêtes, " et " lorsque ces traitements ".
+
+## CHAPITRE VII. - Modification de la loi du 5 août 1992 sur la fonction de police.
+
+### Art. 16
+
+A l'article 44/1 de la loi du 5 août 1992 sur la fonction de police, inséré par la loi du 7 décembre 1998 et modifié par les lois des 2 avril 2001, 26 avril 2002 et 3 mai 2003, les mots " à l'organe de coordination de l'analyse de la menace, " sont ajoutés après les mots " au Service d'Enquêtes du Comité permanent R, ".
+
+## CHAPITRE VIII. - Dispositions finales et transitoires.
+
+### Art. 17
+
+L'OCAM succède aux droits et obligations du Groupe interforces antiterroriste créé par l'arrêté royal du 17 octobre 1991.
+
+Les membres du personnel actuels détachés auprès du Groupe interforces antiterroriste sont transférés au sein de l'OCAM pour une période de cinq ans à compter de l'entrée en vigueur de la présente loi.
+
+Le Roi règle les modalités de ce transfert.
+
+Pour une durée de cinq ans à compter de l'entrée en vigueur de la présente loi, les fonctions de directeur-adjoint de l'OCAM sont exercées par le directeur actuel du Groupe interforces antiterroriste. L'obligation visée à l'article 7, § 3, alinéa 3, n'est pas d'application pour cette période.
+
+### Art. 18
+
+A l'exception de l'article 1er et du présent article qui entrent en vigueur dès leur publication au Moniteur belge, les dispositions de la présente loi entrent en vigueur à une date fixée par le Roi et au plus tard le 1er décembre 2006.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donnée à Bruxelles, le 19 juillet 2006.
+
+ALBERT
+
+Par le Roi :
+
+Le Premier Ministre,
+
+G. VERHOFSTADT
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Intérieur,
+
+P. DEWAEL
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Le Ministre des Affaires Etrangères,
+
+K. DE GUCHT
+
+Le Ministre de la Défense,
+
+A. FLAHAUT
+
+Le Ministre de la Mobilité et des Transports,
+
+R. LANDUYT
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice
+
+Mme L. ONKELINX.

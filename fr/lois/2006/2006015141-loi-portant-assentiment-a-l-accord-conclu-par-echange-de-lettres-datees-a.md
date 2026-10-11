@@ -1,0 +1,104 @@
+---
+title: "Loi portant assentiment à l'Accord, conclu par échange de lettres datées à Bruxelles les 21 mars 2005 et 7 juin 2005, portant amendement à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement du Royaume-Uni de Grande Bretagne et d'Irlande du Nord, relatif à la délimitation du plateau continental entre les deux pays, signé à Bruxelles le 29 mai 1991."
+identifier: "2006015141"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2006/08/22/2006015141/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2006-08-22
+published: 2008-11-14
+entry_into_force: 2006-10-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2006/08/22/2006015141/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+retrieved: 2026-10-11
+---
+
+# 22 AOUT 2006. - Loi portant assentiment à l'Accord, conclu par échange de lettres datées à Bruxelles les 21 mars 2005 et 7 juin 2005, portant amendement à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement du Royaume-Uni de Grande Bretagne et d'Irlande du Nord, relatif à la délimitation du plateau continental entre les deux pays, signé à Bruxelles le 29 mai 1991.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+L'Accord, conclu par échange de lettres datées à Bruxelles les 21 mars 2005 et 7 juin 2005, portant amendement à l'Accord entre le Gouvernement du Royaume de Belgique et le Gouvernement du Royaume-Uni de Grande Bretagne et d'Irlande du Nord, relatif à la délimitation du plateau continental entre les deux pays, signé à Bruxelles le 29 mai 1991, sortira son plein et entier effet.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Châteauneuf-de-Grasse, le 22 août 2006.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires étrangères,
+
+K. DE GUCHT
+
+Le Ministre de la Mobilité,
+
+R. LANDUYT
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX
+
+## ANNEXES.
+
+## Art. N1
+
+Lettre du 21 mars 2005.
+
+Excellence,
+
+J'ai l'honneur de me référer à l'Accord entre le Royaume de Belgique et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord relatif à la délimitation du plateau continental, fait à Bruxelles, le 29 mai 1991 (" l'Accord ")
+
+A la lumière de l'échange de lettres fait à Bruxelles le 29 mai 1991, lequel formait partie intégrante de l'Accord, et de l'Accord entre le Royaume de Belgique et le Royaume des Pays-Bas sur la Délimitation du Plateau continental, fait à Bruxelles le 18 décembre 1996, j'ai l'honneur de vous proposer d'apporter l'amendement suivant à l'Accord :
+
+\- dans l'article 1er (1) de l'Accord, un point supplémentaire n° 4, sera ajouté comme suit :
+
+4\. 51° 52'34,012'' 02° 32'21,599''
+
+Si la proposition qui précède est acceptable pour le gouvernement du Royaume de Belgique, j'ai l'honneur de proposer que la présente Note, conjointement avec la Réponse de Votre Excellence, constituera l'Accord entre le Gouvernement du Royaume-Uni de Grande-Bretagne et de l'Irlande du Nord et le Royaume de Belgique. Le présent accord entrera en vigueur à la date de la réception par le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord de la notification par le Gouvernement du Royaume de Belgique de l'accomplissement des formalités requises pour l'entrée en vigueur.
+
+J'ai l'honneur de renouveler à Votre Excellence l'assurance de ma plus haute considération.
+
+Richard KINCHEN.
+
+## Art. N2
+
+Lettre du 7 juin 2005.
+
+Excellence,
+
+J'ai l'honneur d'accuser réception de votre lettre du 21 mars 2005, dont le texte suit:
+
+" J'ai l'honneur de me référer à l'Accord entre le Royaume de Belgique et le Royaume-Uni de Grande-Bretagne et d'Irlande du Nord relatif à la délimitation du plateau continental, fait à Bruxelles, le 29 mai 1991 (" l'Accord ")
+
+A la lumière de l'échange de lettres fait à Bruxelles le 29 mai 1991, lequel formait partie intégrante de l'Accord, et de l'Accord entre le Royaume de Belgique et le Royaume des Pays-Bas sur la Délimitation du Plateau continental, fait à Bruxelles le 18 décembre 1996, j'ai l'honneur de vous proposer d'apporter l'amendement suivant à l'Accord :
+
+\- dans l'Article 1(1) de l'Accord, un point supplémentaire n° 4, sera ajouté comme suit :
+
+4\. 51° 52'34,012'' 02° 32'21,599''
+
+Si la proposition qui précède est acceptable pour le Gouvernement du Royaume de Belgique, j'ai l'honneur de proposer que la présente Note, conjointement avec la Réponse de Votre Excellence, constituera l'Accord entre le Gouvernement du Royaume-Uni de Grande-Bretagne et de l'Irlande du Nord et le Royaume de Belgique. Le présent accord entrera en vigueur à la date de la réception par le Gouvernement du Royaume-Uni de Grande-Bretagne et d'Irlande du Nord de la notification par le Gouvernement du Royaume de Belgique de l'accomplissement des formalités requises pour l'entrée en vigueur. "
+
+J'ai l'honneur de vous informer que mon Gouvernement a pris note du contenu de votre lettre.
+
+Je saisis cette occasion pour renouveler à Votre Excellence l'assurance de ma plus haute considération.
+
+Karel DE GUCHT.
+
+## Art. N3
+
+Cet Accord entre en vigueur le 2 octobre 2006.
