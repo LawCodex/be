@@ -1,0 +1,88 @@
+---
+title: "Loi portant assentiment à l'Accord se rapportant à la Convention des Nations Unies sur le droit de la mer et portant sur la conservation et l'utilisation durable de la diversité biologique marine des zones ne relevant pas de la juridiction nationale, fait à New York le 19 juin 2023"
+identifier: "2025004251"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2024/12/25/2025004251/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2024-12-25
+published: 2025-08-05
+entry_into_force: 2025-08-15
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2024/12/25/2025004251/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+retrieved: 2026-10-11
+---
+
+# 25 DECEMBRE 2024. - Loi portant assentiment à l'Accord se rapportant à la Convention des Nations Unies sur le droit de la mer et portant sur la conservation et l'utilisation durable de la diversité biologique marine des zones ne relevant pas de la juridiction nationale, fait à New York le 19 juin 2023
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+L'Accord se rapportant à la Convention des Nations Unies sur le droit de la mer et portant sur la conservation et l'utilisation durable de la diversité biologique marine des zones ne relevant pas de la juridiction nationale, fait à New York le 19 juin 2023, sortira son plein et entier effet.
+
+## Art. 3
+
+Les modifications aux Annexes à l'Accord, adoptées en application de l'article 74.3 de l'Accord se rapportant à la Convention des Nations Unies sur le droit de la mer et portant sur la conservation et l'utilisation durable de la diversité biologique marine des zones ne relevant pas de la juridiction nationale, fait à New York le 19 juin 2023, sortiront leur plein et entier effet.
+
+Le Roi notifie à la Chambre des représentants dans un délai de deux mois toute proposition de modification, telle que visée à l'alinéa 1er, qui a été communiquée aux Parties par le Dépositaire.
+
+Dans un délai de deux mois suivant la communication du Roi visée à l'alinéa 2, la Chambre des représentants peut s'opposer à ce qu'une modification, telle que visée à l'alinéa 1er, sorte son plein et entier effet.
+
+## Art. 4
+
+Dans l'article 1.1.1.1, § 1er, du Code belge de la Navigation, modifié en dernier lieu par la loi du 29 juin 2022, est inséré le 71° rédigé comme suit :
+
+" 71° Accord BBNJ : l'Accord se rapportant à la Convention des Nations Unies sur le droit de la mer et portant sur la conservation et l'utilisation durable de la diversité biologique marine des zones ne relevant pas de la juridiction nationale, fait à New York le 19 juin 2023 et auquel il a été donné assentiment par la loi du 25 décembre 2024. ".
+
+## Art. 5
+
+L'article 1.1.2.2, § 1er, du même Code, est complété par le 16° rédigé comme suit :
+
+" 16° les modifications aux annexes de l'Accord BBNJ adoptées sur la base de l'article 74.3 de cet Accord. "
+
+## Art. 6
+
+L'exception en annexe de la présente loi sortira son plein et entier effet.
+
+## ANNEXE.
+
+## Art. N
+
+ANNEXE A LA LOI
+
+(NOTE : pour l'Accord se rapportant à la Convention des Nations Unies sur le droit de la mer et portant sur la conservation et l'utilisation durable de la diversité biologique marine des zones ne relevant pas de la juridiction nationale, voir 2023-06-19/13)
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 25 décembre 2024.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de la Mer du Nord,
+
+P. VAN TIGCHELT
+
+Le Ministre des Affaires étrangères,
+
+B. QUINTIN
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+P. VAN TIGCHELT

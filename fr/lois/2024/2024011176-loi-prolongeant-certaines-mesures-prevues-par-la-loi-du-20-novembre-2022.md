@@ -1,0 +1,88 @@
+---
+title: "Loi prolongeant certaines mesures prévues par la loi du 20 novembre 2022 concernant la pénurie de personnel dans le secteur des soins"
+identifier: "2024011176"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2024/12/15/2024011176/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2024-12-15
+published: 2024-12-24
+entry_into_force: 2024-09-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2024/12/15/2024011176/justel"
+department: "Sécurité sociale"
+retrieved: 2026-10-11
+---
+
+# 15 DECEMBRE 2024. - Loi prolongeant certaines mesures prévues par la loi du 20 novembre 2022 concernant la pénurie de personnel dans le secteur des soins
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+Dans l'article 3bis/3, alinéa 3, 2°, de la loi du 20 décembre 1999 visant à octroyer un bonus à l'emploi aux travailleurs salariés ayant un bas salaire et d'autres réductions des cotisations personnelles de sécurité sociale, inséré par la loi du 20 novembre 2022, les mots "l'âge de 65 ans" sont remplacés par les mots "l'âge légal de la pension".
+
+## Art. 3
+
+A l'article 20 de la loi du 20 novembre 2022 portant des mesures concernant la pénurie de personnel dans le secteur des soins, modifié par la loi du 21 décembre 2023, les mots "31 décembre 2024" sont remplacés par les mots "31 décembre 2025".
+
+## Art. 4
+
+L'article 21 de la même loi, modifié par les lois des 4 juillet 2023 et 21 décembre 2023, est remplacé par ce qui suit:
+
+"Art. 21. La présente loi produit ses effets le 1er juillet 2022.
+
+Les articles 3, 6 et 10 à 18, cessent d'être en vigueur le 31 mars 2023.
+
+Les articles 7, 8 et 9, cessent d'être en vigueur le 31 décembre 2024.
+
+L'article 20 cesse d'être en vigueur le 31 décembre 2025.
+
+L'article 3bis/3 de la loi du 20 décembre 1999 visant à octroyer un bonus à l'emploi aux travailleurs salariés ayant un bas salaire et d'autres réductions des cotisations personnelles de sécurité sociale, inséré par l'article 5 de la présente loi, cesse d'être en vigueur le 31 décembre 2024.
+
+Le Roi peut, à deux reprises au maximum, par arrêté délibéré en Conseil des ministres, prolonger les mesures prévues par l'alinéa 3 et l'alinéa précédent pour une période de maximum trois mois en modifiant les dates de fin de vigueur.".
+
+## Art. 5
+
+La présente loi produit ses effets le 30 septembre 2024.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 15 décembre 2024.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre du Travail,
+
+P.Y. DERMAGNE
+
+Le Ministre des Finances,
+
+V. VAN PETEGHEM
+
+Le Ministre des Affaires sociales,
+
+F. VANDENBROUCKE
+
+La Ministre des Pensions,
+
+K. LALIEUX
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+P. VAN TIGCHELT
