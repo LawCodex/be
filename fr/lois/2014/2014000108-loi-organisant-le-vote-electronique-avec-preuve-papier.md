@@ -1,0 +1,598 @@
+---
+title: "Loi organisant le vote électronique avec preuve papier"
+identifier: "2014000108"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/07/2014000108/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2014-02-07
+published: 2014-02-14
+entry_into_force: 2014-02-24
+last_amended: 2023-04-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2014/02/07/2014000108/justel"
+department: "Intérieur"
+justel_note: "Consultation des versions antérieures à partir du 14-02-2014 et mise à jour au 14-04-2023"
+retrieved: 2026-10-11
+---
+
+# 7 FEVRIER 2014. - Loi organisant le vote électronique avec preuve papier
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition introductive
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## CHAPITRE 2. - Dispositions générales
+
+### Art. 2
+
+La présente loi s'applique à l'organisation des élections du Parlement européen, de la Chambre des représentants et des Parlements de communauté et de région dans les communes où il est fait usage d'un système de vote électronique avec preuve papier.
+
+### Art. 3
+
+Le Roi peut, par arrêté délibéré en Conseil des Ministres, décider que, pour les circonscriptions électorales, les cantons électoraux, les communes ou les postes diplomatiques ou consulaires de carrière qu'Il désigne, il est fait usage d'un système de vote électronique avec preuve papier lors des élections législatives, lors des élections pour le renouvellement des Parlements de communauté et de région ainsi que lors des élections pour le renouvellement du Parlement européen.
+
+### Art. 4
+
+§ 1er. Un système de vote électronique avec preuve papier comprend, par bureau de vote :
+
+1° une urne électronique avec un scanner [<sup>1</sup> et un système d'obturation automatique de la fente de l'urne]<sup>1</sup>;
+
+2° plusieurs ordinateurs de vote équipés chacun d'un écran de visualisation tactile, d'une imprimante de bulletins de vote et d'un lecteur de carte à puces;
+
+3° un ordinateur pour le président avec une unité pour initialiser les cartes à puces [<sup>2</sup> ...]<sup>2</sup>;
+
+4° un lecteur de code-barres pour la visualisation du contenu du code-barres par l'électeur;
+
+5° des cartes à puces.
+
+Chaque isoloir du bureau de vote est équipé d'un ordinateur de vote.
+
+Dans chaque bureau de vote, au moins un des isoloirs équipé d'un ordinateur de vote dispose également d'un lecteur de code-barres pour la visualisation du contenu du code-barres par l'électeur.
+
+Chaque bureau de vote comporte une zone d'attente située à au moins un mètre de l'urne.
+
+En outre, chaque bureau principal de canton dispose d'un ou de plusieurs systèmes électroniques de totalisation des votes émis dans les bureaux de vote qui relèvent de ce bureau principal.
+
+§ 2. Le Roi détermine les règles de présentation des listes et des candidats sur les écrans des ordinateurs de vote.
+
+§ 3. Les systèmes de vote électronique avec preuve papier, les systèmes électroniques de totalisation des votes et les logiciels électoraux visés aux articles 17 et 18 ne peuvent être utilisés que s'ils sont conformes aux conditions générales d'agrément déterminées par le Roi, qui garantissent en tout cas la fiabilité et la sécurité des systèmes, ainsi que le secret du vote.
+
+Le ministre de l'Intérieur, sur l'avis de l'organisme agréé à cette fin par le Roi par arrêté délibéré en Conseil des Ministres, constate cette conformité.
+
+L'avis de l'organisme agréé visé à l'alinéa 2 est rendu public par le ministre de l'Intérieur ou son délégué.
+
+----------
+
+(1)&lt;L 2018-04-19/25, art. 62, 002; En vigueur : 01-04-2019&gt;
+
+(2)&lt;L 2023-03-28/02, art. 115, 003; En vigueur : 01-10-2023&gt;
+
+### Art. 5
+
+§ 1er. Le système visé à l'article 4, § 1er, [<sup>1</sup> alinéa 1er,]<sup>1</sup> est soit la propriété de la commune, [<sup>1</sup> ...]<sup>1</sup> soit la propriété de l'autorité régionale si celle-ci décide de les acquérir. [<sup>1</sup> Une commune peut également décider de louer un tel système.]<sup>1</sup>
+
+L'Etat peut intervenir financièrement dans les coûts d'investissement à concurrence de vingt pour cent de ceux-ci selon les normes fixées par le Roi par arrêté délibéré en Conseil des Ministres quant au nombre de systèmes de votes.
+
+§ 2. La commune assure l'entretien et la conservation du matériel. Elle gère ces biens en bon père de famille. Elle est tenue de faire réparer ou remplacer dans les plus courts délais tout matériel hors d'usage.
+
+Ces frais sont à charge de la commune, qui conclut un contrat d'entretien à cet effet.
+
+[<sup>1</sup> En cas de location du matériel par la commune, les frais en la matière sont à charge de celle-ci.]<sup>1</sup>
+
+§ 3. Les frais d'assistance le jour de l'élection sont à charge de l'Etat.
+
+§ 4. Les logiciels électoraux, les codes de sécurité, [<sup>1</sup> ...]<sup>1</sup> le papier électoral spécifique nécessaire à l'impression des bulletins de vote et les supports de mémoire sont fournis par le ministre de l'Intérieur ou son délégué lors de chaque élection. [<sup>1</sup> La fourniture des cartes à puces de vote est à charge de la commune.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-03-28/02, art. 116, 003; En vigueur : 01-10-2023&gt;
+
+### Art. 6
+
+Les communes ayant recours au système de vote électronique avec preuve papier sont exclues de la répartition des frais relatifs à l'établissement des bulletins de vote et au fonctionnement des bureaux de dépouillement visés par le Code électoral ainsi que de la répartition des dépenses qui, en raison de l'automatisation du vote, ne concernent pas les bureaux électoraux de la circonscription ou du canton électoral.
+
+## CHAPITRE 3. - Du système de vote électronique avec preuve papier
+
+### Art. 7
+
+Chaque compartiment-isoloir du bureau de vote est équipé d'un ordinateur de vote.
+
+### Art. 8
+
+§ 1er. Avant de se rendre au compartiment-isoloir, l'électeur reçoit du président du bureau ou de l'assesseur que ce dernier désigne, une carte à puce que le président ou l'assesseur aura préalablement initialisée et qui permet de voter une seule fois par élection pour laquelle l'électeur est convoqué.
+
+§ 2. Pour exprimer son vote, l'électeur procède, obligatoirement, d'abord à l'introduction de la carte dans le lecteur prévu à cet effet, présent dans l'ordinateur de vote installé dans le compartiment-isoloir.
+
+Si plusieurs élections ont lieu simultanément, le ministre de l'Intérieur fixe l'ordre dans lequel les votes doivent être exprimés.
+
+Lorsque les lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, laissent à l'électeur le choix de la langue pour les opérations électorales, il est d'abord invité à accomplir ce choix; celui-ci est, après confirmation, définitif pour l'ensemble des opérations de vote.
+
+Pour l'élection des membres du Parlement européen dans la circonscription électorale de Bruxelles-Capitale ainsi que pour l'élection du Parlement de la Région de Bruxelles-Capitale, l'électeur effectue d'abord le choix du collège électoral ou le groupe linguistique auquel appartient la liste pour laquelle il souhaite voter. [<sup>1</sup> Afin d'aider l'électeur dans son choix, un aperçu des listes présentes dans chaque collège électoral ou groupe linguistique est affiché à titre informatif. Après avoir effectué le choix du collège électoral ou groupe linguistique, seules les listes présentées pour ce collège ou ce groupe linguistique sont ensuite affichées sur l'écran.]<sup>1</sup>
+
+Pour l'élection des membres de la Chambre des représentants dans les communes du canton électoral de Rhode-Saint-Genèse, l'électeur effectue d'abord le choix entre la circonscription électorale du Brabant flamand et la circonscription électorale de Bruxelles-Capitale. De même, pour l'élection des membres du Parlement européen dans les communes de ce canton électoral, l'électeur effectue d'abord le choix entre le collège électoral néerlandais et le collège électoral français. [<sup>1</sup> Afin d'aider l'électeur dans son choix, un aperçu des listes présentes dans chaque circonscription ou collège électoral est affiché à titre informatif. Après avoir effectué le choix de la circonscription ou du collège électoral, seules les listes présentées pour la circonscription ou le collège électoral sont ensuite affichées sur l'écran.]<sup>1</sup>
+
+§ 3. Dans tous les cas, l'écran de visualisation tactile affiche le numéro d'ordre et le sigle [<sup>1</sup> ...]<sup>1</sup> de toutes les listes de candidats, sous réserve de l'application du § 2, alinéas 4 et 5.
+
+L'électeur indique la liste de son choix par effleurement sur l'écran de visualisation tactile. Il peut également indiquer par un vote blanc qu'il ne désire apporter son vote à aucune des listes présentées.
+
+Après que l'électeur a choisi une liste, l'écran de visualisation affiche, pour cette liste, les nom et prénom des candidats précédés d'un numéro d'ordre.
+
+L'électeur exprime son vote par effleurement sur l'écran de visualisation tactile :
+
+1° dans la case placée en tête de liste, s'il adhère à l'ordre de présentation des candidats;
+
+2° dans les cases placées en regard d'un ou de plusieurs candidats de la même liste.
+
+§ 4. Après que l'électeur a exprimé son vote conformément au § 3, il est invité à le confirmer. Cette confirmation clôt le vote de l'électeur pour l'élection considérée. Tant que le vote n'est pas confirmé, l'électeur peut recommencer l'opération de vote.
+
+§ 5. Le cas échéant, l'électeur est invité ensuite, par une information apparaissant sur l'écran de visualisation, à voter selon la même procédure pour l'élection suivante.
+
+----------
+
+(1)&lt;L 2023-03-28/02, art. 118, 003; En vigueur : 01-10-2023&gt;
+
+### Art. 8/1.
+
+[<sup>1</sup> Par dérogation aux articles 4, 8 et 9, § 6, et en vue de faciliter le vote des électeurs malvoyants ou aveugles, un des ordinateurs de vote présent dans le bureau de vote est muni d'un boîtier électronique activé permettant à un électeur malvoyant ou aveugle d'exprimer son vote de manière autonome et ceci sans utilisation de l'écran de visualisation tactile.
+
+L'électeur visé à l'alinéa 1er peut demander au président du bureau de vote d'utiliser ce boîtier électronique. Si le président ou un autre membre du bureau conteste cette demande, le bureau statue et sa décision motivée est inscrite au procès-verbal.
+
+Le Roi détermine les conditions d'activation du boîtier électronique et la procédure d'utilisation de celui-ci ainsi que les circonscriptions électorales, les cantons électoraux, les communes ou les postes diplomatiques qui utilisent le boîtier électronique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-04-19/25, art. 63, 002; En vigueur : 31-12-2019&gt;
+
+### Art. 9
+
+§ 1er. Lorsque l'électeur a voté pour l'ensemble des élections, un bulletin de vote est imprimé et mis à disposition de celui-ci.
+
+§ 2. Au sein d'une même circonscription électorale, quel que soit le vote de l'électeur, les dimensions du bulletin de vote imprimé doivent être identiques.
+
+Le ministre de l'Intérieur détermine ces dimensions pour chaque circonscription électorale ainsi que les mentions imprimées sur le bulletin de vote.
+
+§ 3. Le bulletin de vote imprimé comporte deux parties :
+
+1° une partie indiquant, sous forme d'un code-barres bidimensionnel, le vote émis par l'électeur;
+
+2° une partie indiquant sous forme dactylographiée, pour chaque type d'élection si tel est le cas, le vote émis par l'électeur. La partie dactylographiée sert uniquement à des fins de contrôle et d'audit.
+
+§ 4. L'électeur plie ensuite régulièrement et durablement son bulletin de vote en deux parties, face imprimée vers l'intérieur afin de préserver le secret du vote.
+
+Le bureau veille à ce que le secret du vote soit respecté.
+
+§ 5. L'électeur retire la carte à puce du lecteur prévu à cet effet. Ni l'ordinateur de vote, ni la carte à puce ne conservent des données concernant le vote émis.
+
+§ 6. L'électeur a la possibilité, en lisant au moyen d'un lecteur spécifique mis à sa disposition le code-barres visé au § 3, 1°, de visualiser sur un écran que le contenu de ce code-barres correspond au vote qu'il a émis sur l'écran pour chaque élection et qui est repris sous forme dactylographiée sur le bulletin de vote.
+
+La visualisation se fait dans l'ordre selon lequel les votes ont été émis. Lors de cette visualisation, l'électeur ne peut pas modifier son vote.
+
+§ 7. L'électeur qui éprouve des difficultés à exprimer son vote peut se faire assister par le président ou par un autre membre du bureau désigné par lui, à l'exclusion de témoins. Toutefois, si ces difficultés sont dues à un handicap, cet électeur peut conformément à l'article 143, alinéa 4, du Code électoral, avec l'autorisation du président, se faire accompagner [<sup>1</sup> de la personne]<sup>1</sup> de son choix. Le nom de l'un et de l'autre sont mentionnés au procès-verbal.
+
+Si le président ou un autre membre du bureau conteste la réalité ou l'importance de ces difficultés, le bureau statue et sa décision motivée est inscrite au procès-verbal.
+
+----------
+
+(1)&lt;L 2023-03-28/02, art. 119, 003; En vigueur : 01-10-2023&gt;
+
+### Art. 10
+
+§ 1er. Après qu'il a exprimé son vote, l'électeur sort de l'isoloir et se dirige vers l'urne avec son bulletin de vote toujours plié en deux ainsi que mentionné à l'article 9, § 4, alinéa 1er.
+
+Si un autre électeur est déjà présent devant l'urne afin d'y enregistrer son bulletin de vote, l'électeur doit patienter dans la zone d'attente visée à l'article 4, § 1er, alinéa 4.
+
+L'électeur remet ensuite la carte à puce au président du bureau ou à l'assesseur désigné par celui-ci, scanne le code-barres de son bulletin et insère enfin celui-ci dans [<sup>1</sup> la fente de l'urne après ouverture du système d'obturation automatique de celle-ci]<sup>1</sup>.
+
+§ 2. Le bulletin de vote est annulé :
+
+1° si l'électeur déplie son bulletin de vote en sortant du compartiment-isoloir, de manière à faire connaître le vote qu'il a émis. Il en est de même si l'électeur a apporté extérieurement des marques ou des inscriptions sur son bulletin de vote;
+
+2° si, à la suite d'une mauvaise manipulation ou de toute autre manoeuvre involontaire, l'électeur a détérioré le bulletin de vote qui lui a été remis;
+
+3° si, pour une raison technique quelconque, l'impression du bulletin de vote s'est révélée impossible totalement ou en partie;
+
+4° si, lors d'une visualisation par l'électeur à l'écran du contenu du code-barres conformément à l'article 9, § 6, celui-ci constate une différence entre cette visualisation apparaissant à l'écran et la mention du vote émis telle que imprimée sur le bulletin de vote;
+
+5° si la lecture du code-barres par l'urne électronique n'est pas possible.
+
+Dans les cas visés à l'alinéa 1er, 1° et 2°, l'annulation peut être prononcée après une décision du bureau en ce sens.
+
+Dans les cas visés aux alinéas précédents, l'électeur est invité à recommencer son vote au moyen d'une nouvelle carte à puce. De même si un électeur a détérioré, avant son vote, par inadvertance la carte à puce qui lui a été remise, il lui est fourni une nouvelle carte à puce.
+
+Le président inscrit sur les bulletins pliés repris en exécution de l'alinéa 1er, la mention : "Bulletin repris" et y ajoute son paraphe.
+
+----------
+
+(1)&lt;L 2018-04-19/25, art. 64, 002; En vigueur : 01-04-2019&gt;
+
+### Art. 11
+
+A l'issue du scrutin, le président du bureau de vote rend l'appareil de vote inopérant pour des votes ultérieurs. Les données relatives au vote sont toujours enregistrées sur deux supports de mémoire.
+
+Les bulletins de vote sont ensuite placés dans une enveloppe (ou dans un format correspondant adapté) qui est scellée. Cette enveloppe porte en suscription la mention du contenu, la date de l'élection, l'identification du bureau de vote et du canton électoral. Elle porte au verso la signature du président, des membres du bureau et s'ils en formulent le souhait, des témoins.
+
+Les données relatives au vote d'un bureau de vote donné ne peuvent être divulguées.
+
+### Art. 12
+
+Les supports de mémoire [<sup>1</sup> et le rapport des chiffres-clé contenant les éléments de sécurité]<sup>1</sup> sont placés dans une enveloppe portant en suscription la mention du contenu, la date de l'élection, l'identification du bureau de vote et du canton électoral. L'enveloppe est scellée et porte au verso la signature du président, des membres du bureau et s'ils en formulent le souhait, des témoins.
+
+----------
+
+(1)&lt;L 2023-03-28/02, art. 120, 003; En vigueur : 01-10-2023&gt;
+
+### Art. 13
+
+Le procès-verbal du bureau de vote est rédigé séance tenante. Il mentionne par élection le nombre de votes enregistrés, le nombre d'électeurs présents et le nombre de bulletins de vote repris en vertu de l'article 10, § 2.
+
+Sont mentionnés au procès-verbal [<sup>1</sup> ...]<sup>1</sup> les statistiques nécessaires pour étude déterminées par le ministre de l'Intérieur.
+
+Sont également mentionnés au procès-verbal, le cas échéant, les difficultés et incidents survenus au cours des opérations de vote. Les bulletins de vote repris en vertu de l'article 10, § 2, [<sup>1</sup> sont placés dans une enveloppe scellée qui est jointe]<sup>1</sup> au procès-verbal.
+
+[<sup>1</sup> Les cartes à puces ainsi que le papier électoral encore présent dans les imprimantes de vote ou non utilisé sont récupérés après la clôture des opérations de vote par un responsable désigné par le collège des bourgmestre et échevins ou le collège communal de la commune.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-03-28/02, art. 121, 003; En vigueur : 01-10-2023&gt;
+
+### Art. 14
+
+Le procès-verbal et les enveloppes annexées, l'enveloppe contenant les bulletins de vote trouvés dans l'urne ainsi que les supports de mémoire sont remis sans délai par le président du bureau de vote, contre récépissé, au président du bureau principal de canton.
+
+Les cartes à puces ainsi que le papier électoral récupéré dans les imprimantes ou non utilisé sont conservés dans les locaux de l'administration communale avec indication de leur origine. Les bulletins de vote trouvés dans l'urne, les bulletins de vote repris en vertu de l'article 10, § 2, [<sup>1</sup> ...]<sup>1</sup> et les supports de mémoire utilisés sont conservés au greffe du tribunal de première instance ou de la justice de paix, avec indication de leur origine, aussi longtemps que l'élection n'est pas définitivement validée ou annulée.
+
+----------
+
+(1)&lt;L 2023-03-28/02, art. 122, 003; En vigueur : 01-10-2023&gt;
+
+## CHAPITRE 4. - Dispositions particulières pour le vote
+
+### Art. 15
+
+Dans les bureaux de vote où il est fait usage d'un système de vote électronique avec preuve papier :
+
+1° par dérogation à l'article 139 du Code électoral, à l'article 18, § 1er, alinéa 3, de la loi ordinaire du 16 juillet 1993 visant à achever la structure fédérale de l'Etat, à l'article 15, § 1er, alinéa 3, de la loi du 12 janvier 1989 réglant les modalités de l'élection du Parlement de la Région de Bruxelles-Capitale et des membres bruxellois du Parlement flamand, à l'article 31, § 1er, alinéa 3, de la loi du 6 juillet 1990 réglant les modalités de l'élection du Parlement de la Communauté germanophone, le Roi peut augmenter le nombre maximum d'électeurs par compartiment-isoloir;
+
+2° par dérogation à l'article 95, § 9 du Code électoral, à l'article 14, § 4 de la loi précitée du 6 juillet 1990, le Roi peut augmenter le nombre de membres des bureaux de vote où sont inscrits plus de huit cents électeurs;
+
+3° par dérogation à l'article 142, alinéas 1er et 2, du Code électoral et à l'article 32, alinéas 1er et 2, de la loi du 6 juillet 1990 réglant les modalités de l'élection du Parlement de la Communauté germanophone, le Roi peut prolonger les heures d'ouverture des bureaux de vote. Dans ce cas, les jetons de présence du président et des autres membres de ces bureaux sont majorés de 50 pour cent.
+
+Dans le cas visé à l'alinéa 1er, 3°, les instructions aux électeurs sont adaptées.
+
+### Art. 16
+
+Dans les bureaux de vote où il est fait usage d'un système de vote électronique avec preuve papier, préalablement à l'ouverture du bureau aux électeurs :
+
+1° le président vérifie que le bac de l'urne destiné à contenir les bulletins de vote émis par les ordinateurs de vote est vide et scelle l'urne;
+
+2° le président vérifie [<sup>1</sup> sur l'ordinateur visé à l'article 4, § 1er, alinéa 1er, 3°,]<sup>1</sup> que le compteur de nombre des votes enregistrés se trouve à zéro;
+
+3° [<sup>1</sup> le président et les membres du bureau émettent leur vote, en veillant à utiliser tous les ordinateurs de vote présents dans le bureau. Le président et les membres du bureau vérifient ensuite le contenu de leur bulletin de vote imprimé avec le lecteur de code-barres, visé à l'article 4, § 1er, alinéa 1er, 4°, qui est présent dans un des isoloirs. Après avoir effectué cette vérification et pour autant que celle-ci soit positive, le président et les membres du bureau scannent leur bulletin de vote et l'insèrent dans l'urne conformément aux dispositions de l'article 10, § 1er. Il est fait mention au procès-verbal de la réalisation de cette opération et des observations effectuées.]<sup>1</sup>
+
+Outre les documents prescrits pour l'élection concernée, un exemplaire de la présente loi est déposé dans le bureau de vote [<sup>1</sup> ...]<sup>1</sup>. L'ensemble des listes de candidats présentés pour chacune des élections sont affichées dans chaque bureau de vote sur un panneau destiné à cet effet. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-03-28/02, art. 123, 003; En vigueur : 01-10-2023&gt;
+
+## CHAPITRE 5. - Des opérations préalables à l'élection
+
+### Art. 17
+
+§ 1er. Le ministre de l'Intérieur ou son délégué élabore les logiciels électoraux destinés aux bureaux principaux de collège, aux bureaux principaux de province, aux bureaux principaux de circonscription électorale, aux bureaux principaux de canton et aux bureaux de vote.
+
+§ 2. Dans la semaine qui suit le jour de l'élection, le logiciel de vote est publié sur le site internet du ministre de l'Intérieur ou de son délégué. [<sup>1</sup> Cette publication ne comprenant pas les éléments de sécurité reste disponible durant les 6 mois faisant suite à l'élection.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-04-19/25, art. 65, 002; En vigueur : 03-06-2018&gt;
+
+### Art. 18
+
+§ 1er. Dès l'arrêt définitif des listes de candidats, ou en cas d'appel, dès que le bureau a pris connaissance de la décision de la cour d'appel ou du Conseil d'Etat, le président du bureau principal de collège électoral, de circonscription électorale, dans la mesure où des cantons électoraux de leur ressort sont concernés par le vote électronique avec preuve papier, transmet par la voie digitale ces listes et le numéro qui leur a été attribué au fonctionnaire désigné par le ministre de l'Intérieur.
+
+§ 2. Les documents reproduisant l'ensemble des numéros d'ordre et sigles [<sup>1</sup> ...]<sup>1</sup> des listes présentées et les listes de candidats, tels que le logiciel les fera apparaître à l'écran de visualisation, sont soumis à l'approbation du président du bureau principal visé au § 1er, qui vérifie la concordance de ces documents avec le procès-verbal d'arrêt définitif des listes de candidats. Chaque président ou la personne que celui-ci désigne valide les documents après avoir fait procéder, le cas échéant, aux corrections nécessaires et retourne les documents validés au fonctionnaire précité.
+
+Celui-ci fait établir [<sup>1</sup> les logiciels destinés à la totalisation]<sup>1</sup> des votes par les bureaux principaux de canton ainsi que les supports de mémoire destinés aux bureaux de vote.
+
+§ 3. Ces supports, placés sous enveloppe scellée par bureau principal ou de vote sont remis par le fonctionnaire précité contre récépissé aux présidents des bureaux principaux au moins trois jours avant l'élection. Chaque enveloppe porte en suscription l'identification du bureau correspondant. Une enveloppe scellée distincte par bureau et remise également contre récépissé aux présidents des bureaux principaux contient les éléments de sécurité nécessaires pour l'utilisation des supports de mémoire.
+
+Le président du bureau principal remet contre récépissé à chaque président de bureau de vote de son ressort, les enveloppes qui le concernent, au plus tard la veille de l'élection.
+
+----------
+
+(1)&lt;L 2023-03-28/02, art. 124, 003; En vigueur : 01-10-2023&gt;
+
+## CHAPITRE 6. - Des opérations de totalisation des votes
+
+### Art. 19
+
+Le président du bureau principal de canton procède, dès réception des supports de mémoire provenant du bureau de vote, à l'enregistrement d'un des supports [<sup>2</sup> sur le logiciel]<sup>2</sup> destiné à la totalisation des votes. [<sup>1</sup> L'enregistrement des supports de mémoire et la totalisation des votes sont effectués à l'aide des logiciels visés à l'article 165, alinéa 2, du Code électoral.]<sup>1</sup>
+
+Si l'enregistrement au moyen du support de mémoire se révèle impossible, le président du bureau principal recommence l'opération d'enregistrement au moyen du second support.
+
+Si cette opération se révèle également impossible, le président du bureau principal requiert de la commune concernée la fourniture d'une urne électronique et d'un ordinateur de président, mentionnés à l'article 4; il procède à un enregistrement complet, au moyen du lecteur de l'urne, du code-barres présent sur chaque bulletin de vote placé dans l'enveloppe visée à l'article 11, alinéa 2.
+
+L'enregistrement du bureau de vote terminé, le président replace les bulletins dans l'enveloppe visée à l'article 11, alinéa 2, et scelle à nouveau celle-ci. Il procède ensuite à l'enregistrement du nouveau support de mémoire ainsi constitué.
+
+----------
+
+(1)&lt;L 2018-04-19/25, art. 66, 002; En vigueur : 03-06-2018&gt;
+
+(2)&lt;L 2023-03-28/02, art. 125, 003; En vigueur : 01-10-2023&gt;
+
+### Art. 20
+
+La proclamation par le président du bureau principal de canton de résultats partiels obtenus par les listes [<sup>1</sup> intervient de manière électronique]<sup>1</sup> après l'enregistrement d'un nombre de bureaux de vote à déterminer par le ministre de l'Intérieur jusqu'à l'enregistrement de tous les bureaux de vote. [<sup>1</sup> Toutefois, la proclamation de la dernière tranche de bureaux de vote enregistrés peut être suspendue par le président du bureau principal de canton afin d'effectuer si nécessaire des contrôles.]<sup>1</sup>
+
+En l'absence de la détermination des règles de proclamation visées à l'alinéa 1er par le ministre de l'Intérieur, la proclamation par le président du bureau principal de canton de résultats partiels obtenus par les listes [<sup>1</sup> intervient de manière électronique]<sup>1</sup> après l'enregistrement d'au moins dix bureaux et par la suite de dix bureaux de vote supplémentaires et ainsi de suite jusqu'à enregistrement de tous les bureaux de vote.
+
+----------
+
+(1)&lt;L 2023-03-28/02, art. 126, 003; En vigueur : 01-10-2023&gt;
+
+### Art. 21
+
+Lorsque les résultats de tous les bureaux de vote ont été enregistrés et totalisés, le président du bureau principal procède à l'impression du procès-verbal et du tableau de recensement des votes [<sup>1</sup> ...]<sup>1</sup>.
+
+Dans la circonscription électorale de Bruxelles-Capitale, lors de l'élection du Parlement européen, le président du bureau principal de canton procède à l'impression de deux tableaux de recensement : l'un rédigé en français, recense les résultats des suffrages exprimés en faveur de listes de candidats d'expression française ou en faveur des listes de candidats déposées au bureau principal du collège français, et l'autre, rédigé en néerlandais, recense les résultats des suffrages exprimés en faveur des listes de candidats d'expression néerlandaise ou en faveur des listes de candidats déposées au bureau principal du collège néerlandais; il procède à l'impression d'un procès-verbal distinct.
+
+Dans le canton électoral de Rhode-Saint-Genèse, lors de l'élection de la Chambre des représentants, le président du bureau principal de canton procède à l'impression de deux tableaux de recensement établis en néerlandais : l'un recense les résultats des suffrages exprimés en faveur de listes de la circonscription du Brabant flamand, et l'autre, recense les résultats des suffrages exprimés en faveur des listes de la circonscription de Bruxelles-Capitale. De même dans ce canton électoral, lors de l'élection du Parlement européen, le président du bureau principal de canton procède à l'impression de deux tableaux de recensement établis en néerlandais : l'un recense les résultats des suffrages exprimés en faveur des listes du collège électoral français, et l'autre, recense les résultats des suffrages exprimés en faveur des listes du collège électoral néerlandais.
+
+----------
+
+(1)&lt;L 2023-03-28/02, art. 127, 003; En vigueur : 01-10-2023&gt;
+
+### Art. 22
+
+§ 1er. Le procès-verbal et le tableau de recensement, signés par le président, les autres membres et les témoins du bureau principal, sont placés sous enveloppe scellée dont la suscription indique le contenu.
+
+Cette enveloppe ainsi que celles contenant les procès-verbaux des bureaux de vote sont réunies en un paquet scellé que le président du bureau principal fait parvenir, dans les 24 heures, selon le cas :
+
+1° au président du bureau principal de la circonscription électorale, pour ce qui concerne l'élection de la Chambre des représentants;
+
+2° au président du bureau principal de province visé à l'article 12, § 3, de la loi du 23 mars 1989 relative à l'élection du Parlement européen;
+
+3° au président du bureau principal de la circonscription électorale pour l'élection du Parlement wallon, du Parlement flamand et du Parlement de la Communauté germanophone;
+
+4° au président du bureau régional pour l'élection du Parlement de la Région de Bruxelles-Capitale.
+
+§ 2. [<sup>1</sup> Les supports de mémoire provenant des bureaux de vote sont transmis par le bureau principal de canton au bureau principal de circonscription qui remet ceux-ci dans les meilleurs délais, contre accusé de réception, à un membre du Collège des experts, visé au chapitre 7, afin que ce Collège effectue les missions visées à l'article 25. Le Collège des experts remet les supports de mémoire au fonctionnaire désigné par le ministre de l'Intérieur dès que l'élection est définitivement validée ou annulée. Ce fonctionnaire procède à l'effacement des supports de mémoire et constate par écrit au ministre de l'Intérieur ou son délégué que cet effacement a été effectué.]<sup>1</sup>
+
+§ 3. Dès que l'élection a été définitivement validée ou annulée, les bulletins de vote trouvés dans les urnes conservés au greffe du tribunal de première instance ou de la justice de paix, sont détruits.
+
+§ 4. Dès que l'élection a été définitivement validée ou annulée, les bulletins de vote repris [<sup>1</sup> ...]<sup>1</sup>, conservés au greffe du tribunal de première instance ou de la justice de paix, sont détruits.
+
+§ 5. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-03-28/02, art. 128, 003; En vigueur : 01-10-2023&gt;
+
+### Art. 23
+
+§ 1er. Le bureau principal de cantons dans lesquels est organisé le vote électronique avec production de bulletin de vote en papier n'est pas scindé en un bureau A et un bureau B, par dérogation :
+
+1° à l'article 30 de la loi ordinaire du 16 juillet 1993 visant à achever la structure fédérale de l'Etat, s'agissant de l'élection simultanée du Parlement wallon, du Parlement flamand et du Parlement européen;
+
+2° à l'article 37 de la même loi, s'agissant de l'élection simultanée du Parlement wallon, du Parlement flamand et de la Chambre des représentants;
+
+3° à l'article 24 de la loi du 12 janvier 1989 réglant les modalités de l'élection du Parlement de la Région de Bruxelles-Capitale et les membres bruxellois du Parlement flamand, s'agissant de l'élection simultanée de ce Parlement et du Parlement européen;
+
+4° à l'article 30 de la même loi, s'agissant de l'élection simultanée du Parlement de la Région de Bruxelles-Capitale et de la Chambre des représentants;
+
+5° à l'article 52 de la loi du 6 juillet 1990 réglant les modalités de l'élection du Parlement de la Communauté germanophone, s'agissant de l'élection simultanée de ce Parlement, du Parlement wallon et du Parlement européen;
+
+6° à l'article 58 de la même loi, s'agissant de l'élection simultanée du Parlement de la Communauté germanophone, du Parlement wallon et de la Chambre des représentants.
+
+§ 2. Le bureau principal de cantons dans lesquels est organisé le vote électronique avec production de bulletin papier n'est pas scindé en un bureau A, un bureau B et un bureau C, par dérogation :
+
+1° à l'article 41quater de la loi ordinaire du 16 juillet 1993 visant à achever la structure fédérale de l'Etat, en cas d'élections simultanées pour le Parlement wallon, le Parlement flamand, le Parlement européen et la Chambre des représentants;
+
+2° à l'article 37 de la loi du 12 janvier 1989 réglant les modalités de l'élection du Parlement de la Région de Bruxelles-Capitale et les membres bruxellois du Parlement flamand, en cas d'élections simultanées pour ce Parlement, le Parlement européen et la Chambre des représentants;
+
+3° à l'article 64 de la loi du 6 juillet 1990 réglant les modalités de l'élection du Parlement de la Communauté germanophone, en cas d'élections simultanées pour ce Parlement, le Parlement wallon, le Parlement européen et la Chambre des représentants.
+
+## CHAPITRE 7. - Du Collège d'Experts
+
+### Art. 24
+
+§ 1er. Il est créé un Collège d'Experts composé comme suit :
+
+1° un Collège permanent;
+
+2° lors de l'élection des membres de la Chambre des représentants, du Parlement européen et des Parlements de communauté et de région, un Collège non permanent est adjoint au Collège permanent.
+
+Le Collège d'Experts est composé de spécialistes en informatique.
+
+§ 2. En vue de la constitution du Collège permanent, le Parlement de la Région de Bruxelles-Capitale, le Parlement wallon, le Parlement flamand et le Parlement de la Communauté germanophone désignent, pour une durée de cinq ans, chacun un expert effectif et un expert suppléant, le Parlement de la Région de Bruxelles-Capitale ne pouvant toutefois pas désigner un expert effectif et un expert suppléant du même rôle linguistique. La Chambre des représentants désigne, pour une durée de cinq ans, trois experts effectifs et trois experts suppléants, en veillant à l'occasion de cette désignation à garantir la parité linguistique du Collège permanent. [<sup>1</sup> Ces désignations sont effectuées au plus tard trois mois avant le jour de l'élection du Parlement européen.]<sup>1</sup>
+
+[<sup>1</sup> A défaut de nouvelle désignation d'un expert effectif ou suppléant par une assemblée parlementaire conformément à l'alinéa 1er, l'expert effectif ou suppléant en charge, qui est concerné par l'absence de nouvelle désignation, continue à exercer ses fonctions tant qu'une nouvelle désignation n'est pas intervenue. L'expert effectif ou suppléant ensuite désigné n'exercera ses fonctions que pour la durée restante du délai de cinq ans visé à l'alinéa 1er.]<sup>1</sup>
+
+Un des experts effectifs désignés par la Chambre des représentants doit être porteur du diplôme de licencié en droit ou de master en droit, en veillant dans la mesure du possible à ce que celui-ci possède des connaissances de base en informatique.
+
+Les experts effectifs visés à l'alinéa 1er désignent en leur sein un président et un secrétaire.
+
+Lors de l'élection des membres de la Chambre des représentants, du Parlement européen et des Parlements de communauté et de région, les experts suppléants désignés sont membres de plein droit du Collège d'Experts.
+
+§ 3. En vue de la constitution du Collège non permanent, la Chambre des représentants, le Parlement de la Région de Bruxelles-Capitale, le Parlement wallon, le Parlement flamand et le Parlement de la Communauté germanophone désignent chacun deux experts.
+
+Ces désignations sont effectuées tant lors du renouvellement complet de chaque assemblée que lors d'une nouvelle élection organisée suite à l'annulation d'un scrutin, ainsi que lors d'une élection faisant suite à une vacance à laquelle il ne peut être pourvu par l'installation d'un suppléant.
+
+----------
+
+(1)&lt;L 2018-04-19/25, art. 67, 002; En vigueur : 03-06-2018&gt;
+
+### Art. 25
+
+§ 1er. Lors de l'élection des membres de la Chambre des représentants, du Parlement européen et des Parlements de communauté et de région, ces experts contrôlent la préparation, l'utilisation et le bon fonctionnement de l'ensemble de systèmes de vote, de décryptage, d'enregistrement et de totalisation électroniques ainsi que les procédures concernant la confection, la distribution et l'utilisation des appareils, des logiciels et des supports d'information électroniques. Le Collège d'Experts contrôle également la préparation, l'utilisation et le bon fonctionnement des matériels, logiciels et procédures de transmission et de diffusion digitale des résultats [<sup>1</sup> ainsi que tout logiciel utilisé dans le cadre des élections même lorsque le vote se déroule selon d'autres modalités que celles prévues par la présente loi]<sup>1</sup>.
+
+Les experts reçoivent du ministre de l'Intérieur ou de son délégué le matériel ainsi que l'ensemble des données, renseignements et informations utiles pour exercer un contrôle sur les systèmes de vote, d'enregistrement et de totalisation électroniques et sur les systèmes de transmission digitale des résultats. Les membres de bureaux électoraux, les organismes d'avis visés à l'article 4, § 3, alinéa 2, et les entreprises privées - ainsi que leurs membres - associées par les autorités compétentes au déroulement du processus électoral fournissent également aux experts le matériel ainsi que l'ensemble des données, renseignements et informations utiles pour exercer le contrôle visé à l'alinéa 1er.
+
+Les experts peuvent notamment émettre dans les bureaux de vote - durant l'élection - des votes qui ne sont ni scannés ni comptabilisés, vérifier la fiabilité des logiciels des systèmes de vote, la transcription exacte des votes émis sur les bulletins de vote, la transcription exacte, par la lecture du code-barres présent sur chaque bulletin de vote, des suffrages exprimés sur le support de mémoire du bureau de vote, l'enregistrement exact du support de mémoire provenant du bureau de vote sur [<sup>2</sup> le logiciel destiné à la totalisation]<sup>2</sup> des votes et la totalisation des suffrages exprimés. Ils peuvent également vérifier la fiabilité des logiciels de transmission digitale des résultats électoraux.
+
+Le Collège d'Experts peut procéder à un audit des résultats afin de garantir la fiabilité et l'intégrité du système de vote électronique avec production d'un bulletin de vote en papier.
+
+Ils effectuent ce contrôle à partir du quarantième jour précédant l'élection, le jour de l'élection et après celle-ci, jusqu'au dépôt du rapport visé au § 2.
+
+§ 2. Au plus tard quinze jours après la clôture des scrutins et en tout état de cause avant la validation des élections pour ce qui concerne la Chambre des représentants, les Parlements de communauté et de région et le Parlement européen, les experts remettent un rapport au ministre de l'Intérieur ainsi qu'aux assemblées législatives fédérales, régionales et communautaires.
+
+§ 3. Les experts sont tenus au secret. Toute violation de ce secret sera sanctionnée conformément à l'article 458 du Code pénal.
+
+[<sup>1</sup> § 4. La Chambre des représentants veille à mettre à disposition du Collège d'experts les moyens et ressources nécessaires pour l'accomplissement des tâches visées au présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-04-19/25, art. 68, 002; En vigueur : 03-06-2018&gt;
+
+(2)&lt;L 2023-03-28/02, art. 129, 003; En vigueur : 01-10-2023&gt;
+
+### Art. 26
+
+En dehors des périodes électorales visées à l'article 25, le Collège d'Experts, dans sa composition permanente, est associé par le ministre de l'Intérieur ou son délégué aux travaux et recherches effectués dans le cadre de modifications ou d'améliorations apportées aux systèmes de vote, d'enregistrement, de décryptage et de totalisation électroniques, aux procédures concernant la confection, la distribution et l'utilisation des appareils, des logiciels et des supports d'information électroniques ainsi qu'en ce qui concerne les matériels, logiciels et procédures de diffusion digitale des résultats [<sup>1</sup> ainsi que tout logiciel utilisé dans la cadre des élections même lorsque le vote se déroule selon d'autres modalités que celles prévues par la présente loi]<sup>1</sup>; ceci afin de garantir la fiabilité et l'intégrité de ces différents systèmes, logiciels et matériels.
+
+Dans le cadre de la mission du Collège d'experts visée à l'alinéa 1er, le ministre de l'Intérieur ou son délégué ainsi que les entreprises privées associées par les autorités compétentes au déroulement du processus électoral fournissent le matériel ainsi que l'ensemble des données, renseignements et informations utiles pour exercer cette mission.
+
+----------
+
+(1)&lt;L 2018-04-19/25, art. 69, 002; En vigueur : 03-06-2018&gt;
+
+### Art. 26/1.
+
+[<sup>1</sup> En dehors des périodes électorales visées à l'article 25, la Chambre des représentants ou un Parlement de communauté et de région peuvent confier au Collège d'experts, dans sa composition permanente, des missions spécifiques de contrôle et d'étude relatives à la sécurisation et à la fiabilité des différents systèmes, logiciels et matériels utilisés lors des élections.
+
+L'assemblée parlementaire confiant une mission spécifique, visée à l'alinéa 1er, au Collège d'experts, dans sa composition permanente, veille à mettre à disposition de ce Collège les moyens et ressources nécessaires pour l'accomplissement de ladite mission.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-04-19/25, art. 70, 002; En vigueur : 03-06-2018&gt;
+
+## CHAPITRE 8. - Des spécialistes en informatique
+
+### Art. 27
+
+§ 1er. Lors de l'élection des membres de la Chambre des représentants, du Parlement européen et des Parlements de communauté et de région, chaque formation politique représentée dans l'une ou l'autre Chambre par au moins deux parlementaires peut désigner un spécialiste en informatique.
+
+§ 2. A partir du vingtième jour précédant celui des élections, les spécialistes en informatique visés au § 1er reçoivent du ministre de l'Intérieur ou de son délégué les codes sources [<sup>1</sup> ne comprenant pas les éléments de sécurité]<sup>1</sup> des logiciels électoraux des différents systèmes de vote et d'enregistrement électroniques, pour contrôle et analyse. Ils reçoivent toutes les données et informations qui sont nécessaires pour l'exercice de ce contrôle.
+
+§ 3. Les spécialistes en informatique visés au § 1er sont tenus au secret [<sup>1</sup> jusqu'à ce que la publication visée à l'article 17, § 2, soit effectuée]<sup>1</sup>. Toute violation de ce secret sera sanctionnée conformément à l'article 458 du Code pénal.
+
+----------
+
+(1)&lt;L 2023-03-28/02, art. 130, 003; En vigueur : 01-10-2023&gt;
+
+## CHAPITRE 9. - Dispositions finales
+
+### Art. 28
+
+La contrefaçon des supports de mémoire, des bulletins de vote et des cartes à puces est punie comme faux en écritures publiques.
+
+### Art. 29
+
+L'article 200 du Code électoral s'applique à l'altération frauduleuse des systèmes de vote et de totalisation ainsi que des supports de mémoire, des cartes à puces et des bulletins de vote.
+
+### Art. 30
+
+[<sup>1</sup> § 1er. Ne sont pas applicables aux cantons électoraux où un système de vote électronique avec production d'un bulletin de vote en papier est mis en place :
+
+1° les articles 129, 143, alinéas 1er à 3, 144, 145, 147, 149 à 152, 154 à 160, 161, alinéas 1er à 10 et 12 et 162 du Code électoral, ainsi que les articles 95 et 131 du même Code en ce qu'ils concernent les bureaux de dépouillement;
+
+2° les dispositions du Livre Ier de la loi ordinaire du 16 juillet 1993 visant à achever la structure fédérale de l'Etat, de la loi du 23 mars 1989 relative à l'élection du Parlement européen, de la loi du 6 juillet 1990 réglant les modalités de l'élection du Parlement de la Communauté germanophone et de la loi du 12 janvier 1989 réglant les modalités de l'élection du Parlement de la Région de Bruxelles-Capitale et des membres bruxellois du Parlement flamand, en ce qu'elles référent aux articles du Code électoral visés au 1° ou en ce qu'elles concernent les bulletins de vote et les bureaux de dépouillement.
+
+§ 2. Les articles 32, 39 et 41sexies de la loi ordinaire du 16 juillet 1993 visant à achever la structure fédérale de l'Etat sont applicables aux cantons électoraux où un système de vote électronique avec production d'un bulletin de vote en papier est mis en place. Pour cette application, il y a lieu de lire :
+
+1° l'article 32 comme suit :
+
+"Les opérations de vote sont communes aux deux élections, sans préjudice de l'application de l'article 11 de la loi du 23 mars 1989 relative à l'élection du Parlement européen en ce qui concerne l'article 89bis du Code électoral. Le procès-verbal des opérations de vote est dressé en double exemplaire et remis au bureau principal de canton qui transmettra un exemplaire au bureau principal de la circonscription pour l'élection du Parlement wallon et du Parlement flamand et l'autre au bureau principal de collège pour l'élection du Parlement européen.";
+
+2° l'article 39 comme suit :
+
+"Les opérations de vote sont communes aux élections pour le Parlement et la Chambre des représentants, sans préjudice de l'application de l'article 89bis du Code électoral. Le procès-verbal des opérations de vote est dressé en double exemplaire et remis au bureau principal de canton qui transmettra un exemplaire au bureau principal de la circonscription pour l'élection du Parlement et l'autre au bureau principal de la circonscription pour l'élection de la Chambre des représentants.";
+
+3° l'article 41sexies comme suit :
+
+"Les opérations de vote sont communes aux élections pour le Parlement wallon et le Parlement flamand, la Chambre des représentants et le Parlement européen, sans préjudice de l'application de l'article 89bis du Code électoral pour ce qui concerne l'élection de la Chambre des représentants et du Parlement européen. Le procès-verbal des opérations de vote est dressé en double exemplaire et remis au bureau principal de canton qui transmettra un exemplaire au bureau principal de la circonscription pour l'élection du Parlement et l'autre au bureau principal de la circonscription pour l'élection de la Chambre des représentants.".
+
+§ 3. Les articles 54, 60 et 66 de la loi du 6 juillet 1990 réglant les modalités de l'élection du Parlement de la Communauté germanophone sont applicables aux cantons électoraux où un système de vote électronique avec production d'un bulletin de vote en papier est mis en place. Pour cette application, il y a lieu de lire :
+
+1° l'article 54 comme suit :
+
+"Les opérations de vote sont communes aux trois élections. Le procès-verbal des opérations de vote est dressé en triple exemplaire et remis au bureau principal de canton qui transmettra un exemplaire au bureau principal de la circonscription pour l'élection du Parlement de la Communauté germanophone, un autre au bureau principal de la circonscription pour l'élection du Parlement wallon et un autre au bureau principal de collège pour l'élection du Parlement européen.";
+
+2° l'article 60 comme suit :
+
+"Les opérations de vote sont communes aux élections pour le Parlement de la Communauté germanophone, le Parlement wallon et la Chambre des représentants. Le procès-verbal des opérations de vote est dressé en triple exemplaire et remis au bureau principal de canton qui transmettra un exemplaire au bureau principal de la circonscription pour l'élection du Parlement de la Communauté germanophone, le deuxième exemplaire au bureau principal de la circonscription pour l'élection du Parlement wallon et le troisième exemplaire au bureau principal de la circonscription pour l'élection de la Chambre des représentants.";
+
+3° l'article 66 comme suit :
+
+"Les opérations de vote sont communes aux quatre élections. Le procès-verbal des opérations de vote est dressé en triple exemplaire et remis au bureau principal de canton qui transmettra un exemplaire au bureau principal de la circonscription pour l'élection du Parlement de la Communauté germanophone, le deuxième exemplaire au bureau principal de la circonscription pour l'élection du Parlement wallon et le troisième exemplaire au bureau principal de la circonscription pour l'élection de la Chambre des représentants.".
+
+§ 4. Les articles 26, 32 et 39 de la loi du 12 janvier 1989 réglant les modalités de l'élection du Parlement de la Région de Bruxelles-Capitale et des membres bruxellois du Parlement flamand sont applicables aux cantons électoraux où un système de vote électronique avec production d'un bulletin de vote en papier est mis en place. Pour cette application, il y a lieu de lire
+
+1° l'article 26 comme suit :
+
+"Les opérations de vote sont communes à toutes les élections. Le procès-verbal des opérations de vote est dressé en triple exemplaire et remis au bureau principal de canton qui transmettra deux exemplaires au bureau régional et un exemplaire au bureau principal de collège pour l'élection du Parlement européen.";
+
+2° l'article 32 comme suit :
+
+"Les opérations de vote sont communes aux élections du Parlement et de la Chambre des représentants. Le procès-verbal des opérations de vote est dressé en triple exemplaire et remis au bureau principal de canton qui transmettra deux exemplaires au bureau régional et un exemplaire au bureau principal de la circonscription pour l'élection de la Chambre des représentants.";
+
+3° l'article 39 comme suit :
+
+"Les opérations de vote pour les élections pour le Parlement, la Chambre des représentants et le Parlement européen. Le procès-verbal des opérations de vote est dressé en triple exemplaire et remis au bureau principal de canton qui transmettra deux exemplaires au bureau régional et un exemplaire au bureau principal de la circonscription pour l'élection de la Chambre des représentants.".]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-04-19/25, art. 71, 002; En vigueur : 03-06-2018&gt;
+
+### Art. 31
+
+&lt;Abrogé par L 2018-04-19/25, art. 72, 002; En vigueur : 03-06-2018&gt;
+
+### Art. 32
+
+Les articles 204, 205 et 206 du Code électoral sont applicables aux infractions visées aux articles 28 et 29.
+
+### Art. 33
+
+&lt;Abrogé par L 2023-03-28/02, art. 131, 003; En vigueur : 01-10-2023&gt;
+
+### Art. 34
+
+Le ministre de l'Intérieur adapte, le cas échéant, les instructions pour l'électeur concernant les élections visées à l'article 30.
+
+## CHAPITRE 10. - Disposition transitoire
+
+### Art. 35
+
+Les dispositions du chapitre 7 sont applicables au Collège d'Experts visé par l'article 5bis de la loi du 11 avril 1994 organisant le vote automatisé tant que les systèmes de vote automatisé décrits dans cette loi sont encore utilisés dans une ou plusieurs communes du Royaume lors de l'élection des membres de la Chambre des représentants, du Parlement européen et des Parlements de communauté et de région.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 7 février 2014.
+
+PHILIPPE
+
+Par le Roi :
+
+La Ministre de l'Intérieur,
+
+Mme J. MILQUET
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

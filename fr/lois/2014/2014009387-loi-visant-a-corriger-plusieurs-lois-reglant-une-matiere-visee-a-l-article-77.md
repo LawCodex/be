@@ -1,0 +1,110 @@
+---
+title: "Loi visant à corriger plusieurs lois réglant une matière visée à l'article 77 de la Constitution"
+identifier: "2014009387"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/05/2014009387/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2014-05-05
+published: 2014-07-08
+entry_into_force: 2014-07-18
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2014/05/05/2014009387/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 5 MAI 2014. - Loi visant à corriger plusieurs lois réglant une matière visée à l'article 77 de la Constitution
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition générale
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## CHAPITRE 2. - Modifications de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire
+
+### Art. 2
+
+Dans l'article 30, alinéa premier, de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire, modifié par la loi du 3 mai 2003, les mots "l'interrogatoire sur faits et articles" sont remplacés par les mots "l'interrogatoire des parties".
+
+### Art. 3
+
+A l'article 43 de la même loi sont apportées les modifications suivantes :
+
+1° dans le § 11, alinéa 2, les mots "du § 9" sont remplacés par les mots "de l'article 43quinquies";
+
+2° dans le § 12, alinéa premier, modifié par la loi du 23 septembre 1985, les mots "par un examen devant le jury prévu au § 9" sont remplacés par les mots "conformément à l'article 43quinquies".
+
+## CHAPITRE 3. - Modifications de la loi du 19 juillet 1945 tendant à pourvoir à l'exécution de l'article 82 de la Constitution
+
+### Art. 4
+
+Dans l'intitulé de la loi du 19 juillet 1945 tendant à pourvoir à l'exécution de l'article 82 de la Constitution, les mots "l'article 82" sont remplacés par les mots "l'article 93".
+
+### Art. 5
+
+Dans l'unique article de la même loi, les mots "l'article 82" sont remplacés par les mots "l'article 93".
+
+## CHAPITRE 4. - Modifications de la loi du 3 avril 1953 d'organisation judiciaire
+
+### Art. 6
+
+A l'article 1er de la loi du 3 avril 1953 d'organisation judiciaire, modifié en dernier lieu par la loi du 31 décembre 2012, sont apportées les modifications suivantes :
+
+1° dans le texte français, le mot "il" est remplacé par le mot "Il";
+
+2° dans le texte néerlandais, le mot "Er" est inséré in limine.
+
+### Art. 7
+
+L'article 5 de la même loi est abrogé.
+
+## CHAPITRE 5. - Modifications du Code judiciaire
+
+### Art. 8
+
+Dans l'article 151, alinéa premier, du Code judiciaire, modifié par la loi du 3 mai 2003, les mots "l'article 326, alinéa 1er" sont remplacés par les mots "l'article 326, § 1er".
+
+### Art. 9
+
+Dans l'article 613, 4°, du même Code, les mots "l'article 106" sont remplacés par les mots "l'article 158".
+
+### Art. 10
+
+Dans l'article 615, alinéa 1er, du même Code, modifié par la loi du 15 septembre 2006, les mots "l'article 90" sont remplacés par les mots "l'article 103".
+
+### Art. 11
+
+A l'article 5 de l'Annexe au Code judiciaire - Limites territoriales et siège des cours et tribunaux, remplacé par la loi du 26 juin 1974, sont apportées les modifications suivantes :
+
+1° dans la phrase introductive, les mots "l'article 104" sont remplacés par les mots "l'article 156";
+
+2° dans le 2°, les mots "la province de Brabant" sont remplacés par les mots "les provinces du Brabant wallon et du Brabant flamand et la région bilingue de Bruxelles-Capitale".
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 5 mai 2014.
+
+PHILIPPE
+
+Par le Roi :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM
