@@ -1,0 +1,72 @@
+---
+title: "Loi modifiant le Code civil en ce qui concerne les empêchements à mariage en cas d'adoption"
+identifier: "2010009588"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2010/06/02/2010009588/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2010-06-02
+published: 2010-06-21
+entry_into_force: 2010-07-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2010/06/02/2010009588/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 2 JUIN 2010. - Loi modifiant le Code civil en ce qui concerne les empêchements à mariage en cas d'adoption
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+A l'articIe 343, § 1er, b), du Code civil, remplacé par la loi du 27 décembre 2004 et modifié par la loi du 18 mai 2006, les mots " ou d'alliance " sont abrogés.
+
+## Art. 3
+
+L'article 353-13 du Code civil, inséré par la loi du 24 avril 2003, est remplacé par ce qui suit :
+
+" Le mariage est prohibé :
+
+1° entre l'adoptant et l'adopté ou ses descendants;
+
+2° entre l'adopté et l'ancien conjoint de l'adoptant;
+
+3° entre l'adoptant et l'ancien conjoint de l'adopté;
+
+4° entré les enfants adoptifs d'un même adoptant;
+
+5° entre l'adopté et les enfants de l'adoptant.
+
+Les empêchements visés à l'alinéa 1er, 2° à 5°, peuvent être levés par le Roi pour des motifs graves. "
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Nice, le 2 juin 2010.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK
+
+Le Secrétaire d'Etat à la Politique des familles,
+
+M. WATHELET
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK

@@ -1,0 +1,60 @@
+---
+title: "Loi modifiant le Code des impôts sur les revenus 1992 en ce qui concerne la dispense de versement du précompte professionnel retenu sur les rémunérations des sportifs"
+identifier: "2011003190"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2011/04/28/2011003190/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2011-04-28
+published: 2011-05-13
+entry_into_force: 2010-07-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2011/04/28/2011003190/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 28 AVRIL 2011. - Loi modifiant le Code des impôts sur les revenus 1992 en ce qui concerne la dispense de versement du précompte professionnel retenu sur les rémunérations des sportifs
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Dans l'article 275<sup>6</sup> du Code des impôts sur les revenus 1992, modifié en dernier lieu par la loi du 22 décembre 2009, les modifications suivantes sont apportées :
+
+1° dans l'alinéa 2, les mots " âges d'au moins 12 ans et " sont abrogés;
+
+2° l'alinéa 3 est remplacé par ce qui suit :
+
+" Pour l'application de l'alinéa 2, on entend par fonds affectés à la formation de jeunes sportifs, la rémunération des personnes chargées de la formation, de l'encadrement ou du soutien de ces jeunes sportifs dans leur pratique sportive ainsi que la rémunération des jeunes sportifs. La rémunération de jeunes sportifs comprend la rémunération payée ou attribuée à concurrence maximale de huit fois le montant visé à l'article 2, § 1er, de la loi du 24 février 1978 relative au contrat de travail du sportif rémunéré ainsi que les frais connexes visés à l'article 52, 3. "
+
+## Art. 3
+
+La présente loi produit ses effets le 1er juillet 2010.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 28 avril 2011.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK

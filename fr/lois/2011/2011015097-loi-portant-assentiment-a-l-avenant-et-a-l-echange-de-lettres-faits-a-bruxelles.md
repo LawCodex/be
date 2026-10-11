@@ -1,0 +1,62 @@
+---
+title: "Loi portant assentiment à l'Avenant et à l'Echange de lettres, faits à Bruxelles le 16 juillet 2009, à la Convention entre le Royaume de Belgique et le grand-duché de Luxembourg en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, et le Protocole final y relatif, signés à Luxembourg le 17 septembre 1970, tels que modifiés par l'Avenant, signé à Bruxelles le 11 décembre 2002"
+identifier: "2011015097"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2011/08/19/2011015097/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2011-08-19
+published: 2013-07-26
+entry_into_force: 2013-08-05
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2011/08/19/2011015097/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+retrieved: 2026-10-11
+---
+
+# 19 AOUT 2011. - Loi portant assentiment à l'Avenant et à l'Echange de lettres, faits à Bruxelles le 16 juillet 2009, à la Convention entre le Royaume de Belgique et le grand-duché de Luxembourg en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, et le Protocole final y relatif, signés à Luxembourg le 17 septembre 1970, tels que modifiés par l'Avenant, signé à Bruxelles le 11 décembre 2002
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+L'Avenant et l'Echange de lettres, faits à Bruxelles le 16 juillet 2009, à la Convention entre le Royaume de Belgique et le grand-duché de Luxembourg en vue d'éviter les double impositions et de régler certaines autres question en matière d'impôts sur le revenu et sur la fortune, et le Protocole final y relatif, signé à Luxembourg le 17 septembre 1970, tels que modifiés par l'Avenant, signé à Bruxelles le 11 décembre 2002, sortiront leur plein et entier effet.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 19 août 2011.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires étrangères,
+
+K. DE GUCHT
+
+Le Vice-Premier Ministre et Ministre des Finances,
+
+D. REYNDERS
+
+Vu et scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK
+
+## ANNEXE.
+
+## Art. N
+
+Avenant à la Convention entre le Royaume de Belgique et le grand-duché de Luxembourg en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune, et le Protocole final y relatif, signés à Luxembourg le 17 septembre 1970, tels que modifiés par l'Avenant, signé à Bruxelles le 11 décembre 2002.
+
+(Pour l'avenant, voir 2009-07-16/14).

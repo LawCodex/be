@@ -1,0 +1,90 @@
+---
+title: "Loi portant assentiment au Protocole, fait à Bruxelles le 7 juillet 2009, modifiant la Convention entre la Belgique et le Danemark en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune signée à Bruxelles le 16 octobre 1969, telle que modifiée et complétée par le Protocole signé à Copenhague le 27 septembre 1999, et adaptant la législation fiscale belge à certaines dispositions dudit Protocole"
+identifier: "2011015095"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2011/08/19/2011015095/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2011-08-19
+published: 2013-09-17
+entry_into_force: 2013-09-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2011/08/19/2011015095/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+retrieved: 2026-10-11
+---
+
+# 19 AOUT 2011. - Loi portant assentiment au Protocole, fait à Bruxelles le 7 juillet 2009, modifiant la Convention entre la Belgique et le Danemark en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune signée à Bruxelles le 16 octobre 1969, telle que modifiée et complétée par le Protocole signé à Copenhague le 27 septembre 1999, et adaptant la législation fiscale belge à certaines dispositions dudit Protocole
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+Le Protocole, fait à Bruxelles le 7 juillet 2009 (ci-après le Protocole "), modifiant la Convention entre la Belgique et le Danemark en vue d'éviter les doubles impositions et de régler certaines autres question en matière d'impôts sur le revenu et sur la fortune signée à Bruxelles le 16 octobre 1969, telle que modifiée et complétée par le Protocole signé à Copenhague le 27 septembre 1999 (ci-après la Convention "), sortira son plein et entier effet.
+
+## Art. 3
+
+Dans les 24 mois à compter de la date d'entrée en vigueur du Protocole, l'administration est autorisée à recueillir, en dehors des délais prévus par le droit fiscal interne, des renseignements :
+
+\- visés à l'article 26 de la Convention, telle que modifiée par le Protocole, et
+
+\- se rapportant à des périodes imposables commençant avant l'entrée en vigueur du Protocole mais auxquelles s'applique néanmoins la Convention, telle que modifiée par le Protocole.
+
+## Art. 4
+
+Dans les 24 mois à compter de la date d'entrée en vigueur du Protocole, un impôt ou un supplément d'impôt peut encore être valablement établi en dehors des délais prévus par le droit fiscal interne sur base de renseignements :
+
+\- fournis, dans le cadre de l'article 26 de la Convention, telle que modifiée par le Protocole, par l'autorité compétente du Danemark désignée conformément à la Convention, et
+
+\- se rapportant à des périodes imposable commençant avant l'entrée en vigueur du Protocole mais auxquelles s'applique néanmoins la Convention, telle que modifiée par le Protocole.
+
+## Art. 5
+
+Dans les 24 mois à compter de la date d'entrée en vigueur du Protocole, un dégrèvement d'impôts peut encore être valablement accordé en dehors des délais prévus par le droit fiscal interne sur base de renseignements :
+
+\- fournis, dans le cadre de l'article 26 de la Convention, telle que modifié par le Protocole, par l'autorité compétente du Danemark désignée conformément à la Convention, et
+
+\- se rapportant à des périodes imposables commençant avant l'entrée en vigueur du Protocole mais auxquelles s'applique néanmoins la Convention, telle que modifiée par le Protocole.
+
+## Art. 6
+
+Les sanctions administratives et pénales prévues par le droit fiscal interne en cas de contravention aux obligations résultant, dans le chef du contrevenant, des pouvoirs d'investigation conférés à l'administration par le droit fiscal interne sont applicables à celui qui contrevient aux obligations résultant, dans son chef, des pouvoirs d'investigation conférés à l'administration par l'article 3 de la présente loi.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 19 août 2011.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre des Affaires étrangères,
+
+S. VANAKERE
+
+Le Vice-Premier Ministre et Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM
+
+## ANNEXE.
+
+## Art. N
+
+Protocole modifiant la Convention entre la Belgique et le Danemark en vue d'éviter les doubles impositions et de régler certaines autres questions en matière d'impôts sur le revenu et sur la fortune signée à Bruxelles le 16 octobre 1969, telle que modifiée et complétée par le Protocole signé à Copenhague le 27 septembre 1999, et adaptant la législation fiscale belge à certaines dispositions dudit Protocole
+
+(Pour le Protocole, voir : 2009-07-07/05)

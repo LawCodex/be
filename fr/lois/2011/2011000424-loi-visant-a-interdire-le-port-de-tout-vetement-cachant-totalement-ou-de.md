@@ -1,0 +1,68 @@
+---
+title: "Loi visant à interdire le port de tout vêtement cachant totalement ou de manière principale le visage"
+identifier: "2011000424"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2011/06/01/2011000424/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2011-06-01
+published: 2011-07-13
+entry_into_force: 2011-07-23
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2011/06/01/2011000424/justel"
+department: "Intérieur"
+retrieved: 2026-10-11
+---
+
+# 1 JUIN 2011. - Loi visant à interdire le port de tout vêtement cachant totalement ou de manière principale le visage
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Dans le Code pénal, il est inséré un article 563bis rédigé comme suit :
+
+" Art. 563bis. Seront punis d'une amende de quinze euros à vingt-cinq euros et d'un emprisonnement d'un jour à sept jours ou d'une de ces peines seulement, ceux qui, sauf dispositions légales contraires, se présentent dans les lieux accessibles au public le visage masqué ou dissimulé en tout ou en partie, de manière telle qu'ils ne soient pas identifiables.
+
+Toutefois, ne sont pas visés par l'alinéa 1er, ceux qui circulent dans les lieux accessibles au public le visage masqué ou dissimulé en tout ou en partie de manière telle qu'ils ne soient pas indentifiables et ce, en vertu de règlements de travail ou d'une ordonnance de police à l'occasion de manifestations festives. "
+
+## Art. 3
+
+A l'article 119bis de la Nouvelle Loi communale, inséré par la loi du 13 mai 1999 et modifié par les lois des 7 mai 2004, 17 juin 2004, 20 juillet 2005, 15 mai 2006, 25 janvier 2007 et 15 mai 2007, les modifications suivantes sont apportées :
+
+1\. dans le § 2, alinéa 3, les mots " ou 563, 2° et 3° ", sont remplacés par les mots " 563, 2° et 3°, et 563bis ";
+
+2\. dans le § 7, 1°, les mots " ou 563, 2° et 3° " sont remplacés par les mots " 563, 2° et 3°, et 563bis ";
+
+3\. dans le § 8, alinéa 2, les mots " et 563, 2° et 3° " sont remplacés par les mots " 563, 2° et 3°, et 563bis ".
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 1er juin 2011.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK
+
+La Ministre de l'Intérieur,
+
+Mme A. TURTELBOOM
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK

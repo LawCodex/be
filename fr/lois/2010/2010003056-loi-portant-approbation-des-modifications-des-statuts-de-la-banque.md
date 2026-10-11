@@ -1,0 +1,60 @@
+---
+title: "Loi portant approbation des modifications des statuts de la Banque internationale pour la reconstruction et le développement par la résolution 596 du 30 janvier 2009 du Conseil des gouverneurs de la Banque internationale pour la reconstruction et le développement en vue de renforcer la voix et la participation des pays en développement et des pays en transition au sein de la Banque internationale pour la reconstruction et le développement"
+identifier: "2010003056"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2010/01/21/2010003056/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2010-01-21
+published: 2010-02-02
+entry_into_force: 2010-02-12
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2010/01/21/2010003056/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 21 JANVIER 2010. - Loi portant approbation des modifications des statuts de la Banque internationale pour la reconstruction et le développement par la résolution 596 du 30 janvier 2009 du Conseil des gouverneurs de la Banque internationale pour la reconstruction et le développement en vue de renforcer la voix et la participation des pays en développement et des pays en transition au sein de la Banque internationale pour la reconstruction et le développement
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 77, alinéa 1er, 6°, de la Constitution.
+
+## Art. 2
+
+La Belgique approuve la modification des statuts de la Banque internationale pour la reconstruction et le développement décidée par le Conseil des gouverneurs de la Banque internationale pour la reconstruction et le développement conformément à la résolution n° 596, dont le texte est annexé.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 21 janvier 2010.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Le Ministre des Affaires étrangères,
+
+St. VANACKERE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK
+
+## ANNEXE.
+
+## Art. N
+
+(Annexe non reprise pour des raisons techniques, voir M.B. du 02-02-2010, p. 4688-4691)

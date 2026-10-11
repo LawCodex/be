@@ -1,0 +1,54 @@
+---
+title: "Loi modifiant l'article 22 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, en ce qui concerne le remplacement des membres du conseil de police"
+identifier: "2012000111"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2011/12/02/2012000111/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2011-12-02
+published: 2012-02-17
+entry_into_force: 2012-02-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2011/12/02/2012000111/justel"
+department: "Intérieur"
+retrieved: 2026-10-11
+---
+
+# 2 DECEMBRE 2011. - Loi modifiant l'article 22 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, en ce qui concerne le remplacement des membres du conseil de police
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+A l'article 22 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, les modifications suivantes sont apportées :
+
+1° le chiffre " 11, " est abrogé;
+
+2° l'article est complété par un alinéa, rédigé comme suit: " Le membre du conseil de police qui est remplacé pour empêchement au sein du conseil communal ou en qualité de bourgmestre est remplacé de plein droit pour la même durée au sein du conseil de police. "
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 2 décembre 2011.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de l'Intérieur,
+
+Mme A. TURTELBOOM
+
+Scellé du sceau de l'Etat:
+
+Le Ministre de la Justice,
+
+S. DE CLERCK

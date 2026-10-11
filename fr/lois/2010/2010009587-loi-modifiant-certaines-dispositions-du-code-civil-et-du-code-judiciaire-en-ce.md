@@ -1,0 +1,118 @@
+---
+title: "Loi modifiant certaines dispositions du Code civil et du Code judiciaire en ce qui concerne la procédure de divorce"
+identifier: "2010009587"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2010/06/02/2010009587/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2010-06-02
+published: 2010-06-21
+entry_into_force: 2010-07-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2010/06/02/2010009587/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 2 JUIN 2010. - Loi modifiant certaines dispositions du Code civil et du Code judiciaire en ce qui concerne la procédure de divorce
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition générale
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## CHAPITRE 2. - Modification du Code civil
+
+### Art. 2
+
+A l'article 301, § 7, du Code civil, remplacé par la loi du 27 avril 2007, les modifications suivantes sont apportées :
+
+1° l'alinéa 1er est remplacé par ce qui suit :
+
+" Sauf si les parties ont convenu expressément le contraire, le tribunal peut, ultérieurement, à la demande d'une des parties, augmenter, réduire ou supprimer la pension, si, à la suite de circonstances nouvelles et indépendantes de la volonté des parties, son montant n'est plus adapté. ";
+
+2° dans l'alinéa 2, les mots " sauf en cas de divorce par consentement mutuel " sont abrogés.
+
+## CHAPITRE 3. - Modifications du Code judiciaire
+
+### Art. 3
+
+Dans l'article 1254, § 1er, du Code judiciaire, remplacé par la loi du 27 avril 2007, l'alinéa 1er est remplacé par les alinéas suivants :
+
+" La demande en divorce fondée sur l'article 229, § 2, du Code civil est introduite par une requête signée par chacun des époux ou par au moins un avocat ou un notaire.
+
+La demande en divorce fondée sur l'article 229, § 3, du Code civil peut être introduite par requête.
+
+Les dispositions prévues aux articles 1034bis à 1034sexies s'appliquent à la requête visée aux alinéas 1er et 2. "
+
+### Art. 4
+
+Dans l'article 1255, § 1er, du même Code, remplacé par la loi du 27 avril 2007, les alinéas 1er et 2 sont remplacés par ce qui suit :
+
+" Lorsque le divorce est sollicité conjointement en vertu de l'article 229, § 2, du Code civil, le juge prononce le divorce s'il établit que les parties sont séparées de fait depuis plus de six mois. "
+
+### Art. 5
+
+L'article 1257 du même Code, rétabli par la loi du 27 avril 2007, est abrogé.
+
+### Art. 6
+
+L'article 1274 du même Code, remplacé par la loi du 27 avril 2007, est remplacé par ce qui suit :
+
+" Art. 1274. Le délai pour se pourvoir en cassation et le pourvoi en cassation sont suspensifs. "
+
+### Art. 7
+
+L'article 1288 du même Code, remplacé par la loi du 1er juillet 1972, modifié par les lois du 30 juin 1994, du 13 avril 1995 et du 27 avril 2007, est complété par un alinéa, rédigé comme suit :
+
+" Sauf si les parties ont convenu expressément le contraire, le juge compétent peut, ultérieurement, à la demande d'une des parties, augmenter, réduire ou supprimer la pension visée à l'alinéa 1er, 4°, si, à la suite de circonstances nouvelles et indépendantes de la volonté des parties, son montant n'est plus adapté. "
+
+### Art. 8
+
+L'article 1276 du même Code, remplacé par la loi du 30 juin 1994, est complété par un alinéa rédigé comme suit :
+
+" Le délai d'appel, d'opposition et de pourvoi en cassation commence à courir à partir de la signification du jugement ou de l'arrêt. "
+
+### Art. 9
+
+L'article 1281 du même Code, modifié par la loi du 30 juin 1994, est abrogé.
+
+### Art. 10
+
+L'article 1299 du même Code, modifié par la loi du 30 juin 1994, est remplacé par ce qui suit :
+
+" Art. 1299. L'appel du jugement qui a prononcé le divorce n'est admissible que pour autant qu'il soit fondé sur le non-respect des conditions légales pour prononcer le divorce.
+
+Il peut être interjeté par le ministère public dans le mois du prononcé. Dans ce cas, il est signifié aux deux parties.
+
+Il peut également être interjeté par l'un des époux ou par les deux, séparément ou conjointement, dans le mois du prononcé. Dans ce cas, il est signifié au procureur du Roi ainsi que, s'il n'est interjeté que par un seul époux, à l'autre époux. "
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Nice, le 2 juin 2010.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK
+
+Le Secrétaire d'Etat à la Politique des familles,
+
+M. WATHELET
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK

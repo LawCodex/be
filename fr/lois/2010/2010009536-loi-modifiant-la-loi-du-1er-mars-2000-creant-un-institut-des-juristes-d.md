@@ -1,0 +1,60 @@
+---
+title: "Loi modifiant la loi du 1er mars 2000 créant un Institut des juristes d'entreprise"
+identifier: "2010009536"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2010/05/19/2010009536/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2010-05-19
+published: 2010-06-07
+entry_into_force: 2010-06-17
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2010/05/19/2010009536/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 19 MAI 2010. - Loi modifiant la loi du 1er mars 2000 créant un Institut des juristes d'entreprise
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+A l'article 4, § 1er, de la loi du 1er mars 2000 créant un Institut des juristes d'entreprise, les modifications suivantes sont apportées :
+
+a) au 1°, les mots " , de master " sont insérés entre les mots " diplôme de docteur " et les mots " ou de licencié ";
+
+b) le 2° est remplacé par ce qui suit :
+
+" 2° être liée, par un contrat de travail ou un statut, à un employeur exerçant en Belgique, dans le secteur public ou privé, une activité économique, sociale, administrative ou scientifique. Cet employeur est une entreprise, une fédération d'entreprises ou un organisme doté de la personnalité juridique; ";
+
+c) le 3° est remplacé par ce qui suit :
+
+" 3° fournir, en faveur de cet employeur, des entreprises ou des organismes qui lui sont liés, des fédérations d'entreprises ou des membres de ces fédérations d'entreprises, des études, des consultations, rédiger des actes, conseiller et prêter assistance en matière juridique; ".
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Châteauneuf-de-Grasse, le 19 mai 2010.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK

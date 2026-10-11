@@ -1,0 +1,86 @@
+---
+title: "Loi portant assentiment au Second Protocole, fait à Paris le 24 juin 2009, modifiant la Convention entre le Royaume de Belgique et l'Australie tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Canberra le 13 octobre 1977, telle que modifiée par le Protocole signé à Canberra le 20 mars 1984, et adaptant la législation fiscale belge à certaines dispositions dudit Second Protocole"
+identifier: "2011015102"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2011/08/19/2011015102/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2011-08-19
+published: 2014-11-26
+entry_into_force: 2014-12-06
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2011/08/19/2011015102/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+retrieved: 2026-10-11
+---
+
+# 19 AOUT 2011. - Loi portant assentiment au Second Protocole, fait à Paris le 24 juin 2009, modifiant la Convention entre le Royaume de Belgique et l'Australie tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Canberra le 13 octobre 1977, telle que modifiée par le Protocole signé à Canberra le 20 mars 1984, et adaptant la législation fiscale belge à certaines dispositions dudit Second Protocole
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+Le Second Protocole, fait à Paris le 24 juin 2009 (ci-après " le Second Protocole "), modifiant la Convention entre le Royaume de Belgique et l'Australie tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signé à Canberra le 13 octobre 1977, telle que modifiée par le Protocole signé à Canberra le 20 mars 1984 (ci-après " la Convention "), sortira son plein et entier effet.
+
+## Art. 3
+
+Dans les 24 mois à compter de la date d'entrée en vigueur du Second Protocole, l'administration est autorisée à recueillir, en dehors des délais prévus par le droit fiscal interne, des renseignements :
+
+\- visés à l'article 26 de la Convention, telle que modifiée par le Second Protocole, et
+
+\- se rapportant à des périodes imposables commençant, ou à des événements imposables se produisant, avant l'entrée en vigueur du Second Protocole mais auxquelles s'applique néanmoins la Convention, telle que modifiée par le Second Protocole.
+
+## Art. 4
+
+Dans les 24 mois à compter de la date d'entrée en vigueur du Second Protocole, un impôt ou un supplément d'impôt peut encore être valablement établi en dehors des délais prévus par le droit fiscal interne sur base de renseignements :
+
+\- fournis, dans le cadre de l'article 26 de la Convention, telle que modifiée par le Second Protocole, par l'autorité compétente australienne désignée conformément à la Convention, et
+
+\- se rapportant à des périodes imposables commençant, ou à des événements imposables se produisant, avant l'entrée en vigueur du Second Protocole mais auxquel s'applique néanmoins la Convention, telle que modifiée par le Second Protocole.
+
+## Art. 5
+
+Dans les 24 mois à compter de la date d'entrée en vigueur du Second Protocole, un dégrèvement d'impôt peut encore être valablement accordé en dehors des délais prévus par le droit fiscal interne sur base de renseignements :
+
+\- fournis, dans le cadre de l'article 26 de la Convention, telle que modifiée par le Second Protocole, par l'autorité compétente australienne désignée conformément à la Convention, et
+
+\- se rapportant à des périodes imposables commençant, ou à des événements imposables se produisant, avant l'entrée en vigueur du Second Protocole mais auxquel s'applique néanmoins la Convention, telle que modifiée par le Second Protocole.
+
+## Art. 6
+
+Les sanctions administratives et pénales prévues par le droit fiscal interne en cas de contravention aux obligations résultant, dans le chef du contrevenant, des pouvoirs d'investigation conférés à l'administration par le droit fiscal interne sont applicables à celui qui contrevient aux obligations résultant, dans son chef, des pouvoirs d'investigation conférés à l'administration par l'article 3 de la présente loi.
+
+## ANNEXE.
+
+## Art. N
+
+Second Protocole, fait à Paris le 24 juin 2009, modifiant la Convention entre le Royaume de Belgique et l'Australie tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu, signée à Canberra le 13 octobre 1977, telle que modifiée par le Protocole signé à Canberra le 20 mars 1984, et adaptant la législation fiscale belge à certaines dispositions dudit Second Protocole
+
+(Pour le Second Protocole, voir : 2009-06-24/06)
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 19 août 2011.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre des Affaires étrangères,
+
+S. VANACKERE
+
+Le Vice-Premier Ministre et Ministre des Finances,
+
+D. REYNDERS

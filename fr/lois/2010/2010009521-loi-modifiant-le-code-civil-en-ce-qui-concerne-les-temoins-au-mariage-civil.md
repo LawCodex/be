@@ -1,0 +1,68 @@
+---
+title: "Loi modifiant le Code civil en ce qui concerne les témoins au mariage civil"
+identifier: "2010009521"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2010/04/06/2010009521/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2010-04-06
+published: 2010-06-21
+entry_into_force: 2010-07-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2010/04/06/2010009521/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 6 AVRIL 2010. - Loi modifiant le Code civil en ce qui concerne les témoins au mariage civil
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 64 du Code civil, abrogé par la loi du 26 décembre 1891, rétabli par la loi du 4 mai 1999 et modifié par les lois des 16 juillet 2004 et 3 décembre 2005, est complété par un § 5, rédigé comme suit :
+
+" § 5. Lors de la déclaration de mariage, l'officier de l'état civil informe les futurs époux de la possibilité de recourir à la présence de quatre témoins au plus. ".
+
+## Art. 3
+
+Dans l'article 75, alinéa 1er, du même Code, remplacé par la loi du 7 janvier 1908 et modifié par les lois des 4 mai 1999 et 13 février 2003, les mots " en présence de deux témoins, parents ou non parents " sont remplacés par les mots " éventuellement en présence de quatre témoins au plus, parents ou non parents "
+
+## Art. 4
+
+Dans l'article 76, 9°, du même Code, modifié par la loi du 4 mai 1999, les mots " Les prénoms " sont remplacés par les mots " Le cas échéant, les prénoms. ".
+
+## Art. 5
+
+La présente loi s'applique aux déclarations de mariage faites après son entrée en vigueur.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 6 avril 2010.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK
+
+Le Secrétaire d'Etat à la Politique des familles,
+
+M. WATHELET
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK

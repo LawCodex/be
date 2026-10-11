@@ -1,0 +1,76 @@
+---
+title: "Loi portant modification des articles 2, 2/1, 4 et 5 de la loi modifiant la loi du 17 janvier 2003 concernant les recours et le traitement des litiges à l'occasion de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et télécommunications belges"
+identifier: "2010011512"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2010/12/13/2010011512/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2010-12-13
+published: 2010-12-30
+entry_into_force: 2010-12-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2010/12/13/2010011512/justel"
+department: "Economie, PME, Classes moyennes et Energie"
+retrieved: 2026-10-11
+---
+
+# 13 DECEMBRE 2010. - Loi portant modification des articles 2, 2/1, 4 et 5 de la loi modifiant la loi du 17 janvier 2003 concernant les recours et le traitement des litiges à l'occasion de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et télécommunications belges
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+A l'article 2 de la loi du 17 janvier 2003 concernant les recours et le traitement des litiges à l'occasion de la loi du 17 janvier 2003 relative au statut du régulateur des secteurs des postes et télécommunications belges, modifié par la loi du 20 juillet 2006 et remplacé par la loi du 31 mai 2009, les modifications suivantes sont apportées :
+
+1° les mots " le Ministre qui a les Télécommunications dans ses attributions " sont remplacés au § 1er, alinéa 3, et au § 2, alinéas 3 et 7, par les mots " le Ministre qui a les Télécommunications dans ses attributions ou le Ministre qui a le Secteur postal dans ses attributions ";
+
+2° au § 2, alinéa 2, 2°, du même article, le mot " ministre " est remplacé par les mots " Ministre qui a les Télécommunications dans ses attributions ou le Ministre qui a le Secteur postal dans ses attributions ".
+
+## Art. 3
+
+A l'article 2/1 de la même loi, inséré par la loi du 31 mai 2009, les mots " Ministre qui a les Télécommunications dans ses attributions " sont remplacés par les mots " Ministre qui a les Télécommunications dans ses attributions ou le Ministre qui a le Secteur postal dans ses attributions ".
+
+## Art. 4
+
+A l'article 4, alinéa 1er, de la même loi, modifié par la loi du 20 juillet 2006, les mots " entre opérateurs postaux relatifs à la mise en oeuvre des dispositions figurant dans leur licence " sont remplacés par les mots " entre les prestataires de services postaux relatifs à la mise en oeuvre des dispositions figurant dans leur licence et concernant l'accès aux éléments d'infrastructure postale ou aux services qui sont offerts dans le cadre du service universel qui sont nécessaires pour l'exécution d'activités postales ".
+
+## Art. 5
+
+L'article 5 de la même loi est complété par un § 3, rédigé comme suit :
+
+" § 3. Toutes les obligations reprises dans la présente loi et dans toutes les autres lois relatives aux matières visées à l'article 77 de la Constitution et leurs arrêtés d'exécution qui, concernant les envois recommandés, contiennent les mots " à la poste ", " par la poste " ou toute autre référence du même type sont remplies lorsqu'un envoi recommandé tel que défini à l'article 131, 9° de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques est utilisé ou lorsqu'un envoi recommandé électronique est utilisé conformément à la loi du 9 juillet 2001 fixant certaines règles relatives au cadre juridique pour les signatures électroniques, le recommandé électronique et les services de certification. "
+
+## Art. 6
+
+Dans les vingt-quatre mois qui suivent l'entrée en vigueur de la présente loi, le Roi peut abroger dans toutes les dispositions légales et réglementaires relatives aux matières visées à l'article 77 de la Constitution et leurs arrêtés d'exécution concernant les envois recommandés les mots " à la poste ", " par la poste " ou toute autre référence du même type.
+
+## Art. 7
+
+La présente loi entre en vigueur le 31 décembre 2010.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 13 décembre 2010.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre pour l'Entreprise et la Simplification,
+
+V. VAN QUICKENBORNE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK

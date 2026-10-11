@@ -1,0 +1,66 @@
+---
+title: "Loi modifiant l'article 138bis-6 de la loi du 25 juin 1992 sur le contrat d'assurance terrestre"
+identifier: "2011003403"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2011/11/26/2011003403/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2011-11-26
+published: 2011-12-05
+entry_into_force: 2011-07-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2011/11/26/2011003403/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 26 NOVEMBRE 2011. - Loi modifiant l'article 138bis-6 de la loi du 25 juin 1992 sur le contrat d'assurance terrestre
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+A l'article 138bis -6 de la loi du 25 juin 1992 sur le contrat d'assurance terrestre, inséré par la loi du 20 juillet 2007 et modifié par la loi du 17 juin 2009, les modifications suivantes sont apportées :
+
+1° dans les alinéas 1er et 4, les mots " 30 juin 2011 " sont chaque fois remplacés par les mots " 30 juin 2012 ";
+
+2° dans l'alinéa 4, les mots " 1er janvier 2011 " sont remplacés par les mots " 1er janvier 2012 " et les mots " 1er juillet 2011 " par les mots " 1er juillet 2012 ".
+
+## Art. 3
+
+La présente loi produit ses effets le 1er juillet 2011.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge
+
+Donné à Ciergnon, le 26 novembre 2011.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Le Ministre de la Justice,
+
+S. DE CLERCK
+
+La Ministre des Affaires sociales et de la Santé publique,
+
+Mme L. ONKELINX
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK
