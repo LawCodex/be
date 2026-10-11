@@ -1,0 +1,858 @@
+---
+title: "Loi du 10 février 2015 relative aux traitements automatisés de données à caractère personnel nécessaires aux passeports, titres de voyage belges et titres de voyage provisoires de l'Union européenne (Intitulé remplacé par L 2025-07-16/14 , art. 3, 003; En vigueur : 08-12-2025)"
+identifier: "2015015026"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2015/02/10/2015015026/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2015-02-10
+published: 2015-03-02
+entry_into_force: 2015-03-12
+last_amended: 2025-08-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2015/02/10/2015015026/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+justel_note: "Consultation des versions antérieures à partir du 02-03-2015 et mise à jour au 14-08-2025"
+retrieved: 2026-10-11
+---
+
+# 10 FEVRIER 2015. - Loi du 10 février 2015 relative aux traitements automatisés de données à caractère personnel nécessaires aux passeports, titres de voyage belges et titres de voyage provisoires de l'Union européenne (Intitulé remplacé par L 2025-07-16/14 , art. 3, 003; En vigueur : 08-12-2025)
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions préliminaires
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+### Art. 2
+
+Pour l'application de la présente loi, on entend par:
+
+1° "passeport belge" : le titre de voyage uniquement délivré aux Belges, qui se présente sous la forme d'un livret dont le contenu et la forme sont fixés par des accords internationaux;
+
+2° "titre de voyage belge": le titre de voyage délivré dans des circonstances spéciales à des Belges et à des non-Belges. Ce document peut se présenter sous d'autres formes que celle du livret visé au 1° ;
+
+3° "le ministre": le ministre qui a les Affaires étrangères dans ses attributions;
+
+4° "SPF Affaires étrangères": le Service Public Fédéral Affaires étrangères, Commerce extérieur et Coopération au Développement;
+
+5° "SPF Intérieur": le Service Public Fédéral Intérieur;
+
+6° "suppression de données": l'effacement de données à caractère personnel d'un traitement automatisé déterminé et leur transfert vers d'autres traitements automatisés de données;
+
+7° "destruction de données": l'effacement définitif et irrémédiable de données à caractère personnel d'un traitement automatisé déterminé, sans que ces données ne soient plus conservées ailleurs ou sous quelque forme que ce soit.
+
+### Art. 2 DROIT FUTUR.
+
+Pour l'application de la présente loi, on entend par:
+
+1° "passeport belge" : le titre de voyage uniquement délivré aux Belges, qui se présente sous la forme d'un livret dont le contenu et la forme sont fixés par des accords internationaux;
+
+2° "titre de voyage belge": le titre de voyage délivré dans des circonstances spéciales à des Belges et à des non-Belges. Ce document peut se présenter sous d'autres formes que celle du livret visé au 1° ;
+
+3° "le ministre": le ministre qui a les Affaires étrangères dans ses attributions;
+
+4° "SPF Affaires étrangères": le Service Public Fédéral Affaires étrangères, Commerce extérieur et Coopération au Développement;
+
+5° "SPF Intérieur": le Service Public Fédéral Intérieur;
+
+6° "suppression de données": l'effacement de données à caractère personnel d'un traitement automatisé déterminé et leur transfert vers d'autres traitements automatisés de données;
+
+7° "destruction de données": l'effacement définitif et irrémédiable de données à caractère personnel d'un traitement automatisé déterminé, sans que ces données ne soient plus conservées ailleurs ou sous quelque forme que ce soit;
+
+[<sup>1</sup> 8° titre de voyage provisoire de l'Union européenne: un titre de voyage délivré à un citoyen non représenté aux fins d'un trajet unique vers l'Etat membre de nationalité ou l'Etat membre de résidence du citoyen, à la demande du citoyen, ou, à titre exceptionnel, vers une autre destination, en cas de perte, de vol ou de destruction de son passeport ou de son titre de voyage, ou lorsqu'il n'est pas possible d'obtenir le document en question dans un délai raisonnable selon d'autres modalités, ceci conformément aux modalités et au modèle prévu dans la directive (UE) 2019/997 du Conseil du 18 juin 2019 établissant un titre de voyage provisoire de l'Union européenne et abrogeant la décision 96/409/PESC;
+
+9° citoyen non représenté: tout citoyen ayant la nationalité d'un Etat membre de l'Union européenne et qui n'est pas représenté dans un pays tiers conformément à l'article 6 de la directive (UE) 2015/637 du Conseil du 20 avril 2015 établissant les mesures de coordination et de coopération nécessaires pour faciliter la protection consulaire des citoyens de l'Union non représentés dans des pays tiers et abrogeant la décision 95/553/CE;
+
+10° membre de la famille d'un citoyen de l'Union: le membre de la famille d'un citoyen de l'Union, qui n'est pas lui-même citoyen de l'Union, mais qui accompagne un citoyen de l'Union, lorsque ce membre de la famille réside légalement dans un Etat membre;
+
+11° autre bénéficiaire: une autre personne qu'un citoyen de l'Union ou un membre de la famille d'un tel citoyen, à laquelle l'Etat membre prêtant assistance ou un autre Etat membre est tenu d'accorder une protection au titre du droit international ou national et qui réside légalement dans un Etat membre.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2025-07-16/14, art. 4, 003; En vigueur : 08-12-2025&gt;
+
+## CHAPITRE 2. - Traitement automatisé de données à caractère personnel en vue de la production des passeports et des titres de voyage belges
+
+### Art. 3
+
+Le ministre est responsable du traitement automatisé de données à caractère personnel en vue de la production des passeports et titres de voyage belges.
+
+### Art. 3 DROIT FUTUR.
+
+[<sup>1</sup> Le service désigné par le Roi]<sup>1</sup> est responsable du traitement automatisé de données à caractère personnel en vue de la production des passeports et titres de voyage belges.
+
+----------
+
+(1)&lt;L 2025-07-16/14, art. 5, 003; En vigueur : 08-12-2025&gt;
+
+### Art. 4
+
+Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 3 sont:
+
+1° données relatives au titulaire du passeport ou du titre de voyage belge:
+
+a) le nom de famille, les prénoms, la date et le lieu de naissance, le sexe;
+
+b) la signature;
+
+c) le numéro de Registre national;
+
+d) l'image numérisée de la photo faciale du titulaire;
+
+e) l'image numérisée des empreintes digitales de l'index de la main gauche et de la main droite du titulaire ou, en cas d'invalidité ou d'inaptitude, d'un autre doigt de chaque main;
+
+f) la nationalité (sauf pour les titres de voyage pour étrangers, apatrides et réfugiés);
+
+g) l'adresse, l'adresse électronique et le numéro de GSM;
+
+2° données relatives au passeport ou au titre de voyage belge:
+
+a) numéro du passeport ou du titre de voyage belge;
+
+b) type de passeport ou titre de voyage belge;
+
+c) [<sup>1</sup> le type de procédure de demande]<sup>1</sup>;
+
+d) date et lieu de délivrance;
+
+e) autorité de délivrance;
+
+f) date d'expiration;
+
+3° données relatives à la production du passeport ou du titre de voyage belge:
+
+a) lieu de production;
+
+b) lieu de dépôt de la demande;
+
+c) date de réception de la demande;
+
+d) numéro d'ordre de la demande;
+
+e) refus éventuel de la demande;
+
+f) mention du statut de production du passeport ou du titre de voyage belge et de la date de ce statut;
+
+g) date de l'envoi du passeport ou du titre de voyage belge à l'administration de dépôt de la demande;
+
+h) administration de dépôt de la demande;
+
+i) numéro d'envoi;
+
+j) données de facturation;
+
+k) données concernant le remplacement gratuit du passeport ou du titre de voyage belge.
+
+----------
+
+(1)&lt;L 2019-07-03/15, art. 9, 002; En vigueur : 01-09-2019&gt;
+
+### Art. 5
+
+Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 3 sont conservées pendant trois mois.
+
+Après cette période, les données suivantes sont détruites, sauf lorsque le Belge à l'étranger demande expressément leur conservation pendant dix ans en application de l'article 15, alinéa 2:
+
+1° l'image numérisée des empreintes digitales de l'index de la main gauche et de la main droite du titulaire ou, en cas d'invalidité ou d'inaptitude, d'un autre doigt de chaque main;
+
+2° l'adresse, l'adresse électronique et le numéro de GSM.
+
+Les autres données sont supprimées de ce traitement de données. Elles sont toutes ou en partie transmises aux traitements automatisés visés aux articles 16, 20 et 24.
+
+### Art. 6
+
+Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 3 sont exclusivement utilisées par le personnel du SPF Affaires étrangères affecté dans le service qui met en oeuvre ledit traitement automatisé, ainsi que par le personnel chargé des demandes de passeports et titres de voyage belges énuméré ci-après:
+
+1° le personnel chargé de l'application de la réglementation relative aux passeports et titres de voyage au SPF Affaires étrangères, individuellement habilité par le ministre ou par le personnel que le ministre a désigné à cet effet;
+
+2° le personnel des communes [<sup>1</sup> ...]<sup>1</sup> chargé de la délivrance des passeports et titres de voyage, individuellement habilité par le bourgmestre [<sup>1</sup> ...]<sup>1</sup>;
+
+3° le personnel diplomatique et consulaire chargé de la délivrance des passeports et titres de voyage, individuellement habilité par l'ambassadeur ou le consul;
+
+4° le personnel chargé de la délivrance des passeports diplomatiques et de service au ministère de la Défense, individuellement habilité par le ministre de la Défense ou par le personnel désigné par le ministre de la Défense à cet effet;
+
+5° l'entreprise chargée de la production des passeports et titres de voyage et les personnes strictement habilitées par elle en son sein, et ce, aux seules fins de production et de délivrance des passeports et titres de voyage;
+
+[<sup>2</sup> 6° le personnel du guichet commun des SPF Affaires étrangères et Intérieur chargé de la délivrance des passeports et titres de voyage en procédure super urgente et dont la fonction nécessite d'accéder aux données visées à l'article 3, et individuellement habilité par les ministres qui ont les Affaires étrangères ou l'Intérieur dans leurs attributions ou par le personnel que ceux-ci ont désigné à cet effet.]<sup>2</sup>
+
+[<sup>3</sup> 7° le personnel des consulats honoraires habilités par le ministre.]<sup>3</sup>
+
+[<sup>3</sup> Les personnes visées au 7° ont uniquement accès aux données personnelles visées dans l'article 4, 1°, a), b), d), e) et f)."]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2019-07-03/15, art. 10, 002; En vigueur : 01-09-2019&gt;
+
+(2)&lt;L 2019-07-03/15, art. 11, 002; En vigueur : 01-09-2019&gt;
+
+(3)&lt;L 2025-07-16/14, art. 6, 003; En vigueur : 24-08-2025&gt;
+
+## CHAPITRE 3. - Enregistrement des données à caractère personnel sur la puce électronique des passeports et titres de voyage belges
+
+### Art. 7
+
+Afin d'identifier les titulaires des passeports et titres de voyage belges, ceux-ci comportent une puce électronique contenant des données à caractère personnel.
+
+### Art. 8
+
+Les données à caractère personnel stockées sur la puce électronique visée à l'article 7 sont:
+
+1° le nom de famille, les prénoms, la date et le lieu de naissance, le sexe;
+
+2° l'image numérisée de la photo faciale et des empreintes digitales;
+
+3° la nationalité (sauf pour les titres de voyage pour réfugiés, apatrides et étrangers);
+
+4° la date de délivrance et la date d'expiration du document, ainsi que l'autorité qui l'a délivré;
+
+5° le numéro du passeport ou titre de voyage belge;
+
+6° le type de document;
+
+7° le code ISO du pays émetteur;
+
+8° une copie de la zone lisible à la machine;
+
+9° une copie de la page de données;
+
+10° le numéro de série de la puce.
+
+### Art. 9
+
+Les données à caractère personnel stockées sur la puce électronique visée à l'article 7 sont conservées sur la puce tant que le passeport ou titre de voyage n'a pas été détruit.
+
+### Art. 10
+
+Les données à caractère personnel stockées sur la puce électronique visée à l'article 7 sont exclusivement utilisées par le personnel du SPF Affaires étrangères affecté dans le service qui met en oeuvre ledit traitement automatisé, ainsi que par le personnel chargé des demandes ou du contrôle des passeports et titres de voyage belges énuméré ci-après:
+
+1° le personnel chargé de l'application de la réglementation relative aux passeports et titres de voyage au SPF Affaires étrangères, individuellement habilité par le ministre ou par le personnel que le ministre a désigné à cet effet;
+
+2° le personnel des communes [<sup>1</sup> ...]<sup>1</sup> chargé de la délivrance des passeports et titres de voyage, individuellement habilité par le bourgmestre [<sup>1</sup> ...]<sup>1</sup>;
+
+3° le personnel diplomatique et consulaire chargé de la délivrance des passeports et titres de voyage, individuellement habilité par l'ambassadeur ou le consul;
+
+4° le personnel chargé de la délivrance des passeports diplomatiques et de service au ministère de la Défense, individuellement habilité par le ministère de la Défense ou par le personnel désigné par le ministre de la Défense à cet effet;
+
+5° l'entreprise chargée de la production des passeports et titres de voyage et les personnes strictement habilitées par elle en son sein, et ce, aux seules fins de production et de délivrance des passeports et titres de voyage;
+
+6° le personnel chargé du contrôle aux frontières, tant en Belgique qu'à l'étranger;
+
+[<sup>2</sup> 7° le personnel du guichet commun des SPF Affaires étrangères et Intérieur chargé de la délivrance des passeports et titres de voyage en procédure super urgente et dont la fonction nécessite d'accéder aux données visées à l'article 8, et individuellement habilité par les ministres des Affaires étrangères ou de l'Intérieur ou par le personnel que ceux-ci ont désigné à cet effet.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2019-07-03/15, art. 10, 002; En vigueur : 01-09-2019&gt;
+
+(2)&lt;L 2019-07-03/15, art. 12, 002; En vigueur : 01-09-2019&gt;
+
+## CHAPITRE 4. - Traitement automatisé de données à caractère personnel en vue de l'indemnisation pour passeports et titres de voyage belges défectueux
+
+### Art. 11
+
+Le ministre est responsable du traitement automatisé de données à caractère personnel en vue de l'indemnisation des titulaires de passeports et titres de voyage belges défectueux.
+
+### Art. 11 DROIT FUTUR.
+
+[<sup>1</sup> Le service désigné par le Roi]<sup>1</sup> est responsable du traitement automatisé de données à caractère personnel en vue de l'indemnisation des titulaires de passeports et titres de voyage belges défectueux.
+
+----------
+
+(1)&lt;L 2025-07-16/14, art. 5, 003; En vigueur : 08-12-2025&gt;
+
+### Art. 12
+
+Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 11 sont:
+
+1° le nom de famille, les prénoms;
+
+2° le numéro de dossier de la demande d'indemnisation;
+
+3° le numéro du passeport ou titre de voyage défectueux;
+
+4° le numéro du passeport ou titre de voyage de remplacement;
+
+5° la raison du remplacement;
+
+6° la date du remplacement du passeport ou titre de voyage;
+
+7° la date de demande d'indemnisation;
+
+8° le montant d'indemnisation réclamé;
+
+9° la date de décision d'indemnisation;
+
+10° le montant d'indemnisation attribué;
+
+11° l'accord du demandeur avec la décision d'indemnisation;
+
+12° le numéro de téléphone du demandeur;
+
+13° le numéro de compte bancaire du demandeur;
+
+14° l'adresse du demandeur;
+
+15° l'adresse électronique du demandeur.
+
+### Art. 13
+
+Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 11 sont conservées soixante-six mois.
+
+Après cette période, ces données sont détruites.
+
+### Art. 14
+
+Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 11 sont exclusivement utilisées par:
+
+1° le personnel du SPF Affaires étrangères affecté dans le service qui met en oeuvre ledit traitement automatisé, ainsi que celui affecté dans les services chargés de l'indemnisation des titulaires de passeports et titres de voyage belges défectueux;
+
+2° l'entreprise chargée de la production des passeports et titres de voyage et les personnes strictement habilitées par elle en son sein, et ce, aux seules fins de production et de délivrance des passeports et titres de voyage.
+
+## CHAPITRE 5. - Traitement automatisé de données à caractère personnel en vue du pré-enregistrement et du remplacement des passeports des Belges de l'étranger
+
+### Art. 15
+
+Le Belge inscrit dans un registre de population consulaire à l'étranger peut, sur une base volontaire, demander auprès d'un poste diplomatique ou consulaire de carrière, le pré-enregistrement et la conservation de ses données en vue d'une demande ultérieure de passeport.
+
+Le Belge inscrit dans un registre de population consulaire à l'étranger peut également, sur une base volontaire, demander au poste diplomatique ou consulaire de carrière où il a obtenu son passeport, la conservation de ses données en vue du remplacement de son passeport en cas de perte ou de vol du passeport ou d'un passeport défectueux.
+
+### Art. 16
+
+Le ministre est responsable du traitement automatisé de données à caractère personnel en vue du pré-enregistrement et du remplacement du passeport des Belges de l'étranger.
+
+### Art. 16 DROIT FUTUR.
+
+[<sup>1</sup> Le service désigné par le Roi]<sup>1</sup> est responsable du traitement automatisé de données à caractère personnel en vue du pré-enregistrement et du remplacement du passeport des Belges de l'étranger.
+
+----------
+
+(1)&lt;L 2025-07-16/14, art. 5, 003; En vigueur : 08-12-2025&gt;
+
+### Art. 17
+
+Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 15, alinéa 1er, sont identiques à celles visées à l'article 4, 1°. Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 15, alinéa 2, sont identiques à celles visées à l'article 4, 1° et 2°.
+
+### Art. 18
+
+Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 15, alinéa 1er, sont conservées maximum un an à partir de la date du pré-enregistrement.
+
+Elles sont supprimées de ce traitement automatisé dès que le Belge à l'étranger a effectivement demandé un passeport durant cette période d'un an. Dans ce cas, elles sont transmises au traitement automatisé visé à l'article 3.
+
+Si aucun passeport n'a été demandé durant cette période, elles sont détruites.
+
+Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 15, alinéa 2, sont conservées dix ans maximum à partir de la date de délivrance du passeport.
+
+Après cette période, les données sont supprimées de ce traitement automatisé et transmises au traitement automatisé visé à l'article 20, à l'exception des données visées à l'article 4, 1°, e) et g), qui sont détruites.
+
+### Art. 19
+
+Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 15 sont exclusivement utilisées par le personnel du SPF Affaires étrangères affecté dans le service qui met en oeuvre ledit traitement automatisé, ainsi que par le personnel chargé des demandes de passeports et titres de voyage belges énuméré ci-après:
+
+1° le personnel chargé de l'application de la réglementation relative aux passeports et titres de voyage au SPF Affaires étrangères, individuellement habilité par le ministre ou par le personnel que le ministre a désigné à cet effet;
+
+2° le personnel diplomatique et consulaire chargé de la délivrance des passeports et titres de voyage, individuellement habilité par l'ambassadeur ou le consul;
+
+3° l'entreprise chargée de la production des passeports et titres de voyage et les personnes strictement habilitées par elle en son sein, et ce, aux seules fins de production et de délivrance des passeports et titres de voyage.
+
+## CHAPITRE 6. - Traitement automatisé de données à caractère personnel en vue de la lutte contre la fraude aux passeports et aux titres de voyage belges
+
+### Art. 20
+
+Le ministre est responsable du traitement de données automatisé à caractère personnel en vue de la lutte contre la fraude aux passeports et aux titres de voyage belges.
+
+### Art. 20 DROIT FUTUR.
+
+[<sup>1</sup> Le service désigné par le Roi]<sup>1</sup> est responsable du traitement de données automatisé à caractère personnel en vue de la lutte contre la fraude aux passeports et aux titres de voyage belges.
+
+----------
+
+(1)&lt;L 2025-07-16/14, art. 5, 003; En vigueur : 08-12-2025&gt;
+
+### Art. 21
+
+Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 20, sont:
+
+1° données relatives au titulaire du passeport ou du titre de voyage belge:
+
+a) le nom de famille, les prénoms, la date et le lieu de naissance, le sexe;
+
+b) la signature;
+
+c) le numéro de Registre national;
+
+d) l'image numérisée de la photo faciale du titulaire;
+
+e) la nationalité (sauf pour les titres de voyage pour étrangers, apatrides et réfugiés);
+
+2° données relatives au passeport ou au titre de voyage belge:
+
+a) numéro du passeport ou du titre de voyage belge;
+
+b) type de passeport ou titre de voyage belge;
+
+c) [<sup>1</sup> le type de procédure de demande]<sup>1</sup>;
+
+d) date et lieu de délivrance;
+
+e) autorité de délivrance;
+
+f) date d'expiration;
+
+3° données relatives à la production du passeport ou du titre de voyage belge:
+
+a) lieu de production;
+
+b) lieu de dépôt de la demande;
+
+c) date de réception de la demande;
+
+d) numéro d'ordre de la demande;
+
+e) refus éventuel de la demande;
+
+f) mention du statut de production du passeport ou du titre de voyage belge et de la date de ce statut;
+
+g) date de l'envoi du passeport ou du titre de voyage belge à l'administration de dépôt de la demande;
+
+h) administration de dépôt de la demande;
+
+i) numéro d'envoi;
+
+j) statut de la puce.
+
+----------
+
+(1)&lt;L 2019-07-03/15, art. 9, 002; En vigueur : 01-09-2019&gt;
+
+### Art. 22
+
+Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 20 sont conservées pendant vingt ans.
+
+Après cette période, les données sont détruites.
+
+### Art. 23
+
+§ 1er. Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 20 sont exclusivement utilisées par le personnel du SPF Affaires étrangères affecté dans le service qui met en oeuvre ledit traitement automatisé, ainsi que par le personnel énuméré ci-après:
+
+1° le personnel du SPF Affaires étrangères à Bruxelles, chargé de l'application de la réglementation relative aux passeports et titres de voyage, individuellement habilité par le ministre ou par le personnel que le ministre a désigné à cet effet;
+
+2° le personnel diplomatique et consulaire, chargé de la délivrance des passeports et titres de voyage, individuellement habilité par l'ambassadeur ou le consul;
+
+3° le personnel des communes [<sup>1</sup> ...]<sup>1</sup> chargé de la délivrance des passeports et titres de voyage, individuellement habilité par le bourgmestre [<sup>1</sup> ...]<sup>1</sup>;
+
+4° le personnel du ministère de la Défense chargé de la délivrance des passeports diplomatiques et des passeports de service, individuellement habilité à cet effet par le ministre de la Défense ou par le personnel que le ministre de la Défense a désigné à cet effet;
+
+5° le personnel dûment habilité du SPF Intérieur qui effectue les contrôles des frontières;
+
+6° le personnel dûment habilité ou les magistrats auprès des services de police, des services judiciaires ou des services de renseignements, et ce uniquement aux fins de rechercher ou d'établir une fraude relative à l'identité d'une personne;
+
+7° le personnel du SPF Intérieur chargé de la gestion et de l'exploitation de l'application "Checkdoc";
+
+[<sup>2</sup> 8° le personnel du guichet commun des SPF Affaires étrangères et Intérieur chargé de la délivrance des passeports et titres de voyage en procédure super urgente et dont la fonction nécessite d'accéder aux données visées à l'article 21, et individuellement habilité par les ministres des Affaires étrangères ou de l'Intérieur ou par le personnel que ceux-ci ont désigné à cet effet.]<sup>2</sup>
+
+§ 2. [<sup>3</sup> Les personnes visées au § 1er, 1° à 4° et 8°, ont accès à toutes les données visées à l'article 21.]<sup>3</sup>
+
+Les personnes visées au § 1er, 5° à 7°, ont uniquement accès aux données visées à l'article 21, 1° et 2°.
+
+----------
+
+(1)&lt;L 2019-07-03/15, art. 10, 002; En vigueur : 01-09-2019&gt;
+
+(2)&lt;L 2019-07-03/15, art. 13, 002; En vigueur : 01-09-2019&gt;
+
+(3)&lt;L 2019-07-03/15, art. 14, 002; En vigueur : 01-09-2019&gt;
+
+### Art. 23/1
+
+[<sup>1</sup> Les données visées à l'article 21, 1°, b), d), e), et 2° peuvent être utilisées par le personnel tel que visé à l'article 23, § 1er, 1°, dans le cadre de formations en vue de la lutte contre la fraude aux passeports et aux titres de voyage belges.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-07-03/15, art. 15, 002; En vigueur : 01-09-2019&gt;
+
+## CHAPITRE 7. - Traitement automatisé de données à caractère personnel en vue de la facturation des passeports et titres de voyage belges
+
+### Art. 24
+
+Le ministre responsable du traitement automatisé de données à caractère personnel en vue de la facturation des passeports et titres de voyage belges.
+
+### Art. 24 DROIT FUTUR.
+
+[<sup>1</sup> Le service désigné par le Roi]<sup>1</sup> responsable du traitement automatisé de données à caractère personnel en vue de la facturation des passeports et titres de voyage belges.
+
+----------
+
+(1)&lt;L 2025-07-16/14, art. 5, 003; En vigueur : 08-12-2025&gt;
+
+### Art. 25
+
+Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 24, sont:
+
+1° données relatives au titulaire du passeport ou du titre de voyage belge:
+
+a) le nom de famille, les prénoms, la date de naissance;
+
+b) le numéro de Registre national;
+
+2° données relatives au passeport ou au titre de voyage belge:
+
+a) numéro du passeport ou du titre de voyage belge;
+
+b) type de passeport ou titre de voyage belge;
+
+c) [<sup>1</sup> le type de procédure de demande]<sup>1</sup>;
+
+d) date et lieu de délivrance;
+
+e) autorité de délivrance;
+
+3° données relatives à la production du passeport ou du titre de voyage belge:
+
+a) données de facturation;
+
+b) données concernant le remplacement gratuit du passeport ou du titre de voyage belge.
+
+----------
+
+(1)&lt;L 2019-07-03/15, art. 9, 002; En vigueur : 01-09-2019&gt;
+
+### Art. 26
+
+Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 24 sont conservées pendant cinq ans.
+
+Après cette période, les données visées à l'article 25, 1° et 2°, sont supprimées de ce traitement de données et les données visées à l'article 25, 3°, sont détruites. Les données visées à l'article 25, 1° et 2°, sont encore conservées dans le cadre des traitements automatisés visés aux articles 16 et 20.
+
+### Art. 27
+
+Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 24 sont exclusivement utilisées par le personnel du SPF Affaires étrangères affecté dans le service qui met en oeuvre ledit traitement automatisé, ainsi que par le personnel chargé de la facturation énuméré ci-après:
+
+1° le personnel du SPF Affaires étrangères à Bruxelles chargé de la délivrance et de la facturation des passeports et titres de voyage, individuellement habilité par le ministre ou par le personnel que le ministre a désigné à cet effet;
+
+2° le personnel diplomatique et consulaire chargé de la délivrance et de la facturation des passeports et titres de voyage, individuellement habilité par l'ambassadeur ou le consul;
+
+3° le personnel des communes [<sup>1</sup> ...]<sup>1</sup> chargé de la délivrance et du paiement des passeports et titres de voyage, individuellement habilité par le bourgmestre [<sup>1</sup> ...]<sup>1</sup>;
+
+4° le personnel du ministère de la Défense chargé de la délivrance et du paiement des passeports diplomatiques et des passeports de service, individuellement habilité à cet effet par le ministre de la Défense ou par le personnel que le ministre de la Défense a désigné à cet effet;
+
+5° l'entreprise chargée de la production des passeports et titres de voyage et les personnes strictement habilitées par elle en son sein, et ce, aux seules fins de production, de délivrance et de facturation des passeports et titres de voyage.
+
+----------
+
+(1)&lt;L 2019-07-03/15, art. 10, 002; En vigueur : 01-09-2019&gt;
+
+## CHAPITRE 7/1. [<sup>1</sup> Traitement automatisé de données à caractère personnel en vue du refus de la délivrance, du retrait et de l'invalidation des cartes d'identité, des passeports et titres de voyage belges ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-07-03/15, art. 16, 002; En vigueur : 01-09-2019&gt;
+
+## CHAPITRE 7/1. DROIT\_FUTUR. [<sup>1</sup> Traitement automatisé de données à caractère personnel en vue du refus de la délivrance, du retrait et de l'invalidation des cartes d'identité, des passeports, des titres de voyage belges et des titres de voyage provisoires de l'Union européenne]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-07-03/15, art. 16, 002; En vigueur : 01-09-2019&gt;
+
+### Art. 27/1
+
+[<sup>1</sup> Le ministre est responsable de la base de données mise en place d'une part pour enregistrer les personnes signalées par les autorités, organes, services ou organismes compétents en vue d'un refus de délivrance, d'un retrait ou d'une invalidation de leur carte d'identité, passeport ou titre de voyage belge, et d'autre part pour réaliser les traitements de données nécessaires à l'adoption de ces décisions administratives, à leur levée, à l'attribution de titres de voyage provisoires ainsi qu'à la réalisation de statistiques sur l'adoption de ces actes administratifs.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-07-03/15, art. 16, 002; En vigueur : 01-09-2019&gt;
+
+### Art. 27/1 DROIT FUTUR.
+
+[<sup>1</sup> [<sup>2</sup> Le service désigné par le Roi]<sup>2</sup> est responsable de la base de données mise en place d'une part pour enregistrer les personnes signalées par les autorités, organes, services ou organismes compétents en vue d'un refus de délivrance, d'un retrait ou d'une invalidation de leur carte d'identité, [<sup>3</sup> passeport, titre de voyage belge ou titre de voyage provisoire de l'Union européenne]<sup>3</sup>, et d'autre part pour réaliser les traitements de données nécessaires à l'adoption de ces décisions administratives, à leur levée, à l'attribution de titres de voyage provisoires ainsi qu'à la réalisation de statistiques sur l'adoption de ces actes administratifs.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-07-03/15, art. 16, 002; En vigueur : 01-09-2019&gt;
+
+(2)&lt;L 2025-07-16/14, art. 5, 003; En vigueur : 08-12-2025&gt;
+
+(3)&lt;L 2025-07-16/14, art. 8, 003; En vigueur : 08-12-2025&gt;
+
+### Art. 27/2
+
+[<sup>1</sup> Les données à caractère personnel enregistrées dans la base de données visée à l'article 27/1 sont:
+
+1° les données relatives à la personne qui fait l'objet d'une des mesures visées aux articles 39/2, § 1er et § 2, et 63, § 1er et § 2, du Code consulaire:
+
+a) le nom de famille, les prénoms et la date de naissance;
+
+b) le numéro de Registre national;
+
+c) le lieu de résidence;
+
+d) la nationalité ou le statut d'apatride ou de réfugié;
+
+2° les données relatives au traitement du dossier:
+
+a) le numéro du dossier;
+
+b) la raison du signalement;
+
+c) la date du signalement;
+
+d) la date du désignalement;
+
+e) l'autorité qui a signalé la personne;
+
+f) la date du refus de la carte d'identité, du passeport ou du titre de voyage belge;
+
+g) l'état du dossier;
+
+h) le parquet compétent;
+
+i) la date de transfert du dossier au parquet compétent;
+
+j) la date de réponse du parquet compétent. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-07-03/15, art. 16, 002; En vigueur : 01-09-2019&gt;
+
+### Art. 27/2 DROIT FUTUR.
+
+[<sup>1</sup> Les données à caractère personnel enregistrées dans la base de données visée à l'article 27/1 sont:
+
+1° les données relatives à la personne qui fait l'objet d'une des mesures visées aux articles 39/2, § 1er et § 2, et 63, § 1er et § 2, du Code consulaire:
+
+a) le nom de famille, les prénoms et la date de naissance;
+
+b) le numéro de Registre national;
+
+c) le lieu de résidence;
+
+d) la nationalité ou le statut d'apatride ou de réfugié;
+
+2° les données relatives au traitement du dossier:
+
+a) le numéro du dossier;
+
+b) la raison du signalement;
+
+c) la date du signalement;
+
+d) la date du désignalement;
+
+e) l'autorité qui a signalé la personne;
+
+f) la date du refus de la carte d'identité, du [<sup>2</sup> passeport, du titre de voyage belge ou du titre de voyage provisoire de l'Union européenne]<sup>2</sup>;
+
+g) l'état du dossier;
+
+h) le parquet compétent;
+
+i) la date de transfert du dossier au parquet compétent;
+
+j) la date de réponse du parquet compétent. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-07-03/15, art. 16, 002; En vigueur : 01-09-2019&gt;
+
+(2)&lt;L 2025-07-16/14, art. 9, 003; En vigueur : 08-12-2025&gt;
+
+### Art. 27/3
+
+[<sup>1</sup> Les données à caractère personnel visées à l'article 27/2, 1° et 2° sont conservées jusqu'au moment où, en application des articles 39/4 et 65/1 du Code consulaire, le refus de délivrer un [<sup>2</sup> passeport, un titre de voyage ou un titre de voyage provisoire de l'Union européenne]<sup>2</sup> est levé à l'égard de la personne.
+
+Toutefois, les données à caractère personnel visées à l'article 27/2, 2°, b), c), d), e), f), g) et h) sont toutefois archivées dix ans à partir de la date où le refus de délivrer un passeport ou un titre de voyage est levé à l'égard de la personne, en vue de la fourniture d'informations statistiques pour les finalités telles que mentionnées à l'article 89 du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE.
+
+Après les périodes susmentionnées, les données sont détruites.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-07-03/15, art. 16, 002; En vigueur :
+
+### Art. 27/3 DROIT FUTUR.
+
+[<sup>1</sup> Les données à caractère personnel visées à l'article 27/2, 1° et 2° sont conservées jusqu'au moment où, en application des articles 39/4 et 65/1 du Code consulaire, le refus de délivrer un [<sup>2</sup> passeport, un titre de voyage ou un titre de voyage provisoire de l'Union européenne]<sup>2</sup> est levé à l'égard de la personne.
+
+Toutefois, les données à caractère personnel visées à l'article 27/2, 2°, b), c), d), e), f), g) et h) sont [<sup>2</sup> ...]<sup>2</sup> archivées dix ans à partir de la date où le refus de délivrer un passeport ou un titre de voyage est levé à l'égard de la personne, en vue de la fourniture d'informations statistiques pour les finalités telles que mentionnées à l'article 89 du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE.
+
+Après les périodes susmentionnées, les données sont détruites.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-07-03/15, art. 16, 002; En vigueur :
+
+(2)&lt;L 2025-07-16/14, art. 10, 003; En vigueur : 08-12-2025&gt;
+
+### Art. 27/4
+
+[<sup>1</sup> Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 27/1 sont exclusivement utilisées par:
+
+1° le personnel du SPF Affaires étrangères qui a besoin d'avoir accès à la base de données visée à l'article 27/1 pour l'exercice de ses fonctions et qui exécute les actes administratifs de refus de délivrance, retrait ou invalidation des cartes d'identité, des passeports, des titres de voyage, et individuellement habilité par le ministre ou par le personnel que le ministre a désigné à cet effet;
+
+2° le personnel du service informatique du SPF Affaires étrangères en charge du développement et de la maintenance de la base de données visée à l'article 27/1.
+
+Le personnel susmentionné signera une obligation légale de confidentialité quant aux données à caractère personnel dont il prend connaissance dans l'exercice de sa fonction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-07-03/15, art. 16, 002; En vigueur : 01-09-2019&gt;
+
+### Art. 27/4 DROIT FUTUR.
+
+[<sup>1</sup> Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 27/1 sont exclusivement utilisées par:
+
+1° le personnel du SPF Affaires étrangères qui a besoin d'avoir accès à la base de données visée à l'article 27/1 pour l'exercice de ses fonctions et qui exécute les actes administratifs de refus de délivrance, retrait ou invalidation des cartes d'identité, [<sup>2</sup> passeports, des titres de voyage et des titres de voyage provisoires de l'Union européenne]<sup>2</sup>, et individuellement habilité par le ministre ou par le personnel que le ministre a désigné à cet effet;
+
+2° le personnel du service informatique du SPF Affaires étrangères en charge du développement et de la maintenance de la base de données visée à l'article 27/1.
+
+Le personnel susmentionné signera une obligation légale de confidentialité quant aux données à caractère personnel dont il prend connaissance dans l'exercice de sa fonction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-07-03/15, art. 16, 002; En vigueur : 01-09-2019&gt;
+
+(2)&lt;L 2025-07-16/14, art. 11, 003; En vigueur : 08-12-2025&gt;
+
+## chapitre 7/2 DROIT FUTUR. [<sup>1</sup> Traitement automatisé de données à caractère personnel en vue de la délivrance du titre de voyage provisoire de l'Union européenne]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-16/14, art. 12, 003; En vigueur : 08-12-2025&gt;
+
+### Art. 27/5. DROIT FUTUR.
+
+[<sup>1</sup> Le service désigné par le Roi est responsable du traitement automatisé de données à caractère personnel en vue de la délivrance du titre de voyage provisoire de l'Union européenne et de la lutte contre l'abus et la fraude lors de cette délivrance.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-16/14, art. 13, 003; En vigueur : 08-12-2025&gt;
+
+### Art. 27/6 DROIT FUTUR.
+
+[<sup>1</sup> Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 27/5 sont:
+
+1° données relatives au titulaire du titre de voyage provisoire de l'Union européenne:
+
+a) le nom et les prénoms, la nationalité, la date de naissance et le sexe du demandeur;
+
+b) une image faciale du demandeur prise par les autorités de l'Etat membre prêtant assistance au moment de la demande ou, uniquement dans le cas où cela n'est pas faisable, une photographie scannée ou numérique du demandeur, sur la base des normes établies dans le document 9303 de l'Organisation de l'aviation civile internationale (OACI) relatif aux documents de voyage lisibles à la machine;
+
+c) une photocopie ou une copie scannée de tout moyen d'identification disponible, comme une carte d'identité ou un permis de conduire, le numéro et le type de ce moyen d'identification, et, si ces informations sont disponibles, le type et le numéro du document remplacé et le numéro de registre national ou le numéro de sécurité sociale;
+
+d) l'adresse électronique et le numéro de téléphone du demandeur;
+
+2° données relatives au titre de voyage provisoire de l'Union européenne:
+
+a) le numéro du titre de voyage provisoire de l'Union européenne;
+
+b) l'Etat membre de délivrance et le lieu où l'autorité de délivrance est sise;
+
+c) la date de délivrance et la date d'expiration;
+
+d) le pays de destination et éventuellement un ou plusieurs pays de transit pour lesquels le titre de voyage provisoire de l'Union européenne est délivré;
+
+e) d'éventuelles remarques de l'autorité de délivrance pour indiquer toute autre information nécessaire;
+
+f) une photocopie ou une copie scannée du titre de voyage provisoire de l'Union européenne délivré;
+
+g) le prix du titre de voyage provisoire de l'Union européenne.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-16/14, art. 14, 003; En vigueur : 08-12-2025&gt;
+
+### Art. 27/7 DROIT FUTUR.
+
+[<sup>1</sup> Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 27/5 sont conservées pendant la durée suivante:
+
+1° pour autant que le service désigné par le Roi intervient comme Etat membre prêtant assistance à un citoyen non représenté n'ayant pas la nationalité belge, ou un membre de famille d'un citoyen de l'Union, pendant 180 jours;
+
+2° pour autant que le service désigné par le Roi intervient comme Etat membre de nationalité du demandeur, pendant deux ans.
+
+Après les périodes susmentionnées, les données sont effacées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-16/14, art. 15, 003; En vigueur : 08-12-2025&gt;
+
+### Art. 27/8 DROIT FUTUR.
+
+[<sup>1</sup> § 1er. Les données à caractère personnel enregistrées dans le traitement automatisé visé à l'article 27/5 sont exclusivement utilisées par:
+
+1° le personnel chargé au sein du SPF Affaires étrangères de l'application de la réglementation relative aux titres de voyage provisoires de l'Union européenne, et qui est personnellement habilité par le ministre ou par le personnel que le ministre a désigné à cet effet;
+
+2° le personnel diplomatique et consulaire chargé de la délivrance des titres de voyage provisoires de l'Union européenne, et qui est personnellement habilité par l'ambassadeur ou le consul;
+
+3° le personnel du service informatique du SPF Affaires étrangères chargé du développement et de la maintenance de la base de données visée à l'article 27/5;
+
+4° les autorités compétentes de l'Etat membre de nationalité du citoyen non représenté n'ayant pas la nationalité belge, ou, le cas échéant, l'Etat membre de résidence du membre de la famille du citoyen de l'Union ou, en cas de délivrance à un autre bénéficiaire, l'Etat membre tenu d'accorder une protection au demandeur au titre du droit international ou national et qui est le pays de destination, en vue de vérifier la nationalité et l'identité du demandeur.
+
+§ 2. Les personnes visées au paragraphe 1er, 1° à 3°, ont accès à toutes les données visées à l'article 27/6.
+
+Les personnes visées au paragraphe 1er, 4°, ont uniquement accès aux données visées à l'article 27/6, 1°, a) à c) et 2°, a) à f).]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-16/14, art. 16, 003; En vigueur : 08-12-2025&gt;
+
+## CHAPITRE 8. - Dispositions générales
+
+### Art. 28
+
+&lt;Abrogé par L 2019-07-03/15, art. 17, 002; En vigueur : 01-09-2019&gt;
+
+### Art. 29
+
+Le titulaire du passeport ou du titre de voyage belge a le droit, sur présentation de ce document, de sa carte d'identité ou de tout autre document en tenant lieu, auprès de l'autorité qui a délivré le passeport ou titre de voyage ou auprès du SPF Affaires étrangères:
+
+1° de consulter les informations le concernant qui sont reprises dans les traitements automatisés visés aux articles 3, 11, 15, 20 et 24 et sur la puce visée à l'article 7;
+
+2° d'exiger la rectification de ces données si elles ne sont pas reprises de manière précise, complète et exacte.
+
+### Art. 29 DROIT FUTUR.
+
+Le titulaire du [<sup>1</sup> passeport, du titre de voyage belge ou du titre de voyage provisoire de l'Union européenne]<sup>1</sup> a le droit, sur présentation de ce document, de sa carte d'identité ou de tout autre document en tenant lieu, auprès de l'autorité qui a délivré le [<sup>1</sup> passeport, titre de voyage ou titre de voyage provisoire de l'Union européenne]<sup>1</sup> ou auprès du SPF Affaires étrangères:
+
+1° de consulter les informations le concernant qui sont reprises dans les traitements automatisés visés aux articles 3, 11, 15, 20 [<sup>1</sup> , 24 et 27/5]<sup>1</sup> et sur la puce visée à l'article 7;
+
+2° d'exiger la rectification de ces données si elles ne sont pas reprises de manière précise, complète et exacte.
+
+----------
+
+(1)&lt;L 2025-07-16/14, art. 17, 003; En vigueur : 08-12-2025&gt;
+
+### Art. 30
+
+§ 1er. Toutes les personnes qui, dans l'exercice de leurs fonctions, interviennent dans la collecte, le traitement ou la transmission des données sont tenues au secret professionnel. Elles prennent toutes les mesures nécessaires pour tenir les données à jour, corriger les données erronées et détruire les données expirées ou obtenues par des moyens illicites ou frauduleux.
+
+Elles garantissent la sécurité des données enregistrées et, en particulier, empêchent qu'elles soient déformées, endommagées ou communiquées de manière illicite à des personnes qui n'ont pas l'autorisation d'en prendre connaissance.
+
+Elles s'assurent du caractère approprié des programmes servant au traitement automatique des données ainsi que de la régularité de leur application.
+
+Elles veillent à la régularité de la transmission des données.
+
+§ 2. Les infractions visées à l'article 30, § 1er, sont punies d'une amende de vingt-six euros à cinq cents euros. Les dispositions du livre premier du Code pénal, y compris le chapitre VII et de l'article 85, sont applicables à ces infractions.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 10 février 2015.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre des Affaires étrangères,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS

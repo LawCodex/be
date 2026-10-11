@@ -1,0 +1,738 @@
+---
+title: "Loi portant des dispositions diverses en matière sociale"
+identifier: "2015205102"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2015/11/16/2015205102/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2015-11-16
+published: 2015-11-26
+entry_into_force: 2015-12-06
+last_amended: 2026-07-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2015/11/16/2015205102/justel"
+department: "Sécurité sociale"
+justel_note: "Consultation des versions antérieures à partir du 26-11-2015 et mise à jour au 02-07-2026"
+retrieved: 2026-10-11
+---
+
+# 16 NOVEMBRE 2015. - Loi portant des dispositions diverses en matière sociale
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition générale
+
+##### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## CHAPITRE 2. - Politique nouvelle [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-12-25/01, art. 32, 005; En vigueur : 01-01-2018&gt;
+
+### Section 1re. - Champ d'application et définitions
+
+##### Art. 2
+
+[<sup>1</sup> § 1er. Le présent chapitre s'applique aux travailleurs et aux employeurs qui sont soumis à la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, à l'exception de l'article 1ter, sauf en cas d'exclusion totale ou partielle tel que défini dans le présent article.
+
+§ 2. En ce qui concerne les travailleurs et les employeurs visés au paragraphe 1er qui ressortent de la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires, les partenaires sociaux peuvent convenir d'exclure en tout ou en partie l'emploi via flexi-jobs ou de les autoriser à nouveau en tout ou en partie.
+
+L'exclusion ou l'autorisation totale ou partielle se fait par arrêté royal, délibéré en Conseil des ministres, à la demande unanime de la commission ou sous-commission paritaire compétente et à condition que les partenaires sociaux aient conclu une convention collective de travail à ce sujet au niveau de la commission ou sous-commission paritaire.
+
+§ 3. En ce qui concerne les travailleurs et les employeurs visés au paragraphe 1er qui sont énumérés à l'article 1er, § 1er et § 3, 1°, de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités ou à la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques, les ministres compétents de l'entité fédérale et des entités fédérées peuvent demander d'exclure en tout ou en partie l'emploi via flexi-jobs ou de les autoriser à nouveau en tout ou en partie.
+
+L'exclusion ou l'autorisation totale ou partielle se fait par arrêté royal, délibéré en Conseil des ministres, à la demande des ministres compétents de l'entité fédérale ou des entités fédérées. La demande n'est prise en considération par le gouvernement fédéral qu'à la condition que la demande a été négocié au préalable au sein du comité de négociation, qui a été institué en application du Titre III de l'arrêté royal du 28 septembre 1984 portant exécution de la loi du 19 décembre 1974 organisant les relations entre les autorités publiques et les syndicats des agents relevant de ces autorités ou, en ce qui concerne les entreprises publiques autonomes visées à l'article 1, § 4, 1°, 3° et 4° de la loi du 21 mars 1991 précitée, les commissions paritaires en application de l'article 30 de la même loi ou, en ce qui concerne la SNCB, Infrabel et HR Rail, la Commission paritaire nationale, visée à l'article 115 de la loi du 23 juillet 1926 relative à la SNCB et au personnel des Chemins de fer belges.
+
+§ 4. En ce qui concerne les travailleurs et les employeurs visés au paragraphe 1er qui sont énumérés à l'article 1er, § 2, de la loi du 19 décembre 1974 précitée, l'autorité administrative compétente pour ces travailleurs et employeurs peut demander d'exclure en tout ou en partie l'emploi via flexi-jobs ou de les autoriser à nouveau en tout ou en partie.
+
+L'exclusion ou l'autorisation totale ou partielle se fait par arrêté royal, délibéré en Conseil des ministres, à la demande de cette autorité administrative. La demande n'est prise en considération par le gouvernement fédéral qu'à la condition que la demande a été négociée au préalable conformément aux règles et procédures prévues dans la réglementation applicable régissant les relations entre cette autorité administrative et les syndicats de son personnel.
+
+§ 5. La demande d'exclusion ou d'autorisation visée aux paragraphes précédents est transmise à l'Office national de sécurité sociale au plus tard le 30 septembre contre accusé de réception pour ensuite être reprise dans le prochain arrêté royal qui entre en vigueur le 1er janvier de l'année suivante.
+
+§ 6. Par l'exclusion ou l'autorisation totale ou partielle à la branche d'activité des travailleurs et employeurs qui ressortent des établissements ou services publics dont le code NACE est 86.101, 86.102, 86.103, 86.104, 86.109, 86.210, 86.910, 86.920, 86.931, 86.932, 86.933, 86.939, 86.940, 86.951, 86.952, 86.959, 86.991, 86.993, 86.994, 86.995, 86.996, 86.999, 87.101, 87.109, 87.201, 87.202, 87.203, 87.204, 87.205, 87.209, 87.301, 87.302, 87.303, 87.304, 87.309, 87.991, 87.992, 87.999, 88.101, 88.102, 88.103, 88.104, 88.105, 88.106, 88.109, 88.911, 88.912, 88.919, 88.991, 88.992, 88.994 et 88.999, ou des commissions paritaires des établissements et des services de santé (CP 330), pour le secteur flamand de l'aide sociale et des soins de santé (CP 331) ou pour le secteur francophone et germanophone de l'aide sociale et des soins de santé (CP 332), il faut comprendre l'exclusion ou l'autorisation de toute une branche d'activité, d'une partie d'une branche d'activité, ou d'une partie proportionnelle du volume total d'emploi d'un employeur de la branche d'activité.
+
+§ 7. Les fonctions artistiques, artistiques-techniques et de soutien artistique qui comprennent des activités telles que déterminées par la loi du 16 décembre 2022 portant création de la Commission du travail des arts et améliorant la protection sociale des travailleurs des arts sont dans tous les cas exclues du régime des flexi-jobs.
+
+§ 8. L'exclusion totale ou partielle ou l'autorisation totale ou partielle qui suit l'exclusion doit répondre aux conditions suivantes:
+
+1° la délimitation s'appuie sur des données vérifiables par l'Office national de sécurité sociale, telles que:
+
+a) la commission paritaire ou la sous-commission paritaire;
+
+b) l'activité principale qui correspond à la description des codes NACE;
+
+c) les entreprises d'une branche d'activité pour lesquelles un Fonds de sécurité d'existence est compétent et pour lesquelles l'Office national de sécurité sociale perçoit une cotisation sur la base de l'article 7 de la loi du 7 janvier 1958 concernant les Fonds de sécurité d'existence;
+
+d) d'autres critères convenus d'un commun accord avec l'Office national de sécurité sociale;
+
+2° un arrêté royal fixe la date d'entrée en vigueur de l'exclusion ou de l'autorisation. Les modifications correspondantes seront incluses dans l'arrêté royal et entreront en vigueur le 1er janvier de l'année civile suivante;
+
+3° l'arrêté royal regroupe toutes autorisations et exclusions qui entrent en vigueur l'année civile suivante.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-06-28/03, art. 5, 019; En vigueur : 01-07-2026&gt;
+
+##### Art. 3
+
+Pour l'application du présent chapitre et de ses arrêtés d'exécution, il y a lieu d'entendre par :
+
+1° flexi-job : l'occupation dans les liens d'un contrat-cadre, visé à l'article 6 ou un contrat visé à l'article 7.
+
+2° [<sup>1</sup> flexisalaire : le salaire de base, qui est un salaire net destiné à rémunérer une prestation fournie dans le cadre d'un flexi-job visé au 1°, augmenté de tous les indemnités, primes et avantages quelle que soit leur nature versés par l'employeur à titre de rémunération pour ces mêmes prestations et sur lesquelles conformément à l'article 14, § 2, de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs et à l'article 23, alinéa 2, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés et leurs arrêtés d'exécution, des cotisations sociales sont dues;]<sup>1</sup>
+
+3° travailleur exerçant un flexi-job : un travailleur salarié occupé avec un contrat de travail flexi-job dans les liens d'un contrat-cadre visé à l'article 6 ou un contrat visé à l'article 7;
+
+4° contrat de travail flexi-job : le contrat de travail, soumis aux règles de la section 3, et qui est conclu entre un employeur et un travailleur salarié qui remplit les conditions fixées à l'article 4.
+
+Est assimilé au contrat de travail "flexi-job", le contrat conclu, dans les mêmes conditions, entre une entreprise de travail intérimaire et un travailleur intérimaire pour autant que l'activité de l'utilisateur ressort [<sup>2</sup> à une des commissions paritaires visées à l'article 2, alinéa 1er, ou du Fonds social et de garantie visé à l'article 2, alinéa 2]<sup>2</sup>;
+
+5° [<sup>3</sup> heure supplémentaire dans le secteur de l'horeca: chaque heure supplémentaire, visée à l'article 25bis de la loi du 16 mars 1971 sur le travail, prestée chez l'employeur ou, en cas de travail intérimaire, chez l'utilisateur dont l'activité ressort de la Commission paritaire de l'industrie hôtelière (C.P. 302) qui, en tout lieu d'exploitation, font usage de la caisse enregistreuse visée à l'arrêté royal du 30 décembre 2009 fixant la définition et les conditions auxquelles doit répondre un système de caisse enregistreuse dans le secteur horeca, et qui a déclaré cette caisse enregistreuse auprès de l'administration fiscale conformément à cet arrêté et chaque heure supplémentaire visée à l'article 26bis, § 2bis, de la loi du 16 mars 1971 sur le travail, prestée chez un employeur qui ressort de la Commission paritaire de l'industrie hôtelière ou de la Commission paritaire du travail intérimaire, si l'utilisateur ressort de la Commission paritaire de l'industrie hôtelière pour un total de 360 heures qui sont prestées en application de ces ou d'un de ces articles et pour autant qu'il s'agisse d'emploi à temps plein;]<sup>3</sup>
+
+6° le flexipécule de vacances : le pécule de vacances due pour une prestation livrée dans le cadre d'un flexi-job visé au 1°;
+
+[<sup>2</sup> 7° : pensionné : la personne qui bénéficie d'une pension telle que définie à l'article 68, § 1er, alinéa 1er, a) [<sup>4</sup> ...]<sup>4</sup>, de la loi du 30 mars 1994 portant des dispositions sociales, à l'exclusion de l'allocation de transition.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2015-12-26/03, art. 90, 002; En vigueur : 01-12-2015&gt;
+
+(2)&lt;L 2017-12-25/01, art. 34, 005; En vigueur : 01-01-2018&gt;
+
+(3)&lt;L 2018-01-15/02, art. 48, 007; En vigueur : 15-02-2018&gt;
+
+(4)&lt;L 2023-12-22/06, art. 157, 014; En vigueur : 01-01-2023&gt;
+
+### Section 2. - Conditions [<sup>1</sup> d'exercice d'un flexi-job]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-12-25/01, art. 35, 005; En vigueur : 01-01-2018&gt;
+
+##### Art. 4
+
+§ 1er. Une occupation dans le cadre d'un flexi-job est possible lorsque le [<sup>4</sup> travailleur]<sup>4</sup> concerné a déjà chez un ou plusieurs autre(s) employeur(s) une occupation qui est au minimum égale à 4/5e d'un emploi à temps plein d'une personne de référence du secteur dans lequel les prestations à 4/5e sont exécutées, durant le trimestre de référence T-3, et pour autant que le [<sup>4</sup> travailleur]<sup>4</sup>, pendant la même période dans le trimestre T :
+
+a) [<sup>3</sup> n'est pas employé auparavant ou en plus dans le cadre d'un autre contrat de travail ou une affectation statutaire avec l'employeur pour lequel il exerce le flexi-job. [<sup>4</sup> Cette condition ne s'applique pas aux intérimaires dans la mesure où l'entreprise de travail intérimaire ne les met pas à la disposition du même utilisateur en tant qu'intérimaire et en tant que travailleur exerçant un flexi-job.]<sup>4</sup>;]<sup>3</sup>
+
+b) ne se trouve pas dans une période couverte par une indemnité de rupture ou une indemnité en compensation du licenciement à charge de l'employeur auprès duquel il exerce le flexi-job;
+
+c) ne se trouve pas dans un délai de préavis;
+
+[<sup>2</sup> d) n'est pas occupé sous un contrat de travail par l'utilisateur auprès duquel il est mis à disposition par une entreprise de travail intérimaire pour exercer un flexi-job;]<sup>2</sup>
+
+[<sup>3</sup> e) n'est pas employé par une entreprise affiliée, au sens de l'article 1.20 du Code des sociétés et des associations, à l'entreprise avec laquelle il a un contrat de travail pour un emploi d'au moins 4/5e d'un temps plein d'une personne de référence du secteur.]<sup>3</sup>
+
+[<sup>4</sup> La disposition prévue à l'alinéa 1er, e), n'est pas applicable si le travailleur qui est occupé auprès d'une entreprise affiliée a déjà un emploi régulier à temps plein auprès de cette entreprise affiliée ou auprès d'une ou plusieurs autres entreprises affiliées ou non.]<sup>4</sup>
+
+[<sup>3</sup> Les personnes qui ont occupé les 4/5es d'un emploi à temps plein en T-3 d'une personne de référence du secteur dans lequel sont effectués les 4/5es de l'emploi et ont travaillé à temps plein en T-4 ne peuvent pas exercer un flexi-job en T et T+1.]<sup>3</sup>
+
+§ 2. Pour satisfaire à l'occupation minimale de 4/5e d'un emploi à temps plein d'une personne de référence, il est tenu compte, pour le calcul, dans le trimestre T-3 de toutes les périodes payées par l'employeur et de toutes les périodes de suspension du contrat de travail qui ne sont pas payées par l'employeur, visées aux articles 30, 31, 33, 34, 34bis, 34ter, 39, 40, 45, 47, et 51 à 60 inclus de l'arrêté royal du 10 juin 2001 portant définition uniforme de notions relatives au temps de travail à l'usage de la sécurité sociale, en application de l'article 39 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions.
+
+Pour le calcul des prestations de travail prestées dans le trimestre T-3 il n'est pas tenu compte des prestations :
+
+a) prestées dans le cadre d'un flexi-job visé à l'article 3, 1°;
+
+b) en tant qu'apprenti, visé à l'article 1er de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs;
+
+c) en tant qu'étudiant visé au titre VII de la loi du 3 juillet 1978 sur les contrats de travail, pour les 50 jours déclarés d'occupation d'une année calendrier conformément à l'article 7 de l'arrêté royal du 5 novembre 2002 instaurant une déclaration immédiate de l'emploi, en application de l'article 38 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux;
+
+d) de travailleurs visés à l'article 5bis de l'arrêté royal du 28 novembre 1969 pris en exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs;
+
+e) de travailleurs occasionnels dans l'agriculture et l'horticulture visés à l'article 2/1 de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs;
+
+f) en tant que travailleur occasionnel visé à l'article 31ter de l'arrêté royal du 28 novembre 1969 pris en exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.
+
+[<sup>1</sup> § 3. La condition d'un emploi à 4/5e au cours du trimestre de référence T-3 visée au § 1er, n'est pas d'application lorsque le travailleur est un pensionné au sens de l'article 3, 7° au trimestre [<sup>4</sup> T]<sup>4</sup>.
+
+§ 4. Sont assimilés aux journées prestées, les jours couverts par la rémunération différée versée par les départements de l'enseignement pour des travailleurs temporaires ou, pour ceux qui ne peuvent pas en bénéficier, par les allocations de chômage payées par l'ONEm avec dispense de recherche d'emploi lors des vacances d'été.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-12-25/01, art. 36, 005; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2022-04-01/09, art. 2, 009; En vigueur : 07-05-2022&gt;
+
+(3)&lt;L 2023-12-22/06, art. 183, 014; En vigueur : 01-01-2024&gt;
+
+(4)&lt;L 2026-06-28/03, art. 6, 019; En vigueur : 01-07-2026&gt;
+
+##### Art. 5
+
+§ 1er. [<sup>6</sup> Le flexisalaire visé à l'article 3, 2°, à l'exclusion des indemnités, primes et avantages accordés en vertu de dispositions légales ou réglementaires ou de conventions collectives de travail, ne peut excéder 150 % du salaire de base minimum tel que défini au paragraphe 2.
+
+Par dérogation au premier alinéa, pour les activités exercées dans le cadre de la commission paritaire de l'industrie hotellière (CP 302), le flexisalaire ne peut excéder 21 euros par heure. Ce montant est adapté à l'indice des prix à la consommation, selon les dispositions de la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants. L'indice de départ est celui du mois de l'entrée en vigueur de la présente disposition]<sup>6</sup>.
+
+§ 2. [<sup>4</sup> Le salaire de base visé à l'article 3, 2°, est au moins égal au salaire horaire déterminé sur base du salaire barémique applicable à la fonction exercée par le travailleur exerçant un flexi-job et fixé par une convention collective de travail.
+
+Pour les travailleurs exerçant un flexi-job qui ne sont pas soumis à la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires, le salaire de base est au moins égal au salaire horaire déterminé sur base du salaire barémique applicable à la fonction exercée par le travailleur, conformément aux règles du statut légal qui lui sont applicables.
+
+Pour les travailleurs exerçant un flexi-job pour lesquels aucun salaire barémique n'a été établi, le salaire de base est au moins égal au salaire horaire déterminé sur la base du revenu minimum mensuel moyen garanti tel que prévu par la convention collective de travail n° 43 du 2 mai 1988 relative à la garantie d'un revenu minimum mensuel moyen.
+
+Par dérogation à l'alinéa 1er, le salaire de base visé à l'article 3, 2°, s'élève au minimum à [<sup>5</sup> 11,19]<sup>5</sup> euros par heure pour les activités exercées au sein de la commission paritaire de l'industrie hôtelière (CP 302). [<sup>6</sup> Ce montant minimal est adapté à l'indice des prix à la consommation, selon les dispositions de la loi du 2 août 1971 précitée. L'indice de départ est celui du mois de janvier 2024]<sup>6</sup>.]<sup>4</sup>
+
+§ 3. Le flexipécule de vacances visé à l'article 3, 6°, est égal à 7,67 % du flexisalaire visé à l'article 3, 2°, et doit être payé ensemble avec le flexisalaire au travailleur.
+
+----------
+
+(1)&lt;L 2015-12-26/03, art. 91, 002; En vigueur : 01-12-2015&gt;
+
+(2)&lt;L 2022-12-26/01, art. 147, 011; En vigueur : 01-01-2023&gt;
+
+(3)&lt;L 2023-10-16/03, art. 17, 013; En vigueur : 01-01-2023&gt;
+
+(4)&lt;L 2023-12-22/06, art. 184, 014; En vigueur : 01-01-2024&gt;
+
+(5)&lt;L 2024-03-21/22, art. 31, 015; En vigueur : 01-01-2024&gt;
+
+(6)&lt;L 2026-06-28/03, art. 7, 019; En vigueur : 01-07-2026&gt;
+
+### Section 2/1. [<sup>1</sup> - Contrôle du champ d'application]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-12-26/01, art. 148, 011; En vigueur : 01-01-2023&gt;
+
+##### Art. 5/1.
+
+[<sup>1</sup> L'Office national de sécurité sociale vérifie si le travailleur engagé dans le cadre d'un flexi-job n'est pas engagé auprès d'un employeur ou pour des fonctions ne relevant pas du champ d'application tel que déterminé à l'article 2.
+
+A cette fin, l'Office national de sécurité sociale est habilité à consulter les banques de données des travailleurs exerçant une fonction artistique, artistique-technique ou artistique de soutien ou une activité entrant dans le champ d'application matériel de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé.
+
+L'Office national de sécurité sociale traite les données personnelles et les catégories de données personnelles suivantes du travailleur:
+
+\- le nom;
+
+\- le prénom;
+
+\- le sexe;
+
+\- la date de naissance;
+
+\- la langue;
+
+\- le numéro d'identification à la sécurité sociale NISS (numéro de registre national ou numéro du registre BIS);
+
+\- l'adresse;
+
+\- l'adresse e-mail;
+
+\- le numéro de téléphone;
+
+\- les catégories de données relatives à l'activité exercée au sein de la commission paritaire du spectacle (CP 304) ou de la commission paritaire des établissements et des services de santé (CP 330) et du secteur public des soins.
+
+Le traitement de ces données est nécessaire à l'exercice adéquat des missions légales de l'Office national de sécurité sociale.
+
+Ces données personnelles et catégories de données personnelles sont conservées durant une période n'excédant pas le délai de prescription pour la reconnaissance des droits des travailleurs exerçant un flexi-job ou des actions en récupération des paiements indus.
+
+Les données personnelles et catégories de données personnelles, visées à l'alinéa 3, sont supprimées après l'écoulement du délai de prescription, visé à l'alinéa 5.
+
+L'Office national de sécurité sociale est chargé de veiller au respect du champ d'application matériel déterminé à l'article 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-12-26/01, art. 149, 011; En vigueur : 01-01-2023&gt;
+
+### Section 3. - Modifications en matière du droit du travail [<sup>1</sup> concernant l'exercice d'un flexi-job]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-12-25/01, art. 37, 005; En vigueur : 01-01-2018&gt;
+
+#### Sous-section 1re. - Le contrat-cadre
+
+##### Art. 6
+
+Le travailleur et l'employeur concluent, préalablement au début de la première occupation, un contrat-cadre qui contient au moins les mentions suivantes :
+
+a) l'identité des parties;
+
+b) la manière et le délai suivant lequel le contrat de travail flexi-job doit être proposé par l'employeur au travailleur;
+
+c) une description sommaire de la (des) fonction(s) à exercer;
+
+d) [<sup>1</sup> le salaire de base visé à l'article 3, 2° en tenant compte du minimum visé à l'article 5;]<sup>1</sup>
+
+e) le texte de l'article 4, § 1er.
+
+A défaut d'un contrat-cadre conforme aux dispositions de l'alinéa 1er, le contrat de travail conclu en exécution de celui-ci ne peut pas être considéré comme un contrat de travail flexi-job.
+
+----------
+
+(1)&lt;L 2015-12-26/03, art. 92, 002; En vigueur : 01-12-2015&gt;
+
+##### Art. 7
+
+Lorsque le travailleur est un intérimaire, le contrat-cadre visé à l'article 6 ne doit pas être établi. Dans ce cas, les mentions énumérées à l'article 6 sont insérées dans le contrat visé [<sup>1</sup> à l'article 7, 2°, de la loi]<sup>1</sup> du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs.
+
+A défaut des mentions énumérées à l'article 6 dans le contrat concerné, les contrats de travail conclus dans ce cadre ne peuvent pas être considérés comme des contrats de travail flexi-job.
+
+----------
+
+(1)&lt;L 2018-12-21/49, art. 44, 008; En vigueur : 27-01-2019&gt;
+
+#### Sous-section 2. - Le contrat de travail
+
+##### Art. 8
+
+Le contrat de travail flexi-job est conclu pour une durée déterminée ou pour un travail nettement défini.
+
+##### Art. 9
+
+Le contrat de travail flexi-job est régi par les dispositions de la loi du 3 juillet 1978 relative aux contrats de travail, sauf en ce qui concerne les dispositions spécifiques prévues dans la présente section.
+
+##### Art. 10
+
+Le contrat de travail flexi-job peut être conclu par écrit ou oralement.
+
+##### Art. 11
+
+En cas d'horaire variable, [<sup>1</sup> ...]<sup>1</sup> la sous-section 2 de la section 2 du chapitre 4 du titre II de la loi-programme du 22 décembre 1989 et l'article 38bis de la loi du 16 mars 1971 sur le travail ne sont pas applicables.
+
+----------
+
+(1)&lt;L 2022-10-07/09, art. 29, 010; En vigueur : 10-11-2022&gt;
+
+#### Sous-section 3. - Dispositions communes
+
+##### Art. 12
+
+L'employeur conserve le contrat-cadre et le contrat de travail flexi-job sur le lieu de travail du travailleur exerçant un flexi-job.
+
+### Section 3/1. [<sup>1</sup> - Concertation sur l'application des flexi-jobs]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-22/06, art. 185, 014; En vigueur : 01-01-2024&gt;
+
+##### Art. 12/1.
+
+[<sup>1</sup> Les employeurs qui ne tombent pas sous le champ d'application de la même loi du 5 décembre 1968 organisent chaque année et pour chaque année civile au cours de laquelle ils occupent des travailleurs exerçant un flexi-job une concertation avec les représentants des travailleurs dans les organes de concertation compétents.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-22/06, art. 186, 014; En vigueur : 01-01-2024&gt;
+
+##### Art. 12/1bis.
+
+[<sup>1</sup> En vue de garantir des conditions de travail sûres et de prévenir les accidents du travail, les commissions ou comités compétents des secteurs privé et public transmettent, un an après l'entrée en vigueur de la présente loi au ministre de l'Emploi et au ministre des Affaires Sociales une évaluation concernant l'utilisation des travailleurs exerçant un flexi-job au sein de leur secteur, notamment en ce qui concerne le nombre d'heures de travail prestées par les travailleurs flexi-jobs. Elles peuvent, à cette fin, utiliser notamment les données nécessaires mises à disposition des secteurs par l'Office national de sécurité sociale. Si, lors de la rédaction du rapport, des soupçons d'infractions graves aux conditions de sécurité au travail apparaissent, ceux-ci seront transmis aux services compétents pour enquête complémentaire. Les commissions ou comités compétents des secteurs privé et public formuleront également dans le rapport les recommandations nécessaires pour garantir des conditions de sécurité au travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-28/03, art. 8, 019; En vigueur : 01-07-2026&gt;
+
+### Section 4. - Modifications en matière de sécurité sociale [<sup>1</sup> en ce qui concerne les flexi-jobs]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-12-25/01, art. 38, 005; En vigueur : 01-01-2018&gt;
+
+##### Art. 13
+
+Dans la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, il est inséré un article 1ter rédigé comme suit :
+
+"Art. 1ter. La présente loi est également applicable aux travailleurs exerçant un flexi-job et les employeurs qui ressortent de la commission paritaire de l'industrie hôtelière ou de la commission paritaire du travail intérimaire si l'utilisateur ressort de la commission paritaire de l'industrie hôtelière et qui sont liés par un contrat de travail flexi-job.".
+
+##### Art. 14
+
+Dans l'article 14 de la même loi, modifié en dernier lieu par la loi du 24 juillet 2008, il est inséré un paragraphe 3bis rédigé comme suit :
+
+" § 3bis. Le flexisalaire visé à l'article 9, 2°, de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale, le flexipécule de vacances visé à l'article 3, 6°, de la même loi et les rémunérations nettes pour les heures supplémentaires dans le secteur de l'horeca, telles que définies à l'article 3, 5°, de la même loi, sont exclues de la notion de rémunération."
+
+##### Art. 15
+
+Dans l'article 23 de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, adapté par les lois des 24 juillet 2008, 23 décembre 2009 et 25 avril 2014, un alinéa rédigé comme suit est inséré entre les alinéas 2 et 3 :
+
+"Le flexisalaire visé à l'article 3, 2°, de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale, le flexipécule de vacances visé à l'article 3, 6°, de la même loi et les rémunérations nettes pour les heures supplémentaires dans le secteur de l'horeca, telles que définies à l'article 3, 5°, de la même loi, sont exclues de la notion de rémunération.".
+
+##### Art. 16
+
+Dans l'article 38 de la même loi, modifié par la loi du 23 décembre 2013, il est inséré un paragraphe 3sexdecies rédigé comme suit :
+
+" § 3sexdecies. L'employeur est redevable d'une cotisation spéciale de 25 % sur le flexisalaire visé à l'article 3, 2°, de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale et sur le flexipécule de vacances visé à l'article 3, 6°, de la même loi.
+
+La cotisation spéciale visée à l'alinéa 1er est payée par l'employeur à l'institution chargée de la perception des cotisations de sécurité sociale, dans les mêmes délais et aux mêmes conditions que les cotisations de sécurité sociale des travailleurs salariés.
+
+Les dispositions du régime général de la sécurité sociale des travailleurs salariés sont d'application, notamment en ce qui concerne les déclarations avec justification des cotisations, les délais de paiement, l'application des sanctions civiles et des sanctions pénales, la surveillance, la désignation du juge compétent en cas de litige, la prescription en matière d'actions en justice, le privilège et la communication du montant de la déclaration de créance de l'Office national de sécurité sociale.
+
+Le produit des cotisations spéciales visées à l'alinéa 1er est transféré à l'ONSS-Gestion globale visée à l'article 5, alinéa 1er, 2°, de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.".
+
+##### Art. 17
+
+A l'article 2 de l'arrêté royal du 10 juin 2001 établissant la notion uniforme de "rémunération journalière moyenne" en application de l'article 39 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions et harmonisant certaines dispositions légales, modifié par l'arrêté royal du 5 novembre 2002 et la loi du 11 novembre 2013, les modifications suivantes sont apportées :
+
+1° l'alinéa 2 est complété par la phrase suivante :
+
+"Pour les travailleurs salariés visés à l'article 3, 3°, de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale, est considéré comme rémunération journalière moyenne, le flexisalaire, visé à l'article 3, 2°, de la même loi et le flexipécule de vacances visé à l'article 3, 6°, de la même loi."
+
+2° l'alinéa 3 est complété par la phrase suivante :
+
+"Une heure supplémentaire dans le secteur de l'horeca visé à l'article 3, 5°, de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale est également considérée comme faisant partie des montants et avantages visés à l'alinéa 2 pour l'application de cet alinéa.".
+
+##### Art. 18
+
+Les prestations de travail effectuées dans le cadre d'un flexi-job visé à l'article 3, 1°, sont considérées comme des prestations de travail pour l'application de l'assurance chômage.
+
+##### Art. 19
+
+L'article 1er de l'arrêté royal n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés est complété par un alinéa rédigé comme suit :
+
+"Pour l'application de cet arrêté, le travailleur exerçant un flexi-job visé à l'article 3, 3°, de la loi du 16 novembre 2015 portant dispositions diverses en matière sociale est assimilé à un travailleur.".
+
+##### Art. 20
+
+L'article 7 du même arrêté royal est complété par un alinéa rédigé comme suit :
+
+"La rémunération pour une heure supplémentaire dans le secteur de l'horeca visé à l'article 3, 5°, de la loi du 16 novembre 2015 portant dispositions diverses en matière sociale, le flexisalaire visé à l'article 3, 2°, de la même loi et le flexipécule de vacances visé à l'article 3, 6°, de la même loi sont en ce qui concerne l'alinéa 1er également considérés comme de la rémunération brute en fonction de laquelle la pension de retraite est calculée.".
+
+##### Art. 21
+
+Dans l'article 1er des lois relatives aux vacances annuelles des travailleurs salariés, coordonnées le 28 juin 1971, un alinéa rédigé comme suit est inséré entre l'alinéa 1er et l'alinéa 2 :
+
+(Justel lit : " Dans les lois relatives aux vacances annuelles des travailleurs salariés, coordonnées le 28 juin 1971, un article 2ter rédigé comme suit est inséré : ")
+
+"Art. 2ter. Pour l'application de la présente loi le travailleur exerçant un flexi-job visé à l'article 3, 3°, de la loi du 16 novembre 2015 portant des dispositions diverse en matière sociale est considéré comme un travailleur intellectuel."
+
+##### Art. 22
+
+L'article 9, § 2, des mêmes lois est complété par les mots :
+
+"et le flexipécule de vacances visé à l'article 3, 6°, de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale est fixé conformément à l'article 5, § 3, de la même loi."
+
+##### Art. 23
+
+Dans l'arrêté royal du 5 novembre 2002 instaurant une déclaration immédiate de l'emploi, en application de l'article 38 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions, il est inséré un article 7/1 rédigé comme suit :
+
+"Art. 7/1. L'employeur qui occupe des travailleurs exerçant un flexi-job visé à l'article 3, 3°, de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale, communique pour ces travailleurs, par trimestre compris dans la durée du contrat de travail, les données énumérées à l'article 4, complétées par la qualité de travailleur exerçant un flexi-job.
+
+S'il s'agit d'un contrat de travail de durée déterminée qui est conclu oralement, les données énumérées à l'article 4 sont communiquées sur une base journalière, complétées par la qualité de travailleur exerçant un flexi-job et l'heure du début et de fin de la prestation.".
+
+##### Art. 24
+
+L'employeur qui fait appel à des travailleurs exerçant un flexi-job doit utiliser un système [<sup>2</sup> électronique]<sup>2</sup> qui enregistre et tient à jour, pour chacun de ces travailleurs, le moment exact du début et de la fin de la prestation de travail.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, les modalités auxquelles doit satisfaire le système désigné à l'alinéa 1er. Le Roi détermine également, par arrêté délibéré en Conseil des ministres, la durée obligatoire de stockage des données enregistrées.
+
+[<sup>1</sup> Un enregistrement conforme à l'article 28/10, § 2, de l'arrêté royal du 16 mai 2003 pris en exécution du chapitre 7 du Titre IV de la loi-programme du 24 décembre 2002 (I), visant à harmoniser et à simplifier les régimes de réductions de cotisations de sécurité sociale ou l'utilisation des appareils visés à l'article 164 de la loi-programme du 22 décembre 1989, remplace l'obligation d'enregistrement visée à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-12-25/01, art. 39, 005; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2026-06-28/03, art. 9, 019; En vigueur : 01-07-2026&gt;
+
+##### Art. 25
+
+Lorsqu'un travailleur exerçant un flexi-job est présent sur le lieu de travail, alors que le moment exact du début et de la fin d'une tâche ou d'une prestation de travail n'est pas enregistré ni tenu à jour conformément à l'article 24, le travailleur exerçant un flexi-job est présumé, sauf s'il apporte la preuve du contraire, avoir, durant le trimestre concerné, fourni ses prestations de travail en exécution d'un contrat de travail, en qualité de travailleur salarié à temps plein.
+
+##### Art. 26
+
+Lorsqu'un employeur déclare un travailleur conformément à l'article 7/1 de l'arrêté royal du 5 novembre 2002 instaurant une déclaration immédiate de l'emploi, en application de l'article 38 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux alors que ce travailleur ne remplit pas les conditions pour l'exercice d'un flexi-job et déclare celui-ci néanmoins en tant que travailleur exerçant un flexi-job dans la déclaration trimestrielle prévue à l'article 21 de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, l'occupation est considérée comme une occupation classique et les cotisations classiques de sécurité sociale dues pour cette occupation calculées sur le flexisalaire sont augmentées avec un pourcentage du flexisalaire à fixer par le Roi, qui n'est pas inférieur à 50 % et pas supérieur à 200 % du flexisalaire.
+
+##### Art. 27
+
+Dans le livre 2, chapitre 2, du Code pénal social, il est inséré une section 3/1 rédigée comme suit : "Section 3/1. Travailleurs exerçant un flexi-job".
+
+##### Art. 28
+
+Dans la section 3/1 du même Code, insérée par l'article 27, il est inséré un article 152/1 rédigé comme suit :
+
+"Art. 152/1. Est puni d'une sanction de niveau 3, l'employeur, son préposé ou son mandataire qui occupe des travailleurs exerçant un flexi-job sans enregistrer ni tenir à jour le moment exact du début et de la fin de la prestation de travail au moyen d'un système tel que défini à l'article 24 de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale.".
+
+### Section 5. - Modifications en matière de fiscalité
+
+##### Art. 29
+
+L'article 38, § 1er, alinéa 1er, du Code des impôts sur les revenus 1992, modifié en dernier lieu par la loi-programme du 19 décembre 2014, est complété par les 29° et 30°, rédigées comme suit :
+
+"29° le flexisalaire visé à l'article 3, 2°, de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale et le flexipécule de vacances visé à l'article 3, 6°, de la même loi;
+
+30° les rémunérations relatives à 300 heures supplémentaires visées à l'article 3, 5°, de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale pour les travailleurs employés par des employeurs qui n'utilisent pas la caisse enregistreuse visée à l'arrêté royal du 30 décembre 2009 fixant la définition et les conditions auxquelles doit répondre un système de caisse enregistreuse dans le secteur horeca, et 360 heures supplémentaires pour les travailleurs employés par des employeurs qui utilisent dans chaque lieu d'exploitation la caisse enregistreuse et qui ont déclaré cette caisse enregistreuse auprès de l'administration fiscale conformément à l'arrêté susmentionné.".
+
+##### Art. 30
+
+L'article 52, 3°, du même Code, modifié en dernier lieu par la loi du 21 décembre 2007, est complétée par un e) rédigé comme suit :
+
+"e) les cotisations spéciales dues en vertu de l'article 38, § 3sexdecies, alinéa 1er, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés.".
+
+### Section 6. - Augmentation heures supplémentaires
+
+##### Art. 31
+
+Les [<sup>1</sup> 91 heures]<sup>1</sup> visées à l'[<sup>1</sup> article 26bis, § 2bis, alinéa 1er]<sup>1</sup>, de la loi du 16 mars 1971 sur le travail, qui ne doivent pas, à la demande du travailleur, être récupérées, sont augmentées à 300 heures par année calendrier chez les employeurs ou, en cas de travail intérimaire, chez les utilisateurs dont l'activité ressort de la commission paritaire de l'industrie hôtelière (PC 302).
+
+Elles sont augmentées à 360 heures pour les travailleurs qui sont engagés par des employeurs qui en tout lieu d'exploitation font usage de la caisse enregistreuse visée dans l'arrêté royal du 30 décembre 2009 fixant la définition et les conditions auxquelles doit répondre un système de caisse enregistreuse dans le secteur horeca et qui ont déclaré cette caisse enregistreuse auprès de l'administration fiscale conformément à cet arrêté.
+
+----------
+
+(1)&lt;L 2016-08-03/17, art. 25, 003; En vigueur : 01-01-2016&gt;
+
+##### Art. 31/1.
+
+[<sup>1</sup> Les [<sup>2</sup> 360 heures]<sup>2</sup> visées à 25bis, § 1er, alinéa 1er, de la loi du 16 mars 1971 sur le travail sont augmentées à [<sup>2</sup> 450 heures]<sup>2</sup> chez les employeurs ou, en cas de travail intérimaire, chez les utilisateurs dont l'activité ressort de la Commission paritaire de l'industrie hôtelière (C.P. 302) qui, en tout lieu d'exploitation, font usage de la caisse enregistreuse visée à l'arrêté royal du 30 décembre 2009 fixant la définition et les conditions auxquelles doit répondre un système de caisse enregistreuse dans le secteur horeca et qui ont déclaré cette caisse enregistreuse auprès de l'administration fiscale conformément à cet arrêté.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-01-15/02, art. 49, 007; En vigueur : 15-02-2018&gt;
+
+(2)&lt;L 2026-05-18/09, art. 4, 018; En vigueur : 01-04-2026&gt;
+
+##### Art. 32
+
+&lt;Abrogé par L 2026-05-18/09, art. 5, 018; En vigueur : 01-04-2026&gt;
+
+##### Art. 33
+
+A l'article 154bis du même Code, modifié en dernier lieu par la loi du 8 mai 2014, les modifications suivantes sont apportées :
+
+1° l'alinéa 3 est remplacé par ce qui suit :
+
+"Le maximum de 130 heures de travail supplémentaire déterminé à l'alinéa 2 est augmenté à 180 heures pour les travailleurs employés par des employeurs qui exécutent des travaux immobiliers à condition que ces derniers utilisent un système électronique d'enregistrement de présence visé au chapitre V, section 4, de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail.
+
+Le maximum de 130 heures de travail supplémentaire déterminé à l'alinéa 2 est augmenté à 360 heures pour les travailleurs employés par des employeurs qui ressortent de la commission paritaire de l'industrie hôtelière ou de la commission paritaire du travail intérimaire si l'utilisateur ressort de la commission paritaire de l'industrie hôtelière.";
+
+2° l'article est complété par un alinéa rédigé comme suit :
+
+"La réduction d'impôt n'est pas applicable au travail supplémentaire qui entre en considération pour l'application de l'article 38, § 1er, alinéa 1er, 30°.".
+
+##### Art. 34
+
+A l'article 275<sup>1</sup> du même Code, modifié en dernier lieu par la loi-programme (I) du 26 décembre 2013, les modifications suivantes sont apportées :
+
+1° l'alinéa 7 est remplacé par ce qui suit :
+
+"Le maximum de 130 heures de travail supplémentaire déterminé à l'alinéa 6 est augmenté à 180 heures pour les employeurs qui exécutent des travaux immobiliers à condition que ces derniers utilisent un système électronique d'enregistrement de présence visé au chapitre V, section 4, de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail.
+
+Le maximum de 130 heures de travail supplémentaire déterminé à l'alinéa 6 est augmenté à 360 heures pour les employeurs qui ressortent de la commission paritaire de l'industrie hôtelière ou de la commission paritaire du travail intérimaire si l'utilisateur ressort de la commission paritaire de l'industrie hôtelière.";
+
+2° l'article est complété par un alinéa rédigé comme suit :
+
+"La dispense de versement du précompte professionnel n'est pas applicable au travail supplémentaire qui entre en considération pour l'application de l'article 38, § 1er, alinéa 1er, 30°.".
+
+##### Art. 35
+
+[<sup>1</sup> Le sursalaire prévu à l'article 29, § 1er, de la loi du 16 mars 1971 sur le travail n'est pas applicable aux heures supplémentaires visées aux articles 31 et 31/1 pour un total de 360 heures qui sont prestées en application de ces ou d'un de ces articles.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-01-15/02, art. 50, 007; En vigueur : 15-02-2018&gt;
+
+##### Art. 35/1.
+
+[<sup>1</sup> Les [<sup>2</sup> 450]<sup>2</sup> heures visées à l'article 31/1 ne sont pas prises en compte pour le respect de la limite visée à l'article 26bis, § 1erbis, de la loi du 16 mars 1971 sur le travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-01-15/02, art. 51, 007; En vigueur : 15-02-2018&gt;
+
+(2)&lt;L 2026-05-18/09, art. 6, 018; En vigueur : 01-04-2026&gt;
+
+### Section 7. - Dispositions finales
+
+##### Art. 36
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, fixer les modalités d'exécution du présent chapitre à l'exception de la section 5 et des articles 33 et 34.
+
+##### Art. 37
+
+Le présent chapitre entre en vigueur le premier jour du mois suivant sa publication au Moniteur belge.
+
+Par dérogation à l'alinéa 1er :
+
+1° les articles 29 et 33 entrent en vigueur à partir de l'exercice d'imposition 2016;
+
+2° les articles 30 et 34 sont applicables aux rémunérations payées ou attribuées à partir du premier jour du mois suivant la publication de la présente loi au Moniteur belge.
+
+##### Art. 38
+
+[<sup>1</sup> La réglementation dans le présent chapitre relève de l'application des aides de minimis telles que reprises dans le Règlement (UE) n° 2023/2831 de la Commission européenne du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis et les éventuelles modifications ultérieures de ce règlement, le Règlement (UE) n° 1408/2013 de la Commission européenne du 18 décembre 2013 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de l'agriculture et les éventuelles modifications ultérieures de ce règlement, le Règlement (UE) n° 717/2014 de la Commission européenne du 27 juin 2014 concernant l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis dans le secteur de la pêche et de l'aquaculture et les éventuelles modifications ultérieures de ce règlement ou le Règlement (UE) n° 2023/2832 de la Commission européenne du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis octroyées à des entreprises fournissant des services d'intérêt économique général et les éventuelles modifications ultérieures de ce règlement.
+
+L'octroi de la disposition visée au présent chapitre est subordonnée à la condition que l'entreprise s'engage à ne pas dépasser le plafond mentionné dans les règlements applicables visés au premier alinéa et les éventuelles modifications ultérieures de ces règlements.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-06-28/03, art. 10, 019; En vigueur : 01-07-2026&gt;
+
+## CHAPITRE 3. - Modifications de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs et de la loi-programme du 10 août 2015, concernant le secteur de la viande
+
+##### Art. 39
+
+Dans l'article 30ter de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, les modifications suivantes sont apportées :
+
+a) dans le paragraphe 1er, le 2° est complété par les phrases suivantes :
+
+"Le Roi peut, après avis unanime des commissions ou sous-commissions paritaires compétentes, assimiler l'entrepreneur au donneur d'ordre. Dans ce cas, cet entrepreneur prend en charge tous les droits et obligations du donneur d'ordre visés au présent article";
+
+b) dans le paragraphe 1er, le 3° est complété par le tiret suivant :
+
+"- lorsque le Roi a eu recours à la délégation qui lui est conférée au 2°, l'entrepreneur qui a été assimilé au donneur d'ordre;";
+
+c) § 7, alinéa 1er, est complété par la phrase suivante :
+
+"Lorsque le Roi a fait usage de la délégation visée au § 1er, 2°, l'obligation de déclaration incombe à l'entrepreneur assimilé au donneur d'ordre.".
+
+##### Art. 40
+
+L'article 4 de la loi-programme du 10 août 2015 est remplacé par ce qui suit :
+
+"Art. 4. Un enregistrement des présences est instauré pour les travailleurs occupés sur les lieux de travail où sont effectuées les activités visées à l'article 2 de l'arrêté royal du 27 décembre 2007 portant exécution des articles 400, 403, 404 et 406 du Code des impôts sur les revenus 1992 et des articles 12, 30bis et 30ter de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs et de l'article 6ter de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, et qui sont soumises à l'obligation de déclaration des contrats visés à l'article 30ter, § 7, de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.".
+
+##### Art. 41
+
+A l'article 5, de la loi-programme du 10 août 2015, les modifications suivantes sont apportées :
+
+a) le 4° est remplacé par ce qui suit :
+
+"4° lieux de travail : le ou les endroits (atelier de découpe, entreprise de préparation de viande et/ou de produits à base de viande et qui doivent obtenir une reconnaissance de l'Agence fédérale pour la sécurité de la chaîne alimentaire à cette fin) où sont réalisées les activités visées à l'article 4, à l'exclusion des établissements qui doivent obtenir un agrément 1.1.3 (Abattages dans l'exploitation agricole), tel que prévu à l'annexe 2 de l'arrêté royal du 16 janvier 2006 fixant les modalités des agréments, des autorisations et des enregistrements préalables délivrés par l'Agence fédérale pour la Sécurité de la Chaîne alimentaire; ces exclusions devront être évaluées endéans une année après l'entrée en vigueur de la présente loi.";
+
+b) le 5° est remplacé par ce qui suit :
+
+"5° donneur d'ordre : le donneur d'ordre ou l'entrepreneur assimilé visé à l'article 30ter, § 1er, 2°, de la loi 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs, qui assure la gestion des lieux de travail; cet entrepreneur assimilé prend en charge tous les droits et obligations du donneur d'ordre visés à la présente section;";
+
+c) le 6° est complété par le tiret suivant :
+
+"- l'entrepreneur assimilé visé à l'article 30ter, § 1er, 2°, de la loi 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs;".
+
+##### Art. 42
+
+Le présent chapitre produit ses effets le 1er juillet 2015.
+
+## CHAPITRE 4. - Modifications du Code des impôts sur les revenus 1992, concernant le secteur de la viande
+
+##### Art. 43
+
+A l'article 400 du Code des impôts sur les revenus 1992, remplacé par l'arrêté royal du 26 décembre 1998, modifié par les lois des 27 avril 2007, 7 novembre 2011 et 29 mars 2012, les modifications suivantes sont apportées :
+
+a) à l'alinéa 1er, le 3° est complété par le tiret suivant :
+
+"- lorsque le Roi a fait usage de la délégation qui lui est donnée à l'alinéa 2, l'entrepreneur assimilé au donneur d'ordre.";
+
+b) l'article est complété par un alinéa 2 rédigé comme suit :
+
+"Le Roi peut, pour les activités ou travaux visés à l'alinéa 1er, 1°, b, après avis unanime des commissions ou sous-commissions paritaires compétentes, assimiler l'entrepreneur au commettant. Dans ce cas, cet entrepreneur prend en charge tous les droits et obligations du commettant visés aux articles 401 à 408.".
+
+##### Art. 44
+
+Le présent chapitre produit ses effets le 1er juillet 2015.
+
+## CHAPITRE 5. - Modifications de la loi du 30 décembre 2009 portant des dispositions diverses
+
+##### Art. 45
+
+Dans l'article 184/1 de la loi du 30 décembre 2009 portant des dispositions diverses les mots "titres-repas et/ou éco-chèques" sont chaque fois remplacés par les mots "titres-repas et/ou éco-chèques papiers et électroniques".
+
+## CHAPITRE 6. - Modifications de la loi du 12 mai 2014 relative à la reconnaissance de l'aidant proche aidant une personne en situation de grande dépendance
+
+##### Art. 46
+
+Dans l'article 2, 5°, de la loi du 12 mai 2014 relative à la reconnaissance de l'aidant proche aidant une personne en situation de grande dépendance, les modifications suivantes sont apportées :
+
+1° dans l'alinéa 1er, les mots "à l'évolution cyclique ou phasée de pathologies déterminées ou" sont supprimés;
+
+2° l'alinéa 2 est supprimé."
+
+## CHAPITRE 7. - Modifications de la loi-programme (I) du 27 décembre 2006"
+
+##### Art. 47
+
+Dans l'article 137 de la loi-programme (I) du 27 décembre 2006, les modifications suivantes sont apportées :
+
+1\) Le 6°, abrogé par la loi du 11 novembre 2013, est rétabli dans la rédaction suivante :
+
+"6° Secteurs à risques : secteurs fixés par le Roi par arrêté délibéré en Conseil des ministres pour lesquels le risque a été objectivé par le service d'information et de recherche sociale visé à l'article 6 du Code pénal social et qui ont été soumis à l'avis des partenaires sociaux concernés, chacun pour ce qui concerne ses compétences, dans un délai de quatre mois à partir de la demande d'avis, suivant la procédure déterminée par le Roi;"
+
+2\) Les 7° et 8° sont remplacés par ce qui suit :
+
+"7° travailleurs indépendants : toutes les personnes physiques qui exercent une activité professionnelle en raison de laquelle elles ne sont pas engagées dans les liens d'un contrat de travail ou d'un statut;
+
+8° travailleurs indépendants détachés :
+
+a) les personnes visées au point 7° qui exercent temporairement ou partiellement une ou plusieurs activités indépendantes relevant des secteurs à risque visés au point 6° en Belgique sans y résider de manière permanente et qui travaillent habituellement sur le territoire d'un ou plusieurs pays autres que la Belgique;
+
+b) les personnes venant de l'étranger qui se rendent en Belgique dans le but d'y exercer temporairement une activité professionnelle indépendante dans un des secteurs à risque visés au point 6 ° ou de s'y installer temporairement comme indépendant pour y exercer une activité dans un des secteurs à risque visés au point 6°;".
+
+##### Art. 48
+
+[<sup>1</sup> Le présent chapitre entre en vigueur le 1er janvier 2017 à l'exclusion de l'article 47, 2), qui entre en vigueur le [<sup>2</sup> 1er janvier 2019]<sup>2</sup>.
+
+Le Roi peut pour l'article 47, 2), fixer une date d'entrée en vigueur antérieure au [<sup>2</sup> 1er janvier 2019]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/48, art. 45, 004; En vigueur : 01-01-2017&gt;
+
+(2)&lt;L 2017-12-25/06, art. 6, 006; En vigueur : 01-01-2018&gt;
+
+## CHAPITRE 8. - Modification de l'article 10 de la loi-programme du 10 août 2015
+
+##### Art. 49
+
+Dans l'article 10, alinéa 3, 2°, de la loi-programme du 10 août 2015, les mots "l'article 5, 4°" sont remplacés par les mots "l'article 5, 5°".
+
+##### Art. 50
+
+Le présent chapitre produit ses effets le 1er juillet 2015.
+
+## CHAPITRE 9. - Modifications de la loi du 10 avril 1971 sur les accidents du travail
+
+##### Art. 51
+
+Dans l'article 49bis, alinéa 6, 1°, de la loi du 10 avril 1971 sur les accidents du travail, les mots "cinq fois" sont remplacés par les mots "trois fois".
+
+##### Art. 52
+
+L'article 59ter, de la même loi est abrogé.
+
+##### Art. 53
+
+L'article 88quater, § 1, de la même loi, est complété par le 5°, rédigé comme suit:
+
+"5° à la Banque Nationale de Belgique (BNB)."
+
+##### Art. 54
+
+Les articles 51 et 53 entrent en vigueur le jour de la publication de la présente loi au Moniteur belge.
+
+L'article 52 produit ses effets le 1er janvier 2015 pour la cotisation visée à l'article 59, 1°, a), de la loi du 10 avril 1971 sur les accidents du travail.
+
+L'article 52 produit ses effets le 1er juillet 2015 pour la cotisation visée à l'article 59, 1°, c), de la même loi."
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 16 novembre 2015.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de l'Emploi,
+
+K. PEETERS
+
+La Ministre des Affaires sociales,
+
+Mme M. DE BLOCK
+
+Le Ministre des Finances,
+
+J. VAN OVERTVELDT
+
+Le Secretaire d'Etat à la Luttre contre la fraude sociale et à la Protection de la vie privée,
+
+B. TOMMELEIN
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS

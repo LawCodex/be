@@ -1,0 +1,66 @@
+---
+title: "Loi modifiant le Code des impôts sur les revenus 1992 en matière de titres-repas et d'avantages non-récurrents liés aux résultats"
+identifier: "2015003426"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/06/2015003426/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2015-12-06
+published: 2015-12-17
+entry_into_force: 2015-12-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2015/12/06/2015003426/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 6 DECEMBRE 2015. - Loi modifiant le Code des impôts sur les revenus 1992 en matière de titres-repas et d'avantages non-récurrents liés aux résultats
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+Dans l'article 38, § 1er, alinéa 1er, 24°, du Code des impôts sur les revenus 1992, inséré par la loi du 21 décembre 2007, remplacé par la loi du 22 décembre 2008 et modifié par la loi du 30 juillet 2013, les mots "2.695 euros" sont remplacés par les mots "2.755 euros".
+
+## Art. 3
+
+Dans l'article 38/1, § 2, 5°, du même Code, inséré par la loi du 22 décembre 2009, les mots "5,91 euros" sont remplacés par les mots "6,91 euros".
+
+## Art. 4
+
+Dans l'article 53, 14°, du même Code, remplacé par la loi du 22 décembre 2009, les mots "1 euro" sont remplacés par les mots "2 euros".
+
+## Art. 5
+
+L'article 2 est applicable aux avantages qui sont payés ou attribués à partir du 1er janvier 2016.
+
+Les articles 3 et 4 sont applicables aux titres-repas qui sont attribués à partir du 1er janvier 2016.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 6 décembre 2015.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre des Finances,
+
+J. VAN OVERTVELDT
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS

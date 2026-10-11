@@ -1,0 +1,61 @@
+---
+title: "Wet houdende instemming met de Associatieovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en de Republiek Moldavië, anderzijds, gedaan te Brussel op 27 juni 2014"
+identifier: "2016015033"
+eli: "https://www.ejustice.just.fgov.be/eli/wet/2015/05/13/2016015033/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: nl
+date: 2015-05-13
+published: 2016-08-24
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/wet/2015/05/13/2016015033/justel"
+department: "Buitenlandse Zaken, Buitenlandse Handel en Ontwikkelingssamenwerking"
+retrieved: 2026-10-11
+---
+
+# 13 MEI 2015. - Wet houdende instemming met de Associatieovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en de Republiek Moldavië, anderzijds, gedaan te Brussel op 27 juni 2014
+
+FILIP, Koning der Belgen,
+
+Aan allen die nu zijn en hierna wezen zullen, Onze Groet.
+
+De Kamer van volksvertegenwoordigers heeft aangenomen en Wij bekrachtigen, hetgeen volgt :
+
+## Art. 1
+
+Deze wet regelt een aangelegenheid als bedoeld in artikel 74 van de Grondwet.
+
+## Art. 2
+
+De Associatieovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en de Republiek Moldavië, anderzijds, gedaan te Brussel op 27 juni 2014, zal volkomen gevolg hebben.
+
+De wijzigingen van de bijlagen van de Overeenkomst, overeenkomstig artikel 436, lid 3, van de Overeenkomst, zullen volkomen gevolg hebben.
+
+## BIJLAGE.
+
+## Art. N
+
+Associatieovereenkomst tussen de Europese Unie en de Europese Gemeenschap voor Atoomenergie en hun lidstaten, enerzijds, en de Republiek Moldavië, anderzijds, gedaan te Brussel op 27 juni 2014
+
+(Voor het Akkoord, zie : 2014-06-27/03)
+
+---
+
+Kondigen deze wet af, bevelen dat zij met 's Lands zegel zal worden bekleed en door het Belgisch Staatsblad zal worden bekendgemaakt.
+
+Gegeven te Brussel, 13 mei 2015.
+
+FILIP
+
+Van Koningswege :
+
+De Minister van Buitenlandse Zaken en Europese Zaken,
+
+D. REYNDERS
+
+Met 's Lands zegel gezegeld :
+
+De Minister van Justitie,
+
+K. GEENS
