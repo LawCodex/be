@@ -1,0 +1,2201 @@
+---
+title: "CODE D'INSTRUCTION CRIMINELLE. LIVRE II, TITRE I. (Art. 137 à 216septies) (Pour des raisons techniques, le Code d'Instruction Criminelle est divisé en 8 parties, dont le Titre I du deuxième Livre est la troisième partie.)"
+identifier: "1808111901"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1808/11/19/1808111901/justel"
+type: code
+justel_type: "CODE D'INSTRUCTION CRIMINELLE"
+jurisdiction: be
+language: fr
+date: 1808-11-19
+published: 1808-11-29
+entry_into_force: 1808-12-09
+last_amended: 2026-07-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1808/11/19/1808111901/justel"
+justel_note: "Consultation des versions antérieures à partir du 29-12-1990 et mise à jour au 14-07-2026"
+retrieved: 2026-10-11
+---
+
+# 19 NOVEMBRE 1808. - CODE D'INSTRUCTION CRIMINELLE. LIVRE II, TITRE I. (Art. 137 à 216septies) (Pour des raisons techniques, le Code d'Instruction Criminelle est divisé en 8 parties, dont le Titre I du deuxième Livre est la troisième partie.)
+
+## LIVRE II. - DE LA JUSTICE.
+
+### TITRE I. - [DES TRIBUNAUX DE POLICE ET DES TRIBUNAUX CORRECTIONNELS.] &lt;L 10-07-1967, art. 1, 78°&gt;
+
+#### CHAPITRE I. - [DES TRIBUNAUX DE POLICE.] &lt;L 10-07-1967, art. 1, 79°&gt;
+
+###### § I. [DE LA COMPETENCE DES TRIBUNAUX DE POLICE&gt;. &lt;L 10-07-1967, art. 1, 80°&gt;
+
+**Art. 137**
+
+&lt;Abrogé par L 2026-03-11/03, art. 120, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 138**
+
+&lt;AR 252 08-03-1936, art. 1&gt; [<sup>2</sup> Le tribunal de police]<sup>2</sup> connaît [<sup>2</sup> ...]<sup>2</sup> et sans préjudice du droit du procureur du Roi de procéder à une information ou de requérir instruction [<sup>2</sup> ...]<sup>2</sup> :] &lt;L 10-10-1967, art. 91, § 2&gt;
+
+1° Des infractions prévues par le Code rural;
+
+2° Des infractions prévues par le Code forestier;
+
+3° [Des infractions à l'arrêté-loi relatif à la répression de l'ivresse, à l'exception de celles prévues par l'article 8 et par les deux premiers alinéas de l'article 11]; &lt;AL 14-11-1939, art. 19&gt;
+
+4° Des infractions aux lois sur la pêche fluviale;
+
+5° [...]; &lt;L 03-06-1957, art. 114, § 2, 3°&gt;
+
+6° [des infractions aux lois et règlements sur les barrières, les services publics et réguliers du transport en commun par terre ou par eau, la voirie par terre ou par eau, et le roulage;] &lt;L 1994-07-11/33, art. 5, 1°, 007; En vigueur : 01-01-1995&gt;
+
+[6°bis. [<sup>2</sup> Des infractions prévues aux articles 107, 107/1 et 218 du Code pénal";]<sup>2</sup>
+
+6°ter. [[<sup>2</sup>des infractions punies ]<sup>2</sup>aux articles 22, 23 et 26 de la loi du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs et des recours en cas de saisie desdits véhicules conformément à l'article 21 § 4 de la même loi.] &lt;L 2006-12-27/33, art. 28, 032; En vigueur : 07-01-2007&gt;
+
+7° Des infractions aux règlements provinciaux, à l'exception de ceux pris par les gouverneurs de provinces et les commissaires d'arrondissement en vertu des articles 128 et 139 de la loi provinciale;
+
+8° Des infractions aux règlements communaux;
+
+9° [...]; &lt;L 10-07-1967, art. 1, 81°&gt;
+
+10° Des infractions prévues par l'arrêté royal du 6 décembre 1897 relatif à la police du domaine de la guerre;
+
+11° [<sup>2</sup> De l'infraction punie]<sup>2</sup> par l'article 4 de la loi du 30 juillet 1922 instituant un permis de tenderie aux oiseaux;
+
+12° Des infractions punies par la loi du 24 juillet 1923 sur la protection des pigeons militaires et la répression de l'emploi des pigeons pour l'espionnage à l'exception de celles prévues par l'article 11;
+
+13° [Des infractions punies par les articles 77 à 79 de l'arrêté-loi du 25 février 1947 coordonnant et modifiant les lois sur le régime de retraite des ouvriers mineurs et assimilés]; &lt;L 10-07-1967, art. 1, 81°&gt;
+
+14° [Des infractions punies par les articles 155 et 158 des lois relatives aux allocations familiales pour travailleurs salariés coordonnées le 19 décembre 1939]; &lt;L 10-07-1967, art. 1, 81°&gt;
+
+15° Des [<sup>2</sup> infractions]<sup>2</sup> dont la connaissance leur est attribuée par une disposition spéciale.
+
+----------
+
+(1)&lt;L 2009-12-30/13, art. 2, 038; En vigueur : 25-01-2010&gt;
+
+(2)&lt;L 2026-03-11/03, art. 121, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 138_REGION_FLAMANDE**
+
+&lt;AR 252 08-03-1936, art. 1&gt; [Il connaît en outre, et sans préjudice du droit du procureur du Roi de procéder à une information ou de requérir instruction sur les délits :] &lt;L 10-10-1967, art. 91, § 2&gt;
+
+1° Des infractions prévues par le Code rural;
+
+2° [<sup>2</sup> ...]<sup>2</sup>
+
+3° [Des infractions à l'arrêté-loi relatif à la répression de l'ivresse, à l'exception de celles prévues par l'article 8 et par les deux premiers alinéas de l'article 11]; &lt;AL 14-11-1939, art. 19&gt;
+
+4° Des infractions aux lois sur la pêche fluviale;
+
+5° [...]; &lt;L 03-06-1957, art. 114, § 2, 3°&gt;
+
+6° [des infractions aux lois et règlements sur les barrières, les services publics et réguliers du transport en commun par terre ou par eau, la voirie par terre ou par eau, et le roulage;] &lt;L 1994-07-11/33, art. 5, 1°, 007; En vigueur : 01-01-1995&gt;
+
+[6°bis. des délits prévus aux articles 418 à [420] du Code pénal, lorsque l'homicide, les coups ou blessures résultent d'un accident de la circulation [<sup>1</sup> , et à l'article 422 du Code pénal]<sup>1</sup>.] &lt;L 2003-02-07/38, art. 42, 020; En vigueur : 01-03-2004&gt; &lt;L 2005-07-20/52, art. 26, 1°, 030; En vigueur : 31-03-2006&gt;
+
+6°ter. [des délits définis aux articles 22, 23 et 26 de la loi du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs et des recours en cas de saisie desdits véhicules conformément à l'article 21 § 4 de la même loi.] &lt;L 2006-12-27/33, art. 28, 032; En vigueur : 07-01-2007&gt;
+
+7° Des infractions aux règlements provinciaux, à l'exception de ceux pris par les gouverneurs de provinces et les commissaires d'arrondissement en vertu des articles 128 et 139 de la loi provinciale;
+
+8° Des infractions aux règlements communaux;
+
+9° [...]; &lt;L 10-07-1967, art. 1, 81°&gt;
+
+10° Des infractions prévues par l'arrêté royal du 6 décembre 1897 relatif à la police du domaine de la guerre;
+
+11° Du délit puni par l'article 4 de la loi du 30 juillet 1922 instituant un permis de tenderie aux oiseaux;
+
+12° Des infractions punies par la loi du 24 juillet 1923 sur la protection des pigeons militaires et la répression de l'emploi des pigeons pour l'espionnage à l'exception de celles prévues par l'article 11;
+
+13° [Des infractions punies par les articles 77 à 79 de l'arrêté-loi du 25 février 1947 coordonnant et modifiant les lois sur le régime de retraite des ouvriers mineurs et assimilés]; &lt;L 10-07-1967, art. 1, 81°&gt;
+
+14° [Des infractions punies par les articles 155 et 158 des lois relatives aux allocations familiales pour travailleurs salariés coordonnées le 19 décembre 1939]; &lt;L 10-07-1967, art. 1, 81°&gt;
+
+15° Des délits dont la connaissance leur est attribuée par une disposition spéciale.
+
+----------
+
+(1)&lt;L 2009-12-30/13, art. 2, 038; En vigueur : 25-01-2010&gt;
+
+(2)&lt;DCFL 2022-07-01/16, art. 2, 072; En vigueur : 08-08-2022&gt;
+
+**Art. 139**
+
+&lt;AR 59 10-01-1935, art. 1&gt; Sont également compétents, le tribunal de police du lieu de l'infraction, celui de la résidence de [l'inculpé] [, celui du siège social de la personne morale, celui du siège d'exploitation de la personne morale] et celui du lieu où [l'inculpé] a été trouvé. &lt;L 10-07-1967, art. 1, 82°&gt; &lt;L 1999-05-04/60, art. 14, 010; En vigueur : 02-07-1999&gt;
+
+[<sup>1</sup> Lorsqu'il s'agira [<sup>2</sup> d'infractions commises]<sup>2</sup> hors du territoire belge, et qu'aucun des critères visés à l'alinéa 1er ne sera rencontré, seront compétents les tribunaux de la dernière résidence connue de la victime ou, à défaut, ceux de Bruxelles.]<sup>1</sup>
+
+[Lorsque le tribunal est saisi d'un fait qui a donné lieu à une instruction menée à la suite d'une réquisition du procureur fédéral conformément à l'article 47duodecies, § 3, il est compétent pour en connaître, indépendamment du lieu de l'infraction, du lieu de résidence de l'auteur présumé ou du lieu où celui-ci pourra être trouvé.] &lt;L 2005-12-27/34, art. 21, 029; En vigueur : 29-06-2006&gt;
+
+----------
+
+(1)&lt;L 2024-04-09/07, art. 43, 079; En vigueur : 28-04-2024&gt;
+
+(2)&lt;L 2026-03-11/03, art. 122, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 140**
+
+&lt;Abrogé par L 2026-03-11/03, art. 122, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 141**
+
+[Abrogé] &lt;AR 12-01-1970, art. 2, 3°&gt;
+
+**Art. 142**
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 85°&gt;
+
+**Art. 143**
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 85°&gt;
+
+**Art. 144**
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 85°&gt;
+
+###### § II. [<sup>1</sup> Du déroulement de la procédure devant les tribunaux de police]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-02-05/11, art. 77, 049; En vigueur : 29-02-2016&gt;
+
+**Art. 145**
+
+[Les citations pour [<sup>5</sup> les infractions]<sup>5</sup> relevant de la compétence du tribunal de police seront faites à la requête du ministère public ou de la partie civile.] &lt;L 1994-07-11/33, art. 6, 007; En vigueur : 01-01-1995&gt;
+
+Elles seront notifiées par un huissier [de justice]; il en sera laissé copie au prévenu [et, le cas échéant, à la personne civilement responsable]. &lt;L 10-07-1967, art. 1, 86°&gt;
+
+[<sup>1</sup> La signification à faire aux personnes pourvues d'un administrateur est faite à cette personne et au domicile ou à la résidence de l'administrateur.]<sup>1</sup>
+
+[<sup>2</sup> La citation reste valable en cas de remise de l'affaire à une date fixe ou de mise en continuation à une date fixe.]<sup>2</sup>
+
+[<sup>3</sup> [<sup>4</sup> Le prévenu qui ne comprend pas la langue de la procédure reçoit, dans un délai raisonnable, la traduction écrite des passages pertinents de la citation dans une langue qu'il comprend et qu'il a choisie préalablement à la première audition conformément à l'article 47bis du présent Code ou à l'article 16, § 6bis, de la loi du 20 juillet 1990 relative à la détention préventive, pour lui permettre d'avoir connaissance des faits qui lui sont reprochés et de se défendre de manière effective. Les frais de traduction sont à charge de l'Etat. Le secrétariat du parquet se charge de la demande de traduction du document et de l'envoi de celle-ci.]<sup>4</sup>
+
+Le procureur du Roi communique les lieu, jour et heure de la comparution par tout moyen approprié aux victimes connues. Les victimes qui ne comprennent pas la langue de la procédure ont le droit d'obtenir une traduction de ces renseignements dans une langue qu'elles comprennent. La demande doit être déposée au greffe du tribunal compétent. La traduction est fournie dans un délai raisonnable. Les frais de traduction sont à charge de l'Etat.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 148, 046; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+(2)&lt;L 2016-02-05/11, art. 72, 049; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2016-10-28/07, art. 3, 055; En vigueur : 01-06-2017&gt;
+
+(4)&lt;L 2024-04-25/24, art. 4, 083; En vigueur : 27-06-2024&gt;
+
+(5)&lt;L 2026-03-11/03, art. 124, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 146**
+
+&lt;L 27-02-1956, art. 1&gt; Il y aura au moins un délai de dix jours, augmenté, s'il y a lieu, à raison de la distance, entre la citation et la comparution, à peine de nullité de la condamnation qui serait prononcée par défaut contre la personne citée.
+
+Néanmoins, cette nullité ne pourra être proposée qu'à la première audience et avant toutes exception ou défense.
+
+[<sup>1</sup> Lorsque l'inculpé ou l'un des inculpés est détenu préventivement, les délais pourront être abrégés et les parties citées à comparaître dans un délai qui ne pourra être inférieur à trois jours.]<sup>1</sup>
+
+Dans les cas urgents, les délais pourront être abrégés, et les parties citées à comparaître même dans le jour, et à heure indiquée, en vertu d'une cédule délivrée par le [juge au tribunal de police]. &lt;L 10-10-1967, art. 91, § 3&gt;
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 5, 037; En vigueur : 25-01-2010&gt;
+
+**Art. 147**
+
+Les parties pourront comparaître volontairement et sur un simple avertissement, sans qu'il soit besoin de citation.
+
+**Art. 147bis**
+
+[<sup>1</sup> Le tribunal de police est saisi par le recours contre l'ordre de paiement, visé à l'article 65/1 de la loi du 16 mars 1968 relative à la police de la circulation routière.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-11-28/01, art. 7, 070; En vigueur : 10-12-2021&gt;
+
+**Art. 148**
+
+Avant le jour de l'audience, le [juge au tribunal de police] pourra sur, la réquisition du ministère public ou de la partie civile, estimer ou faire estimer les dommages, dresser ou faire dresser des procès-verbaux, faire ou ordonner tous actes requérant célérité. &lt;L 10-10-1967, art. 91, § 3&gt;
+
+**Art. 149**
+
+&lt;Abrogé par L 2016-02-05/11, art. 73, 049; En vigueur : 01-03-2016&gt;
+
+**Art. 150**
+
+&lt;Abrogé par L 2016-02-05/11, art. 74, 049; En vigueur : 01-03-2016&gt;
+
+**Art. 151**
+
+&lt;Abrogé par L 2016-02-05/11, art. 75, 049; En vigueur : 01-03-2016&gt;
+
+**Art. 152**
+
+[<sup>1</sup> § 1er. Les parties qui souhaitent conclure et n'ont pas encore déposé de conclusions demandent à l'audience d'introduction de fixer des délais pour conclure.
+
+En pareil cas, le juge fixe les délais dans lesquels les conclusions doivent être déposées au greffe et communiquées aux autres parties et la date de l'audience, après avoir entendu les parties. La décision est mentionnée dans le procès-verbal d'audience. Les conclusions sont rédigées conformément aux articles 743 et 744 du Code judiciaire.
+
+Les conclusions qui n'ont pas été déposées et communiquées au ministère public, si elles ont trait à l'action publique, et le cas échéant, à toutes les autres parties concernées avant l'expiration des délais fixés, sont écartées d'office des débats.
+
+§ 2. A moins que le juge ne constate que le dépôt tardif ou la communication tardive poursuit des fins purement dilatoires ou porte atteinte aux droits des autres parties ou au déroulement de la procédure, des conclusions peuvent être déposées après l'expiration des délais fixés conformément au paragraphe 1er :
+
+\- moyennant l'accord des parties concernées, ou
+
+\- en cas de découverte d'une pièce ou d'un fait nouveau et pertinent justifiant de nouvelles conclusions.
+
+Le juge peut, en conséquence, fixer de nouveaux délais pour conclure et une nouvelle date d'audience. Dans ce cas, le paragraphe 1er est d'application .
+
+§ 3. Les décisions du juge visées aux paragraphes 1er et 2 ne sont susceptibles d'aucun recours.
+
+§ 4. Les dispositions des paragraphes 1er et 2 sont applicables au ministère public.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 76, 049; En vigueur : 01-03-2016&gt;
+
+**Art. 152bis**
+
+[<sup>1</sup> Si le prévenu ou la partie civile ne comprend pas ou ne parle pas la langue de la procédure ou si le prévenu ou la partie civile souffre de troubles de l'audition ou de la parole, le tribunal nomme d'office un interprète assermenté. Si l'intéressé souffre de troubles de l'audition ou de la parole, il a le droit de demander que cette assistance soit complétée par celle de la personne qui a le plus l'habitude de converser avec lui. Le procès-verbal de l'audience mentionne l'assistance de l'interprète assermenté, son nom et sa qualité ainsi que, le cas échéant, le nom du tiers qui a fourni l'assistance. Les frais de l'interprétation sont à charge de l'Etat.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-10-28/07, art. 4, 055; En vigueur : 01-06-2017&gt;
+
+**Art. 153**
+
+L'instruction de chaque affaire sera publique à peine de nullité.
+
+Elle se fera dans l'ordre suivant :
+
+Les procès-verbaux, s'il y en a, seront lus par le greffier;
+
+Les témoins, s'il en a été appelé par le ministère public ou la partie civile, seront entendus s'il y a lieu; la partie civile prendra ses conclusions;
+
+La personne citée [ou son avocat] proposera sa défense, et fera entendre ses témoins, si elle en a amené ou fait citer, et si, aux termes de l'article suivant, elle est recevable à les produire; &lt;L 2003-02-12/35, art. 6, 021; En vigueur : 07-04-2003&gt;
+
+Le ministère public résumera l'affaire et donnera ses conclusions; la partie citée [ou son avocat] pourra proposer ses observations. &lt;L 2003-02-12/35, art. 6, 021; En vigueur : 07-04-2003&gt;
+
+[...] &lt;L 10-07-1967, art. 1, 85°&gt;
+
+**Art. 154**
+
+Les [<sup>1</sup> infractions seront prouvées devant le tribunal de police]<sup>1</sup> soit par procès-verbaux ou rapports, soit par témoins à défaut de rapports et procès-verbaux, ou à leur appui.
+
+Nul ne sera admis, à peine de nullité, à faire preuve par témoins outre ou contre le contenu aux procès-verbaux ou rapports des officiers de police ayant reçu de la loi le pouvoir de constater les [<sup>1</sup> infractions]<sup>1</sup> jusqu'à inscription de faux. Quant aux procès-verbaux et rapports faits par des agents, préposés ou officiers auxquels la loi n'a pas accordé le droit d'en être crus jusqu'à inscription de faux, ils pourront être débattus par des preuves contraires, soit écrites, soit testimoniales, si le tribunal juge à propos de les admettre.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 125, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 155**
+
+Les témoins feront à l'audience, sous peine de nullité, le serment de dire toute la vérité, rien que la vérité; et le greffier en tiendra note, ainsi que de leurs noms, prénoms, âge, profession et demeure, et de leurs principales déclarations.
+
+**Art. 155bis**
+
+&lt;Inséré par L 2002-04-08/51, art. 5; En vigueur : 01-11-2002&gt; Le tribunal qui souhaite procéder à l'audition d'un témoin qui n'a pas été entendu par le juge d'instruction, peut décider, soit d'office, soit à la demande du témoin, soit sur réquisition du ministère public ou à la requête du prévenu, de la partie civile ou de leurs conseils, qu'il ne sera pas fait mention à l'audience et au procès-verbal de l'audience de certaines des données d'identité prévues à l'article 155, s'il existe une présomption raisonnable que le témoin, ou une personne de son entourage, pourrait subir un préjudice grave à la suite de la divulgation de ces données et de sa déposition. Les raisons qui ont incité le tribunal à prendre cette décision sont indiquées au procès-verbal de l'audience. La décision par laquelle le tribunal accorde ou refuse l'anonymat partiel n'est susceptible d'aucun recours.
+
+Le témoin à qui a été octroyé l'anonymat partiel conformément à l'article 75bis conserve son anonymat partiel. L'anonymat partiel octroyé conformément à l'article 75bis ou conformément au premier alinéa du présent article, n'empêche pas l'audition du témoin à l'audience.
+
+Le procureur du Roi tient un registre de tous les témoins dont des données d'identité, conformément à cet article, ne figurent pas au procès-verbal de l'audience.
+
+Le procureur du Roi et le tribunal prennent, chacun pour ce qui le concerne, les mesures raisonnablement nécessaires pour éviter la divulgation des données d'identité, visées au premier alinéa.
+
+**Art. 155ter**
+
+&lt;Inséré par L 2002-04-08/51, art. 6; En vigueur : 01-11-2002&gt; Par dérogation à l'article 155, il ne faut pas faire état de la demeure des personnes qui, dans l'exercice de leurs activités professionnelles, sont chargées de la constatation et de l'instruction d'une infraction ou qui, à l'occasion de l'application de la loi, prennent connaissance des circonstances dans lesquelles l'infraction a été commise, et qui sont en cette qualité entendues comme témoins. En lieu et place, ils peuvent indiquer leur adresse de service ou l'adresse à laquelle ils exercent habituellement leur profession. La citation à témoigner à l'audience peut être régulièrement signifiée à cette adresse.
+
+**Art. 156**
+
+Les ascendants ou descendants de la personne prévenue, ses frères et soeurs ou alliés en pareil degré, la femme ou son mari, même après le divorce prononcé, ne seront ni appelés ni reçus en témoignage; sans néanmoins que l'audition des personnes ci-dessus désignées puisse opérer une nullité, lorsque, soit le ministère public, soit la partie civile, soit le prévenu, ne se sont pas opposés à ce qu'elles soient entendues.
+
+**Art. 157**
+
+Les témoins qui ne satisferont pas à la citation pourront y être contraints par le tribunal, qui, à cet effet et sur la réquisition du ministère public, prononcera dans la même audience, sur le premier défaut, [<sup>1</sup> la peine prévue par la loi]<sup>1</sup>, et en cas d'un second défaut, la contrainte par corps.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 126, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 158**
+
+Le témoin ainsi condamné [<sup>1</sup> à une peine]<sup>1</sup> sur le premier défaut, et qui, sur la seconde citation, produira devant le tribunal des excuses légitimes, pourra, sur les conclusions du ministère public, être déchargé [<sup>1</sup> de cette peine]<sup>1</sup>.
+
+Si le témoin n'est pas cité à nouveau, il pourra volontairement comparaître par lui, ou par un fondé de procuration spéciale, à l'audience suivante, pour présenter ses excuses, et obtenir, s'il y a lieu, décharge de l'amende.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 127, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 158bis**
+
+&lt;Inséré par L 2002-08-02/71, art. 3; En vigueur : 22-09-2002&gt; § 1er. Le tribunal peut, sur réquisition motivée du procureur du Roi, décider d'entendre par le biais d'une vidéoconférence un témoin menacé, à qui la Commission de protection des témoins a octroyé une mesure de protection ou, un témoin, un expert résidant à l'étranger lorsque la réciprocité en la matière est garantie, avec son accord, s'il n'est pas souhaitable ou possible que la personne à entendre comparaisse en personne à l'audience.
+
+§ 2. Le tribunal peut, sur réquisition motivée du procureur du Roi, décider d'entendre par le biais d'un circuit de télévision fermé un témoin menacé, à qui la Commission de protection des témoins a octroyé une mesure de protection, avec son accord, s'il n'est pas souhaitable ou possible que la personne à entendre comparaisse en personne à l'audience.
+
+§ 3. Près de la personne à entendre se trouve un officier de police judiciaire, ou, lorsque la personne à entendre se trouve à l'étranger, une autorité judiciaire étrangère. Cette personne vérifie l'identité de la personne à entendre et en dresse un procès-verbal qui est signé par la personne à entendre.
+
+§ 4. L'audition fait toujours l'objet d'un enregistrement audiovisuel au sens de l'article 158quater.
+
+§ 5. La personne entendue par le biais d'une vidéoconférence ou d'un circuit de télévision fermé est censée avoir comparu et avoir répondu à la convocation.
+
+§ 6. Sur réquisition motivée du procureur du Roi, le tribunal peut décider d'autoriser l'altération de l'image et de la voix. Dans ce cas, les déclarations faites par le biais d'une vidéoconférence ou d'un circuit de télévision fermé ne peuvent être prise en considération à titre de preuve que si elles sont corroborées dans une mesure déterminante par d'autres moyens de preuve.
+
+**Art. 158ter**
+
+&lt;Inséré par L 2002-08-02/71, art. 3; En vigueur : 22-09-2002&gt; § 1er. Le tribunal peut, sur réquisition motivée du procureur du Roi, décider d'entendre par le biais d'une conférence téléphonique un témoin menacé, à qui la Commission de protection des témoins a octroyé une mesure de protection ou, un témoin, un expert résidant à l'étranger lorsque la réciprocité en la matière est garantie, avec son accord, s'il n'est pas souhaitable ou possible que la personne à entendre comparaisse en personne à l'audience ou, qu'elle soit entendue par le biais d'une vidéoconférence ou d'un circuit de télévision fermé.
+
+§ 2. Près de la personne à entendre se trouve un officier de police judiciaire ou, lorsque la personne à entendre se trouve à l'étranger, une autorité judiciaire étrangère. Cette personne vérifie l'identité de la personne à entendre et en dresse un procès-verbal qui est signé par la personne à entendre.
+
+§ 3. L'audition fait toujours l'objet d'un enregistrement audio au sens de l'article 158quater.
+
+§ 4. La personne entendue par le biais d'une conférence téléphonique est censée avoir comparu et avoir répondu à la convocation.
+
+§ 5. Les déclarations faites par le biais d'une conférence téléphonique ne peuvent être prises en considération à titre de preuve que si elles sont corroborées dans une mesure déterminante par d'autres moyens de preuve.
+
+§ 6. Sur réquisition motivée du procureur du Roi, le tribunal peut décider d'autoriser l'altération de la voix.
+
+**Art. 158quater**
+
+&lt;Inséré par L 2002-08-02/71, art. 3; En vigueur : 22-09-2002&gt; Le tribunal peut, sur réquisition motivée du procureur du Roi, ordonner l'enregistrement audiovisuel ou audio d'une audition.
+
+Il est fait mention dans le procès-verbal de l'audience de l'enregistrement ainsi que des motifs pour lesquels il a été ordonné.
+
+L'enregistrement de l'audition est réalisé en deux exemplaires. Les deux cassettes ont le statut d'originaux et sont déposées au greffe à titre de pièces à conviction.
+
+**Art. 158quinquies**
+
+[<sup>1</sup> Le tribunal peut, dans l'intérêt de la manifestation de la vérité, sur réquisition du procureur du Roi, sur requête d'une des parties ou d'office, inviter le procureur du Roi à requérir un juge d'instruction aux fins :
+
+1° d'établir le profil ADN des traces découvertes et, le cas échéant, de procéder à une comparaison de profils ADN, en application de l'article 44quater;
+
+2° de procéder au prélèvement d'un échantillon de référence sur le prévenu, d'établir le profil ADN de cet échantillon et, le cas échéant, de procéder à une comparaison de profils ADN, en application de l'article 90undecies;
+
+3° de procéder au prélèvement d'un échantillon de référence sur une autre personne, d'établir le profil ADN de cet échantillon et, le cas échéant, de procéder à une comparaison de profils ADN, en application de l'article 90duodecies.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-11-07/16, art. 8, 044; En vigueur : 01-01-2014 (voir AR 2013-07-17/29, art. 36)&gt;
+
+**Art. 158sexies**
+
+[<sup>1</sup> Le tribunal peut, dans l'intérêt de la manifestation de la vérité, d'office, inviter le procureur du Roi à demander des informations, par sollicitation spécifique et motivée, au Point de contact central [<sup>2</sup> tenu par la Banque nationale de Belgique conformément à la loi du 8 juillet 2018 portant organisation d'un point de contact central des comptes et contrats financiers et portant extension de l'accès du fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-01/01, art. 125, 053; En vigueur : 14-07-2016&gt;
+
+(2)&lt;L 2018-07-08/03, art. 20, 059; En vigueur : 26-07-2018&gt;
+
+**Art. 159**
+
+Si le fait [<sup>1</sup> ne constitue pas une infraction]<sup>1</sup>, le tribunal annulera la citation et tout ce qui aurait suivi, et statuera par le même jugement sur les demandes en dommages-intérêts.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 128, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 160**
+
+Si le fait est [une infraction] qui [<sup>1</sup> ne relève pas de compétence du tribunal de police]<sup>1</sup>, le tribunal renverra les parties devant le [procureur du Roi] [<sup>1</sup> ...]<sup>1</sup>. &lt;L 10-07-1967, art. 1, 87°&gt; &lt;L 1994-07-11/33, art. 8, 007; En vigueur : 01-01-1995&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 129, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 161**
+
+Si le prévenu est convaincu [d'infraction relevant de sa compétence], le tribunal prononcera la peine, et statuera par le même jugement sur les demandes en restitution et en dommages-intérêts. &lt;L 1994-07-11/33, art. 9, 007; En vigueur : 01-01-1995&gt;
+
+**Art. 162**
+
+&lt;L 25-10-1950, art. 1, a&gt; Tout jugement de condamnation rendu contre le prévenu et les personnes civilement responsables de l'infraction, les condamnera aux frais, même envers la partie publique.
+
+La partie civile qui succombera pourra être condamnée à tout ou partie des frais envers l'Etat et envers le prévenu. [<sup>1</sup> Elle pourra être condamnée à tout ou partie des frais exposés par l'Etat et par le prévenu en cas de citation directe ou lorsqu'une instruction a été ouverte suite à la constitution de partie civile.]<sup>1</sup> [<sup>3</sup> Cela concerne les frais exposés après la constitution de partie civile ou après la citation directe.]<sup>3</sup> Les frais seront liquidés [<sup>3</sup> par l'ordonnance ou par le jugement]<sup>3</sup> [<sup>2</sup> et comprennent la contribution visée à l'article 4, § 3, de la loi du 19 mars 2017 instituant un fonds budgétaire relatif à l'aide juridique de deuxième ligne.]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2014-04-02/24, art. 2, 047; En vigueur : 10-05-2014&gt;
+
+(2)&lt;L 2017-03-19/06, art. 6, 054; En vigueur : 01-05-2017&gt;
+
+(3)&lt;L 2021-11-28/01, art. 8, 070; En vigueur : 10-12-2021&gt;
+
+**Art. 162bis**
+
+&lt;inséré par L 2007-04-21/85, art. 9; En vigueur : 01-01-2008 ; voir également l'art. 13&gt; Tout jugement de condamnation rendu contre le prévenu et les personnes civilement responsables de l'infraction les condamnera envers la partie civile à l'indemnité de procédure visée à l'article 1022 du Code judiciaire.
+
+[<sup>2</sup> La partie civile qui aura lancé une citation directe ou qui a greffé une action distincte sur une citation directe lancée par une autre partie civile, ou qui, en l'absence de tout recours du ministère public, du prévenu ou du civilement responsable, aura interjeté appel et qui succombera, pourra être condamnée envers le prévenu ainsi qu'envers le civilement responsable à l'indemnité visée à l'article 1022 du Code judiciaire. L'indemnité sera liquidée par le jugement.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2010-02-21/17, art. 3, 043; En vigueur : 20-04-2019. Disposition transitoire : art. 5&gt;&gt;
+
+(2)&lt;L 2018-03-18/14, art. 6, 057; En vigueur : 12-05-2018&gt;
+
+**Art. 162ter**
+
+[<sup>1</sup> [<sup>2</sup> Tout jugement de condamnation rendu contre le prévenu et les personnes civilement responsables de l'infraction donne lieu au paiement de la redevance administrative telle que visée au titre 4 de la loi-programme du 21 juin 2021, si la transaction pénale proposée conformément à l'article 216bis ne peut pas être exécutée ou homologuée. Le montant de la redevance administrative s'élève à 25,32 euros.]<sup>2</sup>
+
+Il en va de même lorsque, en cas d'infractions à la loi du 16 mars 1968 relative à la police de la circulation routière et aux règlements pris en vertu de cette loi, lesdites infractions n'ont fait l'objet ni d'une perception immédiate visée à l'article 65, § 1er, alinéa 2, de la loi du 16 mars 1968 relative à la police de la circulation routière, ni d'une transaction pénale visée à l'article 216bis du Code d'instruction criminelle. [<sup>2</sup> ...]<sup>2</sup>
+
+La redevance administrative visée au premier alinéa est exigible à la date de la condamnation.
+
+Le montant de la redevance administrative visée au premier alinéa est automatiquement adapté le 1er janvier de chaque année en fonction de l'évolution de l'indice des prix à la consommation du mois de novembre de l'année précédente.
+
+La redevance administrative visée à l'alinéa 1er est recouvrée par l'administration du Service public fédéral Finances en charge de la perception et du recouvrement des créances fiscales et non fiscales, selon les règles qui s'appliquent en matière de recouvrement des amendes pénales.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-06-21/02, art. 17, 068; En vigueur : 23-08-2021&gt;
+
+(2)&lt;L 2022-12-06/02, art. 20, 073; En vigueur : 31-12-2022&gt;
+
+**Art. 163**
+
+&lt;L 27-04-1987, art. 1&gt; Tout jugement définitif de condamnation sera motivé. Le jugement énonce la disposition de la loi dont il est fait application. [<sup>2</sup> L'article 190, alinéas 3 à 7, s'applique par analogie au tribunal de police.]<sup>2</sup>
+
+[<sup>1</sup> L'article 195, alinéas 2 à 4, s'applique par analogie au tribunal de police.]<sup>1</sup>
+
+Lorsque la déchéance du droit de conduire un véhicule, un aéronef et une monture est prononcée, le jugement indique également, d'une manière qui peut être succincte mais doit être précise, les raisons du choix de cette peine. Il justifie en outre sa durée.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+[Si des éléments de la médiation sont portés à la connaissance du juge conformément à l'article 555, § 1er, il en est fait mention dans le jugement. Le juge peut en tenir compte et le mentionne, le cas échéant, dans le jugement.] &lt;L 2005-06-22/35, art. 3, 026; En vigueur : 31-01-2006&gt;
+
+----------
+
+(1)&lt;L 2023-12-19/08, art. 3, 075; En vigueur : 08-01-2024&gt;
+
+(2)&lt;L 2022-10-16/03, art. 2, 078; En vigueur : 01-04-2024&gt;
+
+(3)&lt;L 2026-03-11/03, art. 129, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 164**
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Le prévenu qui ne comprend pas la langue de la procédure reçoit, dans un délai raisonnable, une traduction écrite ou orale des passages pertinents du jugement dans une langue qu'il comprend et qu'il a choisie préalablement à la première audition conformément à l'article 47bis du présent Code ou à l'article 16, § 6bis, de la loi du 20 juillet 1990 relative à la détention préventive, pour lui permettre d'avoir connaissance des faits pour lesquels il est condamné et de se défendre de manière effective. Le greffe du tribunal se charge de la demande de traduction du document et de l'envoi de celle-ci.
+
+La traduction orale ou le résumé oral ne porte pas atteinte au caractère équitable de la procédure et est mentionné(e) dans le procès-verbal d'audience.]<sup>2</sup>
+
+Les frais de traduction sont à charge de l'Etat.
+
+§ 2. A moins qu'une traduction orale lui ait été fournie, la partie civile qui ne comprend pas la langue de la procédure a le droit de demander une traduction des passages pertinents du jugement ou un résumé de ceux-ci dans une langue qu'elle comprend pour lui permettre d'avoir connaissance du dispositif du jugement et de sa motivation et d'exercer ses droits de manière effective. La demande doit être déposée par la partie civile au greffe du tribunal compétent. La traduction est fournie dans un délai raisonnable.
+
+Si une traduction orale a été fournie à la partie civile, le procès-verbal de l'audience en fait mention.
+
+Les frais de traduction sont à charge de l'Etat.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-10-28/07, art. 5, 055; En vigueur : 01-06-2017&gt;
+
+(2)&lt;L 2024-04-25/24, art. 5, 083; En vigueur : 27-06-2024&gt;
+
+**Art. 165**
+
+Le ministère public et la partie civile poursuivront l'exécution du jugement, chacun en ce qui le concerne.
+
+[Lorsque le jugement de condamnation emporte la confiscation de choses ou de sommes se trouvant ou à recouvrer hors du Royaume, le ministère public transmet une copie des pièces pertinentes du dossier répressif au Ministre de la Justice. Il en avise l'Organe central pour la Saisie et la Confiscation par l'envoi d'une copie.] &lt;L 2006-12-27/33, art. 29, 032; En vigueur : 07-01-2007&gt;
+
+###### § 2. [...] &lt;L 28-06-1984&gt;
+
+**Art. 166**
+
+[Abrogé] &lt;L 28-06-1984&gt;
+
+**Art. 167**
+
+[Abrogé] &lt;L 28-06-1984&gt;
+
+**Art. 168**
+
+[Abrogé] &lt;L 28-06-1984&gt;
+
+**Art. 169**
+
+[Abrogé] &lt;L 28-06-1984&gt;
+
+**Art. 170**
+
+[Abrogé] &lt;AR 59 10-01-1935, art. 4&gt;
+
+**Art. 171**
+
+[<sup>1</sup> Les jugements par défaut pourront être attaqués par la voie de l'opposition dans les mêmes formes, conditions, modalités et délais que les jugements par défaut rendus par les tribunaux correctionnels.
+
+Les dispositions des articles 185 à 187 sont communes au tribunal de police.]<sup>1</sup>
+
+----------
+
+(1)&lt;rétabli par L 2016-02-05/11, art. 79, 049; En vigueur : 01-03-2016&gt;
+
+###### § III. DE L'APPEL DES JUGEMENTS DE POLICE.
+
+**Art. 172**
+
+&lt;L 31-05-1955&gt; Les jugements rendus par les [tribunaux de police] pourront, dans tous les cas, être attaqués par la voie de l'appel.
+
+L'appel sera interjeté, poursuivi et jugé dans la même forme que les appels des jugements en matière [...] correctionnelle.
+
+Le délai fixé par l'article 174 du code d'instruction criminelle courra à dater de la prononciation du jugement, ou de la signification, si le jugement est par défaut. &lt;L 10-07-1967, art. 1, 89°&gt;
+
+**Art. 173**
+
+L'appel sera suspensif.
+
+[Toutefois les jugements sur l'action publique autres que ceux qui portent condamnation, acquittement ou absolution et les jugements sur l'action civile peuvent être déclarés exécutoires provisoirement, nonobstant appel par une disposition spécialement motivée.] &lt;AR 258 24-03-1936, art. 3, § 1&gt;
+
+**Art. 174**
+
+&lt;L 31-05-1955, art. 1&gt; L'appel des jugements rendus par le tribunal de police sera porté devant le tribunal correctionnel.
+
+Il sera interjeté dans les mêmes délais, conditions et formes que l'appel des jugements rendus par le tribunal correctionnel.
+
+**Art. 175**
+
+Lorsque sur l'appel, le [procureur du Roi] ou l'une des parties le requerra, les témoins pourront être entendus de nouveau et il pourra même en être entendu d'autres. &lt;L 10-07-1967, art. 1, 90°&gt;
+
+**Art. 176**
+
+Les dispositions des articles précédents sur la solennité de l'instruction, la nature des preuves, la forme, l'authenticité et la signature du jugement définitif, la condamnation aux frais [<sup>1</sup> et sur l'indemnité visée à l'article 1022 du Code judiciaire]<sup>1</sup>, ainsi que les peines que ces articles prononcent, seront communes aux jugements rendus, sur l'appel, par les tribunaux correctionnels. [<sup>2</sup> L'article 190, alinéas 3 à 7, s'applique par analogie.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2018-03-18/14, art. 7, 057; En vigueur : 12-05-2018&gt;
+
+(2)&lt;L 2022-10-16/03, art. 3, 078; En vigueur : 01-04-2024&gt;
+
+**Art. 177**
+
+Le ministère public et les parties pourront, s'il y a lieu, se pourvoir en cassation contre les [...] jugements rendus par le tribunal correctionnel, sur l'appel des jugements de police. &lt;L 10-07-1967, art. 1, 91°&gt;
+
+Le recours aura lieu dans la forme et dans les délais qui seront prescrits.
+
+**Art. 178**
+
+[Abrogé] &lt;L 10-07-1967, art. 32&gt;
+
+#### CHAPITRE II. - [DES TRIBUNAUX CORRECTIONNELS]. &lt;L 10-07-1967, art. 1, 93°&gt;
+
+###### § I. [<sup>1</sup> De la compétence des tribunaux correctionnels]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-02-05/11, art. 80, 049; En vigueur : 29-02-2016&gt;
+
+**Art. 179**
+
+&lt;L 10-07-1967, art. 1, 94°&gt; Sans préjudice de la compétence attribuée à d'autres juridictions, les tribunaux de première instance connaissent, sous le titre de tribunaux correctionnels, de [<sup>1</sup> toutes les infractions qui ne relèvent pas de la compétence de la cour d'assises ou du tribunal de police ou d'une autre juridiction compétente]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 133, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 180**
+
+[Abrogé] &lt;L 28-06-1984, art. 6, 2°&gt;
+
+**Art. 180bis**
+
+[Abrogé] &lt;L 28-06-1984, art. 6, 3°&gt;
+
+**Art. 180ter**
+
+[Abrogé] &lt;L 28-06-1984, art. 6, 4°&gt;
+
+###### § II. [<sup>1</sup> Du déroulement de la procédure devant les tribunaux correctionnels]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-02-05/11, art. 81, 049; En vigueur : 29-02-2016&gt;
+
+**Art. 181**
+
+S'il se commet [<sup>1</sup> une infraction relevant de la compétence du tribunal correctionnel]<sup>1</sup> dans l'enceinte et pendant la durée de l'audience, le président dressera procès-verbal du fait, entendra le prévenu et les témoins, et le tribunal appliquera, sans désemparer, les peines prononcées par la loi.
+
+Cette disposition aura son exécution [<sup>1</sup> pour les infractions relevant de la compétence du tribunal correctionnel commises]<sup>1</sup> dans l'enceinte et pendant la durée des audiences de nos cours, et même des audiences du tribunal civil, sans préjudice de l'appel de droit des jugements rendus dans ce cas par les tribunaux civils ou correctionnels.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 134, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 182**
+
+Le tribunal [<sup>5</sup> correctionnel]<sup>5</sup> sera saisi, [<sup>5</sup> ...]<sup>5</sup> de la connaissance des [<sup>5</sup> infractions de sa compétence]<sup>5</sup>, soit par le renvoi qui lui en sera fait d'après les articles 130 et 160 ci-dessus, soit par la citation donnée directement [à l'inculpé] et aux personnes civilement responsables [<sup>5</sup> de l'infraction]<sup>5</sup> par le [procureur du Roi], soit par la convocation de l'inculpé par procès-verbal, conformément à l'article 216quater] [, soit par la convocation aux fins de comparution immédiate, conformément à l'article 216quinquies]. [<sup>5</sup> Le tribunal correctionnel sera également saisi pour les infractions punissables d'une peine de niveau 1, 2 ou 3 par la citation donnée directement à l'inculpé et aux personnes civilement responsables de l'infraction par la partie civile.]<sup>5</sup>[<sup>2</sup> La citation à faire aux personnes pourvues d'un administrateur est également faite au domicile ou à la résidence de celui-ci.]<sup>2</sup> [<sup>1</sup> Les parties peuvent également comparaître volontairement et sur un simple avertissement sans qu'il soit besoin de citation.]<sup>1</sup> &lt;L 10-07-1967, art. 1, 95°&gt; &lt;L 1994-07-11/33, art. 10, 007; En vigueur : 31-07-1994&gt; &lt;L 2000-03-28/31, art. 3, 014; En vigueur : 2000-04-03&gt;
+
+[Le procureur du Roi communique les lieu, jour et heure de la comparution par tout moyen approprié aux victimes connues.] [<sup>4</sup> Les victimes qui ne comprennent pas la langue de la procédure ont le droit d'obtenir une traduction de ces renseignements dans une langue qu'elles comprennent. La demande doit être déposée au greffe du tribunal compétent. La traduction est fournie dans un délai raisonnable. Les frais de traduction sont à charge de l'Etat.]<sup>4</sup>&lt;L 2006-05-17/35, art. 100, 030; En vigueur : 01-02-2007&gt;
+
+[<sup>3</sup> La citation reste valable en cas de remise de l'affaire à une date fixe ou de mise en continuation à une date fixe.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 6, 037; En vigueur : 25-01-2010&gt;
+
+(2)&lt;L 2013-03-17/14, art. 149, 046; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+(3)&lt;L 2016-02-05/11, art. 82, 049; En vigueur : 29-02-2016&gt;
+
+(4)&lt;L 2016-10-28/07, art. 3, 055; En vigueur : 01-06-2017&gt;
+
+(5)&lt;L 2026-03-11/03, art. 135, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 182bis**
+
+&lt;inséré par L 2003-04-10/60, art. 35; En vigueur : 01-01-2004&gt; Les avis, notifications et significations à un inculpé, prévenu, condamné, témoin ou victime, soumis aux lois militaires, ou attaché en quelque qualité que ce soit à une fraction de l'armée ou autorisé à la suivre, pourront également être remis valablement, sur le territoire belge ou sur le territoire étranger, à l'unité militaire à laquelle il appartient, au gardien du lieu où il est retenu ou, s'il est impossible de l'atteindre personnellement, à l'autorité militaire dont il relève, à la condition qu'il ne soit pas absent illégitimement.
+
+Si les circonstances l'exigent, ces avis, notifications et significations peuvent être envoyés par tous les moyens de communication appropriés, dont dispose l'armée via intervention des autorités militaires.
+
+**Art. 183**
+
+La partie civile fera, par l'acte de citation, élection de domicile dans la ville où siège le tribunal; la citation énoncera les faits, et tiendra lieu de plainte.
+
+**Art. 184**
+
+&lt;L 27-02-1956, art. 2&gt; Il y aura au moins un délai de dix jours, augmenté, s'il y a lieu, en raison de la distance, entre la citation et la comparution, à peine de nullité de la condamnation qui serait prononcée par défaut contre la personne citée.
+
+Néanmoins, cette nullité ne pourra être proposée qu'à la première audience et avant toute exception ou défense.
+
+Lorsque [l'inculpé ou l'un des inculpés] est détenu préventivement, les délais pourront être abrégés et les parties citées à comparaître dans un délai qui ne pourra être moindre que trois jours.
+
+Dans les autres cas urgents la même réduction pourra être autorisée en vertu d'une cédule délivrée par le président du tribunal. &lt;L 10-07-1967, art. 1, 96°&gt;
+
+**Art. 184bis**
+
+&lt;L 10-10-1967, art. 146&gt; [Si le prévenu dont l'indigence est constatée, comme il est dit [aux articles 508 à 508/23] du Code judiciaire, demande l'assistance d'un avocat, trois jours au moins avant celui fixé pour l'audience, sa requête est transmise par le président au délégué du [bureau d'aide juridique], et par les soins de celui-ci un défenseur lui est désigné.] &lt;L 22-01-1975, art. 1&gt; &lt;L 1998-11-23/34, art. 8, 011; En vigueur : 01-09-1999&gt;
+
+Si l'affaire est en instruction, la demande peut être adressée au juge d'instruction à partir du premier interrogatoire.
+
+Elle est immédiatement transmise au délégué du [bureau d'aide juridique]. &lt;L 1998-11-23/34, art. 8, 011; En vigueur : 01-09-1999&gt;
+
+[Si le prévenu ou l'inculpé ne parle aucune des langues nationales, le [bureau d'aide juridique] désigne un défenseur connaissant la langue du prévenu ou de l'inculpé ou une autre langue que celui-ci connaît. A défaut de pouvoir y satisfaire, le [bureau d'aide juridique] adjoint à l'avocat en vue de lui permettre de préparer la défense du prévenu ou de l'inculpé, un interprète dont les émoluments sont pris en charge par le Trésor, à concurrence au maximum d'une durée de vacation de trois heures. Les états d'honoraires sont arrêtés par le [bureau d'aide juridique]. Les allocations sont calculées en application du règlement général sur les frais de justice en matière répressive.] &lt;L 22-01-1975, art. 1&gt; &lt;L 1998-11-23/34, art. 8, 011; En vigueur : 01-09-1999&gt;
+
+**Art. 184ter**
+
+&lt;Abrogé par L 2024-04-25/24, art. 6, 083; En vigueur : 27-06-2024&gt;
+
+**Art. 185**
+
+&lt;L 2003-02-12/35, art. 7, 021; En vigueur : 07-04-2003&gt; § 1er. Le prévenu, la partie civilement responsable et la partie civile comparaîtront en personne ou par un avocat.
+
+§ 2. Le tribunal pourra, en tout état de cause, sans que sa décision puisse être l'objet d'aucun recours, ordonner la comparution en personne. Le jugement ordonnant cette comparution sera signifié à la partie qu'il concerne à la requête du ministère public, avec citation à comparaître à la date fixée par le tribunal.
+
+Si le prévenu ne comparaît pas en personne ou par un avocat, après avoir comparu à l'audience d'introduction conformément au § 1er, le jugement rendu sera réputé contradictoire et sera signifié au prévenu à la requête du ministère public. Un mandat d'amener peut être décerné à l'égard du prévenu.
+
+**Art. 186**
+
+&lt;L 2003-02-12/35, art. 8, 021; En vigueur : 07-04-2003&gt; Si la personne citée, ou l'avocat qui la représente, ne comparaît pas au jour et à l'heure fixés dans la citation, elle sera jugée par défaut.
+
+**Art. 187**
+
+[<sup>1</sup> § 1er. La personne condamnée par défaut pourra faire opposition au jugement dans les quinze jours qui suivent celui de la signification de ce dernier.
+
+Lorsque la signification du jugement n'a pas été faite à sa personne, le condamné par défaut pourra faire opposition, quant aux condamnations pénales, dans les quinze jours qui suivent celui où il aura eu connaissance de la signification.
+
+S'il en a eu connaissance par la signification d'un mandat d'arrêt européen ou d'une demande d'extradition ou que le délai en cours de quinze jours n'a pas encore expiré au moment de son arrestation à l'étranger, il pourra faire opposition dans les quinze jours qui suivent celui de sa remise ou de sa remise en liberté à l'étranger.
+
+S'il n'est pas établi qu'il a eu connaissance de la signification, le condamné par défaut pourra faire opposition jusqu'à l'expiration des délais de prescription de la peine. Il pourra faire opposition, quant aux condamnations civiles, jusqu'à l'exécution du jugement.
+
+La partie civile et la partie civilement responsable ne pourront faire opposition que dans les conditions énoncées à l'alinéa 1er.
+
+[<sup>2</sup> La signification à faire aux personnes pourvues d'un administrateur est également faite au domicile ou à la résidence de celui-ci.]<sup>2</sup>
+
+§ 2. L'opposition sera signifiée au ministère public, à la partie poursuivante ou aux autres parties en cause.
+
+Si l'opposition n'a pas été signifiée dans les quinze jours qui suivent la signification du jugement, il pourra être procédé à l'exécution des condamnations et, en cas d'appel des parties poursuivantes ou de l'une d'elles, il pourra être procédé au jugement sur l'appel.
+
+§ 3. L'opposition emportera de droit citation à la première audience après l'expiration d'un délai de quinze jours ou, si l'opposant est détenu, de trois jours.
+
+§ 4. La condamnation sera mise à néant par suite de l'opposition sauf dans les cas visés aux paragraphes 5 à 7.
+
+§ 5. L'opposition sera déclarée irrecevable notamment :
+
+1° sauf cas de force majeure, si elle n'a pas été signifiée dans les formes et délais légaux;
+
+2° si le jugement attaqué n'a pas été rendu par défaut;
+
+3° si l'opposant a interjeté préalablement un appel recevable contre la même décision.
+
+§ 6. L'opposition sera déclarée non avenue :
+
+1° si l'opposant, lorsqu'il comparaît en personne ou par avocat et qu'il est établi qu'il a eu connaissance de la citation dans la procédure dans laquelle il a fait défaut, ne fait pas état d'un cas de force majeure ou d'une excuse légitime justifiant son défaut lors de la procédure attaquée, la reconnaissance de la force majeure ou de l'excuse invoquées restant soumise à l'appréciation souveraine du juge;
+
+2° si l'opposant fait à nouveau défaut sur son opposition, et ce dans tous les cas, quels que soient les motifs des défauts successifs et même si l'opposition a déjà été reçue.
+
+§ 7. La partie qui a formé une opposition peut s'en désister ou la limiter selon les modalités du désistement ou limitation d'appel précisées à l'article 206.
+
+§ 8. La partie opposante qui se laisse juger une seconde fois par défaut n'est plus admise à former une nouvelle opposition.
+
+§ 9. La décision qui interviendra sur l'opposition pourra être attaquée par la voie de l'appel, ou, si elle a été rendue en degré d'appel, par la voie d'un pourvoi en cassation.
+
+L'appel dirigé contre la décision déclarant l'opposition non avenue saisit le juge d'appel du fond de l'affaire même si aucun appel n'a été formé contre le jugement rendu par défaut.
+
+§ 10. Les frais et dépens causés par l'opposition, y compris le coût de l'expédition et de la signification de la décision par défaut, seront laissés à charge de l'opposant, si le défaut lui est imputable.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 83, 049; En vigueur : 01-03-2016&gt;
+
+(2)&lt;L 2019-05-08/17, art. 4, 065; En vigueur : 01-09-2019&gt;
+
+**Art. 188**
+
+&lt;Abrogé par L 2016-02-05/11, art. 84, 049; En vigueur : 01-03-2016&gt;
+
+**Art. 189**
+
+La preuve des [<sup>3</sup> infractions relevant de la compétence du tribunal correctionnel]<sup>3</sup> se fera de la manière prescrite [aux articles 154 à 156][<sup>3</sup> ...]<sup>3</sup>. [<sup>1</sup> Les dispositions des articles [<sup>2</sup> 145, alinéa 5, 152, 152bis, 157, 158, 158bis, 158ter, 158quater, 159, 160, 161 et 164]<sup>2</sup> sont communes aux tribunaux correctionnels]<sup>1</sup>. &lt;L 10-07-1967, art. 1, 98°&gt;
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 85, 049; En vigueur : 01-03-2016&gt;
+
+(2)&lt;L 2016-10-28/07, art. 7, 055; En vigueur : 01-06-2017&gt;
+
+(3)&lt;L 2026-03-11/03, art. 136, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 189bis**
+
+&lt;Inséré par L 2002-04-08/51, art. 14; En vigueur : 01-11-2002&gt; Le témoin dont l'identité a été tenue secrète en application des articles 86bis et 86ter , ne peut pas être cité comme témoin à l'audience, à moins qu'il n'y consente. Si le témoin consent à témoigner à l'audience, il conserve son anonymat complet. Dans ce cas, le tribunal prend les mesures nécessaires pour garantir l'anonymat du témoin.
+
+Le tribunal peut ordonner au juge d'instruction, soit d'office, soit sur réquisition du ministère public, soit à la demande du prévenu, de la partie civile ou de leurs conseils, de réentendre ce témoin ou d'entendre un nouveau témoin en application des articles 86bis et 86ter aux fins de manifestation de la vérité. Cette décision du tribunal n'est susceptible d'aucun recours. Le tribunal peut décider qu'il sera présent à l'audition du témoin par le juge d'instruction.
+
+La condamnation d'une personne ne peut être fondée de manière exclusive, ni dans une mesure déterminante, sur des témoignages anonymes obtenus en application des articles 86bis et 86ter . Ces derniers doivent être corroborés dans une mesure déterminante par des éléments recueillis par d'autres modes de preuve.
+
+**Art. 189ter**
+
+&lt;inséré par L 2005-12-27/34, art. 22; En vigueur : 30-12-2005&gt; Sur la base d'éléments concrets qui ne sont apparus que postérieurement au contrôle de la chambre des mises en accusation exercé en vertu de l'article 235ter, le tribunal peut, soit d'office, soit sur réquisition du ministère public, soit à la demande du prévenu, de la partie civile ou de leurs avocats, charger la chambre des mises en accusation de contrôler l'application des méthodes particulières de recherche [<sup>1</sup> d'observation, d'infiltration et d'infiltration civile]<sup>1</sup>, en application de l'article 235ter.
+
+Cette réquisition ou cette demande doit, sous peine de déchéance, être soulevée avant tout autre moyen de droit, sauf si ce moyen concerne des éléments concrets et nouveaux qui sont apparus lors de l'audience.
+
+Le tribunal transmet le dossier au ministère public, afin de porter l'affaire à cet effet devant la chambre des mises en accusation.
+
+[Outre le cas visé à l'alinéa 1er, le juge du fond ou la Cour de cassation peut, en cas d'incidents portant sur la légalité du contrôle des méthodes particulières de recherche [<sup>1</sup> d'observation, d'infiltration et d'infiltration civile]<sup>1</sup>, transmettre l'affaire au ministère public afin qu'il porte celle-ci devant la chambre des mises en accusation compétente en vue du contrôle prévu à l'article 235ter.] &lt;L 2009-01-16/31, art. 2, 036; En vigueur : 16-01-2009&gt;
+
+----------
+
+(1)&lt;L 2018-07-22/04, art. 11, 061; En vigueur : 17-08-2018&gt;
+
+**Art. 189quater**
+
+[<sup>1</sup> Lors de l'examen au fond d'un dossier auquel figure le procès-verbal non classifié visé à l'article 19/1 de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité, le tribunal peut, soit d'office, soit sur réquisition du ministère public, soit à la demande du prévenu, de la partie civile ou de leurs avocats, demander au Comité permanent R un avis écrit sur la légalité de la méthode de recueil de données.
+
+Cette réquisition ou cette demande doit, à peine de déchéance, être soulevée avant tout autre moyen de droit, sauf si ce moyen concerne des éléments concrets et nouveaux qui sont apparus lors de l'audience.
+
+Le tribunal transmet le dossier au ministère public, afin de porter l'affaire à cet effet devant le Comité permanent R.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 36, 039; En vigueur : 01-09-2010&gt;
+
+**Art. 190**
+
+L'instruction sera publique, à peine de nullité. [Lorsque les poursuites sont fondées [<sup>1</sup> sur [<sup>4</sup> [<sup>6</sup> les articles 134 à 163, 165, 171, 173, 174, 187, 258, 265 ou sur l'article 268]<sup>6</sup> du Code pénal en cas d'exploitation de la prostitution ou d'autres formes d'exploitation sexuelle]<sup>2</sup>, la juridiction de jugement peut ordonner le huis clos à la demande de l'une des parties ou de la victime, notamment en vue de la protection de leur vie privée.] &lt;L 04-07-1989, art. 5&gt;
+
+Le [procureur du Roi], la partie civile ou son défenseur, [...] exposeront l'affaire; les procès-verbaux ou rapports, s'il en a été dressé, seront lus par le greffier; les témoins pour et contre seront entendus, s'il y a lieu, et les reproches proposés et jugés; les pièces pouvant servir à conviction ou à décharge seront représentées aux témoins et aux parties; le prévenu sera interrogé; le prévenu et les personnes civilement responsables [ou leur avocat] proposeront leur défense; le [procureur du Roi] résumera l'affaire et donnera ses conclusions; le prévenu et les personnes civilement responsables [<sup>6</sup> de l'infraction]<sup>6</sup> [ou leur avocat] pourront répliquer. &lt;L 10-07-1967, art. 1, 99°&gt; &lt;L 2003-02-12/35, art. 11, 021; En vigueur : 07-04-2003&gt;
+
+Le jugement sera prononcé de suite, ou, au plus tard, à [l'audience qui suivra celle où les débats ont été clos]. &lt;L 10-07-1967, art. 1, 99°&gt;
+
+[<sup>5</sup> Le dispositif du jugement est enregistré intégralement dans la banque de données visée à l'article 782bis du Code judiciaire. Dans la banque de données, les jugements sont anonymisés selon les modalités déterminées par le Roi [<sup>5</sup> , même en l'absence des autres juges mais en présence du ministère public]<sup>5</sup>.]
+
+[<sup>5</sup> Le jugement pseudonymisé est publié via le Registre central visé à l'article 782, § 4, du Code judiciaire dans un délai raisonnable.
+
+La juridiction qui s'apprête à rendre le jugement peut, par dérogation à l'alinéa 4 et par une décision motivée qui est reprise dans le jugement, d'office ou à la demande d'une partie, et après avoir entendu les parties, interdire la publication du jugement pseudonymisé, ou décider d'omettre, dans le jugement pseudonymisé accessible au public, certaines parties de la motivation de ce jugement si la publication de ce jugement pseudonymisé ou des parties concernées porte atteinte de manière disproportionnée au droit à la protection de la vie privée des parties ou d'autres personnes impliquées dans l'affaire, ou à leurs autres droits fondamentaux ou libertés fondamentales reconnus dans la Constitution et dans les instruments internationaux qui lient la Belgique. Si la juridiction fait usage de cette possibilité, le jugement est prononcé dans son intégralité, ou est mis à la disposition du public dans la salle d'audience jusqu'à la fin de l'audience. La décision de la juridiction sur l'étendue de la pseudonymisation ou interdisant la publication du jugement pseudonymisé, n'est susceptible d'aucun recours.
+
+Si la publication visée à l'alinéa 4 est impossible, le président prononce le jugement dans son intégralité, ou le met à la disposition du public dans la salle d'audience jusqu'à la fin de l'audience. La publication est faite dès que l'impossibilité cesse d'exister.
+
+Sans préjudice de l'alinéa 4, le président de la chambre qui a rendu le jugement peut, dans tous les cas, soit d'office soit à la demande motivée d'une des parties, décider de ne pas limiter le prononcé du jugement en audience publique au dispositif.]<sup>5</sup>
+
+----------
+
+(1)&lt;L 2016-02-01/09, art. 4, 050; En vigueur : 29-02-2016&gt;
+
+(2)&lt;L 2016-05-31/02, art. 14, 052; En vigueur : 18-06-2016&gt;
+
+(4)&lt;L 2022-03-21/01, art. 109, 071; En vigueur : 01-06-2022&gt;
+
+(5)&lt;L 2022-10-16/03, art. 4, 078; En vigueur : 01-04-2024&gt;
+
+(6)&lt;L 2026-03-11/03, art. 137, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 190bis**
+
+&lt;L 2000-11-28/35, art. 39, 016; En vigueur : 01-04-2001&gt; En ce qui concerne les témoins mineurs [<sup>1</sup> ou les témoins majeurs vulnérables]<sup>1</sup>, le tribunal fait, le cas échéant, application des articles 92 à 101 relativement à l'audition enregistrée.
+
+Lorsqu'il estime la comparution du mineur [<sup>1</sup> ou du majeur vulnérable]<sup>1</sup> nécessaire à la manifestation de la vérité, celle-ci est organisée par vidéoconférence, [<sup>1</sup> à moins que le témoin]<sup>1</sup> n'exprime la volonté de témoigner à l'audience.
+
+En cas d'audition par vidéoconférence, le mineur [<sup>1</sup> ou le majeur vulnérable]<sup>1</sup> est entendu dans une pièce séparée, en présence, le cas échéant, de la personne visée à l'article 91bis, de son avocat, d'un ou de membres du service technique et d'un expert [<sup>1</sup> ...]<sup>1</sup>.
+
+Si le tribunal l'estime nécessaire à la sérénité du témoignage, il peut, dans tous les cas, limiter ou exclure le contact visuel entre le mineur [<sup>1</sup> ou le majeur vulnérable]<sup>1</sup> et le prévenu.
+
+Cet article est applicable aux mineurs dont l'audition a été enregistrée en vertu de l'article 92 et qui ont atteint l'âge de la majorité au moment de l'audience.
+
+----------
+
+(1)&lt;L 2019-05-05/10, art. 41, 063; En vigueur : 03-06-2019&gt;
+
+**Art. 190ter**
+
+&lt;Numéro d'article inséré par L 2000-11-28/35, art. 39; En vigueur : 01-04-2001&gt; [Antérieurement art. 190bis.] Les procès-verbaux d'audience sont joints au dossier de la procédure.
+
+**Art. 190quater**
+
+[<sup>1</sup> Le tribunal peut, dans l'intérêt de la manifestation de la vérité, sur réquisition du procureur du Roi, sur requête d'une des parties ou d'office, inviter le procureur du Roi à requérir un juge d'instruction aux fins :
+
+1° d'établir le profil ADN des traces découvertes et, le cas échéant, de procéder à une comparaison des profils ADN, en application de l'article 44quater;
+
+2° de procéder au prélèvement d'un échantillon de référence sur le prévenu, d'établir le profil ADN de cet échantillon et, le cas échéant, de procéder à une comparaison des profils ADN, en application de l'article 90undecies;
+
+3° de procéder au prélèvement d'un échantillon de référence sur une autre personne, d'établir le profil ADN de cet échantillon et, le cas échéant, de procéder à une comparaison des profils ADN, en application de l'article 90duodecies.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-11-07/16, art. 9, 044; En vigueur : 01-01-2014 (voir AR 2013-07-17/29, art. 36)&gt;
+
+**Art. 190quinquies**
+
+[<sup>1</sup> Le tribunal peut, dans l'intérêt de la manifestation de la vérité, d'office, inviter le procureur du Roi à demander des informations, par sollicitation spécifique et motivée, au Point de contact central [<sup>2</sup> tenu par la Banque nationale de Belgique conformément à la loi du 8 juillet 2018 portant organisation d'un point de contact central des comptes et contrats financiers et portant extension de l'accès du fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-01/01, art. 126, 053; En vigueur : 14-07-2016&gt;
+
+(2)&lt;L 2018-07-08/03, art. 20, 059; En vigueur : 26-07-2018&gt;
+
+**Art. 190sexies**
+
+[<sup>1</sup> § 1er. Pour autant qu'il soit satisfait à l'alinéa 4 et qu'il s'agisse de faits qui ne paraissent pas être de nature à devoir être punis [<sup>2</sup> d'une peine de niveau 4]<sup>2</sup> ou d'une peine plus lourde et pour autant que des éléments du dossier indiquent que les faits sont liés à une problématique de dépendance, d'agressivité ou psychosociale, le tribunal peut, soit d'office, soit à la demande du ministère public, soit à la demande du prévenu ou de son avocat, procéder à l'imposition d'un trajet restauratif conformément au présent article.
+
+Les conditions suivantes doivent être remplies pour ce faire:
+
+1° le prévenu ne nie pas les faits qui lui sont reprochés, reconnaît l'existence d'une problématique sous-jacente de dépendance, d'agressivité ou psychosociale dans son chef, et est motivé à y travailler;
+
+2° le prévenu n'est pas suivi au moment de la comparution devant le tribunal, par un service des communautés en raison de la même problématique;
+
+3° le prévenu ne peut relever de la compétence du juge de l'application des peines ou du tribunal de l'application des peines;
+
+4° le prévenu a donné son consentement libre et éclairé au trajet restauratif.
+
+Dans la mesure où une chambre spécialisée a été mise en place à cet effet au sein du tribunal, les affaires dans lesquelles il existe une problématique sous-jacente et pour lesquelles un trajet restauratif est envisagé en application du présent article, sont traitées par cette chambre.
+
+Le tribunal conclut un protocole avec le parquet, le barreau et les partenaires chargés de la mise en oeuvre des trajets restauratifs. Le protocole précise la manière dont le suivi et le flux d'informations sont organisés.
+
+Lors des audiences, un ou plusieurs services chargés de l'exécution des trajets restauratifs sont présents et fournissent des explications, si nécessaire.
+
+§ 2. Le tribunal peut, d'office ou à la demande du ministère public, envoyer une notification au service compétent des communautés lui demandant d'effectuer une enquête sociale.
+
+§ 3. Lors de l'audience d'introduction, le ministère public et la partie civile ou l'avocat de celle-ci exposent l'affaire. Le prévenu est entendu.
+
+Le juge vérifie si les conditions visées au paragraphe 1er sont remplies et s'il semble approprié d'imposer un trajet restauratif.
+
+Si tel est le cas, l'affaire est remise en vue de l'élaboration d'un trajet restauratif.
+
+Si tel n'est pas le cas, il est procédé à l'examen de l'affaire.
+
+§ 4. Dans le cas visé au paragraphe 3, alinéa 3, un trajet restauratif est élaboré par le service compétent des communautés, en collaboration avec le prévenu. Dans le trajet restauratif, des mesures sont élaborées compte tenu de la problématique sous-jacente et dans le respect des intérêts de la partie civile.
+
+§ 5. Au plus tard deux mois après l'audience d'introduction, il est tenu une audience d'orientation au cours de laquelle le prévenu soumet un trajet restauratif au juge.
+
+Si le trajet restauratif n'est pas accepté, le prévenu peut formuler des propositions d'adaptation. S'il ne le fait pas, il est procédé à l'examen de l'affaire.
+
+Si le trajet restauratif est accepté, le prévenu le signe. L'affaire est remise aux fins de suivi ultérieur.
+
+§ 6. Au plus tard un mois après l'audience d'orientation visée au paragraphe 5 et chaque fois que le tribunal le juge opportun, il est tenu une audience de suivi au cours de laquelle le respect des conditions du trajet restauratif est discuté et évalué. Celles-ci sont ajustées, si nécessaire.
+
+Les services compétents des communautés accompagnent le prévenu en ce qui concerne le respect du trajet restauratif. Dans le cadre du contrôle et en fonction des éventuels ajustements du trajet restauratif, les services compétents établissent un rapport pour chaque prochaine audience de suivi, et à chaque fois qu'ils l'estiment utile ou à la demande du tribunal. Une copie de ces rapports est systématiquement adressée au ministère public et est jointe au dossier en vue de la prochaine audience de suivi.
+
+Si le tribunal décide la poursuite du trajet restauratif, l'affaire est remise aux fins de suivi ultérieur. Si le trajet restauratif n'est pas suivi, le tribunal décide d'y mettre un terme et il est procédé à l'examen de l'affaire.
+
+La durée du suivi est limitée à un an. Ce délai peut être prolongé par le tribunal par une décision motivée pour une durée maximale de six mois.
+
+§ 7. Au plus tard dix-huit mois après le début du trajet restauratif, il est procédé à l'examen de l'affaire.
+
+Le prévenu et la partie civile et leurs avocats sont informés des lieu, jour et heure de la comparution.
+
+La partie civile ou son avocat sont entendus pour l'exposé de l'action civile, le prévenu et son avocat sont entendus en leur défense et le ministère public résume l'affaire et donne ses conclusions.
+
+Lors du prononcé, le tribunal tient compte du trajet restauratif suivi et le mentionne dans le jugement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-01-18/06, art. 5, 077; En vigueur : 26-01-2024&gt;
+
+(2)&lt;L 2026-03-11/03, art. 138, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 191**
+
+Si le fait [<sup>1</sup> ne constitue pas une infraction]<sup>1</sup>, le tribunal annulera l'instruction, la citation et tout ce qui aura suivi, renverra le prévenu, et statuera sur les demandes en dommages-intérêts.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 139, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 192**
+
+[Si le fait [<sup>1</sup> est une infraction]<sup>1</sup> dont la connaissance est attribuée au juge de police [par l'article 138], le tribunal applique la peine et statue, s'il y a lieu, sur les dommages-intérêts.] &lt;L 10-07-1967, art. 1, 100°&gt;
+
+[Alinéa 2 abrogé] &lt;AR 59 10-01-1935, art. 2&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 140, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 193**
+
+Si le fait est de nature à [<sup>1</sup> relever de la compétence de la cour d'assises]<sup>1</sup>, le tribunal pourra décerner de suite le mandat de dépôt ou le mandat d'arrêt; et il renverra le prévenu devant le juge d'instruction compétent. &lt;L 10-07-1967, art. 1, 101°&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 141, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 193bis**
+
+&lt;L 10-10-1967, art. 148, § 1&gt; Les décisions sont prises à la majorité absolue des voix. S'il se forme plus de deux opinions, les juges qui ont émis l'opinion la moins favorable à l'inculpé sont tenus de se réunir à l'une des autres opinions.
+
+**Art. 194**
+
+&lt;L 25-10-1950, art. 1, b&gt; Il sera statué sur les frais conformément aux règles établies par l'article 162 [<sup>1</sup> , l'article 162ter]<sup>1</sup> t sur l'indemnité visée à l'article 1022 du Code judiciaire conformément à l'article 162bis]. &lt;L 2007-04-21/85, art. 10, 033; En vigueur : 01-01-2008 ; voir également l'art. 13&gt;
+
+----------
+
+(1)&lt;L 2021-06-21/02, art. 18, 068; En vigueur : 23-08-2021&gt;
+
+**Art. 195**
+
+&lt;L 27-04-1987, art. 2&gt; Tout jugement de condamnation énonce les faits dont les personnes citées sont jugées coupables ou responsables, la peine, les condamnations civiles et la disposition de la loi dont il est fait application.
+
+[<sup>4</sup> Le jugement contient, outre les motifs et le dispositif:
+
+1° l'indication du juge ou du tribunal dont il émane; les noms des membres du siège, du magistrat du ministère public et du greffier qui a assisté au prononcé;
+
+2° les nom, prénom et domicile des parties, leur date de naissance, et, le cas échéant, leur numéro de registre national, la nationalité, la référence dactyloscopique unique, numéro d'identification dans le registre bis ou numéro d'entreprise;
+
+3° l'objet de la demande et le cas échéant la réponse aux conclusions des parties;
+
+4° la mention que le ministère public a formulé sa réquisition à l'audience;
+
+5° la mention et la date de la prononciation en audience publique.
+
+Le greffier vérifie immédiatement préalablement à la signature du jugement ou la constatation de l'impossibilité de le signer l'exactitude des mentions visées à l'alinéa 2, 2°, à l'exception [<sup>5</sup> ...]<sup>5</sup> de la référence dactyloscopique unique.
+
+Le jugement contient, le cas échéant, l'indication du nom des avocats.]<sup>4</sup>
+
+Le jugement indique, d'une manière qui peut être succincte mais doit être précise, les raisons du choix que le juge fait de telle peine ou mesure parmi celles que la loi lui permet de prononcer. Il justifie en outre le degré de chacune des peines ou mesures prononcées. [<sup>7</sup> ...]<sup>7</sup> &lt;L 1993-12-24/33, art. 2, 004; En vigueur : 01-01-1994&gt; &lt;L 2005-07-20/52, art. 27, 1°, 030; En vigueur : 31-03-2006&gt;
+
+[<sup>2</sup> Le cas échéant, le jugement de condamnation mentionne si la personne condamnée réunit les conditions déterminées à l'article 25, § 2, d) ou e), ou à l'article 26, § 2, d) ou e), de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine.
+
+En cas de condamnation à une peine privative de liberté dont la partie à exécuter s'élève à plus de trois ans et à moins de trente ans pour des faits visés [<sup>7</sup> dans le livre II, titre Ier, titre 4, chapitre 1er, et titre 8, chapitres 1er à 3, dans l'article 139, dans l'article 97, s'ils ont été commis à l'égard d'un ou plusieurs fonctionnaires de police en raison de leur qualité, dans l'article 118 ou dans l'article 225]<sup>7</sup>, du Code pénal, le jugement peut établir que la libération conditionnelle ou la mise en liberté provisoire en vue d'éloignement du territoire ou en vue de remise ne peut être accordée qu'après que la personne condamnée a subi deux tiers de cette peine.
+
+En cas de condamnation à un emprisonnement [<sup>7</sup> ...]<sup>7</sup> de trente ans ou plus, le jugement peut établir que la libération conditionnelle ou la mise en liberté provisoire en vue d'éloignement du territoire ou en vue de remise ne peut être accordée qu'après que la personne condamnée a subi plus de quinze ans et maximum vingt-cinq ans de cette peine.]<sup>2</sup>
+
+[<sup>7</sup> ...]<sup>7</sup>
+
+[<sup>6</sup> L'alinéa 5]<sup>6</sup> n'est pas applicable lorsque le tribunal statue en degré d'appel, sauf lorsqu'il prononce une déchéance du droit de conduire un véhicule, un aéronef et une monture.
+
+[Si des éléments de la médiation sont portés à la connaissance du juge conformément à l'article 555, § 1er, il en est fait mention dans le jugement. Le juge peut en tenir compte et le mentionne, le cas échéant, dans le jugement.] &lt;L 2005-06-22/35, art. 4, 026; En vigueur : 31-01-2006&gt;
+
+[<sup>1</sup> Si le juge prononce une peine privative de liberté effective ou l'internement, il informe les parties de l'exécution de cette peine privative de liberté ou de cette mesure et des éventuelles modalités d'exécution de la peine ou de l'internement.]<sup>1</sup>
+
+Il informe également la partie civile des possibilités d'être entendue dans le cadre de l'exécution de la peine [<sup>1</sup> ou de l'internement]<sup>1</sup> au sujet des conditions qui doivent être imposées dans l'intérêt de la partie civile.] &lt;L 2006-05-17/35, art. 101, 030; En vigueur : 01-02-2007&gt;
+
+----------
+
+(1)&lt;L 2014-05-05/11, art. 88, 048; En vigueur : 01-10-2016 (voir également l'art. 136). Dispositions transitoires art. 134 et 135&gt;
+
+(2)&lt;L 2017-12-21/19, art. 2, 056; En vigueur : 21-01-2018&gt;
+
+(3)&lt;L 2022-03-21/01, art. 110, 071; En vigueur : 01-06-2022&gt;
+
+(4)&lt;L 2023-12-19/08, art. 4, 075; En vigueur : 08-01-2024&gt;
+
+(5)&lt;L 2023-12-19/08, art. 48, 075; En vigueur : 01-09-2025&gt;
+
+(6)&lt;L 2026-02-08/04, art. 9, 084; En vigueur : 26-02-2026&gt;
+
+(7)&lt;L 2026-03-11/03, art. 142, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 195bis**
+
+&lt;L 10-10-1967, art. 148, § 2&gt; Le greffier est tenu de faire signer le jugement dans [<sup>1</sup> les septante-deux heures]<sup>1</sup> par les juges qui l'ont rendu.
+
+Si l'un ou plusieurs des juges se trouvent dans l'impossibilité de signer, les autres signent seuls en faisant mention de cette impossibilité.
+
+Si l'impossibilité existe de la part du greffier, il suffit que les juges en fassent mention en signant.
+
+----------
+
+(1)&lt;L 2019-05-05/19, art. 82, 064; En vigueur : 29-06-2019&gt;
+
+**Art. 196**
+
+[Alinéa 1 abrogé] &lt;L 10-07-1967, art. 1, 102°&gt;
+
+Les greffiers qui délivreront expédition d'un jugement avant qu'il ait été signé seront poursuivi comme faussaires.
+
+[Alinéa 3 abrogé] &lt;L 10-07-1967, art. 1, 102°&gt;
+
+**Art. 196/1**
+
+[<sup>1</sup> Le greffier remet au ministère public un extrait de tout jugement ou arrêt passé en force de chose jugée et portant condamnation à une peine privative de liberté.
+
+Lorsqu'un même jugement ou arrêt a condamné plusieurs personnes à une peine privative de liberté et que celle-ci est devenue définitive pour certaines d'entre elles, un extrait de la décision sera délivré au ministère public en ce qui concerne les personnes concernées.
+
+Lorsque plusieurs personnes condamnées par un même jugement ou arrêt doivent subir leur peine dans des établissements pénitentiaires différents, le ministère public peut se faire délivrer un extrait pour chaque établissement.
+
+Endéans les trois jours, le greffier communique à l'administration du Service public fédéral Finances en charge de la perception et du recouvrement des créances fiscales et non fiscales, par voie électronique ou par lettre simple, un extrait de tout jugement ou arrêt passé en force de chose jugée et portant une condamnation pécuniaire visée à l'alinéa 8.
+
+En outre, le greffier communique à l'Organe Central pour la Saisie et la Confiscation, par voie électronique ou par lettre simple, une copie de tout jugement de condamnation emportant la confiscation [<sup>4</sup> ...]<sup>4</sup> prévue à l'article 197bis, ainsi qu'une copie de l'extrait de ce jugement.
+
+Dans le même délai, le greffier communique, par voie électronique ou par lettre simple, à l'administration du Service public fédéral Finances en charge de la perception et du recouvrement des créances fiscales et non fiscales, responsable de la banque de données amendes pénales, confiscations et frais de justice en matière répressive, les éléments qui sont contenus dans tout extrait et qui sont nécessaires pour le traitement des données relatives aux condamnations pécuniaires visées à l'alinéa 8.
+
+Lorsqu'un même jugement ou arrêt a condamné plusieurs personnes à des condamnations pécuniaires visées à l'alinéa 8, et que ces condamnations sont devenues définitives pour les uns, sans l'être pour les autres, il est procédé conformément aux alinéas 4 à 6 concernant la partie devenue définitive du jugement ou de l'arrêt.
+
+Par condamnation pécuniaire, on entend toute condamnation à une amende, à une confiscation d'une somme d'argent qui comporte la création d'une créance recouvrable sur le patrimoine du condamné, à des frais de justice [<sup>3</sup> ou à une contribution.]<sup>3</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-03-23/18, art. 13, 066; En vigueur : 01-01-2020&gt;
+
+(2)&lt;L 2021-06-21/02, art. 19, 068; En vigueur : 23-08-2021&gt;
+
+(3)&lt;L 2022-12-06/02, art. 21, 073; En vigueur : 31-12-2022&gt;
+
+(4)&lt;L 2026-03-11/03, art. 143, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 196/2**
+
+[<sup>1</sup> Ne sont expédiés dans la forme exécutoire que les arrêts, jugements et ordonnances de justice que les parties, le ministère public ou le receveur compétent de l'administration du Service public fédéral Finances en charge de la perception et du recouvrement des créances fiscales et non fiscales, demandent dans cette forme.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-03-23/18, art. 14, 066; En vigueur : 01-01-2020&gt;
+
+**Art. 197**
+
+[Sans préjudice de l'article 197bis, le jugement sera exécuté] à la requête du [procureur du Roi] et de la partie civile, chacun en ce qui le concerne. &lt;L 10-07-1967, art. 1, 103°&gt; &lt;L 2003-03-19/38, art. 3, 022; En vigueur : 01-09-2003&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>1</sup> ...]<sup>1</sup>. &lt;L 2003-03-19/38, art. 3, 022; En vigueur : 01-09-2003&gt;
+
+----------
+
+(1)&lt;L 2014-02-11/12, art. 53, 045; En vigueur : 18-04-2014&gt;
+
+**Art. 197bis**
+
+[<sup>1</sup> § 1er. Les poursuites en vue du recouvrement de biens confisqués, d'amendes et de frais de justice seront exercées au nom du ministère public par le fonctionnaire compétent du Service Public Fédéral Finances, selon les indications du directeur de l'Organe central pour la saisie et la confiscation.
+
+Ce fonctionnaire accomplit les actes et introduit les demandes nécessaires au recouvrement ou à la sauvegarde des droits reconnus au Trésor par le jugement ou l'arrêt.
+
+Il peut, en cas de condamnation à une confiscation d'une somme d'argent, une amende ou à des frais de justice, procéder à l'exécution sur les biens saisis conformément aux indications du ministère public ou du directeur de l'Organe central pour la saisie et la confiscation.
+
+A la demande du ministère public ou du directeur de l'Organe central pour la saisie et la confiscation, le fonctionnaire compétent du Service Public Fédéral Finances fait transcrire, [<sup>2</sup> sans frais]<sup>2</sup> les décisions judiciaires de confiscation de biens immeubles coulées en force de chose jugée au [<sup>5</sup> service compétent du Service public fédéral Finances]<sup>5</sup>.
+
+L'introduction de la demande en justice est précédée d'une concertation avec le directeur de l'Organe central pour la saisie et la confiscation.
+
+§ 2. Les poursuites pour le recouvrement de biens confisqués, d'amendes et de frais de justice dans le cadre de l'enquête pénale d'exécution menée par le directeur de l'Organe central pour la saisie et la confiscation seront exercées en son nom par un fonctionnaire du service public fédéral Finances spécialisé en matière de recouvrement de confiscation, désigné par le ministre des Finances.
+
+Le fonctionnaire spécialisé exerce toutes les compétences que les dispositions légales et réglementaires accordent au fonctionnaire visé au § 1er. Il peut poser les actes liés aux compétences de sa fonction sur tout le territoire du Royaume.
+
+[<sup>3</sup> § 2/1. En cas de confiscation d'un véhicule motorisé par une décision judiciaire passée en force de chose jugée, le ministère public charge un service de police du transfert du véhicule motorisé au Service Public Fédéral Finances. A cette fin, le parquet transmet un procès-verbal de remise à l'attention de l'Administration des Services patrimoniaux. Les frais d'entreposage y relatifs constituent des frais de justice jusqu'à la remise du véhicule motorisé aux Services patrimoniaux.
+
+Sauf dans le cas où les Services patrimoniaux ne demandent pas le déplacement du véhicule motorisé confisqué, le ministère public requiert le transfert du véhicule motorisé et, le cas échéant, des clés et/ou des documents de bord vers le lieu désigné. Dans cette hypothèse, le service de police chargé de la remise au aux Services patrimoniaux applique les mêmes directives que lors de la saisie d'un véhicule motorisé. Il fait appel à un service de remorquage agréé, soumis aux tarifs des frais de justice en matière répressive.]<sup>3</sup>
+
+§ 3. Lorsque la décision de condamnation porte confiscation [<sup>8</sup> ...]<sup>8</sup> de choses ou de sommes se trouvant ou à recouvrer hors du Royaume, le ministère public transmet une copie des pièces pertinentes du dossier répressif au ministre de la Justice. Il en avise l'Organe central pour la saisie et la confiscation par l'envoi d'une copie.
+
+Le ministère public peut inviter le directeur de l'Organe central pour la saisie et la confiscation d'établir et d'accomplir en son nom tous les actes en vue d'obtenir l'exécution de confiscation mentionnée ci-avant à l'étranger. A cette fin, ce dernier peut requérir l'intervention de traducteurs. Les frais exposés pour les prestations de ceux-ci sont taxés par le directeur et considérés comme des frais de justice en matière pénale.
+
+§ 4. Il est institué au sein de l'Etat fédéral un Organe de concertation pour la coordination du recouvrement des créances non fiscales en matière pénale, dénommé ci-après "l'Organe de concertation".
+
+L'Organe de concertation est composé :
+
+1° [<sup>7</sup> de l'administrateur général de l'Administration du Service Public Fédéral Finances chargé de la Perception et du Recouvrement ou du représentant qu'il désigne;]<sup>7</sup>
+
+[<sup>7</sup> 1° /1 de l'administrateur général de l'Administration du Service Public Fédéral Finances chargé des services patrimoniaux ou du représentant qu'il désigne;]<sup>7</sup>
+
+2° du directeur de l'Organe central pour la saisie et la confiscation ou du représentant qu'il désigne;
+
+3° [<sup>2</sup> du directeur général de la direction générale de la police judiciaire ou son représentant;]<sup>2</sup>
+
+4° d'un représentant du ministre ayant la Justice dans ses attributions;
+
+5° d'un représentant du ministre ayant les Finances dans ses attributions;
+
+6° d'un représentant du membre du gouvernement fédéral compétent pour [<sup>2</sup> ...]<sup>2</sup> la lutte contre la fraude;
+
+7° d'un représentant désigné par le Collège des procureurs généraux;
+
+8° d'un représentant désigné par le Conseil des procureurs du Roi.
+
+[<sup>2</sup> 9° un représentant du Service Public Fédéral Justice;
+
+10° un représentant désigné par le Conseil des auditeurs de travail;]<sup>2</sup>
+
+[<sup>7</sup> 11° un représentant du Conseil des greffiers en chef;
+
+12° un représentant du Collège des cours et tribunaux;
+
+13° le président de la Commission permanente de la police locale ou son délégué.]<sup>7</sup>
+
+L'Organe de concertation favorise la collaboration entre les autorités administratives et judiciaires visées à l'alinéa 2, dans le respect de leur compétences spécifiques, en vue d'une mise en oeuvre efficiente et effective des décisions judiciaires en matière pénale concernant les condamnations exécutoires au paiement de sommes d'argent confisquées, d'amendes pénales, de frais de justice et des contributions au Fonds d'aide aux victimes d'actes intentionnels de violence et aux sauveteurs occasionnels, visées à l'article 29 de la loi du 1er août 1985 portant des mesures fiscales et autres, en Belgique et à l'étranger.
+
+L'Organe de concertation peut formuler toutes les recommandations utiles en vue d'une coordination optimale de l'exécution des condamnations visées à l'alinéa 3. Le président de l'Organe de concertation transmet les recommandations aux ministres ayant la Justice et les Finances dans leurs attributions et au président du Collège des procureurs généraux.
+
+L'Organe de concertation établit son règlement d'ordre intérieur à la majorité simple des membres présents. Le règlement est approuvé par les ministres ayant la Justice et les Finances dans leurs attributions. [<sup>6</sup> L'Organe central pour la saisie et la confiscation assure la présidence de l'Organe de concertation.]<sup>6</sup>
+
+L'Organe de concertation se réunit sur convocation de son président, qui fixe l'ordre du jour.
+
+L'Organe central pour la saisie et la confiscation assure le secrétariat de l'Organe de concertation.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-02-11/12, art. 54, 045; En vigueur : 18-04-2014&gt;
+
+(2)&lt;L 2016-02-05/11, art. 86, 049; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2018-02-04/04, art. 43, 058; En vigueur : 01-07-2018&gt;
+
+(4)&lt;L 2018-07-11/07, art. 73, 060; En vigueur : 30-07-2018&gt;
+
+(5)&lt;L 2023-12-22/05, art. 5, 076; En vigueur : 08-01-2024&gt;
+
+(6)&lt;L 2024-04-18/08, art. 2, 081; En vigueur : 12-05-2024&gt;
+
+(7)&lt;L 2024-04-18/08, art. 29, 081; En vigueur : 12-05-2024&gt;
+
+(8)&lt;L 2026-03-11/03, art. 144, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 198**
+
+Le [procureur du Roi] sera tenu, dans les quinze jours qui suivront la prononciation du jugement, d'en envoyer un extrait [au procureur général]. &lt;L 10-07-1967, art. 1, 104°&gt;
+
+###### § III. [<sup>1</sup> De l'appel des jugements correctionnels]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-02-05/11, art. 87, 049; En vigueur : 29-02-2016&gt;
+
+**Art. 199**
+
+Les jugements rendus en matière correctionnelle pourront être attaqués par la voie de l'appel.
+
+**Art. 200**
+
+&lt;L 01-05-1849, art. 6&gt; Les appels des jugements rendus par les [tribunaux correctionnels] seront tous portés devant la cour d'appel du ressort. &lt;L 10-07-1967, art. 1, 105°&gt;
+
+**Art. 201**
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 106°&gt;
+
+**Art. 202**
+
+&lt;L 01-05-1849, art. 7&gt; La faculté d'appeler des jugements rendus par [les tribunaux de police et les tribunaux correctionnels] appartiendra : &lt;L 10-07-1967, art. 1, 107°&gt;
+
+1° aux parties prévenues ou responsables;
+
+2° à la partie civile, quant à ses intérêts civils seulement;
+
+3° à l'administration forestière;
+
+4° au ministère public près la cour [...] qui doit prononcer sur l'appel; &lt;L 1994-07-11/33, art. 11, 007; En vigueur : 01-01-1995&gt;
+
+5° [selon le cas au procureur du Roi ou à l'auditeur du travail.] &lt;L 1994-07-11/33, art. 12, 007; En vigueur : 01-01-1995&gt;
+
+**Art. 203**
+
+&lt;L 31-05-1955, art. 2&gt; § 1. Il y aura [<sup>2</sup> ...]<sup>2</sup> déchéance de l'appel, si la déclaration d'appeler n'a pas été faite au greffe du tribunal qui a rendu le jugement, [<sup>1</sup> trente jours]<sup>1</sup> au plus tard après celui où il a été prononcé, et, si le jugement est rendu par défaut, [<sup>1</sup> trente jours]<sup>1</sup> au plus tard après celui de la signification qui en aura été faite à la partie condamnée ou à son domicile.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+§ 2. [<sup>2</sup> Si le prévenu ou la partie civilement responsable a interjeté appel, le ministère public dispose d'un délai supplémentaire de dix jours pour interjeter appel. Ce délai court à partir de l'expiration du délai d'appel ouvert au prévenu ou à la partie civilement responsable.
+
+Si le ministère public a interjeté appel, le prévenu et la partie civilement responsable disposent d'un délai supplémentaire de dix jours pour interjeter appel. Ce délai court à partir de l'expiration du délai d'appel ouvert au ministère public.
+
+Lorsque l'appel est dirigé contre la partie civile, celle-ci a un délai supplémentaire de dix jours pour interjeter appel contre les prévenus et les personnes civilement responsables qu'elle entend maintenir à la cause, sans préjudice de son droit de faire appel incident conformément au paragraphe 4. Ce délai court à partir de l'expiration du délai d'appel ouvert au prévenu ou à la personne civilement responsable ayant formé l'appel principal.]<sup>2</sup>
+
+§ 3. Pendant ces délais et pendant l'instance d'appel, il sera sursis à l'exécution du jugement. Toutefois, les jugements sur l'action publique autres que ceux qui portent condamnation, acquittement ou absolution et les jugements sur l'action civile peuvent être déclarés exécutoires provisoirement nonobstant appel, par une disposition spécialement motivée.
+
+§ 4. Dans tous les cas où l'action civile sera portée devant la juridiction d'appel, l'intimé pourra, jusqu'à clôture des débats sur l'appel, faire appel incident par conclusions prises à l'audience.
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 88, 049; En vigueur : 01-03-2016&gt;
+
+(2)&lt;L 2022-12-06/02, art. 22, 073; En vigueur : 31-12-2022&gt;
+
+**Art. 203bis**
+
+&lt;L 16-02-1961, art. 4&gt; Le prévenu, la partie civilement responsable et la partie civile pourront interjeter appel, soit personnellement [...], soit par avocat [...]. &lt;L 20-12-1974, art. 3 et 4&gt;
+
+**Art. 204**
+
+[<sup>1</sup> A peine de déchéance de l'appel, la requête indique précisément les griefs élevés, y compris les griefs procéduraux, contre le jugement et est remise, dans le même délai et au même greffe que la déclaration visée à l'article 203. Elle est signée par l'appelant, son avocat ou tout autre fondé de pouvoir spécial. Dans ce dernier cas, le pouvoir est annexé à la requête.
+
+Cette requête peut aussi être remise directement au greffe du tribunal ou de la cour où l'appel est porté.
+
+Un formulaire dont le modèle est déterminé par le Roi peut être utilisé à cette fin.
+
+La présente disposition s'applique également au ministère public.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 89, 049; En vigueur : 01-03-2016&gt;
+
+**Art. 205**
+
+&lt;Abrogé par L 2022-12-06/02, art. 23, 073; En vigueur : 31-12-2022&gt;
+
+**Art. 206**
+
+[<sup>1</sup> Les parties à la cause peuvent se désister de l'appel ou limiter celui-ci, par une déclaration, déposée au greffe du tribunal ou de la cour qui doit connaître de l'appel.
+
+La déclaration peut également, le cas échéant, être faite au greffe de la prison ou du centre communautaire pour mineurs ayant commis un fait qualifié d'infraction.
+
+Il est dressé procès-verbal de la déclaration dans le registre destiné à cet effet.
+
+Dans les cas prévus à l'alinéa 2, les directeurs des établissements avisent sans délai de cette déclaration, le ministère public près le tribunal ou la cour qui doit connaître de l'appel et lui remettent, dans les vingt-quatre heures, une expédition du procès-verbal. L' avis et l'expédition sont versés au dossier.
+
+Le prévenu et, le cas échéant la partie civile, ou leurs avocats, sont informés du désistement ou de la limitation du ministère public dans les vingt-quatre heures.
+
+Les parties à la cause peuvent également, à l'audience, se désister de l'appel ou limiter celui-ci.
+
+Le désistement ou la limitation de l'appel peut être retiré jusqu'à ce que la cour ou le tribunal qui doit connaître de l'appel en donne acte.
+
+En cas d'appel portant sur l'action civile, la partie contre laquelle est dirigé l'appel peut toutefois décider de refuser le désistement si un appel incident a été interjeté.]<sup>1</sup>
+
+----------
+
+(1)&lt;rébabli par L 2016-02-05/11, art. 91, 049; En vigueur : 29-02-2016&gt;
+
+**Art. 207**
+
+La requête si elle a été remise au greffe du tribunal de première instance, et les pièces, seront envoyées, par le [procureur du Roi], au greffe de la cour [...], auquel l'appel sera porté, dans les vingt-quatre heures après la déclaration ou la remise de la notification d'appel. &lt;L 10-07-1967, art. 1, 110°&gt;
+
+Si celui contre lequel le jugement a été rendu est en état d'arrestation, il sera, dans le même délai, et par ordre du [procureur du Roi], transféré dans la maison d'arrêt du lieu ou siège la cour [...] qui jugera l'appel. &lt;L 10-07-1967, art. 1, 110°&gt;
+
+**Art. 208**
+
+[<sup>1</sup> Les arrêts rendus par défaut sur l'appel pourront être attaqués par la voie de l'opposition dans les mêmes formes, conditions, modalités et délais que les jugements par défaut rendus par les tribunaux correctionnels.
+
+Les dispositions des articles 185 à 187 sont communes à la cour d'appel.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 92, 049; En vigueur : 01-03-2016&gt;
+
+**Art. 209**
+
+L'appel sera jugé à l'audience, dans le mois. [...] [<sup>1</sup> L'article 190, alinéas 3 à 7, s'applique par analogie à la cour d'appel.]<sup>1</sup> &lt;L 1990-12-28/31, art. 3, 002; En vigueur : 08-01-1991&gt;
+
+----------
+
+(1)&lt;L 2022-10-16/03, art. 5, 078; En vigueur : 01-04-2024&gt;
+
+**Art. 209bis**
+
+&lt;Inséré par L 2000-03-28/31, art. 5; En vigueur : 2000-04-30&gt; Dans les cas visés à l'article 216quinquies, l'appel est introduit dans le délai et la forme prévus aux articles 203 et 205.
+
+Sans préjudice de l'article 205, la cause est fixée dans les quinze jours après l'expiration du délai visé pour le prévenu à l'article 203, § 1er.
+
+Le délai de citation devant la Cour est de deux jours.
+
+La Cour peut remettre à une ou plusieurs audiences la cause pour autant qu'elle la prenne en délibéré au plus tard quinze jours après l'audience d'introduction.
+
+La Cour prononce sa décision dans les cinq jours après la mise en délibéré.
+
+La Cour peut, si elle estime que la complexité de l'affaire nécessite des investigations supplémentaires, renvoyer le dossier au procureur général, par décision motivée.
+
+[<sup>1</sup> Les dispositions [<sup>2</sup> des articles 152 et 190sexies]<sup>2</sup> sont communes aux cours d'appel.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 93, 049; En vigueur : 01-03-2016&gt;
+
+(2)&lt;L 2024-01-18/06, art. 6, 077; En vigueur : 26-01-2024&gt;
+
+**Art. 210**
+
+[Avant que les juges] émettent leur opinion, le prévenu, soit qu'il ait été acquitté, soit qu'il ait été condamné, les personnes civilement responsables [<sup>2</sup> de l'infraction]<sup>2</sup>, la partie civile [, ou leur avocat] et le [procureur général] seront entendus [sur les griefs précis élevés contre le jugement et dans l'ordre qui sera réglé par le juge. [Le prévenu [ou son avocat], s'il le demande], aura toujours le dernier la parole.] &lt;L 1990-12-28/31, art. 4, 002; En vigueur : 08-01-1991&gt; &lt;L 10-07-1967, art. 1, 111°&gt; &lt;AR 258 24-03-1936, art. 4&gt; &lt;L 2003-02-12/35, art. 13, 021; En vigueur : 07-04-2003&gt;
+
+[<sup>1</sup> Outre les griefs soulevés comme prescrit à l'article 204, le juge d'appel ne peut soulever d'office que les moyens d'ordre public portant sur les formalités substantielles ou prescrites à peine de nullité ou sur :
+
+\- sa compétence;
+
+\- la prescription des faits dont il est saisi;
+
+\- l'absence d'infraction que présenteraient les faits dont il est saisi quant à la culpabilité ou la nécessité de les requalifier ou une nullité irréparable entachant l'enquête portant sur ces faits.
+
+Les parties sont invitées à s'exprimer sur les moyens soulevés d'office.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 94, 049; En vigueur : 01-03-2016&gt;
+
+(2)&lt;L 2026-03-11/03, art. 145, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 211**
+
+Les dispositions des articles précédents sur la solennité de l'instruction, la nature des preuves, la forme, l'authenticité et la signature du jugement définitif de première instance, la condamnation aux frais [<sup>2</sup> , à la redevance administrative, telle que visée au titre 4 de la loi-programme du 21 juin 2021,]<sup>2</sup> [et à l'indemnité visée à l'article 1022 du Code judiciaire], ainsi que les peines que ces articles prononcent, seront communes aux jugements rendus sur l'appel. [<sup>1</sup> Les articles 145, alinéas 5 et 6, 152bis [<sup>3</sup> 164 et 195, alinéas 2 à 4]<sup>3</sup> sont également d'application.]<sup>1</sup> &lt;L 2007-04-21/85, art. 11, 033; En vigueur : 01-01-2008 ; voir également l'art. 13&gt;
+
+----------
+
+(1)&lt;L 2016-10-28/07, art. 8, 055; En vigueur : 01-06-2017&gt;
+
+(2)&lt;L 2021-06-21/02, art. 20, 068; En vigueur : 23-08-2021&gt;
+
+(3)&lt;L 2023-12-19/08, art. 5, 075; En vigueur : 08-01-2024&gt;
+
+**Art. 211bis**
+
+&lt;L 10-10-1967, art. 149&gt; S'il y a jugement d'acquittement ou ordonnance de non-lieu, la juridiction d'appel ne peut prononcer la condamnation ou le renvoi qu'à l'unanimité de ses membres. La même unanimité est nécessaire pour que la juridiction d'appel puisse aggraver les peines prononcées contre l'inculpé. Il en est de même en matière de détention préventive, pour reformer une ordonnance favorable à l'inculpé.
+
+**Art. 212**
+
+Si le jugement est réformé parce que le fait [<sup>1</sup> ne constitue pas une infraction]<sup>1</sup>, la cour [...] renverra le prévenu, et statuera, s'il y a lieu, sur ses dommages-intérêts. &lt;L 10-07-1967, art. 1, 112°&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 146, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 213**
+
+&lt;Abrogé par L 2026-03-11/03, art. 120, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 214**
+
+Si le jugement est annulé parce que le [<sup>1</sup> fait est de nature à relever de la compétence de la cour d'assises]<sup>1</sup>, la cour [...] décernera, s'il y a lieu, le mandat de dépôt, ou même le mandat d'arrêt, et renverra le prévenu devant le fonctionnaire public compétent, autre toutefois que celui qui aura rendu le jugement ou fait l'instruction. &lt;L 10-07-1967, art. 1, 114°&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 148, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 215**
+
+Si le jugement est annulé pour violation ou omission non réparée de formes prescrites par la loi à peine de nullité, la cour [...] statuera sur le fond. &lt;L 10-07-1967, art. 1, 112°&gt;
+
+**Art. 215bis**
+
+[<sup>1</sup> anc. art. 216]<sup>1</sup> La partie civile, le prévenu, la partie publique, les personnes civilement responsables [<sup>2</sup> de l'infraction]<sup>2</sup>, pourront se pourvoir en cassation contre le jugement.
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 95, 049; En vigueur : 29-02-2016&gt;
+
+(2)&lt;L 2026-03-11/03, art. 149, 085; En vigueur : 01-09-2026&gt;
+
+#### CHAPITRE IIbis. [<sup>1</sup> Reconnaissance préalable de culpabilité]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-02-05/11, art. 96, 049; En vigueur : 29-02-2016&gt;
+
+**Art. 216**
+
+[<sup>1</sup> § 1er. Pour les faits qui ne paraissent pas être de nature à devoir être punis [<sup>3</sup> d'une peine de niveau 4 ou d'une peine plus lourde]<sup>3</sup>, le procureur du Roi peut, soit d'office, soit à la demande du suspect, de l'inculpé ou du prévenu ou de son avocat, proposer l'application de la procédure de reconnaissance préalable de culpabilité définie au présent article si le suspect, l'inculpé ou le prévenu reconnaît être coupable des faits qui lui sont imputés.
+
+Dans ce cas, il peut proposer l'application de toutes peines et mesures principales et accessoires que le juge pourrait légalement prononcer, éventuellement assorties des modalités prévues par la loi, en ce compris la suspension du prononcé de la condamnation et la [<sup>3</sup> condamnation par déclaration de culpabilité]<sup>3</sup> et avec application, le cas échéant, de [<sup>3</sup> l'article 62]<sup>3</sup> du Code pénal.
+
+Cette procédure ne s'applique pas aux faits:
+
+1° [<sup>3</sup> qui sont punissables d'une peine de niveau 7 ou 8;]<sup>3</sup>
+
+2° visés [<sup>3</sup> aux articles 138 à 149]<sup>3</sup> du Code pénal;
+
+3° visés [<sup>3</sup> aux articles 152 à 168, 171 à 174, 177 à 179, 183 et 185]<sup>3</sup> du Code pénal s'ils sont commis sur des mineurs ou à l'aide de mineurs;
+
+4° visés [<sup>3</sup> aux articles 96 à 98 et 100 à 102]<sup>3</sup> du Code pénal.
+
+§ 2. Le procureur du Roi peut également proposer l'application de la procédure définie au présent article pendant l'instruction, après l'avis obligatoire et contraignant du juge d'instruction quant à l'état d'avancement de l'instruction, ainsi qu'après la communication du dossier par le juge d'instruction conformément à l'article 127, § 1er. Il peut également la proposer lorsque le juge du fond est déjà saisi du fait.
+
+§ 3. Le procureur du Roi, s'il estime que la procédure définie au présent article peut être appliquée, informe le suspect, l'inculpé ou le prévenu, la victime connue et leurs avocats qu'ils peuvent prendre connaissance du dossier répressif, pour autant qu'ils n'en avaient pas encore la possibilité. Ils peuvent eux-mêmes et par leurs propres moyens, en prendre une copie gratuitement, sur place.
+
+§ 4. Le procureur du Roi fixe les jour, heure et lieu de la convocation du suspect, de l'inculpé ou du prévenu et de leur avocat ou peut leur communiquer une proposition écrite.
+
+L'avocat prend connaissance du dossier, de la proposition du procureur du Roi et des faits imputés au suspect, à l'inculpé ou au prévenu et informe celui-ci de ses droits, des conséquences de la reconnaissance de culpabilité dans la procédure en cours et dans le déroulement ultérieur de celle-ci.
+
+Si le suspect, l'inculpé ou le prévenu dispose de ressources insuffisantes, les articles 508/13 à 508/18 du Code judiciaire relatifs au bénéfice de la gratuité complète ou partielle de l'aide juridique de deuxième ligne sont intégralement d'application.
+
+Les déclarations par lesquelles le suspect, l'inculpé ou le prévenu reconnaît être coupable des faits qui lui sont imputés sont faites avec l'assistance d'un avocat de son choix ou qui lui est désigné. Le suspect, l'inculpé ou le prévenu peut reconnaître être coupable des faits qui lui sont imputés dans une déclaration écrite, datée et signée par lui et son avocat.
+
+Après avoir entendu les peines proposées par le procureur du Roi, le cas échéant après réception de la proposition du procureur du Roi, le suspect, l'inculpé ou le prévenu dispose du délai fixé par le procureur du Roi d'au moins un mois dans lequel il doit faire savoir au procureur du Roi s'il reconnaît ou non être coupable des faits qui lui sont imputés et accepte ou non les qualifications légales retenues et les peines proposées et dans lequel il peut conclure avec la victime un accord relatif à l'importance du dommage causé et au règlement de l'indemnisation. Ce délai peut être ramené à huit jours si l'inculpé ou le prévenu est en détention préventive.
+
+Le dommage éventuellement causé à autrui doit être entièrement réparé. La convention pourra aussi être proposée si le suspect, l'inculpé ou le prévenu a reconnu par écrit sa responsabilité civile pour le fait générateur du dommage et produit la preuve de l'indemnisation de la fraction non contestée du dommage et des modalités de règlement de celui-ci ou quand un plan de paiement a été convenu avec la victime en vue d'une indemnisation intégrale du dommage. En tout état de cause, la victime pourra faire valoir ses droits devant le tribunal civil compétent.
+
+Si le suspect, l'inculpé ou le prévenu marque son accord, sa déclaration par laquelle il reconnaît être coupable des faits qui lui sont imputés et accepte les peines proposées par le procureur du Roi sont actées dans une convention qui décrit avec précision la qualification pénale des faits, qui acte le montant de l'indemnisation à la victime et qui est signée tant par le suspect, l'inculpé ou le prévenu et son avocat que par le procureur du Roi.
+
+Pour les infractions fiscales ou sociales qui ont permis d'éluder des impôts ou des cotisations sociales, la procédure visée au présent article n'est possible qu'après le paiement des impôts ou des cotisations sociales éludés dont l'auteur de l'infraction est redevable, en ce compris les intérêts, et moyennant l'accord de l'administration fiscale ou sociale. Le montant des impôts ou cotisations sociales est consigné après la signature de la convention.
+
+La convention visée à l'alinéa 7 détermine également les objets ou avantages patrimoniaux à confisquer.
+
+§ 5. Si l'affaire n'est pas encore fixée devant un juge du fond, la convention fixe les lieu, jour et heure de l'audience du tribunal ou de la cour devant lequel le suspect, l'inculpé ou le prévenu et la victime connue ou leur avocat doivent comparaître, dans un délai qui ne peut pas être inférieur à dix jours et supérieur à deux mois. Une copie de la convention est remise immédiatement au suspect, à l'inculpé ou au prévenu et à la victime connue, ou lui est signifiée le cas échéant. La notification vaut citation vis-à-vis toutes les parties. Toutefois, lorsque l'affaire a déjà été fixée devant le juge du fond, la convention est soumise pour homologation lors de ladite audience.
+
+Lorsque le juge d'instruction a été chargé d'instruire, la convention est soumise pour homologation à la juridiction d'instruction. Le procureur du Roi transmet le dossier et la convention au greffe de la juridiction d'instruction. Le greffier donne avis à l'inculpé et la victime connue et leur avocat, par télécopie, par voie électronique ou par un envoi recommandé, des lieu, jour et heure de comparution. Le délai de comparution ne peut être inférieur à dix jours ou supérieur à deux mois. Lorsque l'inculpé est détenu préventivement, le délai est réduit à trois jours.
+
+§ 6. Le tribunal, la cour ou la juridiction d'instruction entend le prévenu ou l'inculpé et la victime connue et leur avocat en chambre du conseil sur l'accord conclu et les faits reconnus.
+
+Le tribunal, la cour ou la juridiction d'instruction vérifie s'il est satisfait à l'ensemble des conditions des paragraphes 1er à 4, si l'accord a été conclu de manière libre et éclairée et correspond à la réalité des faits et de leur qualification juridique, si les peines proposées par le procureur du Roi sont proportionnelles à la gravité des faits et à la personnalité du prévenu et si la victime connue a conclu l'accord relatif au montant de l'indemnisation et le règlement de celle-ci de manière libre et éclairée.
+
+Si le tribunal, la cour ou la juridiction d'instruction estime que tel est le cas, il homologue l'accord conclu et prononce les peines proposées lors de la reconnaissance de culpabilité par le prévenu. Le prévenu est condamné aux frais conformément à l'article 162, alinéa 1er, et à l'indemnité de procédure visée à l'article 1022 du Code judiciaire, conformément à l'article 162bis, alinéa 1er. Cette décision est prononcée en audience publique. Elle n'est susceptible d'aucun recours.
+
+Si le tribunal, la cour ou la juridiction d'instruction rejette la requête en homologation de l'accord conclu par décision motivée, le dossier est alors remis à la disposition du procureur du Roi afin d'agir selon le droit. La décision n'est susceptible d'aucun recours. Le juge qui a décidé de l'homologation ne peut plus prendre connaissance de l'affaire.
+
+La convention signée par le prévenu et le procureur du Roi, les documents rédigés et communications faites pendant la concertation dans le cadre de la procédure, ainsi que toutes les autres pièces de la procédure y afférentes, sont dans le dernier cas écartés du dossier et déposés au greffe du tribunal de première instance.
+
+Aussi longtemps que la convention n'est pas homologuée par un jugement ou un arrêt coulé en force de chose jugée, les pièces visées ci-dessus ne peuvent pas être utilisées à charge du suspect, de l'inculpé ou du prévenu dans une autre procédure pénale, civile, administrative, arbitrale ou autre et ne sont pas admissibles comme preuve, même au titre d'aveu extrajudiciaire.
+
+Tant qu'il n'est pas signé de convention, les pièces rédigées dans le cadre des paragraphes 1er, 2, 4 et 5 ne peuvent être ni versées au dossier, ni consultées.
+
+§ 7. Le tribunal, la cour ou la juridiction d'instruction se prononce sur la demande d'homologation, soit à l'audience, soit dans le mois suivant la première audience. Le tribunal, la cour ou la juridiction d'instruction peut décider de poursuivre l'examen de l'affaire à la requête du procureur du Roi et du prévenu s'il s'avère nécessaire d'adapter la convention.
+
+§ 8. Le droit visé aux paragraphes 1er et 2, appartient aussi, pour les mêmes faits, à l'auditeur du travail, au procureur fédéral et au procureur général en degré d'appel et, pour les personnes visées [<sup>2</sup> à l'article 479]<sup>2</sup>, au procureur général près la cour d'appel.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+(2)&lt;L 2024-05-15/03, art. 38, 082; En vigueur : 07-06-2024&gt;
+
+(3)&lt;L 2026-03-11/03, art. 150, 085; En vigueur : 01-09-2026&gt;
+
+#### CHAPITRE IIter . [<sup>1</sup> - Des promesses relatives à l'action publique, à l'exécution de la peine ou à la détention consenties à la suite d'une déclaration.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+##### Section 1re. [<sup>1</sup> - Disposition générale]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+**Art. 216/1**
+
+[<sup>1</sup> Le procureur du Roi peut faire une promesse dans le cadre de l'exercice de l'action publique, de l'exécution de la peine ou de la détention à toute personne qui fait des déclarations substantielles, révélatrices, sincères et complètes concernant la participation de tiers et, le cas échéant, sa propre participation, au sujet d'infractions commises ou ayant fait l'objet d'une tentative, visées à l'article 90ter, §§ 2 à 4, et énoncées dans un mémorandum si les nécessités de l'enquête l'exigent et si les autres moyens d'investigation ne semblent pas suffire à la manifestation de la vérité.
+
+Le procureur du Roi organise une concertation confidentielle avec cette personne et son avocat afin de formuler des promesses proportionnelles à la lumière des déclarations que fera cette personne, de l'infraction commise par elle, de l'infraction sur laquelle porteront ses déclarations et de la gravité des éventuelles conséquences de ces infractions, ainsi que d'éventuelles circonstances atténuantes.
+
+La faculté visée au présent chapitre appartient aussi, pour les mêmes infractions, à l'auditeur du travail, au procureur fédéral et au procureur général en degré d'appel et, pour les personnes visées [<sup>2</sup> à l'article 479]<sup>2</sup>, au procureur général près la cour d'appel.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+(2)&lt;L 2024-05-15/03, art. 39, 082; En vigueur : 07-06-2024&gt;
+
+##### Section II. [<sup>1</sup> - Mémorandum avec la personne visée à l'article 216/1]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+**Art. 216/2**
+
+[<sup>1</sup> § 1er. Le procureur du Roi et la personne visée à l'article 216/1 signent un mémorandum écrit. Le mémorandum est daté et contient les mentions suivantes:
+
+1° les données d'identité de la personne visée à l'article 216/1;
+
+2° le nom de l'avocat qui assiste la personne visée à l'article 216/1 lors de la conclusion du mémorandum;
+
+3° le procureur du Roi de l'arrondissement judiciaire dans lequel ont été commises les infractions au sujet desquelles la personne visée à l'article 216/1 indique qu'elle fera une déclaration et le procureur du Roi de l'arrondissement judiciaire dans lequel la personne visée à l'article 216/1 fait l'objet d'une information ou d'une instruction ou dans lequel elle est condamnée;
+
+4° l'indication précise et détaillée:
+
+a) des faits qui peuvent être imputés à la personne visée à l'article 216/1, pour lesquels elle est poursuivie ou est déjà condamnée, ainsi que les peines qui, dans ce dernier cas, lui ont été infligées, et les peines qui font l'objet de la promesse du procureur du Roi;
+
+b) des faits au sujet desquels la personne visée à l'article 216/1 indique qu'elle fera une déclaration;
+
+c) de la teneur de la promesse du procureur du Roi;
+
+d) des conditions liées à la promesse du procureur du Roi, qui comprennent dans tous les cas les conditions prévues à l'article 216/6, 2° à 6° ;
+
+e) des conditions et des modalités relatives à la déclaration de la personne visée à l'article 216/1;
+
+f) de la volonté d'indemniser le dommage.
+
+§ 2. Le mémorandum ne peut être conclu que moyennant:
+
+1° un accord préalable des procureurs généraux compétents;
+
+2° un avis préalable de la commission de protection des témoins concernant la possibilité de prendre des mesures de protection, dont il pourra être décidé ultérieurement;
+
+3° un avis préalable du procureur fédéral;
+
+Si la personne visée à l'article 216/1 fait l'objet d'une instruction ou si ses déclarations sont déposées dans le cadre d'une instruction en cours, le juge d'instruction remet un avis préalable et contraignant sur l'état d'avancement de l'instruction. Il procède à cet effet à un contrôle de fiabilité afin de vérifier si la personne visée à l'article 216/1 est effectivement en mesure de fournir des informations utiles dans le cadre de la recherche de la vérité. Le juge d'instruction peut toujours décider de ne pas remettre d'avis s'il ne l'estime pas opportun.
+
+§ 3. Les procureurs généraux compétents prennent une décision par consensus.
+
+§ 4. Le mémorandum est conclu et signé en présence d'un avocat du choix de la personne visée à l'article 216/1 ou qui lui est désigné par le bâtonnier.
+
+La personne visée à l'article 216/1 peut à tout moment se concerter confidentiellement avec son avocat hors la présence du procureur du Roi.
+
+§ 5. Le mémorandum est établi en trois exemplaires signés. Un exemplaire est remis à la personne visée à l'article 216/1, un deuxième est versé au dossier répressif relatif à l'infraction pour laquelle la personne visée à l'article 216/1 est poursuivie ou a été condamnée et un troisième est conservé par le procureur du Roi.
+
+Si la déclaration de la personne visée à l'article 216/1 est utilisée dans différents dossiers répressifs, une copie certifiée conforme du mémorandum est versée dans chacun de ces dossiers répressifs.
+
+L'exemplaire ou la copie certifiée conforme du mémorandum est versé au dossier répressif concerné au plus tard au moment où la première déclaration de la personne visée à l'article 216/1 y est versée.
+
+§ 6. Le procureur fédéral tient un registre de tous les mémorandums établis. Une copie certifiée conforme de chaque mémorandum signé par le procureur du Roi est transmise au procureur fédéral et inscrite au registre.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+##### Section III.
+
+&lt;Abrogé par L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+**Art. 216/3**
+
+[<sup>1</sup> Le mémorandum visé à l'article 216/2 peut, moyennant l'accord du procureur du Roi et de la personne visée à l'article 216/1, être adapté ou complété.
+
+Les paragraphes 4 à 6 de l'article 216/2 s'appliquent par analogie.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+##### Section III. [<sup>1</sup> - Déclaration de la personne visée à l'article 216/1]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+**Art. 216/4**
+
+[<sup>1</sup> § 1er. Après signature du mémorandum, la personne visée à l'article 216/1 fait sa déclaration dans le délai fixé dans le mémorandum.
+
+§ 2. La personne visée à l'article 216/1 doit donner suite à chaque convocation du ministère public, du juge d'instruction et des juridictions d'instruction et de jugement.
+
+§ 3. Les déclarations faites par la personne visée à l'article 216/1 ne peuvent être prises en considération comme preuve que si elles sont corroborées dans une mesure déterminante par d'autres éléments de preuve.
+
+Il est référé au mémorandum dans chaque procès-verbal dans le cadre duquel une déclaration de la personne visée à l'article 216/1 est consignée en exécution du mémorandum.
+
+§ 4. Ni l'anonymat partiel au sens des articles 75bis et 155bis, ni l'anonymat complet au sens de l'article 86bis ne peuvent être accordés à une personne visée à l'article 216/1.
+
+§ 5. Si la personne visée à l'article 216/1 intervient également dans la même affaire en tant qu'infiltrant civil dans le cadre d'une infiltration civile visée à la sous-section 4bis du livre premier, chapitre IV, section III, le ministère public le mentionne sans délai dans le dossier confidentiel visé à l'article 47novies/3, § 1er, alinéa 2.
+
+Le ministère public mentionne dans un procès-verbal que la personne visée à l'article 216/1 est intervenue en tant qu'infiltrant civil dans la même affaire. Le procès-verbal n'est joint au dossier pénal par le ministère public qu'au moment où la chambre des mises en accusation est saisie sur la base de l'article 235ter.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+##### Section IV. [<sup>1</sup> - Contrôle de la mise en oeuvre des méthodes particulières de recherche]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+**Art. 216/5**
+
+[<sup>1</sup> Sauf si l'affaire est déjà pendante devant le juge du fond, la chambre des mises en accusation examine, sur réquisition du ministère public, la régularité des méthodes particulières de recherche d'observation, d'infiltration et d'infiltration civile et de la mesure visée à l'article 46sexies si un dossier confidentiel a été constitué, qui ont été appliquées dans le cadre d'une instruction ou d'une information à charge de la personne visée à l'article 216/1 avant que le mémorandum soit homologué.
+
+Dans ce cas, la chambre des mises en accusation entend la personne visée à l'article 216/1 et son avocat, le cas échéant la victime et son avocat en présence du procureur général, et séparément et en leur absence, les remarques du procureur général.
+
+L'article 235quater, § 2, alinéa 2, et §§ 3 et 4, et l'article 235ter, § 5, s'appliquent. L'arrêt de la chambre des mises en accusation ne s'applique que provisoirement à l'égard d'autres parties concernées par la même instruction ou information.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+##### Section V. [<sup>1</sup> - Révocation de la promesse]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+**Art. 216/6**
+
+[<sup>1</sup> La promesse peut être révoquée:
+
+1° si la personne visée à l'article 216/1 n'a pas respecté les conditions qu'elle avait acceptées dans le mémorandum;
+
+2° si la personne visée à l'article 216/1 est condamnée par un jugement ou un arrêt coulé en force de chose jugée pour des infractions commises après la date de la conclusion du mémorandum à une peine principale d'emprisonnement d'au moins six mois;
+
+3° si la personne visée à l'article 216/1 n'effectue pas les déclarations comme stipulé dans le mémorandum;
+
+4° si la personne visée à l'article 216/1 refuse d'indemniser le dommage;
+
+5° si la personne visée à l'article 216/1 a sciemment fait des déclarations incomplètes, non sincères ou non révélatrices concernant les faits visés;
+
+6° si, en vue d'entraver les poursuites concernant les faits visés, la personne visée à l'article 216/1 a tenté de faire disparaître des preuves ou de s'entendre avec des tiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+##### Section VI. [<sup>1</sup> - Promesse du ministère public dans le cadre de l'exercice de l'action publique]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-14/02, art. 15, 080; En vigueur : 02-05-2024&gt;
+
+**Art. 216/7**
+
+[<sup>1</sup> § 1er. Le ministère public peut, à condition de le mentionner dans le mémorandum, en prenant en considération la proportionnalité par rapport à l'infraction commise par la personne visée à l'article 216/1 et par rapport à l'infraction à propos de laquelle les déclarations sont effectuées, en prenant particulièrement en compte la gravité des conséquences possibles:
+
+1° [<sup>2</sup> promettre une peine d'un niveau inférieur avec application des circonstances atténuantes, concernant les infractions avec violences ou menaces et les infractions figurant au livre II, titre 4, chapitre 1er, du Code pénal qui ont été commises ou tentées par la personne visée à l'article 216/1;]<sup>2</sup>
+
+2° [<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> 2°]<sup>2</sup> promettre une [<sup>2</sup> condamnation par déclaration de culpabilité]<sup>2</sup>, ou une peine inférieure à la peine légale minimale prévue, ou encore une peine sous surveillance électronique, une peine de travail ou une [<sup>2</sup> peine de probation]<sup>2</sup>, concernant [<sup>2</sup> les infractions sans violences ou menaces qui ont été commises ou tentées par la personne visée à l'article 216/1, à l'exclusion des infractions figurant au livre II, titre 4, chapitre 1er, du Code pénal]<sup>2</sup>;
+
+[<sup>2</sup> 3°]<sup>2</sup> promettre une amende réduite, même en deçà du minimum légal, ou une confiscation [<sup>2</sup> ...]<sup>2</sup>, même en cas de confiscation obligatoire, mais à l'exception de la confiscation des substances et objets qui mettent en danger la sécurité publique ou la sécurité des personnes.
+
+Aucune promesse ne peut être faite concernant les peines visées aux articles 31 à 34 du Code pénal.
+
+§ 2. Lorsque le mémorandum est conclu pendant l'information, le ministère public cite la personne visée à l'article 216/1, [<sup>2</sup> ...]<sup>2</sup> ainsi que les victimes connues devant le tribunal compétent ou la cour compétente pour l'homologation du mémorandum, dans un délai que ne peut pas être inférieur à dix jours.
+
+Ensuite, dans un délai qui ne peut pas être inférieur à dix jours, le ministère public cite la personne visée à l'article 216/1, [<sup>2</sup> ...]<sup>2</sup> ainsi que les victimes connues devant le tribunal compétent ou la cour compétente pour statuer sur la peine conformément au prescrit de l'article 216/9 et sur les intérêts civils.
+
+§ 3. La promesse du ministère public est motivée. Le tribunal, la cour ou, pendant l'instruction et lors du règlement de la procédure, la juridiction d'instruction compétents entend le ministère public et la personne visée à l'article 216/1 et son avocat sur le mémorandum et sur les faits pour lesquels la personne visée à l'article 216/1 est poursuivie.
+
+Le cas échéant, le tribunal compétent, la cour compétente ou la juridiction d'instruction compétente entend également la victime ou son avocat sur les faits. La victime peut se constituer partie civile à l'audience du tribunal compétent, de la cour compétente ou, le cas échéant, de la juridiction d'instruction compétente.
+
+Le tribunal, la cour ou, pendant l'instruction et lors du règlement de la procédure, la juridiction d'instruction compétents vérifie la proportionnalité de la promesse visée au paragraphe 1er, si les conditions légales ont été remplies, si la personne visée à l'article 216/1 a accepté le mémorandum librement et en connaissance de cause, si les faits correspondent à leur qualification juridique correcte, si les faits pour lesquels la personne visée à l'article 216/1 est poursuivie et sur lesquels porte la promesse correspondent à la réalité, si les causes d'extinction ne sont pas présentes, si la volonté d'indemniser l'éventuel dommage est présente, si la personne visée à l'article 216/1 a fait des déclarations qui sont proportionnelles à la promesse, et si l'application de l'article 216/1 est nécessaire à la manifestation de la vérité. Il homologue ensuite la promesse et prononce les peines convenues.
+
+La décision d'homologation est motivée. Il n'y a pas de recours contre cette décision.
+
+Si la juridiction d'instruction a homologué la promesse, elle renvoie l'affaire[<sup>2</sup> ...]<sup>2</sup> devant le tribunal compétent ou la cour compétente pour statuer sur la peine conformément au prescrit de l'article 216/9 et sur les intérêts civils.
+
+Si [<sup>2</sup> l'infraction relève]<sup>2</sup> de la compétence de la cour d'assises, la juridiction d'instruction renvoie l'affaire au procureur général près la cour d'appel.
+
+§ 4. La procédure définie au présent chapitre ne peut plus être appliquée après l'arrêt de renvoi devant la cour d'assises conformément à l'article 231.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+(2)&lt;L 2026-03-11/03, art. 151, 085; En vigueur : 01-09-2026&gt;
+
+##### Section VIII.
+
+&lt;Abrogé par L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+**Art. 216/8**
+
+[<sup>1</sup> La décision de rejet de la promesse est motivée. Si, après le rejet de la promesse, un nouveau mémorandum est présenté, l'affaire contre la personne visée à l'article 216/1 est attribuée à une chambre autrement composée.
+
+Si la promesse est rejetée et aucun nouveau mémorandum n'est présenté, le mémorandum signé, les documents rédigés et les déclarations faites dans le cadre de la procédure, par la personne visée à l'article 216/1, ne peuvent pas servir à soutenir sa condamnation. Ils ne peuvent être utilisés à charge de la personne visée à l'article 216/1 dans une autre procédure pénale, civile, administrative, arbitrale ou autre et ne sont pas admissibles comme preuve, même comme aveu extrajudiciaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+**Art. 216/9**
+
+[<sup>1</sup> Le ministère public requiert, dans les limites des peines prévues pour l'infraction et dans les limites prévues par la loi, la peine qui est applicable dans le cas où la personne visée à l'article 216/1 ne respecte pas ou n'a pas respecté les conditions telles que contenues dans le mémorandum conformément à l'article 216/6.
+
+Le tribunal ou la cour compétent décide, dans les limites des peines prévues pour l'infraction, et de la loi en vertu de laquelle elle a été saisie, de la peine requise conformément à l'alinéa 1er et dont l'exécution est reportée, moyennant le respect des conditions. Le tribunal ou la cour compétent statue sur les intérêts civils.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+**Art. 216/10**
+
+[<sup>1</sup> § 1er. Lorsque [<sup>2</sup> l'infraction relève]<sup>2</sup> à comparaître à l'audience préliminaire à la personne visée à l'article 216/1, à la partie civile et à leurs avocats. Les articles 274 et 276 à 279 s'appliquent à la personne visée à l'article 216/1. Seuls les témoins susceptibles d'apporter des données concernant la gravité des faits et le degré de la peine sont mentionnés sur la liste visée à l'article 278.
+
+§ 2. Le procureur général fait signifier à la personne visée à l'article 216/1 et à la partie civile en un seul exploit:
+
+1° l'arrêt relatif à l'audience préliminaire,
+
+2° la citation à comparaître à l'audience qui sera consacrée à la composition du jury, et
+
+3° la citation à comparaître à l'audience pour statuer sur la peine conformément au prescrit de l'article 216/9.
+
+L'article 285, §§ 2 et 3, s'applique à la procédure à l'égard de la personne visée à l'article 216/1.
+
+§ 3. Les articles suivants s'appliquent à la personne visée à l'article 216/1:
+
+1° pour ce qui est des fonctions du président: les articles 254 à 256 en ce qui concerne l'accusé;
+
+2° pour ce qui est des fonctions du procureur général: les articles 260, 264, 265, 266 et 273;
+
+3° pour ce qui est de la procédure devant la cour d'assises, y compris les fonctions du président et du procureur général: les articles 280, alinéas 1er à 3, 281, § 1er, 281, § 2 sauf les dispositions relatives à la culpabilité, 282, 283, 284, 284bis, et 286;
+
+4° pour ce qui est de la composition du jury: les articles 287 à 289, 290, 292, alinéa 3, 293 à 318, 321 et 340.
+
+§ 4. Le procureur général requiert la peine qui sera applicable si la personne visée à l'article 216/1 ne respecte pas ou n'a pas respecté les conditions mentionnées dans le mémorandum conformément à l'article 216/6.
+
+Le président donne la parole à la personne visée à l'article 216/1 et à son conseil.
+
+La partie civile peut demander que les effets à confisquer qui lui appartiennent lui soient restitués.
+
+Les articles 343 à 346 s'appliquent à la personne visée à l'article 216/1.
+
+Les articles 347 à 352 s'appliquent à l'examen de l'action civile.
+
+Les articles 353 à 355 s'appliquent avec l'article 359 à la personne visée à l'article 216/1.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+(2)&lt;L 2026-03-11/03, art. 152, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 216/11**
+
+[<sup>1</sup> Si le ministère public estime que la personne visée à l'article 216/1 ne respecte pas ou n'a pas respecté les conditions contenues dans le mémorandum conformément à l'article 216/6 dans le délai qui est égal à la durée de la peine prononcée conformément à l'article 216/9, alinéa 2, il requiert auprès du tribunal ou de la cour l'application de la peine que le tribunal ou la cour avait prononcée. En cas de non-respect des conditions visées à l'article 216/6, 5° et 6°, ce délai est de cinq ans minimum.
+
+Le procureur général près la cour d'appel requiert l'application de la peine qui est prononcée par la cour d'assises conformément à l'article 216/10. La cour, sans le jury, statue de manière motivée sur l'exécution de cette peine.
+
+Le tribunal ou la cour entend la personne visée à l'article 216/1 et son avocat et le ministère public.
+
+S'il s'agit des conditions imposées dans l'intérêt de la victime, la victime est entendue à ce propos. La victime peut formuler ses remarques.
+
+Le tribunal ou la cour se prononce de manière autonome et motivée sur l'application de cette peine.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+##### Section VII. [<sup>1</sup> - Promesse du ministère public concernant l'exécution de la peine]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+**Art. 216/12**
+
+[<sup>1</sup> Le ministère public peut, à condition de le mentionner dans le mémorandum, dans le respect de la proportionnalité par rapport à l'infraction commise par la personne visée à l'article 216/1 et par rapport à l'infraction à propos de laquelle les déclarations sont effectuées, en prenant particulièrement en compte la gravité des conséquences possibles, et si la personne visée à l'article 216/1 ne constitue pas de danger pour la sécurité publique, promettre:
+
+1° d'émettre un avis favorable, comme prévu au titre VI de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine;
+
+2° dans le cadre de ses compétences, de prendre une décision favorable dans le cadre de l'exécution de la peine.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+##### Section VIII. [<sup>1</sup> - Promesse du ministère public lors de la phase de détention]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+**Art. 216/13**
+
+[<sup>1</sup> Le ministère public peut, à condition de le mentionner dans le mémorandum, dans le respect de la proportionnalité par rapport à l'infraction commise par la personne visée à l'article 216/1 et par rapport à l'infraction à propos de laquelle les déclarations sont effectuées et moyennant un accord préalable du directeur général des Etablissements pénitentiaires, faire une promesse concernant le placement et le transfèrement visé à l'article 18 de la loi de principes du 12 janvier 2005 concernant l'administration pénitentiaire ainsi que le statut juridique des détenus.
+
+Cette promesse ne peut porter préjudice aux compétences du directeur de prison dans le cadre de la discipline, de l'ordre et de la sécurité au sein de la prison.
+
+Le ministre compétent pour la justice prend les mesures nécessaires concernant la mise en oeuvre des facilités relatives au placement et au déplacement. L'exécution des mesures au sein de la prison est assurée par la direction générale des Etablissements pénitentiaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+##### Section IX. [<sup>1</sup> - Contrôle parlementaire]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+**Art. 216/14**
+
+[<sup>1</sup> Le ministre compétent pour la justice fait rapport annuellement à la Chambre des représentants sur l'application des articles 216/1 à 216/13.
+
+Il informe la Chambre des représentants du nombre d'informations et d'instructions ayant donné lieu à des mesures visées par ces articles, du nombre de personnes concernées et des résultats obtenus.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-14/02, art. 4, 080; En vigueur : 02-05-2024&gt;
+
+#### CHAPITRE III. - [DISPOSITIONS RELATIVES A L'EXTINCTION DE L'ACTION PUBLIQUE POUR CERTAINES INFRACTIONS, MOYENNANT LA REALISATION DE CERTAINES CONDITIONS] &lt;L 1994-02-10/43, art. 2, En vigueur : 01-11-1994&gt;
+
+##### Section 1re. [<sup>1</sup> Extinction de l'action publique moyennant le paiement d'une somme d'argent]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-18/14, art. 8, 057; En vigueur : 12-05-2018&gt;
+
+**Art. 216bis**
+
+&lt;L 28-06-1984, art. 1&gt; § 1. [<sup>3</sup> [<sup>6</sup> Pour autant que le fait ne paraisse pas]<sup>6</sup> être de nature à devoir être puni d'un emprisonnement [<sup>12</sup> emprisonnement principal de plus de deux ans ou d'une peine plus lourde pour des personnes physiques et une peine d'amende de plus de 360.000 euros pour des personnes morales]<sup>12</sup>, y compris la confiscation le cas échéant, et qu'il ne comporte pas d'atteinte grave à l'intégrité physique, [<sup>6</sup> le procureur du Roi peut inviter]<sup>6</sup> l'auteur à verser une somme d'argent déterminée au Service public fédéral Finances.]<sup>3</sup>
+
+[<sup>2</sup> Le procureur du Roi fixe les modalités et le délai de paiement et précise, dans l'espace et dans le temps, les faits pour lesquels il propose le paiement. Ce délai est de quinze jours au moins et de trois mois au plus. Le procureur du Roi peut prolonger ce délai quand des circonstances particulières le justifient, ou l'écourter si le suspect y consent.
+
+[<sup>6</sup> Le procureur du Roi, s'il estime que le présent paragraphe peut être appliqué, informe le suspect, la victime et leurs avocats qu'ils peuvent prendre connaissance du dossier répressif, pour autant qu'ils n'aient pas encore pu le faire. [<sup>7</sup> Ils peuvent eux-mêmes et par leurs propres moyens, en prendre une copie gratuitement, sur place.]<sup>7</sup>
+
+La prescription de l'action publique est suspendue dès la proposition du procureur du Roi ou dès la demande d'une des parties. La suspension court soit jusqu'à la décision de non-homologation de l'accord, soit jusqu'à la décision du procureur du Roi de ne pas appliquer cette disposition, soit jusqu'au constat de la non mise en oeuvre ou de la mise en oeuvre tardive de la transaction.]<sup>6</sup>]<sup>2</sup>
+
+[<sup>1</sup> [<sup>12</sup> Si l'infraction est punie d'une peine de niveau 1, la somme visée à l'alinéa 1er ne peut être supérieure au maximum de l'amende prévue pour cette peine par la loi et cette somme doit]<sup>12</sup> être proportionnelle à la gravité de l'infraction]<sup>2</sup>. Pour les infractions visées au Code pénal social, la somme prévue à l'alinéa 1er ne peut être inférieure à 40 pour-cent des montants minima de l'amende administrative, le cas échéant, multipliés par le nombre de travailleurs, candidats travailleurs, indépendants, [<sup>5</sup> stagiaires ou enfants concernés]<sup>5</sup>.]<sup>1</sup>
+
+Lorsque l'infraction a donné lieu à des frais d'analyse [<sup>9</sup> , de destruction, de conservation]<sup>9</sup> ou d'expertise, la somme fixée pourra être augmentée du montant ou d'une partie du montant de ces frais; la partie de la somme versée pour couvrir ces frais sera attribuée à l'organisme ou à la personne qui les a exposés. [<sup>6</sup> D'autres frais de justice peuvent également être ajoutés à la somme d'argent visée à l'alinéa 1er. Ils seront, au besoin, individualisés dans le texte de la transaction.]<sup>6</sup>
+
+[<sup>9</sup> Outre le montant prévu au premier alinéa, il est également perçu une redevance administrative, telle que visée au titre 4 de la loi-programme du 21 juin 2021, de 8,84 euros. Le montant de cette redevance administrative est automatiquement adapté le 1er janvier de chaque année en fonction de l'évolution de l'indice des prix à la consommation du mois de novembre de l'année précédente.]<sup>9</sup>
+
+[<sup>2</sup> Le procureur du Roi invite l'auteur de l'infraction [<sup>6</sup> donnant lieu ou pouvant donner lieu à confiscation]<sup>6</sup> à abandonner, dans un délai qu'il fixe, les biens ou avantages patrimoniaux saisis ou, s'ils ne sont pas saisis, à les remettre à l'endroit qu'il fixe.]<sup>2</sup> [<sup>8</sup> Les paiements effectués par le contrevenant sont d'abord affectés à cette redevance administrative]<sup>8</sup>
+
+Les paiements, abandon et remise effectués dans le délai indiqué éteignent l'action publique.
+
+Les préposés [<sup>2</sup> du Service public fédéral Finances]<sup>2</sup> informent le procureur du Roi du versement effectué.
+
+[...] &lt;L 1994-02-10/43, art. 2, 006; En vigueur : 01-11-1994&gt;
+
+§ 2. [<sup>2</sup> [<sup>6</sup> La faculté accordée au procureur du Roi par le paragraphe 1er peut également être exercée lorsque le juge d'instruction est déjà chargé d'instruire ou lorsque le tribunal ou la cour est déjà saisi du fait, pour autant qu'aucun jugement ou arrêt définitif n'ait été rendu au pénal.]<sup>6</sup>
+
+Le cas échéant, le procureur du Roi se fait communiquer le dossier répressif par le juge d'instruction, qui peut rendre un avis sur l'état d'avancement de l'instruction.
+
+[<sup>6</sup> Le procureur du Roi]<sup>6</sup>, s'il estime que le présent paragraphe peut être appliqué, informe le suspect, la victime et leurs avocats qu'ils peuvent prendre connaissance du dossier répressif, pour autant qu'ils n'aient pas encore pu le faire. [<sup>7</sup> Ils peuvent eux-mêmes et par leurs propres moyens, en prendre une copie gratuitement, sur place.]<sup>7</sup>
+
+Le procureur du Roi fixe le jour, l'heure et le lieu de la convocation du suspect, de l'inculpé ou du prévenu et de la victime et de leurs avocats, il explique son intention et il indique les faits, décrits dans le temps et dans l'espace, auxquels le paiement de la somme d'argent se rapportera. [<sup>6</sup> Dans le cas prévu au paragraphe 6, alinéa 2, le procureur du Roi informe l'administration fiscale ou sociale des faits décrits dans le temps et dans l'espace qui concernent des [<sup>12</sup> infractions fiscales ou sociales]<sup>12</sup>, auxquels se rapportera le paiement d'une somme d'argent.]<sup>6</sup>
+
+Il fixe le montant de la somme d'argent et des frais et indique les objets ou avantages patrimoniaux à abandonner ou à remettre, selon les modalités précisées au paragraphe 1er.
+
+[<sup>10</sup> Il peut en outre imposer une interdiction d'administrer à titre de mesure de sûreté, dans les mêmes conditions que celles prévues aux articles 1 et 4 de l'arrêté royal n° 22 du 24 octobre 1934 relatif à l'interdiction judiciaire faite à certains condamnés et faillis d'exercer certaines fonctions, professions ou activités.]<sup>10</sup>
+
+Il fixe le délai dans lequel le suspect, l'inculpé ou le prévenu et la victime peuvent conclure un accord relatif à l'importance du dommage causé et à l'indemnisation.
+
+Si les parties susmentionnées sont parvenues à un accord, elles en avisent le procureur du Roi, qui actera l'accord dans un procès-verbal.
+
+[<sup>6</sup> Sur réquisition motivée du procureur du Roi et après avoir vérifié s'il est satisfait aux conditions d'application légales du paragraphe 1er, alinéa 1er, si la victime et l'administration fiscale ou sociale ont été indemnisées conformément aux paragraphes 4 et 6, alinéa 2, si le suspect a accepté la transaction proposée de manière libre et éclairée et si la transaction proposée par le procureur du Roi est proportionnée à la gravité des faits et à la personnalité du suspect, le juge compétent statue sur la légalité de la transaction proposée et l'homologue. Pendant l'instruction et lors du règlement de la procédure, la juridiction d'instruction apprécie la proportionnalité de la transaction proposée dans le cadre de l'appréciation des charges. [<sup>10</sup> La décision d'homologation de la transaction, y compris celle de la juridiction d'instruction, est prononcée en audience publique.]<sup>10</sup> Si l'accord n'est pas homologué, le dossier est mis à la disposition du procureur du Roi. Dans ce cas, le juge, auquel l'accord a été soumis pour homologation, ne peut plus poursuivre l'examen du fond de l'affaire. De même, les documents rédigés et les communications orales faites pendant la concertation ne peuvent être utilisés à charge du suspect dans une procédure pénale, civile, administrative ou arbitrale, disciplinaire ou dans toute autre procédure visant à résoudre des conflits et ils ne sont pas admissibles comme preuve, même au titre d'aveu extrajudiciaire.
+
+Les documents que les parties ont fait parvenir dans le cadre des négociations leur sont rendus et le dossier des négociations est écarté du dossier répressif. Le dossier des négociations ne comprend aucune pièce originale susceptible de servir comme preuve de l'infraction.
+
+Tout usage des documents élaborés pendant les négociations ou de communications orales, qui aura eu pour but et pour effet de porter atteinte à la vie privée, à l'intégrité physique ou morale ou aux biens appartenant à une personne citée dans le dossier, est puni par les peines prévues à [<sup>12</sup> l'article 668]<sup>12</sup> du Code pénal.]<sup>6</sup>
+
+Conformément au paragraphe 1er, l'action publique s'éteint dans le chef de l'auteur qui aura accepté et observé [<sup>6</sup> , après homologation par le juge compétent,]<sup>6</sup> la transaction proposée par le procureur du Roi. Toutefois, la transaction ne porte pas atteinte à l'action publique contre les autres auteurs, [<sup>12</sup> ou participants]<sup>12</sup>, ni aux actions des victimes à leur égard. Les personnes condamnées du chef de la même infraction sont solidairement tenues aux restitutions et aux dommages et intérêts et, sans préjudice de [<sup>12</sup> l'article 68, alinéa 2]<sup>12</sup>, du Code pénal, au paiement des frais de justice, même si l'auteur qui a accepté la transaction s'en est déjà libéré.
+
+Quand une transaction est exécutée dans une affaire pendante et que l'action publique [<sup>6</sup> n'a pas encore fait l'objet d'un jugement ou arrêt définitif en matière pénale]<sup>6</sup>, le procureur du Roi ou le procureur général près la cour d'appel ou la cour du travail, selon le cas, en avise officiellement sans délai le tribunal de police, le tribunal correctionnel et la cour d'appel saisies [<sup>6</sup> ...]<sup>6</sup>.
+
+[<sup>6</sup> Si la somme d'argent visée au paragraphe 1er, alinéa 1er, n'est pas payée ou est payée partiellement, le juge saisi pour se prononcer sur les faits reprochés au suspect, sur lesquels l'accord portait, peut tenir compte, lors de la fixation de la peine, de la partie déjà payée.]<sup>6</sup>]<sup>2</sup>
+
+§ 3. [<sup>2</sup> Le droit prévu aux paragraphes 1er et 2 appartient aussi, pour les mêmes faits, à l'auditeur du travail, au procureur fédéral et au procureur général en degré d'appel et, pour les personnes visées [<sup>11</sup> à l'article 479]<sup>11</sup> du Code d'instruction criminelle, au procureur général près la cour d'appel.]<sup>2</sup>
+
+[§ 4. Le dommage éventuellement causé à autrui doit être entièrement réparé avant que la transaction puisse être proposée. Toutefois, elle pourra aussi être proposée si l'auteur a reconnu par écrit, sa responsabilité civile pour le fait générateur du dommage, et produit la preuve de l'indemnisation de la fraction non contestée du dommage et des modalités de règlements de celui-ci. En tout état de cause, la victime pourra faire valoir ses droits devant le tribunal [<sup>6</sup> civil]<sup>6</sup> compétent. [<sup>2</sup> Dans ce cas, le paiement de la somme d'argent par l'auteur constitue une présomption irréfragable de sa faute.]<sup>2</sup>.] &lt;L 1994-02-10/43, art. 1, 006; En vigueur : 01-11-1994&gt;
+
+§ 5. [<sup>2</sup> Les demandes visées au présent article se font par pli ordinaire.]<sup>2</sup>
+
+[<sup>2</sup> § 6. La transaction telle que décrite ci-dessus n'est pas applicable aux infractions sur lesquelles il peut être transigé conformément à l'article 263 de l'arrêté royal du 18 juillet 1977 portant coordination des dispositions générales relatives aux douanes et accises.
+
+Pour les infractions fiscales ou sociales qui ont permis d'éluder des impôts ou des cotisations sociales, la transaction n'est possible qu'après le paiement des impôts ou des cotisations sociales éludés dont l'auteur est redevable, en ce compris les intérêts, et moyennant l'accord de l'administration fiscale ou sociale.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 7, 040; En vigueur : 01-07-2011&gt;
+
+(2)&lt;L 2011-04-14/06, art. 84, 041; En vigueur : 16-05-2011&gt;
+
+(3)&lt;L 2011-07-11/02, art. 2, 042; En vigueur : 11-08-2011&gt;
+
+(4)&lt;L 2016-02-05/11, art. 98, 049; En vigueur : 29-02-2016&gt;
+
+(5)&lt;L 2016-02-29/09, art. 72, 051; En vigueur : 01-05-2016&gt;
+
+(6)&lt;L 2018-03-18/14, art. 9, 057; En vigueur : 12-05-2018&gt;
+
+(7)&lt;L 2019-05-05/19, art. 150, 064; En vigueur : 29-06-2019&gt;
+
+(8)&lt;L 2021-07-12/03, art. 3, 067; En vigueur : 30-07-2021&gt;
+
+(9)&lt;L 2021-06-21/02, art. 21, 068; En vigueur : 23-08-2021&gt;
+
+(10)&lt;L 2024-04-14/02, art. 5, 080; En vigueur : 02-05-2024&gt;
+
+(11)&lt;L 2024-05-15/03, art. 40, 082; En vigueur : 07-06-2024&gt;
+
+(12)&lt;L 2026-03-11/03, art. 153, 085; En vigueur : 01-09-2026&gt;
+
+**Art. 216bis/1**
+
+[<sup>1</sup> § 1er. Lorsque la somme d'argent visée à l'article 216bis, § 1er, n'a pas été payée dans le délai fixé, le procureur du Roi peut donner ordre au contrevenant de payer la somme prévue pour cette infraction, majorée de 35 %, et, le cas échéant, de la contribution au Fonds spécial d'aide aux victimes d'actes intentionnels de violence et aux sauveteurs occasionnels. En outre, [<sup>4</sup> une redevance administrative de 30,56 euros]<sup>4</sup> est également perçue. Le montant de cette redevance administrative est automatiquement adapté le 1er janvier de chaque année en fonction de l'évolution de l'indice des prix à la consommation du mois de novembre de l'année précédente. Les paiements effectués par le contrevenant sont d'abord affectés à la contribution au Fonds spécial d'aide aux victimes d'actes intentionnels de violence et aux sauveteurs occasionnels, et ensuite à cette redevance administrative. Le procureur du Roi fixe les modalités de paiement.
+
+L'alinéa 1 ne s'applique que dans les cas suivants:
+
+1° si la somme d'argent visée à l'article 216bis, § 1er, est de sept cent cinquante euros au plus;
+
+2° si le paiement de la somme visée à l'article 216bis, § 1er, est demandé pour une infraction punissable en vertu de l'article 22 de la loi du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs;
+
+3° si le paiement de la somme visée à l'article 216bis, § 1er, est demandé pour une infraction punissable en vertu de l'article 4 de la loi du 21 juin 1985 relative aux conditions techniques auxquelles doivent répondre tout véhicule de transport par terre, ses éléments ainsi que les accessoires de sécurité et les arrêtés d'exécution de cette loi.
+
+§ 2. L'ordre visé au paragraphe 1er, alinéa 1er, est transmis au contrevenant par envoi recommandé, par pli judiciaire ou conformément à l'article 32ter du Code judiciaire et comporte au moins:
+
+1° la date;
+
+2° les faits incriminés et les dispositions légales ou réglementaires violées;
+
+3° la date, l'heure et le lieu de l'infraction;
+
+4° l'identité du contrevenant;
+
+5° le numéro du procès-verbal;
+
+6° le montant de la somme à payer;
+
+7° le jour où la somme doit être payée au plus tard;
+
+8° la manière dont et le délai dans lequel le recours peut être introduit, ainsi que le tribunal de police ou tribunal correctionnel compétent;
+
+9° la manière dont le dossier pénal peut être consulté.
+
+L'ordre de paiement est réputé reçu le dixième jour ouvrable après la date de l'ordre de paiement visée à l'alinéa 2, 1°.
+
+Le paiement est effectué dans un délai de [<sup>4</sup> trente jours]<sup>4</sup> suivant le jour de la réception de l'ordre. Le paiement effectué dans le délai indiqué éteint l'action publique.
+
+§ 3. La personne qui a reçu l'ordre de paiement ou son avocat peut, dans les [<sup>4</sup> trente jours]<sup>4</sup> suivant le jour de la réception de celui-ci, introduire un recours contre l'ordre de paiement auprès du tribunal de police ou du tribunal correctionnel compétent.
+
+Dans le cas mentionné au paragraphe 1er, alinéa 2, 1°, le recours est introduit par requête déposée au greffe du tribunal de police ou tribunal correctionnel compétent ou par envoi recommandé ou par courrier électronique, adressés au greffe. Dans ces derniers cas, la date d'envoi de l'envoi recommandé ou du courrier électronique a valeur de date d'introduction de la requête. L'envoi recommandé est réputé avoir été envoyé le troisième jour ouvrable précédant sa réception au greffe.
+
+Dans les cas visés au paragraphe 1er, alinéa 2, 2° et 3°, le recours est introduit par une requête déposée au greffe du tribunal de police compétent ou par courrier recommandé ou électronique adressé au greffe. Dans ces derniers cas, la date d'envoi du courrier recommandé ou du courrier électronique a valeur de date à laquelle la requête a été déposée. Le courrier recommandé est réputé avoir été envoyé le troisième jour de travail avant sa réception au greffe.
+
+Le Roi peut déterminer les modalités de la manière dont l'appel, visé aux alinéas 2 et 3, peut être introduit.
+
+La requête mentionne, à peine de nullité:
+
+1° le nom, le prénom et le domicile de la partie qui introduit le recours;
+
+2° le numéro du procès-verbal ou le numéro de système, mentionné sur l'ordre de paiement;
+
+3° qu'il s'agit d'un recours contre un ordre de paiement;
+
+4° les motifs du recours.
+
+Cette requête contient élection de domicile en Belgique, si le requérant n'y a pas son domicile.
+
+La requête est inscrite dans le registre prévu à cet effet.
+
+La prescription de l'action publique est suspendue à partir de la date de l'introduction de la requête jusqu'au jour où le jugement ou arrêt est passé en force de chose jugée.
+
+Le requérant est convoqué par le greffier, par pli judiciaire, conformément à l'article 32ter du Code judiciaire ou par envoi recommandé, dans les trente jours de l'inscription de la requête au registre, à comparaître à l'audience fixée par le juge. Le greffier adresse au ministère public la copie de la requête et lui indique la date d'audience.
+
+Dans le cas visé au paragraphe 1er, alinéa 2, 1°, le tribunal de police ou le tribunal correctionnel est saisi par le recours de l'intégralité de la cause et examine préalablement la recevabilité du recours.
+
+Dans les cas visés au paragraphe 1er, alinéa 2, 2° et 3°, le tribunal de police est saisi de l'intégralité de la cause et examine préalablement la recevabilité du recours.
+
+Si le recours est déclaré recevable, l'ordre de paiement est réputé non avenu. Le tribunal examine au fond les infractions qui fondent l'ordre de paiement et, si celles-ci s'avèrent établies, fait application de la loi pénale.
+
+La personne condamnée par défaut peut faire opposition au jugement en vertu de la procédure prévue à l'article 187.
+
+Le jugement rendu par le tribunal de police ou le tribunal correctionnel est susceptible d'appel selon des dispositions prévues par le présent Code.
+
+§ 4. Les ordres de paiement impayés contre lesquels aucun recours n'a été introduit, sont exigibles et [<sup>2</sup> peuvent être déclarés exécutoires]<sup>2</sup> par le procureur du Roi.
+
+Dans les cas visés au paragraphe 1er, alinéa 2, 2° et 3°, les ordres de paiement impayés, contre lesquels aucun recours n'a été interjeté, et qui sont donc exigibles, peuvent également être déclarés exécutoires par un juriste de parquet désigné par le procureur du Roi.
+
+[<sup>2</sup> La déclaration du procureur du Roi ou du juriste de parquet désigné par lui de rendre l'ordre de paiement exécutoire éteint l'action publique.]<sup>2</sup>
+
+§ 5. Sans préjudice de l'application de l'article 27 de la loi du 5 août 2006 relative à l'application du principe de reconnaissance mutuelle des décisions judiciaires en matière pénale entre les Etats membres de l'Union européenne, le procureur du Roi donne l'ordre à l'administration qui, au sein du Service public fédéral Finances, est compétente pour le recouvrement des créances non fiscales, de recouvrer les sommes inclues dans les titres exécutoires visés au paragraphe 4, selon les règles applicables à l'exécution forcée des sanctions pénales, y compris la saisie-arrêt simplifiée visée à l'article 101 du règlement général sur les frais de justice en matière répressive.
+
+§ 6. Le recouvrement est fondé sur un extrait des titres exécutoires visées au paragraphe 4, rédigé par les fonctionnaires du Service Public Fédéral Finances chargés du recouvrement.
+
+Le transfert par ces fonctionnaires d'un extrait à l'huissier, indiquant la date du titre exécutoire des titres exécutoires, sert de procuration pour toutes les exécutions.
+
+§ 7. Le Roi peut déterminer la manière de rédiger et de notifier les titres exécutoires et les quittances.
+
+§ 8. Lorsque le contrevenant prouve qu'il n'a pas pu prendre connaissance de l'ordre de paiement dans le délai visé au paragraphe 3, il peut encore introduire le recours visé au paragraphe 2 dans un délai de quinze jours suivant le jour où il a eu connaissance de cet ordre ou suivant le premier acte de recouvrement de la somme effectué par l'administration compétente du Service Public Fédéral Finances ou à la poursuite de celle-ci. Le paragraphe 3 s'applique.
+
+Dans ce cas, la prescription de l'action publique est suspendue à partir de la date à laquelle l'ordre de paiement est devenu exécutoire de plein droit jusqu'au jour où le contrevenant introduit le recours.
+
+§ 9. Les [<sup>3</sup> articles 69 et 74, § 2,]<sup>3</sup> du Code pénal et l'article 29 de la loi du 1er août 1985 portant des mesures fiscales et autres, s'appliquent à cette procédure.
+
+§ 10. Lorsque l'administration compétente au sein du Service public fédéral Finances pour le recouvrement des créances non fiscales ne peut recouvrer la somme visée au paragraphe 1er dans un délai de trois ans suivant la réception du titre exécutoire, elle en informe le procureur du Roi.
+
+§ 11. Le recouvrement visé au paragraphe 4, est prescrit après cinq ans révolus à compter du jour où l'ordre de paiement est devenu exécutoire de plein droit.
+
+§ 12. Le droit prévu au paragraphe 1er appartient aussi, pour les mêmes faits, à l'auditeur du travail, au procureur fédéral et au procureur général en degré d'appel et, pour les personnes visées [<sup>2</sup> à l'article 479]<sup>2</sup> du Code d'instruction criminelle, au procureur général près la cour d'appel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-31/02, art. 5, 074; En vigueur : 19-08-2023&gt;
+
+(2)&lt;L 2024-05-15/03, art. 41, 082; En vigueur : 07-06-2024&gt;
+
+(3)&lt;L 2026-03-11/03, art. 154, 085; En vigueur : 01-09-2026&gt;
+
+(4)&lt;L 2026-06-24/11, art. 2, 086; En vigueur : 24-07-2026&gt;
+
+##### Section 2. [<sup>1</sup> Extinction de l'action publique moyennant l'exécution de mesures et le respect des conditions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-18/14, art. 10, 057; En vigueur : 12-05-2018&gt;
+
+**Art. 216ter**
+
+[<sup>1</sup> § 1er. Le procureur du Roi peut inviter le suspect, pour autant que le fait ne paraisse pas être de nature à devoir être puni d'un emprisonnement [<sup>5</sup> emprisonnement principal de plus de deux ans ou d'une peine plus lourde pour des personnes physiques et une peine d'amende de plus de 360.00 euros pour des personnes morales]<sup>5</sup> et à condition que le suspect d'une infraction reconnaisse, le cas échéant, sa responsabilité civile dans le fait, à indemniser ou réparer le dommage éventuel et, le cas échéant, à consentir à une ou plusieurs mesures qui lui sont proposées en application de l'alinéa 5.
+
+Si l'infraction a causé un dommage à une victime connue, le procureur du Roi peut inviter la victime et le suspect à consentir à une médiation sur l'indemnisation ou la réparation ainsi que sur ses modalités. Il est assisté à cette fin par le service compétent des communautés.
+
+Le procureur du Roi, s'il estime que le présent paragraphe peut être appliqué, informe le suspect, la victime et leurs avocats qu'ils peuvent prendre connaissance du dossier répressif, pour autant qu'ils n'aient pas encore pu le faire. [<sup>2</sup> Ils peuvent eux-mêmes et par leurs propres moyens, en prendre une copie gratuitement, sur place.]<sup>2</sup>
+
+La prescription de l'action publique est suspendue dès la proposition du procureur du Roi ou dès la demande d'une des parties. La suspension court soit jusqu'à la décision de non-homologation de l'accord, soit jusqu'à la décision du procureur du Roi de ne pas appliquer cette disposition, soit jusqu'au constat de la non mise en oeuvre ou de la mise en oeuvre tardive des conditions proposées, visées aux alinéas 1er et 2, ou des mesures proposées, visées à l'alinéa 5.
+
+Sans préjudice de l'alinéa 2, le procureur du Roi peut toujours proposer une ou plusieurs des mesures suivantes, à exécuter par le suspect durant une période qui ne peut excéder un an :
+
+1° suivre un traitement médical ou toute autre thérapie adéquate et en fournir régulièrement la preuve, si un problème comportemental, la circonstance d'une maladie ou une assuétude semble être à la base de l'infraction;
+
+2° exécuter un travail d'intérêt général de cent vingt heures maximum. Le travail d'intérêt général est effectué gratuitement par le suspect pendant le temps laissé libre par ses éventuelles activités scolaires ou professionnelles, uniquement auprès des services publics de l'Etat, des communes, des provinces, des communautés et des régions ou auprès d'associations sans but lucratif ou de fondations à but social, scientifique ou culturel. Le travail d'intérêt général ne peut consister en une activité qui, dans le service public ou l'association désignés, est généralement effectuée par des travailleurs rémunérés;
+
+3° suivre une formation de cent vingt heures maximum.
+
+§ 2. Si le suspect de l'infraction consent aux conditions proposées, visées au paragraphe 1er, alinéas 1er et/ou 2, et aux mesures proposées, visées au paragraphe 1er, alinéa 5, le procureur du Roi communique sa décision d'exécution au service compétent des communautés [<sup>4</sup> du lieu des faits, qui désigne sans délai un responsable qui sera chargé de l'élaboration et du suivi tant en ce qui concerne, le cas échéant, la médiation que les mesures]<sup>4</sup>. [<sup>4</sup> Le cas échéant, si cela est jugé approprié aux fins du suivi des mesures, le service compétent des communautés du lieu des faits peut transférer le dossier directement au service compétent des communautés du lieu de la résidence du suspect en ce qui concerne la mise en oeuvre des mesures.]<sup>4</sup>
+
+Le service compétent des communautés informe le suspect de l'infraction de la procédure et des conséquences juridiques.
+
+Après avoir entendu le suspect de l'infraction et tenant compte des observations de celui-ci, de ses capacités physiques et intellectuelles ainsi que des indications du procureur du Roi, le service compétent des communautés entreprend les démarches nécessaires afin de donner un contenu concret aux mesures proposées.
+
+Le suspect de l'infraction et le service compétent des communautés élaborent une proposition visant à donner un contenu concret aux mesures et conditions proposées, laquelle est fixée dans une convention acceptée et signée par le suspect.
+
+Si le procureur du Roi marque son accord sur la convention, il la signe également et une copie de celle-ci est communiquée au responsable du service compétent des communautés et au suspect. Si la médiation sur l'indemnisation ou la réparation et ses modalités n'ont pas été achevées, la victime est informée de la continuation du dossier en ce qui concerne les mesures axées sur l'auteur. Le procureur du Roi peut, à tout moment, sur requête écrite, apporter des précisions ou des modifications, à la demande du service compétent des communautés ou du suspect de l'infraction.
+
+Le service compétent des communautés est en charge du suivi et du contrôle de l'exécution des mesures.
+
+Le service ou la personne auprès duquel ou de laquelle les mesures sont exécutées, transmet au moins un rapport écrit sur l'exécution des mesures au service compétent des communautés.
+
+Le rapport traite des points suivants :
+
+\- les présences et, le cas échéant, les absences de l'intéressé ou l'arrêt unilatéral des mesures;
+
+\- les difficultés éventuelles rencontrées dans le cadre de l'exécution des mesures et les situations comportant un risque sérieux pour des tiers.
+
+En cas d'inexécution totale ou partielle de la convention, le service compétent des communautés en informe sans délai le procureur du Roi. En pareil cas, le procureur du Roi peut convoquer le suspect de l'infraction, entendre celui-ci en ses observations et décider de poursuivre l'exécution de la convention, assortie le cas échéant de précisions ou de modifications, ou de mettre fin à la convention.
+
+§ 3. Lorsque l'infraction a donné lieu à des frais d'analyse ou d'expertise, les mesures visées au paragraphe 1er ne peuvent être proposées que si le suspect s'engage à payer ces frais dans le délai fixé par le procureur du Roi. D'autres frais de justice peuvent également être imputés.
+
+§ 4. Le procureur du Roi invite le suspect de l'infraction qui donne ou peut donner lieu à une confiscation à abandonner, dans un délai qu'il fixe, les biens ou avantages patrimoniaux saisis ou, s'ils ne sont pas saisis, à les remettre à l'endroit qu'il fixe.
+
+§ 5. Lorsque le suspect de l'infraction a satisfait à toutes les mesures et conditions formulées dans la convention, qui étaient le cas échéant homologuées par le juge compétent, l'action publique est éteinte.
+
+En outre, si un dommage a été causé à un tiers, l'action publique n'est éteinte que si le suspect reconnaît par écrit sa responsabilité civile pour le fait générateur du dommage et produit la preuve de l'indemnisation ou de la réparation de la fraction non contestée du dommage et des modalités de règlement de celui-ci.
+
+En tout état de cause, la victime pourra faire valoir ses droits devant le tribunal civil compétent. L'extinction de l'action publique ne porte pas préjudice aux droits des personnes subrogées dans les droits de la ou des victimes qui n'ont pas été associées à la procédure prévue au paragraphe 1er. Vis-à-vis d'elles, l'acceptation de la proposition par le suspect constitue une présomption irréfragable de sa faute.
+
+§ 6. La faculté accordée au procureur du Roi par le paragraphe 1er peut également être exercée lorsque le juge d'instruction est déjà chargé d'instruire ou lorsque le tribunal ou la cour est déjà saisi du fait, pour autant qu'aucun jugement ou arrêt définitif n'ait été rendu au pénal.
+
+Le cas échéant, le procureur du Roi se fait communiquer le dossier répressif par le juge d'instruction qui peut rendre un avis sur l'état d'avancement de l'instruction.
+
+Le procureur du Roi, s'il estime que le présent paragraphe peut être appliqué, informe le suspect, la victime et leurs avocats qu'ils peuvent prendre connaissance du dossier répressif, pour autant qu'ils n'aient pas encore pu le faire.
+
+Si la faculté est exercée dans une affaire pendante et que l'action publique n'a pas encore fait l'objet d'un jugement ou d'un arrêt définitif, le procureur du Roi ou le procureur général près la cour d'appel, selon le cas, en avise officiellement sans délai le tribunal de police, le tribunal correctionnel ou la cour d'appel saisi.
+
+Sur réquisition motivée du procureur du Roi et après avoir vérifié s'il est satisfait aux conditions d'application légales du paragraphe 1er, alinéa 1er, si le suspect a accepté les mesures proposées de manière libre et éclairée et si les mesures proposées par le procureur du Roi sont proportionnées à la gravité des faits et à la personnalité du suspect, le juge compétent statue sur la légalité de la convention proposée et homologue la convention. Pendant l'instruction judiciaire et lors du règlement de la procédure, la juridiction d'instruction apprécie la proportionnalité des mesures proposées dans le cadre de l'appréciation des charges. Si la convention n'est pas homologuée, le dossier est mis à la disposition du procureur du Roi. Dans ce cas, le juge, auquel la convention a été soumise pour homologation, ne peut plus poursuivre l'examen du fond de l'affaire. De même, les documents rédigés et les communications orales faites pendant la concertation ne peuvent être utilisés à charge du suspect dans une procédure pénale, civile, administrative ou arbitrale, disciplinaire ou dans toute autre procédure visant à résoudre des conflits et ils ne sont pas admissibles comme preuve, même au titre d'aveu extrajudiciaire.
+
+Les documents que les parties ont fait parvenir dans le cadre des négociations leur sont rendus et le dossier des négociations est écarté du dossier répressif. Le dossier des négociations ne comprend aucune pièce originale susceptible de servir comme preuve de l'infraction.
+
+Tout usage des documents élaborés pendant les négociations ou de communications orales qui aura eu pour but et pour effet de porter atteinte à la vie privée, à l'intégrité physique ou morale ou aux biens appartenant à une personne citée dans le dossier est puni par les peines prévues à [<sup>5</sup> l'article 668]<sup>5</sup> du Code pénal.
+
+La faculté prévue au paragraphe 1er appartient aussi, pour les mêmes faits, à l'auditeur du travail, au procureur fédéral et, pour les personnes visées [<sup>3</sup> à l'article 479]<sup>3</sup>, au procureur général près la cour d'appel.
+
+Si les mesures proposées, visées au paragraphe 1er, alinéa 5, ne sont pas mises en oeuvre ou le sont partiellement, le juge saisi pour se prononcer sur les faits reprochés au suspect, sur lesquels l'accord portait, peut tenir compte, lors de la fixation de la peine, de la partie mise en oeuvre des mesures proposées.
+
+§ 7. Lors de sa comparution devant le procureur du Roi, le suspect peut pour l'application du présent article se faire assister par un avocat; il ne peut pas se faire représenter.
+
+La victime peut se faire assister ou représenter par un avocat.
+
+§ 8. Le service compétent des communautés assiste le procureur du Roi dans les différentes phases de l'exécution du présent article.
+
+Les agents de ce service remplissent leur mission en collaboration étroite avec le procureur du Roi qui exerce un contrôle sur l'évolution du dossier.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-03-18/14, art. 11, 057; En vigueur : 12-05-2018&gt;
+
+(2)&lt;L 2019-05-05/19, art. 151, 064; En vigueur : 29-06-2019&gt;
+
+(3)&lt;L 2024-05-15/03, art. 42, 082; En vigueur : 07-06-2024&gt;
+
+(4)&lt;L 2026-02-08/04, art. 10, 084; En vigueur : 26-02-2026&gt;
+
+(5)&lt;L 2026-03-11/03, art. 155, 085; En vigueur : 01-09-2026&gt;
+
+#### CHAPITRE IV. - [De la convocation par procès-verbaux]. &lt;Inséré par L 1994-07-11/33, art. 13; En vigueur : 31-07-1994&gt;
+
+**Art. 216quater**
+
+&lt;L 2005-04-13/30, art. 3, 025 ; En vigueur : 13-05-2005&gt; § 1er. Le procureur du Roi peut convoquer une personne qui est arrêtée en application des articles 1er et 2 de la loi du 20 juillet 1990 relative à la détention préventive ou qui se présente devant lui, à comparaître devant le tribunal de police ou le tribunal correctionnel dans un délai qui ne peut être inférieur à dix jours, ni supérieur à deux mois.
+
+Il lui notifie les faits retenus à sa charge ainsi que les lieu, jour et heure de l'audience et l'informe du fait qu'elle a le droit de choisir un avocat. Si elle ne choisit aucun avocat, le procureur du Roi en informe le bâtonnier ou son délégué.
+
+Cette notification et cette formalité sont mentionnées dans un procès-verbal, dont copie lui est remise immédiatement.
+
+[<sup>4</sup> Le prévenu qui ne comprend pas la langue de la procédure reçoit, dans un délai raisonnable, la traduction écrite des passages pertinents de la notification dans une langue qu'il comprend et qu'il a choisie préalablement à la première audition conformément à l'article 47bis pour lui permettre d'avoir connaissance des faits qui lui sont reprochés et de se défendre de manière effective. Les frais de traduction sont à charge de l'Etat. Le secrétariat du parquet se charge de la demande de traduction du document et de l'envoi de celle-ci.]<sup>4</sup>
+
+La notification vaut citation à comparaître. L'avocat choisi ou, le cas échéant, le bâtonnier ou son délégué et la partie préjudiciée sont informés sans délai de la date de l'audience. [La convocation par procès-verbal est privilégiée en cas de poursuite intentée à l'encontre d'une personne ayant fait l'objet d'un dessaisissement en application de l'article 57bis de la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait.] &lt;L 2006-06-13/40, art. 29, 031; En vigueur : 01-10-2007; fixée au 01-10-2007 par AR 2007-02-25/38, art. 6&gt;
+
+[Le procureur du Roi communique les lieu, jour et heure de la comparution par tout moyen approprié aux victimes connues.][<sup>1</sup> Les victimes qui ne comprennent pas la langue de la procédure ont le droit d'obtenir une traduction de ces renseignements dans une langue qu'elles comprennent. La demande doit être déposée au greffe du tribunal compétent. La traduction est fournie dans un délai raisonnable. Les frais de traduction sont à charge de l'Etat.]<sup>1</sup>&lt;L 2006-05-17/35, art. 102, 030; En vigueur : 01-02-2007&gt;
+
+§ 2. Un jugement est prononcé [<sup>2</sup> dans le mois]<sup>2</sup> de l'audience prévue au § 1er. [...]. &lt;L 2008-07-24/35, art. 134, 035; En vigueur : 17-08-2008&gt;
+
+En cas d'opposition, le jugement est prononcé [<sup>2</sup> dans le mois]<sup>2</sup> de l'audience visée [<sup>3</sup> à l'article 187, § 3]<sup>3</sup>.
+
+En cas d'appel, l'affaire est fixée au plus tard à la première audience après l'expiration d'un délai d'un mois à dater de l'acte d'appel.
+
+----------
+
+(1)&lt;L 2016-10-28/07, art. 9, 055; En vigueur : 01-06-2017&gt;
+
+(2)&lt;L 2019-05-05/10, art. 43, 063; En vigueur : 03-06-2019&gt;
+
+(3)&lt;L 2021-11-28/01, art. 9, 070; En vigueur : 10-12-2021&gt;
+
+(4)&lt;L 2024-04-25/24, art. 7, 083; En vigueur : 27-06-2024&gt;
+
+#### CHAPITRE V. [<sup>1</sup> La procédure accélérée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-01-18/06, art. 7, 077; En vigueur : 05-02-2024&gt;
+
+**Art. 216quinquies**
+
+[<sup>1</sup> § 1er. Par dérogation à l'article 127, le procureur du Roi peut citer, aux fins de l'application de la procédure accélérée, devant le tribunal de police ou le tribunal correctionnel, une personne placée en détention préventive en application de l'article 16 de la loi du 20 juillet 1990 relative à la détention préventive, pour autant que le juge d'instruction estime que l'instruction est complète et que le dossier ait été communiqué dans ce but, sur réquisition du procureur du Roi.
+
+L'accord libre et éclairé de la personne arrêtée doit être confirmé, en présence de son avocat, devant le juge d'instruction, qui fait acte de l'accord dans un procès-verbal. A partir de ce moment, l'accord ne peut plus être retiré.
+
+Dès que le mandat d'arrêt est décerné et au plus tard à l'audience de la chambre du conseil visée à l'article 21 de la loi du 20 juillet 1990 précitée, le procureur du Roi procède à la citation.
+
+Le prévenu qui ne comprend pas la langue de la procédure reçoit, dans un délai raisonnable, la traduction des passages pertinents de la citation dans une langue qu'il comprend et qu'il a choisie lors de la première audition conformément à l'article 47bis, pour lui permettre d'avoir connaissance des faits qui lui sont reprochés et de se défendre de manière effective. Les frais de traduction sont à charge de l'Etat.
+
+§ 2. Les lieu, jour et heure de la comparution sont communiqués le plus rapidement possible et en tout cas dans les vingt-quatre heures après la notification visée au paragraphe 1er, troisième alinéa, par le moyen de communication écrit le plus rapide, aux victimes connues.
+
+Les victimes qui ne comprennent pas la langue de la procédure ont le droit d'obtenir une traduction de ces renseignements dans une langue qu'elles comprennent. La demande doit être déposée au greffe du tribunal compétent. La traduction est fournie dans un délai raisonnable. Les frais de traduction sont à charge de l'Etat.
+
+Après une demande écrite de la personne lésée, qui peut être introduite avant l'audience et en même temps que la déclaration prévue à l'article 5bis du Titre préliminaire du Code de procédure pénale, le dossier est mis à sa disposition ainsi qu'à celle de son avocat.
+
+§ 3. Le dossier est mis à la disposition au greffe en original ou en copie, et les parties peuvent en prendre connaissance et en lever copie, sans préjudice de l'application de l'article 21, § 3, de la loi du 20 juillet 1990 précitée. Elles peuvent elles-mêmes et par leurs propres moyens, prendre une copie du dossier gratuitement, sur place.
+
+§ 4. La comparution devant le tribunal a lieu dans un délai qui ne peut être inférieur à cinq jours ouvrables, ni supérieur à quinze jours, dès la citation.
+
+Le tribunal statue soit séance tenante, soit dans les cinq jours suivant l'audience prévue à l'alinéa 1er.
+
+§ 5. Le tribunal, après avoir recueilli les observations des parties et de leur avocat, peut d'initiative ou à la demande du prévenu, de la partie civile ou du ministère public, renvoyer une seule fois à une prochaine audience qui doit avoir lieu dans un délai qui commence à courir après la première audience et qui ne peut être supérieur à quinze jours.
+
+Le tribunal statue soit séance tenante, soit dans les cinq jours suivant la dernière audience prévue à l'alinéa 1er.
+
+§ 6. La chambre du conseil décide s'il y a lieu de maintenir la détention préventive, conformément à l'article 21, §§ 1 à 5, de la loi du 20 juillet 1990 précitée. Après l'audience de la chambre du conseil, cette compétence revient au tribunal.
+
+La mise en liberté provisoire peut être accordée sur requête adressée au tribunal, à partir de l'audience de la chambre du conseil visée à l'alinéa précédent, selon les modalités prévues à l'article 27, §§ 3 et 4, de la loi du 20 juillet 1990 précitée.
+
+§ 7. Le jugement est susceptible d'appel dans les formes et conditions prévues à l'article 209bis.]<sup>1</sup>
+
+(NOTE : par son arrêt n° 160/2025 du 4/12/2025 (2025-12-04/22, M.B. 17-02-2026, p. 8519), la Cour constitutionnelle a annulé le §1,L2 du présent article)
+
+----------
+
+(1)&lt;L 2024-01-18/06, art. 8, 077; En vigueur : 05-02-2024&gt;
+
+**Art. 216sexies**
+
+[<sup>1</sup> § 1. Si le tribunal estime que les conditions prévues à l'article 216quinquies, § 1, ne sont pas remplies ou que l'affaire n'est pas en état d'être jugée dans le cadre d'une procédure accélérée, le dossier est remis à la disposition du procureur du Roi et la citation peut être déclarée irrecevable.
+
+Dans ce cas, le tribunal statue par la même ordonnance sur le maintien du prévenu en détention jusqu'à la signification éventuelle d'un mandat d'arrêt dans les quarante-huit heures.
+
+La décision de maintien est valable pour un délai de quarante-huit heures. Elle mentionne la date et l'heure du prononcé et est motivée conformément à l'article 16, §§ 1er et 5, premier et deuxième alinéas, de la loi du 20 juillet 1990 relative à la détention préventive.
+
+L'ordonnance visée à l'alinéa 2 n'est susceptible d'aucun recours.
+
+§ 2. Le procureur du Roi peut procéder à la citation directe, à la convocation par procès-verbal ou requérir un juge d'instruction d'instruire et de délivrer un mandat d'arrêt dans les quarante-huit heures de l'ordonnance visée au paragraphe 1er, alinéa 2.
+
+Dans ce dernier cas, le suspect doit être interrogé par le juge d'instruction. Si celui-ci estime que la détention doit être maintenue, il peut délivrer un nouveau mandat d'arrêt auquel sont applicables les dispositions des chapitres III, IV et V de la loi précitée.
+
+Ce nouveau mandat d'arrêt est signifié à l'inculpé dans le délai prévu au paragraphe 1er, troisième alinéa.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-01-18/06, art. 9, 077; En vigueur : 05-02-2024&gt;
+
+**Art. 216septies**
+
+&lt;Abrogé par L 2024-01-18/06, art. 10, 077; En vigueur : 05-02-2024&gt;

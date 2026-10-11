@@ -1,0 +1,885 @@
+---
+title: "CODE D'INSTRUCTION CRIMINELLE. - LIVRE II, TITRE VII. (Art. 589 à 648)"
+identifier: "1808121650"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1808/12/16/1808121650/justel"
+type: code
+justel_type: "CODE D'INSTRUCTION CRIMINELLE"
+jurisdiction: be
+language: fr
+date: 1808-12-16
+published: 1808-12-26
+entry_into_force: 1809-01-05
+last_amended: 2026-03-18
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1808/12/16/1808121650/justel"
+justel_notes:
+  - "Pour des raisons techniques, le Code d'Instruction Criminelle est divisé en 8 parties, dont le Titre VII du deuxième Livre est la huitième"
+  - "Consultation des versions antérieures à partir du 05-02-1991 et mise à jour au 18-03-2026"
+retrieved: 2026-10-11
+---
+
+# 16 DECEMBRE 1808. - CODE D'INSTRUCTION CRIMINELLE. - LIVRE II, TITRE VII. (Art. 589 à 648)
+
+## TITRE VII. - DE QUELQUES OBJETS D'INTERET PUBLIC ET DE SURETE GENERALE.
+
+### CHAPITRE I. - [DU CASIER JUDICIAIRE CENTRAL.] &lt;L 1997-08-08/14, art. 2, 006; En vigueur : 03-09-2001&gt; (NOTE : les articles 589 à 599 abrogés par L 10-07-1967, art. 1, 229° ont été introduit dans cette partie du CIC par L 1997-08-08/14)
+
+##### Art. 589
+
+&lt;L 1997-08-08/14, art. 3, 006; En vigueur : 03-09-2001&gt; Le Casier judiciaire central, dénommé ci-après " le Casier judiciaire ", est un système de traitement automatisé tenu sous l'autorité du Ministre de la Justice, qui assure, conformément aux dispositions du présent chapitre, l'enregistrement, la conservation et la modification des données concernant les décisions rendues en matière pénale et de défense sociale. [<sup>3</sup> Le Service Public Fédéral Justice est considéré, comme le responsable du traitement, au sens de l'article 4, 7), du Règlement (UE) 2016/679 du Parlement Européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE.]<sup>3</sup>
+
+La finalité du Casier judiciaire est la communication des renseignements qui y sont enregistrés :
+
+1° aux autorités chargées de l'exécution des missions judiciaires en matière pénale;
+
+[<sup>3</sup> 1° /1 aux membres des services de police visés à l'article 593 qui sont chargés de l'exécution de missions de police administrative et judiciaire conformément aux articles 14 et 15 de la loi du 5 août 1992 sur la fonction de police;]<sup>3</sup>
+
+2° aux autorités administratives afin d'appliquer des dispositions nécessitant la connaissance du passé judiciaire des personnes concernées par des mesures administratives;
+
+[<sup>3</sup> 2° /1 aux membres des services de police visés à l'article 593 qui, dans le cadre d'autres missions prévues par ou en vertu de la loi, doivent avoir connaissance des antécédents judiciaires d'une personne physique ou d'une personne morale;
+
+2° /2 aux membres du personnel du Comité permanent de contrôle des services de police et de son Service d'enquêtes, visés à l'article 593, dans le cadre de l'exercice de leurs missions légales;
+
+2° /3 aux membres du personnel du Comité permanent de contrôle des services de renseignements et de sécurité et de son Service d'enquêtes, visés à l'article 593, dans le cadre de l'exercice de leurs missions légales;
+
+2° /4 aux membres et membres du personnel de l'Organe de contrôle de l'information policière et de son Service d'enquêtes, visés à l'article 593 dans le cadre de l'exercice de leurs missions légales;
+
+2° /5 aux membres du personnel de l'inspection générale de la police fédérale et de la police locale, visés à l'article 593, dans le cadre de l'exercice de leurs missions légales ;]<sup>3</sup>
+
+3° [<sup>2</sup> aux personnes physiques et aux personnes morales lorsqu'elles doivent produire un extrait de casier judiciaire;]<sup>2</sup>;
+
+4° aux autorités étrangères dans les cas prévus par des conventions internationales [<sup>1</sup> ou une règle de droit dérivé de l'Union européenne liant la Belgique]<sup>1</sup>.
+
+L'enregistrement des informations est effectué par les greffes des cours et tribunaux ou par le service du Casier judiciaire du [<sup>2</sup> Service public fédéral Justice]<sup>2</sup>.
+
+[<sup>2</sup> Ces informations peuvent servir de base à des statistiques établies et diffusées à l'initiative du Service public fédéral Justice.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 7, 021; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2016-12-25/14, art. 18, 030; En vigueur : 09-01-2017&gt;
+
+(3)&lt;L 2019-05-05/19, art. 28, 033; En vigueur : 29-06-2019&gt;
+
+##### Art. 590
+
+&lt;L 1997-08-08/14, art. 4, 006; En vigueur : 03-09-2001&gt; Pour chaque personne, le Casier judiciaire enregistre les informations suivantes :
+
+1° les condamnations à une peine [<sup>16</sup> ...]<sup>16</sup>;
+
+2° [<sup>16</sup> les décisions ordonnant la suspension du prononcé de la condamnation ou les décisions constatant la révocation de la suspension;]<sup>16</sup>
+
+2°bis. [<sup>5</sup> ...]<sup>5</sup>.
+
+3° les décisions prononçant la révocation du sursis [<sup>10</sup> , simple ou]<sup>10</sup> probatoire[<sup>16</sup> ...]<sup>16</sup>;
+
+4° [<sup>9</sup> les décisions d'internement, d'octroi ou de révocation de la libération à l'essai ou de la libération anticipée en vue de l'éloignement du territoire ou en vue de la remise, et de libération définitive, prises en application de la loi du 5 mai 2014 relative à l'internement.]<sup>9</sup> [<sup>13</sup> ainsi que les décisions imposant une mesure de sûreté pour la protection de la société, les décisions de privation de liberté prises en application de l'article 13 de la loi du 29 février 2024 en vue d'insérer une mesure de sûreté pour la protection de la société et les décisions d'octroi ou de révocation de la libération à l'essai ou de la libération anticipée en vue de l'éloignement du territoire ou en vue de la remise, et de libération définitive, prises en application de la présente loi;]<sup>13</sup>
+
+5° [<sup>4</sup> les décisions de mise à la disposition du tribunal de l'application des peines et de privation de liberté prises par application [<sup>16</sup> ...]<sup>16</sup> de l'article 95/7 de la loi du 17 mai 2006 relative au statut juridique externe des personnes condamnées à une peine privative de liberté et aux droits reconnus à la victime dans le cadre des modalités d'exécution de la peine;]<sup>4</sup>
+
+6° les décisions d'internement des condamnés visés à l'article 21 de la même loi, et celles ordonnant leur retour au centre pénitentiaire;
+
+7° [<sup>1</sup> les déchéances de l'autorité parentale et les réintégrations, les mesures prononcées à l'égard des mineurs, énumérées à l'article 63 de la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait, de même que les levées ou modifications de ces mesures décidées par le tribunal de la jeunesse en application de l'article 60 de la même loi;]<sup>1</sup>
+
+8° les arrêts d'annulation rendus par application des articles 416 à 442 ou des articles 443 à 447bis du présent code;
+
+9° les décisions de rétractation rendues par application des articles 10 à 14 de la loi spéciale du 6 janvier 1989 sur la [<sup>2</sup> Cour constitutionnelle]<sup>2</sup>;
+
+10° les décisions interprétatives ou rectificatives;
+
+11° les arrêts de réhabilitation rendus par application des articles 621 à 634 du présent code;
+
+12° les arrêtés de réhabilitation pris par application de l'arrêté-loi du 9 décembre 1943 sur la réhabilitation des gens de mer et sur l'extinction des poursuites répressives et des peines relatives à certaines infractions maritimes;
+
+13° les arrêtés de réhabilitation pris par application de l'arrêté-loi du 22 avril 1918 relatif à la réhabilitation militaire;
+
+14° les arrêtés de grâce;
+
+15° les décisions d'octroi ou de révocation de la libération conditionnelle;
+
+16° les décisions rendues en matière pénale par des juridictions étrangères à charge de Belges [<sup>10</sup> ou de personnes morales ayant leur siège social ou un siège d'exploitation en Belgique]<sup>10</sup>, qui sont notifiées au Gouvernement belge en vertu de conventions internationales [<sup>6</sup> ou d'une règle de droit dérivé de l'Union européenne liant la Belgique]<sup>6</sup>, ainsi que les mesures d'amnistie, d'effacement de condamnation ou de réhabilitation prises par une autorité étrangère, susceptibles d'affecter ces dernières décisions, qui sont portées à la connaissance du Gouvernement belge.
+
+[<sup>1</sup> 17° [<sup>16</sup> ...]<sup>16</sup>]<sup>1</sup>
+
+[<sup>1</sup> 18° l' interdiction visée à l'article 35, § 1er, alinéa 2, de la loi du 20 juillet 1990 relative à la détention préventive [<sup>10</sup> ...]<sup>10</sup>;]<sup>1</sup>
+
+[<sup>8</sup> 19° [<sup>11</sup> l'extinction de l'action publique conformément à l'article 216bis, § 2, et à l'article 216ter, § 6;]<sup>11</sup>]<sup>8</sup>
+
+[<sup>15</sup> 20° les interdictions portuaires visées à l'article 4, § 3bis, de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes et à l'article 4.1.2.48, § 4, du Code belge de la Navigation.]<sup>15</sup>
+
+Le Casier judiciaire enregistre également les peines accessoires ou subsidiaires et les mesures de sûreté, ainsi que le sursis, simple ou probatoire, assortissant les condamnations.
+
+Les condamnations qui auraient déjà été enregistrées et qui feraient l'objet d'une décision d'acquittement prononcée à la suite d'un recours en opposition introduit durant le délai extraordinaire d'opposition ou d'un renvoi après annulation, sont effacées du Casier judiciaire.
+
+[<sup>12</sup> Outre les données à caractère personnel visées à l'alinéa 1er, les références dactyloscopiques uniques visées dans l'arrêté royal du 11 mars 2019 relatif aux modalités d'interrogation directe de la Banque de données nationale générale visée à l'article 44/7 de la loi sur la fonction de police au profit du Service public fédéral Justice dans le but de contribuer à l'identification unique des détenus, si elles sont disponibles, sont enregistrées et traitées par le Casier judiciaire au profit des autorités et des personnes visées à l'article 589, alinéa 2, 4°, et à l'article 593 du présent Code.
+
+Les autorités administratives visées à l'article 594 du présent Code peuvent prendre connaissance de ces références dactyloscopiques uniques si cette information est nécessaire à l'exercice de leurs compétences légales et si la communication des références dactyloscopiques uniques à ces autorités a été expressément autorisée par le Roi, par un arrêté délibéré en Conseil des ministres.
+
+Concernant les ressortissants d'un pays tiers au sens de l'article 3 du Règlement (UE) 2019/816 du Parlement Européen et du Conseil portant création d'un système centralisé permettant d'identifier les Etats membres détenant des informations relatives aux condamnations concernant des ressortissants de pays tiers et des apatrides (Ecris-TCN), qui vise à compléter le système européen d'information sur les casiers judiciaires, et modifiant le règlement (UE) 2018/1726, les données biométriques visées à l'article 44/1, § 2, 1°, de la loi sur la fonction de police sont demandées par le Casier judiciaire au service compétent de la direction de la police technique et scientifique visée à l'article 102, 4°, de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, au moyen d'une référence dactyloscopique unique et supprimées sans délai du Casier judiciaire après que ces données ont été transmises conformément à l'article 5 du règlement.
+
+Les modalités techniques et fonctionnelles de cette transaction sont déterminées dans un protocole d'accord entre le Service public fédéral Justice et la police fédérale. Ce protocole porte au moins sur les mesures de sécurité en relation avec cette communication et la durée de conservation de ces données et informations.]<sup>12</sup>
+
+----------
+
+(1)&lt;L 2009-07-31/20, art. 2, 015; En vigueur : 30-06-2009&gt;
+
+(2)&lt;L 2010-02-21/03, art. 6, 017; En vigueur : 08-03-2010&gt;
+
+(4)&lt;L 2007-04-26/89, art. 7, 014; En vigueur : 01-01-2012&gt;
+
+(5)&lt;L 2012-04-22/27, art. 4, 018; En vigueur : 01-01-2013&gt;
+
+(6)&lt;L 2014-04-25/23, art. 8, 021; En vigueur : 24-05-2014&gt;
+
+(8)&lt;L 2016-02-05/11, art. 119, 027; En vigueur : 29-02-2016&gt;
+
+(9)&lt;L 2014-05-05/11, art. 89, 024; En vigueur : 01-10-2016 (voir aussi l'art. 136), modifié par L 2016-05-04/03, art. 232&gt;
+
+(10)&lt;L 2016-12-25/14, art. 19, 030; En vigueur : 09-01-2017&gt;
+
+(11)&lt;L 2018-03-18/14, art. 17, 032; En vigueur : 12-05-2018&gt;
+
+(12)&lt;L 2023-12-19/08, art. 30, 037; En vigueur : 08-01-2024&gt;
+
+(13)&lt;L 2024-02-29/11, art. 34, 039; En vigueur : 18-04-2024&gt;
+
+(14)&lt;L 2024-04-09/07, art. 43, 040; En vigueur : 28-04-2024&gt;
+
+(15)&lt;L 2024-05-16/55, art. 2, 042; En vigueur : 01-06-2024&gt;
+
+(16)&lt;L 2026-03-11/03, art. 218, 043; En vigueur : 01-09-2026&gt;
+
+##### Art. 591
+
+[<sup>1</sup> § 1er. Les agents de niveau A du service du Casier judiciaire du Service public fédéral Justice, nommément désignés par écrit, les greffiers en chef, les greffiers-chefs de service et les greffiers des cours et tribunaux de l'ordre judiciaire ont, uniquement dans le cadre de la gestion du Casier judiciaire, accès aux informations visées à l'article 3, alinéa 1er, 1° à 8°, et alinéa 2, de la loi du 8 août 1983 organisant un Registre national des personnes physiques [<sup>2</sup> et aux données visées à l'article 590, alinéa 4]<sup>2</sup>.
+
+Les personnes visées à l'article 593 ont, dans le cadre de la consultation du Casier judiciaire, accès aux informations visées à l'article 3, alinéa 1er, 1° à 9°, et alinéa 2, de la loi du 8 août 1983 organisant un Registre national des personnes physiques [<sup>2</sup> et aux données visées à l'article 590, alinéa 4]<sup>2</sup>.
+
+§ 2. Les personnes visées au paragraphe 1er sont autorisées à utiliser les numéros d'identification du Registre national des personnes physiques [<sup>2</sup> et la référence dactyloscopique unique des données visées à l'article 590, alinéa 4,]<sup>2</sup> à seule fin d'identification des personnes inscrites ou à inscrire dans le Casier judiciaire.
+
+Elles sont autorisées à utiliser le numéro d'inscription dans la Banque-Carrefour des Entreprises tel que prévu par l'article III.49 du Code de droit économique à seule fin d'identification des personnes morales inscrites ou à inscrire dans le Casier judiciaire.
+
+§ 3. Les personnes visées au paragraphe 1er peuvent déléguer les facultés visées au paragraphe 2 à une ou plusieurs personnes de leur service, désignées nommément et par écrit. Ces délégations doivent être motivées et justifiées par les nécessités du service.
+
+Le Roi fixe les conditions dans lesquelles ces délégations sont données.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/14, art. 20, 030; En vigueur : 09-01-2017&gt;
+
+(2)&lt;L 2023-12-19/08, art. 31, 037; En vigueur : 08-01-2024&gt;
+
+##### Art. 592
+
+&lt;L 1997-08-08/14, art. 6, 006; En vigueur : 03-09-2001&gt; Les greffiers transmettent au Casier judiciaire les décisions visées à l'article 590 dans les trois jours qui suivent celui où celles-ci sont passées en force de chose jugée.
+
+[<sup>1</sup> Lorsque la décision est prononcée par une juridiction autre qu'un tribunal de police ou qu'un tribunal de première instance siégeant en degré d'appel contre un jugement du tribunal de police, et qu'elle concerne une personne morale qui a déposé ses statuts en Belgique, les greffiers transmettent en outre un extrait de cette décision au greffe de la juridiction où les statuts de celle-ci ont été déposés.]<sup>1</sup>
+
+Ils sont responsables de la conformité des informations transmises aux décisions rendues par les juridictions.
+
+----------
+
+(1)&lt;L 2016-12-25/14, art. 21, 030; En vigueur : 09-01-2017&gt;
+
+##### Art. 593
+
+&lt;L 1997-08-08/14, art. 7, 006; En vigueur : 03-09-2001&gt; Les magistrats du ministère public [y compris le membre belge d'Eurojust], les juges d'instruction, [<sup>3</sup> les juges de paix,]<sup>3</sup> [<sup>1</sup> les juges et assesseurs des tribunaux de l'application des peines,]<sup>1</sup> les agents de [<sup>1</sup> niveau A]<sup>1</sup> des autorités administratives chargées de l'exécution des décisions rendues en matière pénale et des mesures de défense sociale nommément désignés par écrit, [<sup>4</sup> les membres des services de police qui ont le besoin d'en connaître et nominativement et préalablement désignés par les chefs de corps pour la police locale, le commissaire général, les directeurs généraux et les directeurs pour la police fédérale, les membres du personnel du Comité permanent de contrôle des services de police, et de son Service d'enquêtes, tel institués par la loi du 18 juillet 1991 organique du contrôle des services de police et de renseignement et de l'Organe de coordination pour l'analyse de la menace qui ont le besoin d'en connaître, nominativement et préalablement désignés par le Président dudit Comité, les membres du personnel de l'Organe de contrôle, et de son Service d'enquêtes, tel institués par la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitement de données à caractère personnel, qui ont le besoin d'en connaître, nominativement et préalablement désignés par le Président dudit organe, les membres du personnel du Comité permanent de contrôle des services de renseignements et de sécurité, et de son Service d'enquêtes, tels qu'institués par la même loi, qui ont le besoin d'en connaître, nominativement et préalablement désignés par le Président dudit Comité, les membres de l'inspection générale de la police fédérale et de la police locale, tels que visés à l'article 4 de la loi du 15 mai 2007 sur l'Inspection générale et portant des dispositions diverses relatives au statut de certains membres des services de police, qui ont le besoin d'en connaître, nominativement et préalablement désignés par l'Inspecteur général]<sup>4</sup>, les agents de niveau 1 des services de renseignements au sens de la loi du 18 juillet 1991 organique du contrôle des services de police et de renseignements, nommément désignés par écrit, et les membres de la Cellule de traitement des informations financières ainsi que les membres du personnel de celle-ci revêtus d'un grade équivalent à celui du niveau 1 des agents de l'Etat, nommément désignés par écrit, ont accès en permanence, uniquement dans le cadre de leurs missions prévues par la loi qui requièrent la connaissance du casier judiciaire, aux informations enregistrées dans le Casier judiciaire concernant chaque personne, à l'exception : &lt;L 2004-06-21/35, art. 12, 009; En vigueur : 12-08-2004&gt;
+
+1° des condamnations ayant fait l'objet d'une mesure d'amnistie;
+
+2° des décisions annulées par application des articles 416 à 442 ou des articles 443 à 447bis du présent code;
+
+3° des décisions de rétractation rendues par application des articles 10 à 14 de la loi spéciale du 6 janvier 1989 sur la [<sup>2</sup> Cour constitutionnelle]<sup>2</sup>;
+
+4° des condamnations et des décisions prononcées sur la base d'une disposition ayant fait l'objet d'une abrogation, à la condition que l'incrimination pénale du fait soit supprimée.
+
+[<sup>5</sup> Ils peuvent également, dans l'exercice de leurs compétences légales, accéder aux informations relatives aux condamnations pénales dans un autre Etat membre de l'Union européenne par l'intermédiaire du Casier judiciaire en sa qualité d'autorité centrale au sens de l'article 3 de la décision-cadre 2009/315/JAI du Conseil du 26 février 2009 concernant l'organisation et le contenu des échanges d'informations extraites du casier judiciaire entre les Etats membres.]<sup>5</sup>
+
+[<sup>1</sup> Les magistrats du ministère public, juges d'instruction, [<sup>3</sup> juges de paix,]<sup>3</sup> juges et assesseurs des tribunaux de l'application des peines et agents de niveau A, visés à l'alinéa 1er, peuvent déléguer cette faculté à une ou plusieurs personnes qui relèvent de leur autorité, désignées nommément et par écrit.]<sup>1</sup>
+
+[<sup>4</sup> Les modalités d'accès font l'objet d'un protocole d'accord au sens de l'article 20 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel entre le responsable du traitement du Casier judiciaire et le demandeur, c'est-à-dire les services visés à l'article 593, 1er alinéa. Ce protocole contient également les mesures appropriées pour protéger les droits et libertés des personnes concernées dont notamment celles relatives :
+
+a) à la journalisation des accès;
+
+b) à l'obligation d'être tenu au secret professionnel ou au devoir de confidentialité;
+
+c) aux mesures techniques et organisationnelles relatives à la gestion des accès.
+
+La journalisation des accès doit au minimum permettre d'établir qui a eu accès quand, à quelles données, à partir de quel poste et pour quelles finalités l'accès a été réalisé.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2009-07-31/20, art. 3, 015; En vigueur : 30-06-2009&gt;
+
+(2)&lt;L 2010-02-21/03, art. 5, 017; En vigueur : 08-03-2010&gt;
+
+(3)&lt;L 2016-12-25/14, art. 22, 030; En vigueur : 09-01-2017&gt;
+
+(4)&lt;L 2019-05-05/19, art. 29, 033; En vigueur : 29-06-2019&gt;
+
+(5)&lt;L 2023-12-19/08, art. 32, 037; En vigueur : 08-01-2024&gt;
+
+##### Art. 594
+
+&lt;L 1997-08-08/14, art. 8, 006; En vigueur : 03-09-2001&gt; Le Roi peut autoriser certaines administrations publiques, par arrêté délibéré en Conseil des Ministres et après avis de la Commission de la protection de la vie privée, à accéder aux informations enregistrées dans le Casier judiciaire, uniquement dans le cadre d'une fin déterminée par ou en vertu de la loi, à l'exception :
+
+1° des condamnations et décisions énumérées à l'article 593, 1° à 4°;
+
+2° des arrêts de réhabilitation et des condamnations visées par cette réhabilitation;
+
+3° des décisions ordonnant la suspension du prononcé de la condamnation [<sup>8</sup> ...]<sup>8</sup> [<sup>5</sup> ou [<sup>6</sup> l'extinction de l'action publique conformément à l'article 216bis, § 2 et à l'article 216ter, § 6]<sup>6</sup>]<sup>5</sup>;
+
+4° [<sup>2</sup> [<sup>3</sup> les décisions condamnant à une peine de travail [<sup>8</sup> conformément à l'article 45]<sup>8</sup> du Code pénal, excepté pour constituer la liste préparatoire des jurés conformément à l'article 224, 13° du Code judiciaire;]<sup>3</sup> ]<sup>2</sup>;
+
+[<sup>3</sup> 5° [<sup>8</sup> ...]<sup>8</sup>]<sup>3</sup>
+
+[<sup>4</sup> 6° des décisions condamnant à une [<sup>8</sup> peine de probation conformément à l'article 44]<sup>8</sup> du Code pénal, excepté pour constituer la liste préparatoire des jurés conformément à l'article 224, 13°, du Code judiciaire;]<sup>4</sup>
+
+[<sup>8</sup> 7° des décisions condamnant à une peine de prestation en faveur de la communauté conformément à l'article 56 du Code pénal.]<sup>8</sup>
+
+[<sup>8</sup> Elles n'ont plus accès aux condamnations à des peines d'emprisonnement de six mois, à des peines d'amende ne dépassant pas 4.000 euros, aux condamnations par déclaration de culpabilité, à des peines de fermeture d'établissement, à des peines pécuniaires fixées en fonction du profit escompté ou obtenu de l'infraction et à des peines d'amende infligées en vertu de la loi relative à la police de la circulation routière coordonnée le 16 mars 1968 quel que soit leur montant, après un délai de trois ans à compter de la date de la décision judiciaire définitive qui les prononce, sauf si ces condamnations comportent des déchéances ou des interdictions dont les effets dépassent une durée de trois ans, prononcées dans le jugement ou dont la connaissance leur est indispensable pour l'application d'une disposition légale ou réglementaire.
+
+Elles n'ont plus accès également aux condamnations à des peines de surveillance électronique, excepté pour constituer la liste préparatoire des jurés conformément à l'article 224, 13°, du Code judiciaire, après un délai de trois ans pour les peines de surveillance électronique ne dépassant pas six mois au plus à compter de la date de la décision judiciaire définitive qui les prononce, sauf si ces condamnations comportent des déchéances ou des interdictions dont les effets dépassent une durée de trois ans, prononcées dans le jugement ou dont la connaissance leur est indispensable pour l'application d'une disposition légale ou réglementaire.
+
+Lorsque le juge condamne une personne morale à deux peines principales conformément à l'article 38, alinéa 7, 4° du Code pénal, les dispositions des alinéas 2 et 3 s'appliquent séparément à chacune des peines prononcées.]<sup>8</sup>
+
+Elles ont accès aux déchéances et mesures énumérées par l'article 63 de la loi du 8 avril 1965 relative à la protection de la jeunesse [, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait], selon les conditions fixées par cet article. &lt;L 2006-05-15/35, art. 16, 011; En vigueur : 16-10-2006&gt;
+
+[<sup>7</sup> Elles peuvent également, dans l'exercice de leurs compétences légales et dans la mesure où elles y ont été individuellement autorisées par le Roi par arrêté délibéré en Conseil des ministres, accéder aux informations relatives aux condamnations pénales dans un autre Etat membre de l'Union européenne via le Casier judiciaire en sa qualité d'autorité centrale au sens de l'article 3 de la décision-cadre 2009/315/JAI du Conseil du 26 février 2009 concernant l'organisation et le contenu des échanges d'informations extraites du casier judiciaire entre les Etats membres.]<sup>7</sup>
+
+----------
+
+(1)&lt;L 2009-07-31/20, art. 4, 015; En vigueur : 30-06-2009&gt;
+
+(2)&lt;L 2009-12-21/14, art. 204, 016; En vigueur : 21-01-2010, annulé par l'arrêt de la Cour constitutionnelle n° 137/2011 du 22-08-2011, sauf en ce qu'il concerne le bourgmestre qui doit consulter le casier judiciaire central en vue de la constitution d'une liste de jurés ; voir M.B. 22-08-2011, p. 48089-48092&gt;
+
+(3)&lt;L 2014-02-07/15, art. 2, 022; En vigueur : 01-05-2016(voir L 2014-05-08/55, art. 6)&gt;
+
+(4)&lt;L 2014-04-10/80, art. 16, 023; En vigueur : 01-05-2016(voir L 2014-05-08/55, art. 6)&gt;
+
+(5)&lt;L 2016-02-05/11, art. 120, 027; En vigueur : 29-02-2016&gt;
+
+(6)&lt;L 2018-03-18/14, art. 18, 032; En vigueur : 12-05-2018&gt;
+
+(7)&lt;L 2023-12-19/08, art. 33, 037; En vigueur : 08-01-2024&gt;
+
+(8)&lt;L 2026-03-11/03, art. 219, 043; En vigueur : 01-09-2026&gt;
+
+##### Art. 595
+
+&lt;L 1997-08-08/14, art. 9, 006; En vigueur : 03-09-2001, vu l'abrogation de l'art. 29 de la loi modificative&gt; Toute personne [<sup>4</sup> physique ou toute personne compétente pour représenter une personne morale,]<sup>4</sup> justifiant de son identité peut obtenir un extrait du Casier judiciaire comportant le relevé des informations enregistrées dans le Casier judiciaire qui la concernent personnellement [<sup>4</sup> ou la personne morale selon le cas,]<sup>4</sup>, à l'exception :
+
+1° [<sup>3</sup> des condamnations, décisions ou mesures énumérées [<sup>6</sup> à l'article 594, 1° à 7° ]<sup>6</sup>;]<sup>3</sup>
+
+2° des mesures prises à l'égard des anormaux par application de la loi du 1er juillet 1964;
+
+3° des déchéances et mesures énumérées par l'article 63 de la loi du 8 avril 1965 relative à la protection de la jeunesse [, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait]. &lt;L 2006-05-15/35, art. 17, 011; En vigueur : 16-10-2006&gt;
+
+[<sup>6</sup> La personne mentionnée à l'alinéa 1er n'a plus accès aux condamnations à des peines d'emprisonnement de six mois, à des peines d'amende ne dépassant pas 4.000 euros, aux condamnations par déclaration de culpabilité, aux condamnations à des peines de confiscation, y compris la confiscation élargie, à des peines de fermeture d'établissement, à des peines pécuniaires fixées en fonction du profit escompté ou obtenu de l'infraction, et à des peines d'amende infligées en vertu de la loi relative à la police de la circulation routière coordonnée par l'arrêté royal du 16 mars 1968 quel que soit leur montant, après un délai de trois ans à compter de la date de la décision judiciaire définitive qui les prononce, sauf si ces condamnations comportent des déchéances ou des interdictions dont les effets dépassent une durée de trois ans, prononcées dans le jugement.
+
+La personne mentionnée à l'alinéa 1er n'a plus accès également aux condamnations à des peines de surveillance électronique, après un délai de trois ans pour les peines de surveillances électroniques de six mois au plus à compter de la date de la décision judiciaire définitive qui les prononce, sauf si ces condamnations comportent des déchéances ou des interdictions dont les effets dépassent une durée de trois ans, prononcées dans le jugement.
+
+Lorsque le juge condamne une personne morale à deux peines principales conformément à l'article 38, alinéa 7, 4°, du Code pénal, les dispositions des alinéas 1er à 3 s'appliquent séparément à chacune des peines prononcées.]<sup>6</sup>
+
+[<sup>4</sup> Le Roi fixe les conditions et les modalités de délivrance de cet extrait. Lorsque l'extrait concerne une personne physique qui a son domicile ou sa résidence en Belgique, il est délivré par l'administration de la commune où la personne physique a son domicile ou sa résidence. Si elle n'a pas de domicile ou de résidence en Belgique, l'extrait est délivré par le service du Casier judiciaire du Service public fédéral Justice. Lorsque l'extrait concerne une personne morale, il est délivré par le service du Casier judiciaire du Service public fédéral Justice.]<sup>4</sup>
+
+[<sup>4</sup> Toute personne physique, justifiant de son identité, bénéficie du droit de communication des données du Casier judiciaire qui la concernent directement, conformément à l'article 10 de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel. Toute personne compétente pour représenter une personne morale, justifiant de son identité, bénéficie du droit de communication des données du Casier judiciaire qui concernent la personne morale qu'elle représente.]<sup>4</sup>
+
+[<sup>5</sup> Les informations du casier judiciaire demandées par les ressortissants d'un Etat membre ou les ressortissants d'un pays tiers les concernant sont demandées sans délai par le Casier judiciaire respectivement à l'Etat membre de la nationalité de l'intéressé ou à l'Etat membre ou aux Etats membres qui détiennent des informations sur le casier judiciaire du ressortissant de pays tiers concerné conformément à l'article 6, paragraphes 3 et 3bis, de la décision-cadre 2009/315/JAI du Conseil du 26 février 2009 concernant l'organisation et le contenu des échanges d'informations extraites du casier judiciaire entre les Etats membres et ensuite communiquée à la personne concernée.]<sup>5</sup>
+
+----------
+
+(1)&lt;L 2009-07-31/20, art. 5, 015; En vigueur : 30-06-2009&gt;
+
+(3)&lt;L 2014-04-10/80, art. 17, 023; En vigueur : 01-05-2016 (voir L 2014-05-08/55, art. 6)&gt;
+
+(4)&lt;L 2016-12-25/14, art. 23, 030; En vigueur : 09-01-2017&gt;
+
+(5)&lt;L 2023-12-19/08, art. 34, 037; En vigueur : 08-01-2024&gt;
+
+(6)&lt;L 2026-03-11/03, art. 220, 043; En vigueur : 01-09-2026&gt;
+
+##### Art. 596
+
+&lt;L 1997-08-08/14, art. 10, 006; En vigueur : 03-09-2001, vu l'abrogation de l'art. 29 de la loi modificative&gt; Lorsque la demande d'extrait est effectuée en vue d'accéder à une activité dont les conditions d'accès ou d'exercice ont été définies par des dispositions légales ou réglementaires, l'extrait mentionne les décisions visées [<sup>6</sup> à l'article 595, alinéas 2 et 3, lorsqu'elles comportent des déchéances ou des interdictions dont les effets dépassent une durée de trois ans]<sup>6</sup>, ayant pour effet d'interdire à la personne concernée d'exercer cette activité.
+
+[<sup>1</sup> Lorsque la demande d'extrait est effectuée en vue d'accéder à une activité qui relève de l'éducation, de la guidance psycho-médico-sociale, de l'aide à la jeunesse, de la protection infantile, de l'animation ou de l'encadrement de mineurs, l'extrait mentionne, outre les décisions visées à l'alinéa 1er, aussi [<sup>3</sup> les décisions visées [<sup>6</sup> à l'article 594, alinéa 1er, 4° à 7° ]<sup>6</sup> et]<sup>3</sup> les condamnations visées à l'article 590, alinéa 1er, 1° [<sup>6</sup> ...]<sup>6</sup>, et les décisions visées à l'article 590, alinéa 1er, 2°, 4°, 5° et 16°, pour des faits commis à l'égard d'un mineur, et pour autant que cet élément soit constitutif de l'infraction ou qu'il en aggrave la peine. [<sup>6</sup> L'extrait]<sup>6</sup> mentionne en outre, si l'intéressé fait l'objet d'une interdiction d'exercer une activité qui la mettrait en contact avec des mineurs, décidée par un juge ou une juridiction d'instruction en application de l'article 35, § 1er, alinéa 2, de la loi du 20 juillet 1990 relative à la détention préventive. L'interdiction doit être mentionnée sur l'extrait jusqu'au moment où le jugement qui s'ensuit acquiert force de chose jugée. [<sup>5</sup> ...]<sup>5</sup>]<sup>1</sup>
+
+[<sup>4</sup> Le Roi fixe les conditions et les modalités de délivrance de cet extrait. Lorsque l'extrait concerne une personne physique qui a son domicile ou sa résidence en Belgique, il est délivré par l'administration de la commune où la personne physique a son domicile ou sa résidence. Si elle n'a pas de domicile ou de résidence en Belgique, l'extrait est délivré par le service du Casier judiciaire du Service public fédéral Justice. Lorsque l'extrait concerne une personne morale, il est délivré par le service du Casier judiciaire du Service public fédéral Justice.]<sup>4</sup>
+
+[<sup>1</sup> L'extrait visé à l'alinéa 2 ne peut être délivré à une personne qui se trouve en détention préventive.]<sup>1</sup>
+
+(NOTE : par son arrêt n° 1/2011 du 13-01-2011 (M.B. 15-03-2011, p. 16334-16341), la Cour Constitutionnelle a annulé dans l'article 596, alinéa 2, du Code d'instruction criminelle, remplacé par l'article 6, 1°, de la loi du 31 juillet 2009 portant diverses dispositions concernant le Casier judiciaire central, les mots " jusqu'au moment où le jugement qui s'ensuit acquiert force de chose jugée ")
+
+----------
+
+(1)&lt;L 2009-07-31/20, art. 6, 015; En vigueur : 30-06-2009&gt;
+
+(3)&lt;L 2014-04-10/80, art. 18, 023; En vigueur : 01-05-2016(voir L 2014-05-08/55, art. 6), art. 18 modifié par L 2016-02-05/11, art. 57, 027 &gt;
+
+(4)&lt;L 2016-12-25/14, art. 24, 030; En vigueur : 09-01-2017&gt;
+
+(5)&lt;L 2019-05-05/19, art. 30, 033; En vigueur : 29-06-2019&gt;
+
+(6)&lt;L 2026-03-11/03, art. 221, 043; En vigueur : 01-09-2026&gt;
+
+##### Art. 596bis
+
+[<sup>1</sup> Lorsque l'extrait visé à l'article 596, alinéa 1er, est demandé en vue d'accéder à une activité dans un port, une installation portuaire, un terminal intérieur ou une unité d'établissement ayant un impact sur la sûreté maritime, tels que visés à l'article 2.5.2.3, 4°, 5°, 16° et 17°, [<sup>2</sup> du Code belge de la Navigation,]<sup>2</sup> l'extrait mentionne:
+
+1° les condamnations et décisions visées à l'article 596, alinéa 1er;
+
+2° les condamnations visées à l'article 590, [<sup>2</sup> alinéa 1er, 3° et 20° ]<sup>2</sup> ;
+
+3° pendant trois ans à compter du jour de la condamnation les décisions visées [<sup>2</sup> à l'article 594, 4° à 7°,]<sup>2</sup> au cas où celles-ci concernent des infractions sur:
+
+i. la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes;
+
+ii. une des infractions visées [<sup>2</sup> aux articles 403, 404, 405, 406, 407, 408, 409 et 410]<sup>2</sup> du Code pénal;
+
+iii. une des infractions visées [<sup>2</sup> aux articles 465 et 466]<sup>2</sup> du Code pénal;
+
+iv. une des infractions visées [<sup>2</sup> aux articles 419 et 420]<sup>2</sup> du Code pénal;
+
+v. une action illicite au sens de l'article 4.1.2.48, § 2 ou § 3, du Code belge de la Navigation.
+
+Le Roi détermine les conditions et modalités de délivrance de cet extrait. Pour une personne physique ayant son domicile ou son lieu de résidence en Belgique, l'extrait est délivré par l'administration communale du domicile ou du lieu de résidence. Si l'intéressé n'a pas son domicile ou son lieu de résidence en Belgique, l'extrait est délivré par le service du Casier judiciaire du Service public fédéral Justice. Lorsqu'il s'agit d'une personne morale, cet extrait est délivré par le service du Casier judiciaire du Service public fédéral Justice.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-16/55, art. 3, 042; En vigueur : 01-06-2024&gt;
+
+(2)&lt;L 2026-03-11/03, art. 222, 043; En vigueur : 01-09-2026&gt;
+
+##### Art. 597
+
+&lt;L 1997-08-08/14, art. 3, 006; En vigueur : 03-09-2001&gt; Des extraits du Casier judiciaire sont délivrés aux autorités étrangères dans les cas prévus par des conventions internationales [<sup>1</sup> ou une règle de droit dérivé de l'Union européenne liant la Belgique]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 9, 021; En vigueur : 24-05-2014&gt;
+
+##### Art. 598
+
+[<sup>1</sup> Les renseignements enregistrés dans le Casier judiciaire au sujet de personnes physiques décédées ou de personnes morales après clôture de la liquidation, dissolution judiciaire ou dissolution sans liquidation, sont transmis une fois par an aux Archives générales du Royaume.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/14, art. 25, 030; En vigueur : 09-01-2017&gt;
+
+##### Art. 599
+
+&lt;L 1997-08-08/14, art. 13, 006; En vigueur : 03-09-2001&gt; La consultation du Casier judiciaire et la délivrance des extraits peuvent donner lieu à des rétributions fixées par le Roi.
+
+##### Art. 600
+
+&lt;L 1997-08-08/14, art. 14, 006; En vigueur : 03-09-2001&gt; Les informations communiquées par le Casier judiciaire ne constituent pas la preuve des décisions judiciaires ou administratives auxquelles elles se rapportent.
+
+##### Art. 601
+
+&lt;L 1997-08-08/14, art. 15, 006; En vigueur : 03-09-2001&gt; Les personnes qui, dans l'exercice de leurs fonctions, interviennent dans la collecte, le traitement ou la transmission des informations visées par l'article 590 sont tenues au secret professionnel. [<sup>1</sup> L'article 352 du Code pénal]<sup>1</sup> leur est applicable.
+
+Elles prennent toutes mesures utiles afin d'assurer la sécurité des informations enregistrées et empêchent notamment qu'elles soient déformées, endommagées, ou communiquées à des personnes qui n'ont pas obtenu l'autorisation d'en prendre connaissance.
+
+Elles s'assurent du caractère approprié des programmes servant au traitement automatique des informations ainsi que de la régularité de leur application.
+
+Elles veillent à la régularité de la transmission des informations.
+
+L'identité des auteurs de toute demande de consultation du Casier judiciaire est enregistrée dans un système de contrôle. Ces informations sont conservées pendant six mois.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 223, 043; En vigueur : 01-09-2026&gt;
+
+##### Art. 602
+
+&lt;L 1997-08-08/14, art. 16, 006; En vigueur : 03-09-2001&gt; Le Roi peut fixer des mesures propres à assurer la sécurité de l'information relative au Casier judiciaire.
+
+### CHAPITRE II. - [Des prisons] &lt;L 2005-01-12/39, art. 171, 010; En vigueur : 15-01-2007&gt;
+
+##### Art. 603
+
+&lt;L 1999-05-07/61, art. 9, 005; En vigueur : 01-07-1999&gt; Excepté les [établissements pénitentiaires, destinés à] l'exécution des peines, il y aura, dans chaque arrondissement près le Tribunal de première instance, une Maison d'arrêt pour y admettre les inculpés. De même, il y aura près de chaque Cour d'Assises une Maison d'arrêt pour y admettre ceux contre lesquels une ordonnance de prise de corps a été décernée. &lt;L 2005-01-12/39, art. 172, 010; En vigueur : 15-01-2007&gt;
+
+##### Art. 603bis
+
+[<sup>1</sup> Il est créé par le Roi un centre d'observation clinique sécurisé où des inculpés pourront être placés en détention préventive pour mise en observation, conformément à la loi du 20 juillet 1990 relative à la détention préventive.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-05-05/11, art. 90, 024; En vigueur : 01-10-2016 (voir également l'art. 236), modifié par L 2016-05-04/03, art. 233&gt;
+
+##### Art. 604
+
+Les maisons d'arrêt [...] seront entièrement distinctes des [établissements pénitentiaires établis] pour peines. &lt;L 1999-05-07/61, art. 10, 005; En vigueur : 01-07-1999&gt; &lt;L 2005-01-12/39, art. 172, 010; En vigueur : 15-01-2007&gt;
+
+##### Art. 605
+
+Les [gouverneurs] veilleront à ce que ces différentes maisons soient non seulement sûres, mais propres, et telles que la santé des prisonniers ne puisse être aucunement altérée. &lt;L 10-07-1967, art. 1, 234°&gt;
+
+##### Art. 606
+
+[<sup>1</sup> Les personnes qui, à la suite d'un dessaisissement prononcé sur base de l'article 57bis de la loi 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait, font l'objet d'un mandat d'arrêt, sont placées dans un centre communautaire pour mineurs ayant commis un fait qualifié infraction.
+
+Si les mêmes personnes font l'objet d'une condamnation à une peine d'emprisonnement principal ou accessoire, elles exécutent cette peine dans l'aile punitive d'un centre communautaire pour mineurs ayant commis un fait qualifié infraction.
+
+Toutefois, si ces personnes sont âgées de dix-huit ans ou plus et qu'au moment du placement ou ultérieurement, le nombre de places dans les centres communautaires est insuffisant, elles sont placées dans un établissement pénitentiaire pour adultes. Elles sont également placées ou renvoyées dans un établissement pénitentiaire pour adultes lorsqu'elles sont âgées de vingt-trois ans ou plus.
+
+Si le jeune de dix-huit ans accomplis cause des troubles graves au sein du centre ou met en danger l'intégrité des autres jeunes ou du personnel du centre, l'autorité communautaire compétente peut adresser au ministre de la Justice un rapport circonstancié. Celui-ci peut alors renvoyer le jeune dans un établissement pénitentiaire pour adultes.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-01-06/65, art. 26, 020; En vigueur : 01-07-2014&gt;
+
+##### Art. 606_COMMUNAUTE_FRANCAISE
+
+[<sup>1</sup> Les personnes qui, à la suite d'un dessaisissement prononcé sur base de l'article 57bis de la loi 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait [<sup>2</sup> et l'article 125 du décret du 18 janvier 2018 portant le code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse]<sup>2</sup>, font l'objet d'un mandat d'arrêt, sont placées dans un centre communautaire pour mineurs ayant commis un fait qualifié infraction.
+
+Si les mêmes personnes font l'objet d'une condamnation à une peine d'emprisonnement principal ou accessoire, elles exécutent cette peine dans l'aile punitive d'un centre communautaire pour mineurs ayant commis un fait qualifié infraction.
+
+Toutefois, si ces personnes sont âgées de dix-huit ans ou plus et qu'au moment du placement ou ultérieurement, le nombre de places dans les centres communautaires est insuffisant, elles sont placées dans un établissement pénitentiaire pour adultes. Elles sont également placées ou renvoyées dans un établissement pénitentiaire pour adultes lorsqu'elles sont âgées de vingt-trois ans ou plus.
+
+Si le jeune de dix-huit ans accomplis cause des troubles graves au sein du centre ou met en danger l'intégrité des autres jeunes ou du personnel du centre, l'autorité communautaire compétente peut adresser au ministre de la Justice un rapport circonstancié. Celui-ci peut alors renvoyer le jeune dans un établissement pénitentiaire pour adultes.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-01-06/65, art. 26, 020; En vigueur : 01-07-2014&gt;
+
+(2)&lt;DCFR 2023-12-07/09, art. 59, 038; En vigueur : 01-01-2024&gt;
+
+##### Art. 606_REGION_FLAMANDE
+
+[<sup>1</sup> Les personnes qui, à la suite d'un dessaisissement prononcé sur base de l'article [<sup>2</sup> 38 du décret du 15 février 2019 sur le droit en matière de délinquance juvénile]<sup>2</sup> font l'objet d'un mandat d'arrêt, sont placées dans un centre communautaire pour mineurs ayant commis un fait qualifié infraction.
+
+Si les mêmes personnes font l'objet d'une condamnation à une peine d'emprisonnement principal ou accessoire, elles exécutent cette peine dans l'aile punitive d'un centre communautaire pour mineurs ayant commis un fait qualifié infraction.
+
+Toutefois, si ces personnes sont âgées de dix-huit ans ou plus et qu'au moment du placement ou ultérieurement, le nombre de places dans les centres communautaires est insuffisant, elles sont placées dans un établissement pénitentiaire pour adultes. Elles sont également placées ou renvoyées dans un établissement pénitentiaire pour adultes lorsqu'elles sont âgées de vingt-trois ans ou plus.
+
+Si le jeune de dix-huit ans accomplis cause des troubles graves au sein du centre ou met en danger l'intégrité des autres jeunes ou du personnel du centre, l'autorité communautaire compétente peut adresser au ministre de la Justice un rapport circonstancié. Celui-ci peut alors renvoyer le jeune dans un établissement pénitentiaire pour adultes.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-01-06/65, art. 26, 020; En vigueur : 01-07-2014&gt;
+
+(2)&lt;DCFL 2019-03-15/10, art. 2, 034; En vigueur : 01-09-2019&gt;
+
+##### Art. 607
+
+Les gardiens des maisons d'arrêt, [...] et des prisons, seront tenus d'avoir un registre. &lt;L 1999-05-07/61, art. 11, 005; En vigueur : 01-07-1999&gt;
+
+[Ce registre sera signé sur toutes les pages et paraphé par le juge d'instruction pour les maisons d'arrêt près des tribunaux de première instance, par le président du Tribunal de première instance pour les maisons d'arrêt près les cours d'assises et par le gouverneur de province pour les prisons destinées à l'exécution des peines.] &lt;L 1999-05-07/61, art. 11, 005; En vigueur : 01-07-1999&gt;
+
+##### Art. 608
+
+Tout exécuteur de mandat d'arrêt, d'ordonnance de prise de corps, d'arrêt ou de jugement de condamnation, est tenu, avant de remettre au gardien la personne qu'il conduira, de faire inscrire sur le registre l'acte dont il sera porteur; l'acte de remise sera écrit devant lui.
+
+Le tout sera signé tant par lui que par le gardien.
+
+Le gardien lui en remettra une copie signée de lui, pour sa décharge.
+
+##### Art. 609
+
+Nul gardien ne pourra, à peine d'être poursuivi et puni comme coupable de détention arbitraire, recevoir ni retenir aucune personne qu'en vertu soit d'un mandat de dépôt, soit d'un mandat d'arrêt décerné selon les formes prescrites par la loi, soit d'un arrêt de renvoi devant une cour d'assises [...] d'un arrêt ou jugement de condamnation [à une peine [<sup>1</sup> privative de liberté]<sup>(1)&lt;L 2026-03-11/03, art. 224, 043; En vigueur : 01-09-2026&gt;</sup>
+
+##### Art. 610
+
+Le registre ci-dessus mentionné contiendra également, en marge de l'acte de remise, la date de la sortie du prisonnier, ainsi que l'ordonnance, l'arrêt ou le jugement en vertu duquel elle aura lieu.
+
+##### Art. 611
+
+Le juge d'instruction est tenu de visiter au moins une fois par mois, les personnes retenues dans la maison d'arrêt [près du tribunal de première instance] de l'arrondissement. &lt;L 1999-0-07/61, art. 12, 005; En vigueur : 01-07-1999&gt;
+
+[<sup>1</sup> Alinéa 2 abrogé.]<sup>1</sup>
+
+[Le gouverneur] est tenu de visiter au moins une fois par an, toutes les [maisons d'arrêt près des cours d'assises et toutes les] prisons, et tous les prisonniers [de la province]. &lt;L 10-07-1967, art. 1, 238°&gt; &lt;L 1999-05-07/61, art. 12, 005; En vigueur : 01-07-1999&gt;
+
+----------
+
+(1)&lt;L 2009-12-21/14, art. 205, 016; En vigueur : 21-01-2010&gt;
+
+##### Art. 612
+
+Indépendamment des visites ordonnées par l'article précédent, le [bourgmestre] de chaque commune où il y aura [...] une prison, [...] est tenu de faire, au moins une fois par mois, la visite de ces maisons. &lt;L 10-07-1967, art. 1, 239°&gt; &lt;L 1999-05-07/61, art. 13, 005; En vigueur : 01-07-1999&gt; &lt;L 2005-01-12/39, art. 173, 010; En vigueur : 15-01-2007&gt;
+
+##### Art. 613
+
+[Le bourgmestre] veillera à ce que la nourriture des prisonniers soit suffisante et saine : la police de ces maisons lui appartiendra. &lt;L 10-07-1967, art. 1, 240°&gt;
+
+[Le président de la cour d'assises pourra donner tous les ordres nécessaires pour le jugement qui devront être exécutés dans les maisons d'arrêt près des cours d'assises.] &lt;L 2005-01-12/39, art. 174, 010; En vigueur : 15-01-2007&gt;
+
+##### Art. 614
+
+Si quelque prisonnier use de menaces, injures ou violences, soit à l'égard [du personnel [des prisons]], soit à l'égard des autres prisonniers, il sera, sur les ordres de qui il appartiendra, resserré plus étroitement, [ou enfermé seul], sans préjudice des poursuites auxquelles il pourrait avoir donné lieu. &lt;L 10-07-1967, art. 1, 241°&gt; &lt;L 2005-01-12/39, art. 175, 010; En vigueur : 15-01-2007&gt;
+
+### CHAPITRE III. - DES MOYENS D'ASSURER LA LIBERTE INDIVIDUELLE CONTRE LES DETENTIONS ILLEGALES OU D'AUTRES ACTES ARBITRAIRES.
+
+##### Art. 615
+
+[...] Quiconque aura connaissance qu'un individu est détenu dans un lieu qui n'a pas été destiné à servir de maison d'arrêt, [...] ou [d'établissement pénitentiaire], est tenu d'en donner avis au [juge au tribunal de police], au [procureur du Roi], ou au juge d'instruction, ou au [procureur général près la cour d'appel]. &lt;L 10-07-1967, art. 1, 242°&gt; &lt;L 10-10-1967, art. 91, § 3&gt; &lt;L 1999-05-07/61, art. 15, 005; En vigueur : 01-07-1999&gt; &lt;L 2005-01-12/39, art. 176, 007; En vigueur : 15-01-2007&gt;
+
+##### Art. 616
+
+Tout [juge au tribunal de police], tout officier chargé du ministère public, tout juge d'instruction, est tenu d'office, ou sur l'avis qu'il en aura reçu, sous peine d'être poursuivi comme complice de détention arbitraire, de s'y transporter aussitôt, et de faire mettre en liberté la personne détenue, ou, s'il est allégué quelque cause légale de détention, de la faire conduire sur-le-champ devant le magistrat compétent. &lt;L 10-10-1967, art. 91, § 3&gt;
+
+Il dressera du tout son procès-verbal.
+
+##### Art. 617
+
+Il rendra, au besoin, une ordonnance dans la forme prescrite par l'article 95 du présent Code.
+
+En cas de résistance, il pourra se faire assister de la force nécessaire; et toute personne requise est tenue de prêter main-forte.
+
+##### Art. 618
+
+Tout gardien qui aura refusé, ou de montrer au porteur de l'ordre de l'officier civil ayant la police de la maison d'arrêt, [...], ou [de l'établissement pénitentiaire], la personne du détenu, sur la réquisition qui en sera faite, ou de montrer l'ordre qui le lui défend ou de faire au [juge au tribunal de police] l'exhibition de ses registres, ou de lui laisser prendre telle copie que celui-ci croira nécessaire de partie de ses registres, sera poursuivi comme coupable ou [<sup>1</sup> participant de l'infraction visée à l'article 219 du Code pénal]<sup>1</sup>. &lt;L 10-10-1967, art. 91, § 3&gt; &lt;L 1999-05-07/61, art. 16, 005; En vigueur : 01-07-1999&gt; &lt;L 2005-01-12/39, art. 176, 010; En vigueur : 15-01-2007 (AR 2006-12-28/40, art. 1 à 3))&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 225, 043; En vigueur : 01-09-2026&gt;
+
+### CHAPITRE IV. - [DE L'EFFACEMENT DES CONDAMNATIONS ET DE LA REHABILITATION EN MATIERE PENALE.] &lt;L 07-04-1964, art. 1&gt;
+
+#### SECTION I. - DE L'EFFACEMENT DES CONDAMNATIONS.
+
+##### Art. 619
+
+[<sup>1</sup> § 1er. Est effacée après un délai de trois ans à compter de la décision judiciaire définitive qui la prononce :
+
+1° la peine d'amende de 20.000 euros au plus;
+
+2° la peine de travail de cent-vingt heures au plus;
+
+3° la peine de probation de douze mois au plus;
+
+4° la peine de confiscation;
+
+5° la peine pécuniaire fixée en fonction du profit escompté ou obtenu de l'infraction;
+
+6° la peine de prestation en faveur de la communauté évaluée à un montant de 20.000 euros au plus;
+
+7° sauf décision contraire du juge, spécialement motivée, la condamnation par déclaration de culpabilité;
+
+8° la peine accessoire prononcée à titre de peine principale, sauf si le juge fixe expressément dans sa décision un délai d'effacement plus court, qui ne peut toutefois être inférieur à la durée de la peine prononcée.
+
+Lorsque le juge condamne une personne morale à deux peines principales, conformément à l'article 38, alinéa 7, 4°, du Code pénal, les peines sont chacune effacées séparément conformément au présent article.
+
+La décision ordonnant la suspension du prononcé est effacée à l'expiration du délai d'épreuve, dans la mesure où la suspension n'a pas été révoquée.
+
+§ 2. L'effacement n'empêche toutefois pas le recouvrement de l'amende ou de la peine pécuniaire fixée en fonction du profit escompté ou obtenu de l'infraction, prononcée par la décision judiciaire définitive.
+
+§ 3. Le présent article ne s'applique pas aux condamnations qui comportent une déchéance ou une interdiction prononcée lors du jugement dont les effets dépassent une durée de trois ans, sauf s'il s'agit d'une déchéance du droit de conduire prononcée pour incapacité physique du conducteur en vertu des dispositions de la loi relative à la police de la circulation routière.
+
+§ 4. Les décisions rendues en matière pénale par des juridictions étrangères visées par l'article 590, alinéa 1er, 16°, sont effacées dès que le Casier judiciaire est informé par les autorités étrangères compétentes de l'effacement de la condamnation ou de la réhabilitation de la personne condamnée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 226, 043; En vigueur : 01-09-2026&gt;
+
+##### Art. 620
+
+&lt;L 07-04-1964, art. 3&gt; L'effacement des condamnations produit les effets de la réhabilitation.
+
+#### SECTION II. - DE LA REHABILITATION EN MATIERE PENALE.
+
+##### Art. 621
+
+&lt;L 12-07-1984, art. 1&gt; Tout condamné à des peines non susceptibles d'être effacées conformément à l'article 619 peut être réhabilité s'il n'a pas bénéficié de la réhabilitation depuis dix ans au moins. [...] &lt;L 1991-01-09/33, art. 4, 002; En vigueur : 15-02-1991&gt;
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[Toutefois, si la réhabilitation accordée depuis moins de dix ans ne porte que sur des condamnations visées à l'article 627, la Cour peut décider qu'elle ne fait pas obstacle à une nouvelle réhabilitation avant l'expiration de ce délai.] &lt;L 1997-08-08/14, art. 18, 006; En vigueur : 03-09-2001&gt;
+
+----------
+
+(1)&lt;L 2024-05-15/03, art. 46, 041; En vigueur : 07-06-2024&gt;
+
+(2)&lt;L 2026-03-11/03, art. 227, 043; En vigueur : 01-09-2026&gt;
+
+##### Art. 622
+
+&lt;L 07-04-1964, art. 5&gt; Le condamné doit avoir subi les peines privatives de liberté et acquitté les peines pécuniaires, à moins que ces peines aient été remises en vertu du droit de grâce ou que, si elles ont été prononcées conditionnellement ou rendues conditionnelles par voie de grâce, elles soient considérées comme non avenues. Lorsque la peine est prescrite, le condamné ne peut être réhabilité que si le défaut d'exécution ne lui est pas imputable.
+
+##### Art. 623
+
+&lt;L 07-04-1964, art. 6&gt; Le condamné doit être libéré des restitutions, des dommages-intérêts et des frais auxquels il a été condamné et, [s'il a été condamné pour infraction à [<sup>1</sup> l'article 491]<sup>1</sup> du Code pénal], il doit être libéré du passif de la faillite, en principal, intérêts et frais. &lt;L 1997-08-08/80, art. 125, 003; En vigueur : 01-01-1998&gt;
+
+Toutefois, la cour appelée à statuer sur la demande en réhabilitation peut affranchir de ces conditions le condamné qui justifie s'être trouvé dans l'impossibilité de se libérer, soit en raison de son indigence, soit en raison de toute autre cause qui ne lui est pas imputable. Elle peut aussi, dans ce cas et sans préjudice des droits des créanciers, fixer la partie des restitutions, des dommages-intérêts, des frais de justice et du passif dont le condamné doit être libéré avant qu'il puisse être admis à la réhabilitation.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 228, 043; En vigueur : 01-09-2026&gt;
+
+##### Art. 624
+
+&lt;L 07-04-1964, art. 7&gt; [<sup>1</sup> La réhabilitation est subordonnée à un temps d'épreuve au cours duquel le requérant, personne physique, doit avoir eu une résidence certaine en Belgique ou à l'étranger et avoir fait preuve d'amendement et avoir été de bonne conduite.
+
+Lorsque la réhabilitation concerne une personne morale, elle est subordonnée à un temps d'épreuve au cours duquel la personne morale doit avoir eu son siège social ou un siège d'exploitation en Belgique, et le procureur du Roi détermine les éléments susceptibles d'influencer l'évaluation de la demande en réhabilitation.]<sup>1</sup>
+
+La cour doit notamment tenir compte dans son appréciation des efforts faits par le requérant pour réparer les dommages résultant des infractions, qui n'auraient pas été établis judiciairement.
+
+[...] &lt;L 1997-08-08/14, art. 19, 006; En vigueur : 03-09-2001&gt;
+
+----------
+
+(1)&lt;L 2016-12-25/14, art. 26, 030; En vigueur : 09-01-2017&gt;
+
+##### Art. 625
+
+&lt;L 07-04-1964, art. 8&gt; Le temps d'épreuve, [qui se prolonge jusqu'à l'arrêt prononçant la réhabilitation], prend cours à compter &lt;L 1991-01-09/33, art. 5, 002; En vigueur : 15-02-1991&gt; :
+
+1°[<sup>3</sup> du jour de la condamnation conditionnelle définitive;]<sup>3</sup>
+
+2° du jour de la date de l'arrêté royal de grâce qui a rendu la peine conditionnelle;
+
+3° du jour de la libération conditionnelle, à condition que la libération définitive soit acquise au moment de l'introduction de la demande;
+
+[<sup>1</sup> 3°bis du jour de la libération sous surveillance, à condition que la mise à la disposition du tribunal de l'application des peines ait pris fin au moment de l'introduction de la demande;]<sup>1</sup>
+
+4° dans les autres cas visés à l'article 622, du jour de l'extinction des peines ou du jour où leur prescription est acquise, à condition que leur non-exécution ne soit pas imputable au requérant.
+
+----------
+
+(1)&lt;L 2007-04-26/89, art. 8, 014; En vigueur : 01-01-2012&gt;
+
+(2)&lt;L 2024-05-15/03, art. 47, 041; En vigueur : 07-06-2024&gt;
+
+(3)&lt;L 2026-03-11/03, art. 229, 043; En vigueur : 01-09-2026&gt;
+
+##### Art. 626
+
+[<sup>1</sup> § 1er. La durée minimum du temps d'épreuve est de trois années pour les condamnations à des peines [<sup>2</sup> ...]<sup>2</sup> n'excédant pas un emprisonnement de cinq ans.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Toutefois, ce délai est porté à six ans au minimum si le requérant a été condamné en état de récidive légale, [<sup>2</sup> conformément à l'article 60 du Code pénal ou s'il a été mis à la disposition du tribunal de l'application des peines]<sup>2</sup>
+
+§ 2. La durée minimum du temps d'épreuve est de cinq années pour les condamnations à des peines [<sup>2</sup> ...]<sup>2</sup> excédant un emprisonnement de cinq ans.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Toutefois, ce délai est porté à dix ans au minimum si le requérant a été condamné en état de récidive légale, [<sup>2</sup> conformément à l'article 60 du Code pénal ou s'il a été mis à la disposition du tribunal de l'application des peines.]<sup>2</sup>
+
+§ 3. En ce qui concerne les condamnations conditionnelles, la durée du temps d'épreuve ne peut être inférieure à la durée du sursis sauf si celle-ci a été réduite par voie de grâce. [<sup>2</sup> ...]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-15/03, art. 48, 041; En vigueur : 07-06-2024&gt;
+
+(2)&lt;L 2026-03-11/03, art. 230, 043; En vigueur : 01-09-2026&gt;
+
+##### Art. 627
+
+&lt;L 1997-08-08/14, art. 20, 006; En vigueur : 03-09-2001&gt; Si, au cours du temps d'épreuve prévu aux articles précédents, le requérant a été [<sup>1</sup> condamné [<sup>2</sup> à une peine de niveau 1 pour infraction]<sup>2</sup> :
+
+aux articles [<sup>2</sup> 106, 107, 217, 218, 358, 359, 360, 361, 505, 512 et 640]<sup>2</sup> du Code pénal;
+
+[<sup>2</sup> ...]<sup>2</sup>;
+
+aux lois et règlements particuliers,
+
+la Cour peut décider que ces condamnations ne font pas obstacle à l'octroi de la réhabilitation.
+
+----------
+
+(1)&lt;L 2024-05-15/03, art. 49, 041; En vigueur : 07-06-2024&gt;
+
+(2)&lt;L 2026-03-11/03, art. 231, 043; En vigueur : 01-09-2026&gt;
+
+##### Art. 628
+
+&lt;L 07-04-1964, art. 11&gt; [<sup>1</sup> Le requérant adresse sa demande en réhabilitation au procureur du Roi de l'arrondissement dans lequel il réside, ou s'il s'agit d'une personne morale, dans lequel elle a établi son siège social ou un siège d'exploitation, en lui faisant connaître les condamnations que vise la demande et les lieux où il a résidé ou elle a eu son siège social ou un siège d'exploitation pendant le délai d'épreuve.
+
+Lorsqu'il réside à l'étranger, ou s'il s'agit d'une personne morale, qui a son siège social ou un siège d'exploitation à l'étranger, la demande est adressée au procureur du Roi de l'arrondissement de Bruxelles.]<sup>1</sup>
+
+[La demande ne pourra être adressée plus d'un an avant l'expiration du délai visé par l'article 626.] &lt;L 1991-01-09/33, art. 6,2°, 002; En vigueur : 15-02-1991&gt;
+
+----------
+
+(1)&lt;L 2016-12-25/14, art. 27, 030; En vigueur : 09-01-2017&gt;
+
+##### Art. 629
+
+[<sup>1</sup> § 1er. Lorsque le requérant est une personne physique, le procureur du Roi se fait délivrer :
+
+1° un extrait de casier judiciaire du requérant;
+
+2° un extrait certifié conforme de tous les arrêts et jugements en matière répressive qui concernent le requérant;
+
+3° un extrait du registre de comptabilité morale du requérant tenu pendant l'exécution des peines ou mesures privatives de liberté qu'il a subies;
+
+4° les attestations des bourgmestres des communes où le requérant a résidé pendant le délai d'épreuve, faisant connaître l'époque et la durée de sa résidence dans chaque commune, son activité professionnelle, ses moyens de subsistance et sa conduite pendant le même temps.
+
+Les extraits visés à l'alinéa 1er mentionnent, outre la nature précise des faits et les peines ou mesures prononcées, toute condamnation à des restitutions, à des dommages-intérêts envers une partie civile et aux frais de l'instance.
+
+§ 2. Lorsque le demandeur est une personne morale, le procureur du Roi se fait délivrer :
+
+1 ° un extrait du casier judiciaire du requérant;
+
+2° un extrait certifié conforme de tous les arrêts ou jugements en matière répressive qui concernent le requérant.
+
+Ces extraits mentionnent, outre la nature précise des faits et les peines ou mesures prononcées, toute condamnation à des restitutions, à des dommages-intérêts envers une partie civile et aux frais de l'instance;
+
+3° les attestations des bourgmestres des communes où la personne morale a établi son siège social ou un siège d'exploitation pendant le délai d'épreuve, relatifs aux éléments déterminés par le procureur du Roi pour évaluer la demande de réhabilitation.
+
+Si le requérant est une personne morale ayant son siège social ou un siège d'exploitation à l'étranger, le procureur du Roi détermine les attestations à produire pour tenir lieu de celles prévues ci-dessus, ou se procure les documents nécessaires.
+
+§ 3. Le procureur du Roi prend d'office ou à la demande du procureur général toutes informations jugées nécessaires. Il transmet le dossier de la procédure avec son avis au procureur général.
+
+[<sup>3</sup> Si le requérant est une personne physique et [<sup>4</sup> a subi une peine pour des faits visés aux articles 134 à 149 et 151 du Code pénal ou pour des faits visés aux articles 152 à 168, 170 à 174, 177 à 179, 183 à 185 et 192 du même Code]<sup>4</sup>]<sup>3</sup> du même Code lorsque ceux-ci ont été accomplis sur des mineurs ou ont impliqué leur participation, le dossier contient l'avis d'un service spécialisé dans la guidance ou le traitement des délinquants sexuels.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/14, art. 28, 030; En vigueur : 09-01-2017&gt;
+
+(2)&lt;L 2022-03-21/01, art. 113, 036; En vigueur : 01-06-2022&gt;
+
+(3)&lt;L 2024-05-15/03, art. 50, 041; En vigueur : 07-06-2024&gt;
+
+(4)&lt;L 2026-03-11/03, art. 232, 043; En vigueur : 01-09-2026&gt;
+
+##### Art. 630
+
+&lt;L 07-04-1964, art. 13&gt; Dans les deux mois de la réception de la requête, le procureur général soumet le dossier de la procédure à la chambre des mises en accusation qui procède et statue à huis clos dans le mois.
+
+Si le procureur général estime que la comparution du requérant n'est pas indispensable et qu'il y a lieu de faire droit à la demande, la cour peut accorder la réhabilitation sans autres formalités.
+
+Dans les autres cas, le procureur général, le requérant et son conseil sont entendus.
+
+Le dossier est mis à la disposition du requérant et de son conseil pendant cinq jours au moins.
+
+Le requérant comparaît sur citation donnée par le procureur général huit jours francs avant la date fixée.
+
+Si après la comparution, la cour juge une enquête nécessaire, elle indique les faits sur lesquels celle-ci portera, désigne les témoins et fixe le jour pour l'audition de ceux-ci.
+
+Immédiatement après l'audition des témoins, le procureur général, le requérant et son conseil sont entendus à nouveau.
+
+Les témoins sont appelés à la diligence du procureur général. Leur comparution, leur audition et leurs indemnités seront réglées comme celles des témoins en matière correctionnelle.
+
+[<sup>1</sup> Le requérant doit comparaître à chaque audience sauf à celle où l'arrêt est prononcé. Le requérant qui est une personne physique comparaît en personne. S'il s'agit d'une personne morale, c'est la personne compétente pour la représenter qui comparaît.]<sup>1</sup>
+
+S'il fait défaut sans justifier d'une excuse légitime, la cour rejette la demande.
+
+S'il justifie de pareille excuse, la cour passe outre, après audition du conseil, ou remet la cause.
+
+----------
+
+(1)&lt;L 2016-12-25/14, art. 29, 030; En vigueur : 09-01-2017&gt;
+
+##### Art. 631
+
+&lt;L 07-04-1964, art. 14&gt; Si la cour rejette la demande, celle-ci ne peut être renouvelée avant l'expiration de deux années depuis la date de l'arrêt. Sauf si la réhabilitation est refusée pour défaut d'amendement ou de bonne conduite, la cour peut dans l'arrêt de rejet fixer un délai plus court.
+
+Si la cour prononce la réhabilitation, l'arrêt est exécuté à la diligence du procureur général.
+
+##### Art. 632
+
+&lt;L 07-04-1964, art. 15&gt; [<sup>1</sup> Mention de la réhabilitation est faite en marge des arrêts ou jugements définitifs pour lesquels elle est accordée; un extrait de l'arrêt est adressé au ministre de la Justice, au procureur du Roi qui a fait rapport, au bourgmestre de la commune où le requérant est domicilié ou, s'il s'agit d'une personne morale, où elle a son siège social ou un siège d'exploitation. Lorsque le réhabilité est une personne morale qui a déposé ses statuts en Belgique, un extrait de l'arrêt est adressé au greffe de la juridiction où les statuts de celle-ci ont été déposés.]<sup>1</sup>
+
+Le réhabilité peut se faire délivrer une expédition de l'arrêt de réhabilitation.
+
+----------
+
+(1)&lt;L 2016-12-25/14, art. 30, 030; En vigueur : 09-01-2017&gt;
+
+##### Art. 633
+
+&lt;L 07-04-1964, art. 16&gt;[Les frais de la procédure en réhabilitation sont à charge du requérant. Ils sont réglés comme en matière correctionnelle.
+
+Par lettre recommandée à la poste, le greffier de la Cour avise le requérant du montant des frais de la procédure et l'invite à les verser au greffe dans les deux mois du prononcé.
+
+Copie de la quittance est jointe au dossier et l'arrêt est alors exécuté comme dit à l'article 631 alinéa 2.] &lt;L 1997-08-08/14, art. 23, 006; En vigueur : 03-09-2001&gt;
+
+##### Art. 634
+
+&lt;L 07-04-1964, art. 17&gt; La réhabilitation fait cesser, pour l'avenir, dans la personne du condamné, tous les effets de la condamnation, sans préjudice des droits acquis aux tiers.
+
+Notamment :
+
+elle fait cesser dans la personne du condamné les incapacités qui résultaient de la condamnation;
+
+elle empêche que cette décision serve de base à la récidive, fasse obstacle à la condamnation conditionnelle ou soit mentionnée dans les extraits du casier judiciaire et du registre matricule militaire;
+
+elle ne restitue pas au condamné les titres, grades, fonctions, emplois et offices publics dont il a été destitué;
+
+elle ne le relève pas de l'indignité successorale;
+
+elle n'empêche ni l'action en divorce ou en séparation de corps, ni l'action en dommages-intérêts fondée sur la décision judiciaire.
+
+### CHAPITRE V. - DE LA PRESCRIPTION.
+
+##### Art. 635
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 244°&gt;
+
+##### Art. 636
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 244°&gt;
+
+##### Art. 637
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 244°&gt;
+
+##### Art. 638
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 244°&gt;
+
+##### Art. 639
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 244°&gt;
+
+##### Art. 640
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 244°&gt;
+
+##### Art. 641
+
+En aucun cas, les condamnés par défaut ou par contumace, dont la peine est prescrite, ne pourront être admis à se présenter pour purger le défaut ou la contumace.
+
+##### Art. 642
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 245°&gt;
+
+##### Art. 643
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 245°&gt;
+
+### CHAPITRE VI. - DISPOSITION PARTICULIERE.
+
+##### Art. 644
+
+&lt;L 23-12-1963, art. unique&gt; Lorsque pour faire un acte de procédure en matière répressive, le délai légal expire un samedi, un dimanche ou un autre jour férié légal, il est prorogé jusqu'au plus prochain jour ouvrable.
+
+Lorsque, pour faire à un greffe un acte en matière répressive, le délai expire un jour où ce greffe est fermé, l'acte y est valablement reçu le plus prochain jour d'ouverture de ce greffe.
+
+##### Art. 645
+
+&lt;Inséré par L 2008-07-24/35, art. 136; En vigueur : 17-08-2008&gt; Les fonctionnaires de police, les directeurs d'établissements pénitentiaires et les représentants des directeurs d'établissements pénitentiaires [<sup>1</sup> , les directeurs des centres communautaires pour mineurs ayant commis un fait qualifié infraction et leurs représentants]<sup>1</sup> peuvent être chargés par le ministère public, à l'instar des huissiers de justice, mais sans frais, de la signification ou notification de tous les actes judiciaires en matière répressive.
+
+----------
+
+(1)&lt;L 2014-12-19/24, art. 4, 026; En vigueur : 01-01-2015&gt;
+
+##### Art. 646
+
+[<sup>1</sup> Les catégories d'informations extraites de décisions coulées en force de chose jugée prise par un tribunal correctionnel, une cour d'assises ou une cour d'appel et qui sont susceptibles de modifier celles enregistrées dans la banque de données nationale générale visée à l'article 44/7 de la loi du 5 août 1992 sur la fonction de police, dénommée ci-après BNG, sont communiquées endéans les trente jours à la police, selon les modalités définies par le Roi, par arrêté délibéré en Conseil des ministres.
+
+Les catégories d'informations extraites de décisions de non-lieu des juridictions d'instructions qui sont susceptibles de modifier celles enregistrées en BNG sont communiquées endéans les trente jours à la police, selon les modalités définies par le Roi, par arrêté délibéré en Conseil des ministres.
+
+Les catégories d'informations extraites de décisions de classement sans suite pour charge insuffisante ou pour absence d'infraction, prises par le ministère public qui sont susceptibles de modifier celles enregistrées en BNG sont communiquées endéans les trente jours à la police, selon les modalités définies par le Roi, par arrêté délibéré en Conseil des ministres.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-18/05, art. 56, 019; En vigueur : indéterminée et au plus tard au 07-04-2018 (art. 57, alinéa 2)&gt;
+
+##### Art. 647
+
+&lt;Abrogé par L 2019-05-05/19, art. 69, 033; En vigueur : 29-06-2019&gt;
+
+##### Art. 648
+
+[<sup>1</sup> Dans tous les cas où il y aura envoi de pièces d'une procédure, le greffier y joint un inventaire de ces pièces.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-03-23/18, art. 15, 035; En vigueur : 01-01-2020&gt;

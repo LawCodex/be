@@ -1,0 +1,835 @@
+---
+title: "CODE D'INSTRUCTION CRIMINELLE. - LIVRE II, TITRES V ET VI. (Art. 525 à 588)"
+identifier: "1808121450"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1808/12/14/1808121450/justel"
+type: code
+justel_type: "CODE D'INSTRUCTION CRIMINELLE"
+jurisdiction: be
+language: fr
+date: 1808-12-14
+published: 1808-12-24
+entry_into_force: 1809-01-03
+last_amended: 2026-03-18
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1808/12/14/1808121450/justel"
+justel_notes:
+  - "Pour des raisons techniques, le Code d'Instruction Criminelle est divisé en 8 parties, dont les Titres V et VI du deuxième Livre sont la septième partie"
+  - "Consultation des versions antérieures à partir du 02-04-1998 et mise à jour au 18-03-2026"
+retrieved: 2026-10-11
+---
+
+# 14 DECEMBRE 1808. - CODE D'INSTRUCTION CRIMINELLE. - LIVRE II, TITRES V ET VI. (Art. 525 à 588)
+
+## TITRE V. - DES REGLEMENTS DE JUGES ET DES RENVOIS D'UN TRIBUNAL A UN AUTRE.
+
+### CHAPITRE I. - DES REGLEMENTS DE JUGES.
+
+#### Art. 525
+
+Toutes demandes en règlement de juges seront instruites et jugées sommairement, et sur simples mémoires.
+
+#### Art. 526
+
+Il y aura lieu à être réglé de juges par la Cour de cassation, en matière criminelle, correctionnelle ou de police, lorsque des cours, tribunaux, ou juges d'instruction, ne ressortissant point les uns des autres, seront saisis de la connaissance [<sup>1</sup> de la même infraction ou d'infractions connexes]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 209, 014; En vigueur : 01-09-2026&gt;
+
+#### Art. 526bis
+
+&lt;Inséré par L 2001-06-21/42, art. 59; En vigueur : 21-05-2002&gt; Il y aura lieu également au règlement de juges par la Cour de cassation, lorsque différents juges d'instruction prennent connaissance [<sup>1</sup> d'une même infraction ou d'infractions connexes]<sup>1</sup> pour lesquels le procureur fédéral est chargé de l'exercice de l'action publique.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 210, 014; En vigueur : 01-09-2026&gt;
+
+#### Art. 527
+
+Il y aura lieu également à être réglé de juges par la Cour de cassation, lorsqu'un tribunal militaire [en temps de guerre], ou [...] tout autre tribunal d'exception, d'une part, [une cour d'appel ou une cour d'assises], un tribunal jugeant correctionnellement, un tribunal de police, ou un juge d'instruction, d'autre part, seront saisis de la connaissance [<sup>1</sup> de la même infraction ou d'infractions connexes]<sup>1</sup>. &lt;L 10-07-1967, art. 1, 217°&gt; &lt;L 2003-04-10/59, art. 87, 006; En vigueur : 01-01-2004&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 211, 014; En vigueur : 01-09-2026&gt;
+
+#### Art. 527bis
+
+&lt;L 10-10-1967, art. 157&gt; Les demandes en règlement de juges sont introduites par requête de la partie poursuivante, ou par un mémoire de la partie civile, appuyé des pièces justificatives.
+
+[Les demandes en règlement de juges visées à l'article 526bis sont introduites par le procureur fédéral après concertation avec le procureur du Roi.] &lt;L 2001-06-21/42, art. 60, 003; En vigueur : 21-05-2002&gt;
+
+Le premier président nomme un rapporteur, sans ordonner préalablement la communication des pièces, et on suit quant à la communication à faire au procureur général et à la fixation de l'audience, les règles prescrites [<sup>1</sup> par l'article 432]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2024-03-28/60, art. 65, 009; En vigueur : 08-04-2024&gt;
+
+#### Art. 528
+
+Sur le vu de la requête et des pièces, [la chambre de la Cour de cassation qui connaît des pourvois en matière criminelle, correctionnelle ou de police], ordonnera que le tout soit communiqué aux parties, ou statuera définitivement, sauf l'opposition. &lt;L 10-07-1967, art. 1, 218°&gt;
+
+#### Art. 528bis
+
+&lt;L 10-10-1967, art. 158&gt; Le demandeur en règlement de juges peut plaider sa cause comme en matière civile. La cour, après avoir entendu le ministère public, prononce définitivement, ou ordonne suivant les circonstances par un arrêt préparatoire que le mémoire sera préalablement communiqué à la partie adverse.
+
+#### Art. 529
+
+Dans le cas où la communication serait ordonnée sur le pourvoi en conflit du prévenu, de l'accusé ou de la partie civile, l'arrêt enjoindra à l'un et à l'autre des officiers chargés du ministère public près les autorités judiciaires, concurremment saisies, de transmettre les pièces du procès et leur avis motivé sur le conflit.
+
+#### Art. 530
+
+Lorsque la communication sera ordonnée sur le pourvoi de l'un de ces officiers, l'arrêt ordonnera à l'autre de transmettre les pièces et son avis motivé.
+
+#### Art. 531
+
+L'arrêt de " soit communiqué " fera mention sommaire des actes d'où naîtra le conflit, et fixera, selon la distance des lieux, le délai dans lequel les pièces et les avis motivés seront apportés au greffe.
+
+La notification qui sera faite de cet arrêt aux parties emportera de plein droit sursis au jugement du procès, et, en matière criminelle, à la mise en accusation, ou, si elle a déjà été prononcée, à la formation du jury dans les cours d'assises [...], mais non aux actes et aux procédures conservatoires ou d'instruction. &lt;L 10-07-1967, art. 1, 218°&gt;
+
+Le prévenu ou l'accusé et la partie civile pourront présenter leurs moyens sur le conflit, dans la forme réglée par le chapitre II du titre III du présent livre, pour le recours en cassation.
+
+#### Art. 532
+
+Lorsque, sur la simple requête, il sera intervenu arrêt qui aura statué sur la demande en règlement de juges, cet arrêt sera à la diligence du procureur général près la Cour de cassation, et par l'intermédiaire du [...] ministre de la justice, notifié à l'officier chargé du ministère public près la cour, le tribunal ou le magistrat dessaisi. &lt;L 10-07-1967, art. 1, 22°&gt;
+
+Il sera notifié de même au prévenu ou à l'accusé, et à la partie civile, s'il y en a une.
+
+#### Art. 533
+
+&lt;L 10-10-1967, art. 159&gt; Le prévenu ou l'accusé et la partie civile peuvent former opposition à l'arrêt rendu sans communication préalable, dans le délai d'un mois à compter de la signification, et dans les formes prescrites par le chapitre II du titre III du présent livre pour le recours en cassation.
+
+#### Art. 534
+
+L'opposition dont il est parlé au précédent article entraînera de plein droit sursis au jugement du procès, comme il est dit en l'article 531.
+
+#### Art. 535
+
+Le prévenu qui ne sera pas en arrestation, l'accusé qui ne sera pas retenu dans la maison de justice, et la partie civile, ne seront point admis au bénéfice de l'opposition, s'ils n'ont antérieurement, ou dans le délai fixé par l'article 533, élu domicile dans le lieu où siège l'une des autorités judiciaires en conflit.
+
+A défaut de cette élection, ils ne pourront non plus exciper de ce qu'il ne leur aurait été fourni aucune communication, dont le poursuivant sera dispensé à leur égard.
+
+#### Art. 536
+
+La Cour de cassation, en jugeant le conflit, statuera sur tous les actes qui pourraient avoir été faits par la cour, le tribunal ou le magistrat qu'elle dessaisira.
+
+#### Art. 537
+
+Les arrêts rendus sur des conflits ne pourront pas être attaqués par la voie de l'opposition, lorsqu'ils auront été précédés d'un arrêt de " soit communiqué ", dûment exécuté.
+
+#### Art. 538
+
+L'arrêt rendu, ou après un " soit communiqué ", ou sur une opposition, sera notifié aux mêmes parties et dans la même forme que l'arrêt qui l'aura précédé.
+
+#### Art. 539
+
+Lorsque [l'inculpé, le prévenu ou l'accusé], l'officier chargé du ministère public, ou la partie civile, aura excipé de l'incompétence d'un tribunal de première instance, ou d'un juge d'instruction, ou proposé un déclinatoire, soit que l'exception ait été admise ou rejetée, nul ne pourra recourir à la Cour de cassation pour être réglé de juges; sauf à se pourvoir devant la [cour d'appel] contre le décision portée par le tribunal de première instance ou le juge d'instruction, et à se pourvoir en cassation, s'il y a lieu, contre l'arrêt rendu par la [cour d'appel]. &lt;L 10-07-1967, art. 1, 222°&gt;
+
+#### Art. 540
+
+Lorsque deux juges d'instruction ou deux tribunaux de première instance, établis dans le ressort de la même [cour d'appel], seront saisis de la connaissance [<sup>1</sup> de la même infraction ou d'infractions connexes]<sup>1</sup>, les parties seront réglées de juges par cette cour, suivant la forme prescrite au présent chapitre, sauf le recours, s'il y a lieu, à la Cour de cassation.
+
+Lorsque deux [tribunaux de police] seront saisis de la connaissance de la même [<sup>1</sup> infraction ou d'infractions connexes]<sup>1</sup>, les parties seront réglées de juges par le tribunal auxquels ils ressortissent l'un et l'autre; et s'ils ressortissent à différents tribunaux, elles seront réglées par la [cour d'appel], sauf le recours, s'il y a lieu, à la cour de cassation. &lt;L 10-07-1967, art. 1, 223°&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 212, 014; En vigueur : 01-09-2026&gt;
+
+#### Art. 541
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 224°&gt;
+
+### CHAPITRE II. - DES RENVOIS D'UN TRIBUNAL A UN AUTRE.
+
+#### Art. 542
+
+En matière criminelle, correctionnelle et de police, la Cour de cassation peut, sur la réquisition du procureur général près cette Cour, renvoyer la connaissance d'une affaire [d'une cour d'appel et d'une cour d'assises] à une autre, d'un tribunal correctionnel ou de police à un autre tribunal de même qualité, [...], pour cause de sûreté publique ou de suspicion légitime. &lt;L 10-07-1967, art. 1, 225°&gt; &lt;L 1998-03-12/38, art. 9, 002, En vigueur : 1998-04-12&gt;
+
+Ce renvoi peut aussi être ordonné sur la réquisition des parties intéressées [<sup>1</sup> signé par un avocat]<sup>1</sup>, mais seulement pour cause de suspicion légitime.
+
+----------
+
+(1)&lt;L 2024-05-15/03, art. 44, 011; En vigueur : 07-06-2024&gt;
+
+#### Art. 543
+
+La partie intéressée qui aura procédé volontairement devant une cour, un tribunal ou un juge d'instruction, ne sera reçue à demander le renvoi qu'à raison des circonstances survenues depuis, lorsqu'elles seront de nature à faire naître une suspicion légitime.
+
+#### Art. 544
+
+Les officiers chargés du ministère public pourront se pourvoir immédiatement devant la Cour de cassation, pour demander le renvoi pour cause de suspicion légitime; mais lorsqu'il s'agira d'une demande en renvoi pour cause de sûreté publique, ils seront tenus d'adresser leurs réclamations, leurs motifs et les pièces à l'appui, au [...] ministre de la justice, qui les transmettra, s'il y a lieu, à la Cour de cassation. &lt;L 10-07-1967, art. 1, 226°&gt;
+
+#### Art. 545
+
+[<sup>1</sup> Sur le vu de la requête et des pièces justificatives, la chambre de la Cour de cassation qui connaît des pourvois en matière criminelle, correctionnelle ou de police, statue immédiatement et définitivement lorsque la requête est manifestement irrecevable ou lorsque les éléments reproduits dans la requête et les pièces justificatives suffisent.
+
+Si, en outre, une amende pour requête manifestement irrecevable peut se justifier, ce point seul sera traité à une audience fixée par la même décision à une date rapprochée. Le greffier convoque les parties par pli judiciaire afin qu'elles fassent connaître leurs observations par écrit pour cette date.
+
+L'amende est de cent vingt-cinq euros à deux mille cinq cents euros. Tous les cinq ans, le Roi peut adapter les montants minimums et maximums au coût de la vie. Le recouvrement de l'amende est poursuivi par toutes voies de droit à la diligence de l'Administration de l'enregistrement et des domaines.
+
+Lorsque les conditions requises à l'alinéa 1er pour une décision immédiate et définitive ne sont pas remplies, la Cour de cassation ordonne dans le plus bref délai et au plus tard dans les huit jours :
+
+1° a) la communication de l'arrêt, de la requête et des pièces y annexées au juge au tribunal de police dont le dessaisissement est demandé, pour qu'il fasse, dans le délai fixé par la Cour, une déclaration sur l'expédition de l'arrêt;
+
+b) la communication de l'arrêt, de la requête et des pièces y annexées au premier président ou au président, selon la juridiction dont le dessaisissement est demandé, pour qu'il fasse, dans le délai fixé par la Cour, une déclaration sur l'expédition de l'arrêt, et ce, en concertation avec les membres de la juridiction nommément désignés, qui contresigneront ladite déclaration;
+
+2° la communication de l'arrêt, de la requête et des pièces y annexées aux parties non requérantes ainsi que la communication du délai dont celles-ci disposent pour le dépôt de leurs conclusions au greffe et du jour de comparution devant la Cour; cette comparution a lieu au plus tard dans les deux mois du dépôt de la requête; toutefois, la Cour de cassation n'ordonnera pas la communication lorsque, par les motifs qu'elle énonce, elle juge la communication et la notification de la date de comparution néfastes pour l'instruction;
+
+3° la communication de l'arrêt, de la requête et des pièces y annexées au ministère public près la juridiction contre laquelle la demande en renvoi est formée ainsi que la communication du délai dans lequel doit être déposé son avis, si la Cour de cassation le juge nécessaire;
+
+4° le rapport, au jour indiqué, par l'un des conseillers nommé par l'arrêt.
+
+Sans préjudice de l'exception prévue au point 2°, les conclusions et, le cas échéant, l'avis du ministère public sont communiqués aux parties au plus tard le jour du dépôt au greffe.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 117, 008; En vigueur : 29-02-2016&gt;
+
+#### Art. 546
+
+[Abrogé] &lt;L 1998-03-12/38, art. 14, 002, En vigueur : 1998-04-12&gt;
+
+#### Art. 547
+
+&lt;L 1998-03-12/38, art. 11, 002, En vigueur : 1998-04-12&gt; La Cour de cassation prononcera les dispositions préparatoires qu'elle jugera nécessaires.
+
+#### Art. 548
+
+&lt;L 1998-03-12/38, art. 12, 002, En vigueur : 1998-04-12&gt; Le greffier de la Cour de cassation adresse, par lettre recommandée, au juge visé à l'article 545, alinéa 2, 1°, au requérant et [<sup>1</sup> , sauf si, par les motifs qu'elle énonce dans son arrêt, la Cour juge cet envoi néfaste pour l'instruction,]<sup>1</sup> aux parties non requérantes visées à l'article 545, ou, le cas échéant, à leurs avocats, une copie non signée de la décision définitive sur la demande en renvoi.
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 118, 008; En vigueur : 29-02-2016&gt;
+
+#### Art. 549
+
+[Abrogé] &lt;L 1998-03-12/38, art. 14, 002, En vigueur : 1998-04-12&gt;
+
+#### Art. 550
+
+[Abrogé] &lt;L 1998-03-12/38, art. 14, 002, En vigueur : 1998-04-12&gt;
+
+#### Art. 551
+
+&lt;L 1998-03-12/38, art. 13, 002, En vigueur : 1998-04-12&gt; Les articles 525, 531 et 536 s'appliquent par analogie aux demandes en renvoi d'un tribunal à un autre.
+
+#### Art. 552
+
+L'arrêt qui aura rejeté une demande en renvoi n'exclura pas une nouvelle demande en renvoi fondée sur des faits survenus depuis.
+
+## TITRE VI. - [De la médiation.] &lt;L 2005-06-22/35, art. 5, 007; En vigueur : 31-01-2006&gt;
+
+#### Art. 553
+
+&lt;L 2005-06-22/35, art. 6, 007; En vigueur : 31-01-2006&gt; § 1er. Sous réserve de l'article 216ter du présent Code, toute personne qui a un intérêt direct peut, dans chaque phase de la procédure pénale et de l'exécution de la peine formuler une demande de médiation.
+
+§ 2. Le ministère public, le juge d'instruction, les juridictions d'instruction et le juge veillent à ce que les parties impliquées dans une procédure judiciaire soient informées sur la possibilité de demander une médiation. Pour autant qu'ils l'estiment opportun dans des dossiers concrets, ils peuvent eux-mêmes proposer une médiation aux parties.
+
+§ 3. La demande de médiation est adressée à un service visé à l'article 554, § 1er.
+
+Ce service peut informer le procureur du Roi de la demande et solliciter le cas échéant l'autorisation de prendre connaissance du dossier.
+
+§ 4. Les parties peuvent se faire assister par un avocat au cours de la médiation.
+
+#### Art. 554
+
+&lt;L 2005-06-22/35, art. 7, 007; En vigueur : 31-01-2006&gt; § 1er. Les médiateurs font partie d'un service qui offre de la médiation et qui est agréé par le Ministre de la Justice. Les critères d'agrément sont fixés par le Roi par arrêté délibéré en Conseil des Ministres et ont trait à la personnalité juridique du service, à ses activités, à sa composition pluridisciplinaire et à l'obligation de prévoir une formation adaptée et un soutien spécialisé. En outre, le Roi fixe par arrêté délibéré en Conseil des Ministres les procédures d'octroi, de suspension et de retrait d'agrément ainsi que l'organisation de financement de ces services.
+
+§ 2. Il est créé auprès du Service public fédéral Justice une "commission déontologique médiation" pour ces services. Cette commission aura pour mission d'élaborer et d'actualiser un code de déontologie en matière de médiation ainsi que d'assurer le suivi des problèmes déontologiques. La commission se compose de douze membres désignés sur la base de leurs connaissances et de leur expérience dans la matière. Le Roi fixe par arrêté délibéré en Conseil des ministres les règles concernant la composition et le fonctionnement de la commission. La composition respecte la parité linguistique.
+
+#### Art. 555
+
+&lt;L 2005-06-22/35, art. 8, 007; En vigueur : 31-01-2006&gt; § 1er. Les documents établis et les communications faites dans le cadre d'une intervention d'un médiateur sont confidentiels, à l'exception de ce que les parties consentent à porter à la connaissance des autorités judiciaires. Ils ne peuvent être utilisés dans une procédure pénale, civile, administrative ou arbitrale ou dans toute autre procédure visant à résoudre des conflits et ne sont pas admissibles comme preuve, même comme aveu extrajudiciaire.
+
+§ 2. Les documents confidentiels qui sont tout de même communiqués ou sur lesquels une partie se base en violation de l'obligation de secret sont d'office écartés des débats.
+
+§ 3. Sans préjudice des obligations que la loi lui impose, le médiateur ne peut rendre publics les faits dont il prend connaissance du fait de sa fonction. Il ne peut être appelé comme témoin dans une procédure pénale, civile, administrative ou arbitrale ou dans toute autre procédure relative aux faits dont il a pris connaissance au cours d'une médiation.
+
+[<sup>1</sup> L'article 352]<sup>1</sup> du Code pénal s'applique au médiateur.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 213, 014; En vigueur : 01-09-2026&gt;
+
+## TITRE VIbis. [<sup>1</sup> - L'utilisation de la vidéoconférence]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 16, 012; En vigueur : 01-09-2024&gt;
+
+#### Art. 556
+
+[<sup>1</sup> § 1er. Pour l'application du présent titre, on entend par:
+
+1° vidéoconférence: toute liaison audiovisuelle directe, en temps réel, ayant pour but d'assurer une communication multidirectionnelle et simultanée de l'image et du son et une interaction visuelle, auditive et verbale entre plusieurs personnes ou groupes de personnes géographiquement éloignés;
+
+2° système de vidéoconférence: le système informatique, institué auprès du service désigné par le Roi qui permet:
+
+a) de tenir une vidéoconférence conformément aux conditions et exigences du présent titre;
+
+b) d'enregistrer une audience conformément à l'article 566 et, le cas échéant, conformément à l'article 558, § 4;
+
+c) de faciliter l'organisation des fixations d'audiences.
+
+§ 2. Les dispositions du présent titre ne portent pas atteinte au principe général selon lequel les audiences des tribunaux se tiennent physiquement dans les bâtiments de la justice. Par dérogation à ce principe, des audiences ne peuvent être organisées par vidéoconférence que conformément aux dispositions du présent titre.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-25/20, art. 17, 012; En vigueur : 01-09-2024&gt;
+
+#### Art. 557
+
+[<sup>1</sup> L'utilisation de la vidéoconférence en matière pénale a pour finalité de permettre à une ou plusieurs personnes ou, le cas échéant, à leurs représentants ou à des membres de la juridiction, de comparaitre, de participer ou de siéger à une audience à distance dans les conditions fixées par le présent titre.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-25/20, art. 18, 012; En vigueur : 01-09-2024&gt;
+
+#### Art. 558
+
+[<sup>1</sup> § 1er. L'organisation et le déroulement de l'audience par vidéoconférence ainsi que le système de vidéoconférence sont conçus de façon à garantir que les personnes comparaissant ou participant à l'audience par vidéoconférence et les personnes y comparaissant ou participant dans la salle d'audience dans les cas où une ou plusieurs personnes comparaissent ou participent par vidéoconférence, disposent, pour autant que le présent titre n'y déroge pas, des mêmes droits et obligations que ceux qu'elles ont dans le cadre d'une audience dans laquelle personne ne comparaît par vidéoconférence.
+
+§ 2. L'organisation et le déroulement de l'audience par vidéoconférence ainsi que le système de vidéoconférence garantissent que:
+
+1° les personnes comparaissant, participant et siégeant à l'audience sont en mesure de participer de manière effective à la procédure et de suivre effectivement et intégralement les débats;
+
+2° les personnes comparaissant, participant ou siégeant à l'audience peuvent s'exprimer et être vues et entendues sans entrave technique;
+
+3° si un avocat agit pour le comparant, le comparant peut communiquer effectivement et confidentiellement avec son avocat pendant la vidéoconférence;
+
+4° s'il y a plusieurs parties au procès ou plusieurs personnes à entendre, elles peuvent se voir et s'entendre simultanément, pour autant que la loi le permette;
+
+5° sauf exceptions prévues par la loi, l'enregistrement, la sauvegarde, et tout autre forme de traitement de la vidéoconférence ne sont pas autorisés.
+
+§ 3. Le Roi désigne le système de vidéoconférence visé à l'article 556, § 1er, 2°, et détermine, après avoir recueilli l'avis du gestionnaire visé à l'article 782, § 6, du Code judiciaire et du Collège du ministère public, les modalités de mise en place, et de fonctionnement du système de vidéoconférence.
+
+L'accès au système de vidéoconférence s'obtient au moyen des protocoles d'authentification appuyés par l'autorité fédérale ou d'un moyen d'authentification offrant des garanties équivalentes. Le Roi peut déterminer les moyens d'authentification.
+
+Le Roi peut déterminer la manière dont les utilisateurs ou les potentiels utilisateurs du système de vidéoconférence sont informés sur son fonctionnement, son utilisation, ses inconvénients et ses avantages.
+
+Le Roi peut également déterminer les règles minimales que doit respecter l'équipement informatique des personnes comparaissant ou participant à la vidéoconférence.
+
+§ 4. L'audience par vidéoconférence peut être enregistrée par la juridiction afin d'assurer la publicité visée à l'article 559, alinéa 1er. Cet enregistrement n'est pas conservé au-delà du terme de l'audience.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-25/20, art. 19, 012; En vigueur : 01-09-2024&gt;
+
+#### Art. 559
+
+[<sup>1</sup> La publicité des audiences par vidéoconférence est assurée par le système de vidéoconférence ou un autre système informatique désigné par le Roi ou par l'accès à la salle d'audience où siège la juridiction. La publicité des audiences peut également être assurée par une combinaison des moyens précités.
+
+Le huis clos par vidéoconférence est garanti par le système de vidéoconférence et par l'interdiction de l'accès à la salle d'audience où siège la juridiction.
+
+Le Roi fixe, après avoir recueilli l'avis du gestionnaire visé à l'article 782, § 6, du Code judiciaire et du Collège du ministère public, les modalités relatives à la publicité des audiences au moyen du système de vidéoconférence, ainsi que, le cas échéant, celles de mise en place et de fonctionnement du système informatique visé à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-25/20, art. 20, 012; En vigueur : 01-09-2024&gt;
+
+#### Art. 560
+
+[<sup>1</sup> § 1er. Les juridictions d'instruction, les tribunaux, les cours d'appel, le président d'une cour d'assises et la Cour de cassation peuvent, d'initiative, inviter une ou plusieurs personnes ou le ministère public à comparaitre ou participer par vidéoconférence à la première audience pour ce qui concerne les juridictions d'instruction, l'audience d'introduction, l'audience préliminaire, l'audience au cours de laquelle il est statué uniquement sur les intérêts civils ou pour le prononcé, moyennant leur accord, chacun pour ce qui concerne sa comparution ou participation, s'ils estiment que les conditions suivantes sont réunies:
+
+1° l'usage de la vidéoconférence est compatible avec les circonstances particulières de l'affaire;
+
+2° les garanties auxquelles doit répondre le système de vidéoconférence conformément à l'article 558, §§ 1er et 2, sont réunies.
+
+Pour l'évaluation des circonstances particulières de l'affaire visée à l'alinéa 1er, 1°, il est notamment tenu compte de la durée de la procédure, du nombre de parties, de la possibilité d'interaction entre les parties, de la phase de la procédure, de la nature du litige, de la complexité de l'affaire, de l'assistance d'un avocat, des possibilités de recours, de la capacité technique des prisons, de la situation de résidence dans laquelle se trouve une partie, de la situation physique ou psychique et de la situation de vulnérabilité d'une personne qui doit être entendue.
+
+Si, lors de l'audience visée à l'alinéa 1er, il apparaît que toutes les parties et le ministère public conviennent de traiter l'affaire au fond, par dérogation à l'alinéa 1er, l'audience peut être poursuivie, sans que l'affaire puisse être prise en délibérée.
+
+L'intéressé et toutes les parties sont avisés par citation ou notification d'audience, à défaut de quoi le greffe de la juridiction les en avise au plus tard le jour qui précède l'audience.
+
+A l'égard de la personne citée à qui une invitation à comparaitre par vidéoconférence a été notifiée et qui ne comparait ni par vidéoconférence, ni au lieu où siège la juridiction à l'heure indiquée dans la convocation, les règles du défaut s'appliquent.
+
+§ 2. Une personne peut demander à la juridiction, dès avant l'audience d'introduction ou la première audience, l'autorisation de comparaître ou de participer à l'audience par vidéoconférence. Cette demande est adressée au plus tard le sixième jour avant l'audience par voie électronique au greffe de la juridiction devant laquelle la personne doit comparaitre ou être entendue ainsi qu'aux parties. Cette demande contient l'adresse électronique du demandeur.
+
+Par dérogation à l'alinéa 1er, la demande de comparution ou de participation par vidéoconférence est adressée au plus tard le jour qui suit celui de la signification de la citation lorsque les délais de citation sont abrégés, conformément à l'article 184, alinéas 3 ou 4.
+
+La juridiction d'instruction, le tribunal, la cour d'appel, le président d'une cour d'assises ou la Cour de cassation peut faire droit à cette demande s'ils estiment que les conditions suivantes sont réunies:
+
+1° l'usage de la vidéoconférence est compatible avec les circonstances particulières de l'affaire, évaluées comme prévu au paragraphe 1er, alinéa 2;
+
+2° les garanties auxquelles doit répondre le système de vidéoconférence conformément à l'article 558, §§ 1er et 2, sont réunies.
+
+Le greffe de la juridiction notifie cette décision au requérant, à toutes les parties au procès ainsi qu'au ministère public, au plus tard le troisième jour avant l'audience ou lorsque les délais sont abrégés conformément à l'article 184, alinéas 3 ou 4, au plus tard le jour qui précède l'audience.
+
+Moyennant l'accord de toutes les parties concernées et du ministère public, la juridiction peut autoriser une demande de comparution ou de participation à l'audience par vidéoconférence en dehors des délais et de la procédure de notification visés aux alinéas 1er à 4.
+
+A l'égard de la personne citée qui a demandé de comparaitre par vidéoconférence, à qui une autorisation a été notifiée et qui ne comparait ni par vidéoconférence, ni au lieu où siège la juridiction à l'heure indiquée dans la convocation, les règles du défaut s'appliquent.
+
+En cas de refus, le requérant ne peut pas adresser au greffe une demande ayant le même objet avant l'expiration d'un délai de trois mois à compter de la dernière décision portant sur le même objet, sauf dans le cas où la demande précédente aurait été refusée pour manque de moyens techniques.
+
+§ 3. Les juridictions d'instruction, les tribunaux, les cours d'appel, le président d'une cour d'assises et la Cour de cassation peuvent d'office, par décision motivée, interdire une ou plusieurs personnes de comparaitre ou de participer à l'audience physiquement, s'ils estiment que les conditions suivantes sont réunies:
+
+1° l'usage de la vidéoconférence est compatible avec les circonstances particulières de l'affaire, qui sont évaluées comme prévu au paragraphe 1er, alinéa 2;
+
+2° les garanties auxquelles doit répondre le système de vidéoconférence conformément à l'article 558, §§ 1er et 2, sont réunies;
+
+3° lorsque la vidéoconférence est l'unique possibilité de participer à l'audience car:
+
+a) une situation d'urgence épidémique est déclarée conformément à l'article 3, § 1er, de la loi du 14 août 2021 relative aux mesures de police administrative lors d'une situation d'urgence épidémique et des mesures de police administrative empêchant la comparution physique à l'audience ou ayant pour conséquence d'empêcher une telle comparution physique sont adoptées, ou;
+
+b) il existe des indices objectivables d'un risque grave et concret pour la sécurité publique qui empêche que la personne concernée soit présente à l'audience ou que le transport vers la salle d'audience en sécurité soit garanti lorsque la personne concernée est détenue.
+
+Cette décision est notifiée par le greffe à l'ensemble des personnes appelées à comparaitre ou à participer à l'audience par vidéoconférence, au plus tard, le sixième jour avant l'audience.
+
+Un recours contre cette décision peut être introduit auprès du président ou le premier président de la juridiction qui a notifié cette interdiction. Ce recours doit être introduit par la partie qui s'est vue notifier une interdiction de comparaitre physiquement, au moins vingt-quatre heures avant le jour et l'heure prévus pour l'audience visée par l'interdiction par déclaration écrite faite au greffe. Le recours est également notifié aux autres parties ainsi qu'au ministère public.
+
+Le président ou, le cas échéant, le premier président, statue sans délai et entend le requérant et les autres parties, dans leurs observations ou, le cas échéant, il reçoit leurs observations par écrit.
+
+Un pourvoi en cassation contre cette décision ne peut être formé qu'après un jugement définitif sur le fond.
+
+A l'égard de la personne citée à qui une interdiction de comparaitre physiquement a été notifiée et, le cas échéant, confirmée, et qui ne comparait pas à l'audience par vidéoconférence, les règles du défaut s'appliquent.
+
+§ 4. Toute partie ou le ministère public peut faire part à la juridiction de son avis quant au caractère approprié de l'usage éventuel de la vidéoconférence, compte tenu des circonstances particulières de l'affaire. Cet avis peut être communiqué au greffe de la juridiction devant laquelle la partie doit comparaitre par voie électronique. La convocation à l'audience mentionne cette possibilité.
+
+Cet avis est soumis à l'appréciation du juge.
+
+§ 5. La comparution ou la participation par vidéoconférence d'une personne appelée à comparaitre, lorsqu'elle y est invitée en conformément au paragraphe 1er, a lieu moyennant l'accord de cette personne. Cet accord est communiqué au greffe par voie électronique. Le prévenu, l'inculpé ou l'accusé qui est privé de sa liberté communique son accord au plus tard le troisième jour avant l'audience. Sauf en ce qui concerne le prévenu, l'inculpé ou l'accusé qui est privé de sa liberté, la connexion au système de vidéoconférence aux jour et heure indiqués dans la convocation vaut également accord.
+
+La personne ayant été autorisée à comparaitre par vidéoconférence conformément au paragraphe 2 est présumée avoir marqué son accord à comparaitre par vidéoconférence.
+
+Sauf en ce qui concerne l'inculpé, le prévenu ou l'accusé qui est privé de sa liberté, la personne ayant été invitée à comparaitre ou participer à l'audience par vidéoconférence ou y ayant été autorisée, a toujours le droit de décider, avant le début de l'audience, de comparaitre ou participer à l'audience au lieu où la juridiction siège.
+
+Au début de chaque audience, la juridiction vérifie que l'accord est libre et éclairé. Le procès-verbal de l'audience en fait mention.
+
+§ 6. Dans les cas où il est fait usage de la vidéoconférence, les juridictions d'instruction, les tribunaux, les cours d'appel, la cour d'assises ou la Cour de cassation siègent dans la salle d'audience, et le greffier y exerce ses tâches de greffe et d'assistance.
+
+Par dérogation à l'alinéa 1er et à l'exception des membres d'une cour d'assises et des jurés, un juge peut siéger à l'audience par vidéoconférence ou un greffier peut exercer ses tâches de greffe et d'assistance à l'audience par vidéoconférence, lorsque les conditions suivantes sont réunies:
+
+1° l'usage de la vidéoconférence est compatible avec les circonstances particulières de l'affaire, évaluées comme visé au paragraphe 1er, alinéa 2;
+
+2° les garanties auxquelles doit répondre le système de vidéoconférence conformément à l'article 558, §§ 1er et 2, sont réunies;
+
+3° toutes les parties et le ministère public marquent leur accord sur l'utilisation de la vidéoconférence par le juge ou le greffier;
+
+4° le juge a reçu l'autorisation de son chef de corps pour siéger à l'audience par vidéoconférence, ou le greffier a reçu l'autorisation du juge pour exercer ses tâches de greffe et d'assistance à l'audience par vidéoconférence, selon le cas.
+
+Dans les cas visés à l'alinéa 2, et lorsque les conditions visées aux 1°, 2° et 4° sont remplies, le greffe notifie aux parties à l'affaire et au ministère public, au plus tard le sixième jour avant l'audience, que le juge siégera à l'audience par vidéoconférence et que le greffier exercera ses tâches de greffe et d'assistance à l'audience par vidéoconférence. Le greffier demande aux parties et au ministère public si elles marquent leur accord sur l'usage de la vidéoconférence par le juge ou le greffier. Cet accord est communiqué au greffe par voie électronique au plus tard le troisième jour avant l'audience. En l'absence d'accord communiqué par une partie ou le ministère public, cette partie ou le ministère public est présumé avoir refusé l'usage de la vidéoconférence par le juge ou le greffier.
+
+§ 7. Un témoin ou un expert peuvent être entendus dans les conditions visées aux paragraphes 1er à 3 lorsque la comparution par vidéoconférence réunit les conditions telles que visées pour la procédure du huis clos visée à l'article 561, § 1er.
+
+L'article 561, §§ 2 à 5, s'applique à la comparution visée à l'alinéa 1er.
+
+§ 8. Si la juridiction constate, au cours de l'audience, d'office ou sur indication d'une des personnes participant à l'audience, que les garanties visées à l'article 558, §§ 1er et 2, ou, le cas échéant, les conditions visées à l'article 561 ne sont plus réunies, elle ordonne:
+
+1° la suspension de l'audience jusqu'à ce que ces conditions soient à nouveau réunies;
+
+2° le cas échéant, la poursuite du procès à une autre date, soit par vidéoconférence, soit dans la salle d'audience en présence physique de toutes les personnes qui comparaissent par vidéoconférence, si la juridiction constate que les garanties et conditions précitées ne peuvent être à nouveau réunies dans un délai raisonnable après avoir pris connaissance de l'avis des parties. La juridiction indique les motifs de cette décision dans le procès-verbal de l'audience.
+
+Si la juridiction constate, au cours de l'audience par vidéoconférence, d'office ou sur indication d'une des personnes participant à l'audience, que le recours à la vidéoconférence n'est pas ou plus compatible avec les circonstances particulières de l'affaire ou, le cas échéant, que la situation d'urgence épidémique ou le risque grave et concret pour la sécurité publique a cessé d'exister, celle-ci ordonne, après avoir pris connaissance de la position des parties, la reprise de l'audience en présence des personnes qui comparaissent par vidéoconférence. Le juge fait acter les motifs de cette décision dans le procès-verbal de l'audience.
+
+§ 9. Si la partie qui comparait par vidéoconférence est assistée par un interprète assermenté, celui-ci peut prendre place dans la même salle que les membres de la juridiction, au même endroit que la partie ou dans un lieu différent, jugé approprié par la juridiction.
+
+Si l'intéressé bénéficie de l'assistance de son avocat, celui-ci peut prendre place dans la même salle que les membres de la juridiction ou au même endroit que son client ou chacun par vidéoconférence dans un lieu différent, jugé approprié par la juridiction.
+
+§ 10. Le Roi peut compléter, après avoir recueilli l'avis du Collège des cours et tribunaux et du Collège du ministère public, les modalités pratiques et techniques liées à l'organisation et au déroulement de l'audience par vidéoconférence. Le Roi détermine la voie électronique visée au paragraphe 2, alinéa 1er, paragraphe 4, alinéa 1er, paragraphe 5, alinéa 1er et paragraphe 6, alinéa 3.
+
+§ 11. Toute notification par le greffe visée au présent titre a lieu par voie électronique à l'adresse électronique professionnelle de l'avocat ou, s'il s'agit d'une partie ou d'une personne non représentée par un avocat, à l'adresse judiciaire électronique de cette partie ou de cette personne ou, le cas échéant, à l'adresse électronique du greffe de la prison si la personne est détenue ou, à défaut, à la dernière adresse électronique que cette partie ou personne a fournie dans le cadre de la procédure. Si aucune adresse électronique n'est connue du greffier, ou si la notification à l'adresse électronique a manifestement échoué, la personne concernée ne peut comparaitre que physiquement dans la salle d'audience à l'audience à laquelle elle a été régulièrement convoquée. Lorsque l'interdiction de comparaitre physiquement n'a pas pu être notifiée, la juridiction peut remettre l'audience à une date ultérieure.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-25/20, art. 21, 012; En vigueur : 01-09-2024&gt;
+
+#### Art. 561
+
+[<sup>1</sup> § 1er. Lorsque la procédure doit se dérouler à huis clos, la comparution par vidéoconférence n'est possible que si le système de vidéoconférence réunit les garanties de l'article 558, §§ 1er et 2, si les conditions visées à l'article 560 sont remplies et:
+
+1° lorsque la personne qui est privée de sa liberté, un délégué du directeur de la prison ou, le cas échéant, son avocat lorsque celui-ci est présent, confirment à la juridiction que personne d'autre qu'eux-mêmes et la personne privée de liberté et, le cas échéant, les personnes nommément désignées et autorisées par le juge à être présentes, n'est présent au lieu où ils se trouvent et ne peut autrement suivre ce qui est dit; ou
+
+2° que la personne-même ou, le cas échéant, son avocat confirme à la juridiction que personne d'autre qu'eux-mêmes et, le cas échéant, les personnes nommément désignées et autorisées par le juge à être présentes, n'est présent au lieu où la personne se trouve au moment de la comparution et ne peut autrement suivre ce qui est dit; ou
+
+3° lorsque la juridiction estime que la présence de l'avocat ou, à défaut, d'un huissier de justice est requise auprès de la personne, l'avocat ou, à défaut, l'huissier de justice confirme à la juridiction que personne d'autre que lui-même, la personne concernée et, le cas échéant, les personnes nommément désignées et autorisées par le juge à être présentes, n'est présent au lieu où la personne se trouve au moment de la comparution, et ne peut suivre autrement ce qui y est dit.
+
+§ 2. L'absence de toute personne en dehors du comparant et, le cas échéant, de son avocat, du délégué du directeur de la prison, de l'huissier de justice, d'un interprète assermenté ou, le cas échéant, des personnes nommément désignées et autorisées par le juge à être présentes, peut également être contrôlée par la juridiction par le biais de moyens techniques ou organisationnels.
+
+§ 3. Si le comparant, le cas échéant, l'avocat, le délégué du directeur de la prison ou l'huissier de justice et, le cas échéant, les personnes nommément désignées et autorisées par le juge à être présentes, constate que les conditions visées au paragraphe 1er ne sont plus remplies, celui-ci ou celle-ci en informe immédiatement la juridiction.
+
+§ 4. Les frais de l'intervention de l'huissier de justice, ordonnée par le juge, auprès de la personne qui comparait par vidéoconférence dans le cadre du présent article et qui ne dispose pas d'un avocat, sont pris en charge par l'Etat.
+
+§ 5. Le Roi peut déterminer les moyens techniques ou organisationnels visés au paragraphe 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-25/20, art. 22, 012; En vigueur : 01-09-2024&gt;
+
+#### Art. 562
+
+[<sup>1</sup> Sans préjudice de l'article 32ter du Code judiciaire, le procès-verbal, le rapport ou le document est échangé entre la juridiction et le signataire par le système de vidéoconférence ou par la voie électronique déterminée par le Roi après avoir recueilli l'avis du gestionnaire visé à l'article 782, § 6, du Code judiciaire et du Collège du ministère public.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-25/20, art. 23, 012; En vigueur : 01-09-2024&gt;
+
+#### Art. 563
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 564
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+## TITRE VIter. [<sup>1</sup> De l'enregistrement de l'audience]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 24, 012; En vigueur : 01-09-2024&gt;
+
+#### Art. 565
+
+[<sup>1</sup> L'enregistrement sonore ou audiovisuel de l'audience, la sauvegarde, la diffusion à des tiers d'une audience, ou tout autre traitement sans autorisation préalable de la juridiction est puni d'[<sup>2</sup> une peine de niveau 2]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-25/20, art. 25, 012; En vigueur : 01-09-2024&gt;
+
+(2)&lt;L 2026-03-11/03, art. 214, 014; En vigueur : 01-09-2026&gt;
+
+#### Art. 566
+
+[<sup>1</sup> Sans préjudice de l'article 258/2, la juridiction devant laquelle l'audience publique se déroule peut décider, à titre exceptionnel, d'enregistrer l'audience publique lorsque cet enregistrement sonore ou audiovisuel présente un intérêt pour la constitution d'archives historiques de la justice ou à des fins éducatives dans le but de transmettre des connaissances dans le domaine du droit ou sur le fonctionnement de la justice, avec le consentement des personnes dont la voix ou l'image sont enregistrées, chacune pour ce qui la concerne. Ce consentement peut être retiré à tout moment durant l'audience.
+
+Toute personne comparaissant, participant ou siégeant à l'audience, physiquement ou par vidéoconférence, ainsi que le public peuvent faire l'objet de ces enregistrements.
+
+L'enregistrement peut avoir lieu pour autant qu'il n'entrave pas le bon déroulement du procès ni l'exercice des droits de la défense. Les enregistrements sont faits à partir de points fixes.
+
+La juridiction peut, à tout moment, suspendre ou mettre fin à l'enregistrement dans l'exercice de son pouvoir de maintien de l'ordre à l'audience.
+
+Cet enregistrement est fait et conservé moyennant le système de vidéoconférence visé à l'article 556, § 1er, 2°. Le support numérique avec l'enregistrement complet sera versé au dossier pénal après la conclusion des débats et dans le système de vidéoconférence susmentionné. Le Roi détermine les modalités pratiques et techniques relatives à l'enregistrement et à sa conservation.
+
+Les entités représentées au sein du comité de gestion visé à l'article 782, § 6, du Code judiciaire, sont les responsables conjoint du traitement conformément à l'article 52 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel.
+
+Les enregistrements conservés dans le système de vidéoconférence peuvent être consultés et traités exclusivement dans les limites et conformément aux autres règles du présent Code, aux lois particulières relatives à la procédure pénale ainsi qu'aux arrêtés d'exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-25/20, art. 26, 012; En vigueur : 01-09-2024&gt;
+
+## TITRE VIquater. [<sup>1</sup> Traitement des données dans le cadre de l'utilisation du système de vidéoconférence]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 27, 012; En vigueur : 01-09-2024&gt;
+
+#### Art. 567
+
+[<sup>1</sup> § 1er. Le comité de gestion du Registre central des décisions de l'ordre judiciaire et du système de vidéoconférence de la justice visé par l'article 782, § 6, du Code judiciaire, ci-après dénommé "le gestionnaire" gère le système de vidéoconférence.
+
+Les représentants visés à l'article 782, § 6, alinéa 2, 4°, du Code judiciaire, ont voix délibérative pour ce qui concerne l'utilisation des moyens, les aspects techniques et les parties du système de vidéoconférence accessibles au public, pour autant que ces dernières n'aient aucune incidence sur le contenu de l'audience. Ils siègent comme observateur dans les matières qui portent uniquement sur le fonctionnement interne de l'ordre judiciaire.
+
+§ 2. Le gestionnaire met en place, gère et contrôle le fonctionnement du système de vidéoconférence. Il a plus spécifiquement pour mission:
+
+1° de surveiller le respect des objectifs du système de vidéoconférence;
+
+2° de superviser le fonctionnement du système de vidéoconférence, y compris la supervision de la politique d'accès et d'en exercer le contrôle;
+
+3° de superviser l'infrastructure technique du système de vidéoconférence;
+
+4° de rapporter régulièrement sur le fonctionnement du système de vidéoconférence et sur l'exercice des missions visées aux 1° à 3°.
+
+Le rapport visé à l'alinéa 2, 4°, est déposé annuellement auprès du ministre de la Justice et du délégué à la protection des données visé au paragraphe 3, alinéa 2. Le rapport est public.
+
+§ 3. Les entités représentées au sein du gestionnaire visées à l'article 782, § 6, alinéa 2, 1° à 4°, du Code judiciaire agissent, pour ce qui concerne le système de vidéoconférence, en qualité de responsables conjoints du traitement, au sens de l'article 26, 8°, et conformément à l'article 52 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel.
+
+Les responsables conjoints du traitement désignent, de concert, un délégué à la protection des données.
+
+Les entités visées à l'alinéa 1er n'assument pas de responsabilité de traitement dans les matières dans lesquelles elles siègent comme observateur.
+
+Quiconque participe, à quelque titre que ce soit, au traitement des données visées au paragraphe 4, alinéa 1er, ou a connaissance de telles données en raison de sa fonction, est tenu d'en respecter le caractère confidentiel. Le non-respect de cette obligation est puni conformément à [<sup>2</sup> l'article 352]<sup>2</sup> du Code pénal.
+
+§ 4. L'utilisation du système de vidéoconférence requiert le traitement des catégories de données suivantes:
+
+1° Pour chaque personne physique:
+
+a) les nom et prénom(s);
+
+b) la qualité en laquelle il est participé à l'audience;
+
+c) le cas échéant, la date et le lieu de naissance;
+
+d) le cas échéant, le domicile sans préjudice des articles 75ter, 155ter et 297, ou pour les membres de l'ordre judiciaire, l'adresse de service ou l'adresse à laquelle ils exercent habituellement leur profession;
+
+e) le cas échéant, le numéro de registre national ou de registre bis;
+
+f) le cas échéant, le numéro d'entreprise de l'entreprise qu'il représente;
+
+g) le cas échéant, l'adresse du siège de l'entreprise qu'il représente;
+
+h) le cas échéant, la référence unique de l'avocat;
+
+2° pour chaque utilisateur, les métadonnées générées par la connexion au système de vidéoconférence;
+
+3° l'image et la voix des personnes participant à l'audience;
+
+4° les données, y compris celles à caractère personnel, communiquées au cours de l'audience;
+
+5° les données relatives à l'audience à laquelle il est participé et le numéro d'identification unique du dossier qui y est traité.
+
+L'alinéa 1er, 1°, c) et e) à h), ne s'applique pas aux membres de l'ordre judiciaire.
+
+Le Roi précise, après avoir recueilli l'avis du gestionnaire et du Collège du ministère public, les données des catégories susmentionnées qui sont traitées dans le cadre de l'utilisation du système de vidéoconférence.
+
+§ 5. Sauf les exceptions visées par la loi, les données visées au paragraphe 4, alinéa 1er, 1° et 2°, sont conservées par le gestionnaire jusqu'à épuisement de toutes les voies de recours ordinaires ainsi que le pourvoi en cassation, à des fins de contrôle ultérieur et de preuve de la participation effective d'une personne à l'audience par vidéoconférence. Les données visées au paragraphe 4 sont également conservées pour une durée de cinq ans à des fins de statistique dans le but d'évaluer le système de vidéoconférence et son utilisation. Lors du traitement ultérieur à des fins statistiques, le gestionnaire respecte les garanties établies par les articles 188 à 208 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel.
+
+L'accès aux données visées à l'alinéa 1er n'est autorisé que:
+
+1° au gestionnaire, pour l'exécution des missions visées au paragraphe 2, alinéa 1er;
+
+2° aux personnes qui comparaissent par vidéoconférence, chacune pour ce qui la concerne.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-25/20, art. 28, 012; En vigueur : 01-09-2024&gt;
+
+(2)&lt;L 2026-03-11/03, art. 215, 014; En vigueur : 01-09-2026&gt;
+
+## TITRE VIquinquies.
+
+#### Art. 568
+
+[<sup>1</sup> § 1er. Une pièce de procédure peut être établie sous forme dématérialisée et sous forme matérielle.
+
+§ 2. Sans préjudice de l'article 40 de la loi du 5 août 1992 sur la fonction de police, une pièce de procédure qui est établie sous forme dématérialisée et ayant un effet interruptif, est signée en apposant une signature électronique qualifiée au sens de l'article 3.12 du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.
+
+Pour une pièce de procédure établie sous forme dématérialisée et sans effet interruptif, une signature électronique avancée au sens de l'article 3.11 du règlement visé à l'alinéa 1er, ou un cachet électronique avancé au sens de l'article 3.26 de ce règlement est suffisant.
+
+La signature électronique d'une pièce de procédure par un membre de l'ordre judiciaire figurant sur la liste électronique visée à l'article 315ter, § 1er, alinéa 1er, du Code judiciaire garantit la qualité en laquelle le signataire signe.
+
+§ 3. Le dossier numérique peut être composé à la fois des pièces établies sous forme dématérialisée et des pièces établies sous forme matérielle qui sont dématérialisées.
+
+Pour les pièces établies sous forme matérielle par l'ordre judiciaire qui sont dématérialisées ou pour les pièces établies sous forme matérielle de sources externes qui sont dématérialisées et ajoutées au dossier numérique après leur dépôt, le secrétaire ou le greffier, selon l'état de la procédure pénale, certifie la conformité de la pièce dématérialisée à la pièce matérielle au moyen d'un cachet électronique tel que visé au paragraphe 2, alinéa 2, ou d'une signature électronique telle que visée au paragraphe 2, alinéa 1er.
+
+§ 4. Le procès-verbal de l'audience est versé sous forme dématérialisée au dossier pénal.
+
+Les ordonnances, jugements et arrêts rendus en la cause sont versés au dossier sous forme dématérialisée par le greffier immédiatement après la signature.
+
+§ 5. Toute modification de la composition du dossier ou d'une pièce est enregistrée.
+
+§ 6. Le Roi détermine les mesures de sécurité et les normes techniques minimales auxquelles doivent répondre les systèmes informatiques destinés à effectuer les opérations et traitements visés au paragraphe 2.
+
+Le Roi peut déterminer la manière dont la signature électronique qualifiée est visualisée.
+
+§ 7. La partie du dossier pénal sous format matériel qui est, conformément au paragraphe 3, alinéa 2, dématérialisée et enregistrée dans le dossier numérique dans le Registre central visé à [<sup>2</sup> l'article 569, § 1er]<sup>2</sup>, perd son caractère authentique. Le greffier mentionne dans l'inventaire du dossier pour chaque pièce de cette partie où elle est conservée dans le Registre central.
+
+Des pièces de la partie visée à l'alinéa 1er peuvent être supprimées du dossier pénal sous forme matérielle par le greffier. Il en fait mention dans l'inventaire du dossier.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-03-28/60, art. 16, 009; En vigueur : 01-04-2024&gt;
+
+(2)&lt;L 2026-02-08/04, art. 11, 013; En vigueur : 26-02-2026&gt;
+
+## TITRE VIsexies. [<sup>1</sup> - Le Registre central des dossiers pénaux]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-28/60, art. 17, 009; En vigueur : 01-04-2024&gt;
+
+#### Art. 569
+
+[<sup>1</sup> § 1er. Il est institué auprès du Service public fédéral Justice un registre dénommé "Registre central des dossiers pénaux", ci-après dénommé "Registre central".
+
+Le Registre central est une banque de données informatisée ayant comme objectifs:
+
+1° l'enregistrement et la conservation centralisés sous forme dématérialisée des dossiers pénaux afin de faciliter l'exécution des missions légales de l'ordre judiciaire;
+
+2° de servir comme source authentique, visée à l'article 2, alinéa 1er, 6°, de la loi du 15 août 2012 relative à la création et à l'organisation d'un intégrateur de services fédéral, des dossiers pénaux qui y sont enregistrés en tout, et des dossiers pénaux qui y sont enregistrés en partie, pour cette partie;
+
+3° de permettre la consultation par voie électronique des données enregistrées dans le Registre central par les personnes et acteurs qui sont en droit de les consulter en application du paragraphe 5, alinéa 1er;
+
+4° le traitement des données enregistrées dans le Registre central afin d'améliorer la qualité de ces données;
+
+5° le traitement des données enregistrées dans le Registre central afin d'optimaliser l'organisation de l'ordre judiciaire, permettant une gestion plus efficace, un meilleur soutien de politiques, une meilleure analyse de l'impact des modifications législatives et une meilleure affectation des moyens humains et logistiques au sein de l'ordre judiciaire;
+
+6° le traitement des données enregistrées dans le Registre central pour le développement des systèmes informatiques pour soutenir les membres de l'ordre judiciaire, repris dans la liste électronique visée à l'article 315ter, § 1er, alinéa 1er, du Code judiciaire, dans l'exécution de leurs missions légales;
+
+7° le traitement d'un ensemble de données ou des données individuelles enregistrées dans le Registre central, à des fins historiques ou scientifiques;
+
+8° le traitement de données individuelles spécifiées enregistrées dans le Registre central, à des fins journalistiques;
+
+9° le traitement à des fins statistiques, dans les limites déterminées par le titre 4 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, des données enregistrées dans le Registre central.
+
+§ 2. Dans le Registre central, les données suivantes sont enregistrées:
+
+1° le dossier pénal établi sous forme dématérialisée conformément à la loi;
+
+2° le dossier pénal dématérialisé conformément à la loi;
+
+3° les métadonnées nécessaires pour atteindre les finalités visées au paragraphe 1er, alinéa 2, à savoir:
+
+a) les données du ministère public, de la juridiction pénale, du service et des personnes qui gèrent le dossier pénal;
+
+b) les données relatives au dossier pénal;
+
+c) les données d'identification nécessaires des personnes mentionnées dans le dossier pénal;
+
+d) le numéro d'identification unique du dossier pénal;
+
+e) la description des faits dans le temps et l'espace.
+
+4° les données nécessaires à la sécurité du Registre central.
+
+Le Roi détermine, après avis du gestionnaire visé au paragraphe 3, les données exactes visées à l'alinéa 1er, 3°, qui sont enregistrées dans le Registre central.
+
+Le Roi détermine les conditions techniques auxquelles le dossier pénal doit satisfaire en vue de son enregistrement dans le Registre central.
+
+§ 3. Le Registre central est géré par le gestionnaire visé à l'article 42, alinéa 1er, de la loi du 18 février 2014 relative à l'introduction d'une gestion autonome pour l'organisation judiciaire.
+
+Le gestionnaire met en place et gère le fonctionnement du Registre central. Il a plus spécifiquement pour mission:
+
+1° de surveiller le respect des objectifs du Registre central et de l'absence maximale de téléchargement non-autorisé des données;
+
+2° de superviser le fonctionnement du Registre central, y compris la supervision de la politique d'accès et d'en exercer le contrôle;
+
+3° d'autoriser par écrit et sous conditions les tiers et les autorités publiques visés au paragraphe 5, alinéa 1er, 8° et 9°, pour les traitements visés au paragraphe 1er, alinéa 2, 6° ou 9° ;
+
+4° de superviser l'infrastructure technique du Registre central;
+
+5° de rapporter régulièrement sur le fonctionnement du Registre central et sur l'exercice des missions visées aux 1° à 4°.
+
+Le rapport visé à l'alinéa 2, 5°, est déposé annuellement auprès du ministre de la Justice et du délégué à la protection des données visé au paragraphe 5, alinéa 1er, 5°, e).
+
+§ 4. La responsabilité de traitement est réglée conformément à l'article 42, alinéa 3, de la loi du 18 février 2014 relative à l'introduction d'une gestion autonome pour l'organisation judiciaire.
+
+§ 5. Ont accès au Registre central:
+
+1° les magistrats du siège de toutes les juridictions pénales et les assesseurs au tribunal de l'application des peines ainsi que les greffes, le ministère public, les secrétariats du parquet et la commission de probation pour déposer, compléter ou rectifier les données visées au paragraphe 2, alinéa 1er;
+
+2° dans le cadre de la réalisation de leurs missions visées à l'article 15 de la loi du 5 août 1992 sur la fonction de police, les membres des services de police qui ont le besoin de consulter et déposer les données pertinentes visées au paragraphe 2, alinéa 1er, afin d'assurer:
+
+a) le contrôle et/ou le suivi visés à l'article 44/7, alinéa 1er, 5°, de la loi du 5 août 1992 sur la fonction de police, lorsqu'il s'agit de mesures adoptées par une autorité de police judiciaire, et aux articles 19 à 20 de la loi sur la fonction de police;
+
+b) le suivi des actes d'enquête demandés via une apostille par les magistrats dans un dossier pénal;
+
+3° dans le cadre de la réalisation de leurs missions visées à l'article 7 de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité, les membres de la Sûreté de l'Etat qui ont le besoin de consulter les données pertinentes visées au paragraphe 2, alinéa 1er, soit le contenu des procès-verbaux, après une autorisation octroyée par le magistrat compétent;
+
+4° à titre exceptionnel, lorsque les exigences de leur mission rendent cet accès indispensable, et pour le traitement des données visé au paragraphe 1er, alinéa 2, 4°, les personnes, désignées par le gestionnaire, chargées de la gestion technique et opérationnelle du Registre central, agissant dans le cadre de leur fonction;
+
+5° pour consulter les données visées au paragraphe 2, alinéa 1er:
+
+a) les magistrats du siège de toutes les juridictions pénales, les assesseurs au tribunal de l'application des peines et les greffes;
+
+b) le ministère public et les secrétariats du parquet;
+
+c) la commission de probation et son secrétariat. Ils désignent au sein de leurs services les personnes qui disposent d'un droit de lecture. Ce droit de lecture est accordé individuellement et est adéquat, pertinent et non excessif pour l'accomplissement de tâches spécifiques dans le cadre de leurs missions légales ou réglementaires;
+
+d) l'Entité de cassation, le Collège des cours et tribunaux, le Collège du ministère public. Ils désignent au sein de leurs services les personnes qui disposent d'un droit de lecture. Ce droit de lecture est accordé individuellement et est adéquat, pertinent et non excessif pour l'accomplissement de tâches spécifiques dans le cadre de leurs missions légales ou réglementaires;
+
+e) le délégué à la protection des données désigné par les responsables conjoints du traitement, dans les limites de ses missions légales;
+
+f) les services d'accueil des victimes après une autorisation octroyée par le magistrat compétent;
+
+6° pour le traitement des données visées au paragraphe 1er, alinéa 2, 5° :
+
+a) les autorités judiciaires chargées de la gestion et de l'organisation des cours et tribunaux;
+
+b) les services chargés de l'analyse statistique auprès des entités représentées au sein du gestionnaire;
+
+7° pour le traitement des données visées au paragraphe 1er, alinéa 2, 6°, les tiers autorisés par écrit par le gestionnaire, dans les conditions déterminées par le gestionnaire;
+
+8° pour le traitement des données visées au paragraphe 1er, alinéa 2, 9°, les autorités publiques autorisées par écrit par le gestionnaire, dans les conditions déterminées par le gestionnaire;
+
+9° pour la consultation électronique d'un dossier pénal inscrit au Registre central, les parties à ce dossier pénal et, le cas échéant, leur avocat ou représentant légal, ainsi que des tiers, le droit de consultation s'exerçant exclusivement dans les limites et conformément aux autres règles du Code judiciaire, au Code d'instruction criminelle, aux lois particulières relatives à la procédure pénale ainsi qu'aux arrêtés d'exécution.
+
+Sans préjudice des 1° et 4°, le Roi peut, par arrêté délibéré en Conseil des ministres et sur avis de l'Autorité de contrôle compétente, désigner d'autres autorités, organes ou services pour déposer les données visées au paragraphe 2, alinéa 1er.
+
+Le traitement des données enregistrées dans le Registre central pour des objectifs autres que ceux visés au paragraphe 1er est interdit. La violation de cette interdiction est punie de la peine visée à l'article 222 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel.
+
+Le Roi détermine, après avis du gestionnaire, les modalités de l'accès au Registre central ainsi que les procédures relatives à cet accès.
+
+Quiconque, à quelque titre que ce soit, participe à la collecte ou à l'enregistrement des données dans le Registre central, ou au traitement ou à la communication des données qui y sont enregistrées et qui, de ce fait a connaissance de telles données, est tenu d'en respecter le caractère confidentiel, le cas échéant. En cas d'infraction les peines de [<sup>2</sup> l'article 352]<sup>2</sup> du Code pénal lui sont applicables.
+
+Lorsque le gestionnaire constate une utilisation injustifiée de l'accès au Registre central, il porte cela à la connaissance de l'autorité compétente, en vertu de la loi, pour intenter une procédure disciplinaire en ce qui concerne l'utilisateur concerné.
+
+§ 6. Les délais pour la conservation sont assimilés aux délais de la prescription de l'action publique comme prévus à l'article 21 du titre préliminaire du Code de procédure pénale.
+
+Dans tous les cas, le dossier doit être conservé jusqu'à la fin de l'exécution de la peine et la durée de conservation ne peut pas être inférieure à celle prévue par la loi du 24 juin 1955 relative aux archives.
+
+L'alinéa 2 s'applique également aux infractions prévues à l'article 21bis du titre préliminaire du Code de procédure pénale. Les dossiers dans lesquels aucune condamnation n'a été prononcée pour ces infractions sont soumis aux délais de conservation prévus par la loi du 24 juin 1955 relative aux archives.
+
+§ 7. Le Roi détermine, après avis du gestionnaire, les modalités techniques et matérielles de mise en place et de fonctionnement du Registre central, qui ne peuvent toutefois avoir aucune incidence sur le contenu ou la compréhension des dossiers pénaux enregistrés dans le Registre central.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-03-28/60, art. 18, 009; En vigueur : 01-04-2024&gt;
+
+(2)&lt;L 2026-03-11/03, art. 217, 014; En vigueur : 01-09-2026&gt;
+
+#### Art. 570
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 571
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 572
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 573
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 574
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 575
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 576
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 577
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 578
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 579
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 580
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 581
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 582
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 583
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 584
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 585
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 586
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 587
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+#### Art. 588
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 229°&gt;
+
+(NOTE : les articles 589 à 599 abrogés par L 10-07-1967, art. 1, 229° ont été réintroduit dans la partie suivante du CIC 1808-12-16/30 par L 1997-08-08/14 articles 3 et suivants)

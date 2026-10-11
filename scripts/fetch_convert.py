@@ -389,7 +389,7 @@ def nl_code_dir(titles: list[str], fallback: str) -> str:
     for t in titles:
         t = strip_date_prefix(t)
         t = re.sub(r"^\[[^\]]*\]\s*", "", t)
-        m = re.match(r"([^,:.(\-]+)", t)
+        m = re.match(r"(.+?)(?:\s+-\s+|\s*[:(]|\.\s|\.?$|,\s*(?:boek|deel|titel|livre)\b)", t, re.I)
         if m and "wetboek" in m.group(1).lower() or (m and "code" in m.group(1).lower()):
             votes[ascii_slug(m.group(1), 60)] += 1
     return votes.most_common(1)[0][0] if votes else fallback

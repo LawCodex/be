@@ -1,0 +1,893 @@
+---
+title: "[ANCIEN] CODE CIVIL - LIVRE III : Manières dont on acquiert la propriété - TITRE XIV à XX (art. 2011-2281) (Intitulé modifié par L 2019-04-13/28 , art. 2, 018; En vigueur : 01-11-2020)"
+identifier: "1804032155"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032155/justel"
+type: code
+justel_type: "CODE CIVIL"
+jurisdiction: be
+language: fr
+date: 1804-03-21
+published: 1807-09-03
+entry_into_force: 1807-09-13
+last_amended: 2026-03-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032155/justel"
+justel_note: "Consultation des versions antérieures à partir du 15-07-1994 et mise à jour au 10-03-2026"
+retrieved: 2026-10-11
+---
+
+# 21 MARS 1804. - [ANCIEN] CODE CIVIL - LIVRE III : Manières dont on acquiert la propriété - TITRE XIV à XX (art. 2011-2281) (Intitulé modifié par L 2019-04-13/28 , art. 2, 018; En vigueur : 01-11-2020)
+
+## TITRE XIV.
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+### CHAPITRE I.
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2011
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2012
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2013
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2014
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2015
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2016
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2017
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2018
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2019
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2020
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+### CHAPITRE II.
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+#### SECTION I.
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2021
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2022
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2023
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2024
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2025
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2026
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2027
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+#### SECTION II.
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2028
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2029
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2030
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2031
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2032
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+#### SECTION III.
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2033
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+### CHAPITRE III.
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2034
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2035
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2036
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2037
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2038
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2039
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+### CHAPITRE IV.
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2040
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2041
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2042
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2043
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+### CHAPITRE V.
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2043bis
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2043ter
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2043quater
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2043quinquies
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2043sexies
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2043septies
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+##### Art. 2043octies
+
+&lt;Abrogé par L 2025-06-05/09, art. 3, 023; En vigueur : 01-01-2026&gt;
+
+## TITRE XV. - DES TRANSACTIONS.
+
+##### Art. 2044
+
+La transaction est un contrat par lequel les parties terminent une contestation née, ou préviennent une contestation à naître.
+
+Ce contrat doit être rédigé par écrit.
+
+##### Art. 2045
+
+Pour transiger, il faut avoir la capacité de disposer des objets compris dans la transaction.
+
+[Le tuteur ne peut transiger pour le mineur [<sup>1</sup> ...]<sup>1</sup> qu'en observant les formes prescrites à l'article 410, § 1er, et il ne peut transiger avec le mineur devenu majeur, sur le compte de tutelle, que conformément à l'article 416, alinéa 1.] &lt;L 2001-04-29/39, art. 42, 008; En vigueur : 01-08-2001&gt;
+
+[<sup>1</sup> Pour la personne qui a été déclarée incapable de transiger en vertu de l'article 492/1, l'administrateur ne peut transiger qu'en observant les formes prescrites à l'article 499/7, § 2, alinéa 1er, 10°, et, après la fin de sa mission, il ne peut transiger concernant le compte d'administration que conformément à l'article 499/18. ]<sup>1</sup>
+
+Les communes et établissements publics ne peuvent transiger [que moyennant l'autorisation prévue à l'article 49 de la loi du 10 mars 1925 organique de l'assistance publique]. &lt;L 15-12-1949, art. 27&gt;.
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 144, 013; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+##### Art. 2046
+
+On peut transiger sur l'intérêt civil qui résulte d'[<sup>1</sup> une infraction]<sup>1</sup>.
+
+La transaction n'empêche pas la poursuite du ministère public.
+
+----------
+
+(1)&lt;L 2026-03-03/04, art. 7, 024; En vigueur : 01-09-2026&gt;
+
+##### Art. 2047
+
+On peut ajouter à une transaction la stipulation d'une peine contre celui qui manquera de l'exécuter.
+
+##### Art. 2048
+
+Les transactions se renferment dans leur objet : la renonciation qui y est faite à tous droits, actions et prétentions, ne s'entend que de ce qui est relatif au différend qui y a donné lieu.
+
+##### Art. 2049
+
+Les transactions ne règlent que les différends qui s'y trouvent compris, soit que les parties aient manifesté leur intention par des expressions spéciales ou générales, soit que l'on reconnaisse cette intention par une suite nécessaire de ce qui est exprimé.
+
+##### Art. 2050
+
+Si celui qui avait transigé sur un droit qu'il avait de son chef, acquiert ensuite un droit semblable du chef d'une autre personne il n'est point, quant au droit nouvellement acquis, lié par la transaction antérieure.
+
+##### Art. 2051
+
+La transaction faite par l'un des intéressés ne lie point les autres intéressés, et ne peut être opposée par eux.
+
+##### Art. 2052
+
+Les transactions ont, entre les parties, l'autorité de la chose jugée en dernier ressort.
+
+Elles ne peuvent être attaquées pour cause d'erreur de droit, ni pour cause de lésion.
+
+##### Art. 2053
+
+Néanmoins une transaction peut être rescindée, lorsqu'il y a erreur dans la personne ou sur l'objet de la contestation.
+
+Elle peut l'être dans tous les cas où il y a dol ou violence.
+
+##### Art. 2054
+
+Il y a également lieu à l'action en rescision contre une transaction, lorsqu'elle a été faite en exécution d'un titre nul, à moins que les parties n'aient expressément traité sur la nullité.
+
+##### Art. 2055
+
+La transaction faite sur pièces qui depuis ont été reconnues fausses, est entièrement nulle.
+
+##### Art. 2056
+
+La transaction sur un procès terminé par un jugement passé en force de chose jugée, dont les parties ou l'une d'elles n'avaient point connaissance, est nulle.
+
+Si le jugement ignoré des parties était susceptible d'appel, la transaction sera valable.
+
+##### Art. 2057
+
+Lorsque les parties ont transigé généralement sur toutes les affaires qu'elles pouvaient avoir ensemble, les titres qui leur étaient alors inconnus, et qui auraient été postérieurement découverts, ne sont point une cause de rescision, à moins qu'ils n'aient été retenus par le fait de l'une des parties.
+
+Mais la transaction serait nulle si elle n'avait qu'un objet sur lequel il serait constaté, par des titres nouvellement découverts, que l'une des parties n'avait aucun droit.
+
+##### Art. 2058
+
+L'erreur de calcul dans une transaction doit être réparée.
+
+## TITRE XVI. - DE LA CONTRAINTE PAR CORPS EN MATIERE CIVILE.
+
+##### Art. 2059
+
+[Abrogé] &lt;L 21-03-1859, art. 48&gt;.
+
+##### Art. 2060
+
+[Abrogé] &lt;L 21-03-1859, art. 48&gt;.
+
+##### Art. 2061
+
+[Abrogé] &lt;L 21-03-1859, art. 48&gt;.
+
+##### Art. 2062
+
+[Abrogé] &lt;L 21-03-1859, art. 48&gt;.
+
+##### Art. 2063
+
+[Abrogé] &lt;L 21-03-1859, art. 48&gt;.
+
+##### Art. 2064
+
+[Abrogé] &lt;L 21-03-1859, art. 48&gt;.
+
+##### Art. 2065
+
+[Abrogé] &lt;L 21-03-1859, art. 48&gt;.
+
+##### Art. 2066
+
+[Abrogé] &lt;L 21-03-1859, art. 48&gt;.
+
+##### Art. 2067
+
+[Abrogé] &lt;L 21-03-1859, art. 48&gt;.
+
+##### Art. 2068
+
+[Abrogé] &lt;L 21-03-1859, art. 48&gt;.
+
+##### Art. 2069
+
+[Abrogé] &lt;L 21-03-1859, art. 48&gt;.
+
+##### Art. 2070
+
+[Abrogé] &lt;L 21-03-1859, art. 48&gt;.
+
+## TITRE XVII. [<sup>1</sup> - Des sûretés réelles mobilières]<sup>1</sup>
+
+(NOTE: le titre XVII devient 2013-07-11/22)
+
+----------
+
+(1)&lt;L 2013-07-11/19, art. 2-89, 014; En vigueur : 01-01-2018&gt;
+
+##### Art. 2071
+
+&lt;Abrogé par L 2013-07-11/19, art. 2, 014; En vigueur : 01-01-2018&gt;
+
+##### Art. 2072
+
+&lt;Abrogé par L 2013-07-11/19, art. 2, 014; En vigueur : 01-01-2018&gt;
+
+## TITRE XVIII. - DES PRIVILEGES ET HYPOTHEQUES.
+
+(NOTE : Les articles 2092 à 2203 sont remplacés par article I de la L du 16 décembre 1851. Pour le texte, voir 1851-12-16/01).
+
+## TITRE XIX. - DE L'EXPROPRIATION FORCEE ET DES ORDRES ENTRE LES CREANCIERS.
+
+##### Art. 2204
+
+[Abrogé] &lt;L 10-10-1967, art. 24&gt;.
+
+##### Art. 2205
+
+[Abrogé] &lt;L 10-10-1967, art. 24&gt;.
+
+##### Art. 2206
+
+[Abrogé] &lt;L 10-10-1967, art. 24&gt;.
+
+##### Art. 2207
+
+[Abrogé] &lt;L 10-10-1967, art. 24&gt;.
+
+##### Art. 2208
+
+[Abrogé] &lt;L 10-10-1967, art. 24&gt;.
+
+##### Art. 2209
+
+[Abrogé] &lt;L 10-10-1967, art. 24&gt;.
+
+##### Art. 2210
+
+[Abrogé] &lt;L 10-10-1967, art. 24&gt;.
+
+##### Art. 2211
+
+[Abrogé] &lt;L 10-10-1967, art. 24&gt;.
+
+##### Art. 2212
+
+[Abrogé] &lt;L 10-10-1967, art. 24&gt;.
+
+##### Art. 2213
+
+[Abrogé] &lt;L 10-10-1967, art. 24&gt;.
+
+##### Art. 2214
+
+[Abrogé] &lt;L 10-10-1967, art. 24&gt;.
+
+##### Art. 2215
+
+[Abrogé] &lt;L 10-10-1967, art. 24&gt;.
+
+##### Art. 2216
+
+[Abrogé] &lt;L 10-10-1967, art. 24&gt;.
+
+##### Art. 2217
+
+[Abrogé] &lt;L 10-10-1967, art. 24&gt;.
+
+##### Art. 2218
+
+[Abrogé] &lt;L 10-10-1967, art. 24&gt;.
+
+## TITRE XX. - DE LA PRESCRIPTION.
+
+### CHAPITRE I. - DISPOSITIONS GENERALES.
+
+##### Art. 2219
+
+La prescription est un moyen d'acquérir ou de se libérer par un certain laps de temps, et sous les conditions déterminées par la loi.
+
+##### Art. 2220
+
+On ne peut d'avance, renoncer à la prescription; on peut renoncer à la prescription acquise.
+
+##### Art. 2221
+
+La renonciation à la prescription est expresse ou tacite; la renonciation tacite résulte d'un fait qui suppose l'abandon du droit acquis.
+
+##### Art. 2222
+
+Celui qui ne peut aliéner ne peut renoncer à la prescription acquise.
+
+##### Art. 2223
+
+Les juges ne peuvent pas suppléer d'office le moyen résultant de la prescription.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, les juges peuvent suppléer d'office le moyen résultant de la prescription dans le cadre des procédures en paiement d'une dette d'argent introduites par une entreprise telle que visée à l'article I.1, alinéa 1er, 1°, du Code de droit économique à l'encontre d'un consommateur tel que visé à l'article I.1, alinéa 1er, 2°, du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-15/20, art. 2, 022; En vigueur : 01-10-2024&gt;
+
+##### Art. 2224
+
+La prescription peut être opposée en tout état de cause, même devant la cour d'appel, à moins que la partie qui n'aurait pas opposé le moyen de la prescription ne doive, par les circonstances, être présumée y avoir renoncé.
+
+##### Art. 2225
+
+Les créanciers, ou toute autre personne ayant intérêt à ce que la prescription soit acquise, peuvent l'opposer, encore que le débiteur ou le propriétaire y renonce.
+
+##### Art. 2226
+
+On ne peut prescrire le domaine des choses qui ne sont point dans le commerce.
+
+##### Art. 2227
+
+L'Etat, les établissements publics et les communes sont soumis aux mêmes prescriptions que les particuliers, et peuvent également les opposer.
+
+### CHAPITRE II. - DE LA POSSESSION.
+
+##### Art. 2228
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,5°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2229
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,5°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2230
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,5°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2231
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,5°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2232
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,5°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2233
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,5°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2234
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,5°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2235
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,5°, 019; En vigueur : 01-09-2021&gt;
+
+### CHAPITRE III. - DES CAUSES QUI EMPECHENT LA PRESCRIPTION.
+
+##### Art. 2236
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,6°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2237
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,6°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2238
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,6°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2239
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,6°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2240
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,6°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2241
+
+On peut prescrire contre son titre, en ce sens que l'on prescrit la libération de l'obligation que l'on a contractée.
+
+### CHAPITRE IV. - DES CAUSES QUI INTERROMPENT OU QUI SUSPENDENT LE COURS DE LA PRESCRIPTION.
+
+#### SECTION I. - DES CAUSES QUI INTERROMPENT LA PRESCRIPTION.
+
+##### Art. 2242
+
+La prescription peut être interrompue ou naturellement ou civilement.
+
+##### Art. 2243
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,7°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2244
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Une citation en justice, un commandement [<sup>2</sup> , une sommation de payer visée à l'article 1394/21 du Code judiciaire]<sup>2</sup> ou une saisie, signifiés à celui qu'on veut empêcher de prescrire, forment l'interruption civile.
+
+[Une citation en justice interrompt la prescription jusqu'au prononcé d'une décision définitive.
+
+Pour l'application de la présente section, un recours en annulation d'un acte administratif devant le Conseil d'Etat [<sup>4</sup> ou une juridiction administrative organisée par l'Etat, les Communautés ou les Régions]<sup>4</sup> a, à l'égard de l'action en réparation du dommage causé par l'acte administratif annulé, les mêmes effets qu'une citation en justice.] &lt;L 2008-07-25/36, art. 2, 010; En vigueur : 01-09-2008&gt;
+
+[<sup>1</sup> § 2. Sans préjudice [<sup>3</sup> des articles 5.231 et 5.233]<sup>3</sup>, la mise en demeure envoyée par l'avocat du créancier, par l'huissier de justice désigné à cette fin par le créancier ou par la personne pouvant ester en justice au nom du créancier en vertu de l'article 728, § 3, du Code judiciaire, par envoi recommandé avec accusé de réception, au débiteur dont le domicile, le lieu de résidence ou le siège social est situé en Belgique interrompt également la prescription et fait courir un nouveau délai d'un an, sans toutefois que la prescription puisse être acquise avant l'échéance du délai de prescription initial. La prescription ne peut être interrompue qu'une seule fois par une telle mise en demeure, sans préjudice des autres modes d'interruption de la prescription.
+
+Si le délai de prescription prévu par la loi est inférieur à un an, la durée de la prorogation est identique à celle du délai de prescription.
+
+L'interruption de la prescription intervient au moment de l'envoi de la mise en demeure par envoi recommandé avec accusé de réception. L'avocat du créancier, l'huissier de justice désigné à cette fin par le créancier ou la personne pouvant ester en justice au nom du créancier en vertu de l'article 728, § 3, du Code judiciaire s'assure des coordonnées exactes du débiteur par un document administratif datant de moins d'un mois. En cas de résidence connue différente du domicile, l'avocat du créancier, l'huissier de justice désigné à cette fin par le créancier ou la personne pouvant ester en justice au nom du créancier en vertu de l'article 728, § 3, du Code judiciaire s'assure adresse une copie de son envoi recommandé à ladite résidence.
+
+Pour interrompre la prescription, la mise en demeure doit contenir de façon complète et explicite les mentions suivantes :
+
+1° les coordonnées du créancier : s'il s'agit d'une personne physique, le nom, le prénom et l'adresse du domicile ou, le cas échéant, de la résidence ou du domicile élu conformément aux articles 36 et 39 du Code judiciaire; s'il s'agit d'une personne morale, la forme juridique, la raison sociale et l'adresse du siège social ou, le cas échéant, du siège administratif conformément à l'article 35 du Code judiciaire;
+
+2° les coordonnées du débiteur : s'il s'agit d'une personne physique, le nom, le prénom et l'adresse du domicile ou, le cas échéant, de la résidence ou du domicile élu conformément aux articles 36 et 39 du Code judiciaire; s'il s'agit d'une personne morale, la forme juridique, la raison sociale et l'adresse du siège social ou, le cas échéant, du siège administratif conformément à l'article 35 du Code judiciaire;
+
+3° la description de l'obligation qui a fait naître la créance;
+
+4° si la créance porte sur une somme d'argent, la justification de tous les montants réclamés au débiteur, y compris les dommages et intérêts et les intérêts de retard;
+
+5° le délai dans lequel le débiteur peut s'acquitter de son obligation avant que des mesures supplémentaires de recouvrement puissent être prises;
+
+6° la possibilité d'agir en justice pour mettre en oeuvre d'autres mesures de recouvrement en cas d'absence de réaction du débiteur dans le délai fixé;
+
+7° le caractère interruptif de la prescription provoqué par cette mise en demeure;
+
+8° la signature de l'avocat du créancier, de l'huissier de justice désigné à cette fin par le créancier ou de la personne pouvant ester en justice au nom du créancier en vertu de l'article 728, § 3, du Code judiciaire.]<sup>1</sup>
+
+(NOTE : par son arrêt n° 40/2019 du 28-02-2019 (M.B. 25-03-2019, p. 28680), la Cour constitutionnelle a annulé le mot "annulé" dans l'art. 2244, § 1er, l. 3)
+
+----------
+
+(1)&lt;L 2013-05-23/19, art. 2, 012; En vigueur : 11-07-2013&gt;
+
+(2)&lt;L 2017-07-06/24, art. 160, 015; En vigueur : 03-08-2017&gt;
+
+(3)&lt;L 2022-04-28/25, art. 28, 020; En vigueur : 01-01-2023&gt;
+
+(4)&lt;L 2022-02-24/26, art. 2, 021; En vigueur : 26-01-2024&gt;
+
+##### Art. 2245
+
+[Abrogé] &lt;L 15-12-1949, art. 29&gt;.
+
+##### Art. 2246
+
+La citation en justice, donnée même devant un juge incompétent, interrompt la prescription.
+
+##### Art. 2247
+
+[<sup>1</sup> Alinéa 1 abrogé.]<sup>1</sup>
+
+Si le demandeur se désiste de sa demande,
+
+[Alinéa 3 abrogé.] &lt;L 15-12-1949, art. 28&gt;
+
+Ou si sa demande est rejetée,
+
+L'interruption est regardée comme non avenue.
+
+----------
+
+(1)&lt;L 2012-07-16/04, art. 2, 011; En vigueur : 13-08-2012&gt;
+
+##### Art. 2248
+
+La prescription est interrompue par la reconnaissance que le débiteur ou le possesseur fait du droit de celui contre lequel il prescrivait.
+
+##### Art. 2249
+
+L'interpellation faite, conformément aux articles ci-dessus, à l'un des débiteurs solidaires, ou sa reconnaissance, interrompt la prescription contre tous les autres, mêmes contre leurs héritiers.
+
+L'interpellation faite à l'un des héritiers d'un débiteur solidaire, ou la reconnaissance de cet héritier, n'interrompt pas la prescription à l'égard des autres cohéritiers, quand même la créance serait hypothécaire, si l'obligation n'est indivisible.
+
+Cette interpellation ou cette reconnaissance n'interrompt la prescription, à l'égard des autres codébiteurs, que pour la part dont cet héritier est tenu.
+
+Pour interrompre la prescription pour le tout, à l'égard des autres codébiteurs, il faut l'interpellation faite à tous les héritiers du débiteur décédé, ou la reconnaissance de tous ses héritiers.
+
+##### Art. 2250
+
+L'interpellation faite au débiteur principal, ou sa reconnaissance, interrompt la prescription contre la caution.
+
+#### SECTION II. - DES CAUSES QUI SUSPENDENT LE COURS DE LA PRESCRIPTION.
+
+##### Art. 2251
+
+La prescription court contre toutes personnes, à moins qu'elles ne soient dans quelque exception établie par une loi.
+
+##### Art. 2252
+
+La prescription ne court pas contre les mineurs et les [<sup>1</sup> personnes protégées en ce qui concerne les actes pour lesquels ils ont été déclarés incapables, en vertu de l'article 492/1]<sup>1</sup>, sauf ce qui est dit à l'article 2278, et à l'exception des autres cas déterminés par la loi.
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 145, 013; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+##### Art. 2253
+
+Elle ne court point entre époux.
+
+##### Art. 2254
+
+&lt;L 14-07-1976, art. 17&gt;. La prescription court contre celui des époux qui est dessaisi de la gestion de ses biens, sauf son recours contre son conjoint ou le mandataire en cas de négligence.
+
+&lt;NOTE : Grâce à la mesure transitoire (voir art. IV, 47, § 2, L 14 juillet 1976) le texte suivant reste d'application dans les cas prévus : La prescription court contre la femme mariée, encore qu'elle ne soit point séparée par contrat de mariage ou en justice, à l'égard des biens dont le mari a l'administration, sauf son recours contre le mari.&gt;
+
+##### Art. 2255
+
+[Abrogé] &lt;L 14-07-1976, art. 18&gt;.
+
+&lt;NOTE : Grâce à la mesure transitoire (voir art. IV, 47, § 1, L 14 juillet 1976), le texte suivant reste d'application dans les cas prévus : Néanmoins elle ne court point, pendant le mariage, à l'égard de l'aliénation d'un fonds constitué selon le régime dotal, conformément à l'article 1561, au titre du Contrat de mariage et des Droits respectifs des Epoux.&gt;
+
+##### Art. 2256
+
+[Abrogé] &lt;L 14-07-1976, art. 18&gt;.
+
+&lt;NOTE : Grâce à la mesure transitoire (voir art. 47, § 1, L 14 juillet 1976) le texte suivant reste d'application dans les cas prévus : La prescription est pareillement suspendue pendant le mariage :
+
+1° Dans le cas où l'action de la femme ne pourrait être exercée qu'après une option à faire sur l'acceptation ou la renonciation à la communauté;
+
+2° Dans le cas où le mari, ayant vendu le bien propre de la femme sans son consentement, est garant de la vente, et dans tous les autres cas où l'action de la femme réfléchirait contre le mari.&gt;
+
+##### Art. 2257
+
+La prescription ne court point :
+
+A l'égard d'une créance qui dépend d'une condition jusqu'à ce que la condition arrive;
+
+A l'égard d'une action en garantie, jusqu'à ce que l'éviction ait lieu;
+
+A l'égard d'une créance à jour fixe, jusqu'à ce que ce jour soit arrivé.
+
+##### Art. 2258
+
+La prescription ne court pas contre l'héritier bénéficiaire, à l'égard des créances qu'il a contre la succession.
+
+Elle court contre une succession vacante, quoique non pourvue de curateur.
+
+##### Art. 2259
+
+Elle court encore pendant les trois mois pour faire inventaire, et les quarante jours pour délibérer.
+
+### CHAPITRE V. - DU TEMPS REQUIS POUR PRESCRIRE.
+
+#### SECTION I. - DISPOSITIONS GENERALES.
+
+##### Art. 2260
+
+La prescription se compte par jours, et non par heures.
+
+##### Art. 2261
+
+Elle est acquise lorsque le dernier jour du terme est accompli.
+
+#### SECTION II. - &lt;L 1998-06-10/39, art. 7, 004; En vigueur : 27-07-1998&gt; [DES DELAIS GENERAUX DE PRESCRIPTION.]
+
+##### Art. 2262
+
+&lt;L 1998-06-10/39, art. 4, 004; En vigueur : 27-07-1998&gt; Toutes les actions réelles sont prescrites par trente ans, sans que celui qui allègue cette prescription soit obligé d'en rapporter un titre, ou qu'on puisse lui opposer l'exception déduite de la mauvaise foi.
+
+##### Art. 2262bis
+
+&lt;Inséré par L 1998-06-10/39, art. 5; En vigueur : 27-07-1998&gt; § 1er. Toutes les actions personnelles sont prescrites par dix ans.
+
+Par dérogation à l'alinéa 1er, toute action en réparation d'un dommage fondée sur une responsabilité extra-contractuelle se prescrit par cinq ans à partir du jour qui suit celui où la personne lésée a eu connaissance du dommage ou de son aggravation et de l'identité de la personne responsable.
+
+Les actions visées à l'alinéa 2 se prescrivent en tout cas par vingt ans à partir du jour qui suit celui où s'est produit le fait qui a provoqué le dommage.
+
+§ 2. Si une décision passée en force de chose jugée sur une action en réparation d'un dommage admet des réserves, la demande tendant à faire statuer sur leur objet sera recevable pendant vingt ans à partir du prononcé.
+
+##### Art. 2263
+
+Après [huit] ans de la date du dernier titre, le débiteur d'une rente peut être contraint à fournir à ses frais un titre nouveau à son créancier ou à ses ayants cause. &lt;L 1998-06-10/39, art. 6, 004; En vigueur : 27-07-1998&gt;
+
+##### Art. 2264
+
+Les règles de la prescription sur d'autres objets que ceux mentionnés dans le présent titre, sont expliquées dans les titres qui leur sont propres.
+
+#### SECTION III. - DE LA PRESCRIPTION PAR DIX ET VINGT ANS.
+
+##### Art. 2265
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,8°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2266
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,8°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2267
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,8°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2268
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,8°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2269
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,8°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2270
+
+Après dix ans, l'architecte et les entrepreneurs sont déchargés de la garantie des gros ouvrages qu'ils ont faits ou dirigés.
+
+#### SECTION IV. - DE QUELQUES PRESCRIPTIONS PARTICULIERES.
+
+##### Art. 2271
+
+L'action des maîtres et instituteurs des sciences et arts, pour les leçons qu'ils donnent au mois;
+
+Celles des hôteliers et traiteurs, à raison du logement et de la nourriture qu'ils fournissent;
+
+Celle des ouvriers et gens de travail, pour le payement de leurs journées, fournitures et salaires,
+
+Se prescrivent par six mois.
+
+##### Art. 2272
+
+[Alinéa 1 abrogé] &lt;L 06-08-1993, art. 63&gt;.
+
+[L'action] des [huissiers de justice], pour le salaire des actes qu'ils signifient, et des commissions qu'ils exécutent; &lt;L 06-08-1993, art. 63&gt;.
+
+Celle des marchands, pour les marchandises qu'ils vendent aux particuliers non marchands;
+
+Celle des maîtres de pension, pour le prix de la pension de leurs élèves; et des autres maîtres, pour le prix de l'apprentissage;
+
+Celle des domestiques qui se louent à l'année, pour le payement de leur salaire,
+
+Se prescrivent par un an.
+
+##### Art. 2273
+
+&lt;L 29-12-1983, art. 8&gt;. L'action des bailleurs pour le paiement du montant résultant de l'adaptation du loyer au coût de la vie se prescrit par un an.
+
+L'action des preneurs pour le recouvrement des sommes indûment payées se prescrit par un an à compter de l'envoi de la demande prévue à l'article 1728quater.
+
+##### Art. 2274
+
+La prescription, dans les cas ci-dessus, a lieu, quoiqu'il y ait eu continuation de fournitures, livraisons, services et travaux.
+
+Elle ne cesse de courir que lorsqu'il y a eu compte arrêté, cédule ou obligation, ou citation en justice non périmée.
+
+##### Art. 2275
+
+Néanmoins, ceux auxquels ces prescriptions seront opposées, peuvent déférer le serment à ceux qui les opposent, sur la question de savoir si la chose a été réellement payée.
+
+Le serment pourra être déféré aux veuves et héritiers, ou aux tuteurs de ces derniers, s'ils sont mineurs, pour qu'ils aient à déclarer s'ils ne savent pas que la chose soit due.
+
+##### Art. 2276
+
+Les juges et avoués sont déchargés des pièces cinq ans après le jugement des procès.
+
+Les [huissiers de justice] après deux ans, depuis l'exécution de la commission, ou la signification des actes dont ils étaient chargés, en sont pareillement déchargés. &lt;L 05-07-1963, art. 48&gt;.
+
+##### Art. 2276bis
+
+&lt;Inséré par L 08-08-1985, art. 1&gt;. § 1. Les avocats sont déchargés de leur responsabilité professionnelle et de la conservation des pièces cinq ans après l'achèvement de leur mission.
+
+Cette prescription n'est pas applicable lorsque l'avocat a été constitué expressément dépositaire de pièces déterminées.
+
+§ 2. L'action des avocats en paiement de leurs frais et honoraires se prescrit dans le même délai de cinq ans après l'achèvement de leur mission.
+
+##### Art. 2276ter
+
+&lt;Inséré par L 19-02-1990, art. 1&gt;. § 1. Les experts sont déchargés de leur responsabilité professionnelle et de la conservation des pièces dix ans après l'achèvement de leur mission ou, si celle-ci leur a été confiée en vertu de la loi, cinq ans après le dépôt de leur rapport.
+
+Cette prescription n'est pas applicable lorsque l'expert a été constitué expressément dépositaire de pièces déterminées.
+
+§ 2. L'action des experts en paiement de leurs frais et honoraires se prescrit par cinq ans.
+
+##### Art. 2276quater
+
+&lt;Inséré par L 1998-07-05/57, art. 15, En vigueur : 01-01-1999&gt; Les médiateurs de dettes sont déchargés de leur responsabilité professionnelle cinq ans après la fin de leur mission.
+
+##### Art. 2276quinquies
+
+(Inséré par &lt;L 1999-05-04/03, art. 47, En vigueur : 01-01-2000&gt;) Les délais de prescription de droit commun sont applicables à la responsabilité professionnelle des notaires, à l'exception de la responsabilité professionnelle en raison de dispositions à cause de mort et d'institutions contractuelles pour laquelle le délai de prescription ne commence à courir qu'au jour du décès de l'intéressé ayant pris des dispositions à cause de mort ou des institutions contractuelles.
+
+##### Art. 2277
+
+Les arrérages de rentes perpétuelles et viagères;
+
+Ceux des pensions alimentaires;
+
+[<sup>2</sup> Les créances de frais extraordinaires visés à l'article 203bis, § 3;]<sup>2</sup>
+
+Les loyers des maisons, et le prix de ferme des biens ruraux;
+
+Les intérêts des sommes prêtées, et généralement tout ce qui est payable par année, ou à des termes périodiques plus courts,
+
+Se prescrivent par cinq ans.
+
+[<sup>1</sup> Les créances pour la fourniture de biens et de services via des réseaux de distribution d'eau, de gaz ou d'électricité ou la fourniture de services de communications électroniques ou de services de radiotransmission ou de radio- et télédiffusion via des réseaux de communications électroniques se prescrivent par cinq ans.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 48, 015; En vigueur : 03-08-2017&gt;
+
+(2)&lt;L 2018-12-21/09, art. 126, 017; En vigueur : 10-01-2019&gt;
+
+##### Art. 2277bis
+
+&lt;Inséré par L 06-08-1993, art. 64&gt;. L'action des prestataires de soins pour les prestations, biens et services médicaux qu'ils ont fournis, y compris l'action pour frais supplémentaires, se prescrit vis-à-vis du patient par deux ans à compter de la fin du moi au cours duquel ils ont été fournis.
+
+Il en va de même en ce qui concerne les prestations, services et biens médicaux et les frais supplémentaires qui ont été fournis ou facturés par l'établissement de soins ou par des tiers.
+
+##### Art. 2277ter
+
+&lt;Inséré par L 2007-04-25/38, art. 216; En vigueur : 18-05-2007&gt; § 1er. Les actions introduites par des autorités publiques en vue du recouvrement des coûts des mesures de prévention et de réparation des dommages environnementaux se prescrivent par cinq ans à partir de la date à laquelle les mesures ont été achevées ou de la date à laquelle la personne responsable a été identifiée, la date la plus récente étant retenue.
+
+Les actions visées à l'alinéa 1er se prescrivent en tout cas par trente ans à compter du jour qui suit celui où le fait ayant donné lieu aux dommages environnementaux s'est produit.
+
+§ 2. Le présent article ne s'applique pas aux dommages environnementaux résultant d'activités nucléaires ou d'activités menées principalement dans l'intérêt de la défense nationale ou de la sécurité internationale, ainsi qu'aux dommages environnementaux causés par des conflits armés, des hostilités, une guerre civile, une insurrection ou aux dommages environnementaux causés par un phénomène naturel de nature exceptionnelle, inévitable et irrésistible, ou aux dommages environnementaux résultant d'activités dont l'unique objet est d'assurer la protection contre les catastrophes naturelles.
+
+##### Art. 2278
+
+Les prescriptions dont il s'agit dans les articles de la présente section, courent contre les mineurs et les [<sup>1</sup> personnes protégées en vertu de l'article 492/1]<sup>1</sup>, sauf leur recours contre [<sup>1</sup> leur tuteur ou leur administrateur ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 146, 013; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+##### Art. 2279
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,9°, 019; En vigueur : 01-09-2021&gt;
+
+##### Art. 2280
+
+&lt;Abrogé par L 2020-02-04/16, art. 29,10°, 019; En vigueur : 01-09-2021&gt;
+
+## TITRE XXI. - [DE LA NOTIFICATION]. &lt;L 2000-10-20/40, art. 3; En vigueur : 01-01-2001&gt;
+
+##### Art. 2281
+
+&lt;Abrogé par L 2022-04-28/25, art. 62, 020; En vigueur : 01-01-2023&gt;

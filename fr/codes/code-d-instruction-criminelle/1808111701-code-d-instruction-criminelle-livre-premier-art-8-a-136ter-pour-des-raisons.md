@@ -1,0 +1,4967 @@
+---
+title: "CODE D'INSTRUCTION CRIMINELLE. - LIVRE PREMIER. (Art. 8 à 136ter) (Pour des raisons techniques, le Code d'Instruction Criminelle est divisé en 8 parties, dont le livre premier est la deuxième partie.)"
+identifier: "1808111701"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1808/11/17/1808111701/justel"
+type: code
+justel_type: "CODE D'INSTRUCTION CRIMINELLE"
+jurisdiction: be
+language: fr
+date: 1808-11-17
+published: 1808-11-27
+entry_into_force: 1808-12-07
+last_amended: 2026-04-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1808/11/17/1808111701/justel"
+justel_note: "Consultation des versions antérieures à partir du 14-08-1990 et mise à jour au 02-04-2026"
+retrieved: 2026-10-11
+---
+
+# 17 NOVEMBRE 1808. - CODE D'INSTRUCTION CRIMINELLE. - LIVRE PREMIER. (Art. 8 à 136ter) (Pour des raisons techniques, le Code d'Instruction Criminelle est divisé en 8 parties, dont le livre premier est la deuxième partie.)
+
+## LIVRE PREMIER. - DE LA POLICE JUDICIAIRE ET DES OFFICIERS DE POLICE QUI L'EXERCENT.
+
+### CHAPITRE I. - DE LA POLICE JUDICIAIRE.
+
+**Art. 8**
+
+La police judiciaire recherche les [<sup>1</sup> infractions]<sup>1</sup>, en rassemble les preuves, et en livre les auteurs aux tribunaux chargés de les punir.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 27, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 9**
+
+&lt;L 2001-06-21/42, art. 55, 027; En vigueur : 21-05-2002&gt; [La police judiciaire sera exercée, sous l'autorité des cours d'appel et, dans le cadre de ses compétences, sous l'autorité du procureur fédéral, et suivant les distinctions établies ci-après : ] &lt;L 2002-07-16/41, art. 4, 033; En vigueur : 21-05-2002&gt;
+
+1° par les gardes champêtres particuliers et par les gardes forestiers, [...] par les procureurs du Roi et leurs substituts, [par les auditeurs du travail et leurs substituts,] par les juges au tribunal de police et par les membres de la police fédérale et de la police locale; &lt;L 2002-07-16/41, art. 4, 033; En vigueur : 21-05-2002&gt;
+
+2° [<sup>1</sup> par le procureur fédéral et les magistrats fédéraux;]<sup>1</sup>
+
+[<sup>1</sup> 3° par les procureurs généraux et les autres magistrats des parquets généraux et auditorats généraux.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-05-04/03, art. 2, 083; En vigueur : 23-05-2016&gt;
+
+**Art. 10**
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 4°&gt;
+
+### CHAPITRE II. - [DES BOURGMESTRES, ECHEVINS ET DES COMMISSAIRES DE POLICE]. &lt;L 10-07-1967, art. 1, 5°&gt;
+
+**Art. 11**
+
+[Abrogé] &lt;L 1998-12-07/31, art. 214, 018; En vigueur : 01-01-2001&gt;
+
+**Art. 12**
+
+[Abrogé] &lt;L 1998-12-07/31, art. 214, 018; En vigueur : 01-01-2001&gt;
+
+**Art. 13**
+
+[Abrogé] &lt;L 1998-12-07/31, art. 214, 018; En vigueur : 01-01-2001&gt;
+
+**Art. 14**
+
+[Abrogé] &lt;L 1998-12-07/31, art. 214, 018; En vigueur : 01-01-2001&gt;
+
+**Art. 15**
+
+[Abrogé] &lt;L 1998-12-07/31, art. 214, 018; En vigueur : 01-01-2001&gt;
+
+### CHAPITRE III. - DES GARDES CHAMPETRES ET FORESTIERS.
+
+**Art. 16**
+
+Les [...] les gardes forestiers et les gardes champêtres particuliers sont chargés de rechercher, chacun dans le territoire pour lequel ils auront été assermentés, les [<sup>1</sup> infractions punissables d'une peine de niveau 1, 2 ou 3]<sup>1</sup> qui auront porté atteinte aux propriétés rurales et forestières. &lt;L 1998-12-07/31, art. 215, 1°, 018; En vigueur : 01-01-2001&gt;
+
+Ils dresseront des procès-verbaux, à l'effet de constater la nature, les circonstances, le temps, le lieu des [<sup>1</sup> infractions]<sup>1</sup>, ainsi que les preuves et les indices qu'ils auront pu en recueillir.
+
+[Ils suivront les choses enlevées, dans les lieux où elles auront été transportées, et les mettront en séquestre; ils ne pourront néanmoins s'introduire dans les maisons, ateliers, bâtiments, cours adjacentes et enclos si ce n'est en présence d'un fonctionnaire de police revêtu de la qualité d'officier de police judiciaire auxiliaire du procureur du Roi; le procès-verbal qui devra en être dressé sera signé par celui en présence duquel il aura été fait.] &lt;L 1999-04-19/50, art. 3, 023; En vigueur : 01-01-2001&gt;
+
+Ils arrêteront, et conduiront devant le [juge au tribunal de police] ou devant le [bourgmestre], tout individu qu'ils auront surpris [<sup>1</sup> en état de flagrance]<sup>1</sup>, ou qui sera dénoncé par la clameur publique, [<sup>1</sup> lorsque cette infraction est punie d'une peine de niveau 2 ou 3]<sup>1</sup>. &lt;L 10-07-1967, art. 1, 11°&gt; &lt;L 10-10-1967, art. 91, § 3&gt;
+
+Ils se feront donner, pour cet effet, main-forte par le [bourgmestre] ou par [un échevin] du lieu, qui ne pourra s'y refuser. &lt;L 10-07-1967, art. 1, 11°&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 28, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 17**
+
+Les [...] gardes forestiers et les gardes champêtres particuliers sont, comme officiers de police judiciaire, sous la surveillance du procureur du Roi, sans préjudice de leur subordination, à l'égard de leurs supérieurs dans l'administration. &lt;L 1998-12-07/31, art. 216, 018; En vigueur : 01-01-2001&gt;
+
+**Art. 18**
+
+Les gardes forestiers de l'administration, des communes et des établissements publics, remettront leurs procès-verbaux au conservateur, inspecteur ou sous-inspecteur forestier, dans [les trois jours au plus tard, y compris celui où ils ont reconnu le fait sur lequel ils ont procédé] &lt;L 1999-04-19/50, art. 4, 023; En vigueur : 01-01-2001&gt;
+
+[Alinéa 2 abrogé] &lt;L 15-12-1928, art. unique&gt;
+
+**Art. 18_REGION_FLAMANDE**
+
+&lt;Abrogé par DCFL 2009-04-30/87, art. 43, 056; En vigueur : 25-06-2009&gt;
+
+**Art. 19**
+
+Le conservateur, inspecteur ou sous-inspecteur, fera citer les [inculpés] ou les personnes civilement responsables devant le tribunal correctionnel. &lt;L 10-07-1967, art. 1, 249°&gt;
+
+**Art. 20**
+
+[<sup>1</sup> Les procès-verbaux des gardes forestiers et des gardes champêtres particuliers seront remis au procureur du Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 29, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 21**
+
+&lt;Abrogé par L 2026-03-11/03, art. 30, 130; En vigueur : 01-09-2026&gt;
+
+### CHAPITRE IIIbis. [<sup>1</sup> - De l'autorisation de consulter le dossier ou d'en obtenir copie]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-12-27/29, art. 23, 066; En vigueur : 10-02-2013&gt;
+
+**Art. 21bis**
+
+[<sup>1</sup> § 1er. Sans préjudice des dispositions des lois particulières, de l'application des articles 28quinquies, § 2, 57, § 2, 61ter et 127, § 2, et de la procédure visée aux paragraphes 2 à 9, la personne directement intéressée peut, à tout moment, en fonction de l'état de la procédure, demander au procureur du Roi ou au juge d'instruction qu'il lui donne accès au dossier ou d'en obtenir une copie.
+
+Est considérée comme personne directement intéressée : l'inculpé, la personne à l'égard de laquelle l'action publique est engagée dans le cadre de l'instruction, la personne soupçonnée, la partie civilement responsable, la partie civile, celui qui a fait une déclaration de personne lésée, ainsi que ceux qui sont subrogés dans leurs droits ou les personnes qui les représentent en qualité de mandataire ad hoc, de curateur, d'administrateur provisoire, de tuteur ou de tuteur ad hoc.
+
+Dans tous les autres cas, la décision sur l'autorisation de consulter le dossier ou d'en obtenir copie est prise par le ministère public, même pendant l'instruction.
+
+[<sup>3</sup> Les expéditions et copies des actes d'instruction et de procédure des juridictions et des parquets militaires supprimés concernant des dossiers définitivement jugés ou sur lesquels il a été statué par l'auditeur militaire ou l'auditeur général au 31 décembre 2003, ne peuvent être délivrées que sur autorisation expresse du ou de l'un des magistrats du ministère public délégués à cette fin par le Collège des Procureurs généraux.
+
+Le greffe de la cour d'appel de Bruxelles est chargé de la délivrance des expéditions et copies visées à l'alinéa 4.
+
+[<sup>5</sup> [<sup>4</sup>...]<sup>4</sup>]<sup>5</sup>
+
+§ 2. La personne directement intéressée peut, en cours d'enquête, envoyer une requête au procureur du Roi en vue de consulter le dossier relatif à [<sup>6</sup> une infraction]<sup>6</sup>. Pour [<sup>6</sup> les infractions]<sup>6</sup> qui sont de la compétence du tribunal de police, cette possibilité ne s'applique qu'à l'égard des [<sup>6</sup> infractions visées à l'article 138, 6° bis et 6° ter, et des infractions pour lesquelles]<sup>6</sup> le délai de prescription est de trois ans en application de l'article 68 de la loi du 16 mars 1968 relative à la police de la circulation routière.
+
+A peine d'irrecevabilité, la requête est motivée et contient l'élection de domicile en Belgique si le requérant n'y a pas son domicile ou son siège.
+
+Elle est adressée ou déposée au secrétariat du parquet, qui l'insère dans un registre ouvert à cet effet.
+
+§ 3. Le procureur du Roi statue dans un délai de quatre mois après l'insertion de la requête dans le registre.
+
+Si la demande concerne un dossier dans lequel le procureur du Roi a requis du juge d'instruction, en application de l'article 28septies, l'accomplissement d'un acte d'instruction pour lequel seul le juge d'instruction est compétent, le délai susmentionné est ramené à un mois maximum à partir de la première autorisation délivrée par le juge d'instruction.
+
+§ 4. La décision motivée est notifiée au requérant et, le cas échéant, à son avocat, par télécopie, par lettre simple ou par voie électronique, dans un délai de huit jours à dater de la décision.
+
+§ 5. Le procureur du Roi peut interdire la consultation ou la prise de copie du dossier ou de certaines pièces si les nécessités de l'information le requièrent, si la consultation présente un danger pour les personnes ou porte gravement atteinte à leur vie privée, si le requérant ne justifie pas d'un motif légitime la consultation du dossier, si le dossier ne contient que la déclaration ou la plainte, dont le requérant ou son avocat a déjà reçu une copie, si l'affaire a été mise à l'instruction ou si le requérant a été renvoyé devant une juridiction de jugement ou a été cité ou convoqué par procès-verbal.
+
+Il peut limiter la consultation du dossier ou la prise de copie à la partie du dossier à l'égard de laquelle le requérant a fait valoir un intérêt.
+
+§ 6. Si la demande de consultation du dossier ou d'obtention d'une copie de ce dernier est acceptée, le dossier est mis à la disposition du requérant et de son avocat en original ou en copie, pour consultation dans les vingt jours suivant la décision du procureur du Roi et au plus tôt après le délai visé au paragraphe 4, pour une durée minimale de quarante-huit heures. Le secrétariat du parquet notifie au requérant et à son avocat par télécopie, par lettre simple ou par voie électronique, la date et le lieu où le dossier peut être consulté.
+
+[<sup>2</sup> L'acceptation de la demande de consultation du dossier implique que le requérant ou son avocat peuvent eux-mêmes et par leurs propres moyens, en prendre une copie gratuitement, sur place. Le procureur du Roi peut toutefois, de manière motivée, interdire la prise de copie du dossier ou de certaines pièces si les nécessités de l'information le requièrent, ou si cette prise de copie présente un danger pour les personnes ou porte gravement atteinte à leur vie privée.]<sup>2</sup>
+
+Le requérant ne peut faire usage des renseignements obtenus par la consultation ou par la prise d'une copie du dossier que dans l'intérêt de sa défense, à condition de respecter la présomption d'innocence et les droits de la défense de tiers, la vie privée et la dignité de la personne.
+
+§ 7. Si la consultation ou la prise d'une copie du dossier ou de certaines pièces a été refusée, le requérant peut porter l'affaire devant la chambre des mises en accusation par une requête motivée déposée au greffe du tribunal de première instance, dans un délai de huit jours suivant la notification de la décision au requérant, et insérée dans un registre prévu à cet effet.
+
+Si l'information est menée par le procureur fédéral, l'affaire est portée devant la chambre des mises en accusation de la cour d'appel de Bruxelles.
+
+La chambre des mises en accusation se prononce sans débat dans les quinze jours à compter du dépôt de la requête.
+
+Le greffier communique, par télécopie, par lettre simple ou par voie électronique, les lieu, jour et heure de l'audience au requérant et, le cas échéant, à son avocat, au plus tard quarante-huit heures au préalable.
+
+Le procureur général peut adresser ses réquisitions écrites à la chambre des mises en accusation. La chambre des mises en accusation peut entendre, séparément et en l'absence des parties, le procureur général en ses observations. Elle peut entendre le requérant ou son avocat en présence du procureur général.
+
+§ 8. Si le ministère public n'a pas pris de décision dans le délai prévu, selon le cas, au paragraphe 3, alinéa 1er ou 2, augmenté de quinze jours, le requérant peut s'adresser à la chambre des mises en accusation. Ce droit prend fin si la requête motivée n'est pas déposée dans les huit jours suivant l'expiration du délai, au greffe du tribunal de première instance. La requête est insérée dans un registre prévu à cet effet.
+
+Si l'information est menée par le procureur fédéral, l'affaire est portée devant la chambre des mises en accusation de la cour d'appel de Bruxelles.
+
+La procédure se déroule conformément au paragraphe 7, alinéas 3 à 5.
+
+§ 9. Le requérant ne peut envoyer ni déposer de requête ayant le même objet avant l'expiration d'un délai de trois mois à compter de la dernière décision portant sur le même objet.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-03-18/14, art. 3, 095; En vigueur : 12-05-2018&gt;
+
+(2)&lt;L 2019-05-05/19, art. 146, 103; En vigueur : 29-06-2019&gt;
+
+(3)&lt;L 2019-03-23/18, art. 12, 105; En vigueur : 01-01-2020&gt;
+
+(4)&lt;L 2021-02-17/04, art. 28, 109; En vigueur : 24-02-2021&gt;
+
+(5)&lt;L 2024-03-28/60, art. 6, 121; En vigueur : 08-04-2024&gt;
+
+(6)&lt;L 2026-03-11/03, art. 31, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 21ter**
+
+[<sup>1</sup> L'article 21bis, §§ 2, alinéas 1 et 3, à 8, s'applique à la demande d'octroi de la consultation de ses données à caractère personnel traitées dans le dossier ou à la demande d'obtention d'une copie de celles-ci de la part d'une personne directement intéressée, fondé sur le droit d'accès visé à l'article 37, § 1er, 5°, de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel.
+
+L'article 21bis, §§ 2, alinéas 1er et 3, à 8, s'applique également, même lors de l'instruction, à toutes les autres demandes d'octroi de la consultation de ses données à caractère personnel traitées dans le dossier ou demandes d'obtention d'une copie de ces données, conformément à ce droit à l'accès, émanant d'une personne qui n'a pas la qualité de personne directement intéressée.
+
+Sous peine d'irrecevabilité, le requérant indique dans sa requête qu'il souhaite exercer son droit visé aux alinéas 1er et 2 et élit domicile en Belgique s'il n'y a pas son domicile ou son siège.
+
+Le procureur du Roi peut interdire ou limiter la consultation ou la prise de copie de données à caractère personnel traitées dans le dossier, conformément à un des motifs prévus à l'article 21bis, § 5, ou s'il s'agit d'une mesure nécessaire et proportionnelle en vue de:
+
+\- éviter une entrave aux instructions ou aux autres enquêtes réglementées, aux recherches ou aux procédures;
+
+\- prévenir les conséquences préjudiciables à des fins de prévention et de recherche des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales;
+
+\- protéger la sécurité publique;
+
+\- protéger la sécurité nationale; ou
+
+\- protéger les droits et libertés d'autrui.
+
+Dans ce cas, le procureur du Roi informe le requérant des motifs du refus ou de la limitation de l'accès. Le procureur du Roi peut omettre cette information si cette communication est de nature à porter atteinte à l'un des objectifs mentionnés dans l'alinéa 4.
+
+Le requérant ne peut envoyer ni déposer de requête ayant le même objet avant l'expiration du délai de six mois à compter de la dernière décision portant sur le même objet.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-28/60, art. 53, 121; En vigueur : 08-04-2024&gt;
+
+**Art. 21quater**
+
+[<sup>1</sup> § 1er. La personne lésée qui a fait une déclaration conformément à l'article 5bis du titre préliminaire du Code d'instruction criminelle et le suspect peuvent demander au procureur du Roi d'effectuer un acte d'information supplémentaire dans un dossier concernant [<sup>2</sup> une infraction]<sup>2</sup>. Pour [<sup>2</sup> les infractions]<sup>2</sup> qui sont de la compétence du tribunal de police, cette possibilité ne s'applique qu'à l'égard des [<sup>2</sup> infractions visées à l'article 138, 6° bis et 6° ter, et des infractions pour lesquelles]<sup>2</sup> le délai de prescription est de trois ans en application de l'article 68 de la loi du 16 mars 1968 relative à la police de la circulation routière.
+
+§ 2. Sous peine d'irrecevabilité, la requête est motivée et contient l'élection de domicile en Belgique si le requérant n'y a pas son domicile ou son siège.
+
+Elle est adressée ou déposée au secrétariat du parquet, qui l'insère dans un registre ouvert à cet effet.
+
+§ 3. Le procureur du Roi statue dans un délai de quatre mois après l'insertion de la requête dans le registre.
+
+Si la demande porte sur un dossier dans lequel le procureur du Roi, en application de l'article 28septies, a ordonné au juge d'instruction d'accomplir un acte d'instruction pour lequel il est seul compétent, le délai susmentionné est réduit à un mois maximum à compter de la première autorisation accordée par le juge d'instruction.
+
+§ 4. La décision motivée est notifiée au requérant et, le cas échéant, à son avocat, par un envoi recommandé, par télécopie, ou par voie électronique, dans un délai de huit jours à dater de la décision.
+
+§ 5. Le procureur du Roi peut rejeter cette demande s'il estime que la mesure n'est pas nécessaire à la manifestation de la vérité ou est, à ce moment, préjudiciable à l'information.
+
+§ 6. La décision du procureur du Roi est susceptible de recours devant la chambre des mises en accusation, par une déclaration faite au greffe du tribunal de première instance, dans un délai de huit jours suivant la notification de la décision au requérant, et inscrite dans un registre ouvert à cet effet.
+
+Le procureur du Roi transmet les pièces au procureur général qui les dépose au greffe.
+
+Si l'information est menée par le procureur fédéral, l'affaire est portée devant la chambre des mises en accusation de la cour d'appel de Bruxelles.
+
+La chambre des mises en accusation statue dans les quinze jours du dépôt de la déclaration. Ce délai est suspendu pendant le temps de la remise accordée à la demande du requérant ou de son avocat.
+
+Le greffier communique, par télécopie, par lettre simple ou par voie électronique, les lieu, jour et heure de l'audience au requérant et, le cas échéant, à son avocat, au plus tard quarante-huit heures au préalable.
+
+Le procureur général, le requérant et son conseil sont entendus.
+
+§ 7. Si le ministère public n'a pas pris de décision dans le délai prévu au paragraphe 3, augmenté de quinze jours, le requérant peut s'adresser à la chambre des mises en accusation. Ce droit prend fin si la requête motivée n'est pas déposée dans les huit jours suivant l'expiration du délai, au greffe du tribunal de première instance. La requête est insérée dans un registre prévu à cet effet.
+
+Si l'information est menée par le procureur fédéral, l'affaire est portée devant la chambre des mises en accusation de la cour d'appel de Bruxelles.
+
+La procédure se déroule conformément au paragraphe 6, alinéas 2 à 6.
+
+§ 8. Le requérant ne peut envoyer ni déposer de requête ayant le même objet avant l'expiration d'un délai de six mois à compter de la dernière décision portant sur le même objet.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-28/60, art. 54, 121; En vigueur : 08-04-2024&gt;
+
+(2)&lt;L 2026-03-11/03, art. 32, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 21quinquies**
+
+[<sup>1</sup> § 1er. La personne lésée qui a fait une déclaration conformément à l'article 5bis du titre préliminaire du Code d'Instruction criminelle et le suspect peuvent demander au procureur du Roi de rectifier et éventuellement de compléter, effacer ou interdire l'utilisation des données à caractère personnel les concernant, ou de limiter leur utilisation conformément aux articles 39, § 1er, et 210 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel.
+
+Sous peine d'irrecevabilité, le requérant indique dans sa requête qu'il souhaite exercer ses droits visés dans l'alinèa premier.
+
+Sous peine d'irrecevabilité, la requête identifie précisément les pièces et les données à caractère personnel qu'elle contient et qui font l'objet de la demande. L'article 21quater, §§ 2, 3 et 4, s'applique.
+
+Le procureur du Roi peut rejeter cette demande, conformément aux motifs prévus à l'article 21quater, § 5, ou s'il s'agit d'une mesure nécessaire et proportionnelle sur la base d'un des motifs suivants:
+
+\- éviter une entrave aux instructions ou aux autres enquêtes réglementées, aux recherches ou aux procédures;
+
+\- prévenir les conséquences préjudiciables à des fins de prévention et de recherche des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales;
+
+\- protéger la sécurité publique;
+
+\- protéger la sécurité nationale;
+
+\- protéger les droits et libertés d'autrui;
+
+\- la demande n'est pas fondée.
+
+Dans ce cas, le procureur du Roi informe le requérant des motifs du refus. Le procureur du Roi peut omettre ces informations si cette communication portait atteinte à l'un des objectifs mentionnés à l'alinéa 4.
+
+La décision du procureur du Roi peut faire l'objet d'un appel devant la chambre des mises en accusation moyennant une requête motivée déposée au greffe du tribunal de première instance, dans un délai de huit jours à compter de la notification de la décision au requérant, et insérée dans un registre prévu à cet effet.
+
+Si le ministère public n'a pas pris de décision dans le délai visé à l'article 21quater, § 3, augmenté de quinze jours, le requérant peut s'adresser à la chambre des mises en accusation. Ce droit prend fin si la requête motivée n'est pas déposée dans les huit jours suivant l'expiration du délai, au greffe du tribunal de première instance. La requête est insérée dans un registre prévu à cet effet.
+
+Le procureur du Roi transmet les pièces identifiées par le requérant au procureur général, qui les dépose au greffe.
+
+Si l'information est menée par le procureur fédéral, l'affaire est portée devant la chambre des mises en accusation de la cour d'appel de Bruxelles.
+
+La chambre des mises en accusation se prononce sans débat.
+
+Le greffier communique, par télécopie, par lettre simple ou par voie électronique, les lieu, jour et heure de l'audience au requérant et, le cas échéant, à son avocat, au plus tard quarante-huit heures au préalable.
+
+La chambre des mises en accusation peut entendre, séparément et en l'absence du requérant, le procureur général en ses observations. Elle peut entendre le requérant ou son avocat en présence du procureur général. Le procureur général peut adresser ses réquisitions écrites à la chambre des mises en accusation.
+
+Si la demande a pour objet l'effacement, l'interdiction ou la limitation de l'utilisation de données à caractère personnel et que la chambre des mises en accusation constate, dans le cadre de sa compétence juridictionnelle qui lui est ainsi conférée, une irrégularité, une omission ou une cause de nullité visée à l'article 131, § 1er, elle peut décider d'effacer les données à caractère personnel du dossier et de déposer les pièces au greffe du tribunal de première instance, le cas échéant, en joignant les pièces épurées de ces données à caractère personnel au dossier. Si la chambre des mises en accusation constate qu'il n'existe pas de motifs de refus prévus au présent paragraphe et sans préjudice de l'application de l'alinéa 12, elle peut également décider d'entendre de la même manière les autres parties impliquées dans la procédure et décider dans quelle mesure les pièces déposées au greffe peuvent encore être utilisées dans la procédure pénale à charge par une partie impliquée dans la procédure pénale.
+
+La chambre des mises en accusation statue dans les quinze jours du dépôt de la requête. Ce délai est suspendu pendant le temps de la remise accordée à la demande du requérant ou de son conseil ou, le cas échéant, des autres parties et leur conseil si la chambre des mises en accusation décide de les entendre.
+
+Si le procureur du Roi constate qu'il peut y avoir des motifs pour donner suite à la demande d'effacement, d'interdiction ou de limitation de l'utilisation de données à caractère personnel, il transmet le dossier au procureur général. Le requérant et, le cas échéant, son avocat, sont informés conformément à ce qui est prévue à l'article 21quater, § 4. Cette décision n'est susceptible d'aucun recours. La procédure se déroule conformément au présent paragraphe.
+
+Le procureur du Roi peut prendre des mesures conservatoires afin de limiter l'utilisation et la consultation de ces données à caractère personnel.
+
+Le requérant ne peut envoyer ni déposer une requête ayant le même objet avant l'expiration d'un délai de six mois à compter de la dernière décision portant sur le même objet.
+
+§ 2. A toutes les autres demandes de rectification, de complément, d'effacement, d'interdiction ou de limitation de l'utilisation de données à caractère personnel inexactes les concernant émanant de personnes n'ayant pas la qualité requise en vertu du paragraphe 1er ou de l'article 61quinquies, § 1er, et sauf dispositions contraires, le paragraphe 1er s'applique également.
+
+Le procureur du Roi statue sur ces demandes, y compris pendant l'instruction judiciaire, après l'engagement de l'action publique et pendant la phase de l'exécution d'un jugement pénal.
+
+La demande est irrecevable si une demande portant sur le même objet a été adressée au juge du fond ou au juge ou au tribunal de l'application des peines.
+
+§ 3. Les personnes qui sont elles-mêmes impliquées en tant que partie dans la procédure au fond, devant le tribunal ou le juge de l'application des peines, soumettent leurs demandes concernant le traitement de leurs données à caractère personnel à ce juge dans le cadre du traitement de l'affaire. Ils doivent le faire au moyen d'une conclusion déposée au moment de l'audience d'introduction et avant toute exception ou opposition. La demande n'est pas recevable tant qu'une procédure est en cours concernant une demande portant sur le même objet soumise au procureur du Roi.
+
+Les décisions d'un juge visé dans ce paragraphe ne sont susceptibles d'aucun recours distinct.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-28/60, art. 55, 121; En vigueur : 08-04-2024&gt;
+
+### CHAPITRE IV. - DES [PROCUREURS DU ROI] ET DE LEURS SUBSTITUTS. &lt;L 10-07-1967, art. 1, 14°&gt;
+
+#### SECTION PREMIERE. - DE LA COMPETENCE DES [PROCUREURS DU ROI], RELATIVEMENT A LA POLICE JUDICIAIRE. &lt;L 10-07-1967, art. 1, 15°&gt;
+
+**Art. 22**
+
+&lt;L 1994-07-11/33, art. 1, 008; En vigueur : 01-01-1995&gt; Les procureurs du Roi sont chargés de la recherche et la poursuite des infractions dont la connaissance appartient aux cours d'assises, aux tribunaux correctionnels et aux tribunaux de police, sauf, pour ces deux dernières juridictions, lorsque l'action publique est confiée à l'auditeur du travail.
+
+**Art. 23**
+
+[Sont également compétents pour exercer les attributions fixées par l'article 22, le procureur du Roi du lieu de l'infraction, celui de la résidence de l'inculpé [,celui du siège social de la personne morale, celui du siège d'exploitation de la personne morale] et celui du lieu où l'inculpé pourra être trouvé.] &lt;L 1994-07-11/33, art. 2, 008; En vigueur : 01-01-1995&gt; &lt;L 1999-05-04/60, art. 14, 024; En vigueur : 02-07-1999&gt;
+
+[Le procureur du Roi, saisi d'une infraction dans les limites de cette compétence, peut procéder ou faire procéder hors de son arrondissement à tous actes d'information ou d'instruction relevant de ses attributions. Il en avise le procureur du Roi de l'arrondissement dans lequel l'acte doit être accompli.] &lt;L 1998-03-12/39, art. 3, 016, En vigueur : 1998-10-02&gt;
+
+**Art. 24**
+
+Ces fonctions, lorsqu'il s'agira [<sup>2</sup> d'infractions commises]<sup>2</sup> hors du territoire [belge dans les cas prévus par la loi], seront remplies par le [procureur du Roi] du lieu où il pourra être trouvé, [celui du siège social de la personne morale, celui du siège d'exploitation de la personne morale] ou par celui de sa dernière résidence connue [<sup>1</sup> , celui de la dernière résidence connue de la victime si le suspect ne peut pas être trouvé en Belgique et n'y a pas de résidence connue, et, à défaut, celui de Bruxelles]<sup>1</sup>. &lt;L 10-07-1967, art. 1, 18°&gt; &lt;L 1999-05-04/60, art. 14;, 024; En vigueur : 02-07-1999&gt;
+
+----------
+
+(1)&lt;L 2024-04-09/07, art. 40, 122; En vigueur : 28-04-2024&gt;
+
+(2)&lt;L 2026-03-11/03, art. 33, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 24bis**
+
+&lt;Inséré par L 2003-04-10/59, art. 83; En vigueur : 01-01-2004&gt; Les magistrats qui, en temps de paix et conformément à l'article 309bis du Code judiciaire, sont autorisés à accompagner des troupes militaires belges à l'étranger, exercent toutes leurs attributions à l'égard des personnes visées à l'[<sup>1</sup> article 10]<sup>1</sup> du titre préliminaire du présent Code comme si elles se trouvaient sur le territoire du Royaume.
+
+----------
+
+(1)&lt;L 2024-04-09/07, art. 41, 122; En vigueur : 28-04-2024&gt;
+
+**Art. 25**
+
+Les [procureurs du Roi] et tous autres officiers de police judiciaire auront, dans l'exercice de leurs fonctions, le droit de requérir directement la force publique. &lt;L 10-07-1967, art. 1, 19°&gt;
+
+**Art. 26**
+
+&lt;L 1998-03-12/39, art. 4, 016, En vigueur : 1998-10-02&gt; Sans préjudice de l'article 5 de la loi du 5 août 1992 sur la fonction de police, le procureur du Roi prend les directives générales nécessaires à l'exécution des missions de police judiciaire dans son arrondissement. Ces directives demeurent d'application, sauf décision contraire du juge d'instruction dans le cadre de son instruction. Elles sont communiquées au procureur général.
+
+**Art. 27**
+
+Les [procureurs du Roi] seront tenus, aussitôt que les [<sup>1</sup> infractions]<sup>1</sup> parviendront à leur connaissance, d'en donner avis au procureur général près la [cour d'appel], et d'exécuter ses ordres relativement à tous actes de police judiciaire. &lt;L 10-07-1967, art. 1, 21°&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 34, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 28**
+
+Ils pourvoiront à l'envoi, à la notification et à l'exécution des ordonnance qui seront rendues par le juge d'instruction, d'après les règles qui seront ci-après établies au chapitre des juges d'instruction.
+
+#### SECTION 1re bis. De l'information &lt;inséré par L 1998-03-12/39, art. 5; En vigueur : 1998-10-02&gt;
+
+**Art. 28bis**
+
+&lt;inséré par L 1998-03-12/39, art. 5; En vigueur : 1998-10-02&gt; § 1er. L'information est l'ensemble des actes destinés à rechercher les infractions, leurs auteurs et les preuves, et à rassembler les éléments utiles à l'exercice de l'action publique. [<sup>1</sup> L'information est conduite à charge et à décharge.]<sup>1</sup>
+
+Les principes généraux selon lesquels les services de police peuvent agir de manière autonome sont établis par la loi et selon les modalités particulières fixées par des directives prises conformément aux articles 143bis et 143ter du Code judiciaire.
+
+Indépendamment de ce qui est prévu aux alinéas précédents, l'information est conduite sous la direction et l'autorité du procureur du Roi compétent. Il en assume la responsabilité.
+
+§ 2. L'information s'étend à l'enquête proactive. Celle-ci, dans le but de permettre la poursuite d'auteurs d'infractions, consiste en la recherche, la collecte, l'enregistrement et le traitement de données et d'informations sur la base d'une suspicion raisonnable que des faits punissables vont être commis ou ont été commis mais ne sont pas encore connus, et qui sont ou seraient commis dans le cadre d'une organisation criminelle, telle que définie par la loi, ou constituent ou constitueraient [<sup>2</sup> une infraction telle que visée]<sup>2</sup> à l'article 90ter, §§ 2, 3 et 4. Pour entamer une enquête proactive, l'autorisation écrite et préalable du procureur du Roi, de l'auditeur du travail, [ou du procureur fédéral], dans le cadre de leur compétence respective, est requise, sans préjudice du respect des dispositions légales spécifiques réglant [les méthodes particulières de recherche et autres méthodes]. &lt;L 2001-06-21/42, art. 56, 027; En vigueur : 21-05-2002&gt; &lt;L 2003-01-06/34, art. 2, 038; En vigueur : 22-05-2003&gt;
+
+§ 3. Sauf les exceptions prévues par la loi, les actes d'information ne peuvent comporter aucun acte de contrainte ni porter atteinte aux libertés et aux droits individuels. Ces actes peuvent toutefois comprendre la saisie des choses citées [aux articles 35 et 35ter]. &lt;L 2002-12-19/86, art. 6, 036; En vigueur : 24-02-2003&gt;
+
+Le procureur du Roi veille à la légalité des moyens de preuve ainsi qu'à la loyauté avec laquelle ils sont rassemblés.
+
+----------
+
+(1)&lt;L 2024-01-18/06, art. 2, 119; En vigueur : 05-02-2024&gt;
+
+(2)&lt;L 2026-03-11/03, art. 35, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 28ter**
+
+&lt;inséré par L 1998-03-12/39, art. 5; En vigueur : 1998-10-02&gt; § 1er. Le procureur du Roi a un devoir et un droit général d'information. Dans le cadre de la politique de recherche déterminée conformément aux articles 143bis et 143ter du Code judiciaire, le procureur du Roi détermine les matières dans lesquelles les infractions sont prioritairement recherchées dans son arrondissement.
+
+§ 2. Les officiers et agents de police judiciaire agissant d'initiative informent le procureur du Roi des recherches effectuées dans le délai et selon les modalités qu'il fixe par directive. Lorsque ces recherches ont un intérêt pour une information ou une instruction en cours dans un autre arrondissement, l'autorité judiciaire concernée en est immédiatement informée par ces officiers et agents de police judiciaire et par le procureur du Roi.
+
+§ 3. Le procureur du Roi a le droit de requérir les [services de police visés à l'article 2 de la loi sur la fonction de police et tous les autres officiers de police judiciaire] pour accomplir, sauf les restrictions établies par la loi, tous les actes de police judiciaire nécessaires à l'information. &lt;L 1999-04-19/50, art. 6, 023; En vigueur : 23-05-1999&gt;
+
+Ces réquisitions sont faites et exécutées conformément [aux articles 8 à 8/3 et 8/6 à 8/8 de la loi sur la fonction de police et, pour ce qui concerne la police fédérale, à l'article 110 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux]. Les services de police requis sont tenus d'obtempérer aux réquisitions et de prêter le concours des officiers et agents de police judiciaire nécessaire à leur exécution. &lt;L 1998-12-07/31, art. 218, 018; En vigueur : 01-01-2001&gt;
+
+[<sup>1</sup> Le procureur du Roi et l'auditeur du travail ont, dans le cadre de l'information, un droit de réquisition à l'égard des services d'inspection visés à l'article 16, 1°, du Code pénal social. Ils peuvent requérir les services d'inspection pour accomplir, tous les actes nécessaires à l'information, dans le cadre de leurs compétences. Ce droit de réquisition ne porte pas préjudice aux compétences de l'inspection du travail prévues à l'article 21 du Code pénal social, pour les infractions autres que celles auxquelles se rapporte la réquisition du procureur du Roi ou de l'auditeur du travail et qui sont constatées en exécution de cette dernière. Seuls les faits qui font l'objet des réquisitions du ministère public et pour lesquels une information est déjà entamée ne peuvent plus faire l'objet d'avertissement ou de la fixation d'un délai pour se mettre en règle.]<sup>1</sup>
+
+Lorsqu'un service de police [<sup>1</sup> ou un service d'inspection]<sup>1</sup> ne peut donner au procureur du Roi [<sup>1</sup> ou à l'auditeur du travail]<sup>1</sup> les effectifs et les moyens nécessaires, [<sup>1</sup> le procureur du Roi ou l'auditeur du travail peut]<sup>1</sup> communiquer le dossier au procureur général en l'informant de la situation. Le procureur général peut soumettre le dossier au collège des procureurs généraux qui prend les initiatives qui s'imposent.
+
+§ 4. Le procureur du Roi peut désigner le ou les services de police chargés des missions de police judiciaire dans une enquête particulière, et auxquels les réquisitions seront, sauf exception, adressées. Si plusieurs services sont désignés, le procureur du Roi veille à la coordination de leurs interventions.
+
+Les fonctionnaires de police du service de police désigné conformément à l'alinéa précédent informent immédiatement l'autorité judiciaire compétente des informations et renseignements en leur possession et de toute recherche entreprise selon les modalités fixées par le procureur du Roi. Pour toutes les missions de police judiciaire relatives à cette désignation, ils agissent prioritairement vis-à-vis des autres fonctionnaires de police, lesquels informent immédiatement l'autorité judiciaire compétente et le service de police désigné des informations et renseignements en leur possession et de toute recherche entreprise selon les modalités que le procureur du Roi fixe par directive.
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 3, 058; En vigueur : 01-07-2011&gt;
+
+**Art. 28quater**
+
+&lt;inséré par L 1998-03-12/39, art. 5; En vigueur : 1998-10-02&gt; Compte tenu des directives de politique criminelle définies en vertu de l'article [<sup>1</sup> 143quater]<sup>1</sup> du Code judiciaire, le procureur du Roi juge de l'opportunité des poursuites. Il indique le motif des décisions de classement sans suite qu'il prend en la matière.
+
+Il exerce l'action publique suivant les modalités prévues par la loi.
+
+Le devoir et le droit d'information du procureur du Roi subsistent après l'intentement de l'action publique. Ce devoir et ce droit d'information cessent toutefois pour les faits dont le juge d'instruction est saisi, dans la mesure où l'information porterait sciemment atteinte à ses prérogatives, sans préjudice de la réquisition prévue à l'article 28septies, alinéa premier, et dans la mesure où le juge d'instruction saisi de l'affaire ne décide pas de poursuivre lui-même l'ensemble de l'enquête.
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 62, 079; En vigueur : 29-02-2016&gt;
+
+**Art. 28quinquies**
+
+&lt;inséré par L 1998-03-12/39, art. 5; En vigueur : 1998-10-02&gt; § 1er. Sauf les exceptions prévues par la loi, l'information est secrète. Toute personne qui est appelée à prêter son concours professionnel à l'information est tenue au secret. Celui qui viole ce secret est puni des peines prévues à [<sup>1</sup> l'article 669]<sup>1</sup> du Code pénal.
+
+§ 2. Sans préjudice des dispositions des lois particulières, le procureur du Roi et tout service de police qui interrogent une personne l'informent qu'elle peut demander une copie du [texte] de son audition, qui lui est délivrée gratuitement. &lt;L 2000-11-28/35, art. 36, 026; En vigueur : 01-04-2001&gt;
+
+Cette copie lui est remise ou adressée immédiatement ou dans le mois.
+
+Toutefois, en raison de circonstances graves et exceptionnelles, le procureur du Roi peut, par une décision motivée, retarder le moment de cette communication pendant un délai de trois mois maximum renouvelable une fois cette décision est déposée au dossier.
+
+[Lorsqu'il s'agit d'un mineur et qu'il apparaît qu'il existe un risque pour celui-ci d'être dépossédé de la copie ou de ne pouvoir en préserver le caractère personnel, le procureur du Roi peut, par une décision motivée, lui en refuser la communication. Cette décision est déposée au dossier.
+
+Dans ce cas, le mineur peut consulter une copie du texte de son audition, accompagné d'un avocat ou d'un assistant de justice du service d'accueil des victimes du parquet. Toutefois, en raison de circonstances graves et exceptionnelles, le procureur du Roi peut, par décision motivée, retarder le moment de cette consultation pendant un délai de trois mois maximum renouvelable une fois. Cette décision est déposée au dossier.
+
+Dans le cas visé à l'alinéa 4 et sans préjudice de l'application de l'alinéa 3, le procureur du Roi peut décider de délivrer une copie gratuite du texte de l'audition du mineur à l'avocat de ce dernier. Cette décision est déposée au dossier.] &lt;L 2000-11-28/35, art. 36, 026; En vigueur : 01-04-2001&gt;
+
+§ 3. Le procureur du Roi peut, lorsque l'intérêt public l'exige, communiquer des informations à la presse. Il veille au respect de la présomption d'innocence, des droits de la défense des personnes soupçonnées, des victimes et des tiers, de la vie privée et de la dignité des personnes. Dans la mesure du possible, l'identité des personnes citées dans le dossier n'est pas communiquée.
+
+§ 4. L'avocat peut, lorsque l'intérêt de son client l'exige, communiquer des informations à la presse. Il veille au respect de la présomption d'innocence, des droits de la défense des personnes soupçonnées, des victimes et des tiers, de la vie privée, de la dignité des personnes et des règles de la profession. Dans la mesure du possible, l'identité des personnes citées dans le dossier n'est pas communiquée.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 36, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 28sexies**
+
+&lt;inséré par L 1998-03-12/39, art. 5; En vigueur : 1998-10-02&gt; § 1er. Sans préjudice des dispositions des lois particulières, toute personne lésée par un acte d'information relatif à ses biens peut en demander la levée au procureur du Roi.
+
+§ 2. La requête est motivée et contient élection de domicile en Belgique, si le requérant n'y a pas son domicile. Elle est [adressée ou déposée au] secrétariat du parquet et est inscrite dans un registre ouvert à cet effet. &lt;L 2001-07-04/40, art. 2, 028; En vigueur : 03-08-2001&gt;
+
+Le procureur du Roi statue au plus tard dans les quinze jours [de l'inscription de la requête dans le registre]. &lt;L 2001-07-04/40, art. 2, 028; En vigueur : 03-08-2001&gt;
+
+La décision motivée est notifiée au requérant et, le cas échéant, à son conseil [<sup>3</sup> par un envoi recommandé, par télécopie, ou par voie électronique]<sup>3</sup> dans un délai de huit jours à dater de la décision.
+
+§ 3. Le procureur du Roi peut rejeter la requête s'il estime que les nécessités de l'information le requièrent, lorsque la levée de l'acte compromet la sauvegarde des droits des parties ou des tiers, lorsque la levée de l'acte présente un danger pour les personnes ou les biens, ou dans les cas où la loi prévoit la restitution ou la confiscation desdits biens.
+
+Il peut accorder une levée totale, partielle ou assortie de conditions. [<sup>4</sup> ...]<sup>4</sup>
+
+§ 4. La chambre des mises en accusation peut être saisie dans les quinze jours de la notification de la décision au requérant.
+
+La chambre des mises en accusation est saisie par une déclaration faite au greffe du tribunal de première instance et inscrite dans un registre ouvert à cet effet.
+
+[La chambre des mises en accusation de la cour d'appel de Bruxelles est saisie lorsque l'information est conduite par le procureur fédéral.] &lt;L 2002-07-07/42, art. 2, 032; En vigueur : 20-08-2002&gt;
+
+Le procureur du Roi transmet les pièces au procureur général qui les dépose au greffe.
+
+La chambre des mises en accusation statue dans les quinze jours du dépôt de la déclaration. Ce délai est suspendu le temps de la remise accordée à la demande du requérant ou de son conseil.
+
+Le greffier donne avis au requérant et à son conseil, [<sup>2</sup> par télécopie, par lettre simple ou par voie électronique]<sup>2</sup>, des lieu, jour et heure de l'audience, au plus tard quarante-huit heures à l'avance.
+
+Le procureur général, le requérant et son conseil sont entendus.
+
+Le requérant qui succombe peut être condamné aux frais.
+
+§ 5. [Si le procureur du Roi n'a pas statué dans le délai prévu au § 2, alinéa 2, majoré de quinze jours, le requérant peut saisir la chambre des mises en accusation. Celui-ci est déchu de ce droit si la requête motivée n'est pas déposée, dans les huit jours, au greffe du tribunal de première instance. La requête est inscrite dans un registre ouvert à cet effet. [La chambre des mises en accusation de la Cour d'appel de Bruxelles est saisie lorsque l'information est conduite par le procureur fédéral.] La procédure se déroule conformément au [§ 4, alinéas 4 à 7].] &lt;L 2001-07-04/40, art. 2, 028; En vigueur : 03-08-2001&gt; &lt;L 2002-07-07/42, art. 2, 032; En vigueur : 20-08-2002&gt;
+
+[§ 6. Dès qu'un tribunal ou une cour est saisi, une requête au sens du § 2 peut être déposée au greffe de ce tribunal ou de cette cour. Il est statué sur cette requête [<sup>1</sup> en chambre du conseil]<sup>1</sup> dans les quinze jours. Le tribunal ou la cour peut rejeter la requête sur la base d'un des motifs mentionnés au § 3. S'il existe un appel ou si le tribunal ne statue pas dans les quinze jours du dépôt de la requête, le requérant peut interjeter appel devant la chambre des mises en accusation conformément au § 4. Si le tribunal accède à la requête, le procureur du Roi peut interjeter appel de la même manière et dans le même délai.] &lt;L 2002-12-19/86, art. 7, 036; En vigueur : 24-02-2003&gt;
+
+[§ 7.] Le requérant ne peut [adresser ni déposer] de requête ayant le même objet avant l'expiration d'un délai de trois mois à compter de la dernière décision portant sur le même objet. &lt;L 2001-07-04/40, art. 2, 028; En vigueur : 03-08-2001&gt; &lt;L 2002-12-19/86, art. 7, 036; En vigueur : 24-02-2003&gt;
+
+----------
+
+(1)&lt;L 2019-05-05/10, art. 2, 102; En vigueur : 03-06-2019&gt;
+
+(2)&lt;L 2022-12-06/02, art. 3, 114; En vigueur : 31-12-2022&gt;
+
+(3)&lt;L 2024-03-28/60, art. 7, 121; En vigueur : 08-04-2024&gt;
+
+(4)&lt;L 2026-03-11/03, art. 37, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 28septies**
+
+&lt;L 2005-12-27/34, art. 3, 046; En vigueur : 30-12-2005&gt; Le procureur du Roi peut requérir du juge d'instruction l'accomplissement d'un acte d'instruction pour lequel seul le juge d'instruction est compétent, à l'exception du mandat d'arrêt tel qu'il est prévu par l'article 16 de la loi du 20 juillet 1990 relative à la détention préventive, du témoignage anonyme complet tel qu'il est prévu à l'article 86bis, de la mesure de surveillance telle qu'elle est prévue par l'article 90ter [<sup>1</sup> et des actes d'instruction tels qu'ils sont prévus aux articles 56bis, alinéa 2, et 89ter,]<sup>1</sup> sans qu'une instruction soit ouverte. Après l'exécution de l'acte d'instruction accompli par le juge d'instruction, celui-ci décide s'il renvoie le dossier au procureur du Roi qui est responsable de la poursuite de l'information ou si, au contraire, il continue lui-même l'enquête, auquel cas il est procédé conformément aux dispositions du Chapitre VI du présent Livre. Cette décision n'est susceptible d'aucun recours.
+
+[<sup>1</sup> En cas de nouveau réquisitoire sur la base de l'alinéa 1er dans un même dossier, le même juge d'instruction en est saisi s'il est encore en fonction.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 63, 079; En vigueur : 29-02-2016&gt; (NOTE : par son arrêt n° 148/2017 du 21-12-2017 (M.B. 12-01-2018, p. 1393), la Cour constitutionnelle a annulé l'article 63,1°) (éléments en italique)
+
+**Art. 28octies**
+
+&lt;L 2006-12-27/33, art. 2, 049; En vigueur : 07-01-2007&gt; § 1er. D'office ou à la demande de l'Organe central pour la Saisie et la Confiscation, le procureur du Roi qui estime devoir maintenir la saisie sur des avoirs patrimoniaux, peut :
+
+1° autoriser leur aliénation par l'Organe central, afin de leur subroger le produit obtenu;
+
+2° les restituer à la personne saisie moyennant le paiement d'une somme d'argent dont il fixe le montant, afin de leur subroger cette somme.
+
+[<sup>1</sup> 3° ordonner la conservation en nature d'avoirs patrimoniaux saisis en fonction des moyens disponibles.]<sup>1</sup>
+
+§ 2. L'autorisation d'aliéner porte sur des avoirs patrimoniaux remplaçables, de valeur aisément déterminable et dont la conservation en nature peut entraîner une dépréciation, un dommage ou des frais disproportionnés au regard de leur valeur.
+
+§ 3. Par une notification [<sup>2</sup> par un envoi recommandé, par télécopie, ou par voie électronique]<sup>2</sup>, qui contient le texte du présent article, le procureur du Roi informe de sa décision visée au § 1er :
+
+1° les personnes à charge et entre les mains desquelles la saisie a été opérée, pour autant que leurs adresses soient connues et leurs avocats;
+
+2° les personnes qui d'après les données du dossier se sont expressément manifestées comme lésées par l'acte d'information et leurs avocats;
+
+3° en cas de saisie immobilière, les créanciers connus selon l'état hypothécaire et leurs avocats.
+
+Une notification ne doit pas être adressée aux personnes qui ont donné leur consentement pour la mesure de gestion concernée ou qui ont renoncé à leurs droits sur les avoirs saisis.
+
+§ 4. Les personnes auxquelles la notification a été adressée peuvent saisir la chambre des mises en accusation dans les quinze jours de la notification de la décision.
+
+Ce délai est prolongé de quinze jours si une de ces personnes réside hors du Royaume.
+
+La procédure se déroule conformément aux dispositions de l'article 28sexies, § 4, alinéas 2 à 8.
+
+§ 5. En cas d'aliénation, le procureur du Roi met les avoirs patrimoniaux à disposition de l'Organe central ou, à sa demande, du mandataire désigné.
+
+§ 6. Lorsque la décision d'aliénation porte sur un immeuble, l'adjudication a pour effet que les droits des créanciers inscrits sont reportés sur le prix, sous réserve de la saisie pénale.
+
+----------
+
+(1)&lt;L 2018-02-04/04, art. 40, 094; En vigueur : 01-07-2018&gt;
+
+(2)&lt;L 2024-03-28/60, art. 8, 121; En vigueur : 08-04-2024&gt;
+
+**Art. 28novies**
+
+[<sup>1</sup> § 1er. Sans préjudice des dispositions des lois particulières, le procureur du Roi peut, à chaque stade de la procédure pénale, ordonner par décision écrite et motivée la destruction des biens saisis susceptibles de confiscation.
+
+Pendant la durée de l'instruction, l'autorisation préalable du juge d'instruction est requise en vue de pouvoir exécuter la mesure.
+
+Le procureur du Roi informe le propriétaire légitime par le biais d'une audition, d'un envoi recommandé, par télécopie, ou par voie électronique de son intention de détruire les biens, pour autant que cette personne ainsi que son adresse soient connues. Il invite également le propriétaire légitime à lui communiquer, endéans le délai qu'il fixe, s'il fait abandon de ses droits sur les biens saisis. Le propriétaire légitime qui a déjà fait abandon de ses droits sur les biens à détruire, ne doit plus être informé ni invité à faire abandon desdits droits.
+
+§ 2. Le procureur du Roi peut ordonner la destruction des biens qui font partie d'une des catégories suivantes :
+
+1° des biens qui, par leur nature, constituent un danger grave pour la sécurité publique ou la santé publique;
+
+2° des biens qui, en cas de levée de la saisie, sont susceptibles de porter gravement atteinte à l'intégrité physique ou aux biens de personnes;
+
+3° des biens qui, s'ils étaient remis en circulation, constitueraient une violation de l'ordre public, des bonnes moeurs ou d'une disposition légale;
+
+4° des biens dont les coûts de conservation en nature ne sont manifestement pas proportionnels à leur valeur vénale, en raison de la nature ou de la quantité des biens.
+
+§ 3. Le procureur du Roi indique dans sa décision écrite quels biens doivent être détruits. Il détermine la manière dont et le délai dans lequel sa décision de destruction est exécutée. En cas d'urgence, le procureur du Roi peut ordonner la destruction verbalement, à condition qu'il confirme sa décision par écrit le plus rapidement possible.
+
+§ 4. Le procureur du Roi désigne un prestataire ou un service public spécialisé qui procédera à la destruction du bien concerné. Le procureur du Roi met le bien à détruire à la disposition du prestataire ou du service public désigné. Les membres de la police locale ou de la police fédérale prêtent main forte s'ils sont requis à cette fin.
+
+[<sup>2</sup> L'Organe central pour la Saisie et la Confiscation peut, à la demande du procureur du Roi, fournir une assistance pour la destruction d'un bien saisi.]<sup>2</sup>
+
+§ 5. Si la manifestation de la vérité le requiert, il ordonne, préalablement à la destruction du bien, la prise d'échantillon ou un enregistrement photographique ou vidéo du bien. Le cas échéant, il désigne un conseiller technique qui assistera le service de police requis pendant la prise d'échantillon ou l'enregistrement.
+
+Le service de police requis dépose l'échantillon pris ou l'enregistrement photographique ou vidéo au greffe ou met l'échantillon pris ou l'enregistrement photographique ou vidéo à la disposition de toute autre personne désignée par le procureur du Roi qui s'occupe de sa conservation jusqu'à la levée de la saisie ou la confiscation.
+
+§ 6. Les coûts de la destruction, de la prise et de la conservation de l'échantillon ou d'un enregistrement photographique ou vidéo ainsi que de l'assistance d'un conseiller technique sont des frais de justice.
+
+§ 7. Le procureur du Roi communique, dans un délai de huit jours de sa date, par envoi recommandé, par télécopie ou par voie électronique, la décision de destruction aux personnes suivantes :
+
+1° la personne à charge de qui la saisie a été pratiquée ou, le cas échéant, son avocat;
+
+2° les personnes qui, suivant les indications fournies par la procédure, paraissent habilitées à faire valoir des droits sur les biens à détruire ou, le cas échéant, leur avocat.
+
+La notification contient le texte du présent article.
+
+Il n'envoie pas de notification aux personnes visées à l'alinéa 1er, 1° et 2°, si elles ont marqué leur accord préalablement et par écrit sur la destruction.
+
+Les personnes visées à l'alinéa 1er, 1° et 2°, peuvent s'adresser à la chambre des mises en accusation dans un délai de quinze jours à compter de la notification de la décision de destruction. Ce délai est prolongé de quinze jours si une de ces personnes réside ou est établie en dehors du Royaume, sauf en cas d'élection de domicile en Belgique.
+
+Le recours suspend l'exécution de la décision contestée de destruction des biens visés au § 2, 2° à 4°.
+
+La décision de destruction des biens, visés au § 2, 1°, est exécutoire de plein droit. Le procureur du Roi peut retirer ou revoir sa décision sur la base de contre-indications portant sur le danger réduit pour la sécurité publique ou la santé publique, ou en imposant le respect d'une ou de plusieurs conditions susceptibles de contribuer à la protection de la société contre une atteinte grave à la sécurité publique ou à la santé publique.
+
+La procédure devant la chambre des mises en accusation est suspendue :
+
+1° jusqu'à ce qu'une décision définitive est prononcée sur la demande de levée de la saisie visée aux articles 28sexies et 61quater ou réglée par des lois particulières, concernant les biens visés au § 2, 2° à 4° ;
+
+2° jusqu'à ce qu'une décision définitive est prononcée sur la demande d'accomplissement d'un acte d'instruction conformément à l'article 61quinquies concernant les biens visés au § 2, 2° à 4°, et le cas échéant, jusqu'à ce que l'acte d'instruction visé à l'article 61quinquies concernant les biens visés au § 2, 2° à 4°, ait été accompli;
+
+3° jusqu'à ce que le procureur du Roi fait exécuter les actes d'information qu'il estime utiles et nécessaires pour l'information et qui sont ordonnés d'office ou à la demande de tout ayant droit concernant les biens visés au § 2, 2° à 4°.
+
+La procédure se déroule conformément aux dispositions de l'article 28sexies, § 4, alinéas 2 à 8.
+
+§ 8. Si, après la destruction du bien, le procureur du Roi classe sans suite ou si la procédure pénale est clôturée définitivement par un acquittement basé sur le non-fondement de l'action publique, ou par un non-lieu pour cause d'absence de charges, le propriétaire légitime de la chose détruite peut réclamer des dommages-intérêts dans la mesure où le bien aurait pu être remis en circulation de manière régulière.
+
+Le montant de l'indemnité correspond à la valeur du bien détruit au moment de la destruction.
+
+L'action en dédommagement est introduite contre l'Etat Belge en la personne du ministre de la Justice, dans les formes prévues par le Code judiciaire.]<sup>1</sup>
+
+[<sup>2</sup> § 9. Le procureur du Roi peut décider de mettre, entièrement ou partiellement, gratuitement à disposition d'un service de police ou d'une institution scientifique un bien visé au paragraphe 2, 3°, qui utilise le bien mis à disposition exclusivement pour des motifs didactiques ou scientifiques ou l'étude de phénomènes criminels pertinents.
+
+En outre, le procureur du Roi peut mettre gratuitement à disposition d'un service de police, entièrement ou partiellement, un bien visé au § 2, 3°, dans un dossier spécifique pour pouvoir l'utiliser dans la préparation et l'exécution de missions en rapport avec la lutte contre les infractions visées à l'article 90ter, §§ 2, 3 et 4, pour autant que cette mise à disposition soit strictement nécessaire à leur préparation et exécution.
+
+Pendant la durée de l'instruction, le consentement du juge d'instruction à la mesure visée aux alinéas 1er et 2 est exigé.
+
+Par dérogation à l'article 4, § 7, alinéa 2, de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes ou à une autre disposition légale imposant la destruction de biens, les biens pour lesquels une mesure visée aux alinéas 1er et 2 est prise, sont censés être mis définitivement à disposition du service de police ou de l'institution scientifique, sauf décision contraire du procureur du Roi ou, le cas échéant du juge d'instruction.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-25/23, art. 4, 074; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2018-02-04/04, art. 41, 094; En vigueur : 01-07-2018&gt;
+
+#### SECTION 1re bis/1. [<sup>1</sup> - Du contrôle de l'information par la chambre des mises en accusation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-12-06/02, art. 4, 114; En vigueur : 31-12-2022&gt;
+
+**Art. 28decies**
+
+[<sup>1</sup> Si l'information n'est pas clôturée après une année, la chambre des mises en accusation peut être saisie par une requête motivée adressée au greffe de la cour d'appel par le suspect qui a été entendu en cette qualité conformément à l'article 47bis, § 2, ou par la personne qui s'est déclarée partie lésée conformément à l'article 5bis du titre préliminaire du Code de procédure pénale.
+
+Le procureur du Roi envoie les pièces au procureur général qui les dépose au greffe.
+
+Si l'information est menée par le procureur fédéral, l'affaire est portée devant la chambre des mises en accusation de la cour d'appel de Bruxelles.
+
+Le greffier notifie au requérant et, le cas échéant, à son conseil, le lieu, la date et l'heure de l'audience par télécopie, par lettre simple ou par voie électronique, au plus tard quarante-huit heures avant celle-ci.
+
+Le procureur général, le requérant et son conseil sont entendus. La chambre des mises en accusation peut entendre le procureur général, hors la présence des parties si elle l'estime utile. Elle peut également entendre une autre partie lésée, un autre suspect et leurs conseils, sur convocation qui leur est notifiée par le greffier, par télécopie, par lettre simple ou par voie électronique, au plus tard quarante-huit heures avant l'audience.
+
+La chambre des mises en accusation statue sur la requête, dans les quinze jours du dépôt de celle-ci, par arrêt motivé qui est communiqué, au procureur général, à la partie requérante et aux parties entendues. Ce délai est suspendu pour la durée de la prolongation accordé à la demande du requérant ou de son conseil, d'une partie entendue ou de son conseil.
+
+La chambre des mises en accusation peut inviter le ministère public à prendre une décision sur les poursuites pénales dans un délai fixé par elle. Elle peut inviter le ministère public à procéder aux actes d'enquête complémentaires qu'elle estime nécessaire. Elle peut constater que le délai raisonnable a été dépassé.
+
+Le requérant et les parties entendues ne peuvent déposer de requête ayant le même objet avant l'expiration du délai de six mois à compter de la dernière décision.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-12-06/02, art. 5, 114; En vigueur : 31-12-2022&gt;
+
+#### SECTION II. - MODE DE PROCEDER DES [PROCUREURS DU ROI] DANS L'EXERCICE DE LEURS FONCTIONS. &lt;L 10-07-1967, art. 1, 22°&gt;
+
+**Art. 29**
+
+[<sup>5</sup> § 1er. Toute autorité constituée, tout fonctionnaire ou officier public et, pour le secteur des prestations familiales, toute institution coopérante au sens de la loi du 11 avril 1995 visant à instituer "la charte" de l'assuré social qui, dans l'exercice de ses fonctions acquerra la connaissance d'[<sup>8</sup> une infraction]<sup>8</sup>, sera tenu de donner avis sur-le-champ au procureur du Roi près le tribunal dans le ressort duquel [<sup>8</sup> cette infraction aura été commise]<sup>8</sup> ou dans lequel l'inculpé pourrait être trouvé, et de transmettre à ce magistrat tous les renseignements, procès-verbaux et actes qui y sont relatifs.
+
+[<sup>6</sup> Les fonctionnaires qui, sur la base de la loi du 20 décembre 2022 relative aux canaux de signalement et à la protection des auteurs de signalement d'atteintes à l'intégrité dans les organismes du secteur public fédéral et au sein de la police intégrée, ont recours au système de signalement, sont dispensés de l'obligation visée à l'alinéa 1er.]<sup>6</sup>
+
+§ 2. Les fonctionnaires de l'Administration générale de la Fiscalité, de l'Administration générale de la Perception et du Recouvrement, de l'Administration générale de la Documentation patrimoniale, de l'Administration générale de l'Inspection Spéciale des Impôts ou le fonctionnaire compétent à cet effet en cas de fiscalité régionale ou locale ne peuvent, sans autorisation du conseiller général dont ils dépendent ou du fonctionnaire assimilé, porter à la connaissance du procureur du Roi les faits pénalement punissables aux termes des lois fiscales et des arrêtés pris pour leur exécution.
+
+§ 3. Sans préjudice de l'application du paragraphe 2, le conseiller général de l'Administration générale de la Fiscalité, de l'Administration générale de la Perception et du Recouvrement, de l'Administration générale de la Documentation patrimoniale et de l'Administration générale de l'Inspection spéciale des Impôts ou le fonctionnaire qu'il désigne ou le fonctionnaire compétent à cet effet en cas de fiscalité régionale ou locale dénonce au procureur du Roi les faits dont l'examen fait apparaître des indices sérieux de fraude fiscale grave, organisée ou non, qui constituent des infractions pénales aux termes des lois fiscales et des arrêtés pris pour leur exécution.
+
+Le procureur du Roi se concerte à cet égard avec les fonctionnaires visés à l'alinéa 1er dans le mois de leur réception. Il peut inviter les services de police compétents à participer à cette concertation. [<sup>7</sup> La concertation peut aussi avoir lieu à l'initiative du procureur du Roi.]<sup>7</sup>
+
+Sur la base de la concertation, le procureur du Roi décide pour quels faits [<sup>7</sup> ...]<sup>7</sup> il exercera l'action publique et en fait part au conseiller général compétent ou au fonctionnaire compétent à cet effet en cas de fiscalité régionale ou locale par écrit et au plus tard dans les trois mois de la dénonciation initiale visée à l'alinéa 1er.
+
+§ 4. Le Roi fixe les critères auxquels répondent les faits visés au paragraphe 3, par un arrêté délibéré en Conseil des ministres.
+
+§ 5. Deux fois par an, le procureur général qui est chargé de la criminalité en matière économique, financière et fiscale au sein du collège des procureurs généraux rencontre les autorités fiscales et la police fédérale afin d'identifier les mécanismes de fraude fiscale, grave ou organisée, qui nécessitent une attention particulière.]<sup>5</sup>
+
+----------
+
+(1)&lt;L 2012-09-20/47, art. 2, 065; En vigueur : 01-11-2012&gt;
+
+(2)&lt;L 2013-06-28/04, art. 54, 068; En vigueur : 11-07-2013&gt;
+
+(3)&lt;L 2013-09-15/06, art. 18, 070; En vigueur : 04-04-2014&gt;
+
+(4)&lt;L 2016-12-25/14, art. 2, 087; En vigueur : 09-01-2017&gt;
+
+(5)&lt;L 2019-05-05/10, art. 3, 102; En vigueur : 01-01-2020&gt;
+
+(6)&lt;L 2022-12-08/09, art. 66, 115; En vigueur : 02-01-2023&gt;
+
+(7)&lt;L 2024-03-28/60, art. 56, 121; En vigueur : 08-04-2024&gt;
+
+(8)&lt;L 2026-03-11/03, art. 38, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 29bis**
+
+[<sup>1</sup> Si une enquête pénale révèle des indices de fraude en matière d'impôts directs ou indirects, le procureur du Roi en informe le ministre des Finances ou le service qu'il désigne et accorde consultation et copie sauf si l'accès au dossier et la prise de copie du dossier risquent de compromettre des enquêtes pénales en cours.
+
+Lorsque l'administration fiscale établit des impôts incluant les centimes et décimes additionnels, les accroissements et les amendes administratives et fiscales pour des infractions visées à l'alinéa 1er, cela ne constitue pas une entrave à l'action publique dans la mesure où le traitement fiscal et pénal des faits font partie d'un tout cohérent d'un point de vue temporel et matériel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 4, 102; En vigueur : 01-01-2020&gt;
+
+**Art. 30**
+
+Toute personne qui aura été témoin d'un attentat, soit contre la sûreté publique, soit contre la vie ou la propriété d'un individu, sera pareillement tenue d'en donner avis au [procureur du Roi] soit du lieu [<sup>1</sup> de l'infraction]<sup>1</sup>, soit du lieu où [l'inculpé] pourra être trouvé. &lt;L 10-07-1967, art. 1, 23°&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 39, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 31**
+
+Les dénonciations seront rédigées par les dénonciateurs, ou par leurs fondés de procuration spéciale, ou par le [procureur du Roi] s'il en est requis [<sup>1</sup> ...]<sup>1</sup>.
+
+Si les dénonciateurs ou leurs fondés de pouvoir ne savent pas ou ne veulent pas signer, il en sera fait mention.
+
+La procuration demeurera toujours annexée à la dénonciation [<sup>1</sup> ...]<sup>1</sup>. &lt;L 10-07-1967, art. 1, 24°&gt;
+
+----------
+
+(1)&lt;L 2024-03-28/60, art. 9, 121; En vigueur : 08-04-2024&gt;
+
+**Art. 32**
+
+Dans tous les cas de [<sup>1</sup> flagrance]<sup>1</sup>, lorsque le fait sera de nature à entraîner une peine [<sup>1</sup> de niveau 3 ou d'un niveau supérieur]<sup>1</sup>, le [procureur du Roi] se transportera sur lieu, sans aucun retard, pour y dresser les procès-verbaux nécessaires à l'effet de constater le [<sup>1</sup> corps de l'infraction]<sup>1</sup>, sont état, l'état des lieux, et pour recevoir les déclarations des personnes qui auraient été présentes, ou qui auraient des renseignements à donner.
+
+Le [procureur du Roi] donnera avis de son transport au juge d'instruction, sans être toutefois tenu de l'attendre pour procéder ainsi qu'il est dit au présent chapitre. &lt;L 10-07-1967, art. 1, 25°&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 40, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 33**
+
+Le [procureur du Roi] pourra aussi, dans le cas de l'article précédent, appeler à son procès-verbal, les parents, voisins ou domestiques présumés en état de donner des éclaircissements sur le fait; il recevra leurs déclarations, qu'ils signeront : les déclarations reçues en conséquence du présent article et de l'article précédent, seront signées par les parties, ou en cas de refus, il en sera fait mention. &lt;L 10-07-1967, art. 1, 24°&gt;
+
+**Art. 34**
+
+Il pourra défendre que qui que ce soit sorte de la maison, ou s'éloigne du lieu jusqu'après la clôture de son procès-verbal.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 41, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 35**
+
+&lt;L 1999-01-14/41, art. 2, 021; En vigueur : 08-03-1999&gt; [§ 1er.] Le procureur du Roi se saisira de tout ce qui paraîtra constituer une des choses visées [[<sup>2</sup> aux articles 53, § 2, alinéa 1er, et 54]<sup>2</sup>] du Code pénal et de tout ce qui pourra servir à la manifestation de la vérité; il interpellera l'inculpé de s'expliquer sur les choses saisies qui lui seront représentées; il dressera du tout procès-verbal, qui sera signé par l'inculpé, ou mention sera faite de son refus. &lt;L 2002-12-24/31, art. 468, 035; En vigueur : 10-01-2003&gt; &lt;L 2007-05-10/63, art. 3, 052; En vigueur : 01-09-2007&gt;
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 112, 074; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2026-03-11/03, art. 42, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 35bis**
+
+&lt;inséré par L 1997-05-20/50, art. 17, 013; En vigueur : 13-07-1997&gt; Lorsque les choses paraissant constituer un avantage patrimonial tiré d'une infraction sont des biens immeubles, la saisie immobilière conservatoire sera faite par exploit d'huissier signifié au propriétaire et contenant, à peine de nullité, la copie du réquisitoire du procureur du Roi, ainsi que les différentes mentions visées aux articles 1432 et 1568 du Code judiciaire, et le texte du troisième alinéa du présent article.
+
+L'exploit de saisie sera présenté à la transcription, le jour même de la signification, au [<sup>2</sup> service compétent du Service public fédéral Finances]<sup>2</sup>. La transcription prendra date au jour de la remise de cet exploit.
+
+La saisie immobilière conservatoire est valable pendant cinq années prenant cours à la date de sa transcription, sauf renouvellement pour le même terme sur présentation [<sup>3</sup> à l'Administration générale de la Documentation patrimoniale]<sup>3</sup>, avant l'expiration du délai de validité de la transcription, d'une requête établie en double exemplaire par le procureur ou le juge d'instruction compétent.
+
+La saisie est maintenue pour le passé par la mention succincte en marge de sa transcription, pendant le délai de validité de celle-ci, de la décision judiciaire définitive ordonnant la confiscation du bien immobilier.
+
+La radiation de la saisie immobilière conservatoire peut être accordée par le procureur ou le juge d'instruction susvisés, ou, le cas échéant, par le bénéficiaire de la confiscation, ou peut aussi être ordonnée par décision judiciaire.
+
+[<sup>3</sup> Dans les cas où la loi prévoit que la confiscation de biens immeubles qui ont servi ou ont été destinés à commettre l'infraction est possible, il sera procédé conformément aux formalités du présent article.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2018-07-11/07, art. 70, 098; En vigueur : 30-07-2018&gt;
+
+(2)&lt;L 2023-12-22/05, art. 4, 118; En vigueur : 08-01-2024&gt;
+
+(3)&lt;L 2024-01-18/06, art. 3, 119; En vigueur : 05-02-2024&gt;
+
+**Art. 35ter**
+
+[<sup>1</sup> § 1er. [<sup>2</sup> S'il existe des indices sérieux et concrets que la personne soupçonnée a obtenu un avantage patrimonial au sens [<sup>4</sup> des articles 53, § 2, alinéa 1er, 4°, ou 54, § 2]<sup>4</sup>, du Code pénal et que les choses qui matérialisent cet avantage patrimonial ne peuvent pas ou ne peuvent plus être retrouvées en tant que telles dans le patrimoine de la personne soupçonnée qui se trouve en Belgique ou sont mélangées avec des choses licites, le ministère public peut saisir d'autres choses qui se trouvent dans le patrimoine de la personne soupçonnée à concurrence du montant supposé dudit avantage patrimonial. Dans sa décision, le ministère public motive l'estimation de ce montant et signale les indices sérieux et concrets justifiant la saisie. Ces éléments figurent dans le procès-verbal dressé à l'occasion de la saisie.
+
+L'alinéa 1er est également applicable [<sup>3</sup> aux choses qui ont servi ou qui ont été destinées à commettre l'infraction ainsi qu']<sup>3</sup> aux choses qui constituent l'objet des infractions visées [<sup>4</sup> aux articles 501, 502 et 503]<sup>4</sup> du même Code.]<sup>2</sup>
+
+§ 2. Les biens insaisissables conformément aux articles 1408 à 1412bis du Code judiciaire ou à des lois spéciales ne peuvent en aucun cas être saisis.
+
+§ 3. En cas de saisie d'un bien immeuble ou d'une créance, il est procédé conformément aux formalités prévues aux articles 35bis et 37.
+
+§ 4. Le ministère public peut saisir d'autres biens que les avantages patrimoniaux qui appartiennent à des tiers, aux conditions suivantes :
+
+1° il y a suffisamment d'indices sérieux et concrets que le suspect a transféré le bien à un tiers ou lui a financièrement permis de l'acquérir dans le but manifeste d'empêcher ou de compliquer gravement l'exécution d'une éventuelle confiscation [<sup>4</sup> ...]<sup>4</sup> portant sur une somme d'argent;
+
+2° le tiers savait ou devait raisonnablement savoir que le bien lui a été transféré directement ou indirectement par le suspect, ou qu'il avait pu l'acquérir avec l'aide financière du suspect en vue de se soustraire à l'exécution d'une éventuelle confiscation [<sup>4</sup> ...]<sup>4</sup> portant sur une somme d'argent.
+
+Dans sa décision, le ministère public mentionne les indices sérieux et concrets qui font apparaître que le suspect veut soustraire le bien à l'exécution d'une éventuelle confiscation [<sup>4</sup> ...]<sup>4</sup>, ainsi que les informations dont ressort ou peut être déduit que le tiers en a la connaissance. Ces éléments figurent dans le procès-verbal dressé à l'occasion de la saisie.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-02-11/12, art. 47, 072; En vigueur : 18-04-2014&gt;
+
+(2)&lt;L 2016-02-05/11, art. 64, 079; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2018-03-18/14, art. 4, 095; En vigueur : 12-05-2018&gt;
+
+(4)&lt;L 2026-03-11/03, art. 43, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 36**
+
+Si la nature [<sup>1</sup> de l'infraction]<sup>1</sup> est telle, que la preuve puisse vraisemblablement être acquise par les papiers ou autres pièces et effets en la possession du prévenu, le [procureur du Roi] se transportera de suite dans le domicile [de l'inculpé], pour y faire la perquisition des objets qu'il jugera utiles à la manifestation de la vérité. &lt;L 10-07-1967, art. 1, 27°&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 44, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 37**
+
+&lt;L 2002-12-19/86, art. 9, 036; En vigueur : 24-02-2003&gt; § 1er. S'il existe, dans le domicile de la personne soupçonnée, des papiers ou effets suspects qui puissent servir à conviction ou à décharge, le procureur du Roi se saisit desdits effets ou papiers.
+
+S'il est procédé à la saisie conformément aux articles 35 et 35ter ou conformément à l'alinéa 1er, le procureur du Roi ou un officier de police judiciaire dresse un procès-verbal dans lequel sont inventoriées les choses saisies ainsi que les autres mentions prescrites par les autres dispositions légales. Dans la mesure du possible, les choses sont individualisées dans le procès-verbal.
+
+§ 2. En cas de saisie de créances, à l'exception de la saisie de titres nominatifs ou au porteur, la saisie est effectuée par notification écrite au débiteur.
+
+Si la notification ne se fait pas conformément à la procédure visée au § 3, celle-ci est expédiée au débiteur par lettre recommandée à la poste ainsi que par simple courrier.
+
+Ces lettres contiennent les références de l'affaire ainsi qu'une reproduction littérale du texte du § 4 de l'article 1452 du Code judiciaire et de l'article 28sexies ou de l'article 61quater , en vertu desquels la saisie émane du procureur du Roi ou du juge d'instruction.
+
+§ 3. Le procès-verbal est présenté pour signature au saisi qui peut en recevoir une copie sans frais. En cas de saisie-arrêt, tant le tiers saisi que le saisi même ont droit à une copie sans frais de ce procès-verbal. Cette copie est remise immédiatement ou envoyée dans les quarante-huit heures. Dans le même délai, un document contenant les mentions prescrites au § 2, alinéa 3, est transmis au tiers saisi.
+
+§ 4. A dater de la réception de la notification du procès-verbal, le débiteur ne peut plus [<sup>2</sup> aliéner]<sup>2</sup> les sommes ou les choses faisant l'objet de la saisie. [<sup>1</sup> Le tiers-saisi qui méconnaît cette interdiction est déclaré débiteur pur et simple des causes de la saisie, sans préjudice des dommages et intérêts s'il y a lieu.]<sup>1</sup> Dans un délai de quinze jours après la saisie, le débiteur est tenu de déclarer, par lettre recommandée à la poste, les sommes ou les choses faisant l'objet de la saisie conformément à l'article 1452 du Code judiciaire.
+
+Le débiteur a droit au remboursement des frais de déclaration. Ces frais, revêtus de l'approbation du procureur du Roi ou du juge d'instruction ayant ordonné la saisie, sont considérés comme des frais de justice.
+
+[<sup>1</sup> A défaut d'avoir fait sa déclaration dans le délai légal ou de l'avoir faite avec exactitude, le tiers saisi peut être déclaré débiteur, en tout ou en partie, des causes de la saisie ainsi que des frais de celle-ci.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-05/10, art. 5, 102; En vigueur : 03-06-2019&gt;
+
+(2)&lt;L 2021-11-28/01, art. 4, 111; En vigueur : 10-12-2021&gt;
+
+**Art. 38**
+
+Les objets saisis seront clos et cachetés, si faire se peut; ou s'ils ne sont pas susceptibles de recevoir des caractères d'écriture, ils seront mis dans un vase ou dans un sac, sur lequel le [procureur du Roi] attachera une bande de papier qu'il scellera de son sceau. &lt;L 10-07-1967, art. 1, 28°&gt;
+
+**Art. 39**
+
+Les opérations prescrites par les articles précédents seront faites en présence [de l'inculpé] s'il a été arrêté; et s'il ne veut ou ne peut y assister, en présence d'un fondé de pouvoir qu'il pourra nommer. Les objets lui seront présentés à l'effet de les reconnaître et de les parapher, s'il y a lieu; et, au cas de refus, il en sera fait mention au procès-verbal. &lt;L 10-07-1967, art. 1, 29°&gt;
+
+**Art. 39bis**
+
+&lt;inséré par L 2000-11-28/34, art. 7; En vigueur : 13-02-2001&gt; § 1er. Sans préjudice des dispositions spécifiques de cet article, les règles de ce code relatives à la saisie, y compris l'article 28sexies, sont applicables aux mesures consistant à copier, rendre inaccessibles et retirer des données stockées dans un système informatique [<sup>2</sup> ou une partie de celui-ci]<sup>2</sup>.
+
+§ 2. [<sup>6</sup> Dans le cadre de la détection [<sup>7</sup> d'infractions]<sup>7</sup>, le procureur du Roi ou un officier de police judiciaire peut décider de procéder à une recherche dans un système informatique qui a été saisi, ou une partie de celui-ci, moyennant le consentement écrit préalable de l'utilisateur du système informatique.
+
+Ce consentement n'est valable que si l'utilisateur visé à l'alinéa 1er a été informé au préalable que les données trouvées lors de la recherche pourront être utilisées comme preuve en justice. Lorsqu'il s'agit d'un mineur de moins de seize ans, ce consentement peut être donné uniquement par son représentant légal ou son tuteur ad hoc.
+
+Sans préjudice de l'alinéa 1er, le procureur du Roi peut ordonner, [<sup>7</sup> s'il existe des indices sérieux que les infractions sont de nature à entraîner une peine de niveau 2 ou une peine plus lourde]<sup>7</sup>, y compris sans le consentement écrit préalable de l'utilisateur une recherche dans un système informatique qui a été saisi ou une partie de celui-ci, moyennant l'autorisation préalable du juge d'instruction.
+
+La motivation reflète le caractère proportionnel par rapport à la vie privée et à l'objectif poursuivi.
+
+Les recherches visées au présent paragraphe peuvent uniquement s'étendre aux données sauvegardées dans le système informatique qui est saisi. A cette fin, toute connexion externe de ce système informatique est empêchée avant que la recherche soit entamée]<sup>6</sup>.
+
+§ 3. [<sup>6</sup> En cas d'extrême urgence, le procureur du Roi ou un officier de police judiciaire peut ordonner la recherche visée au paragraphe 2, alinéa 3, sans autorisation préalable du juge d'instruction. Le cas échéant, l'officier de police judiciaire communique sa décision au procureur du Roi sans délai et au plus tard dans les vingt-quatre heures, en motivant également l'extrême urgence. Le procureur du Roi communique sans délai, et au plus tard dans les vingt-quatre heures, sa décision ou celle de l'officier de police judiciaire au juge d'instruction en motivant également l'extrême urgence.
+
+La mesure doit ensuite être confirmée par écrit dans les meilleurs délais par le juge d'instruction, avec mention des motifs de l'extrême urgence]<sup>6</sup>.
+
+§ 4. [<sup>2</sup> Seul le juge d'instruction peut ordonner une recherche dans un système informatique ou une partie de celui-ci autre que les recherches [<sup>3</sup> visées au paragraphe 2]<sup>3</sup>:
+
+\- si cette recherche est nécessaire pour la manifestation de la vérité à l'égard de l'infraction qui fait l'objet de la recherche; et
+
+\- si d'autres mesures seraient disproportionnées, ou s'il existe un risque que, sans cette recherche, des éléments de preuve soient perdus.
+
+En cas d'extrême urgence, le juge d'instruction peut ordonner verbalement [<sup>3</sup> ...]<sup>3</sup> la recherche visée à l'alinéa 1er. Cet ordre est confirmé par écrit dans les meilleurs délais, avec mention des motifs de l'extrême urgence.]<sup>2</sup>
+
+§ 5. [<sup>2</sup> En vue de permettre les mesures visées à cet article, le procureur du Roi [<sup>6</sup> moyennant l'autorisation préalable du juge d'instruction,]<sup>6</sup> ou le juge d'instruction peut également, sans le consentement [<sup>6</sup> ...]<sup>6</sup> de l'utilisateur, ordonner, à tout moment:
+
+\- la suppression temporaire de toute protection des systèmes informatiques concernés, le cas échéant à l'aide de moyens techniques, de faux signaux, de fausses clés ou de fausses qualités;
+
+\- l'installation de dispositifs techniques dans les systèmes informatiques concernés en vue du décryptage et du décodage de données stockées, traitées ou transmises par ce système.
+
+[<sup>6</sup> En cas d'extrême urgence, le procureur du Roi ou un officier de police judiciaire peut décider de cette mesure. Le cas échéant, l'officier de police judiciaire communique sa décision au procureur du Roi sans délai et au plus tard dans les vingt-quatre heures, en motivant également l'extrême urgence. Le procureur du Roi communique sans délai, et au plus tard dans les vingt-quatre heures, sa décision ou celle de l'officier de police judiciaire au juge d'instruction en motivant également l'extrême urgence.
+
+La mesure doit ensuite être confirmée par écrit dans les meilleurs délais par le juge d'instruction, avec mention des motifs de l'extrême urgence.]<sup>6</sup>
+
+Toutefois, seul le juge d'instruction peut ordonner cette suppression temporaire de protection ou cette installation de dispositifs techniques lorsque ceci est spécifiquement nécessaire [<sup>3</sup> pour l'application de l'article 88ter]<sup>3</sup>.]<sup>2</sup>
+
+§ 6. [<sup>2</sup> Si des données stockées sont trouvées dans les systèmes informatiques concernés qui sont utiles pour les mêmes finalités que celles prévues pour la saisie, mais que la saisie du support n'est néanmoins pas souhaitable, ces données, de même que les données nécessaires pour les comprendre, sont copiées sur des supports qui appartiennent à l'autorité. En cas d'urgence ou pour des raisons techniques, il peut être fait usage de supports qui sont disponibles pour des personnes autorisées à utiliser le système informatique.
+
+En outre, les moyens techniques appropriés sont utilisés pour empêcher l'accès à ces données dans le système informatique, de même qu'aux copies de ces données qui sont à la disposition de personnes autorisées à utiliser le système informatique, de même que pour garantir leur intégrité.
+
+Lorsque la mesure prévue à l'alinéa 1er n'est pas possible, pour des raisons techniques ou à cause du volume des données, le procureur du Roi utilise les moyens techniques appropriés pour empêcher l'accès à ces données dans le système informatique, de même qu'aux copies de ces données qui sont à la disposition de personnes autorisées à utiliser le système informatique, de même que pour garantir leur intégrité.
+
+Si les données forment l'objet de l'infraction ou ont été produites par l'infraction et si elles sont contraires à l'ordre public ou aux bonnes moeurs ou constituent un danger pour l'intégrité des systèmes informatiques ou pour des données stockées, traitées ou transmises par le biais de tels systèmes, le procureur du Roi utilise tous les moyens techniques appropriés pour rendre ces données inaccessibles ou, après en avoir pris copie, les retirer.
+
+Il peut cependant, sauf dans le cas prévu à l'alinéa 4, autoriser l'usage ultérieur de l'ensemble ou d'une partie de ces données, lorsque cela ne présente pas de danger pour l'exercice des poursuites.
+
+En cas d'extrême urgence et s'il s'agit manifestement d'une infraction visée [<sup>7</sup> aux articles 136, 137, 171, 182, 183, 371, § 3, alinéa 1er, 6°, 376 ou 377]<sup>7</sup> du Code pénal, le procureur du Roi peut ordonner verbalement que tous les moyens appropriés soient utilisés pour rendre inaccessibles les données qui forment l'objet de l'infraction ou ont été produites par l'infraction et qui sont contraires à l'ordre public ou aux bonnes moeurs. Cet ordre est confirmé par écrit dans les meilleurs délais, avec mention des motifs de l'extrême urgence.]<sup>2</sup>
+
+[<sup>2</sup> § 7. Sauf si son identité ou son adresse ne peuvent être raisonnablement retrouvées, le procureur du Roi ou le juge d'instruction informe dans les plus brefs délais [<sup>6</sup> et dès que cela ne peut plus nuire à l'enquête, l'utilisateur]<sup>6</sup> du système informatique de la recherche dans le système informatique ou de son extension. Il lui communique le cas échéant un résumé des données qui ont été copiées, rendues inaccessibles ou retirées.]<sup>2</sup>
+
+[<sup>2</sup> § 8. Le procureur du Roi utilise les moyens techniques appropriés pour garantir l'intégrité et la confidentialité de ces données.
+
+Des moyens techniques appropriés sont utilisés pour leur conservation au greffe.
+
+La même règle s'applique, lorsque des données qui sont stockées, traitées ou transmises dans un système informatique sont saisies avec leur support, conformément aux articles précédents.]<sup>2</sup>
+
+[<sup>3</sup> § 9. Les mesures visées au présent article ne peuvent porter sur les systèmes informatiques d'un avocat ou d'un médecin que si celui-ci est lui-même soupçonné d'avoir commis une infraction ou d'y avoir participé, ou si des faits précis laissent présumer que des tiers soupçonnés d'avoir commis une infraction, utilisent ses systèmes informatiques.
+
+La mesure ne peut être exécutée sans que le bâtonnier ou le représentant de l'ordre provincial des médecins, selon le cas, en soit averti. Ces mêmes personnes seront informées par le procureur du Roi des éléments qu'il estime relever du secret professionnel. Ces éléments ne sont pas consignés au procès-verbal. Ces personnes sont tenues au secret. Toute violation du secret est punie conformément à [<sup>7</sup> l'article 352]<sup>7</sup> du Code pénal.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 4, 058; En vigueur : 01-07-2011&gt;
+
+(2)&lt;L 2016-12-25/37, art. 2, 088; En vigueur : 27-01-2017&gt; (NOTE : par son arrêt n° 174/2018 du 06-12-2018 (M.B. 22-01-2019, p. 7685), la Cour constitutionnelle a annulé l'article 39bis, § 3 tel que modifié, et l'entièreté des modifications, en ce qu'elles ne prévoient pas de disposition spécifique en vue de protéger le secret professionnel des médecins et des avocats.)
+
+(3)&lt;L 2019-05-05/10, art. 6, 102; En vigueur : 03-06-2019&gt;
+
+(4)&lt;L 2020-05-04/16, art. 2, 108; En vigueur : 01-07-2020&gt;
+
+(5)&lt;L 2022-03-21/01, art. 105, 112; En vigueur : 01-06-2022&gt;
+
+(6)&lt;L 2026-02-08/04, art. 5, 129; En vigueur : 26-02-2026&gt;
+
+(7)&lt;L 2026-03-11/03, art. 45, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 39ter**
+
+[<sup>1</sup> § 1er. Lors de la recherche [<sup>5</sup> d'infractions]<sup>5</sup> et sans préjudice des compétences visées aux articles 39bis, 46bis et 88bis et aux articles [<sup>4</sup> 4, 5, 6 et 8 du règlement (UE) 2022/2065 du Parlement européen et du Conseil du 19 octobre 2022 relatif à un marché unique des services numériques et modifiant la directive 2000/31/CE]<sup>4</sup>, tout officier de police judiciaire peut, s'il existe des raisons de croire que des données stockées, traitées ou transmises au moyen d'un système informatique sont particulièrement susceptibles de perte ou de modification, ordonner, par une décision écrite et motivée, à une ou plusieurs personnes physiques ou personnes morales de conserver les données qui sont en leur possession ou sous leur contrôle.
+
+La décision écrite motivée mentionne:
+
+\- les nom et qualité de l'officier de police judiciaire [<sup>2</sup> qui ordonne la conservation]<sup>2</sup>;
+
+\- l'infraction qui fait l'objet [<sup>2</sup> de l'ordre]<sup>2</sup>;
+
+\- les données qui doivent être conservées;
+
+\- la durée de conservation des données, qui ne peut excéder nonante jours. Ce délai peut être prolongé par écrit.
+
+En cas d'urgence, la conservation peut être ordonnée verbalement. [<sup>2</sup> L'ordre doit être confirmé]<sup>2</sup> dans les plus brefs délais dans la forme prévue à l'alinéa 2.
+
+§ 2. Les personnes physiques ou personnes morales visées au paragraphe 1er, alinéa 1er, veillent à ce que l'intégrité des données soit garantie et à ce que les données soient conservées de manière sécurisée.
+
+§ 3. [<sup>5</sup> Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours, est tenue de garder le secret. Toute violation du secret est punie conformément à l'article 352 du Code pénal.
+
+Les personnes physiques ou personnes morales visées au paragraphe 1er, alinéa 1er, sont tenues de prêter leur concours.
+
+Toute personne qui refuse de coopérer, ou qui fait disparaître, détruit ou modifie les données conservées, est punie conformément aux articles 655 et 656 du Code pénal.]<sup>5</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-25/37, art. 3, 088; En vigueur : 27-01-2017&gt;
+
+(2)&lt;L 2019-05-05/10, art. 7, 102; En vigueur : 03-06-2019&gt;
+
+(3)&lt;L 2022-12-06/02, art. 6, 114; En vigueur : 31-12-2022&gt;
+
+(4)&lt;L 2024-04-21/06, art. 15, 124; En vigueur : 25-05-2024&gt;
+
+(5)&lt;L 2026-03-11/03, art. 46, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 39quater**
+
+[<sup>1</sup> § 1er. Sans préjudice des possibilités de collaboration directe avec des opérateurs de résaux de communications électroniques et des fournisseurs de services de communications électroniques étrangers, le procureur du Roi peut, par l'intermédiaire du service de police désigné par le Roi, demander à une autorité compétente étrangère d'ordonner ou d'imposer d'une autre façon la conservation rapide de données stockées, traitées ou transmises au moyen d'un système informatique qui se trouve sur le territoire de cette autorité compétente et au sujet desquelles une autorité judiciaire belge compétente a l'intention de soumettre une demande d'entraide judiciaire.
+
+La demande de conservation est formulée par écrit et mentionne:
+
+\- les nom et qualité de l'autorité qui demande la conservation;
+
+\- l'infraction qui fait l'objet de la demande et un exposé succinct des faits qui y ont trait;
+
+\- les données à conserver et le lien avec l'infraction;
+
+\- toutes les informations disponibles concernant le dépositaire des données ou la localisation du système informatique;
+
+\- la nécessité de la conservation;
+
+\- le fait qu'une demande d'entraide judiciaire concernant les données conservées sera soumise;
+
+\- le cas échéant, le fait que les données qui doivent être conservées renvoient à un autre Etat que l'Etat de l'autorité étrangère compétente.
+
+§ 2. Lorsqu'une telle possibilité est prévue dans un instrument de droit international liant la Belgique et un autre Etat, une autorité compétente de cet Etat peut demander au service de police désigné par le Roi d'ordonner ou d'imposer d'une autre manière la conservation rapide de données stockées, traitées ou transmises au moyen d'un système informatique qui se trouve sur le territoire belge et au sujet desquelles cette autorité judiciaire étrangère a l'intention de soumettre une demande d'entraide judiciaire.
+
+La demande de conservation est formulée par écrit et mentionne:
+
+\- les nom et qualité de l'autorité qui demande la conservation;
+
+\- l'infraction qui fait l'objet de la demande et un exposé succinct des faits qui y ont trait;
+
+\- les données à conserver et le lien avec l'infraction;
+
+\- toutes les informations disponibles concernant le dépositaire des données ou la localisation du système informatique;
+
+\- la nécessité de la conservation;
+
+\- le fait qu'une demande d'entraide judiciaire concernant les données conservées sera soumise;
+
+\- le cas échéant, le fait que les données qui doivent être conservées renvoient à un autre Etat que l'Etat de l'autorité étrangère compétente.
+
+Après réception de la demande visée à l'alinéa 2, le service de police visé à l'alinéa 1er en informe le procureur du Roi ou le juge d'instruction compétent et prend toutes les mesures appropriées pour procéder sans délai à la conservation rapide des données définies conformément à l'article 39ter.
+
+Sans préjudice des instruments de droit international liant la Belgique en matière d'entraide judiciaire et tendant à promouvoir celle-ci, une demande de conservation peut être rejetée uniquement par le procureur du Roi ou le juge d'instruction compétent:
+
+\- si la demande concerne une infraction considérée par la Belgique comme une infraction politique ou un fait connexe à une infraction politique, ou
+
+\- si l'exécution de la demande est de nature à porter atteinte à la souveraineté, à la sécurité, à l'ordre public ou à d'autres intérêts essentiels de la Belgique.
+
+Si le service de police visé à l'alinéa 1er estime que la conservation simple ne suffira pas à garantir la disponibilité future des données, ou compromettra la confidentialité de l'enquête de l'autorité étrangère compétente ou nuira d'une autre façon à celle-ci, il en informe sans délai l'autorité étrangère compétente, qui décide alors s'il convient néanmoins d'exécuter la demande.
+
+Une conservation effectuée en réponse à la demande visée à l'alinéa 1er est valable pour une période d'au moins soixante jours afin d'offrir à l'autorité étrangère compétente la possibilité de soumettre une demande d'entraide judiciaire. Après réception d'une telle demande, les données restent conservées dans l'attente d'une décision concernant la demande.
+
+Si les données qui sont stockées, traitées ou transmises au moyen d'un système informatique renvoient à un autre Etat que l'Etat de l'autorité étrangère compétente requérante, le service de police visé à l'alinéa 1er en informe le procureur du Roi ou le juge d'instruction compétent. Celui-ci divulgue, dans les meilleurs délais, à l'autorité étrangère compétente une quantité de données d'identification ou d'appel suffisante pour retrouver qui est l'opérateur du réseau de communications électroniques ou le fournisseur du service de communications électroniques et par quelle voie la communication a été envoyée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-25/37, art. 4, 088; En vigueur : 27-01-2017&gt;
+
+**Art. 39quinquies**
+
+[<sup>1</sup> § 1er. Lors de la recherche [<sup>3</sup> d'infractions]<sup>3</sup>, le procureur du Roi peut, s'il existe des indices sérieux que les infractions peuvent donner lieu à [<sup>3</sup> une peine de niveau 2]<sup>3</sup> ou à une peine plus lourde, ordonner, par une décision écrite et motivée, à un ou plusieurs acteurs visés à l'alinéa 2, de conserver les données visées à l'article 88bis, § 1, alinéa 1er, générées ou traitées par eux dans le cadre de la fourniture des services de communications concernés, qu'il juge nécessaires.
+
+L'ordre visé à l'alinéa 1er peut être donné, directement ou par l'intermédiaire du service de police désigné par le Roi, à:
+
+\- l'opérateur d'un réseau de communications électroniques; et
+
+\- toute personne qui met à disposition ou offre, sur le territoire belge, d'une quelconque manière, un service qui consiste à transmettre des signaux via des réseaux de communications électroniques ou à autoriser des utilisateurs à obtenir, recevoir ou diffuser des informations via un réseau de communications électroniques. Est également compris le fournisseur d'un service de communications électroniques.
+
+La décision écrite et motivée mentionne:
+
+\- le nom du procureur du Roi qui ordonne la conservation;
+
+\- l'infraction qui fait l'objet de l'ordre;
+
+\- les circonstances de fait de la cause qui justifient la conservation;
+
+\- l'indication précise d'un ou de plusieurs des éléments suivants: la personne ou les personnes, les moyens de communication ou les lieux qui font l'objet de la conservation;
+
+\- le cas échéant, les catégories de données de trafic et de localisation qui doivent être conservées;
+
+\- la durée de la mesure, qui ne peut excéder deux mois à compter de la date de l'ordre, sans préjudice de renouvellement;
+
+\- la durée de conservation des données, qui ne peut excéder six mois. Ce délai peut être prolongé par écrit.
+
+En cas d'urgence, la conservation peut être ordonnée verbalement. L'ordre doit être confirmé dans les plus brefs délais dans la forme prévue à l'alinéa 3.
+
+§ 2. Les acteurs visés au paragraphe 1er, alinéa 2, veillent à ce que l'intégrité, la qualité et la disponibilité des données soit garantie et à ce que les données soient conservées de manière sécurisée.
+
+§ 3. Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours, est tenue de garder le secret. Toute violation du secret est punie conformément à [<sup>3</sup> l'article 352]<sup>3</sup> du Code pénal.
+
+[<sup>3</sup> Les personnes physiques ou personnes morales visées au paragraphe 1er, alinéa 1er, sont tenues de prêter leur concours.]<sup>3</sup>
+
+[<sup>3</sup> Toute personne qui refuse de coopérer, ou qui fait disparaître, détruit ou modifie les données conservées, est punie conformément aux articles 655 et 656 du Code pénal.]<sup>3</sup>
+
+§ 4. L'accès aux données conservées conformément à cet article n'est possible qu'en application de l'article 88bis.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-20/14, art. 25, 113; En vigueur : 18-08-2022&gt;
+
+(2)&lt;L 2022-12-06/02, art. 7, 114; En vigueur : 31-12-2022&gt;
+
+(3)&lt;L 2026-03-11/03, art. 47, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 40**
+
+Le [procureur du Roi], au dit cas de [<sup>1</sup> flagrance]<sup>1</sup>, et lorsque le fait sera de nature à entraîner une peine [<sup>1</sup> de niveau 2 ou d'un niveau supérieur ]<sup>1</sup>], fera saisir les [inculpés] présents contre lesquels il existerait des indices graves.
+
+Si [l'inculpé] n'est pas présent, le [procureur du Roi] rendra une ordonnance à l'effet de le faire comparaître : cette ordonnance s'appelle " mandat d'amener ".
+
+La dénonciation seule ne constitue pas une présomption suffisante pour décerner cette ordonnance contre un individu ayant domicile.
+
+Le [procureur du Roi] interrogera sur-le-champ [l'inculpé] amené devant lui. &lt;L 10-07-1967, art. 1, 30°&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 48, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 40bis**
+
+&lt;Inséré par L 2003-01-06/34, art. 12; En vigueur : 22-05-2003&gt; Le procureur du Roi peut, dans l'intérêt de l'information, autoriser les services de police à différer la saisie des auteurs présumés d'infractions et de toutes les choses visées à l'article 35. L'autorisation se fait par écrit et est motivée.
+
+En cas d'urgence, l'autorisation peut se faire verbalement. Elle doit être confirmée par écrit et motivée dans les plus brefs délais.
+
+**Art. 41**
+
+[<sup>1</sup> L'infraction]<sup>1</sup> qui se commet actuellement, ou qui vient de se commettre, est [<sup>1</sup> une infraction commise en flagrance]<sup>1</sup>.
+
+Sera aussi réputé [<sup>1</sup> état de flagrance]<sup>1</sup>, le cas où [l'inculpé] est poursuivi par la clameur publique, et celui où [l'inculpé] est trouvé saisi d'effets, armes, instruments ou papiers faisant présumer qu'il est auteur ou [<sup>1</sup> participant]<sup>1</sup>, pourvu que ce soit dans un temps voisin [<sup>1</sup> de l'infraction]<sup>1</sup>. &lt;L 10-07-1967, art. 1, 31°&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 49, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 42**
+
+Les procès-verbaux du [procureur du Roi], en exécution des articles précédents, seront faits et rédigés en la présence et revêtus de la signature du commissaire de police de la commune dans laquelle [<sup>1</sup> l'infraction aura été commise]<sup>1</sup>, ou du [bourgmestre ou d'un échevin], ou de deux citoyens domiciliés dans la même commune.
+
+Pourra néanmoins le [procureur du Roi] dresser les procès-verbaux sans assistance de témoins lorsqu'il n'y aura pas possibilité de s'en procurer tout de suite.
+
+Chaque feuillet du procès-verbal sera signé par le [procureur du Roi] et par les personnes qui y auront assisté : en cas de refus ou d'impossibilité de signer de la part de celles-ci, il en sera fait mention. &lt;L 10-07-1967, art. 1, 32°&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 50, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 43**
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Le [procureur du Roi] se fera accompagner, au besoin, d'une ou de deux personnes présumées, par leur art ou profession, capables d'apprécier la nature et les circonstances [<sup>2</sup> de l'infraction]<sup>2</sup>. &lt;L 10-07-1967, art. 1, 33°&gt;
+
+[<sup>1</sup> § 2. Afin de s'assurer du fonctionnement psychique d'un suspect, le procureur du Roi peut ordonner un examen psychologique par un expert, porteur du titre professionnel de psychologue clinicien, au cours duquel est effectuée au moins une évaluation des risques.
+
+Le psychologue clinicien désigné satisfait aux conditions fixées par la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé et est inscrit au registre national des experts judiciaires et des traducteurs, interprètes et traducteurs-interprètes jurés, sauf s'il est fait application de l'article 555/15 du Code judiciaire.
+
+Dans le mois de sa désignation, l'expert rédige, à partir de ses constatations, un rapport provisoire, conformément au modèle fixé par le Roi. Ce rapport provisoire est envoyé pour lecture au suspect et, le cas échéant, à son avocat.
+
+A moins qu'un délai n'ait été antérieurement déterminé par le procureur du Roi, l'expert fixe un délai raisonnable, compte tenu de la nature de l'affaire, dans lequel le suspect et, le cas échéant, son avocat ou son propre expert, doit formuler ses observations. Sauf décision contraire du procureur du Roi, ce délai est d'au moins huit jours suivant la réception du rapport provisoire.
+
+L'expert reçoit les observations du suspect et, le cas échéant, de son avocat et de son propre expert, avant l'expiration de ce délai. L'expert ne tient aucun compte des observations qu'il reçoit après l'expiration de ce délai.
+
+Le rapport final est daté. II contient également le relevé des documents et des notes remis par le suspect et, le cas échéant, par son avocat ou son propre expert ainsi que les remarques y afférentes. Le rapport est signé par l'expert.
+
+La signature de l'expert est précédée du serment ainsi conçu: "Je jure avoir rempli ma mission en honneur et conscience, avec exactitude et probité."
+
+Le rapport final est déposé dans les quinze jours suivant la réception des observations du suspect et, le cas échéant, de son avocat et, s'il y a lieu, de son propre expert. Le jour du dépôt du rapport, l'expert envoie, par envoi recommandé, une copie du rapport au suspect et, le cas échéant, à son avocat.
+
+Le rapport de l'expert est seulement valide s'il est signé et si le serment a été prêté.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-01-18/06, art. 4, 119; En vigueur : 05-02-2024&gt;
+
+(2)&lt;L 2026-03-11/03, art. 51, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 44**
+
+S'il s'agit d'une mort violente ou d'une mort dont la cause soit inconnue et suspecte, le [procureur du Roi] se fera assister d'un ou de deux [médecins], qui feront leur rapport sur les causes de la mort et sur l'état du cadavre. &lt;L 10-07-1967, art. 1, 34°&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>1</sup> ...]<sup>1</sup>.
+
+[Lorsqu'une autopsie est ordonnée, les proches sont autorisés à voir le corps du défunt. Le magistrat qui a ordonné l'autopsie apprécie la qualité de proche des requérants et décide du moment où le corps du défunt pourra leur être présenté. Cette décision n'est susceptible d'aucun recours.] &lt;L 1998-03-12/39, art. 6, 016 ; En vigueur : 1998-10-02&gt;
+
+[<sup>2</sup> Lorsqu'une autopsie a été ordonnée, le procureur du Roi compétent délivre à partir du moment où la conservation du corps du défunt n'est plus nécessaire à la manifestation de la vérité, l'autorisation de remise du corps et le permis d'inhumer.
+
+Le médecin ayant procédé à une autopsie s'assure de la meilleure restauration possible du corps avant sa remise aux proches du défunt.
+
+Un mois après avoir procédé à l'autopsie, les proches ayant qualité pour pourvoir aux funérailles peuvent demander la restitution du corps auprès du procureur du Roi, qui doit y répondre par une décision écrite dans un délai de quinze jours. Cette décision n'est susceptible d'aucun recours. La décision de refus peut être révoquée à tout moment par le procureur du Roi.
+
+Les proches ne peuvent adresser ou déposer une demande ayant le même objet avant l'expiration d'un délai de trois mois à compter de la dernière décision portant sur le même objet.
+
+Le procureur du Roi peut toujours ordonner l'exhumation d'un corps.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2014-04-10/90, art. 2, 075; En vigueur : 01-12-2016&gt;
+
+(2)&lt;L 2023-07-31/02, art. 2, 116; En vigueur : 19-08-2023&gt;
+
+**Art. 44bis**
+
+&lt;L 15-04-1958, art. 1&gt; § 1. [<sup>2</sup> En cas d'une infraction en flagrance]<sup>2</sup>, le procureur du Roi pourra charger un médecin de procéder aux constatations médicales relatives à l'état d'ivresse de l'auteur présumé et de la victime de l'infraction. Il pourra requérir le médecin de faire un prélèvement sanguin.
+
+Cette disposition n'est toutefois pas applicable en cas d'infraction aux lois et règlements relatifs à la police de roulage.
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 3. Si l'intervention du médecin requis n'en doit souffrir aucun retard, la personne sur laquelle le prélèvement est opéré pourra y faire assister, à ses frais, un médecin de son choix.
+
+§ 4. L'analyse de l'échantillon sanguin est faite dans un des laboratoires agréés à cet effet par le Roi.
+
+La personne qui a subi le prélèvement sanguin peut faire procéder, à ses frais, à une seconde analyse, soit dans le laboratoire ayant procédé à la première, soit dans un autre laboratoire agréé par le Roi. Dans le premier cas, elle peut faire contrôler la deuxième analyse par un conseil technique de son choix.
+
+Le Roi prend les mesures complémentaires pour organiser le prélèvement sanguin. Il règle notamment le mode de prélèvement et de conservation du sang, les modalités des analyses et l'agréation des laboratoires.
+
+----------
+
+(1)&lt;L 2014-04-10/90, art. 3, 075; En vigueur : 01-12-2016&gt;
+
+(2)&lt;L 2026-03-11/03, art. 52, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 44ter**
+
+Pour l'application du présent Code, on entend par :
+
+1° [<sup>5</sup> profil ADN: un code alphanumérique spécifique à chaque individu et établi à partir de séquences du patrimoine génétique;]<sup>5</sup>
+
+[<sup>5</sup> 1° /1. profil Y-STR: un code alphanumérique spécifique aux hommes appartenant à la même lignée paternelle et établi sur la base de séquences génétiques situées sur le chromosome Y masculin;
+
+1° /2. profil ADNmt: un code alphanumérique spécifique aux individus appartenant à la même lignée maternelle et établie à des sites spécifiques du génome circulaire présent dans les mitochondries;]<sup>5</sup>
+
+2° échantillon de référence : les bulbes pileux, les cellules buccales ou de sang, prélevés sur une personne afin d'établir son profil ADN;
+
+3° comparaison de profils ADN : la comparaison de profils génétiques de traces découvertes avec les profils génétiques d'échantillons de référence, ou la comparaison de ces profils entre eux;
+
+[<sup>5</sup> 3° /1. recherche familiale: la recherche du père, de la mère, des fils, des filles, des frères ou des soeurs biologiques de la source d'un profil ADN non identifié provenant d'une trace découverte, sur la base d'une comparaison de ce profil ADN avec les profils ADN des échantillons de référence enregistrés dans les banques nationales de données ADN "Criminalistique" et "Condamnés";]<sup>5</sup>
+
+4° laboratoire : un laboratoire d'analyse ADN qui satisfait aux conditions d'agrément fixées par le Roi;
+
+5° banques nationales de données ADN : les banques nationales de données ADN [<sup>2</sup> [<sup>4</sup> "Criminalistique", "Condamnés"Personnes disparues" et "Intervenants"]<sup>4</sup>]<sup>2</sup> gérées par l'Institut National de Criminalistique et de Criminologie;
+
+6° gestionnaire des banques nationales de données ADN : la personne responsable de la gestion des banques nationales de données ADN au sein de l'Institut National de Criminalistique et de Criminologie;
+
+7° banques étrangères de données ADN : les banques de données ADN créées et gérées par d'autres Etats de l'Union européenne et par des pays avec lesquels interviendrait un traité prévoyant l'échange des profils ADN aux fins de la procédure pénale [<sup>6</sup> ou afin de permettre d'identifier directement ou indirectement des personnes décédées inconnues ou de faciliter la recherche de personnes disparues]<sup>6</sup>;
+
+[<sup>6</sup> 7° /1. banques internationales de données ADN: les banques de données ADN créées et gérées par des organisations européennes ou internationales de droit public aux fins de la procédure pénale ou afin de permettre d'identifier directement ou indirectement des personnes décédées inconnues ou de faciliter la recherche de personnes disparues, et qui sont désignées par le Roi, par arrêté délibéré en Conseil des ministres et après avis de la commission d'évaluation d'analyse ADN;]<sup>6</sup>
+
+8° numéro de code ADN : le numéro de référence unique attribué par la cellule nationale et qui permet de relier un profil ADN au nom d'une personne.]<sup>1</sup>
+
+[<sup>2</sup> 9° personne disparue : la personne dont la disparition est considérée comme inquiétante par le procureur du Roi.]<sup>2</sup>
+
+[<sup>3</sup> 10° le parent ou allié d'une personne disparue : l'ascendant, le descendant, l'autre parent biologique d'un enfant, le collatéral.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2011-11-07/16, art. 2, 062; En vigueur : 01-01-2014 (voir AR 2013-07-17/29, art. 36)&gt;
+
+(2)&lt;L 2013-12-21/59, art. 2, 076; En vigueur : indéterminée et au plus tard le 01-07-2017 (voir L 2015-06-28/01, art. 2)&gt;
+
+(3)&lt;L 2017-04-09/09, art. 2, 089; En vigueur : 14-05-2017&gt;
+
+(4)&lt;L 2017-05-17/03, art. 2, 090; En vigueur : 10-06-2017&gt;
+
+(5)&lt;L 2024-03-07/01, art. 2,a,b,c, 120; En vigueur : 01-03-2024&gt;
+
+(6)&lt;L 2024-03-07/01, art. 2,d,e, 120; En vigueur : 24-03-2024&gt;
+
+**Art. 44quater**
+
+[<sup>1</sup> § 1er. Le procureur du Roi peut, par décision motivée, désigner un expert attaché à un laboratoire, pour :
+
+1° établir le profil ADN des traces découvertes,
+
+2° comparer, le cas échéant, les profils ADN des traces découvertes entre elles.
+
+L'expert veille à préserver une fraction suffisante de l'échantillon pour permettre une contre-expertise. Si cela s'avère impossible, il en fait état dans son rapport.
+
+Lorsque l'expert parvient à préserver une fraction suffisante de la trace découverte pour permettre une contre-expertise, il en assure la conservation pendant trente ans au maximum [<sup>3</sup> sauf si le magistrat compétent ordonne, sur la base d'une décision motivée, un autre délai de conservation, qui ne peut pas excéder quarante ans, à moins qu'il ne s'agisse des infractions visées à l'article 21bis du titre préliminaire du Code de procédure pénale]<sup>3</sup>.
+
+[<sup>2</sup> Le cas échéant, le procureur du Roi informe l'expert qu'il s'agit de traces de personnes disparues ou de dépouilles mortelles non identifiées dont le profil ADN sera enregistré dans la banque de données ADN "Personnes disparues".]<sup>2</sup>
+
+§ 2. L'expert transmet au procureur du Roi un rapport motivé sur l'exécution de sa mission dans un délai maximal d'un mois après la réception de sa mission et des pièces à conviction.
+
+Le procureur du Roi peut toutefois accorder un délai d'analyse supplémentaire, sur demande motivée de l'expert.
+
+§ 3. Dans les quinze jours suivant la transmission de son rapport et sauf décision contraire motivée du procureur du Roi, l'expert communique d'office les profils ADN obtenus au gestionnaire des banques nationales de données ADN, en vue de l'application de [<sup>2</sup> l'article 5quater, §§ 1er, 3, 4 et 5]<sup>2</sup> de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale.
+
+Il communique également les données suivantes :
+
+1° le numéro de notice du dossier répressif;
+
+2° le nom et les coordonnées du magistrat chargé du dossier répressif;
+
+3° le nom et les coordonnées du laboratoire qui a établi les profils ADN, ainsi que la référence du dossier d'expertise et les références des profils ADN;
+
+4° la nature biologique des échantillons analysés;
+
+5° le sexe de la personne dont le profil ADN a été établi;
+
+6° le cas échéant, le lien positif entre les profils ADN obtenus;
+
+7° le cas échéant, le numéro de code ADN.]<sup>1</sup>
+
+[<sup>3</sup> § 4. Le procureur du Roi peut, par décision motivée, requérir l'expert visé au paragraphe 1er, alinéa 1er, d'établir le profil Y-STR ou le profil ADNmt des traces découvertes, en précisant les circonstances de l'affaire qui justifient cette analyse.
+
+[<sup>4</sup> Lorsqu'il existe des indices sérieux que les faits punissables constituent une infraction visée à l'article 5, § 1er, alinéa 3, 8°, de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale, le procureur du Roi se concerte systématiquement avec l'expert visé au paragraphe 1er, alinéa 1er, pour déterminer lesquelles des traces découvertes feront l'objet de l'établissement d'un profil Y-STR]<sup>4</sup>.
+
+Les paragraphes 2 et 3 s'appliquent par analogie aux mesures visées au présent paragraphe.]<sup>3</sup>
+
+[<sup>3</sup> § 5. Lorsque le profil ADN d'une trace découverte visée au paragraphe 1er reste non identifié après les comparaisons de profils ADN visées à l'article 44quinquies, § 1er, alinéa 2, 3°, et aux articles 5quater, § 1er, et 8 de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale, le procureur du Roi peut, dans l'intérêt de l'enquête et par décision motivée, ordonner une analyse ADN visant à déterminer la couleur des cheveux, la couleur des yeux, l'âge et l'origine biogéographique de la source inconnue de la trace découverte, afin de faciliter l'identification directe ou indirecte de cette source.
+
+La motivation reflète le caractère proportionnel eu égard au respect de la vie privée et subsidiaire à tout autre devoir d'enquête.
+
+Le cas échéant, les paragraphes 2 et 3 s'appliquent par analogie à l'analyse ADN visée à l'alinéa 1er.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-11-07/16, art. 3, 062; En vigueur : 01-01-2014 (voir AR 2013-07-17/29, art. 36)&gt;
+
+(2)&lt;L 2013-12-21/59, art. 3, 076; En vigueur : indéterminée et au plus tard le 01-07-2017 (voir L 2015-06-28/01, art. 2)&gt;
+
+(3)&lt;L 2024-03-07/01, art. 3, 120; En vigueur : 01-03-2024&gt;
+
+(4)&lt;L 2026-02-08/04, art. 6, 129; En vigueur : 26-02-2026&gt;
+
+**Art. 44quinquies**
+
+[<sup>1</sup> § 1er. Le procureur du Roi peut, moyennant l'accord écrit de l'intéressé, ordonner le prélèvement d'un échantillon de référence sur une personne ayant atteint l'âge de seize ans contre laquelle il existe des indices de culpabilité dans la commission des faits de l'affaire dont il a la charge, ou dans la commission de faits similaires.
+
+Cet accord ne peut être valablement donné que si le procureur du Roi ou un officier de police judiciaire, auxiliaire du procureur du Roi, l'a préalablement informée :
+
+1° des circonstances de l'affaire dans le cadre de laquelle le prélèvement est demandé;
+
+2° de l'existence d'indices de sa culpabilité dans la commission des faits de l'affaire dont il a la charge, ou dans la commission de faits similaires;
+
+3° le cas échéant, de la comparaison de son profil ADN avec les profils ADN des traces découvertes dans le cadre de cette affaire;
+
+4° de la comparaison unique de son profil ADN avec les profils ADN enregistrés dans les banques nationales de données ADN;
+
+5° de l'enregistrement de son profil ADN dans la banque de données ADN " Criminalistique ", si la comparaison des profils ADN établit un lien positif avec un des profils ADN visés au 3° ou au 4° ;
+
+6° en cas d'enregistrement de son profil ADN, de la comparaison systématique de son profil ADN avec les profils ADN enregistrés dans [<sup>3</sup> les banques nationales, étrangères et internationales de données]<sup>3</sup> ADN;
+
+7° en cas de lien positif avec un des profils visés au 6°, de l'enregistrement de ce lien;
+
+[<sup>2</sup> 8° de l'établissement et de la comparaison systématiques de son profil Y-STR, s'il existe des indices sérieux que les faits punissables constituent une infraction visée à [<sup>4</sup> l'article 5, § 1er, alinéa 3, 8°, ]<sup>4</sup> de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale.]<sup>2</sup>
+
+Il est fait mention de ces informations dans l'accord écrit de l'intéressé.
+
+§ 2. Le procureur du Roi requiert un officier de police judiciaire, auxiliaire du procureur du Roi, ou un médecin pour effectuer un frottis buccal ou un prélèvement de bulbes pileux.
+
+Pour le prélèvement de sang, il ne peut requérir qu'un médecin.
+
+L'officier de police judiciaire, auxiliaire du procureur du Roi, dresse un procès-verbal de l'opération de prélèvement.
+
+§ 3. Si la personne visée au § 1er n'a pas atteint l'âge de dix-huit ans, elle doit, pour l'application des §§ 1er et 2, se faire accompagner par au moins un de ses parents, par un avocat ou par une autre personne majeure de son choix.
+
+§ 4. Le procureur du Roi désigne un expert attaché à un laboratoire pour :
+
+1° établir le profil ADN de l'échantillon de référence;
+
+2° effectuer, le cas échéant, une comparaison de ce profil ADN avec les profils ADN des traces découvertes dans le cadre de cette affaire;
+
+[<sup>2</sup> 3° établir le profil Y-STR de l'échantillon de référence lorsqu'il existe des indices sérieux que les faits punissables constituent une infraction visée à [<sup>4</sup> l'article 5, § 1er, alinéa 3, 8°,]<sup>4</sup> de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale;
+
+4° effectuer, le cas échéant, une comparaison de ce profil Y-STR avec les profils ADN des traces découvertes dans le cadre de cette affaire.]<sup>2</sup>
+
+[<sup>2</sup> § 4/1. Le procureur du Roi peut, par décision motivée, et en précisant les circonstances de l'affaire qui justifient cette analyse, requérir l'expert visé au paragraphe 4:
+
+1° d'établir le profil Y-STR ou le profil DNAmt de l'échantillon de référence;
+
+2° d'effectuer, le cas échéant, une comparaison de ce profil Y-STR ou ADNmt avec les profils ADN des traces découvertes dans le cadre de cette affaire.]<sup>2</sup>
+
+§ 5. L'expert transmet au procureur du Roi un rapport motivé sur l'exécution de sa mission dans un délai maximal d'un mois après la réception de sa mission et des pièces à conviction.
+
+Le procureur du Roi peut toutefois accorder un délai d'analyse supplémentaire sur demande motivée de l'expert.
+
+§ 6. Le résultat de la comparaison des profils ADN est notifié à la personne concernée, conformément aux modalités fixées par le Roi.
+
+Cette dernière peut, dans un délai de quinze jours à compter de la notification, exiger du procureur du Roi qu'il fasse procéder à une contre-expertise par un expert attaché à un laboratoire qu'elle désigne.
+
+La contre-expertise s'effectue sur base d'un nouvel échantillon de référence prélevé sur l'intéressé et de la fraction de la trace découverte qui n'a pas été utilisée lors de la première expertise, à défaut, sur base de l'ADN extrait de la trace, à défaut sur base du profil ADN de la trace établi par le premier expert.
+
+L'expert chargé de la contre-expertise transmet son rapport au procureur du Roi dans un délai maximal d'un mois après la réception de sa mission et des pièces à conviction. Le résultat de la contre-expertise est notifié à la personne concernée conformément aux modalités fixées par le Roi.
+
+Les frais de la contre-expertise, estimés conformément à la réglementation relative aux frais de justice en matière répressive, sont avancés par la personne concernée. Si la contre-expertise ne confirme pas le résultat de la première analyse, le montant avancé par l'intéressé lui est remboursé par l'Etat.
+
+§ 7. Sauf décision contraire motivée du procureur du Roi, l'expert qui a été chargé d'établir le profil ADN de l'échantillon de référence [<sup>2</sup> en application du paragraphe 4, 1° et 3°, et du paragraphe 4/1, 1°]<sup>2</sup>, communique d'office, dans les quinze jours suivant la transmission de son rapport, le profil ADN au gestionnaire des banques nationales de données ADN, en vue de l'application de l'article 5quater, §§ 2 à 4, de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale.
+
+Il communique également les données y relatives, énumérées à l'article 44quater, § 3, second alinéa.
+
+§ 8. Sans préjudice du § 7, et sauf décision contraire motivée du procureur du Roi, l'expert qui a été chargé d'effectuer [<sup>2</sup> la comparaison visée au paragraphe 4, 2° et 4°, et au paragraphe 4/1, 2°]<sup>2</sup>, et qui a établi un lien positif, communique d'office, dans les quinze jours après la transmission de son rapport, le profil ADN de l'échantillon de référence au gestionnaire des banques nationales de données ADN, en vue de l'application de l'article 5quater, §§ 1er, 3 et 4, de la loi précitée.
+
+Il communique également les données y relatives, énumérées à l'article 44quater, § 3, second alinéa [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 9. [<sup>2</sup> L'expert qui a été chargé d'effectuer la comparaison visée au paragraphe 4, 2°, et qui a établi un lien positif, transmet l'échantillon de référence et les échantillons qui en dérivent contenant de l'ADN dans les six mois après l'expiration du délai visé au paragraphe 6, alinéa 2, ou suivant la transmission du rapport visé au paragraphe 6, alinéa 4, à l'Institut national de Criminalistique et de Criminologie, qui en assure la conservation pendant trente ans au maximum, pour permettre d'autres analyses basées sur le même échantillon de référence, sauf si le magistrat compétent ordonne, par une décision motivée, un autre délai de conservation qui ne peut pas excéder quarante ans.
+
+Si, après application de l'article 5quater, § 2, de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale, un lien positif a été établi et que le profil ADN de l'échantillon de référence concerné est donc enregistré dans la banque nationale de données ADN, le gestionnaire des banques nationales de données ADN en informe l'expert dans les trente jours après la réception des profils ADN visés à l'article 5quater, § 2, de la loi du 22 mars 1999 précitée. Dans ce cas, l'expert transmet l'échantillon de référence et les échantillons qui en dérivent contenant de l'ADN dans les six mois après cette notification par le gestionnaire des banques nationales de données ADN à l'Institut national de Criminalistique et de Criminologie en vue de leur conservation conformément à l'alinéa 1er.
+
+Dans tous les autres cas, l'expert détruit l'échantillon de référence et les échantillons qui en dérivent contenant de l'ADN, au plus tard six mois après la transmission de son rapport.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-11-07/16, art. 4, 062; En vigueur : 01-01-2014 (voir AR 2013-07-17/29, art. 36)&gt;
+
+(2)&lt;L 2024-03-07/01, art. 4,b,c,d,e,f,g,h, 120; En vigueur : 01-03-2024&gt;
+
+(3)&lt;L 2024-03-07/01, art. 4,a, 120; En vigueur : 24-03-2024&gt;
+
+(4)&lt;L 2026-02-08/04, art. 7, 129; En vigueur : 26-02-2026&gt;
+
+**Art. 44sexies**
+
+[<sup>1</sup> § 1er. Le procureur du Roi peut, moyennant l'accord écrit de l'intéressé, ordonner le prélèvement d'un échantillon de référence sur une personne qui n'est pas visée à l'article 44quinquies et qui a atteint l'âge de seize ans.
+
+Cet accord ne pourra être valablement donné que si le procureur du Roi ou un officier de police judiciaire, auxiliaire du procureur du Roi, l'a préalablement informée :
+
+1° des circonstances de l'affaire dans le cadre de laquelle le prélèvement est demandé;
+
+2° de la comparaison de son profil ADN avec les profils ADN des traces découvertes dans le cadre de cette affaire;
+
+3° du fait que son profil ADN ne sera pas transmis au gestionnaire des banques nationales de données ADN, aux fins de comparaison ou d'enregistrement.
+
+Il est fait mention de ces informations dans l'accord écrit de l'intéressé.
+
+§ 2. Le prélèvement, l'établissement du profil ADN de l'échantillon de référence, la comparaison des profils ADN, la transmission des résultats au procureur du Roi, la notification des résultats à la personne concernée, la contre-expertise [<sup>3</sup> sont effectués conformément à l'article 44quinquies, §§ 2 à 6]<sup>3</sup>.
+
+La qualité de la personne est communiquée à l'expert chargé d'effectuer la comparaison des profils ADN [<sup>3</sup> , qui détruit l'échantillon de référence et les échantillons qui en dérivent contenant de l'ADN au plus tard six mois après la transmission de son rapport sauf si le magistrat compétent ordonne, par une décision motivée, un autre délai de conservation pour permettre d'autres analyses basées sur le même échantillon de référence, qui ne peut pas excéder cinq ans]<sup>3</sup>.]<sup>1</sup>
+
+[<sup>2</sup> § 3. Si, dans le cadre d'un dossier [<sup>3</sup> concernant des infractions visées aux articles 417/7 ou 417/11 du Code pénal]<sup>3</sup>, le procureur du Roi décide de ne pas faire établir de profil ADN de traces ou d'un échantillon de référence découverts ou prélevés lors de l'exploration corporelle de la victime, visée à l'article 90bis, il fournit à ce sujet des explications à la victime à la fin de l'information.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-11-07/16, art. 5, 062; En vigueur : 01-01-2014 (voir AR 2013-07-17/29, art. 36)&gt;
+
+(2)&lt;L 2011-11-30/28, art. 8, 063; En vigueur : 30-01-2012&gt;
+
+(3)&lt;L 2024-03-07/01, art. 5, 120; En vigueur : 01-03-2024&gt;
+
+**Art. 44septies**
+
+[<sup>1</sup> § 1er. Le procureur du Roi peut, moyennant l'accord écrit d'un parent ou allié d'une personne disparue qui a atteint l'âge de seize ans, ou de son représentant légal ou tuteur ad hoc s'il s'agit d'un mineur de moins de seize ans, ordonner le prélèvement d'un échantillon de référence sur ce parent ou allié.
+
+Cet accord ne peut être valablement donné que si le procureur du Roi ou un officier de police judiciaire, auxiliaire du procureur du Roi, a préalablement informé le parent ou allié concerné :
+
+1° des circonstances de l'affaire dans le cadre de laquelle le prélèvement est demandé;
+
+2° le cas échéant, de la comparaison de son profil ADN avec le profil ADN de traces découvertes utiles;
+
+3° de l'enregistrement de son profil ADN dans la banque de données ADN "Personnes disparues";
+
+4° de la comparaison systématique de son profil ADN avec les profils ADN enregistrés dans [<sup>3</sup> les banques nationales, étrangères et internationales de données]<sup>3</sup> ADN, dans le but exclusif de permettre d'identifier directement ou indirectement des personnes décédées inconnues ou de faciliter la recherche de personnes disparues;
+
+5° en cas de lien positif avec un des profils ADN visés au 4°, de l'enregistrement de ce lien.
+
+Il est fait mention de ces informations dans l'accord écrit de l'intéressé.
+
+§ 2. Le prélèvement, l'établissement du profil ADN de l'échantillon de référence, la comparaison des profils ADN, la transmission du résultat au procureur du Roi, la notification du résultat à l'intéressé, la contre-expertise [<sup>2</sup> sont effectués conformément à l'article 44quinquies, §§ 2 à 6]<sup>2</sup>.
+
+La qualité de parent ou d'allié d'une personne disparue est communiquée à l'expert chargé de la comparaison des profils ADN [<sup>2</sup> , qui, sauf décision contraire motivée du procureur du Roi, conserve l'échantillon de référence et les échantillons qui en dérivent contenant de l'ADN pour permettre d'autres analyses basées sur le même échantillon de référence, tant que la personne disparue n'a pas été retrouvée, sauf si le parent ou allié concerné retire son consentement]<sup>2</sup>.
+
+§ 3. S'il a atteint l'âge de seize ans, le parent ou allié mineur devra se faire accompagner pour l'application des paragraphes 1er et 2, par au moins un de ses parents, par un avocat ou par une autre personne majeure de son choix.
+
+Si le parent ou allié n'a pas atteint l'âge de seize ans, l'accord visé au paragraphe 1er doit être donné par son représentant légal. Celui-ci assiste aussi le mineur pour l'application du paragraphe 2. Si le procureur du Roi ou, le cas échéant, le juge d'instruction considère qu'il y a des intérêts contradictoires, il peut désigner un tuteur ad hoc pour représenter et assister le mineur pour l'application des paragraphes 1er et 2.
+
+§ 4. Sauf décision contraire motivée du procureur du Roi, l'expert qui a été chargé d'établir le profil ADN de l'échantillon de référence en application du paragraphe 2 communique d'office, dans les quinze jours suivant la transmission de son rapport, le profil ADN au gestionnaire des banques nationales de données ADN, en vue de l'application de l'article 5quater, §§ 1er, 3, 4 et 5, de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-04-09/09, art. 3, 089; En vigueur : 14-05-2017&gt;
+
+(2)&lt;L 2024-03-07/01, art. 6,2°,3°, 120; En vigueur : 01-03-2024&gt;
+
+(3)&lt;L 2024-03-07/01, art. 6,1°, 120; En vigueur : 24-03-2024&gt;
+
+**Art. 44octies**
+
+[<sup>1</sup> § 1er. S'il existe des indices sérieux que les faits punissables constituent ou constitueraient une infraction visée à l'article 5, § 1er, alinéa 3, de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale, le procureur du Roi peut, si cela s'avère nécessaire pour la manifestation de la vérité et si les autres moyens d'investigation ne semblent pas suffire à la manifestation de la vérité, par une décision motivée, ordonner une recherche familiale si le profil ADN d'une trace découverte visée à l'article 44quater reste non identifié après les comparaisons de profils ADN visées à l'article 44quinquies, § 1er, alinéa 2, 3°, et aux articles 5quater, § 1er, et 8 de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale.
+
+Dans sa décision écrite, le procureur du Roi précise les circonstances particulières et spécifiques de l'enquête qui rendent nécessaire la réalisation d'une recherche familiale pour permettre l'identification de la source de la trace découverte.
+
+La recherche familiale est effectuée sur réquisition du procureur du Roi, par le gestionnaire des banques nationales de données ADN, uniquement lorsque le profil ADN non identifié est d'une qualité suffisante pour faire l'objet d'une recherche familiale.
+
+Après l'exécution de la recherche familiale, le gestionnaire des banques nationales de données ADN envoie au procureur du Roi la liste des liens positifs partiels par ordre de probabilité statistique que la personne sur la liste des liens positifs partiels et la source de la trace découverte soient effectivement apparentés. Sur la base de cette liste, le procureur du Roi peut ordonner des mesures de recherche supplémentaires telles que visées dans le présent article. Le procureur du Roi conserve la liste des liens positifs partiels jusqu'à ce qu'une décision judiciaire coulée en force de chose jugée soit prononcée dans le dossier.
+
+§ 2. Le procureur du Roi peut, dans l'intérêt de l'enquête, ordonner l'établissement du profil Y-STR ou du profil ADNmt d'une ou de plusieurs personnes de la liste des liens positifs partiels visée au paragraphe 1er, alinéa 4.
+
+Le matériel cellulaire, les échantillons de référence ou les échantillons qui en dérivent contenant de l'ADN, qui ont été découverts ou prélevés en vertu du présent Code ou en vertu de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale, afin d'établir un profil ADN, peuvent être utilisés pour l'établissement du profil Y-STR ou du profil ADNmt. Si aucun matériel cellulaire, échantillon de référence ou échantillon qui en dérive contenant de l'ADN n'est disponible, un nouvel échantillon de référence peut être prélevé sur les personnes concernées conformément à l'article 44quinquies, §§ 2 et 3.
+
+La personne auprès de laquelle un nouvel échantillon de référence doit être prélevé conformément à l'alinéa 2 ne peut valablement donner son accord écrit que si le procureur du Roi ou un officier de police judiciaire, auxiliaire du procureur du Roi, l'a préalablement informée de la finalité du prélèvement, notamment l'établissement du profil Y-STR ou ADNmt en vue de le comparer avec les profils ADN non identifiés des traces découvertes dans le cadre de l'affaire en cause, et en cas de lien positif, de l'enregistrement de son profil dans la banque de données ADN. Il est fait mention de ces informations dans l'accord écrit de l'intéressé.
+
+§ 3. Le procureur du Roi désigne un expert attaché à un laboratoire pour:
+
+1° établir le profil Y-STR ou le profil ADNmt des personnes indiquées par le procureur du Roi;
+
+2° communiquer le profil Y-STR ou le profil ADNmt au gestionnaire des banques nationales de données ADN afin de faire la comparaison du profil Y-STR ou du profil ADNmt avec les profils ADN non identifiés des traces découvertes dans le cadre de cette affaire. Il communique également les données y relatives, énumérées à l'article 44quater, § 3, alinéa 2.
+
+Si le gestionnaire des banques nationales de données ADN établit un lien positif lors de la comparaison visée à l'alinéa 1er, 2°, il applique l'article 5quater, §§ 1er, 3 et 4, de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale.
+
+§ 4. La transmission du résultat au procureur du Roi, la notification du résultat à l'intéressé, et la contre-expertise sont effectués conformément à l'article 44quinquies, §§ 5 et 6, étant entendu que la contre-expertise est effectuée sur la base des échantillons de référence ou des échantillons qui en dérivent contenant de l'ADN de la personne concernée, prélevé en application du présent Code ou en application de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale, en vue d'établir un profil ADN.
+
+§ 5. Si un nouvel échantillon de référence a été prélevé sur la base du paragraphe 2, alinéa 3, l'expert visé au paragraphe 3, alinéa 1er, détruit cet échantillon de référence et les échantillons qui en dérivent contenant de l'ADN au plus tard six mois après la transmission de son rapport.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-07/01, art. 7, 120; En vigueur : 01-03-2024&gt;
+
+**Art. 45**
+
+Le [procureur du Roi] transmettra sans délai, au juge d'instruction, les procès-verbaux, actes, pièces et instruments dressés ou saisis en conséquence des articles précédents, pour être procédé ainsi qu'il sera dit au chapitre des Juges d'instruction; et cependant [l'inculpé] restera sous la main de la justice en état de mandat d'amener. &lt;L 10-07-1967, art. 1, 35°&gt;
+
+**Art. 46**
+
+Les attributions faites ci-dessus au [procureur du Roi] pour les cas de [<sup>1</sup> flagrance]<sup>1</sup> auront lieu aussi toutes les fois que, s'agissant d'[<sup>1</sup> une infraction, même non flagrante, commise]<sup>1</sup> dans l'intérieur d'une maison, [le procureur du Roi sera requis de le constater :
+
+1° par le chef de cette maison;
+
+2° par la victime de l'infraction, lorsque l'infraction, dont il s'agit, est visée aux [<sup>1</sup> articles 194 à 198]<sup>1</sup> que l'auteur présumé de l'infraction est l'époux de la victime ou la personne avec laquelle elle cohabite et entretient une relation affective et sexuelle durable.] &lt;L 1997-11-24/51, art. 4, 014; En vigueur : 16-02-1998&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 53, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 46bis**
+
+&lt;L 2007-01-23/35, art. 2, 050; En vigueur : 24-03-2007&gt; § 1er. [<sup>2</sup> En recherchant les [<sup>5</sup> infractions]<sup>5</sup>, le procureur du Roi peut, par une décision motivée et écrite, procéder ou faire procéder sur la base de toutes données détenues par lui, ou au moyen d'un accès aux fichiers des clients des acteurs visés à l'alinéa 2, premier et deuxième tirets, à:
+
+1° l'identification de l'abonné ou de l'utilisateur habituel d'un service visé à l'alinéa 2, deuxième tiret, ou bien du moyen de communication électronique utilisé;
+
+2° l'identification des services visés à l'alinéa 2, deuxième tiret, auxquels une personne déterminée est abonnée ou qui sont habituellement utilisés par une personne déterminée.
+
+Si nécessaire, il peut pour ce faire requérir, directement ou par l'intermédiaire du service de police désigné par le Roi, la collaboration:
+
+\- de l'opérateur d'un réseau de communications électroniques, et
+
+\- de toute personne qui met à disposition ou offre, sur le territoire belge, d'une quelconque manière, un service qui consiste à transmettre des signaux via des réseaux de communications électroniques ou à autoriser des utilisateurs à obtenir, recevoir ou diffuser des informations via un réseau de communications électroniques. Est également compris le fournisseur d'un service de communications électroniques.
+
+[<sup>3</sup> Pour procéder à l'identification de l'abonné ou de l'utilisateur habituel d'un service visé à l'alinéa 2, deuxième tiret, il peut également requérir, directement ou par l'intermédiaire du service de police désigné par le Roi, la collaboration:
+
+\- des personnes et institutions visées à l'article 46quater, § 1er, sur la base de la référence d'une transaction bancaire électronique qui a préalablement été communiquée par un des acteurs visés à l'alinéa 2, premier et deuxième tirets, en application de l'alinéa 1er;
+
+\- des centres fermés ou des lieux d'hébergement au sens des articles 74/8 et 74/9 de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, sur la base des coordonnées du centre ou du lieu d'hébergement où la souscription de l'abonné à un service de communications électroniques mobiles a été effectué, et qui ont préalablement été communiquées par un des acteurs visés à l'alinéa 2, premier et deuxième tirets, en application de l'alinéa 1er;
+
+\- des autres personnes morales qui sont l'abonné d'un des acteurs visés à l'alinéa 2, premier ou deuxième tiret, ou qui souscrivent à un service de communications électroniques au nom et pour le compte de personnes physiques, sur la base des données qui ont préalablement été communiquées par un des acteurs visés à l'alinéa 2, premier et deuxième tirets, en application de l'alinéa 1er.]<sup>3</sup>
+
+La motivation reflète le caractère proportionnel eu égard au respect de la vie privée et subsidiaire à tout autre devoir d'enquête.
+
+En cas d'extrême urgence, le procureur du Roi peut ordonner verbalement cette mesure. La décision est confirmée par écrit dans les plus brefs délais.
+
+Pour des infractions[<sup>5</sup> qui ne sont pas punissables d'une peine de niveau 2 ou d'une peine plus lourde]<sup>5</sup>, le procureur du Roi ne peut requérir les données visées à l'alinéa 1er que pour une période de six mois préalable à sa décision.]<sup>2</sup>
+
+§ 2. [<sup>2</sup> Les acteurs visés au § 1er, alinéa 2, 1er et 2e tirets, requis de communiquer les données visées au paragraphe 1er [<sup>5</sup> sont tenues de prêter leur concours et]<sup>5</sup> communiquent au procureur du Roi ou à l'officier de police judiciaire les données en temps réel ou, le cas échéant, au moment précisé dans la réquisition, selon les modalités fixées par le Roi, sur proposition du ministre de la Justice et du ministre compétent pour les Télécommunications.]<sup>2</sup>
+
+Le Roi fixe, après avis de la Commission de la protection de la vie privée et sur proposition du Ministre de la Justice et du Ministre compétent pour les Télécommunications, les conditions techniques d'accès aux données visées au § 1er et disponibles pour le procureur du Roi et le service de police désigné au même paragraphe.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>3</sup> § 3. Les acteurs visés au paragraphe 1er, alinéa 3, premier à troisième tiret, requis de communiquer l'identification de l'abonné ou de l'utilisateur habituel d'un service visé au paragraphe 1er, alinéa 2, deuxième tiret, communiquent au procureur du Roi ou à l'officier de police judiciaire les données en temps réel ou, le cas échéant, au moment précisé dans la réquisition.]<sup>3</sup>
+
+[<sup>3</sup> § 4. Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours, est tenue de garder le secret. Toute violation du secret est punie conformément à [<sup>5</sup> l'article 352]<sup>5</sup> du Code pénal.
+
+Toute personne qui refuse de communiquer les données ou qui ne les communique pas en temps réel ou, le cas échéant, au moment précisé dans la réquisition est punie [<sup>4</sup> [<sup>5</sup> conformément aux articles 655 et 656 du Code pénal]<sup>5</sup>]<sup>4</sup>.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2016-05-29/03, art. 8, 085; En vigueur : 28-07-2016&gt;
+
+(2)&lt;L 2016-12-25/37, art. 5, 088; En vigueur : 27-01-2017&gt;
+
+(3)&lt;L 2022-07-20/14, art. 26, 113; En vigueur : 18-08-2022&gt;
+
+(4)&lt;L 2022-12-06/02, art. 8, 114; En vigueur : 31-12-2022&gt;
+
+(5)&lt;L 2026-03-11/03, art. 54, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 46BIS/1**
+
+[<sup>1</sup> § 1er. Dans le cadre de la recherche des infractions terroristes visées [<sup>3</sup> au livre II, titre 4, chapitre 1er]<sup>3</sup>, du Code pénal, le procureur du Roi peut, par une décision motivée et écrite, requérir toutes les institutions de sécurité sociale visées à l'article 2, alinéa 1er, 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale et à l'article 2, alinéa 1er, 2°, de la loi du 11 avril 1995 visant à instituer "la charte" de l'assuré social de lui fournir les renseignements administratifs qu'il juge nécessaires.
+
+Dans sa décision, le procureur du Roi décrit précisément les renseignements qu'il demande, et spécifie la forme sous laquelle ils lui seront communiqués.
+
+§ 2. En application de l'exception visée [<sup>3</sup> à l'article 352]<sup>3</sup> du Code pénal et par dérogation à toutes dispositions contraires, les institutions de sécurité sociale visées au paragraphe 1er, alinéa 1er, communiquent sans délai les renseignements qui y sont visés.[<sup>3</sup> Elles sont tenues de prêter leur concours.]<sup>3</sup>
+
+Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours, est tenue de garder le secret. Toute violation du secret est punie conformément à l'article 458 du Code pénal.
+
+Toute personne refusant de communiquer les renseignements sera punie [<sup>2</sup> [<sup>3</sup> conformément aux articles 655 et 656 du Code pénal.]<sup>3</sup>]<sup>2</sup>.
+
+§ 3. En application de l'exception visée à l'article 458 du Code pénal et par dérogation à des dispositions contraires, les membres du personnel des institutions de sécurité sociale visées au § 1er, alinéa 1er, qui, de par leur profession, prennent connaissance d'une ou de plusieurs informations pouvant constituer des indices sérieux d'une infraction terroriste visée au livre II, titre Ierter, du Code pénal en font la déclaration conformément à l'article 29.
+
+Sont exclues des informations visées à l'alinéa 1er les données médicales à caractère personnel visées à l'article 2, alinéa 1er, 6°, de la loi du 11 avril 1995 visant à instituer "la charte" de l'assuré social. ]<sup>1</sup>
+
+(NOTE : par son arrêt n° 44/2019 du 14-03-2019 (M.B. 04-04-2019, p. 33193), la Cour constitutionnelle a annulé l'article 46bis/1, §3)
+
+----------
+
+(1)&lt;Inséré par L 2017-05-17/29, art. 2, 091; En vigueur : 01-09-2017&gt;
+
+(2)&lt;L 2022-12-06/02, art. 9, 114; En vigueur : 31-12-2022&gt;
+
+(3)&lt;L 2026-03-11/03, art. 55, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 46ter**
+
+&lt;Inséré par L 2003-01-06/34, art. 6; En vigueur : 22-05-2003&gt; § 1er. Dans le cadre de la recherche des [<sup>2</sup> infractions]<sup>2</sup>, le procureur du Roi peut intercepter et saisir le courrier confié à un opérateur postal, destiné à, provenant de ou concernant un suspect, s'il existe des indices sérieux que les infractions peuvent donner lieu à [<sup>2</sup> une peine de niveau 2]<sup>2</sup> ou à une peine plus lourde.
+
+Si cette mesure s'inscrit dans le cadre d'une recherche proactive visée à l'article 28bis, § 2, le procureur du Roi vérifie s'il est satisfait aux conditions spécifiques visées audit article.
+
+Si le procureur du Roi estime ne pas devoir maintenir la saisie, il rend sans délai les pièces à l'opérateur postal pour envoi. Dans le cas contraire, il est procédé conformément aux dispositions des articles 35 à 39.
+
+[La notion de " courrier " au sens du présent article s'entend ainsi qu'elle est définie à l'article 131, 6°, 7° et 11°, de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques.] &lt;L 2005-12-27/34, art. 4, 046; En vigueur : 30-12-2005&gt;
+
+§ 2. Le procureur du Roi peut, par une décision écrite et motivée, requérir le concours de l'opérateur postal afin de permettre les mesures visées au § 1er. L'opérateur postal est tenu de prêter son concours sans délai.
+
+II précise dans sa décision la durée de la mesure visée au paragraphe précédent.
+
+Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours, est tenue de garder le secret. Toute violation du secret est punie conformément à [<sup>2</sup> l'article 352]<sup>2</sup> du Code pénal.
+
+Toute personne qui refuse de prêter son concours aux réquisitions visées au présent article, est punie [<sup>1</sup> [<sup>2</sup> conformément aux articles 655 et 656 du Code pénal.]<sup>2</sup>]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2022-12-06/02, art. 10, 114; En vigueur : 31-12-2022&gt;
+
+(2)&lt;L 2026-03-11/03, art. 56, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 46quater**
+
+[<sup>1</sup> § 1. En recherchant les [<sup>4</sup> infractions]<sup>4</sup>, le procureur du Roi peut requérir, s'il existe des indices sérieux que les infractions peuvent donner lieu à une peine [<sup>4</sup> de niveau 2]<sup>4</sup> ou à une peine plus lourde, les informations nécessaires relative aux produits, services et transactions de nature financière et aux valeurs virtuelles concernant le suspect, auprès :
+
+1° des personnes et institutions visées à l'article 5, § 1er, 3° à 22° de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces;
+
+2° des personnes et institutions qui, sur le territoire belge, mettent à disposition ou proposent des services en lien avec des valeurs virtuelles permettant d'échanger des moyens de payement réglementés en valeurs virtuelles;
+
+§ 2. [<sup>2</sup> Afin de permettre les mesures visées au paragraphe 1er, le procureur du Roi peut, par sollicitation spécifique et motivée, demander des informations au point de contact central tenu par la Banque nationale de Belgique conformément à la loi du 8 juillet 2018 portant organisation d'un point de contact central des comptes et contrats financiers et portant extension de l'accès au fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt.]<sup>2</sup>
+
+§ 3. Lorsque les nécessités de l'information l'exigent, le procureur du Roi peut en outre requérir que :
+
+1° pendant une période renouvelable d'au maximum deux mois, les transactions du suspect seront observées;
+
+2° l'institution ou la personne interrogée ne pourra plus se dessaisir des créances et engagements concernant les produits, les services, les transactions et les valeurs visées au paragraphe 1er pour une période qu'il détermine, mais qui ne peut excéder la période allant du moment où la personne ou l'institution prend connaissance de sa requête à cinq jours ouvrables après la notification des données visées par cette personne ou institution.
+
+La mesure visée à l'alinéa 1er, 2°, ne peut être requise que si des circonstances graves et exceptionnelles le justifient et uniquement si les recherches portent sur des [<sup>4</sup> infractions visées]<sup>4</sup> à l'article 90ter, §§ 2 à 4.
+
+§ 4. Le procureur du Roi peut, sur décision écrite et motivée, requérir le concours des personnes et institutions visées au paragraphe 1er. L'institution ou la personne interrogée est tenue de coopérer immédiatement. Dans sa décision, le procureur du Roi décrit précisément les renseignements qu'il réclame et la forme employée pour lui communiquer ces informations.
+
+Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours est tenue de garder le secret. Toute violation du secret est punie conformément à [<sup>4</sup> l'article 352]<sup>4</sup> du Code pénal.
+
+Toute personne qui refuse de communiquer les données ou qui ne les communique pas en temps réel ou, le cas échéant, au moment précisé dans la réquisition, est punie [<sup>3</sup> [<sup>4</sup> conformément aux articles 655 et 656 du Code pénal]<sup>4</sup>]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-05/10, art. 8, 102; En vigueur : 03-06-2019&gt;
+
+(2)&lt;L 2021-11-28/01, art. 5, 111; En vigueur : 10-12-2021&gt;
+
+(3)&lt;L 2022-12-06/02, art. 11, 114; En vigueur : 31-12-2022&gt;
+
+(4)&lt;L 2026-03-11/03, art. 57, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 46quinquies**
+
+&lt;inséré par L 2005-12-27/34, art. 6 ; En vigueur : 30-12-2005&gt; § 1er. Sans préjudice de l'article 89ter, le procureur du Roi peut, par une décision écrite et motivée, autoriser les services de police à pénétrer à tout moment dans un lieu privé [<sup>1</sup> et à ouvrir les objets fermés se trouvant dans ce lieu,]<sup>1</sup> à l'insu du propriétaire ou de son ayant droit ou sans le consentement de ceux-ci, s'il existe des indices sérieux que les faits punissables constituent ou constitueraient une infraction visée à l'article 90ter, §§ 2 à 4, ou sont commis ou seraient commis dans le cadre d'une organisation criminelle visée [<sup>2</sup> à l'article 406]<sup>2</sup> du Code pénal, et si les autres moyens d'investigation ne semblent pas suffire à la manifestation de la vérité.
+
+Au sens du présent article, on entend par " lieu privé ", le lieu qui n'est manifestement pas :
+
+\- un domicile;
+
+\- une dépendance propre y enclose d'un domicile [<sup>2</sup> ...]<sup>2</sup>;
+
+\- un local utilisé à des fins professionnelles ou la résidence d'un avocat ou d'un médecin, visés à l'article 56bis, alinéa 3.
+
+En cas d'urgence, la décision visée à l'alinéa 1er, peut être communiquée verbalement. En pareil cas, la décision doit être motivée et confirmée par écrit dans les plus brefs délais.
+
+Si la décision visée à l'alinéa 1er est prise dans le cadre de l'application de méthodes particulières de recherche visées aux articles 47ter à 47decies, la décision et tous les procès-verbaux y afférents sont joints au dossier répressif au plus tard après qu'il a été mis fin à la méthode particulière de recherche.
+
+§ 2. La [<sup>1</sup> pénétration du lieu privé visé au paragraphe 1er, et l'ouverture des objets fermés se trouvant sur ce lieu,]<sup>1</sup> peut uniquement avoir lieu aux fins :
+
+1° d'inspecter ce lieu et de s'assurer de la présence éventuelle de choses qui forment l'objet d'une infraction, qui ont servi ou qui sont destinées à en commettre une ou qui ont été produites par une infraction, des avantages patrimoniaux tirés directement de l'infraction, des biens et valeurs qui leur ont été substitués et des revenus de ces avantages investis;
+
+2° de réunir les preuves de la présence des choses visées au 1°;
+
+3° [<sup>1</sup> d'installer, de réparer ou de retirer dans le cadre d'une observation]<sup>1</sup> un moyen technique visé à l'article 47sexies, § 1er, alinéa 3.
+
+[<sup>1</sup> 4° de replacer les objets emportés conformément au paragraphe 5.]<sup>1</sup>
+
+§ 3. Le procureur du Roi ne peut décider d'un contrôle visuel discret que pour des lieux où, sur la base d'indications précises, on suppose que se trouvent les choses visées au § 2, 1°, que des preuves peuvent en être collectées ou dont on suppose qu'ils sont utilisés par des personnes suspectes.
+
+§ 4. L'utilisation de moyens techniques aux fins visées au § 2, est assimilée à une pénétration dans un lieu privé vise au § 1er.
+
+[<sup>1</sup> § 5. Si l'examen d'un objet visé au paragraphe 1er ne peut se faire sur place et si l'information ne peut être obtenue d'une autre manière, le service de police est autorisé à emporter cet objet pour une durée strictement limitée. L'objet en question est remis en place dans les plus brefs délais, à moins que cela n'entrave le bon déroulement de l'enquête.
+
+§ 6. Dans le cadre de la mesure visée au paragraphe 1er, la pénétration dans un système informatique n'est possible qu'aux fins visées au paragraphe 2, 3°.
+
+§ 7. L'officier de police judiciaire qui dirige l'exécution de la mesure visé au paragraphe 1er ou à l'article 89ter, § 1er, rédige un procès-verbal du cours de la mesure. Lorsque des objets fermés sont ouverts ou qu'il est fait application du paragraphe 5 durant l'exécution de la mesure, il en est fait mention dans le procès-verbal. Le procès-verbal est joint au dossier répressif au plus tard après qu'il a été mis fin à la mesure.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/37, art. 6, 088; En vigueur : 27-01-2017&gt;
+
+(2)&lt;L 2026-03-11/03, art. 58, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 46sexies**
+
+[<sup>1</sup> § 1er. Dans la recherche des [<sup>2</sup> infractions]<sup>2</sup>, si les nécessités de l'enquête l'exigent et que les autres moyens d'investigation ne semblent pas suffire à la manifestation de la vérité, le procureur du Roi peut autoriser les services de police visés à l'alinéa 2 à entretenir, le cas échéant sous une identité fictive, des contacts sur Internet avec une ou plusieurs personnes concernant lesquelles il existe des indices sérieux qu'elles commettent ou commettraient des infractions pouvant donner lieu à [<sup>2</sup> une peine de niveau 2]<sup>2</sup> ou à une peine plus lourde.
+
+Le Roi détermine les conditions, y compris pour ce qui concerne la formation, et les modalités de désignation des services de police habilités à exécuter la mesure visée au présent article.
+
+Dans des circonstances exceptionnelles et moyennant l'autorisation expresse du procureur du Roi, le fonctionnaire des services de police visés à l'alinéa 2 peut, dans le cadre d'une opération déterminée, recourir momentanément à l'expertise d'une personne qui ne fait pas partie des services de police si cela s'avère strictement nécessaire à la réussite de sa mission. L'autorisation et l'identité de cette personne sont conservées dans le dossier visé au paragraphe 3, alinéa 7.
+
+Le présent article ne s'applique pas à l'interaction personnelle de fonctionnaires de police, dans l'exercice de leurs missions de police judiciaire, avec une ou plusieurs personnes sur Internet, qui n'a pour finalité directe qu'une vérification ciblée ou une arrestation, et ceci sans utiliser d'identité fictive crédible.
+
+§ 2. La mesure visée au § 1er est ordonnée par le procureur du Roi par une autorisation écrite et motivée préalable. Cette autorisation est valable pour une période de trois mois, sous réserve de renouvellement.
+
+En cas d'urgence, l'autorisation peut être donnée verbalement. Elle doit être confirmée dans les plus brefs délais dans la forme prévue à l'alinéa 1er.
+
+§ 3. Sont exemptés de peine, les fonctionnaires de police qui, dans le cadre de leur mission et en vue de la réussite de celle-ci ou afin de garantir leur propre sécurité ou celle d'autres personnes concernées par la mesure, commettent des infractions strictement nécessaires, ce avec l'accord exprès du procureur du Roi.
+
+Ces infractions ne peuvent être plus graves que celles pour lesquelles la mesure est utilisée et doivent nécessairement être proportionnelles à l'objectif visé.
+
+Les alinéas 1er et 2 sont également d'application aux personnes qui ont fourni directement une aide ou une assistance nécessaire à l'exécution de cette mission ainsi qu'aux personnes visées au § 1er, alinéa 3.
+
+Le magistrat qui autorise, dans le respect du présent Code, un fonctionnaire de police et la personne visée à l'alinéa 3 à commettre des infractions dans le cadre de l'exécution de la mesure, n'encourt aucune peine.
+
+Les fonctionnaires de police communiquent, par écrit et préalablement à l'exécution de la mesure, au procureur du Roi les infractions qu'eux-mêmes ou les personnes visées à l'alinéa 3 ont l'intention de commettre.
+
+Si cette notification préalable n'a pas pu avoir lieu, les fonctionnaires de police informent sans délai le procureur du Roi des infractions qu'eux-mêmes ou les personnes visées à l'alinéa 3 ont commises et en donnent ensuite confirmation par écrit.
+
+Le procureur du Roi indique dans une décision écrite séparée les infractions pouvant être commises par les services de police et les personnes visées à l'alinéa 3 dans le cadre de la mesure qu'il a ordonnée. Cette décision est conservée dans un dossier séparé et confidentiel. Il est le seul à avoir accès à ce dossier, sans préjudice du droit de consultation du juge d'instruction et de la chambre des mises en accusation visé respectivement à l'article 56bis et aux articles 235ter, § 3, et 235quater, § 3. Le contenu de ce dossier est couvert par le secret professionnel.
+
+§ 4. L'officier de police judiciaire chargé de l'enquête rédige le procès-verbal des différentes phases de l'exécution de cette mesure, y compris les contacts pertinents. Ces procès-verbaux sont joints au dossier au plus tard après la fin de la mesure.
+
+Les contacts visés au paragraphe 1er sont enregistrés avec les moyens techniques appropriés et joints au dossier ou déposés au greffe, sous forme numérique ou non, au plus tard après la fin de la mesure.
+
+§ 5. Le procureur du Roi est chargé de l'exécution des autorisations de la mesure visée au § 1er, alinéa 1er, accordées par le juge d'instruction dans le cadre d'une instruction, conformément à l'article 56bis.
+
+Le procureur du Roi indique à ce moment dans une décision écrite séparée les infractions pouvant être commises par les services de police et les personnes visées au § 3, alinéa 3, dans le cadre de la mesure ordonnée par le juge d'instruction. Cette décision est conservée dans le dossier visé au § 3, alinéa 7.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-25/37, art. 7, 088; En vigueur : 27-01-2017&gt;
+
+(2)&lt;L 2026-03-11/03, art. 59, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 46septies**
+
+[<sup>1</sup> § 1er. En recherchant les [<sup>2</sup> infractions visées]<sup>2</sup> à l'article 8 de la loi du 25 décembre 2016 relative au traitement des données des passagers, le procureur du Roi, par une décision écrite et motivée de recherche ponctuelle et, sauf en cas d'extrême urgence, après autorisation préalable par le juge d'instruction, peut lui-même ou par ordonnance à un officier de police judiciaire requérir l'Unité d'information des passagers de communiquer les données des passagers conformément à l'article 27 de la loi du 25 décembre 2016 relative au traitement des données des passagers.
+
+§ 2. Aux fins de l'autorisation visée au paragraphe 1er, le procureur du Roi transmet sa décision au juge d'instruction. Le juge d'instruction vérifie seulement si la décision satisfait aux conditions de la proportionnalité et de la subsidiarité, à la finalité visée à l'article 8 de la loi du 25 décembre 2016 relative au traitement des données des passagers et si les faits présentent un lien objectif, à tout le moins indirect, avec le moyen de transport concerné. Ensuite, le juge d'instruction transmet sans délai son autorisation au procureur du Roi.
+
+§ 3. En cas d'extrême urgence, chaque officier de police judiciaire, après l'accord oral et préalable du procureur du Roi, par une décision écrite et motivée, peut requérir du fonctionnaire dirigeant de l'Unité d'information des passagers la communication des données des passagers visées au paragraphe 1er. L'officier de police judiciaire communique sa décision ainsi que les informations recueillies sans délai et au plus tard dans les 24 heures au procureur du Roi et motive par ailleurs l'extrême urgence.
+
+§ 4. Aux mêmes fins visées au paragraphe 1er, le procureur du Roi peut requérir de l'Unité d'information des passagers qu'elle procède à une évaluation préalable, conformément à l'article 24, § 2, 1°, de la loi du 25 décembre 2016 relative au traitement des données des passagers. Cette mesure d'évaluation préalable peut porter sur un ensemble de données relatives à une enquête spécifique. Dans ce cas, le procureur du Roi précise la durée de la mesure qui ne peut excéder un mois à dater de la décision, sans préjudice de renouvellement.
+
+En cas d'extrême urgence, tout officier de police judiciaire, après l'accord oral et préalable du procureur du Roi, et par une décision écrite et motivée, peut à cet effet requérir le fonctionnaire dirigeant de l'Unité d'information des passagers. L'officier de police judiciaire communique sans délai et au plus tard dans les 24 heures sa décision au procureur du Roi et motive par ailleurs l'extrême urgence.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-16/57, art. 15, 126; En vigueur : 15-07-2024&gt;
+
+(2)&lt;L 2026-03-11/03, art. 60, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 47**
+
+Hors le cas énoncés dans [les articles 32, 46 et 46bis], le [procureur du Roi], instruit, soit par une dénonciation, soit par toute autre voie, qu'il a été commis dans son arrondissement [<sup>1</sup> une infraction]<sup>1</sup>, ou qu'une personne qui est [inculpée d'[<sup>1</sup> une infraction]<sup>1</sup>] se trouve dans son arrondissement, [pourra] requérir le juge d'instruction d'ordonner qu'il en soit informé, même de se transporter, s'il en est besoin, sur les lieux, à l'effet d'y dresser tous les procès-verbaux nécessaires, ainsi qu'il sera dit au chapitre des Juges d'instruction. &lt;L 10-07-1967, art. 1, 36°&gt; &lt;L 1998-03-12/39, art. 7, 016 ; En vigueur : 1998-10-02&gt; &lt;L 1998-06-10/96, art. 3, 017; En vigueur : 02-10-1998&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 61, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 47bis**
+
+[<sup>1</sup> § 1er. Avant qu'il ne soit procédé à l'audition d'une personne à laquelle aucune infraction n'est imputée, la personne à interroger est informée succinctement des faits à propos desquels elle sera entendue et il lui est communiqué:
+
+1\) qu'elle ne peut être contrainte de s'accuser elle-même;
+
+2\) que ses déclarations peuvent être utilisées comme preuve en justice;
+
+3\) qu'elle peut demander que toutes les questions qui lui sont posées et les réponses qu'elle donne soient actées dans les termes utilisés;
+
+4\) qu'elle peut demander qu'il soit procédé à un acte d'information ou une audition déterminés;
+
+5\) qu'elle peut utiliser les documents en sa possession, sans que cela puisse entraîner le report de l'interrogatoire, et qu'elle peut, lors de l'interrogatoire ou ultérieurement, demander que ces documents soient joints au procès-verbal d'audition ou au dossier.
+
+Tous ces éléments sont consignés avec précision dans un procès-verbal.
+
+§ 2. Avant qu'il ne soit procédé à l'audition d'un suspect, la personne à interroger est informée succinctement des faits à propos desquels elle sera entendue et il lui est communiqué:
+
+1\) qu'elle va être auditionnée en qualité de suspect et qu'elle a le droit, préalablement à l'audition, de se concerter confidentiellement avec un avocat de son choix ou avec un avocat qui lui est désigné, et qu'elle a la possibilité de se faire assister par lui pendant l'audition, pour autant que les faits qui peuvent lui être imputés concernent une infraction qui est punissable d'une peine privative de liberté; et, dans le cas où elle n'est pas privée de sa liberté, qu'elle doit prendre elle-même les mesures nécessaires pour se faire assister;
+
+2\) qu'elle a le choix, après avoir décliné son identité, de faire une déclaration, de répondre aux questions qui lui sont posées ou de se taire;
+
+3\) qu'elle ne peut être contrainte de s'accuser elle-même;
+
+4\) que ses déclarations peuvent être utilisées comme preuve en justice;
+
+5\) qu'elle peut demander que toutes les questions qui lui sont posées et les réponses qu'elle donne soient actées dans les termes utilisés;
+
+6\) le cas échéant: qu'elle n'est pas privée de sa liberté et qu'elle peut aller et venir à tout moment;
+
+7\) qu'elle peut demander qu'il soit procédé à un acte d'information ou une audition déterminés;
+
+8\) qu'elle peut utiliser les documents en sa possession, sans que cela puisse entraîner le report de l'interrogatoire, et qu'elle peut, lors de l'interrogatoire ou ultérieurement, demander que ces documents soient joints au procès-verbal d'audition ou au dossier;
+
+[<sup>2</sup> 9) qu'elle a le droit d'obtenir gratuitement l'interprétation et la traduction, dans une langue qu'elle comprend, des passages pertinents, le cas échéant, du mandat d'arrêt ou du mandat d'arrêt européen, de la citation et de la décision judiciaire, dans un délai raisonnable, si elle ne comprend pas la langue de la procédure.]<sup>2</sup>
+
+[<sup>2</sup> Avant qu'il ne soit procédé à l'audition d'un suspect qui ne parle pas ou ne comprend pas la langue de la procédure, y compris le suspect souffrant de troubles de la parole et de l'audition, il est demandé à celui-ci, préalablement à la première audition, dans quelle langue, qu'il comprend, il souhaite être assisté d'un interprète pour la suite de la procédure et obtenir la traduction des passages pertinents, le cas échéant, du mandat d'arrêt ou du mandat d'arrêt européen, de la citation et de la décision judiciaire.]<sup>2</sup>
+
+§ 3. Si l'audition d'un suspect majeur a lieu sur convocation écrite, les droits visés au paragraphe 2, ainsi que la communication succincte des faits à propos desquels la personne à interroger sera entendue, peuvent déjà être notifiés dans cette convocation, laquelle est jointe en copie au procès-verbal d'audition. Dans ce cas, la convocation a valeur de communication des droits visés au paragraphe 2 et la personne concernée est présumée s'être concertée confidentiellement avec un avocat et avoir pris les mesures nécessaires pour se faire assister par lui pendant l'audition. Si la personne concernée ne se fait pas assister par un avocat, les droits visés au paragraphe 2, 2) et 3), lui sont de toute façon rappelés avant le début de l'audition.
+
+[<sup>2</sup> Si l'audition visée à l'alinéa 1er concerne un mineur qui se présente sans avocat à ladite audition, contact est pris avec la permanence organisée par l'Ordre des barreaux francophones et germanophone et l'Orde van Vlaamse balies ou, à défaut, par le bâtonnier de l'Ordre ou son délégué, afin que l'avocat choisi par ce mineur ou un autre avocat puisse être contacté et que ce mineur se fasse assister par cet avocat pendant l'audition. L'audition ne peut avoir lieu qu'après une concertation confidentielle entre le mineur et un avocat, soit dans les locaux de la police, soit par téléphone. L'audition du mineur ne peut avoir lieu qu'en présence de son avocat.]<sup>2</sup>
+
+Si l'audition d'un suspect majeur n'a pas lieu sur convocation ou si la convocation ne mentionne pas les éléments visés au paragraphe 2, la personne concernée est informée de ces éléments et l'audition peut être reportée une seule fois à la demande de la personne à interroger, afin de lui donner la possibilité d'exercer ses droits visés au paragraphe 2, 1). Dans ce cas, une date est fixée pour l'audition à laquelle s'applique l'alinéa 1er. La personne majeure à interroger peut renoncer volontairement et de manière réfléchie aux droits visés au paragraphe 2, alinéa 1er, 1). Elle doit procéder à la renonciation par écrit, dans un document daté et signé par elle, dans lequel les informations nécessaires lui sont fournies sur les conséquences éventuelles d'une renonciation au droit à l'assistance d'un avocat.
+
+La personne concernée est informée qu'elle peut révoquer sa renonciation.
+
+Si l'audition visée à l'alinéa 3 concerne un mineur, [<sup>2</sup> l'alinéa 2 s'applique]<sup>2</sup>. Si l'avocat, en accord avec le mineur, le demande, l'audition est reportée une seule fois afin que le mineur puisse consulter un avocat et être assisté par lui pendant l'audition.
+
+Tous les éléments énoncés dans le présent paragraphe sont consignés avec précision dans un procès-verbal.
+
+§ 4. Sans préjudice du paragraphe 2, toute personne privée de sa liberté conformément aux articles 1er, 2, 3 [<sup>2</sup> ...]<sup>2</sup> et 16 de la loi du 20 juillet 1990 relative à la détention préventive est informée qu'elle jouit des droits énoncés aux articles 2bis [<sup>2</sup> ...]<sup>2</sup>, 16 et 20, § 1er, de la même loi.
+
+§ 5. Une déclaration écrite des droits visés aux paragraphes 2 et 4 est sans retard indu remise à la personne visée aux paragraphes 2 et 4 avant la première audition.
+
+La forme et le fond de cette déclaration des droits sont déterminés par le Roi.
+
+§ 6. Les dispositions suivantes s'appliquent à toutes les auditions:
+
+1\) Le procès-verbal mentionne avec précision l'heure à laquelle l'audition prend cours, est éventuellement interrompue, reprend, et prend fin. Il mentionne avec précision l'identité des personnes qui interviennent à l'audition ou à une partie de celle-ci ainsi que le moment de leur arrivée et de leur départ. Il mentionne également les circonstances particulières et tout ce qui peut éclairer d'un jour particulier la déclaration ou les circonstances dans lesquelles elle a été faite.
+
+2\) La formulation de la communication des droits visés aux paragraphes 1er, 2 et 4 est adaptée en fonction de l'âge de la personne ou en fonction d'une vulnérabilité éventuelle qui affecte sa capacité de comprendre ces droits.
+
+Ceci est mentionné dans le procès-verbal d'audition.
+
+3\) A la fin de l'audition, le texte de l'audition est donné en lecture à la personne interrogée, à moins que celle-ci ne demande que lecture lui en soit faite. Il lui est demandé si ses déclarations ne doivent pas être corrigées ou complétées. Cette disposition est également d'application à l'audition audio filmée, conformément à l'article 2bis, § 3, de la loi du 20 juillet 1990 relative à la détention préventive.
+
+4\) Si une personne interrogée en qualité de victime ou de suspect ne comprend pas ou ne parle pas la langue de la procédure ou souffre de troubles de l'audition ou de la parole, il est fait appel à un interprète assermenté durant l'audition. Si aucun interprète assermenté n'est disponible, il est demandé à la personne interrogée de noter elle-même sa déclaration.
+
+Si une personne entendue dans une autre qualité que celle de victime ou de suspect ne comprend pas ou ne parle pas la langue de la procédure ou souffre de troubles de l'audition ou de la parole, soit il est fait appel à un interprète assermenté, soit ses déclarations sont notées dans sa langue, soit il lui est demandé de noter elle-même sa déclaration.
+
+[<sup>3</sup> Dans le cas où l'interprète assermenté est dans l'impossibilité de se déplacer, cette assistance peut également se faire par des moyens de télécommunication. L'organisation et le déroulement de l'assistance par des moyens de télécommunication doivent être tels que les droits de la défense de la personne interrogée sont garantis.]<sup>3</sup>
+
+Lorsqu'il y a interprétation, le procès-verbal mentionne l'assistance d'un interprète assermenté ainsi que son nom et sa qualité [<sup>3</sup> et la manière dont cette assistance a été donnée]<sup>3</sup>. Les frais de l'interprétation sont à charge de l'Etat.
+
+5\) Si, au cours de l'audition d'une personne qui n'était initialement pas auditionnée comme un suspect, il s'avère que certains éléments laissent présumer que des faits peuvent lui être imputés, cette personne est informée des droits dont elle jouit en vertu du paragraphe 2 et, le cas échéant du paragraphe 4, et la déclaration écrite visée au paragraphe 5 lui est remise.
+
+6\) L'audition est dirigée par la personne qui procède à l'audition. Celle-ci informe de manière succincte l'avocat des faits sur lesquels porte l'audition.
+
+7\) [<sup>2</sup> ...]<sup>2</sup>
+
+L'assistance de l'avocat pendant l'audition a pour objet de permettre un contrôle:
+
+a) du respect du droit de la personne interrogée de ne pas s'accuser elle-même, ainsi que de sa liberté de choisir de faire une déclaration, de répondre aux questions qui lui sont posées ou de se taire;
+
+b) du traitement réservé à la personne interrogée durant l'audition, en particulier de l'exercice manifeste de pressions ou contraintes illicites;
+
+c) de la notification des droits de la défense visés au paragraphe 2, et le cas échéant au paragraphe 4, et de la régularité de l'audition.
+
+L'avocat peut faire mentionner sur la feuille d'audition les violations des droits visés aux a), b) et c), qu'il estime avoir observées. L'avocat peut demander qu'il soit procédé à tel acte d'information ou à telle audition. Il peut demander des clarifications sur des questions qui sont posées. Il peut formuler des observations sur l'enquête et sur l'audition. Il ne lui est toutefois pas permis de répondre à la place du suspect ou d'entraver le déroulement de l'audition.
+
+Tous ces éléments sont consignés avec précision dans le procès-verbal d'audition.
+
+8\) Sans préjudice des droits de la défense, l'avocat est tenu de garder secrètes les informations dont il acquiert la connaissance en apportant son assistance pendant les auditions effectuées au cours de l'information ou de l'instruction et en apportant son assistance lors des confrontations et des séances d'identification des suspects. Celui qui viole ce secret est puni des peines prévues à [<sup>4</sup> l'article 669]<sup>4</sup> du Code pénal.
+
+9\) Aucune condamnation ne peut être prononcée contre une personne sur le fondement de déclarations qu'elle a faites en violation des paragraphes 2, 3, 4 et le 5), à l'exclusion du paragraphe 5, en ce qui concerne la concertation confidentielle préalable ou l'assistance d'un avocat au cours de l'audition, ou en violation des articles 2bis [<sup>2</sup> ...]<sup>2</sup>, 20, § 1er, et 24bis/1 de la loi du 20 juillet 1990 relative à la détention préventive en ce qui concerne la concertation confidentielle préalable ou l'assistance d'un avocat au cours de l'audition.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-11-21/02, art. 3, 086; En vigueur : 27-11-2016&gt;
+
+(2)&lt;L 2024-04-25/24, art. 3, 125; En vigueur : 27-06-2024&gt;
+
+(3)&lt;L 2024-04-25/20, art. 15, 127; En vigueur : 01-09-2024&gt;
+
+(4)&lt;L 2026-03-11/03, art. 62, 130; En vigueur : 01-09-2026&gt;
+
+#### Section III. - &lt;Insérée par L 2003-01-06/34, art. 4; En vigueur : 22-05-2003&gt; Des méthodes particulières de recherche.
+
+##### Sous-Section 1ère. - &lt;Insérée par L 2003-01-06/34, art. 4; En vigueur : 22-05-2003&gt; Définition de la notion.
+
+**Art. 47ter**
+
+&lt;L 2003-01-06/34, art. 4, 038; En vigueur : 22-05-2003&gt; § 1er. [Les méthodes particulières de recherche sont l'observation, [<sup>1</sup> "l'infiltration, l'infiltration civile et le recours aux indicateurs]<sup>1</sup>.
+
+Ces méthodes sont mises en oeuvre, dans le cadre d'une information ou d'une instruction, par les services de police désignés par le ministre de la Justice, sous le contrôle du ministère public et sans préjudice des articles 28bis, §§ 1er et 2, 55 et 56, § 1er, et 56bis, en vue de poursuivre les auteurs d'infractions, de rechercher, de collecter, d'enregistrer et de traiter des données et des informations sur la base d'indices sérieux que des faits punissables vont être commis ou ont déjà été commis, qu'ils soient connus ou non.
+
+Ces méthodes pourront également être mises en oeuvre, aux mêmes conditions, que celles qui sont prévues pour l'observation, l'infiltration et le recours aux indicateurs, dans le cadre de l'exécution de peines ou de mesures privatives de liberté, lorsque la personne s'est soustraite à leur exécution.] &lt;L 2005-12-27/34, art. 7, 046; En vigueur : 30-12-2005&gt;
+
+§ 2. Le procureur du Roi exerce un contrôle permanent sur la mise en oeuvre des méthodes particulières de recherche par les services de police au sein de son arrondissement judiciaire.
+
+Le procureur du Roi informe le procureur fédéral des méthodes particulières de recherche mises en oeuvre au sein de son arrondissement judiciaire.
+
+Lorsque la mise en oeuvre des méthodes particulières de recherche s'étend sur plusieurs arrondissements judiciaires ou relève de la compétence du procureur fédéral, les procureurs du Roi compétents et le procureur fédéral s'informent, mutuellement et sans délai, et prennent toutes les mesures nécessaires afin de garantir le bon déroulement des opérations.
+
+Au sein de chaque [direction judiciaire déconcentrée, visée] à l'article 105 de la loi du 7 décembre 1998 organisant un service de police intégré structuré à deux niveaux, un officier est chargé du contrôle permanent des méthodes particulières de recherche dans l'arrondissement. Cet officier est désigné par le directeur général de la police judiciaire de la police fédérale sur proposition du directeur judiciaire et sur avis du procureur du Roi. II peut se faire assister dans l'exécution de cette tâche par un ou plusieurs officiers désignés selon la même procédure. &lt;L 2006-06-20/34, art. 48, 047; En vigueur : 01-03-2007&gt;
+
+(NOTE : par son arrêt n° 105/2007 du 19-07-2007 (M.B. 13-08-2007, p. 42955-42967), la Cour Constitutionnelle a annulé l'article 47ter, § 1er, alinéa 3)
+
+----------
+
+(1)&lt;L 2018-07-22/04, art. 2, 099; En vigueur : 17-08-2018&gt;
+
+##### Sous-section 2. - &lt;Insérée par L 2003-01-06/34, art. 4; En vigueur : 22-05-2003&gt; Des conditions générales pour l'usage des méthodes particulières de recherche.
+
+**Art. 47quater**
+
+&lt;Inséré par L 2003-01-06/34, art. 4; En vigueur : 22-05-2003&gt; Dans le cadre de l'exécution d'une méthode particulière de recherche, un fonctionnaire de police ne peut amener un suspect à commettre d'autres infractions que celles qu'il avait l'intention de commettre.
+
+En cas d'infraction à l'alinéa précédent, l'irrecevabilité de l'action publique est prononcée pour ces faits.
+
+(NOTE : par son arrêt n° 202/2004 du 21-12-2004 (M.B. 06-01-2005, p. 377-378), la Cour d'Arbitrage a annulé cet article)
+
+**Art. 47quinquies**
+
+&lt;L 2003-01-06/34, art. 4; En vigueur : 22-05-2003&gt; § 1er. Sans préjudice des dispositions du § 2, il est interdit au fonctionnaire de police chargé d'exécuter des méthodes particulières de recherche de commettre des infractions dans le cadre de sa mission.
+
+§ 2. Sont exemptés de peine les fonctionnaires de police qui, dans le cadre de leur mission et en vue de la réussite de celle-ci ou afin de garantir leur propre sécurité ou celle d'autres personnes impliquées dans l'opération, commettent des infractions absolument nécessaires, ce avec l'accord exprès du procureur du Roi.
+
+Ces infractions ne peuvent être plus graves que les infractions pour lesquelles les méthodes sont mises en oeuvre et doivent être nécessairement proportionnelles à l'objectif visé.
+
+[Les alinéas 1er et 2 s'appliquent également aux personnes qui ont fourni directement une aide ou une assistance nécessaire à l'exécution de cette mission, ainsi qu'aux personnes visées à l'article 47octies, § 1er, alinéa 2.] &lt;L 2005-12-27/34, art. 8, 1°, 046; En vigueur : 30-12-2005&gt;
+
+Le magistrat qui autorise, dans le respect du présent code, un fonctionnaire de police [et les personnes visées à l'alinéa 3] à commettre des infractions dans le cadre de l'exécution d'une méthode particulière de recherche, n'encourt aucune peine. &lt;L 2005-12-27/34, art. 8, 2°, 046; En vigueur : 30-12-2005&gt;
+
+§ 3. [Les fonctionnaires de police communiquent au procureur du Roi, par écrit et préalablement à l'exécution des méthodes particulières de recherche, les infractions visées au § 2 qu'eux-mêmes ou les personnes visées au § 2, alinéa 3, ont l'intention de commettre.
+
+Si cette communication préalable n'a pas pu avoir lieu, les fonctionnaires de police informent sans délai le procureur du Roi des infractions qu'eux-mêmes ou les personnes visées au § 2, alinéa 3, ont commises et en donnent ensuite confirmation par écrit.] &lt;L 2005-12-27/34, art. 8, 3°, 046; En vigueur : 30-12-2005&gt;
+
+§ 4. Le Ministre de la Justice et le Ministre de l'Intérieur prennent, sur la proposition commune du procureur fédéral [<sup>2</sup> et du procureur général chargé des méthodes particulières de recherche au sein du collège des procureurs généraux]<sup>2</sup>, les mesures spécifiques absolument nécessaires en vue de garantir à tout moment la protection de l'identité et la sécurité des fonctionnaires de police chargés d'exécuter des méthodes particulières de recherche dans la préparation et l'exécution de leurs missions. II ne peut y avoir d'infraction quand des faits sont commis dans ce cadre.
+
+[<sup>1</sup> § 5. Sont exemptés de peines les fonctionnaires de police de la direction des unités spéciales de la police fédérale qui, dans le cadre de leur formation et en vue de pouvoir exécuter la méthode particulière de recherche d'observation et d'infiltration, commettent des infractions absolument nécessaires visées à l'arrêté royal du 1er décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique.
+
+Ces infractions doivent nécessairement être proportionnelles à l'objectif visé par la formation, en veillant à user de la prudence que l'on est en droit d'attendre de services de polices spécialisés, en donnant toujours priorité à la sécurité routière et en prenant toutes précautions raisonnables afin qu'aucun dommage physique ou matériel ne soit causé à des tiers ou à soi-même.
+
+La commission de ces infractions exige un accord écrit et préalable du procureur fédéral. Cet accord reprend les jours et lieux où ces infractions pourraient, le cas échéant, être commises, de même que le véhicule utilisé par le service de police et son immatriculation.
+
+Le magistrat qui autorise un fonctionnaire de police visé à l'alinéa 1er à commettre des infractions dans le cadre de la formation visée dans cet article, n'encourt aucune peine.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 6, 074; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2018-07-22/04, art. 3, 099; En vigueur : 17-08-2018&gt;
+
+##### Sous-section 3. - &lt;Insérée par L 2003-01-06/34, art. 4; En vigueur : 22-05-2003&gt; De l'observation.
+
+**Art. 47sexies**
+
+&lt;Inséré par L 2003-01-06/34, art. 4; En vigueur : 22-05-2003&gt; § 1er. L'observation au sens du présent code est l'observation systématique, par un fonctionnaire de police, d'une ou de plusieurs personnes, de leur présence ou de leur comportement, ou de choses, de lieux ou d'événements déterminés.
+
+Une observation systématique au sens du présent code est une observation de plus de cinq jours consécutifs ou de plus de cinq jours non consécutifs répartis sur une période d'un mois, une observation dans le cadre de laquelle des moyens techniques sont utilisés, une observation revêtant un caractère international ou une observation exécutée par des unités spécialisées de la police fédérale.
+
+Un moyen technique au sens du présent code est une configuration de composants qui détecte des signaux, les transmet, active leur enregistrement et enregistre les signaux, à l'exception des moyens techniques utilisés en vue de l'exécution d'une mesure visée à l'article 90ter.
+
+[Un appareil utilisé pour la prise de photographies n'est considéré comme moyen technique au sens du présent Code que dans le cas visé à l'article 56bis, alinéa 2.] &lt;L 2005-12-27/34, art. 9, 1°, 046; En vigueur : 30-12-2005&gt;
+
+[<sup>2</sup> La technologie nécessaire pour l'utilisation d'un service à données de localisation ou d'un dispositif de localisation placé dans un véhicule, tel que visé à l'article 2.14 de l'arrêté royal du 1er décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique, en vue de le rechercher en cas de soustraction, n'est pas considérée comme un moyen technique au sens du présent code.]<sup>2</sup>
+
+§ 2. Le procureur du Roi peut, dans le cadre de l'information, autoriser une observation si les nécessités de l'enquête l'exigent et si les autres moyens d'investigation ne semblent pas suffire à la manifestation de la vérité.
+
+Une observation effectuée à l'aide de moyens techniques ne peut être autorisée que lorsqu'il existe des indices sérieux que les infractions sont de nature à entraîner [<sup>3</sup> une peine de niveau 2]<sup>3</sup> ou une peine plus lourde.
+
+§ 3. L'autorisation de procéder à l'observation est écrite et contient les mentions suivantes
+
+1° [<sup>1</sup> les indices sérieux de l'infraction qui justifient l'observation ou, si l'observation s'inscrit dans le cadre de l'enquête proactive définie à l'article 28bis, § 2, la suspicion raisonnable que des faits punissables vont être commis ou ont été commis mais ne sont pas encore connus, et les indices particuliers relatifs aux éléments décrits dans cette dernière disposition, qui justifient l'observation;]<sup>1</sup>
+
+2° les motifs pour lesquels l'observation est indispensable à la manifestation de la vérité;
+
+3° le nom ou, s'il n'est pas connu, une description aussi précise que possible de la ou des personnes observées, ainsi que des choses, des lieux ou des événements visés au § 1er;
+
+4° la manière dont l'observation sera exécutée, y compris la permission d'utiliser des moyens techniques dans les cas prévus au § 2, alinéa 2, et à l'article 56bis, alinéa 2. Dans ce dernier cas, l'autorisation du juge d'instruction mentionne l'adresse ou une localisation aussi précise que possible de l'habitation qui fait l'objet de l'observation;
+
+5° la période au cours de laquelle l'observation peut être exécutée et laquelle ne peut excéder [<sup>1</sup> trois mois]<sup>1</sup> à compter de la date de l'autorisation;
+
+6° le nom et la qualité de l'officier de police judiciaire qui dirige l'exécution de l'observation.
+
+§ 4. [Le procureur du Roi indique à ce moment dans une décision écrite séparée les infractions qui peuvent être commises par les services de police et les personnes visées à l'article 47quinquies, § 2, troisième alinéa, dans le cadre de l'observation.
+
+Cette décision est conservée dans le dossier visé à l'article 47septies, § 1er, alinéa 2.] &lt;L 2005-12-27/34, art. 9, 2°, 046; En vigueur : 30-12-2005&gt;
+
+§ 5. En cas d'urgence, l'autorisation d'observation peut être accordée verbalement. Cette autorisation doit être confirmée dans les plus brefs délais dans la forme prévue [<sup>1</sup> au paragraphe 3]<sup>1</sup>.
+
+§ 6. Le procureur du Roi peut à tout instant, de manière motivée, modifier, compléter ou prolonger son autorisation d'observation. II peut à tout moment retirer son autorisation. II vérifie si les conditions visées aux §§ 1er à 3, sont remplies chaque fois que son autorisation est modifiée, complétée ou prolongée et agit conformément au § 3, 1° à 6°.
+
+§ 7. Le procureur du Roi est chargé de l'exécution des autorisations d'observation accordées par le juge d'instruction dans le cadre d'une instruction, conformément à l'article 56bis.
+
+[Le procureur du Roi indique à ce moment dans une décision écrite séparée les infractions qui peuvent être commises par les services de police et les personnes visées à l'article 47quinquies, § 2, alinéa 3, dans le cadre de l'observation ordonnée par le juge d'instruction. Cette décision est conservée dans le dossier visé à l'article 47septies, § 1er, alinéa 2.] &lt;L 2005-12-27/34, art. 9, 3°, 046; En vigueur : 30-12-2005&gt;
+
+----------
+
+(1)&lt;L 2016-12-25/37, art. 8, 088; En vigueur : 27-01-2017&gt;
+
+(2)&lt;L 2023-12-19/08, art. 29, 117; En vigueur : 08-01-2024&gt;
+
+(3)&lt;L 2026-03-11/03, art. 63, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 47septies**
+
+&lt;L 2005-12-27/34, art. 10, 046; En vigueur : 30-12-2005&gt; § 1er. L'officier de police judiciaire visé à l'article 47sexies, § 3, 6°, fait rapport écrit de manière précise, complète et conforme à la vérité, au procureur du Roi sur chaque phase de l'exécution des observations qu'il dirige.
+
+Ces rapports confidentiels sont communiqués directement au procureur du Roi, qui les conserve dans un dossier séparé et confidentiel. II est le seul à avoir accès à ce dossier, sans préjudice du droit de consultation du juge d'instruction et de la chambre des mises en accusation, visé respectivement à l'article 56bis et aux articles 235ter, § 3, et 235quater, § 3. Le contenu de ce dossier est couvert par le secret professionnel.
+
+§ 2. L'autorisation d'observation et les décisions de modification, d'extension ou de prolongation sont jointes au dossier confidentiel.
+
+L'officier de police judiciaire visé à l'article 47sexies, § 3, 6°, rédige le procès-verbal des différentes phases de l'exécution de l'observation, mais n'y mentionne aucun des éléments susceptibles de compromettre les moyens techniques et les techniques d'enquête policière utilisés ou la garantie de la sécurité et de l'anonymat de l'indicateur et des fonctionnaires de police chargés de l'exécution de l'observation. Ces éléments ne figurent que dans le rapport écrit visé au § 1er, alinéa 1er.
+
+II est fait référence dans un procès-verbal à l'autorisation d'observation et il est fait mention des indications visées à l'article 47sexies, § 3, 1°, 2°, 3° et 5°. Le procureur du Roi confirme par décision écrite l'existence de l'autorisation d'observation qu'il a accordée.
+
+Les procès-verbaux qui ont été rédigés ainsi que la décision visée à l'alinéa 3 sont joints au dossier répressif au plus tard après qu'il a été mis fin à l'observation.
+
+##### Sous-section 4. - &lt;Insérée par L 2003-01-06/34, art. 4; En vigueur : 22-05-2003&gt; De l'infiltration.
+
+**Art. 47octies**
+
+&lt;Inséré par L 2003-01-06/34, art. 4; En vigueur : 22-05-2003&gt; § 1er. L'infiltration au sens du présent code est le fait, pour un fonctionnaire de police, appelé infiltrant, d'entretenir, sous une identité fictive, des relations durables avec une ou plusieurs personnes concernant lesquelles il existe des indices sérieux qu'elles commettent ou commettraient des infractions dans le cadre d'une organisation criminelle visée à [<sup>3</sup> l'article 406]<sup>3</sup> du Code pénal ou des [<sup>3</sup> infractions visées]<sup>3</sup> à l'article 90ter, §§ 2 à 4.
+
+L'infiltrant peut, dans des circonstances exceptionnelles et moyennant l'autorisation expresse du magistrat compétent, recourir brièvement, dans le cadre d'une opération spécifique, à l'expertise d'une personne externe aux services de police si cela s'avère absolument indispensable à la réussite de sa mission.
+
+§ 2. Le procureur du Roi peut, dans le cadre de l'information, autoriser une infiltration si les nécessités de l'enquête l'exigent et si les autres moyens d'investigation ne semblent pas suffire à la manifestation de la vérité.
+
+II peut autoriser le service de police à appliquer certaines techniques d'enquête policières dans le cadre légal d'une infiltration et compte tenu de la finalité de celle-ci. Le Roi détermine par arrêté délibéré en Conseil des Ministres ces techniques d'enquête policières, sur proposition du ministre de la Justice et sur avis du Collège des procureurs généraux. [<sup>1</sup> Ces techniques d'enquête policières ne peuvent être mises en oeuvre que par des membres de la direction des unités spéciales de la police fédérale et, le cas échéant, moyennant l'accord préalable supplémentaire du procureur fédéral, en collaboration avec des fonctionnaires compétents étrangers spécifiquement formés à cet effet.]<sup>1</sup>
+
+Si c'est justifié, [<sup>1</sup> le procureur du Roi]<sup>1</sup> accorde l'autorisation de prendre les mesures nécessaires en vue de garantir la sécurité, ainsi que l'intégrité physique, psychique et morale de l'infiltrant. Cette autorisation est conservée dans le dossier confidentiel visé à l'article 47novies, § 1er, alinéa 2.
+
+§ 3. L'autorisation d'infiltration est écrite et contient les mentions suivantes :
+
+1° les indices sérieux de l'infraction qui justifient l'infiltration [<sup>2</sup> ou, si l'infiltration s'inscrit dans le cadre de l'enquête proactive définie à l'article 28bis, § 2, la suspicion raisonnable que des faits punissables vont être commis ou ont été commis mais ne sont pas encore connus, et les indices particuliers relatifs aux éléments décrits dans cette dernière disposition, qui justifient l'infiltration]<sup>2</sup>;
+
+2° les motifs pour lesquels l'infiltration est indispensable à la manifestation de la vérité;
+
+3° s'il est connu, le nom ou, sinon, une description aussi précise que possible de la ou des personnes visées au § 1er;
+
+4° la manière dont l'infiltration sera exécutée, y compris l'autorisation de recourir brièvement à l'expertise d'un civil conformément au § 1er, alinéa 2, ainsi que l'autorisation d'appliquer des techniques d'enquête policières, conformément au § 2, alinéa 2;
+
+5° la période au cours de laquelle l'infiltration peut être exécutée et laquelle ne peut excéder trois mois à compter de la date de l'autorisation;
+
+6° le nom et la qualité de l'officier de police judiciaire qui dirige l'exécution de l'infiltration.
+
+§ 4. [Le procureur du Roi indique à ce moment dans une décision écrite séparée les infractions qui peuvent être commises par les services de police et les personnes visées à l'article 47quinquies, § 2, alinéa 3, dans le cadre de l'infiltration. Cette décision est conservée dans le dossier visé à l'article 47novies, § 1er, alinéa 2.] &lt;L 2005-12-27/34, art. 11, 1°, 046; En vigueur : 30-12-2005&gt;
+
+§ 5. En cas d'urgence, l'autorisation d'infiltration peut être accordée verbalement. Cette autorisation doit être confirmée dans les plus brefs délais dans la forme prévue [<sup>2</sup> au paragraphe 3]<sup>2</sup>.
+
+§ 6. Le procureur du Roi peut à tout instant, de manière motivée, modifier, compléter ou prolonger son autorisation d'infiltration. II peut à tout moment retirer son autorisation. II vérifie si les conditions visées aux §§ 1er à 3 sont remplies chaque fois que son autorisation est modifiée, complétée ou prolongée et agit conformément au § 3, 1° à 6°.
+
+§ 7. Le procureur du Roi est chargé de l'exécution des autorisations d'infiltration accordées par le juge d'instruction dans le cadre d'une instruction, conformément à l'article 56bis.
+
+[Le procureur du Roi indique à ce moment dans une décision écrite séparée les infractions qui peuvent être commises par les services de police et les personnes visées à l'article 47quinquies, § 2, alinéa 3, dans le cadre de l'infiltration ordonnée par le juge d'instruction. Cette décision est conservée dans le dossier vise à l'article 47novies, § 1er, alinéa 2.] &lt;L 2005-12-27/34, art. 11, 2°, 046; En vigueur : 30-12-2005&gt;
+
+----------
+
+(1)&lt;L 2010-12-29/09, art. 2, 059; En vigueur : 30-01-2011&gt;
+
+(2)&lt;L 2016-12-25/37, art. 9, 088; En vigueur : 27-01-2017&gt;
+
+(3)&lt;L 2026-03-11/03, art. 64, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 47novies**
+
+&lt;L 2005-12-27/34, art. 12, 046; En vigueur : 30-12-2005&gt; § 1er. L'officier de police judiciaire visé à l'article 47octies, § 3, 6°, fait rapport écrit de manière précise, complète et conforme à la vérité, au procureur du Roi sur chaque phase de l'exécution des infiltrations qu'il dirige.
+
+Ces rapports confidentiels sont communiqués directement au procureur du Roi, qui les conserve dans un dossier confidentiel séparé. II est le seul à avoir accès a ce dossier, sans préjudice du droit de consultation du juge d'instruction et de la chambre des mises en accusation, visé respectivement à l'article 56bis et aux articles 235ter, § 3, et 235quater, § 3. Le contenu de ce dossier est couvert par le secret professionnel.
+
+§ 2. L'autorisation d'infiltration et les décisions de modification, d'extension ou de prolongation sont jointes au dossier confidentiel.
+
+L'officier de police judiciaire visé à l'article 47octies, § 3, 6°, rédige le procès-verbal des différentes phases de l'exécution de l'infiltration, mais n'y mentionne aucun des éléments susceptibles de compromettre les moyens techniques et les techniques d'enquête policière utilisés ou la garantie de la sécurité et de l'anonymat de l'indicateur, des fonctionnaires de police chargés de l'exécution de l'infiltration, et du civil visé à l'article 47octies, § 1er, alinéa 2. Ces éléments ne figurent que dans le rapport écrit visé au § 1er, alinéa 1er.
+
+II est fait référence dans un procès-verbal à l'autorisation d'infiltration et il est fait mention des indications visées à l'article 47octies, § 3, 1°, 2°, 3° et 5°. Le procureur du Roi confirme par décision écrite l'existence de l'autorisation d'infiltration qu'il a accordée.
+
+Les procès-verbaux qui ont été rédigés ainsi que la décision visée à l'alinéa 3 sont joints au dossier répressif au plus tard après qu'il a été mis fin à l'infiltration.
+
+##### Sous-section 4bis. [<sup>1</sup> De l'infiltration civile ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-22/04, art. 4, 099; En vigueur : 17-08-2018&gt;
+
+**Art. 47novies/1**
+
+[<sup>1</sup> § 1er. L'infiltration civile au sens du présent Code est le fait, pour une personne majeure qui n'est pas un fonctionnaire de police, appelée infiltrant civil, d'entretenir, le cas échéant sous une identité fictive, des relations durables et dirigées avec une ou plusieurs personnes concernant lesquelles il existe des indices sérieux qu'elles commettent ou commettraient une des infractions visées à l'article 90ter, §§ 2 à 4, à l'exception de l'article 90ter, § 2, 11°, à la condition qu'elles soient ou seraient commises dans le cadre d'une organisation criminelle visée à [<sup>3</sup> l'article 406 du Code pénal, ou une des infractions visées au livre II, titre 4, chapitre 1er,]<sup>3</sup> du Code pénal.
+
+L'officier de police judiciaire visé au paragraphe 4, 6°, peut, dans des circonstances exceptionnelles et moyennant l'autorisation expresse du magistrat compétent, recourir brièvement et de manière dirigée, dans le cadre d'une une opération spécifique d'infiltration civile, à l'expertise d'une personne externe aux services de police, si cela s'avère absolument indispensable à la réussite de la mission.
+
+§ 2. Le procureur du Roi peut, dans le cadre de l'information, autoriser une infiltration civile si les nécessités de l'enquête l'exigent et si les autres moyens d'investigation dont l'infiltration visée à l'article 47octies, ne semblent pas suffire à la manifestation de la vérité.
+
+L'autorisation ou la prolongation de l'autorisation d'infiltration civile par le procureur du Roi ou par le juge d'instruction requièrent l'accord préalable du procureur fédéral. Lorsque cet accord est donné oralement, il est ensuite confirmé, dans les meilleurs délais, par écrit. L'accord est conservé dans le dossier confidentiel visé à l'article 47novies/3, § 1er, alinéa 2.
+
+Dans le cadre légal d'une infiltration civile et compte tenu de la finalité de celle-ci, le procureur du Roi peut autoriser le service de police visé à l'article 47octies, § 2, alinéa 2, à permettre à l'infiltrant civil de recourir aux techniques d'enquête policières, visées à l'article 47octies, § 2, alinéa 2, sous l'encadrement de l'agent d'accompagnement visé à l'alinéa 5.
+
+Si c'est justifié, le procureur du Roi accorde l'autorisation de prendre les mesures nécessaires en vue de garantir la sécurité, l'intégrité physique, psychique et morale de l'infiltrant civil. Cette autorisation est conservée dans le dossier confidentiel visé à l'article 47novies/3, § 1er, alinéa 2.
+
+Des fonctionnaires de police de la direction des unités spéciales de la police fédérale qui ont bénéficié d'une formation spéciale à cet effet, appelés agents d'accompagnement, encadrent l'infiltrant civil pour assurer la bonne exécution de sa mission.
+
+Des fonctionnaires de police de la direction des unités spéciales de la police fédérale, appelés agents de contrôle, veillent à la garantie de la sécurité et l'intégrité physique, psychique et morale de l'infiltrant civil, ainsi qu'à l'accomplissement par l'infiltrant civil de ses obligations. Un fonctionnaire de police ne peut être à la fois agent d'accompagnement et agent de contrôle du même infiltrant civil.
+
+§ 3. Sans préjudice des alinéas 2 à 8, il est interdit à l'infiltrant civil, aux agents d'accompagnement et aux agents de contrôle de commettre des infractions dans le cadre de la mission de l'infiltrant civil.
+
+Sont exemptés de peine, l'infiltrant civil, les agents d'accompagnement et les agents de contrôle qui, dans le cadre de la mission de l'infiltrant civil et en vue de la réussite de celle-ci ou afin de garantir leur propre sécurité ou celle d'autres personnes impliquées dans l'opération, commettent des infractions strictement nécessaires, ce avec l'accord préalable exprès du procureur du Roi.
+
+Ces infractions ne peuvent être plus graves que celles pour lesquelles l'infiltration civile est utilisée, doivent nécessairement être proportionnelles à l'objectif visé et ne peuvent pas porter atteinte à l'intégrité physique des personnes.
+
+Est exempté de peine le magistrat qui autorise, dans le respect du présent Code, un infiltrant civil, les agents d'accompagnement et les agents de contrôle ainsi que les personnes externes aux services de police dont il est fait appel à l'expertise, à commettre des infractions dans le cadre de l'exécution de l'infiltration civile.
+
+L'officier de police judiciaire visé au paragraphe 4, 6°, communique au procureur du Roi, par écrit, les infractions visées à l'alinéa 2 que l'infiltrant civil, les agents d'accompagnement et les agents de contrôle ou les personnes visées à l'alinéa 4, devraient potentiellement commettre.
+
+L'infiltrant civil communique sans délai ses comportements et ses observations aux agents d'accompagnement qui avertissent à leur tour l'officier de police judiciaire visé au paragraphe 4, 6°. Ce dernier informe le procureur du Roi des infractions commises par l'infiltrant civil conformément à l'article 47novies/3, § 1er.
+
+Les trois premiers alinéas s'appliquent également aux personnes qui ont fourni une aide ou une assistance nécessaire et directe à l'exécution de cette mission et aux personnes visées au paragraphe 1er, alinéa 2.
+
+Le ministre de la Justice et le ministre de l'Intérieur prennent, sur la proposition commune du procureur fédéral et du procureur général chargé des méthodes particulières de recherche au sein du collège des procureurs généraux, les mesures spécifiques absolument nécessaires en vue de garantir à tout moment l'anonymat et la sécurité des infiltrants civils, des agents d'accompagnement et des agents de contrôle dans la préparation et l'exécution de leurs missions. Il ne peut y avoir d'infraction quand des faits sont commis dans ce cadre.
+
+[<sup>2</sup> § 3/1. L'Etat est responsable du dommage causé par l'infiltrant civil visé au paragraphe 1er, alinéa 1er, dans les fonctions auxquelles il les a employés, comme les commettants sont responsables du dommage causé par le fait de leurs préposés.
+
+L'infiltrant civil visé au paragraphe 1er, alinéa 1er, qui, dans sa fonction, cause un dommage à l'Etat ou à des tiers, ne doit le réparer que s'il commet une faute intentionnelle, une faute lourde, ou une faute légère qui présente dans son chef un caractère habituel.
+
+Un mandataire, un préposé ou un organe de l'Etat, victime d'un accident causé par un infiltrant civil visé au paragraphe 1er, alinéa 1er, ne peut intenter une action en justice en responsabilité civile contre cet infiltrant civil que pour autant que celui-ci ait intentionnellement causé l'accident.
+
+En outre, le Roi peut, par arrêté délibéré en Conseil des ministres, exonérer en tout ou en partie l'infiltrant civil visé au paragraphe 1er, alinéa 1er, de l'obligation de réparer le dommage conformément à l'alinéa 2 en ce qui concerne la responsabilité à l'égard de l'Etat.]<sup>2</sup>
+
+§ 4. L'autorisation d'infiltration civile est écrite et contient les mentions suivantes :
+
+1° les indices sérieux des infractions qui justifient l'infiltration civile ou, si l'infiltration civile s'inscrit dans le cadre de l'enquête proactive définie à l'article 28bis, § 2, la suspicion raisonnable que des faits punissables vont être commis ou ont été commis mais ne sont pas encore connus, et les indices particuliers relatifs aux éléments décrits dans cette dernière disposition, qui justifient l'infiltration civile;
+
+2° les motifs pour lesquels l'infiltration civile est indispensable à la manifestation de la vérité et, en particulier, les motifs pour lesquels l'infiltration visée à l'article 47octies ne semble pas suffire à la manifestation de la vérité;
+
+3° le nom, s'il est connu, ou, s'il ne l'est pas, une description aussi précise que possible des personnes au sujet desquelles il existe des indices sérieux qu'elles commettent ou commettraient une des infractions visées à l'article 90ter, §§ 2 à 4, à l'exception de l'article 90ter, § 2, 11°, à la condition qu'elles soient ou seraient commises dans le cadre d'une organisation criminelle visée à [<sup>3</sup> l'article 406 du Code pénal, ou une des infractions visées au livre II, titre 4, chapitre 1er,]<sup>3</sup> du Code pénal;
+
+4° la manière dont l'infiltration civile sera exécutée, y compris la permission d'utiliser des techniques d'enquête policières visées au paragraphe 2, alinéa 3;
+
+5° la période au cours de laquelle l'infiltration civile peut être exécutée et qui ne peut excéder trois mois à compter de la date de l'autorisation;
+
+6° le nom et la qualité de l'officier de police judiciaire visé à l'article 47ter, § 2, alinéa 4, qui dirige l'exécution de l'infiltration civile ;
+
+7° l'identité de l'infiltrant civil sous la forme d'un code;
+
+8° l'accord du procureur fédéral pour l'autorisation ou la prolongation de l'infiltration civile.
+
+§ 5. Le procureur du Roi indique, le cas échéant, dans une décision écrite distincte, les infractions qui peuvent être commises par l'infiltrant civil, les agents d'accompagnement, les agents de contrôle et les personnes visées au paragraphe 3, alinéa 4, dans le cadre de l'infiltration civile. Cette décision est conservée dans le dossier visé à l'article 47novies/3, § 1er, alinéa 2.
+
+§ 6. En cas d'urgence, l'autorisation d'infiltration civile peut être accordée verbalement. Cette autorisation est confirmée dans les plus brefs délais dans la forme prévue au paragraphe 4.
+
+§ 7. Le procureur du Roi peut à tout instant, de manière motivée, modifier, compléter ou prolonger son autorisation d'infiltration civile. Il peut à tout moment retirer son autorisation. II vérifie si les conditions visées aux paragraphes 1er, 2 et 4, sont remplies chaque fois que son autorisation est modifiée, complétée ou prolongée et agit conformément au paragraphe 4, 1° à 8°.
+
+§ 8. Le procureur du Roi est chargé de l'exécution des autorisations d'infiltration civile accordées par le juge d'instruction dans le cadre d'une instruction, conformément à l'article 56bis.
+
+Le procureur du Roi indique, le cas échéant, dans une décision écrite séparée, les infractions qui peuvent être commises par l'infiltrant civil, les agents d'accompagnement, les agents de contrôle et les personnes visées au paragraphe 3, alinéa 4, dans le cadre de l'infiltration civile ordonnée par le juge d'instruction. Cette décision est conservée dans le dossier visé à l'article 47novies/3, § 1er, alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-22/04, art. 5, 099; En vigueur : 17-08-2018&gt;
+
+(2)&lt;L 2024-04-14/02, art. 2, 123; En vigueur : 02-05-2024&gt;
+
+(3)&lt;L 2026-03-11/03, art. 65, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 47novies/2**
+
+[<sup>1</sup> § 1er. La direction des opérations de police judiciaire de la police fédérale assure la réalisation d'une analyse des risques portant au moins sur la fiabilité, les compétences et la connaissance, les antécédents policiers et judiciaires et la motivation de l'infiltrant civil et ses liens avec les personnes impliquées dans l'enquête et le risque de commettre des infractions qui mettent en péril l'intégrité physique de personnes :
+
+1° préalablement à la délivrance de l'autorisation visée respectivement aux articles 47novies/1, § 2, et 56bis;
+
+2° préalablement à l'examen par la chambre des mises en accusation visé aux articles 235ter, 235quater et 235quinquies.
+
+Les analyses des risques sont conservées dans le dossier visé à l'article 47novies/3, § 1er, alinéa 2.
+
+Le procureur du Roi et le juge d'instruction prennent ces analyses des risques en considération pour la délivrance de leur autorisation d'infiltration civile.
+
+§ 2. L'infiltrant civil signe un mémorandum écrit établi en un seul exemplaire dans lequel il s'engage à faire des déclarations sincères et complètes sur l'affaire pour laquelle il a été recouru à lui en tant qu'infiltrant civil.
+
+Le mémorandum est daté et contient au moins :
+
+1° l'identité de l'infiltrant civil;
+
+2° les droits et les obligations de l'infiltrant civil;
+
+3° la manière dont l'infiltration civile sera mise en oeuvre;
+
+4° la mention selon laquelle des mesures peuvent être prises en vue de garantir la sécurité ainsi que l'intégrité physique, psychique et morale de l'infiltrant civil et de garantir son anonymat;
+
+5° la mention selon laquelle les mesures peuvent être prises en vue de protéger la sécurité publique ainsi que de contrôler l'infiltrant civil.
+
+§ 3. Le mémorandum écrit est conservé auprès de la direction des opérations de police judiciaire de la police fédérale. Seuls le procureur du Roi, le procureur fédéral, l'officier de la police judiciaire visé à l'article 47novies/1, § 4, 6°, les agents de contrôle et d'accompagnement et le juge d'instruction visé à l'article 56bis peuvent consulter ce mémorandum écrit.
+
+Les agents d'accompagnement et de contrôle reçoivent une copie de ce mémorandum écrit. Cette copie est conservée à la direction des unités spéciales de la police fédérale.
+
+L'officier de police judiciaire visé à l'article 47novies/1, § 4, 6°, rédige un rapport écrit confidentiel dans lequel il confirme l'existence du mémorandum et le transmet au procureur du Roi. Ce rapport est conservé dans le dossier visé à l'article 47novies/3, § 1er, alinéa 2.
+
+§ 4. L'infiltrant civil et la personne visée à l'article 47novies/1, § 1er alinéa 2, sont tenus au secret professionnel. Toute violation du secret est punie conformément [<sup>2</sup> à l'article 352]<sup>2</sup> du Code pénal. ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-07-22/04, art. 6, 099; En vigueur : 17-08-2018&gt;
+
+(2)&lt;L 2026-03-11/03, art. 66, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 47novies/3**
+
+[<sup>1</sup> § 1er. L'officier de police judiciaire visé à l'article 47novies/1, § 4, 6°, fait rapport écrit de manière précise, complète et conforme à la vérité, au procureur du Roi sur chaque phase de l'exécution des infiltrations civiles qu'il dirige.
+
+Ces rapports confidentiels sont communiqués directement au procureur du Roi, qui les conserve dans un dossier confidentiel séparé. II est le seul à avoir accès à ce dossier, sans préjudice du droit de consultation du juge d'instruction et de la chambre des mises en accusation, visé respectivement à l'article 56bis et aux articles 235ter, § 3, 235quater, § 3, et 235quinquies. Le contenu de ce dossier est couvert par le secret professionnel.
+
+§ 2. L'autorisation d'infiltration civile et les décisions de modification, d'extension ou de prolongation sont jointes au dossier confidentiel.
+
+L'officier de police judiciaire visé à l'article 47novies/1, § 4, 6°, rédige le procès-verbal des différentes phases de l'exécution de l'infiltration civile, mais n'y mentionne aucun des éléments susceptibles de compromettre les moyens techniques et les techniques d'enquête policières utilisés ou la garantie de la sécurité et de l'anonymat de l'indicateur, de l'infiltrant civil et des fonctionnaires de police chargés de la mise en oeuvre de l'observation, de l'infiltration et de l'infiltration civile ainsi que des personnes externes aux services de police dont il est fait appel à l'expertise. Ces éléments ne figurent que dans le rapport écrit visé au paragraphe 1er, alinéa 1er.
+
+II est fait référence dans un procès-verbal à l'autorisation d'infiltration civile et il est fait mention des indications visées à l'article 47novies/1, § 4, 1°, 2°, 3°, 5° et 8°. Le procureur du Roi confirme par décision écrite l'existence de l'autorisation d'infiltration civile qu'il a délivrée, de l'analyse des risques visée à l'article 47novies/2, § 1er, et la majorité de l'infiltrant civil.
+
+Les procès-verbaux qui ont été rédigés ainsi que la décision visée à l'alinéa 3 sont joints au dossier répressif au plus tard après qu'il a été mis fin à l'infiltration civile et, le cas échéant, à l'infiltration visée à l'article 47octies.
+
+§ 3. Les moyens de preuve obtenus en vertu de l'application d'une infiltration civile ne peuvent être pris en considération à titre de preuve que s'ils sont corroborés dans une mesure déterminante par d'autres moyens de preuve.
+
+§ 4. Les agents de contrôle adressent à la direction des opérations de police judiciaire de la police fédérale et au procureur du Roi un rapport précis, complet et conforme à la vérité sur la sécurité publique, la sécurité de l'infiltrant civil, l'intégrité physique, psychique et morale de l'infiltrant civil, et l'accomplissement des obligations de l'infiltrant civil, qu'il conserve dans le dossier confidentiel visé au paragraphe 1er, alinéa 2. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-22/04, art. 7, 099; En vigueur : 17-08-2018&gt;
+
+##### Sous-section 5. - &lt;Insérée par L 2003-01-06/34, art. 4; En vigueur : 22-05-2003&gt; Du recours aux indicateurs.
+
+**Art. 47decies**
+
+&lt;Inséré par L 2003-01-06/34, art. 4; En vigueur : 22-05-2003&gt; § 1er. Le recours aux indicateurs au sens du présent code est le fait, pour un fonctionnaire de police, d'entretenir des contacts réguliers avec une personne, appelée indicateur, dont il est suppose qu'elle entretient des relations étroites avec une ou plusieurs personnes à propos desquelles il existe des indices sérieux qu'elles commettent ou commettraient des infractions et qui fournit à cet égard au fonctionnaire de police des renseignements et des données, qu'ils aient été demandés ou non. Ce fonctionnaire de police est appelé fonctionnaire de contact.
+
+§ 2. Au sein de la direction qui fait partie de la direction générale de la police judiciaire de la police fédérale et qui est chargée de la tâche visée à l'article 102, 5°, de la loi du 7 décembre 1998 organisant un service de police intégré structuré à deux niveaux, un officier est chargé de la gestion nationale des indicateurs au sein du service de police intégré structuré à deux niveaux. Cet officier, appelé gestionnaire national des indicateurs, peut se faire assister dans l'accomplissement de sa tâche par un ou plusieurs officiers de police judiciaire.
+
+II veille au respect des règles du présent article ou applicables en vertu de celui-ci.
+
+Le gestionnaire national des indicateurs agit sous l'autorité du procureur fédéral.
+
+§ 3. Au sein de chaque [direction judiciaire déconcentrée visée] à l'article 105 de la loi du 7 décembre 1998 organisant un service de police intégré structuré à deux niveaux, un officier, appelé gestionnaire local des indicateurs, est chargé de la gestion des indicateurs au niveau de l'arrondissement au sein [de la direction judiciaire déconcentrée] et des corps de police locale de l'arrondissement. &lt;L 2006-06-20/34, art. 49, 047; En vigueur : 01-03-2007&gt;
+
+A cet effet, il exerce notamment un contrôle permanent sur la fiabilité des indicateurs et veille au respect des règles du présent article ou applicables en vertu de celui-ci et à l'accomplissement correct des tâches des fonctionnaires de contact.
+
+Le gestionnaire local des indicateurs agit sous l'autorité du procureur du Roi.
+
+Dans chaque corps de police locale au sein duquel il est fait appel à des [indicateurs], un officier est désigné afin d'assister le gestionnaire local des indicateurs dans l'accomplissement de sa tâche. &lt;L 2005-12-27/34, art. 13, 1°, 046; En vigueur : 30-12-2005&gt;
+
+§ 4. Le Roi précise, sur proposition du ministre de la Justice et après avis du Collège des procureurs généraux et du procureur fédéral, les règles de fonctionnement des gestionnaires nationaux et locaux des indicateurs et des fonctionnaires de contact, en tenant compte d'un contrôle permanent de la fiabilité des indicateurs, de la protection de l'identité des indicateurs et de la garantie de l'intégrité physique, psychique et morale des fonctionnaires de contact.
+
+§ 5. Le gestionnaire local des indicateurs fait un rapport général au procureur du Roi à sa demande, au moins tous les trois mois, concernant le recours aux indicateurs au sein [de la direction judiciaire déconcentrée] et des corps de police locale de l'arrondissement. &lt;L 2006-06-20/34, art. 49, 047; En vigueur : 01-03-2007&gt;
+
+Le gestionnaire national des indicateurs fait un rapport général au procureur fédéral à sa demande, au moins tous les trois mois, concernant le recours aux indicateurs au sein du service de police intégré structuré à deux niveaux.
+
+§ 6. Par dérogation à l'article 28ter, § 2, dernière phrase, le gestionnaire local des indicateurs fait immédiatement rapport par écrit, de manière détaillée, complète et conforme à la vérité, au procureur du Roi, si les renseignements des indicateurs révèlent de sérieuses indications d'infractions commises ou sur le point d'être commises.
+
+Le procureur du Roi peut également, s'il y a lieu, interdire par décision écrite au gestionnaire local des indicateurs de continuer à travailler sur certaines informations fournies par un indicateur.
+
+Le procureur du Roi conserve ces rapports confidentiels dans un dossier séparé. II est le seul à avoir accès à ce dossier, sans préjudice du droit de consultation du juge d'instruction, visé à l'article 56bis. Le contenu de ce dossier est couvert par le secret professionnel.
+
+II décide si, en fonction de l'importance des informations fournies et en tenant compte de la sécurité de l'indicateur, il en dresse procès-verbal. Si ce procès-verbal porte sur une information ou une instruction en cours, le procureur du Roi est chargé de le joindre au dossier répressif.
+
+[§ 7. Lorsqu'un indicateur entretient des relations étroites avec une ou plusieurs personnes à propos desquelles il existe des indices sérieux qu'elles commettent ou commettraient des faits punissables qui constituent ou constitueraient une infraction au sens des articles 137 à 141, au sens des articles 324bis et 324ter ou au sens des articles 136bis, 136ter, 136quater, 136sexies, 136septies du Code pénal ou une infraction visée à l'article 90ter, § 2, 4°, 7°, 7°bis, 7°ter, 8°, 11°, 14°, 16° et 17°, à la condition que ces dernières infractions visées à l'article 90ter, § 2, soient ou seraient commises dans le cadre d'une organisation criminelle visée à l'article 324bis du Code pénal, le procureur du Roi peut autoriser cet indicateur à commettre des infractions qui sont absolument nécessaires au maintien de sa position d'information.
+
+Ces infractions doivent nécessairement être proportionnelles à l'intérêt de maintenir la position d'information de l'indicateur et ne peuvent en aucun cas directement et gravement porter atteinte à l'intégrité physique des personnes.
+
+Le gestionnaire local des indicateurs, visé au § 3, alinéa 1er, informe par écrit et préalablement le procureur du Roi des faits punissables que l'indicateur a l'intention de commettre. Le procureur du Roi indique dans une décision écrite séparée les infractions qui peuvent être commises par l'indicateur, et qui ne peuvent être plus graves que celles qu'il avait l'intention de commettre. Cette décision est conservée dans le dossier visé au § 6, alinéa 3.
+
+Le magistrat qui autorise, conformément au présent article, un indicateur à commettre des infractions, n'encourt aucune peine.] &lt;L 2005-12-27/34, art. 13, 2°, 046; En vigueur : 30-12-2005&gt;
+
+(NOTE : par son arrêt n° 105/2007 du 19-07-2007 (M.B. 13-08-2007, p. 42955-42967), la Cour Constitutionnelle a annulé l'article 47decies, § 7)
+
+##### Sous-section 6. - &lt;Insérée par L 2003-01-06/34, art. 4; En vigueur : 22-05-2003&gt; Du contrôle sur la légalité.
+
+**Art. 47undecies**
+
+&lt;L 2005-12-27/34, art. 14, 046; En vigueur : 30-12-2005&gt; Au moins tous les trois mois, le procureur du Roi transmet au procureur général tous les dossiers dans lesquels il a fait application de méthodes particulières de recherche [<sup>2</sup> d'observation, d'infiltration et d'infiltration civile]<sup>2</sup>, et dans lesquels il a pris la décision de ne pas engager de poursuites, afin de lui permettre d'exercer un contrôle sur la légalité des méthodes utilisées.
+
+Le procureur général fait rapport de ce contrôle. Ce rapport traite également de l'application des méthodes particulières de recherche dans le cadre de l'exécution des peines ou des mesures privatives de liberté dans son ressort. Le rapport est communiqué au collège des procureurs généraux, qui intègre l'évaluation globale et les données statistiques relatives à ces rapports dans son rapport annuel visé à l'article 143bis, § 7, du Code judiciaire.
+
+Le procureur fédéral publie dans son rapport annuel, visé à l'article 346, § 2, 2°, du même Code, l'évaluation globale et les données statistiques relatives aux dossiers dans lesquels il a fait application de méthodes particulières de recherche [<sup>2</sup> d'observation, d'infiltration et d'infiltration civile]<sup>2</sup>, et dans lesquels il a pris la décision de ne pas engager de poursuites. Ce rapport traite également de l'application des méthodes particulières de recherche dans le cadre de l'exécution des peines ou des mesures privatives de liberté pour les dossiers répressifs fédéraux.
+
+[<sup>1</sup> ...]<sup>1</sup>.
+
+(NOTE : par son arrêt n° 105/2007 du 19-07-2007 (M.B. 13-08-2007, p. 42955-42967), la Cour Constitutionnelle a annulé l'article 47undecies, alinéa 2, deuxième phrase et alinéa 3, deuxième phrase)
+
+----------
+
+(1)&lt;L 2016-12-25/37, art. 10, 088; En vigueur : 27-01-2017&gt;
+
+(2)&lt;L 2018-07-22/04, art. 8, 099; En vigueur : 17-08-2018&gt;
+
+### CHAPITRE IVBIS. - [DU PROCUREUR FEDERAL] &lt;L 1998-12-22/48, art. 25, 019; En vigueur : 21-05-2002&gt;
+
+**Art. 47duodecies**
+
+&lt;NOTE : antérieurement 47ter. Numéroté 47duodecies par L 2003-01-06/34, art. 3, En vigueur : 22-05-2003&gt; [§ 1er. Dans l 'exercice de ses compétences, le procureur fédéral dispose de tous les pouvoirs que la loi confère au procureur du Roi. Dans le cadre de ceux-ci, il peut procéder ou faire procéder à tous actes d'information ou d'instruction relevant de ses attributions sur l'ensemble du territoire du Royaume, de même qu'exercer l'action publique.
+
+§ 2. Le procureur fédéral prend toutes les mesures urgentes qui sont nécessaires en vue de l'exercice de l'action publique aussi longtemps qu'un procureur du Roi n'a pas exercé sa compétence légalement déterminée. Ces mesures sont contraignantes pour le procureur du Roi.] &lt;L 2001-06-21/42, art. 57, 027; En vigueur : 21-05-2002&gt;
+
+[§ 3. Lorsqu'il exerce la compétence prévue à l'article 144ter, § 1er, 2°, du Code judiciaire, le procureur fédéral saisit exclusivement le doyen des juges d'instruction spécialisés pour connaître des infractions visées aux [<sup>1</sup> articles 371 à 386]<sup>1</sup> du Code pénal, lequel attribue le dossier à l'un de ces juges d'instruction.
+
+Ce doyen peut, à tout moment, pour une même affaire, désigner d'autres juges d'instruction spécialisés pour connaître des infractions visées aux [<sup>1</sup> articles 371 à 386]<sup>1</sup> du Code pénal.] &lt;L 2005-12-27/34, art. 15, 046; En vigueur : 29-06-2006&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 67, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 47tredecies**
+
+&lt;Antérieurement 47quater. Numéroté 47tredecies par L 2003-01-06/34, art. 3, En vigueur : 22-05-2003&gt; &lt;Inséré par L 1998-12-07/31, art. 219; En vigueur : 01-01-2001&gt; Un magistrat fédéral est chargé de la surveillance du fonctionnement de la direction générale de la police judiciaire de la police fédérale. Ce magistrat veille en particulier à ce que les missions judiciaires spécialisées soient exécutées par cette direction générale conformément aux réquisitions et aux directives des autorités judiciaires compétentes.
+
+Un magistrat fédéral est chargé de la surveillance spécifique du fonctionnement du "service de répression de la corruption" dans la direction générale de la police judiciaire de la police fédérale. Ce magistrat fait annuellement rapport au ministre de la Justice. Le rapport est communiqué aux Chambres législatives par le ministre de la Justice. Ce magistrat peut être auditionné par le Parlement sur le fonctionnement général du "service de répression de la corruption.
+
+### CHAPITRE IVter. [<sup>1</sup> - Du procureur européen et des procureurs européens délégués.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-02-17/04, art. 6, 109; En vigueur : 24-02-2021&gt;
+
+**Art. 47quaterdecies**
+
+[<sup>1</sup> Dans l'exercice de leurs compétences, telles que prévues à l'article 156/1 du Code judiciaire, le procureur européen et les procureurs européens délégués désignés conformément à l'article 309/2 du même Code disposent de tous les pouvoirs que la loi confère au procureur du Roi. Dans le cadre de ceux-ci, ils peuvent procéder ou faire procéder à tous actes d'information ou d'instruction relevant de leurs attributions sur l'ensemble du territoire du Royaume, de même qu'exercer l'action publique.
+
+Lorsqu'ils exercent leurs compétences, ce procureur européen et ces procureurs européens délégués pourront exclusivement saisir les juges d'instruction spécialisés visés à l'article 79, alinéa 6, du même Code pour connaître des infractions visées à l'article 156/1, § 1er, du même Code.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-02-17/04, art. 7, 109; En vigueur : 24-02-2021&gt;
+
+**Art. 47quindecies**
+
+[<sup>1</sup> Lorsqu'un service de police ne peut donner les effectifs et les moyens nécessaires au procureur européen ou aux procureurs européens délégués désignés conformément à l'article 309/2 du Code judiciaire ou au juge d'instruction visé à l'article 79, alinéa 6, du même Code saisi d'une enquête pénale par ceux-ci, il en informe le procureur général territorialement compétent. Si le procureur général ne trouve pas de solution pour remédier au manque d'effectifs et de moyens, il saisit le Collège des procureurs généraux qui, après concertation avec le directeur général de la police judiciaire et après concertation avec le procureur européen ou les procureurs européens délégués, décide quelle réquisition est exécutée prioritairement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-02-17/04, art. 8, 109; En vigueur : 24-02-2021&gt;
+
+### CHAPITRE V. - DES OFFICIERS DE POLICE AUXILIAIRES DU [PROCUREUR DU ROI]. &lt;L 10-07-1967, art. 1, 37°&gt;
+
+**Art. 48**
+
+Les [juges au tribunal de police], les [membres de la police fédérale et de la police locale revêtus de la qualité d'officier de police judiciaire, auxiliaire du procureur du Roi], [...] recevront les dénonciations [<sup>1</sup> d'infractions commises]<sup>1</sup> dans les lieux où ils exercent leurs fonctions habituelles. &lt;L 10-10-1967, art. 91, § 3&gt; &lt;L 1998-12-07/31, art. 220, 018; En vigueur : 01-01-2001&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 68, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 49**
+
+Dans le cas de [<sup>1</sup> flagrance]<sup>1</sup>, ou dans les cas de [réquisition visée à l'article 46], ils dresseront les procès-verbaux, recevront les déclarations de témoins, feront les visites et les autres actes qui sont, aux dits cas, de la compétence des [procureurs du Roi], le tout dans les formes et suivant les règles établies au chapitre des [procureurs du Roi]. &lt;L 10-07-1967, art. 1, 39°&gt; &lt;L 1997-11-24/51, art. 5, 015; En vigueur : 16-02-1998&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 69, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 50**
+
+[Abrogé] &lt;L 1998-12-07/31, art. 221, 018; En vigueur : 01-01-2001&gt;
+
+**Art. 51**
+
+Dans les cas de concurrence entre les [procureurs du Roi] et les officiers de police énoncés aux articles précédents, le [procureur du Roi] fera les actes attribues à la police judiciaire : s'il a été prévenu, il pourra continuer la procédure, ou autoriser l'officier qui l'aura commencée à la suivre. &lt;L 10-07-1967, art. 1, 39° en 1, 41°&gt;
+
+**Art. 52**
+
+Le [procureur du Roi], exerçant son ministère dans les cas des articles 32 et 46, pourra, s'il le juge utile et nécessaire, charger un officier de police auxiliaire de partie des actes de sa compétence. &lt;L 10-07-1967, art. 1, 41°&gt;
+
+**Art. 53**
+
+Les officiers de police auxiliaires renverront sans délai les dénonciations, procès-verbaux et autres actes par eux faits dans les cas de leur compétence, au [procureur du Roi], qui sera tenu d'examiner sans retard les procédures, et de les transmettre, avec les réquisitions qu'il jugera convenables, au juge d'instruction. &lt;L 10-07-1967, art. 1, 41°&gt;
+
+**Art. 54**
+
+Dans les cas de dénonciation [<sup>1</sup> d'infractions autres que celles]<sup>1</sup> qu'ils sont directement chargés de constater, les officiers de police judiciaire transmettront aussi sans délai au [procureur du Roi] les dénonciations que leur auront été faites, et le [procureur du Roi] les remettra au juge d'instruction avec son réquisitoire. &lt;L 10-07-1967, art. 1, 41°&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 70, 130; En vigueur : 01-09-2026&gt;
+
+### CHAPITRE VI. - DES JUGES D'INSTRUCTION.
+
+#### SECTION I. - [DE L'INSTRUCTION] &lt;L 1998-03-12/39, art. 9, 016 ; En vigueur : 1998-10-02&gt;
+
+**Art. 55**
+
+&lt;L 1998-03-12/39, art. 9, 016 ; En vigueur : 1998-10-02&gt; L'instruction est l'ensemble des actes qui ont pour objet de rechercher les auteurs d'infractions, de rassembler les preuves et de prendre les mesures destinées à permettre aux juridictions de statuer en connaissance de cause.
+
+Elle est conduite sous la direction et l'autorité du juge d'instruction.
+
+**Art. 56**
+
+&lt;L 1998-03-12/39, art. 9, 016 ; En vigueur : 1998-10-02&gt; § 1er. Le juge d'instruction assume la responsabilité de l'instruction qui est menée à charge et à décharge.
+
+Il veille à la légalité des moyens de preuve ainsi qu'à la loyauté avec laquelle ils sont rassemblés.
+
+Il peut poser lui-même les actes qui relèvent de la police judiciaire, de l'information et de l'instruction.
+
+Le juge d'instruction a, dans l'exercice de ses fonctions, le droit de requérir directement la force publique.
+
+Il décide de la nécessité d'utiliser la contrainte ou de porter atteinte aux libertés et aux droits individuels.
+
+Lorsqu'au cours d'une instruction, il découvre des faits susceptibles de constituer [<sup>2</sup> une infraction]<sup>2</sup> dont il n'est pas saisi, il en informe immédiatement le procureur du Roi.
+
+[Le juge d'instruction porte sans délai a la connaissance du procureur fédéral et du procureur du Roi, ou, dans les cas où il exerce l'action publique, uniquement du procureur fédéral, les informations et les renseignements qu'il a recueillis au cours de l'instruction et qui révèlent un péril grave et immédiat pour la sécurité publique et la santé publique.] &lt;L 2004-06-21/33, art. 2, 041; En vigueur : 23-07-2004&gt;
+
+§ 2. Le juge d'instruction a le droit de requérir les [services de police visés à l'article 2 de la loi sur la fonction de police et tous les autres officiers de police judiciaire] pour accomplir, sauf les restrictions établies par la loi, tous les actes de police judiciaire nécessaires à l'instruction. &lt;L 1999-04-19/50, art. 6, 023; En vigueur : 23-05-1999&gt;
+
+Ces réquisitions sont faites et exécutées conformément [aux articles 8 à 8/3 et 8/6 à 8/8 de la loi sur la fonction de police et, pour ce qui concerne la police fédérale, à l'article 110 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux]. Les services de police requis sont tenus d'obtempérer aux réquisitions et de prêter le concours des officiers et agents de police judiciaire nécessaire à leur exécution. &lt;L 1998-12-07/31, art. 222, 018; En vigueur : 01-01-2001&gt;
+
+[<sup>1</sup> Le juge d'instruction a, dans le cadre de l'instruction, le droit de requérir les services d'inspection visés à l'article 16, 1°, du Code pénal social. Il peut requérir les services d'inspection pour accomplir, tous les actes nécessaires à l'instruction, dans le cadre de leurs compétences. Ce droit de réquisition ne porte pas préjudice aux compétences de l'inspection du travail prévues à l'article 21 du code pénal social pour les infractions autres que celles auxquelles se rapporte la réquisition du juge d'instruction et qui sont constatées en exécution de cette dernière. Seuls les faits qui font l'objet d'une saisine du juge d'instruction ne peuvent plus faire l'objet d'un avertissement ou d'un délai de régularisation.]<sup>1</sup>
+
+Lorsqu'un service de police [<sup>1</sup> ou un service d'inspection]<sup>1</sup> ne peut donner au juge d'instruction les effectifs et les moyens nécessaires, celui-ci peut solliciter l'intervention du procureur du Roi [<sup>1</sup> ou de l'auditeur du travail]<sup>1</sup> après l'avoir informé de la situation. Le juge d'instruction peut, en outre, transmettre copie de son ordonnance au procureur général et à la chambre des mises en accusation.
+
+Le procureur du Roi [<sup>1</sup> ou l'auditeur du travail]<sup>1</sup> peut lui-même transmettre le dossier au procureur général. Ce dernier peut solliciter l'intervention du collège des procureurs généraux afin qu'il prenne les initiatives qui s'imposent.
+
+§ 3. Le juge d'instruction peut désigner le ou les services de police chargés des missions de police judiciaire dans une enquête particulière, et auxquels les réquisitions et délégations seront, sauf exception, adressées. Si plusieurs services sont désignés, le juge d'instruction veille à la coordination de leurs interventions.
+
+Les fonctionnaires de police du service de police désigné conformément à l'alinéa précédent informent immédiatement l'autorité judiciaire compétente des informations et renseignements en leur possession et de toute recherche entreprise selon les modalités fixées par le procureur du Roi, sauf décision contraire du juge d'instruction. Pour toutes les missions de police judiciaire relatives à cette désignation, ils agissent prioritairement vis-à-vis des autres fonctionnaires de police, lesquels informent immédiatement l'autorité judiciaire compétente et le service de police désigné des informations et renseignements en leur possession et de toute recherche entreprise selon les modalités que le procureur du Roi fixe par directive.
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 5, 058; En vigueur : 01-07-2011&gt;
+
+(2)&lt;L 2026-03-11/03, art. 71, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 56bis**
+
+&lt;Inséré par L 2003-01-06/34, art. 5; En vigueur : 22-05-2003&gt; Par dérogation à l'article 56, § 1er, alinéa 3, les autorisations du juge d'instruction par lesquelles il ordonne [<sup>1</sup> une mesure visée à l'article 46sexies ou]<sup>1</sup> des méthodes particulières de recherche sont exécutées par le procureur du Roi. [<sup>1</sup> Il est procédé, selon le cas, conformément à l'article 46sexies ou aux articles [<sup>2</sup> articles 47ter à 47novies/3]<sup>2</sup>.]<sup>1</sup>
+
+[Seul le juge d'instruction peut en outre autoriser une observation, visée à l'article 47sexies, effectuée à l'aide de moyens techniques afin d'avoir une vue dans un domicile, ou dans une dépendance propre y enclose de ce domicile [<sup>3</sup> ...]<sup>3</sup>, ou dans un local utilisé à des fins professionnelles ou comme résidence par un avocat ou un médecin, visé à l'alinéa 3, lorsqu'il existe des indices sérieux que les faits punissables constituent ou constitueraient une infraction visée à l'article 90ter, §§ 2 à 4, ou sont ou seraient commis dans le cadre d'une organisation criminelle visée à [<sup>3</sup> l'article 406]<sup>3</sup> du Code pénal.] &lt;L 2005-12-27/34, art. 16, 046; En vigueur : 30-12-2005&gt;
+
+Une observation, comme prévue à l'alinéa précédent, une infiltration comme prévue à l'article 47octies, ou un contrôle visuel discret comme prévu à l'article 89ter qui porte sur les locaux utilisés à des fins professionnelles ou la résidence d'un avocat ou d'un médecin, peut uniquement être autorisée par le juge d'instruction si l'avocat ou le médecin est lui-même soupçonné d'avoir commis une des infractions visées à l'article 90ter, §§ 2 à 4, ou une infraction dans le cadre d'une organisation criminelle visée à [<sup>3</sup> l'article 406]<sup>3</sup> du Code pénal, ou si des faits précis laissent présumer que des tiers soupçonnés d'avoir commis une de ces infractions utilisent ses locaux ou sa résidence. [<sup>2</sup> Une infiltration civile, visée à l'article 47novies/1, qui porte sur les locaux utilisés à des fins professionnelles ou la résidence d'un avocat ou d'un médecin, peut uniquement être autorisée par le juge d'instruction si l'avocat ou le médecin est lui-même soupçonné d'avoir commis une des infractions visées à l'article 90ter, §§ 2 à 4, à l'exception de l'article 90ter, § 2, 11°, à la condition qu'elle soit commise dans le cadre d'une organisation criminelle visée à l'article 324bis du Code pénal, ou une des infractions visées au [<sup>3</sup> livre II, titre 4, chapitre 1er,]<sup>3</sup> du Code pénal ou si des faits précis laissent présumer que des tiers soupçonnés d'avoir commis une de ces infractions utilisent ses locaux ou sa résidence.]<sup>2</sup>
+
+Ces mesures ne peuvent être exécutées sans que le bâtonnier ou le représentant de l'ordre provincial des médecins en soit averti. [<sup>1</sup> Ces personnes sont tenues au secret. Toute violation du secret est punie conformément à [<sup>3</sup> l'article 352]<sup>3</sup> du Code pénal.]<sup>1</sup>
+
+Dans son instruction, le juge d'instruction a le droit de consulter à tout moment le dossier confidentiel concernant l'exécution des méthodes particulières de recherche, sans pouvoir faire mention de son contenu dans le cadre de son instruction. II peut toujours, de manière motivée, modifier, compléter ou prolonger l'autorisation. II peut à tout instant retirer l'autorisation. II vérifie si les conditions relatives à la méthode particulière de recherche sont remplies chaque fois que l'autorisation est modifiée, complétée ou prolongée.
+
+Le juge d'instruction confirme par ordonnance écrite l'existence de l'autorisation de la méthode particulière de recherche qu'il a accordée.
+
+Les procès-verbaux rédigés, ainsi que l'ordonnance visée à l'alinéa précédent, sont joints au dossier répressif au plus tard après qu'il est mis fin à la méthode particulière de recherche.
+
+(NOTE : par son arrêt n° 202/2004 du 21-12-2004 (M.B. 06-01-2005, p. 377-378), la Cour d'Arbitrage a annulé art. 56bis, alinéa 2, en tant qu'il peut être appliqué en combinaison avec l'article 28septies)
+
+----------
+
+(1)&lt;L 2016-12-25/37, art. 11, 088; En vigueur : 27-01-2017&gt;
+
+(2)&lt;L 2018-07-22/04, art. 9, 099; En vigueur : 17-08-2018&gt;
+
+(3)&lt;L 2026-03-11/03, art. 72, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 56ter**
+
+[<sup>1</sup> Afin de permettre les mesures visées à [<sup>3</sup> l'article 46quater, § 1er]<sup>3</sup>, le juge d'instruction peut, par sollicitation spécifique et motivée, demander des informations au Point de contact central [<sup>2</sup> tenu par la Banque nationale de Belgique conformément à la loi du 8 juillet 2018 portant organisation d'un point de contact central des comptes et contrats financiers et portant extension de l'accès du fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-07-01/01, art. 124, 084; En vigueur : 14-07-2016&gt;
+
+(2)&lt;L 2018-07-08/03, art. 20, 097; En vigueur : 26-07-2018&gt;
+
+(3)&lt;L 2019-05-05/10, art. 9, 102; En vigueur : 03-06-2019&gt;
+
+**Art. 57**
+
+&lt;L 1998-03-12/39, art. 9, 016 ; En vigueur : 1998-10-02&gt; § 1er. Sauf les exceptions prévues par la loi, l'instruction est secrète. Toute personne qui est appelée à prêter son concours professionnel à l'instruction est tenue au secret. Celui qui viole ce secret est puni des peines prévues à [<sup>1</sup> l'article 669]<sup>1</sup> du Code pénal.
+
+§ 2. Sans préjudice des dispositions des lois particulières, le juge d'instruction et tout service de police qui interrogent une personne, l'informent qu'elle peut demander une copie du [texte] de son audition, qui lui est délivrée gratuitement. &lt;L 2000-11-28/35, art. 37, 026; En vigueur : 01-04-2001&gt;
+
+Cette copie lui est remise ou adressée par le juge d'instruction immédiatement ou dans les quarante-huit heures et par les services de police immédiatement ou dans le mois. Toutefois, en raison de circonstances graves et exceptionnelles, le juge d'instruction peut, par une décision motivée, retarder le moment de cette communication pendant un délai de trois mois maximum renouvelable une fois. Cette ordonnance est déposée au dossier.
+
+[Lorsqu'il s'agit d'un mineur et qu'il apparaît qu'il existe un risque pour celui-ci d'être dépossédé de la copie ou de ne pouvoir en préserver le caractère personnel, le juge d'instruction peut, par une décision motivée, lui en refuser la communication. Cette décision est déposée au dossier.
+
+Dans ce cas, le mineur peut consulter une copie du texte de son audition, accompagné d'un avocat ou d'un assistant de justice du service d'accueil des victimes du parquet. Toutefois, en raison de circonstances graves et exceptionnelles, le juge d'instruction peut, par décision motivée, retarder le moment de cette consultation pendant un délai de trois mois maximum renouvelable une fois. Cette décision est déposée au dossier.
+
+Dans le cas visé à l'alinéa 4 et sans préjudice de l'application de l'alinéa 3, le juge d'instruction peut décider de délivrer une copie gratuite du texte de l'audition du mineur à l'avocat de ce dernier. Cette décision est déposée au dossier.] &lt;L 2000-11-28/35, art. 37, 026; En vigueur : 01-04-2001&gt;
+
+§ 3. Le procureur du Roi peut, de l'accord du juge d'instruction et lorsque l'intérêt public l'exige, communiquer des informations à la presse. Il veille au respect de la présomption d'innocence, des droits de la défense des inculpés, des victimes et des tiers, de la vie privée et de la dignité des personnes. Dans la mesure du possible, l'identité des personnes citées dans le dossier n'est pas communiquée.
+
+§ 4. L'avocat peut, lorsque l'intérêt de son client l'exige. communiquer des informations à la presse. Il veille au respect de la présomption d'innocence, des droits de la défense des inculpés, des victimes et des tiers, de la vie privée, de la dignité des personnes et des règles de la profession. Dans la mesure du possible, l'identité des personnes citées dans le dossier n'est pas communiquée.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 73, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 58**
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 42°&gt;
+
+#### SECTION II. - FONCTIONS DU JUGE D'INSTRUCTION.
+
+#### DISTINCTION I. - DES CAS DE FLAGRANT DELIT.
+
+**Art. 59**
+
+&lt;L 1998-03-12/39, art. 10, 016 ; En vigueur : 1998-10-02&gt; Dans tous les cas de [<sup>1</sup> flagrance]<sup>1</sup> ou réputés tels, le juge d'instruction peut se saisir des faits et poser directement les actes relevant de la compétence du procureur du Roi.
+
+Le juge d'instruction informe immédiatement le procureur du Roi pour lui permettre de prendre les réquisitions qu'il juge utiles.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 74, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 60**
+
+Lorsque [<sup>1</sup> l'infraction flagrante aura déjà été constatée]<sup>1</sup>, et que le [procureur du Roi] transmettra les actes et pièces au juge d'instruction, celui-ci sera tenu de faire, sans délai l'examen de la procédure. &lt;L 10-07-1967, art. 1, 44°&gt;
+
+Il peut refaire les actes ou ceux des actes qui ne lui paraîtraient pas complets.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 75, 130; En vigueur : 01-09-2026&gt;
+
+#### DISTINCTION II. - DE L'INSTRUCTION.
+
+###### § 1. DISPOSITIONS GENERALES.
+
+**Art. 61**
+
+Hors les cas de [<sup>1</sup> flagrance]<sup>1</sup>, le juge de l'instruction ne fera aucun acte d'instruction et de poursuite qu'il n'ait donné communication de la procédure au [procureur du Roi]. [...]. &lt;L 1998-03-12/39, art. 11, 016 ; En vigueur : 1998-10-02&gt;
+
+Néanmoins le juge d'instruction délivrera, s'il y a lieu, le mandat d'amener, [...], sans que [ce mandat] doive être précédé des conclusions du [procureur du Roi]. &lt;L 10-07-1967, art. 1, 45°&gt; &lt;L 1998-03-12/39, art. 11, 016 ; En vigueur : 1998-10-02&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 76, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 61bis**
+
+&lt;inséré par L 1998-03-12/39, art. 12 ; En vigueur : 1998-10-02&gt; Le juge d'instruction procède à l'inculpation de toute personne contre laquelle existent des indices sérieux de culpabilité. Cette inculpation est faite lors d'un interrogatoire ou par notification à l'intéressé.
+
+Bénéficie des mêmes droits que l'inculpé toute personne à l'égard de laquelle l'action publique est engagée dans le cadre de l'instruction.
+
+**Art. 61ter**
+
+&lt;inséré par L 1998-03-12/39, art. 13; En vigueur : 1998-10-02&gt; § 1er. [<sup>1</sup> Les parties directement intéressées, visées à l'article 21bis, peuvent, pendant l'instruction, demander au juge d'instruction l'autorisation de consulter le dossier ou d'en obtenir copie.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> A peine d'irrecevabilité, la requête est motivée et contient élection de domicile en Belgique si le requérant n'y a pas son domicile [<sup>2</sup> ou son siège]<sup>2</sup>. Elle est adressée ou déposée au greffe du tribunal de première instance au plus tôt un mois après l'engagement des poursuites et est [<sup>2</sup> insérée]<sup>2</sup> dans un registre ouvert à cet effet. Le greffier en communique sans délai une copie au procureur du Roi. Celui-ci prend les réquisitions qu'il juge utiles.
+
+Le juge d'instruction statue au plus tard dans le mois de l'[<sup>2</sup> insertion]<sup>2</sup> de la requête dans le registre.
+
+L'ordonnance est communiquée par le greffier au procureur du Roi et est notifiée au requérant et, le cas échéant, à son conseil [<sup>2</sup> par télécopie, par lettre simple ou par voie électronique]<sup>2</sup> dans les huit jours à dater de la décision.]<sup>1</sup>
+
+§ 3. [<sup>1</sup> Le juge d'instruction peut interdire la consultation ou la copie du dossier ou de certaines pièces si les nécessités de l'instruction le requièrent, ou si la consultation présente un danger pour les personnes ou porte gravement atteinte à leur vie privée ou que le requérant ne justifie pas d'un motif légitime pour consulter le dossier. Le juge d'instruction peut limiter la consultation ou la copie à la partie du dossier pour laquelle le requérant peut justifier d'un intérêt.]<sup>1</sup>
+
+§ 4. [<sup>1</sup> S'il est accédé à la demande de consultation ou d'obtention d'une copie, le dossier est, sans préjudice de l'application éventuelle du § 3, mis à disposition dans les vingt jours de l'ordonnance du juge d'instruction et au plus tôt après le délai visé au § 5, alinéa 1er, en original ou en copie, pour être consulté par le requérant et son conseil pendant quarante-huit heures au moins. Le greffier donne avis au requérant et à son conseil, [<sup>2</sup> par télécopie, par lettre simple ou par voie électronique]<sup>2</sup>, du moment où le dossier pourra être consulté.
+
+Le requérant ne peut faire usage des renseignements obtenus par la consultation ou la copie que dans l'intérêt de sa défense, à la condition de respecter la présomption d'innocence, ainsi que les droits de la défense de tiers, la vie privée et la dignité de la personne, sans préjudice du droit prévu à l'article 61quinquies pour l'inculpé et la partie civile.]<sup>1</sup>
+
+[<sup>3</sup> L'acceptation de la demande de consultation du dossier implique que le requérant ou son avocat peuvent eux-mêmes et par leurs propres moyens, en prendre une copie gratuitement, sur place. Le juge d'instruction peut toutefois, de manière motivée, interdire la prise de copie du dossier ou de certaines pièces si les nécessités de l'instruction le requièrent, ou si cette prise de copie présente un danger pour les personnes ou porte gravement atteinte à leur vie privée.]<sup>3</sup>
+
+§ 5. Le procureur du Roi et le requérant peuvent saisir la chambre des mises en accusation d'un recours par requête motivée [déposée au greffe du tribunal de première instance dans un délai de huit jours et [<sup>2</sup> insérée]<sup>2</sup> dans un registre ouvert à cet effet]. Ce délai court à l'égard du procureur du Roi à compter du jour où l'ordonnance est portée à sa connaissance et à l'égard du requérant, du jour où elle lui est notifiée. Le recours du procureur du Roi a un effet suspensif sur l'exécution de l'ordonnance du juge d'instruction. &lt;L 2001-07-04/40, art. 3, 028; En vigueur : 03-08-2001&gt;
+
+La chambre des mises en accusation statue sans débat dans les quinze jours du dépôt de la requête.
+
+Le greffier donne avis au requérant et, le cas échéant. à son conseil, [<sup>2</sup> par télécopie, par lettre simple ou par voie électronique]<sup>2</sup>, des lieu, jour et heure de l'audience, au plus tard quarante-huit heures à l'avance.
+
+Le procureur général peut transmettre ses réquisitions écrites et le juge d'instruction peut transmettre un rapport à la chambre des mises en accusation. La chambre des mises en accusation [<sup>2</sup> peut entendre, séparément et en l'absence des parties, les observations du procureur général]<sup>2</sup>. [<sup>2</sup> Elle peut entendre séparément le juge d'instruction, le requérant ou son avocat, en présence du procureur général.]<sup>2</sup>
+
+§ 6. [Si le juge d'instruction n'a pas statué dans le délai prévu au § 2, alinéa 2, majoré de quinze jours, le requérant peut saisir la chambre des mises en accusation. Celui-ci est déchu de ce droit si la requête motivée n'est pas déposée, dans les huit jours, au greffe du tribunal de première instance. La requête est [<sup>2</sup> insérée]<sup>2</sup> dans un registre ouvert à cet effet. La procédure se déroule conformément au § 5, alinéas 2 à 4.] &lt;L 2001-07-04/40, art. 3, 028; En vigueur : 03-08-2001&gt;
+
+§ 7. Le requérant ne peut [adresser ni déposer] de requête ayant le même objet avant l'expiration d'un délai de trois mois à compter de la dernière décision portant sur le même objet. &lt;L 2001-07-04/40, art. 3, 028; En vigueur : 03-08-2001&gt;
+
+----------
+
+(1)&lt;L 2012-12-27/29, art. 25, 066; En vigueur : 10-02-2013&gt;
+
+(2)&lt;L 2018-03-18/14, art. 5, 095; En vigueur : 12-05-2018&gt;
+
+(3)&lt;L 2019-05-05/19, art. 147, 103; En vigueur : 29-06-2019&gt;
+
+**Art. 61ter/1**
+
+[<sup>1</sup> L'article 61ter, §§ 2, alinéa 1er, deuxième, troisième et quatrième phrase, à 6, s'applique à la demande des parties directement intéressées de consulter leurs données à caractère personnel traitées dans le dossier ou à la demande d'en obtenir une copie, conformément au droit d'accès repris à l'article 37, § 1er, 5°, de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel.
+
+Sous peine d'irrecevabilité le requérant indique dans sa requête qu'il souhaite exercer son droit visé à l'alinéa 1er et élit domicile en Belgique si le requérant n'y a pas son domicile ou son siège.
+
+Le juge d'instruction peut interdire ou limiter la consultation ou la prise de copie de données à caractère personnel traitées dans le dossier, conformément à un des motifs prévus à l'article 61ter, § 3, ou s'il s'agit d'une mesure nécessaire et proportionnelle en vue de:
+
+\- éviter une entrave aux instructions ou aux autres enquêtes réglementées, aux recherches ou aux procédures;
+
+\- prévenir les conséquences préjudiciables à des fins de prévention et de recherche des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales;
+
+\- protéger la sécurité publique;
+
+\- protéger la sécurité nationale; ou
+
+\- protéger les droits et libertés d'autrui.
+
+Dans ce cas, le juge d'instruction informe le requérant des motifs du refus ou de la limitation d'accès. Le juge d'instruction peut omettre cette information si cette communication est de nature à porter atteinte à l'un des objectifs mentionnés dans l'alinéa 3.
+
+Le requérant ne peut envoyer ni déposer de requête ayant le même objet avant l'expiration d'un délai de six mois à compter de la dernière décision portant sur le même objet.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-28/60, art. 57, 121; En vigueur : 08-04-2024&gt;
+
+**Art. 61quater**
+
+&lt;inséré par &lt;L 1998-03-12/39, art. 14 ; En vigueur : 1998-10-02&gt; § 1er. Toute personne lésée par un acte d'instruction relatif à ses biens peut en demander la levée au juge d'instruction.
+
+§ 2. La requête est motivée et contient élection de domicile en Belgique si le requérant n'y a pas son domicile. Elle est [adressée ou déposée au] au greffe du tribunal de première instance et est inscrite dans un registre ouvert à cet effet. Le greffier en communique sans délai une copie au procureur du Roi. Celui-ci prend les réquisitions qu'il juge utiles.&lt;L 2001-07-04/40, art. 4, 028; En vigueur : 03-08-2001&gt;
+
+Le juge d'instruction statue au plus tard dans les quinze jours [de l'inscription de la requête dans le registre] &lt;L 2001-07-04/40, art. 4, 028; En vigueur : 03-08-2001&gt;
+
+L'ordonnance est communiquée par le greffier au procureur du Roi et est notifiée au requérant et, le cas échéant, à son conseil [<sup>3</sup> par un envoi recommandé, par télécopie, ou par voie électronique]<sup>3</sup> dans un délai de huit jours à dater de la décision.
+
+§ 3. Le juge d'instruction peut rejeter la requête s'il estime que les nécessités de l'instruction le requièrent, lorsque la levée de l'acte compromet la sauvegarde des droits des parties ou des tiers, lorsque la levée de l'acte présente un danger pour les personnes ou les biens, ou dans les cas où la loi prévoit la restitution ou la confiscation desdits biens.
+
+Il peut accorder une levée totale, partielle ou assortie de conditions. [<sup>4</sup> ...]<sup>4</sup>
+
+§ 4. En cas de décision favorable, le juge d'instruction peut prononcer l'exécution provisoire de la décision lorsque tout retard pourrait entraîner un préjudice irréparable.
+
+§ 5. Le procureur du Roi et le requérant peuvent interjeter appel de l'ordonnance du juge d'instruction dans un délai de quinze jours. Ce délai court à l'égard du procureur du Roi à compter du jour où l'ordonnance est portée à sa connaissance et, à l'égard du requérant, du jour où elle lui est notifiée.
+
+L'appel est interjeté par déclaration au greffe du tribunal de première instance et inscrite dans un registre ouvert à cet effet.
+
+Le procureur du Roi transmet les pièces au procureur général qui les dépose au greffe.
+
+La chambre des mises en accusation statue dans les quinze jours du dépôt de la déclaration. Ce délai est suspendu pendant le temps de la remise accordée à la demande du requérant ou de son conseil.
+
+Le greffier donne avis au requérant et à son conseil, [<sup>2</sup> par télécopie, par lettre simple ou par voie électronique]<sup>2</sup>, des lieu, jour et heure de l'audience, au plus tard quarante-huit heures à l'avance.
+
+Le procureur général, le requérant et son conseil sont entendus.
+
+Sauf lorsque l'exécution provisoire a été ordonnée, l'appel est suspensif.
+
+Le requérant qui succombe peut être condamné aux frais.
+
+§ 6. [Si le juge d'instruction n'a pas statué dans le délai prévu au § 2, alinéa 2, majoré de quinze jours, le requérant peut saisir la chambre des mises en accusation. Celui-ci est déchu de ce droit si la requête motivée n'a pas été déposée, dans les huit jours, au greffe du tribunal de première instance. La requête est inscrite dans un registre ouvert à cet effet. La procédure se déroule conformément au § 5, alinéas 3 à 6.] &lt;L 2001-07-04/40, art. 4, 028; En vigueur : 03-08-2001&gt;
+
+[§ 7. Dès qu'un tribunal ou une cour est saisi, une requête au sens du § 2 peut être déposée au greffe de ce tribunal ou de cette cour. [<sup>1</sup> Il est statué sur cette requête en chambre du conseil dans les quinze jours.]<sup>1</sup> Le tribunal ou la cour peut rejeter le requête sur la base d'un des motifs mentionnés au § 3. S'il existe un appel ou si le tribunal ne statue pas dans les quinze jours du dépôt de la requête, le requérant peut interjeter appel devant la chambre des mises en accusation conformément au § 5. Si le tribunal accède à la requête, le procureur du Roi peut interjeter appel de la même manière et dans le même délai.] &lt;L 2002-12-19/86, art. 10, 036; En vigueur : 24-02-2003&gt;
+
+[§ 8.] Le requérant ne peut [adresser ni déposer] de requête ayant le même objet avant l'expiration d'un délai de trois mois à compter de la dernière décision portant sur le même objet. &lt;L 2001-07-04/40, art. 4, 028; En vigueur : 03-08-2001&gt; &lt;L 2002-12-19/86, art. 10, 036; En vigueur : 24-02-2003&gt;
+
+----------
+
+(1)&lt;L 2021-11-28/01, art. 6, 111; En vigueur : 10-12-2021&gt;
+
+(2)&lt;L 2022-12-06/02, art. 12, 114; En vigueur : 31-12-2022&gt;
+
+(3)&lt;L 2024-03-28/60, art. 10, 121; En vigueur : 08-04-2024&gt;
+
+(4)&lt;L 2026-03-11/03, art. 77, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 61quinquies**
+
+&lt;inséré par L &lt;L 1998-03-12/39, art. 15 ; En vigueur : 1998-10-02&gt; § 1er. L'inculpé et la partie civile peuvent demander au juge d'instruction l'accomplissement d'un acte d'instruction complémentaire.
+
+§ 2. La requête est motivée et contient élection de domicile en Belgique si le requérant n'y a pas son domicile; elle décrit avec précision l'acte d'instruction sollicité, et ce, à peine d'irrecevabilité. Elle est [adressée ou déposée au] greffe du tribunal de première instance et est inscrite dans un registre ouvert à cet effet. Le greffier en communique sans délai une copie au procureur du Roi. Celui-ci prend les réquisitions qu'il juge utiles. &lt;L 2001-07-04/40, art. 5, 028; En vigueur : 03-08-2001&gt;
+
+Le juge d'instruction statue [, à peine de nullité de son ordonnance,] au plus tard dans le mois [de l'inscription de la requête dans le registre]. Ce délai est ramené à huit jours si un des inculpés se trouve en détention préventive. &lt;L 2001-07-04/40, art. 5, 028; En vigueur : 03-08-2001&gt; &lt;L 2001-07-04/40, art. 5, 028; En vigueur : 03-08-2001&gt;
+
+L'ordonnance est communiquée au procureur du Roi par le greffier, notifiée au requérant et, le cas échéant, à son conseil, [<sup>1</sup> par un envoi recommandé, par télécopie, ou par voie électronique]<sup>1</sup>, dans un délai de huit jours à dater de la décision.
+
+§ 3. Le juge d'instruction peut rejeter cette demande s'il estime que la mesure n'est pas nécessaire a la manifestation de la vérité, ou est, à ce moment, préjudiciable à l'instruction.
+
+§ 4. L'ordonnance du juge d'instruction est susceptible de recours conformément à l'article 61quater, § 5.
+
+§ 5. Si le juge d'instruction n'a pas statué dans le délai prévu au § 2, alinéa 2, [majoré de quinze jours,] le requérant peut saisir la chambre des mises en accusation conformément à l'article 61quater, § 6. &lt;L 2001-07-04/40, art. 5, 028; En vigueur : 03-08-2001&gt;
+
+§ 6. Le requérant ne peut [adresser ou déposer] de requête ayant le même objet avant l'expiration d'un délai de trois mois à compter de la dernière décision portant sur le même objet. &lt;L 2001-07-04/40, art. 5, 028; En vigueur : 03-08-2001&gt;
+
+----------
+
+(1)&lt;L 2024-03-28/60, art. 11, 121; En vigueur : 08-04-2024&gt;
+
+**Art. 61quinquies/1**
+
+[<sup>1</sup> L'inculpé et la partie civile peuvent demander au juge d'instruction de rectifier et d'éventuellement compléter, effacer ou interdire les données à caractère personnel les concernant, ou de limiter leur utilisation conformément aux articles 39, § 1er, et 210 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel.
+
+Sous peine d'irrecevabilité, le requérant indique dans sa requête qu'il souhaite exercer ses droits visés dans l'alinéa premier.
+
+Sous peine d'irrecevabilité, la requête identifie précisément les pièces et les données à caractère personnel qu'elle contient et qui font l'objet de la demande. L'article 61quinquies, § 2, s'applique.
+
+Le juge d'instruction peut rejeter cette demande, conformément aux motifs prévus à l'article 61quinquies, § 3, car la demande n'est pas fondée ou s'il s'agit d'une mesure nécessaire et proportionnelle sur la base d'un des motifs suivants:
+
+\- éviter une entrave aux instructions ou aux autres enquêtes réglementées, aux recherches ou aux procédures;
+
+\- prévenir les conséquences préjudiciables à des fins de prévention et de recherche des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales;
+
+\- protéger la sécurité publique;
+
+\- protéger la sécurité nationale;
+
+\- protéger et les droits et libertés d'autrui.
+
+Dans ce cas, le juge d'instruction informe le requérant des motifs du refus. Le juge d'instruction peut omettre ces informations si cette communication porte atteinte à l'un des objectifs mentionnés à l'alinéa précédent.
+
+Le requérant peut interjeter appel contre la décision du juge d'instruction devant la chambre des mises en accusation moyennant une requête motivée déposée au greffe du tribunal de première instance, dans un délai de huit jours à compter de la notification de la décision au requérant, et insérée dans un registre prévu à cet effet.
+
+Si le juge d'instruction n'a pas pris de décision dans le délai visé à l'article 61quinquies, § 2, alinéa 2, augmenté de quinze jours, le requérant peut s'adresser à la chambre des mises en accusation. Ce droit prend fin si la requête motivée n'est pas déposée dans les huit jours suivant l'expiration du délai, au greffe du tribunal de première instance. La requête est insérée dans un registre prévu à cet effet.
+
+Le juge d'instruction transmet les pièces désignées par le requérant au procureur du Roi. Le procureur du Roi les transmet au procureur général, qui les dépose au greffe.
+
+La chambre des mises en accusation se prononce sans débat.
+
+Le greffier communique, par télécopie, par lettre simple ou par voie électronique, les lieu, jour et heure de l'audience au requérant et, le cas échéant, à son avocat, au plus tard quarante-huit heures au préalable.
+
+La chambre des mises en accusation peut entendre, séparément et en l'absence des parties, le procureur général en ses observations. Elle peut entendre le requérant ou son avocat en présence du procureur général. Le procureur général peut adresser ses réquisitions écrites à la chambre des mises en accusation.
+
+Si la demande a pour objet l'effacement, l'interdiction ou la limitation de l'utilisation de données à caractère personnel et que la chambre des mises en accusation constate, dans le cadre de sa compétence juridictionnelle qui lui est ainsi conférée, une irrégularité, une omission ou une cause de nullité visée à l'article 131, § 1er, elle peut décider d'effacer les données à caractère personnel du dossier et de déposer les pièces au greffe du tribunal de première instance, le cas échéant, en joignant les pièces épurées de ces données à caractère personnel au dossier. Si la chambre des mises en accusation constate qu'il n'existe pas de motifs de refus prévus au présent paragraphe et sans préjudice de l'application de l'alinéa 12, elle peut également décider d'entendre de la même manière les autres parties impliquées dans la procédure et décider dans quelle mesure les pièces déposées au greffe peuvent encore être utilisées dans la procédure pénale à charge par une partie impliquée dans la procédure pénale.
+
+La chambre des mises en accusation statue dans les quinze jours du dépôt de la requête. Ce délai est suspendu pendant le temps de la remise accordée à la demande du requérant ou de son conseil ou, le cas échéant, des autres parties et leur conseil si la chambre des mises en accusation décide de les entendre.
+
+Si le juge d'instruction constate qu'il peut y avoir des motifs pour donner suite à la demande d'effacement, d'interdiction ou de limitation de l'utilisation de données à caractère personnel, il transmet le dossier au procureur du Roi. Le procureur du Roi le transmet au procureur général. Le requérant et, le cas échéant, son avocat, sont informés conformément à ce qui est prévue à l'article 61quinquies, § 2. Cette décision n'est susceptible d'aucun recours. La procédure se déroule conformément au présent paragraphe.
+
+Le juge d'instruction peut prendre des mesures conservatoires afin de limiter l'utilisation et la consultation de ces données à caractère personnel.
+
+Le requérant ne peut envoyer ni déposer une requête ayant le même objet avant l'expiration d'un délai de six mois à compter de la dernière décision portant sur le même objet.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-28/60, art. 58, 121; En vigueur : 08-04-2024&gt;
+
+**Art. 61sexies**
+
+&lt;L 2006-12-27/33, art. 3, 049; En vigueur : 07-01-2007&gt; § 1er. Le juge d'instruction qui estime devoir maintenir la saisie sur des avoirs patrimoniaux, peut néanmoins :
+
+1° autoriser leur aliénation par l'Organe central, afin de leur subroger le produit obtenu;
+
+2° les restituer à la personne saisie moyennant le paiement d'une somme d'argent dont il fixe le montant, afin de leur subroger cette somme.
+
+Le juge d'instruction prononce l'exécution provisoire de son ordonnance lorsqu'un retard peut entraîner un préjudice irréparable.
+
+[<sup>1</sup> 3° ordonner la conservation en nature d'avoirs patrimoniaux saisis en fonction des moyens disponibles.]<sup>1</sup>
+
+§ 2. L'autorisation d'aliéner porte sur des avoirs patrimoniaux remplaçables, de valeur aisément déterminable et dont la conservation en nature peut entraîner une dépréciation, un dommage ou des frais disproportionnés au regard de leur valeur.
+
+§ 3. Le juge d'instruction informe le procureur du Roi de son ordonnance visée au § 1er, et la notifie [<sup>2</sup> par un envoi recommandé, par télécopie, ou par voie électronique]<sup>2</sup> :
+
+1° aux personnes à charge et entre les mains desquelles la saisie a été opérée, pour autant que leurs adresses soient connues et leurs avocats;
+
+2° aux personnes qui d'après les données du dossier se sont expressément manifestées comme lésées par l'acte d'instruction et leurs avocats;
+
+3° en cas de saisie immobilière, aux créanciers connus selon l'état hypothécaire et leurs avocats.
+
+La notification contient le texte du présent article.
+
+Une notification ne doit pas être adressée aux personnes qui ont donné leur consentement pour la mesure de gestion concernée ou qui ont renoncé à leurs droits sur les avoirs saisis.
+
+§ 4. Le procureur du Roi et les personnes auxquelles la notification a été adressée peuvent saisir la chambre des mises en accusation dans les quinze jours de la notification de l'ordonnance.
+
+Ce délai est prolongé de quinze jours si une de ces personnes réside hors du Royaume.
+
+La procédure se déroule conformément aux dispositions de l'article 61quater, § 5, alinéas 2 à 8.
+
+§ 5. En cas d'aliénation, le juge d'instruction met les avoirs patrimoniaux à disposition de l'Organe central ou, à sa demande, du mandataire désigné.
+
+§ 6. Lorsque la décision d'aliénation porte sur un immeuble, l'adjudication a pour effet que les droits des créanciers inscrits sont reportés sur le prix, sous réserve de la saisie pénale.
+
+----------
+
+(1)&lt;L 2018-02-04/04, art. 42, 094; En vigueur : 01-07-2018&gt;
+
+(2)&lt;L 2024-03-28/60, art. 12, 121; En vigueur : 08-04-2024&gt;
+
+**Art. 62**
+
+[<sup>1</sup> § 1er. Lorsque le juge d'instruction se rend sur les lieux, il est toujours accompagné du procureur du Roi et du greffier du tribunal.
+
+Lorsque le juge d'instruction organise la descente sur les lieux, dont il assure la direction, en vue de la reconstitution des faits, le suspect et son avocat, conformément au rôle qui est dévolu à ce dernier par l'article 47bis, § 6, 7), et la partie civile et son avocat ont le droit d'y assister.
+
+Sans préjudice des droits de la défense, l'avocat est tenu de garder secrètes les informations dont il acquiert la connaissance en assistant à la descente sur les lieux organisée en vue de la reconstitution des faits. Celui qui viole ce secret est puni des peines prévues à [<sup>2</sup> l'article 352]<sup>2</sup> du Code pénal.
+
+§ 2. Les dispositions de l'article 47bis s'appliquent à l'audition de confrontation.
+
+§ 3. L'avocat du suspect peut assister à la séance d'identification des suspects. A l'issue de la séance d'identification des suspects, l'avocat peut demander que ses observations relatives au déroulement de la séance soient consignées dans le procès-verbal.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-11-21/02, art. 4, 086; En vigueur : 27-11-2016&gt;
+
+(2)&lt;L 2026-03-11/03, art. 78, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 62bis**
+
+&lt;L 27-03-1969, art. 2&gt; Sont également compétents le juge d'instruction du lieu [<sup>3</sup> d'une infraction]<sup>3</sup>, celui de la résidence du prévenu [celui du siège social de la personne morale, celui du siège d'exploitation de la personne morale] [<sup>2</sup> , celui du lieu où le suspect pourra être trouvé, celui de la dernière résidence connue de la victime si le suspect ne peut pas être trouvé en Belgique et, à défaut, celui de Bruxelles]<sup>2</sup>. &lt;L 1999-05-04/60, art. 14, 024; En vigueur : 02-07-1999&gt;
+
+[Le juge d'instruction, saisi d'une infraction dans les limites de cette compétence, peut procéder ou faire procéder hors de son arrondissement à tous actes de police judiciaire, d'information ou d'instruction relevant de ses attributions. Il en avise le procureur du Roi de l'arrondissement dans lequel l'acte doit être accompli.] &lt;L 1998-03-12/39, art. 16, 016 ; En vigueur : 1998-10-02&gt;
+
+[En temps de paix, lorsqu'il est saisi de faits commis à l'étranger qui peuvent être poursuivis en Belgique en vertu de l'[<sup>2</sup> article 10]<sup>2</sup> du titre préliminaire du présent Code, le juge d'instruction exerce toutes ses attributions comme si les faits avaient été commis sur le territoire du Royaume. Dans ce cas, lorsque le prévenu n'a pas de résidence en Belgique, les juges d'instruction du tribunal de première instance de Bruxelles sont compétents.] &lt;L 2003-04-10/59, art. 84, 037; En vigueur : 01-01-2004&gt;
+
+[Les juges d'instruction spécialisés pour connaître des infractions visées aux [<sup>3</sup> articles 371 à 386]<sup>3</sup> du Code pénal sont compétents pour connaître des faits dont ils sont saisis par le doyen de ces juges d'instruction, lorsque le procureur fédéral a transmis un dossier conformément à l'article 47duodecies, § 3, indépendamment du lieu de l'infraction, du lieu de résidence de l'auteur présumé ou du lieu où celui-ci pourra être trouvé.
+
+Ils exercent dans ce cas leurs attributions sur toute l'étendue du territoire du Royaume.
+
+En cas d'empêchement légal, ils peuvent être remplacés par les juges d'instruction du tribunal de première instance dont ils font partie.] &lt;L 2005-12-27/34, art. 17, 046; En vigueur : 29-06-2006&gt;
+
+[<sup>1</sup> Les juges d'instruction spécialisés visés à l'article 79, alinéa 6, du Code judiciaire sont compétents pour connaître des faits dont ils sont saisis conformément à l'article 47quaterdecies, alinéa 2, par le procureur européen ou les procureurs européens délégués désignés conformément à l'article 309/2 du Code judiciaire. En cas d'empêchement légal, ils peuvent être remplacés par les juges d'instruction du tribunal de première instance dont ils font partie.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-02-17/04, art. 9, 109; En vigueur : 24-02-2021&gt;
+
+(2)&lt;L 2024-04-09/07, art. 42, 122; En vigueur : 28-04-2024&gt;
+
+(3)&lt;L 2026-03-11/03, art. 79, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 62ter**
+
+&lt;inséré par L 1998-03-12/39, art. 17; En vigueur : 1998-10-02&gt; En cas de manquement des officiers de police judiciaire chargés de l'enquête, le juge d'instruction le signale au procureur général et à l'autorité disciplinaire compétente.
+
+**Art. 62quater**
+
+[<sup>1</sup> § 1er. S'il résulte de l'instruction que le crime reproché à l'inculpé paraît relever de la compétence de la cour d'assises, le juge d'instruction ordonne, dans les plus brefs délais, une enquête de moralité.
+
+Cette enquête rassemble les informations pertinentes sur l'inculpé, recueillies auprès de personnes de son entourage, ainsi que des informations pertinentes relatives à la personnalité de la victime. Un compte rendu de chaque entretien est rédigé.
+
+Le Roi détermine les modalités de l'enquête de moralité.
+
+§ 2. Le juge d'instruction ordonne également, dans les plus brefs délais, une expertise psychologique ou psychiatrique de l'inculpé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-21/14, art. 6, 054; En vigueur : 01-01-2014 (voir AR 2013-07-17/29, art. 36)&gt;
+
+###### § 2. DES PLAINTES.
+
+**Art. 63**
+
+&lt;L 27-03-1969, art. 3&gt; Toute personne qui se prétendra lésée par [<sup>2</sup> une infraction]<sup>2</sup> pourra en rendre plainte et se constituer partie civile devant le juge d'instruction compétent.
+
+[<sup>1</sup> Toute victime qui se constitue partie civile, peut être entendue, sur simple demande, au moins une fois, par le juge d'instruction chargé de l'affaire. ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2012-12-14/52, art. 6, 067; En vigueur : 02-05-2013&gt;
+
+(2)&lt;L 2026-03-11/03, art. 80, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 64**
+
+Les plaintes qui auraient été adressées au [procureur du Roi] [pourront être par lui transmises] au juge d'instruction avec son réquisitoire; celles qui auraient été présentées aux officiers auxiliaires de police seront par eux envoyées au [procureur du Roi], et transmises par lui au juge d'instruction, aussi avec son réquisitoire. &lt;L 10-07-1967, art. 1, 44°&gt; &lt;L 1998-03-12/39, art. 18, 016 ; En vigueur : 1998-10-02&gt;
+
+Dans les matières du ressort de la police correctionnelle, la partie lésée pourra s'adresser directement au tribunal correctionnel, dans la forme qui sera ci après réglée.
+
+**Art. 65**
+
+Les dispositions de l'article 31 concernant les dénonciations seront communes aux plaintes.
+
+**Art. 66**
+
+Les plaignants ne seront réputés partie civile s'ils ne le déclarent formellement, soit par la plainte, soit par acte subséquent, ou s'ils ne prennent, par l'un ou par l'autre, des conclusions en dommages-intérêts; ils pourront se départir dans les vingt-quatre heures; dans le cas du désistement, ils ne sont pas tenus des frais depuis qu'il aura été signifié sans préjudice néanmoins des dommages-intérêts des [inculpés], s'il y a lieu. &lt;L 10-07-1967, art. 1, 249°&gt;
+
+**Art. 67**
+
+Les plaignants pourront se porter partie civile en tout état de cause jusqu'à la clôture des débats; mais en aucun cas leur désistement après le jugement ne peut être valable, quoiqu'il ait été donné dans les vingt-quatre heures de leur déclaration qu'ils se portent partie civile.
+
+**Art. 68**
+
+[Toute partie civile est tenue d'élire domicile en Belgique, si elle n'y a pas son domicile.] &lt;L 1998-03-12/39, art. 19, 016 ; En vigueur : 1998-10-02&gt;
+
+A défaut d'élection de domicile par la partie civile, elle ne pourra opposer le défaut de signification contre les actes qui auraient dû lui être signifiés aux termes de la loi.
+
+**Art. 69**
+
+Dans le cas où le juge d'instruction ne serait ni celui du lieu [<sup>1</sup> de l'infraction]<sup>1</sup>, ni celui de la résidence [de l'inculpé], ni celui du lieu où il pourra être trouvé [, ni celui du siège social de la personne morale, ni celui du siège d'exploitation de la personne morale], il renverra la plainte devant le juge d'instruction qui pourrait en connaître. &lt;L 10-07-1967, art. 1, 48°&gt; &lt;L 1999-05-04/60, art. 14, 024; En vigueur : 02-07-1999&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 81, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 70**
+
+Le juge d'instruction compétent pour connaître de la plainte en ordonnera la communication au [procureur du Roi], pour être par lui requis ce qu'il appartiendra. &lt;L 10-07-1967, art. 1, 49°&gt;
+
+###### § 2bis. DE L'AUDITION EN GENERAL &lt;inséré par L 1998-03-12/39, art. 20; En vigueur : 1998-10-02&gt;
+
+**Art. 70bis**
+
+&lt;inséré par L 1998-03-12/39, art. 20; En vigueur : 1998-10-02&gt; Les dispositions prévues à l'article 47bis sont applicables aux interrogatoires effectués dans le cadre de l'instruction.
+
+###### § 3. DE L'AUDITION DES TEMOINS.
+
+**Art. 71**
+
+Le juge d'instruction fera citer devant lui les personnes qui auront été indiquées par la dénonciation, par la plainte, par le [procureur du Roi] ou autrement, comme ayant connaissance, soit [<sup>1</sup> de l'infraction]<sup>1</sup>, soit de ses circonstances. &lt;L 10-07-1967, art. 1, 49°&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 82, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 72**
+
+Les témoins seront cités par un huissier [de justice], ou par un agent de la force publique, à la requête du [procureur du Roi]. &lt;L 05-07-1963, art. 48, § 4&gt; &lt;L 10-07-1967, art. 1, 49°&gt;
+
+**Art. 73**
+
+Ils seront entendus séparément, et hors de la présence [de l'inculpé], par le juge d'instruction, assisté de son greffier. &lt;L 10-07-1967, art. 1, 249°&gt;
+
+**Art. 74**
+
+Ils représenteront avant d'être entendus la citation qui leur aura été donnée pour déposer; et il en sera fait mention dans le procès-verbal.
+
+**Art. 75**
+
+Les témoins prêteront serment de dire toute la vérité, rien que la vérité; le juge d'instruction leur demandera leurs noms, prénoms, âge, état, profession, demeure, s'ils sont domestiques, parents ou alliés des parties, et à quel degré; il sera fait mention de la demande et des réponses des témoins.
+
+**Art. 75bis**
+
+&lt;inséré par L 2002-04-08/51, art. 2; En vigueur : 01-11-2002&gt; Le juge d'instruction peut décider, soit d'office, soit à la demande du témoin ou de la personne à l'égard de laquelle l'action publique est engagée dans le cadre de l'instruction, de l'inculpé, de la partie civile ou de leurs conseils, soit sur réquisition du ministère public, qu'il ne sera pas fait mention dans le procès-verbal d'audition de certaines des données d'identité prévues à l'article 75, s'il existe une présomption raisonnable que le témoin, ou une personne de son entourage, pourrait subir un préjudice grave à la suite de la divulgation de ces données et de sa déposition. Les raisons qui ont incité le juge d'instruction à prendre cette décision sont indiquées dans un procès-verbal. L'ordonnance du juge d'instruction par laquelle il accorde ou refuse l'anonymat partiel n'est susceptible d'aucun recours.
+
+Le procureur du Roi tient un registre de tous les témoins dont des données d'identité, conformément à cet article, ne figurent pas au procès-verbal d'audition.
+
+Le procureur du Roi et le juge d'instruction prennent, chacun pour ce qui le concerne, les mesures raisonnablement nécessaires pour éviter la divulgation des données d'identité, visées à l'alinéa 1.
+
+**Art. 75ter**
+
+&lt;inséré par L 2002-04-08/51, art. 3; En vigueur : 01-11-2002&gt; Par dérogation à l'article 75, il ne faut pas faire état de la demeure des personnes qui, dans l'exercice de leurs activités professionnelles, sont chargées de la constatation et de l'instruction d'une infraction ou qui, à l'occasion de l'application de la loi, prennent connaissance des circonstances dans lesquelles l'infraction a été commise, et qui sont en cette qualité entendues comme témoins. En lieu et place, ils peuvent indiquer leur adresse de service ou l'adresse à laquelle ils exercent habituellement leur profession. La citation à témoigner peut être régulièrement signifiée à cette adresse.
+
+**Art. 75quater**
+
+[<sup>1</sup> Si une plainte est déposée contre ou par une personne qui est visée aux articles 112quater et 112quinquies ou qui, dans l'exercice de ses activités professionnelles, est chargée de la recherche, de la constatation, de l'instruction, de la poursuite, du jugement d'infractions ou de l'exécution de la peine, les procès-verbaux et autres pièces du dossier ne font pas état de son domicile ou de sa résidence, mais la personne concernée communique à quelle adresse elle élit domicile et à laquelle les significations ultérieures dans le cadre de l'enquête et de la procédure pénale peuvent être faites.
+
+Les citations et significations sont valablement faites à cette adresse, jusqu'à ce que la personne concernée informe le procureur du Roi d'un changement du domicile élu par envoi recommandé.
+
+Dans le cas où un procès-verbal ou toute autre pièce du dossier fait mention du domicile ou de la résidence de la personne visée à l'alinéa 1er, le procureur du Roi ou, le cas échéant, le juge d'instruction ordonne le retrait de toutes les mentions et les remplace par l'adresse du domicile élu mentionné visé à l'alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-25/14, art. 3, 087; En vigueur : 09-01-2017&gt;
+
+**Art. 76**
+
+Les dépositions seront signées du juge, du greffier et du témoin, après que lecture lui en aura été faite et qu'il aura déclaré y persister; si le témoin ne veut ou ne peut signer, il en sera fait mention.
+
+Chaque page du cahier d'information sera signée par le juge et par le greffier.
+
+**Art. 77**
+
+&lt;Abrogé par L 2026-03-11/03, art. 83, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 78**
+
+Aucun interligne ne pourra être fait : les ratures et les renvois seront approuvés et signés par le juge d'instruction, par le greffier et par le témoin [<sup>1</sup> ...]<sup>1</sup>. Les interlignes, ratures et renvois non approuvés, seront réputés non avenus.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 84, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 79**
+
+Les enfants de l'un et de l'autre sexe, au-dessous de l'âge de quinze ans, pourront être entendus, par forme de déclaration et sans prestation de serment.
+
+**Art. 80**
+
+Toute personne citée pour être entendue en témoignage, sera tenue de comparaître et de satisfaire à la citation; sinon, elle pourra y être contrainte par le juge d'instruction, qui, à cet effet, sur les conclusions du [procureur du Roi], sans autre formalité ni délai, et sans appel, prononcera [<sup>2</sup> la peine prévue par la loi]<sup>2</sup>, et pourra ordonner que la personne citée sera contrainte par corps à venir donner son témoignage. &lt;L 10-07-1967, art. 1, 49°&gt;
+
+----------
+
+(1)&lt;L 2009-12-21/14, art. 7, 054; En vigueur : 21-01-2010&gt;
+
+(2)&lt;L 2026-03-11/03, art. 85, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 81**
+
+Le témoin ainsi condamné [<sup>1</sup> à une peine]<sup>1</sup> sur le premier défaut, et qui, sur la seconde citation, produira devant le juge d'instruction des excuses légitimes, pourra, sur les conclusions du [procureur du Roi], être déchargé [<sup>1</sup> de cette peine]<sup>1</sup>. &lt;L 10-07-1967, art. 1, 49°&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 86, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 82**
+
+Chaque témoin qui demandera une indemnité sera taxé par le juge d'instruction.
+
+**Art. 83**
+
+Lorsqu'il sera constaté, par le certificat d'un [médecin], que des témoins se trouvent dans l'impossibilité de comparaître sur la citation qui leur aura été donnée, le juge d'instruction se transportera en leur demeure, quand ils habiteront dans le canton de la justice de paix du domicile du juge d'instruction. &lt;L 10-07-1967, art. 1, 50°&gt;
+
+Si les témoins habitent hors du canton, le juge d'instruction pourra commettre le juge de paix de leur habitation à l'effet de recevoir leur déposition, et il enverra au juge de paix des notes et instructions qui feront connaître les faits sur lesquels les témoins devront déposer.
+
+**Art. 84**
+
+Si les témoins résident hors de l'arrondissement du juge d'instruction, celui-ci requerra le juge d'instruction de l'arrondissement dans lequel les témoins sont résidants de se transporter auprès d'eux pour recevoir leurs dépositions.
+
+Dans le cas où les témoins n'habiteraient pas le canton du juge d'instruction ainsi requis, il pourra commettre le juge de paix de leur habitation, à l'effet de recevoir leurs dépositions, ainsi qu'il est dit dans l'article précédent.
+
+**Art. 85**
+
+Le juge qui aura reçu les dépositions, en conséquence des articles 83 et 84 ci-dessus, les enverra closes et cachetées au juge d'instruction du tribunal saisi de l'affaire.
+
+**Art. 86**
+
+&lt;Abrogé par L 2026-03-11/03, art. 87 130; En vigueur : 01-09-2026&gt;
+
+###### 3bis. DES TEMOIGNAGES ANONYMES. &lt;inséré par L 2002-04-08/51, art. 12; En vigueur : 01-11-2002&gt;
+
+**Art. 86bis**
+
+&lt;inséré par L 2002-04-08/51, art. 12; En vigueur : 01-11-2002&gt; § 1er. Si la mesure de protection prévue à l'article 75bis ne semble pas suffisante, le juge d'instruction peut ordonner soit d'office, soit sur réquisition du ministère public, à la suite, le cas échéant, de la demande d'une personne faisant l'objet d'une information, soit à la demande du témoin ou de la personne à l'égard de laquelle l'action publique est engagée dans le cadre de l'instruction, de l'inculpe ou de la partie civile ou de leurs conseils que l'identité du témoin soit tenue secrète de la manière arrêtée à l'article 86ter :
+
+1° s'il peut être admis que le témoin ou une personne de son entourage peut raisonnablement se sentir gravement menacé dans son intégrité en raison du témoignage, et si le témoin a fait part de son intention de ne pas déposer à cause de cette menace, ou
+
+2° s'il existe des indications précises et sérieuses que ce témoin ou une personne de son entourage court un danger, si le témoin est un officier ou un agent de police judiciaire.
+
+§ 2. L'identité du témoin peut seulement être tenue secrète, conformément à l'article 86ter, s'il existe des indications précises et sérieuses que les faits à propos desquels il sera déposé, constituent une infraction visée à l'article 90ter , §§ 2 à 4, ou toute infraction qui a été commise dans le cadre d'une organisation criminelle, visée à [<sup>1</sup> l'article 406]<sup>1</sup> du Code pénal, [...], si l'instruction de ces faits l'exige et si les autres moyens d'instruction ne semblent pas suffire à la manifestation de la vérité. &lt;L 2003-08-05/32, art. 20, 039; En vigueur : 07-08-2003&gt;
+
+§ 3. Avant de décider, le juge d'instruction prend connaissance de l'identité complète du témoin et contrôle sa fiabilité.
+
+§ 4. L'ordonnance rendue conformément au § 1er est motivée, datée et signée. Elle mentionne l'application des paragraphes ci-avant et la manière dont le juge d'instruction a vérifie la fiabilité du témoin, le tout à peine de nullité du témoignage effectué en application de l'article 86ter.
+
+§ 5. L'ordonnance du juge d'instruction par laquelle il accorde ou refuse l'anonymat complet n'est susceptible d'aucun recours.
+
+§ 6. Le procureur du Roi tient un registre de tous les témoins dont l'identité, conformément à cet article, est tenue secrète.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 88, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 86ter**
+
+&lt;inséré par L 2002-04-08/51, art. 12; En vigueur : 01-11-2002&gt; L'ordonnance par laquelle le juge d'instruction ordonne, conformément à l'article 86bis , de ne pas divulguer l'identité du témoin, est communiquée par le greffier au procureur du Roi, et est notifiée par lettre recommandée à la poste au témoin, à la personne à l'égard de laquelle l'action publique est engagée dans le cadre de l'instruction ou à l'inculpé, à la partie civile et à leurs conseils avec la convocation par laquelle ils sont invités à être présents à un endroit indiqué par le juge d'instruction et à un moment fixé par lui, aux fins d'assister à l'audition du témoin, à peine de nullité du témoignage effectué.
+
+Avant l'audition, le juge d'instruction avertit le témoin qu'il peut être tenu responsable pour les faits, commis dans le cadre de son témoignage, qui constitueraient une infraction prévue [<sup>1</sup> titre 3, chapitre 6, section 3, ou au titre 8, chapitre 5, section 1re, sous-section 2,]<sup>1</sup> du livre II du Code pénal.
+
+Le juge d'instruction procède à l'audition du témoin à l'endroit et au moment indiqués dans la convocation visée a l'alinéa 1. Le juge d'instruction prend toutes les mesures raisonnablement nécessaires pour tenir secrète l'identité du témoin. Le ministère public, la personne à l'égard de laquelle l'action publique est engagée dans le cadre de l'instruction ou l'inculpé, la partie civile et leurs conseils peuvent soumettre au juge d'instruction, avant et pendant l'audition du témoin, les questions qu'ils souhaitent voir poser. Le juge d'instruction empêche le témoin de répondre à toute question susceptible de conduire à la divulgation de son identité.
+
+Le juge d'instruction peut ordonner que le ministère public, la personne à l'égard de laquelle l'action publique est engagée dans le cadre de l'instruction ou l'inculpé, la partie civile et leurs conseils ne puissent assister à l'audition du témoin que dans un autre local, si cette mesure est nécessaire pour préserver l'anonymat du témoin. Dans ce cas, il a recours à un système de télécommunications. Le Roi fixe les critères minimaux auxquels ce système de télécommunications devra répondre.
+
+Le juge d'instruction fait dresser un procès-verbal de l'audition et mentionne en détail, outre les indications prévues à l'article 47bis , 3°, les circonstances dans lesquelles l'audition a eu lieu, les questions posées et les réponses fournies dans la formulation utilisée ou les raisons pour lesquelles il a empêché le témoin de répondre. Il fait lecture du procès-verbal et après déclaration par le témoin qu'il persiste, le juge d'instruction et le greffier signent le procès-verbal d'audition. Ces formalités sont prescrites à peine de nullité du témoignage effectué.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 89, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 86quater**
+
+&lt;inséré par L 2002-04-08/51, art. 12; En vigueur : 01-11-2002&gt; S'il existe des indications précises et sérieuses que des faits ont été commis, qui constituent une infraction, prévue au [<sup>1</sup> titre 3, chapitre 6, section 3, ou au titre 8, chapitre 5, section 1re, sous-section 2,]<sup>1</sup> du livre II du Code pénal, par le témoin dont l'identité a été tenue secrète en application des articles 86bis et 86ter , dans le cadre de son témoignage, le juge d'instruction est tenu de communiquer les données d'identité de ce témoin au procureur du Roi ou au juge d'instruction, chargé d'enquêter sur ces faits. Dans ce cas, et jusqu'au moment de la citation par le ministère public ou du renvoi au tribunal compétent, l'identité de ce témoin ne peut être révélée qu'à ces magistrats et à la juridiction d'instruction.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 90, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 86quinquies**
+
+&lt;inséré par L 2002-04-08/51, art. 12; En vigueur : 01-11-2002&gt; Sans préjudice de l'application de l'article 29, les témoignages qui ont été obtenus en application des articles 86bis et 86ter , ne peuvent être pris en considération que comme preuves d'une infraction visée à l'article 90ter , §§ 2 a 4, ou d'une infraction commise dans le cadre d'une organisation criminelle, visée à [<sup>1</sup> l'article 406]<sup>1</sup> du Code pénal, [...].&lt;L 2003-08-05/32, art. 21, 039; En vigueur : 07-08-2003&gt;
+
+Le procureur du Roi qui, en application de l'article 29, a été avisé d'[<sup>1</sup> une infraction]<sup>1</sup>, manifesté par un témoignage qui a été obtenu en application des articles 86bis et 86ter , prend toutes les mesures nécessaires afin de garantir l'anonymat complet du témoin.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 91, 130; En vigueur : 01-09-2026&gt;
+
+###### § 4. [DES PREUVES PAR ECRIT, DES PIECES A CONVICTION ET DU REPERAGE ET DE LA LOCALISATION DE TELECOMMUNICATIONS]. &lt;L 1998-06-10/96, art. 4, 017; En vigueur : 02-10-1998&gt;
+
+**Art. 87**
+
+Le juge d'instruction se transportera, s'il en est requis, et pourra même se transporter d'office dans le domicile [de l'inculpé], pour y faire la perquisition des papiers, effets, et généralement de tous les objets qui seront jugés utiles à la manifestation de la vérité. &lt;L 10-07-1967, art. 1, 52°&gt;
+
+**Art. 88**
+
+Le juge d'instruction pourra pareillement se transporter dans les autres lieux où il présumerait qu'on aurait caché les objets dont il est parlé dans l'article précédent.
+
+**Art. 88bis**
+
+&lt;L 1998-06-10/96, art. 5, 017; En vigueur : 02-10-1998&gt; § 1er. [<sup>4</sup> S'il existe des indices sérieux que les infractions sont de nature à entraîner [<sup>8</sup> une peine de niveau 2]<sup>8</sup> ou une peine plus lourde, et lorsque le juge d'instruction estime qu'il existe des circonstances qui rendent le repérage de communications électroniques ou la localisation de l'origine ou de la destination de communications électroniques nécessaire à la manifestation de la vérité, il peut faire procéder:
+
+1° au repérage des données de trafic de moyens de communication électronique à partir desquels ou vers lesquels des communications électroniques sont adressées ou ont été adressées;
+
+2° à la localisation de l'origine ou de la destination de communications électroniques.
+
+Si nécessaire, il peut pour ce faire requérir, directement ou par l'intermédiaire du service de police désigné par le Roi, la collaboration:
+
+\- de l'opérateur d'un réseau de communications électroniques; et
+
+\- de toute personne qui met à disposition ou offre, sur le territoire belge, d'une quelconque manière, un service qui consiste à transmettre des signaux via des réseaux de communications électroniques ou à autoriser des utilisateurs à obtenir, recevoir ou diffuser des informations via un réseau de communications électroniques. Est également compris le fournisseur d'un service de communications électroniques.
+
+Dans les cas visés à l'alinéa 1er, pour chaque moyen de communication électronique dont [<sup>5</sup> les données de trafic]<sup>5</sup> sont repérées ou dont l'origine ou la destination de la [<sup>5</sup> communication électronique]<sup>5</sup> est localisée, le jour, l'heure, la durée et, si nécessaire, le lieu de la communication électronique sont indiqués et consignés dans un procès-verbal.
+
+Le juge d'instruction indique les circonstances de fait de la cause qui justifient la mesure, son caractère proportionnel eu égard au respect de la vie privée et subsidiaire à tout autre devoir d'enquête, dans une ordonnance motivée.
+
+Il précise également la durée durant laquelle la mesure pourra s'appliquer pour le futur, cette durée ne pouvant excéder deux mois à dater de l'ordonnance, sans préjudice de renouvellement et, le cas échéant, la période pour le passé sur laquelle l'ordonnance s'étend conformément au paragraphe 2.
+
+En cas de [<sup>8</sup> flagrance]<sup>8</sup>, le procureur du Roi peut ordonner la mesure pour les infractions visées à l'article 90ter, §§ 2, 3 et 4. Dans ce cas, la mesure doit être confirmée dans les vingt-quatre heures par le juge d'instruction.
+
+S'il s'agit toutefois de l'infraction visée [<sup>8</sup> à l'article 219, 220, 226 à 228, 371 ou 464]<sup>8</sup> du Code pénal, à l'exception de l'infraction visée [<sup>8</sup> à l'article 371, § 3, alinéa 1er, 6°]<sup>8</sup>, du même Code, le procureur du Roi peut ordonner la mesure tant que la situation de [<sup>8</sup> flagrance]<sup>8</sup> perdure, sans qu'une confirmation par le juge d'instruction ne soit nécessaire.
+
+S'il s'agit de l'infraction visée à [<sup>8</sup> l'article 371]<sup>8</sup> du Code pénal, à l'exception de l'infraction visée à [<sup>8</sup> l'article 371, § 3, alinéa 1er, 6° ]<sup>8</sup>, du même Code, le procureur du Roi peut en outre ordonner la mesure dans les septante-deux heures suivant la découverte de cette infraction, sans qu'une confirmation par le juge d'instruction soit nécessaire.
+
+Toutefois, le procureur du Roi peut ordonner la mesure si le plaignant le sollicite, lorsque cette mesure s'avère indispensable à l'établissement d'une infraction visée à [<sup>8</sup> l'article 237 du Code pénal ou à l'article 145, § 3,]<sup>8</sup> de la loi du 13 juin 2005 relative aux communications électroniques.
+
+En cas d'urgence, la mesure peut être ordonnée verbalement. Elle doit être confirmée dans les plus brefs délais dans la forme prévue aux alinéas 4 et 5.]<sup>4</sup>
+
+[<sup>3</sup> § 2. [<sup>6</sup> Pour ce qui concerne l'application de la mesure visée au paragraphe 1er, alinéa 1er, aux données de trafic ou de localisation conservées sur la base des articles 126/1 et 126/3 de la loi du 13 juin 2005 relative aux communications électroniques, les dispositions suivantes s'appliquent:
+
+\- pour une infraction visée au [<sup>8</sup> livre II, titre 4, chapitre 1er]<sup>8</sup>, du Code pénal, le juge d'instruction peut dans son ordonnance requérir les données pour une période de douze mois préalable à l'ordonnance;
+
+\- pour une autre infraction visée à l'article 90ter, §§ 2 à 4, qui n'est pas visée au premier tiret ou pour une infraction qui est commise dans le cadre d'une organisation criminelle visée à [<sup>8</sup> l'article 406]<sup>8</sup> du Code pénal, ou pour une infraction qui est de nature à entraîner [<sup>8</sup> une peine de niveau 3]<sup>8</sup> ou une peine plus lourde, le juge d'instruction peut dans son ordonnance requérir les données pour une période de neuf mois préalable à l'ordonnance;
+
+\- pour les autres infractions, le juge d'instruction ne peut requérir les données que pour une période de six mois préalable à l'ordonnance.]<sup>6</sup>]<sup>3</sup>
+
+§ 3. [<sup>6</sup> La mesure ne peut porter sur les moyens de communication électronique d'un avocat ou d'un médecin que si celui-ci est lui-même soupçonné d'avoir commis une infraction visée au paragraphe 1er ou d'y avoir participé, ou si des faits précis laissent présumer que des tiers soupçonnés d'avoir commis une infraction visée au paragraphe 1er, utilisent ses moyens de communication électronique.
+
+La mesure ne peut être exécutée sans que le bâtonnier ou le représentant de l'ordre provincial des médecins, selon le cas, en soit averti. Ces mêmes personnes seront informées par le juge d'instruction des éléments qu'il estime relever du secret professionnel. Ces éléments ne sont pas consignés au procès-verbal. Ces personnes sont tenues au secret. Toute violation du secret est punie conformément à [<sup>8</sup> l'article 352]<sup>8</sup> du Code pénal.]<sup>6</sup>
+
+[<sup>3</sup> § 4.]<sup>3</sup> [<sup>4</sup> Les acteurs visés au § 1er, alinéa 2, communiquent les informations demandées en temps réel ou, le cas échéant, au moment précisé dans la réquisition, selon les modalités fixées par le Roi, sur la proposition du ministre de la Justice et du ministre compétent pour les Télécommunications.]<sup>4</sup>
+
+Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours, est tenue de garder le secret. Toute violation du secret est punie conformément à [<sup>8</sup> l'article 352]<sup>8</sup> du Code pénal.
+
+[<sup>4</sup> Toute personne qui refuse de prêter son concours technique aux réquisitions visées au présent article, concours dont les modalités sont fixées par le Roi, sur la proposition du ministre de la Justice et du ministre compétent pour les Télécommunications, ou ne le prête pas en temps réel ou, le cas échéant, au moment précisé dans la réquisition, est punie [<sup>7</sup> [<sup>8</sup> conformément aux articles 655 et 656 du Code pénal]<sup>8</sup>]<sup>7</sup>.]<sup>4</sup>.
+
+----------
+
+(1)&lt;L 2012-12-27/29, art. 29, 066; En vigueur : 10-02-2013&gt;
+
+(2)&lt;L 2016-02-05/11, art. 65, 079; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2016-05-29/03, art. 9, 085; En vigueur : 28-07-2016, (NOTE : par son arrêt n° 57/2021 du 22-04-2021 (2021-04-22/20, M.B. 28-06-2021, p. 65587), la Cour constitutionnelle a annulé les modifications apportées au §§ 2 et 3 du présent article.) &gt;
+
+(4)&lt;L 2016-12-25/37, art. 12, 088; En vigueur : 27-01-2017&gt;
+
+(5)&lt;L 2019-05-05/10, art. 10, 102; En vigueur : 03-06-2019&gt;
+
+(6)&lt;L 2022-07-20/14, art. 27, 113; En vigueur : 18-08-2022&gt;
+
+(7)&lt;L 2022-12-06/02, art. 13, 114; En vigueur : 31-12-2022&gt;
+
+(8)&lt;L 2026-03-11/03, art. 92, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 88ter**
+
+[<sup>1</sup> Le juge d'instruction peut étendre la recherche dans un système informatique ou une partie de celui-ci, entamée sur la base de l'article 39bis, vers un système informatique ou une partie de celui-ci qui se trouve dans un autre lieu que celui où la recherche est effectuée :
+
+\- si cette extension est nécessaire pour la manifestation de la vérité à l'égard de l'infraction qui fait l'objet de la recherche; et
+
+\- si d'autres mesures seraient disproportionnées, ou s'il existe un risque que, sans cette extension, des éléments de preuve soient perdus.
+
+L'extension de la recherche dans un système informatique ne peut pas excéder les systèmes informatiques ou les parties de tels systèmes auxquels les personnes autorisées à utiliser le système informatique qui fait l'objet de la mesure ont spécifiquement accès.
+
+En ce qui concerne les données recueillies par l'extension de la recherche dans un système informatique, qui sont utiles pour les mêmes finalités que celles prévues pour la saisie, les règles prévues à l'article 39bis, § 6 s'appliquent.
+
+Lorsqu'il s'avère que ces données ne se trouvent pas sur le territoire du Royaume, elles peuvent seulement être copiées. Dans ce cas, le juge d'instruction communique sans délai cette information au Service public fédéral Justice, qui en informe les autorités compétentes de l'état concerné, si celui-ci peut raisonnablement être déterminé.
+
+En cas d'extrême urgence, le juge d'instruction peut ordonner verbalement l'extension de la recherche visée à l'alinéa 1er. Cet ordre est confirmé par écrit dans les meilleurs délais, avec mention des motifs de l'extrême urgence.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-05/10, art. 11, 102; En vigueur : 03-06-2019&gt;
+
+**Art. 88quater**
+
+&lt;inséré par L 2000-11-28/34, art. 9; En vigueur : 13-02-2001&gt; § 1er. Le juge d'instruction ou un officier de police judiciaire auxiliaire du procureur du Roi [<sup>1</sup> et de l'auditeur du travail]<sup>1</sup> délégué par lui, peut ordonner [<sup>2</sup> à quiconque dont il présume qu'il a]<sup>2</sup> connaissance particulière du système informatique qui fait l'objet de la recherche [<sup>3</sup> ou de son extension visée à l'article 88ter]<sup>3</sup> ou des services qui permettent de protéger ou de crypter des données qui sont stockées, traitées ou transmises par un système informatique, de fournir des informations sur le fonctionnement de ce système et sur la manière d'y accéder ou d'accéder aux données qui sont stockées, traitées ou transmises par un tel système, dans une forme compréhensible. Le juge d'instruction mentionne les circonstances propres à l'affaire justifiant la mesure dans une ordonnance motivée qu'il transmet au procureur du Roi [<sup>1</sup> ou à l'auditeur du travail]<sup>1</sup>.
+
+§ 2. Le juge d'instruction [<sup>1</sup> ou un officier de police judiciaire auxiliaire du procureur du Roi et de l'auditeur du travail délégué par lui,]<sup>1</sup> peut ordonner à toute personne appropriée de mettre en fonctionnement elle-même le système informatique ou, selon le cas, de rechercher, rendre accessibles, copier, rendre inaccessibles ou retirer les données pertinentes qui sont stockées, traitées ou transmises par ce système, dans la forme qu'il aura demandée. Ces personnes sont tenues d'y donner suite, dans la mesure de leurs moyens.
+
+L'ordonnance vises à l'alinéa 1er, ne peut être prise à l'égard de l'inculpé et à l'égard des personnes visées à l'article 156.
+
+§ 3. [<sup>2</sup> Celui qui refuse de fournir la collaboration ordonnée aux §§ 1er et 2 ou qui fait obstacle à la recherche ou à son extension dans le système informatique, est puni [<sup>4</sup> [<sup>5</sup> conformément aux articles 655 et 656 du Code pénal]<sup>5</sup>]<sup>4</sup>.
+
+[<sup>5</sup> ...]<sup>5</sup>]<sup>2</sup>
+
+§ 4. Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours, est tenue de garder le secret. Toute violation du secret est punie conformément à [<sup>5</sup> l'article 352]<sup>5</sup> du Code pénal.
+
+§ 5. L'Etat est civilement responsable pour le dommage causé de façon non intentionnelle par les personnes requises à un système informatique ou aux données qui sont stockées, traitées ou transmises par un tel système.
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 6, 058; En vigueur : 01-07-2011&gt;
+
+(2)&lt;L 2016-12-25/37, art. 14, 088; En vigueur : 27-01-2017&gt;
+
+(3)&lt;L 2019-05-05/10, art. 12, 102; En vigueur : 03-06-2019&gt;
+
+(4)&lt;L 2022-12-06/02, art. 14, 114; En vigueur : 31-12-2022&gt;
+
+(5)&lt;L 2026-03-11/03, art. 93, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 88sexies**
+
+&lt;Inséré par L 2003-01-06/34, art. 7; En vigueur : 22-05-2003; note : Justel n'a pas connaissance d'un article 88quinquies&gt; § 1er. Dans le cadre de l'exécution de la mesure prévue à l'article 46ter, seul le juge d'instruction est habilité à ouvrir le courrier intercepté et saisi et à prendre connaissance de son contenu.
+
+En cas de [<sup>1</sup> flagrance]<sup>1</sup>, le procureur du Roi peut également exercer cette compétence.
+
+Cette mesure ne pourra porter que sur le courrier d'un avocat ou d'un médecin que si celui-ci est lui-même soupçonné d'avoir commis une des infractions visées à l'article 46ter, § 1er, alinéa 1er. Cette mesure ne peut être exécutée sans que le bâtonnier ou le représentant de l'ordre provincial des médecins en soit averti.
+
+§ 2. Si le juge d'instruction estime ne pas devoir maintenir la saisie, il rend sans délai les pièces à l'opérateur postal pour envoi. Dans le cas contraire, il est procédé conformément aux dispositions des articles 87 à 90.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 94, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 89**
+
+Les dispositions des articles 35, [35bis,] [35ter,] 36, 37, 38 [,39 et 39bis] concernant la saisie des objets dont la perquisition peut être faite par le [procureur du Roi], dans les cas de [<sup>2</sup> flagrance]<sup>2</sup>, sont communes au juge d'instruction. &lt;L 10-07-1967, art. 1, 49°&gt; &lt;L 1997-05-20/50, art. 18, 013; En vigueur : 13-07-1997&gt; &lt;L 2000-11-28/34, art. 10, 025; En vigueur : 13-02-2001&gt; &lt;L 2002-12-19/86, art. 11, 036; En vigueur : 24-02-2003&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 113, 074; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2026-03-11/03, art. 95, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 89bis**
+
+&lt;L 1998-03-12/39, art. 21, 016; En vigueur : 1998-10-02&gt; Le juge d'instruction peut déléguer, pour procéder à la perquisition et à la saisie, un officier de police judiciaire de son arrondissement ou de l'arrondissement où les actes doivent avoir lieu. Lorsque le juge d'instruction agit sur la réquisition d'un juge d'instruction d'un autre arrondissement, il peut déléguer un officier de police judiciaire de cet autre arrondissement.
+
+Il donne cette délégation par ordonnance motivée et dans les cas de nécessité seulement.
+
+Toute subdélégation est interdite.
+
+**Art. 89ter**
+
+&lt;L 2005-12-27/34, art. 18, 046; En vigueur : 30-12-2005&gt; [<sup>1</sup> Dans le cadre de l'exécution de la mesure prévue à l'article 46quinquies, et aux conditions ainsi qu'aux fins qu'il énonce, seul le juge d'instruction peut autoriser [<sup>2</sup> les services de police]<sup>2</sup> désigné par le Roi à:
+
+\- pénétrer à tout moment dans un lieu privé autre que celui visé à l'article 46quinquies, § 1er, en ce compris ouvrir les objets fermés se trouvant dans ce lieu, à l'insu du propriétaire ou de son ayant droit, ou de l'occupant, ou sans le consentement de ceux-ci;
+
+\- s'introduire dans un système informatique et l'explorer, à l'insu du propriétaire, du détenteur ou de l'utilisateur ou sans leur consentement, sans préjudice de la possibilité pour le procureur du Roi d'autoriser l'introduction dans un système informatique dans les limites visées à l'article 46quinquies, § 6.]<sup>1</sup>
+
+Si l'autorisation visée à l'alinéa 1er est accordée dans le cadre de l'application de méthodes particulières de recherche conformément aux articles 47ter à 47decies ou à l'article 56bis, l'autorisation et tous les procès-verbaux y afférents sont joints au dossier répressif au plus tard après qu'il a été mis fin à la méthode particulière de recherche.
+
+Il communique une copie de son ordonnance au procureur du Roi.
+
+(NOTE : par son arrêt n° 202/2004 du 21-12-2004 (M.B. 06-01-2005, p. 377-378), la Cour d'Arbitrage a annulé cet article, en tant qu'il peut être appliqué en combinaison avec l'article 28septies)
+
+----------
+
+(1)&lt;L 2016-12-25/37, art. 15, 088; En vigueur : 27-01-2017&gt;
+
+(2)&lt;L 2019-05-05/10, art. 13, 102; En vigueur : 03-06-2019&gt;
+
+**Art. 90**
+
+Si les papiers ou les effets dont il y aura lieu de faire la perquisition sont hors de l'arrondissement du juge d'instruction, [il pourra requérir] le juge d'instruction du lieu où l'on peut les trouver, de procéder aux opérations prescrites par les articles précédents. &lt;L 27-03-1969, art. 4&gt;
+
+###### § 5. DE L'EXPLORATION CORPORELLE. &lt;Inséré par LDP 1990-07-20/35, art. 44, 002; En vigueur : 01-12-1990&gt;
+
+**Art. 90bis**
+
+&lt;L 1998-03-12/39, art. 22, 016; En vigueur : 1998-10-02&gt; Hors les cas de [<sup>1</sup> flagrance]<sup>1</sup> ou réputés tels, et celui où la personne majeure donne son consentement écrit, l'exploration corporelle ne peut être ordonnée que par le juge d'instruction, par la chambre des mises en accusation et par le tribunal ou la cour saisi de la connaissance [<sup>1</sup> de l'infraction]<sup>1</sup>.
+
+La victime ou la personne soupçonnée peut se faire assister par le médecin de son choix lors de l'exploration corporelle à laquelle elle est soumise. Les honoraires du médecin sont portés en compte dans les frais de justice.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 96, 130; En vigueur : 01-09-2026&gt;
+
+###### § 6. [<sup>1</sup> Intercepter, prendre connaissance, explorer et enregistrer des communications non accessibles au public ou des données d'un système informatique ou d'une partie de celui-ci.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/37, art. 16, 088; En vigueur : 27-01-2017&gt;
+
+**Art. 90ter**
+
+&lt;Inséré par L 1994-06-30/49, art. 3; En vigueur : 03-02-1995&gt; § 1. [<sup>5</sup> Sans préjudice de l'application des articles 39bis, 87, 88, 89bis et 90, le juge d'instruction peut, dans un but secret, intercepter, prendre connaissance, explorer et enregistrer, à l'aide de moyens techniques, des communications non accessibles au public ou des données d'un système informatique ou d'une partie de celui-ci, ou étendre la recherche dans un système informatique ou une partie de celui-ci.
+
+Cette mesure ne peut être ordonnée que dans des cas exceptionnels, lorsque les nécessités de l'instruction l'exigent, s'il existe des indices sérieux que cela concerne une infraction visée au paragraphe 2, et si les autres moyens d'investigation ne suffisent pas à la manifestation de la vérité.
+
+En vue de permettre cette mesure, le juge d'instruction peut également, à l'insu ou sans le consentement de l'occupant, du propriétaire ou de son ayant droit, ou de l'utilisateur, ordonner, à tout moment:
+
+\- la pénétration dans un domicile, un lieu privé ou un système informatique;
+
+\- la suppression temporaire de toute protection des systèmes informatiques concernés, le cas échéant à l'aide de moyens techniques, de faux signaux, de fausses clés ou de fausses qualités;
+
+\- l'installation de dispositifs techniques dans les systèmes informatiques concernés en vue du décryptage et du décodage de données stockées, traitées ou transmises par ce système.
+
+La mesure visée au présent paragraphe ne peut être ordonnée que pour rechercher les données qui peuvent servir à la manifestation de la vérité. Elle ne peut être ordonnée qu'à l'égard soit de personnes soupçonnées, sur la base d'indices précis, d'avoir commis l'infraction, soit à l'égard des moyens de communication ou systèmes informatiques régulièrement utilisés par un suspect, soit à l'égard des lieux présumés fréquentés par celui-ci. Elle peut également être ordonnée à l'égard de personnes présumées, sur la base de faits précis, être en communication régulière avec un suspect.]<sup>5</sup>
+
+§ 2. [<sup>11</sup> Les infractions pouvant justifier la mesure visée au paragraphe 1er sont celles qui sont visées:
+
+1° aux articles 82 à 88 et 90 à 92 du Code pénal et à l'article 41 de la loi du 29 mars 2004 concernant la coopération avec la Cour pénale internationale et les tribunaux pénaux internationaux;
+
+2° à l'article 96 du même Code;
+
+3° aux articles 97 et 98 du même Code;
+
+4° aux articles 134 à 149 du même Code;
+
+5° à l'article 151 du même Code;
+
+6° aux articles 152 à 165, 171 et 172, 177, 265 et 268 du même Code;
+
+7° à l'article 219 du même Code;
+
+8° aux articles 223 à 225 du même Code;
+
+9° à l'article 226 à 228 du même Code;
+
+10° aux articles 231, 232 et 234 du même Code, pour autant qu'une plainte ait été déposée;
+
+11° à l'article 233 du même Code;
+
+12° aux articles 258 à 260 du même Code;
+
+13° à l'article 340 du même Code;
+
+14° aux articles 342 à 346 du même Code;
+
+15° au livre II, titre 4, chapitre 1er, du même Code;
+
+16° aux articles 276 à 284 du même Code;
+
+17° aux articles 389 à 391, 393, 398 à 402, 546, 562, 564 à 571, 573 à 583, 585 à 611, 613 et 624 du même Code;
+
+18° aux articles 406 à 409 du même Code;
+
+19° au livre II, titre 4, chapitre 5, et titre 6, chapitre 1er, section 1re, sous-section 4, du même Code;
+
+20° aux articles 427 et 428 du même Code;
+
+21° aux articles 439 et 445 du même Code;
+
+22° à l'article 451 du même Code;
+
+23° aux articles 467 à 469 du même Code;
+
+24° à l'article 487 du même Code;
+
+25° à l'article 488 du même Code;
+
+26° à l'article 501 du même Code lorsque les biens concernés ont été obtenus à l'aide d'une infraction visée au présent article;
+
+27° à l'article 502, alinéa 1er, 1°, 2° et 3°, et 503 du même Code;
+
+28° aux articles 507 et 508 du même Code;
+
+29° à l'article 513 du même Code, si les circonstances visées aux articles 507 ou 508 du même Code sont réunies;
+
+30° aux articles 524 à 533 du même Code;
+
+31° aux articles 542 à 545 et 551 à 559 du même Code;
+
+32° aux articles 638 et 639 du même Code;
+
+33° à l'article 2bis de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes;
+
+34° à la loi du 28 mai 1956 relative aux substances et mélanges explosibles ou susceptibles de déflagrer et aux engins qui en sont chargés;
+
+35° à l'article 1er de l'arrêté royal du 12 avril 1974 relatif à certaines opérations concernant les substances à action hormonale, antihormonale, anabolisante, bêta-adrénergique, anti-infectieuse, antiparasitaire et anti-inflammatoire, article précité visant des infractions punies conformément à la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes;
+
+36° à l'article 10, § 1er, 2°, de la loi du 15 juillet 1985 relative à l'utilisation de substances à effet hormonal, à effet anti-hormonal, à effet bêta-adrénergique ou à effet stimulateur de production chez les animaux;
+
+37° à l'article 10 de la loi du 5 août 1991 relative à l'importation, à l'exportation, au transit et à la lutte contre le trafic d'armes, de munitions et de matériel devant servir spécialement à un usage militaire ou de maintien de l'ordre et de la technologie y afférente;
+
+38° à l'article 237 du Code pénal et à l'article 145, § 3, de la loi du 13 juin 2005 relative aux communications électroniques;
+
+39° aux articles 8 à 11, 14, 16, 19, 1°, 2°, 3°, 5° et 6°, 20, 22, 27 et 33 de la loi du 8 juin 2006 réglant des activités économiques et individuelles avec des armes, aussi appelée "Loi sur les armes";
+
+40° aux articles 21 à 26 de l'Accord de Coopération du 2 mars 2007 entre l'Etat fédéral, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale relatif à l'exécution de la Convention sur l'interdiction de la mise au point, de la fabrication, du stockage et de l'emploi des armes chimiques et sur leur destruction, faite à Paris le 13 janvier 1993;
+
+41° à l'article 47 du décret de la Région flamande du 15 juin 2012 concernant l'importation, l'exportation, le transit et le transfert de produits liés à la défense, d'autre matériel à usage militaire, de matériel de maintien de l'ordre, d'armes à feu civiles, de pièces et de munitions;
+
+42° à l'article 20 du décret de la Région wallonne du 21 juin 2012 relatif à l'importation, à l'exportation, au transit et au transfert d'armes civiles et de produits liés à la défense;
+
+43° à l'article 42 de l'ordonnance de la Région de Bruxelles-Capitale du 20 juin 2013 relative à l'importation, à l'exportation, au transit et au transfert de produits liés à la défense, d'autre matériel pouvant servir à un usage militaire, de matériel lié au maintien de l'ordre, d'armes à feu à usage civil, de leurs pièces, accessoires et munitions.]<sup>11</sup>
+
+§ 3. La tentative de commettre [<sup>11</sup> une infraction visée]<sup>11</sup> au paragraphe précédent peut également justifier une [<sup>5</sup> mesure]<sup>5</sup>.
+
+§ 4. Une infraction, visée aux [<sup>11</sup> articles 403 ou 405]<sup>11</sup> du Code pénal, peut également justifier une [<sup>5</sup> mesure]<sup>5</sup>, pour autant que l'association soit formée dans le but de commettre un attentat contre les personnes ou les propriétés visées au § 2 [ou de commettre le fait punissable visé à [<sup>11</sup> l'article 466]<sup>11</sup> du Code pénal]. &lt;L 2004-12-09/40, art. 14, 042; En vigueur : 03-01-2005&gt;
+
+§ 5. [<sup>5</sup> En cas de flagrant délit et tant que la situation de flagrant délit perdure, le procureur du Roi peut ordonner la mesure visée au paragraphe 1er pour les infractions visées aux [<sup>11</sup> articles 219, 220, 226 à 228, 371, 464 ou 468]<sup>11</sup> du Code pénal. En outre, en cas de flagrant délit, le procureur du Roi peut ordonner la mesure visée au paragraphe 1er pour les infractions visées à [<sup>11</sup> l'article 371 du Code pénal, à l'exception de l'infraction visée à l'article 371, § 3, alinéa 1er, 6°]<sup>11</sup>, du même Code, dans les septante-deux heures qui suivent la découverte de cette infraction.
+
+L'autorisation peut être donnée verbalement et doit être confirmée par écrit dans les plus brefs délais.]<sup>5</sup>
+
+[§ 6. Une autorité étrangère compétente peut, dans le cadre d'une enquête pénale, [<sup>6</sup> temporairement]<sup>6</sup> [<sup>5</sup> intercepter, prendre connaissance et enregistrer des communications non accessibles au public ou des données d'un système informatique]<sup>5</sup> lorsque la personne visée par cette mesure se trouve sur le territoire belge et si les conditions suivantes sont réunies :
+
+1° cette mesure n'implique pas l'intervention technique d'un acteur situé en Belgique;
+
+2° l'autorité étrangère concernée a notifié cette mesure à une autorité judiciaire belge;
+
+3° cette possibilité est prévue par un instrument de droit international liant la Belgique et l'Etat requérant;
+
+4° la décision du juge d'instruction visée au § 7 n'a pas encore été communiquée à l'autorité étrangère concernée.
+
+Les données collectées en application du présent paragraphe ne peuvent être utilisées que si l'autorité judiciaire belge compétente autorise la mesure.
+
+§ 7. Dès que le procureur du Roi reçoit la notification visée au § 6, alinéa 1er, 2°, il en saisit sans délai le juge d'instruction.
+
+Le juge d'instruction saisi d'une notification visée au paragraphe 6, alinéa 1er, 2°, autorise la mesure en question si celle-ci est recevable au regard des dispositions du présent article.
+
+Il notifie à l'autorité étrangère concernée sa décision dans les nonante-six heures suivant la réception de celle-ci par l'autorité judiciaire belge.
+
+Lorsqu'un délai supplémentaire est nécessaire, le juge d'instruction peut reporter de huit jours au maximum sa décision et la notification de celle-ci à l'autorité étrangère compétente. Il en informe sans délai l'autorité étrangère compétente en indiquant les raisons de ce report.
+
+Si le juge d'instruction n'autorise pas la mesure visée au § 6, il informe également l'autorité étrangère que les données interceptées doivent être détruites sans pouvoir être utilisées.] &lt;L 2004-12-09/40, art. 14, 042; En vigueur : 03-01-2005&gt;
+
+----------
+
+(1)&lt;L 2012-12-27/29, art. 28, 066; En vigueur : 10-02-2013&gt;
+
+(2)&lt;L 2014-03-26/02, art. 53, 071; En vigueur : 28-03-2014&gt;
+
+(3)&lt;L 2015-07-20/08, art. 3, 077; En vigueur : 15-08-2015&gt;
+
+(4)&lt;L 2016-04-27/07, art. 6, 082; En vigueur : 19-05-2016&gt;
+
+(5)&lt;L 2016-12-25/37, art. 17, 088; En vigueur : 27-01-2017&gt;
+
+(6)&lt;L 2019-05-05/10, art. 14, 102; En vigueur : 03-06-2019&gt;
+
+(7)&lt;L 2019-05-22/19, art. 15, 104; En vigueur : 01-07-2019&gt;
+
+(8)&lt;L 2022-03-21/01, art. 106, 112; En vigueur : 01-06-2022&gt;
+
+(9)&lt;L 2023-07-31/02, art. 3, 116; En vigueur : 19-08-2023&gt;
+
+(10)&lt;L 2024-03-28/60, art. 59, 121; En vigueur : 08-04-2024&gt;
+
+(11)&lt;L 2026-03-11/03, art. 97, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 90quater**
+
+[<sup>1</sup> § 1er. Toute mesure sur la base de l'article 90ter fait l'objet d'une autorisation écrite préalable et motivée du juge d'instruction, que celui-ci communique au procureur du Roi.
+
+L'autorisation est datée et indique:
+
+1° les indices ainsi que les faits concrets et propres à la cause qui justifient la mesure conformément à l'article 90ter;
+
+2° les motifs pour lesquels la mesure est indispensable à la manifestation de la vérité;
+
+3° la personne, le moyen de communication, le système informatique ou le lieu soumis à la mesure;
+
+4° la période pendant laquelle la mesure peut être exécutée et qui ne peut excéder un mois. Ce délai commence à courir le jour de l'autorisation ordonnant ou, dans le cas de l'article 90quinquies, alinéa 1er, prolongeant la mesure et s'achève la veille du quantième du mois suivant;
+
+5° les nom et qualité de l'officier ou des officiers de police judiciaire commis pour l'exécution de la mesure.
+
+En cas d'urgence, l'autorisation peut être donnée verbalement. Elle est confirmée dans la forme prévue à l'alinéa 2 [<sup>3</sup> dans les plus brefs délais]<sup>3</sup>.
+
+§ 2. Afin de permettre la mesure visée à l'article 90ter, § 1er, le juge d'instruction peut requérir, directement ou par l'intermédiaire du service de police désigné par le Roi, le concours:
+
+\- de l'opérateur d'un réseau de communications électroniques;
+
+\- de toute personne qui met à disposition ou offre, sur le territoire belge, d'une quelconque manière, un service qui consiste à transmettre des signaux via des réseaux de communications électroniques ou à autoriser des utilisateurs à obtenir, recevoir ou diffuser des informations via un réseau de communications électroniques. Est également compris le fournisseur d'un service de communications électroniques.
+
+[<sup>4</sup> Les personnes indiquées à l'alinéa 1er sont tenues de prêter leur concours.]<sup>4</sup>
+
+Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou y prête son concours, est tenue de garder le secret. Toute violation du secret est punie conformément à [<sup>4</sup> l'article 352]<sup>4</sup> du Code pénal.
+
+Toute personne qui refuse de prêter son concours technique aux réquisitions visées à l'alinéa 1er, concours dont les modalités sont fixées par le Roi, sur la proposition du ministre de la Justice et du ministre compétent pour les Télécommunications, ou ne le prête pas en temps réel ou, le cas échéant, au moment précisé dans la réquisition, est punie [<sup>2</sup> [<sup>4</sup> conformément aux articles 655 et 656 du Code pénal]<sup>4</sup>]<sup>2</sup>.
+
+§ 3. Le juge d'instruction ne peut commettre pour l'exécution de la mesure visée à l'article 90ter, § 1er, que des officiers de police judiciaire. Ceux-ci peuvent néanmoins se faire assister par des agents de police judiciaire et, selon les conditions fixées par le Roi, par des agents du cadre administratif et logistique de la police intégrée. Ces dernières personnes ne peuvent être chargées de l'analyse du contenu des communications ou données enregistrées, sauf s'il s'agit d'une expertise spécifique, ou de la sélection des parties estimées pertinentes pour l'instruction, comme prévu à l'article 90sexies, § 1er, 2°.
+
+Les officiers de police judiciaire conservent les noms des personnes qui peuvent les assister dans une liste établie séparément pour chaque dossier selon les modalités fixées par le Roi, après avis de la Commission pour la protection de la vie privée. Si ces personnes sont chargées de l'exécution de l'ordonnance visée à l'article 90ter, § 1er, alinéa 3, leur nom n'est pas mentionné dans le dossier judiciaire.
+
+Les officiers de police judiciaire commis font rapport par écrit au moins tous les cinq jours au juge d'instruction sur l'exécution de l'autorisation.
+
+§ 4. Le juge d'instruction peut exiger, directement ou par l'intermédiaire du service de police désigné par le Roi, de personnes dont il présume qu'elles ont une connaissance particulière du moyen de communication ou du système informatique qui fait l'objet de la mesure ou de services ou applications qui permettent de protéger, de coder ou de crypter les données qui sont stockées, traitées ou transmises par un moyen de communication ou un système informatique, qu'elles fournissent des informations sur le fonctionnement de ce moyen ou système et sur la manière d'accéder à son contenu qui est ou a été transmis, dans une forme compréhensible.
+
+Il peut ordonner aux personnes de rendre accessible ce contenu, dans la forme qu'il souhaite.[<sup>4</sup> Ces personnes sont tenues de prêter leur concours.]<sup>4</sup>
+
+[<sup>2</sup> Toute personne qui refuse de prêter son concours technique aux réquisitions visées aux alinéas 1er et 2, ou qui fait obstacle aux mesures visées à l'article 90ter, § 1er, est punie [<sup>4</sup> conformément aux articles 655 et 656 du Code pénal]<sup>4</sup>.]<sup>2</sup>
+
+[<sup>2</sup> [<sup>4</sup> ...]<sup>4</sup>]<sup>2</sup>
+
+Toute personne qui, du chef de sa fonction, a connaissance de la mesure ou est requise d'y prêter son concours technique, est tenue au secret. Toute violation du secret est punie conformément à [<sup>4</sup> l'article 352]<sup>4</sup> du Code pénal.
+
+§ 5. Le cas échéant, [<sup>2</sup> l'article 88ter, alinéa 4]<sup>2</sup>, est applicable aux données recueillies par une recherche dans un système informatique en application de l'article 90ter, § 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/37, art. 18, 088; En vigueur : 27-01-2017&gt;
+
+(2)&lt;L 2022-12-06/02, art. 15, 114; En vigueur : 31-12-2022&gt;
+
+(3)&lt;L 2023-07-31/02, art. 4, 116; En vigueur : 19-08-2023&gt;
+
+(4)&lt;L 2026-03-11/03, art. 98, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 90quinquies**
+
+&lt;Inséré par L 1994-06-30/49, art. 3; En vigueur : 03-02-1995&gt; [<sup>1</sup> Le juge d'instruction peut prolonger une ou plusieurs fois les effets de son autorisation visée à l'article 90quater, § 1er, pour un nouveau terme qui ne peut dépasser un mois, avec un maximum de six mois, sans préjudice de sa décision de mettre fin à la mesure dès que les circonstances qui l'ont justifiée ont disparu. Ce délai de six mois commence à courir le jour de la première autorisation ordonnant la mesure et s'achève la veille du quantième du sixième mois suivant. Si la mesure, en raison de sa préparation technique, a effectivement débuté un jour postérieur à celui de la première autorisation, ce délai de six mois commence à courir au moment de ce début effectif et au plus tard deux mois après le jour de la première autorisation.]<sup>1</sup>
+
+Les dispositions contenues dans l'article 90quater, § 1, sont applicables à la prolongation visée à l'alinéa précédent. L'[<sup>1</sup> autorisation]<sup>1</sup> indique en outre les circonstances précises qui justifient la prolongation de la mesure.
+
+Si des circonstances nouvelles et graves nécessitent les mesures visées à l'article 90ter, le juge d'instruction peut ordonner une nouvelle mesure en observant les formalités définies aux articles 90ter et 90quater; dans ce cas, l'[<sup>1</sup> autorisation]<sup>1</sup> doit mentionner les circonstances précises nouvelles et graves qui nécessitent et justifient une nouvelle mesure.
+
+----------
+
+(1)&lt;L 2016-12-25/37, art. 19, 088; En vigueur : 27-01-2017&gt;
+
+**Art. 90sexies**
+
+[<sup>1</sup> § 1er. Les officiers de police judiciaire commis mettent à la disposition du juge d'instruction:
+
+1° le fichier contenant les communications non accessibles au public ou les données d'un système informatique enregistrées et obtenues à la suite des mesures prises en application des articles 90ter, 90quater et 90quinquies;
+
+2° la transcription ou reproduction des parties des communications ou données enregistrées estimées pertinentes pour l'instruction par les officiers de police judiciaire commis, et leur traduction éventuelle;
+
+3° le cas échéant, l'endroit où se trouvent les données visées au 2° dans le système informatique;
+
+4° une description générale du contenu et des données d'identification des moyens de communication ou systèmes informatiques utilisés en ce qui concerne les communications ou données estimées non pertinentes.
+
+§ 2. Sans préjudice de la sélection par les officiers de police judiciaire visés au paragraphe 1er, le juge d'instruction apprécie parmi toutes les communications non accessibles au public ou données d'un système informatique qui ont été enregistrées les parties qui sont pertinentes pour l'instruction. Dans la mesure où ces parties de communications ou données n'ont pas été transcrites, reproduites ou traduites conformément au paragraphe 1er, elles seront transcrites, reproduites et éventuellement traduites. Le juge d'instruction en fait dresser procès-verbal.
+
+§ 3. Les communications non accessibles au public ou données d'un système informatique qui sont couvertes par le secret professionnel ne sont pas consignées dans le procès-verbal. Ces communications ou données sont déposées au greffe dans un fichier sous pli scellé. S'il s'agit de personnes visées à l'article 90octies, on procède ainsi qu'il est prévu à cet article.
+
+§ 4. Les autorisations du juge d'instruction, les rapports des officiers de police judiciaire visés à l'article 90quater, § 3, et les procès-verbaux relatifs à l'exécution de la mesure, sont joints au dossier au plus tard après qu'il est mis fin à la mesure.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/37, art. 20, 088; En vigueur : 27-01-2017&gt;
+
+**Art. 90septies**
+
+[<sup>1</sup> § 1er. Les moyens appropriés sont utilisés pour garantir l'intégrité et la confidentialité des communications non accessibles au public ou données d'un système informatique qui ont été enregistrées.
+
+§ 2. Chaque fichier contient le sujet des communications non accessibles au public ou données d'un système informatique qui ont été enregistrées ainsi que les jours et heures auxquels la mesure a été exécutée.
+
+§ 3. Toute note prise dans le cadre de l'exécution des mesures visées aux articles 90ter, 90quater et 90quinquies par les personnes commises à cette fin qui n'est pas consignée dans un procès-verbal, est détruite, à l'exception de ce qui est mentionné à l'article 90sexies, § 1er, 2°, 3° et 4°, et sans préjudice de l'article 33 de la loi du 25 décembre 2016 portant des modifications diverses au Code d'instruction criminelle et au Code pénal, en vue d'améliorer les méthodes particulières de recherche et certains mesures d'enquête concernant Internet, les communications électroniques et les télécommunications et créant une banque de données des empreintes vocales. Les officiers de police judiciaire commis pour l'exécution de la mesure procèdent à cette destruction et en font mention dans un procès-verbal.
+
+Pour des raisons de gestion et en vue du respect de l'obligation de l'article 90decies, les données administratives strictement nécessaires peuvent néanmoins être conservées au sein du service désigné par le Roi.
+
+§ 4. Les fichiers visés à l'article 90sexies, § 1er, 1°, sont conservés au greffe sous pli scellé. Ils peuvent en outre être conservés au sein du service désigné par le Roi aux conditions et modalités fixées par Lui après avis de la Commission de la protection de la vie privée.
+
+Les pièces visées à l'article 90sexies, § 1er, 2°, 3° et 4°, et les copies des procès-verbaux sont conservées au greffe sous pli scellé.
+
+§ 5. Le greffier mentionne dans un registre spécial tenu journellement:
+
+1° le jour du dépôt des fichiers et pièces visés à l'article 90sexies, § 1er, ainsi que de chaque copie de procès-verbal;
+
+2° le nom du juge d'instruction qui a ordonné ou confirmé la mesure et l'objet de celle-ci;
+
+3° le jour où les scellés sont ouverts et éventuellement réapposés;
+
+4° la date de prise de connaissance des fichiers et pièces visés à l'article 90sexies, § 1er, des copies des procès-verbaux, ainsi que le nom des personnes qui en ont pris connaissance;
+
+5° tous les autres événements qui s'y rapportent.
+
+§ 6. L'inculpé, le prévenu, la partie civile ou leurs conseils reçoivent, sur simple demande, copie de la totalité des communications non accessibles au public ou données d'un système informatique, dont certaines parties estimées pertinentes ont été transcrites ou reproduites et consignées dans un procès-verbal qu'ils ont le droit de consulter.
+
+L'inculpé, le prévenu, la partie civile ou leurs conseils peuvent demander au juge de consulter au greffe les autres fichiers ou pièces déposés conformément au § 4 au greffe, ainsi que de transcrire ou reproduire des parties supplémentaires des communications ou données enregistrées. La demande, adressée au juge d'instruction, est traitée conformément à l'article 61quinquies.
+
+Le juge peut en outre rejeter cette demande s'il estime que la consultation, la transcription ou la reproduction des parties supplémentaires n'est pas nécessaire à la manifestation de la vérité, s'il le juge à ce moment préjudiciable à l'enquête ou pour des raisons liées à la protection d'autres droits ou intérêts de personnes. Il peut également limiter la consultation ou la transcription ou reproduction de parties supplémentaires à une sélection de fichiers ou pièces qu'il détermine.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/37, art. 21, 088; En vigueur : 27-01-2017&gt;
+
+**Art. 90octies**
+
+[<sup>1</sup> § 1er. La mesure ne pourra porter sur les locaux utilisés à des fins professionnelles, la résidence, les moyens de communication ou les systèmes informatiques d'un avocat ou d'un médecin que si celui-ci est lui-même soupçonné d'avoir commis une des infractions visées à l'article 90ter ou d'y avoir participé, ou si des faits précis laissent présumer que des tiers soupçonnés d'avoir commis une des infractions visées à l'article 90ter, utilisent ses locaux, sa résidence, ses moyens de communication ou ses systèmes informatiques.
+
+§ 2. La mesure ne peut être exécutée sans que le bâtonnier ou le représentant de l'ordre provincial des médecins, selon le cas, en soit averti.
+
+Ces personnes sont tenues au secret. Toute violation du secret est punie conformément à [<sup>2</sup> l'article 352]<sup>2</sup> du Code pénal.
+
+§ 3. Le juge d'instruction évalue, après concertation avec le bâtonnier ou le représentant de l'ordre provincial des médecins, quelles parties des communications non accessibles au public ou données d'un système informatique visées à l'article 90sexies, § 3, qu'il estime pertinentes pour l'instruction, relèvent du secret professionnel et quelles sont celles qui n'en relèvent pas.
+
+Seules les parties des communications ou données visées à l'alinéa 1er qui sont estimées ne pas relever du secret professionnel sont transcrites ou reproduites et, le cas échéant, traduites. Le juge d'instruction en fait dresser procès-verbal. Les fichiers contenant ces communications ou données sont déposés au greffe sous pli scellé.
+
+Toutes les autres communications ou données sont déposées au greffe dans un autre fichier sous pli scellé séparé.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/37, art. 22, 088; En vigueur : 27-01-2017&gt;
+
+(2)&lt;L 2026-03-11/03, art. 99, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 90novies**
+
+&lt;L 2002-12-19/86, art. 12, 036; En vigueur : 24-02-2003&gt; Au plus tard quinze jours après le moment où la décision sur le règlement de la procédure est devenue définitive ou après que la citation visée à l'article 524bis , § 6, a été déposée au greffe du tribunal ou de la cour, le greffier avise par écrit, sur réquisition du procureur du Roi ou, le cas échéant, du procureur général, toute personne ayant fait l'objet d'une mesure visée par l'article 90ter, de la nature de ladite mesure et des dates auxquelles elle a été exécutée [<sup>1</sup> , sauf si son identité ou son adresse ne peuvent raisonnablement pas être retrouvées retrouvée]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2016-12-25/37, art. 23, 088; En vigueur : 27-01-2017&gt;
+
+**Art. 90decies**
+
+&lt;Inséré par L 1994-06-30/49, art. 3; En vigueur : 03-02-1995&gt; Le Ministre de la Justice fait rapport annuellement au Parlement sur l'application des articles 90ter à 90novies.
+
+Il informe le Parlement du nombre d'instructions ayant donné lieu à des mesures visées par ces articles, de la durée de ces mesures, du nombre de personnes concernées et des résultats obtenus.
+
+[<sup>3</sup> Il fait en même temps rapport sur l'application des articles 40bis, 46ter, 46quater, 46quinquies, 47ter à 47decies, 56bis, 86bis, 86ter, 88sexies et 89ter.]<sup>3</sup>
+
+[Il informe le Parlement du nombre d'instructions ayant donné lieu à des mesures visées par ces articles, du nombre de personnes concernées, des infractions concernées et des résultats obtenus.] &lt;L 2002-04-08/51, art. 13, 031; En vigueur : 01-11-2002&gt;
+
+[Il fait en même temps rapport sur l'application des articles 102 à 111 et 317 et informe les Chambres législatives fédérales du nombre de dossiers, de personnes et d'infractions concernés.] &lt;L 2002-07-07/42, art. 4, 032; En vigueur : 20-08-2002&gt;
+
+[<sup>1</sup> A ce rapport est joint le rapport dressé en application de l'article 126, § 6, alinéa 3 de la loi du 13 juin 2005 relative aux communications électroniques.]<sup>1</sup>
+
+[<sup>2</sup> A ce rapport est également joint le rapport dressé en application de l'article 126, § 5, alinéa 4, de la loi du 13 juin 2005 relative aux communications électroniques.]<sup>2</sup>
+
+(NOTE : par son arrêt n° 84/2015 du 11-06-2015 (M.B. 11-08-2015, p. 50977), la Cour constitutionnelle a annulé modification avec effet le 30-07-2013.)
+
+----------
+
+(1)&lt;L 2013-07-30/10, art. 7, 069; En vigueur : 02-09-2013&gt;
+
+(2)&lt;L 2016-05-29/03, art. 10, 085; En vigueur : 28-07-2016, (NOTE : par son arrêt n° 57/2021 du 22-04-2021 (2021-04-22/20, M.B. 28-06-2021, p. 65587), la Cour constitutionnelle a annulé la modification apportée au présent article.) &gt;
+
+(3)&lt;L 2016-12-25/37, art. 24, 088; En vigueur : 27-01-2017&gt;
+
+###### § 7. DE L'ANALYSE ADN. &lt;inséré par L 1999-03-29/52, art. 3, En vigueur : 30-03-2002&gt;
+
+**Art. 90undecies**
+
+[<sup>1</sup> § 1er. Sans préjudice de l'application de l'article 56, § 1er, alinéa 3, du présent Code, le juge d'instruction peut ordonner le prélèvement sous la contrainte d'un échantillon de référence sur une personne contre laquelle il existe des indices de culpabilité dans la commission des faits dont il est saisi, si les faits sont punissables d'une peine [<sup>5</sup> de niveau 3]<sup>5</sup> ou d'une peine plus lourde.
+
+Dans son ordonnance motivée, qu'il communique au procureur du Roi, le juge d'instruction indique :
+
+1° les circonstances de l'affaire dans le cadre de laquelle le prélèvement est ordonné;
+
+2° l'existence d'indices de sa culpabilité dans la commission des faits dont il est saisi;
+
+3° la nécessité de recourir à la contrainte;
+
+4° le cas échéant, la comparaison du profil ADN avec les profils ADN des traces découvertes dans le cadre de cette affaire;
+
+5° la comparaison unique du profil ADN avec les profils ADN enregistrés dans les banques nationales de données ADN;
+
+6° en cas de lien positif avec un des profils ADN visés au 4° ou au 5°, l'enregistrement de son profil ADN dans la banque de données ADN " Criminalistique ";
+
+7° en cas d'enregistrement du profil ADN, la comparaison systématique de son profil ADN avec les profils ADN enregistrés dans [<sup>3</sup> les banques nationales, étrangères et internationales de données ADN]<sup>3</sup>;
+
+8° en cas de lien positif avec un des profils visés au 7°, de l'enregistrement de ce lien;
+
+[<sup>2</sup> 9° de l'établissement et de la comparaison systématiques de son profil Y-STR s'il existe des indices sérieux que les faits punissables constituent une infraction visée à [<sup>4</sup> l'article 5, § 1er, alinéa 3, 8°,]<sup>4</sup> de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale.]<sup>2</sup>
+
+Avant d'ordonner le prélèvement sous la contrainte, le juge d'instruction entend la personne qui doit en faire l'objet, et [<sup>2</sup> il l'informe des 1° à 9° énumérés à l'alinéa 2]<sup>2</sup>.
+
+Les motifs de l'éventuel refus de prélèvement ou l'accord de l'intéressé à cette mesure sont actés par le juge d'instruction dans le procès-verbal d'audition.
+
+§ 2. Le juge d'instruction requiert un officier de police judiciaire, auxiliaire du procureur du Roi, ou un médecin pour effectuer le frottis buccal ou le prélèvement de bulbes pileux.
+
+Pour le prélèvement de sang, il ne peut requérir qu'un médecin.
+
+L'officier de police judiciaire, auxiliaire du procureur du Roi, dresse un procès-verbal de l'opération de prélèvement.
+
+Si la mesure doit être exécutée sous la contrainte physique, celle-ci est exercée par des fonctionnaires de police sous l'ordre d'un officier de police judiciaire, auxiliaire du procureur du Roi. Dans ce cas, le prélèvement de sang est interdit.
+
+§ 3. Si la personne visée au § 1er n'a pas atteint l'âge de dix-huit ans, elle doit, pour l'application des §§ 1er et 2 se faire accompagner par au moins un de ses parents, par un avocat ou par une autre personne majeure de son choix.
+
+§ 4. Le juge d'instruction désigne un expert attaché à un laboratoire, pour :
+
+1° établir le profil ADN de l'échantillon de référence;
+
+2° effectuer, le cas échéant, une comparaison de ce profil ADN avec les profils ADN des traces découvertes dans le cadre de cette affaire;
+
+[<sup>2</sup> 3° établir le profil Y-STR de l'échantillon de référence lorsqu'il existe des indices sérieux que les faits punissables constituent une infraction visée à [<sup>4</sup> l'article 5, § 1er, alinéa 3, 8°,]<sup>4</sup> de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale;
+
+4° effectuer, le cas échéant, une comparaison de ce profil Y-STR avec les profils ADN des traces découvertes dans le cadre de cette affaire.]<sup>2</sup>
+
+[<sup>2</sup> § 4/1. Le juge d'instruction peut, par décision motivée et en précisant les circonstances de l'affaire qui justifient cette analyse, requérir l'expert visé au paragraphe 4:
+
+1° d'établir le profil Y-STR ou le profil ADNmt de l'échantillon de référence;
+
+2° d'effectuer, le cas échéant, une comparaison de ce profil Y-STR ou ADNmt avec les profils ADN des traces découvertes dans le cadre de cette affaire.]<sup>2</sup>
+
+§ 5. L'expert transmet au juge d'instruction un rapport motivé sur l'exécution de sa mission dans un délai maximal d'un mois après la réception de sa mission et des pièces à conviction.
+
+Le juge d'instruction peut toutefois accorder un délai d'analyse supplémentaire sur demande motivée de l'expert.
+
+§ 6. Sauf décision contraire motivée du juge d'instruction, l'expert qui a été chargé d'établir le profil ADN de l'échantillon de référence [<sup>2</sup> en application du paragraphe 4, 1° et 3°, et du paragraphe 4/1, 1°]<sup>2</sup>, communique d'office, dans les quinze jours suivant la transmission de son rapport, le profil ADN de l'échantillon de référence au gestionnaire des banques nationales de données ADN, en vue de l'application de l'article 5quater, §§ 2 à 4, de la loi du 22 mars 1999 relative à la procédure d'identification par analyse ADN en matière pénale.
+
+Il communique également les données y relatives, énumérées à l'article 44quater, § 3, second alinéa.
+
+§ 7. Sans préjudice du § 6, et sauf décision contraire motivée du juge d'instruction, l'expert qui a été chargé d'effectuer [<sup>2</sup> la comparaison visée au paragraphe 4, 2° et 4°, et au paragraphe 4/1, 2°]<sup>2</sup>, et qui a établi un lien positif, communique d'office, dans les quinze jours après la transmission de son rapport, le profil ADN de l'échantillon de référence au gestionnaire des banques nationales de données ADN, en vue de l'application de l'article 5quater, §§ 1er, 3 et 4, de la loi précitée.
+
+Il communique également les données y relatives, énumérées à l'article 44quater, § 3, second alinéa de la même loi.
+
+§ 8. La notification des résultats à la personne concernée, la contre-expertise, ainsi que [<sup>2</sup> la conservation et la destruction]<sup>2</sup> de l'échantillon de référence et des échantillons qui en dérivent contenant de l'ADN, sont effectués conformément à l'article 44quinquies, §§ 6 et 9.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-11-07/16, art. 6, 062; En vigueur : 01-01-2014 (voir AR 2013-07-17/29, art. 36)&gt;
+
+(2)&lt;L 2024-03-07/01, art. 8,d,e,f,g,h,i,j, 120; En vigueur : 01-03-2024&gt;
+
+(3)&lt;L 2024-03-07/01, art. 8,c, 120; En vigueur : 24-03-2024&gt;
+
+(4)&lt;L 2026-02-08/04, art. 8, 129; En vigueur : 26-02-2026&gt;
+
+(5)&lt;L 2026-03-11/03, art. 100, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 90duodecies**
+
+[<sup>1</sup> § 1er. Lorsque les faits dont il est saisi, sont punissables d'une peine [<sup>4</sup> de niveau 3]<sup>4</sup> ou d'une peine plus lourde, et s'il dispose d'indices que la personne visée présente un lien direct avec l'instruction judiciaire, le juge d'instruction peut ordonner le prélèvement, sous la contrainte, d'un échantillon de référence sur une personne qui n'est pas visée à l'article 90undecies.
+
+Dans son ordonnance motivée qu'il communique au procureur du Roi, le juge d'instruction indique :
+
+1° les circonstances de l'affaire dans le cadre de laquelle le prélèvement est ordonné;
+
+2° la nécessité de recourir à la contrainte;
+
+3° la comparaison du profil ADN avec les profils ADN des traces découvertes dans le cadre de cette affaire;
+
+4° le fait que le profil ADN ne sera pas transmis au gestionnaire des banques nationales de données ADN, aux fins de comparaison ou d'enregistrement.
+
+§ 2. Avant d'ordonner le prélèvement sous la contrainte, le juge d'instruction entend la personne qui doit en faire l'objet, et il l'informe des 1° à 4° énumérés au § 1er, alinéa 2.
+
+Les motifs de l'éventuel refus de prélèvement ou l'accord de la personne à cette mesure, sont actés par le juge d'instruction dans le procès-verbal d'audition.
+
+§ 3. Le prélèvement, l'établissement du profil ADN de l'échantillon de référence, la comparaison des profils ADN, la transmission des résultats au juge d'instruction, la notification des résultats à la personne concernée, la contre-expertise, [<sup>3</sup> sont effectués conformément à l'article 90undecies, §§ 2 à 5]<sup>3</sup>.
+
+La qualité de la personne est communiquée à l'expert chargé de réaliser la comparaison des profils ADN [<sup>3</sup> , qui détruit l'échantillon de référence et les échantillons qui en dérivent contenant de l'ADN au plus tard six mois après la transmission de son rapport sauf si le juge d'instruction ordonne, par une décision motivée, un autre délai de conservation pour permettre d'autres analyses basées sur le même échantillon de référence, qui ne peut pas excéder cinq ans]<sup>3</sup>.]<sup>1</sup>
+
+[<sup>2</sup> § 4. Si, dans le cadre d'un dossier [<sup>3</sup> concernant des infractions visées aux [<sup>4</sup> articles 134 ou 138]<sup>4</sup> du Code pénal]<sup>3</sup>, le juge d'instruction décide de ne pas faire établir de profil ADN de traces ou d'un échantillon de référence découverts ou prélevés lors de l'exploration corporelle de la victime, visée à l'article 90bis, il fournit à ce sujet des explications à la victime à la fin de l'instruction.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-11-07/16, art. 7, 062; En vigueur : 01-01-2014 (voir AR 2013-07-17/29, art. 36)&gt;
+
+(2)&lt;L 2011-11-30/28, art. 9, 063; En vigueur : 30-01-2012&gt;
+
+(3)&lt;L 2024-03-07/01, art. 9, 120; En vigueur : 01-03-2024&gt;
+
+(4)&lt;L 2026-03-11/03, art. 101, 130; En vigueur : 01-09-2026&gt;
+
+### CHAPITRE VIbis. [<sup>1</sup> - DISPOSITIONS GÉNÉRALES RELATIVES À LA PROTECTION DES DONNÉES À CARACTÈRE PERSONNEL DANS LE CADRE DE LA PROCÉDURE PÉNALE ET RELATIVE AUX COMMUNICATIONS À LA PRESSE]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-27/02, art. 60, 121; En vigueur : 08-04-2024&gt;
+
+**Art. 90terdecies**
+
+[<sup>1</sup> L'exercice des droits visés aux articles 21ter, 21quinquies, 61ter/1, 61quinquies/1, et la procédure y afférente ne peuvent suspendre ou retarder la procédure proprement dite.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-28/60, art. 61, 121; En vigueur : 08-04-2024&gt;
+
+**Art. 90quaterdecies**
+
+[<sup>1</sup> Les demandes visées aux articles 21quinquies et 61quinquies/1 ne suspendent pas le règlement de la procédure et ne peuvent pas constituer un motif pour constater que l'affaire n'est pas en état d'être jugée.
+
+Tant qu'il n'existe pas de décision définitive coulée en force de chose jugée de la juridiction d'instruction relative au règlement de la procédure, le juge d'instruction est compétent pour prendre connaissance des demandes visées à l'article 61quinquies/1, et pour statuer à cet égard.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-28/60, art. 62, 121; En vigueur : 08-04-2024&gt;
+
+**Art. 90quindecies**
+
+[<sup>1</sup> L'exercice des droits relatifs à la protection des données et des procédures visées aux articles 21ter, 21quinquies, 61ter/1 et 61quinquies/1, est exclu pour les données contenues dans un dossier confidentiel dans le cadre des méthodes particulières de recherche, notamment l'observation, l'infiltration et l'infiltration civile, le recours aux indicateurs et la mesure visée à l'article 46sexies, si, dans ce cadre, un dossier confidentiel a été créé, les données protégées par un anonymat total ou partiel, les données protégées par des mesures de protection ordinaires ou particulières, les données d'identité protégées des membres des services de police qui sont membres des unités spéciales ou en charge d'enquêtes ou intervenant dans le cadre d'infractions particulièrement graves [<sup>2</sup> , les données communiquées dans le cadre de la concertation de cas organisée en vue de prévenir les infractions visées au livre II, titre Iter, ou les infractions commises dans le cadre d'une organisation criminelle visée à l'article 324bis du Code pénal]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-28/60, art. 63, 121; En vigueur : 08-04-2024&gt;
+
+(2)&lt;L 2026-01-08/05, art. 7, 128; En vigueur : 15-02-2026&gt;
+
+**Art. 90sedecies**
+
+[<sup>1</sup> Le procureur du Roi peut, dans d'autres situations que celles visées aux articles 28quinquies et 57, lorsque l'intérêt public l'exige, communiquer à la presse des informations relatives à des [<sup>2</sup> infractions]<sup>2</sup>. Il veille au respect de la présomption d'innocence tant qu'une décision judiciaire définitive concernant la culpabilité ou l'innocence n'est pas intervenue, des droits de la défense de l'inculpé ou de l'accusé, de la victime et des tiers, de la vie privée et de la dignité des personnes. Dans la mesure du possible, l'identité des personnes mentionnées dans le dossier n'est pas divulguée.
+
+Le procureur du Roi peut, dans le cadre de l'intérêt public et de la prévention d'infractions, y compris la protection contre les dangers pour la sécurité publique et leur prévention, communiquer sur des affaires [<sup>2</sup> ...]<sup>2</sup> graves qui ont été clôturées par une condamnation coulée en force de chose jugée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-28/60, art. 64, 121; En vigueur : 08-04-2024&gt;
+
+(2)&lt;L 2026-03-11/03, art. 102, 130; En vigueur : 01-09-2026&gt;
+
+### CHAPITRE VII. - [Des mesures provisoires à l'égard des personnes morales]. &lt;L 1999-05-04/60, art. 16; En vigueur : 02-07-1999&gt;
+
+**Art. 91**
+
+&lt;Inséré par L 1999-05-04/60, art. 16; En vigueur : 02-07-1999&gt; Lorsqu'au cours d'une instruction, le juge d'instruction constate de sérieux indices de culpabilité chez une personne morale, il peut, si des circonstances particulières le requièrent, ordonner les mesures suivantes :
+
+1° la suspension de la procédure de dissolution ou de liquidation de la personne morale;
+
+2° l'interdiction de transactions patrimoniales spécifiques susceptibles d'entraîner l'insolvabilité de la personne morale;
+
+3° le dépôt d'un cautionnement dont il fixe le montant, en vue de garantir le respect des mesures qu'il ordonne.
+
+Si les mesures visées à l'alinéa précédent concernent des biens immeubles, il est procédé conformément à l'article 35bis.
+
+### CHAPITRE VIIbis. - [De l'audition des mineurs [<sup>1</sup> et des majeurs vulnérables]<sup>1</sup> victimes ou témoins de certains [<sup>2</sup> infractions]<sup>2</sup>]. &lt;L 2000-11-28/35, art. 38; En vigueur : 01-04-2001&gt;
+
+----------
+
+(1)&lt;L 2019-05-05/10, art. 15, 102; En vigueur : 03-06-2019&gt;
+
+(2)&lt;L 2026-03-11/03, art. 131, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 91bis**
+
+Tout mineur d'âge [<sup>3</sup> et tout majeur vulnérable,]<sup>3</sup> [<sup>3</sup> victimes ou témoins]<sup>3</sup> des faits visés aux [<sup>5</sup> articles 134 à 149, 151 à 168, 171 à 174, 183 à 185, 187, 194 à 198, 200, 201, 206 à 211, 223 à 225, 226 à 228, 258 à 260, 265, 268, 299 à 301, 328 à 330, 333 à 335, 336 et 337 du Code pénal]<sup>5</sup> [<sup>3</sup> ont le droit]<sup>3</sup> de se faire accompagner par la personne majeure de [<sup>3</sup> leur choix]<sup>3</sup> lors de toute audition effectuée par l'autorité judiciaire, sauf décision contraire motivée prise à l'égard de cette personne par le ministère public ou le magistrat instructeur dans l'intérêt du mineur [<sup>3</sup> ou du majeur vulnérable,]<sup>3</sup> ou de la manifestation de la vérité.
+
+[<sup>3</sup> Pour l'application du présent chapitre, il convient d'entendre par "majeur vulnérable" toute personne dont la situation vulnérable en raison de son âge, d'un état de grossesse, d'une maladie ou d'une déficience ou infirmité physique ou mentale est apparente.]<sup>3</sup> &lt;L 2000-11-28/35, art. 38, 026; En vigueur : 01-04-2001&gt; &lt;L 2005-08-10/61, art. 26, 045; En vigueur : 12-09-2005&gt;
+
+----------
+
+(1)&lt;L 2014-04-10/24, art. 10, 073; En vigueur : 10-05-2014&gt;
+
+(2)&lt;L 2016-02-01/09, art. 2, 081; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2019-05-05/10, art. 16, 102; En vigueur : 03-06-2019&gt;
+
+(4)&lt;L 2022-03-21/01, art. 107, 112; En vigueur : 01-06-2022&gt;
+
+(5)&lt;L 2026-03-11/03, art. 103, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 92**
+
+[<sup>1</sup> § 1er. L'audition des mineurs [<sup>4</sup> et des majeurs vulnérables,]<sup>4</sup> victimes ou témoins d'infractions visées [<sup>6</sup> articles 134 à 146, 148, 149, 151 à 163, 165, 187 et 206 à 211]<sup>6</sup> du Code pénal fait l'objet d'un enregistrement audiovisuel, sauf décision contraire motivée prise par le procureur du Roi ou le juge d'instruction tenant compte des circonstances propres à l'affaire et dans l'intérêt du mineur [<sup>4</sup> ou du majeur vulnérable]<sup>4</sup>.
+
+Le procureur du Roi ou le juge d'instruction peut ordonner l'enregistrement audiovisuel de l'audition des mineurs [<sup>4</sup> et des majeurs vulnérables]<sup>4</sup> victimes ou témoins d'autres infractions visées à l'article 91bis.
+
+L'enregistrement est réalisé avec le consentement du mineur [<sup>4</sup> ou du majeur vulnérable]<sup>4</sup>. Si le mineur a moins de douze ans, il suffit de l'en informer.
+
+§ 2. L'enregistrement audiovisuel de l'audition des mineurs [<sup>4</sup> et des majeurs vulnérables,]<sup>4</sup> victimes ou témoins d'autres infractions que celles visées à l'article 91bis peut être ordonné en raison de circonstances graves et exceptionnelles.
+
+L'enregistrement est réalisé avec le consentement du mineur [<sup>4</sup> ou du majeur vulnérable]<sup>4</sup>. Si le mineur a moins de douze ans, il suffit de l'en informer.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-11-30/28, art. 4, 063; En vigueur : 01-01-2013&gt;
+
+(2)&lt;L 2014-04-10/24, art. 11, 073; En vigueur : 10-05-2014&gt;
+
+(3)&lt;L 2016-02-01/09, art. 3, 081; En vigueur : 29-02-2016&gt;
+
+(4)&lt;L 2019-05-05/10, art. 17, 102; En vigueur : 03-06-2019&gt;
+
+(5)&lt;L 2022-03-21/01, art. 108, 112; En vigueur : 01-06-2022&gt;
+
+(6)&lt;L 2026-03-11/03, art. 104, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 93**
+
+&lt;L 2000-11-28/35, art. 38, 026; En vigueur : 01-04-2001&gt; L'audition enregistrée du mineur [<sup>1</sup> et du majeur vulnérable]<sup>1</sup> est effectuée, selon le stade de la procédure, par un magistrat du ministère public, par le juge d'instruction ou par un fonctionnaire de police [<sup>1</sup> breveté à cet effet]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2019-05-05/10, art. 18, 102; En vigueur : 03-06-2019&gt;
+
+**Art. 94**
+
+&lt;L 2000-11-28/35, art. 38, 026; En vigueur : 01-04-2001&gt; L'audition enregistrée d'un mineur [<sup>1</sup> et d'un majeur vulnérable]<sup>1</sup> a lieu dans un local spécialement adapté. Les personnes qui peuvent être autorisées à y assister sont l'interrogateur, la personne visée à l'article 91bis, un ou des membres du service technique [<sup>1</sup> et un expert]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2019-05-05/10, art. 19, 102; En vigueur : 03-06-2019&gt;
+
+**Art. 95**
+
+&lt;L 2000-11-28/35, art. 38, 026; En vigueur : 01-04-2001&gt; L'interrogateur explique au mineur [<sup>2</sup> ou au majeur vulnérable]<sup>2</sup> les raisons pour lesquelles [<sup>1</sup> l'enregistrement audiovisuel de l'audition est réalisé]<sup>1</sup> et l'informe qu'il pourra, à tout moment, demander d'interrompre celui-ci. Mention en est faite au procès-verbal.
+
+A tout moment au cours de l'audition enregistrée, le mineur [<sup>2</sup> ou le majeur vulnérable]<sup>2</sup> peut demander d'interrompre l'enregistrement. Cette demande est immédiatement suivie d'effet et actée au procès-verbal.
+
+----------
+
+(1)&lt;L 2011-11-30/28, art. 5, 063; En vigueur : 01-01-2013&gt;
+
+(2)&lt;L 2019-05-05/10, art. 20, 102; En vigueur : 03-06-2019&gt;
+
+**Art. 96**
+
+&lt;L 2000-11-28/35, art. 38, 026; En vigueur : 01-04-2001&gt; Un procès-verbal de l'audition enregistrée est établi dans les quarante-huit heures ou immédiatement en cas de privation de liberté de la personne suspectée. Ce procès-verbal reprend, outre les indications prévues à l'article47bis, les principaux éléments de l'entretien et éventuellement une retranscription des passages les plus significatifs.
+
+Il est procédé à la retranscription intégrale et littérale de l'audition sur demande du juge d'instruction, du procureur du Roi ou à la demande de la personne entendue ou des parties au procès. Cette retranscription rend compte de l'attitude et des expressions du mineur [<sup>1</sup> ou du majeur vulnérable]<sup>1</sup>. Elle est versée dans les plus brefs délais au dossier.
+
+----------
+
+(1)&lt;L 2019-05-05/10, art. 21, 102; En vigueur : 03-06-2019&gt;
+
+**Art. 97**
+
+&lt;L 2000-11-28/35, art. 38, 026; En vigueur : 01-04-2001&gt; L'enregistrement de l'audition est réalisé en deux exemplaires. Les deux [<sup>1</sup> supports de données audiovisuels]<sup>1</sup> ont le statut d'originaux et sont [<sup>1</sup> déposés]<sup>1</sup> au greffe à titre de pièces à conviction.
+
+En cas de nécessité, en vue notamment d'effectuer la retranscription ou l'expertise, [<sup>1</sup> un des supports de données audiovisuels peut être mis]<sup>1</sup> à la disposition du service de police ou de l'expert désigné.
+
+Aucune copie des [<sup>1</sup> supports de données audiovisuels]<sup>1</sup> ne peut être réalisée.
+
+----------
+
+(1)&lt;L 2019-05-05/10, art. 22, 102; En vigueur : 03-06-2019&gt;
+
+**Art. 98**
+
+&lt;L 2000-11-28/35, art. 38, 026; En vigueur : 01-04-2001&gt; S'il est indispensable de reprendre ou de compléter l'interrogatoire du mineur [<sup>1</sup> ou du majeur vulnérable]<sup>1</sup> ou de procéder à une confrontation, le procureur du Roi, le juge d'instruction, la juridiction d'instruction ou la juridiction de jugement ordonne par une décision motivée qu'il soit procédé au nouvel interrogatoire ou à la confrontation dans les formes et conditions prévues aux articles 91bis à 97.
+
+----------
+
+(1)&lt;L 2019-05-05/10, art. 23, 102; En vigueur : 03-06-2019&gt;
+
+**Art. 99**
+
+&lt;L 2000-11-28/35, art. 38, 026; En vigueur : 01-04-2001&gt; Le visionnage [<sup>1</sup> des supports de données audiovisuels]<sup>1</sup> est limité aux personnes qui participent professionnellement à l'information, à l'instruction ou au jugement dans le cadre du dossier judiciaire, ainsi qu'aux parties au procès.
+
+[<sup>1</sup> D'autres personnes impliquées professionnellement dans l'accueil, l'accompagnement et l'aide du mineur ou du majeur vulnérable, victime ou témoin des infractions visées aux articles 91bis et 92, peuvent également visionner l'enregistrement audiovisuel, moyennant l'accord du procureur du Roi ou du juge d'instruction et après approbation du majeur vulnérable.]<sup>1</sup>
+
+L'inculpe non détenu et la partie civile peuvent introduire une demande en ce sens auprès du juge d'instruction conformément à l'article 61ter.
+
+Toutes les parties ont le droit de visionner [<sup>1</sup> les supports de données audiovisuels]<sup>1</sup> après que le procureur du Roi a pris des réquisitions en vue du règlement de la procédure, conformément à l'article 127.
+
+----------
+
+(1)&lt;L 2019-05-05/10, art. 24, 102; En vigueur : 03-06-2019&gt;
+
+**Art. 100**
+
+&lt;L 2000-11-28/35, art. 38, 026; En vigueur : 01-04-2001&gt; Les procès-verbaux d'interrogatoire et les [<sup>1</sup> supports de données audiovisuels]<sup>1</sup> de l'enregistrement sont produits devant la juridiction d'instruction et la juridiction de jugement en lieu et place de la comparution personnelle du mineur [<sup>1</sup> ou du majeur vulnérable]<sup>1</sup>.
+
+Toutefois, lorsqu'elle estime la comparution [<sup>1</sup> de la personne auditionnée]<sup>1</sup> nécessaire à la manifestation de la vérité, la juridiction de jugement peut l'ordonner par une décision motivée.
+
+----------
+
+(1)&lt;L 2019-05-05/10, art. 25, 102; En vigueur : 03-06-2019&gt;
+
+**Art. 101**
+
+&lt;L 2000-11-28/35, art. 38, 026; En vigueur : 01-04-2001&gt; Les [<sup>1</sup> supports de données audiovisuels]<sup>1</sup> peuvent être [<sup>1</sup> détruits]<sup>1</sup> sur décision de la juridiction de jugement. Dans les autres cas, [<sup>1</sup> ils sont conservés]<sup>1</sup> au greffe et détruites après expiration du délai de prescription de l'action publique ou de l'action civile lorsque celle-ci est postérieure, et, en cas de condamnation, après exécution totale ou prescription de la peine.
+
+----------
+
+(1)&lt;L 2019-05-05/10, art. 26, 102; En vigueur : 03-06-2019&gt;
+
+### CHAPITRE VIIter. - De la protection des témoins menacés &lt;Inséré par L 2002-07-07/42, art. 5; En vigueur : 20-08-2002&gt;
+
+#### Section 1. - Définitions de certaines expressions figurant dans le présent chapitre. &lt;Inséré par L 2002-07-07/42, art. 5; En vigueur : 20-08-2002&gt;
+
+**Art. 102**
+
+&lt;Inséré par L 2002-07-07/42, art. 5, 032; En vigueur : 20-08-2002&gt; Pour l'application du présent chapitre, on entend par :
+
+1° [<sup>1</sup> témoin menacé :
+
+\- une personne mise en danger à la suite de déclarations faites ou à faire dans le cadre d'une affaire pénale durant l'information ou durant l'instruction, soit en Belgique, soit devant un tribunal international, soit si la réciprocité est assurée, à l'étranger, et qui est disposée à confirmer ces déclarations sur demande à l'audience;
+
+\- une personne qui court un risque en raison de son intervention en tant qu'infiltrant civil visé à l'article 47novies/1]<sup>1</sup>;
+
+2° membres de la famille : le conjoint du témoin menace ou la personne avec laquelle il cohabite et entretient une relation affective et sexuelle durable, les parents vivant sous le même toit du témoin menacé, de son conjoint ou de la personne avec laquelle il cohabite et entretient une relation affective et sexuelle durable, leurs adoptants et enfants d'adoption vivant sous le même toit et les parents de leurs adoptants et enfants d'adoption vivant sous le même toit;
+
+3° autres parents : les parents du témoin menacé jusqu'au troisième degré ne vivant pas sous le même toit, les parents de son conjoint ou de la personne avec laquelle il cohabite et entretient une relation affective et sexuelle durable, leurs adoptants et enfant d'adoption ne vivant pas sous le même toit et les parents des adoptants et enfants d'adoption jusqu'au deuxième degré ne vivant pas sous le même toit.
+
+----------
+
+(1)&lt;L 2018-07-22/04, art. 10, 099; En vigueur : 17-08-2018&gt;
+
+#### Section 2. - Des organes de protection. &lt;Inséré par L 2002-07-07/42, art. 5; En vigueur : 20-08-2002&gt;
+
+**Art. 103**
+
+&lt;Inséré par L 2002-07-07/42, art. 5, 032; En vigueur : 20-08-2002&gt; § 1er. La Commission de protection des témoins est compétente en matière d'octroi, de modification ou de retrait des mesures de protection et des mesures d'aide financière.
+
+La Commission de protection des témoins est composée du procureur fédéral, qui en assure la présidence, d'un procureur du Roi désigné par le Conseil des procureurs du Roi, du procureur général à qui est confiée la tâche spécifique des relations internationales, du directeur général de la Police judiciaire de la police fédérale, du [<sup>2</sup> directeur de la direction centrale des opérations de la police judiciaire]<sup>2</sup> de la police fédérale, d'un représentant du Ministère de la Justice et d'un représentant du Ministère de l'Intérieur. Ces deux derniers n'ont qu'une compétence consultative et n'ont pas voix délibérative.
+
+La Commission de protection des témoins se réunit sur convocation de son président. Les membres de la Commission de protection des témoins assistent aux réunions en personne ou se font remplacer conformément aux règles qu'ils fixent dans le règlement d'ordre intérieur. Le Roi approuve le règlement d'ordre intérieur de la commission.
+
+§ 2. La coordination de la protection est assurée par le Service de protection des témoins au sein de la Direction générale de la Police judiciaire de la police fédérale.
+
+§ 3. L'exécution de la protection au sein de la prison de personnes détenues est assurée par la Direction générale des Etablissements pénitentiaires.
+
+Dans tous les autres cas, l'exécution de la protection est assurée par [<sup>2</sup> le Service de protection des témoins]<sup>2</sup> de la police fédérale.
+
+[<sup>1</sup> § 4. Le Ministre de la Justice et le ministre de l'Intérieur prennent, sur proposition de la Commission de protection des témoins, les mesures spécifiques absolument nécessaires en vue de garantir à tout moment la protection de l'identité et la sécurité des fonctionnaires de police visés aux §§ 2 et 3, alinéa 2, et des fonctionnaires visés au § 3, alinéa 1er, dans la préparation et l'exécution de leurs missions. Il ne peut y avoir d'infraction quand des faits sont commis dans ce cadre.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-07-14/07, art. 2, 060; En vigueur : 01-08-2011&gt;
+
+(2)&lt;L 2016-02-05/11, art. 69, 079; En vigueur : 29-02-2016&gt;
+
+#### Section 3. - De l'octroi de la protection. &lt;Inséré par L 2002-07-07/42, art. 5; En vigueur : 20-08-2002&gt;
+
+**Art. 104**
+
+&lt;Inséré par L 2002-07-07/42, art. 5, 032; En vigueur : 20-08-2002&gt; § 1er. La Commission de protection des témoins peut, compte tenu des principes de subsidiarité et de proportionnalité, octroyer des mesures de protections ordinaires à un témoin menacé ainsi que, le cas échéant et dans la mesure où ils courent un danger à la suite de ses déclarations faites ou à faire, aux membres de sa famille et autres parents.
+
+Les mesures de protection ordinaires peuvent notamment comprendre :
+
+1° la protection des données relatives a la personne concernée auprès du service de la population et auprès de l'état civil;
+
+2° la formulation de conseils dans le domaine de la prévention;
+
+3° l'installation d'un équipement technique préventif;
+
+4° la désignation d'un fonctionnaire de contact;
+
+5° l'élaboration d'une procédure d'alarme;
+
+6° l'octroi d'une assistance psychologique;
+
+7° l'organisation, à titre préventif, de patrouilles par les services de police;
+
+8° l'enregistrement des appels entrants et sortants;
+
+9° le contrôle régulier des consultations du registre national et/ou la protection des données relatives à la personne concernée;
+
+10° la mise à disposition d'un numéro de téléphone secret;
+
+11° la mise à disposition d'une plaque d'immatriculation protégée;
+
+12° la mise à disposition d'un GSM pour les appels urgents;
+
+13° la protection physique rapprochée et immédiate de la personne concernée;
+
+14° la protection électronique de la personne concernée;
+
+15° la relocalisation de la personne concernée pendant maximum 45 jours;
+
+16° le placement dans une section spécialement protégée de la prison de la personne concernée détenue;
+
+[<sup>1</sup> 17° l'inscription à une adresse de contact par dérogation à la loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes d'étranger et aux documents de séjour et modifiant la loi du 8 août 1983 organisant un Registre national des personnes physiques.]<sup>1</sup>
+
+[<sup>2</sup> La personne bénéficiant de mesures de protection spéciales a droit à la préservation de ses droits sociaux et administratifs. Le procureur fédéral peut à cet effet requérir le concours des fonctionnaires et des agents des administrations et services publics. Le service de protection des témoins s'assure de l'exécution de cette réquisition.]<sup>2</sup>
+
+[<sup>2</sup> Toute personne qui, du chef de sa fonction, a connaissance de ces mesures ou y prête son concours est tenue de garder le secret. Toute violation du secret est punie conformément à [<sup>3</sup> l'article 352]<sup>3</sup> du Code pénal.]<sup>2</sup>
+
+§ 2. En outre, la Commission de protection des témoins peut, compte tenu des principes de subsidiarité et de proportionnalité, octroyer exclusivement des mesures de protection spéciales à un témoin menacé dont la protection spéciale à un témoin menacé dont la protection ne peut être assurée par des mesures de protection ordinaires et dont les déclarations concernent [une infraction telle que visée à l'article 90ter, §§ 2, 3 ou 4, ou une infraction commise dans le cadre d'une organisation criminelle visée [<sup>3</sup> à l'article 406]<sup>3</sup> du Code pénal] et, le cas échéant, aux membres de sa famille ainsi que, dans la mesure où ils courent un danger à la suite des ses déclarations faites ou à faire, à ses autres parents.&lt;L 2003-08-05/32, art. 23, 039; En vigueur : 07-08-2003&gt;
+
+Les mesures de protection spéciales peuvent comprendre :
+
+1° la relocalisation de la personne concernée pour une période de plus de 45 jours;
+
+2° le changement d'identité de la personne concernée;
+
+[<sup>1</sup> 3° l'octroi à la personne concernée d'une identité de protection temporaire et des documents strictement nécessaires à l'appui de cette identité.
+
+L'identité de protection temporaire porte sur les nom, prénoms, date et lieu de naissance de la personne concernée.
+
+Son octroi est révocable et ne peut entraîner aucun effet juridique.
+
+Il ne peut y avoir d'infraction quand des faits absolument nécessaires sont commis dans ce cadre en vue de garantir la protection du témoin.]<sup>1</sup>
+
+§ 3. La Commission de protection des témoins peut, en tenant compte de la situation spécifique de la personne concernée, octroyer des mesures d'aide financière au témoin menacé qui bénéficie de mesures de protection spéciales.
+
+Les mesures d'aide financière peuvent comprendre :
+
+1° un versement mensuel destiné à assurer la subsistance du témoin menacé ainsi que des membres de sa famille et autres parents qui sont protégés avec lui, et dont certaines parties peuvent être destinées à des fins spécifiques;
+
+2° le versement en une seule fois d'un montant pour démarrer une activité indépendante;
+
+3° une contribution financière spéciale réservée à des fins spécifiques.
+
+§ 4. La personne bénéficiant de mesures de protection spéciales a automatiquement droit à une assistance psychologique, à de l'aide dans la recherche d'un emploi et à une intervention lors de l'exercice des droits pécuniaires acquis, conformément aux modalités visées à l'article 107, alinéa 3.
+
+[<sup>2</sup> La personne bénéficiant de mesures de protection spéciales a droit à la préservation de ses droits sociaux et administratifs. Le procureur fédéral peut à cet effet requérir le concours des fonctionnaires et des agents des administrations et services publics. Le service de protection des témoins s'assure de l'exécution de cette réquisition.
+
+Toute personne qui, du chef de sa fonction, a connaissance de ces mesures ou y prête son concours est tenue de garder le secret. Toute violation du secret est punie conformément à [<sup>3</sup> l'article 352]<sup>3</sup> du Code pénal.]<sup>2</sup>
+
+[<sup>2</sup> § 5. Le procureur fédéral peut également autoriser, s'il y a lieu, la prise de mesures de surveillance préventives nécessaires afin de préserver la sécurité et l'intégrité physique, psychique et morale des personnes visées à l'article 102 après l'octroi de mesures de protection visées aux paragraphes 1er et 2. Le témoin menacé est informé par écrit de cette possibilité.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2011-07-14/07, art. 3, 060; En vigueur : 01-08-2011&gt;
+
+(2)&lt;L 2018-07-22/05, art. 19, 100; En vigueur : 17-08-2018&gt;
+
+(3)&lt;L 2026-03-11/03, art. 105, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 105**
+
+&lt;Inséré par L 2002-07-07/42, art. 5, 032; En vigueur : 20-08-2002&gt; § 1er. Le procureur du Roi, le procureur général, le procureur fédéral ou le juge d'instruction, selon le cas, peut demander l'octroi de mesures de protection et de mesures d'aide financière par requête écrite motivée, accompagnée d'une copie du dossier.
+
+La requête mentionne :
+
+1° les jour, mois et année;
+
+2° les nom et fonction du magistrat qui dépose la requête;
+
+3° les nom et prénom ainsi que le lieu de domicile ou de résidence des personnes pour lesquelles les mesures visées sont demandées;
+
+4° s'il convient d'octroyer des mesures de protection ordinaires ou spéciales, et le cas échéant lesquelles, et des mesures d'aide financière;
+
+5° les mesures de protection ordinaires visées au § 3, et les motifs particuliers qui le justifient.
+
+Le procureur du Roi, le procureur général et le procureur fédéral transmettent la requête au président de la Commission de protection des témoins.
+
+Le juge d'instruction transmet la requête au procureur du Roi, lequel la transmet immédiatement au président de la Commission de protection des témoins.
+
+Sur demande écrite et motivée du témoin menacé, le procureur du Roi, le procureur général, le procureur fédéral ou le juge d'instruction peut indiquer dans sa requête les personnes autres que celles visées à l'article 102 à qui il peut être octroyé des mesures de protection. Ces mesures de protection ne peuvent être octroyées par la Commission que si ces personnes courent effectivement un danger.
+
+§ 2. Dès que le président de la Commission de protection des témoins a reçu la requête en vue de l'octroi de mesures de protection et, le cas échéant, de mesures d'aide financière, il demande au directeur général de la Police judiciaire de la police fédérale un avis écrit.
+
+§ 3. Si des mesures de protection sont nécessaires en cas d'extrême urgence, le président de la Commission de protection des témoins peut, après concertation avec le directeur général de la Police judiciaire de la police fédérale et dans l'attente de l'avis de celui-ci, décider à titre provisoire d'octroyer des mesures de protection ordinaires.
+
+La décision provisoire est motivée. Elle contient une description précise des mesures de protection octroyées.
+
+Le témoin menacé est informé par écrit de la décision provisoire.
+
+§ 4. Le directeur général de la Police judiciaire de la police fédérale rend dans le mois qui suit la réception de la demande visée au § 2, un avis circonstancié sur la réalisation des conditions légales pour l'octroi des mesures de protection dans le chef des personnes pour lesquelles une protection est demandée et, le cas échéant, si des mesures de protection spéciales sont demandées, sur l'aptitude personnelle des personnes concernées à pouvoir bénéficier des mesures de protection ainsi que des mesures d'aide financière demandées éventuellement.
+
+Si une personne pour laquelle des mesures de protection spéciales sont demandées, est déclarée coupable d'un fait passible d'une peine [<sup>1</sup> de niveau 2]<sup>1</sup> ou d'une peine plus lourde ou si l'action publique contre pareil fait s'est éteinte à son égard à la suite de l'application de l'article 216bis ou 216ter , l'avis relatif à la capacité personnelle de l'intéressé à pouvoir bénéficier de mesures de protection spéciales contient en tout cas une évaluation du danger que l'intéressé pourrait représenter pour l'environnement dans lequel il sera relocalisé.
+
+§ 5. Dès que le président de la Commission de protection des témoins a reçu l'avis du directeur général de la Police judiciaire de la police fédérale, il convoque la Commission pour statuer sur la requête.
+
+§ 6. La Commission de protection des témoins statue à la majorité des voix.
+
+§ 7. La décision de la Commission de protection des témoins est motivée. Elle mentionne les mesures de protection spéciales et les aides financières éventuellement octroyées.
+
+Si des mesures de protection ordinaire sont octroyées, le Service de protection des témoins est chargé de déterminer quelles sont, parmi les mesures de protection énumérées à l'article 104, § 1er, celles qui seront concrètement prises.
+
+§ 8. La décision est communiquée au ministre de la Justice lorsqu'elle concerne un changement d'identité.
+
+§ 9. La décision de la Commission de protection des témoins lève le plein droit les mesures de protection octroyées par le président par décision provisoire.
+
+§ 10. La décision de la Commission de protection des témoins n'est susceptible d'aucun recours.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 106, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 106**
+
+[<sup>1</sup> § 1er. Si la Commission de protection des témoins propose la mesure de protection spéciale visée à l'article 104, § 2, alinéa 2, 2°, le ministre de la Justice peut, dans un premier arrêté ministériel, autoriser le changement des nom, prénoms, date et lieu de naissance de la personne concernée, par dérogation aux dispositions du livre Ier, titre II et titre VIII/1, chapitre 3, du Code civil.
+
+La procédure de changement d'identité est uniquement appliquée aux personnes qui possèdent la nationalité belge.
+
+La nouvelle identité est déterminée sur proposition du service de Protection des témoins, après concertation avec l'intéressé ou son représentant légal, et est communiquée après accord du président de la Commission de protection des témoins au ministre de la Justice, qui la reprend dans un deuxième arrêté ministériel.
+
+§ 2. Le président de la Commission de protection des témoins requiert dans la banque de données des actes de l'état civil, visée au titre II, chapitre 3, du Code civil, l'inscription de la mention suivante sur les actes de l'état civil des bénéficiaires mentionnant leur ancienne identité, et sur les actes de l'état civil relatifs aux enfants des bénéficiaires nés durant la procédure de changement d'identité :
+
+"Article 106 du Code d'instruction criminelle - autorisation de modification des données de l'état civil accordée - Nom et prénom originaux : (bénéficiaire)."
+
+Pour chaque mention visée à l'alinéa 1er, une mention identique sera apportée au Registre national des personnes physiques.
+
+Il ne peut être délivré de copie ou d'extrait des actes de l'état civil mentionnant l'ancienne identité du bénéficiaire.
+
+§ 3. Le président de la Commission de protection des témoins désigne les communes chargées de l'établissement des actes de l'état civil visés au paragraphe 4.
+
+Ces communes désignent ensuite, en concertation avec le service de Protection des témoins, le fonctionnaire de l'administration communale habilité à cet effet.
+
+§ 4. Dans les dix jours qui suivent la signature du deuxième arrêté ministériel visé au paragraphe 1er, alinéa 3, l'original de cet arrêté est envoyé au Service de protection des témoins. Ce dernier en informe le président de la Commission de protection des témoins, qui demande ensuite à l'officier de l'état civil qu'il a désigné d'établir les actes de l'état civil dans la banque de données des actes de l'état civil.
+
+Les nouvelles données d'état civil produisent leurs effets à la date de l'établissement de l'acte.
+
+La nouvelle identité des bénéficiaires est enregistrée dans le Registre national des personnes physiques.
+
+§ 5. Le Service de protection des témoins conserve les originaux des demandes et des arrêtés ministériels visés au présent article.
+
+Il ne peut être délivré par les autorités communales de copie ou d'extrait des demandes et arrêtés ministériels visés au présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 104, 101; En vigueur : 31-03-2019&gt;
+
+**Art. 107**
+
+&lt;Inséré par L 2002-07-07/42, art. 5, 032; En vigueur : 20-08-2002&gt; Le témoin menacé auquel la décision d'octroyer des mesures de protections est remise, signe un mémorandum écrit par lequel il s'engage à faire des déclarations sincères et complètes relatives à l'affaire dans laquelle il va témoigner et à témoigner chaque fois qu'on le lui demandera.
+
+Si des mesures de protection spéciales sont octroyées, il s'engage en outre par le mémorandum à faire des déclarations sincères et complètes relatives à toutes les obligations civiles qui reposent sur lui ou sur les membres de sa famille ou sur d'autres parents qui sont également à protéger et il s'engage à respecter ces obligations dans leur entièreté.
+
+Il donne également un mandat général au directeur général de la Police judiciaire de la police fédérale. Avec l'accord du témoin, le directeur général de la Police judiciaire peut conclure des contrats avec des autres personnes en vue de la gestion, par procuration, du patrimoine du témoin.
+
+#### Section 4. - De la modification et du retrait de la protection. &lt;Inséré par L 2002-07-07/42, art. 5; En vigueur : 20-08-2002&gt;
+
+**Art. 108**
+
+&lt;Inséré par L 2002-07-07/42, art. 5, 032; En vigueur : 20-08-2002&gt; § 1er. Le Service de protection des témoins vérifie au moins tous les six mois, à la demande de la police, du procureur du Roi, du procureur fédéral, du juge d'instruction, du directeur général des Etablissements pénitentiaires, du témoin menacé ou d'office, s'il y a des raisons de modifier ou de retirer les mesures de protection ainsi que les aides financières éventuellement octroyées.
+
+§ 2. Les mesures de protection octroyées peuvent être modifiées si elles ne suffisent pas ou si des mesures moins importantes suffisent à assurer la protection du témoin menacé, des membres de sa famille ou d'autres parents et dans les cas où elles peuvent être retirées.
+
+§ 3. Les mesures de protection octroyées à une personne peuvent être retirées si :
+
+1° elle est soupçonnée d'avoir commis [<sup>2</sup> une infraction]<sup>2</sup> après l'octroi des mesures de protection;
+
+2° après l'octroi des mesures de protection, elle est déclarée coupable d'un fait pouvant donner lieu à une peine [<sup>2</sup> de niveau 2]<sup>2</sup> ou à une peine plus lourde, ou si l'action publique est éteinte à son égard pour un fait semblable en application de l'article 216bis ou 216ter ;
+
+3° elle a posé un quelconque acte portant préjudice aux mesures de protection qui lui ont été octroyées;
+
+4° les mesures de protection octroyées peuvent en outre être retirées si les dispositions du mémorandum ne sont pas respectées.
+
+§ 4. Les mesures de protection octroyées à une personne sont en tout cas retirées lorsque la personne n'est plus en danger, pour autant qu'il soit prévu par la loi que ce danger est une condition d'octroi des mesures de protection.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+§ 5. Les aides financières octroyées au témoin menacé peuvent être modifiées si elles ne suffisent pas ou si un montant moins important suffit à subvenir aux besoins du témoin menacé, des membres de sa famille qui sont protégés avec lui et d'autres parents, et dans les cas où elles peuvent être retirées. La Commission de protection des témoins tient compte de la situation spécifique de la personne concernée.
+
+§ 6. Les aides financières octroyées au témoin menacé peuvent être retirées si :
+
+1° le témoin menacé peut subvenir lui-même à ses propres besoins ainsi qu'à ceux des membres de sa famille et d'autres parents qui ont été déplacés avec lui ou s'il était capable d'y subvenir mais que son comportement fautif ou négligent l'en a empêché;
+
+2° lorsque des parties de l'allocation mensuelle ou d'une contribution financière spéciale destinées à des fins spécifiques ont été utilisées à d'autres fins que celles fixées par la Commission de protection des témoins;
+
+3° le témoin menacé est décédé et les membres de sa famille ainsi que les autres parents qui ont été déplacés avec lui peuvent subvenir à leurs propres besoins.
+
+----------
+
+(1)&lt;L 2018-07-22/05, art. 20, 100; En vigueur : 17-08-2018&gt;
+
+(2)&lt;L 2026-03-11/03, art. 107, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 109**
+
+&lt;Inséré par L 2002-07-07/42, art. 5, 032; En vigueur : 20-08-2002&gt; § 1er. Si le Service de protection des témoins constate qu'il existe une raison de modifier ou de retirer les mesures de protection octroyées ou les aides financières, comme prévu à l'article précédent, le directeur général de la Police judiciaire de la police fédérale rend, dans le mois, un avis motivé au président de la Commission de protection des témoins.
+
+Lorsqu'il est indiqué dans l'avis que les mesures de protection octroyées doivent être modifiées, les dispositions de l'article 105, § 4, sont d'application, étant entendu que le Service de protection des témoins qui a rendu un avis visant à modifier les mesures de protections ordinaires en mesures de protection spéciales peut formuler une proposition visant à octroyer une aide financière.
+
+§ 2. Des que le président de la Commission de protection des témoins a reçu l'avis du directeur général de la Police judiciaire de la police fédéral, il convoque la Commission pour prendre une décision.
+
+§ 3. La Commission de protection des témoins statue à la majorité des voix.
+
+§ 4. La Commission de protection des témoins se prononce compte tenu des principes de subsidiarité et de proportionnalité sur la modification ou le retrait des mesures de protection ou des aides financières octroyées et, le cas échéant, sur les aides financières proposées par le Service de protection des témoins en application du § 1er.
+
+§ 5. La décision de la Commission de protection des témoins est motivée. Elle contient une description précise des mesures de protection spéciales et des aides financières éventuellement octroyées.
+
+Lorsque des mesures de protection ordinaires sont octroyées, le Service de protection des témoins est chargé de déterminer quelles sont, parmi les mesures de protection visées à l'article 104, § 1er, celles qui seront prises concrètement.
+
+§ 6. La décision est communiquée par écrit au témoin menacé.
+
+§ 7. La décision de la Commission de protection des témoins n'est susceptible d'aucun recours.
+
+**Art. 110**
+
+&lt;Inséré par L 2002-07-07/42, art. 5, 032; En vigueur : 20-08-2002&gt; § 1er. La décision de retirer les mesures de protection octroyées au témoin menacé entraîne de plein droit l'extinction des mesures de protection octroyées aux membres de sa famille, à ses autres parents et aux autres personnes visées à l'article 105, § 1er, alinéa 5.
+
+§ 2. La décision de retirer des mesures de protection spéciales octroyées au témoin menacé entraîne de plein droit l'extinction du droit à bénéficier d'une assistance psychologique, d'une aide dans la recherche d'un emploi, d'une intervention lors de l'exercice des droits pécuniaires acquis et des aides financières octroyées.
+
+§ 3. Pour l'application du présent article, la décision de modifier les mesures de protection spéciales en mesures de protection ordinaires est assimilée à une décision de retrait.
+
+**Art. 111**
+
+&lt;Inséré par L 2002-07-07/42, art. 5, 032; En vigueur : 20-08-2002&gt; La personne qui a déposé conformément aux articles 86bis et 86ter et dont l'identité a été révélée par des circonstances indépendantes de sa volonté, peut bénéficier de mesures de protection ordinaires ou spéciales pour autant qu'il soit satisfait aux conditions prévues aux articles 102 et suivants.
+
+### CHAPITRE VIIter/1. [<sup>1</sup> - De la protection de certaines personnes menacées qui exercent une fonction publique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 27, 102; En vigueur : 03-06-2019&gt;
+
+#### SECTION I. [<sup>1</sup> - Définitions de certaines expressions figurant dans le présent chapitre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 28, 102; En vigueur : 03-06-2019&gt;
+
+**Art. 111bis**
+
+[<sup>1</sup> Pour l'application du présent chapitre, on entend par :
+
+1° personne menacée : une personne qui court un danger sérieux pour son intégrité physique ou psychique à la suite de l'exercice d'une fonction publique et :
+
+a) qui est ou était chargée de la recherche, de la constatation, de l'instruction, de la poursuite ou du jugement d'infractions ou de l'exécution des peines;
+
+b) qui est ou était chargée de la police administrative visée à l'article 14 de la loi du 5 août 1992 sur la fonction de police;
+
+c) qui est ou était un agent tel que visé à l'article 3, 2° de la loi organique du 30 novembre 1998 des services de renseignement et de sécurité.
+
+2° membres de la famille : le conjoint de la personne menacée ou la personne avec laquelle il cohabite et entretient une relation affective et sexuelle durable, les parents vivant sous le même toit de la personne menacée, de son conjoint ou de la personne avec laquelle il cohabite et entretient une relation affective et sexuelle durable, leurs adoptants et enfants adoptifs vivant sous le même toit et les parents de leurs adoptants et enfants adoptifs vivant sous le même toit;
+
+3° autres parents : les parents de la personne menacée jusqu'au troisième degré ne vivant pas sous le même toit, les parents de son conjoint ou de la personne avec laquelle il cohabite et entretient une relation affective et sexuelle durable, leurs adoptants et enfants adoptifs ne vivant pas sous le même toit et les parents des adoptants et enfants adoptifs jusqu'au deuxième degré ne vivant pas sous le même toit.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 29, 102; En vigueur : 03-06-2019&gt;
+
+#### Section II. [<sup>1</sup> - Des organes de protection.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 30, 102; En vigueur : 03-06-2019&gt;
+
+**Art. 111ter**
+
+[<sup>1</sup> § 1er. La Commission de protection des témoins visée à l'article 103, § 1er, est compétente en matière d'octroi, de modification ou de retrait des mesures de protection et des mesures d'aide financière. Pour l'application du présent chapitre, elle est nommée "la Commission de protection".
+
+Pour l'application du présent chapitre, la Commission de protection est composée du procureur fédéral, qui en assure la présidence, d'un procureur du Roi désigné par le Conseil des procureurs du Roi, du procureur général à qui est confiée la tâche spécifique des relations internationales, du directeur général de la Police judiciaire de la police fédérale, du directeur de la direction centrale des opérations de la police judiciaire de la police fédérale, d'un représentant du Service Public Fédéral Justice et d'un représentant du Service Public Fédéral Intérieur. Ces deux derniers n'ont qu'une compétence consultative et n'ont pas voix délibérative.
+
+Lorsque la personne menacée est un agent tel que visé à l'article 3, 2°, de la loi organique du 30 novembre 1998 des services de renseignement et de sécurité, les dirigeants des deux services visés à l'article 3, 8°, de la même loi participent aux délibérations de la Commission de protection, avec voix délibérative.
+
+Le président de la Commission de protection a la possibilité d'inviter d'autres personnes qui ont un intérêt à l'exercice des compétences visées à l'alinéa 1er.
+
+Toute personne qui participe, même sur une base occasionnelle, aux délibérations de la Commission de protection doit disposer d'une habilitation de sécurité du niveau "TRES SECRET", telle que visée à l'article 4, alinéa 2, de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité.
+
+La Commission de protection se réunit sur convocation de son président. Les membres de la Commission de protection assistent aux réunions en personne ou se font remplacer conformément aux règles qu'ils fixent dans le règlement d'ordre intérieur visé à l'article 103, § 1er, alinéa 3.
+
+§ 2. La coordination de la protection est assurée par le Service de protection des témoins au sein de la Direction générale de la Police judiciaire de la police fédérale. Pour l'application du présent chapitre, elle est nommée "le Service pour la protection des fonctionnaires menacés".
+
+§ 3. L'exécution de la protection au sein de la prison de personnes détenues est assurée par la Direction générale des Etablissements pénitentiaires.
+
+Dans tous les autres cas, l'exécution de la protection est assurée par le Service pour la protection des fonctionnaires menacés.
+
+§ 4. Le ministre de la Justice et le ministre de l'Intérieur prennent, sur proposition de la Commission de protection, les mesures spécifiques absolument nécessaires en vue de garantir à tout moment la protection de l'identité et la sécurité des fonctionnaires de police visés aux paragraphes 2 et 3, alinéa 2, et des fonctionnaires visés au paragraphe 3, alinéa 1er, dans la préparation et l'exécution de leurs missions. Il ne peut y avoir d'infraction quand des faits sont commis dans ce cadre.
+
+§ 5. Le ministre de la Justice et le ministre de l'Intérieur prennent les mesures organisationnelles spécifiques nécessaires en vue de rendre possible la protection des personnes menacées prévue par ce chapitre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 31, 102; En vigueur : 03-06-2019&gt;
+
+#### Section III. [<sup>1</sup> De l'octroi de la protection.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 32, 102; En vigueur : 03-06-2019&gt;
+
+**Art. 111quater**
+
+[<sup>1</sup> § 1er. La Commission de protection ne peut, compte tenu des principes de subsidiarité et de proportionnalité, octroyer les mesures de protection spéciales visées à l'article 104, § 2, alinéa 2, qu'à une personne menacée dont la protection ne peut être assurée par d'autres mesures et, le cas échéant, aux membres de sa famille ainsi que, dans la mesure où ils courent un danger à la suite de l'exécution de sa fonction, à ses autres parents.
+
+Lorsqu'il s'agit d'une personne menacée visée à l'article 111bis, 1°, a), la protection visée à l'alinéa 1er ne peut être octroyée que lorsque cette personne est ou était chargée de la recherche, de la constatation, de l'instruction, de la poursuite, du jugement d'une infraction ou de l'exécution de la peine d'une infraction telle que visée à l'article 90ter, §§ 2, 3 ou 4, ou d'une infraction commise dans le cadre d'une organisation criminelle visée à [<sup>3</sup> l'article 406]<sup>3</sup> du Code pénal.
+
+Lorsqu'il s'agit d'une personne menacée visée à l'article 111bis, 1°, b), la protection visée à l'alinéa 1er ne peut être octroyée que lorsque cette personne est ou était chargée d'une mission de police administrative pour les catégories de personnes visées à l'article 44/5, § 1er, alinéa 1er, 2° et 3° de la loi du 5 août 1992 sur la fonction de police.
+
+Lorsqu'il s'agit d'une personne menacée visée à l'article 111bis, 1°, c), la protection visée à l'alinéa 1er ne peut être octroyée que :
+
+1° dans le cas d'un agent de la Sûreté de l'Etat, lorsqu'il est ou était chargé d'une mission de renseignement en exécution des missions visées à l'article 7, 1° et 3° /1 de la loi organique du 30 novembre 1998 des services de renseignement et de sécurité;
+
+2° dans le cas d'un agent du Service Général du Renseignement et de la Sécurité, lorsqu'il est ou était chargé d'une mission de renseignement en exécution des missions visées à l'article 11, § 1er, 1° à 3° et 5° de la loi organique du 30 novembre 1998 des services de renseignement et de sécurité, à l'exception de tout autre intérêt fondamental du pays visé à l'article 11, § 1er, 1°, f) de la même loi.
+
+La Commission de protection ne peut octroyer des mesures de protection spéciales à une personne menacée et, le cas échéant, aux membres de sa famille ainsi que, dans la mesure où ils courent un danger à la suite de l'exécution de sa fonction, à ses autres parents, dans d'autres cas que ceux visés aux alinéas 2, 3 et 4 que lorsqu'elle le décide à l'unanimité des voix.
+
+Le cas échéant, la Commission de protection peut octroyer des mesures de protection ordinaires visées à l'article 104, § 1er, alinéa 2, à la personne menacée, lorsque celles-ci sont nécessaires pour l'exécution des mesures de protection spéciales. Lorsque la Commission de protection estime que les mesures de protection ordinaires visées à l'article 104, § 1er, alinéa 2, 7° ou 13°, doivent être octroyées, elle se concerte préalablement avec le Centre de Crise du Service Public Fédéral Intérieur, qui met la procédure en vigueur.
+
+§ 2. La Commission de protection peut, en tenant compte de la situation spécifique de la personne concernée, octroyer des mesures d'aide financière à la personne menacée qui bénéficie de mesures de protection spéciales.
+
+Les mesures d'aide financière sont celles visées à l'article 104, § 3, alinéa 2.
+
+§ 3. La personne bénéficiant de mesures de protection spéciales a de plein droit droit à une assistance psychologique et à de l'aide dans la recherche d'un emploi.
+
+La personne à qui des mesures de protection spéciales sont octroyées a droit à la préservation de ses droits sociaux et administratifs. Le procureur fédéral peut à cet effet requérir le concours des fonctionnaires et des agents des administrations et services publics. Le Service pour la protection des fonctionnaires menacés s'assure de l'exécution de cette réquisition.
+
+Toute personne qui refuse de prêter le concours visé au présent article est punie [<sup>2</sup> [<sup>3</sup> conformément aux articles 655 et 656 du Code pénal]<sup>3</sup>]<sup>2</sup>.
+
+Toute personne qui, du chef de sa fonction, a connaissance de ces mesures ou y prête son concours, est tenue au secret. Toute violation du secret est punie conformément à [<sup>3</sup> l'article 352]<sup>3</sup> du Code pénal.
+
+§ 4. Le procureur fédéral peut, par décision motivée, accorder l'autorisation de prendre les mesures de surveillance préventives nécessaires en vue de garantir la sécurité, ainsi que l'intégrité physique, psychique et morale des personnes visées à l'article 111bis après l'octroi de mesures de protection prévues au paragraphe 1er. La personne menacée est informée par écrit de cette possibilité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 33, 102; En vigueur : 03-06-2019&gt;
+
+(2)&lt;L 2022-12-06/02, art. 16, 114; En vigueur : 31-12-2022&gt;
+
+(3)&lt;L 2026-03-11/03, art. 108, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 111quinquies**
+
+[<sup>1</sup> § 1er. Le chef hiérarchique compétent de la personne menacée ou le Centre de Crise du Service Public Fédéral Intérieur selon le cas, peut demander l'octroi de mesures de protection et de mesures d'aide financière par requête écrite motivée, accompagnée d'une copie du dossier.
+
+La requête mentionne :
+
+1° les jour, mois et année;
+
+2° les nom et fonction de la personne qui dépose la requête;
+
+3° les nom et prénom ainsi que le lieu de domicile ou de résidence des personnes pour lesquelles les mesures visées sont demandées, ou, le cas échéant, le code attribué en application de l'article 112quater, ou le code attribué par le dirigeant du service visé à l'article 3, 8°, de la loi organique du 30 novembre 1998 des services de renseignement et de sécurité;
+
+4° quelles mesures de protection spéciales, et, le cas échéant, quelles mesures d'aide financière doivent être octroyées;
+
+5° les mesures de protection ordinaires visées au paragraphe 3, et les motifs particuliers qui les justifient.
+
+Le chef hiérarchique compétent de la personne menacée ou le Centre de Crise du Service Public Fédéral Intérieur transmet la requête au président de la Commission de protection et prend les mesures nécessaires à garantir la confidentialité de la requête.
+
+Sur demande écrite et motivée de la personne menacée, le chef hiérarchique de la personne menacée, ou le Centre de Crise du Service Public Fédéral Intérieur peut indiquer dans sa requête les personnes autres que celles visées à l'article 111bis à qui il peut être octroyé des mesures de protection. Ces mesures de protection ne peuvent être octroyées par la Commission de protection que si ces personnes courent effectivement un danger.
+
+§ 2. Dès que le président de la Commission de protection a reçu la requête en vue de l'octroi de mesures de protection et, le cas échéant, de mesures d'aide financière, il demande sans délai un avis écrit au directeur général de la Police judiciaire de la police fédérale.
+
+§ 3. Si des mesures de protection sont nécessaires en cas d'extrême urgence, le président de la Commission de protection peut, après concertation avec le directeur général de la Police judiciaire de la police fédérale et dans l'attente de l'avis de celui-ci, décider à titre provisoire d'octroyer des mesures de protection ordinaires. Lorsque la Commission de protection estime que les mesures de protection ordinaires visées à l'article 104, § 1er, alinéa 2, 7° ou 13°, doivent être octroyées, elle se concerte préalablement avec le Centre de Crise du Service Public Fédéral Intérieur, qui met la procédure en vigueur.
+
+La décision provisoire est motivée. Elle contient une description précise des mesures de protection octroyées.
+
+La personne menacée est informée par écrit de la décision provisoire.
+
+§ 4. Le directeur général de la Police judiciaire de la police fédérale rend dans le mois qui suit la réception de la demande visée au paragraphe 2, un avis circonstancié sur la réalisation des conditions légales pour l'octroi des mesures de protection dans le chef des personnes pour lesquelles une protection est demandée et sur l'aptitude personnelle des personnes concernées à pouvoir bénéficier des mesures de protection spéciales ainsi que des mesures d'aide financière demandées éventuellement.
+
+Si une personne pour laquelle des mesures de protection spéciales sont demandées, est déclarée coupable d'un fait passible d'une peine [<sup>2</sup> de niveau 2]<sup>2</sup> ou d'une peine plus lourde ou si l'action publique contre pareil fait s'est éteinte à son égard à la suite de l'application de l'article 216bis ou 216ter, l'avis relatif à la capacité personnelle de l'intéressé à pouvoir bénéficier de mesures de protection spéciales contient en tout cas une évaluation du danger que l'intéressé pourrait représenter pour l'environnement dans lequel il sera relocalisé.
+
+§ 5. Dès que le président de la Commission de protection a reçu l'avis du directeur général de la Police judiciaire de la police fédérale, il convoque sans délai la Commission de protection pour statuer sur la requête.
+
+§ 6. La Commission de protection statue à la majorité des voix, sauf dans le cas prévu à l'article 111quater, § 1er, alinéa 5.
+
+§ 7. La décision de la Commission de protection est motivée. Elle mentionne les mesures de protection spéciales et les aides financières éventuellement octroyées.
+
+Si, en application de l'article 111quater, § 1er, alinéa 6, des mesures de protection ordinaires sont octroyées, celles-ci sont également mentionnées dans la décision de la Commission de protection.
+
+§ 8. La décision est sans délai communiquée au ministre de la Justice lorsqu'elle concerne un changement d'identité.
+
+§ 9. La décision de la Commission de protection lève de plein droit les mesures de protection octroyées par le président par décision provisoire.
+
+§ 10. La décision de la Commission de protection n'est susceptible d'aucun recours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 34, 102; En vigueur : 03-06-2019&gt;
+
+(2)&lt;L 2026-03-11/03, art. 109, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 111sexies**
+
+[<sup>1</sup> Si la Commission de protection propose la mesure de protection spéciale visée à l'article 104, § 2, alinéa 2, 2°, l'article 106 s'applique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 35, 102; En vigueur : 03-06-2019&gt;
+
+**Art. 111septies**
+
+[<sup>1</sup> La personne menacée à laquelle la décision d'octroyer des mesures de protections est remise, signe un mémorandum écrit par lequel elle s'engage à faire des déclarations sincères et complètes concernant sa situation et la gravité de la menace à laquelle elle est soumise et à respecter des règles de comportement liées à sa sécurité.
+
+Elle s'engage en outre par le mémorandum à faire des déclarations sincères et complètes relatives à toutes les obligations civiles qui reposent sur elle ou sur les membres de sa famille ou sur d'autres parents qui sont également à protéger et elle s'engage à respecter ces obligations dans leur entièreté.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 36, 102; En vigueur : 03-06-2019&gt;
+
+#### Section IV. [<sup>1</sup> - De la modification et du retrait de la protection.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 37, 102; En vigueur : 03-06-2019&gt;
+
+**Art. 111octies**
+
+[<sup>1</sup> Le Service pour la protection des fonctionnaires menacés vérifie au moins tous les six mois, à la demande du chef hiérarchique de la personne menacée, du Centre de Crise du Service Public Fédéral Intérieur, du directeur général des Etablissements pénitentiaires, de la personne menacée ou d'office, s'il y a des raisons de modifier ou de retirer les mesures de protection ainsi que les aides financières éventuellement octroyées.
+
+Les mesures de protection octroyées peuvent être modifiées si elles ne suffisent pas ou si des mesures moins importantes suffisent à assurer la protection de la personne menacée, des membres de sa famille ou d'autres parents et dans les cas où elles peuvent être retirées.
+
+Les mesures de protection octroyées à une personne peuvent être retirées si :
+
+1° elle est soupçonnée d'avoir commis [<sup>2</sup> une infraction]<sup>2</sup> après l'octroi des mesures de protection;
+
+2° après l'octroi des mesures de protection, elle est déclarée coupable d'un fait pouvant donner lieu à une peine [<sup>2</sup> de niveau 2]<sup>2</sup> ou à une peine plus lourde, ou si l'action publique est éteinte à son égard pour un fait semblable en application de l'article 216bis ou 216ter;
+
+3° elle a posé un quelconque acte portant préjudice aux mesures de protection qui lui ont été octroyées;
+
+4° les dispositions du mémorandum ne sont pas respectées.
+
+Les mesures de protection octroyées à une personne sont en tout cas retirées lorsque la personne n'est plus en danger, pour autant qu'il soit prévu par la loi que le fait d'être en danger est une condition d'octroi des mesures de protection.
+
+Les aides financières octroyées à la personne menacée peuvent être modifiées si elles ne suffisent pas ou si un montant moins important suffit à subvenir aux besoins de la personne menacée, des membres de sa famille qui sont protégés avec elle et d'autres parents, et dans les cas où elles peuvent être retirées. La Commission de protection tient compte de la situation spécifique de la personne concernée.
+
+Les aides financières octroyées à la personne menacée peuvent être retirées :
+
+1° si la personne menacée peut subvenir elle-même à ses propres besoins ainsi qu'à ceux des membres de sa famille et d'autres parents qui ont été déplacés avec elle ou qu'elle aurait dû être capable d'y subvenir mais que son comportement fautif ou négligeant l'en a empêchée;
+
+2° lorsque des parties de l'allocation mensuelle ou d'une contribution financière spéciale destinées à des fins spécifiques ont été utilisées à d'autres fins que celles fixées par la Commission de protection;
+
+3° lorsque la personne menacée est décédée et les membres de sa famille ainsi que les autres parents qui ont été déplacés avec lui peuvent subvenir à leurs propres besoins.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 38, 102; En vigueur : 03-06-2019&gt;
+
+(2)&lt;L 2026-03-11/03, art. 110, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 111novies**
+
+[<sup>1</sup> § 1er. Si le Service pour la protection des fonctionnaires menacés constate qu'il existe une raison de modifier ou de retirer les mesures de protection octroyées ou les aides financières, comme prévu à l'article 111octies, le directeur général de la Police judiciaire de la police fédérale rend, dans le mois, un avis motivé au président de la Commission de protection.
+
+§ 2. Dès que le président de la Commission de protection a reçu l'avis du directeur général de la Police judiciaire de la police fédérale, il convoque sans délai la Commission pour prendre une décision.
+
+§ 3. La Commission de protection statue à la majorité des voix, sauf dans le cas visé à l'article 111quater, § 1er, alinéa 5.
+
+§ 4. La Commission de protection se prononce compte tenu des principes de subsidiarité et de proportionnalité sur la modification ou le retrait des mesures de protection ou des aides financières octroyées.
+
+§ 5. La décision de la Commission de protection est motivée. Elle contient une description précise des mesures de protection spéciales et des aides financières éventuellement octroyées. Le cas échéant, le mémorandum visé à l'article 111septies sera modifié.
+
+Si, en application de l'article 111quater, § 1er, alinéa 6, des mesures de protection ordinaires sont octroyées, celles-ci sont également mentionnées dans la décision de la Commission de protection.
+
+§ 6. La décision est communiquée par écrit à la personne menacée.
+
+§ 7. La décision de la Commission de protection n'est susceptible d'aucun recours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 39, 102; En vigueur : 03-06-2019&gt;
+
+**Art. 111decies**
+
+[<sup>1</sup> § 1er. La décision de retirer les mesures de protection octroyées à la personne menacée entraîne de plein droit l'extinction des mesures de protection octroyées aux membres de sa famille, à ses autres parents et aux autres personnes visées à l'article 111quinquies, § 1er, alinéa 4.
+
+§ 2. La décision de retirer les mesures de protection spéciales octroyées à la personne menacée entraîne de plein droit l'extinction du droit à bénéficier d'une assistance psychologique et d'une aide dans la recherche d'un emploi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 40, 102; En vigueur : 03-06-2019&gt;
+
+### CHAPITRE VIIquater. - Du recueil de déclarations au moyen de médias audiovisuels. &lt;Inséré par L 2002-08-02/71, art. 2; En vigueur : 22-09-2002&gt;
+
+#### Section I. - De l'audition à distance. &lt;Inséré par L 2002-08-02/71, art. 2; En vigueur : 22-09-2002&gt;
+
+**Art. 112**
+
+&lt;Inséré par L 2002-08-02/71, art. 2; En vigueur : 22-09-2002&gt; § 1er. Le procureur du Roi ou le juge d'instruction peut décider d'entendre par le biais d'une vidéoconférence un témoin menacé, à qui la Commission de protection des témoins a octroyé une mesure de protection, ou un témoin, un expert ou une personne soupçonnée résidant à l'étranger lorsque la réciprocité en la matière est garantie, avec son accord, s'il n'est pas souhaitable ou possible que la personne à entendre comparaisse en personne.
+
+§ 2. Le procureur du Roi ou le juge d'instruction peut décider d'entendre par le biais d'un circuit de télévision fermé un témoin menacé, à qui la Commission de protection des témoins a octroyé une mesure de protection, avec son accord, s'il n'est pas souhaitable ou possible que la personne à entendre comparaisse en personne.
+
+§ 3. Près de la personne à entendre se trouve un officier de police judiciaire ou un fonctionnaire de police, nominativement désigné par le procureur du Roi ou le juge d'instruction, ou, lorsque la personne à entendre se trouve à l'étranger, une autorité judiciaire étrangère. Cette personne vérifie l'identité de la personne a entendre et en dresse un procès-verbal qui est signé par la personne à entendre.
+
+§ 4. Le procureur du Roi ou le juge d'instruction dresse un procès-verbal de l'audition, dans lequel il reprend, sans préjudice des droits prévus à l'article 47bis , les principaux éléments de l'entretien et éventuellement une retranscription des passages les plus significatifs.
+
+Il est également fait mention dans le procès-verbal des motifs pour lesquels il a été décidé d'entendre l'intéressé par le biais d'une vidéoconférence ou d'un circuit de télévision fermé.
+
+§ 5. L'audition fait toujours l'objet d'un enregistrement audiovisuel au sens de l'article 112ter.
+
+§ 6. La personne entendue par le biais d'une vidéoconférence ou d'un circuit de télévision fermé est censée avoir comparu et avoir répondu à la convocation.
+
+**Art. 112bis**
+
+&lt;Inséré par L 2002-08-02/71, art. 2; En vigueur : 22-09-2002&gt; § 1er. Le procureur du Roi ou le juge d'instruction peut décider d'entendre par le biais d'une conférence téléphonique un témoin menacé, à qui la Commission de protection des témoins a octroyé une mesure de protection, ou un témoin ou un expert résidant à l'étranger lorsque la réciprocité en la matière est garantie, avec son accord, s'il n'est pas souhaitable ou possible que la personne à entendre comparaisse en personne ou qu'elle soit entendue par le biais d'une vidéoconférence ou d'un circuit de télévision fermé.
+
+§ 2. Près de la personne à entendre se trouve un officier de police judiciaire ou un fonctionnaire de police, nominativement désigné par le procureur du Roi ou le juge d'instruction, ou, lorsque la personne à entendre se trouve à l'étranger, une autorité judiciaire étrangère. Cette personne vérifie l'identité de la personne à entendre et en dresse un procès-verbal qui est signé par la personne à entendre.
+
+§ 3. Le procureur du Roi ou le juge d'instruction dresse un procès-verbal de l'audition, dans lequel il reprend, sans préjudice des droits prévus à l'article 47bis , les principaux éléments de l'entretien et éventuellement une retranscription des passages les plus significatifs.
+
+Il est également fait mention dans le procès-verbal des motifs pour lesquels il a été décidé d'entendre l'intéressé par le biais d'une conférence téléphonique.
+
+§ 4. L'audition fait toujours l'objet d'un enregistrement audio au sens de l'article 112ter.
+
+§ 5. La personne entendue par le biais d'une conférence téléphonique est censée avoir comparu et avoir répondu à la convocation.
+
+§ 6. La juridiction de jugement ne peut prendre en considération à titre de preuve les déclarations faites par le biais d'une conférence téléphonique que si elles sont corroborées dans une mesure déterminante par d'autres moyens de preuve.
+
+#### Section II. - De l'enregistrement audiovisuel et enregistrement audio de l'audition. &lt;Inséré par L 2002-08-02/71, art. 2; En vigueur : 22-09-2002&gt;
+
+**Art. 112ter**
+
+&lt;Inséré par L 2002-08-02/71, art. 2; En vigueur : 22-09-2002&gt; § 1er. Sans préjudice des dispositions des articles 92 à 103, le procureur du Roi ou le juge d'instruction peut ordonner l'enregistrement audiovisuel ou audio d'une audition. La personne à entendre est préalablement mise au courant de cette décision.
+
+§ 2. L'audition enregistrée est effectuée par le procureur du Roi ou le juge d'instruction, selon le cas, ou par un fonctionnaire de police nominativement désigné par lui.
+
+§ 3. Le procureur du Roi ou le juge d'instruction dresse un procès-verbal de l'audition, dans lequel il reprend, sans préjudice des droits prévus à l'article 47bis, les principaux éléments de l'entretien et éventuellement une retranscription des passages les plus significatifs.
+
+Il est également fait mention dans le procès-verbal des motifs pour lesquels l'enregistrement audiovisuel ou audio a été ordonné.
+
+§ 4. [<sup>1</sup> Sans préjudice de l'application de l'article 47bis, il est procédé, à la demande du juge d'instruction, du procureur du Roi, de la personne entendue ou des parties au procès, à la retranscription intégrale et littérale des parties additionnelles de l'audition qu'ils désignent. Elle est versée au dossier dans les plus brefs délais.]<sup>1</sup>
+
+§ 5. L'enregistrement de l'audition est réalisé en deux exemplaires. Les deux cassettes ont le statut d'originaux et sont déposées au greffe à titre de pièces à conviction.
+
+§ 6. L'enregistrement ne peut être visionné ou écoute que par des personnes qui participent professionnellement à l'information, à l'instruction ou au jugement dans le cadre du dossier judiciaire, ainsi que par les parties au procès et par la personne entendue.
+
+L'inculpé non détenu et la partie civile peuvent introduire une demande en se sens auprès du juge d'instruction conformément à l'article 61ter.
+
+Toutes les parties ont le droit de visionner ou, selon le cas, d'écouter l'enregistrement après que le procureur du Roi a pris des réquisitions en vue du règlement de la procédure, conformément à l'article 127.
+
+§ 7. Pour l'application de l'article 341, l'enregistrement de l'audition d'un témoin est assimilé à une déclaration écrite.
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 3, 055; En vigueur : 25-01-2010&gt;
+
+### CHAPITRE VIIquinquies. - [<sup>1</sup> Protection de l'identité des membres des services de police appartenant à des unités spéciales ou chargés d'enquêter ou d'intervenir sur des infractions particulièrement graves]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-25/14, art. 5, 087; En vigueur : 09-01-2017&gt;
+
+#### Section 1re. - [<sup>1</sup> Des membres des services de police au sein de la direction des unités spéciales de la police fédérale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-25/14, art. 5, 087; En vigueur : 09-01-2017&gt;
+
+**Art. 112quater**
+
+[<sup>1</sup> L'identité des membres des services de police au sein de la direction des unités spéciales de la police fédérale est protégée dans le cadre de l'exécution des missions et interventions qui leur sont attribuées par la loi.
+
+A cette fin, l'officier dirigeant de cette direction attribue un code auxdits membres.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-25/14, art. 6, 087; En vigueur : 09-01-2017&gt;
+
+#### Section 2. - [<sup>1</sup> Des membres des services de police chargés d'enquêter ou intervenir sur des infractions particulièrement graves]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-25/14, art. 7, 087; En vigueur : 09-01-2017&gt;
+
+**Art. 112quinquies**
+
+[<sup>1</sup> § 1er. Si la mesure de protection visée à l'article 75ter paraît insuffisante et s'il existe des indices sérieux que les faits constituent une infraction visée au paragraphe 2, l'identité des membres des services de police chargés de l'enquête est protégée et l'officier de police judiciaire qui dirige l'enquête leur attribue un code pour toute la durée de celle-ci.
+
+§ 2. [<sup>2</sup> Les infractions pouvant justifier la mesure de protection prévue au paragraphe 1er sont celles qui sont visées:
+
+\- au livre II, titre 4, chapitre 1er, du Code pénal;
+
+\- aux articles 405, alinéa 2, et 407 à 409 du même Code, s'il existe une présomption raisonnable que l'association ou l'organisation utilise l'intimidation, la menace ou la violence;
+
+\- à l'article 405, alinéa 3, du même Code, s'il existe une présomption raisonnable que l'association utilise l'intimidation, la menace ou la violence afin de commettre des infractions visées à l'article 90ter, § 2]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-25/14, art. 8, 087; En vigueur : 09-01-2017&gt;
+
+(2)&lt;L 2026-03-11/03, art. 111, 130; En vigueur : 01-09-2026&gt;
+
+#### Section 3. - [<sup>1</sup> Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-25/14, art. 9, 087; En vigueur : 09-01-2017&gt;
+
+**Art. 112sexies**
+
+[<sup>1</sup> Pour l'application du présent chapitre on entend par identité l'ensemble des données ou actes qui peuvent permettre directement ou indirectement l'identification d'un membre des services de police.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-25/14, art. 10, 087; En vigueur : 09-01-2017&gt;
+
+**Art. 112septies**
+
+[<sup>1</sup> L'identité et le code du membre des services de police visé aux articles 112quater ou 112quinquies sont consignés sans délai par l'officier dirigeant visé à ces articles dans un registre confidentiel et conservé au sein de ce service.
+
+Seul le procureur du Roi ou le juge d'instruction dans le cadre d'une instruction peut prendre connaissance de l'identité complète du membre des services de police doté d'un code et vérifier si les conditions prévues aux articles 112quater et 112quinquies sont remplies.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-25/14, art. 11, 087; En vigueur : 09-01-2017&gt;
+
+**Art. 112octies**
+
+[<sup>1</sup> Les procès-verbaux rédigés par quelque service de police ou d'enquête que ce soit ne peuvent mentionner aucun élément susceptible de compromettre la sécurité et l'anonymat des membres des services de police intervenant sous code.
+
+Le cas échéant, le procureur du Roi ou le juge d'instruction prend toutes les mesures pour tenir secrète l'identité du membre des services de police concerné. Il ordonne la suppression dans les procès-verbaux des mentions contraires à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-25/14, art. 12, 087; En vigueur : 09-01-2017&gt;
+
+**Art. 112novies**
+
+[<sup>1</sup> Par dérogation aux articles 75 et 75ter, et sans préjudice des dispositions du chapitre IV, section 3, les membres des services de police concernés qui sont entendus comme témoin indiquent uniquement leur qualité et le code qui leur a été attribué.
+
+En outre, le procureur du Roi ou le juge d'instruction prend toutes les mesures pour tenir secrète l'identité du membre des services de police concerné.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-25/14, art. 13, 087; En vigueur : 09-01-2017&gt;
+
+**Art. 112decies**
+
+[<sup>1</sup> L'identité du membre des services de police concerné n'est révélée qu'au moment où le ministère public cite ce dernier en qualité de prévenu ou après le renvoi, l'internement ou la suspension du prononcé par une juridiction d'instruction en cause de ce membre. Dans ce dernier cas, après que la décision de renvoi, d'internement ou de suspension du prononcé est coulée en force de chose jugée, l'identité est mentionnée, sur réquisition du ministère public, dans une ordonnance ou un arrêt distinct.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-25/14, art. 14, 087; En vigueur : 09-01-2017&gt;
+
+**Art. 112undecies**
+
+&lt;Abrogé par L 2026-03-11/03, art. 111, 130; En vigueur : 01-09-2026&gt;
+
+### CHAPITRE VIIsexies. [<sup>1</sup> - Du test polygraphique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2020-02-04/08, art. 2, 107; En vigueur : 02-03-2020&gt;
+
+**Art. 112duodecies**
+
+[<sup>1</sup> § 1er. Le test polygraphique est une technique particulière d'interrogatoire policier faisant l'objet d'un enregistrement audiovisuel et permettant de vérifier la véracité de déclarations, au travers d'une procédure psychophysiologique, grâce à l'enregistrement de paramètres physiologiques sous la forme de graphiques.
+
+§ 2. Lorsqu'il existe des indices sérieux que des faits punissables constituent [<sup>3</sup> une infraction]<sup>3</sup>, le procureur du Roi ou, selon le stade de la procédure, le juge d'instruction, peut proposer à la personne suspectée, au témoin ou à la victime, de se soumettre à un test polygraphique.
+
+Les personnes visées à l'alinéa 1er peuvent également demander d'être soumises à un test polygraphique. Le procureur du Roi ou, selon le stade de la procédure, le juge d'instruction, peut, par une décision motivée, rejeter cette demande.
+
+§ 3. Les personnes suivantes ne peuvent pas être soumises à un test polygraphique:
+
+\- les femmes enceintes;
+
+\- les mineurs de moins de seize ans;
+
+\- toutes personnes dans les quarante-huit heures à compter de leur privation de liberté effective.
+
+§ 4. Le test polygraphique est effectué sur une base volontaire. Le refus d'y participer ne produit aucun effet juridique. Le test peut être interrompu à tout moment. Cette interruption ne peut de même produire aucun effet juridique.
+
+La personne qui sera soumise à un test polygraphique est informée oralement avant le début du test:
+
+\- qu'elle peut mettre fin au test et quitter le local à tout moment sans qu'aucun effet juridique ne découle de cette décision;
+
+\- que l'intégralité du test fait l'objet d'un enregistrement audiovisuel;
+
+\- que lorsqu'elle se fait assister d'un avocat, celui-ci pourra suivre le test dans une pièce prévue à cet effet mais ne pourra ni intervenir directement durant le test, ni l'interrompre.
+
+Le test ne peut commencer que si la personne qui sera soumise au test polygraphique exprime son consentement en connaissance de cause. Elle signe à cet effet un procès-verbal de consentement. Les informations figurant dans ce procès-verbal sont lues à l'intéressé. Le Roi détermine les informations minimales qui figurent dans le procès-verbal de consentement.
+
+Lorsque la personne soumise au test polygraphique est mineure, le mineur et son avocat signent le procès-verbal de consentement.
+
+§ 5. Toute personne qui sera soumise à un test polygraphique pourra, préalablement à ce test, faire l'objet d'un test de dépistage d'alcool, de drogues ou de médicaments et d'un examen psychologique ou psychiatrique. Le magistrat en charge de l'enquête pourra tenir compte des résultats de ces tests préalables pour décider si la personne concernée peut être soumise à un test polygraphique.
+
+Suivant les résultats des tests préalables visés à l'alinéa 1er, le polygraphiste déterminera s'il est possible de procéder à un test polygraphique sans que sa validité et sa fiabilité ne soient remises en cause.
+
+Le polygraphiste peut mettre fin au test polygraphique à tout moment s'il doute de la santé ou de l'état mental ou physique de l'intéressé. Le magistrat peut, sur proposition du polygraphiste ou non, désigner un expert qui procédera à un examen complémentaire en vue d'un test ou d'un nouveau test. Le cas échéant, l'expert peut suivre le test dans une pièce prévue à cet effet.
+
+Le magistrat requérant est tenu informé du déroulement du test polygraphique.
+
+§ 6. La personne soumise au test polygraphique a droit à l'assistance d'un avocat, ce dernier pouvant être présent lors de la lecture et de la signature du procès-verbal de consentement, ou pouvant suivre tant la préparation que le déroulement effectif du test polygraphique dans la pièce prévue à cet effet. Toute autre intervention de l'avocat met immédiatement fin au test polygraphique et empêche le déroulement de tout autre test polygraphique le même jour.
+
+Lorsque le test polygraphique est terminé, ses résultats sont passés en revue. Si le test polygraphique donne lieu à une audition, tous les droits relatifs à l'accès à un avocat lors de l'audition, préalablement à l'audition, sont garantis.
+
+Le cas échéant, l'avocat peut, y compris lorsque le test polygraphique est terminé, faire état, dans le procès-verbal visé au paragraphe 8, des violations de droits qu'il estime avoir constatées.
+
+§ 7. [<sup>2</sup> Sous peine de nullité des résultats du test, le test polygraphique ne peut se faire qu'au moyen d'un appareil dont les exigences techniques sont déterminées par le Roi.]<sup>2</sup>
+
+§ 8. Le test polygraphique fait l'objet d'un procès-verbal contenant la retranscription littérale de toutes les questions posées et de toutes les réponses fournies, ainsi que le résumé de la discussion qui suit le test polygraphique. Les enregistrements audiovisuels du test, finalisés en deux exemplaires, ainsi que les graphiques du test, sont considérés comme des originaux et déposés au greffe. L'enregistrement audiovisuel du test polygraphique est sauvegardé sur un support de données audiovisuelles distinct afin d'être isolé de l'audition subséquente.
+
+§ 9. Lorsque la personne passe spontanément aux aveux, durant le test polygraphique ou à l'occasion de celui-ci, il y est immédiatement mis fin et il est procédé à une audition conformément à l'article 47bis et aux articles 2bis et 24bis/1 de la loi du 20 juillet 1990 relative à la détention préventive.
+
+§ 10. Les résultats du test polygraphique ne peuvent être pris en considération qu'à titre de preuve corroborant d'autres moyens de preuve.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2020-02-04/08, art. 3, 107; En vigueur : 02-03-2020&gt;
+
+(2)&lt;L 2020-02-04/08, art. 1, 107; En vigueur : 01-01-2021&gt;
+
+(3)&lt;L 2026-03-11/03, art. 113, 130; En vigueur : 01-09-2026&gt;
+
+### CHAPITRE VIII. - DE LA LIBERTE PROVISOIRE ET DU CAUTIONNEMENT.
+
+**Art. 113**
+
+La liberté provisoire ne pourra jamais être accordée [à l'inculpé] lorsque le titre de l'accusation emportera une [<sup>1</sup> peine de niveau 4 ou une peine plus lourde]<sup>1</sup>. &lt;L 10-07-1967, art. 1, 65°&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 114, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 114**
+
+[Si l'infraction est punissable d'une peine [<sup>1</sup> de niveau 2 ou 3]<sup>1</sup>], la chambre du conseil pourra, sur la demande [de l'inculpé], et sur les conclusions du [procureur du Roi], ordonner que [l'inculpé] sera mis provisoirement en liberté, moyennant caution solvable de se représenter à tous les actes de la procédure, et pour l'exécution du jugement, aussitôt qu'il en sera requis. &lt;L 10-07-1967, art. 1, 66°&gt;
+
+La mise en liberté provisoire avec caution pourra être demandée et accordée en tout état de cause.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 115, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 115**
+
+Néanmoins, les vagabonds et les repris de justice ne pourront, en aucun cas, être mis en liberté provisoire.
+
+**Art. 116**
+
+La demande en liberté provisoire sera notifiée à la partie civile, à son domicile ou à celui qu'elle aura élu.
+
+**Art. 117**
+
+La solvabilité de la caution offerte sera discutée par le [procureur du Roi], et par la partie civile dûment appelée.
+
+Elle devra être justifiée par des immeubles libres, pour le montant du cautionnement et une moitié en sus, si mieux n'aime la caution déposer dans la [Caisse des dépôts et consignations] le montant du cautionnement en espèces. &lt;L 10-07-1967, art. 1, 67°&gt;
+
+**Art. 118**
+
+[L'inculpé] sera admis à être sa propre caution, soit en déposant le montant du cautionnement, soit en justifiant d'immeubles libres pour le montant du cautionnement et une moitié en sus, et en faisant, dans l'un ou l'autre cas, la soumission dont il sera parlé ci-après. &lt;L 10-07-1967, art. 1, 68°&gt;
+
+**Art. 119**
+
+Le cautionnement ne pourra être au-dessous de cinq cents [<sup>1</sup> euros]<sup>1</sup>.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+S'il avait résulté [<sup>1</sup> de l'infraction]<sup>1</sup> un dommage civil appréciable en argent, le cautionnement sera triple de la valeur du dommage, ainsi qu'il sera arbitré, pour cet effet seulement, par le juge d'instruction, sans néanmoins que dans ce cas le cautionnement puisse être au-dessous de cinq cents [<sup>1</sup> euros]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 116, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 120**
+
+La caution admise fera sa soumission, soit au greffe du tribunal, soit devant notaires, de payer [<sup>1</sup> au service compétent du Service public fédéral Finances]<sup>1</sup> le montant du cautionnement, en cas que [l'inculpé] soit constitué en défaut de se représenter.
+
+[...] une expédition en forme exécutoire en sera remise à la partie civile, avant que le prévenu soit mis en liberté provisoire. &lt;L 10-07-1967, art. 1, 69°&gt;
+
+----------
+
+(1)&lt;L 2018-07-11/07, art. 71, 098; En vigueur : 30-07-2018&gt;
+
+**Art. 121**
+
+Les espèces déposées et les immeubles servant de cautionnement seront affectés par privilège, 1° au payement des réparations civiles et des frais avancés par la partie civile; 2° aux amendes; le tout néanmoins sans préjudice du privilège du trésor public, à raison des frais faits par la partie publique.
+
+Le [procureur du Roi] et la partie civile pourront prendre inscription hypothécaire, sans attendre le jugement définitif. L'inscription prise à la requête de l'un ou de l'autre profitera à tous les deux. &lt;L 10-07-1967, art. 1, 70°&gt;
+
+**Art. 122**
+
+Le juge d'instruction rendra, le cas arrivant, sur les conclusions du [procureur du Roi] ou sur la demande de la partie civile, une ordonnance pour le payement de la somme cautionnée.
+
+Ce payement sera poursuivi à la requête du [procureur du Roi], et à la diligence du [<sup>1</sup> receveur du service compétent du Service public fédéral Finances]<sup>1</sup>. Les sommes recouvrées seront versées dans la [<sup>1</sup> le Trésor]<sup>1</sup>, sans préjudice des poursuites et des droit de la partie civile. &lt;L 10-07-1967, art. 1, 70°&gt;
+
+----------
+
+(1)&lt;L 2018-07-11/07, art. 72, 098; En vigueur : 30-07-2018&gt;
+
+**Art. 123**
+
+[Abrogé] &lt;L 10-07-1967, art. 1, 71°&gt;
+
+**Art. 124**
+
+[L'inculpé] ne sera mis en liberté provisoire sous caution, qu'après avoir élu domicile dans le lieu où siège le tribunal correctionnel, par un acte reçu au greffe de ce tribunal. &lt;L 10-07-1967, art. 1, 249°&gt;
+
+**Art. 125**
+
+Outre les poursuites contre la caution, s'il y a lieu [l'inculpé] sera saisi et écroué dans la maison d'arrêt, en exécution d'une ordonnance du juge d'instruction. &lt;L 10-07-1967, art. 1, 249°&gt;
+
+**Art. 126**
+
+[L'inculpé] qui aurait laissé contraindre sa caution au payement, ne sera plus, à l'avenir, recevable en aucun cas à demander de nouveau sa liberté provisoire moyennant caution. &lt;L 10-07-1967, art. 1, 249°&gt;
+
+### CHAPITRE IX. - DU RAPPORT DES JUGES D'INSTRUCTION QUAND LA PROCEDURE EST COMPLETE.
+
+**Art. 127**
+
+&lt;L 2005-05-31/32, art. 2, 044 ; En vigueur : 26-06-2005&gt; § 1er. Lorsque le juge d'instruction juge son instruction terminée, il communique le dossier au procureur du Roi.
+
+Si le procureur du Roi ne requiert pas l'accomplissement d'autres devoirs, il prend des réquisitions en vue du règlement de la procédure par la chambre du conseil.
+
+§ 2. La chambre du conseil fait indiquer, quinze jours au moins d'avance, dans un registre spécial tenu au greffe, les lieu, jour et heure de la comparution. Ce délai est réduit à trois jours lorsqu'un des inculpés est en détention préventive. Le greffier avertit, [<sup>5</sup> par télécopie, par lettre simple ou par voie électronique]<sup>5</sup>, l'inculpé, la partie civile [<sup>1</sup> , celui qui a fait une déclaration de personne lésée]<sup>1</sup> et leurs conseils, que le dossier est mis à leur disposition au greffe en original ou en copie, qu'ils peuvent en prendre connaissance et en lever copie. [<sup>3</sup> Ils peuvent eux-mêmes et par leurs propres moyens, prendre une copie du dossier gratuitement, sur place.]<sup>3</sup>
+
+§ 3. L'inculpé et la partie civile peuvent demander au juge d'instruction, dans le délai fixé au § 2, l'accomplissement d'actes d'instruction complémentaires, conformément à l'article 61quinquies. Dans ce cas, le règlement de la procédure est suspendu. Lorsque la demande a été définitivement traitée, l'affaire est à nouveau fixée devant la chambre du conseil suivant les formes et les délais prévus au § 2.
+
+[<sup>4</sup> L'inculpé et la partie civile peuvent introduire une demande auprès du juge d'instruction conformément à l'article 90septies, § 6, alinéa 2.
+
+Les demandes mentionnées au présent paragraphe doivent, à peine d'irrecevabilité, être adressées ou déposées au greffe du tribunal de première instance dans le délai visé au paragraphe 2.]<sup>4</sup>
+
+§ 4. La chambre du conseil statue sur le rapport du juge d'instruction, le procureur du Roi, la partie civile et l'inculpé entendus.
+
+Les parties peuvent se faire assister d'un conseil ou être représentées par lui. La chambre du conseil peut néanmoins ordonner la comparution personnelle des parties [<sup>2</sup> , par vidéoconférence ou non lorsque l'inculpé se trouve en détention préventive]<sup>2</sup>. Cette ordonnance n'est pas susceptible de recours. L'ordonnance est signifiée à la partie qu'elle concerne à la requête du procureur du Roi et emporte citation à comparaître à la date fixée. Si ladite partie ne comparaît pas, la chambre du conseil statue et l'ordonnance est réputée contradictoire.
+
+Lorsque la chambre du conseil tient la cause en délibéré pour prononcer son ordonnance, elle fixe le jour de cette prononciation.
+
+----------
+
+(1)&lt;L 2012-12-27/29, art. 26, 066; En vigueur : 10-02-2013&gt;
+
+(2)&lt;L 2016-01-29/08, art. 2, 080; En vigueur : indéterminée et au plus tard le 01-09-2017, (NOTE : par son arrêt n° 76/2018 du 21-06-2018 (M.B. 02-07-2018, p. 53419), la Cour constitutionnelle a annulé l'article 2)&gt;
+
+(3)&lt;L 2019-05-05/19, art. 148, 103; En vigueur : 29-06-2019&gt;
+
+(4)&lt;L 2021-07-12/03, art. 2, 110; En vigueur : 30-07-2021&gt;
+
+(5)&lt;L 2022-12-06/02, art. 17, 114; En vigueur : 31-12-2022&gt;
+
+**Art. 128**
+
+&lt;L 1998-03-12/39, art. 24, 016; En vigueur : 1998-10-02&gt; Si la chambre du conseil est d'avis que le fait ne présente [<sup>1</sup> pas d'infraction]<sup>1</sup>, ou qu'il n'existe aucune charge contre l'inculpé, elle déclare qu'il n'y a pas lieu a poursuivre.
+
+[Dans ce cas, si l'instruction a été ouverte par constitution de partie civile entre les mains du juge d'instruction, la partie civile est condamnée envers l'inculpé à l'indemnité visée à l'article 1022 du Code judiciaire.] &lt;L 2007-04-21/85, art. 8, 051; En vigueur : 01-01-2008 ; voir également l'art. 13&gt;
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 117, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 129**
+
+[[Si elle est] d'avis que le fait [<sup>1</sup> constitue une infraction relevant de la compétence du tribunal de police]<sup>1</sup>, l'inculpé sera renvoyé devant le tribunal de police.] &lt;L 1994-07-11/33, art. 3, 008; En vigueur : 01-01-1995&gt; &lt;L 1998-03-12/39, art. 25, 016; En vigueur : 1998-10-02&gt;
+
+Les dispositions du présent article et de l'article précédent ne pourront préjudicier aux droits de la partie civile ou de la partie publique, ainsi qu'il sera expliqué ci-après.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 118, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 130**
+
+[<sup>1</sup> Si la chambre du conseil constate que l'infraction relève de la compétence du tribunal correctionnel, l'inculpé est renvoyé devant ce tribunal [<sup>2</sup> ou, après l'instruction judiciaire dans le cas visé à l'article 57bis, § 1er, de la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait, à la chambre spécifique du tribunal de la jeunesse]<sup>2</sup> .]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-12-21/14, art. 8, 054; En vigueur : 01-05-2010&gt;
+
+(2)&lt;L 2015-07-20/19, art. 3, 078; En vigueur : 05-09-2015&gt;
+
+**Art. 131**
+
+&lt;L 1998-03-12/39, art. 28, 016; En vigueur : 1998-10-02&gt; § 1er. La chambre du conseil prononce, s'il y a lieu, la nullité de l'acte et de tout ou partie de la procédure subséquente lorsqu'elle constate une irrégularité, une omission ou une cause de nullité affectant :
+
+1° un acte d'instruction;
+
+2° l'obtention de la preuve.
+
+§ 2. Les pièces déclarées nulles sont retirées du dossier et déposées au greffe du tribunal de première instance, s'il n'y a pas eu d'appel dans le délai prévu à l'article 135. [Les pièces déposées au greffe ne peuvent pas être consultées, et ne peuvent pas être utilisées dans la procédure pénale.] [<sup>1</sup> La chambre du conseil statue, dans le respect des droits des autres parties, dans quelle mesure les pièces déposées au greffe peuvent encore être consultées lors de la procédure pénale et utilisées par une partie. La chambre du conseil indique dans sa décision à qui il faut rendre les pièces ou ce qu'il advient des pièces annulées. ]<sup>1</sup> &lt;L 2001-07-04/40, art. 6, 028; En vigueur : 03-08-2001&gt;
+
+(NOTE : par arrêt n° 86/2002 du 8 mai 2002, la Cour d'arbitrage a annulé, dans l'article 131, § 2, la phrase " Les pièces déposées au greffe ne peuvent pas être consultées, et ne peuvent pas être utilisées dans la procédure pénale. ", voir M.B. 24-05-2002, p. 22514 - 22519)
+
+----------
+
+(1)&lt;L 2012-12-14/52, art. 2, 067; En vigueur : 02-05-2013&gt;
+
+**Art. 131bis**
+
+[<sup>1</sup> Lorsqu'elle examine un dossier auquel figure un procès-verbal non classifié visé à l'article 19/1 de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité, la chambre du conseil peut, soit d'office, soit sur réquisition du ministère public, soit à la demande du prévenu, de la partie civile ou de leurs avocats, demander au Comité permanent R un avis écrit sur la légalité de la méthode de recueil de données.
+
+Cette réquisition ou cette demande doit, à peine de déchéance, être soulevée avant tout autre moyen de droit, sauf si ce moyen concerne des éléments concrets et nouveaux qui sont apparus lors de l'audience.
+
+La chambre du conseil transmet le dossier au ministère public, afin de porter l'affaire à cet effet devant le Comité permanent R.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 35, 057; En vigueur : indéterminée , au plus tard le 01-09-2010&gt;
+
+**Art. 132**
+
+[Dans tous les cas de renvoi soit au tribunal de police, soit au tribunal correctionnel, le procureur du Roi] est tenu d'envoyer, dans les vingt-quatre heures au plus tard, au greffe du tribunal qui doit prononcer, toutes les pièces, après les avoir cotées. &lt;L 10-07-1967, art. 1, 74°&gt;
+
+**Art. 133**
+
+[<sup>1</sup> Si, sur le rapport du juge d'instruction, la chambre du conseil estime que le fait relève de la compétence de la cour d'assises et que la prévention contre l'inculpé est suffisamment établie, les pièces d'instruction, le procès-verbal constatant le [<sup>3</sup> corps de l'infraction]<sup>3</sup>, un état des pièces servant à conviction et l'ordonnance de prise de corps sont transmis dans les plus brefs délais, par le procureur du Roi, au procureur général près la cour d'appel, pour être procédé ainsi qu'il est prévu au chapitre III. De la mise en accusation.
+
+[<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-12-21/14, art. 9, 054; En vigueur : 01-05-2010&gt;
+
+(2)&lt;L 2018-05-25/02, art. 3, 096; En vigueur : 09-06-2018&gt;
+
+(3)&lt;L 2026-03-11/03, art. 119, 130; En vigueur : 01-09-2026&gt;
+
+**Art. 134**
+
+[Abrogé] &lt;LDP 1990-07-20/35, art. 48, 1°, d), 002; En vigueur : 01-12-1990&gt;
+
+**Art. 135**
+
+&lt;L 1998-03-12/39, art. 30, 016 ; En vigueur : 1998-10-02&gt; § 1er. Le ministère public et la partie civile peuvent interjeter appel de toutes les ordonnances de la chambre du conseil.
+
+§ 2. En cas d'irrégularités, d'omissions ou de causes de nullité visées à l'article 131, § 1er, ou relatives à l'ordonnance de renvoi, l'inculpé peut interjeter appel des ordonnances de renvoi prévues aux articles 129 et 130, sans préjudice de l'appel visé à l'article 539 du présent Code. Il en va de même pour les causes d'irrecevabilité ou d'extinction de l'action publique. En cas d'irrégularités, d'omissions ou de causes de nullité visées à l'article 131, § 1er, l'appel n'est recevable que si le moyen a été invoqué par conclusions écrites devant la chambre du conseil. Il en va de même pour les causes d'irrecevabilité ou d'extinction de l'action publique, sauf lorsque ces causes sont acquises postérieurement aux débats devant la chambre du conseil.
+
+§ 3. L'appel est interjeté dans un délai de quinze jours par une déclaration faite au greffe du tribunal qui a rendu l'ordonnance. Ce délai court à compter du jour de l'ordonnance.
+
+Le procureur du Roi transmet les pièces au procureur général.
+
+Le greffier donne avis aux parties et à leurs conseils, [<sup>2</sup> par télécopie, par lettre simple ou par voie électronique]<sup>2</sup>, des lieu, jour et heure de l'audience. Le dossier est mis à leur disposition quinze jours au moins avant l'audience.
+
+La chambre des mises en accusation statue sur l'appel, le procureur général, les parties et leurs conseils entendus.
+
+Elle entend, en audience publique si elle en décide ainsi à la demande de l'une des parties, le procureur général, la partie civile et l'inculpe en leurs observations.
+
+[<sup>1</sup> La chambre des mises en accusation peut décider que l'inculpé qui se trouve en détention préventive comparaîtra par vidéoconférence.]<sup>1</sup>
+
+§ 4. [Lorsque toutefois l'un des inculpés est détenu, l'appel est interjeté dans un délai de vingt-quatre heures, qui court contre le ministère public et contre chacune des parties, à compter du jour où la décision est rendue.] &lt;L 2001-07-04/40, art. 7, 028; En vigueur : 03-08-2001&gt;
+
+----------
+
+(1)&lt;L 2016-01-29/08, art. 3, 080; En vigueur : indéterminée et au plus tard le 01-09-2017, (NOTE : par son arrêt n° 76/2018 du 21-06-2018 (M.B. 02-07-2018, p. 53419), la Cour constitutionnelle a annulé l'article 3)&gt;
+
+(2)&lt;L 2022-12-06/02, art. 18, 114; En vigueur : 31-12-2022&gt;
+
+### CHAPITRE X. DU CONTROLE DE L'INSTRUCTION PAR LA CHAMBRE DES MISES EN ACCUSATION &lt;inséré par L 1998-03-12/39, art. 31; En vigueur : 1998-10-02&gt;
+
+**Art. 136**
+
+&lt;L 1998-03-12/39, art. 31, 016; En vigueur : 1998-10-02&gt; La chambre des mises en accusation contrôle d'office le cours des instructions, peut demander des rapports sur l'état des affaires et peut prendre connaissance des dossiers. Elle peut déléguer un de ses membres et statuer conformément aux articles 235 et 235bis.
+
+Si l'instruction n'est pas clôturée après une année, la chambre des mises en accusation peut être saisie par requête adressée au greffe de la cour d'appel par l'inculpé ou la partie civile. La chambre des mises en accusation agit conformément à l'alinéa précédent et à l'article 136bis. La chambre des mises en accusation statue sur la requête par arrêt motivé, qui est communiqué au procureur général, à la partie requérante et aux parties entendues. Le requérant ne peut déposer de requête ayant le même objet avant l'expiration du délai de six mois à compter de la dernière décision.
+
+**Art. 136bis**
+
+&lt;L 1998-03-12/39, art. 31, 016; En vigueur : 1998-10-02&gt; [<sup>1</sup> Le procureur du Roi fait rapport au procureur général de toutes les affaires sur lesquelles la chambre du conseil n'aurait point statué dans l'année à compter du premier réquisitoire.]<sup>1</sup>
+
+S'il l'estime nécessaire pour le bon déroulement de l'instruction, la légalité ou la régularité de la procédure, le procureur général prend, à tout moment, devant la chambre des mises en accusation, les réquisitions qu'il juge utiles.
+
+Dans ce cas, la chambre des mises en accusation peut, même d'office, prendre les mesures prévues par les articles 136, 235 et 235bis.
+
+Le procureur général est entendu.
+
+La chambre des mises en accusation peut entendre le juge d'instruction en son rapport, hors la présence des parties si elle l'estime utile. Elle peut également entendre la partie civile, l'inculpé et leurs conseils, sur convocation qui leur est notifiée par le greffier, [<sup>3</sup> par télécopie, par lettre simple ou par voie électronique]<sup>3</sup>, au plus tard quarante-huit heures avant l'audience.
+
+[<sup>2</sup> La chambre des mises en accusation peut décider que l'inculpé qui se trouve en détention préventive comparaîtra par vidéoconférence.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 70, 079; En vigueur : 29-02-2016&gt;
+
+(2)&lt;L 2016-01-29/08, art. 4, 080; En vigueur : indéterminée et au plus tard le 01-09-2017, (NOTE : par son arrêt n° 76/2018 du 21-06-2018 (M.B. 02-07-2018, p. 53419), la Cour constitutionnelle a annulé l'article 4)&gt;
+
+(3)&lt;L 2022-12-06/02, art. 19, 114; En vigueur : 31-12-2022&gt;
+
+**Art. 136ter**
+
+&lt;Abrogé par L 2016-02-05/11, art. 71, 079; En vigueur : 29-02-2016&gt;
+
+### CHAPITRE XI. - De la compétence des juridictions d'instruction en matière de terrorisme. &lt;inséré par L 2005-12-27/34, art. 20; En vigueur : 29-06-2006&gt;
+
+**Art. 136quater**
+
+&lt;inséré par L 2005-12-27/34, art. 20; En vigueur : 29-06-2006&gt; Lorsque la chambre du conseil ou la chambre des mises en accusation est saisie d'une instruction menée à la suite d'une réquisition du procureur fédéral conformément à l'article 47duodecies, § 3, elles sont compétentes pour en connaître, indépendamment du lieu de l'infraction, du lieu de résidence de l'auteur présumé ou du lieu où celui-ci pourra être trouvé.
+
+### CHAPITRE XII. [<sup>1</sup> - DISPOSITIONS PROCÉDURALES RELATIVES À LA SUSPENSION DU PRONONCÉ DE LA CONDAMNATION.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-03-30/02, art. 1, 131; En vigueur : 01-09-2026&gt;
+
+**Art. 136quinquies.**
+
+[<sup>1</sup> § 1er. La suspension peut être décidée par la chambre du conseil au moment où elle est appelée à statuer sur le rapport du juge d'instruction, suivant les formes et conditions prévues à l'article 127.
+
+En cas de citation directe par la partie civile, le ministère public peut, s'il estime qu'il peut y avoir lieu à suspension, requérir le juge d'instruction d'ordonner qu'il soit informé. Notification de cette réquisition est faite au greffier du tribunal devant lequel la citation directe a été donnée, à la partie citante, au cité et à leurs conseils. Elle entraîne le dessaisissement du tribunal.
+
+Lorsque, par application des alinéas 1er et 2, le juge présidant la chambre du conseil est saisi d'un réquisitoire de suspension, il fixe les lieux, jour et heure de la comparution conformément à l'article 127, il procède à cette fixation et le greffier en donne avis par envoi recommandé à la partie civile ou au demandeur et à l'inculpé ou assigné, et à leurs conseils s'il en a été désignés dans la procédure, au moins dix jours avant la comparution. Pendant ce délai, le dossier est déposé au greffe et tenu à la disposition des parties.
+
+La suspension peut également être décidée par la chambre des mises en accusation, dans les cas prévus à l'alinéa 1er de l'article 230 et suivant les modalités prescrites par les articles 219 et 223 à 225.
+
+Si la juridiction d'instruction estime qu'il n'y a pas lieu de prononcer la suspension, elle rend une ordonnance de non-lieu ou une ordonnance de renvoi devant la juridiction compétente.
+
+§ 2. Le procureur du Roi et l'inculpé peuvent faire appel à l'ordonnance de la chambre du conseil prononçant la suspension, pour le motif que les conditions d'octroi de la suspension ne sont pas réunies.
+
+L'appel, qui est formé dans les vingt-quatre heures, est porté devant la chambre des mises en accusation.
+
+§ 3. La chambre du conseil et la chambre des mises en accusation peuvent, soit d'office, soit sur la réquisition du ministère public, soit sur la demande de l'inculpé, ordonner l'audition de témoins.
+
+§ 4. La chambre des mises en accusation connaît de l'appel des ordonnances de la chambre du conseil réglant les intérêts civils. Cet appel est interjeté dans les mêmes délai, conditions et formes que l'appel des jugements en matière correctionnelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-03-30/02, art. 44, 131; En vigueur : 01-09-2026&gt;
+
+**Art. 136sexies.**
+
+[<sup>1</sup> § 1er. Lorsque l'affaire est renvoyée devant le tribunal par la juridiction d'instruction ou que le tribunal est saisi par voie de citation directe, la suspension peut être décidée par les juridictions de jugement.
+
+§ 2. Pour l'application des mesures prévues au paragraphe 1er, les juridictions de jugement peuvent, sur réquisition écrite du ministère public ou à la requête écrite de l'inculpé, décider de connaître de la suspension en chambre du conseil, lorsque les conditions requises par l'article 64, §§ 1er à 3, du Code pénal sont réunies.
+
+La réquisition ou la requête est déposée au greffe de la juridiction appelée à statuer, avant l'ouverture de l'audience à laquelle est fixée la comparution. Il est statué à leur sujet en chambre du conseil, le ministère public et l'inculpé ou son conseil entendus. En cas de rejet de la requête, l'affaire est continuée en audience publique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-03-30/02, art. 45, 131; En vigueur : 01-09-2026&gt;
+
+**Art. 136septies.**
+
+[<sup>1</sup> Les décisions judiciaires ordonnant la suspension sont prononcées en audience publique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-03-30/02, art. 46, 131; En vigueur : 01-09-2026&gt;
