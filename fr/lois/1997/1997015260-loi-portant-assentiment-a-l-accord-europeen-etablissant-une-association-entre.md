@@ -1,0 +1,100 @@
+---
+title: "Loi portant assentiment à l'Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Lituanie, d'autre part, Annexes I à XX, Protocoles 1 à 5, et Acte final, faits à Luxembourg le 12 juin 1995."
+identifier: "1997015260"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/13/1997015260/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1997-04-13
+published: 2000-10-19
+entry_into_force: 1998-02-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/13/1997015260/justel"
+department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
+retrieved: 2026-10-11
+---
+
+# 13 AVRIL 1997. - Loi portant assentiment à l'Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Lituanie, d'autre part, Annexes I à XX, Protocoles 1 à 5, et Acte final, faits à Luxembourg le 12 juin 1995.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+L'Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Lituanie, d'autre part, Annexes I à XX, Protocoles 1 à 5, et Acte final, faits à Luxembourg le 12 juin 1995, sortiront leur plein et entier effet.
+
+Promulguons la présente loi, ordonnons qu'elles soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 13 avril 1997.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires étrangères,
+
+E. DERYCKE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK
+
+## ANNEXE.
+
+## Art. N
+
+Accord européen établissant une association entre les Communautés européennes et leurs Etats membres, d'une part, et la République de Lituanie, d'autre part, Annexes I à XX, Protocoles 1 à 5, et Acte final, faits à Luxembourg le 12 juin 1995
+
+(Pour l'Accord, voir %%1995-06-12/85%%.)
+
+Liste des Etats liés
+
+Allemagne 7 novembre 1996
+
+Autriche 30 avril 1996
+
+Belgique 25 novembre 1997
+
+Communaute europeenne 19 décembre 1998
+
+Communaute européenne du charbon et de l'acier 22 décembre 1998
+
+Communaute européenne de l'energie atomique 22 décembre 1998
+
+Danemark 28 novembre 1995
+
+Espagne 7 janvier 1997
+
+Finlande 8 fevrier 1996
+
+France 15 décembre 1997
+
+Grece 29 juillet 1997
+
+Irlande 24 mai 1996
+
+Italie 10 juillet 1997
+
+Lituanie 5 août 1996
+
+Luxembourg 6 décembre 1996
+
+Pays-Bas 20 novembre 1996
+
+Portugal 7 mai 1997
+
+Royaume-Uni 18 mars 1997
+
+Suede 30 novembre 1995
+
+Cette convention est entrée en vigueur le 1er février 1998.

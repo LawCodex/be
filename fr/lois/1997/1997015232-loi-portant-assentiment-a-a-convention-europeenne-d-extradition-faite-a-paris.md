@@ -1,0 +1,80 @@
+---
+title: "Loi portant assentiment à : a) Convention européenne d'extradition, faite à Paris le 13 décembre 1957; b) Protocole additionnel à la Convention européenne d'extradition, fait à Strasbourg le 15 octobre 1975; c) Deuxième Protocole additionnel à la Convention européenne d'extradition, fait à Strasbourg le 17 mars 1978; d) Accord entre les Etats membres des Communautés européennes relatif à la simplification et à la modernisation des modes de transmission des demandes d'extradition, fait à San Sebastian le 26 mai 1989."
+identifier: "1997015232"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/22/1997015232/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1997-04-22
+published: 1997-11-22
+entry_into_force: 1997-12-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1997/04/22/1997015232/justel"
+department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
+retrieved: 2026-10-11
+---
+
+# 22 AVRIL 1997. - Loi portant assentiment à : a) Convention européenne d'extradition, faite à Paris le 13 décembre 1957; b) Protocole additionnel à la Convention européenne d'extradition, fait à Strasbourg le 15 octobre 1975; c) Deuxième Protocole additionnel à la Convention européenne d'extradition, fait à Strasbourg le 17 mars 1978; d) Accord entre les Etats membres des Communautés européennes relatif à la simplification et à la modernisation des modes de transmission des demandes d'extradition, fait à San Sebastian le 26 mai 1989.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77, alinéa 1, 6°, de la Constitution.
+
+## Art. 2
+
+Les Actes internationaux suivants sortiront leur plein et entier effet :
+
+a) Convention européenne d'extradition, faite à Paris le 13 décembre 1957;
+
+b) Protocole additionnel à la Convention européenne d'extradition, fait à Strasbourg le 15 octobre 1975;
+
+c) Deuxième Protocole additionnel à la Convention européenne d'extradition, fait à Strasbourg le 17 mars 1978;
+
+d) Accord entre les Etats membres des Commaunautés européennes relatif à la simplification et à la modernisation des modes de transmission des demandes d'extradition, fait à San Sebastian le 26 mai 1989.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 22 avril 1997.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires étrangères,
+
+E. DERYCKE
+
+Le Ministre de la Justice,
+
+S. DE CLERCK
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK
+
+## Annexes.
+
+## Art. N1
+
+Annexe 1. Convention européenne d'extradition, liste des Etats liés, déclarations et réserves faites lors de la ratification par la Belgique, faits à Paris le 13 décembre 1957. (Voir % % 1957-12-13/37 % %)
+
+## Art. N2
+
+Annexe 2. Protocole additionnel à la Convention européenne d'extradition, liste des Etats liés à la Convention, faits à Strasbourg, le 15 octobre 1975. (Voir % % 1975-10-15/30 % %)
+
+## Art. N3
+
+Annexe 3. Deuxième Protocole additionnel à la Convention européenne d'extradition, listes des Etats liés, déclaration faite par la Belgique lors de la ratification, faits à Strasbourg le 17 mars 1978. (Voir % % 1978-03-17/30 % %)
+
+## Art. N4
+
+Annexe 4. Accord entre les Etats membres des Communautés européennes relatif à la simplification et à la modernisation des modes de transmission des demandes d'extradition, liste des Etats liés et déclaration faite par la Belgique lors de la ratification, faits à San Sebastian le 26 mai 1989. (Voir % % 1989-05-26/35 % %)
