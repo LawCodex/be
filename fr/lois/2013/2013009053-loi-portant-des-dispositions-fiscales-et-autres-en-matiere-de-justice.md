@@ -1,0 +1,104 @@
+---
+title: "Loi portant des dispositions fiscales et autres en matière de justice"
+identifier: "2013009053"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2013/01/14/2013009053/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2013-01-14
+published: 2013-01-31
+entry_into_force: 2013-02-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2013/01/14/2013009053/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 14 JANVIER 2013. - Loi portant des dispositions fiscales et autres en matière de justice
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition générale
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## CHAPITRE 2. - Modifications du Code des droits et taxes divers, du Code de la taxe sur la valeur ajoutée, de la loi générale du 18 juillet 1977 sur les douanes et accises, du Code des impôts sur les revenus 1992 et du Code des droits d'enregistrements, d'hypothèque et de greffe
+
+### Art. 2
+
+Dans l'article 211, § 1er, du Code des droits et taxes divers, inséré par l'arrêté du Régent du 25 novembre 1947, remplacé par l'arrêté du Régent du 20 février 1950 et modifié par la loi du 19 décembre 2006, l'alinéa 4 est remplacé par ce qui suit :
+
+" Toutefois, les actes, pièces, registres et documents ou renseignements relatifs à des procédures judiciaires ne peuvent être communiqués ou copiés sans l'autorisation expresse du ministère public. ".
+
+### Art. 3
+
+Dans l'article 289 § 1er, du Code des droits d'enregistrement, d'hypothèque et de greffe, l'alinéa 3 est remplacé par ce qui suit :
+
+" Toutefois, les actes, pièces, registres, documents ou renseignements relatifs à des procédures judiciaires ne peuvent être communiqués ou copiés sans l'autorisation expresse du ministère public. ".
+
+### Art. 4
+
+Dans l'article 93quaterdecies, § 1er, du Code de la taxe sur la valeur ajoutée, inséré par la loi du 22 décembre 1989 et modifié par la loi du 28 décembre 1992, la loi-programme du 20 juillet 2006 et la loi du 1er mars 2007, l'alinéa 3 est remplacé par ce qui suit :
+
+" Toutefois, les actes, pièces, registres et documents ou renseignements relatifs à des procédures judiciaires ne peuvent être communiqués ou copiés sans l'autorisation expresse du ministère public. ".
+
+### Art. 5
+
+Dans l'article 210, § 1er, de la Loi générale du 18 juillet 1977 sur les douanes et accises, l'alinéa 3 est remplacé par ce qui suit :
+
+" Toutefois, les actes, pièces, registres et documents ou renseignements relatifs à des procédures judiciaires ne peuvent être communiqués ou copiés sans l'autorisation expresse du ministère public. ".
+
+### Art. 6
+
+Dans l'article 327, § 1er, du Code des Impôts sur les revenus 1992, modifié par la loi-programme du 20 juillet 2006, l'alinéa 2 est remplacé par ce qui suit :
+
+" Toutefois, les actes, pièces, registres, documents ou renseignements relatifs à des procédures judiciaires ne peuvent être communiqués ou copiés sans l'autorisation expresse du ministère public. ".
+
+## CHAPITRE 3. - Modification du titre préliminaire du Code de procédure pénale
+
+### Art. 7
+
+L'article 24 du titre préliminaire du Code de procédure pénale, remplacé par la loi du 16 juillet 2002, est complété par deux alinéas rédigés comme suit :
+
+" La prescription de l'action publique est à chaque fois suspendue lorsque, dans le cadre du règlement de la procédure, le juge d'instruction ou la chambre des mises en accusation décide que des actes d'instruction complémentaires doivent être accomplis. Il en va de même chaque fois que la chambre du conseil, dans le cadre du règlement de la procédure, ne peut pas régler la procédure à la suite d'une requête introduite conformément aux articles 61quinquies et 127, § 3, du Code d'instruction criminelle. La suspension prend effet le jour de la première audience devant la chambre du conseil fixée en vue du règlement de la procédure, que la requête ait été rejetée ou acceptée, et s'achève la veille de la première audience où le règlement de la procédure est repris par la juridiction d'instruction, sans que chaque suspension puisse toutefois dépasser un an.
+
+La prescription de l'action publique est à chaque fois suspendue lorsque la juridiction de jugement sursoit à l'instruction de l'affaire en vue d'accomplir des actes d'instruction complémentaires. Dans ce cas, la prescription est suspendue à partir du jour où la juridiction d'instruction décide de remettre l'affaire jusqu'à la veille de la première audience où l'instruction de l'affaire est reprise par la juridiction de jugement, sans que chaque suspension puisse toutefois dépasser un an. ".
+
+(NOTE : par son arrêt n° 83/2015 du 11-06-2015 (M.B. 11-08-2015, p . 50960), la Cour constitutionnelle a annulé cet article et maintient les effets de la disposition annulée jusqu'à l'entrée en vigueur d'une nouvelle disposition législatif, et au plus tard jusqu'au 31 décembre 2016).
+
+## CHAPITRE 4. - Modification de la loi du 28 avril 1999 complétant, en ce qui concerne la lutte contre la fraude fiscale, l'arrêté royal n° 185 du 9 juillet 1935 sur le contrôle des banques et le régime des émissions de titres et valeurs et la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances
+
+### Art. 8
+
+Dans le texte néerlandais de l'article 2 de la loi du 28 avril 1999 complétant, en ce qui concerne la lutte contre la fraude fiscale, l'arrêté royal n° 185 du 9 juillet 1935 sur le contrôle des banques et le regime des émissions de titres et valeurs et la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances, les mots " strafzaak aanhangig " sont remplacés par les mots " opsporingsonderzoek ingesteld ".
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 14 janvier 2013.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM
+
+Le Ministre des Finances,
+
+S. VANACKERE
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

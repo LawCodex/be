@@ -1,0 +1,54 @@
+---
+title: "Loi modifiant l'article 124 de la loi du 25 juin 1992 sur le contrat d'assurance terrestre en ce qui concerne la réduction de capital d'une assurance vie en cas de succession"
+identifier: "2013009001"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/10/2013009001/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2012-12-10
+published: 2013-01-11
+entry_into_force: 2013-01-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/10/2013009001/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 10 DECEMBRE 2012. - Loi modifiant l'article 124 de la loi du 25 juin 1992 sur le contrat d'assurance terrestre en ce qui concerne la réduction de capital d'une assurance vie en cas de succession
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 124 de la loi du 25 juin 1992 sur le contrat d'assurance terrestre est remplacé par ce qui suit :
+
+" Art. 124. Rapport ou réduction en cas de décès du preneur d'assurance.
+
+En cas de décès du preneur d'assurance, la prestation d'assurance est, conformément au Code civil, sujette à réduction et, pour autant que le preneur d'assurance l'a spécifié expressément, à rapport. ".
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 10 décembre 2012.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

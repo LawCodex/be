@@ -1,0 +1,55 @@
+---
+title: "Loi modifiant la loi du 21 décembre 1998 portant création de la \" Coopération technique belge \" sous la forme d'une société de droit public"
+identifier: "2012015110"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2012/06/12/2012015110/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2012-06-12
+published: 2012-07-06
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2012/06/12/2012015110/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+retrieved: 2026-10-11
+---
+
+# 12 JUIN 2012. - Loi modifiant la loi du 21 décembre 1998 portant création de la " Coopération technique belge " sous la forme d'une société de droit public
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Dans l'article 22 de la loi du 21 décembre 1998 portant création de la " Coopération technique belge " sous la forme d'une société de droit public, modifié par la loi du 27 mars 2006, est inséré un paragraphe 2/1 rédigé comme suit :
+
+" § 2/1. Le conseil d'administration compte au maximum deux tiers de membres du même sexe. "
+
+## Art. 3
+
+La présente loi entrera en vigueur lors du prochain renouvellement du conseil d'administration de la " Coopération technique belge " conformément à l'article 22, § 4, de la loi du 21 décembre 1998 portant création de la Coopération technique belge sous la forme d'une société de droit public.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 12 juin 2012.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Entreprises publiques, de la Politique scientifique et de la Coopération au Développement, chargé des Grandes Villes,
+
+P. MAGNETTE
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

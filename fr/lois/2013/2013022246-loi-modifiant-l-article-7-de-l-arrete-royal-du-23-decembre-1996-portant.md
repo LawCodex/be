@@ -1,0 +1,72 @@
+---
+title: "Loi modifiant l'article 7 de l'arrêté royal du 23 décembre 1996 portant exécution des articles 15, 16 et 17 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions"
+identifier: "2013022246"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2013/04/23/2013022246/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2013-04-23
+published: 2013-05-07
+entry_into_force: 2013-07-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2013/04/23/2013022246/justel"
+department: "Sécurité sociale"
+retrieved: 2026-10-11
+---
+
+# 23 AVRIL 2013. - Loi modifiant l'article 7 de l'arrêté royal du 23 décembre 1996 portant exécution des articles 15, 16 et 17 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Dans l'article 7 de l'arrêté royal du 23 décembre 1996 portant exécution des articles 15, 16 et 17 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions, modifié par l'arrêté royal du 23 avril 1997, les modifications suivantes sont apportées :
+
+1° le paragraphe 2 est remplacé par ce qui suit :
+
+" § 2. Lorsque le conjoint est décédé après la date de prise de cours de sa pension de retraite, la pension de survie est égale à 80 % du montant de la pension de retraite payable au conjoint décédé le mois du décès, qui lui était accordée conformément à la loi du 20 juillet 1990, en vertu de l'arrêté royal n° 50 ou en vertu du présent arrêté et qui, le cas échéant, est convertie au montant fixé à l'article 5, § 1er, alinéa 1er, a), et sans que soit éventuellement appliquée la réduction pour cause d'anticipation. ";
+
+2° le paragraphe 3 est abrogé;
+
+3° dans le paragraphe 4 ancien, devenant le paragraphe 3, les mots " des §§ 2 et 3 " sont remplacés par les mots " du § 2 " et la phrase " Le conjoint survivant peut exercer les droits que le conjoint décédé aurait pu faire valoir. " est abrogée;
+
+4° le paragraphe 5 devient le paragraphe 4;
+
+5° dans le paragraphe 6 ancien, devenant le paragraphe 5, les mots " aux paragraphes précédents " sont remplacés par les mots " au § 1er ";
+
+6° le paragraphe 7 devient le paragraphe 6.
+
+## Art. 3
+
+L'article 2 est applicable aux pensions de survie qui prennent cours effectivement et pour la première fois au plus tôt le 1er juillet 2013.
+
+## Art. 4
+
+La présente loi entre en vigueur le 1er juillet 2013.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 2 3 avril 2013.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Pensions,
+
+A. DE CROO
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

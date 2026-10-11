@@ -1,0 +1,716 @@
+---
+title: "Loi organisant la profession d'agent immobilier"
+identifier: "2013011368"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2013/02/11/2013011368/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2013-02-11
+published: 2013-08-22
+entry_into_force: 2013-09-01
+last_amended: 2024-03-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2013/02/11/2013011368/justel"
+department: "Economie, PME, Classes moyennes et Energie"
+justel_note: "Consultation des versions antérieures à partir du 22-08-2013 et mise à jour au 21-03-2024"
+retrieved: 2026-10-11
+---
+
+# 11 FEVRIER 2013. - Loi organisant la profession d'agent immobilier
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition introductive
+
+#### Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## CHAPITRE 2. - Définitions
+
+#### Art. 2
+
+Pour l'application de la présente loi, il faut entendre par :
+
+1° ministre : le ministre ayant les Classes moyennes dans ses attributions;
+
+2° [<sup>3</sup> le Conseil supérieur : le Conseil Supérieur des Indépendants et des Petites et Moyennes Entreprises, visé à l'article 10 de la loi du 24 avril 2014 relative à l'organisation de la représentation des indépendants et des PME;]<sup>3</sup>
+
+3° [<sup>1</sup> Etat membre : l'Etat membre tel que visé dans l'article 2, § 1er, l), de la loi du 12 février 2008 instaurant un cadre général pour la reconnaissance des qualifications professionnelles UE;]<sup>1</sup>
+
+4° [<sup>3</sup> agent immobilier : la personne qui est inscrite au tableau ou à la liste des stagiaires en vue d'exercer une ou plusieurs activités mentionnées aux 5°, 6° et 7°, ou de porter le titre professionnel;]<sup>3</sup>
+
+5° intermédiaire : celui qui, pour le compte de tiers, prête une assistance déterminante en vue de réaliser un contrat de vente, d'achat, d'échange, de location ou de cession de biens immobiliers, droits immobiliers ou fonds de commerce;
+
+6° syndic : celui qui agit dans le cadre de l'administration et de la conservation des parties communes d'immeubles ou groupes d'immeubles en copropriété forcée, d'après [<sup>2</sup> les articles 3.78 et suivants]<sup>2</sup> du Code civil;
+
+7° régisseur : celui qui réalise pour le compte de tiers des activités de gestion de biens immobiliers ou de droits immobiliers, autres que celles de syndic;
+
+8° la loi-cadre : la loi-cadre relative aux professions intellectuelles prestataires de services, codifiée par l'arrêté royal du 3 août 2007;
+
+9° l'Institut : l'Institut professionnel des Agents Immobiliers, créé par l'arrêté royal du 6 septembre 1993;
+
+[<sup>1</sup> 10° la loi du 12 février 2008 relative aux qualifications professionnelles : la loi du 12 février 2008 instaurant un cadre général pour la reconnaissance des qualifications professionnelles UE;]<sup>1</sup>
+
+[<sup>3</sup> 11° règles de déontologie: les règles de déontologie telles que visées par la loi-cadre et les règles de déontologie visées à l'article 13.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2017-07-21/32, art. 30, 003; En vigueur : 19-10-2017&gt;
+
+(2)&lt;L 2020-02-04/16, art. 23, 006; En vigueur : 01-09-2021&gt;
+
+(3)&lt;L 2023-12-11/20, art. 2, 007; En vigueur : 01-02-2024&gt;
+
+## CHAPITRE 3. - La profession d'agent immobilier
+
+### Section 1re. - De l'exercice et de la protection du titre d'agent immobilier
+
+#### Art. 3
+
+Il est établi, au sein de l'Institut, un tableau des agents immobiliers et une liste de stagiaires scindés en deux colonnes, l'une reprenant les agents immobiliers intermédiaires, l'autre reprenant les agents immobiliers syndics.
+
+[<sup>1</sup> Les données à caractère personnel du tableau et de la liste des stagiaires qui sont publiées sur le site Internet de l'Institut sont les suivantes :
+
+1° le nom et le prénom de la personne inscrite ;
+
+2° les données de contact ;
+
+3° le numéro d'inscription au tableau ou à la liste.
+
+L'ensemble des données publiées au tableau et sur la liste des stagiaires sont des données liées à l'exercice de la profession. Le Roi peut, le cas échéant, établir et compléter la liste des données reprises sur le tableau ou sur la liste des stagiaires en application du présent article et qui sont limitées à ce qui est strictement nécessaire pour les objectifs du tableau ou de la liste des stagiaires.]<sup>1</sup>
+
+Les agents immobiliers intermédiaires, les agents immobiliers syndic et les agents immobiliers régisseurs sont soumis à des obligations de formation et à des contrôles particuliers, dont les modalités sont déterminées par le Roi.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-11/20, art. 3, 007; En vigueur : 01-02-2024&gt;
+
+#### Art. 4
+
+Toute personne physique ou personne morale autorisée à exercer la profession d'agent immobilier conformément à la présente loi et dont la responsabilité peut être engagée en raison des actes qu'elle accomplit à titre professionnel ou en raison des actes de ses préposés doit être couverte par une assurance.
+
+Le Roi fixe les modalités et les conditions de l'assurance qui doit permettre une couverture adéquate du risque encouru par le destinataire des services prestés par l'agent immobilier, notamment :
+
+\- le plafond minimal à garantir;
+
+\- l'étendue de la garantie dans le temps;
+
+\- les risques qui doivent être couverts.
+
+Lorsque la profession d'agent immobilier est exercée par une personne morale conformément à la présente loi, tous [<sup>2</sup> les membres de l'organe de gestion et les associés actifs]<sup>2</sup> sont solidairement responsables du paiement des primes d'assurance.
+
+[<sup>1</sup> Les attestations délivrées par les organismes d'assurances d'un autre Etat membre sont acceptées comme équivalentes, pour autant que la garantie soit équivalente ou essentiellement comparable, pour ce qui est de sa finalité et de la couverture qu'elle offre sur le plan du risque assuré, de la somme assurée ou du plafond de la garantie ainsi que des activités éventuellement exclues de la couverture, avec celle prévue sur base des dispositions légales ou réglementaires en vigueur en Belgique. Dans le cas où l'équivalence de la garantie n'est que partielle, l'Institut peut demander une garantie complémentaire pour couvrir les éléments qui ne sont pas déjà couverts.]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2020-03-01/02, art. 3, 005; En vigueur : 20-03-2020&gt;
+
+(2)&lt;L 2023-12-11/20, art. 4, 007; En vigueur : 01-02-2024&gt;
+
+#### Art. 5
+
+§ 1er. [<sup>1</sup> Nul ne peut exercer la profession d'agent immobilier s'il a été privé de ses droits civils et politiques ou s'il a été déclaré en faillite sans avoir obtenu la réhabilitation ou si son extrait de casier judiciaire indique, au moment où il sollicite l'accès, qu'il a encouru, en Belgique ou dans un autre Etat membre de l'Union européenne, l'une des peines suivantes :
+
+1° une peine criminelle;
+
+2° une peine d'emprisonnement sans sursis d'un an au moins pour l'une des infractions mentionnées à l'article 1er de l'arrêté royal n° 22 du 24 octobre 1934 portant interdiction à certains condamnés et aux faillis d'exercer certaines fonctions, professions ou activités et conférant aux tribunaux de commerce la faculté de prononcer de telles interdictions;
+
+3° une amende pénale de 2 500 euros au moins, avant application des décimes additionnels, pour infraction à la législation sur la prévention du blanchiment et du financement du terrorisme.]<sup>1</sup>
+
+Nul ne peut exercer en qualité d'indépendant, à titre principal ou accessoire, la profession d'agent immobilier intermédiaire ou syndic, ou en porter le titre, s'il n'est inscrit dans la colonne de la profession qu'il exerce du tableau des titulaires ou dans la colonne de la profession qu'il exerce de la liste des stagiaires.
+
+Nul ne peut exercer en qualité d'agent immobilier régisseur s'il n'est inscrit à au moins une des deux colonnes dudit tableau.
+
+§ 2. [<sup>4</sup> Les agents immobiliers, personnes physiques, sont soumis aux obligations suivantes :
+
+1° a) soit, être titulaire d'une attestation de compétence ou d'un titre de formation répondant aux modalités déterminées par le Roi et, pour les personnes qui ne sont pas dispensées du stage, répondre aux obligations du règlement de stage visé à l'article 8, § 1er, de la loi-cadre ;
+
+b) soit, disposer d'une expérience professionnelle pertinente résultant de l'exercice pendant six ans équivalent temps plein d'activités professionnelles telles que visées à l'article 2, 5°, 6° ou 7°, dans les dix ans précédant la demande d'inscription au tableau, et avoir réussi le test d'aptitude pratique prévu dans le règlement de stage ; et
+
+2° respecter les règles de déontologie visées à l'article 13.
+
+Les personnes visées à l'alinéa, 1er, 1°, b), apportent la preuve de leur expérience professionnelle par tous moyens. Les pièces justificatives sont examinées par la Chambre exécutive compétente. Si elles réussissent le test d'aptitude pratique, elles sont inscrites au tableau. Si elles échouent, elles peuvent présenter une seconde fois le test d'aptitude pratique. En cas de second échec, ces personnes peuvent demander leur inscription à la liste des stagiaires sous les conditions visées aux paragraphes 1er et 2, alinéa 1er, 1°, a), ou, après l'expiration d'un délai de trois ans à dater du jour suivant celui où le résultat au test d'aptitude pratique est devenu définitif, présenter une nouvelle fois le test d'aptitude pratique. Le même délai est applicable après deux nouveaux échecs.]<sup>4</sup>
+
+[<sup>4</sup> § 2/1. Les agents immobiliers, personnes morales, sont soumis aux obligations suivantes :
+
+1° répondre aux conditions visées à l'article 10 ; et
+
+2° respecter les règles de déontologie visées à l'article 13.]<sup>4</sup>
+
+§ 3. Le Roi peut dispenser les titulaires de professions libérales des interdictions visées au § 1er.
+
+Dans pareil cas, les Ordres et Instituts en charge du contrôle des activités de ces personnes intègrent dans leur déontologie un volet spécifique aux activités d'agents immobiliers.
+
+Les personnes qui ne font que gérer leur patrimoine familial, ou le patrimoine dont elles sont copropriétaires, ou le patrimoine de la société dont elles sont actionnaires ou associées, ne sont pas soumises aux interdictions visées au § 1er.
+
+§ 4. [<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>2</sup> § 5. Les ressortissants d'un Etat membre qui ont acquis une attestation de compétence ou un titre de formation visé au § 2, 1.a), sont soumis à l'ensemble des conditions et bénéficient de l'ensemble des droits prévus dans la loi du 12 février 2008 relative aux qualifications professionnelles, sans préjudice des dispositions prévues par ou en vertu de la présente loi.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2017-09-18/06, art. 178, 002; En vigueur : 16-10-2017&gt;
+
+(2)&lt;L 2017-07-21/32, art. 31, 003; En vigueur : 19-10-2017&gt;
+
+(3)&lt;L 2017-12-21/34, art. 2, 004; En vigueur : 01-02-2018&gt;
+
+(4)&lt;L 2023-12-11/20, art. 5, 007; En vigueur : 01-02-2024&gt;
+
+#### Art. 6
+
+Nul ne peut porter un titre ni ajouter à celui sous lequel il est inscrit au tableau visé à l'article 3, une mention pouvant prêter à confusion avec le titre professionnel d'agent immobilier intermédiaire, d'agent immobilier syndic ou d'agent immobilier régisseur.
+
+#### Art. 7
+
+Toute personne physique inscrite dans une des colonnes du tableau des agents immobiliers ou de la liste des stagiaires est tenue de porter, dans l'exercice de ses activités professionnelles, le titre professionnel sous lequel elle est inscrite dans la colonne du tableau des agents immobiliers ou de la liste de stagiaires.
+
+#### Art. 8
+
+Pour l'application de la présente loi, les agents immobiliers sont présumés, de manière irréfragable, exercer cette activité à titre indépendant.
+
+[<sup>1</sup> Les membres de l'organe de gestion et les associés actifs qui exercent la profession au sein d'une personne morale inscrite ou non au tableau de l'Institut, ou qui assurent la direction effective d'un département où est exercée la profession, sont présumés, de manière irréfragable, exercer la profession à titre indépendant.
+
+Les membres de l'organe de gestion et les associés actifs visés à l'article 10, § 1er, 1°, et § 2, alinéa 2, sont également présumés, de manière irréfragable, accomplir à titre d'indépendant les actes directement en lien avec l'exercice de la profession d'agent immobilier, ou représenter à titre indépendant la personne morale dans des actes qui concernent la profession d'agent immobilier.]<sup>1</sup>
+
+Il ne faut pas satisfaire aux obligations visées à l'article 5 pour exercer la profession dans les liens d'un contrat de travail et les personnes qui bénéficient de cette faculté ne sont pas autorisées à porter le titre professionnel.
+
+[<sup>1</sup> Sans préjudice de l'article 11, alinéa 1er, 2° et 3°, de la loi-cadre, un agent immobilier qui est suspendu ou radié ne peut toutefois plus exercer la profession d'agent immobilier pendant la durée de la sanction disciplinaire, même en tant que salarié.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-11/20, art. 6, 007; En vigueur : 01-02-2024&gt;
+
+### Section 2. - Libre prestation des services
+
+#### Art. 9
+
+[<sup>1</sup> § 1er. Les ressortissants d'un Etat membre sont autorisés à exercer temporairement et occasionnellement la profession d'agent immobilier, sans devoir remplir les conditions de l'article 5, mais sous réserve du respect des règles de déontologie en rapport direct avec les qualifications professionnelles, selon les modalités prévues dans la loi du 12 février 2008 relative aux qualifications professionnelles et du § 2 si :
+
+1° ils sont légalement établis dans un autre Etat membre pour y exercer la même profession et;
+
+2° lorsque la profession d'agent immobilier n'est pas réglementée dans l'Etat membre d'établissement, ils l'ont exercée dans un ou plusieurs Etats membres pendant au moins une année au cours des dix années qui précèdent leur prestation de services.
+
+Le caractère temporaire et occasionnel de la prestation de services est apprécié au cas par cas par la Chambre exécutive, notamment en fonction de sa durée, de sa fréquence, de sa périodicité et de sa continuité
+
+§ 2. En application de l'article 9 de la loi du 12 février 2008 relative aux qualifications professionnelles, lorsque les personnes visées au § 1er se déplacent vers le territoire de la Belgique pour la première fois pour exercer, de façon temporaire et occasionnelle, la profession d'agent immobilier, elles en informent préalablement l'Institut par une déclaration écrite comprenant les informations relatives aux couvertures d'assurance ou autres moyens de protection personnelle ou collective concernant la responsabilité professionnelle.
+
+Cette déclaration est renouvelée une fois par an si le prestataire de services compte fournir des services d'une manière temporaire ou occasionnelle en Belgique au cours de l'année concernée. Le prestataire de services peut fournir cette déclaration par tout moyen.
+
+En outre, lors de la première prestation de services ou en cas de changement matériel relatif à la situation établie par les documents, le prestataire de services fournit également les documents prévus à l'article 9, § 2, a) à d), de la loi du 12 février 2008 relative aux qualifications professionnelles.
+
+[<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-07-21/32, art. 32, 003; En vigueur : 19-10-2017&gt;
+
+(2)&lt;AR 2020-03-01/02, art. 4, 005; En vigueur : 20-03-2020&gt;
+
+### Section 2/1. [<sup>1</sup> - Liberté d'établissement et de prestation de services - Carte professionnelle européenne]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-21/32, art. 33, 003; En vigueur : 19-10-2017&gt;
+
+#### Art. 9/1
+
+[<sup>1</sup> § 1er. Les ressortissants d'un Etat membre, qui sont titulaires d'un titre de formation visé à l'article 5, § 2, 1.a), répondant aux conditions fixées par le Roi et délivré en Belgique, peuvent demander à l'Institut professionnel des agents immobiliers via l'outil électronique fourni par la Commission européenne créant un dossier IMI :
+
+1° soit, d'accomplir toutes les démarches préparatoires nécessaires concernant l'examen de leur dossier individuel pour l'obtention d'une carte professionnelle européenne en vue de l'établissement dans un autre Etat membre;
+
+2° soit, de délivrer la carte professionnelle européenne en vue de l'exercice temporaire et occasionnel de la profession dans un autre Etat membre.
+
+§ 2. Les ressortissants d'un Etat membre qui sont titulaires d'une attestation de compétence ou d'un titre de formation visé à l'article 5, § 2, 1.a), répondant aux conditions fixées par le Roi et délivré par un autre Etat membre, peuvent introduire une demande de carte professionnelle européenne en vue d'exercer la profession en Belgique soit dans le cadre du libre l'établissement, soit dans le cadre de la libre prestations de services.
+
+§ 3. Conformément à la loi du 12 février 2008 relative aux qualifications professionnelles, les conditions d'obtention d'une carte professionnelle européenne sont identiques à celles fixées pour la reconnaissance des qualifications professionnelles. La procédure est déterminée par la loi du 12 février 2008 relative aux qualifications professionnelles et par le règlement d'exécution (UE) 2015/983 de la Commission européenne du 24 juin 2015 sur la procédure de délivrance de la carte professionnelle européenne et l'application du mécanisme d'alerte, conformément à la directive 2005/36/CE du Parlement européen et du Conseil.
+
+§ 4. La Chambre exécutive compétente prend les décisions relatives à la délivrance d'une carte professionnelle européenne. Sa décision ou son absence de décision dans les délais prévus pour l'examen d'une demande de reconnaissance des qualifications professionnelles peut faire l'objet d'un recours devant la Chambre d'appel compétente ou en dernier ressort près de la Cour de cassation selon les mêmes modalités que celles prévues pour tout recours relatif à une décision portant sur une demande de reconnaissance des qualifications professionnelles. Lorsque la demande de carte professionnelle est effectuée par un ressortissant qui n'a pas d'établissement en Belgique et qui désire exercer la profession dans un autre Etat membre, la Chambre exécutive compétente est celle de son domicile.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-21/32, art. 34, 003; En vigueur : 19-10-2017&gt;
+
+#### Art. 9/2
+
+[<sup>1</sup> Le Roi peut abroger, modifier, compléter ou remplacer les dispositions de la présente loi et les arrêtés pris en son exécution en vue d'assurer la transposition en droit interne de la directive relative à la reconnaissance des qualifications professionnelles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-21/32, art. 35, 003; En vigueur : 19-10-2017&gt;
+
+#### Art. 9/3.
+
+[<sup>1</sup> Un registre reprenant les prestataires de services qui exercent temporairement et occasionnellement la profession en Belgique est tenu au sein de l'Institut.
+
+Les données à caractère personnel du registre qui sont publiées sur le site Internet de l'Institut sont les suivantes :
+
+1° le nom et le prénom de la personne inscrite ;
+
+2° les données de contact ;
+
+3° le numéro d'inscription au registre.
+
+Les autres informations transmises dans le cadre de la déclaration et de la prestation de services visées à l'article 9, ne sont pas publiques et sont conservées dans le dossier d'inscription du prestataire de services visé à l'article 9.
+
+Sous réserve des règles spécifiques relatives aux membres, l'article 12/1 est également applicable au traitement de ces données.
+
+Le Roi peut modifier, supprimer ou ajouter des données pour se conformer au droit européen applicable aux prestataires de services visés à l'article 9.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-11/20, art. 7, 007; En vigueur : 01-02-2024&gt;
+
+### Section 3. [<sup>1</sup> - Exercice de la profession par une personne morale inscrite au tableau de l'Institut ou au sein d'une personne morale non inscrite au tableau de l'Institut]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-11/20, art. 8, 007; En vigueur : 01-02-2024&gt;
+
+#### Art. 10
+
+§ 1er. [<sup>2</sup> La personne morale peut exercer la profession d'agent immobilier si elle répond aux conditions suivantes :
+
+1° plus de cinquante pour cent de l'ensemble des membres de l'organe de gestion qui interviennent au nom et pour le compte de la personne morale sont des personnes physiques autorisées à exercer la profession d'agent immobilier et/ou des personnes morales autorisées à exercer la profession d'agent immobilier et dont le représentant permanent au sens de l'article 2:55 du Code des sociétés et des associations est lui-même autorisé à exercer la profession d'agent immobilier ;
+
+2° conformément au Code des sociétés et des associations, son objet mentionne les activités professionnelles relevant de l'exercice de la profession d'agent immobilier ainsi que, le cas échéant, les autres activités pouvant être exercées, lesquelles ne peuvent pas être incompatibles avec l'exercice de la profession d'agent immobilier ;
+
+3° la personne morale ne détient pas de participations dans d'autres sociétés ou personnes morales dont l'objet et/ou les activités sont incompatibles avec la profession d'agent immobilier ;
+
+4° la personne morale est inscrite dans une des colonnes du tableau de l'Institut.]<sup>2</sup>
+
+[<sup>2</sup> § 1er/1. Sans préjudice de l'application de l'article 8, parmi les membres de l'organe de gestion de la personne morale, seules les personnes visées au paragraphe 1er, 1°, ainsi que les associés actifs autorisés à exercer la profession, peuvent, pour l'application de la présente loi, dans le cadre de leur mandat, poser des actes directement en lien avec l'exercice de la profession d'agent immobilier ou représenter la personne morale dans des actes directement en lien avec l'exercice de la profession d'agent immobilier.
+
+Sans préjudice des obligations de la personne morale de respecter les règles de déontologie, ces personnes sont également soumises aux règles de déontologie pour l'exercice de ces actes.]<sup>2</sup>
+
+§ 2. [<sup>2</sup> Si la personne morale n'est pas inscrite au tableau, les membres de l'organe de gestion et les associés actifs assument pleinement la responsabilité civile des actes posés dans le cadre de l'exercice de la profession au sein de la personne morale.
+
+Sans préjudice de l'application de l'article 8, au moins un membre de l'organe de gestion ou un associé actif est inscrit à l'Institut dans la colonne correspondante du tableau ou de la liste ainsi que, s'il s'agit d'une personne morale, son représentant permanent.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2017-09-18/06, art. 179, 002; En vigueur : 16-10-2017&gt;
+
+(2)&lt;L 2023-12-11/20, art. 9, 007; En vigueur : 01-02-2024&gt;
+
+#### Art. 11
+
+Si en raison du décès d'une personne physique visée à l'article 10, § 2, 1°, ou 4°, la personne morale ne répond plus au conditions requises pour exercer la profession d'agent immobilier, celle-ci dispose d'un délai de six mois pour se mettre en conformité avec ces conditions. Durant ce délai, la personne morale peut continuer à exercer la profession d'agent immobilier.
+
+#### Art. 12
+
+[<sup>1</sup> Le stagiaire peut uniquement constituer une personne morale visée à l'article 10, § 1er, ou en être associé ou membre de l'organe de gestion, s'il s'agit d'une personne morale au sein de laquelle il exerce la profession avec son maître de stage ou avec une personne physique inscrite au tableau des agents immobiliers.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-11/20, art. 10, 007; En vigueur : 01-02-2024&gt;
+
+### Section 4. [<sup>1</sup> - Traitement des données à caractère personnel]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-11/20, art. 11, 007; En vigueur : 01-02-2024&gt;
+
+#### Art. 12/1.
+
+[<sup>1</sup> L'Institut traite les données à caractère personnel nécessaires à l'exercice de ses missions conformément au règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE, dénommé ci-après "le règlement général sur la protection des données". L'Institut est le responsable du traitement prévu dans ce règlement.
+
+L'Institut désigne un délégué à la protection des données chargé de la fonction et des missions visées dans le règlement général sur la protection des données.
+
+Dans le cadre de ses missions, et en particulier celle d'identifier et de contacter ses membres et d'assurer la régularité des élections en vérifiant la qualité d'électeur et de candidat, l'Institut peut notamment faire usage du numéro d'identification du registre national ou du numéro d'identification dans la Banque-Carrefour de la sécurité sociale ou, à titre subsidiaire, collecter le nom, le prénom, la date de naissance, l'adresse professionnelle, le domicile et les données de contact de ses membres.
+
+Seuls le nom, le prénom, l'adresse professionnelle, les données de contact professionnelles et le numéro d'inscription au tableau ou à la liste peuvent être publiés en vue d'identifier une personne inscrite à l'Institut.
+
+Les données à caractère personnel traitées par l'Institut peuvent être conservées au maximum dix ans après l'omission de la personne inscrite, sauf si ces données sont liées à la gestion d'un contentieux en cours, et pour autant que ces données soient strictement nécessaires à la gestion de ce contentieux et durant le temps strictement nécessaire à la gestion de ce contentieux.
+
+Le Roi peut déterminer des délais spécifiques de conservation de données sur la base de la finalité et du type de données visées, sans que ces délais ne puissent dépasser le délai maximum visé à l'alinéa 5.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-11/20, art. 12, 007; En vigueur : 01-02-2024&gt;
+
+## CHAPITRE 4. - Disciplinaire
+
+### Section 1er. - Obligations déontologiques
+
+#### Art. 13
+
+Les membres de l'Institut se conforment aux [<sup>1</sup> règles de déontologie]<sup>1</sup> établies par l'Institut et rendues obligatoires par le Roi.
+
+Ces [<sup>1</sup> règles de déontologie]<sup>1</sup> déterminent au moins les obligations suivantes pour les titulaires de la profession :
+
+1° respecter les devoirs de loyauté, d'indépendance, de probité, de diligence et de dignité qui sont à la base de la profession;
+
+2° respecter une obligation de discrétion, à savoir que toute information obtenue par la voie professionnelle ne soit utilisée que dans un cadre professionnel, en tenant compte du droit au respect de la vie privée de tous les intéressés;
+
+3° avoir suivi la formation organisée ou reconnue par l'Institut; il est tenu compte de la colonne du tableau à laquelle est repris le titulaire ou de la colonne de la liste à laquelle est repris le stagiaire;
+
+4° exercer une surveillance suffisante sur les collaborateurs qui assistent les titulaires de la profession dans l'exécution de leur métier. Au moyen d'une [<sup>1</sup> règle de déontologie]<sup>1</sup>, l'Institut peut imposer un nombre minimum de titulaires agréés par siège d'exploitation ou par nombre d'employés;
+
+5° informer immédiatement le client et l'Institut de toute situation de conflit d'intérêt.
+
+----------
+
+(1)&lt;L 2023-12-11/20, art. 13, 007; En vigueur : 01-02-2024&gt;
+
+### Section 2. - Sanctions disciplinaires
+
+#### Art. 14
+
+§ 1er. Les agents immobiliers, dont il est prouvé qu'ils ont manqué à leurs devoirs, sont passibles d'une ou de plusieurs des peines disciplinaires suivantes :
+
+a) l'avertissement;
+
+b) le blâme;
+
+c) la suspension;
+
+d) la radiation.
+
+§ 2. La suspension consiste dans l'interdiction d'exercer pendant un terme fixé, celui-ci ne pouvant excéder deux années, la profession réglementée en Belgique et d'en porter le titre professionnel.
+
+La radiation entraîne l'interdiction d'exercer en Belgique la profession réglementée et d'en porter le titre professionnel et concerne toutes les activités reprises à l'article 2, 4° à 7°.
+
+Un agent immobilier qui encourt pour la seconde fois une peine de suspension peut, en vertu de la même décision, être rayé du tableau ou de la liste des stagiaires.
+
+§ 3. Lorsqu'une peine disciplinaire est imposée à une personne morale, une peine disciplinaire peut également être imposée à la personne physique ou à la personne autorisée à exercer la profession réglementée, dont l'intervention est à l'origine des faits commis par la personne morale qui est sanctionnée disciplinairement.
+
+§ 4. Les Chambres sont compétentes pour statuer sur des poursuites disciplinaires intentées en raison de faits commis avant la décision qui a omis l'agent immobilier de la liste ou du tableau visés à l'article 3 si l'instruction a été entamée par l'assesseur juridique au plus tard un an après cette décision.
+
+§ 5. Le Roi arrête la manière dont ces peines disciplinaires peuvent être prononcées. [<sup>1</sup> Il peut pour ce faire notamment tenir compte de la spécificité des activités définies à l'article 2, 5°, 6° et 7°.]<sup>1</sup> Il fixe également les règles selon lesquelles la réhabilitation pourra éventuellement être accordée.
+
+----------
+
+(1)&lt;L 2023-12-11/20, art. 14, 007; En vigueur : 01-02-2024&gt;
+
+#### Art. 15
+
+L'autorité disciplinaire peut à chaque fois ordonner la publication intégrale ou partielle du prononcé. Elle peut également imposer au membre ou au titulaire de la profession l'obligation de suivre une formation professionnelle supplémentaire dans un délai déterminé.
+
+#### Art. 16
+
+Par dérogation à l'article 9, § 4, de la loi-cadre, pour chaque Chambre exécutive, le ministre nomme pour six ans, parmi les avocats inscrits à un tableau de l'Ordre, un assesseur juridique et un ou plusieurs assesseurs juridiques suppléants, dont les missions d'assistance juridique, d'instruction et de formulation de recommandations sont fixées par le Roi. [<sup>1</sup> Les assesseurs juridiques des chambres exécutives constituent ensemble l'assessorat juridique.]<sup>1</sup>
+
+[<sup>1</sup> Le ministre désigne pour six ans, parmi les avocats inscrits à un tableau de l'Ordre, un assesseur juridique général francophone et un assesseur juridique général néerlandophone, ainsi qu'un ou plusieurs assesseurs juridiques généraux suppléants du même rôle linguistique que l'assesseur juridique général à remplacer, dont les missions d'assistance juridique, d'instruction et de formulation de recommandations sont fixées par le Roi. Ils constituent ensemble l'assessorat juridique général.
+
+La fonction d'assesseur juridique et celle d'assesseur juridique général sont incompatibles.
+
+Nul ne peut exercer plus de deux mandats consécutifs d'assesseur juridique. Le mandat d'assesseur juridique ne peut pas davantage être exercé dans la période de quatre ans suivant la fin du dernier de ces deux mandats. Nul ne peut exercer plus de deux mandats consécutifs d'assesseur juridique général. Le mandat d'assesseur juridique général ne peut pas davantage être exercé dans la période de quatre ans suivant la fin du dernier de ces deux mandats.
+
+Entre la fin du mandat d'assesseur juridique et le début du mandat d'assesseur juridique général, une période d'au moins quatre ans doit s'être écoulée.]<sup>1</sup>
+
+Le ministre peut mettre fin anticipativement au mandat de l'assesseur juridique [<sup>1</sup> et de l'assesseur juridique général]<sup>1</sup> dans les conditions que le Roi détermine.
+
+Sans préjudice des missions qui leur sont imparties par ou en vertu de la présente loi, il est interdit aux assesseurs juridiques [<sup>1</sup> , aux assesseurs juridiques généraux]<sup>1</sup> et à leurs suppléants, sous peine d'être démis d'office de leurs fonctions par le ministre :
+
+\- de plaider devant les Chambres exécutives et d'appel de l'Institut et de conseiller des membres ou candidats membres dans des dossiers traités par ces Chambres ou susceptibles de l'être;
+
+\- de conseiller une personne et de plaider en faveur de celle-ci dans le cadre d'un litige avec Institut;
+
+\- de conseiller et de plaider en faveur de l'Institut;
+
+\- de conseiller ou de plaider en faveur des membres effectifs ou suppléants de la Chambre exécutive et d'appel ou de copropriétés dont ces membres seraient les syndics.
+
+----------
+
+(1)&lt;L 2017-12-21/34, art. 3, 004; En vigueur : 01-02-2018&gt;
+
+#### Art. 17
+
+Toute condamnation pour abus de confiance au sens de l'article 491 du Code pénal entraîne la radiation d'office de l'agent immobilier par la Chambre.
+
+Toute condamnation préalable sur la base de l'article 491 du Code pénal empêche l'exercice de l'activité d'agent immobilier.
+
+En cas de constatation de détournement, la Chambre peut suspendre ou radier de la liste l'agent immobilier.
+
+#### Art. 18
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Les décisions par lesquelles sont imposées une suspension ou une radiation sont transmises au procureur général.
+
+[<sup>1</sup> § 2. Les motifs et le dispositif des décisions disciplinaires des Chambres exécutives et des Chambres d'appel sont transmis dans les 15 jours de la prise de décision au Bureau et à l'assesseur juridique ou à l'assesseur juridique général qui a décidé de faire convoquer l'agent immobilier devant la Chambre exécutive.
+
+Le bureau, l'assesseur juridique et l'assesseur juridique général qui a décidé de faire convoquer l'agent immobilier devant la Chambre exécutive peuvent chacun faire appel des décisions de la Chambre exécutive qui leur sont communiquées sur base de l'alinéa 1er devant la Chambre d'appel dans les 30 jours suivant leur réception.
+
+§ 3. Les Chambres communiquent dans les 15 jours au plaignant le dispositif de la décision coulée en force de chose jugée prise sur la base de sa plainte.
+
+La Chambre peut décider, sur demande expresse du plaignant, que les motifs de la décision lui soient communiqués. La Chambre peut décider de façon motivée et sur la base de motifs sérieux que la consultation du dossier disciplinaire lui soit accordée.
+
+La Chambre peut décider de façon motivée que le dispositif des décisions soit communiqué à des tiers. A l'unanimité des voix, la Chambre peut décider de façon motivée et sur la base de motifs sérieux que les motifs de la décision soient communiqués à des tiers ou que la consultation du dossier disciplinaire leur soit accordée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-12-21/34, art. 4, 004; En vigueur : 01-02-2018&gt;
+
+#### Art. 19
+
+L'autorité disciplinaire peut décider qu'il existe des raisons pour suspendre le prononcé de la sanction disciplinaire à charge, endéans le délai déterminé par elle, qui ne peut cependant dépasser cinq ans. La suspension peut dépendre de l'accomplissement d'un certain nombre de conditions, dont l'obligation de suivre une formation déterminée endéans un délai précis. En cas de non-respect des conditions imposées, l'autorité disciplinaire convoque le membre ou le titulaire de la profession à une audience de l'autorité disciplinaire en vue, soit de prononcer une sanction disciplinaire, soit de révoquer la suspension du prononcé.
+
+L'autorité disciplinaire peut imposer par décision motivée de surseoir à l'exécution de la sanction disciplinaire. La durée du sursis ne peut être inférieure à un an et ne peut être supérieure à cinq ans, à partir de la date de la décision. Le sursis peut dépendre de l'accomplissement d'un certain nombre de conditions, dont l'obligatoire de suivre une formation déterminée endéans un délai précis. En cas de non-respect des conditions imposées, l'autorité disciplinaire convoque le membre ou le titulaire de la profession à une audience de l'autorité disciplinaire en vue soit de prononcer une sanction disciplinaire soit de révoquer le sursis. Le sursis peut également être révoqué lorsqu'une nouvelle sanction disciplinaire est imposée.
+
+#### Art. 20
+
+[<sup>1</sup> § 1er. Après avoir recueilli ou fait recueillir les informations qu'il estime nécessaires, l'assesseur juridique juge de l'opportunité des poursuites disciplinaires.
+
+Il peut convoquer ou faire convoquer les membres de l'Institut devant la Chambre exécutive s'il estime que les faits commis constituent un manquement déontologique suffisamment grave.
+
+Dans le cas contraire, il classe le dossier sans suite. Il peut subordonner ce classement sans suite au respect de certaines conditions par les personnes concernées.
+
+L'assesseur juridique peut assortir ce classement de toute recommandation qu'il juge utile.
+
+§ 2. Lorsque les faits reprochés à un membre ou titulaire de la profession font craindre que l'exercice ultérieur de son activité professionnelle ne soit de nature à causer préjudice à des tiers ou à l'honneur de l'Institut, l'assesseur juridique ou l'assesseur juridique général peuvent chacun prendre les mesures provisoires que la prudence impose telles que l'interdiction temporaire d'exercer la profession. Ces mesures provisoires ne peuvent pas excéder une durée de trois mois.
+
+A la demande de l'assesseur juridique ou de l'assesseur juridique général, la durée des mesures provisoires peut être prorogée par sentence motivée de la Chambre exécutive, d'une durée de maximum six mois après que l'intéressé a été entendu ou convoqué au moins huit jours avant l'audience.
+
+Les mesures provisoires sont communiquées dans les huit jours de la prise de décision par envoi recommandée à l'intéressé. Les mêmes mesures sont transmises dans les huit jours de la prise de décision au Bureau.
+
+§ 3. L'intéressé peut faire appel des mesures provisoires et de la prorogation de la durée des mesures provisoires, exécutoires par provision, auprès de la Chambre d'appel.
+
+Cet appel est interjeté dans les huit jours de la notification de la décision de l'assesseur juridique, de l'assesseur juridique général ou de la Chambre exécutive par envoi recommandé au secrétaire de la Chambre d'appel qui convoque la Chambre dans les 30 jours. Celle-ci prend une décision après que l'intéressé a été entendu ou convoqué au moins huit jours avant l'audience.
+
+§ 4. En cas de décision de classement sans suite de la plainte par l'assesseur juridique, cette décision, dépourvue des éléments ne pouvant être communiqués pour des raisons de protection de la vie privée de l'agent immobilier ou des tiers, est notifiée par envoi recommandé au plaignant et communiquée au bureau, dans les 15 jours de la prise de décision.
+
+Le plaignant et le bureau peuvent chacun adresser à l'assesseur juridique général une demande motivée visant à revoir la décision de l'assesseur juridique de classement sans suite de la plainte dans un délai de 15 jours suivant la notification de cette décision. Sous peine d'irrecevabilité, le plaignant introduit cette demande par envoi recommandé.
+
+La communication de cette décision au plaignant reproduit le texte de l'alinéa 2 du présent paragraphe.
+
+L'assesseur juridique général accuse réception à l'auteur de la demande de révision dans les 15 jours de la réception de la demande et prend une décision dans un délai raisonnable.
+
+En cas de révision de la décision de classement sans suite de l'assesseur juridique, l'assesseur juridique général convoque ou fait convoquer le membre concerné devant la Chambre exécutive compétente.
+
+En cas de décision de classement sans suite de la plainte par l'assesseur juridique général, cette décision, dépourvue des éléments ne pouvant être communiqués pour des raisons de protection de la vie privée de l'agent immobilier ou des tiers, est communiquée à l'auteur de la demande, dans les 15 jours de la prise de décision.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-12-21/34, art. 5, 004; En vigueur : 01-02-2018&gt;
+
+#### Art. 21
+
+[<sup>1</sup> § 1er.Si une ou plusieurs mesures provisoires concernent un syndic ou en cas de décision disciplinaire prononçant une suspension de plus d'un mois sans sursis ou la radiation du tableau ou de la liste des stagiaires d'un syndic, le syndic concerné informe, par envoi recommandé, le président de la dernière assemblée générale de chaque association de copropriétaires gérée par lui dans les 15 jours de la décision coulée en force de chose jugée. L'envoi recommandé indique quelles mesures ont été prises et mentionne pendant quelle période le syndic ne peut plus exercer les activités d'agent immobilier ou qu'il est radié du tableau ou de la liste des stagiaires.
+
+Le syndic fournit dans les 15 jours de l'envoi recommandé visé à l'alinéa 1er la preuve de cet envoi à l'assesseur juridique, l'assesseur juridique général ou la Chambre compétente. Le non-respect par le syndic de l'obligation d'information du président de la dernière assemblée générale de chaque association de copropriétaires gérée par lui visée à l'alinéa 1er est assimilé au port illégal du titre et à l'exercice illégal de la profession tel que prévu à l'article 22.
+
+Si l'activité de syndic est exercée dans le cadre d'une personne morale qui comprend d'autres agents immobiliers inscrits au tableau ou à la liste des stagiaires dans la colonne des agents immobiliers syndics ou qui comprend des titulaires des professions libérales qui peuvent exercer la profession en vertu de l'article 5, § 3, l'assesseur juridique ou l'assesseur juridique général qui a décidé la mesure provisoire ou la chambre exécutive qui a pris la décision disciplinaire peut dispenser le syndic de l'obligation d'information des associations de copropriétaires visée à l'alinéa 1er, pour autant que des mesures d'accompagnement soient proposées par ces agents immobiliers et/ou titulaires pour veiller à la fois à la protection des associations de copropriétaires gérées par le syndic concerné et à leur indemnisation éventuelle en raison des faits litigieux.
+
+§ 2. Sans préjudice de l'article 15, la Chambre exécutive et la Chambre d'appel publient de manière anonyme sur le site Internet de l'Institut les motifs et le dispositif des décisions coulées en force de chose jugée prononçant une peine de suspension ou de radiation pour des faits de détournements ou non remboursements de fonds et/ou de réception de commissionnements occultes et/ou des manquements considérés comme graves par la Chambre concernée ou dont elle estime utile la publication, et ce dans le mois suivant la date où la décision est coulée en force de chose jugée. Ces décisions sont dépourvues des éléments ne pouvant être communiqués pour des raisons de protection de la vie privée de l'agent immobilier visé ou des tiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-12-21/34, art. 6, 004; En vigueur : 01-02-2018&gt;
+
+#### Art. 21/1
+
+[<sup>1</sup> § 1er. Par dérogation à l'article 8, § 3, de la loi-cadre, le Bureau, l'assesseur juridique et l'assesseur juridique général qui a décidé de faire convoquer l'agent immobilier devant la Chambre exécutive peuvent chacun, à la suite des décisions transmises en vertu des articles 18, § 2 et 20, §§ 2 et 4, demander, sur la base de l'article 584 du Code judiciaire, au Président du tribunal de première instance de prendre toutes les mesures conservatoires nécessaires, notamment la désignation d'un administrateur provisoire et le blocage de l'accès de l'agent immobilier aux comptes comprenant l'argent de tiers.
+
+Si la mesure concerne un agent immobilier syndic, l'administrateur provisoire désigné en vertu de l'alinéa 1er remplace l'agent immobilier dans ses missions de syndic de copropriétés, sans préjudice de la désignation d'un syndic provisoire sur base de l'article [<sup>2</sup> 3.89, § 8]<sup>2</sup>, du Code civil.
+
+§ 2. Pour prendre la décision de demander des mesures conservatoires telles que visées au paragraphe 1er, le Bureau se base sur la note de politique de renvoi établie par le Conseil national et approuvée par le ministre qui a les Classes moyennes dans ces attributions.
+
+La demande visée au paragraphe 1er est introduite en vue de défendre l'intérêt collectif des membres de l'Institut et d'éviter toute atteinte à la déontologie de la profession ou d'éviter qu'un préjudice ne soit causé à des tiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-12-21/34, art. 7, 004; En vigueur : 01-02-2018&gt;
+
+(2)&lt;L 2023-12-11/20, art. 15, 007; En vigueur : 01-02-2024&gt;
+
+## CHAPITRE 4/1. [<sup>1</sup> - Fonds de tiers et compte de qualité]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-12-21/34, art. 8, 004; En vigueur : 01-08-2018&gt;
+
+#### Art. 21/2
+
+[<sup>1</sup> § 1er. Tout agent immobilier qui exerce les activités visées à l'article 2, 5° et 7°, établit une distinction entre ses fonds propres et les fonds de tiers.
+
+Les fonds reçus par les agents immobiliers dans l'exercice de leur profession au profit de clients ou de tiers sont versés sur un ou plusieurs comptes ouverts à leur nom ou au nom de leur société, avec mention de leur ou sa qualité. Ce ou ces comptes sont ouverts conformément aux règles à fixer par l'Institut Professionnel des Agents Immobiliers.
+
+L'agent immobilier manie les fonds de clients ou de tiers par l'intermédiaire de ce compte. Il demande toujours aux clients et aux tiers de verser ces fonds exclusivement sur ce compte.
+
+Ce compte est géré exclusivement par l'agent immobilier, sans préjudice des règles complémentaires concernant le maniement de fonds de clients ou de tiers fixées par l'Institut Professionnel des Agents Immobiliers.
+
+§ 2. Les comptes visés au § 1er comprennent les comptes de tiers et les comptes rubriqués.
+
+Le compte de tiers est un compte global sur lequel sont reçus ou gérés des fonds qui doivent être transférés à des clients ou à des tiers.
+
+Le compte rubriqué est un compte individualisé ouvert dans le cadre d'un dossier déterminé ou pour un client déterminé.
+
+§ 3. Le compte de tiers et le compte rubriqué sont des comptes ouverts auprès d'une institution agréée par la Banque nationale de Belgique sur la base de la loi du [<sup>2</sup> 25 avril 2014]<sup>2</sup> relative au statut et au contrôle des établissements de crédit ou auprès de la Caisse des Dépôts et Consignations, et qui répondent au moins aux conditions suivantes :
+
+1° le compte de tiers et le compte rubriqué ne peuvent jamais être en débit;
+
+2° aucun crédit, sous quelque forme que ce soit, ne peut être consenti sur un compte de tiers ou sur un compte rubriqué. Ceux-ci ne peuvent jamais servir de sûreté;
+
+3° toute compensation, fusion, ou stipulation d'unicité de compte entre le compte de tiers, le compte rubriqué et d'autres comptes en banque est exclue. Aucune convention de netting ne peut s'appliquer à ces comptes.
+
+L'Institut Professionnel des Agents Immobiliers peut fixer des règles complémentaires concernant le maniement de fonds de clients ou de tiers.
+
+§ 4. Sauf circonstances exceptionnelles ou, en ce qui concerne l'agent immobilier régisseur, sauf convention contraire, l'agent immobilier transfère à l'ayant-droit dans les plus brefs délais les fonds reçus sur son compte de tiers.
+
+Si, pour des motifs fondés, l'agent immobilier ne peut transférer les fonds à l'ayant-droit dans les quatre mois de leur réception, il les verse sur un compte rubriqué.
+
+Sans préjudice de l'application de règles juridiques impératives, l'alinéa 2 n'est pas d'application lorsque le total des fonds reçus soit pour le compte d'une même personne, soit à l'occasion d'une même opération, soit par dossier, n'excède pas 2500 euros. Le Roi peut adapter tous les deux ans le montant prévu ci-dessus, en tenant compte de la situation économique. Cette adaptation entre en vigueur le 1er janvier de l'année suivant la publication de l'arrêté d'adaptation.
+
+§ 5. Le Roi peut fixer les modalités relatives à la gestion, à l'accès, au contrôle et à la surveillance des comptes visés au § 2.
+
+L'Institut Professionnel des Agents Immobiliers instaure et organise un régime de contrôle déterminant au moins par qui, sur quoi, quand et comment un contrôle est exercé en ce qui concerne le respect des dispositions des §§ 1er à 4, pour ce qui regarde les comptes rubriqués et les comptes de tiers à l'exception des comptes gérés dans le cadre d'un mandat judiciaire. Ce régime de contrôle détermine en particulier les sanctions et mesures pouvant être prises en cas d'infraction. Il ne porte pas préjudice à d'autres dispositions légales qui prévoient un contrôle des fonds reçus sur les comptes visés au § 2.
+
+§ 6. L'agent immobilier verse dans la Caisse des dépôts et consignations l'intégralité des sommes, quel qu'en soit le montant, qui n'ont pas été réclamées par l'ayant droit ou ne lui ont pas été versées dans les deux ans suivant la clôture du dossier dans le cadre duquel elles ont été reçues par l'agent immobilier. Le délai est suspendu tant que ces sommes font l'objet d'une procédure judiciaire.
+
+Ces dépôts sont immatriculés au nom de l'ayant droit ou des ayants droit désignés par l'agent immobilier. La Caisse des dépôts et consignations les tient à la disposition de l'ayant droit ou des ayants droit jusqu'à l'expiration du délai visé à [<sup>2</sup> l'article 22 de la loi du 11 juillet 2018 sur la Caisse des Dépôts et Consignations]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-12-21/34, art. 9, 004; En vigueur : 01-08-2018&gt;
+
+(2)&lt;L 2023-12-11/20, art. 16, 007; En vigueur : 01-02-2024&gt;
+
+## CHAPITRE 5. - Dispositions pénales
+
+#### Art. 22
+
+Sans préjudice de l'application des peines prévues par le Code pénal, sera puni [<sup>1</sup> soit]<sup>1</sup> d'un emprisonnement de huit jours à trois mois et d'une amende [<sup>1</sup> pénale]<sup>1</sup> de 500 euros à 5 000 euros ou d'une de ces peines seulement [<sup>1</sup> , soit d'une amende administrative de 500 à 5.000 euros]<sup>1</sup>:
+
+1° celui qui, sans y être autorisé, se sera attribué publiquement le titre professionnel d'agent immobilier et celui qui aura porté un titre ou aura ajouté à celui qu'il porte une mention pouvant prêter à confusion avec le titre professionnel d'agent immobilier;
+
+2° celui qui aura exercé cette profession sans y être autorisé, ou sans être inscrit au tableau des titulaires ou à la liste des stagiaires;
+
+3° celui qui l'aura pratiquée, alors qu'il faisait l'objet d'une mesure de suspension.
+
+Le tribunal pourra en outre ordonner à titre temporaire ou définitif, la fermeture partielle ou totale des locaux utilisés par celui qui se sera rendu coupable d'une ou des infractions visées ci-dessus.
+
+Les personnes morales qui exercent la profession d'agent immobilier conformément à la présente loi sont civilement responsables du paiement des amendes et de l'exécution des mesures de dédommagement auxquelles leurs organes et préposés ont été condamnés.
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 134, 008; En vigueur : 31-03-2024&gt;
+
+#### Art. 23
+
+Toutes les dispositions du Livre 1er du Code pénal, y compris le chapitre VII et l'article 85, sont applicables aux infractions prévues par la présente loi.
+
+#### Art. 24
+
+Sans préjudice des devoirs incombant aux officiers de police judiciaire, le personnel de la police fédérale, les fonctionnaires et agents des polices locales, ainsi que les fonctionnaires et agents désignés à cet effet par le Roi sur la proposition du ministre, sont chargés de rechercher et de constater par des procès-verbaux les infractions à la présente loi.
+
+[<sup>1</sup> Les procès-verbaux établis par ces agents font foi jusqu'à preuve du contraire. Dans les trente jours qui suivent la constatation de l'infraction, une copie du procès-verbal est notifiée au contrevenant par envoi recommandé avec accusé de réception ou lui est remise en mains propres, dans les formes prévues à l'article XV.2, § 2, du Code de droit économique.]<sup>1</sup>
+
+[<sup>1</sup> La recherche et la constatation des infractions visées aux articles 22 et 25 par les agents visés à l'alinéa 1er ont lieu conformément aux dispositions du livre XV, titre 1er, chapitre 1er, du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 135, 008; En vigueur : 31-03-2024&gt;
+
+#### Art. 24/1.
+
+[<sup>1</sup> § 1er. Lorsqu'ils constatent des infractions visées aux articles 22 et 25, les agents visés à l'article 24, alinéa 1er, peuvent adresser au contrevenant un avertissement le mettant en demeure de mettre fin à cet acte, conformément à l'article XV.31 du Code de droit économique.
+
+§ 2. Lorsque les agents visés à l'article 24, alinéa 1er constatent des infractions visées aux articles 22 et 25, les agents désignés par le ministre qui a les Classes moyennes dans ses attributions peuvent proposer une somme, dont le paiement volontaire par l'auteur de l'infraction éteint l'action publique, conformément à l'article XV.61 du Code de droit économique.
+
+Le montant de la transaction ne peut être supérieur au montant maximum de l'amende pénale pouvant être infligée pour l'infraction constatée, majorée des décimes additionnels.
+
+Les modalités de paiement et de perception de cette transaction sont arrêtées par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 136, 008; En vigueur : 31-03-2024&gt;
+
+#### Art. 24/2.
+
+[<sup>1</sup> § 1er. Les infractions visées aux articles 22 et 25 recherchées et constatées par les agents visés à l'article 24, alinéa 1er, peuvent faire l'objet de:
+
+1° l'application de la procédure de transaction telle que visée à l'article 24/1, § 2;
+
+2° une poursuite administrative en application de la procédure visée au titre 1/2 du livre XV du Code de droit économique;
+
+3° une poursuite pénale.
+
+§ 2. La poursuite se fait conformément au titre 1/1 du livre XV du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 137, 008; En vigueur : 31-03-2024&gt;
+
+#### Art. 24/3.
+
+[<sup>1</sup> Le ministère public notifie aux agents compétents visés à l'article XV.60/4 du Code de droit économique sa décision d'intenter ou non les poursuites pénales ou de proposer ou non une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du même Code.
+
+Lorsque le ministère public renonce à intenter les poursuites pénales et à proposer une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du même Code, ou si le ministère public n'a pas pris de décision dans un délai de trois mois à compter du jour de la réception du procès-verbal consignant l'infraction, les agents compétents visés à l'article XV.60/4 du Code de droit économique décident s'il y a lieu d'entamer la procédure d'amende administrative.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 138, 008; En vigueur : 31-03-2024&gt;
+
+#### Art. 24/4.
+
+[<sup>1</sup> Si le ministère public renonce à intenter les poursuites pénales et à proposer une transaction visée à l'article 216ter du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du Code d'instruction criminelle, il envoie une copie des pièces de procédure de l'enquête complémentaire aux agents compétents visés à l'article XV.60/4 du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 139, 008; En vigueur : 31-03-2024&gt;
+
+#### Art. 24/5.
+
+[<sup>1</sup> Les dispositions du titre 2, chapitre 1/1, du livre XV du Code de droit économique sont applicables aux amendes administratives visées par la présente loi.
+
+Les décimes additionnels visés à l'article 1er, alinéa 1er, de la loi du 5 mars 1952 relative aux décimes additionnels sur les amendes pénales sont également applicables aux amendes administratives visées dans la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 140, 008; En vigueur : 31-03-2024&gt;
+
+#### Art. 24/6.
+
+[<sup>1</sup> Les articles XV.71, XV.72, XV.73 et XV.74 du Code de droit économique sont applicables aux infractions pénales visées aux articles 22 et 25.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 141, 008; En vigueur : 31-03-2024&gt;
+
+#### Art. 25
+
+Les personnes auxquelles la présente loi s'applique sont tenus de fournir tous les renseignements et documents nécessaires pour en vérifier l'application.
+
+Sera puni [<sup>1</sup> soit]<sup>1</sup> d'un emprisonnement de huit à quinze jours et d'une amende [<sup>1</sup> pénale]<sup>1</sup> de 500 euros à 5 000 euros ou d'une de ces peines seulement, [<sup>1</sup> soit d'une amende administrative de 500 à 5.000 euros,]<sup>1</sup> celui qui refusera de fournir les renseignements et documents visés à l'alinéa précédent ou qui s'opposera aux mesures de contrôle.
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 142, 008; En vigueur : 31-03-2024&gt;
+
+#### Art. 26
+
+Les délais mentionnés dans la présente loi se calculent conformément aux articles 48 à 57 du Code judiciaire.
+
+## CHAPITRE 6. - Disposition transitoire
+
+#### Art. 27
+
+Les arrêtés d'exécution de la loi-cadre qui s'appliquent à l'Institut et qui ne sont pas contraires à la présente loi, demeurent en vigueur jusqu'à leur abrogation ou leur remplacement par des arrêtés pris en exécution de la présente loi.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Châteauneuf-de-Grasse, le 11 février 2013.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre des Classes moyennes, des P.M.E. et des Indépendants,
+
+Mme S. LARUELLE
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

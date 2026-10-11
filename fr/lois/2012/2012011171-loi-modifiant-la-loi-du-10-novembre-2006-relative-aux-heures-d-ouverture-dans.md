@@ -1,0 +1,56 @@
+---
+title: "Loi modifiant la loi du 10 novembre 2006 relative aux heures d'ouverture dans le commerce, l'artisanat et les services en ce qui concerne les dérogations autorisées"
+identifier: "2012011171"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2012/04/11/2012011171/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2012-04-11
+published: 2012-04-27
+entry_into_force: 2012-05-07
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2012/04/11/2012011171/justel"
+department: "Economie, PME, Classes moyennes et Energie"
+retrieved: 2026-10-11
+---
+
+# 11 AVRIL 2012. - Loi modifiant la loi du 10 novembre 2006 relative aux heures d'ouverture dans le commerce, l'artisanat et les services en ce qui concerne les dérogations autorisées
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Dans l'article 16, § 2, de la loi du 10 novembre 2006 relative aux heures d'ouverture dans le commerce, l'artisanat et les services, les modifications suivantes sont apportées :
+
+1° dans la phrase introductive de l'alinéa 1er, les mots " des produits " sont remplacés par les mots " d'un des groupes de produits ";
+
+2° dans l'alinéa 2, les mots " , à l'extérieur de l'unité d'établissement, il est uniquement fait référence à cette activité, qu'il est uniquement fait de la publicité pour cette activité, que le choix des autres produits est limité et que " sont supprimés;
+
+3° dans l'alinéa 2, les mots " du produit ou des produits constituant l'activité principale, " sont remplacés par les mots " du groupe de produits constituant l'activité principale ".
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Châteauneuf-de-Grasse, le 11 avril 2012.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre des Classes moyennes, des P.M.E., des Indépendants et de l'Agriculture,
+
+Mme S. LARUELLE
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

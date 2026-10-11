@@ -1,0 +1,60 @@
+---
+title: "Loi portant exécution de Conventions internationales diverses en matière de responsabilité civile pour la pollution par les navires, concernant des matières visées à l'article 77 de la Constitution"
+identifier: "2013014096"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2013/01/10/2013014096/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2013-01-10
+published: 2013-04-26
+entry_into_force: 2013-05-06
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2013/01/10/2013014096/justel"
+department: "Mobilité et Transports"
+retrieved: 2026-10-11
+---
+
+# 10 JANVIER 2013. - Loi portant exécution de Conventions internationales diverses en matière de responsabilité civile pour la pollution par les navires, concernant des matières visées à l'article 77 de la Constitution
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+Dans le premier alinéa de l'article 569 du Code judiciaire, modifié par la loi du 11 avril 1989, le 21° est remplacé par ce qui suit :
+
+" 21° des demandes d'indemnisation fondées sur base de la Convention internationale de 1992 sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures et tenant compte des dispositions du paragraphe 1er de l'article IX de cette convention; lorsque par suite d'un même évènement des dommages par pollution sont survenus partiellement sur le territoire national, y compris la mer territoriale, ou la zone économique exclusive belge et partiellement sur le territoire, y compris la mer territoriale, ou une zone visée à l'article II, a), ii) de la Convention susmentionnée d'un autre Etat, le tribunal est compétent pour connaître des actions en réparation de dommages par pollution survenus dans ce dernier Etat à condition que le fonds de limitation opposé aux créances qui forment l'objet de l'action soit constitué par le défenseur auprès de ce tribunal et que le demandeur renonce d'intenter au même défendeur une action en réparation de dommages causés par ledit événement devant une juridiction de tout autre Etat ou se désiste de cette action; ".
+
+## Art. 3
+
+L'article 2 de la loi du 20 juillet 1976 portant approbation et exécution de la Convention internationale sur la responsabilité civile pour les dommages dus à la pollution par les hydrocarbures, et de l'annexe, faites à Bruxelles le 29 novembre 1969, est abrogé.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 10 janvier 2013.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Mer du Nord,
+
+J. VANDE LANOTTE
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM
+
+Scellé du Sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

@@ -1,0 +1,88 @@
+---
+title: "Loi modifiant le Code des sociétés et la loi du 17 juillet 1975 relative à la comptabilité des entreprises"
+identifier: "2012011123"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2012/03/22/2012011123/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2012-03-22
+published: 2012-04-12
+entry_into_force: 2012-04-22
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2012/03/22/2012011123/justel"
+department: "Economie, PME, Classes moyennes et Energie"
+retrieved: 2026-10-11
+---
+
+# 22 MARS 2012. - Loi modifiant le Code des sociétés et la loi du 17 juillet 1975 relative à la comptabilité des entreprises
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+La présente loi transpose l'article 2 de la Directive 2009/49/CE du Parlement européen et du Conseil du 18 juin 2009 modifiant les Directives 78/660/CEE et 83/349/CEE du Conseil en ce qui concerne certaines obligations de publicité pour les sociétés de taille moyenne et l'obligation d'établir des comptes consolidés.
+
+## Art. 3
+
+L'article 110 du Code des sociétés modifié par la loi du 23 janvier 2001, est complété par un alinéa rédigé comme suit :
+
+" Une société mère qui ne possède que des entreprises filiales qui eu égard à l'évaluation du patrimoine consolidé, de la position financière consolidée ou du résultat consolidé, ne présentent tant individuellement que collectivement qu'un intérêt négligeable, est exemptée de l'obligation prévue à l'alinéa 1er. "
+
+## Art. 4
+
+A l'article 125, § 1er, du même Code, les modifications suivantes sont apportées :
+
+1° dans l'alinéa 1er, les mots " ou son délégué " sont insérés entre les mots " Le Ministre qui a les Affaires économiques dans ses attributions " et les mots " peut autoriser ";
+
+2° dans l'alinéa 2, les mots " ou son délégué " sont insérés entre les mots " le Ministre qui a les Classes moyennes dans ses attributions " et les mots " , en ce qui concerne les petites sociétés. ";
+
+3° l'alinéa 3 est complété par les mots " ou de son délégué ".
+
+## Art. 5
+
+A l'article 14 de la loi du 17 juillet 1975 relative à la comptabilité des entreprises, renuméroté et modifié par la loi du 7 mai 1999, et modifié par la loi du 23 janvier 2001, les modifications suivantes sont apportées :
+
+1° dans la première phrase, les mots " ou son délégué " sont insérés entre les mots " Le Ministre des Affaires économiques " et les mots " peut autoriser ";
+
+2° dans la deuxième phrase, les mots " ou par son délégué " sont insérés entre les mots " le Ministre des Classes moyennes " et les mots " en ce qui concerne ";
+
+3° la troisième phrase est complétée par les mots " ou de son délégué ".
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 22 mars 2012.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre des Finances,
+
+S. VANACKERE
+
+Le Vice-Premier Ministre et Ministre de l'Economie,
+
+J. VANDE LANOTTE
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM
+
+La Ministre des P.M.E.,
+
+Mme S. LARUELLE
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

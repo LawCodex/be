@@ -1,0 +1,62 @@
+---
+title: "Loi modifiant le Code de la taxe sur la valeur ajoutée (II)"
+identifier: "2012003382"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/17/2012003382/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2012-12-17
+published: 2012-12-21
+entry_into_force: 2013-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2012/12/17/2012003382/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 17 DECEMBRE 2012. - Loi modifiant le Code de la taxe sur la valeur ajoutée (II)
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+La présente loi transpose l'article 4 de la Directive 2008/8/CE du Conseil du 12 février 2008 modifiant la Directive 2006/112/CE en ce qui concerne le lieu des prestations de services.
+
+## Art. 3
+
+Dans l'article 21bis, § 2, du Code de la taxe sur la valeur ajoutée, inséré par la loi du 26 novembre 2009 et modifié par la loi du 29 décembre 2010, sont insérés les 7° bis et 7° ter rédigés comme suit :
+
+"7° bis à l'endroit où le preneur de services est établi ou a son domicile ou sa résidence habituelle lorsque la prestation a pour objet une location autre que de courte durée d'un moyen de transport;
+
+7° ter par dérogation au 7° bis, lorsque le moyen de transport est un bateau de plaisance, à l'endroit où le bateau est effectivement mis à la disposition du preneur lorsque la prestation de location autre que de courte durée est effectivement fournie par le prestataire à partir du siège de son activité économique ou d'un établissement stable situé à l'endroit de la mise à disposition effective du bien au preneur;".
+
+## Art. 4
+
+La présente loi entre en vigueur le 1er janvier 2013.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 17 décembre 2012.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre des Finances,
+
+S. VANACKERE
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

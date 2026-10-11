@@ -1,0 +1,62 @@
+---
+title: "Loi visant à modifier l'article 433quinquies du Code pénal en vue de clarifier et d'étendre la définition de la traite des êtres humains"
+identifier: "2013009352"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2013/04/29/2013009352/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2013-04-29
+published: 2013-07-23
+entry_into_force: 2013-08-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2013/04/29/2013009352/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 29 AVRIL 2013. - Loi visant à modifier l'article 433quinquies du Code pénal en vue de clarifier et d'étendre la définition de la traite des êtres humains
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Dans l'article 433quinquies, § 1er, du Code pénal, inséré par la loi du 10 août 2005, l'alinéa 1er est remplacé par ce qui suit :
+
+" Constitue l'infraction de traite des êtres humains le fait de recruter, de transporter, de transférer, d'héberger, d'accueillir une personne, de prendre ou de transférer le contrôle exercé sur elle :
+
+1° à des fins d'exploitation de la prostitution ou d'autres formes d'exploitation sexuelle;
+
+2° à des fins d'exploitation de la mendicité;
+
+3° à des fins de travail ou de services, dans des conditions contraires à la dignité humaine;
+
+4° à des fins de prélèvement d'organes en violation de la loi du 13 juin 1986 sur le prélèvement et la transplantation d'organes, ou de matériel corporel humain en violation de la loi du 19 décembre 2008 relative à l'obtention et à l'utilisation de matériel corporel humain destiné à des applications médicales humaines ou à des fins de recherche scientifique;
+
+5° ou afin de faire commettre par cette personne un crime ou un délit, contre son gré. ".
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 29 avril 2013.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

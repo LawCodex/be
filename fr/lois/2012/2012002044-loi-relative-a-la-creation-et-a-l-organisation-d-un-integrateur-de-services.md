@@ -1,0 +1,681 @@
+---
+title: "Loi relative à la création et à l'organisation d'un intégrateur de services fédéral"
+identifier: "2012002044"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/15/2012002044/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2012-08-15
+published: 2012-08-29
+last_amended: 2024-05-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2012/08/15/2012002044/justel"
+department: "Technologie de l'information et de la communication"
+justel_note: "Consultation des versions antérieures à partir du 29-08-2012 et mise à jour au 31-05-2024"
+retrieved: 2026-10-11
+---
+
+# 15 AOUT 2012. - Loi relative à la création et à l'organisation d'un intégrateur de services fédéral
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions générales
+
+#### Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+#### Art. 2
+
+Pour l'application de la présente loi, on entend par :
+
+1° " intégrateur de services " : une institution qui, par ou en vertu d'une loi, est chargée de l'intégration de services à un niveau de pouvoir ou dans un secteur déterminé;
+
+2° " intégration de services " : l'organisation d'échanges mutuels de données électroniques entre instances et la mise à disposition intégrée de ces données;
+
+3° " donnée " : information électronique présentée de manière appropriée au traitement au sens de la présente loi;
+
+4° " banque de données " : ensemble ordonné de données;
+
+5° " donnée authentique " : donnée récoltée et gérée par une instance dans une base de données et qui fait foi comme donnée unique et originale concernant la personne ou le fait de droit concerné, de sorte que d'autres instances ne doivent plus collecter cette même donnée;
+
+6° " source authentique " : banque de données dans laquelle sont conservées des données authentiques;
+
+7° " personne " : une personne physique, une personne morale ou une association, dotée ou non de la personnalité juridique;
+
+8° " réseau " : l'ensemble des banques de données, sources authentiques, systèmes informatiques et connexions réseau des [<sup>1</sup> utilisateurs]<sup>1</sup> et de l'intégrateur de services fédéral qui sont interconnectés par le biais de l'intégrateur de services fédéral;
+
+9° [<sup>1</sup> ...]<sup>1</sup>
+
+10° [<sup>1</sup> "utilisateurs": tous les organismes et personnes énumérés ci-dessous, à l'exception de ceux visés à l'alinéa 2:
+
+a) les services publics fédéraux et les services publics fédéraux de programmation ainsi que les services qui en dépendent visés à l'article 1er, 1°, de la loi du 22 juillet 1993 portant certaines mesures en matière de fonction publique;
+
+b) les services appartenant à la Défense;
+
+c) les services visés à l'article 2, 2° et 3°, de la loi du 7 décembre 1998 organisant un service de police intégré structuré à deux niveaux, le Comité permanent de contrôle des services de police, le Comité permanent de contrôle des services de renseignements et de sécurité, l'Organe de coordination pour l'analyse de la menace;
+
+d) le pouvoir judiciaire, y compris les services d'assistance à ses membres;
+
+e) les personnes morales de droit public visées à l'article 1er, 3°, de la loi du 22 juillet 1993 portant certaines mesures en matière de fonction publique;
+
+f) les personnes physiques ou morales auxquelles des missions de service public ou d'intérêt général sont confiées par la loi et qui ne relèvent pas de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques;
+
+g) toute personne et autorité qui, selon la réglementation fédérale ou européenne et selon les conditions attachées aux données des sources authentiques ou des banques de données des utilisateurs visés aux a) à f), est habilitée à consulter ou à recevoir ces données;]<sup>1</sup>
+
+11° " intégrateur de services fédéral " : l'intégrateur de services qui a pour tâche de simplifier et d'optimiser les échanges de données mutuels entre les [<sup>1</sup> utilisateurs]<sup>1</sup> d'une part, et les échanges de données entre les [<sup>1</sup> utilisateurs]<sup>1</sup> et les autres intégrateurs de services d'autre part;
+
+[<sup>1</sup> 12° "registre intégré des activités de traitement": une copie intégrée du contenu des registres visés à l'article 30 du règlement (UE) 2016/679 du 27 avril 2016 du Parlement européen et du Conseil relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) et détenus par les utilisateurs visés au 10°, a) à f), composée et rendue accessible au public par l'intégrateur de services fédéral;
+
+13° "registre des sources authentiques": registre contenant la liste des sources authentiques mises à disposition par les utilisateurs visés au 10°, a) à f), la description des données qu'elles comportent et la référence à la législation applicable, composé et rendu accessible au public par l'intégrateur de services fédéral;
+
+14° "portail fédéral de données ouvertes": portail fédéral qui donne un aperçu des documents et des données mis à disposition en vue de leur réutilisation telle que visée par la loi du 4 mai 2016 relative à aux données ouvertes et la réutilisation des informations du secteur public et par le règlement (UE) 2022/868 du Parlement européen et du Conseil du 30 mai 2022 portant sur la gouvernance européenne des données et modifiant le règlement (UE) 2018/1724 et qui renvoie aux sites web de données ouvertes des entités fédérées, des autorités locales et de l'Europe;
+
+15° "intégration": le processus dans lequel les données provenant de différentes banques de données sont fusionnées;
+
+16° "agrégation": le processus dans lequel les données sont transformées en données calculées ou agrégées, par exemple en regroupant les données sous-jacentes, en calculant la moyenne ou la somme;
+
+17° "transformation": le processus dans lequel les données sont converties d'un format à un autre et d'une forme à une autre;
+
+18° "enrichissement": le processus dans lequel les données sont enrichies en améliorant ou en mettant à jour les données existantes ou en ajoutant de nouvelles données;
+
+19° "filtrage": le processus dans lequel seule une partie des données est transmise aux utilisateurs;
+
+20° "anonymisation": le traitement de données à caractère personnel de telle sorte à ce que les données à caractère personnel ne puissent plus jamais être reliées à une personne physique identifiée ou identifiable;
+
+21° "pseudonymisation": le traitement de données à caractère personnel de telle sorte que les données à caractère personnel ne puissent plus être liées à une personne concernée spécifique sans l'utilisation de données supplémentaires, à condition que ces données supplémentaires soient conservées séparément et que des mesures techniques et organisationnelles soient prises pour garantir que les données à caractère personnel ne soient pas liées à une personne physique identifiée ou identifiable;
+
+22° "généralisation": le processus de généralisation des données à caractère personnel en les rendant moins spécifiques, de sorte qu'il devient plus difficile d'établir un lien entre les données et une personne;
+
+23° "randomisation": le processus d'altérer la véracité de données à caractère personnel dans le but de séparer ces données de la personne, de sorte qu'elles soient arbitraires et difficiles à rattacher à une personne spécifique.]<sup>1</sup>
+
+[<sup>1</sup> Ne sont pas des utilisateurs visés à l'alinéa 1er, 10° :
+
+a) les services publics fédéraux en charge de la Sécurité sociale, de la Santé publique, de la Sécurité de la chaîne alimentaire, de l'Environnement, de l'Emploi, du Travail et de la Concertation sociale, ainsi que les services publics de programmation dépendant de ces services publics fédéraux;
+
+b) les institutions publiques de sécurité sociale au sens de l'arrêté royal du 3 avril 1997 portant des mesures en vue de la responsabilisation des institutions publiques de sécurité sociale, en application de l'article 47 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions, les institutions de sécurité sociale visées à l'article 2, alinéa 1er, 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-Carrefour de la sécurité sociale, ainsi que les institutions auxquelles certains droits et obligations ont été étendus en vertu de l'article 18 de la loi précitée du 15 janvier 1990;
+
+c) l'intégrateur de services fédéral.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 2, 006; En vigueur : 31-05-2024&gt;
+
+## CHAPITRE 2. - Intégrateur de services fédéral
+
+### Section 1re. - Création de l'intégrateur de services fédéral
+
+#### Art. 3
+
+Le Service public fédéral en charge de la [<sup>1</sup> Digitalisation]<sup>1</sup> remplit la mission d'intégrateur de services fédéral.
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 3, 006; En vigueur : 31-05-2024&gt;
+
+### Section 2. - Missions de l'intégrateur de services fédéral [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 4, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 4
+
+[<sup>1</sup> L'intégrateur des services fédéral a les missions suivantes, il]<sup>1</sup> :
+
+1\. [<sup>1</sup> reçoit, conserve temporairement dans le seul but d'une mise à disposition fiable et donne suite aux demandes de consultation et de communication des données enregistrées dans une ou plusieurs banques de données ou procède à leur communication intégrée et à l'attestation de ces données;]<sup>1</sup>
+
+2\. élabore les modes de contrôle technique et organisationnel par l'intégrateur de services fédéral des droits d'accès aux banques de données;
+
+3\. promeut et veille à l'homogénéité des droits d'accès aux banques de données;
+
+4\. [<sup>1</sup> élabore les modalités techniques et les conditions visant à développer, connecter et mettre à disposition les canaux d'accès aux banques de données, y compris les services web, les applications mobiles, le portefeuille européen d'identité numérique et les portails en ligne, de la manière la plus efficace et la plus sûre possible;]<sup>1</sup>
+
+5\. élabore les modalités techniques [<sup>1</sup> et les conditions]<sup>1</sup> relatives à la communication entre les banques de données ou les sources authentiques et le réseau;
+
+6\. promeut une politique de sécurité coordonnée pour le réseau;
+
+7\. promeut et encadre le remodelage de banques de données en sources authentiques;
+
+8\. [<sup>1</sup> développe et met à disposition des services réutilisables utiles pour l'intégration, l'agrégation, la transformation, l'enrichissement, le filtrage, l'anonymisation, la pseudonymisation, la généralisation, la suppression, la randomisation, la conservation sécurisée, la mise à disposition et l'échange de données conservées dans les banques de données;]<sup>1</sup>
+
+[<sup>1</sup> 9. compose et met à la disposition du public le registre des sources authentiques, le registre intégré des activités de traitement et le portail fédéral de données ouvertes;
+
+10\. développe et met à disposition des services de connexion électronique pour les applications publiques au sein du service d'authentification, conformément à l'article 9 de la loi du 18 juillet 2017 relative à l'identification électronique, et des applications et systèmes nécessaires au fonctionnement de ce service d'authentification et des systèmes d'identification prévus par le règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE;
+
+11\. développe et met à disposition les applications et des systèmes d'échange de données pour atteindre les objectifs visés aux articles 6 et 14 du règlement (UE) 2018/1724 du Parlement européen et du Conseil établissant un portail numérique unique pour donner accès à des informations, à des procédures et à des services d'assistance et de résolution de problèmes, et modifiant le règlement (UE) n° 1024/2012;
+
+12\. développe, teste, maintient, corrige et met à disposition les applications et systèmes afin de réaliser les missions précédentes et traite les données des banques de données nécessaires à cet effet;
+
+13\. remplit les rôles de point central d'information et d'organisme compétent pour l'assistance technique visés respectivement dans les articles 8 et 7 du règlement (UE) 2022/868 du Parlement européen et du Conseil du 30 mai 2022 portant sur la gouvernance européenne des données et modifiant le règlement (UE) 2018/1724. Pour autant que ce soit nécessaire pour remplir ces rôles, l'intégrateur de services fédéral peut conclure des protocoles de coopération;
+
+14\. développe et met à disposition un portefeuille européen d'identité numérique visé à l'article 3, point 42, du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 relatif à l'identification électronique et aux services de confiance pour les transactions électroniques dans le marché intérieur et abrogeant la directive 1999/93/CE, modifiée par le règlement (UE) 2024/1183 du Parlement européen et du Conseil du 11 avril 2024 modifiant le règlement (UE) no 910/2014 en ce qui concerne l'établissement du cadre européen relatif à une identité numérique, et par l'intermédiaire du portefeuille européen d'identité numérique, afin de donner accès aux données contenues dans les banques de données et d'attester les données;
+
+15\. échange des données avec les autres intégrateurs de services qui organisent les processus d'intégration des données et donnent accès de manière intégrée aux données dans leur propre réseau;
+
+16\. développe et fournit des moyens techniques et de services aux utilisateurs visés à l'article 2, alinéa 1er, 10°, a) à f), sans préjudice de leur responsabilité en tant que responsables de traitement des banques de données et des sources authentiques, permettant aux personnes concernées d'exercer leurs droits visés aux articles 15 et 16 du règlement (UE) 2016/679 du 27 avril 2016 du Parlement européen et du Conseil relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données), vis-à-vis des responsables de traitement des banques de données et des sources authentiques.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 5, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 5
+
+§ 1er. Pour l'exécution de sa mission, l'intégrateur de services fédéral a le droit d'utiliser le numéro d'identification des personnes physiques enregistrées au Registre national.
+
+§ 2. [<sup>1</sup> Les modalités d'intervention de l'intégrateur de services fédéral sont fixées dans une convention d'utilisation entre l'intégrateur de services fédéral et les utilisateurs visés à l'article 2, alinéa 1er, 10°, a) à f), et dans des conditions d'utilisation à l'égard des utilisateurs visés à l'article 2, alinéa 1er, 10°, g).
+
+En concluant une convention d'utilisation ou en imposant des conditions d'utilisation, l'intégrateur de services fédéral et l'utilisateur sont dispensés de conclure un protocole tel que visé à l'article 20 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 6, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 6
+
+&lt;Abrogé par L 2024-05-13/03, art. 7, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 7
+
+&lt;Abrogé par L 2024-05-13/03, art. 8, 006; En vigueur : 31-05-2024&gt;
+
+## CHAPITRE 3. - Fonctionnement de l'intégrateur de services fédéral
+
+#### Art. 8
+
+§ 1er. [<sup>2</sup> Sans préjudice de toute législation spécifique contraire, les utilisateurs visés à l'article 2, alinéa 1er, 10°, a) à f), et les autres intégrateurs de services]<sup>2</sup> communiquent par voie électronique à l'intégrateur de services fédéral toute donnée électronique disponible dont celui-ci a besoin pour l'exécution de [<sup>2</sup> ses missions visées à l'article 4]<sup>2</sup>.
+
+§ 2. L'intégrateur de services fédéral communique par voie électronique aux [<sup>2</sup> utilisateurs visés à l'article 2, alinéa 1er, 10°, a) à f),]<sup>2</sup> et aux autres intégrateurs de services toute donnée électronique disponible dont ils ont besoin pour l'exécution de leurs missions, pour autant [<sup>2</sup> qu'ils se conforment aux conditions légales applicables]<sup>2</sup>.
+
+[<sup>2</sup> L'intégrateur de services fédéral communique par voie électronique aux utilisateurs visés à l'article 2, alinéa 1er, 10°, g), toutes les données électroniques disponibles auxquelles ils ont droit dans la mesure où le service concerné est disponible.
+
+Si la communication de données à caractère personnel entre utilisateurs dans les conditions légales applicables nécessite un accord ou une autorisation d'une autorité compétente, l'intégrateur de services fédéral communique les données à caractère personnel demandées dans la mesure où un accord ou une autorisation existe, même si l'échange par le biais de l'intégrateur de services fédéral n'y est pas explicitement prévu.]<sup>2</sup>
+
+[<sup>1</sup> § 3. Les [<sup>2</sup> utilisateurs visés à l'article 2, alinéa 1er, 10°, a) à f),]<sup>2</sup> collectent, [<sup>2</sup> après avoir rempli les conditions légales applicables]<sup>2</sup>, les données électroniques disponibles qui sont offertes par l'intégrateur de services fédéral auprès de ce dernier.
+
+Les [<sup>2</sup> utilisateurs visés à l'article 2, alinéa 1er, 10°, a) à f),]<sup>2</sup> ne recueillent plus les données dont ils disposent en exécution de l'alinéa 1er auprès de l'intéressé, ni auprès de son mandataire ou de son représentant légal.
+
+Les [<sup>2</sup> utilisateurs visés à l'article 2, alinéa 1er, 10°, a) à f),]<sup>2</sup> qui disposent d'un accès direct auprès d'une source authentique réutilisent les données disponibles dans cette source et ne peuvent plus les demander à l'intéressé, ni à son mandataire ou à son représentant légal.
+
+§ 4. Dès que l'intéressé, son mandataire ou son représentant légal remarque qu'[<sup>2</sup> un utilisateur visé à l'article 2, alinéa 1er, 10°, a) à f),]<sup>2</sup> dispose de données incomplètes ou incorrectes, il signale, dans les meilleurs délais, les corrections ou compléments nécessaires [<sup>2</sup> à l'utilisateur concerné]<sup>2</sup> ou à l'intégrateur de services fédéral.
+
+§ 5. L'application des dispositions du présent article ne peut, en aucune hypothèse, nonobstant l'application des règles en vigueur en matière de prescription et d'interruption, donner lieu au non-recouvrement auprès du citoyen ou de l'entreprise de droits ou d'allocations indûment perçus qui sont basés sur des données incomplètes ou incorrectes ou au non-paiement par le citoyen ou l'entreprise de montants dus qui sont basés sur des données incomplètes ou incorrectes.]<sup>1</sup>
+
+[<sup>2</sup> § 6. L'intégrateur de services fédéral a accès à toutes les données du Registre national, du Registre des cartes d'identité et du Registre des cartes d'étranger, y compris la photo, dans le cadre de l'exécution de ses missions telles que définies à l'article 4.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2014-05-05/06, art. 13, 003; En vigueur : 14-06-2014&gt;
+
+(2)&lt;L 2024-05-13/03, art. 9, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 9
+
+[<sup>1</sup> A chaque requête de consultation ou de communication, l'intégrateur de services fédéral vérifie, en concertation avec l'utilisateur visé à l'article 2, alinéa 1er, 10°, a) à f), qui met à disposition des données, avant de donner suite à la demande, si le demandeur utilisateur et la requête concernée sont conformes aux règles de la banque de données concernée, à la source authentique ou aux règles applicables aux systèmes gérés par l'intégrateur de services fédéral dans le cadre de ses missions telles que définies à l'article 4.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 10, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 10
+
+L'intégrateur de services fédéral prévoit les moyens techniques menant à l'intégration de données sur la base de données figurant dans une ou plusieurs sources authentiques.
+
+#### Art. 11
+
+L'intégrateur de services fédéral prévoit des moyens techniques appropriés permettant à un demandeur de consulter ou de se voir communiquer, au nom ou pour le compte d'une autre personne, des données par le biais de l'intégrateur de services fédéral.
+
+#### Art. 12
+
+[<sup>1</sup> § 1er. Les données communiquées par le biais de l'intégrateur de services fédéral bénéficient de la force probante jusqu'à preuve du contraire, indépendamment du support sur lequel la communication s'opère. Cette disposition s'applique également lorsque l'intégrateur de services fédéral met à disposition les données de banques de données ou de sources authentiques en délivrant une attestation telle que prévue à l'article 4, 1., à un utilisateur visé à l'article 2, alinéa 1er, 10°, g).
+
+§ 2. Lorsqu'une attestation délivrée conformément au paragraphe 1er correspond à une attestation sur support papier délivrée par un utilisateur visé à l'article 2, alinéa 1er, 10°, cette attestation a force probante jusqu'à preuve du contraire et produit alors les mêmes effets juridiques que les attestations sur support papier délivrées légalement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 11, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 13
+
+[<sup>1</sup> Sauf dispositions légales contraires, l'intégrateur de services fédéral ne confère aux personnes ou aux utilisateurs aucun droit complémentaire relatif à la consultation, à la communication ou à tout autre traitement de données en sus des dispositions légales applicables.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 12, 006; En vigueur : 31-05-2024&gt;
+
+## CHAPITRE 4. - Protection des données dans le cadre de l'intégration de services
+
+### Section 1re. - Sécurisation des données
+
+#### Art. 14
+
+[<sup>1</sup> Pour chaque échange de données par l'intermédiaire de l'intégrateur de services fédéral, sont fixés entre l'utilisateur visé à l'article 2, alinéa 1er, 10°, a) à f), et l'intégrateur de services fédéral dans la convention d'utilisation visée à l'article 5, § 2]<sup>1</sup> :
+
+1\. qui effectue quelle authentification de l'identité, les vérifications et les contrôles, à l'aide de quels moyens, et qui en assume la responsabilité;
+
+2\. la manière dont les résultats des authentifications de l'identité effectuées, les vérifications et les contrôles font l'objet d'un échange et d'une conservation électroniques sûrs entre [<sup>1</sup> l'intégrateur de services fédéral et l'utilisateur visé à l'article 2, alinéa 1er, 10°, a) à f),]<sup>1</sup>;
+
+3\. qui tient à jour quel enregistrement d'accès, quelle tentative d'accès aux services des intégrateurs de services ou tout autre traitement de données par le biais d'un intégrateur de services;
+
+4\. la manière dont [<sup>1</sup> l'intégrateur de services fédéral et l'utilisateur visé à l'article 2, alinéa 1er, 10°, a) à f), garantissent]<sup>1</sup> à ce qu'une reconstruction complète puisse avoir lieu en cas d'examen, à l'initiative d'une instance ou d'un organe de contrôle concerné ou à la suite d'une plainte, de quelle personne physique a utilisé quel service relatif à quelle personne, quand et à quelles fins;
+
+5\. le délai de conservation des informations enregistrées, qui doit s'élever à au moins dix ans, ainsi que le mode de consultation, par un ayant droit, de ces informations.
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 13, 006; En vigueur : 31-05-2024&gt;
+
+### Section 2. - Traitement de données
+
+#### Art. 15
+
+[<sup>1</sup> Sauf disposition expresse en sens contraire, la présente loi ne porte pas préjudice au règlement (UE) 2016/679 du 27 avril 2016 du Parlement européen et du Conseil relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) ou à des dispositions légales spécifiques relatives à la protection de données à caractère personnel.
+
+L'intégrateur de services fédéral est responsable du traitement au sens de l'article 4, paragraphe 7, du règlement (UE) 2016/679 du 27 avril 2016 du Parlement européen et du Conseil relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données), pour le traitement des données à caractère personnel aux fins de l'exécution des missions visées à l'article 4.
+
+Sauf disposition contraire, l'utilisateur visé à l'article 2, alinéa 1er, 10°, a) à f), qui est responsable de la gestion des sources authentiques ou des banques de données, est responsable du traitement pour les traitements consistant en la collecte, la conservation, la gestion et la mise à disposition des données à caractère personnel contenues dans les sources.
+
+L'utilisateur qui reçoit des données de sources authentiques ou de banques de données par le biais de l'intégrateur de services fédéral est responsable du traitement pour le traitement des données reçues.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 14, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 16
+
+§ 1er. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 2. [<sup>2</sup> L'intégrateur de services fédéral fournit une application permettant à toute personne de connaître les utilisateurs visés à l'article 2, alinéa 1er, 10°, a) à f), qui ont, au cours des douze mois écoulés,]<sup>2</sup> consulté ou mis à jour ses données par le biais du réseau, à l'exception des autorités administratives et judiciaires ou des services chargés de la surveillance ou de la recherche ou des poursuites ou de la répression des délits, de la police fédérale, [<sup>2</sup> de la police locale,]<sup>2</sup> du Comité permanent de contrôle des services de police et du Comité permanent de contrôle des services de renseignements ainsi que de leur service d'enquêtes respectif, de l'Organe de coordination pour l'analyse de la menace, [<sup>1</sup> de la Sûreté de l'Etat, du Service Général du Renseignement et de la Sécurité]<sup>1</sup> et de l'Inspection générale de la police fédérale et de la police locale.
+
+[<sup>2</sup> L'intégrateur de services fédéral et les utilisateurs visés à l'article 2, alinéa 1er, 10°, a) à f), prévoient les moyens techniques appropriés pour assurer l'exécution des accords écrits en application de l'article 14.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2014-03-14/29, art. 2, 002; En vigueur : 12-05-2014&gt;
+
+(2)&lt;L 2024-05-13/03, art. 15, 006; En vigueur : 31-05-2024&gt;
+
+### Section 3. - Secret professionnel
+
+#### Art. 17
+
+§ 1er. Toute personne qui, en raison de ses fonctions, participe à la collecte, à la consultation, à la communication, à l'utilisation ou à tout autre traitement de données, qui, en vertu de dispositions légales ou réglementaires, sont couvertes par le secret professionnel, est tenue de respecter ces dispositions légales ou réglementaires dans le cadre du traitement de ces données.
+
+§ 2. Toute personne qui, au sein des [<sup>1</sup> utilisateurs relevant du champ d'application de la présente loi]<sup>1</sup> ou de l'intégrateur de services fédéral, participe, en raison de ses fonctions, à la collecte, à la consultation, à la communication, à l'utilisation ou à tout autre traitement de données via le réseau, s'engage à maintenir le caractère confidentiel des données.
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 16, 006; En vigueur : 31-05-2024&gt;
+
+### Section 4. - Destruction de banques de données
+
+#### Art. 18
+
+Le Roi désigne, par arrêté délibéré en Conseil des Ministres, les personnes qui, en temps de guerre, dans des circonstances y assimilées en vertu de l'article 7 de la loi du 12 mai 1927 sur les réquisitions militaires ou pendant l'occupation du territoire national par l'ennemi, sont chargées d'empêcher l'accès au réseau et de détruire ou faire détruire les banques de données de l'intégrateur de services fédéral en tout ou en partie.
+
+#### Art. 19
+
+Le Roi fixe les conditions et les modalités d'un tel empêchement d'accès ou d'une telle destruction.
+
+### Section 5. [<sup>1</sup> - Sécurité de l'information]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 17, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 20
+
+[<sup>1</sup> L'intégrateur de services fédéral et chaque utilisateur visé à l'article 2, alinéa 1er, 10°, a) à f), à l'exception des personnes physiques, sont tenus de désigner un conseiller en sécurité, qu'il fasse ou non partie de leur personnel. L'utilisateur visé à l'article 2, alinéa 1e, 10°, a) à f), notifie à l'intégrateur de services fédéral l'identité de son conseiller en sécurité et de son délégué à la protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 18, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 21
+
+Le conseiller en sécurité relève de l'autorité directe du [<sup>1</sup> dirigeant de l'utilisateur]<sup>1</sup> ou de l'intégrateur de services fédéral.
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 19, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 22
+
+En vue de la sécurisation des données pour lesquelles [<sup>1</sup> son organisation agit en tant qu'utilisateur]<sup>1</sup> ou en tant qu'intégrateur de services, le conseiller en sécurité se charge de :
+
+1\. fournir des avis d'expert [<sup>1</sup> à l'organisation dans le domaine de la sécurisation des informations et de la sensibiliser en la matière]<sup>1</sup>, en accordant une attention particulière à la sécurité des données et du réseau;
+
+2\. collaborer avec le conseiller en sécurité [<sup>1</sup> et le délégué à la protection des données]<sup>1</sup> d'autres [<sup>1</sup> utilisateurs]<sup>1</sup> et d'intégrateurs de services afin de parvenir à une approche cohérente de la sécurisation des informations;
+
+3\. mener à bien des missions qui lui sont confiées dans le domaine de la sécurisation des informations.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 20, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 23
+
+Le Roi peut déterminer [<sup>1</sup> ...]<sup>1</sup> le statut du conseiller en sécurité, ainsi que les règles selon lesquelles les conseillers en sécurité exercent leurs missions.
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 21, 006; En vigueur : 31-05-2024&gt;
+
+## CHAPITRE 5. - Organisation
+
+### Section 1re. - Comité de coordination
+
+#### Art. 24
+
+Un comité de coordination est institué. Il se compose du [<sup>1</sup> dirigeant]<sup>1</sup> de chaque [<sup>1</sup> utilisateur visé à l'article 2, alinéa 1er, 10°, a) à f)]<sup>1</sup>, du [<sup>1</sup> dirigeant]<sup>1</sup> de chaque intégrateur de services, au sens de l'article 2, 1°, [<sup>1</sup> ...]<sup>1</sup> et du président du Comité de direction du Service public fédéral [<sup>1</sup> Stratégie et Appui]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 22, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 25
+
+La présidence et le secrétariat du comité de coordination sont assurés par le Service public fédéral en charge de la [<sup>1</sup> Digitalisation]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 23, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 26
+
+Le comité de coordination se réunit au moins une fois par an à l'initiative de la présidence ou à chaque fois que l'un des membres du comité le requiert.
+
+#### Art. 27
+
+§ 1er. Le comité de coordination, conformément aux dispositions de la présente loi, conseille l'intégrateur de services fédéral en ce qui concerne :
+
+1\. l'accès possible aux banques de données ou sources authentiques par le biais de l'intégrateur de services fédéral;
+
+2\. l'éventuelle adaptation des sources authentiques sélectionnées, de sorte que, dans la mesure du possible, seules des données authentiques soient rendues accessibles;
+
+3\. l'utilisation de renvois à la donnée authentique dans la source authentique en ce qui concerne les données qui recouvrent, partiellement ou dans leur ensemble, une donnée authentique dans une source authentique;
+
+4\. [<sup>1</sup> ...]<sup>1</sup>
+
+5\. le partage de la responsabilité entre l'intégrateur de services fédéral, les [<sup>1</sup> utilisateurs]<sup>1</sup> et les autres intégrateurs de services, compte tenu des compétences qui leur sont conférées par la présente loi.
+
+Le comité de coordination [<sup>1</sup> donne avis]<sup>1</sup> sur des initiatives visant à promouvoir et à maintenir la collaboration au sein du réseau, et sur des initiatives pouvant contribuer à un traitement légitime et confidentiel des données du réseau.
+
+Le comité de coordination fournit en outre des avis ou formule des recommandations en matière d'informatisation ou de problèmes connexes, fait des propositions et offre sa collaboration dans le domaine de l'organisation de formations informatiques au profit du personnel des services publics, et examine comment l'échange rationnel de données au sein du réseau peut être stimulé.
+
+§ 2. [<sup>1</sup> Les données sont authentiques si elles répondent aux critères suivants:
+
+1\. la collecte, la création ou l'enregistrement des données et leur communication résultent de missions assignées par une loi, un décret ou une ordonnance;
+
+2\. l'utilisateur visé à l'article 2, alinéa 1er, 10°, a) à f), qui est chargé de collecter, de créer ou d'enregistrer les données, prévoit et respecte des procédures garantissant que les données sont en permanence exactes, complètes, sûres, lisibles et disponibles, et en informe périodiquement le comité de coordination.
+
+Sur proposition du comité de coordination, l'intégrateur de services fédéral publie la description des données authentiques dans le registre des sources authentiques.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 24, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 28
+
+Le comité de coordination institue en son sein des groupes de travail auxquels il confie des tâches spécifiques.
+
+#### Art. 29
+
+Le Roi détermine dans quels cas la consultation du comité de coordination est obligatoire.
+
+### Section 2. - Comité de concertation des intégrateurs de services
+
+#### Art. 30
+
+Un comité de concertation des intégrateurs de services au sens de l'article 2, 1°, est institué. Il se compose d'un représentant de l'intégrateur de services fédéral et d'un représentant des différents autres intégrateurs de services.
+
+#### Art. 31
+
+Le comité de concertation des intégrateurs de services choisit un président en son sein. Le secrétariat est assuré par le Service public fédéral en charge de la [<sup>1</sup> Digitalisation]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 25, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 32
+
+Le comité de concertation des intégrateurs de services se réunit au moins une fois par an à l'initiative de la présidence ou à chaque fois qu'un des membres le requiert.
+
+#### Art. 33
+
+Le comité de concertation des intégrateurs de services délibère sur des initiatives visant à promouvoir et à maintenir la collaboration entre les intégrateurs de services.
+
+Le comité de concertation des intégrateurs de services fournit en outre des avis et formule des recommandations en matière d'informatisation ou de problèmes connexes.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Le comité de concertation des intégrateurs de services détermine une planification annuelle pour les projets qui seront réalisés dans le domaine de l'intégration des services, avec des accords afférents à la répartition des tâches entre les divers intégrateurs de services.
+
+[<sup>1</sup> Le comité de concertation des intégrateurs de services a pour objectif d'organiser les interconnexions entre intégrateurs de services de manière optimale et efficace afin que les organismes ne doivent s'appuyer que sur un seul intégrateur de services.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 26, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 34
+
+Le comité de concertation des intégrateurs de services peut instituer en son sein des groupes de travail auxquels il confie des tâches spécifiques.
+
+#### Art. 35
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, les cas dans lesquels la consultation du comité de concertation des intégrateurs de services est obligatoire.
+
+### Section 3. [<sup>1</sup> - Chambre autorité fédérale du comité de sécurité de l'information]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-09-05/01, art. 86, 004; En vigueur : 10-09-2018&gt;
+
+#### Art. 35/1
+
+[<sup>1</sup> § 1er. La communication de données à caractère personnel par des services publics et des institutions publiques de l'autorité fédérale à des tiers autres que les institutions de sécurité sociale visées à l'article 2, alinéa 1er, 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale doit faire l'objet une délibération préalable de la chambre autorité fédérale du comité de sécurité de l'information visée dans la loi du 5 septembre 2018 instituant le comité de sécurité de l'information et modifiant diverses lois concernant la mise en oeuvre du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE, dans la mesure où les responsables du traitement de l'instance qui communique et des instances destinatrices ne parviennent pas, en exécution de l'article 20 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel, à un accord concernant la communication ou au moins un de ces responsables du traitement demande une délibération et en a informé les autres responsables du traitement. Dans les cas mentionnés, la demande est introduite d'office conjointement par les responsables du traitement concernés.
+
+La communication, visée dans l'alinéa 1er, ne doit pas faire l'objet d'une délibération préalable dans la mesure où d'autres normes réglementaires précisent les modalités de la communication dont les finalités, les catégories de données et les destinataires ou dans la mesure où il s'agit d'une communication ponctuelle de données, en conformité avec le règlement (UE) 2016/679 précité, à des personnes ou institutions habilitées à les recevoir en vertu d'une mission légale.
+
+La communication de données à caractère personnel par des services publics et des institutions publiques de l'autorité fédérale à des institutions de sécurité sociale visées à l'article 2, alinéa 1er, 2°, a), de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale doit faire l'objet d'une délibération préalable des chambres réunies du comité de sécurité de l'information, dans la mesure où les responsables du traitement de l'instance qui communique, de l'instance destinatrice et de la Banque-carrefour de la sécurité sociale ne parviennent pas, en exécution de l'article 20 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel, à un accord concernant la communication ou au moins un de ces responsables du traitement demande une délibération et en a informé les autres responsables du traitement. Dans les cas mentionnés, la demande est introduite d'office conjointement par les responsables du traitement concernés.
+
+La communication de données à caractère personnel par des services publics et des institutions publiques de l'autorité fédérale à des institutions de sécurité sociale visées à l'article 2, alinéa 1er, 2°, b) à f), de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale doit faire l'objet d'une délibération préalable des chambres réunies du comité de sécurité de l'information.
+
+La chambre autorité fédérale du comité de sécurité de l'information n'est pas compétente pour la communication de données à caractère personnel provenant des banques de données des autorités visées aux titres 2 et 3 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel.
+
+Pour l'application de l'alinéa 1er, sont considérés comme des tiers: les instances autres que l'intéressé, le responsable du traitement, le sous-traitant et les personnes autorisées à traiter les données à caractère personnel sous l'autorité directe du responsable du traitement ou du sous-traitant.
+
+Pour autant qu'une demande contienne tous les éléments permettant de délibérer et qu'elle est introduite en tant que telle dans les trente jours calendriers précédant une réunion déterminée, elle est en principe traitée pendant la réunion qui suit la réunion précitée. Le demandeur reçoit endéans une semaine un accusé de réception indiquant si la demande introduite est complète ou non.
+
+Dans la mesure où le comité de sécurité de l'information rend une délibération pour la communication de données à caractère personnel par l'autorité fédérale, cette dernière est, par dérogation à l'article 20 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel, dispensée de l'obligation d'établir un protocole y relatif avec le destinataire des données à caractère personnel.
+
+§ 2.La chambre autorité fédérale du comité de sécurité de l'information rend, le cas échéant, une délibération pour l'utilisation du numéro d'identification du Registre national des personnes physiques par les instances concernées si cela s'avère nécessaire dans le cadre de la communication envisagée.
+
+§ 3. Dans la mesure où cette compétence n'a pas explicitement été attribuée à la chambre sécurité sociale et santé du comité de sécurité de l'information, la chambre autorité fédérale du comité de sécurité de l'information soutient les délégués à la protection des données qui sont désignés par les services publics et organismes publics de l'autorité fédérale sur le plan du contenu, entre autres en leur offrant une formation continue adéquate et en formulant des recommandations, notamment sur le plan technique.
+
+§ 4. [<sup>2</sup> Les délibérations du comité de sécurité de l'information sont motivées, ne peuvent pas être contraires aux normes juridiques supérieures et les parties qui participent à la communication des données à caractère personnel respectent les mesures contenues dans la délibération.
+
+Les délibérations du comité de sécurité de l'information ont une portée limitée et technique et décrivent pour une situation déterminée et pendant une période déterminée l'application des éléments essentiels du traitement, qui sont définis dans les bases juridiques visées à l'article 6 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE.
+
+Le ministre compétent visé au paragraphe 6 désigne un représentant qui assiste aux réunions du comité de sécurité de l'information Si le ministre compétent constate qu'une délibération du comité de sécurité de l'information n'est pas conforme aux dispositions de la présente loi et de toute autre réglementation relative à la protection de la vie privée, en particulier le règlement précité (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 et la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, il peut, dans les dix jours ouvrables suivant la réunion du comité de sécurité de l'information imposer au comité de sécurité de l'information, de manière motivée et dans le respect de la réglementation en vigueur, d'adapter la délibération sur les points qu'il indique.
+
+La délibération du comité de sécurité de l'information entre en vigueur à l'issue du délai visé à l'alinéa 3, à moins que le ministre compétent ne fasse savoir, avant l'expiration de ce délai, que la délibération ne doit pas être adaptée.
+
+Les délibérations du comité de sécurité de l'information constituent des mesures administratives qui peuvent être contestées auprès de la section du contentieux administratif du Conseil d'Etat, sur la base de l'article 14 des lois coordonnées sur le Conseil d'Etat.]<sup>2</sup>
+
+§ 5. La chambre autorité fédérale du comité de sécurité de l'information assure la mise à jour et la publication sur le site web du Service public fédéral Stratégie et Appui de la liste des délibérations qu'elle a accordées.
+
+Elle publie annuellement, sur le site web du Service public fédéral Stratégie et Appui, un rapport sommaire de l'accomplissement de ses missions au cours de l'année écoulée, qui accordera une attention particulière aux dossiers pour lesquels une décision n'a pu être prise dans les délais.]<sup>1</sup>
+
+[<sup>2</sup> § 6. Le secrétariat du comité de sécurité de l'information envoie, au préalable, par voie électronique, les invitations aux réunions accompagnées de l'ordre du jour et des documents disponibles au ministre qui a l'Agenda numérique dans ses attributions ainsi qu'au représentant visé au paragraphe 4, alinéa 3.
+
+Le secrétariat du comité de sécurité de l'information envoie les délibérations, par voie électronique, au plus tard le premier jour ouvrable (soit un jour de semaine, à l'exclusion des samedis, dimanches et jours fériés) suivant la réunion du comité de sécurité de l'information, au ministre qui a l'Agenda numérique dans ses attributions ainsi qu'au représentant visé au paragraphe 4, alinéa 3.
+
+La chambre autorité fédérale du comité de sécurité de l'information fait rapport à la Chambre des représentants ainsi qu'à l'Autorité de protection des données dans les cas suivants:
+
+1° à l'issue du délai visé au paragraphe 4, alinéa 4, par la communication des délibérations visées aux paragraphes 1er et 2;
+
+2° annuellement, par la communication du rapport sommaire visé au paragraphe 5, alinéa 2, au plus tard pour la fin février.
+
+Les rapports visés à l'alinéa 3 sont systématiquement envoyés par voie électronique au président de la Chambre des représentants ainsi qu'à titre d'information à l'Autorité de protection des données, ou à la personne qu'ils désignent, le cas échéant avec un renvoi au site web visé au paragraphe 5.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-09-05/01, art. 86, 004; En vigueur : 10-09-2018&gt;
+
+(2)&lt;L 2023-11-23/12, art. 13, 005; En vigueur : 06-12-2023&gt;
+
+#### Art. 35/2
+
+[<sup>1</sup> La chambre autorité fédérale du comité de sécurité de l'information est établie et tient ses réunions auprès du Service public fédéral Stratégie et Appui, qui met à la disposition les bureaux et moyens bureautiques nécessaires à son fonctionnement et à sa présidence et du personnel spécialisé, dans la mesure requise par la réalisation des missions de la chambre autorité fédérale du comité de sécurité de l'information. Le président du comité de sécurité de l'information a la responsabilité fonctionnelle de ce personnel en ce qui concerne les tâches qu'il assume pour le comité de sécurité de l'information.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-09-05/01, art. 86, 004; En vigueur : 10-09-2018&gt;
+
+#### Art. 35/3
+
+[<sup>1</sup> Les frais de fonctionnement de la chambre autorité fédérale du comité de sécurité de l'information, en ce compris les indemnités allouées au président et aux autres membres et les remboursements de frais pour autant qu'ils aient trait à l'exécution des missions de cette chambre, sont pris en charge par le Service public fédéral Stratégie et Appui.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-09-05/01, art. 86, 004; En vigueur : 10-09-2018&gt;
+
+#### Art. 35/4
+
+[<sup>1</sup> Le Service public fédéral Stratégie et Appui rédige un avis technique et juridique relatif à toute demande concernant la communication de données à caractère personnel dont il a reçu une copie de la part du comité de sécurité de l'information.
+
+Dans la mesure où la chambre autorité fédérale du comité de sécurité de l'information doit rendre une délibération pour l'accès au Registre national des personnes physiques ou si celle-ci, en ce qui concerne l'utilisation du numéro d'identification du Registre national, est saisie, les services du Service public fédéral Intérieur qui sont compétents pour le Registre national des personnes physiques rédigent un avis technique et juridique à ce sujet.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-09-05/01, art. 86, 004; En vigueur : 10-09-2018&gt;
+
+#### Art. 35/5
+
+[<sup>1</sup> La chambre autorité fédérale du comité de sécurité de l'information fixe son règlement d'ordre intérieur, qui contient notamment les modalités d'introduction des demandes et qui est ratifié par un arrêté royal délibéré en Conseil des ministres.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-09-05/01, art. 86, 004; En vigueur : 10-09-2018&gt;
+
+## CHAPITRE 6. - Contrôle et sanctions pénales
+
+#### Art. 36
+
+&lt;Abrogé par L 2024-05-13/03, art. 27, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 37
+
+Seront punis d'une amende de cent à deux mille euros, ceux qui sciemment :
+
+1\. n'auront pas pris les mesures requises pour assurer la sécurisation des données, conformément aux dispositions de la présente loi et de ses arrêtés d'exécution;
+
+2\. auront autorisé des tiers à accéder au réseau, ou qui auront mis en mesure des tiers, de toute autre manière, de prendre connaissance ou de faire usage de données du réseau, si ces tiers ne pouvaient pas poser ces actes eux-mêmes ou les faire poser sur la base des dispositions [<sup>1</sup> de la présente loi ou de ses arrêtés d'exécution]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 28, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 38
+
+Seront punis d'un emprisonnement de huit jours à six mois et d'une amende de cent euros à cinq mille euros ou d'une de ces peines seulement, ceux qui auront reçu, régulièrement ou non, consultation ou communication de données et en auront sciemment usé à d'autres fins que celles prévues par ou en vertu de la présente loi.
+
+#### Art. 39
+
+Seront punis d'un emprisonnement de trois mois à un an et d'une amende de deux cents euros à dix mille euros ou d'une de ces peines seulement :
+
+1\. ceux qui, contrairement aux dispositions de l'article 17, n'auront pas respecté le caractère confidentiel des données lors de la collecte, de la consultation, de la communication, de l'utilisation ou de tout autre traitement de données;
+
+2\. les personnes, leurs préposés ou mandataires, désignés par le Roi, sur la base de l'article 18, pour empêcher l'accès aux données et banques de données ou les détruire ou faire détruire, qui, intentionnellement, n'auront pas exécuté leur mission ou l'auront exécutée sans respecter les conditions et les modalités prévues.
+
+#### Art. 40
+
+En cas d'infraction à une disposition de la présente loi ou de ses arrêtés d'exécution dans les trois ans qui suivent la décision correctionnelle définitive, la peine peut être portée au double du maximum.
+
+#### Art. 41
+
+L'action publique se prescrira par trois années révolues à compter du jour où l'infraction a été commise.
+
+#### Art. 42
+
+La peine se prescrira par trois années révolues, à compter de la date de l'arrêt ou du jugement rendu en dernier ressort, ou à compter du jour où le jugement rendu en première instance ne pourra plus être attaqué par la voie de l'appel.
+
+#### Art. 43
+
+Sans préjudice des dispositions des articles 40, 41 et 42, toutes les dispositions du Livre premier du Code pénal, y compris le chapitre 7 et l'article 85, mais excepté le chapitre 5 et l'article 92, sont applicables aux infractions prévues dans la présente loi.
+
+## CHAPITRE 7. - Dispositions transitoires et finales
+
+#### Art. 44
+
+Le Roi peut régler, par arrêté délibéré en Conseil des ministres, les tâches des organes cités au Chapitre 5, ainsi que les modalités ultérieures de la collaboration entre l'intégrateur de services fédéral et les [<sup>1</sup> utilisateurs]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2024-05-13/03, art. 29, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 45
+
+§ 1er. Le Roi abroge, complète, modifie ou remplace, par arrêté délibéré en Conseil des ministres, les dispositions légales et réglementaires existantes afin que le texte de ces dernières soit conforme aux dispositions de la présente loi.
+
+§ 2. Le projet de l'arrêté royal visé au § 1er sera soumis pour avis au comité des intégrateurs de services, visé à l'article 30.
+
+§ 3. Les arrêtés pris conformément aux § 1er et § 2 cessent de produire leurs effets à la fin du treizième mois qui suit leur entrée en vigueur, s'ils n'ont pas été confirmés par la loi avant cette date.
+
+#### Art. 46
+
+&lt;Abrogé par L 2024-05-13/03, art. 30, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 46/1.
+
+[<sup>1</sup> Dans les conditions et selon les modalités déterminées par les Régions et Communautés et en concertation avec l'intégrateur de services fédéral, les Régions, les Communautés, les pouvoirs locaux et les organismes qui en dépendent peuvent recourir aux services de l'intégrateur de services fédéral par l'intermédiaire des intégrateurs de services compétents.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-13/03, art. 31, 006; En vigueur : 31-05-2024&gt;
+
+#### Art. 47
+
+Le Roi détermine, par arrêté délibéré en Conseil des Ministres, pour chacune des dispositions de la présente loi, la date d'entrée en vigueur.
+
+(NOTE : entrée en vigueur des art. 20 à 23 fixée au 01-06-2013 par AR 2013-03-17/04, art. 11)
+
+(NOTE : entrée en vigueur des art. 1er à 16, § 1er, 17 à 19 et 24 à 47 fixée au 02-11-2013 par AR 2013-10-07/03, art. 1)
+
+(NOTE : entrée en vigueur de l'art.16,§2 fixée au 31 mai 2024 par L 2024-05-13/03, art. 32)
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Châteauneuf-de-Grasse, le 15 août 2012.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre des Finances et du Développement durable, chargé de la Fonction publique,
+
+S. VANACKERE
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM
+
+Le Secrétaire d'Etat à la Fonction publique et à la Modernisation des Services publics,
+
+H. BOGAERT
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM
