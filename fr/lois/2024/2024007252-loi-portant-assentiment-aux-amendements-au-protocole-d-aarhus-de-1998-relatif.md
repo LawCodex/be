@@ -1,0 +1,110 @@
+---
+title: "Loi portant assentiment aux amendements au Protocole d'Aarhus de 1998 relatif aux polluants organiques persistants, faits à Genève le 18 décembre 2009, et aux amendements au Protocole d'Aarhus de 1998 relatif aux métaux lourds faits à Genève le 13 décembre 2012, et modifiant les deux lois du 25 mai 2005 portant assentiment au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance de 1979 relatif aux métaux lourds, et aux Annexes, faits à Aarhus le 24 juin 1998, et portant assentiment au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance de 1979 relatif aux polluants organiques persistants, et aux Annexes, faits à Aarhus le 24 juin 1998"
+identifier: "2024007252"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/25/2024007252/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2024-05-25
+published: 2024-09-11
+entry_into_force: 2024-09-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/25/2024007252/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+retrieved: 2026-10-11
+---
+
+# 25 MAI 2024. - Loi portant assentiment aux amendements au Protocole d'Aarhus de 1998 relatif aux polluants organiques persistants, faits à Genève le 18 décembre 2009, et aux amendements au Protocole d'Aarhus de 1998 relatif aux métaux lourds faits à Genève le 13 décembre 2012, et modifiant les deux lois du 25 mai 2005 portant assentiment au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance de 1979 relatif aux métaux lourds, et aux Annexes, faits à Aarhus le 24 juin 1998, et portant assentiment au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance de 1979 relatif aux polluants organiques persistants, et aux Annexes, faits à Aarhus le 24 juin 1998
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+§ 1er. Les amendements au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance de 1979, relatif aux polluants organiques persistants, avec annexes, faits à Genève le 18 décembre 2009, dénommé ci-après le " Protocole POP modifié ", sortiront leur plein et entier effet.
+
+L'alinéa 1er ne s'applique pas aux annexes V et VII, auxquelles assentiment a été porté en application de l'article 2, alinéa 2, de la loi du 25 mai 2005 portant assentiment au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance de 1979, relatif aux polluants organiques persistants, et aux annexes, fait à Aarhus le 24 juin 1998.
+
+§ 2. Les amendements au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance de 1979, relatif aux métaux lourds, avec annexes, faits à Genève le 13 décembre 2012, dénommé ci-après le " Protocole modifié métaux lourds ", sortiront leur plein et entier effet.
+
+L'alinéa 1er ne s'applique pas aux annexes III et VII, auxquelles assentiment a été porté en application de l'article 2, alinéa 2, de la loi du 25 mai 2005 portant assentiment au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance de 1979, relatif aux métaux lourds, et aux annexes, faits à Aarhus le 24 juin 1998.
+
+## Art. 3
+
+A l'article 2 de la loi du 25 mai 2005 portant assentiment au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance de 1979 relatif aux métaux lourds, et aux Annexes, faits à Aarhus le 24 juin 1998, dont le texte actuel de l'alinéa 1er formera le paragraphe 1er, les modifications suivantes sont apportées :
+
+1° l'alinéa 2, qui formera le paragraphe 2, est remplacé par ce qui suit :
+
+" § 2. Sous réserve de l'alinéa 3, les amendements aux annexes III et VII du Protocole modifié métaux lourds, adoptés en application de l'article 13, alinéa 4, sortiront leur plein et entier effet.
+
+Le Roi notifie à la Chambre des représentants tout amendement à une annexe telle que visée à l'alinéa 1er, qui a été communiqué aux Parties par le secrétaire exécutif de la Commission, dans un délai de deux mois.
+
+Dans un délai de deux mois suivant la notification par le Roi visée à l'alinéa 2, la Chambre des représentants peut s'opposer à ce qu'un amendement tel que visé à l'alinéa 1er, sorte son plein et entier effet. " ;
+
+2° l'article est complété par un paragraphe 3 rédigé comme suit :
+
+" § 3. Sous réserve de l'alinéa 3, les amendements aux annexes II, IV, V et VI du Protocole modifié métaux lourds, adoptés en application de l'article 13, alinéa 5ter, sortiront leur plein et entier effet.
+
+Le Roi notifie à la Chambre des représentants tout amendement à une annexe telle que visée à l'alinéa 1er, qui a été communiqué aux Parties par le secrétaire exécutif de la Commission, dans un délai de trois mois.
+
+Dans un délai de six mois suivant la notification par le Roi, visée à l'alinéa 2, la Chambre des représentants peut s'opposer à ce qu'un amendement tel que visé à l'alinéa 1er, sorte son plein et entier effet. "
+
+## Art. 4
+
+à l'article 2 de la loi du 25 mai 2005 portant assentiment au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance de 1979 relatif aux polluants organiques persistants, et aux Annexes, faits à Aarhus le 24 juin 1998, dont le texte actuel de l'alinéa 1er formera le paragraphe 1er, les modifications suivantes sont apportées :
+
+1° l'alinéa 2, qui formera le paragraphe 2, est remplacé par ce qui suit :
+
+" § 2. Sous réserve de l'alinéa 3, les amendements à l'annexe V du Protocole POP modifié, adoptés en application de l'article 14, alinéa 4, sortiront leur plein et entier effet.
+
+Le Roi notifie dans le mois à la Chambre des représentants tout amendement à l'annexe visée à l'alinéa 1er, communiqué aux Parties par le secrétaire exécutif de la Commission.
+
+Dans un délai d'un mois de la notification par le Roi visée à l'alinéa 2, la Chambre des représentants peut s'opposer à ce qu'un amendement tel que visé à l'alinéa 1er, sorte son plein et entier effet. " ;
+
+2° l'article est complété par un paragraphe 3 rédigé comme suit :
+
+" § 3. Sous réserve de l'alinéa 3, les amendements aux annexes I à IV, VI et VIII du Protocole POP modifié, adoptés en application de l'article 14, alinéa 5ter, sortiront leur plein et entier effet.
+
+Le Roi notifie dans les trois mois à la Chambre des représentants tout amendement à l'une des annexes visées à l'alinéa 1er, communiqué aux Parties par le secrétaire exécutif de la Commission.
+
+Dans un délai de six mois suivant la notification par le Roi, visée à l'alinéa 2, la Chambre des représentants peut s'opposer à ce qu'un amendement tel que visé à l'alinéa 1er, sorte son plein et entier effet. "
+
+## ANNEXES.
+
+## Art. N
+
+Annexe.
+
+(Image non reprise pour des raisons techniques, voir M.B. du 11-09-2024, p. 106852)
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du Sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 25 mai 2024.
+
+PHILIPPE
+
+Par le Roi :
+
+La Ministre de l'Environnement,
+
+Z. KHATTABI
+
+La Ministre des Affaires étrangères,
+
+H. LAHBIB
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+P. VAN TIGCHELT

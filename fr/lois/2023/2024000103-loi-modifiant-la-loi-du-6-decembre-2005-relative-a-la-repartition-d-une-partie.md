@@ -1,0 +1,80 @@
+---
+title: "Loi modifiant la loi du 6 décembre 2005 relative à la répartition d'une partie des recettes fédérales en matière de sécurité routière"
+identifier: "2024000103"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/25/2024000103/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2023-12-25
+published: 2024-01-22
+entry_into_force: 2024-02-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2023/12/25/2024000103/justel"
+department: "Mobilité et Transports - Justice - Intérieur"
+retrieved: 2026-10-11
+---
+
+# 25 DECEMBRE 2023. - Loi modifiant la loi du 6 décembre 2005 relative à la répartition d'une partie des recettes fédérales en matière de sécurité routière
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition générale
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## CHAPITRE 2. - Disposition modificative
+
+### Art. 2
+
+A l'article 4 de la loi du 6 décembre 2005 relative à la répartition d'une partie des recettes fédérales en matière de sécurité routière, remplacé par la loi du 25 décembre 2016 et modifié par la loi du 28 avril 2019, les modifications suivantes sont apportées:
+
+1° dans l'alinéa 1er, 1°, les mots "égal à 5 %" sont remplacés par les mots "égal à 9 %";
+
+2° dans l'alinéa 1er, le 2° est remplacé par ce qui suit:
+
+"2° en 2024, un montant de 850.000 euros et à partir de 2025, un montant de 650.000 euros, est octroyé au Service public fédéral Mobilité et Transports pour le suivi et l'amélioration de la politique criminelle en matière de sécurité routière et pour permettre l'accroissement des consultations de la Banque-Carrefour Véhicules (DIV) par les services de police. Ce montant est inscrit, tant en engagement qu'en liquidation, à la section 33 du budget général des dépenses;";
+
+3° dans l'alinéa 1er, 3°, les mots "13.000.000 euros" sont remplacés par les mots "29.000.000 euros".
+
+## CHAPITRE 3. - Disposition finale
+
+### Art. 3
+
+La présente loi entre en vigueur le 1er janvier 2024.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 25 décembre 2023.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de la Mobilité,
+
+G. GILKINET
+
+Le Ministre de la Justice,
+
+P. VAN TIGCHELT
+
+La Ministre de l'Intérieur,
+
+A. VERLINDEN
+
+Scellé du sceau de l'Etat:
+
+Pour le Ministre de la Justice, absent,
+
+Le Ministre des Finances,
+
+V. VAN PETEGHEM

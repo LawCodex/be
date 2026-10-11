@@ -1,0 +1,68 @@
+---
+title: "Loi modifiant la loi-programme (I) du 27 décembre 2006 en ce qui concerne la subvention à l'ASBL \"Patienten Rat & Treff\""
+identifier: "2024000164"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2024/01/07/2024000164/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2024-01-07
+published: 2024-01-17
+entry_into_force: 2024-01-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2024/01/07/2024000164/justel"
+department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
+retrieved: 2026-10-11
+---
+
+# 7 JANVIER 2024. - Loi modifiant la loi-programme (I) du 27 décembre 2006 en ce qui concerne la subvention à l'ASBL "Patienten Rat & Treff"
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## TITRE 1er. - Disposition introductive
+
+#### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## TITRE 2. - Modification de la loi-programme (I) du 27 décembre 2006
+
+### Section unique. - Financement des organisations de patients
+
+#### Art. 2
+
+A l'article 245 de la loi-programme (I) du 27 décembre 2006, remplacé par la loi du 19 mars 2013 et modifié par les lois des 10 avril 2014, 17 juillet 2015, 15 avril 2018, 18 mai 2022 et 14 mars 2023, les modifications suivantes sont apportées:
+
+1° dans le § 1er, alinéa 1er, le mot "deux" est remplacé par le mot "trois";
+
+2° le même alinéa est complété par le 3° rédigé comme suit:
+
+"3° l'ASBL "Patienten Rat & Treff".";
+
+3° dans le § 1er, alinéa 2, les mots "mentionnées à l'alinéa précédent" sont remplacés par les mots "visées à l'alinéa 1er, 1° et 2°, et à 20.000 euros pour l'association visée à l'alinéa 1er, 3°, ";
+
+4° dans le § 8, les mots "et l'association visée au § 1er, 3°, fixés pour l'année 2024," sont insérés entre les mots "augmentés en 2023," et "sont adaptés au 1er janvier".
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du Sceau de l'Etat et publiée par le Moniteur Belge.
+
+Donné à Bruxelles, le 7 janvier 2024.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de la Santé Publique,
+
+F. VANDENBROUCKE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+P. VAN TIGCHELT

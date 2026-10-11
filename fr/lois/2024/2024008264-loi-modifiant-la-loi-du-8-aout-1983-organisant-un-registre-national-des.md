@@ -1,0 +1,120 @@
+---
+title: "Loi modifiant la loi du 8 août 1983 organisant un Registre national des personnes physiques et la loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes d'étranger et aux documents de séjour"
+identifier: "2024008264"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/16/2024008264/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2024-05-16
+published: 2024-08-30
+entry_into_force: 2024-09-09
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/16/2024008264/justel"
+department: "Intérieur"
+retrieved: 2026-10-11
+---
+
+# 16 MAI 2024. - Loi modifiant la loi du 8 août 1983 organisant un Registre national des personnes physiques et la loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes d'étranger et aux documents de séjour
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition générale
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## CHAPITRE 2. - Modifications de la loi du 8 août 1983 organisant un Registre national des personnes physiques
+
+### Art. 2
+
+L'article 5 de la loi du 8 août 1983 organisant un registre national des personnes physiques, modifié en dernier lieu par la loi du 28 mars 2023, est complété par les paragraphes 7 et 8 rédigés comme suit:
+
+" § 7. Dans l'exercice de leurs missions légales, les agents de la Sûreté de l'Etat et du Service Général du Renseignement et de la Sécurité des Forces armées sont dispensés d'une autorisation préalable du ministre ayant l'Intérieur dans ses attributions pour accéder aux informations visées à l'article 3, alinéas 1er à 3.
+
+Est puni de la sanction visée à l'article 13, alinéa 1er, tout agent de la Sûreté de l'Etat et du Service Général du Renseignement et de la Sécurité des Forces armées qui, en violation de l'obligation de confidentialité, communique des informations obtenues du registre national à des personnes non habilitées à les recevoir ou qui fait usage de ces données à des fins autres que l'exercice de ses missions légales.
+
+§ 8. Dans l'exercice de leurs missions légales, les membres du Comité permanent de contrôle des services de renseignement et de sécurité, dénommé ci-après "le Comité permanent R", du Service d'enquêtes des services de renseignement et les membres du personnel administratif du Comité permanent R qui ont le besoin d'en connaître et qui sont nominativement et préalablement désignés par le président du Comité permanent R sont dispensés d'une autorisation préalable du ministre ayant l'Intérieur dans ses attributions pour l'accès aux informations visées à l'article 3, alinéas 1er à 3.
+
+Est puni de la sanction visée à l'article 13, alinéa 1er, tout membre du Comité permanent R, du Service d'enquêtes des services de renseignements et du personnel administratif du Comité permanent R qui, en violation de l'obligation de confidentialité, communique des informations obtenues par le biais du Registre national à des personnes non habilitées à les recevoir ou qui fait usage de ces données à des fins autres que l'exercice de ses missions légales."
+
+### Art. 3
+
+Dans l'article 8 de la même loi, modifié en dernier lieu par la loi du 13 août 2022, sont insérés les paragraphes 6/1 et 6/2 rédigés comme suit:
+
+" § 6/1 Dans l'exercice de leurs missions légales, les agents de la Sûreté de l'Etat et du Service Général du Renseignement et de la Sécurité des Forces armées sont dispensés d'une autorisation préalable du ministre ayant l'Intérieur dans ses attributions.
+
+Est puni de la sanction visée à l'article 13, alinéa 1er, tout agent de la Sûreté de l'Etat et du Service Général du Renseignement et de la Sécurité des Forces armées qui, en violation de l'obligation de confidentialité, communique le numéro de Registre national à des personnes non habilitées à le recevoir ou qui fait usage de ce numéro à des fins autres que l'exercice de ses missions légales.
+
+§ 6/2. Dans l'exercice de leurs missions légales, les membres du Comité permanent R, du Service d'enquêtes des services de renseignement et les membres du personnel administratif du Comité permanent R qui ont le besoin d'en connaître et qui sont nominativement et préalablement désignés par le président du Comité permanent R sont dispensés d'une autorisation préalable du ministre ayant l'Intérieur dans ses attributions.
+
+Est puni de la sanction visée à l'article 13, alinéa 1er, tout membre du Comité permanent R, du Service d'enquêtes des services de renseignement et du personnel administratif du Comité permanent R qui, en violation de l'obligation de confidentialité, communique le numéro de Registre national à des personnes non habilitées à le recevoir ou qui fait usage de ce numéro à des fins autres que l'exercice de ses missions légales.
+
+### Art. 4
+
+Dans l'article 17 de la même loi, inséré par la loi du 25 novembre 2018 et modifié en dernier lieu par la loi du 13 août 2022, l'alinéa 1er est remplacé par ce qui suit:
+
+"Chaque autorité publique, organisme public ou privé ayant obtenu l'autorisation d'accéder aux informations du Registre national des personnes physiques, en ce compris toutes les instances mentionnées à l'article 5, doit être en mesure de pouvoir justifier les consultations effectuées, que celles-ci se fassent par un utilisateur individuel ou par un système informatique automatique. A cet effet, afin d'assurer la traçabilité des consultations, chaque utilisateur tient un registre des consultations."
+
+### Art. 5
+
+Dans l'article 17, alinéa 4, de la même loi, inséré par la loi du 25 novembre 2018, les mots "l'Autorité de protection des données" sont remplacés par les mots "l"autorité de contrôle compétente".
+
+## CHAPITRE 3. - Modifications de la loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes des étrangers et aux documents de séjour
+
+### Art. 6
+
+L'article 2 de la loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes des étrangers et aux documents de séjour, modifié en dernier lieu par la loi du 28 mars 2023, est complété par quatre alinéas rédigés comme suit:
+
+"Dans l'exercice de leurs missions respectives, les agents de la Sûreté de l'Etat et du Service Général du Renseignement et de la Sécurité des Forces armées sont dispensés d'une autorisation préalable du ministre ayant l'Intérieur dans ses attributions pour accéder aux données des registres de la population et du registre des étrangers et du registre d'attente.
+
+Est puni de la sanction visée à l'article 13, alinéa 1er, de la loi du 8 août 1983 organisant un registre national des personnes physiques, tout agent de la Sûreté de l'Etat et du Service Général du Renseignement et de la Sécurité des Forces armées qui, en violation de l'obligation de confidentialité, communique des informations obtenues des registres de la population, du registre des étrangers ou du registre d'attente à des personnes non habilitées à les recevoir ou qui fait usage de ces données à des fins autres que l'exercice de ses missions légales.
+
+Dans l'exercice de leurs missions respectives, les membres du Comité Permanent de contrôle des services de renseignements et de sécurité, dénommé ci-après "le Comité permanent R", du Service d'enquêtes des services de renseignement et les membres du personnel administratif du Comité permanent R qui ont le besoin d'en connaître et qui sont nominativement et préalablement désignés par le président du Comité permanent R sont dispensés d'une autorisation préalable du ministre ayant l'Intérieur dans ses attributions pour l'accès aux données des registres de la population, du registre des étrangers et du registre d'attente.
+
+Est puni de la sanction visée à l'article 13, alinéa 1er, de la loi du 8 août 1983 organisant un registre national des personnes physiques, tout membre du Comité permanent de contrôle des services de renseignements et de sécurité, du Service d'enquêtes des services de renseignements et du personnel administratif du Comité permanent R qui, en violation de l'obligation de confidentialité, communique des informations obtenues des registres de la population, du registre des étrangers ou du registre d'attente à des personnes non habilitées à les recevoir ou qui fait usage de ces données à des fins autres que l'exercice de ses missions légales."
+
+### Art. 7
+
+L'article 6bis de la même loi, inséré par la loi du 25 mars 2003 et modifié en dernier lieu par la loi du 13 août 2022, est complété par les paragraphes 8 et 9 rédigés comme suit:
+
+" § 8. Dans l'exercice de leurs missions respectives, les agents de la Sûreté de l'Etat et du Service Général du Renseignement et de la Sécurité des Forces armées sont dispensés d'une autorisation préalable du ministre ayant l'Intérieur dans ses attributions pour pouvoir accéder aux données du Registre des cartes d'identité et du Registre des cartes d'étranger.
+
+Est puni de la sanction visée à l'article 13, alinéa 1er, de la loi du 8 août 1983 organisant un registre national des personnes physiques, tout agent de la Sûreté de l'Etat et du Service Général du Renseignement et de la Sécurité des Forces armées qui, en violation de l'obligation de confidentialité, communique des informations obtenues par le biais du Registre des cartes d'identité et du Registre des cartes d'étranger à des personnes non habilitées à les recevoir ou qui fait usage de ces données à des fins autres que l'exercice de ses missions légales.
+
+§ 9. Dans l'exercice de leurs missions respectives, les membres du Comité permanent de contrôle des services de renseignements, du Service d'enquêtes des services de renseignements et les membres du personnel administratif du Comité permanent R qui ont le besoin de les connaître et qui sont nominativement et préalablement désignés par le président du Comité permanent R sont dispensés d'une autorisation préalable du ministre ayant l'Intérieur dans ses attributions pour l'accès aux données du Registre des cartes d'identité et du Registre des cartes d'étranger.
+
+Est puni de la sanction visée à l'article 13, alinéa 1er, de la loi du 8 août 1983 organisant un registre national des personnes physiques, tout membre du Comité permanent de contrôle des services de renseignements, du Service d'enquêtes des services de renseignements et tout membre du personnel administratif du Comité permanent R qui, en violation de l'obligation de confidentialité, communique des informations obtenues par le biais du Registre des cartes d'identité et du Registre des cartes d'étranger à des personnes non habilitées à les recevoir ou qui fait usage de ces données à des fins autres que l'exercice de ses missions légales."
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 16 mai 2024.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+P. VAN TIGCHELT
+
+La Ministre de la Défense,
+
+L. DEDONDER
+
+La Ministre de l'Intérieur, des Réformes institutionnelles et du Renouveau démocratique,
+
+A. VERLINDEN
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+P. VAN TIGCHELT

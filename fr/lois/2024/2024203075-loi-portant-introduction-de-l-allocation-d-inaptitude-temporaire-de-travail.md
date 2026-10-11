@@ -1,0 +1,362 @@
+---
+title: "Loi portant introduction de l'allocation d'inaptitude temporaire de travail pour fonctionnaires"
+identifier: "2024203075"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/18/2024203075/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2024-05-18
+published: 2024-06-13
+entry_into_force: 2025-01-01
+last_amended: 2026-06-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2024/05/18/2024203075/justel"
+department: "Sécurité sociale"
+justel_note: "Consultation des versions antérieures à partir du 13-06-2024 et mise à jour au 01-06-2026"
+retrieved: 2026-10-11
+---
+
+# 18 MAI 2024. - Loi portant introduction de l'allocation d'inaptitude temporaire de travail pour fonctionnaires
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition générale
+
+#### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## CHAPITRE 2. - Dispositions modificatives
+
+### Section 1re. - Modification de la loi générale du 21 juillet 1844 sur les pensions civiles et ecclésiastiques
+
+#### Art. 2
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+### Section 2. - Modification de la loi du 14 février 1961 d'expansion économique, de progrès social et de redressement financier
+
+#### Art. 3
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 4
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 5
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 6
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 7
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 8
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 9
+
+Dans l'article 117, § 4, de la même loi, les modifications suivantes sont apportées:
+
+1° le paragraphe est complété par un alinéa rédigé comme suit:
+
+"Lorsque l'intéressé qui a été mis d'office à la retraite conformément à l'article 83 de la loi du 5 août 1978 de réformes économiques et budgétaires ou à l'article 82 de la loi du 26 avril 2002 relative aux éléments essentiels du statut des membres du personnel des services de police et portant diverses autres dispositions relatives aux services de police, décède, sans avoir introduit de demande de pension, dans un délai d'un an à compter de la date à laquelle sa pension aurait pris cours en cas d'introduction d'une demande en temps utile, la pension lui est octroyée d'office à partir de cette date et les arriérés sont ajoutés à sa succession.";
+
+2° [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+### Section 3. - Modification de l'arrêté royal n° 442 du 14 août 1986 relatif à l'incidence de certaines positions administratives sur les pensions des agents des services publics
+
+#### Art. 10
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+### Section 4. - Modification de la loi du 5 août 1978 de réformes économiques et budgétaires
+
+#### Art. 11
+
+A l'article 83 de la loi du 5 août 1978 de réformes économiques et budgétaires, modifié en dernier lieu par la loi du 27 juin 2016, les modifications suivantes sont apportées:
+
+1° dans le paragraphe 1er, les mots " § § 2 et 3" sont remplacés par les mots " § § 3 à 6";
+
+2° le paragraphe 2 est abrogé;
+
+3° d[<sup>1</sup> ...]<sup>1</sup>;
+
+4° dans le paragraphe 4, les modifications suivantes sont apportées:
+
+a) dans l'alinéa 1er, les mots "loi du 14 février 1961" sont remplacés par les mots "loi du 14 février 1961 d'expansion économique, de progrès social et de redressement financier";
+
+b) [<sup>1</sup> ...]<sup>1</sup>;
+
+5° [<sup>1</sup> ...]<sup>1</sup>;
+
+6° dans le paragraphe 6, les mots "aux § § 2 et 3" sont remplacés par les mots "au § 3".
+
+----------
+
+(1)&lt;L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+### Section 5. - Modification de la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions
+
+#### Art. 12
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+### Section 6. - Modification de la loi du 26 juin 1992 portant des dispositions sociales et diverses
+
+#### Art. 13
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 14
+
+Dans l'article 118 de la même loi, les modifications suivantes sont apportées:
+
+1° dans le paragraphe 1er, 1°, les modifications suivantes sont apportées:
+
+a) le f) est remplacé par ce qui suit: "f) le Fonds de pension solidarisé des administrations provinciales et locales";
+
+b) les mots "g) le Fonds des pensions de la police intégrée" sont remplacés par les mots "g) le Fonds des pensions de la police fédérale";
+
+c) les mots "g) le Fonds de pension solidarisé de l'ONSSAPL" sont abrogés;
+
+2° [<sup>1</sup> ...]<sup>1</sup>;
+
+3° dans le paragraphe 1er, 2°, les mots "du Fonds des pensions de la police fédérale ou du Fonds de pension solidarisé de l'ONSSAPL" sont remplacés par les mots "du Fonds des pensions de la police fédérale ou du Fonds de pension solidarisé des administrations provinciales et locales";
+
+4° [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 15
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 16
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 17
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 18
+
+Dans l'article 121 de la même loi les modifications suivantes sont apportées:
+
+1° dans le paragraphe 1er, alinéa 1er, les mots "ou à l'article 82 de la loi du 26 avril 2002 relative aux éléments essentiels du statut des membres du personnel des services de police et portant diverses autres dispositions relatives aux services de police" sont insérés entre les mots "la loi du 5 août 1978 précitée" et les mots ", le montant minimum garanti";
+
+2° [<sup>1</sup> ...]<sup>1</sup>.
+
+3° [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 19
+
+Dans l'article 123 de la même loi, modifié par l'arrêté royal du 20 juillet 2000, les modifications suivantes sont apportées:
+
+1° l'article est remplacé comme suit:
+
+"Le supplément découlant de l'application de l'article 120 cesse d'être payé durant les années civiles au cours desquelles le pensionné exerce une activité lucrative quelconque qui lui procure un revenu brut annuel égal ou supérieur à 607,59 euros.
+
+L'alinéa 1er s'applique également au supplément découlant de l'application de l'article 121 ajouté à une pension de retraite pour inaptitude physique prenant cours avant le 1er janvier 2025 ou à une pension de retraite attribuée d'office conformément à l'article 83 de la loi du 5 août 1978 précitée ou à l'article 82 de la loi du 26 avril 2002 précitée et prenant cours avant le 1er janvier 2025.
+
+Si, pour une année civile déterminée, les revenus professionnels du bénéficiaire dépassent la limite établie conformément aux articles 80 et 86 de la loi-programme du 28 juin 2013, le supplément découlant de l'application de l'article 121, ajouté à une pension de retraite pour inaptitude physique prenant cours après le 31 décembre 2024 ou à une pension de retraite attribuée d'office conformément à l'article 83 de la loi du 5 août 1978 précitée ou à l'article 82 de la loi du 26 avril 2002 précitée et prenant cours après le 31 décembre 2024, est réduit pour la même année au prorata du pourcentage du dépassement.";
+
+2° [<sup>1</sup> ...]<sup>1</sup>;
+
+3° [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 20
+
+Dans l'article 124 de la même loi, modifié en dernier lieu par la loi du 3 février 2003, les mots "la loi du 5 avril 1994 régissant le cumul des pensions du secteur public avec des revenus provenant de l'exercice d'une activité professionnelle ou avec un revenu de remplacement" sont remplacés par les mots "la loi-programme du 28 juin 2013".
+
+#### Art. 21
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 22
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 23
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 24
+
+Dans l'article 134, § 1er, alinéa 1er, de la même loi, modifié par la loi du 25 avril 2007, les modifications suivantes sont apportées:
+
+1° le mot "définitivement" est abrogé;
+
+2° [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 25
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 26
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 27
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 28
+
+Dans l'article 137bis de la même loi, inséré par la loi du 3 février 2003, les modifications suivantes sont apportées:
+
+1° l'article est remplacé comme suit:
+
+"Si, pour une année civile déterminée, les revenus professionnels dépassent la limite fixée conformément aux articles 80 et 86 de la loi-programme du 28 juin 2013, le supplément découlant de l'application de l'article 134, est réduit pour la même année à concurrence du pourcentage de dépassement, à condition que la pension de retraite du bénéficiaire de ce supplément ait débuté après le 31 décembre 2024.
+
+Si la pension de retraite du bénéficiaire du supplément résultant de l'application de l'article 134 a pris cours avant le 1er janvier 2025, le versement de ce supplément cesse pendant les années civiles au cours desquelles le pensionné exerce une activité rémunérée lui procurant un revenu brut annuel égal ou supérieur à 607,59 euros.";
+
+2° [<sup>1</sup> ...]<sup>1</sup>;
+
+3° [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 29
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+### Section 7. - Modification de la loi-programme du 28 juin 2013
+
+#### Art. 30
+
+L'article 76 de la loi-programme du 28 juin 2013, modifié en dernier lieu par la loi du 24 décembre 2020, est complété par le 12° rédigé comme suit:
+
+"12° il faut entendre par "âge légal de la pension": l'âge visé à l'article 46, § 3, de la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions".
+
+#### Art. 31
+
+Dans le titre 8, chapitre 1er, de la loi-programme du 28 juin 2013, modifié en dernier lieu par la loi du 26 décembre 2022, les mots "l'âge de 65 ans" sont remplacés à chaque fois par les mots "l'âge légal de la pension".
+
+#### Art. 32
+
+Dans l'article 81 de la loi-programme du 28 juin 2013, tel que modifié par la loi du 18 décembre 2015, la disposition sous a) est remplacée par ce qui suit:
+
+"a) les pensions de retraite accordées avant l'âge légal de la pension sur la base d'une mise d'office à la retraite, y compris la mise à la retraite pour cause d'inaptitude physique."
+
+#### Art. 33
+
+Dans l'article 91, alinéa 5, de la loi-programme du 28 juin 2013, tel que modifié par la loi du 18 décembre 2015, l'alinéa 5 est remplacé par ce qui suit:
+
+"Par dérogation à l'alinéa 1er, une pension de retraite accordée sur base d'une mise à la retraite d'office, y compris la mise à la retraite pour cause d'inaptitude physique, peut être cumulée de façon illimitée avec un revenu de remplacement visé à l'article 76, 10°, b), d) ou e)."
+
+### Section 8. - Modification de l'arrêté royal du 23 décembre 1996 portant exécution des articles 15, 16 et 17 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions
+
+#### Art. 34
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+### Section 9. - Modification de l'arrêté royal du 30 janvier 1997 relatif au régime de pension des travailleurs indépendants en application des articles 15 et 27 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux de pensions et de l'article 3, § 1, 4°, de la loi du 26 juillet 1996 visant à réaliser les conditions budgétaires de la participation de la Belgique à l'Union économique et monétaire européenne
+
+#### Art. 35
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+### Section 10. - Modification de la loi du 26 avril 2002 relative aux éléments essentiels du statut des membres du personnel des services de police et portant diverses autres dispositions relatives aux services de police
+
+#### Art. 36
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+### Section 11. - Modification de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale
+
+#### Art. 37
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+## CHAPITRE 3. - Dispositions autonomes
+
+#### Art. 38
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+## CHAPITRE 4. - Entrée en vigueur et dispositions transitoires
+
+#### Art. 39
+
+La présente loi entre en vigueur le 1er janvier 2025 [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-30/02, art. 126, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 40
+
+&lt;Abrogé par L 2026-05-30/02, art. 127, 002; En vigueur : 01-06-2026&gt;
+
+#### Art. 41
+
+Le pensionné qui appartenait à une catégorie de personnel à laquelle s'applique l'article 117 de la loi du 14 février 1961 précitée, tel qu'il est en vigueur à partir du 1er janvier 2028, et qui bénéficie, le 1er janvier 2028, d'une pension de retraite pour inaptitude physique définitive ou d'une pension attribuée d'office en vertu de l'article 83 de la loi du 5 août 1978 de réformes économiques et budgétaires, peut demander la conversion, à partir du 1 janvier 2028 au plus tôt, de sa pension de retraite en allocation d'inaptitude temporaire de travail pour fonctionnaires et la soumission, en qualité d'agent mis en inaptitude temporaire de travail, aux dispositions de l'article 117 de la loi du 14 février 1961 précitée tel qu'il est en vigueur à partir du 1er janvier 2028, à condition qu'il ne remplit pas encore les conditions de pension visées à l'article 46 de la loi du 15 mai 1984 précitée.
+
+A la date de prise de cours de l'allocation d'inaptitude temporaire de travail pour fonctionnaires visée à l'alinéa 1er, son taux nominal est égal au taux nominal de la pension de retraite converti à ce moment.
+
+Medex décide, sur demande écrite du pensionné, sur la conversion de la pension de retraite visée à l'alinéa 1er après un nouvel examen du dossier médical du pensionné.
+
+La décision de Medex de conversion de la pension de retraite pour inaptitude physique en allocation d'inaptitude temporaire de travail pour fonctionnaires prend effet le premier jour du mois qui suit celui de la notification de la décision de Medex au bénéficiaire et au service de pension compétent.
+
+La décision de Medex de conversion de la pension de retraite pour inaptitude physique en allocation d'inaptitude temporaire de travail pour fonctionnaires est irréversible dès qu'elle a prise effet.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du Sceau de l'état et publiée par le moniteur belge.
+
+Donné à Bruxelles, le 18 mai 2024.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre des Affaires sociales,
+
+F. VANDENBROUCKE
+
+La Ministre de la Fonction publique,
+
+P. DE SUTTER
+
+La Ministre des Pensions,
+
+K. LALIEUX
+
+Scellé du sceau de l'Etat:
+
+Le Ministre de la Justice,
+
+P. VAN TIGCHELT
