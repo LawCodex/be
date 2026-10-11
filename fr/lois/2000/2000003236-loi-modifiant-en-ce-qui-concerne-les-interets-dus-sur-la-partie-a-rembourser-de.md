@@ -1,0 +1,68 @@
+---
+title: "Loi modifiant, en ce qui concerne les intérêts dus sur la partie à rembourser de l'indemnité d'expropriation, l'article 18 de la loi du 17 avril 1835 sur l'expropriation pour cause d'utilité publique et l'article 21 de la loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique."
+identifier: "2000003236"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2000/04/06/2000003236/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2000-04-06
+published: 2000-05-17
+entry_into_force: 2000-06-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2000/04/06/2000003236/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 6 AVRIL 2000. - Loi modifiant, en ce qui concerne les intérêts dus sur la partie à rembourser de l'indemnité d'expropriation, l'article 18 de la loi du 17 avril 1835 sur l'expropriation pour cause d'utilité publique et l'article 21 de la loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 18 de la loi du 17 avril 1835 sur l'expropriation pour cause d'utilité publique est complété par l'alinéa suivant :
+
+" Si le jugement qui a fixé l'indemnité est réformé et si l'arrêt en a diminué le montant et a dès lors condamné l'exproprié au remboursement du trop-perçu, celui-ci est redevable des fruits civils qu'il a perçus ou aurait pu percevoir sur ce montant jusqu'au jour de la condamnation au remboursement. Ces fruits sont toujours égaux au taux de l'intérêt de la Caisse des dépôts et consignations pour la période où les sommes y sont restées consignées, et au taux de refinancement de la Banque centrale européenne à partir du retrait de celles-ci.
+
+Pour la période antérieure au 1er janvier 1999, les fruits s'élèvent à 3 % à partir du retrait des sommes de la Caisse des dépôts et consignations. ".
+
+## Art. 3
+
+L'article 21 de la loi du 26 juillet 1962 relative à la procédure d'extrême urgence en matière d'expropriation pour cause d'utilité publique est remplacé par la disposition suivante :
+
+" Art. 21. Si au cours de la procédure, l'indemnité d'expropriation est diminuée par décision judiciaire et que l'exproprié est dès lors condamné au remboursement du trop-per}u, celui-ci est redevable des fruits civils qu'il a per}us ou aurait pu percevoir sur ce montant jusqu'au jour de la condamnation au remboursement. Ces fruits sont toujours égaux au taux de l'intérêt de la Caisse des dépôts et consignations pour la période où les sommes y sont restées consignées, et au taux de refinancement de la Banque centrale européenne à partir du retrait de celles-ci.
+
+Pour la période antérieure au 1er janvier 1999, les fruits s'élèvent à 3 % à partir du retrait des sommes de la Caisse des dépôts et consignations. ".
+
+## Art. 4
+
+La présente loi entre en vigueur le premier jour du mois qui suit celui au cours duquel elle aura été publiée au Moniteur belge.
+
+Elle s'applique aux litiges qui, au moment de son entrée en vigueur, ne sont pas encore tranchés par une décision judiciaire coulée en force de chose jugée.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur Belge.
+
+Donné à Bruxelles, le 6 avril 2000.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN

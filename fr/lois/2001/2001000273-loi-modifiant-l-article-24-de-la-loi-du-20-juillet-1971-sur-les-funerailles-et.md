@@ -1,0 +1,76 @@
+---
+title: "Loi modifiant l'article 24 de la loi du 20 juillet 1971 sur les funérailles et sépultures"
+identifier: "2001000273"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2001/02/08/2001000273/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2001-02-08
+published: 2001-03-23
+entry_into_force: 2001-04-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2001/02/08/2001000273/justel"
+department: "Intérieur"
+retrieved: 2026-10-11
+---
+
+# 8 FEVRIER 2001. - Loi modifiant l'article 24 de la loi du 20 juillet 1971 sur les funérailles et sépultures
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 24 de la loi du 20 juillet 1971 sur les funérailles et sépultures, modifié par la loi du 28 décembre 1998, est remplacé par la disposition suivante :
+
+" Art. 24. Les cendres des corps incinérés peuvent être recueillies dans des urnes qui sont, dans l'enceinte du cimetière :
+
+1° soit inhumées à au moins huit décimètres de profondeur;
+
+2° soit placées dans un columbarium.
+
+Les cendres des corps incinérés peuvent être :
+
+1° soit dispersées sur une parcelle du cimetière réservée à cet effet;
+
+2° soit dispersées sur la mer territoriale contiguë au territoire de la Belgique, aux conditions que le Roi détermine.
+
+Les cendres du défunt sont traitées avec respect et dignité et ne peuvent faire l'objet d'aucune activité commerciale, à l'exception des activités afférentes à la dispersion ou à l'inhumation des cendres, ou à leur translation à l'endroit où elles seront conservées.
+
+Si le défunt l'a spécifié par écrit ou à la demande des parents, s'il s'agit d'un mineur d'âge, ou, le cas échéant à la demande du tuteur, les cendres des corps incinérés peuvent :
+
+1° être dispersées à un endroit autre que le cimetière. Cette dispersion ne peut toutefois se faire sur le domaine public, à l'exception du cimetière visé aux alinéas 1er et 2. S'il s'agit d'un terrain qui n'est pas la propriété du défunt ou de ses proches, une autorisation écrite préalable du propriétaire dudit terrain est requise. La dispersion des cendres se fait consécutivement à la crémation;
+
+2° être inhumées à un endroit autre que le cimetière, conformément aux dispositions prévues à l'alinéa 1er, 1°. Cette inhumation ne peut toutefois se faire sur le domaine public, à l'exception du cimetière visé aux alinéas 1er et 2. S'il s'agit d'un terrain qui n'est pas la propriété du défunt ou de ses proches, une autorisation écrite préalable du propriétaire dudit terrain est requise. L'inhumation se fait consécutivement à la crémation;
+
+3° être mises dans une urne à la disposition des proches pour être conservées à un endroit autre que le cimetière. S'il est mis fin à la conservation des cendres à un endroit autre que le cimetière, les cendres sont soit transférées par le proche qui en assure la conservation ou par ses héritiers en cas de décès de celui-ci, dans un cimetière pour y être inhumées, placées dans un columbarium ou dispersées, soit dispersées en mer territoriale contiguë au territoire de la Belgique.
+
+La personne qui prend réception des cendres est responsable du respect de ces dispositions.
+
+Le Roi peut déterminer d'autres conditions auxquelles doivent répondre la conservation, l'inhumation ou la dispersion des cendres visées à l'alinéa 4. ".
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 8 février 2001.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de l'Intérieur,
+
+A. DUQUESNE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

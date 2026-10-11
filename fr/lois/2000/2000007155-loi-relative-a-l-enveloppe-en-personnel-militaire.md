@@ -1,0 +1,214 @@
+---
+title: "Loi relative à l'enveloppe en personnel militaire."
+identifier: "2000007155"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2000/05/25/2000007155/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2000-05-25
+published: 2000-06-29
+entry_into_force: 1997-08-25
+last_amended: 2010-02-12
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2000/05/25/2000007155/justel"
+department: "Défense Nationale"
+justel_notes:
+  - "Art. 2 et 5 sont modifiés avec effet à une date indéterminée par <L 2006-03-05/58 , art. 35 et 36, 005; En vigueur : indéterminée >"
+  - "Consultation des versions antérieures à partir du 29-06-2000 et mise à jour au 12-02-2010"
+retrieved: 2026-10-11
+---
+
+# 25 MAI 2000. - Loi relative à l'enveloppe en personnel militaire.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+§ 1er. La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+§ 2. Pour l'application des dispositions de la présente loi, chaque fois qu'un grade est mentionné, le grade équivalent est également visé.
+
+Pour l'application de la présente loi, il faut comprendre par :
+
+1° effectifs budgétaires : le personnel militaire dont la rémunération est à charge du budget en personnel du Ministère de la Défense nationale;
+
+2° effectifs à temps plein : les effectifs exprimés en équivalents de prestations de service actif à temps plein, pour lesquelles les périodes qui, dans les statuts du personnel militaire sont assimilées à des périodes de service actif sans qu'elles ne correspondent dans les faits à des prestations de service réelles, ne sont pas prises en compte;
+
+3° enveloppe en personnel : les maxima autorisés en effectifs budgétaires à temps plein de personnel militaire;
+
+4°[<sup>1</sup> militaires du cadre actif :
+
+a) les militaires de carrière;
+
+b) les militaires de complément;
+
+c) les officiers auxiliaires;
+
+d) les militaires court terme;
+
+e) les candidats officiers et les candidats sous-officiers du cadre actif, commissionnés respectivement au grade de sous-lieutenant ou de sergent et qui se trouvent déjà dans leur unité de première affectation définitive;
+
+f) les candidats volontaires du cadre actif;
+
+g) les musiciens militaires;
+
+h) les candidats officiers chefs de musique et les candidats sous-officiers musiciens commissionnés respectivement au grade de sous-lieutenant ou de sergent, et qui se trouvent déjà dans leur unité de première affectation définitive;
+
+i) les militaires qui effectuent un engagement volontaire militaire, lorsqu'ils ne perçoivent plus de solde.]<sup>1</sup>
+
+5° élèves : les élèves qui sont formés comme officiers ou sous-officiers dans une catégorie de militaires du cadre actif visée au 4° et qui ne se trouvent pas encore dans leur unité de première affectation définitive;
+
+6° revêtu d'un grade : nommé ou commissionné à ce grade;
+
+7° catégorie de personnel : une des trois catégories suivantes :
+
+a) les " officiers " : les militaires revêtus d'un grade d'officier;
+
+b) les " sous-officiers " : les militaires revêtus d'un grade de sous-officier;
+
+c) les " volontaires " : les autres militaires;
+
+8° sous-catégorie de personnel : une des sous-catégories suivantes :
+
+a) les " officiers généraux " : les officiers revêtus du grade de lieutenant général ou de général-major;
+
+b) les " officiers supérieurs " : les officiers revêtus du grade de colonel, de lieutenant-colonel ou de major;
+
+c) les " officiers subalternes " : les officiers revêtus du grade de capitaine-commandant, de capitaine, de lieutenant ou de sous-lieutenant;
+
+d) les " sous-officiers supérieurs " : les sous-officiers revêtus du grade d'adjudant-major ou d'adjudant-chef;
+
+e) les " sous-officiers d'élite " : les sous-officiers revêtus du grade d'adjudant ou de premier sergent-major;
+
+f) les " sous-officiers subalternes " : les sous-officiers revêtus du grade de premier sergent-chef, de premier sergent ou de sergent;
+
+g) les " volontaires d'élite " : les volontaires revêtus du grade de premier caporal-chef ou de caporal-chef;
+
+h) les " volontaires subalternes " : les volontaires revêtus du grade de caporal, de premier soldat ou de soldat;
+
+9° groupe de sous-catégories de personnel : le regroupement de au moins deux sous-catégories de personnel appartenant à une même catégorie de personnel;
+
+10° groupe de grades : le regroupement, au sein d'une sous-catégorie de personnel, de deux ou plusieurs grades en vue de la sous-répartition des effectifs;
+
+11° période de guerre : la période définie à l'article 2, alinéa 2, de la loi du 20 mai 1994 relative à la mise en oeuvre des forces armées, à la mise en condition, ainsi qu'aux périodes et positions dans lesquelles le militaire peut se trouver.
+
+----------
+
+(1)&lt;L 2010-01-10/15, art. 16, 008; En vigueur : 16-07-2010&gt;
+
+## Art. 2
+
+§ 1er. En temps de paix et en dehors de la période de guerre, l'enveloppe en personnel du cadre actif comporte 40 000 militaires.
+
+Cette enveloppe comporte, par catégorie de personnel :
+
+1° 5 000 officiers;
+
+2° 15 000 sous-officiers;
+
+3° 20 000 volontaires.
+
+L'enveloppe par sous-catégorie de personnel ou groupe de sous-catégories de personnel comporte :
+
+1° 37 officiers généraux;
+
+2° 1 402 officiers supérieurs;
+
+3° 3 561 officiers subalternes;
+
+4° 1 800 sous-officiers supérieurs;
+
+5° 13 200 sous-officiers d'élite et sous-officiers subalternes.
+
+§ 2. En temps de paix et en dehors de la période de guerre, l'enveloppe en personnel des élèves comporte 2 500 militaires.
+
+## Art. 3
+
+Ne sont pas compris dans l'enveloppe fixée à l'article 2, § 1er :
+
+1° le chef de la Maison militaire du Roi (ainsi que, pour autant qu'ils y soient affectés à temps plein, les officiers généraux et supérieurs attachés à la personne du Roi ou aux membres de la Famille royale;); &lt;L 2001-03-22/36, art. 161, 002; En vigueur : 17-04-2001&gt;
+
+2° le Commandant militaire du Palais de la Nation ainsi que les militaires qui sont désignés pour le détachement de garde du Palais de la Nation ou des (Parlements de communauté ou de région); &lt;L 2006-03-27/35, art. 49, 006; En vigueur : 21-04-2006&gt;
+
+3° les militaires dont la rémunération n'émarge pas au budget en personnel du Ministère de la Défense nationale;
+
+4° les militaires utilisés en dehors des forces armées conformément à la loi du 20 mai 1994 relative à l'utilisation de militaires en dehors des forces armées;
+
+5° les militaires en mobilité (, en disponibilité ou en suspension volontaire des prestations); &lt;L 2008-12-22/33, art. 49, 007; En vigueur : 01-01-2009&gt;
+
+6° les militaires du cadre de réserve qui effectuent des prestations volontaires d'encadrement.
+
+(7° les chargés de cours militaires et professeurs militaires de l'Ecole royale militaire.) &lt;L 2003-03-27/49, art. 147, 004; En vigueur : 14-07-2003&gt;
+
+## Art. 4
+
+Les officiers commissionnés au grade de général de brigade sont compris dans l'enveloppe de la sous-catégorie des officiers supérieurs correspondant au grade auquel ils sont nommés.
+
+## Art. 5
+
+L'enveloppe en militaires du cadre actif, répartie par sous-catégorie de personnel ou par groupe de sous-catégories de personnel, tel que définie à l'article 2, § 1er, alinéa 3, est répartie par le Roi entre les forces, le service médical et des corps spéciaux, que le Roi peut déterminer, en tenant compte des besoins de l'organisation des forces armées ainsi que du statut des militaires. Il est habilité à ne pas répartir tout ou partie des officiers généraux (et supérieurs) entre les forces, le service médical et les corps spéciaux et à les classer dans un groupe interforces. &lt;L 2002-08-02/45, art. 148, 003; En vigueur : 29-08-2002&gt;
+
+Si les nombres fixés par sous-catégorie de personnel ou groupe de sous-catégories de personnel, tel que définis à l'article 2, § 1er, alinéa 3, ne sont pas atteints, la différence peut bénéficier, par catégorie de personnel, à une sous-catégorie de personnel inférieure ou à un groupe inférieur de sous-catégories de personnel.
+
+Si le nombre fixé de l'enveloppe en personnel du cadre actif, tel que défini à l'article 2, § 1er, alinéa 1er, n'est pas atteint, la différence peut bénéficier à l'enveloppe en personnel des élèves.
+
+## Art. 6
+
+Sont abrogés dans la loi du 13 juillet 1976 relative aux effectifs et aux statuts du personnel des forces armées :
+
+1° les articles 1er à 4;
+
+2° l'article 5, modifié par la loi du 28 décembre 1990.
+
+## Art. 7
+
+Par mesure transitoire et pour parvenir progressivement et au plus tard au 31 décembre 2002 à une enveloppe de 42 500 militaires, soit la somme des enveloppes visées à l'article 2, § 1er, alinéa 1er, et à l'article 2, § 2, le ministre de la Défense ne peut procéder pour les années 1998 à 2003 au recrutement de militaires que pour autant que les objectifs suivants en militaires dans l'enveloppe du personnel ne soient pas dépassés à la fin de chaque année, qui précède l'année du recrutement :
+
+1° au 31 décembre 1997 : 44 654;
+
+2° au 31 décembre 1998 : 43 988;
+
+3° au 31 décembre 1999 : 43 717;
+
+4° au 31 décembre 2000 : 43 463;
+
+5° au 31 décembre 2001 : 43 043;
+
+6° au 31 décembre 2002 : 42 500.
+
+## Art. 8
+
+Le Roi détermine les mesures transitoires nécessaires à l'application de la présente loi. Pour les catégories, sous-catégories et groupes de sous-catégories de personnel qui présentent des surnombres par rapport aux chiffres définis à l'article 2, § 1er, ces mesures doivent conduire à une diminution graduelle d'année en année.
+
+## Art. 9
+
+L'arrêté royal du 24 juillet 1997 relatif à l'enveloppe en personnel militaire, en application de l'article 3, § 1er, 1°, de la loi du 26 juillet 1996 visant à réaliser les conditions budgétaires de la participation de la Belgique à l'Union économique et monétaire européenne, est abrogé.
+
+## Art. 10
+
+La présente loi produit ses effets le 25 août 1997.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 25 mai 2000.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Défense,
+
+A. FLAHAUT
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

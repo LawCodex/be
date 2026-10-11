@@ -1,0 +1,114 @@
+---
+title: "Loi ajustant le budget des Voies et Moyens de l'année budgétaire 2000. -"
+identifier: "2000003392"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2000/07/10/2000003392/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2000-07-10
+published: 2000-08-05
+entry_into_force: 2000-08-05
+last_amended: 2000-12-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2000/07/10/2000003392/justel"
+department: "Finances"
+justel_note: "Consultation des versions antérieures à partir du 05-08-2000 et mise à jour au 21-12-2000."
+retrieved: 2026-10-11
+---
+
+# 10 JUILLET 2000. - Loi ajustant le budget des Voies et Moyens de l'année budgétaire 2000. -
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 74, 3°, de la Constitution.
+
+## Art. 2
+
+Pour l'année budgétaire 2000, les recettes courantes de l'Etat sont réévaluées :
+
+Pour les recettes fiscales, a F 1 532 134 200 000
+
+Pour les recettes non fiscales, a . . . F 113 949 500 000
+
+Soit ensemble F 1 646 083 700 000
+
+conformément au Titre I du tableau ci-annexé.
+
+## Art. 3
+
+Pour l'année budgétaire 2000, les recettes en capital sont réévaluées à la somme de 13 010 600 000 francs belges, conformément au Titre II du tableau ci-annexé.
+
+## Art. 4
+
+Pour l'année budgétaire 2000, les produits d'emprunts sont réévalués à la somme de 1 216 763 600 000 de francs belges, conformément au Titre III du tableau ci-annexé.
+
+## Art. 5
+
+Le § 3, 1°, de l'article 8 de la loi du 24 décembre 1999 contenant le budget des Voies et Moyens pour l'année budgétaire 2000, doit être complété par un point f) libellé comme suit :
+
+"f) les rachats directs sur les marchés secondaires de titres dématérialisés exclusivement inscrits en compte.".
+
+## Art. 6
+
+Conformément à l'article 53, 1°, de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions, modifiée par la loi spéciale du 16 juillet 1993 visant à achever la structure fédérale de l'Etat, compte tenu de l'affectation des intérêts de retard et de la charge des intérêts moratoires relatifs aux impôts régionaux telle que visée à l'article 4, § 6, de cette même loi spéciale, compte tenu également de l'application par la Région flamande, en matière de précompte immobilier à partir de l'exercice d'imposition 1999, de la faculté offerte aux Régions par l'article 5, § 3, de ladite loi spéciale d'assurer elles-mêmes le service des impôts régionaux dont le produit leur est entièrement attribué, les moyens financiers des Régions en provenance des impôts régionaux, y compris les intérêts susvisés, sont estimés pour l'année budgétaire 2000 à 40 946 400 000 francs belges pour la Région flamande, à 20 181 100 000 francs belges pour la Région wallonne et à 13 110 700 000 francs belges pour la Région de Bruxelles-Capitale.
+
+## Art. 7
+
+&lt;L 2000-12-14/33, art. 2, 002; En vigueur : 21-12-2000&gt; Conformément à l'article 53, 2° de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions, modifiée par la loi spéciale du 16 juillet 1993 visant à achever la structure fédérale de l'Etat, et compte tenu de la loi du 23 mai 2000 fixant les critères visés à l'article 39, § 2 de la même loi spéciale du 16 janvier 1989, compte tenu également des soldes définitifs de décompte de l'année budgétaire 1999, les moyens financiers des Communautés en provenance des parties attribuées du produit de la taxe sur la valeur ajoutée et du produit de l'impôt des personnes physiques sont estimés, pour l'année budgétaire 2000, à 317 736 100 000 francs belges pour la Communauté flamande et à 218 155 500 000 francs belges pour la Communauté française.
+
+## Art. 8
+
+(Conformément à l'article 53, 3° et 35ter de la loi spéciale du 16 janvier 1989 relative au financement des Communautés et des Régions, modifiée par la loi spéciale du 16 juillet 1993 visant à achever la structure fédérale de l'Etat, et compte tenu des soldes définitifs de décompte de l'année budgétaire 1999, les moyens financiers des Régions en provenance des parties attribuées du produit de l'impôt des personnes physiques sont estimés pour l'année budgétaire 2000 à 228 558 100 000 francs belges pour la Région flamande, à 129 536 100 000 francs belges pour la Région wallonne et à 35 187 700 000 francs belges pour la Région Bruxelles-Capitale.) &lt;Erratum, voir M.B. 26.08.2000, p. 29.177&gt;
+
+## Art. 9
+
+Les recettes au profit des Communautés et des Régions sont versées, selon le cas, soit à un fonds d'attribution ouvert au budget général des dépenses, soit à un compte d'ordre de Trésorerie.
+
+## Art. 10
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 10 juillet 2000.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre du Budget,
+
+J. VANDE LANOTTE
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.
+
+## ANNEXE.
+
+## Art. N
+
+TABLEAU DES RECETTES
+
+A titre indicatif, les montants des recettes ajustées sont également exprimés en euros. Il convient cependant de préciser que, pour éviter l'accumulation des erreurs d'arrondi, ces montants ont été calculés à quelque niveau que ce soit par conversion des montants en francs belges. Il en résulte que les totaux en euros (par paragraphe, chapitre, section et titre) peuvent ne pas correspondre exactement au total de leurs composantes en euros.
+
+TITRE I. - RECETTES COURANTES.
+
+(Tableau non repris pour des raisons techniques. Voir M.B. 05-08-2000, p. 27033-71).
+
+TITRE II. - RECETTES DE CAPITAL.
+
+(Tableau non repris pour des raisons techniques. Voir M.B. 05-08-2000, p. 27073-81).

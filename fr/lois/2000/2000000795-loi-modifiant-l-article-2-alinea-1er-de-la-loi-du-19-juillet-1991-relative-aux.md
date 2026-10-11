@@ -1,0 +1,52 @@
+---
+title: "Loi modifiant l'article 2, alinéa 1er, de la loi du 19 juillet 1991 relative aux registres de la population et aux cartes d'identité et modifiant la loi du 8 août 1983 organisant un registre national des personnes physiques."
+identifier: "2000000795"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2000/08/12/2000000795/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2000-08-12
+published: 2000-10-11
+entry_into_force: 2000-10-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2000/08/12/2000000795/justel"
+department: "Intérieur"
+retrieved: 2026-10-11
+---
+
+# 12 AOUT 2000. - Loi modifiant l'article 2, alinéa 1er, de la loi du 19 juillet 1991 relative aux registres de la population et aux cartes d'identité et modifiant la loi du 8 août 1983 organisant un registre national des personnes physiques.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté en Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 2, alinéa 1er, de la loi du 19 juillet 1991 relative aux registres de la population et aux cartes d'identité et modifiant la loi du 8 août 1983 organisant un registre national des personnes physiques est complété comme suit :
+
+" Sans préjudice de ce qui précède, aucun document d'identité délivré sur la base d'une inscription aux registres de la population ou au registre d'attente, ne peut faire mention d'un divorce ou de la cause de celui-ci ".
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Nice, le 12 août 2000.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de l'Intérieur,
+
+A. DUQUESNE
+
+Scellé du sceau de l'Etat,
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

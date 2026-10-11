@@ -1,0 +1,86 @@
+---
+title: "Loi modifiant diverses dispositions relatives au régime de l'indemnisation automatique des usagers de la route les plus vulnérables et des passagers de véhicules."
+identifier: "2001011006"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2001/01/19/2001011006/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2001-01-19
+published: 2001-02-21
+entry_into_force: 2001-03-03
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2001/01/19/2001011006/justel"
+department: "Affaires économiques"
+retrieved: 2026-10-11
+---
+
+# 19 JANVIER 2001. - Loi modifiant diverses dispositions relatives au régime de l'indemnisation automatique des usagers de la route les plus vulnérables et des passagers de véhicules.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+A l'article 29bis, de la loi du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs, inséré par la loi du 30 mars 1994 et remplacé par la loi du 13 avril 1995, sont apportées les modifications suivantes :
+
+A) Le § 1er, alinéa 1er, est remplacé par l'alinéa suivant :
+
+" § 1er. En cas d'accident de la circulation impliquant un ou plusieurs véhicules automoteurs, aux endroits visés à l'article 2, § 1er, et à l'exception des dégâts matériels et des dommages subis par le conducteur de chaque véhicule automoteur impliqué, tous les dommages subis par les victimes et leurs ayants droit et résultant de lésions corporelles ou du décès, y compris les dégâts aux vêtements, sont réparés solidairement par les assureurs qui, conformément à la présente loi, couvrent la responsabilité du propriétaire, du conducteur ou du détenteur des véhicules automoteurs. La présente disposition s'applique également si les dommages ont été causés volontairement par le conducteur. ".
+
+B) Dans le § 1er, l'alinéa suivant est inséré entre les alinéas 1er et 2 :
+
+" En cas d'accident de la circulation impliquant un véhicule automoteur lié à une voie ferrée, l'obligation de réparer les dommages prévue à l'alinéa précédent incombe au propriétaire de ce véhicule. ".
+
+C) Le § 1er, alinéa 2, est complété comme suit :
+
+" Il y a lieu d'entendre par prothèses fonctionnelles : les moyens utilisés par la victime pour compenser des déficiences corporelles. ".
+
+D) dans le § 1er, alinéa 4, les mots " , au sens de l'alinéa 1er, " sont insérés entre les mots " aux accidents de la circulation " et les mots " impliquant des véhicules ".
+
+E) Le § 1er, alinéa 5, est remplacé par l'alinéa suivant :
+
+" Les victimes âgées de plus de 14 ans qui ont voulu l'accident et ses conséquences ne peuvent se prévaloir des dispositions visées à l'alinéa 1. ".
+
+F) Au § 1er, les alinéas 6 et 7 sont abrogés.
+
+G) le § 2 est complété comme suit :
+
+" , sauf si le conducteur agit en qualité d'ayant droit d'une victime qui n'était pas conducteur et à condition qu'il n'ait pas causé intentionnellement les dommages. ".
+
+## Art. 3
+
+Dans l'article 48ter, alinéa 1er, de la loi du 10 avril 1971 sur les accidents du travail, inséré par la loi du 29 avril 1996 et modifié par l'arrêté royal du 16 décembre 1996, les mots " , du conducteur " sont insérés entre les mots " qui couvre la responsabilité du propriétaire " et les mots " ou du détenteur ".
+
+## Art. 4
+
+Dans l'article 14bis, § 3, alinéa 1er, de la loi du 3 juillet 1967 sur la prévention ou la réparation des dommages résultant des accidents du travail, des accidents survenus sur le chemin du travail et des maladies professionnelles dans le secteur public inséré par la loi du 20 décembre 1995, les mots " , du conducteur " sont insérés entre les mots " qui couvre la responsabilité du propriétaire " et les mots " ou du détenteur ".
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 19 janvier 2001.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN
+
+Le Ministre de l'Economie,
+
+Ch. PICQUE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

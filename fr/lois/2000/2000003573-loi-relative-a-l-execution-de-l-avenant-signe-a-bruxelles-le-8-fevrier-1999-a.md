@@ -1,0 +1,52 @@
+---
+title: "Loi relative à l'exécution de l'Avenant, signé à Bruxelles le 8 février 1999, à la Convention entre la Belgique et la France tendant à éviter les doubles impositions et à établir des règles d'assistance administrative et juridique réciproque en matière d'impôts sur les revenus, signée à Bruxelles le 10 mars 1964."
+identifier: "2000003573"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2000/08/12/2000003573/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2000-08-12
+published: 2000-09-26
+entry_into_force: 2000-10-06
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2000/08/12/2000003573/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 12 AOUT 2000. - Loi relative à l'exécution de l'Avenant, signé à Bruxelles le 8 février 1999, à la Convention entre la Belgique et la France tendant à éviter les doubles impositions et à établir des règles d'assistance administrative et juridique réciproque en matière d'impôts sur les revenus, signée à Bruxelles le 10 mars 1964.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Par dérogation aux dispositions du Code des impôts sur les revenus 1992 en matière de délais de réclamation et de dégrèvement d'office, le dégrèvement des impositions établies ou acquittées contrairement aux dispositions de l'Avenant, signé à Bruxelles le 8 février 1999, à la Convention entre la Belgique et la France tendant à éviter les doubles impositions et à établir des règles d'assistance administrative et juridique réciproque en matière d'impôts sur les revenus, signée à Bruxelles le 10 mars 1964, est, même lorsque ces impositions ne sont plus susceptibles de révision en droit interne, accordé, soit d'office par le directeur des contributions si les surtaxes ont été constatées par l'administration ou signalées à celle-ci par le redevable dans le délai d'un an à compter de la publication soit de la présente loi soit de l'Avenant précité au Moniteur Belge, soit ensuite d'une réclamation motivée présentée par écrit dans le même délai au fonctionnaire précité. La date de la publication intervenue en dernier lieu prévaudra pour le calcul du délai.
+
+## Art. 3
+
+L'article 244bis du Code des impôts sur les revenus 1992 est applicable aux résidents de la France visés à l'article 25, §§ 2 et 3, de la Convention franco-belge du 10 mars 1964 tendant à éviter les doubles impositions et à établir des règles d'assistance administrative et juridique réciproque en matière d'impôts sur les revenus, tel que cet article a été modifié par l'Avenant du 8 février 1999 à ladite Convention.
+
+Donné à Nice, le 12 août 2000.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

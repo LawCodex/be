@@ -1,0 +1,84 @@
+---
+title: "Loi modifiant certaines dispositions du Code judiciaire relatives à la tutelle des mineurs."
+identifier: "2001009448"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2001/03/27/2001009448/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2001-03-27
+published: 2001-05-31
+entry_into_force: 2001-08-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2001/03/27/2001009448/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 27 MARS 2001. - Loi modifiant certaines dispositions du Code judiciaire relatives à la tutelle des mineurs.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE I. - Disposition générale.
+
+### Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## CHAPITRE II. - Modifications du Code judiciaire.
+
+### Art. 2
+
+A l'article 569, alinéa 1er, du Code judiciaire sont apportées les modifications suivantes :
+
+1° le 3° est abrogé;
+
+2° au 12°, les mots " des articles 1186 à 1193 " sont remplacés par les mots " des articles 1187 à 1193 ";
+
+3° le 19°, inséré par la loi du 7 mai 1973, est abrogé.
+
+### Art. 3
+
+L'article 585 du même Code, modifié par la loi du 11 avril 1989, est complété comme suit :
+
+" 9° les demandes de désignation d'un curateur en vertu de l'article 936 du Code civil. ".
+
+### Art. 4
+
+L'article 594, 6°, du même Code, abrogé par la loi du 12 mai 1971, est rétabli dans la rédaction suivante :
+
+" 6° sur les demandes dont il est saisi en matière de tutelle des mineurs, des mineurs prolongés et des interdits, ainsi qu'en exécution des articles 378 et 483 du Code civil; ".
+
+### Art. 5
+
+L'article 627, 1°, du même Code est remplacé par la disposition suivante :
+
+" 1° le juge du domicile ou, à défaut, de la résidence du mineur lorsqu'il s'agit de l'organisation et de la surveillance de la tutelle, sous réserve de ce qui est prévu à l'article 13, § 2, de la loi du 31 décembre 1851 sur les consulats et la juridiction consulaire; ".
+
+## CHAPITRE III. - Entrée en vigueur.
+
+### Art. 6
+
+La présente loi entre en vigueur le premier jour du troisième mois qui suit celui au cours duquel elle aura été publiée au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 27 mars 2001.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

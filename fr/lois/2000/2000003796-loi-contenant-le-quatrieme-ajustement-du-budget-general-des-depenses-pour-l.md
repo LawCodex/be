@@ -1,0 +1,84 @@
+---
+title: "Loi contenant le quatrième ajustement du budget général des dépenses pour l'année budgétaire 2000. - Section 16 - \" Défense nationale \"."
+identifier: "2000003796"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2000/12/14/2000003796/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2000-12-14
+published: 2001-01-13
+entry_into_force: 2001-01-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2000/12/14/2000003796/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 14 DECEMBRE 2000. - Loi contenant le quatrième ajustement du budget général des dépenses pour l'année budgétaire 2000. - Section 16 - " Défense nationale ".
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 2.16.1
+
+La présente loi règle une matière visée à l'article 74, 3°, de la Constitution.
+
+## Art. 2.16.2
+
+Le budget général des dépenses pour l'année budgétaire 2000 est ajusté, en ce qui concerne la Section 16 - " Défense nationale ", conformément aux totaux des programmes figurant dans les tableaux des crédits ajustés annexés à la présente loi.
+
+## Art. 2.16.3
+
+Les crédits ouverts par la présente loi seront couverts par les ressources générales du Trésor.
+
+## Art. 2.16.4
+
+A l'article 2.16.21, dernier alinéa, de la loi du 24 décembre 1999 contenant le budget général des dépenses pour l'année budgétaire 2000, le montant de 115 millions de francs belges pour les autorisations de paiement est remplacé par le montant de 165 millions de francs belges.
+
+## Art. 2.16.5
+
+Le Ministre de la Défense est autorisé, en ce qui concerne le personnel qui se trouve à l'étranger, pour une période d'au moins deux semaines, dans le cadre des opérations d'assistance et d'engagement opérationnel ou dans le cadre d'exercices, de prendre partiellement, à charge du budget, les coûts associés aux communications à titre privé.
+
+Le Ministre de la Défense est chargé des modalités d'exécution de cette prise en charge, notamment en fonction des circonstances propres à chaque opération.
+
+## Art. 2.16.6
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée au Moniteur belge.
+
+Donné à Bruxelles, le 14 décembre 2000.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre du Budget,
+
+J. VANDE LANOTTE
+
+Le Ministre de la Défense,
+
+A. FLAHAUT
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN
+
+## ANNEXE.
+
+## Art. N
+
+Quatrième ajustement du budget général des dépenses pour l'année budgétaire 2000. - Section 16 - " Défense nationale ".
+
+(Tableaux non repris pour des raisons techniques. Voir M.B. 13-01-2001, p. 867 - 879).

@@ -1,0 +1,66 @@
+---
+title: "Loi modifiant la loi du 5 août 1991 sur la protection de la concurrence économique."
+identifier: "2000011108"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2000/03/15/2000011108/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2000-03-15
+published: 2000-05-05
+entry_into_force: 1999-10-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2000/03/15/2000011108/justel"
+department: "Affaires économiques"
+retrieved: 2026-10-11
+---
+
+# 15 MARS 2000. - Loi modifiant la loi du 5 août 1991 sur la protection de la concurrence économique.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+La loi du 5 août 1991 sur la protection de la concurrence économique, coordonnée par l'arrêté royal du 1er juillet 1999, est complétée par un chapitre VII, rédigé comme suit :
+
+" Chapitre VII. - Disposition transitoire.
+
+## Art. 56
+
+Le Roi désigne des agents du Ministère des Affaires économiques pour exercer les fonctions de rapporteur auprès du Service de la concurrence, au sens de l'article 14, § 2, de la loi sur la protection de la concurrence économique, coordonnée le 1er juillet 1999. Les fonctions prennent fin de plein droit lors de la nomination des rapporteurs à la suite du concours visé dans la disposition précitée et, en tout cas, après une période d'un an.
+
+Les agents désignés doivent être porteurs d'un diplôme de docteur ou de licencié en droit, d'ingénieur commercial ou de docteur ou de licencié en économie. Ils doivent également disposer d'une expérience utile d'au moins trois ans en matière de concurrence et de procédure.
+
+Le Roi désigne autant d'agents issus du cadre linguistique français que du cadre linguistique néerlandais. Le Roi charge l'un des agents désignés des fonctions de chef de corps.
+
+Ces désignations sont sans effet sur le statut administratif et pécuniaire des agents désignés. "
+
+## Art. 3
+
+La présente loi produit ses effets le 1er octobre 1999.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 15 mars 2000.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de l'Economie,
+
+R. DEMOTTE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN
