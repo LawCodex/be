@@ -1,0 +1,1590 @@
+---
+title: "Loi portant des dispositions sociales et diverses. -"
+identifier: "1992021199"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1992/06/26/1992021199/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1992-06-26
+published: 1992-06-30
+entry_into_force: 1992-07-10
+last_amended: 2026-06-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1992/06/26/1992021199/justel"
+department: "Premier Ministre"
+justel_note: "Consultation des versions antérieures à partir du 09-01-1993 et mise à jour au 01-06-2026"
+retrieved: 2026-10-12
+---
+
+# 26 JUIN 1992. - Loi portant des dispositions sociales et diverses. -
+
+## TITRE I. - AFFAIRES SOCIALES ET SANTE PUBLIQUE.
+
+### CHAPITRE I. - Mesures budgétaires.
+
+###### Art. 1
+
+Par dérogation aux dispositions de l'article 26 de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, aux dispositions de l'article 32, §§ 1er et 2, de l'arrêté royal du 30 juillet 1964 portant les conditions dans lesquelles l'application de la loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité est étendue aux travailleurs indépendants, et aux dispositions de l'article 73, alinéa 1er, 3° et 4°, de l'arrêté royal du 20 juillet 1971 instituant un régime d'assurance contre l'incapacité de travail en faveur des travailleurs indépendants, les subventions de l'Etat dans le régime de l'assurance obligatoire contre la maladie et l'invalidité pour l'exercice 1992 sont fixées comme suit :
+
+\- Régime général (en millions de francs) :
+
+\- soins de santé 118 947;
+
+\- indemnités 16 050;
+
+\- Régime des indépendants (en millions de francs) :
+
+\- soins de santé 7 592;
+
+\- indemnités 2 317.
+
+###### Art. 2
+
+§ 1. Un montant de 9 250 millions de francs est prélevé du produit des cotisations de sécurité sociale attribuées pour l'année 1992 à l'Office national d'allocations familiales pour travailleurs salariés.
+
+Ce montant est affecté à concurrence de 8 600 millions de francs à l'Office national des pensions et à concurrence de 650 millions de francs au régime général d'assurance obligatoire contre la maladie et l'invalidité, secteur indemnités.
+
+§ 2. Le ministre des Affaires sociales est autorisé à transférer le montant visé au § 1er par tranches selon les besoins de trésorerie et dans les limites des disponibilités des organismes de sécurité sociale concernés.
+
+###### Art. 3
+
+§ 1. Un montant de 1 650 millions de francs est prélevé du produit des cotisations de sécurité sociale attribuées pour l'année 1992 au Fonds des accidents du travail.
+
+Ce montant est affecté au régime général d'assurance obligatoire contre la maladie et l'invalidité, secteur indemnités, pour couvrir en partie le mali de 1992 dans ce secteur.
+
+§ 2. Le ministre des Affaires sociales est autorisé à transférer le montant visé au § 1er par tranches selon les besoins de trésorerie et dans les limites des disponibilités des organismes de sécurité sociale concernés.
+
+###### Art. 4
+
+§ 1. Un montant de 2 750 millions de francs est prélevé du produit des cotisations de sécurité sociale attribuées pour l'année 1992 au Fonds des maladies professionnelles.
+
+Ce montant est affecté au régime général d'assurance obligatoire contre la maladie et l'invalidité, secteur indemnités, pour couvrir en partie le mali de 1992 dans ce secteur.
+
+§ 2. Le ministre des Affaires sociales est autorisé à transférer le montant visé au § 1er par tranches selon les besoins de trésorerie et dans les limites des disponibilités des organismes de sécurité sociale concernés.
+
+###### Art. 5
+
+&lt;disposition modificative de l'art. 125, § 1, de L 1963-08-09/01&gt;
+
+###### Art. 6
+
+&lt;disposition modificative de l'art. 36, § 1, de L 1981-06-29/02&gt;
+
+###### Art. 7
+
+&lt;disposition modificative de l'art. 7, § 2, de L 1991-03-13/37&gt;
+
+###### Art. 8
+
+Par dérogation aux dispositions de l'article 121, alinéa 1er, 3° à 8°, de la loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité, modifié par les lois des 27 juin 1969, 9 juin 1970, 16 juillet 1974 et 22 décembre 1977, à celles de l'article 26 de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, modifié par l'arrêté royal n° 528 du 31 mars 1987, à celles de l'article 32, §§ 1er et 2, de l'arrêté royal du 30 juillet 1964 portant les conditions dans lesquelles l'application de la loi du 9 août 1963 instituant et organisant un régime d'assurance obligatoire contre la maladie et l'invalidité est étendue aux travailleurs indépendants, modifié par les arrêtés royaux des 29 juin 1970 et 12 août 1985, à celles de l'article 73, alinéa 1er, 3° et 4°, de l'arrêté royal du 20 juillet 1971 instituant un régime d'assurance contre l'incapacité de travail en faveur des travailleurs indépendants, modifié par l'arrêté royal du 12 août 1985, et à celles de l'article 83 de la loi du 1er août 1985 portant des dispositions sociales, les subventions de l'Etat pour les années 1969 à 1988 sont fixées aux montants inscrits au budget du Ministère de la Prévoyance sociale pour les années précitées.
+
+###### Art. 9
+
+Par dérogation aux dispositions de l'article 6 de la loi de redressement du 10 février 1981 relative à la sécurité sociale et au bien-être en 1981, modifié par la loi du 22 janvier 1985, le solde des intérêts de la dette cumulée et non encore amortie de l'Institut national d'assurance maladie-invalidité, est pris en charge par cet organisme.
+
+###### Art. 10
+
+Par dérogation à l'article 36 de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, modifié par les lois des 22 janvier 1985, 29 décembre 1990 et 20 juillet 1991, le montant restant à régulariser en faveur de l'Office national de sécurité sociale, se rapportant à l'année 1990 et aux années antérieures, à concurrence de 1 435,3 millions de francs, n'est plus dû par l'Etat.
+
+### CHAPITRE II. - Dispositions relatives aux cotisations de sécurité sociale des travailleurs salariés.
+
+###### Art. 11
+
+1° &lt;disposition modificative de l'art. 38, § 2, 4°, de L 1981-06-29/02&gt;
+
+2° &lt;disposition modificative de l'art. 38, § 3, 2°, de L 1981-06-29/02&gt;
+
+###### Art. 12
+
+1° &lt;disposition modificative de l'art. 2, § 2, 4°, de l'AL 1945-01-10/01&gt;
+
+2° &lt;disposition modificative de l'art. 2, § 3, 4°, de L'AL 1945-01-10/01&gt;
+
+3° &lt;disposition modificative de l'art. 2, § 7, 3°, de L'AL 1945-01-10/01&gt;
+
+###### Art. 13
+
+&lt;disposition modificative de l'art. 3, § 2, 3°, de l'AL 1945-02-07/01&gt;
+
+###### Art. 14
+
+1° &lt;Disposition abrogatoire de l'art. 38bis de L 1981-06-29/02&gt;
+
+2° &lt;Disposition abrogatoire de l'AR 227 1983-12-09/30&gt;
+
+3° &lt;Disposition abrogatoire de l'AR 228 1983-12-09/31&gt;
+
+###### Art. 15
+
+&lt;disposition modificative de l'art. 121, 10°, al. 1, de L 1963-08-09/01&gt;
+
+###### Art. 16
+
+Les dispositions du présent chapitre entrent en vigueur le 1er juillet 1992, à l'exception de l'article 15 qui entre en vigueur à la date fixée par arrêté royal délibéré en Conseil des ministres.
+
+### CHAPITRE III. - Dispositions relatives à la législation sur les vacances annuelles.
+
+###### Art. 17
+
+&lt;L 1999-01-25/32, art. 59, 007; En vigueur : 16-02-1999&gt; Les agents des communes, des associations de communes et des établissements subordonnés aux communes, autres que les agents contractuels subventionnés visés à l'arrêté royal n° 474 du 28 octobre 1986 portant création d'un régime de contractuels subventionnés par l'Etat auprès de certains pouvoirs locaux, qui ne sont pas pourvus d'une nomination à titre définitif, sont soumis soit au régime des vacances annuelles visé à l'arrêté royal du 30 janvier 1979 relatif à l'octroi d'un pécule de vacances aux agents de l'Administration générale du Royaume, soit au régime des vacances annuelles visé au Titre III de l'arrêté royal du 30 mars 1967 déterminant les modalités générales d'exécution des lois relatives aux vacances annuelles des travailleurs salariés. Il appartient au Conseil communal de déterminer le régime des vacances annuelles applicable.
+
+###### Art. 18
+
+Les dispositions du présent chapitre entrent en vigueur le 1er janvier 1993.
+
+### CHAPITRE IV. - Dispositions générales relatives à l'assurance maladie-invalidité.
+
+#### Section 1. - Dispositions relatives aux budgets et objectifs budgétaires.
+
+###### Art. 19
+
+&lt;disposition modificative de l'art. 34bis, § 1 à § 3, de L 1963-08-09/01&gt;
+
+#### Section 2. - Dispositions relatives à la biologie clinique ambulatoire.
+
+###### Art. 20
+
+&lt;insertion d'un § 8 dans l'article 34undecies de L 1963-08-09/01&gt;
+
+###### Art. 21
+
+&lt;insertion d'un article 34undecies bis dans L 1963-08-09/01&gt;
+
+###### Art. 22
+
+§ 1. Les dispositions des §§ 1er à 9 de l'article 34undecies bis, comme introduit par l'article 21 de la loi du 26 juin 1992 contenant des dispositions sociales et diverses, sont d'application pour les prestations de biologie clinique, le budget global, les dépenses de biologie clinique et les dépenses facturées de biologie clinique du 1er avril 1989 jusques et y compris le 31 décembre 1990.
+
+§ 2. Les dispositions des §§ 10 à 17 de l'article 34undecies bis, comme introduit par l'article 21 de la loi du 26 juin 1992 contenant des dispositions sociales et diverses, sont d'application pour les prestations de biologie clinique, le budget global, les dépenses pour la biologie clinique et les dépenses facturées de biologie clinique à partir du 1er janvier 1991.
+
+#### Section 3. - Dispositions relatives aux modifications de la nomenclature des prestations de santé.
+
+###### Art. 23
+
+&lt;disposition modificative de l'art. 34duodecies de L 1963-08-09/01&gt;
+
+#### Section 4. - Dispositions relatives à l'élargissement du système de budget global et du mode de paiement forfaitaire à toutes les prestations de santé.
+
+###### Art. 24
+
+&lt;disposition modificative de la section 1undecies du Titre III du chapitre IV de L 1963-08-09/01&gt;
+
+#### Section 5. - Dispositions relatives à l'intervention de l'assurance pour les prestations de santé.
+
+###### Art. 25
+
+&lt;disposition modificative de l'art. 25 de L 1963-08-09/01&gt;
+
+### CHAPITRE V. - Dispositions particulières relatives à l'assurance maladie-invalidité.
+
+#### Section 1. - Dispositions relatives aux produits pharmaceutiques.
+
+###### Art. 26
+
+&lt;disposition modificative de l'art. 121, 18°, de L 1963-08-09/01&gt;
+
+###### Art. 27
+
+&lt;disposition modificative de l'art. 25, § 2bis, de L 1963-08-09/01&gt;
+
+###### Art. 28
+
+&lt;disposition modificative de l'art. 98 de L 1963-08-09/01&gt;
+
+#### Section 2. - Dispositions relatives aux récupérations effectuées par les organismes assureurs.
+
+###### Art. 29
+
+&lt;disposition modificative de l'art. 125, § 1bis, de L 1963-08-09/01&gt;
+
+#### Section 3. - Dispositions relatives aux conditions d'agréation des auxiliaires paramédicaux.
+
+###### Art. 30
+
+&lt;disposition modificative de l'art. 153, § 2, de L 1963-08-09/01&gt;
+
+#### Section 4. - Financement.
+
+###### Art. 31
+
+&lt;disposition modificative de l'art. 121, 11°, al. 1, de L 1963-08-09/01&gt;
+
+### CHAPITRE VI. - Disposition concernant le remboursement d'un emprunt à charge de l'Etat.
+
+###### Art. 32
+
+&lt;disposition modificative de l'art. 83 de L 1985-08-01/31&gt;
+
+### CHAPITRE VII. - Dispositions modifiant l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice de l'art de guérir, de l'art infirmier, des professions paramédicales et aux commissions médicales.
+
+###### Art. 33
+
+&lt;disposition modificative de l'art. 4, § 3, 1°, de l'AR78 1967-11-10/08&gt;
+
+###### Art. 34
+
+&lt;disposition modificative de l'art. 53 de l'AR78 1967-11-10/08&gt;
+
+### CHAPITRE VIII. - Modification de la loi sur les hôpitaux.
+
+###### Art. 35
+
+&lt;disposition modificative de l'art. 94 de L 1987-08-07/32&gt;
+
+###### Art. 36
+
+&lt;disposition modificative de l'art. 140, § 3, de L 1987-08-07/32&gt;
+
+### CHAPITRE IX. - Dispositions diverses.
+
+#### Section 1. - Mutualités et Unions nationales de mutualités.
+
+###### Art. 37
+
+&lt;disposition modificative de l'art. 12 de L 1990-08-06/35&gt;
+
+###### Art. 38
+
+&lt;disposition modificative de l'art. 74bis de L 1990-08-06/35&gt;
+
+###### Art. 39
+
+Les dispositions de la présente section entrent en vigueur le 1er janvier 1991.
+
+#### Section 2. - Prestations familiales.
+
+###### Art. 40
+
+&lt;disposition modificative de l'art. 101, al. 3, 7°, des LC 1939-12-19/01&gt;
+
+###### Art. 41
+
+&lt;disposition modificative de l'art. 101, al. 3 des LC 1939-12-19/01&gt;
+
+###### Art. 42
+
+&lt;disposition modificative de l'art. 111 des LC 1939-12-19/01&gt;
+
+###### Art. 43
+
+Les dispositions de la présente section entrent en vigueur à une date à fixer par le Roi, à l'exception de l'article 40 qui entre en vigueur le 1er avril 1990.
+
+#### Section 3. - Commission de contrôle de surconsommation médicale.
+
+###### Art. 44
+
+&lt;disposition modificative de l'art. 79, al. 1, 17°, de L 1963-08-09/01&gt;
+
+###### Art. 45
+
+&lt;disposition modificative de l'art. 79bis, § 1er, al. 2, de L 1963-08-09/01&gt;
+
+###### Art. 46
+
+&lt;disposition modificative de l'art. 79ter, § 4, de L 1963-08-09/01&gt;
+
+###### Art. 47
+
+&lt;disposition modificative de l'art. 79quater, § 1er, al. 1, de L 1963-08-09/01&gt;
+
+###### Art. 48
+
+&lt;disposition modificative de l'art. 79quinquies, § 2, al. 1, de L 1963-08-09/01&gt;
+
+###### Art. 49
+
+Les dispositions de la présente section entrent en vigueur le 1er décembre 1990.
+
+#### Section 4. - Banque-Carrefour de la Sécurité sociale.
+
+###### Art. 50
+
+&lt;disposition modificative de l'art. 85, al. 1, de L 1990-01-15/31&gt;
+
+## TITRE II. - PENSIONS.
+
+### CHAPITRE I. - Mesures budgétaires.
+
+#### Section 1. - Subvention de l'Etat au régime de pension des travailleurs salariés.
+
+###### Art. 51
+
+Par dérogation à l'article 26 de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, aux dispositions de l'article 6, alinéas 2 et 4, de l'arrêté royal n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés, modifiées par la loi du 2 juillet 1976 modifiant les lois relatives à la pension de retraite et de survie des ouvriers, des employés et des travailleurs salariés et aux dispositions de l'article 8 de l'arrêté royal n° 95 du 28 septembre 1982 relatif à la prépension de retraite pour travailleurs salariés, les montants des subventions de l'Etat destinées au régime de pension des travailleurs salariés, sont remplacés, pour 1992, par un montant unique et fixe de 44 497 millions de francs.
+
+Pour l'année 1992 le montant visé à l'alinéa premier comprend le solde de 17,2 millions de francs des subventions de l'Etat non relevées pour années antérieures.
+
+#### Section 2. - Subvention de l'Etat au régime de pension des travailleurs indépendants.
+
+###### Art. 52
+
+&lt;disposition modificative de l'art. 42, 2°, de L'AR72 1967-11-10/04&gt;
+
+###### Art. 53
+
+Par dérogation à l'article 43 de l'arrêté royal n° 72 du 10 novembre 1967 relatif à la pension de retraite et de survie des travailleurs indépendants, modifié par la loi du 6 février 1976, la subvention de l'Etat visée à l'article 42, 2°, du même arrêté est limitée, pour l'année 1992 au montant de 22 156 millions de francs.
+
+Pour l'année 1992 le montant visé à l'alinéa 1er comprend le solde de 42,2 millions de francs des subventions de l'Etat non utilisées les années antérieures.
+
+### CHAPITRE II. - Mesures concernant le régime des travailleurs salariés.
+
+#### Section 1. - Modification de l'arrêté royal n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés.
+
+###### Art. 54
+
+&lt;disposition modificative de l'art. 39 de l'AR50 1967-10-24/01&gt;
+
+#### Section 2. - Modification de la loi du 28 mai 1971 réalisant l'unification et l'harmonisation des régimes de capitalisation institués dans le cadre des lois relatives à l'assurance en vue de la vieillesse et du décès prématuré.
+
+###### Art. 55
+
+&lt;disposition modificative de l'art. 11 de L 1971-05-28/02&gt;
+
+###### Art. 56
+
+1° &lt;disposition modificative des articles 2, 7, 8, 10 et 12 du chapitre 1 de L 1971-05-28/02&gt;
+
+2° &lt;disposition abrogatoire de l'art. 8, § 1, 3° de L 1971-05-28/02&gt;
+
+#### Section 3. - Cotisation spéciale.
+
+###### Art. 57
+
+&lt;disposition modificative de l'art. 38, § 3ter, al. 1, de L 1981-06-29/02&gt;
+
+###### Art. 58
+
+&lt;disposition modificative de l'art. 2, § 3ter, de l'AL 1945-01-10/01&gt;
+
+###### Art. 59
+
+&lt;disposition modificative de l'art. 3, § 3ter, de l'AL 1945-02-07/01&gt;
+
+###### Art. 60
+
+La cotisation spéciale, visée à l'article 275 de la loi-programme du 22 décembre 1989, est fixée à 8,86 p.c. à partir du 1er juillet 1992.
+
+###### Art. 61
+
+Les articles 57, 58 et 59 entrent en vigueur le 1er juillet 1992.
+
+#### Section 4. - Réévaluation des biens immobiliers dans le régime de capitalisation de l'Office national des pensions.
+
+###### Art. 62
+
+§ 1. Les plus-values découlant de la réévaluation, au 31 décembre 1991, des biens immobiliers pris en compte au titre de réserves mathématiques du régime de capitalisation, instauré au sein de l'Office national des pensions en vertu de la loi du 28 mai 1971 réalisant l'unification et l'harmonisation des régimes de capitalisation institués dans le cadre des lois relatives à l'assurance en vue de la vieillesse et du décès prématuré, modifiée par la loi du 8 août 1980, la loi de redressement du 10 février 1981, l'arrêté royal n° 415 du 16 juillet 1986 et la loi-programme du 30 décembre 1988, sont transférées à la gestion du régime de repartition de l'Office susvisé.
+
+§ 2. Le Roi détermine :
+
+1° le montant de la plus-value visée au § 1er;
+
+2° les délais dans lesquels les transferts complets ou partiels visés au § 1er doivent être exécutés.
+
+###### Art. 63
+
+Les dispositions de cette section entrent en vigueur le 31 décembre 1991.
+
+#### Section 5. - Suppression de la gestion distincte, instaurée à l'Office national des pensions et relative à la reprise des attributions et des tâches de l'Institut d'assurance contre l'invalidité de Malmédy et de l'Institut d'assurance des employés privés de Malmédy.
+
+###### Art. 64
+
+&lt;disposition modificative de l'art. 37, al. 1, de l'AR50 1967-10-24/01&gt;
+
+###### Art. 65
+
+&lt;Disposition abrogatoire de l'art. 37bis de l'AR50 1967-10-24/01&gt;
+
+###### Art. 66
+
+&lt;disposition modificative de l'art. 41bis de l'AR50 1967-10-24/01&gt;
+
+###### Art. 67
+
+La créance de 12 604 francs dans le cadre du Traité belgo-allemand d'Aix-la-Chapelle du 9 juillet 1920, d'une part, et la dette de 3 273 608 francs dans le cadre des lois budgétaires des 3 décembre 1934 et 6 février 1951 d'autre part, qui, depuis le 31 décembre 1973, font invariablement partie de l'actif et du passif de la gestion visée par la présente loi, s'éteignent respectivement à charge et au bénéfice de la gestion du régime de pension des travailleurs salariés.
+
+###### Art. 68
+
+Les dispositions de la présente section entrent en vigueur le 1er janvier 1993.
+
+### CHAPITRE III. - Modification de l'arrêté royal n° 72 du 10 novembre 1967 relatif à la pension de retraite et de survie des travailleurs indépendants.
+
+###### Art. 69
+
+&lt;disposition modificative de l'art. 30bis, al. 3, de l'AR72 1967-11-10/04&gt;
+
+## TITRE III. - CLASSES MOYENNES ET STATUT SOCIAL DES TRAVAILLEURS INDEPENDANTS.
+
+### CHAPITRE I. - Modifications à l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants.
+
+###### Art. 70
+
+&lt;disposition modificative de l'art. 11 de l'AR38 1967-07-27/01&gt;
+
+###### Art. 71
+
+&lt;disposition modificative de l'art. 12 de l'AR38 1967-07-27/01&gt;
+
+###### Art. 72
+
+&lt;disposition modificative de l'art. 13, § 1er, de l'AR38 1967-07-27/01&gt;
+
+###### Art. 73
+
+&lt;disposition modificative de l'art. 14, § 2, de l'AR38 1967-07-27/01&gt;
+
+###### Art. 74
+
+Les articles 70, 2° et 3°, 71, 72 et 73 du présent chapitre entrent en vigueur le 1er juillet 1992.
+
+### CHAPITRE II. - Modification à la loi du 29 mars 1976 relative aux prestations familiales des travailleurs indépendants.
+
+###### Art. 75
+
+Par dérogation à l'article 6, § 1er, alinéa 1er, 2°, et alinéa 2, de la loi du 29 mars 1976 relative aux prestations familiales des travailleurs indépendants, la subvention de l'Etat pour l'année budgétaire 1992 est fixée à 4 983,1 millions de francs.
+
+### CHAPITRE III. - Instauration d'une cotisation unique à charge des sociétés, destinée au statut social des travailleurs indépendants.
+
+###### Art. 76
+
+Pour l'application du présent chapitre, il y a lieu d'entendre par :
+
+1° société : les sociétés assujetties à l'impôt belge des sociétés ou à l'impôt belge des non-résidents;
+
+2° statut social des travailleurs indépendants : l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants.
+
+###### Art. 77
+
+§ 1. Les sociétés sont tenues, dans les trois mois de l'entrée en vigueur des dispositions du présent chapitre ou au plus tard trois mois après leur création ou dans les trois mois du fait qui les soumet à l'impôt des non-résidents, de s'affilier à une caisse libre d'assurances sociales créée en application de l'article 20, § 1er, de l'arrêté royal n° 38 visé (à l'article 76, 2°), ou à la Caisse nationale auxiliaire visée à l'article 20, § 3, du même arrêté. &lt;L 1993-08-06/30, art. 47, 003; En vigueur : 01-07-1992&gt;
+
+§ 2. Les sociétés qui ne satisfont pas à l'obligation prévue au § 1er de cet article sont affiliées d'office à la Caisse nationale auxiliaire.
+
+###### Art. 78
+
+Les sociétés sont tenues de verser une cotisation unique de 7 000 francs, destinée au statut social des travailleurs indépendants.
+
+Cette cotisation doit être réglée au moment de l'affiliation visée (à l'article 77) et au plus tard le 31 décembre 1992. &lt;L 1993-08-06/30, art. 48, 003; En vigueur : 01-07-1992&gt;
+
+###### Art. 78bis
+
+&lt;Inséré par L 1999-01-25/32, art. 201; En vigueur : 16-02-1999&gt; § 1er. Les sociétés qui, au moyen d'une attestation délivrée par l'Administration des Contributions directes, peuvent prouver qu'elles n'ont exercé en 1992 aucune activité commerciale ou civile, ne sont pas redevables de la cotisation unique.
+
+§ 2. L'Administration des Contributions directes est tenue de fournir à chaque intéressé les informations et les attestations requises pour l'application du présent chapitre, sans porter de frais en compte.
+
+###### Art. 79
+
+Le Roi détermine :
+
+1° les modalités de paiement et d'affiliation;
+
+2° (dans quelles conditions la cotisation est majorée, lorsque les sociétés n'accomplissent pas ou accomplissent avec retard les obligations imposées par ou en vertu de ce chapitre, étant entendu que ces majorations ne peuvent dépasser un montant total de 18 000 F); &lt;L 1995-12-20/32, art. 106, 004; En vigueur : 01-01-1996&gt;
+
+3° les frais de fonctionnement et les frais liés à la perception et au recouvrement de la cotisation visée (à l'article 78); &lt;L 1993-08-06/30, art. 49, 003; En vigueur : 01-07-1992&gt;
+
+4° dans quels cas les sociétés, qui se trouvent en situation de liquidation, de faillite ou de [<sup>1</sup> réorgnisation judiciaire]<sup>1</sup>, peuvent être exemptées de l'application des dispositions du présent chapitre.
+
+(5° les cas dans lesquels il peut être renoncé à l'application des majorations visées sous 2°.) &lt;L 1995-12-20/32, art. 107; En vigueur : 01-01-1996&gt;
+
+----------
+
+(1)&lt;AR 2010-12-19/15, art. 16, 017; En vigueur : 03-02-2011&gt;
+
+###### Art. 80
+
+§ 1. Les organismes percepteurs sont chargés du recouvrement de la cotisation, au besoin par la voie judiciaire.
+
+§ 2. Le recouvrement de la cotisation prévue par le présent chapitre se prescrit par cinq ans à compter du 1er janvier de l'année qui suit l'année pour laquelle elle est due.
+
+La prescription est interrompue :
+
+1° de la manière prévue par les articles 2244 et suivants du Code civil;
+
+2° par une lettre recommandée dans laquelle l'organisme chargé du recouvrement réclame la cotisation due.
+
+§ 3. L'action en répétition d'une cotisation payée indûment se prescrit par cinq ans à compter du 1er janvier de l'année qui suit l'année au cours de laquelle la cotisation indue a été payée.
+
+La prescription est interrompue :
+
+1° de la manière prévue par les articles 2244 et suivants du Code civil;
+
+2° par une lettre recommandée adressée par l'intéressé à l'organisme qui a percu la cotisation et réclamant le remboursement de la cotisation payée indûment.
+
+###### Art. 81
+
+Les associés ou les administrateurs ou gérants sont tenus, solidairement avec la société, au paiement de la cotisation dont cette dernière est redevable.
+
+###### Art. 82
+
+(Abrogé) &lt;AR 1996-11-18/37, art; 17, 006; En vigueur : 01-01-1997&gt;
+
+###### Art. 83
+
+La cotisation prévue par le présent chapitre est, en ce qui concerne les impôts sur les revenus, de même nature que les cotisations dues en exécution de la législation sociale.
+
+###### Art. 84
+
+&lt;disposition modificative de l'art. 20, § 1, al. 4, de l'AR38 1967-07-27/01&gt;
+
+###### Art. 85
+
+Les dispositions du présent chapitre entrent en vigueur le 1er juillet 1992 et cessent de produire leurs effets le 31 décembre 1992.
+
+(Les dispositions du présent chapitre restent toutefois en vigueur en ce qui concerne le recouvrement des cotisations.) &lt;L 1992-12-30/40, art. 105, 002; En vigueur : 01-07-1992&gt;
+
+### CHAPITRE IV. - Dispositions diverses.
+
+###### Art. 86
+
+&lt;disposition modificative de l'art. 17, al. 3, de l'AR38 1967-07-27/01&gt;
+
+###### Art. 87
+
+§ 1. Sont abrogés :
+
+1° &lt;Disposition abrogatoire de l'art. 63 de L 1991-07-20/31&gt;
+
+2° &lt;Disposition abrogatoire de l'AR290 1984-03-31/42&gt;
+
+3° &lt;Disposition abrogatoire de l'AR291 1984-03-31/43&gt;
+
+§ 2. L'arrêté royal visé au § 1er, 2°, continue à sortir ses effets en ce qui concerne les cotisations relatives à la période antérieure au 1er juillet 1992, afin d'en permettre le recouvrement.
+
+§ 3. L'arrêté royal visé au § 1er, 3°, continue à sortir ses effets en ce qui concerne les allocations familiales relatives à la période antérieure au 1er juillet 1992, afin de permettre d'opérer les retenues nécessaires.
+
+###### Art. 88
+
+Les articles 86 et 87 entrent en vigueur le 1er juillet 1992.
+
+## TITRE IV. - EMPLOI ET TRAVAIL.
+
+### CHAPITRE I. - Chômage temporaire.
+
+#### Section 1. - Cotisation unique de l'employeur.
+
+###### Art. 89
+
+Le taux de la cotisation, prévu à l'article 38, § 3, 3°, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, est fixé à 2,15 p.c. pour le troisième trimestre 1992.
+
+###### Art. 90
+
+La disposition de cette section entre en vigueur le 1er juillet 1992.
+
+#### Section 2. - Mission du Fonds d'indemnisation des travailleurs licenciés en cas de fermeture d'entreprises. (Abrogé) &lt;L 2002-06-26/55, art. 88, 011; En vigueur : 01-04-2007&gt;
+
+###### Art. 91
+
+(Abrogé) &lt;L 2002-06-26/55, art. 88, 011; En vigueur : 01-04-2007&gt;
+
+###### Art. 92
+
+(Abrogé) &lt;L 2002-06-26/55, art. 88, 011; En vigueur : 01-04-2007&gt;
+
+###### Art. 93
+
+(Abrogé) &lt;L 2002-06-26/55, art. 88, 011; En vigueur : 01-04-2007&gt;
+
+###### Art. 94
+
+(Abrogé) &lt;L 2002-06-26/55, art. 88, 011; En vigueur : 01-04-2007&gt;
+
+###### Art. 95
+
+(Abrogé) &lt;L 2002-06-26/55, art. 88, 011; En vigueur : 01-04-2007&gt;
+
+###### Art. 96
+
+(Abrogé) &lt;L 2002-06-26/55, art. 88, 011; En vigueur : 01-04-2007&gt;
+
+#### Section 3. - Modifications des articles 49, 50 et 51 de la loi du 3 juillet 1978 relative aux contrats de travail.
+
+###### Art. 97
+
+&lt;disposition modificative de l'art. 49 de L 1978-07-03/01&gt;
+
+###### Art. 98
+
+&lt;disposition modificative de l'art. 50 de L 1978-07-03/01&gt;
+
+###### Art. 99
+
+&lt;disposition modificative de l'art. 51 de L 1978-07-03/01&gt;
+
+###### Art. 100
+
+&lt;insertion d'un article 131bis dans L 1978-07-03/01&gt;
+
+#### Section 4. - Modification de l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs.
+
+###### Art. 101
+
+&lt;disposition modificative de l'art. 7, § 1, de l'AL 1944-12-28/01&gt;
+
+#### Section 5. - Disposition finale.
+
+###### Art. 102
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, sur la proposition du Conseil national du travail, remplacer en tout ou en partie les dispositions du présent chapitre par un réglement qui globalement a un effet équivalent sur l'évolution des dépenses visées par ce chapitre.
+
+### CHAPITRE II. - Instauration d'une cotisation capitative à charge des employeurs occupant des travailleurs à temps partiel involontaire.
+
+###### Art. 103
+
+§ 1. Une cotisation spéciale à charge de l'employeur est instaurée, du chef de l'occupation de travailleurs à temps partiel involontaire. Le montant de cette cotisation est fixée par le Roi sans qu'il puisse excéder le montant forfaitaire de 3 000 francs par trimestre, par travailleur occupé à temps partiel involontaire. Il peut moduler cette cotisation selon le nombre de travailleurs occupés par l'employeur.
+
+§ 2. Le Roi détermine, par arrêté délibéré en Conseil des ministres, les catégories de travailleurs pour lesquels les employeurs ne sont pas tenus de payer cette cotisation.
+
+###### Art. 104
+
+La cotisation speciale visée à l'article 103 est payable à l'Office national de sécurité sociale, en vue de financer le secteur chômage.
+
+Le Roi détermine les modalités de paiement de la cotisation spéciale visée à l'article 103.
+
+###### Art. 105
+
+La cotisation spéciale, visée à l'article 103, est assimilée aux cotisations de sécurité sociale, notamment en ce qui concerne les déclarations avec justification des cotisations, les délais en matière de paiement, l'application des sanctions civiles et des dispositions pénales, la surveillance, la détermination du juge compétent en cas de contestation, la prescription en matière d'action en justice, le privilège et la communication du montant de la créance de l'institution chargée de la perception et du recouvrement des cotisations.
+
+###### Art. 106
+
+&lt;Disposition abrogatoire des articles 137 à 140 de L 1990-12-29/30&gt;
+
+###### Art. 107
+
+Les dispositions du présent chapitre entrent en vigueur le 1er juillet 1992.
+
+### CHAPITRE III. - Modifications des lois relatives à la réparation des dommages résultant des maladies professionnelles, coordonnés le 3 juin 1970.
+
+###### Art. 108
+
+&lt;disposition modificative de l'art. 6, 1°, al. 1, de L 1970-06-03/02&gt;
+
+### CHAPITRE IV. - Lutte contre la fraude sociale.
+
+#### Section 1. - Modification de la loi du 8 avril 1965 instituant les règlements de travail.
+
+###### Art. 109
+
+&lt;disposition modificative de l'art. 15, al. 4, de L 1965-04-08/01&gt;
+
+#### Section 2. - Modification de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs.
+
+###### Art. 110
+
+&lt;disposition modificative de l'art. 5, § 1, de L 1965-04-12/04&gt;
+
+#### Section 3. - Modification de l'arrêté royal n° 5 du 23 octobre 1978 relatif à la tenue des documents sociaux en ce qui concerne la fiche individuelle.
+
+###### Art. 111
+
+&lt;disposition modificative de l'art. 4, § 3, de l'AR5 1978-10-23/01&gt;
+
+#### Section 4. - Dispositions concernant l'indemnité à payer à l'Office national de sécurité sociale, introduite par les lois du 6 juillet 1989 et du 22 décembre 1989.
+
+###### Art. 112
+
+&lt;disposition modificative de l'art. 11bis de l'AR5 1978-10-23/01&gt;
+
+###### Art. 113
+
+&lt;disposition modificative de l'art. 12bis de l'AR5 1978-10-23/01&gt;
+
+###### Art. 114
+
+&lt;disposition modificative de l'art. 172, al. 2, de L 1989-12-22/31&gt;
+
+###### Art. 115
+
+&lt;disposition modificative de l'art. 174, al. 2, de L 1989-12-22/31&gt;
+
+###### Art. 116
+
+&lt;disposition modificative de l'art. 12bis, § 1, de L 1971-06-30/01&gt;
+
+###### Art. 117
+
+Les dispositions de la présente section entrent en vigueur le premier jour du mois qui suit celui au cours duquel la présente loi aura été publiée au Moniteur belge.
+
+## TITRE V. - MESURES CONCERNANT LES PENSIONS DU SECTEUR PUBLIC.
+
+## TITRE V. DROIT\_FUTUR. - MESURES CONCERNANT LES PENSIONS DU SECTEUR PUBLIC [<sup>1</sup> ET L'ALLOCATION D'INAPTITUDE TEMPORAIRE DE TRAVAIL POUR FONCTIONNAIRES]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2024-05-18/17, art. 13, 021; En vigueur : 01-01-2028&gt;
+
+### CHAPITRE I. - Exécution de l'accord de programmation sociale - Montants minimums garantis de pension.
+
+#### Section 1. - Champ d'application.
+
+###### Art. 118
+
+§ 1. Le présent chapitre s'applique :
+
+1° aux personnes assujetties à un régime de pension de retraite dont la charge est assumée par :
+
+a) le Trésor public;
+
+b) les organismes auxquels s'applique l'arrêté royal n° 117 du 27 février 1935 établissant le statut des pensions du personnel des établissements publics autonomes et des régies instituées par l'Etat;
+
+c) la Régie des postes;
+
+d) la Régie des transports maritimes;
+
+e) les organismes auxquels est applicable la loi du 28 avril 1958 relative à la pension des membres du personnel de certains organismes d'intérêt public et de leurs ayants droit;
+
+f) [<sup>2</sup> le Fonds de pension solidarisé des administrations provinciales et locales]<sup>2</sup>;
+
+(g) [<sup>2</sup> le Fonds des pensions de la police fédérale]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+2° aux bénéficiaires d'une pension de conjoint survivant à charge du Trésor public [<sup>3</sup> du Fonds des pensions de la police fédérale ou du Fonds de pension solidarisé des administrations provinciales et locales]<sup>3</sup>;
+
+3° aux bénéficiaires d'un traitement d'attente, lorsque des dispositions légales ou réglementaires prévoient que ce traitement doit être au moins égal au taux de la pension.
+
+§ 2. Ne sont toutefois pas visées par le présent chapitre, les personnes qui bénéficient :
+
+1° d'une pension de retraite ou de survie ou d'un traitement d'attente, visé au § 1er, accordé du chef de l'exercice d'une fonction accessoire;
+
+2° d'une pension immédiate, telle que prévue à l'article 46 de la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions, lorsque, indépendamment des bonifications pour études et des autres périodes bonifiées comme services pour la détermination du traitement, le total des services admissibles pour l'ouverture du droit à la pension est inférieur à vingt années;
+
+3° d'une pension différée, telle que prévue à l'article 46 de la loi du 15 mai 1984 précitée;
+
+4° d'une pension différée qui a été accordée en application des articles 55 à 62 de la loi du 5 août 1978 de réformes économiques et budgétaires;
+
+5° d'une pension de survie en qualité de conjoint survivant d'un bénéficiaire d'une pension visée au 2°, 3° ou 4° ou en qualité de conjoint survivant d'une personne qui n'est pas décédée en activité de service et qui aurait pu prétendre à l'octroi d'une telle pension;
+
+6° d'une pension de retraite en qualité d'ancien avoué;
+
+7° d'une pension de retraite ou d'invalidité en qualité d'ancien membre du personnel de carrière des cadres d'Afrique.
+
+----------
+
+(1)&lt;L 2011-10-24/01, art. 51, 018; En vigueur : 01-01-2012&gt;
+
+(2)&lt;L 2024-05-18/17, art. 14,1°, 021; En vigueur : 01-01-2025&gt;
+
+(3)&lt;L 2024-05-18/17, art. 14,3°, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 118 DROIT FUTUR
+
+§ 1. Le présent chapitre s'applique :
+
+1° aux personnes assujetties [<sup>4</sup> à un régime de pension de retraite ou d'allocation d'inaptitude temporaire de travail pour fonctionnaires]<sup>4</sup> dont la charge est assumée par :
+
+a) le Trésor public;
+
+b) les organismes auxquels s'applique l'arrêté royal n° 117 du 27 février 1935 établissant le statut des pensions du personnel des établissements publics autonomes et des régies instituées par l'Etat;
+
+c) la Régie des postes;
+
+d) la Régie des transports maritimes;
+
+e) les organismes auxquels est applicable la loi du 28 avril 1958 relative à la pension des membres du personnel de certains organismes d'intérêt public et de leurs ayants droit;
+
+f) [<sup>2</sup> le Fonds de pension solidarisé des administrations provinciales et locales]<sup>2</sup>;
+
+(g) [<sup>2</sup> le Fonds des pensions de la police fédérale]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+2° aux bénéficiaires d'une pension de conjoint survivant à charge du Trésor public [<sup>3</sup> du Fonds des pensions de la police fédérale ou du Fonds de pension solidarisé des administrations provinciales et locales]<sup>3</sup>;
+
+3° aux bénéficiaires d'un traitement d'attente, lorsque des dispositions légales ou réglementaires prévoient que ce traitement doit être au moins égal au taux de la pension.
+
+§ 2. Ne sont toutefois pas visées par le présent chapitre, les personnes qui bénéficient :
+
+1° [<sup>5</sup> d'une allocation d'inaptitude temporaire de travail pour fonctionnaires, d'une pension de retraite ou de survie]<sup>5</sup> ou d'un traitement d'attente, visé au § 1er, accordé du chef de l'exercice d'une fonction accessoire;
+
+2° d'une pension immédiate, telle que prévue à l'article 46 de la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions, lorsque, indépendamment des bonifications pour études et des autres périodes bonifiées comme services pour la détermination du traitement, le total des services admissibles pour l'ouverture du droit à la pension est inférieur à vingt années;
+
+3° d'une pension différée, telle que prévue à l'article 46 de la loi du 15 mai 1984 précitée;
+
+4° d'une pension différée qui a été accordée en application des articles 55 à 62 de la loi du 5 août 1978 de réformes économiques et budgétaires;
+
+5° d'une pension de survie en qualité de conjoint survivant d'un bénéficiaire d'une pension visée au 2°, 3° ou 4° ou en qualité de conjoint survivant d'une personne qui n'est pas décédée en activité de service et qui aurait pu prétendre à l'octroi d'une telle pension;
+
+6° d'une pension de retraite en qualité d'ancien avoué;
+
+7° d'une pension de retraite ou d'invalidité en qualité d'ancien membre du personnel de carrière des cadres d'Afrique.
+
+----------
+
+(1)&lt;L 2011-10-24/01, art. 51, 018; En vigueur : 01-01-2012&gt;
+
+(2)&lt;L 2024-05-18/17, art. 14,1°, 021; En vigueur : 01-01-2025&gt;
+
+(3)&lt;L 2024-05-18/17, art. 14,3°, 021; En vigueur : 01-01-2025&gt;
+
+(4)&lt;L 2024-05-18/17, art. 14,2°, 021; En vigueur : 01-01-2028&gt;
+
+(5)&lt;L 2024-05-18/17, art. 14,4°, 021; En vigueur : 01-01-2028&gt;
+
+#### Section 2. - Définitions.
+
+###### Art. 119
+
+§ 1. Pour l'application du présent chapitre, il faut entendre par " fonction accessoire " :
+
+1° la fonction qui donne ou donnerait lieu à l'octroi d'une pension, fixée conformément à l'arrêté royal n° 206 du 29 août 1983 réglant le calcul de la pension du secteur public, pour les services à prestations incomplètes et pour laquelle le rapport visé à l'article 2, § 1er, alinéa 1er, c), de cet arrêté est inférieur à 5/10;
+
+2° la fonction qui a donné lieu à l'octroi d'une pension qui n'a pas été établie conformément aux dispositions de l'arrêté royal n° 206 du 29 août 1983 précité et qui a comporté au cours des cinq dernières années de la carrière des services à prestations incomplètes correspondant en moyenne à moins de 5/10 de ces mêmes services à prestations complètes.
+
+§ 2. Par " retraité isolé ", il faut entendre le pensionné masculin ou féminin qui est célibataire, veuf, divorcé ou séparé de corps et de biens.
+
+§ 3. Par " montant minimum garanti ", il faut entendre le montant minimum de pension auquel une personne peut prétendre en application du présent chapitre.
+
+Par " supplément ", il faut entendre le montant qui est ajouté au taux nominal de la pension pour atteindre le montant minimum garanti.
+
+§ 4. Par " rétribution garantie ", il faut entendre la rétribution visée à l'article 3 de l'arrêté royal du 29 juin 1973 accordant une rétribution garantie à certains agents des ministères, et octroyée aux agents qui en matière de sécurité sociale sont soumis uniquement au régime d'assurance obligatoire contre la maladie et l'invalidité, secteur des soins de santé.
+
+[<sup>1</sup> § 5. Par "services réellement prestés", il faut entendre:
+
+\- les périodes de services réellement prestés;
+
+\- les périodes de congé ou d'absence avec maintien de la rémunération intégrale;
+
+\- les périodes d'interruption de carrière avec octroi d'une allocation d'interruption à charge de l'Office National de l'Emploi ou d'un autre organisme fédéral:
+
+a) en vue d'assurer des soins palliatifs;
+
+b) pour congé parental;
+
+c) pour assistance ou octroi de soins à un membre de son ménage ou à un membre de sa famille jusqu'au deuxième degré qui souffre d'une maladie grave;
+
+d) pour aidant proche;
+
+\- les périodes visées aux articles 5 et 6 de l'arrêté du gouvernement flamand du 26 juillet 2016 portant octroi d'allocations d'interruption pour crédit-soins;
+
+\- les périodes:
+
+a) d'écartement préventif du travail pour raisons de santé;
+
+b) du repos de maternité converti;
+
+c) du congé de naissance;
+
+d) du congé d'adoption;
+
+e) du congé parental d'accueil;
+
+f) de congé d'allaitement;
+
+g) du congé de maladie avant épuisement du capital congé de maladie;
+
+h) de prestations réduites pour raisons médicales
+
+[<sup>2</sup> - les périodes de détention préventive, assimilées à de l'activité de service, en raison d'un fait pour lequel l'intéressé n'a pas été condamné ;
+
+\- les périodes de mission syndicale non-rémunérées et assimilées à de l'activité de service ;
+
+\- les jours de lock-out ;
+
+\- les périodes d'exercice d'une fonction de juge social ou d'un mandat au sein des commissions instituées en vue de l'application de la législation sociale]<sup>2</sup>.
+
+La durée des services visés à l'alinéa 1er est établie conformément aux dispositions de l'arrêté royal n° 206 du 29 août 1983 réglant le calcul de la pension du secteur public pour les services à prestations incomplètes.
+
+Par "services effectivement prestés", il faut également entendre:
+
+\- les jours équivalents temps plein effectivement prestés visés à l'article 2, 10°, a) et b), de la loi du 25 avril 2024 portant la réforme des pensions, convertis en mois;
+
+\- les périodes assimilées aux jours équivalents temps plein effectivement prestés visés à l'article 3, § 5, alinéas 3 et 7, de la loi du 25 avril 2024 portant la réforme des pensions, converties en mois.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-25/11, art. 10, 020; En vigueur : 01-01-2025&gt;
+
+(2)&lt;L 2026-05-30/02, art. 43, 022; En vigueur : 01-01-2025&gt;
+
+###### Art. 119 DROIT FUTUR
+
+§ 1. Pour l'application du présent chapitre, il faut entendre par " fonction accessoire " :
+
+1° la fonction qui donne ou donnerait lieu à l'octroi d'une pension, fixée conformément à l'arrêté royal n° 206 du 29 août 1983 réglant le calcul de la pension du secteur public, pour les services à prestations incomplètes et pour laquelle le rapport visé à l'article 2, § 1er, alinéa 1er, c), de cet arrêté est inférieur à 5/10;
+
+2° la fonction qui a donné lieu à l'octroi d'une pension qui n'a pas été établie conformément aux dispositions de l'arrêté royal n° 206 du 29 août 1983 précité et qui a comporté au cours des cinq dernières années de la carrière des services à prestations incomplètes correspondant en moyenne à moins de 5/10 de ces mêmes services à prestations complètes.
+
+§ 2. Par " retraité isolé ", il faut entendre le pensionné masculin ou féminin qui est célibataire, veuf, divorcé ou séparé de corps et de biens.
+
+§ 3. Par " montant minimum garanti ", il faut entendre le montant minimum de pension auquel une personne peut prétendre en application du présent chapitre.
+
+Par " supplément ", il faut entendre le montant qui est ajouté au taux nominal de la pension [<sup>2</sup> ou au taux nominal de l'allocation d'inaptitude temporaire de travail]<sup>2</sup> pour atteindre le montant minimum garanti.
+
+§ 4. Par " rétribution garantie ", il faut entendre la rétribution visée à l'article 3 de l'arrêté royal du 29 juin 1973 accordant une rétribution garantie à certains agents des ministères, et octroyée aux agents qui en matière de sécurité sociale sont soumis uniquement au régime d'assurance obligatoire contre la maladie et l'invalidité, secteur des soins de santé.
+
+[<sup>1</sup> § 5. Par "services réellement prestés", il faut entendre:
+
+\- les périodes de services réellement prestés;
+
+\- les périodes de congé ou d'absence avec maintien de la rémunération intégrale;
+
+\- les périodes d'interruption de carrière avec octroi d'une allocation d'interruption à charge de l'Office National de l'Emploi ou d'un autre organisme fédéral:
+
+a) en vue d'assurer des soins palliatifs;
+
+b) pour congé parental;
+
+c) pour assistance ou octroi de soins à un membre de son ménage ou à un membre de sa famille jusqu'au deuxième degré qui souffre d'une maladie grave;
+
+d) pour aidant proche;
+
+\- les périodes visées aux articles 5 et 6 de l'arrêté du gouvernement flamand du 26 juillet 2016 portant octroi d'allocations d'interruption [<sup>3</sup> pour crédit-soins et les périodes d'absence pour crédit-soins pour les mêmes motifs visées à l'article 11.49 du statut du personnel du Secrétariat général du Parlement flamand du 15 décembre 1998, tel que cet article a été remplacé par l'article 16 de la modification du statut du personnel du Secrétariat général du Parlement flamand du 5 juillet 2017 ]<sup>3</sup>;
+
+\- les périodes:
+
+a) d'écartement préventif du travail pour raisons de santé;
+
+b) du repos de maternité converti;
+
+c) du congé de naissance;
+
+d) du congé d'adoption;
+
+e) du congé parental d'accueil;
+
+f) de congé d'allaitement;
+
+g) du congé de maladie avant épuisement du capital congé de maladie;
+
+h) de prestations réduites [<sup>4</sup> raisons médicales ;]<sup>4</sup>
+
+[<sup>4</sup> i) de disponibilité pour cause de maladie]<sup>4</sup>;
+
+[<sup>5</sup> - les périodes de détention préventive, assimilées à de l'activité de service, en raison d'un fait pour lequel l'intéressé n'a pas été condamné ;
+
+\- les périodes de mission syndicale non-rémunérées et assimilées à de l'activité de service ;
+
+\- les jours de lock-out ;
+
+\- les périodes d'exercice d'une fonction de juge social ou d'un mandat au sein des commissions instituées en vue de l'application de la législation sociale]<sup>5</sup>
+
+La durée des services visés à l'alinéa 1er est établie conformément aux dispositions de l'arrêté royal n° 206 du 29 août 1983 réglant le calcul de la pension du secteur public pour les services à prestations incomplètes.
+
+Par "services effectivement prestés", il faut également entendre:
+
+\- les jours équivalents temps plein effectivement prestés visés à l'article 2, 10°, a) et b), de la loi du 25 avril 2024 portant la réforme des pensions, convertis en mois;
+
+\- les périodes assimilées aux jours équivalents temps plein effectivement prestés visés à l'article 3, § 5, alinéas 3 et 7, de la loi du 25 avril 2024 portant la réforme des pensions, converties en mois.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-25/11, art. 10, 020; En vigueur : 01-01-2025&gt;
+
+(2)&lt;L 2024-05-18/17, art. 15, 021; En vigueur : 01-01-2028&gt;
+
+(3)&lt;L 2026-05-30/02, art. 41, 022; En vigueur : 01-01-2027&gt;
+
+(4)&lt;L 2026-05-30/02, art. 42, 022; En vigueur : 01-01-2027&gt;
+
+(5)&lt;L 2026-05-30/02, art. 43, 022; En vigueur : 01-01-2025&gt;
+
+#### Section 3. - Montants minimums des pensions de retraite.
+
+#### Section 3. DROIT\_FUTUR. - Montants minimums des pensions de retraite [<sup>1</sup> et de l'allocation d'inaptitude temporaire de travail pour fonctionnaires]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2024-05-18/17, art. 16, 021; En vigueur : 01-01-2028&gt;
+
+##### Sous-Section 1. - Pensions de retraite pour raison d'âge ou d'ancienneté.
+
+###### Art. 120
+
+Pour les personnes mises à la retraite en raison de leur âge ou de leur ancienneté [<sup>3</sup> , ayant atteint l'âge de 60 ans et pouvant prouver 189 mois de services réellement prestés]<sup>3</sup>, le montant minimum garanti est fixé :
+
+\- pour un retraité isolé, à [<sup>2</sup> 9.767,00 EUR]<sup>2</sup> par an;
+
+\- pour un retraité marié, à [<sup>2</sup> 12.209,00 EUR]<sup>2</sup> par an.
+
+(NOTE : au 1er avril 2009, les montants de "9.413,00 EUR" et "11.766,00 EUR" sont respectivement remplacés par 9.601,00 EUR " et " 12.001,00 EUR; voir &lt;AR 2009-09-27/21, art. 1, 016; En vigueur : 01-04-2009&gt;
+
+(NOTE: les montants " 9.601,00 EUR " et " 12.001,00 EUR " sont respectivement remplacés :
+
+\- au 1er janvier 2021, par les montants " 9.767,00 EUR " et " 12.209,00 EUR ";
+
+\- au 1er janvier 2022, par les montants " 9.936,00 EUR " et " 12.420,00 EUR ";
+
+\- au 1er janvier 2023, par les montants " 10.108,00 EUR " et " 12.635,00 EUR ";
+
+\- au 1er janvier 2024, par les montants " 10.283,00 EUR " et " 12.853,00 EUR ".)
+
+[<sup>3</sup> Si la carrière comporte des périodes au cours desquelles, pour des raisons de santé, l'intéressé ne peut pas prouver de services réellement prestés, un nombre inférieur de mois au nombre de 189 mois de services réellement prestés visé à l'alinéa 1er est requis. Le nombre de mois de services réellement prestés est déterminé en fonction de la carrière:
+
+1° si la carrière comporte plus de 60 mois mais moins de 360 mois au cours desquels, pour des raisons de santé, l'intéressé ne peut pas prouver des services réellement prestés, la réduction est égale au résultat, arrondi à l'unité supérieure, du produit de 100/312 par le résultat de la différence entre le nombre de mois au cours desquels l'intéressé ne peut pas prouver des services réellement prestés pour des raisons de santé et 60 mois;
+
+2° si la carrière comporte au moins 360 mois au cours desquels, pour des raisons de santé, l'intéressé ne peut pas prouver des services réellement prestés, le nombre requis de mois réellement prestés est égal au résultat, arrondi à l'unité supérieure, obtenu en multipliant la différence entre 540 mois et le nombre de mois au cours desquels l'intéressé ne peut pas prouver des services réellement prestés pour des raisons de santé par le produit de 250/312 par 30/45.
+
+Pour la détermination des périodes pendant lesquelles l'intéressé ne peut pas prouver des services effectifs pour des raisons de santé, il faut également tenir compte des périodes visées à l'article 3, § 4, alinéa 4, 1° à 4°, de la loi du 25 avril 2024 portant la réforme des pensions, converties en mois.]<sup>3</sup>
+
+----------
+
+(1)&lt;AR 2009-09-27/21, art. 1, 016; En vigueur : 01-10-2008&gt;
+
+(2)&lt;AR 2020-12-20/13, art. 1, 019; En vigueur : 01-01-2021&gt;
+
+(3)&lt;L 2024-04-25/11, art. 11, 020; En vigueur : 01-01-2025&gt;
+
+###### Art. 120 DROIT FUTUR
+
+Pour les personnes mises à la retraite en raison de leur âge ou de leur ancienneté [<sup>3</sup> , ayant atteint l'âge de 60 ans et pouvant prouver 189 mois de services réellement prestés]<sup>3</sup>, le montant minimum garanti est fixé :
+
+\- pour un retraité isolé, à [<sup>2</sup> 9.767,00 EUR]<sup>2</sup> par an;
+
+\- pour un retraité marié, à [<sup>2</sup> 12.209,00 EUR]<sup>2</sup> par an.
+
+(NOTE : au 1er avril 2009, les montants de "9.413,00 EUR" et "11.766,00 EUR" sont respectivement remplacés par 9.601,00 EUR " et " 12.001,00 EUR; voir &lt;AR 2009-09-27/21, art. 1, 016; En vigueur : 01-04-2009&gt;
+
+(NOTE: les montants " 9.601,00 EUR " et " 12.001,00 EUR " sont respectivement remplacés :
+
+\- au 1er janvier 2021, par les montants " 9.767,00 EUR " et " 12.209,00 EUR ";
+
+\- au 1er janvier 2022, par les montants " 9.936,00 EUR " et " 12.420,00 EUR ";
+
+\- au 1er janvier 2023, par les montants " 10.108,00 EUR " et " 12.635,00 EUR ";
+
+\- au 1er janvier 2024, par les montants " 10.283,00 EUR " et " 12.853,00 EUR ".)
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+----------
+
+(1)&lt;AR 2009-09-27/21, art. 1, 016; En vigueur : 01-10-2008&gt;
+
+(2)&lt;AR 2020-12-20/13, art. 1, 019; En vigueur : 01-01-2021&gt;
+
+(3)&lt;L 2024-04-25/11, art. 11, 020; En vigueur : 01-01-2025&gt;
+
+(4)&lt;L 2026-05-30/02, art. 44, 022; En vigueur : 01-01-2027&gt;
+
+##### Sous-Section 2. - Pensions de retraite pour cause d'inaptitude physique.
+
+##### Sous-Section 2. DROIT\_FUTUR. [<sup>1</sup> - Allocations d'inaptitude temporaire de travail pour fonctionnaires et pensions de retraite pour cause d'inaptitude physique]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-18/17, art. 17, 021; En vigueur : 01-01-2028&gt;
+
+###### Art. 121
+
+&lt;Abrogé par L 2026-05-30/02, art. 115, 022; En vigueur : 01-06-2026&gt;
+
+###### Art. 121 DROIT FUTUR
+
+&lt;Abrogé par L 2026-05-30/02, art. 115, 022; En vigueur : 01-06-2026&gt;
+
+#### Section 4. - Montants minimums des pensions de survie.
+
+###### Art. 122
+
+Pour les conjoints survivants bénéficiaires d'une pension de survie, le montant minimum garanti est fixé à [<sup>2</sup> 8.781,00 EUR]<sup>2</sup> par an.
+
+Le présent article n'est pas applicable à la pension temporaire prévue à l'article 2, § 2, de la loi du 15 mai 1984 précitée.
+
+(NOTE : au 1er avril 2009, le montant de "8.205,00 EUR" est remplacé par 8.369,00 EUR; voir &lt;AR 2009-09-27/21, art. 3, 016; En vigueur : 01-04-2009&gt;
+
+(NOTE: le montant " 8.369,00 EUR " est remplacé :
+
+\- au 1er janvier 2021, par le montant " 8.781,00 EUR ";
+
+\- au 1er janvier 2022, par le montant " 9.213,00 EUR ";
+
+\- au 1er janvier 2023, par le montant " 9.666,00 EUR ";
+
+\- au 1er janvier 2024, par le montant " 10.143,00 EUR ".&lt;AR 2020-12-20/13, art. 3, 019; En vigueur : 01-01-2021&gt; )
+
+----------
+
+----------
+
+(1)&lt;AR 2009-09-27/21, art. 3, 016; En vigueur : 01-10-2008&gt;
+
+(2)&lt;AR 2020-12-20/13, art. 3, 019; En vigueur : 01-01-2021&gt;
+
+#### Section 5. - Dispositions communes.
+
+###### Art. 123
+
+[<sup>1</sup> Le supplément découlant de l'application de l'article 120 cesse d'être payé durant les années civiles au cours desquelles le pensionné exerce une activité lucrative quelconque qui lui procure un revenu brut annuel égal ou supérieur à 607,59 euros.
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+[<sup>2</sup> Si, pour une année civile déterminée, les revenus professionnels du bénéficiaire dépassent la limite établie conformément aux articles 80 et 86 de la loi-programme du 28 juin 2013, le supplément minimum garanti ajouté, conformément à l'article 121 tel qu'il était rédigé au 31 mai 2026, à une pension de retraite pour inaptitude médicale ou à une pension de retraite y assimilée attribuée d'office conformément à l'article 83 de la loi du 5 août 1978 précitée ou à l'article 82 de la loi du 26 avril 2002 précitée tels que ces articles étaient rédigés au 31 mai 2026, est réduit pour la même année au prorata du pourcentage du dépassement]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-18/17, art. 19,1°, 021; En vigueur : 01-01-2025&gt;
+
+(2)&lt;L 2026-05-30/02, art. 116, 022; En vigueur : 01-01-2026&gt;
+
+###### Art. 123 DROIT FUTUR
+
+[<sup>1</sup> Le supplément découlant de l'application de l'article 120 cesse d'être payé durant les années civiles au cours desquelles le pensionné exerce une activité lucrative quelconque qui lui procure un revenu brut annuel égal ou supérieur à 607,59 euros.
+
+[<sup>4</sup> ...]<sup>4</sup>.
+
+[<sup>4</sup> Si, pour une année civile déterminée, les revenus professionnels du bénéficiaire dépassent la limite établie conformément aux articles 80 et 86 de la loi-programme du 28 juin 2013, le supplément minimum garanti ajouté, conformément à l'article 121 tel qu'il était rédigé au 31 mai 2026, à une pension de retraite pour inaptitude médicale ou à une pension de retraite y assimilée attribuée d'office conformément à l'article 83 de la loi du 5 août 1978 précitée ou à l'article 82 de la loi du 26 avril 2002 précitée tels que ces articles étaient rédigés au 31 mai 2026, est réduit pour la même année au prorata du pourcentage du dépassement]<sup>4</sup>.]<sup>1</sup>
+
+[<sup>3</sup> Par dérogation à l'alinéa 2, l'alinéa 3 s'applique également aux personnes dont la pension de retraite a été convertie en allocation d'inaptitude temporaire de travail pour fonctionnaires conformément à l'article 41 de la loi du 18 mai 2024 instituant l'allocation d'inaptitude temporaire de travail pour fonctionnaires.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2024-05-18/17, art. 19,1°, 021; En vigueur : 01-01-2025&gt;
+
+(2)&lt;L 2024-05-18/17, art. 19,2°, 021; En vigueur : 01-01-2028&gt;
+
+(3)&lt;L 2024-05-18/17, art. 19,3°, 021; En vigueur : 01-01-2028&gt;
+
+(4)&lt;L 2026-05-30/02, art. 116, 022; En vigueur : 01-01-2026&gt;
+
+###### Art. 124
+
+Le supplément découlant de l'application de l'article 122, (...) cesse d'être payé pendant les périodes durant lesquelles la pension de survie est réduite ou suspendue (en vertu des dispositions [<sup>1</sup> du titre 8, chapitre 1er de [<sup>2</sup> la loi-programme du 28 juin 2013]<sup>2</sup>]<sup>1</sup>). &lt;L 1992-12-30/40, art. 80, 002; En vigueur : 01-01-1993 + L 1994-04-05/34, art. 21, En vigueur : 01-01-1994&gt; &lt;L 2003-02-03/41, art. 30, 012; En vigueur : 01-01-1994&gt;
+
+----------
+
+(1)&lt;L 2024-04-25/11, art. 12, 020; En vigueur : 01-01-2013&gt;
+
+(2)&lt;L 2024-05-18/17, art. 20, 021; En vigueur : 01-01-2025&gt;
+
+###### Art. 125
+
+§ 1. Lorsque le bénéficiaire d'un montant minimum garanti bénéficie d'autres pensions ou rentes de retraite ou de survie ou d'avantages en tenant lieu, à charge d'un régime de pension établi en vertu d'une législation belge ou étrangère, ces pensions, rentes et avantages sont déduits du supplément.
+
+Sont également déduites de ce supplément, les rentes, indemnités ou allocations octroyées à l'intéressé en vertu d'une législation belge ou étrangère en réparation de dommages résultant d'un accident du travail, d'un accident survenu sur le chemin du travail ou d'une maladie professionnelle ainsi que les pensions de réparation du temps de paix accordées à l'intéressé.
+
+(Sont également déduits du supplément, les indemnités d'incapacité primaire, les indemnités d'invalidité, les allocations de chômage ou les avantages de même nature octroyés à l'intéressé en vertu d'une législation étrangère.) &lt;L 2003-02-03/41, art. 31, 012; En vigueur : 01-01-2003&gt;
+
+§ 2. S'il s'agit d'un retraité marié, sont en outre déduits du supplément :
+
+1° les revenus que procure à son conjoint l'exercice d'une activité professionnelle;
+
+2° les avantages énumérés ci-après dont bénéficie son conjoint :
+
+a) les pensions ou rentes de retraite ou de survie ou les avantages en tenant lieu, à charge d'un régime de pension établi en vertu d'une législation belge ou étrangère;
+
+b) les indemnités d'incapacité primaire, les indemnités d'invalidité ou les allocations de chômage accordées en vertu de la législation belge ou les avantages de même nature accordés en vertu d'une législation étrangère;
+
+c) les rentes, indemnités ou allocations octroyées en vertu d'une législation belge ou étrangère en réparation de dommages résultant d'un accident du travail, d'un accident survenu sur le chemin du travail ou d'une maladie professionnelle;
+
+d) les pensions de réparation du temps de paix.
+
+§ 3. Si une pension ou une rente visée aux §§ 1er ou 2 a été payée en tout ou en partie sous la forme d'un capital, la rente fictive correspondant au capital liquidé est prise en compte pour l'application du présent article et de l'article 126.
+
+§ 4. Pour l'application du présent article, les prestations de même nature que celles visées aux §§ 1er et 2 accordées par une institution de droit international public sont assimilées à des prestations à charge d'un régime de pension établi en vertu d'une législation étrangère.
+
+###### Art. 125 DROIT FUTUR
+
+§ 1. Lorsque le bénéficiaire d'un montant minimum garanti bénéficie d'autres pensions ou rentes de retraite ou de survie ou d'avantages en tenant lieu, à charge d'un régime de pension établi en vertu d'une législation belge ou étrangère, ces pensions, rentes et avantages sont déduits du supplément.
+
+Sont également déduites de ce supplément, les rentes, indemnités ou allocations octroyées à l'intéressé en vertu d'une législation belge ou étrangère en réparation de dommages résultant d'un accident du travail, d'un accident survenu sur le chemin du travail ou d'une maladie professionnelle ainsi que les pensions de réparation du temps de paix accordées à l'intéressé.
+
+(Sont également déduits du supplément, les indemnités d'incapacité primaire, les indemnités d'invalidité, les allocations de chômage ou les avantages de même nature octroyés à l'intéressé en vertu d'une législation étrangère.) &lt;L 2003-02-03/41, art. 31, 012; En vigueur : 01-01-2003&gt;
+
+§ 2. S'il s'agit d'un retraité marié, sont en outre déduits du supplément :
+
+1° les revenus que procure à son conjoint l'exercice d'une activité professionnelle;
+
+2° les avantages énumérés ci-après dont bénéficie son conjoint :
+
+a) les pensions ou rentes de retraite ou de survie ou les avantages en tenant lieu, à charge d'un régime de pension établi en vertu d'une législation belge ou étrangère;
+
+b) les indemnités d'incapacité primaire, les indemnités d'invalidité ou les allocations de chômage accordées en vertu de la législation belge ou les avantages de même nature accordés en vertu d'une législation étrangère;
+
+c) les rentes, indemnités ou allocations octroyées en vertu d'une législation belge ou étrangère en réparation de dommages résultant d'un accident du travail, d'un accident survenu sur le chemin du travail ou d'une maladie professionnelle;
+
+d) les pensions de réparation du temps de paix.
+
+[<sup>1</sup> Le présent paragraphe ne s'applique pas aux suppléments visés à l'article 121, § 1er, alinéa 1er.]<sup>1</sup>
+
+§ 3. Si une pension ou une rente visée aux §§ 1er ou 2 a été payée en tout ou en partie sous la forme d'un capital, la rente fictive correspondant au capital liquidé est prise en compte pour l'application du présent article et de l'article 126.
+
+§ 4. Pour l'application du présent article, les prestations de même nature que celles visées aux §§ 1er et 2 accordées par une institution de droit international public sont assimilées à des prestations à charge d'un régime de pension établi en vertu d'une législation étrangère.
+
+----------
+
+(1)&lt;L 2024-05-18/17, art. 21, 021; En vigueur : 01-01-2028&gt;
+
+###### Art. 126
+
+§ 1. Pour la déduction visée a l'article 125, § 2, 1°, il est tenu compte du revenu annuel.
+
+Par revenu annuel, il faut entendre le revenu brut effectivement payé ou attribué par l'employeur, diminué des retenues obligatoires effectuées en exécution de la législation sociale ou d'un statut légal ou réglementaire y assimilé ainsi que des charges professionnelles forfaitaires déductibles en matière fiscale. Lorsqu'il s'agit d'une activité professionnelle exercée en qualité de travailleur indépendant, le revenu annuel est celui qui sert de base au calcul des cotisations sociales dues pour l'année en cours, diminué de ces cotisations.
+
+En cas de régularisation de cotisations payées à titre provisoire par un travailleur indépendant, la déduction visée à l'article 125, § 2, 1°, est revue en tenant compte des revenus retenus pour le calcul définitif des cotisations sociales.
+
+§ 2. Les avantages visés à l'article 125, § 1er, alinéa 2, et § 2, 2°, c) et d), n'entrent en ligne de compte qu'à concurrence de la moitié de leur montant.
+
+(Les avantages visés à l'article 125, § 1er, alinéa 3, n'entrent en ligne de compte qu'à concurrence de 80 % de leur montant.) &lt;L 2003-02-03/41, art. 32, 012; En vigueur : 01-01-2003&gt;
+
+§ 3. Pour l'application de l'article 125, § 2, les revenus ou avantages visés par cette disposition sont préalablement diminués à concurrence d'un montant égal à 50 p.c. de ces revenus ou avantages, sans que ce dernier montant puisse excéder (205,00 EUR) par mois. &lt;AR 2007-07-19/35, art. 3, 015; En vigueur : 01-10-2006&gt;
+
+(Toutefois, en cas d'application de l'article 130, alinéa 2, l'exonération prévue à l'alinéa 1er ne s'applique pas à la partie de la pension du conjoint correspondant au supplément minimum de base accordé en application de l'article 127, ce supplément étant pris en compte après que les déductions visées à l'article 125, § 1er, y aient été opérées.) &lt;L 2003-02-03/41, art. 32, 012; En vigueur : 01-01-2003&gt;
+
+Pour l'application de l'alinéa 1er, le revenu visé à l'article 125, § 2, 1°, est pris en considération pour un douzième de son montant.
+
+§ 4. (...) &lt;L 2003-02-03/41, art. 85, 15°, 012; En vigueur : 01-01-2003&gt;
+
+###### Art. 127
+
+Le total des déductions opérées en application de l'article 125, § 2, est limité à la différence entre le montant minimum garanti de pension et 40 p.c. de la rétribution garantie.
+
+(La différence entre 40 p.c. de la rémunération garantie et le montant nominal de la pension constitue le supplément minimum de base.) &lt;L 2003-02-03/41, art. 33, 012; En vigueur : 01-01-2003&gt;
+
+###### Art. 128
+
+§ 1. Si pour la fixation du montant nominal de la pension, il a été fait application de la réduction de temps prévue par l'article 2 de l'arrêté royal n° 206 du 29 août 1983 précité, les montants minimums garantis visés à l'article 120 ainsi que [<sup>1</sup> le pourcentage prévu à l'article 127]<sup>1</sup> sont multipliés par le rapport prévu à l'article 2, § 1er, alinéa 1er, c), de cet arrêté.
+
+L'alinéa 1er n'est pas d'application lorsque le total des services admissibles visés aux a) et b), de l'article 2, § 1er, alinéa 1er, de l'arrêté royal n° 206 du 29 août 1983 précité correspond à au moins vingt années de services à prestations complètes.
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 3. [<sup>1</sup> ...]<sup>1</sup>.
+
+Les nouveaux pourcentages résultant de l'application du présent article sont établis jusqu'à la quatrième décimale inclusivement.
+
+----------
+
+(1)&lt;L 2026-05-30/02, art. 117, 022; En vigueur : 01-06-2026&gt;
+
+###### Art. 128 DROIT FUTUR
+
+§ 1. Si pour la fixation du montant nominal de la pension [<sup>1</sup> ou de l'allocation d'inaptitude temporaire de travail pour fonctionnaires]<sup>1</sup>, il a été fait application de la réduction de temps prévue par l'article 2 de l'arrêté royal n° 206 du 29 août 1983 précité, les montants minimums garantis visés à l'article 120 ainsi que [<sup>2</sup> le pourcentage prévu à l'article 127]<sup>2</sup> sont multipliés par le rapport prévu à l'article 2, § 1er, alinéa 1er, c), de cet arrêté.
+
+L'alinéa 1er n'est pas d'application lorsque le total des services admissibles visés aux a) et b), de l'article 2, § 1er, alinéa 1er, de l'arrêté royal n° 206 du 29 août 1983 précité correspond à au moins vingt années de services à prestations complètes.
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>.
+
+Les nouveaux pourcentages résultant de l'application du présent article sont établis jusqu'à la quatrième décimale inclusivement.
+
+----------
+
+(1)&lt;L 2024-05-18/17, art. 22, 021; En vigueur : 01-01-2028&gt;
+
+(2)&lt;L 2026-05-30/02, art. 117, 022; En vigueur : 01-06-2026&gt;
+
+###### Art. 129
+
+&lt;Abrogé par L 2026-05-30/02, art. 118, 022; En vigueur : 01-06-2026&gt;
+
+###### Art. 130
+
+Lorsque dans le chef d'une même personne, plusieurs pensions peuvent donner lieu au bénéfice des articles 120 [<sup>1</sup> ...]<sup>1</sup> ou 122, seule est appliquée la disposition qui ouvre le droit au montant minimum garanti le plus élevé; si ce montant est identique pour chacune des pensions, il est uniquement accordé pour la pension dont le taux nominal est le moins élevé.
+
+(Lorsque des pensionnés mariés peuvent chacun prétendre à un des montants minimums garantis prévus [<sup>1</sup> à l'article 120]<sup>1</sup> :
+
+\- le supplément minimum de base résultant de l'application de l'article 127 est, le cas échéant, accordé à chacun des conjoints;
+
+\- le supplément ou la partie de celui-ci qui excède le supplément minimum de base n'est accordé qu'à celui des conjoints pour lequel le présent chapitre produit les effets les plus favorables, compte tenu tant du montant minimum garanti auquel chacun des conjoints peut prétendre, que des revenus ou avantages visés à l'article 125, § 2, tels qu'ils sont pris en considération après application de l'article 126, § 3, dont bénéficie chacun de ces conjoints.
+
+Lorsque, suite à l'application de l'alinéa 2, des montants ont été payés indûment à l'un des conjoints, ceux-ci peuvent être déduits des sommes échues et non encore payées à l'autre conjoint. Cette compensation ne peut en aucun cas porter sur des montants payés indûment plus de dix ans avant la date à laquelle elle est opérée.) &lt;L 2003-02-03/41, art. 34, 012; En vigueur : 01-01-2003&gt;
+
+----------
+
+(1)&lt;L 2026-05-30/02, art. 119, 022; En vigueur : 01-06-2026&gt;
+
+###### Art. 130 DROIT FUTUR
+
+Lorsque dans le chef d'une même personne, [<sup>1</sup> plusieurs pensions ou allocations d'inaptitude temporaire de travail pour fonctionnaires]<sup>1</sup> peuvent donner lieu au bénéfice des articles 120 [<sup>2</sup> ...]<sup>2</sup> ou 122, seule est appliquée la disposition qui ouvre le droit au montant minimum garanti le plus élevé; si ce montant est identique [<sup>1</sup> pour toutes les pensions ou allocations d'inaptitude temporaire de travail, il est uniquement accordé pour la pension ou l'allocation d'inaptitude temporaire de travail]<sup>1</sup> dont le taux nominal est le moins élevé.
+
+(Lorsque des pensionnés mariés peuvent chacun prétendre à un des montants minimums garantis prévus [<sup>2</sup> à l'article 120]<sup>2</sup> :
+
+\- le supplément minimum de base résultant de l'application de l'article 127 est, le cas échéant, accordé à chacun des conjoints;
+
+\- le supplément ou la partie de celui-ci qui excède le supplément minimum de base n'est accordé qu'à celui des conjoints pour lequel le présent chapitre produit les effets les plus favorables, compte tenu tant du montant minimum garanti auquel chacun des conjoints peut prétendre, que des revenus ou avantages visés à l'article 125, § 2, tels qu'ils sont pris en considération après application de l'article 126, § 3, dont bénéficie chacun de ces conjoints.
+
+Lorsque, suite à l'application de l'alinéa 2, des montants ont été payés indûment à l'un des conjoints, ceux-ci peuvent être déduits des sommes échues et non encore payées à l'autre conjoint. Cette compensation ne peut en aucun cas porter sur des montants payés indûment plus de dix ans avant la date à laquelle elle est opérée.) &lt;L 2003-02-03/41, art. 34, 012; En vigueur : 01-01-2003&gt;
+
+----------
+
+(1)&lt;L 2024-05-18/17, art. 23, 021; En vigueur : 01-01-2028&gt;
+
+(2)&lt;L 2026-05-30/02, art. 119, 022; En vigueur : 01-06-2026&gt;
+
+###### Art. 131
+
+Le supplément n'est pas dû pendant les mois civils entiers durant lesquels le pensionné a été incarcéré dans une prison ou interné dans un établissement de défense sociale ou dans un dépôt de mendicité.
+
+Le supplément reste toutefois dû pour la période de la détention préventive, si celle-ci se révèle illégale ou inopérante.
+
+###### Art. 132
+
+§ 1. Les montants visés aux articles 120, [<sup>1</sup> ...]<sup>1</sup> 122, 123 et 126, § 3, sont liés à l'indice-pivot 138,01. Les montants visés aux articles 120, 122, 123 et 126, § 3, [<sup>1</sup> ...]<sup>1</sup> varient en fonction de l'evolution de l'indice des prix à la consommation de la même manière que les pensions de retraite et de survie à charge du Trésor public.
+
+Pour l'application de l'alinéa 1er, il est fait référence, en ce qui concerne le montant visé à l'article 123, à l'indice-pivot en vigueur le 1er janvier de l'année civile considérée.
+
+§ 2. Les montants visés aux articles 120, [<sup>1</sup> ...]<sup>1</sup> 122, 123 et 126, § 3, peuvent être majorés par le Roi.
+
+----------
+
+(1)&lt;L 2026-05-30/02, art. 120, 022; En vigueur : 01-06-2026&gt;
+
+###### Art. 133
+
+Le bénéfice des dispositions du présent chapitre n'est accordé qu'à la demande des intéressés. Cette demande doit être adressée à l'autorité qui gère le régime de pension auquel les intéressés sont soumis.
+
+#### Section 6. - Supplément accordé en cas de handicap grave.
+
+###### Art. 134
+
+&lt;Abrogé par L 2026-05-30/02, art. 122, 022; En vigueur : 01-06-2026&gt;
+
+###### Art. 134 DROIT FUTUR
+
+&lt;Abrogé par L 2026-05-30/02, art. 122, 022; En vigueur : 01-06-2026&gt;
+
+###### Art. 135
+
+&lt;Abrogé par L 2026-05-30/02, art. 122, 022; En vigueur : 01-06-2026&gt;
+
+###### Art. 135 DROIT FUTUR
+
+&lt;Abrogé par L 2026-05-30/02, art. 122, 022; En vigueur : 01-06-2026&gt;
+
+###### Art. 136
+
+&lt;Abrogé par L 2026-05-30/02, art. 122, 022; En vigueur : 01-06-2026&gt;
+
+###### Art. 136 DROIT FUTUR
+
+&lt;Abrogé par L 2026-05-30/02, art. 122, 022; En vigueur : 01-06-2026&gt;
+
+###### Art. 137
+
+&lt;Abrogé par L 2026-05-30/02, art. 122, 022; En vigueur : 01-06-2026&gt;
+
+###### Art. 137 DROIT FUTUR
+
+&lt;Abrogé par L 2026-05-30/02, art. 122, 022; En vigueur : 01-06-2026&gt;
+
+###### Art. 137bis
+
+[<sup>1</sup> Si, pour une année civile déterminée, les revenus professionnels du bénéficiaire dépassent la limite établie conformément aux articles 80 et 86 de la loi-programme du 28 juin 2013, le supplément pour handicap grave ajouté, conformément à l'article 134 tel qu'il était rédigé au 31 mai 2026, à une pension de retraite pour inaptitude médicale ou à une pension de retraite y assimilée attribuée d'office conformément à l'article 83 de la loi du 5 août 1978 précitée ou à l'article 82 de la loi du 26 avril 2002 précitée tels que ces articles étaient rédigés au 31 mai 2026, est réduit pour la même année au prorata du pourcentage du dépassement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-30/02, art. 121, 022; En vigueur : 01-01-2026&gt;
+
+###### Art. 138
+
+&lt;Abrogé par L 2026-05-30/02, art. 122, 022; En vigueur : 01-06-2026&gt;
+
+#### Section 7. - Mesures d'harmonisation.
+
+###### Art. 139
+
+Les montants minimums de pensions prevus en cas de mise à la retraite pour raison d'âge ou d'ancienneté ou pour cause d'inaptitude physique, les montants minimums des pensions de survie et les suppléments accordés en cas de handicap grave, octroyés par les régimes de pensions visés à l'article 38, 2°, a), e) et g), de la loi du 5 août 1978 précitée, ne peuvent, à partir de la date de l'entrée en vigueur du présent chapitre, être différents de ceux accordés par ledit chapitre aux personnes se trouvant dans les mêmes conditions.
+
+Les pensions en cours sont, le cas échéant, révisées conformément aux dispositions de l'article 140, § 1er.
+
+###### Art. 139 DROIT FUTUR
+
+Les montants [<sup>1</sup> minimums des allocations d'inaptitude temporaire de travail pour fonctionnaires et des pensions prévus]<sup>1</sup> en cas de mise à la retraite pour raison d'âge ou d'ancienneté ou pour cause d'inaptitude physique, les montants minimums des pensions de survie et les suppléments accordés en cas de handicap grave, octroyés par les régimes de pensions visés à l'article 38, 2°, a), e) et g), de la loi du 5 août 1978 précitée, ne peuvent, à partir de la date de l'entrée en vigueur du présent chapitre, être différents de ceux accordés par ledit chapitre aux personnes se trouvant dans les mêmes conditions.
+
+Les pensions en cours sont, le cas échéant, révisées conformément aux dispositions de l'article 140, § 1er.
+
+----------
+
+(1)&lt;L 2024-05-18/17, art. 29, 021; En vigueur : 01-01-2028&gt;
+
+#### Section 8. - Dispositions transitoires.
+
+###### Art. 140
+
+§ 1. Les dispositions du présent chapitre, à l'exclusion de celles contenues dans la section 6, sont applicables aux pensions en cours au 31 décembre 1992. Sous réserve des règles particulières définies au présent article, ces dispositions sont appliquées d'office.
+
+Si, à la date précitée, le pensionné ne bénéficie pas effectivement d'un supplément accordé en application du Titre II du Livre Ier de la loi du 15 mai 1984 précitée, le benéfice des dispositions du présent chapitre ne lui sera accordé que s'il en fait la demande.
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 3. Pour les pensions de retraite en cours au 31 décembre 1992 et dont le titulaire bénéficie à cette date effectivement d'un supplément accordé au titre de montant minimum de pension, les dispositions en vigueur à cette date restent intégralement d'application aussi longtemps qu'elles produisent un effet plus favorable que celles du présent chapitre. Toutefois, pendant cette période, l'application de ces dispositions ne pourra procurer un avantage supérieur à celui dont l'intéressé bénéficiait effectivement à la date précitée, quelle que soit l'évolution ultérieure de sa situation.
+
+En cas d'application de l'alinéa 1er, le montant minimum résultant de l'application des anciennes dispositions continue à être établi sur la base des taux, des barèmes et de l'indice-pivot en vigueur au 31 décembre 1992. En outre, il n'est plus fait application des dispositions de l'ancien article 30, § 1er, alinéas 3 et 4, de la loi du 15 mai 1984.
+
+§ 4. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-30/02, art. 123, 022; En vigueur : 01-06-2026&gt;
+
+###### Art. 141
+
+Par dérogation à l'article 126, § 3, le pourcentage de 50 p.c. et le montant de (202,53 EUR) sont respectivement remplacés : &lt;AR 2000-07-20/64, art. 2, 008; En vigueur : 01-01-2002&gt;
+
+\- en 1993 par 10 p.c. et (40,51 EUR); &lt;AR 2000-07-20/64, art. 2, 008; En vigueur : 01-01-2002&gt;
+
+\- en 1994 par 20 p.c. et (81,02 EUR); &lt;AR 2000-07-20/64, art. 2, 008; En vigueur : 01-01-2002&gt;
+
+\- en 1995 par 30 p.c. et (121,52 EUR); &lt;AR 2000-07-20/64, art. 2, 008; En vigueur : 01-01-2002&gt;
+
+\- en 1996 par 40 p.c. et (162,03 EUR). &lt;AR 2000-07-20/64, art. 2, 008; En vigueur : 01-01-2002&gt;
+
+#### Section 9. - Dispositions finales.
+
+###### Art. 142
+
+&lt;Disposition abrogatoire du Titre II du Livre I de L 1984-05-15/30&gt;
+
+###### Art. 143
+
+&lt;disposition modificative de l'art. 4 de L 1984-05-15/30&gt;
+
+###### Art. 144
+
+1° &lt;disposition modificative de l'art. 39, al. 1, de L 1978-08-05/01&gt;
+
+2° &lt;disposition modificative de l'art. 50bis, § 2, de L 1978-08-05/01&gt;
+
+3° &lt;disposition modificative de l'art. 68 de L 1978-08-05/01&gt;
+
+4° A l'article 3 de l'arrêté royal du 1er avril 1992 accordant un pécule de vacances et un pécule complémentaire au pécule de vacances aux pensionnés des services publics, les mots " bénéficient effectivement d'un supplément par application des articles 28 ou 32 de la loi du 15 mai 1984 précitée " sont remplacés par les mots " bénéficient effectivement d'un supplément par application des articles 120 ou 122 de la loi du 26 juin 1992 portant des dispositions sociales et diverses ";
+
+5° A l'article 4 de l'arrêté royal du 1er avril 1992 précite, les mots " qui ont la qualité de retraités avec charge de famille au sens de l'article 33, § 1er, de la loi du 15 mai 1984 précitée. " sont remplacés par les mots " qui bénéficient du montant minimum de pension prévu en faveur d'un retraité marié par l'article 120 de la loi du 26 juin 1992 portant des dispositions sociales et diverses précitée ".
+
+###### Art. 145
+
+Les dispositions du présent chapitre entrent en vigueur le 1er janvier 1993.
+
+### CHAPITRE II. - Modification de l'article 159 de la loi-programme du 30 décembre 1988.
+
+###### Art. 146
+
+&lt;disposition modificative de l'art. 159 de L 1988-12-30/31&gt;
+
+###### Art. 147
+
+L'article 146 entre en vigueur le premier jour du mois qui suit celui au cours duquel la présente loi est publiée au Moniteur belge.
+
+### CHAPITRE III. - Suppression de l'interdiction du cumul entre une pension de reparation et une indemnisation accordée par une organisation internationale.
+
+###### Art. 148
+
+L'article 1er, alinéa 6, des lois sur les pensions de réparation, coordonnées le 5 octobre 1948, modifié par l'article 31, § 1er, de la loi du 7 juin 1989, est remplacé par ce qui suit :
+
+" Vient également en déduction de la pension et des indemnités, toute indemnisation accordée pour le même fait dommageable par l'Office de sécurité sociale d'outre-mer lorsqu'elle constitue la contrepartie de primes d'assurances supportées directement ou indirectement par le Trésor. "
+
+###### Art. 149
+
+L'article 148 produit ses effets le 1er juillet 1989.
+
+## TITRE VI. - DISPOSITIONS DIVERSES.
+
+### CHAPITRE I. - Défense nationale.
+
+###### Art. 150
+
+Le ministre de la Défense nationale est autorisé à aliéner des biens immeubles qui font partie du patrimoine immobilier confié à sa gestion.
+
+(...) &lt;Alinéa 2 abrogé par L 2001-07-19/38, art. 66, 009; En vigueur : 28-07-2001&gt;
+
+(...) &lt;Alinéa 3 abrogé par L 2001-07-19/38, art. 66, 009; En vigueur : 28-07-2001&gt;
+
+### CHAPITRE II. - Modification de la loi du 29 mars 1958 relative à la protection de la population contre les dangers résultant des radiations ionisantes.
+
+###### Art. 151
+
+&lt;Disposition abrogatoire de l'art. 2, al. 2 de L 1958-03-29/01&gt;
+
+###### Art. 152
+
+&lt;insertion d'un article 3bis dans L 1958-03-29/01&gt;
+
+###### Art. 153
+
+&lt;disposition modificative de l'art. 5 de L 1958-03-29/01&gt;
+
+### CHAPITRE III. - Régie des télégraphes et téléphones.
+
+###### Art. 154
+
+La Régie des télégraphes et téléphones assurera avant le 1er septembre 1992, le remboursement du solde de 3 749 733 911 francs du subside en capital octroyé antérieurement à titre d'investissement complémentaire de ladite Régie, portant sur l'achat de produits belges, fabriqués en recourant à des techniques de pointe, à la recherche et au développement en matière de télécommunications.
+
+Une partie du solde, c'est-à-dire 1 650 000 000 de francs, sera versée au Trésor belge, tandis que le reste pour un montant de 2 099 733 911 francs sera verse directement à la Régie des postes.
+
+###### Art. 155
+
+La dotation accordée par l'Etat à la Régie des postes en vertu de l'article 14, § 3, de la loi du 6 juillet 1971 portant création de la Regie des postes, est réduite de 2 099 733 911 francs pour l'année 1992. Ce montant lui sera versé directement par la Régie des télégraphes et téléphones.
+
+###### Art. 156
+
+La Régie des télégraphes et téléphones supportera, a concurrence d'un montant maximum de 255 millions de francs, les frais d'infrastructure de télécommunication sur le domaine public, causés par le déménagement des services de la Communauté économique européenne du bâtiment du Berlaymont.
+
+###### Art. 157
+
+Le montant à facturer à l'Etat pour les prestations effectuées par la Régie des télégraphes et téléphones pour le recouvrement habituel des redevances radio et télévision relatives aux années 1989 à 1992 est, quel que soit leur prix de revient, exceptionnellement limité à 2 922 200 000 francs.
+
+Pour l'année 1992, le montant prévu à l'alinéa 1er est augmenté de 11 100 000 francs, à titre d'indemnité due par l'Etat à la Régie des télégraphes et téléphones pour l'engagement pendant six mois de vingt membres de personnel contractuel supplémentaire afin d'accélérer le recouvrement des créances de la Régie.
+
+Les frais pour le recouvrement des redevances radio et télévision, excédant les montants prévus aux alinéas 1er et 2, restent à charge de la Régie des télégraphes et téléphones sous réserve de tâches additionnelles.
+
+### CHAPITRE IV. - Intérieur.
+
+#### Section 1. - Mesures relatives aux charges financières des emprunts de consolidation des déficits des communes fusionnées.
+
+###### Art. 158
+
+§ 1. &lt;disposition modificative de l'art. 293, al. 1, de L 1989-12-22/31&gt;
+
+§ 2. &lt;disposition modificative de l'art. 294 de L 1989-12-22/31&gt;
+
+#### Section 2.
+
+###### Art. 159
+
+&lt;disposition modificative de l'art. 7, § 2bis, de L 1987-01-21/35&gt;
+
+###### Art. 160
+
+Les dispositions de l'article 159 entrent en vigueur à partir de l'exercice d'imposition 1993.
+
+#### Section 3. - Support financier de l'action de la police communale.
+
+###### Art. 161
+
+§ 1. Un article 226bis, rédigé comme suit, est inséré dans la nouvelle loi communale :
+
+" Art. 226bis. - Un crédit à concurrence de 7,5 pour cent des recettes de l'Etat provenant d'amendes de condamnations pénales en matières diverses, ainsi que des sommes d'argent visées par l'article 216bis du Code d'instruction criminelle et par l'article 65 de la loi relative à la police de la circulation routière, est inscrit au budget du Ministère de l'Intérieur. Ce crédit est utilisé pour soutenir le fonctionnement du corps de police des communes qui assurent un service de police à part entière. Le Roi fixe les conditions d'octroi et de répartition de ce crédit.
+
+§ 2. Par dérogation à l'article 226bis de la nouvelle loi communale, le crédit visé à cet article est limité, pour l'année budgétaire 1992, à 2,2 pour cent desdites recettes de l'Etat.
+
+§ 3. Pour les années budgétaires 1992 (à 1995 inclus), le crédit visé à l'article 226bis de la nouvelle loi communale sera prioritairement affecté à l'acquisition d'éthylomètres pour les besoins de la police communale ainsi que, par dérogation aux dispositions de cet article, pour les besoins de la gendarmerie. &lt;L 1993-08-06/30, art. 69, 003; En vigueur : 19-08-1993&gt;
+
+### CHAPITRE V. - Justice.
+
+#### Section 1. - Amendes pénales.
+
+###### Art. 162
+
+&lt;disposition modificative de l'art. 1, al. 1 et 2, de L 1952-03-05/30&gt;
+
+#### Section 2. - Modification de l'article 982 du Code judiciaire.
+
+###### Art. 163
+
+&lt;disposition modificative de l'art. 982, al. 2, du CJUD 1967-10-10/04&gt;
+
+###### Art. 164
+
+&lt;disposition modificative de l'art. 19, al. 2, de L 1987-02-27/31&gt;
+
+#### Section 3. - Statut des ministres des cultes.
+
+###### Art. 165
+
+Aux articles 26 à 29bis de la loi du 2 août 1974 relative aux traitements des titulaires de certaines fonctions publiques et des ministres des cultes, sont apportées les modifications suivantes :
+
+1° A l'article 26, à partir du 1er novembre 1992, le traitement annuel respectivement du pasteur, du desservant, du chapelain, du vicaire est fixé à 496 925 francs;
+
+2° A l'article 27, à partir du 1er novembre 1992, le traitement annuel du pasteur auxiliaire est fixé à 496 925 francs;
+
+3° A l'article 27bis, à partir du 1er novembre 1992, le traitement annuel respectivement du curé-doyen, du desservant, du vicaire est fixé à 496 925 francs;
+
+4° A l'article 29, à partir du 1er novembre 1992, le traitement annuel du ministre officiant est fixé à 496 925 francs;
+
+5° A l'article 29bis, à partir du 1er novembre 1992, le traitement de l'imam est fixé à 496 925 francs.
+
+###### Art. 166
+
+&lt;insertion d'un article 1bis dans L 1967-07-03/01&gt;
+
+###### Art. 167
+
+&lt;disposition modificative de l'art. 7, § 2, de L 1991-07-20/31&gt;

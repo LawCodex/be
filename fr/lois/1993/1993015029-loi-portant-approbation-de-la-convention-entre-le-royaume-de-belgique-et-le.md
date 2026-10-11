@@ -1,0 +1,64 @@
+---
+title: "Loi portant approbation de la Convention entre le Royaume de Belgique et le Royaume de Suède tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Stockholm le 5 février 1991."
+identifier: "1993015029"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1993/01/26/1993015029/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1993-01-26
+published: 1993-02-27
+entry_into_force: 1993-03-09
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1993/01/26/1993015029/justel"
+department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
+retrieved: 2026-10-12
+---
+
+# 26 JANVIER 1993. - Loi portant approbation de la Convention entre le Royaume de Belgique et le Royaume de Suède tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Stockholm le 5 février 1991.
+
+BAUDOUIN, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La Convention entre le Royaume de Belgique et le Royaume de Suède tendant à éviter les doubles impositions et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, signée à Stockholm, le 5 février 1991 sortira son plein et entier effet.
+
+## Art. 2
+
+Le dégrèvement des impositions établies ou acquittées contrairement aux dispositions de la Convention est - même lorsque ces impositions ne sont plus susceptibles de révision en droit commun - accordé, soit d'office, par le directeur des contributions directes si la surtaxe a été constatée par l'administration ou signalée à celle-ci par le redevable dans le délai d'un an à compte de la publication de la présente loi au Moniteur belge, soit ensuite d'une réclamation motivée présentée par écrit dans le même délai au fonctionnaire précité.
+
+Les décisions prises par les directeurs des contributions directes en vertu du présent article peuvent faire l'objet de recours en appel et en cassation conformément aux dispositions applicables en l'espèce en matière fiscale. L'article 308 du Code des Impôts sur les revenus ne s'applique pas aux dégrèvements accordés sur les impositions visées au présent article.
+
+## Art. 3
+
+Par dérogation aux dispositions du droit commun applicables en matière de délais d'imposition, les impôts ou suppléments d'impôts dus à raison de revenus tombant sous l'application de la Convention conformément à l'article 30 de celle-ci peuvent être valablement établis jusqu'à l'expiration d'un délai d'un an à compter de la publication de la présente loi au Moniteur belge. (%%1991-02-05/37%%)
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles le 26 janvier 1993.
+
+BAUDOUIN
+
+Par le Roi :
+
+Le Ministre des Affaires étrangères,
+
+W. CLAES
+
+Le Ministre des Finances,
+
+Ph. MAYSTADT
+
+Le Ministre du Commerce extérieur,
+
+R. URBAIN
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. WATHELET

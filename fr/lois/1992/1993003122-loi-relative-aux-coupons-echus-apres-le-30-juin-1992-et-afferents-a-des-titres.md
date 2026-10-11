@@ -1,0 +1,32 @@
+---
+title: "Loi relative aux coupons échus après le 30 juin 1992 et afférents à des titres de l'Etat frappés d'opposition avant le 1er juillet 1992."
+identifier: "1993003122"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1992/12/11/1993003122/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1992-12-11
+published: 1993-03-18
+entry_into_force: 1993-03-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1992/12/11/1993003122/justel"
+department: "Finances"
+retrieved: 2026-10-12
+---
+
+# 11 DECEMBRE 1992. - Loi relative aux coupons échus après le 30 juin 1992 et afférents à des titres de l'Etat frappés d'opposition avant le 1er juillet 1992.
+
+## Art. 1
+
+Article unique. Nonobstant les dispositions de la loi du 22 juillet 1991 modifiant la loi du 24 juillet 1921 relative à la dépossession involontaire des titres au porteur, l'Etat paie aux opposants sur obligations de sa dette, les coupons échus postérieurement au 30 juin 1992, lorsque sont remplies les trois conditions ci-après :
+
+\- l'opposition a été adressée à l'Etat avant le 1er juillet 1992;
+
+\- la déclaration d'opposition fait apparaître que lesdits coupons étaient attachés à l'obligation concernée au moment de la dépossession involontaire;
+
+\- l'obligation a été déclarée sans valeur par application de l'article 24 de la loi du 24 juillet 1921 relative à la dépossession involontaire des titres au porteur.
+
+Le paiement a lieu suivant les modalités choisies par l'opposant.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.

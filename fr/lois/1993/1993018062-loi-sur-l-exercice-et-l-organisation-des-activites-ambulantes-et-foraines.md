@@ -1,0 +1,912 @@
+---
+title: "[Loi sur l'exercice et l'organisation des activités ambulantes et foraines]. <Intitulé remplacé par L 2005-07-04/36, art. 2 ; En vigueur : 01-10-2006>"
+identifier: "1993018062"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1993/06/25/1993018062/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1993-06-25
+published: 1993-09-30
+entry_into_force: 1995-06-13
+last_amended: 2025-03-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1993/06/25/1993018062/justel"
+department: "Classes Moyennes"
+justel_note: "Consultation des versions antérieures à partir du 25-08-2005 et mise à jour au 10-03-2025"
+retrieved: 2026-10-12
+---
+
+# 25 JUIN 1993. - [Loi sur l'exercice et l'organisation des activités ambulantes et foraines]. &lt;Intitulé remplacé par L 2005-07-04/36, art. 2 ; En vigueur : 01-10-2006&gt;
+
+## CHAPITRE I. - (De l'exercice des activités ambulantes et foraines). &lt;L 2005-07-04/36, art. 3, 002; En vigueur : 01-10-2006&gt;
+
+### Art. 1
+
+Pour l'application de la présente loi, il faut entendre par :
+
+1° produits : les biens meubles corporels;
+
+2° consommateur : toute personne physique ou morale qui acquiert ou utilise à des fins excluant tout caractère professionnel des produits ou des services mis sur le marché;
+
+3° services : toutes prestations qui constituent un acte de commerce ou une activité artisanale visée par la loi du 18 mars 1965 sur le registre de l'artisanat;
+
+4° (marché : manifestation créée ou préalablement autorisée par la commune, rassemblant, en des lieux et en des temps déterminés des personnes qui y vendent des produits et des services visés à l'article 2, § 1er.
+
+Le marché organisé par la commune, qu'il soit directement géré par cette autorité ou donné en concession par celle-ci, est dénommé : " marché public ".
+
+Le marché créé sur initiative privée, préalablement autorisé par la commune, est dénommé " marché privé ";) &lt;L 2005-07-04/36, art. 4, a), 002; En vigueur : 01-10-2006&gt;
+
+(5° fête foraine : manifestation créée ou préalablement autorisée par la commune, rassemblant, en des lieux et en des temps déterminés, des exploitants d'attractions foraines ou d'établissements de gastronomie foraine, qui y vendent des services et produits au consommateur;) &lt;L 2005-07-04/36, art. 4, b), 002; En vigueur : 01-10-2006&gt;
+
+(6°) le Ministre : le Ministre qui a les Classes moyennes dans ses attributions. &lt;L 2005-07-04/36, art. 4, b), 002; En vigueur : 01-10-2006&gt;
+
+La présente loi ne s'applique pas aux valeurs mobilières et autres instruments financiers visés par la législation relative aux opérations financières et aux marchés financiers.
+
+(La présente loi ne s'applique pas aux parcs d'attractions ni aux attractions foraines sédentaires et ne porte pas atteinte aux dispositions de la loi du 14 juillet 1991 sur les pratiques du commerce et sur l'information et la protection du consommateur ni à celles de la loi du 9 février 1994 sur la sécurité des produits et des services.) &lt;L 2005-07-04/36, art. 4, c), 002; En vigueur : 01-10-2006&gt;
+
+### Art. 1_REGION_DE_BRUXELLES-CAPITALE
+
+Pour l'application de la présente loi, il faut entendre par :
+
+1° produits : les biens meubles corporels;
+
+2° consommateur : toute personne physique ou morale qui acquiert ou utilise à des fins excluant tout caractère professionnel des produits ou des services mis sur le marché;
+
+[<sup>1</sup> 2° /1 entreprise: toute organisation visée à l'article I.1, 1°, du Code de droit économique soumise à l'obligation de s'inscrire à la Banque-Carrefour des Entreprises conformément à l'article III.16 du Code de droit économique;]<sup>1</sup>
+
+3° services : toutes prestations qui constituent un acte de commerce ou une activité artisanale visée par la loi du 18 mars 1965 sur le registre de l'artisanat;
+
+4° (marché : manifestation créée ou préalablement autorisée par la commune, rassemblant, en des lieux et en des temps déterminés des personnes qui y vendent des produits et des services visés à l'article 2, § 1er.
+
+Le marché organisé par la commune, qu'il soit directement géré par cette autorité ou donné en concession par celle-ci, est dénommé : " marché public ".
+
+Le marché créé sur initiative privée, préalablement autorisé par la commune, est dénommé " marché privé ";) &lt;L 2005-07-04/36, art. 4, a), 002; En vigueur : 01-10-2006&gt;
+
+(5° fête foraine : manifestation créée ou préalablement autorisée par la commune, rassemblant, en des lieux et en des temps déterminés, des exploitants d'attractions foraines ou d'établissements de gastronomie foraine, qui y vendent des services et produits au consommateur;) &lt;L 2005-07-04/36, art. 4, b), 002; En vigueur : 01-10-2006&gt;
+
+(6°) le Ministre : le Ministre qui a les Classes moyennes dans ses attributions. &lt;L 2005-07-04/36, art. 4, b), 002; En vigueur : 01-10-2006&gt;
+
+La présente loi ne s'applique pas aux valeurs mobilières et autres instruments financiers visés par la législation relative aux opérations financières et aux marchés financiers.
+
+(La présente loi ne s'applique pas aux parcs d'attractions ni aux attractions foraines sédentaires et ne porte pas atteinte aux dispositions de la loi du 14 juillet 1991 sur les pratiques du commerce et sur l'information et la protection du consommateur ni à celles de la loi du 9 février 1994 sur la sécurité des produits et des services.) &lt;L 2005-07-04/36, art. 4, c), 002; En vigueur : 01-10-2006&gt;
+
+----------
+
+(1)&lt;ORD 2023-12-14/18, art. 2, 015; En vigueur : 01-04-2024&gt;
+
+### Art. 1_REGION_FLAMANDE
+
+Pour l'application de la présente loi, il faut entendre par :
+
+1° produits : les biens meubles corporels;
+
+2° consommateur : toute personne physique ou morale qui acquiert ou utilise à des fins excluant tout caractère professionnel des produits ou des services mis sur le marché;
+
+3° services : toutes prestations qui constituent un acte de commerce ou une activité artisanale visée par la loi du 18 mars 1965 sur le registre de l'artisanat;
+
+[<sup>1</sup> 3° /1 Banque-Carrefour des Entreprises : la Banque-Carrefour des Entreprises, visée à l'article I.2, 1°, du Code de droit économique;]<sup>1</sup>
+
+4° (marché : manifestation créée ou préalablement autorisée par la commune, rassemblant, en des lieux et en des temps déterminés des personnes qui y vendent des produits et des services visés à l'article 2, § 1er.
+
+Le marché organisé par la commune, qu'il soit directement géré par cette autorité ou donné en concession par celle-ci, est dénommé : " marché public ".
+
+Le marché créé sur initiative privée, préalablement autorisé par la commune, est dénommé " marché privé ";) &lt;L 2005-07-04/36, art. 4, a), 002; En vigueur : 01-10-2006&gt;
+
+(5° fête foraine : manifestation créée ou préalablement autorisée par la commune, rassemblant, en des lieux et en des temps déterminés, des exploitants d'attractions foraines ou d'établissements de gastronomie foraine, qui y vendent des services et produits au consommateur;) &lt;L 2005-07-04/36, art. 4, b), 002; En vigueur : 01-10-2006&gt;
+
+(6°) le Ministre : le Ministre qui a les Classes moyennes dans ses attributions. &lt;L 2005-07-04/36, art. 4, b), 002; En vigueur : 01-10-2006&gt;
+
+La présente loi ne s'applique pas aux valeurs mobilières et autres instruments financiers visés par la législation relative aux opérations financières et aux marchés financiers.
+
+(La présente loi ne s'applique pas aux parcs d'attractions ni aux attractions foraines sédentaires et ne porte pas atteinte aux dispositions de la loi du 14 juillet 1991 sur les pratiques du commerce et sur l'information et la protection du consommateur ni à celles de la loi du 9 février 1994 sur la sécurité des produits et des services.) &lt;L 2005-07-04/36, art. 4, c), 002; En vigueur : 01-10-2006&gt;
+
+----------
+
+(1)&lt;DCFL 2023-03-03/01, art. 2, 014; En vigueur : 01-04-2024&gt;
+
+### Art. 2
+
+&lt;L 2005-07-04/36, art. 5, 002; En vigueur : 01-10-2006&gt; § 1er. Est considérée comme activité ambulante, toute vente, offre en vente ou exposition en vue de la vente de produits et accessoirement de services se rapportant à ces produits, au consommateur, effectuée par un commerçant en dehors des établissements mentionnés dans son immatriculation à la Banque Carrefour des Entreprises ou par une personne ne disposant pas d'un établissement du genre.
+
+Le Roi peut soumettre aux dispositions de la présente loi les services dont les modalités et les lieux de vente correspondent à ceux des activités ambulantes.
+
+§ 2. Est considérée comme activité foraine, toute vente, offre en vente ou exposition en vue de la vente de services au consommateur, dans le cadre de l'exploitation d'attractions foraines ou d'établissements de gastronomie foraine.
+
+### Art. 2_REGION_DE_BRUXELLES-CAPITALE
+
+&lt;L 2005-07-04/36, art. 5, 002; En vigueur : 01-10-2006&gt; § 1er. Est considérée comme activité ambulante, toute vente, offre en vente ou exposition en vue de la vente de produits et accessoirement de services se rapportant à ces produits, au consommateur, effectuée par [<sup>1</sup> une entreprise en dehors de ses unités d'établissement inscrites]<sup>1</sup> à la Banque Carrefour des Entreprises ou par une personne ne disposant pas d'un établissement du genre.
+
+Le Roi peut soumettre aux dispositions de la présente loi les services dont les modalités et les lieux de vente correspondent à ceux des activités ambulantes.
+
+§ 2. Est considérée comme activité foraine, toute vente, offre en vente ou exposition en vue de la vente de services au consommateur, dans le cadre de l'exploitation d'attractions foraines ou d'établissements de gastronomie foraine.
+
+----------
+
+(1)&lt;ORD 2023-12-14/18, art. 3, 015; En vigueur : 01-04-2024&gt;
+
+### Art. 3
+
+&lt;L 2005-07-04/36, art. 6, 002; En vigueur : 01-10-2006&gt; (L'exercice d'activités ambulantes ou foraines est subordonné à autorisation préalable. Celle-ci est délivrée par un guichet d'entreprises visé à la loi 16 janvier 2003 portant création d'une Banque-Carrefour des Entreprises, modernisation du registre de commerce, création de guichets-entreprises agréés et portant diverses dispositions.) &lt;L 2006-07-20/39, art. 172, 1°, 003; En vigueur : 01-10-2006; voir aussi art. 174&gt;
+
+Le Roi détermine la nature de l'autorisation préalable en fonction de l'activité et du statut de la personne qui l'exerce. Il peut dispenser certaines catégories de préposés de l'obligation de disposer de l'autorisation, aux conditions qu'il détermine. Toutefois, nulle personne dispensée ne peut exercer l'une des activités visées par la présente loi, si elle n'est accompagnée d'une personne titulaire de l'autorisation requise, assumant la responsabilité de la vente.
+
+L'autorisation vaut pour la durée de l'activité. Le Roi peut toutefois limiter son temps de validité pour les besoins spécifiques de la profession ou les motifs d'ordre public qu'Il détermine.
+
+Le Roi arrête les modalités de contrôle des activités ambulantes et foraines.
+
+(Le Roi détermine la rétribution des guichets d'entreprises pour leur intervention dans la gestion des demandes d'autorisations d'activités ambulantes et d'autorisations d'activités foraines.) &lt;L 2006-07-20/39, art. 172, 3°, 003; En vigueur : 01-10-2006; voir aussi art. 174&gt;
+
+Dans le cadre de la procédure de demande d'autorisation, (le guichet d'entreprises) informe le demandeur de l'état d'avancement du dossier, dans un délai de trois mois à dater de l'introduction de la demande. &lt;L 2006-07-20/39, art. 172, 2°, 003; En vigueur : 01-10-2006; voir aussi art. 174&gt;
+
+(NOTE JUSTEL : Pour le remplacement des mots " le ministre des Classes moyennes " par les mots " le guichet d'entreprises " au dernier alinéa par L 2006-07-20/39, art 172, 2°, Justel a remplacé les mots " le ministre " au lieu de " le ministre des Classes moyennes ")
+
+### Art. 3_REGION_WALLONNE
+
+&lt;Abrogé par DRW 2025-02-27/03, art. 1, 016; En vigueur : 20-12-2024&gt;
+
+### Art. 3_REGION_DE_BRUXELLES-CAPITALE
+
+[<sup>1</sup> L'entreprise qui exerce une activité ambulante au domicile du consommateur en Région de Bruxelles-Capitale dispose d'une autorisation préalable, délivrée par un guichet d'entreprises agréé tel que visé à l'article III.59 du Code de droit économique.
+
+Le guichet d'entreprises délivre l'autorisation si l'entreprise personne physique ou, dans le cas d'une personne morale ou d'une organisation sans personnalité juridique, la personne physique chargée de la gestion journalière de l'entreprise n'a pas été condamnée en Belgique par une décision judiciaire coulée en force de chose jugée pour une des infractions visées au livre 2, titre VIII, chapitres Ier, I/1, IIIquater, IV, IVter et VI, et titre IX, chapitres Ier et II, du Code pénal, et n'a pas été condamnée à l'étranger pour un fait correspondant à la qualification de l'une de ces infractions. Cette condition ne s'applique pas en cas de condamnation avec sursis et si l'intéressé n'a pas perdu le bénéfice du sursis ou si l'intéressé a été gracié ou a été condamné par simple déclaration de culpabilité.
+
+L'autorisation a une durée de validité renouvelable de cinq ans. Elle expire de plein droit si l'intéressé ne remplit plus la condition prévue à l'alinéa 2.
+
+L'entreprise veille à ce que les personnes physiques qui exercent pour son compte l'activité ambulante au domicile du consommateur remplissent la condition prévue à l'alinéa 2.
+
+Le Gouvernement de la Région de Bruxelles-Capitale détermine:
+
+1° la procédure d'autorisation;
+
+2° les pièces justificatives à introduire par l'entreprise dans le cadre de la demande d'autorisation;
+
+3° le tarif perçu par le guichet d'entreprises pour la gestion de la demande d'autorisation;
+
+4° le fonctionnaire auprès duquel l'entreprise peut introduire un recours, la procédure écrite de recours, ainsi que les formes et conditions pour l'introduction de la requête;
+
+5° le service qui contrôle les guichets d'entreprises agréés sur la délivrance des autorisations;
+
+6° les obligations de communication que les entreprises autorisées respectent.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2023-12-14/18, art. 4, 015; En vigueur : 01-04-2024&gt;
+
+### Art. 3_REGION_FLAMANDE
+
+&lt;Abrogé par DCFL 2023-03-03/01, art. 3, 014; En vigueur : 01-04-2024&gt;
+
+### Art. 4
+
+&lt;L 2005-07-04/36, art. 7, 002; En vigueur : 01-10-2006&gt; § 1er. L'exercice des activités ambulantes est autorisé, conformément aux dispositions du chapitre II, sur les marchés publics et privés, la voie publique, en d'autres endroits du domaine public, sur les lieux jouxtant la voie publique et sur les parkings commerciaux.
+
+Sont assimilés à la voie publique, les parkings situés sur la voie publique, les galeries commerciales, les halls de gare, de métro, d'aéroport et les lieux sur lesquels se déroulent les fêtes foraines.
+
+L'exercice des activités ambulantes est également autorisé au domicile du consommateur [<sup>1</sup> ...]<sup>1</sup>.
+
+Le Roi peut étendre le champ d'exercice des activités ambulantes à d'autres lieux, aux conditions qu'il détermine.
+
+§ 2. L'exercice des activités foraines est autorisé, sur les fêtes foraines et en tout autre lieu, conformément aux dispositions du chapitre II
+
+----------
+
+(1)&lt;L 2016-06-29/01, art. 52, 008; En vigueur : 16-07-2016&gt;
+
+### Art. 5
+
+Ne sont pas soumises aux dispositions de la présente loi :
+
+1° (les ventes occasionnelles, sans caractère commercial, déterminées par le Roi, aux conditions qu'il définit et, notamment les ventes occasionnelles par les particuliers); &lt;L 2005-07-04/36, art. 8, a), 002; En vigueur : 01-10-2006&gt;
+
+2° (les ventes effectuées dans le cadre des foires commerciales, artisanales ou agricoles et des expositions ainsi qu'au cours des manifestations occasionnelles organisées ou préalablement autorisées par les autorités communales en vue de promouvoir le commerce local ou la vie de la commune, aux conditions déterminées par le Roi); &lt;L 2005-07-04/36, art. 8, b), 002; En vigueur : 01-10-2006&gt;
+
+3° la vente des journaux et périodiques, ainsi que la conclusion d'abonnement à des journaux pour autant qu'il s'agisse de la desserte régulière d'une clientèle fixe et locale, les ventes par correspondance et les ventes effectuées par distributeurs automatiques;
+
+4° la vente de produits alimentaires par des commerçants ou leurs préposés desservant régulièrement une clientèle fixe au moyen de magasins ambulants;
+
+5° (la vente, effectuée par un commerçant devant son magasin ou dans le prolongement de celui-ci, aux conditions déterminées par le Roi); &lt;L 2005-07-04/36, art. 8, c), 002; En vigueur : 01-10-2006&gt;
+
+6° les ventes publiques effectuées avec l'assistance des officiers ministériels et les ventes effectuées en exécution d'une décision judiciaire et aux endroits désignés par le juge;
+
+7° la vente de produits indigènes de l'agriculture, de l'horticulture, de la floriculture, de l'élevage, pour autant qu'ils sont vendus directement sur les lieux mêmes de la production par le producteur, le cultivateur ou l'éleveur; celle de produits indigènes de la chasse et de la pêche pour autant qu'ils sont vendus directement et à son domicile par le chasseur ou le pêcheur;
+
+8° les ventes et les prestations de services réalisées au domicile du consommateur, à condition :
+
+a) qu'elles soient réalisées par un commerçant ou un artisan établi immatriculé respectivement au registre du commerce ou de l'artisanat pour autant que son activité ne consiste pas à contacter de façon systématique et massive les particuliers pour leur proposer la vente de ses produits et services;
+
+b) que la vente porte sur un produit ou un service pour lequel le consommateur a demandé de façon préalable et expresse la visite du vendeur en vue de négocier l'achat de ce produit ou service. Ne constitue pas une demande préalable, l'accord donné par le consommateur à une offre de visite proposée téléphoniquement par le vendeur;
+
+(9° la vente par un commerçant dans l'établissement d'un autre commerçant, pendant les heures normales d'ouverture de cet établissement, aux conditions déterminées par le Roi;) &lt;L 2005-07-04/36, art. 8, d), 002; En vigueur : 01-10-2006&gt;
+
+(10°) les autres activités déterminées par le Roi et aux conditions fixées par Lui. &lt;L 2005-07-04/36, art. 8, d), 002; En vigueur : 01-10-2006&gt;
+
+### Art. 5_REGION_DE_BRUXELLES-CAPITALE
+
+Ne sont pas soumises aux dispositions de la présente loi :
+
+1° (les ventes occasionnelles, sans caractère commercial, déterminées par le Roi, aux conditions qu'il définit et, notamment les ventes occasionnelles par les particuliers); &lt;L 2005-07-04/36, art. 8, a), 002; En vigueur : 01-10-2006&gt;
+
+2° (les ventes effectuées dans le cadre des foires commerciales, artisanales ou agricoles et des expositions ainsi qu'au cours des manifestations occasionnelles organisées ou préalablement autorisées par les autorités communales en vue de promouvoir le commerce local ou la vie de la commune, aux conditions déterminées par le Roi); &lt;L 2005-07-04/36, art. 8, b), 002; En vigueur : 01-10-2006&gt;
+
+3° la vente des journaux et périodiques, ainsi que la conclusion d'abonnement à des journaux pour autant qu'il s'agisse de la desserte régulière d'une clientèle fixe et locale, les ventes par correspondance et les ventes effectuées par distributeurs automatiques;
+
+4° la vente de produits alimentaires par des [<sup>1</sup> entreprises]<sup>1</sup> ou leurs préposés desservant régulièrement une clientèle fixe au moyen de magasins ambulants;
+
+5° (la vente, effectuée par [<sup>1</sup> une entreprise]<sup>1</sup> devant son magasin ou dans le prolongement de celui-ci, aux conditions déterminées par le Roi); &lt;L 2005-07-04/36, art. 8, c), 002; En vigueur : 01-10-2006&gt;
+
+6° les ventes publiques effectuées avec l'assistance des officiers ministériels et les ventes effectuées en exécution d'une décision judiciaire et aux endroits désignés par le juge;
+
+7° la vente de produits indigènes de l'agriculture, de l'horticulture, de la floriculture, de l'élevage, pour autant qu'ils sont vendus directement sur les lieux mêmes de la production par le producteur, le cultivateur ou l'éleveur; celle de produits indigènes de la chasse et de la pêche pour autant qu'ils sont vendus directement et à son domicile par le chasseur ou le pêcheur;
+
+8° les ventes et les prestations de services réalisées au domicile du consommateur, à condition :
+
+a) qu'elles soient réalisées par [<sup>1</sup> une entreprise inscrite à la Banque-Carrefour des Entreprises]<sup>1</sup> pour autant que son activité ne consiste pas à contacter de façon systématique et massive les particuliers pour leur proposer la vente de ses produits et services;
+
+b) que la vente porte sur un produit ou un service pour lequel le consommateur a demandé de façon préalable et expresse la visite du vendeur en vue de négocier l'achat de ce produit ou service. Ne constitue pas une demande préalable, l'accord donné par le consommateur à une offre de visite proposée téléphoniquement par le vendeur;
+
+(9° la vente par [<sup>1</sup> une entreprise]<sup>1</sup> dans l'établissement d'un autre commerçant, pendant les heures normales d'ouverture de cet établissement, aux conditions déterminées par le Roi;) &lt;L 2005-07-04/36, art. 8, d), 002; En vigueur : 01-10-2006&gt;
+
+(10°) les autres activités déterminées par le Roi et aux conditions fixées par Lui. &lt;L 2005-07-04/36, art. 8, d), 002; En vigueur : 01-10-2006&gt;
+
+----------
+
+(1)&lt;ORD 2023-12-14/18, art. 5, 015; En vigueur : 01-04-2024&gt;
+
+### Art. 6
+
+&lt;L 2005-07-04/36, art. 9, 002; En vigueur : 01-10-2006&gt; § 1er. [<sup>1</sup> Le Roi peut, pour des motifs d'ordre public ou de santé publique, sans préjudice des dispositions du Livre IX du Code de droit économique, interdire la vente de certains produits et services ou catégories de produits et services dans l'exercice des activités ambulantes et foraines, de manière soit généralisée, soit partielle en fonction du lieu d'activité. Il peut également apporter des restrictions horaires à l'exercice de tout ou partie de ces activités.]<sup>1</sup>
+
+§ 2. Le Roi détermine les conditions que doivent remplir les titulaires d'une autorisation.
+
+----------
+
+(1)&lt;L 2016-06-29/01, art. 53, 008; En vigueur : 16-07-2016&gt;
+
+### Art. 6_REGION_WALLONNE
+
+&lt;L 2005-07-04/36, art. 9, 002; En vigueur : 01-10-2006&gt; § 1er. [<sup>1</sup> Le Roi peut, pour des motifs d'ordre public ou de santé publique, sans préjudice des dispositions du Livre IX du Code de droit économique, interdire la vente de certains produits et services ou catégories de produits et services dans l'exercice des activités ambulantes et foraines, de manière soit généralisée, soit partielle en fonction du lieu d'activité. Il peut également apporter des restrictions horaires à l'exercice de tout ou partie de ces activités.]<sup>1</sup>
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2016-06-29/01, art. 53, 008; En vigueur : 16-07-2016&gt;
+
+(2)&lt;DRW 2025-02-27/03, art. 2, 016; En vigueur : 20-12-2024&gt;
+
+### Art. 6_REGION_DE_BRUXELLES-CAPITALE
+
+&lt;L 2005-07-04/36, art. 9, 002; En vigueur : 01-10-2006&gt; § 1er. [<sup>1</sup> Le Roi peut, pour des motifs d'ordre public ou de santé publique, sans préjudice des dispositions du Livre IX du Code de droit économique, interdire la vente de certains produits et services ou catégories de produits et services dans l'exercice des activités ambulantes et foraines, de manière soit généralisée, soit partielle en fonction du lieu d'activité. Il peut également apporter des restrictions horaires à l'exercice de tout ou partie de ces activités.]<sup>1</sup>
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2016-06-29/01, art. 53, 008; En vigueur : 16-07-2016&gt;
+
+(2)&lt;ORD 2023-12-14/18, art. 6, 015; En vigueur : 01-04-2024&gt;
+
+### Art. 6_REGION_FLAMANDE
+
+&lt;L 2005-07-04/36, art. 9, 002; En vigueur : 01-10-2006&gt; § 1er. [<sup>1</sup> Le Roi peut, pour des motifs d'ordre public ou de santé publique, sans préjudice des dispositions du Livre IX du Code de droit économique, interdire la vente de certains produits et services ou catégories de produits et services dans l'exercice des activités ambulantes et foraines, de manière soit généralisée, soit partielle en fonction du lieu d'activité. Il peut également apporter des restrictions horaires à l'exercice de tout ou partie de ces activités.]<sup>1</sup>
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+(1)&lt;L 2016-06-29/01, art. 53, 008; En vigueur : 16-07-2016&gt;
+
+(2)&lt;DCFL 2023-03-03/01, art. 4, 014; En vigueur : 01-04-2024&gt;
+
+### Art. 7
+
+&lt;L 2005-07-04/36, art. 10, 002; En vigueur : 01-10-2006&gt; Le Roi détermine la forme des autorisations et arrête les modalités de demande et de délivrance ainsi que les taxes auxquelles elles sont soumises. Ces modalités et (droits) sont fixées en fonction de la nature de l'activité, du statut de celui qui l'exerce et de la durée de l'autorisation. &lt;L 2006-07-20/39, art. 173, 003; En vigueur : 01-10-2006; voir aussi art. 174&gt;
+
+### Art. 7_REGION_WALLONNE
+
+&lt;Abrogé par DRW 2025-02-27/03, art. 2, 016; En vigueur : 20-12-2024&gt;
+
+### Art. 7_REGION_DE_BRUXELLES-CAPITALE
+
+&lt;Abrogé par ORD 2023-12-14/18, art. 7, 015; En vigueur : 01-04-2024&gt;
+
+### Art. 7_REGION_FLAMANDE
+
+&lt;Abrogé par DCFL 2023-03-03/01, art. 5, 014; En vigueur : 01-04-2024&gt;
+
+## CHAPITRE II. - (De l'organisation des activités ambulantes et foraines). &lt;L 2005-07-04/36, art. 11, 002; En vigueur : 01-10-2006&gt;
+
+### Art. 8
+
+&lt;L 2005-07-04/36, art. 12, 002; En vigueur : 01-10-2006&gt; § 1er. L'organisation des activités ambulantes et foraines sur les marchés et fêtes foraines publics est déterminée par un règlement communal.
+
+§ 2. Ce règlement fixe :
+
+\- les lieux, jours et heures de la manifestation ainsi que le plan des emplacements, leur spécialisation éventuelle et leurs spécifications techniques; il renvoie le cas échéant à la décision du collège des bourgmestre et échevins arrêtant ces dispositions;
+
+\- les conditions visées dans l'arrêté royal pris en exécution de l'article 10, § 1er;
+
+\- le délai de préavis à donner aux titulaires d'emplacement en cas de suppression définitive de la manifestation ou de partie de ses emplacements; ce délai ne peut être inférieur à un an. En cas d'absolue nécessité et dans d'autres cas déterminés par le Roi, le délai n'est pas d'application.
+
+Le règlement peut limiter le nombre d'emplacements par entreprise de manière à maintenir la diversité de l'offre.
+
+### Art. 8_REGION_FLAMANDE
+
+&lt;L 2005-07-04/36, art. 12, 002; En vigueur : 01-10-2006&gt; § 1er. L'organisation des activités ambulantes et foraines sur les marchés et fêtes foraines publics est déterminée par un règlement communal.
+
+§ 2. Ce règlement fixe :
+
+\- les lieux, jours et heures de la manifestation ainsi que le plan des emplacements, leur spécialisation éventuelle et leurs spécifications techniques; il renvoie le cas échéant à la décision du collège des bourgmestre et échevins arrêtant ces dispositions;
+
+\- les conditions visées dans l'arrêté royal pris en exécution de l'article 10, § 1er;
+
+\- [<sup>2</sup> le délai de préavis à donner aux titulaires d'emplacement en cas de suppression définitive du marché public, de la fête foraine publique ou d'une partie de ses emplacements. Ce délai ne peut être inférieur à douze mois. En cas de déménagement définitif du marché public, de la fête foraine publique ou d'une partie des emplacements, le délai ne peut être inférieur à six mois. En cas d'absolue nécessité et dans d'autres cas déterminés par le Gouvernement flamand, aucun délai minimum de préavis ne s'applique.]<sup>2</sup>
+
+Le règlement peut limiter le nombre d'emplacements par entreprise de manière à maintenir la diversité de l'offre.
+
+----------
+
+(1)&lt;DCFL 2017-02-24/11, art. 2, 009; En vigueur : 25-03-2017&gt;
+
+(2)&lt;DCFL 2023-03-03/01, art. 6, 014; En vigueur : 01-04-2024&gt;
+
+### Art. 9
+
+&lt;L 2005-07-04/36, art. 13, 002; En vigueur : 01-10-2006&gt; § 1er. L'organisation des activités ambulantes et foraines sur le domaine public, en dehors des marchés et fêtes foraines publics, est déterminée par un règlement communal.
+
+§ 2. Le règlement arrête, conformément à l'arrêté royal pris en exécution de l'article 10, § 1er, les modalités d'occupation du domaine public, que cette occupation se réalise de manière temporairement sédentaire ou déambulatoire.
+
+Le règlement peut déterminer les lieux, jours et heures d'exercice des activités ambulantes ainsi que leur spécialisation. Il peut limiter le nombre d'emplacements par entreprise, pour maintenir la diversité de l'offre.
+
+§ 3. Le règlement relatif à l'organisation des activités foraines sur le domaine public, en dehors des fêtes foraines, détermine les modalités d'octroi de l'autorisation requise pour l'exercice de ces activités en ce lieu, conformément à l'arrêté royal pris en exécution de l'article 10, § 1er.
+
+§ 4. L'autorisation d'exercice de l'activité sollicitée peut être refusée pour les motifs visés à l'article 6, § 1er, [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2009-12-22/07, art. 10, 004; En vigueur : 28-12-2009&gt;
+
+### Art. 10
+
+&lt;L 2005-07-04/36, art. 14, 002; En vigueur : 01-10-2006&gt; § 1er. Le Roi détermine les conditions d'attribution et d'occupation des emplacements sur les marchés et fêtes foraines publics et sur le domaine public ainsi que leur mode de paiement. Il arrête également les conditions auxquelles la cession, la sous-location ou la suspension d'occupation d'emplacement sont autorisées.
+
+§ 2. L'autorité communale transmet les projets de règlement d'organisation des activités ambulantes et foraines sur les marchés et fêtes foraines publics ainsi que sur le domaine public au ministre, avant approbation par le conseil communal. Il en va de même pour toute modification du règlement.
+
+Le ministre dispose d'un délai de quinze jours, à dater de la réception du projet pour faire part à la commune de ses observations quant à la conformité du règlement à la présente loi. A défaut de réponse dans ce délai, l'avis du ministre est réputé sans observations.
+
+La commune communique le règlement au ministre dans le délai d'un mois suivant son adoption.
+
+§ 3. Le Roi fixe les modalités de contrôle de l'organisation des activités ambulantes et foraines.
+
+### Art. 10_REGION_WALLONNE
+
+&lt;L 2005-07-04/36, art. 14, 002; En vigueur : 01-10-2006&gt; § 1er. Le Roi détermine les conditions d'attribution et d'occupation des emplacements sur les marchés et fêtes foraines publics et sur le domaine public ainsi que leur mode de paiement. Il arrête également les conditions auxquelles la cession, la sous-location ou la suspension d'occupation d'emplacement sont autorisées.
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 3. Le Roi fixe les modalités de contrôle de l'organisation des activités ambulantes et foraines.
+
+----------
+
+(1)&lt;DRW 2025-02-27/03, art. 4, 016; En vigueur : 20-12-2024&gt;
+
+### Art. 10_REGION_FLAMANDE
+
+&lt;L 2005-07-04/36, art. 14, 002; En vigueur : 01-10-2006&gt; § 1er. [<sup>2</sup> Le Gouvernement flamand peut déterminer les conditions d'attribution et d'occupation des emplacements sur les marchés et fêtes foraines publics et sur le domaine public ainsi que leur mode de paiement. Le Gouvernement flamand peut déterminer les conditions auxquelles la cessation, la cession, la sous-location ou la suspension d'occupation d'emplacement sont soumises.]<sup>2</sup>
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 3. Le Roi fixe les modalités de contrôle de l'organisation des activités ambulantes et foraines.
+
+----------
+
+(1)&lt;DCFL 2016-03-04/09, art. 2, 007; En vigueur : 03-04-2016&gt;
+
+(2)&lt;DCFL 2017-02-24/11, art. 3, 009; En vigueur : 25-03-2017&gt;
+
+### Art. 10bis
+
+&lt;inséré par L 2005-07-04/36, art. 15; En vigueur : 01-10-2006&gt; L'organisation de marchés privés et de fêtes foraines d'initiative privée est soumise à l'autorisation préalable de la commune, de même que l'organisation de toute activité ambulante sur les lieux jouxtant la voie publique ou sur les parkings commerciaux ainsi que de toute activité foraine en un lieu privé. L'autorisation peut être refusée pour les motifs visés à l'article 6, § 1er, [<sup>1</sup> ...]<sup>1</sup> pour laquelle elle est sollicitée [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2009-12-22/07, art. 11, 004; En vigueur : 28-12-2009&gt;
+
+### Art. 10bis_REGION_FLAMANDE
+
+&lt;inséré par L 2005-07-04/36, art. 15; En vigueur : 01-10-2006&gt; L'organisation de marchés privés et de fêtes foraines d'initiative privée est soumise à l'autorisation préalable de la commune, de même que l'organisation de toute activité ambulante sur les lieux jouxtant la voie publique ou sur les parkings commerciaux ainsi que de toute activité foraine en un lieu privé. L'autorisation peut être refusée pour les motifs visés à l'article 6, § 1er, [<sup>1</sup> ...]<sup>1</sup> pour laquelle elle est sollicitée [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2009-12-22/07, art. 11, 004; En vigueur : 28-12-2009&gt;
+
+### Art. 10ter
+
+&lt;inséré par L 2005-07-04/36, art. 17; En vigueur : 01-10-2006&gt; Lorsqu'il est constaté qu'un acte constitue une infraction à la présente loi ou à un de ses arrêtés d'exécution, l'agent commissionné en application de l'article 11, § 1er, peut adresser au contrevenant un avertissement le mettant en demeure de mettre fin à cet acte.
+
+L'avertissement est notifié au contrevenant, soit par la remise d'une copie du procès-verbal lors de la constatation des faits, soit par lettre recommandée avec accusé de réception, dans un délai de trois semaines à dater de la constatation des faits.
+
+L'avertissement mentionne :
+
+a) les faits imputés et la ou les dispositions légales enfreintes;
+
+b) le délai dans lequel il doit être mis fin à l'infraction;
+
+c) qu'au cas où il n'est pas donné suite à l'avertissement, les agents commissionnés en application de l'article 13, § 3, pourront appliquer le règlement par voie de transaction prévu au même article.
+
+### Art. 10ter_REGION_WALLONNE
+
+&lt;inséré par L 2005-07-04/36, art. 17; En vigueur : 01-10-2006&gt; Lorsqu'il est constaté qu'un acte constitue une infraction à la présente loi ou à un de ses arrêtés d'exécution, [<sup>1</sup> les fonctionnaires visés à l'article 11, alinéa 1er, peuvent ]<sup>1</sup> adresser au contrevenant un avertissement le mettant en demeure de mettre fin à cet acte.
+
+L'avertissement est notifié au contrevenant, soit par la remise d'une copie du procès-verbal lors de la constatation des faits, soit par lettre recommandée avec accusé de réception, dans un délai de trois semaines à dater de la constatation des faits.
+
+L'avertissement mentionne :
+
+a) les faits imputés et la ou les dispositions légales enfreintes;
+
+b) le délai dans lequel il doit être mis fin à l'infraction;
+
+c) qu'au cas où il n'est pas donné suite à l'avertissement, les agents commissionnés en application de l'article 13, § 3, pourront appliquer le règlement par voie de transaction prévu au même article.
+
+----------
+
+(1)&lt;DRW 2019-02-28/25, art. 103, 012; En vigueur : 01-07-2019&gt;
+
+## CHAPITRE III. - (Des dispositions de contrôle et pénales et de la procédure d'avertissement). &lt;L 2005-07-04/36, art. 16, 002; En vigueur : 01-10-2006&gt;
+
+## CHAPITRE III. REGION\_WALLONNE. [<sup>1</sup> Contrôle, avertissement, dispositions pénales et amendes administratives ]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2019-02-28/25, art. 104, 012; En vigueur : 01-07-2019&gt;
+
+### Art. 11
+
+§ 1. Sans préjudice des devoirs incombant aux officiers de police judiciaire, sont qualifiés à l'effet de rechercher et de constater les infractions aux dispositions de la présente loi et de ses arrêtés d'exécution, (les membres du cadre opérationnel de la police fédérale et de la police locale) ainsi que les agents désignés par le Roi à cet effet. &lt;L 2005-07-04/36, art. 18, a), 002; En vigueur : 01-10-2006&gt;
+
+En cas d'infraction, ils dressent procès-verbal qui fait foi jusqu'à preuve du contraire. Copie de ce procès-verbal est adressée au contrevenant dans les trente jours.
+
+§ 2. Dans l'exercice de leurs fonctions, les agents visés au § 1er :
+
+1° (ont libre accès aux endroits où se déroulent des activités ambulantes ou foraines et peuvent visiter les véhicules transportant les produits et le matériel); &lt;L 2005-07-04/36, art. 18, b), 002; En vigueur : 01-10-2006&gt;
+
+2° peuvent faire toutes les constatations utiles, se faire produire, sur première réquisition et sans déplacement, les documents, pièces ou livres nécessaires à leurs recherches et constatations et en prendre copie;
+
+3° ont le droit de se faire indiquer la provenance des produits (ou du matériel) et de se faire fournir le matériel ou de se faire communiquer tous les renseignements nécessaires à l'accomplissement de leur mission; &lt;L 2005-07-04/36, art. 18, c), 002; En vigueur : 01-10-2006&gt;
+
+4° s'ils ont des raisons de croire à l'existence d'une infraction, ils peuvent pénétrer dans les habitations privées avec l'autorisation préalable du juge au tribunal de police; les visites dans les habitations privées doivent s'effectuer entre cinq et vingt et une heures et être faites conjointement par deux officiers ou agents au moins.
+
+§ 3. Dans l'exercice de leurs fonctions, les agents visés au § 1er peuvent requérir l'assistance (de la police locale ou de la police fédérale). &lt;L 2005-07-04/36, art. 18, d), 002; En vigueur : 01-10-2006&gt;
+
+### Art. 11_REGION_WALLONNE
+
+[<sup>1</sup> Sans préjudice des devoirs incombant aux officiers de police judiciaire, sont qualifiés à l'effet de rechercher et de constater les infractions aux dispositions de la présente loi et de ses arrêtés d'exécution, les membres du cadre opérationnel de la police fédérale et de la police locale ainsi que les fonctionnaires désignés par le Gouvernement.
+
+Les fonctionnaires visés à l'alinéa 1er exercent ce contrôle conformément aux dispositions du décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la politique économique, à la politique de l'emploi et à la recherche scientifique ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations.
+
+Dans l'exercice de leurs fonctions, les fonctionnaires visés à l'alinéa 1er peuvent requérir l'assistance de la police locale ou de la police fédérale.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2019-02-28/25, art. 105, 012; En vigueur : 01-07-2019&gt;
+
+### Art. 11_REGION_FLAMANDE
+
+§ 1. Sans préjudice des devoirs incombant aux officiers de police judiciaire, sont qualifiés à l'effet de rechercher et de constater les infractions aux dispositions de la présente loi et de ses arrêtés d'exécution, (les membres du cadre opérationnel de la police fédérale et de la police locale) ainsi que les agents désignés par le Roi à cet effet. &lt;L 2005-07-04/36, art. 18, a), 002; En vigueur : 01-10-2006&gt;
+
+En cas d'infraction, ils dressent procès-verbal qui fait foi jusqu'à preuve du contraire. Copie de ce procès-verbal est adressée au contrevenant dans les trente jours.
+
+§ 2. Dans l'exercice de leurs fonctions, les agents visés au § 1er :
+
+1° (ont libre accès aux endroits où se déroulent des activités ambulantes ou foraines et peuvent visiter les véhicules transportant les produits et le matériel); &lt;L 2005-07-04/36, art. 18, b), 002; En vigueur : 01-10-2006&gt;
+
+2° peuvent faire toutes les constatations utiles, se faire produire, sur première réquisition et sans déplacement, les documents, pièces ou livres nécessaires à leurs recherches et constatations et en prendre copie;
+
+3° ont le droit de se faire indiquer la provenance des produits (ou du matériel) et de se faire fournir le matériel ou de se faire communiquer tous les renseignements nécessaires à l'accomplissement de leur mission; &lt;L 2005-07-04/36, art. 18, c), 002; En vigueur : 01-10-2006&gt;
+
+4° s'ils ont des raisons de croire à l'existence d'une infraction, ils peuvent pénétrer dans les habitations privées avec l'autorisation préalable du juge au tribunal de police; les visites dans les habitations privées doivent s'effectuer entre cinq et vingt et une heures et être faites conjointement par deux officiers ou agents au moins.
+
+§ 3. Dans l'exercice de leurs fonctions, les agents visés au § 1er peuvent requérir l'assistance (de la police locale ou de la police fédérale). &lt;L 2005-07-04/36, art. 18, d), 002; En vigueur : 01-10-2006&gt;
+
+[<sup>1</sup> § 4. [<sup>2</sup> En application de l'article 23, paragraphe 1, e) et h), du règlement (UE) n° 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données), les agents visés au paragraphe 1er peuvent décider de ne pas appliquer les obligations et droits énoncés aux articles 12 à 22 dudit règlement au traitement des données à caractère personnel dans le cadre d'une enquête qui concerne une personne physique déterminée, si les conditions énoncées aux alinéas 2 à 10 sont remplies.
+
+La possibilité de dérogation visée à l'alinéa premier ne s'applique que pendant la période au cours de laquelle l'intéressé fait l'objet d'un contrôle, d'une enquête ou des activités préparatoires y afférentes, dans le cadre des missions décrétales et réglementaires des agents visés au paragraphe 1er, à condition qu'il soit ou puisse être nécessaire pour le bon déroulement de l'enquête que les obligations et droits visés aux articles 12 à 22 dudit règlement ne soient pas appliqués. La durée des activités préparatoires ne peut, le cas échéant, dépasser un an à compter de la date de réception d'une demande d'exercice d'un des droits visés aux articles 12 à 22 dudit règlement.
+
+Les données à caractère personnel visées à l'alinéa 1er ne seront pas conservées plus longtemps que les finalités pour lesquelles elles sont traitées le requièrent.
+
+La possibilité de dérogation visée à l'alinéa premier ne s'applique pas aux données qui ne sont pas liées à l'objet de l'enquête ou du contrôle justifiant le refus ou la restriction des droits, visés à l'alinéa premier.
+
+Si, dans le cas visé à l'alinéa premier, l'intéressé soumet une demande sur la base des articles 12 à 22 dudit règlement au cours de la période visée au deuxième alinéa, le fonctionnaire à la protection des données compétent en accuse réception.
+
+Le fonctionnaire à la protection des données compétent informe l'intéressé par écrit de tout refus ou restriction des droits, visés à l'alinéa premier, dans les meilleurs délais et en tout état de cause dans un délai d'un mois à compter du jour suivant celui de la réception de la demande. Il n'est pas nécessaire de fournir des informations complémentaires sur les motifs détaillés d'un tel refus ou d'une telle restriction lorsque cela porterait atteinte aux missions décrétales et réglementaires des agents visés au paragraphe 1er, sans préjudice de l'application de l'alinéa 8. Si nécessaire, le délai précité peut être prolongé de deux mois, compte tenu du nombre de demandes et de leur complexité. Le responsable du traitement informe l'intéressé de cette prolongation et des raisons du report dans un délai d'un mois à compter du jour suivant celui où il a reçu la demande.
+
+Le fonctionnaire à la protection des données compétent informe également l'intéressé sur la possibilité d'introduire une demande auprès de la commission de contrôle flamande pour le traitement des données à caractère personnel conformément à l'article 10/5 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, et de former un recours en justice.
+
+Le fonctionnaire à la protection des données compétent consigne les motifs factuels ou juridiques sur lesquels la décision est fondée. Il tient ces informations à la disposition de la commission de contrôle flamande précitée.
+
+Une fois l'enquête terminée, les droits énoncés aux articles 13 à 22 du règlement précité sont, le cas échéant, appliqués à nouveau conformément à l'article 12 du règlement précité.
+
+Si un dossier contenant des données à caractère personnel visées à l'alinéa premier a été transmis au Ministère public et peut conduire à des activités sous la direction du Ministère public ou d'un juge d'instruction, et qu'il existe une incertitude quant au secret de l'enquête sous la direction du Ministère public ou d'un juge d'instruction, le fonctionnaire à la protection des données compétent ne peut répondre à la demande de l'intéressé conformément aux articles 12 à 22 du règlement précité qu'après que le Ministère public ou, le cas échéant, le juge d'instruction, a confirmé qu'une réponse ne compromet pas ou n'est pas susceptible de compromettre l'enquête.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-08/04, art. 60, 011; En vigueur : 25-05-2018&gt;
+
+(2)&lt;AGF 2019-07-19/22, art. 6, 013; En vigueur : 12-09-2019&gt;
+
+### Art. 12
+
+Le ministère public, au vu des procès-verbaux dressés en exécution de l'article 11, § 1er, peut ordonner la saisie des produits faisant l'objet de l'infraction et du matériel qui a servi à la commettre.
+
+Les agents chargés du contrôle, (lorsqu'ils constatent qu'une activité ambulante ou foraine est exercée par une personne qui ne dispose pas de l'autorisation requise ou par un préposé dispensé d'autorisation non accompagné d'une personne titulaire de l'autorisation adéquate), peuvent procéder à titre conservatoire à la saisie des produits et du matériel faisant l'objet de l'infraction ou qui ont servi à la commettre. Cette saisie devra être confirmée par le ministère public dans un délai qui ne peut excéder quinze jours, conformément aux dispositions du premier alinéa. &lt;L 2005-07-04/36, art. 19, a), 002; En vigueur : 01-10-2006&gt;
+
+La personne entre les mains de laquelle ces biens sont saisis, peut en être constituée gardien judiciaire. La saisie est levée de plein droit par le jugement mettant fin aux poursuites, lorsque ce jugement est passé en force de chose jugée ou par le classement sans suite.
+
+Le ministère public peut donner mainlevée à la saisie qu'il a ordonnée ou confirmée, si le contrevenant renonce à vendre les marchandises (et les services) ou à utiliser le matériel dans les conditions ayant donné lieu aux poursuites; cette renonciation n'implique aucune reconnaissance du bien-fondé des poursuites. &lt;L 2005-07-04/36, art. 19, b), 002; En vigueur : 01-10-2006&gt;
+
+### Art. 12_REGION_DE_BRUXELLES-CAPITALE
+
+Le ministère public, au vu des procès-verbaux dressés en exécution de l'article 11, § 1er, peut ordonner la saisie des produits faisant l'objet de l'infraction et du matériel qui a servi à la commettre.
+
+Les agents chargés du contrôle, (lorsqu'ils constatent qu'une activité ambulante ou foraine est exercée [<sup>1</sup> en violation de l'article 3]<sup>1</sup>), peuvent procéder à titre conservatoire à la saisie des produits et du matériel faisant l'objet de l'infraction ou qui ont servi à la commettre. Cette saisie devra être confirmée par le ministère public dans un délai qui ne peut excéder quinze jours, conformément aux dispositions du premier alinéa. &lt;L 2005-07-04/36, art. 19, a), 002; En vigueur : 01-10-2006&gt;
+
+La personne entre les mains de laquelle ces biens sont saisis, peut en être constituée gardien judiciaire. La saisie est levée de plein droit par le jugement mettant fin aux poursuites, lorsque ce jugement est passé en force de chose jugée ou par le classement sans suite.
+
+Le ministère public peut donner mainlevée à la saisie qu'il a ordonnée ou confirmée, si le contrevenant renonce à vendre les marchandises (et les services) ou à utiliser le matériel dans les conditions ayant donné lieu aux poursuites; cette renonciation n'implique aucune reconnaissance du bien-fondé des poursuites. &lt;L 2005-07-04/36, art. 19, b), 002; En vigueur : 01-10-2006&gt;
+
+----------
+
+(1)&lt;ORD 2023-12-14/18, art. 8, 015; En vigueur : 01-04-2024&gt;
+
+### Art. 12_REGION_FLAMANDE
+
+Le ministère public, au vu des procès-verbaux dressés en exécution de l'article 11, § 1er, peut ordonner la saisie des produits faisant l'objet de l'infraction et du matériel qui a servi à la commettre.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+La personne entre les mains de laquelle ces biens sont saisis, peut en être constituée gardien judiciaire. La saisie est levée de plein droit par le jugement mettant fin aux poursuites, lorsque ce jugement est passé en force de chose jugée ou par le classement sans suite.
+
+Le ministère public peut donner mainlevée à la saisie qu'il a ordonnée ou confirmée, si le contrevenant renonce à vendre les marchandises (et les services) ou à utiliser le matériel dans les conditions ayant donné lieu aux poursuites; cette renonciation n'implique aucune reconnaissance du bien-fondé des poursuites. &lt;L 2005-07-04/36, art. 19, b), 002; En vigueur : 01-10-2006&gt;
+
+----------
+
+(1)&lt;DCFL 2023-03-03/01, art. 8, 014; En vigueur : 01-04-2024&gt;
+
+### Art. 12_REGION_WALLONNE
+
+Le ministère public, au vu des procès-verbaux dressés en exécution [<sup>1</sup> de l'article 11, alinéa 1er ]<sup>1</sup>, peut ordonner la saisie des produits faisant l'objet de l'infraction et du matériel qui a servi à la commettre.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+La personne entre les mains de laquelle ces biens sont saisis, peut en être constituée gardien judiciaire. La saisie est levée de plein droit par le jugement mettant fin aux poursuites, lorsque ce jugement est passé en force de chose jugée ou par le classement sans suite.
+
+Le ministère public peut donner mainlevée à la saisie qu'il a ordonnée ou confirmée, si le contrevenant renonce à vendre les marchandises (et les services) ou à utiliser le matériel dans les conditions ayant donné lieu aux poursuites; cette renonciation n'implique aucune reconnaissance du bien-fondé des poursuites. &lt;L 2005-07-04/36, art. 19, b), 002; En vigueur : 01-10-2006&gt;
+
+----------
+
+(1)&lt;DRW 2019-02-28/25, art. 106, 012; En vigueur : 01-07-2019&gt;
+
+(2)&lt;DRW 2025-02-27/03, art. 5, 016; En vigueur : 20-12-2024&gt;
+
+### Art. 13
+
+§ 1. Sont punis d'un emprisonnement de huit jours à trois ans et d'une amende de 26 à 1 000 francs ou d'une de ces peines seulement :
+
+1° (les personnes qui exercent une activité ambulante ou foraine sans disposer de l'autorisation requise ou qui poursuivent l'exercice de l'activité après que l'autorisation leur ait été retirée ainsi que les préposés dispensés d'autorisation qui exercent l'activité sans être accompagnés d'une personne titulaire de l'autorisation adéquate); &lt;L 2005-07-04/36, art. 20, a), 002; En vigueur : 01-10-2006&gt;
+
+2° (les personnes qui emploient des préposés qui ne disposent pas de l'autorisation requise ou les dispensés d'autorisation qui exercent l'activité non accompagnés d'une personne titulaire de l'autorisation adéquate;) &lt;L 2005-07-04/36, art. 20, b), 002; En vigueur : 01-10-2006&gt;
+
+3° ceux qui n'observent pas les conditions et les interdictions auxquelles est soumis l'exercice des activités ambulantes (et foraines) ou celles qui sont mentionnées dans leur autorisation et ceux qui contreviennent aux dispositions des arrêtés pris en exécution de la présente loi; &lt;L 2005-07-04/36, art. 20, c), 002; En vigueur : 01-10-2006&gt;
+
+4° ceux qui mettent obstacle à la mission des officiers et agents chargés du contrôle de l'activité ambulante, (ou foraine) qui refusent d'indiquer la provenance des produits ou de communiquer les renseignements ou documents visés à l'article 11, § 2, ou qui fournissent volontairement des renseignements ou documents inexacts ou incomplets; &lt;L 2005-07-04/36, art. 20, d), 002; En vigueur : 01-10-2006&gt;
+
+5° ceux qui occupent des emplacements (...) en violation des prescriptions (...) de la présente loi ou de ses arrêtés d'exécution; &lt;L 2005-07-04/36, art. 20, e), 002; En vigueur : 01-10-2006&gt;
+
+6° (les agents et les particuliers, délégués par les autorités communales, qui attribuent des emplacements en vue de l'exercice d'une activité ambulante ou foraine, en violation des prescriptions de la présente loi ou de ses arrêtés d'exécution); &lt;L 2005-07-04/36, art. 20, f), 002; En vigueur : 01-10-2006&gt;
+
+7° les personnes qui ont en charge l'organisation ou la gestion (des activités ambulantes et foraines) et qui ne respectent pas les dispositions de la présente loi et de ses arrêtés d'exécution. &lt;L 2005-07-04/36, art. 20, g), 002; En vigueur : 01-10-2006&gt;
+
+§ 2. En cas de condamnation consécutive à une (activité ambulante ou foraine pratiquée par une personne qui ne dispose pas de l'autorisation requise ou par un préposé dispensé d'autorisation non accompagné d'une personne titulaire de l'autorisation adéquate), le tribunal peut prononcer la confiscation spéciale des biens formant l'objet de l'infraction ou qui ont servi à la commettre. &lt;L 2005-07-04/36, art. 20, h), 002; En vigueur : 01-10-2006&gt;
+
+Toutes les dispositions du livre Ier du Code pénal, y compris le chapitre VII et l'article 85, sont applicables aux infractions énumérées au § 1er.
+
+§ 3. Les agents commissionnés à cette fin par le Ministre peuvent, au vu des procès-verbaux constatant une infraction définie au § 1er, 1° à 5°, et dressés par les agents visés à l'article 11, § 1er, proposer aux contrevenants le paiement d'une somme qui éteint l'action publique.
+
+Les tarifs ainsi que les modalités de paiement et de perception sont fixés par le Roi.
+
+(§ 4. En cas d'application de l'article 10ter, le procès-verbal visé à l'article 11, § 1er, n'est transmis au procureur du Roi que lorsqu'il n'a pas été donné suite à l'avertissement.
+
+En cas d'application de l'article 13, § 3, le procès-verbal n'est transmis au procureur du Roi que lorsque le contrevenant n'a pas accepté la proposition de transaction.) &lt;L 2005-07-04/36, art. 20, i), 002; En vigueur : 01-10-2006&gt;
+
+### Art. 13_REGION_WALLONNE
+
+§ 1. [<sup>1</sup> Sont punis soit d'un emprisonnement de huit jours à trois ans et d'une amende pénale de 100 à 1.000 euros ou d'une de ces peines seulement, soit d'une amende administrative de 50 à 500 euros : ]<sup>1</sup> :
+
+1° [<sup>2</sup> ...]<sup>2</sup>
+
+2° ([<sup>2</sup> ...]<sup>2</sup>
+
+3° ceux qui n'observent pas les conditions et les interdictions auxquelles est soumis l'exercice des activités ambulantes (et foraines) [<sup>2</sup> ...]<sup>2</sup> et ceux qui contreviennent aux dispositions des arrêtés pris en exécution de la présente loi; &lt;L 2005-07-04/36, art. 20, c), 002; En vigueur : 01-10-2006&gt;
+
+4° ceux qui mettent obstacle à la mission des officiers et agents chargés du contrôle de l'activité ambulante, (ou foraine) qui refusent d'indiquer la provenance des produits ou de communiquer les renseignements ou documents visés à l'article 11, § 2, ou qui fournissent volontairement des renseignements ou documents inexacts ou incomplets; &lt;L 2005-07-04/36, art. 20, d), 002; En vigueur : 01-10-2006&gt;
+
+5° ceux qui occupent des emplacements (...) en violation des prescriptions (...) de la présente loi ou de ses arrêtés d'exécution; &lt;L 2005-07-04/36, art. 20, e), 002; En vigueur : 01-10-2006&gt;
+
+6° (les agents et les particuliers, délégués par les autorités communales, qui attribuent des emplacements en vue de l'exercice d'une activité ambulante ou foraine, en violation des prescriptions de la présente loi ou de ses arrêtés d'exécution); &lt;L 2005-07-04/36, art. 20, f), 002; En vigueur : 01-10-2006&gt;
+
+7° les personnes qui ont en charge l'organisation ou la gestion (des activités ambulantes et foraines) et qui ne respectent pas les dispositions de la présente loi et de ses arrêtés d'exécution. &lt;L 2005-07-04/36, art. 20, g), 002; En vigueur : 01-10-2006&gt;
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>1</sup> Pour les sanctions pénales, toutes les dispositions]<sup>1</sup> du livre Ier du Code pénal, y compris le chapitre VII et l'article 85, sont applicables aux infractions énumérées au § 1er.
+
+§ 3. Les agents commissionnés à cette fin par le Ministre peuvent, au vu des procès-verbaux constatant une infraction définie au § 1er, 1° à 5°, et dressés par les agents visés à l'article 11, § 1er, proposer aux contrevenants le paiement d'une somme qui éteint l'action publique.
+
+Les tarifs ainsi que les modalités de paiement et de perception sont fixés par le Roi.
+
+(§ 4. En cas d'application de l'article 10ter, le procès-verbal visé à l'article 11, § 1er, n'est transmis au procureur du Roi que lorsqu'il n'a pas été donné suite à l'avertissement.
+
+En cas d'application de l'article 13, § 3, le procès-verbal n'est transmis au procureur du Roi que lorsque le contrevenant n'a pas accepté la proposition de transaction.) &lt;L 2005-07-04/36, art. 20, i), 002; En vigueur : 01-10-2006&gt;
+
+----------
+
+(1)&lt;DRW 2019-02-28/25, art. 107, 012; En vigueur : 01-07-2019&gt;
+
+(2)&lt;DRW 2025-02-27/03, art. 6, 016; En vigueur : 20-12-2024&gt;
+
+### Art. 13_REGION_DE_BRUXELLES-CAPITALE
+
+§ 1. Sont punis d'un emprisonnement de huit jours à trois ans et d'une amende de 26 à 1 000 francs ou d'une de ces peines seulement :
+
+1° (les personnes qui exercent une activité ambulante ou foraine sans disposer de [<sup>1</sup> l'autorisation visée à l'article 3]<sup>1</sup>); &lt;L 2005-07-04/36, art. 20, a), 002; En vigueur : 01-10-2006&gt;
+
+2° [<sup>1</sup> les entreprises et les personnes physiques chargées de la gestion journalière pour le compte desquelles des personnes physiques qui ne remplissent pas la condition prévue à l'article 3, alinéa 2, exercent une activité ambulante au domicile du consommateur;]<sup>1</sup>
+
+[<sup>1</sup> 2° /1 les personnes qui ne remplissent pas la condition prévue à l'article 3, alinéa 2, et exercent une activité ambulante au domicile du consommateur; ]<sup>1</sup>
+
+3° ceux qui n'observent pas les conditions et les interdictions auxquelles est soumis l'exercice des activités ambulantes (et foraines) [<sup>1</sup> ...]<sup>1</sup> et ceux qui contreviennent aux dispositions des arrêtés pris en exécution de la présente loi; &lt;L 2005-07-04/36, art. 20, c), 002; En vigueur : 01-10-2006&gt;
+
+4° ceux qui mettent obstacle à la mission des officiers et agents chargés du contrôle de l'activité ambulante, (ou foraine) qui refusent d'indiquer la provenance des produits ou de communiquer les renseignements ou documents visés à l'article 11, § 2, ou qui fournissent volontairement des renseignements ou documents inexacts ou incomplets; &lt;L 2005-07-04/36, art. 20, d), 002; En vigueur : 01-10-2006&gt;
+
+5° ceux qui occupent des emplacements (...) en violation des prescriptions (...) de la présente loi ou de ses arrêtés d'exécution; &lt;L 2005-07-04/36, art. 20, e), 002; En vigueur : 01-10-2006&gt;
+
+6° (les agents et les particuliers, délégués par les autorités communales, qui attribuent des emplacements en vue de l'exercice d'une activité ambulante ou foraine, en violation des prescriptions de la présente loi ou de ses arrêtés d'exécution); &lt;L 2005-07-04/36, art. 20, f), 002; En vigueur : 01-10-2006&gt;
+
+7° les personnes qui ont en charge l'organisation ou la gestion (des activités ambulantes et foraines) et qui ne respectent pas les dispositions de la présente loi et de ses arrêtés d'exécution. &lt;L 2005-07-04/36, art. 20, g), 002; En vigueur : 01-10-2006&gt;
+
+§ 2. En cas de condamnation consécutive à une (activité ambulante ou foraine pratiquée par une personne qui ne dispose pas de [<sup>1</sup> l'autorisation visée à l'article 3]<sup>1</sup>), le tribunal peut prononcer la confiscation spéciale des biens formant l'objet de l'infraction ou qui ont servi à la commettre. &lt;L 2005-07-04/36, art. 20, h), 002; En vigueur : 01-10-2006&gt;
+
+Toutes les dispositions du livre Ier du Code pénal, y compris le chapitre VII et l'article 85, sont applicables aux infractions énumérées au § 1er.
+
+§ 3. Les agents commissionnés à cette fin par le Ministre peuvent, au vu des procès-verbaux constatant une infraction définie au § 1er, 1° à 5°, et dressés par les agents visés à l'article 11, § 1er, proposer aux contrevenants le paiement d'une somme qui éteint l'action publique.
+
+Les tarifs ainsi que les modalités de paiement et de perception sont fixés par le Roi.
+
+(§ 4. En cas d'application de l'article 10ter, le procès-verbal visé à l'article 11, § 1er, n'est transmis au procureur du Roi que lorsqu'il n'a pas été donné suite à l'avertissement.
+
+En cas d'application de l'article 13, § 3, le procès-verbal n'est transmis au procureur du Roi que lorsque le contrevenant n'a pas accepté la proposition de transaction.) &lt;L 2005-07-04/36, art. 20, i), 002; En vigueur : 01-10-2006&gt;
+
+----------
+
+(1)&lt;ORD 2023-12-14/18, art. 9, 015; En vigueur : 01-04-2024&gt;
+
+### Art. 13_REGION_FLAMANDE
+
+§ 1. Sont punis d'un emprisonnement de huit jours à trois ans et d'une amende de 26 à 1 000 francs ou d'une de ces peines seulement :
+
+1° [<sup>1</sup> ...]<sup>1</sup>
+
+2° [<sup>1</sup> ...]<sup>1</sup>
+
+3° ceux qui n'observent pas les conditions et les interdictions auxquelles est soumis l'exercice des activités ambulantes (et foraines) [<sup>1</sup> ...]<sup>1</sup> et ceux qui contreviennent aux dispositions des arrêtés pris en exécution de la présente loi; &lt;L 2005-07-04/36, art. 20, c), 002; En vigueur : 01-10-2006&gt;
+
+4° ceux qui mettent obstacle à la mission des officiers et agents chargés du contrôle de l'activité ambulante, (ou foraine) qui refusent d'indiquer la provenance des produits ou de communiquer les renseignements ou documents visés à l'article 11, § 2, ou qui fournissent volontairement des renseignements ou documents inexacts ou incomplets; &lt;L 2005-07-04/36, art. 20, d), 002; En vigueur : 01-10-2006&gt;
+
+5° ceux qui occupent des emplacements (...) en violation des prescriptions (...) de la présente loi ou de ses arrêtés d'exécution; &lt;L 2005-07-04/36, art. 20, e), 002; En vigueur : 01-10-2006&gt;
+
+6° (les agents et les particuliers, délégués par les autorités communales, qui attribuent des emplacements en vue de l'exercice d'une activité ambulante ou foraine, en violation des prescriptions de la présente loi ou de ses arrêtés d'exécution); &lt;L 2005-07-04/36, art. 20, f), 002; En vigueur : 01-10-2006&gt;
+
+7° les personnes qui ont en charge l'organisation ou la gestion (des activités ambulantes et foraines) et qui ne respectent pas les dispositions de la présente loi et de ses arrêtés d'exécution. &lt;L 2005-07-04/36, art. 20, g), 002; En vigueur : 01-10-2006&gt;
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>
+
+Toutes les dispositions du livre Ier du Code pénal, y compris le chapitre VII et l'article 85, sont applicables aux infractions énumérées au § 1er.
+
+§ 3. Les agents commissionnés à cette fin par le Ministre peuvent, au vu des procès-verbaux constatant une infraction définie au § 1er, 1° à 5°, et dressés par les agents visés à l'article 11, § 1er, proposer aux contrevenants le paiement d'une somme qui éteint l'action publique.
+
+Les tarifs ainsi que les modalités de paiement et de perception sont fixés par le Roi.
+
+(§ 4. En cas d'application de l'article 10ter, le procès-verbal visé à l'article 11, § 1er, n'est transmis au procureur du Roi que lorsqu'il n'a pas été donné suite à l'avertissement.
+
+En cas d'application de l'article 13, § 3, le procès-verbal n'est transmis au procureur du Roi que lorsque le contrevenant n'a pas accepté la proposition de transaction.) &lt;L 2005-07-04/36, art. 20, i), 002; En vigueur : 01-10-2006&gt;
+
+----------
+
+(1)&lt;DCFL 2023-03-03/01, art. 9, 014; En vigueur : 01-04-2024&gt;
+
+### Art. 13bis_REGION_WALLONNE
+
+[<sup>1</sup> Les dispositions du chapitre 9 du décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la politique économique, à la politique de l'emploi et à la recherche scientifique ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations s'appliquent aux amendes administratives déterminées par l'article 13. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2019-02-28/25, art. 2, 012; En vigueur : 01-07-2019&gt;
+
+### Art. 14
+
+Le Ministre peut retirer l'autorisation d'exercer l'activité ambulante (ou foraine) : &lt;L 2005-07-04/36, art. 21, 002; En vigueur : 01-10-2006&gt;
+
+1° à ceux qui l'ont obtenue par des manoeuvres frauduleuses;
+
+2° à ceux qui, pour obtenir un emplacement (...), contreviennent aux dispositions (...) de la présente loi (ou) à ses arrêtés d'exécution; &lt;L 2005-07-04/36, art. 21, c), 002; En vigueur : 01-10-2006&gt;
+
+3° à ceux qui, dans l'exercice de leur (activité ambulante ou foraine), ne respectent pas les conditions et les interdictions imposées par la présente loi et ses arrêtés d'exécution ou qui exercent l'(activité ambulante ou foraine) par l'intermédiaire de (préposé), lorsqu'elles violent les mêmes prescriptions; &lt;L 2005-07-04/36, art. 21, d), 002; En vigueur : 01-10-2006&gt;
+
+4° à ceux qui contreviennent aux prescriptions légales et réglementaires qui régissent l'activité commerciale ou qui exercent l'(activité ambulante ou foraine) par l'intermédiaire de (préposé), lorsqu'elles violent les mêmes prescriptions; &lt;L 2005-07-04/36, art. 21, d), 002; En vigueur : 01-10-2006&gt;
+
+5° à ceux qui ont encouru une condamnation pénale en rapport avec ou à l'occasion de l'exercice de leur commerce.
+
+### Art. 14_REGION_WALLONNE
+
+&lt;Abrogé par DRW 2025-02-27/03, art. 7, 016; En vigueur : 20-12-2024&gt;
+
+### Art. 14_REGION_DE_BRUXELLES-CAPITALE
+
+[<sup>1</sup> Le fonctionnaire désigné par le Gouvernement de la Région de Bruxelles-Capitale peut retirer l'autorisation d'activités ambulantes au domicile du consommateur dans les cas suivants:
+
+1° si l'autorisation a été délivrée à tort;
+
+2° si l'autorisation a été obtenue frauduleusement;
+
+3° si l'entreprise ou les personnes physiques qui exercent pour son compte une activité ambulante au domicile du consommateur ne respectent pas les dispositions de la présente loi et de ses arrêtés d'exécution.
+
+Dans les cas visés à l'alinéa 1er, 2° et 3°, le fonctionnaire visé à l'alinéa 1er peut exclure l'entreprise et la personne physique chargée de sa gestion journalière d'une nouvelle autorisation pour une période d'un an au maximum, en fonction de la gravité des faits.
+
+Le Gouvernement de la Région de Bruxelles-Capitale détermine la procédure de retrait.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2023-12-14/18, art. 10, 015; En vigueur : 01-04-2024&gt;
+
+### Art. 14bis_REGION_DE_BRUXELLES-CAPITALE
+
+[<sup>1</sup> § 1er. Les traitements de données à caractère personnel prévus dans le cadre de la présente loi et de ses mesures d'exécution ont pour finalité de permettre:
+
+1° la gestion et le traitement des procédures d'autorisation;
+
+2° la surveillance des personnes physiques qui exercent une activité ambulante au domicile du consommateur pour le compte d'une entreprise autorisée;
+
+3° l'organisation de l'exercice des activités ambulantes et foraines en Région de Bruxelles-Capitale;
+
+4° la gestion et le traitement des procédures de recours et de retrait;
+
+5° le contrôle du respect des dispositions de la présente loi et de ses mesures d'exécution;
+
+6° le contrôle de l'exécution des missions des guichets d'entreprises agréés;
+
+7° la gestion d'une base de données reprenant les données relatives aux autorisations;
+
+8° la réalisation de statistiques anonymes;
+
+9° l'échange d'informations entre les communes, les guichets d'entreprises agréés et les services désignés par le Gouvernement de la Région de Bruxelles-Capitale pour les finalités visées aux 4° à 7°.
+
+§ 2. Les catégories de données à caractère personnel qui sont nécessaires pour atteindre les finalités visées au paragraphe 1er, ainsi que les catégories de personnes concernées, sont les suivantes:
+
+1° les données d'identification, de contact et professionnelles des entreprises qui exercent une activité ambulante ou foraine en Région de Bruxelles-Capitale, de leurs préposés et mandataires et des personnes physiques chargées de leur gestion journalière;
+
+2° les données relatives aux sanctions pénales et aux faits des personnes visées à l'article 3;
+
+3° les données d'identification, de contact et professionnelles des personnes qui interviennent, à quelque titre que ce soit, dans le cadre des missions et procédures visées au § 1er, 1° à 5°, et les données résultant de ces missions et procédures;
+
+4° les données, déterminées par le Gouvernement de la Région de Bruxelles-Capitale, nécessaires à la vérification du respect des conditions et des obligations visées dans la présente loi et ses mesures d'exécution.
+
+§ 3. Les guichets d'entreprises agréés sont les responsables conjoints des traitements visés au paragraphe 1er, 1°. Ils définissent de manière transparente leurs obligations respectives aux fins d'assurer le respect des exigences du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données), par voie d'accord entre eux.
+
+L'entreprise autorisée est le responsable des traitements visés au paragraphe 1er, 2°, en ce qui concerne les personnes physiques qui exercent pour son compte l'activité ambulante au domicile du consommateur.
+
+Les communes sont le responsable des traitements visés au paragraphe 1er, 3°, en ce qui concerne les activités ambulantes et foraines qui ont lieu sur leur territoire.
+
+Les services désignés par le Gouvernement de la Région de Bruxelles-Capitale sont le responsable des traitements visés au paragraphe 1er, 4° à 8°.
+
+§ 4. Dans le cadre de la présente disposition, les guichets d'entreprises agréés, les communes et les services désignés par le Gouvernement de la Région de Bruxelles-Capitale sont autorisés à demander les numéros de registre national et à les utiliser, conformément à l'article 8, § 1er, alinéa 3, de la loi du 8 août 1983 organisant un Registre national des personnes physiques.
+
+§ 5. Les données à caractère personnel relatives aux entreprises autorisées, à leurs préposés et mandataires et aux personnes physiques chargées de leur gestion journalière et qui sont collectées et traitées dans le cadre de la présente loi et de ses mesures d'exécution sont conservées pendant toute la durée de l'activité ambulante correspondante. Elles sont effacées ou anonymisées dans les six mois de la fin de ladite activité.
+
+Les données à caractère personnel relatives aux autres personnes visées au paragraphe 2 et qui ont été collectées et traitées dans le cadre de la présente loi et de ses mesures d'exécution sont conservées pour autant et tant que ces données s'avèrent nécessaires à la réalisation des finalités visées au paragraphe 1er. Sous réserve des alinéas 1er et 3, ces données ne sont pas conservées pour plus de cinq ans.
+
+Les données à caractère personnel nécessaires pour le traitement d'un litige dans le cadre du présent dispositif sont toutefois conservées pour la durée du traitement d'un tel litige et de l'exécution des éventuelles décisions de justice subséquentes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2023-12-14/18, art. 11, 015; En vigueur : 01-04-2024&gt;
+
+### Art. 14_REGION_FLAMANDE
+
+&lt;Abrogé par DCFL 2023-03-03/01, art. 10, 014; En vigueur : 01-04-2024&gt;
+
+## CHAPITRE IV. - Dispositions finales.
+
+### Art. 15
+
+&lt;L 2005-07-04/36, art. 22, 002; En vigueur : 01-10-2006&gt; § 1er. Les autorisations d'activités ambulantes en cours de validité à la date d'entrée en vigueur de la présente loi demeurent valables pour les modes d'activités et les produits qui y sont mentionnés [<sup>1</sup> , ceci pour autant que leurs titulaires les font remplacer par un guichet d'entreprises de leur choix par une autorisation sécurisée dont la forme et les modalités sont fixées par le Roi]<sup>1</sup>.
+
+Les personnes physiques qui exercent une activité ambulante pour leur propre compte ou en qualité de responsables de la gestion journalière d'une personne morale exerçant également une activité ambulante et qui disposent, par mesure dérogatoire, d'une autorisation les habilitant à vendre des produits visés aux articles 10 à 12 de l'arrêté royal du 3 avril 1995 d'exécution de la loi, pourront, à l'entrée en vigueur de la présente loi, à la cessation de leur activité ambulante, remettre leur commerce à leur parents et alliés au 1er et au 2e degré ainsi qu'à leurs préposés, titulaires d'une autorisation pour la vente de ces produits au moment de la cessation d'activités de leur employeur. Les cessionnaires obtiendront, sur production des documents, déterminés par le Roi, prouvant leur qualité, l'autorisation leur permettant d'exercer l'activité ambulante pour les produits mentionnés sur celle de la personne dont ils reprennent l'activité. Ils devront, en outre, satisfaire aux autres conditions d'exercice de l'activité.
+
+§ 2. Les exploitants d'attractions foraines et d'établissements de gastronomie foraine avec service à table, titulaires, à la date d'entrée en vigueur de la présente loi, d'une immatriculation à la Banque Carrefour des Entreprises pour l'une de ces activités ou pour les deux, obtiendront, à leur demande, l'autorisation requise pour la poursuite de leur activité.
+
+Leurs préposés obtiendront, également, à leur demande, l'autorisation, pour autant qu'elle leur soit requise, de poursuivre leur activité chez leur employeur, à la condition qu'ils puissent apporter la preuve qu'ils l'exerçaient chez celui-ci au moment de l'entrée en vigueur de la présente loi. Le Roi déterminera les documents faisant foi de cette qualité.
+
+Les exploitants d'attractions foraines et d'établissements de gastronomie foraine ainsi que leurs préposés disposeront d'un délai de trois mois pour se conformer aux dispositions des alinéas 1er et 2.
+
+----------
+
+(1)&lt;L 2013-01-21/09, art. 3, 005; En vigueur : 21-02-2013&gt;
+
+### Art. 15_REGION_WALLONNE.
+
+&lt;Abrogé par DRW 2025-02-27/03, art. 8, 016; En vigueur : 20-12-2024&gt;
+
+### Art. 15_REGION_DE_BRUXELLES-CAPITALE
+
+[<sup>1</sup> Les autorisations patronales pour les activités ambulantes au domicile du consommateur en cours de validité au 31 août 2023, demeurent valables jusqu'au 31 août 2028 pour autant que leur titulaire remplisse les conditions prévues à l'article 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2023-12-14/18, art. 1, 015; En vigueur : 01-04-2024&gt;
+
+### Art. 15_REGION_FLAMANDE
+
+&lt;Abrogé par DRW 2025-02-27/03, art. 8, 016; En vigueur : 20-12-2024&gt;
+
+### Art. 16
+
+&lt;L 2005-07-04/36, art. 23, 002; En vigueur : 01-10-2006&gt;La commune dispose d'un délai d'un an à partir de la date d'entrée en vigueur de la présente loi pour adopter les nouveaux règlements que celle-ci prévoit et adapter les règlements existants, s'il y a lieu.
+
+### Art. 17
+
+Le Roi exerce les pouvoirs à Lui conférés par les dispositions du chapitre Ier, articles 1er à 6, et du chapitre II de la présente loi sur la proposition conjointe respectivement des Ministres qui ont les Classes moyennes et les Affaires économiques dans leurs attributions et des Ministres qui ont les Classes moyennes et l'Intérieur dans leurs attributions.
+
+(Les arrêtés pris en exécution de la présente loi sont soumis à l'avis du Conseil supérieur des Indépendants et des P.M.E. et à celui [<sup>1</sup> de la Commission consultative spéciale Consommation]<sup>1</sup>.) &lt;L 2005-07-04/36, art. 24, 002; En vigueur : 01-10-2006&gt;
+
+----------
+
+(1)&lt;AR 2017-12-13/14, art. 11,2°, 010; En vigueur : 01-01-2018&gt;
+
+### Art. 17_REGION_WALLONNE
+
+Le Roi exerce les pouvoirs à Lui conférés par les dispositions du chapitre Ier, articles 1er à 6, et du chapitre II de la présente loi sur la proposition conjointe respectivement des Ministres qui ont les Classes moyennes et les Affaires économiques dans leurs attributions et des Ministres qui ont les Classes moyennes et l'Intérieur dans leurs attributions.
+
+(Les arrêtés pris en exécution de la présente loi sont soumis à l'avis du [<sup>2</sup> Conseil économique, social et environnemental de Wallonie ]<sup>2</sup>]<sup>1</sup>.) &lt;L 2005-07-04/36, art. 24, 002; En vigueur : 01-10-2006&gt;
+
+----------
+
+(1)&lt;AR 2017-12-13/14, art. 11,2°, 010; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DRW 2025-02-27/03, art. 9, 016; En vigueur : 20-12-2024&gt;
+
+### Art. 17_REGION_FLAMANDE
+
+Le Roi exerce les pouvoirs à Lui conférés par les dispositions du chapitre Ier, articles 1er à 6, et du chapitre II de la présente loi sur la proposition conjointe respectivement des Ministres qui ont les Classes moyennes et les Affaires économiques dans leurs attributions et des Ministres qui ont les Classes moyennes et l'Intérieur dans leurs attributions.
+
+(Les arrêtés pris en exécution de la présente loi sont soumis à l'avis [<sup>1</sup> du " Sociaal-Economische Raad van Vlaanderen " (Conseil socio-économique de la Flandre)]<sup>1</sup> [<sup>1</sup> ...]<sup>1</sup>.) &lt;L 2005-07-04/36, art. 24, 002; En vigueur : 01-10-2006&gt;
+
+----------
+
+(1)&lt;DCFL 2016-03-04/09, art. 3, 007; En vigueur : 03-04-2016&gt;
+
+### Art. 17_REGION_DE_BRUXELLES-CAPITALE
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+(Les arrêtés pris en exécution de la présente loi sont soumis à l'avis du Conseil supérieur des Indépendants et des P.M.E. et à celui [<sup>2</sup> de Brupartners]<sup>2</sup>.) &lt;L 2005-07-04/36, art. 24, 002; En vigueur : 01-10-2006&gt;
+
+----------
+
+(1)&lt;ORD 2015-07-02/07, art. 2, 006; En vigueur : 20-07-2015&gt;
+
+(2)&lt;ORD 2023-12-14/18, art. 13, 015; En vigueur : 01-04-2024&gt;
+
+### Art. 18
+
+Le Roi fixe la date de l'entrée en vigueur de la présente loi et celle de l'abrogation de la loi du 13 août 1986 relative à l'exercice des activités ambulantes.
+
+Les arrêtés royaux pris en vertu de la loi précitée restent d'application tant qu'ils n'ont pas été modifiés ou abrogés en vertu de la présente loi.

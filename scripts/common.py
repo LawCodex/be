@@ -30,6 +30,8 @@ def session() -> requests.Session:
     if s is None:
         s = requests.Session()
         s.headers["User-Agent"] = UA
+        # the server/proxy drops idle keep-alive connections: use a fresh connection per request
+        s.headers["Connection"] = "close"
         _local.s = s
     return s
 
