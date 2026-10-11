@@ -1,0 +1,78 @@
+---
+title: "Loi portant assentiment au Traité international sur les Ressources phytogénétiques pour l'Alimentation et l'Agriculture, et aux Annexes Ire et II, faits à Rome le 6 juin 2002."
+identifier: "2005015064"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/18/2005015064/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2005-04-18
+published: 2007-12-21
+entry_into_force: 2007-12-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/18/2005015064/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+retrieved: 2026-10-11
+---
+
+# 18 AVRIL 2005. - Loi portant assentiment au Traité international sur les Ressources phytogénétiques pour l'Alimentation et l'Agriculture, et aux Annexes Ire et II, faits à Rome le 6 juin 2002.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+Le Traité international sur les Ressources phytogénétiques pour l'Alimentation et l'Agriculture, et les Annexes Ire et II, faits à Rome le 6 juin 2002, sortiront leur plein et entier effet.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 18 avril 2005.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre du Budget et des Entreprises publiques,
+
+J. VANDE LANOTTE
+
+Le Ministre des Affaires étrangères,
+
+K. DE GUCHT
+
+Le Ministre de la Politique scientifique,
+
+M. VERWILGHEN
+
+La Ministre de l'Agriculture,
+
+Mme S. LARUELLE
+
+Le Ministre de la Coopération au Développement,
+
+A. DE DECKER
+
+La Secrétaire d'Etat au Développement durable, adjointe au Ministre du Budget et des Entreprises publiques,
+
+Mme E. VAN WEERT
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX
+
+## ANNEXE.
+
+## Art. N
+
+Traité international sur les ressources phytogénétiques pour l'alimentation et l'agriculture, faits à Rome le 6 juin 2002.
+
+(Pour le Traité, voir 2002-06-06/41).

@@ -1,0 +1,66 @@
+---
+title: "Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers."
+identifier: "2006000110"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2006/01/12/2006000110/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2006-01-12
+published: 2006-02-21
+entry_into_force: 2006-02-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2006/01/12/2006000110/justel"
+department: "Intérieur"
+retrieved: 2026-10-11
+---
+
+# 12 JANVIER 2006. - Loi modifiant la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Dans le Titre IV de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, est inséré un article 79bis, rédigé comme suit :
+
+" Art. 79bis. § 1er. Quiconque conclut un mariage dans les circonstances visées à l'article 146bis du Code civil sera puni d'un emprisonnement de huit jours à trois mois ou d'une amende de vingt-six à cent EUR.
+
+Quiconque reçoit une somme d'argent visant à le rétribuer pour la conclusion d'un tel mariage, sera puni d'un emprisonnement de quinze jours à un an ou d'une amende de cinquante à deux cent cinquante EUR.
+
+Quiconque recourt à des violences ou menaces à l'égard d'une personne pour la contraindre à conclure un tel mariage sera puni d'un emprisonnement d'un mois à deux ans ou d'une amende de cent à cinq cents EUR.
+
+§ 2. La tentative du délit prévu au § 1er, alinéa 1er, est punie d'une amende de vingt-six à cinquante EUR.
+
+La tentative du délit prévu au § 1er, alinéa 2, est punie d'un emprisonnement de huit jours à six mois ou d'une amende de vingt-six à cent vingt-cinq EUR.
+
+La tentative du délit prévu au § 1er, alinéa 3, est punie d'un emprisonnement de quinze jours à un an ou d'une amende de cinquante à deux cent cinquante EUR.
+
+## Art. 3
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 12 janvier 2006.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de l'Intérieur,
+
+P. DEWAEL
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

@@ -1,0 +1,58 @@
+---
+title: "Loi portant assentiment au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance, de 1979, relatif aux métaux lourds, et aux Annexes, faits à Aarhus le 24 juin 1998"
+identifier: "2005015087"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2005/05/25/2005015087/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2005-05-25
+published: 2005-06-28
+entry_into_force: 2005-07-08
+last_amended: 2024-09-11
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2005/05/25/2005015087/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+justel_note: "Consultation des versions antérieures à partir du 28-06-2005 et mise à jour au 11-09-2024"
+retrieved: 2026-10-11
+---
+
+# 25 MAI 2005. - Loi portant assentiment au Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance, de 1979, relatif aux métaux lourds, et aux Annexes, faits à Aarhus le 24 juin 1998
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+[<sup>1</sup> § 1.]<sup>1</sup> Le Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance, de 1979, relatif aux métaux lourds, et les Annexes, faits à Aarhus le 24 juin 1998, sortiront leur plein et entier effet.
+
+[<sup>1</sup> § 2. Sous réserve de l'alinéa 3, les amendements aux annexes III et VII du Protocole modifié métaux lourds, adoptés en application de l'article 13, alinéa 4, sortiront leur plein et entier effet.
+
+Le Roi notifie à la Chambre des représentants tout amendement à une annexe telle que visée à l'alinéa 1er, qui a été communiqué aux Parties par le secrétaire exécutif de la Commission, dans un délai de deux mois.
+
+Dans un délai de deux mois suivant la notification par le Roi visée à l'alinéa 2, la Chambre des représentants peut s'opposer à ce qu'un amendement tel que visé à l'alinéa 1er, sorte son plein et entier effet.]<sup>1</sup>
+
+[<sup>1</sup> § 3. Sous réserve de l'alinéa 3, les amendements aux annexes II, IV, V et VI du Protocole modifié métaux lourds, adoptés en application de l'article 13, alinéa 5ter, sortiront leur plein et entier effet.
+
+Le Roi notifie à la Chambre des représentants tout amendement à une annexe telle que visée à l'alinéa 1er, qui a été communiqué aux Parties par le secrétaire exécutif de la Commission, dans un délai de trois mois.
+
+Dans un délai de six mois suivant la notification par le Roi, visée à l'alinéa 2, la Chambre des représentants peut s'opposer à ce qu'un amendement tel que visé à l'alinéa 1er, sorte son plein et entier effet.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-25/46, art. 3, 002; En vigueur : 21-09-2024&gt;
+
+## ANNEXE.
+
+## Art. N
+
+Protocole à la Convention sur la pollution atmosphérique transfrontière à longue distance, de 1979, relatif aux métaux lourds, et aux Annexes, faits à Aarhus le 24 juin 1998.
+
+(Pour le Protocole, voir Cn : 1998-06-24/52).

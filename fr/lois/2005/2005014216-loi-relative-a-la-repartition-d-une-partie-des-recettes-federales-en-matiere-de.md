@@ -1,0 +1,236 @@
+---
+title: "Loi relative à la répartition d'une partie des recettes fédérales en matière de sécurité routière."
+identifier: "2005014216"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2005/12/06/2005014216/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2005-12-06
+published: 2005-12-21
+entry_into_force: 2005-01-01
+last_amended: 2024-06-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2005/12/06/2005014216/justel"
+department: "Mobilité et Transports"
+justel_notes:
+  - "Intitulé remplacé par L 2016-12-25/01 , art. 61, 006; En vigueur : 01-01-2016"
+  - "Consultation des versions antérieures à partir du 21-12-2005 et mise à jour au 10-06-2024"
+retrieved: 2026-10-11
+---
+
+# 6 DECEMBRE 2005. - Loi relative à la répartition d'une partie des recettes fédérales en matière de sécurité routière.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE Ier. [<sup>1</sup> - Disposition générale.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/01, art. 62, 006; En vigueur : 01-01-2016&gt;
+
+### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## CHAPITRE II. [<sup>1</sup> - La définition et la répartition d'une partie des recettes fédérales en matière de sécurité routière.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/01, art. 63, 006; En vigueur : 01-01-2016&gt;
+
+### Art. 2
+
+[<sup>1</sup> Pour l'application de la présente loi, on entend par "recettes fédérales en matière de sécurité routière" : les recettes, perçues par année calendrier, des amendes pénales et ordres de paiement en matière de circulation routière, des sommes dont le paiement éteint éventuellement l'action publique, comme prévu dans la loi coordonnée du 16 mars 1968 relative à la police de la circulation routière et des sommes visées à l'article 216bis du Code d'instruction criminelle, à l'exception de celles visées à l'article 2bis de la loi spéciale du 16 janvier 1989 relative au financement des communautés et des régions.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/01, art. 63, 006; En vigueur : 01-01-2016&gt;
+
+### Art. 3
+
+[<sup>1</sup> Sans préjudice de l'article 6, 2°, une partie des recettes fédérales en matière de sécurité routière, appelée "le montant annuel", est inscrite dans l'année budgétaire subséquente en tant que crédit limitatif dans le budget général de dépenses selon la répartition et les modalités fixées par cette loi. Ce montant annuel est calculé comme suit :
+
+1° les recettes fédérales en matière de sécurité routière d'une année X sont augmentées de 181 100 000 euros et diminuées du montant de ces mêmes recettes en 2002;
+
+2° le montant de 181 100 000 euros est lié à l'indice des prix à la consommation moyen, qui a été atteint le 31 décembre 2011 et est adapté le 1er janvier de chaque année à l'indice des prix à la consommation annuel moyen de l'année précédente;
+
+3° le montant de ces recettes en 2002 est lié à l'indice des prix à la consommation moyen qui a été atteint le 31 décembre 2002 et est adapté le 1er janvier de chaque année à l'indice des prix à la consommation annuel moyen de l'année précédente;
+
+4° à partir de l'année budgétaire 2018 et sur proposition des ministres de la Mobilité, de la Justice et de l'Intérieur, le Roi peut, par arrêté délibéré en Conseil des ministres, diminuer le montant annuel d'un montant égal au maximum des recettes fédérales supplémentaires en matière de sécurité routière concernées par rapport aux recettes fédérales en matière de sécurité routière de l'année 2016.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/01, art. 63, 006; En vigueur : 01-01-2016&gt;
+
+### Art. 4
+
+[<sup>1</sup> Le montant annuel est réparti comme suit :
+
+1° un montant [<sup>3</sup> égal à 9 %]<sup>3</sup> de celui du montant annuel est attribué au Service public fédéral Justice. Ce montant est utilisé pour financer l'exécution de mesures ou de peines alternatives visant l'amélioration de la sécurité routière. Il est également utilisé afin de financer la partie du processus de traitement géré par la Justice en vue d'optimaliser exclusivement la perception des amendes relatives aux infractions routières. Ce montant est inscrit, tant en engagement qu'en liquidation, à la section 12 du budget général des dépenses;
+
+2° [<sup>3</sup> en 2024, un montant de 850.000 euros et à partir de 2025, un montant de 650.000 euros, est octroyé au Service public fédéral Mobilité et Transports pour le suivi et l'amélioration de la politique criminelle en matière de sécurité routière et pour permettre l'accroissement des consultations de la Banque-Carrefour Véhicules (DIV) par les services de police. Ce montant est inscrit, tant en engagement qu'en liquidation, à la section 33 du budget général des dépenses;]<sup>3</sup>
+
+[<sup>2</sup> 3° un montant de [<sup>3</sup> 29.000.000 euros]<sup>3</sup> est octroyé à la police intégrée pour financer les projets et les dépenses structurelles en matière d'investissement, de fonctionnement et de personnel qui permettent la constatation des infractions de circulation, qui visent le traitement ou la perception des amendes ou qui soutiennent l'acquisition de matériel standardisé par des achats communs ainsi que par des achats au profit de la police fédérale ou des zones de police, auquel cas les zones de police concernées deviennent propriétaires du matériel acquis de cette manière. Les dossiers y afférents sont préparés et réalisés par la police fédérale et la Commission permanente de la police locale, visée à l'article 8quinquies de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux. Les dossiers à portée judiciaire font préalablement l'objet d'un avis du Collège des procureurs généraux. Ce montant est inscrit, tant en engagement qu'en liquidation, à la section 17 du budget général des dépenses ;]<sup>2</sup>
+
+4° un montant de 500 000 euros est octroyé à la Commission permanente de la police locale pour financer la coordination et représentation des intérêts et des besoins de la police locale dans le cadre de la réalisation des différents projets en matière de sécurité routière. Ce montant est inscrit, tant en engagement, qu'en liquidation, à la section 13 du budget général des dépenses;
+
+5° la partie restante constitue la part attribuée aux zones de police et à la police fédérale et est destinée à l'exécution des priorités de la politique de sécurité, y compris celles relatives à la circulation routière.
+
+Les montants visés aux 2°, 3° et 4° sont liés à l'indice des prix à la consommation annuel moyen atteint le 31 décembre 2016 et sont adaptés annuellement au 1er janvier à l'indice des prix à la consommation annuel moyen de l'année précédente.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/01, art. 63, 006; En vigueur : 01-01-2016&gt;
+
+(2)&lt;L 2019-04-28/22, art. 8, 007; En vigueur : 07-06-2019&gt;
+
+(3)&lt;L 2023-12-25/21, art. 2, 008; En vigueur : 01-02-2024&gt;
+
+### Art. 5
+
+[<sup>1</sup> Si le montant annuel visé à l'article 3 est inférieur à la somme des montants visés à l'article 4, alinéa 1er, 1° à 4°, il est réparti comme suit :
+
+1° 5 % sont octroyés au Service public fédéral Justice;
+
+2° 2,09 % sont octroyés au Service public fédéral Mobilité et Transport;
+
+3° 89,49 % sont octroyés pour les projets communs;
+
+4° 3,42 % sont octroyés à la Commission permanente de la police locale.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/01, art. 63, 006; En vigueur : 01-01-2016&gt;
+
+### Art. 6
+
+[<sup>1</sup> Le montant visé à l'article 4, alinéa 1er, 5°, est réparti entre les zones de police et la police fédérale de la manière suivante :
+
+1° la première tranche correspond aux montants, indexés annuellement sur la base de l'indice des prix à la consommation annuel moyen de l'année précédente, attribués à chaque zone de police et à la police fédérale qu'elles ont reçus en [<sup>2</sup> 2010]<sup>2</sup>. Le cas échéant, si le montant visé à l'article 4 alinéa 1er, 5°, est inférieur au montant visé à l'article 4 alinéa 1er, 5°, attribué en [<sup>2</sup> 2010]<sup>2</sup> à chaque zone et à la police fédérale, ce montant est réparti entre ces dernières en proportion des moyens attribués en [<sup>2</sup> 2010]<sup>2</sup>.
+
+[<sup>3</sup> Pour chaque nouvelle zone de police, instituée à la suite de la scission d'une ou de plusieurs zones de police pluricommunales, les montants qu'aurait dû recevoir l'ancienne zone de police pluricommunale concernée sont répartis proportionnellement entre les nouvelles zones de police sur la base de la norme KUL des communes qui en font partie, selon la formule suivante: pour chaque commune qui fait partie de la nouvelle zone de police, le montant qu'aurait dû recevoir l'ancienne zone de police pluricommunale, dont cette commune faisait partie, est multiplié par la norme KUL de cette commune et divisé par la somme des normes KUL de l'ancienne zone de police pluricommunale dont cette commune faisait partie.]<sup>3</sup>
+
+Le montant attribué à la police fédérale est inscrit, tant en engagement qu'en liquidation, à la section 17 du budget général des dépenses.
+
+Le montant attribué aux zones de police est inscrit, tant en engagement qu'en liquidation, à la section 17 du budget général des dépenses, sous les allocations de base destinées aux zones de police locale.
+
+[<sup>3</sup> Pour chaque nouvelle zone de police, instituée à la suite de la scission d'une ou plusieurs zones de police pluricommunales, les montants qu'aurait dû recevoir l'ancienne zone de police pluricommunale concernée sont répartis proportionnellement entre les nouvelles zones de police sur la base de la norme KUL des communes qui en font partie, selon la formule suivante: pour chaque commune qui fait partie de la nouvelle zone de police, le montant qu'aurait dû recevoir l'ancienne zone de police pluricommunale, dont cette commune faisait partie, est multiplié par la norme KUL de cette commune et divisé par la somme des normes KUL de l'ancienne zone de police pluricommunale dont cette commune faisait partie.]<sup>3</sup>
+
+Le ministre qui a l'Intérieur dans ses attributions publie au Moniteur belge les montants octroyés aux zones de police locale. La liquidation de ce montant est effectuée au plus tard le 30 juillet de l'année budgétaire concernée;
+
+2° la deuxième tranche correspond aux recettes supplémentaires éventuelles par rapport à la tranche visée au 1°. Elle est répartie comme suit :
+
+\- le montant attribué à la police fédérale est égal à 5 % de ces recettes supplémentaires;
+
+\- la part restante, destinée aux zones de police locale est répartie, dans un premier temps, par région sur la base de la localisation de la constatation des infractions à la loi relative à la police sur la circulation routière et à ses arrêtés d'exécution.
+
+Après cette répartition régionale, la distribution est réalisée au profit de chaque zone de police, sur la base des critères suivants :
+
+1° la catégorisation des zones de police locale en cinq groupes en fonction du cadre policier organique;
+
+2° la diminution du nombre de victimes de la circulation sur les routes et/ou d'accidents de la circulation dans lesquels on dénombre des blessés ou des morts qui relèvent de la compétence de la zone de police locale;
+
+3° le kilométrage de voiries pour lequel la zone de police locale est compétente.
+
+Les modalités de répartition de la part restante attribuée aux zones de police locale visée au 2°, deuxième tiret, sont déterminées par le Roi, par arrêté délibéré en Conseil des ministres.
+
+[<sup>2</sup> Les montants résultant de cette répartition sont inscrits, tant en engagement qu'en liquidation à la section 17 du budget général des dépenses dans la quatrième année budgétaire qui suit l'année du paiement de la première tranche.]<sup>2</sup>
+
+Le ministre qui a l'Intérieur dans ses attributions publie au Moniteur belge les montants octroyés aux zones de police locale. La liquidation de ces montants est effectuée au plus tard le 31 mars de l'année budgétaire concernée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/01, art. 63, 006; En vigueur : 01-01-2016&gt;
+
+(2)&lt;L 2019-04-28/22, art. 9, 007; En vigueur : 07-06-2019&gt;
+
+(3)&lt;L 2024-05-16/33, art. 4, 009; En vigueur : 01-01-2025&gt;
+
+### Art. 7
+
+&lt;Abrogé par L 2016-12-25/01, art. 63, 006; En vigueur : 01-01-2016&gt;
+
+### Art. 8
+
+&lt;Abrogé par L 2016-12-25/01, art. 63, 006; En vigueur : 01-01-2016&gt;
+
+## CHAPITRE III. - Dispositions modificatives et abrogatoires.
+
+### Art. 9
+
+A la rubrique 17 du tableau annexé à la loi organique du 27 décembre 1990 créant des fonds budgétaires, telle que modifiée par la loi du 27 décembre 2004, sont apportées les modifications suivantes :
+
+1° La rubrique " Nature des recettes affectées " est remplacée par les dispositions suivantes :
+
+" Nature des recettes affectées
+
+A l'exception de celles visées aux rubriques 17-2 et 17-3 du présent tableau,
+
+a) les prestations, contributions, recettes, paiements ou solde positif visés à l'article 115 de la loi du 7 décembre 1998 organisant un service de police Intégré, structuré à deux niveaux;
+
+b) les versements effectués en exécution de la loi du 6 décembre 2005 relative à l'établissement et au financement de plans d'action en matière de sécurité routière ";
+
+2° A la rubrique " Nature des dépenses autorisées ", les mots " en ce compris, moyennant un suivi particulier, les dépenses liées à l'exécution des plans d'action en matière de sécurité routière visés à la loi du 6 décembre 2005 relative à l'établissement et au financement de plans d'action en matière de sécurité routière mais " sont insérés entre les mois " et d'investissement, " et " à l'exception des ".
+
+### Art. 10
+
+L'article 41, alinéa 3, de la loi du 7 décembre 1998 organisant un service de police Intégré, structuré à deux niveaux, est abrogé.
+
+### Art. 11
+
+Le chapitre VI du Titre V de la loi du 16 mars 1968 relative à la police de la circulation routière, inséré dans la loi du 7 février 2003 portant diverses dispositions en matière de sécurité routière, est abrogé.
+
+## CHAPITRE IV.
+
+&lt;Abrogé par L 2016-12-25/01, art. 64, 006; En vigueur : 01-01-2016&gt;
+
+### Art. 12
+
+&lt;Abrogé par L 2016-12-25/01, art. 64, 006; En vigueur : 01-01-2016&gt;
+
+## CHAPITRE V. - Entrée en vigueur.
+
+### Art. 13
+
+La présente loi produit ses effets le 1er janvier 2005.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 6 décembre 2005.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+La Ministre du Budget,
+
+Mme F. VAN DEN BOSSCHE
+
+Le Ministre de l'intérieur,
+
+P. DEWAEL
+
+Le Ministre de la Mobilité,
+
+R. LANDUYT
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

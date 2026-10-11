@@ -1,0 +1,128 @@
+---
+title: "Loi modifiant l'article 45bis, § 2, de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire, la loi du 15 juillet 1970 déterminant le cadre du personnel des tribunaux de commerce et modifiant la loi du 10 octobre 1967 contenant le Code judiciaire et l'article 205 du Code judiciaire."
+identifier: "2005009313"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/13/2005009313/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2005-04-13
+published: 2005-05-04
+entry_into_force: 2005-05-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/13/2005009313/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 13 AVRIL 2005. - Loi modifiant l'article 45bis, § 2, de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire, la loi du 15 juillet 1970 déterminant le cadre du personnel des tribunaux de commerce et modifiant la loi du 10 octobre 1967 contenant le Code judiciaire et l'article 205 du Code judiciaire.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+Dans l'article 45bis, § 2, de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire, inséré par la loi du 23 septembre 1985, les mots " quatre juges consulaires " sont remplacés par les mots " six juges consulaires ".
+
+## Art. 3
+
+L'article 2 de la loi du 15 juillet 1970 déterminant le cadre du personnel des tribunaux de commerce et modifiant la loi du 10 octobre 1967 contenant le Code judiciaire, remplacé par la loi du 17 juillet 1997, est remplacé par la disposition suivante :
+
+" Art. 2. - Le nombre de juges consulaires est fixé comme suit :
+
+Siege Juges
+
+consulaires
+
+\- -
+
+Anvers 178
+
+Malines 25
+
+Turnhout 32
+
+Hasselt 30
+
+Tongres 25
+
+Bruxelles 190
+
+Louvain 30
+
+Nivelles 32
+
+Termonde 40
+
+Gand 56
+
+Audenarde 18
+
+Bruges 41
+
+Ypres 14
+
+Courtrai 56
+
+Furnes 14
+
+Huy 12
+
+Liege 48
+
+Verviers-Eupen 24
+
+Arlon 12
+
+Marche-en-Famenne 10
+
+Neufchateau 8
+
+Dinant 19
+
+Namur 26
+
+Charleroi 43
+
+Mons 26
+
+Tournai 26
+
+## Art. 4
+
+L'article 205, alinéa 4, du Code judiciaire, inséré par la loi du 17 juillet 1997, est complété comme suit :
+
+" 3° les comptables agréés et les comptables fiscalistes agréés inscrits au tableau de l'Institut professionnel des comptables et fiscalistes agréés ".
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 13 avril 2005
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Economie,
+
+M. VERWILGHEN
+
+La Ministre des Classes moyennes,
+
+Mme S. LARUELLE
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

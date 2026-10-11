@@ -1,0 +1,380 @@
+---
+title: "Loi relative au financement de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire."
+identifier: "2004022975"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2004/12/09/2004022975/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2004-12-09
+published: 2005-01-17
+entry_into_force: 2005-01-27
+last_amended: 2024-06-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2004/12/09/2004022975/justel"
+department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
+justel_note: "Consultation des versions antérieures à partir du 17-01-2005 et mise à jour au 21-06-2024"
+retrieved: 2026-10-11
+---
+
+# 9 DECEMBRE 2004. - Loi relative au financement de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Dispositions générales.
+
+### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+### Art. 2
+
+Pour l'application de la présente loi, il faut entendre par :
+
+1° la loi du 4 février 2000 : la loi du 4 février 2000 relative à la création de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire;
+
+2° l'Agence : l'Agence fédérale pour la Sécurité de la Chaîne alimentaire;
+
+3° le Ministre : le Ministre qui a la [<sup>1</sup> sécurité de la chaîne alimentaire]<sup>1</sup> dans ses attributions;
+
+4° l'administrateur délégué : l'administrateur délégué de l'Agence;
+
+5° le comité consultatif : le comité consultatif visé à l'article 7 de la loi du 4 février 2000;
+
+6° produit : tout produit ou toute matière relevant des compétences de l'Agence en vertu de la loi du 4 février 2000;
+
+7° [<sup>1</sup> opérateur : la personne physique, non salariée, l'entreprise au sens de l'article 4 de la loi du 16 janvier 2003 portant création d'une Banque-Carrefour des entreprises, modernisation du registre de commerce, création de guichets-entreprises agréés et portant diverses dispositions, ou l'association de droit public ou de droit privé, assurant, dans un but lucratif ou non, des activités liées aux étapes de la production, de la transformation et de la distribution d'un produit;]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-05-06/03, art. 121, 005; En vigueur : 29-05-2009&gt;
+
+## CHAPITRE II. - Financement.
+
+### Art. 3
+
+§ 1er. L'Agence est financée par :
+
+1° les crédits inscrits au budget des dépenses;
+
+2° les contributions, imposées aux opérateurs en application de l'article 4;
+
+3° les rétributions, imposées aux opérateurs en application de l'article 5;
+
+4° les recettes accidentelles;
+
+5° les apports volontaires ou contractuels;
+
+6° les recettes provenant de l'Union européenne relatives à ses activités;
+
+7° les amendes administratives résultant de l'exercice de ses compétences de contrôle;
+
+8° les sommes recouvrées;
+
+9° les recettes de ses laboratoires;
+
+10° les dons et legs;
+
+11° moyennant l'accord du Ministre compétent pour les Finances, le produit du placement des réserves financières;
+
+(12° les indemnités pour prestations fournies à des tiers.) &lt;L 2008-07-24/35, art. 73, 004; En vigueur : 17-08-2008&gt;
+
+§ 2. L'Agence est autorisée, moyennant l'accord du Ministre compétent pour les Finances, à contracter des emprunts qui peuvent être garantis par l'Etat et à disposer de ses réserves financières.
+
+### Art. 4
+
+§ 1er. Le Roi, après avis du comité consultatif, détermine par arrêté délibéré en Conseil des Ministres le montant des contributions visées à l'article 3, § 1er, 2°, ainsi que les délais et modalités de leur perception.
+
+Les montants sont fixés en fonction des risques pour la sécurité de la chaîne alimentaire liés au produit ou à l'activité de l'opérateur.
+
+Ils peuvent être fixés en fonction du niveau d'organisation et d'application du système de contrôle interne de l'activité de l'opérateur, suivant les critères fixés en exécution de l'article 4, § 3, de l'arrêté royal du 22 février 2001 organisant les contrôles effectués par l'Agence fédérale pour la Sécurité de la Chaîne alimentaire et modifiant diverses dispositions légales.
+
+Ils peuvent en outre être fixés en fonction de l'importance de l'activité de l'opérateur ainsi que de la quantité ou de la valeur des produits.
+
+§ 2. Le Roi peut déterminer par arrêté délibéré en Conseil des Ministres, après avis du comité consultatif, les contributions qui peuvent faire l'objet d'une répercussion, totale ou partielle, entre opérateurs ainsi que ses modalités d'application.
+
+### Art. 5
+
+(§ 1er.) &lt;L 2007-12-21/38, art. 35, 003; En vigueur : 10-01-2008&gt; Le Roi, après avis du comité consultatif, détermine par arrêté délibéré en Conseil des Ministres, pour les contrôles et prestations de l'Agence, le montant des rétributions (visées à l'article 3, § 1er, 3° et 12°) ainsi que les délais et modalités de leur perception. &lt;L 2008-07-24/35, art. 74, 1°, 004; En vigueur : 17-08-2008&gt;
+
+(§ 2. Il peut désigner les associations ou organismes, personnes physiques et morales de droit privé ou de droit public [<sup>1</sup> ...]<sup>1</sup> comme bénéficiaires de ces rétributions et les charger de leur perception. Il fixe ainsi les conditions auxquelles ces organismes doivent satisfaire pour être agréés par le ministre.) &lt;L 2007-12-21/38, art. 35, 003; En vigueur : 10-01-2008&gt;
+
+[<sup>1</sup> Il peut prévoir que l'Agence est redevable des rétributions restées impayées par les opérateurs auprès du bénéficiaire qu'Il désigne.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-25/34, art. 20, 009; En vigueur : 01-07-2024&gt;
+
+### Art. 6
+
+§ 1er. Le Roi est habilité, dans les limites de l'exécution des articles 4 et 5, à abroger, compléter, modifier, remplacer et coordonner les dispositions légales des lois visées à l'article 5 de la loi du 4 février 2000, ainsi que de la loi du 24 décembre 1976 relative aux propositions budgétaires 1976-1977, de la loi organique du 27 décembre 1990 créant des fonds budgétaires, de la loi du 17 mars 1993 relative à la création d'un fonds budgétaire pour la production et la protection des végétaux et produits végétaux, de la loi du 23 mars 1998 relative à la création d'un fonds budgétaire pour la santé et la qualité des animaux et produits animaux ainsi que de l'arrêté royal du 28 septembre 1999 fixant certains droits en faveur de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire et de l'arrêté royal du 22 février 2001 relatif au financement de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire.
+
+§ 2. Les habilitations conférées au Roi par le § 1er expirent deux ans après l'entrée en vigueur de la présente loi.
+
+### Art. 7
+
+Les arrêtés royaux pris en exécution des articles 4 et 6 sont abrogés de plein droit avec effet rétroactif à la date de leur entrée en vigueur lorsqu'ils n'ont pas été confirmés par le législateur dans les dix-huit mois de leur publication au Moniteur belge.
+
+### Art. 8
+
+Le Roi, après avis du comité consultatif, peut imposer, en vue de garantir le paiement des [<sup>1</sup> contributions, rétributions et recettes de laboratoires ]<sup>1</sup>, la constitution par tout opérateur, d'un cautionnement dont Il fixe les montants et modalités.
+
+----------
+
+(1)&lt;L 2009-12-23/04, art. 193, 006; En vigueur : 09-01-2010&gt;
+
+### Art. 9
+
+Le Roi peut, par arrêté royal délibéré en Conseil des Ministres, fixer les modalités et le montant d'une provision spécifique, pour financer les coûts opérationnels liés à la gestion d'incidents imprévus dans la chaîne alimentaire.
+
+### Art. 10
+
+Les contributions et rétributions visées aux articles 4 et 5 sont adaptées annuellement, en fonction de l'indice du mois [<sup>1</sup> de septembre]<sup>1</sup>, à l'évolution de l'indice des prix à la consommation du Royaume.
+
+L'indice de départ est celui du mois d'octobre précédant la publication au Moniteur belge de l'arrêté royal fixant le montant de la contribution ou de la rétribution.
+
+Les montants indexés sont publiés au Moniteur belge et sont applicables aux contributions et rétributions exigibles à partir du 1er janvier de l'année qui suit celle durant laquelle l'adaptation a été effectuée.
+
+----------
+
+(1)&lt;L 2015-12-16/06, art. 33, 007; En vigueur : 31-12-2015&gt;
+
+## CHAPITRE III. - Procédures et sanctions administratives.
+
+### Art. 11
+
+[<sup>1</sup> § 1er. Le montant des [<sup>2</sup> contributions, rétributions et recettes de laboratoires]<sup>2</sup>, impayé à l'échéance de paiement, est de plein droit et automatiquement majoré de 10 % .
+
+Il est envoyé par recommandé un rappel de paiement qui [<sup>5</sup> mentionne]<sup>5</sup> un [<sup>5</sup> ...]<sup>5</sup> délai de paiement.
+
+Le montant des [<sup>2</sup> contributions, rétributions et recettes de laboratoires]<sup>2</sup>, ainsi que celui de la majoration sont [<sup>5</sup> ...]<sup>5</sup> de plein droit doublés lorsqu'ils demeurent impayés à l'échéance [<sup>5</sup> du]<sup>5</sup> délai de paiement.
+
+En cas de persistance de non paiement total ou partiel, il est adressé une mise en demeure, [<sup>5</sup> mentionnant un ultime délai de paiement]<sup>5</sup>.
+
+[<sup>5</sup> La facture, le rappel de paiement et la mise en demeure reproduisent le texte du présent article et de l'article 11/1.]<sup>5</sup>
+
+Le Roi fixe les délais et modalités de notification des rappel et mise en demeure.
+
+§ 2. [<sup>5</sup> Jusqu'à l'échéance visée au paragraphe 1er, alinéa 4, l'opérateur peut introduire par envoi recommandé ou tout autre moyen conférant une date certaine à l'envoi auprès de l'administrateur délégué de l'Agence un recours administratif motivé.]<sup>5</sup>
+
+Ce recours suspend le délai d'envoi des rappel et mise en demeure.
+
+[<sup>5</sup> Sous peine de nullité, l'acte de recours comprend:
+
+1° la signature de l'opérateur ou, dans le cas d'une personne morale, les signatures des personnes qui représentent de droit la personne morale;
+
+2° l'indication de la volonté de l'opérateur d'être entendu ou non;
+
+3° le numéro d'entreprise de l'opérateur;
+
+et
+
+4° l'identification de la pièce contestée.
+
+A défaut de recours administratif introduit dans le délai visé à l'alinéa 1er, les contributions, rétributions et recettes de laboratoires deviennent définitives.]<sup>5</sup>
+
+[<sup>5</sup> Dans les 90 jours calendrier à partir de la notification de ce recours par l'opérateur, l'administrateur délégué ou son délégué notifie sa décision à l'opérateur après que l'intéressé, s'il l'a demandé, a été entendu ou dûment convoqué.
+
+Dans le cas où le recours a été déclaré non fondé, la décision reprend une nouvelle invitation à payer le montant dû, majoré ou doublé, conformément aux dispositions du paragraphe 1er, alinéas 1er à 4.]<sup>5</sup>
+
+[<sup>5</sup> A défaut de notification de décision dans le délai visé à l'alinéa 5, l'opérateur peut saisir le tribunal compétent.
+
+La décision visée à l'alinéa 5 reproduit le texte du paragraphe 2ter du présent article et de l'article 11/1.]<sup>5</sup>
+
+§ 2bis. [<sup>2</sup> L'opérateur qui se trouve dans l'impossibilité temporaire de payer les contributions, rétributions et recettes de laboratoires dans le délai [<sup>4</sup> en raison d'un cas de force majeure]<sup>4</sup>, peut introduire, par lettre recommandée à la poste [<sup>5</sup> ou tout autre moyen conférant une date certaine à l'envoi]<sup>5</sup>, auprès de l'administrateur délégué une demande motivée de termes et délais, à laquelle sont joints les documents probants.]<sup>2</sup>
+
+Cette demande suspend l'application des mesures visés au paragraphe 1er, alinéas 1er et 2.
+
+L'administrateur délégué, [<sup>4</sup> ou son délégué,]<sup>4</sup> compte tenu de la situation de l'opérateur, peut reporter ou échelonner, dans la limite de deux années, le paiement du montant dû.
+
+Il ne peut être octroyé de plan d'apurement durant le cours d'un précédent plan d'apurement.
+
+La décision de l'administrateur délégué [<sup>4</sup> ou de son délégué,]<sup>4</sup> est notifiée à l'opérateur.
+
+La décision de refus d'octroi de termes et délais entraîne automatiquement l'application des mesures visées au paragraphe 1er, alinéas 1er et 2.
+
+Le non respect du plan d'apurement déclenche de plein droit la déchéance du terme ainsi que l'application immédiate des mesures visées au paragraphe 1er, alinéas 1er et 2.]<sup>1</sup>
+
+[<sup>5</sup> § 2ter. Si un recours administratif a été introduit conformément au paragraphe 2, les contributions, rétributions et recettes de laboratoires deviennent définitives:
+
+1° à l'échéance d'un délai de 30 jours, si l'opérateur n'a pas introduit de recours auprès du tribunal compétent après avoir pris connaissance de la décision visée au paragraphe 2, alinéa 5, ou à l'échéance d'un délai de 30 jours calendrier si l'opérateur n'a pas introduit de recours auprès du tribunal compétent à compter de l'expiration du délai visé au paragraphe 2, alinéa 5.
+
+A peine de forclusion, le recours est introduit conformément aux articles 1034bis et suivants du Code judiciaire;
+
+ou
+
+2° si les contributions, rétributions et recettes de laboratoires ont été fixées par un jugement ou arrêt avec force de chose jugée.
+
+L'opérateur avertit l'Agence par courrier électronique ou par un autre moyen électronique écrit dès qu'il introduit un recours judiciaire.]<sup>5</sup>
+
+§ 3. Lorsque les contrôles sont impossibles ou rendus plus difficiles ou lorsque des documents ou données requis manquent ou sont inexacts, le montant des contributions [<sup>3</sup> et des rétributions]<sup>3</sup> est établi d'office sur base des indices recueillis.
+
+----------
+
+(1)&lt;L 2009-05-06/03, art. 122, 005; En vigueur : 29-05-2009&gt;
+
+(2)&lt;L 2009-12-23/04, art. 194, 006; En vigueur : 09-01-2010&gt;
+
+(3)&lt;L 2015-12-16/06, art. 34, 007; En vigueur : 31-12-2015&gt;
+
+(4)&lt;L 2017-04-07/10, art. 22, 008; En vigueur : 08-05-2017&gt;
+
+(5)&lt;L 2024-05-25/34, art. 21, 009; En vigueur : 01-07-2024&gt;
+
+### Art. 11/1.
+
+[<sup>1</sup> Le recouvrement des contributions, rétributions et recettes de laboratoires devenues définitives conformément à l'article 11, paragraphes 2 et 2ter, ou suite à une décision judiciaire ayant force de chose jugée, s'opère à la demande de l'Agence par l'administration du Service public fédéral Finances en charge de la perception et du recouvrement des créances fiscales et non fiscales, conformément aux articles 3 et suivants de la loi domaniale du 22 décembre 1949.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-25/34, art. 22, 009; En vigueur : 01-07-2024&gt;
+
+### Art. 11/2.
+
+[<sup>1</sup> Les contributions, rétributions et recettes de laboratoires fixées par et en vertu de la présente loi se prescrivent par l'écoulement de dix années à partir de la date à laquelle elles doivent être payées, sauf si un recours a été introduit conformément à l'article 11, paragraphes 2 et 2ter, auquel cas les contributions, rétributions et recettes de laboratoires se prescrivent par l'écoulement de dix années à partir de la date à laquelle elles sont devenues définitives.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-25/34, art. 23, 009; En vigueur : 01-07-2024&gt;
+
+### Art. 12
+
+§ 1er. [<sup>3</sup> Tout agrément, autorisation, accordé à un opérateur par le ministre ou par l'Agence ainsi que, le cas échéant, l'exécution de l'expertise, la réalisation d'analyses et la délivrance de certificats, agréments, autorisations, peuvent être suspendus à partir du jour où des contributions visées à l'article 4 ou recettes de laboratoires impayées sont déclarées irrécouvrables par l'administration du Service public fédéral Finances en charge de la perception et du recouvrement des créances fiscales et non fiscales ou à partir du jour où des rétributions visées à l'article 5 deviennent définitives conformément à l'article 11.
+
+Les mesures précitées cessent leurs effets le premier jour ouvrable qui suit celui où les montants dus, y compris les majorations et doublements, ont été effectivement crédités au compte de l'Agence.
+
+Le texte du présent paragraphe est reproduit dans la mise en demeure et dans la décision de l'administrateur délégué visée à l'article 11, paragraphe 2, alinéa 5.]<sup>3</sup>
+
+§ 2. [Lorsqu'il est constaté que l'opérateur s'oppose aux investigations visées à l'article 15 ou les rend plus difficiles, ou fournit des renseignements, documents ou déclarations inexacts ou incomplets, ou encore s'abstient de les fournir, l'agrément ou l'autorisation accordé, le cas échéant, à l'opérateur par le ministre ou par l'Agence, ainsi que, s'il échet, l'exécution de l'expertise [<sup>2</sup> , la réalisation d'analyses]<sup>2</sup> et la délivrance de certificats sont suspendus.
+
+Cette suspension est notifiée à l'opérateur et prend effet immédiatement.
+
+Les mesures précitées cessent leurs effets lorsqu'il est constaté que l'opérateur se conforme aux exigences du contrôle.] &lt;L 2007-12-21/38, art. 36, 2°, 003; En vigueur : 10-01-2008&gt;
+
+----------
+
+(1)&lt;L 2009-05-06/03, art. 123, 005; En vigueur : 29-05-2009&gt;
+
+(2)&lt;L 2009-12-23/04, art. 195, 006; En vigueur : 09-01-2010&gt;
+
+(3)&lt;L 2024-05-25/34, art. 24, 009; En vigueur : 01-07-2024&gt;
+
+### Art. 13
+
+§ 1er. (Sans préjudice de l'obligation de préservation du caractère confidentiel de certaines données, imposée par d'autres lois, les Services publics fédéraux Finances, Economie, P.M.E., Classes moyennes et Energie, Emploi, Travail et Concertation sociale, ainsi que l'INAMI, l'INASTI et l'ONSS échangent mutuellement avec l'AFSCA toutes les informations et données utiles à la réalisation de leurs missions respectives, notamment en vue de la fixation et de la perception des montants visés aux articles 4, 5, 11 et 12.) &lt;L 2007-12-21/38, art. 37, 003; En vigueur : 10-01-2008&gt;
+
+§ 2. Sans préjudice de l'obligation de préservation du caractère confidentiel de certaines données, imposée par d'autres lois, l'Agence fournit aux services publics fédéraux qui le demandent toutes les informations et données en sa possession que ceux-ci estiment utiles à l'exécution de leurs missions et leur en laisse prendre copies ou extraits.
+
+### Art. 14
+
+&lt;Abrogé par L 2024-05-25/34, art. 25, 009; En vigueur : 01-07-2024&gt;
+
+## CHAPITRE IV. - Contrôle et sanctions pénales.
+
+### Art. 15
+
+§ 1er. Sans préjudice des attributions des officiers de police judiciaire, les membres du personnel statutaire ou contractuel de l'Agence désignés à cette fin par le ministre surveillent l'exécution de la présente loi ainsi que des arrêtés pris en exécution de celle-ci.
+
+Les membres du personnel contractuel prêtent serment, préalablement à l'exercice de leurs fonctions, entre les mains du ministre ou de son délégué.
+
+§ 2. Dans l'exercice de leurs fonctions, les membres du personnel visés au § 1er peuvent :
+
+1° pénétrer en tout temps et investiguer en tout lieu susceptible d'être affecté à l'activité de l'opérateur ainsi qu'en tout lieu où peuvent se trouver soit des produits, soit des documents, pièces, livres, supports informatiques de données ou autres éléments utiles à l'exécution de leur mission.
+
+Ils peuvent visiter les locaux servant exclusivement d'habitation entre 5 heures du matin et 9 heures du soir moyennant autorisation du juge du tribunal de police;
+
+2° procéder à toutes les constatations et investigations utiles, avec l'assistance éventuelle d'experts choisis sur une liste établie par le ministre.
+
+Les experts qui n'auraient point prêté le serment prescrit par le décret du 20 juillet 1831 concernant le serment à la mise en vigueur de la monarchie constitutionnelle représentative, le prêteront entre les mains du Juge de paix;
+
+3° entendre l'opérateur ou toute autre personne présente sur le lieu visité ou dont l'audition peut être utile à l'exécution de leur mission;
+
+4° se faire communiquer tous les renseignements et se faire produire sur première réquisition et sans déplacement tous documents, pièces, livres ou supports informatiques de données qu'ils jugent utiles à leurs recherches.
+
+Lorsque l'examen des documents visés le nécessite, ou que leur copie ne peut pas être opérée sur place, ils peuvent les emporter pour une durée de trois jours ouvrables, moyennant établissement sur-le-champ de leur inventaire dont une copie est remise au détenteur;
+
+5° conserver une preuve de leur intervention par tout moyen utile, y compris copies et enregistrements;
+
+6° saisir, par mesure administrative et pour un délai de trente jours, les documents, pièces, livres ou supports informatiques de données nécessaires à faire la preuve d'une infraction ou à la recherche de ses auteurs, coauteurs et complices.
+
+La saisie administrative est levée sur ordre de la personne l'ayant ordonnée, à l'expiration du délai ou par la saisie définitive.
+
+En cas d'infraction, les documents visés à l'alinéa 1er font l'objet d'une saisie définitive et sont déposés au greffe du tribunal jusqu'à ce que, tant en ce qui concerne leur confiscation que leur restitution éventuelle, il ait été statué sur l'infraction ou, en cas de classement sans suite, jusqu'à mainlevée de la saisie par le ministère public;
+
+7° requérir l'assistance des forces de police;
+
+8° utiliser les informations et données visées à l'article 13, § 1er.
+
+§ 3. Ils recherchent et constatent les infractions à la présente loi et à ses arrêtés d'exécution par des procès-verbaux faisant foi jusqu'à preuve du contraire.
+
+Une copie du procès-verbal est transmise au contrevenant dans un délai de 30 jours prenant cours le lendemain de la constatation de l'infraction.
+
+### Art. 16
+
+&lt;L 2007-12-21/38, art. 39, 003; En vigueur : 10-01-2008&gt; § 1er. Sans préjudice de l'application éventuelle de peines plus sévères, fixées par le Code pénal ou par les lois pénales particulières, est puni d'une amende de cent à cinq mille euros :
+
+1° celui qui ne respecte pas les modalités de la répercussion des contributions ou répercute ces dernières sans que la répercussion soit autorisée, ou
+
+2° celui qui s'oppose aux visites, inspections, contrôles, demandes de renseignements ou de documents, saisies et autres investigations des personnes de l'autorité visées à l'article 15 ou les rend plus difficiles, ou
+
+3° celui qui fournit des renseignements, documents ou déclarations inexacts ou incomplets ainsi que celui qui s'abstient de les fournir.
+
+§ 2. Les dispositions du Livre premier, y compris celles du Chapitre VII et de l'article 85, du Code pénal sont d'application aux infractions visées au § 1er.
+
+## CHAPITRE V. - Droit de recours.
+
+### Art. 17
+
+Lorsqu'une infraction aux dispositions de la présente loi, aux dispositions de l'une des lois relevant de ses compétences de contrôle, ou de leurs arrêtés d'exécution ainsi qu'aux règlements de l'Union européenne entraîne pour l'Agence des contrôles supplémentaires, celle-ci poursuit à charge des contrevenants le recouvrement des frais y afférents, en ce compris les frais de personnel.
+
+L'action peut être exercée en même temps que l'action pénale et devant le même Juge. Elle peut aussi être exercée pour la première fois en degré d'appel.
+
+## CHAPITRE VI. - Dispositions modificatives.
+
+### Art. 18
+
+§ 1er. Dans l'article 14, alinéa 3, de la loi du 4 février 2000, les mots "et les points 8° et 9° de l'article 10," sont supprimés.
+
+§ 2. Dans l'article 6, § 6, alinéa 2, de l'arrêté royal du 22 février 2001 organisant les contrôles effectués par l'Agence fédérale pour la Sécurité de la Chaîne alimentaire et modifiant diverses dispositions légales, les mots "Sans préjudice des dispositions reprises sous l'article 10, alinéa 4, de la loi du 4 février 2000" sont remplacés par les mots "Sans préjudice des dispositions de la loi du 9 décembre 2004 relative au financement de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire".
+
+## CHAPITRE VII. - Dispositions abrogatoires.
+
+### Art. 19
+
+Sont abrogés dans la loi du 4 février 2000 :
+
+1\. l'article 10;
+
+2\. l'article 14, alinéas 5 et 6.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+---
+
+Donné à Bruxelles, le 9 décembre 2004.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Le Ministre de l'Economie, de l'Energie, du Commerce extérieur et de la Politique scientifique,
+
+M. VERWILGHEN
+
+Le Ministre des Affaires sociales et de la Santé publique,
+
+R. DEMOTTE
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

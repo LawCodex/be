@@ -1,0 +1,60 @@
+---
+title: "Loi portant assentiment à la Convention portant création de l'Institut international des ressources phytogénétiques, faite à Rome le 9 octobre 1991"
+identifier: "2005015140"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2005/09/22/2005015140/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2005-09-22
+published: 2008-04-30
+entry_into_force: 2008-05-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2005/09/22/2005015140/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+retrieved: 2026-10-11
+---
+
+# 22 SEPTEMBRE 2005. - Loi portant assentiment à la Convention portant création de l'Institut international des ressources phytogénétiques, faite à Rome le 9 octobre 1991
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+La Convention portant création de l'Institut international des ressources phytogénétiques, faite à Rome le 9 octobre 1991, sortira son plein et entier effet.
+
+(Pour la Convention, voir CN : 1991-10-09/42, abrogé par L 2005-09-22/59 et remplacé, voir CN : 1991-10-09/44).
+
+Les amendements à l'annexe de la Convention, qui seront adoptés en application de l'article 19 de cette annexe, sortiront leur plein et entier effet.
+
+(Pour le Statut, voir CN : 1991-10-09/43).
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 22 septembre 2005.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires étrangères,
+
+K. DE GUCHT
+
+La Ministre de l'Agriculture,
+
+Mme S. LARUELLE
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

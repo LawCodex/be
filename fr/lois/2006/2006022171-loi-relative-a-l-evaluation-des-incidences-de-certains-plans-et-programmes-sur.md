@@ -1,0 +1,564 @@
+---
+title: "Loi relative à l'évaluation des incidences de certains plans et programmes sur l'environnement et à la participation du public dans l'élaboration des plans et des programmes relatifs à l'environnement"
+identifier: "2006022171"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2006/02/13/2006022171/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2006-02-13
+published: 2006-03-10
+entry_into_force: 2006-03-10
+last_amended: 2024-06-18
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2006/02/13/2006022171/justel"
+department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
+justel_note: "Consultation des versions antérieures à partir du 10-03-2006 et mise à jour au 18-06-2024"
+retrieved: 2026-10-11
+---
+
+# 13 FEVRIER 2006. - Loi relative à l'évaluation des incidences de certains plans et programmes sur l'environnement et à la participation du public dans l'élaboration des plans et des programmes relatifs à l'environnement
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE Ier. - Dispositions générales et définitions.
+
+### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+### Art. 2
+
+La présente loi vise à transposer la directive 2001/42/CE du Parlement européen et du Conseil du 27 juin 2001 relative à l'évaluation des incidences de certains plans et programmes sur l'environnement et la directive 2003/35/CE du Parlement européen et du Conseil du 26 mai 2003 prévoyant la participation du public lors de l'élaboration de certains plans et programmes relatifs à l'environnement, et modifiant, en ce qui concerne la participation du public et l'accès à la justice, les directives 85/337/CEE et 96/61/CE du Conseil.
+
+### Art. 3
+
+Pour l'application de la présente loi, on entend par :
+
+1° " plans et programmes " : les plans et programmes qui sont :
+
+a) élaborés et/ou adoptés par une autorité au niveau fédéral ou élaborés par une autorité au niveau fédéral en vue de leur adoption par les Chambres législatives fédérales ou par le Roi;
+
+b) et prévus par des dispositions législatives, réglementaires ou administratives;
+
+2° " auteur du plan ou du programme " : l'autorité chargée de [<sup>1</sup> l'élaboration d'un plan ou programme, de sa modification, de son réexamen ou de son abrogation]<sup>1</sup>;
+
+3° " projet " : tout acte, opération ou activité dont la réalisation est envisagée par une personne physique ou morale, de droit public ou privé;
+
+4° " public " : une ou plusieurs personnes physiques ou morales, ainsi que les associations, organisations et groupes rassemblant ces personnes, telles que celles oeuvrant pour la protection de l'environnement;
+
+5° " participation du public " : la consultation du public, la prise en compte des résultats de cette consultation lors de la prise de décision, ainsi que la communication d'informations sur la décision d'adopter un plan ou un programme;
+
+6° " [<sup>1</sup> évaluation des incidences sur l'environnement]<sup>1</sup> " : l'élaboration d'un rapport sur les incidences environnementales, la consultation du public, la consultation des instances concernées, la prise en compte du rapport et des résultats des consultations lors de la prise de décision, ainsi que la communication d'informations sur la décision d'adopter un plan ou un programme ;
+
+7° " Conseil fédéral du développement durable ": le conseil créé par la loi du 5 mai 1997 relative à la coordination de la politique fédérale de développement durable.
+
+----------
+
+(1)&lt;L 2024-05-15/18, art. 2, 002; En vigueur : 01-07-2024&gt;
+
+### Art. 4
+
+L'évaluation des incidences sur l'environnement des plans et programmes susceptibles d'avoir des incidences notables sur l'environnement et la participation du public à l'égard des plans et programmes relatifs à l'environnement s'effectuent pendant leur élaboration et avant qu'ils ne soient adoptés.
+
+### Art. 5
+
+§ 1er. Il est créé un Comité d'avis sur la procédure d'évaluation des incidences des plans et programmes susceptibles d'avoir des incidences notables sur l'environnement, ci-après dénommé " Comité ".
+
+[<sup>1</sup> Outre les avis qu'il est tenu de remettre en vertu de la présente loi, le Comité peut formuler et mettre à la disposition du public des lignes directrices techniques pour la mise en oeuvre pratique de la présente loi.]<sup>1</sup>
+
+§ 2. Le Comité est composé de dix membres, nommés par le Roi, en raison de leurs compétences en matière d'environnement. Le Roi nomme également dix suppléants. La composition se fait de la manière suivante:
+
+a) deux membres effectifs et deux membres suppléants sur proposition du ministre qui a l'Environnement dans ses attributions, parmi les membres du personnel de son administration; ces membres assument la présidence et le secrétariat du Comité;
+
+b) un membre effectif et un membre suppléant sur proposition du ministre qui a le milieu marin dans ses attributions, parmi les membres du personnel de son administration;
+
+c) un membre effectif et un membre suppléant sur proposition du ministre qui a la Santé publique dans ses attributions, parmi les membres du personnel de son administration;
+
+d) un membre effectif et un membre suppléant sur proposition du [<sup>2</sup> ministre]<sup>2</sup> qui a le Développement durable dans ses attributions, parmi les membres du personnel de son administration;
+
+e) un membre effectif et un membre suppléant sur proposition du ministre qui a l'Energie dans ses attributions, parmi les membres du personnel de son administration;
+
+f) un membre effectif et un membre suppléant sur proposition du ministre qui a l'Economie dans ses attributions, parmi les membres du personnel de son administration;
+
+g) un membre effectif et un membre suppléant sur proposition du ministre qui a la Mobilité [<sup>2</sup> ...]<sup>2</sup> dans ses attributions, parmi les membres du personnel de son administration;
+
+h) un membre effectif et un membre suppléant sur proposition du ministre qui a l'Intérieur dans ses attributions, parmi les membres du personnel de son administration;
+
+i) [<sup>2</sup> ...]<sup>2</sup> un membre effectif et un membre suppléant sur proposition du ministre qui a les Affaires étrangères dans ses attributions, parmi les membres du personnel de son administration.
+
+[<sup>3</sup> § 2/1. Le Comité peut consulter, dans l'exercice de ses missions, toute personne qu'il juge utile, y compris l'auteur du plan ou du programme, toute autorité publique ainsi que des experts indépendants compétents dans les domaines de l'environnement susceptibles d'être affectés par le plan ou le programme.]<sup>3</sup>
+
+§ 3. Le Roi fixe par arrêté délibéré en Conseil des Ministres l'organisation et les règles de fonctionnement du Comité [<sup>4</sup> en vue de lui permettre de réaliser ses missions]<sup>4</sup>.
+
+§ 4. Le Comité établit son règlement d'ordre intérieur et le soumet à l'approbation du ministre de l'Environnement.
+
+[<sup>5</sup> § 5. Le Comité exerce sa mission en toute indépendance, objectivité et neutralité.]<sup>5</sup>
+
+----------
+
+(1)&lt;L 2024-05-15/18, art. 4, 002; En vigueur : 01-07-2024&gt;
+
+(2)&lt;L 2024-05-15/18, art. 5, 002; En vigueur : 01-07-2024&gt;
+
+(3)&lt;L 2024-05-15/18, art. 6, 002; En vigueur : 01-07-2024&gt;
+
+(4)&lt;L 2024-05-15/18, art. 7, 002; En vigueur : 01-07-2024&gt;
+
+(5)&lt;L 2024-05-15/18, art. 8, 002; En vigueur : 01-07-2024&gt;
+
+## CHAPITRE II. - Champ d'application.
+
+### Art. 6
+
+§ 1er. Une évaluation des incidences sur l'environnement [<sup>1</sup> ...]<sup>1</sup> est requise lors de :
+
+1° l'élaboration des plans et programmes suivants :
+
+\- [<sup>1</sup> ...]<sup>1</sup>
+
+\- les plans et les programmes pris en exécution de l'article 6, § 2 [<sup>1</sup> premier alinéa, 2° et 3°]<sup>1</sup> de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité;
+
+\- le plan de développement du réseau de transport prévu à l'article 13, § 1er, de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité;
+
+\- [<sup>1</sup> ...]<sup>1</sup>
+
+\- le programme général de gestion à long terme des déchets radioactifs prévu à l'article 2, § 3, de l'arrêté royal du 30 mars 1981 déterminant les missions et fixant les modalités de fonctionnement de l'organisme public de gestion des déchets radioactifs et des matières fissiles;
+
+\- les plans et les programmes pris en exécution de l'[<sup>1</sup> article 3, § 2]<sup>1</sup> de la loi du 13 juin 1969 sur l'exploration et l'exploitation des ressources non vivantes de la mer territoriale et du plateau continental ;
+
+[<sup>1</sup> - le plan d'aménagement des espaces marins, prévu par l'article 24, § 2, de la loi du 11 décembre 2022 visant la protection du milieu marin et l'organisation de l'aménagement des espaces marins belges;
+
+\- les plans et les programmes pris en exécution de l'article 6/1, § 2, premier alinéa, 2° et 3°, de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité;
+
+\- les Politiques nationales, prévues dans l'article 179, § 6, de la loi du 8 août 1980 relative aux propositions budgétaires 1979-1980;]<sup>1</sup>
+
+2° l'élaboration de plans ou programmes pour lesquels, étant donné les incidences qu'ils sont susceptibles d'avoir sur des sites, une évaluation est requise en vertu des articles 6 et 7 de la directive 92/43/CEE du Conseil du 21 mai 1992 concernant la conservation des habitats naturels ainsi que de la faune et de la flore sauvages;
+
+3° l'élaboration de tout autre plan ou programme qui définit le cadre dans lequel la mise en oeuvre de projets peut être autorisée et qui est susceptible d'avoir des incidences notables sur l'environnement;
+
+4° [<sup>1</sup> la modification, le réexamen ou l'abrogation]<sup>1</sup> des plans et programmes visés aux 1°, 2° et 3°.
+
+§ 2. [<sup>2</sup> Conformément aux dispositions du § 3, une modification mineure d'un plan ou d'un programme visé au § 1er, 1°, peut être exemptée de l'obligation d'être soumise à une évaluation des incidences sur l'environnement, lorsqu'elle n'est pas susceptible d'avoir des incidences notables sur l'environnement.]<sup>2</sup>
+
+§ 3. [<sup>3</sup> L'auteur du plan ou du programme détermine]<sup>3</sup> au regard des critères définis à l'annexe Ire et sur base de l'avis du Comité, si :
+
+1° les plans et programmes visés au § 1er, 2°, sont susceptibles d'affecter de manière significative un site conformément aux articles 6 et 7 de la directive 92/43/CEE du Conseil du 21 mai 1992 concernant la conservation des habitats naturels ainsi que de la faune et de la flore sauvages ;
+
+2° les plans et programmes visés au § 1er, 3°, sont susceptibles d'avoir des incidences notables sur l'environnement;
+
+3° les plans et programmes visés au § 2 ne sont pas susceptibles d'avoir des incidences notables sur l'environnement.
+
+A cette fin, l'auteur du plan ou du programme consulte préalablement le Comité qui lui transmet son avis dans les trente jours de la réception de la demande. A défaut, [<sup>3</sup> pour le Comité de remettre son avis dans le délai imparti]<sup>3</sup> la procédure est poursuivie par l'auteur du plan ou du programme.
+
+[<sup>3</sup> L'auteur du plan ou du programme motive spécialement sa décision lorsqu'elle s'écarte de l'avis du Comité.]<sup>3</sup>
+
+[<sup>3</sup> La décision de l'auteur du plan ou du programme est publiée, ainsi que sa motivation et l'avis du Comité sur le site du Portail fédéral et sur le site de l'auteur du plan ou du programme.]<sup>3</sup>
+
+[<sup>4</sup> § 4. Le Roi peut établir par arrêté délibéré en Conseil des ministres une liste des plans et des programmes qui sont obligatoirement soumis à l'avis du Comité par l'auteur du plan ou du programme en vue de déterminer si ces plans et programmes sont visés au § 1er, 2° et 3°.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2024-05-15/18, art. 9, 002; En vigueur : 01-07-2024&gt;
+
+(2)&lt;L 2024-05-15/18, art. 10, 002; En vigueur : 01-07-2024&gt;
+
+(3)&lt;L 2024-05-15/18, art. 11, 002; En vigueur : 01-07-2024&gt;
+
+(4)&lt;L 2024-05-15/18, art. 12, 002; En vigueur : 01-07-2024&gt;
+
+### Art. 7
+
+Une participation du public est requise lors de l'élaboration, de la modification ou du réexamen de plans ou de programmes relatifs à l'environnement.
+
+### Art. 8
+
+Ne sont pas soumis aux dispositions de la présente loi les plans et programmes répondant uniquement aux besoins de la défense nationale ou adoptés en cas de situations d'urgence à caractère civil, en ce compris les plans d'urgence en matière nucléaire.
+
+[<sup>1</sup> Ne doivent pas être soumis à une évaluation des incidences sur l'environnement]<sup>1</sup> les plans et programmes financiers ou budgétaires.
+
+----------
+
+(1)&lt;L 2024-05-15/18, art. 13, 002; En vigueur : 01-07-2024&gt;
+
+## CHAPITRE III. - Rapport sur les incidences environnementales et évaluation des effets transfrontières des plans et programmes réputés avoir des incidences notables sur l'environnement.
+
+### Art. 9
+
+[<sup>1</sup> Lorsqu'une évaluation des incidences sur l'environnement est requise en vertu de l'article 6, l'auteur du plan ou du programme fait élaborer, sous sa responsabilité et à ses frais, un rapport sur les incidences environnementales conformément à l'annexe II.
+
+L'auteur du plan ou du programme fait appel à une personne physique ou morale extérieure pour élaborer le rapport sur les incidences environnementales, après s'être assuré que celle-ci n'a aucun intérêt à l'égard du plan ou du programme envisagé et que cette personne dispose des compétences techniques et scientifiques requises pour élaborer le rapport.
+
+Le Roi peut déterminer par arrêté délibéré en Conseil des ministres des critères relatifs aux compétences techniques et scientifiques dont doit disposer la personne physique ou morale extérieure afin de pouvoir élaborer un rapport sur les incidences environnementales.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-15/18, art. 14, 002; En vigueur : 01-07-2024&gt;
+
+### Art. 10
+
+§ 1er. En vue de constituer le rapport sur les incidences environnementales, [<sup>1</sup> la personne chargée de réaliser le rapport sur les incidences environnementales conformément à l'article 9, deuxième alinéa]<sup>1</sup> élabore un projet de répertoire des informations que devra contenir le rapport compte tenu du plan ou au programme concerné. Les informations contenues à l'annexe II constituent le contenu minimal de ce répertoire.
+
+§ 2. L'auteur du plan ou du programme transmet pour avis au Comité le projet de répertoire du rapport sur les incidences environnementales.
+
+L'avis porte sur l'ampleur et la précision des informations que le rapport doit contenir en tenant compte, à cet effet, des connaissances et des méthodes d'évaluation existantes, du contenu et du degré de précision du plan ou du programme [<sup>2</sup> et du stade atteint dans le processus de décision ainsi que du fait qu'il peut être préférable d'évaluer certains aspects à d'autres stades de ce processus afin d'éviter une répétition de l'évaluation. L'avis du Comité concerne également la question de savoir si la mise en oeuvre du plan ou du programme est susceptible d'avoir des incidences non négligeables sur l'environnement d'un autre Etat membre de l'Union européenne ou d'un autre Etat Partie à la Convention d'Espoo du 25 février 1991 sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière]<sup>2</sup>. [<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>3</sup> L'avis du Comité est transmis dans les trente jours de la réception de la demande. A défaut le Comité est considéré ne pas avoir des remarques concernant le projet de répertoire.]<sup>3</sup>
+
+L'auteur du plan ou du programme arrête, en tenant compte de l'avis du Comité, le répertoire des informations que devra contenir le rapport sur les incidences environnementales et le communique au Comité.
+
+----------
+
+(1)&lt;L 2024-05-15/18, art. 15, 002; En vigueur : 01-07-2024&gt;
+
+(2)&lt;L 2024-05-15/18, art. 16, 002; En vigueur : 01-07-2024&gt;
+
+(3)&lt;L 2024-05-15/18, art. 17, 002; En vigueur : 01-07-2024&gt;
+
+### Art. 11
+
+[<sup>1</sup> La personne chargée de réaliser le rapport sur les incidences environnementales conformément à l'article 9, deuxième alinéa]<sup>1</sup> élabore le rapport en se conformant au répertoire arrêté.
+
+Lorsque le plan ou programme fait partie d'un ensemble hiérarchisé, le rapport sur les incidences environnementales peut tenir compte, en vue d'éviter une répétition de l'évaluation du fait que l'évaluation des incidences sera effectuée à un autre niveau de l'ensemble hiérarchisé.
+
+[<sup>2</sup> Les renseignements utiles concernant les incidences des plans et programmes sur l'environnement obtenus à d'autres niveaux de décision ou en vertu d'autres législations peuvent être utilisés pour fournir les informations énumérées à l'Annexe II.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2024-05-15/18, art. 15, 002; En vigueur : 01-07-2024&gt;
+
+(2)&lt;L 2024-05-15/18, art. 19, 002; En vigueur : 01-07-2024&gt;
+
+### Art. 12
+
+L'auteur du plan ou du programme soumet le projet de plan ou de programme et le rapport sur les incidences environnementales à l'avis du Comité. [<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> Le Comité examine notamment:
+
+1° la qualité du rapport sur les incidences environne- mentales;
+
+2° les mesures proposées pour éviter, réduire ou, à défaut, compenser les incidences environnementales notables du projet de plan ou de programme, compte tenu des alternatives raisonnablement envisageables;
+
+3° dans la mesure où cela n'a pas pu être déterminé dans l'avis visé à l'article 10, § 2, si la mise en oeuvre du plan ou du programme est susceptible d'avoir des incidences non négligeables sur l'environnement d'un autre Etat membre de l'Union européenne ou d'un autre Etat Partie à la Convention d'Espoo du 25 février 1991 sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière; et
+
+4° les mesures de suivi environnemental à mettre en oeuvre en vertu de l'article 17.]<sup>1</sup>
+
+L'auteur du plan ou du programme soumet également pour avis le projet de plan ou de programme et le rapport des incidences environnementales au Conseil fédéral du développement durable, aux gouvernements des Régions, ainsi qu'à toute instance qu'il juge utile.
+
+Les avis sont transmis [<sup>1</sup> à l'auteur du plan ou du programme]<sup>1</sup> dans les soixante jours de la demande d'avis. [<sup>1</sup> Une copie des avis autres que l'avis du Comité est transmise de manière digitale au Comité dans le même délai.]<sup>1</sup> A défaut, la procédure est poursuivie.
+
+----------
+
+(1)&lt;L 2024-05-15/18, art. 20, 002; En vigueur : 01-07-2024&gt;
+
+### Art. 13
+
+§ 1er. Sur base de l'avis du Comité [<sup>1</sup> prévu dans l'article 10, § 2, et, le cas échéant, l'avis du Comité prévu dans l'article 12]<sup>1</sup>, l'auteur du plan ou du programme détermine si la mise en oeuvre du plan ou du programme en cours d'élaboration [<sup>1</sup> de modification ou de réexamen ou si l'abrogation du plan ou du programme]<sup>1</sup> est susceptible d'avoir des incidences non négligeables sur l'environnement d'un autre Etat membre de l'Union européenne ou d'un autre Etat partie à la Convention d'Espoo du 25 février 1991 sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière.
+
+Dans un tel cas, sont transmis aux autorités compétentes de cet autre Etat membre de l'Union européenne ou de cet autre Etat partie à la Convention d'Espoo :
+
+1° le projet de plan ou de programme, accompagné du rapport sur les incidences environnementales et des informations éventuelles sur les incidences transfrontières;
+
+2° une description de la procédure d'élaboration et d'évaluation qui s'applique au plan ou programme envisagé.
+
+La transmission indique aux autorités compétentes concernées qu'elles peuvent préciser si elles entendent participer au processus d'évaluation du plan ou du programme dans un délai de quarante-cinq jours suivant son envoi.
+
+Le Roi peut déterminer :
+
+1° les modalités suivant lesquelles les autorités compétentes de l'Etat susceptible d'être affecté peuvent participer à la procédure d'évaluation des incidences sur l'environnement;
+
+2° les modalités suivant lesquelles les informations visées à l'article 16, alinéa 4, sont communiquées aux autorités visées à l'alinéa 2.
+
+§ 2. Lorsque la mise en oeuvre d'un plan ou d'un programme en cours d'élaboration sur le territoire d'un autre Etat membre de l'Union européenne ou d'un autre Etat Partie à la Convention d'Espoo du 25 février 1991 sur l'évaluation de l'impact sur l'environnement dans un contexte transfrontière est susceptible d'avoir des incidences non négligeables sur l'environnement du territoire national, le projet de plan ou de programme accompagné du rapport sur les incidences environnementales, qui ont été transmis par les autorités compétentes de cet autre Etat, est mis à la disposition du public ainsi que des instances déterminées conformément à l'article 12, alinéa 2.
+
+Le Roi peut déterminer :
+
+1° les modalités suivant lesquelles les informations visées à l'alinéa 1er sont mises à la disposition du public et des instances visées à l'alinéa 1er;
+
+2° les modalités suivant lesquelles l'avis du public et des instances consultées est recueilli et transmis.
+
+----------
+
+(1)&lt;L 2024-05-15/18, art. 21, 002; En vigueur : 01-07-2024&gt;
+
+## CHAPITRE IV. [<sup>1</sup> - Consultation du public lors de la procédure d'élaboration, de modification, de réexamen ou d'abrogation des plans et programmes soumis à évaluation des incidences sur l'environnement et des plans et programmes relatifs à l'environnement]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-15/18, art. 22, 002; En vigueur : 01-07-2024&gt;
+
+### Art. 14
+
+§ 1er. L'auteur du plan ou du programme soumet à consultation du public le projet de plan ou de programme, qui est accompagné du rapport sur les incidences environnementales lorsque celui-ci est requis en vertu de l'article 9.
+
+A cette fin, une consultation du public est annoncée, au plus tard quinze jours avant son début, [<sup>1</sup> par avis inséré au Moniteur belge, sur le site de l'auteur du plan ou du programme]<sup>1</sup>, sur le site du Portail fédéral, et au moins par un autre moyen de communication choisi par l'auteur du plan.
+
+La consultation publique dure [<sup>1</sup> au moins]<sup>1</sup> soixante jours et est suspendue entre le 15 juillet et le 15 août. L'avis au Moniteur belge précise les dates du début et de la fin de la consultation publique ainsi que les modalités pratiques par lesquelles le public peut faire valoir ses avis et observations.
+
+Les observations et avis sont adressés à l'auteur du plan ou du programme dans le délai d'enquête par voie postale ou par voie électronique.
+
+§ 2. Le Roi peut déterminer par arrêté délibéré en Conseil des ministres les modalités complémentaires de la consultation publique de manière à donner au projet de plan ou de programme et au rapport environnemental la notoriété la plus étendue.
+
+----------
+
+(1)&lt;L 2024-05-15/18, art. 23, 002; En vigueur : 01-07-2024&gt;
+
+## CHAPITRE V. - Décision et suivi.
+
+### Art. 15
+
+Les résultats des observations et avis exprimés en vertu des articles 12 et 14, ainsi que le rapport sur les incidences environnementales et les consultations transfrontières lorsqu'ils sont requis en vertu des articles 9 et 13, sont pris en considération pendant l'élaboration du plan ou du programme concerné et avant qu'il ne soit adopté.
+
+### Art. 16
+
+Lors de l'adoption d'un plan ou d'un programme soumis à évaluation des incidences sur l'environnement en vertu de l'article 6, l'autorité fédérale visée à l'article 3, 1°, a), élabore une déclaration résumant la manière dont les considérations environnementales ont été intégrées dans le plan ou le programme, la manière dont le rapport sur les incidences environnementales et les consultations effectuées en application des articles 12, 13 et 14 ont été pris en considération, ainsi que les raisons du choix du plan ou du programme tel qu'adopté, compte tenu des autres solutions raisonnables envisagées et précisant les principales mesures de suivi des incidences notables sur l'environnement de la mise en oeuvre du plan ou du programme.
+
+Lors de l'adoption d'un plan ou d'un programme relatif à l'environnement et non soumis à évaluation des incidences sur l'environnement, l'autorité fédérale visée à l'article 3, 1°, a), élabore une déclaration résumant la manière dont la participation du public effectuée en application de l'article 14 a été prise en considération.
+
+[<sup>1</sup> Le plan ou le programme tel qu'il a été adopté, la déclaration élaborée conformément aux alinéas 1 et 2 et un aperçu des mesures pour assurer le suivi des incidences notables sur l'environnement de la mise en oeuvre du plan ou du programme prévues sur base de l'article 17 sont publiés par extrait au Moniteur belge et diffusés sur le site du Portail fédéral et le site de l'auteur du plan ou du programme.]<sup>1</sup>
+
+Dans les dix jours de la publication au Moniteur belge, une copie du plan ou du programme, ainsi que la déclaration [<sup>1</sup> et l'aperçu des mesures pour assurer le suivi des incidences notables sur l'environnement de la mise en oeuvre du plan ou du programme prévues sur base de l'article 17]<sup>1</sup>, sont adressés aux instances consultées en application de l'article 12, alinéa 2 et, le cas échéant, à l'Etat qui a été consulté en application de l'article 13.
+
+----------
+
+(1)&lt;L 2024-05-15/18, art. 24, 002; En vigueur : 01-07-2024&gt;
+
+### Art. 17
+
+L'auteur d'un plan ou d'un programme soumis à évaluation des incidences sur l'environnement en vertu de l'article 6 assure le suivi des incidences notables sur l'environnement de la mise en oeuvre du plan ou du programme, afin d'identifier notamment, à un stade précoce, les impacts négatifs imprévus et d'être en mesure d'engager les actions correctrices qu'il juge appropriées.
+
+## CHAPITRE VI. - Dispositions finales.
+
+### Art. 18
+
+Les délais prévus pour l'élaboration des plans et des programmes sont suspendus entre, d'une part, la date de la décision visée à l'article 6, § 3, pour les plans et programmes visés au § 1er, 3°, et au § 2 du même article, la date de l'élaboration du projet de répertoire visée à l'article 10, § 1er, pour les autres plans et programmes visés à l'article 6 ou de la date de l'annonce de l'enquête publique au Moniteur belge en application de l'article 14, § 1er lorsque les plans et programmes ne sont pas soumis à évaluation des incidences sur l'environnement, et, d'autre part, la date d'élaboration de la déclaration visée à l'article 16.
+
+### Art. 19
+
+&lt;Abrogé par L 2024-05-15/18, art. 25, 002; En vigueur : 01-07-2024&gt;
+
+### Art. 20
+
+Les dispositions relatives à la participation et/ou à la consultation du public ainsi qu'aux mesures particulières de publicité contenues dans des lois ou règlements qui tombent dans le champ d'application de cette loi, doivent se conformer aux articles 14, 15 et 16 de la présente loi.
+
+### Art. 21
+
+Sont abrogés :
+
+1° l'article 36bis de la loi de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité, tel qu'inséré par l'article 83 de la loi-programme du 30 décembre 2001;
+
+2° le paragraphe 5 de l'article 15/13 de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisation, tel qu'inséré par la loi du 29 avril 1999 et modifié par l'article 84 de la loi-programme du 30 décembre 2001 et remplacé par l'article 34, § 5, de loi du 1er juin 2005 portant modification de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations.
+
+### Art. 22
+
+La présente loi produit ses effets le jour de sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 13 février 2006.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre du Budget et de la Protection de la Consommation,
+
+Mme F. VAN DEN BOSSCHE
+
+Le Ministre de l'Intérieur,
+
+P. DEWAEL
+
+Le Ministre des Affaires étrangères,
+
+K. DE GUCHT
+
+Le Ministre de l'Energie,
+
+M. VERWILGHEN
+
+Le Ministre des Affaires sociales et de la Santé publique,
+
+R. DEMOTTE
+
+Le Ministre de la Mobilité,
+
+R. LANDUYT
+
+Le Ministre de l'Environnement,
+
+B. TOBBACK
+
+La Secrétaire d'Etat pour le Développement durable,
+
+Mme E. VAN WEERT
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX
+
+## ANNEXES.
+
+### Art. N1
+
+Annexe I. - Critères permettant de déterminer l'ampleur probable des incidences des plans ou programmes :
+
+1\. Les caractéristiques des plans ou programmes et notamment:
+
+\- la mesure dans laquelle le plan ou le programme concerné définit un cadre pour d'autres projets ou activités, en ce qui concerne la localisation, la nature, la taille et les conditions de fonctionnement ou par une allocation de ressources,
+
+\- la mesure dans laquelle le plan ou le programme influence d'autres plans ou programmes, y compris ceux qui font partie d'un ensemble hiérarchisé,
+
+\- l'adéquation entre le plan ou le programme et l'intégration des considérations environnementales, en vue, notamment de promouvoir un développement durable,
+
+\- les problèmes environnementaux liés au plan ou au programme,
+
+\- l'adéquation entre le plan ou le programme et la mise en oeuvre de la législation communautaire relative à l'environnement (par exemple les plans et programmes touchant à la gestion des déchets et à la protection de l'eau).
+
+2\. Caractéristiques des incidences et de la zone susceptible d'être touchée, notamment:
+
+\- la probabilité, la durée, la fréquence et le caractère réversible des incidences,
+
+\- le caractère cumulatif des incidences,
+
+\- la nature transfrontière des incidences,
+
+\- les risques pour la santé humaine ou pour l'environnement (à cause d'accidents, par exemple),
+
+\- la magnitude et l'étendue spatiale géographique des incidences (zone géographique et taille de la population susceptible d'être touchée),
+
+\- la valeur et la vulnérabilité de la zone susceptible d'être touchée, en raison:
+
+\- de caractéristiques naturelles ou d'un patrimoine culturel particulier,
+
+\- d'un dépassement des normes de qualité environnementales ou des valeurs limites,
+
+\- de l'exploitation intensive des sols,
+
+\- les incidences pour des zones ou des paysages jouissant d'un statut de protection reconnu au niveau national, communautaire ou international.
+
+Donné à Bruxelles, le 13 février 2006.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre du Budget et de la Protection de la Consommation,
+
+Mme F. VAN DEN BOSSCHE
+
+Le Ministre de l'Intérieur,
+
+P. DEWAEL
+
+Le Ministre des Affaires étrangères,
+
+K. DE GUCHT
+
+Le Ministre de l'Energie,
+
+M. VERWILGHEN
+
+Le Ministre des Affaires sociales et de la Santé publique,
+
+R. DEMOTTE
+
+Le Ministre de la Mobilité,
+
+R. LANDUYT
+
+Le Ministre de l'Environnement,
+
+B. TOBBACK
+
+La Secrétaire d'Etat pour le Développement durable,
+
+Mme E. VAN WEERT
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX
+
+### Art. N2
+
+Annexe II. - Informations du rapport sur les incidences environnementales.
+
+Le rapport sur les incidences environnementales contient les informations qui peuvent être raisonnablement exigées, compte tenu des connaissances et des méthodes d'évaluation existantes, du contenu et du degré de précision du plan ou du programme, du stade atteint dans le processus de décision et du fait qu'il peut être préférable d'évaluer certains aspects à d'autres stades de ce processus afin d'éviter une répétition de l'évaluation.
+
+Il identifie, décrit et évalue les incidences notables probables de la mise en oeuvre du plan ou du programme, ainsi que les solutions de substitution raisonnables tenant compte des objectifs et du champ d'application géographique du plan ou du programme.
+
+Les renseignements utiles concernant les incidences des plans et programmes sur l'environnement obtenus à d'autres niveaux de décision ou en vertu d'autres législations peuvent être utilisés pour fournir les informations requises.
+
+A cette fin, il comprend les informations suivantes:
+
+1° un résumé du contenu, une description des objectifs principaux du plan ou du programme et les liens avec d'autres plans et programmes pertinents;
+
+2° les aspects pertinents de la situation environnementale ainsi que son évolution probable si le plan ou programme n'est pas mis en oeuvre;
+
+3° les caractéristiques environnementales des zones susceptibles d'être touchées de manière notable;
+
+4° les problèmes environnementaux liés au plan ou au programme, en particulier ceux qui concernent les zones revêtant une importance particulière pour l'environnement, telles que celles désignées conformément aux directives 79/409/CEE et 92/43/CEE;
+
+5° les objectifs de la protection de l'environnement pertinents pour le plan ou le programme et la manière dont ces objectifs et les considérations environnementales ont été pris en considération au cours de l'élaboration du plan ou du programme;
+
+6° les incidences non négligeables probables, y compris sur des thèmes comme la diversité biologique, la population, la santé humaine, la faune, la flore, les sols, les eaux, l'air, les facteurs climatiques, les biens matériels, le patrimoine culturel, y compris le patrimoine architectural et archéologique, les paysages et les interactions entre ces facteurs;
+
+7° les mesures envisagées pour éviter, réduire et, dans la mesure du possible, compenser toute incidence négative non négligeable de la mise en oeuvre du plan ou du programme sur l'environnement;
+
+8° une déclaration résumant les raisons pour lesquelles les solutions envisagées ont été sélectionnées et une description de la manière dont l'évaluation a été effectuée, y compris toutes difficultés rencontrées, telles que les déficiences techniques ou le manque de savoir-faire, lors de la collecte des informations requises;
+
+9° une description des mesures de suivi envisagées conformément à l'article 16;
+
+10° un résumé non technique des informations visées ci-dessus.
+
+Donné à Bruxelles, le 13 février 2006.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre du Budget et de la Protection de la Consommation,
+
+Mme F. VAN DEN BOSSCHE
+
+Le Ministre de l'Intérieur,
+
+P. DEWAEL
+
+Le Ministre des Affaires étrangères,
+
+K. DE GUCHT
+
+Le Ministre de l'Energie,
+
+M. VERWILGHEN
+
+Le Ministre des Affaires sociales et de la Santé publique,
+
+R. DEMOTTE
+
+Le Ministre de Mobilité,
+
+R. LANDUYT
+
+Le Ministre de l'Environnement,
+
+B. TOBBACK
+
+La Secrétaire d'Etat pour le Développement durable,
+
+Mme E. VAN WEERT
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX.

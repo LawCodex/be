@@ -1,0 +1,104 @@
+---
+title: "Loi relative à la protection des sources journalistes"
+identifier: "2005009280"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/07/2005009280/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2005-04-07
+published: 2005-04-27
+entry_into_force: 2005-05-07
+last_amended: 2026-03-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2005/04/07/2005009280/justel"
+department: "Justice"
+justel_note: "Consultation des versions antérieures à partir du 27-04-2005 et mise à jour au 10-03-2026"
+retrieved: 2026-10-11
+---
+
+# 7 AVRIL 2005. - Loi relative à la protection des sources journalistes
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Bénéficient de la protection des sources telle que définie à l'article 3, les personnes suivantes :
+
+1° les journalistes, soit toute personne qui, dans le cadre d'un travail indépendant ou salarié, ainsi que toute personne morale, contribue régulièrement et directement à la collecte, la rédaction, la production ou la diffusion d'informations, par le biais d'un média, au profit du public;
+
+2° les collaborateurs de la rédaction, soit toute personne qui, par l'exercice de sa fonction, est amenée à prendre connaissance d'informations permettant d'identifier une source et ce, à travers la collecte, le traitement éditorial, la production ou la diffusion de ces mêmes informations.
+
+(NOTE : par son arrêt n° 91/2006 du 07-06-2006 (M.B. 23-06-2006, p. 32147-32152), la Cour d'Arbitrage a annulé à l'article 2, 1° les termes " les journalistes, soit " et " , dans le cadre d'un travail indépendant ou salarié, ainsi que toute personne morale, " et " régulièrement et ")
+
+## Art. 3
+
+Les personnes visées à l'article 2 ont le droit de taire leurs sources d'information.
+
+Sauf dans les cas visés à l'article 4, elles ne peuvent pas être contraintes de révéler leurs sources d'information et de communiquer tout renseignement, enregistrement et document susceptible notamment :
+
+1° de révéler l'identité de leurs informateurs;
+
+2° de dévoiler la nature ou la provenance de leurs informations;
+
+3° de divulguer l'identité de l'auteur d'un texte ou d'une production audiovisuelle;
+
+4° de révéler le contenu des informations et des documents eux-mêmes, dès lors qu'ils permettent d'identifier l'informateur.
+
+## Art. 4
+
+Les personnes visées à l'article 2 ne peuvent être tenues de livrer les sources d'information visées à l'article 3 qu'à la requête du juge, si elles sont de nature à prévenir la commission d'infractions constituant une menace grave pour l'intégrité physique d'une ou de plusieurs personnes en ce compris les infractions visées à [<sup>1</sup> l'article 371]<sup>1</sup> du Code pénal, pour autant qu'elles portent atteinte à l'intégrité physique, et si les conditions cumulatives suivantes sont remplies :
+
+1° les informations demandées revêtent une importance cruciale pour la prévention de la commission de ces infractions;
+
+2° les informations demandées ne peuvent être obtenues d'aucune autre manière.
+
+----------
+
+(1)&lt;L 2026-03-03/04, art. 115, 003; En vigueur : 01-09-2026&gt;
+
+## Art. 5
+
+&lt;L 2006-05-09/34, art. 2, 002; En vigueur : 17-03-2007&gt; Il ne pourra être procédé à aucune mesure d'information ou d'instruction concernant des données relatives aux sources d'information des personnes visées à l'article 2, sauf si ces données sont susceptibles de prévenir la commission des infractions visées à l'article 4, et dans le respect des conditions qui y sont définies.
+
+## Art. 6
+
+Les personnes visées à l'article 2 ne peuvent être poursuivies sur la base de [<sup>1</sup> les articles 501 et 502]<sup>1</sup> du Code pénal lorsqu'elles exercent leur droit à ne pas révéler leurs sources d'information.
+
+----------
+
+(1)&lt;L 2026-03-03/04, art. 116, 003; En vigueur : 01-09-2026&gt;
+
+## Art. 7
+
+En cas de violation du secret professionnel au sens de [<sup>1</sup> l'article 352]<sup>1</sup> du Code pénal, les personnes visées à l'article 2 ne peuvent être poursuivies sur la base de [<sup>1</sup> l'article 19, alinéa 1er,]<sup>1</sup> du Code pénal lorsqu'elles exercent leur droit à ne pas révéler leurs sources d'information.
+
+(Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 7 avril 2005.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme L. ONKELINX) &lt;Erratum, voir M.B. 13-05-2005, p. 22851&gt;
+
+----------
+
+(1)&lt;L 2026-03-03/04, art. 117, 003; En vigueur : 01-09-2026&gt;
