@@ -1,0 +1,80 @@
+---
+title: "Loi modifiant des dispositions concernant le recrutement des militaires"
+identifier: "2022032388"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/02/2022032388/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2022-06-02
+published: 2022-06-20
+entry_into_force: 2022-06-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2022/06/02/2022032388/justel"
+department: "Défense Nationale"
+retrieved: 2026-10-11
+---
+
+# 2 JUIN 2022. - Loi modifiant des dispositions concernant le recrutement des militaires
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+Dans l'article 9, alinéa 1er, de la loi du 28 février 2007 fixant le statut des militaires et candidats-militaires du cadre actif des Forces armées, modifié par les lois des 31 juillet 2013 et 30 avril 2018, le 5° est remplacé par ce qui suit:
+
+"5° le cas échéant, satisfaire aux conditions d'études;".
+
+## Art. 3
+
+A l'article 12 de la même loi, remplacé par la loi du 31 juillet 2013, les modifications suivantes sont apportées:
+
+1° dans l'alinéa 1er, le 5° est remplacé par ce qui suit:
+
+"5° le cas échéant, les conditions d'études;";
+
+2° dans l'alinéa 3, le 3° est abrogé.
+
+## Art. 4
+
+A l'article 18 de la même loi, modifié par la loi du 20 mai 2019, les modifications suivantes sont apportées:
+
+1° l'alinéa 1er est complété par un 6° rédigé comme suit:
+
+"6° qui perd la qualité de candidat militaire dans la même catégorie de personnel ou dans une catégorie de personnel inférieure entre le moment de son inscription pour un poste vacant et la veille du jour prévu pour son incorporation.";
+
+2° dans l'alinéa 2, les mots "2° à 5° " sont remplacés par les mots "2° à 6° ".
+
+## Art. 5
+
+Les articles 2 et 3 entrent en vigueur à la date fixée par le Roi, et au plus tard le 1er janvier 2023.
+
+(NOTE : Entrée en vigueur des articles 2; 3 fixée au 01-10-2022 par AR 2022-07-20/37, art. 10)
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 2 juin 2022.
+
+PHILIPPE
+
+Par le Roi :
+
+La Ministre de la Défense,
+
+L. DEDONDER
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+V. VAN QUICKENBORNE

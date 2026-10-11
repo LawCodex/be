@@ -1,0 +1,1740 @@
+---
+title: "Loi sur les médicaments vétérinaires"
+identifier: "2022041002"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2022/05/05/2022041002/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2022-05-05
+published: 2022-05-20
+entry_into_force: 2022-05-21
+last_amended: 2026-07-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2022/05/05/2022041002/justel"
+department: "Agence Fédérale des Médicaments et des Produits de Sante"
+justel_note: "Consultation des versions antérieures à partir du 20-05-2022 et mise à jour au 13-07-2026"
+retrieved: 2026-10-11
+---
+
+# 5 MAI 2022. - Loi sur les médicaments vétérinaires
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Objet, champ d'application, définitions et autorité compétente
+
+### Section 1<sup>re. -</sup>Objet et champ d'application
+
+#### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+#### Art. 2
+
+La présente loi complète et établit les modalités d'application du Règlement (UE) 2019/6 du Parlement Européen et du Conseil du 11 décembre 2018 relatif aux médicaments vétérinaires et abrogeant la directive 2001/82/CE.
+
+#### Art. 3
+
+La présente loi s'applique aux médicaments vétérinaires, tels que visés à l'article 2, paragraphe 1 du Règlement (UE) 2019/6 du Parlement Européen et du Conseil du 11 décembre 2018 relatif aux médicaments vétérinaires et abrogeant la directive 2001/82/CE.
+
+### Section 2. - Définitions
+
+#### Art. 4
+
+Outre les définitions données par le Règlement (UE) 2019/6 du Parlement Européen et du Conseil du 11 décembre 2018 relatif aux médicaments vétérinaires et abrogeant la directive 2001/82/CE, pour l'application du Règlement 2019/6, de la présente loi et de leurs arrêtés d'exécution, on entend par:
+
+1° "Règlement 2019/6": le Règlement (UE) 2019/6 du Parlement Européen et du Conseil du 11 décembre 2018 relatif aux médicaments vétérinaires et abrogeant la directive 2001/82/CE;
+
+2° "ministre": le ministre qui a la Santé publique dans ses attributions;
+
+3° "AFMPS": l'Agence fédérale des médicaments et des produits de santé, telle qu'instituée par la loi du 20 juillet 2006 relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé;
+
+4° "EMA": l'Agence européenne des médicaments ("European Medicines Agency"), instituée par le Règlement (CE) N° 726/2004 du Parlement européen et du Conseil du 31 mars 2004 établissant des procédures communautaires pour l'autorisation et la surveillance en ce qui concerne les médicaments à usage humain et à usage vétérinaire et instituant une Agence européenne des médicaments;
+
+5° "AMM": une autorisation de mise sur le marché, telle que visée à l'article 5, paragraphe 1er du Règlement 2019/6;
+
+6° "Personne habilitée à délivrer des médicaments au public": le pharmacien visé à l'article 6, § 1er de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé, exerçant dans une officine pharmaceutique ouverte au public;
+
+7° "Médecin vétérinaire": la personne visée à l'article 1, 1° et à l'article 4 de la loi du 28 août 1991 sur l'exercice de la médecine vétérinaire;
+
+8° "Personne autorisée à fournir des médicaments aux responsables des animaux": un médecin vétérinaire qui fournit des médicaments aux responsables des animaux conformément à l'article 9 de la loi du 28 août 1991 sur l'exercice de la médecine vétérinaire;
+
+9° "Responsable des animaux": le propriétaire ou le détenteur qui exerce une gestion et une surveillance habituelle et directe sur les animaux, tel que visé à l'article 1, 3°, de la loi du 28 août 1991 sur l'exercice de la médecine vétérinaire;
+
+10° "Pharmacopée": un ensemble de textes normatifs portant sur les substances à usage pharmaceutique utilisées comme substances actives ou excipients pour la préparation de médicaments, ainsi que sur leurs formes pharmaceutiques et sur les méthodes d'analyse y afférentes;
+
+11° "Détaillant": une personne habilitée à délivrer des médicaments au public ou une personne autorisée à fournir des médicaments aux responsables des animaux.
+
+[<sup>1</sup> 12° "Pharmacien- titulaire": le(s) pharmacien(s) responsable(s) d'une pharmacie ouverte au public telle que visée à l'article 8 de la loi relative à l'exercice des professions de soins de santé, coordonnée le 10 mai 2015; dont l'identité est enregistrée conformément à l'article 8, alinéa 7, de la même loi;
+
+13° "numéro d'identification au Registre national": le numéro d'identification visé à l'article 2, § 3, de la loi du 8 août 1983 organisant un Registre national des personnes physiques;
+
+14° "numéro d'identification bis": le numéro d'identification visé à l'article 8, § 1er, 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale. ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-06-30/06, art. 43, 006; En vigueur : 23-07-2026&gt;
+
+### Section 3. - Autorité compétente
+
+#### Art. 5
+
+L'AFMPS est désignée comme l'autorité compétente au sens de l'article 137, paragraphe 1er du Règlement 2019/6.
+
+#### Art. 6
+
+L'AFMPS est représentée par son Administrateur général.
+
+L'Administrateur général peut déléguer ses compétences en application de la présente loi à d'autres membres du personnel de l'AFMPS, tout en indiquant la limite des compétences qui leur sont déléguées.
+
+## CHAPITRE 2. - Essais cliniques avec des médicaments vétérinaires
+
+#### Art. 7
+
+Conformément à l'article 9 du Règlement 2019/6, tout essai clinique avec un ou plusieurs médicaments vétérinaires qui est effectué sur le territoire belge, ainsi que toute modification ou prolongation d'un essai clinique déjà approuvé, est soumis à un approbation octroyée par l'AFMPS.
+
+L'approbation d'un essai clinique visé à l'alinéa 1er, est octroyée pour une période de maximum un an. Sur demande motivée du titulaire de l'approbation d'un essai clinique, cette approbation peut être prolongée pour des périodes de maximum un an chacune.
+
+Le Roi détermine le contenu et les procédures de la demande d'approbation, de modification ou de prolongation d'un essai clinique visé à l'alinéa 1er. Il détermine également les procédures d'approbation, de modification ou d'extension d'un essai clinique.
+
+Le Roi peut déterminer des conditions et des procédures concernant la fin d'un essai clinique.
+
+#### Art. 8
+
+Si les conditions et les règles visées à l'article 9 du Règlement 2019/6, en particulier les paragraphes 2 et 4, l'article 7 ou les conditions dans lesquelles l'approbation a été accordée ne sont plus remplies, l'AFMPS peut suspendre ou retirer l'approbation de l'essai clinique.
+
+Le Roi peut fixer des procédures de suspension et de retrait de l'approbation d'un essai clinique.
+
+## CHAPITRE 3. - Autorisation de mise sur le marché - dispositions générales
+
+### Section 1re. . - Autorisation de mise sur le marché
+
+#### Art. 9
+
+En application de l'article 5, paragraphe 6 du Règlement 2019/6, une AMM n'est pas exigée pour les médicaments vétérinaires destinés aux animaux qui sont exclusivement des animaux de compagnie (animaux d'aquarium ou de bassin, poissons d'ornement, oiseaux d'appartement, pigeons voyageurs, animaux de terrarium, petits rongeurs, furets et lapins), à condition que ces médicaments vétérinaires ne soient pas soumis à une ordonnance et qu'ils ne soient pas utilisés pour d'autres animaux.
+
+Les médicaments vétérinaires visés à l'alinéa 1er ne peuvent pas être prescrits, fournis, délivrés, ou administrés à des animaux autres que ceux visés à l'article 5, paragraphe 6, du Règlement 2019/6.
+
+Le Roi peut fixer des conditions qui concrétisent la condition prévue à l'article 5, paragraphe 6, du Règlement 2019/6 et qui sont destinées à empêcher l'utilisation non autorisée des médicaments concernés pour d'autres animaux. Il peut également fixer des procédures et des mesures supplémentaires pour la commercialisation des médicaments vétérinaires visés à l'alinéa 1er.
+
+Les médicaments vétérinaires qui sont exclusivement destinés aux animaux énumérés au alinéa 1er et qui contiennent une substance active mentionnée sur une liste établie par le Roi bénéficient de l'exemption visée au alinéa 1er.
+
+#### Art. 10
+
+En application de l'article 29 du Règlement 2019/6, l'AFMPS désigne un laboratoire en charge du contrôle des médicaments.
+
+#### Art. 10 DROIT FUTUR.
+
+[<sup>1</sup> Le contrôle des médicaments vétérinaires visé à l'article 29, paragraphe 1er, à l'article 123, paragraphe 6, point b), et à l'article 128, paragraphe 3, du Règlement 2019/6, est réservé aux laboratoires, titulaires d'une autorisation de fabrication visée à l'article 88, paragraphe 1er, du Règlement 2019/6, au moins en ce qui concerne la partie contrôle de qualité, ou aux laboratoires officiels pour le contrôle des médicaments désignés à cet effet par le Ministre ou son délégué. Le Roi peut préciser ce que l'autorisation doit couvrir au minimum.
+
+Le contrôle visé à l'article 128, paragraphe 3, du règlement 2019/6 est réservé aux laboratoires officiels de contrôle des médicaments désignés à. cet effet par le Ministre ou son délégué.
+
+Le Roi peut fixer les conditions et la procédure de la désignation visée aux alinéas 1er et 2.]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-30/03, art. 40, 005; En vigueur : 01-01-2030&gt;
+
+### Section 2. - Langues
+
+#### Art. 11
+
+En application de l'article 7, paragraphe 1er du Règlement 2019/6, le résumé des caractéristiques du produit établi conformément à l'article 35 du Règlement 2019/6 ainsi que l'étiquetage du conditionnement primaire, de l'emballage extérieur et la notice d'un médicament vétérinaire qui sont établis conformément aux articles 10 à 16 du Règlement 2019/6, sont rédigés dans les trois langues nationales.
+
+Cependant, lorsqu'un médicament vétérinaire est destiné à être administré uniquement par un médecin vétérinaire ou en cas de problème grave de disponibilité, l'AFMPS peut accorder une dérogation, totale ou partielle, à l'obligation visée à l'alinéa 1er.
+
+Le Roi peut déterminer des règles relatives à la procédure d'obtention d'une dérogation, totale ou partielle, à l'obligation visée à l'alinéa 2.
+
+### Section 3. - Etiquetage et notice
+
+#### Art. 12
+
+En application de l'article 10, paragraphe 3 du Règlement 2019/6, le conditionnement primaire d'un médicament vétérinaire comporte un code d'identification.
+
+Le Roi peut fixer des règles d'application des actes d'exécution de la Commission visés à l'article 17, paragraphe 1, du Règlement 2019/6.
+
+#### Art. 13
+
+En application de l'article 11, paragraphe 2 du Règlement 2019/6, l'emballage extérieur d'un médicament vétérinaire comporte un code d'identification.
+
+Le Roi peut fixer des règles d'application des actes d'exécution de la Commission visés à l'article 17, paragraphe 1, du Règlement 2019/6.
+
+#### Art. 14
+
+En application de l'article 13 du Règlement 2019/6, l'AFMPS peut, à la demande du demandeur, autoriser celui-ci à faire figurer sur le conditionnement primaire ou sur l'emballage extérieur d'un médicament vétérinaire, des informations supplémentaires utiles qui soient compatibles avec le résumé des caractéristiques et qui ne soient pas une publicité pour un médicament vétérinaire.
+
+#### Art. 15
+
+En application de l'article 14, paragraphe 3 du Règlement 2019/6, l'inclusion d'une notice sous format papier dans l'emballage de tout médicament vétérinaire qui est sur le marché est obligatoire, sauf si toutes les informations requises conformément à l'article 14, paragraphe 1er et paragraphe 2 du Règlement 2019/6 figurent sur l'emballage extérieur ou sur le conditionnement primaire.
+
+En complément de la notice sous format papier, la notice peut également être mise à disposition sous format électronique.
+
+## CHAPITRE 4. - Procédure d'autorisation de mise sur le marché
+
+### Section 1re. - Procédure nationale
+
+#### Art. 16
+
+En application de l'article 46, paragraphe 1er du Règlement 2019/6, après réception du rapport d'évaluation visé à l'article 47, paragraphe 2 du Règlement 2019/6, le demandeur peut introduire auprès de l'AFMPS une requête écrite de réexamen de ce rapport d'évaluation.
+
+Le Roi détermine des règles de procédure supplémentaires à cette fin.
+
+#### Art. 17
+
+Conformément l'article 46, paragraphe 1er du Règlement 2019/6 et sans préjudice de l'article 47 du Règlement 2019/6, le Roi peut fixer des règles concernant la procédure d'obtention d'une AMM nationale.
+
+### Section 2. - Décision d'octroi d'une AMM dans le cadre de la procédure nationale, de la procédure décentralisée, de la procédure de reconnaissance mutuelle ou de reconnaissance ultérieure
+
+#### Art. 18
+
+L'AMPS délivre au demandeur la décision d'octroi d'AMM prise en application d'une procédure visée à l'article 6, paragraphe 1er du Règlement 2019/6, sous format électronique, ou sous format papier.
+
+#### Art. 19
+
+L'AFMPS publie sur son site internet les décisions d'octroi d'une AMM qu'elle a délivrées conformément à l'article 18 de la présente loi.
+
+#### Art. 20
+
+Seules font foi les décisions d'octroi d'une AMM sous format électronique qui sont publiées sur le site internet de l'AFMPS conformément à l'article 19.
+
+Toutes les modifications apportées ultérieurement aux décisions visées à l'alinéa 1er, conformément à l'article 61, paragraphe 2 ou à l'article 67, paragraphe 1er du Règlement 2019/6, font partie intégrante de ces décisions.
+
+## CHAPITRE 5. - Modifications des autorisations de mise sur le marché
+
+#### Art. 21
+
+L'AFMPS délivre au titulaire d'AMM la décision de modification de l'AMM, tel que visé à l'article 67, paragraphe 3 du Règlement 2019/6 sous forme électronique ou sous format papier.
+
+#### Art. 22
+
+L'AFMPS publie sur son site internet les décisions de modification d'une AMM, visées à l'article 67 du Règlement 2019/6.
+
+## CHAPITRE 6. - Mesures postérieures à l'octroi d'une autorisation de mise sur le marché
+
+### Section 1re<sup>. -</sup>Collecte des données relatives aux médicaments antimicrobiens utilisés
+
+#### Art. 23
+
+En application de l'article 57, paragraphe 1er du Règlement 2019/6, l'AFMPS recueille des données pertinentes et comparables sur le volume de vente et sur l'utilisation des médicaments antimicrobiens utilisés chez l'animal, sur le territoire belge.
+
+En application de l'article 57, paragraphe 2 du Règlement 2019/6, l'AFMPS communique à l'EMA les données collectées relatives au volume des ventes et à l'utilisation, par espèce animale et par catégorie de médicaments antimicrobiens utilisés chez l'animal.
+
+Le Roi peut fixer des règles supplémentaires pour l'application de l'article 57, paragraphe 5 du Règlement 2019/6 et des actes délégués de la Commission visés à l'article 57, paragraphe 3 du Règlement 2019/6.
+
+#### Art. 23/1.
+
+[<sup>1</sup> L'AFMPS traite des données à caractère personnel pour les finalités suivantes:
+
+1° en application de l'article 57, paragraphe 1er du Règlement 2019/6 et de ses actes délégués et d'exécution, recueillir et traiter des données pertinentes et comparables relatives au volume des ventes et à l'utilisation des médicaments antimicrobiens utilisés chez l'animal sur le territoire belge, ainsi que mettre des données à dispositions du vétérinaire, ou responsable des animaux de denrées alimentaire ou à leurs mandataires;
+
+2° conformément à l'article 57, paragraphe 2, du Règlement 2019/6, l'AFMPS communique à l'EMA, selon les modalités déterminées par le Roi et sous une forme agrégée, les données collectées sur les volumes de vente et l'utilisation, par espèce et par catégorie, des médicaments antimicrobiens utilisés chez les animaux;
+
+3° analyser l'utilisation des médicaments antimicrobiens chez les animaux dans le cadre d'un benchmarking;
+
+4° la mise à disposition des données enregistrées concernant les volumes de vente et l'utilisation d'antimicrobiens au vétérinaire, au vétérinaire titulaire d'un dépôt, au pharmacien titulaire et au responsable des animaux, ou à leurs mandataires.
+
+5° mettre à disposition les rapports individuels de benchmarking au vétérinaire concerné, au responsable des animaux ou leurs mandataires et, dans la mesure où d'autres législations l'autorisent, le suivi des actions résultant de benchmarking sus-mentionné;
+
+6° contrôler l'exactitude et la qualité des données introduites et, le cas échéant, contacter le vétérinaire qui prescrit, fournit ou administre, le vétérinaire- titulaire d'un dépôt, le pharmacien-titulaire ou le responsable des animaux pour corriger les données;
+
+7° octroyer des subsides ou primes, ou fournir aux autorités ou institutions compétentes (ou les sous-traitants qu'ils ont désignés) les informations nécessaires à leur octroi et leur paiement, en fonction de l'utilisation observée d'antibiotiques;
+
+8° analyser l'utilisation des médicaments antimicrobiens chez les animaux afin de fournir des conseils et de communiquer dans le cadre de la politique nationale de lutte contre la résistance aux antimicrobiens;
+
+9° préparer des politiques et mettre en oeuvre des actions de prévention et de contrôle de la résistance aux antimicrobiens chez les animaux;
+
+10° contrôler le respect de la présente loi ainsi que de la loi du 28 août 1991 relative à l'exercice de la médecine vétérinaire et leurs arrêtés d'exécution;
+
+11° communiquer des informations sanitaires ou réglementaires aux vétérinaires et aux responsables des animaux producteurs de denrées alimentaires. ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-06-30/06, art. 44, 006; En vigueur : 23-07-2026&gt;
+
+#### Art. 23/2.
+
+[<sup>1</sup> L'AFMPS est la responsable du traitement de données visé à l'article 23/1. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 45, 006; En vigueur : 23-07-2026&gt;
+
+#### Art. 23/3.
+
+[<sup>1</sup> Les données à caractère personnel traitées dans le cadre de l'article 23/1 proviennent des déclarations, enregistrements, demandes, formulaires, rapports ou autres documents transmis à l'AFMPS dans le cadre de l'exécution des finalités visées à l'article 23/1 par les personnes visées à l'article 23/4. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 46, 006; En vigueur : 23-07-2026&gt;
+
+#### Art. 23/4.
+
+[<sup>1</sup> Les personnes concernées par le traitement visé à l'article 23/1 sont:
+
+1° les vétérinaires qui acquièrent, prescrivent, fournissent ou administrent des médicaments antimicrobiens et, le cas échéant, le vétérinaire-titulaire d'un dépôt;
+
+2° les personnes responsables des animaux producteurs de denrées alimentaires;
+
+3° les pharmaciens-titulaires qui acquièrent les médicaments vétérinaires antimicrobiens ou délivrent des médicaments antimicrobiens. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 47, 006; En vigueur : 23-07-2026&gt;
+
+#### Art. 23/5.
+
+[<sup>1</sup> § 1er. Les catégories de données à caractère personnel traitées dans le cadre du traitement visé à l'article 23/1 sont les suivantes:
+
+1° les catégories des données personnelles suivantes du médecin vétérinaire qui préscrit, délivre ou administre, et du vétérinaire titulaire d'un dépôt sont traitées:
+
+a) les données d'identité, y compris le numéro de registre national;
+
+b) les coordonnées;
+
+c) les données d'identification de l'entreprise du médecin vétérinaire;
+
+d) les données, même si elles ne sont pas des données à caractère personnel, telles que visées à l'article 23, alinéas 1er et 2, sur le volume de vente et sur l'utilisation des médicaments antimicrobiens utilisés chez l'animal, sur le territoire belge.
+
+Les catégories de données comprennent les données suivantes:
+
+a) le prénom;
+
+b) le nom de famille;
+
+c) le numéro d'inscription à l'Ordre des Médecins vétérinaires;
+
+d) l'adresse du siège social du cabinet vétérinaire, ou de la personne morale par laquelle le médecin vétérinaire exerce son activité;
+
+e) le numéro de dépôt;
+
+f) le numéro de téléphone;
+
+g) l'adresse e-mail;
+
+h) le numéro de registre national;
+
+i) le numéro d'entreprise;
+
+j) le numéro de T.V.A.;
+
+k) la quantité de médicaments antimicrobiens acquis, prescrits, fournis et administrés;
+
+l) l'espèce animale et, le cas échéant, la catégorie et le stade des animaux pour lesquels les médicaments antimicrobiens ont été prescrits ou auxquels les médicaments antimicrobiens ont été fournis ou administrés.
+
+2° les catégories suivantes des données personnels du responsable des animaux producteurs de denrées alimentaires sont traitées:
+
+a) les données d'identité, y compris le numéro de registre national;
+
+b) les coordonnées;
+
+c) les données, même si elles ne sont pas des données à caractère personnel, telles que visées à l'article 23, alinéa 1er et 2, sur le volume de vente et sur l'utilisation des médicaments antimicrobiens utilisés chez l'animal, sur le territoire belge.
+
+Les catégories de données comprennent les données suivantes:
+
+a) le prénom;
+
+b) le nom de famille;
+
+c) l'adresse physique;
+
+d) le pays;
+
+e) le numéro de téléphone;
+
+f) l'adresse e-mail;
+
+g) le numéro de registre national;
+
+h) le numéro d'entreprise;
+
+i) le numéro de T.V.A.;
+
+j) la quantité de médicaments antimicrobiens prescrits, fournis et administrés;
+
+k) l'espèce animale et, le cas échéant, la catégorie et le stade des animaux pour lesquels les médicaments antimicrobiens ont été prescrits ou auxquels les médicaments antimicrobiens ont été fournis ou administrés.
+
+3° Les catégories suivantes des données personnelles du pharmacien titulaire sont traitées:
+
+a) les données d'identité, y compris le numéro de registre national;
+
+b) les coordonnées;
+
+c) les données d'identification de la pharmacie; et
+
+d) les données, même si elles ne sont pas des données à caractère personnel, telles que visées à l'article 23, alinéa 1er et 2, sur le volume de vente et sur l'utilisation des médicaments antimicrobiens utilisés chez l'animal, sur le territoire belge.
+
+Les catégories de données comprennent les données suivantes:
+
+a) le prénom;
+
+b) le nom de famille;
+
+c) l'adresse et le numéro d'autorisation d'exploitation de la pharmacie ouverte au public et dont le pharmacien titulaire est responsable;
+
+d) le pays;
+
+e) le numéro de téléphone;
+
+f) l'adresse e-mail;
+
+g) le numéro de registre national;
+
+h) le numéro d'entreprise;
+
+i) le numéro de T.V.A.;
+
+j) la quantité de médicaments vétérinaires antimicrobiens acquis et la quantité de médicaments antimicrobiens délivrés utilisés chez les animaux; et
+
+k) l'espèce animale et, le cas échéant, la catégorie des animaux pour lesquels les médicaments antimicrobiens ont été délivrés.
+
+§ 2. Les données, visées dans paragraphe 1, sont traitées pour les finalités mentionées dans l'art. 23/1. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 48, 006; En vigueur : 23-07-2026&gt;
+
+#### Art. 23/6.
+
+[<sup>1</sup> § 1er. L'accès aux données visées à l'article 23/5 est strictement limité aux personnes suivantes, dans la mesure où cet accès est nécessaire à l'exercice de leurs missions:
+
+1° les membres du personnel statutaire ou contractuel de l'AFMPS désignés individuellement à cet effet par l'administrateur général ou le directeur général compétent;
+
+2° le Service public fédéral Santé publique, Sécurité de la chaîne alimentaire et Environnement pour les finalités suivantes:
+
+a) octroyer des subsides ou des primes, ou fournir des informations permettant de payer et d'octroyer des subsides ou des primes, en fonction de l'utilisation observée d'antibiotiques;
+
+b) analyser l'utilisation des médicaments antimicrobiens chez les animaux afin de fournir des conseils et de communiquer dans le cadre de la politique nationale de lutte contre la résistance aux antimicrobiens;
+
+c) préparer des politiques et mettre en oeuvre des actions de prévention et de contrôle de la résistance aux antimicrobiens;
+
+d) communiquer des informations sanitaires ou réglementaires aux vétérinaires et aux responsables des animaux producteurs de denrées alimentaires;
+
+e) analyser l'utilisation des médicaments antimicrobiens chez les animaux à des fins de recherche et de préparation de la politique;
+
+3° l'Agence fédérale pour la Sécurité de la chaîne alimentaire, pour exercer ses compétences en matière de législation concernant la santé animale et la sécurité de la chaîne alimentaire aux fins suivantes:
+
+a) la consultation des données des vétérinaires et des responsables d'animaux producteurs de denrées alimentaires concernant l'utilisation d'antimicrobiens chez les animaux, à des fins de recherche et de préparation des politiques;
+
+b) la consultation des données qui sont nécessaires pour mettre en oeuvre des actions en matière de prévention et de lutte contre la résistance antimicrobienne dans ses domaines de compétence;
+
+c) la consultation des données qui sont nécessaires pour effectuer des analyses dans le cadre de la recherche pour la prévention et le contrôle de la résistance antimicrobienne;
+
+4° les Régions, compétentes en matière d'agriculture et de pêche, aux fins suivantes ou les sous-traitants qui leur ont désignés:
+
+a) la consultation des données nécessaires à l'exécution des contrôles dans leurs domaines de compétence;
+
+b) la consultation des données nécessaires au paiement des subventions ou des primes;
+
+c) la consultation des données nécessaires à la mise en oeuvre d'actions de prévention et de contrôle de la résistance antimicrobienne;
+
+d) la consultation des données nécessaires à la réalisation d'analyses dans le cadre de la recherche sur la prévention et le contrôle de la résistance antimicrobienne;
+
+5° toute association ou personne morale créée dans le but de fournir des conseils dans le cadre de la politique nationale en matière de résistance aux antimicrobiens pour l'exercice de leurs compétences consultatives et qui a été désignée par le Roi conformément à l'article 23/8 comme une association ou une personne morale ayant accès aux données du traitement visé à l'article 23/5, dans le cadre des missions qui leurs sont demandées ou sous-traitées par l'AFMPS;
+
+6° les instituts de recherche, pour autant que l'accès soit nécessaire à la réalisation d'analyses dans le cadre de la recherche sur la prévention et le contrôle de la résistance antimicrobienne;
+
+7° toute association ou personne morale mandatée par le responsable des animaux producteurs de denrées alimentaires ou le vétérinaire pour transmettre les données relatives à l'utilisation des antibiotiques dans Sanitel-Med afin de respecter les obligations prévues à l'article 57, paragraphe 1er, du règlement 2019/6 et les actes délégués et d'exécution visés à l'article 23 et prévus à l'article 9, § 2, troisième à sixième alinéas, de la loi du 28 août 1991, ainsi qu'ils sont mandatées de consulter et recevoir ces données;
+
+8° chaque vétérinaire, vétérinaire-titulaire d'un dépôt, pharmacien-titulaire ou personne responsable des animaux et toute personne, physique ou morale, ainsi que les associations mandatées par elles, pour ses propres données et les rapports du benchmarking.
+
+Tout accès, toute tentative d'accès et toute opération effectuée sur les données est traçable et fait l'objet d'un enregistrement automatisé dans un journal sécurisé, contrôlé périodiquement par le délégué à la protection des données de l'AFMPS.
+
+§ 2. Les données peuvent être communiquées, sous forme agrégée, à l'EMA, conformément à l'article 57, paragraphe 2, du Règlement 2019/6.
+
+§ 3. Tout accès ou tentative d'accès aux données visées au présent article fait l'objet d'un enregistrement automatisé dans un journal d'audit sécurisé. Ce journal consigne l'identité de l'utilisateur, la date, l'heure et la nature de l'accès. Sa conservation, son contenu et ses modalités d'exploitation sont définis par un règlement interne soumis pour avis au délégué à la protection des données de l'AFMPS.
+
+§ 4. Le délégué à la protection des données de l'AFMPS contrôle périodiquement les accès aux données visées au présent article, sans préjudice des autres missions qui lui sont confiées en vertu du règlement (UE) 2016/679. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 49, 006; En vigueur : 23-07-2026&gt;
+
+#### Art. 23/7.
+
+[<sup>1</sup> § 1er. Les données des traitements visés à l'article 23/1 sont conservées pour les durées suivantes:
+
+1° les données traitées qui concernent les vétérinaires sont conservées pour une durée maximale de dix années consécutives à compter de leur enregistrement;
+
+2° les données traitées qui concernent les pharmaciens-titulaires sont conservées pour une durée maximale de dix années consécutives à compter de leur enregistrement;
+
+3° les données traitées qui concernent les responsables des animaux producteurs de denrées alimentaires sont conservées pour une durée maximale de dix années consécutives à compter de leur enregistrement.
+
+§ 2. Les journaux techniques, les données d'authentification et les traces de connexion sont conservés pour une durée maximale de cinq ans.
+
+§ 3. A l'issue des délais prévus aux paragraphes 1 et 2, les données sont supprimées ou rendues anonymes, sauf si leur conservation ultérieure est nécessaire pour des finalités de recherche scientifique ou statistique, ou pour la constatation, l'exercice ou la défense de droits en justice.
+
+§ 4. L'AFMPS adopte un règlement interne, soumis pour avis à son délégué à la protection des données, précisant les modalités d'effacement ou d'anonymisation des données à l'expiration des délais ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 50, 006; En vigueur : 23-07-2026&gt;
+
+#### Art. 23/8.
+
+[<sup>1</sup> § 1er. Les traitements visés à l'article 23/1 sont mis en oeuvre suivant des mesures techniques et organisationnelles destinées à garantir la sécurité, la fiabilité et la traçabilité des traitements et des opérations informatiques suivantes:
+
+1° l'authentification, via les applications informatiques mises à disposition par l'AFMPS, des personnes physiques qui doivent accéder à ces applications ou s'y connecter dans le cadre de la réalisation des finalités visées à l'article 23/1;
+
+2° assurer la traçabilité des opérations effectuées par les personnes physiques qui se sont authentifiées dans les applications informatiques mises à disposition par l'AFMPS dans le cadre des finalités visées à l'article 23/1;
+
+3° consulter et intégrer, dans les systèmes de l'AFMPS, des données à caractère personnel issues de la Banque-Carrefour des Entreprises, à des fins de vérification, de mise à jour ou d'enregistrement des informations relatives aux personnes physiques visées à l'article 23/4, y compris l'accès aux données non publiques relatives à ces personnes physiques.
+
+Ces mesures techniques et organisationnelles s'appliquent aux personnes physiques visées à l'article 23/4 qui doivent s'authentifier pour accéder aux applications mises à disposition par l'AFMPS dans le cadre de l'exécution des finalités prévues à l'article 23/1.
+
+§ 2. Dans le cadre des mesures visées au paragraphe 1er, les catégories de données à caractère personnel traitées sont les suivantes:
+
+1° les données d'identification des personnes physiques qui s'authentifient via les applications de l'AFMPS, y compris, le cas échéant, leur numéro d'identification au Registre national ou leur numéro d'identification bis;
+
+2° les données relatives aux opérations effectuées par les personnes authentifiées, incluant des identifiants utilisateurs pseudonymisés dérivés du numéro d'identification au Registre national ou du numéro d'identification bis, les horodatages et la nature des actions réalisées;
+
+3° les données à caractère personnel issues de la Banque-Carrefour des Entreprises concernant les pharmaciens-titulaires, les vétérinaires, les vétérinaires titulaires d'un dépôt et les responsables des animaux de denrées alimentaires concernés, telles que le nom, le prénom, la fonction, l'adresse et autres données pertinentes.
+
+§ 3. Le traitement des numéros d'identification au Registre national et des numéros d'identification bis par les agents de l'AFMPS est effectué exclusivement sous forme pseudonymisée, sauf dans les cas visés au paragraphe 4.
+
+Les pseudonymes sont générés par les agents désignés par l'AFMPS ou les sous-traitants techniques agissant pour le compte de l'AFMPS. Seuls ces agents et/ou les sous-traitants ont accès aux numéros d'identification en clair, et uniquement dans le cadre strict de la procédure de pseudonymisation. En aucun cas ces numéros en clair ne sont accessibles à d'autres que les agents de l'AFMPS désignés à cet effet ou à d'autres personnes ou instances.
+
+§ 4. Par dérogation au paragraphe 3:
+
+1° le traitement du numéro d'identification bis tel que visé à l'article 8, § 1er, 2°, de la loi du 15 janvier 1990 portant création et organisation d'une Banque-carrefour de la sécurité sociale peut être effectué sous forme non pseudonymisée lorsqu'il est nécessaire à la génération, à l'attribution ou à la gestion de ce numéro, y compris pour la détection et la résolution de doublons. Ces numéros restent invisibles par défaut dans les interfaces utilisées par les agents de l'AFMPS et ne deviennent accessibles que lorsque cela est requis pour traiter un incident relatif à ces numéros ou si c'est nécessaire à l`exécution des tâches;
+
+2° le traitement du numéro d'identification au Registre national, du numéro d'identification bis ou de tout autre identifiant unique peut être effectué sous forme non pseudonymisée lorsqu'il est nécessaire à la gestion d'une demande de support technique impliquant l'identification précise d'un utilisateur. Ces numéros restent invisibles par défaut dans les interfaces utilisées par les agents de l'AFMPS et ne deviennent accessibles que lorsque cela est nécessaire pour traiter un incident ou une demande ou si c'est nécessaire à l`exécution des tâches;
+
+3° le traitement du numéro d'identification au Registre national ou du numéro d'identification bis à des fins statistiques internes peut être effectué sous forme non pseudonymisée, tout en demeurant invisible pour les utilisateurs de l'AFMPS dans les interfaces d'analyse. Ces numéros servent uniquement de clés techniques cachées assurant la cohérence et l'unicité des données traitées. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 51, 006; En vigueur : 23-07-2026&gt;
+
+#### Art. 23/8/1.
+
+[<sup>1</sup> Le Roi peut préciser plus en détails les mesures techniques et organisationnelles que l'AFMPS doit mettre en oeuvre afin d'assurer la sécurité du traitement visé à l'article 23/1, ainsi que pour prévenir tout accès, transfert ou usage illicite ou abusif des données qu'il contient.
+
+Il peut notamment préciser plus en détails:
+
+1° les catégories de données à caractère personnel traitées visées à l'article 23/5;
+
+2° les modalités de la communication visée à l'article 23/1, 2°, a);
+
+3° les modalités techniques de pseudonymisation visées à l'article 23/8, § 3;
+
+4° les mesures techniques et les modalités organisationnelles garantissant le respect des délais de conservation définis à l'article 23/7;
+
+5° les règles relatives à la gestion des accès aux données, en ce compris les exigences applicables en matière de journalisation, d'habilitation, de vérification d'identité, de contrôle d'accès et de traçabilité;
+
+6° les modalités de contrôle exercées par le délégué à la protection des données sur les accès aux traitements concernés;
+
+7° les modalités spécifiques encadrant l'accès des associations ou personnes morales visées à l'article 23/6, § 1er, 5°, autorisées à accéder aux données visées à l'article 23/5, dans le cadre des missions confiées ou sous-traitées par l'AFMPS, sans pouvoir modifier la liste des destinataires, les catégories de données ou les finalités prévues par la loi;
+
+8° modalités et délais spécifiques concernant le début de la collecte des données et les modalités de transmission, même rétroactive, conformément aux délais prévus à l'article 15 du règlement délégué (UE) 2021/578. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 52, 006; En vigueur : 23-07-2026&gt;
+
+#### Art. 23/9.
+
+[<sup>1</sup> Les vétérinaires, les pharmaciens-titulaires et les responsables d'animaux sont tenus de télécharger correctement les données visées à l'article 23/5, ainsi que les données relatives à l' acquisition, la prescription, la fourniture, l'administration, la délivrance ou à l'utilisation de produits antimicrobiens visées à l'article 57 du règlement 2019/6, ainsi que ses actes délégués ou d'exécution, et comme mentionné dans l'article 9, § 2, alinéa 3, de la loi du 28 août 1991 sur l'exercice de la médecine vétérinaire, dans la plateforme mise à disposition par l'AFMPS à cet effet.
+
+Le Roi peut préciser plus en détails les règles concernant les catégories de personnes physiques et les catégories d'espèces animales visées au premier alinéa.
+
+L'AFMPS peut traiter les données visées au présent article par le biais des banques de données visées à l'article 17/1 de la loi du 24 mars 1987 relative à la santé animale et à l'article 4/1 de la loi du 28 août 1991 relative à l'exercice de la médecine vétérinaire et ce, en reliant les bases de données ou en intégrant les bases de données sur une plateforme. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 53, 006; En vigueur : 23-07-2026&gt;
+
+### Section 2. - Services de conseil aux petites et moyennes entreprises
+
+#### Art. 24
+
+En application de l'article 59 du Règlement 2019/6, l'AFMPS conseille les petites et moyennes entreprises sur la conformité aux exigences du Règlement 2019/6, de la présente loi et ses arrêtés d'exécution.
+
+Le Roi peut fixer des règles supplémentaires pour l'application de cet article.
+
+## CHAPITRE 7. - Pharmacovigilance
+
+#### Art. 25
+
+En application de l'article 79, paragraphe 2 du Règlement 2019/6, l'AFMPS peut imposer aux médecins vétérinaires et aux personnes habilitées à délivrer des médicaments au public, des obligations particulières en matière de notification des effets indésirables présumés.
+
+Le Roi peut fixer des mesures supplémentaires pour l'application du présent article.
+
+## CHAPITRE 8. - Fabrication, importation, exportation et préparation
+
+### Section 1re. - Autorisation de fabrication
+
+#### Art. 26
+
+En application de l'article 88, paragraphe 2 du Règlement 2019/6, une autorisation de fabrication n'est pas exigée pour les préparations magistrales et officinales, les divisions et les changements de conditionnement ou de présentation de médicaments vétérinaires, lorsque ces opérations sont exécutées dans une officine pharmaceutique, uniquement en vue de la délivrance par une personne habilitée à délivrer des médicaments au public, de petites quantités de médicaments au responsable des animaux.
+
+Le Roi peut déterminer des conditions supplémentaires et des mesures supplémentaires concernant les opérations visées à l'alinéa 1er.
+
+#### Art. 27
+
+La personne habilitée à délivrer des médicaments au public peut déléguer les opérations visées à l'article 26 de la présente loi, soit à une autre personne habilitée à délivrer des médicaments au public soit à une personne établie dans un autre Etat membre qui est légalement autorisée dans cet Etat membre à effectuer de telles opérations. Cette délégation ne peut avoir lieu que sur la base d'une ordonnance individuelle d'un médecin vétérinaire ou d'une demande, signée et datée par un médecin vétérinaire, pour un groupe d'animaux, rédigée à partir d'ordonnances individuelles.
+
+Le Roi peut déterminer des conditions supplémentaires et des mesures supplémentaires concernant la délégation, visée à l'alinéa 1er.
+
+#### Art. 28
+
+En application de l'article 88, paragraphe 2 du Règlement 2019/6, une autorisation de fabrication n'est pas exigée pour les divisions et les changements de conditionnement ou de présentation de médicaments vétérinaires, lorsque ces opérations sont exécutées uniquement en vue de la fourniture, par une personne autorisée à fournir des médicaments aux responsables des animaux, de petites quantités de médicaments au responsable des animaux.
+
+Le Roi peut prévoir des conditions supplémentaires et des mesures supplémentaires concernant les opérations visées à l'alinéa 1er.
+
+#### Art. 29
+
+En application de l'article 90, paragraphe 4 du Règlement 2019/6, le Roi fixe les procédures d'octroi, de refus d'octroi, de suspension, de retrait ou de modification d'une autorisation de fabrication visée à l'article 88 du Règlement 2019/6.
+
+#### Art. 29/1.
+
+[<sup>1</sup> Le Roi peut fixer que l'AFMPS établit et applique un système de qualité lors des inspections relatives au respect des bonnes pratiques de fabrication de médicaments vétérinaires. Le Roi peut fixer les modalités en la matière. Le Roi peut déterminer le contenu et les exigences minimales de ce système de qualité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/03, art. 41, 005; En vigueur : 14-06-2026&gt;
+
+### Section 2. - Personne qualifiée
+
+#### Art. 30
+
+En application de l'article 97, paragraphe 5 du Règlement 2019/6, le Roi peut établir des procédures administratives permettant à l'AFMPS de vérifier que la personne qualifiée visée à l'article 97, paragraphe 1er du Règlement 2019/6, satisfait aux conditions visées à l'article 97, paragraphe 2 et paragraphe 3 du Règlement 2019/6.
+
+## CHAPITRE 9. - Distribution en gros et vente au détail de médicaments vétérinaires
+
+### Section 1re<sup>. -</sup>Distribution en gros de médicaments vétérinaires
+
+#### Art. 31
+
+En application de l'article 99, paragraphe 4 du Règlement 2019/6, une autorisation de distribution en gros n'est pas exigée pour la fourniture de petites quantités de médicaments vétérinaires par une personne habilitée à délivrer des médicaments au public à une personne autorisée à fournir des médicaments aux responsables des animaux.
+
+De même, une autorisation de distribution n'est pas exigée pour la fourniture de petites quantités de médicaments vétérinaires par une personne autorisée à fournir des médicaments aux responsables des animaux à une autre personne autorisée à fournir des médicaments aux responsables des animaux.
+
+Le Roi peut fixer des conditions concernant les petites quantités visées aux alinéas 2 et 3.
+
+#### Art. 32
+
+En application de l'article 100, paragraphe 2, point a) du Règlement le Roi peut déterminer les conditions relatives à la formation et à l'expérience requises de la personne responsable.
+
+#### Art. 33
+
+En application de l'article 100, paragraphe 3 du Règlement 2019/6, le Roi fixe les procédures d'octroi, de refus, de suspension, de retrait ou de modification d'une autorisation de distribution en gros.
+
+#### Art. 33/1 DROIT FUTUR.
+
+[<sup>1</sup> Conformément à l'article 101, paragraphe 2, du Règlement 2019/6, le distributeur en gros ne peut fournir des médicaments vétérinaires autorisés pour la fabrication d'aliments médicamenteux pour animaux qu'aux fabricants d'aliments médicamenteux pour animaux agréés conformément aux dispositions de l'article 3bis, alinéa 1er, de l'arrêté royal du 22 février 2001 organisant les contrôles de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire et modifiant diverses dispositions légales, confirmé par la loi du 19 juillet 2001 portant confirmation et modification de l'arrêté royal du 22 février 2001 organisant les contrôles effectués par l'Agence fédérale pour la Sécurité de la Chaîne alimentaire et modifiant diverses dispositions légales et portant confirmation de l'arrêté royal du 22 février 2001 relatif au financement de l'Agence fédérale pour la sécurité de la chaîne alimentaire, et les arrêtés d'exécution. Le fabricant agréé d'aliments médicamenteux pour animaux ne doit pas détenir d'autorisation de distribution en gros]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-30/03, art. 42, 005; En vigueur : 01-01-2030&gt;
+
+#### Art. 33/2 DROIT FUTUR.
+
+[<sup>1</sup> Conformément à l'article 101, paragraphe 2, du Règlement 2019/6, le Roi peut habiliter des distributeurs en gros à fournir des médicaments vétérinaires qui ne sont pas soumis à prescription et qui, en raison de leurs caractéristiques, ne prêtent pas à suivre exclusivement le circuit de distribution pharmaceutique normal.
+
+Le Roi fixe les conditions et modalités de cette habilitation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/03, art. 43, 005; En vigueur : 01-01-2030&gt;
+
+### Section 2. - Commerce parallèle de médicaments vétérinaires
+
+#### Art. 34
+
+En application de l'article 102, paragraphe 3 du Règlement 2019/6, le Roi fixe les procédures d'octroi, de refus, de suspension, de retrait ou de modification d'une autorisation de commerce parallèle de médicaments vétérinaires.
+
+#### Art. 34/1
+
+[<sup>1</sup> Conformément l'article 102, paragraphe 6, du règlement 2019/6, le Roi peut, pour des raisons de santé publique ou animale, fixer des conditions supplémentaires que doit remplir le distributeur en gros qui fait du commerce parallèle des médicaments vétérinaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-11/12, art. 78, 002; En vigueur : 08-09-2023&gt;
+
+### Section 3. - Vente au détail des médicaments vétérinaires
+
+#### Art. 35
+
+§ 1er. En application de l'article 103, paragraphe 1er, du Règlement 2019/6, le Roi peut obliger les personnes autorisées à délivrer des médicaments au public à disposer à tout moment d'une certaine quantité de médicaments vétérinaires, déterminés par Lui, dans l'officine.
+
+§ 2. En application de l'article 103, paragraphe 1er, du Règlement 2019/6, le Roi peut déterminer des conditions et des modalités concernant l'achat, la réception, la conservation et la délivrance des médicaments vétérinaires par une personne autorisée à délivrer des médicaments au public.
+
+Le Roi peut également fixer des règles concernant les tâches administratives à accomplir par la personne visée à l'alinéa 1er et les données administratives à conserver dans le cadre des activités visées à l'alinéa 1er.
+
+#### Art. 36
+
+En application de l'article 103, paragraphe 1er du Règlement 2019/6, tout médicament vétérinaire est délivré ou fourni personnellement au responsable des animaux ou à son mandataire.
+
+Le Roi peut prévoir des conditions et des mesures supplémentaires concernant la délivrance et la fourniture d'un médicament vétérinaire au responsable des animaux ou à son mandataire.
+
+#### Art. 37
+
+En application de l'article 103, paragraphe 1er du Règlement 2019/6, la qualité de personne habilitée à délivrer des médicaments au public ou de personne habilitée à fournir des médicaments aux responsables des animaux est incompatible avec celle de distributeur.
+
+#### Art. 38
+
+En application de l'article 103, paragraphe 4 du Règlement 2019/6, les personnes autorisées à fournir des médicaments aux responsables des animaux tiennent un registre détaillé dans lequel ils consignent, pour chaque transaction portant sur des médicaments vétérinaires non soumis à une ordonnance, au moins les informations visées à l'article 103, paragraphe 3 du Règlement 2019/6.
+
+#### Art. 39
+
+En application de l'article 103, paragraphe 6 du Règlement 2019/6, le Roi peut imposer des conditions justifiées pour des motifs de protection de la santé publique et animale ou de l'environnement, pour la vente au détail de médicaments vétérinaires.
+
+### Section 4. - Vente de médicaments vétérinaires au détail à distance
+
+#### Art. 40
+
+§ 1er. Des personnes habilitées à délivrer des médicaments au public sont autorisées à offrir en vente à distance des médicaments vétérinaires non soumis à une ordonnance conformément à l'article 104, paragraphe 1er du Règlement 2019/6.
+
+Sans préjudice des articles 9, paragraphe 1er et 10, paragraphe 1er de la loi du 28 août 1991 sur l'exercice de la médecine vétérinaire, les personnes autorisées à fournir des médicaments aux responsables des animaux peuvent offrir en vente à distance des médicaments vétérinaires non soumis à une ordonnance conformément à l'article 104, paragraphe 1er du Règlement 2019/6 pour les animaux qu'il traite et pour une durée maximale de traitement d'un an.
+
+§ 2. L'AFMPS met en place un site web pour la vente à distance de médicaments vétérinaires, tel que visé à l'article 104, paragraphe 8 du Règlement 2019/6.
+
+[<sup>1</sup> § 3. Le Roi peut déterminer des conditions supplémentaires et des mesures supplémentaires concernant la vente au détail de médicaments vétérinaires à distance, conformément à l'article 104, paragraphe 10 du Règlement 2019/6.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-30/03, art. 44, 005; En vigueur : 14-06-2026&gt;
+
+### Section 5. - Ordonnance vétérinaire
+
+#### Art. 41
+
+En application de l'article 105, paragraphe 11 du Règlement 2019/6, le Roi peut fixer des règles relatives à la tenue des registres des ordonnances vétérinaires délivrées par les médecins vétérinaires.
+
+[<sup>1</sup> Conformément à l'article 105, paragraphe 5, phrase introductive, du Règlement 2019/6, le Roi peut déterminer des éléments supplémentaires qu'un vétérinaire prescripteur établi en Belgique doit reprendre dans l'ordonnance vétérinaire.
+
+Conformément à l'article 105, paragraphe 12, du Règlement 2019/6, le Roi peut décider qu'un médicament vétérinaire classé comme soumis à ordonnance vétérinaire mais qui est administré par le vétérinaire lui-même, nécessite tout de même une ordonnance vétérinaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-30/03, art. 45, 005; En vigueur : 14-06-2026&gt;
+
+## CHAPITRE 10. - Utilisation des médicaments vétérinaires
+
+#### Art. 42
+
+§ 1. En application de l'article 106, paragraphe 3 du Règlement 2019/6, le Roi peut établir des procédures concernant l'interdiction de la fabrication, de l'importation, de la distribution, de la détention, de la vente, de la délivrance ou de l'utilisation de médicaments vétérinaire immunologiques, tel que visé à l'article 110, paragraphe 1, du Règlement 2019/6 et l'article 45.
+
+§ 2. En application de l'article 106, paragraphe 3, du Règlement 2019/6, le Roi peut fixer des procédures pour la mise en oeuvre des articles 111 à 114 et 116 du Règlement 2019/6.
+
+#### Art. 43
+
+En application de l'article 106, paragraphe 4 du Règlement 2019/6, le Roi peut déterminer les cas dans lesquels un médicament vétérinaire ne peut être administré que par un médecin vétérinaire en raison de sa nature particulière ou des risques associés pour l'homme ou l'animal.
+
+#### Art. 44
+
+En application de l'article 107, paragraphe 7 du Règlement 2019/6, le Roi peut, sur proposition du ministre de la Santé publique et du ministre de l'Agriculture, restreindre ou interdire l'utilisation de certains antimicrobiens chez les animaux si l'administration de tels antimicrobiens chez les animaux est contraire à la mise en oeuvre d'une politique nationale d'utilisation prudente des antimicrobiens.
+
+#### Art. 45
+
+En application de l'article 108, paragraphe 4 du Règlement 2019/6, le Roi peut établir des exigences supplémentaires pour la tenue d'un registre par le responsable des animaux producteurs de denrées alimentaires.
+
+#### Art. 46
+
+En application de l'article 110, paragraphe 1, l'AFMPS peut interdire la fabrication, l'importation, la distribution, la détention, la vente, la délivrance, la fourniture ou l'utilisation de médicaments vétérinaires immunologiques.
+
+Le Roi peut établir d'autres règles d'application du présent article.
+
+## CHAPITRE 11. - Publicité
+
+#### Art. 47
+
+Les médicament vétérinaires contenant des substances psychotropes ou stupéfiantes ne peuvent pas être distribués sous forme d'échantillons tels que visés à l'article 119, paragraphe 8 du Règlement 2019/6.
+
+#### Art. 47/1
+
+[<sup>1</sup> En exécution de l'article 122, combiné avec l'article 119, paragraphes 1er à 7, du règlement 2019/6, la publicité pour les médicaments vétérinaires qui ne nécessitent pas de prescription vétérinaire et qui est destinée au public, est soumise à une notification préalable à l'AFMPS.
+
+Le Roi peut déterminer la procédure et les délais pour la notification visée à l'alinéa 1er. Il peut également déterminer le contenu et la forme de la notification ainsi que la manière dont elle doit être réalisée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-11/12, art. 79, 002; En vigueur : 08-09-2023&gt;
+
+#### Art. 47/2
+
+[<sup>1</sup> En exécution de l'article 122 du règlement 2019/6, le Roi peut déterminer des procédures pour la conservation de toutes les publicités diffusées pour des médicaments vétérinaires, visées à l'article 119, paragraphes 1er à 7 et 120, paragraphe 1er, du règlement 2019/6, ainsi que les données et la documentation à conserver.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-11/12, art. 80, 002; En vigueur : 08-09-2023&gt;
+
+#### Art. 47/3
+
+[<sup>1</sup> En exécution de l'article 122 du règlement 2019/6, le Roi peut déterminer les procédures de demande, d'offre, de fourniture et de réception d'échantillons de médicaments vétérinaires, tels que visés à l'article 119, paragraphes 8 à 10, du règlement 2019/6, ainsi que les données et la documentation à conserver par la personne qui fournit ou reçoit ces échantillons. Il peut également imposer que la personne qui fournit les échantillons de médicaments vétérinaires et celle qui reçoit les échantillons de médicaments vétérinaires fournit un rapport annuel de ces données et la documentation qui y est liée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-11/12, art. 81, 002; En vigueur : 08-09-2023&gt;
+
+#### Art. 47/4
+
+[<sup>1</sup> En exécution de l'article 122 du règlement 2019/6, le Roi peut fixer des procédures d'enregistrement et de conservation des données et de la documentation relatives à toutes les primes et avantages accordés, offerts et promis visés à l'article 121, paragraphe 1 et 3, du règlement 2019/6, dans le chef de la personne qui octroie, offre ou promet lesdites primes et avantages ou de la personne qui les reçoit.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-11/12, art. 82, 002; En vigueur : 08-09-2023&gt;
+
+#### Art. 47/5
+
+[<sup>1</sup> § 1er. En exécution de l'article 122 du règlement 2019/6, pour chaque événement, visé à l'article 121, paragraphe 3, du règlement 2019/6, qui se déroule sur plusieurs jours calendrier consécutifs, y compris l'hospitalité qui y est liée, une approbation préalable, appelée "visa", doit être obtenue auprès du ministre ou de son délégué. A cet effet, la personne qui organise la réunion introduit une demande auprès de l'AFMPS ou de l'institution reconnue par le Roi.
+
+Un événement, visé à l'alinéa 1er, est considéré se dérouler sur plusieurs jours calendrier consécutifs dès lors qu'une nuitée est nécessaire pour participer à l'intégralité de l'événement.
+
+Si les conditions visées à l'article 121, paragraphe 3, du règlement 2019/6 ne sont pas remplies, le visa est refusé.
+
+Si le visa n'est pas obtenu, l'hospitalité visée à l'article 121, paragraphe 3, du règlement 2019/6 ne peut être offerte aux personnes qui sont habilitées à prescrire ou délivrer des médicaments vétérinaires, visées à l'article 121, paragraphe 1er, du règlement 2019/6.
+
+Chaque demande de visa est soumise au paiement d'une redevance par le demandeur du visa. Le Roi en détermine le montant.
+
+Le Roi détermine les conditions dans lesquelles la procédure préalable de visa peut être assurée par d'autres institutions reconnues par Lui. Ces institutions ont la forme juridique d'une ASBL et ont pour objet statutaire de veiller à la déontologie et à la légalité des manifestations scientifiques. Ces institutions peuvent réclamer à leur profit la redevance visée au alinéa 5.
+
+§ 2. En exécution de l'article 122 du règlement 2019/6, le Roi peut, pour chaque événement autre que celui visé au paragraphe 1er, fixer des procédures d'enregistrement des données de cet événement et de tout ce qui est offert, y compris l'hospitalité. Le Roi peut également imposer de rapporter ces données et la documentation à fournir qui y est liée. Il détermine la fréquence de ces rapports.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-11/12, art. 83, 002; En vigueur : 08-09-2023&gt;
+
+## CHAPITRE 12. - Mesures de restriction
+
+#### Art. 48
+
+En application de l'article 130, paragraphe 5 du Règlement 2019/6, le Roi détermine les procédures relatives à la suspension, au retrait ou à la modification des termes d'une AMM.
+
+## CHAPITRE 13. - Des substances visées à l'article 2, paragraphe 6, a), du Règlement 2019/6, les préparations magistrales et officinales
+
+#### Art. 49
+
+Par dérogation à l'article 3 et sans préjudice du chapitre VII du Règlement 2019/6, le présent chapitre s'applique:
+
+1° aux substances, visées à l'article 2, paragraphe 6, a), du Règlement 2019/6;
+
+2° aux préparations magistrales, visées à l'article 2, paragraphe 6, b), du Règlement 2019/6;
+
+3° aux préparations officinales, visées à l'article 2, paragraphe 6, c), du Règlement 2019/6.
+
+#### Art. 50
+
+§ 1er. [<sup>1</sup> Les préparations magistrales et officinales sont conformes à la Pharmacopée européenne.
+
+Par dérogation à l'alinéa 1er, dans les cas et sous les conditions qu'Il fixe, le Roi peut imposer la référence à une pharmacopée officielle correspondant à l'état actuel des connaissances, au Formulaire Thérapeutique Magistral ou à une monographie.]<sup>1</sup>
+
+Le Roi peut déterminer la documentation, le matériel, les appareils ou les instruments nécessaires à ces préparations qui doivent être présents dans la pharmacie. Il peut également imposer à une personne autorisée à délivrer des médicaments au public de disposer dans l'officine de la documentation, du matériel, des appareils et des instruments qu'il détermine.
+
+§ 2. En ce qui concerne les préparations magistrales et officinales, le Roi peut fixer des règles concernant la conservation, la préparation, la réception et la délivrance de ces préparations par une personne autorisée à délivrer des médicaments au public.
+
+Le Roi peut également fixer des règles concernant les tâches administratives à accomplir par la personne autorisée à délivrer des médicaments au public et les données administratifs à tenir dans le cadre des activités visées à l'alinéa 1er.
+
+----------
+
+(1)&lt;L 2023-07-11/12, art. 84, 002; En vigueur : 08-09-2023&gt;
+
+#### Art. 50 DROIT FUTUR.
+
+§ 1er. [<sup>1</sup> Les préparations magistrales et officinales sont conformes à la Pharmacopée européenne.
+
+Par dérogation à l'alinéa 1er, dans les cas et sous les conditions qu'Il fixe, le Roi peut imposer la référence à une pharmacopée officielle correspondant à l'état actuel des connaissances [<sup>2</sup> ...]<sup>2</sup> ou à une monographie.]<sup>1</sup>
+
+Le Roi peut déterminer la documentation, le matériel, les appareils ou les instruments nécessaires à ces préparations qui doivent être présents dans la pharmacie. Il peut également imposer à une personne autorisée à délivrer des médicaments au public de disposer dans l'officine de la documentation, du matériel, des appareils et des instruments qu'il détermine.
+
+§ 2. En ce qui concerne les préparations magistrales et officinales, le Roi peut fixer des règles concernant la conservation, la préparation, la réception et la délivrance de ces préparations par une personne autorisée à délivrer des médicaments au public.
+
+Le Roi peut également fixer des règles concernant les tâches administratives à accomplir par la personne autorisée à délivrer des médicaments au public et les données administratifs à tenir dans le cadre des activités visées à l'alinéa 1er.
+
+----------
+
+(1)&lt;L 2023-07-11/12, art. 84, 002; En vigueur : 08-09-2023&gt;
+
+(2)&lt;L 2026-05-30/03, art. 46, 005; En vigueur : 01-01-2030&gt;
+
+## CHAPITRE 14. - Inspections, contrôles et sanctions
+
+### Section 1re<sup>. -</sup>Inspections et contrôles
+
+#### Art. 51
+
+Le Roi désigne parmi les membres du personnel statutaire ou, à défaut, les membres du personnel contractuel engagés par un contrat de travail à durée indéterminée, de l'AFMPS, les personnes chargées de surveiller l'application du Règlement 2019/6, de la présente loi et de ses arrêtés d'exécution.
+
+Le Roi peut également, par un arrêté délibéré en Conseil des ministres, désigner des membres du personnel statutaire ou, à défaut, des membres du personnel contractuel engagés par un contrat de travail à durée indéterminée, d'autres services publics fédéraux.
+
+Les membres du personnel statutaire et contractuel visés aux premier et deuxième paragraphes du présent article sont communément appelés "les inspecteurs" pour l'application de la présente loi.
+
+#### Art. 52
+
+Les membres du personnel statutaires ou contractuels visés à l'article 51, ne peuvent avoir un intérêt quelconque, direct ou indirect, auprès des personnes qu'ils sont chargés de contrôler conformément à l'article 123, paragraphe 1er du Règlement 2019/6.
+
+Le Roi peut établir des procédures et des règles supplémentaires visant à garantir que les membres du personnel statutaires et contractuels visés à l'article 51 ne se trouvent pas en situation de conflit d'intérêts.
+
+#### Art. 53
+
+Préalablement à l'exercice de leurs fonctions, les membres du personnel statutaires et contractuels visés à l'article 51, alinéa 1er prêtent serment entre les mains du ministre ou de l'Administrateur général de l'AFMPS.
+
+Préalablement à l'exercice de leurs fonctions de surveillance en raison du Règlement 2019/6, de la présente loi et ses arrêtés d'exécution, les personnes visées à l'article 51, alinéa 2, ont prêté le serment entre les mains du ministre ou de son représentant dont elles relèvent.
+
+#### Art. 54
+
+Les membres du personnel statutaires et contractuels visés à l'article 51 sont les représentants de l'AFMPS au sens de l'article 123 du Règlement 2019/6.
+
+#### Art. 55
+
+§ 1er. Sans préjudice des compétences des officiers de police judiciaire, les membres du personnel statutaires et contractuels visés à l'article 51 effectuent, dans l'exercice de leur mission de surveillance visée à l'article 51, les contrôles et les inspections nécessaires, sur présentation des pièces justificatives de leurs fonctions.
+
+A cette fin, outre les compétences visées à l'article 123 et 126 du Règlement 2019/6, les membres du personnel statutaires et contractuels visés à l'article 51, peuvent:
+
+1° accéder, entre 5 heures et 21 heures dans tous les locaux des personnes visées à l'article 123, paragraphe 1er du Règlement 2019/6 et des personnes qui exécutent des tâches requises en vertu du Règlement 2019/6, de la présente loi ou de ses arrêtés d'exécution, avec, pour ou pour le compte des personnes visées à l'article 123, paragraphe 1er du Règlement 2019/6, dans tous les autres lieux où des médicaments vétérinaires sont vendus, cédés à titre onéreux ou non, fabriqués, préparés, conservés ou entreposés, et plus généralement, dans tous les lieux dans lesquels ils peuvent avoir un motif raisonnable de supposer qu'il existe des infractions aux dispositions des législations dont ils exercent la surveillance en vertu de l'article 51; en dehors de ces heures, ils ne peuvent pénétrer dans les lieux et précités qu'avec l'autorisation préalable du tribunal de police; si les lieux ou locaux précités sont habités, ils ne peuvent y pénétrer qu'avec l'autorisation préalable du tribunal de police;
+
+2° procéder à tout examen, contrôle et audition, ainsi que recueillir toutes les informations qu'ils estiment nécessaires pour s'assurer que les dispositions des législations dont ils exercent la surveillance en vertu de l'article 51 de la présente loi sont effectivement respectées, et notamment:
+
+a) interroger toute personne dont ils estiment l'audition nécessaire, sur tout fait dont la connaissance est utile à l'exercice de cette surveillance;
+
+b) prendre l'identité de toute personne dont ils estiment l'audition nécessaire pour l'exercice de cette surveillance, et à cet effet, exiger des personnes la présentation de documents officiels d'identification ou rechercher l'identité de ces personnes par d'autres moyens, y compris en faisant des photos et des prises de vues par film et vidéo;
+
+c) se faire produire, sans déplacement, pour en prendre connaissance, tous les livres, registres, documents, disques, bandes ou n'importe quels autres supports d'information contenant des données dont l'établissement, la tenue ou la conservation sont prescrits par les législations dont ils exercent la surveillance en vertu de l'article 48 de la présente loi, ainsi que tous les autres livres, registres, documents, disques, bandes ou n'importe quels autres supports d'information qu'ils jugent nécessaires à l'exercice de leur mission, et en prendre des extraits, des duplicata, des impressions, des listages, des copies ou des photocopies, ou se faire fournir ceux-ci sans frais, ou même saisir n'importe quels supports d'information visés par le présent litera contre récépissé;
+
+d) saisir contre récépissé ou mettre sous scellés d'autres biens mobiliers que ceux visés au literas c, en ce compris les biens mobiliers qui sont immeubles par incorporation ou par destination, que le contrevenant en soit propriétaire ou pas, qui sont soumis à leur contrôle ou par lesquels des infractions aux législations dont ils exercent la surveillance en vertu de l'article 51 de la présente loi peuvent être constatées, lorsque cela est nécessaire à l'établissement de la preuve de ces infractions, lorsque cela peut permettre de déceler les coauteurs ou les complices de l'infraction ou lorsque le danger existe qu'avec ces biens, les infractions persistent ou que de nouvelles infractions soient commises ou encore lorsque les objets semblent former les choses ou les avantages patrimoniaux visés à l'article 42 du Code Pénal;
+
+e) faire des observations en prenant des photos, des films et des enregistrements vidéo;
+
+f) inspecter les locaux, les archives, les documents et le dossier permanent du système de pharmacovigilance du titulaire de l'AMM ou de l'enregistrement ou de toute personne chargée par le titulaire de l'AMM ou de l'enregistrement de réaliser des activités de pharmacovigilance.
+
+§ 2. Les membres du personnel statutaires et contractuels visés à l'article 51 de la présente loi, ont le droit de faire toutes les constatations utiles, de donner des avertissements, de fixer au contrevenant un délai pour se mettre en règle et de dresser des procès-verbaux.
+
+Ces procès-verbaux font foi jusqu'à preuve du contraire. Une copie de ceux-ci est portée à la connaissance du contrevenant endéans un délai de vingt jours, qui prend cours le lendemain du jour de la constatation de l'infraction. Lorsque le jour d'échéance qui est compris dans ce délai est un samedi, un dimanche ou un jour férié il est déplacé au jour ouvrable suivant. Le contrevenant peut formuler des commentaires écrits dans un délai de vingt jours à compter de la date de réception du procès-verbal. Les commentaires reçus sont annexés au procès-verbal.
+
+Pour l'application du délai déterminé à l'alinéa 2, l'avertissement donné au contrevenant ou la fixation d'un délai pour se mettre en règle n'emporte pas la constatation de l'infraction.
+
+Le procès-verbal original est envoyé à l'agent désigné en application de l'article 66 de la présente loi.
+
+Lors de l'établissement des procès-verbaux les constatations matérielles faites par eux, peuvent être utilisées, avec leur force probante, par les autres membres du personnel statutaires ou contractuels du même service, des autres services d'inspection ou par les membres du personnel statutaires ou contractuels chargés de la surveillance du respect d'autres législations.
+
+§ 3. Les membres du personnel statutaire et contractuel visés au § 1er, dans l'exercice de leur fonction, peuvent requérir l'assistance de la force publique.
+
+#### Art. 56
+
+Tous les services de l'Etat, y compris les parquets et les greffes des cours et de toutes les juridictions, des provinces, des agglomérations, des fédérations de communes, des communes, des associations dont elles font partie, ainsi que les institutions publiques qui en dépendent, mais à l'exception des Communautés et des Régions, sont tenus, vis-à-vis des membres du personnel statutaire ou contractuel visés à l'article 51, et à leur demande, de leur fournir tous renseignements dont ils disposent, ainsi que de leur produire, pour en prendre connaissance, tous actes, pièces, livres, registres, documents, disques, bandes ou n'importe quels autres supports d'information et de leur en fournir des extraits, des duplicata, des impressions, des listages, d'en procurer des copies ou des photocopies que ces derniers estiment utiles à la surveillance du respect des législations visées à l'article 51, alinéa 1er, dont ils sont chargés. Tous les services précités sont tenus de fournir sans frais ces renseignements, extraits, duplicata, impressions, listages, copies ou photocopies.
+
+Toutefois, les actes, pièces, registres, documents ou renseignements relatifs à des procédures judiciaires ne peuvent être communiqués sans l'autorisation expresse du procureur général ou de l'auditeur général.
+
+### Section 2. - Sanctions
+
+#### Art. 57
+
+Les dispositions du Livre Ier du Code pénal sont applicables aux infractions, prévues dans la présente loi, sous réserve de l'application des dispositions spécifiques mentionnées ci-après.
+
+#### Art. 58
+
+Les infractions aux dispositions du Règlement 2019/6 et de la présente loi ou de ses arrêtés d'exécution sont punies d'une sanction pouvant aller du niveau 1 au niveau 5.
+
+La sanction de niveau 1 est constituée d'une amende pénale de 26 à 500 euros.
+
+La sanction de niveau 2 est constituée d'une amende pénale de 50 à 5 000 euros et d'un emprisonnement de huit jours à un mois ou d'une de ces peines seulement.
+
+La sanction de niveau 3 est constituée d'une amende pénale de 200 à 50 000 euros et d'un emprisonnement d'un mois à un an ou d'une de ces peines seulement.
+
+La sanction de niveau 4 est constituée d'une amende pénale de 1 000 à 100 000 euros et d'un emprisonnement d'un an à trois ans ou d'une de ces peines seulement.
+
+La sanction de niveau 5 est constituée d'une amende pénale de 2000 à 200 000 euros et d'un emprisonnement de deux ans à cinq ans ou d'une de ces peines seulement.
+
+#### Art. 59
+
+Sont punis d'une sanction de niveau 1:
+
+1° celui qui achète, possède, vend, offre en vente, délivre, livre, distribue, fournit, importe ou exporte des médicaments vétérinaires avariés, altérés, périmés, falsifiés ou imités ainsi que des médicaments vétérinaires non conformes aux dispositions du Règlement 2019/6, de la présente loi ou de ses arrêtés d'exécution;
+
+2° celui qui contrevient aux articles 10 à 16 du Règlement 2019/6, aux articles 12 à 15 de la présente loi ou à ses arrêtés d'exécution;
+
+3° celui qui contrevient aux actes d'exécution établis par la Commission européenne conformément à l'article 17 du Règlement 2019/6;
+
+4° celui qui contrevient à l'article 32, paragraphe 2 du Règlement 2019/6;
+
+5° celui qui contrevient à l'article 35 du Règlement 2019/6;
+
+6° le titulaire d'AMM qui contrevient à l'article 58, paragraphe 11, 12 ou 13 du Règlement 2019/6;
+
+7° celui qui contrevient à l'article 105 du Règlement 2019/6, à l'article 41 de la présente loi ou à ses arrêtés d'exécution;
+
+#### Art. 60
+
+Sont punis d'une sanction de niveau 2:
+
+1° celui qui contrevient à l'article 38, 39 ou 40 du Règlement 2019/6;
+
+2° celui qui ne fournit pas les données relatives au volume des ventes et à l'utilisation des médicaments antimicrobiens utilisés chez l'animal conformément à l'article 57 du Règlement 2019/6, à l'article 23 de la présente loi ou à ses arrêtés d'exécution;
+
+3° celui qui contrevient à l'article 58, paragraphe 6 du Règlement 2019/6;
+
+4° celui qui contrevient à l'article 68, paragraphe 2 du Règlement 2019/6;
+
+5° celui qui contrevient à l'article 70, paragraphe 5 ou 8 du Règlement 2019/6;
+
+6° celui qui contrevient à l'article 71, paragraphe 1er ou 3 du Règlement 2019/6;
+
+7° le titulaire d'AMM qui contrevient à l'article 73, paragraphe 2 du Règlement 2019/6;
+
+8° le médecin vétérinaire ou la personne habilitée à délivrer des médicaments au public qui contrevient à l'article 25 de la présente loi ou à ses arrêtés d'exécution;
+
+9° le titulaire d'AMM qui contrevient à l'article 82, paragraphe 3 du Règlement 2019/6;
+
+10 celui qui contrevient à l'article 88, paragraphe 3 du Règlement 2019/6;
+
+11° l'importateur, le fabricant ou le distributeur visés à l'article 95, paragraphe 1er, du Règlement 2019/6 qui contrevient à l'article 95, paragraphe 5, 1re phrase du Règlement 2019/6;
+
+12° le titulaire d'une autorisation de fabrication qui contrevient à l'article 96 du Règlement 2019/6;
+
+13° le distributeur en gros, tel que visé à l'article 102, paragraphe 1er du Règlement 2019/6 qui contrevient à l'article 102, paragraphes 2 ou 5 du Règlement 2019/6, à l'article 34 de la présente loi ou à ses arrêtés d'exécution;
+
+14° celui qui contrevient à l'article 103, paragraphes 3, ou 5 du Règlement 2019/6, à l'article 38 de la présente loi ou à ses arrêtés d'exécution;
+
+15° celui qui contrevient à l'article 104, paragraphe 5, 6 ou 7 du Règlement 2019/6;
+
+16° celui qui contrevient à l'article 106, paragraphe 1er, 2 ou 4 du Règlement 2019/6, à l'article 42 ou 43 de la présente loi ou à ses arrêtés d'exécution;
+
+17° celui qui contrevient à l'article 108, paragraphe 1er, 2, ou 5 du Règlement 2019/6, à l'article 45 de la présente loi ou à ses arrêtés d'exécution;
+
+18° celui qui contrevient aux actes délégués ou aux actes d'exécution de la Commission européenne visés à l'article 109 du Règlement 2019/6;
+
+19° celui qui contrevient à l'article 119 ou 120, paragraphe 1er du Règlement 2019/6.
+
+#### Art. 61
+
+Est puni d'une sanction de niveau 3:
+
+1° celui qui contrevient à l'article 5, paragraphe 1er, du Règlement 2019/6, à l'article 9, alinéa 1er, 3 ou 4 de la présente loi ou à ses arrêtés d'exécution;
+
+2° la personne qui prescrit, fournit, délivre ou administre un médicament vétérinaire visé à l'article 5, paragraphe 6, du Règlement 2019/6 et à l'article 9 pour un ou plusieurs animaux autres que ceux visés à l'article 5, paragraphe 6, du même règlement et à l'article 9;
+
+3° celui qui contrevient à l'article 6, paragraphe 4 du Règlement 2019/6;
+
+4° celui qui contrevient à l'article 7, paragraphe 1er du Règlement 2019/6, à l'article 11 de la présente loi ou à ses arrêtés d'exécution;
+
+5° celui qui contrevient à l'article 8, paragraphe 6 du Règlement 2019/6;
+
+6° celui qui contrevient à l'article 9, paragraphe 1er ou 4 du Règlement 2019/6, à l'article 7 de la présente loi ou à ses arrêtés d'exécution;
+
+7° le titulaire de l'AMM qui contrevient à l'article 36, paragraphe 2 du Règlement 2019/6;
+
+8° le titulaire d'AMM qui contrevient à l'article 58, paragraphe 1er, 2, 3, 4, 5, 7, 8, 9 ou 10 du Règlement 2019/6;
+
+9° le titulaire d'AMM qui contrevient aux articles 61, paragraphe 1er, 62, 65, paragraphe 1erou 68, paragraphe 1er du Règlement 2019/6;
+
+10° le titulaire d'AMM qui contrevient à l'article 72, deuxième alinéa du Règlement 2019/6;
+
+11° le titulaire d'AMM qui contrevient à l'article 73, paragraphe 1er du Règlement 2019/6;
+
+12° le titulaire d'AMM qui contrevient à l'article 76, paragraphe 2 du Règlement 2019/6;
+
+13° le titulaire de l'AMM qui ne recueille pas les données demandées ou ne réalise pas les études de surveillance demandées visées à l'article 76, paragraphe 4, du Règlement 2019/6 ou ne le fait pas dans le délai fixé;
+
+14° le titulaire d'AMM qui contrevient à l'article 77 du Règlement 2019/6;
+
+15° celui qui contrevient à l'article 78 du Règlement 2019/6;
+
+16° le titulaire d'AMM qui ne soumet pas une copie du dossier permanent du système de pharmacovigilance, tel que visé à l'article 79, paragraphe 6 du Règlement 2019/6 ou qui ne le fait pas dans le délai visé à l'article 79, paragraphe 6 du Règlement 2019/6;
+
+17° le titulaire d'AMM qui contrevient à l'article 81, paragraphe 1 ou 2 du Règlement 2019/6;
+
+18° le titulaire d'AMM qui contrevient à l'article 84, paragraphe 5 du Règlement 2019/6;
+
+19° celui qui contrevient à l'article 85 du Règlement 2019/6;
+
+20° celui qui contrevient à l'article 88, paragraphe 1er du Règlement 2019/6;
+
+21° celui qui ne respecte pas les conditions visées à l'article 26 ou 28 de la présente loi ou de ses arrêtés d'exécution;
+
+22° le titulaire de l'autorisation de fabrication qui ne présente pas les informations demandées, visées à l'article 92, paragraphe 3, du Règlement 2019/6, ou ne les présente pas dans le délai fixé;
+
+23° le titulaire de l'autorisation de fabrication qui contrevient à l'article 93, paragraphe 1 du Règlement 2019/6;
+
+24° celui qui contrevient à l'article 94, paragraphe 5 du Règlement 2019/6;
+
+25° celui qui contrevient à l'article 95, paragraphe 1er, 3, 5, 2ème phrase, du Règlement 2019/6;
+
+26° celui qui ne respecte pas les mesures adoptées par la Commission européenne relatives aux bonnes pratiques de distribution pour les substances actives utilisées comme matières premières dans les médicaments vétérinaires, visées à l'article 95, paragraphe 8, du Règlement 2019/6;
+
+27° celui qui contrevient à l'article 97, paragraphe 1, 2, 3, 6, 7, 8, 9 ou 10 du Règlement 2019/6;
+
+28° celui qui contrevient à l'article 99, paragraphe 1 ou 2 du Règlement 2019/6;
+
+29° celui qui contrevient à l'article 32 de la présente loi ou à ses arrêtés d'exécution;
+
+30° celui qui contrevient à l'article 40 de la présente loi ou à ses arrêtés d'exécution;
+
+31° le distributeur en gros qui contrevient à l'article 101 du Règlement 2019/6;
+
+32° celui qui contrevient à l'article 102, paragraphe 1er ou 6 du Règlement 2019/6;
+
+33° celui qui contrevient à l'article 103, paragraphe 1er ou 2 du Règlement 2019/6, à l'article 36, 37 ou 39 de la présente loi ou à ses arrêtés d'exécution;
+
+[<sup>2</sup> 33° /1. celui qui, en violation de l'article 103, paragraphe 1, du règlement 2019/6 et de l'article 35 de la présente loi ou de ses arrêtés d'exécution, délivre un médicament vétérinaire, y compris une formule officinale ou une formule magistrale, dont la délivrance est soumise à prescription, sans qu'une prescription soit disponible et ait été reçue ;]<sup>2</sup>
+
+34° celui qui contrevient à l'article 104, paragraphe 1er ou 10 du Règlement 2019/6, à l'article 40, § 1er de la présente loi ou à ses arrêtés d'exécution;
+
+35° celui qui contrevient à l'article 106, paragraphe 5 du Règlement 2019/6;
+
+36° celui qui contrevient les actes délégués adoptés par la Commission visés à l'article 106, paragraphe 6, du Règlement 2019/6;
+
+37° celui qui contrevient à l'article 107, paragraphe 1, 2, 3, 4 ou 5 du Règlement 2019/6, à l'article 44 de la présente loi ou à ses arrêtés d'exécution;
+
+38° celui qui contrevient une interdiction telle que visée à l'article 110, paragraphe 1, du Règlement 2019/6 et l'article 46 de la présente loi;
+
+39° celui qui contrevient les conditions de l'utilisation autorisée, visée à l'article 110, paragraphe 2 ou 3, du Règlement 2019/6, d'un médicament immunologique vétérinaire, visé à l'article 110, paragraphe 2 ou 3 du Règlement 2019/6;
+
+40° le médecin vétérinaire qui contrevient à l'article 111 du Règlement 2019/6;
+
+41° celui qui contrevient à l'article 112 du Règlement 2019/6;
+
+42° celui qui contrevient à l'article 120, paragraphe 3 ou 121 du Règlement 2019/6;
+
+[<sup>1</sup> 42/1° celui qui fait de la publicité, destinée au public, pour un médicament vétérinaire pour lequel aucune prescription vétérinaire n'est requise, sans l'avoir notifié ou sans l'avoir notifié à temps, tel que visée à l'article 47/1;
+
+42/2° celui qui ne respecte pas les procédures visées à l'article 47/2, et ses dispositions d'exécution;
+
+42/3° celui qui ne respecte pas les procédures visées à l'article 47/3 et à ses dispositions d'exécution;
+
+42/4° celui qui ne respecte pas les procédures visées à l'article 47/4 et ses dispositions d'exécution;
+
+42/5° celui qui organise un événement, tel que visé à l'article 47/5, § 1er, alinéa 1er, sans le visa préalable.
+
+42/6° celui qui, après refus du visa préalable visé à l'article 47/5, § 1er, offre ou fournit encore l'hospitalité visée à l'article 121, paragraphe 3, du règlement 2019/6 à des personnes habilitées à prescrire ou délivrer des médicaments vétérinaires;
+
+42/7° celui qui ne respecte pas les procédures visées à l'article 47/5, § 2, et ses dispositions d'exécution;]<sup>1</sup>
+
+43° celui qui contrevient à l'article 127, paragraphe 1er du Règlement 2019/6;
+
+44° le titulaire d'AMM qui contrevient à l'article 128, paragraphe 1er ou 2 du Règlement 2019/6 ou qui ne donne pas suite à la demande visée à l'article 128, paragraphes 3 et 4, du Règlement 2019/6;
+
+45° le titulaire d'AMM qui ne respecte pas une mesure de restriction temporaire motivée par la sécurité, telle que visée à l'article 129, paragraphe 1 du Règlement 2019/6;
+
+46° le titulaire d'AMM qui contrevient à l'article 129, paragraphe 4 du Règlement 2019/6;
+
+47° celui qui ne respecte pas une interdiction de délivrer des médicaments vétérinaires, telle que visée à l'article 134, paragraphe 1 du Règlement 2019/6;
+
+48° celui qui contrevient à l'article 27 de la présente loi et de ses arrêtés d'exécution;
+
+49° celui qui empêche ou entrave l'exercice des fonctions des personnes visées à l'article 51, notamment en leur refusant l'accès à des locaux ou à des documents;
+
+50° celui qui fait obstacle aux vérifications auxquelles il est soumis en vertu du Règlement 2019/6, de la présente loi ou de ses arrêtés d'exécution, ou donne sciemment des renseignements, documents ou pièces faux, inexacts ou incomplets.
+
+----------
+
+(1)&lt;L 2023-07-11/12, art. 85, 002; En vigueur : 08-09-2023&gt;
+
+(2)&lt;L 2026-05-30/03, art. 47, 005; En vigueur : 14-06-2026&gt;
+
+#### Art. 62
+
+Sont punis d'une sanction de niveau 4:
+
+1° le titulaire d'AMM qui ne respecte pas les conditions, telles que visées à l'article 26, paragraphe 1er du Règlement 2019/6;
+
+2° celui qui contrevient à l'article 113 du Règlement 2019/6;
+
+3° celui qui contrevient à l'article 114 du Règlement 2019/6;
+
+4° celui qui contrevient à l'article 115 du Règlement 2019/6;
+
+5° celui qui contrevient à l'article 5, paragraphe 1er du Règlement 2019/6, lorsque cette infraction concerne un médicament vétérinaire destiné à un ou plusieurs animaux d'une espèce productrice d'aliments;
+
+6° celui qui contrevient à l'article 58, paragraphe 3 du Règlement 2019/6, lorsque cette infraction concerne un médicament vétérinaire destiné à un ou plusieurs animaux d'une espèce productrice d'aliments.
+
+#### Art. 63
+
+Le niveau de sanction initialement prévu pour une infraction au Règlement 2019/6, à la présente loi ou à ses arrêtés d'exécution est augmenté d'un niveau lorsque l'infraction:
+
+1° a été commise dans une intention frauduleuse, à dessein de nuire ou dans le but de dissimuler une infraction au Règlement 2019/6, à la présente loi ou à ses arrêtés d'exécution;
+
+2° a causé un événement indésirable grave;
+
+3° a été commise par une personne abusant de la confiance que lui confère sa profession;
+
+4° en ce qui concerne les infractions relatives à la fourniture ou à l'offre de fourniture de biens ou de services, a été commise en recourant à des procédés de diffusion à grande échelle, tels des systèmes informatisés, en ce compris l'internet;
+
+5° a été commise dans le cadre d'une organisation criminelle ou terroriste;
+
+#### Art. 64
+
+La tentative de commettre un délit prévu au Règlement 2019/6, à la présente loi ou à ses arrêtés d'exécution est punie par le minimum de la peine qui est applicable au délit lui-même.
+
+#### Art. 65
+
+Sans préjudice des articles 57bis et 99bis du Code pénal, les condamnations définitives antérieures par les juridictions pénales d'un autre Etat partie à la Convention du Conseil de l'Europe sur la contrefaçon des produits médicaux et les infractions similaires menaçant la santé publique, signée à Moscou le 28 octobre 2011, produiront les mêmes effets juridiques que les condamnations prononcées par des juridictions belges pour des infractions au Règlement 2019/6, à la présente loi ou à ses arrêtés d'exécution et elles produiront les mêmes effets juridiques que ces condamnations.
+
+### Section 3. - Transactions
+
+#### Art. 66
+
+En cas d'infraction aux dispositions du Règlement 2019/6, de la présente loi ou de ses arrêtés d'exécution, le fonctionnaire-juriste, titulaire du diplôme de doctorat, licence ou master en droit, désigné à cette fin par l'Administrateur général de l'AFMPS, peut proposer à l'auteur présumé de l'infraction une transaction dont le paiement éteint l'action publique.
+
+#### Art. 67
+
+§ 1er. La transaction visée à l'article 66 est envoyée à l'auteur de l'infraction dans les trois mois à partir de la date du procès-verbal.
+
+§ 2. En cas de paiement de la transaction dans le mois de son envoi, le fonctionnaire-juriste en informe le procureur du Roi et lui transmet l'original du procès-verbal et une copie de la proposition de la transaction.
+
+§ 3. Le paiement de la transaction éteint l'action publique, sauf si le procureur du Roi notifie à l'auteur de l'infraction, dans le mois de la date à laquelle l'information du paiement lui a été adressée, qu'il entend exercer cette action.
+
+§ 4. Si l'action publique est introduite après paiement de la transaction et entraîne la condamnation de l'intéressé, le montant de la transaction est alors imputé sur les frais de justice dus à l'Etat et sur l'amende prononcée.
+
+L'excédent éventuel est restitué. En cas d'acquittement, le montant de la transaction est restitué.
+
+En cas de condamnation conditionnelle, le montant de la transaction est restitué après déduction des frais de justice.
+
+§ 5. En cas de non-paiement de la transaction dans le mois de son envoi, le fonctionnaire-juriste en informe le procureur du Roi et lui transmet l'original du procès-verbal et une copie de la proposition de la transaction.
+
+§ 6. Si le fonctionnaire-juriste ne fait pas de proposition de transaction, il transmet l'original du procès-verbal au procureur du Roi dans un délai de trois mois à partir de la date du procès-verbal. Le procureur du Roi peut retourner l'original du procès-verbal au fonctionnaire-juriste afin qu'il propose une transaction à l'auteur présumé de l'infraction. Cette transaction est envoyée à l'auteur de l'infraction dans les trois mois du renvoi.
+
+§ 7. Les règles de procédure et les modalités de paiement visées au présent article peuvent être fixées par le Roi.
+
+#### Art. 68
+
+§ 1er. Le montant de la transaction ne peut être inférieur au minimum ni excéder le maximum de l'amende fixée pour l'infraction.
+
+En cas de concours d'infractions, les montants des transactions peuvent être additionnés sans que le montant total ne puisse dépasser le double du maximum de l'amende la plus élevée.
+
+Lorsque la transaction concerne des infractions aux dispositions pour lesquelles, à l'égard de l'intéressé, des infractions par procès-verbal avaient déjà été constatées ou avaient déjà fait l'objet d'un avertissement dans les trois ans de la date de constatation, le montant maximal de la transaction est doublé.
+
+Le montant des transactions est majoré des décimes additionnels qui sont d'application aux amendes prévues par le Code pénal.
+
+§ 2. Une transaction peut être proposée aussi bien à une personne morale qu'à une personne physique. Le montant de l'amende est établi sur la base de l'amende fixée pour l'infraction sans tenir compte de l'éventuelle peine d'emprisonnement.
+
+§ 3. Lorsque l'infraction à la présente loi ou à ses arrêtés d'exécution a donné lieu à des frais d'analyse ou d'expertise, le montant maximum de la transaction déterminé suivant les règles énoncées au présent article peut être augmenté du montant ou d'une partie du montant de ces frais. La partie du montant de la transaction destinée à couvrir ces frais sera attribuée à l'organisme ou à la personne qui les a exposés.
+
+#### Art. 69
+
+La personne à qui le paiement de la transaction est proposé, peut, sur demande auprès du fonctionnaire-juriste, prendre connaissance du dossier concernant l'infraction à sa charge. Cette personne peut faire parvenir par écrit ses remarques ou moyens de défense à l'AFMPS qui, en cas de non-paiement de la transaction, les transmettra au procureur du Roi avec le procès-verbal qui constate l'infraction.
+
+#### Art. 70
+
+L'employeur est civilement responsable du paiement de la transaction proposée à son préposé.
+
+#### Art. 71
+
+Les sommes résultant des transactions sont versées au compte de l'AFMPS à son profit.
+
+#### Art. 72
+
+La faculté de proposer à l'auteur de l'infraction une transaction dont le paiement éteint l'action publique, ne peut pas être exercée lorsque le tribunal est déjà saisi du fait ou lorsque le juge d'instruction est requis d'instruire.
+
+### Section 4. [<sup>1</sup> - Traitement de données]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 35, 003; En vigueur : 27-05-2024&gt;
+
+#### Art. 72/1
+
+[<sup>1</sup> L'AFMPS traite des données à caractère personnel nécessaires pour :
+
+1° octroyer des autorisations, agréments ou des certificats, conformément à la présente loi et à ses arrêtés d'exécution ;
+
+2° assurer la surveillance de la présente loi et de ses arrêtés d'exécution.
+
+Le traitement visé à l'alinéa 1er est réalisé conformément aux dispositions du Chapitre IV/3, de la loi du 20 juillet 2006 relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-09/29, art. 36, 003; En vigueur : 27-05-2024&gt;
+
+## CHAPITRE 15. - Dispositions modificatives, abrogatoires et transitoires
+
+### Section 1re. . - Modification de la loi du 25 mars 1964 sur les médicaments
+
+#### Art. 73
+
+Dans le titre de la loi du 25 mars 1964 sur les médicaments, les mots "à usage humain" sont ajoutés après le mot "médicaments".
+
+#### Art. 74
+
+A l'article 1er, § 1er de la même loi, modifiée en dernière lieu par la loi du 17 juillet 2015, les modifications suivantes sont apportées:
+
+1° au point 1°, les modifications suivantes sont apportées:
+
+\- les mots ""médicament, étant soit un médicament à usage humain, soit un médicament à usage vétérinaire : a) médicament à usage humain:" sont remplacés par les mots ""médicament": un médicament à usage humain, à savoir:";
+
+\- le point b) est abrogé;
+
+2° le point 3) est abrogé;
+
+3° le point 4) est abrogé;
+
+4° au point 4/1, les chiffres "4/1" sont remplacés par le chiffre "4";
+
+5° au point 6), les mots "à usage humain" sont abrogés;
+
+6° au point 9), les mots "à usage humain" sont abrogés;
+
+7° le point 10) est abrogé;
+
+8° au point 10bis), les modifications suivantes sont apportées:
+
+\- les mots "d'un médicament à usage humain" sont abrogés;
+
+\- les mots "à usage humain" sont abrogés;
+
+9° au point 11), les mots "d'un médicament à usage humain" sont abrogés;
+
+10° le point 12) est abrogé;
+
+11° au point 14), les mots "à usage humain" sont abrogés;
+
+12° le point 15) est abrogé;
+
+13° le point 16) est abrogé;
+
+14° au point 17), les modifications suivantes sont apportées:
+
+\- les mots "à usage humain" sont abrogés;
+
+\- les mots "l'article 4 de l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice des professions des soins de santé" sont remplacés par les mots "l'article 6, § 1er de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé";
+
+15° le point 18 est abrogé;
+
+16° au point 20), les mots "en ce qui concerne les médicaments à usage humain et/ou à usage vétérinaire" sont abrogés;
+
+17° au point 22), les mots "ou à un ou plusieurs animaux" sont abrogés;
+
+18° au point 23), les modifications suivantes sont apportées:
+
+\- les mots "2 et 3 de l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice des professions des soins de santé" sont remplacés par les mots "3 et 4 de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé";
+
+\- les mots "ainsi que les médecins vétérinaires visés à l'article 1er, 1° de la loi du 28 août 1991 sur l'exercice de la médecine vétérinaire" sont abrogés;
+
+19° au point 24), les modifications suivantes sont apportées:
+
+\- les mots "4, § 1er de l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice des professions des soins de santé" sont remplacés par les mots "l'article 6, § 1er de la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé";
+
+\- les mots "4, § 2, de l'arrêté royal n° 78 du 10 novembre 1967 susmentionné" sont remplacés par les mots "l'article 6, § 2 de la loi coordonnée du 10 mai 2015 précitée";
+
+20° le point 25) est abrogé;
+
+21° au point 25bis), les modifications suivantes sont apportées:
+
+\- le chiffre "25bis" est remplacé par le chiffre "25";
+
+\- les mots "l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice des professions des soins de santé" sont remplacés par les mots "la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé";
+
+22° au point 34), les mots "du médicament à usage humain" sont remplacés par les mots "d'un médicament";
+
+23° le point 35) est abrogé;
+
+24° au point 36), les modifications suivantes sont apportées:
+
+\- dans le titre, les mots "d'un médicament à usage humain" sont abrogés;
+
+\- les mots "du médicament à usage humain" sont remplacés par les mots "d'un médicament";
+
+25° au point 39), les mots "à usage humain ou à usage vétérinaire" sont abrogés;
+
+26° le point 51) est abrogé.
+
+#### Art. 75
+
+A l'article 3 de la même loi, inséré par la loi du 1er mai 2006 et modifiée dernièrement par la loi du 17 juillet 2015, les modifications suivantes sont apportées:
+
+1° au paragraphe 2, les modifications suivantes sont apportées:
+
+a) les mots "à usage humain" sont abrogés;
+
+b) la dernière phrase est abrogée.
+
+2° au paragraphe 3, la dernière phrase est remplacée par ce qui suit:
+
+"Les médecins vétérinaires peuvent se procurer des médicaments auprès des pharmaciens dans une officine pharmaceutique ouverte au public, des grossistes et des grossistes-répartiteurs et ceci conformément aux modalités et conditions fixées par le Roi.".
+
+3° au paragraphe 4, l'alinéa 2 est abrogé.
+
+#### Art. 76
+
+A l'article 4 de la même loi, modifiée par la loi du 16 juin 1970 et la loi du 1er mai 2006, les mots ", à la délivrance et à la fourniture" sont remplacés par les mots "et à la délivrance".
+
+#### Art. 77
+
+A l'article 5 de la même loi, modifiée par la loi du 30 décembre 2001, la loi du 1er mai 2006 et la loi du 27 décembre 2006, les modifications suivantes sont apportées:
+
+1° au paragraphe 1er, les mots "praticiens visés à l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice des professions des soins de santé et à ceux visés à l'article 4 de la loi du 28 août 1991 sur l'exercice de la médecine vétérinaire" sont remplacés par les mots "professionnels des soins de santé".
+
+2° au paragraphe 2, les mots ", des Médecins-vétérinaires" sont abrogés.
+
+#### Art. 78
+
+§ 1er. A l'article 6, § 1er, alinéa 5 de la même loi, modifiée par la loi du 3 août 2012, les mots "à usage humain" sont abrogés.
+
+§ 2. A l'article 6, § 1er, alinéa 8 de la même loi, modifiée par la loi du 3 août 2012, les mots "dans le cas d'un médicament à usage humain ou engendre un risque potentiel grave pour la santé de l'homme ou de l'animal, ou pour l'environnement dans le cas d'un médicament à usage vétérinaire" sont abrogés;
+
+§ 3. A l'article 6, § 1er, alinéa 9 de la même loi, modifiée par la loi du 3 août 2012 et la loi du 17 juillet 2015, les modifications suivantes sont apportées:
+
+1° les mots "ou à l'article 35 de la directive 2001/82" et les mots "ou aux articles 35 à 38 de la directive 2001/82" sont abrogés;
+
+2° les mots "ou à l'article 38 de la directive 2001/82" sont abrogés;
+
+3° le mot "autorisation" est remplacé par le mot "AMM";
+
+4° les mots "en ce qui concerne les médicaments à usage humain," sont abrogés.
+
+§ 4. A l'article 6, § 1er, alinéa 11 de la même loi, modifiée par la loi du 3 août 2012, les modifications suivantes sont apportées:
+
+1° les mots "et une Commission pour les médicaments à usage vétérinaire" sont abrogés;
+
+2° le mot "destinées" est remplacé par le mot "destinée";
+
+3° les mots "ou aux animaux" sont abrogés.
+
+§ 5. A l'article 6, § 1er, alinéa 15 de la même loi, modifié par la loi du 1er mai 2006 et la loi du 3 août 2012, les mots "à usage humain" sont abrogés.
+
+#### Art. 79
+
+A l'article 6, § 1erbis de la même loi, inséré par la loi du 1er mai 2006 et modifiée par la loi du 3 août 2012 et la loi du 18 décembre 2016, les modifications suivantes sont apportées:
+
+1° dans l'alinéa 2, les mots "à usage humain" sont abrogés;
+
+2° l'alinéa 4 est abrogé.
+
+#### Art. 80
+
+A l'article 6, § 1erter de la même loi, inséré par la loi du 1er mai 2006 et la loi du 3 août 2012, les modifications suivantes sont apportées:
+
+1° à l'alinéa 3, les mots "à usage humain" sont abrogés;
+
+2° à l'alinéa 7, les mots "ou pour des motifs de protection de la santé humaine ou animale" sont abrogés.
+
+#### Art. 81
+
+A l'article 6, § 1erquater de la même loi, inséré par la loi du 1er mai 2006 et la loi du 3 août 2012 et la loi du 10 avril 2014 les modifications suivantes sont apportées:
+
+1° à l'alinéa 4, les mots "En ce qui concerne les médicaments à usage humain, les" sont remplacés par le mot "Les";
+
+2° à l'alinéa 4, dans la version néerlandaise les mots "." sont remplacés par les mots ".";
+
+3° à l'alinéa 5, les mots "En ce qui concerne les médicaments à usage humain, le" sont remplacés par le mot "Le" ;
+
+4° à l'alinéa 5, les mots "Wat betreft geneesmiddelen voor menselijk gebruik, zorgt de houder van de VHB of de registratie" sont remplacés par les mots "De houder van de VHB of de registratie zorgt";
+
+5° à l'alinéa 7, les mots "En ce qui concerne les médicaments à usage humain, le" sont remplacés par le mot "Le";
+
+6° à l'alinéa 7, les mots "Wat betreft geneesmiddelen voor menselijk gebruik, kan de minister of zijn afgevaardigde" sont remplacés par les mots "De minister of zijn afgevaardigde kan" dans la version néerlandaise.
+
+#### Art. 82
+
+A l'article 6, § 1erquinquies de la même loi, modifiée par la loi du 10 avril 2014, les modifications suivantes sont apportées:
+
+1° à l'alinéa 3, les mots "ainsi que, lorsqu'il s'agit d'un médicament à usage vétérinaire, les résultats des essais d'innocuité et d'études de résidus" sont abrogés;
+
+2° à l'alinéa 4, les mots "En ce qui concerne les médicaments à usage humain, le" sont remplacés par le mot "Le" dans la version française;
+
+3° à l'alinéa 4 les mots "Wat betreft geneesmiddelen voor menselijk gebruik, bevat het publieke beoordelingsrapport" sont remplacés par les mots "Het publieke beoordelingsrapport bevat" dans la version néerlandaise;
+
+4° à l'alinéa 5, les modifications suivantes sont apportées:
+
+a) dans la 1re phrase, les mots "à usage humain" sont abrogés;
+
+b) dans la 2e phrase, les mots "d'un médicament à usage humain" sont abrogés;
+
+c) la 4e phrase est abrogée.
+
+#### Art. 83
+
+A l'article 6, § 1ersexies, alinéa 2, 1ère phrase de la même loi, modifiée par la loi du 20 décembre 2019, les modifications suivantes sont apportées:
+
+1° les mots "titulaire d'autorisation soit" sont remplacés par les mots "titulaire d'AMM soit" ;
+
+2° les mots "d'autorisation ou" sont remplacés par les mots "d'AMM ou";
+
+3° dans la version néerlandaise les mots "vergunning- of registratiehouder" sont remplacés par les mots "VHB- of registratiehouder".
+
+#### Art. 84
+
+A l'article 6, § 1ersepties de la même loi, inséré par la loi du 3 août 2012,les modifications suivantes sont apportées:
+
+1° à l'alinéa 2, les mots "En ce qui concerne les médicaments à usage humain, cette" sont remplacés par le mot "Cette" ;
+
+2° à l'alinéa 2, les mots "Wat betreft geneesmiddelen voor menselijk gebruik, kan deze VHB" sont remplacés par les mots "Deze VHB kan" dans la version néerlandaise;
+
+3° l'alinéa 3 est abrogé;
+
+4° à l'alinéa 5, les mots "En ce qui concerne les médicaments à usage humain, le" sont remplacés par le mot "Le" ;
+
+5° à l'alinéa 5, les mots "Wat betreft geneesmiddelen voor menselijk gebruik, stelt de minister of zijn afgevaardigde" sont remplacés par les mots "De minister of zijn afgevaardigde" dans la version néerlandaise.
+
+#### Art. 85
+
+A l'article 6, § 1erocties, alinéa 1er de la même loi, inséré par la loi du 3 août 2012, les modifications suivantes sont apportées:
+
+1° les mots "ce qui concerne les médicaments à usage humain, en" sont abrogés;
+
+2° dans la version néerlandaise, les mots "Wat betreft geneesmiddelen voor menselijk gebruik, in aanvulling" sont remplacés par les mots "In aanvulling".
+
+#### Art. 86
+
+A l'article 6, § 1ernonies, alinéa 1er de la même loi, inséré par la loi du 3 août 2012, les modifications suivantes sont apportées:
+
+1° les mots "En ce qui concerne les médicaments à usage humain, après" sont remplacés par le mot "Après";
+
+2° dans la version néerlandaise, les mots "Wat betreft geneesmiddelen voor menselijk gebruik, na" sont remplacés par le mot "Na".
+
+#### Art. 87
+
+L'article 6, § 1erdecies de la même loi, inséré par la loi du 3 août 2012 est abrogé.
+
+#### Art. 88
+
+A l'article 6, § 2 de la même loi, modifiée en dernier lieu par la loi du 18 décembre 2016, les mots "à usage humain" sont abrogés.
+
+#### Art. 89
+
+A l'article 6bis de la même loi, modifiée en dernier lieu par la loi du 3 août 2012, les modifications suivantes sont apportées:
+
+1° les mots "à usage humain" sont abrogés;
+
+2° les paragraphes 6, 7, 8, 9 et 10 sont abrogés.
+
+#### Art. 90
+
+A l'article 6quater de la même loi, modifiée par la loi du 22 novembre 2020, les modifications suivantes sont apportées:
+
+1° au § 1er, les mots "à usage humain" sont abrogés;
+
+2° le § 2 est abrogé;
+
+3° au § 3, les modifications suivantes sont apportées:
+
+a) à l'alinéa 1er, les modifications suivantes sont apportées:
+
+\- au 1° ), les mots "ou à un/des animal/animaux déterminé(s)" sont abrogés;
+
+\- au 3° ), les mots "à usage humain" et "ainsi que les médicaments expérimentaux à usage vétérinaire" sont abrogés;
+
+\- au 5° ), les mots ", ainsi que les médicaments à usage vétérinaire à base d'isotopes radioactifs" sont abrogés;
+
+\- le 7° ) est abrogé;
+
+\- le 6/1) est renuméroté 7° );
+
+\- le 9° ) est abrogé;
+
+\- le 10° ) est abrogé;
+
+b) à l'alinéa 2, les mots "6/1), 7° ), 8° ), 9° ) et 10)" sont remplacés par les mots "7° ) et 8° )";
+
+c) à l'alinéa 4, le mot "point 6/1)" est remplacé par le mot "point 7° )".
+
+d) à l'alinéa 4, le mot "6/1)" est remplacé par le mot "7° )" dans la version néerlandaise.
+
+#### Art. 91
+
+L'article 6quinquies de la même loi, inséré par la loi du 20 décembre 1995 et remplacé par la loi du 1er mai 2006, est abrogé.
+
+#### Art. 92
+
+A l'article 6septies, § 1er de la même loi, modifiée par la loi du 10 avril 2014, les modifications suivantes sont apportées:
+
+1° les mots "à usage humain" sont abrogés;
+
+2° à l'alinéa 5, les mots "ou de fourniture", les mots "ou au responsable des animaux" et les mots "ou fournie" sont abrogés;
+
+3° l'alinéa 9 est abrogé.
+
+#### Art. 93
+
+§ 1. A l'article 7 de la même loi, modifiée par la loi du 3 août 2012 et la loi du 17 juillet 2015, les modifications suivantes sont apportées:
+
+1° à l'alinéa 1er, les mots "En ce qui concerne les médicaments à usage humain, le" sont remplacés par le mot "Le";
+
+2° à l'alinéa 1er, dans la version néerlandaise les mots "Wat betreft geneesmiddelen voor menselijk gebruik, kan de Koning" sont remplacés par les mots "De Koning kan";
+
+3° l'alinéa 2 est abrogé;
+
+4° à l'alinéa 3, les mots "En application de l'alinéa 1er ou de l'alinéa 2" sont remplacés par les mots "Pour l'application de l'alinéa 1er";
+
+5° à l'alinéa 7, les mots "En ce qui concerne les médicaments à usage humain, le" sont remplacés par le mot "Le".
+
+6° à l'alinéa 7, dans la version néerlandaise les mots "Wat betreft geneesmiddelen voor menselijk gebruik, kan de Koning" sont remplacés par les mots "De Koning kan".
+
+§ 2. A l'article 7, § 2 de la même loi est abrogé.
+
+#### Art. 94
+
+A l'article 7bis, § 1er, alinéa 1er de la même loi, les mots "à usage humain" sont abrogés.
+
+#### Art. 95
+
+A l'article 8 de la même loi, remplacé par la loi du 1er mai 2006 et modifiée par la loi du 3 août 2012, les modifications suivantes sont apportées:
+
+1° à l'alinéa 1er, les mots "ce qui concerne les médicaments à usage humain, en" sont abrogés;
+
+2° à l'alinéa 1er, dans la version néerlandaise les mots "Wat betreft geneesmiddelen voor menselijk gebruik, kan de minister of zijn afgevaardigde" sont remplacés par les mots "De minister of zijn afgevaardigde kan";
+
+3° l'alinéa 2 est abrogé;
+
+4° à l'alinéa 4, les mots "ou de fourniture" sont abrogés;
+
+5° à l'alinéa 6, les mots "En ce qui concerne les médicaments à usage humain, le" sont remplacés par le mot "Le";
+
+6° à l'alinéa 6, dans la version néerlandaise les mots "Wat betreft geneesmiddelen voor menselijk gebruik, kan de Koning" sont remplacés par les mots "De Koning kan".
+
+#### Art. 96
+
+A l'article 8bis de la même loi, inséré par la loi du 1er mai 2006, les modifications suivantes sont apportées:
+
+1° à l'alinéa 1er, les mots "En ce qui concerne les médicaments à usage humain, le" sont remplacés par le mot "Le";
+
+2° à l'alinéa 1er, dans la version néerlandaise, les mots "Wat betreft geneesmiddelen voor menselijk gebruik, schorst de minister of zijn afgevaardigde" sont remplacés par les mots "De minister of zijn afgevaardigde schorst";
+
+3° l'alinéa 2 est abrogé;
+
+#### Art. 97
+
+A l'article 9 de la même loi, modifiée en dernier lieu par la loi du 22 décembre 2020, les modifications suivantes sont apportées:
+
+1° au § 1er, les modifications suivantes sont apportées:
+
+a) à l'alinéa 2, dans la 1re phrase, dans la version française les mots "ordonnance médicale" sont remplacés par le mot "prescription";
+
+b) à l'alinéa 2, dans la 1re phrase, le mot "geneeskundig" est abrogé dans la version néerlandaise;
+
+2° au § 2, les modifications suivantes sont apportées:
+
+a) à l'alinéa 2, dans la 1re phrase, les mots "à usage humain" sont abrogés;
+
+b) à l'alinéa 6, dans la version française les mots "à usage humain" insérés entre les mots "télévisuelle" et ", le ministre" sont abrogés.
+
+c) à l'alinéa 6, dans la version néerlandaise les mots "voor geneesmiddelen voor menselijk gebruik" insérés entre les mots "geneesmiddelen" et "betreffen" sont abrogés.
+
+#### Art. 98
+
+A l'article 12bis, § 1er, alinéa 1er de la même loi, inseré par la loi du 26 décembre 2013, dans les points 1° et 2°, les mots "à usage humain" sont abrogés.
+
+#### Art. 99
+
+A l'article 12ter de la même loi, modifiée en dernier lieu par la loi du 7 avril 2019, les modifications suivantes sont apportées:
+
+1° au § 1er, les modifications suivantes sont apportées:
+
+a) à l'alinéa 2, les modifications suivantes sont apportées:
+
+\- dans la 2e phrase, les mots "à usage humain" sont abrogés;
+
+\- la dernière phrase est abrogée;
+
+b) à l'alinéa 6, tous les mots "à usage humain" sont abrogés;
+
+c) à l'alinéa 8, 1re phrase, les mots "ou à fournir des médicaments aux responsables d'animaux" sont abrogés;
+
+d) à l'alinéa 10, les modifications suivantes sont apportées:
+
+\- dans la 1re phrase, les mots "à usage humain" sont abrogés;
+
+\- la 2e phrase est abrogée;
+
+\- la 3e phrase est abrogée.
+
+2° au § 3, l'alinéa 1er, les mots "à usage humain" sont abrogés.
+
+#### Art. 100
+
+A l'article 12quater, alinéa 1er, de la même loi, les mots "à usage humain" sont abrogés.
+
+#### Art. 101
+
+A l'article 12quinquies, de la même loi, les modifications suivantes sont apportées:
+
+1° à l'alinéa 1er, les mots "ou des animaux" sont abrogés;
+
+2° à l'alinéa 2, les mots "à usage humain" sont abrogés.
+
+#### Art. 102
+
+A l'article 12sexies de la même loi, insérée par la loi du 1er mai 2006 et remplacée par la loi du 3 août 2012, les modifications suivantes sont apportées:
+
+1° au § 1er, alinéa 1er, les mots "En ce qui concerne les médicaments à usage humain, l'AFMPS" sont remplacés par les mots "L'AFMPS";
+
+2° au § 1er, alinéa 1er, dans la version néerlandaise les mots "Wat betreft geneesmiddelen voor menselijk gebruik, wordt door het FAGG" sont remplacés par les mots "Door het FAGG wordt";
+
+3° au § 2, alinéa 1er, les mots "En ce qui concerne les médicaments à usage humain, le" sont remplacés par le mot "Le".
+
+4° au § 2, alinéa 1er, dans la version néerlandaise les mots "Wat betreft geneesmiddelen voor menselijk gebruik, dient de houder van de VHB of een registratie" sont remplacés par les mots "De houder van een VHB of registratie dient".
+
+5° le § 3 est abrogé.
+
+#### Art. 103
+
+A l'article 14, § 6, alinéa 2, de la même loi, les modifications suivantes sont apportées:
+
+1° les mots "En ce qui concerne les médicaments à usage humain, le" sont remplacés par le mot "Le";
+
+2° dans la version néerlandaise, les mots "Wat betreft geneesmiddelen voor menselijk gebruik, stelt de minister of zijn afgevaardigde" sont remplacés par les mots "De minister of zijn afgevaardigde stelt".
+
+### Section 2. - Modification de la loi du 21 décembre 1998 relative aux normes de produits ayant pour but la promotion de modes de production et de consommation durables et la protection de l'environnement, de la santé et des travailleurs
+
+#### Art. 104
+
+A l'article 3, § 2 de la loi du 21 décembre 1998 relative aux normes de produits ayant pour but la promotion de modes de production et de consommation durables et la protection de l'environnement, de la santé et des travailleurs, remplacée par la loi du 28 mars 2003 et modifiée par la loi du 22 décembre 2020, les modifications suivantes sont apportées:
+
+1° au 3° de l'alinéa 2, les mots "à usage humain" sont ajoutés après le mot "médicaments";
+
+2° l'alinéa 2 est complété par les points 9° et 10°, rédigés comme suit:
+
+"9° le Règlement (UE) 2019/6 du Parlement Européen et du Conseil du 11 décembre 2018 du 11 décembre 2018 relatif aux médicaments vétérinaires et abrogeant la directive 2001/82/CE;
+
+10° la loi du 5 mai 2022 sur les médicaments vétérinaires.".
+
+### Section 3. - Modification de la loi du 4 février 2000 relative à la création de l'Agence fédérale pour la Sécurité de la chaîne alimentaire
+
+#### Art. 105
+
+Dans l'article 5, alinéa 2, de la loi du 4 février 2000 relative à la création de l'Agence fédérale pour la Sécurité de la chaîne alimentaire, modifié par la loi du 22 décembre 2003, le 3° est remplacé par ce qui suit:
+
+"3° la loi du 5 mai 2022 sur les médicaments vétérinaires;
+
+3° /1 Règlement (UE) 2019/6 du Parlement Européen et du Conseil du 11 décembre 2018 relatif aux médicaments vétérinaires et abrogeant la directive 2001/82/CE;".
+
+### Section 4. - Modification de la loi du 20 juillet 2006 relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé
+
+#### Art. 106
+
+L'article 4, § 1er, alinéa 3, 6°, a., de la loi du 20 juillet 2006 relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé est complété par un tiret, libellé comme suit:
+
+"- la loi du 5 mai 2022 sur les médicaments vétérinaires.".
+
+### Section 5. - Disposition de transition
+
+#### Art. 107
+
+Les autorisations de mise sur le marché, qui ont été octroyées par le ministre ou son délégué avant le 28 janvier 2022 et pour lesquelles la date de fin de la période de validité de cinq ans, telle que visée à l'article 6, § 1ter, alinéa 1er de la loi du 25 mars 1964 sur les médicaments, tombe après le 28 janvier 2022, sont valables de plein droit pour une durée indéterminée.
+
+## CHAPITRE 16. - Entrée en vigueur
+
+#### Art. 108
+
+La présente loi entre en vigueur le jour suivant le jour de publication au Moniteur belge.
+
+#### Art. 109
+
+Par dérogation à l'article 108, les articles 12 et 13 entrent en vigueur à la date d'application des actes d'exécution de la Commission européenne, visés au l'article 17, paragraphe 1, du Règlement 2019/6.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 5 mai 2022.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de la Santé publique,
+
+F. VANDENBROUCKE
+
+Le Ministre de l'Agriculture,
+
+D. CLARINVAL
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+V. VAN QUICKENBORNE

@@ -1,0 +1,108 @@
+---
+title: "Loi modifiant la loi du 2 août 2002 concernant la lutte contre le retard de paiement dans les transactions commerciale"
+identifier: "2021032597"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2021/08/14/2021032597/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2021-08-14
+published: 2021-08-30
+entry_into_force: 2022-02-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2021/08/14/2021032597/justel"
+department: "Economie, PME, Classes moyennes et Energie"
+retrieved: 2026-10-11
+---
+
+# 14 AOUT 2021. - Loi modifiant la loi du 2 août 2002 concernant la lutte contre le retard de paiement dans les transactions commerciale
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+Dans l'article 4 de la loi du 2 août 2002 concernant la lutte contre le retard de paiement dans les transactions commerciales, remplacé par la loi du 22 novembre 2013 et modifié par la loi du 28 mai 2019, les modifications suivantes sont apportées:
+
+1° dans le § 1er, alinéa 1er, 2°, les mots "les services, ou" sont remplacés par les mots "les services.";
+
+2° dans le § 1er, alinéa 1er, le 3° est abrogé;
+
+3° le § 1er, alinéa 2, est remplacé par ce qui suit:
+
+"Sans préjudice de l'article 7, les parties peuvent convenir d'un délai de paiement qui ne peut excéder soixante jours civils. Toute clause contractuelle qui prévoit un délai de paiement plus long est réputée non écrite.";
+
+4° le § 1er est complété par un alinéa 3 rédigé comme suit:
+
+"Sans préjudice de l'article 7, le Roi peut, par dérogation à l'alinéa 2, après avis du Conseil supérieur des Indépendants et des Petites et Moyennes Entreprises visé à l'article 2, 3°, de la loi du 24 avril 2014 relative à l'organisation de la représentation des indépendants et des PME, autoriser pour certains secteurs un délai de paiement supérieur à soixante jours civils.";
+
+5° le § 1er est complété par un alinéa 4 rédigé comme suit:
+
+"Si la loi ou le contrat prévoit une procédure d'acceptation ou de vérification permettant de certifier la conformité des marchandises ou des services avec le contrat, le délai de cette vérification fait partie intégrante du délai de paiement visé aux alinéas 1er, 2 ou 3.";
+
+6° le § 1er est complété par un alinéa 5 rédigé comme suit:
+
+"Le créancier et le débiteur ne sont pas autorisés à fixer contractuellement la date de réception de la facture. Le débiteur fournit au créancier, au plus tard au moment de la réception des marchandises ou de la prestation des services, toutes les informations nécessaires pour pouvoir émettre la facture.";
+
+7° dans le § 2, alinéa 1er, 2°, les mots "les services, ou" sont remplacés par les mots "les services.";
+
+8° dans le § 2, alinéa 1er, le 3° est abrogé;
+
+9° le § 2, alinéa 4, est complété par ce qui suit:
+
+"Le débiteur fournit au créancier, au plus tard au moment de la réception des marchandises ou de la prestation des services, toutes les informations nécessaires pour pouvoir émettre la facture.";
+
+10° le § 2 est complété par un alinéa 5 rédigé comme suit:
+
+"Si la loi ou le contrat prévoit une procédure d'acceptation ou de vérification permettant de certifier la conformité des marchandises ou des services avec le contrat, le délai de cette vérification fait partie intégrante du délai de paiement visé à l'alinéa 1er ou à l'alinéa 2.".
+
+## Art. 3
+
+Dans l'article 5, alinéa 1er, de la même loi, remplacé par la loi du 22 novembre 2013, la première phrase est remplacée par ce qui suit:
+
+"Si le créancier a rempli ses obligations contractuelles et légales et n'a pas reçu le montant dû à l'échéance, le montant impayé est, à compter du jour suivant, majoré, de plein droit et sans mise en demeure, d'un intérêt, sauf pour le débiteur à démontrer qu'il n'est pas responsable du retard.".
+
+## Art. 4
+
+Dans l'article 6 de la même loi, remplacé par la loi du 22 novembre 2013, l'alinéa 1er est remplacé par ce qui suit:
+
+"Si un intérêt de retard est dû conformément aux dispositions de la présente loi, le montant impayé est majoré, de plein droit et sans mise en demeure, d'une indemnité forfaitaire de 40 euros pour les frais de recouvrement encourus par le créancier.".
+
+## Art. 5
+
+La présente loi entre en vigueur le premier jour du sixième mois qui suit celui de sa publication au Moniteur belge.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à l'Ile d'Yeu, Le 14 août 2021.
+
+PHILIPPE
+
+Par le Roi :
+
+La ministre de l'Economie,
+
+P.-Y. DERMAGNE
+
+Le ministre de la Justice,
+
+V. VAN QUICKENBORNE
+
+Le ministre de PME,
+
+D. CLARINVAL
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+V. VAN QUICKENBORNE

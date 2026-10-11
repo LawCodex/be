@@ -1,0 +1,24 @@
+---
+title: "Loi portant assentiment aux actes internationaux suivants: 1) la Convention entre le Royaume de Belgique et la République de l'Inde d'entraide judiciaire en matière pénale, faite à Bruxelles le 16 septembre 2021, et 2) le Traité entre le Royaume de Belgique et les Emirats arabes unis sur l'entraide judiciaire en matière pénale, fait à Abu Dhabi le 9 décembre 2021, et 3) le Traité entre le Royaume de Belgique et les Emirats arabes unis sur l'extradition, fait à Abu Dhabi le 9 décembre 2021, et 4) le Traité entre le Royaume de Belgique et la République islamique d'Iran sur le transfèrement de personnes condamnées, fait à Bruxelles le 11 mars 2022, et 5) le Protocole du 22 novembre 2017 portant amendement au Protocole additionnel à la Convention sur le transfèrement des personnes condamnées, signé le 7 avril 2022 à Strasbourg (1). - Addendum"
+identifier: "2023040401"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/30/2023040401/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2022-07-30
+published: 2023-02-14
+entry_into_force: 2023-02-24
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2022/07/30/2023040401/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+retrieved: 2026-10-11
+---
+
+# 30 JUILLET 2022. - Loi portant assentiment aux actes internationaux suivants: 1) la Convention entre le Royaume de Belgique et la République de l'Inde d'entraide judiciaire en matière pénale, faite à Bruxelles le 16 septembre 2021, et 2) le Traité entre le Royaume de Belgique et les Emirats arabes unis sur l'entraide judiciaire en matière pénale, fait à Abu Dhabi le 9 décembre 2021, et 3) le Traité entre le Royaume de Belgique et les Emirats arabes unis sur l'extradition, fait à Abu Dhabi le 9 décembre 2021, et 4) le Traité entre le Royaume de Belgique et la République islamique d'Iran sur le transfèrement de personnes condamnées, fait à Bruxelles le 11 mars 2022, et 5) le Protocole du 22 novembre 2017 portant amendement au Protocole additionnel à la Convention sur le transfèrement des personnes condamnées, signé le 7 avril 2022 à Strasbourg (1). - Addendum
+
+## Art. M
+
+La Convention entre la Belgique et l'Inde d'entraide judiciaire en matière pénale entre en vigueur le 4 mars 2023, conformément à son article 23.
+
+Le Traité entre la Belgique et les Emirats arabes unis sur l'extradition est entré en vigueur le 1er novembre 2022, conformément à son article 26.
