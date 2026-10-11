@@ -71,17 +71,21 @@ FM_TYPE = {
     "ordonnance": "ordinance",
 }
 
-# Royal decrees having the force of law (or coordinating statutes): numbered special-powers
-# decrees, special/extraordinary-powers decrees and coordinations/codifications of laws.
+# Royal decrees having the force of law or coordinating statutes: numbered (special-powers)
+# decrees, decrees taken under special/extraordinary powers, and coordinations/codifications
+# of laws. Matched on the title without its date prefix.
 AR_RE = re.compile(
-    r"arr[êe]t[ée]\s+royal\s+(n[°o]|num[ée]ro)\s*\d"
-    r"|pouvoirs\s+(sp[ée]ciaux|extraordinaires)"
-    r"|habilitant\s+le\s+roi"
-    r"|coordonn(ant|ée?s?)\b|portant\s+coordination|coordination\s+(des|de\s+la)\s+lois?"
-    r"|codifi(ant|cation|ée?s?)\b",
+    r"^arr[êe]t[ée]\s+(royal\s+|du\s+r[ée]gent\s+)?(de\s+pouvoirs\s+sp[ée]ciaux\s+)?(n[°o]|num[ée]ro)\s*\d"
+    r"|^arr[êe]t[ée]\s+de\s+pouvoirs\s+sp[ée]ciaux"
+    r"|pouvoirs\s+(sp[ée]ciaux|extraordinaires)|habilitant\s+le\s+roi"
+    r"|accordant\s+(des|certains)\s+pouvoirs\s+(sp[ée]ciaux\s+)?au\s+roi"
+    r"|attribuant\s+(des|certains)\s+pouvoirs\s+(sp[ée]ciaux\s+)?au\s+roi"
+    r"|^arr[êe]t[ée]\s+(royal|du\s+r[ée]gent)\s+(coordonnant|codifiant|portant\s+(la\s+)?(coordination|codification)"
+    r"|relatif\s+[àa]\s+la\s+(coordination|codification)\s+(des|de\s+la)\s+lois?)",
     re.I,
 )
 
 
 def ar_has_legislative_force(title: str) -> bool:
-    return bool(AR_RE.search(title))
+    t = re.sub(r"^\s*\d{1,2}(er)?\s+\S+\s+\d{4}\.?\s*-\s*", "", title)
+    return bool(AR_RE.search(t))

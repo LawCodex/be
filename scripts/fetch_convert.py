@@ -380,7 +380,8 @@ def render(lang, item, parsed, prom, rel):
 def fetch(lang, numac):
     lt = "F" if lang == "fr" else "N"
     return cached(f"{lang}/{numac[:4]}/{numac}", lambda: http(
-        "GET", BASE + "article.pl", params={"language": lang, "numac_search": numac, "lg_txt": lt}))
+        "GET", BASE + "article.pl", params={"language": lang, "numac_search": numac, "lg_txt": lt},
+        check='id="list-title-1"'))
 
 
 def nl_code_dir(titles: list[str], fallback: str) -> str:
@@ -400,7 +401,7 @@ def process(item, code_dirs, nl_titles, lock):
     if GERMAN_RE.search(item["title"]):
         rec["result"] = "skipped-german"
         return rec
-    if TYPES.get(item["dt"], ("code",))[0] == "arrete-royal" and not ar_has_legislative_force(item["title"]):
+    if TYPES.get(item["dt"], ("code",))[0] in ("arrete-royal", "arrete-regent") and not ar_has_legislative_force(item["title"]):
         rec["result"] = "skipped-ar-filter"
         return rec
     pfr = parse_page(fetch("fr", numac))
@@ -438,6 +439,18 @@ def main():
     a = ap.parse_args()
     MANIFEST.mkdir(parents=True, exist_ok=True)
     files = sorted(LISTS.glob("*.jsonl"))
+    # default order: constitution, codes, laws, regional texts, the rest
+    prio = {"constitution": 0, "code": 1, "loi": 2, "decret": 3, "ordonnance": 3}
+
+    def first_dt(f):
+        with open(f, encoding="utf-8") as fh:
+            line = fh.readline()
+        return json.loads(line)["dt"] if line.strip() else ""
+    order = {f: first_dt(f) for f in files}
+    if a.dts:
+        files = [f for d in a.dts for f in files if order[f] == d]
+    else:
+        files.sort(key=lambda f: (prio.get(cat_of(order[f])[0], 9), f.name))
     lock = threading.Lock()
     for lf in files:
         items = [json.loads(x) for x in lf.read_text(encoding="utf-8").splitlines() if x.strip()]

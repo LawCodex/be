@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import gzip
 import os
+import sys
 import threading
 import time
 from pathlib import Path
@@ -19,7 +20,9 @@ LISTS = RAW / "lists"
 _local = threading.local()
 _lock = threading.Lock()
 _last = [0.0]
-MIN_INTERVAL = 0.25  # global minimum spacing between request starts (seconds)
+# Justel sits behind a BigIP that answers 429 (Retry-After: 10) above roughly 0.6 request/s
+# per client: keep a global minimum spacing between request starts (seconds).
+MIN_INTERVAL = float(os.environ.get("JUSTEL_INTERVAL", "1.8"))
 
 
 def session() -> requests.Session:
@@ -40,7 +43,7 @@ def _throttle():
         _last[0] = time.monotonic()
 
 
-def http(method: str, url: str, data=None, params=None, tries: int = 6) -> str:
+def http(method: str, url: str, data=None, params=None, tries: int = 6, check=None) -> str:
     """GET/POST with retries + backoff; returns text decoded as cp1252 (Justel is Latin-1/cp1252)."""
     delay = 5
     for attempt in range(tries):
@@ -48,10 +51,20 @@ def http(method: str, url: str, data=None, params=None, tries: int = 6) -> str:
         try:
             r = session().request(method, url, data=data, params=params, timeout=180)
             if r.status_code == 200 and r.content:
-                return r.content.decode("cp1252", errors="replace")
-            err = f"HTTP {r.status_code}"
+                txt = r.content.decode("cp1252", errors="replace")
+                if check is None or check in txt:
+                    return txt
+                err = f"unexpected page ({len(txt)} bytes)"
+            elif r.status_code == 429:
+                pause = int(r.headers.get("Retry-After", "10") or 10) + 5
+                with _lock:  # make every thread back off
+                    _last[0] = max(_last[0], time.monotonic() + pause)
+                err = "HTTP 429"
+            else:
+                err = f"HTTP {r.status_code}"
         except requests.RequestException as e:  # noqa: PERF203
             err = repr(e)
+        print(f"retry {attempt + 1}: {url} {params or data}: {err}", file=sys.stderr, flush=True)
         if attempt == tries - 1:
             raise RuntimeError(f"{url} {params or data}: {err}")
         time.sleep(delay)

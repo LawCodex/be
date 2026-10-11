@@ -1,0 +1,5448 @@
+---
+title: "NOUVELLE LOI COMMUNALE (REGION DE BRUXELLES-CAPITALE)"
+identifier: "1988062452"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1988/06/24/1988062452/justel"
+type: act
+justel_type: "LOI COMMUNALE"
+jurisdiction: be
+language: fr
+date: 1988-06-24
+published: 1988-09-03
+entry_into_force: 1988-09-13
+last_amended: 2026-06-23
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1988/06/24/1988062452/justel"
+department: "Région de Bruxelles-Capitale"
+justel_note: "Consultation des versions antérieures à partir du 25-04-2016 et mise à jour au 23-06-2026"
+retrieved: 2026-10-11
+---
+
+# 24 JUIN 1988. - NOUVELLE LOI COMMUNALE (REGION DE BRUXELLES-CAPITALE)
+
+## TITRE I. - Du corps communal.
+
+### CHAPITRE I. - De la composition du corps communal.
+
+#### Section 1. - Dispositions générales.
+
+###### Art. 1
+
+Il y a dans chaque commune un corps communal composé de conseillers, du bourgmestre et des échevins.
+
+###### Art. 2
+
+[<sup>1</sup> Les conseillers communaux sont élus pour un terme de six ans à compter du 1er décembre. Ils sont installés lors de la séance du conseil communal qui a lieu endéans les 7 jours [<sup>2</sup> à partir du]<sup>2</sup> 1er décembre. Ils sont rééligibles.]<sup>1</sup>
+
+Les conseils sont renouvelés intégralement tous les six ans.
+
+----------
+
+(1)&lt;ORD 2006-07-20/69, art. 2; En vigueur : 08-09-20016&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 2, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 3
+
+Les bourgmestres et les échevins sont également nommés ou élus pour un terme de six ans.
+
+Toutefois, ils perdent cette qualité si, dans l'intervalle, ils cessent de faire partie du conseil.
+
+###### Art. 4
+
+Les membres du corps communal sortant lors d'un renouvellement intégral et les démissionnaires restent en fonction jusqu'à ce que les pouvoirs de leurs successeurs aient été vérifiés et que leur installation ait eu lieu.
+
+En outre, si le conseiller sortant ou démissionnaire est investi d'un mandat de bourgmestre ou d'échevin, il est tenu de continuer l'exercice de ce mandat jusqu'à ce qu'il ait été remplacé soit comme bourgmestre ou échevin, soit comme conseiller communal.
+
+###### Art. 5
+
+&lt;L 2000-05-14/36, art. 2, En vigueur : 10-06-2000&gt; La classification des communes conformément aux articles 8 et 16 est mise en rapport avec le chiffre de la population par le [<sup>2</sup> Gouvernement [<sup>3</sup> ...]<sup>3</sup>]<sup>2</sup> lors de chaque renouvellement intégral des conseils communaux. Le nombre d'habitants à prendre en considération est le nombre de personnes inscrites au Registre national des personnes physiques ayant leur résidence principale dans la commune concernée à la date du [<sup>1</sup> 31 décembre]<sup>1</sup> de l'année précédant celle du renouvellement intégral.
+
+[<sup>3</sup> En ce qui concerne les élections communales de 2018, par dérogation à l'alinéa 1er et sans préjudice de l'application des alinéas suivants, le Gouvernement établit uniquement la classification des communes conformément à l'article 8. Le nombre d'échevins à élire établi à l'occasion du renouvellement intégral des conseils communaux de 2012 reste d'application pour le renouvellement intégral de 2018.]<sup>3</sup>
+
+Le chiffre de la population établi conformément à l'alinéa 1er est également d'application à la même date aux classifications visées aux articles 28 à 30, ainsi que, dans la mesure où ils réfèrent à une catégorie de communes basée sur le chiffre de la population, aux articles 19, § 1er, [<sup>1</sup> ...]<sup>1</sup> 42,[<sup>1</sup> ...]<sup>1</sup> 65, § 1er, [<sup>1</sup> ...]<sup>1</sup>.
+
+Les chiffres de la population des communes du Royaume, établis conformément à l'alinéa 1er, sont publiés au Moniteur belge, par les soins du ministre de l'Intérieur, au plus tard le 1er mai de l'année durant laquelle le renouvellement intégral des conseils communaux a lieu.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 2; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2003-07-17/69, art. 43; En vigueur : 01-01-2003&gt;
+
+(3)&lt;ORD 2018-01-25/14, art. 2, 011; En vigueur : 01-04-2018&gt;
+
+###### Art. 6
+
+&lt;abrogé par L 2000-05-14/36, art. 3, En vigueur : 10-06-2000&gt;
+
+#### Section 2. Des conseillers communaux.
+
+###### Art. 7
+
+Les conseillers sont élus directement par l'assemblée des électeurs de la commune.
+
+###### Art. 8
+
+[<sup>1</sup> Le conseil communal, en ce compris le bourgmestre et les échevins, est composé de la manière suivante :
+
+1° 25 membres dans les communes de moins de 20.000 habitants ;
+
+2° 27 membres dans celles de 20 000 à 24 999 habitants ;
+
+3° 29 membres dans celles de 25 000 à 29 999 habitants ;
+
+4° 31 membres dans celles de 30 000 à 34 999 habitants ;
+
+5° 33 membres dans celles de 35 000 à 39 999 habitants ;
+
+6° 35 membres dans celles de 40 000 à 49 999 habitants ;
+
+7° 37 membres dans celles de 50 000 à 59 999 habitants ;
+
+8° 39 membres dans celles de 60 000 à 69 999 habitants ;
+
+9° 41 membres dans celles de 70 000 à 79 999 habitants ;
+
+10° 43 membres dans celles de 80 000 à 89 999 habitants ;
+
+11° 45 membres dans celles de 90 000 à 99 999 habitants ;
+
+12° 47 membres dans celles de 100 000 à 149 999 habitants ;
+
+13° 49 membres dans celles de 150 000 à 199 999 habitants ;
+
+14° 51 membres dans celles de 200 000 à 249 999 habitants ;
+
+15° 53 membres dans celles de 250 000 à 299 999 habitants ;
+
+16° 55 membres dans celles de 300 000 habitants et plus.]<sup>1</sup>
+
+Le conseil, lorsque le bourgmestre est nommé hors de son sein, n'en reste pas moins composé du nombre de membres déterminé ci-dessus.
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 3, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 8bis
+
+[<sup>1</sup> § 1er. Lors de la séance visée à l'article 2, alinéa 1er, ou lors de toute autre séance, le conseil communal peut élire, en son sein et pour la durée de la législature, son président ainsi qu'un suppléant à celui-ci.
+
+Le président et son suppléant sont présentés par écrit par une majorité des élus de la liste sur laquelle ils se sont présentés et par une majorité des élus du conseil. Si le candidat président ou suppléant présenté est issu d'une liste ne comportant que deux élus, la signature d'un seul d'entre eux suffit.
+
+§ 2. Lorsque le président du conseil est temporairement dans l'incapacité d'assurer cette fonction, durant les délibérations auxquelles l'article 92 lui interdit d'être présent ou encore en cas d'empêchement au sens de l'article 11, la fonction est assurée par son suppléant ou, à défaut de celui-ci, par le membre du conseil le premier dans l'ordre du tableau visé à l'article 17 et qui respecte les incompatibilités visées à l'article 71bis.
+
+Le président du conseil cesse immédiatement d'exercer cette fonction en cas de déchéance de son mandat de conseiller communal, de survenance d'une incompatibilité visée à l'article 71bis, de décès ou de démission. Il est alors procédé à l'élection d'un nouveau président dès la plus prochaine réunion du conseil communal, dans le respect des dispositions précédentes.
+
+§ 3. A tout moment, le conseil peut adopter une motion de méfiance à l'égard du président du conseil ou de son suppléant.
+
+Cette motion n'est recevable que si elle présente un successeur à celui ou ceux qu'elle vise conformément au § 1er.
+
+Elle est déposée entre les mains du secrétaire communal, qui l'adresse sans délai à chacun des membres du conseil et du collège. Le collège inscrit le débat et le vote sur la motion de méfiance à l'ordre du jour du plus prochain conseil communal suivant son dépôt, pour autant que se soit écoulé au minimum un délai de sept jours francs à la suite de ce dépôt.
+
+Au cours de cette réunion, avant le vote de la motion, le président du conseil ou le suppléant visé par la motion dispose, s'il est présent, de la possibilité de faire valoir en personne ses observations.
+
+L'adoption de la motion à la majorité des membres du conseil emporte démission du président du conseil ou de son suppléant concerné et l'élection de son successeur, avec effet immédiat.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2012-07-23/09, art. 2, 001; En vigueur : 01-01-2013&gt;
+
+###### Art. 9
+
+Tout candidat, élu peut, après validation de son élection, renoncer, avant son installation, au mandat qui lui a été conféré.
+
+Ce désistement pour être valable, doit être notifié par écrit au conseil communal.
+
+En cas de contestation sur le fait du désistement, il est statué par [<sup>1</sup> le collège juridictionnel]<sup>1</sup> conformément à [<sup>3</sup> article 75, § 1er, alinéa 2, du Code électoral communal bruxellois]<sup>3</sup> .
+
+Cette décision est notifiée par les soins du [<sup>1</sup> président du collège juridictionnel]<sup>1</sup> au candidat intéressé.
+
+Un recours au Conseil d'État lui est ouvert dans les huit jours qui suivent la notification.
+
+[<sup>2</sup> ...]<sup>2</sup> .
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 3; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2003&gt;
+
+(3)&lt;ORD 2014-02-27/27, art. 2; En vigueur : 12-04-2014&gt;
+
+###### Art. 10
+
+[<sup>1</sup> § 1er. Le conseiller communal qui perd l'une ou l'autre des conditions d'éligibilité ne peut plus exercer sa fonction. Le conseiller communal intéressé, après avoir été entendu à huis clos, est déchu par le conseil communal, sauf si le conseiller communal démissionne immédiatement conformément à l'article 22. Le conseiller peut solliciter d'être entendu en séance publique.
+
+Le collège des bourgmestre et échevins informe immédiatement l'intéressé, ainsi que le collège visé à l'article 83quinquies, § 2, de la loi spéciale du 12 janvier 1989 relative aux Institutions bruxelloises (ci-après : le Collège juridictionnel), par lettre remise contre récépissé, des faits susceptibles d'entraîner la déchéance de mandat. Une copie de cette notification est transmise pour information au plus prochain conseil.
+
+Si le conseil communal n'agit pas dans les deux mois après avoir pris connaissance des faits susceptibles d'entraîner la déchéance, le Collège juridictionnel agit à sa place, soit d'office, soit à la demande d'un conseiller communal ou du ministère public. Le conseil communal est censé avoir pris connaissance des faits susceptibles d'entraîner la déchéance, soit dès la réception d'une réclamation d'un autre conseiller communal ou du ministère public, soit dès l'envoi de la notification par le collège des bourgmestre et échevins au Collège juridictionnel.
+
+§ 2. La déchéance ne produit ses effets qu'après la notification au conseiller communal de la déclaration de déchéance par le conseil communal ou le Collège juridictionnel. La notification est réalisée par courrier recommandé. Elle ne porte pas atteinte à la validité des décisions antérieures du conseil communal.
+
+§ 3. Si l'intéressé, même à défaut d'une notification quelconque, continue à exercer son mandat, bien qu'il ait connaissance de la cause de la déchéance, il est passible des peines prévues par l'article 262 du Code pénal.
+
+§ 4. Le conseiller communal intéressé peut introduire, auprès du Collège juridictionnel, un recours contre la déclaration de déchéance du conseil communal dans les huit jours de sa notification.
+
+Le délai court à partir du troisième jour ouvrable qui suit celui où le pli a été remis aux services de la poste, sauf preuve contraire par le destinataire.
+
+Les délais qui arrivent à échéance un dimanche ou un jour férié sont prolongés jusqu'au premier jour ouvrable qui suit.
+
+Le Collège juridictionnel se prononce sur le recours dans les trente jours suivant son introduction. Les formalités prévues à l'article 75, § 1er, alinéa 2, du Code électoral communal bruxellois sont respectées par le Collège juridictionnel.
+
+§ 5. Le conseiller communal intéressé peut introduire un recours devant le Conseil d'Etat contre la déclaration de déchéance du Collège juridictionnel dans les huit jours de la notification de celle-ci.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 4, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 11
+
+[<sup>1</sup> § 1er. Le conseil communal prend acte de l'empêchement temporaire des personnes suivantes :
+
+1° le conseiller communal qui pour des raisons médicales, des raisons d'étude ou en raison d'un séjour à l'étranger, ne peut assister pendant une période minimale de douze semaines aux réunions du conseil communal et veut être remplacé. Il adresse pour ce faire une demande écrite au collège des bourgmestre et échevins.
+
+A la demande de remplacement temporaire du fait d'un empêchement pour raisons médicales, sera jointe une attestation médicale, datant de maximum 15 jours, précisant la période minimale d'absence pour raisons médicales. Lorsque le conseiller communal qui reste absent pour raisons médicales n'est pas en mesure d'adresser cette demande au collège des bourgmestre et échevins, il sera considéré de plein droit comme empêché à partir de la troisième réunion suivant celle où il a été absent et aussi longtemps qu'il demeure absent.
+
+A la demande de remplacement temporaire du fait d'un empêchement pour raison d'étude ou de séjour à l'étranger, sera jointe une attestation de l'établissement d'enseignement ou du donneur d'ordre ;
+
+2° le conseiller communal qui souhaite prendre un congé parental pour la naissance ou l'adoption d'un enfant. Ce conseiller communal sera remplacé, à sa demande écrite adressée au collège des bourgmestre et échevins, au plus tôt à partir de la sixième semaine précédant la date présumée de la naissance ou de l'adoption, jusqu'à la fin de la neuvième semaine suivant la naissance ou l'adoption. Sur demande écrite, l'interruption de l'exercice du mandat est prolongée après la neuvième semaine d'une durée égale à celle pendant laquelle le conseiller communal a exercé son mandat pendant la période de six semaines précédant la date de la naissance ou de l'adoption. En cas de naissance ou d'adoption multiple, le congé peut, sur demande du conseiller communal, être prolongé pour une période maximale de deux semaines ;
+
+3° le conseiller communal qui, en raison d'un congé pour soins palliatifs ou d'un congé d'assistance, ou pour dispenser des soins soit à un membre de la famille jusqu'au deuxième degré inclus souffrant d'une maladie grave, soit à un membre du ménage souffrant d'une maladie grave, souhaite s'absenter pendant une période minimale de douze semaines des réunions du conseil communal et être remplacé. Il adresse pour ce faire une demande écrite au collège des bourgmestre et échevins, assortie d'une déclaration sur l'honneur dans laquelle le conseiller se déclare disposé à dispenser de l'assistance ou des soins. Le nom du patient n'est pas mentionné.
+
+§ 2. Le conseiller communal empêché pour les raisons prévues au paragraphe 1er, qui demande son remplacement, est remplacé par le suppléant appartenant à sa liste et arrivant le premier dans l'ordre indiqué à l'article 58 du Code électoral communal bruxellois, après vérification des pouvoirs de celui-ci par le conseil communal.
+
+Le remplacement ne s'applique toutefois qu'à partir de la première séance du conseil communal suivant celle au cours de laquelle le conseiller communal empêché a été installé.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 5, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 12
+
+&lt;AR 1989-05-30/32, art. 1, En vigueur : 01-06-1989&gt; [§ 1er. [<sup>5</sup> Les conseillers communaux ne perçoivent aucun traitement.
+
+Ils perçoivent un jeton de présence lorsqu'ils assistent aux réunions du Conseil communal, aux réunions des commissions et des sections
+
+Au président du conseil communal ou à celui qui le remplace, à l'exclusion du bourgmestre ou de son remplaçant, il est alloué un double jeton de présence pour chaque réunion du conseil présidée.
+
+Le montant des jetons de présence et les avantages en nature octroyés aux conseillers communaux sont déterminés par le conseil communal.
+
+[<sup>6</sup> Le montant des jetons de présence est compris entre un minimum de 100,00 euros brut et un maximum de 200,00 euros brut à l'indice de référence 108,09. Le montant est indexé automatiquement en cas de dépassement de l'indice pivot par l'indice santé lissé, suivant le régime d'indexation d'application pour les salaires du secteur public, les pensions et les allocations. Le conseil communal peut fixer un jeton de présence d'un montant différent pour les séances des commissions et des sections, dans la limite des minimum et maximum fixés ci-avant.]<sup>6</sup>
+
+Les avantages en nature octroyés aux conseillers communaux ne peuvent être d'un montant annuel supérieur à 5 fois le montant maximal du jeton de présence.]<sup>5</sup>
+
+[§ [<sup>5</sup> 2]<sup>5</sup>. La commune peut, selon les modalités que le [<sup>2</sup> Gouvernement de la Région de Bruxelles-Capitale]<sup>2</sup> détermine, majorer les jetons de présence du conseiller communal qui bénéficie d'autres traitements, pensions, indemnités ou allocations légaux ou réglementaires, d'un montant compensant la perte de revenus subie par l'intéressé, pourvu que le mandataire en fasse lui-même la demande.
+
+Le montant des jetons de présence, majoré du montant compensant la perte de revenus, ne peut jamais excéder le traitement d'un échevin d'une commune de 50.000 habitants.] &lt;L 1999-05-04/92, art.2, En vigueur : 01-08-1999&gt;
+
+[<sup>4</sup> La somme des jetons du conseiller communal et des indemnités, traitements et jetons de présence, perçus par le conseiller communal en rétribution d'activités exercées en dehors de son mandat, est égale ou inférieure à une fois et demie le montant de l'indemnité parlementaire perçue par les membres de la Chambre des Représentants et du Sénat.
+
+Sont pris en considération pour le calcul de ce montant, les indemnités, les traitements ou jetons de présence découlant de l'exercice d'un mandat, d'une fonction ou d'une charge publics d'ordre politique.
+
+En cas de dépassement de la limite fixée à l'alinéa 3, le montant des indemnités, traitements ou jetons de présence découlant de l'exercice d'un mandat, d'une fonction ou d'une charge publics d'ordre politique, visés à l'alinéa précédent, est réduit à due concurrence.
+
+Lorsque les activités exercées en dehors du mandat de conseiller communal débutent ou prennent fin en cours de mandat, le conseiller communal concerné en informe le conseil.]<sup>4</sup>
+
+§ [<sup>5</sup> 3]<sup>5</sup>. Pour les communes de la région de langue allemande et les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, les délibérations sur l'objet visé au § 1er sont soumises à l'approbation de la députation permanente du conseil provincial.
+
+§ [<sup>5</sup> 4]<sup>5</sup>. Pour les communes de Comines-Larneton et de Fourons, les délibérations sur l'objet visé au § 1er sont soumises à l'approbation du gouverneur de province, qui exerce ses attributions conformément aux articles 267 à 269.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 5; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2003-07-17/69, art. 43; En vigueur : 01-01-2003&gt;
+
+(3)&lt;ORD 2012-07-23/09, art. 3; En vigueur : 01-01-2013&gt;
+
+(4)&lt;ORD 2016-07-20/33, art. 2, 007; En vigueur : 15-09-2016&gt;
+
+(5)&lt;ORD 2018-01-25/14, art. 3, 011; En vigueur : 01-12-2018&gt;
+
+(6)&lt;ORD 2022-07-06/09, art. 2, 022; En vigueur : 01-12-2024&gt;
+
+###### Art. 12bis
+
+[<sup>1</sup> § 1er. Le conseiller communal qui, en raison d'un handicap, ne peut exercer seul son mandat, peut, pour l'accomplissement de ce mandat, se faire assister par une personne de confiance, choisie parmi les personnes ayant la qualité d'électeurs dans une commune belge et qui n'est pas membre du personnel communal ni du personnel du centre public d'action sociale de la commune concernée.
+
+La personne de confiance ne peut se trouver dans une situation visée à l'article 71.
+
+§ 2. Pour l'application du paragraphe 1er, est considéré comme conseiller communal qui en raison d'un handicap ne peut exercer seul son mandat, le conseiller communal qui a besoin d'une assistance personnelle pour l'accomplissement de son mandat en raison du fait qu'il est atteint d'un handicap sensoriel, de troubles du langage, [<sup>2</sup> d'un handicap intellectuel,]<sup>2</sup> ou d'un handicap moteur par lequel il a des difficultés importantes pour manipuler les documents.
+
+§ 3. La preuve que le conseiller communal remplit les critères visés au paragraphe 2 est établie par une attestation émanant d'un médecin et précisant expressément que le conseiller communal est atteint d'un des handicaps mentionnés au paragraphe 2 de telle sorte qu'il ne peut pas exercer seul son mandat et qu'il a besoin d'une assistance personnelle pour l'accomplissement de celui-ci.
+
+§ 4. Lorsqu'elle fournit cette assistance, la personne de confiance dispose des mêmes moyens et est soumise aux mêmes obligations que le conseiller communal, mais elle n'est pas tenue de prêter le serment prévu à l'article 80. Elle a également droit à la perception d'un jeton de présence dans les mêmes conditions que le conseiller communal.
+
+§ 5. Lorsque la personne de confiance est une personne spécialement qualifiée agissant en qualité de professionnel, le conseil communal prend en charge sa rémunération, déduction faite des aides éventuellement accordées par d'autres autorités publiques pour l'assistance aux personnes handicapées.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 6, 018; En vigueur : 09-08-2020&gt;
+
+(2)&lt;ORD 2024-05-16/10, art. 2, 026; En vigueur : 09-06-2024&gt;
+
+###### Art. 12ter
+
+[<sup>1</sup> Un conseiller communal ou un membre du collège communal ne peut détenir plus de trois mandats d'administrateur dans une intercommunale.
+
+Le nombre de trois mandats se calcule en additionnant les mandats détenus au sein des intercommunales majorés, le cas échéant, des mandats dont l'élu disposerait dans ces organismes en sa qualité de conseiller de l'action sociale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2014-02-27/27, art. 3; En vigueur : 12-04-20014&gt;
+
+#### Section 3. - Du bourgmestre.
+
+###### Art. 13
+
+[<sup>3</sup> Le bourgmestre est nommé par le Gouvernement [<sup>4</sup> ...]<sup>4</sup> parmi les élus belges au conseil communal sur présentation écrite par au moins la majorité des élus de la liste sur laquelle il s'est présenté et par au moins la majorité des élus du conseil.
+
+Si le bourgmestre décède, s'il renonce à son mandat de bourgmestre, s'il perd la qualité de conseiller communal ou s'il est révoqué, un nouveau candidat est présenté par écrit par au moins la majorité des élus de la liste sur laquelle il s'est présenté et la majorité des élus du conseil dans les deux mois qui suivent la vacance du mandat.
+
+Si le candidat proposé à la fonction de bourgmestre est issu d'une liste ne comportant que deux élus, la signature d'un seul d'entre eux suffit pour que, selon le cas, les alinéas 1er et 2 soient respectés.]<sup>3</sup>
+
+[<sup>1</sup> Le]<sup>1</sup> bourgmestre peut être nommé en dehors des élus [belges] au conseil, parmi les électeurs [belges] de la commune âgés de vingt-cinq ans accomplis. &lt;L 1999-01-27/30, art. 3, 2°, En vigueur : 09-02-1999&gt;
+
+[En ce qui concerne les communes de Comines-Warneton et de Fourons, l'avis visé à l'alinéa précédent est donné par le gouverneur de province, de l'avis conforme du collège des gouverneurs de province prévu à l'article 131bis de la loi provinciale.] &lt;AR 30-05-1989, art. 2, MB 31-05-1989&gt;
+
+Le bourgmestre, lorsqu'il est nommé hors du conseil, a, dans tous les cas, voix délibérative dans le collège des bourgmestre et échevins. Il est de droit [<sup>2</sup> membre]<sup>2</sup> du conseil avec voix consultative.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 6; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2012-07-23/09, art. 4; En vigueur : 01-01-2013&gt;
+
+(3)&lt;ORD 2006-07-20/69, art. 1; En vigueur : 08-09-2006&gt;
+
+(4)&lt;ORD 2020-07-17/22, art. 7, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 13bis
+
+[<sup>1</sup> § 1er. Dans les communes périphériques visées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, l'acte de présentation du bourgmestre est confirmé par un vote du conseil communal et est transmis au Gouvernement flamand. A dater de ce vote, le candidat bourgmestre est désigné bourgmestre, porte le titre de " bourgmestre désigné " et exerce toutes les fonctions dévolues au bourgmestre. Il n'est toutefois pas remplacé comme échevin, s'il avait été élu comme échevin.
+
+§ 2. Dès réception de cet acte de présentation confirmé par le vote du conseil communal, le Gouvernement flamand dispose d'un délai de soixante jours pour procéder à la nomination du bourgmestre désigné ou notifier une décision de refus de nomination conformément au § 4.
+
+§ 3. Si le Gouvernement flamand nomme le bourgmestre désigné ou ne notifie pas de décision dans le délai qui lui est imparti, le bourgmestre désigné est définitivement nommé et remplacé comme échevin, conformément à la procédure prévue à l'article 15, § 2, s'il avait été élu comme échevin.
+
+§ 4. Si le Gouvernement flamand refuse la nomination définitive de l'intéressé, il notifie cette décision de refus au bourgmestre désigné, au gouverneur et au gouverneur adjoint de la province du Brabant flamand, au secrétaire communal de la commune concernée et à l'assemblée générale de la section du contentieux administratif du Conseil d'Etat. La notification au bourgmestre désigné indique également le lieu où le dossier administratif peut être consulté.
+
+§ 5. Le bourgmestre désigné dispose d'un délai de trente jours à partir de la réception de la notification visée au § 4 pour déposer un mémoire auprès de l'assemblée générale de la section du contentieux administratif du Conseil d'Etat.
+
+L'assemblée générale de la section du contentieux administratif statue dans les nonante jours de l'introduction de ce mémoire.
+
+L'inscription au rôle général du Conseil d'Etat s'opère au moment de l'introduction du mémoire.
+
+Le mémoire est daté et contient :
+
+1° l'intitulé " mémoire relatif à une décision concernant la nomination définitive d'un bourgmestre d'une commune périphérique ";
+
+2° le nom et le domicile du bourgmestre désigné, et le domicile élu;
+
+3° un exposé des faits et des moyens.
+
+Le mémoire n'est pas inscrit au rôle :
+
+1° s'il n'est pas signé ou n'est pas accompagné de quatre copies certifiées conformes par le signataire;
+
+2° s'il n'est pas joint un inventaire des pièces, lesquelles doivent toutes être numérotées conformément à cet inventaire.
+
+En cas d'application de l'alinéa 5, le greffier en chef adresse un courrier au bourgmestre désigné précisant la cause du non-enrôlement et l'invitant à régulariser son mémoire dans les quinze jours.
+
+Le bourgmestre désigné qui régularise son mémoire dans les quinze jours de la réception de l'invitation visée à l'alinéa 6 est censé l'avoir déposé à la date de son premier envoi.
+
+Un mémoire non régularisé ou régularisé de manière incomplète ou tardive est réputé non déposé.
+
+En même temps qu'il dépose son mémoire, le bourgmestre désigné envoie une copie de celui-ci au Gouvernement flamand pour son information. Cet envoi ne fait pas courir les délais que le Gouvernement flamand doit prendre en considération.
+
+Le greffier en chef transmet sans délai une copie du mémoire au Gouvernement flamand, à l'auditeur général et à l'auditeur général adjoint.
+
+Dans les quinze jours de la notification du mémoire par le greffier en chef, le Gouvernement flamand lui transmet le dossier administratif complet auquel il peut joindre une note d'observations.
+
+Un des exemplaires de la note est communiqué par le greffier en chef au bourgmestre désigné ainsi qu'aux membres de l'auditorat visés à l'article 93, § 5, des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973.
+
+Toute note d'observations tardive est écartée des débats.
+
+Dans les quinze jours de la réception du dossier, les membres de l'auditorat rédigent un rapport conformément à l'article 93, § 5, des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973. Le cas échéant, ils invitent les parties à s'expliquer plus amplement sur les points qu'ils indiquent.
+
+Au vu du rapport, le premier président ou le président fixe par ordonnance la date de l'audience à laquelle l'affaire sera traitée par l'assemblée générale de la section du contentieux administratif du Conseil d'Etat.
+
+L'ordonnance de fixation est notifiée sans délai par le greffier en chef :
+
+1° aux membres de l'auditorat visés à l'article 93, § 5, des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973;
+
+2° au Gouvernement flamand;
+
+3° au bourgmestre désigné.
+
+Le rapport est joint à la convocation. Les parties et leur avocat peuvent consulter le dossier au greffe pendant le temps fixé dans l'ordonnance du premier président ou du président.
+
+Les articles 93, § 5, alinéa 1er, 95, §§ 2 à 4, et 97, alinéa 3, des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973 sont applicables à la procédure instituée par le présent article. Les articles 21, alinéa 6, 21bis et 30, § 3, de ces mêmes lois coordonnées ne sont pas d'application.
+
+§ 6. Si le bourgmestre désigné ne dépose pas de mémoire endéans le délai de trente jours visé au § 5, premier alinéa, ou si l'assemblée générale de la section du contentieux administratif du Conseil d'Etat confirme la décision de refus, celle-ci est définitive. Le conseil communal dispose de trente jours à partir de la date à laquelle la décision de refus est devenue définitive pour confirmer par un vote un nouvel acte de présentation.
+
+§ 7. Si l'assemblée générale de la section du contentieux administratif du Conseil d'Etat infirme la décision de refus de nomination, son arrêt emporte la nomination définitive du bourgmestre désigné et son remplacement comme échevin, conformément à la procédure prévue à l'article 15, § 2, s'il avait été élu comme échevin.
+
+§ 8. Pour tout ce qui n'est pas réglé par le présent article, les lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973, et l'arrêté du Régent du 23 août 1948 déterminant la procédure devant la section du contentieux administratif du Conseil d'Etat sont d'application.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-07-19/27, art. 4; En vigueur : 14-10-2012&gt;
+
+###### Art. 14
+
+En cas d'absence ou d'empêchement du bourgmestre, ses fonctions sont remplies par l'échevin [de nationalité belge], le premier dans l'ordre des scrutins, à moins que le bourgmestre n'ait délégué un autre échevin [de nationalité belge]. [<sup>1</sup> En cas de cessation des fonctions du bourgmestre qui a donné une délégation, celle-ci continue de produire ses effets jusqu'à la prestation de serment d'un nouveau bourgmestre. Elle cesse alors de plein droit de sortir ses effets.]<sup>1</sup> &lt;L 1999-01-27/30, art. 4, 1°, En vigueur : 09-02-1999&gt;
+
+[Au cas où, dans les communes périphériques visées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, et dans les communes de Comines-Warneton et de Fourons, lors de l'installation du conseil communal après son renouvellement complet, le bourgmestre n'est pas nommé, le conseil communal désigne un échevin ou un conseiller communal [de nationalité belge] qui assumera la fonction de bourgmestre en attendant cette nomination.] &lt;AR 30-05-1989, art. 3, MB 31-05-1989 et L 1999-01-27/30, art. 4, 2°, En vigueur : 09-02-1999&gt;
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 7; En vigueur : 01-01-2003&gt;
+
+###### Art. 14bis
+
+[<sup>1</sup> Est considéré comme empêché :
+
+\- le bourgmestre qui exerce la fonction de Ministre, de Secrétaire d'Etat, de membre d'un Gouvernement régional ou communautaire ou de Secrétaire d'Etat régional, pendant la période d'exercice de cette fonction ;
+
+\- le bourgmestre qui, pour des raisons d'études ou en raison d'un séjour à l'étranger, veut être remplacé pendant un délai d'au moins douze semaines dans les mêmes conditions que celles définies à l'article 18, 2° ;
+
+\- le bourgmestre qui prend un congé parental à l'occasion de la naissance ou de l'adoption d'un enfant dans les mêmes conditions que celles définies à l'article 18, 3° ;
+
+\- le bourgmestre qui prend un congé d'au moins douze semaines en vue de dispenser des soins à un membre de la famille ou de son ménage dans les mêmes conditions que celles définies à l'article 18, 5°.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2022-12-15/33, art. 2, 023; En vigueur : 16-02-2023&gt;
+
+#### Section 4. - Des échevins.
+
+###### Art. 15
+
+[§ 1er.] &lt;AR 30-05-1989, art. 4, MB 31-05-1989&gt; [<sup>1</sup> Les échevins sont élus par le conseil en son sein. Chacun d'eux est présenté par écrit par au moins la majorité des élus de la liste sur laquelle il s'est présenté et par au moins la majorité des élus du conseil. [<sup>3</sup> Pour être recevables, les actes de candidature doivent comprendre l'accord exprès du candidat et ils doivent, ensemble, respecter les règles de la parité prévues à l'article 16. ]<sup>3</sup>
+
+L'installation des échevins a lieu lors de la séance visée à l'article 2, alinéa 1er.
+
+Le rang des échevins est déterminé par l'ordre de présentation.
+
+Si un échevin décède, s'il renonce à son mandat d'échevin, s'il perd la qualité de conseiller communal ou s'il est révoqué, un nouveau candidat est présenté par écrit par au moins la majorité des élus de la liste sur laquelle il s'est présenté et la majorité des élus du conseil dans les deux mois qui suivent la vacance du mandat.
+
+Si le candidat proposé à la fonction d'échevin est issu d'une liste ne comportant que deux élus, la signature d'un seul d'entre eux suffit pour que, selon le cas, les alinéas 1er et 4 soient respectés.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[§ 2. Par dérogation au § 1er les échevins des communes périphériques visées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, et des communes de Comines-Warneton et de Fourons sont élus directement par l'assemblée des électeurs communaux de la manière suivante:
+
+Les quotients obtenus en application de l'article 56 de la loi électorale communale, coordonnée le 4 août 1932, sont classés dans l'ordre de leur importance jusqu'à concurrence d'un nombre total de quotients égal à celui des échevins à élire.
+
+La répartition entre les listes s'opère en attribuant à chaque liste autant de mandats d'échevin que son chiffre électoral a fourni de quotients égaux ou supérieurs au dernier quotient utile.
+
+Si une liste obtient plus de mandats d'échevin qu'elle ne porte de candidats, les mandats non attribués sont ajoutés à ceux revenant aux autres listes; la répartition entre celles-ci se fait en poursuivant l'opération indiquée au premier alinéa de l'article 56 de la loi électorale communale, chaque quotient nouveau déterminant l'attribution d'un mandat à la liste à laquelle il se rapporte.
+
+Le mandat d'échevin sera attribué aux candidats élus membres du conseil, dans l'ordre de leur élection.
+
+Le rang des échevins est déterminé par l'ordre d'attribution du mandat.
+
+Les règles relatives à la démission du mandat de conseiller communal s'appliquent à la démission des fonctions d'échevin.
+
+En cas de vacance, le mandat d'échevin est attribué à un conseiller de la même liste que celle de l'échevin à remplacer, conformément aux dispositions fixées au cinquième alinéa.] &lt;AR 30-05-1989, art. 4, MB 31-05-1989&gt;
+
+[Dans les cas d'empêchement visés à l'article 18, l'échevin empêché est remplacé pendant la période d'empêchement par un conseiller désigné conformément à l'alinéa 8.] &lt;L 21-03-1991, art. 3, MB 09-04-1991&gt;
+
+----------
+
+(1)&lt;ORD 2006-07-20/69, art. 4; En vigueur : 08-09-2006&gt;
+
+(2)&lt;ORD 2018-03-01/12, art. 2, 010; En vigueur : 22-03-2018&gt;
+
+(3)&lt;ORD 2018-03-01/12, art. 3, 010; En vigueur : 22-03-2018&gt;
+
+###### Art. 16
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Il y a maximum :
+
+\- 5 échevins, dont au moins 2 échevins d'un sexe différent des autres dans les communes jusqu'à 29.999 habitants ;
+
+\- 6 échevins, dont 3 femmes et 3 hommes, dans celles de 30.000 à 49.999 habitants ;
+
+\- 7 échevins, dont au moins 3 échevins d'un sexe différent des autres, dans celles de 50.000 à 99.999 habitants ;
+
+\- 8 échevins, dont 4 femmes et 4 hommes, dans celles de 100.000 habitants à 199.999 habitants ;
+
+\- 9 échevins, dont au moins 4 échevins d'un sexe différent des autres, dans celles de 200.000 habitants et plus.
+
+Le conseil communal peut décider de réduire le nombre d'échevins fixé à l'alinéa premier. Les règles de parité fixées dans ce même alinéa s'appliquent mutatis mutandis au nombre d'échevins fixés par le conseil communal.
+
+Par dérogation à l'alinéa 2, le collège des bourgmestre et échevins comporte outre le bourgmestre, au moins 4 échevins, dont 2 femmes et 2 hommes.]<sup>2</sup>
+
+§ 2. Il ne peut être dérogé au § 1er que si un tiers des membres du collège des bourgmestre et échevins sont au minimum de sexe différent des autres.
+
+Pour calculer cette proportion, il peut exceptionnellement être fait usage des deux possibilités suivantes :
+
+\- le président du CPAS peut être comptabilisé dans le calcul du nombre de membres du collège des bourgmestre et échevins ;
+
+\- l'échevin premier élu parmi ceux de qui l'appartenance linguistique est minoritaire au sein du collège des bourgmestre et échevins, permettant l'application de l'article 279 de la Nouvelle loi communale et de l'article 46bis de la loi spéciale du 12 janvier 1989 relative aux Institutions bruxelloises, peut ne pas être comptabilisé dans le calcul du nombre de membres du collège des bourgmestre et échevins.
+
+Pour l'application du pourcentage visé à l'alinéa 1er, tout nombre décimal est arrondi à l'unité supérieure si le nombre décimal est supérieur à cinq.
+
+S'il est fait usage de la possibilité prévue à l'alinéa 2, 1er tiret, du présent paragraphe, une déclaration signée par la majorité des élus du conseil signalant le candidat qui sera proposé à la présidence du CPAS est jointe aux actes de présentation visés à l'article 15, § 1er, et à l'article 18bis.
+
+§ 3. Il ne peut être dérogé aux §§ 1er et 2, que si l'ensemble des listes formant la majorité ne comprend pas le nombre d'élus permettant de rencontrer les chiffres qui y sont prévus. Dans ce cas, l'ensemble des élus du sexe qui est minoritaire et qui figurent sur les listes formant la majorité sont présentés comme candidats aux postes d'échevin ou de bourgmestre et/ou sont signalés comme candidat président de CPAS.
+
+§ 4. Dans le cas du remplacement d'un échevin en application de l'article 15, § 1er, alinéa 4, ou de l'article 18, le nouveau candidat présenté ne peut être de sexe différent de l'échevin remplacé que dans les cas suivants :
+
+\- si les conditions visées au § 2 sont respectées ;
+
+\- s'il s'agit, au moment de la présentation, du seul échevin provenant d'une liste ;
+
+\- si, au moment de la présentation, aucun élu de la même appartenance linguistique issu de sa liste et non visé par les incompatibilités visées à l'article 72 n'appartient au même sexe que lui ;
+
+\- dans le cas visé à l'article 17 ;
+
+\- si le candidat de sexe minoritaire visé au § 3 n'a pas été élu par le conseil communal conformément à l'article 15.
+
+Pour l'application du présent paragraphe, la liste correspond au groupe politique existant au moment du remplacement de l'échevin. ]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2018-03-01/12, art. 4, 010; En vigueur : 22-03-2018&gt;
+
+(2)&lt;ORD 2022-07-06/09, art. 3, 022; En vigueur : 01-12-2024&gt;
+
+###### Art. 17
+
+&lt;L 21-03-1991, art. 4, MB 09-04-1991&gt; En cas d'absence ou d'empêchement d'un échevin, il est remplacé par le membre [belge] du conseil le premier dans l'ordre du tableau [<sup>2</sup> de préséance visé à l'alinéa 2]<sup>2</sup>, et ainsi de suite, [<sup>1</sup> à l'exception du président du conseil et de son suppléant et sauf]<sup>1</sup> les incompatibilités mentionnées à l'article 72. &lt;L 1999-01-27/30, art. 6, En vigueur : 09-02-1999&gt;
+
+Le tableau [<sup>2</sup> de préséance est établi en fonction de l'ancienneté]<sup>2</sup> de service des conseillers, à dater du jour de leur première entrée en fonction, et, en cas de parité, d'après le nombre de votes obtenus lors de la plus récente élection.
+
+----------
+
+(1)&lt;ORD 2012-07-23/09, art. 5; En vigueur : 01-01-2013&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 9, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 18
+
+[<sup>1</sup> Par dérogation à l'article 17 et sans préjudice de l'article 279, § 1er, alinéa 3, l'échevin empêché est remplacé par un membre du conseil présenté par le conseil communal conformément à l'article 15, § 1er, dans les cas suivants :
+
+1° quand l'échevin exerce la fonction de ministre, de secrétaire d'Etat, de membre d'un Gouvernement régional ou communautaire ou de secrétaire d'Etat régional, pendant la période d'exercice de cette fonction ;
+
+2° [<sup>2</sup> quand l'échevin, pour des raisons d'études ou en raison d'un séjour à l'étranger veut être remplacé pendant une période minimale de douze semaines et a adressé sa demande par écrit au collège des bourgmestre et échevins accompagnée d'une attestation de l'établissement d'enseignement ou du donneur d'ordre]<sup>2</sup>;
+
+3° quand l'échevin souhaite prendre un congé parental pour la naissance ou l'adoption d'un enfant. Cet échevin sera remplacé, à sa demande écrite adressée au collège des bourgmestre et échevins, au plus tôt à partir de la sixième semaine précédant la date présumée de la naissance ou de l'adoption, jusqu'à la fin de la neuvième semaine suivant la naissance ou l'adoption. Sur demande écrite, l'interruption de l'exercice du mandat est prolongée après la neuvième semaine d'une durée égale à celle pendant laquelle l'échevin a exercé son mandat pendant la période de six semaines précédant la date de la naissance ou de l'adoption. En cas de naissance ou d'adoption multiple, le congé peut, sur demande de l'échevin, être prolongé pour une période maximale de deux semaines ;
+
+4° [<sup>2</sup> quand, à la demande du collège des bourgmestre et échevins, l'échevin qui remplace un bourgmestre considéré comme empêché conformément à l'article 14bis est remplacé pour la période pendant laquelle il remplace le bourgmestre ;]<sup>2</sup>
+
+5° quand l'échevin, en raison d'un congé pour soins palliatifs ou d'un congé d'assistance ou pour dispenser des soins soit à un membre de la famille jusqu'au deuxième degré inclus souffrant d'une maladie grave, soit à un membre du ménage souffrant d'une maladie grave, souhaite s'absenter pendant une période minimale de douze semaines. Il adresse pour ce faire une demande écrite au collège des bourgmestre et échevins, assortie d'une déclaration sur l'honneur dans laquelle l'échevin se déclare disposé à dispenser de l'assistance ou des soins. Le nom du patient n'est pas mentionné;]<sup>1</sup>
+
+[<sup>2</sup> 6° quand l'échevin, pour des raisons médicales, veut être remplacé pendant une période minimale de douze semaines. Il adresse pour ce faire une demande écrite au collège des bourgmestre et échevins.
+
+A sa demande de remplacement temporaire est jointe une attestation médicale, datant de maximum 15 jours, précisant la période d'absence pour raisons médicales. Lorsque l'échevin qui reste absent pour raisons médicales n'est pas en mesure d'adresser cette demande au collège des bourgmestre et échevins, il sera considéré de plein droit comme empêché à partir de la troisième réunion suivant celle où il a été absent et aussi longtemps qu'il demeure absent.]<sup>2</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 10, 018; En vigueur : 09-08-2020&gt;
+
+(2)&lt;ORD 2022-12-15/33, art. 3, 023; En vigueur : 16-02-2023&gt;
+
+#### Section 4bis. [<sup>1</sup> De l'acte de présentation du bourgmestre, des échevins, du président du conseil et de son suppléant]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2012-07-23/09, art. 6; En vigueur : 01-01-2013&gt;
+
+###### Art. 18bis
+
+[<sup>1</sup> Les actes de présentation doivent être déposés dans les mains du secrétaire communal qui en accuse réception et doivent être conformes aux règles prévues aux articles [<sup>2</sup> 8bis, § 1er, ]<sup>2</sup> 13, alinéa 1er [<sup>3</sup> ,15, § 1er, et 16.]<sup>3</sup>. Ils peuvent l'être à partir de la proclamation des résultats.
+
+[<sup>2</sup> Le secrétaire communal transmet l'acte de présentation du bourgmestre au Gouvernement. Il transmet les différents actes de présentation d'échevins, du président du conseil ou de son suppléant, au plus tard trois jours avant la séance du conseil à l'ordre du jour de laquelle figure l'élection d'échevins, du président du conseil ou de son suppléant, selon le cas. Nul ne peut signer plusieurs actes de présentation à une même fonction; seul l'acte de présentation d'un candidat à une fonction d'échevin, de bourgmestre, de président du conseil ou de suppléant au président du conseil déposé le premier en date dans les mains du secrétaire communal est recevable.]<sup>2</sup> ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2006-07-20/69, art. 5; En vigueur : 08-09-2006&gt;
+
+(2)&lt;ORD 2012-07-23/09, art. 7; En vigueur : 01-01-2013&gt;
+
+(3)&lt;ORD 2018-03-01/12, art. 5, 010; En vigueur : 22-03-2018&gt;
+
+#### Section 5. - Du traitement [<sup>1</sup> ...]<sup>1</sup> des bourgmestres et échevins.
+
+----------
+
+(1)&lt;ORD 2024-02-22/01, art. 2, 028; En vigueur : 07-03-2024&gt;
+
+###### Art. 19
+
+§ 1er. [<sup>6</sup> § 1er. Le Gouvernement détermine les règles de calcul du traitement des bourgmestres compte tenu du nombre d'habitants de la commune. Le traitement du bourgmestre s'exprime en pourcentage de l'indemnité parlementaire des membres du Parlement fédéral, à l'exclusion de l'indemnité forfaitaire pour frais exposés, de la prime de fin d'année, du pécule de vacances ainsi que des autres indemnités.]<sup>6</sup>
+
+§ 2. [<sup>5</sup> Le traitement des échevins s'élève :
+
+1° dans les communes jusqu'à 50.000 habitants : à 60 % du traitement du bourgmestre;
+
+2° dans les communes à partir de 50.001 habitants : à 75 % du traitement du bourgmestre.
+
+[<sup>6</sup> Par dérogation à l'alinéa 1er, 1°, si le conseil communal décide de réduire le nombre d'échevins fixé à l'article 16, § 1er, alinéa 1er, en application de l'alinéa 2 du même article, la rémunération des échevins s'élève à 75 % du traitement du bourgmestre.]<sup>6</sup>
+
+Pour l'application des paragraphes 1er et 2, le nombre d'habitants à prendre en considération est le chiffre de la population, arrêté par le Gouvernement conformément à l'article 5, alinéa 1er.]<sup>5</sup>
+
+§ 3. [<sup>5</sup> Le Gouvernement fixe les modalités de paiement de ces traitements.
+
+Lorsque la fixation des traitements opérée conformément aux § 1er et § 2 entraîne la réduction ou la suppression d'autres traitements, indemnités ou allocations légales ou réglementaires, le Gouvernement peut, selon les modalités qu'il détermine, réduire le traitement du bourgmestre ou de l'échevin, pour autant que celui-ci en ait fait la demande.
+
+Dans les communes de moins de 50.000 habitants, la commune peut, selon les modalités que le Gouvernement détermine, majorer le traitement du bourgmestre ou de l'échevin qui bénéficie de traitements, pensions, indemnités ou allocation légaux ou réglementaires, d'un montant compensant la perte de revenus subie par l'intéressé, pour autant que le mandataire en fasse lui-même la demande.
+
+Le traitement du bourgmestre ou de l'échevin, majoré du montant compensant la perte de revenus, ne peut jamais excéder respectivement le traitement d'un bourgmestre ou d'un échevin d'une commune de 50.000 habitants.]<sup>5</sup>
+
+[<sup>5</sup> § 4. En dehors de ces traitements attachés à l'exercice de leurs mandats originaires, et sauf les avantages de toute nature et frais de représentation attachés à l'exercice de leurs fonctions, les bourgmestres et échevins ne pourront jouir d'aucune rétribution à charge de la commune, pour quelque cause et sous quelque dénomination que ce soit.
+
+Le Gouvernement détermine :
+
+\- les montants maximaux des avantages de toute nature et frais de représentation des échevins et bourgmestre;
+
+\- l'enveloppe budgétaire globale maximale consacrée aux avantages de toute nature et frais de représentation des bourgmestres, échevins et conseillers communaux, ainsi qu'aux jetons de présence de ces derniers.
+
+Les frais de représentation seront remboursés sur la base de justificatifs et d'une note de frais conforme dont le modèle est arrêté par le Gouvernement.
+
+Les mandats dérivés exercés par les bourgmestres et échevins ne peuvent ouvrir à aucune rémunération ou indemnité.
+
+Par " mandat ou fonction dérivé(e) ", il faut entendre la définition offerte par l'article 3 de l'ordonnance du 12 janvier 2006 relative à la transparence des rémunérations et avantages des mandataires publics bruxellois ou, en cas de modification ou abrogation de cette dernière ordonnance, à la définition figurant dans la norme modificative ou abrogatoire.]<sup>5</sup>
+
+[<sup>5</sup> § 5. Le pécule de vacances et la prime de fin d'année des bourgmestre et échevins sont fixés par le Gouvernement.]<sup>5</sup>
+
+[<sup>5</sup> § 6. S'il échet, le Gouvernement fixe les mesures complémentaires nécessaires pour assurer le maintien des droits acquis des bourgmestres et échevins en fonction au plus tard le 1er juin 1976.]<sup>5</sup>
+
+[§ [<sup>5</sup> 7]<sup>5</sup>. Si les bourgmestres et échevins ne sont pas soumis à la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs en vertu de leur activité de travailleur salarié ou à l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants en vertu de leur activité d'indépendant, et que sans l'application de la présente disposition, ils ne bénéficieraient des prestations en matière des soins de santé que moyennant le paiement de cotisations personnelles complémentaires, ils sont assujettis par la commune aux régimes assurance obligatoire soins de santé et indemnités, allocations de chômage et allocations familiales visés à l'article 5, a), b), e) et f), de la loi du 27 juin 1969 précitée.
+
+[<sup>2</sup> Sont également assujettis aux régimes susvisés, les bourgmestres et échevins assujettis à la loi du 27 juin 1969 révisant l'arrêté-loi du 28 décembre 1944 concernant la sécurité sociale des travailleurs ou à l'arrêté royal n° 38 du 27 juillet 1967 organisant le statut social des travailleurs indépendants, qui sans l'application de la présente disposition ne bénéficieraient des prestations en matière d'assurance obligatoire soins de santé que moyennant le paiement de cotisations personnelles complémentaires.]<sup>2</sup>
+
+[<sup>1</sup> Les cotisations du travailleur et de l'employeur visées à l'article 38, § 2, 2°, 3°, 4°, et § 3, 2°, 3° et 4°, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs et à l'article 18 de l'arrêté royal du 25 octobre 1985 portant exécution du chapitre 1er, section 1, de la loi du 1er août 1985 portant des dispositions sociales, calculées sur le montant de leur traitement complet, sont déclarées et payées à l'Office national de sécurité sociale des administrations provinciales et locales.]<sup>1</sup>
+
+Si, après la fin de leur mandat politique, les bourgmestres et échevins ainsi que les anciens bourgmestres et échevins ne [<sup>1</sup> peuvent bénéficier]<sup>1</sup> des prestations relatives à l'assurance obligatoire soins de santé, qu'en application de l'article 32, 15° de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, les cotisations personnelles dues en vertu de cette disposition sont prises en charge par la commune du lieu où ils ont exercé leur dernier mandat.
+
+Le Roi fixe par arrêté délibéré en Conseil des ministres les modalités d'exécution de la présente disposition.] &lt;L 2000-08-12/62, art. 118, En vigueur : 01-01-2000&gt;
+
+----------
+
+(1)&lt;L 2001-03-23/31, art. 10; En vigueur : 01-01-2001&gt;
+
+(2)&lt;L 2002-12-24/31, art. 109; En vigueur : 01-01-2001&gt;
+
+(3)&lt;ORD 2003-07-17/69, art. 43; En vigueur : 01-01-2003&gt;
+
+(4)&lt;ORD 2006-03-09/36, art. 2; En vigueur : 01-04-2006&gt;
+
+(5)&lt;ORD 2018-01-25/14, art. 4, 011; En vigueur : 01-12-2018&gt;
+
+(6)&lt;ORD 2022-07-06/09, art. 4, 022; En vigueur : 01-12-2024&gt;
+
+###### Art. 19/1
+
+[<sup>1</sup> § 1er. Le bourgmestre et les échevins reçoivent une indemnité de sortie à charge de la commune :
+
+1° lorsque le mandat a pris fin suite au renouvellement intégral du corps communal et que le mandataire n'exerce plus de nouveau mandat de bourgmestre ou d'échevin ;
+
+2° lorsque le mandat exécutif prend fin conformément à la date de fin de mandat mentionnée sur l'acte de présentation et que le mandataire n'exerce plus de nouveau mandat exécutif ;
+
+3° lorsque le mandat prend fin en raison d'une démission pour raisons médicales. La démission pour raisons médicales est attestée par un certificat d'incapacité de travail de longue durée délivré par un médecin.
+
+§ 2. L'intéressé a droit à une indemnité de sortie d'un mois par année prestée, avec un maximum de douze mois. Lorsque le mandataire exécutif local a exercé plusieurs mandats successifs, seul le traitement annuel perçu pour le mandat exercé en dernier lieu est pris en compte.
+
+L'indemnité de sortie est versée mensuellement.
+
+§ 3. L'indemnité de sortie prend fin :
+
+1° lorsque l'intéressé perçoit un autre revenu professionnel ;
+
+2° en cas de décès de l'intéressé, à compter du mois suivant le mois du décès.
+
+Un revenu de remplacement pour cause de chômage, de retraite ou d'incapacité de travail constitue également un autre revenu professionnel au sens de l'alinéa 1er, 1°.
+
+Par dérogation à l'alinéa 1er, 1°, si cet autre revenu professionnel est inférieur à l'indemnité de sortie, l'intéressé obtient à sa demande la différence.
+
+§ 4. Pour bénéficier de l'indemnité de sortie mentionnée au premier paragraphe, ou de la différence visée au paragraphe 3, alinéa 3, l'intéressé présente mensuellement une déclaration sur l'honneur attestant que, au cours de la période en question, il n'a pas perçu de revenu professionnel ou a perçu un revenu professionnel inférieur au montant de l'indemnité de sortie visée au deuxième paragraphe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2022-07-06/09, art. 5, 022; En vigueur : 01-12-2024&gt;
+
+###### Art. 20
+
+[<sup>1</sup> § 1er. Dans les cas d'empêchement visés aux articles 14bis et 18, le traitement attaché à la fonction est alloué immédiatement à la personne qui remplace le mandataire empêché. Le mandataire empêché ne reçoit pas de traitement pour la période d'empêchement.
+
+§ 2. Lorsque pour d'autres motifs que ceux visés au paragraphe 1er, un échevin remplace le bourgmestre pour un terme d'un mois minimum, le traitement attaché à la fonction lui est alloué pour toute la durée où il l'a remplie. Dans un tel cas, le bourgmestre empêché ne perçoit pas de traitement pour cette même période.
+
+De même, lorsque pour d'autres motifs que ceux visés au paragraphe 1er, un membre du conseil communal remplit la fonction d'échevin pour un terme d'un mois minimum, le traitement attaché à cette fonction lui est alloué pour toute la durée où il l'a remplie. Dans une telle hypothèse, l'échevin empêché ne perçoit pas de traitement pour cette même période.
+
+§ 3. Dans les cas visés aux paragraphes 1er et 2, alinéa 1er, l'échevin remplaçant ne peut percevoir à la fois le traitement de bourgmestre et celui d'échevin.
+
+§ 4. En dérogation au paragraphe 2, lorsque la cause de l'absence est la maladie, le bourgmestre ou l'échevin conserve son traitement durant une période maximale de trois mois sous certificat médical, à dater du premier jour d'absence couvert par certificat médical. L'échevin remplaçant ou le conseiller remplaçant n'acquiert le droit au traitement attaché à la fonction qu'à l'issue de cette période.
+
+§ 5. Les délais mentionnés aux §§ 2 et 4, alinéa 1er, se calculent de quantième à veille de quantième.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2022-12-15/33, art. 4, 023; En vigueur : 16-02-2023&gt;
+
+###### Art. 20bis
+
+&lt;Inséré par L 1999-05-04/89, art. 2, En vigueur : 31-01-2000&gt; La somme du traitement de bourgmestre ou d'échevin et des indemnités, traitements et jetons de présence, perçus par le bourgmestre ou l'échevin en rétribution d'activités exercées en dehors de son mandat, est égale ou inférieure à une fois et demie le montant de l'indemnité parlementaire perçue par les membres de la Chambre des Représentants et du Sénat.
+
+Sont pris en considération pour le calcul de ce montant, les indemnités, traitements ou jetons de présence découlant de l'exercice d'un mandat, d'une fonction ou d'une charge publics d'ordre politique.
+
+En cas de dépassement de la limite fixée à l'alinéa 1er, le montant des indemnités, traitements ou jetons de présence découlant de l'exercice d'un mandat, d'une fonction ou d'une charge publics d'ordre politique, visés à l'alinéa précédent, est réduit à due concurrence.
+
+Lorsque les activités exercées en dehors du mandat de bourgmestre ou d'échevin débutent ou prennent fin en cours de mandat, le bourgmestre ou l'échevin concerné en informe le conseil communal.
+
+###### Art. 21
+
+[<sup>1</sup> Le Gouvernement détermine les conditions d'octroi du titre honorifique au bourgmestre, aux échevins et aux conseillers communaux.
+
+Le Gouvernement détermine de même [<sup>2</sup> ...]<sup>2</sup> le signe distinctif des bourgmestres et échevins.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 11, 018; En vigueur : 09-08-2020&gt;
+
+(2)&lt;ORD 2024-02-22/01, art. 3, 028; En vigueur : 07-03-2024&gt;
+
+#### Section 5bis. [<sup>1</sup> - Du personnel mis à la disposition du bourgmestre et des échevins]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2024-02-22/03, art. 2, 031; En vigueur : 01-12-2024&gt;
+
+###### Art. 21bis
+
+[<sup>1</sup> § 1er. Au plus tard dans les trois mois de son installation, le conseil communal décide si les membres du collège des bourgmestre et échevins peuvent disposer d'un cabinet. Le conseil communal règle la composition et le financement des cabinets, la possibilité de détacher du personnel communal, ainsi que le mode de recrutement, le statut administratif, la rémunération et les indemnités éventuelles des collaborateurs des cabinets.
+
+Les membres d'un cabinet ne peuvent pas être parents ou alliés jusqu'au deuxième degré inclus, ni être unis par les liens du mariage ou cohabitants légaux avec un membre du collège des bourgmestre et échevins.
+
+Ils ne peuvent pas occuper les fonctions visées à l'article 71, alinéa 1er, 1° et 2°.
+
+Ils peuvent être des membres détachés de l'administration communale, moyennant l'accord préalable du secrétaire communal. Seuls les membres du personnel des rangs E1 à A4 peuvent être détachés dans le cabinet du bourgmestre ou d'un échevin.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2024-02-22/03, art. 2, 031; En vigueur : 01-12-2024&gt;
+
+#### Section 6. - De la démission des fonctions de conseiller ou d'échevin.
+
+###### Art. 22
+
+[<sup>4</sup> La démission des fonctions de conseiller, de président ou de suppléant du président du conseil et d'échevin]<sup>4</sup> est donnée par écrit au conseil communal.
+
+Le conseiller ou l'échevin qui contesterait le fait de sa démission peut se pourvoir devant [<sup>1</sup> le collège juridictionnel]<sup>1</sup> qui statue conformément à l'[<sup>5</sup> article 75, § 1er, alinéa 2, du Code électoral communal bruxellois]<sup>5</sup>.
+
+La décision est notifiée par les soins du [<sup>1</sup> président du collège juridictionnel]<sup>1</sup> au conseiller ou à l'échevin intéressé.
+
+Un recours au Conseil d'État lui est ouvert dans les huit jours qui suivent la notification.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+La démission des fonctions de bourgmestre est adressée au [<sup>3</sup> Gouvernement [<sup>5</sup> ...]<sup>5</sup>]<sup>3</sup> et notifiée au conseil.
+
+Le bourgmestre qui désirerait donner sa démission comme conseiller ne peut l'adresser au conseil qu'après avoir préalablement obtenu du [<sup>3</sup> Gouvernement [<sup>5</sup> ...]<sup>5</sup>]<sup>3</sup> sa démission comme bourgmestre.
+
+Toute notification au conseil faite prématurément, est réputée non avenue.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 8; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2003&gt;
+
+(3)&lt;ORD 2003-07-17/69, art. 43; En vigueur : 01-01-2003&gt;
+
+(4)&lt;ORD 2012-07-23/09, art. 8; En vigueur : 01-01-2013&gt;
+
+(5)&lt;ORD 2020-07-17/22, art. 12, 018; En vigueur : 09-08-2020&gt;
+
+#### Section 7. Du secrétaire et du receveur.
+
+##### Sous-section 1. - Dispositions générales.
+
+###### Art. 23
+
+Il y a dans chaque commune un secrétaire et un receveur.
+
+###### Art. 24
+
+&lt;Abrogé par ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2005&gt;
+
+##### Sous-section 2. - Du secrétaire.
+
+##### A. - De la nomination.
+
+###### Art. 25
+
+&lt;L 17-10-1990, art. 1, MB 14-12-1990&gt; § 1er. Le secrétaire est nommé par le conseil communal aux conditions fixées conformément à l'article 145 [<sup>1</sup> ou désigné dans un mandat conformément à l'article 69]<sup>1</sup>.
+
+La nomination a lieu dans les six mois de la vacance de l'emploi.
+
+[<sup>1</sup> § 1erbis. Le conseil communal peut nommer un secrétaire hors cadre six mois avant la date prévisible de la vacance de l'emploi. Le secrétaire nommé hors cadre prend la fonction de secrétaire le jour de la cessation des fonctions du secrétaire sortant. Dans l'intervalle, il l'assiste dans ses missions.]<sup>1</sup>
+
+§ 2. Avant d'entrer en fonction, le secrétaire prête le serment visé à l'article 80, au cours d'une séance publique du conseil communal, entre les mains du président.
+
+Il en est dressé procès-verbal.
+
+Le secrétaire qui, sans motif légitime, ne prête pas serment après avoir été invité à le faire lors de la plus prochaine réunion du conseil communal par une lettre recommandée à la poste, est réputé renoncer à sa nomination.
+
+----------
+
+(1)&lt;ORD 2009-03-05/34, art. 2; En vigueur : 23-03-2009&gt;
+
+##### B. - Des devoirs et des interdictions.
+
+###### Art. 26
+
+&lt;L 17-10-1990, art. 2, MB 14-12-1990&gt; Le secrétaire est tenu de se conformer aux instructions qui lui sont données soit par le conseil, [<sup>1</sup> soit par son président,]<sup>1</sup> soit par le collège des bourgmestre et échevins, soit par le bourgmestre, selon leurs attributions respectives.
+
+----------
+
+(1)&lt;ORD 2012-07-23/09, art. 9; En vigueur : 01-01-2013&gt;
+
+###### Art. 26bis
+
+[<sup>1</sup> § 1er. Le secrétaire exerce en tout état de cause les compétences suivantes :
+
+1° la direction générale des services communaux, dont il veille au bon fonctionnement et à la coordination;
+
+2° la direction et la gestion journalière du personnel;
+
+3° la présidence du comité de direction,
+
+4° [<sup>2</sup> l'établissement des projets de cadre du personnel, d'organigramme, de plans de formation et de règlements de travail;]<sup>2</sup>
+
+5° la préparation et l'exécution, notamment au sein du comité de direction, des axes politiques fondamentaux compris dans la [<sup>4</sup> note explicative]<sup>4</sup> visée à l'article 242bis ;
+
+6° la préparation des dossiers soumis au conseil communal et au collège;
+
+7° la rédaction des procès-verbaux des séances du conseil communal et du collège, auxquelles il assiste;
+
+8° le contreseing de toutes les pièces officielles émanant de l'administration communale, et notamment de la correspondance;
+
+9° la dispense de conseils juridiques et administratifs au conseil communal et au collège, notamment quant au respect des lois;
+
+10° la mise sur pied et le suivi du système de contrôle interne tel que visé au titre VIbis.
+
+[<sup>3</sup> 11° la rédaction du rapport annuel visé par l'article 7 de l'ordonnance du 12 janvier 2006 sur la transparence des rémunérations et avantages des mandataires publics bruxellois ou, en cas de modification ou abrogation de cette dernière ordonnance, la rédaction du rapport tel que défini par la norme modificative ou abrogatoire.]<sup>3</sup>
+
+[<sup>4</sup> § 1/1. Le collège peut confier au secrétaire le pouvoir d'affecter, par voie de mobilité, les membres du personnel aux fonctions les plus appropriées compte tenu de leurs compétences et de leur capacité. Le collège est informé des décisions prises par le secrétaire dans le cadre de cette délégation.]<sup>4</sup>
+
+§ 2. Au moins après chaque approbation du plan triennal visé à l'article 242bis, le secrétaire communal conclut avec le collège, également au nom du comité de direction, une note d'accord sur la manière dont lui-même, le comité de direction, le conseil communal et le collège collaboreront afin de rencontrer les objectifs politiques, et sur les procédures à respecter dans les relations entre le collège et l'administration.
+
+Cette note d'accord détermine la façon dont le secrétaire exerce les compétences qui lui ont été déléguées.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2009-03-05/34, art. 3; En vigueur :23-03-2009&gt;
+
+(2)&lt;ORD 2014-02-27/27, art. 4; En vigueur : 12-04-2014&gt;
+
+(3)&lt;ORD 2018-01-25/14, art. 5, 011; En vigueur : 01-12-2018&gt;
+
+(4)&lt;ORD 2020-07-17/22, art. 13, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 27
+
+Il est interdit aux secrétaires communaux d'exercer un commerce, même par personne interposée.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 14, 018; En vigueur : 09-08-2020&gt;
+
+##### C. - Du statut pécuniaire.
+
+###### Art. 28
+
+§ 1er. [<sup>3</sup> § 1er. Le conseil communal fixe l'échelle du traitement du secrétaire, dans les limites minimum et maximum déterminées ci-après :
+
+1° communes de moins de 25.001 habitants : . . . . . de 38.000 euros à 58.000 euros ;
+
+2° communes de 25.001 à 50.000 habitants : . . . . . de 41.000 euros à 62.000 euros ;
+
+3° communes de 50.001 à 80.000 habitants : . . . . . de 44.000 euros à 66.000 euros ;
+
+4° communes de 80.001 à 150.000 habitants : . . . . . de 47.000 euros à 70.000 euros ;
+
+5° communes de plus de 150.000 habitants : . . . . . de 50.000 euros à 74.000 euros.
+
+Les montants des échelles de traitement du secrétaire sont rattachés à l'indice-pivot 138,01.
+
+A l'occasion d'un protocole conclu au sein du Comité C des pouvoirs locaux prévoyant une augmentation des traitements des fonctionnaires du niveau A, le gouvernement peut adapter les montants repris au § 1er, à concurrence de l'augmentation prévue dans le protocole.]<sup>3</sup>
+
+§ 2. [Pour les communes de la région de langue allemande, les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que les communes de Comines-Warneton et de Fourons, les délibérations sur l'objet visé au § 1er sont soumises à l'approbation du gouverneur de province.] &lt;AR 1989-05-30/32, art. 6 § 2, En vigueur : 01-06-1989&gt;
+
+§ 3. [Pour les communes de Comines-Warneton et de Fourons, le gouverneur de province exerce les attributions visées au § 2 conformément aux articles 267 à 269.] &lt;AR 1989-05-30/32, art. 6 § 2, En vigueur : 01-06-1989&gt;
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2006-03-09/36, art. 3; En vigueur : 01-04-2006&gt;
+
+(3)&lt;ORD 2023-06-08/05, art. 2, 025; En vigueur : 01-12-2024&gt;
+
+###### Art. 29
+
+[<sup>1</sup> Aucune échelle de traitement n'est supérieure à celle du secrétaire.
+
+Le membre du personnel bénéficiant à la date d'entrée en vigueur du présent article d'une échelle de traitement supérieure à celle du secrétaire continue à en bénéficier à titre extinctif. A son départ, l'échelle de traitement et le grade y afférent sont abrogés.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2023-06-08/05, art. 3, 025; En vigueur : 01-08-2023&gt;
+
+###### Art. 30
+
+[<sup>1</sup> Le secrétaire a droit à des augmentations biennales qui ont effet le premier du mois qui suit la date anniversaire de l'entrée en fonction. L'amplitude de la carrière ne peut être inférieure à [<sup>2</sup> 19]<sup>2</sup> ans.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 10; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2023-06-08/05, art. 4, 025; En vigueur : 01-12-2024&gt;
+
+###### Art. 31
+
+Le traitement minimum du secrétaire communal est majoré d'un complément correspondant à l'ancienneté acquise dans les emplois de l'État, de la colonie, des communes, des provinces et dans d'autres services publics que le [<sup>1</sup> Gouvernement [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup> détermine. Ce complément est calculé d'après les règles à établir par le [<sup>1</sup> Gouvernement [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup> .
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 43; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 15, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 32
+
+&lt;Abrogé par ORD 2020-07-17/22, art. 16, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 33
+
+&lt;Abrogé par ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2003&gt;
+
+###### Art. 34
+
+Le traitement du secrétaire couvre toutes les prestations auxquelles l'intéressé peut normalement être astreint[<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 11; En vigueur : 01-01-2003&gt;
+
+###### Art. 35
+
+Le traitement du secrétaire nommé à titre définitif [<sup>1</sup> et du secrétaire sous mandat]<sup>1</sup> est payé mensuellement et par anticipation. Il prend cours à la date de l'entrée en fonction. Si celle-ci a lieu au cours d'un mois, le secrétaire obtient, pour ce mois, autant de trentièmes du traitement qu'il reste de jours à courir à partir de celui de l'entrée en fonctions inclusivement. En cas de cessation des fonctions, tout mois commencé est dû intégralement.
+
+----------
+
+(1)&lt;ORD 2009-03-05/34, art. 4; En vigueur : 23-03-2009&gt;
+
+##### D. - De la sanction de l'interdiction d'exercer un commerce. &lt;L 1991-05-24/35, art. 2, 1°, En vigueur : 01-09-1991&gt;
+
+###### Art. 36
+
+&lt;abrogé par L 1991-05-24/35, art. 3, 1°, En vigueur : 01-09-1991&gt;
+
+###### Art. 37
+
+&lt;abrogé par L 1991-05-24/35, art. 3, 1°, En vigueur : 01-09-1991&gt;
+
+###### Art. 38
+
+&lt;L 1991-05-24/35, art. 2, 2°, En vigueur : 01-09-1991&gt; Le conseil communal inflige une sanction disciplinaire au secrétaire qui enfreint l'article 27.
+
+###### Art. 39
+
+&lt;abrogé par L 1991-05-24/35, art. 3, 1°, En vigueur : 01-09-1991&gt;
+
+###### Art. 40
+
+&lt;AR 1989-05-30/32, art. 11, En vigueur : 01-06-1989&gt; [§ 1er. Pour les communes de la région de langue allemande et les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, [lorsque le conseil communal n'inflige pas de sanction disciplinaire au secrétaire qui enfreint l'article 27], la peine est appliquée d'office par le gouverneur de province, de l'avis conforme de la députation permanente du conseil provincial, après deux avertissements consécutifs constatés par la correspondance.] &lt;L 1991-05-24/35, art. 2, 3°, En vigueur : 01-09-1991&gt;
+
+§ 2. En cas de désaccord de la députation permanente, un recours est ouvert au gouverneur auprès du Roi, s'il s'agit de l'une des communes de la région de langue allemande, et auprès de l'Exécutif de la Région, s'il s'agit de l'une des communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966
+
+§ 3. Le Roi ou l'Exécutif de la Région, selon le cas, rend sa décision sur le recours du gouverneur dans les deux mois; ce délai peut être prorogé chaque fois pour un mois, par une décision motivée.
+
+La décision sur recours est motivée.
+
+###### Art. 41
+
+&lt;AR 1989-05-30/32, art. 12, En vigueur : 01-06-1989&gt; Pour les communes de Comines-Warneton et de Fourons, [lorsque le conseil communal n'inflige pas de sanction disciplinaire au secrétaire qui enfreint l'article 27], la peine est appliquée d'office, après deux avertissements consécutifs constatés par la correspondance, par le gouverneur de province, qui exerce ses attributions conformément aux articles 267 à 269. &lt;L 1991-05-24/35, art. 2, 4°, En vigueur : 01-09-1991&gt;
+
+##### E. - Du secrétaire adjoint.
+
+###### Art. 42
+
+[<sup>1</sup> Le conseil communal peut adjoindre au secrétaire un fonctionnaire, auquel il est donné le titre de secrétaire adjoint.
+
+Les conditions et procédures de recrutement ou de promotion du secrétaire adjoint sont identiques à celles prévues pour le secrétaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2023-06-08/05, art. 5, 025; En vigueur : 01-08-2023&gt;
+
+###### Art. 43
+
+&lt;L 1991-05-24/35, art. 2, 5°, En vigueur : 01-09-1991&gt; Les articles 25 et 38 à 41 inclus sont applicables au secrétaire adjoint.
+
+###### Art. 44
+
+&lt;L 17-10-1990, art. 5, MB 14-12-1990&gt; Le secrétaire adjoint aide le secrétaire dans l'exercice de ses fonctions.
+
+Il accomplit d'office toutes les fonctions du secrétaire si celui-ci est absent ou empêché.
+
+[<sup>1</sup> Il exerce ses missions sous l'autorité directe du secrétaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2023-06-08/05, art. 6, 025; En vigueur : 01-08-2023&gt;
+
+###### Art. 45
+
+&lt;abrogé par L 17-10-1990, art. 6, MB 14-12-1990&gt;
+
+###### Art. 46
+
+&lt;abrogé par L 17-10-1990, art. 6, MB 14-12-1990&gt;
+
+###### Art. 47
+
+&lt;AR 30-05-1989, art. 13, MB 31-05-1989&gt; § 1er. Le traitement du secrétaire adjoint est fixé par le conseil communal.
+
+Ce traitement doit rester inférieur à celui qui est fixé pour le secrétaire communal.
+
+§ 2. Pour les communes de la région de langue allemande, les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, et les communes de Comines-Warneton et de Fourons, les délibérations sur l'objet visé au § 1er sont soumises aux mêmes approbations que celles qui concernent le secrétaire.
+
+###### Art. 48
+
+&lt;abrogé par L 17-10-1990, art. 6, MB 14-12-1990&gt;
+
+###### Art. 49
+
+&lt;abrogé par L 17-10-1990, art. 6, MB 14-12-1990&gt;
+
+##### F. - Du secrétaire faisant fonction. &lt;L 17-10-1990, art. 7, MB 14-12-1990&gt;
+
+###### Art. 50
+
+[Sans préjudice de l'application des dispositions de l'article 44, le conseil communal désigne un secrétaire faisant fonction en cas d'empêchement du secrétaire ou de vacance de l'emploi.] S'il y a urgence, la désignation est faite par le collège des bourgmestre et échevins et confirmée par le conseil communal au cours de sa plus prochaine séance. &lt;L 17-10-1990, art. 8, MB 14-12-1990&gt;
+
+###### Art. 51
+
+[<sup>1</sup> Le secrétaire faisant fonction bénéficie de l'échelle de traitement du titulaire à appliquer prorata temporis.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 17, 018; En vigueur : 09-08-2020&gt;
+
+##### Sous-section 3. - Du receveur.
+
+##### A. - Disposition générale.
+
+###### Art. 52
+
+&lt;Abrogé par ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2003&gt;
+
+##### B. - De la nomination.
+
+###### Art. 53
+
+&lt;L 17-10-1990, art. 11, MB 14-12-1990&gt; § 1er. Le [<sup>2</sup> receveur communal]<sup>2</sup> est nommé par le conseil communal aux conditions fixées conformément à l'article 145 [<sup>1</sup> ou désigné dans un mandat conformément à l'article 69]<sup>1</sup>.
+
+La nomination a lieu dans les six mois de la vacance de l'emploi.
+
+[<sup>2</sup> § 1/1. Le conseil communal peut nommer un receveur communal hors cadre six mois avant la date prévisible de la vacance de l'emploi. Le receveur communal nommé hors cadre prend la fonction de receveur le jour de la cessation des fonctions du receveur sortant. Dans l'intervalle, il l'assiste dans ses missions.]<sup>2</sup>
+
+§ 2. Avant d'entrer en fonction, le [<sup>2</sup> receveur communal]<sup>2</sup> prête le serment visé à l'article 80, au cours d'une séance publique du conseil communal, entre les mains du président.
+
+Il en est dressé procès-verbal.
+
+Le receveur qui, sans motif légitime, ne prête pas serment après avoir été invité à le faire lors de la plus prochaine réunion du conseil communal par une lettre recommandée à la poste, est réputé renoncer à sa nomination.
+
+§ 3. Le [<sup>2</sup> receveur communal]<sup>2</sup> est placé sous l'autorité du collège des bourgmestre et échevins.
+
+§ 4. [<sup>2</sup> En cas d'absence justifiée, le receveur communal peut, dans les trois jours, sous sa responsabilité, désigner pour une période de trente jours au plus, un remplaçant agréé par le collège des bourgmestre et échevins. Cette mesure peut être renouvelée à trois reprises pour une même absence.
+
+Dans tous les autres cas, le conseil communal peut désigner un receveur communal faisant fonction.
+
+Il y est tenu lorsque l'absence excède un terme de quatre mois.
+
+Le receveur communal faisant fonction doit réunir les conditions requises pour l'exercice de la fonction de receveur communal. Les dispositions du § 2 lui sont applicables.
+
+Le receveur communal faisant fonction exerce toutes les attributions dévolues au receveur communal.
+
+Lors de son installation et de la cessation de ses fonctions, il est procédé à l'établissement d'un compte de fin de gestion et à la remise de l'encaisse et des pièces comptables, sous la surveillance du collège des bourgmestre et échevins.
+
+Le receveur faisant fonction bénéficie de l'échelle de traitement du titulaire.]<sup>2</sup>
+
+----------
+
+(1)&lt;ORD 2009-03-05/34, art. 5; En vigueur : 23-03-2009&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 18, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 54
+
+&lt;Abrogé par ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2003&gt;
+
+###### Art. 54bis
+
+&lt;Abrogé par ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2003&gt;
+
+##### C.
+
+&lt;Abrogé par ORD 2016-04-14/06, art. 2, 003; En vigueur : 25-04-2016&gt;
+
+###### Art. 55
+
+&lt;Abrogé par ORD 2016-04-14/06, art. 2, 003; En vigueur : 25-04-2016&gt;
+
+###### Art. 56
+
+&lt;Abrogé par ORD 2016-04-14/06, art. 2, 003; En vigueur : 25-04-2016&gt;
+
+###### Art. 57
+
+&lt;Abrogé par ORD 2016-04-14/06, art. 2, 003; En vigueur : 25-04-2016&gt;
+
+###### Art. 58
+
+&lt;Abrogé par ORD 2016-04-14/06, art. 2, 003; En vigueur : 25-04-2016&gt;
+
+###### Art. 59
+
+&lt;Abrogé par ORD 2016-04-14/06, art. 2, 003; En vigueur : 25-04-2016&gt;
+
+###### Art. 60
+
+&lt;Abrogé par ORD 2016-04-14/06, art. 2, 003; En vigueur : 25-04-2016&gt;
+
+###### Art. 61
+
+&lt;Abrogé par ORD 2016-04-14/06, art. 2, 003; En vigueur : 25-04-2016&gt;
+
+###### Art. 62
+
+&lt;Abrogé par ORD 2016-04-14/06, art. 2, 003; En vigueur : 25-04-2016&gt;
+
+###### Art. 63
+
+&lt;Abrogé par ORD 2016-04-14/06, art. 2, 003; En vigueur : 25-04-2016&gt;
+
+###### Art. 64
+
+&lt;Abrogé par ORD 2016-04-14/06, art. 2, 003; En vigueur : 25-04-2016&gt;
+
+##### D. - Du statut pécuniaire.
+
+###### Art. 65
+
+&lt;L 18-03-1991, art. 2, MB 19-04-1991&gt; § 1er. [<sup>1</sup> Le conseil communal fixe l'échelle du traitement du receveur. Celle-ci correspond à 97,5 % de l'échelle applicable au secrétaire communal de la même commune. Les montants figurant dans cette échelle sont rattachés à l'index pivot 138,01.]<sup>1</sup>
+
+[...] &lt;L 1993-12-15/47, art. 1, En vigueur : 01-04-1994&gt;
+
+Les dispositions des articles 30 à 35 sont applicables mutatis mutandis aux receveurs communaux.
+
+§ 2. [Pour les communes de la région de langue allemande et les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que les communes de Comines-Warneton et de Fourons, les délibérations sur l'objet visé au § 1er sont soumises à l'approbation du gouverneur de province.] &lt;AR 30-05-1989, art. 14 § 2, MB 31-05-1989&gt;
+
+§ 3. [Pour les communes de Comines-Warneton et de Fourons, le gouverneur exerce les attributions visées au § 2 conformément aux articles 267 à 269.] &lt;AR 30-05-1989, art. 14 § 2, MB 31-05-1989&gt;
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 13; En vigueur : 01-01-2003&gt;
+
+###### Art. 66
+
+&lt;Abrogé par ORD 2020-07-17/22, art. 19, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 67
+
+&lt;Abrogé par ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2003&gt;
+
+##### E. - Des interdictions. &lt;L 24-05-1991, art. 2, 6°, MB 06-06-1991&gt;
+
+###### Art. 68
+
+&lt;L 24-05-1991, art. 2, 6°, MB 06-06-1991&gt; § 1er. Il est interdit au [<sup>1</sup> receveur communal]<sup>1</sup> d'exercer un commerce, même par personne interposée.
+
+Le conseil communal inflige une sanction disciplinaire au [<sup>1</sup> receveur communal]<sup>1</sup> qui enfreint l'interdiction visée à l'alinéa 1er.
+
+§ 2. Pour les communes de la région de langue allemande et les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, l'article 40 est applicable au receveur local.
+
+§ 3. Pour les communes de Comines-Warneton et de Fourons, l'article 41 est applicable au receveur local.
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 20, 018; En vigueur : 09-08-2020&gt;
+
+##### Sous-section 4. [<sup>1</sup> Du régime des mandats]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2009-03-05/34, art. 6; En vigueur : 23-03-2009&gt;
+
+###### Art. 69
+
+[<sup>1</sup> § 1er. Le conseil communal peut conférer les emplois de secrétaire et de receveur soit par mandat, soit à titre définitif.
+
+Dans les deux cas, il fixe les conditions et la procédure de recrutement. Si l'emploi est conféré par mandat, le conseil communal fixe également les objectifs généraux à atteindre durant le mandat.
+
+§ 2. Pour être conféré par mandat, l'emploi de secrétaire ou de receveur doit avoir été déclaré vacant préalablement.
+
+La durée du mandat est de huit ans, renouvelable.
+
+Le conseil communal renouvelle le mandat lorsque le mandataire obtient au moins la mention " favorable " pour les deux dernières évaluations de son mandat.
+
+[<sup>2</sup> Si le conseil communal, souhaite nommer le mandataire à titre définitif, la nomination prendra ses effets au jour de l'entrée en fonction du secrétaire ou du receveur comme mandataire.]<sup>2</sup>
+
+§ 3. Le secrétaire et le receveur font l'objet d'une évaluation selon la procédure prévue à l'article 70.
+
+Par dérogation à l'article 70, § 3, la dernière évaluation des mandataires a lieu six mois avant la fin du mandat.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2014-02-27/27, art. 5; En vigueur : 12-04-2014&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 21, 018; En vigueur : 09-08-2020&gt;
+
+##### Sous-section 5. [<sup>1</sup> De l'évaluation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2009-03-05/34, art. 8; En vigueur : 23-03-2009&gt;
+
+###### Art. 70
+
+[<sup>1</sup> § 1er. Le secrétaire et le receveur sont évalués par un comité d'évaluation, désigné par le collège des bourgmestre et échevins. Ce comité est composé de trois membres du collège des bourgmestre et échevins [<sup>2</sup> , ainsi que, selon le cas, d'un secrétaire ou d'un receveur d'une commune de la Région de Bruxelles-Capitale]<sup>2</sup>.
+
+Le collège des bourgmestre et échevins peut désigner des experts externes qui participent sans voix délibérative à la procédure d'évaluation.
+
+Le secrétaire et le receveur peuvent se faire assister par une personne de leur choix durant le déroulement de la procédure d'évaluation.
+
+§ 2. Si la mention d'évaluation attribuée par le comité d'évaluation n'est pas approuvée par le secrétaire ou par le receveur concerné, celle-ci est soumise à une commission de recours, composée de trois membres du collège des bourgmestre et échevins qui n'ont pas fait partie du comité d'évaluation, de trois membres du conseil communal qui ne sont pas membres du collège des bourgmestre et échevins, dont un membre au moins n'appartient pas à la majorité du conseil [<sup>2</sup> et, selon le cas, d'un secrétaire ou d'un receveur d'une commune de la Région de Bruxelles-Capitale qui n'a pas fait partie du comité d'évaluation]<sup>2</sup>, et d'un évaluateur externe qui satisfait aux conditions fixées par le Gouvernement.
+
+L'évaluateur externe ne peut pas être un des experts visés à l'article 70, § 1er, alinéa 2. Il siège avec voix délibérative.
+
+§ 3. L'évaluation a lieu tous les trois ans.
+
+§ 4. L'évaluation porte sur la manière dont le secrétaire et le receveur accomplissent leur mission au regard de la définition de fonction et des critères d'évaluation définis conformément aux alinéas 3 et 4.
+
+La période de trois ans qui s'étend entre deux évaluations est appelée période d'évaluation.
+
+La définition de fonction, visée à l'article 123, 15°, ainsi que les objectifs opérationnels à atteindre par le secrétaire ou le receveur sont fixés par le collège des bourgmestre et échevins dans une note d'objectifs rédigée après un entretien de fonction. Cette note d'objectifs précise de manière détaillée les critères sur la base desquels le titulaire de la fonction est évalué.
+
+La note d'objectifs peut être modifiée pendant une période d'évaluation sur proposition du comité d'évaluation ou du titulaire de la fonction, après une concertation des deux parties.
+
+§ 5. Un an au moins avant la fin de la période d'évaluation, le comité d'évaluation rédige, après un entretien de fonctionnement avec le titulaire de la fonction, un rapport dans lequel il fait le point sur la manière dont le titulaire de la fonction accomplit sa mission au regard de la note d'objectifs.
+
+Le titulaire de la fonction peut demander à tout moment un entretien de fonctionnement.
+
+§ 6. A la fin de chaque période d'évaluation, le comité d'évaluation invite le titulaire de la fonction à un entretien d'évaluation.
+
+A l'issue de cet entretien, le comité d'évaluation, ou le cas échéant, la commission de recours, établit un rapport d'évaluation, dans lequel figure une des mentions suivantes : " très favorable ", " favorable ", " sous réserve ", " insatisfaisant ".
+
+§ 7. La mention " très favorable " peut être attribuée lorsque les prestations du titulaire de la fonction dépassent largement le contenu de la note d'objectifs.
+
+Deux mentions " très favorable " successives donnent droit à une prime dont les conditions d'octroi sont fixées par le Gouvernement.
+
+§ 8. L'attribution d'une première mention " insatisfaisant " ou d'une mention " sous réserve " donne lieu à la conclusion d'un accord de progrès. Cet accord précise les objectifs à atteindre. Il sert de base à une évaluation supplémentaire après un an. Cette évaluation doit porter la mention " favorable " ou " insatisfaisant ". Si l'évaluation est insatisfaisante, le titulaire de la fonction perd le droit à l'augmentation biennale du traitement visée à l'article 30, et ce, jusqu'à ce qu'il obtienne une évaluation favorable.
+
+§ 9. Deux mentions " insatisfaisant " successives donnent lieu à une déclaration d'inaptitude professionnelle prononcée par le conseil communal.
+
+La déclaration d'inaptitude professionnelle, met fin au mandat sans qu'il soit permis au mandataire de participer à une nouvelle procédure en vue d'une désignation au même mandat.
+
+La déclaration d'inaptitude professionnelle donne lieu au licenciement du titulaire nommé ou à la rétrogradation à un grade inférieur.
+
+Le secrétaire ou le receveur qui est licencié ou dont il est mis fin au mandat à la suite d'une déclaration d'inaptitude professionnelle, reçoit la même protection en cas de licenciement qu'un agent contractuel avec la même ancienneté.
+
+§ 10. Par dérogation au § 8, la mention " sous réserve " ou " insatisfaisant " obtenue lors de la dernière évaluation du mandat telle qu'elle est prévue à l'article 69, § 3, donne lieu à une décision du conseil communal par laquelle il est mis fin au mandat. Si la dernière mention obtenue est " insatisfaisant ", le mandataire ne peut pas participer à une nouvelle procédure en vue d'une désignation au même mandat.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2014-02-27/27, art. 6; En vigueur : 12-04-2014&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 22, 018; En vigueur : 09-08-2020&gt;
+
+#### Section 7bis. [<sup>1</sup> Du gestionnaire des ressources humaines]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2009-03-05/34, art. 10; En vigueur : 23-03-2009&gt;
+
+#### A. [<sup>1</sup> De la nomination]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2009-03-05/34, art. 11; En vigueur : 23-03-2009&gt;
+
+###### Art. 70bis
+
+[<sup>1</sup> II y a dans chaque commune un [<sup>2</sup> directeur des ressources humaines]<sup>2</sup>. Il est nommé par le conseil communal aux conditions fixées conformément à l'article 145 dans les six mois de la vacance de l'emploi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2009-03-05/34, art. 12; En vigueur : 23-03-2009&gt;
+
+(2)&lt;ORD 2014-02-27/27, art. 7; En vigueur : 12-04-2014&gt;
+
+#### B. [<sup>1</sup> Des devoirs]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2009-03-05/34, art. 13; En vigueur : 23-03-2009&gt;
+
+###### Art. 70ter
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Le directeur des ressources humaines est chargé, sous l'autorité hiérarchique directe du secrétaire communal, de la mise en oeuvre de la politique communale en ce qui concerne :
+
+\- le management du personnel;
+
+\- l'organisation des procédures de recrutement et de promotion du personnel ainsi que des examens;
+
+\- la conception et la mise en oeuvre des définitions de fonctions-types et la coordination de l'établissement des définitions de fonctions individualisées;
+
+\- la gestion prévisionnelle des effectifs et des compétences au sein de la commune ainsi que le développement d'une politique de formation du personnel;
+
+\- l'élaboration d'un projet de règlement relatif à l'évaluation du personnel, ainsi que la bonne gestion du processus d'évaluation de chaque membre du personnel concerné;
+
+\- la gestion de la mobilité interne au sein de la commune;
+
+\- la rédaction d'un rapport annuel à l'intention du conseil communal sur la gestion des ressources humaines dans la commune.]<sup>2</sup>
+
+§ 2. Le [<sup>2</sup> directeur des ressources humaines]<sup>2</sup> peut être entendu par le conseil communal sur toute question intéressant la gestion du personnel communal.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2009-03-05/34, art. 14; En vigueur : 23-03-2009&gt;
+
+(2)&lt;ORD 2014-02-27/27, art. 8; En vigueur : 12-04-2014&gt;
+
+#### Section 7ter. [<sup>1</sup> Du comité de direction]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2009-03-05/34, art. 15; En vigueur : 23-03-2009&gt;
+
+###### Art. 70quater
+
+[<sup>1</sup> Le comité de direction se compose du secrétaire communal, du secrétaire communal adjoint, du receveur communal, du [<sup>2</sup> directeur des ressources humaines]<sup>2</sup> et de chaque personne responsable, sous l'autorité hiérarchique directe du secrétaire communal, de la gestion d'un service de l'administration, étant entendu que chaque service n'est représenté qu'une fois au sein du comité de direction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2009-03-05/34, art. 16; En vigueur : 23-03-2009&gt;
+
+(2)&lt;ORD 2014-02-27/27, art. 9; En vigueur : 12-04-2014&gt;
+
+###### Art. 70quinquies
+
+[<sup>1</sup> Le comité de direction se réunit au moins une fois par mois à l'invitation et sous la présidence du secrétaire communal qui en fixe l'ordre du jour. Chaque réunion du comité de direction fait l'objet d'un compte-rendu.
+
+Le comité de direction arrête son règlement d'ordre intérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2009-03-05/34, art. 17; En vigueur : 23-03-2009&gt;
+
+###### Art. 70sexies
+
+[<sup>1</sup> Après chaque réunion du comité de direction, le secrétaire communal communique son ordre du jour et son compte-rendu au collège.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2009-03-05/34, art. 18; En vigueur : 23-03-2009&gt;
+
+###### Art. 70septies
+
+[<sup>1</sup> Le comité de direction :
+
+1° assiste le secrétaire dans sa mission de coordination des différents services communaux;
+
+2° veille à la mise en oeuvre transversale des décisions du conseil communal et du collège par les services communaux concernés;
+
+3° émet un avis sur les projets de cadre et d'organigramme élaborés par le secrétaire conformément à l'article 26bis, § 1er, 4°. ]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2014-02-27/27, art. 10; En vigueur : 12-04-2014&gt;
+
+#### Section 8. - Des incompatibilités.
+
+###### Art. 71
+
+[<sup>1</sup> Ne peuvent faire partie des conseils communaux ni être nommés bourgmestres :
+
+1° le vice-gouverneur de l'arrondissement administratif de Bruxelles-Capitale et le haut fonctionnaire tel que visé à l'article 48, alinéa 3, de la loi spéciale du 12 janvier 1989 relatives aux Institutions bruxelloises ;
+
+2° les membres du collège institué par l'article 83quinquies, § 2, de la loi spéciale du 12 janvier 1989 relative aux Institutions bruxelloises ;
+
+3° toute personne qui est membre du personnel ou qui reçoit un subside ou un traitement de la commune, à l'exception des pompiers volontaires ;
+
+4° les fonctionnaires de police et les agents de la force publique ;
+
+5° les employés de l'administration forestière, lorsque leur compétence s'étend à des propriétés boisées soumises au régime forestier et appartenant à la commune dans laquelle ils désirent exercer leurs fonctions ;
+
+6° toute personne qui exerce une fonction ou un mandat équivalent à celui de conseiller communal, échevin ou bourgmestre dans une collectivité locale de base d'un autre Etat membre de l'Union européenne. Le Gouvernement dresse une liste non exhaustive des fonctions ou mandats considérés comme équivalents.
+
+Les dispositions de l'alinéa 1er, 1° à 5°, sont également applicables aux ressortissants non belges de l'Union européenne résidant en Belgique pour l'exercice par ceux-ci dans un autre Etat membre de l'Union européenne de fonctions équivalentes à celles qui sont visées dans ces dispositions.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 23, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 71bis
+
+[<sup>1</sup> B Ne peuvent être élus président du conseil communal ni suppléant du président du conseil communal :
+
+1° le bourgmestre et les échevins, même empêchés;
+
+2° le président du conseil de l'action sociale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2012-07-23/09, art. 10; En vigueur : 01-01-2013&gt;
+
+###### Art. 72
+
+Ne peuvent être ni bourgmestre ni échevin:
+
+1° les membres des cours, des tribunaux civils et de justice de paix;
+
+2° les membres du parquet, les greffiers et greffiers adjoints près des cours et tribunaux civils ou de commerce et les greffiers de justice de paix;
+
+3° les ministres des cultes;
+
+4° les agents et employés des administrations fiscales, dans les communes faisant partie de leur circonscription ou de leur ressort, sauf dérogation accordée par le [<sup>1</sup> Gouvernement [<sup>4</sup> ...]<sup>4</sup>]<sup>1</sup>;
+
+5° [le receveur du centre public d'aide sociale, dans la commune pour laquelle le centre est compétent.] &lt;L 2000-08-12/45, art. 2, En vigueur : 05-09-2000&gt;
+
+[<sup>2</sup> 6° les personnes qui exercent une fonction de mandataire ou une autre fonction dirigeante dans l'administration régionale, communautaire ou bicommunautaire bruxelloise;
+
+7° les personnes qui exercent une fonction de mandataire ou une autre fonction dirigeante dans un organisme d'intérêt public bruxellois soumis ou non au statut [<sup>3</sup> , dans toute autre structure soumise à la tutelle du Gouvernement, des Collèges communautaires ou du Collège réuni]<sup>3</sup> ou dans une intercommunale dont fait partie la commune concernée;
+
+8° le membre permanent d'un comité de direction d'un organisme d'intérêt public bruxellois soumis ou non au statut [<sup>3</sup> , de toute autre structure soumise à la tutelle du Gouvernement, des Collèges communautaires ou du Collège réuni]<sup>3</sup> ou d'une intercommunale dont fait partie la commune concernée;]<sup>2</sup>
+
+[<sup>5</sup> 9° les membres du Parlement de la Région de Bruxelles-Capitale, de la Chambre des représentants, du Sénat, du Parlement flamand et du Parlement européen.]<sup>5</sup>
+
+[Pour ce qui concerne le mandat d'échevin, les dispositions de l'alinéa 1er sont également applicables aux ressortissants non belges de l'Union européenne résidant en Belgique pour l'exercice par ceux-ci dans un autre Etat membre de l'Union européenne de fonctions équivalentes à celles qui sont visées dans ces dispositions.] &lt;L 1999-01-27/30, art. 9, En vigueur : 08-10-2006&gt;
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 43; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2014-02-27/27, art. 11; En vigueur : 12-04-2014&gt;
+
+(3)&lt;ORD 2018-07-12/06, art. 2, 013; En vigueur : 03-08-2018&gt;
+
+(4)&lt;ORD 2020-07-17/22, art. 24, 018; En vigueur : 09-08-2020&gt;
+
+(5)&lt;ORD 2022-07-06/09, art. 6, 022; En vigueur : 04-09-2022&gt;
+
+###### Art. 72bis
+
+&lt;Inséré par AR 30-05-1989, art. 16, MB 31-05-1989&gt; § 1er. Tout conseiller communal, échevin, bourgmestre et quiconque exerce les fonctions de bourgmestre ou d'échevin dans les communes visées aux articles 7 et 8, 3° à 10°, des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, doit, pour exercer ses fonctions, avoir la connaissance de la langue de la région linguistique dans laquelle la commune est située, qui est nécessaire à l'exercice du mandat visé.
+
+§ 2. Par le fait de leur élection ou de leur nomination, les mandataires visés au § 1er sont présumés avoir la connaissance visée audit paragraphe.
+
+Cette présomption est irréfragable à l'égard de tout mandataire élu directement par la population pour le mandat exercé et à l'égard du bourgmestre qui, entre le 1er janvier 1983 et le 1er janvier 1989, a exercé un mandat de bourgmestre pendant au moins trois années consécutives.
+
+À l'égard des autres mandataires, cette présomption peut être renversée à la demande d'un membre du conseil communal. Le requérant doit, à cette fin, apporter la preuve d'indices graves permettant de renverser cette présomption et tirée d'une décision juridictionnelle, de l'aveu du mandataire ou de l'exercice de ses fonctions comme autorité administrative individuelle.
+
+§ 3. La demande visée au paragraphe 2 est introduite par voie de requête adressée à la section d'administration du Conseil d'État dans un délai de six mois à compter du jour de la prestation de serment comme bourgmestre ou comme échevin non élu directement ou du jour du premier exercice des fonctions de bourgmestre ou échevin en application de l'[article 14, 17 ou 18].
+
+§ 4. Le Conseil d'État statue toutes affaires cessantes.
+
+Un arrêté royal délibéré en Conseil des ministres règle la procédure devant le Conseil d'État.
+
+§ 5. Si le Conseil d'État conclut au renversement de la présomption de connaissance de la langue dans le chef d'un bourgmestre, il annule la nomination. Jusqu'au renouvellement intégral du conseil, l'intéressé ne peut plus être nommé bourgmestre, ni en exercer les fonctions en application de l'[article 14].
+
+Si le Conseil d'État conclut au renversement de la présomption de connaissance de la langue dans le chef de celui qui exerce les fonctions de bourgmestre en application de l'[article 14], il est censé ne jamais avoir exercé ces fonctions. Dans ce cas, les fonctions de bourgmestre sont, à partir de la date de la notification de l'arrêt, exercées par un autre échevin ou par un autre conseiller communal en application de l'[article 14].
+
+Si le Conseil d'État décide que la présomption de connaissance de la langue est renversée dans le chef d'un échevin non élu directement, son élection est annulée. L'intéressé ne peut pas être réélu échevin jusqu'au renouvellement complet du conseil, ni en exercer la fonction en application de l'[article 17 ou 18].
+
+Si le Conseil d'État décide que la présomption de connaissance de la langue est renversée dans le chef de celui qui exerce la fonction d'échevin non élu directement en application de l'[article 17 ou 18], celui-ci est censé ne pas avoir exercé la fonction d'échevin. Dans ce cas, la fonction d'échevin sera exercée par un autre conseiller communal en application de l'[article 17 ou 18] et ce, dès le jour de la notification de l'arrêt.
+
+§ 6. La méconnaissance des dispositions du § 5 par ceux à l'égard desquels la présomption de connaissance de la langue est renversée, est considérée comme une négligence grave au sens [des articles 82 et 83].] &lt;AR 30-05-1989, art. 16, MB 31-05-1989&gt;
+
+###### Art. 73
+
+[<sup>1</sup> Les membres du conseil ne peuvent être parents ou alliés jusqu'au deuxième degré inclusivement ni être unis par les liens du mariage ou par une déclaration de cohabitation légale visée à l'article 1476 du Code civil. Si des parents ou alliés à ce degré, deux conjoints ou cohabitants légaux sont élus à la même élection, l'ordre de préférence est réglé par l'ordre d'importance des quotients qui ont déterminé l'attribution à leur liste des sièges dévolus à ces candidats.
+
+Si deux parents ou alliés au degré prohibé, deux conjoints ou cohabitants légaux ont été élus, l'un conseiller effectif, l'autre conseiller suppléant, l'interdiction de siéger n'est opposée qu'à ce dernier, à moins que la vacance qui l'appelle à siéger soit antérieure à l'élection de son parent, allié, conjoint ou cohabitant légal.
+
+Entre suppléants que des vacances appellent à siéger, la priorité se détermine en ordre principal par l'antériorité de la vacance.
+
+L'élu qui n'est pas installé en raison de l'application d'une règle d'incompatibilité conserve le droit d'être admis ultérieurement à prêter serment et est remplacé par le suppléant classé en ordre utile sur la liste sur laquelle il a été élu et prend la place de ce dernier sur la liste des suppléants. Lorsque l'incompatibilité cesse, il peut prêter serment et la personne qui l'a remplacé en tant que conseiller est à nouveau classée premier suppléant.
+
+L'alliance survenue ultérieurement entre les membres du conseil n'emporte pas la révocation de leur mandat. Il n'en est pas de même du mariage entre les membres du conseil.
+
+L'alliance est censée dissoute par le décès, le divorce ou la fin de la cohabitation légale de la personne du chef de laquelle elle provient.
+
+Les membres du collège des bourgmestre et échevins ne peuvent être parents ou alliés jusqu'au troisième degré inclusivement.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 25, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 74
+
+&lt;AR 30-05-1989, art. 16, MB 31-05-1989&gt; Il y a incompatibilité entre les fonctions de secrétaire et de receveur, d'une part, et celles de bourgmestre, d'échevin, de membre du conseil communal, d'autre part.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2003&gt;
+
+###### Art. 75
+
+Ne peut être admis à prêter serment, aussi longtemps que subsiste la cause d'incompatibilité, le candidat élu conseiller communal qui exerce des fonctions incompatibles avec le mandat de conseiller, qui participe à une entreprise ou exerce une profession ou métier à raison desquels il reçoit un traitement ou un subside de la commune.
+
+Le candidat élu, qui, endéans le mois à dater de l'invitation que lui adresse le collège échevinal, n'a pas résigné les fonctions incompatibles ou renoncé au traitement ou au subside alloué par la commune, est considéré comme n'acceptant pas le mandat qui lui a été conféré.
+
+###### Art. 76
+
+Tout conseiller communal qui accepte soit des fonctions incompatibles avec son mandat, soit un traitement ou un subside de la commune, cesse de faire partie du conseil conformément à l'article 10, si, endéans les quinze jours à dater de l'invitation que lui adresse le collège des bourgmestre et échevins, il n'a pas renoncé soit aux fonctions incompatibles, soit au traitement ou au subside alloué par la commune.
+
+###### Art. 77
+
+S'il y a contestation dans les cas prévus aux articles 75 et 76, il est statué par [<sup>1</sup> le collège juridictionnel]<sup>1</sup>, [<sup>3</sup> conformément à l'article 75, § 1er, alinéa 2, du Code électoral communal bruxellois.]<sup>3</sup>.
+
+La décision est notifiée par les soins du [<sup>1</sup> président du collège juridictionnel]<sup>1</sup> au conseiller intéressé, au collège des bourgmestre et échevins et, le cas échéant, à ceux qui ont introduit une réclamation auprès [<sup>1</sup> du collège juridictionnel]<sup>1</sup>.
+
+Un recours au Conseil d'État leur est ouvert dans les huit jours qui suivent la notification.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Si, dans les cas prévus aux articles 75 et 76, le collège des bourgmestre et échevins s'abstient de mettre l'intéressé en demeure d'opter, [<sup>1</sup> le collège juridictionnel]<sup>1</sup> agit aux lieu et place de l'administration communale.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 15; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2003&gt;
+
+(3)&lt;ORD 2014-02-27/27, art. 12; En vigueur : 12-04-2014&gt;
+
+###### Art. 78
+
+Il y a, [<sup>1</sup> ...]<sup>1</sup>, incompatibilité entre les fonctions de secrétaire et de receveur.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 16; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2003&gt;
+
+###### Art. 79
+
+[<sup>1</sup> Ne peuvent exercer les fonctions de secrétaire ou de receveur communal, les employés des administrations publiques régionales bruxelloises.
+
+L'interdiction visée à l'alinéa précédent s'applique également aux membres du personnel placés sous la direction du haut fonctionnaire ou du vice-gouverneur de l'arrondissement administratif de Bruxelles-Capitale.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 26, 018; En vigueur : 09-08-2020&gt;
+
+#### Section 9. - Du serment.
+
+###### Art. 80
+
+[Les conseillers communaux, les personnes de confiance visées à l'article 12bis, les bourgmestres et les échevins, préalablement à leur entrée en fonction, prêtent le serment suivant:
+
+"Je jure fidélité au Roi, obéissance à la Constitution et aux lois du peuple belge."] &lt;L 1994-07-11/50, art. 3, En vigueur : 30-12-1994&gt;
+
+Ce serment sera prêté, en séance publique, par les conseillers communaux et par les échevins, entre les mains du bourgmestre ou de celui qui le remplace.
+
+[<sup>1</sup> Les bourgmestres prêtent serment devant le Gouvernement [<sup>2</sup> ...]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2002-07-18/39, art. 3; En vigueur : 07-08-2002&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 27, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 81
+
+Les mandataires désignés dans l'article 80 qui, après avoir reçu deux convocations consécutives à l'effet de prêter serment, s'abstiennent, sans motifs légitimes, de remplir cette formalité, sont considérés comme démissionnaires.
+
+#### Section 10. - De la suspension et de la révocation des bourgmestres et des échevins.
+
+###### Art. 82
+
+[<sup>1</sup> Le Gouvernement peut suspendre ou révoquer le bourgmestre ou les échevins pour inconduite notoire ou négligence grave. La personne concernée est entendue préalablement. La suspension ne peut excéder une durée de trois mois.
+
+Le Gouvernement fixe les modalités de procédure à cet effet. La procédure garantit les droits de la défense de la personne concernée.
+
+Le bourgmestre ou l'échevin révoqué ne peut plus être désigné bourgmestre ou élu échevin avant l'expiration d'un délai de deux ans au cours de la même législature communale.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2024-02-22/03, art. 3, 031; En vigueur : 01-12-2024&gt;
+
+###### Art. 83
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+[Lorsqu'il s'agit d'un échevin de la commune de Comines-Warneton ou de Fourons, le gouverneur de province prend sa décision sans l'intervention de la députation permanente du conseil provincial mais de l'avis conforme du collège des gouverneurs de province prévu à l'article 131bis de la loi provinciale.] &lt;AR 30-05-1989, art. 19, MB 31-05-1989&gt;
+
+L'échevin révoqué ne pourra être réélu avant l'expiration du délai de deux ans.
+
+----------
+
+(1)&lt;ORD 2002-07-18/39, art. 4; En vigueur : 07-08-2002&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 29, 018; En vigueur : 09-08-2020&gt;
+
+(3)&lt;ORD 2024-02-22/03, art. 4, 031; En vigueur : 01-12-2024&gt;
+
+### CHAPITRE II. [<sup>1</sup> Des prérogatives des conseillers communaux, des réunions et des délibérations du conseil communal]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2014-02-27/27, art. 13; En vigueur : 12-04-2014&gt;
+
+#### Section 1. [<sup>1</sup> Des prérogatives des conseillers communaux]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2014-02-27/27, art. 14; En vigueur : 12-04-2014&gt;
+
+##### Sous-section 1. [<sup>1</sup> - Le droit d'obtenir copie de documents]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2014-02-27/27, art. 14; En vigueur : 12-04-2014&gt;
+
+###### Art. 84
+
+[<sup>1</sup> § 1er. Aucun acte, aucune pièce concernant l'administration, ne peut être soustrait à l'examen des membres du conseil.
+
+§ 2. Les conseillers communaux peuvent obtenir copie des actes et pièces relatifs à l'administration de la commune dans les conditions arrêtées par le règlement d'ordre intérieur établi par le conseil. Ce règlement précise également les conditions de visite des établissements et services communaux.
+
+La redevance éventuellement réclamée pour la copie ne peut en aucun cas excéder le prix de revient.]<sup>1</sup>
+
+[<sup>3</sup> Les conseillers communaux ont accès aux procès-verbaux du collège des bourgmestre et échevins et du conseil communal, notamment par voie électronique. Ceux-ci restent consultables en version papier au secrétariat du collège.
+
+En plus des procès-verbaux susmentionnés, ils peuvent également demander la transmission électronique, si possible, des actes et documents concernant l'administration de la commune.
+
+Dans le cadre de la consultation des informations visées aux alinéas précédents, ils sont soumis au secret professionnel visé à l'article 458 du Code pénal lorsque les informations consultées contiennent des données à caractère personnel.]<sup>3</sup>
+
+[<sup>2</sup> § 3. Les conseillers communaux, ainsi que toute autre personne qui, en vertu d'une disposition légale, assiste aux séances à huis clos du conseil communal, sont [<sup>3</sup> soumis au secret professionnel visé à l'article 458 du Code pénal]<sup>3</sup>.]<sup>2</sup>
+
+[<sup>3</sup> § 4. Le collège des bourgmestre et échevins notifie à chaque membre du conseil communal la publication des procès-verbaux des collèges communaux.]<sup>3</sup>
+
+----------
+
+(1)&lt;ORD 2014-02-27/27, art. 14; En vigueur : 12-04-2014&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 30, 018; En vigueur : 09-08-2020&gt;
+
+(3)&lt;ORD 2024-02-22/01, art. 4, 028; En vigueur : 07-03-2024&gt;
+
+##### Sous-section 2. [<sup>1</sup> - Du droit de poser des questions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2014-02-27/27, art. 14; En vigueur : 12-04-2014&gt;
+
+###### Art. 84bis
+
+[<sup>1</sup> § 1er. Les conseillers communaux ont le droit de poser au collège des bourgmestre et échevins des questions écrites et orales.
+
+§ 2. Le texte de ces questions peut être transmis à la commune par courrier, par télécopie, par courrier électronique ou par dépôt au secrétariat communal. Les questions écrites sont transmises à tout moment. Les questions orales sont communiquées au plus tard deux jours ouvrables avant la réunion du conseil communal. Le règlement d'ordre intérieur précise les modalités d'exercice de ce droit. Le collège des bourgmestre et échevins a la possibilité de déroger au délai prévu pour le dépôt des questions orales pour les questions jugées d'actualité.
+
+§ 3. Les questions écrites et orales visées au premier paragraphe et les réponses qui y sont apportées sont mises en ligne sur le site internet de la commune.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2014-02-27/27, art. 14; En vigueur : 12-04-2014&gt;
+
+##### Sous-section 3. [<sup>1</sup> - Du droit d'interpeller]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2014-02-27/27, art. 14; En vigueur : 12-04-2014&gt;
+
+###### Art. 84ter
+
+[<sup>1</sup> Les conseillers communaux ont le droit d'interpeller le collège des bourgmestre et échevins sur la manière dont il exerce ses compétences. Les interpellations sont inscrites à l'ordre du jour et sont introduites conformément à l'article 97, alinéa 3.
+
+Le règlement d'ordre intérieur précise les modalités d'exercice de ce droit.
+
+Les interpellations visées au premier alinéa et les réponses qui y sont apportées sont mises en ligne sur le site internet de la commune.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2014-02-27/27, art. 14; En vigueur : 12-04-2014&gt;
+
+##### Sous-section 4. [<sup>1</sup> - Règles de déontologie et d'éthique]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2024-02-22/03, art. 5, 031; En vigueur : 01-12-2024&gt;
+
+###### Art. 84quater
+
+[<sup>1</sup> Le conseil communal arrête, dans son règlement d'ordre intérieur, des règles de déontologie et d'éthique, applicables aux conseillers communaux.
+
+Le conseil communal peut instaurer en son sein une commission de déontologie et d'éthique conformément à l'article 120.
+
+Le code de déontologie et d'éthique constitue un cadre d'intégrité morale que l'ensemble des mandataires publics locaux sont tenus de suivre. Le Gouvernement de la Région de Bruxelles-Capitale propose un modèle commun à l'établissement d'un code de déontologie et d'éthique à l'attention des conseils communaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2024-02-22/03, art. 5, 031; En vigueur : 01-12-2024&gt;
+
+#### Section 2. - Des réunions.
+
+###### Art. 85
+
+[<sup>1</sup> § 1er. Le conseil se réunit toutes les fois que l'exigent les affaires comprises dans ses attributions, et au moins dix fois par an.
+
+§ 2. En cas de force majeure rendant impossible ou dangereuse la tenue en présentiel des séances du conseil communal, celles-ci peuvent se tenir de manière virtuelle, par téléconférence ou vidéoconférence, sur la base d'une décision du bourgmestre.
+
+§ 3. Si, pour quelque raison que ce soit, une réunion mixte, à la fois physique et virtuelle, est organisée, elle revêtira le caractère virtuel et se conformera donc aux modalités qui s'appliquent aux réunions tenues de manière virtuelle.
+
+§ 4. Le secrétaire communal veille au bon déroulement des séances virtuelles et se tient à la disposition des membres du conseil communal afin de leur donner toutes les explications requises en rapport avec ce mode de réunion. Il s'assure notamment que tous les membres du conseil communal disposent des moyens techniques leur permettant de participer aux séances. A défaut, le matériel requis est mis à leur disposition soit dans un local de l'administration communale, soit à domicile.
+
+§ 5. Le procès-verbal de la séance mentionne si la réunion s'est tenue à distance.
+
+Les séances publiques virtuelles du conseil communal sont diffusées en temps réel sur le site de la commune ou selon les modalités précisées sur celui-ci.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-10-29/09, art. 2, 019; En vigueur : 05-11-2020&gt;
+
+###### Art. 86
+
+[<sup>1</sup> Le conseil est convoqué par son président ou, s'il est présidé par le bourgmestre, par le collège des bourgmestres et échevins.
+
+Sur la demande d'un tiers des membres en fonction, le président du conseil ou le collège, selon le cas, est tenu de le convoquer aux jour et heure indiqués.
+
+S'il a été fait usage de la faculté prévue à l'article 8bis, § 1er, le président du conseil dresse l'ordre du jour de la réunion. Il y fait notamment figurer les points communiqués par le collège, ainsi que [<sup>2</sup> ...]<sup>2</sup> les interpellations visées à l'article 89bis régulièrement introduites.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2012-07-23/09, art. 11; En vigueur : 01-01-2013&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 31, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 87
+
+[<sup>1</sup> § 1er. Sauf les cas d'urgence, la convocation se fait par courrier, par porteur à domicile, par télécopie ou par courrier électronique, au moins sept jours francs avant celui de la réunion; elle contient l'ordre du jour. Ce délai est toutefois ramené à deux jours francs pour l'application de l'article 90, alinéa 3.
+
+Les points de l'ordre du jour doivent être indiqués avec suffisamment de clarté et, pour les points qui le nécessitent, être accompagnés d'une note de synthèse explicative. [<sup>4</sup> Chaque point inscrit à l'ordre du jour donnant lieu à une décision doit être accompagné d'un projet de délibération.]<sup>4</sup>
+
+§ 2. Pour chaque point de l'ordre du jour, toutes les pièces s'y rapportant sont mises à la disposition, sans déplacement, des membres du conseil communal dès l'envoi de l'ordre du jour.
+
+Si le conseiller en a fait la demande par écrit, les pièces susmentionnées lui sont transmises par voie électronique.
+
+§ 3. Le secrétaire communal ou les fonctionnaires désignés par lui fournissent aux conseillers qui le demandent des informations techniques au sujet des documents figurant au dossier. Le règlement d'ordre intérieur visé à l'article 91 détermine les modalités suivant lesquelles ces informations techniques seront fournies.
+
+§ 4. Le collège des bourgmestre et échevins met à la disposition de chaque membre du conseil communal une adresse de courrier électronique personnelle.]<sup>1</sup>
+
+[<sup>2</sup> § 5. [<sup>3</sup> ...]<sup>3</sup>
+
+§ 6. Lorsque la réunion du conseil communal se tient de manière virtuelle en application de l'article 85, § 2, la convocation ainsi que toutes les pièces relatives aux points à l'ordre du jour sont communiquées aux conseillers exclusivement par la voie électronique.]<sup>2</sup>
+
+----------
+
+(1)&lt;ORD 2014-02-27/27, art. 15; En vigueur : 12-04-2014&gt;
+
+(2)&lt;ORD 2020-10-29/09, art. 3, 019; En vigueur : 05-11-2020&gt;
+
+(3)&lt;ORD 2024-02-22/01, art. 5,2°, 028; En vigueur : 07-03-2024&gt;
+
+(4)&lt;ORD 2024-02-22/01, art. 5,1°, 028; En vigueur : 26-04-2024&gt;
+
+###### Art. 87bis
+
+&lt;Inséré par L 1994-07-11/50, art. 7, En vigueur : 30-12-1994&gt;
+
+Les lieu, jour, heure et l'ordre du jour des séances du conseil communal sont portés à la connaissance du public [<sup>1</sup> au moins]<sup>1</sup> par voie d'affichage à la maison communale [<sup>2</sup> et par leur mise en ligne sur le site internet de la commune]<sup>2</sup> , dans les mêmes délais que ceux prévus aux articles 87, 96 et 97, alinéa 3, relatifs à la convocation du conseil communal. [<sup>3</sup> Les projets de délibération et, le cas échéant les notes de synthèse explicatives, visés à l'article 87, § 1er, alinéa 2, sont portés à la connaissance du public par voie de publication sur le site internet de la commune au plus tard la veille du jour de la réunion du conseil communal.
+
+Par dérogation à l'alinéa précédent, les projets de délibération et les notes de synthèse explicatives contenant des données à caractère personnel ne sont pas portés à la connaissance du public.]<sup>3</sup>
+
+La presse et les habitants intéressés de le commune sont, à leur demande et dans un délai utile, informés de l'ordre du jour du conseil communal, moyennant éventuellement paiement d'une redevance qui ne peut excéder le prix de revient. Ce délai utile ne s'applique pas pour des points qui sont ajoutés à l'ordre du jour après l'envoi de la convocation conformément à l'article 87.
+
+Le règlement d'ordre intérieur peut prévoir d'autres modes de publication.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 19; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2009-03-05/34, art. 21; En vigueur : 23-03-2009&gt;
+
+(3)&lt;ORD 2024-02-22/01, art. 6, 028; En vigueur : 26-04-2024&gt;
+
+###### Art. 87ter
+
+[<sup>1</sup> Lorsque le président du conseil de l'action sociale n'est pas membre du conseil communal, le président y siège avec voix consultative. Le président peut se faire accompagner par le secrétaire du centre public de l'action sociale ou un membre du personnel désigné par le secrétaire. Le président peut se faire accompagner par le receveur du centre public de l'action sociale pour les missions que ce dernier exerce sous son autorité.
+
+Par dérogation à l'alinéa 1er, le président du conseil de l'action sociale qui n'est pas membre du conseil communal n'y siège pas lorsque le bourgmestre ou celui qui le remplace pour présider le conseil communal, a prononcé le huis clos en vertu de l'article 94.
+
+Lorsque les comptes du centre public d'action sociale sont examinés par le conseil communal, le président du conseil de l'action sociale, qu'il soit ou non conseiller communal, les présente et répond aux questions.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 33, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 88
+
+[<sup>1</sup> Le président du conseil préside la réunion du conseil.
+
+Celui qui préside ouvre et clôt la séance.
+
+S'il n'y a pas de président du conseil élu en application de l'article 8bis pour la législature en cours, la réunion du conseil est présidée par le bourgmestre ou celui qui le remplace.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2012-07-23/09, art. 13; En vigueur : 01-01-2013&gt;
+
+###### Art. 89
+
+Sauf stipulation contraire dans le règlement d'ordre intérieur, il est donné lecture du procès-verbal de la précédente séance, à l'ouverture de chaque séance.
+
+[<sup>3</sup> Le procès-verbal]<sup>3</sup> est mis à la disposition des conseillers [sept] jours francs au moins avant le jour de la séance. Dans les cas d'urgence visés à l'article 87, il est mis à la disposition en même temps que l'ordre du jour.] &lt;L 19-07-1991, article unique, MB 13-09-1991 et L 1994-07-11/50, art. 8, En vigueur : 30-12-1994&gt;
+
+Tout membre a le droit, pendant la séance, de faire des observations sur la rédaction du procès-verbal. Si ces observations sont adoptées, le secrétaire est chargé de présenter, séance tenante ou au plus tard à la séance suivante, un nouveau texte conforme à la décision du conseil.
+
+Si la séance s'écoule sans observations, le procès-verbal est considéré comme adopté et signé par le [<sup>2</sup> président de la séance]<sup>2</sup> et le secrétaire.
+
+Chaque fois que le conseil le juge convenable, le procès-verbal est rédigé séance tenante, en tout ou en partie, et signé par les membres présents.
+
+[<sup>1</sup> Une fois adopté et signé par le [<sup>2</sup> président de la séance]<sup>2</sup> et le secrétaire, le procès-verbal de chaque séance est mis en ligne sur le site internet de la commune.
+
+Par dérogation au sixième alinéa, les points du procèsverbal qui ont été abordés à huis clos en vertu des articles 93 et 94 ne sont pas mis en ligne sur le site internet de la commune.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2009-03-05/34, art. 23; En vigueur : 23-03-2009&gt;
+
+(2)&lt;ORD 2012-07-23/09, art. 14; En vigueur : 01-01-2013&gt;
+
+(3)&lt;ORD 2020-07-17/22, art. 34, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 89bis
+
+&lt;Abrogé par ORD 2024-02-22/01, art. 7, 028; En vigueur : 07-03-2024&gt;
+
+###### Art. 90
+
+Le conseil ne peut prendre de résolution si la majorité de ses membres en fonction n'est présente.
+
+Cependant si l'assemblée a été convoquée deux fois sans s'être trouvée en nombre compétent, elle pourra, après une nouvelle et dernière convocation, délibérer, quel que soit le nombre des membres présents, sur les objets mis pour la troisième fois à l'ordre du jour.
+
+Les deuxième et troisième convocations se feront conformément aux règles prescrites par l'article 87, et il sera fait mention si c'est pour la deuxième fois ou pour la troisième que la convocation a lieu; en outre, la troisième convocation rappellera textuellement les deux premières dispositions du présent article.
+
+###### Art. 91
+
+[<sup>1</sup> En début de législature, le conseil communal adopte un règlement d'ordre intérieur dans lequel, outre les dispositions qui doivent être prises en vertu de la présente loi, sont reprises des mesures complémentaires relatives au fonctionnement du conseil, dont au moins des dispositions concernant :
+
+1° le mode d'envoi de la convocation et de la mise à disposition des dossiers aux conseillers communaux, ainsi que la façon dont le secrétaire communal ou les membres du personnel désignés par lui fourniront des informations techniques relatives à ces pièces aux conseillers qui le demandent ;
+
+2° la manière dont les lieu, jour, heure et ordre du jour des réunions du conseil communal sont rendus publics ;
+
+3° les conditions du droit de consultation et du droit de copie pour les conseillers communaux et les conditions du droit de visite aux institutions et services créés et gérés par la commune ;
+
+4° les conditions suivant lesquelles les conseillers communaux exercent leur droit de poser des questions orales et écrites au bourgmestre et au collège des bourgmestre et échevins ;
+
+5° la manière de rédiger les procès-verbaux et la manière dont le procès-verbal de la réunion précédente est mis à disposition des conseillers communaux ;
+
+6° les modalités relatives à la composition et au fonctionnement des commissions et des groupes ;
+
+7° le mode de communication du plan pluriannuel, des modifications au plan pluriannuel, du budget, des modifications budgétaires et des comptes annuels aux membres du conseil ;
+
+8° les modalités selon lesquelles et la personne par qui sont signées les pièces visées à l'article 109 ;
+
+9° les modalités d'application dont il est question à l'article 112, alinéa 6, si elles ne sont pas reprises dans un règlement spécifique.
+
+Le conseil communal peut à tout moment modifier le règlement d'ordre intérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 35, 018; En vigueur : 09-08-2020&gt;
+
+#### Section 3. - Des interdictions de siéger.
+
+###### Art. 92
+
+Il est interdit à tout membre du conseil et au bourgmestre:
+
+1° [<sup>3</sup> d'être présent à la délibération ou décision sur des objets auxquels il a un intérêt direct, soit personnellement, soit comme chargé d'affaires, avant ou après son élection, ou auxquels son conjoint, ses parents ou alliés jusqu'au quatrième degré inclusivement ont un intérêt personnel et direct. Pour l'application de la présente disposition, sont assimilés aux conjoints, les personnes qui ont déposé une déclaration de cohabitation légale visée à l'article 1476 du Code civil.
+
+Cette prohibition ne s'étend pas au-delà des parents ou alliés jusqu'au deuxième degré inclus, lorsqu'il s'agit de la présentation de candidats, de nomination aux emplois et de poursuites disciplinaires ;]<sup>3</sup>
+
+2° [<sup>3</sup> de prendre part, directement ou indirectement, à des marchés publics passés avec la commune ;]<sup>3</sup>
+
+3° d'intervenir comme avocat, notaire ou homme d'affaires dans les procès dirigés contre la commune. Il ne pourra, en la même qualité, plaider, aviser ou suivre aucune affaire litigieuse quelconque dans l'intérêt de la commune, si ce n'est gratuitement. [<sup>3</sup> La présente interdiction vaut également pour tout avocat, notaire ou homme d'affaires appartenant au même groupement, à la même association ou ayant ses bureaux à la même adresse que le membre du conseil ou le bourgmestre]<sup>3</sup>;
+
+4° [<sup>2</sup> sauf en ce qui concerne les centres publics d'action sociale,]<sup>2</sup> d'assister à l'examen des comptes des administrations publiques subordonnées à la commune et dont il serait membre;
+
+[5° d'intervenir comme conseil d'un membre du personnel en matière disciplinaire [<sup>1</sup> ou de recours contre une évaluation]<sup>1</sup>;
+
+6° d'intervenir comme délégué ou technicien d'une organisation syndicale dans un comité de négociation ou de concertation de la commune.] &lt;L 1994-07-11/50, art. 10, En vigueur : 30-12-1994&gt;
+
+Les dispositions qui précèdent sont applicables aux secrétaires.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 20; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2014-02-27/28, art. 3; En vigueur : 12-04-2014&gt;
+
+(3)&lt;ORD 2020-07-17/22, art. 36, 018; En vigueur : 09-08-2020&gt;
+
+#### Section 4. - De la publicité des séances.
+
+###### Art. 93
+
+&lt;L 1994-07-11/50, art. 11, En vigueur : 30-12-1994&gt; Les séances du conseil communal sont publiques.
+
+Sous réserve de l'article 96, le conseil communal, statuant à la majorité des deux tiers des membres présents peut, dans l'intérêt de l'ordre public et en raison des inconvénients graves qui résulteraient de la publicité, décider que la séance ne sera pas publique.
+
+###### Art. 94
+
+&lt;L 1994-07-11/50, art. 12, En vigueur : 30-12-1994&gt; La séance du conseil communal n'est pas publique lorsqu'il s'agit de questions de personnes.
+
+Dès qu'une question de ce genre est soulevée, le président prononce immédiatement le huis clos.
+
+###### Art. 95
+
+&lt;L 1994-07-11/50, art. 13, En vigueur : 30-12-1994&gt; Sauf en matière disciplinaire, la séance à huis clos ne peut avoir lieu qu'après la séance publique.
+
+S'il paraît nécessaire, pendant la séance publique, de continuer l'examen d'un point en séance à huis clos, la séance publique peut être interrompue, à cette seule fin.
+
+###### Art. 96
+
+&lt;L 27-05-1989, art. 1, MB 30-05-1989&gt; Au plus tard sept jours francs avant la séance au cours de laquelle le conseil communal est appelé à délibérer du budget, d'une modification budgétaire ou des comptes, le collège remet à chaque conseiller communal un exemplaire du projet de budget, du projet de modification budgétaire ou des comptes.
+
+[<sup>2</sup> Le règlement d'ordre intérieur du conseil communal précise la manière dont les documents ci-dessus sont envoyés aux conseillers communaux.]<sup>2</sup>
+
+Le projet est communiqué tel qu'il sera soumis aux délibérations du conseil, dans la forme prescrite et accompagné des annexes requises pour son arrêt définitif, à l'exception, pour ce qui concerne les comptes, des pièces justificatives. Le projet de budget et les comptes sont accompagnés d'un rapport.
+
+Le rapport comporte une synthèse du projet de budget ou des comptes. En outre, le rapport qui a trait au budget définit la politique générale et financière de la commune et synthétise la situation de l'administration et des affaires de la commune ainsi que tous éléments utiles d'information, et celui qui a trait aux comptes synthétise la gestion des finances communales durant l'exercice auquel ces comptes se rapportent.
+
+[<sup>1</sup> Le rapport doit contenir en outre des informations sur la mesure dans laquelle sont pris en compte les aspects sociaux, éthiques et environnementaux dans la politique financière de la commune.]<sup>1</sup>
+
+[...] &lt;L 1994-07-11/50, art. 14, En vigueur : 30-12-1994&gt;
+
+La séance du conseil communal est publique.
+
+Avant que le conseil délibère, le collège des bourgmestre et échevins commente le contenu du rapport.
+
+----------
+
+(1)&lt;ORD 2006-06-01/39 , art. 5; En vigueur : 14-07-2006&gt;
+
+(2)&lt;ORD 2013-03-15/03, art. 2; En vigueur : 22-04-2013&gt;
+
+###### Art. 96bis
+
+[<sup>1</sup> Les représentants du conseil communal dans les intercommunales, qui exercent une fonction d'administrateur, doivent [<sup>2</sup> présenter]<sup>2</sup> au conseil communal un rapport annuel relatif à la gestion de l'intercommunale concernée ainsi que sur leur propre activité au sein de l'intercommunale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2014-02-27/27, art. 16; En vigueur : 12-04-2014&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 37, 018; En vigueur : 09-08-2020&gt;
+
+#### Section 5. - De la tenue des séances.
+
+###### Art. 97
+
+Aucun objet étranger à l'ordre du jour ne peut être mis en discussion, sauf dans les cas d'urgence où le moindre retard pourrait occasionner du danger.
+
+L'urgence sera déclarée par les deux tiers au moins des membres présents; leurs noms seront insérés au procès-verbal.
+
+[Toute proposition étrangère à l'ordre du jour doit être remise [<sup>1</sup> au président du conseil ou, à défaut de président du conseil élu en application de l'article 8bis, au bourgmestre ou à celui qui le remplace]<sup>1</sup> au moins cinq jours francs avant l'assemblée; elle doit être accompagnée d'une note explicative ou de tout document susceptible d'éclairer le conseil. Il est interdit à un membre du collège des bourgmestre et échevins de faire usage de cette faculté.
+
+[<sup>1</sup> Le président du conseil, assisté du secrétaire communal, ou, à défaut de président du conseil élu en application de l'article 8bis, le bourgmestre ou celui qui le remplace transmet sans délai les points complémentaires de l'ordre du jour aux membres du conseil.]<sup>1</sup> ] &lt;L 1994-07-11/50, art. 15, En vigueur : 30-12-1994&gt;
+
+----------
+
+(1)&lt;ORD 2012-07-23/09, art. 16; En vigueur : 01-01-2013&gt;
+
+###### Art. 98
+
+Le président a la police de l'assemblée; il peut, après en avoir donné l'avertissement, faire expulser à l'instant du lieu de l'auditoire tout individu qui donnera des signes publics soit d'approbation, soit d'improbation, ou excitera au tumulte de quelque manière que ce soit.
+
+Le président peut, en outre, dresser procès-verbal à charge du contrevenant, et le renvoyer devant le tribunal de police qui pourra le condamner à une amende d'un à quinze [<sup>2</sup> euros]<sup>2</sup> ou à un emprisonnement d'un à trois jours, sans préjudice d'autres poursuites, si le fait y donne lieu.
+
+----------
+
+(1)&lt;L 2000-06-26/42, art. 2; En vigueur : 01-01-2002&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 38, 018; En vigueur : 09-08-2020&gt;
+
+#### Section 6. - Des votes.
+
+###### Art. 99
+
+[§ 1er]. Les résolutions sont prises à la majorité absolue des suffrages; en cas de partage, la proposition est rejetée.
+
+[§ 2. Le conseil communal vote sur l'ensemble du budget et sur l'ensemble des comptes annuels.
+
+Chacun de ses membres peut toutefois exiger le vote séparé d'un ou de plusieurs articles ou groupes d'articles qu'il désigne, s'il s'agit du budget, ou d'un ou plusieurs articles ou postes qu'il désigne, s'il s'agit des comptes annuels.
+
+Dans ce cas, le vote d'ensemble ne peut intervenir qu'après le vote sur le ou les articles, groupes d'articles ou postes ainsi désignés, et il porte sur les articles ou postes dont aucun des membres n'a demandé le vote séparé, et sur les articles qui ont déjà été adoptés par vote séparé.] &lt;L 17-10-1990, art. 20, MB 14-12-1990&gt;
+
+###### Art. 100
+
+&lt;L 1994-07-11/50, art. 16, En vigueur : 30-12-1994&gt; Sans préjudice de l'alinéa 4, les membres du conseil votent à haute voix.
+
+Le règlement d'ordre intérieur peut prévoir un mode de scrutin équivalent au vote à haute voix. Sont considérés comme tels, le vote nominatif exprimé mécaniquement et le vote par assis et levé ou à main levée.
+
+Nonobstant les dispositions du règlement d'ordre intérieur, le vote se fait à haute voix chaque fois qu'un tiers des membres présents le demandent.
+
+Seules les présentations de candidats, [<sup>1</sup> à l'exception des échevins,]<sup>1</sup> les nominations aux emplois, les mises en disponibilité, les suspensions préventives dans l'intérêt du service et les sanctions disciplinaires, font l'objet d'un scrutin secret, à la majorité absolue des suffrages.
+
+Lorsqu'il est membre du conseil, le président vote en dernier lieu.
+
+L'alinéa précédent n'est pas applicable aux scrutins secrets.
+
+----------
+
+(1)&lt;ORD 2024-02-22/01, art. 8, 028; En vigueur : 07-03-2024&gt;
+
+###### Art. 100bis
+
+[<sup>1</sup> Lors des séances virtuelles, les membres du conseil communal votent à haute voix, conformément à l'article 100, soit en s'exprimant directement dans le cadre de la téléconférence ou de la vidéoconférence, soit en exprimant leur vote par le biais de l'adresse électronique personnelle visée à l'article 87, § 4.
+
+Lors des séances virtuelles du conseil communal, les votes au scrutin secret sont adressés au secrétaire communal, par voie électronique, par le biais de l'adresse électronique personnelle visée à l'article 87, § 4.
+
+Le secrétaire communal se charge d'anonymiser les votes dont il assure le caractère secret dans le respect du secret professionnel visé à l'article 458 du Code pénal.
+
+Le règlement d'ordre intérieur peut prévoir d'autres modalités de vote au scrutin secret.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2020-10-29/09, art. 4, 019; En vigueur : 05-11-2020&gt;
+
+###### Art. 101
+
+En cas de nomination ou de présentation de candidats, si la majorité requise n'est pas obtenue au premier tour de scrutin, il est procédé à un scrutin de ballottage entre les candidats qui ont obtenu le plus grand nombre de voix.
+
+À cet effet, le président dresse une liste contenant deux fois autant de noms qu'il y a de nominations ou de présentations à faire.
+
+Les suffrages ne peuvent être donnés qu'aux candidats portés sur cette liste.
+
+La nomination ou la présentation a lieu à la pluralité des voix. En cas de parité des voix, le plus âgé des candidats est préféré.
+
+#### Section 7. - De la publicité des décisions.
+
+###### Art. 102
+
+Il ne pourra être refusé à aucun des habitants de la commune, [<sup>1</sup> ...]<sup>1</sup>, communication, sans déplacement, des délibérations du conseil communal.
+
+Le conseil pourra néanmoins décider que les résolutions prises à huis clos seront tenues secrètes pendant un temps déterminé.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 21; En vigueur : 01-01-2003&gt;
+
+### CHAPITRE III. - Des réunions et des délibérations du collège des bourgmestre et échevins.
+
+###### Art. 103
+
+Le bourgmestre est de droit président du collège des bourgmestre et échevins.
+
+[<sup>1</sup> Le président du conseil de l'action sociale siège avec voix consultative aux réunions du collège des bourgmestre et échevins.
+
+[<sup>2</sup> Par dérogation au deuxième alinéa, le président du conseil de l'action sociale ne siège pas au collège en matière d'établissement et de recouvrement des taxes communales et en matière disciplinaire.]<sup>2</sup> ]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2009-03-05/34, art. 24; En vigueur : 23-03-2009&gt;
+
+(2)&lt;ORD 2014-02-27/28, art. 4; En vigueur : 12-04-2014&gt;
+
+###### Art. 104
+
+Le collège des bourgmestre et échevins se réunit aux jours et heures fixés par le règlement et aussi souvent que l'exige la prompte expédition des affaires.
+
+Il ne peut délibérer si plus de la moitié de ses membres n'est présente.
+
+[Les réunions du collège des bourgmestre et échevins ne sont pas publiques. Seules les décisions sont actées au procès-verbal et au registre des délibérations visés [à l'article 108]: elles sont seules susceptibles d'avoir des effets de droit.] &lt;L 09-08-1988, art. 8, MB 13-08-1988 et AR 30-05-1989, art. 20, MB 31-05-1989&gt;
+
+[<sup>1</sup> En cas de force majeure ou dans 10 pour cent des séances du collège des bourgmestre et échevins maximum par an, les réunions peuvent se tenir à distance, par téléconférence ou vidéoconférence, à l'aide de techniques de télécommunication qui permettent aux membres participant à la séance de s'entendre simultanément et de délibérer simultanément ensemble. La confidentialité de la réunion doit être garantie. Un règlement d'ordre intérieur en fixe les conditions et les modalités.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 40, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 105
+
+La convocation aux réunions extraordinaires se fait par [<sup>1</sup> courrier, par porteur à domicile, par télécopie ou par courrier électronique]<sup>1</sup>, au moins deux jours francs avant celui de la réunion.
+
+Toutefois, en cas d'urgence, le bourgmestre reste juge du jour et de l'heure de la réunion.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 22; En vigueur : 01-01-2003&gt;
+
+###### Art. 106
+
+Les résolutions sont prises à la majorité des voix; en cas de partage, le collège remet l'affaire à une autre séance, à moins qu'il ne préfère appeler un membre du conseil d'après l'ordre d'inscription au tableau.
+
+Si, cependant, la majorité du collège a, préalablement à la discussion, reconnu l'urgence, la voix du président est décisive. Il en est de même si, à trois séances, le partage des voix s'est produit sur la même affaire sans qu'une majorité se soit constituée au sein du collège pour appeler un membre du conseil.
+
+[L'article 92, 1°, et les articles 100 et 101 sont applicables aux séances du collège des bourgmestre et échevins.] &lt;AR 30-05-1989, art. 21 § 1, MB 31-05-1989&gt;
+
+###### Art. 106bis
+
+[<sup>1</sup> Lorsque le collège des bourgmestre et échevins s'écarte de l'avis négatif de légalité rendu par le secrétaire communal sur la base de l'article 26bis, § 1er, 9°, il l'indique dans sa délibération et motive celle-ci en conséquence.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2014-02-27/27, art. 17; En vigueur : 12-04-2014&gt;
+
+###### Art. 107
+
+&lt;AR 30-05-1989, art. 21 § 2, MB 31-05-1989&gt; [Par dérogation à l'article 106], dans les communes périphériques visées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, et dans les communes de Comines-Warneton et de Fourons, le collège des bourgmestre et échevins décide par consensus. À défaut de consensus, l'affaire est soumise par le bourgmestre pour décision au conseil communal. À cet effet, [par dérogation à l'article 86], le bourgmestre peut, si nécessaire, convoquer le conseil communal. &lt;AR 30-05-1989, art. 21 § 2, MB 31-05-1989&gt;
+
+###### Art. 107bis
+
+[<sup>1</sup> Les règles déontologiques visées à l'article 84quater, alinéa 1er, sont également applicables aux membres du collège des bourgmestre et échevins.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2024-02-22/03, art. 6, 031; En vigueur : 01-12-2024&gt;
+
+### CHAPITRE IV. - Dispositions applicables aux actes des autorités communales.
+
+#### Section 1. - De la rédaction des actes.
+
+###### Art. 108
+
+&lt;L 17-10-1990, art. 21, MB 14-12-1990&gt; [Le secrétaire assiste aux séances du conseil communal et du collège des bourgmestre et échevins.
+
+Il en rédige les procès-verbaux et assure la transcription de ceux-ci.
+
+Les procès-verbaux transcrits sont signés par le bourgmestre et par le secrétaire.]
+
+[La signature du procès-verbal du conseil communal intervient dans les mois qui suit son adoption par le conseil communal.] &lt;L 1994-07-11/50, art. 17, En vigueur : 30-12-1994&gt;
+
+###### Art. 108bis
+
+&lt;Inséré par L 1994-07-11/50, art. 18, En vigueur : 30-12-1994&gt; Le procès-verbal reprend, dans l'ordre chronologique, tous les objets mis en discussion ainsi que la suite réservée à tous les points pour lesquels le conseil n'a pas pris de décision. De même, il reproduit clairement toutes les décisions.
+
+###### Art. 109
+
+[<sup>1</sup> § 1er. Les règlements et ordonnances du conseil et du collège des bourgmestre et échevins, les publications, les actes et la correspondance de la commune sont signés par le bourgmestre et contresignés par le secrétaire.
+
+§ 2. Le conseil communal peut déléguer, par écrit, la signature de certaines correspondances au secrétaire communal ou à un ou plusieurs fonctionnaires proposés par celui-ci. Dans ce cas, la décision du conseil doit déterminer de manière très précise les matières et les types de courriers pour lesquels une délégation de signature est donnée, ainsi que les personnes autorisées à signer ces documents.
+
+§ 3. Nonobstant les paragraphes 1er et 2, les actes et la correspondance qui se rapportent à des décisions prises sur la base d'une délégation donnée en application des articles 234, §§ 4 et 5, et 236, § 6, sont signés par le secrétaire communal ou le fonctionnaire nommément désigné dans l'acte de délégation.
+
+§ 4. Les documents précités peuvent être rédigés sur tout support d'information pour autant que la commune en garantisse un accès et une conservation durable.
+
+L'exigence de signature est satisfaite lorsqu'il est fait usage d'une procédure électronique qui garantit l'authenticité et l'intégrité des données. Le Gouvernement peut apporter des précisions quant à la procédure électronique.
+
+Le Gouvernement peut fixer des règles complémentaires sur la manière dont la commune conserve et communique les données, actes et documents.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 14, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 110
+
+Le bourgmestre peut déléguer par écrit la signature de certains documents à un ou plusieurs membres du collège des bourgmestre et échevins. Il peut révoquer cette délégation à tout moment.
+
+La mention de la délégation doit précéder la signature, le nom et la qualité de l'échevin titulaire de la délégation.
+
+###### Art. 111
+
+Le collège des bourgmestre et échevins peut autoriser le secrétaire communal à déléguer le contreseing de certains documents à un ou plusieurs fonctionnaires communaux.
+
+Cette délégation est faite par écrit; le conseil communal en est informé à sa plus prochaine séance.
+
+La mention de la délégation doit précéder la signature, le nom et la qualité du fonctionnaire délégué sur tous les documents qu'il signe.
+
+#### Section 2. - De la publication des actes.
+
+###### Art. 112
+
+[<sup>1</sup> Les règlements et ordonnances du conseil communal, du collège des bourgmestre et échevins et du bourgmestre sont publiés par ce dernier par voie d'affichage et par leur mise en ligne sur le site internet de la commune.
+
+Les affiches et le site internet de la commune visés au premier alinéa indiquent l'objet du règlement ou de l'ordonnance, la date de la décision par laquelle le règlement ou l'ordonnance a été adopté, la décision de l'autorité de tutelle et le ou les lieux où le texte du règlement ou de l'ordonnance peut être consulté par le public. Sur le site internet, l'intégralité du règlement ou de l'ordonnance sera publiée.
+
+Le bourgmestre peut également publier les actes visés au premier alinéa par voie de presse.
+
+La publication d'un règlement ou d'une ordonnance sur le site internet de la commune et, le cas échéant, par voie de presse, indique la date de sa publication par voie d'affichage.
+
+[<sup>2</sup> Dès leur approbation par le conseil communal, les documents suivants sont publiés sur le site internet de la commune : les plans communaux de développement et les plans communaux d'affectation du sol, le budget annuel [<sup>4</sup> , le plan triennal]<sup>4</sup> et les comptes.]<sup>2</sup> ]<sup>1</sup>
+
+[<sup>2</sup> Si le conseil communal décide de diffuser en version papier ou en version électronique un bulletin d'information communal dans lequel les membres du collège ont la possibilité de faire des communications relatives à l'exercice de leur fonction, un espace est réservé dans chaque parution de ce bulletin afin de permettre aux listes ou formations politiques démocratiques représentées au conseil communal mais n'appartenant pas à la majorité communale, de s'exprimer. Les modalités d'application de cette disposition doivent être définies dans le règlement d'ordre intérieur du conseil communal ou dans un règlement communal spécifique.]<sup>2</sup> [<sup>3</sup> Une commission composée d'un représentant de chaque groupe politique démocratique représenté au conseil communal sera chargée de remettre annuellement au conseil communal un rapport relatif au respect de cette disposition.]<sup>3</sup>
+
+----------
+
+(1)&lt;ORD 2009-03-05/34, art. 25; En vigueur : 23-03-2009X&gt;
+
+(2)&lt;ORD 2014-02-27/27, art. 19; En vigueur : 12-04-2014&gt;
+
+(3)&lt;ORD 2016-06-23/11, art. 7, 006; En vigueur : 01-09-2016&gt;
+
+(4)&lt;ORD 2020-07-17/22, art. 42, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 113
+
+&lt;abrogé par L 08-04-1991, art. 1, MB 27-04-1991&gt;
+
+###### Art. 114
+
+&lt;L 08-04-1991, art. 1, MB 27-04-1991&gt; Les règlements et ordonnances visés à l'article 112 deviennent obligatoires le cinquième jour qui suit le jour de leur publication par la voie de l'affichage, sauf s'ils en disposent autrement.
+
+Le fait et la date de la publication de ces règlements et ordonnances [<sup>2</sup> par la voie de l'affichage]<sup>2</sup> sont constatés par une annotation dans un registre spécialement tenu à cet effet, dans la forme qui sera déterminée par arrêté [<sup>1</sup> du Gouvernement [<sup>3</sup> ...]<sup>3</sup>]<sup>1</sup>.
+
+[<sup>2</sup> La publication de ces règlements et ordonnances par leur mise en ligne sur le site internet de la commune et, le cas échéant, par voie de presse, n'a pas d'influence sur leur entrée en vigueur.]<sup>2</sup>
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 24; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2009-03-05/34, art. 26; En vigueur : 23-03-2009&gt;
+
+(3)&lt;ORD 2020-07-17/22, art. 43, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 115
+
+&lt;Abrogé par ORD 2020-07-17/22, art. 44, 018; En vigueur : 09-08-2020&gt;
+
+#### Section 3. - Disposition générale.
+
+###### Art. 116
+
+Les actes des autorités des communes ne peuvent être contraires [aux décrets, ordonnances, règlements et arrêtés des Régions, des Communautés et des Commissions communautaires], qui peuvent charger ces autorités de leur exécution. &lt;AR 30-05-1989, art. 22, MB 31-05-1989&gt;
+
+## TITRE II. - Des attributions.
+
+### CHAPITRE I. - Des attributions du conseil communal.
+
+###### Art. 117
+
+Le conseil règle tout ce qui est d'intérêt communal; il délibère sur tout autre objet qui lui est soumis par l'autorité supérieure.
+
+[<sup>1</sup> Sans préjudice d'une législation particulière interdisant l'établissement d'une redevance pour une situation déterminée, le conseil est habilité à établir des redevances par voie de règlements.]<sup>1</sup>
+
+[Les délibérations du conseil ne doivent être approuvées par l'autorité de tutelle que dans les cas formellement prévus par la loi, le décret ou l'ordonnance.] &lt;L 27-05-1989, art. 2 §§ 1 et 2, MB 30-05-1989&gt;
+
+----------
+
+(1)&lt;ORD 2024-02-22/01, art. 9, 028; En vigueur : 07-03-2024&gt;
+
+###### Art. 118
+
+&lt;renuméroté par L 27-05-1989, art. 2 § 3, MB 30-05-1989&gt;
+
+Les délibérations sont précédées d'une information toutes les fois que le Gouvernement le juge convenable [<sup>2</sup> ou]<sup>2</sup> lorsqu'elle est prescrite par les règlements.
+
+[<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 45, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 119
+
+&lt;renuméroté par L 27-05-1989, art. 2 § 3, MB 30-05-1989&gt;
+
+Le conseil fait les règlements communaux d'administration intérieure et les ordonnances de police communale [<sup>2</sup> , à l'exception des ordonnances de police temporaires visées à l'article 130bis]<sup>2</sup> .
+
+[Ces règlements et ordonnances ne peuvent être contraires aux lois, aux décrets, aux ordonnances, aux règlements, aux arrêtés de l'État, des Régions, des Communautés, des Commissions communautaires, [<sup>1</sup> ...]<sup>1</sup>] &lt;AR 30-05-1989, art. 23, MB 31-05-1989&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[...] &lt;L 1999-05-13/32, art. 2, En vigueur : 20-06-1999&gt;
+
+Expéditions de ces règlements et ordonnances seront immédiatement transmises au greffe du tribunal de première instance et à celui du tribunal de police où elles seront inscrites sur un registre à ce destiné.
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+[...] &lt;L 1999-05-13/32, art. 2, En vigueur : 20-06-1999&gt;
+
+----------
+
+(1)&lt;ORD 2006-03-09/36, art. 4; En vigueur : 01-04-2006&gt;
+
+(2)&lt;L 2006-01-12/51, art. 2; En vigueur : 10-02-2007&gt;
+
+(3)&lt;ORD 2008-05-29/33, art. 3; En vigueur : 17-06-2009&gt;
+
+(4)&lt;ORD 2020-07-17/22, art. 46, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 119bis
+
+[<sup>1</sup> Le conseil communal peut établir des peines et des sanctions administratives communales conformément à la loi du 24 juin 2013 relative aux sanctions administratives communales.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/04, art. 46; En vigueur : 01-01-2014&gt;
+
+###### Art. 119ter
+
+[<sup>1</sup> § 1er. Sur la base de l'arrêté royal visé à l'article 6, § 3, de la loi du 15 janvier 2024 relative à l'approche administrative communale, à la mise en place d'une enquête d'intégrité communale et portant création d'une Direction chargée de l'Evaluation de l'Intégrité pour les Pouvoirs publics, et sans préjudice de l'article 135, § 2, le conseil communal peut, moyennant une motivation et une analyse de risques préalable, adopter une ordonnance de police communale en vue d'empêcher la criminalité déstabilisante.
+
+L'ordonnance de police communale visée à l'alinéa 1er détermine les secteurs et activités économiques pour lesquels ainsi que la zone géographique dans laquelle la commune mènera une enquête d'intégrité. Si le champ d'application géographique de l'ordonnance de police communale pour un certain secteur ou activité économique couvre seulement une partie du territoire, la commune doit obtenir un avis du CIEAR à ce sujet, qui est contraignant. Le conseil zonal de sécurité, visé à l'article 35 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, de la zone concernée est informé de l'analyse du CIEAR concernant la limitation géographique.
+
+Si la commune a adopté une ordonnance de police communale, elle est tenue de mener une enquête d'intégrité concernant l'implantation ou l'exploitation de tous les établissements accessibles au public qui appartiennent aux secteurs et/ou activités économiques et qui sont situés dans les zones géographiques, tels que déterminés dans l'ordonnance de police communale.
+
+L'ordonnance de police communale détermine, par secteur ou activité économique, le délai raisonnable dans lequel la commune lancera et/ou clôturera les enquêtes d'intégrité sur ces secteurs ou activités économiques choisis.
+
+§ 2. L'enquête d'intégrité porte sur l'implantation ou l'exploitation d'établissements accessibles au public.
+
+L'enquête d'intégrité satisfait cumulativement aux conditions suivantes:
+
+1° elle n'est pas discriminatoire;
+
+2° elle est claire, explicite et objective;
+
+3° elle est réalisée de manière transparente.
+
+L'enquête d'intégrité est lancée et réalisée sur décision du bourgmestre, et sous son autorité et sa responsabilité.
+
+La commune est responsable du traitement des données à caractère personnel.
+
+§ 3. Le bourgmestre désigne les membres du personnel de la commune chargés de l'enquête d'intégrité. Sous réserve de dispositions contraires, ces membres du personnel sont tenus au secret professionnel visé [<sup>2</sup> à l'article 352 du Code pénal]<sup>2</sup> pour les actes qu'ils accomplissent dans le cadre de l'enquête d'intégrité.
+
+Sous réserve de dispositions contraires, le collège des bourgmestre et échevins et le collège communal sont soumis au secret professionnel visé [<sup>2</sup> à l'article 352 du Code pénal]<sup>2</sup> en ce qui concerne les résultats de l'enquête d'intégrité.
+
+§ 4. L'enquête d'intégrité est menée dans un délai de cinquante jours ouvrables, qui commence le premier jour ouvrable suivant la décision du bourgmestre visée au paragraphe 2, alinéa 3. Le délai peut être prolongé une fois de trente jours ouvrables.
+
+§ 5. L'enquête d'intégrité concerne uniquement les personnes qui sont ou seront chargées en droit ou en fait de l'exploitation des établissements accessibles au public qui appartiennent aux secteurs et/ou activités économiques tels que déterminés dans l'ordonnance de police communale visée au paragraphe 1er.
+
+Les personnes visées à l'alinéa 1er peuvent être tant des personnes physiques que des personnes morales.
+
+La commune peut, moyennant motivation, étendre l'enquête d'intégrité aux personnes suivantes qui ont commis un ou plusieurs faits punissables visés au paragraphe 10 ou à l'égard desquelles il existe des motifs sérieux de croire qu'elles ont commis ou commettront un ou plusieurs faits punissables visés au paragraphe 10:
+
+1° les personnes physiques ou morales sur lesquelles la personne qui est ou sera chargée en droit ou en fait de l'exploitation exerce ou a exercé des fonctions de direction;
+
+2° les personnes physiques ou morales qui, en droit ou en fait, occupent une position dominante vis-à-vis de la personne qui est ou sera chargée en droit ou en fait de l'exploitation;
+
+3° les personnes physiques ou morales qui fournissent ou ont fourni directement ou indirectement des avoirs à la personne qui est ou sera chargée en droit ou en fait de l'exploitation;
+
+4° toute autre personne physique ou morale impliquée en droit dans l'implantation ou l'exploitation.
+
+L'extension visée à l'alinéa 3 est fondée sur des faits ou des circonstances concrets, vérifiables, réellement existants, qui sont pertinents et ont été établis avec la diligence requise.
+
+En cas de circonstances factuelles modifiées concernant les personnes visées au présent paragraphe, la décision de mener une nouvelle enquête d'intégrité peut être prise, laquelle peut, le cas échéant, conduire au refus, à la suspension ou à l'abrogation du permis d'implantation ou d'exploitation concerné visé au paragraphe 8 ou à la fermeture de l'établissement visée au paragraphe 9.
+
+§ 6. L'enquête d'intégrité implique que la commune:
+
+1° procède en tout état de cause à une consultation du Registre Central des Enquêtes d'intégrité, conformément aux articles 11 et 12 de la loi du 15 janvier 2024 relative à l'approche administrative communale, à la mise en place d'une enquête d'intégrité communale et portant création d'une Direction chargée de l'Evaluation de l'Intégrité pour les Pouvoirs publics;
+
+2° peut demander et recevoir un avis de la police locale;
+
+3° peut procéder à une consultation de l'ensemble des bases de données communales et services pertinents propres;
+
+4° peut procéder à une consultation du casier judiciaire, conformément aux articles 595 et 596 du Code d'instruction criminelle;
+
+5° peut procéder à une consultation de toutes les bases de données accessibles au public, y compris les données rendues publiques sur les réseaux sociaux;
+
+6° peut consulter le CIEAR visé à l'article 32 de la loi du 15 janvier 2024 relative à l'approche administrative communale, à la mise en place d'une enquête d'intégrité communale et portant création d'une Direction chargée de l'Evaluation de l'Intégrité pour les Pouvoirs publics;
+
+7° peut consulter les autorités judiciaires.
+
+Le CIEAR peut, dans le cas visé à l'alinéa 1er, 6°, fournir des informations policières et judiciaires pertinentes à la commune.
+
+Conformément [<sup>2</sup> à l'article 353, § 2, du Code pénal]<sup>2</sup>, le bourgmestre peut organiser une concertation de cas afin d'empêcher les [<sup>2</sup> infractions commises]<sup>2</sup> dans le cadre d'une organisation criminelle. Le procureur du Roi peut faire partie de la concertation de cas. Les autres participants sont déterminés par le bourgmestre, en fonction des nécessités concrètes.
+
+Les participants de la concertation de cas peuvent, conformément [<sup>2</sup> à l'article 353, § 2, du Code pénal]<sup>2</sup>, partager des informations uniquement dans la mesure où ces informations sont pertinentes et proportionnées par rapport à la finalité de la concertation de cas.
+
+§ 7. Si les informations issues des consultations visées au paragraphe 6 montrent qu'un complément d'enquête est nécessaire, un avis peut être demandé à la DEIPP, conformément aux dispositions de la loi du 15 janvier 2024 relative à l'approche administrative communale, à la mise en place d'une enquête d'intégrité communale et portant création d'une Direction chargée de l'Evaluation de l'Intégrité pour les Pouvoirs publics. Le collège des bourgmestre et échevins ou le collège communal peut, en tout état de cause, uniquement refuser, suspendre ou abroger le permis d'implantation ou d'exploitation ou fermer l'établissement, après avoir obtenu un avis de la DEIPP visé à l'article 23 de la loi du 15 janvier 2024 relative à l'approche administrative communale, à la mise en place d'une enquête d'intégrité communale et portant création d'une Direction chargée de l'Evaluation de l'Intégrité pour les Pouvoirs publics.
+
+§ 8. Si l'établissement ou l'exploitation est soumis par le conseil communal à un permis d'implantation ou d'exploitation, le collège des bourgmestre et échevins ou le collège communal peut, sur proposition du bourgmestre, se fonder sur les résultats de l'enquête d'intégrité pour refuser ledit permis d'implantation ou d'exploitation relatif à l'établissement accessible au public, le suspendre pour une durée maximale de six mois ou l'abroger. La décision de refus, de suspension ou d'abrogation est motivée.
+
+En cas de suspension, le collège des bourgmestre et échevins ou le collège communal définit les conditions permettant d'annuler la suspension.
+
+La personne concernée est informée par envoi recommandé ou contre accusé de réception de la décision motivée du collège des bourgmestre et échevins ou du collège communal. L'avis de la DEIPP visé à l'article 23 de la loi du 15 janvier 2024 relative à l'approche administrative communale, à la mise en place d'une enquête d'intégrité communale et portant création d'une Direction chargée de l'Evaluation de l'Intégrité pour les Pouvoirs publics, est annexé à la décision.
+
+La commune transmet la décision motivée dans les meilleurs délais à la DEIPP conformément à l'article 10, alinéa 2, de la loi du 15 janvier 2024 relative à l'approche administrative communale, à la mise en place d'une enquête d'intégrité communale et portant création d'une Direction chargée de l'Evaluation de l'Intégrité pour les Pouvoirs publics, ainsi qu'aux autorités judiciaires.
+
+§ 9. Si l'implantation ou l'exploitation n'est pas soumis par le conseil communal à un permis d'implantation ou d'exploitation, le collège des bourgmestre et échevins ou le collège communal peut, sur proposition du bourgmestre, se fonder sur les résultats de l'enquête d'intégrité pour procéder à la fermeture de l'établissement accessible au public. La décision de fermeture est motivée.
+
+La personne concernée est informée par envoi recommandé ou contre accusé de réception de la décision motivée du collège des bourgmestre et échevins ou du collège communal. L'avis de la DEIPP visé à l'article 23 de la loi du 15 janvier 2024 relative à l'approche administrative communale, à la mise en place d'une enquête d'intégrité communale et portant création d'une Direction chargée de l'Evaluation de l'Intégrité pour les Pouvoirs publics, est annexé à la décision.
+
+La commune transmet la décision motivée dans les meilleurs délais à la DEIPP conformément à l'article 10 de la loi du 15 janvier 2024 relative à l'approche administrative communale, à la mise en place d'une enquête d'intégrité communale et portant création d'une Direction chargée de l'Evaluation de l'Intégrité pour les Pouvoirs publics, ainsi qu'aux autorités judiciaires.
+
+§ 10. Le refus, la suspension ou l'abrogation d'un permis d'implantation ou d'exploitation ou la fermeture d'un établissement conformément aux paragraphes 8 et 9, sur la base de l'enquête d'intégrité, est seulement possible s'il apparaît:
+
+1° qu'il existe un risque sérieux démontrable, basé sur des faits ou circonstances, que l'établissement sera exploité pour tirer un avantage, financier ou non, de faits punissables commis antérieurement, et/ou;
+
+2° qu'il existe un risque sérieux démontrable, basé sur des faits ou circonstances, que l'établissement sera exploité pour commettre des faits punissables, et/ou;
+
+3° qu'il existe des indices sérieux que des faits punissables ont été commis pour exploiter l'établissement.
+
+Le risque sérieux démontrable ou l'indice sérieux est fondé sur des faits ou des circonstances concrets, vérifiables, réellement existants, qui sont pertinents et établis avec la diligence requise.
+
+Lors de l'appréciation relative à l'existence d'un risque sérieux démontrable ou d'un indice sérieux, il est tenu compte de la gravité des faits, de la mesure dans laquelle les faits punissables sont liés au secteur ou à l'activité économique en question et de l'importance des avantages acquis ou à acquérir.
+
+Pour déterminer dans quelle mesure les faits punissables sont liés au secteur ou à l'activité économique en question, il est tenu compte de la question de savoir si les personnes suivantes ont commis un ou plusieurs faits punissables ou s'il existe des motifs sérieux de croire que les personnes suivantes ont commis ou commettront un ou plusieurs faits punissables:
+
+1° la personne qui est ou sera chargée en droit ou en fait de l'exploitation, ou;
+
+2° la personne physique ou morale sur laquelle la personne qui est ou sera chargée en fait ou en droit de l'exploitation exerce ou a exercé des fonctions de direction, ou;
+
+3° la personne physique ou morale qui, en droit ou en fait, occupe une position dominante vis-à-vis de la personne qui, en droit ou en fait, est ou sera chargée de l'exploitation, ou;
+
+4° la personne physique ou morale qui fournit ou a fourni directement ou indirectement des avoirs à la personne qui est ou sera chargée en droit ou en fait de l'exploitation, ou;
+
+5° toute autre personne physique ou morale, impliquée en droit dans l'implantation ou l'exploitation.
+
+Pour l'application du présent titre, l'on entend par "faits punissables" la participation à l'une des infractions commises suivantes:
+
+1° le terrorisme, visé [<sup>2</sup> à l'article 371 du Code pénal]<sup>2</sup> ou financement du terrorisme, visé à l'article 3 de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces;
+
+2° le blanchiment de capitaux visé à l'article 2 de la loi du 18 septembre 2017 relative à la prévention du blanchiment et du financement du terrorisme et à la limitation de l'utilisation des espèces;
+
+3° le [<sup>2</sup> recel]<sup>2</sup>, visé [<sup>2</sup> aux articles 501 et 503 du Code pénal]<sup>2</sup>;
+
+4° la criminalité organisée, à savoir l'ensemble des infractions commises par une organisation criminelle, visée [<sup>2</sup> à l'article 406 du Code pénal]<sup>2</sup>;
+
+5° le trafic illicite de stupéfiants, visé aux articles 2, 2bis, 2quater, alinéa 1er, 4°, et 3 de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes;
+
+6° le trafic illicite d'armes, de biens et de marchandises, en ce compris des mines antipersonnel et/ou des sous-munitions, visé à l'article 8 de la loi du 5 août 1991 relative à l'importation, à l'exportation, au transit et à la lutte contre le trafic d'armes, de munitions et de matériel devant servir spécialement à un usage militaire ou de maintien de l'ordre et de la technologie y afférente;
+
+7° le trafic d'êtres humains, visé [<sup>2</sup> aux articles 259 à 261 du Code pénal]<sup>2</sup>;
+
+8° la traite des êtres humains, visée [<sup>2</sup> aux articles 258, 260 et 261 du Code pénal]<sup>2</sup>;
+
+9° l'exploitation de la débauche ou de la prostitution d'un mineur, visée [<sup>2</sup> aux articles 160 et 161 du Code pénal]<sup>2</sup>;
+
+10° l'utilisation illégale chez l'animal de substances ayant un effet hormonal ou le trafic illicite de ces substances, visée aux articles 3, 4, 5 et 10 de la loi du 15 juillet 1985 relative à l'utilisation de substances à effet hormonal, à effet antihormonal, à effet beta-adrénergique ou à effet stimulateur de production chez les animaux;
+
+11° le trafic illicite d'organes ou de tissus humains, visé [<sup>2</sup> au livre II, titre 3, chapitre 7, section 5, du Code pénal]<sup>2</sup>;
+
+12° la fraude fiscale, visée aux articles 449 et 450 du Code des impôts sur les revenus, à l'article 73 et 73bis du Code de la taxe sur la valeur ajoutée et blanchiment d'argent provenant de cette fraude fiscale visée [<sup>2</sup> aux articles 502 et 503 du Code pénal]<sup>2</sup>, en cas de répétition de l'infraction, et la fraude fiscale grave, visée à l'article 449, alinéa 2, du Code des impôts sur les revenus et à l'article 73, alinéa 2, du Code de la taxe sur la valeur ajoutée;
+
+13° la fraude sociale, visée à l'article 1er, § 1er, du Code pénal social, en cas de répétition de l'infraction, et fraude sociale grave, visée aux articles 230 à 235 du Code pénal social;
+
+14° le détournement de fonds par des personnes exerçant une fonction publique, visé [<sup>2</sup> aux articles 634 à 637 du Code pénal]<sup>2</sup> et la corruption, visée [<sup>2</sup> aux articles 638 et 639 du Code pénal]<sup>2</sup>;
+
+15° la criminalité environnementale, à savoir les violations intentionnelles de la réglementation, entraînant des dommages importants et graves au biotope et/ou à la faune et/ou à la flore et/ou à une ou plusieurs personnes ou lorsque cette conséquence risque de se manifester;
+
+16° la contrefaçon de monnaie ou de billets de banque, contrefaçon ou la falsification des timbres, sceaux et marques et faux commis en écritures, en informatique et dans les dépêches télégraphiques, visés [<sup>2</sup> au livre II, titre 5, chapitres 1er et 2, à l'exception du chapitre 1er, section 4, du Code pénal]<sup>2</sup>;
+
+17° la contrefaçon de biens, visée aux articles XI.60, XI.155, XV.100 et XV.103 du Code de droit économique;
+
+18° le vol, visé [<sup>2</sup> au livre II, titre 4, chapitre 5, et titre 6, chapitre 1er, section 1re, du Code pénal]<sup>2</sup>;
+
+19° l'extorsion, visée [<sup>2</sup> aux articles 464 et 468 du Code pénal]<sup>2</sup>;
+
+20° la fraude informatique, visée [<sup>2</sup> à l'article 488 du Code pénal]<sup>2</sup>;
+
+21° la criminalité alimentaire et dans le secteur des médicaments, à savoir les violations intentionnelles de la réglementation, ayant pour résultat que la santé des personnes et/ou des animaux est gravement menacée ou affectée;
+
+22° le mélange des denrées alimentaires, visé [<sup>2</sup> aux articles 322 à 325 du Code pénal]<sup>2</sup>;
+
+23° les infractions liées à l'insolvabilité, visées [<sup>2</sup> aux articles 489 à 497 du Code pénal]<sup>2</sup>;
+
+24° l'abus de confiance, l'escroquerie et la tromperie, visés [<sup>2</sup> aux articles 475 à 485 et 664 du Code pénal]<sup>2</sup>;
+
+25° les infractions à l'interdiction professionnelle des faillis, visées à l'arrêté royal n° 22 du 24 octobre 1934 relatif à l'interdiction judiciaire faite à certains condamnés et aux faillis d'exercer certaines fonctions, professions ou activités et à l'article XX.234 du Code de droit économique;
+
+26° l'abus de la vulnérabilité d'autrui en vendant, louant ou mettant à disposition des biens en vue de réaliser un profit anormal, visé [<sup>2</sup> à l'article 290 du Code pénal]<sup>2</sup>;
+
+27° l'[<sup>2</sup> atteinte]<sup>2</sup> à l'intégrité sexuelle, visé [<sup>2</sup> à l'article 134 du Code pénal]<sup>2</sup>;
+
+28° le viol, visé [<sup>2</sup> aux articles 138 à 149 du Code pénal]<sup>2</sup>;
+
+29° l'approche de mineurs à des fins sexuelles, visée [<sup>2</sup> à l'article 151 du Code pénal]<sup>2</sup>;
+
+30° l'exploitation sexuelle de mineurs à des fins de prostitution, production ou diffusion d'images d'abus sexuels de mineurs, proxénétisme et abus aggravé de la prostitution, visés [<sup>2</sup> aux articles 152 à 165, 171 et 172, 265 et 268 du Code pénal]<sup>2</sup>;
+
+31° [<sup>2</sup> la prise d'otages]<sup>2</sup>, visés [<sup>2</sup> aux articles 226 à 229 du Code pénal]<sup>2</sup>;
+
+32° les menaces d'attentat contre les personnes ou contre les propriétés et fausses informations relatives à des attentats graves, visées [<sup>2</sup> aux articles 231 et 232, 234 et 235 du Code pénal]<sup>2</sup>;
+
+33° les menaces au moyen de matières nucléaires, d'armes biologiques ou chimiques, visées [<sup>2</sup> à l'article 233 du Code pénal]<sup>2</sup>.
+
+Pour l'application du présent titre, l'on entend par "participation": la participation [<sup>2</sup> telle que visée à l'article 19 du Code pénal]<sup>2</sup>.
+
+§ 11. La décision du collège des bourgmestre et échevins ou du collège communal visée aux paragraphes 8 et 9 n'est mise en oeuvre qu'après l'expiration d'un délai de 15 jours calendrier à compter du lendemain de la date de notification à la personne concernée conformément au § 8, alinéa 3, et § 9, alinéa 2.
+
+Lorsqu'une demande de suspension selon la procédure d'extrême urgence est introduite dans le délai visé à l'alinéa 1er, la décision du collège des bourgmestre et échevins ou du collège communal n'est pas mise en oeuvre avant que l'instance de recours n'ait statué sur la demande de suspension.
+
+L'auteur de la demande avertit le collège des bourgmestre et échevins ou le collège communal de la demande dans le délai visé à l'alinéa 1er.
+
+La décision peut être mise en oeuvre, soit au terme du délai visé à l'alinéa 1er, lorsqu'aucune demande de suspension selon la procédure d'extrême urgence n'a été introduite dans le délai précité, soit lorsque l'instance de recours a statué sur la demande de suspension.
+
+L'interdiction de mettre en oeuvre la décision bénéficie au seul auteur d'une demande de suspension introduite dans le délai visé à l'alinéa 1er.
+
+§ 12. Sans préjudice des possibilités de recours dont dispose l'exploitant, le collège des bourgmestre et échevins ou le collège communal retire sa décision de refus, suspension ou abrogation du permis d'implantation ou d'exploitation ou de fermeture de l'établissement sur la base de l'enquête d'intégrité lorsque sont apportés de nouveaux éléments desquels il ressort que les faits sur lesquels la décision est basée, ne sont pas établis ou ne sont plus valables ou pertinents.
+
+§ 13. Le refus, la suspension ou l'abrogation d'un permis d'implantation ou d'exploitation ou la fermeture d'un établissement à la suite de l'enquête d'intégrité, peut seulement s'effectuer après avoir entendu la personne concernée ou son conseil, et qui, à cette occasion, a pu faire valoir par écrit ou oralement ses moyens de défense. Cela ne s'applique pas lorsque la personne concernée ne s'est pas présentée, après y avoir été invitée par envoi recommandé ou contre accusé de réception, et qu'elle n'a pas présenté de motifs valables pour son absence ou son empêchement.
+
+§ 14. La personne qui souhaite lancer une nouvelle exploitation dans un secteur ou une activité économique déterminé par l'ordonnance de police communale peut demander de son plein gré une enquête d'intégrité.
+
+§ 15. Dans le cadre de l'exercice de leurs compétences visées par le présent article, deux communes ou plus peuvent conclure un accord de coopération. Les communes peuvent décider de la répartition mutuelle des différents coûts y afférents.
+
+§ 16. En ce qui concerne l'application du présent article, le collège des bourgmestre et échevins ou le collège communal conclut un protocole d'accord avec le procureur du Roi compétent. Le protocole d'accord, qui peut être identique pour plusieurs ou pour toutes les communes de l'arrondissement judiciaire concerné, est confirmé par le conseil communal et annexé à l'ordonnance de police visée au paragraphe 1er.
+
+En tout état de cause, l'application du mécanisme administratif, prévu par la loi du 15 janvier 2024 relative à l'approche administrative communale, à la mise en place d'une enquête d'intégrité communale et portant création d'une Direction chargée de l'Evaluation de l'Intégrité pour les Pouvoirs publics, ne peut pas porter atteinte aux poursuites pénales relatives aux faits punissables visés au paragraphe 10, alinéa 5, ainsi qu'aux principes et garanties qui y sont associés.
+
+§ 17. Le Roi peut déterminer dans un arrêté délibéré en Conseil des ministres les modalités minimales de l'analyse de risques et les modalités relatives à la procédure de l'enquête d'intégrité.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-01-15/07, art. 35, 030; En vigueur : 17-02-2024&gt;
+
+(2)&lt;L 2026-05-13/11, art. 2, 034; En vigueur : 01-09-2026&gt;
+
+###### Art. 119quater
+
+[<sup>1</sup> § 1er. Dans le cadre de l'enquête d'intégrité menée conformément à l'article 119ter, seules les données de personnes visées à l'article 119ter, § 5, peuvent être traitées par:
+
+1° une consultation du Registre Central des Enquêtes d'intégrité, conformément à l'article 11 de la loi du 15 janvier 2024 relative à l'approche administrative communale, à la mise en place d'une enquête d'intégrité communale et portant création d'une Direction chargée de l'Evaluation de l'Intégrité pour les Pouvoirs publics;
+
+2° un avis de la police locale;
+
+3° une consultation des propres bases de données communales et services, pour autant que la commune puisse traiter ces données;
+
+4° une consultation du casier judiciaire, conformément aux articles 595 et 596 du Code d'instruction criminelle;
+
+5° une consultation de toutes les bases de données accessibles au public, y compris les données rendues publiques sur les réseaux sociaux;
+
+6° une consultation du CIEAR;
+
+7° une consultation des autorités judiciaires;
+
+8° l'avis communiqué par la DEIPP à la commune conformément à l'article 119ter, § 7.
+
+La communication, l'utilisation et le traitement de ces données se font conformément à la législation qui s'applique au service concerné.
+
+Seules les données collectées au cours de la période de cinq ans précédant le début de l'enquête d'intégrité peuvent être traitées.
+
+§ 2. Le traitement de données à caractère personnel visées au paragraphe 1er est limité aux catégories suivantes:
+
+1° les données d'identification de la personne physique ou morale faisant l'objet de l'enquête d'intégrité: le nom, le prénom, la date de naissance, l'adresse et le numéro de Registre national ou le numéro bis ainsi que le numéro d'entreprise et le numéro d'établissement;
+
+2° les données d'identification de la personne physique ou morale qui représente la personne physique ou morale faisant l'objet de l'enquête d'intégrité: le nom, le prénom, la date de naissance, l'adresse et le numéro de Registre national ou le numéro bis ainsi que le numéro d'entreprise et le numéro d'établissement;
+
+3° le numéro d'un document d'identification, délivré par une autorité;
+
+4° les données financières, administratives et judiciaires, pour autant que celles-ci émanent des instances et des bases de données visées au paragraphe 1er, alinéa 1er, pour autant qu'elles soient nécessaires pour se faire une image de la personne concernée au regard de l'activité économique qu'elle veut implanter ou exploiter, et pour autant qu'elles portent sur les conditions visées à l'article 119ter, § 10.
+
+Les données à caractère personnel émanant des instances et des bases de données visées au paragraphe 1er, alinéa 1er, peuvent uniquement concerner les faits punissables visés à l'article 119ter, § 10, alinéa 5.
+
+Le Roi peut préciser davantage les catégories de données à caractère personnel qui sont traitées.
+
+§ 3. Chaque commune tient à jour la liste des personnes physiques ou morales dont les données ont été traitées dans le cadre de l'enquête d'intégrité, ainsi que des banques de données consultées. La commune tient cette liste à la disposition de l'Autorité de protection des données.
+
+§ 4. Les catégories de données à caractère personnel auxquelles la commune a accès en vertu des paragraphes 1er et 2 peuvent notamment concerner les données à caractère personnel auxquelles il est fait référence à l'article 10 du règlement (UE) 2016/679. Ces données peuvent uniquement être traitées lorsque le traitement est nécessaire à la bonne exécution des missions visées au paragraphe 1er.
+
+Lors du traitement de données à caractère personnel visées aux paragraphes 1er et 2, les mesures techniques et organisationnelles suivantes en matière de protection des données à caractère personnel s'appliquent pour s'assurer que l'accès aux données et les possibilités de traitement soient limitées à ce qui est nécessaire pour l'exécution de la loi du 15 janvier 2024 relative à l'approche administrative communale, à la mise en place d'une enquête d'intégrité communale et portant création d'une Direction chargée de l'Evaluation de l'Intégrité pour les Pouvoirs publics:
+
+1° les catégories de personnes ayant accès aux données à caractère personnel sont désignées par le responsable du traitement ou, le cas échéant, par le sous-traitant, avec une description de leur fonction par rapport au traitement des données à caractère personnel concernées;
+
+2° la liste des catégories de personnes désignées pour traiter les données à caractère personnel visées aux paragraphes 1er et 2, est tenue à la disposition de l'Autorité de protection des données par le responsable du traitement ou, le cas échéant, par le sous-traitant;
+
+3° les personnes désignées sont tenues, par une obligation légale ou réglementaire ou par une disposition contractuelle équivalente, au respect du caractère confidentiel des données à caractère personnel visées;
+
+4° dans la mesure du possible, une distinction claire est opérée entre les catégories de données à caractère personnel visées aux paragraphes 2 et 4, alinéa 1er;
+
+5° les mesures techniques ou organisationnelles appropriées sont prises pour protéger les données à caractère personnel contre la destruction accidentelle ou non autorisée, contre la perte accidentelle ainsi que contre la modification ou tout autre traitement non autorisé de ces données à caractère personnel;
+
+6° la commune indique dans des directives spécifiques concernant la protection des données à caractère personnel, les actions à entreprendre pour protéger, actualiser et supprimer le traitement de ces catégories de données à caractère personnel;
+
+7° un fichier de journalisation est établi par la commune au moins pour les traitements suivants: la collecte, la modification, la consultation, la communication, y compris les transferts, la connexion et l'effacement.
+
+Dans le cadre d'une demande de communication de données à caractère personnel, la commune peut transmettre aux services et autorités visés au paragraphe 1er un minimum de données d'identification, pour permettre la réception des données demandées. Ces données d'identification se limitent en tout état de cause au nom, au prénom, à la date de naissance, à l'adresse, au numéro de Registre national ou au numéro bis, ainsi qu'au numéro d'entreprise et au numéro d'établissement de la personne physique et/ou morale de la personne concernée.
+
+Les fichiers de journalisation visés à l'alinéa 2, 7°, permettent d'établir les aspects suivants:
+
+1° le motif, la date et l'heure de ces traitements;
+
+2° les catégories de personnes qui ont consulté les données à caractère personnel et le numéro de Registre national ou le numéro bis de la personne qui a consulté ces données;
+
+3° les systèmes qui ont communiqué ces données à caractère personnel;
+
+4° les catégories de destinataires des données à caractère personnel et si, possible, l'identité des destinataires de ces données.
+
+Le délai de conservation de ces fichiers de journalisation visés à l'alinéa 2, 7°, est de dix ans.
+
+Le Roi peut prévoir les mesures techniques et organisationnelles complémentaires appropriées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-01-15/07, art. 36, 030; En vigueur : 17-02-2024&gt;
+
+###### Art. 119quinquies
+
+[<sup>1</sup> § 1er. Chaque commune tient un fichier des personnes physiques ou morales qui font l'objet ou ont fait l'objet d'une enquête d'intégrité menée sur la base de l'ordonnance de police communale visée à l'article 119ter.
+
+La commune est responsable du traitement de données à caractère personnel relatives à ce fichier.
+
+Ce fichier vise à assurer la gestion des enquêtes d'intégrité.
+
+§ 2. Ce fichier contient les données à caractère personnel et les informations suivantes:
+
+1° le nom, le prénom, la date de naissance, l'adresse et le numéro de Registre national ou le numéro bis des personnes physiques qui font ou ont fait l'objet d'une enquête d'intégrité;
+
+2° la dénomination, le siège et le numéro d'entreprise ainsi que le numéro d'établissement des personnes morales qui font ou ont fait l'objet d'une enquête d'intégrité;
+
+3° les données sur lesquelles se fonde la décision visée à l'article 119ter, §§ 8 et 9;
+
+4° la décision motivée visée à l'article 119ter, §§ 8 et 9;
+
+5° la proposition du bourgmestre visée à l'article 119ter, §§ 8 et 9.
+
+Les mesures techniques et organisationnelles visées à l'article 119quater, § 4, alinéa 2, s'appliquent à l'ensemble des données à caractère personnel traitées dans le fichier visé au paragraphe 1er.
+
+Le délai de conservation des données des fichiers communaux d'enquêtes d'intégrité est de cinq ans, à compter de la date à laquelle l'enquête d'intégrité a été clôturée. Passé ce délai, elles sont détruites.
+
+Par dérogation à l'alinéa 3, les données visées à l'alinéa 1er, 3°, sont détruites immédiatement après que toutes les voies de recours ont été épuisées ou que la décision judiciaire a force de chose jugée.
+
+Par dérogation à l'alinéa 3, les données visées à l'alinéa 1er, 3°, sont détruites immédiatement si l'enquête d'intégrité n'a pas abouti à un refus, une abrogation ou une suspension du permis d'implantation ou d'exploitation ou à une fermeture de l'établissement.
+
+§ 3. Le traitement de données judiciaires dans l'enquête d'intégrité ou dans le fichier visé au paragraphe 1er, ne peut pas porter atteinte à une information ou à une instruction judiciaire en cours.
+
+§ 4. Le bourgmestre et les membres du personnel chargés du traitement de données dans le cadre de l'enquête d'intégrité sont les seuls à avoir accès aux informations et aux données à caractère personnel visées au paragraphe 2, traitées par leur propre commune, dans le seul but de mettre en oeuvre les dispositions de l'article 119ter, sans préjudice des droits accordés par le chapitre 3 du règlement (UE) 2016/679 et le titre II, chapitre 3, de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, et en tenant compte des limitations visées à l'article 119sexies.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-01-15/07, art. 37, 030; En vigueur : 17-02-2024&gt;
+
+###### Art. 119sexies
+
+[<sup>1</sup> § 1er. Lorsque la commune traite des données de personnes qui font l'objet d'une enquête d'intégrité, les droits de ces personnes peuvent être soumis à des limitations, dans la mesure et aussi longtemps qu'il serait porté atteinte au bon déroulement de l'enquête d'intégrité, de l'information ou de l'instruction judiciaire, si ces droits étaient exercés. Les limitations s'appliquent uniquement pendant la période où la personne fait l'objet d'une enquête d'intégrité réalisée par la commune en application de l'article 119ter et pendant la période où les données sont traitées afin de pouvoir prendre une décision visée à l'article 119ter, §§ 8 et 9, et, au plus tard, jusqu'au moment d'une décision finale de la commune.
+
+§ 2. Sauf dispositions contraires dans des lois spécifiques, le droit d'accès et le droit à l'effacement des données à caractère personnel peuvent être limités par la commune si cela est nécessaire pour respecter la protection telle que prévue au paragraphe 1er, sans que cela puisse toutefois limiter de manière disproportionnée les droits de la personne concernée.
+
+La limitation n'a toutefois pas pour effet que les services qui disposent déjà de ces données doivent également limiter l'accès à ces données. La commune peut toutefois, si elle le juge nécessaire, imposer des limitations à l'accès aux documents originaux pendant la durée des enquêtes visées au paragraphe 1er, sans que cela puisse toutefois limiter de manière disproportionnée les droits de la personne concernée.
+
+§ 3. Toutes les catégories de données à caractère personnel visées à l'article 119quater peuvent être soumises aux limitations prévues par le présent article.
+
+§ 4. Le délégué à la protection des données informe la personne concernée par écrit, sans délai et, en tout état de cause, dans un délai d'un mois à compter de la réception de la demande, de tout refus ou de toute limitation prévus par le présent article, ainsi que des motifs de ce refus ou de cette limitation, sauf dans les cas où une législation spéciale ne permet pas d'informer la personne concernée.
+
+En fonction de la complexité et du nombre des demandes, ce délai peut être prolongé, si nécessaire, d'un mois. Dans un délai d'un mois à compter de la réception de la demande, le délégué à la protection des données informe la personne de cette prolongation et de la raison de celle-ci.
+
+Le délégué à la protection des données informe la personne concernée de la possibilité d'introduire une plainte auprès de l'autorité de contrôle compétente et de former un recours juridictionnel, sauf dans les cas où une législation spéciale ne permet pas d'informer la personne concernée. Le délégué à la protection des données consigne les motifs de fait ou de droit sur lesquels se fonde sa décision. Ces informations sont mises à la disposition de l'autorité de contrôle compétente.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-01-15/07, art. 38, 030; En vigueur : 17-02-2024&gt;
+
+###### Art. 120
+
+&lt;L 1994-07-11/50, art. 19, En vigueur : 30-12-1994&gt; § 1er. Le conseil communal peut créer, en son sein, des commissions qui ont pour mission de préparer les discussions lors des séances du conseil communal. [<sup>1</sup> Les commissions peuvent, en ce compris de leur propre initiative, rendre des avis et formuler des recommandations à l'attention du conseil communal dans les matières dont elles s'occupent.]<sup>1</sup>
+
+Les mandats de membre de chaque commission sont répartis proportionnellement entre les groupes qui composent le conseil communal; sont considérés comme formant un groupe, les membres du conseil qui sont élus sur une même liste ou qui sont élus sur des listes affiliées en vue de former un groupe; le règlement d'ordre intérieur visé à l'article 91 détermine les modalités de composition [<sup>1</sup> ...]<sup>1</sup> des commissions.
+
+Les commissions peuvent toujours entendre des experts et des personnes intéressées.
+
+[<sup>1</sup> Chaque commission adopte son règlement d'ordre intérieur. Le règlement d'ordre intérieur détermine notamment le mode de convocation et d'attribution de la présidence de la commission.]<sup>1</sup>
+
+[<sup>2</sup> En cas de force majeure rendant impossible ou dangereuse la tenue en présentiel des séances des commissions, le bourgmestre peut autoriser l'organisation de ces séances selon les modalités visées à l'article 85, paragraphes 2 à 5.]<sup>2</sup>
+
+§ 2. Le conseil communal nomme les membres de toutes les commissions qui concernent l'administration de la commune ainsi que les représentants du conseil communal dans les intercommunales et dans les autres personnes morales dont la commune est membre. Il peut retirer ces mandats.
+
+----------
+
+(1)&lt;ORD 2009-03-05/34, art. 27; En vigueur : 23-03-2009&gt;
+
+(2)&lt;ORD 2020-10-29/09, art. 5, 019; En vigueur : 05-11-2020&gt;
+
+###### Art. 120bis
+
+&lt;Inséré par L 1994-07-11/50, art. 20, EB : 30-12-1994&gt; [Le conseil communal peut instituer des conseils consultatifs. Par «conseils consultatifs», il convient d'entendre «toute assemblée de personnes, quel que soit leur âge, chargée par le conseil communal de rendre un avis sur une ou plusieurs questions déterminées».] &lt;L 2000-02-10/47, art. 2, En vigueur : 08-04-2000&gt;
+
+Lorsque le conseil communal institue des conseils consultatifs, il en fixe la composition en fonction de leurs missions et détermine les cas dans lesquels la consultation de ces conseils consultatifs est obligatoire.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Il met à leur disposition les moyens nécessaires à l'accomplissement de leur mission.
+
+[<sup>1</sup> En cas de force majeure rendant impossible ou dangereuse la tenue en présentiel des séances des conseils consultatifs créés en application de l'article 120bis, le bourgmestre peut autoriser l'organisation de ces séances selon les modalités visées à l'article 85, paragraphes 2 à 5.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-10-29/09, art. 6, 019; En vigueur : 05-11-2020&gt;
+
+(2)&lt;DEC 2024-05-23/18, art. 204, 029; En vigueur : 24-01-2025&gt;
+
+###### Art. 121
+
+Des règlements complémentaires de la loi du 21 août 1948 supprimant la réglementation officielle de la prostitution peuvent être arrêtés par les conseils communaux, s'ils ont pour objet d'assurer la moralité ou la tranquillité publique.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-11/14, art. 25, 032; En vigueur : 08-01-2024&gt;
+
+###### Art. 122
+
+Le conseil communal a l'administration des bois et forêts de la commune, sous la surveillance de l'autorité supérieure, de la manière qui est réglée par l'autorité compétente pour établir le Code forestier. &lt;L 27-05-1989, art. 2, § 3, MB 30-05-1989&gt;
+
+### CHAPITRE II. - Des attributions du collège des bourgmestre et échevins.
+
+###### Art. 123
+
+&lt;renuméroté par L 1999-05-13/32, art. 4, En vigueur : 20-06-1999&gt;
+
+Le collège des bourgmestre et échevins est chargé: &lt;L 27-05-1989, art. 2, § 3, MB 30-05-1989&gt;
+
+1° [de l'exécution des lois, des décrets, des ordonnances, des règlements et arrêtés de l'État, des Régions, des Communautés, des Commissions communautaires, du conseil provincial et de la députation permanente du conseil provincial, lorsqu' elle lui est spécialement confiée;] &lt;AR 30-05-1989, art. 24, MB 31-05-1989&gt;
+
+2° de la publication et de l'exécution des résolutions du conseil communal;
+
+3° de l'administration des établissements communaux;
+
+4° de la gestion des revenus, de l'ordonnancement des dépenses de la commune et de la surveillance de la comptabilité;
+
+5° de la direction des travaux communaux;
+
+6° des alignements de la voirie en se conformant, lorsqu'il en existe, aux plans généraux adoptés par l'autorité supérieure et sauf recours à cette autorité et aux tribunaux, s'il y a lieu, par les personnes qui se croiraient lésées par les décisions de l'autorité communale;
+
+7° [<sup>1</sup> de la délivrance des certificats d'urbanisme et des permis de bâtir et de lotir, conformément [<sup>3</sup> au Code bruxellois de l'aménagement du territoire]<sup>3</sup> et de la délivrance des permis d'environnement, conformément à l'ordonnance du 5 juin 1997 relative aux permis d'environnement;]<sup>1</sup>
+
+8° des actions judiciaires de la commune soit en demandant, soit en défendant;
+
+9° de l'administration des propriétés de la commune, ainsi que de la conservation de ses droits;
+
+10° [<sup>3</sup> du recrutement, du licenciement, de la sanction et de la mise en oeuvre des législations relatives à la protection du bien-être des agents sous contrat de travail;]<sup>3</sup>
+
+[<sup>3</sup> 10° /1 du recrutement, de la promotion et de la mise en oeuvre des législations relatives à la protection du bien-être des agents statutaires ;]<sup>3</sup>
+
+11° de faire entretenir les chemins vicinaux et les cours d'eau, conformément aux dispositions législatives et aux règlements de l'autorité provinciale;
+
+[12° l'imposition de la suspension, le retrait ou la fermeture visé à l'article 119bis, § 2.]
+
+[<sup>2</sup> 13° de la fixation de l'organigramme, accompagné d'une description des missions des services, en ce compris l'identification d'indicateurs de résultats et de réalisation de ces missions;]<sup>2</sup>
+
+[<sup>2</sup> 14° de la publication de l'organigramme sur le site internet de la commune;]<sup>2</sup>
+
+[<sup>2</sup> 15° de la fixation des définitions de fonctions-types du personnel, en indiquant la mission ainsi que les principales activités et compétences par fonction-type;]<sup>2</sup>
+
+[<sup>2</sup> 16° de la désignation des membres des commissions d'examen et de sélection.]<sup>2</sup>
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 25; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2014-02-27/27, art. 20; En vigueur : 12-04-2014&gt;
+
+(3)&lt;ORD 2020-07-17/22, art. 48, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 124
+
+[<sup>1</sup> § 1er. Le conseil communal peut déléguer au collège des bourgmestre et échevins la compétence d'octroyer les subventions :
+
+1° motivées par l'urgence ou en raison de circonstances impérieuses et imprévues ;
+
+2° jusqu'à 2.500 lorsque leurs bénéficiaires ne sont pas identifiés nominativement au budget.
+
+La décision du collège des bourgmestre et échevins adoptée sur la base de l'alinéa 1er, 1°, est motivée et est portée à la connaissance du conseil communal, lors de sa prochaine séance, pour prise d'acte.
+
+§ 2. Chaque année, le collège des bourgmestre et échevins fait rapport au conseil communal sur les subventions qu'il a octroyées au cours de l'exercice.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 49, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 125
+
+&lt;Abrogé par L 2018-06-18/03, art. 117,10°, 020; En vigueur : 31-03-2019&gt;
+
+###### Art. 126
+
+Le bourgmestre et l'officier de l'état civil peuvent, chacun en ce qui le concerne, déléguer à des agents de l'administration communale:&lt;L 27-05-1989, art. 2, § 3, MB 30-05-1989&gt;
+
+1° la délivrance d'extraits ou copies d'actes autres que des actes de l'état civil;
+
+2° la délivrance d'extraits des registres de population et de certificats établis en tout ou en partie d'après ces registres;
+
+3° la légalisation de signatures;
+
+4° la certification conforme de copies de documents.
+
+Cette faculté vaut pour les documents destinés à servir en Belgique ou à l'étranger, à l'exception de ceux qui doivent être légalisés par le Ministre des Relations extérieures ou par le fonctionnaire qu'il délègue à cette fin.
+
+La signature des agents de l'administration communale délégués tant en vertu du présent article que de l'article 45 du Code civil devra être précédée de la mention de la délégation qu'ils auront reçue.
+
+L'officier de l'état civil peut également déléguer à des agents de l'administration communale la réception des significations, des notifications et des remises des décisions en matière d'état des personnes.
+
+###### Art. 127
+
+&lt;Abrogé par L 2018-06-18/03, art. 117,10°, 020; En vigueur : 31-03-2019&gt;
+
+###### Art. 128
+
+Le collège des bourgmestre et échevins a la surveillance des monts-de-piété. &lt;L 27-05-1989, art. 2, § 3, MB 30-05-1989&gt;
+
+À cet effet, il visite lesdits établissements chaque fois qu'il le juge convenable, veille à ce qu'ils ne s'écartent pas de la volonté des donateurs et testateurs et fait rapport au conseil des améliorations à y introduire et des abus qu'il y a découverts.
+
+###### Art. 129
+
+Le collège des bourgmestre et échevins est chargé du soin d'obvier et de remédier aux événements fâcheux qui pourraient être occasionnés par les insensés et les furieux laissés en liberté. &lt;L 27-05-1989, art. 2, § 3, MB 30-05-1989&gt;
+
+[...] &lt;AR 25-01-1991, art. 1, MB 05-03-1991&gt;
+
+###### Art. 130
+
+La police des spectacles appartient au collège des bourgmestre et échevins; il peut, dans ces circonstances extraordinaires, interdire toute représentation pour assurer le maintien de la tranquillité publique. &lt;L 27-05-1989, art. 2, § 3, MB 30-05-1989&gt;
+
+Ce collège exécute les règlements faits par le conseil communal pour tout ce qui concerne les spectacles. Le conseil veille à ce qu'il ne soit donné aucune représentation contraire à l'ordre public.
+
+###### Art. 130bis
+
+[<sup>1</sup> Le collège des bourgmestre et échevins est compétent pour les ordonnances de police temporaires relatives à la circulation routière.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2006-01-12/51, art. 3; En vigueur : 10-02-2007&gt;
+
+###### Art. 131
+
+&lt;L 17-10-1990, art. 22, MB 14-12-1990&gt; § 1er. Le collège des bourgmestre et échevins, ou celui de ses membres qu'il désigne à cette fin, vérifie l'encaisse du [<sup>3</sup> receveur communal]<sup>3</sup> au moins une fois dans le courant de chacun des quatre trimestres de l'année civile, et établit un procès-verbal de la vérification, qui mentionne ses observations et celles formulées par le receveur; il est signé par le receveur et les membres du collège qui y ont procédé.
+
+Le collège des bourgmestre et échevins communique le procès-verbal au conseil communal.
+
+Lorsque le [<sup>3</sup> receveur communal]<sup>3</sup> a la charge de plusieurs encaisses publiques, celles-ci sont vérifiées simultanément [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 2. Le [<sup>3</sup> receveur communal]<sup>3</sup> signale immédiatement au collège des bourgmestre et échevins tout déficit résultant d'un vol ou d'une perte.
+
+Il est aussitôt procédé à la vérification de l'encaisse, conformément au § 1er, en vue de déterminer le montant du déficit.
+
+Le procès-verbal de la vérification est complété par l'exposé des circonstances et des mesures de conservation prises par le receveur.
+
+§ 3. Lorsque la vérification de l'encaisse fait apparaître un déficit notamment à la suite du rejet de certaines dépenses de comptes définitivement arrêtés, le collège des bourgmestre et échevins invite le receveur, par une lettre recommandée à la poste, à verser une somme équivalente dans la caisse communale.
+
+Dans le cas visé au § 2, l'invitation doit être précédée par une décision du conseil communal établissant si et dans quelle mesure le receveur doit être tenu pour responsable du vol ou de la perte et fixant le montant du déficit en résultant qu'il lui appartient de solder; une expédition de cette décision est annexée à l'invitation qu'il lui est faite de payer.
+
+§ 4. Dans les soixante jours à dater de cette notification, le receveur peut saisir [<sup>1</sup> le collège juridictionnel]<sup>1</sup> d'un recours; ce recours est suspensif de l'exécution.
+
+[<sup>1</sup> Le collège juridictionnel statue]<sup>1</sup> sur la responsabilité incombant au receveur et fixe le montant du déficit qui doit en conséquence être mis à sa charge; le [<sup>3</sup> Gouvernement]<sup>3</sup> règle la procédure conformément aux principes énoncés à l'article 104bis de la loi provinciale.
+
+Le receveur est exonéré de toute responsabilité lorsque le déficit résulte du rejet de dépenses de comptes définitivement arrêtés, dès lors qu'il les a acquittées conformément à l'article 136, alinéa 1er.
+
+Dans la mesure où le déficit doit être attribué au rejet définitif de certaines dépenses, le receveur peut appeler en intervention les membres du collège des bourgmestre et échevins qui auraient irrégulièrement engagé ou mandaté ces dépenses, afin que la décision leur soit déclarée commune et opposable; dans ce cas, [<sup>1</sup> le collège juridictionnel]<sup>1</sup> se prononce également sur la responsabilité des intervenants.
+
+La décision [<sup>1</sup> du collège juridictionnel]<sup>1</sup> n'est, dans tous les cas, exécutée qu'après l'expiration du délai visé à l'article 4, alinéa 3, de l'arrêté du Régent du 23 août 1948 déterminant la procédure devant la section [<sup>3</sup> du contentieux administratif]<sup>3</sup> du Conseil d'État; si à ce moment le receveur ne s'est pas exécuté volontairement, la décision est exécutée sur le cautionnement, et pour le surplus éventuel, sur les biens personnels du receveur, pourvu toutefois qu'elle n'ait pas fait l'objet du recours visé à l'article 14 des lois coordonnées sur le Conseil d'État.
+
+Lorsque le receveur n'introduit pas de recours auprès [<sup>1</sup> du collège juridictionnel]<sup>1</sup> et s'abstient, à l'expiration du délai imparti pour ce faire, de satisfaire à l'invitation de payer qui lui est adressée, il est procédé de la même manière à l'exécution par voie de contrainte.
+
+[<sup>2</sup> § 5. Dans le mois qui suit la fin de chaque trimestre de l'année civile, le collège des bourgmestre et échevins établit un rapport reprenant les données budgétaires et comptables. Le contenu et les modalités de transmission de ces rapports sont fixés par le Gouvernement.]<sup>2</sup>
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 26; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2014-02-27/27, art. 21; En vigueur : 12-04-2014&gt;
+
+(3)&lt;ORD 2020-07-17/22, art. 50, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 132
+
+&lt;Abrogé par L 2018-06-18/03, art. 117,10°, 020; En vigueur : 31-03-2019&gt;
+
+### CHAPITRE III. - Des attributions du bourgmestre.
+
+###### Art. 133
+
+[Le bourgmestre est chargé de l'exécution des lois, des décrets, des ordonnances, des règlements et arrêtés de l'État, des Régions, des Communautés, des Commissions communautaires, du conseil provincial et de la députation permanente du conseil provincial, à moins qu'elle ne soit formellement attribuée au collège des bourgmestre et échevins ou au conseil communal. &lt;L 27-05-1989, art. 2, § 3, MB 30-05-1989&gt;
+
+Il est spécialement chargé de l'exécution des lois, décrets, ordonnances, règlements et arrêtés de police. Néanmoins, il peut, sous sa responsabilité, déléguer ses attributions, en tout ou en partie, à l'un des échevins.] &lt;L 15-07-1992, art. 12, MB 22-12-1992&gt;
+
+[...] &lt;AR 30-05-1989, art. 26, MB 31-05-1989&gt;
+
+[Sans préjudice des compétences du Ministre de l'Intérieur, du [<sup>1</sup> président du Gouvernement]<sup>1</sup> et des institutions communales compétentes, le bourgmestre est l'autorité responsable en matière de police administrative sur le territoire de la commune.] &lt;L 1997-04-03/47, art. 2, En vigueur : 16-06-1997&gt;
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 51, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 133bis
+
+&lt;Inséré par L 15-07-1992, art. 1, MB 22-12-1992&gt; Sans pouvoir, d'une façon quelconque, porter atteinte aux attributions du bourgmestre, le conseil communal a le droit d'être informé par le bourgmestre de la manière dont celui-ci exerce les pouvoirs que lui confèrent [l'article 133, alinéas 2 et 3, et les articles 42, 43 et 45 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux.][Dans les zones unicommunales, ce droit est étendu aux pouvoirs conférés au bourgmestre par l'article 45 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux.]L 1998-12-07/31, art 202, 1° et 2°, En vigueur : 01-01-2001&gt;
+
+[<sup>1</sup> Sans pouvoir, d'une façon quelconque, porter atteinte aux attributions du bourgmestre, le conseil communal a le droit d'être informé par le bourgmestre au sujet de la manière dont celui-ci exerce les compétences qui lui ont été conférées conformément aux articles 107, 153 et 181 de la loi du 15 mai 2007 relative à la sécurité civile.]<sup>1</sup>
+
+[...]L 1998-12-07/31, art 202, 3°, En vigueur : 01-01-2001&gt;
+
+----------
+
+(1)&lt;L 2007-05-15/61, art. 193; En vigueur : 01-01-2015&gt;
+
+###### Art. 133ter
+
+[<sup>1</sup> § 1er. Le bourgmestre peut placer un établissement sous scellés administratifs, lorsque le bourgmestre lui-même, le collège des bourgmestre et échevins ou le collège communal ferme ou a fermé l'établissement.
+
+§ 2. Le bourgmestre peut imposer une astreinte administrative, lorsque le bourgmestre lui-même, le collège des bourgmestre et échevins ou le collège communal impose ou a imposé une mesure de police administrative.
+
+Le bourgmestre peut fixer l'astreinte soit à une somme unique, soit à une somme déterminée par unité de temps ou par infraction. Dans les deux derniers cas, le bourgmestre peut également fixer un montant au-delà duquel aucune astreinte n'est encourue.
+
+Le bourgmestre peut fixer un délai dans lequel aucune astreinte n'est encourue.
+
+Cette astreinte est due à la commune.
+
+L'astreinte ne peut pas être recouvrée si la personne concernée ne peut pas exécuter la mesure de police administrative pour cause de force majeure. La personne concernée ou son conseil peut motiver ces circonstances par écrit ou oralement.
+
+L'astreinte se prescrit par l'expiration d'un délai d'un an à compter du jour où elle est encourue.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-01-15/07, art. 39, 030; En vigueur : 17-02-2024&gt;
+
+###### Art. 134
+
+§ 1er. En cas d'émeutes, d'attroupements hostiles, d'atteintes graves portées à la paix publique ou d'autres événements imprévus, lorsque le moindre retard pourrait occasionner des dangers ou des dommages pour les habitants, le bourgmestre peut faire des ordonnances de police, à charge d'en donner sur le champ communication au conseil [...], en y joignant les motifs pour lesquels il a cru devoir se dispenser de recourir au conseil. [...]. Ces ordonnances cesseront immédiatemnt d'avoir effet si elles ne sont confirmées par le conseil à sa plus prochaine réunion. &lt;L 27-05-1989, art. 2, § 3, MB 30-05-1989 et AR 30-05-1989, art. 27, § 1, MB 31-05-1989&gt;
+
+§ 2. [Pour les communes de la région de langue allemande, les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administratives, coordonnées le 18 juillet 1966, ainsi que les communes de Comines-Warneton et de Fourons, le bourgmestre communique immédiatement les ordonnances visées au § 1er au gouverneur de province, en y joignant les motifs pour lesquels il a cru devoir se dispenser de recourir au conseil.
+
+Le gouverneur peut en suspendre l'exécution.] &lt;AR 30-05-1989, art. 27, § 2, MB 31-05-1989&gt;
+
+###### Art. 134bis
+
+&lt;Inséré par L 1993-01-12/34, art. 27, En vigueur : 30-12-1993&gt; Sur requête motivée du président du conseil de l'[<sup>1</sup> action]<sup>1</sup> sociale, le bourgmestre dispose à partir de la mise en demeure du propriétaire d'un droit de réquisition de tout immeuble abandonné depuis plus de six mois, afin de le mettre à la disposition de personnes sans abri. Le droit de réquisition ne peut s'exercer que dans un délai de 6 mois prenant cours à dater de l'avertissement adressé par le bourgmestre au propriétaire et moyennant un juste dédommagement.
+
+Le Roi définit, par arrêté délibéré en Conseil des Ministres, les limites, les conditions et les modalités dans lesquelles le droit de réquisition peut être exercé. Cet arrêté fixe également la procédure, la durée d'occupation, les modalités d'avertissement du propriétaire et ses possibilités d'opposition à la réquisition ainsi que les modes de calcul du dédommagement.
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 52, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 134ter
+
+&lt;Inséré par L 1999-05-13/32, art. 5, En vigueur : 20-06-1999&gt; Le bourgmestre peut, dans le cas où tout retard causerait un dommage sérieux, prononcer une fermeture provisoire d'un établissement ou la suspension temporaire d'une autorisation lorsque les conditions d'exploitation de l'établissement ou de la permission ne sont pas respectées et après que le contrevenant ait fait valoir ses moyens de défense, sauf lorsque la compétence de prendre ces mesures [<sup>1</sup> ...]<sup>1</sup> a été confiée à une autre autorité par une réglementation particulière.
+
+[<sup>1</sup> Ces mesures cessent immédiatement d'avoir effet si elles ne sont pas confirmées par le collège des bourgmestre et échevins ou le collège communal à sa plus prochaine réunion.]<sup>1</sup>
+
+Aussi bien la fermeture que la suspension ne peuvent excéder un délai de trois mois. La décision du bourgmestre est levée de droit à l'échéance de ce délai.
+
+----------
+
+(1)&lt;L 2024-01-15/07, art. 40, 030; En vigueur : 17-02-2024&gt;
+
+###### Art. 134quater
+
+&lt;L 1999-05-13/32, art. 6, En vigueur : 20-06-1999&gt; Si l'ordre public autour d'un établissement accessible au public est troublé par des comportements survenant dans cet établissement, le bourgmestre peut décider de fermer cet établissement pour la durée qu'il détermine.
+
+Ces mesures cesseront immédiatement d'avoir effet si elles ne sont confirmées par le collège des bourgmestre et échevins à sa plus prochaine réunion.
+
+La fermeture ne peut excéder un délai de trois mois. La décision du bourgmestre est levée à l'échéance de ce délai.]
+
+###### Art. 134quinquies
+
+[<sup>1</sup> Lorsqu'il existe des indices sérieux selon lesquels se déroulent dans un établissement des faits de traite des êtres humains tels que visés à l'article 433quinquies du Code pénal ou des faits de trafic des êtres humains tels que visés à l'article 77bis de la loi du 15 décembre 1980 relative à l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, le bourgmestre peut, après concertation préalable avec les autorités judiciaires et après avoir entendu le responsable dans ses moyens de défense, décider de fermer cet établissement pour une durée qu'il détermine.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> La mesure cesse immédiatement d'avoir effet si elle n'est pas confirmée par le collège des bourgmestre et échevins ou le collège communal à sa plus prochaine réunion.]<sup>2</sup>
+
+[<sup>2</sup> La mesure de fermeture a une durée maximale de six mois, renouvelable deux fois. La décision de renouvellement cesse immédiatement d'avoir effet si elle n'est pas confirmée par le collège des bourgmestre et échevins ou par le collège communal à sa plus prochaine réunion.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-07-01/38, art. 2; En vigueur : 07-01-2013&gt;
+
+(2)&lt;L 2024-01-15/07, art. 41, 030; En vigueur : 17-02-2024&gt;
+
+###### Art. 134sexies
+
+[<sup>1</sup> § 1er. Le bourgmestre peut, en cas de trouble à l'ordre public causé par des comportements individuels ou collectifs, ou en cas d'infractions répétées aux règlements et ordonnances du conseil communal commises dans un même lieu ou à l'occasion d'évènements semblables, et impliquant un trouble de l'ordre public ou une incivilité, décider d'une interdiction temporaire de lieu d'un mois, renouvelable deux fois, à l'égard du ou des auteurs de ces comportements.
+
+§ 2. Par " interdiction temporaire de lieu ", on entend l'interdiction de pénétrer dans un ou plusieurs périmètres précis de lieux déterminés accessibles au public, situés au sein d'une commune, sans jamais pouvoir en couvrir l'ensemble du territoire. Est considéré comme lieu accessible au public tout lieu situé dans la commune qui n'est pas uniquement accessible au gestionnaire du lieu, à celui qui y travaille ou à ceux qui y sont invités à titre individuel, à l'exception du domicile, du lieu de travail ou de l'établissement scolaire ou de formation du contrevenant.
+
+§ 3. La décision visée au § 1er doit remplir les conditions suivantes :
+
+1° être motivée sur la base des nuisances liées à l'ordre public;
+
+2° [<sup>2</sup> confirmée par le collège des bourgmestre et échevins ou le collège communal, à sa plus prochaine réunion;]<sup>2</sup>
+
+[<sup>2</sup> 3° être prise après avoir entendu l'auteur ou les auteurs de ces comportements ou leur conseil et qui, à cette occasion, a ou ont pu faire valoir par écrit ou oralement leurs moyens de défense. Cela ne s'applique pas lorsque l'auteur ou le conseil ne s'est pas présenté, après y avoir été invité par envoi recommandé ou contre accusé de réception, et qu'il n'a pas présenté de motifs valables pour son absence ou son empêchement.]<sup>2</sup>
+
+§ 4. La décision peut être prise, soit après un avertissement écrit notifié par le bourgmestre informant l'auteur ou les auteurs de ces comportements du fait qu'une nouvelle infraction dans un lieu ou lors d'événements identiques pourra donner lieu à une interdiction de lieu, soit, à des fins de maintien de l'ordre, sans avertissement. [<sup>3</sup> Les communes transmettent aux services de police dans les plus bref délais les informations concernant une interdiction de lieu infligée.]<sup>3</sup>
+
+§ 5. En cas de non-respect de l'interdiction temporaire de lieu, l'auteur ou les auteurs de ces comportements sont passibles d'une amende administrative telle que prévue par la loi du 24 juin 2013 relative aux sanctions administratives communales.]<sup>1</sup> [<sup>3</sup> La violation d'une interdiction de lieu peut uniquement être constatée par un fonctionnaire de police ou un agent de police.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-06-24/04, art. 47; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2024-01-15/07, art. 42, 030; En vigueur : 17-02-2024&gt;
+
+(3)&lt;L 2023-12-11/14, art. 26, 032; En vigueur : 08-01-2024&gt;
+
+###### Art. 134septies
+
+[<sup>1</sup> Lorsqu'il existe des indices sérieux selon lesquels se déroulent dans un établissement des faits constitutifs d'une des infractions terroristes visées au livre II, titre Ierter, du Code pénal, le bourgmestre peut, après concertation préalable avec les autorités judiciaires et après avoir entendu le responsable dans ses moyens de défense, décider de fermer cet établissement pour une durée qu'il détermine.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> La mesure cesse immédiatement d'avoir effet si elle n'est pas confirmée par le collège des bourgmestre et échevins ou le collège communal à sa plus prochaine réunion.]<sup>2</sup>
+
+[<sup>2</sup> La mesure de fermeture a une durée maximale de six mois, renouvelable deux fois. La décision de renouvellement cesse immédiatement d'avoir effet si elle n'est pas confirmée par le collège des bourgmestre et échevins ou par le collège communal à sa plus prochaine réunion.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-05-13/08, art. 2, 008; En vigueur : 26-06-2017&gt;
+
+(2)&lt;L 2024-01-15/07, art. 43, 030; En vigueur : 17-02-2024&gt;
+
+### CHAPITRE IV. - Des attributions des communes en général. &lt;Inséré par L 27-05-1989, art. 2, § 4, MB 30-05-1989&gt;
+
+###### Art. 135
+
+&lt;Inséré par L 27-05-1989, art. 2, § 4, MB 30-05-1989&gt; § 1er. Les attributions des communes sont notamment: de régir les biens et revenus de la commune; de régler et d'acquitter celles des dépenses locales qui doivent être payées des deniers communs; de diriger et faire exécuter les travaux publics qui sont à charge de la commune; d'administrer les établissements qui appartiennent à la commune, qui sont entretenus de ses deniers, ou qui sont particulièrement destinés à l'usage de ses habitants.
+
+§ 2. De même, les communes ont pour mission de faire jouir les habitants des avantages d'une bonne police, notamment de la propreté, de la salubrité, de la sûreté et de la tranquillité dans les rues, lieux et édifices publics.
+
+Plus particulièrement, et dans la mesure où la matière n'est pas exclue de la compétence des communes, les objets de police confiés à la vigilance et à l'autorité des communes sont:
+
+1° tout ce qui intéresse la sûreté et la commodité du passage dans les rues, quais, places et voies publiques; ce qui comprend le nettoiement, l'illumination, l'enlèvement des encombrements, la démolition ou la réparation des bâtiments menaçant ruine, l'interdiction de rien exposer aux fenêtres ou autres parties des bâtiments qui puisse nuire par sa chute, et celle de rien jeter qui puisse blesser ou endommager les passants, ou causer des exhalaisons nuisibles; la police de la circulation routière, en tant qu'elle s'applique à des situations permanentes ou périodiques, ne tombe pas sous l'application du présent article;
+
+2° le soin de réprimer les atteintes à la tranquillité publique, telles que les rixes et disputes accompagnées d'ameutement dans les rues; le tumulte excité dans les lieux d'assemblée publique, les bruits et attroupements nocturnes qui troublent le repos des habitants;
+
+3° le maintien du bon ordre dans les endroits où il se fait de grands rassemblements d'hommes, tels que les foires, marchés, réjouissances et cérémonies publiques, spectacles, jeux, cafés, églises et autres lieux publics;
+
+4° l'inspection sur la fidélité du débit des denrées pour la vente desquelles il est fait usage d'unités ou d'instruments de mesure, et sur la salubrité des comestibles exposés en vente publique;
+
+5° le soin de prévenir, par les précautions convenables, et celui de faire cesser par la distribution des secours nécessaires, les accidents et fléaux calamiteux, tels que les incendies, les épidémies et les épizooties;
+
+6° le soin de remédier aux événements fâcheux qui pourraient être occasionnés par la divagation des animaux malfaisants ou féroces;]
+
+[7° la prise des mesures nécessaires, y compris les ordonnances de police, afin de combattre toute forme [<sup>2</sup> d'incivilités]<sup>2</sup>.] &lt;L 1999-05-13/32, art. 7, En vigueur : 20-06-1999&gt;
+
+[<sup>1</sup> § 3. Les communes sont chargées de faire bénéficier leurs habitants d'une administration dont les modes et périodes d'accès sont adaptés via des heures d'ouverture plus étendues au moins un jour par semaine, et via des services par internet.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2009-03-05/34, art. 28; En vigueur : 23-03-2009&gt;
+
+(2)&lt;L 2013-06-24/04, art. 48; En vigueur : 01-01-2014&gt;
+
+### CHAPITRE [V.]. - Du receveur. &lt;L 27-05-1989, art. 2, § 3, MB 30-05-1989&gt;
+
+#### Section 1.
+
+&lt;Abrogé par ORD 2020-07-17/22, art. 53, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 136
+
+[<sup>1</sup> Le receveur communal remplit la fonction de conseiller financier et budgétaire de la commune. Il est chargé seul et sous sa responsabilité :
+
+1° de la tenue de la comptabilité communale :
+
+a) de la centralisation des engagements ;
+
+b) de l'imputation des dépenses ;
+
+c) de l'établissement des comptes annuels ;
+
+2° de la perception des recettes et de la poursuite de l'encaissement des créances régulières.
+
+En vue du recouvrement des créances fiscales, le receveur procède par voie de recouvrement forcé en application de l'ordonnance du 3 avril 2014 relative à l'établissement, au recouvrement et au contentieux en matière de taxes communales ;
+
+3° de procéder au paiement des dépenses sur mandats réguliers ;
+
+4° de la gestion de la trésorerie communale :
+
+a) de la gestion des comptes ouverts au nom de la commune dont il est l'unique mandataire ;
+
+b) du placement des fonds de trésorerie à court terme ;
+
+c) de la demande des avances de trésorerie à court terme et de l'éventuelle conversion de celles-ci en crédit à terme fixe pour des durées n'excédant pas 1 an ;
+
+d) de la gestion active de la dette ;
+
+5° de fournir des avis en matière financière : le receveur remet un avis préalable sur tout projet ayant une incidence financière ;
+
+6° sans préjudice des compétences du secrétaire communal en ce qui concerne le système de contrôle interne, tel que visé au titre Vlbis, le collège peut confier au receveur communal toute autre mission en rapport avec ses compétences, notamment en matière de gestion financière. Dans le cadre de l'exercice de ses missions, le receveur est placé sous l'autorité du collège.
+
+Pour l'exercice de ses missions légales, le receveur doit avoir les moyens d'exercer ses fonctions.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 54, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 136bis
+
+&lt;Inséré par L 1993-12-15/47, art. 3, En vigueur : 01-04-1994&gt; Le receveur peut être entendu par le collège des bourgmestre et échevins sur toutes les questions qui ont une incidence financière ou budgétaire.]
+
+###### Art. 137
+
+&lt;L 17-10-1990, art. 24, MB 14-12-1990&gt; À la demande du receveur d'une commune, le recouvrement des impositions dues à cette dernière est poursuivi contre les contribuables domiciliés dans une autre commune par le receveur de celle-ci.
+
+Les frais exposés par la commune poursuivante et non recouvrés à charge du contribuable sont supportés par la commune demanderesse.
+
+###### Art. 137bis
+
+[<sup>1</sup> En vue du recouvrement des créances non fiscales incontestées et exigibles, le receveur peut établir une contrainte, visée et déclarée exécutoire par le collège des bourgmestre et échevins. Une telle contrainte est signifiée par exploit d'huissier de justice. Cet exploit interrompt la prescription. Une contrainte ne peut être visée et rendue exécutoire par le collège des bourgmestre et échevins [<sup>2</sup> que si la dette est liquide, certaine et exigible]<sup>2</sup>. Le débiteur doit en outre avoir été préalablement mis en demeure par lettre recommandée. La commune peut charger des frais administratifs pour cette lettre recommandée. Ces frais sont à charge du débiteur et peuvent également être recouvrés par l'exploit. Les dettes d'une personne morale de droit public ne peuvent jamais être récupérées par un exploit.
+
+Un recours contre l'exploit peut être introduit dans le mois de la signification par requête ou par citation.
+
+En ce qui concerne l'accomplissement des missions visées dans le présent article, le receveur fait rapport, sous sa responsabilité, au collège des bourgmestre et échevins et au conseil communal.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2014-02-27/27, art. 23; En vigueur : 12-04-2014&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 55, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 138
+
+&lt;L 17-10-1990, art. 2, MB 14-12-1990&gt; § 1er. La responsabilité du receveur ne s'étend pas aux recettes que le conseil communal juge nécessaire de faire effectuer par des agents spéciaux [<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>1</sup> ...]<sup>1</sup>.
+
+Les agents spéciaux sont soumis aux mêmes règles que les [<sup>2</sup> receveurs communaux]<sup>2</sup> pour ce qui concerne le serment, le remplacement, l'établissement du compte de fin de gestion et les recours ouverts auprès de la députation permanente du conseil provincial; les articles 53, §§ 2 et 4 et 138bis leur sont, mutatis mutandis, applicables.
+
+Ils ne peuvent effectuer aucune opération de dépense sur les comptes qu'ils gèrent.
+
+Les recettes réalisées sont versées périodiquement, et au moins tous les quinze jours, au receveur de la commune, le dernier versement de l'exercice étant effectué le dernier jour ouvrable du mois de décembre.
+
+Lors de chaque versement, l'agent spécial transmet au receveur communal la liste détaillée des imputations budgétaires, des montants versés et des redevables correspondants.
+
+Les comptes de l'agent spécial, accompagnés des pièces justificatives, sont soumis à la vérification et au visa du collège des bourgmestre et échevins.
+
+Ils sont ensuite transmis au receveur communal avec toutes les pièces justificatives pour être annexés au compte budgétaire.
+
+L'article 131, § 2, alinéa 1er, est, mutatis mutandis, applicable à l'agent spécial; lorsque le collège des bourgmestre et échevins constate un déficit, il est, mutatis mutandis, procédé conformément à l'article 131, § 3 et § 4, alinéas 1er, 2, 5 et 6.
+
+§ 2. Sous sa seule responsabilité, le collège des bourgmestre et échevins peut charger certains agents communaux, pour autant qu'elle soit accessoire à l'exercice de leurs fonctions, de la perception de recettes en espèces, au moment où le droit à la recette est établi.
+
+Ces agents ne sont pas astreints aux obligations imposées aux agents spéciaux visés au § 1er.
+
+Ils versent au receveur communal, journellement ou à de courts intervalles de temps, le montant intégral de leurs perceptions, selon les directives qu'il leur donne et en les justifiant par un état de recouvrement détaillé par article budgétaire.
+
+----------
+
+(1)&lt;ORD 2016-04-14/06, art. 3, 003; En vigueur : 25-04-2016&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 56, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 138bis
+
+&lt;Inséré par L 17-10-1990, art. 26, MB 14-12-1990&gt; § 1er. Un compte de fin de gestion est établi lorsque le receveur ou l'agent spécial visé à l'article 138, § 1er, cesse définitivement d'exercer ses fonctions, et dans les cas visés aux articles 53, § 4, alinéa 5, et 54bis, § 2, alinéa 2.
+
+§ 2. Le compte de fin de gestion du [<sup>3</sup> receveur communal]<sup>3</sup> ou de l'agent spécial, accompagné s'il y a lieu de ses observations, ou en cas de décès, de celles de ses ayants cause, est soumis par le collège des bourgmestre et échevins au conseil communal qui l'arrête et déclare le comptable quitte ou fixe un débet.
+
+La décision par laquelle le compte de fin de gestion est définitivement arrêté est notifiée sous pli recommandé à la poste au comptable, ou en cas de décès, à ses ayants cause, par les soins du collège des bourgmestre et échevins, accompagnée, s'il y a lieu, d'une invitation à solder le débet.
+
+§ 3. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 4. [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 5. L'article 131, § 4, est applicable lorsque le comptable est invité à solder un débet.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2016-04-14/06, art. 4, 003; En vigueur : 25-04-2016&gt;
+
+(3)&lt;ORD 2020-07-17/22, art. 57, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 139
+
+&lt;L 17-10-1990, art. 27, MB 14-12-1990&gt; Par dérogation aux dispositions de l'article 136, alinéa 1er, peuvent être versés directement [aux comptes ouverts au nom des communes bénéficiaires auprès d'institutions financières qui satisfont, selon le cas, au prescrit des articles 7, 65 et 66 de la loi du 22 mars 1993 relative au statut et au contrôle des établissements de crédit]: &lt;L 1999-05-04/53, art. 17, a) En vigueur : 22-06-1999&gt;
+
+1° le montant de leur quote-part dans les fonds institués par la loi, le décret ou l'ordonnance, au profit des communes, ainsi que dans le produit des impôts de l'État;
+
+2° le produit des impositions communales perçues par les services de l'État;
+
+3° les subventions, les interventions dans les dépenses communales et, en général, toutes les sommes attribuées à titre gratuit aux communes par l'État, les Communautés, les Régions et les Provinces.
+
+[Les institutions financières visées à l'alinéa 1er sont autorisées à prélever d'office, sur l'avoir du ou des comptes qu'elles ont ouverts au nom de la commune le montant des dettes exigibles que cette commune a contractées envers elles.] &lt;L 1999-05-04/53, art. 17, b) En vigueur : 22-06-1999&gt;
+
+#### Section 2.
+
+&lt;Abrogé par ORD 2020-07-17/22, art. 58, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 140
+
+&lt;Abrogé par ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2003&gt;
+
+###### Art. 141
+
+&lt;Abrogé par ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2003&gt;
+
+###### Art. 142
+
+&lt;Abrogé par ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2003&gt;
+
+## TITRE III. - Du personnel.
+
+### CHAPITRE I. - Dispositions générales.
+
+###### Art. 143
+
+[Les chapitres II à IV et le chapitre VI du présent titre sont applicables au personnel visé à [<sup>2</sup> l'article 24 de la Constitution coordonnée]<sup>2</sup>, pour autant que les lois, les décrets, les règlements et les arrêtés sur l'enseignement n'y dérogent pas.] &lt;L 21-03-1991, art. 1, MB 13-04-1991&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 59, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 144
+
+[<sup>1</sup> Les décisions à prendre par le Roi en vertu de l'article 29, sont fixées après consultation des représentants des organisations les plus représentatives du personnel communal.]<sup>1</sup>
+
+Les modalités de cette consultation sont réglées par le Roi.
+
+La consultation prévue aux alinéas 1er et 2 est remplacée par les formalités de négociation et de concertation prescrites par la loi du 19 décembre 1974 organisant les relations entre les autorités, publiques et les syndicats des agents relevant de ces autorités, pour les membres du personnel auxquels le régime de cette loi est rendu applicable.
+
+----------
+
+(1)&lt;L 2007-05-15/61, art. 195; En vigueur : 01-01-2015&gt;
+
+###### Art. 144bis
+
+[<sup>1</sup> Par dérogation à l'article 31 de la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs, les administrations communales peuvent pour la défense des intérêts communaux, mettre des travailleurs liés à elles par un contrat de travail à la disposition d'un CPAS, d'une société de logement social ou d'une association sans but lucratif.
+
+Pour bénéficier de la possibilité prévue à l'alinéa 1er, l'organe d'administration de la société de logement social ou de l'association sans but lucratif doit compter au moins un membre désigné par le conseil communal.
+
+La mise de travailleurs à la disposition d'un utilisateur autorisé par l'alinéa 1er est soumise aux conditions suivantes :
+
+1° la mise à la disposition doit avoir une durée limitée et porter sur une mission qui a un rapport direct avec l'intérêt communal;
+
+2° les conditions de travail ainsi que les rémunération, y compris les indemnités et les avantages, du travailleur mis à la disposition ne peuvent être inférieures à celles dont il aurait bénéficié s'il avait été occupé chez son employeur; l'utilisateur est responsable, pendant la période pendant laquelle le travailleur est mis à sa disposition, des dispositions de la législation en matière de réglementation et de protection du travail applicables au lieu de travail au sens de l'article 19 de la loi du 24 juillet 1987 précitée;
+
+3° les conditions et la durée de la mise à la disposition ainsi que la nature de la mission doivent être constatées dans un écrit approuvé par le conseil communal et signé par l'employeur, l'utilisateur et le travailleur avant le début de la mise à la disposition;
+
+4° la mise de travailleurs à la disposition d'un utilisateur visée à l'alinéa 1er n'est autorisée que si l'utilisateur aurait pu lui-même engager le travailleur aux conditions dans lesquelles il a été engagé par l'administration communale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2002-06-12/34, art. 2, En vigueur : 12-07-2002&gt;
+
+### CHAPITRE II. - Du statut administratif et pécuniaire.
+
+###### Art. 145
+
+[<sup>1</sup> § 1er. Le conseil communal fixe :
+
+1° le cadre du personnel, qui comprend l'inventaire du nombre d'emplois statutaires répartis en cinq niveaux de A à E, et par grade;
+
+2° le contingent des emplois contractuels, dont les emplois subsidiés doivent être repris en spécifiant les mesures d'emploi desquelles ils dépendent;
+
+3° les conditions de recrutement et de promotion du personnel;
+
+4° le statut pécuniaire et les échelles de traitement des agents de la commune, à l'exception de ceux dont le traitement est fixé par la présente loi ou par la loi du 29 mai 1959 modifiant certaines dispositions de la législation de l'enseignement;
+
+5° les règles en matière d'évaluation du personnel;
+
+6° les règles en matière de mobilité interne du personnel.
+
+§ 2. Toutes les fonctions sont ouvertes au recrutement et à la promotion, à moins que le conseil communal n'y déroge expressément.
+
+Les citoyens qui ne sont ni de nationalité belge ni ressortissants de l'Union européenne ou de l'Espace économique européens, sont admissibles aux emplois civils qui ne comportent pas de participation, directe ou indirecte, à l'exercice de la puissance publique et aux fonctions qui n'ont pas pour objet la sauvegarde des intérêts généraux de l'Etat ou des autres collectivités publiques.
+
+[<sup>2</sup> La participation à une procédure de sélection en vue d'un recrutement ou d'une promotion ne peut pas être subordonnée à une participation financière. Les frais afférents aux épreuves et examens organisés dans le cadre d'une procédure de sélection en vue d'un recrutement ou d'une promotion sont à charge du pouvoir local.]<sup>2</sup>
+
+§ 3. Le conseil communal reconnaît les formations de type long en management communal agréées par le Gouvernement. Celles-ci donnent accès aux détenteurs des attestations ou des diplômes les sanctionnant à l'examen de niveau A et leur donnent le droit à des dispenses pour les matières suivies.
+
+Les formations agréées par le Gouvernement sont dispensées directement par une université ou en partenariat avec une ou plusieurs universités. Les cours sont placés sous la responsabilité académique de professeurs d'université, sont de niveau universitaire et les attestations ou diplômes sont délivrés par un jury universitaire ou interuniversitaire.
+
+§ 4. Tous les agents sont évalués, quelle que soit la nature de leur relation de travail.
+
+Le conseil communal peut dispenser de l'évaluation le personnel contractuel engagé pour une durée déterminée. L'agent contractuel engagé pour une durée déterminée est évalué s'il en fait la demande.
+
+§ 5. Le Gouvernement peut fixer des dispositions générales pour :
+
+1° le cadre du personnel;
+
+2° le contingent des emplois contractuels;
+
+3° les conditions de recrutement et de promotion;
+
+4° le statut pécuniaire et les échelles de traitement;
+
+5° l'évaluation, étant entendu que les agents communaux jouissent au moins du même degré de protection contre le licenciement et d'assistance à l'évaluation que les grades légaux;
+
+6° la mobilité interne.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2014-02-27/27, art. 24; En vigueur : 12-04-2014&gt;
+
+(2)&lt;ORD 2016-04-14/05, art. 2, 002; En vigueur : 25-04-2016. Voir également l'art. 3, alinéa 2&gt;
+
+###### Art. 145bis
+
+[<sup>1</sup> § 1er. Le conseil communal fixe les règles en matière de formation du personnel.
+
+§ 2. Tous les membres du personnel ont le droit de recevoir l'information, la formation et les ressources nécessaires pour développer les compétences utiles à l'exercice de leur fonction et à l'évolution de leur carrière professionnelle.
+
+Ils ont le devoir de suivre les formations prévues à cet effet.
+
+§ 3. Le conseil communal impose à tous les membres du personnel qu'il recrute de suivre, dans l'année de leur engagement, une formation relative au fonctionnement des pouvoirs locaux, organisée par le Gouvernement en concertation avec les communes.
+
+L'obligation visée au premier alinéa ne s'applique pas lors du recrutement du personnel engagé dans les liens d'un contrat de travail pour une période inférieure à 12 mois.
+
+§ 4. Les membres du personnel communal à partir du grade A5 doivent suivre avec fruit une formation en management public agréée par le Gouvernement.
+
+§ 5. Le Gouvernement peut fixer des dispositions générales en matière de formation du personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2014-02-27/27, art. 25; En vigueur : 12-04-2014&gt;
+
+###### Art. 146
+
+&lt;AR 30-05-1989, art.29, MB 31-05-1989&gt; [§ 1er. Pour les communes de la région de langue allemande et les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, les délibérations relatives à la fixation des cadres et celles qui déterminent les conditions de recrutement et d'avancement sont soumises à l'approbation:
+
+1° du Roi, s'il s'agit de l'une des communes de la région de langue allemande, et de l'Exécutif de la Région, s'il s'agit de l'une des communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, lorsque la commune compte, [...], plus de 20.000 habitants ou lorsqu'elle a été classée dans une catégorie afférente à des communes comptant plus de 20.000 habitants, en application de l'article 29; le Roi ou l'Exécutif de la Région, selon le cas, peut déléguer ce pouvoir au gouverneur de province pour les catégories de communes qu'il détermine; il peut réformer toute décision prise par le gouverneur en vertu de cette délégation dans un délai de soixante jours à compter de la notification de cette décision à la commune sous pli recommandé à la poste; il peut proroger ce délai pour une période de soixante jours maximum;.&lt;L 2000-05-14/36, art. 9, En vigueur : 10-06-2000&gt;
+
+2° du gouverneur de province, pour les communes qui ne sont pas visées au 1°.
+
+Les décisions soumises à l'approbation sont exécutoires de plein droit si elles n'ont été improuvées par l'autorité de tutelle dans les nonante jours de leur réception. Ce délai peut être prorogé, par une décision motivée, pour une période de nonante jours maximum.
+
+§ 2. Pour les communes de Comines-Warneton et de Fourons, les délibérations relatives à la fixation des cadres et celles qui déterminent les conditions de recrutement et d'avancement sont soumises à l'approbation du gouverneur de province, qui exerce ses attributions conformément aux articles 267 à 269.
+
+§ 3. Toute décision d'improbation doit être motivée.
+
+Les décisions du gouverneur sont publiées par extrait au Mémorial administratif et notifiées à la commune, dans les trente jours, sous pli recommandé à la poste
+
+###### Art. 147
+
+§ 1er. Le statut pécuniaire et les échelles de traitement sont fixés notamment selon l'importance des attributions, le degré de responsabilité et les aptitudes générales et professionnelles requises, compte tenu notamment de la place occupée par les agents dans la hiérarchie de l'administration communale.
+
+[...] &lt;AR 30-05-1989, art.30, MB 31-05-1989&gt;
+
+[§ 2. Pour les communes de la région de langue allemande, les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que les communes de Comines-Warneton et de Fourons, les délibérations sur les objets visés au § 1er sont soumises à l'approbation du gouverneur de province.
+
+Toute décision d'improbation est motivée.] &lt;AR 30-05-1989, art.30, MB 31-05-1989&gt;
+
+###### Art. 148
+
+Les agents des communes bénéficient, dans les mêmes conditions que le personnel des ministères, des allocations suivantes: allocation de foyer et de résidence, allocations familiales, pécule de vacances et pécule de vacances familial. [...]. &lt;L 1993-07-16/31, art. 294, En vigueur : 30-07-1993&gt;
+
+### CHAPITRE III. - De la nomination.
+
+###### Art. 149
+
+[<sup>1</sup> Le conseil communal nomme le secrétaire, le secrétaire adjoint, le receveur et le directeur des ressources humaines. Il nomme et promeut les agents de niveaux A.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 60, 018; En vigueur : 09-08-2020&gt;
+
+### CHAPITRE IV. - De la discipline du personnel enseignant. &lt;L 24-05-1991, art. 2, 10°,MB 06-06-1991&gt;
+
+###### Art. 150
+
+§ 1er. Le conseil révoque ou suspend [les membres du personnel visé à l'[<sup>1</sup> article 24 de la Constitution coordonnée]<sup>1</sup>] et dont la nomination lui est attribuée. &lt;L 24-05-1991, art. 2, 11°, MB 06-06-1991&gt;
+
+[...] &lt;AR 30-05-1989, art. 31, MB 31-05-1989&gt;
+
+§ 2. [Pour les communes de la région de langue allemande et les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966:
+
+1° les délibérations portant suspension pour un terme de trois mois ou plus ou révocation sont soumises à l'approbation de la députation permanente du conseil provincial; elles sont exécutées provisoirement;
+
+2° en cas de réclamation du titulaire d'un emploi contre la délibération du conseil communal supprimant cet emploi ou réduisant le traitement y attaché, la députation permanente du conseil provincial peut improuver cette délibération exclusivement dans le cas où les mesures qu'elle décide tendent manifestement à une révocation déguisée.
+
+Le conseil communal et l'agent lésé peuvent, dans les quinze jours de la notification qui leur en est faite, se pourvoir contre la décision de la députation permanente auprès du Roi, s'il s'agit de l'une des communes de la région de langue allemande, et auprès de l'Exécutif de la Région, s'il s'agit de l'une des communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966.
+
+§ 3. Pour les communes de Comines-Warneton et de Fourons, le gouverneur de province exerce les attributions de tutelle visées au § 2, alinéa 1er, 1° et 2°, conformément aux articles 267 à 269.
+
+Le conseil communal et l'agent lésé peuvent se pourvoir auprès de l'Exécutif de la Région contre la décision du gouverneur dans les quinze jours de la notification qui leur en est faite.] &lt;AR 30-05-1989, art. 31, MB 31-05-1989&gt;
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 61, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 151
+
+Le collège des bourgmestre et échevins peut suspendre, pour un terme qui ne pourra excéder six semaines, [les membres du personnel visé à l'[<sup>1</sup> article 24 de la Constitution]<sup>1</sup>]. &lt;L 24-05-1991, art. 2, 13°, MB 06-06-1991&gt;
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 62, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 152
+
+[Toute suspension décrétée en vertu des articles 150 et 151] entraîne la privation du traitement pendant sa durée, à moins que l'autorité qui la prononce n'en décide autrement. &lt;L 24-05-1991, art. 2, 14°, MB 06-06-1991&gt;
+
+Les autorités qui sont investies par la présente loi du droit de suspendre ou de révoquer [les membres du personnel visé à l'[<sup>1</sup> article 24 de la Constitution]<sup>1</sup>], peuvent infliger à ceux-ci la peine de l'avertissement ou celle de la réprimande. &lt;L 24-05-1991, art. 2, 15°, MB 06-06-1991&gt;
+
+Quelle que soit la mesure disciplinaire dont ils peuvent être l'objet, avertissement, réprimande, suspension ou révocation, [les membres du personnel visé à l'[<sup>1</sup> article 24 de la Constitution]<sup>1</sup>] sont préalablement entendus; il est dressé procès-verbal de leurs explications. &lt;L 24-05-1991, art. 2, 16°, MB 06-06-1991&gt;
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 62, 018; En vigueur : 09-08-2020&gt;
+
+### CHAPITRE IVbis. - Des interdictions. &lt;Inséré par L 24-05-1991, art. 2, 17°,MB 06-06-1991&gt;
+
+###### Art. 153
+
+§ 1er. Le conseil communal peut interdire aux commis, employés [<sup>1</sup> ...]<sup>1</sup>, d'exercer, directement ou par personne interposée, tout commerce, ou de remplir tout emploi dont l'exercice serait considéré comme incompatible avec leurs fonctions.
+
+[En cas d'infraction à ces interdictions, une sanction disciplinaire peut être infligée au membre du personnel concerné.] &lt;L 24-05-1991, art. 2, 18°, MB 06-06-1991&gt;
+
+[...]
+
+[...] &lt;AR 30-05-1989, art. 32, § 1, MB 31-05-1989&gt;
+
+§ 2. [Pour les communes de la région de langue allemande et les communes énumérées à l'article 7 des lois sur d'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que les communes de Comines-Warneton et de Fourons, les délibérations par lesquelles le conseil communal prononce les peines visées au § 1er sont soumises à l'approbation de la députation permanente du conseil provincial.
+
+L'intéressé peut, dans les quinze jours de la notification qui lui en est faite, se pourvoir contre la décision de la députation permanente auprès du Roi, s'il s'agit de l'une des communes de la région de langue allemande, et auprès de l'Exécutif de la Région, s'il s'agit de l'une des communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, de la commune de Comines-Warneton ou de celle de Fourons.] &lt;AR 30-05-1989, art. 32, § 2, MB 31-05-1989&gt;
+
+§ 3. [Pour ces mêmes communes, lorsque le conseil communal s'abstient d'appliquer les peines visées au § 1er, elles sont appliquées d'office par le gouverneur de province, de l'avis conforme de la députation permanente du conseil provincial, après deux avertissements consécutifs constatés par la correspondance.
+
+En cas de désaccord de la députation permanente, le gouverneur peut se pourvoir auprès du Roi, s'il s'agit de l'une des communes de la région de langue allemande, et auprès de l'Exécutif de la Région, s'il s'agit de l'une des communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, de la commune de Comines-Warneton ou de celle de Fourons.
+
+Les commis, employés [<sup>1</sup> ...]<sup>1</sup> peuvent, dans les quinze jours de la notification qui leur en est faite, se pourvoir contre la décision du gouverneur les révoquant de leurs fonctions, auprès du Roi, s'il s'agit de l'une des communes de la région de langue allemande, et auprès de l'Exécutif de la Région, s'il s'agit de l'une des communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, de la commune de Comines-Warneton ou de celle de Fourons.] &lt;AR 30-05-1989, art. 32, § 2, MB 31-05-1989&gt;
+
+----------
+
+(1)&lt;L 2007-05-15/61, art. 196; En vigueur : 01-01-2015&gt;
+
+### CHAPITRE V. - Du personnel de l'état civil.
+
+###### Art. 154
+
+Le bourgmestre ou l'échevin chargé de remplir les fonctions d'officier de l'état civil peut avoir, à cet effet, sous ses ordres et suivant les besoins du service, un ou plusieurs employés salariés par la commune, qu'il nomme et congédie sans en référer au conseil, qui doit toujours déterminer le nombre et le salaire desdits employés.
+
+###### Art. 155
+
+§ 1er. Dans les communes où il existe un ou plusieurs emplois de l'état civil, le nombre de ces emplois et le traitement attaché à chacun d'eux ne peuvent être réduits par le conseil communal [qu'après avoir entendu l'officier de l'état civil].
+
+§ 2. [Pour les communes de la région de langue allemande et les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, les délibérations sur les objets visés au § 1er sont soumises à l'approbation de la députation permanente du conseil provincial.
+
+Le conseil communal, l'officier de l'état civil et les employés peuvent, dans les quinze jours de la notification qui leur en est faite, se pourvoir contre la décision de la députation permanente auprès du Roi, s'il s'agit de l'une des communes de la région de langue allemande, et auprès de l'Exécutif de la Région, s'il s'agit de l'une des communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966.]
+
+§ 3. [Pour les communes de Comines-Warneton et de Fourons, les délibérations sur les objets visés au § 1er sont soumises à l'approbation du gouverneur de province, qui exerce ses attributions conformément aux articles 267 à 269.
+
+Le conseil communal, l'officier de l'état civil et les employés peuvent se pourvoir auprès de l'Exécutif de la Région contre la décision du gouverneur, dans les quinze jours de la notification qui leur en est faite.] &lt;AR 30-05-1989, art. 33, MB 31-05-1989&gt;
+
+### CHAPITRE VI. - Des pensions.
+
+###### Art. 156
+
+Les communes sont tenues d'assurer aux membres de leur personnel pourvus d'une nomination définitive et aux ayants droit de ceux-ci, une pension calculée suivant les règles appliquées aux fonctionnaires et agents de l'administration centrale du [<sup>2</sup> Service public fédéral Intérieur]<sup>2</sup>, ainsi qu'à leurs ayants droit.
+
+[<sup>1</sup> La pension est calculée sur la base du traitement de référence défini à l'article 8, § 1er, alinéa 2, de la loi générale du 21 juillet 1844 sur les pensions civiles et ecclésiastiques.
+
+Sont pris en compte, par année de service, à raison d'1/50 de ce traitement de référence, les services que l'intéressé a prestés :
+
+1° comme membre du corps de police communale ayant la qualité de fonctionnaire de police compétent pour l'exercice des missions de police judiciaire ou administrative ou comme agent auxiliaire de police;
+
+2° comme membre du corps opérationnel d'un service d'incendie qui participe directement à la lutte contre le feu.]<sup>1</sup>
+
+[Pour les membres de la police qui ont été mis en congé préalable à la retraite, conformément à l'article 238 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux l'augmentation de la pension prévue à l'alinéa 3 n'est accordée que pour la partie de la pension qui correspond à la période qui précède le congé préalable à la retraite.] &lt;L 1998-12-07/31, art. 205, En vigueur : 01-01-2001&gt;
+
+----------
+
+(1)&lt;L 2003-02-03/41, art. 59, En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 63, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 157
+
+Les nouvelles communes issues d'une fusion ou d'une annexion en vertu de l'arrêté royal du 17 septembre 1975 portant fusion de communes et modification de leurs limites, ratifié par la loi du 30 décembre 1975, sont tenues d'octroyer à leurs agents recrutés et nommés à titre définitif à partir de la date de l'installation du conseil communal et à leurs ayants droit, une pension établie et calculée conformément aux dispositions du présent chapitre, à l'exclusion des dispositions d'un règlement communal de pension quelconque.
+
+###### Art. 157bis
+
+[<sup>1</sup> Les dispositions des articles 156 et 157 sont également applicables aux membres du personnel avec la qualité de stagiaire et à leurs ayants droit, pour ce qui concerne les périodes de stage qui se situent après le 31 décembre 2012.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-05-05/05, art. 23, En vigueur : 01-01-2013&gt;
+
+###### Art. 158
+
+&lt;Abrogé par ORD 2014-02-27/27, art. 26; En vigueur : 12-04-2014&gt;
+
+###### Art. 159
+
+[<sup>1</sup> Les agents des communes sont mis à la retraite, pour cause de maladie ou d'infirmité, dans les mêmes conditions que les fonctionnaires civils qui sont nommés à titre définitif auprès de l'administration fédérale de l'Etat. Les agents des communes mis à la retraite pour cause de maladie ou d'infirmité ne peuvent prétendre à une pension de retraite à moins qu'ils aient atteint l'âge légal de la pension ou qu'ils remplissent les conditions pour obtenir une pension immédiate ou différée, tels que définis à l'article 46 de la loi du 15 mai 1984 portant mesures d'harmonisation dans les régimes de pensions.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-30/02, art. 113, 033; En vigueur : 01-06-2026&gt;
+
+###### Art. 160
+
+En cas de nomination à titre définitif, les services civils rendus en qualité d'agent temporaire aux communes, aux établissements qui en dépendent, aux associations de commune ainsi que ceux rendus par les commissaires de brigade et les receveurs régionaux, sont pris en considération pour établir les droits à la pension des intéressés et de leurs ayants droit.
+
+###### Art. 161
+
+&lt;Abrogé par L 2011-10-24/01, art. 54; En vigueur : 01-01-2012&gt;
+
+###### Art. 161bis
+
+&lt;Abrogé par L 2011-10-24/01, art. 54; En vigueur : 01-01-2012&gt;
+
+###### Art. 161ter
+
+&lt;Abrogé par L 2011-10-24/01, art. 54; En vigueur : 01-01-2012&gt;
+
+###### Art. 162
+
+&lt;Abrogé par L 2011-10-24/01, art. 54; En vigueur : 01-01-2012&gt;
+
+###### Art. 163
+
+&lt;Abrogé par L 2011-10-24/01, art. 54; En vigueur : 01-01-2012&gt;
+
+###### Art. 164
+
+&lt;Abrogé par L 2011-10-24/01, art. 54; En vigueur : 01-01-2012&gt;
+
+###### Art. 165
+
+&lt;Abrogé par L 2011-10-24/01, art. 54; En vigueur : 01-01-2012&gt;
+
+###### Art. 166
+
+&lt;Abrogé par L 2011-10-24/01, art. 54; En vigueur : 01-01-2012&gt;
+
+###### Art. 167
+
+&lt;Abrogé par L 2011-10-24/01, art. 54; En vigueur : 01-01-2012&gt;
+
+###### Art. 168
+
+&lt;Abrogé par L 2011-10-24/01, art. 54; En vigueur : 01-01-2012&gt;
+
+###### Art. 169
+
+&lt;Abrogé par L 2011-10-24/01, art. 54; En vigueur : 01-01-2012&gt;
+
+## TITRE IV. - [...]. &lt;L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+### CHAPITRE I. - [...]. &lt;L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 170
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 171
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 171bis
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+### CHAPITRE II. - [...]. &lt;L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+#### Section 1. - [...]. &lt;L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 172
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 172bis
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 173
+
+&lt;abrogé par L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+###### Art. 174
+
+&lt;abrogé par L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+###### Art. 175
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 176
+
+&lt;abrogé par L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+###### Art. 177
+
+&lt;abrogé par L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+###### Art. 178
+
+&lt;abrogé par L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+###### Art. 179
+
+&lt;abrogé par L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+###### Art. 180
+
+&lt;abrogé par L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+###### Art. 181
+
+&lt;abrogé par L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+###### Art. 182
+
+&lt;abrogé par L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+###### Art. 183
+
+&lt;abrogé par L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+#### Section 2. - [...]. &lt;L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+###### Art. 184
+
+&lt;abrogé par L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+#### Section 3. - [...]. &lt;L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+###### Art. 185
+
+&lt;abrogé par L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+###### Art. 186
+
+&lt;abrogé par L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+###### Art. 187
+
+&lt;abrogé par L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+###### Art. 188
+
+&lt;abrogé par L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+### CHAPITRE III. - [...]. &lt;L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+#### Section 1. - [...]. &lt;L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 189
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+#### Section 2. - [...]. &lt;L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 190
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 191
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 192
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 193
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 194
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 195
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 196
+
+&lt;abrogé par L 24-05-1991, art.3, 4°, MB 06-06-1991&gt;
+
+###### Art. 197
+
+&lt;abrogé par L 24-05-1991, art.3, 4°, MB 06-06-1991&gt;
+
+###### Art. 198
+
+[...]&lt;L 24-05-1991, art.3, 5°, MB 06-06-1991&gt;
+
+###### Art. 199
+
+[...]&lt;L 24-05-1991, art.3, 5°, MB 06-06-1991&gt;
+
+###### Art. 200
+
+&lt;abrogé par L 24-05-1991, art.3, 4°, MB 06-06-1991&gt;
+
+#### Section 3. - [...]. &lt;L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 201
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 202
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 203
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 204
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 205
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 206
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 207
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 208
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 209
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 210
+
+&lt;abrogé par L 24-05-1991, art.3, 6°, MB 06-06-1991&gt;
+
+###### Art. 211
+
+&lt;abrogé par L 24-05-1991, art.3, 6°, MB 06-06-1991&gt;
+
+###### Art. 212
+
+&lt;abrogé par L 24-05-1991, art.3, 7°, MB 06-06-1991&gt;
+
+###### Art. 213
+
+&lt;abrogé par L 24-05-1991, art.3, 7°, MB 06-06-1991&gt;
+
+###### Art. 214
+
+&lt;abrogé par L 24-05-1991, art.3, 6°, MB 06-06-1991&gt;
+
+###### Art. 215
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+#### Section 4. - [...]. &lt;L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 216
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 217
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 218
+
+&lt;abrogé par L 24-05-1991, art.3, 8°, MB 06-06-1991&gt;
+
+###### Art. 219
+
+&lt;abrogé par L 24-05-1991, art.3, 8°, MB 06-06-1991&gt;
+
+###### Art. 220
+
+&lt;abrogé par L 24-05-1991, art.3, 8°, MB 06-06-1991&gt;
+
+### CHAPITRE IV. - [...]. &lt;L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 221
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 222
+
+&lt;abrogé par L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+###### Art. 223
+
+&lt;abrogé par L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+###### Art. 223bis
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 224
+
+&lt;abrogé par L 1992-08-05/52, art. 61, 2°, En vigueur : 01-01-1993&gt;
+
+###### Art. 225
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 226
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 226bis
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 227
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 227bis
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 228
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 229
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+###### Art. 230
+
+&lt;abrogé par L 1998-12-07/31, art. 207, En vigueur : 01-01-2001&gt;
+
+## TITRE V. - Des biens et revenus de la commune.
+
+### CHAPITRE I. - Des donations et des legs à la commune.
+
+###### Art. 231
+
+&lt;Abrogé par ORD 2020-07-17/22, art. 65, 018; En vigueur : 09-08-2020&gt;
+
+### CHAPITRE II. - Des contrats.
+
+###### Art. 232
+
+Le conseil arrête les conditions de location ou de fermage et de tous autres usages des produits et revenus des propriétés et droits de la commune.
+
+[<sup>1</sup> Il peut déléguer sa compétence au collège des bourgmestre et échevins sauf :
+
+\- si le montant annuel de la location, du fermage, ou de la redevance est supérieur à 12.500 euros, montant que le Gouvernement peut modifier ;
+
+\- ou si le contrat est conclu pour une durée supérieure à 9 ans.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 66, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 233
+
+Le conseil communal accorde, s'il y a lieu, aux locataires ou fermiers de la commune les remises qu'ils demandent, soit qu'ils aient le droit de les réclamer aux termes de la loi ou en vertu de leur contrat, soit qu'ils les sollicitent pour motif d'équité.
+
+[<sup>1</sup> Il peut déléguer cette compétence au collège des bourgmestre et échevins.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 67, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 234
+
+[<sup>1</sup> § 1er. Le conseil communal choisit la procédure de passation des marchés publics et des contrats de concession et en fixe les conditions.
+
+§ 2. En cas d'urgence impérieuse résultant d'événements imprévisibles, le collège des bourgmestre et échevins peut, d'initiative, exercer le pouvoir visé au premier paragraphe. Sa décision est communiquée au conseil communal qui en prend acte lors de sa prochaine séance.
+
+§ 3. Le collège des bourgmestre et échevins est habilité à exercer le pouvoir visé au premier paragraphe pour les marchés publics dont le montant hors T.V.A. estimé est inférieur à [<sup>5</sup> [<sup>6</sup> 143.000 euros]<sup>6</sup>]<sup>5</sup>. Dans ce cas, le conseil communal est informé de la décision du collège des bourgmestre et échevins lors de sa prochaine séance.
+
+Le Gouvernement peut modifier le montant prévu à l'alinéa 1er à la suite d'une révision des montants fixés en application de l'article 42, § 1er, 1°, a), de la loi du 17 juin 2016 relative aux marchés publics.
+
+§ 4. Le conseil communal peut déléguer le pouvoir visé au premier paragraphe au collège des bourgmestre et échevins, au secrétaire communal ou [<sup>4</sup> à un ou plusieurs fonctionnaire(s) nommément désigné(s)]<sup>4</sup>, pour les dépenses relevant du budget ordinaire.
+
+[<sup>4</sup> La délégation visée à l'alinéa 1er est limitée aux marchés publics visés à l'article 92 de la loi du 17 juin 2016 relative aux marchés publics.]<sup>4</sup>
+
+§ 5. Le conseil communal peut déléguer le pouvoir visé au premier paragraphe au collège des bourgmestre et échevins, au secrétaire communal ou [<sup>4</sup> à un ou plusieurs fonctionnaire(s) nommément désigné(s)]<sup>4</sup>, pour les marchés fondés sur un accord-cadre conclu.
+
+[<sup>4</sup> La délégation visée à l'alinéa 1er est limitée aux marchés publics visés à l'article 92 de la loi du 17 juin 2016 relative aux marchés publics.]<sup>4</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2017-07-27/03, art. 2, 009; En vigueur : 30-06-2017&gt;
+
+(2)&lt;ARR 2018-06-14/06, art. 1, 012; En vigueur : 25-06-2018&gt;
+
+(3)&lt;ARR 2020-05-07/14, art. 1, 016; En vigueur : 25-05-2020&gt;
+
+(4)&lt;ORD 2020-07-17/22, art. 68, 018; En vigueur : 09-08-2020&gt;
+
+(5)&lt;ARR 2022-06-23/07, art. 1, 021; En vigueur : 17-07-2022&gt;
+
+(6)&lt;ARR 2024-03-28/11, art. 1, 024; En vigueur : 05-04-2024&gt;
+
+###### Art. 234bis
+
+[<sup>1</sup> Les conditions d'un marché public ou d'un contrat de concession fixées par le conseil communal et faisant l'objet d'une procédure de passation impliquant la possibilité de mener une ou plusieurs phases de négociation ou un dialogue, peuvent être modifiées par le collège des bourgmestre et échevins dans le cadre des négociations ou du dialogue menés avec les opérateurs économiques. Lors de sa prochaine séance, le conseil communal est informé de la décision du collège des bourgmestre et échevins.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2017-07-27/03, art. 3, 009; En vigueur : 30-06-2017&gt;
+
+###### Art. 235
+
+&lt;AR 30-05-1989, art.40, MB 31-05-1989&gt; [§ 1er. Pour les communes de la région de langue allemande, les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que les communes de Comines-Warneton et de Fourons, les délibérations du conseil communal visées à l'article 234, alinéa 1er, et les arrêtés du collège des bourgmestre et échevins visés à l'article 234, alinéa 2, sont soumis à l'approbation du gouverneur de province.
+
+Pour les communes de Comines-Warneton et de Fourons, le gouverneur de province exerce les attributions visées à l'alinéa Ier conformément aux articles 267 à 269.
+
+§ 2. L'approbation visée au § 1er n'est pas requise, lorsque la valeur globale du marché n'excède pas:
+
+1° [50.000 EUR], lorsque la commune compte moins de 5.000 habitants [...]; &lt;AR 2000-07-20/71, art. 6, En vigueur : 01-01-2002 et L 2000-05-14/36, art. 1, En vigueur : 10-06-2000&gt;
+
+2° [150.000 EUR], lorsque la commune compte 5.000 habitants ou plus [...]. &lt;AR 2000-07-20/71, art. 6, En vigueur : 01-01-2002 et L 2000-05-14/36, art. 1, En vigueur : 10-06-2000&gt;
+
+Le Roi peut modifier les sommes visées au 1° et au 2°.
+
+§ 3. Sans préjudice de l'application des articles 268 et 269, l'approbation est réputée acquise à défaut de notification d'une décision contraire dans les nonante jours de la réception de la délibération ou de l'arrêté au gouvernement provincial.
+
+###### Art. 236
+
+[<sup>1</sup> § 1er. Le collège des bourgmestre et échevins engage la procédure.
+
+§ 2. Le collège des bourgmestre et échevins prend toutes les décisions nécessaires jusqu'au terme de la procédure de passation.
+
+§ 3. Le collège des bourgmestre et échevins assure le suivi de l'exécution et prend toutes les décisions nécessaires dans le cadre de l'exécution.
+
+[<sup>2</sup> Il peut apporter au contrat toute modification qu'il juge nécessaire en cours d'exécution, lorsque la réglementation relative aux marchés publics et aux contrats de concession autorise ces modifications sans nouvelles procédures de passation.]<sup>2</sup>
+
+§ 4. Le collège des bourgmestre et échevins peut déléguer son pouvoir visé au paragraphe 3 du présent article au secrétaire communal ou [<sup>2</sup> à un ou plusieurs fonctionnaire(s) nommément désigné(s)]<sup>2</sup>, à l'exception du pouvoir relatif à la modification du marché public ou du contrat de concession en cours d'exécution. Le collège des bourgmestre et échevins est informé des décisions prises dans le cadre de cette délégation sur une base trimestrielle.
+
+§ 5. En cas d'urgence impérieuse résultant d'événements imprévisibles, le bourgmestre (ou son remplaçant) et le secrétaire communal (ou son remplaçant) peuvent, d'initiative, exercer conjointement le pouvoir visé au paragraphe 3 du présent article. Leur décision est communiquée au collège des bourgmestre et échevins qui en prend acte lors de sa prochaine séance.
+
+§ 6. En cas de délégation de compétence du conseil communal au secrétaire communal ou [<sup>2</sup> à un ou plusieurs fonctionnaire(s) nommément désigné(s)]<sup>2</sup>, conformément à l'article 234, paragraphe 4, alinéa 2, et paragraphe 5, alinéa 2, le pouvoir du collège des bourgmestre et échevins visé aux paragraphes 1er à 3 du présent article est exercé par le secrétaire communal ou le fonctionnaire nommément désigné.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2017-07-27/03, art. 4, 009; En vigueur : 30-06-2017&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 69, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 237
+
+&lt;AR 30-05-1989, art. 41, MB 31-05-1989&gt; [Pour les communes de la région de langue allemande, les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que les communes de Comines-Warneton et de Fourons, les décisions par lesquelles le collège des bourgmestre et échevins attribue des marchés de travaux, de fournitures ou de services sont communiquées au gouverneur de province; elles ne sont exécutoires qu'à partir du jour où elles ne sont plus susceptibles d'être suspendues ou annulées en application des articles 264 et 265.
+
+La disposition de l'alinéa 1er n'est toutefois pas applicable:
+
+1° aux marchés visés à l'article 17, § 2, 6°, de la loi du 14 juillet 1976 relative aux marchés publics de travaux, de fournitures et de services;
+
+2° dans les cas où les délibérations ou arrêtés visés à l'article 234, alinéa 1er et 2, sur le mode de passation du marché, ne sont pas soumis à approbation conformément à l'article 235.]
+
+## TITRE VI. - Du budget et des comptes.
+
+### CHAPITRE I. - Dispositions communes.
+
+###### Art. 238
+
+&lt;L 27-05-1989, art. 3, MB 30-05-1989&gt; L'exercice financier des communes correspond à l'année civile.
+
+Sont seuls considérés comme appartenant à un exercice les droits acquis à la commune et les engagements pris à l'égard de ses créanciers pendant cet exercice, quel que soit l'exercice au cours duquel ils sont soldés.
+
+###### Art. 239
+
+&lt;L 27-05-1989, art. 4, MB 30-05-1989&gt; Le [<sup>1</sup> Gouvernement [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup> arrête les règles budgétaires, financières et comptables des communes, ainsi que celles relatives aux modalités d'exercice des fonctions de leurs comptables.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 43; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 70, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 240
+
+&lt;L 27-05-1989, art. 5 § 2 et 3, MB 30-05-1989&gt; § 1er. [<sup>1</sup> Chaque année, le conseil communal approuve les comptes annuels de l'exercice précédent, et les transmet à l'autorité de tutelle pour le 30 juin au plus tard.
+
+Aucune modification budgétaire ne peut être approuvée par le conseil communal postérieurement au 1er juin si les comptes de l'exercice précédent n'ont pas encore été approuvé par le conseil communal.
+
+[<sup>2</sup> Les comptes annuels comprennent le compte budgétaire, le compte de résultats, le bilan et les annexes déterminées par le Gouvernement.]<sup>2</sup> Le rapport visé à l'article 96 est joint aux comptes.]<sup>1</sup>
+
+§ 2. Pour les communes de la Région de langue allemande, les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que les communes de Comines-Warneton et de Fourons, les comptes sont transmis à l'autorité de tutelle [visée à l'article 244, § 1er], dans le mois de leur adoption par le conseil communal.] &lt;AR 30-05-1989, art. 42, MB 31-05-1989&gt;
+
+----------
+
+(1)&lt;ORD 2014-02-27/27, art. 27; En vigueur : 12-04-2014&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 71, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 241
+
+&lt;L 27-05-1989, art. 6, MB 30-05-1989&gt; § 1er. [<sup>1</sup> Chaque année, avant le 31 décembre, le conseil communal approuve le budget des dépenses et des recettes de la commune pour l'exercice suivant. [<sup>2</sup> Le budget comprend, sous peine de nullité, les annexes déterminées par le Gouvernement.]<sup>2</sup>
+
+Aucun budget ne peut être approuvé par le conseil communal si les comptes du pénultième exercice n'ont pas été arrêtés définitivement par l'autorité de tutelle.]<sup>1</sup>
+
+§ 2. Pour les communes de la région de langue allemande, les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que pour les communes de Comines-Warneton et de Fourons, le budget est transmis à l'autorité de tutelle [visée à l'article 244, § 1er], dans le mois de son adoption par le conseil communal. &lt;AR 30-05-1989, art. 43, MB 31-05-1989&gt;
+
+----------
+
+(1)&lt;ORD 2014-02-27/27, art. 28; En vigueur : 12-04-2014&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 72, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 242
+
+&lt;L 27-05-1989, art. 7, MB 30-05-1989&gt; Les budgets et les comptes sont déposés à la maison communale où quiconque peut toujours en prendre connaissance sans déplacement.
+
+Cette possibilité de consultation est rappelée par voie d'affiches apposées à la diligence du collège des bourgmestre et échevins dans le mois qui suit l'adoption des budgets et des comptes par le conseil communal. La durée de l'affichage ne peut être inférieure à dix jours.
+
+###### Art. 242bis
+
+[<sup>1</sup> Deux fois par législature, lors du dépôt du premier et du quatrième budget, le collège soumet au conseil communal un plan triennal.
+
+Ce plan triennal constitue un complément au budget annuel visé à l'article 241 et comprend :
+
+1° des projections pour chaque poste majeur de dépenses et de recettes pour les deux exercices suivant l'année du budget soumis. Ces projections doivent être fondées sur des prévisions macroéconomiques et budgétaires réalistes ;
+
+2° une note explicative décrivant les axes politiques fondamentaux choisis pour les trois prochaines années, et leur impact sur l'évolution des postes de recettes et de dépenses sur ces trois années.
+
+Ce plan doit respecter, pour chacune des trois années, les règles d'équilibre budgétaire telles que précisées à l'article 252.
+
+Après approbation par le conseil communal, ce plan triennal est publié conformément aux dispositions de l'article 112 et de la manière prescrite par le conseil communal.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 73, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 243
+
+&lt;Abrogé par ORD 2020-07-17/22, art. 74, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 244
+
+&lt;AR 30-05-1989, art. 44, MB 31-05-1989&gt; § 1er. Sont soumises, à la diligence du collège des bourgmestre et échevins, à l'approbation de la députation permanente du conseil provincial, pour les communes de la région de langue allemande et les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative coordonnées le 18 juillet 1966, et à l'approbation du gouverneur de province, pour les communes de Comines-Warneton et de Fourons, les délibérations du conseil communal sur les objets suivants:
+
+1° les budgets des dépenses communales et les moyens d'y pourvoir;
+
+2° le compte annuel des recettes et des dépenses communales.
+
+Pour les communes de Comines-Warneton et de Fourons, le gouverneur de province exerce les attributions visées à l'alinéa 1er conformément aux articles 267 à 269.
+
+L'administration communale est tenue de certifier, en soumettant à l'approbation les budgets et les comptes, que les dispositions de l'article 242 ont été respectées.
+
+Le rapport visé à l'article 96 est joint aux budgets et aux comptes.
+
+La députation permanente ou le gouverneur, selon le cas, arrête définitivement les budgets et les comptes, sauf les recours prévus au § 2.
+
+§ 2. Pour les communes de la région de langue allemande, un recours auprès du Roi est ouvert au gouverneur et, en cas de refus d'approbation, à la commune, contre les décisions de la députation permanente.
+
+Pour les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, un recours auprès de l'Exécutif de la Région est ouvert au gouverneur et, en cas de refus d'approbation, à la commune, contre les décisions de la députation permanente.
+
+Pour les communes de Comines-Warneton et de Fourons, un recours auprès de l'Exécutif de la Région est ouvert à la commune contre la décision de refus d'approbation du gouverneur.
+
+§ 3. Les recours visés au § 2 sont exercés dans les dix jours; ce délai prend cours, pour le gouverneur, le jour de la décision qui fait l'objet du recours, et pour la commune, le jour de la notification qui lui en est faite.
+
+Ils sont notifiés à la députation permanente ou au gouverneur, selon le cas, au plus tard le jour qui suit le recours.
+
+L'autorité supérieure peut faire recueillir, tant sur les lieux que par correspondance, tous renseignements et éléments utiles à l'instruction des recours.
+
+Les recours sont suspensifs de l'exécution pendant trente jours, à dater de la notification visée à l'alinéa 2; en cas de nécessité, ce délai peut toutefois être prorogé pour un nouveau terme de trente jours, par un arrêté motivé.
+
+Avant l'expiration de ce délai, l'arrêt définitif des budgets et des comptes appartient au Roi ou à l'Exécutif de la Région, selon le cas.
+
+S'il n'a pas statué dans ce délai, la décision de la députation permanente ou du gouverneur, selon le cas, est exécutoire.
+
+###### Art. 245
+
+&lt;Abrogé par ORD 2020-07-17/22, art. 74, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 246
+
+&lt;L 27-05-1989, art. 8, MB 30-05-1989&gt; Pour les communes de la région de langue allemande, les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que les communes de Comines-Warneton et de Fourons, lorsque, par suite de circonstances imprévues, l'administration communale aura reconnu la nécessité de faire une dépense qui n'est pas allouée à son budget, elle en fera l'objet d'une demande spéciale à la députation permanente du conseil provincial.
+
+###### Art. 247
+
+[<sup>2</sup> Aucun paiement sur la caisse communale ne peut avoir lieu qu'en vertu d'une allocation portée au budget, d'un crédit spécial, ou d'un crédit provisoire alloué dans les conditions et limites fixées par le Gouvernement.]<sup>2</sup>
+
+Les membres du collège des bourgmestre et échevins sont personnellement responsables des dépenses engagées ou mandatées par eux contrairement à l'alinéa 1er.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 43; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 75, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 248
+
+§ 1er. [Aucun article des dépenses du budget ne peut être dépassé, et aucun transfert ne peut avoir lieu.]
+
+[§ 2]. Néanmoins, lorsque, à la clôture d'un exercice, certaines allocations sont grevées d'engagements régulièrement et effectivement contractés en faveur des créanciers de la commune, la partie d'allocation nécessaire [pour solder la dépense est transferée à l'exercice suivant par décision du collège des bourgmestre et échevins, qui sera annexée au compte de l'exercice clos].
+
+[...]
+
+[Il peut être disposé des allocations ainsi transférées sans nouvelle intervention du conseil communal.]
+
+[§ 3. Pour les communes de la région de langue allemande, les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que les communes de Comines-Warneton et de Fourons, la députation permanente du conseil provincial peut en outre autoriser des dépassements d'articles de dépenses du budget et d'autres transferts que ceux visés au § 2.
+
+Il peut être disposé des allocations transférées en vertu du § 2 sans l'autorisation de la députation permanente.] &lt;L 27-05-1989, art. 10, § 1,2,3 et 4&gt;
+
+###### Art. 249
+
+&lt;AR 30-05-1989, art. 45, MB 31-05-1989&gt; § 1er. Le conseil communal peut toutefois pourvoir à des dépenses réclamées par des circonstances impérieuses et imprévues, en prenant à ce sujet une résolution motivée.
+
+Dans le cas où le moindre retard occasionnerait un préjudice évident, le collège des bourgmestre et échevins peut, sous sa responsabilité, pourvoir à la dépense, à charge d'en donner, sans délai, connaissance au conseil communal qui délibère s'il admet ou non la dépense.
+
+[Les membres du collège des bourgmestre et échevins qui auraient mandaté des dépenses payées en exécution des alinéas 1er et 2 mais rejetées des comptes définitifs, sont personnellement tenus d'en verser le montant à la caisse communale.] &lt;L 17-10-1990, art. 30, MB 14-12-1990&gt;
+
+§ 2. Pour les communes de la région de langue allemande, les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que les communes de Comines-Warneton et de Fourons, la résolution du conseil communal visée au § 1er, alinéa 1er, de même que la décision du collège des bourgmestre et échevins visées au § 1er, alinéa 2, est communiquée sans délai, à fin d'approbation, à la députation permanente du conseil provincial, s'il s'agit de l'une des communes de la région de langue allemande, ou de l'une des communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnés le 18 juillet 1966, et au gouverneur de province, s'il s'agit de la commune de Comines-Warneton et de celle de Fourons.
+
+§ 3. Pour les communes de Comines-Warneton et de Fourons, le gouverneur de province exerce les attributions visées au § 2, conformément aux articles 267 à 269.
+
+###### Art. 250
+
+[<sup>1</sup> Après ordonnancement par le collège des bourgmestre et échevins, les mandats de paiement sont signés par le bourgmestre et contresignés par le secrétaire, soit individuellement, soit sous forme de liste.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2024-02-22/01, art. 10, 028; En vigueur : 07-03-2024&gt;
+
+###### Art. 251
+
+&lt;AR 30-05-1989, art. 45, MB 31-05-1989&gt; Pour les communes de la région de langue allemande, les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que les communes de Comines-Warneton et de Fourons, dans le cas où il y aurait refus ou retard d'ordonner le montant des dépenses que la loi met à charge des communes, la députation permanente du conseil provincial, après avoir entendu le conseil communal, en délibère et ordonne, s'il y a lieu, que la dépense soit immédiatement soldée.
+
+Cette décision tient lieu de mandat; le receveur de la commune est tenu, sous sa responsabilité personnelle, d'en acquitter le montant. S'il s'y refuse, il pourra être procédé contre lui par voie de contrainte, [conformément à l'article 136, alinéa 2]. &lt;L 17-10-1990, art. 31, MB 14-12-1990&gt;
+
+### CHAPITRE II. - De l'équilibre budgétaire.
+
+###### Art. 252
+
+En aucun cas, le budget des dépenses et des recettes des communes ne peut présenter [<sup>1</sup> ...]<sup>1</sup> un solde à l'ordinaire ou à l'extraordinaire en déficit, ni faire apparaître un équilibre ou un boni fictifs.
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 76, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 253
+
+Les communes qui restent en défaut de présenter un budget en équilibre au sens de l'article 252:
+
+1° [<sup>1</sup> ...]<sup>1</sup>
+
+2° ne peuvent accorder aux membres de leur personnel enseignant que le traitement auquel les intéressés auraient droit, compte tenu de leurs titres de capacité, s'ils étaient membres du personnel de l'enseignement [<sup>1</sup> des Communautés]<sup>1</sup>, augmenté des seules indemnités et allocations accordées dans l'enseignement [<sup>1</sup> des Communautés]<sup>1</sup>;
+
+3° ne peuvent accorder la rémunération attachée à la qualité de membre du personnel enseignant, à un agent en surnombre au regard de la réglementation [<sup>1</sup> des Communautés]<sup>1</sup> en matière de normes de population scolaire, non plus qu'à un agent qui n'est pas porteur des titres requis ou des titres jugés suffisants.
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 77, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 254
+
+&lt;AR 30-05-1989, art. 47, MB 31-05-1989&gt; Pour les communes de la région de langue allemande, les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que les communes de Comines-Warneton et de Fourons, si la commune est en défaut de présenter un budget en équilibre au sens de l'article 252, l'autorité investie de la tutelle administrative en matière de budget peut prendre toute mesure de nature à diminuer les dépenses et à augmenter les recettes.
+
+### CHAPITRE III. - Des charges et dépenses communales.
+
+###### Art. 255
+
+Le conseil communal est tenu de porter annuellement au budget des dépenses toutes celles que les lois mettent à la charge de la commune et spécialement les suivantes:
+
+1° l'achat et l'entretien des registres de l'état civil;
+
+2° [<sup>3</sup> ...]<sup>3</sup>
+
+3° les contributions assises sur les biens communaux;
+
+4° les dettes de la commune, liquidées et exigibles, et celles résultant de condamnations judiciaires à sa charge;
+
+5° les traitements du bourgmestre, des échevins, du secrétaire, du receveur et des employés de la commune [...] et des gardes forestiers de la commune; &lt;L 1998-12-07/31, art. 208, 1°, En vigueur : 01-01-2001&gt;
+
+6° les frais de bureau de l'administration communale;
+
+7° l'entretien des bâtiments communaux ou le loyer des maisons qui en tiennent lieu;
+
+8° [<sup>2</sup> ...]<sup>2</sup>
+
+9° les secours aux fabriques d'église et aux consistoires, conformément aux dispositions existantes sur la matière, en cas d'insuffisance constatée des moyens de ces établissements;
+
+10° les frais que les lois relatives à l'enseignement mettent à charge de la commune;
+
+11° les dépenses relatives à la police de sûreté et de salubrité locales;
+
+12° l'indemnité de logement des ministres des cultes, conformément aux dispositions existantes, lorsque le logement n'est pas fourni en nature;
+
+13° les dépenses prévues par l'article 130 du Code électoral, et les dépenses nécessitées par les élections communales;
+
+14° les frais d'impressions nécessaires pour la comptabilité communale;
+
+15° les pensions à charge de la commune;
+
+16° les dotations prévues par l'article 106 de la loi du 8 juillet 1976 organique des centres publics d'[<sup>3</sup> action]<sup>3</sup> sociale;
+
+17° les dépenses de la voirie communale et des chemins vicinaux, des fossés, des aqueducs et des ponts qui sont légalement à la charge de la commune;
+
+[18° les dépenses qui sont mises à charge de la commune par ou en vertu de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, en ce compris, dans les zones pluricommunales, la dotation de la commune à la zone de police.] &lt;L 1998-12-07/31, art. 208, 2°, En vigueur : 01-01-2001&gt;
+
+[<sup>1</sup> 19° les dépenses qui sont mises à charge de la commune par ou en vertu de la loi du 15 mai 2007 relative à la sécurité civile.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2007-05-15/61, art. 198; En vigueur : 01-01-2016&gt;
+
+(2)&lt;L 2014-04-25/23, art. 148; En vigueur : 01-01-2014&gt;
+
+(3)&lt;ORD 2020-07-17/22, art. 78, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 256
+
+[§ 1er]. Lorsqu'une des dépenses obligatoires intéresse plusieurs communes, elles y concourent toutes proportionnellement à l'intérêt qu'elles peuvent y avoir; en cas de refus ou de désaccord sur la proportion de cet intérêt et des charges à supporter, il y est statué par [<sup>1</sup> le Gouvernement [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>, [...].
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[§ 2. Un recours est ouvert contre la décision de la députation permanente visée au § 1er, alinéa 1er,
+
+1° aux communes de la région de langue allemande, auprès du Roi;
+
+2° aux communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi qu'aux communes de Comines-Warneton et de Fourons, auprès de l'Exécutif de la Région.] &lt;AR 30-05-1989, art. 48, MB 31-05-1989&gt;
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 31; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 79, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 257
+
+&lt;AR 30-05-1989, art. 49, MB 31-05-1989&gt; Pour les communes de la région de langue allemande, les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que les communes de Comines-Warneton et de Fourons, lorsque le conseil communal se refuse à porter au budget, en tout ou en partie, des dépenses obligatoires que la loi met à charge des communes, la députation permanente du conseil provincial, après avoir entendu le conseil communal, les y inscrit d'office dans la proportion du besoin.
+
+S'il s'estime lésé, le conseil communal dispose d'un recours auprès du Roi, s'il s'agit de l'une des communes de la région de langue allemande, et auprès de l'Exécutif de la Région, s'il s'agit de l'une des communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, de la commune de Comines-Warneton ou de celle de Fourons.
+
+###### Art. 258
+
+&lt;AR 30-05-1989, art. 50, MB 31-05-1989&gt; [§ 1er. Si les recettes portées au budget sont insuffisantes pour payer une dette de la commune qui soit reconnue et exigible, ou qui résulte d'une décision en dernier ressort de la juridiction administrative ou judiciaire, le conseil communal propose les moyens d'y suppléer.
+
+§ 2. Pour les communes de la région de langue allemande, les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que les communes de Comines-Warneton et de Fourons, la députation permanente du conseil provincial, en cas de défaut du conseil communal, y pourvoit, après deux avertissements consécutifs constatés par la correspondance.
+
+Elle ordonne, dans ce but, la perception d'un nombre déterminé de centimes additionnels aux contributions directes payées dans la commune, sous l'approbation du Roi, s'il s'agit de l'une des communes de la région de langue allemande, et de l'Exécutif de la Région, s'il s'agit de l'une des communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, de la commune de Comines-Warneton ou de celle de Fourons.
+
+§ 3. Pour les communes visées au § 2, il est statué par le Roi, s'il s'agit de l'une des communes de la région de langue allemande, et par l'Exécutif de la Région, s'il s'agit de l'une des communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, de la commune de Comines-Warneton ou de celle de Fourons, lorsque:
+
+1° le conseil communal a alloué la dépense et que la députation permanente, s'il s'agit de l'une des communes de la région de langue allemande ou de l'une des communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ou le gouverneur de province exerçant ses attributions conformément aux articles 267 à 269, s'il s'agit de la commune de Comines-Warneton ou de celle de Fourons, l'a rejetée ou réduite;
+
+2° lorsque la députation permanente, d'accord avec le conseil communal, se refuse à l'allocation ou n'alloue qu'une somme insuffisante.
+
+Le Roi ou l'Exécutif de la Région, selon le cas, fixe, le cas échéant, le nombre des centimes à percevoir.
+
+###### Art. 258bis
+
+[<sup>1</sup> Le conseil communal peut affecter une partie du budget, appelée budget participatif, à des projets émanant de comités de quartier ou d'initiatives citoyennes, sur proposition d'un jury composé majoritairement de citoyens domiciliés dans la commune et ne siégeant pas au conseil communal.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2009-03-05/34, art. 33; En vigueur : 23-03-2009&gt;
+
+### CHAPITRE IV. - Des recettes communales.
+
+###### Art. 259
+
+Le conseil est tenu de porter annuellement au budget, en les spécifiant, toutes les recettes quelconques de la commune, ainsi que celles que la loi lui attribue et les excédents des exercices antérieurs.
+
+###### Art. 260
+
+Les centimes additionnels communaux aux impôts de l'État sont recouvrés conformément aux règles établies par la loi pour la perception de l'impôt auquel ils s'ajoutent.
+
+### CHAPITRE V.
+
+&lt;Abrogé par ORD 2018-07-05/02, art. 99,2°, 014; En vigueur : 01-09-2018&gt;
+
+###### Art. 261
+
+&lt;Abrogé par ORD 2018-07-05/02, art. 99,2°, 014; En vigueur : 01-09-2018&gt;
+
+###### Art. 262
+
+&lt;Abrogé par ORD 2018-07-05/02, art. 99,2°, 014; En vigueur : 01-09-2018&gt;
+
+###### Art. 263
+
+&lt;Abrogé par ORD 2018-07-05/02, art. 99,2°, 014; En vigueur : 01-09-2018&gt;
+
+###### Art. 263bis
+
+&lt;Abrogé par ORD 2018-07-05/02, art. 99,2°, 014; En vigueur : 01-09-2018&gt;
+
+###### Art. 263ter
+
+&lt;Abrogé par ORD 2018-07-05/02, art. 99,2°, 014; En vigueur : 01-09-2018&gt;
+
+###### Art. 263quater
+
+&lt;Abrogé par ORD 2018-07-05/02, art. 99,2°, 014; En vigueur : 01-09-2018&gt;
+
+###### Art. 263quinquies
+
+&lt;Abrogé par ORD 2018-07-05/02, art. 99,2°, 014; En vigueur : 01-09-2018&gt;
+
+###### Art. 263sexies
+
+&lt;Abrogé par ORD 2018-07-05/02, art. 99,2°, 014; En vigueur : 01-09-2018&gt;
+
+###### Art. 263septies
+
+&lt;Abrogé par ORD 2018-07-05/02, art. 99,2°, 014; En vigueur : 01-09-2018&gt;
+
+###### Art. 263octies
+
+&lt;Abrogé par ORD 2018-07-05/02, art. 99,2°, 014; En vigueur : 01-09-2018&gt;
+
+###### Art. 263nonies
+
+&lt;Abrogé par ORD 2018-07-05/02, art. 99,2°, 014; En vigueur : 01-09-2018&gt;
+
+###### Art. 263decies
+
+&lt;Inséré par L 1998-02-22/43, art. 160, En vigueur : 18-04-1995&gt; Les dispositions du Chapitre VI du Titre III de la loi s'appliquent aux régies autonomes communales.]
+
+## TITRE VIbis. [<sup>1</sup> Système de contrôle interne]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2009-03-05/34, art. 34; En vigueur : 23-03-2009&gt;
+
+###### Art. 263undecies
+
+[<sup>1</sup> Les communes sont chargées du contrôle interne de leurs activités.
+
+Le contrôle interne est un ensemble de mesures et de procédures conçues pour assurer une sécurité raisonnable en ce qui concerne
+
+1° la réalisation des objectifs;
+
+2° le respect des lois et des procédures;
+
+3° la disponibilité d'informations fiables sur les finances et la gestion;
+
+4° l'utilisation efficace et économique des moyens;
+
+5° la protection des actifs;
+
+6° la prévention de la fraude.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2009-03-05/34, art. 34; En vigueur : 23-03-2009&gt;
+
+###### Art. 263duodecies
+
+[<sup>1</sup> § 1er. Le système de contrôle interne est arrêté par le secrétaire communal, après concertation avec le comité de direction. Le cadre général du système de contrôle interne est soumis à l'approbation du conseil communal, sur proposition du Collège.
+
+Le système de contrôle interne détermine la façon dont le contrôle interne est organisé, y compris les mesures et procédures de contrôle à prendre, et la désignation des membres du personnel responsables, ainsi que les obligations de rapport des membres du personnel associés au système de contrôle interne.
+
+§ 2. Le système de contrôle interne répond au moins au principe de la séparation des fonctions du secrétaire communal et du receveur communal lorsque cela est possible et il est compatible avec la continuité du fonctionnement des services communaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2009-03-05/34, art. 34; En vigueur : 23-03-2009&gt;
+
+###### Art. 263terdecies
+
+[<sup>1</sup> Sans préjudice des missions de contrôle interne confiées en vertu de la présente loi ou par le conseil communal à d'autres organes ou membres du personnel, le secrétaire communal assure l'organisation et le fonctionnement du système de contrôle interne, sous l'autorité du Collège. Il en fait rapport annuellement au collège des bourgmestre et échevins et au conseil communal.
+
+Le secrétaire communal met le personnel au courant du système de contrôle interne et l'informe des modifications qui y sont apportées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2009-03-05/34, art. 34; En vigueur : 23-03-2009&gt;
+
+## TITRE VII. - De la tutelle.
+
+### CHAPITRE I. - Dispositions générales.
+
+###### Art. 264
+
+&lt;AR 30-05-1989, art. 52, MB 31-05-1989&gt; Pour les communes de la région de langue allemande, les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que les communes de Comines-Warneton et de Fourons, le gouverneur de province peut, par un arrêté motivé, suspendre l'exécution de l'acte par lequel une autorité communale [, le conseil de police ou le collège de police] sort de ses attributions, viole la loi ou blesse l'intérêt général.
+
+L'arrêté de suspension doit intervenir dans les quarante jours de la réception de l'acte au gouvernement provincial; il est immédiatement notifié à l'autorité communale [, le conseil de police ou le collège de police], qui en prend connaissance sans délai et peut justifier l'acte suspendu.
+
+L'autorité dont l'acte est régulièrement suspendu peut le retirer.
+
+Passe le délai prévu à l'article 265, § 2, alinéa 2, la suspension est levée. &lt;L 1998-12-07/31, art. 209, En vigueur : 01-01-2001&gt;
+
+###### Art. 265
+
+&lt;AR 30-05-1989, art. 53, MB 31-05-1989&gt; § 1er. Après l'expiration du délai d'annulation, les actes des autorités communales [, du conseil de police ou du collège de police] ne peuvent, sauf recours au Conseil d'État, être annulés que par le pouvoir législatif. &lt;L 1998-12-07/31, art. 209, En vigueur : 01-01-2001&gt;
+
+§ 2. Pour les communes de la région de langue allemande, les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que les communes de Comines-Warneton et de Fourons, l'acte par lequel une autorité communale [, le conseil de police ou le collège de police] viole la loi ou blesse l'intérêt général peut être annulé par un arrêté motivé pris: &lt;L 1998-12-07/31, art. 209, En vigueur : 01-01-2001&gt;
+
+1° par le Roi, s'il s'agit de l'une des communes de la région de langue allemande et qu'elle compte, [...], plus de 20.000 habitants; &lt;L 2000-05-14/36, art. 12, En vigueur : 10-06-2000&gt;
+
+2° par l'Exécutif de la Région, s'il s'agit de l'une des communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, et qu'elle compte, [...], plus de 20.000 habitants; &lt;L 2000-05-14/36, art. 12, En vigueur : 10-06-2000&gt;
+
+3° par le Roi et le gouverneur de province, s'il s'agit de l'une des communes de la région de langue allemande et qu'elle compte, [...], 20.000 habitants ou moins; &lt;L 2000-05-14/36, art. 12, En vigueur : 10-06-2000&gt;
+
+4° par l'Exécutif de la Région et le gouverneur de province, s'il s'agit de l'une des communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, et qu'elle compte, [...], 20.000 habitants ou moins; &lt;L 2000-05-14/36, art. 12, En vigueur : 10-06-2000&gt;
+
+5° par le gouverneur de province, conformément au § 3, s'il s'agit de la commune de Comines-Warneton ou de celle de Fourons.
+
+L'arrêté d'annulation doit intervenir dans les quarante jours de la réception de l'acte du gouvernement provincial, ou, le cas échéant, dans les quarante jours de l'approbation de l'acte par la députation permanente ou de la réception au gouvernement provincial de l'acte par lequel l'autorité communale [, le conseil de police ou le collège de police] a pris connaissance de la suspension. &lt;L 1998-12-07/31, art. 209, En vigueur : 01-01-2001&gt;
+
+L'arrêté d'annulation pris par le gouverneur est publié par extrait au Mémorial administratif et notifié aux intéressés.
+
+Le Roi, pour les communes de la région de langue allemande, et l'Exécutif de la Région, pour les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, et les communes de Comines-Warneton et de Fourons, peuvent, sans préjudice de son exécution immédiate, mettre à néant l'arrêté d'annulation du gouverneur dans le délai d'un mois à compter du jour où une expédition pour notification en a été envoyée à la commune[, au conseil de police ou au collège de police] sous pli recommandé à la poste. &lt;1999-04-19/50, art. 20, En vigueur : 01-01-2001&gt;
+
+§ 3. Les arrêtés d'annulation d'une décision d'une autorité communale [, le conseil de police ou le collège de police] de Comines-Warneton ou de Fourons sont pris par le gouverneur de l'avis conforme du collège des gouverneurs de province prévu à l'article 131bis de la loi provinciale, à l'exception d'arrêtés d'annulation pris uniquement en vertu d'une violation de la législation linguistique. &lt;L 1998-12-07/31, art. 209, En vigueur : 01-01-2001&gt;
+
+Toute décision de proposition d'annulation sera immédiatement notifiée à l'autorité communale [, le conseil de police ou le collège de police]. &lt;L 1998-12-07/31, art. 209, En vigueur : 01-01-2001&gt;
+
+Lorsque la proposition d'annulation fait l'objet d'un avis négatif, le gouverneur peut éventuellement faire une seconde et dernière proposition motivée différemment. En cas de nouvel avis négatif du collège des gouverneurs de province sur cette seconde proposition, le gouverneur ne peut plus annuler. Il peut soit s'abstenir, soit notifier à la commune [, au conseil de police ou au collège de police] qu'il renonce à annuler, ce qui emporte de droit la levée de la suspension. &lt;1999-04-19/50, art. 20, En vigueur : 01-01-2001&gt;
+
+###### Art. 266
+
+&lt;AR 30-05-1989, art. 54, MB 31-05-1989&gt; Le gouverneur de province ou la députation permanente du conseil provincial, pour les communes de la région de langue allemande et les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, le gouverneur de province, de l'avis conforme du collège des gouverneurs de province prévu à l'article 131bis de la loi provinciale, pour les communes de Comines-Warneton et de Fourons peut, après deux avertissements consécutifs constatés par la correspondance, charger un ou plusieurs commissaires de se transporter sur les lieux aux frais personnels des autorités communales [, du conseil de police ou du collège de police] en retard de satisfaire aux avertissements, à l'effet de recueillir les renseignements ou observations demandés, ou de mettre à exécution les mesures prescrites par les lois, décrets, règlements et arrêtés de l'État, des Régions, des Communautés et des institutions provinciales. &lt;1999-04-19/50, art. 21, En vigueur : 01-01-2001&gt;
+
+La rentrée des frais à charge des autorités communales [, du conseil de police ou du collège de police] est poursuivie, comme en matière de contributions directes, par le receveur de l'État, sur l'exécutoire de la députation permanente ou du gouverneur. &lt;L 1998-12-07/31, art. 209, En vigueur : 01-01-2001&gt;
+
+Dans tous les cas, le recours est ouvert auprès du Roi, s'il s'agit de l'une des communes de la région de langue allemande, et auprès de l'Exécutif de la Région, s'il s'agit de l'une des communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, de la commune de Comines-Warneton ou de celle de Fourons.
+
+### CHAPITRE II. - Dispositions relatives à la tutelle sur certains actes des autorités communales de Comines-Warneton et de Fourons. &lt;AR 30-05-1989, art. 55, § 1, MB 31-05-1989&gt;
+
+###### Art. 267
+
+&lt;AR 30-05-1989, art. 55, § 2, MB 31-05-1989&gt; Dans les cas visés aux articles 12, § 3, 28, § 3, 39, § 2, 41, 65, § 3, 68, § 3, 146, § 2, 150, § 3, 155, § 3, 231, § 3, 2°, 235, § 1er, alinéa 2, 244, § 1er, alinéa 2, 249, § 3, 258, § 3, alinéa 1er, 2°, le gouverneur de province ne peut refuser l'approbation que de l'avis conforme et motivé du collège des gouverneurs de province prévu à l'article 131bis de la loi provinciale, sauf si elle est refusée en raison de la violation de la législation linguistique.
+
+###### Art. 268
+
+&lt;AR 30-05-1989, art. 55, § 3, MB 31-05-1989&gt; Nonobstant toute disposition contraire, les décisions soumises à l'approbation en vertu des dispositions visées à l'article 267 sont exécutoires de plein droit si, dans les nonante jours, le gouverneur n'a pas proposé de refuser l'approbation.
+
+###### Art. 269
+
+&lt;AR 30-05-1989, art. 55, § 4, MB 31-05-1989&gt; Si la proposition de refus d'approbation fait l'objet d'un avis négatif, le gouverneur peut faire une seconde et dernière proposition, motivée différemment dans les trente jours de la réception de l'avis négatif.
+
+À défaut d'une seconde proposition, l'acte est approuvé de plein droit à l'expiration du délai de trente jours précité.
+
+Si la seconde proposition fait l'objet d'un nouvel avis négatif, le gouverneur est tenu de marquer son approbation; à défaut d'une telle approbation dans le délai de trente jours précité, l'acte est approuvé de plein droit.
+
+## TITRE VIII. - Des actions judiciaires.
+
+###### Art. 270
+
+[<sup>1</sup> Le collège des bourgmestre et échevins répond en justice à toute action intentée contre la commune. Il intente d'initiative ou, le cas échéant, sur injonction du conseil communal, les actions en référé, comme en référé, et les actions possessoires ; il fait tous actes conservatoires ou interruptifs de la prescription et des déchéances.]<sup>1</sup>
+
+Toutes autres actions dans lesquelles la commune intervient comme demanderesse ne peuvent être intentées par le collège qu'après autorisation du conseil communal.
+
+[Dans les zones pluricommunales, le collège de police exerce pour la zone de police les compétences attribuées par l'alinéa 1er au collège des bourgmestre et échevins. L'autorisation prévue à l'alinéa 2 est donnée par le conseil de police.] &lt;L 1998-12-07/31, art. 210, En vigueur : 01-01-2001&gt;
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 80, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 271
+
+[§ 1er]. Un ou plusieurs habitants peuvent, au défaut du collège des bourgmestre et échevins, ester en justice au nom de la commune, [...], en offrant, sous caution, de se charger personnellement des frais du procès et de répondre des condamnations qui seraient prononcées.
+
+La commune ne pourra transiger sur le procès sans l'intervention de celui ou de ceux qui auront poursuivi l'action en son nom.
+
+[§ 2. Pour les communes de la région de langue allemande, les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ainsi que les communes de Comines-Warneton et de Fourons, la faculté visée au § 1er est subordonnée à l'autorisation de la députation permanente du conseil provincial, qui est juge de la suffisance de la caution.
+
+En cas de refus, le recours est ouvert auprès du Roi, s'il s'agit de l'une des communes de la région de langue allemande, et auprès de l'Exécutif de la Région, s'il s'agit de l'une des communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, de la commune de Comines-Warneton ou de celle de Fourons.] &lt;AR 30-05-1989, art. 56, MB 31-05-1989&gt;
+
+###### Art. 271bis
+
+&lt;Inséré par L 1999-05-04/85, art. 2, En vigueur : 07-08-1999&gt; Le bourgmestre ou l'échevin, qui fait l'objet d'une action en dommages et intérêts devant la juridiction civile ou répressive, peut appeler à la cause l'Etat [<sup>1</sup> , la Région]<sup>1</sup> ou la commune.
+
+L'Etat [<sup>1</sup> , la Région]<sup>1</sup> ou la commune peut intervenir volontairement.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 32; En vigueur : 01-01-2003&gt;
+
+###### Art. 271ter
+
+&lt;Inséré par L 1999-05-04/85, art. 3, En vigueur : 07-08-1999&gt; La commune est civilement responsable du paiement des amendes auxquelles sont condamnés le bourgmestre et le ou les échevin(s) à la suite d'une infraction commise dans l'exercice normal de leurs fonctions, sauf en cas de récidive.
+
+L'action récursoire de la commune à l'encontre du bourgmestre, d'un échevin ou des échevins condamné est limitée au dol, à la faute lourde ou à la faute légère présentant un caractère habituel.
+
+## TITRE IX. - Des délimitations.
+
+###### Art. 272
+
+Lorsqu'une fraction de commune aura été érigée en commune, un arrêté [<sup>1</sup> du Gouvernement de la Région de Bruxelles-Capitale]<sup>1</sup> ordonnera une convocation immédiate des électeurs de la fraction qui se sépare, réglera tout ce qui est relatif à la première élection et fixera la date du premier renouvellement en concordance avec les renouvellements ordinaires prescrits par la loi électorale communale.
+
+Les conseils communaux règlent, de commun accord, le partage des biens communaux entre les habitants des territoires séparés, en prenant pour base le nombre des feux, c'est-à-dire des chefs de famille ayant domicile dans ces territoires. Ils règlent également ce qui concerne les dettes et les archives.
+
+En cas de dissentiment entre les conseils communaux, le différend est tranché par le Conseil d'État.
+
+S'il s'élève des contestations relatives aux droits résultant de titres ou de possession, les communes seront renvoyées devant les tribunaux.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 33; En vigueur : 01-01-2003&gt;
+
+###### Art. 273
+
+Lorsqu'une commune ou fraction de commune aura été déclarée réunie à une autre commune, on procédera, quant aux intérêts communs, d'après les dispositions de l'article 272. Si l'adjonction de cette commune ou fraction de commune nécessite une augmentation du nombre de conseillers communaux de la commune à laquelle elle est réunie, il sera procédé comme au même article.
+
+## TITRE X. - De la voirie communale.
+
+###### Art. 274
+
+[<sup>1</sup> Après avis du conseil communal intéressé, le Gouvernement [<sup>2</sup> ...]<sup>2</sup> fixe la [<sup>2</sup> voirie régionale]<sup>2</sup>.]<sup>1</sup>
+
+En cas de délaissement par [<sup>1</sup> la Région de voiries]<sup>1</sup> [<sup>2</sup> régionales]<sup>2</sup> existantes, et moyennant l'accord du conseil communal, celles-ci sont considérées comme faisant désormais partie de la voirie communale. Ce transfert emporte attribution à titre gratuit de la propriété de ces routes, qui devront être, au moment du délaissement, en bon état d'entretien.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 34; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 81, 018; En vigueur : 09-08-2020&gt;
+
+## TITRE XI. - Du nom.
+
+###### Art. 275
+
+Le [<sup>1</sup> Gouvernement [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup> détermine l'orthographe des noms des communes et des hameaux.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 43; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 82, 018; En vigueur : 09-08-2020&gt;
+
+## TITRE XII. - Des établissements publics.
+
+###### Art. 276
+
+Les budgets et les comptes des monts-de-piété de la commune sont soumis à l'approbation du conseil communal.
+
+En cas de réclamation, il est statué sur ces objets par [<sup>1</sup> le Gouvernement [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 35; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 82, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 277
+
+Le bourgmestre assiste, lorsqu'il le juge convenable, aux réunions des administrations des monts-de piété, et prend part à leurs délibérations. Dans ce cas, il préside l'assemblée et il y a voix délibérative.
+
+###### Art. 278
+
+Les administrations des établissements publics ont l'administration de leurs bois et forêts, sous la surveillance de l'autorité supérieure, de la manière qui est réglée par l'autorité compétente pour établir le Code forestier.
+
+## TITRE XIII. - Dispositions particulières relatives aux communes de la région de Bruxelles-Capitale. &lt;Inséré par L 16-06-1989, art. 1, MB 17-06-1989&gt;
+
+###### Art. 279
+
+&lt;Inséré par L 16-06-1989, art. 1, MB 17-06-1989&gt; [<sup>1</sup> § 1er]<sup>1</sup> Dans les communes de la Région de Bruxelles-Capitale, lorsqu'un ou plusieurs échevins d'appartenance linguistique néerlandaise et un ou plusieurs échevins d'appartenance linguistique française ont été élus, le conseil communal peut décider d'augmenter d'une unité le nombre d'échevins fixé par l'article 16.
+
+De même, lorsque le nombre d'échevins en fonction correspond à celui fixé par l'article 16, et qu'aucun de ces échevins n'est d'appartenance linguistique soit néerlandaise, soit française, le conseil communal peut décider de procéder à l'élection d'un échevin supplémentaire d'appartenance linguistique néerlandaise dans le premier cas ou française dans le second.
+
+[Si, dans une commune où un échevin supplémentaire a été élu en application de l'alinéa 1er ou 2, un échevin se trouve dans un des cas d'empêchement visés à l'article 18, et si à cause de cet empêchement tous les échevins restants sont d'appartenance linguistique soit française soit néerlandaise, l'échevin empêché ne peut être remplacé, pendant la période d'empêchement, que par un conseiller d'appartenance linguistique néerlandaise dans le premier cas et française dans le second cas; ce conseiller est désigné par le conseil communal.] &lt;L 21-03-1991, art. 7, MB 09-04-1991&gt; et &lt;L 1999-01-27/30, art. 10, En vigueur : 09-02-1999&gt;
+
+[<sup>1</sup> § 2. Si, dans une commune, le bourgmestre a été présenté conformément à l'article 13, alinéa 1er, et que l'acte de présentation qui le concerne est signé par au moins un élu d'appartenance linguistique française et au moins un élu d'appartenance linguistique néerlandaise, un échevin au moins doit appartenir au groupe linguistique français et un échevin au moins doit appartenir au groupe linguistique néerlandais. Il peut être satisfait à cette obligation par application du § 1er. De même, cette obligation est réputée remplie si le président du conseil du centre public d'aide sociale appartient au groupe linguistique correspondant à celui qui n'est pas représenté au collège.]<sup>1</sup>
+
+[<sup>1</sup> § 3. L'appartenance linguistique des échevins, élus et présidents des conseils des centres publics d'aide sociale visés au §§ 1er et 2, est établie conformément à l'article 23bis, § 2, de la loi électorale communale. La déclaration d'appartenance linguistique peut être faite dans l'acte de présentation des candidats à l'élection du conseil communal, dans l'acte de présentation des candidats à l'élection du conseil de l'aide sociale, dans l'acte de présentation de chaque échevin, et, préalablement à son élection, à la séance du conseil de l'aide sociale qui élit le président du centre public de l'aide sociale. En outre, jusqu'au dépôt de l'acte de présentation des candidats à l'élection du conseil communal suivant celle du 8 octobre 2000, la déclaration d'appartenance linguistique peut être faite par des membres du conseil communal jusqu'à la séance du conseil prévue au § 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2001-07-13/75, art. 2; En vigueur : 01-01-2002&gt;
+
+###### Art. 280
+
+&lt;Inséré par L 16-06-1989, art. 1, MB 17-06-1989&gt; Dans ces mêmes communes, lorsque le conseil communal ne compte aucun membre d'appartenance linguistique néerlandaise ou aucun membre d'appartenance linguistique française, le membre du conseil de l'aide sociale le premier classé appartenant au groupe linguistique non représenté au conseil communal ou, le cas échéant, le membre du conseil de l'aide sociale désigné de plein droit conformément à l'article 6, § 4, de la loi du 8 juillet 1976 organique des centres publics d'aide sociale, peut examiner tous les actes et pièces concernant l'administration dans les mêmes conditions que les conseillers.
+
+L'ordre visé à l'alinéa 1er est fixé conformément aux dispositions de l'article 15 de la loi du 8 juillet 1976 organique des centres publics d'aide sociale.
+
+###### Art. 280bis
+
+&lt;Abrogé par ORD 2020-07-17/22, art. 83, 018; En vigueur : 09-08-2020&gt;
+
+## TITRE XIV. - Du régime disciplinaire. &lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt;
+
+### CHAPITRE I. - Du champ d'application. &lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt;
+
+###### Art. 281
+
+&lt;L 24-05-1991, art. 1, MB 06-06-1991&gt; Les dispositions du présent titre sont applicables à tous les membres du personnel communal, à l'exception du personnel engagé [par contrat de travail, du personnel vise par la loi du 13 mai 1999 portant le statut disciplinaire des membres du personnel des services de police et du personnel] visé à l'[<sup>1</sup> article 24 de la Constitution]<sup>1</sup>. &lt;L 2000-12-27/32, art. 47, En vigueur : 01-04-2001&gt;
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 84, 018; En vigueur : 09-08-2020&gt;
+
+### CHAPITRE II. - Des faits répréhensibles. &lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt;
+
+###### Art. 282
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; Les sanctions disciplinaires visées à l'article 283 peuvent être infligées pour les motifs suivants:
+
+1° manquements aux devoirs professionnels;
+
+2° agissements qui compromettent la dignité de la fonction;
+
+3° infraction à l'interdiction visée aux articles 27 , 68 , § 1er , [<sup>1</sup> ...]<sup>1</sup> [et 153]. &lt;L 1999-05-13/35, art. 68, 1°, En vigueur : 01-04-2001&gt;
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 85, 018; En vigueur : 09-08-2020&gt;
+
+### CHAPITRE III. - Des sanctions disciplinaires. &lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt;
+
+###### Art. 283
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; Les sanctions disciplinaires suivantes peuvent être infligées aux membres du personnel communal:
+
+1° sanctions mineures:
+
+l'avertissement;
+
+la réprimande;
+
+2° sanctions majeures:
+
+la retenue de traitement;
+
+la suspension;
+
+la rétrogradation;
+
+3° sanctions maximales:
+
+la démission d'office;
+
+[<sup>1</sup> la révocation.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2012-03-15/06, art. 2; En vigueur : 07-04-2012&gt;
+
+###### Art. 284
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; [<sup>1</sup> La retenue de traitement s'applique pendant trois mois au plus et ne peut être supérieure à celle prévue à l'article 23, alinéa 2, de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs.]<sup>1</sup>
+
+La commune garantit à l'intéressé un traitement net égal au montant du [<sup>2</sup> revenu d'intégration tel que fixé par la loi du 26 mai 2002 concernant le droit à l'intégration sociale]<sup>2</sup>.
+
+En cas de prestations à temps partiel, ce montant est réduit proportionnellement à la durée des prestations.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 37; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 86, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 285
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; La peine de la suspension est prononcée pour une période de trois mois au plus.
+
+La peine de la suspension entraîne, pendant sa durée, la privation de traitement. [<sup>1</sup> Celle-ci ne peut être supérieure à celle prévue à l'article 23, alinéa 2, de la loi du 12 avril 1965 concernant la protection de la rémunération des travailleurs.]<sup>1</sup>
+
+La commune garantit à l'intéressé un traitement net égal au montant du [<sup>2</sup> revenu d'intégration tel que fixé par la loi du 26 mai 2002 concernant le droit à l'intégration sociale]<sup>2</sup>.
+
+En cas de prestations à temps partiel, ce montant est réduit proportionnellement à la durée des prestations.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 38; En vigueur : 01-01-2003&gt;
+
+(2)&lt;ORD 2020-07-17/22, art. 86, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 286
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; La rétrogradation consiste en l'attribution d'un grade doté d'une échelle de traitements inférieure ou qui occupe, dans la hiérarchie, un rang inférieur.
+
+Dans tous les cas, le grade dans lequel la rétrogradation est appliquée doit figurer dans le classement hiérarchique des grades du cadre dont l'intéressé relève.
+
+La rétrogradation ne s'applique pas au secrétaire communal, au secrétaire adjoint, au receveur [<sup>1</sup> communal]<sup>1</sup> [<sup>1</sup> ...]<sup>1</sup> [et au comptable spécial]. &lt;L 1999-05-13/35, art. 68, 2°, En vigueur : 01-04-2001&gt;
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 87, 018; En vigueur : 09-08-2020&gt;
+
+### CHAPITRE IV. - De l'autorité compétente. &lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt;
+
+#### Section 1. - Dispositions générales. &lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt;
+
+###### Art. 287
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; § 1er. Le conseil communal peut, sur rapport du secrétaire communal, infliger aux membres du personnel rémunérés par la commune et dont la nomination est attribuée aux autorités communales les sanctions disciplinaires prévues à l'article 283 .
+
+Il n'y a pas lieu à rapport du secrétaire communal pour les sanctions à infliger au secrétaire, au secrétaire adjoint, au receveur local, [et au comptable spécial].&lt;L 1999-05-13/35, art. 68, 3°, En vigueur : 01-04-2001&gt;
+
+§ 2. Pour les communes de la région de langue allemande et les communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966:
+
+1° les délibérations portant suspension pour un terme de trois mois, rétrogradation, démission d'office ou révocation sont soumises à l'approbation de la députation permanente du conseil provincial; elles sont exécutées provisoirement;
+
+2° en cas de réclamation du titulaire d'un emploi contre la délibération du conseil communal supprimant cet emploi ou réduisant le traitement y attaché, la députation permanente du conseil provincial peut improuver cette délibération exclusivement dans le cas où les mesures qu'elle décide tendent manifestement à une révocation déguisée.
+
+Le conseil communal et le membre du personnel lésé peuvent, dans les quinze jours de la notification qui leur en est faite, se pourvoir contre la décision de la députation permanente auprès du Roi, s'il s'agit de l'une des communes de la région de langue allemande, ou auprès de l'Exécutif de la Région, s'il s'agit de l'une des communes énumérées à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966.
+
+§ 3. Pour les communes de Comines-Warneton et de Fourons, le gouverneur de province exerce les attributions de tutelle visées au § 2, alinéa 1er , 1° et 2°, conformément aux articles 267 à 269 inclus.
+
+Le conseil communal et le membre du personnel lésé peuvent se pourvoir auprès de l'Exécutif de la Région contre la décision du gouverneur dans les quinze jours de la notification qui leur en est faite.
+
+###### Art. 288
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; Le collège des bourgmestre et échevins peut, sur rapport du secrétaire communal, infliger aux membres du personnel rémunérés par la commune et dont la nomination est attribuée aux autorités communales les sanctions disciplinaires de l'avertissement, de la réprimande, de la retenue de traitement et de la suspension pour un terme qui ne pourra excéder un mois.
+
+L'alinéa 1er ne s'applique pas au secrétaire, au secrétaire adjoint, au receveur local, [et au comptable spécial]. &lt;L 1999-05-13/35, art. 68, 4°, En vigueur : 01-04-2001&gt;
+
+#### Section 2. - [...]. &lt;L 1999-05-13/35, art. 68, 5°, En vigueur : 01-04-2001&gt;
+
+##### Sous-section 1. - [...]. &lt;L 1999-05-13/35, art. 68, 5°, En vigueur : 01-04-2001&gt;
+
+###### Art. 289
+
+[<sup>1</sup> Le secrétaire communal peut infliger aux membres du personnel rémunérés par la commune et dont la nomination est attribuée aux autorités communales les sanctions disciplinaires de l'avertissement et de la réprimande.
+
+Le premier alinéa ne s'applique pas au secrétaire adjoint et au receveur communal.
+
+Le secrétaire communal informe le collège de son intention d'entamer une procédure disciplinaire telle que prévue au premier alinéa.
+
+La procédure ne peut être entamée par le secrétaire communal qu'après que le collège ait pris acte de l'intention du secrétaire communal. Le collège peut ainsi, le cas échéant, faire usage de la procédure prévue à l'article 288.
+
+Les décisions du secrétaire communal visées au premier alinéa sont motivées formellement et immédiatement portées à la connaissance du collège.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2009-03-05/34, art. 35; En vigueur : 23-03-2009&gt;
+
+###### Art. 290
+
+&lt;abrogé par L 1999-05-13/35, art. 68, 5°, En vigueur : 01-04-2001&gt;
+
+###### Art. 291
+
+[...] &lt;L 1999-05-13/35, art. 68, 5°, En vigueur : 01-04-2001&gt;
+
+###### Art. 292
+
+[...] &lt;L 1999-05-13/35, art. 68, 5°, En vigueur : 01-04-2001&gt;
+
+###### Art. 293
+
+[...] &lt;L 1999-05-13/35, art. 68, 5°, En vigueur : 01-04-2001&gt;
+
+##### Sous-section 2. - [...]. &lt;L 1999-05-13/35, art. 68, 5°, En vigueur : 01-04-2001&gt;
+
+###### Art. 294
+
+[...] &lt;L 1999-05-13/35, art. 68, 5°, En vigueur : 01-04-2001&gt;
+
+###### Art. 295
+
+[...] &lt;L 1999-05-13/35, art. 68, 5°, En vigueur : 01-04-2001&gt;
+
+###### Art. 296
+
+[...] &lt;L 1999-05-13/35, art. 68, 5°, En vigueur : 01-04-2001&gt;
+
+###### Art. 297
+
+[...] &lt;L 1999-05-13/35, art. 68, 5°, En vigueur : 01-04-2001&gt;
+
+#### Section 3. - Disposition relative au receveur régional. &lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt;
+
+###### Art. 298
+
+&lt;Abrogé par ORD 2003-07-17/69, art. 44; En vigueur : 01-01-2003&gt;
+
+### CHAPITRE V. - De la procédure. &lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt;
+
+###### Art. 299
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; Aucune sanction disciplinaire ne peut être prononcée sans que le membre du personnel ait été entendu en ses moyens de défense sur tous les faits mis à sa charge par l'autorité qui la prononce.
+
+[...] &lt;L 1999-05-13/35, art. 68, 6°, En vigueur : 01-04-2001&gt;
+
+Pendant le cours de la procédure, l'intéressé peut se faire assister par un défenseur de son choix.
+
+###### Art. 300
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; Préalablement à l'audition, l'autorité disciplinaire constitue un dossier disciplinaire.
+
+Le dossier disciplinaire contient toutes les pièces relatives aux faits mis à charge.
+
+###### Art. 301
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; Au moins douze jours ouvrables avant sa comparution, l'intéressé est convoqué pour l'audition, soit par lettre recommandée à la poste, soit par la remise de la convocation contre accusé de réception.
+
+La convocation doit mentionner:
+
+1° tous les faits mis à charge;
+
+2° le fait qu'une sanction disciplinaire est envisagée et qu'un dossier disciplinaire est constitué;
+
+3° le lieu, le jour et l'heure de l'audition;
+
+4° le droit de l'intéressé de se faire assister par un défenseur de son choix;
+
+5° le lieu où et le délai dans lequel le dossier disciplinaire peut être consulté;
+
+6° le droit de l'intéressé de demander la publicité de l'audition, s'il doit comparaître devant le conseil communal;
+
+7° le droit de demander l'audition de témoins ainsi que la publicité de cette audition.
+
+###### Art. 302
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; À partir de la convocation à comparaître devant l'autorité disciplinaire jusqu'à la veille de la comparution, l'intéressé et son défenseur peuvent consulter le dossier disciplinaire et communiquer par écrit, s'ils le souhaitent, les moyens de défense à l'autorité disciplinaire.
+
+[<sup>1</sup> A la demande du comparant, une copie du dossier disciplinaires est envoyée à l'intéressé ou à son défenseur contre accusé de réception ou lettre recommandée à la poste.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 39; En vigueur : 01-01-2003&gt;
+
+###### Art. 303
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; Il est dressé procès-verbal de l'audition, qui reproduit fidèlement les déclarations de la personne entendue.
+
+Si le procès-verbal est dressé à l'issue de l'audition, il en est donné lecture immédiatement et l'intéressé est invité à le signer.
+
+Si le procès-verbal est dressé après l'audition, il est communiqué à l'intéressé dans les huit jours de l'audition avec invitation à la signer.
+
+En tout cas, au moment de la signature, l'intéressé peut formuler des réserves; s'il refuse de signer, il en est fait mention.
+
+Si l'intéressé a renoncé par écrit à être entendu ou ne s'est pas présenté à l'audition, l'autorité disciplinaire établit, selon le cas, un procès-verbal de renonciation ou de non-comparution.
+
+Le procès-verbal de l'audition, de renonciation ou de non-comparution comprend l'énumération de tous les actes de procédure requis par la loi et mentionne si chacun d'eux a été accompli.
+
+###### Art. 304
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; L'autorité disciplinaire peut décider d'office ou sur requête de l'intéressé ou de son défenseur d'entendre des témoins [<sup>1</sup> ou experts]<sup>1</sup>.
+
+En ce cas, l'audition des témoins [<sup>1</sup> ou experts]<sup>1</sup> a lieu en présence de l'intéressé et, si ce dernier l'a demandé et si l'autorité disciplinaire y consent, publiquement.
+
+Le témoin convoqué peut s'opposer à être entendu en public.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 40; En vigueur : 01-01-2003&gt;
+
+###### Art. 305
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; § 1er. L'autorité disciplinaire se prononce sur la sanction disciplinaire à infliger, dans les [<sup>1</sup> trois]<sup>1</sup> mois de la clôture du procès-verbal de la dernière audition, de renonciation ou de non-comparution.
+
+Si aucune décision n'est prise dans le délai susvisé, l'autorité disciplinaire est réputée renoncer aux poursuites pour les faits mis à charge de l'intéressé.
+
+§ 2. [Les membres du conseil communal ou du collège des bourgmestres et échevins qui n'étaient pas présents durant l'ensemble des séances, ne peuvent prendre part aux délibérations, ni participer aux votes sur la mesure disciplinaire à prononcer.] &lt;L 1999-05-13/35, art. 68, 7°, En vigueur : 01-04-2001&gt;
+
+§ 3. La décision infligeant la sanction disciplinaire est motivée en la forme.
+
+----------
+
+(1)&lt;ORD 2003-07-17/69, art. 41; En vigueur : 01-01-2003&gt;
+
+###### Art. 306
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; Au cas où le conseil communal est compétent pour infliger une sanction disciplinaire, l'audition a lieu en public lorsque l'intéressé le demande.
+
+###### Art. 307
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; La décision motivée est notifiée sans tarder à l'intéressé, soit par lettre recommandée à la poste, soit par la remise contre accusé de réception.
+
+À défaut de notification de la décision dans le délai de dix jours ouvrables, elle est réputée rapportée. Des poursuites disciplinaires pour les mêmes faits ne peuvent être engagées.
+
+La notification de la décision fait mention des recours prévus par la loi du délai dans lequel ceux-ci peuvent être exercés.
+
+###### Art. 308
+
+[...] &lt;L 1999-05-13/35, art. 68, 8°, En vigueur : 01-04-2001&gt;
+
+### CHAPITRE VI. - De la radiation de la sanction disciplinaire. &lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt;
+
+###### Art. 309
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; Sans préjudice de leur exécution, les sanctions disciplinaires de l'avertissement, de la réprimande et de la retenue de traitement, sont radiées d'office du dossier individuel des membres du personnel après une période dont la durée est fixée à:
+
+1° 1 an pour l'avertissement;
+
+2° 18 mois pour la réprimande;
+
+3° 3 ans pour la retenue de traitement.
+
+Sans préjudice de leur exécution, les sanctions disciplinaires de la suspension et de la rétrogradation, peuvent, à la demande de l'intéressé, être radiées par l'autorité qui les a infligées après une période dont la durée est fixée à:
+
+1° 4 ans pour la suspension;
+
+2° 5 ans pour la rétrogradation.
+
+L'autorité disciplinaire ne peut refuser la radiation visée à l'alinéa 2, que si de nouveaux éléments, susceptibles de justifier un tel refus, sont apparus.
+
+Le délai visé aux alinéas 1er et 2 prend cours à la date à laquelle la sanction disciplinaire a été prononcée.
+
+### CHAPITRE VII. - De la suspension préventive. &lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt;
+
+###### Art. 310
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; Lorsqu'un membre du personnel fait l'objet de poursuites pénales ou disciplinaires et que sa présence est incompatible avec l'intérêt du service, la personne concernée peut être suspendue préventivement à titre de mesure d'ordre.
+
+###### Art. 311
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; L'autorité qui est compétente pour infliger une sanction disciplinaire, l'est également pour prononcer une suspension préventive.
+
+Par dérogation à l'alinéa 1er, tant le collège des bourgmestre et échevins que le conseil communal sont compétents pour prononcer une suspension préventive à l'égard du secrétaire, du secrétaire adjoint, du receveur local et du comptable spécial.
+
+Toute suspension préventive prononcée par le collège des bourgmestre et échevins cesse immédiatement d'avoir effet si elle n'est pas confirmée par le conseil communal à sa plus prochaine réunion.
+
+###### Art. 311bis
+
+[<sup>1</sup> En cas d'urgence, la suspension préventive à titre de mesure d'ordre peut être prononcée par le secrétaire communal. Durant la période précédant la confirmation par le collège, l'agent concerné conserve sa rémunération.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2003-07-17/69, art. 42; En vigueur : 01-01-2003&gt;
+
+###### Art. 312
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; § 1er. La suspension préventive est prononcée pour un terme [<sup>1</sup> d'un an]<sup>1</sup> au plus.
+
+En cas de poursuites pénales l'autorité peut proroger ce terme pour des périodes [<sup>1</sup> d'un an]<sup>1</sup> au plus pendant la durée de la procédure pénale, moyennant le respect de la procédure visée à l'article 314.
+
+§ 2. Si aucune sanction disciplinaire n'est infligée dans le délai susvisé, tous les effets de la suspension préventive sont supprimés.
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 88, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 313
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; Lorsque le membre du personnel fait l'objet de poursuites pénales ou lorsqu'il fait l'objet de poursuites disciplinaires, l'autorité qui prononce la suspension préventive peut décider que celle-ci comportera retenue de traitement et privation des titres à l'avancement.
+
+La retenue du traitement ne peut excéder la moitié de celui-ci.
+
+La commune garantit à l'intéressé un traitement net égal au montant du [<sup>1</sup> revenu d'intégration tel que fixé en vertu de la loi du 26 mai 2002 concernant le droit à l'intégration sociale]<sup>1</sup>.
+
+En cas de prestations à temps partiel, ce montant est réduit proportionnellement à la durée des prestations.
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 89, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 314
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; Avant de pouvoir prononcer une suspension préventive, il appartient à l'autorité d'entendre l'intéressé conformément à la procédure visée au chapitre V, le délai de douze jours ouvrables fixé à l'article 301 étant toutefois réduit à cinq jours ouvrables.
+
+En cas d'extrême urgence, l'autorité peut prononcer immédiatement la suspension préventive, à charge d'entendre l'intéressé tout de suite après la décision, conformément à la procédure visée à l'alinéa 1er.
+
+###### Art. 315
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; La décision prononçant la suspension préventive est notifiée sans tarder à l'intéressé, soit par lettre recommandée à la poste, soit par remise contre accusé de réception.
+
+À défaut de notification de la décision dans un délai de dix jours ouvrables, elle est réputée rapportée. L'autorité ne peut prononcer une suspension préventive pour les mêmes faits.
+
+###### Art. 316
+
+Si une suspension préventive avec maintien du traitement complet précède la sanction disciplinaire, celle-ci entre en vigueur le jour où elle est prononcée.
+
+Si, à la suite d'une suspension préventive avec retenue de traitement et privation des titres à l'avancement, la sanction disciplinaire de l'avertissement ou de la réprimande est infligée, celle-ci entre en vigueur le jour où elle est prononcée; la suspension préventive est réputée rapportée et l'autorité rembourse le traitement retenu à l'intéressé.
+
+Si, à la suite d'une suspension préventive avec retenue de traitement et privation des titres à l'avancement, la sanction disciplinaire de la retenue de traitement, de la suspension, de la rétrogradation, de la démission d'office ou de la révocation est infligée, la sanction disciplinaire peut produire ses effets au plus tôt le jour de l'entrée en vigueur de la suspension préventive; le montant du traitement, retenu pendant la suspension préventive, est déduit du montant de la perte de traitement liée à la sanction disciplinaire; si le montant du traitement retenu est plus important que le montant de la perte de traitement liée à la sanction disciplinaire, l'autorité rembourse la différence à l'intéressé.
+
+### CHAPITRE VIII. - De la prescription de l'action disciplinaire. &lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt;
+
+###### Art. 317
+
+&lt;Inséré par L 24-05-1991, art. 1, MB 06-06-1991&gt; L'autorité disciplinaire ne peut plus intenter de poursuites disciplinaires après l'expiration d'un délai de six mois après la date à laquelle elle a constaté les faits répréhensibles ou en a pris connaissance.
+
+En cas de poursuites pénales pour les mêmes faits, ce délai prend cours le jour où l'autorité judiciaire informe l'autorité disciplinaire qu'une décision définitive est intervenue ou que la procédure pénale n'est pas poursuivie.
+
+[<sup>1</sup> Si la décision de l'autorité disciplinaire est annulée par le Conseil d'Etat ou annulée ou non approuvée par l'autorité de tutelle, l'autorité disciplinaire peut reprendre les poursuites disciplinaires à partir de la notification de l'arrêt du Conseil d'Etat ou de la décision de l'autorité de tutelle, pendant la partie du délai visé à l'alinéa premier qui restait à courir lorsque les poursuites ont été intentées.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2001-05-22/38, art. 2; En vigueur : 08-07-2001&gt;
+
+## TITRE XIV/1. [<sup>1</sup> - Droit d'expression des citoyens]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2024-02-22/01, art. 11, 028; En vigueur : 07-03-2024&gt;
+
+###### Art. 317/1
+
+[<sup>1</sup> Conformément à l'article 28 de la Constitution, chacun a le droit d'introduire des pétitions auprès des organes de la commune. Le règlement d'ordre intérieur fixe la procédure de traitement des pétitions.
+
+Les habitants de la commune peuvent également s'exprimer auprès des autorités communales sous la forme d'une interpellation devant le conseil communal ou d'une médiation organisée par le collège.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2024-02-22/01, art. 11, 028; En vigueur : 07-03-2024&gt;
+
+###### Art. 317/2
+
+[<sup>1</sup> § 1er. Vingt-cinq habitants de la commune peuvent introduire une demande d'interpellation auprès de la commune.
+
+Pour être recevable, l'interpellation doit contenir les éléments suivants:
+
+1° être rédigée en néerlandais ou en français;
+
+2° porter sur:
+
+\- un sujet d'intérêt communal au sens de l'article 117;
+
+\- un sujet relevant de la compétence de décision du collège ou du conseil communal;
+
+\- un sujet relevant de la compétence d'avis du collège ou du conseil communal dans la mesure où l'objet de cette compétence concerne le territoire communal;
+
+3° être de portée générale;
+
+4° être conforme à la Convention européenne de sauvegarde des droits de l'homme et des libertés fondamentales;
+
+5° ne pas porter sur une question de personne;
+
+6° ne pas revêtir un caractère raciste, xénophobe ou discriminatoire;
+
+7° ne pas constituer une demande d'ordre statistique;
+
+8° ne pas constituer une demande de documentation;
+
+9° ne pas avoir pour unique objet de recueillir une consultation d'ordre juridique;
+
+10° ne pas concerner une matière qui relève des séances à huis clos;
+
+11° ne pas figurer déjà à l'ordre du jour du conseil;
+
+12° ne pas avoir fait l'objet d'une demande au cours des six derniers mois;
+
+13° ne pas être déposée dans une période de six mois précédant les élections communales.
+
+Le collège décide de la recevabilité de l'interpellation. La décision d'irrecevabilité est spécialement motivée en séance du conseil communal.
+
+Pour le surplus, la procédure de recevabilité des interpellations est réglée par les dispositions du règlement d'ordre intérieur relatives aux points mis à l'ordre du jour par les membres du conseil non-membres du collège.
+
+La liste des demandes d'interpellation est communiquée aux membres du conseil communal avant chaque séance.
+
+§ 2. Le collège peut décider de renvoyer l'interpellation au conseil communal ou d'organiser une médiation citoyenne avec les signataires en vue d'aboutir à une solution concertée sur une question relevant d'un domaine de compétence communale, telle que décrite à l'article 317/3.
+
+§ 3. Si l'interpellation est renvoyée par le collège au conseil communal, le président du conseil ou, à défaut de président du conseil élu en application de l'article 8bis, le collège des bourgmestre et échevins met l'interpellation à l'ordre du jour de la prochaine séance dans l'ordre chronologique de réception des demandes, étant entendu que trois interpellations au maximum peuvent être inscrites à l'ordre du jour d'une même séance. Ceci dans un délai d'au moins sept jours francs avant la réunion du conseil communal.
+
+L'exposé de l'interpellation a lieu en début de séance. Le bourgmestre ou le membre du collège ayant ce point dans ses attributions répond à l'interpellation séance tenante.
+
+Pour le surplus, le règlement d'ordre intérieur fixe les modalités d'introduction des interpellations des habitants ainsi que la procédure en séance.
+
+Le conseil assure la publicité de la procédure d'interpellation des habitants, notamment au moyen d'une publication ad hoc sur le site de la commune.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2024-02-22/01, art. 11, 028; En vigueur : 07-03-2024&gt;
+
+###### Art. 317/3
+
+[<sup>1</sup> § 1er. Si le collège décide de mettre en place une médiation, il organise au moins une réunion dans le mois suivant sa décision d'entamer la médiation; ce délai est prolongé à due proportion s'il court entre le 1er juillet et le 31 août.
+
+Le collège des bourgmestre et échevins rédige un compte rendu à l'issue de la procédure de médiation.
+
+Au plus tard six mois après la mise en place de la médiation, la commune communique à ce sujet pour informer les citoyens:
+
+1° que la médiation a abouti, ou
+
+2° qu'aucun accord n'a pu être trouvé, ou
+
+3° que la médiation est toujours en cours et que des informations complémentaires suivront à l'issue de la procédure et en tout cas dans les six mois.
+
+§ 2. Cent habitants de la commune peuvent introduire une demande de médiation auprès du collège aux conditions de recevabilité visées à l'article 317/2, § 1er, alinéa 2.
+
+La médiation se déroule selon les modalités prévues au paragraphe 1er du présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2024-02-22/01, art. 11, 028; En vigueur : 07-03-2024&gt;
+
+## TITRE XV. - De la consultation populaire communale. &lt;Inséré par L 1995-04-10/47, art. 1, En vigueur : 01-05-1995&gt;
+
+###### Art. 318
+
+&lt;L 1999-05-13/39, art. 2, En vigueur : 01-01-2000&gt; Le conseil communal peut, soit d'initiative, soit à la demande des habitants de la commune, décider de consulter les habitants de la commune sur les matière visées aux articles 117, 118, 119, 121, 122 et 135, § 2.
+
+L'initiative émanant des habitants de la commune doit être soutenue par au moins:
+
+20 % des habitants dans les communes de moins de 15.000 habitants;
+
+3000 habitants dans les communes d'au moins 15.000 habitants et de moins de 30.000 habitants;
+
+10 % des habitants dans les communes d'au moins 30.000 habitants.
+
+###### Art. 319
+
+&lt;Inséré par L 1995-04-10/47, art. 1, En vigueur : 01-05-1995&gt; Toute demande d'organisation d'une consultation à l'initiative des [habitants de la commune] doit être adressée par lettre recommandée au collège des bourgmestre et échevins. &lt;L 1999-05-13/39, art. 3, En vigueur : 01-01-2000&gt;
+
+À la demande sont joints une note motivée et les documents de nature à informer le conseil communal.
+
+###### Art. 320
+
+&lt;Inséré par L 1995-04-10/47, art. 1, En vigueur : 01-05-1995&gt; La demande n'est recevable que pour autant qu'elle soit introduite au moyen d'un formulaire délivré par la commune et qu'elle comprenne, outre le nom de la commune et la reproduction de l'article 196 du Code pénal, les mentions suivantes:
+
+1° la ou les questions qui font l'objet de la consultation proposée;
+
+2° le nom, les prénoms, la date de naissance et le domicile de chacun des signataires de la demande;
+
+[3° le nom, les prénoms, la date de naissance et le domicile des personnes qui prennent l'initiative de demander la consultation populaire.] &lt;L 1999-05-13/39, art. 4, En vigueur : 01-01-2000&gt;
+
+###### Art. 321
+
+&lt;Inséré par L 1995-04-10/47, art. 1, En vigueur : 01-05-1995&gt; Dès réception de la demande, le collège des bourgmestre et échevins examine si la demande est soutenue par un nombre suffisant de signatures valables.
+
+Le collège des bourgmestre et échevins raye à l'occasion de cet examen:
+
+1° les signatures en double;
+
+2° les signatures des personnes [qui ne répondent pas aux conditions fixées à l'article 322, § 1er]; &lt;L 1999-05-13/39, art. 5, En vigueur : 01-01-2000&gt;
+
+3° les signatures des personnes dont les données fournies ne suffisent pas à permettre la vérification de leur identité.
+
+Le contrôle est clos lorsque le nombre de signatures valables est atteint.[Dans ce cas, le conseil communal organise une consultation populaire.] &lt;L 1999-05-13/39, art. 5, ED 01-01-2000&gt;
+
+###### Art. 322
+
+&lt;L 1999-05-13/39, art. 6, ED 01-01-2000&gt; § 1er. Pour demander une consultation populaire ou y participer, il faut:
+
+1° être inscrit ou mentionné au registre de la population de la commune;
+
+2° être âgé de seize ans accomplis;
+
+3° ne pas faire l'objet d'une condamnation ou d'une décision emportant l'exclusion ou la supension des droit électoraux de ceux qui sont appelés à voter aux élections communales.
+
+§ 2. Pour pouvoir demander une consultation populaire, les conditions prévues au § 1er, doivent être réunies à la date à laquelle la demande a été introduite.
+
+Pour pouvoir participer à la consultation populaire, les conditions prévues au § 1er, 2° et 3°, doivent être réunies le jour de la consultation et celle visée au § 1er, 1°, doit l'être à la date à laquelle la liste de ceux qui participent à la consultation populaire est arrêtée.
+
+Les participants qui, postérieurement à la date à laquelle la liste précitée est arrêtée, font l'objet d'une condamnation ou d'une décision emportant dans le chef de ceux qui sont appelés à voter aux élections communales, soit l'exclusion des droits électoraux, soit la suspension, à la date de la consultation, de ces mêmes droits, sont rayés de ladite liste.
+
+§ 3. L'article 13 du Code électoral est d'application à l'égard de toutes les catégories de personnes qui répondent aux conditions prescrites au § 1er.
+
+Pour les ressortissants non belges et pour les ressortissants belges âgés de moins de dix-huit ans, les notifications interviendront à l'initiative des parquets des cours et tribunaux dans l'hypothèse où la condamnation ou l'internement, qui ne sont plus susceptibles d'aucun recours ordinaire, auraient emporté exclusion de l'électorat ou suspension des droits électoraux s'ils avaient été prononcés à charge d'une personne appelée à voter aux élections communales.
+
+Si la notification intervient après que la liste de ceux qui participent à la consultation populaire a été arrêtée, l'intéressé est rayé de cette liste.
+
+§ 4. Le trentième jour avant la consultation, le collège des bourgmestre et échevins dresse une liste des participants à la consultation populaire.
+
+Sur cette liste sont repris:
+
+1° les personnes qui, à la date mentionnée, sont inscrites ou mentionnées au registre de la population de la commune et satisfont aux autres conditions de participation prévues au § 1er;
+
+2° les participants qui atteindront l'âge de seize ans entre cette date et la date de la consultation;
+
+3° les personnes dont la suspension des droits électoraux prendra ou prendrait fin au plus tard le jour fixé pour la consultation.
+
+Pour chaque personne satisfaisant aux conditions de participation, la liste des participants mentionne le nom, les prénoms, la date de naissance, le sexe et la résidence principale. La liste est établie selon une numérotation continue, la cas échéant par section de la commune, soit dans l'ordre alphabétique des participants, soit dans l'ordre géographique en fonction des rues.
+
+§ 5. La participation à la consultation populaire n'est pas obligatoire.
+
+Chaque participant a droit à une voix.
+
+Le scrutin est secret.
+
+La consultation populaire ne peut avoir lieu que le dimanche. Les participants sont admis au scrutin de 8 à 13 heures. Ceux qui se trouvent dans le local de vote avant 13 heures sont encore admis au scrutin.
+
+§ 6. Il n'est procédé au dépouillement que si ont participé à la consultation, au moins:
+
+20 % des habitants dans les communes de moins de 15.000 habitants;
+
+3000 habitants dans les communes d'au moins 15.000 habitants et de moins de 30.000 habitants;
+
+10 % des habitants dans les communes d'au moins 30.000 habitants.
+
+§ 7. Les dispositions de l'article [<sup>1</sup> 42bis du Code électoral communal bruxellois]<sup>1</sup> sont applicables à la consultation populaire communale, étant entendu que le mot «électeur» est remplacé par le mot «participant», que les mots «l'électeur» et «les électeurs» sont chaque fois remplacés respectivement par les mots «le participant» et «les participants», que les mots «l'élection» sont remplacés par les mots «la consultation populaire» et que les mots «les élections pour lesquelles» sont remplacés par les mots, «la consultation populaire pour laquelle».
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 90, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 323
+
+&lt;Inséré par L 1995-04-10/47, art. 1, En vigueur : 01-05-1995&gt; Les questions de personnes et les questions relatives aux comptes, aux budgets, aux taxes et rétributions communales ne peuvent faire l'objet d'une consultation.
+
+L'application de l'article 18bis de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers ne peut faire non plus l'objet d'une consultation.
+
+Nulle consultation populaire ne peut être organisée au cours des seize mois qui précèdent la réunion ordinaire des électeurs pour le renouvellement des conseils communaux. En outre, nulle consultation populaire ne peut être organisée au cours des quarante jours qui précèdent l'élection directe des membres de la Chambre des représentants, du Sénat, des Conseils et du Parlement européen.
+
+Les [habitants de la commune] ne peuvent être consultés qu'une seule fois par semestre et six foix au plus par législature. Au cours de la période qui s'étend d'un renouvellement des conseils communaux à l'autre, il ne peut être organisé qu'une seule consultation sur le même sujet. &lt;L 1999-05-13/39, art. 7, En vigueur : 01-01-2000&gt;
+
+###### Art. 324
+
+&lt;Inséré par L 1995-04-10/47, art. 1, En vigueur : 01-05-1995&gt; Une demande d'organisation d'une consultation populaire est inscrite à l'ordre du jour de la plus prochaine séance du collège des bourgmestre et échevins et du conseil communal.
+
+Il est procédé à l'inscription après la clôture du contrôle visé à l'article 321.
+
+Le collège est obligé de procéder à l'inscription à l'ordre du jour du conseil communal à moins que le conseil communal ne soit manifestement pas compétent, à aucun égard, pour décider de la demande. S'il y a des doutes à ce sujet, c'est le conseil communal qui décide.
+
+###### Art. 325
+
+&lt;Inséré par L 1995-04-10/47, art. 1, En vigueur : 01-05-1995&gt; Toute décision sur l'organisation d'une consultation populaire fait l'objet d'une motivation formelle.
+
+L'alinéa précédent s'applique également à toute décision qui concerne directement une question qui a fait l'objet d'une consultation.
+
+###### Art. 326
+
+&lt;Inséré par L 1995-04-10/47, art. 1, En vigueur : 01-05-1995&gt; Au moins un mois avant le jour de la consultation, l'administration communale met à la disposition des habitants une brochure présentant le sujet de la consultation populaire de manière objective. Cette brochure comporte en outre la note motivée, visée à l'article 319, alinéa 2, ainsi que la ou les questions sur lesquelles les habitants seront consultés.
+
+###### Art. 327
+
+&lt;Inséré par L 1995-04-10/47, art. 1, En vigueur : 01-05-1995&gt; Les questions doivent être formulées de manière à ce qu'il puisse y être répondu par oui ou non.
+
+###### Art. 328
+
+[<sup>1</sup> Le Gouvernement fixe les règles particulières relatives à la consultation populaire communale, par analogie avec la procédure visée dans le Code électoral communal bruxellois pour l'élection des conseillers communaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 91, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 329
+
+[<sup>1</sup> Le Gouvernement fixe les modalités suivant lesquelles les résultats de la consultation populaire communale sont portés à la connaissance du public.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 92, 018; En vigueur : 09-08-2020&gt;
+
+## TITRE XVbis. - De l'assurance en responsabilité civile des communes. &lt;Inséré par L 1999-05-04/85, art. 4, En vigueur : 07-08-1999&gt;
+
+###### Art. 329bis
+
+&lt;Inséré par L 1999-05-04/85, art. 4, En vigueur : 07-08-1999&gt; La commune est tenue de contracter une assurance visant à couvrir la responsabilité civile, en ce compris l'assistante en justice, qui incombe personnellement au bourgmestre et à l'échevin ou aux échevins dans l'exercice normal de leurs fonctions.
+
+Le [<sup>1</sup> Gouvernement]<sup>1</sup> arrête les modalités d'exécution de la présente disposition.
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 93, 018; En vigueur : 09-08-2020&gt;
+
+## TITRE XVI. - Les organes territoriaux intracommunaux visés à l'article 41 de la Constitution. &lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt;
+
+### CHAPITRE I. - L'administration du district. &lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt;
+
+###### Art. 330
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; Chaque administration de district comprend un conseil, appelé conseil de district, un bureau et un président.
+
+###### Art. 331
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; § 1er. Dans les communes de plus de 100.000 habitants, des organes territoriaux intracommunaux peuvent être créés à l'initiative du conseil communal. Les membres des conseils de district sont élus pour six ans par l'assemblée des électeurs communaux qui sont inscrits dans les registres de la population de la commune comme habitants de l'entité territoriale concernée. Les élections ont lieu le même jour que les élections communales. Elles sont réglées par les dispositions de la loi électorale communale.
+
+§ 2. Le nombre de membres des conseils de district, à désigner par voie d'élections, est égal aux deux tiers du nombre de sièges fixé à l'article 8 pour des entités territoriales correspondantes. Lorsque le résultat est un quotient, il est arrondi au nombre impair supérieur. L'article 5 est d'application conforme.
+
+§ 3. Les dispositions des articles 2, 4, 7, 9, 10, 11, 12, § 1er, 12bis, 17, 22, 71, 73, 75, 76, 77, 80 et 81 concernant les conseils communaux et leurs membres sont d'application conforme aux conseils de district et à leurs membres, étant entendu:
+
+1° qu'il faut remplacer, à l'article 10, deuxième, quatrième et sixième alinéas, à l'article 11, premier et deuxième alinéas, à l'article 75, deuxième alinéa, à l'article 76 et à l'article 77, deuxième et cinquième alinéas, les mots «le collège des bourgmestre et échevins», ou «le collège», par les mots «le bureau du conseil de district»;
+
+2° qu'il faut remplacer, à l'article 80, les mots «le bourgmestre» par les mots «le président du conseil de district».
+
+§ 4. Il y a incompatibilité entre l'exercice du mandat de conseiller communal et celui de membre du conseil de district. Un candidat qui a été élu conseiller communal ne peut pas remplir un mandat de membre d'un conseil de district.
+
+###### Art. 332
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; § 1er. Les conseils de district élisent en leur sein un président et les membres du bureau. Un membre du collège des bourgmestre et échevins préside la séance d'installation jusqu'à l'élection du bureau. L'élection consiste en l'approbation d'une liste de candidats. Les élus siégeant au sein du conseil peuvent présenter une telle liste. Pour ce faire, ils doivent déposer un acte de présentation daté entre les mains du président du conseil, au plus tard trois jours avant la séance du conseil à l'ordre du jour de laquelle figure l'élection du bureau. Pour être recevable, une liste de présentation doit comporter autant de candidats qu'il y a de membres du bureau du conseil de district. L'acte de présentation doit être signé par une majorité des élus de la même liste et par les candidats qui figurent sur la liste de présentation pour le bureau. Même s'il y a, parmi les candidats qui figurent sur la liste de présentation, des candidats qui ont été élus sur des listes différentes, la liste de présentation doit être signée chaque fois par la majorité des élus de chacune des listes dont un élu figure comme candidat sur la liste de présentation pour le bureau de district. Lorsque la liste sur laquelle figurait le candidat membre du bureau ne compte que deux élus, la signature d'un seul d'entre eux suffit pour que la disposition qui précède soit respectée. Sauf en cas de décès d'un candidat présenté ou de renonciation au mandat de membre du conseil de district par un candidat présenté, nul ne peut signer plus d'un acte de présentation. En cas de décès d'un candidat présenté ou de cession du mandat de membre du conseil de district par un candidat présenté, de nouvelles listes peuvent être déposées entre les mains du président de la séance, jusqu'au moment où le conseil de district à l'ordre du jour de laquelle figure l'élection du bureau se réunit. Ces listes doivent répondre aux conditions précitées.
+
+Le premier candidat de la liste de présentation devient président du conseil de district en cas d'élection. Le rang des membres du bureau correspond à l'ordre suivant lequel la liste a été établie.
+
+L'élection a lieu au scrutin secret et à la majorité absolue. Lorsqu'une seule liste a été présentée, L'élection se fait à un seul tour de scrutin. Dans tous les autres cas et, lorsqu'aucune liste n'a obtenu la majorité au terme de deux tours de scrutin, un scrutin de ballottage est organisé pour départager les deux listes qui ont obtenu le plus de voix. En cas de parité des voix au terme du scrutin de ballottage, la liste sur laquelle figure le candidat le plus jeune l'emporte.
+
+Cette séance d'installation est convoquée par le collège des bourgmestre et échevins de la commune, au plus tard le 31 janvier de l'année au cours de laquelle le mandat du conseil de district nouvellement élu prend cours.
+
+§ 2. En cas de vacance fortuite d'un mandat de membre du bureau ou de la présidence, à la suite d'une démission ou d'un décès, le conseil pourvoit à la suppléance dans les trois mois. Les élus au conseil peuvent présenter des candidats en vue de cette suppléance. Ils doivent déposer à cet effet, par mandat, un acte de présentation daté entre les mains du président du conseil, au plus tard trois jours avant la séance à l'ordre du jour de laquelle figure l'élection.
+
+Pour être recevables, les actes de présentation doivent être signés par une majorité de candidats qui ont été élus sur la même liste et par le candidat présenté. Lorsque la liste sur laquelle figure le candidat membre du bureau ou le candidat président ne compte que deux élus, la signature d'un seul d'entre eux suffit pour que la disposition précédente soit respectée. Sauf en cas de décès d'un candidat présenté ou de renonciation au mandat de membre du conseil de district par un candidat présenté, nul ne peut signer plus d'un acte de présentation pour le même mandat.
+
+L'élection a lieu au scrutin secret et à la majorité absolue, et elle comporte autant de scrutins séparés qu'il y a de mandats à conférer au cours de la séance du conseil.
+
+Lorsqu'un seul candidat a été présenté pour un mandat à conférer, l'élection se fait en un seul tour de scrutin. Dans tous les autres cas, lorsqu'aucun candidat n'a obtenu la majorité au terme de deux scrutins, un scrutin de ballottage est organisé pour départager les deux candidats qui ont obtenu le plus de voix. En cas de parité au terme de ce scrutin de ballottage, le candidat le plus âgé l'emporte.
+
+§ 3. Le nombre de membres du bureau, y compris le président, est égal aux deux tiers du nombre de membres à élire par application de l'article 6 à l'entité territoriale correspondante, sans qu'il ne puisse être supérieur à cinq. Lorsque le résultat est un quotient, il est arrondi au nombre supérieur. L'article 5 est d'application conforme.
+
+§ 4. Les dispositions des articles 3, 4, 14, 14bis, 17, 18, 19, 20, 21, 22, 72, 74, 80, 81 et 83 sont, dans la mesure où elles concernent respectivement le bourgmestre et les échevins, également applicables respectivement au président et aux membres du bureau, étant entendu:
+
+1° qu'il y a lieu de remplacer, à l'article 18, deuxième et quatrième alinéas, les mots «le collège des bourgmestre et échevins» ou «le collège» par les mots «le bureau» et que le mode de remplacement en cas d'empêchement, qui est visé au dernier alinéa, est celui qui est défini au § 2 de cet article;
+
+2° que le traitement des membres du bureau et du président est fixé par le [<sup>1</sup> Gouvernement]<sup>1</sup>, éventuellement compte tenu de l'étendue des compétences qui sont attribuées aux districts et du nombre de leurs habitants;
+
+3° que le règlement prévu à l'article 22 pour le cas où un échevin serait démissionnaire est applicable en ce qui concerne aussi bien le président que les membres du bureau. La démission est remise au conseil de district;
+
+4° qu'à l'article 80, troisième alinéa, il y a lieu de remplacer le mot «bourgmestre» par les mots «membre du collège des échevins qui préside la séance d'installation», pour ce qui est de la réception du serment des membres du bureau, et qu'à l'article 80, quatrième alinéa, il y a lieu de remplacer le mot «gouverneur» par les mots «membre du collège des échevins qui préside la séance d'installation», pour ce qui est de la réception du serment du président;
+
+5° que les dispositions de l'article 83 relatives à la suspension et à la révocation des échevins sont applicables en ce qui concerne aussi bien le président que les membres du bureau.
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 93, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 333
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; § 1er. Il y a un secrétaire dans chaque administration de district.
+
+§ 2. Le secrétaire de district est désigné par le conseil communal suivant les modalités définies à l'article 25, § 1er.
+
+§ 3. Les dispositions des articles 25, § 2, 26, 26bis, § 1er, 27, 50, 108, 108bis, 109 et 111, sont d'application conforme en ce qui concerne le secrétaire, étant entendu:
+
+1° qu'il faut y remplacer les mots «le conseil communal» par les mots «le conseil de district», les mots «le collège des bourgmestre et échevins» par les mots «le bureau du conseil de district» et les mots «le bourgmestre» par les mots «le président»;
+
+2° que le statut administratif et pécuniaire approuvé par le conseil communal est applicable aussi pour ce qui est du secrétaire;
+
+3° que les organes communaux restent compétents en matière disciplinaire vis-à-vis du secrétaire, l'avis du bureau du conseil de district devant toutefois être recueilli préalablement.
+
+### CHAPITRE II. - Réunions, discussions et décisions des conseils de district. &lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt;
+
+###### Art. 334
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; § 1er. Les dispositions des articles 84 à 101 sont d'application conforme aux conseils de district, étant entendu qu'il faut y remplacer les mots «les conseillers communaux ou le conseil communal» par les mots «les membres des conseils de district ou le conseil de district», les mots «le collège des bourgmestre et échevins» par les mots «le bureau» et les mots «le bourgmestre» par les mots «le président».
+
+§ 2. Les droits dont jouissent les membres des conseils de district en vertu de l'article 84 ne concernent que l'administration et les institutions du district.
+
+###### Art. 335
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; La consultation sur place des décisions du conseil de district ne peut pas être refusée aux conseillers communaux et aux habitants du district ou au fonctionnaire habilité à cette fin, soit par le gouverneur de province ou la députation permanente du conseil provincial, soit par le bourgmestre ou le collège des bourgmestre et échevins.
+
+### CHAPITRE III. Réunions, délibérations et décisions du bureau &lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt;
+
+###### Art. 336
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; Les dispositions des articles 103 à 106 sont d'application conforme aux réunions, délibérations et décisions du bureau, étant entendu qu'il faut y remplacer les mots «le bourgmestre» par les mots «le président» et les mots «le collège des bourgmestre et échevins» par les mots «le bureau».
+
+### CHAPITRE IV. - Dispositions applicables aux actes des autorités de district. &lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt;
+
+###### Art. 337
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; La rédaction et la publication des actes des conseils de district et de leur bureau ont lieu suivant les mêmes modalités que celles qui sont prévues pour ce qui est des actes des conseils communaux et des collèges, à cette différence près qu'il faut substituer les organes du district au conseil communal et au collège.
+
+###### Art. 338
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; Les règlements et ordonnances du conseil de district sont publiés par le président en application des dispositions de l'article 112. Ils sont obligatoires conformément aux dispositions de l'article 114.
+
+### CHAPITRE V. - Compétences. &lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt;
+
+###### Art. 339
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; Les actes des conseils de district, du bureau et du président ne peuvent être contraires ni à la Constitution, ni aux lois et arrêtés de l'autorité fédérale, ni aux décrets, ni aux ordonnances, ni aux règlements et décisions des Régions et des Communautés, ni aux décisions des autorités provinciales, ni aux décisions du conseil communal ou du collège des bourgmestre et échevins.
+
+###### Art. 340
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; § 1er.
+
+1° Le conseil communal peut déléguer aux conseils de district les compétences d'intérêt communal dont il est investi et qu'il définit.
+
+2° Le conseil communal peut déléguer aux conseils de district les compétences qui lui ont été conférées par d'autres autorités, pour autant qu'il y soit habilité par la règle qui lui a attribué cette compétence.
+
+3° Lorsqu'une autorité supérieure a confié l'exécution d'une règle déterminée au conseil communal, celui-ci peut déléguer cette mission aux conseils de district pour autant qu'il y soit habilité par la règle qui lui a attribué cette mission.
+
+§ 2.
+
+1° Le collège des bourgmestre et échevins peut déléguer aux bureaux des conseils de district les compétences d'intérêt communal dont il est investi et qu'il définit.
+
+2° Le collège des bourgmestre et échevins peut déléguer aux bureaux des conseils de district des compétences qui lui ont été conférées par d'autres autorités, pour autant qu'il y soit habilité par la règle en application de laquelle cette compétence lui a été attribuée.
+
+3° Lorsqu'une autre autorité ou le conseil communal a confié l'exécution d'une règle déterminée au collège des bourgmestre et échevins, celui-ci peut déléguer cette mission aux bureaux des conseils de district pour autant qu'il y soit habilité par la règle en application de laquelle cette mission lui a été assignée.
+
+§ 3.
+
+1° Le bourgmestre peut déléguer aux présidents des districts les compétences d'intérêt communal dont il est investi et qu'il définit.
+
+2° Le bourgmestre peut déléguer aux présidents des districts les compétences qui lui ont été conférées par d'autres autorités, pour autant qu'il y soit habilité par la règle en application de laquelle cette compétence lui a été attribuée.
+
+3° Lorsqu'une autre autorité, le conseil communal ou le collège des bourgmestre et échevins a confié l'application d'une règle déterminée au bourgmestre, celui-ci peut déléguer cette mission aux présidents des districts pour autant qu'il v soit habilité par la règle en application de laquelle cette mission lui a été confiée.
+
+§ 4. Les compétences relatives au cadre du personnel de la commune, au règlement disciplinaire, aux budgets communaux, aux comptes communaux et aux impôts communaux ne peuvent entrer en considération en vue d'une telle délégation.
+
+§ 5. Par dérogation au § 3, les compétences du bourgmestre en matière de police ne peuvent pas faire l'objet d'une telle délégation aux présidents de district.
+
+§ 6. En cas de délégation de compétences, tous les districts doivent être traités sur un pied d'égalité. Les autorités communales veillent à ce que le personnel et les moyens financiers mis à la disposition des districts en application des articles 346 et 347 de la présente loi, soient en rapport avec les compétences déléguées.
+
+###### Art. 341
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; Lorsque, de l'avis du conseil communal, un intérêt municipal requiert, dans le district, des mesures pour lesquelles le conseil de district a compétence en application de l'article 340, celui-ci prête son concours à leur exécution comme le conseil communal l'a prévu dans sa décision sur ce point.
+
+Le conseil de district prend tous les arrêtés d'exécution requis.
+
+Le conseil de district est tenu de prêter son concours, comme le premier alinéa l'y oblige, immédiatement après que la décision du conseil communal lui a été communiquée.
+
+Si le conseil de district refuse de prêter son concours, une procédure de concertation est engagée, qui sera définie dans un règlement que le conseil communal doit établir. Lorsque cette procédure de concertation ne permet pas de dégager un consensus, le bourgmestre et les échevins peuvent prévoir l'exécution de la décision du conseil communal au moyen des crédits inscrits à cet effet au budget du district. Ils ne peuvent le faire qu'après que le conseil de district a notifié son refus à l'administration communale. En l'espèce, la décision sera prise au cours de la première réunion du conseil de district suivant la communication de la décision du conseil communal. Lorsque le conseil de district ne répond pas au cours de cette première réunion, son attitude est assimilée à un refus.
+
+En cas d'urgence expressément motivée ou lorsque des circonstances contraignantes et imprévues le requièrent, le conseil communal peut, par dérogation aux premier et quatrième alinéas, charger le collège des bourgmestre et échevins de l'exécution des mesures requises, même si celles-ci relèvent de la compétence d'un conseil de district.
+
+###### Art. 342
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; Les articles 118, 119, 120 et 120bis sont également applicables aux conseils de district, étant entendu que:
+
+1° le conseil communal peut également prescrire une information préalable en application de l'article 118;
+
+2° les règlements et les ordonnances ne peuvent pas non plus être contraires aux décisions du collège des échevins et du conseil communal. Les ordonnances de police doivent, en outre, être approuvées par le conseil communal avant d'être applicables;
+
+3° dans le texte, il faut entendre par «conseil communal», «conseil de district», et par «commune», «district».
+
+###### Art. 343
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; Outre les pouvoirs décisionnels dont le conseil de district dispose sur la base de cette loi, le conseil de district a une compétence consultative générale pour toutes les matières qui ont trait au district.
+
+###### Art. 344
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; § 1er. Le bureau du conseil de district est chargé:
+
+1° de l'administration des établissements qui ont été érigés par le district;
+
+2° de la direction des travaux du district.
+
+§ 2. Le collège des échevins peut charger les bureaux des districts:
+
+1° de la gestion des établissements communaux qui sont situés dans le district;
+
+2° de la fixation des alignements conformément aux dispositions de l'article 123, 6°;
+
+3° de l'administration des propriétés des communes sises dans le district;
+
+4° de faire entretenir les chemins vicinaux et les cours d'eau, conformément aux dispositions de l'article 123, 11°.
+
+§ 3. Les articles 125 et 126 sont d'application conforme au bureau du conseil de district, étant entendu que le président se substitue au bourgmestre et que le collège des bourgmestre et échevins est remplacé par le bureau.
+
+###### Art. 345
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; Chaque conseil de district formule une proposition en vue de la constitution d'un cadre du personnel qui tienne compte de ses besoins propres et qui fera partie en tant que tel du cadre du personnel fixé par le conseil communal pour l'ensemble de la commune. Le conseil de district formule des propositions, mais la décision finale appartient toujours à l'administration communale.
+
+Après approbation du cadre du personnel par le conseil communal, le personnel destiné au district est mis à sa disposition par le collège des bourgmestre et échevins.
+
+Ces membres du personnel, qui sont employés dans les administrations de district, continuent à faire partie du cadre du personnel communal et ont le droit de se porter candidats à d'autres fonctions s'ils remplissent les conditions requises. La surveillance du personnel affecté au district, visée à l'article 123, 10°, de la nouvelle loi communale, est exercée par le bureau du conseil de district.
+
+Les organes communaux restent compétents en ce qui concerne le régime disciplinaire [...]. [Le dossier disciplinaire doit, sauf s'il concerne le secrétaire de district en personne, contenir un avis de celui-ci. L'avis doit être donné au plus tard quinze jours après qu'il a été demandé par le secrétaire communal. La procédure disciplinaire peut se poursuivre en l'absence d'avis ou si l'avis n'est pas donné dans le délai fixé.] &lt;L 2000-06-09/33, art. 2, 1° et 2°, En vigueur : 21-07-2000&gt;
+
+###### Art. 346
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; Le conseil communal fixe les critères en fonction desquels une dotation générale et/ou des dotations spécifiques imputées au budget communal sont octroyées chaque année aux districts.
+
+###### Art. 347
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; Les conseils de district sont toujours tenus de rendre préalablement un avis sur les modalités de financement des districts.
+
+###### Art. 348
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; Les dispositions relatives aux budgets et aux comptes des communes sont applicables aux budgets et aux comptes des districts, ce qui implique en particulier que:
+
+le bureau du district procède aux engagements et délivre les ordres de paiement, dans les limites du budget approuvé du district;
+
+le receveur [<sup>1</sup> communal]<sup>1</sup> est placé, pour ce qui est des compétences du conseil de district ou du bureau du conseil de district, sous l'autorité du bureau du conseil de district;
+
+l'article 99, § 2, est d'application conforme en ce qui concerne l'adoption du budget et des comptes annuels du conseil de district, étant entendu que le conseil de district se substitue au conseil communal;
+
+l'article 136bis est d'application conforme, étant entendu que le receveur peut aussi être entendu par le bureau du conseil de district concernant toutes les matières qui ont une incidence financière ou budgétaire sur l'administration du district;
+
+les articles 240 et 241 sont d'application conforme aux comptes et aux budgets des districts, étant entendu qu'il faut remplacer le conseil communal par les conseils de district concernés et qu'à l'article 241, § 1er, le mois d'octobre doit être remplacé par le mois de septembre;
+
+l'article 242 est d'application conforme aux budgets et aux comptes des districts, étant entendu que le dépôt se fait à la maison du district et que le bureau du district assure l'affichage;
+
+l'article 252 concernant l'équilibre budgétaire est l'application conforme aux budgets des districts.
+
+----------
+
+(1)&lt;ORD 2020-07-17/22, art. 94, 018; En vigueur : 09-08-2020&gt;
+
+###### Art. 349
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; Les présidents des conseils de district peuvent être convoqués aux fins d'une concertation par le collège des bourgmestre et échevins, chaque fois que la situation le requiert. Cette concertation doit en tout cas être organisée chaque année avant la confection du budget communal et avant la fixation du cadre du personnel qui doit être mis à la disposition des conseils de district. En vue de cette concertation, les présidents constituent ensemble la conférence des présidents.
+
+###### Art. 350
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; Le conseil de district a le droit, à condition qu'il respecte le règlement d'ordre intérieur adopté par le conseil communal, d'ajouter des points à l'ordre du jour du conseil communal, pour autant qu'ils aient trait à des matières d'intérêt communal qui relèvent de sa compétence.
+
+###### Art. 351
+
+&lt;Inséré par L 1999-03-19/31, art. 2, En vigueur : 10-04-1999&gt; Les articles 318 à 329 concernant le référendum communal sont applicables aux conseils de district, du moins pour ce qui est des matières d'intérêt communal qui relèvent de leurs compétences. Dans ces articles, le conseil de district et le bureau se substituent au conseil communal et au collège des bourgmestre et échevins.
+
+### ANNEXES
+
+###### Art. N1
+
+Annexe 1. Table des matières.
+
+Voir table constituée.
+
+###### Art. N2
+
+Annexe 2. Table de concordance
+
+<table><tr><td>Loi communale</td><td>Cod.</td></tr><tr><td>Art. 1.</td><td>Art. 1.</td></tr><tr><td>Art. 2: al. 1</td><td>Art. 7.</td></tr><tr><td>al. 2 à 4</td><td>Art.13.</td></tr><tr><td>al. 5 à 7</td><td>Art.15.</td></tr><tr><td>Art. 3: al. 1</td><td>Art. 16.</td></tr><tr><td>al. 2</td><td>Art. 103.</td></tr><tr><td>Art. 4.</td><td>Art. 8.</td></tr><tr><td>Art. 6.</td><td>Art. 23.</td></tr><tr><td>Art. 19.</td><td>Art. 5.</td></tr><tr><td>Art. 20.</td><td>Art. 6.</td></tr><tr><td>Art. 53.</td><td>Art. 79.</td></tr><tr><td>Art. 56: al. 1</td><td>Art. 82.</td></tr><tr><td>al.2 et 3</td><td>Art.83.</td></tr><tr><td>Art. 62: al.1</td><td>Art. 85.</td></tr><tr><td>al.2 et 3</td><td>Art.86.</td></tr><tr><td>Art. 63: al.1</td><td>Art. 87.</td></tr><tr><td>al.2, 3 et 4</td><td>Art. 97.</td></tr><tr><td>Art. 64.</td><td>Art. 90.</td></tr><tr><td>Art. 65: al.1 et 2</td><td>Art. 88.</td></tr><tr><td>al.3</td><td>Art.99.</td></tr><tr><td>Art. 66: al.1 et 2</td><td>Art. 100.</td></tr><tr><td>al.3 et 6</td><td>Art.101.</td></tr><tr><td>Art. 67.</td><td>Art. 89.</td></tr><tr><td>Art. 68.</td><td>Art. 92.</td></tr><tr><td>Art. 69: al.1 et 2</td><td>Art. 102.</td></tr><tr><td>al.3</td><td>Art.84.</td></tr><tr><td>Art. 70.</td><td>Art. 96.</td></tr><tr><td>Art. 71: al.1 et 2</td><td>Art. 93.</td></tr><tr><td>al.3 et 4</td><td>Art.94.</td></tr><tr><td>al.5</td><td>Art.95.</td></tr><tr><td>Art. 72.</td><td>Art. 98.</td></tr><tr><td>Art. 73.</td><td>Art. 91.</td></tr><tr><td>Art. 74.</td><td>Art. 12.</td></tr><tr><td>Art. 75: al.1</td><td>Art. 117.</td></tr><tr><td>al.2 et 3</td><td>Art.119.</td></tr><tr><td>al.4</td><td>Art.118.</td></tr><tr><td>Art. 76.</td><td>Art. 231, Art. 243 et Art. 274.</td></tr><tr><td>Art. 77: phrase liminaire et 8° et 9°</td><td>Art. 244: §1</td></tr><tr><td>al.2 à 5</td><td>244: §3</td></tr><tr><td>Art. 78.</td><td>Art. 120.</td></tr><tr><td>Art. 79.</td><td>Art. 276.</td></tr><tr><td>Art. 81.</td><td>Art. 232.</td></tr><tr><td>Art. 82.</td><td>Art. 233.</td></tr><tr><td>Art. 82bis: §1</td><td>Art. 234.</td></tr><tr><td>§2</td><td>Art. 235.</td></tr><tr><td>§3</td><td>Art. 236.</td></tr><tr><td>§4</td><td>Art. 237.</td></tr><tr><td>Art. 83.</td><td>Art. 123 et 278.</td></tr><tr><td>Art. 84: §1, al.1</td><td>Art. 145.</td></tr><tr><td>al.2 à 5</td><td>Art.146: §§1 et 3</td></tr><tr><td>§2</td><td>Art. 149.</td></tr><tr><td>Art. 84bis.</td><td>Art. 120.</td></tr><tr><td>Art. 85: al.1</td><td>Art. 150: §1</td></tr><tr><td>al.2</td><td>Art.150: §§1 et 4</td></tr><tr><td>Art. 85bis: al.1</td><td>Art. 150: §2</td></tr><tr><td>al.2</td><td>Art.150: §§1 et 4</td></tr><tr><td>Art. 86.</td><td>Art. 254.</td></tr><tr><td>Art. 87: al.1</td><td>Art. 265: §§1 et 3.</td></tr><tr><td>al.2</td><td>Art.265: §§1 et 3.</td></tr><tr><td>al.3 et 4</td><td>Art.265: §3.</td></tr><tr><td>al.5</td><td>Art.265: §4.</td></tr><tr><td>Art. 88.</td><td>Art. 268.</td></tr><tr><td>Art. 89: al.2, 1ère phrase</td><td>Art. 104.</td></tr><tr><td>2e et 3e phrases</td><td>Art. 105.</td></tr><tr><td>al.2 et 3</td><td>Art.106.</td></tr><tr><td>al.4</td><td>Art.107.</td></tr><tr><td>Art. 90: al.1</td><td>Art. 123.</td></tr><tr><td>al.2 et 3</td><td>Art.134.</td></tr><tr><td>Art. 91: al.1 et 2</td><td>Art. 129.</td></tr><tr><td>al.3</td><td>Art.277.</td></tr><tr><td>Art. 92.</td><td>Art. 125.</td></tr><tr><td>Art. 93: al.1, 1e phrase</td><td>Art. 126.</td></tr><tr><td>al.2</td><td>Art.126.</td></tr><tr><td>al.3, 1e phrase</td><td>Art. 154.</td></tr><tr><td>2e phrase</td><td>Art.126.</td></tr><tr><td>al.4</td><td>Art.155: §§1 et 3.</td></tr><tr><td>al.5</td><td>Art.155: §3.</td></tr><tr><td>Art. 93bis.</td><td>Art. 127.</td></tr><tr><td>Art. 93ter.</td><td>Art. 128.</td></tr><tr><td>Art. 94.</td><td>Art. 135: §1.</td></tr><tr><td>Art. 95.</td><td>Art. 130.</td></tr><tr><td>Art. 97.</td><td>Art. 131.</td></tr><tr><td>Art. 98: al.1 et 2</td><td>Art. 132.</td></tr><tr><td>Art. 99: al.1</td><td>Art. 151.</td></tr><tr><td>al.2</td><td>Art.38: al.2 et Art. 40 et Art. 41.</td></tr><tr><td>Art. 100.</td><td>Art. 133.</td></tr><tr><td>Art. 101: 1°</td><td>Art. 109.</td></tr><tr><td>2°</td><td>Art.110.</td></tr><tr><td>3°</td><td>Art.111.</td></tr><tr><td>Art. 102: al.1 et 2</td><td>Art. 112.</td></tr><tr><td>al.3</td><td>Art.114: al.1</td></tr><tr><td>al.4</td><td>Art.113.</td></tr><tr><td>al.5</td><td>Art.114, al.2</td></tr><tr><td>al.6</td><td>Art.115.</td></tr><tr><td>Art. 103</td><td>Art. 19</td></tr><tr><td>Art. 104</td><td>Art. 21</td></tr><tr><td>Art. 107: al.1</td><td>Art. 14.</td></tr><tr><td>al.2</td><td>Art.17: al.1</td></tr><tr><td>al.3</td><td>Art.10.</td></tr><tr><td>al.4 et 5</td><td>Art.11.</td></tr><tr><td>al.6</td><td>Art.17: al.2.</td></tr><tr><td>Art. 108.</td><td>Art. 20.</td></tr><tr><td>Art. 109: al.1</td><td>Art. 25: al.1 et Art. 36: al.1 et Art. 40 et Art. 41: al.2.</td></tr><tr><td>al.3</td><td>Art.36: al.3 et Art. 40 et Art. 41.</td></tr><tr><td>al.4</td><td>Art.36: al.4 et Art. 40 et Art. 41.</td></tr><tr><td>al.5</td><td>Art.37 et Art. 40 et Art. 41.</td></tr><tr><td>al.6</td><td>Art.38 et Art. 39 et Art. 40 et Art. 41.</td></tr><tr><td>Art. 109bis.</td><td>Art. 24: §1.</td></tr><tr><td>Art. 110: al.1</td><td>Art. 50.</td></tr><tr><td>al.2</td><td>Art.51.</td></tr><tr><td>Art. 110bis.</td><td>Art. 27.</td></tr><tr><td>Art. 111: §1, al.1</td><td>Art. 28: §1</td></tr><tr><td>§1, al.3 à 7</td><td>Art. 30.</td></tr><tr><td>§2</td><td>Art.31.</td></tr><tr><td>§3</td><td>Art.32.</td></tr><tr><td>§4</td><td>Art.33.</td></tr><tr><td>§5</td><td>Art.34.</td></tr><tr><td>§6</td><td>Art.35.</td></tr><tr><td>Art. 112.</td><td>Art. 108.</td></tr><tr><td>Art. 113.</td><td>Art. 26.</td></tr><tr><td>Art. 114: al.1, 1°</td><td>Art. 53 et Art. 54.</td></tr><tr><td>al.1, 1° et 2°</td><td>Art.52: al.1</td></tr><tr><td>al.2</td><td>Art.52: al.2</td></tr><tr><td>al.3</td><td>Art.54.</td></tr><tr><td>Art. 114bis:al.1</td><td>Art. 68: §1, al.1</td></tr><tr><td>al.2</td><td>Art.68: §1, al.3</td></tr><tr><td>al.3</td><td>Art.68: §3.</td></tr><tr><td>al.4</td><td>Art.69.</td></tr><tr><td>Art. 114ter.</td><td>Art. 142.</td></tr><tr><td>Art. 115.</td><td>Art. 55.</td></tr><tr><td>Art. 116: al.1 et 2</td><td>Art. 56.</td></tr><tr><td>al.3</td><td>Art.57.</td></tr><tr><td>Art. 117: al.1</td><td>Art. 58.</td></tr><tr><td>al.2</td><td>Art.62.</td></tr><tr><td>Art. 117bis:al.1 et 3</td><td>Art. 59.</td></tr><tr><td>al.4</td><td>Art.60.</td></tr><tr><td>Art. 118.</td><td>Art. 64.</td></tr><tr><td>Art. 119.</td><td>Art. 61.</td></tr><tr><td>Art. 120.</td><td>Art. 63.</td></tr><tr><td>Art. 121: al.1 et 2</td><td>Art. 136.</td></tr><tr><td>al.3</td><td>Art.137.</td></tr><tr><td>al.4</td><td>Art.138.</td></tr><tr><td>Art. 121bis.</td><td>Art. 139.</td></tr><tr><td>Art. 122: al.1 et 4</td><td>Art. 65: §1.</td></tr><tr><td>al.5</td><td>Art.67.</td></tr><tr><td>al.6</td><td>Art.169.</td></tr><tr><td>Art. 122bis:al.1 et 3</td><td>Art. 140.</td></tr><tr><td>al.4</td><td>Art.141.</td></tr><tr><td>al.5</td><td>Art.141.</td></tr><tr><td>Art. 122ter.</td><td>Art. 70.</td></tr><tr><td>Art. 130.</td><td>Art. 129 et Art. 68.</td></tr><tr><td>Art. 130bis.</td><td>Art. 152: §1.</td></tr><tr><td>Art. 131.</td><td>Art. 255.</td></tr><tr><td>Art. 132.</td><td>Art. 256.</td></tr><tr><td>Art. 133: al.1 et 2</td><td>Art. 257.</td></tr><tr><td>al.3</td><td>Art.258.</td></tr><tr><td>Art. 134.</td><td>Art. 259.</td></tr><tr><td>Art. 138.</td><td>Art. 260.</td></tr><tr><td>Art. 139: al.1 à 4</td><td>Art. 238.</td></tr><tr><td>al.5</td><td>Art. 239.</td></tr><tr><td>Art. 139bis:al.1 et 2</td><td>Art. 240.</td></tr><tr><td>al.3 et 4</td><td>Art.241.</td></tr><tr><td>Art. 140.</td><td>Art. 242.</td></tr><tr><td>Art. 141: al.1</td><td>Art. 244: §1</td></tr><tr><td>al.3</td><td>Art.245.</td></tr><tr><td>Art. 142.</td><td>Art. 246.</td></tr><tr><td>Art. 143.</td><td>Art. 247.</td></tr><tr><td>Art. 144.</td><td>Art. 248.</td></tr><tr><td>Art. 145.</td><td>Art. 249.</td></tr><tr><td>Art. 146.</td><td>Art. 250.</td></tr><tr><td>Art. 147.</td><td>Art. 251.</td></tr><tr><td>Art. 147bis.</td><td>Art. 261.</td></tr><tr><td>Art. 147ter.</td><td>Art. 262.</td></tr><tr><td>Art. 147quater.</td><td>Art. 263.</td></tr><tr><td>Art. 148.</td><td>Art. 270.</td></tr><tr><td>Art. 150.</td><td>Art. 271.</td></tr><tr><td>Art. 151.</td><td>Art. 272.</td></tr><tr><td>Art. 152.</td><td>Art. 273.</td></tr><tr><td>Art. 153.</td><td>Art. 170.</td></tr><tr><td>Art. 154.</td><td>Art. 171.</td></tr><tr><td>Art. 155.</td><td>Art. 172.</td></tr><tr><td>Art. 156.</td><td>Art. 173.</td></tr><tr><td>Art. 157.</td><td>Art. 174.</td></tr><tr><td>Art. 158.</td><td>Art. 175.</td></tr><tr><td>Art. 159.</td><td>Art. 176.</td></tr><tr><td>Art. 160.</td><td>Art. 177.</td></tr><tr><td>Art. 161.</td><td>Art. 178.</td></tr><tr><td>Art. 162.</td><td>Art. 179.</td></tr><tr><td>Art. 163.</td><td>Art. 180.</td></tr><tr><td>Art. 164.</td><td>Art. 181.</td></tr><tr><td>Art. 165.</td><td>Art. 182.</td></tr><tr><td>Art. 166.</td><td>Art. 183.</td></tr><tr><td>Art. 167.</td><td>Art. 184.</td></tr><tr><td>Art. 168.</td><td>Art. 185.</td></tr><tr><td>Art. 169.</td><td>Art. 186.</td></tr><tr><td>Art. 170.</td><td>Art. 187.</td></tr><tr><td>Art. 171.</td><td>Art. 188.</td></tr><tr><td>Art. 172.</td><td>Art. 189.</td></tr><tr><td>Art. 173.</td><td>Art. 190.</td></tr><tr><td>Art. 174.</td><td>Art. 191.</td></tr><tr><td>Art. 175.</td><td>Art. 192.</td></tr><tr><td>Art. 176.</td><td>Art. 193.</td></tr><tr><td>Art. 177.</td><td>Art. 194.</td></tr><tr><td>Art. 178: §1</td><td>Art. 195.</td></tr><tr><td>§2</td><td>Art.197.</td></tr><tr><td>§3</td><td>Art.198.</td></tr><tr><td>Art. 179.</td><td>Art. 199.</td></tr><tr><td>Art. 180.</td><td>Art. 200.</td></tr><tr><td>Art. 181: al.1</td><td>Art. 201.</td></tr><tr><td>al.2 et 3</td><td>Art.202.</td></tr><tr><td>Art. 182.</td><td>Art. 203.</td></tr><tr><td>Art. 183.</td><td>Art. 204.</td></tr><tr><td>Art. 184.</td><td>Art. 205.</td></tr><tr><td>Art. 185.</td><td>Art. 206.</td></tr><tr><td>Art. 186: al.1 à 4</td><td>Art. 207.</td></tr><tr><td>al.5</td><td>Art.208.</td></tr><tr><td>al.6</td><td>Art.209.</td></tr><tr><td>Art. 187: §1</td><td>Art. 210.</td></tr><tr><td>§2</td><td>Art.211.</td></tr><tr><td>§3 et 4</td><td>Art.212.</td></tr><tr><td>Art. 188.</td><td>Art. 213.</td></tr><tr><td>Art. 189.</td><td>Art. 214.</td></tr><tr><td>Art. 190.</td><td>Art. 215.</td></tr><tr><td>Art. 191.</td><td>Art. 216.</td></tr><tr><td>Art. 192: al.1 et 2</td><td>Art. 217.</td></tr><tr><td>al.3</td><td>Art.218.</td></tr><tr><td>al.4</td><td>Art.219.</td></tr><tr><td>Art. 193.</td><td>Art. 220.</td></tr><tr><td>Art. 194.</td><td>Art. 221.</td></tr><tr><td>Art. 195: al.1</td><td>Art. 222.</td></tr><tr><td>al.2</td><td>Art.223.</td></tr><tr><td>Art. 196.</td><td>Art. 224.</td></tr><tr><td>Art. 197.</td><td>Art. 225.</td></tr><tr><td>Art. 198.</td><td>Art. 226.</td></tr><tr><td>Art. 199.</td><td>Art. 227.</td></tr><tr><td>Art. 200: §1</td><td>Art. 228.</td></tr><tr><td>§2</td><td>Art.229.</td></tr><tr><td>Art. 201.</td><td>Art. 230.</td></tr><tr><td>----------</td><td>----------</td></tr><tr><td>Loi du 1er juillet 1860</td><td>Cod.</td></tr><tr><td>Art. 1.</td><td>Art. 80: al.1</td></tr><tr><td>Art. 2: al.1 et 2</td><td>Art. 80: al.2 et 3</td></tr><tr><td>Art. 2: al.3</td><td>Art. 81.</td></tr><tr><td>Loi du 26 mai 1882.</td><td> </td></tr><tr><td>Art. 4.</td><td>Art. 275.</td></tr><tr><td>Loi du 21 décembre 1927.</td><td> </td></tr><tr><td>Art. 7: al.1, 2, 4, 5 et 6</td><td>Art. 153: §1</td></tr><tr><td>al.3</td><td>Art. 195.</td></tr><tr><td>Loi électorale communale</td><td> </td></tr><tr><td>Art. 67.</td><td>Art. 71.</td></tr><tr><td>Art. 68.</td><td>Art. 72.</td></tr><tr><td>Art. 69.</td><td>Art. 73.</td></tr><tr><td>Art. 70: al.1 et 6</td><td>Art. 78.</td></tr><tr><td>al.7 et 8</td><td>Art.74: §1</td></tr><tr><td>Art. 71.</td><td>Art. 75.</td></tr><tr><td>Art. 72.</td><td>Art. 76.</td></tr><tr><td>Art. 73.</td><td>Art. 77.</td></tr><tr><td>Art. 78.</td><td>Art. 2.</td></tr><tr><td>Art. 79.</td><td>Art. 3.</td></tr><tr><td>Art. 80.</td><td>Art. 22.</td></tr><tr><td>Art. 81.</td><td>Art. 9.</td></tr><tr><td>Art. 82.</td><td>Art. 10.</td></tr><tr><td>Art. 83.</td><td>Art. 4.</td></tr><tr><td>Loi du 25 avril 1933.</td><td> </td></tr><tr><td>Article 1 : al.1 à 3</td><td>Art. 156.</td></tr><tr><td>al.4</td><td>Art.158: al.1</td></tr><tr><td>al.5</td><td>Art.159.</td></tr><tr><td>Art. 3.</td><td>Art. 161.</td></tr><tr><td>Art. 5.</td><td>Art. 162.</td></tr><tr><td>Art. 6.</td><td>Art. 166.</td></tr><tr><td>Art. 8.</td><td>Art. 167.</td></tr><tr><td>Art. 9.</td><td>Art. 163.</td></tr><tr><td>Art. 10.</td><td>Art. 164.</td></tr><tr><td>Art. 10bis.</td><td>Art. 160.</td></tr><tr><td>Art. 11.</td><td>Art. 165.</td></tr><tr><td>Art. 12.</td><td>Art. 168.</td></tr><tr><td>Arrêté-loi</td><td>Cod.</td></tr><tr><td>Arrêté-loi du 23 décembre 1946.</td><td> </td></tr><tr><td>Art. 1.</td><td>Art. 42.</td></tr><tr><td>Art. 2.</td><td>Art. 43.</td></tr><tr><td>Art. 3.</td><td>Art. 44.</td></tr><tr><td>Art. 4.</td><td>Art. 45.</td></tr><tr><td>Art. 5.</td><td>Art. 46.</td></tr><tr><td>Art. 6.</td><td>Art. 47.</td></tr><tr><td>Art. 8.</td><td>Art. 48.</td></tr><tr><td>Art. 9.</td><td>Art. 49.</td></tr><tr><td>Loi du 21 août 1948.</td><td> </td></tr><tr><td>Article 1. al. 2</td><td>Art. 122.</td></tr><tr><td>Loi du 14 février 1961.</td><td> </td></tr><tr><td>Art. 71: §1, al.2</td><td>Art. 147: §1</td></tr><tr><td>Art. 72.</td><td>Art. 148.</td></tr><tr><td>Loi du 27 juillet 1961.</td><td> </td></tr><tr><td>Art. 9.</td><td>Art. 144.</td></tr><tr><td>Loi du 26 juillet 1971.</td><td> </td></tr><tr><td>Art. 56: §3</td><td>Art. 267.</td></tr><tr><td>§4</td><td>Art. 268.</td></tr><tr><td>§6</td><td>Art. 269.</td></tr><tr><td>Loi du 29 juin 1976.</td><td> </td></tr><tr><td>Art. 11: al.2</td><td>Art. 158: al.2</td></tr><tr><td>Art. 37.</td><td>Art. 157.</td></tr><tr><td>Loi du 9 août 1980.</td><td> </td></tr><tr><td>Art. 46: al.1</td><td>Art. 116.</td></tr><tr><td>----------</td><td>----------</td></tr><tr><td>Arrêté royal n° 110 du 13 décembre 1982.</td><td>Cod.</td></tr><tr><td>Art. 1.</td><td>Art. 252.</td></tr><tr><td>Art. 2.</td><td>Art. 253.</td></tr><tr><td>Art. 3.</td><td>Art. 254.</td></tr></table>
