@@ -1,0 +1,74 @@
+---
+title: "Loi modifiant des dispositions législatives en ce qui concerne la transparence des conventions en matière de spécialités remboursables"
+identifier: "2020202642"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/04/2020202642/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2020-05-04
+published: 2020-06-17
+entry_into_force: 2020-06-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/04/2020202642/justel"
+department: "Sécurité sociale"
+retrieved: 2026-10-11
+---
+
+# 4 MAI 2020. - Loi modifiant des dispositions législatives en ce qui concerne la transparence des conventions en matière de spécialités remboursables
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution
+
+## Art. 2
+
+L'article 11 de la loi du 1er avril 2019 portant des dispositions en matière de remboursement des spécialités pharmaceutiques ainsi que de frais d'administration, d'efficacité et de transparence des organismes assureurs, est complété par un alinéa 2 rédigé comme suit:
+
+" Par dérogation à l'alinéa 1er, lorsqu'une mission visée à l'article 5 de la loi du 29 octobre 1846 relative à l'organisation de la Cour des comptes lui est confiée par la Chambre des représentants, la Cour des comptes, afin de pouvoir mener à bien cette mission, a accès à la totalité des conventions visées à l'alinéa 1er, y compris les annexes confidentielles. ".
+
+## Art. 3
+
+Dans l'article 35bis, § 7, de la loi relative à l'assurance obligatoire soins de santé et indemnités coordonnée le 14 juillet 1994, inséré par la loi du 10 août 2001 et modifié en dernier lieu par la loi du 7 avril 2019, les modifications suivantes sont apportées:
+
+a) l'alinéa 5 est complété par un 3° rédigé comme suit:
+
+"3° en cas de mission confiée par la Chambre des représentants à la Cour des comptes, en application de l'article 11, alinéa 2, de la loi du 1er avril 2019 portant des dispositions en matière de remboursement des spécialités pharmaceutiques ainsi que de frais d'administration, d'efficacité et de transparence des organismes assureurs;";
+
+b) un alinéa rédigé comme suit est inséré entre les alinéas 7 et 8:
+
+"Dans les cas visés à l'alinéa 5, 3°, l'Institut partage les informations qualifiées de confidentielles par les parties avec la Cour des comptes.".
+
+## Art. 4
+
+Pour l'application de la présente loi, les articles 33 et 34 du règlement d'ordre de la Cour des comptes ne s'appliquent pas aux informations qualifiées de confidentielles en vertu de l'article 35bis, § 7, alinéa 3, de la loi relative à l'assurance obligatoire soins de santé et indemnités coordonnée le 14 juillet 1994.
+
+## Art. 5
+
+La présente loi s'applique aux conventions qui sont conclues après son entrée en vigueur.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 4 mai 2020.
+
+PHILIPPE
+
+Par le Roi :
+
+La Ministre des Affaires sociales et de la Santé publique,
+
+M. DE BLOCK
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS

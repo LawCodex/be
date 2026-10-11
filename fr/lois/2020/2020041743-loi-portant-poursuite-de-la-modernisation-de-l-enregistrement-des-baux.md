@@ -1,0 +1,78 @@
+---
+title: "Loi portant poursuite de la modernisation de l'enregistrement des baux"
+identifier: "2020041743"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/11/2020041743/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2020-06-11
+published: 2020-06-19
+entry_into_force: 2020-06-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/11/2020041743/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 11 JUIN 2020. - Loi portant poursuite de la modernisation de l'enregistrement des baux
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+Dans le Code des droits d'enregistrement, d'hypothèque et de greffe, il est inséré un article 2quater rédigé comme suit :
+
+"Art.2quater. L'enregistrement d'un acte visé à l'article 19, alinéa 1er, 3°, avec ou sans annexes, ou d'un état des lieux présenté séparément de l'acte visé ci-avant, est subordonné, en cas de présentation sur un support papier, à la présentation en même temps que les documents à enregistrer, d'un formulaire, entièrement et lisiblement complété, dont le Roi établit le modèle.
+
+Le formulaire peut comprendre la mention obligatoire du numéro d'identification ou du numéro d'entreprise, visé à l'article 2, alinéa 4, des parties à l'acte, lorsque ce numéro est disponible.
+
+La présentation à l'enregistrement des documents visés à l'alinéa 1er lieu soit par envoi, via un prestataire de service postal, à l'adresse à déterminer par le Roi, soit par dépôt dans une boîte aux lettres déterminée par le Roi.
+
+En cas de refus d'exécuter la formalité de l'enregistrement en raison du non-respect des dispositions qui précèdent, le requérant en est informé.
+
+Le présent article n'est pas d'application dans le cas visé à l'article 25.".
+
+## Art. 3
+
+L'article 5 du même Code, rétabli par la loi du 28 avril 2019, est abrogé.
+
+## Art. 4
+
+Dans l'article 8, alinéa 2 du même Code, inséré par la loi du 28 avril 2019, les mots "article 5" sont remplacés par les mots "article 2quater".
+
+## Art. 5
+
+Dans l'article 83, alinéa 3, du même Code, modifié par la loi-programme du 28 juin 2013, les mots "de l'article 161, 12° " sont remplacés par les mots "des articles 2quater et 161, 12° ".
+
+## Art. 6
+
+Dans l'article 2, alinéa 4, du même Code, inséré par la loi du 22 décembre 2009 et modifié par la loi du 21 décembre 2013, les mots "article 5 de la loi du 16 janvier 2003 portant création d'une Banque-Carrefour des Entreprises, modernisation du registre de commerce, création de guichets-entreprises agréés et portant diverses dispositions" sont remplacés par les mots "article III. 17 du Code de droit économique".
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 11 juin 2020.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre des Finances,
+
+A. DE CROO
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS

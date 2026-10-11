@@ -1,0 +1,60 @@
+---
+title: "Loi portant suspension de certains délais relatifs à la sécurité civile"
+identifier: "2020041389"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/11/2020041389/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2020-05-11
+published: 2020-05-20
+entry_into_force: 2020-03-18
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/11/2020041389/justel"
+department: "Intérieur"
+retrieved: 2026-10-11
+---
+
+# 11 MAI 2020. - Loi portant suspension de certains délais relatifs à la sécurité civile
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+Les délais de rigueur et de recours visés par la loi du 15 mai 2007 relative à la sécurité civile sont suspendus à partir du 18 mars 2020 pour une période de soixante jours.
+
+## Art. 3
+
+Les délais visés au livre 7 et au livre 10, titre 4, de l'arrêté royal du 19 avril 2014 relatif au statut administratif du personnel opérationnel des zones de secours sont suspendus à partir du 18 mars 2020 pour une période de soixante jours.
+
+## Art. 4
+
+La présente loi produit ses effets le 18 mars 2020.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 11 mai 2020.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de la Sécurité et de l'Intérieur,
+
+P. DE CREM
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS

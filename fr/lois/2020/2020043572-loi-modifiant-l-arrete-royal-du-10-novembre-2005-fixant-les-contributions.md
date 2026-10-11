@@ -1,0 +1,64 @@
+---
+title: "Loi modifiant l'arrêté royal du 10 novembre 2005 fixant les contributions visées à l'article 4 de la loi du 9 décembre 2004 relative au financement de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire"
+identifier: "2020043572"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2020/10/27/2020043572/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2020-10-27
+published: 2020-11-13
+entry_into_force: 2020-11-23
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2020/10/27/2020043572/justel"
+department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
+retrieved: 2026-10-11
+---
+
+# 27 OCTOBRE 2020. - Loi modifiant l'arrêté royal du 10 novembre 2005 fixant les contributions visées à l'article 4 de la loi du 9 décembre 2004 relative au financement de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+L'article 3 de l'arrêté royal du 10 novembre 2005 fixant les contributions visées à l'article 4 de la loi du 9 décembre 2004 relative au financement de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire, remplacé par la loi du 22 décembre 2008 et modifié par la loi du 25 décembre 2017, est complété par les alinéas suivants:
+
+"Par dérogation à l'alinéa 1er, les opérateurs du secteur du commerce de détail ambulant et du secteur de l'horeca ne sont redevables d'aucune contribution pour l'année 2020.
+
+Sont suspendus l'attribution et/ou le versement de toute aide dans le cadre du régime notifié à toute entreprise ayant bénéficié d'une aide illégale antérieure déclarée incompatible avec le marché intérieur par une décision de la Commission européenne, qu'il s'agisse d'une aide individuelle ou d'une aide octroyée dans le cadre d'un régime d'aides déclaré incompatible avec le marché intérieur, jusqu'à ce que cette entreprise ait remboursé ou versé sur un compte bloqué le montant total de l'aide illégale et incompatible avec le marché intérieur et les intérêts de récupération correspondants.".
+
+## Art. 3
+
+Le Roi peut modifier, compléter, remplacer ou abroger les dispositions modifiées par la présente loi.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 27 octobre 2020.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de la Santé publique,
+
+Fr. VANDENBROUCKE
+
+Le Ministre de l'Agriculture,
+
+D. CLARINVAL
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+V. VAN QUICKENBORNE

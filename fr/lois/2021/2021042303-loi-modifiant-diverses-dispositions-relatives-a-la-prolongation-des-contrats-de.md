@@ -1,0 +1,116 @@
+---
+title: "Loi modifiant diverses dispositions relatives à la prolongation des contrats de fourniture d'énergie des clients résidentiels et des PME"
+identifier: "2021042303"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/04/2021042303/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2021-06-04
+published: 2021-06-30
+entry_into_force: 2022-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/04/2021042303/justel"
+department: "Economie, PME, Classes moyennes et Energie"
+retrieved: 2026-10-11
+---
+
+# 4 JUIN 2021. - Loi modifiant diverses dispositions relatives à la prolongation des contrats de fourniture d'énergie des clients résidentiels et des PME
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+L'article 1er de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations, modifié en dernier lieu par la loi du 12 juin 2020, est complété par les 80° et 81°, rédigés comme suit:
+
+"80° "produit actif" : l'offre d'un contrat pour la fourniture d'énergie aux clients résidentiels et/ ou aux PME, qui peut être souscrite par ceux-ci sur le site web ou l'application du fournisseur et/ou via des comparateurs de prix, et aussi éventuellement par d'autres canaux publics;
+
+81° "produit équivalent le moins cher" : l'offre de contrat standard pour la fourniture de gaz naturel aux clients résidentiels et/ou aux PME la moins chère de la gamme du fournisseur et ayant les mêmes caractéristiques que le contrat en cours du client, notamment en ce qui concerne les critères suivants : prix fixe ou variable, durée du contrat en cas de durée déterminée, services compris dans le contrat, contrat exclusivement en ligne ou non, énergie verte ou grise.
+
+## Art. 3
+
+L'article 15/5bis de la même loi, inséré par la loi du 1er juin 2005, est complété par les § § 11/2/1 et 11/2/2 rédigés comme suit:
+
+" § 11/2/1. Lorsque le contrat à durée déterminée d'un client résidentiel ou d'une PME arrive à expiration, le fournisseur fournit au moins deux mois avant la date d'expiration du contrat, un aperçu de tous ses produits qui sont actifs à ce moment. Le fournisseur informe le client résidentiel ou la PME expressément et d'une façon bien visible qu'il peut vérifier sur les sites internet des régulateurs régionaux quel est le produit le moins cher. Cette information a lieu par le biais d'une communication sans ambiguïté reprenant un hyperlien vers la page internet du régulateur concerné sur laquelle la comparaison des prix peut être effectuée. Cet aperçu est fourni au client résidentiel ou à la PME par les mêmes moyens que ceux normalement utilisés pour communiquer avec le client dans le cadre du contrat en cours.
+
+Lorsque le produit correspondant n'est plus un produit actif ou lorsque le prix du produit diffère du prix actuel du produit actif, le fournisseur en informe le client résidentiel ou la PME au moment de la communication visée à l'alinéa précédent. Le fournisseur transmet en même temps au client résidentiel ou à la PME une nouvelle proposition de contrat. Le fournisseur explique clairement, sans équivoque et de façon spécifique en quoi les nouvelles conditions proposées diffèrent du contrat existant. Le fournisseur demande au client de confirmer explicitement son accord sur la nouvelle proposition par lettre ou sur tout autre support durable.
+
+Si le client résidentiel ou la PME n'a pas réagi à cette demande avant la date de fin du contrat en cours, le fournisseur lui attribue le produit équivalent le moins cher à durée déterminée qu'il propose sur le marché à ce moment-là.
+
+Le fournisseur en informe explicitement le client résidentiel ou la PME par lettre ou sur tout autre support durable. Une confirmation n'est pas exigée si, lors de la nouvelle proposition de contrat, le fournisseur a proposé le produit équivalent au tarif le moins cher et a mentionné qu'en l'absence de réaction, ce produit serait attribué.
+
+§ 11/2/2. Lorsque le contrat à durée indéterminée d'un client résidentiel ou d'une PME concerne un produit qui n'est plus actif et n'est pas soumis à une garantie contractuelle de prix, le fournisseur communique au client résidentiel ou à la PME au moins deux mois à l'avance un aperçu de tous ses produits actifs actuels. Le fournisseur informe le client résidentiel ou la PME expressément et d'une façon bien visible qu'il peut vérifier sur les sites internet des régulateurs régionaux quel est le produit le moins cher. Cette information doit avoir lieu par le biais d'une communication sans ambiguïté reprenant un hyperlien vers la page internet du régulateur concerné sur laquelle la comparaison des prix peut être effectuée. Cet aperçu est fourni au client résidentiel ou à la PME par les mêmes moyens que ceux normalement utilisés pour communiquer avec le client résidentiel ou la PME dans le cadre du contrat en cours. Le fournisseur transmet en même temps au client résidentiel ou à la PME une nouvelle proposition de contrat. Le fournisseur explique clairement, sans équivoque et de façon spécifique en quoi les nouvelles conditions proposées diffèrent du contrat existant. Le fournisseur demande au client résidentiel ou à la PME de confirmer explicitement son accord sur la nouvelle proposition par lettre ou sur tout autre support durable.
+
+Une confirmation n'est pas exigée si, lors de la nouvelle proposition de contrat, le fournisseur a proposé le produit équivalent au tarif le moins cher et a mentionné qu'en l'absence de réaction, ce produit serait attribué.
+
+Si le client résidentiel ou la PME n'a pas réagi à cette demande deux mois après la réception du courrier, le fournisseur lui attribue le produit équivalent le moins cher qu'il propose sur le marché à ce moment-là. Le fournisseur en informe explicitement le client résidentiel ou la PME par lettre ou sur tout autre support durable."
+
+## Art. 4
+
+L'article 2 de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité, modifié en dernier lieu par la loi du 15 mars 2021, est complété par un 93° et un 94°, rédigés comme suit :
+
+93° "produit actif" : offre de contrat pour la fourniture d'énergie aux clients résidentiels et/ou aux PME, qui peut être souscrite par ceux-ci sur le site web ou au moyen de l'application du fournisseur et/ou via des comparateurs de prix, éventuellement par d'autres canaux publics;
+
+94° "produit équivalent le moins cher" : offre de contrat standard pour la fourniture d'électricité aux clients résidentiels et/ou aux PME la moins chère de la gamme du fournisseur et ayant les mêmes caractéristiques que le contrat en cours du client, notamment en ce qui concerne les critères suivants: prix fixe ou variable, durée du contrat en cas de durée déterminée, services compris dans le contrat, contrat exclusivement en ligne ou non, énergie verte ou grise.
+
+## Art. 5
+
+L'article 18 de la même loi, modifié en dernier lieu par la loi du 3 avril 2013, est complété par les paragraphes 2/2/1 et 2/2/2, rédigés comme suit :
+
+" § 2/2/1. Lorsque le contrat à durée déterminée d'un client résidentiel ou d'une PME arrive à expiration, le fournisseur fournit, au moins deux mois avant la date d'expiration du contrat, un aperçu de tous ses produits actifs à ce moment. Le fournisseur informe le client résidentiel ou la PME expressément et d'une façon bien visible qu'il peut vérifier sur les sites internet des régulateurs régionaux quel est le produit le moins cher. Cette information a lieu par le biais d'une communication sans ambiguïté reprenant un hyperlien vers la page internet du régulateur concerné sur laquelle la comparaison des prix peut être effectuée. Cet aperçu est fourni au client résidentiel ou à la PME par les mêmes moyens que ceux normalement utilisés pour communiquer avec le client dans le cadre du contrat en cours.
+
+Lorsque le produit correspondant n'est plus un produit actif ou lorsque le prix du produit diffère du prix actuel du produit actif, le fournisseur en informe le client résidentiel ou la PME au moment de la communication visée à l'alinéa précédent. Le fournisseur transmet en même temps au client résidentiel ou à la PME une nouvelle proposition de contrat. Le fournisseur explique clairement, sans équivoque et de façon spécifique en quoi les nouvelles conditions proposées diffèrent du contrat existant. Le fournisseur demande au client de confirmer explicitement son accord sur la nouvelle proposition par lettre ou sur tout autre support durable.
+
+Si le client résidentiel ou la PME n'a pas réagi à cette demande avant la date de fin du contrat en cours, le fournisseur lui attribue le produit équivalent le moins cher à durée déterminée qu'il propose sur le marché à ce moment-là.
+
+Le fournisseur en informe explicitement le client résidentiel ou la PME par lettre ou sur tout autre support durable. Une confirmation n'est pas exigée si, lors de la nouvelle proposition de contrat, le fournisseur a proposé le produit équivalent au tarif le moins cher et a mentionné qu'en l'absence de réaction, ce produit serait attribué.
+
+§ 2/2/2. Lorsque le contrat à durée indéterminée d'un client résidentiel ou d'une PME concerne un produit qui n'est plus actif et n'est pas soumis à une garantie contractuelle de prix, le fournisseur communique au client résidentiel ou à la PME au moins deux mois à l'avance un aperçu de tous ses produits actifs actuels. Le fournisseur informe le client résidentiel ou la PME expressément et d'une façon bien visible qu'il peut vérifier sur les sites internet des régulateurs régionaux quel est le produit le moins cher. Cette information doit avoir lieu par le biais d'une communication sans ambiguïté reprenant un hyperlien vers la page internet du régulateur concerné sur laquelle la comparaison des prix peut être effectuée. Cet aperçu est fourni au client résidentiel ou à la PME par les mêmes moyens que ceux normalement utilisés pour communiquer avec le client résidentiel ou la PME dans le cadre du contrat en cours. Le fournisseur transmet en même temps au client résidentiel ou à la PME une nouvelle proposition de contrat. Le fournisseur explique clairement, sans équivoque et de façon spécifique en quoi les nouvelles conditions proposées diffèrent du contrat existant. Le fournisseur demande au client résidentiel ou à la PME de confirmer explicitement son accord sur la nouvelle proposition par lettre ou sur tout autre support durable.
+
+Une confirmation n'est pas exigée si, lors de la nouvelle proposition de contrat, le fournisseur a proposé le produit équivalent au tarif le moins cher et a mentionné qu'en l'absence de réaction, ce produit serait attribué.
+
+Si le client résidentiel ou la PME n'a pas réagi à cette demande deux mois après la réception du courrier, le fournisseur lui attribue le produit équivalent le moins cher qu'il propose sur le marché à ce moment-là. Le fournisseur en informe explicitement le client résidentiel ou la PME par lettre ou sur tout autre support durable."
+
+## Art. 6
+
+La présente loi entre en vigueur le 1er janvier 2022.
+
+Le fournisseur d'énergie met, pour les contrats à durée déterminée, ses pratiques commerciales en conformité avec les dispositions visées aux articles 3 et 5 dès la prochaine fois où les contrats arrivent à expiration.
+
+Pour les contrats à durée indéterminée, le fournisseur d'énergie a jusqu'au 1er mars 2022 pour mettre ses pratiques commerciales en conformité avec les dispositions visées aux articles 3 et 5.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 4 juin 2021.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de la Juctice,
+
+V. VAN QUICKENBORNE
+
+La Ministre de l'Energie,
+
+T. VAN DER STRAETEN
+
+La Secrétaire d'Etat au Budget et à la Protection des Consommateurs,
+
+E. DE BLEEKER
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+V. VAN QUICKENBORNE

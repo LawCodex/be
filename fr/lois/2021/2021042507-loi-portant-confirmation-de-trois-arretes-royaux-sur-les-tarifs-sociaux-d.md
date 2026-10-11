@@ -1,0 +1,76 @@
+---
+title: "Loi portant confirmation de trois arrêtés royaux sur les tarifs sociaux d'énergie"
+identifier: "2021042507"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/27/2021042507/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2021-06-27
+published: 2021-06-30
+entry_into_force: 2021-06-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/27/2021042507/justel"
+department: "Economie, PME, Classes moyennes et Energie"
+retrieved: 2026-10-11
+---
+
+# 27 JUIN 2021. - Loi portant confirmation de trois arrêtés royaux sur les tarifs sociaux d'énergie
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+L'arrêté royal du 16 juin 2020 portant modification de l'arrêté royal du 29 mars 2012 fixant les règles de détermination du coût de l'application des tarifs sociaux par les entreprises de gaz naturel et les règles d'intervention pour leur prise en charge et portant modification de l'arrêté royal du 29 mars 2012 fixant les règles de détermination du coût de l'application des tarifs sociaux par les entreprises d'électricité et les règles d'intervention pour leur prise en charge, est confirmé avec effet au 1er juillet 2020, date de son entrée en vigueur.
+
+## Art. 3
+
+L'arrêté royal du 22 décembre 2020 déterminant les montants pour 2021 des fonds destinés au financement du coût réel résultant de l'application de prix maximaux pour la fourniture d'électricité et de gaz naturel aux clients protégés résidentiels, est confirmé avec effet au 1er janvier 2021, date de son entrée en vigueur.
+
+## Art. 4
+
+L'arrêté royal du 28 janvier 2021 complétant la liste des clients protégés résidentiels visée à l'article 15/10, § 2/2, alinéa 1er, de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations et à l'article 20, § 2/1, alinéa 1er, de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité et portant modification de l'arrêté royal du 29 mars 2012 fixant les règles de détermination du coût de l'application des tarifs sociaux par les entreprises de gaz naturel et les règles d'intervention pour leur prise en charge ainsi que de l'arrêté royal du 29 mars 2012 fixant les règles de détermination du coût de l'application des tarifs sociaux par les entreprises d'électricité et les règles d'intervention pour leur prise en charge, est confirmé avec effet au 1er février 2021, date de son entrée en vigueur.
+
+## Art. 5
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 27 juin 2021.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de l'Economie
+
+P.-Y. DERMAGNE
+
+Le Ministre de la Justice,
+
+V. VAN QUICKENBORNE
+
+La Ministre de l'Energie,
+
+T. VAN DER STRAETEN
+
+La Secrétaire d'Etat à la Protection des Consommateurs,
+
+E. DE BLEEKER
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+V. VAN QUICKENBORNE

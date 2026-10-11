@@ -1,0 +1,56 @@
+---
+title: "Loi modifiant la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits, concernant la publicité pour les produits à base de tabac"
+identifier: "2020041875"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2020/03/15/2020041875/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2020-03-15
+published: 2020-06-26
+entry_into_force: 2021-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2020/03/15/2020041875/justel"
+department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
+retrieved: 2026-10-11
+---
+
+# 15 MARS 2020. - Loi modifiant la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits, concernant la publicité pour les produits à base de tabac
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée par l'article 74 de la Constitution.
+
+## Art. 2
+
+Dans l'article 7, § 2bis, 2°, de la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits, inséré par la loi du 10 décembre 1997, modifié par la loi du 19 juillet 2004 et par la loi du 18 décembre 2016, les mots "- l'apposition de la marque d'un produit de tabac sur des affiches à l'intérieur et sur la devanture de magasins de tabac et de magasins de journaux qui vendent des produits de tabac;" sont abrogés.
+
+## Art. 3
+
+La présente loi entre en vigueur le 1er janvier 2021.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 15 mars 2020.
+
+PHILIPPE
+
+Par le Roi :
+
+La Ministre de la Santé publique,
+
+M. DE BLOCK
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS

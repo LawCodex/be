@@ -1,0 +1,78 @@
+---
+title: "Loi modifiant la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits, visant à interdire la vente de cartouches métalliques contenant du protoxyde d'azote aux mineurs"
+identifier: "2021030285"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2021/02/11/2021030285/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2021-02-11
+published: 2021-02-23
+entry_into_force: 2021-02-23
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2021/02/11/2021030285/justel"
+department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
+retrieved: 2026-10-11
+---
+
+# 11 FEVRIER 2021. - Loi modifiant la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits, visant à interdire la vente de cartouches métalliques contenant du protoxyde d'azote aux mineurs
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition générale
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## CHAPITRE 2. - Modifications de de la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et autres produits
+
+### Art. 2
+
+L'article 6 de la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et autres produits, modifié en dernier lieu par la loi du 12 juillet 2019, est complété par un paragraphe 7 rédigé comme suit:
+
+" § 7. Il est interdit de vendre des cartouches métalliques destinées à l'utilisation domestique de siphons alimentaires contenant du protoxyde d'azote aux jeunes de moins de dix-huit ans. Cette interdiction s'applique également aux sites de commerce électronique. Ces sites doivent spécifier l'interdiction de vente aux mineurs de ce produit sur les pages web permettant de procéder à un achat en ligne de ce gaz, quel que soit son contenant.
+
+Il peut être exigé de toute personne qui entend acheter ce type de produit contenant du protoxyde d'azote dans le commerce, de prouver qu'elle a atteint l'âge de dix-huit ans.
+
+Dans l'intérêt de la santé publique, le Roi peut prendre toutes les mesures visant à empêcher les mineurs de se procurer des cartouches métalliques contenant du protoxyde d'azote.
+
+Une mention indiquant la dangerosité du protoxyde d'azote est apposée sur chaque contenant de cartouches métalliques destinées à l'utilisation domestique de siphons alimentaires contenant du protoxyde d'azote, qui ne peut être vendu sans celle-ci. Le Roi fixe les modalités de cette mention."
+
+### Art. 3
+
+Dans l'article 13 de la même loi, les mots "l'article 6, §§ 4 et 6" sont remplacés par les mots "l'article 6, §§ 4, 6 et 7".
+
+### Art. 4
+
+Dans l'article 14 de la même loi, les mots "l'article 6, §§ 4 et 6" sont remplacés par les mots "l'article 6, §§ 4, 6 et 7".
+
+## CHAPITRE 3. - Entrée en vigueur
+
+### Art. 5
+
+L'article 6, § 7, alinéa 4, de la même loi, modifié par l'article 2, entre en vigueur un an après la publication de la présente loi au Moniteur belge.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 11 février 2021.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de la Santé publique,
+
+Fr. VANDENBROUCKE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+V. VAN QUICKENBORNE

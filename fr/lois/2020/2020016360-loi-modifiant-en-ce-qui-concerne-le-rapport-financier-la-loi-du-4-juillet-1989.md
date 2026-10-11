@@ -1,0 +1,70 @@
+---
+title: "Loi modifiant, en ce qui concerne le rapport financier, la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour l'élection de la Chambre des représentants, ainsi qu'au financement et à la comptabilité ouverte des partis politiques"
+identifier: "2020016360"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2020/12/16/2020016360/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2020-12-16
+published: 2020-12-18
+entry_into_force: 2020-12-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2020/12/16/2020016360/justel"
+department: "Intérieur"
+retrieved: 2026-10-11
+---
+
+# 16 DECEMBRE 2020. - Loi modifiant, en ce qui concerne le rapport financier, la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour l'élection de la Chambre des représentants, ainsi qu'au financement et à la comptabilité ouverte des partis politiques
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+L'article 23, § 1er, alinéa 2, de la loi du 4 juillet 1989 relative à la limitation et au contrôle des dépenses électorales engagées pour l'élection de la Chambre des représentants, ainsi qu'au financement et à la comptabilité ouverte des partis, remplacé par la loi du 23 juin 1999, est remplacé par ce qui suit :
+
+"La comptabilité des partis politiques et de leurs composantes ainsi que le rapport financier sont établis avant la fin de chaque année civile dans le respect :
+
+1° du livre III, titre 3, chapitre 2 du Code de droit économique, à l'exception de l'article III.85;
+
+2° des articles 4, 5 et 8 de l'arrêté royal du 21 octobre 2018 portant exécution des articles III.82 à III.95 du Code de droit économique;
+
+3° du plan comptable spécifique à utiliser par les partis politiques et leurs composantes, arrêté par la Commission de contrôle;
+
+4° du schéma des comptes annuels consolidés des partis politiques et du schéma des comptes annuels de leurs composantes, qui sont arrêtés par la Commission de contrôle;
+
+5° des dispositions suivantes de l'arrêté royal du 29 avril 2019 portant exécution du Code des sociétés et des associations, conformément aux schémas visés au 4° :
+
+a) livre 3, titre 1er, chapitres 1 à 3;
+
+b) livre 3, titre 2, chapitre 1er, section 2, sous-section 4 et chapitre 2, section 4, sous-sections 2 et 3;
+
+c) livre 3, titre 3, chapitre 1er, section 2, sous-section 5 et chapitre 2.".
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 16 décembre 2020.
+
+PHILIPPE
+
+Par le Roi :
+
+La Ministre de l'Intérieur, des Réformes institutionnelles et du Renouveau démocratique,
+
+A. VERLINDEN
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+V. VAN QUICKENBORNE

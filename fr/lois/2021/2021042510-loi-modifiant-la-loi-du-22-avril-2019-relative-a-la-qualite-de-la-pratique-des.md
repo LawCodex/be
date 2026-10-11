@@ -1,0 +1,66 @@
+---
+title: "Loi modifiant la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé"
+identifier: "2021042510"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/27/2021042510/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2021-06-27
+published: 2021-06-30
+entry_into_force: 2021-06-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2021/06/27/2021042510/justel"
+department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
+retrieved: 2026-10-11
+---
+
+# 27 JUIN 2021. - Loi modifiant la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+L'article 10 de la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé est complété par un alinéa rédigé comme suit:
+
+"Par dérogation à l'alinéa 1er, le Roi détermine la date à partir de laquelle l'alinéa 1er est applicable au secouriste-ambulancier, au bandagiste, à l'orthésiste et au prothésiste. Le Roi peut également déterminer des modalités particulières. Il peut fixer une date différente pour les professionnels des soins de santé visés.".
+
+## Art. 3
+
+L'article 88 de la même loi est remplacé par ce qui suit:
+
+"Art. 88. La présente loi entre en vigueur le 1er juillet 2022, à l'exception des dispositions dont la date d'entrée en vigueur est déterminée par l'article 87.
+
+Le Roi peut déterminer, par arrêté délibéré en Conseil des ministres, une date d'entrée en vigueur préalable au 1er juillet 2022 pour les articles 1er, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 27, 28, 29, 30, 31, 32, 33, 34, 35, 41, 65, 66, 67, 68, 69, 70, 72, 73, 74, 75, 76, 77, 78, 79, 80 et 84.
+
+## Art. 4
+
+La présente loi entre en vigueur le 30 juin 2021.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 27 juin 2021.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de la Santé publique,
+
+F. VANDENBROUCKE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+V. VAN QUICKENBORNE

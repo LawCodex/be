@@ -1,0 +1,1604 @@
+---
+title: "Loi relative aux dispositifs médicaux"
+identifier: "2021030071"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2020/12/22/2021030071/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2020-12-22
+published: 2021-01-18
+entry_into_force: 2021-05-26
+last_amended: 2026-07-13
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2020/12/22/2021030071/justel"
+department: "Agence Fédérale des Médicaments et des Produits de Sante"
+justel_note: "Consultation des versions antérieures à partir du 18-01-2021 et mise à jour au 13-07-2026"
+retrieved: 2026-10-11
+---
+
+# 22 DECEMBRE 2020. - Loi relative aux dispositifs médicaux
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er.-. Champ d'application, définitions, autorité compétente et dispositions administratives
+
+### Section 1re. - Objet et champ d'application
+
+##### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+##### Art. 2
+
+§ 1er. La présente loi s'applique aux dispositifs médicaux à usage humain et à leurs accessoires au sens du règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE. Elle s'applique également aux investigations cliniques qui tombent dans le champ d'application du règlement 2017/745 ainsi qu'aux groupes de produits n'ayant pas de destination médicale dont la liste figure à l'annexe XVI du même règlement.
+
+§ 2. Par exception, le chapitre 4 de la présente loi s'applique également aux dispositifs médicaux de diagnostic in vitro à usage humain et leurs accessoires au sens du règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission.
+
+§ 3. La présente loi complète et établit les modalités d'application du règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE et du chapitre IV du règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission.
+
+### Section 2. - Définitions
+
+##### Art. 3
+
+Outre les définitions données par le règlement 2017/745 et le règlement 2017/746, pour l'application de la présente loi, on entend par:
+
+1\) "L'AFMPS": l'Agence fédérale des médicaments et des produits de santé ;
+
+2\) "Le ministre": le ministre qui a la Santé publique dans ses attributions ;
+
+3\) "Le règlement 2017/745": le règlement UE 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE ;
+
+4\) "Le règlement 2017/746": le règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission ;
+
+5\) "Le règlement 2016/679": le règlement (UE) 2016/679 du Parlement Européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE ;
+
+6\) "Dispositif": tout produit visé à l'article 1er, paragraphe 4, du règlement 2017/745 ;
+
+7\) Le "professionnel de la santé": tout praticien visé par la loi coordonnée du 10 mai 2015 relative à l'exercice des professions des soins de santé ;
+
+8\) La "loi du 7 mai 2017": la loi du 7 mai 2017 relative aux essais cliniques de médicaments à usage humain ;
+
+9\) Le "Comité d'éthique": le Comité d'éthique agréé conformément à l'article 6, § 4, de la loi du 7 mai 2017 ;
+
+10\) L' "investigateur principal": un investigateur responsable d'une équipe d'investigateurs chargée de la conduite d'une investigation clinique sur un site d'investigation clinique ;
+
+11\) Le "SCAC": le suivi clinique après commercialisation.
+
+[<sup>1</sup> 12) "numéro d'identification au Registre national": le numéro d'identification visé à l'article 2, § 3, de la loi du 8 août 1983 organisant un Registre national des personnes physiques;
+
+13\) "numéro d'identification bis": le numéro d'identification visé à l'article 8, § 1er, 2°, de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale;
+
+14\) "données de contact professionnelles": le nom, le prénom, la fonction, l'adresse électronique professionnelle et le numéro de téléphone professionnel;
+
+15\) "données d'identification d'une entreprise": la dénomination, le numéro d'entreprise, l'adresse du siège social, les adresses des lieux d'activité, le numéro d'enregistrement auprès de l'Agence fédérale des médicaments et des produits de santé, le numéro d'identification à la taxe sur la valeur ajoutée pour les entreprises établies à l'étranger, la langue de communication choisie par l'entreprise et, le cas échéant, l'adresse du site internet de l'entreprise;
+
+16\) "données d'identification du représentant légal": le nom, le prénom et la qualité ou fonction telle que publiée à la Banque-Carrefour des Entreprises;
+
+17\) "les personnes de contact": les personnes désignées par un opérateur économique, un établissement de santé ou toute autre entité concernée pour assurer les échanges avec l'Agence fédérale des médicaments et des produits de santé, dont les données de contact professionnelles sont traitées dans le cadre des finalités prévues par la présente loi;
+
+18\) "données d'identification d'un professionnel de la santé": le nom, le prénom, la spécialité ou la fonction, le numéro d'identification à l'Institut national d'assurance maladie-invalidité et l'établissement ou le service d'affectation;
+
+19\) "données d'identification d'un patient à des fins de traçabilité": le sexe, l'année de naissance et le numéro d'identification au Registre national ou le numéro d'identification au registre bis;
+
+20\) "données de traçabilité d'un dispositif": l'identifiant unique du dispositif, le numéro de lot ou de série, la date de prescription, la date d'implantation ou de retrait, l'établissement concerné, l'identité du professionnel prescripteur et l'identité du professionnel ayant réalisé l'acte;
+
+21\) "acteurs non soumis à enregistrement obligatoire auprès de l'AFMPS": les opérateurs économiques visés à l'article 2, point 35, du règlement 2017/745, les établissements de santé visés à l'article 2, point 36, du même règlement, ainsi que les entreprises visées à l'article 59 de la loi du 15 décembre 2013 en matière de dispositifs médicaux, lorsqu'ils ne sont soumis à aucune obligation d'enregistrement auprès de l'AFMPS en vertu de la loi du 15 décembre 2013 en matière de dispositifs médicaux ou de la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-06-30/06, art. 4, 008; En vigueur : 23-07-2026&gt;
+
+### Section 3. - Autorité compétente
+
+##### Art. 4
+
+L'AFMPS est désignée comme l'autorité compétente au sens de l'article 101 du règlement 2017/745.
+
+### Section 4. - Dispositions administratives
+
+##### Art. 5
+
+Pour l'application de la présente loi, l'Administrateur général de l'AFMPS est désigné comme le délégué du ministre.
+
+Le ministre peut également désigner comme délégué d'autres membres du personnel de l'AFMPS, tout en indiquant la limite des compétences qui leur sont déléguées.
+
+### Section 5. - Restrictions
+
+##### Art. 6
+
+En vue de garantir un niveau élevé de protection, de qualité et de sécurité, le Roi peut, en application de l'article 1er, paragraphe 14, du règlement 2017/745, restreindre l'utilisation de tout type particulier de dispositifs en ce qui concerne des aspects ne relevant pas du règlement 2017/745.
+
+## CHAPITRE 2. - Mise à disposition sur le marché et mise en service des dispositifs, obligations des opérateurs économiques, retraitement, marquage et libre circulation
+
+### Section 1re. - Dispositifs fabriqués et utilisés exclusivement dans les établissements de santé
+
+##### Art. 7
+
+§ 1er. Le Roi peut déterminer les modalités de la publication de la déclaration visée à l'article 5, paragraphe 5, e), du règlement 2017/745.
+
+Il peut également préciser quels sont les détails visés à l'article 5, paragraphe 5, e), ii), du règlement 2017/745 nécessaires pour identifier les dispositifs.
+
+§ 2. Les incidents graves survenus lors de l'utilisation d'un dispositif visé à l'article 5, paragraphe 5, du règlement 2017/745, ainsi que les mesures correctives visées à l'article 5, paragraphe 5, alinéa 1, h), du règlement 2017/745 sont notifiés à l'AFMPS, conformément à l'article 5, paragraphe 5, alinéa 2, première phrase du règlement 2017/745.
+
+Le Roi peut déterminer les modalités de la notification visée à l'alinéa 1er.
+
+§ 3. En application de l'article 5, paragraphe 5, alinéa 2, du règlement 2017/745, le Roi peut exiger des établissements de santé qu'ils transmettent à l'AFMPS toute information pertinente et nécessaire afin de vérifier la conformité et assurer la vigilance des dispositifs visés à l'article 5, paragraphe 5, alinéa 1er, du règlement 2017/745 qui sont fabriqués et utilisés sur le territoire belge.
+
+§ 4. En application de l'article 5, paragraphe 5, alinéa 2, du règlement 2017/745, la fabrication et l'utilisation de dispositifs implantables et de dispositifs émettant des radiations ionisantes sont interdites, dans les établissements de santé.
+
+Conformément à l'article 5, paragraphe 5, alinéa 2, deuxième phrase, du règlement 2017/745, le Roi peut, pour des motifs de santé publique, restreindre la fabrication et l'utilisation de tout type particulier de dispositif, dans des établissements de santé.
+
+§ 5. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-06-30/06, art. 5, 008; En vigueur : 23-07-2026&gt;
+
+### Section 2. - Vente à distance
+
+##### Art. 8
+
+Le ministre ou son délégué peut exiger d'un fournisseur de services de la société de l'information au sens de l'article I.18, 1°, du Code de droit économique qu'il mette fin à son activité, pour les raisons mentionnées à l'article 6, paragraphe 4, du règlement 2017/745.
+
+### Section 3. - Obligations des fabricants
+
+##### Art. 9
+
+§ 1er. En application de l'article 10, paragraphe 11, du règlement 2017/745, les fabricants accompagnent les dispositifs mis à disposition de l'utilisateur ou du patient sur le territoire belge des informations visées à l'annexe I, section 23, du règlement 2017/745 dans les trois langues nationales.
+
+Par exception, pour les dispositifs dont les utilisateurs sont exclusivement des professionnels de la santé, ces informations peuvent être fournies en anglais.
+
+Dans ce cas, toutefois, l'utilisateur peut exiger du fabricant qu'il lui fournisse ces informations dans la langue nationale de son choix.
+
+§ 2. En application de l'article 10, paragraphe 14, alinéa 1er, du règlement 2017/745, lorsque l'AFMPS le demande, les fabricants lui communiquent toutes les informations et tous les documents nécessaires pour démontrer la conformité du dispositif dans l'une des trois langues nationales ou en anglais.
+
+§ 3. Le Roi peut déterminer la procédure applicable pour l'adoption des mesures visées à l'article 10, paragraphe 14, alinéa 2, du règlement 2017/745.
+
+### Section 4. - Obligations des mandataires
+
+##### Art. 10
+
+En application de l'article 11, paragraphe 3, d), du règlement 2017/745, lorsque l'AFMPS le demande, le mandataire lui communique toutes les informations et tous les documents nécessaires à la démonstration de la conformité d'un dispositif dans l'une des trois langues nationale ou en anglais.
+
+### Section 5. - Faillite ou cessation d'activité
+
+##### Art. 11
+
+Conformément à l'annexe IX, point 8, du règlement 2017/745, les documents mentionnés au point 7 de ladite annexe, sont tenus à la disposition de l'AFMPS si le fabricant ou son mandataire établi en Belgique fait faillite ou met fin à ses activités avant la fin de la période visée à l'annexe IX, point 7, ou sont transmis à l'AFMPS au moment de la cessation des activités du fabricant ou de son mandataire.
+
+### Section 6. - Retraitement des dispositifs à usage unique
+
+##### Art. 12
+
+§ 1er. Pour autant que la réutilisation soit autorisée par la législation sur les déchets, le retraitement des dispositifs à usage unique est autorisé moyennant le respect des conditions et obligations mentionnées à l'article 17, paragraphe 2, ou, le cas échéant, à l'article 17, paragraphe 3, du règlement 2017/745 lorsque le retraitement et l'utilisation du dispositif retraité ont lieu au sein d'un établissement de santé.
+
+§ 2. Conformément à l'article 17, paragraphe 4, du règlement 2017/745, les conditions mentionnées à l'article 17, paragraphe 3, sont également applicables dans le cas de dispositifs médicaux retraités par une entreprise de retraitement externe à la demande d'un établissement de santé, pour autant que le dispositif retraité soit restitué dans sa totalité à cet établissement de santé.
+
+§ 3. Les établissements de santé qui, conformément aux paragraphes 1 et 2, retraitent des dispositifs et utilisent des dispositifs retraités en leur sein se notifient via le site web de l'AFMPS.
+
+Le Roi peut préciser les informations à transmettre à l'AFMPS dans le cadre de cette notification.
+
+§ 4.[<sup>1</sup> ...]<sup>1</sup>
+
+§ 5. En application de l'artice 17, paragraphe 3, alinéa 2, du règlement 2017/745, les établissements de santé visés au paragraphe 3 fournissent des informations aux patients sur l'utilisation de ces dispositifs retraités et, le cas échéant, toute autre information pertinente sur les dispositifs retraités au moyen duquel les patients sont traités.
+
+Le Roi peut déterminer le contenu de l'information visée à l'alinéa 1er, ainsi que la forme sous laquelle les informations doivent être fournies.
+
+§ 6. Conformément à l'article 17, paragraphe 9, alinéa 1er, du règlement 2017/745, le Roi peut, pour des raisons de santé publique, interdire le retraitement, la mise à disposition ou la réutilisation de certains types de dispositifs à usage unique retraités.
+
+----------
+
+(1)&lt;L 2026-06-30/06, art. 6, 008; En vigueur : 23-07-2026&gt;
+
+### Section 7. - Carte d'implant
+
+##### Art. 13
+
+§ 1er. Les établissements de santé mettent à disposition des patients chez lesquels un dispositif a été implanté, les informations visées à l'article 18, paragraphe 1, alinéa 1, du règlement 2017/745, par tout moyen permettant un accès rapide auxdites informations, ainsi que la carte implant visée à l'article 18, paragraphe 1, alinéa 3, du règlement 2017/745, sur laquelle l'établissement de santé mentionne l'identité du patient, la date d'implantation du dispositif, ainsi que les coordonnées de l'établissement de santé ou du professionnel de santé qui a procédé à l'implantation du dispositif. Cette obligation ne s'applique pas aux implants énumérés à l'article 18, paragraphe 3, du règlement 2017/745.
+
+§ 2. Le Roi peut définir la forme sous laquelle les informations visées à l'article 18, paragraphe 1, alinéa 1, du règlement 2017/745 doivent être mises à la disposition des patients concernés.
+
+§ 3. En application de l'article 18, paragraphe 1, du règlement 2017/745, le fabricant d'un dispositif implantable fournit la carte d'implant et les informations visées à l'article 18, paragraphe 1, du règlement 2017/745 dans une des trois langues nationales ou en anglais au choix du patient ou de son représentant.
+
+§ 4. La finalité du traitement de données personnelles prévu au § 1 est de satisfaire à l'article 18 du règlement 2017/745 en fournissant aux patients des informations claires et facilement accessibles permettant d'identifier le dispositif implanté et d'autres informations utiles sur le dispositif, y compris tous les avertissements ou toutes les précautions requises au regard des risques pour la santé.
+
+### Section 8. - Exigences linguistiques concernant la déclaration de conformité UE
+
+##### Art. 14
+
+En application de l'article 19, paragraphe 1er, du règlement 2017/745, la déclaration de conformité UE est traduite dans une des trois langues nationales ou en anglais.
+
+### Section 9. - Dispositifs sur mesure
+
+##### Art. 15
+
+§ 1er. Tout fabricant de dispositifs sur mesure établi en Belgique, notifie à l'AFMPS au plus tard le jour où les dispositifs sont mis sur le marché:
+
+1\) son nom ou sa raison sociale ainsi que son domicile ou son siège social et, s'il est différent, le lieu où s'exercent les activités ;
+
+2\) la classe des dispositifs qui sont mis sur le marché, selon l'annexe VIII du règlement 2017/745 ;
+
+3\) la description du dispositif ;
+
+4\) le code de la nomenclature prévu à l'article 26 du règlement 2017/745 ;
+
+5\) le certificat de conformité, si applicable ;
+
+6\) la notice d'utilisation, si applicable ;
+
+7\) la déclaration de conformité.
+
+La notification visée à l'alinéa 1er se fait via le site web de l'AFMPS.
+
+§ 2.[<sup>1</sup> ...]<sup>1</sup>
+
+§ 3. En application de l'article 21, paragraphe 2, alinéa 2, du règlement 2017/745, les fabricants de dispositifs sur mesure transmettent à l'AFMPS, sur demande de celle-ci, la liste des dispositifs qui ont été mis à disposition sur le territoire belge.
+
+§ 4. Le Roi peut déterminer la forme de la liste visée dont question au paragraphe 3, ainsi que la façon dont elle doit être transmise à l'AFMPS.
+
+----------
+
+(1)&lt;L 2026-06-30/06, art. 7, 008; En vigueur : 23-07-2026&gt;
+
+## CHAPITRE 3. - Identification et traçabilité des dispositifs, enregistrement des dispositifs et des opérateurs économiques, résumé des caractéristiques de sécurité et des performances cliniques et bases de données européennes sur les dispositifs médicaux
+
+### Section 1re. - Système d'identification unique des dispositifs
+
+##### Art. 16
+
+§ 1er. En application de l'article 27, paragraphe 9, du règlement 2017/745, les établissements de santé doivent enregistrer et conserver de préférence par des moyens électroniques, l'IUD des dispositifs implantables qu'on leur a fournis.
+
+Le Roi peut déterminer les modalités de cet enregistrement et de sa conservation.
+
+§ 2. Les professionnels de la santé doivent enregistrer et conserver, de préférence par des moyens électroniques, l'IUD des dispositifs implantables qu'on leur a fournis.
+
+Le Roi peut déterminer les modalités de cet enregistrement et de sa conservation.
+
+### Section 2. - Enregistrement des fabricants, mandataires et importateurs
+
+##### Art. 17
+
+Le ministre ou son délégué peut suspendre les activités d'un opérateur économique si celui-ci ne respecte pas ses obligations mentionnées à l'article 31, paragraphe 5, du règlement 2017/745, et ce, jusqu'à ce qu'il satisfasse à ces obligations.
+
+Le Roi peut déterminer la procédure pour appliquer cette suspension.
+
+## CHAPITRE 4. - Organismes notifiés
+
+### Section 1re. - Désignation
+
+##### Art. 18
+
+L'AFMPS est désignée comme l'autorité responsable des organismes notifiés au sens de l'article 35 du règlement 2017/745, et de l'article 31 du règlement 2017/746.
+
+##### Art. 18/1
+
+[<sup>1</sup> Conformément à l'article 35, paragraphe 7, du règlement 2017/745 et à l'article 31, paragraphe 7, du règlement 2017/746, l'AFMPS publie sur son site web des informations générales concernant les mesures régissant l'évaluation, la désignation et la notification des organismes d'évaluation de la conformité et concernant le contrôle des organismes notifiés, ainsi que les modifications ayant un impact important sur ces tâches.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-06-15/03, art. 109, 003; En vigueur : 01-07-2022&gt;
+
+##### Art. 19
+
+§ 1er. Les demandes de désignation ou de modification de la désignation visant une extension de compétences sont introduites par les organismes d'évaluation de la conformité auprès de l'AFMPS conformément à l'article 38 du règlement 2017/745, et l'article 34 du règlement 2017/746.
+
+Conformément à l'article 41 du règlement 2017/745 et à l'article 37 du règlement 2017/746, la demande et les documents associés à la demande et à l'évaluation de celle-ci sont rédigés dans une des trois langues nationales ou en anglais.
+
+L'AFMPS évalue la demande conformément à l'article 39 du règlement 2017/745, et à l'article 35 du règlement 2017/746.
+
+§ 2. L'AFMPS désigne l'organisme d'évaluation de la conformité conformément à l'article 42 du règlement 2017/745, et à l'article 38 du règlement 2017/746 et notifie sa décision dans un délai de quinze jours à l'organisme concerné.
+
+L'AFMPS notifie également à la Commission européenne et aux autres Etats membres les organismes qu'elle a désignés.
+
+§ 3. [<sup>1</sup> Les demandes visées au paragraphe 1er peuvent comprendre les données à caractère personnel suivantes:
+
+1° le nom, le prénom, l'adresse de courrier électronique et le numéro de téléphone d'une personne de contact pour la demande;
+
+2° les noms, prénoms, qualifications professionnelles et domaines d'expertise des membres du personnel visés à l'annexe VII, sections 3.2.3 et 3.2.7 du règlement 2017/745 et du règlement 2017/746.
+
+L'AFMPS est la responsable de ce traitement de données à caractère personnel.
+
+La finalité du traitement de données personnelles est de pouvoir accorder et gérer les demandes visées au paragraphe premier.
+
+Ledit traitement s'effectue suivant les dispositions du Chapitre IV/3, de la loi du 20 juillet 2006 relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé.
+
+Le Roi peut préciser les modalités d'application du présent paragraphe et les mesures de sécurité à mettre en oeuvre.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-09/29, art. 32, 006; En vigueur : 27-05-2024&gt;
+
+##### Art. 20
+
+Si l'AFMPS considère qu'un organisme qu'elle a désigné ne satisfait plus aux exigences énoncées aux annexes VII des règlement 2017/745 et 2017/746, ou ne s'acquitte pas de ses obligations ou n'a pas mis en oeuvre les mesures correctives nécessaires, le ministre ou son délégué prend les mesures appropriées prévues à l'article 46, paragraphe 4, du règlement 2017/745 et l'article 42, paragraphe 4, du règlement 2017/746.
+
+Le Roi peut déterminer la procédure applicable à l'adoption de telles mesures.
+
+### Section 2. - Dispositions transitoires
+
+##### Art. 21
+
+§ 1er. Conformément à l'article 120, paragraphe 3, alinéa 2, du règlement 2017/745, pour les certificats visés à l'article 120, paragraphe 2, du règlement 2017/745, les organismes notifiés continuent d'être responsables de la surveillance appropriée en ce qui concerne l'ensemble des exigences applicables relatives aux dispositifs qu'ils ont certifiés.
+
+§ 2. Pour les activités visées au paragraphe 1er, les organismes notifiés conformément à l'article 15 de l'arrêté royal du 15 juillet 1997 relatif aux dispositifs médicaux implantables actifs et à l'article 16 de l'arrêté royal du 18 mars 1999 relatif aux dispositifs médicaux restent soumis au contrôle de l'AFMPS durant la durée de validité des certificats délivrés.
+
+##### Art. 22
+
+En application de l'article 120, paragraphe 3, alinéa 1er, et l'article 122, alinéas 1, quatrième tiret et 2, du règlement 2017/745, les organismes notifiés qui délivrent des certificats tels que visés à l'article 56 du règlement 2017/745 sont soumis, en ce qui concerne leurs obligations de notification desdits certificats, à l'article 15, §§ 5 et 6, de l'arrêté royal du 15 juillet 1997 relatif aux dispositifs médicaux implantables actifs et à l'article 16, § 4, de l'arrêté royal du 18 mars 1999 relatif aux dispositifs médicaux, jusqu'à une date à déterminer par le Roi.
+
+## CHAPITRE 5. - Classification et évaluation de la conformité
+
+### Section 1re. - Procédure en cas de litige quant à la classification
+
+##### Art. 23
+
+En cas de litige entre le fabricant et l'organisme notifié résultant de l'application de l'annexe VIII du règlement 2017/745, l'AFMPS prend une décision conformément à l'article 51, paragraphe 2, du règlement 2017/745.
+
+Le Roi peut déterminer la procédure applicable à l'adoption d'une décision visée à l'alinéa 1er.
+
+### Section 2. - Exigences linguistiques
+
+##### Art. 24
+
+En application de l'article 52, paragraphe 12, du règlement 2017/745, l'organisme notifié doit mettre à disposition tous les documents relatifs aux procédures visées à l'article 52, paragraphes 1 à 7, et 9 à 11, du règlement 2017/745 dans l'une des trois langues nationales ou en anglais.
+
+##### Art. 25
+
+En application de l'article 56, paragraphe 1er, du règlement 2017/745, les certificats délivrés par les organismes notifiés établis sur le territoire belge conformément aux annexes IX, X et XI du règlement 2017/745 sont établis dans une des langues nationales ou en anglais.
+
+### Section 3. - Dérogation aux procédures d'évaluation de la conformité
+
+##### Art. 26
+
+[<sup>1</sup> Conformément à l'article 59 du règlement 2017/745, le ministre ou son délégué autorise, sur demande dûment justifiée, la mise sur le marché ou la mise en service d'un dispositif donné pour lequel les procédures visées à l'article 52 du règlement 2017/745 n'ont pas été appliquées mais dont l'utilisation est dans l'intérêt de la santé publique ou de la sécurité ou de la santé des patients.
+
+Le Roi peut déterminer la procédure et les modalités pour la demande et l'octroi des autorisations visées au premier paragraphe.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2022-06-15/03, art. 110, 003; En vigueur : 01-07-2022&gt;
+
+(2)&lt;L 2026-06-30/06, art. 8, 008; En vigueur : 23-07-2026&gt;
+
+### Section 4. - Certificat de libre vente
+
+##### Art. 27
+
+Sur demande d'un fabricant ou de son mandataire, l'AFMPS délivre un certificat de libre vente conformément à l'article 60 du règlement 2017/745.
+
+### Section 5. [<sup>1</sup> - Certificats d'exportation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-11/12, art. 72, 005; En vigueur : 08-09-2023&gt;
+
+##### Art. 27/1
+
+[<sup>1</sup> A des fins d'exportation, et sans préjudice de l'article 60 du règlement 2017/745, l'AFMPS délivre, sur demande d'un opérateur économique à l'exception du fabricant ou du mandataire, un certificat attestant que le dispositif porte un marquage de conformité CE tel que visé à l'article 20 du règlement 2017/745.
+
+A des fins d'exportation, et sans préjudice de l'article 60 du règlement 2017/745, l'AFMPS délivre, sur demande d'un opérateur économique un certificat attestant qu'un dispositif dispose d'un certificat de conformité tel que visé à l'article 120, paragraphe 2, du règlement 2017/745, ou pour lequel une déclaration de conformité telle que visée à l'article 120, paragraphe 3ter, du règlement 2017/745 a été établie.
+
+Le Roi peut déterminer la procédure pour la demande et la délivrance des certificats visés aux alinéas 1 et 2, en ce compris les informations à fournir par le demandeur.
+
+Le Roi peut également préciser les informations à mentionner sur les certificats visés aux alinéas 1 et 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-07-11/12, art. 73, 005; En vigueur : 08-09-2023&gt;
+
+## CHAPITRE 6. - Investigations cliniques
+
+### Section 1re. - Dispositions générales relatives à la protection des participants à une investigation clinique et à la conduite d'une investigation clinique
+
+##### Art. 28
+
+Conformément à l'article 62, paragraphe 6, du règlement 2017/745, tout investigateur:
+
+1° est un professionnel de la santé ;
+
+2° dispose d'un certificat en matière de bonnes pratiques cliniques ne datant pas de plus de trois ans.
+
+Sans préjudice de l'alinéa 1er, tout investigateur principal répond aux conditions suivantes:
+
+1° sa profession lui donne les qualifications spécifiquement requises pour pratiquer l'investigation clinique ;
+
+2° il dispose des connaissances et de l'expérience professionnelles nécessaires pour pratiquer l'investigation clinique ; et
+
+3° il connaît les exigences légales relatives aux investigations cliniques ou est en mesure de les garantir par l'intermédiaire d'un expert.
+
+##### Art. 29
+
+Tout investigateur membre de l'équipe d'investigateurs peut mener l'entretien visé à l'article 63, paragraphe 2, c), du règlement 2017/745.
+
+##### Art. 30
+
+Sans préjudice de l'application du règlement, le représentant légal du participant, au sens des articles 64, 65 et 68, du règlement 2017/745 est désigné, aux fins d'exercer les droits du participant incapable, mineur ou en situation d'urgence et qui n'est pas en mesure de donner son consentement, conformément aux articles 12, § 1er, et 14 de la loi du 22 août 2002 relative aux droits du patient.
+
+##### Art. 31
+
+Conformément aux lignes directrices internationales, le Roi détermine les bonnes pratiques cliniques, telles que visées à l'annexe XV, du règlement 2017/745.
+
+##### Art. 32
+
+§ 1er. Le présent article met en oeuvre l'article 69 du règlement 2017/745.
+
+§ 2. Le promoteur assume, même sans faute, la responsabilité du dommage causé au participant ou, en cas de décès, à ses ayants droits, que ce dommage soit lié de manière directe ou indirecte à l'investigation. Toute stipulation contractuelle visant à restreindre cette responsabilité est réputée nulle.
+
+Lorsqu'une investigation clinique a plus d'un promoteur, tous les promoteurs sont solidairement responsables.
+
+§ 3. Le promoteur contracte, préalablement à l'investigation clinique conduite sur le territoire belge, une assurance couvrant cette responsabilité ainsi que celle de tout intervenant à l'investigation clinique, indépendamment de la nature des liens existants entre l'intervenant, le promoteur et le participant.
+
+Sans préjudice de la possibilité de fixer dans le contrat entre le promoteur et l'assureur des montants maximaux afin d'indemniser les préjudices du participant ou, en cas de décès, ses ayants droit, ainsi que de la possibilité de fixer une durée maximale de couverture du risque, aucune nullité, aucune exception ou déchéance dérivant de la loi ou du contrat d'assurance ne peut être opposée par l'assureur au participant ou à ses ayants droit, sauf dans les cas prévus par le Roi.
+
+Lorsqu'une investigation clinique a plus d'un promoteur, l'un d'entre eux est désigné comme responsable pour contracter l'assurance visée à l'alinéa 1er.
+
+§ 4. Pour l'application du présent article, le participant ou ses ayants ont une action directe contre l'assureur.
+
+##### Art. 33
+
+Conformément à l'annexe XV, Chapitre III, 3, alinéa 2, du règlement 2017/745, les documents mentionnés dans l'annexe XV sont tenus à la disposition de l'AFMPS si le promoteur ou son représentant légal, visé à l'article 62, paragraphe 2, du règlement 2017/745, établi en Belgique fait faillite ou met fin à ses activités avant la fin de la période visée à l'annexe XV, Chapitre III, 3, alinéa 1er, ou sont transmis à l'AFMPS au moment de la cessation des activités du promoteur ou de son représentant légal.
+
+### Section 2. - Collège et Comités d'éthique
+
+##### Art. 34
+
+Le comité d'éthique habilité à émettre un avis dans le cadre d'une demande d'autorisation visée aux articles 70 et 78, paragraphes 1er à 11, du règlement 2017/745, d'une demande de modification d'une investigation clinique visée aux articles 75 et 78, paragraphe 12, du règlement 2017/745, d'une notification visée à l'article 74, paragraphe 1er, du règlement 2017/745, ou d'une demande de recours gracieux visé à l'article 55, est un Comité d'éthique agréé conformément à l'article 6, § 4, de la loi du 7 mai 2017.
+
+##### Art. 35
+
+Conformément à l'article 71, paragraphe 1er, du règlement 2017/745, le comité d'éthique habilité à émettre un avis est soumis aux exigences relatives à l'indépendance, aux incompatibilités et à la gestion des conflits d'intérêts énoncées aux articles 6, 6/1 et 8 de la loi du 7 mai 2017.
+
+##### Art. 36
+
+Le Comité d'éthique habilité à émettre un avis est désigné par le Collège visé à l'article 9 de la loi du 7 mai 2017.
+
+Le Comité d'éthique habilité à émettre un avis ne peut en aucun cas être celui du ou des sites d'investigation, sauf lorsque l'ensemble des Comités d'éthique agréés sont ceux des sites d'investigation.
+
+Le Roi détermine les critères sur la base desquels le Collège désigne le Comité d'éthique habilité à émettre son avis.
+
+Il peut fixer les conditions et modalités en vertu desquelles le Collège tient compte, lors de la désignation, de la mise en oeuvre et du suivi du système de contrôle qualité en vertu de l'article 8 de la loi du 7 mai 2017.
+
+##### Art. 37
+
+Le Collège visé à l'article 9 de la loi du 7 mai 2017 exerce les missions suivantes:
+
+1° la communication avec les Comités d'éthique comme point de contact unique de l'AFMPS. Toutes les communications entre les Comités d'éthique et l'AFMPS passent par le Collège ;
+
+2° désigner, conformément à l'article 36, le Comité d'éthique habilité pour chaque demande d'autorisation, demande de modification d'une investigation clinique, notification, ainsi que dans le cadre d'un recours gracieux ;
+
+3° veiller à l'application cohérente de la présente loi par les Comités d'éthique ;
+
+4° formuler, d'initiative ou à la demande du ministre, des avis relatifs à l'application du règlement 2017/745, de la présente loi et de ses arrêtés d'exécution ;
+
+5° coordonner, harmoniser, soutenir, évaluer et suivre le contrôle de la qualité effectué par les Comités d'éthique ;
+
+6° le soutien administratif des Comités d'éthique, concernant le suivi des demandes attribuées en vertu de l'article 34.
+
+Le Collège envoie chaque année un rapport d'activités des Comités d'éthique et du Collège au ministre et au Parlement.
+
+Le Roi peut, sur proposition du Collège, fixer des modalités pour l'exécution de la mission visée à l'alinéa 1er, 3°.
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, charger le Collège de missions supplémentaires.
+
+##### Art. 38
+
+Conformément à l'article 71, paragraphe 1er, du règlement 2017/745, le Collège est soumis aux exigences en matière d'indépendance, d'incompatibilités et de gestion des conflits d'intérêts énoncées à l'article 9 de la loi du 7 mai 2017.
+
+##### Art. 39
+
+Le Roi fixe la procédure de suspension ou de retrait de l'agrément du Comité d'éthique lorsqu'il ne respecte pas ses obligations imposées en vertu de la présente loi ou de ses arrêtés d'exécution ou ne respecte pas ses procédures écrites.
+
+##### Art. 39/1
+
+[<sup>1</sup> § 1er. Le Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement perçoit une indemnité mensuelle de l'AFMPS pour financer les activités du Collège menées dans le cadre des investigations cliniques concernant des dispositifs médicaux, telles que visées à l'article 2, 45), du règlement 2017/745.
+
+L'AFMPS paie l'indemnité sur la base d'un avis de paiement établi par le Service public fédéral Santé Publique, Sécurité de la Chaîne alimentaire et Environnement sur proposition unanime du Collège.
+
+Le montant de l'indemnité visée au premier alinéa et les modalités de paiement sont déterminés conformément aux montants et modalités fixés à l'annexe I de la présente loi.
+
+Le Roi peut modifier les montants énumérés à l'annexe I pour que l'indemnité couvre les coûts réels des activités visées au premier alinéa. Il peut également en modifier les modalités de paiement.
+
+§ 2. Le comité d'éthique agréé perçoit une indemnité mensuelle de l'AFMPS pour financer les activités relatives aux avis fournis à l'AFMPS par le Collège dans le cadre des investigations cliniques concernant des dispositifs médicaux, telles que visées à l'article 2, 45), du règlement 2017/745.
+
+L'AFMPS paie l'indemnité sur la base d'un avis de paiement établi par le Service public fédéral Santé Publique, Sécurité de la Chaîne alimentaire et Environnement sur proposition unanime du Collège.
+
+Le montant de l'indemnité visée au premier alinéa et le mode de paiement sont établis conformément aux montants et modalités fixés à l'annexe II de la présente loi.
+
+Le Roi peut modifier les montants énumérés à l'annexe II pour que l'indemnité couvre les coûts réels des activités visées au premier alinéa. Il peut également en modifier les modalités de paiement.
+
+§ 3. L'article 14/19 de la loi du 20 juillet 2006 portant création et fonctionnement de l'Agence fédérale des médicaments et des produits de santé est applicable aux montants visés au présent article.
+
+§ 4. Le Collège visé à l'article 9 de la loi du 7 mai 2017 relative aux essais cliniques de médicaments à usage humain formule des propositions relatives à l'application du présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-05-09/07, art. 1, 002; En vigueur : 26-05-2021&gt;
+
+### Section 3. - Procédures relatives à l'autorisation d'une investigation clinique et de modifications substantielles
+
+#### Sous-section 1re. - Dispositions communes
+
+##### Art. 40
+
+Conformément à l'article 78, paragraphe 14, du règlement 2017/745, la procédure visée à l'article 78 du même règlement est applicable en Belgique.
+
+##### Art. 41
+
+Sous réserve de l'adoption d'un acte d'exécution visé à l'article 81, alinéa 1er, a), du règlement 2017/745, l'AFMPS peut, après concertation avec le Collège, établir les modèles respectifs de rapports d'évaluation qui sont utilisés par l'AFMPS et les Comités d'éthique agréés.
+
+##### Art. 42
+
+Le Roi peut fixer tout délai applicable aux procédures d'autorisation d'une investigation clinique et d'autorisation de modifications substantielles d'une investigation clinique, dans le respect des délais prévus par le règlement 2017/745.
+
+##### Art. 43
+
+Conformément à l'article 71, paragraphe 1er, du règlement 2017/745, les membres du personnel de l'AFMPS chargés des évaluations visées aux articles 45, 50 et 54, sont soumis à l'article 8, § 3, de la loi du 20 juillet 2006 relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé.
+
+#### Sous-section 2. - Procédure relative à l'autorisation d'une investigation clinique
+
+##### Art. 44
+
+Par dérogation à l'article 70, paragraphe 7, a), du règlement 2017/745, le promoteur ne peut débuter l'investigation clinique dans le cas de dispositifs de classe I ou de dispositifs non invasifs de classe IIa et IIb que lorsque le ministre ou son délégué lui a notifié l'autorisation visée à l'article 48. La procédure d'autorisation visée aux articles 45 à 48 est d'application.
+
+##### Art. 45
+
+La procédure de validation des demandes d'autorisation d'une investigation clinique évaluée au niveau national, telle que visée à l'article 70, paragraphes 1 à 5, du règlement 2017/745, et des demandes d'autorisation d'une investigation clinique évaluée de manière coordonnée, telle que visée à l'article 78, paragraphe 3, alinéa 2 et paragraphe 4, a) à c), du règlement 2017/745, relève de la compétence de l'AFMPS.
+
+Le Roi peut préciser la procédure et les modalités relatives à la validation des demandes visées à l'alinéa 1er.
+
+##### Art. 46
+
+L'AFMPS et un Comité d'éthique sont chargés de l'évaluation des demandes d'autorisation d'une investigation clinique, visées aux articles 70 et 78, paragraphes 1er à 11, du règlement 2017/745.
+
+Le Roi détermine les éléments qu'évaluent respectivement l'AFMPS et le Comité d'éthique dans le cadre de l'évaluation visée à l'alinéa 1er.
+
+##### Art. 47
+
+Le Collège transmet l'avis du Comité d'éthique à l'AFMPS. L'AFMPS est responsable de la consolidation de l'évaluation de l'AFMPS et de l'avis du Comité d'éthique dans un rapport.
+
+Dans le cadre d'une évaluation coordonnée, conformément à l'article 78 du règlement 2017/745, le rapport visé à l'alinéa 1er contient un volet faisant l'objet d'une évaluation coordonnée, conformément à l'article 78, paragraphe 3, alinéa 1er, du règlement 2017/45, et un volet faisant l'objet d'une évaluation nationale séparée, conformément à l'article 78, paragraphe 3, alinéa 2, du règlement 2017/745. Dans les hypothèses où la Belgique agit en tant qu'Etat membre coordonnateur conformément à l'article 78, paragraphe 2, du règlement 2017/745, le volet du rapport faisant l'objet d'une évaluation coordonnée constitue le rapport d'évaluation au sens de l'article 78, paragraphe 4, d), du règlement 2017/745.
+
+##### Art. 48
+
+Le ministre ou son délégué prend une décision unique relative à la demande d'autorisation d'investigation clinique, conformément à l'article 70, paragraphe 7, b), ou à l'article 78, paragraphe 11, du règlement 2017/745.
+
+L'investigation clinique ne peut être autorisée que si l'AFMPS et le Comité d'éthique ont tous deux émis un avis favorable en ce sens.
+
+L'investigation clinique ne peut être autorisée que sous conditions si l'AFMPS et le Comité d'éthique ont émis l'un ou l'autre une ou plusieurs conditions. Dans l'hypothèse où les conditions émises respectivement, à l'issue de leur examen, par l'AFMPS et par le Comité d'éthique sont incompatibles les unes avec les autres, l'AFMPS en avise le ministre dans le rapport visé à l'article 49, alinéa 1er. Dans cette hypothèse, l'investigation clinique ne peut pas être autorisée.
+
+Le ministre ne peut pas déroger aux conclusions conjointes de l'AFMPS et du Comité d'éthique, émises au moyen du rapport visé à l'article 49, alinéa 1er.
+
+##### Art. 49
+
+Le Roi peut déterminer la manière dont l'AFMPS, le Comité d'éthique et, le cas échéant, le Collège:
+
+1° demandent des informations complémentaires au promoteur, conformément à l'article 70, paragraphe 6, du règlement 2017/745 ;
+
+2° prolongent de vingt jours supplémentaires le délai visé à l'article 70, paragraphe 7, b), du règlement 2017/745, aux fins de la consultation d'experts, conformément à ce même article du règlement 2017/745 ;
+
+3° coordonnent et consolident les observations et propositions à propos du projet de rapport d'évaluation respectives des Etats membres concernés, en application de l'article 78, paragraphe 4, d), du règlement 2017/745 ;
+
+4° demandent des informations complémentaires au promoteur, conformément à l'article 78, paragraphe 5, du règlement 2017/745 ;
+
+5° pour les dispositifs de classe IIb et III, prolongent les délais visés à l'article 78, paragraphe 4, du règlement, de cinquante jours supplémentaires aux fins de la consultation d'experts, conformément à l'article 78, paragraphe 6, du règlement 2017/745 ;
+
+6° contestent la conclusion de l'Etat coordonnateur pour ce qui concerne le volet faisant l'objet d'une évaluation coordonnées, conformément à l'article 78, paragraphe 8, alinéas 2 et 3, du règlement 2017/745.
+
+#### Sous-section 3. - Procédure relative à l'autorisation de modifications substantielles d'une investigation clinique
+
+##### Art. 50
+
+L'AFMPS et un Comité d'éthique sont chargés de l'évaluation des demandes d'autorisation de modifications substantielles, visées aux articles 75 et 78, paragraphe 12, du règlement 2017/745.
+
+Le Roi détermine les éléments qu'évaluent respectivement l'AFMPS et le Comité d'éthique dans le cadre de l'évaluation visée à l'alinéa 1er.
+
+##### Art. 51
+
+Le Roi peut déterminer la manière dont l'AFMPS, le Comité d'éthique et, le cas échéant, le Collège prolongent le délai visé à l'article 75, paragraphe 3, du règlement 2017/745, de sept jours supplémentaires aux fins de la consultation d'experts, conformément à l'article 75, paragraphe 4, du règlement 2017/745.
+
+##### Art. 52
+
+Le Collège transmet l'avis du Comité d'éthique à l'AFMPS. L'AFMPS est responsable de la consolidation de l'évaluation de l'AFMPS et de l'avis du Comité d'éthique dans un rapport.
+
+Dans le cadre d'une évaluation coordonnée, conformément à l'article 78, paragraphe 12, du règlement 2017/745, le rapport visé à l'alinéa 1er contient un volet faisant l'objet d'une évaluation coordonnée et un volet faisant l'objet d'une évaluation nationale séparée.
+
+Dans les hypothèses où la Belgique agit en tant qu'Etat membre coordonnateur, le volet du rapport faisant l'objet d'une évaluation coordonnée constitue le rapport d'évaluation au sens du règlement 2017/745.
+
+##### Art. 53
+
+Le ministre ou son délégué prend la décision relative à la demande d'autorisation de modifications substantielles de d'investigation clinique, conformément à l'article 75, paragraphe 3 ou à l'article 78, paragraphe 12, du règlement 2017/745.
+
+L'investigation clinique ne peut être autorisée que si l'AFMPS et le Comité d'éthique ont tous deux émis un avis favorable en ce sens.
+
+L'investigation clinique ne peut être autorisée que sous conditions si l'AFMPS et le Comité d'éthique ont émis l'un ou l'autre une ou plusieurs conditions. Dans l'hypothèse où les conditions émises respectivement, à l'issue de leur examen, par l'AFMPS et par le Comité d'éthique sont incompatibles les unes avec les autres, l'AFMPS en avise le ministre dans le rapport visé à l'article 52, alinéa 1er. Dans cette hypothèse, l'investigation clinique ne peut pas être autorisée.
+
+Le ministre ne peut pas déroger aux conclusions conjointes de l'AFMPS et du Comité d'éthique, émises au moyen du rapport visé à l'article 52, alinéa 1er.
+
+### Section 4. - Evaluation des notifications d'investigations SCAC lorsque l'investigation impliquerait de soumettre les participants à des procédures additionnelles à celles déjà menées dans des conditions normales d'utilisation du dispositif et que ces procédures supplémentaires sont invasives ou lourdes
+
+##### Art. 54
+
+Un Comité d'éthique est chargé de l'évaluation des notifications d'investigations SCAC lorsque l'investigation impliquerait de soumettre les participants à des procédures additionnelles à celles déjà menées dans des conditions normales d'utilisation du dispositif et que ces procédures supplémentaires sont invasives ou lourdes, visées à l'article 74, paragraphe 1er, du règlement 2017/745.
+
+Le Roi détermine les éléments qu'évalue le Comité d'éthique dans le cadre de l'évaluation visée à l'alinéa 1er.
+
+Le Roi peut fixer tout délai relatif à l'évaluation de la notification d'une investigation SCAC visée à l'alinéa 1er, dans le respect des délais prévus par le règlement 2017/745. Il peut déterminer la manière dont l'AFMPS, le Comité d'éthique et le Collège collaborent dans le cadre de l'évaluation de la notification de l'investigation SCAC visée à l'alinéa 1er.
+
+### Section 5. - Recours gracieux
+
+##### Art. 55
+
+§ 1er. Le promoteur peut introduire un recours gracieux auprès du ministre ou de son délégué dans les cas suivants:
+
+1° lorsque la demande d'autorisation d'une investigation clinique est rejetée, conformément à l'article 70, paragraphe 3, alinéa 2, du règlement 2017/745 ;
+
+2° lorsque l'autorisation d'une investigation clinique ou de toute modification substantielle apportée à une investigation clinique autorisée est refusée, en application de l'article 71, paragraphe 4, alinéa 1er, du règlement 2017/745 ;
+
+3° dans les cas visés à l'article 78, paragraphe 10, du règlement 2017/745.
+
+A peine de nullité, le recours est introduit, avec une copie de la décision contestée, dans les trente jours de la publication du refus de l'autorisation.
+
+§ 2. En cas de recours visé au paragraphe 1er, le ministre ou son délégué sollicite, dans les deux jours ouvrables, un avis motivé, d'une part, à l'AFMPS, et, d'autre part, d'un autre Comité d'éthique que celui qui a émis l'avis initial.
+
+Les avis visés à l'alinéa 1er sont transmis [<sup>1</sup> au ministre ou à son délégué, ainsi qu'au promoteur dans un délai de deux mois ]<sup>1</sup> suivant la réception de la demande d'avis.
+
+§ 3. [<sup>1</sup> Le ministre ou son délégué prend une décision dans les trois mois de la réception du recours visé au paragraphe 1er.
+
+Si l'un des avis visés au paragraphe 2 est défavorable ou prévoit l'imposition de conditions, le promoteur dispose d'un délai de cinq jours ouvrables après la réception des avis visés au paragraphe 2 pour communiquer ses observations au ministre ou son délégué, à l'AFMPS et l'autre Comité d'éthique visé au paragraphe 2, sous peine d'irrecevabilité.
+
+L'AFMPS et l'autre Comité d'éthique confirment leurs avis ou les modifient tenant compte des observations du promoteur, dans les dix jours ouvrables suivant la réception des observations du promoteur.
+
+L'investigation clinique ne peut être autorisée que si l'AFMPS et le Comité d'éthique ont tous deux émis un avis favorable en ce sens.
+
+L'investigation clinique ne peut être autorisée que sous conditions si l'AFMPS et le Comité d'éthique ont émis l'un ou l'autre une ou plusieurs conditions. Dans l'hypothèse où les conditions émises respectivement, à l'issue de leur examen, par l'AFMPS et par le Comité d'éthique sont incompatibles les unes avec les autres, l'investigation clinique ne peut pas être autorisée.]<sup>1</sup>.
+
+§ 4. Le Roi peut déterminer la procédure relative à l'introduction et au traitement du recours gracieux visé au paragraphe 1er.
+
+----------
+
+(1)&lt;L 2026-05-30/03, art. 39, 007; En vigueur : 14-06-2026&gt;
+
+### Section 6. - Exigences linguistiques
+
+##### Art. 56
+
+Les dossiers de demande d'autorisation visée aux articles 70 et 78, paragraphes 1er à 11, du règlement 2017/745, de demande de modification d'une investigation clinique visée aux articles, 75 et 78, paragraphe 12, du règlement 2017/745, les notifications SCAC, visées à l'article 74, paragraphe 1er, du règlement 2017/745, et les demandes de recours gracieux visées à l'article 55, sont rédigés dans une des trois langues nationales ou en anglais.
+
+Par dérogation à l'alinéa 1er, les documents destinés aux participants, notamment ceux visés à l'annexe XV, Chapitre II, 4.4., du règlement 2017/745 sont rédigés dans la ou les langue(s) des participants.
+
+[<sup>1</sup> Le promoteur est responsable de la concordance entre les différentes versions linguistiques des documents visés aux alinéas 1er et 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-07-11/12, art. 74, 005; En vigueur : 08-09-2023&gt;
+
+### Section 7. - Mesures correctives
+
+##### Art. 57
+
+Conformément à l'article 76, paragraphes 1er et 2, du règlement 2017/745, le ministre ou son délégué peut prendre des mesures correctives sur le territoire belge. Le Roi peut déterminer les conditions et modalités d'application de ces mesures.
+
+L'AFMPS est responsable des communications visées à l'article 76, paragraphe 3, du règlement 2017/745.
+
+### Section 8. - Mesures d'exécution
+
+##### Art. 58
+
+Le Roi prend les mesures nécessaires à l'exécution des actes délégués pris par la Commission en vertu de l'article 70, paragraphe 8, du règlement 2017/745, et des actes d'exécution pris par la Commission en vertu des articles 70, paragraphe 9, 78, paragraphe 7 et 81, du règlement 2017/745.
+
+### Section 9. - Dispositions transitoires
+
+##### Art. 59
+
+§ 1er. Par dérogation à l'article 34, le comité d'éthique habilité à émettre un avis dans le cadre d'une demande d'autorisation visée aux articles 70 et 78, paragraphes 1er à 11, du règlement 2017/745, d'une demande de modification d'une investigation clinique visée aux articles 71, paragraphe 1er, 75 et 78, paragraphe 12, du règlement 2017/745, d'une notification visée à l'article 74, paragraphe 1er, du règlement 2017/745, ou d'une demande de recours gracieux visé à l'article 55, peut également être un comité d'éthique avec agrément complet conformément à l'article 11/2, de la loi du 7 mai 2004 relative aux expérimentations sur la personne humaine, jusqu'à la date où le règlement (UE) n° 536/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif aux essais cliniques de médicaments à usage humain et abrogeant la directive 2001/20/CE est applicable, conformément à son article 99, alinéa 2.
+
+§ 2. Le comité d'éthique avec agrément complet habilité à émettre un avis est désigné par le Collège visé à l'article 9 de la loi du 7 mai 2017.
+
+Le comité d'éthique avec agrément complet habilité à émettre un avis ne peut en aucun cas être celui du ou des sites d'investigation, sauf lorsque l'ensemble des Comités d'éthique et des comités d'éthique avec agrément complet sont ceux des sites d'investigation.
+
+Le Roi détermine les critères sur la base desquels le Collège désigne le comité d'éthique avec agrément complet habilité à émettre son avis.
+
+##### Art. 60
+
+§ 1er. Les notifications visées aux articles 70, paragraphes 1 à 3, 74, 75, 76, paragraphe 4, 77, paragraphes 1 et 5, 78 et 80, paragraphes 2 et 3 du règlement 2017/745 se font via le site web de l'AFMPS, jusqu'à une date à déterminer par le Roi.
+
+§ 2. Les notifications visées au paragraphe 1er peuvent comprendre les données à caractère personnel mentionnées à l'annexe XV, chapitre II, 1.1 et 1.2, du règlement 2017/745, ainsi que les noms, prénoms et qualifications des investigateurs.
+
+L'AFMPS traite ces données à caractère personnel afin de traiter les notifications visées au paragraphe 1er ;
+
+L'AFMPS est la responsable de ce traitement de données personnelles.
+
+Seules les personnes visées à l'article 76, § 1er, ont un accès direct au traitement de données visées au présent paragraphe.
+
+L'accès se fait suivant les conditions visées à l'article 76, § 2.
+
+Ces données peuvent être communiquées aux personnes visées à l'article 77 et suivant les modalités prévues par cet article.
+
+Elles sont conservées pour une durée de dix ans après la fin de l'investigation clinique concernant le dispositif concerné ou, si le dispositif est ensuite mis sur le marché, de dix ans après la mise sur le marché du dernier dispositif.
+
+Dans le cas des dispositifs implantables, cette durée est de quinze ans.
+
+Le Roi peut préciser les modalités d'application du présent paragraphe et les mesures de sécurité à mettre en oeuvre.
+
+L'avis préalable de l'Autorité de protection des données est requis pour tous les arrêtés royaux en matière de traitement de données à caractère personnel pris en exécution du présent paragraphe.
+
+### Section 10. - Autres investigations cliniques
+
+##### Art. 61
+
+Conformément à l'article 82, paragraphe 2, du règlement 2017/745, le Roi peut définir des exigences supplémentaires à celles visées à l'article 82, paragraphe 1er, du règlement 2017/745, pour les investigations cliniques menées à des fins autres que celles énumérées à l'article 62, paragraphe 1er, du règlement 2017/745, afin de protéger les droits, la sécurité, la dignité et le bien-être des participants et l'intégrité scientifique et éthique des investigations cliniques.
+
+A des fins de protection de la santé publique et de protection des participants, le Roi définit les exigences applicables aux investigations de dispositifs fabriqués et utilisés exclusivement dans les établissements de santé établis dans l'Union qui répondent aux conditions de l'article 5, paragraphe 5, du règlement 2017/745.
+
+## CHAPITRE 7. - Surveillance après commercialisation, vigilance et surveillance du marché
+
+### Section 1re. - Vigilance
+
+##### Art. 62
+
+§ 1er. Les professionnels de la santé, ainsi que toute personne utilisant des dispositifs dans le cadre de son activité professionnelle, sont tenus de notifier à l'AFMPS les incidents graves en lien avec ce dispositif.
+
+La notification visée à l'alinéa 1er se fait via le formulaire disponible sur le site web de l'AFMPS.
+
+Dans le cas visé à l'alinéa 1er, l'AFMPS en informe le fabricant ou son mandataire, conformément à l'article 87, paragraphe 11, du règlement 2017/745.
+
+Par dérogation à l'alinéa 1er, le professionnel de la santé exerçant au sein d'un hôpital communique les incidents graves au point de contact matériovigilance visé à l'article 63, § 1er.
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-06-30/06, art. 9, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 63
+
+§ 1er. Les hôpitaux visés à l'article 2 de la loi cordonnée du 10 juillet 2008 sur les hôpitaux et autres établissements de soins, créent, en leur sein, un point de contact matériovigilance chargé de remplir des tâches en matière de vigilance.
+
+L'identité et les données de contact de ce point de contact matériovigilance sont notifiées à l'AFMPS. Les hôpitaux informent immédiatement l'AFMPS de tout changement dans ces données.
+
+L'AFMPS publie sur son site web la liste des points de contact matériovigilance et les données mentionnées à l'alinéa 2.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. Le Roi précise les tâches du point de contact matériovigilance visé au paragraphe 1er.
+
+Il détermine également les modalités de la notification visée au paragraphe 1er.
+
+----------
+
+(1)&lt;L 2026-06-30/06, art. 10, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 64
+
+Dans le cadre de l'article 88, paragraphe 2, du règlement 2017/745, l'AFMPS peut imposer aux fabricants des mesures appropriées afin de garantir la protection de la santé publique et la sécurité des patients.
+
+Dans le cas visé à l'alinéa 1er, l'AFMPS en informe la Commission européenne, les autres autorités compétentes et, le cas échéant, l'organisme notifié concerné.
+
+Le Roi peut déterminer la procédure applicable à l'adoption de telles mesures.
+
+##### Art. 65
+
+L'avis de sécurité visé à l'article 89, paragraphe 8 du règlement 2017/745 est rédigé dans les trois langues nationales.
+
+Par exception, pour les dispositifs dont les utilisateurs sont exclusivement des professionnels de la santé, ces informations peuvent être fournies en anglais. Dans ce cas, toutefois, l'utilisateur peut exiger du fabricant qu'il lui fournisse ces informations dans la langue nationale de son choix.
+
+##### Art. 66
+
+Les rapports et notifications visés aux articles 86, 87, 88 en 89 du règlement 2017/745, sont rédigés dans une des trois langues nationales ou en anglais.
+
+### Section 2. - Dispositions transitoires
+
+##### Art. 67
+
+§ 1er. Les fabricants de dispositifs mis à disposition sur le marché avant la date prévue à l'article 123, paragraphe 2, du règlement 2017/745, et qui ne seront plus mis à disposition sur le marché ou mis en service après cette date sont soumis, en ce qui concerne la vigilance, aux obligations énoncées à l'article 12 de l'arrêté royal du 15 juillet 1997 relatif aux dispositifs médicaux implantables actifs et à l'article 11 de l'arrêté royal du 18 mars 1999 relatif aux dispositifs médicaux.
+
+A partir d'une date déterminée par le Roi, les fabricants de dispositifs visés à l'alinéa 1er, notifient les incidents graves liés à l'utilisation de ces dispositifs, ainsi que les mesures correctives de sécurité et les avis de sécurité associés via le système électronique Eudamed visé à l'article 92 du règlement 2017/745.
+
+Les fabricants effectuent les notifications visées à l'alinéa 2 dans les délais mentionnés à l'article 87 du règlement 2017/745.
+
+§ 2. A la suite de la notification d'un incident grave en application du paragraphe 1er, le fabricant mène sans tarder les investigations nécessaires liées à cet incident et aux dispositifs concernés. Ces investigations comprennent une évaluation des risques résultant de l'incident et des mesures correctives de sécurité en tenant compte des critères énoncés à l'article 89, paragraphe 3, du règlement 2017/745.
+
+##### Art. 68
+
+§ 1er. Les notifications des mesures correctives de sécurité visées à l'article 87, § 1er, b), du règlement 2017/745 se font via le site web de l'AFMPS, jusqu'à une date à déterminer par le Roi.
+
+§ . 2.[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-06-30/06, art. 11, 008; En vigueur : 23-07-2026&gt;
+
+### Section 3.
+
+&lt;Abrogé par L 2026-06-30/06, art. 12, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 69
+
+&lt;Abrogé par L 2026-06-30/06, art. 12, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 70
+
+&lt;Abrogé par L 2026-06-30/06, art. 12, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 71
+
+&lt;Abrogé par L 2026-06-30/06, art. 12, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 72
+
+&lt;Abrogé par L 2026-06-30/06, art. 12, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 73
+
+&lt;Abrogé par L 2026-06-30/06, art. 12, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 74
+
+&lt;Abrogé par L 2026-06-30/06, art. 12, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 75
+
+&lt;Abrogé par L 2026-06-30/06, art. 12, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 76
+
+&lt;Abrogé par L 2026-06-30/06, art. 12, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 77
+
+&lt;Abrogé par L 2026-06-30/06, art. 12, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 78
+
+&lt;Abrogé par L 2026-06-30/06, art. 12, 008; En vigueur : 23-07-2026&gt;
+
+### Section 4. - Surveillance du marché
+
+##### Art. 79
+
+Pour les raisons mentionnées aux articles 95, paragraphe 4, et 97, paragraphe 2, du règlement 2017/745, le ministre ou son délégué peut adopter les mesures visées dans ces articles.
+
+Le Roi peut déterminer la procédure applicable à l'adoption des mesures visées à l'alinéa 1er.
+
+##### Art. 80
+
+Pour les raisons mentionnées à l'article 98 du règlement 2017/745, le ministre ou son délégué prend toute mesure nécessaire et justifiée conformément à l'article précité.
+
+Le Roi peut déterminer la procédure applicable à l'adoption des mesures visées à l'alinéa 1er.
+
+### Section 5. - Inspection
+
+##### Art. 81
+
+Sans préjudice des compétences des officiers de police judiciaire, les membres du personnel statutaires ou, à défaut, les membres du personnel engagés dans les liens d'un contrat de travail à durée indéterminée, de l'AFMPS, désignés à cette fin par le Roi, surveillent l'application du règlement 2017/745, du chapitre IV du règlement 2017/746, de la présente loi et de ses arrêtés d'exécution ainsi que l'application des [<sup>1</sup> articles 50 à 66]<sup>1</sup> de la loi du 15 décembre 2013 en matière de dispositifs médicaux et des arrêtés d'exécution de ces articles, en effectuant des inspections, si nécessaire inopinées, ainsi que, s'il y a lieu, en demandant à un laboratoire désigné à cet effet d'effectuer des analyse sur les échantillons.
+
+Les membres du personnel visés à l'alinéa 1er prêtent serment, préalablement à l'exercice de leurs fonctions, entre les mains du ministre ou de son délégué.
+
+Le Roi peut, par un arrêté délibéré en Conseil des ministres, désigner les membres du personnel statutaire ou contractuel d'autres Services publics fédéraux pour la surveillance des dispositifs visés par le règlement 2017/745, par la présente loi et par ses arrêtés d'exécution.
+
+----------
+
+(1)&lt;L 2022-06-15/03, art. 118, 003; En vigueur : 01-07-2022&gt;
+
+##### Art. 82
+
+§ 1er. Sans préjudice des compétences des officiers de police judiciaire, les membres du personnel statutaire ou contractuel visés à l'article 81, munis de pièces justificatives de leurs fonctions, peuvent dans l'exercice de leur mission:
+
+1° accéder, entre 5 heures du matin et 9 heures du soir, à tous les lieux où des dispositifs ou services visés par le règlement 2017/745, le chapitre IV du règlement 2017/746, la présente loi, ses arrêtés d'exécution, les articles 50 à 62 de la loi du 15 décembre 2013 en matière de dispositifs médicaux et des arrêtés d'exécution de ces articles sont vendus, délivrés, cédés à titre onéreux ou non, fabriqués, préparés, conservés ou entreposés, dans les locaux des opérateurs économiques, ainsi que des fournisseurs et/ou sous-traitants, et, au besoin, dans les installations des utilisateurs professionnels ou autres lieux soumis à leur contrôle même si ceux-ci ne sont pas accessibles au public et plus généralement, tous les lieux dans lesquels ils peuvent avoir un motif raisonnable de supposer qu'il existe des infractions aux dispositions des législations dont ils exercent la surveillance en vertu de l'article 81, alinéa 1er. Toutefois, en dehors de ces heures, ils ne peuvent pénétrer dans les lieux précités, qu'avec l'autorisation préalable du tribunal de police. Dans les locaux habités, ils ne peuvent pénétrer qu'avec l'autorisation préalable du tribunal de police.
+
+2° procéder à tout examen, contrôle et audition et recueillir toutes informations qu'ils estiment nécessaires pour s'assurer que les dispositions des législations dont ils exercent la surveillance sont effectivement observées et notamment:
+
+a) interroger toute personne dont ils estiment l'audition nécessaire, sur tout fait dont la connaissance est utile à l'exercice de la surveillance ;
+
+b) prendre l'identité de toute personne dont ils estiment l'audition nécessaire pour l'exercice de la surveillance ; à cet effet, exiger des personnes la présentation de documents officiels d'identification ou rechercher l'identité de ces personnes par d'autres moyens, y compris en faisant des photos et des prises de vues par film et vidéo ;
+
+c) se faire produire, sans déplacement, pour en prendre connaissance, tous livres, registres, documents, disques, bandes ou n'importe quels autres supports d'information contenant des données dont l'établissement, la tenue ou la conservation sont prescrits par les législations dont ils exercent la surveillance en vertu de l'article 81, alinéa 1er ainsi que tous les autres livres, registres, documents, disques, bandes ou n'importe quels autres supports d'information qu'ils jugent nécessaires à l'exercice de la surveillance, et en prendre des extraits, des duplicata, des impressions, des listages, des copies ou des photocopies, ou se faire fournir ceux-ci sans frais, ou même saisir n'importe quels supports d'information visés par le présent litera contre récépissé ;
+
+d) se faire produire, sans déplacement, pour en prendre connaissance, tous les autres livres, registres, documents, disques, bandes ou n'importe quels autres supports d'information qu'ils jugent nécessaires à l'accomplissement de leur mission et en prendre des extraits, des duplicata, des impressions, des listages, des copies ou des photocopies ou se faire fournir ceux-ci sans frais, ou même saisir n'importe quels supports d'information visés par le présent litera contre récépissé ;
+
+e) saisir contre récépissé ou mettre sous scellés d'autres biens mobiliers que ceux visés aux littéras c et d en ce compris les biens mobiliers qui sont immeubles par incorporation ou par destination, que le contrevenant en soit propriétaire ou pas, qui sont soumis à leur contrôle ou par lesquels des infractions aux législations dont ils exercent la surveillance peuvent être constatées lorsque cela est nécessaire à l'établissement de la preuve de ces infractions, lorsque cela peut permettre de déceler les coauteurs ou les complices de l'infraction ou lorsque le danger existe qu'avec ces biens, les infractions persistent ou que de nouvelles infractions soient commises ou encore lorsque les objets semblent former les choses ou les avantages patrimoniaux visés à l'article 42 du Code Pénal ;
+
+f) faire des constatations en faisant des photos et des prises de vues par film ou vidéo ;
+
+g) inspecter les locaux, registres, documents et dossiers de base du système de vigilance et du système de surveillance post-marketing des opérateurs économiques.
+
+§ 2. Les membres du personnel statutaires et contractuels visés à l'article 81, ont le droit de faire toutes les constatations utiles, de donner des avertissements, de fixer au contrevenant un délai pour se mettre en règle et de dresser des procès-verbaux.
+
+Ces procès-verbaux font foi jusqu'à preuve du contraire. Une copie de ceux-ci est portée à la connaissance du contrevenant endéans un délai de vingt jours, qui prend cours le lendemain du jour de la constatation de l'infraction. Lorsque le jour d'échéance qui est compris dans ce délai est un samedi, un dimanche ou un jour férié il est déplacé au jour ouvrable suivant.
+
+Pour l'application du délai déterminé à l'alinéa 2, l'avertissement donné au contrevenant ou la fixation d'un délai pour se mettre en règle n'emporte pas la constatation de l'infraction.
+
+Le procès-verbal original est envoyé à l'agent désigné en application de l'article 93, § 1er de la présente loi.
+
+Lors de l'établissement des procès-verbaux les constatations matérielles faites par eux, peuvent être utilisées, avec leur force probante, par les autres membres du personnel statutaires ou contractuels du même service, des autres services d'inspection ou par les membres du personnel statutaires ou contractuels chargés de la surveillance du respect d'autres législations.
+
+§ 3. Les membres du personnel statutaire et contractuel visés au § 1er, dans l'exercice de leur fonction, peuvent requérir l'assistance de la force publique.
+
+##### Art. 83
+
+§ 1er. Tous les services de l'Etat, y compris les parquets et les greffes des cours et de toutes les juridictions, des provinces, des agglomérations, des fédérations de communes, des communes, des associations dont elles font partie, ainsi que les institutions publiques qui en dépendent, mais à l'exception des Communautés et des Régions, sont tenus, vis-à-vis des membres du personnel statutaire ou contractuel visés à l'article 81, et à leur demande, de leur fournir tous renseignements dont ils disposent, ainsi que de leur produire, pour en prendre connaissance, tous actes, pièces, livres, registres, documents, disques, bandes ou n'importe quels autres supports d'information et de leur en fournir des extraits, des duplicata, des impressions, des listages, d'en procurer des copies ou des photocopies que ces derniers estiment utiles à la surveillance du respect des législations visées à l'article 81, alinéa 1er, dont ils sont chargés. Tous les services précités sont tenus de fournir sans frais ces renseignements, extraits, duplicata, impressions, listages, copies ou photocopies.
+
+Toutefois, les actes, pièces, registres, documents ou renseignements relatifs à des procédures judiciaires ne peuvent être communiqués sans l'autorisation expresse du procureur général ou de l'auditeur général.
+
+§ 2. Les membres du personnel statutaire ou contractuel visés à l'article 81 ne peuvent avoir un intérêt quelconque, direct ou indirect, dans les entreprises ou institutions qu'ils sont chargés de contrôler.
+
+§ 3. Le Roi peut déterminer les lignes directrices qui doivent être suiviées par les membres du personnel statutaire ou contractuel visés à l'article 81 lors de l'exécution des inspections.
+
+### Section 6. - Sanctions
+
+##### Art. 84
+
+Les dispositions du Livre Ier du Code pénal sont applicables aux infractions visées par le règlement 2017/745, le chapitre IV du règlement 2017/746, la présente loi, ses arrêtés d'exécution ainsi qu'aux infractions aux [<sup>1</sup> articles 50 à 66]<sup>1</sup> de la loi du 15 décembre 2013 en matière de dispositifs médicaux ou à ses arrêtés d'exécution sous réserve de l'application des dispositions spécifiques mentionnées ci-après.
+
+----------
+
+(1)&lt;L 2022-06-15/03, art. 118, 003; En vigueur : 01-07-2022&gt;
+
+##### Art. 85
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Les infractions aux dispositions du règlement 2017/745, du chapitre IV du règlement 2017/746, de la présente loi ou de ses arrêtés d'exécution sont punies d'une sanction pouvant aller du niveau 1 au niveau 5.
+
+La sanction de niveau 1 est constituée d'une amende pénale de 26 à 500 euros.
+
+La sanction de niveau 2 est constituée d'une amende pénale de 50 à 5 000 euros et d'un emprisonnement de huit jours à une mois ou d'une de ces peines seulement.
+
+La sanction de niveau 3 est constituée d'une amende pénale de 200 à 50.000 euros et d'un emprisonnement d'un mois à un an ou d'une de ces peines seulement.
+
+La sanction de niveau 4 est constituée d'une amende pénale de 1 000 à 100 000 euros et d'un emprisonnement d'un an à trois ans ou d'une de ces peines seulement.
+
+La sanction de niveau 5 est constituée d'une amende pénale de 2000 à 200 000 euros et d'un emprisonnement de deux ans à cinq ans ou d'une de ces peines seulement.
+
+----------
+
+(1)&lt;L 2023-07-11/12, art. 76, 005; En vigueur : 08-09-2023&gt;
+
+##### Art. 86
+
+Sont punis d'une sanction de niveau 1 ceux qui:
+
+1\) sont des fabricants de dispositifs médicaux et contreviennent à l'article 10, paragraphe 10, du règlement 2017/745 ;
+
+2\) contreviennent à l'article 23, paragraphe 1er, du règlement 2017/745.
+
+3\) sont des fabricants et contreviennent l'article 21, paragraphe 2, alinéa 1er, du règlement 2017/745.
+
+4\) sont des établissements de santé et contreviennent à l'article 7, § 3, de la présente loi et/ou ses arrêtés d'exécution ;
+
+5\) sont des importateurs ou des distributeurs et contreviennent aux articles 16, paragraphes 3 et 4 du règlement 2017/745.
+
+##### Art. 87
+
+Sont punis d'une sanction de niveau 2 ceux qui:
+
+1\) contreviennent aux articles 7 et 18 du règlement 2017/745 et à l'article 13 de la présente loi et ses arrêtés d'exécution ;
+
+2\) sont des fabricants de dispositifs médicaux et contreviennent aux articles 10, paragraphes 8, 11 et 14, et 11, paragraphes 1 et 2 du règlement 2017/745, ainsi qu'à l'article 15 de la présente loi et ses arrêtés d'exécution ;
+
+3\) sont des établissements de santé et contreviennent à l'article 7, §§ 1er et 2, de la présente loi et ses arrêtés d'exécution, ainsi qu'à l'article 63 de la présente loi et ses arrêtés d'exécution ;
+
+4\) sont des mandataires et contreviennent à l'article 11, paragraphe 6, du règlement 2017/745 ;
+
+5\) sont des importateurs et contreviennent aux articles 13, paragraphe 9, et 30, paragraphe 3, du règlement 2017/745 ;
+
+6\) sont des organismes notifiés et contreviennent aux articles 44, paragraphe 1er, 46, paragraphe 3, 53, paragraphe 2, du règlement 2017/745, et aux articles 40, paragraphe 1er et 42, paragraphe 3, du règlement 2017/746 ;
+
+7\) sont des promoteurs et contreviennent aux articles 62, paragraphe 2, et 77 du règlement 2017/745, et à l'article 33 de la présente loi et ses arrêtés d'exécution ;
+
+8\) sont des professionnels de la santé ou des personnes utilisant des dispositifs dans le cadre de leur activité professionnelle et contreviennent à l'article 62 de la présente loi et ses arrêtés d'exécution ;
+
+9\) sont des professionnels de la santé ou des personnes utilisant des dispositifs dans le cadre de leur activité professionnelle et utilisent un dispositif réglementé par le règlement 2017/745, la présente loi ou ses arrêtés d'exécution dans l'exercice de leur profession alors qu'il n'est pas conforme à leurs dispositions ;
+
+10\) Sont des distributeurs et contreviennent à l'article 14, paragraphe 6, du règlement 2017/745 ;
+
+11\) sont des fabricants ou des organismes notifiés et contreviennent à l'article 58, paragraphe 1er, du règlement 2017/745.
+
+[<sup>1</sup> 12) sont des fabricants ou d'autres opérateurs économiques et ne respectent pas l'obligation d'information en cas d'interruption ou de cessation de la fourniture de certains dispositifs visée à l'article 10bis, paragraphes 1er et 3, du règlement 2017/745.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-06-30/06, art. 13, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 88
+
+Sont punis d'une sanction de niveau 3 ceux qui:
+
+1\) mettent à disposition sur le marché ou mettent en service des dispositifs non conformes aux dispositions du règlement 2017/745, de la présente loi ou de ses arrêtés d'exécution ;
+
+2\) contreviennent aux articles 17, 22 et 25 du règlement 2017/745, et à l'article 12 de la présente loi ;
+
+3\) empêchent ou entravent l'exercice des fonctions des personnes visées à l'article 81, notamment en leur refusant l'accès à des locaux ou à des documents ;
+
+4\) font obstacle aux vérifications auxquelles elles sont soumises en vertu du règlement 2017/745, de la présente ou de ses arrêtés d'exécution, ou donnent sciemment des renseignements, documents ou pièces faux, inexacts ou incomplets.
+
+5\) [<sup>1</sup> contreviennent aux exigences relatives aux investigations cliniques mentionnées aux articles 61 à 80, et à l'annexe XV du règlement 2017/745, et aux articles 28, 29, [<sup>2</sup> 32, § 3]<sup>2</sup>, 33, 44, [<sup>2</sup> 56, alinéa 2]<sup>2</sup> et 61, de la présente loi et de leurs arrêtés d'exécution ;]<sup>1</sup>
+
+6\) sont des opérateurs économiques et, sous réserve [<sup>3</sup> de l'article 87, 2), 4), 5), 10) et 12).]<sup>3</sup>, ne respectent pas leurs obligations mentionnées aux articles 10 à 15 du règlement 2017/745,et aux articles 9, §§ 1er et 2, 10, 11 et 14 de la présente loi et leurs arrêtés d'exécution ;
+
+7\) sont des organismes notifiés et contreviennent aux articles 46, paragraphe 5, 54 et 58, paragraphe 2, du règlement 2017/745, et aux articles 24 et 25 de la présente loi ;
+
+8\) sont des fabricants ou des opérateurs économiques visés à l'article 16 du règlement 2017/745 et contreviennent aux articles, 53, paragraphe 1er, 84, 85, 86 et 89 du règlement 2017/745, et aux articles 65 et 67 de la présente loi et ses arrêtés d'exécution ;
+
+9\) sont des établissements de santé ou des professionnels de la santé et contreviennent à l'article 16 de la présente loi et ses arrêtés d'exécution ;
+
+10\) sont des opérateurs économiques, ou des organismes notifiés et enfreignent les mesures prises par le ministre ou l'AFMPS en vertu des articles 8, § 3, 17, 20, § 1er, 64, 79 et 80 de la présente loi, et leurs arrêtés d'exécution;
+
+[<sup>1</sup> 11) sont des établissements de santé et contreviennent à l'article 7, § 4, de la présente loi et ses arrêtés d'exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-06-15/03, art. 119, 003; En vigueur : 01-07-2022&gt;
+
+(2)&lt;L 2023-07-11/12, art. 77, 005; En vigueur : 08-09-2023&gt;
+
+(3)&lt;L 2026-06-30/06, art. 14, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 89
+
+Sont punis d'une sanction de niveau 4 ceux qui:
+
+1\) sont des organismes notifiés et contreviennent aux articles 36 et 37 du règlement 2017/745, et aux articles 32 et 33 du règlement 2017/746 ;
+
+2\) sont des opérateurs économiques, des investigateurs ou des promoteurs et enfreignent les mesures prises par le ministre ou l'AFMPS en vertu des articles 57, 79 et 80 de la présente loi et des arrêtés d'exécution de ces articles.
+
+##### Art. 90
+
+Le niveau de sanction initialement prévu pour une infraction au règlement 2017/745, au chapitre IV du règlement 2017/746, à la présente loi ou à ses arrêtés d'exécution est augmenté d'un niveau lorsque l'infraction:
+
+1\) a été commise dans une intention frauduleuse, à dessein de nuire ou dans le but de dissimuler une infraction au règlement 2017/745, au chapitre IV du règlement 2017/746, à la présente loi ou à ses arrêtés d'exécution ;
+
+2\) a causé un événement indésirable grave ;
+
+3\) a été commise par une personne abusant de la confiance que lui confère sa profession ;
+
+4\) en ce qui concerne les infractions relatives à la fourniture ou à l'offre de fourniture de biens ou de services, a été commise en recourant à des procédés de diffusion à grande échelle, tels des systèmes informatisés, en ce compris l'internet ;
+
+5\) a été commise dans le cadre d'une organisation criminelle ou terroriste ;
+
+6\) constitue une récidive dans le délai de cinq ans.
+
+##### Art. 91
+
+La tentative de commettre un délit prévu au règlement 2017/745, au chapitre IV du règlement 2017/746, à la présente loi ou à ses arrêtés d'exécution est punie par le minimum de la peine qui est applicable au délit lui-même.
+
+##### Art. 92
+
+Sans préjudice des articles 57bis et 99bis du Code pénal, les condamnations prononcées par les juridictions pénales d'un autre Etat partie à la Convention du Conseil de l'Europe sur la contrefaçon des produits médicaux et les infractions similaires menaçant la santé publique, signée à Moscou le 28 octobre 2011 produiront les mêmes effets juridiques que les condamnations prononcées par des juridictions nationales pour des infractions au règlement 2017/745, au chapitre IV du règlement 2017/746, à la présente loi ou à ses arrêtés d'exécution.
+
+### Section 7. - Transactions
+
+##### Art. 93
+
+§ 1er. En cas d'infraction aux dispositions du règlement 2017/745, du chapitre IV du règlement 2017/746, de la présente loi, de ses arrêtés d'exécution, des [<sup>1</sup> articles 50 à 66]<sup>1</sup> de la loi du 15 décembre 2013 en matière de dispositifs médicaux ou des arrêtés d'exécution de ces articles, le fonctionnaire-juriste, titulaire du diplôme de doctorat, licence ou master en droit, désigné à cette fin par l'Administrateur général de l'AFMPS, peut proposer à l'auteur présumé de l'infraction une transaction dont le paiement éteint l'action publique.
+
+La transaction est envoyée à l'auteur de l'infraction dans les trois mois à partir de la date du procès-verbal.
+
+En cas de paiement de la transaction dans le mois de son envoi, le fonctionnaire-juriste en informe le procureur du Roi et lui transmet l'original du procès-verbal et une copie de la proposition de la transaction.
+
+Le paiement de la transaction éteint l'action publique, sauf si le procureur du Roi notifie à l'auteur de l'infraction, dans le mois de la date à laquelle l'information du paiement lui a été adressée, qu'il entend exercer cette action.
+
+Si l'action publique est introduite après paiement de la transaction et entraîne la condamnation de l'intéressé, le montant de la transaction est alors imputé sur les frais de justice dus à l'Etat et sur l'amende prononcée.
+
+L'excédent éventuel est restitué. En cas d'acquittement, le montant de la transaction est restitué.
+
+En cas de condamnation conditionnelle, le montant de la transaction est restitué après déduction des frais de justice.
+
+En cas de non-paiement de la transaction dans le mois de son envoi, le fonctionnaire-juriste en informe le procureur du Roi et lui transmet l'original du procès-verbal et une copie de la proposition de la transaction.
+
+Si le fonctionnaire-juriste ne fait pas de proposition de transaction, il transmet l'original du procès-verbal au procureur du Roi dans un délai de trois mois à partir de la date du procès-verbal. Le procureur du Roi peut retourner l'original du procès-verbal au fonctionnaire-juriste afin qu'il propose une transaction à l'auteur présumé de l'infraction. Cette transaction est envoyée à l'auteur de l'infraction dans les trois mois du renvoi.
+
+Les règles de procédure et les modalités de paiement visées au présent paragraphe peuvent être fixées par le Roi.
+
+§ 2. Le montant de la transaction ne peut être inférieur au minimum ni excéder le maximum de l'amende fixée pour l'infraction.
+
+En cas de concours d'infractions, les montants des transactions peuvent être additionnés sans que le montant total ne puisse dépasser le double du maximum de l'amende la plus élevée.
+
+Lorsque la transaction concerne des infractions aux dispositions pour lesquelles, à l'égard de l'intéressé, des infractions par procès-verbal avaient déjà été constatées ou avaient déjà fait l'objet d'un avertissement dans les trois ans de la date de constatation, le montant maximal de la transaction est doublé.
+
+Le montant des transactions est majoré des décimes additionnels qui sont d'application aux amendes prévues par le Code pénal.
+
+Une transaction peut être proposée aussi bien à une personne morale qu'à une personne physique. Le montant de l'amende est établi sur la base de l'amende fixée pour l'infraction sans tenir compte de l'éventuelle peine d'emprisonnement.
+
+Lorsque l'infraction à la présente loi ou à ses arrêtés d'exécution a donné lieu à des frais d'analyse ou d'expertise, le montant maximum de la transaction déterminé suivant les règles énoncées au présent paragraphe peut être augmenté du montant ou d'une partie du montant de ces frais. La partie du montant de la transaction destinée à couvrir ces frais sera attribuée à l'organisme ou à la personne qui les a exposés.
+
+§ 3. La personne à qui le paiement de la transaction est proposé, peut, sur demande auprès du fonctionnaire-juriste, prendre connaissance du dossier concernant l'infraction à sa charge. Cette personne peut faire parvenir par écrit ses remarques ou moyens de défenses à l'AFMPS qui, en cas de non-paiement de la transaction, les transmettra au procureur du Roi avec le procès-verbal qui constate l'infraction.
+
+§ 4. L'employeur est civilement responsable du paiement de la transaction proposée à son préposé.
+
+§ 5. Les sommes résultant des transactions sont versées au compte de l'AFMPS à son profit.
+
+§ 6. La faculté de proposer à l'auteur de l'infraction une transaction dont le paiement éteint l'action publique, ne peut pas être exercée lorsque le tribunal est déjà saisi du fait ou lorsque le juge d'instruction est requis d'instruire.
+
+----------
+
+(1)&lt;L 2022-06-15/03, art. 118, 003; En vigueur : 01-07-2022&gt;
+
+### Section 8. - Traitement des données Inspection
+
+##### Art. 94
+
+[<sup>1</sup> L'AFMPS traite des données à caractère personnel nécessaires pour assurer la surveillance du règlement 2017/745, de la présente loi et de ses arrêtés d'exécution conformément aux dispositions du Chapitre IV/3, de la loi du 20 juillet 2006 relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-09/29, art. 33, 006; En vigueur : 27-05-2024&gt;
+
+##### Art. 95
+
+&lt;Abrogé par L 2024-04-09/29, art. 34, 006; En vigueur : 27-05-2024&gt;
+
+##### Art. 96
+
+&lt;Abrogé par L 2024-04-09/29, art. 34, 006; En vigueur : 27-05-2024&gt;
+
+##### Art. 97
+
+&lt;Abrogé par L 2024-04-09/29, art. 34, 006; En vigueur : 27-05-2024&gt;
+
+##### Art. 98
+
+&lt;Abrogé par L 2024-04-09/29, art. 34, 006; En vigueur : 27-05-2024&gt;
+
+##### Art. 99
+
+&lt;Abrogé par L 2024-04-09/29, art. 34, 006; En vigueur : 27-05-2024&gt;
+
+##### Art. 100
+
+&lt;Abrogé par L 2024-04-09/29, art. 34, 006; En vigueur : 27-05-2024&gt;
+
+##### Art. 101
+
+&lt;Abrogé par L 2024-04-09/29, art. 34, 006; En vigueur : 27-05-2024&gt;
+
+##### Art. 102
+
+&lt;Abrogé par L 2024-04-09/29, art. 34, 006; En vigueur : 27-05-2024&gt;
+
+##### Art. 103
+
+&lt;Abrogé par L 2024-04-09/29, art. 34, 006; En vigueur : 27-05-2024&gt;
+
+## CHAPITRE 7/1. [<sup>1</sup> Traitement de données relatif à la vigilance et aux opérateurs économiques]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 15, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 103/1
+
+[<sup>1</sup> L'AFMPS traite des données à caractère personnel pour les finalités suivantes:
+
+1° l'enregistrement des distributeurs de dispositifs conformément à l'article 50 de la loi du 15 décembre 2013 en matière de dispositifs médicaux;
+
+2° la gestion des demandes de certificats de libre vente visés à l'article 27 et de certificats d'exportation visés à l'article 27/1;
+
+3° la publication de la déclaration visée à l'article 5, paragraphe 5, e), du règlement 2017/745 et la notification des incidents graves et des mesures correctives concernant un dispositif fabriqué et utilisé exclusivement au sein d'un établissement de santé conformément à l'article 7, § 2;
+
+4° la notification des établissements de santé qui retraitent et utilisent des dispositifs à usage unique retraités conformément à l'article 12, § 3;
+
+5° la transmission et la gestion de formulaires d'autocontrôle visés à l'article 62 de la loi du 15 décembre 2013 en matière de dispositifs médicaux;
+
+6° la déclaration annuelle du chiffre d'affaires par les opérateurs économiques actifs dans le domaine des dispositifs visée à l'article 14/4 de la loi du 20 juillet 2006 relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé, aux fins de calcul des contributions ou redevances dues à l'AFMPS;
+
+7° l'enregistrement et la gestion centralisée des données relatives à l'implantation ou au retrait de dispositifs implantables conformément à l'article 51 de la loi du 15 décembre 2013 en matière de dispositifs médicaux, aux fins de garantir la traçabilité, la transparence envers les patients et la gestion des mesures prises en cas d'incident grave;
+
+8° la notification des entreprises qui installent ou maintiennent des dispositifs dans le cadre d'un traitement médical d'un patient en dehors d'un hôpital, conformément à l'article 60, § 2, alinéas 1er et 3, de la loi du 15 décembre 2013 en matière de dispositifs médicaux;
+
+9° la gestion des demandes de dérogation visées à l'article 59 du règlement 2017/745 et à l'article 26;
+
+10° la gestion des notifications, des déclarations d'incidents graves et des mesures correctives en matière de matériovigilance, conformément aux articles 62 à 68, laquelle comprend l'enregistrement des signalements effectués par les professionnels de santé ou les fabricants, l'analyse et le suivi des incidents et des risques potentiels, la coordination avec les opérateurs économiques concernés ainsi que la mise en oeuvre et le suivi des mesures correctives, y compris les retraits ou modifications de dispositifs, en vue d'assurer la sécurité des patients et la conformité des dispositifs;
+
+11° la notification des fabricants de dispositifs sur mesure selon l'article 15, § 1er;
+
+12° l'enregistrement volontaire des acteurs non soumis à enregistrement obligatoire auprès de l'AFMPS, aux fins de faciliter la communication avec l'AFMPS;
+
+13° permettre à l'AFMPS d'effectuer des analyses statistiques internes sur les données qu'elle détient, conformément à l'article 89 du règlement 2016/679, en privilégiant, lorsque cela est possible, l'utilisation de données anonymes ou, à défaut, pseudonymisées, afin d'améliorer la qualité de ses activités. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 17, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 103/2
+
+[<sup>1</sup> L'AFMPS est la responsable du traitement de données visé à l'article 103/1. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 17, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 103/3
+
+[<sup>1</sup> Les données visées à l'article 103/1 proviennent des déclarations, enregistrements, demandes, formulaires, rapports ou autres documents transmis à l'AFMPS dans le cadre de l'exécution des finalités visées à l'article 103/1. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 18, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 103/4
+
+[<sup>1</sup> Les personnes concernées par le traitement de données visé à l'article 103/1 sont les suivantes:
+
+1° les personnes physiques qui exercent une fonction au sein d'un opérateur économique, d'un établissement de santé ou d'une entreprise visée à l'article 59 de la loi du 15 décembre 2013 en matière de dispositifs médicaux et dont les données sont traitées dans le cadre d'une des finalités mentionnées à l'article 103/1;
+
+2° les patients ou utilisateurs victimes d'un incident grave notifié dans le cadre des obligations de matériovigilance visées aux articles 62 à 68;
+
+3° les patients ayant fait l'objet d'une intervention d'implantation ou de retrait d'un dispositif implantable, ainsi que les professionnels de la santé impliqués dans l'implantation, le retrait, la délivrance ou la prescription d'un dispositif devant faire l'objet d'un enregistrement conformément à l'article 51 de la loi du 15 décembre 2013 en matière de dispositifs médicaux. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 19, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 103/5
+
+[<sup>1</sup> Les catégories de données à caractère personnel traitées dans le cadre du traitement visé à l'article 103/1 sont les suivantes:
+
+1° pour l'enregistrement des distributeurs de dispositifs conformément à l'article 50 de la loi du 15 décembre 2013 en matière de dispositifs médicaux: les données de contact professionnelles des personnes de contact des distributeurs, les données d'identification du représentant légal, les données d'identification d'une entreprise, le numéro d'enregistrement auprès de l'AFMPS, ainsi que la fonction exercée au sein de l'entreprise par les personnes de contact, notamment lorsqu'elles agissent comme personne de contact principale ou suppléante, responsable de la matériovigilance ou suppléante, ou dans toute autre fonction déclarée à l'AFMPS;
+
+2° pour la gestion des demandes de certificats de libre vente visés à l'article 27 et de certificats d'exportation visés à l'article 27/1: les données d'identification d'une entreprise, les données de contact professionnelles des personnes introduisant la demande, ainsi que les données de contact professionnelles des personnes désignées pour recevoir le statut de la demande, la e-legalisation ou la facturation du certificat;
+
+3° pour la publication de la déclaration visée à l'article 5, paragraphe 5, e), du règlement 2017/745 et pour la notification des incidents graves et des mesures correctives concernant un dispositif fabriqué et utilisé exclusivement au sein d'un établissement de santé conformément à l'article 7, § 2: les données de contact professionnelles des personnes de contact des établissements de santé concernés, les données d'identification d'une entreprise lorsque l'établissement de santé est organisé sous forme d'entité juridique, les données de contact professionnelles du rapporteur, ainsi que les données d'identification d'un patient à des fins de traçabilité nécessaires à la notification, parmi lesquelles le sexe, l'année de naissance, la catégorie d'âge lorsque celle-ci a une incidence sur l'incident, la taille et le poids lorsque ceux-ci ont une incidence sur l'incident, la date de l'incident, la description du dispositif et les conséquences de l'incident sur la santé;
+
+4° pour la notification des établissements de santé qui retraitent et utilisent des dispositifs à usage unique retraités conformément à l'article 12, § 3: les données de contact professionnelles des personnes de contact des établissements de santé concernées par le retraitement, les données d'identification d'une entreprise lorsque l'établissement de santé est organisé sous forme d'entité juridique, ainsi que les données de contact professionnelles de la personne responsable d'une entreprise externe de retraitement lorsqu'un tel prestataire intervient;
+
+5° pour la transmission et la gestion des formulaires d'autocontrôle visés à l'article 62 de la loi du 15 décembre 2013 en matière de dispositifs médicaux: les données de contact professionnelles des personnes de contact des distributeurs, ainsi que les données d'identification d'une entreprise lorsque ceux-ci sont organisés sous forme d'entité juridique;
+
+6° pour la déclaration annuelle du chiffre d'affaires par les opérateurs économiques conformément à l'article 14/4 de la loi du 20 juillet 2006: les données de contact professionnelles des déclarants personnes physiques ou des personnes de contact des entreprises concernées, ainsi que les données d'identification d'une entreprise lorsque la déclaration est introduite pour le compte d'une entité organisée sous forme d'entreprise;
+
+7° pour l'enregistrement et la gestion centralisée des données relatives à l'implantation ou au retrait de dispositifs conformément à l'article 51 de la loi du 15 décembre 2013 en matière de dispositifs médicaux: les données d'identification d'un patient à des fins de traçabilité, les données de traçabilité d'un dispositif, les données d'identification d'un professionnel de la santé concernant le professionnel prescripteur et le professionnel ayant réalisé l'acte, les données d'identification d'une entreprise et les données d'identification du représentant légal lorsqu'une pharmacie ouverte au public ou une pharmacie hospitalière a mis le dispositif à disposition, ainsi que, le cas échéant, les données d'identification du membre du personnel administratif chargé de l'enregistrement des données;
+
+8° pour la notification des entreprises qui installent ou maintiennent des dispositifs dans le cadre d'un traitement médical en dehors de l'hôpital conformément à l'article 60, § 2, alinéas 1er et 3, de la loi du 15 décembre 2013 en matière de dispositifs médicaux: les données de contact professionnelles des personnes de contact de ces entreprises, les données d'identification d'une entreprise et les données d'identification du représentant légal;
+
+9° pour la gestion des demandes de dérogation visées à l'article 59 du règlement 2017/745 et à l'article 26: les données de contact professionnelles du professionnel de la santé demandeur, les données d'identification d'une entreprise lorsque la demande est introduite par un fabricant, un mandataire, un distributeur, un importateur ou toute personne mandatée, les données d'identification du représentant légal lorsque cela s'applique, ainsi que les données d'identification d'un patient à des fins de traçabilité, complétées des informations médicales suivantes strictement nécessaires à l'examen de la demande: le sexe, l'année de naissance, les raisons médicales justifiant le recours à la dérogation, les conséquences potentielles d'un refus, les informations relatives à une intervention chirurgicale, les motifs pour lesquels les dispositifs conformes ne peuvent pas être utilisés, les informations relatives à une participation à une étude clinique et les raisons d'une éventuelle non-inclusion, ainsi que la confirmation de l'information du patient sur le caractère dérogatoire de la procédure;
+
+10° pour la gestion des notifications, des déclarations d'incidents graves et des mesures correctives en matière de matériovigilance, en vue d'assurer la sécurité des patients et la conformité des dispositifs, les catégories de données à caractère personnel traitées sont les suivantes:
+
+a) les données de contact professionnelles des personnes déclarant un incident grave, qu'elles agissent ou non pour le compte d'un fabricant, d'un distributeur, d'un représentant autorisé ou d'un établissement de santé;
+
+b) l'adresse postale de la personne déclarant l'incident grave lorsqu'elle n'agit pas pour le compte d'un fabricant, d'un distributeur, d'un représentant autorisé ou d'un établissement de santé;
+
+c) les données de contact professionnelles de la personne désignée comme point de contact en matériovigilance d'un hôpital ou d'un autre établissement de soins;
+
+d) le poids et la taille du patient ou de l'utilisateur lorsque ces données sont pertinentes pour l'analyse de l'incident grave;
+
+e) les informations relatives aux conséquences de l'incident grave sur la santé du patient ou de l'utilisateur, parmi les catégories suivantes: décès, dégradation importante de la santé, dégradation limitée de la santé ou absence de conséquence;
+
+11° pour la notification des fabricants de dispositifs sur mesure selon l'article 15, § 1: les données d'identification d'une entreprise du fabricant ou de son mandataire, les données d'identification du représentant légal lorsqu'il intervient dans la notification, ainsi que les données de contact professionnelles des personnes de contact, y compris celles exerçant le rôle de personne de contact principale ou suppléante, de responsable de la matériovigilance principale ou suppléante ou de personne chargée de veiller au respect de la réglementation;
+
+12° pour la mise en oeuvre de l'enregistrement volontaire des acteurs non soumis à enregistrement obligatoire auprès de l'AFMPS, aux fins exclusives de faciliter la communication avec l'AFMPS: les données de contact professionnelles des personnes de contact désignées et les données d'identification d'une entreprise, ainsi que la fonction exercée par ces personnes au sein de l'acteur concerné;
+
+13° pour permettre à l'AFMPS d'effectuer des analyses statistiques internes sur les données traitées dans le cadre des finalités mentionnées aux points 1° à 13°, conformément à l'article 89 du règlement (UE) 2016/679, en privilégiant, lorsque cela est possible, l'utilisation de données anonymisées ou, à défaut, pseudonymisées, afin d'améliorer la qualité de ses activités .]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 20, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 103/6
+
+[<sup>1</sup> § 1er. L'accès aux données traitées dans le cadre de l'article 103/1 est réservé aux membres du personnel statutaire ou contractuel de l'AFMPS en fonction des tâches qui leur sont attribuées.
+
+Cet accès est individuel, non transférable, et limité aux seules données nécessaires à l'exercice de leurs missions.
+
+Il est soumis à vérification préalable de l'identité de l'utilisateur et à la correspondance de son profil d'accès avec ses fonctions.
+
+Les membres du personnel visés à l'alinéa précédent sont tenus au strict respect de la confidentialité des données à caractère personnel et des autres informations dont ils ont connaissance dans le cadre de leurs fonctions.
+
+Ces données et informations ne peuvent être consultées, utilisées ou communiquées qu'en lien direct avec les missions qui leur sont confiées, et dans les limites strictement nécessaires à leur exécution.
+
+§ 2. Par dérogation au paragraphe 1er, les personnes visées à ce paragraphe peuvent communiquer les données et informations qu'il mentionne:
+
+1° à d'autres membres du personnel de l'AFMPS ne disposant pas d'un accès direct au traitement, pour autant que cette communication soit strictement nécessaire à l'accomplissement des missions de l'AFMPS. Ces autres membres du personnel sont soumis aux obligations de confidentialité prévues au paragraphe 1er;
+
+2° à l'Institut national d'assurance maladie-invalidité, lorsque cette communication est nécessaire pour atteindre l'une des finalités suivantes:
+
+\- disposer d'un point de contact pour toute question relative au remboursement de dispositifs médicaux;
+
+\- assurer un canal de contact rapide avec l'opérateur économique concerné en cas d'incidents, de mesures correctives de sécurité ou de retraits du marché concernant des dispositifs remboursables; pour les finalités visées à l'article 103/1, 10° ;
+
+\- vérifier le respect des conditions de remboursement attachées aux dérogations relatives à des dispositifs remboursables, pour la finalité visée à l'article 103/1, 9° ;
+
+\- croiser, lorsque cela est nécessaire, des informations issues du registre central de traçabilité visé à l'article 103/1, 7°, conformément à l'article 51 de la loi du 15 décembre 2013, avec les données de remboursement relatives aux implants remboursables.
+
+La communication porte uniquement sur les données de contact professionnelles des personnes de contact des opérateurs économiques, les données d'identification d'une entreprise, les données d'identification du représentant légal, les données relatives au dispositif médical concerné nécessaires au traitement de la demande ou au suivi de la procédure de remboursement, ainsi que, pour les opérations de croisement visées à l'alinéa précédent, la nature de l'intervention (implantation ou retrait), la date de l'intervention, l'identifiant unique du dispositif ou, à défaut, le numéro d'identifiant attribué en vertu de l'article 35septies de la loi relative à l'assurance obligatoire soins de santé et indemnités coordonnée le 14 juillet 1994, le nom du dispositif implanté ou retiré et le numéro d'identification de l'établissement de santé dans lequel l'intervention a eu lieu.
+
+3° à des tiers en vue d'assurer la réorientation correcte d'une notification vers l'autorité ou le service compétent lorsque les données traitées révèlent que la notification concerne un produit ou un domaine échappant à la compétence de l'AFMPS, sans conservation des données dans le traitement concerné.
+
+Toute communication doit être documentée. Seules les données nécessaires à la finalité poursuivie peuvent être communiquées.
+
+§ 3. Tout accès ou tentative d'accès aux données visées au présent article fait l'objet d'un enregistrement automatisé dans un journal d'audit sécurisé. Ce journal consigne l'identité de l'utilisateur, la date, l'heure et la nature de l'accès. Sa conservation, son contenu et ses modalités d'exploitation sont définis par un règlement interne soumis pour avis au délégué à la protection des données de l'AFMPS.
+
+§ 4. Le délégué à la protection des données de l'AFMPS contrôle périodiquement les accès aux données visées au présent article, sans préjudice des autres missions qui lui sont confiées en vertu du règlement 2016/679. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 21, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 103/7
+
+[<sup>1</sup> . § 1er. Les données à caractère personnel traitées dans le cadre des finalités visées à l'article 103/1 sont conservées pour les durées suivantes:
+
+1° l'enregistrement des distributeurs visé à l'article 103/1, 1° : dix ans après la fin de l'enregistrement du distributeur auprès de l'AFMPS;
+
+2° la gestion des certificats de libre vente et des certificats d'exportation visée à l'article 103/1, 2° :
+
+\- dix ans après la délivrance du certificat;
+
+\- quinze ans lorsqu'il s'agit d'un certificat relatif à un dispositif implantable;
+
+3° la publication de la déclaration visée à l'article 5, paragraphe 5, e), du règlement 2017/745 et gestion des notifications d'incidents graves ou mesures correctives visée à l'article 103/1, 3° : dix ans après la publication;
+
+4° la notification des établissements de santé retraitant des dispositifs à usage unique visée à l'article 103/1, 4° : dix ans après la notification;
+
+5° la transmission et gestion des formulaires d'autocontrôle visés à l'article 103/1, 5° : cinq ans après leur dépôt;
+
+6° la déclaration annuelle du chiffre d'affaires visée à l'article 103/1, 6° : cinq ans après la déclaration;
+
+7° l'enregistrement des implantations et retraits de dispositifs visé à l'article 103/1, 7° : trente ans après l'enregistrement;
+
+8° la notification des entreprises installant ou assurant la maintenance des dispositifs en dehors de l'hôpital visée à l'article 103/1, 8° : dix ans après la dernière intervention déclarée;
+
+9° la gestion des demandes de dérogation visée à l'article 103/1,9° :
+
+\- dix ans après la demande;
+
+\- quinze ans lorsque la demande concerne un dispositif implantable;
+
+10° la gestion des incidents graves et des mesures correctives en matière de matériovigilance visée à l'article 103/1, 10° :
+
+a) quinze ans après la mise sur le marché ou la mise en service du dernier dispositif implantable concerné;
+
+b) dix ans après la mise sur le marché ou la mise en service du dernier dispositif non implantable concerné;
+
+c) dix ans après le retraitement, ou quinze ans pour les dispositifs implantables retraités;
+
+d) dix ans après la mise sur le marché ou la mise en service des dispositifs sur mesure, ou quinze ans lorsqu'ils sont implantables;
+
+e) trente ans après l'autorisation de mise sur le marché ou de mise en service visée à l'article 26;
+
+11° la notification des fabricants de dispositifs sur mesure visée à l'article 103/1, 11° :
+
+\- dix ans après la notification pour les dispositifs non implantables;
+
+\- quinze ans pour les dispositifs implantables;
+
+12° l'enregistrement volontaire des acteurs non soumis à enregistrement obligatoire visé à l'article 103/1, 12° : 5 ans après l'enregistrement ou jusqu'au retrait volontaire de l'acteur;
+
+13° la réalisation d'analyses statistiques internes visée à l'article 103/1, 13° :
+
+\- dix ans;
+
+\- quinze ans lorsque les analyses portent sur des données relatives à des dispositifs implantables.
+
+§ 2. Les données relatives à l'authentification et aux traces techniques d'accès sont conservées cinq ans après la dernière connexion.
+
+§ 3. Les données pseudonymisées liées aux patients et aux professionnels de la santé dans le cadre du traitement visé à l'article 51 de la loi du 15 décembre 2013 en matière de dispositifs médicaux sont conservées trente ans conformément à cet article.
+
+§ 4. A l'expiration des délais fixés aux paragraphes ci-dessus, les données sont effacées ou rendues anonymes, sauf conservation ultérieure nécessaire pour respecter une obligation légale, mener une recherche scientifique ou statistique d'intérêt public, ou permettre la constatation, l'exercice ou la défense de droits en justice.
+
+§ 5. L'AFMPS adopte, après avis du délégué à la protection des données, un règlement interne fixant les modalités d'effacement ou d'anonymisation. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 22, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 103/8
+
+[<sup>1</sup> " § 1er. Les traitements visés à l'article 103/1, sont mis en oeuvre suivant des mesures techniques et organisationnelles destinées à garantir la sécurité, la fiabilité et la traçabilité des traitements et des opérations informatiques suivantes:
+
+1° l'authentification, via les applications informatiques mises à disposition par l'AFMPS, des personnes physiques qui doivent accéder à ces applications ou s'y connecter dans le cadre de la réalisation des finalités visées à l'article 103/1;
+
+2° assurer la traçabilité des opérations effectuées par les personnes physiques qui se sont authentifiées dans les applications informatiques mises à disposition par l'AFMPS dans le cadre des finalités visées à l'article 103/1;
+
+3° consulter et intégrer, dans les systèmes de l'AFMPS, des données à caractère personnel issues de la Banque-Carrefour des Entreprises, à des fins de vérification, de mise à jour ou d'enregistrement des informations relatives aux personnes physiques liées aux opérateurs économiques concernés par les traitements visés à l'article 103/1, y compris l'accès aux données non publiques relatives à ces personnes physiques;
+
+4° garantir l'identification unique des représentants légaux dans le cadre de la création ou de la mise à jour d'entreprises étrangères concernées par les traitements visés à l'article 103/1 et devant être enregistrées dans la Banque-Carrefour des Entreprises, en ce compris l'attribution d'un numéro d'identification bis à la personne physique étrangère désignée comme représentant légal lorsque celle-ci n'est pas inscrite au Registre national.
+
+Ces mesures techniques et organisationnelles s'appliquent aux personnes physiques qui sont elles-mêmes des opérateurs économiques ou qui agissent en qualité de représentants légaux d'un opérateur économique actif dans le secteur des dispositifs, et qui s'authentifient pour accéder aux applications mises à disposition par l'AFMPS.
+
+§ 2. Dans le cadre des mesures visées au paragraphe 1er, les catégories de données à caractère personnel traitées sont les suivantes:
+
+1° les données d'identification des personnes physiques qui s'authentifient via les applications de l'AFMPS, y compris, le cas échéant, leur numéro d'identification au Registre national ou leur numéro d'identification bis;
+
+2° les données relatives aux opérations effectuées par les personnes authentifiées, incluant des identifiants utilisateurs pseudonymisés dérivés du numéro d'identification au Registre national ou du numéro d'identification bis, les horodatages et la nature des actions réalisées;
+
+3° les données à caractère personnel issues de la Banque-Carrefour des Entreprises concernant les personnes physiques liées aux opérateurs économiques concernés, telles que le nom, le prénom, la fonction, l'adresse et autres données pertinentes;
+
+4° les données d'identification des personnes physiques désignées comme représentants légaux des entreprises étrangères devant être enregistrées dans la Banque-Carrefour des Entreprises, telles que le nom, le prénom, la date de naissance, la nationalité et, le cas échéant, le numéro d'identification bis attribué par l'AFMPS conformément à l'article 8, § 1er, 2°, de la loi du 15 janvier 1990 portant création et organisation d'une Banque-carrefour de la sécurité sociale.
+
+§ 3. Le traitement des numéros d'identification au Registre national et des numéros d'identification bis par les agents de l'AFMPS est effectué exclusivement sous forme pseudonymisée, sauf dans les cas visés au paragraphe 4.
+
+Les pseudonymes sont générés par les sous-traitants techniques agissant pour le compte de l'AFMPS. Seuls ces sous-traitants ont accès aux numéros d'identification en clair, et uniquement dans le cadre strict de la procédure de pseudonymisation. En aucun cas ces numéros en clair ne sont accessibles aux agents de l'AFMPS ni à d'autres personnes ou autorités.
+
+§ 4. Par dérogation au paragraphe 3:
+
+1° les numéros d'identification au Registre national ou les numéros d'identification bis des professionnels de la santé peuvent être traités sous forme non pseudonymisée lorsque cela est nécessaire pour garantir l'intégrité, la traçabilité ou la vérifiabilité des données relatives à la délivrance, à la prescription ou à la pose d'un dispositif implantable;
+
+2° lorsqu'un risque grave et immédiat pour la santé des patients rend nécessaire leur identification directe, un médecin spécialement désigné à cette fin peut accéder aux numéros d'identification en clair conformément à l'article 51, § 8, de la loi du 15 décembre 2013 en matière de dispositifs médicaux;
+
+3° le traitement du numéro d'identification bis tel que visé à l'article 8, § 1er, 2°, de la loi du 15 janvier 1990 portant création et organisation d'une Banque-carrefour de la sécurité sociale peut être effectué sous forme non pseudonymisée lorsqu'il est nécessaire à la génération, à l'attribution ou à la gestion de ce numéro, y compris pour la détection et la résolution de doublons. Ces numéros restent invisibles par défaut dans les interfaces utilisées par les agents de l'AFMPS et ne deviennent accessibles que lorsque cela est requis pour traiter un incident relatif à ces numéros;
+
+4° le traitement du numéro d'identification au Registre national, du numéro d'identification bis ou de tout autre identifiant unique peut être effectué sous forme non pseudonymisée lorsqu'il est nécessaire à la gestion d'une demande de support technique impliquant l'identification précise d'un utilisateur. Ces numéros restent invisibles par défaut dans les interfaces utilisées par les agents de l'AFMPS et ne deviennent accessibles que lorsque cela est nécessaire pour traiter un incident ou une demande;
+
+5° le traitement du numéro d'identification au Registre national ou du numéro d'identification bis à des fins statistiques internes peut être effectué sous forme non pseudonymisée, tout en demeurant invisible pour les utilisateurs de l'AFMPS dans les interfaces d'analyse. Ces numéros servent uniquement de clés techniques cachées assurant la cohérence et l'unicité des données traitées . ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 23, 008; En vigueur : 23-07-2026&gt;
+
+##### Art. 103/9
+
+[<sup>1</sup> Le Roi peut préciser plus en détails les mesures techniques et organisationnelles que l'AFMPS doit mettre en oeuvre pour assurer la sécurité du traitement visé à l'article 103/1, ainsi que pour prévenir tout accès, transfert ou usage illicite ou abusif des données qu'il contient.
+
+Il peut notamment préciser plus en détails:
+
+1° les catégories de données à caractère personnel traitées visées à l'article 103/5;
+
+2° les modalités techniques de pseudonymisation visées à l'article 103/8;
+
+3° les mesures techniques et les modalités organisationnelles garantissant le respect des délais de conservation définis à l'article 103/7;
+
+4° les règles relatives à la gestion des accès aux données, en ce compris les exigences applicables en matière de journalisation, d'habilitation, de vérification d'identité, de contrôle d'accès et de traçabilité, conformément à l'article 103/6;
+
+5° les modalités techniques et organisationnelles de la communication des données aux organismes expressément désignés à l'article 103/6, § 1er, sans pouvoir modifier la liste des destinataires, les catégories de données ou les finalités prévues à cet article;
+
+6° les modalités de contrôle exercées par le délégué à la protection des données sur les accès aux traitements concernés;
+
+7° les modalités spécifiques et les conditions strictes d'accès, de gestion et de sécurisation des numéros d'identification au Registre national, des numéros d'identification bis ou d'autres numéros d'identification uniques lorsqu'ils sont traités sous forme non pseudonymisée conformément à l'article 103/8, afin de garantir une protection adéquate de ces données sensibles et de limiter les risques liés à leur traitement. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-30/06, art. 24, 008; En vigueur : 23-07-2026&gt;
+
+## CHAPITRE 8. - Dispositions modificatives et abrogatoires
+
+### Section 1re. - Modification de la loi du 15 décembre 2013 en matière de dispositifs médicaux
+
+##### Art. 104
+
+A l'article 33, § 1er, de la loi du 15 décembre 2013 en matière de dispositifs médicaux, modifié par la loi du 18 décembre 2016, les modifications suivantes sont apportées:
+
+a) le 3° est complété par les mots "jusqu'au stade de sa mise en service ;" ;
+
+b) le 4°, le 5°, le 9° et le 10° sont abrogés ;
+
+c) le 7° est remplacé comme suit: "7° "dispositifs": dispositifs médicaux ou accessoires tels que visés aux 11°, 12° et 15° " ;
+
+d) le 11° est remplacé comme suit: "11° "dispositif médical": tout produit visé à l'article 2, 1), et à l'annexe XVI, du règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE ;" ;
+
+e) le 12° est remplacé comme suit: "12° "accessoire": tout produit visé à l'article 2, 2), du règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE ;" ;
+
+f) le 13° est remplacé comme suit: "13° "dispositif médical implantable": tout dispositif au sens de l'article 2, 5), du règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE ;" ;
+
+g) le 15° est remplacé comme suit: "15° "dispositif médical de diagnostic in vitro": tout dispositif au sens de l'article 2, 2), du règlement (UE) 2017/746 du Parlement européen et du conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission ;" ;
+
+h) le 16° est remplacé comme suit: "16° "fabricant": toute personne physique ou morale qui fabrique ou remet à neuf un dispositif médical ou fait concevoir, fabriquer ou remettre à neuf un dispositif médical, et le commercialise sous son nom ou sous sa marque ;".
+
+##### Art. 105
+
+A l'article 52 de la même loi, les mots "aux utilisateurs finaux à une déclaration de retrait au nom du patient rédigée par l'utilisateur final" sont remplacés par les mots "aux utilisateurs professionnels à une déclaration de retrait au nom du patient rédigée par l'utilisateur professionnel".
+
+##### Art. 106
+
+L'article 53 de la même loi est abrogé.
+
+### Section 2. - Modification de la loi du 20 juillet 2006 relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé
+
+##### Art. 107
+
+L'article 2, § 1er, 4°, de la loi du 20 juillet 2006 relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé est remplacé comme suit:
+
+"4° "dispositifs médicaux et accessoires ":
+
+\- ceux visés à l'article 2, 1) et 2), du règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE,
+
+\- les produits n'ayant pas de destination médicale visés à l'annexe XVI du même règlement ;
+
+\- ceux visés à l'article 2, 2) et 4), du règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission ;".
+
+##### Art. 108
+
+L'article 4, § 1er, alinéa 3, 6°, a), de la même loi, remplacé par la loi du 22 juin 2016 et modifié par la loi du 30 octobre 2018, est complété d'un quatorzième tiret rédigé comme suit: "- la loi du xxx relative aux dispositifs médicaux.".
+
+##### Art. 109
+
+A l'annexe I.1, de la même loi, le texte de la deuxième colonne sous le titre "redevable" est remplacé par ce qui suit:
+
+"opérateurs économiques, tels que visés dans le règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE, et dans le règlement (UE) 2017/746 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission, à l'exception du détaillant, établi dans l'Union européenne, qui met à disposition des détaillants ou des utilisateurs finaux en Belgique, des dispositifs.".
+
+### Section 3. - Modification de la loi du 21 décembre 1998 relative aux normes de produits ayant pour but la promotion de modes de production et de consommation durables et la protection de l'environnement, de la santé et des travailleurs
+
+##### Art. 110
+
+A l'article 3, § 2, alinéa 2, de la loi du 21 décembre 1998 relative aux normes de produits ayant pour but la promotion de modes de production et de consommation durables et la protection de l'environnement, de la santé et des travailleurs, un 7° et un 8° sont ajoutés et rédigés comme suit:
+
+"7° le règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE ;
+
+8° la loi du 22 décembre 2020 relative aux dispositifs médicaux.".
+
+### Section 4. - Modification de la loi du 25 mars 1964 sur les médicaments
+
+##### Art. 111
+
+L'article 9, § 4, de la loi du 25 mars 1964 sur les médicaments, inséré par la loi du 27 avril 2005 et modifié par la loi du 15 décembre 2013, est remplacé par ce qui suit:
+
+" § 4. II est interdit à toute personne physique ou morale de faire de la publicité destinée au public pour les dispositifs médicaux implantables. II est également interdit de faire de la publicité pour les actes consistant à poser ou à implanter ces dispositifs médicaux.
+
+Au sens du présent paragraphe, on entend par "Dispositif médical implantable": tout dispositif visé à l'article 2, 5) du règlement 2017/745.
+
+A des fins de protection de la santé publique, le Roi peut étendre l'interdiction de publicité visée à l'alinéa 1er à d'autres dispositifs médicaux que les dispositifs médicaux implantables. A cette fin, le Roi recueille préalablement l'avis de l'AFMPS quant au risque que la publicité pour ces dispositifs médicaux représente pour la santé publique.".
+
+##### Art. 112
+
+L'article 10, § 7, de la même loi, inséré par la loi du 27 avril 2005, est remplacé par ce qui suit:
+
+" § 7. Les dispositions du présent article sont applicables aux dispositifs médicaux et aux accessoires tels que visés à l'article 2, § 1er, 4°, de la loi du 20 juillet 2006 relative à la création et au fonctionnement de l'Agence fédérale des médicaments et des produits de santé.
+
+## CHAPITRE 9. - Entrée en vigueur
+
+##### Art. 113
+
+§ 1er. La présente loi entre en vigueur le 26 mai 2021.
+
+§ 2. Par dérogation au paragraphe 1er, l'article 16 entre en vigueur le 26 mai 2023.
+
+## ANNEXES.
+
+##### Art. N1
+
+[<sup>1</sup> Annexe I]<sup>1</sup>
+
+(Image non reprise pour des raisons techniques, voir M.B. du 25-05-2021, p. 53274)
+
+Modifiée par:
+
+&lt;L 2022-06-15/03, art. 120, 003; En vigueur : 01-07-2022&gt;
+
+&lt;L 2022-12-26/01, art. 92, 004; En vigueur : 01-01-2023&gt;
+
+----------
+
+(1)&lt;Inséré par L 2021-05-09/07, art. 3, 002; En vigueur : 26-05-2021&gt;
+
+##### Art. N2
+
+[<sup>1</sup> Annexe II]<sup>1</sup>
+
+(Image non reprise pour des raisons techniques, voir M.B. du 25-05-2021, p. 53276)
+
+Modifiée par:
+
+&lt;L 2022-06-15/03, art. 121, 003; En vigueur : 01-07-2022&gt;
+
+&lt;L 2022-12-26/01, art. 93, 004; En vigueur : 01-01-2023&gt;
+
+----------
+
+(1)&lt;Inséré par L 2021-05-09/07, art. 4, 002; En vigueur : 26-05-2021&gt;
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 22 décembre 2020.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de la Santé publique,
+
+Fr. VANDENBROUCKE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+V. VAN QUICKENBORNE

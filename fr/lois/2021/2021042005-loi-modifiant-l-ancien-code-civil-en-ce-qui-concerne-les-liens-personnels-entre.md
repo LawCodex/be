@@ -1,0 +1,88 @@
+---
+title: "Loi modifiant l'ancien Code civil en ce qui concerne les liens personnels entre frères et soeurs"
+identifier: "2021042005"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2021/05/20/2021042005/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2021-05-20
+published: 2021-06-09
+entry_into_force: 2021-06-19
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2021/05/20/2021042005/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 20 MAI 2021. - Loi modifiant l'ancien Code civil en ce qui concerne les liens personnels entre frères et soeurs
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+Dans l'article 374, § 2, de l'ancien Code civil, inséré par la loi du 18 juillet 2006 et modifié par la loi du 30 juillet 2013, un alinéa rédigé comme suit est inséré entre les alinéas 3 et 4 :
+
+" Lorsque les parents ont plusieurs enfants, le tribunal tend vers l'adoption d'un même régime pour tous les frères et soeurs. Le cas échéant, le tribunal précise la manière dont les frères et soeurs entretiennent des relations personnelles entre eux ".
+
+## Art. 3
+
+Dans l'article 375bis, alinéa 1er, du même Code, inséré par la loi du 13 avril 1995 et modifié en dernier lieu par la loi du 15 juin 2018, une phrase rédigée comme suit est insérée entre la première phrase et la deuxième phrase:
+
+" Tous les frères et soeurs ont, à tout âge, le droit d'entretenir des relations personnelles entre eux. ".
+
+## Art. 4
+
+Dans le livre I, titre IX, du même Code, il est inséré un chapitre III intitulé "Des frères et soeurs".
+
+## Art. 5
+
+Dans le chapitre III, inséré par l'article 4, il est inséré un article 387quinquiesdecies rédigé comme suit :
+
+" Art. 387quinquiesdecies. Le présent chapitre s'applique aux mesures visées aux chapitres Ier et II et au placement d'un enfant mineur non émancipé dans le cadre de l'aide à la jeunesse et de la protection de la jeunesse, à l'exception des placements faisant suite à la commission d'un fait qualifié infraction. ".
+
+## Art. 6
+
+Dans le même chapitre III, il est inséré un article 387sexiesdecies rédigé comme suit :
+
+" Art. 387sexiesdecies. Dans ce titre, sont assimilés à des soeurs et frères, les enfants qui ont été éduqués ensemble dans une même famille et qui ont développé un lien affectif particulier entre eux. ".
+
+## Art. 7
+
+Dans le même chapitre III, il est inséré un article 387septiesdecies rédigé comme suit :
+
+" Art. 387septiesdecies. Les frères et soeurs mineurs ont le droit de ne pas être séparés. Ce droit doit être apprécié dans l'intérêt de chaque enfant. Si l'intérêt d'un enfant exige que ce droit ne soit pas exercé, les parents, les parents d'accueil, le tribunal et l'autorité compétente à cet effet s'efforceront de maintenir les contacts personnels entre cet enfant et chacun de ses frères et soeurs, à moins que cela ne soit également contraire à l'intérêt de cet enfant. ".
+
+## Art. 8
+
+L'article 393 du même Code, remplacé par la loi du 29 avril 2001, est complété par un alinéa rédigé comme suit :
+
+"S'il s'agit de frères et soeurs au sens de l'article 387sexiesdecies, le juge de paix désigne de préférence le même tuteur pour tous les frères et soeurs en tenant compte de l'intérêt de chaque enfant. Le juge de paix précise le cas échéant de quelle façon les frères et soeurs entretiennent des relations personnelles entre eux.".
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 20 mai 2021.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+V. VAN QUICKENBORNE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+V. VAN QUICKENBORNE

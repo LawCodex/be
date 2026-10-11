@@ -1,0 +1,122 @@
+---
+title: "Loi du 24 juin 2020 octroyant un complément temporaire aux indemnités d'incapacité primaire"
+identifier: "2020202865"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/24/2020202865/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2020-06-24
+published: 2020-07-02
+entry_into_force: 2020-03-01
+last_amended: 2020-12-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2020/06/24/2020202865/justel"
+department: "Sécurité sociale"
+justel_note: "Consultation des versions antérieures à partir du 02-07-2020 et mise à jour au 30-12-2020"
+retrieved: 2026-10-11
+---
+
+# 24 JUIN 2020. - Loi du 24 juin 2020 octroyant un complément temporaire aux indemnités d'incapacité primaire
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+Pour l'application de la présente loi, on entend par:
+
+1° "loi coordonnée": la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994;
+
+2° "arrêté royal du 25 novembre 1991": l'arrêté royal du 25 novembre 1991 portant réglementation du chômage;
+
+3° "arrêté royal du 30 mars 2020": l'arrêté royal du 30 mars 2020 visant à adapter les procédures dans le cadre du chômage temporaire dû au virus COVID-19 et à modifier l'article 10 de l'arrêté royal du 6 mai 2019 modifiant les articles 27, 51, 52bis, 58, 58/3 et 63 de l'arrêté royal du 25 novembre 1991 portant réglementation du chômage et insérant les articles 36sexies, 63bis et 124bis dans le même arrêté.
+
+## Art. 3
+
+Les titulaires visés à l'article 86, § 1er, 1°, a) et b), de la loi coordonnée, ainsi que les titulaires chômeurs ayant le statut de travailleur à temps partiel avec maintien des droits visé à l'article 29, § 2, de l'arrêté royal du 25 novembre 1991 ou de travailleur à temps partiel volontaire visé à l'article 104, § 1er ou § 1erbis, de l'arrêté royal du 25 novembre 1991, dont la rémunération perdue visée à l'article 87, alinéa 1er, de la loi coordonnée est inférieure à 132,9990 euros, peuvent prétendre à une indemnité d'incapacité primaire complémentaire.
+
+L'indemnité d'incapacité primaire complémentaire est accordée pour chaque jour où le titulaire a droit à l'indemnité d'incapacité primaire visée à l'article 87, alinéa 1er, de la loi coordonnée.
+
+Par dérogation à l'alinéa précédent, l'indemnité d'incapacité primaire complémentaire est toutefois refusée pour la période d'incapacité de travail au cours de laquelle le travailleur perçoit effectivement un complément ou une avance à charge de l'employeur conformément à la convention collective de travail n° 12bis ou n° 13bis.
+
+## Art. 4
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Le montant journalier de l'indemnité d'incapacité primaire complémentaire visée à l'article 3 est fixé à 10 % de la rémunération perdue visée à l'article 87, alinéa 1er, de la loi coordonnée, et est majoré de 5,63 euros. Dans ce cadre, la rémunération perdue est, le cas échéant, limitée à la rémunération perdue qui découle de l'occupation pour le titulaire chômeur ayant le statut de travailleur à temps partiel avec maintien des droits visé à l'article 29, § 2, de l'arrêté royal du 25 novembre 1991 ou de travailleur à temps partiel volontaire visé à l'article 104, § 1er ou § 1erbis, de l'arrêté royal du 25 novembre 1991.
+
+Par dérogation à l'alinéa précédent, pour les titulaires visés à l'article 86, § 1er, 1°, a) et b), de la loi coordonnée, dont la rémunération perdue visée à l'article 87, alinéa 1er, de la loi coordonnée est supérieure à 105,9523 euros et inférieure à 132,9990 euros, le montant de l'indemnité d'incapacité primaire complémentaire est toutefois limité à la différence entre 79,80 euros et le montant égal à 60 % de la rémunération perdue visée à l'article 87, alinéa 1er, de la loi coordonnée.
+
+Par dérogation à l'alinéa 1er, pour le titulaire chômeur ayant le statut de travailleur à temps partiel avec maintien des droits visé à l'article 29, § 2, de l'arrêté royal du 25 novembre 1991 ou de travailleur à temps partiel volontaire visé à l'article 104, § 1er ou § 1erbis, de l'arrêté royal du 25 novembre 1991, dont la rémunération perdue, visée à l'article 87, alinéa 1er, de la loi coordonnée, qui découle de l'occupation est supérieure à 105,9523 euros et inférieure à 132,9990 euros, le montant de l'indemnité d'incapacité primaire complémentaire est toutefois limité à la différence entre 79,80 euros et le montant égal à 60 % de la rémunération perdue, visée à l'article 87, alinéa 1er, de la loi coordonnée, qui découle de l'occupation.
+
+[<sup>1</sup> § 2. Par dérogation au paragraphe 1er, le montant de l'indemnité d'incapacité primaire supplémentaire visée à l'article 3, est, pour le titulaire qui peut prétendre au montant minimum visé à l'article 87, alinéa 7, de la loi coordonnée, égal au montant obtenu en diminuant la somme du montant de l'indemnité d'incapacité primaire égal à 60 % de la rémunération perdue visée à l'article 87, alinéa 1er de la loi coordonnée et du montant de l'indemnité d'incapacité primaire supplémentaire fixé conformément au paragraphe 1er, avec le montant minimum susvisé.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2020-12-20/10, art. 28, 002; En vigueur : 01-09-2020&gt;
+
+## Art. 5
+
+Si la somme du montant de l'indemnité d'incapacité primaire égal à 60 % de la rémunération perdue visée à l'article 87, alinéa 1er, de la loi coordonnée, le cas échéant porté au montant minimum visé à l'article 87, alinéa 7, de la loi coordonnée [<sup>1</sup> ...]<sup>1</sup>, et du montant de l'indemnité d'incapacité primaire complémentaire fixé confor-mément à l'article 4 est inférieure à 61,22 euros, le titulaire a droit à une indemnité d'incapacité primaire complémentaire majorée, d'un montant égal à la différence entre 61,22 euros et le montant précité de l'indemnité d'incapacité primaire.
+
+L'alinéa précédent ne s'applique pas au titulaire qui, au début de son incapacité de travail, est en interruption de carrière partielle et bénéficie d'une allocation d'interruption, et ce, pendant la durée restante de cette interruption de carrière partielle.
+
+----------
+
+(1)&lt;L 2020-12-20/10, art. 29, 002; En vigueur : 01-01-2021&gt;
+
+## Art. 5/1.
+
+[<sup>1</sup> Si la somme, d'une part, du montant de l'indemnité d'incapacité primaire égal à 60 % de la rémunération perdue visée à l'article 87, alinéa 1er, de la loi coordonnée, le cas échéant porté au montant minimum visé à l'article 87, alinéa 7, de la loi coordonnée et, d'autre part, du montant de l'indemnité d'incapacité primaire supplémentaire, fixé conformément aux articles 4 et 5, dépasse la rémunération perdue visée à l'article 87, alinéa 1er, de la loi coordonnée, le cas échéant adaptée conformément au régime visé à l'article 6, alinéa 2, le montant de l'indemnité d'incapacité primaire supplémentaire visée à l'article 3 est toutefois limité à la différence entre, d'une part, cette rémunération perdue précitée et, d'autre part, le montant de l'indemnité d'incapacité primaire égal à 60 % de la rémunération perdue visée à l'article 87, alinéa 1er, de la loi coordonnée, le cas échéant porté au montant minimum visé à l'article 87, alinéa 7, de la loi coordonnée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2020-12-20/10, art. 30, 002; En vigueur : 01-01-2021&gt;
+
+## Art. 6
+
+Les montants visés dans la présente loi sont liés à l'indice-pivot en vigueur au 1er mars 2020.
+
+Ces montants sont augmentés ou diminués conformément à l'article 4 de la loi du 2 août 1971 organisant un régime de liaison à l'indice des prix à la consommation des traitements, salaires, pensions, allocations et subventions à charge du Trésor public, de certaines prestations sociales, des limites de rémunération à prendre en considération pour le calcul de certaines cotisations de sécurité sociale des travailleurs, ainsi que des obligations imposées en matière sociale aux travailleurs indépendants. L'augmentation ou la diminution est appliquée à partir du jour fixé à l'article 6, 3°, de la loi précitée.
+
+## Art. 7
+
+Dans la mesure où il n'y est pas dérogé par les dispositions de la présente loi, les dispositions des titres Ier, II, IV, Vbis à X et XII de la loi coordonnée qui concernent l'assurance indemnités sont applicables en ce qui concerne l'indemnité d'incapacité primaire complémentaire visée à l'article 3.
+
+## Art. 8
+
+La présente loi produit ses effets le 1er mars 2020 et s'applique aux incapacités de travail qui débutent à partir du 1er mars 2020.
+
+Au plus tard trois mois à compter du premier jour du mois qui suit celui de la publication de la présente loi au Moniteur belge, les organismes assureurs payent l'indemnité d'incapacité primaire complémentaire visée à l'article 3 pour la période d'incapacité primaire qui précède la date de paiement.
+
+L'indemnité d'incapacité primaire complémentaire visée à l'article 3 n'est plus accordée pour la période d'incapacité de travail qui débute à partir du jour suivant la date de la cessation d'effets des articles 5 et 6 de l'arrêté royal du 30 mars 2020.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 24 juin 2020.
+
+PHILIPPE
+
+Par le Roi :
+
+La Ministre des Affaires sociales,
+
+M. DE BLOCK
+
+La Ministre de l'Emploi,
+
+N. MUYLLE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS

@@ -1,0 +1,82 @@
+---
+title: "Loi modifiant les lois du 4 avril 2019 modifiant le Code de droit économique en ce qui concerne les abus de dépendance économique, les clauses abusives et les pratiques du marché déloyales entre entreprises et du 2 mai 2019 portant modifications du livre Ier 'Définitions', du livre XV 'Application de la loi' et remplacement du livre IV 'Protection de la concurrence' du Code de droit économique"
+identifier: "2020041498"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/27/2020041498/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2020-05-27
+published: 2020-05-29
+entry_into_force: 2020-06-08
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2020/05/27/2020041498/justel"
+department: "Economie, PME, Classes moyennes et Energie"
+retrieved: 2026-10-11
+---
+
+# 27 MAI 2020. - Loi modifiant les lois du 4 avril 2019 modifiant le Code de droit économique en ce qui concerne les abus de dépendance économique, les clauses abusives et les pratiques du marché déloyales entre entreprises et du 2 mai 2019 portant modifications du livre Ier 'Définitions', du livre XV 'Application de la loi' et remplacement du livre IV 'Protection de la concurrence' du Code de droit économique
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition générale
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Chapitre 2. - Modification de la loi du 4 avril 2019 modifiant le Code de droit économique en ce qui concerne les abus de dépendance économique, les clauses abusives et les pratiques du marché déloyales entre entreprises
+
+### Art. 2
+
+Dans l'article 39 de la loi du 4 avril 2019 modifiant le Code de droit économique en ce qui concerne les abus de dépendance économique, les clauses abusives et les pratiques du marché déloyales entre entreprises, les modifications suivantes sont apportées:
+
+1° l'alinéa 2 est remplacé par ce qui suit:
+
+"Les articles 2 à 11 entrent en vigueur à la date fixée par le Roi, au plus tard le 1er décembre 2020.";
+
+2° un alinéa rédigé comme suit est inséré entre les alinéas 2 et 3:
+
+"Par dérogation à l'alinéa 2, si les modifications énoncées aux articles 2 et 5 à 11 ont été intégrées dans le Code de droit économique par l'arrêté royal pris en exécution de l'article 7 de la loi du 2 mai 2019 portant modifications du livre Ier "Définitions", du livre XV "Application de la loi" et remplacement du livre IV "Protection de la concurrence" du Code de droit économique, les articles 2 et 5 à 11 sont abrogés la veille de la date d'entrée en vigueur de l'arrêté royal précité.".
+
+## Chapitre 3. - Modifications de la loi du 2 mai 2019 portant modifications du livre Ier "Définitions", du livre XV "Application de la loi" et remplacement du livre IV "Protection de la concurrence" du Code de droit économique
+
+### Art. 3
+
+L'article 7 de la loi du 2 mai 2019 portant modifications du livre Ier "Définitions", du livre XV "Application de la loi" et remplacement du livre IV "Protection de la concurrence" du Code de droit économique, est remplacé par ce qui suit:
+
+"Art. 7. Afin d'intégrer adéquatement dans les livres Ier et IV du Code de droit économique les modifications énoncées aux articles 2 et 5 à 11 de la loi du 4 avril 2019 modifiant le Code de droit économique en ce qui concerne les abus de dépendance économique, les clauses abusives et les pratiques du marché déloyales entre entreprises, le Roi peut apporter les modifications nécessaires aux articles I.6, IV.39, IV.55, IV.79, IV.80, IV.81, IV.84 et IV.88 du Code de droit économique, insérés par la présente loi.".
+
+### Art. 4
+
+Dans l'article 8 de la même loi, l'alinéa 2 est remplacé par ce qui suit:
+
+"Par dérogation à l'alinéa 1er, l'article IV.80, § 2, et l'article IV.84, § 2, du Code de droit économique, insérés par l'article 3, entrent en vigueur à la date fixée par le Roi, au plus tard le 1er décembre 2020.".
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 27 mai 2020..
+
+PHILIPPE
+
+Par le Roi :
+
+Le ministre des Indépendants,
+
+D. DUCARME
+
+La Ministre de l'Economie,
+
+N. MUYLLE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS
