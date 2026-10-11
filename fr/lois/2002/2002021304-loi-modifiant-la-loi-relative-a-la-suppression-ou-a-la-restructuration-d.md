@@ -1,0 +1,106 @@
+---
+title: "Loi modifiant la loi relative à la suppression ou à la restructuration d'organismes d'intérêt public et d'autres services de l'Etat, coordonnée le 13 mars 1991."
+identifier: "2002021304"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2002/08/02/2002021304/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2002-08-02
+published: 2002-08-15
+entry_into_force: 2002-08-15
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2002/08/02/2002021304/justel"
+department: "Chancellerie et Services généraux"
+retrieved: 2026-10-11
+---
+
+# 2 AOUT 2002. - Loi modifiant la loi relative à la suppression ou à la restructuration d'organismes d'intérêt public et d'autres services de l'Etat, coordonnée le 13 mars 1991.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+A l'article 1 de la loi relative à la suppression ou à la restructuration d'organismes d'intérêt public et d'autres services de l'Etat, coordonnée le 13 mars 1991, les modifications suivantes sont apportées :
+
+A) au 1°, les mots " et du 16 juillet 1993 " sont remplacés par les mots " du 16 juillet 1993 et du 13 juillet 2001 ";
+
+B) au 2°, les mots " la loi spéciale du 16 juillet 1993 " sont remplacés par les mots " les lois spéciales des 16 juillet 1993 et 13 juillet 2001 ".
+
+## Art. 3
+
+Dans la même loi, le titre III est complété d'un chapitre IX, intitulé : " Les patrimoines institués auprès de certaines institutions scientifiques de l'Etat qui ressortissent du Ministère des Classes moyennes et de l'Agriculture ", comprenant un article 26ter , rédigé comme suit :
+
+" Art. 26ter . § 1er. Les patrimoines institués auprès du Centre de Recherches Agronomiques à Gand, du Centre de Recherches agronomiques à Gembloux et du Centre d'Economie agricole, qui sont dotés de la personnalité juridique, sont supprimés à la date fixée par le Roi.
+
+§ 2. Dans les limites fixées par la loi spéciale et par la loi spéciale de financement, le Roi règle la dissolution des patrimoines constitués en personnalités juridiques visés au § 1er et toutes questions auxquelles celle-ci donne lieu, notamment le transfert à la Région wallonne et à la Région flamande, des membres du personnel, des biens, droits et obligations qui relèvent de ces patrimoines.
+
+§ 3. Les arrêtés royaux visés au § 2 déterminent, après concertation avec les organisations représentatives du personnel, les modalités de transfert du personnel et les mesures nécessaires pour garantir ses droits, et cela dans le respect des principes visés à l'article 88, § 2, alinéas 2 à 4, de la loi spéciale.
+
+§ 4. Les arrêtés royaux visés aux §§ 1er à 3 sont délibérés en Conseil des Ministres, après avis des gouvernements concernés. "
+
+## Art. 4
+
+Dans la même loi, le titre III est complété d'un chapitre X intitulé " L'Office belge du Commerce extérieur ", comprenant un article 26quater , rédigé comme suit :
+
+" Art. 26quater . § 1er. L'Office belge du Commerce extérieur, ci-après dénommé l'Office, est supprimé à la date fixée par le Roi.
+
+Dès sa suppression, l'article 2, § 2, lui est applicable.
+
+§ 2. Dans les limites fixées par la loi spéciale et par la loi spéciale de financement, les missions dévolues à l'Office, sont transférées à la Région wallonne, à la Région flamande et à la Région de Bruxelles-Capitale, chacune pour ce qui la concerne.
+
+§ 3. Dans les limites fixées au § 2, le Roi règle la dissolution de l'Office et le transfert des membres du personnel ainsi que des biens, droits et obligations de l'Office, à la Région wallonne, à la Région flamande et à la Région de Bruxelles-Capitale, chacune pour ce qui la concerne ainsi qu'à l'Agence pour le commerce extérieur créée par l'accord de coopération entre l'autorité fédérale et les régions du 24 mai 2002 relatif à la création d'une Agence pour le commerce extérieur.
+
+§ 4. Le Roi peut, par arrêté délibéré en Conseil des Ministres, transférer des membres du personnel de l'Office au Service public fédéral Affaires étrangères, Commerce extérieur et Coopération au Développement.
+
+§ 5. Les arrêtés royaux visés aux §§ 3 et 4 déterminent, après concertation avec les organisations représentatives du personnel, les modalités de transfert du personnel et les mesures nécessaires pour garantir ses droits, et cela, dans le respect des principes visés à l'article 88, § 2, alinéas 2 à 4, de la loi spéciale.
+
+§ 6. Les arrêtés royaux visés aux §§ 1er et 3 sont délibérés en Conseil des Ministres après avis des gouvernements de région concernés. "
+
+## Art. 5
+
+L'article 28 de la même loi est abrogé.
+
+## Art. 6
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+---
+
+Promulguons la présente disposition, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Punat, le 2 août 2002.
+
+ALBERT
+
+Par le Roi :
+
+Le Premier Ministre,
+
+G. VERHOFSTADT
+
+Le Vice-Premier Ministre et Ministre des Affaires étrangères,
+
+L. MICHEL
+
+Le Vice-Premier Ministre et Ministre du Budget, de l'Intégration sociale et de l'Economie sociale,
+
+J. VANDE LANOTTE
+
+La Ministre adjointe au Ministre des Affaires étrangères, chargée de l'Agriculture,
+
+Mme A. NEYTS-UYTTEBROECK
+
+Vu et scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

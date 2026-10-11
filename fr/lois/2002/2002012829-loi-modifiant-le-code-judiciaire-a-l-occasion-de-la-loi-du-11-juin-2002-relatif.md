@@ -1,0 +1,78 @@
+---
+title: "Loi modifiant le Code judiciaire à l'occasion de la loi du 11 juin 2002 relatif à la protection contre la violence et le harcèlement moral ou sexuel au travail."
+identifier: "2002012829"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/17/2002012829/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2002-06-17
+published: 2002-06-25
+entry_into_force: 2002-07-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/17/2002012829/justel"
+department: "Emploi et Travail"
+retrieved: 2026-10-11
+---
+
+# 17 JUIN 2002. - Loi modifiant le Code judiciaire à l'occasion de la loi du 11 juin 2002 relatif à la protection contre la violence et le harcèlement moral ou sexuel au travail.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE I. - Disposition générale.
+
+### Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## CHAPITRE II. - Modification de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail et du code judiciaire.
+
+### Art. 2
+
+L'article 79, § 1er, de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, remplacé par la loi du 28 février 1999, est remplacée par la dispositions suivante : " Sans préjudice des dispositions de l'article 32duodecies , les employeurs, les travailleurs et les organisations représentatives des travailleurs peuvent introduire auprès des juridictions du travail une action tendant à trancher tout différend relatif à la présente loi ou à ses arrêtés d'exécution. "
+
+### Art. 3
+
+L'article 81, alinéa 5, du Code judiciaire, remplacé par la loi du 7 mai 1999, est remplacé par la disposition suivante :
+
+" Dans les litiges portant sur les matières prévues aux articles 578, 4°, 5°, 6°, 8°, 10° et 11°, 579, 580, 582, 3° et 4°, et pour l'application aux employeurs des sanctions administratives prévues à l'article 583, un des juges sociaux doit être nommé au titre d'employeur, l'autre au titre de travailleur. "
+
+### Art. 4
+
+L'article 104, alinéa 4, du Code judiciaire, remplacé par la loi du 7 mai 1999, est remplacé par l'alinéa suivant : " Les Chambres qui connaissent de l'appel d'un jugement rendu dans un litige portant sur les matières prévues aux articles 578, 4°, 5°, 6°, 8°, 10° et 11°, 579, 580, 582, 3° et 4° ou concernant l'application aux employeurs de sanctions administratives prévues à l'article 583, sont composées, outre les présidents, de deux conseillers sociaux nommés respectivement au titre d'employeur et au titre de travailleur. "
+
+### Art. 5
+
+L'article 578 du Code judiciaire, modifié par les lois des 5 décembre 1968, 4 août 1978, 17 juillet 1997, 13 février 1998 et 7 mai 1999, est complété comme suit :
+
+" 11° des contestations relatives à la violence et au harcèlement moral ou sexuel au travail, qui sont fondées sur le chapitre Vbis de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail. "
+
+### Art. 6
+
+L'article 764, alinéa 1er, 10° du Code judiciaire, remplacé par la loi du 23 avril 1998, est remplacé par la disposition suivante : " 10° les demandes prévues aux articles 578, 11°, 580, 581, 582, 1°, 2° et 6° et 583; "
+
+### Art. 7
+
+La présente loi entre en vigueur le premier jour du premier mois qui suit celui au cours duquel elle aura été publiée au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 17 juin 2002.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de l'Emploi,
+
+Mme L. ONKELINX
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

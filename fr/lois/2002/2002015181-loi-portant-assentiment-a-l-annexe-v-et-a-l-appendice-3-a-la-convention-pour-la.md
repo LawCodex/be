@@ -1,0 +1,62 @@
+---
+title: "Loi portant assentiment à l'Annexe V et à l'Appendice 3 à la Convention pour la protection du milieu marin de l'Atlantique du Nord-Est (Paris, 1992), faits à Sintra le 23 juillet 1998."
+identifier: "2002015181"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2002/03/06/2002015181/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2002-03-06
+published: 2005-09-23
+entry_into_force: 2005-10-03
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2002/03/06/2002015181/justel"
+department: "Affaires étrangères - Commerce extérieur - Coopération internationale"
+retrieved: 2026-10-11
+---
+
+# 6 MARS 2002. - Loi portant assentiment à l'Annexe V et à l'Appendice 3 à la Convention pour la protection du milieu marin de l'Atlantique du Nord-Est (Paris, 1992), faits à Sintra le 23 juillet 1998.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+L'Annexe V et à l'Appendice 3 de la Convention de Paris du 22 septembre 1992 pour la protection du milieu marin de l'Atlantique du Nord-Est, adoptés à Sintra le 23 juillet 1998, sortiront leur plein et entier effet.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 6 mars 2002.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires étrangères,
+
+L. MICHEL
+
+La Ministre de la Santé publique et de l'Environnement,
+
+Mme M. AELVOET
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN
+
+## ANNEXE.
+
+## Art. N
+
+Annexe V et Appendice 3 à la Convention pour la protection du milieu marin de l'Atlantique du Nord-Est (Paris, 1992) - La protection et la conservation des écosystèmes et de la diversité biologique de la zone maritime, faits à Sintra le 23 juillet 1998.
+
+(Pour l'Annexe et Appendice, voir CN : 1998-07-23/47).

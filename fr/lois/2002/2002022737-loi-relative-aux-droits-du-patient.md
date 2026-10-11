@@ -1,0 +1,554 @@
+---
+title: "Loi relative aux droits du patient."
+identifier: "2002022737"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2002/08/22/2002022737/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2002-08-22
+published: 2002-09-26
+entry_into_force: 2002-10-06
+last_amended: 2024-02-23
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2002/08/22/2002022737/justel"
+department: "Affaires sociales - Santé Publique et Environnement"
+justel_note: "Consultation des versions antérieures à partir du 26-09-2002 et mise à jour au 23-02-2024"
+retrieved: 2026-10-11
+---
+
+# 22 AOUT 2002. - Loi relative aux droits du patient.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE I. - Disposition générale.
+
+### Art. 1
+
+La présente loi règle une matière visée à l'article [<sup>1</sup> 74]<sup>1</sup> de la Constitution.
+
+----------
+
+(1)&lt;L 2024-02-06/05, art. 2, 009; En vigueur : 04-03-2024&gt;
+
+## CHAPITRE II. - Définitions et [<sup>1</sup> Champ]<sup>1</sup> d'application.
+
+----------
+
+(1)&lt;L 2024-02-06/05, art. 3, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 2
+
+Pour l'application de la présente loi, il faut entendre par :
+
+1° patient : la personne physique [<sup>3</sup> qui bénéficie de soins de santé]<sup>3</sup>, à sa demande ou non;
+
+2° soins de santé : services dispensés par un [<sup>2</sup> professionnel des soins de santé]<sup>2</sup> en vue de promouvoir, de déterminer, de conserver, de restaurer ou d'améliorer l'état de santé d'un patient [<sup>1</sup> , de modifier son apparence corporelle à des fins principalement esthétiques ou de l'accompagner en fin de vie]<sup>1</sup>;
+
+3° praticien professionnel : le praticien visé à [<sup>3</sup> la loi coordonnée du 10 mai 2015 relative]<sup>3</sup> à l'exercice des professions des soins de santé ainsi que le praticien professionnel ayant une pratique non conventionnelle, telle que visée dans la loi du 29 avril 1999 relative aux pratiques non conventionnelles dans les domaines de l'art médical, de l'art pharmaceutique, de la kinésithérapie, de l'art infirmier et des professions paramédicales;
+
+[<sup>3</sup> 4° loi Qualité: la loi du 22 avril 2019 relative à la qualité de la pratique des soins de santé;
+
+5° planification anticipée des soins: le processus continu de réflexion et de communication entre le patient, le(s) professionnel(s) des soins de santé et, à la demande du patient, les proches dans le but de discuter des valeurs, des objectifs de vie et des préférences en matière de soins actuels et futurs;
+
+6° déclaration anticipée: la consignation par écrit, soit par un support papier ou par voie électronique de la volonté du patient pour le cas où le patient ne pourrait plus décider lui-même;
+
+7° personne de confiance: une personne qui assiste le patient dans l'exercice de ses droits en tant que patient;
+
+8° représentant: une personne qui exerce les droits du patient lorsque le patient n'est plus en mesure d'exercer lui-même ses droits en tant que patient.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2013-05-23/21, art. 8, 003; En vigueur : 12-07-2013&gt;
+
+(2)&lt;L 2024-02-06/05, art. 4, 009; En vigueur : 04-03-2024&gt;
+
+(3)&lt;L 2024-02-06/05, art. 5, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 3
+
+[<sup>1</sup> § 1er. La présente loi est applicable aux professionnels des soins de santé dans le cadre de la prestation de soins de santé. Le professionnel des soins de santé respecte les dispositions de la présente loi dans les limites des compétences qui lui sont attribuées par ou en vertu de la loi.
+
+§ 2. Le Roi peut, sur avis de la commission visée à l'article 16, préciser les règles relatives à l'application de la loi ou à l'application de droits spécifiques définis dans la présente loi à des professionnels des soins de santé et à des prestations de soins de santé à fixer par Lui afin de tenir compte de la nécessité d'une protection spécifique.
+
+§ 3. Le Roi peut, par arrêté délibéré en Conseil des ministres, contraindre des personnes qui ne sont pas des professionnels des soins de santé, mais qui sont néanmoins autorisées à accomplir certaines prestations de soins de santé, au respect de certains droits visés dans la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-02-06/05, art. 6, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 4
+
+[<sup>1</sup> § 1er. Le professionnel des soins de santé et le patient contribuent ensemble à la prestation optimale de soins de santé au patient.
+
+§ 2. Le patient et le professionnel des soins de santé se comportent avec respect dans leurs relations mutuelles, avec les autres patients et les autres professionnels des soins de santé.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-02-06/05, art. 7, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 4/1.
+
+[<sup>1</sup> Le professionnel des soins de santé mène une concertation multidisciplinaire dans l'intérêt du patient.
+
+A la demande du patient, le professionnel des soins de santé mène une concertation avec les proches du patient que celui-ci lui désigne.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-06/05, art. 8, 009; En vigueur : 04-03-2024&gt;
+
+## CHAPITRE III. - Droits du patient.
+
+### Art. 5
+
+Le patient a droit, de la part du [<sup>1</sup> professionnel des soins de santé]<sup>1</sup>, à des prestations de qualité répondant à ses besoins et ce, [<sup>2</sup> ...]<sup>2</sup> sans qu'une distinction d'aucune sorte ne soit faite.
+
+[<sup>2</sup> Le professionnel des soins de santé respecte la dignité humaine et l'autonomie du patient et tient compte des objectifs et des valeurs de ce dernier. Le cas échéant, le professionnel des soins de santé organise à cet effet la planification anticipée des soins.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2024-02-06/05, art. 4, 009; En vigueur : 04-03-2024&gt;
+
+(2)&lt;L 2024-02-06/05, art. 9, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 6
+
+[<sup>1</sup> § 1. Le patient a droit au libre choix du professionnel des soins de santé et a le droit de modifier son choix, sauf limites imposées dans ces deux cas en vertu de la loi.
+
+§ 2. Le professionnel des soins de santé informe le patient de la mesure dans laquelle, par suite de mesures qui lui sont imposées, il ne répond pas aux conditions pour l'exercice de sa profession et de sa pratique.
+
+A la demande du patient, le professionnel des soins de santé informe le patient de sa compétence et de son expérience professionnelles.
+
+§ 3. Le professionnel des soins de santé informe le patient de ce qu'il dispose ou non d'une couverture d'assurance ou d'une autre forme individuelle ou collective de protection concernant la responsabilité professionnelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-02-06/05, art. 10, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 7
+
+§ 1er. Le patient a droit, de la part du [<sup>1</sup> professionnel des soins de santé]<sup>1</sup>, à toutes les informations qui le concernent et peuvent lui être nécessaires pour comprendre son état de santé et son évolution probable.
+
+§ 2. [<sup>2</sup> Lors des concertations, le professionnel des soins de santé s'informe de la situation et des préférences en matière de soins actuels et futurs du patient. Il fournit les informations visées au § 1er dans un souci de qualité et d'une manière adaptée au patient. Le professionnel des soins de santé prévoit à cet effet le temps suffisant et invite le patient à poser des questions. Sur demande ou s'il le juge pertinent pour le patient, il fournit en outre par écrit, soit par un support papier, ou sous forme électronique les informations visées au § 1er.]<sup>2</sup>
+
+§ 3. Les informations ne sont pas fournies au patient si celui-ci en formule expressément la demande à moins que la non-communication de ces informations ne cause manifestement un grave préjudice à la santé du patient ou de tiers et à condition que le [<sup>1</sup> professionnel des soins de santé]<sup>1</sup> ait consulté préalablement un autre [<sup>1</sup> professionnel des soins de santé]<sup>1</sup> à ce sujet et entendu la personne de confiance éventuellement désignée dont question [<sup>2</sup> à l'article 11/1]<sup>2</sup>.
+
+La demande du patient est consignée ou ajoutée dans le dossier du patient.
+
+§ 4. [<sup>2</sup> Si le professionnel des soins de santé estime que la communication de toutes les informations causerait manifestement un préjudice grave à la santé du patient, le professionnel des soins de santé s'emploie à examiner si les informations visées peuvent être communiquées graduellement.
+
+A titre exceptionnel, le professionnel des soins de santé peut décider de ne divulguer aucune information visée au § 1er au patient qu'à condition d'avoir consulté à ce sujet un autre professionnel des soins de santé.
+
+Dans les cas visés aux alinéas 1er et 2, le professionnel des soins de santé ajoute une motivation écrite au dossier du patient et informe le cas échéant la personne de confiance désignée, visée à l'article 11/1, § 1er. Le professionnel des soins de santé vérifie à intervalles réguliers si le préjudice manifestement grave est encore présent. Dès que la communication des informations ne cause plus le préjudice visé à l'alinéa 1er, le professionnel des soins de santé doit les communiquer.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2024-02-06/05, art. 4, 009; En vigueur : 04-03-2024&gt;
+
+(2)&lt;L 2024-02-06/05, art. 11, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 8
+
+[<sup>1</sup> § 1er. Le patient a le droit de consentir librement à toute intervention du professionnel des soins de santé moyennant information préalable. Le patient et le professionnel des soins de santé visent à parvenir ensemble à une décision.
+
+§ 2. Le professionnel des soins de santé informe le patient préalablement et en temps utile des interventions projetées, et cela dans les conditions et conformément aux modalités formulées dans l'article 7, §§ 2 et 3.
+
+Les informations inhérentes à l'intervention, qui sont fournies au patient conformément à l'alinéa premier, concernent au minimum:
+
+1° l'objectif, la nature, le degré d'urgence, la durée, la fréquence;
+
+2° les évolutions et les soins de suivi probables des interventions;
+
+3° les contre-indications, effets secondaires et risques pertinents pour le patient;
+
+4° les alternatives possibles, exécutées ou non par un autre professionnel des soins de santé;
+
+5° d'autres précisions pertinentes pour le patient, en ce compris le cas échéant les dispositions légales relatives à une intervention qui doivent être respectées.
+
+Conformément à l'alinéa premier, le professionnel des soins de santé informe le patient des répercussions financières de l'intervention sans préjudice de l'article 73, § 1er, de la loi coordonnée du 14 juillet 1994 relative à l'assurance obligatoire soins de santé et indemnités.
+
+§ 3. Le consentement visé au paragraphe 1er est donné expressément, sauf lorsque le professionnel des soins de santé, après avoir informé suffisamment le patient conformément au paragraphe 1er, peut raisonnablement inférer du comportement du patient qu'il consent à l'intervention.
+
+A la demande du patient ou du professionnel des soins de santé, le consentement est fixé par écrit, soit par un support papier ou forme électronique et ajouté dans le dossier du patient.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-02-06/05, art. 12, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 8/1.
+
+[<sup>1</sup> Le patient a le droit de refuser une intervention ou de retirer le consentement visé à l'article 8.
+
+A la demande du patient ou du professionnel des soins de santé, le refus ou le retrait du consentement est fixé par écrit soit par un support papier ou sous forme électronique et ajouté dans le dossier du patient.
+
+Le professionnel des soins de santé informe le patient des conséquences éventuelles en cas de refus ou de retrait du consentement et se concerte avec le patient sur les interventions alternatives possibles, réalisées ou non par le professionnel des soins de santé.
+
+Le refus ou le retrait du consentement n'entraîne pas l'extinction du droit à des prestations de qualité, tel que visé à l'article 5, à l'égard du professionnel des soins de santé.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-02-06/05, art. 13, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 8/2.
+
+[<sup>1</sup> § 1er. Un patient a le droit d'enregistrer sa volonté concernant une intervention déterminée pour un moment où il n'est plus capable d'exercer ses droits en tant que patient, dans une déclaration anticipée.
+
+Le Roi peut déterminer les règles concernant la manière dont un patient peut rédiger des déclarations anticipées.
+
+§ 2. Sans préjudice de l'article 4 de la loi Qualité, le professionnel des soins de santé tient compte d'une déclaration anticipée.
+
+Si le patient a fait savoir dans une déclaration anticipée telle que visée au paragraphe 1er qu'il refuse une intervention déterminée du professionnel des soins de santé, le professionnel des soins de santé respecte ce refus aussi longtemps que le patient ne le révoque pas à un moment où il est en mesure d'exercer ses droits lui-même.
+
+§ 3. Si elle ou il en a connaissance, la personne de confiance visée à l'article 11/1 ou le représentant visé à l'article 14 peut, le cas échéant, informer un professionnel des soins de santé de l'existence d'une déclaration anticipée telle que visée aux paragraphes 1er et 2.
+
+Le Roi peut déterminer la manière dont le patient peut établir par voie électronique une déclaration anticipée telle que visée aux paragraphes 1er et 2, de même que la manière et les conditions selon lesquelles un professionnel des soins de santé en reçoit connaissance.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-02-06/05, art. 14, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 8/3.
+
+[<sup>1</sup> Lorsque, dans un cas d'urgence, il y a incertitude quant à la volonté réelle du patient ou qu'aucun représentant n'est présent conformément au chapitre IV, toute intervention nécessaire du professionnel des soins de santé est pratiquée immédiatement dans l'intérêt du patient. Le professionnel des soins de santé en fait mention dans le dossier du patient visé à l'article 9 et agit, dès que possible, conformément aux dispositions des articles 8, 8/1 et 8/2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-06/05, art. 15, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 9
+
+§ 1er. Le patient a droit, de la part de son [<sup>2</sup> professionnel des soins de santé]<sup>2</sup>, à un dossier de patient soigneusement tenu à jour et conservé en lieu sûr.
+
+A la demande du patient, le [<sup>2</sup> professionnel des soins de santé]<sup>2</sup> ajoute les documents fournis par le patient dans le dossier le concernant [<sup>3</sup> , en particulier en ce qui concerne les valeurs, les objectifs de vie et les préférences en matière de soins actuels et futurs et les déclarations anticipées du patient]<sup>3</sup>.
+
+§ 2. Le patient a droit à la consultation du dossier le concernant. [<sup>3</sup> Le patient a le droit de recevoir des explications sur le contenu du dossier le concernant.]<sup>3</sup>
+
+II est donné suite dans les meilleurs délais et au plus tard dans les 15 jours de sa réception, à la demande du patient visant à consulter le dossier le concernant.
+
+[<sup>3</sup> Les données]<sup>3</sup> concernant des tiers n'entrent pas dans le cadre de ce droit de consultation.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+Si le dossier du patient contient une motivation écrite telle que visée à l'article 7, § 4, alinéa 2, qui est encore pertinente, le patient exerce son droit de consultation du dossier par l'intermédiaire d'un [<sup>2</sup> professionnel des soins de santé]<sup>2</sup> désigné par lui [<sup>3</sup> ]<sup>3</sup>.
+
+[<sup>1</sup> La situation visée à l'alinéa précédent dans laquelle le patient peut uniquement exercer son droit de consultation de son dossier patient en passant par un [<sup>2</sup> professionnel des soins de santé]<sup>2</sup> désigné par lui lorsque son dossier patient contient une motivation écrite, comme stipulé à l'article 7, § 4, alinéa 2, qui est toujours d'application, est en conformité avec l'article 23 du règlement (UE) n° 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données).]<sup>1</sup>
+
+§ 3. Le patient a le droit d'obtenir, (...), une copie du dossier le concernant ou d'une partie de celui-ci, conformément aux règles fixées au § 2. [<sup>3</sup> Le patient détermine s'il reçoit cette copie par écrit soit par papier ou sous forme électronique. Toute première copie est gratuite. Seuls pour toute copie supplémentaire des frais administratifs peuvent être portés en compte qui doivent être raisonnables et justifiés et ne pas excéder le coût réel.]<sup>3</sup>) &lt;W 2006-12-13/35, art. 63, 2°, 002; En vigueur : 01-01-2007&gt;
+
+Le [<sup>2</sup> professionnel des soins de santé]<sup>2</sup> refuse de donner cette copie s'il dispose d'indications claires selon lesquelles le patient subit des pressions afin de communiquer une copie de son dossier à des tiers.
+
+§ 4. Après le décès du patient, l'époux, le partenaire cohabitant légal, le partenaire et les parents jusqu'au deuxième degré inclus ont, par l'intermédiaire du [<sup>2</sup> professionnel des soins de santé]<sup>2</sup> désigné par le demandeur, le droit de consultation, visé au § 2, pour autant que leur demande soit suffisamment motivée et spécifiée et que le patient ne s'y soit pas opposé expressément. [<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>3</sup> § 4/1. Après le décès d'un patient mineur visé à l'article 12, la personne qui au moment du décès du patient agissait en tant que représentant de ce dernier conformément à l'article 12, § 1er, et les parents du patient jusqu'au deuxième degré inclus sont autorisés, sans préjudice de l'article 15, § 1er, à exercer le droit de consultation visé au § 2 et le droit de copie visé au § 3. La demande des parents du patient jusqu'au deuxième degré inclus est suffisamment motivée et spécifiée. Si le patient mineur d'âge exerçait de son vivant ses droits de manière autonome de la façon visée à l'article 12, § 2, ce droit revient in fine à la personne qui aurait représenté le patient mineur d'âge conformément à l'article 12, § 1er. Le droit de consultation et de copie ne peut pas être exercé si le patient, tel que visé à l'article 12, § 2 in fine s'y est opposé expressément. La personne en question a le droit de recevoir des explications sur le contenu du dossier de patient concerné. Le professionnel des soins de santé refuse de donner la copie susvisée s'il dispose d'indications claires selon lesquelles la personne en question subit des pressions afin de communiquer une copie du dossier de patient à des tiers. Le Roi peut fixer le montant maximum pouvant être demandé à la personne en question par copie.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2018-10-30/06, art. 69, 007; En vigueur : 26-11-2018&gt;
+
+(2)&lt;L 2024-02-06/05, art. 4, 009; En vigueur : 04-03-2024&gt;
+
+(3)&lt;L 2024-02-06/05, art. 16, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 9/1.
+
+[<sup>1</sup> Sans préjudice de l'article 34 de la loi Qualité, le patient a droit, à partir d'une date à fixer par le Roi, à la possibilité d'un accès électronique à ses données de santé. Le Roi peut fixer une date distincte pour les différents professionnels des soins de santé.
+
+Le professionnel des soins de santé utilise pour la possibilité d'accès aux données les plates-formes de données de santé mises à disposition ou validées par les autorités publiques.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-06/05, art. 17, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 10
+
+[<sup>1</sup> § 1er. Sans préjudice du règlement général sur la protection des données, le patient a droit à la protection de sa vie privée lors de toute intervention du professionnel des soins de santé, notamment en ce qui concerne les informations liées à sa santé ainsi que lors du traitement de ses données de santé en dehors de la relation de soin.
+
+§ 2. Le patient a droit au respect de son intimité. Sauf accord du patient et sans préjudice de l'assistance, à la demande du patient, par une personne de confiance telle que visée à l'article 11/1, seules les personnes dont la présence est justifiée dans le cadre de la prestation de soins par le professionnel des soins de santé, peuvent assister aux soins, aux examens et aux traitements.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-02-06/05, art. 18, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 11
+
+§ 1er. [<sup>2</sup> Sans préjudice de l'article 45 de la loi Qualité, le patient a]<sup>2</sup> le droit d'introduire une plainte concernant l'exercice des droits que lui octroie la présente loi, auprès de la [<sup>2</sup> fonction de médiation, telle que visée à l'article 16/1]<sup>2</sup> compétente.
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> § 4. Après le décès d'un patient mineur visé à l'article 12, la personne qui au moment du décès du patient agissait en tant que représentant de ce dernier, est autorisée à exercer le droit visé au § 1er. Si le patient mineur d'âge exerçait de son vivant ses droits de manière autonome de la façon visée à l'article 12, § 2, ce droit revient in fine à la personne qui aurait représenté le patient mineur d'âge conformément à l'article 12, § 1er, pour autant que le patient ne s'y est pas opposé expressément.
+
+Après le décès du patient majeur visé à l'article 14, l'époux, le partenaire cohabitant légal, le partenaire cohabitant de fait, les parents du patient jusqu'au deuxième degré inclus et la personne qui au moment du décès du patient agissait en tant que représentant de ce dernier conformément à l'article 14 ont le droit d'exercer le droit visé au § 1er, pour autant que le patient ne s'y est pas opposé expressément.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2024-02-06/05, art. 4, 009; En vigueur : 04-03-2024&gt;
+
+(2)&lt;L 2024-02-06/05, art. 19, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 11/1.
+
+[<sup>1</sup> § 1er. Le patient a le droit de se faire assister par une ou plusieurs personnes de confiance dans l'exercice des droits énoncés dans le présent chapitre. Le patient détermine la portée de la compétence de la personne de confiance.
+
+Le Roi peut définir la manière dont le patient peut désigner le cas échéant par voie électronique une personne de confiance et déterminer la portée de la compétence de celle-ci.
+
+§ 2. Le patient a le droit d'exercer le droit à l'information visé aux articles 7, § 1er, et 8, § 2, le droit de consultation visé à l'article 9, § 2, et le droit de copie visé à l'article 9, § 3, par l'entremise d'une personne de confiance. Le Roi peut définir la manière dont le patient peut désigner le cas échéant par voie électronique la personne de confiance pour exercer les droits visés à l'alinéa précédent, ainsi que la manière dont un professionnel des soins de santé reçoit connaissance de l'identité et du mandat de la personne de confiance visée à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-06/05, art. 20, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 11bis
+
+&lt;inséré par L 2004-11-24/42, art. 2 ; En vigueur : 27-10-2005&gt; Toute personne doit recevoir de la part des professionnels de la santé les soins les plus appropriés visant à prévenir, écouter, évaluer, prendre en compte, traiter et soulager la douleur.
+
+## CHAPITRE IV. - Représentation du patient.
+
+### Art. 12
+
+§ 1er. Si le patient est mineur, les droits fixés par la présente loi sont exercés par [<sup>1</sup> les personnes qui conformément au Livre I, titre IX, de l'ancien Code civil exercent]<sup>1</sup> l'autorité sur le mineur ou par son tuteur.
+
+§ 2. Suivant son âge et sa maturité, le patient est associé à l'exercice de ses droits. Les droits énumérés dans cette loi peuvent être exercés de manière autonome par le patient mineur qui peut être estimé apte à apprécier raisonnablement ses intérêts.
+
+----------
+
+(1)&lt;L 2024-02-06/05, art. 21, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 13
+
+&lt;Abrogé par L 2013-03-17/14, art. 214, 004; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+### Art. 14
+
+[<sup>1</sup> § 1er. Les droits d'une personne majeure [<sup>2</sup> ...]<sup>2</sup> inscrits dans la présente loi sont exercés par la personne même, pour autant qu'elle soit capable d'exprimer sa volonté pour ce faire.
+
+Ces droits sont cependant exercés par [<sup>5</sup> un représentant tel que visé aux paragraphes 1/1, 2 et 3]<sup>5</sup>, pour autant et aussi longtemps qu'il n'est pas en mesure d'exercer ses droits lui-même. [<sup>5</sup> Le représentant exerce les droits du patient dans l'intérêt du patient et conformément aux valeurs, aux préférences en matière de soins actuels et futurs et aux objectifs de vie exprimés par le patient. Il associe le patient autant que possible et proportionnellement aux facultés de compréhension du patient.]<sup>5</sup>
+
+[<sup>5</sup> § 1/1.]<sup>5</sup> [<sup>5</sup> Le patient peut désigner une personne pour agir comme représentant.]<sup>5</sup> La désignation [<sup>5</sup> ...]<sup>5</sup> s'effectue par un mandat écrit spécifique, daté et signé par cette personne ainsi que par le patient, mandat par lequel cette personne marque son consentement. Ce mandat peut être révoqué par le patient ou par le mandataire désigné par lui par un écrit daté et signé. [<sup>5</sup> Si le patient désigne plusieurs personnes comme représentant, il détermine l'ordre dans lequel ces personnes interviennent comme représentant. Le patient peut désigner les proches qui assistent le représentant dans l'exercice des droits du patient.]<sup>5</sup>
+
+[<sup>5</sup> Le Roi peut définir la manière dont le patient peut désigner le cas échéant par voie électronique le représentant et les proches, ainsi que la manière dont un professionnel des soins de santé reçoit connaissance de l'identité du représentant.]<sup>5</sup>
+
+§ 2. Si le patient n'a pas désigné de mandataire ou si le mandataire désigné par le patient n'intervient pas, les droits établis par la présente loi sont exercés par l'administrateur de la personne, [<sup>3</sup> désigné par le juge de paix pour le faire, conformément à l'article 492/1, § 1er, alinéa 4,]<sup>3</sup> [<sup>5</sup> de l'ancien Code]<sup>5</sup> civil [<sup>5</sup> ...]<sup>5</sup>.
+
+§ 3. Si aucun administrateur n'est habilité à représenter le patient en vertu du § 2, les droits établis par la présente loi sont exercés par l'époux cohabitant, le partenaire cohabitant légal ou le partenaire cohabitant de fait.
+
+Si la personne qui peut intervenir en vertu de l'alinéa 1er ne souhaite pas intervenir ou si elle fait défaut, les droits sont exercés, en ordre successif, par un enfant majeur, un parent, un frère ou une soeur majeurs du patient.
+
+Si la personne qui peut intervenir en vertu de l'alinéa 2 ne souhaite pas intervenir ou si elle fait défaut, c'est le [<sup>4</sup> professionnel des soins de santé]<sup>4</sup> concerné, le cas échéant dans le cadre d'une concertation pluridisciplinaire, qui veille aux intérêts du patient. Il en va de même en cas de conflit entre deux ou plusieurs personnes pouvant intervenir en vertu du § 2 ou des alinéas 1er et 2.
+
+§ 4. [<sup>5</sup> ...]<sup>5</sup>
+
+§ 5. Le droit de plainte visé à l'article 11 peut, par dérogation aux [<sup>5</sup> §§ 1/1]<sup>5</sup>, 2 et 3, être exercé par les personnes visées à ces paragraphes, désignées par le Roi, par arrêté délibéré en Conseil des ministres, sans devoir respecter l'ordre prévu.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 215, 004; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+(2)&lt;L 2014-04-25/23, art. 214, 006; En vigueur : 01-09-2014&gt;
+
+(3)&lt;L 2018-12-21/09, art. 88, 008; En vigueur : 01-03-2019&gt;
+
+(4)&lt;L 2024-02-06/05, art. 4, 009; En vigueur : 04-03-2024&gt;
+
+(5)&lt;L 2024-02-06/05, art. 22, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 15
+
+§ 1er. En vue de la protection de la vie privée du patient telle que visée à l'article 10, le [<sup>2</sup> ...]<sup>2</sup> concerné peut rejeter en tout ou en partie la demande de la personne visée aux articles 12 [<sup>1</sup> ...]<sup>1</sup> et 14 visant à obtenir consultation ou copie comme visé à l'article 9, § 2, ou § 3 [<sup>3</sup> ou une demande de consultation ou de copie telle que visée à l'article 9, § 4/1]<sup>3</sup>. Dans ce cas, le droit de consultation ou de copie est exercé par le [<sup>2</sup> professionnel des soins de santé]<sup>2</sup> désigné par le mandataire [<sup>3</sup> ou la personne visée à l'article 9, § 4/1]<sup>3</sup>.
+
+§ 2. Dans l'intérêt du patient et afin de prévenir toute menace pour sa vie ou toute atteinte grave à sa santé, le [<sup>2</sup> professionnel des soins de santé]<sup>2</sup>, le cas échéant dans le cadre d'une concertation pluridisciplinaire, déroge à la décision prise par la personne visée aux articles 12 [<sup>3</sup> et 14]<sup>3</sup>. [<sup>3</sup> Le professionnel des soins de santé y déroge seulement pour autant que cette personne ne peut pas démontrer la volonté expresse du patient.]<sup>3</sup>
+
+§ 3. Dans les cas visés aux §§ 1er, et 2, le [<sup>2</sup> professionnel des soins de santé]<sup>2</sup> ajoute une motivation écrite dans le dossier du patient.
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 216, 004; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+(2)&lt;L 2024-02-06/05, art. 4, 009; En vigueur : 04-03-2024&gt;
+
+(3)&lt;L 2024-02-06/05, art. 23, 009; En vigueur : 04-03-2024&gt;
+
+## CHAPITRE V. [<sup>1</sup> - Commission fédérale "Droits du patient" et Service de médiation "Droits du patient".]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-02-06/05, art. 24, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 16
+
+§ 1er. Une Commission fédérale " Droits du patient " est créée au [<sup>2</sup> Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement]<sup>2</sup>.
+
+§ 2. Elle aura pour mission :
+
+1° de collecter et traiter des données nationales et internationales concernant des matières relatives aux droits du patient;
+
+2° de formuler des avis, sur demande ou d'initiative, à l'intention du ministre qui a la Santé publique dans ses attributions, concernant les droits et devoirs des patients et des praticiens professionnels;
+
+3° [<sup>2</sup> à la fin de son mandat, d'effectuer une évaluation de la présente loi et de son application et de formuler des recommandations en la matière;]<sup>2</sup>
+
+4° d'évaluer le fonctionnement des fonctions de médiation [<sup>1</sup> et de formuler les recommandations à cet égard]<sup>1</sup>;
+
+5° [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 4. Le Roi précise les règles concernant la composition et le fonctionnement de la Commission fédérale " Droits du patient ". Sur le plan de la composition, une représentation équilibrée sera garantie entre les représentants des patients, des praticiens professionnels, des hôpitaux et des organismes assureurs tels que visés à l'article 2, i, de la loi coordonnée du 14 juillet 1994 relative à l'assurance obligatoire soins de santé et indemnités. Des fonctionnaires des départements ministériels ou des services publics concernés peuvent également être prévus en tant que membres à voix consultative.
+
+§ 5. Le secrétariat de la commission est assuré par le fonctionnaire général désigné par le ministre qui a la Santé publique dans ses attributions.
+
+----------
+
+(1)&lt;L 2014-04-10/23, art. 176, 005; En vigueur : 10-05-2014&gt;
+
+(2)&lt;L 2024-02-06/05, art. 25, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 16/1.
+
+[<sup>1</sup> § 1er. La fonction de médiation visée à l'article 11 a les missions suivantes:
+
+1° la prévention des questions et des plaintes par le biais de la promotion de la communication entre le patient et le professionnel des soins de santé;
+
+2° la médiation concernant les plaintes visées à l'article 11 en vue de trouver une solution;
+
+3° l'information du patient au sujet des possibilités en matière de règlement de sa plainte en l'absence de solution telle que visée en 2° ou lorsque le patient le demande;
+
+4° la communication d'informations sur l'organisation, le fonctionnement et les règles de procédure de la fonction de médiation;
+
+5° la formulation de recommandations permettant d'éviter que les manquements susceptibles de donner lieu à une plainte, telle que visée au § 1er, ne se reproduisent;
+
+6° la rédaction d'un rapport annuel.
+
+§ 2. Les documents établis et les communications écrites ou orales faites par la fonction de médiation ou les parties concernées au cours de la médiation et pour les besoins de celle-ci, visés au paragraphe 1er, 2°, sont confidentiels.
+
+Ils ne peuvent pas être utilisés en dehors du contexte de la médiation visée, en particulier dans une procédure judiciaire, administrative, disciplinaire ou arbitrale ou dans toute autre procédure en vue de la résolution du conflit, et ne sont pas admissibles comme preuve.
+
+Sauf volonté contraire des parties exprimée par écrit, ne sont pas visés par la présente obligation de confidentialité le document de demande de médiation établi par la fonction médiation du professionnel de santé, l'accord de médiation, ainsi que l'éventuel document établi par la fonction de médiation qui constate l'échec de la médiation.
+
+L'obligation de confidentialité peut, par ailleurs, avec le consentement écrit des parties, et dans les limites qu'elles déterminent, être levée.
+
+Les documents et communications confidentiels qui sont malgré tout communiqués ou sur lesquels une partie se base en violation de l'obligation de confidentialité sont d'office écartés des débats.
+
+§ 3. Sans préjudice des obligations que la loi lui impose, la fonction de médiation ne peut rendre publics les faits dont il prend connaissance du fait de sa fonction. Il ne peut être appelé comme témoin par les parties dans une procédure civile, administrative ou arbitrale relative aux faits dont il a pris connaissance au cours de la médiation. Il ne peut davantage révéler, en ce compris au juge ou à l'arbitre saisi d'un différend entre les parties médiées, le motif de l'échec de ce mode amiable de règlement des conflits.
+
+L'article 458 du Code pénal s'applique à la fonction de médiation.
+
+§ 4. Le Roi fixe, par arrêté délibéré en Conseil des ministres les conditions auxquelles la fonction de médiation doit répondre en ce qui concerne l'indépendance, le secret professionnel, l'expertise, la protection juridique, l'organisation, le fonctionnement, le financement, les règles de procédure et le ressort.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-06/05, art. 26, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 16/2.
+
+[<sup>1</sup> § 1er. Auprès de la commission visée à l'article 16, il est institué un Service de médiation fédéral "Droits du patient".
+
+§ 2. Le service de médiation susvisé a pour tâches:
+
+1° de renvoyer une plainte d'un patient relative à l'exercice des droits qui lui sont accordés par la présente loi, à la fonction de médiation compétente;
+
+2° à défaut de la possibilité visée au 1°, de traiter cette plainte lui-même, de la manière visée à l'article 16/1, § 1er, 2° et 3° ;
+
+3° d'assurer la coordination des fonctions de médiation;
+
+4° d'évaluer le fonctionnement des fonctions de médiation et de formuler des recommandations à cet égard;
+
+5° de rédiger un rapport annuel contenant un aperçu du nombre de plaintes qu'il a reçues, renvoyées et traitées lui-même et un aperçu des rapports annuels reçus des fonctions de médiation, visées à l'article 11.
+
+Le Roi peut fixer les modalités du rapport annuel et la liste des organismes et personnes auxquels le rapport annuel doit être adressé.
+
+§ 3. Les documents établis et les communications écrites ou orales faites par le service de médiation ou les parties concernées au cours de la médiation et pour les besoins de celle-ci, visés au paragraphe 2, 2°, sont confidentiels.
+
+Ils ne peuvent pas être utilisés en dehors du contexte de la médiation visée, en particulier dans une procédure judiciaire, administrative, disciplinaire ou arbitrale ou dans toute autre procédure en vue de la résolution du conflit, et ne sont pas admissibles comme preuve.
+
+Sauf volonté contraire des parties exprimée par écrit, ne sont pas visés par la présente obligation de confidentialité le document de demande de médiation établi par la fonction médiation du professionnel de santé, l'accord de médiation, ainsi que l'éventuel document établi par la fonction de médiation qui constate l'échec de la médiation.
+
+L'obligation de confidentialité peut, par ailleurs, avec le consentement écrit des parties, et dans les limites qu'elles déterminent, être levée.
+
+Les documents et communications confidentiels qui sont malgré tout communiqués ou sur lesquels une partie se base en violation de l'obligation de confidentialité sont d'office écartés des débats.
+
+§ 4. Sans préjudice des obligations que la loi lui impose, la fonction de médiation ne peut rendre publics les faits dont il prend connaissance du fait de sa fonction. Il ne peut être appelé comme témoin par les parties dans une procédure civile, administrative ou arbitrale relative aux faits dont il a pris connaissance au cours de la médiation. Il ne peut davantage révéler, en ce compris au juge ou à l'arbitre saisi d'un différend entre les parties médiées, le motif de l'échec de ce mode amiable de règlement des conflits.
+
+§ 5. L'article 458 du Code pénal s'applique au service de médiation.
+
+§ 6. Le Roi précise les règles concernant la composition et le fonctionnement du Service de médiation fédéral "Droits du patient".]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-06/05, art. 27, 009; En vigueur : 04-03-2024&gt;
+
+## CHAPITRE VI. - Dispositions modificatives et finales.
+
+### Art. 17
+
+Dans la loi sur les hôpitaux, coordonnée le 7 août 1987, sont apportées les modifications suivantes :
+
+1° Dans le titre 1er est inséré un chapitre V (nouveau), rédigé comme suit :
+
+" CHAPITRE V. - Respect des droits du patient. ";
+
+2° Un article 17novies est ajouté, libellé comme suit :
+
+" Art. 17novies. Chaque hôpital respecte, dans les limites de ses capacités légales, les dispositions de la loi du 22 août 2002 relative aux droits du patient pour ce qui concerne les aspects médicaux, infirmiers et d'autres pratiques professionnelles de soins dans ses relations juridiques avec le patient. De plus, chaque hôpital veille à ce que les praticiens professionnels qui n'y travaillent pas sur la base d'un contrat de travail ou d'une nomination statutaire respectent les droits du patient.
+
+Chaque hôpital veille à ce que toutes les plaintes liées au respect de l'alinéa précédent puissent être déposées auprès de la fonction de médiation prévue par l'article 70quater afin d'y être traitées.
+
+A sa demande, le patient a le droit de recevoir explicitement et préalablement les informations concernant les relations juridiques visées à l'alinéa 1er et définies par le Roi après avis de la commission visée à l'article 16 de la loi de 22 août 2002 relative aux droits du patient.
+
+L'hôpital est responsable des manquements commis par les praticiens professionnels qui y travaillent, relatifs au respect des droits du patient définis dans la présente loi, à l'exception des manquements commis par les praticiens professionnels à l'égard desquels les informations visées à l'alinéa précédent en disposent explicitement autrement. ";
+
+3° Un article 70quater est ajouté, libellé comme suit :
+
+" Art. 70quater. Pour être agréé, chaque hôpital doit disposer d'une fonction de médiation telle que visée à l'article 11, § 1er, de la loi du 22 août 2002 relative aux droits du patient, étant entendu que le Roi peut définir les conditions dans lesquelles cette fonction de médiation peut être exercée par le biais d'un accord de coopération entre hôpitaux. "
+
+### Art. 18
+
+§ 1er. L'alinéa 1er de l'article 10, § 2, de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel, modifiée par la loi du 11 décembre 1998, est modifié comme suit :
+
+" Sans préjudice de l'article 9, § 2, de la loi du 22 août 2002 relative aux droits du patient, toute personne a le droit, soit directement, soit avec l'aide d'un [<sup>1</sup> professionnel des soins de santé]<sup>1</sup> en soins de santé, de prendre connaissance des données à caractère personnel traitées en ce qui concerne sa santé. "
+
+§ 2. L'alinéa 2 de l'article 10, § 2, de la même loi, est modifié comme suite :
+
+" Sans préjudice de l'article 9, § 2, de la loi précitée, la communication peut être effectuée par l'intermédiaire d'un professionnel des soins de santé choisi par la personne concernée, à la demande du responsable du traitement ou de la personne concernée. "
+
+----------
+
+(1)&lt;L 2024-02-06/05, art. 4, 009; En vigueur : 04-03-2024&gt;
+
+### Art. 19
+
+L'article 95 de la loi du 25 juin 1992 sur le contrat d'assurance terrestre est remplacé par la disposition suivante :
+
+" Art. 95. - Information médicale - Le médecin choisi par l'assuré peut remettre à l'assuré qui en fait la demande, les certificats médicaux nécessaires à la conclusion ou à l'exécution du contrat. Ces certificats se limitent à une description de l'état de santé actuel.
+
+Ces certificats ne peuvent être remis qu'au médecin-conseil de l'assureur. Ce dernier ne peut communiquer aucune information non pertinente eu égard au risque pour lequel les certificats ont été établis ou relative à d'autres personnes que l'assuré.
+
+L'examen médical, nécessaire à la conclusion et à l'exécution du contrat, ne peut être fondé que sur les antécédents déterminant l'état de santé actuel du candidat-assuré et non sur des techniques d'analyse génétique propres à déterminer son état de santé futur.
+
+Pour autant que l'assureur justifie de l'accord préalable de l'assuré, le médecin de celui-ci transmet au médecin-conseil de l'assureur un certificat établissant la cause du décès.
+
+Lorsqu'il n'existe plus de risque pour l'assureur, le médecin-conseil restitue, à leur demande, les certificats médicaux à l'assuré ou, en cas de décès, à ses ayants droit.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Châteauneuf-de-Grasse, le 22 août 2002.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de la Protection de la Consommation, de la Santé publique et de l'Environnement,
+
+Mme M. AELVOET
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

@@ -1,0 +1,810 @@
+---
+title: "Loi visant à améliorer le taux d'emploi des travailleurs."
+identifier: "2001012802"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2001/09/05/2001012802/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2001-09-05
+published: 2001-09-15
+entry_into_force: 2001-09-15
+last_amended: 2025-12-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2001/09/05/2001012802/justel"
+department: "Emploi et Travail - Affaires sociales - Santé Publique et Environnement"
+justel_notes:
+  - "art. 15 modifié dans le futur pour la communauté germanophone par DCG 2016-04-25/10 , art. 64, ; En vigueur : indéterminée "
+  - "Consultation des versions antérieures à partir du 15-09-2001 et mise à jour au 29-12-2025"
+retrieved: 2026-10-11
+---
+
+# 5 SEPTEMBRE 2001. - Loi visant à améliorer le taux d'emploi des travailleurs.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE I. - Disposition générale.
+
+#### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## CHAPITRE II. - Dispositions relatives aux groupes à risque et aux jeunes auxquels s'applique un parcours d'insertion.
+
+### Section 1. - Effort en faveur des personnes appartenant aux groupes à risque ou auxquelles s'applique un parcours d'insertion.
+
+#### Art. 2
+
+La présente section s'applique aux employeurs soumis à la loi du 27 juin 1969 portant révision de l'arrêté-loi du 28 décembre 1944 relatif à la sécurité sociale des travailleurs et aux arrêtés-lois des 10 janvier 1945 concernant la sécurité sociale des mineurs et assimilés et 7 février 1945 concernant la sécurité sociale des marins de la marine marchande.
+
+#### Art. 3
+
+Les employeurs visés à l'article 2 sont redevables, pour les années 2001 et 2002, d'un effort de 0,10 % calculé sur la base du salaire global des travailleurs (occupés par un contrat au sens de la loi du 3 juillet 1978 relative au contrat de travail) comme prévu à l'article 23 de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés et aux arrêtés d'exécution de cette loi. &lt;L 2002-08-02/45, art. 49, 002; En vigueur : 01-07-2002&gt;
+
+Le Roi peut déterminer les catégories d'employeurs qu'Il soustrait complètement ou partiellement du champ d'application de la présente section.
+
+L'effort visé à l'alinéa 1er est destiné aux personnes appartenant aux groupes à risque ou à qui s'applique un parcours d'insertion.
+
+La notion de groupes à risque est prévue par la convention collective visée à l'article 4.
+
+#### Art. 4
+
+§ 1er. L'effort visé à l'article 3 est concrétisé au moyen d'une nouvelle convention collective de travail ou d'une convention collective de travail prolongée, conclue dans un organe paritaire ou conclue pour une entreprise ou un groupe d'entreprises, pour 2001 et 2002.
+
+§ 2. La convention collective de travail visée au § 1er doit être conclue conformément à la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires.
+
+La convention collective de travail doit être déposée au greffe de l'Administration des relations collectives de travail du ministère de l'Emploi et du Travail au plus tard le 1er octobre de l'année à laquelle elle se rapporte ou à une autre date déterminée par le Roi. Elle doit mentionner de manière explicite qu'elle est conclue en application de cette section.
+
+§ 3. Les parties qui ont signé la convention collective de travail doivent déposer chaque année un rapport d'évaluation et un aperçu financier de l'exécution de la convention collective visée au § 1er au greffe de l'Administration des relations collectives de travail du ministère de l'Emploi et du Travail au plus tard le 1er juillet de l'année suivant celle à laquelle s'applique la convention collective de travail. Les modalités et conditions auxquelles doivent répondre le rapport d'évaluation et l'aperçu financier peuvent être déterminées par le Roi. Ces rapports d'évaluation sont transmis à la Chambre des représentants.
+
+#### Art. 5
+
+§ 1er. Les employeurs qui ne sont pas couverts ou qui sont couverts pour une partie seulement de leurs travailleurs par une convention collective de travail visée à l'article 4, § 1er, sont tenus de payer une cotisation de 0,10 %, visée à l'article 3, pour la partie de leurs travailleurs qui ne sont pas couverts par une telle convention collective de travail.
+
+Par dérogation aux dispositions de l'alinéa 1er, la cotisation de 0,10 % n'est pas due pour les 1er et 2e trimestres 2001 et la cotisation pour les 3e et 4e trimestres 2001 est fixée à 0,20 %.
+
+§ 2. Les institutions chargées de la perception et du recouvrement des cotisations de sécurité sociale sont, chacune en ce qui la concerne, chargées de la perception et du recouvrement de la cotisation visée au § 1er, ainsi que du versement de celle-ci sur un compte spécial du Fonds pour l'Emploi créé au sein du ministère de l'Emploi et du Travail, en exécution de l'article 4 de l'arrêté royal n° 181 du 30 décembre 1982 créant un Fonds en vue de l'utilisation de la modération salariale supplémentaire pour l'emploi.
+
+Cette cotisation est assimilée à une cotisation de sécurité sociale, notamment en ce qui concerne les déclarations avec justification des cotisations, les délais de paiement, l'application des sanctions civiles et des dispositions pénales, la surveillance, la désignation du juge compétent en cas de litige, la prescription en matière de procédure judiciaire, le privilège et la communication du montant de la déclaration de créance des institutions chargées de la perception et du recouvrement des cotisations.
+
+#### Art. 6
+
+L'article 42, § 1er, 1°, de la loi du 24 décembre 1999 en vue de la promotion de l'emploi est remplacé par la disposition suivante :
+
+" 1° ces employeurs privés soient liés par une convention collective de travail visée à l'article 3 de (la loi du 5 septembre 2001 visant à améliorer le taux d'emploi des travailleurs), qui prévoit un effort d'au moins 0,15 % pour la période du 1er janvier 2001 au 31 décembre 2002; &lt;Errata, M.B. 09-10-2001, p. 34387&gt; ".
+
+### Section 2. - Accompagnement des jeunes qui bénéficient du parcours d'insertion.
+
+#### Art. 7
+
+§ 1er. Les employeurs auxquels sont applicables la loi du 27 juin 1969 précitée et les arrêtés-lois des 10 janvier 1945 et 7 février 1945 précités, sont redevables, pour la période du 1er janvier 2001 au 31 décembre 2002, d'une cotisation de 0,05 %, calculée sur la base du salaire global des travailleurs, (occupés par un contrat au sens de la loi du 3 juillet 1978 relative au contrat de travail) comme prévu à l'article 23 de la loi du 29 juin 1981 précitée. &lt;L 2002-08-02/45, art. 50, 002; En vigueur : 01-07-2002&gt;
+
+Par dérogation aux dispositions de l'alinéa 1er, cette cotisation n'est pas due pour les 1er et 2e trimestres 2001 et la cotisation pour les 3e et 4e trimestres 2001 est fixée à 0,10 %.
+
+Le Roi peut soustraire entièrement ou partiellement les catégories qu'il détermine du champ d'application de la présente section.
+
+§ 2. Les institutions chargées de la perception et du recouvrement des cotisations de sécurité sociale sont, chacune en ce qui la concerne, chargées de la perception et du recouvrement de la cotisation visée au § 1er, ainsi que du versement de celle-ci sur un compte spécial du Fonds pour l'Emploi créé au sein du ministère de l'Emploi et du Travail, en exécution de l'article 4 de l'arrêté royal n° 181 du 30 décembre 1982 précité.
+
+Ces cotisations sont assimilées à une cotisation de sécurité sociale, notamment en ce qui concerne les déclarations avec justification des cotisations, les délais de paiement, l'application des sanctions civiles et des dispositions pénales, la surveillance, la désignation du juge compétent en cas de litige, la prescription en matière de procédure judiciaire, le privilège et la communication du montant de la déclaration de créance des institutions chargées de la perception et du recouvrement des cotisations.
+
+#### Art. 8
+
+§ 1er. Le produit des cotisations visées à l'article 7, § 1er, est affecté à l'accompagnement des jeunes auxquels s'applique un parcours d'insertion.
+
+§ 2. Les moyens disponibles au et à partir du 31 décembre 2000 au Fonds pour l'Emploi et provenant, d'une part, du solde des moyens visés à l'article 6, § 2, de l'arrêté royal du 27 janvier 1997 contenant des mesures pour la promotion de l'emploi en application de l'article 7, § 2, de la loi du 26 juillet 1996 relative à la promotion de l'emploi et à la sauvegarde préventive de la compétitivité, et des moyens résultant de la mise en oeuvre de l'article 20, § 1er, de la loi du 3 avril 1995 portant des mesures visant à promouvoir l'emploi et de l'article 6, § 1er, de l'arrêté royal du 27 janvier 1997 précité, et d'autre part, des cotisations qui, à partir du 1er janvier 2001, sont dues en vertu de l'article 5, sont utilisés pour la promotion et l'encadrement de l'apprentissage de professions exercées par des travailleurs salariés ainsi que pour les services fédéraux chargés du contrôle, du suivi et de l'encadrement du parcours d'insertion.
+
+#### Art. 9
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres :
+
+1° en faveur de quels jeunes, dans quels cas, à quelles conditions et selon quelles modalités les cotisations visées à l'article 8, § 1er, sont affectées à l'accompagnement de jeunes auxquels s'applique un parcours d'insertion. Le Roi peut prévoir l'octroi d'avances dont Il détermine le montant;
+
+2° pour l'accompagnement des jeunes auxquels s'applique un parcours d'insertion, les modalités de répartition du produit des cotisations visées à l'article 8, § 1er;
+
+3° toute autre mesure nécessaire pour garantir l'exécution de la présente section.
+
+## CHAPITRE III. [<sup>1</sup> - Obligation de contribution financière au "Fonds Retour Au Travail" par l'employeur invoquant la force majeure médicale pour mettre fin au contrat de travail d'un travailleur en incapacité de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-12-26/01, art. 164, 026; En vigueur : 01-04-2024&gt;
+
+#### Art. 10
+
+[<sup>1</sup> § 1er. L'employeur qui invoque la force majeure, telle que visée à l'article 34, § 1er, de la loi du 3 juillet 1978 relative aux contrats de travail, pour mettre fin au contrat de travail d'un travailleur en incapacité de travail, doit, au plus tard dans un délai de [<sup>2</sup> 45 jours]<sup>2</sup> calendrier suivant la fin du contrat de travail:
+
+1° notifier à l'Institut national d'assurance maladie-invalidité les données suivantes:
+
+a) le nom de l'employeur, le numéro d'identification de la Banque-Carrefour des Entreprises, visé à l'article III.17 du Code de droit économique, le numéro d'inscription à l'Office national de sécurité sociale, visé à l'article 33, § 1er, de l'arrêté royal du 28 novembre 1969 pris en exécution de la loi du 27 juin 1969 révisant l'arrêté-loi du 28 novembre 1944 concernant la sécurité sociale des travailleurs, le numéro de compte bancaire et les coordonnées de l'employeur;
+
+b) le nom, le prénom et le numéro d'identification, visé à l'article 8 de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-carrefour de la sécurité sociale, du travailleur pour lequel le contrat de travail a pris fin;
+
+2° verser une contribution de 1.800 euros au "Fonds Retour Au Travail", visé à l'article 110/2 de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, le mode de notification et le mode de paiement de la contribution par l'employeur, visés à l'alinéa précédent, ainsi que les modalités qui y sont attachées.
+
+§ 2. L'Institut national d'assurance maladie-invalidité est le responsable du traitement des données à caractère personnel au sens du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE, prévu au paragraphe 1er, alinéa 1er, 1°.
+
+Le traitement de ces données a pour finalité de permettre aux travailleurs concernés dont le contrat de travail a pris fin pour cause de force majeure médicale, de faire appel au "Fonds Retour Au Travail" pour acheter des services spécialisés adaptés aux besoins en vue de leur réinsertion socioprofessionnelle.
+
+L'Institut national d'assurance maladie-invalidité peut communiquer ces données aux services de contrôle compétents aux fins de la constatation, de la poursuite et de la répression des infractions aux dispositions du paragraphe 1er, ainsi qu'aux fins de la perception et du recouvrement des sommes relevant de leurs compétences respectives.
+
+Ces données sont conservées pendant la durée nécessaire à la réalisation de la finalité de leur traitement, avec une durée de conservation maximale de trois années à compter du 1er janvier de l'année qui suit celle du versement, visé au paragraphe 1er, alinéa 1er, 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-12-26/01, art. 164, 026; En vigueur : 01-04-2024&gt;
+
+(2)&lt;L 2023-10-16/03, art. 5, 025; En vigueur : 01-04-2024&gt;
+
+#### Art. 10/1.
+
+[<sup>1</sup> Sans préjudice des attributions des officiers de police judiciaire, les fonctionnaires désignés par le Roi surveillent le respect du présent chapitre et de ses arrêtés d'exécution.
+
+Ces fonctionnaires exercent cette surveillance conformément aux dispositions du Code pénal social.
+
+Les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 39 du Code pénal social lorsqu'ils agissent d'initiative ou sur demande dans le cadre de leur mission d'information, de conseil et de surveillance relative au respect des dispositions du présent chapitre et de ses arrêtés d'exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-12-26/01, art. 164, 026; En vigueur : 01-04-2024&gt;
+
+## CHAPITRE IV. - Travailleurs âgés.
+
+#### Art. 11
+
+L'article 35, § 1er, de la loi du 29 juin 1981 établissant les principes généraux de la sécurité sociale des travailleurs salariés, remplacé par la loi du 26 mars 1999 et modifié par les lois des 24 décembre 1999 et 12 août 2000 est complété comme suit :
+
+" 7° le Roi peut, par arrêté royal délibéré en Conseil des ministres, déterminer les conditions et les règles suivant lesquelles la réduction de cotisations visée aux 2° et 3° peut être augmentée pour les travailleurs faisant partie de la catégorie 1 ou de la catégorie 3 qui, le dernier jour du trimestre, sont âgés d'au moins 58 ans. Le montant de cette réduction complémentaire de cotisations peut varier en fonction de l'âge du travailleur, sans pouvoir excéder le montant trimestriel de la réduction de cotisations visée au 2° et 3°. ".
+
+## CHAPITRE V. - Reclassement professionnel.
+
+### Section 1re. [<sup>1</sup> - Régime général de reclassement professionnel]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par L 2013-12-26/08, art. 76, 011; En vigueur : 01-01-2014&gt;
+
+#### Art. 11/1
+
+[<sup>1</sup> La présente section est applicable au travailleur dont l'employeur a mis fin au contrat de travail moyennant un préavis, obtenu conformément aux dispositions de la loi du 3 juillet 1978 relative aux contrats de travail et des articles 67 à 69, d'au moins 30 semaines ou une indemnité égale à la rémunération en cours correspondant soit à la durée d'un délai de préavis d'au moins 30 semaines, soit à la partie de ce délai restant à courir.
+
+Cette section ne s'applique toutefois pas aux travailleurs qui relèvent du champ d'application du chapitre V du titre IV de la loi du 23 décembre 2005 relative au pacte de solidarité entre les générations.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-26/08, art. 77, 011; En vigueur : 01-01-2014&gt;
+
+#### Art. 11/2
+
+[<sup>1</sup> Pour l'application de la présente section, l'on entend par "procédure de reclassement professionnel" : "un ensemble de services et de conseils de guidance fournis individuellement ou en groupe par un tiers, dénommé ci-après "prestataire de services", pour le compte d'un employeur, afin de permettre à un travailleur de retrouver lui-même et le plus rapidement possible un emploi auprès d'un nouvel employeur ou de développer une activité professionnelle en tant qu'indépendant.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-26/08, art. 78, 011; En vigueur : 01-01-2014&gt;
+
+#### Art. 11/3
+
+[<sup>1</sup> Le travailleur visé à l'article 11/1, premier alinéa, a droit à un reclassement professionnel.
+
+Ce droit n'est pas accordé lorsque le travailleur est licencié pour faute grave.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-26/08, art. 79, 011; En vigueur : 01-01-2014&gt;
+
+#### Art. 11/4
+
+[<sup>1</sup> § 1er. Après que le congé ait été notifié, l'employeur doit offrir au travailleur une procédure de reclassement professionnel conformément aux conditions et modalités déterminées par ou en vertu de la présente section.
+
+§ 2. L'offre de reclassement professionnel doit répondre aux critères de qualité suivants :
+
+1° l'employeur fait appel à un prestataire de services, qui agit :
+
+a) soit dans le cadre d'une réglementation fixée au niveau de la branche d'activité à laquelle l'entreprise appartient ou, à défaut, dans le cadre d'une réglementation fixée au niveau d'une autre branche d'activité;
+
+b) soit dans le cadre d'une réglementation fixée par une convention collective de travail conclue au niveau de l'entreprise;
+
+c) soit en qualité de bureau public ou privé, spécialisé dans le reclassement professionnel;
+
+d) soit dans le cadre d'une initiative régionale, sous-régionale ou locale, qui est développée dans le cadre d'un service régional de l'emploi;
+
+2° si l'employeur fait appel à un prestataire de services public ou privé, ce dernier doit être agréé au sens de la réglementation qui régit les agences d'emploi privées ou publiques;
+
+3° il doit ressortir de l'offre de la procédure de reclassement professionnel faite par l'employeur au travailleur visé à l'article 11/1 que :
+
+a) le prestataire de services responsable de ladite procédure s'engage à souscrire une assurance contre les accidents, offrant pour tous les accidents qui surviennent au cours de l'exécution de la mission de reclassement professionnel ainsi que sur le chemin du lieu où cette mission se déroule et qui ne sont pas couverts par l'assurance contre les accidents du travail contractée par l'employeur, une protection identique à celle garantie par la législation sur les accidents du travail;
+
+b) le prestataire de services s'engage à garantir, en cas de non-respect de ce dernier engagement, au travailleur victime d'un accident, une indemnisation forfaitaire complémentaire égale à trois mois de rémunération, sans préjudice des actions que le travailleur peut, sur la base de son dommage, intenter contre le prestataire de services;
+
+c) le prestataire de services s'engage à respecter le droit à la vie privée du travailleur dans le cadre du traitement des données à caractère personnel; les informations obtenues au sujet du travailleur dans le cadre de la mission de reclassement professionnel sont traitées de manière confidentielle et ne sont pas transmises à des tiers;
+
+d) le prestataire de services s'engage à remettre, au terme de la mission, le dossier qui concerne le travailleur à ce dernier s'il en fait la demande;
+
+e) le prestataire de services s'engage à ne pas invoquer la non-exécution des engagements de l'employeur vis-à-vis du prestataire de services pour suspendre l'exécution de la procédure de reclassement professionnel ou y mettre fin;
+
+f) le prestataire de services s'engage à ne pas s'immiscer dans les contacts entre le travailleur et les employeurs potentiels;
+
+g) le prestataire de services s'engage à n'influencer ni la décision de licenciement, ni les discussions y relatives;
+
+h) le prestataire de services s'engage à offrir la compétence et la connaissance professionnelles les plus grandes possible en n'affectant, notamment, que du personnel suffisamment qualifié et formé pour la mission;
+
+i) le travailleur sera convoqué le plus rapidement possible afin d'entamer la procédure de reclassement professionnel, de manière à ce que celle-ci se déroule le mieux possible, tant au niveau émotionnel qu'en ce qui concerne l'élaboration d'un bilan de compétences;
+
+4° l'offre de reclassement professionnel doit donner une image claire et objective des services du prestataire de services et des modalités de fonctionnement de celui-ci; à cet effet, l'offre doit contenir les éléments suivants :
+
+a) les services qui font au minimum partie de la mission : un bilan personnel et professionnel, une assistance psychologique pour le travailleur qui en fait la demande, l'élaboration d'un plan d'action ainsi qu'une aide logistique et administrative;
+
+b) les objectifs poursuivis, y compris les aspects plus spécifiques ou personnalisés adaptés à l'âge et au niveau de qualification des travailleurs;
+
+c) les méthodes d'accompagnement concrètement envisagées;
+
+d) la date du début de la procédure de reclassement professionnel;
+
+e) le type de reclassement professionnel visé : reclassement professionnel individuel et/ou de groupe;
+
+f) le programme du travailleur pendant la procédure de reclassement professionnel, par un document qui est remis au travailleur et qui précise les étapes à suivre, la formation et le suivi;
+
+g) le ou les lieux probables où la procédure de reclassement professionnel sera organisée;
+
+5° la distance entre le domicile ou le lieu de travail du travailleur et le lieu où la procédure de reclassement professionnel est organisée doit être raisonnable; pour en juger, il doit ressortir de l'offre de reclassement professionnel que le prestataire de services fait preuve de disponibilité géographique et il faut tenir compte des possibilités de déplacement du travailleur, y compris les frais, ainsi que de la nature et du niveau de sa qualification.
+
+§ 3. Les critères énumérés au paragraphe 2 peuvent être complétés ou remplacés par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-26/08, art. 80, 011; En vigueur : 01-01-2014&gt;
+
+#### Art. 11/5
+
+[<sup>1</sup> § 1er. Lorsque le contrat de travail est résilié par l'employeur moyennant une indemnité calculée sur la base de la rémunération en cours correspondant soit à la durée d'un délai de préavis d'au moins trente semaines, soit à la partie de ce délai restant à courir, le travailleur a droit à l'ensemble de mesures composées de :
+
+1° un reclassement professionnel de 60 heures correspondant à la valeur d'un douzième de la rémunération annuelle de l'année civile qui précède le licenciement, avec une valeur minimale de 1.800 euros et une valeur maximale de 5.500 euros. En cas de régime de travail à temps partiel, cette fourchette minimale et maximale est proratisée en fonction de la durée des prestations de travail. Ce reclassement professionnel est évalué pour l'ensemble de mesures à 4 semaines de rémunération;
+
+2° une indemnité de préavis qui correspond soit à la durée d'un délai de préavis d'au moins 30 semaines, soit à la partie de ce délai restant à courir, sur laquelle quatre semaines sont imputées pour la valeur de reclassement professionnel.
+
+§ 2. Le travailleur visé au § 1er a droit au reclassement professionnel durant une période maximum de douze mois selon les conditions et modalités suivantes :
+
+1° pendant un délai de deux mois au maximum, à compter de la date de début du programme de reclassement professionnel, le travailleur reçoit, au total, vingt heures d'accompagnement, sauf s'il a averti l'employeur qu'il a trouvé un emploi auprès d'un nouvel employeur ou développé une activité professionnelle en tant qu'indépendant et qu'il ne souhaite pas entamer cet accompagnement;
+
+2° la procédure se poursuit pendant le délai suivant de quatre mois au maximum, à concurrence, au total, de vingt heures, sauf si le travailleur a averti l'employeur qu'il a trouvé un emploi auprès d'un nouvel employeur ou développé une activité professionnelle en tant qu'indépendant et qu'il ne souhaite pas poursuivre le reclassement;
+
+3° le reclassement se poursuit encore pendant le délai suivant de six mois au maximum, à concurrence, au total, de vingt heures, sauf si le travailleur a averti l'employeur qu'il a trouvé un emploi auprès d'un nouvel employeur ou développé une activité professionnelle en tant qu'indépendant et qu'il ne souhaite pas poursuivre le reclassement;
+
+4° l'avertissement visé aux deuxième et troisième alinéas interrompt la procédure de reclassement professionnel.
+
+§ 3. Lorsque le travailleur qui a averti l'employeur qu'il a trouvé un emploi auprès d'un nouvel employeur perd cet emploi dans les trois mois suivant son entrée en service, la procédure de reclassement professionnel débute ou reprend à sa demande. En cas de reprise, celle-ci débute à la phase pendant laquelle le programme de reclassement professionnel avait été interrompu et pour les heures restantes. La procédure de reclassement professionnel prend en tout cas fin à l'expiration de la période de douze mois après qu'elle a débuté.]<sup>1</sup>
+
+[<sup>2</sup> § 4. Par dérogation au paragraphe 1er, le travailleur qui, par le biais de certificats médicaux de son médecin traitant, et, si l'employeur en prend l'initiative, d'un deuxième médecin mandaté par l'employeur, atteste, endéans les sept jours à compter du jour où il a pris connaissance de son licenciement, qu'il est incapable de suivre le reclassement professionnel pour des raisons médicales, n'a pas droit au reclassement professionnel visé au § 1er, 1°. En ce cas l'employeur ne peut imputer les quatre semaines sur l'indemnité de préavis visée au § 1er, 2°.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-26/08, art. 81, 011; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2018-01-15/02, art. 52, 020; En vigueur : 15-02-2018&gt;
+
+#### Art. 11/6
+
+[<sup>1</sup> § 1er. Lorsqu'un contrat de travail est résilié par l'employeur moyennant prestation d'un délai de préavis, calculé conformément aux dispositions de la loi du 3 juillet 1978 précitée et aux articles 67 à 69, d'au moins 30 semaines, le travailleur a droit à un ensemble de mesures composées de :
+
+1° un reclassement professionnel de 60 heures. Le temps qui est consacré à ce reclassement professionnel est imputé sur la durée pendant laquelle le travailleur, avec maintien du salaire, peut s'absenter du travail afin de chercher un nouvel emploi en vertu de l'article 41 de la loi du 3 juillet 1978 précitée;
+
+2° un délai de préavis, conformément aux dispositions de la loi du 3 juillet 1978 précitée et aux articles 67 à 69, d'au moins 30 semaines.
+
+§ 2. Lorsque le travailleur qui a averti l'employeur qu'il a trouvé un emploi auprès d'un nouvel employeur perd cet emploi dans les trois mois suivant son entrée en service, la procédure de reclassement professionnel débute ou reprend à sa demande. En cas de reprise, celle-ci débute à la phase pendant laquelle le programme de reclassement professionnel avait été interrompu et pour les heures restantes. La procédure de reclassement professionnel prend en tout cas fin à l'expiration de la période de douze mois après qu'elle a débuté.
+
+§ 3. Le travailleur qui, pendant le délai de préavis, met fin au contrat de travail moyennant un préavis réduit lorsqu'il a trouvé un autre emploi, conserve le droit de bénéficier d'une procédure de reclassement professionnel jusqu'à trois mois après que le contrat de travail chez son employeur précédent a pris fin. Si la procédure avait déjà débuté, la reprise débute à la phase pendant laquelle le programme de reclassement professionnel avait été interrompu et pour les heures restantes. La procédure prend en tout cas fin à l'expiration de la période de douze mois après qu'elle a débuté.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-26/08, art. 82, 011; En vigueur : 01-01-2014&gt;
+
+#### Art. 11/7
+
+[<sup>1</sup> § 1er. Lorsqu'un contrat de travail est résilié par l'employeur moyennant une indemnité qui correspond à un délai de préavis d'au moins 30 semaines soit à la partie de ce délai restant à courir, l'employeur fait une offre de reclassement valable par écrit au travailleur dans un délai de quinze jours après que le contrat de travail a pris fin.
+
+§ 2. Si l'employeur ne fait pas une offre de reclassement professionnel au travailleur dans le délai précité de quinze jours, ce dernier met l'employeur en demeure par écrit dans les 39 semaines après expiration de ce terme.
+
+§ 3. L'employeur fait une offre de reclassement professionnel valable par écrit au travailleur dans un délai de quatre semaines après la date de la mise en demeure.
+
+§ 4. Le travailleur dispose d'un délai de quatre semaines, à compter du moment où l'offre est faite par l'employeur, pour donner ou non son consentement par écrit à cette offre.
+
+§ 5. Le travailleur peut, au plus tôt au moment où le congé est donné, donner son consentement pour entamer le reclassement professionnel.
+
+L'écrit, par lequel le travailleur donne son consentement, ne peut se rapporter qu'au reclassement professionnel proprement dit.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-26/08, art. 83, 011; En vigueur : 01-01-2014&gt;
+
+#### Art. 11/8
+
+[<sup>1</sup> § 1er. Lorsqu'un contrat de travail est résilié par l'employeur moyennant un préavis calculé conformément aux dispositions de la loi du 3 juillet 1978 précitée, et aux articles 67 à 69, d'au moins 30 semaines, l'employeur fait une offre de reclassement professionnel au plus tard 4 semaines après le début du délai de préavis.
+
+Si l'employeur ne fait pas une offre de reclassement professionnel au travailleur dans le délai précité de quatre semaines, ce dernier met l'employeur en demeure par écrit dans les quatre semaines qui suivent l'expiration de ce terme.
+
+L'employeur fait une offre de reclassement professionnel valable par écrit au travailleur dans un délai de quatre semaines après la date de la mise en demeure.
+
+Le travailleur dispose d'un délai de quatre semaines, à compter du moment où l'offre est faite par l'employeur, pour donner ou non son consentement par écrit à cette offre.
+
+§ 2. Le travailleur peut, au plus tôt au moment où le congé est donné, donner son consentement pour entamer le reclassement professionnel.
+
+L'écrit, par lequel le travailleur donne son consentement, ne peut se rapporter qu'au reclassement professionnel proprement dit.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-26/08, art. 84, 011; En vigueur : 01-01-2014&gt;
+
+#### Art. 11/9
+
+[<sup>1</sup> § 1er. Le travailleur qui, conformément à l'article 11/5, § 3, et l'article 11/6, §§ 2 et 3, souhaite entamer ou reprendre la procédure de reclassement professionnel, introduit par écrit sa demande à cet effet dans un délai d'un mois après la perte de son nouvel emploi.
+
+Lorsque le travailleur qui souhaite entamer la procédure n'a pas encore reçu d'offre, la procédure visée à l'article 11/7 s'applique, étant entendu que le délai de quinze jours dans lequel l'employeur est tenu d'offrir une procédure de reclassement professionnel est calculé à partir du moment où la demande est faite par le travailleur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-26/08, art. 85, 011; En vigueur : 01-01-2014&gt;
+
+#### Art. 11/10
+
+[<sup>1</sup> La demande en vue d'obtenir, d'entamer ou de reprendre une procédure de reclassement professionnel, la mise en demeure, le consentement à la procédure ou le refus éventuel de celle-ci, la demande de report de la date de début ainsi que l'avertissement relatif à un nouvel emploi ou à une activité indépendante, se font par lettre recommandée à la poste ou par la remise d'un écrit dont le double est signé par l'employeur pour réception.
+
+L'offre de reclassement professionnel de l'employeur, le refus éventuel d'une demande de procédure de reclassement professionnel, l'acceptation ou le refus d'une demande de report de la date de début se font par lettre recommandée à la poste.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-26/08, art. 86, 011; En vigueur : 01-01-2014&gt;
+
+#### Art. 11/11
+
+[<sup>1</sup> Le travailleur visé à l'article 11/5 recouvre le droit à une indemnité de préavis égale à la rémunération en cours correspondant soit à la durée d'un délai de préavis, soit à la partie de ce délai restant à courir, obtenu conformément aux dispositions de la loi du 3 juillet 1978 précitée, et des articles 67 à 69, si l'employeur :
+
+\- ne lui offre aucune procédure de reclassement professionnel après avoir suivi la procédure déterminée à l'article 11/7;
+
+\- lui propose une offre de reclassement professionnel qui n'est pas conforme aux conditions et modalités déterminées par ou en vertu de la présente section;
+
+\- bien que lui ayant offert une procédure de reclassement professionnel conforme aux conditions et modalités déterminées par ou en vertu de la présente section, ne met pas en oeuvre effectivement ladite procédure.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-26/08, art. 87, 011; En vigueur : 01-01-2014&gt;
+
+#### Art. 11/12
+
+[<sup>1</sup> Jusqu'au 31 décembre 2015, le travailleur dont le contrat de travail est rompu moyennant paiement d'une indemnité de préavis bénéficie d'une indemnité de préavis égale à la rémunération en cours correspondant soit à la durée d'un délai de préavis, soit à la partie de ce délai restant à courir, obtenu conformément aux dispositions de la loi du 3 juillet 1978, précitée, et des articles 67 à 69, sauf s'il accepte une offre de procédure de reclassement professionnel conforme aux conditions et modalités déterminées par ou en vertu de la présente section, mise effectivement en oeuvre par l'employeur. Dans ce cas, les dispositions de l'article 11/5 lui sont applicables.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-12-26/08, art. 88, 011; En vigueur : 01-01-2014&gt;
+
+### Section 2. [<sup>1</sup> - Régime particulier de reclassement professionnel pour les travailleurs d'au moins 45 ans]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par L 2013-12-26/08, art. 76, 011; En vigueur : 01-01-2014&gt;
+
+#### Art. 12
+
+[<sup>1</sup> La présente section est applicable aux travailleurs qui ne bénéficient pas des dispositions de la section 1re et qui sont occupés par un employeur qui est soumis à la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-12-26/08, art. 89 et 90, 011; En vigueur : 01-01-2014&gt;
+
+#### Art. 13
+
+&lt;L 2007-05-17/48, art. 7, 008; En vigueur : 01-12-2007&gt; § 1er. Un travailleur dont l'employeur a mis fin au contrat de travail a droit à une procédure de reclassement professionnel telle qu'elle est fixée dans une convention collective de travail, conclue au sein du Conseil national du travail et rendue obligatoire par arrêté royal ou fixée par le Roi par arrêté délibéré en Conseil des ministres, à défaut de convention collective de travail conclue dans les deux mois de la saisine du Conseil national du Travail.
+
+Ce droit n'est toutefois accordé que si le travailleur remplit simultanément les conditions suivantes :
+
+1° il n'a pas été licencié pour motif grave;
+
+2° au moment du licenciement, il est âgé d'au moins 45 ans;
+
+3° au moment du licenciement, il compte au moins un an d'ancienneté de service ininterrompue auprès de l'employeur.
+
+Le droit ne lui est pas non plus accordé à partir du moment où il peut demander le bénéfice de la pension de retraite.
+
+§ 2. L'employeur doit, après que le congé ait été donné, offrir au travailleur visé aux § 1er, alinéas 1 et 2, une procédure de reclassement professionnel dont les conditions et délais sont déterminés par l'instrument juridique déterminé au § 1er, alinéa 1.
+
+§ 3. Par dérogation au § 2, l'employeur n'est pas tenu d'offrir une procédure de reclassement professionnel :
+
+1° au travailleur qui est lié par un contrat de travail comportant une durée hebdomadaire de travail moyenne normale qui n'atteint pas la moitié de la durée de travail du travailleur à temps plein se trouvant dans une situation comparable au sens de l'article 2 de la loi du 5 mars 2002 relative au principe de non-discrimination en faveur des travailleurs à temps partiel;
+
+2° au travailleur qui est dans une situation telle que s'il devenait chômeur complet indemnisé à l'issue du délai de préavis ou de la période couverte par une indemnité de congé, il ne devrait pas être disponible pour le marché général de l'emploi; le Roi détermine, après avis du Conseil national du Travail, les catégories qui ne doivent pas être disponibles pour le marché général de l'emploi pour l'application de cette disposition.
+
+§ 4. [<sup>1</sup> Par dérogation au § 3, 1°, l'employeur est tenu d'offrir une procédure de reclassement professionnel aux travailleurs visés au § 3, 1°, lorsqu'ils lui font explicitement la demande, sauf si ces mêmes travailleurs se trouvent également dans la situation visée au § 3, 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-14/02, art. 6, 022; En vigueur : 31-12-2018&gt;
+
+#### Art. 14
+
+La durée de la procédure de reclassement professionnel ainsi que le statut du travailleur pendant le déroulement de cette procédure sont fixés par convention collective de travail rendue obligatoire par arrêté royal.
+
+A défaut de convention collective de travail, ils sont fixés par le Roi par arrêté délibéré en Conseil des ministres.
+
+#### Art. 15
+
+&lt;L 2002-12-24/31, art. 319, 003; En vigueur : 15-09-2001&gt; Dans les conditions et selon la procédure et les modalités fixées par le Roi, l'employeur est tenu, lorsqu'il est constaté qu'il n'a pas respecté les obligations qui découlent des articles 13 et 14, de payer une contribution en faveur de l'Office national de l'Emploi. Cette contribution est affectée au reclassement professionnel des travailleurs qui n'ont pas bénéficié de la procédure de reclassement professionnel prévue par les articles 13 et 14.
+
+Le montant de cette contribution, majoré d'un montant pour couvrir les charges administratives et financières, est fixé par le Roi.
+
+Cette contribution ainsi que la majoration sont assimilées à une cotisation de sécurité sociale, notamment en ce qui concerne les délais de paiement, l'application des sanctions civiles et des dispositions pénales, la surveillance, la désignation du juge compétent en cas de litige, la prescription en matière de procédure judiciaire, le privilège et la communication du montant de la déclaration de la créance des institutions chargées de la perception et du recouvrement des cotisations.
+
+#### Art. 15_REGION_FLAMANDE
+
+[<sup>1</sup> Dans les conditions et selon la procédure et les modalités fixées par le Gouvernement flamand, l'employeur est tenu, lorsqu'il est constaté qu'il n'a pas respecté les obligations qui découlent des articles 13 et 14, de payer une contribution en faveur de la région flamande pour le travailleur employé dans une unité d'établissement en Région flamande.
+
+Le montant de la contribution, majoré d'un montant pour couvrir les charges administratives et financières, est fixé par le Gouvernement flamand.
+
+La contribution ainsi que la majoration sont assimilées à une dette envers la Région flamande, notamment en ce qui concerne les délais de paiement, l'application des sanctions civiles, la désignation du juge compétent en cas de litige, la prescription en matière de procédure judiciaire]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2018-02-09/08, art. 2, 021; En vigueur : 01-01-2019&gt;
+
+#### Art. 15_REGION_WALLONNE
+
+[<sup>1</sup> Dans les conditions et selon la procédure et les modalités fixées par le Gouvernement wallon, l'employeur, pour le travailleur occupé dans une unité d'établissement située en région de langue française est tenu, lorsqu'il est constaté qu'il n'a pas respecté les obligations qui découlent des articles 13 et 14, de payer une contribution en faveur de l'Office wallon de la Formation professionnelle et de l'Emploi. Cette contribution est affectée au reclassement professionnel des travailleurs qui n'ont pas bénéficié de la procédure de reclassement professionnel prévue par les articles 13 et 14.
+
+Le montant de cette contribution, majoré d'un montant pour couvrir les charges administratives et financières, est fixé par le Gouvernement.
+
+Cette contribution ainsi que la majoration sont assimilées à une dette de l'employeur envers l'Office wallon de la Formation professionnelle et de l'Emploi, notamment en ce qui concerne les délais de paiement, l'application des sanctions civiles et des dispositions pénales, la désignation du juge compétent en cas de litige, la prescription en matière de procédure judiciaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-04-28/08, art. 61, 017; En vigueur : 01-01-2016&gt;
+
+#### Art. 16
+
+&lt;L 2002-12-24/31, art. 319, 003; En vigueur : 15-09-2001&gt; L'article 15 n'est applicable qu'aux travailleurs qui ont été licenciés à partir du 15 septembre 2002.
+
+#### Art. 17
+
+&lt;L 2002-12-24/31, art. 319, 003; En vigueur : 15-09-2001&gt; Sans préjudice des attributions des officiers de police judiciaire, les fonctionnaires désignés par le Roi surveillent le respect [<sup>2</sup> de la présente section]<sup>2</sup> et de ses arrêtés d'exécution.
+
+[<sup>1</sup> Ces fonctionnaires exercent cette surveillance conformément aux dispositions du Code pénal social.]<sup>1</sup>
+
+[<sup>4</sup> Les inspecteurs sociaux disposent des pouvoirs visés aux articles 23 à 39 du Code pénal social lorsqu'ils agissent d'initiative ou sur demande dans le cadre de leur mission d'information, de conseil et de surveillance relative au respect des dispositions de la présente loi et de ses arrêtés d'exécution.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 93, 010; En vigueur : 01-07-2011&gt;
+
+(2)&lt;L 2013-12-26/08, art. 91, 011; En vigueur : 01-01-2014&gt;
+
+(4)&lt;L 2016-02-29/09, art. 84, 016; En vigueur : 01-05-2016&gt;
+
+#### Art. 17._REGION_FLAMANDE
+
+[<sup>1</sup> La surveillance et le contrôle de l'exécution du présent chapitre et de ses arrêtés d'exécution se déroulent conformément au décret relatif au contrôle des lois sociales du 30 avril 2004.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2015-04-24/05, art. 17, 012; En vigueur : 01-05-2015&gt;
+
+#### Art. 17/1_REGION_WALLONNE
+
+[<sup>1</sup> Le contrôle de l'application des article s 15 et 16 et de leurs mesures d'exécution s'exerce conformément aux dispositions du décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la politique économique, à la politique de l'emploi et à la recherche scientifique ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2019-02-28/25, art. 125, 024; En vigueur : 01-07-2019&gt;
+
+#### Art. 17/1_REGION_BRUXELLES-CAPITALE
+
+[<sup>1</sup> Les fonctionnaires désignés par le Gouvernement de la Région de Bruxelles-Capitale contrôlent l'application des articles 15 et 16 et de leurs mesures d'exécution, et surveillent le respect de ceux-ci.
+
+Ces fonctionnaires exercent ce contrôle ou cette surveillance conformément aux dispositions de l'ordonnance du 30 avril 2009 relative à la surveillance des réglementations en matière d'emploi qui relèvent de la compétence de la Région de Bruxelles-Capitale et à l'instauration d'amendes administratives applicables en cas d'infraction à ces réglementations.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par ORD 2015-07-09/17, art. 34, 018; En vigueur : 01-08-2016 (ARR 2016-06-09/15, art. 42, 1°)&gt;
+
+### Section 3.
+
+#### Art. 18
+
+&lt;Abrogé par L 2022-12-26/01, art. 165, 026; En vigueur : 01-04-2024&gt;
+
+#### Art. 18/1.
+
+&lt;Abrogé par L 2022-12-26/01, art. 165, 026; En vigueur : 01-04-2024&gt;
+
+#### Art. 18/2.
+
+&lt;Abrogé par L 2022-12-26/01, art. 165, 026; En vigueur : 01-04-2024&gt;
+
+#### Art. 18/3.
+
+&lt;Abrogé par L 2022-12-26/01, art. 165, 026; En vigueur : 01-04-2024&gt;
+
+#### Art. 18/4.
+
+&lt;Abrogé par L 2022-12-26/01, art. 165, 026; En vigueur : 01-04-2024&gt;
+
+## CHAPITRE VI. - Travail temporaire.
+
+#### Art. 19
+
+Dans l'article 1er de la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs, le § 4 est remplacé par la disposition suivante :
+
+" § 4. Par travail exceptionnel, on entend les travaux déterminés dans une convention collective de travail conclue au sein du Conseil national du Travail et rendue obligatoire par le Roi ou déterminés par le Roi lorsque la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires ne s'applique pas. ".
+
+#### Art. 20
+
+L'article 18 de la même loi est abrogé.
+
+#### Art. 21
+
+L'article 47, alinéa 1er, de la même loi est abrogé.
+
+## CHAPITRE VII. - Fonds de l'expérience professionnelle. &lt;L 2004-12-27/30, art. 128, En vigueur : 01-01-2005&gt;
+
+### Section 1. - Champ d'application.
+
+#### Art. 22
+
+Pour l'application du présent chapitre on entend par :
+
+1° employeur : l'employeur auquel s'applique la loi du 5 décembre 1968 sur les conventions collectives de travail et les commissions paritaires;
+
+2° (travailleurs âgés : les travailleurs âgés d'au moins 45 ans.) &lt;L 2004-12-27/30, art. 129, 005; En vigueur : 01-01-2005&gt;
+
+#### Art. 22_REGION_WALLONNE
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 1, 027; En vigueur : 01-01-2026&gt;
+
+#### Art. 23
+
+&lt;L 2004-12-27/30, art. 130, 005; En vigueur : 01-01-2005&gt; Le Roi peut, par arrêté délibéré en Conseil des ministres, étendre l'application du présent chapitre à d'autres catégories d'employeurs.
+
+L'arrêté visé à l'alinéa 1er peut lier des conditions particulières à cette extension.
+
+### Section 2. - Le Fonds.
+
+### Section 2. REGION\_WALLONNE.
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 1, 027; En vigueur : 01-01-2026&gt;
+
+#### Art. 24
+
+&lt;Abrogé par L 2015-12-26/03, art. 18, 015; En vigueur : 01-01-2016&gt;
+
+#### Art. 24_REGION_WALLONNE
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 1, 027; En vigueur : 01-01-2026&gt;
+
+#### Art. 25
+
+&lt;Abrogé par L 2015-12-26/03, art. 18, 015; En vigueur : 01-01-2016&gt;
+
+#### Art. 25_REGION_WALLONNE
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 1, 027; En vigueur : 01-01-2026&gt;
+
+#### Art. 26
+
+&lt;Abrogé par L 2015-12-26/03, art. 18, 015; En vigueur : 01-01-2016&gt;
+
+#### Art. 26_REGION_WALLONNE
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 1, 027; En vigueur : 01-01-2026&gt;
+
+### Section 3. - La subvention.
+
+### Section 3. REGION\_WALLONNE.
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 1, 027; En vigueur : 01-01-2026&gt;
+
+#### Art. 27
+
+&lt;L 2004-12-27/30, art. 133, 005; En vigueur : 01-01-2005&gt; Le ministre qui a l'Emploi et le Travail dans ses compétences peut accorder aux fonds de sécurité d'existence, aux employeurs ou à d'autres personnes déterminées par le Roi, une subvention qui a pour but de soutenir des actions qui ont trait à la promotion des possibilités de travail des travailleurs âgés, la qualité des conditions de travail des travailleurs âgés et l'organisation du travail des travailleurs âgés.
+
+[<sup>1</sup> Sont assimilés aux travailleurs pour l'application de cet article, les travailleurs licenciés dans le cadre d'une restructuration au sens de l'article 33 de la loi du 23 décembre 2005 relative au pacte de solidarité entre les générations, qui se sont inscrits dans une cellule de reconversion.]<sup>1</sup>
+
+Le Roi détermine, après avis du Conseil national du travail, par arrêté délibéré en Conseil des ministres, les conditions dans lesquelles et les modalités selon lesquelles les actions visées dans l'alinéa 1er entrent en ligne de compte pour la subvention.
+
+----------
+
+(1)&lt;L 2009-05-06/03, art. 60, 009; En vigueur : 29-05-2009&gt;
+
+#### Art. 27_REGION_WALLONNE
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 1, 027; En vigueur : 01-01-2026&gt;
+
+#### Art. 27_REGION_DE_BRUXELLES-CAPITALE
+
+&lt;L 2004-12-27/30, art. 133, 005; En vigueur : 01-01-2005&gt; Le ministre qui a l'Emploi et le Travail dans ses compétences peut accorder aux fonds de sécurité d'existence, aux employeurs ou à d'autres personnes déterminées par le Roi, une subvention qui a pour but de soutenir des actions qui ont trait à la promotion des possibilités de travail des travailleurs âgés, la qualité des conditions de travail des travailleurs âgés et l'organisation du travail des travailleurs âgés.
+
+[<sup>1</sup> Sont assimilés aux travailleurs pour l'application de cet article, les travailleurs licenciés dans le cadre d'une restructuration au sens de l'article 33 de la loi du 23 décembre 2005 relative au pacte de solidarité entre les générations, qui se sont inscrits dans une cellule de reconversion.]<sup>1</sup>
+
+Le Roi détermine, après avis du [<sup>2</sup> Conseil Economique et Social de la Région de Bruxelles-Capitale]<sup>2</sup>, par arrêté délibéré en Conseil des ministres, les conditions dans lesquelles et les modalités selon lesquelles les actions visées dans l'alinéa 1er entrent en ligne de compte pour la subvention.
+
+----------
+
+(1)&lt;L 2009-05-06/03, art. 60, 009; En vigueur : 29-05-2009&gt;
+
+(2)&lt;ORD 2015-07-02/06, art. 6, 013; En vigueur : 20-07-2015&gt;
+
+#### Art. 28
+
+(abrogés) &lt;L 2004-12-27/30, art. 134, 005; En vigueur : 01-01-2005&gt;
+
+#### Art. 29
+
+(abrogé) &lt;L 2004-12-27/30, art. 134, 005; En vigueur : 01-01-2005&gt;
+
+#### Art. 30
+
+La subvention ne peut pas être cumulée avec un autre avantage que l'employeur perçoit dans le chef du même travailleur et dans le même but (à l'exception de la réduction des cotisations de sécurité sociale). &lt;L 2002-12-24/31, art. 323, 003; En vigueur : 10-01-2003&gt;
+
+#### Art. 31
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, les critères, les conditions et les modalités relatifs à l'octroi de la subvention.
+
+#### Art. 32
+
+Le contrôle de l'emploi de la subvention est effectué conformément aux dispositions des articles 55 à 58 des lois sur la comptabilité de l'Etat, coordonnées le 17 juillet 1991.
+
+#### Art. 32_REGION_WALLONNE
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 1, 027; En vigueur : 01-01-2026&gt;
+
+#### Art. 32_REGION_BRUXELLES-CAPITALE
+
+[<sup>1</sup> Le contrôle de l'emploi de la subvention est effectué conformément aux dispositions des articles 92 à 95 inclus de l'ordonnance organique du 23 février 2006 portant les dispositions applicables au budget, à la comptabilité et au contrôle.
+
+Les dispositions de l'ordonnance du 8 octobre 2015 portant des règles générales relatives à la rétention, au recouvrement et à la non-liquidation des subventions en matière d'emploi et d'économie s'appliquent à la subvention.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2015-10-08/02, art. 14, 019; En vigueur : 01-06-2016 (ARR 2016-04-14/08, art. 16, 1°)&gt;
+
+#### Art. 33
+
+Les demandes qui ont été introduites afin d'obtenir la subvention visée à l'article 27, mais pour lesquelles le ministre qui a l'Emploi et le Travail dans ses attributions n'a pas encore pris une décision en ce qui concerne l'octroi de la subvention, ne donnent pas lieu à une subvention au cas où les moyens disponibles dans le fonds seraient dépassés en raison de l'octroi de la subvention.
+
+#### Art. 33_REGION_WALLONNE
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 1, 027; En vigueur : 01-01-2026&gt;
+
+#### Art. 34
+
+Le Roi désigne les fonctionnaires qui surveillent le respect des dispositions du présent chapitre.
+
+Ces fonctionnaires exercent cette surveillance conformément aux dispositions de la loi du 16 novembre 1972 concernant l'inspection du travail.
+
+#### Art. 34_REGION_WALLONNE
+
+&lt;Abrogé par DRW 2025-12-19/13, art. 1, 027; En vigueur : 01-01-2026&gt;
+
+#### Art. 34_REGION_FLAMANDE
+
+[<sup>1</sup> La surveillance et le contrôle de l'exécution du présent chapitre et de ses arrêtés d'exécution se déroulent conformément au décret relatif au contrôle des lois sociales du 30 avril 2004.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2015-04-24/05, art. 18, 012; En vigueur : 01-05-2015&gt;
+
+#### Art. 34_REGION_DE_BRUXELLES-CAPITALE
+
+[<sup>1</sup> Les fonctionnaires désignés par le Gouvernement de la Région de Bruxelles-Capitale contrôlent l'application de ce chapitre et de ses mesures d'exécution, et surveillent le respect de ceux-ci.
+
+Ces fonctionnaires exercent ce contrôle ou cette surveillance conformément aux dispositions de l'ordonnance du 30 avril 2009 relative à la surveillance des réglementations en matière d'emploi qui relèvent de la compétence de la Région de Bruxelles-Capitale et à l'instauration d'amendes administratives applicables en cas d'infraction à ces réglementations.]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2015-07-09/17, art. 35, 018; En vigueur : 01-08-2016 (ARR 2016-06-09/15, art. 42, 1°)&gt;
+
+#### Art. 34/1_REGION_FLAMANDE
+
+[<sup>1</sup> Des indemnités ou paiements indûment reçus sont recouvrés d'office.
+
+Le Gouvernement flamand peut arrêter des modalités relatives au recouvrement des indemnités et/ou paiements indûment reçus.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2015-04-24/05, art. 19, 012; En vigueur : 01-05-2015&gt;
+
+#### Art. 34/2_REGION_FLAMANDE
+
+[<sup>1</sup> Une action en restitution née de l'application du présent chapitre et de ses arrêtés d'exécution se prescrit par cinq ans après le fait dont l'action est née.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2015-04-24/05, art. 20, 012; En vigueur : 01-05-2015&gt;
+
+### Section 4. - Modification de la loi du 24 décembre 1993 créant des fonds budgétaires et modifiant la loi organique du 27 décembre 1990.
+
+#### Art. 35
+
+&lt;Abrogé par L 2015-12-26/03, art. 18, 015; En vigueur : 01-01-2016&gt;
+
+## CHAPITRE VIII. - Activités de formation, d'accompagnement ou de tutorat exercées par des travailleurs âgés au bénéfice de nouveaux travailleurs.
+
+#### Art. 36
+
+Les travailleurs âgés de 50 ans au moins qui bénéficient d'allocations d'interruption, en vertu de la section 5 du chapitre IV de la loi de redressement du 22 janvier 1985 contenant des dispositions sociales, à la suite de la réduction de moitié de leurs prestations de travail peuvent, pendant leur mi-temps disponible, chez leur employeur, chez un autre employeur de la même branche d'activité ou dans un centre de formation aux métiers de la même branche d'activité qui est organisé par un secteur professionnel, exercer des activités de formation, d'accompagnement ou de tutorat dont bénéficient les nouveaux travailleurs occupés par l'employeur chez lequel ils exercent cette activité.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres :
+
+1° ce qu'il faut entendre par nouveau travailleur;
+
+2° le montant de la rémunération que le travailleur peut recevoir pour les activités visées à l'alinéa 1er;
+
+3° les relations entre employeur et travailleur lorsque les activités ne sont pas exercées chez l'employeur du travailleur;
+
+4° les formalités à remplir par l'employeur ainsi que par le travailleur afin que le travailleur puisse exercer les activités visées à l'alinéa 1er;
+
+5° les sanctions envers les employeurs et les travailleurs en cas de non respect des dispositions prises en vertu du présent chapitre.
+
+## CHAPITRE IX. - Congé-éducation payé.
+
+#### Art. 37
+
+L'article 110, § 2, de la loi de redressement du 22 janvier 1985 contenant des dispositions sociales, modifié par l'arrêté royal du 28 mars 1995, est modifié comme suit :
+
+1° l'alinéa 3 est abrogé;
+
+2° à l'alinéa 4, les mots " ainsi que sur base des notifications visées à l'article 120 " sont supprimés.
+
+#### Art. 38
+
+L'article 120 de la même loi, remplacé par arrêté royal du 28 mars 1995, est modifié comme suit :
+
+1° à l'alinéa 1er, le membre de phrase " à condition qu'ils transmettent au ministère un état récapitulatif des données telles que déterminées par le Roi ", est supprimé;
+
+2° l'alinéa 2 est abrogé.
+
+## CHAPITRE X. - Entrée en vigueur.
+
+#### Art. 39
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge, à l'exception :
+
+1° du chapitre II qui produit ses effets le 1er janvier 2001;
+
+2° du chapitre IV qui entre en vigueur le 1er avril 2002;
+
+3° de l'article 19 qui produit ses effets le 30 septembre 2000;
+
+4° de l'article 21 qui produit ses effets le jour de l'entrée en vigueur de la convention collective de travail visée à l'article 1er, § 4, de la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à la disposition d'utilisateurs, modifié par la présente loi, après que la convention collective de travail précitée aura été rendue obligatoire par arrêté royal;
+
+5° des chapitres VII et VIII dont le Roi fixe la date de l'entrée en vigueur;
+
+6° de l'article 37, 2°, et de l'article 38 qui produisent leurs effets le 1er septembre 2000.
+
+((NOTE : Entrée en vigueur du chapitre VIII fixée au 01-01-2002 par AR 2001-12-12/33, art. 22)
+
+(NOTE : Entrée en vigueur du chapitre VII fixée au 28-12-2002 par AR 2003-01-07/32, art. 4)
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 5 septembre 2001.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de l'Emploi,
+
+Mme L. ONKELINX
+
+Le Ministre des Affaires sociales,
+
+F. VANDENBROUCKE
+
+Scellé du sceau de l'Etat,
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

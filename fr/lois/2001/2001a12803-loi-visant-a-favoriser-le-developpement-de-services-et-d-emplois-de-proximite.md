@@ -1,0 +1,782 @@
+---
+title: "Loi visant à favoriser le développement de services et d'emplois de proximité (REGION FLAMANDE)"
+identifier: "2001A12803"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/20/2001A12803/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2001-07-20
+published: 2001-08-11
+entry_into_force: 2001-08-11
+last_amended: 2026-07-28
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/20/2001A12803/justel"
+department: "Affaires sociales - Emploi et Travail - Finances - Santé Publique et Environnement"
+justel_note: "Consultation des versions antérieures à partir du 11-08-2001 et mise à jour au 28-07-2026"
+retrieved: 2026-10-11
+---
+
+# 20 JUILLET 2001. - Loi visant à favoriser le développement de services et d'emplois de proximité (REGION FLAMANDE)
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Chapitre Ier. Disposition générale. &lt;Inséré par L 2003-12-22/42, art. 63, 002; En vigueur : 01-01-2004&gt;
+
+#### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Chapitre II. Services et emplois de proximité dans le secteur de l'aide à domicile de nature ménagère. &lt;Inséré par L 2003-12-22/42, art. 64, 002; En vigueur : 01-01-2004&gt;
+
+### Section 1re. Définitions et dispositions générales. &lt;Inséré par L 2003-12-22/42, art. 65, 002; En vigueur : 01-01-2004&gt;
+
+#### Art. 2
+
+(§ 1er. Pour l'application [<sup>8</sup> de la présente loi]<sup>8</sup>, on entend par :) &lt;L 2003-12-22/42, art. 66, 002; En vigueur : 01-01-2004&gt;
+
+1°) titre-service : le titre de paiement émis par une société émettrice, qui permet à l'utilisateur de régler, avec l'aide financière de l'Etat, revêtant la forme d'une subvention à la consommation, une prestation de travaux ou de services de proximité effectuée par une entreprise agréée;
+
+2°) société émettrice : la société désignée par [<sup>8</sup> le [<sup>10</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>10</sup>]<sup>8</sup> à la suite d'un appel d'offres, qui émet les titres-services;
+
+(3°) travaux ou services de proximité : les activités marchandes ou non marchandes, créatrices d'emploi, qui visent à rencontrer des besoins individuels, personnels ou familiaux dans le cadre de la vie quotidienne et qui concernent l'aide à domicile de nature ménagère [<sup>9</sup> y compris l'assistance sur le lieu de travail des travailleurs visés à l'article 3 de la présente loi, en formation et des demandeurs d'emploi visés à l'article 5, § 1er/1, alinéa 1er, 3°, du décret du 7 mai 2004 relatif à la création de l'agence autonomisée externe de droit public " Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding " (Office flamand de l'Emploi et de la Formation professionnelle), à condition que cette assistance soit indissociable de l'exercice d'activités portant sur d'aide à domicile de nature ménagère]<sup>9</sup>.
+
+[<sup>8</sup> Le Gouvernement flamand peut]<sup>8</sup> déterminer ce qu'il faut entendre par l'aide à domicile de nature ménagère.) &lt;L 2003-12-22/42, art. 67, 002; En vigueur : 01-01-2004&gt;
+
+4°) utilisateurs : les personnes physiques [<sup>5</sup> dont la résidence principale est située en Région flamande ]<sup>5</sup> qui bénéficient du titre-service;
+
+5°) entreprise : toute personne physique ou morale dont l'activité ou l'objet consiste au moins partiellement en la prestation de travaux ou services de proximité;
+
+(6°) entreprise agréée : l'entreprise qui fournit les travaux ou services de proximité visés au 3°), qui est agréée à cette fin et qui garantit la qualité et la sécurité de ceux-ci à l'utilisateur.) &lt;L 2003-12-22/42, art. 68, 002; En vigueur : 01-01-2004&gt;
+
+7° [<sup>6</sup> essais pratiques : une méthode de détermination par laquelle les constateurs cachent ou négligent de communiquer leur qualité ou la finalité de leur intervention.]<sup>6</sup>
+
+8° [<sup>8</sup> règlement général sur la protection des données : le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données) ;]<sup>8</sup>
+
+[<sup>8</sup> 9° date de prestation : la date à laquelle l'aide-ménagère à domicile payée par titre-service est effectivement prestée.]<sup>8</sup>
+
+[<sup>1</sup> Alinéas 2 et 3 abrogés]<sup>1</sup>.
+
+(§ 2. Afin d'obtenir l'agrément visé au § 1er, alinéa 1er, 6°, l'entreprise doit satisfaire aux conditions suivantes :
+
+a. l'entreprise a, si elle exerce une autre activité que les activités pour lesquelles un agrément peut être accordé sur base de cette loi, créé dans son sein " une Section sui generis " qui s'occupe spécifiquement de l'occupation dans le cadre des titres-services. [<sup>8</sup> Le Gouvernement flamand détermine]<sup>8</sup> ce qu'on entend par " une Section sui generis ";
+
+b. [<sup>1</sup> l'entreprise s'engage à se conformer aux dispositions de l'article 7octies, alinéa 1er, de cette loi;]<sup>1</sup>;
+
+c. l'entreprise s'engage, en ce qui concerne les travailleurs [<sup>1</sup> qui pendant leur occupation à temps partiel ont droit à une allocation de chômage, au revenu d'intégration ou à l'aide sociale financière]<sup>1</sup>, à leur attribuer par priorité un emploi à temps plein ou un autre emploi à temps partiel qui, presté seul ou à titre complémentaire, leur procure un régime à temps partiel nouveau, dont la durée de travail hebdomadaire est supérieure à celle du régime de travail à temps partiel dans lequel ils travaillent déjà, conformément aux modalités fixées par le [<sup>8</sup> Gouvernement flamand]<sup>8</sup>;
+
+d. [<sup>8</sup> l'entreprise s'engage à respecter les obligations légales sociales et fiscales, y compris les conditions de salaire et de travail qui lui sont applicables et les conventions collectives qui la lient ;]<sup>8</sup>
+
+e. l'entreprise n'est pas redevable (...) d'arriérés d'impôts, ni d'arriérés de cotisations à percevoir (par un organisme de recouvrement des cotisations de sécurité sociale) [<sup>2</sup> , ni d'arriérés de paiement de montants réclamés par [<sup>8</sup> le [<sup>10</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>10</sup>]<sup>8</sup>]<sup>2</sup>. [<sup>4</sup> ...]<sup>4</sup> . [<sup>4</sup> ...]<sup>4</sup> ; &lt;L 2006-12-27/32, art. 165, 004; En vigueur : 07-01-2007&gt; &lt;L 2008-06-08/30, art. 74, 1° et 2°, 005; En vigueur : 26-06-2008&gt;
+
+f. [<sup>3</sup> [<sup>4</sup> L'entreprise s'engage à :
+
+\- ne pas se trouver en état de faillite;
+
+\- ne pas avoir, dans les trois années écoulées, été impliquée dans une faillite, liquidation ou opération similaire;
+
+\- ne pas compter parmi les administrateurs, gérants, mandataires ou personnes ayant le pouvoir d'engager l'entreprise, des personnes physiques ou morales à qui l'exercice de telles fonctions est défendu en vertu de l'arrêté royal n° 22 du 24 octobre 1934 relatif à l'interdiction judiciaire faite à certains condamnés et aux faillis d'exercer certaines fonctions, professions ou activités;
+
+\- ne pas compter parmi les administrateurs, gérants, mandataires ou personnes ayant le pouvoir d'engager l'entreprise, des personnes physiques ou morales qui, dans les cinq années écoulées, ont été déclarées responsables des engagements ou dettes d'une société en faillite, en application des articles 213, 229, 231, 265, 314, 315, 456, 4°, ou 530 du Code des sociétés, ou pour lesquelles le tribunal n'a pas prononcé l'excusabilité sur la base de l'article 80 de la loi du 8 août 1997 sur les faillites;
+
+\- ne pas compter parmi les administrateurs, gérants, mandataires ou personnes ayant le pouvoir d'engager l'entreprise, des personnes physiques ou morales qui, dans les trois années écoulées, ont été impliquées dans une faillite, liquidation ou opération similaire.]<sup>4</sup> ]<sup>3</sup>
+
+g) [<sup>3</sup> L'entreprise a participé à la session d'informations concernant les titres-services, organisée par [<sup>8</sup> le [<sup>10</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>10</sup>]<sup>8</sup>;]<sup>3</sup>
+
+[<sup>4</sup> h. L'entreprise s'engage à remplir l'obligation de l'article 2bis, § 1er, au plus tard à la date de la remise de la demande d'agrément.]<sup>4</sup>
+
+[<sup>5</sup> i. l'entreprise s'engage à ne pas discriminer les travailleurs et les clients, ni directement ni indirectement, tel que visé à l'article 2 décret du 8 mai 2002 relatif à la participation proportionnelle sur le marché de l'emploi.]<sup>5</sup>
+
+[<sup>5</sup> j. l'entreprise s'engage à ne faire fournir aucune prestation dans un environnement aux risques ou dangers inacceptables pour les travailleurs ou dans un environnement où les travailleurs pourraient être victimes d'abus et de pratiques discriminatoires;]<sup>5</sup>
+
+[<sup>6</sup> k) l'entreprise autorise les essais pratiques pour vérifier le respect des conditions visées aux points i) et j). L'entreprise s'engage à entreprendre les actions nécessaires à l'occasion des résultats de ces essais pratiques.
+
+Les essais pratiques visés à l'alinéa premier sont sous-traités par l'organisation à un contractant indépendant désigné à cet effet par le Gouvernement flamand.
+
+Le Gouvernement flamand peut arrêter les modalités de ces essais pratiques pour que l'objectivité, la solidité et la neutralité du contractant des essais pratiques soient garanties. Le Gouvernement flamand arrêtera également les conditions auxquelles des constatations répétées par le contractant sont transmises à la " Vlaamse Sociaalrechtelijke Inspectie " (Inspection flamande des lois sociales), visée au décret du 30 avril 2004 relatif au contrôle des lois sociales;]<sup>6</sup>
+
+[<sup>8</sup> l. lorsque les activités doivent être exécutées au domicile de l'utilisateur, l'entreprise s'engage à attirer l'attention de ce dernier, préalablement à la première exécution des travaux, sur les obligations légales prévues par la présente loi et ses arrêtés d'exécution, ainsi que par la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail. Le Gouvernement flamand arrête les modalités de cette communication.]<sup>8</sup>
+
+[<sup>8</sup> Le Gouvernement flamand peut]<sup>8</sup> déterminer des conditions supplémentaires auxquelles l'entreprise doit répondre pour être agréée.
+
+[<sup>1</sup> Alinéa 3 abrogé.]<sup>1</sup>
+
+Les modalités communautaires ou régionales doivent respecter les dispositions existantes de la loi du 3 juillet 1978 relative aux contrats de travail.
+
+Dans les conditions et selon les modalités fixées par le [<sup>8</sup> Gouvernement flamand]<sup>8</sup>, l'agrément peut être retiré à l'entreprise agréée qui ne remplit plus les conditions d'agrément des alinéas précédents.
+
+L'agrément et son retrait se font par le ministre qui a l'Emploi dans ses compétences, après avis d'une commission consultative des agréments, dans laquelle les organisations représentatives des employeurs et des travailleurs sont également représentées. [<sup>8</sup> Le Gouvernement flamand]<sup>8</sup> détermine la procédure d'agrément à suivre, ainsi que la composition et les modalités de fonctionnement de la commission consultative des agréments.) &lt;L 2003-12-22/42, art. 71, 002; En vigueur : 01-01-2004&gt;
+
+(Par dérogation aux alinéas précédents, l'agrément peut être retiré d'office dans les conditions et les modalités établies par le [<sup>8</sup> Gouvernement flamand]<sup>8</sup>) &lt;L 2008-06-08/30, art. 74, 4°, 005; En vigueur : 26-06-2008&gt;
+
+[<sup>5</sup> § 3. La commission consultative, visées au paragraphe 2, est informée par la [<sup>7</sup> division de l'Inspection sociale flamande]<sup>7</sup> du [<sup>10</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>10</sup> des contraventions qui peuvent donner lieu au refus ou retrait d'un agrément.]<sup>5</sup>
+
+----------
+
+(1)&lt;L 2008-12-22/33, art. 190 et 191, 007; En vigueur : 01-09-2009; voir également l'art. 196&gt;
+
+(2)&lt;L 2009-12-30/02, art. 23, 009; En vigueur : 10-01-2010&gt;
+
+(3)&lt;L 2011-07-04/03, art. 10, 010; En vigueur : 19-07-2011 ; voir également l'art. 13&gt;
+
+(4)&lt;L 2012-06-22/02, art. 6, 013; En vigueur : 24-12-2012&gt;
+
+(5)&lt;DCFL 2016-12-23/67, art. 40, 004; En vigueur : 01-01-2017&gt;
+
+(6)&lt;DCFL 2017-07-07/19, art. 4, 005; En vigueur : 11-08-2017&gt;
+
+(7)&lt;DCFL 2019-03-29/28, art. 4, 006; En vigueur : 01-04-2019&gt;
+
+(8)&lt;DCFL 2024-04-19/46, art. 2, 009; En vigueur : 01-08-2024&gt;
+
+(9)&lt;DCFL 2022-10-14/02, art. 1, 010; En vigueur : 30-12-2022&gt;
+
+(10)&lt;DCFL 2026-06-26/19, art. 3, 012; En vigueur : 07-08-2026&gt;
+
+#### Art. 2bis
+
+[<sup>1</sup> § 1er. L'entreprise verse un cautionnement de vingt-cinq mille euros [<sup>3</sup> au [<sup>4</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>4</sup>]<sup>3</sup>.
+
+[<sup>3</sup> Le Gouvernement flamand détermine]<sup>3</sup> les conditions et les modalités concernant le versement et la destination du cautionnement [<sup>2</sup> , la durée pour laquelle le cautionnement doit être octroyé et les modalités en cas de remboursement]<sup>2</sup> ainsi que ce qui se passe avec ce cautionnement en cas de faillite.
+
+§ 2. S'il y est constaté que l'entreprise ne remplit plus les conditions d'agrément visées à l'article 2, § 2, alinéas 1er et 2, une partie de l'intervention [<sup>3</sup> de l'Autorité flamande]<sup>3</sup> dans le coût des titres-services qui sont transmis à la société émettrice aux fins de remboursement sera retenue.
+
+Par dérogation à l'alinéa précédent, la valeur nominale du titre-service et le montant complet de l'intervention [<sup>3</sup> de l'Autorité flamande]<sup>3</sup> dans le coût des titres-services qui sont transmis à la société émettrice aux fins de remboursement seront retenus si [<sup>3</sup> le [<sup>4</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>4</sup>]<sup>3</sup> juge qu'il s'agit d'une infraction grave.
+
+Les montants retenus, visés aux alinéas précédents, sont virés sur un compte [<sup>3</sup> du [<sup>4</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>4</sup>]<sup>3</sup>.
+
+[<sup>3</sup> Le Gouvernement flamand détermine]<sup>3</sup> :
+
+1° le montant de l'intervention [<sup>3</sup> de l'Autorité flamande]<sup>3</sup> dans le coût du titre-service qui est retenu conformément à l'alinéa 1er;
+
+2° les conditions et les modalités concernant la retenue, le versement et la destination des montants visés aux alinéas 1er et 2, ainsi que ce qui se passe avec ces montants en cas de faillite;
+
+3° ce qui est entendu par infraction grave.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-06-22/02, art. 7, 013; En vigueur : 24-12-2012, à l'exeption de l'article 2bis, § 2, qui entre en vigueur le 01-01-2013; voir aussi L 2012-06-22/02, art. 9, L2&gt;
+
+(2)&lt;DCFL 2017-07-07/19, art. 5, 005; En vigueur : 11-08-2017&gt;
+
+(3)&lt;DCFL 2024-04-19/46, art. 3, 009; En vigueur : 01-08-2024&gt;
+
+(4)&lt;DCFL 2026-06-26/19, art. 4, 012; En vigueur : 07-08-2026&gt;
+
+#### Art. 3
+
+[<sup>2</sup> Pour faire réaliser des prestations de travaux ou de services de proximité, l'utilisateur remet à une entreprise agréée un titre-service par heure de travail prestée.]<sup>2</sup>
+
+Pour faire effectuer les travaux ou services de proximité pour lesquels les titres-services sont utilisés, I'entreprise agréée recrute un travailleur [...], [...]. &lt;L 2003-12-22/42, art. 72, 002; En vigueur : 01-01-2004&gt; &lt;L 2004-07-09/30, art. 273, 003; En vigueur : 25-07-2004&gt;
+
+[<sup>1</sup> [<sup>2</sup> Le Gouvernement flamand peut fixer]<sup>2</sup> les conditions et modalités par rapport à l'obligation de l'engagement des chômeurs complets indemnisés, des bénéficiaires de l'allocation d'insertion et des bénéficiaires du revenu d'intégration.]<sup>1</sup>
+
+[Ce travailleur ne peut avoir un lien familial de sang ou par alliance jusqu'au deuxième degré inclus avec l'utilisateur ou un membre de la famille de l'utilisateur, ni avoir la même résidence que l'utilisateur.] &lt;L 2003-12-22/42, art. 73, 002; En vigueur : 01-01-2004&gt;
+
+[<sup>2</sup> Le [<sup>3</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>3</sup>]<sup>2</sup> paie, au nom et pour compte de l'utilisateur, à la société émettrice, une intervention d'un montant complémentaire par heure effectuée sur la base du nombre de titres-services validés par cette société.
+
+Les titres-services sont émis dans la limite des crédits inscrits annuellement au budget à cette fin.
+
+[<sup>2</sup> Le Gouvernement flamand détermine]<sup>2</sup> le mécanisme garantissant que le nombre global d'heures ne dépasse pas le montant fixé pour l'année budgétaire.
+
+La société émettrice verse à l'entreprise agréée la valeur du titre-service augmentée [du montant complémentaire visé à l'alinéa 4]. &lt;L 2003-12-22/42, art. 74, 002; En vigueur : 01-01-2004&gt;
+
+----------
+
+(1)&lt;L 2011-12-28/01, art. 77, 012; En vigueur : 01-01-2012&gt;
+
+(2)&lt;DCFL 2024-04-19/46, art. 4, 009; En vigueur : 01-08-2024&gt;
+
+(3)&lt;DCFL 2026-06-26/19, art. 5, 012; En vigueur : 07-08-2026&gt;
+
+#### Art. 3bis
+
+[<sup>1</sup> La personne physique avec résidence principale en Région flamande peut être exclue du droit d'utiliser et de commander des titres-services pour une durée maximale d'un an, et peut être contrainte de rembourser l'intervention visée à l'article 3, cinquième alinéa, dans les cas suivants :
+
+1° cette personne a délibérément participé à une infraction aux dispositions de la présente loi et de ses arrêtés d'exécution, commise par l'entreprise ;
+
+2° cette personne a utilisé des titres-services pour des travaux de proximité dont elle savait ou aurait dû savoir qu'ils ne sont pas autorisés ;
+
+3° cette personne a utilisé des titres-services pour des prestations au profit d'une personne qui n'est pas un membre de sa famille ;
+
+4° cette personne a utilisé des titres-services sans que des prestations effectives aient été fournies ;
+
+5° cette personne a commis un acte de violence, de harcèlement ou de harcèlement sexuel au travail, mentionnés à l'article 32ter de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, à l'encontre de l'employé qui effectue les services de proximité.
+
+En cas de récidive, la période d'exclusion visée à l'alinéa premier s'élève à cinq ans maximum.
+
+L'exclusion et sa durée sont proportionnées à la gravité de l'infraction. La décision d'exclusion mentionne les éléments pertinents. Au moins les éléments suivants sont pris en considération :
+
+1° la nature de l'infraction ;
+
+2° l'intention dans le chef de l'utilisateur ;
+
+3° l'ampleur de l'infraction ;
+
+4° la durée de l'infraction.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-12-10/15, art. 1, 008; En vigueur : 06-02-2022&gt;
+
+#### Art. 3ter.
+
+[<sup>1</sup> La personne physique ayant sa résidence principale en Région flamande peut être exclue du droit de commander et d'utiliser des titres-services pour une période d'un an au maximum et peut être contrainte de rembourser l'intervention visée à l'article 3, alinéa 5, si elle a enfreint les mesures de sécurité pour faire face à une urgence civile en matière de santé publique, visées à l'article 4, § 1er, alinéa 1er, 1°, du décret du 20 mars 2020 contenant des mesures en cas d'urgence civile en matière de santé publique. Le Gouvernement flamand détermine quelles sont ces mesures de sécurité.
+
+En cas de récidive, la période d'exclusion, visée à l'alinéa 1er, est de cinq ans au maximum.
+
+L'exclusion et sa durée sont proportionnées à la gravité de l'infraction. La décision d'exclusion mentionne les éléments pertinents. Au moins les éléments suivants sont pris en considération :
+
+1° la nature de l'infraction ;
+
+2° l'intention dans le chef de l'utilisateur ;
+
+3° l'ampleur de l'infraction ;
+
+4° la durée de l'infraction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-06-18/10, art. 2, 007; En vigueur : 19-07-2021&gt;
+
+#### Art. 4
+
+[<sup>3</sup> Le Gouvernement flamand fixe]<sup>3</sup> :
+
+1° la forme du titre-service, ses modalités d'acquisition et d'utilisation;
+
+2° [<sup>2</sup> la valeur nominale du titre qui peut varier en fonction de la nature des travaux ou services de proximité et en fonction de l'utilisation, ainsi que les conditions et modalités des versements;]<sup>2</sup>
+
+[<sup>2</sup> 2bis° le montant complémentaire qui peut varier pour inciter les entreprises agréées à favoriser la stabilité et la qualité de l'emploi des travailleurs titres-services et en fonction de la nature des travaux ou services de proximité et en fonction de l'utilisation, ainsi que les conditions et modalités des versements.]<sup>2</sup>
+
+[<sup>1</sup> 3° les conditions et modalités pour augmenter l'accessibilité des titres-services pour les plus bas revenus via le développement d'un système de titres-services sociaux. [<sup>3</sup> ...]<sup>3</sup>]<sup>1</sup>
+
+[<sup>3</sup> Le Gouvernement flamand détermine également les modalités de financement des titres-services.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2009-06-17/01, art. 57, 006; En vigueur : 06-07-2009&gt;
+
+(2)&lt;L 2012-06-22/02, art. 8, 013; En vigueur : 24-12-2012&gt;
+
+(3)&lt;DCFL 2024-04-19/46, art. 5, 009; En vigueur : 01-08-2024&gt;
+
+#### Art. 4bis
+
+[<sup>1</sup> [<sup>2</sup> Le Gouvernement flamand]<sup>2</sup> détermine les modalités qui garantissent le suivi de la situation financière du secteur et des entreprises agréées. Il détermine également les conditions à remplir par les entreprises agréées pour permettre ce suivi, et les données éventuelles que les entreprises agréées doivent communiquer à cette fin au [<sup>2</sup> [<sup>3</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>3</sup>]<sup>2</sup>]<sup>1</sup>.
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/02, art. 24, 009; En vigueur : 10-01-2010&gt;
+
+(2)&lt;DCFL 2024-04-19/46, art. 6, 009; En vigueur : 01-08-2024&gt;
+
+(3)&lt;DCFL 2026-06-26/19, art. 6, 012; En vigueur : 07-08-2026&gt;
+
+#### Art. 4ter
+
+[<sup>1</sup> [<sup>2</sup> Le Gouvernement flamand]<sup>2</sup> peut fixer une " charte de qualité " pour les entreprises titres-services ainsi que les dispositions obligatoires devant y figurer.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/02, art. 25, 009; En vigueur : 10-01-2010&gt;
+
+(2)&lt;DCFL 2024-04-19/46, art. 7, 009; En vigueur : 01-08-2024&gt;
+
+#### Art. 5
+
+L'article 66, § 1, de la loi du 2 janvier 2001 portant des dispositions sociales, budgétaires et diverses, est complété par l'alinéa suivant :
+
+" Après avis du Comité de gestion de la sécurité sociale, le Roi peut majorer du coût des titres-services le montant du financement alternatif. "
+
+#### Art. 6
+
+[<sup>1</sup> § 1er. L'entreprise agréée et l'utilisateur concluent une convention pour la réalisation de travaux ou de services de proximité.
+
+La convention visée à l'alinéa 1er, qui lie l'utilisateur à l'entreprise agréée, est résiliée de plein droit dans les cas suivants :
+
+1° lorsque l'entreprise perd son agrément ;
+
+2° lorsque les titres-services cessent d'être émis et que l'utilisateur n'en possède plus.
+
+§ 2. Dans le présent paragraphe, on entend par frais supplémentaires : les frais facturés par l'entreprise agréée à l'utilisateur des titres-services, en plus du titre-service par heure de travail prestée.
+
+La convention visée au paragraphe 1er est confirmée par écrit si des frais supplémentaires sont facturés à l'utilisateur.
+
+La convention écrite comprend l'ensemble des éléments suivants :
+
+1° la mention que des frais supplémentaires sont facturés à l'utilisateur ;
+
+2° la fréquence à laquelle les frais supplémentaires sont facturés ;
+
+3° le montant et la méthode de calcul des frais supplémentaires.
+
+Le Gouvernement flamand peut compléter la liste des éléments à inclure dans la convention écrite, visés à l'alinéa 3, et arrêter le modèle de la convention écrite, visée à l'alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-19/46, art. 8, 009; En vigueur : 01-08-2024&gt;
+
+#### Art. 7
+
+[<sup>5</sup> Le [<sup>6</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>6</sup>]<sup>5</sup> est subrogé de plein droit à l'utilisateur à concurrence du montant (complémentaire) versé à la société émettrice. &lt;L 2003-12-22/42, art. 75, 002; En vigueur : 01-01-2004&gt;
+
+[<sup>5</sup> Le Gouvernement flamand]<sup>5</sup> désigne les administrations chargées de l'exécution [<sup>3</sup> ...]<sup>3</sup> de la présente loi et de ses arrêtés d'exécution. [<sup>2</sup> [<sup>5</sup> Le Gouvernement flamand]<sup>5</sup> fixe également les conditions et modalités de restitution de l'intervention de [<sup>5</sup> l'Autorité flamande]<sup>5</sup> dans le coût du titre-service indûment accordée et du montant du prix d'acquisition du titre-service indûment accordé.]<sup>2</sup>.
+
+[<sup>4</sup> ...]<sup>4</sup>.
+
+[<sup>4</sup> ...]<sup>4</sup>.
+
+----------
+
+(2)&lt;L 2011-07-04/03, art. 12, 010; En vigueur : 19-07-2011 ; voir également l'art. 13&gt;
+
+(3)&lt;L 2012-06-22/02, art. 17, 013; En vigueur : 24-12-2012 (AR 2012-12-14/07, art. 6, 1°)&gt;
+
+(4)&lt;DCFL 2015-04-24/05, art. 7, 002; En vigueur : 01-05-2015&gt;
+
+(5)&lt;DCFL 2024-04-19/46, art. 9, 009; En vigueur : 01-08-2024&gt;
+
+(6)&lt;DCFL 2026-06-26/19, art. 7, 012; En vigueur : 07-08-2026&gt;
+
+### Section 2. Le contrat de travail titres-services. &lt;Insérée par L 2003-12-22/42, art. 77; En vigueur : 01-01-2004&gt;
+
+#### Art. 7bis
+
+&lt;Inséré par L 2003-12-22/42, art. 77; En vigueur : 01-01-2004&gt; Pour l'application de la présente Section, il faut entendre par contrat de travail titres-services : le contrat de travail par lequel un travailleur s'engage à effectuer, sous l'autorité d'un employeur agréé dans le cadre du présent chapitre et contre rémunération, des prestations de travail qui donnent droit à l'octroi d'un titre-service.
+
+#### Art. 7ter
+
+&lt;Inséré par L 2003-12-22/42, art. 77; En vigueur : 01-01-2004&gt; Le contrat de travail titres-services est régi par les dispositions de la loi du 3 juillet 1978 relative aux contrats de travail sauf pour ce qui concerne les règles spécifiques prévues dans la présente loi.
+
+#### Art. 7quater
+
+&lt;Inséré par L 2003-12-22/42, art. 77; En vigueur : 01-01-2004&gt; L'intention de conclure un contrat de travail titres-services doit être constatée par écrit par les deux parties, pour chaque travailleur individuellement au plus tard au moment de la première prestation du travailleur dans le cadre des titres-services auprès de l'entreprise agréée.
+
+Le contrat de travail titres-services doit être constaté par écrit pour chaque travailleur individuellement au plus tard dans les deux jours ouvrables à compter du moment de l'entrée en service du travailleur.
+
+#### Art. 7quinquies
+
+&lt;Inséré par L 2003-12-22/42, art. 77; En vigueur : 01-01-2004&gt; Le contrat de travail titres-services comporte au moins les mentions spécifiques suivantes :
+
+1° l'identité des parties;
+
+2° le numéro d'agrément de l'employeur attribué dans le cadre du présent chapitre;
+
+3° la date du début d'exécution du contrat;
+
+4° la date de fin du contrat s'il est conclu pour une durée déterminée;
+
+5° la durée et l'horaire de travail; si le contrat est conclu pour une durée indéterminée, il détermine comment et dans quel délai le travailleur est informé de son horaire de travail; à défaut de disposition prévue dans le contrat conclu pour une durée indéterminée, les horaires doivent être portés à la connaissance du travailleur au moins sept jours à l'avance.
+
+#### Art. 7sexies
+
+&lt;Abrogé par L 2008-12-22/33, art. 192, 007; En vigueur : 01-09-2009&gt;
+
+#### Art. 7septies
+
+[<sup>1</sup> La conclusion de contrats de travail à durée déterminée successifs n'entraîne pas la conclusion d'un contrat de travail à durée indeterminée pendant une période de trois mois à dater du jour de la première déclaration préalable à l'emploi pour un contrat de travail titres-services conclu chez le même employeur.
+
+Pendant la période de trois mois telle que visée à l'alinéa 1er, il peut être dérogé a l'obligation de conclure un contrat de travail à temps partiel au moins pour un tiers de la durée hebdomadaire de travail applicable à un travailleur à temps plein prévue à l'article 11bis de la loi du 3 juillet 1978 relative aux contrats de travail. Durant cette même période de trois mois, il ne peut jamais être dérogé à la limite minimale de chaque période de travail fixée à l'article 21 de la loi du 16 mars 1971 sur le travail.
+
+Si, à l'expiration de la période de trois mois précitée, des prestations sont effectuées au profit du même employeur dans les liens d'un contrat de travail titres-services, les parties sont liées par un contrat de travail à durée indéterminée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2008-12-22/33, art. 193, 007; En vigueur : 01-09-2009; voir également l'art. 197&gt;
+
+#### Art. 7octies
+
+[<sup>1</sup> Dès le premier jour travaillé du quatrième mois à dater du jour de la première déclaration préalable à l'emploi chez le même employeur, les parties déterminent le régime de travail applicable au contrat conclu à durée indéterminée. Ce contrat peut être conclu à temps plein ou à temps partiel conformément à l'article 11bis de la loi du 3 juillet 1978 relative aux contrats de travail. Il ne peut jamais être dérogé à la limite minimale de chaque période de travail fixée à l'article 21 de la loi du 16 mars 1971 sur le travail.
+
+Il peut être dérogé à l'obligation de conclure un contrat de travail à temps partiel au moins pour un tiers de la durée hebdomadaire de travail applicable à un travailleur à temps plein prévue à l'article 11bis de la loi du 3 juillet 1978 relative aux contrats de travail. La durée minimale hebdomadaire de travail ne peut être inférieure à la limite fixée par le Roi.
+
+Toutefois, pour les travailleurs occupes avec un contrat de travail titres-services qui, pendant leur occupation ont droit à une allocation de chomage, au revenu d'intégration ou à l'aide sociale financière, la durée ne peut en aucun cas être inférieure à un tiers de la durée hebdomadaire de travail applicable à un travailleur occupé à temps plein prévue à l'article 11bis de la loi du 3 juillet 1978 relative aux contrats de travail. Le Roi détermine la durée hebdomadaire minimale de travail des contrats de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2008-12-22/33, art. 194, 007; En vigueur : 01-09-2009; voir également l'art. 197&gt;
+
+#### Art. 7nonies
+
+&lt;Inséré par L 2003-12-22/42, art. 77; En vigueur : 01-01-2004&gt; Le Roi détermine les modalités particulières de la réglementation sur la sécurité, la santé et le bien-être applicables à l'exécution d'un contrat de travail titres-services.
+
+#### Art. 7decies
+
+&lt;Inséré par L 2003-12-22/42, art. 77; En vigueur : 01-01-2004&gt; Pour les travailleurs et les employeurs qui ressortissent à la sous-commission paritaire autonome instituée en vertu de l'article 27, alinéa 4, de la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à disposition d'utilisateurs, les conditions de travail et de rémunération sont déterminées par le Roi, sur base des dispositions applicables aux travailleurs ressortissant à la commission paritaire pour les aides familiales et les aides seniors.
+
+Il peut faire application d'une autre référence sur avis du Conseil national du travail.
+
+Ces conditions de travail et de rémunération déterminées par le Roi cesseront de s'appliquer dès l'entrée en vigueur de dispositions réglementaires ou conventionnelles spécifiques aux travailleurs et aux employeurs ressortissant à la sous-commission paritaire autonome instituée en vertu de l'article 27, alinéa 4, de la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et mise de travailleurs à disposition d'utilisateurs.
+
+#### Art. 8
+
+L'intitulé de la sous-section 2quater du titre II, chapitre III, section première du Code des impôts sur les revenus 1992 est complété comme suit : " et pour des prestations payées avec des titres-services. ".
+
+#### Art. 9
+
+A l'article 14521 du même Code, remplacé par la loi du 21 décembre 1994 et modifié par la loi du 7 avril 1999, sont apportées les modifications suivantes :
+
+1°) l'alinéa 1 est complété comme suit " ou sur les dépenses qui sont effectivement payées pendant la période imposable pour des prestations payées avec des titres-services. ";
+
+2°) l'alinéa 2 est complété comme suit : " ou de la valeur nominale des titres-services visés dans la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité. "
+
+### Section 3. - le fonds de formation titres-services &lt;Insérée par L 2006-12-27/30, art. 258; En vigueur : 07-01-2007&gt;
+
+#### Art. 9bis
+
+&lt;Inséré par L 2006-12-27/30, art. 258; En vigueur : 07-01-2007&gt; § 1er. L'entreprise agréée peut obtenir, auprès du [<sup>2</sup> [<sup>3</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>3</sup>]<sup>2</sup>, le remboursement partiel des frais de formation des travailleurs occupés sous contrat de travail titres-services.
+
+[<sup>2</sup> Le Gouvernement flamand arrête les critères, les conditions et les modalités relatives à la demande et à l'octroi de ce remboursement partiel.]<sup>2</sup>
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2015-12-26/04, art. 32, 003; En vigueur : 01-01-2015&gt;
+
+(2)&lt;DCFL 2024-04-19/46, art. 10, 009; En vigueur : 01-08-2024&gt;
+
+(3)&lt;DCFL 2026-06-26/19, art. 8, 012; En vigueur : 07-08-2026&gt;
+
+## Chapitre III. [<sup>1</sup> - Traitement des données à caractère personnel]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-19/46, art. 11, 009; En vigueur : 01-08-2024&gt;
+
+#### Art. 10
+
+[<sup>1</sup> Le service compétent désigné par le Gouvernement flamand agit en tant que responsable du traitement, visé à l'article 4, 7), du règlement général sur la protection des données, pour le traitement des données à caractère personnel énumérées à l'article 10/1 de la présente loi.
+
+La société émettrice visée à l'article 2, § 1er, 2°, de la présente loi agit en tant que sous-traitant, visé à l'article 4, 8), du règlement général sur la protection des données, pour le traitement des données à caractère personnel énumérées à l'article 10/1 de la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-19/46, art. 12, 009; En vigueur : 01-08-2024&gt;
+
+#### Art. 10/1.
+
+[<sup>1</sup> Les catégories suivantes de données à caractère personnel sont traitées aux fins de la présente loi :
+
+1° les données d'identification, y compris le numéro NISS, l'âge et le sexe, de l'employé ;
+
+2° les données d'emploi et sociodémographiques de l'employé ;
+
+3° les données d'identification et de contact, y compris le numéro NISS, l'âge et le sexe, de l'utilisateur ;
+
+4° les données financières et fiscales de l'utilisateur ;
+
+5° les données d'emploi et sociodémographiques de l'utilisateur ;
+
+6° la pièce démontrant que l'utilisateur est handicapé ou a un enfant handicapé à charge ;
+
+7° les données d'identification et de contact de l'entreprise agréée ;
+
+8° les données d'identification et de contact, y compris le numéro NISS, des administrateurs, gérants, personnes représentant l'entreprise et autres personnes de contact des entreprises agréées ;
+
+9° les données financières de l'entreprise agréée ;
+
+10° les données d'identification et de contact du formateur externe.
+
+Le traitement des données visées à l'alinéa 1er, 6°, est justifié sur la base de l'article 9, paragraphe 2, b) du règlement général sur la protection des données.
+
+Dans le cadre des rapports, les caractéristiques personnelles mentionnées ci-dessus sont traitées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/46, art. 13, 009; En vigueur : 01-08-2024&gt;
+
+#### Art. 10/2.
+
+[<sup>1</sup> Dans le cadre des tâches prévues par la présente loi, le responsable du traitement visé à l'article 10, alinéa 1er, échange les données à caractère personnel suivantes avec les instances suivantes :
+
+1° les données d'identification et de contact, y compris le numéro NISS, de l'utilisateur, avec le Registre national des personnes physiques ;
+
+2° l'adresse d'établissement et le numéro de la Banque-Carrefour des Entreprises de l'entreprise, avec la Banque-Carrefour des Entreprises ;
+
+3° les données d'identification, y compris le numéro NISS, les données d'emploi et les données sociodémographiques de l'utilisateur et de l'employé, avec la Banque-Carrefour de la sécurité sociale ;
+
+4° les données d'identification et de contact de l'entreprise agréée, avec la société émettrice ;
+
+5° les données d'identification et de contact, y compris le numéro NISS, ainsi que le statut de l'utilisateur, avec la société émettrice ;
+
+6° les données d'identification, y compris le numéro NISS, et le statut social de l'utilisateur, avec les institutions de sécurité sociale et la VAPH ;
+
+7° les données d'identification, y compris le numéro NISS, et les données d'emploi des employés, avec l'Office belge de Statistique Statbel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/46, art. 14, 009; En vigueur : 01-08-2024&gt;
+
+#### Art. 10/3.
+
+[<sup>1</sup> Sans préjudice de l'application de leur conservation nécessaire en vue du traitement ultérieur, à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques, visées à l'article 89 du règlement général sur la protection des données, les données à caractère personnel sont conservées pendant la durée nécessaire aux fins du présent décret avec un délai maximal de conservation ne pouvant dépasser dix ans après la prescription de toutes les actions relevant de la compétence du responsable du traitement, visé à l'article 10, alinéa 1er de la présente loi et, le cas échéant, la cessation définitive des procédures et recours judiciaires, administratifs et extrajudiciaires, découlant du traitement des données à caractère personnel précitées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/46, art. 15, 009; En vigueur : 01-08-2024&gt;
+
+## Chapitre IV. - Autres services et emplois de proximité. &lt;Insére» par L 2003-12-22/42, art. 80; En vigueur : 01-01-2004&gt;
+
+#### Art. 10bis
+
+&lt;Inséré par L 2003-12-22/42, art. 80; En vigueur : 01-01-2004&gt; Le traitement fiscal lié aux titres-services visés au Chapitre II, ne peut être accordé aux autres activités que l'aide à domicile de nature ménagère que si les conditions suivantes sont remplies de façon cumulative :
+
+1° il s'agit d'activités, marchandes ou non marchandes, créatrices d'emploi, qui visent à rencontrer des besoins individuels, personnels ou familiaux dans le cadre de la vie quotidienne et qui sont sélectionnées par la région ou la communauté compétente en tant qu'activités qui peuvent être rémunérées par un titre-service;
+
+2° les utilisateurs sont des personnes physiques;
+
+3° les activités sont accomplies par une entreprise agréée à cette fin par la région ou la communauté compétente;
+
+4° la région ou la communauté compétente doit inscrire dans ces conditions d'agrément que l'entreprise agréée offre vis-à-vis de ses travailleurs, en ce qui concerne le type de contrat et le régime de travail, au moins les mêmes garanties que celles fixées par le Roi en application du Chapitre II, Section 2, et que l'agrément peut être retiré si ces garanties ne sont pas respectées;
+
+5° la qualité et la sécurité de ces services sont garanties à l'utilisateur;
+
+6° la région ou la communauté compétente a conclu un accord bilatéral de coopération avec l'autorité fédérale concernant cette matière.
+
+## Chapitre IV/1. [<sup>1</sup> - Dispositions pénales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-06-17/01, art. 59, 006; En vigueur : 06-07-2009&gt;
+
+#### Art. 10ter
+
+[<sup>1</sup> La surveillance et le contrôle des dispositions de la présente loi, à l'exception des dispositions de la section 2 du chapitre II et de ses arrêtés d'exécution s'effectuent conformément aux dispositions du décret relatif au contrôle des lois sociales du 30 avril 2004.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2016-12-23/67, art. 41, 004; En vigueur : 01-01-2017&gt;
+
+#### Art. 10quater
+
+&lt;Abrogé par DCFL 2024-04-19/46, art. 16, 009; En vigueur : 01-08-2024&gt;
+
+#### Art. 10quinquies
+
+[<sup>1</sup> Sans préjudice de l'application des articles 269 à 274 inclus du Code pénal, sont punis [<sup>4</sup> ...]<sup>4</sup> d'une amende pénale de [<sup>4</sup> 100 à 1000 euros]<sup>4</sup> [<sup>4</sup> ...]<sup>4</sup> :
+
+1° l'employeur, ses mandataires ou préposés qui acceptent des titres-services de l'utilisateur si les travaux ou services de proximité ne sont pas encore exécutés ;
+
+2° l'employeur, ses mandataires ou préposés qui font exécuter des travaux ou services de proximité par un travailleur qui n'a pas été recruté pour l'exécution de ces travaux ou services de proximité ;
+
+3° l'employeur, ses mandataires ou préposés qui n'organisent l'enregistrement des activités titres-services pas de manière à ce qu'il soit possible de vérifier exactement quel est le lien entre les prestations mensuelles de chaque travailleur titres-services individuel, l'utilisateur et les titres-services correspondants ;
+
+4° [<sup>4</sup> ...]<sup>4</sup>
+
+5° [<sup>4</sup> ...]<sup>4</sup>
+
+6° [<sup>4</sup> ...]<sup>4</sup>
+
+7° l'employeur, ses mandataires ou préposés qui font payer par des titres-services un autre volume de travail que le volume de travail supplémentaire d'activités d'aide à domicile de nature ménagère à partir de leur agrément ;
+
+8° [<sup>4</sup> l'utilisateur ou le travailleur qui a participé aux infractions visées aux points 1° à 7° et à l'article 10sexies, § 1er, 1° à 5°, et § 2, 1° à 6° ;]<sup>4</sup>]<sup>1</sup>
+
+[<sup>2</sup> 9° l'employeur, ses mandataires ou préposés qui ne traitent pas le travailleur ou client de manière respectueuse et non-discriminatoire, telle que visée à l'article 2, § 2, alinéa premier, i et j;]<sup>2</sup>
+
+[<sup>4</sup> 10° l'employeur, ses mandataires ou les préposés qui représentent l'utilisateur pour l'application de l'article 3, § 2, alinéa 1er, et de l'article 6 de l'arrêté royal du 12 décembre 2001 concernant les titres-services, ou qui représentent le travailleur pour signer les titres-services ;
+
+11° les personnes qui utilisent les titres-services à d'autres fins que celles pour lesquelles elles les ont obtenus ;
+
+12° les personnes qui ont obtenu, conservent ou utilisent des titres-services sur la base de déclarations inexactes ou incomplètes ou en omettant de faire les déclarations nécessaires ou de fournir des renseignements;]<sup>4</sup>
+
+[<sup>3</sup> 13° l'employeur, ses mandataires ou ses préposés qui n'enregistrent pas les prestations dans le système de gestion de la société émettrice dans les trente jours suivant la date de prestation.]<sup>3</sup>
+
+[<sup>4</sup> L'amende infligée en application de l'alinéa 1er, 1°, est multipliée par le nombre d'utilisateurs dont les titres-services ont été acceptés alors que les travaux et services de proximité n'ont pas encore été effectués. L'amende multipliée ne peut toutefois pas excéder le centuple de l'amende maximale.
+
+L'amende infligée en application de l'alinéa 1er, 2°, est multipliée par le nombre de travailleurs qui effectuent des travaux ou services de proximité et qui n'ont pas encore été engagés pour effectuer ces travaux ou services de proximité. L'amende multipliée ne peut toutefois pas excéder le centuple de l'amende maximale.
+
+L'amende infligée en application de l'alinéa 1er, 10°, est multipliée par le nombre d'utilisateurs et de travailleurs qui sont représentés par l'employeur, ses mandataires ou préposés. L'amende multipliée ne peut toutefois pas excéder le centuple de l'amende maximale.]<sup>4</sup>
+
+[<sup>3</sup> L'amende imposée en vertu de l'alinéa 1er, 13°, est multipliée par le nombre d'utilisateurs dont les prestations n'ont pas été enregistrées dans le système de gestion de la société émettrice dans les trente jours suivant la date de la prestation. L'amende multipliée ne peut toutefois être supérieure au centuple de l'amende maximale.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2015-04-24/05, art. 10, 002; En vigueur : 01-05-2015&gt;
+
+(2)&lt;DCFL 2016-12-23/67, art. 43, 004; En vigueur : 01-01-2017&gt;
+
+(3)&lt;DCFL 2024-04-19/46, art. 17, 009; En vigueur : 01-08-2024&gt;
+
+(4)&lt;DCFL 2023-10-27/21, art. 16, 011; En vigueur : 01-01-2024&gt;
+
+#### Art. 10quinquies/1.
+
+[<sup>1</sup> Sans préjudice de l'application des articles 269 à 274 du Code pénal, sont punis d'un emprisonnement de six mois à trois ans et d'une amende pénale de 300 à 3000 euros, ou de l'une de ces peines seulement :
+
+1° l'employeur, ses mandataires ou préposés qui fournissent des travaux ou services de proximité sans disposer d'un agrément régulier préalable ou qui ne satisfont plus aux conditions d'agrément ;
+
+2° l'employeur, ses mandataires ou préposés qui effectuent une activité autre que celles pour lesquelles un agrément a été accordé en vertu de la présente loi et qui ne disposent pas d'une division sui generis s'occupant spécifiquement de l'emploi dans le cadre du régime des titres-services, telle que visée à l'article 2, § 2, alinéa 1er, a, de la présente loi ;
+
+3° l'employeur, ses mandataires ou préposés qui sous-traitent des travaux ou services financés par des titres-services à une autre entreprise ou à un autre organisme ;
+
+4° l'employeur, ses mandataires ou préposés qui effectuent, dans le cadre des travaux ou services de proximité, des activités non autorisées dans la décision d'agrément ;
+
+5° l'employeur, ses mandataires ou préposés qui acceptent des titres-services pour payer des activités qui ne sont pas des travaux ou services de proximité ;
+
+6° l'employeur, ses mandataires ou préposés qui acceptent et transmettent à la société émettrice, en vue du remboursement, plus de titres-services pour des prestations de travaux ou services de proximité effectuées durant un trimestre donné que le nombre d'heures de travail, déclaré auprès de l'ONSS pour des prestations de travaux ou services de proximité effectuées, qui a été presté pendant ce même trimestre par des travailleurs sous contrat de travail titres-services.
+
+L'amende infligée en application de l'alinéa 1er, 1° et 3°, est multipliée par le nombre d'utilisateurs pour lesquels et le nombre de travailleurs par lesquels des activités nommées dans l'infraction ont été exécutées. L'amende multipliée ne peut toutefois pas excéder le centuple de l'amende maximale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-10-27/21, art. 17, 011; En vigueur : 01-01-2024&gt;
+
+#### Art. 10sexies
+
+[<sup>1</sup> § 1er. Sans préjudice de l'application des articles 269 à 274 inclus du Code pénal, l'employeur, ses mandataires ou préposés sont punis d'un emprisonnement de six mois à trois ans et d'une amende pénale de 600 à 6000 euros, ou de l'une de ces peines seulement, s'ils:
+
+1° exécutent [<sup>2</sup> sciemment et volontairement]<sup>2</sup>, dans le cadre des travaux ou services de proximité, des activités qui ne sont pas autorisées dans la décision d'agrément ;
+
+2° [<sup>2</sup> acceptent sciemment et volontairement des titres-services en]<sup>2</sup> paiement d'activités qui ne sont pas de travaux ou services de proximité ;
+
+3° [<sup>2</sup> acceptent et transmettent à la société émettrice en vue du remboursement, sciemment et volontairement, plus de titres-services pour des prestations de travaux ou services de proximité effectuées durant un trimestre donné que le nombre d'heures de travail, déclaré auprès de l'ONSS pour des prestations de travaux ou services de proximité effectuées, qui a été presté pendant ce même trimestre par des travailleurs sous contrat de travail titres-services;]<sup>2</sup>
+
+[<sup>2</sup> 4° ont commis, sciemment et volontairement, l'infraction visée à l'article 10quinquies, alinéa 1er, 10°, de la présente loi ;
+
+5° organisent l'enregistrement des activités de titres-services de telle manière qu'il est impossible aux services d'inspection de vérifier exactement la relation entre les prestations mensuelles de chaque travailleur titres-services individuel, l'utilisateur et les titres-services correspondants.]<sup>2</sup>
+
+[<sup>2</sup> L'amende infligée en application de l'alinéa 1er, 4°, est multipliée par le nombre d'utilisateurs et de travailleurs qui sont représentés par l'employeur, ses mandataires ou préposés. L'amende multipliée ne peut toutefois pas excéder le centuple de l'amende maximale.]<sup>2</sup>
+
+§ 2. Sans préjudice de l'application des articles 269 à 274 inclus du Code pénal, sont punis d'un emprisonnement de six mois à trois ans et d'une amende pénale de 600 à 6000 euros, ou de l'une de ces peines seulement :
+
+1° les personnes [<sup>2</sup> qui, sciemment et volontairement, ont]<sup>2</sup> fait des déclarations inexactes ou incomplètes [<sup>2</sup> afin d'obtenir ou de faire obtenir, d'utiliser, de conserver ou de faire conserver indûment des titres-services]<sup>2</sup> ;
+
+2° les personnes [<sup>2</sup> qui, sciemment et volontairement, ont]<sup>2</sup> négligé ou refusé de faire des déclarations nécessaires ou de fournir des renseignements qu'elles sont tenues de fournir, [<sup>2</sup> afin d'obtenir ou de faire obtenir, d'utiliser, de conserver ou de faire conserver indûment des titres-services]<sup>2</sup> ;
+
+3° les personnes [<sup>2</sup> qui, sciemment et volontairement, ont obtenu, conservent ou utilisent]<sup>2</sup> des titres-services auxquels elles n'ont pas droit ou auxquels elles n'ont droit qu'en partie, sur la base de déclarations inexactes ou incomplètes, ou en négligeant de faire des déclarations nécessaires ou de fournir des renseignements ;
+
+4° les personnes [<sup>2</sup> qui, afin d'obtenir ou de faire obtenir, d'utiliser, de conserver ou de faire conserver indûment des titres-services]<sup>2</sup> :
+
+a) ont fait des faux en écriture, soit par de signatures fausses, soit par contrefaction ou falsification d'écrits ou de signatures, soit en établissant faussement des conventions, des dispositions, des engagements ou des libérations de dette ou en les intégrant dans un acte, soit par l'ajout ou la falsification de clauses, déclarations ou faits qui doivent être repris ou constatés dans un acte ;
+
+b) se sont servies d'un faux acte ou d'un document faux, tout en sachant que l'acte ou le document utilisé sont faux ;
+
+5° les personnes [<sup>2</sup> qui, afin d'obtenir ou de faire obtenir, d'utiliser, de conserver ou de faire conserver indûment des titres-services]<sup>2</sup> :
+
+a) ont fraudé en introduisant des données dans un système informatique, qui sont stockées, traitées ou transmises dans un système informatique, en modifiant ou en effaçant des données ou en changeant l'affectation possible de données dans un système informatique par un autre moyen technologique, de sorte que la portée juridique de telles données change ;
+
+b) ont utilisé ces données, tout en sachant que les données ainsi obtenues sont fausses ;
+
+6° les personnes [<sup>2</sup> qui, afin d'obtenir ou de faire obtenir, d'utiliser, de conserver ou de faire conserver indûment des titres-services]<sup>2</sup>, ont fait usage de faux noms, de fausses qualités ou de fausses adresses ou qui ont fait des actes frauduleux afin de faire croire à l'existence d'une personne fictive, une entreprise fictive ou un autre événement fictif, ou afin de faire un usage abusif de la confiance d'une autre manière;]<sup>1</sup>
+
+[<sup>2</sup> 7° l'utilisateur ou le travailleur qui, sciemment et volontairement, a pris part aux infractions visées à l'article 10quinquies, 1° à 7°, et à l'article 10sexies, § 1er, 1° à 5°, et § 2, 1° à 6°.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2015-04-24/05, art. 11, 002; En vigueur : 01-05-2015&gt;
+
+(2)&lt;DCFL 2023-10-27/21, art. 18, 011; En vigueur : 01-01-2024&gt;
+
+#### Art. 10septies
+
+&lt;Abrogé par L 2012-06-22/02, art. 18, 013; En vigueur : 24-12-2012 (AR 2012-12-14/07, art. 6, 1°)&gt;
+
+#### Art. 10septies/1
+
+[<sup>1</sup> En cas de récidive dans les cinq ans, la sanction maximale visée aux articles 10quater à 10sexies inclus, peut être reportée au double du maximum.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2015-04-24/05, art. 12, 014; En vigueur : 01-05-2015&gt;
+
+#### Art. 10septies/2
+
+[<sup>1</sup> L'employeur est civilement responsable du paiement des amendes auxquelles ses mandataires ou préposés sont condamnés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2015-04-24/05, art. 13, 002; En vigueur : 01-05-2015&gt;
+
+#### Art. 10septies/3
+
+[<sup>1</sup> Des indemnités ou paiements indûment reçus sont recouvrés d'office.
+
+Le Gouvernement flamand peut arrêter des modalités relatives au recouvrement des indemnités ou paiements indûment reçus.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2015-04-24/05, art. 14, 002; En vigueur : 01-05-2015&gt;
+
+#### Art. 10septies/4
+
+[<sup>1</sup> Toutes les dispositions du livre 1er du Code pénal, à l'exception du chapitre V, sont applicables aux infractions visées dans la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-10-27/21, art. 19, 011; En vigueur : 01-01-2024&gt;
+
+#### Art. 10septies/5
+
+[<sup>1</sup> Une action en restitution née de l'application de la présente loi et de ses arrêtés d'exécution se prescrit par cinq ans après le fait dont l'action est née.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2015-04-24/05, art. 16, 002; En vigueur : 01-05-2015&gt;
+
+## Chapitre IV/2. [<sup>1</sup> Recours contre les décisions [<sup>2</sup> du [<sup>3</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>3</sup>]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-07-04/04, art. 4, 011; En vigueur : 19-07-2011&gt;
+
+(2)&lt;DCFL 2024-04-19/46, art. 18, 009; En vigueur : 01-08-2024&gt;
+
+(3)&lt;DCFL 2026-06-26/19, art. 9, 012; En vigueur : 07-08-2026&gt;
+
+#### Art. 10octies
+
+[<sup>1</sup> Les décisions prises par [<sup>2</sup> le [<sup>3</sup> Département de l'Emploi, de l'Economie, des Sciences, de l'Innovation et de l'Economie sociale]<sup>3</sup>]<sup>2</sup> en exécution de la présente loi et de ses arrêtés d'exécution sont susceptibles d'un recours devant le tribunal du travail compétent pour le ressort territorial où l'entreprise a son siège social.
+
+Ce recours doit, à peine de forclusion, être introduit par requête devant le tribunal du travail compétent dans un délai de trois mois à compter de la notification de la décision ou, à défaut de notification, dans un délai de trois mois à compter du jour où l'intéressé en a eu connaissance.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-07-04/04, art. 5, 011; En vigueur : 19-07-2011&gt;
+
+(2)&lt;DCFL 2024-04-19/46, art. 19, 009; En vigueur : 01-08-2024&gt;
+
+(3)&lt;DCFL 2026-06-26/19, art. 10, 012; En vigueur : 07-08-2026&gt;
+
+## Chapitre V. Entrée en vigueur. &lt;Insérée par L 2003-12-22/42, art. 81; En vigueur : 01-01-2004&gt;
+
+#### Art. 11
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 20 juillet 2001.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de l'Emploi,
+
+Mme L. ONKELINX
+
+Le Ministre du Budget,
+
+J. VANDE LANOTTTE
+
+Le Ministre des Affaires sociales,
+
+F. VANDENBROUCKE
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat,
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN

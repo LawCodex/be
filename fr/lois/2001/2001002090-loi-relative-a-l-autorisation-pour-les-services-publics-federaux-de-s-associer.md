@@ -1,0 +1,74 @@
+---
+title: "Loi relative à l'autorisation pour les services publics fédéraux de s'associer en vue de l'exécution de travaux relatifs à la gestion et à la sécurité de l'information"
+identifier: "2001002090"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/17/2001002090/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2001-07-17
+published: 2001-07-31
+entry_into_force: 2001-07-01
+last_amended: 2026-07-08
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/17/2001002090/justel"
+department: "Fonction publique"
+justel_note: "Consultation des versions antérieures à partir du 31-07-2001 et mise à jour au 08-07-2026"
+retrieved: 2026-10-11
+---
+
+# 17 JUILLET 2001. - Loi relative à l'autorisation pour les services publics fédéraux de s'associer en vue de l'exécution de travaux relatifs à la gestion et à la sécurité de l'information
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Les services publics fédéraux et les personnes morales fédérales de droit public peuvent s'associer entre eux en une ou plusieurs associations pour ce qui concerne leurs travaux en matière de gestion et de sécurité de l'information.
+
+Ces associations peuvent uniquement adopter la forme d'une association sans but lucratif conformément à la loi du 27 juin 1921 accordant la personnalité civile aux associations sans but lucratif et aux organismes d'intérêt public.
+
+Les membres de telles associations peuvent confier aux associations des travaux concernant la gestion et la sécurité de l'information. Le personnel spécialisé de telles associations peut être mis à la disposition de leurs membres et être occupé par ces derniers en leur sein.
+
+[<sup>2</sup> Les associations peuvent apporter leur soutien aux membres par des initiatives relatives à la formation du personnel de l'association ou du personnel des membres en vue de leur spécialisation, ainsi qu'à la formation continue du personnel des membres.]<sup>2</sup>
+
+Les membres qui se sont associés sont tenus de payer les frais de telles associations dans la mesure où ils font appel aux associations.
+
+[<sup>1</sup> Les membres peuvent, le cas échéant, contribuer au fonctionnement de l'association en lui offrant certains services dans leur domaine d'expertise ainsi que la jouissance de locaux et de matériel. Les modalités et l'étendue de cette prise en charge sont consignées dans un Protocole signé par le membre et l'association.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-28/01, art. 113, 002; En vigueur : 08-01-2024&gt;
+
+(2)&lt;L 2026-06-28/05, art. 5, 003; En vigueur : 18-07-2026&gt;
+
+## Art. 3
+
+Les associations visées à l'article 2 et les associations visées à l'article 17bis de la loi du 15 janvier 1990 relative à l'institution et à l'organisation d'une Banque-Carrefour de la sécurité sociale peuvent à leur tour s'associer ensemble avec l'Etat belge en vue de l'exécution des services généraux qui soutiennent directement l'exécution des missions de ces associations.
+
+Cette association peut uniquement adopter la forme d'une association sans but lucratif conformément à la loi du 27 juin 1921 accordant la personnalité civile aux associations sans but lucratif et aux établissements d'utilité publique.
+
+Les institutions qui se sont associées sur base de cet article sont tenues de payer les frais de l'association dont elles font partie dans la mesure où elles font appel à cette dernière.
+
+## Art. 4
+
+La présente loi entre en vigueur le 1er juillet 2001.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 17 juillet 2001.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Fonction publique et de la Modernisation de l'administration,
+
+L. VAN DEN BOSSCHE.

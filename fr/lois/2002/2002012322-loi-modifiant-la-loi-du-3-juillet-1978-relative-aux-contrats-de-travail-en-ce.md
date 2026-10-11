@@ -1,0 +1,64 @@
+---
+title: "Loi modifiant la loi du 3 juillet 1978 relative aux contrats de travail en ce qui concerne la déclaration immédiate de l'emploi."
+identifier: "2002012322"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2002/02/21/2002012322/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2002-02-21
+published: 2002-03-12
+entry_into_force: 2001-10-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2002/02/21/2002012322/justel"
+department: "Emploi et Travail"
+retrieved: 2026-10-11
+---
+
+# 21 FEVRIER 2002. - Loi modifiant la loi du 3 juillet 1978 relative aux contrats de travail en ce qui concerne la déclaration immédiate de l'emploi.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi régit une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 125 de la loi du 3 juillet 1978 relative aux contrats de travail, modifié par la loi du 21 mars 1995, est complété par l'alinéa suivant : " L'employeur qui a communiqué les données, comme définies par le Roi en vertu de l'article 38 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions, à l'institution, chargée de la perception des cotisations de sécurité sociale, selon les modalités fixées par le Roi, est dispensé de l'obligation de communiquer les copies visées à l'alinéa 1er au fonctionnaire désigné par le Roi en vertu de ce même alinéa. ".
+
+## Art. 3
+
+L'article 126, alinéa 1er, de la même loi, modifié par la loi du 21 mars 1995, est remplacé par l'alinéa suivant : " A défaut d'écrit conforme aux dispositions des articles 123 et 124 ou de la communication d'une copie du contrat visé à l'article 125 ou de la communication des données, comme définies par le Roi en vertu de l'article 38 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions, à l'institution, chargée de la perception des cotisations de sécurité sociale, selon les modalités fixées par le Roi, les étudiants pourront à tout moment mettre fin aux contrats relatifs à une occupation visée par la présente loi, sans préavis ni indemnité. ".
+
+## Art. 4
+
+L'article 126, alinéa 1er, de la même loi, modifié par les lois du 21 mars 1995 et du 21 février 2002, est remplacé par l'alinéa suivant : " A défaut d'écrit conforme aux dispositions des articles 123 et 124 ou de la communication des données, comme définies par le Roi en vertu de l'article 38 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions, à l'institution, chargée de la perception des cotisations de sécurité sociale, selon les modalités fixées par le Roi, les étudiants pourront à tout moment mettre fin aux contrats relatifs à une occupation visée par la présente loi, sans préavis ni indemnité. ".
+
+## Art. 5
+
+La présente loi produit ses effets le 1er octobre 2001 à l'exception de l'article 4.
+
+L'article 4 entre en vigueur à la date fixée par le Roi, qui doit coïncider avec la date à laquelle la déclaration immédiate de l'emploi est instaurée pour tous les employeurs.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 21 février 2002.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de l'Emploi,
+
+Mme L. ONKELINX
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN

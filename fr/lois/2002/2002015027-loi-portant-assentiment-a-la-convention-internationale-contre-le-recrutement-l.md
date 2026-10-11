@@ -1,0 +1,62 @@
+---
+title: "Loi portant assentiment à la Convention internationale contre le recrutement, l'utilisation, le financement et l'instruction de mercenaires, faite à New York le 4 décembre 1989."
+identifier: "2002015027"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2002/01/29/2002015027/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2002-01-29
+published: 2002-10-17
+entry_into_force: 2002-10-27
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2002/01/29/2002015027/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+retrieved: 2026-10-11
+---
+
+# 29 JANVIER 2002. - Loi portant assentiment à la Convention internationale contre le recrutement, l'utilisation, le financement et l'instruction de mercenaires, faite à New York le 4 décembre 1989.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+La Convention internationale contre le recrutement, l'utilisation, le financement et l'instruction de mercenaires, faite à New York le 4 décembre 1989, sortira son plein et entier effet.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 29 janvier 2002.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires étrangères,
+
+L. MICHEL
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN
+
+## ANNEXE.
+
+## Art. N
+
+Convention internationale contre le recrutement, l'utilisation, le financement et l'instruction de mercenaires.
+
+(Pour la Convention, voir %%1989-12-04/31%%).

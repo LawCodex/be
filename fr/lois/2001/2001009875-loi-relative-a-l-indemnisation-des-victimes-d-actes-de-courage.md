@@ -1,0 +1,64 @@
+---
+title: "Loi relative à l'indemnisation des victimes d'actes de courage."
+identifier: "2001009875"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2001/08/24/2001009875/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2001-08-24
+published: 2001-10-24
+entry_into_force: 2001-11-03
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2001/08/24/2001009875/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 24 AOUT 2001. - Loi relative à l'indemnisation des victimes d'actes de courage.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+A la loi du 1er août 1985 portant des mesures fiscales et autres, sont apportées les modifications suivantes :
+
+A. Dans l'intitulé de la section 3 du chapitre III, les mots " ou occasionnels " sont insérés après les mots " secouristes volontaires ".
+
+B. L'article 42, § 2, est complété par un 9°, libellé comme suit :
+
+" 9° aux sauveteurs occasionnels, c'est-à-dire à quiconque, en dehors de l'exercice d'une activité professionnelle liée au domaine de la sécurité et en dehors de toute participation à une association quelconque structurée en vue de porter assistance et secours à des tiers, accomplit un acte de sauvetage de personnes dont la vie était en danger. ".
+
+C. L'article 42 est complété par un § 4bis, libellé comme suit :
+
+" § 4bis. Pour les sauveteurs occasionnels visés au § 2, 9°, l'indemnité spéciale est limitée à un montant de 2 500 000 BEF. Cette indemnité répare le préjudice tel que visé à l'article 32, § 1er. Si la victime est décédée des suites de son acte de sauvetage, ses ayants droit sont le conjoint ou, à défaut, les membres de la famille qui étaient à sa charge. Les ayants droit peuvent, dans la même limite de 2 500 000 BEF, obtenir réparation de leur préjudice tel que visé à l'article 32, § 2.
+
+Le montant fixé à l'alinéa 1er est lié aux fluctuations de l'indice des prix à la consommation, conformément aux règles applicables aux traitements du personnel des ministères. ".
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 24 août 2001.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN
+
+Scellé du sceau de l'Etat :
+
+Pour le Ministre de la Justice, absent :
+
+Le Ministre des Télécommunications et des Entreprises et Participations publiques,
+
+R. DAEMS.

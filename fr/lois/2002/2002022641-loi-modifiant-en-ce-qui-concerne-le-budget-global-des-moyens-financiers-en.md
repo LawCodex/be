@@ -1,0 +1,63 @@
+---
+title: "Loi modifiant, en ce qui concerne le budget global des moyens financiers en matière de biologie clinique et d'imagerie médicale, la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994."
+identifier: "2002022641"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2002/07/10/2002022641/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2002-07-10
+published: 2002-08-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2002/07/10/2002022641/justel"
+department: "Affaires sociales - Santé Publique et Environnement"
+retrieved: 2026-10-11
+---
+
+# 10 JUILLET 2002. - Loi modifiant, en ce qui concerne le budget global des moyens financiers en matière de biologie clinique et d'imagerie médicale, la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+A l'article 59 de la loi relative à l'assurance obligatoire soins de santé et indemnités, coordonnée le 14 juillet 1994, modifié par les lois des 12 août 2000, 2 janvier 2001, 19 juillet 2001, 30 décembre 2001 et 14 janvier 2002, sont apportées les modifications suivantes :
+
+1° la dernière phrase de l'alinéa 2 est remplacée par la disposition suivante : "A partir du 1er juillet 2002, est en outre ajoutée la moitié du montant qui correspond à la différence algébrique entre le budget global des moyens financiers et les dépenses comptabilisées par les organismes assureurs pour les prestations en question, enregistrées au cours de l'année 2001; l'autre moitié est ajoutée dans les six premiers mois de 2003. Par dérogation aux dispositions prévues à l'alinéa 5, la différence enregistrée en 2001 est incorporée dans les montants forfaitaires par prescription dispensée à des bénéficiaires non hospitalisés, comme fixé par le Comité de l'assurance soins de santé; le taux des adaptations est fixé par le Conseil général, après avis de la Commission de contrôle budgétaire, et il est exécuté d'office. A partir de 2003 est ajoutée annuellement dans les six derniers mois la moitié de la différence algébrique enregistrée l'année précédente; l'autre moitié est ajoutée dans les six premiers mois de l'année suivante ";
+
+2° l'alinéa 3 est remplacé par la disposition suivante : " A la partie se rapportant aux bénéficiaires hospitalisés est ajouté, au cours de l'année 2002, le montant qui correspond à la différence algébrique entre le budget global des moyens financiers et les dépenses comptabilisées par les organismes assureurs pour les prestations en question, enregistrées au cours des années 1999 et 2000. En outre, à partir du 1er juillet 2002, est ajoutée la moitié du montant qui correspond à la différence algébrique enregistrée au cours de l'année 2001; l'autre moitié est ajoutée dans les six premiers mois de 2003. Par dérogation aux dispositions prévues à l'alinéa 5, la différence enregistrée en 2001 est incorporée dans les montants forfaitaires par jour et par admission concernant les bénéficiaires hospitalisés, comme fixé par le Comité de l'assurance soins de santé; le taux des adaptations est fixé par le Conseil général, après avis de la Commission de contrôle budgétaire, et il est exécuté d'office. A partir de 2003 est ajoutée annuellement dans les six derniers mois la moitié de la différence algébrique enregistrée l'année précédente; l'autre moitié est ajoutée dans les six premiers mois de l'année suivante. ".
+
+## Art. 3
+
+L'article 69, § 1er, alinéa 2, dernière phrase, de la même loi, modifié par la lois des 20 décembre 1995 et 19 juillet 2001, est remplacé par la disposition suivante :
+
+" A partir de 2002 est ajoutée au budget réparti annuellement dans les six derniers mois la moitié de la différence algébrique enregistrée au cours de l'année précédente; l'autre moitié est ajoutée dans les six premiers mois de l'année suivante. Pour l'incorporation des différences enregistrées en 2001, la même procédure que celle applicable à l'incorporation des différences constatées en 2001 pour la biologie clinique, est appliquée. "
+
+## Art. 4
+
+Les dispositions de la présente loi sont d'application pour la première fois sur les différences algébriques de l'année 2001.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 10 juillet 2002.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires sociales et des Pensions,
+
+F. VANDENBROUCKE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

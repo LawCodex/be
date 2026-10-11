@@ -1,0 +1,78 @@
+---
+title: "Loi assurant une présence égale des hommes et des femmes sur les listes de candidats aux élections du Parlement européen. -"
+identifier: "2002012846"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/17/2002012846/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2002-06-17
+published: 2002-08-28
+entry_into_force: 2002-09-07
+last_amended: 2003-04-17
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/17/2002012846/justel"
+department: "Emploi et Travail"
+justel_note: "Consultation des versions antérieures à partir du 28-08-2002 et mise à jour au 17-04-2003."
+retrieved: 2026-10-11
+---
+
+# 17 JUIN 2002. - Loi assurant une présence égale des hommes et des femmes sur les listes de candidats aux élections du Parlement européen. -
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE I. - Disposition générale.
+
+### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## CHAPITRE II. - Modification de la loi du 23 mars 1989 relative à l'élection du Parlement européen.
+
+### Art. 2
+
+L'article 21bis de la loi du 23 mars 1989 relative à l'élection du Parlement européen, inséré par la loi du 24 mai 1994 et modifié par la loi du 26 juin 2000, est remplacé par la disposition suivante :
+
+" Art. 21bis. Sur chacune des listes, l'écart entre le nombre des candidats de chaque sexe ne peut être supérieur à un.
+
+Les deux premiers candidats de chacune des listes doivent être de sexe différent. "
+
+## CHAPITRE III. - Disposition transitoire.
+
+### Art. 3
+
+&lt;L 2003-03-11/41, art. 11, 002; En vigueur : 27-04-2003&gt; Lors de la première élection du Parlement européen après l'entrée en vigueur de la présente loi, ni les trois premiers candidats titulaires, ni les trois premiers candidats suppléants de chacune des listes ne peuvent être du même sexe.
+
+En outre, sur chacune des listes, ni l'écart entre le nombre de candidats titulaires de chaque sexe, ni celui entre le nombre de candidats suppléants de chaque sexe ne peuvent être supérieurs à un.
+
+## CHAPITRE IV. - Disposition finale.
+
+### Art. 4
+
+La Chambre des représentants procède, dans les six mois de l'élection du Parlement européen, à une évaluation des effets de la présente loi sur la présence d'élues au sein de celui-ci.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 17 juin 2002.
+
+ALBERT
+
+Par le Roi :
+
+La Vice-Première Ministre, Ministre de l'Emploi et Ministre de l'Egalité des Chances,
+
+Mme L. ONKELINX
+
+Le Ministre de l'Intérieur,
+
+A. DUQUESNE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la justice,
+
+M. VERWILGHEN.

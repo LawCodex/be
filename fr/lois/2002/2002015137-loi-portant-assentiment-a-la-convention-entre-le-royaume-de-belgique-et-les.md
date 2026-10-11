@@ -1,0 +1,70 @@
+---
+title: "Loi portant assentiment à la Convention entre le Royaume de Belgique et les Emirats arabes unis tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et au Protocole, signés à Washington le 30 septembre 1996."
+identifier: "2002015137"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2002/08/02/2002015137/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2002-08-02
+published: 2003-12-24
+entry_into_force: 2004-01-03
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2002/08/02/2002015137/justel"
+department: "Affaires étrangères, Commerce extérieur et Coopération au développement"
+retrieved: 2026-10-11
+---
+
+# 2 AOUT 2002. - Loi portant assentiment à la Convention entre le Royaume de Belgique et les Emirats arabes unis tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et au Protocole, signés à Washington le 30 septembre 1996.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+La Convention entre le Royaume de Belgique et les Emirats arabes unis tendant à éviter la double imposition et à prévenir l'évasion fiscale en matière d'impôts sur le revenu et sur la fortune, et le Protocole, signés à Washington le 30 septembre 1996, sortiront leur plein et entier effet.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Punat, le 2 août 2002.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires étrangères,
+
+L. MICHEL
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+La Ministre adjointe au Ministre des Affaires étrangères,
+
+Mme A.-M. NEYTS-UYTTEBROECK
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN
+
+## ANNEXES.
+
+## Art. N1
+
+CONVENTION ENTRE LE ROYAUME DE BELGIQUE ET LES EMIRATS ARABES UNIS TENDANT A EVITER LA DOUBLE IMPOSITION ET A PREVENIR L'EVASION FISCALE EN MATIERE D'IMPOTS SUR LE REVENU ET SUR LA FORTUNE.
+
+(Pour la Convention, voir CN : %%1996-09-30/35%%).
+
+## Art. N2
+
+Conformément à son article 28, cette Convention entre en vigueur le 6 janvier 2004.

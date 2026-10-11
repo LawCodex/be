@@ -1,0 +1,404 @@
+---
+title: "Loi relative à l'euthanasie."
+identifier: "2002009590"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2002/05/28/2002009590/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2002-05-28
+published: 2002-06-22
+entry_into_force: 2002-09-20
+last_amended: 2026-03-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2002/05/28/2002009590/justel"
+department: "Justice"
+justel_note: "Consultation des versions antérieures à partir du 22-06-2002 et mise à jour au 10-03-2026"
+retrieved: 2026-10-11
+---
+
+# 28 MAI 2002. - Loi relative à l'euthanasie.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## CHAPITRE I. - Dispositions générales.
+
+### Art. 2
+
+Pour l'application de la présente loi, il y a lieu d'entendre par euthanasie l'acte, pratiqué par un tiers, qui met intentionnellement fin à la vie d'une personne à la demande de celle-ci.
+
+## CHAPITRE II. - Des conditions et de la procédure.
+
+### Art. 3
+
+§ 1er. Le médecin qui pratique une euthanasie ne commet pas d'infraction s'il s'est assuré que :
+
+\- [<sup>1</sup> le patient est majeur ou mineur émancipé, capable ou encore mineur doté de la capacité de discernement et est conscient au moment de sa demande;]<sup>1</sup>
+
+\- la demande est formulée de manière volontaire, réfléchie et répétée, et qu'elle ne résulte pas d'une pression extérieure;
+
+\- le patient [<sup>1</sup> majeur ou mineur émancipé]<sup>1</sup> se trouve dans une situation médicale sans issue et fait état d'une souffrance physique ou psychique constante et insupportable qui ne peut être apaisée et qui résulte d'une affection accidentelle ou pathologique grave et incurable;
+
+[<sup>1</sup> - le patient mineur doté de la capacité de discernement se trouve dans une situation médicale sans issue de souffrance physique constante et insupportable qui ne peut être apaisée et qui entraîne le décès à brève échéance, et qui résulte d'une affection accidentelle ou pathologique grave et incurable;]<sup>1</sup>
+
+et qu'il respecte les conditions et procédures prescrites par la présente loi.
+
+§ 2. Sans préjudice des conditions complémentaires que le médecin désirerait mettre à son intervention, il doit, préalablement et dans tous les cas :
+
+1° informer le patient de son état de santé et de son espérance de vie, se concerter avec le patient sur sa demande d'euthanasie et évoquer avec lui les possibilités thérapeutiques encore envisageables ainsi que les possibilités qu'offrent les soins palliatifs et leurs conséquences. Il doit arriver, avec le patient, à la conviction qu'il n'y a aucune autre solution raisonnable dans sa situation et que la demande du patient est entièrement volontaire;
+
+2° s'assurer de la persistance de la souffrance physique ou psychique du patient et de sa volonté réitérée. A cette fin, il mène avec le patient plusieurs entretiens, espacés d'un délai raisonnable au regard de l'évolution de l'état du patient;
+
+3° consulter un autre médecin quant au caractère grave et incurable de l'affection, en précisant les raisons de la consultation. Le médecin consulté prend connaissance du dossier médical, examine le patient et s'assure du caractère constant, insupportable et inapaisable de la souffrance physique ou psychique. Il rédige un rapport concernant ses constatations.
+
+Le médecin consulté doit être indépendant, tant à l'égard du patient qu'à l'égard du médecin traitant et être compétent quant à la pathologie concernée. Le médecin traitant informe le patient concernant les résultats de cette consultation;
+
+4° s'il existe une équipe soignante en contact régulier avec le patient, s'entretenir de la demande du patient avec l'équipe ou des membres de celle-ci;
+
+5° si telle est la volonté du patient, s'entretenir de sa demande avec les proches que celui-ci désigne;
+
+6° s'assurer que le patient a eu l'occasion de s'entretenir de sa demande avec les personnes qu'il souhaitait rencontrer.
+
+[<sup>1</sup> 7° en outre, lorsque le patient est mineur non émancipé, consulter un pédopsychiatre ou un psychologue, en précisant les raisons de cette consultation.
+
+Le spécialiste consulté prend connaissance du dossier médical, examine le patient, s'assure de la capacité de discernement du mineur, et l'atteste par écrit.
+
+Le médecin traitant informe le patient et ses représentants légaux du résultat de cette consultation.
+
+Le médecin traitant s'entretient avec les représentants légaux du mineur en leur apportant toutes les informations visées au § 2, 1°, et s'assure qu'ils marquent leur accord sur la demande du patient mineur.]<sup>1</sup>
+
+§ 3. Si le médecin est d'avis que le décès [<sup>1</sup> du patient majeur ou mineur émancipé]<sup>1</sup> n'interviendra manifestement pas à brève échéance, il doit, en outre :
+
+1° consulter un deuxième médecin, psychiatre ou spécialiste de la pathologie concernée, en précisant les raisons de la consultation. Le médecin consulté prend connaissance du dossier médical, examine le patient, s'assure du caractère constant, insupportable et inapaisable de la souffrance physique ou psychique et du caractère volontaire, réfléchi et répété de la demande. Il rédige un rapport concernant ses constatations. Le médecin consulté doit être indépendant tant à l'égard du patient qu'à l'égard du médecin traitant et du premier médecin consulté. Le médecin traitant informe le patient concernant les résultats de cette consultation;
+
+2° laisser s'écouler au moins un mois entre la demande écrite du patient et l'euthanasie.
+
+§ 4. [<sup>1</sup> La demande du patient, ainsi que l'accord des représentants légaux si le patient est mineur, sont actés par écrit.]<sup>1</sup> Le document est rédigé, daté et signé par le patient lui-même. S'il n'est pas en état de le faire, sa demande est actée par écrit par une personne majeure de son choix qui ne peut avoir aucun intérêt matériel au décès du patient.
+
+Cette personne mentionne le fait que le patient n'est pas en état de formuler sa demande par écrit et en indique les raisons. Dans ce cas, la demande est actée par écrit en présence du médecin, et ladite personne mentionne le nom de ce médecin dans le document. Ce document doit être versé au dossier médical.
+
+Le patient peut révoquer sa demande à tout moment, auquel cas le document est retiré du dossier médical et restitué au patient.
+
+[<sup>1</sup> § 4/1. Après que la demande du patient a été traitée par le médecin, la possibilité d'accompagnement psychologique est offerte aux personnes concernées.]<sup>1</sup>
+
+§ 5. L'ensemble des demandes formulées par le patient, ainsi que les démarches du médecin traitant et leur résultat, y compris le(s) rapport(s) du (des) médecin(s) consulté(s), sont consignés régulièrement dans le dossier médical du patient.
+
+----------
+
+(1)&lt;L 2014-02-28/03, art. 2, 003; En vigueur : 22-03-2014&gt;
+
+### Art. 3bis
+
+&lt;inséré par L 2005-11-10/68, art. 2; En vigueur : 23-12-2005&gt; Le pharmacien qui délivre une substance euthanasiante ne commet aucune infraction lorsqu'il le fait sur la base d'une prescription dans laquelle le médecin mentionne explicitement qu'il s'agit conformément à la présente loi.
+
+Le pharmacien fournit la substance euthanasiante prescrite en personne au médecin. Le Roi fixe les critères de prudence et les conditions auxquels doivent satisfaire la prescription et la délivrance de médicaments qui seront utilisés comme substance euthanasiante.
+
+Le Roi prend les mesures nécessaires pour assurer la disponibilité des substances euthanasiantes, y compris dans les officines qui sont accessibles au public.
+
+### Art. 3ter
+
+[<sup>1</sup> Le médecin ou le psychologue qui remet un avis dans le cadre de l'application de l'article 3, § 2, 3° et 7°, de l'article 3, § 3, 1° ou de l'article 4, § 2, alinéa 2, 1°, ne peut être puni pour ce seul fait comme auteur ou participant aux infractions visées à l'article 13/3.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-28/60, art. 134, 008; En vigueur : 08-04-2024&gt;
+
+## CHAPITRE III. - De la déclaration anticipée.
+
+### Art. 4
+
+§ 1er. Tout majeur ou mineur émancipé capable peut, pour le cas où il ne pourrait plus manifester sa volonté, consigner par écrit, dans une déclaration, sa volonté qu'un médecin pratique une euthanasie si ce médecin constate :
+
+\- qu'il est atteint d'une affection accidentelle ou pathologique grave et incurable;
+
+\- qu'il est inconscient;
+
+\- et que cette situation est irréversible selon l'état actuel de la science.
+
+La déclaration peut désigner une ou plusieurs personnes de confiance majeures, classées par ordre de préférence, qui mettent le médecin traitant au courant de la volonté du patient. Chaque personne de confiance remplace celle qui la précède dans la déclaration en cas de refus, d'empêchement, d'incapacité ou de décès. Le médecin traitant du patient, le médecin consulté et les membres de l'équipe soignante ne peuvent pas être désignés comme personnes de confiance.
+
+La déclaration peut être faite à tout moment. Elle doit être constatée par écrit, dressée en présence de deux témoins majeurs, dont l'un au moins n'aura pas d'intérêt matériel au décès du déclarant, datée et signée par le déclarant, par les témoins et, s'il échet, par la ou les personnes de confiance.
+
+Si la personne qui souhaite faire une déclaration anticipée, est physiquement dans l'impossibilité permanente de rédiger et de signer, sa déclaration peut être actée par écrit par une personne majeure de son choix qui ne peut avoir aucun intérêt matériel au décès du déclarant, en présence de deux témoins majeurs, dont l'un au moins n'aura pas d'intérêt matériel au décès du déclarant. La déclaration doit alors préciser que le déclarant ne peut pas rédiger et signer, et en énoncer les raisons. La déclaration doit être datée et signée par la personne qui a acté par écrit la déclaration, par les témoins et, s'il échet, par la ou les personnes de confiance.
+
+Une attestation médicale certifiant cette impossibilité physique permanente est jointe à la déclaration.
+
+[<sup>1</sup> La déclaration est valable pour une durée indéterminée.]<sup>1</sup>
+
+La déclaration peut être retirée ou adaptée à tout moment.
+
+Le Roi détermine les modalités relatives à la présentation, à la conservation, à la confirmation, au retrait et à la communication de la déclaration aux médecins concernés, via les services du Registre national.
+
+§ 2. Un médecin qui pratique une euthanasie, à la suite d'une déclaration anticipée, telle que prévue au § 1er, ne commet pas d'infraction s'il constate que le patient :
+
+\- est atteint d'une affection accidentelle ou pathologique grave et incurable;
+
+\- est inconscient;
+
+\- et que cette situation est irréversible selon l'état actuel de la science;
+
+et qu'il respecte les conditions et procédures prescrites par la présente loi.
+
+[<sup>1</sup> Sans préjudice des conditions complémentaires que le médecin désirerait mettre à son intervention et pour autant que la seule ou la dernière personne de confiance désignée ne se trouve pas dans un des quatre cas visés au § 1er, alinéa 2, deuxième phrase, il doit préalablement:]<sup>1</sup>
+
+1° consulter un autre médecin quant à l'irréversibilité de la situation médicale du patient, en l'informant des raisons de cette consultation. Le médecin consulté prend connaissance du dossier médical et examine le patient. Il rédige un rapport de ses constatations. Si une personne de confiance est désignée dans la déclaration de volonté, le médecin traitant met cette personne de confiance au courant des résultats de cette consultation.
+
+Le médecin consulté doit être indépendant à l'égard du patient ainsi qu'à l'égard du médecin traitant et être compétent quant à la pathologie concernée;
+
+2° s'il existe une équipe soignante en contact régulier avec le patient, s'entretenir du contenu de la déclaration anticipée avec l'équipe soignante ou des membres de celle-ci;
+
+3° si la déclaration désigne une personne de confiance, s'entretenir avec elle de la volonté du patient;
+
+4° si la déclaration désigne une personne de confiance, s'entretenir du contenu de la déclaration anticipée du patient avec les proches du patient que la personne de confiance désigne.
+
+La déclaration anticipée ainsi que l'ensemble des démarches du médecin traitant et leur résultat, y compris le rapport du médecin consulté, sont consignés régulièrement dans le dossier médical du patient.
+
+----------
+
+(1)&lt;L 2020-03-15/02, art. 2, 005; En vigueur : 02-04-2020&gt;
+
+## CHAPITRE IV. - De la déclaration.
+
+### Art. 5
+
+Le médecin qui a pratiqué une euthanasie remet, dans les quatre jours ouvrables, le document d'enregistrement visé à l'article 7, dûment complété, à la Commission fédérale de contrôle et d'évaluation visée à l'article 6 de la présente loi.
+
+## CHAPITRE V. - La Commission fédérale de contrôle et d'évaluation.
+
+### Art. 6
+
+§ 1er. Il est institué une Commission fédérale de contrôle et d'évaluation de l'application de la présente loi, ci-après dénommée " la commission ".
+
+§ 2. La commission se compose de seize membres, désignés sur la base de leurs connaissances et de leur expérience dans les matières qui relèvent de la compétence de la commission. Huit membres sont docteurs en médecine, [<sup>2</sup> [<sup>3</sup> dont deux au moins]<sup>3</sup> sont chargés de cours, professeurs ou professeurs émérites]<sup>2</sup> dans une université belge. [<sup>2</sup> Quatre membres sont chargés de cours, professeurs ou professeurs émérites de droit dans une université belge]<sup>2</sup>, ou avocats. Quatre membres sont issus des milieux chargés de la problématique des patients atteints d'une maladie incurable.
+
+La qualité de membre de la commission est incompatible avec le mandat de membre d'une des assemblées législatives et avec celui de membre du gouvernement fédéral ou d'un gouvernement de communauté ou de région.
+
+Les membres de la commission sont nommés, dans le respect de la parité linguistique - chaque groupe linguistique comptant au moins trois candidats de chaque sexe - et en veillant à assurer une représentation pluraliste, par arrêté royal délibéré en Conseil des Ministres, sur une liste double présentée par [<sup>1</sup> la Chambre des représentants]<sup>1</sup>, pour un terme renouvelable de quatre ans. Le mandat prend fin de plein droit lorsque le membre perd la qualité en laquelle il siège. Les candidats qui n'ont pas été désignés comme membres effectifs sont nommés en qualité de membres suppléants, selon une liste déterminant l'ordre dans lequel ils seront appelés à suppléer. La commission est présidée par un président d'expression française et un président d'expression néerlandaise. Les présidents sont élus par les membres de la commission appartenant à leur groupe linguistique respectif.
+
+La commission ne peut délibérer valablement qu'à la condition que les deux tiers de ses membres soient présents.
+
+§ 3. La commission établit son règlement d'ordre intérieur.
+
+----------
+
+(1)&lt;L 2014-01-06/63, art. 21, 002; En vigueur : 25-05-2014&gt;
+
+(2)&lt;L 2016-06-16/09, art. 2, 004; En vigueur : 10-07-2016&gt;
+
+(3)&lt;L 2023-06-19/05, art. 2, 007; En vigueur : 09-10-2023&gt;
+
+### Art. 7
+
+[<sup>1</sup> § 1. La commission établit un document d'enregistrement qui doit être complété par le médecin chaque fois qu'il pratique une euthanasie.
+
+Ce document contient les données suivantes:
+
+1° les nom, prénoms, numéro d'enregistrement à l'INAMI, domicile ainsi que les données de correspondance du médecin qui a pratiqué et qui déclare l'euthanasie;
+
+2° les nom, prénoms et domicile du patient, ainsi que le sexe, la langue, les date et lieu de naissance du patient, et en ce qui concerne le patient mineur, s'il était doté de la capacité de discernement;
+
+3° la date, le lieu et l'heure du décès du patient;
+
+4° les nom, prénoms, domicile et qualité des représentants légaux du mineur qui ont donné leur accord pour l'euthanasie d'un mineur;
+
+5° les nom, prénoms, qualification, numéro d'enregistrement à l'INAMI et domicile du (des) médecin(s) et le cas échéant du psychologue qui a (ont) été obligatoirement consultés; l'avis rédigé par ce(s) médecin(s) et le cas échéant par ce psychologue et les dates de ces consultations;
+
+6° les nom, prénoms, qualification et domicile de toutes les personnes et instances consultées par le médecin qui a pratiqué et qui déclare l'euthanasie, ainsi que les dates de ces consultations;
+
+7° s'il existait une déclaration anticipée qui désignait une ou plusieurs personnes de confiance, les nom et prénoms de la (des) personne(s) de confiance qui est (sont) intervenue(s);
+
+8° si l'euthanasie a été pratiquée sur la base d'une déclaration anticipée, mention de l'état de conscience ou d'inconscience du patient au moment de l'euthanasie;
+
+9° les nom, prénoms, numéro d'enregistrement à l'INAMI et adresse du pharmacien qui a délivré les produits, le nom des produits délivrés et leur quantité ainsi que, le cas échéant, l'excédent qui a été restitué au pharmacien;
+
+10° la manière dont l'euthanasie a été effectuée et les moyens utilisés;
+
+11° la mention de l'affection accidentelle ou pathologique grave et incurable dont souffrait le patient;
+
+12° la nature de la souffrance physique et/ou psychique constante et insupportable;
+
+13° les raisons pour lesquelles cette souffrance a été qualifiée d'inapaisable;
+
+14° l'échéance estimée brève ou non du décès;
+
+15° les éléments qui ont permis de s'assurer que la demande a été formulée de manière volontaire, réfléchie et répétée et sans pression extérieure;
+
+16° l'existence d'une déclaration anticipée visée à l'article 4, la date à laquelle elle a été rédigée ainsi que la mention d'une rédaction par le patient ou par un tiers; ou l'existence d'une demande écrite visée à l'article 3, § 4, la date à laquelle elle a été rédigée ainsi que la mention d'une rédaction par le patient ou par un tiers;
+
+17° la procédure suivie par le médecin.
+
+§ 2. Sans préjudice de l'article 8, alinéa 3, le document d'enregistrement visé au paragraphe 1er ne peut être communiqué qu'aux membres de la commission ainsi qu'au personnel administratif mis à la disposition de la commission, et ne peut être communiqué à aucune autre personne ou instance.
+
+§ 3. Les données recueillies dans le document d'enregistrement visé au paragraphe 1er, supprimées après l'expiration d'un délai de vingt ans après le décès de la personne concernée par le document d'enregistrement. Si une action en justice est intentée, ce délai est prolongé jusqu'à ce qu'une décision ayant force de chose jugée sur cette action en justice soit adoptée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-03-28/60, art. 135, 008; En vigueur : 08-04-2024&gt;
+
+### Art. 8
+
+[<sup>1</sup> La commission examine le document d'enregistrement dûment complété que lui communique le médecin qui a pratiqué l'euthanasie. Elle vérifie sur la base du document d'enregistrement si l'euthanasie a été effectuée selon les conditions et la procédure prévues par la présente loi. Elle peut demander au médecin qui a pratiqué l'euthanasie de lui communiquer tous les éléments du dossier médical relatifs à l'euthanasie.
+
+Elle se prononce dans un délai de deux mois.
+
+Lorsque, par décision prise à la majorité des deux tiers, la commission estime que les conditions prévues par la présente loi n'ont pas été respectées, elle envoie le dossier au procureur du Roi du lieu du décès du patient.
+
+Si l'examen du document d'enregistrement fait apparaître des faits ou des circonstances susceptibles d'affecter l'indépendance ou l'impartialité du jugement d'un membre de la commission, ce membre ne participe pas aux délibérations de la commission sur l'affaire concernée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-03-28/60, art. 136, 008; En vigueur : 08-04-2024&gt;
+
+### Art. 9
+
+La commission établit à l'intention des Chambres législatives, la première fois dans les deux ans de l'entrée en vigueur de la présente loi, et, par la suite, tous les deux ans :
+
+a) [<sup>1</sup> un rapport statistique basé sur les données figurant dans les documents d'enregistrement reçus visés à l'article 7, ces données étant anonymisées;]<sup>1</sup>
+
+b) un rapport contenant une description et une évaluation de l'application de la présente loi;
+
+c) le cas échéant, des recommandations susceptibles de déboucher sur une initiative législative et/ou d'autres mesures concernant l'exécution de la présente loi.
+
+Pour l'accomplissement de ces missions, la commission peut recueillir toutes les informations utiles auprès des diverses autorités et institutions. [<sup>1</sup> Les renseignements recueillis par la commission ne peuvent être communiqués par la commission à aucune autre personne ou instance.]<sup>1</sup>
+
+Aucun de ces documents ne peut contenir l'identité d'aucune personne citée dans les dossiers remis à la commission dans le cadre du contrôle prévu à l'article 8.
+
+La commission peut décider de communiquer des informations statistiques et purement techniques, à l'exclusion de toutes données à caractère personnel, aux équipes universitaires de recherche qui en feraient la demande motivée. Elle peut entendre des experts.
+
+----------
+
+(1)&lt;L 2024-03-28/60, art. 137, 008; En vigueur : 08-04-2024&gt;
+
+### Art. 10
+
+Le Roi met un cadre administratif à la disposition de la commission en vue de l'accomplissement de ses missions légales. Les effectifs et le cadre linguistique du personnel administratif sont fixés par arrêté royal délibéré en Conseil des Ministres, sur proposition des ministres qui ont la Santé publique et la Justice dans leurs attributions.
+
+### Art. 11
+
+Les frais de fonctionnement et les frais de personnel de la commission, ainsi que la rétribution de ses membres sont imputés par moitié aux budgets des ministres qui ont la Justice et la Santé publique dans leurs attributions.
+
+[<sup>1</sup> Le Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement est désigné comme le responsable du traitement, au sens de l'article 4.7) du règlement général pour la protection des données n° 2016/679, des données figurant dans les documents d'enregistrement reçus visés à l'article 7. Ce traitement de données a pour finalité d'une part, le contrôle de la légalité des euthanasies tel que prévu à l'article 8, et d'autre part, la rédaction de rapports et de recommandations tel que prévu à l'article 9.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-03-28/60, art. 138, 008; En vigueur : 08-04-2024&gt;
+
+### Art. 12
+
+Quiconque prête son concours, en quelque qualité que ce soit, à l'application de la présente loi, est tenu de respecter la confidentialité des données qui lui sont confiées dans l'exercice de sa mission et qui ont trait à l'exercice de celle-ci. [<sup>1</sup> L'article 352]<sup>1</sup> du Code pénal lui est applicable.
+
+----------
+
+(1)&lt;L 2026-03-03/04, art. 92, 009; En vigueur : 01-09-2026&gt;
+
+### Art. 13
+
+[<sup>1</sup> Dans les six mois du dépôt du premier rapport et, le cas échéant, des recommandations de la commission, visés à l'article 9, la Chambre des représentants organise un débat à ce sujet. Ce délai de six mois est suspendu pendant la période au cours de laquelle la Chambre des représentants est dissoute et/ou au cours de laquelle il n'y a pas de gouvernement ayant la confiance de la Chambre des représentants.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-01-06/63, art. 22, 002; En vigueur : 25-05-2014&gt;
+
+## CHAPITRE V/1. [<sup>1</sup> - Dispositions financières.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-05-18/08, art. 148, 006; En vigueur : 09-06-2022&gt;
+
+### Art. 13/1
+
+[<sup>1</sup> Le Roi peut, par arrêté délibéré en Conseil des ministres, prévoir une indemnité pour le médecin qui réalise l'euthanasie.
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, fixer le montant, les conditions et les modalités de cette indemnité, ainsi que les règles pour le paiement de cette indemnité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-05-18/08, art. 148, 006; En vigueur : 09-06-2022&gt;
+
+### Art. 13/2
+
+[<sup>1</sup> Les coûts pour les indemnités sont portés en compte de l'objectif budgétaire annuel global de l'assurance soins de santé de l'Institut national d'assurance maladie-invalidité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-05-18/08, art. 148, 006; En vigueur : 09-06-2022&gt;
+
+## CHAPITRE V/2. [<sup>1</sup> - Dispositions pénales.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-27/02, art. 139, 008; En vigueur : 08-04-2024&gt;
+
+### Art. 13/3
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Le médecin qui pratique une euthanasie, lorsque l'une des conditions de base visées à l'article 3, § 1er, 3e ou 4e tiret, ou à l'article 4, § 2, alinéa 1er, 1er à 3e tiret, n'est délibérément pas respectée, est puni d'une peine de niveau 4]<sup>2</sup>.
+
+§ 2. [<sup>2</sup> Le médecin qui pratique une euthanasie, lorsque l'une ou plusieurs des conditions procédurales visées à l'article 3, § 2, 3°, et 7°, et § 3, 1°, ou à l'article 4, § 2, alinéa 2, 1°, ne sont délibérément pas respectées, est puni d'une peine de niveau 2, où par dérogation à l'article 52, § 1er, alinéa 2, 7°, du Code pénal, l'amende maximale est de 8.000 euros]<sup>2</sup>.
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-28/60, art. 140, 008; En vigueur : 08-04-2024&gt;
+
+(2)&lt;L 2026-03-03/04, art. 93, 009; En vigueur : 01-09-2026&gt;
+
+## CHAPITRE VI. - Dispositions particulières.
+
+### Art. 14
+
+La demande et la déclaration anticipée de volonté telles que prévues aux articles 3 et 4 de la présente loi n'ont pas de valeur contraignante.
+
+Aucun médecin n'est tenu de pratiquer une euthanasie.
+
+Aucune autre personne n'est tenue de participer à une euthanasie.
+
+[<sup>1</sup> Aucune clause écrite ou non écrite ne peut empêcher un médecin de pratiquer une euthanasie dans les conditions légales.]<sup>1</sup>
+
+[<sup>1</sup> Si le médecin consulté refuse, sur la base de sa liberté de conscience, de pratiquer une euthanasie, il est tenu d'en informer en temps utile et au plus tard dans les sept jours de la première formulation de la demande le patient ou la personne de confiance éventuelle en en précisant les raisons et en renvoyant le patient ou la personne de confiance vers un autre médecin désigné par le patient ou par la personne de confiance.
+
+Si le médecin consulté refuse de pratiquer une euthanasie pour une raison médicale, il est tenu d'en informer en temps utile le patient ou la personne de confiance éventuelle, en en précisant les raisons. Dans ce cas, cette raison médicale est consignée dans le dossier médical du patient.]<sup>1</sup>
+
+[<sup>1</sup> Le médecin qui refuse de donner suite à une requête d'euthanasie est tenu, dans tous les cas, de transmettre au patient ou à la personne de confiance les coordonnées d'un centre ou d'une association spécialisé en matière de droit à l'euthanasie et, à la demande du patient ou de la personne de confiance, de communiquer dans les quatre jours de cette demande le dossier médical du patient au médecin désigné par le patient ou par la personne de confiance.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2020-03-15/02, art. 2, 005; En vigueur : 02-04-2020&gt;
+
+### Art. 15
+
+La personne décédée à la suite d'une euthanasie dans le respect des conditions imposées par la présente loi est réputée décédée de mort naturelle pour ce qui concerne l'exécution des contrats auxquels elle était partie, en particulier les contrats d'assurance.
+
+Les dispositions de l'article 909 du Code civil sont applicables aux membres de l'équipe soignante visés à l'article 3.
+
+### Art. 16
+
+La présente loi entre en vigueur au plus tard trois mois après sa publication au Moniteur belge.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Bruxelles, le 28 mai 2002.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

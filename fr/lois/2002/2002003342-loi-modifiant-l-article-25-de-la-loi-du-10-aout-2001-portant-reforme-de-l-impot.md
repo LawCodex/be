@@ -1,0 +1,82 @@
+---
+title: "Loi modifiant l'article 25 de la loi du 10 août 2001 portant réforme de l'impôt des personnes physiques et les articles 136, 140, 141 et 178, § 3, du Code des impôts sur les revenus 1992."
+identifier: "2002003342"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/21/2002003342/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2002-06-21
+published: 2002-07-20
+entry_into_force: 2002-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2002/06/21/2002003342/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 21 JUIN 2002. - Loi modifiant l'article 25 de la loi du 10 août 2001 portant réforme de l'impôt des personnes physiques et les articles 136, 140, 141 et 178, § 3, du Code des impôts sur les revenus 1992.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+A l'article 25 de la loi du 10 août 2001 portant réforme de l'impôt des personnes physiques sont apportées les modifications suivantes :
+
+1° le point B est remplacé par la disposition suivante :
+
+" B. Au § 1er sont apportées les modifications suivantes :
+
+a) le 1° est remplacé par la disposition suivante :
+
+" 1° 870 EUR pour un contribuable imposé isolément et ayant un ou plusieurs enfants à charge; ";
+
+b) au 4°, le montant de "1.500 EUR" est remplacé par le montant de "1.800 EUR". ";
+
+2° au point C, dans l'article 133, 2°, proposé, le montant de "1.500 EUR" est remplacé par le montant de "1.800 EUR".
+
+## Art. 3
+
+A l'article 136 du Code des impôts sur les revenus 1992, modifié par l'arrêté royal du 20 juillet 2000, le montant de "1.500 EUR" est remplacé par le montant de "1.800 EUR".
+
+## Art. 4
+
+A l'article 140, alinéa 2, du même code, modifié par l'arrêté royal du 20 juillet 2000, le montant de "1.500 EUR" est chaque fois remplacé par le montant de "1.800 EUR".
+
+## Art. 5
+
+A l'article 141 du même Code, modifié par l'arrêté royal du 20 juillet 2000 et par la loi du 10 août 2001, les montants de "1.500 EUR" et de "3.000 EUR" sont remplacés respectivement par les montants de "1.800 EUR" et de "3.300 EUR".
+
+## Art. 6
+
+Dans l'article 178, § 3, du même Code, modifié par les lois des 28 décembre 1992 et 30 mars 1994 et par les arrêtés royaux des 20 décembre 1996 et 20 juillet 2000, les mots "Par dérogation au § 2, alinéa 1er, sauf en ce qui concerne la quotité du revenu exemptée d'impôt, éventuellement majorée, visée aux articles 131 à 134 et les limites du montant des ressources visées aux articles 136 et 140 à 142, l'adaptation est réalisée : " sont remplacés par les mots "Par dérogation au § 2, alinéa 1er, sauf en ce qui concerne les montants visés aux articles 131 à 134, 136 et 140 à 143, l'adaptation est réalisée : ".
+
+## Art. 7
+
+Les articles 3 à 5 entrent en vigueur à partir de l'exercice d'imposition 2003. L'article 6 est applicable à partir de l'exercice d'imposition 2002.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 21 juin 2002.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN.

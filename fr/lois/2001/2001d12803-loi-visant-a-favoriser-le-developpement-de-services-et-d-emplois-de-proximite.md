@@ -1,0 +1,876 @@
+---
+title: "Loi visant à favoriser le développement de services et d'emplois de proximité (REGION WALLONNE)"
+identifier: "2001D12803"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/20/2001D12803/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2001-07-20
+published: 2001-08-11
+entry_into_force: 2001-08-11
+last_amended: 2024-09-17
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2001/07/20/2001D12803/justel"
+department: "Affaires sociales - Emploi et Travail - Finances - Santé Publique et Environnement"
+justel_note: "Consultation des versions antérieures à partir du 11-08-2001 et mise à jour au 17-09-2024"
+retrieved: 2026-10-11
+---
+
+# 20 JUILLET 2001. - Loi visant à favoriser le développement de services et d'emplois de proximité (REGION WALLONNE)
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Chapitre Ier. Disposition générale. &lt;Inséré par L 2003-12-22/42, art. 63, 002; En vigueur : 01-01-2004&gt;
+
+#### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Chapitre II. Services et emplois de proximité dans le secteur de l'aide à domicile de nature ménagère. &lt;Inséré par L 2003-12-22/42, art. 64, 002; En vigueur : 01-01-2004&gt;
+
+### Section 1re. définitions et dispositions générales. &lt;Inséré par L 2003-12-22/42, art. 65, 002; En vigueur : 01-01-2004&gt;
+
+#### Art. 2
+
+(§ 1er. Pour l'application du présent chapitre, on entend par :) &lt;L 2003-12-22/42, art. 66, 002; En vigueur : 01-01-2004&gt;
+
+1°) titre-service : le titre de paiement émis par une société émettrice, qui permet à l'utilisateur de régler, avec l'aide financière de [<sup>6</sup> la Région wallonne]<sup>6</sup>, revêtant la forme d'une subvention à la consommation, une prestation de travaux ou de services de proximité effectuée par une entreprise agréée;
+
+2°) [<sup>5</sup> société émettrice : la société [<sup>8</sup> , désignée par l'Office wallon de la formation professionnelle et de l'emploi,]<sup>8</sup> qui émet les titres-services]<sup>5</sup>
+
+(3°) travaux ou services de proximité : les activités marchandes ou non marchandes, créatrices d'emploi, qui visent à rencontrer des besoins individuels, personnels ou familiaux dans le cadre de la vie quotidienne et qui concernent l'aide à domicile de nature ménagère.
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, déterminer ce qu'il faut entendre par l'aide à domicile de nature ménagère.) &lt;L 2003-12-22/42, art. 67, 002; En vigueur : 01-01-2004&gt;
+
+4°) utilisateurs : les personnes physiques qui bénéficient du titre-service [<sup>6</sup> qui ont leur résidence principale en Région wallonne]<sup>6</sup>;
+
+5°) entreprise : toute personne physique ou morale dont l'activité ou l'objet consiste au moins partiellement en la prestation de travaux ou services de proximité;
+
+(6°) entreprise agréée : l'entreprise qui fournit les travaux ou services de proximité visés au 3°), qui est agréée à cette fin et qui garantit la qualité et la sécurité de ceux-ci à l'utilisateur.) &lt;L 2003-12-22/42, art. 68, 002; En vigueur : 01-01-2004&gt;
+
+7° [<sup>1</sup> ...]<sup>1</sup>;
+
+8° [<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>1</sup> Alinéas 2 et 3 abrogés]<sup>1</sup>.
+
+(§ 2. Afin d'obtenir l'agrément visé au § 1er, alinéa 1er, 6°, l'entreprise doit satisfaire aux conditions suivantes :
+
+a. l'entreprise a, si elle exerce une autre activité que les activités pour lesquelles un agrément peut être accordé sur base de cette loi, créé dans son sein " une Section sui generis " qui s'occupe spécifiquement de l'occupation dans le cadre des titres-services. Le Roi détermine, par arrêté délibéré en Conseil des ministres, ce qu'on entend par " une Section sui generis ";
+
+b. [<sup>1</sup> l'entreprise s'engage à se conformer aux dispositions de l'article 7octies, alinéa 1er, de cette loi;]<sup>1</sup>;
+
+c. l'entreprise s'engage, en ce qui concerne les travailleurs [<sup>1</sup> qui pendant leur occupation à temps partiel [<sup>8</sup> ont inscrits comme chercheurs d'emploi auprès d'un service public de l'Emploi compétent en Belgique et ont droit, le cas échéant,]<sup>8</sup> une allocation de chômage, au revenu d'intégration ou à l'aide sociale financière]<sup>1</sup>, à leur attribuer par priorité un emploi à temps plein ou un autre emploi à temps partiel qui, presté seul ou à titre complémentaire, leur procure un régime à temps partiel nouveau, dont la durée de travail hebdomadaire est supérieure à celle du régime de travail à temps partiel dans lequel ils travaillent déjà, conformément aux modalités fixées par le Roi par arrêté délibéré en Conseil des ministres;
+
+d. l'entreprise s'engage à respecter les conditions de salaire et de travail qui lui sont applicables conformément à cette loi et ses arrêtés d'exécution et aux conventions collectives qui lui sont applicables;
+
+e. l'entreprise n'est pas redevable (...) d'arriérés d'impôts, ni d'arriérés de cotisations à percevoir (par un organisme de recouvrement des cotisations de sécurité sociale) [<sup>2</sup> , [<sup>7</sup> ni d'arriérés de paiement de montants réclamés par ou en vertu de la présente loi par l'Office wallon de la Formation professionnelle et de l'Emploi, ni d'arriérés de paiement de montants réclamés par ou en vertu de la présente loi par les Services du Gouvernement]<sup>7</sup> ]<sup>2</sup>. [<sup>4</sup> ...]<sup>4</sup> . [<sup>4</sup> ...]<sup>4</sup> ; &lt;L 2006-12-27/32, art. 165, 004; En vigueur : 07-01-2007&gt; &lt;L 2008-06-08/30, art. 74, 1° et 2°, 005; En vigueur : 26-06-2008&gt;
+
+f. [<sup>8</sup> ne pas :
+
+1\) se trouver en état de faillite;
+
+2\) avoir, dans les trois années écoulées, été impliquée dans une faillite, liquidation ou opération similaire;]<sup>8</sup>
+
+g) [<sup>3</sup> L'entreprise a participé à la session d'informations concernant les titres-services, organisée par [<sup>6</sup> les Services que le Gouvernement désigne]<sup>6</sup> [<sup>6</sup> et dont le contenu est arrêté et élaboré par l'Office wallon de la Formation professionnelle et de l'Emploi]<sup>6</sup> ;]<sup>3</sup>
+
+[<sup>4</sup> h) L'entreprise s'engage à remplir l'obligation de l'article 2bis, § 1er, au plus tard à la date de la remise de la demande d'agrément;]<sup>4</sup>
+
+[<sup>8</sup> i. l'entreprise ne compte pas, ni directement ni par interposition de personnes, parmi les administrateurs, gérants, mandataires ou personnes ayant le pouvoir d'engager l'entreprise, une personne qui :
+
+1\) est privée de ses droits civils et politiques;
+
+2\) s'est vu interdire d'exploiter une entreprise en vertu du Livre XX, Titre IX, du Code de droit économique;
+
+3\) dans les cinq années écoulées, a été déclarée responsable des engagements ou dettes d'une société ou association en faillite ou pour laquelle le juge n'a pas prononcé l'effacement des dettes;
+
+4\) dans les cinq années écoulées, a été condamnée pour toute infraction commise en matière fiscale, sociale ou dans le domaine des dispositions légales ou réglementaires relatives à l'exercice de l'activité de l'entreprise agréée;
+
+5\) dans les trois années écoulées, a été impliquée dans une faillite, liquidation déficitaire ou opération similaire;
+
+6\) dans les trois années écoulées, a été impliquée dans une entreprise dont l'agrément a été retiré;
+
+7\) dans les dix années écoulées, a été condamnée pour des faits de harcèlement ou des pratiques discriminatoires;
+
+j. l'entreprise respecte, vis-à-vis des utilisateurs, les règles de protection des consommateurs, telles que prévues au Livre VI du Code de droit économique;]<sup>8</sup>
+
+[<sup>9</sup> k. à partir de la quatrième année civile qui suit l'année d'octroi de l'agrément, la moyenne de la durée de travail hebdomadaire conventionnelle des travailleurs engagés dans un contrat de travail titres-services et occupés dans une unité d'établissement située en Région wallonne de l'entreprise agréée atteint au moins dix-neuf heures, selon les modalités déterminées par le Gouvernement;
+
+l. l'entreprise agréée offre annuellement neuf heures de formation à chaque travailleur équivalent temps plein engagé dans le cadre d'un contrat de travail titres-services et occupé dans une unité d'établissement située en Région wallonne, selon les modalités déterminées par le Gouvernement;]<sup>9</sup>
+
+[<sup>8</sup> m. l'entreprise respecte la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, le Code de bien-être au travail et la convention collective de travail n° 72 du 30 mars 1999 concernant la gestion de la prévention du stress occasionné par le travail et n'a pas été condamnée pour des faits de harcèlement ou de pratique discriminatoire.]<sup>8</sup>
+
+[<sup>10</sup> n. l'entreprise respecte le décret du 6 novembre 2008 relatif à la lutte contre certaines formes de discrimination.]<sup>10</sup>
+
+[<sup>9</sup> Pour l'application de l'alinéa 1er, l., par formation, l'on entend les formations professionnelles qui permettent l'acquisition de compétences liées aux activités titres-services ainsi que les formations professionnelles qui favorisent la mobilité professionnelle des travailleurs au sein du secteur des titres-services ou en dehors de celui-ci. Lorsque le travailleur est engagé à temps partiel, le nombre minimal d'heures de formation à organiser est adapté selon les modalités déterminées par le Gouvernement.]<sup>9</sup>
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, déterminer des conditions supplémentaires auxquelles l'entreprise doit répondre pour être agréée.
+
+[<sup>1</sup> Alinéa 3 abrogé.]<sup>1</sup>
+
+Les modalités communautaires ou régionales doivent respecter les dispositions existantes de la loi du 3 juillet 1978 relative aux contrats de travail.
+
+Dans les conditions et selon les modalités fixées par le Roi par arrêté délibéré en Conseil des ministres, l'agrément peut être retiré à l'entreprise agréée qui ne remplit plus les conditions d'agrément des alinéas précédents.
+
+[<sup>7</sup> L'agrément et son retrait se font par l'autorité compétente que le Gouvernement désigne, après avis d'une commission consultative des agréments instituée au sein du [<sup>8</sup> Conseil économique, social et environnemental de Wallonie]<sup>8</sup>, dans laquelle les organisations représentatives des employeurs et des travailleurs sont également représentées. Le Gouvernement détermine la procédure d'agrément à suivre, ainsi que la composition et les modalités de fonctionnement de la commission consultative des agréments. Le Conseil économique et social de Wallonie assure le secrétariat de la commission consultative des agréments]<sup>7</sup>
+
+(Par dérogation aux alinéas précédents, l'agrément peut être retiré d'office dans les conditions et les modalités établies par le Roi, par arrêté délibéré en conseil des ministres) &lt;L 2008-06-08/30, art. 74, 4°, 005; En vigueur : 26-06-2008&gt;
+
+[<sup>6</sup> § 3. L'entreprise qui est agréée soit en Région de Bruxelles-capitale, soit en Région flamande sollicite son agrément en Région wallonne selon la procédure simplifiée fixée par accord de coopération ou par le Gouvernement. Néanmoins, elle doit satisfaire aux obligations prévues par ou en vertu de l'article 2, § 2.
+
+Le Gouvernement peut, selon les modalités qu'il détermine ou par accord de coopération, dispenser l'entreprise de démontrer le respect de ces obligations.
+
+Le Gouvernement peut, selon les modalités qu'il détermine ou par accord de coopération, dispenser en tout ou en partie l'entreprise des obligations prévues par ou en vertu de l'article 2bis.
+
+§ 4. L'entreprise qui a son siège social à l'étranger et au sein de l'Espace économique européen et qui est agréée soit en Région de Bruxelles-capitale, soit en Région flamande sollicite son agrément en Région wallonne selon la procédure simplifiée fixée par accord de coopération ou par le Gouvernement. Néanmoins, elle doit satisfaire aux obligations prévues par ou en vertu de l'article 2, § 2.
+
+Le Gouvernement peut, selon les modalités qu'il détermine, dispenser l'entreprise de démontrer le respect de ces obligations.
+
+Le Gouvernement peut, selon les modalités qu'il détermine ou par accord de coopération, dispenser en tout ou en partie l'entreprise des obligations prévues par ou en vertu de l'article 2bis.
+
+§ 5. L'entreprise qui a son siège social à l'étranger et au sein de l'Espace économique européen et qui n'est pas agréée soit en Région de Bruxelles-capitale, soit en Région flamande, doit, selon la procédure fixée par le Gouvernement, démontrer qu'elle satisfait dans son pays, à des conditions équivalentes à celles déterminées par ou en vertu de l'article 2, § 2, et ce, sans discrimination directe ou indirecte fondée sur l'Etat dont provient l'entreprise qui sollicite un agrément.
+
+§ 6. L'entreprise qui a son siège social à l'étranger et en dehors de l'Espace économique européen satisfait aux conditions d'agrément déterminées par le présent décret et doit, selon la procédure fixée par le Gouvernement, démontrer qu'elle satisfait aux conditions déterminées par ou en vertu de l'article 2, § 2, et apporte la preuve qu'elle preste le même type de services dans son pays d'origine et ce, sans discrimination directe ou indirecte fondée sur l'Etat dont provient l'entreprise qui sollicite un agrément.
+
+Le Gouvernement détermine les modalités d'application des paragraphes 3, 4, 5 et 6.]<sup>6</sup>
+
+----------
+
+(1)&lt;L 2008-12-22/33, art. 190 et 191, 007; En vigueur : 01-09-2009; voir également l'art. 196&gt;
+
+(2)&lt;L 2009-12-30/02, art. 23, 009; En vigueur : 10-01-2010&gt;
+
+(3)&lt;L 2011-07-04/03, art. 10, 010; En vigueur : 19-07-2011 ; voir également l'art. 13&gt;
+
+(4)&lt;L 2012-06-22/02, art. 6, 013; En vigueur : 24-12-2012&gt;
+
+(5)&lt;DRW 2016-04-28/08, art. 40,2°, 002; En vigueur : 01-04-2015 (dispositions transitoires art. 77, L2)&gt;
+
+(6)&lt;DRW 2016-04-28/08, art. 40,1°, 3°, 5°-6°, 8°, 002; En vigueur : 01-01-2016 (dispositions transitoires art. 77, L2)&gt;
+
+(7)&lt;DRW 2016-04-28/08, art. 40,4° et 7°, 002; En vigueur : 21-05-2016 (dispositions transitoires art. 77, L2)&gt;
+
+(8)&lt;DRW 2021-12-09/15, art. 1, 004; En vigueur : 03-01-2022&gt;
+
+(9)&lt;DRW 2021-12-09/15, art. 1,5°,6°, 004; En vigueur : 01-01-2022&gt;
+
+(10)&lt;DRW 2024-04-29/24, art. 3, 005; En vigueur : 27-09-2024&gt;
+
+#### Art. 2 DROIT FUTUR.
+
+(§ 1er. Pour l'application du présent chapitre, on entend par :) &lt;L 2003-12-22/42, art. 66, 002; En vigueur : 01-01-2004&gt;
+
+1°) titre-service : le titre de paiement émis par une société émettrice, qui permet à l'utilisateur de régler, avec l'aide financière de [<sup>6</sup> la Région wallonne]<sup>6</sup>, revêtant la forme d'une subvention à la consommation, une prestation de travaux ou de services de proximité effectuée par une entreprise agréée;
+
+2°) [<sup>5</sup> société émettrice : la société [<sup>8</sup> , désignée par l'Office wallon de la formation professionnelle et de l'emploi,]<sup>8</sup> qui émet les titres-services]<sup>5</sup>
+
+(3°) travaux ou services de proximité : les activités marchandes ou non marchandes, créatrices d'emploi, qui visent à rencontrer des besoins individuels, personnels ou familiaux dans le cadre de la vie quotidienne et qui concernent l'aide à domicile de nature ménagère.
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, déterminer ce qu'il faut entendre par l'aide à domicile de nature ménagère.) &lt;L 2003-12-22/42, art. 67, 002; En vigueur : 01-01-2004&gt;
+
+4°) utilisateurs : les personnes physiques qui bénéficient du titre-service [<sup>6</sup> qui ont leur résidence principale en Région wallonne]<sup>6</sup>;
+
+5°) entreprise : toute personne physique ou morale dont l'activité ou l'objet consiste au moins partiellement en la prestation de travaux ou services de proximité;
+
+(6°) entreprise agréée : l'entreprise qui fournit les travaux ou services de proximité visés au 3°), qui est agréée à cette fin et qui garantit la qualité et la sécurité de ceux-ci à l'utilisateur.) &lt;L 2003-12-22/42, art. 68, 002; En vigueur : 01-01-2004&gt;
+
+7° [<sup>1</sup> ...]<sup>1</sup>;
+
+8° [<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>1</sup> Alinéas 2 et 3 abrogés]<sup>1</sup>.
+
+(§ 2. Afin d'obtenir l'agrément visé au § 1er, alinéa 1er, 6°, l'entreprise doit satisfaire aux conditions suivantes :
+
+a. l'entreprise a, si elle exerce une autre activité que les activités pour lesquelles un agrément peut être accordé sur base de cette loi, créé dans son sein " une Section sui generis " qui s'occupe spécifiquement de l'occupation dans le cadre des titres-services. Le Roi détermine, par arrêté délibéré en Conseil des ministres, ce qu'on entend par " une Section sui generis ";
+
+b. [<sup>1</sup> l'entreprise s'engage à se conformer aux dispositions de l'article 7octies, alinéa 1er, de cette loi;]<sup>1</sup>;
+
+c. l'entreprise s'engage, en ce qui concerne les travailleurs [<sup>1</sup> qui pendant leur occupation à temps partiel [<sup>8</sup> ont inscrits comme chercheurs d'emploi auprès d'un service public de l'Emploi compétent en Belgique et ont droit, le cas échéant,]<sup>8</sup> une allocation de chômage, au revenu d'intégration ou à l'aide sociale financière]<sup>1</sup>, à leur attribuer par priorité un emploi à temps plein ou un autre emploi à temps partiel qui, presté seul ou à titre complémentaire, leur procure un régime à temps partiel nouveau, dont la durée de travail hebdomadaire est supérieure à celle du régime de travail à temps partiel dans lequel ils travaillent déjà, conformément aux modalités fixées par le Roi par arrêté délibéré en Conseil des ministres;
+
+d. l'entreprise s'engage à respecter les conditions de salaire et de travail qui lui sont applicables conformément à cette loi et ses arrêtés d'exécution et aux conventions collectives qui lui sont applicables;
+
+e. l'entreprise n'est pas redevable (...) d'arriérés d'impôts, ni d'arriérés de cotisations à percevoir (par un organisme de recouvrement des cotisations de sécurité sociale) [<sup>2</sup> , [<sup>7</sup> ni d'arriérés de paiement de montants réclamés par ou en vertu de la présente loi par l'Office wallon de la Formation professionnelle et de l'Emploi, ni d'arriérés de paiement de montants réclamés par ou en vertu de la présente loi par les Services du Gouvernement]<sup>7</sup> ]<sup>2</sup>. [<sup>4</sup> ...]<sup>4</sup> . [<sup>4</sup> ...]<sup>4</sup> ; &lt;L 2006-12-27/32, art. 165, 004; En vigueur : 07-01-2007&gt; &lt;L 2008-06-08/30, art. 74, 1° et 2°, 005; En vigueur : 26-06-2008&gt;
+
+f. [<sup>8</sup> ne pas :
+
+1\) se trouver en état de faillite;
+
+2\) avoir, dans les trois années écoulées, été impliquée dans une faillite, liquidation ou opération similaire;]<sup>8</sup>
+
+g) [<sup>3</sup> L'entreprise [<sup>10</sup> compte une personne qui, dans les cinq années écoulées,]<sup>10</sup> a participé à la session d'informations concernant les titres-services, organisée par [<sup>6</sup> les Services que le Gouvernement désigne]<sup>6</sup> [<sup>6</sup> et dont le contenu est arrêté et élaboré par l'Office wallon de la Formation professionnelle et de l'Emploi]<sup>6</sup> ;]<sup>3</sup>
+
+[<sup>4</sup> h) L'entreprise s'engage à remplir l'obligation de l'article 2bis, § 1er, au plus tard à la date de la remise de la demande d'agrément;]<sup>4</sup>
+
+[<sup>8</sup> i. l'entreprise ne compte pas, ni directement ni par interposition de personnes, parmi les administrateurs, gérants, mandataires ou personnes ayant le pouvoir d'engager l'entreprise, une personne qui :
+
+1\) est privée de ses droits civils et politiques;
+
+2\) s'est vu interdire d'exploiter une entreprise en vertu du Livre XX, Titre IX, du Code de droit économique;
+
+3\) dans les cinq années écoulées, a été déclarée responsable des engagements ou dettes d'une société ou association en faillite ou pour laquelle le juge n'a pas prononcé l'effacement des dettes;
+
+4\) dans les cinq années écoulées, a été condamnée pour toute infraction commise en matière fiscale, sociale ou dans le domaine des dispositions légales ou réglementaires relatives à l'exercice de l'activité de l'entreprise agréée;
+
+5\) dans les trois années écoulées, a été impliquée dans une faillite, liquidation déficitaire ou opération similaire;
+
+6\) dans les trois années écoulées, a été impliquée dans une entreprise dont l'agrément a été retiré;
+
+7\) dans les dix années écoulées, a été condamnée pour des faits de harcèlement ou des pratiques discriminatoires;
+
+j. l'entreprise respecte, vis-à-vis des utilisateurs, les règles de protection des consommateurs, telles que prévues au Livre VI du Code de droit économique;]<sup>8</sup>
+
+[<sup>9</sup> k. à partir de la quatrième année civile qui suit l'année d'octroi de l'agrément, la moyenne de la durée de travail hebdomadaire conventionnelle des travailleurs engagés dans un contrat de travail titres-services et occupés dans une unité d'établissement située en Région wallonne de l'entreprise agréée atteint au moins dix-neuf heures, selon les modalités déterminées par le Gouvernement;
+
+l. l'entreprise agréée offre annuellement neuf heures de formation à chaque travailleur équivalent temps plein engagé dans le cadre d'un contrat de travail titres-services et occupé dans une unité d'établissement située en Région wallonne, selon les modalités déterminées par le Gouvernement;]<sup>9</sup>
+
+[<sup>8</sup> m. l'entreprise respecte la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, le Code de bien-être au travail et la convention collective de travail n° 72 du 30 mars 1999 concernant la gestion de la prévention du stress occasionné par le travail et n'a pas été condamnée pour des faits de harcèlement ou de pratique discriminatoire.]<sup>8</sup>
+
+[<sup>9</sup> Pour l'application de l'alinéa 1er, l., par formation, l'on entend les formations professionnelles qui permettent l'acquisition de compétences liées aux activités titres-services ainsi que les formations professionnelles qui favorisent la mobilité professionnelle des travailleurs au sein du secteur des titres-services ou en dehors de celui-ci. Lorsque le travailleur est engagé à temps partiel, le nombre minimal d'heures de formation à organiser est adapté selon les modalités déterminées par le Gouvernement.]<sup>9</sup>
+
+Le Roi peut, par arrêté délibéré en Conseil des ministres, déterminer des conditions supplémentaires auxquelles l'entreprise doit répondre pour être agréée.
+
+[<sup>1</sup> Alinéa 3 abrogé.]<sup>1</sup>
+
+Les modalités communautaires ou régionales doivent respecter les dispositions existantes de la loi du 3 juillet 1978 relative aux contrats de travail.
+
+Dans les conditions et selon les modalités fixées par le Roi par arrêté délibéré en Conseil des ministres, l'agrément peut être retiré à l'entreprise agréée qui ne remplit plus les conditions d'agrément des alinéas précédents.
+
+[<sup>7</sup> L'agrément et son retrait se font par l'autorité compétente que le Gouvernement désigne, après avis d'une commission consultative des agréments instituée au sein du [<sup>8</sup> Conseil économique, social et environnemental de Wallonie]<sup>8</sup>, dans laquelle les organisations représentatives des employeurs et des travailleurs sont également représentées. Le Gouvernement détermine la procédure d'agrément à suivre, ainsi que la composition et les modalités de fonctionnement de la commission consultative des agréments. Le Conseil économique et social de Wallonie assure le secrétariat de la commission consultative des agréments]<sup>7</sup>
+
+(Par dérogation aux alinéas précédents, l'agrément peut être retiré d'office dans les conditions et les modalités établies par le Roi, par arrêté délibéré en conseil des ministres) &lt;L 2008-06-08/30, art. 74, 4°, 005; En vigueur : 26-06-2008&gt;
+
+[<sup>6</sup> § 3. L'entreprise qui est agréée soit en Région de Bruxelles-capitale, soit en Région flamande sollicite son agrément en Région wallonne selon la procédure simplifiée fixée par accord de coopération ou par le Gouvernement. Néanmoins, elle doit satisfaire aux obligations prévues par ou en vertu de l'article 2, § 2.
+
+Le Gouvernement peut, selon les modalités qu'il détermine ou par accord de coopération, dispenser l'entreprise de démontrer le respect de ces obligations.
+
+Le Gouvernement peut, selon les modalités qu'il détermine ou par accord de coopération, dispenser en tout ou en partie l'entreprise des obligations prévues par ou en vertu de l'article 2bis.
+
+§ 4. L'entreprise qui a son siège social à l'étranger et au sein de l'Espace économique européen et qui est agréée soit en Région de Bruxelles-capitale, soit en Région flamande sollicite son agrément en Région wallonne selon la procédure simplifiée fixée par accord de coopération ou par le Gouvernement. Néanmoins, elle doit satisfaire aux obligations prévues par ou en vertu de l'article 2, § 2.
+
+Le Gouvernement peut, selon les modalités qu'il détermine, dispenser l'entreprise de démontrer le respect de ces obligations.
+
+Le Gouvernement peut, selon les modalités qu'il détermine ou par accord de coopération, dispenser en tout ou en partie l'entreprise des obligations prévues par ou en vertu de l'article 2bis.
+
+§ 5. L'entreprise qui a son siège social à l'étranger et au sein de l'Espace économique européen et qui n'est pas agréée soit en Région de Bruxelles-capitale, soit en Région flamande, doit, selon la procédure fixée par le Gouvernement, démontrer qu'elle satisfait dans son pays, à des conditions équivalentes à celles déterminées par ou en vertu de l'article 2, § 2, et ce, sans discrimination directe ou indirecte fondée sur l'Etat dont provient l'entreprise qui sollicite un agrément.
+
+§ 6. L'entreprise qui a son siège social à l'étranger et en dehors de l'Espace économique européen satisfait aux conditions d'agrément déterminées par le présent décret et doit, selon la procédure fixée par le Gouvernement, démontrer qu'elle satisfait aux conditions déterminées par ou en vertu de l'article 2, § 2, et apporte la preuve qu'elle preste le même type de services dans son pays d'origine et ce, sans discrimination directe ou indirecte fondée sur l'Etat dont provient l'entreprise qui sollicite un agrément.
+
+Le Gouvernement détermine les modalités d'application des paragraphes 3, 4, 5 et 6.]<sup>6</sup>
+
+----------
+
+(1)&lt;L 2008-12-22/33, art. 190 et 191, 007; En vigueur : 01-09-2009; voir également l'art. 196&gt;
+
+(2)&lt;L 2009-12-30/02, art. 23, 009; En vigueur : 10-01-2010&gt;
+
+(3)&lt;L 2011-07-04/03, art. 10, 010; En vigueur : 19-07-2011 ; voir également l'art. 13&gt;
+
+(4)&lt;L 2012-06-22/02, art. 6, 013; En vigueur : 24-12-2012&gt;
+
+(5)&lt;DRW 2016-04-28/08, art. 40,2°, 002; En vigueur : 01-04-2015 (dispositions transitoires art. 77, L2)&gt;
+
+(6)&lt;DRW 2016-04-28/08, art. 40,1°, 3°, 5°-6°, 8°, 002; En vigueur : 01-01-2016 (dispositions transitoires art. 77, L2)&gt;
+
+(7)&lt;DRW 2016-04-28/08, art. 40,4° et 7°, 002; En vigueur : 21-05-2016 (dispositions transitoires art. 77, L2)&gt;
+
+(8)&lt;DRW 2021-12-09/15, art. 1, 004; En vigueur : 03-01-2022&gt;
+
+(9)&lt;DRW 2021-12-09/15, art. 1,5°,6°, 004; En vigueur : 01-01-2022&gt;
+
+(10)&lt;DRW 2021-12-09/15, art. 1,4°, 004; En vigueur : 01-01-2023&gt;
+
+#### Art. 2bis
+
+[<sup>1</sup> § 1er. L'entreprise verse un cautionnement de vingt-cinq mille euros [<sup>2</sup> aux Services que le Gouvernement désigne]<sup>2</sup>.
+
+Le Roi détermine, par arrêté délibéré en Conseil des Ministres, les conditions et les modalités concernant le versement et la destination du cautionnement ainsi que ce qui se passe avec ce cautionnement en cas de faillite.
+
+§ 2. [<sup>3</sup> Lorsque l'entreprise ne remplit plus les conditions d'agrément visées à l'article 2, § 2, alinéas 1er à 3, l'intervention régionale dans le coût des titres-services qui sont transmis à la société émettrice aux fins de remboursement est partiellement perdue.]<sup>3</sup>
+
+Par dérogation à l'alinéa précédent, la valeur nominale du titre-service et le montant complet de l'intervention [<sup>2</sup> régionale]<sup>2</sup> dans le coût des titres-services qui sont transmis à la société émettrice aux fins de remboursement [<sup>3</sup> sont perdus]<sup>3</sup> si [<sup>2</sup> l'Office wallon de la Formation professionnelle et de l'Emploi]<sup>2</sup> juge qu'il s'agit d'une infraction grave.
+
+[<sup>3</sup> Le Gouvernement peut désigner les services qui appliquent la mesure visée aux alinéas 1er et 2 lorsque l'entreprise ne satisfait pas à la condition d'agrément visée à l'article 2, paragraphe 2, alinéa 1er, e.]<sup>3</sup>
+
+Les montants [<sup>3</sup> perdus]<sup>3</sup>, visés aux alinéas précédents, sont virés sur un compte de [<sup>2</sup> l'Office wallon de la Formation professionnelle et de l'Emploi]<sup>2</sup>.
+
+Le Roi détermine, par arrêté délibéré en Conseil des Ministres :
+
+1° le montant de l'intervention [<sup>2</sup> régionale]<sup>2</sup> dans le coût du titre-service qui est retenu conformément à l'alinéa 1er;
+
+2° [<sup>3</sup> les conditions et les modalités concernant la perte des montants visés aux alinéas 1er et 2, leur versement et leur destination;]<sup>3</sup>
+
+3° ce qui est entendu par infraction grave.]<sup>1</sup>
+
+[<sup>3</sup> § 3. Toute somme à restituer ou à payer à l'entreprise agréée, y compris à l'entreprise agréée en faillite, dans le cadre de la présente loi peut être affectée sans formalité par l'Office wallon de la formation professionnelle et de l'emploi à l'apurement des dettes qui lui sont dues par l'entreprise agréée.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-06-22/02, art. 7, 013; En vigueur : 24-12-2012, à l'exeption de l'article 2bis, § 2, qui entre en vigueur le 01-01-2013; voir aussi L 2012-06-22/02, art. 9, L2&gt;
+
+(2)&lt;DRW 2016-04-28/08, art. 41, 002; En vigueur : 01-01-2016 (dispositions transitoires art. 77, L2)&gt;
+
+(3)&lt;DRW 2021-12-09/15, art. 2, 004; En vigueur : 03-01-2022&gt;
+
+#### Art. 2ter
+
+[<sup>1</sup> Dans les cas de fusion ou scission de société, d'apport d'universalité ou de branche d'activité, de cession d'universalité ou de branche d'activité, visés au livre XI du Code des sociétés, ainsi que dans les cas visés par la loi du 31 janvier 2009 relative à la continuité des entreprises, si l'activité consistant en la fourniture de travaux ou services de proximité visés à l'article 2, § 1er, 3°), de la présente loi est poursuivie en Région wallonne par l'entreprise bénéficiaire du transfert de tout ou partie du patrimoine de l'entreprise agréée cédante, l'agrément de l'entreprise agréée est transféré à l'entreprise bénéficiaire.
+
+L'entreprise bénéficiaire est tenue de respecter, pour le maintien de l'agrément, l'ensemble des conditions d'agrément prévues par ou en vertu de la présente loi, à l'exception pour l'entreprise bénéficiaire d'un agrément transféré d'une entreprise cédante agréée avant le 1er janvier 2013, des conditions prévues par ou en vertu des articles 2, § 2, h), et 2bis, [<sup>2</sup> § 1er,]<sup>2</sup> de la loi.
+
+L'entreprise bénéficiaire est tenue d'informer les Services que le Gouvernement désigne de la transformation juridique.
+
+Le Gouvernement peut déterminer les modalités d'application du présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-04-28/08, art. 42, 002; En vigueur : 01-01-2016 (dispositions transitoires art. 77, L2)&gt;
+
+(2)&lt;DRW 2021-12-09/15, art. 3, 004; En vigueur : 03-01-2022&gt;
+
+#### Art. 3
+
+L'utilisateur, en vue de faire accomplir des prestations de travaux ou de services de proximité, remet un titre service par heure de travail accomplie à une entreprise agréée.
+
+Pour faire effectuer les travaux ou services de proximité pour lesquels les titres-services sont utilisés, I'entreprise agréée recrute un travailleur [...], [...]. &lt;L 2003-12-22/42, art. 72, 002; En vigueur : 01-01-2004&gt; &lt;L 2004-07-09/30, art. 273, 003; En vigueur : 25-07-2004&gt;
+
+[<sup>1</sup> Le Roi peut fixer, par arrêté délibéré en Conseil des ministres, les conditions et modalités par rapport à l'obligation de l'engagement [<sup>2</sup> de demandeurs d'emploi inoccupés ou occupés à temps partiel]<sup>2</sup> et des bénéficiaires du revenu d'intégration.]<sup>1</sup>
+
+[Ce travailleur ne peut avoir un lien familial de sang ou par alliance jusqu'au deuxième degré inclus avec l'utilisateur ou un membre de la famille de l'utilisateur, ni avoir la même résidence que l'utilisateur.] &lt;L 2003-12-22/42, art. 73, 002; En vigueur : 01-01-2004&gt;
+
+[<sup>2</sup> L'Office wallon de la Formation professionnelle et de l'Emploi]<sup>2</sup> paie, au nom et pour compte de l'utilisateur, à la société émettrice, une intervention d'un montant complémentaire par heure effectuée sur la base du nombre de titres-services validés par cette société.
+
+Les titres-services sont émis dans la limite des crédits inscrits annuellement au budget à cette fin.
+
+Le Roi détermine, par arrêté délibéré en Conseil des Ministres, le mécanisme garantissant que le nombre global d'heures ne dépasse pas le montant fixé pour l'année budgétaire.
+
+La société émettrice verse à l'entreprise agréée la valeur du titre-service augmentée [du montant complémentaire visé à l'alinéa 4]. &lt;L 2003-12-22/42, art. 74, 002; En vigueur : 01-01-2004&gt;
+
+----------
+
+(1)&lt;L 2011-12-28/01, art. 77, 012; En vigueur : 01-01-2012&gt;
+
+(2)&lt;DRW 2016-04-28/08, art. 43, 002; En vigueur : 01-01-2016 (dispositions transitoires art. 77, L2)&gt;
+
+#### Art. 3bis
+
+[<sup>1</sup> [<sup>3</sup> Les services désignés par le Gouvernement peuvent interdire à l'utilisateur de commander et d'utiliser des titres-services pendant une période d'un an lorsqu'il a, de manière intentionnelle :
+
+1° participé à une infraction commise par l'entreprise à la présente loi ou ses arrêtés d'exécution ou;
+
+2° créé une situation de fait où un travailleur occupé dans le cadre d'un contrat de travail titres-services est menacé ou agressé psychiquement ou physiquement lors de l'exécution du travail;
+
+3° adopté un ensemble abusif de conduites similaires ou différentes, qui se produisent un certain temps, qui ont pour objet ou pour effet de porter atteinte à la personnalité, la dignité ou l'intégrité physique ou psychique d'un travailleur occupé dans le cadre d'un contrat de travail titres- services, lors de l'exécution de son travail, de créer un environnement intimidant, hostile, dégradant, humiliant ou offensant et qui se manifestent notamment par des paroles, des intimidations, des actes, des gestes ou des écrits unilatéraux, ces conduites pouvant notamment être liées à l'âge, à l'état civil, à la naissance, à la fortune, à la conviction religieuse ou philosophique, à la conviction politique, à la conviction syndicale, à la langue, à l'état de santé actuel ou futur, à un handicap, à une caractéristique physique ou génétique, à l'origine sociale, à la nationalité, à une prétendue race, à la couleur de peau, à l'ascendance, à l'origine nationale ou ethnique, au sexe, à l'orientation sexuelle, à l'identité et à l'expression de genre ou;
+
+4° adopté un comportement non désiré verbal, non verbal ou corporel à connotation sexuelle, ayant pour objet ou pour effet de porter atteinte à la dignité d'un travailleur occupé dans le cadre d'un contrat de travail titres- services ou de créer un environnement intimidant, hostile, dégradant, humiliant ou offensant.]<sup>3</sup>
+
+[<sup>4</sup> 5° émis une demande discriminatoire visée à l'article 3ter auprès de l'entreprise agréée.]<sup>4</sup>
+
+[<sup>3</sup> Cette interdiction peut être renouvelée à l'égard de l'utilisateur qui a commis l'un des faits visés à l'alinéa 1er, après avoir déjà subi une telle interdiction. Dans ce cas, la période d'interdiction dure, selon la gravité des faits, entre un et cinq ans.]<sup>3</sup>
+
+Dans les cas, dans les conditions et selon les règles fixées par le Roi, par arrêté délibéré en Conseil des Ministres, l'Office national de l'Emploi peut exiger le remboursement de l'intervention [<sup>2</sup> régionale]<sup>2</sup> des titres indûment introduits à l'utilisateur qui a participé délibérément à une infraction commise par l'entreprise, préposé ou son mandataire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-07-04/03, art. 11, 010; En vigueur : 19-07-2011 ; voir également l'art. 13&gt;
+
+(2)&lt;DRW 2016-04-28/08, art. 44, 002; En vigueur : 01-01-2016 (dispositions transitoires art. 77, L2)&gt;
+
+(3)&lt;DRW 2021-12-09/15, art. 4, 004; En vigueur : 03-01-2022&gt;
+
+(4)&lt;DRW 2024-04-29/24, art. 4, 005; En vigueur : 27-09-2024&gt;
+
+#### Art. 3ter.
+
+[<sup>1</sup> L'entreprise agréée refuse toute demande discriminatoire de la part d'un utilisateur. Une demande discriminatoire est définie comme une demande qui, si elle est acceptée, crée une discrimination au sens du décret du 6 novembre 2008 relatif à la lutte contre certaines formes de discrimination, de la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme et la xénophobie, de la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes ou la loi du 10 mai 2007 tendant à lutter contre certaines formes de discrimination.
+
+L'entreprise agréée signale dans les plus brefs délais, au moyen du formulaire numérique mis en place, toute demande discriminatoire qu'elle reçoit de la part d'un utilisateur aux inspecteurs visés par le décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la politique économique, à la politique de l'emploi et à la recherche scientifique ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations. L'entreprise agréée fournit tous les détails pertinents concernant la demande discriminatoire, y compris les coordonnées de l'utilisateur, la nature de la discrimination présumée et toute autre information permettant de faciliter l'enquête. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-29/24, art. 5, 005; En vigueur : 27-09-2024&gt;
+
+#### Art. 4
+
+Le Roi fixe, par arrêté délibéré en Conseil des Ministres :
+
+1° la forme du titre-service, ses modalités d'acquisition et d'utilisation;
+
+2° [<sup>2</sup> la valeur nominale du titre qui peut varier en fonction de la nature des travaux ou services de proximité et en fonction de l'utilisation, ainsi que les conditions et modalités des versements;]<sup>2</sup>
+
+[<sup>2</sup> 2bis° le montant complémentaire qui peut varier pour inciter les entreprises agréées à favoriser la stabilité et la qualité de l'emploi des travailleurs titres-services et en fonction de la nature des travaux ou services de proximité et en fonction de l'utilisation, ainsi que les conditions et modalités des versements.]<sup>2</sup>
+
+[<sup>1</sup> 3° les conditions et modalités pour augmenter l'accessibilité des titres-services pour les plus bas revenus via le développement d'un système de titres-services sociaux. Les dépenses liées à ce système de titres-services sociaux sont imputées sur le budget titres-services de [<sup>3</sup> L'Office wallon de la Formation professionnelle et de l'Emploi]<sup>3</sup>.]<sup>1</sup>
+
+[<sup>3</sup> Le Gouvernement détermine également les modalités du financement des titres-services selon les moyens disponibles annuellement au budget de la Région wallonne. En vue du financement de l'intervention régionale dans le coût des titres-services, un prélèvement annuel est effectué sur les moyens disponibles au budget général des dépenses de la Région wallonne. Le montant de ce prélèvement est inscrit au budget de l'Office wallon de la Formation professionnelle et de l'Emploi qui procède au paiement de la société émettrice.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2009-06-17/01, art. 57, 006; En vigueur : 06-07-2009&gt;
+
+(2)&lt;L 2012-06-22/02, art. 8, 013; En vigueur : 24-12-2012&gt;
+
+(3)&lt;DRW 2016-04-28/08, art. 45, 002; En vigueur : 01-01-2016 (dispositions transitoires art. 77, L2)&gt;
+
+#### Art. 4bis
+
+[<sup>1</sup> Le Roi détermine les modalités qui garantissent le suivi de la situation financière du secteur et des entreprises agréées. Il détermine également les conditions à remplir par les entreprises agréées pour permettre ce suivi, et les données éventuelles que les entreprises agréées doivent communiquer à cette fin au [<sup>2</sup> les Services que le Gouvernement désigne]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/02, art. 24, 009; En vigueur : 10-01-2010&gt;
+
+(2)&lt;DRW 2016-04-28/08, art. 46, 002; En vigueur : 01-01-2016 (dispositions transitoires art. 77, L2)&gt;
+
+#### Art. 4ter
+
+[<sup>1</sup> Le Roi peut fixer une " charte de qualité " pour les entreprises titres-services ainsi que les dispositions obligatoires devant y figurer.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/02, art. 25, 009; En vigueur : 10-01-2010&gt;
+
+#### Art. 5
+
+L'article 66, § 1, de la loi du 2 janvier 2001 portant des dispositions sociales, budgétaires et diverses, est complété par l'alinéa suivant :
+
+" Après avis du Comité de gestion de la sécurité sociale, le Roi peut majorer du coût des titres-services le montant du financement alternatif. "
+
+#### Art. 6
+
+[<sup>2</sup> L'utilisateur et l'entreprise agréée concluent une convention qui est constatée par écrit. Cette convention contient les mentions minimales suivantes :
+
+1° les tâches autorisées;
+
+2° un rappel de l'interdiction de discrimination et de harcèlement dans le cadre de l'exécution de la convention;
+
+3° les modalités selon lesquelles une prestation prévue est annulée;
+
+4° les modalités selon lesquelles l'entreprise agréée répare l'éventuel dommage causé aux biens ou aux personnes dans le cadre de l'exécution de la convention;
+
+5° lorsque l'utilisateur met à disposition du matériel ou des produits, les caractéristiques obligatoires du matériel ou des produits;
+
+6° lorsque les activités sont réalisées au lieu de résidence de l'utilisateur, les modalités selon lesquelles l'entreprise agréée peut se rendre au domicile de l'utilisateur afin de veiller au bien-être des travailleurs lors de l'exécution de leur travail.]<sup>2</sup>
+
+[<sup>2</sup> Lorsque la convention visée à l'alinéa 1er prévoit la possibilité de réaliser les activités au lieu de résidence de l'utilisateur, l'entreprise agréée accompagne le travailleur sur le lieu d'exécution avant le premier accomplissement de tout travaux ou service de proximité afin de veiller au bien- être des travailleurs lors de l'exécution de leur travail.]<sup>2</sup>
+
+La convention qui unit l'utilisateur à l'entreprise agréée est résolue de plein droit :
+
+1°) lorsque l'entreprise perd son agrément;
+
+2°) lorsqu'il n'y a plus d'émission de titres-services et que l'utilisateur n'en possède plus.
+
+[<sup>1</sup> Le Roi peut [<sup>2</sup> compléter les mentions minimales]<sup>2</sup> qui doivent figurer dans la convention qui unit l'utilisateur à l'entreprise agréée, ainsi que le modèle de cette convention.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/02, art. 26, 009; En vigueur : 10-01-2010&gt;
+
+(2)&lt;DRW 2021-12-09/15, art. 5, 004; En vigueur : 03-01-2022&gt;
+
+#### Art. 7
+
+[<sup>4</sup> L'Office wallon de la Formation professionnelle et de l'Emploi]<sup>4</sup> est subrogé de plein droit à l'utilisateur à concurrence du montant (complémentaire) versé à la société émettrice. &lt;L 2003-12-22/42, art. 75, 002; En vigueur : 01-01-2004&gt;
+
+Le Roi désigne les administrations chargées de l'exécution [<sup>3</sup> ...]<sup>3</sup> de la présente loi et de ses arrêtés d'exécution. [<sup>2</sup> Il fixe également les conditions et modalités de restitution de l'intervention [<sup>4</sup> régionale]<sup>4</sup> dans le coût du titre-service indûment accordée et du montant du prix d'acquisition du titre-service indûment accordé.]<sup>2</sup>.
+
+[<sup>3</sup> Sans préjudice des mesures visées à l'alinéa précédent et aux articles 2, § 2, alinéas 4 à 6, et 3bis de la présente loi, les infractions aux dispositions de la présente loi et de ses arrêtés d'exécution sont recherchées, constatées et sanctionnées conformément au Code pénal social.
+
+[<sup>4</sup> ...]<sup>4</sup> ]<sup>3</sup>
+
+----------
+
+(2)&lt;L 2011-07-04/03, art. 12, 010; En vigueur : 19-07-2011 ; voir également l'art. 13&gt;
+
+(3)&lt;L 2012-06-22/02, art. 17, 013; En vigueur : 24-12-2012 (AR 2012-12-14/07, art. 6, 1°)&gt;
+
+(4)&lt;DRW 2016-04-28/08, art. 47, 002; En vigueur : 01-01-2016 (dispositions transitoires art. 77, L2)&gt;
+
+#### Art. 7/1
+
+[<sup>1</sup> A l'exception des dispositions visées au chapitre II, section 2, sans préjudice des mesures visées aux articles 2, § 2, alinéas 4 à 6, et 3bis, le contrôle de l'application de la présente loi et de ses mesures d'exécution s'exerce conformément aux dispositions du décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la politique économique, à la politique de l'emploi et à la recherche scientifique ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations.
+
+Les entreprises agréées qui font l'objet du contrôle visés à l'alinéa 1er peuvent être contrôlées selon une méthode particulière déterminée par le Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2019-02-28/25, art. 118, 003; En vigueur : 01-07-2019&gt;
+
+#### Art. 7/2.
+
+[<sup>1</sup> L'entreprise agréée qui échoue à un test de situation est présumée avoir pratiqué une discrimination dans ses activités de travaux ou de services de proximité.
+
+Le test de situation est celui visé à l'article 10/1 du décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la politique économique, à la politique de l'emploi et à la recherche scientifique ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations, à l'article 10/1 du décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la reconversion et au recyclage professionnels ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations ou à l'article 42/1 du Code pénal social.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2024-04-29/24, art. 6, 005; En vigueur : 27-09-2024&gt;
+
+### Section 2. Le contrat de travail titres-services. &lt;Insérée par L 2003-12-22/42, art. 77; En vigueur : 01-01-2004&gt;
+
+#### Art. 7bis
+
+&lt;Inséré par L 2003-12-22/42, art. 77; En vigueur : 01-01-2004&gt; Pour l'application de la présente Section, il faut entendre par contrat de travail titres-services : le contrat de travail par lequel un travailleur s'engage à effectuer, sous l'autorité d'un employeur agréé dans le cadre du présent chapitre et contre rémunération, des prestations de travail qui donnent droit à l'octroi d'un titre-service.
+
+#### Art. 7ter
+
+&lt;Inséré par L 2003-12-22/42, art. 77; En vigueur : 01-01-2004&gt; Le contrat de travail titres-services est régi par les dispositions de la loi du 3 juillet 1978 relative aux contrats de travail sauf pour ce qui concerne les règles spécifiques prévues dans la présente loi.
+
+#### Art. 7quater
+
+&lt;Inséré par L 2003-12-22/42, art. 77; En vigueur : 01-01-2004&gt; L'intention de conclure un contrat de travail titres-services doit être constatée par écrit par les deux parties, pour chaque travailleur individuellement au plus tard au moment de la première prestation du travailleur dans le cadre des titres-services auprès de l'entreprise agréée.
+
+Le contrat de travail titres-services doit être constaté par écrit pour chaque travailleur individuellement au plus tard dans les deux jours ouvrables à compter du moment de l'entrée en service du travailleur.
+
+#### Art. 7quinquies
+
+&lt;Inséré par L 2003-12-22/42, art. 77; En vigueur : 01-01-2004&gt; Le contrat de travail titres-services comporte au moins les mentions spécifiques suivantes :
+
+1° l'identité des parties;
+
+2° le numéro d'agrément de l'employeur attribué dans le cadre du présent chapitre;
+
+3° la date du début d'exécution du contrat;
+
+4° la date de fin du contrat s'il est conclu pour une durée déterminée;
+
+5° la durée et l'horaire de travail; si le contrat est conclu pour une durée indéterminée, il détermine comment et dans quel délai le travailleur est informé de son horaire de travail; à défaut de disposition prévue dans le contrat conclu pour une durée indéterminée, les horaires doivent être portés à la connaissance du travailleur au moins sept jours à l'avance.
+
+#### Art. 7sexies
+
+&lt;Abrogé par L 2008-12-22/33, art. 192, 007; En vigueur : 01-09-2009&gt;
+
+#### Art. 7septies
+
+[<sup>1</sup> La conclusion de contrats de travail à durée déterminée successifs n'entraîne pas la conclusion d'un contrat de travail à durée indeterminée pendant une période de trois mois à dater du jour de la première déclaration préalable à l'emploi pour un contrat de travail titres-services conclu chez le même employeur.
+
+Pendant la période de trois mois telle que visée à l'alinéa 1er, il peut être dérogé a l'obligation de conclure un contrat de travail à temps partiel au moins pour un tiers de la durée hebdomadaire de travail applicable à un travailleur à temps plein prévue à l'article 11bis de la loi du 3 juillet 1978 relative aux contrats de travail. Durant cette même période de trois mois, il ne peut jamais être dérogé à la limite minimale de chaque période de travail fixée à l'article 21 de la loi du 16 mars 1971 sur le travail.
+
+Si, à l'expiration de la période de trois mois précitée, des prestations sont effectuées au profit du même employeur dans les liens d'un contrat de travail titres-services, les parties sont liées par un contrat de travail à durée indéterminée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2008-12-22/33, art. 193, 007; En vigueur : 01-09-2009; voir également l'art. 197&gt;
+
+#### Art. 7octies
+
+[<sup>1</sup> Dès le premier jour travaillé du quatrième mois à dater du jour de la première déclaration préalable à l'emploi chez le même employeur, les parties déterminent le régime de travail applicable au contrat conclu à durée indéterminée. Ce contrat peut être conclu à temps plein ou à temps partiel conformément à l'article 11bis de la loi du 3 juillet 1978 relative aux contrats de travail. Il ne peut jamais être dérogé à la limite minimale de chaque période de travail fixée à l'article 21 de la loi du 16 mars 1971 sur le travail.
+
+Il peut être dérogé à l'obligation de conclure un contrat de travail à temps partiel au moins pour un tiers de la durée hebdomadaire de travail applicable à un travailleur à temps plein prévue à l'article 11bis de la loi du 3 juillet 1978 relative aux contrats de travail. La durée minimale hebdomadaire de travail ne peut être inférieure à la limite fixée par le Roi.
+
+Toutefois, pour les travailleurs occupes avec un contrat de travail titres-services qui, pendant leur occupation ont droit à une allocation de chomage, au revenu d'intégration ou à l'aide sociale financière, la durée ne peut en aucun cas être inférieure à un tiers de la durée hebdomadaire de travail applicable à un travailleur occupé à temps plein prévue à l'article 11bis de la loi du 3 juillet 1978 relative aux contrats de travail. Le Roi détermine la durée hebdomadaire minimale de travail des contrats de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2008-12-22/33, art. 194, 007; En vigueur : 01-09-2009; voir également l'art. 197&gt;
+
+#### Art. 7nonies
+
+&lt;Inséré par L 2003-12-22/42, art. 77; En vigueur : 01-01-2004&gt; Le Roi détermine les modalités particulières de la réglementation sur la sécurité, la santé et le bien-être applicables à l'exécution d'un contrat de travail titres-services.
+
+#### Art. 7decies
+
+&lt;Inséré par L 2003-12-22/42, art. 77; En vigueur : 01-01-2004&gt; Pour les travailleurs et les employeurs qui ressortissent à la sous-commission paritaire autonome instituée en vertu de l'article 27, alinéa 4, de la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et la mise de travailleurs à disposition d'utilisateurs, les conditions de travail et de rémunération sont déterminées par le Roi, sur base des dispositions applicables aux travailleurs ressortissant à la commission paritaire pour les aides familiales et les aides seniors.
+
+Il peut faire application d'une autre référence sur avis du Conseil national du travail.
+
+Ces conditions de travail et de rémunération déterminées par le Roi cesseront de s'appliquer dès l'entrée en vigueur de dispositions réglementaires ou conventionnelles spécifiques aux travailleurs et aux employeurs ressortissant à la sous-commission paritaire autonome instituée en vertu de l'article 27, alinéa 4, de la loi du 24 juillet 1987 sur le travail temporaire, le travail intérimaire et mise de travailleurs à disposition d'utilisateurs.
+
+#### Art. 8
+
+L'intitulé de la sous-section 2quater du titre II, chapitre III, section première du Code des impôts sur les revenus 1992 est complété comme suit : " et pour des prestations payées avec des titres-services. ".
+
+#### Art. 9
+
+A l'article 14521 du même Code, remplacé par la loi du 21 décembre 1994 et modifié par la loi du 7 avril 1999, sont apportées les modifications suivantes :
+
+1°) l'alinéa 1 est complété comme suit " ou sur les dépenses qui sont effectivement payées pendant la période imposable pour des prestations payées avec des titres-services. ";
+
+2°) l'alinéa 2 est complété comme suit : " ou de la valeur nominale des titres-services visés dans la loi du 20 juillet 2001 visant à favoriser le développement de services et d'emplois de proximité. "
+
+### Section 3. - le fonds de formation titres-services &lt;Insérée par L 2006-12-27/30, art. 258; En vigueur : 07-01-2007&gt;
+
+#### Art. 9bis
+
+[<sup>1</sup> § 1er. L'entreprise agréée peut obtenir, auprès de l'Office wallon de la Formation professionnelle et de l'Emploi, le remboursement partiel des frais de formation des travailleurs occupés sous contrat de travail titres-services.
+
+Le Gouvernement wallon détermine les critères, les conditions et les règles concernant la demande et l'octroi de ce remboursement partiel.
+
+§ 2. En vue du financement du remboursement partiel des frais de formation, visé au paragraphe 1er, un prélèvement annuel est effectué sur les moyens disponibles au budget général des dépenses de la Région wallonne.
+
+Le montant visé à l'alinéa précédent est inscrit au budget de l'Office wallon de la Formation professionnelle et de l'emploi qui procèdera au remboursement à l'entreprise agréée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-04-28/08, art. 49, 002; En vigueur : 01-04-2015 (dispositions transitoires art. 77, L2)&gt;
+
+## Chapitre III. - Evaluation. &lt;Inséré par L 2003-12-22/42, art. 78; En vigueur : 01-01-2004&gt;
+
+#### Art. 10
+
+&lt;L 2003-12-22/42, art. 79, 002; En vigueur : 01-01-2004&gt; A partir de l'année 2005, le ministre qui a l'Emploi dans ses compétences élabore, pour le mois de (juin) au plus tard, un rapport annuel relatif au régime des titres-services. Ce rapport d'évaluation est transmis [<sup>2</sup> au Gouvernement et au Parlement]<sup>2</sup>. &lt;L 2008-06-08/30, art. 75, 005; En vigueur : 26-06-2008&gt;
+
+Ce rapport d'évaluation porte notamment sur :
+
+\- les effets sur l'emploi de la mesure;
+
+\- le [<sup>2</sup> ...]<sup>2</sup>;
+
+\- [<sup>1</sup> ...]<sup>1</sup>;
+
+\- les conditions salariales et de travail applicables;
+
+[<sup>3</sup> - le critère de genre]<sup>3</sup>.
+
+----------
+
+(1)&lt;L 2008-12-22/33, art. 195, 007; En vigueur : 01-09-2009&gt;
+
+(2)&lt;DRW 2016-04-28/08, art. 50, 002; En vigueur : 01-01-2016 (dispositions transitoires art. 77, L2)&gt;
+
+(3)&lt;DRW 2021-12-09/15, art. 6, 004; En vigueur : 03-01-2022&gt;
+
+## Chapitre IV. - Autres services et emplois de proximité. &lt;Insére» par L 2003-12-22/42, art. 80; En vigueur : 01-01-2004&gt;
+
+#### Art. 10bis
+
+&lt;Inséré par L 2003-12-22/42, art. 80; En vigueur : 01-01-2004&gt; Le traitement fiscal lié aux titres-services visés au Chapitre II, ne peut être accordé aux autres activités que l'aide à domicile de nature ménagère que si les conditions suivantes sont remplies de façon cumulative :
+
+1° il s'agit d'activités, marchandes ou non marchandes, créatrices d'emploi, qui visent à rencontrer des besoins individuels, personnels ou familiaux dans le cadre de la vie quotidienne et qui sont sélectionnées par la région ou la communauté compétente en tant qu'activités qui peuvent être rémunérées par un titre-service;
+
+2° les utilisateurs sont des personnes physiques;
+
+3° les activités sont accomplies par une entreprise agréée à cette fin par la région ou la communauté compétente;
+
+4° la région ou la communauté compétente doit inscrire dans ces conditions d'agrément que l'entreprise agréée offre vis-à-vis de ses travailleurs, en ce qui concerne le type de contrat et le régime de travail, au moins les mêmes garanties que celles fixées par le Roi en application du Chapitre II, Section 2, et que l'agrément peut être retiré si ces garanties ne sont pas respectées;
+
+5° la qualité et la sécurité de ces services sont garanties à l'utilisateur;
+
+6° la région ou la communauté compétente a conclu un accord bilatéral de coopération avec l'autorité fédérale concernant cette matière.
+
+## Chapitre IV/1. [<sup>1</sup> Dispositions pénales et amendes administratives]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2019-02-28/25, art. 119, 003; En vigueur : 01-07-2019&gt;
+
+#### Art. 10ter
+
+[<sup>1</sup> § 1er. Est puni soit d'un emprisonnement de six mois à trois ans et d'une amende pénale de 600 à 6.000 euros ou de l'une de ces deux peines seulement, soit d'une amende administrative de 300 à 3.000 euros, l'employeur, son préposé, ou son mandataire qui, en contravention avec la loi :
+
+1° effectue, dans le cadre de travaux ou de services de proximité, des activités qui ne sont pas autorisées par la décision d'agrément;
+
+2° accepte des titres-services en paiement d'activités qui ne sont pas des travaux ou des services de proximité;
+
+3° accepte et transmet à la société émettrice, en vue du remboursement, plus de titres-services pour des prestations de travaux ou de services de proximité effectuées durant un trimestre déterminé, que le nombre d'heures de travail déclarées à l'O.N.S.S. pour des prestations de travaux ou de services de proximité effectuées pendant le même trimestre par des travailleurs sous contrat de travail titres-services.
+
+[<sup>3</sup> 4° fournit des travaux ou des services de proximité sans être agréé à cette fin.]<sup>3</sup>
+
+§ 2. Est puni soit d'une amende pénale de 100 à 1.000 euros, soit d'une amende administrative de 50 à 500 euros, l'employeur, son préposé, ou son mandataire qui, en contravention avec la loi :
+
+1° accepte des titres-services de l'utilisateur alors que les travaux ou les services de proximité ne sont pas encore effectués;
+
+2° fait effectuer des travaux ou des services de proximité par un travailleur qui n'a pas été recruté pour accomplir des travaux ou des services de proximité;
+
+3° n'organise pas l'enregistrement des activités titres-services de manière telle que l'on puisse vérifier exactement la relation entre les prestations mensuelles de chaque travailleur titres-services individuel, l'utilisateur et les titres-services correspondants;
+
+4° [<sup>2</sup> ...]<sup>2</sup>
+
+5° exerce une autre activité que les activités pour lesquelles un agrément peut être accordé sur la base de la loi et ne crée pas dans son sein une " section sui generis " qui s'occupe spécifiquement de l'occupation dans le cadre du régime des titres-services tel que visée dans l'article 2, paragraphe 2, alinéa 1er, a);
+
+6° fait effectuer des travaux ou des services financés par les titres-services en sous-traitance par une autre entreprise ou un autre organisme;
+
+7° fait payer par des titres-services un autre volume de travail que celui correspondant aux activités d'aide à domicile de nature ménagère venant en supplément à partir de son agrément.]<sup>1</sup>
+
+[<sup>2</sup> § 3. Est puni soit d'une amende pénale de 50 à 500 euros, soit d'une amende administrative de 25 à 250 euros, l'employeur, son préposé ou son mandataire qui, en contravention avec la présente loi :
+
+1° a représenté l'utilisateur pour l'application de l'article 3, § 2, alinéa 1er, ou de l'article 6 de l'arrêté royal du 12 décembre 2001 concernant les titres-services ou qui représente le travailleur pour signer le titre-service;
+
+2° n'a pas attribué par priorité à un travailleur qui, en raison de son occupation à temps partiel, est inscrit comme chercheur d'emploi auprès d'un service public de l'Emploi compétent en Belgique et bénéficie ou non, le cas échéant, d'une allocation de chômage, d'un revenu d'intégration ou d'une aide sociale financière, un emploi à temps plein ou un autre emploi à temps partiel qui, presté seul ou à titre complémentaire, lui procure un régime à temps partiel nouveau, dont la durée de travail hebdomadaire est supérieure à celle du régime de travail à temps partiel dans lequel il travaille déjà; ";
+
+3° a détenu les codes d'identification de l'utilisateur.]<sup>2</sup>
+
+[<sup>3</sup> 4° n'a pas transmis à la société émettrice en vue du remboursement, les titres-services groupés par mois au cours duquel les prestations sont effectivement effectuées.]<sup>3</sup>
+
+----------
+
+(1)&lt;DRW 2016-04-28/08, art. 51, 002; En vigueur : 21-05-2016 (dispositions transitoires art. 77, L2)&gt;
+
+(2)&lt;DRW 2021-12-09/15, art. 7, 004; En vigueur : 03-01-2022&gt;
+
+(3)&lt;DRW 2024-04-29/24, art. 7, 005; En vigueur : 27-09-2024&gt;
+
+#### Art. 10quater
+
+[<sup>1</sup> § 1er. Est puni d'une amende administrative de 50 à 200 euros, l'employeur, son préposé, ou son mandataire qui, en contravention avec la présente loi et ses mesures d'exécution, n'a pas respecté l'obligation fixée par ou en vertu de l'article 2, § 2, alinéa 1er, k. ou l.
+
+L'amende administrative est multipliée par le nombre d'heures de formation non organisées et le nombre de travailleurs concernés.
+
+§ 2. Est punie d'une amende administrative de 10 à 20 euros, l'entreprise agréée qui n'a pas respecté l'obligation prévue à l'article 6, alinéa 1er.
+
+L'amende administrative est multipliée par le nombre de conventions n'ayant pas été constatées par écrit.
+
+§ 3. Est punie d'une amende administrative de 10 à 100 euros, l'entreprise agréée qui fournit des informations inexactes dans le cadre des demandes de remboursement partiel des frais de formation.
+
+§ 4. Est punie d'une amende administrative de 10 à 100 euros, l'entreprise agréée qui :
+
+1° n'a pas engagé, par année, et pour chaque unité d'établissement de l'entreprise agréée, soixante pour cent des travailleurs nouvellement engagés avec un contrat de travail titres-services qui sont, au moment de leur engagement, des demandeurs d'emploi inoccupés ou occupés à temps partiel ou des bénéficiaires du revenu d'intégration, si elle n'a pas été dispensée de cette obligation par les services désignés par le Gouvernement;
+
+2° ne compte pas dans son entreprise une personne qui, dans les [<sup>2</sup> cinq]<sup>2</sup> années écoulées, a participé à la session d'informations concernant les titres- services, organisée par les services désignés par le Gouvernement et dont le contenu est arrêté et élaboré par l'Office wallon de la Formation professionnelle et de l'Emploi;
+
+3° ne respecte pas la règle visée à l'article 2, § 2, alinéa 1er, i.;
+
+4° n'a pas contrôlé que les prestations concernant les activités de transport accompagné de personnes à mobilité réduite sont uniquement fournies en faveur des utilisateurs visés à l'article 1er, alinéa 5, de l'arrêté royal du 12 décembre 2001 concernant les titres-services.]<sup>1</sup>
+
+[<sup>2</sup> § 5. L'entreprise agréée, son préposé, ou son mandataire qui, n'a pas dénoncé une demande discriminatoire en contravention avec l'article 3ter, alinéa 2, est punie d'une amende administrative de 50 à 500 euros.]<sup>2</sup>
+
+----------
+
+(1)&lt;DRW 2021-12-09/15, art. 8, 004; En vigueur : 03-01-2022&gt;
+
+(2)&lt;DRW 2024-04-29/24, art. 8, 005; En vigueur : 27-09-2024&gt;
+
+#### Art. 10quinquies
+
+[<sup>1</sup> § 1er. Sont punis soit d'une amende pénale de 100 à 1.000 euros, soit d'une amende administrative de 50 à 500 euros, l'utilisateur et le travailleur qui, en contravention avec la loi, participent sciemment et volontairement à une infraction visée à l'article 10ter [<sup>2</sup> , §§ 1er et 2,]<sup>2</sup> commise par un employeur, son préposé ou son mandataire.
+
+§ 2. Sont punis soit d'une amende pénale de 50 à 500 euros, soit d'une amende administrative de 25 à 250 euros, l'utilisateur et le travailleur qui, en contravention avec la loi, participent sciemment et volontairement à une infraction visée à [<sup>2</sup> l'article 10ter, § 3,]<sup>2</sup> commise par un employeur, son préposé ou son mandataire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-04-28/08, art. 53, 002; En vigueur : 21-05-2016 (dispositions transitoires art. 77, L2)&gt;
+
+(2)&lt;DRW 2021-12-09/15, art. 9, 004; En vigueur : 03-01-2022&gt;
+
+#### Art. 10sexies
+
+[<sup>1</sup> Pour les infractions, visées aux articles 10ter et 10quater, [<sup>3</sup> § 2,]<sup>3</sup> l'amende [<sup>3</sup> ...]<sup>3</sup> est multipliée par le nombre de travailleurs associés à l'infraction. L'amende [<sup>3</sup> ...]<sup>3</sup> multipliée ne peut toutefois pas dépasser le centuple de l'amende maximale.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2016-04-28/08, art. 54, 002; En vigueur : 21-05-2016 (dispositions transitoires art. 77, L2)&gt;
+
+(2)&lt;DRW 2019-02-28/25, art. 121, 003; En vigueur : 01-07-2019&gt;
+
+(3)&lt;DRW 2021-12-09/15, art. 10, 004; En vigueur : 03-01-2022&gt;
+
+#### Art. 10septies
+
+[<sup>1</sup> Les dispositions du chapitre 9 du décret du 28 février 2019 relatif au contrôle des législations et réglementations relatives à la politique économique, à la politique de l'emploi et à la recherche scientifique ainsi qu'à l'instauration d'amendes administratives applicables en cas d'infraction à ces législations et réglementations s'appliquent aux amendes administratives déterminées par les article s 10ter, 10quater et 10quinquies.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2019-02-28/25, art. 122, 003; En vigueur : 01-07-2019&gt;
+
+#### Art. 10septies/1
+
+[<sup>1</sup> En cas de récidive dans les cinq ans, la sanction [<sup>2</sup> pénale]<sup>2</sup> maximale visée aux articles 10ter à 10sexies inclus, peut être reportée au double du maximum.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-04-28/08, art. 55, 002; En vigueur : 21-05-2016 (dispositions transitoires art. 77, L2)&gt;
+
+(2)&lt;DRW 2019-02-28/25, art. 123, 003; En vigueur : 01-07-2019&gt;
+
+#### Art. 10septies/2
+
+[<sup>1</sup> Les personnes qui ont été condamnées, au pénal ou à des amendes administratives, comme auteurs ou complices d'infractions visées aux articles 10ter ou 10quater, sont tenues solidairement au paiement intégral de l'intervention et du montant du prix d'acquisition du titre-service indûment octroyé à l'entreprise agréée.
+
+Les personnes prévenues comme auteurs ou complices d'infractions visées aux articles 10ter ou 10quater sont également tenues au paiement intégral de l'intervention et du montant du prix d'acquisition du titre-service indûment octroyé à l'entreprise agréée, lorsque les faits constitutifs de prévention sont déclarés établis et qu'elles bénéficient :
+
+1° d'une suspension du prononcé de la condamnation ou d'un sursis à l'exécution des peines, prévus par la loi du 29 juin 1964 concernant la suspension, le sursis et la probation;
+
+2° d'une condamnation par simple déclaration de culpabilité, prévue à l'article 21ter du Titre préliminaire du Code d'instruction criminelle;
+
+3° de la procédure de déclaration préalable de culpabilité, prévue à l'article 216 du Code d'instruction criminelle;
+
+4° de la prescription de l'action publique.
+
+Les personnes physiques ou morales sont civilement et solidairement responsables des amendes et des frais résultant des condamnations prononcées en vertu des articles 10ter à 10septies/1 contre leurs préposés ou leurs administrateurs, gérants ou liquidateurs dans le cadre de l'exercice de leurs fonctions, en droit ou en fait.]<sup>1</sup>
+
+----------
+
+(1)&lt;DRW 2021-12-09/15, art. 11, 004; En vigueur : 03-01-2022&gt;
+
+#### Art. 10septies/3
+
+[<sup>1</sup> Les montants indûment reçus sont recouvrés d'office.
+
+Le Gouvernement peut arrêter les modalités relatives au recouvrement des montants indûment reçus.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-04-28/08, art. 57, 002; En vigueur : 21-05-2016 (dispositions transitoires art. 77, L2)&gt;
+
+#### Art. 10septies/4
+
+[<sup>1</sup> [<sup>2</sup> Pour les sanctions pénales, toutes les dispositions]<sup>2</sup> du livre Ier du Code pénal, à l'exception du chapitre V, mais y compris le chapitre VII et l'article 85, sont applicables aux infractions définies par la présente loi. En cas de récidive, l'article 85 du Code pénal ne s'appliquera pas.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DRW 2016-04-28/08, art. 58, 002; En vigueur : 21-05-2016 (dispositions transitoires art. 77, L2)&gt;
+
+(2)&lt;DRW 2019-02-28/25, art. 124, 003; En vigueur : 01-07-2019&gt;
+
+## Chapitre IV/2. [<sup>1</sup> Recours [<sup>2</sup> ...]<sup>2</sup> ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-07-04/04, art. 4, 011; En vigueur : 19-07-2011&gt;
+
+(2)&lt;DRW 2016-04-28/08, art. 59, 002; En vigueur : 21-05-2016 (dispositions transitoires art. 77, L2)&gt;
+
+#### Art. 10octies
+
+[<sup>1</sup> Les décisions prises par [<sup>2</sup> les Services que le Gouvernement désigne et par l'Office wallon de la Formation professionnelle et de l'Emploi]<sup>2</sup> en exécution de la présente loi et de ses arrêtés d'exécution sont susceptibles d'un recours devant le tribunal du travail compétent pour le ressort territorial où l'entreprise a son siège social.
+
+Ce recours doit, à peine de forclusion, être introduit par requête devant le tribunal du travail compétent dans un délai de trois mois à compter de la notification de la décision ou, à défaut de notification, dans un délai de trois mois à compter du jour où l'intéressé en a eu connaissance.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-07-04/04, art. 5, 011; En vigueur : 19-07-2011&gt;
+
+(2)&lt;DRW 2016-04-28/08, art. 60, 002; En vigueur : 21-05-2016 (dispositions transitoires art. 77, L2)&gt;
+
+## Chapitre V. Entrée en vigueur. &lt;Insérée par L 2003-12-22/42, art. 81; En vigueur : 01-01-2004&gt;
+
+#### Art. 11
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 20 juillet 2001.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de l'Emploi,
+
+Mme L. ONKELINX
+
+Le Ministre du Budget,
+
+J. VANDE LANOTTTE
+
+Le Ministre des Affaires sociales,
+
+F. VANDENBROUCKE
+
+Le Ministre des Finances,
+
+D. REYNDERS
+
+Scellé du sceau de l'Etat,
+
+Le Ministre de la Justice,
+
+M. VERWILGHEN
