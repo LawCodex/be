@@ -1,0 +1,102 @@
+---
+title: "Loi modifiant la loi du 3 décembre 2017 portant création de l'Autorité de protection des données"
+identifier: "2018012305"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2018/05/25/2018012305/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2018-05-25
+published: 2018-05-28
+entry_into_force: 2018-05-25
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2018/05/25/2018012305/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 25 MAI 2018. - Loi modifiant la loi du 3 décembre 2017 portant création de l'Autorité de protection des données
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition générale
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## CHAPITRE 2. - Modifications de la loi du 3 décembre 2017 portant création de l'Autorité de protection des données
+
+### Art. 2
+
+L'article 114 de la loi du 3 décembre 2017 portant création de l'Autorité de protection des données est remplacé par ce qui suit:
+
+"Art. 114. § 1er. Le mandat des membres de la Commission de la protection de la vie privée prend fin le jour où les membres du Comité de direction prêtent le serment visé à l'article 12, alinéa 3, et signent la déclaration d'absence de conflits d'intérêts visée à l'article 44, § 2, alinéa 1er.
+
+Pendant la période entre le 25 mai 2018 et le jour visé à l'alinéa 1er, les membres de la Commission de la protection de la vie privée exercent les missions et les compétences de l'Autorité de protection des données.
+
+Jusqu'à la fin de leur mandat, la rémunération et le statut des membres de la Commission de la protection de la vie privée sont réglés conformément à la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel.
+
+§ 2. Le mandat des membres externes des comités sectoriels de l'autorité fédérale, de la Banque-Carrefour des Entreprises et du Comité de Surveillance statistique prend fin le 25 mai 2018.
+
+§ 3. Le mandat des membres externes du comité sectoriel de la sécurité sociale et de la santé cesse le jour où la loi met fin à leur mandat.
+
+Pendant la période entre le 25 mai 2018 et le jour visé à l'alinéa 1er, le comité sectoriel de la sécurité sociale et de la santé se réunit comme une seule instance intégrant les deux sections et il exerce uniquement les tâches qui sont compatibles avec le Règlement 2016/679.
+
+Pendant la période visée à l'alinéa 2, le président du comité sectoriel de la sécurité sociale et de la santé est considéré comme un membre externe et est traité comme tel.
+
+Pendant la période visée à l'alinéa 2, les frais de fonctionnement, les indemnités et les remboursements de frais sont pris en charge par la Banque-Carrefour de la Sécurité sociale et la Plate-forme eHealth.
+
+§ 4. Le mandat des membres externes du comité sectoriel du Registre national cesse le jour où la loi met fin à leur mandat.
+
+Pendant la période entre le 25 mai 2018 et le jour visé à l'alinéa 1er, le comité sectoriel du Registre national exerce les tâches des comités sectoriels du Registre national et pour l'autorité fédérale qui sont compatibles avec le Règlement 216/679.
+
+Pendant la période visée à l'alinéa 2, le président du comité sectoriel du Registre national est considéré comme un membre externe et est traité comme tel.
+
+Pendant la période visée à l'alinéa 2, les frais de fonctionnement, les indemnités et les remboursements de frais sont pris en charge par le Service public fédéral Stratégie et Appui.
+
+Le Service public fédéral Stratégie et Appui rédige les avis techniques et juridiques, le cas échéant en concertation avec le Service public fédéral Intérieur.".
+
+### Art. 3
+
+Dans la même loi, il est inséré un article 116 rédigé comme suit:
+
+"En application de l'article 51, paragraphe 3, et de l'article 68, paragraphe 4, du Règlement 2016/679 et en application de l'article 41, paragraphe 4, de la directive (UE) 2016/680 du Parlement européen et du Conseil du 27 avril 2016 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel par les autorités compétentes à des fins de prévention et de détection des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, et à la libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, l'Autorité de protection des données est le représentant commun des autorités de contrôle belges au sein du Comité européen de la protection des données.".
+
+## CHAPITRE 3. - Disposition finale
+
+### Art. 4
+
+La présente loi produit ses effets le 25 mai 2018.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 25 mai 2018.
+
+PHILIPPE
+
+Par le Roi :
+
+La Ministre des Affaires sociales et de la Santé publique,
+
+M. DE BLOCK
+
+Le Ministre de la Justice,
+
+K. GEENS
+
+Le Secrétaire d'Etat à la Lutte contre la Fraude sociale, à la Protection de la Vie privée et à la Mer du Nord, adjoint à la Ministre des Affaires sociales et de la Santé publique,
+
+Ph. DE BACKER
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS

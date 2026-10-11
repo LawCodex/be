@@ -1,0 +1,176 @@
+---
+title: "Loi relative au paiement des pensions, allocations et rentes du secteur public"
+identifier: "2018031544"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/11/2018031544/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2018-07-11
+published: 2018-07-20
+entry_into_force: 2018-07-30
+last_amended: 2026-04-14
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/11/2018031544/justel"
+department: "Sécurité sociale"
+justel_note: "Consultation des versions antérieures à partir du 20-07-2018 et mise à jour au 14-04-2026"
+retrieved: 2026-10-11
+---
+
+# 11 JUILLET 2018. - Loi relative au paiement des pensions, allocations et rentes du secteur public
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition générale
+
+#### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## CHAPITRE 2. - Définitions
+
+#### Art. 2
+
+Pour l'application de la présente loi, l'on entend par :
+
+1° "la loi du 18 mars 2016" : la loi du 18 mars 2016 relative au Service fédéral des Pensions;
+
+2° "Service" : le Service fédéral des Pensions visé à l'article 40 de l'arrêté royal n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés;
+
+3° "Pensions" :
+
+a) les pensions et allocations visées à l'article 13, 1°, de la loi du 18 mars 2016;
+
+b) les pensions et rentes visées à l'article 2, 11°, de la loi du 18 mars 2016;
+
+c) les pensions et rentes visées à l'article 2, 12°, a) à f), de la loi du 18 mars 2016.
+
+## CHAPITRE 3. - Modalités de paiement des pensions
+
+### Section 1re. - Champ d'application
+
+#### Art. 3
+
+Nonobstant toute autre disposition légale, réglementaire ou contractuelle, le présent chapitre s'applique aux pensions payées par le Service.
+
+### Section 2. - Echéance du paiement
+
+#### Art. 4
+
+Les pensions périodiques sont payables par mois, chacune des mensualités étant payée au cours du mois auquel elle se rapporte.
+
+Les modalités du paiement sont fixées par le Service conformément aux alinéas 3 à 5.
+
+Sous réserve de l'application de l'alinéa 4, les pensions sont mises en paiement à la dernière, dans l'ordre chronologique, des dates de mise en paiement mensuelles, sauf si le titulaire de la pension bénéficie déjà d'une autre pension mise en paiement à une date antérieure, auquel cas l'ensemble des pensions est mis en paiement à cette date antérieure.
+
+Par dérogation à l'alinéa 3, les pensions de retraite accordées aux personnes qui, à la veille de la prise de cours de leur pension, bénéficiaient d'un traitement payé par anticipation en vertu de dispositions légales, réglementaires, statutaires ou contractuelles, ainsi que les pensions de survie et les allocations de transition accordées aux ayants-droit des personnes qui, au moment de leur décès, bénéficiaient d'un traitement ou d'une pension de retraite payés par anticipation, sont mises en paiement à la première, dans l'ordre chronologique, des dates de mise en paiement mensuelles. Il en va de même pour les éventuelles autres pensions dont bénéficieraient les personnes et les ayants-droit concernés.
+
+Pour l'application des alinéas 3 et 4, il est également tenu compte des pensions de retraite accordées en tant qu'ancien travailleur salarié ou travailleur indépendant, ainsi que des pensions de survie et des allocations de transition octroyées en qualité d'ayant droit d'un tel travailleur salarié ou indépendant.
+
+### Section 3. - Mode de paiement
+
+#### Art. 5
+
+[<sup>1</sup> § 1er. Les pensions sont payées en Belgique par virement sur un compte de paiement personnel, conformément aux modalités fixées en vertu de l'article 31, alinéa 1er, 2°, de l'arrêté royal n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés.
+
+Si le bénéficiaire n'a pas accès aux services bancaires de base tels que visés aux articles VII.56/1 à VII.59/3 du Code de droit économique, par dérogation à l'alinéa 1er et sur demande du bénéficiaire adressée au Service, le paiement en Belgique est effectué au moyen d'un chèque circulaire dont le montant est payable au bénéficiaire.
+
+Par dérogation aux alinéas 1er et 2, à défaut d'un numéro d'identifiant unique correct de compte de paiement, le paiement destiné aux bénéficiaires pour lesquels il était effectué en Belgique par assignation postale jusqu'au 31 décembre 2025 inclus est, à partir du 1er janvier 2026, automatiquement réalisé au moyen d'un chèque circulaire dont le montant est payable au bénéficiaire.
+
+L'alinéa 3 n'est pas d'application pour:
+
+a) les paiements annuels visés à l'article 7;
+
+b) les paiements mensuels en deçà de 50 euros. Pour la détermination de ce montant, il est tenu compte de l'ensemble des pensions légales et des autres avantages payés par le Service, à l'exception du pécule de vacances et tout autre avantage en tenant lieu.
+
+§ 2. Les pensions sont payées à l'étranger par virement sur un compte de paiement personnel conformément aux modalités fixées en vertu de l'article 31, alinéa 1er, 2°, de l'arrêté royal n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés.
+
+Par dérogation à l'alinéa 1er, à défaut d'un numéro d'identifiant unique correct de compte de paiement, le paiement à l'étranger est effectué par l'émission d'un moyen de paiement international ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-04-02/04, art. 13, 002; En vigueur : 01-01-2026&gt;
+
+#### Art. 6
+
+L'exécution des paiements visés à l'[<sup>1</sup> article 5, § 1er, alinéas 2 et 3, et § 2, alinéa 2]<sup>1</sup>, et l'envoi de pièces se font à la résidence principale du bénéficiaire.
+
+Il peut toutefois être dérogé à cette obligation, pour l'envoi des pièces uniquement, par voie postale ou par voie électronique, sur demande écrite du bénéficiaire adressée au Service.
+
+----------
+
+(1)&lt;L 2026-04-02/04, art. 14, 002; En vigueur : 01-01-2026&gt;
+
+### Section 4. - Paiement annuel
+
+#### Art. 7
+
+Par dérogation à l'article 4, les paiements visés à l'[<sup>1</sup> article 5, § 1er, alinéas 2 et 3, et § 2, alinéa 2]<sup>1</sup>, s'effectuent annuellement en décembre pour les arrérages échus au cours de l'année lorsque le montant global à payer mensuellement au même bénéficiaire est inférieur à 23,35 euros. Ce montant est lié à l'indice-pivot 138,01 de l'indice des prix à la consommation.
+
+Le montant à payer est le cas échéant augmenté du pécule de vacances si les conditions d'octroi de ce dernier sont réunies.
+
+Le Roi peut adapter le montant visé à l'alinéa 1er au montant correspondant fixé en vertu de l'article 31, alinéa 1er, 2°, de l'arrêté royal n° 50 du 24 octobre 1967 relatif à la pension de retraite et de survie des travailleurs salariés.
+
+----------
+
+(1)&lt;L 2026-04-02/04, art. 15, 002; En vigueur : 01-01-2026&gt;
+
+### Section 5. - Délai de prescription en matière de paiement des pensions
+
+#### Art. 8
+
+Le paiement des pensions se prescrit par dix ans à compter du jour de leur exigibilité.
+
+Outre les causes visées à l'article 2244 du Code civil, la prescription est interrompue par une demande introduite par lettre recommandée auprès du Service ou auprès de l'organisme de paiement compétent.
+
+Pour l'application de l'article 2248 du même Code, la notification, selon le cas, d'une première décision, d'une nouvelle décision et de la rectification d'une erreur de droit ou matérielle dans l'exécution d'une décision, est assimilée à la reconnaissance par le débiteur du droit de celui contre lequel la prescription court.
+
+### Section 6. - Disposition fiscale
+
+#### Art. 9
+
+Dans l'article 171, 6°, quatrième tiret, du Code des impôts sur les revenus 1992, inséré par la loi du 22 décembre 2008 et remplacé par la loi du 29 décembre 2010, les mots "les rémunérations visées à l'article 31, alinéa 2, 1° et 4°, " sont remplacés par les mots "les rémunérations et les pensions visées aux articles 31, alinéa 2, 1° et 4°, et 34," et les mots "ou les pensions" sont insérés entre les mots "d'attribuer les rémunérations" et les mots "du mois de décembre".
+
+## CHAPITRE 4. - Entrée en vigueur
+
+#### Art. 10
+
+§ 1. L'article 9 de la présente loi est applicable aux pensions qui sont payées ou attribuées à partir du 1er janvier 2018.
+
+§ 2. La présente loi produit ses effets le 1er juillet 2018, pour les pensions et rentes visées à l'article 2, 3°, b) et c);
+
+§ 3. La présente loi entre en vigueur :
+
+1° le 1er décembre 2018, en ce qui concerne l'article 4, alinéa 1er;
+
+2° le 1er janvier 2019, pour les pensions, rentes et allocations visées à l'article 2, 3°, a).
+
+Le Roi peut reporter la date d'entrée en vigueur visée à l'alinéa 1er d'une année au maximum.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 11 juillet 2018.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre des Finances, chargé de la Lutte contre la Fraude fiscale,
+
+J. VAN OVERTVELDT
+
+Le Ministre des Pensions,
+
+D. BACQUELAINE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS

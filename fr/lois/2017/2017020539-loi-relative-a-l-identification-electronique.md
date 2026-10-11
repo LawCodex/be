@@ -1,0 +1,168 @@
+---
+title: "Loi relative à l'identification électronique"
+identifier: "2017020539"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/18/2017020539/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2017-07-18
+published: 2017-08-09
+entry_into_force: 2017-08-19
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2017/07/18/2017020539/justel"
+department: "Stratégie et Appui"
+retrieved: 2026-10-11
+---
+
+# 18 JUILLET 2017. - Loi relative à l'identification électronique
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition générale
+
+#### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## CHAPITRE 2. - Définitions
+
+### Section 1re. - Définitions
+
+#### Art. 2
+
+§ 1er. Pour l'application de la présente loi et des arrêtés d'exécution, on entend par :
+
+1° Règlement (UE) 910/2014 : le Règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la Directive 1999/93/CE;
+
+2° Règlement d'exécution (UE) 2015/1501 : le Règlement d'exécution (UE) 2015/1501 de la Commission du 8 septembre 2015 sur le cadre d'interopérabilité visé à l'article 12, paragraphe 8, du Règlement 910/2014;
+
+3° Règlement d'exécution (UE) 2015/1502 : le Règlement d'exécution (UE) 2015/1502 de la Commission du 8 septembre 2015 fixant les spécifications techniques et procédures minimales relatives aux niveaux de garantie des moyens d'identification électronique visés à l'article 8, paragraphe 3, du Règlement 910/2014;
+
+4° organe de contrôle : l'organe visé à l'article 6;
+
+5° noeud : un point de connexion tel que défini à l'article 2, 1°, de l'arrêté d'exécution (UE) 2015/1501;
+
+§ 2. Les concepts mentionnés au chapitre 3 et qui ne sont pas définis au paragraphe 1er, sont compris au sens des définitions de l'article 3 du règlement 910/2014.
+
+## CHAPITRE 3. - Identification électronique transfrontalière
+
+### Section 1re. - Reconnaissance mutuelle
+
+#### Art. 3
+
+Pour accéder, conformément à l'article 7, f), alinéa 2, du Règlement (UE) 910/2014, à un service en ligne offert par une partie utilisatrice autre qu'un organisme du secteur public, il est possible d'utiliser un schéma d'identification électronique notifié par l'administration belge lorsque les conditions posées par le Roi, par un arrêté délibéré en Conseil des ministres, ont été respectées.
+
+### Section 2. - Niveaux de garantie
+
+#### Art. 4
+
+§ 1er. En vue de la reconnaissance mutuelle visée à l'article 6 du Règlement (UE) 910/2014, toute instance publique belge détermine les niveaux de garantie exigés pour accéder à ses services en ligne conformément aux niveaux mentionnés à l'article 8 du Règlement 910/2014 et elle en informe l'instance désignée par le Roi.
+
+§ 2. L'instance visée au paragraphe 1er détermine, après consultation de représentants du Collège des présidents des services publics fédéraux et des services publics de programmation, du Collège des administrateurs délégués des institutions de sécurité sociale et du Collège des administrateurs délégués des organismes fédéraux d'intérêt public, les niveaux de garantie pour les moyens d'identification électronique à notifier à la Commission européenne conformément au Règlement d'exécution (UE) 2015/1502, et elle se charge de la notification d'un ou de plusieurs schémas d'identification électronique belges conformément à l'article 9 du Règlement (UE) 910/2014.
+
+### Section 3. - Données d'identification personnelle et accès au Registre national
+
+#### Art. 5
+
+§ 1er. Le Roi désigne l'instance qui, conformément à l'article 11 et à l'annexe du Règlement d'exécution (UE) 2015/1501, transmet l'ensemble minimal de données d'identification personnelle du titulaire d'un moyen d'identification électronique notifié par la Belgique, qui souhaite s'identifier pour accéder à un service en ligne offert dans un autre Etat membre, au noeud de cet Etat membre.
+
+§ 2. Pour l'exécution de l'obligation visée au paragraphe 1er, l'instance visée au paragraphe 1er est autorisée à obtenir du Registre national les données visées au paragraphe 1er.
+
+§ 3. Pour satisfaire à une obligation du Règlement (UE) 910/2014 ou à l'un de ses actes d'exécution qui permet l'échange de données d'identification personnelle facultatives supplémentaires, l'instance visée au paragraphe 1er est autorisée, après avis de la Commission de la protection de la vie privée, à obtenir du Registre national les données correspondantes.
+
+### Section 4. - Surveillance et contrôle
+
+#### Art. 6
+
+§ 1er. L'organe de contrôle est composé de représentants disposant de l'expertise et des qualifications nécessaires en matière d'identification électronique, qui sont désignés par au moins trois services publics différents, et est chargé de contrôler les schémas d'identification électronique notifiés par l'administration et de prendre les mesures telles que visées à l'article 10 du Règlement (UE) 910/2014.
+
+§ 2. L'organe de contrôle peut faire appel aux services d'un ou de plusieurs experts pour l'aider dans sa mission de contrôle. Les experts désignés sont, financièrement et sur le plan organisationnel, indépendants des parties qui délivrent des moyens d'identification électronique ou qui gèrent la procédure d'authentification.
+
+§ 3. Pendant le délai de trois mois visé à l'article 10, paragraphe 3, du Règlement (UE) 910/2014, l'organe de contrôle peut imposer des mesures de réparation et exiger la confirmation de la réparation de l'atteinte ou de l'altération, au moyen d'un audit externe.
+
+§ 4. Lorsque l'organe de contrôle constate que l'intégrité d'une partie ou de la totalité d'un schéma d'identification électronique notifié est violée, l'instance désignée par le Roi révoque ou suspend le schéma entier ou les parties touchées et en informera les autres Etats membres ainsi que la Commission européenne, conformément à l'article 10 du Règlement (UE) 910/2014.
+
+§ 5. L'organe de contrôle fait annuellement rapport sur sa mission de contrôle aux autorités responsables des schémas d'identification électronique notifiés.
+
+### Section 5. - Collaboration et interopérabilité
+
+#### Art. 7
+
+Le Roi désigne l'instance faisant office de guichet unique, conformément à l'article 3 de la décision d'exécution (UE) 2015/296 de la Commission du 24 février 2015 établissant les modalités de coopération entre les Etats membres en matière d'identification électronique conformément à l'article 12, paragraphe 7, du Règlement (UE) n° 910/2014.
+
+#### Art. 8
+
+Le Roi désigne l'instance faisant office d'exploitant d'un noeud, tel que visé à l'article 2 du règlement d'exécution (UE) 2015/1501.
+
+## CHAPITRE 4. - Identification électronique pour applications publiques belges
+
+### Section 1re. - Service d'authentification
+
+#### Art. 9
+
+§ 1er. Sans préjudice des obligations liées au Règlement (UE) 910/2014, le Service public fédéral Stratégie et Appui est chargé d'offrir des services d'identification électronique pour des applications publiques au sein du service d'authentification.
+
+§ 2. Le service public fédéral Stratégie et Appui veille à la disponibilité du service d'authentification.
+
+§ 3. Pour l'exécution de sa mission d'authentification, le service public fédéral Stratégie et Appui a le droit d'utiliser le numéro d'identification des personnes physiques inscrites au Registre national.
+
+### Section 2. - Agrément de services d'identification électronique
+
+#### Art. 10
+
+§ 1er. Des parties autres que des organismes du secteur public peuvent offrir leurs services d'identification électronique, agréés par le Service public fédéral Stratégie et Appui, après consultation de représentants du Collège des présidents des service publics fédéraux et des services publics de programmation, du Collège des administrateurs délégués des institutions de la sécurité sociale et du Collège des administrateurs délégués des organismes d'intérêt public fédéraux, pour accéder à des applications publiques au sein du service d'authentification.
+
+§ 2. Le Roi détermine, par un arrêté délibéré en Conseil des ministres, la procédure, les conditions et les conséquences relatives à l'agrément des services d'identification électronique pour accéder à des applications publiques, offerts par des parties autres que des organismes du secteur public, après avis de la Commission de la protection de la vie privée.
+
+§ 3. Le service public fédéral Stratégie et Appui publie sur le site web du service d'authentification la procédure, les conditions et les conséquences de l'agrément.
+
+§ 4. S'il le juge utile, le service public fédéral Stratégie et Appui se fait assister par des experts.
+
+§ 5. Le fournisseur d'un service d'identification électronique agréé est, pour l'application du présent article, considéré comme un sous-traitant de l'autorité d'agrément au sens de l'article 5, alinéa 1, 3°, de la loi du 8 août 1983 organisant un Registre national des personnes physiques, et il est, en cette qualité, autorisé à utiliser le numéro de Registre national exclusivement pour offrir le service d'identification électronique agréé par le biais du service d'authentification.
+
+§ 6. Sans préjudice des compétences et possibilités d'action d'autres autorités ou services de contrôle, le service public fédéral Stratégie et Appui peut soumettre à un contrôle les fournisseurs de services d'identification électronique agréés en cas de plainte ou de suspicion de non-conformité du service aux conditions d'agrément approuvées.
+
+§ 7. Lorsque le service public fédéral Stratégie et Appui constate que la prestation de services n'est pas conforme aux conditions d'agrément approuvées, il impose les mesures déterminées par le Roi.
+
+§ 8. Le Roi peut déterminer le régime d'indemnités à payer par l'autorité d'agrément aux fournisseurs de services d'identification électronique agréés.
+
+### Section 3. - Obligations liées au moyen d'identification électronique
+
+#### Art. 11
+
+Le titulaire d'un moyen d'identification électronique est tenu de prendre toutes les mesures nécessaires pour garder sous son contrôle exclusif le moyen d'identification électronique, pour prévenir le vol, la perte ou la divulgation de ce moyen d'identification électronique et pour le révoquer immédiatement en cas de vol, de perte ou de divulgation.
+
+Lorsque le moyen d'identification électronique vient à échéance ou est révoqué, son titulaire ne peut plus l'utiliser sciemment et volontairement après la date d'échéance ou la révocation.
+
+## CHAPITRE 5. - Entrée en vigueur
+
+#### Art. 12
+
+Le Roi détermine la date de l'entrée en vigueur du chapitre 3.
+
+(NOTE : Entrée en vigueur des articles 3 à 8 fixée au 09-02-2018 par AR 2018-02-01/07, art. 5)
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 18 juillet 2017.
+
+PHILIPPE
+
+Par le Roi :
+
+Le ministre de l'Agenda numérique,
+
+A. DE CROO
+
+Scellé du sceau de l'Etat :
+
+Le ministre de la Justice,
+
+K. GEENS

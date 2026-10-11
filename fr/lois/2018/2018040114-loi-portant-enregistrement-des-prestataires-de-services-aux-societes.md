@@ -1,0 +1,260 @@
+---
+title: "Loi portant enregistrement des prestataires de services aux sociétés"
+identifier: "2018040114"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/29/2018040114/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2018-03-29
+published: 2018-05-02
+entry_into_force: 2018-09-01
+last_amended: 2024-03-21
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/29/2018040114/justel"
+department: "Economie, PME, Classes moyennes et Energie"
+justel_note: "Consultation des versions antérieures à partir du 02-05-2018 et mise à jour au 21-03-2024"
+retrieved: 2026-10-11
+---
+
+# 29 MARS 2018. - Loi portant enregistrement des prestataires de services aux sociétés
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions introductives
+
+#### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+#### Art. 2
+
+La présente loi transpose l'article 3, point 7), et transpose partiellement l'article 47 de la directive (UE) 2015/849 du Parlement européen et du Conseil du 20 mai 2015 relative à la prévention de l'utilisation du système financier aux fins du blanchiment de capitaux ou du financement du terrorisme, modifiant le règlement (UE) n° 648/2012 du Parlement européen et du Conseil et abrogeant la directive 2005/60/CE du Parlement européen et du Conseil et la directive 2006/70/CE de la Commission.
+
+## CHAPITRE 2. - Définitions et champ d'application
+
+#### Art. 3
+
+Pour l'application de la présente loi, il y a lieu d'entendre par:
+
+1° "prestataire de services aux sociétés": toute personne physique ou morale qui fournit, à titre professionnel, l'un des services suivants à des tiers:
+
+a) participer à l'achat ou la vente de parts d'une société à l'exclusion de celles d'une société cotée;
+
+b) fournir un siège statutaire à une entreprise, une personne morale ou une construction juridique similaire;
+
+c) fournir une adresse commerciale, postale ou administrative et d'autres services liés à une entreprise, à une personne morale ou une construction juridique similaire;
+
+2° "bénéficiaire effectif": le bénéficiaire effectif visé à l'article 4, 27°, de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces;
+
+3° "SPF Economie": le Service public fédéral Economie, P.M.E., Classes moyennes et Energie;
+
+4° "Directive 2015/849": directive (UE) 2015/849 du Parlement européen et du Conseil du 20 mai 2015 relative à la prévention de l'utilisation du système financier aux fins du blanchiment de capitaux ou du financement du terrorisme, modifiant le règlement (UE) n° 648/2012 du Parlement européen et du Conseil et abrogeant la directive 2005/60/CE du Parlement européen et du Conseil et la directive 2006/70/CE de la Commission.
+
+#### Art. 4
+
+La présente loi s'applique aux personnes physiques et morales, autres que celles visées à l'article 5, § 1er, 1° à 28° et 30° à 33° de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces, qui exercent une activité visée à l'article 3, 1°.
+
+#### Art. 5
+
+Le Roi peut, après avis de la Cellule de Traitement des Informations Financières et en conformité avec la Directive 2015/849, étendre la liste de services visée à l'article 3, 1°, par un arrêté délibéré en Conseil des ministres.
+
+## CHAPITRE 3. - Enregistrement des prestataires de services aux sociétés
+
+### Section 1re. - Conditions d'enregistrement et d'exercice de l'activité de prestataire de services aux sociétés
+
+#### Art. 6
+
+§ 1er. Toute personne physique ou morale visée à l'article 4 peut uniquement prester un service en tant que prestataire de services aux sociétés ou se présenter comme tel, pour autant qu'elle ait été enregistrée préalablement à cette fin par la Direction générale de la Politique des P.M.E. du SPF Economie.
+
+§ 2. Une personne physique ne peut être enregistrée que si elle répond aux conditions suivantes:
+
+1° être inscrite à la Banque-Carrefour des Entreprises;
+
+2° ne pas être privée de ses droits civils et politiques;
+
+3° ne pas avoir été déclarée en faillite sans avoir obtenu la réhabilitation;
+
+4° ne pas avoir encouru en Belgique ou dans un autre Etat membre de l'Union européenne l'une des peines suivantes:
+
+a) une peine criminelle;
+
+b) une peine d'emprisonnement sans sursis de six mois au moins pour l'une des infractions mentionnées à l'article 1er de l'arrêté royal n° 22 du 24 octobre 1934 relatif à l'interdiction judiciaire faite à certains condamnés et aux faillis d'exercer certaines fonctions, professions ou activités;
+
+c) une amende pénale de 2 500 euros au moins, avant application des décimes additionnels, pour infraction à la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces et à ses arrêtés d'exécutions.
+
+§ 3. Une personne morale ne peut être enregistrée que si elle répond aux conditions suivantes:
+
+1° être inscrite à la Banque-Carrefour des Entreprises;
+
+2° avoir un organe légal d'administration constitué uniquement de personnes répondant aux conditions prévues au § 2, 2° à 4° ;
+
+3° avoir une direction effective assurée uniquement par des personnes répondant aux conditions prévues au § 2, 2° à 4° ;
+
+4° avoir des bénéficiaires effectifs répondant tous aux conditions prévues au § 2, 2° à 4° ;
+
+5° avoir des gérants et administrateurs disposant du droit d'exercer légalement une activité professionnelle en Belgique.
+
+§ 4. Si l'enregistrement est demandé pour le service de domiciliation visée à l'article 3, 1°, b), ou 3, 1°, c), la personne physique ou morale n'est enregistrée que s'il est établi:
+
+1° qu'elle dispose de la capacité de mettre à la disposition des personnes domiciliées des locaux dotés d'une pièce propre à assurer la confidentialité et à permettre une réunion régulière des organes chargés de la direction, de l'administration ou de la surveillance effective de la personne domiciliée;
+
+2° qu'elle peut occuper légitimement les locaux mis à la disposition de la personne domiciliée;
+
+3° qu'elle conclut avec les personnes domiciliées une convention reprenant les conditions d'occupation des locaux nécessaires au fonctionnement de la personne domiciliée.
+
+§ 5. Le directeur général de la Direction générale de la Politique des P.M.E. du SPF Economie ou, en son absence, le ou les agents désigné(s) à cet effet par le ministre ayant les Classes moyennes dans ses attributions, statue sur une demande d'enregistrement au plus tard dans les soixante jours de la réception d'un dossier complet. A défaut de décision dans les délais requis, la décision est favorable.
+
+Lorsque le dossier est incomplet, la Direction générale de la politique des P.M.E. du SPF Economie en avertit le demandeur au plus tard dans les trente jours qui suivent la réception de sa demande et lui communique les éléments manquants. Dans ce cas, la période de soixante jours dans laquelle le SPF Economie doit statuer est interrompue. Ce délai recommence à courir quand toutes les données manquantes ont été réceptionnées.
+
+Le Roi détermine la procédure de demande d'enregistrement et les modalités de preuve visant à établir qu'une personne répond aux conditions d'enregistrement.
+
+#### Art. 7
+
+Le SPF Economie tient une liste des prestataires de services aux sociétés enregistrés qui peut être consultée sur son site Internet.
+
+Le Roi peut fixer des modalités de publicité complémentaires.
+
+#### Art. 8
+
+Les prestataires de services aux sociétés respectent en permanence les conditions de leur enregistrement prévues à l'article 6, §§ 2 à 5.
+
+Toute modification relative aux conditions d'enregistrement sera communiquée par écrit ou par voie électronique et sans délai à la Direction générale de la Politique des P.M.E. du SPF Economie.
+
+### Section 2. - Retrait de l'enregistrement
+
+#### Art. 9
+
+Lorsqu'il n'est pas ou plus satisfait aux conditions énoncées par ou en vertu de cette loi, l'enregistrement peut être retiré par le ministre ayant les Classes moyennes dans ses attributions ou par son délégué.
+
+Le retrait de l'enregistrement entraîne l'interdiction d'exercer les activités de prestataire de services aux sociétés à partir du trentième jour suivant la notification.
+
+Le Roi détermine les modalités relatives à la procédure de retrait.
+
+## CHAPITRE 4. - Contrôle et sanctions
+
+#### Art. 10
+
+Les agents commissionnés par le ministre qui a l'Economie dans ses attributions [<sup>1</sup> ...]<sup>1</sup> disposent des compétences de recherche et de constatation prévues aux articles XV.1 à XV.10 et XV.32 à XV.34 dudit Code pour rechercher les infractions à la présente loi.
+
+[<sup>1</sup> La recherche et la constatation des infractions visées par la présente loi se font conformément aux dispositions prévues dans le livre XV, titre 1er, chapitre 1er du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 170, 002; En vigueur : 31-03-2024&gt;
+
+#### Art. 10/1.
+
+[<sup>1</sup> § 1er. Les infractions à la présente loi ou à ses arrêtés d'exécution peuvent faire l'objet de:
+
+1° l'application de la procédure de transaction telle que visée à l'article 11, alinéa 4;
+
+2° une poursuite administrative en application de la procédure visée au titre 1/2 du livre XV du Code de droit économique;
+
+3° une poursuite pénale.
+
+§ 2. La poursuite se fait conformément au titre 1/1 du livre XV du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 171, 002; En vigueur : 31-03-2024&gt;
+
+#### Art. 10/2.
+
+[<sup>1</sup> Le ministère public notifie aux agents compétents visés à l'article XV.60/4 du Code de droit économique sa décision d'intenter ou non les poursuites pénales ou de proposer ou non une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du même Code.
+
+Lorsque le ministère public renonce à intenter les poursuites pénales et à proposer une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du même Code ou si le ministère public n'a pas pris de décision dans un délai de trois mois à compter du jour de la réception du procès-verbal consignant l'infraction, les agents compétents visés à l'article XV.60/4 du Code de droit économique décident s'il y a lieu d'entamer la procédure d'amende administrative.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 172, 002; En vigueur : 31-03-2024&gt;
+
+#### Art. 10/3.
+
+[<sup>1</sup> Si le ministère public renonce à intenter les poursuites pénales et à proposer une transaction visée à l'article 216bis du Code d'instruction criminelle ou une médiation pénale visée à l'article 216ter du même Code, il envoie une copie des pièces de procédure des actes d'enquête complémentaires aux agents compétents visés à l'article XV.60/4 du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 173, 002; En vigueur : 31-03-2024&gt;
+
+#### Art. 11
+
+[<sup>1</sup> Le prestataire de services aux sociétés qui preste ses services sans être enregistré ou qui s'est fait enregistrer et ne remplit plus les conditions prévues aux articles 6 et 8 ou dans ses arrêtés d'exécution, est puni soit d'une amende de 250 à 100.000 euros, soit d'une amende administrative de 250 à 100.000 euros.]<sup>1</sup>
+
+Les bénéficiaires effectifs, gérants et administrateurs de personnes morales, en fonction lors du prononcé de l'amende et dans le courant de l'année qui l'a précédée, peuvent être tenus solidairement responsables des infractions visées à l'alinéa 1er.
+
+Les agents [<sup>1</sup> visés à l'article 10]<sup>1</sup> peuvent adresser au contrevenant, à ses bénéficiaires effectifs, à ses gérants et à ses administrateurs, un avertissement, conformément à l'article XV.31 dudit Code [<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>1</sup> Quand les agents visés à l'article 10 constatent des infractions à la présente loi ou à ses arrêtés d'exécution, les agents désignés par le ministre qui a l'Economie dans ses attributions peuvent proposer une somme, dont le paiement volontaire par l'auteur de l'infraction éteint l'action publique, conformément à l'article XV.61 du Code de droit économique.
+
+Le montant de la transaction ne peut être supérieur au montant maximum de l'amende pénale pouvant être infligée pour l'infraction constatée, majorée des décimes additionnels.
+
+Les modalités de paiement et de perception de cette transaction sont arrêtées par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-02-09/19, art. 174, 002; En vigueur : 31-03-2024&gt;
+
+#### Art. 11/1.
+
+[<sup>1</sup> Les dispositions du titre 2, chapitre 1/1, du livre XV du Code de droit économique sont applicables aux amendes administratives visées par la présente loi.
+
+Les décimes additionnels visés à l'article 1er, alinéa 1er, de la loi du 5 mars 1952 relative aux décimes additionnels sur les amendes pénales sont également applicables aux amendes administratives visées dans la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 175, 002; En vigueur : 31-03-2024&gt;
+
+#### Art. 11/2.
+
+[<sup>1</sup> Les articles XV.69, XV.71, XV.72, XV.73 et XV.74 du Code de droit économique sont applicables aux infractions pénales à la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-02-09/19, art. 176, 002; En vigueur : 31-03-2024&gt;
+
+## CHAPITRE 5. - Disposition modificative de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces
+
+#### Art. 12
+
+Dans l'article 5, § 1er , 29°, de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces, les mots "loi du ... portant enregistrement des prestataires de services aux sociétés" sont remplacés par les mots "loi du 29 mars 2018 portant enregistrement des prestataires de services aux sociétés" .
+
+## CHAPITRE 6. - Dispositions transitoire et finale
+
+#### Art. 13
+
+Les prestataires de services aux sociétés qui prestaient des services de prestataire de services aux sociétés avant l'entrée en vigueur de la présente loi, introduisent leur demande d'enregistrement au plus tard six mois après l'entrée en vigueur de la présente loi.
+
+Le prestataire de services aux sociétés qui a introduit sa demande d'enregistrement dans le délai de six mois précité peut continuer à exercer ses activités pendant toute la procédure d'examen de sa demande d'enregistrement.
+
+#### Art. 14
+
+La présente loi entre en vigueur à la date fixée par le Roi et, au plus tard, le premier jour du quatrième mois qui suit celui de sa publication au Moniteur belge.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du Sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 29 mars 2018.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de l'Economie,
+
+K. PEETERS
+
+Le Ministre des Classes moyennes, des Indépendants et des P.M.E.,
+
+D. DUCARME
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS

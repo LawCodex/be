@@ -1,0 +1,1578 @@
+---
+title: "Loi portant création de l'Autorité de protection des données"
+identifier: "2017031916"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2017/12/03/2017031916/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2017-12-03
+published: 2018-01-10
+entry_into_force: 2018-05-25
+last_amended: 2026-04-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2017/12/03/2017031916/justel"
+department: "Justice"
+justel_note: "Consultation des versions antérieures à partir du 10-01-2018 et mise à jour au 02-04-2026"
+retrieved: 2026-10-11
+---
+
+# 3 DECEMBRE 2017. - Loi portant création de l'Autorité de protection des données
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition introductives
+
+##### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+##### Art. 2
+
+Pour l'application de la présente loi, on entend par:
+
+1° "l'Autorité de protection des données": l'Autorité de contrôle des traitements de données à caractère personnel;
+
+2° "le Règlement 2016/679": le Règlement 2016/679 du Parlement européen et du Conseil du 27 avril 2016, relatif à la protection des personnes physiques à l'égard du traitement de données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE;
+
+3° "système informatique": tout système de traitement de données;
+
+4° "inspecteur": fonctionnaire statutaire ou contractuel de l'Autorité de protection des données chargé de constater les infractions à la présente loi et aux lois contenant des dispositions relatives à la protection du traitement des données à caractère personnel.
+
+## CHAPITRE 2. - L'Autorité de protection des données
+
+##### Art. 3
+
+Il est institué auprès de la Chambre des représentants une "Autorité de protection des données".
+
+Elle succède à la Commission de la protection de la vie privée.
+
+Elle a la personnalité juridique. Son siège est établi dans l'arrondissement administratif de Bruxelles-Capitale.
+
+##### Art. 4
+
+§ 1er. [<sup>2</sup> L'Autorité de protection des données est responsable du contrôle de l'application du Règlement 2016/679 et des lois contenant des dispositions relatives à la protection du traitement des données à caractère personnel afin de protéger les libertés et droits fondamentaux des personnes physiques à l'égard du traitement de leurs données à caractère personnel et de faciliter le libre flux des données à caractère personnel au sein de l'Union.]<sup>2</sup>
+
+[<sup>2</sup> En application de la présente loi, il est tenu compte d'un principe directeur du Règlement 2016/679 qui stipule que le traitement des données à caractère personnel devrait être conçu pour servir l'humanité et que le droit à la protection des données à caractère personnel qui n'est pas un droit absolu doit être considéré par rapport à sa fonction dans la société et être mis en balance avec d'autres droits fondamentaux, conformément au principe de proportionnalité.
+
+L'Autorité de protection des données effectue les missions énumérées à l'article 57 du Règlement 2016/679. A cette fin, elle dispose des pouvoirs d'enquête, d'adopter des mesures correctrices, d'autorisation et consultatifs mentionnés à l'article 58 du Règlement 2016/679. L'Autorité de protection des données doit également contribuer à l'application cohérente du Règlement 2016/679.]<sup>2</sup>
+
+Sans préjudice des compétences des Gouvernements de communauté et de région, des Parlements de communauté et de région, du Collège réuni et de l'Assemblée réunie visés à l'article 60 de la loi spéciale du 12 janvier 1989 relative aux Institutions bruxelloises, l'Autorité de protection des données exerce cette mission, indépendamment du droit national applicable au traitement concerné, sur l'ensemble du territoire du Royaume.
+
+§ 2. Le contrôle organisé par la présente loi ne porte pas sur les traitements effectués par les cours et tribunaux ainsi que le ministère public dans l'exercice de leur fonction juridictionnelle.
+
+[<sup>2</sup> Lorsqu'aucune autorité de contrôle a été désignée, l'Autorité de protection des données est l'autorité de contrôle compétente.]<sup>2</sup>
+
+[<sup>1</sup> Sans préjudice de la présente loi et de la loi relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel du 30 juillet 2018, aucune autre loi ne peut créer une autorité disposant des pouvoirs et des compétences attribués par le Règlement à une autorité de protection des données.]<sup>1</sup>
+
+A l'égard des services de police au sens de l'article 2,2°, de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, les compétences, missions et pouvoirs d'autorité de contrôle tels que prévus par le Règlement 2016/679 sont exercés par l'Organe de contrôle de l'information policière visé à l'article 44/6, § 1er, de la loi du 5 août 1992 sur la fonction de police.
+
+§ 3. Toute décision juridiquement contraignante de l'Autorité de protection des données est datée, signée et motivée, et fait référence aux recours qui peuvent être introduits contre la décision.
+
+----------
+
+(1)&lt;L 2018-07-30/46, art. 276, 004; En vigueur : 05-09-2018&gt;
+
+(2)&lt;L 2023-12-25/29, art. 2, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 5
+
+L'Autorité de protection des données exécute ses missions exclusivement dans l'intérêt général.
+
+Les membres de ses organes [<sup>1</sup> internes]<sup>1</sup> et les membres de son personnel n'encourent aucune responsabilité civile en raison de leurs décisions, actes ou comportements dans l'exercice des missions légales de l'Autorité de protection des données sauf dans les cas prévus par la loi.
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 3, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 6
+
+L'autorité de protection des données a le pouvoir de porter toute infraction [<sup>1</sup> au respect du Règlement 2016/679 ainsi qui]<sup>1</sup> aux principes fondamentaux de la protection des données à caractère personnel, dans le cadre de la présente loi et des lois contenant des dispositions relatives à la protection du traitement des données à caractère personnel, à l'attention des autorités judiciaires et, le cas échéant, d'ester en justice en vue de voir appliquer ces principes fondamentaux.
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 4, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 7
+
+L'Autorité de protection des données est composée [<sup>1</sup> au moins des organes internes suivants]<sup>1</sup>:
+
+1° un comité de direction;
+
+2° un secrétariat général;
+
+3° un service de première ligne;
+
+4° un [<sup>1</sup> service d'autorisation et d'avis]<sup>1</sup>;
+
+5° un service d'inspection;
+
+6° une chambre contentieuse.
+
+[<sup>1</sup> Chaque organe interne de l'Autorité de protection des données visé à l'alinéa 1er, 2° à 6° est dirigé par un membre différent du comité de direction.]<sup>1</sup>
+
+[<sup>1</sup> L'Autorité de protection des données peut, en application des articles 9, § 1er, alinéa 1er, 3° et 11, § 1er, 1° et 2°, décider de créer des organes internes supplémentaires à ceux mentionnés à l'alinéa 1er. La direction d'un organe interne supplémentaire est confiée par le comité de direction à un membre du comité de direction, à l'exception du président de l'Autorité de protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 5, 006; En vigueur : 01-06-2024&gt;
+
+### Section 1re. [<sup>1</sup> - Le comité de direction , le président et les experts]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-25/29, art. 7, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 8
+
+[<sup>1</sup> § 1. L'Autorité de protection des données est dirigée par un comité de direction composé de cinq membres, dont l'un fait office de président.
+
+La fonction de président de l'Autorité de protection des données est limitée à la durée d'un seul mandat et ne peut pas être prolongée.
+
+La fonction est assurée alternativement par une personne appartenant au rôle linguistique français et par une personne appartenant au rôle linguistique néerlandais.
+
+Les membres du comité de direction exercent leurs fonctions à temps plein.
+
+§ 2. Les membres du comité de direction prêtent le serment suivant dans les mains du président de la Chambre des représentants: "Je jure fidélité au Roi, obéissance à la Constitution et aux lois du peuple belge.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 6, 006; En vigueur : 01-06-2024&gt;
+
+### Section 1re.
+
+&lt;Abrogé par L 2023-12-25/29, art. 7, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 9
+
+[<sup>1</sup> § 1. Le comité de direction exerce au moins les missions suivantes:
+
+1° il approuve les comptes annuels et décide le budget annuel, le rapport annuel, le plan stratégique et le plan de management, y compris les priorités annuelles de l'Autorité de protection des données;
+
+2° il détermine les indicateurs d'évaluation relatifs à l'exécution du rapport annuel, du plan stratégique et du plan de management et la manière dont le suivi est assuré;
+
+3° il décide de l'organisation interne et de la composition de l'Autorité de protection des données, y compris la mobilité interne du personnel entre les organes internes. Il veille à ce que l'expertise interne de chaque service soit en adéquation avec les nécessités de ce service. Si les nécessités du service le recommandent, le comité de direction peut également décider d'affecter temporairement certains membres du personnel d'un service vers un autre service;
+
+4° il décide du modèle de la carte de légitimation des membres du personnel du service d'inspection;
+
+5° il remplit le cadre du personnel conformément à l'article 46, § 1, et, à cette fin, réaliser annuellement une mesure de la charge de travail;
+
+6° il décide de la désignation et de la récusation des experts mentionnés dans l'article 18/1;
+
+7° il décide des dossiers d'achats stratégiques à partir d'un montant à déterminer par le comité de direction dans le règlement d'ordre intérieur;
+
+8° il décide des orientations globales pour l'exercice de chacune des missions confiées à l'Autorité de protection des données;
+
+9° il fixe les lignes directrices du fonctionnement de chacun des services de l'Autorité de protection des données;
+
+10° il fixe les lignes directrices pour assurer la cohérence des traitements des dossiers gérés par l'Autorité de protection des données;
+
+11° il veille à la bonne coopération entre les services afin que chacun puisse exercer efficacement sa mission dans une vision commune;
+
+12° il exerce les missions non attribuées aux différents services dans un rôle résiduaire, ou détermine à quel organe interne ces tâches doivent être confiées;
+
+13° il peut discuter collégialement d'un dossier traité dans un organe interne visé à l'article 7, alinéa 1er, 2° à 6°, ou, le cas échéant, dans un organe interne visé à l'article 7, alinéa 3, selon les modalités fixées dans le règlement d'ordre intérieur.
+
+Le comité de direction soumet le projet de plan stratégique à une consultation publique pendant au moins deux semaines. Ensuite, le plan stratégique adopté par le comité de direction est transmis à la Chambre des représentants.
+
+Pour les dossiers des organes internes, la compétence du comité de direction se limite à la discussion d'aspects ayant un impact important ou transversal sur l'Autorité de protection des données. Cette compétence ne constitue pas une limitation de l'exercice autonome des tâches des organes internes.
+
+§ 2. Le comité de direction agit en tant qu'organe collégial. Il est présidé par le président de l'Autorité de protection des données.
+
+§ 3. Le comité de direction ne peut valablement délibérer que si tous ses membres sont présents ou, conformément à l'alinéa 2, représentés.
+
+Un membre du comité de direction peut être représenté par un autre membre. Toutefois, les membres du comité de direction qui sont en charge du service d'inspection et la chambre contentieuse ne peuvent pas se représenter mutuellement.
+
+Le comité de direction décide par consensus. Le règlement d'ordre intérieur détermine les procédures et majorités nécessaires en cas d'absence de consensus à l'exception de l'adoption du règlement d'ordre intérieur même. En cas d'absence de consensus, le règlement d'ordre intérieur ou toute modification au règlement d'ordre intérieur est adopté par deux tiers de l'ensemble du comité de direction. Le vote peut avoir lieu par voie électronique.
+
+§ 4. Le comité de direction se réunit sur demande de l'un de ses membres et au minimum deux fois par mois.
+
+§ 5. Il est dressé procès-verbal des délibérations du comité de direction. Les procès-verbaux sont signés par tous les membres présents.
+
+Le comité de direction décide quelles décisions du comité de direction sont publiées sur le site internet de l'Autorité de protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 8, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 10
+
+Le comité de direction suit les évolutions dans les domaines technologiques, commerciaux et autres qui ont une incidence sur la protection des données à caractère personnel.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 9, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 11
+
+[<sup>1</sup> § 1er. L'Autorité de protection des données adopte un règlement d'ordre intérieur couvrant au moins les domaines suivants:
+
+1° sans préjudice des dispositions de la présente loi, l'organisation interne et la composition de l'Autorité de protection des données. Conformément à l'article 7, l'organisation interne et la composition reflètent au moins les missions et les pouvoirs de l'Autorité de protection des données mentionnés aux articles 57 et 58 du Règlement 2016/679;
+
+2° les modalités pratiques du fonctionnement de l'Autorité de protection des données et en particulier les missions attribuées aux organes internes ainsi que les règles à observer quant au déroulement des réunions du comité de direction;
+
+3° sans préjudice des dispositions de la présente loi, des règles de procédure complémentaires dans le cadre de l'exercice des missions et des pouvoirs en application des articles 57 et 58 du Règlement 2016/679. Le règlement d'ordre intérieur peut comprendre, entre autres, des règles concernant la recevabilité d'une plainte, d'un signalement ou d'une demande, une procédure de médiation, le classement sans suite et les considérations d'opportunité, la position du plaignant dans la procédure, les moyens de défense, l'audition, la représentation des parties, les délais de la procédure, les règles concernant l'emploi des langues et le respect des mesures imposées par l'Autorité de protection des données;
+
+4° sans préjudice de l'article 18/1, les modalités d'établissement de la réserve d'experts, les profils des experts qui doivent en faire partie, les catégories de missions pour lesquelles ils peuvent être désignés ponctuellement ainsi que les modalités de collaboration avec et la rémunération de ces experts;
+
+5° les règles concernant la délégation des pouvoirs des membres du comité de direction;
+
+6° les canaux et les procédures pour le signalement interne et pour le suivi mentionnés à l'article 46, § 3;
+
+7° les procédures internes d'accès au Registre national, comme mentionné à l'article 47.
+
+§ 2. Le règlement d'ordre intérieur prévoit que le service d'inspection et la chambre contentieuse agissent de manière strictement séparée les uns des autres.
+
+§ 3. Le comité de direction transmet le règlement d'ordre intérieur ainsi que toute modification ultérieure du règlement à la Chambre des représentants.
+
+Le règlement d'ordre intérieur ainsi que toute modification ultérieure est publié dans le Moniteur belge.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 10, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 12
+
+&lt;Abrogé par L 2023-12-25/29, art. 11, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 13
+
+&lt;Abrogé par L 2023-12-25/29, art. 11, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 14
+
+&lt;Abrogé par L 2023-12-25/29, art. 11, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 15
+
+&lt;Abrogé par L 2023-12-25/29, art. 11, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 16
+
+&lt;Abrogé par L 2023-12-25/29, art. 11, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 17
+
+[<sup>1</sup> Le président de l'Autorité de protection des données:
+
+1° assure la coopération et la coordination au sein du comité de direction et entre les différents organes internes de l'Autorité de protection des données;
+
+2° prépare le budget annuel, les comptes annuels, le rapport annuel, le plan stratégique, le plan de management, y compris les priorités annuelles de l'Autorité de protection des données;
+
+3° gère l'organisation et la composition internes de l'Autorité de protection des données.
+
+Le plan de management contient des accords relatifs aux objectifs de l'Autorité de protection des données et aux moyens nécessaires pour ce faire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 12, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 18
+
+[<sup>1</sup> L'Autorité de protection des données est représentée par le président ou par un autre membre du comité de direction selon les règles définies dans le règlement d'ordre intérieur. Le comité de direction définit un mandat clair lorsque l'Autorité de protection des données est représentée.
+
+La décision d'agir en droit au nom de l'Autorité de protection des données dont la décision de signer des engagements avec des tiers, est prise par le comité de direction conformément aux règles de vote visées à l'article 9, § 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 13, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 18/1
+
+[<sup>1</sup> § 1er. Nonobstant le fait que l'Autorité de protection des données s'appuiera de préférence sur l'expertise interne pour accomplir ses tâches et exercer ses pouvoirs, elle peut faire appel à des experts. Elle établit une réserve d'experts à cette fin qui peuvent être déployés pour des missions ponctuelles.
+
+Les experts agissent à titre personnel, ne font pas partie de l'Autorité de protection des données et ne peuvent ni la représenter ni la lier lors de l'exécution de leurs missions.
+
+§ 2. La désignation d'experts doit permettre à l'Autorité de protection des données, entre autres de:
+
+1° suivre de près et inclure dans ses activités les développements sociaux, éthiques, économiques et technologiques affectant la protection des données à caractère personnel, et
+
+2° faire appel à une expertise technique et non purement juridique, complémentaire à sa propre expertise interne, en appui de l'exercice de ses missions légales.
+
+§ 3. La réserve d'experts visée au paragraphe 1er comprend une liste de vingt experts au maximum qui est soumise à l'approbation de la Chambre des représentants sur proposition du comité de direction. Cette réserve est valable pour deux ans et peut être prolongée, sur proposition du comité de direction.
+
+Deux tiers au maximum des personnes composant la réserve d'experts sont du même sexe.
+
+La réserve d'experts est rendue publique sur le site web de l'Autorité de protection des données et comprend pour chaque expert ses domaines d'expertise.
+
+En plus de cette réserve d'experts, l'Autorité de protection des données peut désigner des experts supplémentaires pour des missions ponctuelles dans la mesure où:
+
+\- il y a une nécessité qui est dûment justifiée et;
+
+\- l'expertise n'est pas disponible au sein de l'Autorité de protection des données ou dans la réserve d'experts.
+
+La motivation pour la désignation d'un expert supplémentaire en dehors de la réserve est transmise à la Chambre des représentants.
+
+§ 4. Tous les experts doivent remplir les conditions énoncées à l'article 38, 1° à 6°.
+
+§ 5. Les experts donnent leur avis par écrit, sur la base d'une mission d'avis bien définie, et peuvent être entendus par l'Autorité de protection des données si nécessaire. Ils ne participent pas aux délibérations de l'Autorité de protection des données ni aux discussions sur les projets d'avis et recommandations.
+
+Les personnes dont l'activité pourrait bénéficier directement ou indirectement des décisions ou prises de positions que peut prendre l'Autorité de protection des données ou ayant un intérêt direct ou indirect dans certains dossiers, ou dans lesquels leurs parents ou alliés jusqu'au troisième degré ont un intérêt personnel ou direct, ne peuvent pas être nommées en tant qu'experts en ce qui concerne ces dossiers.
+
+Les experts présentent, avant d'accepter la mission ponctuelle, une déclaration sur l'honneur indiquant qu'ils ne sont soumis à aucun conflit d'intérêts et qu'ils remplissent les conditions visées à l'article 38, 1° à 6°. Les déclarations sont conservées par le secrétariat de l'Autorité de protection des données et elles sont placées en ligne. En cas de conflit d'intérêts, l'Autorité de protection des données constate qu'un expert ne peut pas être consulté.
+
+Si des circonstances nouvelles susceptibles de générer un conflit d'intérêt ou d'impliquer le non-respect d'une ou plusieurs conditions visées à l'article 38, 1° à 6°, les experts sont tenus d'en informer la Chambre sans délai.
+
+§ 6. Sans préjudice des paragraphe 1er et 3, l'Autorité de protection des données peut solliciter l'analyse de tout organisme public ou privé. Ces analyses sont rendues au nom de l'institution sollicitée et ne sont pas contraignantes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-25/29, art. 14, 006; En vigueur : 01-06-2024&gt;
+
+### Section 2. - Le secrétariat général
+
+##### Art. 19
+
+Le secrétariat général a pour tâches horizontales d'appui de:
+
+1° gérer les questions relatives aux ressources humaines, au budget et à l'informatique de l'Autorité de protection des données;
+
+2° gérer toute question juridique relative à la gestion et au fonctionnement de l'Autorité de protection des données;
+
+3° gérer la communication interne et externe.
+
+##### Art. 20
+
+§ 1er. Le secrétariat général a également pour tâches exécutives de:
+
+1° surveiller les développements sociaux, économiques et technologiques qui ont un impact sur la protection des données à caractère personnel;
+
+2° établir la liste des traitements qui requièrent une analyse d'impact relative à la protection des données;
+
+3° formuler des avis dans le cadre d'une analyse d'impact relative à la protection des données à un responsable du traitement dans le cadre d'une consultation par le responsable du traitement de l'Autorité de protection des données;
+
+4° approuver les codes de conduite ;
+
+5° promouvoir l'introduction de mécanismes de certification et approuver les critères de certification;
+
+6° établir et faire connaître les critères pour l'agrément d'un organe de contrôle des codes de conduite, sur la base de l'article 41 du Règlement 2016/679 et d'un organe de certification sur la base de l'article 43 du Règlement 2016/679;
+
+7° veiller à l'agrément d'un organe de contrôle des codes de conduite, sur la base de l'article 41 du Règlement 2016/679;
+
+8° approuver les clauses contractuelles types et les règles d'entreprises contraignantes.
+
+§ 2. Les tâches mentionnées dans le paragraphe 1er, 4° à 8°, sont exécutées conformément à la réglementation européenne et internationale en vigueur.
+
+##### Art. 21
+
+[<sup>1</sup> Le secrétariat général est dirigé par le président de l'Autorité de protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 15, 006; En vigueur : 01-06-2024&gt;
+
+### Section 3. - Le service de première ligne
+
+##### Art. 22
+
+§ 1er. Le service de première ligne:
+
+1° reçoit les plaintes et demandes adressées à l'Autorité de protection des données [<sup>1</sup> et procède à un examen de recevabilité des plaintes]<sup>1</sup>;
+
+2° [<sup>1</sup> lance une procédure de médiation dès qu'elle le juge pertinent]<sup>1</sup>;
+
+3° promeut la protection des données auprès du public, en accordant une attention spécifique aux mineurs;
+
+4° promeut auprès des responsables de traitement et des sous-traitants la prise de conscience de leurs obligations;
+
+5° fournit des informations relatives à l'exercice de leurs droits aux personnes concernées.
+
+§ 2. Le service de première ligne est dirigé par le directeur du service de première ligne.
+
+[<sup>1</sup> § 4. Le service d'autorisation et d'avis est dirigé par le directeur du service d'autorisation et d'avis.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 16, 006; En vigueur : 01-06-2024&gt;
+
+### Section 4. [<sup>1</sup> - Le service d'autorisation et d'avis]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 17, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 23
+
+§ 1er. [<sup>1</sup> Le service d'autorisation et d'avis]<sup>1</sup> émet soit d'initiative, soit sur demande du gouvernement, des Chambres législatives, des Gouvernements de communauté ou de région, des Parlements de communauté ou de région, du Collège réuni ou de l'Assemblée réunie visés à l'article 60 de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises:
+
+1° des avis sur toute question relative aux traitements de données à caractère personnel;
+
+2° des recommandations relatives aux développements sociaux, [<sup>1</sup> éthiques]<sup>1</sup> économiques et technologiques qui peuvent avoir une incidence sur les traitements de données à caractère personnel.
+
+[<sup>1</sup> ...]<sup>1</sup> Dans ses avis et recommandations, le [<sup>1</sup> service d'autorisation et d'avis]<sup>1</sup> tient compte des mesures de sécurité techniques et organisationnelles nécessaires.
+
+[<sup>1</sup> § 2. Sans préjudice des compétences attribuées au secrétariat général conformément à l'article 20, § 1, le service d'autorisation et d'avis exerce les autres pouvoirs d'avis et d'autorisation visés à l'article 58, § 3, du Règlement 2016/679, à l'exception du pouvoir visé à l'article 58, § 3, e) du Règlement 2016/679.
+
+§ 3. Dans le cadre de l'application de la loi du 13 juin 2005 relative aux communications électroniques et de lois particulières et sans préjudice des pouvoirs des autorités de contrôle visées aux titres 2 et 3 de la loi du 31 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel et de ceux de la commission administrative chargée de la surveillance des méthodes spécifiques et exceptionnelles de recueil de données par les services de renseignement et de sécurité créée par l'article 43/1 de la loi organique du 30 novembre 1998 des services de renseignement et de sécurité, le service d'autorisation et d'avis émet des autorisations d'accès aux métadonnées de communication relatives au trafic ou à la localisation pour les institutions compétentes, pour les finalités qui ne relèvent pas:
+
+\- de l'exercice des missions de prévention, de recherche, de détection ou de poursuite d'un fait qui constitue une infraction pénale, ou;
+
+\- de la recherche des personnes disparues, ou;
+
+\- de la sécurité nationale.
+
+Pour être complète, la demande d'autorisation contient les éléments suivants:
+
+1° l'identification de l'institution demanderesse;
+
+2° la base légale permettant à cette institution de demander auprès des opérateurs des métadonnées de communication relatives au trafic ou à la localisation;
+
+3° l'exercice de la mission, dont les finalités ne relèvent pas de l'une des matières énumérées à l'alinéa 1er, premier à troisième tirets, justifiant de la nécessité et du caractère proportionnel de la demande;
+
+4° le cas échéant, la motivation de l'urgence ou de l'extrême urgence;
+
+5° la signature de la personne apte à engager l'institution demanderesse.
+
+Lorsque la demande d'autorisation est complète, la décision de l'Autorité de protection des données est rendue au plus tard dans les dix jours ouvrables compris comme tous les jours autres que le samedi, le dimanche et les jours fériés légaux.
+
+La décision de l'Autorité de protection de données est motivée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 18, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 24
+
+&lt;Abrogé par L 2023-12-25/29, art. 19, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 25
+
+&lt;Abrogé par L 2023-12-25/29, art. 19, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 26
+
+§ 1er. Toute demande d'avis est introduite auprès de l'Autorité de protection des données [<sup>1</sup> ...]<sup>1</sup> au moyen du formulaire en ligne disponible sur le site internet de l'Autorité de protection des données.
+
+[<sup>1</sup> L'examen des demandes d'avis s'ouvre dans l'ordre de leur présentation, excepté:
+
+1° lorsque l'autorité qui saisit l'Autorité de protection des données réclame la communication de l'avis dans un délai de soixante jours;
+
+2° lorsque l'autorité qui saisit l'Autorité de protection des données réclame la communication de l'avis dans un délai de trente jours. Ce délai est prolongé de plein droit de quinze jours lorsqu'il prend cours du 15 juillet au 31 juillet ou lorsqu'il expire entre le 15 juillet et le 15 août. L'Autorité de protection des données délivre un accusé de réception électronique au demandeur d'avis au moment où elle considère que la demande d'avis est complète.
+
+3° en cas d'urgence spécialement motivée dans la demande, lorsque l'autorité qui saisit l'Autorité de protection des données réclame la communication de l'avis dans un délai de cinq jours ouvrables compris comme tous les jours autres que le samedi, le dimanche et les jours fériés légaux.
+
+Lorsque, par application de l'alinéa 2, 3°, l'urgence est invoquée pour un avis sur un projet d'arrêté réglementaire, la motivation de l'urgence figurant dans la demande est reproduite dans le préambule de l'arrêté.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> Lorsque la demande d'avis porte sur un avant-projet ou une proposition de loi, de décret ou d'ordonnance ou sur un amendement à un tel projet ou à une telle proposition, l'Autorité de protection des données communique un avis, dans les délais visés au paragraphe 1er, alinéa 2, ou dans un délai supplémentaire accordé par le demandeur d'avis avant l'expiration de ceux-ci.
+
+Lorsque la demande d'avis porte sur un projet d'arrêté réglementaire et que l'Autorité de protection des données n'a pas communiqué d'avis dans les délais visés au paragraphe 1er, alinéa 2, ou dans un délai supplémentaire accordé par le demandeur d'avis avant l'expiration de ceux-ci, il peut être passé outre l'exigence d'un avis. Dans le préambule de l'arrêté, il est fait mention de l'absence de la communication de l'avis dans le délai.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 20, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 27
+
+§ 1er. Les avis sont écrits et motivés. [<sup>1</sup> Ils indiquent également quels membres du comité de direction ont pris part à ses délibérations et, le cas échéant, le nom des experts et des organismes qui ont été consulté conformément à l'article 18/1, §§ 1 et 6. Les avis et analyses mentionnés à l'article 18/1, §§ 5 et 6 respectivement, peuvent être consultés auprès de l'Autorité de protection des données.]<sup>1</sup>
+
+Ils sont communiqués à l'autorité concernée.
+
+Le membre du gouvernement ayant la protection de la vie privée dans ses attributions et la Chambre des représentants reçoivent une copie électronique de chaque avis et recommandation.
+
+§ 2. Dans les cas où l'avis de l'Autorité de protection des données est requis par ou en vertu d'une loi, d'un décret ou d'une ordonnance, l'avis doit être publié au Moniteur belge en même temps que l'acte réglementaire auquel il se rapporte.
+
+Les avis et les recommandations sont publiés sur le site internet de l'Autorité de protection des données.
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 21, 006; En vigueur : 01-06-2024&gt;
+
+### Section 5. - Le service d'inspection
+
+##### Art. 28
+
+Le service d'inspection est l'organe d'enquête de l'Autorité de protection des données.
+
+##### Art. 29
+
+Le service d'inspection est dirigé par l'inspecteur général et composé d'inspecteurs.
+
+Dans l'exercice de ses missions le service d'inspection est assisté par un secrétariat.
+
+En cas d'absence ou d'empêchement, l'inspecteur général est remplacé par l'inspecteur le plus ancien ou, en cas de parité d'ancienneté, par le plus âgé.
+
+##### Art. 30
+
+§ 1er. Les inspecteurs prêtent le serment suivant dans les mains de l'inspecteur général: "Je jure fidélité au Roi, obéissance à la Constitution et aux lois du peuple belge."
+
+§ 2. Le règlement d'ordre intérieur de l'Autorité de protection des données mentionne les profils de fonction et les compétences requises des inspecteurs.
+
+##### Art. 31
+
+Dans l'exécution de leurs missions, l'inspecteur général et les inspecteurs doivent être en possession de la carte de légitimation de leur fonction qu'ils doivent immédiatement produire sur demande.
+
+Le comité de direction établit le modèle de cette carte de légitimation.
+
+### Section 6. - La chambre contentieuse
+
+##### Art. 32
+
+La chambre contentieuse est l'organe contentieux administratif de l'Autorité de protection des données.
+
+##### Art. 33
+
+§ 1er. [<sup>1</sup> La chambre contentieuse est dirigée par le directeur de la chambre contentieuse.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 22, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 34
+
+Dans l'exercice de ses missions la chambre contentieuse est assistée par un secrétariat, qui assure également le rôle de greffe.
+
+### Section 7.
+
+&lt;Abrogé par L 2023-12-25/29, art. 23, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 35
+
+&lt;Abrogé par L 2023-12-25/29, art. 23, 006; En vigueur : 01-06-2024&gt;
+
+## CHAPITRE 3. - Nomination des membres du comité de direction [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 24, 006; En vigueur : 01-06-2024&gt;
+
+### Section 1re. - Conditions générales de nomination
+
+##### Art. 36
+
+§ 1er. Les membres du comité de direction [<sup>1</sup> ...]<sup>1</sup> sont nommés sur la base de leur compétence et expérience en matière de protection des données à caractère personnel, de leur indépendance et de leur autorité morale.
+
+§ 2. Les membres du comité de direction doivent être titulaires d'un diplôme leur donnant accès à une fonction de niveau A.
+
+Les membres du comité de direction doivent avoir une connaissance fonctionnelle de la deuxième langue nationale et de l'anglais. Au moins un membre du comité de direction doit aussi posséder une connaissance fonctionnelle de l'allemand.
+
+§ 3. [<sup>1</sup> Le profil commun des membres du comité de direction doit être pluridisciplinaire et permettre à l'Autorité de protection des données:
+
+1° de répondre aux défis juridiques, sociaux, économiques, éthiques et technologiques de l'évolution de la société numérique;
+
+2° de mettre en place une politique de ressources humaines et financières.";
+
+[<sup>1</sup> § 4. Le membre du comité de direction qui est en charge de la chambre contentieuse doit être un magistrat.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 25, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 37
+
+[<sup>1</sup> § 1er. Les membres du comité de direction sont nommés pour un terme de six ans.
+
+§ 2. A la fin de chaque mandat, une nouvelle procédure de nomination est instituée conformément à l'article 39.
+
+Sous réserve des articles 8, § 1er, alinéa 3, et 36, § 4, tout membre du comité de direction, à l'exception du président, peut, à la fin de son mandat, postuler à nouveau pour le même ou pour un autre mandat. Conformément à l'article 8, § 1er, alinéa 2, et sous réserve de l'article 36, § 4, le président de l'Autorité de protection de données peut, à la fin de son mandat, postuler à nouveau pour un autre mandat.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 26, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 38
+
+[<sup>1</sup> Au moment de la prestation du serment et au cours de leur mandat, les membres du comité de direction doivent remplir les conditions suivantes:
+
+1° être citoyen d'un Etat membre de l'Union européenne;
+
+2° jouir de leurs droits civils et politiques;
+
+3° ne pas être membre du ou employé par le Parle-ment européen ou des Chambres législatives ou d'un Parlement de Communauté ou de Région;
+
+4° ne pas être membre d'un gouvernement fédéral, d'un gouvernement de Communauté ou de Région;
+
+5° ne pas exercer une fonction dans une cellule stratégique ministérielle;
+
+6° ne pas être mandataire public, administrateur public ou gestionnaire public au sens de l'article 2 de la loi du 6 janvier 2014 portant création d'une Commission fédérale de déontologie et contenant le Code de déontologie des mandataires publics.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 27, 006; En vigueur : 01-06-2024&gt;
+
+### Section 2. - Procédure de nomination
+
+##### Art. 39
+
+Les membres du comité de direction [<sup>1</sup> ...]<sup>1</sup> sont nommés par la Chambre des représentants.
+
+Les postes vacants pour les mandats des membres du comité de direction [<sup>1</sup> ...]<sup>1</sup> sont publiés au Moniteur belge au plus tard six mois avant l'expiration du mandat et, pour la première composition de ces organes, au plus tard un mois après l'entrée en vigueur du présent article. La publication se fait sous la forme d'un appel à candidats précisant le nombre de places vacantes, les conditions de nomination, les missions des [<sup>1</sup> organes internes]<sup>1</sup> à composer et les modalités de dépôt de la candidature.
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 28, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 40
+
+[<sup>1</sup> § 1er. Le comité de direction compte autant de membres francophones que néerlandophones, le président excepté.
+
+§ 2. Trois cinquièmes au maximum des membres du comité de direction sont du même sexe.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 29, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 41
+
+En cas de vacance d'un mandat de membre du comité de direction [<sup>1</sup> ...]<sup>1</sup>, pour quelque cause que ce soit, il est procédé à son remplacement pour la durée du mandat restant à courir.
+
+Pour le mandat devenu vacant, une toute nouvelle procédure de nomination est instituée conformément à l'article 39, le poste vacant étant toutefois publié au Moniteur belge au plus tard un mois après la vacance du mandat.
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 30, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 42
+
+[<sup>1</sup> Jusqu'à ce que le mandat devenu vacant soit comblé, le mandat est exercé par un autre membre du comité de direction. Le comité de direction en décide entre les membres restants conformément aux règles de vote visées à l'article 9, § 3.
+
+Cependant, les membres du comité de direction qui sont en charge du service d'inspection et de la chambre contentieuse ne peuvent pas cumuler leurs mandats respectifs.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 31, 006; En vigueur : 01-06-2024&gt;
+
+## CHAPITRE 4. - Indépendance et fonctionnement de l'Autorité de protection de données
+
+##### Art. 43
+
+[<sup>1</sup> Dans l'exercice de ses missions et de ses pouvoirs conformément au Règlement 2016/679, l'Autorité de protection des données demeure libre de toute influence extérieure, qu'elle soit directe ou indirecte, et ne sollicite ni n'accepte d'instructions de quiconque.
+
+Il est interdit aux membres du comité de direction d'être présents lors d'une délibération ou décision sur les dossiers pour lesquels ils ont un intérêt personnel ou direct ou pour lesquels leurs parents ou alliés jusqu'au troisième degré ont un intérêt personnel, direct ou indirect.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 32, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 44
+
+§ 1er. Les membres du comité de direction [<sup>2</sup> ...]<sup>2</sup> ne peuvent, durant la durée de leur mandat, exercer une autre activité incompatible avec leur mandat, rémunérée ou non.
+
+Une activité incompatible est une activité pouvant bénéficier directement ou indirectement des décisions et prises de positions que peut prendre l'Autorité de protection des données.
+
+La Chambre des représentants peut autoriser un membre du comité de direction à exercer une activité complémentaire pour autant que l'exercice de sa fonction à plein temps ainsi que son indépendance et sa réputation n'en soient pas affectés.
+
+[<sup>2</sup> En particulier, les membres du comité de direction ne peuvent pas avoir un intérêt quel qu'il soit dans des entreprises actives sur le marché pour fournir des services en matière de protection des données, ni exercer pour celles-ci directement ou indirectement, à titre gratuit ou onéreux, la moindre fonction ou prester le moindre service.]<sup>2</sup>
+
+§ 2. Avant de commencer leur mandat les membres visés au paragraphe 1er complètent et signent une déclaration d'absence de conflits d'intérêts [<sup>2</sup> et la transmettent à la Chambre des représentants]<sup>2</sup>. Ils tiennent à jour cette déclaration durant la durée de leur mandat.
+
+Pendant les deux années qui suivent la fin de leur mandat, les membres du comité de direction ne peuvent pas exercer de fonction qui pourrait directement ou indirectement leur apporter des avantages découlant de l'exercice de leur mandat.
+
+[<sup>1</sup> § 3. Un congé pour mission d'intérêt général peut être octroyé à un fonctionnaire ou un magistrat pour exercer la fonction de membre du comité de direction. Durant leur mandat, ils perçoivent leur traitement en qualité de membre du comité de direction, leur traitement en tant que fonctionnaire ou magistrat étant suspendu.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-03-04/04, art. 3, 002; En vigueur : 10-01-2018&gt;
+
+(2)&lt;L 2023-12-25/29, art. 33, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 45
+
+§ 1er. La Chambre des représentants ne peut relever un membre du comité de direction [<sup>1</sup> ...]<sup>1</sup> de ses fonctions que s'il a commis une faute grave ou s'il ne remplit plus les conditions nécessaires à l'exercice de ses fonctions. [<sup>1</sup> ...]<sup>1</sup>
+
+Un membre du comité de direction [<sup>1</sup> ...]<sup>1</sup> ne peut être relevé de ses fonctions pour des opinions qu'il exprime dans l'exercice de ses fonctions.
+
+§ 2. Le mandat ne peut être levé qu'après audition de l'intéressé quant aux motifs invoqués.
+
+Préalablement à l'audition, la Chambre des représentants établit un dossier reprenant l'ensemble des pièces relatives aux motifs invoqués.
+
+Au moins cinq jours avant l'audition, l'intéressé est convoqué par un envoi recommandé à la poste, mentionnant au moins:
+
+1° les motifs graves invoqués;
+
+2° le fait que la levée de son mandat est envisagée;
+
+3° le lieu, la date et l'heure de l'audition;
+
+4° le droit pour l'intéressé de se faire assister d'une personne de son choix;
+
+5° le lieu où il peut consulter le dossier et le délai pour ce faire;
+
+6° le droit de faire appeler des témoins.
+
+Dès la convocation et jusqu'au jour inclus de l'audition, l'intéressé et la personne qui l'assiste peuvent consulter le dossier.
+
+Il est établi procès-verbal de l'audition.
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 34, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 46
+
+§ 1er. Le cadre du personnel de l'Autorité de protection des données, le statut et le mode de recrutement du personnel sont fixés par la Chambre des représentants, sur proposition de l'Autorité de protection des données.
+
+[<sup>1</sup> Le cadre du personnel reflète les compétences nécessaires afin d'accomplir le mandat de contrôle de l'Autorité de protection des données et prend au moins en compte la nécessité:
+
+\- d'une répartition équilibrée du nombre de personnel entre les organes internes;
+
+\- de profils multidisciplinaires au sein de chaque organe interne.]<sup>1</sup>
+
+Pour le reste, le personnel de l'Autorité de protection des données est soumis aux règles légales et statutaires applicables aux membres du personnel de la fonction publique fédérale.
+
+§ 2. Les membres du personnel de l'Autorité de protection des données nommés à titre définitif bénéficient, en matière de pension de retraite, du régime qui est d'application pour les agents qui sont occupés à titre définitif à l'administration fédérale de l'Etat. Ces pensions sont à charge du Trésor public.
+
+[<sup>1</sup> § 3. En application de la loi relative aux canaux de signalement et à la protection des auteurs de signalement d'atteintes à l'intégrité dans les organismes du secteur public fédéral et au sein de la police intégrée, l'Autorité de protection des données met en place des canaux et des procédures de signalement et de suivi internes.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 35, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 47
+
+[<sup>1</sup> L'Autorité de protection des données a accès, pour l'exercice de ses missions légales, et moyennant l'obtention d'une autorisation conformément à l'article 5 de la loi du 8 août 1983 organisant un Registre national des personnes physiques ainsi que, moyennant l'obtention d'une autorisation conformément à l'article 6bis, § 3, alinéa 1er, de la loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes d'étranger et aux documents de séjour, aux données visées à l'article 6bis, § 1er, 1°, de cette loi.
+
+En vue de l'exercice de ses missions légales, elle peut utiliser le numéro de registre national.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 36, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 48
+
+§ 1er. [<sup>1</sup> Sauf exceptions légales, les membres du comité de direction, les membres du personnel de l'Autorité de protection des données ainsi que les experts sont tenus, durant et après l'exercice de leur mandat, contrat et mission respectifs, de conserver le caractère confidentiel des faits, actes ou renseignements dont ils ont eu connaissances en raison de leurs fonctions ou missions.]<sup>1</sup>
+
+§ 2. L'Autorité de protection des données peut conclure des protocoles concernant le devoir de confidentialité avec des instances tiers afin de garantir l'échange des données nécessaires à l'exercice de ses tâches et compétences.
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 37, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 49
+
+Une dotation est inscrite au budget général des dépenses de l'Etat pour financer le fonctionnement de l'Autorité de protection des données.
+
+L'Autorité de protection des données établit annuellement un projet de budget pour son fonctionnement. Assistée par la Cour des comptes, la Chambre des représentants examine les propositions budgétaires détaillées de l'Autorité de protection des données, elle les approuve et contrôle l'exécution de son budget, elle examine et approuve en outre les comptes détaillés.
+
+[<sup>1</sup> L'Autorité de protection des données joint à sa proposition de budget annuel le plan stratégique, la mesure annuelle de la charge de travail et le plan de management.]<sup>1</sup>
+
+Pour son budget et ses comptes, l'Autorité de protection des données utilise un schéma budgétaire et des comptes comparable à celui qui est utilisé par la Chambre des représentants.
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 38, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 49/1
+
+[<sup>1</sup> § 1er. L'Autorité de protection des données exerce les missions et les pouvoirs qui lui sont conférés par le Règlement 2016/679 gratuitement pour la personne concernée et, le cas échéant, pour le délégué à la protection des données.
+
+Sans préjudice de l'alinéa 1er, l'Autorité de protection des données peut percevoir une rémunération dans le cadre de ses pouvoirs d'autorisation et consultatifs en ce qui concerne l'exécution des missions visées à l'article 58, § 3, e, f, h et j, du Règlement 2016/679 ainsi que pour les pouvoirs d'autorisation et consultatifs supplémentaires accordés à l'Autorité de protection des données par le législateur.
+
+L'alinéa 2 ne s'applique pas aux autorisations émises par l'Autorité de protection des données en vertu de l'article 23, § 3.
+
+§ 2. Le Roi détermine les barèmes de rémunération visés au paragraphe 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-25/29, art. 39, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 50
+
+[<sup>1</sup> § 1er. Les membres du comité de direction jouissent d'un statut identique à celui des conseillers de la Cour des comptes. Les règles régissant le statut pécuniaire des conseillers de la Cour des comptes, contenues dans la loi du 21 mars 1964 relative aux traitements des membres de la Cour des comptes, s'appliquent aux membres du comité de direction. Durant sa présidence de l'Autorité de protection des données, le membre de la direction concerné bénéficie d'une rémunération identique à celle du président de la Cour des comptes.
+
+Le mandat des membres du comité de direction est assimilé, en matière de pensions, à une nomination à titre définitif. Ils bénéficient, en matière de pension de retraite, du régime qui est d'application pour les agents qui sont occupés à titre définitif à l'administration fédérale de l'Etat. Ces pensions sont à charge du Trésor public.
+
+§ 2. Sauf s'il est révoqué ou s'il démissionne, lorsqu'il est mis fin aux fonctions d'un membre du comité de direction ou lorsque son mandat n'est pas renouvelé, il bénéficie d'une allocation forfaitaire de départ équivalente au traitement mensuel brut d'un mois par année complète de mandat presté, avec un maximum de six mois. Le membre du comité de direction qui bénéficie d'un revenu professionnel ou d'un revenu de remplacement ou d'une pension de retraite est exclu du champ d'application de cette mesure. Une pension de survie ou un revenu minimum garanti octroyé par un centre public d'action sociale ne sont pas considérés comme un revenu de remplacement.
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-03-04/04, art. 4, 002; En vigueur : 10-01-2018&gt;
+
+(2)&lt;L 2023-12-25/29, art. 40, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 51
+
+L'Autorité de protection des données communique chaque année à la Chambre des représentants ainsi qu'au Gouvernement un rapport sur ses activités de l'année précédente, établi notamment sur la base des indicateurs d'évaluation mentionnés à l'article 9 , [<sup>1</sup> § 1er, alinéa 1er, 2]<sup>1</sup>.
+
+Au rapport il est annexé une liste des avis et recommandations que l'Autorité de protection des données a émis. Il est indiqué quels avis et recommandations ont été émis d'initiative.
+
+Ce rapport est rendu public et communiqué à la Commission européenne et au Comité européen de la protection des données prévu dans le Règlement 2016/679.
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 41, 006; En vigueur : 01-06-2024&gt;
+
+## CHAPITRE 5. - Modalités de collaboration
+
+### Section 1re. - Collaboration au niveau national
+
+##### Art. 52
+
+§ 1er. L'Autorité de protection des données accomplit ses missions dans un esprit de dialogue et de concertation avec tous les acteurs publics et privés concernés par la politique de la protection des libertés et droits fondamentaux des personnes physiques à l'égard du traitement et du libre flux des données à caractère personnel ainsi que par la politique de la protection des consommateurs.
+
+L'Autorité de protection des données peut être assistée par ou agir à la demande d'autres pouvoirs publics chargés du respect d'autres législations.
+
+§ 2. L'Autorité de protection des données peut procéder à une enquête ou une consultation publique large ou à une enquête ou consultation plus ciblée des représentants des secteurs concernés.
+
+##### Art. 53
+
+§ 1er. L'Autorité de protection des données peut créer ou faire partie de comités ou groupes sur des matières qui relèvent de sa compétence. A condition que cela ne porte pas préjudice à son indépendance, l'Autorité de protection des données peut de sa propre initiative ou à la demande créer des comités ou groupes traitant de matières qui relèvent de sa compétence.
+
+§ 2. Le comité de direction peut déléguer à certains membres des organes [<sup>1</sup> internes]<sup>1</sup> ou membres du personnel de l'Autorité de protection des données, le pouvoir de représenter l'Autorité de protection des données pour les matières qui relèvent de sa compétence au sein de comités ou groupes auxquels elle est tenue ou choisit de participer, ainsi que, dans les limites définies par le comité de direction, le pouvoir de participer aux décisions ou aux votes au sein de ces comités ou groupes. Ces délégations peuvent à tout moment être revues ou révoquées par le comité de direction.
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 42, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 54
+
+Le président de l'Autorité de protection des données, ou le cas échéant un des autres membres du comité de direction peut être entendu par les commissions compétentes de la Chambre des représentants, des Parlements de communauté ou de région, du Collège réuni ou de l'Assemblée réunie visés à l'article 60 de la loi spéciale du 12 janvier 1989 relative aux institutions bruxelloises, à la demande de celles-ci ou de sa propre initiative.
+
+##### Art. 54/1
+
+[<sup>1</sup> § 1er. En vue de l'application cohérente des réglementations nationales, européennes et internationales relatives à la protection des personnes physiques à l'égard du traitement des données à caractère personnel, l'Autorité de protection des données et les autorités de contrôle compétentes visées aux titres 2 et 3 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements des données à caractère personnel, collaborent ensemble, entre autres en ce qui concerne le traitement des plaintes, les avis et les recommandations qui affectent les compétences de deux ou plusieurs autorités de contrôle.
+
+Sans préjudice de dispositions particulières, le traitement conjoint des plaintes, des avis et des recommandations se fait sur la base du principe du guichet unique qui sera assumé par l'Autorité de protection des données.
+
+§ 2. Afin de réaliser la coopération visée au premier paragraphe, les autorités de contrôle concluent un protocole de coopération.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-30/46, art. 278, 004; En vigueur : 05-09-2018&gt;
+
+### Section 2. - Collaboration au niveau international
+
+##### Art. 55
+
+§ 1er. L'Autorité de protection des données peut collaborer avec toute instance ou autre autorité de protection des données d'un autre Etat en faisant usage des pouvoirs qui lui sont conférés soit en vertu du Règlement 2016/679 soit par la législation nationale.
+
+§ 2. Cette collaboration peut, inter alia, porter sur:
+
+1° la création de pôles d'expertise;
+
+2° l'échange d'informations;
+
+3° l'assistance mutuelle dans le cadre de mesures de contrôle;
+
+4° le partage de ressources humaines et financières.
+
+La collaboration peut se concrétiser, inter alia, par le biais d'accords de coopération.
+
+##### Art. 56
+
+§ 1er. En vue de l'application de conventions internationales, l'Autorité de protection des données est habilitée à désigner certains membres de ses organes [<sup>1</sup> internes]<sup>1</sup> ou des membres de son personnel, en qualité de représentants auprès d'autorités internationales dans la mesure où ces autorités exercent des missions relatives aux matières qui relèvent de la compétence de l'Autorité de protection des données.
+
+§ 2. Le comité de direction peut déléguer à certains membres des organes [<sup>1</sup> internes]<sup>1</sup> ou membres du personnel de l'Autorité de protection des données, le pouvoir de représenter l'Autorité de protection des données au sein de comités ou groupes internationaux auxquels l'Autorité de protection des données est tenue ou choisit de participer, ainsi que, dans les limites définies par le comité de direction, le pouvoir de participer aux décisions ou aux votes au sein de ces comités ou groupes. Ces délégations peuvent à tout moment être revues ou révoquées par le comité de direction.
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 42, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 56/1
+
+[<sup>1</sup> En exécution de l'article 51 du Règlement 2016/679 et conformément à l'article 41.4 de la directive 2016/680 du Parlement européen et du Conseil du 27 avril 2016 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel par les autorités compétentes à des fins de prévention et de détection des infractions pénales, d'enquêtes et de poursuites en la matière ou d'exécution de sanctions pénales, et à la libre circulation de ces données, et abrogeant la décision-cadre 2008/977/JAI du Conseil, l'Autorité de protection des données représente les différentes autorités de contrôle au Comité européen de la protection des données visé à l'article 68 du Règlement 2016/679.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-30/46, art. 254, 004; En vigueur : 05-09-2018&gt;
+
+## CHAPITRE 6. - Dispositions de procédure
+
+##### Art. 57
+
+L'Autorité de protection des données emploie la langue dans laquelle la procédure est menée selon les besoins propres à l'affaire.
+
+### Section 1re. - Saisine et recevabilité d'une plainte ou d'une requête
+
+##### Art. 58
+
+Toute personne peut déposer une plainte ou une requête écrite, datée et signée auprès de l'Autorité de protection des données.
+
+L'Autorité de protection des données établit un formulaire à ces fins.
+
+##### Art. 59
+
+Le dépôt d'une plainte et d'une requête est sans frais.
+
+##### Art. 60
+
+[<sup>1</sup> Le service de première ligne examine la recevabilité de la plainte, entre autres sur base des critères de recevabilité suivante:
+
+\- la plainte est rédigée dans l'une des langues nationales;
+
+\- la plainte contient un exposé des faits ainsi que les indications nécessaires pour identifier le traitement sur lequel elle se porte;
+
+\- la plainte relève de la compétence de l'Autorité de protection des données;
+
+\- l'intérêt procédural du plaignant;
+
+\- la preuve du pouvoir de représentation si la plainte est déposée au nom et pour le compte d'une autre personne;
+
+\- les coordonnées du responsable du traitement;
+
+\- l'exercice préalable des droits lorsque le plaignant s'adresse d'abord au responsable du traitement, si possible;
+
+\- l'existence d'autres procédures en cours pour les mêmes faits, le cas échéant.
+
+Le service de première ligne peut inviter le plaignant ou le demandeur à préciser sa plainte ou sa requête.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 43, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 61
+
+La décision portant sur la recevabilité de la plainte ou de la requête est portée à la connaissances du plaignant ou du demandeur.
+
+Si le service de première ligne conclut à l'irrecevabilité de la plainte ou de la requête, le plaignant ou le demandeur en est informé par décision motivée.
+
+##### Art. 62
+
+&lt;Abrogé par L 2023-12-25/29, art. 44, 006; En vigueur : 01-06-2024&gt;
+
+### Section 2. - Procédure devant le service d'inspection
+
+#### Sous-section 1re. - Saisine du service d'inspection
+
+##### Art. 63
+
+&lt;Abrogé par L 2023-12-25/29, art. 44, 006; En vigueur : 01-06-2024&gt;
+
+#### Sous-section 2. - Possibilités d'enquête du service d'inspection 1. Dispositions générales
+
+##### Art. 64
+
+&lt;Abrogé par L 2023-12-25/29, art. 44, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 65
+
+L'inspecteur général et les inspecteurs peuvent, par demande motivée, requérir l'assistance de la police dans l'exercice de leurs missions.
+
+2\. Compétences du service d'inspection
+
+##### Art. 66
+
+§ 1er. Pour instruire le dossier, l'inspecteur général et les inspecteurs peuvent, conformément aux modalités déterminées par la présente loi:
+
+1° identifier des personnes;
+
+2° auditionner des personnes;
+
+3° mener une enquête écrite;
+
+4° procéder à des examens sur place;
+
+5° consulter des systèmes informatiques et copier les données qu'ils contiennent;
+
+6° accéder à des informations par voie électronique;
+
+7° saisir ou mettre sous scellés des biens ou des systèmes informatiques;
+
+8° requérir l'identification de l'abonné ou de l'utilisateur habituel d'un service de communication électronique ou du moyen de communication électronique utilisé.
+
+§ 2. Les personnes qui font l'objet d'un contrôle doivent y prêter leur concours.
+
+##### Art. 67
+
+§ 1er. Les mesures d'enquête peuvent donner lieu à un procès-verbal de constat d'infraction. Ce procès-verbal a force probante jusqu'à preuve du contraire.
+
+Il est établi rapport des mesures d'enquête qui ne donnent pas lieu à un procès-verbal.
+
+§ 2. Les constatations matérielles contenus dans les procès-verbaux peuvent être utilisées en conservant leur force probante par un autre membre du service d'inspection de l'Autorité de protection des données ou par un autre service d'inspection ou organe administratif chargé du contrôle du respect d'autres législations.
+
+Les renseignements qui relèvent d'une information ou d'une enquête judiciaire en cours ne peuvent être communiqués et utilisés que moyennant autorisation préalable du procureur du Roi ou du juge d'instruction.
+
+Les informations concernant des données médicales de nature personnelle ne peuvent être communiquées et utilisées que dans le respect du secret médical.
+
+§ 3. Les faits constatés par d'autres services d'inspection ou organes administratifs chargés du contrôle peuvent être utilisés par l'inspecteur général et les inspecteurs dans leurs enquêtes et être mentionnés avec la même valeur probante dans les procès-verbaux dressés par eux dans le cadre de leur mission.
+
+[<sup>1</sup> § 4. L'enquête est secrète sauf exception légale, jusqu'au moment du dépôt du rapport de l'inspecteur général auprès de la chambre contentieuse.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 45, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 68
+
+Sans préjudice de l'article 44/1 de la loi du 5 août 1992 sur la fonction de police, tous les services de l'Etat, y compris les parquets et les greffes des cours et de tribunaux, des provinces, des communes, des associations dont elles font partie, des institutions publiques qui en dépendent, sont tenus, vis-à-vis de l'inspecteur général et des inspecteurs et à leur demande, de leur fournir tous renseignements que ces derniers estiment utiles au contrôle du respect de la législation dont ils sont chargés, ainsi que de leur produire, pour en prendre connaissances, tous les supports d'information et de leur en fournir des copies sous n'importe quelle forme.
+
+Si ces renseignements relèvent d'une enquête ou d'une information en cours, ils ne peuvent être communiqués que moyennant autorisation préalable du procureur du Roi ou du juge d'instruction.
+
+##### Art. 69
+
+Dans le cadre de l'article 62 du Règlement 2016/679, le service d'inspection peut mener des opérations conjointes auxquelles participent des membres ou des agents des autorités de protection des données d'autres Etats.
+
+3\. Mesures provisoires
+
+##### Art. 70
+
+L'inspecteur général et les inspecteurs peuvent ordonner la suspension, la limitation ou le gel temporaire du traitement de données qui font l'objet d'une enquête s'il convient d'éviter une situation susceptible de causer un préjudice grave, immédiat et difficilement réparable.
+
+Les parties concernées peuvent être entendues par l'inspecteur général ou un inspecteur avant qu'une mesure provisoire soit exécutée. Si les parties concernées ne sont pas entendues au préalable, elles peuvent faire connaître leurs griefs, soit verbalement, soit par écrit, dans un délai de cinq jours à partir de l'exécution de la mesure.
+
+La décision du service d'inspection est motivée et fixe la durée de la mesure provisoire qui peut être de trois mois, prorogeable d'une nouvelle durée de trois mois au maximum.
+
+##### Art. 71
+
+Un recours auprès de la chambre contentieuse est ouvert aux parties concernées contre les mesures visées à l'article 70. Le recours ne suspend pas la mesure.
+
+Le recours est intenté par demande motivée et signée, déposée au secrétariat de la chambre contentieuse à peine de déchéance dans les 30 jours de la notification de la décision par envoi recommandé avec avis de réception.
+
+[<sup>1</sup> Les tiers intéressés, au sens de l'article 108, § 3, alinéa 2, dont les intérêts sont susceptibles d'être lésés par la procédure de recours mentionnée au premier alinéa, peuvent intervenir dans la procédure.]<sup>1</sup>
+
+4\. Recueillir des informations
+
+----------
+
+(1)&lt;L 2023-09-07/33, art. 2, 005; En vigueur : 17-02-2024&gt;
+
+##### Art. 72
+
+Sans préjudice des dispositions du présent chapitre, l'inspecteur général et les inspecteurs peuvent procéder à toute enquête, tout contrôle et toute audition, ainsi que recueillir toute information qu'ils estiment utile afin de s'assurer que les principes fondamentaux de la protection des données à caractère personnel, dans le cadre de la présente loi et des lois contenant des dispositions relatives à la protection du traitement des données à caractère personnel, sont effectivement respectées.
+
+5\. Identification des personnes
+
+##### Art. 73
+
+§ 1er. L'inspecteur général et les inspecteurs peuvent contrôler l'identité de toutes les personnes qui se trouvent sur le lieu contrôlé ainsi que de toute personne dont ils estiment l'identification nécessaire pour l'exercice de leur mission.
+
+Ils peuvent demander à ces personnes la présentation de documents d'identité officiels.
+
+Ils peuvent en outre identifier ces personnes à l'aide de documents non officiels que ces personnes leur présentent volontairement lorsqu'elles ne peuvent pas présenter de documents d'identification officiels ou lorsque les inspecteurs ont un doute quant à l'identité de ces personnes.
+
+§ 2. L'inspecteur général peut, par une décision motivée et écrite, procéder sur la base de toute donnée en sa possession à l'identification de l'abonné ou de l'utilisateur habituel d'un service de communication électronique ou du moyen de communication électronique utilisé.
+
+Si l'inspecteur général ne peut pas identifier la personne visée à l'alinéa 1er sur la base de toute donnée en sa possession, il peut requérir la collaboration de:
+
+\- l'opérateur d'un réseau de communication électronique; et
+
+\- toute personne qui, sur le territoire belge, de quelque manière que ce soit, propose ou met à disposition un service, qui consiste en le relai de signaux par le biais de réseaux de communication électronique ou qui consiste à permettre à des utilisateurs d'obtenir, recevoir ou diffuser des informations par le biais d'un réseau de communication électronique. En cela, on inclut également le prestataire d'un service de communication électronique.
+
+La motivation reflète la proportionnalité eu égard au respect de la vie privée et la subsidiarité à tout autre devoir d'enquête.
+
+6\. Audition
+
+##### Art. 74
+
+L'inspecteur général et les inspecteurs peuvent, éventuellement en présence de témoins, d'experts ou de services de police, interroger toute personne dont ils estiment l'audition nécessaire, sur tout fait utile pour l'exercice de leurs missions.
+
+L'audition est conforme à l'article 31 de la loi du 15 juin 1935 concernant l'emploi des langues en matière judicaire.
+
+Lors de l'audition de personnes, quelle que soit leur qualité, les règles visées à l'article 75 au minimum devront être respectées.
+
+##### Art. 75
+
+§ 1er. Au début de l'audition, la personne interrogée est informée que:
+
+1° ses déclarations peuvent être utilisées comme preuve en justice;
+
+2° elle peut être assistée d'un conseil;
+
+3° elle peut demander que toutes les questions qui lui sont posées et les réponses qu'elle donne soient actées dans les termes utilisés;
+
+4° elle peut demander qu'il soit procédé à des actes d'enquête;
+
+5° elle peut obtenir gratuitement copie du texte de l'audition, qui lui sera remise immédiatement après l'audition ou lui sera envoyée dans le mois.
+
+§ 2. Toute personne interrogée peut utiliser les documents en sa possession et exiger que ces documents soient joints au procès-verbal d'audition.
+
+Le procès-verbal mentionne le moment auquel l'audition prend cours, est éventuellement interrompue, reprend, et prend fin. Il mentionne l'identité des personnes qui interviennent dans l'audition ou une partie de celle-ci.
+
+§ 3. A la fin de l'audition le procès-verbal est donné en lecture à la personne interrogée. Il lui est demandé si ces déclarations doivent être corrigées ou complétées.
+
+7\. Enquête écrite
+
+##### Art. 76
+
+L'inspecteur général et les inspecteurs peuvent demander par écrit toutes informations utiles aux personnes qu'ils estiment nécessaire.
+
+L'inspecteur général et les inspecteurs déterminent le délai dans lequel la réponse à sa demande d'information doit être fournie et peuvent à tout moment demander des informations complémentaires.
+
+##### Art. 77
+
+La personne interrogée a le droit de préciser sa réponse en y incluant des explications et des informations.
+
+8\. Examen sur place
+
+##### Art. 78
+
+Lorsque l'inspecteur général et les inspecteurs ont des raisons de penser qu'une infraction aux principes fondamentaux de la protection des données à caractère personnel, dans le cadre de la présente loi et des lois contenant des dispositions relatives à la protection du traitement des données à caractère personnel est commise, ils peuvent pénétrer à tout moment dans l'entreprise, le service, ou tout autre endroit pour procéder à un examen sur place afin d'y faire des constatations matérielles.
+
+Sauf accord écrit de la personne concernée ou autorisation du juge d'instruction, l'inspecteur général et les inspecteurs ne peuvent, sans la présence d'un représentant de l'ordre professionnel, pénétrer dans les locaux d'un professionnel qui est soumis au secret professionnel et pour qui une règlementation légale est prévue concernant des examens sur place et l'accès à leurs locaux professionnels.
+
+##### Art. 79
+
+§ 1er. Lorsque l'inspecteur général et les inspecteurs ont des raisons de penser qu'une infraction aux principes fondamentaux de la protection des données à caractère personnel, dans le cadre de la présente loi et des lois contenant des dispositions relatives à la protection du traitement des données à caractère personnel est commise, ils peuvent pénétrer dans des espaces habités, moyennant l'accord de l'occupant ou, à défaut, une autorisation préalable du juge d'instruction.
+
+§ 2. Pour obtenir cette autorisation, l'inspecteur général adresse une demande motivée au juge d'instruction du ressort de la personne contrôlée. Cette demande comporte au moins les données suivantes:
+
+1° l'identification des espaces habités qui font l'objet d'une visite;
+
+2° le nom de l'inspecteur qui dirige la visite des espaces habités;
+
+3° la législation qui fait l'objet du contrôle et pour laquelle les inspecteurs estiment nécessaire d'obtenir une autorisation de visite;
+
+4° les infractions présumées qui sont l'objet du contrôle;
+
+5° tous les documents et renseignements prouvant que l'emploi de ce moyen est nécessaire;
+
+6° la proportionnalité à l'égard de tout autre devoir d'enquête.
+
+§ 3. Le juge d'instruction décide dans un délai de maximum quarante-huit heures après réception de la demande. Cette décision n'est susceptible d'aucun recours.
+
+§ 4. Les visites des locaux habités sans l'accord de l'occupant sont effectuées entre cinq heures et vingt-et-une heures par au moins deux inspecteurs agissant conjointement.
+
+##### Art. 80
+
+La personne contrôlée est informée du but de l'examen et de la législation applicable.
+
+A l'exception des pièces permettant de connaître l'identité du plaignant, toutes les pièces motivant la demande d'autorisation de visite doivent être jointes au rapport visé à l'article 91, § 1er.
+
+La personne contrôlée peut rédiger une déclaration qui est jointe au procès-verbal.
+
+9\. Consultation du système informatique et copie des données sur le système informatique
+
+##### Art. 81
+
+§ 1er. Lorsque l'inspecteur général et les inspecteurs ont des raisons de penser qu'une infraction aux principes fondamentaux de la protection des données à caractère personnel, dans le cadre de la présente loi et des lois contenant des dispositions relatives à la protection du traitement des données à caractère personnel est commise, ils peuvent consulter tous les systèmes d'information et les données qu'ils contiennent, moyennant l'accord de la personne contrôlée ou, à défaut, une autorisation préalable du juge d'instruction.
+
+§ 2. L'inspecteur général et les inspecteurs peuvent se faire produire sur place le système informatique et les données qu'ils contiennent dont ils ont besoin pour leurs examens et constatations, et en prendre ou en demander gratuitement des extraits, des duplicatas ou des copies, sous une forme lisible et intelligible qu'ils ont demandée.
+
+S'il n'est pas possible de prendre des copies sur place, l'inspecteur général et les inspecteurs peuvent saisir, contre récépissé contenant un inventaire, le système informatique et les données qu'ils contiennent, aux conditions visées à l'article 89.
+
+§ 3. La personne contrôlée doit garantir un accès par voie électronique au système informatique et à ces données à l'inspecteur général et aux inspecteurs.
+
+L'inspecteur général et les inspecteurs peuvent prendre ou demander gratuitement des extraits, des duplicatas ou des copies du système informatique et des données qu'ils contiennent, sous une forme lisible et intelligible qu'ils ont demandée.
+
+##### Art. 82
+
+La remise du système informatique se fait contre remise d'un inventaire des systèmes informatiques concernés.
+
+##### Art. 83
+
+La compétence visée à l'article 81, § 1er, s'applique aussi lorsque le lieu de conservation de ces données est situé dans un autre Etat et que ces données sont accessibles publiquement en Belgique par voie électronique ou moyennant le consentement des personnes légalement autorisées à utiliser le système informatique en examen.
+
+##### Art. 84
+
+§ 1er. La personne contrôlée qui recourt à un système informatique pour traiter des données à caractère personnel, communique sans déplacement, les données d'analyse, de programmation, de gestion et de l'exploitation du système utilisé.
+
+§ 2. L'inspecteur général et les inspecteurs peuvent demander la traduction dans une des langues nationales, des données qui doivent être tenues à jour en vertu d'une obligation réglementaire et qui sont dans une langue étrangère.
+
+§ 3. L'inspecteur général et les inspecteurs peuvent vérifier, au moyen du système informatique et avec l'assistance de la personne contrôlée, la fiabilité des données et traitements informatiques, en exigeant la communication de documents spécialement établis en vue de présenter les données enregistrées sur les systèmes informatiques sous une forme lisible et intelligible.
+
+##### Art. 85
+
+L'inspecteur général et les inspecteurs prennent les mesures appropriées pour garantir l'intégrité des données récoltées et du matériel auquel ils ont accès.
+
+##### Art. 86
+
+L'inspecteur général et les inspecteurs peuvent accéder à et copier toute information qui sont électroniquement accessibles au public, gratuitement ou contre paiement. Pour ce faire, ils ne peuvent pas prendre une identité fictive crédible, ni utiliser des documents fictifs, ni interagir personnellement avec une personne.
+
+##### Art. 87
+
+L'inspecteur général et les inspecteurs peuvent tester des mesures de sécurité de systèmes d'information ou le faire faire par des experts moyennant le consentement préalable de la personne contrôlée, ou à défaut de celui-ci, moyennant l'autorisation préalable du juge d'instruction.
+
+##### Art. 88
+
+Les mesures d'enquête prises en exécution de la présente loi ne peuvent donner lieu à l'application [<sup>1</sup> des articles 524 à 530]<sup>1</sup> du Code pénal.
+
+10\. Saisie et mise sous scellé
+
+----------
+
+(1)&lt;L 2026-03-30/01, art. 181, 007; En vigueur : 01-09-2026&gt;
+
+##### Art. 89
+
+§ 1er. L'inspecteur général et les inspecteurs peuvent mettre des objets, des documents ou des systèmes informatiques sous scellés ou les saisir pour la durée de leur mission et sans que cela ne puisse excéder septante-deux heures.
+
+Ils disposent de ces compétences lorsqu'elles sont nécessaires à l'information, à l'enquête ou à la fourniture d'une preuve des infractions ou lorsqu'il existe un risque que ces systèmes informatiques servent à continuer les infractions ou à en commettre de nouvelles.
+
+Ces mesures sont constatées par procès-verbal, dont copie est remise à la personne qui a fait l'objet de ces mesures.
+
+§ 2. Au-delà de septante-deux heures, l'inspecteur général et les inspecteurs peuvent, moyennant l'autorisation préalable du juge d'instruction, mettre sous scellés ou saisir des objets, des documents ou des systèmes informatiques qui soit constituent l'objet de l'infraction soit ont servi à commettre l'infraction.
+
+Ces mesures sont constatées par procès-verbal, dont copie est remise immédiatement à la personne qui a fait l'objet de ces mesures.
+
+§ 3. Les objets, documents ou systèmes informatiques mis sous scellés ou saisis sont mentionnés dans un registre spécial tenu à cet effet.
+
+##### Art. 90
+
+Un recours auprès de la chambre contentieuse est ouvert aux parties concernées contre les mesures visées à l'article 89.
+
+Le recours est intenté par demande motivée et signée, déposée au secrétariat de la chambre contentieuse à peine de déchéance dans les trente jours de la remise du procès-verbal par envoi recommandé avec avis de réception.
+
+[<sup>1</sup> Les tiers intéressés, au sens de l'article 108, § 3, alinéa 2, dont les intérêts sont susceptibles d'être lésés par la procédure de recours mentionnée au premier alinéa, peuvent intervenir dans la procédure.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-09-07/33, art. 3, 005; En vigueur : 17-02-2024&gt;
+
+### Section 3. [<sup>1</sup> - Clôture de l'enquête]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 47, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 91
+
+§ 1er. Lorsqu'ils estiment leur enquête terminée, l'inspecteur général et les inspecteurs rédigent leur rapport et le joignent au dossier.
+
+§ 2. L'inspecteur général peut:
+
+\- transmettre le dossier au [<sup>1</sup> directeur]<sup>1</sup> de la chambre contentieuse;
+
+\- transmettre le dossier au procureur du Roi lorsque les faits peuvent constituer une infraction pénale;
+
+\- classer le dossier sans suite;
+
+\- transmettre le dossier à une autorité de protection des données d'un autre Etat.
+
+§ 3. Lorsque l'inspecteur général a transmis le dossier au procureur du roi et que le ministère public renonce à engager des poursuites pénales, à proposer une résolution à l'amiable ou une médiation pénale au sens de l'article 216ter du Code d'instruction criminelle, ou lorsque le ministère public n'a pas pris de décision pendant un délai de six mois à compter du jour de réception du dossier, l'Autorité de protection des données détermine si la procédure administrative doit être reprise.
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 46, 006; En vigueur : 01-06-2024&gt;
+
+### Section 4. [<sup>1</sup> - La décision de fond]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 47, 006; En vigueur : 01-06-2024&gt;
+
+#### Sous-section 1re.
+
+&lt;Abrogé par L 2023-12-25/29, art. 47, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 92
+
+La chambre contentieuse peut être saisie par:
+
+1° le service de première ligne [<sup>1</sup> ...]<sup>1</sup> pour le traitement d'une plainte;
+
+2° une partie concernée qui introduit un recours contre des mesures du service d'inspection, conformément aux articles 71 et 90;
+
+3° le service d'inspection, après clôture d'une enquête conformément à l'article 91 § 2.
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 48, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 93
+
+La procédure devant la chambre contentieuse est en principe écrite. Toutefois la chambre contentieuse peut entendre les parties concernées.
+
+#### Sous-section 2.
+
+&lt;Abrogé par L 2023-12-25/29, art. 47, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 94
+
+[<sup>1</sup> § 1er. Une fois saisie, la chambre contentieuse décide, à titre transitoire, quelle suite elle réserve au dossier.
+
+Elle peut, à cette fin:
+
+1° demander des informations aux parties afin de pouvoir constater l'ampleur du litige;
+
+2° demander une enquête au service d'inspection;
+
+3° demander au service d'inspection d'effectuer une enquête complémentaire lorsqu'elle est saisie conformément à l'article 92, 3° ;
+
+4° constater que le dossier peut être traité sur le fond;
+
+5° décider de statuer conformément à l'article 95, § 1er;
+
+6° classer partiellement le dossier sans suite si certains éléments peuvent s'avérer non établis ou non fondés.
+
+§ 2. La chambre contentieuse peut, dans un même dossier, prendre successivement plusieurs décisions interlocutoires conformément au paragraphe 1er. Un recours contre les décisions interlocutoires visées au paragraphe 1er doit être formé avec le recours contre la décision définitive.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 49, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 95
+
+§ 1er. La chambre contentieuse décide du suivi qu'elle donne au dossier et a le pouvoir de:
+
+1° décider que le dossier peut être traité sur le fond;
+
+2° proposer une transaction;
+
+3° classer la plainte sans suite;
+
+4° formuler des avertissements;
+
+5° d'ordonner de se conformer aux demandes de la personne concernée d'exercer ces droits;
+
+6° d'ordonner que l'intéressé soit informé du problème de sécurité;
+
+7° de transmettre le dossier au parquet du procureur du Roi de Bruxelles, qui l'informe des suites données au dossier;
+
+8° de décider au cas par cas de publier ses décisions sur le site internet de l'Autorité de protection des données.
+
+§ 2. Dans les cas mentionnés au § 1er, 4° à 6°, elle informe sans délai les parties concernées par envoi recommandé:
+
+1° du fait qu'un dossier est pendant;
+
+2° du contenu de la plainte, le cas échéant à l'exception des pièces permettant de connaître l'identité du plaignant;
+
+3° que le dossier peut être consulté et copié au secrétariat de la chambre contentieuse, le cas échéant à l'exception des pièces permettant de connaître l'identité du plaignant, ainsi que des jours et heures de consultation.
+
+§ 3. Lorsqu'après application du § 1er, 7°, le ministère public renonce à engager des poursuites pénales, à proposer une résolution à l'amiable ou une médiation pénale au sens de l'article 216ter du Code d'instruction criminelle, ou lorsque le ministère public n'a pas pris de décision pendant un délai de six mois à compter du jour de réception du dossier, l'Autorité de protection des données détermine si la procédure administrative doit être reprise.
+
+##### Art. 96
+
+&lt;Abrogé par L 2023-12-25/29, art. 50, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 97
+
+Si le rapport de l'inspecteur général fait mention de constatations d'infractions à une autre législation que celle qui porte sur la protection des données à caractère personnel, la chambre contentieuse doit transmettre copie de ces constatations au procureur du Roi.
+
+#### Sous-section 3.
+
+&lt;Abrogé par L 2023-12-25/29, art. 47, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 98
+
+Lorsque la chambre contentieuse décide que le dossier peut être examiné sur le fond, elle informe sans délai les parties concernées par envoi recommandé des dispositions telles qu'énoncées à l'article 95, § 2, et de la possibilité:
+
+1° d'accepter toutes communications relatives à l'affaire par voie électronique;
+
+2° de transmettre leurs conclusions et de demander à être entendues;
+
+3° d'ajouter au dossier toutes les pièces qu'elles estiment utiles.
+
+[<sup>1</sup> Les tiers intéressés, au sens de l'article 108, § 3, alinéa 2, dont les intérêts sont susceptibles d'être lésés par la procédure au fond, peuvent intervenir dans la procédure.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-09-07/33, art. 4, 005; En vigueur : 17-02-2024&gt;
+
+##### Art. 99
+
+La chambre contentieuse invite les parties à transmettre leurs conclusions.
+
+[<sup>1</sup> A sa propre initiative ou à la demande d'une partie concernée, le directeur de la chambre contentieuse peut décider de convoquer les parties pour être entendues lors d'une audition, au cours de laquelle elles pourront se faire assister ou représenter par un avocat. Les parties concernées sont entendues en leurs moyens de défense.
+
+Les débats ont lieu dans la langue de la procédure, telle que choisie par les parties, dans les limites fixées par l'article 41 des lois coordonnées du 18 juillet 1966 sur l'emploi des langues en matière administrative.
+
+Après les auditions, le dossier est considéré comme complet et la chambre contentieuse entame ses délibérations aux fins de prendre une décision.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 51, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 100
+
+§ 1er. La chambre contentieuse a le pouvoir de:
+
+1° classer la plainte sans suite;
+
+2° ordonner le non-lieu;
+
+3° prononcer la suspension du prononcé;
+
+4° proposer une transaction;
+
+5° formuler des avertissements et des réprimandes;
+
+6° ordonner de se conformer aux demandes de la personne concernée d'exercer ces droits;
+
+7° ordonner que l'intéressé soit informé du problème de sécurité;
+
+8° ordonner le gel, la limitation ou l'interdiction temporaire ou définitive du traitement;
+
+9° ordonner une mise en conformité du traitement;
+
+10° ordonner la rectification, la restriction ou l'effacement des données et la notification de celles-ci aux récipiendaires des données;
+
+11° ordonner le retrait de l'agréation des organismes de certification;
+
+12° donner des astreintes;
+
+13° donner des amendes administratives;
+
+14° ordonner la suspension des flux transfrontières de données vers un autre Etat ou un organisme international;
+
+15° transmettre le dossier au parquet du Procureur du Roi de Bruxelles, qui l'informe des suites données au dossier;
+
+16° décider au cas par cas de publier ses décisions sur le site internet de l'Autorité de protection des données.
+
+§ 2. Lorsqu'après application du § 1er, 15°, le ministère public renonce à engager des poursuites pénales, à proposer une résolution à l'amiable ou une médiation pénale au sens de l'article 216ter du Code d'instruction criminelle, ou lorsque le ministère public n'a pas pris de décision pendant un délai de six mois à compter du jour de réception du dossier, l'Autorité de protection des données détermine si la procédure administrative doit être reprise.
+
+##### Art. 101
+
+La chambre contentieuse peut [<sup>1</sup> adopter les mesures correctrices visées à l'article 58, § 2]<sup>1</sup> du Règlement 2016/679.
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 52, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 102
+
+La décision d'imposition de l'amende administrative [<sup>1</sup> conformément à l'article 83 du Règlement 2016/679]<sup>1</sup> est motivée et fixe le montant de l'amende.
+
+Le paiement du montant de l'amende administrative doit être effectué dans les trente jours à compter de la date de l'envoi recommandé avec accusé de réception notifiant la décision d'imposition de l'amende administrative.
+
+----------
+
+(1)&lt;L 2023-12-25/29, art. 53, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 103
+
+En cas de concours d'infractions, les montants des amendes administratives visées à l'article 83 du Règlement 2016/679 sont cumulés sans que le montant total puisse excéder le double du montant d'amende le plus élevé applicable aux infractions commises.
+
+Si un contrevenant a commis plusieurs infractions par le même acte, seule la plus lourde amende administrative des différentes infractions est d'application.
+
+##### Art. 104
+
+Il ne peut être tenu compte d'une décision infligeant une amende administrative ou déclarant la culpabilité adoptée trois ans ou plus avant les faits.
+
+Ce délai de trois ans commence à courir au moment où la décision est devenue exécutoire ou lorsque la décision judiciaire statuant sur le recours est coulée en force de chose jugée.
+
+##### Art. 105
+
+Les faits sont prescrits cinq ans après leur commission.
+
+La prescription n'est interrompue que par des actes d'enquête ou de poursuite.
+
+Ces actes font courir un nouveau délai d'égale durée, même à l'égard des personnes qui n'y sont pas impliquées.
+
+##### Art. 106
+
+Les amendes administratives sont prescrites 5 ans à compter de la date à laquelle elles doivent être payées.
+
+Le délai de prescription est suspendu en cas d'un recours contre la décision de la chambre contentieuse d'imposition d'une amende administrative.
+
+##### Art. 107
+
+Les astreintes, amendes et transactions imposées en application de la présente loi sont versées ou recouvrées au profit du Trésor par l'administration générale de la Perception et du Recouvrement.
+
+#### Sous-section 4.
+
+&lt;Abrogé par L 2023-12-25/29, art. 47, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 108
+
+§ 1er. La chambre contentieuse informe les parties de sa décision et de la possibilité de recours dans un délai de trente jours, à compter de la notification à la Cour des marchés.
+
+Sauf les exceptions prévues par la loi ou sauf si la chambre contentieuse en décide autrement par décision spécialement motivée, la décision est exécutoire par provision, nonobstant recours.
+
+La décision d'effacement des données conformément à l'article 100, § 1er, 10°, n'est pas exécutoire par provision.
+
+§ 2 Un recours peut être introduit contre les décisions de la chambre contentieuse en vertu des articles 71 et 90 devant la Cour des marchés qui traite l'affaire selon les formes du référé conformément aux articles 1035 à 1038, 1040 et 1041 du Code judiciaire.
+
+[<sup>1</sup> § 3. Chaque tiers intéressé peut introduire un recours devant la Cour des marchés contre une décision de la chambre contentieuse dans les trente jours après la publication de la décision sur le site web de l'Autorité de protection des données.
+
+Il faut entendre par tiers intéressé la personne qui n'était pas partie à la procédure devant la chambre contentieuse mais qui subit un préjudice personnel, direct, certain, actuel et légitime en raison de la décision de la chambre contentieuse et qui, dans cette mesure, justifie d'un intérêt à introduire un recours contre cette décision.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-09-07/33, art. 5, 005; En vigueur : 17-02-2024&gt;
+
+## CHAPITRE 7. - Dispositions abrogatoires, transitoires et finales
+
+##### Art. 109
+
+Les chapitres VII et VIIbis de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel sont supprimés.
+
+##### Art. 110
+
+La présente loi entre en vigueur le 25 mai 2018, à l'exception du chapitre III, qui entre en vigueur le jour de sa publication au Moniteur belge.
+
+Le Roi peut fixer une date d'entrée en vigueur antérieure à celle mentionnée à l'alinéa 1er pour chacune de ses dispositions, à l'exception des dispositions du chapitre III.
+
+##### Art. 111
+
+Sans préjudice des pouvoirs de contrôle de l'Autorité de protection des données, les autorisations accordées par les comités sectoriels de la Commission de la protection de la vie privée avant l'entrée en vigueur de cette loi gardent leur validité juridique.
+
+[<sup>1</sup> Une adhésion à une autorisation générale octroyée par délibération d'un comité sectoriel reste possible si celui qui demande l'adhésion remet une déclaration d'engagement écrite et signée soit au Comité sectoriel du Registre national, soit au Comité sectoriel de la Sécurité Sociale et de la Santé ou, lorsque la loi aura mis fin à ces comités, à l'organe créé par le législateur pour octroyer des délibérations relatives à l'échange de données à caractère personnel ou à l'utilisation du numéro de Registre national, dans laquelle il confirme adhérer aux conditions de la délibération en question, sans préjudice des pouvoirs de contrôle que peut exercer l'Autorité de protection des données. Les adhésions aux autorisations générales sont publiées sur le site Internet de l'organe chargé de leur réception.]<sup>1</sup>
+
+Sauf dispositions légales autres, les demandes d'autorisation en cours introduites avant l'entrée en vigueur de la loi sont traitées par le fonctionnaire de la protection des données des institutions concernées par l'échange des données.
+
+----------
+
+(1)&lt;L 2018-07-30/46, art. 279, 004; En vigueur : 05-09-2018&gt;
+
+##### Art. 112
+
+Le chapitre VI ne s'applique pas aux plaintes ou demandes encore pendantes auprès de l'Autorité de protection des données au moment de l'entrée en vigueur de la présente loi.
+
+Les plaintes ou demandes visées à l'alinéa 1er sont traitées par l'Autorité de protection des données, en tant que successeur juridique de la Commission de la protection de la vie privée, selon la procédure applicable avant l'entrée en vigueur de la présente loi.
+
+##### Art. 113
+
+Les membres du personnel statutaire et contractuel engagés par la Commission de la protection de la vie privée sont transférés à l'Autorité de protection des données à la date d'entrée en vigueur de l'article 109, avec maintien de leurs qualité et droits, de leur ancienneté, de leur salaire, de leurs indemnités et suppléments et autres avantages qui leur ont été accordés conformément à la réglementation ou au contrat de travail.
+
+##### Art. 114
+
+[<sup>1</sup> § 1er. Le mandat des membres de la Commission de la protection de la vie privée prend fin le jour où les membres du Comité de direction prêtent le serment [<sup>2</sup> visé à l'article 8, § 2]<sup>2</sup>, et signent la déclaration d'absence de conflits d'intérêts visée à l'article 44, § 2, alinéa 1er.
+
+Pendant la période entre le 25 mai 2018 et le jour visé à l'alinéa 1er, les membres de la Commission de la protection de la vie privée exercent les missions et les compétences de l'Autorité de protection des données.
+
+Jusqu'à la fin de leur mandat, la rémunération et le statut des membres de la Commission de la protection de la vie privée sont réglés conformément à la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel.
+
+§ 2. Le mandat des membres externes des comités sectoriels de l'autorité fédérale, de la Banque-Carrefour des Entreprises et du Comité de Surveillance statistique prend fin le 25 mai 2018.
+
+§ 3. Le mandat des membres externes du comité sectoriel de la sécurité sociale et de la santé cesse le jour où la loi met fin à leur mandat.
+
+Pendant la période entre le 25 mai 2018 et le jour visé à l'alinéa 1er, le comité sectoriel de la sécurité sociale et de la santé se réunit comme une seule instance intégrant les deux sections et il exerce uniquement les tâches qui sont compatibles avec le Règlement 2016/679.
+
+Pendant la période visée à l'alinéa 2, le président du comité sectoriel de la sécurité sociale et de la santé est considéré comme un membre externe et est traité comme tel.
+
+Pendant la période visée à l'alinéa 2, les frais de fonctionnement, les indemnités et les remboursements de frais sont pris en charge par la Banque-Carrefour de la Sécurité sociale et la Plate-forme eHealth.
+
+§ 4. Le mandat des membres externes du comité sectoriel du Registre national cesse le jour où la loi met fin à leur mandat.
+
+Pendant la période entre le 25 mai 2018 et le jour visé à l'alinéa 1er, le comité sectoriel du Registre national exerce les tâches des comités sectoriels du Registre national et pour l'autorité fédérale qui sont compatibles avec le Règlement 216/679.
+
+Pendant la période visée à l'alinéa 2, le président du comité sectoriel du Registre national est considéré comme un membre externe et est traité comme tel.
+
+Pendant la période visée à l'alinéa 2, les frais de fonctionnement, les indemnités et les remboursements de frais sont pris en charge par le Service public fédéral Stratégie et Appui.
+
+Le Service public fédéral Stratégie et Appui rédige les avis techniques et juridiques, le cas échéant en concertation avec le Service public fédéral Intérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-05-25/01, art. 2, 003; En vigueur : 25-05-2018&gt;
+
+(2)&lt;L 2023-12-25/29, art. 54, 006; En vigueur : 01-06-2024&gt;
+
+##### Art. 115
+
+[<sup>1</sup> Le mandat du président et du vice-président de la Commission de la protection de la vie privée sont assimilés, en matière de pensions, à une nomination à titre définitif. Ils bénéficient du régime de pension qui s'applique aux fonctionnaires de l'administration générale. Ces pensions sont à charge du Trésor public.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-04/04, art. 5, 002; En vigueur : 10-01-2018&gt;
+
+##### Art. 116
+
+&lt;Abrogé par L 2023-12-25/29, art. 55, 006; En vigueur : 01-06-2024&gt;
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 3 décembre 2017.
+
+PHILIPPE
+
+Par le Roi :
+
+La Ministre des Affaires sociales et de la Santé publique,
+
+M. DE BLOCK
+
+Le Ministre de la Justice,
+
+K. GEENS
+
+Le secrétaire d'Etat à la Lutte contre la Fraude sociale, à la Protection de la Vie privée et à la Mer du Nord, adjoint à la Ministre des Affaires sociales et de la Santé publique,
+
+Ph. DE BACKER
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS

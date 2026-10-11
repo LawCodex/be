@@ -1,0 +1,1170 @@
+---
+title: "Loi contenant les missions et la composition de l'Organe central pour la Saisie et la Confiscation (appelée la \"loi OCSC\")"
+identifier: "2018030424"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2018/02/04/2018030424/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2018-02-04
+published: 2018-02-26
+entry_into_force: 2018-07-01
+last_amended: 2026-04-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2018/02/04/2018030424/justel"
+department: "Justice"
+justel_note: "Consultation des versions antérieures à partir du 26-02-2018 et mise à jour au 02-04-2026"
+retrieved: 2026-10-11
+---
+
+# 4 FEVRIER 2018. - Loi contenant les missions et la composition de l'Organe central pour la Saisie et la Confiscation (appelée la "loi OCSC")
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions générales
+
+##### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+##### Art. 2
+
+La présente loi transpose partiellement la directive 2014/42/UE du Parlement européen et du Conseil du 3 avril 2014 concernant le gel et la confiscation des instruments et des produits du crime dans l'Union européenne.
+
+##### Art. 3
+
+Pour l'application de la présente loi et de ses arrêtés d'exécution, on entend par :
+
+1° avoir patrimonial : bien, meuble ou immeuble, corporel ou incorporel, susceptible de saisie ou de confiscation, et dont la vente est licite;
+
+2° gestion à valeur constante :
+
+a) l'aliénation d'avoirs patrimoniaux saisis afin de leur subroger le produit obtenu;
+
+b) la restitution d'avoirs patrimoniaux saisis moyennant paiement d'une somme d'argent, afin de leur subroger cette somme;
+
+c) la conservation en nature d'avoirs patrimoniaux saisis en fonction des moyens disponibles avec ou sans cautionnement;
+
+3° gestion obligatoire :
+
+a) la conservation de liquidités saisies sur un compte ouvert auprès d'une institution financière ou de la Caisse des Dépôts et Consignations;
+
+b) la conservation des soldes de comptes bancaires saisis transférés à l'Organe central sur un compte ouvert auprès d'une institution financière ou de la Caisse des Dépôts et Consignations;
+
+c) la conservation des sommes d'argent qui se sont substituées à des avoirs patrimoniaux qui faisaient l'objet d'une mesure de gestion à valeur constante;
+
+d) la conservation des valeurs virtuelles saisies;
+
+4° gestion facultative : la gestion de titres et d'autres biens meubles et immeubles qui exigent une gestion spécialisée et qui ne font pas l'objet d'une mesure de gestion obligatoire;
+
+[<sup>1</sup> 5° restitution:
+
+a) la restitution d'avoirs patrimoniaux saisis au sens [<sup>2</sup> de l'article 67]<sup>2</sup> du Code pénal;
+
+b) la mainlevée d'avoirs patrimoniaux saisis sur ordre du juge ou du ministère public;
+
+c) la mainlevée d'avoirs patrimoniaux saisis pour lesquels le ministère public ou le juge répressif n'a pas déterminé de destination, par décision du directeur de l'Organe central conformément à l'article 19;
+
+6° services de renseignement et de sécurité: les services visés à l'article 2, § 1er, alinéa 1er, de la loi organique du 30 novembre 1998 des services de renseignement et de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-18/08, art. 6, 007; En vigueur : 12-05-2024&gt;
+
+(2)&lt;L 2026-03-30/01, art. 182, 008; En vigueur : 01-09-2026&gt;
+
+## CHAPITRE 2. - Statut juridique [<sup>1</sup> de l'Organe central]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-18/08, art. 7, 007; En vigueur : 12-05-2024&gt;
+
+##### Art. 4
+
+L'Organe central pour la Saisie et la Confiscation, ci-après appelé l'Organe central, est une composante du ministère public.
+
+Son siège est établi dans l'arrondissement administratif de Bruxelles-Capitale.
+
+##### Art. 5
+
+L'Organe central est désigné comme "un bureau centralisé", au sens de l'article 10 de la directive 2014/42/UE du Parlement européen et du Conseil du 3 avril 2014 concernant le gel et la confiscation des instruments et des produits du crime dans l'Union européenne et un "un bureau national de recouvrement des avoirs patrimoniaux" au sens de la décision 2007/845/JAI du Conseil du 6 décembre 2007 relative à la coopération entre les bureaux de recouvrement des avoirs des Etats membres en matière de dépistage et d'identification des produits du crime ou des autres biens en rapport avec le crime.
+
+##### Art. 6
+
+Sans préjudice des articles 143bis et 143quater du Code judiciaire, l'Organe central exerce ses missions sous l'autorité du ministre qui a la Justice dans ses attributions.
+
+## CHAPITRE 3. - Missions de l'Organe central
+
+### Section 1re. - Disposition générale
+
+##### Art. 7
+
+§ 1er. Sans préjudice des missions prévues par d'autres dispositions légales, et dans le cadre de ses tâches de gestions, l'Organe central :
+
+1° assure la gestion obligatoire des sommes d'argent et des valeurs virtuelles qui lui sont confiées;
+
+2° assure la gestion facultative des avoirs patrimoniaux saisis qu'il accepte;
+
+3° exécute les mesures de gestion à valeur constante d'avoirs patrimoniaux à la demande du magistrat compétent du ministère public ou du juge d'instruction;
+
+4° met à disposition des services de police [<sup>2</sup> ou des services de renseignement et de sécurité]<sup>2</sup> les avoirs patrimoniaux saisis.
+
+§ 2. L'Organe central assure la gestion centralisée et informatisée des données relatives à ses missions en général et aux avoirs patrimoniaux qu'il gère en particulier.
+
+§ 3. Sans préjudice des missions prévues dans d'autres dispositions légales, et dans le cadre de ses missions d'exécution de décisions judiciaires, l'Organe central :
+
+1° assure la coordination de l'exécution des jugements et arrêts emportant la confiscation d'avoirs patrimoniaux;
+
+2° veille à exécuter la restitution, ordonnée par le ministère public ou le juge, d'avoirs patrimoniaux saisis qui ont été confiés à sa gestion;
+
+3° mène d'office ou à la demande du ministère public ou des services compétents du Service Public Fédéral Finances, des enquêtes de solvabilité;
+
+4° s'il est sollicité à cet effet, mène des enquêtes pénales d'exécution ou fournit une assistance à celles menées par le ministère public.
+
+§ 4. En matière de saisie en matière pénale et confiscation, sans préjudice des missions prévues dans d'autres dispositions légales, et dans le cadre de son rôle d'appui, l'Organe central :
+
+1° rend d'office ou à leur demande, des avis aux autorités compétentes;
+
+2° offre une assistance opérationnelle aux autorités compétentes, s'il est sollicité à cet effet;
+
+3° donne des formations thématiques aux autorités compétentes.
+
+§ 5. En matière de saisie en matière pénale et confiscation, sans préjudice des missions prévues dans d'autres dispositions légales, et des compétences d'autres services et autorités judiciaires, et dans le cadre de la coopération internationale en matière pénale, l'Organe central :
+
+1° facilitera l'entraide judiciaire internationale en matière pénale dans le domaine de la saisie et de la confiscation en application d'une convention;
+
+2° [<sup>1</sup> facilitera l'application du règlement (UE) 2018/1805 du Parlement européen et du Conseil du 14 novembre 2018 concernant la reconnaissance mutuelle des décisions de gel et des décisions de confiscation et de la loi du 5 août 2006 relative à l'application du principe de reconnaissance mutuelle des décisions judiciaires en matière pénale entre les Etats membres de l'Union européenne dans le domaine de la saisie et de la confiscation;]<sup>1</sup>
+
+3° fera exécuter à l'étranger les décisions judiciaires de confiscation conformément à l'article 197bis, § 3, du Code d'instruction criminelle;
+
+4° nouera et entretiendra des relations de service avec des institutions étrangères équivalentes et des organisations internationales et coopérera avec elles conformément aux dispositions conventionnelles et légales;
+
+[<sup>1</sup> 5° facilitera l'application de la loi du 22 mai 2017 relative à la décision d'enquête européenne en matière pénale, en ce qui concerne la saisie d'éléments de preuve.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-11-28/01, art. 132, 004; En vigueur : 10-12-2021&gt;
+
+(2)&lt;L 2024-04-18/08, art. 8, 007; En vigueur : 12-05-2024&gt;
+
+### Section 2. - Gestion d'avoirs patrimoniaux saisis
+
+#### Sous-section 1re. - Principes généraux
+
+##### Art. 8
+
+§ 1er. L'Organe central gère les avoirs patrimoniaux qui lui sont confiés en bon père de famille et selon les principes d'une gestion prudente et passive.
+
+§ 2. En vue de l'exécution de la gestion de sommes d'argent, l'Organe central fait appel aux services de la Caisse des Dépôts et Consignations ou d'institutions financières agréées en Belgique.
+
+§ 3. Le Roi établit la liste des valeurs gérées par l'Organe central.
+
+§ 4. Les frais de gestion sont des frais de justice taxés par le directeur de l'Organe central.
+
+##### Art. 8 DROIT FUTUR.
+
+§ 1er. L'Organe central gère les avoirs patrimoniaux qui lui sont confiés [<sup>1</sup> en personne prudente et raisonnable]<sup>1</sup> et selon les principes d'une gestion prudente et passive.
+
+§ 2. En vue de l'exécution de la gestion de sommes d'argent, l'Organe central fait appel aux services de la Caisse des Dépôts et Consignations ou [<sup>1</sup> d'une institution financière agréée]<sup>1</sup> en Belgique.
+
+§ 3. [<sup>1</sup> Sans préjudice de l'application de l'article 16, l'Organe central ne gère que des sommes d'argent en euros.
+
+Lorsque la somme d'argent à gérer concerne des devises étrangères, elle est immédiatement convertie en euros selon le cours du marché à la date de versement de la somme sur le compte de l'Organe central. Après retenue des frais bancaires dus, la contrevaleur en euros remplace les devises étrangères à gérer.]<sup>1</sup>
+
+§ 4. [<sup>1</sup> Les frais de gestion d'avoirs patrimoniaux sont des frais de justice. Le service compétent du Service Public Fédéral Justice taxe et liquide l'état de frais conformément aux dispositions légales et réglementaires applicables en matière pénale.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-18/08, art. 9, 007; En vigueur : 01-07-2024&gt;
+
+##### Art. 9
+
+[<sup>1</sup> Lors de la restitution et de la confiscation avec restitution ou attribution à la partie civile, l'Organe central majore les sommes gérées des intérêts nets qu'elles ont rapportés auprès de l'institution financière visée à l'article 8, § 2, ou de la Caisse des Dépôts et Consignations, à laquelle elles étaient confiées.
+
+Les intérêts commencent à courir le premier jour du mois qui suit celui où le compte de l'Organe central a été crédité et cessent de courir le dernier jour du mois qui précède le remboursement. Le mois est compté à raison de trente jours.
+
+Les intérêts ne sont pas capitalisés.
+
+Le Roi détermine, sur proposition du ministre qui a la Justice dans ses attributions, les modalités et le seuil à partir duquel les intérêts des capitaux sont versés. Le montant maximal de ce seuil est de mille euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-18/08, art. 10, 007; En vigueur : 12-05-2024&gt;
+
+#### Sous-section 2. - Gestion à valeur constante
+
+##### Art. 10
+
+§ 1er. Le ministère public ou, le cas échéant, le juge d'instruction assure en concertation avec l'Organe central la gestion à valeur constante des avoirs patrimoniaux saisis visés à l'article 3, 2°.
+
+L'alinéa 1er s'applique également aux avoirs patrimoniaux saisis en application de la loi du 20 mai 1997 sur la coopération internationale en ce qui concerne l'exécution de saisies et de confiscations. L'autorité judiciaire compétente dans l'Etat requérant est informée au préalable. A partir de la notification elle dispose d'un délai de trois mois pour réagir. Le ministère public compétent informe l'autorité judiciaire compétente dans l'Etat requérant du résultat de la mesure de gestion.
+
+Sans préjudice des dispositions inscrites dans la loi du 21 novembre 1989 relative à l'assurance obligatoire de la responsabilité en matière de véhicules automoteurs, le ministère public ou le juge d'instruction est tenu, sauf circonstances spécifiques propres au dossier ou au bien saisi, d'ordonner dans les trois mois qui suivent la saisie l'une des mesures visées à l'article 3, 2° a) et b), lorsque l'avoir patrimonial saisi est un véhicule à moteur, un bateau ou un avion.
+
+§ 2. Le secrétaire du parquet ou de l'auditorat du travail compétent, le greffier du juge d'instruction ou le greffier de la juridiction concernée informe l'Organe central de la décision visée à l'article 3, 2°, dès que celle-ci acquiert un caractère définitif.
+
+§ 3. Les sommes obtenues par l'aliénation, celles versées en vue de la restitution de l'avoir patrimonial saisi et celles qui proviennent du cautionnement sont gérées par l'Organe central.
+
+##### Art. 11
+
+§ 1er. Après réception de l'autorisation d'aliénation conformément aux articles 28octies ou 61sexies du Code d'instruction criminelle, l'Organe central fait exécuter l'aliénation des biens meubles par l'Administration des Services patrimoniaux. Lorsque la nature ou la quantité des biens meubles à aliéner l'exige, l'Organe central peut, en accord avec l'Administration des Services patrimoniaux, faire appel à l'intervention d'un mandataire spécialisé.
+
+En ce qui concerne les immeubles, l'Organe central confie le mandat de vente à un notaire qu'il désigne.
+
+§ 2. La vente est publique sauf si des circonstances particulières justifient une vente de gré à gré.
+
+§ 3. Les avoirs patrimoniaux ne peuvent être vendus à un prix inférieur à la valeur déterminée de commun accord entre l'Organe central et son mandataire ou le Service Public Fédéral Finances.
+
+§ 4. Les frais de l'aliénation, y compris les frais occasionnés par l'intervention du mandataire, sont à la charge de l'acheteur.
+
+##### Art. 12
+
+Après concertation avec le magistrat qui a autorisé l'aliénation, l'Organe central peut requérir un service de police de charger un service de remorquage du transfert de véhicules motorisés, dont l'aliénation a été autorisée vers le lieu où le véhicule sera entreposé ou sera vendu. L'Organe central peut de la même manière charger un transporteur du transfert d'autres avoirs patrimoniaux.
+
+Les frais liés à ces transferts sont des frais de justice. [<sup>1</sup> Le service compétent du Service Public Fédéral Justice taxe et liquide l'état de frais conformément aux dispositions légales et réglementaires applicables en matière pénale.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-18/08, art. 11, 007; En vigueur : 12-05-2024&gt;
+
+##### Art. 13
+
+§ 1er. Lorsque l'aliénation d'un bien immeuble a été ordonnée, le directeur de l'Organe central requiert un notaire comme mandataire chargé de la vente.
+
+§ 2. Le mandataire est chargé :
+
+1° de l'estimation préalable du bien et de l'établissement d'un rapport d'expertise y afférent;
+
+2° de toutes les opérations relatives à la vente, en ce compris la publicité;
+
+3° de la passation de l'acte authentique de vente et de la délivrance de toutes les grosses, expéditions, copies et extraits relatifs à l'acte dont il conserve les minutes;
+
+4° de l'accomplissement de toutes les formalités prescrites par la loi relatives à la vente.
+
+§ 3. Si le mandataire le demande, le service compétent du Service Public Fédéral Finances lui fournit toutes les informations relatives au bien à vendre. Le mandataire délivre les expéditions, copies et extraits des actes qu'il reçoit.
+
+[<sup>1</sup> § 3/1. Le magistrat saisissant habilite le mandataire, en cas d'absence ou de résistance du propriétaire saisi ou de l'occupant du bien immeuble saisi, à accéder au bien immeuble aux frais du saisi, au besoin avec le concours de la force publique, assisté, le cas échéant, par un serrurier, en vue de l'accomplissement des formalités liées à la vente ou pour permettre la visite des lieux par les personnes intéressées. Le propriétaire ou l'occupant est informé des jours et heures de visite prévus par le mandataire. Si la résistance est due à l'occupant du bien immeuble saisi, le propriétaire saisi est autorisé à récupérer ses frais auprès de l'occupant.]<sup>1</sup>
+
+§ 4. [<sup>1</sup> Le mandataire constate par acte authentique de vente que l'Organe central est habilité par l'autorité judiciaire compétente à aliéner le bien immeuble.
+
+Le directeur de l'Organe central représente l'Organe central à la signature de l'acte authentique de vente. Le directeur peut se faire représenter à la signature par un autre magistrat de l'Organe central ou par un mandataire spécial désigné à cet effet.]<sup>1</sup>
+
+§ 5. Après la vente, le mandataire fait transcrire, au nom du directeur de l'Organe central, l'acte authentique de vente [<sup>1</sup> au bureau compétent de l'Administration générale de la Documentation patrimoniale du Service Public Fédéral Finances]<sup>1</sup> du lieu où se situe le bien immeuble. Le mandataire transmet une copie simple à l'acheteur, au propriétaire du bien, au directeur de l'Organe central et au magistrat qui a autorisé l'aliénation.
+
+[<sup>1</sup> § 6. Le notaire peut, après autorisation du magistrat qui a autorisé l'aliénation ou qui est responsable pour la gestion à valeur constante, procéder au règlement de l'ordre des créanciers inscrits visés aux articles 28octies et 61sexies du Code d'instruction criminelle conformément aux dispositions du Code judiciaire.
+
+Le notaire soumet le projet d'ordre à l'approbation du magistrat traitant de l'Organe central. Le délai visé à l'article 1643 du Code judiciaire pour rédiger l'ordre est suspendu en attendant l'approbation.
+
+Lorsque l'ordre est définitif, et après l'apurement des dettes des créanciers hypothécaires inscrits et des créanciers privilégiés spéciaux ou des dettes des créanciers habilités à constituer une hypothèque légale sur le bien immeuble, ainsi qu'après déduction des frais de justice, le notaire transfère le solde positif sur le compte de l'Organe central.
+
+Le magistrat traitant de l'Organe central autorise le notaire à procéder gratuitement à la radiation de la saisie pénale auprès du bureau compétent de l'Administration générale de la documentation patrimoniale. Le notaire établit un certificat notarial au sens de l'article 1653 du Code judiciaire aux fins de radiation des inscriptions et transcriptions restantes.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-18/08, art. 12, 007; En vigueur : 12-05-2024&gt;
+
+##### Art. 14
+
+§ 1er. Dans le cadre de la conservation visée à l'article 3, 2°, c), le ministère public ou le juge d'instruction peut confier la gestion au greffe, à un tiers ou au saisi, d'office ou à la demande de ce dernier, éventuellement moyennant cautionnement.
+
+Par cautionnement, on entend le versement de valeurs par le saisi, par un tiers ou l'engagement d'un tiers en tant que caution, pour un montant et selon le mode accepté par le ministère public ou le juge d'instruction.
+
+§ 2. Le cautionnement est attribué à l'Etat ou l'engagement du tiers devient exigible dès que le saisi ou le tiers est resté en défaut de présenter le bien saisi ou en garantie pour l'exécution de la confiscation.
+
+Le défaut, par le saisi ou par le tiers, de présenter le bien saisi ou en garantie pour l'exécution de la confiscation est constaté, sur les réquisitions du ministère public, par le tribunal qui a prononcé la confiscation, le tiers-caution étant appelé à la cause.
+
+Le jugement déclare, en même temps, le cautionnement acquis à l'Etat ou l'engagement du tiers exigible.
+
+§ 3. Le saisi ou le tiers qui se défait de la chose dont il a la gestion est puni des peines prévues [<sup>1</sup> à l'article 683]<sup>1</sup> du Code pénal.
+
+----------
+
+(1)&lt;L 2026-03-30/01, art. 183, 008; En vigueur : 01-09-2026&gt;
+
+#### Sous-section 3. - Gestion obligatoire
+
+##### Art. 15
+
+§ 1er. L'Organe central assure la gestion des sommes saisies ainsi que des soldes créditeurs transférés des comptes saisis ouverts dans une institution financière.
+
+§ 2. Les sommes et soldes créditeurs visés au paragraphe 1er doivent obligatoirement être transférés à l'Organe central dans les trois mois, suivant la saisie [<sup>1</sup> à concurrence du montant saisi]<sup>1</sup>, sauf décision contraire motivée du magistrat saisissant.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> L'établissement financier concerné sera puni d'une amende de cent euros à trente mille euros s'il refuse ou omet sciemment et volontairement de transférer les soldes créditeurs à l'Organe central.]<sup>1</sup>
+
+§ 3. L'Organe central assume la responsabilité des sommes et des soldes créditeurs qui lui sont confiés à partir du moment où son compte auprès de la Caisse des Dépôts et Consignations ou de l'institution financière désignée par lui est crédité.
+
+----------
+
+(1)&lt;L 2024-04-18/08, art. 13, 007; En vigueur : 12-05-2024&gt;
+
+#### Sous-section 4. - Gestion facultative
+
+##### Art. 16
+
+§ 1er. Le ministère public ou le juge d'instruction peut confier à l'Organe central la gestion d'avoirs patrimoniaux saisis. Lorsque l'Organe central accepte, il assure la gestion de ces avoirs patrimoniaux jusqu'à ce que le magistrat compétent décide de leur destination.Dans le cas où l'Organe central refuse d'exécuter la demande, le chef de corps requérant du ministère public peut soumettre sa demande au procureur général chargé, au sein du Collège des procureurs généraux, de la matière du droit et de la criminalité économique, financière et fiscale. Après concertation avec l'Organe central, le procureur général décide de la suite réservée à la demande.
+
+§ 2. La gestion porte sur la conservation ou sur tout autre acte de gestion par l'Organe central ou par un gestionnaire ou mandataire désigné par lui. Elle est assurée par l'Organe central même ou par l'intermédiaire de tiers qui interviennent sous l'autorité de l'Organe central et conformément aux accords conclus avec le ministère public ou le juge d'instruction.
+
+§ 3. L'Organe central peut faire appel à cette fin à tout intermédiaire ou mandataire qu'il considère comme nécessaire pour l'accomplissement de cette mission.
+
+§ 4. L'Organe central peut conclure des accords séparés avec des tiers pour la gestion.
+
+§ 5. En cas d'aliénation d'avoirs patrimoniaux confiés à sa gestion, l'Organe central continue à en gérer le produit jusqu'à ce que le magistrat compétent décide de leur affectation.
+
+##### Art. 16/1.
+
+[<sup>1</sup> L'Organe central peut faire appel à la Banque nationale de Belgique pour la conservation en nature d'avoirs patrimoniaux mobiliers.
+
+Le Service Public Fédéral Justice rétribue sans délai la Banque nationale de Belgique pour tous les coûts exposés par elle dans le cadre de l'exécution de la mission visée au premier alinéa.
+
+La Banque Nationale de Belgique, les membres de ses organes et les membres de son personnel n'encourent aucune responsabilité civile en raison de fautes ou négligences commises dans l'exercice de cette mission légale, sauf en cas de dol ou de faute ou négligence intentionnelle ou lourde.
+
+L'éventuelle responsabilité de la Banque Nationale de Belgique ne commence à courir qu'à partir du moment où les biens sont extraits du sas accessible aux transporteurs de valeurs et se trouvent dans la zone sécurisée interne de la Caisse centrale de la Banque Nationale de Belgique, et cesse dès que les biens sortent de la zone sécurisée interne de la Caisse centrale de la Banque Nationale de Belgique et se trouvent dans le sas accessible aux transporteurs de valeurs.
+
+Le Roi détermine, sur proposition des ministres compétents et après avis de la Banque nationale de Belgique, les modalités de la mission visée au premier alinéa.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-18/08, art. 14, 007; En vigueur : 12-05-2024&gt;
+
+#### Sous-section 5. - Mise à disposition
+
+##### Art. 17
+
+§ 1er. Le directeur de l'Organe central peut, pour la durée qu'il détermine, mettre à la disposition de la police fédérale [<sup>1</sup> ou des services de renseignement et de sécurité]<sup>1</sup> l'avoir patrimonial ayant fait l'objet d'une décision exécutoire d'aliénation en application des articles 28octies ou 61sexies du Code d'instruction criminelle, aux conditions suivantes :
+
+1° soit l'avoir patrimonial est la propriété du suspect ou de l'inculpé, ou son propriétaire ne peut pas être identifié ou joint dans un délai raisonnable, soit l'avoir patrimonial a été mis à la disposition d'une organisation criminelle visée [<sup>2</sup> à l'article 406]<sup>2</sup> du Code pénal, ou des auteurs présumés des infractions visées à l'article 90ter, §§ 2, 3 et 4, du Code d'instruction criminelle;
+
+2° l'avoir patrimonial a été saisi lors d'une instruction ou d'une information concernant des faits punissables qui ont été commis dans le cadre d'une organisation criminelle visée à l'article 324bis du Code pénal, ou concernant les infractions visées à l'article 90ter, §§ 2, 3 et 4, du Code d'instruction criminelle;
+
+3° la police utilise l'avoir patrimonial [<sup>1</sup> en personne prudente et raisonnable]<sup>1</sup> dans le cadre de son fonctionnement, qui vise à lutter contre les infractions visées au 1° ou à les prévenir;
+
+[<sup>1</sup> 3/1° les services de renseignement et de sécurité utilisent l'avoir patrimonial en personne prudente et raisonnable dans le cadre de l'exercice de leurs missions légales relatives à la prévention et la lutte contre les menaces liées aux organisations criminelles et à la criminalité grave;]<sup>1</sup>
+
+4° la police ne dispose pas encore d'avoirs patrimoniaux similaires ou ne dispose de tels avoirs que dans une mesure insuffisante, et l'avoir patrimonial mis à disposition est utile au fonctionnement visé au 3°;
+
+[<sup>1</sup> 4/1° les services de renseignement et de sécurité ne disposent pas encore d'avoirs patrimoniaux similaires ou ne disposent de tels avoirs que dans une mesure insuffisante, et l'avoir patrimonial mis à disposition est utile pour les missions visées au 3/1°.]<sup>1</sup>
+
+Le directeur de l'Organe central notifie sa décision au magistrat qui a autorisé l'aliénation de l'avoir patrimonial mis à disposition.
+
+§ 2. Le directeur général de la police judiciaire, ou son délégué, peut mettre à la disposition de la police locale, dans les conditions visées au paragraphe 1er, l'avoir patrimonial saisi qui a été mis à la disposition de la police fédérale. Le directeur général en informe le directeur de l'Organe central.
+
+§ 3. L'avoir patrimonial ne peut pas être mis à la disposition du service judiciaire central ou déconcentré, ni de la zone de police de la police locale qui a saisi l'avoir patrimonial concerné.
+
+§ 4. Le directeur de l'Organe central fait établir une description de l'état du bien et en détermine la valeur avant que l'avoir patrimonial ne soit utilisé par le service de police [<sup>1</sup> ou les services de renseignement et de sécurité]<sup>1</sup>.
+
+A la fin de la mise à disposition, le directeur de l'Organe central fait à nouveau procéder à une description de l'état et à une estimation de la valeur.
+
+Le directeur fait verser au dossier répressif les rapports visés aux alinéas 1er et 2.
+
+§ 5. L'exécution de la décision d'aliénation de l'avoir patrimonial saisi précité est suspendue jusqu'à la fin de la mise à disposition.
+
+§ 6. Le recours visé aux articles 28sexies et 61quater du Code d'instruction criminelle ne peut être intenté que dans le mois de la notification de la décision d'aliénation visée au paragraphe 1er. Le requérant ne peut envoyer ni déposer de requête ayant le même objet avant l'expiration d'un délai [<sup>1</sup> d'un an]<sup>1</sup>, à compter soit du jour de la dernière décision concernant le même objet, soit du jour de l'expiration du délai d'un mois visé ci-dessus.
+
+§ 7. [<sup>1</sup> En cas de restitution au propriétaire légitime ou de confiscation avec restitution ou attribution à la partie civile de l'avoir patrimonial mis à disposition, toute moins-value découlant de la mise à disposition de l'avoir patrimonial donne lieu, après compensation avec l'éventuelle plus-value, à une indemnisation à charge de l'Etat, de la commune ou de la zone pluricommunale, telle qu'estimée par le directeur de l'Organe central sur la base des rapports visés au paragraphe 4.
+
+En cas de restitution, par dérogation à l'alinéa 1er, l'Etat, la commune ou la zone pluricommunale peut, à la demande du directeur général de la police judiciaire ou du chef de corps du service de police qui utilise l'avoir patrimonial mis à disposition, décider de céder la propriété du bien à l'Etat, à la commune ou à la zone pluricommunale contre le paiement au propriétaire légitime d'une juste indemnité qui correspond à la valeur estimée par le directeur de l'Organe central sur la base des rapports visés au paragraphe 4. Après la cession de propriété, les biens sont utilisés pour combattre ou prévenir les infractions visées à l'article 90ter du Code d'instruction criminelle ou les faits commis dans le cadre d'une organisation criminelle, visée à l'article 324bis du Code pénal. Les biens appartenant à la victime ou au tiers de bonne foi n'entrent pas en ligne de compte pour la cession de propriété.
+
+L'Etat, la commune ou la zone pluricommunale verse l'indemnité visée à l'alinéa 1er ou 2 sur le compte de l'Organe central, qui se charge du paiement à l'ayant-droit.]<sup>1</sup>
+
+§ 8. [<sup>1</sup> En cas de confiscation par équivalent, cette condamnation peut être exécutée sur l'avoir patrimonial qui est encore mis à disposition ou sur la somme qui remplace l'avoir patrimonial aliéné.
+
+Le produit de l'avoir patrimonial réalisé qui a été mis à disposition de la police ou des services de renseignement et de sécurité est augmenté du montant de la moins-value estimée par le directeur de l'Organe central sur la base des rapports visés au paragraphe 4. Au cas où l'avoir patrimonial mis à disposition a été aliéné au cours de la procédure pénale, la somme qui le remplace est augmentée du montant de la moins-value qui découle de la mise à disposition, estimée par le directeur de l'Organe central sur la base des rapports visés au paragraphe 4. Le paiement de la moins-value au fonctionnaire du Service Public Fédéral Finances qui est compétent pour le recouvrement de la confiscation par équivalent peut être mis à charge, le cas échéant, de l'Etat, de la commune ou de la zone pluricommunale.
+
+Par dérogation à l'alinéa 2, l'Etat, la commune ou la zone pluricommunale peut, sur la proposition du directeur général de la police judiciaire ou du chef de corps du service de police qui utilise l'avoir patrimonial mis à disposition, décider de céder la propriété du bien à l'Etat, à la commune ou à la zone pluricommunale contre le paiement au propriétaire légitime d'une juste indemnité qui correspond à la valeur estimée par le directeur de l'Organe central sur la base des rapports visés au paragraphe 4. Après la cession de propriété, les biens sont utilisés pour combattre ou prévenir les infractions visées à l'article 90ter du Code d'instruction criminelle ou les faits commis dans le cadre d'une organisation criminelle, visée à l'article 324bis du Code pénal. Les biens appartenant à la victime ou au tiers de bonne foi n'entrent pas en ligne de compte pour la cession de propriété.
+
+L'Etat, la commune ou la zone pluricommunale verse l'indemnité visée à l'alinéa 2 ou 3 sur le compte de l'Organe central, qui se charge du paiement au Service Public Fédéral Finances, à concurrence du montant de la confiscation par équivalent à percevoir.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-18/08, art. 15, 007; En vigueur : 12-05-2024&gt;
+
+(2)&lt;L 2026-03-30/01, art. 184, 008; En vigueur : 01-09-2026&gt;
+
+### Section 3. - Gestion des données relatives aux avoirs patrimoniaux
+
+##### Art. 18
+
+[<sup>1</sup> § 1er. L'Organe central collecte, gère et traite les données relatives aux catégories d'avoirs patrimoniaux suivantes:
+
+1° les avoirs patrimoniaux saisis et confisqués suivants, quel que soit leur montant ou leur valeur:
+
+a) les biens immeubles;
+
+b) les véhicules motorisés, navires et avions, exception faite des épaves;
+
+c) les titres;
+
+d) les sommes d'argent;
+
+e) les comptes auprès d'institutions financières;
+
+f) les valeurs virtuelles;
+
+g) les animaux vivants;
+
+h) les droits réels et les créances, à l'exception des droits et obligations qui ont un caractère strictement personnel en raison de leur nature ou en vertu de la loi;
+
+2° tous les avoirs patrimoniaux mobiliers autres que ceux visés sous 1° et qui dépassent le seuil fixé par le Roi, sur la proposition du ministre qui a la justice dans ses attributions.
+
+§ 2. L'Organe central collecte et traite les données d'identité et, le cas échéant, les données bancaires concernant les différentes catégories de personnes, ainsi que les données relatives à leurs avoirs patrimoniaux saisis, le cas échéant leurs avoirs patrimoniaux en général, et les données judiciaires relatives à la destination de leurs avoirs patrimoniaux saisis:
+
+1° les personnes concernées en tant que saisi ou tiers saisi par la saisie pénale;
+
+2° les personnes concernées en tant que condamné ou tiers de mauvaise foi par les saisies dans le cadre d'une enquête pénale d'exécution;
+
+3° les personnes condamnées à une confiscation en Belgique ou par une autorité étrangère;
+
+4° les personnes qui en tant que partie civile, partie intervenante ou tiers font valoir des droits sur des avoirs patrimoniaux saisis ou confisqués;
+
+5° les personnes qui font l'objet de l'enquête de solvabilité visée aux articles 22 et 23;
+
+6° les personnes qui font l'objet de l'échange d'informations visé aux articles 31, 31/1 et 32.
+
+§ 3. L'Organe central collecte, gère et traite les données à caractère personnel qu'il a reçues en application des articles 19, 20, 21, 31, 31/1 et 31/2 aux fins de l'exercice adéquat des missions définies à l'article 7.
+
+§ 4. Sans préjudice de l'application des articles 31, 31/1, 31/2 et 32, les autorités suivantes peuvent solliciter, auprès du directeur de l'Organe central, l'accès aux données visées au paragraphe 1er, dans la mesure où celles-ci leur sont nécessaires pour l'exercice de leurs missions réglementaires, légales ou de droit international:
+
+1° les magistrats du ministère public et les juges d'instruction;
+
+2° les services de police;
+
+3° les greffes des cours et tribunaux ainsi que les secrétariats des parquets et des auditorats du travail;
+
+4° les fonctionnaires compétents du Service Public Fédéral Justice et du Service Public Fédéral Finances;
+
+5° la Cellule de traitement des informations financières;
+
+6° les services de renseignement et de sécurité;
+
+7° l'Organe de coordination pour l'analyse de la menace;
+
+8° les autorités centrales étrangères qui accordent une entraide judiciaire en matière pénale en matière de saisie et de confiscation.
+
+Le secret institué par l'article 39, § 1er, s'applique aux autorités et fonctionnaires qui consultent la banque de données de l'Organe central.
+
+L'autorisation préalable du magistrat du ministère public compétent ou du juge d'instruction est requise lorsque les communications sont de nature à avoir une incidence sur des dossiers judiciaires en cours.
+
+§ 5. L'Organe central gère et conserve de manière centralisée et informatisée les données visées au paragraphe 1er pendant vingt ans à compter de la notification visée à l'article 19, § 1er, prolongée, le cas échéant, jusqu'à la prescription de la confiscation.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-18/08, art. 16, 007; En vigueur : 12-05-2024&gt;
+
+##### Art. 19
+
+§ 1er. Le magistrat du ministère public ou le juge d'instruction notifie sans délai ou fait notifier sans délai à l'Organe central les saisies qui ont été effectuées au cours de l'enquête pénale sur les avoirs patrimoniaux visés à l'article 18, § 1er.
+
+Les notifications se font par fax ou par voie électronique et contiennent une description détaillée des avoirs patrimoniaux saisis, le mode de conservation des avoirs patrimoniaux, ainsi que les données nécessaires à l'identification du propriétaire ou des personnes à charge desquelles la saisie a été pratiquée.
+
+§ 2. Le ministère public ou le juge d'instruction notifie sans délai ou fait notifier sans délai à l'Organe central toute nouvelle décision exécutoire concernant les avoirs patrimoniaux visés à l'article 18, § 1er.
+
+§ 3. Le ministère public informe l'Organe central des décisions prises quant à la destination d'avoirs patrimoniaux saisis gérés par l'Organe central, dans le mois après que l'information en question a été classée sans suite.
+
+Si l'Organe central constate que l'information a été classée sans suite sans que la notification visée à l'alinéa premier ait été effectuée, le directeur de l'Organe central peut, après avis écrit préalable au magistrat du ministère public, décider lui-même de cette destination.
+
+§ 4. Dans les cas où les décisions judiciaires visées au paragraphe 2 ne comprennent pas de décision définitive concernant les [<sup>1</sup> avoirs patrimoniaux gérés]<sup>1</sup> par l'Organe central, le directeur de l'Organe central peut décider lui-même en la matière, après avis écrit préalable au magistrat du ministère public et après expiration d'un délai d'un mois à compter de l'envoi de cet avis.
+
+----------
+
+(1)&lt;L 2024-04-18/08, art. 17, 007; En vigueur : 12-05-2024&gt;
+
+##### Art. 20
+
+Le fonctionnaire compétent du Service Public Fédéral Finances et les services du Service Public Fédéral Justice chargés de l'exécution des jugements et des arrêts de confiscation d'avoirs patrimoniaux se trouvant hors du Royaume, sont tenus d'informer l'Organe central des données relatives à l'exécution.
+
+Les organes du pouvoir judiciaire, les services de police et les autorités administratives fédérales fournissent gratuitement toutes les informations disponibles que l'Organe central demande et estime nécessaires pour l'exécution de ses missions légales.
+
+### Section 4. - Exécution de décisions judiciaires
+
+#### Sous-section 1re. - Enquêtes de solvabilité
+
+##### Art. 21
+
+§ 1er. Sans préjudice des compétences du fonctionnaire du Service Public Fédéral Finances chargé du recouvrement de la confiscation, l'Organe central peut, pour apprécier la faisabilité d'une exécution effective de la confiscation, mener une enquête sur la solvabilité d'une personne condamnée. L'enquête de solvabilité est mené par un magistrat de l'Organe central.
+
+§ 2. L'Organe central peut requérir tous les services administratifs de l'Etat fédéral, des communautés, des régions, des administrations locales et des entreprises publiques, y compris la Cellule de traitement des informations financières, de lui communiquer, dans le délai qu'il fixe, toutes les informations qu'il juge utiles dans le cadre de cette enquête concernant des opérations accomplies par le condamné, ses avoirs et sur la composition et la localisation de son patrimoine. Ces services administratifs, les entreprises publiques et la Cellule de traitement des informations financières sont tenus de donner suite à cette réquisition.
+
+La même réquisition peut également être adressée aux entreprises inscrites auprès de la Banque-Carrefour des Entreprises. Ces entreprises sont tenues de donner suite à cette réquisition, sauf si elles peuvent se prévaloir d'une obligation de secret prévue par la loi.
+
+§ 3. Lorsque les informations du fonctionnaire compétent visé au paragraphe 1er au sujet de la solvabilité d'une personne condamnée sont insuffisantes, ou s'il existe des indices dont il ressort que le condamné tente de se soustraire à l'exécution de la décision judiciaire de confiscation, l'Organe central peut recueillir des informations sur la solvabilité de cette personne condamnée auprès des organismes et des personnes visés à l'article 5, § 1er, 1° à 22°, 29° à 32°, et § 3, alinéa 1er, de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces.
+
+§ 4. [<sup>1</sup> Toute personne qui, bien que régulièrement requise par l'Organe central, sciemment et volontairement, sans motif légitime, refuse ou reste en défaut de communiquer les informations demandées dans le délai et de la manière déterminés par l'Organe central, est punie d'une amende de cent euros à trente mille euros.]<sup>1</sup>
+
+§ 5. Toute personne qui, du chef de sa fonction, a connaissance des réquisitions visées à cet article ou y prête son concours est tenue de garder le secret. Toute violation du secret est punie conformément à l'[<sup>2</sup> article 352]<sup>2</sup> du Code pénal.
+
+§ 6. L'Organe central peut également charger les services de police ou les fonctionnaires de police visés à l'article 36 de mener une enquête sur la solvabilité d'une personne condamnée.
+
+§ 7. L'Organe central peut transmettre au fonctionnaire compétent visé au paragraphe 1er les renseignements obtenus.
+
+----------
+
+(1)&lt;L 2024-04-18/08, art. 18, 007; En vigueur : 12-05-2024&gt;
+
+(2)&lt;L 2026-03-30/01, art. 185, 008; En vigueur : 01-09-2026&gt;
+
+##### Art. 22
+
+§ 1er. Dans les cas visés à l'article 21, § 3, un magistrat de l'Organe central peut requérir, par décision motivée adressée aux organismes et aux personnes visés à l'article 5, § 1er, 1° à 22°, 29° à 32°, et § 3, alinéa 1er, de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces, la communication des informations suivantes :
+
+1° la liste des comptes bancaires, des coffres bancaires ou des instruments financiers tels que visés à l'article 2, 1°, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, dont le condamné est le titulaire, le mandataire ou le véritable bénéficiaire et, le cas échéant, toutes les données utiles à ce sujet;
+
+2° les transactions bancaires qui ont été réalisées pendant une période déterminée sur un ou plusieurs de ces comptes bancaires ou instruments financiers, y compris les renseignements concernant tout compte émetteur ou récepteur;
+
+3° les données concernant les titulaires ou mandataires qui, pendant une période déterminée, ont ou avaient accès à ces coffres bancaires.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>3</sup> § 1/1. Dans les cas visés à l'article 21, § 3, le magistrat de l'Organe central peut, par décision motivée, conformément à la loi du 8 juillet 2018 portant organisation d'un point de contact central des comptes et contrats financiers et portant extension de l'accès du fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt, demander toutes les informations disponibles en ce qui concerne le condamné au Point de contact central des comptes et contrats financiers tenu par la Banque nationale de Belgique.]<sup>3</sup>
+
+§ 2. Le magistrat de l'Organe central spécifie dans sa requête écrite sous quelle forme et dans quel délai les données visées au paragraphe 1er [<sup>1</sup> , alinéa 1er,]<sup>1</sup> doivent lui être communiquées.
+
+§ 3. Si les informations communiquées à l'Organe central conformément aux [<sup>3</sup> paragraphes 1er, 1/1 et 2]<sup>3</sup> révèlent l'existence d'avoirs dans le chef du condamné, le magistrat de l'Organe central peut requérir de manière écrite que les organismes et personnes visés au paragraphe 1er ne pourront plus se dessaisir des créances et engagements liés à ces comptes bancaires, à ces coffres bancaires ou à ces instruments financiers pour un délai qui ne peut excéder cinq jours ouvrables et qui prend cours le jour où l'Organe central effectue l'envoi de sa requête par envoi recommandé, par téléfax ou par courrier électronique.
+
+La mesure prend fin d'office à l'expiration du délai de cinq jours ouvrables. Par jour ouvrable, on entend tous les jours à l'exception des samedis, des dimanches et des jours fériés légaux. Avant l'expiration de ce délai la mesure prend fin en cas de paiement volontaire de la somme due en vertu de la confiscation, ou lorsque le fonctionnaire compétent du Service Public Fédéral Finances a pris les mesures conservatoires nécessaires.
+
+§ 4. L'Organe central peut charger les organismes et les personnes visés au paragraphe 1er de mettre gratuitement les avoirs patrimoniaux à sa disposition ou de les transférer sur un compte qu'il indique, ce afin d'acquitter le solde d'une confiscation exécutoire.
+
+§ 5. Les organismes et les personnes visés au paragraphe 1er sont tenus de prêter leur concours aux réquisitions et mesures visées aux paragraphes 1er, 3 et 4.
+
+§ 6. [<sup>4</sup> L'organisme ou la personne visé au paragraphe 1er qui, bien que régulièrement requis par l'Organe central, sciemment et volontairement, sans motif légitime, refuse ou reste en défaut de procéder à la communication des informations demandées ou à leur mise à disposition ou à leur transfert dans le délai et de la manière fixés par l'Organe central, est puni d'une amende de cent euros à trente mille euros.]<sup>4</sup>
+
+§ 7. Les organismes et les personnes visés au paragraphe 1er, ou tout tiers, qui conservent ou gèrent des biens faisant l'objet d'une mesure visée aux paragraphes 3 et 4 et qui les font disparaître dans une intention frauduleuse, sont punis des peines prévues à l'[<sup>5</sup> article 665]<sup>5</sup> du Code pénal.
+
+§ 8. Toute personne qui, du chef de sa fonction, a connaissance des réquisitions ou mesures visées à cet article ou y prête son concours est tenue de garder le secret. Toute violation du secret est punie conformément à l'[<sup>5</sup> article 352]<sup>5</sup> du Code pénal.
+
+§ 9. [<sup>4</sup> Les frais exposés dans le cadre des enquêtes visées aux articles 21 et 22 sont à charge du condamné ou de la partie civilement responsable. Ils sont taxés, liquidés et recouvrés conformément à la réglementation relative aux frais de justice en matière répressive.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2018-07-08/03, art. 23, 002; En vigueur : 26-07-2018&gt;
+
+(2)&lt;L 2020-07-31/03, art. 98, 003; En vigueur : 01-01-2020&gt;
+
+(3)&lt;L 2022-05-15/03, art. 11, 005; En vigueur : 04-06-2022&gt;
+
+(4)&lt;L 2024-04-18/08, art. 19, 007; En vigueur : 12-05-2024&gt;
+
+(5)&lt;L 2026-03-30/01, art. 186, 008; En vigueur : 01-09-2026&gt;
+
+#### Sous-section 2. - Restitution de sommes d'argent et autres biens saisis
+
+##### Art. 23
+
+§ 1er. L'Organe central procède au maximum dans les deux mois suivant la notification de la décision exécutoire à l'exécution de la restitution ordonnée par le ministère public ou le juge de sommes d'argent et autres biens saisis gérés par lui. En vue de l'application éventuelle de l'article 32, l'Organe central consulte sans délai les créanciers publics.
+
+Le délai visé à l'alinéa 1er peut être prolongé d'un mois sur demande motivée d'un créancier public, afin de pouvoir communiquer à l'Organe central toutes les informations utiles à l'appui de la créance publique.
+
+[<sup>1</sup> Sur demande de l'Administration générale de l'Inspection spéciale des Impôts, le délai visé à l'alinéa 1er peut être prolongé une fois de six mois en vue de l'examen d'indices sérieux de fraude fiscale grave tels que visés par l'arrêté royal pris en exécution de l'article 29, § 4, du Code d'instruction criminelle et de l'établissement de l'impôt éludé.]<sup>1</sup>
+
+§ 2. Les délais visés au paragraphe 1er sont suspendus lorsque la loi prévoit une mesure conservatoire avec effet suspensif envers la décision de restitution des biens et sommes d'argent.
+
+----------
+
+(1)&lt;L 2024-04-18/08, art. 20, 007; En vigueur : 12-05-2024&gt;
+
+##### Art. 23/1.
+
+[<sup>1</sup> § 1er. Sauf ordre contraire du juge ou du ministère public compétent, l'Organe central restitue les avoirs patrimoniaux gérés à la personne entre les mains de laquelle la saisie a été opérée.
+
+§ 2. Tout tiers prétendant avoir droit sur les avoirs patrimoniaux saisis peut s'opposer à cette restitution par voie électronique ou par courrier recommandé adressé au directeur de l'Organe central.
+
+§ 3. Lorsque la restitution est ordonnée, le directeur de l'Organe central en informe par voie électronique ou par courrier recommandé les personnes qui se sont opposées et, le cas échéant, les autres personnes désignées par le ministère public qui, suivant les indications fournies par la procédure, sont habilitées à faire valoir leurs droits sur les avoirs patrimoniaux gérés. L'avis précise que les tiers visés au paragraphe 2 peuvent faire valoir leurs droits dans le délai imparti par le directeur, qui doit être de quinze jours minimum.
+
+§ 4. L'opposition suspend le délai visé à l'article 23.
+
+§ 5. L'Organe central restitue les avoirs patrimoniaux au tiers qui apporte la preuve des droits qu'il fait valoir. Si le tiers a porté sa prétention devant le juge civil compétent dans le délai imparti par le directeur, l'Organe central restitue les avoirs patrimoniaux litigieux à l'ayant droit désigné dans une décision judiciaire exécutoire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-18/08, art. 21, 007; En vigueur : 12-05-2024&gt;
+
+#### Sous-section 3. - Enquêtes pénales d'exécution
+
+##### Art. 24
+
+§ 1er. L'Organe central prête assistance aux magistrats du ministère public qui mènent une enquête pénale d'exécution ou peut être chargé par eux de mener une telle enquête conformément à l'article 464/3 du Code d'instruction criminelle.
+
+§ 2. L'Organe central gère les avoirs patrimoniaux saisis dans le cadre d'une enquête pénale d'exécution conformément aux articles 464/29 à 464/38 du Code d'instruction criminelle.
+
+### Section 5. - Appui
+
+#### Sous-section 1re. - Avis
+
+##### Art. 25
+
+L'Organe central peut rendre des avis, sur demande ou d'office, concernant les différents aspects de la saisie, de la confiscation et de l'exécution de décisions judiciaires :
+
+1° au ministre qui a la Justice dans ses attributions;
+
+2° au Collège des procureurs généraux;
+
+3° aux magistrats du ministère public;
+
+4° aux services de police;
+
+5° au Service Public Fédéral Finances.
+
+#### Sous-section 2. - Assistance opérationnelle
+
+##### Art. 26
+
+A leur demande, l'Organe central peut apporter son assistance opérationnelle concernant les différents aspects de la saisie, de la confiscation et de l'exécution de décisions judiciaires :
+
+1° aux magistrats du ministère public;
+
+2° aux juges d'instruction;
+
+3° aux services de police;
+
+4° au Service Public Fédéral Finances.
+
+L'Organe central peut conclure des accords-cadres avec des tiers dans le cadre de l'assistance, visé à l'alinéa 1er.
+
+##### Art. 27
+
+Conformément à l'article 28novies du Code d'instruction criminelle, l'Organe central peut, à la demande du procureur du Roi, rendre une assistance dans le cadre de la destruction d'un bien saisi.
+
+L'Organe central peut conclure des accords-cadres avec des tiers dans le cadre de l'assistance, visé à l'alinéa 1er.
+
+##### Art. 28
+
+L'Organe central peut être chargé du paiement de sommes d'argent en matière pénale par le compte bancaire de l'Organe central, à l'exception de la restitution des cautionnements dont la consignation est confiée légalement à la Caisse des Dépôts et Consignations ou à une autre institution.
+
+##### Art. 29
+
+§ 1er. Si l'expertise de l'Organe central peut être utile, le chef de corps du ministère public compétent peut, dans les affaires qu'il détermine, demander au directeur de l'Organe central d'assurer les missions du ministère public :
+
+1° lors de la procédure devant la chambre des mises en accusation et la juridiction de jugement prenant connaissance d'une demande de levée de la saisie d'avoirs patrimoniaux telle que visée aux articles 28sexies et 61quater du Code d'instruction criminelle;
+
+2° lors de la procédure devant la chambre des mises en accusation et la juridiction de jugement prenant connaissance d'un recours contre une mesure visée aux articles 28octies et 61sexies du Code d'instruction criminelle;
+
+3° lors de la procédure devant la chambre des mises en accusation qui prend connaissance de la réquisition dans laquelle la décision du procureur du Roi de détruire les biens patrimoniaux saisis est contestée par un intéressé;
+
+4° lors de la procédure devant les juridictions pénales pour autant qu'il soit question de la saisie, de la gestion et de la confiscation d'avoirs patrimoniaux.
+
+§ 2. Le directeur de l'Organe central prend une décision écrite et motivée concernant cette demande et communique sa décision sans délai au chef de corps requérant.
+
+Dans le cas où le directeur de l'Organe central refuse d'exécuter la demande, le chef de corps requérant du ministère public peut soumettre sa demande au procureur général chargé, au sein du Collège des procureurs généraux, de la matière du droit et de la criminalité économique, financière et fiscale. Après concertation avec le directeur de l'Organe central, le procureur général décide de la suite réservée à la demande.
+
+§ 3. Les compétences visées au paragraphe 1er, sont exercées par un magistrat de l'Organe central, sous l'autorité et la direction du chef de corps requérant.
+
+§ 4. Lors de l'exécution d'une mission visée au paragraphe 1er, le magistrat de l'Organe central dispose de toutes les compétences légales d'un membre du parquet fédéral, d'un parquet général, d'un auditorat général, d'un parquet du procureur du Roi ou d'un auditorat du travail.
+
+#### Sous-section 3. - Formation
+
+##### Art. 30
+
+En concertation avec l'Institut de formation judiciaire et des organismes de formation des services de police et des fonctionnaires publics, l'Organe central fournit des formations thématiques sur la saisie et la confiscation aux :
+
+1° magistrats et [<sup>1</sup> magistrats en formation]<sup>1</sup>;
+
+2° services de police;
+
+3° services publics intéressés;
+
+4° institutions étrangères équivalentes.
+
+----------
+
+(1)&lt;L 2022-12-26/22, art. 74, 006; En vigueur : 22-01-2023&gt;
+
+### Section 6. - Coopération internationale
+
+##### Art. 31
+
+§ 1er. L'Organe central peut adhérer à des réseaux internationaux d'institutions étrangères équivalentes et conclure des accords de coopération avec des organisations étrangères utiles à l'exécution de ses missions.
+
+§ 2. L'Organe central peut coopérer avec les institutions et organisations visées au paragraphe 1er conformément aux règles conventionnelles, supranationales et légales en matière :
+
+1° d'échange d'informations opérationnelles visées au paragraphe 3;
+
+2° d'échange de bonnes pratiques pouvant contribuer à une amélioration de l'effectivité et de l'efficience des mesures concernant l'identification, la recherche, la saisie, la gestion ou la confiscation de biens;
+
+3° de formations thématiques sur la saisie et la confiscation d'avoirs patrimoniaux;
+
+4° d'assistance dans des dossiers opérationnels dans le domaine de l'identification, de la recherche, de la saisie, de la gestion ou de la confiscation de biens.
+
+§ 3. L'Organe central peut échanger des informations avec des institutions étrangères analogues en vue de faciliter l'identification, la recherche, la saisie, la gestion ou la confiscation de biens.
+
+L'Organe central peut communiquer les informations en question de manière spontanée ou à la demande des institutions étrangères analogues.
+
+§ 4. La demande de renseignements contient le but et les motifs de la demande ainsi que la nature de la procédure. Elle indique de la manière la plus précise possible les éléments factuels relatifs aux avoirs patrimoniaux visés ou recherchés en Belgique et, dans la mesure du possible, l'identité des personnes physiques ou morales concernées.
+
+L'échange d'informations entre Etats membres de l'Union européenne se fait à l'aide du formulaire visé dans la décision-cadre 2006/960/JAI du Conseil du 18 décembre 2006 relative à la simplification de l'échange d'informations et de renseignements entre les services répressifs des Etats membres de l'Union européenne.
+
+Les frais liés à la récolte ou à la communication des données sont à charge de l'institution étrangère analogue.
+
+§ 5. L'échange opérationnel des données se fait par l'intermédiaire des magistrats de l'Organe central ou des [<sup>1</sup> membres des services de police]<sup>1</sup> visés à l'article 36.
+
+§ 6. L'Organe central n'est pas habilité à communiquer des informations de manière spontanée ou à la demande d'une institution étrangère analogue :
+
+1° lorsque, conformément au droit belge, l'Organe central ne peut accéder aux informations demandées sans autorisation judiciaire;
+
+2° lorsque les informations demandées ne peuvent être obtenues que par l'utilisation de moyens de contrainte dont l'Organe central ne peut légalement disposer;
+
+3° lorsque les informations à communiquer concernent des pièces d'un dossier répressif et que le magistrat compétent du ministère public s'oppose à ce qu'elles soient communiquées;
+
+4° lorsque la demande d'informations est contraire à la législation belge relative à la protection des données personnelles dans le cadre de la coopération policière et judiciaire en matière pénale;
+
+5° lorsque les informations demandées ne sont pas utilisables ou ne seront pas utilisées dans le but énoncé au paragraphe 3;
+
+6° lorsque l'institution étrangère établie dans un pays ne faisant pas partie de l'UE n'est pas disposée à échanger des informations sur la base d'un engagement réciproque de bonne coopération et de confidentialité;
+
+7° lorsque la divulgation des informations demandées risque de porter atteinte à la sécurité nationale de la Belgique;
+
+8° lorsque la divulgation des informations demandées nuirait au bon déroulement d'une enquête pénale en cours ou la sécurité de personnes;
+
+9° lorsque la demande ne répond pas aux exigences posées au paragraphe 4, alinéa 1er;
+
+10° lorsque les informations proviennent d'un Etat tiers ou d'un autre Etat membre qui a communiqué ces informations à la Belgique sur la base du principe de spécialité et qui a subordonné la communication des données à des tiers par la Belgique à son autorisation préalable, et que l'Etat tiers ou l'autre Etat membre qui a fourni les informations a fait part de son opposition à la communication des informations concernées à une institution étrangère équivalente .
+
+----------
+
+(1)&lt;L 2024-04-18/08, art. 22, 007; En vigueur : 12-05-2024&gt;
+
+##### Art. 31/1.
+
+[<sup>1</sup> § 1er. Les magistrats de l'Organe central ou les [<sup>2</sup> membres des services de police]<sup>2</sup>, visés à l'article 36, peuvent demander les informations visées à l'article 31/2 au Point de contact central des comptes et contrats financiers tenu par la Banque nationale de Belgique, conformément à la loi du 8 juillet 2018 portant organisation d'un point de contact central des comptes et contrats financiers et portant extension de l'accès du fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt, lorsque cela s'avère nécessaire à l'appui d'une enquête pénale concernant une infraction pénale grave telle que visée à l'alinéa 4, y compris l'identification, le dépistage et le gel des avoirs liés à cette enquête.
+
+Les personnes visées à l'alinéa 1er peuvent également demander ces informations lorsqu'elles reçoivent, conformément à l'article 7, § 6 et § 7, du règlement (UE) 2016/794 du Parlement européen et du Conseil du 11 mai 2016 relatif à l'Agence de l'Union européenne pour la coopération des services répressifs (Europol) et remplaçant et abrogeant les décisions du Conseil 2009/371/JAI, 2009/934/JAI, 2009/935/JAI, 2009/936/JAI et 2009/968/JA, une demande dûment justifiée d'informations de Europol dans les limites de ses responsabilités et pour l'accomplissement de ses missions telles que fixées par ledit règlement.
+
+Ils peuvent échanger les informations visées à l'article 31/2, avec Europol ou avec les bureaux nationaux de recouvrement des avoirs désignés par les Etats membres de l'Union européenne conformément à la Décision 2007/845/JAI du Conseil du 6 décembre 2007 relative à la coopération entre les bureaux de recouvrement des avoirs des Etats membres en matière de dépistage et d'identification des produits du crime ou des autres biens en rapport avec le crime.
+
+Pour l'application du présent paragraphe, on entend par "infractions pénales graves" les formes de criminalité énumérées à l'annexe I du règlement 2016/794 du Parlement européen et du Conseil du 11 mai 2016 relatif à l'Agence de l'Union européenne pour la coopération des services répressifs (Europol) et remplaçant et abrogeant les décisions du Conseil 2009/371/JAI, 2009/934/JAI, 2009/935/JAI, 2009/936/JAI et 2009/968/JAI.
+
+L'Organe central ne peut échanger les informations communiquées par le Point de contact central des comptes et contrats financiers tenus par la Banque nationale de Belgique que par le biais de l'application "Réseau d'échange sécurisé d'informations" (Secure Information Exchange Network Application - SIENA), de l'application qui la remplace ou d'un autre canal sécurisé, avec Europol ou les bureaux nationaux de recouvrement des avoirs, visés à l'alinéa 3.
+
+§ 2. Si les informations communiquées à l'Organe central conformément au paragraphe 1 révèlent l'existence des comptes bancaires, des coffres bancaires et/ou des instruments financiers dans le chef du suspect, de l'inculpé, du prévenu, de l'accusé ou du condamné, le magistrat de l'Organe central peut requérir de manière écrite et motivée que les organismes et personnes visés à l'article 22, § 1er, ne pourront plus se dessaisir des créances et engagements liés à ces comptes bancaires, à ces coffres bancaires ou à ces instruments financiers pour un délai qui ne peut excéder cinq jours ouvrables. Par jour ouvrable, on entend tous les jours à l'exception des samedis, des dimanches et des jours fériés légaux.
+
+Le délai visé à l'alinéa 1er prend cours le jour où l'Organe central effectue l'envoi de sa requête par envoi recommandé, par téléfax ou par courrier électronique. La mesure prend fin d'office à l'expiration de la période de cinq jours ouvrables. La mesure prend fin avant l'expiration de cette période en cas de paiement volontaire de la somme due en vertu de la confiscation, ou lorsque les avoirs patrimoniaux ont été saisis à la demande de l'autorité compétente de l'Etat membre de l'Union européenne.
+
+Les paragraphes 5, 7 et 8 de l'article 22 s'appliquent à la mesure visée à l'alinéa premier.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-05-15/03, art. 12, 005; En vigueur : 04-06-2022&gt;
+
+(2)&lt;L 2024-04-18/08, art. 22, 007; En vigueur : 12-05-2024&gt;
+
+##### Art. 31/2.
+
+[<sup>1</sup> L'Organe central peut, pour les situations visées à l'article 31/1, échanger les informations suivantes avec Europol ou les bureaux nationaux de recouvrement des avoirs visés à l'article 31/1, § 1 :
+
+\- en ce qui concerne le titulaire d'un compte client et toute personne prétendant agir au nom du client: le nom, complété soit par des autres données d'identification, soit par un numéro d'identification unique;
+
+\- en ce qui concerne le bénéficiaire effectif du titulaire d'un compte client: le nom, complété soit par des autres données d'identification, soit par un numéro d'identification unique;
+
+\- en ce qui concerne le compte bancaire ou le compte de paiement: le numéro IBAN, la date d'ouverture et de clôture du compte;
+
+\- en ce qui concerne le coffre-fort: le nom du locataire, complété soit par des autres données d'identification, soit par un numéro d'identification unique, ainsi que la durée de la période de location.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-05-15/03, art. 13, 005; En vigueur : 04-06-2022&gt;
+
+## CHAPITRE 4. - Echange de données et affectation de sommes au profit des fonctionnaires chargés du recouvrement de dettes publiques
+
+##### Art. 32
+
+[<sup>1</sup> § 1er. L'Organe central peut communiquer les données dont il dispose en application de la présente loi aux:
+
+1° fonctionnaires chargés de la perception et du recouvrement pour le compte de l'Etat fédéral, des communautés et des régions;
+
+2° institutions publiques de sécurité sociale qui perçoivent et recouvrent des cotisations impayées;
+
+3° organismes débiteurs d'avantages sociaux, qui octroient ces avantages sociaux et recouvrent ceux qui auraient été indûment perçus; et à
+
+4° l'Administration générale de l'Inspection spéciale des Impôts.
+
+L'Organe central communique les données visées à l'alinéa 1er, 2° et 3°, aux organismes après interrogation d'un Single Point of Contact auprès de la Banque-carrefour de la sécurité sociale ou consultation de données de la Banque-carrefour de la sécurité sociale, soit par l'intermédiaire d'un membre du personnel judiciaire de niveau A habilité à cet effet par le directeur de l'Organe central ou un magistrat de liaison visé à l'article 36, soit par l'intermédiaire des fonctionnaires du Service Public Fédéral Finances ou des membres d'un service de police intégré mis à la disposition de l'Organe central conformément à l'article 36.
+
+Pour l'application de cette disposition, on entend par:
+
+1° "institutions publiques de sécurité sociale": les institutions publiques ainsi que les services publics fédéraux chargés de l'application de la législation relative à la sécurité sociale;
+
+2° "cotisation": une cotisation au sens de l'article 230, 2°, du Code pénal social, y compris les majorations des cotisations et les intérêts de retard;
+
+3° "avantage social": un avantage social au sens de l'article 230, 1°, du Code pénal social.
+
+Sous réserve de l'application de l'alinéa 1er, l'Organe central peut fournir les mêmes renseignements aux institutions chargées de la perception et du recouvrement des dettes pénales, fiscales ou sociales dans un autre Etat membre de l'Union européenne.
+
+§ 2. L'Organe central peut affecter sans formalités toute somme à restituer ou à verser au paiement de créances dues par le bénéficiaire de cette restitution ou de ce versement au profit de fonctionnaires chargés de la perception et du recouvrement, au profit des organismes chargés du recouvrement de dettes sociales visés au paragraphe 1er, alinéa 1er, et au profit des dettes étrangères visées au paragraphe 1er, alinéa 4.
+
+Le directeur de l'Organe central détermine les dettes qui sont apurées en priorité.
+
+L'affectation est limitée à la partie non contestée des créances. L'affectation de la partie contestée des dettes visées à l'alinéa 1er, est possible à titre de mesure conservatoire pour assurer le paiement de la dette contestée si la créance contestée a fait l'objet d'un titre exécutoire. A la demande du débiteur ou de tiers intéressés, le juge des saisies peut ordonner la libération de la somme apurée si la contestation est manifestement fondée. Ces actions sont intentées et traitées comme en référé, conformément aux dispositions du Code judiciaire.
+
+L'alinéa 1er reste applicable en cas de saisie, de cession, de concours ou de procédure d'insolvabilité.
+
+Après la déclaration de faillite, une compensation est possible entre les dettes et les créances, liées ou non, nées avant la faillite et les créances et les dettes nées après la faillite.
+
+§ 3. A défaut de paiement dans les délais fixés pour les dettes visées au paragraphe 2, le directeur de l'Organe central peut, à la demande du créancier public, sans saisie-exécution préalable du créancier public requérant, procéder, conformément à l'article 11, à la vente des biens à restituer dont il a la gestion en vue de l'apurement de la dette conformément au paragraphe 2.
+
+L'alinéa 1er ne peut être appliqué si le débiteur ou le bien à vendre fait l'objet d'une saisie civile ou d'une procédure collective d'insolvabilité.
+
+Une opposition formée conformément à l'article 23/1 suspend l'exécution de la décision visée à l'alinéa 1er.
+
+L'Organe central notifie sa décision au débiteur et au créancier public requérant.
+
+Le débiteur ou tout tiers intéressé peut s'opposer à la vente devant le juge des saisies. Cette action est intentée contre le créancier public requérant et traitée comme en référé, conformément aux dispositions du Code judiciaire. Le juge des saisies examine la légalité et la proportionnalité de la décision de l'Organe central et ordonne, le cas échéant, la libération du bien à vendre ou du produit du bien vendu à l'ayant droit.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-18/08, art. 23, 007; En vigueur : 12-05-2024&gt;
+
+## CHAPITRE 5. - Composition de l'Organe central
+
+##### Art. 33
+
+§ 1er. [<sup>2</sup> L'Organe central est dirigé par un directeur.
+
+Le Roi désigne le directeur pour un mandat de cinq ans renouvelable une fois. Le candidat directeur est présenté au Roi par le ministre qui a la justice dans ses attributions après proposition du Collège du ministère public. Le Collège du ministère public lui remet à cet effet un classement des candidats, lequel est motivé, notamment sur la base du plan de management proposé par les candidats au poste. Le renouvellement a lieu après avis positif du Collège du ministère public, qui porte notamment sur l'évaluation des réalisations du plan de management et la présentation d'un nouveau plan de management pour le prochain mandat.
+
+Pour être désigné comme directeur, le candidat doit, au moment de sa désignation:
+
+1° être magistrat du ministère public;
+
+2° avoir exercé une fonction de magistrat durant au moins dix ans;
+
+3° être porteur d'un certificat visé à l'article 43quinquies, § 1er, alinéa 3, de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire prouvant la connaissance de la langue autre que celle de son doctorat, sa licence ou son master en droit.
+
+Le directeur prête serment entre les mains du procureur général près la cour d'appel de Bruxelles.
+
+Le directeur organise le travail et exerce l'autorité sur le personnel. Il peut édicter les directives internes nécessaires à cette fin.
+
+Dans le respect des dispositions relatives au recrutement du personnel judiciaire, il propose au ministre qui a la justice dans ses attributions le personnel judiciaire à recruter ou à mettre à la disposition de l'Organe central. Il détermine si l'emploi doit être attribué par voie de mutation, mobilité, recrutement, promotion ou changement de grade.
+
+Le directeur rédige pour le ministre qui a la justice dans ses attributions et le Collège des procureurs généraux un rapport annuel d'activités contenant une évaluation de l'exécution de ses missions et de l'application de la présente loi par les instances qui en sont chargées. Il formule toute proposition utile.]<sup>2</sup>
+
+§ 2. [<sup>2</sup> Le directeur de l'Organe central est assisté par un directeur adjoint.
+
+Le directeur adjoint remplace le directeur en cas d'empêchement ou d'absence.
+
+Le directeur adjoint est désigné par le Roi, sur proposition du ministre qui a la justice dans ses attributions pour un terme de cinq ans renouvelable une fois. Le Collège du ministère public lui remet à cet effet un classement motivé des candidats, le directeur lui rend un avis. Le renouvellement a lieu après avis du Collège du ministère public et après avis du directeur.
+
+Pour être désigné comme directeur adjoint, le candidat doit, au moment de sa désignation:
+
+1° être magistrat du ministère public;
+
+2° avoir exercé une fonction de magistrat durant au moins six ans;
+
+3° être porteur d'un certificat visé à l'article 43quinquies, § 1er, alinéa 3, de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire prouvant la connaissance de la langue autre que celle de son doctorat, sa licence ou son master en droit.
+
+Le directeur adjoint prête serment entre les mains du directeur ou entre les mains du procureur général près la cour d'appel de Bruxelles en cas d'empêchement ou d'absence du directeur.]<sup>2</sup>
+
+§ 3. Le directeur et le directeur adjoint appartiennent à des rôles linguistiques différents.
+
+Ils exercent leurs fonctions à temps plein.
+
+L'article 323bis du Code judiciaire leur est applicable.
+
+La fonction de directeur et celle de directeur adjoint débutent au même moment. Si cela ne devait pas être le cas, le directeur adjoint est présumé avoir débuté sa fonction à la date de la désignation du directeur. En cas de démission du directeur ou du directeur adjoint, il est pourvu à sa succession le plus rapidement possible afin d'achever la désignation en cours.
+
+§ 4. [<sup>2</sup> Sans préjudice de l'article 259undecies/1 du Code judiciaire, le Roi peut, sur proposition du ministre qui a la justice dans ses attributions et après avis du Collège du ministère public, mettre fin au mandat du directeur pour manquement à ses obligations dans l'exercice de ses fonctions.
+
+Sans préjudice de l'article 259undecies/1 du Code judiciaire, le Roi peut, sur proposition du ministre qui a la justice dans ses attributions et après avis du Collège du ministère public ou du directeur, mettre fin au mandat de directeur-adjoint pour manquement à ses obligations dans l'exercice de ses fonctions.
+
+Le Collège du ministère public ne peut émettre l'avis visé aux alinéas 1er et 2 qu'après avoir entendu le directeur ou le directeur adjoint ou au moins après les avoir dûment convoqués à cette fin. Le directeur ne peut émettre l'avis visé à l'alinéa 2 qu'après avoir entendu le directeur adjoint ou au moins l'avoir dûment convoqué à cette fin.]<sup>2</sup>
+
+§ 5. Les descriptions de fonction du directeur et du directeur adjoint sont établies par le Roi, sur proposition du Collège [<sup>2</sup> du ministère public]<sup>2</sup>. En ce qui concerne la description de fonction du directeur adjoint, le directeur rend son avis au Collège.
+
+----------
+
+(1)&lt;L 2022-12-26/22, art. 75, 006; En vigueur : 22-01-2023&gt;
+
+(2)&lt;L 2024-04-18/08, art. 24, 007; En vigueur : 12-05-2024&gt;
+
+##### Art. 34
+
+§ 1er. [<sup>1</sup> Deux magistrats de liaison, de rôles linguistiques différents, sont attachés à l'Organe central. Le ministre qui a la justice dans ses attributions désigne les magistrats de liaison pour un terme de cinq ans renouvelable deux fois. Le Collège du ministère public lui remet à cet effet un classement motivé des candidats, le directeur lui rend un avis. Chaque renouvellement a lieu après avis positif du Collège du ministère public et après avis positif du directeur. A l'issue de deux mandats consécutifs de cinq ans ce poste est déclaré vacant et les magistrats de liaison peuvent se porter candidat pour une troisième et dernier mandat de cinq ans, en compétition avec d'autres candidats.]<sup>1</sup>
+
+Pour être désigné comme magistrat de liaison auprès de l'Organe central, le candidat doit, au moment de sa désignation :
+
+1° être magistrat du ministère public;
+
+2° avoir exercé une fonction de magistrat durant au moins trois ans;
+
+3° être porteur d'un certificat visé à l'article 43quinquies, § 1er, alinéa 3, de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire prouvant la connaissance de la langue autre que celle de son doctorat, sa licence ou son master en droit.
+
+Les magistrats de liaison prêtent serment entre les mains du directeur ou entre les mains du procureur général près la cour d'appel de Bruxelles en cas d'empêchement ou d'absence du directeur.
+
+Les magistrats de liaison assistent le directeur dans le cadre de la direction de l'organisation et contribuent à la réalisation des missions visées à l'[<sup>1</sup> article 7, § 3, 3° et 4°]<sup>1</sup>, de l'Organe central. Ils exercent plus particulièrement leur contrôle sur les sections chargées de la "gestion de biens saisis" et du "recouvrement d'avoirs" de l'Organe central et font rapport à ce sujet au directeur.
+
+En cas d'absence ou d'empêchement du directeur et du directeur adjoint, le directeur désigne un des magistrats de liaison pour le remplacer. S'il ne désigne personne, il est remplacé par le magistrat de liaison ayant la plus grande ancienneté au sein de l'Organe central. En cas d'ancienneté identique au sein de l'Organe central, il est remplacé par le magistrat de liaison ayant la plus grande ancienneté au sein de l'Ordre judiciaire.
+
+§ 2. Ils exercent leurs fonctions à temps plein.
+
+L'article 323bis du Code judiciaire leur est applicable.
+
+§ 3. Sans préjudice de l'article 259undecies/1 du Code judiciaire, un magistrat de liaison peut, sur avis du [<sup>1</sup> Collège du ministère public]<sup>1</sup> ou du directeur, être démis de ses fonctions par le ministre qui a la Justice dans ses attributions pour manquement à ses obligations.
+
+Le Collège des procureurs généraux ou le directeur ne peut émettre l'avis visé à l'alinéa 1er qu'après avoir entendu le magistrat de liaison concerné ou au moins l'avoir dûment convoqué à cette fin.
+
+§ 4. La description de fonction des magistrats de liaison est établie par le Roi, sur proposition du [<sup>1</sup> Collège du ministère public]<sup>1</sup>. Le directeur rend pour ce faire un avis au Collège.
+
+----------
+
+(1)&lt;L 2024-04-18/08, art. 25, 007; En vigueur : 12-05-2024&gt;
+
+##### Art. 34/1.
+
+[<sup>1</sup> Le directeur de l'Organe central est assisté par un secrétaire en chef. Celui-ci est soumis aux dispositions légales et statutaires applicables au personnel de l'organisation judiciaire nommé à titre définitif.
+
+Le secrétaire en chef prête serment entre les mains du directeur ou, en cas d'empêchement ou d'absence du directeur, entre les mains du directeur adjoint.
+
+Le secrétaire en chef est notamment responsable des questions relatives au personnel et supervise l'organisation administrative sous l'autorité et la surveillance du directeur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-18/08, art. 26, 007; En vigueur : 12-05-2024&gt;
+
+##### Art. 35
+
+Le personnel nommé à titre définitif au sein de l'Organe central est soumis aux dispositions légales et statutaires applicables au personnel de l'organisation judiciaire nommé à titre définitif.
+
+Du personnel sous les liens d'un contrat de travail peut également être engagé selon les modalités prévues par l'article 178 du Code judiciaire.
+
+Les membres du personnel prêtent serment entre les mains du directeur ou entre les mains du directeur adjoint en cas d'empêchement ou d'absence du directeur.
+
+A l'égard des membres du personnel, le directeur est le supérieur hiérarchique visé dans l'arrêté royal du 27 mai 2014 relatif à l'évaluation des membres du personnel de l'Ordre judiciaire. Il peut déléguer cette tâche au chef fonctionnel du membre du personnel concerné. Les tâches du magistrat-chef de corps visées dans cet arrêté royal sont exercées par le procureur général près la cour d'appel de Bruxelles.
+
+##### Art. 36
+
+[<sup>1</sup> Après autorisation du ministre compétent, un à six fonctionnaires du Service Public Fédéral Finances et un à quatre membres du service de police visé à l'article 2 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux peuvent être mis à la disposition de l'Organe central, dans les limites des budgets prévus.]<sup>1</sup>
+
+Cette mise à disposition ne porte pas atteinte à leur statut administratif et pécuniaire d'origine.
+
+Les fonctionnaires mis à disposition obtiennent une allocation de 3 .000 euros brut par an, liée à l'index 138,01.
+
+Les fonctionnaires mis à disposition ont droit au remboursement de leurs frais de parcours et de séjour conformément aux dispositions applicables au personnel des services publics fédéraux pour les activités de service qu'ils exercent sous l'autorité du directeur.
+
+----------
+
+(1)&lt;L 2024-04-18/08, art. 27, 007; En vigueur : 12-05-2024&gt;
+
+##### Art. 37
+
+Dans l'exercice de ses missions visées à l'article 7, l'Organe central peut faire appel à des consultants.
+
+La description des prestations du consultant, son salaire horaire et le montant annuel maximal de ses prestations sont fixés dans une convention rédigée au préalable.
+
+Sauf accord du ministre qui a la Justice dans ses attributions après avis motivé du directeur de l'Organe central, les prestations à rémunérer aux consultants ne peuvent être supérieures aux rémunérations que les experts peuvent réclamer en vertu [<sup>1</sup> les dispositions légales et réglementaires relatives aux frais de justice en matière pénale]<sup>1</sup>.
+
+[<sup>1</sup> Dans l'exercice de la digitalisation des processus liés aux missions visées à l'article 7, l'Organe central fait appel à un service désigné par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-04-18/08, art. 28, 007; En vigueur : 12-05-2024&gt;
+
+##### Art. 38
+
+Le directeur de l'Organe central perçoit le traitement alloué au procureur fédéral, conformément à l'article 355bis du Code judiciaire.
+
+Le directeur adjoint bénéficie du traitement prévu pour les premiers avocats généraux près les cours d'appel et les cours du travail.
+
+Les magistrats de liaison perçoivent le traitement alloué aux magistrats fédéraux, conformément à l'article 355bis de Code judiciaire.
+
+##### Art. 39
+
+§ 1er. Toute personne qui prête son concours à l'accomplissement des missions de l'Organe central est tenue, en dehors de l'exercice de sa fonction, au secret au sujet de tout ce dont elle a eu connaissance dans l'exécution de sa mission ou de sa fonction. Toute violation du secret est punie conformément à l'[<sup>1</sup> article 352]<sup>1</sup> du Code pénal.
+
+§ 2. Dans le cadre de l'exécution des missions de l'Organe central, le personnel exerce sa fonction lorsqu'il communique avec des institutions ayant des missions et des obligations analogues.
+
+L'autorisation préalable du ministère public compétent ou du juge d'instruction est requise lorsque ces communications sont de nature à avoir une influence sur des dossiers judiciaires en cours.
+
+----------
+
+(1)&lt;L 2026-03-30/01, art. 187, 008; En vigueur : 01-09-2026&gt;
+
+## CHAPITRE 6. - Dispositions modificatives
+
+### Section 1re. - Modifications du Code d'instruction criminelle
+
+##### Art. 40
+
+L'article 28octies, § 1er, du Code d'instruction criminelle, inséré par la loi du 26 mars 2003 et remplacé par la loi du 27 décembre 2006, est complété par le 3° rédigé comme suit :
+
+"3° ordonner la conservation en nature d'avoirs patrimoniaux saisis en fonction des moyens disponibles.".
+
+##### Art. 41
+
+A l'article 28novies du même Code, inséré par la loi du 25 avril 2014, les modifications suivantes sont apportées :
+
+1° dans le paragraphe 4, l'alinéa 2 est remplacé par ce qui suit :
+
+"L'Organe central pour la Saisie et la Confiscation peut, à la demande du procureur du Roi, fournir une assistance pour la destruction d'un bien saisi.";
+
+2° l'article est complété par le paragraphe 9 rédigé comme suit :
+
+" § 9. Le procureur du Roi peut décider de mettre, entièrement ou partiellement, gratuitement à disposition d'un service de police ou d'une institution scientifique un bien visé au paragraphe 2, 3°, qui utilise le bien mis à disposition exclusivement pour des motifs didactiques ou scientifiques ou l'étude de phénomènes criminels pertinents.
+
+En outre, le procureur du Roi peut mettre gratuitement à disposition d'un service de police, entièrement ou partiellement, un bien visé au § 2, 3°, dans un dossier spécifique pour pouvoir l'utiliser dans la préparation et l'exécution de missions en rapport avec la lutte contre les infractions visées à l'article 90ter, §§ 2, 3 et 4, pour autant que cette mise à disposition soit strictement nécessaire à leur préparation et exécution.
+
+Pendant la durée de l'instruction, le consentement du juge d'instruction à la mesure visée aux alinéas 1er et 2 est exigé.
+
+Par dérogation à l'article 4, § 7, alinéa 2, de la loi du 24 février 1921 concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes ou à une autre disposition légale imposant la destruction de biens, les biens pour lesquels une mesure visée aux alinéas 1er et 2 est prise, sont censés être mis définitivement à disposition du service de police ou de l'institution scientifique, sauf décision contraire du procureur du Roi ou, le cas échéant du juge d'instruction.".
+
+##### Art. 42
+
+L'article 61sexies, § 1er, alinéa 1er, du même Code, inséré par la loi du 26 mars 2003 et remplacé par la loi du 27 décembre 2006, est complété par le 3° rédigé comme suit :
+
+"3° ordonner la conservation en nature d'avoirs patrimoniaux saisis en fonction des moyens disponibles.".
+
+##### Art. 43
+
+Dans l'article 197bis du même Code, inséré par la loi du 19 mars 2003, remplacé par la loi du 11 février 2014 et modifié par la loi du 5 février 2016, il est inséré un paragraphe 2/1 rédigé comme suit :
+
+" § 2/1. En cas de confiscation d'un véhicule motorisé par une décision judiciaire passée en force de chose jugée, le ministère public charge un service de police du transfert du véhicule motorisé au Service Public Fédéral Finances. A cette fin, le parquet transmet un procès-verbal de remise à l'attention de l'Administration des Services patrimoniaux. Les frais d'entreposage y relatifs constituent des frais de justice jusqu'à la remise du véhicule motorisé aux Services patrimoniaux.
+
+Sauf dans le cas où les Services patrimoniaux ne demandent pas le déplacement du véhicule motorisé confisqué, le ministère public requiert le transfert du véhicule motorisé et, le cas échéant, des clés et/ou des documents de bord vers le lieu désigné. Dans cette hypothèse, le service de police chargé de la remise au aux Services patrimoniaux applique les mêmes directives que lors de la saisie d'un véhicule motorisé. Il fait appel à un service de remorquage agréé, soumis aux tarifs des frais de justice en matière répressive.".
+
+##### Art. 44
+
+A l'article 464/1 du même Code, inséré par la loi du 11 février 2014, les modifications suivantes sont apportées :
+
+1° dans le paragraphe 5, alinéa 4, les mots "l'article 16bis de loi du 26 mars 2003 portant création d'un Organe central pour la saisie et la confiscation et portant des dispositions sur la gestion à valeur constante des biens saisis et sur l'exécution de certaines sanctions patrimoniales" sont remplacés par les mots "l'article 32 de la loi du 4 février 2018 contenant les missions et la composition de l'Organe central pour la Saisie et la Confiscation".
+
+2° dans le paragraphe 8, alinéa 1er, les mots "l'article 16bis de loi du 26 mars 2003 portant création d'un Organe central pour la saisie et la confiscation et portant des dispositions sur la gestion à valeur constante des biens saisis et sur l'exécution de certaines sanctions patrimoniales" sont remplacés par les mots "l'article 32 de la loi du 4 février 2018 contenant les missions et la composition de l'Organe central pour la Saisie et la Confiscation".
+
+##### Art. 45
+
+A l'article 464/3 du même Code, inséré par la loi du 11 février 2014, les modifications suivantes sont apportées :
+
+1° dans le paragraphe 4, alinéa 4, les mots "articles 15 et 15bis de loi du 26 mars 2003 portant création d'un Organe central pour la saisie et la confiscation et portant des dispositions sur la gestion à valeur constante des biens saisis et sur l'exécution de certaines sanctions patrimoniales" sont remplacés par les mots "articles 21 et 22 de la loi du 4 février 2018 contenant les missions et la composition de l'Organe central pour la Saisie et la Confiscation";
+
+2° dans le paragraphe 5, alinéa 1er, les mots "l'article 19 de loi du 26 mars 2003 portant création d'un Organe central pour la saisie et la confiscation et portant des dispositions sur la gestion à valeur constante des biens saisis et sur l'exécution de certaines sanctions patrimoniales" sont remplacés par les mots "l'article 36 de la loi du 4 février 2018 contenant les missions et la composition de l'Organe central pour la Saisie et la Confiscation".
+
+##### Art. 46
+
+Dans l'article 464/37, § 3, du même Code, inséré par la loi du 11 février 2014, les mots "l'article 16bis de loi du 26 mars 2003 portant création d'un Organe central pour la saisie et la confiscation et portant des dispositions sur la gestion à valeur constante des biens saisis et sur l'exécution de certaines sanctions patrimoniales" sont remplacés par les mots "l'article 32 de la loi du 4 février 2018 contenant les missions et la composition de l'Organe central pour la Saisie et la Confiscation".
+
+### Section 2. - Modifications du Code judiciaire
+
+##### Art. 47
+
+Dans la deuxième partie, livre premier, titre VI, chapitre Vquinquies, du Code judiciaire, il est inséré après l'article 259undecies une section IIIbis intitulée "Section IIIbis. De l'évaluation des missions spéciales".
+
+##### Art. 48
+
+Dans la section IIIbis insérée par l'article 47, il est inséré un article 259undecies/1 rédigé comme suit :
+
+"Art. 259undecies/1. § 1er. Durant l'exercice de leurs activités pour l'Organe central pour la saisie et la confiscation, le directeur, le directeur adjoint et les magistrats de liaison de l'Organe central sont soumis à une évaluation écrite motivée.
+
+L'article 259novies, §§ 1er à 8, leur est applicable, à l'exception des dérogations prévues au paragraphe 2.
+
+§ 2. Le directeur, le directeur adjoint et les magistrats de liaison de l'Organe central sont évalués par le Collège des procureurs généraux, qui exécute également les tâches attribuées au chef de corps par les paragraphes 2 à 8 de l'article 259novies.
+
+Le directeur rend un avis pour l'évaluation du directeur adjoint et des magistrats de liaison. L'évaluation du directeur et du directeur adjoint porte également sur leurs capacités de management.
+
+L'évaluation a lieu une fois à la moitié de leur mission et une fois au terme de celle-ci.
+
+L'évaluation peut donner lieu à une mention "bon" ou "insuffisant". Si les prestations du magistrat sont jugées "insuffisantes", le ministre qui a la Justice dans ses attributions met d'office un terme à la mission en question.
+
+Sur proposition du Collège des procureurs généraux, le Roi fixe les critères d'évaluation et la pondération de ces critères en tenant compte de la spécificité des missions concernées.".
+
+##### Art. 49
+
+L'article 259undecies/1 du même Code, inséré par la loi du 4 mai 2016, devient l'article 259undecies/2.
+
+##### Art. 50
+
+L'article 327ter du même Code, inséré par la loi du 4 mars 1997 et abrogé par la loi du 21 juin 2001, est rétabli dans la rédaction suivante :
+
+"Art. 327ter. Dans des cas exceptionnels, le ministre qui a la Justice dans ses attributions peut, sur proposition conjointe du directeur et du procureur général, du procureur du Roi ou de l'auditeur du travail concerné, confier à titre temporaire une mission au sein de l'Organe central pour la Saisie et la Confiscation à un membre d'un parquet général, d'un auditorat général près la cour du travail, d'un parquet du procureur du Roi ou d'un auditorat du travail près le tribunal du travail.
+
+Le magistrat ne peut se voir confier la mission qu'après avoir été entendu.
+
+Dans ces cas, les magistrats précités exercent cette tâche sous la direction et la surveillance immédiates du directeur de l'Organe central. Ils continuent à exercer leurs autres tâches sous la direction et la surveillance immédiates de leur chef de corps.".
+
+##### Art. 51
+
+L'article 357, § 4, alinéa 5, du même Code, inséré par la loi du 22 avril 2003, est complété par la phrase suivante :
+
+"La prime sera également accordée au directeur, au directeur adjoint et aux magistrats de liaison de l'Organe central pour la Saisie et la Confiscation qui ont justifié de la connaissance de la langue autre que celle dans laquelle ont été subis les examens du doctorat ou licence en droit en vertu de l'article 43quinquies de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire".
+
+##### Art. 52
+
+Dans l'article 391, alinéa 2, du même Code, remplacé par la loi du 25 janvier 1999 et modifié par la loi du 3 mai 2003, les mots "et aux articles 33 et 34 de la loi OCSC" sont insérés entre les mots "visées à l'article 58bis, 2° à 4°, " et les mots "sont assimilées".
+
+##### Art. 53
+
+Dans l'article 392, alinéa 2, du même Code, remplacé par la loi du 25 janvier 1999 et modifié par la loi du 3 mai 2003, les mots "et aux articles 33 et 34 de la loi OCSC" sont insérés entre les mots "visées à l'article 58bis, 2° à 4°, " et les mots "sont assimilées".
+
+##### Art. 54
+
+L'article 412, § 1er, alinéa 1er, du même Code, remplacé par la loi du 15 juillet 2013 et modifié par les lois des 28 mars 2014 et 4 mai 2016, est complété par un 10° rédigé comme suit :
+
+"10° le procureur général près la Cour d'appel de Bruxelles à l'égard du directeur, du directeur adjoint et des magistrats de liaison auprès de l'Organe central pour la saisie et la confiscation ; le directeur à l'égard des membres du personnel de l'Organe central pour la Saisie et la Confiscation.".
+
+##### Art. 55
+
+Dans l'article 635bis du même Code, inséré par la loi du 11 février 2014, les mots "l'article 15bis, § 9 de loi du 26 mars 2003 portant création d'un Organe central pour la Saisie et la Confiscation et portant des dispositions sur la gestion à valeur constante des biens saisis et sur l'exécution de certaines sanctions patrimoniales" sont remplacés par les mots "l'article 22 de la loi du 4 février 2018 contenant les missions et la composition de l'Organe central pour la Saisie et la Confiscation".
+
+### Section 3. - Modification de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces
+
+##### Art. 56
+
+Dans l'article 80, § 3, de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces, les mots "créé par l'article 2 de la loi du 26 mars 2003 portant des dispositions sur la gestion à valeur constante des biens saisis et sur l'exécution de certaines sanctions patrimoniales" sont remplacés par les mots "visé à l'article 4 de la loi du 4 février 2018 contenant les missions et la composition de l'Organe central pour la Saisie et la Confiscation".
+
+## CHAPITRE 7. - Disposition abrogatoire
+
+##### Art. 57
+
+La loi du 26 mars 2003 portant création d'un Organe central pour la Saisie et la Confiscation et portant des dispositions sur la gestion à valeur constante des biens saisis et sur l'exécution de certaines sanctions patrimoniales, modifiée par les lois du 20 juillet 2005, 27 décembre 2006, 27 avril 2007, 10 mai 2007, 30 décembre 2009, 29 mars 2012, 11 février 2014, 25 avril 2014 et 18 septembre 2017, est abrogée.
+
+## CHAPITRE 8. - Dispositions transitoires
+
+##### Art. 58
+
+§ 1er. Les dispositions relatives à la gestion d'avoirs patrimoniaux saisis s'appliquent aux saisies pratiquées après l'entrée en vigueur de cette loi.
+
+§ 2. Le directeur, le directeur adjoint et les magistrats de liaison de l'Organe central qui ont été désignés pour un premier mandat conformément aux dispositions légales en vigueur avant l'entrée en vigueur de la présente loi mènent à terme cette désignation. Conformément aux dispositions de la présente loi, leur désignation peut être renouvelée.
+
+La désignation actuelle de directeur adjoint prend toutefois fin de plein droit à la fin de la désignation actuelle du directeur. S'il est mis fin anticipativement à la désignation actuelle du directeur, il est pourvu à sa succession le plus rapidement possible jusqu'à la fin de la première désignation du directeur adjoint.
+
+## CHAPITRE 9. - Disposition finale
+
+##### Art. 59
+
+La présente loi sera aussi appelée la "loi OCSC".
+
+## CHAPITRE 10. - Entrée en vigueur
+
+##### Art. 60
+
+La présente loi entre en vigueur le premier jour du quatrième mois qui suit l'expiration d'un délai de dix jours prenant cours le jour après sa publication au Moniteur belge.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 4 février 2018.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de la Justice,
+
+K. GEENS
+
+Le Ministre des Pensions,
+
+D. BACQUELAINE
+
+Le Ministre des Finances,
+
+J. VAN OVERTVELDT
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS

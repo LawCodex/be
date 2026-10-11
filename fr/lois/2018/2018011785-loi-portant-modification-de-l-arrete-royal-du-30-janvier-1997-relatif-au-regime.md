@@ -1,0 +1,62 @@
+---
+title: "Loi portant modification de l'arrêté royal du 30 janvier 1997 relatif au régime de pension des travailleurs indépendants en application des articles 15 et 27 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions et de l'article 3, § 1er, 4° de la loi du 26 juillet 1996 visant à réaliser les conditions budgétaires de la participation de la Belgique à l'Union économique et monétaire européenne en ce qui concerne l'allocation de transition minimum"
+identifier: "2018011785"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/30/2018011785/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2018-03-30
+published: 2018-04-26
+entry_into_force: 2017-09-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2018/03/30/2018011785/justel"
+department: "Sécurité sociale"
+retrieved: 2026-10-11
+---
+
+# 30 MARS 2018. - Loi portant modification de l'arrêté royal du 30 janvier 1997 relatif au régime de pension des travailleurs indépendants en application des articles 15 et 27 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions et de l'article 3, § 1er, 4° de la loi du 26 juillet 1996 visant à réaliser les conditions budgétaires de la participation de la Belgique à l'Union économique et monétaire européenne en ce qui concerne l'allocation de transition minimum
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## Art. 2
+
+L'article 9bis, § 7, de l'arrêté royal du 30 janvier 1997 relatif au régime de pension des travailleurs indépendants en application des articles 15 et 27 de la loi du 26 juillet 1996 portant modernisation de la sécurité sociale et assurant la viabilité des régimes légaux des pensions et de l'article 3, § 1er, 4° de la loi du 26 juillet 1996 visant à réaliser les conditions budgétaires de la participation de la Belgique à l'Union économique et monétaire européenne, inséré par la loi du 25 avril 2014 et remplacé par la loi du 10 août 2015, est complété par un alinéa rédigé comme suit :
+
+"A partir du 1er septembre 2017, le montant de 9 .648,57 euros visé à l'alinéa 1er est égal au montant visé à l'article 34 de la loi de redressement du 10 février 1981 relative aux pensions du secteur social.".
+
+## Art. 3
+
+La présente loi produit ses effets le 1er septembre 2017.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 30 mars 2018.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre des Indépendants,
+
+D. DUCARME
+
+Le Ministre des Pensions,
+
+D. BACQUELAINE
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS

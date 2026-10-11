@@ -1,0 +1,442 @@
+---
+title: "Loi sur la Caisse des Dépôts et Consignations"
+identifier: "2018040362"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/11/2018040362/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2018-07-11
+published: 2018-07-20
+entry_into_force: 2018-09-01
+last_amended: 2026-06-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2018/07/11/2018040362/justel"
+department: "Finances"
+justel_notes:
+  - "art. 6 à 9 modifiés dans le futur par L 2022-07-05/06 , art. 47-49, 004; En vigueur : 01-01-2025"
+  - "Consultation des versions antérieures à partir du 20-07-2018 et mise à jour au 01-06-2026"
+retrieved: 2026-10-11
+---
+
+# 11 JUILLET 2018. - Loi sur la Caisse des Dépôts et Consignations
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. . - Objet
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 74 de la Constitution.
+
+## CHAPITRE 2. - Définitions
+
+### Art. 2
+
+Pour l'application de la présente loi et de ses arrêtés d'exécution, on entend par:
+
+"consigner": le transfert en vertu d'une loi, d'un décret, d'une ordonnance ou d'un arrêté, ou d'une décision judiciaire ou administrative, ou à titre volontaire, de biens meubles à la Caisse des Dépôts et Consignations conformément aux dispositions de la présente loi, pour que cette dernière les conserve et les tienne à la disposition de celui qui prouve en être l'ayant droit.
+
+## CHAPITRE 3. - Institution et mission
+
+### Art. 3
+
+Au sein de l'Administration générale de la Trésorerie du Service public fédéral Finances, il existe une Caisse des Dépôts et Consignations.
+
+La Caisse des Dépôts et Consignations constitue un service distinct et est mise sous l'autorité du ministre des Finances.
+
+Sous réserve de dispositions contraires, les biens consignés ne sont pas confondus avec le patrimoine du Trésor.
+
+### Art. 4
+
+Sauf dispositions contraires, la Caisse des Dépôts et Consignations est seule chargée de recevoir, garder et restituer des biens consignés pour compte de l'Etat.
+
+Le Roi détermine les catégories de biens consignables et peut limiter ou exclure certains biens ou catégories de biens.
+
+### Art. 5
+
+Le fonctionnaire dirigeant de la Caisse des Dépôts et Consignations est comptable des biens confiés à la Caisse des Dépôts et Consignations.
+
+## CHAPITRE 4. - Fonctionnement et numérisation des relations entre la Caisse des Dépôts et Consignations et les citoyens et personnes morales
+
+### Art. 6
+
+La Caisse des Dépôts et Consignations met à disposition de ses usagers une application électronique permettant de consigner des biens et d'en demander la restitution. La déclaration électronique de consignation ou la demande de restitution de consignation par le biais de cette application, complétées et transmises conformément aux indications qui y figurent, sont assimilées à une déclaration ou demande de restitution de consignation certifiées exactes, datées et signées.
+
+Le Roi détermine les modalités d'accès à cette application électronique, de son fonctionnement et de son usage.
+
+Pour les personnes physiques agissant dans le cadre de leurs activités professionnelles, telles que les notaires, avocats, curateurs, huissiers de justice ainsi que les personnes morales, l'utilisation de cette application électronique est obligatoire.
+
+### Art. 7
+
+§ 1er. Tout échange d'informations entre la Caisse des Dépôts et Consignations et les citoyens et personnes morales de nature à produire des effets de droit est effectué par voie électronique. A cette fin, la Caisse des Dépôts et Consignations met à disposition des citoyens et personnes morales, via une plate-forme électronique sécurisée, les services électroniques nécessaires.
+
+Par dérogation à l'alinéa 1er, les personnes physiques sont dispensées de l'obligation de faire usage d'un service électronique pour l'accomplissement des obligations reprises dans la présente loi et ses arrêtés d'exécution, ainsi que les obligations découlant d'autres législations, aussi longtemps qu'elles ne disposent des moyens informatiques nécessaires pour accomplir ces obligations. Dans ce cas, l'accomplissement de ces obligations s'effectue sur support papier. Cette dispense ne s'applique pas aux personnes mandatées pour accomplir ces obligations.
+
+Les personnes physiques et morales établies à l'étranger sont dispensés de l'obligation de faire usage d'un service électronique pour l'accomplissement des obligations reprises dans la présente loi et ses arrêtés d'exécution pour autant qu'ils apportent la preuve qu'ils ne disposent pas des moyens informatiques nécessaires pour accomplir ces obligations. Une autorisation de dispense leur sera alors accordée. Dans ce cas, l'accomplissement de ces obligations s'effectue sur support papier. Cette dispense ne s'applique pas aux personnes mandatées pour accomplir ces obligations.
+
+§ 2. Lorsqu'un citoyen ou une personne morale accomplit, par voie électronique et dans le respect des modalités d'utilisation, une des obligations reprises dans la présente loi et ses arrêtés d'exécution alors l'exécution électronique est considérée comme produisant les mêmes effets de droit que ceux prévus par les dispositions légales et réglementaires applicables pour les échanges d'informations effectués sur support papier.
+
+Une signature apposée à l'aide de la carte d'identité électronique (e-ID) est assimilée à une signature électronique.
+
+### Art. 8
+
+Tout échange d'informations entre la Caisse des Dépôts et Consignations et les citoyens et personnes morales de nature à produire des effets de droit fait l'objet d'un accusé de réception électronique.
+
+Lorsqu'une information est adressée à la Caisse des Dépôts et Consignations conformément à l'alinéa 1er, la date du paiement, de la demande, du document ou de l'information s'entend comme celle de l'accusé de réception électronique visé à l'alinéa 1er.
+
+### Art. 9
+
+La Caisse des Dépôts et Consignations met à disposition des citoyens et personnes morales des services électroniques qui garantissent l'origine et l'intégrité du contenu de l'envoi au moyen de techniques de sécurisation adaptées.
+
+### Art. 10
+
+Dans le but de permettre à la Caisse des Dépôts et Consignations d'identifier ses usagers de façon unique, chaque partie impliquée dans un dossier de la Caisse des Dépôts et Consignations est identifiée sur la base de son numéro de la Banque-Carrefour des Entreprises ou de son numéro d'identification au Registre national et, pour les étrangers, de leurs numéros d'identification officielle équivalents.
+
+## CHAPITRE 5. - Réception des biens consignés
+
+### Art. 11
+
+Le consignateur indique pour chaque type de consignation toutes les données pertinentes telles que demandées par la Caisse des Dépôts et Consignations. Le Roi fixe ces données [<sup>2</sup> , sans préjudice de l'article 13, paragraphe 1er]<sup>2</sup>.
+
+La Caisse des Dépôts et Consignations refuse le bien à consigner dans un ou plusieurs des cas suivants:
+
+1° le consignateur ne lui donne pas toutes les informations demandées;
+
+2° le consignateur donne des informations qui sont incorrectes ou ne donnent pas une image exacte de la situation;
+
+3° la consignation ne se fait pas conformément à cette loi ou à ses arrêtés d'exécutions;
+
+4° [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-02/25, art. 217, 002; En vigueur : 31-05-2019&gt;
+
+(2)&lt;L 2022-07-05/06, art. 50, 004; En vigueur : 29-07-2022&gt;
+
+### Art. 12
+
+Quand la Caisse des Dépôts et Consignations reçoit une consignation, elle [<sup>1</sup> met à disposition]<sup>1</sup> un récépissé au consignateur.
+
+Ce récépissé forme titre envers la Caisse des Dépôts et Consignations.
+
+----------
+
+(1)&lt;L 2022-07-05/06, art. 51, 004; En vigueur : 29-07-2022&gt;
+
+### Art. 13
+
+[<sup>1</sup> § 1er. La Caisse des Dépôts et Consignations tient un registre de tous les biens consignés avec mention de toutes les données pertinentes disponibles pour chaque consignation. Ces données comprennent les données à caractère personnel relatives à l'identification de l'ayant droit des biens consignés suivantes :
+
+1° le nom ;
+
+2° le prénom ;
+
+3° le numéro d'identification au Registre national ou pour les étrangers, le numéro d'identification officielle équivalent ;
+
+4° le numéro d'identification à la Banque-Carrefour des Entreprises ou pour les étrangers, le numéro d'identification officielle équivalent ;
+
+5° la date de naissance ;
+
+6° le numéro de compte bancaire ;
+
+7° l'adresse de courrier électronique ;
+
+8° le numéro de téléphone.
+
+Dans les cas où la Caisse des Dépôts et Consignations ne dispose pas du numéro d'identification au Registre national, les données à caractère personnel visées à l'alinéa 1er incluent également le sexe, l'adresse, le lieu de naissance et adresse de résidence.
+
+§ 2. Toutes les parties impliquées dans un dossier ont un droit d'accès électronique aux données de ce registre qui les concernent.
+
+L'Administration générale de la Perception et du Recouvrement et l'Administration générale de la Fiscalité et l'Administration générale de la Documentation patrimoniale [<sup>2</sup> et l'Administration générale des Douanes et Accises]<sup>2</sup> du Service public fédéral Finances, ainsi que l'Office National de la Sécurité Sociale ont également accès à toutes les données du registre relatives à une consignation, uniquement dans le cadre de l'exécution de leurs missions respectives.
+
+§ 3. Le Service public fédéral Finances représenté par le président du Comité de direction est le responsable du traitement au sens du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE et de la loi du 30 juillet 2018 relative à la protection des personnes physiques, à l'égard des traitements de données à caractère personnel qu'il collecte, traite et conserve en application de la présente loi et de ses arrêtés d'exécution.
+
+§ 4. La Caisse des Dépôts et Consignations traite les données à caractère personnel recueillies uniquement à des fins de gestion des biens consignés.
+
+§ 5. Ces données à caractère personnel sont conservées pour une durée de dix ans après la clôture du dossier.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-05/06, art. 52, 004; En vigueur : 29-07-2022&gt;
+
+(2)&lt;L 2023-12-20/08, art. 62, 005; En vigueur : 25-01-2024&gt;
+
+### Art. 13/1.
+
+[<sup>1</sup> Tout paiement effectué au bénéfice d'un tiers au moyen d'une consignation visée à l'article 11, alinéa 1er, libère le consignateur de toutes obligations à l'égard de ce tiers, à concurrence du montant consigné. Ce transfert doit avoir été exécuté conformément aux modalités reprises dans la présente loi.
+
+La Caisse des Dépôts et Consignations ne reprend pas les droits et les obligations du consignateur, à l'exception de l'obligation de restitution des biens. La Caisse des Dépôts et Consignations n'est responsable de la restitution des fonds qu'à concurrence du montant consigné.
+
+Cet article ne s'applique pas en cas d'erreur ou de faute dans le chef du consignateur et dans le cas où une disposition légale en dispose autrement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-05/06, art. 53, 004; En vigueur : 29-07-2022&gt;
+
+## CHAPITRE 6. - Conservation des biens consignés
+
+### Art. 14
+
+La Caisse des Dépôts et Consignations conserve les biens consignés en vue de leur restitution aux ayants droit.
+
+### Art. 15
+
+La Caisse des Dépôts et Consignations peut désigner, pour la conservation de certains biens consignés, des dépositaires externes conformément aux dispositions légales en matière de marchés publics.
+
+### Art. 16
+
+La Caisse des Dépôts et Consignations peut facturer des frais de dossier au consignateur ou à l'ayant droit ou à une autre partie impliquée.
+
+[<sup>1</sup> La Caisse des Dépôts et Consignations peut refuser toute nouvelle consignation si les frais de dossier visés à l'alinéa 1er ne sont pas réglés.]<sup>1</sup>
+
+La Caisse des Dépôts et Consignations peut réaliser les biens consignés en cas de non-remboursement de ces frais.
+
+Le Roi détermine les règles concernant le montant, le calcul, l'imputation et la perception de ces frais, ainsi que les modalités de la réalisation des biens consignés.
+
+----------
+
+(1)&lt;L 2022-07-05/06, art. 54, 004; En vigueur : 29-07-2022&gt;
+
+### Art. 17
+
+[<sup>1</sup> Les sommes consignées à la Caisse des Dépôts et Consignations sont placées et investies en instruments financiers émis par toute unité d'administration publique au regard du Système Européen des comptes nationaux et régionaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-06-27/09, art. 399, 003; En vigueur : 19-07-2021&gt;
+
+### Art. 18
+
+Les consignations prescrites en application du chapitre 8 et les frais de dossier visés à l'article 16 sont versés au Trésor.
+
+Le Trésor rembourse à la Caisse des Dépôts et Consignations les intérêts qu'elle a payés conformément à l'article 20.
+
+Les sommes que le Trésor reçoit conformément à l'alinéa premier sont portées annuellement au budget des voies et moyens.
+
+Les intérêts et les frais à payer aux tiers, ainsi que les frais des dépositaires externes sont portés annuellement au budget général des dépenses.
+
+## CHAPITRE 7. - Restitution des biens consignés et intérêts
+
+### Art. 19
+
+La Caisse des Dépôts et Consignations restitue les biens consignés à l'ayant droit si celui-ci prouve sa qualité d'ayant droit à l'aide de pièces requises légalement, réglementairement, judiciairement, administrativement ou conventionnellement, ou s'il démontre, moyennant preuve suffisante, sa qualité d'ayant droit.
+
+Le cas échéant, le Roi peut déterminer quels documents probants l'ayant droit doit présenter à la Caisse des Dépôts et Consignations pour libérer les biens consignés.
+
+### Art. 19/1.
+
+[<sup>1</sup> Les biens consignés suivants peuvent être libérés par la Caisse des Dépôts et Consignation au profit du consignateur :
+
+1° les cautionnements constitués en exécution du chapitre 2, section 3, de l'arrêté royal du 14 janvier 2013 établissant les règles générales d'exécution des marchés publics, quinze ans suivant la constitution du cautionnement, sauf si l'adjudicateur a introduit une action en justice pour le prélèvement du cautionnement et qu'il en a informé la Caisse de Dépôts et Consignations par courrier recommandé ou au moyen de l'application électronique visée à l'article 6.
+
+2° les cautionnements constitués en exécution de l'article 3 de l'arrêté royal du 21 octobre 1971 portant exécution de la loi du 9 juillet 1971 réglementant la construction d'habitations et la vente d'habitations à construire ou en voie de construction, dix ans suivant la réception provisoire ou, à défaut, quinze ans suivant la constitution du cautionnement, sauf si l'acheteur ou le maître de l'ouvrage a introduit une action en justice pour le prélèvement du cautionnement et qu'il en a informé la Caisse de Dépôts et Consignations par courrier recommandé ou au moyen de l'application électronique visée à l'article 6.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-06-27/09, art. 400, 003; En vigueur : 19-07-2021&gt;
+
+### Art. 20
+
+La Caisse des Dépôts et Consignations calcule annuellement des intérêts sur les sommes consignées.
+
+Les intérêts commencent à courir le premier jour du mois qui suit celui de la consignation et cessent de courir le dernier jour du mois qui précède le remboursement.
+
+Le mois est compté à raison de trente jours.
+
+Ces intérêts ne sont pas capitalisés.
+
+La Caisse des Dépôts et Consignations n'octroie pas d'intérêts sur:
+
+1° les sommes qui restent consignées pendant moins d'un an;
+
+2° les sommes en devises;
+
+3° les fruits des titres consignés;
+
+4° les paiements effectués par la Caisse des Dépôts et Consignations à destination d'ayants droit et qui lui sont retournés.
+
+La Caisse des Dépôts et Consignations paie les intérêts au moment du remboursement des sommes consignées, ou annuellement à la demande de l'ayant droit.
+
+L'article 2277 du Code civil ne s'applique pas aux intérêts payés par la Caisse des Dépôts et Consignations.
+
+Le Roi détermine les modalités de calcul, d'imputation et de versement de ces intérêts, ainsi que le taux.
+
+### Art. 21
+
+La Caisse des Dépôts et Consignations restitue les biens consignés seulement après que le consignateur, l'ayant droit ou toute autre partie impliquée désignée a remboursé tous les frais visés à l'article 16 liés à la consignation.
+
+La Caisse des Dépôts de Consignations, le cas échéant, restitue les biens consignés après prélèvement des frais liés à la consignation.
+
+### Art. 21/1.
+
+[<sup>1</sup> La Caisse des Dépôts et Consignations peut affecter tous les montants consignés à restituer, sans formalités et au choix du fonctionnaire compétent, au paiement des dettes de l'ayant droit dont la perception et le recouvrement sont assurés par le Service public fédéral Finances ou par l'Office national de sécurité sociale.
+
+L'affectation des biens consignés est limitée à la partie non contestée des créances à l'égard de l'ayant droit.
+
+[<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-02/25, art. 218, 002; En vigueur : 31-05-2019&gt;
+
+(2)&lt;L 2022-07-05/06, art. 55, 004; En vigueur : 29-07-2022&gt;
+
+## CHAPITRE 8. - Prescription
+
+### Art. 22
+
+Les biens consignés, à quelque titre que ce soit, à la Caisse des Dépôts et Consignations sont acquis au Trésor après un délai de trente ans à partir de la réception de ces biens [<sup>1</sup> , à l'exception:
+
+1° des biens déposés en application du chapitre V, intitulé "Les comptes, coffres et contrats d'assurances dormants" de la loi du 24 juillet 2008 portant dispositions diverses (I), qui sont acquis au Trésor après un délai de cinq ans à partir de leur réception;
+
+2° des biens appartenant à un titulaire introuvable ou à un titulaire décédé dont les ayants droit sont introuvables qui sont acquis au Trésor après un délai de dix ans à partir de leur réception]<sup>1</sup>.
+
+Par dérogation à l'alinéa premier, le délai de prescription ne commence pas à courir tant que l'ayant droit ne peut pas introduire de demande de restitution valable parce que la loi, le décret, l'ordonnance ou l'arrêté l'en empêche.
+
+[<sup>1</sup> Les délais visés à l'alinéa premier sont interrompus]<sup>1</sup> par l'un des actes interruptifs suivants:
+
+1° une opération de réception ou de restitution en lien avec les biens consignés;
+
+2° un des actes visés à l'article 2244 du Code civil.
+
+L'attribution ou le versement des intérêts par la Caisse des Dépôts et Consignations conformément à l'article 20 n'est pas un acte interruptif au sens de l'alinéa 3, 1°.
+
+----------
+
+(1)&lt;L 2026-05-30/01, art. 54, 006; En vigueur : 11-06-2026&gt;
+
+### Art. 23
+
+&lt;Abrogé par L 2022-07-05/06, art. 56, 004; En vigueur : 29-07-2022&gt;
+
+## CHAPITRE 9. - Décisions judicaires
+
+### Art. 24
+
+Lorsque la Caisse des Dépôts et Consignations n'est pas partie au litige, les décisions judiciaires coulées en force de chose jugée portant sur l'identité de l'ayant droit à qui la Caisse doit libérer les biens consignés, sont valablement exécutées par l'envoi de la copie de cette décision judiciaire.
+
+## CHAPITRE 10. - Dispositions modificatives
+
+### Art. 25
+
+Dans l'arrêté royal n° 150 du 18 mars 1935 coordonnant les lois relatives à l'organisation et au fonctionnement de la Caisse des Dépôts et Consignations et y apportant des modifications en vertu de la loi du 31 juillet 1934, les articles suivants sont abrogés:
+
+1° les articles 1 à 3;
+
+2° l'article 4, modifié par les arrêtés royaux des 17 décembre 2009 et 26 novembre 2012;
+
+3° l'article 6;
+
+4° l'article 7, remplacé par la loi du 8 juin 2008;
+
+5° les articles 8 à 11;
+
+6° l'article 12, modifié par la loi du 11 juillet 2013;
+
+7° l'article 13;
+
+8° l'article 14, modifié par la loi du 6 août 1993;
+
+9° les articles 21 à 22;
+
+10° l'article 23, modifié par l'arrêté royal du 17 décembre 2009;
+
+11° les articles 24 à 31;
+
+12° l'article 32, remplacé par la loi du 31 juillet 2017;
+
+13° les articles 33 à 34;
+
+14° l'article 35, modifié par la loi du 29 mars 1949 et la loi du 31 juillet 2017;
+
+15° l'article 36, modifié par la loi du 31 juillet 2017;
+
+16° l'article 37, modifié par l'arrêté royal du 26 avril 2007;
+
+17° l'article 39;
+
+18° l'article 41;
+
+19° l'article 42bis, inséré par la loi du 6 août 1993;
+
+20° l'article 44.
+
+## CHAPITRE 11. - Dispositions abrogatoires
+
+### Art. 26
+
+Sont abrogés:
+
+1° L'arrêté royal n° 150 du 18 mars 1935 coordonnant les lois relatives à l'organisation et au fonctionnement de la Caisse des Dépôts et Consignations et y apportant des modifications en vertu de la loi du 31 juillet 1934, modifié par les lois des 29 mars 1949, 6 août 1993, 20 juillet 2000, 26 avril 2007, 8 juin 2008, 22 juin 2012, 11 juillet 2013, 31 juillet 2017 et par les arrêtés royaux des 30 novembre 1939, 26 juin 1947 et 17 décembre 2009;
+
+2° L'arrêté royal du 12 décembre 1934 modifiant l'organisation de la Caisse des dépôts et consignations.
+
+## CHAPITRE 12. - Dispositions transitoires
+
+### Art. 27
+
+La présente loi s'applique à tous les dossiers ouverts à la Caisse des Dépôts et Consignations au moment de son entrée en vigueur.
+
+Il n'est pas porté atteinte aux droits acquis.
+
+### Art. 27/1.
+
+[<sup>1</sup> Par dérogation à l'article 19/1, les cautions qui sont constituées entre le 1er janvier 1992 et le 31 décembre 2006, sont libérées au profit du consignateur après un délai de 3 mois à compter du 30 juin 2021, sauf si l'adjudicateur, l'acheteur ou le maître de l'ouvrage a introduit une action en justice pour le prélèvement du cautionnement et qu'il en a informé la Caisse de Dépôts et Consignations par courrier recommandé ou au moyen de l'application électronique visée à l'article 6.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-06-27/09, art. 401, 003; En vigueur : 19-07-2021&gt;
+
+### Art. 28
+
+Par dérogation à l'article 22, sont immédiatement acquis au Trésor les biens consignés dont la valeur au moment de l'entrée en vigueur de cette loi est inférieure ou égale à vingt euros et pour lesquels aucune opération entrante ou sortante n'est intervenue depuis 5 ans.
+
+### Art. 28/1.
+
+[<sup>1</sup> Par dérogation à l'article 22, les biens consignés dont les délais de prescription visés à l'article 22, alinéa 1er, 1° et 2°, sont écoulés au moment de l'entrée en vigueur du présent article, sont immédiatement acquis au Trésor.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/01, art. 55, 006; En vigueur : 11-06-2026&gt;
+
+### Art. 29
+
+&lt;Abrogé par L 2022-07-05/06, art. 57, 004; En vigueur : 29-07-2022&gt;
+
+### Art. 30
+
+Les arrêtés pris en exécution de l'arrêté royal n° 150 du 18 mars 1935 coordonnant les lois relatives à l'organisation et au fonctionnement de la Caisse des Dépôts et Consignations et y apportant des modifications en vertu de la loi du 31 juillet 1934, restent d'application, pour autant qu'ils ne soient pas contraires aux dispositions de la présente loi.
+
+## CHAPITRE 13. - Entrée en vigueur
+
+### Art. 31
+
+La présente loi entre en vigueur le 1er septembre 2018, à l'exception des articles 20 et 26, 1°, qui entrent en vigueur le 1er janvier 2019 et du chapitre 4 qui entre en vigueur le 1er janvier 2020.
+
+En ce qui concerne le chapitre 4, le Roi peut fixer une date d'entrée en vigueur antérieure à celle mentionnée à l'alinéa 1er.
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 11 juillet 2018.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre des Finances,
+
+J. VAN OVERTVELDT
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+K. GEENS
