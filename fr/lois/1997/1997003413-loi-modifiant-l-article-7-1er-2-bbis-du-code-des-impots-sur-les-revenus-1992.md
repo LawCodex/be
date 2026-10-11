@@ -1,0 +1,60 @@
+---
+title: "Loi modifiant l'article 7, § 1er, 2°, bbis, du Code des impôts sur les revenus 1992."
+identifier: "1997003413"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1997/07/06/1997003413/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1997-07-06
+published: 1997-10-23
+entry_into_force: 1998-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1997/07/06/1997003413/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 6 JUILLET 1997. - Loi modifiant l'article 7, § 1er, 2°, bbis, du Code des impôts sur les revenus 1992.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+L'article 7, § 1er, 2°, bbis, du Code des impôts sur les revenus 1992, tel qu'il a été modifié par l'arrêté royal du 20 décembre 1996 portant des mesures fiscales diverses, est remplacé par la disposition suivante :
+
+" bbis. le revenu cadastral majoré de 40 p.c. quand il s'agit de biens immobilier bâtis, donnés en location à une personne morale autre qu'une société, en vue de les mettre à disposition :
+
+\- d'une personne physique pour occupation exclusivement à des fins d'habitation;
+
+\- de plusieurs personnes physiques pour occupation conjointement et exclusivement à des fins d'habitation. ".
+
+## Art. 3
+
+La présente loi entre en vigueur le 1er janvier de l'exercice d'imposition qui suit sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 6 juillet 1997.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre des Finances,
+
+Ph. MAYSTADT
+
+Vu et scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+S. DE CLERCK

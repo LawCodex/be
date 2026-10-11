@@ -1,0 +1,90 @@
+---
+title: "Loi portant assentiment aux actes internationaux suivants : a) la Convention, sur la base de l'article K.3 du Traité sur l'Union européenne, portant création d'un Office européen de police (Convention Europol), Annexe et Déclarations, faites à Bruxelles le 26 juillet 1995; b) le Protocole, établi sur la base de l'article K.3 du Traité sur l'Union européenne, concernant l'interprétation, à titre préjudiciel, par la Cour de Justice des Communautés européennes de la Convention portant création d'un Office européen de police et Déclarations, faits à Bruxelles le 24 juillet 1996; c) et le Protocole établissant sur la base de l'article K.3 du Traité sur l'Union européenne et de l'article 41, § 3 de la Convention Europol, les privilèges et immunités d'Europol, des membres de ses organes, de ses directeurs adjoints et de ses agents, fait à Bruxelles le 19 juin 1997."
+identifier: "1998061250"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/12/1998061250/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1998-06-12
+published: 1998-09-16
+entry_into_force: 1998-09-26
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1998/06/12/1998061250/justel"
+department: "Affaires étrangères - Commerce extérieur - Coopération au Développement"
+retrieved: 2026-10-11
+---
+
+# 12 JUIN 1998. - Loi portant assentiment aux actes internationaux suivants : a) la Convention, sur la base de l'article K.3 du Traité sur l'Union européenne, portant création d'un Office européen de police (Convention Europol), Annexe et Déclarations, faites à Bruxelles le 26 juillet 1995; b) le Protocole, établi sur la base de l'article K.3 du Traité sur l'Union européenne, concernant l'interprétation, à titre préjudiciel, par la Cour de Justice des Communautés européennes de la Convention portant création d'un Office européen de police et Déclarations, faits à Bruxelles le 24 juillet 1996; c) et le Protocole établissant sur la base de l'article K.3 du Traité sur l'Union européenne et de l'article 41, § 3 de la Convention Europol, les privilèges et immunités d'Europol, des membres de ses organes, de ses directeurs adjoints et de ses agents, fait à Bruxelles le 19 juin 1997.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté en Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+Les Actes internationaux suivants sortiront leur plein et entier effet :
+
+a) la Convention, sur la base de l'article K.3 du Traité sur l'Union européenne, portant création d'un Office européen de police (Convention Europol), Annexe et Déclarations, faites à Bruxelles le 26 juillet 1995;
+
+b) le Protocole, établi sur la base de l'article K.3 du Traité sur l'Union européenne, concernant l'interprétation, à titre préjudiciel, par la Cour de Justice des Communautés européennes de la Convention portant création d'un Office européen de police et Déclarations, faits à Bruxelles le 24 juillet 1996;
+
+c) et le Protocole établissant, sur la base de l'article K.3 du Traité sur l'Union européenne et de l'article 41, § 3, de la Convention Europol, les privilèges et immunités d'Europol, des membres de ses organes, de ses directeurs adjoints et de ses agents, fait à Bruxelles le 19 juin 1997.
+
+Promulguons la présente loi, ordonnons qu'elle sont revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 12 juin 1998.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Affaires étrangères,
+
+E. DERYCKE
+
+Le Ministre de l'Intérieur,
+
+L. TOBBACK
+
+Le Ministre de la Justice,
+
+T. VAN PARYS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+T. VAN PARYS
+
+## ANNEXES.
+
+## Art. N1
+
+Convention sur la base de l'article K.3 du Traité sur l'Union européenne portant création d'un Office européen de police (Convention Europol).
+
+(Pour la convention, voir %%1995-07-26/34%%).
+
+## Art. N2
+
+Protocole, établi sur la base de l'article K.3 du Traité sur l'Union européenne, concernant l'interprétation, à titre préjudiciel, par la Cour de Justice des Communautés européennes de la Convention portant création d'un Office européen de police.
+
+(Pour le protocole, voir %%1996-07-24/77%%).
+
+## Art. N3
+
+Protocole établissant sur la base de l'article K.3 du Traité sur l'Union européenne et de l'article 41, § 3 de la Convention Europol, les privilèges et immunités d'Europol, des membres de ses organes, de ses directeurs adjoints et de ses agents.
+
+(Pour le protocole, voir %%1997-06-19/58%%).
+
+## Art. N4
+
+Entrée en vigueur.
+
+Cette convention et ces deux protocoles ne sont pas encore entré en vigueur. La date d'entrée en vigueur sera publiée ultérieurement.
