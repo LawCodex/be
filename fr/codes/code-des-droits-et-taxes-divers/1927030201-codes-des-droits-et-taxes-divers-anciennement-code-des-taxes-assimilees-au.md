@@ -1,0 +1,4347 @@
+---
+title: "Codes des droits et taxes divers - Anciennement : Code des taxes assimilées au timbre (Intitulé remplacé par L 2006-12-19/33 , art. 2)"
+identifier: "1927030201"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1927/03/02/1927030201/justel"
+type: code
+justel_type: "CODE DES DROITS ET TAXES DIVERS"
+jurisdiction: be
+language: fr
+date: 1927-03-02
+published: 1927-03-06
+entry_into_force: 1927-03-16
+last_amended: 2026-06-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1927/03/02/1927030201/justel"
+justel_notes:
+  - "art. 25; 136; 166; 166/2; 179.1; 180; 181; 183; 183octies; 183nonies; 183decies; 187.3; 187.4;187.5; 197; 199; 201/9/2; 201.2; 201.14; 201.17; 201.25; 201.27; 201.34; 201.36; 201.37/2 modifiés dans le futur par L 2024-05-12/11 , art. 83-107, 060; En vigueur : 01-01-2028"
+  - "Consultation des versions antérieures à partir du 30-12-2011 et mise à jour au 01-06-2026"
+retrieved: 2026-10-11
+---
+
+# 2 MARS 1927. - Codes des droits et taxes divers - Anciennement : Code des taxes assimilées au timbre (Intitulé remplacé par L 2006-12-19/33 , art. 2)
+
+## Livre Ier. [Droits d'écriture] &lt;Intitulé inséré par L 2006-12-19/33, art. 3, En vigueur : 01-01-2007&gt;
+
+### Titre Ier. [Etablissement du droit d'écriture] &lt;Intitulé inséré par L 2006-12-19/33, art. 3, En vigueur : 01-01-2007&gt;
+
+##### Art. 1er
+
+&lt;L 2006-12-19/33, art. 4, En vigueur : 01-01-2007&gt; [<sup>1</sup> Il est établi un droit, appelé " droit d'écriture ", sur les actes [<sup>2</sup> dressés en Belgique et]<sup>2</sup> visés au Titre II du présent Livre.]<sup>1</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+[<sup>1</sup> Le redevable est :
+
+1° le notaire pour ses actes ;
+
+2° l'huissier de justice pour ses actes ;
+
+3° [<sup>2</sup> ...]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-05-18/04, art. 2, 052; En vigueur : 01-07-2022&gt;
+
+(2)&lt;L 2025-12-19/35, art. 2, 065; En vigueur : 10-01-2026&gt;
+
+##### Art. 2
+
+&lt;Abrogé par L 2021-02-07/01, art. 26, 046; En vigueur : 01-03-2021&gt;
+
+### Titre II. [Fixation des droits d'écriture] &lt;Intitulé inséré par L 2006-12-19/33, art. 6, En vigueur : 01-01-2007&gt;
+
+#### Chapitre Ier. [Actes de notaires] &lt;Intitulé inséré par L 2006-12-19/33, art. 6, En vigueur : 01-01-2007&gt;
+
+##### Art. 3
+
+[<sup>1</sup> Les actes notariés sont soumis à un droit de 50 euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-05-18/04, art. 3, 052; En vigueur : 01-07-2022&gt;
+
+##### Art. 4
+
+[<sup>1</sup> Par dérogation à l'article 3, sont soumis à un droit de 100 euros :
+
+1° les actes sujets à transcription hypothécaire ou portant constitution, confirmation ou reconnaissance d'une hypothèque conven-tionnelle sur un immeuble ;
+
+2° les actes passés pour des sociétés ayant la personnalité juridique.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-05-18/04, art. 4, 052; En vigueur : 01-07-2022&gt;
+
+##### Art. 5
+
+&lt;Abrogé par L 2022-05-18/04, art. 5, 052; En vigueur : 01-07-2022&gt;
+
+#### Chapitre II. [Actes des huissiers de justice] &lt;Intitulé inséré par L 2006-12-19/33, art. 10, En vigueur : 01-01-2007&gt;
+
+##### Art. 6
+
+&lt;Abrogé par L 2025-12-19/35, art. 3, 065; En vigueur : 10-01-2026&gt;
+
+##### Art. 7
+
+&lt;Abrogé par L 2025-12-19/35, art. 3, 065; En vigueur : 10-01-2026&gt;
+
+#### Chapitre III.
+
+&lt;Abrogé par L 2025-12-19/35, art. 4, 065; En vigueur : 10-01-2026&gt;
+
+##### Art. 8
+
+&lt;Abrogé par L 2025-12-19/35, art. 4, 065; En vigueur : 10-01-2026&gt;
+
+#### Chapitre IV. [Autres écrits] &lt;Intitulé inséré par L 2006-12-19/33, art. 13, En vigueur : 01-01-2007&gt;
+
+##### Art. 9
+
+&lt;Abrogé par L 2013-12-21/26, art. 88, 012; En vigueur : 10-01-2014&gt;
+
+##### Art. 10
+
+&lt;Abrogé par L 2022-05-18/04, art. 7, 052; En vigueur : 01-07-2022&gt;
+
+### Titre III. [Exigibilité et paiement des droits d'écriture] &lt;Intitulé inséré par L 2006-12-19/33, art. 18, En vigueur : 01-01-2007&gt;
+
+##### Art. 11
+
+[<sup>1</sup> Les actes [<sup>2</sup> ...]<sup>2</sup> sont soumis au droit dès le moment où ils sont dressés et signés ou paraphés, soit à la main, soit sous forme d'une signature électronique au sens de l'article 3.10. du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE ou d'une signature électronique qualifiée au sens de l'article 3.12. de ce même règlement, par la personne [<sup>2</sup> qui délivre ces actes]<sup>2</sup>.
+
+[<sup>2</sup> ...]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-05-18/04, art. 8, 052; En vigueur : 01-07-2022&gt;
+
+(2)&lt;L 2025-12-19/35, art. 5, 065; En vigueur : 10-01-2026&gt;
+
+##### Art. 12
+
+&lt;L 2006-12-19/33, art. 20, En vigueur : 01-01-2007&gt; Le droit [<sup>1</sup> est]<sup>1</sup> payé auprès du bureau compétent et dans le délai fixé par arrêté royal.
+
+Le paiement du droit ne peut pas être reporté sous prétexte que l'acte juridique pour lequel l'acte vaut comme titre, dépendrait d'une condition [<sup>1</sup> suspensive]<sup>1</sup>, une autorisation, une procuration ou une ratification.
+
+----------
+
+(1)&lt;L 2026-02-10/05, art. 2, 067; En vigueur : 09-03-2026&gt;
+
+### Titre IV. [Sanctions administratives] &lt;L 2006-12-19/33, art. 21, En vigueur : 01-01-2007&gt;
+
+##### Art. 13
+
+[<sup>1</sup> Pour toute contravention à l'obligation d'acquitter le droit, le redevable doit en outre une amende égale à trois fois le droit éludé, avec un minimum de 75 euros, pour l'acte dressé par lui ou à son intervention.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2025-12-19/35, art. 6, 065; En vigueur : 10-01-2026&gt;
+
+##### Art. 14
+
+&lt;Abrogé par L 2025-12-19/35, art. 7, 065; En vigueur : 10-01-2026&gt;
+
+##### Art. 15
+
+&lt;L 2006-12-19/33, art. 24, En vigueur : 01-01-2007&gt; Encourent une amende de 25 euros par contravention:
+
+1° le notaire qui accepte le dépôt au rang de ses minutes d'un acte [<sup>2</sup> ...]<sup>2</sup> pour lequel le droit dû n'a pas été payé;
+
+2° le [<sup>1</sup> fonctionnaire]<sup>1</sup> qui enregistre pareil acte [<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2021-02-07/01, art. 27, 046; En vigueur : 01-03-2021&gt;
+
+(2)&lt;L 2025-12-19/35, art. 8, 065; En vigueur : 10-01-2026&gt;
+
+##### Art. 16
+
+&lt;L 2006-12-19/33, art. 25, En vigueur : 01-01-2007&gt; Les personnes qui ont encouru les amendes édictées par les dispositions du présent titre, sont tenues solidairement au paiement du droit éludé, sauf leur recours s'il y a lieu.
+
+##### Art. 17
+
+&lt;Abrogé par L 2022-05-18/04, art. 11, 052; En vigueur : 01-07-2022&gt;
+
+### Titre V. [Dispositions diverses] &lt;Inséré par L 2006-12-19/33, art. 27, En vigueur : 01-01-2007&gt;
+
+##### Art. 18
+
+&lt;L 2006-12-19/33, art. 28, En vigueur : 01-01-2007&gt; Lorsqu'un acte est exempté du droit en raison de sa destination ou de la qualité de la personne à laquelle il est délivré, il ne peut servir à d'autres fins ou à d'autres personnes, sous peine d'une amende égale à vingt fois le droit éludé [<sup>1</sup> ...]<sup>1</sup>. Ladite amende est encourue, individuellement et sans recours, par quiconque contrevient à cette défense.
+
+----------
+
+(1)&lt;L 2025-12-19/35, art. 9, 065; En vigueur : 10-01-2026&gt;
+
+##### Art. 19
+
+[<sup>1</sup> Le paiement d'une somme, exception faite d'une amende pénale, due en vertu du présent Code ou d'un arrêté royal d'exécution de celui-ci, est réputé non avenu s'il n'a pas été fait conformément à ce Code ou l'arrêté royal de l'exécution de ce Code.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-02-10/05, art. 3, 067; En vigueur : 09-03-2026&gt;
+
+##### Art. 20
+
+&lt;Abrogé par L 2018-03-29/16, art. 4, 042; En vigueur : 01-01-2019&gt;
+
+### Titre VI. [Exemptions] &lt;Inséré par L 2006-12-19/33, art. 31, En vigueur : 01-01-2007&gt;
+
+##### Art. 21
+
+&lt;L 2006-12-19/33, art. 32, En vigueur : 01-01-2007&gt; Sont exemptés du droit:
+
+1° les actes [<sup>7</sup> ...]<sup>7</sup> dressés ou délivrés pour l'exécution des lois, règlements et transactions au bénéfice de l'Etat, des communautés, des régions, des provinces, communes et organismes publics relatifs aux impôts, expropriations et remembrements de biens ruraux;
+
+2° les actes [<sup>7</sup> ...]<sup>7</sup> relatifs au Code wallon [<sup>8</sup> du Développement territorial, au Code bruxellois de l'aménagement du territoire et au Code flamand de l'aménagement du territoire, ainsi qu'à]<sup>8</sup> leurs arrêtés d'exécution;
+
+3° les actes [<sup>7</sup> ...]<sup>7</sup> dressés ou délivrés pour l'application des lois sur l'emploi des langues en matière judiciaire et en matière administrative;
+
+4° les exploits d'huissier de justice dressés en remplacement d'un pli judiciaire dans le cas prévu à l'[<sup>4</sup> article 46, § 3]<sup>4</sup>, du Code judiciaire.
+
+L'exploit doit mentionner, en tête, qu'il est dressé en remplacement d'un pli judiciaire et indiquer l'article du Code judiciaire en vertu duquel la signification a été faite;
+
+5° les actes [<sup>7</sup> ...]<sup>7</sup> relatifs à l'exécution [<sup>8</sup> du Code de droit économique, Livre III, Titre 2 et Livre XV, Titre 2, Chapitre 2, Section 1re]<sup>8</sup>;
+
+6° [<sup>7</sup> ...]<sup>7</sup>;
+
+7° [<sup>7</sup> ...]<sup>7</sup>;
+
+8° les actes [<sup>7</sup> ...]<sup>7</sup> relatifs au recouvrement des avances payées par l'Etat en exécution des dispositions du Code judiciaire concernant l'assistance judiciaire;
+
+9° les actes [<sup>7</sup> ...]<sup>7</sup> relatifs à la reconnaissance volontaire d'un enfant [<sup>7</sup> ...]<sup>7</sup>;
+
+10° les actes [<sup>7</sup> ...]<sup>7</sup> délivrés aux autorités ou administrations publiques étrangères en exécution d'accords internationaux;
+
+11° les actes [<sup>7</sup> ...]<sup>7</sup> relatifs aux interventions visées par la loi du 21 février 2003 créant un Service des créances alimentaires au sein du SPF Finances;
+
+[12° les actes visés à l'article 103 du Code des droits d'enregistrement, d'hypothèque et de greffe.] &lt;L 2010-05-19/02, art. 25, En vigueur : 07-06-2010&gt;
+
+[<sup>1</sup> 13° la déclaration de renonciation devant un notaire visée à l'article [<sup>5</sup> 4.44, alinéa 1er, du Code civil, dans les conditions visées à l'alinéa 3]<sup>5</sup> du même article.]<sup>1</sup>
+
+[<sup>2</sup> [<sup>3</sup> 14°]<sup>3</sup> la procuration authentique visée à l'article 9, § 3, de la loi du 25 ventôse an XI contenant organisation du notariat;]<sup>2</sup>
+
+[<sup>6</sup> 15° les actes d'hérédité visés à l'article 3.30, § 1er, 7°, du Code civil à condition que le fonctionnaire instrumentant ne réclame pas de vacations ou de frais pour l'établissement de l'acte et que l'acte soit établi dans les 6 mois du décès.]<sup>6</sup>
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 120, 023; En vigueur : 03-08-2017&gt;
+
+(2)&lt;L 2017-07-06/24, art. 203, 023; En vigueur : 03-08-2017&gt;
+
+(3)&lt;L 2022-01-21/03, art. 90,b, 049; En vigueur : 10-01-2022&gt;
+
+(4)&lt;L 2022-01-21/03, art. 90,a, 049; En vigueur : 07-02-2022&gt;
+
+(5)&lt;L 2022-01-19/18, art. 47, 051; En vigueur : 01-07-2022&gt;
+
+(6)&lt;L 2022-05-18/04, art. 12, 052; En vigueur : 01-07-2022&gt;
+
+(7)&lt;L 2025-12-19/35, art. 10, 065; En vigueur : 10-01-2026&gt;
+
+(8)&lt;L 2026-02-10/05, art. 4, 067; En vigueur : 09-03-2026&gt;
+
+##### Art. 22
+
+[<sup>1</sup> Un acte dont le texte ne mentionne pas la cause d'exemption du droit porte, en tête, une mention de cette cause, à peine d'en perdre le bénéfice.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2025-12-19/35, art. 11, 065; En vigueur : 10-01-2026&gt;
+
+### Titre VII. [Remboursements] &lt;Inséré par L 2006-12-19/33, art. 34, En vigueur : 01-01-2007&gt;
+
+##### Art. 23
+
+[<sup>1</sup> Le droit est restituable à due concurrence lorsqu'un montant supérieur à celui dû a été payé]<sup>1</sup>.
+
+Le Roi détermine le mode suivant lequel s'opère la restitution, les formalités et conditions auxquelles elle est subordonnée, ainsi que le receveur compétent pour l'effectuer.
+
+----------
+
+(1)&lt;L 2025-12-19/35, art. 12, 065; En vigueur : 10-01-2026&gt;
+
+### Titre. VIIbis. [<sup>1</sup> Poursuites et instances - Sûretés données au Trésor]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 73, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 23.1
+
+[<sup>1</sup> La solution des difficultés qui peuvent s'élever relativement à la perception ou au recouvrement des droits avant l'introduction des instances appartient au ministre des Finances ou au fonctionnaire délégué par lui.
+
+Si après échanges de vues, le désaccord avec le ministre ou le fonctionnaire délégué par lui persiste sur une difficulté visée à l'alinéa 1er, le contribuable peut introduire une demande de conciliation auprès du service de conciliation fiscale visé à l'article 116 de la loi du 25 avril 2007 portant des dispositions diverses (IV).
+
+Le Roi peut déterminer les difficultés relatives à la perception et au recouvrement des droits pour lesquelles l'intervention du service de conciliation fiscale est exclue.
+
+Le ministre des Finances conclut les transactions avec les contribuables, pourvu qu'elles n'impliquent pas exemption ou modération d'impôt.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 74, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 23.2
+
+[<sup>1</sup> Le premier acte de poursuite pour le recouvrement des droits ou amendes et des accessoires est une contrainte.
+
+Elle est décernée par le receveur chargé du recouvrement ; elle est visée et déclarée exécutoire par le conseiller général compétent de l'administration en charge de l'établissement des droits établis [<sup>2</sup> par ce livre du Code]<sup>2</sup> et signifiée par exploit d'huissier de justice.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 75, 039; En vigueur : 01-01-2020&gt;
+
+(2)&lt;L 2021-12-20/04, art. 26, 048; En vigueur : 07-01-2022&gt;
+
+##### Art. 23.3
+
+[<sup>1</sup> L'exécution de la contrainte ne peut être interrompue que par une action en justice.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 76, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 23.4
+
+[<sup>1</sup> Pour le recouvrement des droits établis par le présent Code, ainsi que des [<sup>3</sup> intérêts de retard]<sup>3</sup> et frais, le Trésor a un privilège général sur tous les biens meubles du débiteur et une hypothèque légale sur tous ses biens immeubles. Le privilège prend rang immédiatement après ceux mentionnés aux articles 19 et 20 de la loi du 16 décembre 1851 et à l'article 23 du [<sup>2</sup> Code des privilèges maritimes déterminés et des dispositions diverses]<sup>2</sup>. L'hypothèque légale prend rang à compter du jour de l'inscription qui en est faite en vertu de la contrainte décernée, visée et déclarée exécutoire conformément à l'article 232 du présent Code.
+
+En outre, en cas d'opposition à la contrainte, le débiteur peut, sur la poursuite de l'administration en charge de l'établissement ou de la perception et du recouvrement des droits établis par le Code et avant le jugement vidant le débat, être condamné, selon la procédure instaurée par les article s 1035 à 1041 du Code judiciaire, à fournir, dans le délai à fixer par le juge, soit un versement provisionnel, soit un cautionnement, pour tout ou partie des sommes réclamées par la contrainte. L'ordonnance est exécutoire nonobstant appel.
+
+Dans le cas où l'opposition à contrainte a été rejetée, aucun recours contre la décision judiciaire ne peut être valablement introduit avant que le montant des sommes dues ait été consigné.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 77, 039; En vigueur : 01-01-2020&gt;
+
+(2)&lt;L 2021-02-07/01, art. 28, 046; En vigueur : 01-03-2021&gt;
+
+(3)&lt;L 2022-11-20/01, art. 19, 053; En vigueur : 01-01-2023&gt;
+
+### Titre VIII. [Dispositions transitoires] &lt;Intitulé inséré par L 2006-12-19/33, art. 36, En vigueur : 01-01-2007&gt;
+
+##### Art. 24
+
+&lt;L 2006-12-19/33, art. 37, En vigueur : 01-01-2007&gt; Les dispositions du présent livre ne régissent pas les droits acquis au Trésor avant la date de sa mise en vigueur en application du Code des droits de timbre abrogé.
+
+##### Art. 25
+
+&lt;L 2006-12-19/33, art. 38, En vigueur : 01-01-2007&gt; Les prescriptions commencées avant la mise en vigueur du présent livre en application du Code des droits de timbre abrogé, sont réglées conformément aux dispositions de celui-ci.
+
+##### Art. 26
+
+&lt;L 2006-12-19/33, art. 39, En vigueur : 01-01-2007&gt; Sous réserve des dispositions visées à l'article 25, la restitution des droits perçus avant la date de l'entrée en vigueur du présent livre demeure soumise aux dispositions des lois antérieures.
+
+##### Art. 27
+
+&lt;L 2006-12-19/33, art. 40, En vigueur : 01-01-2007&gt; Les répertoires et registres en cours au moment de l'entrée en vigueur du présent livre, ne sont plus assujettis à un droit séparé par page.
+
+Les feuilles timbrées non utilisées des répertoires et registres précités au moment de l'entrée en vigueur du présent livre ainsi que le papier timbré non utilisé peuvent prétendre au remboursement selon les modalités déterminées par le ministre des Finances.
+
+##### Art. 28
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 29
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 30
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 31
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 32
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 33
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 34
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 35
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 36
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 37
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 38
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 39
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 40
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 41
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 42
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 43
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 44
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 45
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 46
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 47
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 48
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 49
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 50
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 51
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 52
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 53
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 54
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 55
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 56
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 57
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 58
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 59
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 60
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 61
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 62
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 63
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 64
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 65
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 66
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 67
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 68
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 69
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 70
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 71
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 72
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 73
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 74
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 75
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 76
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 77
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 78
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 79
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 80
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 81
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 82
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 83
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 84
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 85
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 86
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 87
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 88
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 89
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 90
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 91
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 92
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 93
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 94
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 95
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 96
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 97
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 98
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 99
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 100
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 101
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 102
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 103
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 104
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 105
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 106
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 107
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 108
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 109
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 110
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 111
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 112/1
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 112/2
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 112/3
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+##### Art. 112/4
+
+[abrogé] &lt;L 1969-07-03/32, art. 94, En vigueur : 01-01-1971&gt;
+
+### Titre VII. [Titre VII (art. 113119) abrogé] &lt;L 1977-12-22/06, art. 23, En vigueur : 01-01-1978&gt;
+
+##### Art. 113
+
+[abrogé] &lt;L 1977-12-22/06, art. 23, En vigueur : 01-01-1978&gt;
+
+##### Art. 114
+
+[abrogé] &lt;L 1977-12-22/06, art. 23, En vigueur : 01-01-1978&gt;
+
+##### Art. 115
+
+[abrogé] &lt;L 1977-12-22/06, art. 23, En vigueur : 01-01-1978&gt;
+
+##### Art. 116
+
+[abrogé] &lt;L 1977-12-22/06, art. 23, En vigueur : 01-01-1978&gt;
+
+##### Art. 117
+
+[abrogé] &lt;L 1977-12-22/06, art. 23, En vigueur : 01-01-1978&gt;
+
+##### Art. 118
+
+[abrogé] &lt;L 1977-12-22/06, art. 23, En vigueur : 01-01-1978&gt;
+
+##### Art. 119
+
+[abrogé] &lt;L 1977-12-22/06, art. 23, En vigueur : 01-01-1978&gt;
+
+## Livre II. [Taxes diverses] &lt;Inséré par L 2006-12-19/33, art. 42, En vigueur : 01-01-2007&gt;
+
+### Titre I. Taxe sur les opérations de bourse [<sup>1</sup> ...]<sup>1</sup> &lt;Ancien titre VIII renuméroté titre I par L 2006-12-19/33, art. 42, En vigueur : 01-01-2007&gt;
+
+----------
+
+(1)&lt;L 2021-01-26/12, art. 128, 044; En vigueur : 20-02-2021&gt;
+
+#### Chapitre Ier. Opérations de bourse [<sup>1</sup> ...]<sup>1</sup> &lt;Intitulé "Section" remplacé par "Chapitre", L 2006-12-19/33, art. 41, En vigueur : 01-01-2007&gt;
+
+----------
+
+(1)&lt;L 2021-01-26/12, art. 129, 044; En vigueur : 20-02-2021&gt;
+
+##### Art. 120
+
+&lt;L 1993-12-24/33, art. 35, En vigueur : 01-01-1994&gt; Sont soumises à la taxe sur les opérations de bourse, lorsqu'elles portent sur des fonds publics belges ou étrangers, les opérations conclues ou exécutées en Belgique ci-après :
+
+1° toute vente, tout achat et, plus généralement, toute cession et toute acquisition à titre onéreux;
+
+2° [...] &lt;L 2004-12-27/30, art. 344, En vigueur : 15-07-2004&gt;
+
+3° tout rachat de ses actions, par une société d'investissement, lorsque l'opération porte sur des actions de capitalisation;
+
+4° [...] &lt;L 2004-12-27/30, art. 344, En vigueur : 15-07-2004&gt;
+
+[<sup>1</sup> Les opérations visées à l'alinéa 1er sont également réputées être conclues ou exécutées en Belgique lorsque l'ordre relatif aux opérations est donné directement ou indirectement à un intermédiaire établi à l'étranger :
+
+\- soit par une personne physique ayant sa résidence habituelle en Belgique;
+
+\- soit par une personne morale pour le compte d'un siège ou d'un établissement de celle-ci en Belgique.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/01, art. 122, 021; En vigueur : 01-01-2017&gt;
+
+##### Art. 120bis
+
+[<sup>1</sup> Pour l'application du présent titre, on entend :
+
+1° par organisme de placement collectif :
+
+\- un fonds commun de placement ou une société d'investissement tels que visés par la Partie II de la loi du 3 août 2012 relative aux organismes de placement collectif qui répondent aux conditions de la Directive 2009/65/CE et aux organismes de placement en créances;
+
+\- un fonds commun de placement ou une société d'investissement tels que visés par la Partie III de la loi du 19 avril 2014 relative aux organismes de placement collectif alternatifs et à leurs gestionnaires;
+
+\- un autre organisme qui est considéré ou assimilé, selon le droit d'un autre Etat membre de l'E.E.E., comme un organisme de placement collectif en valeur mobilière au sens de la Directive 2009/65/CE du Parlement européen et du Conseil, du 13 juillet 2009, portant coordination des dispositions législatives, réglementaires administratives concernant certains organismes de placement collectif en valeurs mobilières ou un fond de placement alternatif au sens de la Directive 2011/61/UE du Parlement européen et du Conseil, du 8 juin 2011, sur les gestionnaires de fonds d'investissement alternatifs et modifiant les directives 2003/41/CE et 2009/65/CE ainsi que les règlements (CE) n° 1060/2009 et (UE) n° 1095/2010, et qui est ainsi réglementé et fait l'objet d'une inscription, d'une immatriculation ou d'une notification auprès de l'autorité compétente d'un autre Etat membre de l'E.E.E.;
+
+2° par société immobilière réglementée : toute société immobilière réglementée, publique ou institutionnelle, visée à l'article 2 de la loi du 12 mai 2014 relative aux sociétés immobilières règlementées;
+
+3° par action de capitalisation : une action émise par une société d'investissement visée au 1°, premier ou deuxième tiret, pour laquelle les statuts de la société ne prévoient pas la distribution du produit net et qui n'est pas visée à l'article 19, § 1er, 4°, du Code des impôts sur les revenus 1992.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-12-25/03, art. 21, 028; En vigueur : 01-01-2018&gt;
+
+##### Art. 121
+
+&lt;L 1993-12-24/33, art. 37, En vigueur : 01-01-1994&gt; § 1er. Pour les opérations désignées à l'article 120, 1°, le taux de la taxe est fixé:
+
+1° à [<sup>5</sup> 1,20 pour mille]<sup>5</sup> si l'opération a pour objet des titres de la dette publique belge en général; des titres de la dette publique d'États étrangers ou des emprunts émis par les Communautés, les Régions, les provinces ou les communes tant du pays que de l'étranger; des obligations [...] des sociétés et autres personnes morales belges ou étrangères ou des certificats d'obligations; [<sup>6</sup> des titres, autres que des parts de fonds de placement, émis par des personnes physiques ou morales établies en Belgique, en représentation ou contrepartie d'actions, d'obligations ou de titres émanant de sociétés tierces, collectivités ou autorités ou de quotités de pareils actions, obligations ou titres; des actions émises par une société immobilière réglementée; des actions ou parts émises par un organisme de placement collectif;]<sup>6</sup> &lt;AR 2007-12-07/30, art. 12, En vigueur : 01-01-2008&gt;
+
+2° à [<sup>5</sup> 3,50 pour mille]<sup>5</sup> si l'opération a pour objet tout autre titre.
+
+[alinéa 2 abrogé] &lt;L 2004-12-27/30, art. 345, En vigueur : 15-07-2004&gt;
+
+Pour les opérations désignées à l'article 120, 3°, le taux de la taxe est fixé à [<sup>4</sup> 1,32 p.c.]<sup>42</sup>
+
+[alinéa 4 abrogé] &lt;L 2004-12-27/30, art. 345, En vigueur : 15-07-2004&gt;
+
+§ 2. [Par dérogation au § 1er, le taux de la taxe est fixé à [<sup>4</sup> 1,32 p.c.]<sup>4</sup>] pour les opérations désignées à l'article 120, 1°, lorsqu'elles ont pour objet des actions de capitalisation.] &lt;L 2004-12-27/30, art. 345, En vigueur : 15-07-2004&gt;
+
+----------
+
+(1)&lt;L 2011-12-28/01, art. 58, 002; En vigueur : 01-01-2012&gt;
+
+(3)&lt;L 2014-05-12/18, art. 100, 015; En vigueur : 16-07-2014 (AR 2014-07-13/01, art. 33)&gt;
+
+(4)&lt;L 2014-12-19/07, art. 99, 016; En vigueur : 01-01-2015&gt;
+
+(5)&lt;L 2017-12-25/01, art. 132, 027; En vigueur : 08-01-2018&gt;
+
+(6)&lt;L 2017-12-25/03, art. 22, 028; En vigueur : 01-01-2018&gt;
+
+##### Art. 122
+
+&lt;L 1993-12-24/33, art. 38, En vigueur : 01-01-1994&gt;
+
+[...] &lt;Division en paragraphes supprimée par L 2004-12-27/30, art. 346, En vigueur : 15-07-2004&gt;
+
+Pour les opérations désignées :
+
+1° à l'article 120, 1°, il est dû une taxe de [<sup>1</sup> [<sup>4</sup> 1,20, 3,50 pour mille]<sup>4</sup> ou 1,32 p.c.]<sup>2</sup>]<sup>1</sup>, selon le cas, séparément sur la vente ou cession et sur l'achat ou acquisition;
+
+2° [...]; &lt;L 2004-12-27/30, art. 346, En vigueur : 15-07-2004&gt;
+
+3° à l'article 120, 3°, la taxe est due uniquement du chef de la cession de l'action à la société d'investissement [<sup>3</sup> ou à la société immobilière réglementée]<sup>3</sup>.
+
+[Ancien § 2 abrogé.] &lt;L 2004-12-27/30, art. 346, En vigueur : 15-07-2004&gt;
+
+----------
+
+(1)&lt;L 2011-12-28/01, art. 59, 002; En vigueur : 01-01-2012&gt;
+
+(2)&lt;L 2014-12-19/07, art. 100, 016; En vigueur : 01-01-2015&gt;
+
+(3)&lt;L 2014-05-12/18, art. 101, 015; En vigueur : 16-07-2014 (AR 2014-07-13/01, art. 33)&gt;
+
+(4)&lt;L 2017-12-25/01, art. 133, 027; En vigueur : 08-01-2018&gt;
+
+##### Art. 123
+
+&lt;L 1993-12-24/33, art. 39, En vigueur : 01-01-1994&gt; La taxe exigible est liquidée:
+
+1° [pour les achats ou acquisitions, sur les sommes, non compris le courtage de l'intermédiaire, à acquitter par l'acquéreur;] &lt;L 2004-12-27/30, art. 347, En vigueur : 15-07-2004&gt;
+
+2° pour les ventes ou cessions, sur les sommes à recevoir par le vendeur ou cédant, sans déduction du courtage de l'intermédiaire;
+
+3° pour les rachats visés à l'article 120, 3°, sur la valeur nette d'inventaire des actions, sans déduction du chargement forfaitaire;
+
+4° [<sup>1</sup> pour les rachats d'actions de capitalisation visés à l'article 120, 3°, sur la valeur d'inventaire de ces actions, sans déduction du chargement forfaitaire, mais diminuée du précompte mobilier retenu, lorsque le rachat est fait par :
+
+a) un organisme de placement collectif agréé conformément à la directive 2009/65/CE du Parlement européen et du Conseil, du 13 juillet 2009, portant coordination des dispositions législatives, réglementaires administratives concernant certains organismes de placement collectif en valeurs mobilières ;
+
+b) un organisme de placement collectif établi en dehors du territoire où le Traité sur le fonctionnement de l'Union européenne est applicable en vertu de son article 355.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-02-07/01, art. 29, 046; En vigueur : 01-03-2021&gt;
+
+##### Art. 124
+
+&lt;L 2005-04-28/37, art. 2, En vigueur : 31-12-2004&gt; Le montant de taxe perçu sur chacune des opérations assujetties séparément à la taxe conformément à l'article 122, n'excèdera pas [<sup>3</sup> 1 300 euros]<sup>3</sup>, sauf sur [<sup>1</sup> les opérations visées à l'article 121, § 1er, alinéa 1er, 2°, [<sup>2</sup> pour lesquelles ce montant est porté à [<sup>3</sup> 1 600 euros]<sup>3</sup> et pour les opérations qui ont pour objet les actions de capitalisation, pour lesquelles ce montant est porté à [<sup>3</sup> 4 000 euros]<sup>3</sup>]<sup>2</sup>]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2012-06-22/02, art. 47, 003; En vigueur : 01-08-2012&gt;
+
+(2)&lt;L 2014-12-19/07, art. 101, 016; En vigueur : 01-01-2015&gt;
+
+(3)&lt;L 2016-12-25/01, art. 124, 021; En vigueur : 01-01-2017&gt;
+
+##### Art. 125
+
+[<sup>1</sup> § 1er. La taxe est payable au plus tard le dernier jour ouvrable :
+
+1° du deuxième mois suivant celui au cours duquel l'opération a été conclue ou exécutée, lorsque le donneur d'ordre est le redevable de la taxe;
+
+2° du mois suivant celui au cours duquel l'opération a été conclue ou exécutée, dans les autres cas.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+Le jour du paiement, le redevable dépose à ce bureau une déclaration faisant connaître la base de perception ainsi que tous les éléments nécessaires à sa détermination.
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+Si la déclaration visée au paragraphe 1er n'est pas déposée dans le délai fixé, il est encouru une amende de 50 euros par semaine de retard. Toute semaine commencée est comptée comme complète. Cette amende ne peut dépasser par infraction le montant dû après 52 semaines de retard.
+
+Toute inexactitude ou omission dans la déclaration visée au paragraphe 1er est punie d'une amende égale a cinq fois le droit éludé, sans qu'elle puisse être inférieure à 250 euros.
+
+L'absence de délivrance du bordereau visé à l'article 127 est punie d'une amende égale à cinq fois le droit éludé sans qu'elle puisse être inférieure à 1 000 euros.
+
+§ 3. Les éléments à faire connaître dans la déclaration visée au paragraphe 1er ainsi que le bureau compétent sont déterminés par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/01, art. 125, 021; En vigueur : 01-01-2017&gt;
+
+(2)&lt;L 2022-11-20/01, art. 20, 053; En vigueur : 01-01-2023&gt;
+
+(3)&lt;L 2026-02-10/05, art. 5, 067; En vigueur : 09-03-2026&gt;
+
+##### Art. 126/1
+
+&lt;Inséré par L 1947-08-13/02, art. 50, En vigueur : 27-09-1947&gt; Sont exemptes de la taxe:
+
+1° les opérations dans lesquelles aucun intermédiaire professionnel n'intervient ou ne contracte soit pour le compte de l'une des parties, soit pour son compte propre;
+
+2° [les opérations faites pour son propre compte par un intermédiaire visé à l'article 2, 9° et 10°, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, par une entreprise d'assurances visée à l'article [<sup>9</sup> 6 de la loi du 13 mars 2016 relative au statut et au contrôle des entreprises d'assurance ou de réassurance]<sup>9</sup>, [par une institution de retraite professionnelle visée à l'article 2, 1°, de la loi du 27 octobre 2006 relative au contrôle des institutions de retraite professionnelle], par un organisme de placement collectif [<sup>3</sup> , par une société immobilière réglementée]<sup>3</sup> ou par un non-résident;] &lt;L 2004-12-27/30, art. 349, En vigueur : 15-07-2004&gt; &lt;L 2006-12-27/32, art. 329, En vigueur : 01-01-2007&gt;
+
+3° [<sup>6</sup> les opérations ayant pour objet les droits de participation d'un organisme de placement collectif réservés aux investisseurs institutionnels ou professionnels, ou des sociétés immobilières réglementées institutionnelles;]<sup>6</sup>
+
+4° [<sup>10</sup> les opérations ayant pour objet des titres de la dette publique belge ou étrangère que l'Administration générale de la Trésorerie effectue ou fait effectuer dans le cadre de la gestion de ses liquidités ;]<sup>10</sup>
+
+5° [<sup>10</sup> les opérations ayant pour objet des titres de la dette publique belge ou étrangère que l'Agence fédérale de la Dette effectue ou fait effectuer.
+
+Par titre de la dette publique belge ou étrangère, il est entendu tout titre émis par une entité belge ou étrangère appartenant au secteur des administrations publiques au sens du système européen de comptes nationaux et régionaux (SEC) pour l'application du règlement (CE) n° 479/2009 du Conseil du 25 mai 2009 relatif à l'application du protocole sur la procédure concernant les déficits excessifs annexés au traité instituant la Communauté européenne ;]<sup>10</sup>
+
+6° [<sup>10</sup> les opérations ayant pour objet des titres émis par l'Etat belge ou une entité nationale ou fédérale d'un Etat membre de l'Espace économique européen, libellés en euros ou dans la monnaie d'un de ces Etats membres, et consistant en :
+
+a) des certificats de trésorerie ; ou
+
+b) des obligations linéaires ou des titres d'une durée d'au moins un an ;]<sup>10</sup>
+
+7° [<sup>7</sup> ...]<sup>7</sup>
+
+8° [<sup>5</sup> les opérations qui, en vue de favoriser la liquidité de ses actions, résultent d'une décision préalable de l'assemblée générale d'un émetteur telle que prévue [<sup>8</sup> à l'article 7:215, § 1er, 1°, du Code des sociétés et des associations]<sup>8</sup> et qui seront exécutées pour le compte de l'émetteur qui est coté en bourse sur un marché réglementé comme visé à l'article 2, 5° de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, par un intermédiaire visé à l'article 2, 9° et 10°, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, avec lequel l'émetteur a conclu un contrat en vue d'apporter de la liquidité;]<sup>5</sup>
+
+9° [les opérations relatives aux billets de trésorerie et aux certificats de dépôt émis conformément à la loi du 22 juillet 1991;] &lt;L 1991-07-22/39, art. 10, En vigueur : 01-10-1991&gt;
+
+10° [les opérations ayant pour objet des parts d'organisme privé de placement collectif;] &lt;L 2006-12-27/32, art. 329, En vigueur : 01-01-2007&gt;
+
+11° [...] &lt;L 2004-12-27/30, art. 349, En vigueur : 15-07-2004&gt;
+
+12° [...] &lt;L 2004-12-27/30, art. 349, En vigueur : 15-07-2004&gt;
+
+13° [les opérations ayant pour objet des titres d'emprunts à court terme émis par la Banque nationale de Belgique;
+
+14° [<sup>9</sup> les opérations réalisées par le Fonds de protection des dépôts et des instruments financiers, visé à l'article 3 de la loi du 17 décembre 1998 créant un Fonds de protection des dépôts et des instruments financiers et réorganisant les systèmes de protection des dépôts et des instruments financiers, dans le cadre de la gestion des systèmes de protection des investisseurs ou des dépôts que ce Fonds a institués ou dont il assure la gestion ;]<sup>9</sup>
+
+15° [...] &lt;L 2004-12-15/39, art. 68, En vigueur : 11-02-2005&gt;
+
+----------
+
+(1)&lt;L 2013-06-17/06, art. 63, 008; En vigueur : 08-07-2013&gt;
+
+(2)&lt;L 2014-04-25/36, art. 81, 014; En vigueur : 16-05-2014&gt;
+
+(3)&lt;L 2014-05-12/18, art. 102, 015; En vigueur : 16-07-2014 (AR 2014-07-13/01, art. 33)&gt;
+
+(4)&lt;L 2016-08-03/17, art. 19, 020; En vigueur : 26-08-2016&gt;
+
+(5)&lt;L 2017-10-22/13, art. 15, 026; En vigueur : 20-11-2017&gt;
+
+(6)&lt;L 2017-12-25/03, art. 23, 028; En vigueur : 01-01-2018&gt;
+
+(7)&lt;AR 2019-04-22/13, art. 2, 035; En vigueur : 01-01-2017&gt;
+
+(8)&lt;L 2019-03-17/14, art. 104, 036; En vigueur : 01-05-2019&gt;
+
+(9)&lt;L 2023-12-22/05, art. 2, 057; En vigueur : 08-01-2024&gt;
+
+(10)&lt;L 2026-02-10/05, art. 6, 067; En vigueur : 09-03-2026&gt;
+
+##### Art. 126/2
+
+&lt;Inséré par L 1947-08-13/02, art. 50, En vigueur : 27-09-1947&gt; Les intermédiaires professionnels sont personnellement tenus des droits pour les opérations qu'ils font, soit pour le compte de tiers, soit pour leur compte propre.
+
+[<sup>1</sup> Toutefois, lorsque l'intermédiaire professionnel est établi à l'étranger, le donneur d'ordre est redevable de la taxe et est assujetti aux obligations visées à l'article 125, sauf s'il peut établir que la taxe a été acquittée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-12-25/01, art. 123, 021; En vigueur : 01-01-2017&gt;
+
+##### Art. 126/3
+
+[<sup>1</sup> Les intermédiaires professionnels non établis en Belgique peuvent avant d'exécuter ou conclure des opérations de bourse en Belgique faire agréer par le ministre des Finances ou son délégué un représentant responsable établi en Belgique. Ce responsable s'engage solidairement, envers l'Etat belge, au paiement des droits sur les opérations faites par l'intermédiaire professionnel, soit pour le compte de tiers, soit pour son compte propre, et à l'exécution de toutes les obligations dont l'intermédiaire professionnel est tenu conformément au présent titre.
+
+En cas de décès du représentant responsable, de retrait de son agréation ou d'événement entraînant son incapacité, il est pourvu immédiatement à son remplacement.
+
+Le Roi fixe les conditions et modalités d'agréation du représentant responsable.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-12-25/01, art. 126, 021; En vigueur : 01-01-2017&gt;
+
+##### Art. 127
+
+&lt;L 2001-12-10/33, art. 28, En vigueur : 01-01-2002&gt; Au plus tard le jour ouvrable qui suit celui où l'opération est exécutée, l'intermédiaire est tenu de délivrer à tout donneur d'ordre un bordereau indiquant les noms du bénéficiaire et de l'intermédiaire, la spécification des opérations, le montant ou la valeur de celles-ci et le montant de la taxe due.
+
+##### Art. 128
+
+&lt;L 2001-12-10/33, art. 29, En vigueur : 01-01-2002&gt; Le bordereau prévu à l'article 127 est numéroté suivant une ou plusieurs séries ininterrompues de numéros et dressé en double exemplaire.
+
+Le double du bordereau peut toutefois être remplacé par un listing établi au jour le jour, numéroté suivant une série ininterrompue de numéros et contenant les indications suivantes:
+
+a) la date du bordereau;
+
+b) le numéro du bordereau;
+
+c) l'identification du donneur d'ordre et de l'intermédiaire;
+
+d) la spécification des opérations;
+
+e) le montant ou la valeur des opérations;
+
+f) le montant de la taxe sur les opérations de bourse ou les reports qui a été perçue;
+
+g) en cas d'annulation du bordereau, la référence du bordereau annulé en regard de l'indication du bordereau d'annulation.
+
+##### Art. 129
+
+&lt;L 2004-12-27/30, art. 350, En vigueur : 15-07-2004&gt; Lorsque la taxe est due sur une opération de vente, d'achat ou de rachat faite par un intermédiaire professionnel pour son compte propre, elle est acquittée de la manière indiquée aux articles 127 et 128, sous cette réserve qu'au lieu d'être délivré au donneur d'ordre, le bordereau est conservé par l'intermédiaire.
+
+##### Art. 129/1
+
+[abrogé] &lt;L 2001-12-10/31, art. 30, En vigueur : 01-01-2002&gt;
+
+##### Art. 129/2
+
+[numéro d'article supprimé par renumérotation en art. 129] &lt;L 2001-12-10/31, art. 31, En vigueur : 01-01-2002&gt;
+
+##### Art. 130/1
+
+&lt;L 2001-12-10/31, art. 32, En vigueur : 01-01-2002&gt; Les doubles des bordereaux ou les listings en tenant lieu ainsi que les bordereaux relatifs aux opérations que les intermédiaires font pour leur compte propre doivent être conservés pendant six ans à partir de leur date.
+
+En cas de cessation d'affaires, ces documents peuvent être détruits plus tôt, moyennant l'autorisation préalable du [<sup>1</sup> conseiller général compétent de l'administration en charge de l'établissement ou de la perception et du recouvrement des taxes établies par le Livre II]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2016-04-27/04, art. 86, 018; En vigueur : 16-05-2016&gt;
+
+##### Art. 130/2
+
+&lt;L 2001-12-10/31, art. 33, En vigueur : 01-01-2002&gt; Les intermédiaires sont tenus, à peine d'une amende de 250 à 2500 EUR par infraction, de communiquer, sans déplacement, à toute réquisition des agents de [<sup>1</sup> l'administration en charge de l'établissement ou de la perception et du recouvrement des taxes établies par le Livre II]<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup>, les doubles des bordereaux ou les listings en tenant lieu, les bordereaux relatifs aux opérations effectuées pour leur compte propre, leurs livres, contrats et tous autres documents relatifs à celles de leurs opérations qui portent sur des fonds publics.
+
+----------
+
+(1)&lt;L 2014-04-25/36, art. 82, 014; En vigueur : 16-05-2014&gt;
+
+(2)&lt;L 2016-04-27/04, art. 87, 018; En vigueur : 16-05-2016&gt;
+
+##### Art. 131
+
+&lt;L 2001-12-10/31, art. 34, En vigueur : 01-01-2002&gt; Est passible d'une amende de 250 à 2500 EUR, toute contravention à l'obligation de tenir et de conserver les doubles des bordereaux ou les listings en tenant lieu prévus par l'article 128. Tous les contrevenants sont, en outre, solidairement tenus des droits éludés, sauf leur recours s'il y a lieu.
+
+##### Art. 132
+
+[abrogé] &lt;L 1947-08-13/02, art. 60, En vigueur : 27-09-1947&gt;
+
+##### Art. 133
+
+[abrogé] &lt;AR264 1936-03-27/01, art. 8&gt;
+
+##### Art. 134
+
+[abrogé] &lt;AR264 1936-03-27/01, art. 8&gt;
+
+##### Art. 135
+
+[abrogé] &lt;AR63 1939-11-28/35, art. 10&gt;
+
+##### Art. 136
+
+[La taxe est remboursée:
+
+1° si la taxe acquittée représente une somme supérieure à l'impôt auquel l'opération donnait ouverture;
+
+2° lorsque le retrait, la modification ou la rectification des cours de bourse a entraîné l'annulation ou la modification du bordereau qui a été primitivement délivré.] &lt;L 2001-12-10/31, art. 35, En vigueur : 01-01-2002&gt;
+
+Le gouvernement détermine le mode et les conditions suivant lesquels s'opère le remboursement.
+
+Il n'est pas donné suite aux demandes de remboursement dont le montant est inférieur à [0,25 EUR]. &lt;AR 2001-07-13/50, art. 9, En vigueur : 01-01-2002&gt;
+
+[...] &lt;AR63 1939-11-28/35, art. 10&gt;
+
+##### Art. 136 DROIT FUTUR.
+
+[<sup>1</sup> Sans préjudice de l'article 20137/2, § 1er, alinéa 2, la taxe est imputée conformément à l'article 20137/2, § 2, ou restituée sur demande motivée si elle a été effectivement acquitée :
+
+1° lorsque le montant déclaré à titre de taxe excède le montant de la taxe due lors du paiement ;
+
+2° lorsque le retrait, la modification ou la rectification des cours de bourse a entraîné l'annulation ou la modification du bordereau délivré à l'origine.
+
+Il n'est pas donné suite aux demandes de restitution dont le montant à rembourser est inférieur à 10 euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-02-10/05, art. 9, 067; En vigueur : 01-01-2028&gt;
+
+##### Art. 137
+
+[Abrogé] &lt;AR63 1939-11-2835/, art. 10&gt;
+
+#### Chapitre 2. Opérations de report &lt;L 2006-12-19/33, art. 41, En vigueur : 01-01-2007&gt;
+
+##### Art. 138
+
+&lt;Abrogé par L 2021-01-26/12, art. 130, 044; En vigueur : 20-02-2021&gt;
+
+##### Art. 139
+
+&lt;Abrogé par L 2021-01-26/12, art. 130, 044; En vigueur : 20-02-2021&gt;
+
+##### Art. 139bis
+
+&lt;Abrogé par L 2021-01-26/12, art. 130, 044; En vigueur : 20-02-2021&gt;
+
+##### Art. 140
+
+&lt;Abrogé par L 2021-01-26/12, art. 130, 044; En vigueur : 20-02-2021&gt;
+
+##### Art. 141
+
+&lt;Abrogé par L 2021-01-26/12, art. 130, 044; En vigueur : 20-02-2021&gt;
+
+##### Art. 142
+
+&lt;Abrogé par L 2021-01-26/12, art. 130, 044; En vigueur : 20-02-2021&gt;
+
+##### Art. 143
+
+&lt;Abrogé par L 2021-01-26/12, art. 130, 044; En vigueur : 20-02-2021&gt;
+
+##### Art. 144
+
+[abrogé] &lt;AR114 1935-02-27/34, art. 1&gt;
+
+##### Art. 145
+
+[abrogé] &lt;AR114 1935-02-27/34, art. 1&gt;
+
+##### Art. 146
+
+[abrogé] &lt;AR114 1935-02-27/34, art. 1&gt;
+
+##### Art. 147
+
+[abrogé] &lt;AR114 1935-02-27/34, art. 1&gt;
+
+##### Art. 148
+
+[abrogé] &lt;AR114 1935-02-27/34, art. 1&gt;
+
+##### Art. 149
+
+[abrogé] &lt;AR114 1935-02-27/34, art. 1&gt;
+
+##### Art. 150
+
+[abrogé] &lt;AR114 1935-02-27/34, art. 1&gt;
+
+### Titre II. [<sup>1</sup> Taxe sur les comptes-titres]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-02-07/14, art. 2, 029; En vigueur : 10-03-2018&gt; Par son arrêt n° 138/2019 du 17-10-2019 (MB 05-11-2019, p. 103582), la Cour constitutionnelle annule la loi modificative)
+
+##### Art. 151
+
+[<sup>1</sup> La personne physique qui durant la période de référence est titulaire d'un ou plusieurs comptes-titres en Belgique ou à l'étranger est, pour sa part dans la valeur moyenne des instruments financiers imposables sur ces comptes, soumise à une taxe conformément aux dispositions du présent titre.
+
+Cependant, la taxe n'est pas due lorsque la part du titulaire dans la valeur moyenne des instruments financiers imposables sur ces comptes, visée à l'alinéa 1er, est inférieure à un montant de 500 000 euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-02-07/14, art. 3, 029; En vigueur : 10-03-2018&gt;, Par son arrêt n° 138/2019 du 17-10-2019 (MB 05-11-2019, p. 103582), la Cour constitutionnelle annule la loi modificative)
+
+##### Art. 152
+
+[<sup>1</sup> Pour l'application du présent titre, on entend par :
+
+1° compte-titres :
+
+a) en ce qui concerne les habitants du Royaume, les comptes-titres détenus auprès d'un ou plusieurs intermédiaires peu importe où cet intermédiaire a été constitué ou est établi, et en ce qui concerne les non-résidents, les comptes-titres détenus auprès d'un ou plusieurs intermédiaires qui ont été constitués ou sont établis en Belgique, sur lesquels sont inscrits un ou plusieurs instruments financiers imposables;
+
+b) les instruments financiers imposables tels que visés au 2°, a), inscrits sur un compte-titres et qui font l'objet d'une conversion à partir du 9 décembre 2017 vers des instruments financiers non-imposables inscrits dans un registre de titres nominatifs, uniquement pour la période de référence au cours de laquelle la conversion a lieu. La conversion qui a eu lieu entre le 9 décembre 2017 et la date d'entrée en vigueur de la présente loi, sera comptabilisée lors de la première période de référence qui commence avec l'entrée en vigueur de la loi;
+
+2° instruments financiers imposables:
+
+a) les actions cotées en bourse ou non ainsi que les certificats relatifs à ces instruments;
+
+b) les obligations cotées en bourse ou non ainsi que les certificats relatifs à ces instruments;
+
+c) les parts dans des fonds communs de placement ou actions dans des sociétés d'investissement cotées en bourse ou non qui n'ont pas été achetées ou souscrites dans le cadre d'une assurance vie ou d'un régime d'épargne pension;
+
+d) les bons de caisse;
+
+e) les warrants;
+
+3° cotés en bourse: négociés et admis à la négociation sur un marché réglementé belge ou étranger, ou un système multilatéral de négociation au sens de l'article 2, alinéa 1er, 4°, de loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, pour autant que celui-ci fonctionne avec au moins une cotation quotidienne, ou une plateforme de négociation établie dans un pays tiers qui remplit une fonction analogue;
+
+4° fonds communs de placement ou sociétés d'investissement: les fonds de placement ou les sociétés d'investissement visés dans la loi du 3 août 2012 relative aux organismes de placement collectif qui répondent aux conditions de la Directive 2009/65/CE et aux organismes de placement de créances, ou visés dans la loi du 19 avril 2014 relative aux organismes de placement collectif alternatifs et à leurs gestionnaires, ou dans des dispositions analogues de droit étranger;
+
+5° titulaire: la personne physique, qu'elle soit plein propriétaire, nue-propriétaire ou usufruitière, qui est la détentrice du compte-titres ou qui, par l'intermédiaire qui gère le compte, est enregistrée ou identifiée comme la détentrice du compte-titres.
+
+Chaque apport d'un compte-titres, ayant lieu à partir du 1er janvier 2018, dans une personne morale soumise à l'impôt des sociétés dans le seul but d'échapper à la taxe prévue par le présent titre, a pour conséquence que l'apporteur de ce compte-titres est considéré comme le titulaire du compte-titres qui a été apporté;
+
+6° période de référence: une période de douze mois successifs qui commence le 1er octobre et se termine le 30 septembre de l'année suivante;
+
+7° part dans la valeur moyenne: la fraction des instruments financiers imposables détenus dans les comptes-titres par le titulaire qui est présumée proportionnelle au nombre de titulaires enregistrés de ces comptes-titres;
+
+8° intermédiaire: un établissement de crédit ou une société de bourse visé à l'article 1er, § § 2 et 3, de la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse, ainsi que les entreprises d'investissement, visées à l'article 3, § 1er, de la loi de 25 octobre 2016 relative à l'accès à l'activité de prestation de services d'investissement et au statut et au contrôle des sociétés de gestion de portefeuille et de conseil en investissement, qui, en vertu du droit national, sont autorisés à détenir des instruments financiers pour le compte de clients;
+
+9° intermédiaire belge: un intermédiaire de droit belge ainsi qu'un intermédiaire établi en Belgique. Les intermédiaires qui ne sont pas établis en Belgique et qui ont désigné un représentant, visé à l'article 158/2, sont assimilés à un intermédiaire belge pour l'application du présent titre;
+
+10° valeur :
+
+a) pour les instruments financiers cotés en bourse, le cours de clôture de l'instrument financier. Lorsqu'il n'y a pas de cotation à un des points de référence, le cours de clôture est déterminé sur la base de la dernière cotation;
+
+b) pour les fonds communs de placement ou sociétés d'investissement non cotés en bourse, la dernière valeur nette d'inventaire disponible publiquement au point de référence;
+
+c) pour les autres instruments financiers non cotés en bourse:
+
+\- la valeur à laquelle l'instrument est repris dans le dernier relevé des instruments financiers disponible que l'intermédiaire doit envoyer au titulaire, en vertu de l'article 63 du règlement délégué (UE) 2017/565 de la Commission du 25 avril 2016 complétant la directive 2014/65/UE du Parlement européen et du Conseil en ce qui concerne les exigences organisationnelles et les conditions d'exercice applicables aux entreprises d'investissement et la définition de certains termes aux fins de ladite directive;
+
+\- la dernière valeur de marché disponible publiquement ou, à défaut, la meilleure estimation possible de la valeur lorsque l'instrument financier n'est pas repris dans le relevé des instruments financiers visés au premier tiret.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-02-07/14, art. 4, 029; En vigueur : 10-03-2018&gt; Par son arrêt n° 138/2019 du 17-10-2019 (MB 05-11-2019, p. 103582), la Cour constitutionnelle annule la loi modificative)
+
+##### Art. 153
+
+[<sup>1</sup> Le taux de la taxe est fixé à 0,15 p.c.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-02-07/14, art. 5, 029; En vigueur : 10-03-2018&gt; Par son arrêt n° 138/2019 du 17-10-2019 (MB 05-11-2019, p. 103582), la Cour constitutionnelle annule la loi modificative)
+
+##### Art. 154
+
+[<sup>1</sup> § 1er. La valeur moyenne visée à l'article 151 est calculée comme suit :
+
+1° au cours de la période de référence, le dernier jour de chaque trimestre forme un point de référence;
+
+2° à chaque point de référence, un relevé de la valeur des instruments financiers imposables inscrits sur les comptes-titres est établi;
+
+3° les valeurs des relevés établis lors des différents points de référence sont additionnées puis divisées par le nombre de points de référence.
+
+§ 2. En cas d'ouverture, de modification ou de clôture d'un compte-titres ou lorsqu'une personne physique devient titulaire d'un compte-titres ou n'est plus titulaire durant la période de référence, le jour de l'ouverture, de la modification ou de la clôture du compte-titres ou le jour où une personne physique devient titulaire d'un compte-titres ou ne l'est plus, est aussi considéré comme un point de référence et ce point de référence est ajouté aux points de références, conformément au paragraphe 1er, pour calculer la valeur moyenne.
+
+Par dérogation à l'article 152, 6°, la période de référence commence au moment où une personne physique devient titulaire d'un compte-titres. Elle prend fin le jour où une personne physique n'est plus titulaire d'un compte-titres.
+
+Lorsqu'à la suite du transfert de tout ou partie des instruments financiers d'un compte-titres d'un intermédiaire belge vers un autre intermédiaire belge, la période de référence commence ou prend fin durant la période de référence prévue à l'article 152, 6°, et que le titulaire qui opère ce transfert perd sa qualité de titulaire dudit compte-titres mais devient titulaire du compte-titres sur lequel les instruments financiers sont transférés, seule la période de référence auprès du dernier intermédiaire belge où le compte-titres est détenu à la fin de la période de référence visée à l'article 152, 6°, est prise en compte pour le calcul de la taxe.
+
+Lorsque la période de référence prend fin parce que le titulaire qui quitte la Belgique et par ce fait n'est plus considéré comme habitant du Royaume a en même temps déplacé son compte-titres à l'étranger ou n'est plus titulaire ou co-titulaire d'un ou plusieurs comptes-titres, le montant de la taxe est multiplié par une fraction dont le numérateur comprend le nombre de jours durant lesquels il était encore habitant du Royaume durant la période de référence telle que visée à l'article 152, 6°, et le dénominateur comprend le nombre de jours de la période de référence, telle que visée à l'article 152, 6°.
+
+Dans le cas visé à l'article 152, 1°, b), il est tenu compte, pour la détermination de la valeur moyenne des instruments imposables convertis, de la période de référence visée à l'article 152, 6°. La valeur des points de référence dans la période de référence précitée au cours de laquelle les instruments imposables étaient encore détenus sur un compte-titres avant leur conversion, est considérée comme nulle.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-02-07/14, art. 6, 029; En vigueur : 10-03-2018&gt; Par son arrêt n° 138/2019 du 17-10-2019 (MB 05-11-2019, p. 103582), la Cour constitutionnelle annule la loi modificative)
+
+##### Art. 155
+
+[<sup>1</sup> Les intermédiaires belges établissent, pour chaque titulaire, à chaque point de référence, le relevé visé à l'article 154, qui contient les informations suivantes :
+
+1° le nom et l'adresse du titulaire;
+
+2° le numéro de compte du titulaire;
+
+3° la part dans la valeur enregistrée des instruments financiers imposables qui, au moment du point de référence, sont détenus sur un ou plusieurs comptes-titres visés à l'article 152, 1°, a);
+
+4° la période au cours de laquelle la part dans la valeur visée au 3° a été calculée.
+
+Dans le respect des exigences formelles visées à l'alinéa 1er, les intermédiaires belges, excepté dans le cas d'un transfert visé à l'article 154, § 2, alinéa 3, établissent un aperçu à la fin de chaque période de référence qui reprend la valeur moyenne visée à l'article 154, la taxe finale due, le taux et, le cas échéant, les taxes déjà retenues. Cet aperçu est communiqué au titulaire au plus tard le dernier jour du mois qui suit celui de la fin de la période de référence.
+
+L'intermédiaire belge offre la possibilité au titulaire, dans l'aperçu visé à l'alinéa 2, de retenir la taxe si sa part dans les comptes-titres visés à l'article 152, 1°, a) auprès de cet intermédiaire belge ne dépasse pas le montant visé à l'article 151, alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-02-07/14, art. 7, 029; En vigueur : 10-03-2018&gt; Par son arrêt n° 138/2019 du 17-10-2019 (MB 05-11-2019, p. 103582), la Cour constitutionnelle annule la loi modificative)
+
+##### Art. 156
+
+[<sup>1</sup> La taxe est due le premier jour qui suit la fin de la période de référence.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-02-07/14, art. 8, 029; En vigueur : 10-03-2018&gt; Par son arrêt n° 138/2019 du 17-10-2019 (MB 05-11-2019, p. 103582), la Cour constitutionnelle annule la présente loi modificative)
+
+##### Art. 157
+
+[<sup>1</sup> Excepté en cas de transfert visé à l'article 154, § 2, alinéa 3, l'intermédiaire belge effectue la retenue libératoire, la déclaration et le paiement de la taxe si :
+
+1° la part du titulaire dans les comptes-titres visés à l'article 152, 1°, a) détenus auprès de l'intermédiaire belge est égale ou dépasse le montant visé à l'article 151, alinéa 2; ou si
+
+2° le titulaire a opté, au plus tard le dernier jour du deuxième mois qui suit la fin de la période de référence, pour la retenue libératoire sur les comptes-titres visés à l'article 152, 1°, a), par l'intermédiaire belge, lorsque la taxe n'a pas été retenue conformément au 1°.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-02-07/14, art. 9, 029; En vigueur : 10-03-2018&gt; Par son arrêt n° 138/2019 du 17-10-2019 (MB 05-11-2019, p. 103582), la Cour constitutionnelle annule la loi modificative)
+
+##### Art. 158
+
+[abrogé] &lt;AR5 1934-08-22/03, art. 37 (Errat. M.B. 25-08-1935)&gt;
+
+##### Art. 158/1
+
+[<sup>1</sup> Dans tous les cas autres que ceux visés à l'article 157, le titulaire effectue lui-même la déclaration et le paiement de la taxe à moins qu'il puisse prouver que la taxe a déjà été retenue, déclarée et payée par un intermédiaire qui n'a pas été constitué ou n'est pas établi en Belgique.
+
+Par dérogation à l'article 152, 7°, le titulaire qui détient un ou plusieurs comptes-titres en indivision ou soit totalement, soit partiellement en usufruit ou en nue-propriété, peut reprendre dans sa déclaration la part dans l'indivision, dans l'usufruit ou dans la nue-propriété qui lui revient de manière légale ou contractuelle. Il joint, à cette fin, les pièces justificatives qui déterminent la part légale ou contractuelle du titulaire, ainsi que celle des autres co-bénéficiaires dans l'indivision, l'usufruit ou la nue-propriété. En ce qui concerne l'usufruit ou la nue-propriété sur la totalité ou une partie de comptes-titres, la méthode d'évaluation visée à l'article 158/5, § 2, alinéa 2, est applicable. Lorsqu'il apparait de la détermination de la partie légale ou contractuelle que la part d'un co-bénéficiaire dans l'indivision, d'un usufruitier ou d'un nu-propriétaire personne physique, qui n'est pas titulaire, atteint ou dépasse le montant fixé à l'article 151, alinéa 2, il est assimilé au titulaire pour l'application du présent titre.
+
+Si un titulaire a choisi de déclarer la part légale ou contractuelle visée à l'alinéa 2, une déclaration conjointe est introduite, dont les modalités sont déterminées par le Roi.
+
+Si une déclaration est introduite conformément à l'alinéa 3, chaque co-bénéficiaire dans l'indivision, chaque usufruitier ou chaque nu-propriétaire, de même que le titulaire, est tenu solidairement pour le paiement de la taxe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-02-07/14, art. 10, 029; En vigueur : 10-03-2018&gt; Par son arrêt n° 138/2019 du 17-10-2019 (MB 05-11-2019, p. 103582), la Cour constitutionnelle annule la loi modificative)
+
+##### Art. 158/2
+
+[<sup>1</sup> Les intermédiaires non constitués ou non établis en Belgique peuvent, lorsqu'ils gèrent pour une personne physique un compte soumis à la présente taxe, faire agréer par le ministre des Finances ou son délégué un représentant responsable établi en Belgique. Ce représentant s'engage solidairement, envers l'Etat belge, au paiement de la taxe par l'intermédiaire pour le compte du titulaire et à l'exécution de toutes les obligations dont l'intermédiaire est tenu conformément au présent titre.
+
+En cas de décès du représentant responsable, de retrait de son agrément ou d'un évènement entraînant son incapacité, il est pourvu immédiatement à son remplacement.
+
+Le Roi fixe les conditions et modalités d'agrément du représentant responsable.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-02-07/14, art. 11, 029; En vigueur : 10-03-2018&gt; Par son arrêt n° 138/2019 du 17-10-2019 (MB 05-11-2019, p. 103582), la Cour constitutionnelle annule la loi modificative)
+
+##### Art. 158/3
+
+[<sup>1</sup> § 1er. Les redevables visés à l'article 157 déposent une déclaration au bureau compétent au plus tard le vingtième jour du troisième mois qui suit la fin de la période de référence.
+
+La taxe est acquittée au jour visé à l'alinéa 1er par versement ou virement sur le compte du bureau compétent en mentionnant la base imposable. Le Roi détermine les modalités à remplir par les redevables de la taxe lors de la déclaration ainsi que le bureau compétent.
+
+§ 2. L'absence de déclaration, la déclaration tardive, inexacte ou incomplète ainsi que le paiement tardif sont punis par une amende qui est établie en fonction de la nature et de la gravité de l'infraction, selon une échelle dont les graduations sont déterminées par le Roi et allant de 10 p.c. à 200 p.c. de la taxe due. En l'absence de mauvaise foi, il peut être renoncé au minimum de 10 p.c.
+
+Lorsque la taxe n'est pas acquittée dans le délai fixé au paragraphe 1er, l'intérêt est exigible de plein droit à partir du jour où le paiement aurait dû être fait.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-02-07/14, art. 12, 029; En vigueur : 10-03-2018&gt; Par son arrêt n° 138/2019 du 17-10-2019 (MB 05-11-2019, p. 103582), la Cour constitutionnelle annule la loi modificative)
+
+##### Art. 158/4
+
+[<sup>1</sup> § 1er. Les contribuables visés à l'article 158/1 déposent une déclaration électronique au plus tard le dernier jour de l'introduction de la déclaration à l'impôt des personnes physiques par le biais de la plate-forme électronique MyMinfin.
+
+La taxe est acquittée au plus tard le 31 août de l'année qui suit l'année dans laquelle les conditions d'assujettissement sont réunies, par versement ou virement sur le compte du bureau compétent en mentionnant la base imposable. Le Roi détermine le bureau compétent, ainsi que les modalités de la déclaration. Il faut seulement procéder au payement de la taxe quand le montant exigible selon la déclaration dépasse 10 euros.
+
+§ 2. La déclaration électronique, visée au paragraphe 1er, qui doit être remplie et transmise conformément aux indications qui figurent dans celle-ci, est mise à disposition par le Service public fédéral Finances et est assimilée à une déclaration certifiée exacte, datée et signée.
+
+Par dérogation au paragraphe 1er, alinéa 1er, les contribuables visés à l'article 158/1 sont dispensés de l'obligation d'introduire une déclaration par voie électronique dans les cas prévus par le Roi ou aussi longtemps qu'eux-mêmes ou, le cas échéant, la personne qu'ils ont mandatée pour l'introduction d'une telle déclaration, ne disposent pas des moyens informatiques nécessaires pour remplir cette obligation. Dans ce cas, l'introduction de la déclaration s'effectue sur support papier au bureau compétent.
+
+Les déclarations visées au paragraphe 1er, alinéa 1er, ainsi que les documents et pièces justificatives, introduites par les contribuables, qui sont enregistrées, conservées ou reproduites par l'administration qui a l'établissement, la perception ou le recouvrement de la taxe sur les comptes-titres dans ses attributions, selon un procédé photographique, optique, électronique ou par toute autre technique informatique ou télématique, ainsi que leur représentation sur un support lisible ont force probante pour l'application des dispositions du Code des droits et taxes divers.
+
+§ 3. L'absence de déclaration, la déclaration tardive, inexacte ou incomplète ainsi que le paiement tardif sont punis par une amende qui est établie en fonction de la nature et de la gravité de l'infraction, selon une échelle dont les graduations sont déterminées par le Roi et allant de 10 p.c. à 200 p.c. de la taxe due. En l'absence de mauvaise foi, il peut être renoncé au minimum de 10 p.c.
+
+Lorsque la taxe n'est pas acquittée dans le délai fixé au paragraphe 1er, l'intérêt est dû de plein droit à partir du jour où le paiement aurait dû être fait.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-02-07/14, art. 13, 029; En vigueur : 10-03-2018&gt; Par son arrêt n° 138/2019 du 17-10-2019 (MB 05-11-2019, p. 103582), la Cour constitutionnelle annule la loi modificative)
+
+##### Art. 158/5
+
+[<sup>1</sup> § 1er. La taxe est remboursée lorsque celle-ci représente une somme supérieure à celle qui était légalement due au dernier jour de la période de référence. Le Roi détermine les modalités et le bureau compétent pour la demande de remboursement.
+
+§ 2. Si la part dans la valeur moyenne des instruments financiers imposables sur des comptes-titres, définie à l'article 152, 7°, représente un montant supérieur par rapport à la part dans l'indivision qui, légalement ou contractuellement, revient au titulaire, le titulaire peut réclamer le remboursement de la taxe payée. Le titulaire présente à cet effet les pièces justificatives nécessaires pour l'établissement de la part légale ou contractuelle.
+
+Lorsque la taxe a été retenue dans le chef du titulaire qui détient soit partiellement, soit totalement un ou plusieurs comptes-titres en usufruit ou en nue-propriété, et que la partie sur laquelle la retenue a été calculée, représente une somme plus élevée que la part légale ou contractuelle de l'usufruit ou de la nue-propriété, le titulaire peut revendiquer le remboursement de la taxe payée. Pour le calcul de la part légale ou contractuelle de l'usufruitier ou du nu-propriétaire dans la valeur moyenne en vue du remboursement, l'usufruit est évalué selon les règles de l'annexe à l'arrêté ministériel du 1er juillet 2017 établissant les tables de conversion de l'usufruit visées à l'article 745sexies, § 3, du Code civil.
+
+En cas de remboursement, la fraction qui est supérieure à la part légale ou contractuelle dans les instruments financiers imposables visée à l'alinéa 1er ou 2, détenue ou non dans plusieurs comptes-titres, est ajoutée à la part des co-bénéficiaires, de l'usufruitier ou du nu-propriétaire comme fixée à l'article 152, 7°, pour calculer la taxe finalement due. La différence entre la taxe finalement due et la taxe déjà acquittée est à la charge du co-bénéficiaire dans l'indivision, de l'usufruitier ou du nu-propriétaire. Lorsque les co-bénéficiaires dans l'indivision, l'usufruitier ou le nu-propriétaire sont des personnes physiques qui ne sont pas titulaires d'un compte-titres, ils seront, en cas de remboursement, traités eux-mêmes comme des titulaires lorsque la fraction qui leur revient est égale ou supérieure au montant visé à l'article 151.
+
+Lorsque le remboursement, visé à l'alinéa 3, donne lieu à une imputation de la fraction qui dépasse la part légale ou contractuelle du titulaire chez un ou plusieurs co-bénéficiaires dans l'indivision, chez l'usufruitier ou chez le nu-propriétaire, chaque co-bénéficiaire dans l'indivision, chaque usufruitier ou chaque nu-propriétaire, de même que le titulaire, est tenu solidairement de la taxe due pour le règlement de cette fraction.
+
+Le Roi peut déterminer dans quels cas une déclaration conjointe doit être choisie et en fixer les modalités.
+
+§ 3. Au cas où une partie ou la totalité de la taxe payée est remboursée, les intérêts moratoires sur les sommes à rembourser sont dus de plein droit au taux fixé en matière civile et au plus tard à partir du premier jour du huitième mois qui suit le mois au cours duquel la demande de remboursement a été introduite, pour autant que le bureau compétent ait déjà confirmé que le dossier est complet. Cet intérêt est calculé par mois civil sur le montant de chaque paiement arrondi au multiple inférieur de 10 euros; le mois pendant lequel a eu lieu le paiement est négligé.
+
+[<sup>2</sup> § 3/1. En cas de décision définitive sur une procédure de règlement des différends visée aux articles 3, 4, 6 10 ou 15 de la loi du 2 mai 2019 transposant la directive (UE) 2017/1852 du conseil du 10 octobre 2017 concernant les mécanismes de règlement des différends fiscaux dans l'union européenne, un droit à restitution naît le cas échéant le jour de la renonciation au droit à toute voie de recours interne, sauf dans le cas visé à l'article 15, § 4, alinéa 3 de la loi précitée.]<sup>2</sup>
+
+§ 4. Le remboursement est effectué uniquement lorsque le montant qui fait l'objet d'un remboursement est supérieur à 10 euros.
+
+§ 5. Le Roi détermine la manière et les conditions selon lesquelles le remboursement est effectué et détermine également le délai dans lequel chaque remboursement doit être demandé avec un maximum de deux ans à compter du jour auquel la taxe devient exigible.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-02-07/14, art. 14, 029; En vigueur : 10-03-2018&gt; Par son arrêt n° 138/2019 du 17-10-2019 (MB 05-11-2019, p. 103582), la Cour constitutionnelle annule la loi modificative)
+
+(2)&lt;L 2019-05-02/21, art. 23, 037; En vigueur : 27-05-2019&gt;
+
+##### Art. 158/6
+
+[<sup>1</sup> En vue de l'examen du statut fiscal du titulaire d'un compte-titres, l'administration peut lui demander tous les renseignements qui lui sont utiles afin d'assurer la juste perception [de la taxe]. (ERRATUM, voir M.B. 14-03/2018, p. 22979)
+
+Pour toute communication fautive ou absence de communication demandée en application de l'alinéa 1er une amende allant de 750 euros à 1 250 euros peut être infligée. Le Roi fixe l'échelle des amendes administratives et règle les modalités d'application de celles-ci. En l'absence de mauvaise foi, il peut être renoncé à l'amende minimum de 750 euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-02-07/14, art. 15, 029; En vigueur : 10-03-2018&gt; Par son arrêt n° 138/2019 du 17-10-2019 (MB 05-11-2019, p. 103582), la Cour constitutionnelle annule la loi modificative)
+
+### Titre III. [<sup>1</sup> - Taxe sur l'embarquement dans un aéronef]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-03-28/01, art. 28, 050; En vigueur : 01-04-2022&gt;
+
+##### Art. 159
+
+[<sup>1</sup> Pour l'application de ce titre, on entend par :
+
+1° aéroport: un aérodrome civil visé à l'article 43 de l'arrêté royal du 15 mars 1954 réglementant la navigation aérienne ;
+
+2° exploitant de l'aéroport: la personne morale ou physique qui gère l'aéroport en tant qu'entreprise ou, à défaut, le propriétaire de l'aéroport ;
+
+3° aéronef: tout appareil motorisé qui peut être maintenu dans l'atmosphère en conséquence des forces de réaction que l'air exerce sur lui ;
+
+4° transporteur aérien: une entreprise qui a pour activité en tout ou en partie le transport de personnes par aéronef, ainsi que quiconque d'autre au nom de qui un aéronef est inscrit dans le registre visé à l'article 2 de l'arrêté royal du 15 mars 1954 réglementant la navigation aérienne, ou dans un registre étranger d'aéronefs ;
+
+5° passager: une personne physique de 2 ans ou plus et qui est transportée par aéronef autrement qu'en tant que personnel de bord ;
+
+6° personnel de bord: équipage du cockpit ou de cabine chargé par le transporteur aérien de tâches relatives au pilotage, à la sécurité du vol, au service aux passagers et au convoyage de fret, ainsi que tout qui est transporté exclusivement en vue d'exécuter à bord d'un autre aéronef et pendant un vol de cet autre aéronef, une activité en tant que personnel de bord ;
+
+7° destination: le lieu vers lequel le transporteur aérien doit transporter le passager, le cas échéant, en vertu du contrat de transport.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-03-28/01, art. 29, 050; En vigueur : 01-04-2022&gt;
+
+##### Art. 160
+
+[<sup>1</sup> § 1er. Une taxe sur l'embarquement dans un aéronef est perçue sur le départ d'un passager à partir d'un aéroport situé en Belgique.
+
+Est aussi considéré comme départ d'un passager depuis un aéroport situé en Belgique, le départ d'un passager en hélicoptère, depuis un endroit situé en Belgique autre qu'un aéroport.
+
+N'est pas considéré comme départ d'un passager le départ depuis un aéroport lorsque :
+
+1° ce départ a lieu, dans le cadre d'un seul contrat de transport, après l'arrivée du passager par aéronef dans cet aéroport ;
+
+2° la correspondance est la raison principale de l'utilisation de l'aéroport ; et
+
+3° le passager n'a pas quitté, pendant plus de 24 heures entre le moment de son arrivée et celui de son départ, la zone de l'aéroport dans laquelle un passager en partance ne peut entrer qu'avec un billet de transport valide.
+
+§ 2. La taxe ne s'applique pas en cas de départ par aéronef :
+
+1° inscrit à la matricule aéronautique militaire belge ou tout aéronef étranger similaire ;
+
+2° affecté à un service d'Etat, tel que la police et la douane ;
+
+3° pour un vol local visé à l'article 1er de l'arrêté royal du 10 juin 2014 fixant les conditions particulières imposées pour l'admission à la circulation aérienne des paramoteurs ;
+
+4° pour un vol partant d'un aéroport et y revenant, sans escale ;
+
+5° en vue de l'exercice d'une activité professionnelle dans l'espace aérien pour laquelle l'usage d'un aéronef est nécessaire ou le plus efficient.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-03-28/01, art. 30, 050; En vigueur : 01-04-2022&gt;
+
+##### Art. 161
+
+[<sup>1</sup> Le redevable de la taxe est le transporteur aérien.
+
+Les transporteurs aériens non établis en Belgique qui ont leur siège social en dehors de l'Espace économique européen sont tenus de faire agréer, par le ministre des Finances ou son délégué, un représentant responsable établi en Belgique.
+
+Les transporteurs aériens non établis en Belgique qui ont leur siège social dans l'Espace économique européen peuvent faire agréer, par le ministre des Finances ou son délégué, un représentant responsable établi en Belgique.
+
+Le représentant responsable s'engage solidairement envers l'Etat belge à la déclaration à la taxe, au paiement des sommes dues et à l'exécution de toutes autres obligations dont le transporteur aérien est tenu conformément au présent titre.
+
+En cas de décès du représentant responsable, de retrait de son agrément ou d'événement entraînant son incapacité, il est pourvu immédiatement à son remplacement.
+
+Les transporteurs aériens soumis à la taxe et qui exécutent au minimum deux vols avec des passagers par année calendaire depuis un aéroport situé en Belgique, s'enregistrent auprès du service compétent.
+
+Toute contravention à ces dispositions est punie d'une amende qui est établie en fonction de la nature et de la gravité de l'infraction, selon une échelle dont les graduations sont déterminées par le Roi et allant de 250 à 250 000 euros.
+
+Le Roi détermine les conditions et modalités d'agrément du représentant responsable ainsi que les modalités de l'enregistrement des transporteurs aériens.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-03-28/01, art. 31, 050; En vigueur : 01-04-2022&gt;
+
+##### Art. 162
+
+[<sup>1</sup> La taxe est de :
+
+1° 10 euros pour un passager dont la destination n'est pas située à plus de 500 km à vol d'oiseau à partir de l'ARP de l'aéroport ayant le plus grand nombre annuel de passagers dans le pays ;
+
+2° [<sup>2</sup> 5 euros pour un passager dont la destination est plus éloignée que sous 1°. ]<sup>2</sup>
+
+3° [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-03-28/01, art. 32, 050; En vigueur : 01-04-2022&gt;
+
+(2)&lt;L 2025-07-18/06, art. 2, 063; En vigueur : 29-07-2025&gt;
+
+##### Art. 162 DROIT FUTUR.
+
+[<sup>1</sup> La taxe est de :
+
+1° [<sup>5</sup> 11]<sup>5</sup> euros pour un passager dont la destination n'est pas située à plus de 500 km à vol d'oiseau à partir de l'ARP de l'aéroport ayant le plus grand nombre annuel de passagers dans le pays ;
+
+2° [<sup>2</sup> [<sup>3</sup> 10]<sup>3</sup> euros pour un passager dont la destination est plus éloignée que sous 1°. ]<sup>2</sup>
+
+3° [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-03-28/01, art. 32, 050; En vigueur : 01-04-2022&gt;
+
+(2)&lt;L 2025-07-18/06, art. 2, 063; En vigueur : 29-07-2025&gt;
+
+(3)&lt;L 2026-05-30/01, art. 2, 068; En vigueur : 01-01-2027&gt;
+
+(4)&lt;L 2026-05-30/01, art. 3, 068; En vigueur : 01-01-2028&gt;
+
+(5)&lt;L 2026-05-30/01, art. 4, 068; En vigueur : 01-01-2029&gt;
+
+##### Art. 163
+
+[<sup>1</sup> La taxe est due au moment où le passager part par aéronef.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-03-28/01, art. 33, 050; En vigueur : 01-04-2022&gt;
+
+##### Art. 164
+
+[<sup>1</sup> Sont exemptés de la taxe :
+
+1° les passagers reprenant un vol interrompu suite à des incidents techniques, des conditions atmosphériques défavorables ou tout autre cas de force majeure ;
+
+2° les passagers d'un aéronef utilisé exclusivement à des fins médicales ou humanitaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-03-28/01, art. 34, 050; En vigueur : 01-04-2022&gt;
+
+##### Art. 165
+
+[<sup>1</sup> Au plus tard le dernier jour ouvrable du mois qui suit le trimestre calendaire au cours duquel la taxe est due, l'exploitant de l'aéroport transmet au service compétent les données nécessaires, déterminées par le Roi, pour assurer la juste perception de la taxe.
+
+Toute contravention à cette disposition est punie d'une amende qui est établie en fonction de la nature et de la gravité de l'infraction, selon une échelle dont les graduations sont déterminées par le Roi et allant de 250 à 25 000 euros.
+
+Le Roi peut déterminer des éléments utiles et nécessaires pour la perception de la taxe, parmi lesquels, en vue de l'identification des transporteurs aériens: leur numéro d'entreprise dans le cas de personnes morales, ou leur numéro de registre national dans le cas de personne physique.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-03-28/01, art. 35, 050; En vigueur : 01-04-2022&gt;
+
+##### Art. 166
+
+[<sup>1</sup> § 1er. La taxe est acquittée au plus tard le dernier jour ouvrable du mois qui suit celui au cours duquel la taxe est due.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+Le jour du paiement, le redevable introduit auprès du service compétent une déclaration faisant connaître les éléments nécessaires à la juste perception de la taxe, tels que déterminés par le Roi.
+
+§ 2. Un transporteur aérien qui n'est pas tenu de se faire enregistrer en vertu de l'article 161, alinéa 6, introduit, avant chaque départ d'un passager depuis un aéroport situé en Belgique, une déclaration et paye la taxe.
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>
+
+En cas d'absence de déclaration, de déclaration tardive, inexacte ou incomplète, et d'absence de paiement ou de paiement tardif, une amende est due. Le Roi détermine l'amende dans une échelle allant de 10 p.c. à 200 p.c. de la taxe, selon la nature et la gravité de l'infraction.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-03-28/01, art. 36, 050; En vigueur : 01-04-2022&gt;
+
+(2)&lt;L 2022-11-20/01, art. 21, 053; En vigueur : 01-01-2023&gt;
+
+(3)&lt;L 2026-02-10/05, art. 10, 067; En vigueur : 09-03-2026&gt;
+
+##### Art. 166/1
+
+[<sup>1</sup> Le redevable est tenu de communiquer, sans déplacement, à toute réquisition des préposés de l'administration en charge de la liquidation, la perception ou le recouvrement des taxes visées au livre II, tous ses documents pouvant démontrer la juste perception de la taxe.
+
+Une amende de 250 à 2 500 euros est due pour tout refus de communication.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-03-28/01, art. 37, 050; En vigueur : 01-04-2022&gt;
+
+##### Art. 166/2
+
+[<sup>1</sup> En cas de paiement d'un montant supérieur à celui dû, le trop payé est restitué.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-03-28/01, art. 38, 050; En vigueur : 01-04-2022&gt;
+
+##### Art. 166/3
+
+[<sup>1</sup> Le Roi peut imposer l'utilisation d'un modèle de déclaration et de demande en restitution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-03-28/01, art. 39, 050; En vigueur : 01-04-2022&gt;
+
+### Titre IV.
+
+&lt;Abrogé par L 2021-01-26/12, art. 132, 044; En vigueur : 20-02-2021&gt;
+
+##### Art. 167
+
+&lt;Abrogé par L 2021-01-26/12, art. 132, 044; En vigueur : 20-02-2021&gt;
+
+##### Art. 168
+
+&lt;Abrogé par L 2021-01-26/12, art. 132, 044; En vigueur : 20-02-2021&gt;
+
+##### Art. 169
+
+&lt;Abrogé par L 2021-01-26/12, art. 132, 044; En vigueur : 20-02-2021&gt;
+
+##### Art. 170
+
+&lt;Abrogé par L 2021-01-26/12, art. 132, 044; En vigueur : 20-02-2021&gt;
+
+##### Art. 171
+
+&lt;Abrogé par L 2021-01-26/12, art. 132, 044; En vigueur : 20-02-2021&gt;
+
+##### Art. 172.1
+
+&lt;Abrogé par L 2021-01-26/12, art. 132, 044; En vigueur : 20-02-2021&gt;
+
+##### Art. 173
+
+&lt;Abrogé par L 2021-01-26/12, art. 132, 044; En vigueur : 20-02-2021&gt;
+
+### Titre V. [Taxe annuelle sur les opérations d'assurance] &lt;Intitulé remplacé par L 2005-12-27/30, art. 133, En vigueur : applicable aux primes et contributions échues à partir du 01-01-2006&gt; &lt;Ancien titre XII renuméroté comme titre V par L 2006-12-19/33, art.42, En vigueur : 01-01-2007&gt;
+
+##### Art. 173
+
+[<sup>1</sup> Art. 173 devient art. 173.1]<sup>1</sup> &lt;L 2005-12-27/30, art. 134, En vigueur : applicable aux primes et contributions échues à partir du 01-01-2006&gt; Les opérations d'assurances sont assujetties à une taxe annuelle lorsque le risque se situe en Belgique.
+
+Le risque de l'opération d'assurance est réputé se situer en Belgique lorsque le preneur d'assurance a sa résidence habituelle en Belgique ou, si le preneur d'assurance est une personne morale, lorsque l'établissement de cette personne morale auquel le contrat se rapporte se situe en Belgique.
+
+Le risque de l'opération d'assurance est également réputé se situer en Belgique dans les cas suivants:
+
+1° si les biens se trouvent en Belgique, lorsque l'opération d'assurance est relative:
+
+a) soit à des immeubles;
+
+b) soit à des immeubles et à leur contenu, dans la mesure où celui-ci est couvert par la même police d'assurance;
+
+c) soit à des biens meubles contenus dans un immeuble, à l'exception des biens en transit commercial, même si l'immeuble et son contenu ne sont pas couverts par la même police d'assurance;
+
+2° si l'immatriculation a lieu en Belgique, lorsque l'opération d'assurance est relative à des véhicules de toute nature;
+
+3° si le contrat est souscrit en Belgique, lorsqu'il s'agit d'une opération d'assurance d'une durée inférieure ou égale à quatre mois qui est relative à des risques encourus au cours d'un voyage ou de vacances, quelle que soit la branche concernée.
+
+Par établissement au sens de l'alinéa 2, on entend l'établissement principal de la personne morale et toute autre présence permanente de cette personne morale, quelle que soit sa forme.
+
+----------
+
+(1)&lt;L 2012-12-13/03, art. 75, 005; En vigueur : 30-12-2012&gt;
+
+##### Art. 174
+
+&lt;L 2006-12-27/32, art. 332, En vigueur : 01-01-2007&gt; Sont assimilés aux assurances, les contrats de rentes viagères ou temporaires passés avec une compagnie d'assurances, tout engagement contracté par les institutions de retraite professionnelle visées à l'article 2, 1° de la loi du 27 octobre 2006 relative à la surveillance des institutions de retraite professionnelle ou par d'autres organismes de pension, ainsi que les engagements contractés par les personnes morales chargées de l'exécution de l'engagement de solidarité visé dans la loi du 28 avril 2003 relative aux pensions complémentaires et au régime fiscal de celles-ci et de certains avantages complémentaires en matière de sécurité sociale.
+
+##### Art. 175
+
+[Devenu art. 175/1.] &lt;L 1953-07-27/40, art. 16.&gt;
+
+##### Art. 175/1
+
+&lt;L 2003-04-28/36, art. 99, En vigueur : applicable aux primes venant à échéance ou payées à partir du 01-01-2004&gt; § 1er. Le taux de la taxe est fixé à [<sup>4</sup> 9,6]<sup>4</sup> %.
+
+§ 2. Ce taux est réduit à 4,40 % en ce qui concerne:
+
+1° les assurances en cas de vie;
+
+2° les assurances en cas de décès;
+
+3° [les constitutions de rentes viagères ou temporaires auprès d'une compagnie d'assurance;] &lt;L 2005-12-27/30, art. 136, En vigueur : applicable aux primes et contributions échues à partir du 01-01-2006&gt;
+
+4° [les engagements collectifs qui doivent être considérés comme un complément aux indemnités légales en cas d'incapacité de travail par suite d'un accident de travail ou d'un accident ou d'une maladie professionnelle ou d'une maladie, lorsqu'ils sont exécutés par les entreprises d'assurances ou par les organismes de pension visés à l'article 2, § 1er ou § 3, de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances ou par les institutions de retraite professionnelle visées à l'article 2, 1°, de la loi du 27 octobre 2006 relative à la surveillance des institutions de retraite professionnelle, et lorsque ces engagements collectifs sont accessibles d'une manière identique et non discriminatoire à tous les affiliés, à savoir tous les travailleurs ou dirigeants d'entreprise régulièrement rémunérés d'une même entreprise ou d'une catégorie particulière de ceux-ci;] &lt;L 2006-12-27/32, art. 333, 1°, En vigueur : 01-01-2007&gt;
+
+5° [les engagements de pensions exécutés par les entreprises d'assurances ou par les organismes de pension visés à l'article 2, § 1er ou § 3, de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances ou par les institutions de retraite professionnelle visées à l'article 2, 1°, de la loi du 27 octobre 2006 relative à la surveillance des institutions de retraite professionnelle;] &lt;L 2006-12-27/32, art. 333, En vigueur : 01-01-2007&gt;
+
+6° la continuation à titre individuel des engagements de pension telle que visée à l'article 33 de la loi du 28 avril 2003 relative aux pensions complémentaires et au régime fiscal de celles-ci et de certains avantages complémentaires en matière de sécurité sociale [<sup>2</sup> et les conventions de pension visées au titre 2 de la loi du 6 décembre 2018 instaurant une pension libre complémentaire pour les travailleurs salariés et portant des dispositions diverses en matière de pensions complémentaires]<sup>2</sup>;
+
+[<sup>1</sup> 7° [<sup>3</sup> ...]<sup>3</sup>.]<sup>1</sup>
+
+§ 3. [Tout engagement compris dans les plans qui sont exécutés par les entreprises d'assurances ou par les organismes de pension visés à l'article 2, § 1er ou § 3, de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances, ou par les institutions de retraite professionnelle visées à l'article 2, 1°, de la loi du 27 octobre 2006 relative à la surveillance des institutions de retraite professionnelle, est assujetti au tarif qui est d'application à cet engagement particulier conformément aux §§ 1er et 2, à condition:
+
+que le plan collectif et les éventuelles possibilités de choix alternatives et individuelles existant dans le plan soient accessibles d'une manière identique et non discriminatoire à tous les adhérents, à savoir tous les travailleurs ou dirigeants d'entreprise rémunérés régulièrement d'une même entreprise ou d'une catégorie particulière de ceux-ci, et
+
+que l'éventuel engagement lors du décès de l'adhérent, l'éventuel engagement d'incapacité de travail de l'adhérent et l'éventuel engagement de frais médicaux de l'adhérent puisse être souscrit sans exclusion sur la base d'un examen médical lorsque plus de dix personnes sont adhérentes à ce plan collectif, et
+
+que ce plan soit géré par l'entreprise d'assurances, par l'organisme de pension ou par l'institution de retraite professionnelle de façon différenciée de sorte qu'à tout moment pour chaque contribuable ou chaque redevable, l'application du régime spécifique en matière d'impôts sur les revenus et de taxes assimilées au timbre puisse être garantie, tant en ce qui concerne le traitement des cotisations ou primes que des prestations.] &lt;L 2006-12-27/32, art. 333, 3°, En vigueur : 01-01-2007&gt;
+
+Dans le cas d'un plan collectif pour lequel un budget de prime global est prévu pour tous les adhérents, chacun de ceux-ci étant libre de compléter lui-même l'utilisation de ce budget de prime et de ventiler selon les différentes couvertures offertes dans le plan, un engagement standard doit être prévu. A défaut ou dans l'attente d'un choix de l'adhérent, l'engagement standard est d'application pour cet adhérent. Une couverture standard est prévue pour chaque couverture. L'interdiction d'exclusion sur la base d'un examen médical s'applique aussi bien à cette couverture standard qu'aux engagements standard; les couvertures standard et l'engagement standard doivent être précisés dans le règlement et avoir un contenu significatif.
+
+§ 4. Si une des conditions visées au § 3 n'est pas respectée le tarif prévu au § 1er est appliqué à tous les engagements compris dans un plan mentionné dans le § 3.
+
+----------
+
+(1)&lt;L 2018-02-18/07, art. 67, 030; En vigueur : 30-06-2018&gt;
+
+(2)&lt;L 2018-12-06/23, art. 51, 033; En vigueur : 27-03-2019&gt;
+
+(3)&lt;L 2025-12-19/35, art. 14, 065; En vigueur : 10-01-2026&gt;
+
+(4)&lt;L 2026-05-30/01, art. 5, 068; En vigueur : 01-07-2026&gt;
+
+##### Art. 175/2
+
+&lt;L 2003-04-22/41, art. 2, En vigueur : applicable aux primes échues à partir du 1er janvier 2000&gt; La taxe est également réduite à 1,40 p.c.:
+
+1° pour les assurances maritimes et fluviales, ainsi que les assurances contre les risques des transports terrestres ou aériens, lorsqu'elles concernent des marchandises;
+
+2° pour les assurances obligatoires en matière de véhicules automoteurs et les assurances de dégâts matériels, lorsqu'elles concernent:
+
+les véhicules automobiles qui, sur la base d'une autorisation, sont affectés soit à un service de taxis, soit à la location avec chauffeur, conformément à la loi du 27 décembre 1974 relative aux services de taxis et l'ordonnance du Conseil de la Région de Bruxelles-Capitale du 27 avril 1995 relative aux services de taxis et aux services de location de voitures avec chauffeur;
+
+les autobus et autocars ainsi que leurs remorques;
+
+un véhicule automoteur exclusivement destiné au transport de marchandises par route et ayant une masse maximale autorisée supérieure à 3,5 tonnes et inférieure à 12 tonnes.
+
+Sont assimilées aux véhicules automoteurs visés à l'alinéa 1er, 2°, troisième tiret, les remorques dont la masse maximale autorisée est supérieure à 3,5 tonnes et inférieure à 12 tonnes.
+
+##### Art. 175/3
+
+&lt;Inséré par L 2005-12-27/30, art. 137, En vigueur : applicable aux primes et contributions échues à partir du 01-01-2006&gt; La taxe est réduite à [<sup>1</sup> 2 p.c. ]<sup>1</sup> pour les opérations d'assurances sur la vie, même si elles sont liées à un fonds d'investissement, et les constitutions de rentes viagères ou temporaires, lorsqu'elles sont conclues par des personnes physiques.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, la taxe est réduite à 1,10 p.c. pour les opérations d'assurances temporaires au décès à capital décroissant qui servent à la garantie d'un emprunt hypothécaire conclu pour acquérir ou conserver un bien immobilier, lorsqu'elles sont conclues par des personnes physiques.]<sup>1</sup>
+
+[<sup>2</sup> Par dérogation à l'alinéa 1er, la taxe est ramenée à 1,10 pour cent pour les contrats d'assurance qui répondent aux critères et conditions de la loi du 26 décembre 2013 portant des dispositions diverses en matière de prêts-citoyen thématiques.]<sup>2</sup>
+
+Le concept assurances sur la vie couvre les assurances de personnes, à caractère forfaitaire, pour lesquelles la survenance de l'événement assuré ne dépend que de la durée de la vie humaine.
+
+----------
+
+(1)&lt;L 2012-12-27/06, art. 104, 006; En vigueur : 01-01-2013. Est applicable aux primes payées à partir du 1er janvier 2013&gt;
+
+(2)&lt;L 2013-12-26/07, art. 25, 013; En vigueur : 01-01-2014&gt;
+
+##### Art. 176/1
+
+&lt;Ancien article 176 renuméroté comme Art. 176/1 par AR 63 1939-11-28/35, art. 9&gt; &lt;L 2005-12-27/30, art. 138, En vigueur : applicable aux primes et contributions échues à partir du 1er janvier 2006&gt; La taxe exigible est calculée sur [<sup>1</sup> le montant des primes, contributions personnelles et contributions patronales, ainsi que sur la rémunération des services liés à l'assurance lorsqu'ils sont exemptés de la taxe sur la valeur ajoutée conformément à l'article 44, § 3, 4°, du Code de la taxe sur la valeur ajoutée]<sup>1</sup>, à payer ou à supporter au cours de l'année d'imposition soit par les preneurs d'assurance, soit par les affiliés et leurs employeurs.
+
+----------
+
+(1)&lt;L 2023-12-28/01, art. 2, 058; En vigueur : 08-01-2024&gt;
+
+##### Art. 176/2
+
+&lt;Partie de l'ancien art. 176, renumérotée et modifiée par AR63 1939-11-28/35, art. 9&gt; [Sont seuls exemptés de la taxe] : &lt;AR63 1939-11-28/35, art. 9&gt;
+
+1° [les contrats d'assurance-crédit contre les risques commerciaux, contre les risques-pays ou contre ces deux risques;] &lt;L 2009-03-27/37, art. 23, En vigueur : applicable aux primes échues à partir du 07-04-2009&gt;
+
+2° [les contrats de réassurances;] &lt;AR63 1939-11-28/35, art. 9&gt;
+
+3° [les assurances et les rentes viagères ou temporaires contractées en exécution de la loi sur la réparation des dommages résultant des accidents du travail, [ainsi que toute assurance ayant l'un des objets décrits à l'article 57, premier alinéa, de la loi organique de la sécurité sociale d'outremer];] &lt;AR127 1935-02-28/31, art. 39&gt; &lt;L 1963-07-17/01, art. 6, En vigueur : 18-01-1964&gt;
+
+4° [les assurances-épargnes contractées dans le cadre de l'épargne-pension, visées par les articles 145/8 à 145/16 du Code des impôts sur les revenus 1992;] &lt;L 2005-12-27/30, art. 139, b), En vigueur : applicable aux primes et contributions échues à partir du 01-01-2006&gt;
+
+4°bis [tout engagement contracté tant par les entreprises d'assurances ou les organismes de pension visés à l'article 2, § 1er ou § 3, de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances, par les institutions de retraite professionnelle visées à l'article 2, 1°, de la loi du 27 octobre 2006 relative à la surveillance des institutions de retraite professionnelle, que par les personnes morales chargées de l'exécution de l'engagement de solidarité, dans le cadre des régimes de pension qui répondent aux conditions établies au titre II, chapitre II, section II, de la loi du 28 avril 2003 relative aux pensions complémentaires et au régime fiscal de celles-ci et de certains avantages complémentaires en matière de sécurité sociale, pour autant que ces engagements soient gérés par l'entreprise d'assurances, l'organisme de pension, l'institution de retraite professionnelle ou une personne morale de façon différenciée, de sorte que, à tout moment, pour chaque contribuable ou chaque redevable, l'application du régime spécifique en matière d'impôts sur les revenus et de taxes assimilées au timbre puisse être garanti, tant en ce qui concerne le traitement des cotisations ou primes que des prestations;] &lt;L 2006-12-27/32, art. 334, 1°, En vigueur : 01-01-2007&gt;
+
+4°ter [tout engagement contracté par une entreprise ou un organisme de pension visé à l'article 2, § 1er ou § 3, 5°, de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances ou par une institution de retraite professionnelle visée à l'article 2, 1° de la loi du 27 octobre 2006 relative à la surveillance des institutions de retraite professionnelle, chargée de la constitution de la pension complémentaire et/ou du paiement des prestations dans le cadre de la pension et du régime de solidarité instauré en faveur des affiliés et/ou leurs ayants droit, lorsque cet engagement répond aux conditions établies au titre II, chapitre I, section IV, de la loi-programme (I) du 24 décembre 2002 concernant les pensions complémentaires des indépendants;] &lt;L 2006-12-27/32, art. 334, 2°, En vigueur : 01-01-2007&gt;
+
+[<sup>8</sup> 4° quater les conventions de pensions visées à l'article 2, 7°, de la loi du 18 février 2018 portant des dispositions diverses en matière de pensions complémentaires et instaurant une pension complémentaire pour les travailleurs indépendants personnes physiques, pour les conjoints aidants et pour les aidants indépendants ;]<sup>8</sup>
+
+5° [les assurances contractées en exécution de la réglementation relative à la pension de retraite et de survie, à l'exception de celles relatives aux avantages extra-légaux;] &lt;L 1988-12-07/33, art. 42, 1°, En vigueur : 01-01-1989&gt;
+
+6° [<sup>4</sup> les assurances contractées par l'Etat, les Régions, les Communautés, les provinces, les communes, les régies provinciales autonomes, les régies communales autonomes, les régies portuaires visées par le décret flamand du 2 mars 1999 portant sur la politique et la gestion des ports maritimes, et les établissements publics;]<sup>4</sup>
+
+7° [les services qui sont instaurés pour leurs membres par les mutualités, les unions nationales de mutualités et les sociétés mutualistes, autres que celles visées aux articles 43bis, § 5, et 70, §§ 6, 7 et 8, de la loi du 6 août 1990 relative aux mutualités et aux unions nationales de mutualités, lorsqu'ils sont agréés conformément à la même loi;] &lt;L 2010-04-18/19, art. 2, a), En vigueur : 01-07-2011&gt;
+
+[7°bis à l'exception du contrat d'assurance maladie lié à l'activité professionnelle tel que visé à l'article 138bis-1, § 2, de la loi du 25 juin 1992 sur le contrat d'assurance terrestre, les assurances soins de santé telles que visées à l'article 138bis-1, § 1er, 1°, de la loi du 25 juin 1992 sur le contrat d'assurance terrestre qui satisfont aux conditions ci-après:
+
+a) L'assurance est accessible à tout candidat assuré n'ayant pas encore atteint l'âge de 65 ans. En outre, l'assurance est accessible, quel que soit l'âge des intéressés, aux assurés principaux et aux assurés secondaires d'assurances soins de santé liées à l'activité professionnelle, qui perdent le bénéfice ce de cette assurance et remplissent les conditions pour revendiquer la poursuite individuelle de cette assurance soins de santé liée à l'activité professionnelle, au sens de l'article 138bis-8 de la loi du 25 juin 1992 sur le contrat d'assurance terrestre;
+
+b) Par dérogation à l'article 24, alinéa premier, de la loi du 25 juin 1992 sur le contrat d'assurance terrestre, l'assurance prend en charge les frais du dommage couvert par elle, même si celui-ci résulte d'une maladie, d'une affection ou d'une situation préexistante.
+
+c) La présence d'une maladie, d'une affection ou d'une situation préexistante dans le chef de l'assuré principal ou d'un assuré secondaire ne peut entraîner le rejet de l'assuré principal ou d'un assuré secondaire et ne peut entraîner une majoration des primes ou une restriction au niveau de l'intervention.
+
+L'existence de maladies et affections préexistantes dans le chef de l'assuré au moment de la conclusion du contrat peut toutefois justifier une limitation ou l'exclusion de l'intervention dans les suppléments dus à la suite d'un séjour dans une chambre particulière;
+
+d) Les contrats d'assurance ne peuvent prévoir une période d'attente supérieure à 12 mois.] &lt;L 2010-04-18/19, art. 2, b), En vigueur : 01-07-2011&gt;
+
+8° [les rentes viagères ou temporaires qui sont constituées moyennant versement à capital abandonné, formé au moyen de cotisations ou primes visées à l'[5 article 34, § 1er, 2°, 2° bis et 2° ter]5, du Code des impôts sur les revenus 1992;] &lt;L 2005-12-27/30, art. 139, e), En vigueur : applicable aux primes et contributions échues à partir du 01-01-2006&gt;
+
+9° [toutes les assurances maritimes et fluviales autres que celles visées aux articles 175/2, 1°, et 176/2, 10°] &lt;L 2003-04-22/41, art. 3, A), En vigueur : applicable aux primes échues à partir du 01-01-2000&gt;
+
+10° [[<sup>7</sup> les assurances de corps de navires au sens du Code belge de la Navigation qui sont utilisés pour des opérations lucratives de navigation]<sup>7</sup>, ainsi que les assurances d'avions qui sont utilisés principalement en trafic international, à des transports publics;] &lt;L 1998-07-05/56, art. 3, En vigueur : 01-01-1998&gt;
+
+[10°bis les assurances obligatoires en matière de véhicules automoteurs et les assurances de dégâts matériels, lorsqu'elles concernent un véhicule automoteur ou un ensemble de véhicules couplés couverts par un même contrat, lorsque le véhicule automoteur ou l'ensemble de véhicules couplés est destiné exclusivement au transport de marchandises par route et dont la masse maximale autorisée est d'au moins 12 tonnes.
+
+Sont assimilées à ces véhicules automoteurs, les remorques dont la masse maximale autorisée est d'au moins 12 tonnes, ainsi que les semi-remorques, construites spécialement pour être attelées à un véhicule automoteur en vue du transport de marchandises par route;] &lt;L 2003-04-22/41, art. 3, B), En vigueur : applicable aux primes échues à partir du 01-01-2000&gt;
+
+11° [les valeurs de rachat visées à l'article 364quater du Code des impôts sur les revenus 1992, lorsque ces sommes sont utilisées pour conclure un contrat d'assurance sur la vie visé à l'article 175/3;] &lt;L 2011-07-28/03, art. 10, En vigueur : 01-01-2011&gt;
+
+[12° [<sup>6</sup> ...]<sup>6</sup>
+
+[<sup>1</sup> 13° les primes et contributions pour la partie qui correspond aux provisions [<sup>3</sup> visées à l'article 66 de la loi-programme du 22 juin 2012]<sup>3</sup> existant à la fin de la dernière année comptable se clôturant avant le 1er janvier 2012 qui sont transférées à une entreprise d'assurances ou un organisme de pension visés à l'article 2, § 1er ou § 3, de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances ou à une institution de retraite professionnelle visée à l'article 2, 1°, de la loi du 27 octobre 2006 relative à la surveillance des institutions de retraite professionnelle;
+
+14° les primes et contributions pour la partie qui correspond aux capitaux et valeurs de rachat transférés dans les conditions fixées par l'article 515novies du Code des impôts sur les revenus 1992]<sup>1</sup>
+
+[<sup>2</sup> 15° le transfert des réserves ou valeurs de rachat des engagements visés à l'article 1751, § 2, 5° et 6°, suite à la faillite ou à la liquidation d'une entreprise d'assurances ou d'un organisme de pension visés à l'article 2, § 1er ou § 3, de la loi du 9 juillet 1975 relative au contrôle des entreprises d'assurances, ou d'une institution de retraite professionnelle visée à l'article 2, 1°, de la loi du 27 octobre 2006 relative à la surveillance des institutions de retraite professionnelle, vers une entreprise ou un organisme similaire.]<sup>2</sup>
+
+[Alinéa 2 abrogé] &lt;L 2005-12-27/30, art. 139, g), En vigueur : applicable aux primes et contributions échues à partir du 01-01-2006&gt;
+
+[Alinéa 3 abrogé] &lt;L 2005-12-27/30, art. 139, h), En vigueur : applicable aux primes et contributions échues à partir du 01-01-2006&gt;
+
+----------
+
+(1)&lt;L 2012-06-22/02, art. 67, 003; En vigueur : 01-01-2012, applicable aux primes et contributions payées, en ce qui concerne les transferts de provisions; et en vigueur : 01-07-2012, applicable aux primes et contributions payées, en ce qui concerne les transferts de capitaux et valeurs de rachat d'assurances-vie&gt;
+
+(2)&lt;L 2013-06-17/06, art. 65, 008; En vigueur : 08-07-2013&gt;
+
+(3)&lt;L 2015-12-18/12, art. 76, 017; En vigueur : 07-01-2016&gt;
+
+(4)&lt;L 2017-07-31/11, art. 53, 024; En vigueur : 01-01-2014&gt;
+
+(5)&lt;L 2018-02-18/07, art. 68, 030; En vigueur : 30-06-2018&gt;
+
+(6)&lt;L 2019-04-22/15, art. 24, 038; En vigueur : 01-09-2019&gt;
+
+(7)&lt;L 2019-05-08/14, art. 20, 043; En vigueur : 01-09-2020&gt;
+
+(8)&lt;L 2025-12-19/35, art. 15, 065; En vigueur : 10-01-2026&gt;
+
+##### Art. 177
+
+La taxe annuelle sur les [<sup>3</sup> opérations]<sup>3</sup> d'assurance est [<sup>1</sup> due]<sup>1</sup>:
+
+1° [par les sociétés, caisses, associations, entreprises d'assurances, organismes de pension, institutions de retraite professionnelle et les personnes morales chargées de l'exécution de l'engagement de solidarité dans le cadre des régimes de pension visé dans la loi du 28 avril 2003 relative aux pensions complémentaires et au régime fiscal de celles-ci et de certains avantages complémentaires en matière de sécurité sociale, ainsi que par toutes autres entreprises d'assurances, lorsqu'elles ont en Belgique leur principal établissement, une agence, une succursale, un représentant ou un siège quelconque d'opérations [<sup>1</sup> , sauf quant à la rémunération des services liés à l'assurance visés au 2° bis]<sup>1</sup>;] &lt;L 2006-12-27/32, art. 335, En vigueur : 01-01-2007&gt;
+
+2° [par les courtiers et tous autres intermédiaires résidant en Belgique, pour les contrats souscrits par leur entremise avec des assureurs non établis en Belgique qui n'ont pas en Belgique le représentant responsable visé à l'article 178, ainsi que par les entreprises d'assurance non établies en Belgique qui n'ont pas de représentant responsable en Belgique et qui font des opérations d'assurances pour lesquelles le risque se situe en Belgique sans faire appel aux intermédiaires résidant en Belgique;] &lt;L 2005-12-27/30, art. 140, a), En vigueur : applicable aux primes et contributions échues à partir du 01-01-2006&gt;
+
+[<sup>1</sup> 2° bis par les courtiers et tous autres intermédiaires résidant en Belgique, pour les services liés à l'assurance, lorsque ces services font l'objet d'un contrat distinct avec soit le preneur d'assurance soit les affiliés et leurs employeurs et qu'ils sont exemptés de la taxe sur la valeur ajoutée conformément à l'article 44, § 3, 4°, du Code de la taxe sur la valeur ajoutée ;]<sup>1</sup>
+
+3° [<sup>2</sup> par les preneurs d'assurance ou, si le preneur d'assurance est une personne morale, l'établissement belge auquel le contrat se rapporte dans les cas visés à l'article 1792, § 2.]<sup>2</sup> &lt;L 2005-12-27/30, art. 140, b), En vigueur : applicable aux primes et contributions échues à partir du 01-01-2006&gt;
+
+----------
+
+(1)&lt;L 2023-12-28/01, art. 3, 058; En vigueur : 08-01-2024&gt;
+
+(2)&lt;L 2024-05-12/11, art. 81, 060; En vigueur : 08-06-2024&gt;
+
+(3)&lt;L 2026-02-10/05, art. 11, 067; En vigueur : 09-03-2026&gt;
+
+##### Art. 178
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Les entreprises d'assurance non établies en Belgique qui ont leur siège social en dehors de l'Espace économique européen sont tenues, avant d'exercer toute opération d'assurance en Belgique, de faire agréer, par le Ministre des Finances ou son délégué, un représentant responsable établi en Belgique. Ce responsable s'engage personnellement, par écrit, envers l'Etat, au paiement de la taxe annuelle et des amendes qui pourraient être dues.
+
+Les entreprises d'assurance non établies en Belgique qui ont leur siège social dans l'Espace économique européen peuvent faire agréer, par le Ministre des Finances ou son délégué, un représentant responsable établi en Belgique comme prévu à l'alinéa précédent.
+
+En cas de décès du représentant responsable, de retrait de son agréation ou d'événement entraînant son incapacité, il est pourvu immédiatement à son remplacement.
+
+Toute contravention à ces dispositions est punie d'une amende de 250 euros.
+
+Le Roi fixe les conditions et modalités d'agrément du représentant responsable.
+
+----------
+
+(1)&lt;L 2016-04-27/04, art. 89, 018; En vigueur : 16-05-2016&gt;
+
+(2)&lt;L 2021-06-27/02, art. 100, 047; En vigueur : 10-07-2021&gt;
+
+##### Art. 179/1
+
+&lt;L 1992-12-28/32, art. 113, En vigueur : 01-07-1995&gt; [En ce qui concerne les redevables désignés à [<sup>3</sup> l'article 177, 1°, 2° et 2° bis]<sup>3</sup>, la taxe annuelle est payable au plus tard [<sup>1</sup> le 20]<sup>1</sup> du mois suivant celui au cours duquel une prime, une contribution patronale ou une contribution personnelle est venue à échéance.] &lt;L 2005-12-27/30, art. 142, En vigueur : applicable aux primes et contributions échues à partir du 01-01-2006&gt;
+
+Un acompte sur la taxe annuelle due au mois de janvier, aux taux fixés aux articles [175/1, § 1er] et 175/2, est payable au plus tard le 15 du mois de décembre qui précède; cet acompte est égal au montant de la taxe annuelle due aux taux précités et payée en novembre de l'année courante. &lt;L 2003-04-28/36, art. 103, En vigueur : applicable aux primes venant à échéance ou payées à partir du 01-01-2004&gt;
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+[Le jour du paiement, le redevable dépose à ce bureau une déclaration indiquant séparément, pour le paiement visé à l'alinéa 1er, les bases de la perception de la taxe à chacun des taux prévus par les articles 175/1, 175/2 et 175/3 du chef des opérations d'assurances pour lesquelles une prime, une cotisation patronale ou une contribution personnelle est venue à échéance au cours du mois précédent. Les modalités de la déclaration relative à l'acompte visé à l'alinéa 2, sont déterminées par le Roi.] &lt;L 2005-12-27/30, art. 142, En vigueur : applicable aux primes et contributions échues à partir du 01-01-2006&gt;
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Si la déclaration n'est pas déposée dans les délais fixés, il est encouru une amende de [12,50 EUR] par semaine de retard. Toute semaine commencée est comptée comme complète. &lt;AR 2000-07-20/64, art. 2, 10, En vigueur : 01-01-2002&gt;
+
+----------
+
+(1)&lt;L 2013-06-17/06, art. 66, 008; En vigueur : 08-07-2013. Est applicable aux primes et contributions patronales ou personnelles venues à échéance à partir du mois de novembre 2013&gt;
+
+(2)&lt;L 2022-11-20/01, art. 22, 053; En vigueur : 01-01-2023&gt;
+
+(3)&lt;L 2023-12-28/01, art. 4, 058; En vigueur : 08-01-2024&gt;
+
+(4)&lt;L 2026-02-10/05, art. 12, 067; En vigueur : 09-03-2026&gt;
+
+##### Art. 179/1bis
+
+[<sup>1</sup> Le redevable visé à l'article 177, 2° bis, peut payer la taxe due sur les services liés à l'assurance au redevable visé à l'article 177, 1°, qui est la contrepartie du preneur d'assurance dans le contrat d'assurance au titre duquel le service est fourni.
+
+Dans ce cas, le redevable visé à l'article 177, 1°, est tenu des obligations correspondantes prévues à l'article 1791.
+
+Le trop perçu sur la taxe sur les services liés à l'assurance est remboursé au redevable qui s'est conformé aux obligations prévues à l'article 1791.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-28/01, art. 5, 058; En vigueur : 08-01-2024&gt;
+
+##### Art. 179/2
+
+[<sup>1</sup> § 1er. Les articles 1791 et 180 sont applicables au représentant responsable visé à l'article 178, alinéas 1er et 2.
+
+L'entreprise d'assurances et son représentant responsable sont solidairement tenus au paiement de toutes les sommes dues relatives aux opérations d'assurance imposables.
+
+§ 2. A défaut de représentant responsable ou en cas d'absence de paiement de la taxe, le preneur d'assurance ou, lorsque le preneur d'assurance est une personne morale, l'établissement belge auquel le contrat se rapporte, est tenu de payer la taxe dans un délai de trois mois à compter de l'échéance stipulée pour chaque prime.
+
+La déclaration est introduite au plus tard le dernier jour ouvrable précédant la date limite de paiement. La déclaration précise pour le redevable et, le cas échéant, son mandataire, le nom, l'adresse, le numéro d'entreprise pour les personnes morales, le numéro de registre national pour les personnes physiques, ainsi que notamment la période à laquelle la déclaration se rapporte, la base imposable, les exonérations, les imputations et le solde dû.
+
+Les modalités, la forme et le contenu de la déclaration sont déterminés par le Roi.
+
+Si la déclaration n'est pas introduite dans le délai fixé, il est encouru une amende de 12,50 euros par semaine de retard. Toute semaine commencée est comptée comme complète.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-12/11, art. 82, 060; En vigueur : 08-06-2024&gt;
+
+##### Art. 179/3
+
+&lt;Inséré par L 2005-12-27/30, art. 144, En vigueur : applicable aux primes et contributions échues à partir du 01-01-2006&gt; Les entreprises belges et étrangères qui proposent les opérations d'assurances visées à l'article 175/3 aux preneurs d'assurance belges, doivent établir à la fin de chaque année un relevé qui indique, pour chaque preneur d'assurance, les mentions suivantes:
+
+la dénomination et l'adresse du redevable;
+
+le numéro du contrat d'assurance;
+
+les primes échues pour l'année concernée;
+
+la taxe acquittée;
+
+la date du paiement de la taxe.
+
+Le relevé doit être déposé au bureau compétent avant le 1er juin de l'année qui suit celle à laquelle il se rapporte. Le modèle de relevé, les modalités de dépôt et le bureau compétent sont déterminés par arrêté royal.
+
+Si le relevé n'est pas déposé dans le délai fixé, une amende de 12,50 euros est encourue par semaine de retard. Toute semaine commencée est comptée comme entière.
+
+##### Art. 180
+
+Toute inexactitude ou omission constatée dans le relevé ou la déclaration dont il est question aux [trois] articles précédents est punie d'une amende égale à cinq fois le droit éludé, sans qu'elle puisse être inférieure à [250 EUR]. &lt;AR 2000-07-20/64, art. 2, 10, ED 01-01-2002, modifié lui-même par AR 2001-07-13/50, art. 42, 5°, En vigueur : 01-01-2002&gt; &lt;L 2005-12-27/30, art. 145, En vigueur : applicable aux primes et contributions échues à partir du 01-01-2006&gt;
+
+##### Art. 181
+
+&lt;L 1947-08-13/02, art. 56&gt; La taxe est remboursée à due concurrence lorsqu'elle représente une somme supérieure à celle qui était légalement due au moment du paiement.
+
+Le gouvernement détermine le mode et les conditions suivant lesquels s'opère le remboursement et fixe, dans la limite maximum de deux ans à compter du jour où l'action est née, le délai dans lequel le remboursement doit être demandé.
+
+##### Art. 182
+
+&lt;Abrogé par L 2013-08-17/31, art. 13, 010; En vigueur : 01-01-2013&gt;
+
+##### Art. 183
+
+[Les assureurs belges, les organismes de pension [, institutions de retraite professionnelle] et les personnes morales chargées de l'exécution de l'engagement de solidarité visé dans la loi du 28 avril 2003 relative aux pensions complémentaires et au régime fiscal de celles-ci et de certains avantages complémentaires en matière de sécurité sociale, de même que les représentants en Belgique des assureurs étrangers et les courtiers sont tenus de communiquer, sans déplacement, à toute réquisition des [<sup>2</sup> agents]<sup>2</sup> de [<sup>1</sup> l'administration en charge de l'établissement ou de la perception et du recouvrement des taxes établies par le Livre II]<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup> leurs répertoires, registres, livres, polices, contrats et tous autres documents.] &lt;L 2003-04-28/36, art. 104, En vigueur : applicable aux primes venant à échéance ou payées à partir du 01-01-2004&gt; &lt;L 2006-12-27/32, art.337, En vigueur : 01-01-2007&gt;
+
+[La même obligation est imposée aux preneurs d'assurance, s'ils sont commerçants, relativement aux polices, quittances et autres documents relatifs aux opérations d'assurance.] &lt;L 2005-12-27/30, art. 146, En vigueur : applicable aux primes et contributions échues à partir du 01-01-2006&gt;
+
+Toute refus de communication est [...] puni d'une amende de [250 à 2.500 EUR]. &lt;L 1947-08-13/02, art. 60&gt; &lt;AR 2000-07-20/64, art. 2, 10, En vigueur : 01-01-2002, modifié lui-même par AR 2001-07-13/50, art. 42, 5°, En vigueur : 01-01-2002&gt;
+
+[alinéa 4 supprimé] &lt;L 1947-08-13/02, art. 60&gt;
+
+[Les assureurs belges, les organismes de pension, les institutions de retraite professionnelle et les représentants en Belgique des entreprises d'assurances étrangères sont tenus, sous les sanctions édictées par l'alinéa 3, de dénoncer au bureau compétent, dès qu'ils en ont connaissance, les contrats de coassurance conclus entre leurs clients et une entreprise d'assurances étrangère, lorsque ces contrats concernent un risque situé en Belgique.] &lt;L 2006-12-27/32, art.337, En vigueur : 01-01-2007&gt;
+
+[Le Roi fixe toute règle complémentaire de nature à assurer l'exacte perception de la taxe annuelle sur les [<sup>3</sup> opérations]<sup>3</sup> d'assurance.] &lt;L 1990-07-20/38, art. 12, En vigueur : 01-07-1990&gt;
+
+----------
+
+(1)&lt;L 2014-04-25/36, art. 84, 014; En vigueur : 16-05-2014&gt;
+
+(2)&lt;L 2016-04-27/04, art. 90, 018; En vigueur : 16-05-2016&gt;
+
+(3)&lt;L 2026-02-10/05, art. 13, 067; En vigueur : 09-03-2026&gt;
+
+### Titre VI. Taxe annuelle sur les participations bénéficiaires &lt;Ancien titre XIIbis (art. 183bis-183undecies) renuméroté comme titre VI par L 2006-12-19/33, art. 42, En vigueur : 01-01-2007&gt;
+
+##### Art. 183bis
+
+&lt;L 2003-04-28/36, art. 105, En vigueur : 01-01-2004&gt; Sont assujetties à une taxe annuelle, les sommes réparties à titre de participation bénéficiaire afférente aux contrats d'assurance-vie, aux contrats de rentes viagères ou temporaires, ou aux pensions complémentaires constituées autrement que par une assurance-vie, conclus [avec une entreprise d'assurances, un organisme de pension ou une institution de retraite professionnelle], qui a en Belgique son principal établissement, une agence, une succursale, un représentant ou un siège quelconque d'opérations. &lt;L 2006-12-27/32, art. 338, En vigueur : 01-01-2007&gt;
+
+##### Art. 183ter
+
+&lt;Inséré par L 1988-12-07/33, art. 43, En vigueur : 01-01-1989&gt; Le taux de la taxe est fixé à 9,25 p.c.
+
+##### Art. 183quater
+
+&lt;Inséré par L 1988-12-07/33, art. 43, En vigueur : 01-01-1989&gt; La taxe exigible est calculée sur le montant total des sommes réparties à titre de participation bénéficiaire pour l'année d'imposition.
+
+[alinéa 2 abrogé] &lt;L 1999-01-20/32, art. 3, En vigueur : 01-01-1999&gt;
+
+##### Art. 183quinquies
+
+&lt;L 1992-12-28/32, art. 115, En vigueur : 01-01-1994&gt; Sont exemptées de la taxe les sommes réparties à titre de participation bénéficiaire:
+
+1° afférente aux contrats d'assurance-épargne régis par les articles 117 à 125 du Code des impôts sur les revenus 1992, tels qu'ils existaient avant d'être abrogés par l'article 85 de la loi du 28 décembre 1992, ou régis par les articles 1458 à 14516 du même Code;
+
+2° afférente aux contrats d'assurance visés aux articles 81, 1° et 2°, et 104, alinéa 1er, 10°, du même Code, tels qu'ils existaient avant d'être abrogés par les articles 80 et 81 de la loi du 28 décembre 1992, ou à l'article 1451, 2°, 3° et 5°, du même Code, pour lesquels le preneur d'assurance n'a pas bénéficié d'une exonération, réduction ou déduction en matière d'impôts sur les revenus en vertu des dispositions applicables antérieurement à l'exercice d'imposition 1993 ou des réductions d'impôts accordées par les articles 1451, 2°, 3° ou 5° et 14517, 1° ou 2°, du Code précité.
+
+L'exonération prévue à l'alinéa 1er, 2°, est soumise aux conditions et modalités déterminées par le Roi.
+
+##### Art. 183sexies
+
+&lt;Inséré par L 1988-12-07/33, art. 43, En vigueur : 01-01-1989&gt; La taxe annuelle sur les participations bénéficiaires est acquittée par [les associations, caisses, sociétés, organismes de pension, institutions de retraite professionnelle] ou entreprises d'assurances et tous autres assureurs qui ont en Belgique leur principal établissement, une agence, une succursale, un représentant ou un siège quelconque d'opérations. &lt;L 2006-12-27/32, art. 339, En vigueur : 01-01-2007&gt;
+
+##### Art. 183septies
+
+&lt;Inséré par L 1988-12-07/33, art. 43, En vigueur : 01-01-1989&gt; Le représentant responsable que les assureurs étrangers sont tenus de faire agréer en exécution de l'article 178, [<sup>1</sup> alinéa 1er]<sup>1</sup>, doit s'engager personnellement, par écrit envers l'État, au paiement de la taxe établie par le présent titre et des amendes qui pourraient être dues.
+
+----------
+
+(1)&lt;L 2021-06-27/02, art. 101, 047; En vigueur : 10-07-2021&gt;
+
+##### Art. 183octies
+
+&lt;Inséré par L 1988-12-07/33, art. 43, En vigueur : 01-01-1989&gt; La taxe annuelle est payable dans les trois mois à compter de la décision de répartition des participations bénéficiaires.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+Le jour du paiement, le redevable dépose à ce bureau une déclaration indiquant l'année d'imposition, la date de la décision de répartition, la base de perception, le taux et le montant de la taxe.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Si la déclaration n'est pas déposée dans le délai fixé, il est encouru une amende de [12,50 EUR] par semaine de retard. Toute semaine commencée est comptée comme complète. &lt;AR 2000-07-20/64, art. 2, 10, En vigueur : 01-01-2002&gt;
+
+----------
+
+(1)&lt;L 2022-11-20/01, art. 23, 053; En vigueur : 01-01-2023&gt;
+
+(2)&lt;L 2026-02-10/05, art. 14, 067; En vigueur : 09-03-2026&gt;
+
+##### Art. 183nonies
+
+&lt;Inséré par L 1988-12-07/33, art. 43, En vigueur : 01-01-1989&gt; Toute inexactitude ou omission constatée dans la déclaration dont il est question à l'article précédent, est punie d'une amende égale à cinq fois le droit éludé, sans qu'elle puisse être inférieure à [250 EUR]. &lt;AR 2000-07-20/64, art. 2, 10, En vigueur : 01-01-2002, modifié lui-même par AR 2001-07-13/50, art. 42, 5°, En vigueur : 01-01-2002&gt;
+
+##### Art. 183decies
+
+&lt;Inséré par L 1988-12-07/33, art. 43, En vigueur : 01-01-1989&gt; La taxe est remboursée à due concurrence lorsqu'elle représente une somme supérieure à celle qui était légalement due au moment du paiement.
+
+Le Roi détermine le mode et les conditions suivant lesquels s'opère le remboursement et fixe, dans la limite maximum de deux ans à compter du jour où l'action est née, le délai dans lequel le remboursement doit être demandé.
+
+##### Art. 183undecies
+
+&lt;Inséré par L 1988-12-07/33, art. 43, En vigueur : 01-01-1989&gt; [Les entreprises d'assurances belges, les organismes de pension, les institutions de retraite professionnelle et les représentants en Belgique des entreprises d'assurances étrangères] sont tenus de communiquer, sans déplacement, à toute réquisition des [<sup>2</sup> agents]<sup>2</sup> de [<sup>1</sup> l'administration en charge de l'établissement ou de la perception et du recouvrement des taxes établies par le Livre II]<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup> leurs répertoires, registres, livres, polices, contrats et tous autres documents. &lt;L 2006-12-27/32, art. 340, En vigueur : 01-01-2007&gt;
+
+Tout refus de communication est puni d'une amende de [250 à 2.500 EUR]. &lt;AR 2000-07-20/64, art. 2, 10, En vigueur : 01-01-2002, modifié lui-même par AR 2001-07-13/50, art. 42, 5°, En vigueur : 01-01-2002&gt;
+
+----------
+
+(1)&lt;L 2014-04-25/36, art. 85, 014; En vigueur : 16-05-2014&gt;
+
+(2)&lt;L 2016-04-27/04, art. 91, 018; En vigueur : 16-05-2016&gt;
+
+### Titre VII.
+
+&lt;Abrogé par L 2014-04-25/36, art. 86, 014; En vigueur : 16-05-2014&gt;
+
+##### Art. 183duodecies
+
+&lt;Abrogé par L 2014-04-25/36, art. 86, 014; En vigueur : 16-05-2014&gt;
+
+##### Art. 183terdecies
+
+&lt;Abrogé par L 2014-04-25/36, art. 86, 014; En vigueur : 16-05-2014&gt;
+
+##### Art. 183quaterdecies
+
+&lt;Abrogé par L 2014-04-25/36, art. 86, 014; En vigueur : 16-05-2014&gt;
+
+##### Art. 183quindecies
+
+&lt;Abrogé par L 2014-04-25/36, art. 86, 014; En vigueur : 16-05-2014&gt;
+
+##### Art. 183sedecies
+
+&lt;Abrogé par L 2014-04-25/36, art. 86, 014; En vigueur : 16-05-2014&gt;
+
+##### Art. 183septiesdecies
+
+&lt;Abrogé par L 2014-04-25/36, art. 86, 014; En vigueur : 16-05-2014&gt;
+
+##### Art. 183duodevicies
+
+&lt;Abrogé par L 2014-04-25/36, art. 86, 014; En vigueur : 16-05-2014&gt;
+
+##### Art. 183undevicies
+
+&lt;Abrogé par L 2014-04-25/36, art. 86, 014; En vigueur : 16-05-2014&gt;
+
+##### Art. 183vicies
+
+&lt;Abrogé par L 2014-04-25/36, art. 86, 014; En vigueur : 16-05-2014&gt;
+
+### Titre VIII. [Taxe sur l'épargne à long terme] &lt;Ancien titre XIII (art. 184-1876) rétabli par L 1992-12-28/32, art. 117, En vigueur : 01-01-1993 et renuméroté comme titre VIII par L 2006-12-19/33, art. 42, En vigueur : 01-01-2007&gt;
+
+##### Art. 184
+
+&lt;L 1992-12-28/32, art. 117, En vigueur : 01-01-1993&gt; § 1er. Il est établi une taxe:
+
+1° sur la valeur de rachat théorique des contrats d'assurance sur la vie conclus individuellement, dont le preneur d'assurance a atteint l'âge de 60 ans et a bénéficié d'une exonération, réduction ou déduction en matière d'impôts sur les revenus en vertu de dispositions applicables antérieurement à l'exercice d'imposition 1993 ou de la réduction d'impôt accordée par l'article 1451, 2° et 5°, du Code des impôts sur les revenus 1992;
+
+2° sur les pensions, rentes, capitaux ou valeurs de rachat de contrats d'assurance sur la vie conclus individuellement, qui sont payés ou attribués à la date à laquelle le preneur d'assurance a atteint l'âge de 60 ans et a bénéficié d'une exonération, réduction ou déduction en matière d'impôts sur les revenus en vertu de dispositions applicables antérieurement à l'exercice d'imposition 1993 ou de la réduction d'impôt accordée par l'article 1451, 2° et 5°, du même Code;
+
+3° sur l'épargne placée sur un compte-épargne collectif ou individuel dont le titulaire a atteint l'âge de 60 ans et a bénéficié de la déduction prévue par l'article 104, alinéa 1er, 10°, du même Code, tel qu'il existait avant d'être abrogé par l'article 81, 2°, de la loi du 28 décembre 1992, ou de la réduction d'impôt accordée par l'article 1451, 5°, du même Code.
+
+§ 2. Lorsque le contrat d'assurance sur la vie ou le compte-épargne est conclu ou ouvert par une personne ayant atteint l'âge de 55 ans ou plus, la taxe établie par le § 1er est exigible non au jour où le preneur d'assurance ou le titulaire du compte a atteint l'âge de 60 ans, mais au jour du dixième anniversaire de la date de la conclusion du contrat ou de l'ouverture du compte.
+
+Toutefois, lorsque les valeurs de rachat ou l'épargne sont payées ou attribuées avant cette date et que le preneur d'assurance ou le titulaire du compte a 60 ans ou plus, la taxe est exigible au jour où les valeurs de rachat ou de l'épargne sont payées ou attribuées.
+
+§ 3. Sont assimilés à des contrats d'assurance sur la vie ou des comptes-épargne visés au § 2, conclus ou ouverts par une personne ayant atteint l'âge de 55 ans ou plus, les contrats ou les comptes qui, même au moment de leurs conclusions ou leurs ouvertures, prévoient une augmentation des primes ou des paiements alors que le preneur d'assurance ou le titulaire du compte a atteint l'âge de 55 ans.
+
+Pour l'application du § 2, ces contrats ou ces comptes sont considérés comme conclus ou ouverts au jour de l'augmentation.
+
+Toutefois, lorsque les avantages sont versés avant le dixième anniversaire visé au § 2 et que le preneur d'assurance ou le titulaire du compte a 60 ans ou plus, la taxe est exigible le jour au cours duquel le premier paiement a lieu.
+
+##### Art. 185
+
+&lt;L 1992-12-28/32, art. 117, En vigueur : 01-01-1993&gt; § 1er. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 2. [<sup>1</sup> La taxe est fixée à 10 p.c. :
+
+1° pour la valeur de rachat théorique, les pensions, rentes, capitaux ou valeurs de rachat des contrats d'assurance sur la vie;
+
+2° pour l'épargne figurant sur un compte-épargne.]<sup>1</sup>
+
+[<sup>2</sup> § 2/1. Par dérogation au § 2, la taxe est fixée à 8 p.c. pour les valeurs de rachat théorique de contrats d'assurance-épargne dans le cadre de l'épargne-pension et l'épargne figurant sur un compte épargne collectif ou individuel constitutifs d'une épargne-pension.]<sup>2</sup>
+
+§ 3. Par dérogation aux [<sup>2</sup> §§ 2 et 2/1]<sup>2</sup>, la taxe est fixée à 33 p.c.:
+
+1° pour les valeurs de rachat visées à l'article 184, § 1er, 2°, ou l'épargne visée à l'article 184, § 1er, 3°, lorsqu'elles sont payées ou attribuées dans les conditions fixées à l'article 171, 1°, f) et g) du Code des impôts sur les revenus 1992;
+
+2° pour les valeurs de rachat ou l'épargne visées à l'article 184, § 2, alinéa 2, lorsqu'elles sont payées ou attribuées dans les conditions fixées à l'article 171, 1°, f) et g) du Code des impôts sur les revenus 1992.
+
+[<sup>2</sup> § 4. Pendant les années 2015 à 2019, une perception anticipée de 1 p.c. de la taxe visée au § 2/1 est effectué chaque année.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2012-06-22/02, art. 78, 003; En vigueur : 30-09-2012 (voir AR 2012-09-27/01, art. 1&gt;
+
+(2)&lt;L 2014-12-19/07, art. 103, 016; En vigueur : 01-01-2015&gt;
+
+##### Art. 186
+
+&lt;L 1992-12-28/32, art. 117, En vigueur : 01-01-1993&gt; § 1er. La taxe exigible est calculée:
+
+1° en ce qui concerne les contrats d'assurance sur la vie pour lesquels il n'est pas payé ou attribué de prestations à la date à laquelle le preneur d'assurance a atteint l'âge de 60 ans, sur le montant de la valeur de rachat théorique déterminée au jour où le preneur a atteint l'âge de 60 ans. Par valeur de rachat théorique, on entend la réserve constituée auprès de l'entreprise d'assurances par la capitalisation des primes payées, tenant compte des sommes consommées;
+
+2° en ce qui concerne les contrats d'assurance sur la vie pour lesquels des prestations sont payées ou attribuées à la date à laquelle le preneur d'assurance a atteint l'âge de 60 ans, sur le capital ou la valeur de rachat. Lorsque les prestations ont lieu sous la forme de rentes ou de pensions, la taxe est calculée sur le capital constitutif de cette rente ou pension, déterminée à cette date;
+
+3° en ce qui concerne les comptes-épargne, sur l'épargne placée sur de tels comptes, déterminée au jour où le titulaire du compte a atteint l'âge de 60 ans, soit conformément à l'article 34, § 3, du Code des impôts sur les revenus 1992, tel qu'il existait avant d'être modifié par l'article 75 de la loi du 28 décembre 1992, en ce qui concerne les versements effectués avant le 1er janvier 1992, soit conformément à l'article 34, § 3, du même Code, en ce qui concerne les versements effectués à compter du 1er janvier 1992.
+
+§ 2. Pour les cas visés à l'article 184, § 2, alinéa 1er, les règles fixées au § 1er sont applicables non au jour où le preneur d'assurance ou le titulaire du compte a atteint l'âge de 60 ans, mais au jour du dixième anniversaire de la date de la conclusion du contrat ou de l'ouverture du compte.
+
+Pour les cas visés à l'article 184, § 2, alinéa 2, les règles fixées au § 1er, 2° et 3°, sont applicables au jour où la valeur de rachat ou l'épargne sont payées ou attribuées.
+
+§ 3. [<sup>1</sup> La perception anticipée visée à l'article 185, § 4, est calculée:
+
+1° en ce qui concerne les contrats d'assurance-épargne dans le cadre de l'épargne-pension, sur le montant de la valeur de rachat théorique, constituée par les primes, cotisations ou versements payés tel qu'il est fixé au 31 décembre 2014;
+
+2° en ce qui concerne les comptes-épargne, sur l'épargne placée sur de tels comptes tel qu'il est fixé au 31 décembre 2014.
+
+Lorsque la taxe sur l'épargne à long terme est payable pendant les années 2015 à 2019 en vertu de l'article 184 du Code des droits et taxes divers, la perception anticipée est payable jusqu'à l'année précédant le terme prévu pour le paiement de la taxe.
+
+Le montant de la perception anticipée payée est déduite de la taxe due au terme prévu par l'article 184.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-12-19/07, art. 104, 016; En vigueur : 01-01-2015&gt;
+
+##### Art. 187/1
+
+&lt;L 1992-12-28/32, art. 117, En vigueur : 01-01-1993&gt; La taxe est acquittée:
+
+1° en ce qui concerne les contrats d'assurance sur la vie, par les associations, caisses, sociétés ou entreprises d'assurances;
+
+2° en ce qui concerne les comptes-épargne, par les institutions ou entreprises habilitées à ouvrir des compte-épargne, visées à l'article 145/15, alinéa 1er, du Code des impôts sur les revenus 1992.
+
+Les redevables visés à l'alinéa premier ont le droit de prélever la taxe sur les valeurs de rachat, pensions, rentes, capitaux ou épargne visés à l'article 184.
+
+##### Art. 187/2
+
+&lt;L 1992-12-28/32, art. 117, En vigueur : 01-01-1993&gt; Sont exemptés de la taxe:
+
+1° les contrats d'assurance qui prévoient uniquement des avantages en cas de décès;
+
+2° les contrats d'assurance sur la vie dans la mesure où ils visent à garantir l'amortissement ou la reconstitution d'un emprunt hypothécaire.
+
+##### Art. 187/3
+
+&lt;L 1992-12-28/32, art. 117, En vigueur : 01-01-1993&gt; § 1er. La taxe est payable au plus tard le premier jour ouvrable du mois suivant celui au cours duquel s'est produit le fait générateur de la taxe. [<sup>3</sup> Au plus tard le jour du paiement, une déclaration faisant notamment connaître la base de perception est déposée.]<sup>3</sup>
+
+[<sup>1</sup> La perception anticipée visée à l'article 185, § 4, est payable au plus tard le 30 septembre de chacune des années 2015 à 2019.]<sup>1</sup>
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+Les éléments à faire connaître dans la déclaration, tout document dont la production est nécessaire au contrôle de la perception de la taxe ainsi que le bureau compétent sont déterminés par arrêté royal.
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+Si la déclaration n'est pas déposée dans le délai fixé, il est encouru une amende de [12,50 EUR] par semaine de retard. Toute semaine commencée est comptée comme complète. &lt;AR 2000-07-20/64, art. 2, 10, En vigueur : 01-01-2002&gt;
+
+----------
+
+(1)&lt;L 2014-12-19/07, art. 105, 016; En vigueur : 01-01-2015&gt;
+
+(2)&lt;L 2022-11-20/01, art. 24, 053; En vigueur : 01-01-2023&gt;
+
+(3)&lt;L 2026-02-10/05, art. 15, 067; En vigueur : 09-03-2026&gt;
+
+##### Art. 187/4
+
+&lt;L 1992-12-28/32, art. 117, En vigueur : 01-01-1993&gt; Toute inexactitude ou omission constatée dans la déclaration ou dans les documents dont question à l'article 1873, est punie d'une amende égale à cinq fois le droit éludé, sans qu'elle puisse être inférieure à [250 EUR]. &lt;AR 2000-07-20/64, art. 2, 10, En vigueur : 01-01-2002, modifié lui-même par AR 2001-07-13/50, art. 42, 5°, En vigueur : 01-01-2002&gt;
+
+Tout refus de communication demandée en application de l'article 1873 est puni d'une amende de [250 à 2.500 EUR]. &lt;AR 2000-07-20/64, art. 2, 10, En vigueur : 01-01-2002, modifié lui-même par AR 2001-07-13/50, art. 42, 5°, En vigueur : 01-01-2002&gt;
+
+##### Art. 187/5
+
+&lt;L 1992-12-28/32, art. 117, En vigueur : 01-01-1993&gt; La taxe est remboursée à due concurrence:
+
+1° lorsqu'elle présente une somme supérieure à celle qui était légalement due au moment du paiement;
+
+2° lorsqu'il s'agit d'un contrat d'assurance en cas de vie pour lequel l'assureur est libéré de tous engagements à l'arrivée de l'événement assuré.
+
+Le mode et les conditions suivant lesquels s'opère le remboursement sont déterminés par arrêté royal.
+
+##### Art. 187/5 DROIT FUTUR.
+
+[<sup>1</sup> Sans préjudice de l'article 20137/5, § 1er, alinéa 2, la taxe est imputée conformément à l'article 20137/5, § 2, ou bien restituée sur demande motivée si elle a été effectivement acquittée :
+
+1° lorsque le montant déclaré à titre de taxe excède le montant de la taxe due lors du paiement ;
+
+2° lorsqu'il s'agit d'un contrat d'assurance en cas de vie pour lequel l'assureur est libéré de tous engagements à l'arrivée de l'événement assuré.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-02-10/05, art. 1, 067; En vigueur : 01-01-2028&gt;
+
+##### Art. 187/6
+
+&lt;L 1992-12-28/32, art. 117, En vigueur : 01-01-1993&gt; Les redevables de la taxe sont tenus de communiquer, sans déplacement, à toute réquisition des [<sup>2</sup> agents]<sup>2</sup> de [<sup>1</sup> l'administration en charge de l'établissement ou de la perception et du recouvrement des taxes établies par le Livre II]<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup> leurs répertoires, registres, livres, polices, contrats et tous autres documents.
+
+Tout refus de communication est puni d'une amende de [250 à 2.500 EUR]. &lt;AR 2000-07-20/64, art. 2, 10, En vigueur : 01-01-2002, modifié lui-même par AR 2001-07-13/50, art. 42, 5°, En vigueur : 01-01-2002&gt;
+
+----------
+
+(1)&lt;L 2014-04-25/36, art. 87, 014; En vigueur : 16-05-2014&gt;
+
+(2)&lt;L 2016-04-27/04, art. 92, 018; En vigueur : 16-05-2016&gt;
+
+### Titre IX. Taxe d'affichage &lt;Ancien titre XIV renuméroté comme titre IX par L 2006-12-19/33, art. 42, En vigueur : 01-01-2007&gt;
+
+##### Art. 188
+
+&lt;Abrogé par L 2025-12-19/35, art. 16, 065; En vigueur : 01-01-2026&gt;
+
+##### Art. 189
+
+[abrogé] &lt;L 2003-04-22/37, art. 11, 1°, En vigueur : 23-05-2003&gt;
+
+##### Art. 190
+
+&lt;Abrogé par L 2025-12-19/35, art. 16, 065; En vigueur : 01-01-2026&gt;
+
+##### Art. 191
+
+&lt;Abrogé par L 2025-12-19/35, art. 16, 065; En vigueur : 01-01-2026&gt;
+
+##### Art. 192
+
+[abrogé] &lt;L 2003-04-22/37, art. 11, En vigueur : 23-05-2003&gt;
+
+##### Art. 193
+
+&lt;Abrogé par L 2025-12-19/35, art. 16, 065; En vigueur : 01-01-2026&gt;
+
+##### Art. 194
+
+&lt;Abrogé par L 2025-12-19/35, art. 16, 065; En vigueur : 01-01-2026&gt;
+
+##### Art. 195
+
+&lt;Abrogé par L 2025-12-19/35, art. 16, 065; En vigueur : 01-01-2026&gt;
+
+##### Art. 196
+
+&lt;Abrogé par L 2025-12-19/35, art. 16, 065; En vigueur : 01-01-2026&gt;
+
+##### Art. 197
+
+&lt;Abrogé par L 2025-12-19/35, art. 16, 065; En vigueur : 01-01-2026&gt;
+
+##### Art. 198
+
+&lt;Abrogé par L 2025-12-19/35, art. 16, 065; En vigueur : 01-01-2026&gt;
+
+##### Art. 199
+
+&lt;Abrogé par L 2025-12-19/35, art. 16, 065; En vigueur : 01-01-2026&gt;
+
+##### Art. 200
+
+(Texte fédéral) Le gouvernement est autorisé, en vue de sauvegarder la beauté des édifices, monuments, sites et paysages, à interdire l'apposition dans des endroits déterminés, [...] de toutes affiches généralement quelconques ou d'affiches excédant une certaine dimension. &lt;AR63 1939-11-28/35, art. 9&gt;
+
+Les infractions aux arrêtés royaux pris en exécution du présent article sont punies d'une amende de [1,25 à 50 EUR]. Les dispositions du premier livre du Code pénal seront appliquées à ces infractions. &lt;AR 2000-07-20/64, art. 2, 10, En vigueur : 01-01-2002, modifié lui-même par AR 2001-07-13/50, art. 42, 5°, En vigueur : 01-01-2002&gt;
+
+Le jugement de condamnation prononcera la destruction, aux frais du condamné, de l'affiche illégalement établie.
+
+Art. 200 (Région flamande)
+
+Le gouvernement est autorisé, en vue de sauvegarder la beauté des édifices, monuments, sites et paysages, à interdire l'apposition dans des endroits déterminés, [...] de toutes affiches généralement quelconques ou d'affiches excédant une certaine dimension. &lt;AR63 1939-11-28/35, art. 9&gt;
+
+Les infractions aux arrêtés royaux pris en exécution du présent article sont punies d'une amende de [50 euros à 2000 euros]. Les dispositions du premier livre du Code pénal seront appliquées à ces infractions. &lt;DCFL 2010-07-09/15, art. 70, En vigueur : 01-01-2002&gt;
+
+Le jugement de condamnation prononcera la destruction, aux frais du condamné, de l'affiche illégalement établie.
+
+##### Art. 200_REGION_FLAMANDE
+
+&lt;Abrogé par DCFL 2024-05-17/29, art. 5, 062; En vigueur : 20-07-2024&gt;
+
+##### Art. 201/1
+
+&lt;Abrogé par L 2025-12-19/35, art. 16, 065; En vigueur : 01-01-2026&gt;
+
+##### Art. 201/2
+
+&lt;Abrogé par L 2025-12-19/35, art. 16, 065; En vigueur : 01-01-2026&gt;
+
+### Titre X. [<sup>1</sup> Taxe annuelle sur les comptes-titres]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-02-17/05, art. 2, 045; En vigueur : 26-02-2021&gt;
+
+##### Art. 201/3
+
+[<sup>1</sup> Pour l'application du présent titre, l'on entend par :
+
+1° résidents :
+
+a) les habitants du royaume visés à l'article 2, § 1er, 1°, du Code des impôts sur les revenus 1992 ;
+
+b) les sociétés visées à l'article 2, § 1er, 5°, b, du Code des impôts sur les revenus 1992 ;
+
+c) les personnes morales visées à l'article 220 du Code des impôts sur les revenus 1992 ;
+
+2° non-résidents : les contribuables visés à l'article 227 du Code des impôts sur les revenus 1992 ;
+
+3° compte-titres : un compte sur lequel des instruments financiers peuvent être crédités ou duquel des instruments financiers peuvent être débités, peu importe qu'il soit détenu en indivision ou en propriété divisée, et qui :
+
+a) en ce qui concerne les résidents, est détenu auprès d'un intermédiaire, peu importe où cet intermédiaire a été constitué ou est établi ;
+
+b) en ce qui concerne les non-résidents, est détenu auprès d'un intermédiaire belge, à l'exception du cas visé sous c) ;
+
+c) en ce qui concerne les établissements belges de non-résidents visés à l'article 229 du Code des impôts sur les revenus 1992, fait partie de l'actif dudit établissement et est détenu auprès d'un intermédiaire, peu importe où cet intermédiaire a été constitué ou est établi ;
+
+4° instruments financiers imposables : tous les instruments financiers, comme entre autres ceux visés à l'article 2, 1°, de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers, ainsi que les fonds, détenus sur un compte-titres ;
+
+5° période de référence : une période de douze mois successifs qui commence le 1er octobre et se termine le 30 septembre de l'année suivante, ou, le cas échéant, au moment :
+
+a) de la clôture du compte-titres ; ou
+
+b) où l'unique ou le dernier titulaire devient résident d'un Etat avec lequel la Belgique a conclu une convention préventive de double imposition ayant pour effet que le pouvoir d'imposition du patrimoine sur le compte-titres est attribué à l'autre Etat ;
+
+c) où le compte-titres ne fait plus partie de l'actif d'un établissement belge visé à l'article 229 du Code des impôts sur les revenus 1992 d'un non-résident, si cela a pour conséquence que la Belgique, en raison d'une convention préventive de double imposition, n'est plus compétente pour imposer le patrimoine sur le compte-titres ;
+
+d) où le compte cesse de répondre à la définition visée au 3° ;
+
+6° intermédiaire: la Banque nationale de Belgique, la Banque centrale européenne et les banques centrales étrangères exerçant des fonctions similaires, un dépositaire central de titres visé à l'article 198/1, § 6, 12°, du Code des impôts sur les revenus 1992, un établissement de crédit ou une société de bourse visé à l'article 1er, § 3, de la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse, ainsi que les entreprises d'investissement, visées à l'article 3, § 1er, de la loi de 25 octobre 2016 relative à l'accès à l'activité de prestation de services d'investissement et au statut et au contrôle des sociétés de gestion de portefeuille et de conseil en investissement, qui, en vertu du droit national, sont autorisés à détenir des instruments financiers pour le compte de clients ;
+
+7° intermédiaire belge : un intermédiaire constitué conformément au droit belge ainsi qu'un intermédiaire établi en Belgique. Les intermédiaires qui ne sont pas établis en Belgique et qui ont désigné un représentant visé à l'article 201/9/1, sont assimilés à un intermédiaire belge pour l'application du présent titre ;
+
+8° titulaire : le(s) détenteur(s) du compte-titres y compris le(s) fondateur(s) de constructions juridiques, constructions filiales, constructions mères et constructions en chaîne dans le cadre desquelles le compte est détenu ;
+
+9° fondateur : la personne considérée comme fondateur d'une construction juridique en application de l'article 2, § 1er, 14°, du Code des impôts sur les revenus 1992 ;
+
+10° construction juridique, construction filiale construction mère et construction en chaîne : les constructions, où qu'elles soient établies, considérées comme construction juridique, construction filiale, construction mère et construction en chaîne, en application respectivement de l'article 2, § 1er, 13°, 13° /2, 13° /3 et 13° /4, du Code des impôts sur les revenus 1992 ;
+
+11° redevable : selon le cas, l'intermédiaire belge, le représentant responsable visé à l'article 201/9/1 ou le titulaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-02-17/05, art. 3, 045; En vigueur : 26-02-2021&gt;
+
+##### Art. 201/4
+
+[<sup>1</sup> Une taxe annuelle est perçue sur les comptes-titres.
+
+La base imposable est la valeur moyenne des instruments financiers imposables au cours de la période de référence.
+
+La taxe est due seulement si cette valeur moyenne est supérieure à 1 000 000 euros.
+
+La taxe n'est pas due quant aux comptes-titres, sans qu'un tiers autre qu'une institution, société ou entité visée au présent alinéa dispose d'un droit de créance direct ou indirect lié à la valeur du compte-titres détenu, qui sont détenus par :
+
+1° la Banque nationale de Belgique, la Banque centrale européenne et les banques centrales étrangères exerçant des fonctions similaires, et par les institutions financières visées à l'article 198/1, § 6, 1° à 12° du Code des impôts sur les revenus 1992 ;
+
+2° une société de bourse visée à l'article 1er, § 3, de la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit et des sociétés de bourse ;
+
+3° les institutions et entités visées à l'article 2, § 1er, 13° /1, alinéa 1er, a à c du Code des impôts sur les revenus 1992, à l'exception des institutions, entités et compartiments visés à l'article 2, § 1er, 13° /1, alinéas 2 et 3 du même Code.
+
+La taxe n'est pas non plus due quant aux comptes-titres :
+
+1° détenus, directement ou indirectement, et exclusivement pour compte-propre, par des non-résidents qui n'affectent pas ces comptes-titres à un établissement belge visé à l'article 229 du Code des impôts sur les revenus 1992 dont ils disposent, auprès d'un dépositaire central de titres visé à l'article 198/1, § 6, 12°, du Code des impôts sur les revenus 1992, ou auprès d'une banque dépositaire agréée par la Banque nationale de Belgique en application de l'article 36/26/1, § 6, de la loi du 22 février 1998 fixant le statut organique de la Banque Nationale de Belgique ;
+
+2° détenus, pour le compte de tiers, par les intermédiaires, en couverture d'instruments financiers inscrits en compte-titres dans leurs livres ou en couverture de droits détenus par une institution, entité ou société visée à l'alinéa 4, auprès d'un autre intermédiaire ou auprès d'un dépositaire central de titres visé à l'article 2, alinéa 1er, point 1, du Règlement (UE) n° 909/2014 du Parlement européen et du Conseil du 23 juillet 2014 concernant l'amélioration du règlement de titres dans l'Union européenne et les dépositaires centraux de titres, et modifiant les Directives 98/26/CE et 2014/65/UE ainsi que le Règlement (UE) n° 236/2012.
+
+Pour l'application du présent article ne sont pas opposables à l'administration fiscale, les opérations effectuées à partir du 30 octobre 2020 et consistant en :
+
+1° la scission d'un compte-titres en plusieurs comptes-titres détenus auprès du même intermédiaire ;
+
+2° la conversion d'instruments financiers imposables, détenus sur un compte-titres, en instruments financiers nominatifs.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-02-17/05, art. 4, 045; En vigueur : 26-02-2021, (NOTE : par son arrêt n° 138/2022 du 27-10-2022 (2022-10-27/15, M.B. 30-01-2023, p. 13678), la Cour constitutionnelle a annulé dans la modification apportée au présent article, les mots en italiques.) &gt;
+
+##### Art. 201/5
+
+[<sup>1</sup> Au cours de la période de référence, les points de référence sont le 31 décembre, le 31 mars, le 30 juin et le 30 septembre.
+
+La base imposable est la somme de la valeur des instruments financiers imposables aux points de référence, divisée par le nombre de ceux-ci.
+
+En cas d'ouverture ou de clôture d'un compte-titres durant la période de référence, les points de référence visés à l'alinéa 1er et auxquels le compte existait sont pris en compte pour le calcul de la base imposable.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-02-17/05, art. 5, 045; En vigueur : 26-02-2021&gt;
+
+##### Art. 201/6
+
+[<sup>1</sup> Le taux de la taxe est fixé à [<sup>2</sup> 0,3]<sup>2</sup> p.c.
+
+Le montant de la taxe est limité à 10 % de la différence entre la base imposable et le seuil visé à l'article 201/4, alinéa 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-02-17/05, art. 6, 045; En vigueur : 26-02-2021&gt;
+
+(2)&lt;L 2026-05-30/01, art. 6, 068; En vigueur : 01-06-2026&gt;
+
+##### Art. 201/7
+
+[<sup>1</sup> Au plus tard le dernier jour du mois qui suit la fin de la période de référence, les intermédiaires belges fournissent aux titulaires un aperçu contenant les données suivantes :
+
+1° le numéro de compte du compte-titres ;
+
+2° l'identité du ou des titulaire(s), comprenant le nom, premier prénom et domicile, ou le numéro d'entreprise, le nom et l'adresse du siège ;
+
+3° les éléments du calcul de la base imposable ;
+
+4° la mention de la période de référence.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-02-17/05, art. 7, 045; En vigueur : 26-02-2021&gt;
+
+##### Art. 201/8
+
+[<sup>1</sup> La taxe est due le premier jour qui suit la fin de la période de référence.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-02-17/05, art. 8, 045; En vigueur : 26-02-2021&gt;
+
+##### Art. 201/9
+
+[<sup>1</sup> § 1er. L'intermédiaire belge effectue la retenue, la déclaration et le paiement de la taxe.
+
+§ 2. Dans tous les autres cas, le titulaire effectue lui-même la déclaration et le paiement de la taxe, sauf s'il prouve que la taxe a déjà été déclarée et payée par un intermédiaire, constitué ou établi en Belgique ou pas.
+
+§ 3. Si un compte-titres est détenu par plusieurs titulaires, chaque titulaire peut déposer la déclaration pour tous les titulaires.
+
+Chaque titulaire est tenu solidairement au paiement de la taxe, des amendes et [<sup>2</sup> intérêts de retard]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-02-17/05, art. 9, 045; En vigueur : 26-02-2021&gt;
+
+(2)&lt;L 2022-11-20/01, art. 25, 053; En vigueur : 01-01-2023&gt;
+
+##### Art. 201/9/1
+
+[<sup>1</sup> Les intermédiaires non constitués ou non établis en Belgique peuvent, lorsqu'ils gèrent un compte soumis à la taxe, faire agréer par le ministre des Finances ou son délégué un représentant responsable établi en Belgique. Ce représentant s'engage solidairement envers l'Etat belge à la déclaration et au paiement de la taxe, ainsi qu'à l'exécution de toutes les obligations dont l'intermédiaire est tenu conformément au présent titre.
+
+En cas de décès du représentant responsable, de retrait de son agrément ou d'un évènement entraînant son incapacité à agir comme représentant, il doit être pourvu à son remplacement dans le mois.
+
+Le Roi détermine les conditions et les règles complémentaires de l'agrément du représentant responsable.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-02-17/05, art. 10, 045; En vigueur : 26-02-2021&gt;
+
+##### Art. 201/9/2
+
+[<sup>1</sup> § 1er. Les intermédiaires belges déposent une déclaration au bureau compétent, au plus tard le vingtième jour du troisième mois qui suit la fin de la période de référence.
+
+La taxe est payée le jour visé à l'alinéa 1er.
+
+Le Roi détermine les modalités de la déclaration.
+
+§ 2. L'absence de déclaration, la déclaration tardive, inexacte ou incomplète ainsi que l'absence de paiement ou le paiement tardif sont punis d'une amende qui est établie en fonction de la nature et de la gravité de l'infraction, selon une échelle déterminée par le Roi et allant de 10 p.c. à 200 p.c. de la taxe due.
+
+En l'absence de mauvaise foi, il n'est pas dû d'amende.
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-02-17/05, art. 11, 045; En vigueur : 26-02-2021&gt;
+
+(2)&lt;L 2022-11-20/01, art. 26, 053; En vigueur : 01-01-2023&gt;
+
+##### Art. 201/9/3
+
+[<sup>1</sup> § 1er. Dans les cas visés à l'article 201/9, § 2, le titulaire dépose lui-même une déclaration électronique.
+
+Le délai de dépôt de cette déclaration est identique à celui qui vaut pour la déclaration à l'impôt des personnes physiques, par un contribuable lui-même, via MyMinfin.
+
+La taxe est payée au plus tard le 31 août de l'année suivant la fin de la période de référence.
+
+Le Roi détermine les modalités de la déclaration.
+
+§ 2. Un formulaire de déclaration électronique est mis à disposition par le Service public fédéral Finances. Le formulaire déposé est assimilé à une déclaration certifiée exacte, datée et signée.
+
+Par dérogation au paragraphe 1er, alinéa 1er, le titulaire est dispensé de l'obligation de déposer une déclaration par voie électronique dans les cas prévus par le Roi ou aussi longtemps que lui-même ou, le cas échéant, la personne mandatée pour l'introduction de la déclaration précitée, ne dispose pas des moyens informatiques nécessaires pour remplir cette obligation. Dans ce cas, l'introduction de la déclaration s'effectue sur support papier au bureau compétent.
+
+Les déclarations visées au paragraphe 1er, alinéa 1er, ainsi que les documents et pièces justificatives jointes, qui sont enregistrées, conservées ou reproduites par l'administration en charge de l'établissement ou de la perception et du recouvrement des taxes établies par le Livre II, selon un procédé photographique, optique, électronique ou par toute autre technique informatique ou télématique, ainsi que leur reproduction sur un support lisible ont force probante pour l'application des dispositions du Code des droits et taxes divers et de ses arrêtés d'exécution.
+
+§ 3. L'absence de déclaration, la déclaration tardive, inexacte ou incomplète ainsi que le paiement tardif ou l'absence de paiement sont punis par une amende qui est établie en fonction de la nature et de la gravité de l'infraction, selon une échelle dont les graduations sont déterminées par le Roi et allant de 10 p.c. à 200 p.c. de la taxe due.
+
+En l'absence de mauvaise foi, il n'est pas dû d'amende.
+
+§ 4. [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-02-17/05, art. 12, 045; En vigueur : 26-02-2021&gt;
+
+(2)&lt;L 2022-11-20/01, art. 27, 053; En vigueur : 01-01-2023&gt;
+
+##### Art. 201/9/3 DROIT FUTUR
+
+[<sup>1</sup> § 1er. Dans les cas visés à l'article 201/9, § 2, le titulaire dépose lui-même une déclaration électronique [<sup>3</sup> , au plus tard le 15 juillet de l'année suivant la fin de la période de référence]<sup>3</sup>.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+La taxe est payée au plus tard le 31 août de [<sup>3</sup> la même année]<sup>3</sup>.
+
+Le Roi détermine les modalités de la déclaration.
+
+§ 2. Un formulaire de déclaration électronique est mis à disposition par le Service public fédéral Finances. Le formulaire déposé est assimilé à une déclaration certifiée exacte, datée et signée.
+
+Par dérogation au paragraphe 1er, alinéa 1er, le titulaire est dispensé de l'obligation de déposer une déclaration par voie électronique dans les cas prévus par le Roi ou aussi longtemps que lui-même ou, le cas échéant, la personne mandatée pour l'introduction de la déclaration précitée, ne dispose pas des moyens informatiques nécessaires pour remplir cette obligation. Dans ce cas, l'introduction de la déclaration s'effectue sur support papier au bureau compétent.
+
+Les déclarations visées au paragraphe 1er, alinéa 1er, ainsi que les documents et pièces justificatives jointes, qui sont enregistrées, conservées ou reproduites par l'administration en charge de l'établissement ou de la perception et du recouvrement des taxes établies par le Livre II, selon un procédé photographique, optique, électronique ou par toute autre technique informatique ou télématique, ainsi que leur reproduction sur un support lisible ont force probante pour l'application des dispositions du Code des droits et taxes divers et de ses arrêtés d'exécution.
+
+§ 3. L'absence de déclaration, la déclaration tardive, inexacte ou incomplète ainsi que le paiement tardif ou l'absence de paiement sont punis par une amende qui est établie en fonction de la nature et de la gravité de l'infraction, selon une échelle dont les graduations sont déterminées par le Roi et allant de 10 p.c. à 200 p.c. de la taxe due.
+
+En l'absence de mauvaise foi, il n'est pas dû d'amende.
+
+§ 4. [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-02-17/05, art. 12, 045; En vigueur : 26-02-2021&gt;
+
+(2)&lt;L 2022-11-20/01, art. 27, 053; En vigueur : 01-01-2023&gt;
+
+(3)&lt;L 2023-12-28/01, art. 7, 058; En vigueur : indéterminée &gt;
+
+##### Art. 201/9/4
+
+[<sup>1</sup> En cas de paiement d'un montant supérieur à celui dû, le trop payé est restitué.
+
+Le Roi détermine les modalités de la demande en restitution.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+En cas de décision définitive sur une procédure de règlement des différends visée aux articles 3, 4, 6 10 ou 15 de la loi du 2 mai 2019 transposant la Directive (UE) 2017/1852 du conseil du 10 octobre 2017 concernant les mécanismes de règlement des différends fiscaux dans l'Union européenne, un droit à restitution naît le cas échéant le jour de la renonciation au droit à toute voie de recours interne, sauf dans le cas visé à l'article 15, § 4, alinéa 3 de la loi précitée.
+
+Le Roi détermine le mode et les conditions de restitution ainsi que le délai d'introduction de la demande en restitution. Ce délai ne peut excéder deux ans à compter du jour auquel la taxe est devenue exigible.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-02-17/05, art. 13, 045; En vigueur : 26-02-2021&gt;
+
+(2)&lt;L 2022-11-20/01, art. 28, 053; En vigueur : 01-01-2023&gt;
+
+##### Art. 201/9/5
+
+[<sup>1</sup> En vue de l'examen des corrects perception, déclaration et paiement de la taxe, l'administration en charge de l'établissement ou de la perception et du recouvrement des taxes établies par le Livre II peut demander au titulaire tous les renseignements qu'elle estime nécessaires afin d'assurer la juste perception de la taxe.
+
+Pour toute communication fautive ou absence de communication demandée en application de l'alinéa 1er une amende allant de 750 euros à 1 250 euros peut être infligée.
+
+Le Roi fixe l'échelle des amendes administratives et règle les modalités d'application de celles-ci.
+
+En l'absence de mauvaise foi, il n'est pas dû d'amende.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-02-17/05, art. 14, 045; En vigueur : 26-02-2021&gt;
+
+##### Art. 201/9/6.
+
+[<sup>1</sup> § 1er. Pour l'application du présent article, on entend par:
+
+1° conversion: la conversion d'instruments financiers inscrits sur un compte-titres en instruments financiers qui ne sont pas inscrits sur un tel compte, et les autres caractéristiques des instruments financiers restent inchangées, pour autant qu'immédiatement avant cette conversion, la valeur totale des instruments financiers imposables sur le compte concerné soit supérieure à 1.000.000 d'euros;
+
+2° transfert: le transfert, vers un ou plusieurs comptes-titres, d'une partie des instruments financiers imposables inscrits sur un compte-titres sur lequel, immédiatement avant ce transfert, étaient inscrits de tels instruments pour une valeur supérieure à 1.000.000 d'euros, pour autant:
+
+a) que le titulaire des comptes concernés soit le même; ou
+
+b) que le titulaire du compte au départ duquel a lieu le transfert soit cotitulaire du compte vers lequel le transfert a lieu.
+
+Au plus tard le dernier jour du mois qui suit la fin d'une période de référence, l'intermédiaire belge ou le représentant responsable informe l'administration en charge de l'établissement des taxes établies par le Livre II de toute conversion et de tout transfert visés à l'alinéa 1er, 1° et 2°, intervenus pendant cette période de référence.
+
+Lorsqu'il s'agit d'un compte-titres détenu à l'étranger et pour lequel aucun représentant responsable n'est désigné, l'obligation d'information à l'administration visée à l'alinéa 2, incombe au titulaire du compte.
+
+Est punie d'une amende allant de 250 à 2.500 euros, selon une échelle dont les graduations sont déterminées par le Roi, l'absence de l'information visée à l'alinéa 2 et 3 ainsi qu'une information tardive, inexacte ou incomplète.
+
+En l'absence de mauvaise foi, il n'est pas dû d'amende.
+
+§ 2. Pour l'application de la présente taxe et en vue d'un prélèvement conforme à l'objectif de la loi, la conversion et le transfert ne sont, dans le chef du titulaire, pas opposables à l'administration sauf si le titulaire prouve qu'ils se justifient principalement par un motif autre que la volonté d'éviter la taxe.
+
+Le titulaire est redevable de la taxe déduction faite du montant que l'intermédiaire belge ou le représentant responsable est tenu de retenir, déclarer et payer.
+
+Les dispositions de l'article 201/9/3 s'appliquent au titulaire visé à l'alinéa 2.
+
+§ 3. Le Roi détermine les modalités des obligations d'information visées au paragraphe 1er.
+
+Le Roi peut en particulier prescrire, le cas échéant, la mention du numéro d'identification d'une personne physique dans le Registre national des personnes physiques ou dans les registres de la Banque Carrefour de la sécurité sociale, lorsque cette personne physique est titulaire ou cotitulaire d'un compte-titres impliqué dans une conversion ou un transfert.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-07-18/06, art. 63, 063; En vigueur : 29-07-2025&gt;
+
+##### Art. 201/9/6bis DROIT FUTUR.
+
+[<sup>1</sup> § 1er. En vue de l'examen de la correcte déclaration de la taxe, un fonctionnaire en charge de l'établissement de la taxe annuelle sur les comptes-titres, ayant au moins le grade de conseiller, peut demander au Point de contact central tenu par la Banque nationale de Belgique conformément à la loi du 8 juillet 2018 portant organisation d'un Point de contact central des comptes et contrats financiers et portant extension de l'accès du fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt, les données disponibles visées à l'article 4, alinéa 1er, 1° /1 de la loi du 8 juillet 2018 précitée relatives aux comptes-titres dont une personne physique ou morale est titulaire ou co-titulaire auprès d'établissements financiers belges, ainsi que toute procuration accordée sur ces compte-titres et l'identité des mandataires sur ceux-ci.
+
+Ce fonctionnaire peut également demander au Point de contact central les données disponibles relatives aux comptes-titres dont une personne physique ou morale est titulaire ou co-titulaire auprès d'établissements financiers étrangers.
+
+Sans préjudice de la conservation nécessaire pour un traitement ultérieur à des fins d'archivage dans l'intérêt public, de recherche scientifique ou historique, ou à des fins statistiques, telles que visées à l'article 89 du Règlement (UE) 2016/679 du 27 avril 2016 du Parlement européen et du Conseil relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE, les données reçues par le SPF Finances ne sont pas conservées plus longtemps que nécessaire au regard des finalités pour lesquelles elles sont collectées, avec une durée maximale de conservation ne pouvant excéder un an après la prescription de toutes les actions qui relèvent de la compétence du responsable du traitement et, le cas échéant, la cessation définitive des procédures et recours administratifs et judiciaires ainsi que le paiement intégral de tous les montants y liés.
+
+§ 2. Tout établissement de banque, de change, de crédit et d'épargne est tenu de communiquer au Point de contact central tenu par la Banque nationale de Belgique, les données visées à l'article 4, alinéa 1er, 1° /1, de la loi précitée du 8 juillet 2018.
+
+L'article 5 de la loi précitée du 8 juillet 2018 s'applique à ces données.
+
+Cette obligation ne s'applique que lorsque la communication de ces mêmes données n'est pas déjà rendue obligatoire par la loi précitée du 8 juillet 2018.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2025-12-18/06, art. 103, 064; En vigueur : 01-12-2026&gt;
+
+### Titre XI. [<sup>1</sup> - Taxe annuelle sur les établissements de crédit]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-06-22/02, art. 49, 003; En vigueur : 08-07-2012&gt;
+
+##### Art. 201/10
+
+[<sup>1</sup> Sont assujettis à une taxe annuelle, les établissements de crédit suivants :
+
+a) les établissements de crédit de droit belge inscrits sur la liste visée à l'article [<sup>2</sup> 14 de la loi du 25 avril 2014]<sup>2</sup> relative au statut et au contrôle des établissements de crédit;
+
+b) les établissements de crédit ressortissant d'un autre Etat de l'Espace économique européen et qui, exerçant en Belgique des activités conformément à l'article [<sup>2</sup> 312]<sup>2</sup> de la même loi, y ont établi une succursale;
+
+c) les établissements de crédit ressortissant d'un Etat qui n'est pas membre de l'Espace économique européen et qui, exerçant en Belgique des activités conformément à l'article [<sup>2</sup> 333]<sup>2</sup> de la même loi, y ont établi une succursale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-06-22/02, art. 50, 003; En vigueur : 08-07-2012&gt;
+
+(2)&lt;L 2015-12-18/12, art. 33, 017; En vigueur : 07-01-2016&gt;
+
+##### Art. 201/11
+
+[<sup>1</sup> Un établissement de crédit visé à l'article 20110 est redevable de la taxe sur le montant moyen de ses dettes envers la clientèle au cours de l'année précédant l'exercice d'imposition. Pour l'application du présent article, on entend par le montant moyen des dettes envers la clientèle, la moyenne arithmétique des montants qui, conformément aux règles de la Banque nationale de Belgique dans le cadre de la communication territoriale, doivent être mentionnés, à la fin de chaque mois de l'année visée, à la ligne 229 du tableau 00.20 "Dettes envers la clientèle" (colonne 05, Montant total) du Schéma A [<sup>2</sup> , après déduction:
+
+1° des dettes envers la Banque européenne d'investissement reprises dans la ligne 129 avec le code pays 4C du tableau 43.03 de ce Schéma;
+
+2° des dettes envers les contreparties centrales reconnues conformément au Règlement (UE) n° 648/2012 du Parlement européen et du Conseil du 4 juillet 2012 sur les produits dérivés de gré à gré, les contreparties centrales et les référentiels centraux ou qui ont le statut de contrepartie centrale qualifiée conformément au Règlement (UE) n° 575/2013 du Parlement européen et du Conseil du 26 juin 2013 concernant les exigences prudentielles applicables aux établissements de crédit et aux entreprises d'investissement et modifiant le règlement (UE) n° 648/2012, dans la mesure où ces dettes sont reprises conformément au Schéma A à la ligne 229 du tableau 00.20.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-08-03/13, art. 2, 019; En vigueur : 21-08-2016 (dispositions transitoires art. 14 et 15)&gt;
+
+(2)&lt;L 2026-05-30/01, art. 6, 068; En vigueur : 01-01-2026&gt;
+
+##### Art. 201/12
+
+[<sup>1</sup> Le taux de la taxe est fixé [<sup>2</sup> à [<sup>5</sup> 0,19286]<sup>5</sup> p.c.]<sup>2</sup> [<sup>3</sup> sur les 50 premiers milliards d'euros de base imposable et à [<sup>5</sup> 0,25626]<sup>5</sup> p.c. sur la partie de la base imposable qui excède 50 milliards d'euros.]<sup>3</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/01, art. 75, 009; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2016-08-03/13, art. 3, 019; En vigueur : 21-08-2016 (dispositions transitoires art. 14 et 15)&gt;
+
+(3)&lt;L 2023-12-22/06, art. 2, 056; En vigueur : 30-12-2023&gt;
+
+(4)&lt;L 2025-12-19/16, art. 6, 066; En vigueur : 30-12-2025&gt;
+
+(5)&lt;L 2026-05-30/01, art. 8, 068; En vigueur : 01-01-2026&gt;
+
+##### Art. 201/12/1
+
+[<sup>1</sup> La taxe annuelle ne s'applique pas aux sociétés [<sup>2</sup> agréées ou reconnues en qualité de dépositaire central de titres]<sup>2</sup> au sens de l'arrêté royal n° 62 coordonné du 10 novembre 1967 relatif au dépôt d'instruments financiers fongibles et à la liquidation d'opérations sur ces instruments, ou disposant d'un agrément en qualité [<sup>2</sup> de banque dépositaire conformément à l'article 36/26/1, § 6]<sup>2</sup>, de la loi du 22 février 1998 fixant le statut organique de la Banque nationale de Belgique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-08-03/13, art. 4, 019; En vigueur : 21-08-2016 (dispositions transitoires art. 14 et 15)&gt;
+
+(2)&lt;L 2021-06-27/02, art. 102, 047; En vigueur : 10-07-2021&gt;
+
+##### Art. 201/13
+
+[<sup>1</sup> La taxe est exigible le 1er janvier de chaque année et pour la première fois le 1er janvier [<sup>2</sup> 2016]<sup>2</sup>.
+
+Elle doit être acquittée au plus tard le 1er juillet de chaque année [<sup>2</sup> ...]<sup>2</sup>.
+
+[<sup>3</sup> ...]<sup>3</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-06-22/02, art. 53, 003; En vigueur : 08-07-2012&gt;
+
+(2)&lt;L 2016-08-03/13, art. 5, 019; En vigueur : 21-08-2016 (dispositions transitoires art. 14 et 15)&gt;
+
+(3)&lt;L 2022-11-20/01, art. 29, 053; En vigueur : 01-01-2023&gt;
+
+##### Art. 201/14
+
+[<sup>1</sup> Les établissements de crédit et les succursales sont tenus de déposer au bureau compétent, au plus tard le 1er juillet de chaque année, une déclaration faisant connaître leur dénomination, la base imposable, le taux et le montant de la taxe.
+
+Si la déclaration n'est pas déposée dans le délai prescrit, il est encouru une amende de 250 euros par semaine de retard. Toute semaine commencée est comptée comme une semaine entière.
+
+Le Roi détermine la forme et le contenu de la déclaration.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-06-22/02, art. 54, 003; En vigueur : 08-07-2012&gt;
+
+##### Art. 201/15
+
+&lt;Abrogé par L 2016-04-27/04, art. 95, 018; En vigueur : 16-05-2016&gt;
+
+##### Art. 201/16
+
+[<sup>1</sup> Toute inexactitude ou omission constatée dans la déclaration, ainsi que toute autre irrégularité commise dans l'exécution des dispositions légales ou réglementaires, est punie d'une amende égale à deux fois le droit éludé, sans que cette amende ne puisse être inférieure à 250 euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-06-22/02, art. 56, 003; En vigueur : 08-07-2012&gt;
+
+##### Art. 201/17
+
+[<sup>1</sup> La taxe est restituée à concurrence de ce qui excède le montant légalement dû.
+
+Le Roi détermine le mode et les conditions de cette restitution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-06-22/02, art. 57, 003; En vigueur : 08-07-2012&gt;
+
+##### Art. 201/18
+
+[<sup>1</sup> Sous peine d'une amende de 250 à 2.500 euros, les redevables de la taxe sont tenus de communiquer, sans déplacement, à toute réquisition d'un fonctionnaire de [<sup>2</sup> l'administration en charge de l'établissement ou de la perception et du recouvrement des taxes établies par le Livre II]<sup>2</sup>, tous documents nécessaires à l'effet d'assurer la juste perception de la taxe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-06-22/02, art. 58, 003; En vigueur : 08-07-2012&gt;
+
+(2)&lt;L 2016-04-27/04, art. 96, 018; En vigueur : 16-05-2016&gt;
+
+##### Art. 201/19
+
+[<sup>1</sup> Les établissements de crédit et leurs succursales ne peuvent répercuter ni la taxe ni l'amende visée à l'alinéa 2 sur la clientèle visée à l'article 20111.
+
+Toute contravention à cette disposition est punie d'une amende établie selon une échelle déterminée par le Roi, allant de 10 p.c. à 200 p.c. en fonction de la répétition de la contravention. L'amende est liquidée sur la taxe due pour l'exercice d'imposition auquel se rapporte la taxe ou l'amende répercutée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-22/06, art. 3, 056; En vigueur : 30-12-2023&gt;
+
+### Titre XII. [<sup>1</sup> - Taxe annuelle sur les organismes de placement collectif]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 78, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 201.20
+
+[<sup>1</sup> Sont assujettis à une taxe annuelle à partir du 1er janvier qui suit leur inscription soit auprès du Service public fédéral Finances sur la liste des fonds d'investissement immobiliers spécialisés, soit auprès de l'Autorité des services et marchés financiers :
+
+1° les sociétés d'investissement, visées à l'article 3, 11°, de la loi du 3 août 2012 relative aux organismes de placement collectif qui répondent aux conditions de la directive 2009/65/CE et aux organismes de placement en créances, les sociétés d'investissement visées à l'article 3, 11°, de la loi du 19 avril 2014 relative aux organismes de placement collectif alternatifs et à leur gestionnaires, à l'exception des pricaf privées visées à l'article 298 de la même loi, et les sociétés immobilières réglementées publiques ou institutionnelles visées à l'article 2, 1°, 2° et 3°, de la loi du 12 mai 2014 relative aux sociétés immobilières réglementées ;
+
+2° les sociétés de gestion responsables de la gestion des organismes de placement qui revêtent la forme contractuelle, visés à l'article 6 de la loi du 3 août 2012 relative aux organismes de placement collectif qui répondent aux conditions de la directive 2009/65/CE et aux organismes de placement en créances et aux articles 181 et 282 de la loi du 19 avril 2014 relative aux organismes de placement collectif alternatifs et à leur gestionnaires ;
+
+3° les organismes de placement collectif de droit étranger visés à l'article 148 de la loi du 3 août 2012 relative aux organismes de placement collectif qui répondent aux conditions de la directive 2009/65/CE et aux organismes de placement en créances, à l'exception des organismes de placement en créances, et des organismes de placement collectif alternatifs visés à l'article 259 de la loi du 19 avril 2014 relative aux organismes de placement collectif alternatifs et à leur gestionnaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 79, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 201.21
+
+[<sup>1</sup> § 1er. En ce qui concerne les organismes de placement visés à l'article 20120, 1° et 2°, la taxe est due sur le total, au 31 décembre de l'année précédente, des montants nets placés en Belgique.
+
+Pour l'application de l'alinéa 1er :
+
+1° sont considérées comme placées en Belgique, les parts qui sont acquises à l'étranger pour le compte d'un habitant du Royaume ;
+
+2° lorsque l'organisme de placement a omis de fournir à l'administration les éléments utiles et nécessaires pour la perception de la taxe, et sans préjudice de l'application du Livre III, la taxe est due sur la valeur totale du patrimoine géré au 31 décembre de l'année précédente.
+
+Le Roi peut déterminer les éléments utiles et nécessaires pour la perception de la taxe.
+
+§ 2. En ce qui concerne les organismes de placement visés à l'article 20120, 3°, la taxe est due sur le total au 31 décembre de l'année précédente des montants nets placés en Belgique, à partir de leur inscription auprès de l'Autorité des services et marchés financiers.
+
+Pour l'application de l'alinéa 1er :
+
+1° les parts qui ont été placées à l'étranger par un intermédiaire financier ne peuvent être déduites des montants bruts placés en Belgique en cas d'achat à l'intervention d'un intermédiaire financier en Belgique ;
+
+2° lorsque l'organisme de placement a omis de fournir à l'administration les éléments utiles et nécessaires pour la perception de la taxe, et sans préjudice de l'application du Livre III, la taxe est due sur le total au 31 décembre de l'année précédente des montants bruts placés en Belgique.
+
+Le Roi peut fixer les éléments utiles et nécessaires pour la perception de la taxe.
+
+§ 3. Pour l'application des paragraphes 1er et 2 ne sont pas repris dans la base imposable d'un organisme de placement qui détient des parts dans un organisme de placement, les montants qui ont déjà été compris dans la base imposable d'un organisme de placement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 80, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 201.22
+
+[<sup>1</sup> Le tarif de la taxe est fixé à 0,0925 p.c.
+
+Il est toutefois fixé à 0,01 p.c. dans la mesure où les moyens financiers de l'organisme de placement, d'un ou de plusieurs de ses compartiments ou des classes de titres, sont recueillis exclusivement auprès d'investisseurs institutionnels ou professionnels agissant pour leur propre compte, et dont les titres ne peuvent être acquis que par ces investisseurs.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 81, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 201.23
+
+[<sup>1</sup> La taxe est exigible le 1er janvier de chaque année.
+
+Elle doit être acquittée au plus tard le 31 mars de chaque année.
+
+[<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 82, 039; En vigueur : 01-01-2020&gt;
+
+(2)&lt;L 2022-11-20/01, art. 30, 053; En vigueur : 01-01-2023&gt;
+
+##### Art. 201.24
+
+[<sup>1</sup> Les établissements visés à l'article 20120 sont tenus de déposer, au plus tard le 31 mars de chaque année d'imposition, une déclaration faisant connaître la base imposable.
+
+Si la déclaration n'est pas déposée dans le délai prescrit, il est encouru une amende de 250 euros par semaine de retard. Toute semaine commencée est comptée comme semaine entière.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 83, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 201.25
+
+[<sup>1</sup> Le Roi arrête la forme et le contenu de la déclaration. Il peut fixer [<sup>2</sup> ...]<sup>2</sup> des règles complémentaires en vue d'assurer la juste perception de la taxe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 84, 039; En vigueur : 01-01-2020&gt;
+
+(2)&lt;L 2021-02-07/01, art. 30, 046; En vigueur : 01-03-2021&gt;
+
+##### Art. 201.26
+
+[<sup>1</sup> Toute inexactitude ou omission constatée dans la déclaration visée à l'article 20124, ainsi que toute autre irrégularité commise dans l'exécution des dispositions légales ou réglementaires, est punie d'une amende égale à deux fois le droit éludé sans que cette amende puisse être inférieure à 250 euros par contravention.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 85, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 201.27
+
+[<sup>1</sup> La taxe est restituée à concurrence de ce qui excède le montant légalement dû.
+
+Le Roi détermine le mode et les conditions de cette restitution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 86, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 201.28
+
+[<sup>1</sup> Les fonctionnaires en charge de l'établissement ou de la perception de la taxe peuvent prendre connaissance de tous les documents nécessaires à l'effet d'assurer l'exacte perception de la taxe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 87, 039; En vigueur : 01-01-2020&gt;
+
+### Titre XIII. [<sup>1</sup> - Taxe annuelle sur les entreprises d'assurance]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 88, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 201.29
+
+[<sup>1</sup> Sont assujetties à une taxe annuelle à partir du 1er janvier qui suit leur inscription [<sup>2</sup> ...]<sup>2</sup> auprès de [<sup>2</sup> la Banque nationale de Belgique]<sup>2</sup> :
+
+1° les entreprises d'assurances visées à l'article 6 de la loi du 13 mars 2016 relative au statut et au contrôle des entreprises d'assurance ou de réassurance qui attribuent des revenus visés à l'article 21, 9°, du Code des impôts sur les revenus 1992 ou qui attribuent des dividendes qui sont exonérés de l'impôt des sociétés sur base de l'article 185, § 1er, de ce Code ;
+
+2° les entreprises d'assurances visées à l'article 6 de la loi du 13 mars 2016 relative au statut et au contrôle des entreprises d'assurance ou de réassurance, qui effectuent des opérations d'assurance telles que visées à l'annexe II, A, 23 de cette même loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 89, 039; En vigueur : 01-01-2020&gt;
+
+(2)&lt;L 2023-07-31/06, art. 2, 055; En vigueur : 02-09-2023&gt;
+
+##### Art. 201.30
+
+[<sup>1</sup> § 1er. La taxe est due sur le montant total des provisions mathématiques du bilan et des provisions techniques au 1er janvier de l'année d'imposition, afférentes :
+
+\- aux contrats d'assurance-vie qui répondent aux conditions fixées par l'article 21, 9°, du Code des impôts sur les revenus 1992 ;
+
+\- aux opérations d'assurance liées à un fonds d'investissement à l'exclusion des contrats d'assurance-vie dont le capital ou la valeur de rachat est imposable à l'impôt sur les revenus ou à la taxe sur l'épargne à long terme.
+
+Le Roi peut fixer les éléments utiles et nécessaires pour la perception de la taxe.
+
+§ 2. Pour l'application du § 1er, alinéa 1er, deuxième tiret, ne sont pas repris dans la base imposable d'une entreprise d'assurances qui détient des parts dans un organisme de placement, les montants qui ont déjà été compris dans la base imposable pour la taxe sur les organismes de placement collectif.
+
+§ 3. Dans le cas où une entreprise d'assurance visée à l'article 20129, a adopté la forme d'une société coopérative agréée par le Conseil national de la coopération, la taxe est en outre due sur une quotité du capital social au 1er janvier de l'année d'imposition. Cette quotité est égale à la proportion entre le total des dividendes non imposables sur base de l'article 185, § 1er, du Code des impôts sur les revenus 1992, et le total des dividendes attribués pour l'exercice social qui précède.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 90, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 201.31
+
+[<sup>1</sup> Le tarif de la taxe est fixé :
+
+1° à 0,0925 p.c. du montant total visé à l'article 20130, des provisions mathématiques du bilan et des provisions techniques, afférentes aux contrats d'assurance-vie et aux opérations d'assurance liées à un fonds de placement ;
+
+2° à 0,0925 p.c. de la quotité du capital social visée à l'article 20130, § 3, des entreprises visées à l'article 20129, 1° où 2°, qui ont adopté la forme d'une société coopérative agréée par le Conseil national de la coopération.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 91, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 201.32
+
+[<sup>1</sup> La taxe est exigible le 1er janvier de chaque année.
+
+Elle doit être acquittée au plus tard le 31 mars de chaque année. Toutefois, ce délai est prorogé, le cas échéant, en ce qui concerne le paiement de la taxe ou de la partie de la taxe afférente aux dividendes visés à l'article 20129, 1°, jusqu'au huitième jour ouvrable qui suit la date de l'assemblée générale qui décide de l'attribution des dividendes.
+
+[<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 92, 039; En vigueur : 01-01-2020&gt;
+
+(2)&lt;L 2022-11-20/01, art. 31, 053; En vigueur : 01-01-2023&gt;
+
+##### Art. 201.33
+
+[<sup>1</sup> Les entreprises visées à l'article 20129 sont tenues de déposer, au plus tard le 31 mars de chaque année d'imposition, une déclaration faisant connaître la base imposable. Toutefois, les sociétés coopératives agréées par le Conseil national de la coopération, doivent, en ce qui concerne la taxe ou la partie de la taxe afférente aux dividendes visés à l'article 20129, 1°, déposer la déclaration ou une déclaration complémentaire faisant connaître la base imposable de la taxe ou de la partie de la taxe afférente aux dividendes visés, au plus tard le jour auquel le paiement doit être effectué conformément à l'article 20132, alinéa 2.
+
+Si la déclaration n'est pas déposée dans le délai prescrit, il est encouru une amende de 250 euros par semaine de retard. Toute semaine commencée est comptée comme semaine entière.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 93, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 201.34
+
+[<sup>1</sup> Le Roi arrête la forme et le contenu de la déclaration. Il peut fixer [<sup>2</sup> ...]<sup>2</sup> des règles complémentaires en vue d'assurer la juste perception de l'impôt.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 94, 039; En vigueur : 01-01-2020&gt;
+
+(2)&lt;L 2021-02-07/01, art. 31, 046; En vigueur : 01-03-2021&gt;
+
+##### Art. 201.35
+
+[<sup>1</sup> Toute inexactitude ou omission constatée dans la déclaration visée à l'article 20133, ainsi que toute autre irrégularité commise dans l'exécution des dispositions légales ou réglementaires, est punie d'une amende égale à deux fois le droit éludé, sans que cette amende puisse être inférieure à 250 euros par contravention.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 95, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 201.36
+
+[<sup>1</sup> La taxe est restituée à concurrence de ce qui excède le montant légalement dû.
+
+Le Roi détermine le mode et les conditions de cette restitution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 96, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 201.37
+
+[<sup>1</sup> Les fonctionnaires en charge de l'établissement ou de la perception de la taxe peuvent prendre connaissance de tous les documents nécessaires à l'effet d'assurer l'exacte perception de la taxe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 97, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 201.37/1
+
+[<sup>1</sup> Le redevable des taxes diverses visées par le présent Code, peut transmettre les déclarations, formulaires et pièces y relatives, par voie électronique.
+
+Les envois, remises et notifications font l'objet d'un accusé de réception électronique adressé par le destinataire, qui indique la date et, le cas échéant, l'heure de réception.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-28/01, art. 91, 058; En vigueur : 01-01-2025&gt;
+
+### Titre XIV. [<sup>1</sup> - Dispositions communes aux taxes diverses]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 98, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 201.38
+
+[<sup>1</sup> La solution des difficultés qui peuvent s'élever relativement à la perception des taxes diverses avant l'introduction des instances appartient au ministre des Finances ou au fonctionnaire délégué par lui.
+
+Si après échanges de vues, le désaccord avec le ministre ou le fonctionnaire délégué par lui persiste sur une difficulté visée à l'alinéa 1er, le contribuable peut introduire une demande de conciliation auprès du service de conciliation fiscale visé à l'article 116 de la loi du 25 avril 2007 portant des dispositions diverses (IV).
+
+Le Roi peut déterminer les difficultés relatives à la perception des taxes diverses pour lesquelles l'intervention du service de conciliation fiscale est exclue.
+
+Le ministre des Finances conclut les transactions avec le contribuable, pourvu qu'elles n'impliquent pas exemption ou modération d'impôt.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 99, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 201.39
+
+[<sup>1</sup> § 1er. En cas de non-paiement de la dette fiscale composée de la taxe, des [<sup>2</sup> intérêts de retard]<sup>2</sup>, des amendes et des accessoires, celle-ci est reprise à un registre de perception et recouvrement, lequel constitue le titre exécutoire permettant le recouvrement de la dette fiscale et concrétisant celle-ci. Un registre de perception et recouvrement fait mention, pour chaque redevable y repris :
+
+\- de ses données d'identification ;
+
+\- de la dette fiscale due par celui-ci, telle que reprise au registre de perception et recouvrement ;
+
+\- de la justification de la dette fiscale visée à l'alinéa 5.
+
+La dette fiscale peut faire l'objet de registres de perception et recouvrement rectificatifs en cas de modification ultérieure, pour quelque cause que ce soit, des montants repris au registre de perception et recouvrement conformément à l'alinéa 1er.
+
+Les données reprises dans les registres de perception et recouvrement visés aux alinéas 1er et 2 sont les mêmes que ces registres soient établis de manière électronique ou non.
+
+En cas d'établissement des registres de perception et recouvrement visés aux alinéas 1er et 2 de manière électronique, l'origine et l'intégrité du contenu de ces registres de perception et recouvrement sont assurées au moyen de techniques de protection adaptées.
+
+La justification de la dette fiscale doit avoir été portée à la connaissance du redevable au plus tard un mois avant que la dette fiscale ne soit reprise à un registre de perception et recouvrement visé à l'alinéa 1er ou 2, sauf si les droits du Trésor sont en péril, auquel cas elle doit avoir été portée à la connaissance du redevable au plus tard au moment où la dette fiscale est reprise à un registre de perception et recouvrement. Lorsque le redevable n'a pas de domicile connu en Belgique ou à l'étranger, cette justification est adressée au procureur du Roi à Bruxelles.
+
+Moyennant l'accord explicite du redevable, la justification de la dette fiscale peut être portée à sa connaissance exclusivement par voie électronique. Dans ce cas, la mise à disposition par voie électronique vaut valablement notification de la justification de la dette fiscale.
+
+Le Roi détermine les modalités d'application de la procédure visée à l'alinéa 6.
+
+§ 2. Les registres de perception et recouvrement sont formés et rendus exécutoires par l'administrateur général de l'administration en charge de la taxe ou par le fonctionnaire délégué par lui.
+
+Lorsqu'un registre de perception et recouvrement est rendu exécutoire de manière électronique, il est signé par l'administrateur général de l'administration en charge de la taxe ou par le fonctionnaire délégué par lui au moyen :
+
+\- d'une signature électronique avancée au sens de l'article 3.11. du Règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE, ou
+
+\- d'une signature électronique qualifiée au sens de l'article 3.12. de ce Règlement.
+
+Le Service public fédéral Finances représenté par le Président du Comité de direction est le responsable du traitement au sens du règlement (UE) 2016/679 du Parlement et du Conseil européens du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données personnelles et à la libre circulation de ces données et abrogeant la directive 95/46/CE, conformément à la loi du 3 août 2012 portant dispositions relatives aux traitements de données à caractère personnel réalisées par le Service public fédéral Finances dans le cadre de ses missions, pour le traitement des données à caractère personnel qui sont nécessaires pour la mise en oeuvre du présent Code.
+
+Sans préjudice de la conservation nécessaire pour le traitement ultérieur à des fins archivistiques dans l'intérêt public, à des fins de recherche scientifique ou historique ou à des fins statistiques visé à l'article 89 du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE, les registres de perception et recouvrement ne sont pas conservés plus longtemps que nécessaire au regard de la finalité pour laquelle ils sont établis, avec une durée maximale de conservation ne pouvant excéder le 31 décembre de l'année qui suit celle au cours de laquelle sont intervenus la prescription de toutes les actions qui relèvent de la compétence du responsable du traitement visé à l'alinéa 3 et, le cas échéant, le paiement intégral de tous les montants y liés, ainsi que la cessation définitive des procédures et recours administratifs et judiciaires y liés.
+
+§ 3. Aussitôt que le registre de perception et recouvrement est rendu exécutoire, la reprise de la dette fiscale à ce registre est portée à la connaissance du redevable par l'envoi, sous pli fermé, d'un avis de perception et recouvrement, lequel constitue un extrait du registre de perception et recouvrement afférent au redevable concerné et l'informe que la dette fiscale dont il est redevable a été reprise dans un registre de perception et recouvrement en vue de permettre son recouvrement. L'avis de perception et recouvrement fait mention :
+
+\- des données d'identification du redevable ;
+
+\- de la dette fiscale due par celui-ci, telle que reprise au registre de perception et recouvrement ;
+
+\- de la justification de la dette fiscale visée au paragraphe 1er, alinéa 5 ;
+
+\- de la date d'exécutoire du registre de perception et recouvrement auquel l'avis de perception et recouvrement est attaché ;
+
+\- de l'administrateur général de l'administration en charge de la taxe ou du fonctionnaire délégué par lui qui a rendu exécutoire le registre de perception et recouvrement auquel l'avis de perception et recouvrement est attaché.
+
+Par dérogation à l'alinéa 1er, le redevable peut toutefois, moyennant une déclaration explicite dans ce sens, opter pour une réception des avis de perception et recouvrement exclusivement par voie électronique. Dans ce cas, la mise à disposition par voie électronique vaut valablement envoi de l'avis de perception et recouvrement.
+
+Le Roi détermine les modalités d'application de la procédure visée à l'alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-13/09, art. 100, 039; En vigueur : 01-01-2020&gt;
+
+(2)&lt;L 2022-11-20/01, art. 32, 053; En vigueur : 01-01-2023&gt;
+
+## Livre III. [Dispositions communes aux droits et taxes divers] &lt;Intitulé inséré par L 2006-12-19/33, art. 46, En vigueur : 01-01-2007&gt;
+
+### Titre Ier. [<sup>1</sup> Anti-abus]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-02-17/05, art. 15, 045; En vigueur : 30-10-2020&gt;
+
+##### Art. 202
+
+[<sup>1</sup> N'est pas opposable à l'administration, l'acte juridique ni l'ensemble d'actes juridiques réalisant une même opération lorsque l'administration en charge de l'établissement ou de la perception et du recouvrement des taxes établies par le Livre II démontre par présomptions ou par d'autres moyens de preuve visés à l'article 2061 et à la lumière de circonstances objectives, qu'il y a abus fiscal.
+
+Il y a abus fiscal lorsque le redevable ou le contribuable réalise, par l'acte juridique ou l'ensemble d'actes juridiques qu'il a posé, l'une des opérations suivantes :
+
+1° une opération par laquelle il se place, en violation des objectifs d'une disposition applicable à un impôt établi par ce Code ou des arrêtés pris en exécution de celui-ci, en-dehors du champ d'application de cette disposition ; ou
+
+2° une opération par laquelle il prétend à un avantage fiscal prévu par une disposition applicable à un impôt établi par ce Code ou des arrêtés pris en exécution de celui-ci, dont l'octroi serait contraire aux objectifs de cette disposition et dont le but essentiel est l'obtention de cet avantage.
+
+Il appartient au redevable ou au contribuable de prouver que le choix de cet acte juridique ou de cet ensemble d'actes juridiques se justifie par d'autres motifs que la volonté d'éviter l'impôt.
+
+Lorsque le redevable ou le contribuable ne fournit pas la preuve contraire, l'opération est soumise à un prélèvement conforme à l'objectif de la loi, comme si l'abus n'avait pas eu lieu.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-02-17/05, art. 16, 045; En vigueur : 30-10-2020&gt;
+
+##### Art. 202/1
+
+[abrogé] &lt;L 1969-07-10/33, art. 2, En vigueur : 01-01-1971&gt;
+
+##### Art. 202/2
+
+&lt;Abrogé par L 2019-04-13/09, art. 101, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 202/3
+
+[abrogé] &lt;L 1999-03-15/31, art. 82, En vigueur : 06-04-1999&gt;
+
+### Titre II.[<sup>1</sup> - Prescription et paiement]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-04-13/09, art. 102, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 202/4
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[Dans les limites prévues par la loi, le montant des amendes fiscales proportionnelles prévues par le présent Code ou par les arrêtés pris pour son exécution, est fixé selon une échelle dont les graduations sont déterminées par le Roi.] &lt;L 1986-08-04/38, art. 75 (Errat., M.B. 15-10-1986), En vigueur : 01-02-1987&gt;
+
+----------
+
+(1)&lt;L 2019-04-13/09, art. 103, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 202/4bis
+
+&lt;Abrogé par L 2019-04-13/09, art. 104, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 202/5
+
+&lt;Abrogé par L 2019-04-13/09, art. 105, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 202/6
+
+&lt;Abrogé par L 2019-04-13/09, art. 106, 039; En vigueur : 01-01-2020&gt;
+
+##### Art. 202/7
+
+[abrogé] &lt;L 1999-03-15/31, art. 85, En vigueur : 06-04-1999&gt;
+
+##### Art. 202/8
+
+&lt;Inséré comme art. 202/5 par AR63 1939-11-28/35, art. 11; renuméroté par L 1951-06-13/02, art. 9&gt; L'action de l'État en paiement des taxes et des amendes fiscales se prescrit par six ans à compter du jour où l'action est née.
+
+Toute action en restitution de [droits et taxes divers] ou d'amendes se prescrit par deux ans à compter du jour où l'action est née. &lt;L 2006-12-19/33, art. 52, En vigueur : 01-01-2007&gt;
+
+##### Art. 202/8/1
+
+[<sup>1</sup> Une demande de restitution relative à une déclaration, introduite auprès de l'administration dans le délai prévu, entraîne la suspension de la prescription pour le montant repris dans cette demande jusqu'à ce que l'administration fiscale se soit prononcée sur cette demande.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-12/11, art. 108, 060; En vigueur : 08-06-2024&gt;
+
+##### Art. 202/9
+
+[<sup>1</sup> § 1er. Les prescriptions, tant pour le recouvrement que pour la restitution du droit, des [<sup>3</sup> intérêts de retard]<sup>3</sup> et des amendes, sont interrompues de la manière et dans les conditions prévues par [<sup>2</sup> les articles 2244 et suivants]<sup>2</sup> du Code civil. En ce cas, une nouvelle prescription, susceptible d'être interrompue de la même manière, est acquise deux ans après le dernier acte interruptif de la précédente prescription, s'il n'y a instance en justice.
+
+Toute instance en justice relative à l'établissement, à la perception ou au recouvrement du droits, des [<sup>3</sup> intérêts de retard et moratoires]<sup>3</sup> et des amendes, introduite par l'Etat belge, par le redevable de ces droit, intérêts et amendes, par toute personne tenue à leur paiement en vertu du présent Code, des arrêtés pris pour leur exécution ou du droit commun, suspend le cours de la prescription.
+
+La suspension débute avec l'acte introductif d'instance et se termine lorsque la décision judiciaire est coulée en force de chose jugée.
+
+§ 2. Les prescriptions, tant pour le recouvrement que pour la restitution des taxes diverses, [<sup>3</sup> intérêts de retard]<sup>3</sup> et amendes, sont interrompus de la manière et dans les conditions prévues par les articles 2244 et suivants du Code civil, à l'exception de l'article 2244, paragraphe 2. En ce cas, une nouvelle prescription, susceptible d'être interrompue de la même manière est acquise cinq ans après le dernier acte interruptif de la précédente prescription.
+
+Toute instance en justice relative à l'établissement, à la perception ou au recouvrement des taxes diverses, des [<sup>3</sup> intérêts de retard et moratoires]<sup>3</sup> et des amendes, introduite par l'Etat belge, par le redevable de ces taxes, intérêts et amendes, par toute personne tenue à leur paiement en vertu du présent Code, du Code du recouvrement amiable et forcé des créances fiscales et non fiscales, des arrêtés pris pour leur exécution ou du droit commun, ainsi que par toute autre personne qui a un intérêt né et actuel à agir, suspend le cours de la prescription.
+
+La suspension débute avec l'acte introductif d'instance et se termine lorsque la décision judiciaire est coulée en force de chose jugée.
+
+§ 3. La renonciation au temps couru de la prescription est assimilée, quant à ses effets, aux actes interruptifs visés au paragraphe 1er, alinéa 1er, et au paragraphe 2, alinéa 1er.
+
+§ 4. Tout acte d'instruction ou de poursuite visé à l'article 22 du Titre préliminaire du Code de procédure pénale, relatives aux infractions visées aux articles 207 et 207bis, suspend la prescription de l'action en recouvrement du droit, de la taxe, des [<sup>3</sup> intérêts de retard]<sup>3</sup> et des amendes y afférents.
+
+La suspension débute dès que l'action publique est mise en mouvement et se termine par l'abandon des poursuites pénales, l'extinction de l'action publique ou lorsque le jugement ou l'arrêt est coulé en force de chose jugée pour les infractions visées à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-04-13/09, art. 107, 039; En vigueur : 01-01-2020&gt;
+
+(2)&lt;L 2021-12-20/04, art. 28, 048; En vigueur : 07-01-2022&gt;
+
+(3)&lt;L 2022-11-20/01, art. 33, 053; En vigueur : 01-01-2023&gt;
+
+##### Art. 202/10
+
+&lt;Inséré par L 1960-07-11/01, art. 11&gt; Lorsque le présent Code ou les arrêtés pris pour son exécution fixent un délai déterminé pour l'accomplissement d'une obligation qu'ils imposent ou pour le paiement d' [un droit ou une taxe] et que le dernier jour du délai n'est pas un jour ouvrable, ce délai est prorogé jusqu'au premier jour ouvrable qui suit le jour où il expire. &lt;L 2006-12-19/33, art. 54, En vigueur : 01-01-2007&gt;
+
+Sont considérés comme jours ouvrables pour l'application du présent Code et des arrêtés pris pour son exécution, les jours d'ouverture des bureaux de recette de [<sup>1</sup> l'administration en charge de l'établissement ou de la perception et du recouvrement des [<sup>2</sup> droits et taxes divers établis]<sup>2</sup> par le Code]<sup>1</sup>, tel que ces jours sont fixés [<sup>2</sup> par le Roi]<sup>2</sup>. &lt;L 1989-12-22/30, art. 240&gt;
+
+----------
+
+(1)&lt;L 2014-04-25/36, art. 91, 014; En vigueur : 16-05-2014&gt;
+
+(2)&lt;L 2016-04-27/04, art. 100, 018; En vigueur : 16-05-2016&gt;
+
+##### Art. 203/1
+
+[<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup>
+
+Le Roi peut autoriser le dépôt d'une déclaration périodique.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2021-02-07/01, art. 7, 046; En vigueur : 01-03-2021&gt;
+
+(2)&lt;L 2026-02-10/05, art. 18, 067; En vigueur : 09-03-2026&gt;
+
+##### Art. 203/2
+
+[abrogé] &lt;L 2003-04-22/37, art. 11, En vigueur : 23-05-2003&gt;
+
+##### Art. 204/1
+
+[abrogé] &lt;L 2003-04-22/37, art. 11, En vigueur : 23-05-2003&gt;
+
+##### Art. 204/2
+
+&lt;L 1951-06-13/02, art. 10&gt; [Lorsque le montant des [droits ou taxes] comprend une fraction d'un cent, cette fraction doit, pour chaque perception, être arrondie au cent supérieur ou inférieur, selon qu'elle atteint ou non 0,5 cent.] &lt;AR 2001-07-13/50, art. 10, En vigueur : 01-01-2002&gt; &lt;L 2006-12-19/33, art. 56, En vigueur : 01-01-2007&gt;
+
+[alinéa 2 abrogé] &lt;AR 2001-07-13/50, art. 10, En vigueur : 01-01-2002&gt;
+
+##### Art. 204/3
+
+[<sup>1</sup> § 1er. Lorsque la taxe ou le droit n'est pas payé dans le délai prescrit par le présent Code, un intérêt de retard au taux tel que déterminé conformément à l'article 2, § 2/1, alinéa 1er, 1°, de la loi du 5 mai 1865 relative au prêt à l'intérêt, est dû de plein droit sur le montant à recouvrer, à partir du jour qui suit l'échéance de paiement.
+
+Cet intérêt de retard est calculé mensuellement sur le total des impôts dus, arrondi au multiple inférieur le plus proche de 10 euros. Toute fraction de mois est comptée pour un mois entier.
+
+L'intérêt d'un mois n'est dû que s'il atteint 5 euros.
+
+§ 2. Par dérogation au paragraphe 1er, l'intérêt de retard, au taux tel que déterminé par le paragraphe 1er, alinéa 1er, est dû sur les amendes administratives, à compter :
+
+1° de la date d'exécutoire du registre de perception et recouvrement lorsque ces amendes sont reprises à un registre de perception et recouvrement, conformément à l'article 20139 ;
+
+2° de la date de signification de la contrainte lorsque ces amendes sont reprises dans une contrainte conformément à l'article 232, alinéa 2 ;
+
+3° du moment où la décision judiciaire portant condamnation au paiement de ces amendes est coulée en force de chose jugée dans les autres cas.
+
+Cet intérêt de retard est calculé mensuellement sur le total des amendes dues, arrondi au multiple inférieur le plus proche de 10 euros. Toute fraction de mois est comptée pour un mois entier.
+
+L'intérêt d'un mois n'est dû que s'il atteint 5 euros.
+
+§ 3. En cas de restitution par le biais d'une demande préalable auprès de l'administration, l'intérêt moratoire sur les taxes, droits et amendes à restituer, tel que déterminé conformément à l'article 2, § 2/1, alinéa 1er, 2°, de la loi du 5 mai 1865 relative au prêt à l'intérêt, est dû à compter du premier jour du quatrième mois qui suit celui de l'introduction de la demande en restitution complète auprès du Conseiller général de l'administration en charge de l'établissement de la taxe ou du droit.
+
+En cas de demande incomplète, l'administration indique au demandeur, dans les deux mois de l'introduction de la demande, les données et documents manquants. La demande est réputée complète le jour où l'administration reçoit toutes les données et tous les documents manquants.
+
+Lorsque le redevable est autorisé en vertu des dispositions du présent code à saisir directement le juge, l'intérêt moratoire, au taux tel que déterminé par le paragraphe 3, alinéa 1er, est dû à compter du premier jour du mois qui suit celui de la saisine du juge.
+
+Cet intérêt moratoire est calculé mensuellement sur le total des montants dus, arrondi à la dizaine d'euros inférieure. Toute fraction de mois est comptée pour un mois entier.
+
+L'intérêt d'un mois n'est dû que s'il atteint 5 euros.
+
+Il n'est toutefois pas dû d'intérêt lorsque :
+
+1° la restitution résulte de la remise ou de la réduction d'une amende administrative accordée comme mesure de grâce ;
+
+2° l'administration a été raisonnablement dans l'impossibilité de liquider la restitution, en raison entre autres de l'absence d'informations sur l'identité ou sur les coordonnées bancaires du bénéficiaire, pendant la période s'étendant entre le premier jour du mois suivant celui pendant lequel la restitution aurait dû être au plus tard liquidée si l'administration avait eu les données nécessaires, et la fin du deuxième mois suivant le mois au cours duquel cette impossibilité a cessé.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-20/01, art. 34, 053; En vigueur : 01-01-2023&gt;
+
+### Titre III. [Contrôle et amendes] &lt;Intitulé inséré par L 2006-12-19/33, art. 57, En vigueur : 01-01-2007&gt;
+
+##### Art. 205/1
+
+&lt;Ancien art. 205, renuméroté par AR63 1939-11-28/35, art. 11&gt; [ [Sans préjudice des dispositions spéciales du présent Code [...] ] les établissements publics [, les fondations d'utilité publique, les fondations privées], les associations, compagnies ou sociétés ayant en Belgique leur principal établissement, une succursale ou un siège quelconque d'opérations, les [<sup>3</sup> banques, les sociétés de bourse]<sup>3</sup> et toutes personnes chez qui un contrôle peut avoir lieu en exécution desdites lois, sont tenus de communiquer, sans déplacement, aux fonctionnaires de [<sup>1</sup> l'administration en charge de l'établissement ou de la perception et du recouvrement des taxes établies par le Code]<sup>1</sup> [<sup>4</sup> ...]<sup>4</sup> leurs registres, répertoires, livres, actes et tous autres documents relatifs à leur activité commerciale, professionnelle ou statutaire, à l'effet par lesdits fonctionnaires de s'assurer de la juste perception des [droits et taxes divers] à leur charge ou à la charge de tiers.] &lt;L 1938-07-28/01, art. 2&gt; &lt;L 1947-08-13/02, art. 60&gt; &lt;L 1953-07-27/40, art. 4, B&gt; &lt;L 1969-07-10/33, art. 3&gt; &lt;L 1989-12-22/30, art. 240&gt; &lt;L 2002-05-02/51, art. 58, En vigueur : 01-07-2003&gt; &lt;L 2006-12-19/33, art. 58, En vigueur : 01-01-2007&gt;
+
+Tout refus de communication est puni d'une amende de [250 à 2.500 EUR]. &lt;AR 2000-07-20/64, art. 2, 10, En vigueur : 01-01-2002, modifié lui-même par AR 2001-07-13/50, art. 42, 5°, En vigueur : 01-01-2002&gt;
+
+[alinéa 3 abrogé] &lt;L 1947-08-13/02, art. 60&gt;
+
+----------
+
+(1)&lt;L 2014-04-25/36, art. 92, 014; En vigueur : 16-05-2014&gt;
+
+(2)&lt;L 2016-04-27/04, art. 101, 018; En vigueur : 16-05-2016&gt;
+
+(3)&lt;L 2022-05-18/04, art. 13, 052; En vigueur : 01-07-2022&gt;
+
+(4)&lt;L 2024-05-12/11, art. 109, 060; En vigueur : 08-06-2024&gt;
+
+##### Art. 205/2
+
+&lt;Inséré par AR63 1939-11-28/35, art. 11&gt; Le montant des amendes fiscales dont [la présente loi se borne] à indiquer le minimum et le maximum est fixé par le [<sup>1</sup> conseiller général compétent de l'administration en charge de l'établissement ou de la perception et du recouvrement des droits et taxes divers établis par le Code]<sup>1</sup>. &lt;ADR 1947-11-25/01, art. 5&gt; &lt;L 1989-12-22/30, art. 240, En vigueur : 01-01-1990&gt;
+
+----------
+
+(1)&lt;L 2016-04-27/04, art. 102, 018; En vigueur : 16-05-2016&gt;
+
+##### Art. 206/1
+
+&lt;Inséré par L 1947-08-13/02, art. 60&gt; &lt;Renuméroté par L 1953-07-27/40, art. 18&gt; L'Administration est autorisée à prouver selon les règles et par tous moyens de droit commun, témoins et présomptions compris, à l'exception du serment, et en outre par les procès-verbaux [<sup>1</sup> des agents du Service public fédéral Finances]<sup>1</sup>, toute contravention aux dispositions de la présente loi [et des arrêtés pris pour son exécution] et tout fait quelconque qui établit ou qui concourt à établir l'exigibilité d'un droit ou d'une amende. &lt;ADR 1947-11-25/01, art. 5&gt;
+
+Les procès-verbaux font foi jusqu'à preuve contraire. Ils sont notifiés aux intéressés. [Cette notification peut avoir lieu par lettre recommandée à la poste. Le dépôt du pli à la poste vaut notification à compter du lendemain.] &lt;L 1969-07-10/33, art. 4&gt;
+
+----------
+
+(1)&lt;L 2016-04-27/04, art. 103, 018; En vigueur : 16-05-2016&gt;
+
+##### Art. 206/2
+
+[abrogé] En vigueur : 01-01-1971&gt;
+
+##### Art. 206/2 DROIT FUTUR
+
+[<sup>1</sup> Le fonctionnaire délégué par le Conseiller général compétent [<sup>2</sup> peut infliger]<sup>2</sup>, pour une infraction aux dispositions des articles 211bis/1 à 211bis/9 ainsi que des arrêtés pris pour leur exécution, qui consiste en la fourniture incomplète des informations visées à l'article 211bis, § 6/3, une amende de 1 250 euros à 12 500 euros. Pour de telles infractions commises avec intention frauduleuse ou intention de nuire, une amende de 2 500 euros à 25 000 euros est infligée.
+
+Le fonctionnaire délégué par le Conseiller général compétent [<sup>2</sup> peut infliger]<sup>2</sup>, pour une infraction aux dispositions des articles 211bis/1 à 211bis/9 ainsi que des arrêtés pris pour leur exécution, qui consiste à ne pas ou tardivement fournir les informations visées à l'article 211bis, § 6/3, une amende de 5 000 euros à 50 000 euros. Pour de telles infractions commises avec intention frauduleuse ou intention de nuire, une amende de 12 500 euros à 100 000 euros est infligée.
+
+Le Roi fixe l'échelle progressive des amendes administratives et règle les modalités d'application de celles-c.]<sup>1</sup>
+
+[<sup>2</sup> Le Roi peut, pour les amendes qu'Il détermine, prévoir des modalités d'applicabilité de mesures d'individualisation de la sanction par le juge compétent.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2019-12-20/09, art. 47, 041; En vigueur : 01-07-2020&gt;
+
+(2)&lt;L 2024-12-20/27, art. 15, 061; En vigueur : 31-12-2024&gt;
+
+### Titre IV. [Sanctions pénales et procédure] &lt;Intitulé inséré par L 2006-12-19/33, art. 59, En vigueur : 01-01-2007&gt;
+
+##### Art. 207
+
+&lt;L 1981-02-10/32, art. 11, En vigueur : 14-02-1981&gt; Sans préjudice des amendes fiscales, sera puni d'un emprisonnement de huit jours à deux ans et d'une amende de [250 à [<sup>1</sup> 500.000 euros]<sup>1</sup>, [ou de l'une de ces peines seulement] celui qui, dans une intention frauduleuse ou à dessein de nuire, contreviendra aux dispositions du présent Code ou des arrêtés pris pour son exécution. &lt;L 1986-08-04/38, art. 77, En vigueur : 20-08-1986&gt; &lt;AR 2000-07-20/64, art. 2, 10, En vigueur : 01-01-2002, modifié lui-même par AR 2001-07-13/50, art. 42, 5°, En vigueur : 01-01-2002&gt; &lt;L 2006-12-27/30, art. 82, En vigueur : 01-01-2007&gt;
+
+[<sup>2</sup> Si les infractions visées à l'alinéa 1er ont été commises dans le cadre de la fraude fiscale grave, organisée ou non, le coupable est puni d'un emprisonnement de 8 jours à 5 ans et d'une amende de 250 euros à 500 .000 euros ou de l'une de ces peines seulement.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2012-09-20/47, art. 30, 004; En vigueur : 01-11-2012&gt;
+
+(2)&lt;L 2013-06-17/06, art. 100, 008; En vigueur : 08-07-2013&gt;
+
+##### Art. 207bis
+
+&lt;Inséré par L 1981-02-10/32, art. 11, En vigueur : 14-02-1981&gt; Sera puni d'un emprisonnement d'un mois à cinq ans et d'une amende de [250 à [<sup>1</sup> 500.000 euros]<sup>1</sup>, [ou de l'une de ces peines seulement] celui qui, en vue de commettre une des infractions visées à l'article 207, aura commis un faux en écritures publiques, de commerce ou privées, ou qui aura fait usage d'un tel faux. &lt;L 1986-08-04/38, art. 78, , En vigueur : 20-08-1986&gt; &lt;AR 2000-07-20/64, art. 2, 10, En vigueur : 01-01-2002, modifié lui-même par AR 2001-07-13/50, art. 42, 5°, ED 01-01-2002&gt; &lt;L 2006-12-27/30, art. 82, En vigueur : 01-01-2007&gt;
+
+Celui qui, sciemment, établira un faux certificat pouvant compromettre les intérêts du trésor ou fera usage de pareil certificat sera puni d'un emprisonnement de huit jours à deux ans et d'une amende de [250 à 12.500 EUR] [ou de l'une de ces peines seulement]. &lt;L 1986-08-04/38, art. 78, En vigueur : 20-08-1986&gt; &lt;AR 2000-07-20/64, art. 2, 10, En vigueur : 01-01-2002, modifié lui-même par AR 2001-07-13/50, art. 42, 5°, ED 01-01-2002&gt;
+
+----------
+
+(1)&lt;L 2012-09-20/47, art. 30, 004; En vigueur : 01-11-2012&gt;
+
+##### Art. 207bis/1
+
+[<sup>1</sup> Afin d'éviter qu'un condamné soit soumis à une peine déraisonnablement lourde, le juge tient compte, dans la fixation de la peine, des amendes fiscales dues.
+
+L'article 42, 3°, du Code pénal n'est pas d'application aux avantages patrimoniaux tirés directement des infractions fiscales, aux biens et valeurs qui leur ont été substitués et aux revenus de ces avantages investis si l'action de l'administration fiscale est déclarée fondée et a donné lieu au paiement effectif de l'entièreté de cette action.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-05/10, art. 86, 040; En vigueur : 01-01-2020&gt;
+
+##### Art. 207ter
+
+&lt;Inséré par L 1981-02-10/32, art. 11, En vigueur : 14-02-1981&gt; § 1er. En condamnant le titulaire d'une des professions suivantes:
+
+1° conseiller fiscal;
+
+2° agent d'affaires;
+
+3° expert en matière fiscale ou comptable;
+
+4° ou toute autre profession qui a pour objet de tenir ou d'aider à tenir les écritures comptables d'un ou de plusieurs contribuables, que ce soit pour compte propre ou comme dirigeant, comme membre ou comme employé de société, association, groupement ou entreprise quelconque;
+
+5° ou plus généralement la profession consistant à conseiller ou à aider un ou plusieurs contribuables dans l'exécution des obligations définies par le présent Code ou par les arrêtés pris pour son exécution,
+
+du chef de l'une des infractions visées aux articles 207 et 207bis, le jugement pourra lui interdire, pour une durée de trois mois à cinq ans, d'exercer directement ou indirectement à quelque titre que ce soit, les professions susvisées.
+
+Le juge pourra, en outre, en motivant sa décision sur ce point, ordonner la fermeture, pour une durée de trois mois à cinq ans, des établissements de la société, association, groupement ou entreprise dont le condamné est dirigeant, membre ou employé.
+
+§ 2. L'interdiction et la fermeture visées au § 1er produiront leurs effets à compter du jour où la condamnation sera définitive.
+
+[§ 3. Le juge peut interdire à tout redevable visé à l'article 177, 1° et 2°, qui contrevient aux dispositions des articles 1791 et 1793 de réaliser des opérations d'assurances en Belgique pour une durée de trois mois à cinq ans. Cette interdiction est signifiée audit redevable, à ses intermédiaires résidant en Belgique, à [l'Autorité des services et marchés financiers] et à son représentant responsable en Belgique. L'interdiction produit ses effets à compter du jour où la condamnation devient définitive.] &lt;L 2005-12-27/30, art. 147, applicable aux primes et contributions échues à partir du 01-01-2006&gt; &lt;AR 2011-03-03/01, art. 331, En vigueur : 01-04-2011&gt;
+
+##### Art. 207quater
+
+&lt;Inséré par L 1981-02-10/32, art. 11, En vigueur : 14-02-1981&gt; Celui qui, directement ou indirectement, enfreindra l'interdiction ou la fermeture prononcée en vertu de l'article 207ter, sera puni d'un emprisonnement de huit jours à deux ans et d'une amende de [250 à [<sup>1</sup> 500.000 euros]<sup>1</sup> [ou de l'une de ces peines seulement]. &lt;L 1986-08-04/38, art. 79, En vigueur : 20-08-1986&gt; &lt;AR 2000-07-20/64, art. 2, 10, En vigueur : 01-01-2002, modifié lui-même par AR 2001-07-13/50, art. 42, 5°, En vigueur : 01-01-2002&gt; &lt;L 2006-12-27/30, art. 82, En vigueur : 01-01-2007&gt;
+
+----------
+
+(1)&lt;L 2012-09-20/47, art. 30, 004; En vigueur : 01-11-2012&gt;
+
+##### Art. 207quinquies
+
+&lt;Inséré par L 1981-02-10/32, art. 11, En vigueur : 14-02-1981&gt; § 1er. [...] Toutes les dispositions du livre Ier du Code pénal, [y compris l'article 85], sont applicables aux infractions visées par les articles 207, 207bis et 207quater. &lt;AR41 1982-04-02/32, art. 3, En vigueur : 07-04-1982&gt; &lt;L 1986-08-04/38, art. 80, En vigueur : 20-08-1986&gt;
+
+§ 2. [...] &lt;L 1986-08-04/38, art. 80, En vigueur : 20-08-1986&gt;
+
+§ 3. La loi du 5 mars 1952, modifiée par les lois des 22 décembre 1969 et 25 juin 1975, relatives aux décimes additionnels sur les amendes pénales, [<sup>1</sup> est applicable]<sup>1</sup> aux infractions visées aux articles 207, 207bis et 207quater.
+
+§ 4. [...] &lt;L 1986-08-04/38, art. 80, En vigueur : 20-08-1986&gt;
+
+----------
+
+(1)&lt;L 2012-09-20/47, art. 31, 004; En vigueur : 01-11-2012&gt;
+
+##### Art. 207sexies
+
+&lt;Inséré par L 1981-02-10/32, art. 11, En vigueur : 14-02-1981&gt; Les personnes qui auront été condamnées comme auteurs ou complices d'infractions visées aux articles 207 et 207bis seront tenues solidairement au paiement de l'impôt éludé [<sup>1</sup> et des [<sup>2</sup> intérêts de retard]<sup>2</sup> dus par le redevable initial]<sup>1</sup>.
+
+[<sup>1</sup> Les personnes prévenues comme auteurs ou complices d'infractions visées aux articles 207 et 207bis seront également solidairement tenues au paiement des droits éludés ou des taxes éludées et des [<sup>2</sup> intérêts de retard]<sup>2</sup>, comme visés à l'alinéa 1er lorsque les faits constitutifs des préventions sont déclarés établis, lorsqu'elles bénéficient :
+
+1° d'une suspension du prononcé de la condamnation ou d'un sursis à l'exécution des peines prévus par la loi du 29 juin 1964 concernant la suspension, le sursis et la probation;
+
+2° d'une condamnation par simple déclaration de culpabilité prévue à l'[<sup>3</sup> article 27]<sup>3</sup> du Titre préliminaire du Code d'instruction criminelle;
+
+3° de la procédure de déclaration préalable de culpabilité prévue à l'article 216 du Code d'instruction criminelle;
+
+4° de la prescription de l'action publique.]<sup>1</sup>
+
+Les personnes physiques ou morales seront civilement et solidairement responsables des amendes et frais résultant des condamnations prononcées en vertu des articles 207 à 207quater contre leurs préposés ou leurs [<sup>1</sup> administrateurs, gérants ou liquidateurs, dans le cadre de l'exercice de leurs fonctions, en droit ou en fait]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2018-03-26/01, art. 93, 053; En vigueur : 09-04-2018&gt;
+
+(2)&lt;L 2022-11-20/01, art. 35, 053; En vigueur : 01-01-2023&gt;
+
+(3)&lt;L 2024-04-09/07, art. 49, 059; En vigueur : 28-04-2024&gt;
+
+##### Art. 207septies
+
+&lt;Inséré par L 1981-02-10/32, art. 11, En vigueur : 14-02-1981&gt; Le juge pourra ordonner que tout jugement ou arrêt portant condamnation à une peine d'emprisonnement prononcée en vertu des articles 207, 207bis et 207quater, soit affiché dans les lieux qu'il détermine et soit publié, éventuellement par extrait, selon le mode qu'il fixe, le tout aux frais du comité.
+
+Il pourra en être de même de toute décision prononcée en vertu de l'article 207ter portant interdiction d'exercer une activité professionnelle en Belgique ou ordonnant la fermeture d'établissements exploités dans le pays.
+
+##### Art. 207octies
+
+&lt;Inséré par L 1981-02-10/32, art. 11, En vigueur : 14-02-1981&gt; La violation du secret professionnel, tel qu'il est défini à l'article 212, sera punie conformément aux articles 66, 67 et 458 du Code pénal.
+
+##### Art. 207nonies
+
+&lt;Inséré par L 1981-02-10/32, art. 11, En vigueur : 14-02-1981&gt; § 1er. L'action publique est exercée par le ministère public.
+
+§ 2. [<sup>1</sup> Le ministère public ne peut pas engager de poursuites s'il a pris connaissance des faits à la suite d'une plainte ou d'une dénonciation d'un fonctionnaire dépourvu de l'autorisation dont il est question à l'article 29, [<sup>3</sup> § 2]<sup>3</sup>, du Code d'instruction criminelle.
+
+[<sup>3</sup> Le ministère public décide d'intenter ou non les poursuites pénales des faits dont il a pris connaissance au cours de la concertation visée à l'article 29, § 3, alinéa 2, du Code d'instruction criminelle, dans les 3 mois de la dénonciation initiale visée à l'article 29, § 3, alinéa 1er, du même Code.]<sup>3</sup>]<sup>1</sup>
+
+§ 3. [<sup>1</sup> Sans préjudice de la concertation visée à l'article 29, [<sup>3</sup> § 3, alinéa 2]<sup>3</sup>, du Code d'instruction criminelle, le procureur du Roi peut, s'il engage des poursuites pour des faits pénalement punissables aux termes du présent Code ou des arrêtés pris pour son exécution, demander l'avis du [<sup>2</sup> conseiller général]<sup>2</sup> compétent. Le procureur du Roi joint à sa demande d'avis les éléments de fait dont il dispose. Le directeur régional répond à cette demande dans les quatre mois de la date de sa réception.
+
+En aucun cas, la demande d'avis n'est suspensive de l'action publique.]<sup>1</sup>
+
+§ 4. [...] &lt;L 1999-03-15/31, art. 86, En vigueur : 06-04-2011&gt;
+
+§ 5. [...] &lt;L 1992-12-28/32, art. 57, En vigueur : 01-03-1993&gt;
+
+----------
+
+(1)&lt;L 2012-09-20/47, art. 32, 004; En vigueur : 01-11-2012&gt;
+
+(2)&lt;L 2016-04-27/04, art. 104, 018; En vigueur : 16-05-2016&gt;
+
+(3)&lt;L 2019-05-05/10, art. 87, 040; En vigueur : 01-01-2020&gt;
+
+##### Art. 207decies
+
+&lt;Inséré par L 1986-08-04/38, art. 82, En vigueur : 01-02-1987&gt; Sous peine de nullité de l'acte de procédure, les fonctionnaires de [<sup>2</sup> l'administration en charge de l'établissement ou de la perception et du recouvrement des [<sup>3</sup> droits et taxes divers]<sup>3</sup> établies par le Code]<sup>2</sup> et de l'administration de l'inspection spéciale des impôts ne peuvent être entendus que comme témoins.
+
+[L'alinéa 1er n'est pas applicable aux fonctionnaires de ces administrations détachés auprès du parquet en vertu de l'article 71 de la loi du 28 décembre 1992.] &lt;L 1992-12-28/32, art. 58, En vigueur : 10-01-1993&gt;
+
+[L'alinéa 1er n'est pas non plus applicable aux fonctionnaires de ces administrations mis, en vertu de l'article 31 de la loi du 30 mars 1994 portant exécution du plan global en matière de fiscalité, à la disposition [de la police fédérale].] &lt;L 1994-03-30/39, art. 38, En vigueur : 10-04-1994&gt; &lt;L 2002-03-13/39, art. 5, En vigueur : 01-01-2001&gt;
+
+[<sup>1</sup> L'alinéa 1er n'est pas applicable aux fonctionnaires qui prennent part à la concertation visée à l'article 29, alinéa 3, du Code d'instruction criminelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2012-09-20/47, art. 33, 004; En vigueur : 01-11-2012&gt;
+
+(2)&lt;L 2014-04-25/36, art. 93, 014; En vigueur : 16-05-2014&gt;
+
+(3)&lt;L 2016-04-27/04, art. 105, 018; En vigueur : 16-05-2016&gt;
+
+##### Art. 208
+
+&lt;L 1969-07-10/33, art. 6, En vigueur : 01-01-1970&gt; Sont assimilées à l'État pour l'application des dispositions légales sur [les droits et taxes visés au présent Code] : &lt;L 2006-12-19/33, art. 60, En vigueur : 01-01-2007&gt;
+
+1° la Société nationale des chemins de fer belges;
+
+2° la Société nationale des chemins de fer vicinaux;
+
+3° la Société des transports intercommunaux de Bruxelles;
+
+4° les sociétés de transports intercommunaux régies par la loi relative à la création de sociétés de transports en commun urbain.
+
+[<sup>1</sup> 5° HR Rail]<sup>1</sup>
+
+----------
+
+(1)&lt;AR 2013-12-11/02, art. 80, 011; En vigueur : 01-01-2014&gt;
+
+##### Art. 209
+
+&lt;L 1999-03-04/52, art. 4, En vigueur : 10-05-1999&gt; La Compagnie des installations maritimes de Bruges, la Société nationale des distributions d'eau, instituée par la loi du 26 août 1913, ainsi que les associations de communes pour l'établissement de services de distribution d'eau ou pour les objets d'intérêt communal, formées selon les conditions de la loi du 22 décembre 1986 relative aux intercommunales, sont assimilées aux communes pour l'application de ce Code.
+
+##### Art. 210
+
+&lt;L 1999-03-15/31, art. 87, En vigueur : 06-04-1999&gt; Les délais d'opposition, d'appel et de cassation, ainsi que l'opposition, l'appel et le pourvoi en cassation sont suspensifs de l'exécution de la décision de justice.
+
+##### Art. 210bis
+
+&lt;L 2004-12-27/30, art. 385, En vigueur : 10-01-2005&gt; La requête introduisant le pourvoi en cassation et la réponse au pourvoi peuvent être signées et déposées par un avocat.
+
+### Titre V. [[<sup>1</sup> Dispositions communes]<sup>1</sup> à tous les impôts] &lt;Ancien titre XVI (art. 211) inséré par ADR 1947-11-25/01, art. 6; renuméroté comme titre V et intitulé modifié par L 2006-12-19/33, art. 61, En vigueur : 01-01-2007&gt;
+
+----------
+
+(1)&lt;L 2013-08-17/31, art. 14, 010; En vigueur : 01-01-2013&gt;
+
+##### Art. 211
+
+&lt;ADR 1950-02-20/11, art. 1&gt; § 1er. Les services administratifs de l'État, y compris les parquets et les greffes des cours et tribunaux, les administrations des provinces et des communes, ainsi que les organismes et établissements publics sont tenus, lorsqu'ils en sont requis par un fonctionnaire de l'une des administrations de l'État chargées de l'établissement ou du recouvrement des impôts, de lui fournir tous renseignements en leur possession, de lui communiquer, sans déplacement, tous actes, pièces, registres et documents quelconques qu'ils détiennent et de lui laisser prendre tous renseignements, copie ou extraits, que ledit fonctionnaire juge nécessaires pour assurer l'établissement ou la perception des impôts perçus par l'État.
+
+Par organismes publics, il faut entendre, au v½u de la présente loi, les institutions, sociétés, associations, établissements et offices à l'administration desquels l'État participe, auxquels l'État fournit une garantie, sur l'activité desquels l'État exerce une surveillance ou dont le personnel de direction est désigné par le gouvernement, sur sa proposition ou moyennant son approbation.
+
+[Cependant, cette obligation n'est pas applicable du vivant des testateurs et donateurs, aux actes de notaires visés à l'article 5 pour autant qu'ils concernent des testaments déposés auprès des notaires ou des actes portant donation des biens futurs entre époux.] &lt;L 2006-12-19/33, art. 62, 1°, En vigueur : 01-01-2007&gt;
+
+[<sup>1</sup> Toutefois, les actes, pièces, registres et documents ou renseignements relatifs à des procédures judiciaires ne peuvent être communiqués ou copiés sans l'autorisation expresse du ministère public.]<sup>1</sup>
+
+L'alinéa 1er n'est pas applicable à l'Office des chèques postaux, à l'Institut national de statistique, ni aux établissements de crédit. D'autres dérogations à cette disposition peuvent être apportées par des arrêtés royaux contresignés par le Ministre des Finances.
+
+§ 2. Tout renseignement, pièce, procès-verbal ou acte découvert ou obtenu dans l'exercice de ses fonctions, par un agent d'une administration fiscale de l'État, soit directement, soit par l'entremise d'un des services désignés ci-dessus, peut être invoqué par l'État pour la recherche de toute somme due en vertu des lois d'impôts.
+
+[Le fonctionnaire [du Service public fédéral Finances] est autorisé à retenir les actes et écrits qui lui sont présentés en contravention aux dispositions du présent Code ou avec les arrêtés pris en exécution de celui-ci, en vue de les joindre à ses procès-verbaux à moins que les contrevenants signent ces procès-verbaux ou n'acquittent sur-le-champ les droits ou taxes et l'amende encourue.] &lt;L 2006-12-19/33, art. 62, 2°, En vigueur : 01-01-2007&gt; &lt;L 2009-12-23/04, art. 156, En vigueur : 09-01-2010&gt;
+
+Néanmoins la présentation à l'enregistrement des procès-verbaux et des rapports d'expertise relatifs à des procédures judiciaires ne permet à l'Administration d'invoquer ces actes que moyennant l'autorisation prévue à l'alinéa 3 du § 1er.
+
+§ 3. [Toutes les administrations qui ressortissent du Service public fédéral Finances sont tenues de mettre à disposition de tous les agents dudit Service public régulièrement chargés de l'établissement ou du recouvrement des impôts tous les renseignements adéquats, pertinents et non excessifs en leur possession, qui contribuent à la poursuite de la mission de ces agents en vue de l'établissement ou du recouvrement de n'importe quel impôt établi par l'Etat.
+
+Tout agent du Service public fédéral Finances, régulièrement chargé d'effectuer un contrôle ou une enquête, est de plein droit habilité à prendre, rechercher ou recueillir les renseignements adéquats, pertinents et non excessifs, qui contribuent à assurer l'établissement ou le recouvrement de n'importe quel autre impôt établi par l'Etat.] &lt;L 2009-12-23/04, art. 156, En vigueur : 09-01-2010&gt;
+
+----------
+
+(1)&lt;L 2013-01-14/07, art. 2, 007; En vigueur : 10-02-2013&gt;
+
+##### Art. 211bis
+
+[<sup>1</sup> § 1er. Le présent article établit les règles et procédures selon lesquelles la Belgique et les autres Etats membres de l'Union européenne coopèrent entre eux aux fins d'échanger les informations vraisemblablement pertinentes pour l'administration et l'application de la législation interne de tous les Etats membres relative aux droits et taxes divers.
+
+Le présent article énonce également les dispositions régissant l'échange des informations visées à l'alinéa premier par voie électronique.
+
+Le présent article n'affecte pas l'application des règles relatives à l'entraide judiciaire réciproque en matière pénale. Il ne porte pas non plus atteint aux obligations dans les Etats membres en matière de coopération administrative plus étendue qui résulteraient d'autres instruments juridiques, y compris d'accords bilatéraux ou multilatéraux.
+
+§ 2. Aux fins du présent article, on entend par :
+
+1° "directive" : la directive 2011/16/UE du Conseil du 15 février 2011 relative à la coopération administrative dans le domaine fiscal et abrogeant la directive 77/799/CEE;
+
+2° "Etat membre" : un Etat membre de l'Union européenne;
+
+3° "bureau central de liaison" : le bureau qui a été désigné comme tel par l'autorité compétente et qui est le responsable privilégié des contacts avec les autres Etats membres dans le domaine de la coopération administrative;
+
+4° "service de liaison" : tout bureau autre que le bureau central de liaison qui a été désigné comme tel par l'autorité compétente pour échanger directement des informations en vertu du présent article;
+
+5° "fonctionnaire compétent" : tout fonctionnaire qui est autorisé par l'autorité compétente à échanger directement des informations en vertu du présent article;
+
+6° "autorité compétente belge" : l'autorité désignée en tant que telle par la Belgique. Le bureau central de liaison belge, les services de liaison belges et les fonctionnaires compétents belges sont également considérés comme l'autorité compétente belge par délégation;
+
+7° "autorité compétente étrangère" : l'autorité désignée en tant que telle par un Etat membre autre que la Belgique. Le bureau central de liaison, les services de liaison et les fonctionnaires compétents de cet Etat membre sont également considérés comme l'autorité compétente étrangère par délégation;
+
+8° "autorité requérante" : le bureau central de liaison, un service de liaison ou tout fonctionnaire compétent d'un Etat membre qui formule une demande d'assistance au nom de l'autorité compétente belge ou d'une autorité compétente étrangère;
+
+9° "autorité requise" : le bureau central de liaison, un service de liaison ou tout fonctionnaire compétent d'un Etat membre qui reçoit une demande d'assistance au nom de l'autorité compétente belge ou d'une autorité compétente étrangère;
+
+10° "enquête administrative" : l'ensemble des contrôles, vérifications et actions réalisés par les Etats membres dans l'exercice de leurs responsabilités en vue d'assurer la bonne application de la législation fiscale;
+
+11° [<sup>3</sup> a) pour l'application des paragraphes 6, alinéa 1er, 6/1, et 6/3, la fourniture systématique à un autre Etat membre, sans demande préalable, d'information prédéfinies, à intervalles réguliers préalablement fixés :
+
+b) pour l'application de toutes les dispositions du présent article autres que celles des paragraphes 6, alinéa 1er, 6/1, et 6/3 précités, la fourniture systématique des informations prédéfinies conformément aux points a) et b) du présent point]<sup>3</sup>
+
+12° "échange spontané" : la communication ponctuelle, à tout moment et sans demande préalable, d'informations à un autre Etat membre;
+
+13° "personne" :
+
+a. une personne physique;
+
+b. une personne morale;
+
+c. lorsque la législation en vigueur le prévoit, une association de personnes à laquelle est reconnue la capacité d'accomplir des actes juridiques, mais qui ne possède pas le statut de personne morale; ou
+
+d. toute autre construction juridique quelles que soient sa nature et sa forme, dotée ou non de la personnalité juridique, possédant ou gérant des actifs qui, y compris le revenu qui en dérive, sont soumis à l'un des impôts relevant de la directive ;
+
+14° "par voie électronique" : au moyen d'équipements électroniques de traitement - y compris la compression numérique - et de stockage des données, par liaison filaire, radio, procédés optiques ou tout autre procédé électromagnétique;
+
+15° "réseau CCN" : la plate-forme commune fondée sur le réseau commun de communication, mise au point par l'Union européenne pour assurer toutes les transmissions par voie électronique entre autorités compétentes dans les domaines douanier et fiscal;
+
+[<sup>2</sup> 16° "décision fiscale anticipée en matière transfrontière" : tout accord, toute communication, ou tout autre instrument ou action ayant des effets similaires, y compris lorsqu'il est émis, modifié ou renouvelé dans le contexte d'un contrôle fiscal, et qui remplit les conditions cumulatives suivantes :
+
+a) est émis, modifié ou renouvelé par le SPF Finances, que ces décisions soient effectivement utilisées ou non;
+
+b) est émis, modifié ou renouvelé, à l'intention d'une personne ou d'un groupe de personnes, et pour autant que cette personne ou ce groupe de personnes ait le droit de s'en prévaloir;
+
+c) porte sur l'interprétation ou l'application d'une disposition législative ou administrative concernant l'administration ou l'application du Code et des dispositions autonomes liées aux droits et taxes divers;
+
+d) se rapporte à une opération transfrontière et
+
+e) est établi préalablement au dépôt d'une déclaration fiscale couvrant la période au cours de laquelle l'opération, la série d'opérations ou les activités ont eu lieu.
+
+17° "opération transfrontière" telle que mentionnée au 16° : une opération ou une série d'opérations qui remplit une ou plusieurs des conditions suivantes :
+
+a) dans lesquelles toutes les parties à l'opération ou à la série d'opérations ne sont pas résidentes fiscales sur le territoire belge ayant émis, modifié ou renouvelé la décision fiscale anticipée en matière transfrontière;
+
+b) dans lesquelles l'une des parties à l'opération ou à la série d'opérations est résidente fiscale dans plus d'une juridiction simultanément;
+
+c) lorsque cette opération ou série d'opérations a une incidence transfrontière.]<sup>2</sup>
+
+[<sup>3</sup> 18° "entreprise associée", pour l'application du paragraphe 6/3: une personne qui est liée à une autre personne au moins de l'une des façons suivantes :
+
+a) une personne participe à la gestion d'une autre personne lorsqu'elle est en mesure d'exercer une influence notable sur l'autre personne ;
+
+b) une personne participe au contrôle d'une autre personne au moyen d'une participation qui dépasse 25 % des droits de vote ;
+
+c) une personne participe au capital d'une autre personne au moyen d'un droit de propriété qui, directement ou indirectement, dépasse 25 % du capital ;
+
+d) une personne a droit à 25 % ou plus des bénéfices d'une autre personne.
+
+Si plusieurs personnes participent, comme indiqué aux points a) à d), à la gestion, au contrôle, au capital ou aux bénéfices d'une même personne, toutes les personnes concernées sont assimilées à des entreprises associées.
+
+Si les mêmes personnes participent, comme indiqué aux points a) à d), à la gestion, au contrôle, au capital ou aux bénéfices de plusieurs personnes, toutes les personnes concernées sont assimilées à des entreprises associées.
+
+Aux fins du présent point, une personne qui agit avec une autre personne en ce qui concerne les droits de vote ou la détention de parts de capital d'une entité est considérée comme détenant une participation dans l'ensemble des droits de vote ou des parts de capital de ladite entité détenus par l'autre personne.
+
+En ce qui concerne les participations indirectes, le respect des critères énoncés au point c) est déterminé en multipliant les taux de détention successivement aux différents niveaux. Une personne détenant plus de 50 % des droits de vote est réputée détenir 100 % de ces droits.
+
+Une personne physique, son conjoint et ses ascendants ou descendants directs sont considérés comme une seule et unique personne.]<sup>3</sup>
+
+[<sup>4</sup> 19° "Contrôle conjoint": désigne une enquête administrative menée conjointement par les autorités compétentes de deux Etats membres ou plus, et liée à une ou plusieurs personnes présentant un intérêt commun ou complémentaire pour les autorités compétentes de ces Etats membres ;
+
+20° "Violation de données": désigne une violation de la sécurité entraînant la destruction, la perte, l'altération ou tout incident occasionnant un accès inapproprié ou non autorisé, la divulgation ou l'utilisation d'informations, y compris, mais sans s'y limiter, de données à caractère personnel transmises, stockées ou traitées d'une autre manière, à la suite d'actes illicites délibérés, de négligences ou d'accidents. Une violation de données peut concerner la confidentialité, la disponibilité et l'intégrité des données.]<sup>4</sup>
+
+§ 3. L'autorité compétente belge échange les informations avec les autorités compétentes étrangères.
+
+§ 4. L'autorité compétente belge peut, dans un cas particulier, demander à une autorité compétente étrangère de lui communiquer toutes les informations visées au § 1er, dont celle-ci dispose ou qu'elle a obtenues à la suite d'une enquête administrative. La demande peut comprendre une demande motivée portant sur une enquête administrative précise.
+
+L'autorité compétente belge peut demander à l'autorité requérante de lui communiquer les documents originaux.
+
+§ 5. L'autorité compétente belge communique à une autorité compétente étrangère qui les lui demande dans un cas particulier, toutes les informations visées au § 1er, dont elle dispose ou qu'elle a obtenues suite à l'exécution d'une enquête administrative nécessaire à l'obtention de ces informations.
+
+Le cas échéant, l'autorité compétente belge avise l'autorité requérante des raisons pour lesquelles elle estime qu'une enquête administrative n'est pas nécessaire.
+
+Pour obtenir les informations demandées ou pour procéder à l'enquête administrative demandée, l'autorité compétente belge suit les mêmes procédures que si elle agissait d'initiative ou à la demande d'une autre instance belge.
+
+En cas de demande expresse de l'autorité requérante, l'autorité compétente belge communique les documents originaux sauf si les dispositions belges s'y opposent.
+
+Les communications sont effectuées par l'autorité compétente belge le plus rapidement possible, et [<sup>4</sup> au plus tard trois mois]<sup>4</sup> à compter de la date de réception de la demande. Toutefois, lorsque l'autorité compétente belge est déjà en possession des informations concernées, les communications sont effectuées dans un délai de deux mois suivant cette date. Pour certains cas particuliers l'autorité compétente belge et l'autorité requérante peuvent fixer d'un commun accord des délais différents.
+
+L'autorité compétente belge accuse réception de la demande immédiatement à l'autorité requérante, si possible par voie électronique, et en tout état de cause au plus tard sept jours ouvrables après l'avoir reçue.
+
+L'autorité compétente belge notifie à l'autorité requérante les éventuelles lacunes constatées dans la demande ainsi que, le cas échéant, la nécessité de fournir d'autres renseignements de caractère général, dans un délai d'un mois suivant la réception de la demande. Dans ce cas, les délais fixés à l'alinéa cinq débutent à la date à laquelle l'autorité compétente belge a reçu les renseignements complémentaires.
+
+Lorsque l'autorité compétente belge n'est pas en mesure de répondre à la demande dans le délai prévu, elle informe l'autorité requérante immédiatement, et en tout état de cause dans les trois mois suivant la réception de la demande, des motifs qui expliquent le non-respect de ce délai ainsi que de la date à laquelle elle estime pouvoir y répondre. [<sup>4</sup> Ce délai ne peut excéder six mois à compter de la date de réception de la demande.]<sup>4</sup>
+
+Lorsque l'autorité compétente belge ne dispose pas des informations demandées et n'est pas en mesure de répondre à la demande d'informations ou refuse d'y répondre pour les motifs visés au § 20, elle informe l'autorité requérante de ses raisons immédiatement, et en tout état de cause dans un délai d'un mois suivant la réception de la demande.
+
+[<sup>4</sup> § 5/1. Aux fins d'une demande visée au paragraphe 4 et au paragraphe 5, les informations demandées sont réputées être vraisemblablement pertinentes lorsque, au moment de l'introduction de la demande, l'autorité requérante estime que, conformément à sa législation nationale, il existe une possibilité raisonnable que les informations demandées soient pertinentes pour les affaires fiscales d'un ou plusieurs contribuables, identifiés nommément ou autrement, et justifiées aux fins de l'enquête.
+
+Dans le but de démontrer la pertinence vraisemblable des informations demandées, l'autorité compétente requérante fournit au moins à l'autorité requise les informations suivantes :
+
+a) la finalité fiscale des informations demandées ;
+
+b) la spécification des informations nécessaires à l'administration ou à l'application de son droit national.]<sup>4</sup>
+
+[<sup>4</sup> § 5/2. Une demande, telle que visée au paragraphe 4 et au paragraphe 5, peut concerner un groupe de contribuables qui ne peuvent pas être identifiés individuellement mais peuvent être désignés uniquement sur la base d'un ensemble commun de caractéristiques.
+
+En pareils cas, l'autorité compétente requérante fournit les informations suivantes à l'autorité requise :
+
+a) une description détaillée du groupe ;
+
+b) une explication du droit applicable et des faits sur la base desquels il existe des raisons de penser que les contribuables du groupe n'ont pas respecté le droit applicable ;
+
+c) une explication de la manière dont les informations demandées contribueraient à déterminer le respect, par les contribuables du groupe, de leurs obligations ;
+
+d) le cas échéant, les faits et circonstances relatifs à l'intervention d'un tiers qui a activement contribué au non-respect potentiel du droit applicable par les contribuables du groupe.]<sup>4</sup>
+
+§ 6. [<sup>4</sup> L'autorité compétente belge communique à l'autorité compétente étrangère, dans le cadre de l'échange automatique, toutes les informations dont elle dispose au sujet des personnes résidant dans cet autre Etat membre et qui concernent les catégories suivantes spécifiques de revenu et de capital au sens de la législation belge :
+
+a) revenus d'emploi ;
+
+b) tantièmes et jetons de présence ;
+
+c) produits d'assurance sur la vie non couverts par d'autres actes juridiques de l'Union concernant l'échange d'informations et d'autres mesures similaires ;
+
+d) pensions ;
+
+e) propriété et revenus de biens immobiliers ;
+
+f) redevances;
+
+[<sup>6</sup> g) revenus tirés de dividendes versés par l'intermédiaire d'un compte "non conservateur" autres que les revenus provenant de dividendes exonérés de l'impôt sur les sociétés en vertu des articles 4, 5 ou 6 de la directive 2011/96/UE du Conseil.]<sup>6</sup>
+
+Pour les périodes imposables débutant le 1er janvier 2024 ou après cette date, la communication des informations mentionnées au premier alinéa inclut le numéro d'identification fiscale (NIF) de résidents qui a été délivré par l'Etat membre de résidence.
+
+La Belgique informe chaque année la Commission d'au minimum deux catégories de revenu et de capital mentionnées au premier alinéa, pour lesquelles ils communiquent des informations au sujet de résidents dans un autre Etat membre.]<sup>4</sup>
+
+[<sup>6</sup> Avant le 1er janvier 2026, la belgique informent la Commission d'au minimum cinq catégories énumérées à l'alinéa 1er, pour lesquelles elle communique, par échange automatique, à l'autorité compétente de tout autre Etat membre, des informations au sujet de résidents de cet autre Etat membre. Ces informations concernent les périodes imposables débutant le 1er janvier 2026 ou après cette date.]<sup>6</sup>
+
+La communication des informations est effectuée au moins une fois par an, et au plus tard six mois après la fin de l'année civile au cours de laquelle les informations sont devenues disponibles.
+
+Les "informations disponibles" désignent des informations figurant dans les dossiers fiscaux de l'Etat membre qui communique les informations et pouvant être consultées conformément aux procédures de collecte et de traitement des informations applicables dans cet Etat membre.
+
+[<sup>2</sup> § 6/1. Dans le cadre de l'échange automatique et obligatoire d'informations sur les décisions fiscales anticipées en matière transfrontière, les conditions sont les suivantes :
+
+1° l'autorité compétente belge communique, par échange automatique, des informations, aux autorités compétentes de tous les autres Etats membres ainsi qu'à la Commission européenne, excepté dans les cas visés au 6° du présent paragraphe, conformément aux modalités pratiques applicables adoptées en vertu du § 24 lorsqu'une décision fiscale anticipée en matière transfrontière a été émise, modifiée ou renouvelée après le 31 décembre 2016.
+
+2° l'autorité compétente belge communique également, conformément aux modalités pratiques applicables adoptées en vertu du § 24, des informations aux autorités compétentes de tous les autres Etats membres ainsi qu'à la Commission européenne, excepté dans les cas visés au 6° du présent paragraphe, sur les décisions fiscales anticipées en matière transfrontière émises, modifiées ou renouvelées au cours d'une période commençant cinq ans avant le 1er janvier 2017.
+
+Si des décisions fiscales anticipées en matière transfrontière sont émises, modifiées ou renouvelées entre le 1er janvier 2012 et le 31 décembre 2013, cette communication est effectuée à condition que ces décisions fussent toujours valables au 1er janvier 2014.
+
+Si des décisions fiscales anticipées en matière transfrontière sont émises, modifiées ou renouvelées entre le 1er janvier 2014 et le 31 décembre 2016, cette communication est effectuée, que ces décisions soient toujours valables ou non.
+
+3° [<sup>6</sup> les 1° et 2° ne sont pas applicables lorsqu'une décision fiscale anticipée en matière transfrontière concerne et implique exclusivement les affaires fiscales d'une ou de plusieurs personnes physiques, sauf lorsque cette décision a été émise, modifiée ou renouvelée après le 1er janvier 2026 et lorsque :
+
+a) le montant de l'opération ou de la série d'opérations sur laquelle porte la décision fiscale anticipée en matière transfrontière dépasse 1.500.000 euros (ou un montant équivalent dans une autre devise), si un tel montant est visé dans la décision fiscale anticipée en matière transfrontière ; ou
+
+b) la décision fiscale anticipée en matière transfrontière détermine si une personne est ou non résidente fiscale dans l'Etat membre qui émet la décision.
+
+Aux fins du point a), et sans préjudice du montant visé dans la décision fiscale anticipée en matière transfrontière, dans une série d'opérations portant sur différents biens, services ou actifs, le montant de la décision anticipée en matière transfrontière comprend la valeur sous-jacente totale. Les montants ne sont pas agrégés si les mêmes biens, services ou actifs font l'objet de plusieurs transactions.
+
+Nonobstant le point b), l'échange d'informations sur les décisions fiscales anticipées en matière transfrontière concernant des personnes physiques n'inclut pas les décisions fiscales relatives à l'imposition à la source concernant les revenus d'emploi, les tantièmes et jetons de présence ou les pensions des non-résidents.]<sup>6</sup>
+
+4° L'échange d'informations est effectué comme suit :
+
+a) [<sup>4</sup> pour les informations échangées en application du 1° : sans tarder après l'émission, la modification ou le renouvellement des décisions fiscales anticipées en matière transfrontière ou des accords préalables en matière de prix de transfert et au plus tard trois mois après la fin du semestre de l'année civile au cours duquel les décisions fiscales anticipées en matière transfrontière ou les accords préalables en matière de prix de transfert ont été émis, modifiés ou renouvelés ;]<sup>4</sup>
+
+b) pour les informations échangées en application du 2° : avant le 1er janvier 2018.
+
+5° Les informations qui doivent être communiquées par l'autorité compétente belge en application des points 1° et 2°, comprennent les éléments suivants :
+
+a) [<sup>6</sup> l'identification de la personne morale, sauf lorsque la décision fiscale anticipée en matière transfrontière concerne une personne physique et est communiquée conformément aux 1° et 4° et, le cas échéant, du groupe de personnes auquel celle-ci appartient ;]<sup>6</sup>
+
+b) [<sup>4</sup> un résumé de la décision fiscale anticipée en matière transfrontière ou de l'accord préalable en matière de prix de transfert, y compris une description des activités commerciales, opérations ou séries d'opérations concernées et toute autre information qui pourrait aider l'autorité compétente à évaluer un risque fiscal potentiel, sans donner lieu à la divulgation d'un secret commercial, industriel ou professionnel, d'un procédé commercial ou d'informations dont la divulgation serait contraire à l'ordre public]<sup>4</sup>;
+
+c) les dates de l'émission, de la modification ou du renouvellement de la décision fiscale anticipée en matière transfrontière;
+
+d) la date de début de la période de validité de la décision fiscale anticipée en matière transfrontière, si elle est spécifiée;
+
+e) la date de la fin de la période de validité de la décision fiscale anticipée en matière transfrontière, si elle est spécifiée;
+
+f) le type de décision fiscale anticipée en matière transfrontière;
+
+g) le montant de l'opération ou de la série d'opérations sur laquelle porte la décision fiscale anticipée en matière transfrontière, si un tel montant est visé dans la décision fiscale anticipée en matière transfrontière;
+
+h) l'identification des autres Etats membres, le cas échéant, qui seraient susceptibles d'être concernés par la décision fiscale anticipée en matière transfrontière;
+
+i) [<sup>6</sup> l'identification, dans les autres Etats membres, le cas échéant, de toute personne morale, sauf lorsque la décision fiscale anticipée en matière transfrontière concerne une personne physique et est communiquée conformément aux 1° et 4°, susceptible d'être concernée par la décision fiscale anticipée en matière transfrontière ou l'accord préalable en matière de prix de transfert, en indiquant à quels Etats membres les personnes concernées sont liées; et]<sup>6</sup>
+
+6° Les informations définies au 5°, a), b), et i), du présent paragraphe ne sont pas communiquées à la Commission européenne.
+
+7° L'autorité compétente belge accuse réception des informations, si possible par voie électronique, auprès de l'autorité compétente qui les lui a communiquées, sans tarder et en tout état de cause au plus tard sept jours ouvrables. Cette mesure est applicable jusqu'à ce que le répertoire visé au § 24, alinéas 3 et 4, devienne opérationnel.
+
+8° L'autorité compétente belge peut, conformément au § 4, et eu égard aux dispositions du § 24, alinéa 2, demander des informations complémentaires, y compris le texte intégral d'une décision fiscale anticipée en matière transfrontière.
+
+[<sup>6</sup> Pour les périodes imposables débutant le 1er janvier 2028 ou après cette date, la communication des informations mentionnées au 6° a) et k) de l'alinéa 1er inclut le numéro d'identification fiscale (NIF) de résident qui a été délivré par la juridiction de résidence.]<sup>6</sup>
+
+§ 6/2. [<sup>6</sup> L'autorité compétente belge communique à la Commission, sur une base annuelle, des statistiques sur le volume des échanges automatiques en application des §§ 6, et 6/1, ainsi que des informations sur les coûts et bénéfices, administratifs et autres, liés aux échanges qui ont eu lieu et aux changements éventuels, tant pour les administrations fiscales que pour des tiers.
+
+L'autorité compétente belge communique à la Commission toutes les informations pertinentes nécessaires à l'évaluation de l'efficacité de la coopération administrative prévue par le présent article au regard de la lutte contre la fraude et l'évasion fiscales.
+
+L'autorité compétente belge contrôle et évalue, l'efficacité de la coopération administrative prévue par le présent article, notamment pour ce qui est de la lutte contre l'évasion fiscale, et communique à la Commission les résultats de son évaluation une fois par an au moyen du formulaire et selon les modalités prévues par la Commission.]<sup>6</sup>]<sup>2</sup>
+
+[<sup>3</sup> § 6/3. L'autorité belge compétente communique dans le délai prévu à l'alinéa 3 les données visées à l'alinéa 2, concernant les dispositifs transfrontières dont elle a été informée par l'intermédiaire ou le contribuable concerné conformément aux articles 211bis/1 à 211bis/8, par voie d'un échange automatique avec les autorités compétentes de tous les autres Etats membres.
+
+Les informations qui doivent être communiquées par l'autorité belge compétente en vertu de l'alinéa précédent comprennent les éléments suivants, le cas échéant :
+
+1° [<sup>6</sup> l'identification des intermédiaires et des contribuables concernés, visés à l'article 211bis/1, 4° et 5°, autres que les intermédiaires dispensés de déclaration en raison du secret professionnel auquel ils sont tenus en application de l'article 221bis/7, y compris leur nom, leur date et lieu de naissance (pour les personnes physiques), leur résidence fiscale, leur numéro fiscal d'identification et, le cas échéant, les personnes qui sont, conformément au paragraphe 2, 21°, des entreprises associées au contribuable concerné ;]<sup>6</sup>
+
+2° des informations détaillées sur les marqueurs visés à l'article 211bis/1 selon lesquels le dispositif transfrontière doit faire l'objet d'une déclaration ;
+
+3° [<sup>6</sup> un résumé du contenu du dispositif transfrontière devant faire l'objet d'une déclaration, y compris une référence à la dénomination par laquelle il est communément connu, le cas échéant, et une description des dispositifs pertinents et toute autre information susceptible d'aider l'autorité compétente à évaluer un risque fiscal potentiel, sans donner lieu à la divulgation d'un secret commercial, industriel ou professionnel, d'un procédé commercial ou d'informations dont la divulgation serait contraire à l'ordre public ;]<sup>6</sup>
+
+4° la date à laquelle la première étape de la mise en oeuvre du dispositif transfrontière devant faire l'objet d'une déclaration a été accomplie ou sera accomplie ;
+
+5° des informations détaillées sur les dispositions nationales sur lesquelles se fondent le dispositif transfrontière devant faire l'objet d'une déclaration ;
+
+6° la valeur du dispositif transfrontière devant faire l'objet d'une déclaration ;
+
+7° l'identification de l'Etat membre du ou des contribuable(s) concerné(s) ainsi que de tout autre Etat membre susceptible d'être concerné par le dispositif transfrontière devant faire l'objet d'une déclaration ;
+
+8° l'identification, dans les Etats membres, de toute autre personne susceptible d'être concernée par le dispositif transfrontière devant faire l'objet d'une déclaration en indiquant à quels Etats membres cette personne est liée.
+
+L'échange automatique est effectué dans un délai d'un mois à compter de la fin du trimestre au cours duquel les informations ont été transmises. Les premières informations sont communiquées le 31 octobre 2020 au plus tard.
+
+Les informations visées à l'alinéa 2, 1°, 3° et 8° du présent paragraphe ne sont pas communiquées à la Commission européenne.]<sup>3</sup>
+
+[<sup>6</sup> Pour les périodes imposables débutant le 1er janvier 2028 ou après cette date, la communication des données concernant les dispositifs transfrontières, inclut le numéro d'identification fiscale (NIF) des personnes visées à l'alinéa 2, 8°.]<sup>6</sup>
+
+§ 7. Dans les cas suivants, l'autorité compétente belge communique spontanément à l'autorité compétente étrangère les informations visées au § 1er :
+
+1° l'autorité compétente belge a des raisons de présumer qu'il peut exister une perte d'impôt ou de taxe dans l'autre Etat membre;
+
+2° un contribuable obtient, en Belgique, une réduction ou une exonération de taxe ou d'impôt qui devrait entraîner pour lui une augmentation de taxe ou d'impôt ou un assujettissement à une taxe ou à l'impôt dans l'autre Etat membre;
+
+3° des affaires entre un contribuable en Belgique et un contribuable d'un autre Etat membre sont traitées dans un ou plusieurs pays, de manière à pouvoir entraîner une diminution de taxe ou d'impôt dans l'un ou l'autre Etat membre ou dans les deux;
+
+4° l'autorité compétente belge a des raisons de présumer qu'il peut exister une diminution de taxe ou d'impôt résultant de transferts fictifs de bénéfices à l'intérieur de groupes d'entreprises;
+
+5° l'autorité compétente belge, à la suite des informations communiquées par une autorité compétente étrangère, a recueilli des informations qui sont adéquates, pertinentes et non excessives pour l'établissement d'une taxe ou de l'impôt dans cet autre Etat membre.
+
+L'autorité compétente belge peut communiquer spontanément à une autorité compétente étrangère les informations dont elle a connaissance et qui sont adéquates, pertinentes et non excessives à cet autorité compétente étrangère.
+
+L'autorité compétente belge qui dispose d'informations visées à l'alinéa 1er les communique à l'autorité compétente étrangère de tout Etat membre intéressé le plus rapidement possible, et au plus tard un mois après que lesdites informations sont disponibles.
+
+§ 8. L'autorité compétente belge à laquelle des informations visées au § 7 sont communiquées en accuse réception, si possible par voie électronique, auprès de l'autorité compétente étrangère qui les lui a communiquées, immédiatement et en tout état de cause au plus tard sept jours ouvrables après les avoir reçues.
+
+§ 9. [<sup>4</sup> Aux fins de l'échange des informations visées au § 1er, l'autorité compétente belge peut demander à une autorité compétente étrangère que des fonctionnaires habilités par la première et sous les conditions fixées par l'autorité compétente étrangère, puissent :
+
+1° être présents, sur le territoire de l'Etat membre, dans les bureaux où les autorités administratives de l'Etat membre exécutent leurs tâches ;
+
+2° assister aux enquêtes administratives réalisées sur le territoire de l'autorité compétente étrangère ;
+
+3° participer aux enquêtes administratives réalisées sur le territoire de l'autre Etat membre en utilisant des moyens de communication électroniques, le cas échéant.
+
+Dans les cas où des fonctionnaires habilités par la Belgique assistent aux enquêtes administratives ou y participent en recourant à des moyens de communication électroniques, ils peuvent interroger des personnes et examiner des documents, sous réserve des modalités de procédure définies par l'autorité compétente étrangère.]<sup>4</sup>
+
+§ 10. [<sup>4</sup> Aux fins de l'échange des informations visées au § 1er, l'autorité compétente d'un Etat membre peut demander à l'autorité compétente belge que des fonctionnaires habilités par la première et sous les conditions fixées par l'autorité compétente belge, puissent :
+
+1° être présents, en Belgique, dans les bureaux où le SPF Finances exécute ses tâches ;
+
+2° assister aux enquêtes administratives réalisées sur le territoire belge ;
+
+3° participer aux enquêtes administratives réalisées sur le territoire belge en utilisant des moyens de communication électroniques, le cas échéant.
+
+L'autorité compétente belge répond à la demande présentée conformément à l'alinéa 1er dans un délai de 60 jours suivant la réception de la demande, afin de confirmer son accord ou de signifier à l'autorité compétente étrangère son refus motivé.
+
+Lorsque les informations demandées figurent dans des documents auxquels les fonctionnaires de l'autorité compétente belge ont accès, les fonctionnaires de l'autorité requérante en reçoivent des copies.
+
+Dans les cas où des fonctionnaires de l'autorité requérante assistent aux enquêtes administratives ou y participent en recourant à des moyens de communication électroniques, ils peuvent interroger des personnes et examiner des documents, sous réserve des modalités de procédure définies par l'autorité compétente belge.
+
+Tout refus d'une personne faisant l'objet d'une enquête de se conformer aux mesures d'inspection des fonctionnaires de l'autorité requérante est considéré par l'autorité compétente belge comme un refus opposé à ses propres fonctionnaires.
+
+Les fonctionnaires habilités par l'Etat membre requérant, présents en Belgique conformément à l'alinéa 1er, doivent toujours être en mesure de présenter un mandat écrit précisant leur identité et leur qualité officielle.]<sup>4</sup>
+
+§ 11. Lorsque la Belgique convient avec un ou plusieurs autres Etats membres de procéder, chacun sur leur propre territoire, à des contrôles simultanés en ce qui concerne une ou plusieurs personnes présentant pour eux un intérêt commun ou complémentaire, en vue d'échanger les informations ainsi obtenues, ce § s'applique.
+
+L'autorité compétente belge identifie de manière indépendante les personnes qu'elle a l'intention de proposer pour un contrôle simultané. Elle informe l'autorité compétente étrangère des Etats membres concernés de tous les dossiers pour lesquels elle propose un contrôle simultané, en motivant son choix. Elle indique le délai dans lequel le contrôle doit être réalisé.
+
+Lorsqu'un contrôle simultané a été proposé à l'autorité compétente belge, celle-ci décide si elle souhaite participer au contrôle simultané. Elle confirme son accord à l'autorité compétente étrangère ayant proposé le contrôle ou lui signifie son refus en le motivant [<sup>4</sup> dans un délai de 60 jours à compter de la réception de la proposition]<sup>4</sup>.
+
+L'autorité compétente belge désigne un représentant chargé de superviser et de coordonner le contrôle.
+
+[<sup>4</sup> § 11/1. L'autorité compétente d'un ou de plusieurs Etats membres peut demander à l'autorité compétente belge de mener un contrôle conjoint. L'autorité compétente belge accepte ou refuse la demande de contrôle conjoint dans un délai de 60 jours à compter de la réception de celle-ci et motive sa décision en cas de refus.
+
+Les contrôles conjoints sont menés de manière convenue au préalable et coordonnée, y compris en ce qui concerne le régime linguistique, par l'autorité compétente de l'Etat membre requérant, par l'autorité compétente belge et, le cas échéant, par les autorités compétentes des autres Etats membres requis, et conformément à la législation et aux exigences procédurales belge. L'autorité compétente belge désigne un représentant chargé de superviser et de coordonner le contrôle conjoint sur le territoire belge.
+
+Les droits et obligations des fonctionnaires des Etats membres qui participent au contrôle conjoint sur le territoire belge, sont déterminés conformément à la législation belge.
+
+Tout en respectant cette législation, les fonctionnaires d'un autre Etat membre n'exercent aucun pouvoir qui irait au-delà des pouvoirs qui leur sont conférés par la législation de leur Etat membre.
+
+Sans préjudice des alinéas 2 et 3 et aux fins des contrôles conjoints visés à l'alinéa 1er, réalisés sur le territoire belge, les fonctionnaires d'autres Etats membres qui participent aux activités du contrôle conjoint sont autorisé à interroger des personnes et à examiner des documents en coopération avec les fonctionnaires de l'autorité compétente belge, sous réserve des modalités de procédure prévues en Belgique.
+
+Sans préjudice des alinéas 2 et 3 et aux fins des contrôles conjoints visés à l'alinéa 1er, réalisés sur le territoire belge, les éléments de preuve recueillis au cours des activités du contrôle conjoint sont évalués, y compris en ce qui concerne leur recevabilité, dans les mêmes conditions juridiques que celles qui s'appliqueraient dans le cas d'un contrôle classique effectué en Belgique par des fonctionnaires belges y compris au cours d'une procédure de réclamation, de réexamen ou de recours.
+
+Sans préjudice des alinéas 2 et 3 et aux fins des contrôles conjoints visés à l'alinéa 1er, réalisés sur le territoire belge, la ou les personnes faisant l'objet d'un contrôle conjoint ou affectées par celui-ci jouissent des mêmes droits et ont les mêmes obligations que ceux qui s'appliqueraient dans le cas d'un contrôle classique qui se déroulerait avec la seule participation des fonctionnaires belges y compris au cours d'une procédure de réclamation, de réexamen ou de recours.
+
+Lorsque l'autorité compétente belge et l'autorité compétente d'un ou de plusieurs autres Etats membres mènent un contrôle conjoint, elles s'efforcent de convenir des faits et des circonstances pertinents pour le contrôle conjoint et de parvenir à un accord concernant la position fiscale de la ou des personnes ayant fait l'objet du contrôle sur la base des résultats de ce dernier. Les conclusions du contrôle conjoint sont intégrées dans un rapport final. Les questions sur lesquelles les autorités compétentes sont d'accord figurent dans les conclusions du rapport final et sont prises en compte dans les instruments appropriés émis par les autorités compétentes des Etats membres participants à la suite de ce contrôle conjoint.
+
+La ou les personnes ayant fait l'objet d'un contrôle sont informées des résultats du contrôle conjoint et reçoivent une copie du rapport final, dans les 60 jours suivant l'émission du rapport final.]<sup>4</sup>
+
+[<sup>4</sup> § 11/2. L'autorité compétente belge peut demander à l'autorité compétente d'un ou plusieurs Etats membres de mener un contrôle conjoint.
+
+Les contrôles conjoints sont menés de manière convenue au préalable et coordonnée, y compris en ce qui concerne le régime linguistique, par les autorités compétentes concernées, et conformément à la législation et aux exigences procédurales de l'Etat membre dans lequel les activités de contrôle conjoint sont menées.
+
+Les droits et obligations des fonctionnaires belges qui participent au contrôle conjoint sur le territoire d'un autre Etat membre, sont déterminés conformément à la législation de cet Etat membre. Tout en respectant cette législation, les fonctionnaires belges n'exercent aucun pouvoir qui irait au-delà des pouvoirs qui leur sont conférés par la législation belge.
+
+Sans préjudice des alinéas 2 et 3 et aux fins des contrôles conjoints visés à l'alinéa 1er, réalisés sur le territoire d'un autre Etat membre, les éléments de preuve recueillis au cours des activités du contrôle conjoint sont évalués, y compris en ce qui concerne leur recevabilité, dans les mêmes conditions juridiques que celles qui s'appliqueraient dans le cas d'un contrôle classique effectué en Belgique par des fonctionnaires belges.
+
+Lorsque l'autorité compétente belge et l'autorité compétente d'un ou de plusieurs autres Etats membres mènent un contrôle conjoint, elles s'efforcent de convenir des faits et des circonstances pertinents pour le contrôle conjoint et de parvenir à un accord concernant la position fiscale de la ou des personnes ayant fait l'objet du contrôle sur la base des résultats de ce dernier. Les conclusions du contrôle conjoint sont intégrées dans un rapport final. Les questions sur lesquelles les autorités compétentes sont d'accord figurent dans les conclusions du rapport final et sont prises en compte dans les instruments appropriés émis par les autorités compétentes des Etats membres participants à la suite de ce contrôle conjoint.
+
+La ou les personnes ayant fait l'objet d'un contrôle sont informées des résultats du contrôle conjoint et reçoivent une copie du rapport final, dans les 60 jours suivant l'émission du rapport final.]<sup>4</sup>
+
+§ 12. L'autorité compétente belge peut demander à une autorité compétente étrangère de notifier, conformément aux règles régissant la notification des actes correspondants dans l'Etat membre requis, au destinataire, l'ensemble des actes et décisions émanant des autorités administratives belges et concernant l'application en Belgique de la législation relative aux droits et taxes divers.
+
+La demande de notification indique le nom et l'adresse du destinataire ainsi que tout autre renseignement susceptible de faciliter son identification et mentionne l'objet de l'acte ou de la décision à notifier.
+
+L'autorité compétente belge n'adresse une demande de notification que lorsqu'elle n'est pas en mesure de notifier conformément aux règles belges, ou lorsqu'une telle notification entraînerait des difficultés disproportionnées. L'autorité compétente belge peut notifier un document, par envoi recommandé ou par voie électronique, directement à une personne établie sur le territoire d'un autre Etat membre.
+
+§ 13. A la demande d'une autorité compétente étrangère, l'autorité compétente belge notifie au destinataire, conformément aux règles belges régissant la notification des actes correspondants, l'ensemble des actes et décisions émanant des autorités administratives de l'Etat membre requérant et concernant l'application sur son territoire de la législation relative aux droits et taxes divers.
+
+L'autorité compétente belge informe immédiatement l'autorité requérante de la suite qu'elle a donnée à la demande et en particulier de la date à laquelle la décision ou l'acte a été notifié au destinataire.
+
+§ 14. Lorsqu'une autorité compétente étrangère a communiqué des informations en application des §§ 4 ou 8 et qu'un retour d'informations est demandé, l'autorité compétente belge qui a reçu les informations, fournit, sans préjudice des règles relatives au secret professionnel et à la protection des données applicables en Belgique, à l'autorité compétente étrangère qui les a communiquées, le plus rapidement possible et au plus tard trois mois après que les résultats de l'exploitation des informations reçues sont connus.
+
+L'autorité compétente belge fournit une fois par an aux Etats membres concernés un retour d'informations sur l'échange automatique, selon les modalités pratiques convenues de manière bilatérale.
+
+§ 15. L'autorité compétente belge qui a communiqué des informations en application du §§ 5 ou 7, peut demander à l'autorité compétente étrangère qui les a reçues, de lui donner son avis en retour sur celles-ci.
+
+§ 16. Lorsqu'un service de liaison belge ou un fonctionnaire compétent belge reçoit une demande de coopération qui ne relève pas de la compétence qui lui est attribuée conformément à la législation belge ou à la politique belge, il la transmet sans délai au bureau central de liaison belge et en informe l'autorité compétente étrangère requérante. En pareil cas, la période prévue au § 5 commence le jour suivant celui où la demande est transmise au bureau central de liaison belge.
+
+§ 17. [<sup>6</sup> Les informations communiquées et reçues par la Belgique sous quelque forme que ce soit en application du présent article sont couvertes par le secret officiel et bénéficient de la protection accordée à des informations de même nature par le droit national de la juridiction qui les a reçues.
+
+Ces informations peuvent servir :
+
+1° à l'établissement, à l'administration et à l'application de la législation nationale des Etats membres relative aux taxes et impôts visés à l'article 2 de la directive ainsi qu'à la T.V.A., à d'autres taxes indirectes, aux droits de douane et à la lutte contre le blanchiment de capitaux et le financement du terrorisme ;
+
+2° à l'établissement et au recouvrement d'autres taxes et droits relevant de l'article 3 de la loi du 9 janvier 2012 transposant la directive 2010/24/UE du Conseil du 16 mars 2010 concernant l'assistance mutuelle en matière de recouvrement des créances relatives aux taxes, impôts, droits et autres mesures, et pour établir et recouvrer des cotisations sociales obligatoires ;
+
+3° à l'occasion de procédures judiciaires et administratives pouvant entraîner des sanctions, engagées à la suite d'infractions à la législation en matière fiscale, sans préjudice des règles générales et des dispositions légales régissant les droits des prévenus et des témoins dans le cadre de telles procédures.
+
+Avec l'autorisation de l'autorité compétente étrangère qui a communiqué les informations conformément à la Directive et pour autant que cela soit autorisé par la législation belge, les informations et documents reçus de cette autorité peuvent être utilisés à des fins autres que celles visées à l'alinéa 2.
+
+L'autorité compétente belge peut aussi se servir des informations reçues sans disposer de l'autorisation visée au troisième alinéa du présent paragraphe pour toute finalité relevant d'un acte fondé sur l'article 215 du Traité sur le fonctionnement de l'Union européenne et les partager à cette fin avec l'autorité compétente chargée des mesures restrictives dans la juridiction concernée.
+
+Lorsque l'autorité compétente belge considère que les informations qu'elle a reçues de l'autorité compétente d'une autre juridiction sont susceptibles d'être utiles à l'autorité compétente d'une troisième juridiction pour les fins visées à l'alinéa 2, elle peut les transmettre à cette dernière pour autant qu'elle informe l'autorité compétente de la juridiction à l'origine des informations de son intention de communiquer ces informations à une troisième juridiction et à condition qu'elle respecte les règles et procédures fixées dans cet article. La juridiction à l'origine des informations peut s'y opposer dans un délai de quinze jours civils à compter de la date de réception de la communication par l'autorité compétente belge.]<sup>6</sup>
+
+§ 18. L'autorité compétente belge peut autoriser l'utilisation, dans l'Etat membre qui les reçoit, des informations communiquées conformément au présent article, à d'autres fins que celles visées au § 17, alinéa 2. L'autorité compétente belge donne l'autorisation à condition que leur utilisation soit possible en Belgique à des fins similaires.
+
+[<sup>4</sup> L'autorité compétente belge communique aux autorités compétentes de tous les autres Etats membres une liste des finalités, autres que celles visées au paragraphe 1er, pour lesquelles, conformément à son droit national, des informations et documents peuvent être utilisés. L'autorité compétente qui reçoit les informations et les documents peut utiliser les informations et documents reçus sans obtenir l'autorisation visée à l'alinéa 1er pour l'une des finalités énumérées par l'autorité compétente belge.]<sup>4</sup>
+
+L'autorité compétente belge peut autoriser l'utilisation des informations transmises par une autorité compétente étrangère à une autorité compétente d'un troisième Etat membre et qui proviennent de la Belgique, dans ce troisième Etat membre pour les fins visées au § 17, alinéa 3.
+
+§ 19. Préalablement à la demande d'informations visée au § 4, l'autorité compétente belge doit d'abord avoir exploité les sources habituelles d'information auxquelles elle peut avoir recours pour obtenir les informations demandées sans risquer de nuire à la réalisation du but recherché.
+
+L'autorité compétente belge fournit à une autorité compétente étrangère les informations visées au § 5, à condition que l'autorité compétente étrangère ait déjà exploité les sources habituelles d'information auxquelles elle peut avoir recours pour obtenir les informations demandées sans risquer de nuire à la réalisation du but recherché.
+
+§ 20. L'autorité compétente belge n'est pas autorisée à procéder à des enquêtes ou de transmettre des informations dès lors que la réalisation de telles enquêtes ou la collecte des informations en question aux propres fins de la Belgique serait contraire à sa législation.
+
+L'autorité compétente belge peut refuser de transmettre des informations lorsque :
+
+1° l'Etat membre requérant n'est pas en mesure, pour des raisons juridiques, de fournir des informations similaires;
+
+2° si cela conduirait à divulguer un secret commercial, industriel ou professionnel ou un procédé commercial, ou une information dont la divulgation serait contraire à l'ordre public.
+
+L'autorité compétente belge informe l'autorité requérante des motifs du rejet de la demande d'informations.
+
+§ 21. L'autorité compétente belge met en oeuvre son dispositif de collecte de renseignements afin d'obtenir les informations demandées, même si ces dernières ne lui sont pas nécessaires pour ses propres besoins fiscaux. Cette obligation s'applique sans préjudice du § 20, alinéas 1er et 2, dont les dispositions ne sauraient en aucun cas être interprétées comme autorisant la Belgique à refuser de fournir des informations au seul motif que ces dernières ne présentent pour elle aucun intérêt.
+
+Le § 20, alinéa 1er et alinéa 2, 2°, ne saurait en aucun cas être interprété comme autorisant l'autorité compétente belge à refuser de fournir des informations au seul motif que ces informations sont détenues par une banque, un autre établissement financier, un mandataire ou une personne agissant en tant qu'agent ou fiduciaire, ou qu'elles se rapportent à une participation au capital d'une personne.
+
+Nonobstant l'alinéa 2, l'autorité compétente belge peut refuser de transmettre des informations demandées lorsque celles-ci portent sur des périodes imposables antérieures au 1er janvier 2011 et que la transmission de ces informations aurait pu être refusée sur la base de l'article 8, point 1er, de la directive 77/799/CE si elle avait été demandée avant le 11 mars 2011.
+
+§ 22. Lorsque l'autorité belge offre à un pays tiers une coopération plus étendue que celle prévue par la directive , elle ne peut pas refuser cette coopération étendue à un autre Etat membre souhaitant prendre part à une telle forme de coopération mutuelle plus étendue.
+
+§ 23. [<sup>4</sup> Les demandes d'informations et d'enquêtes administratives introduites en vertu du § 4, ainsi que les réponses en vertu du § 5, les accusés de réception, les demandes de renseignements de caractère général et les déclarations d'incapacité ou de refus au titre du § 5 sont, dans la mesure du possible, transmis au moyen d'un formulaire type adopté par la Commission. Les formulaires types peuvent être accompagnés de rapports, d'attestations et de tous autres documents, ou de copies certifiées conformes ou extraits de ces derniers.
+
+Les formulaires types visés à l'alinéa 1er comportent au moins les informations suivantes, que doit fournir l'autorité requérante :
+
+a) l'identité de la personne faisant l'objet d'un contrôle ou d'une enquête et, dans le cas de demandes concernant un groupe visées au § 5/2, une description détaillée du groupe ;
+
+b) la finalité fiscale des informations demandées.
+
+L'autorité compétente belge peut, dans la mesure où ils sont connus et conformément à l'évolution de la situation internationale, fournir les noms et adresses de toutes les personnes dont il y a lieu de penser qu'elles sont en possession des informations demandées, ainsi que tout élément susceptible de faciliter la collecte des informations par l'autorité requise.
+
+Les informations échangées spontanément et l'accusé de réception les concernant, au titre, respectivement, des §§ 7 et 8, les demandes de notification administrative au titre des §§ 12 et 13, les retours d'information au titre des §§ 14 et 15, les communications au titre des §§ 17, alinéa 2 et 18, et au § 25, alinéa 2, sont transmis à l'aide des formulaires types adoptés par la Commission.
+
+Les échanges automatiques d'informations au titre des §§ 6 et 6/1 sont effectués dans un format informatique standard conçu pour faciliter cet échange automatique, adopté par la Commission.]<sup>4</sup>
+
+§ 24. Les informations communiquées au titre du présent article sont, dans la mesure du possible, fournies par voie électronique au moyen du réseau CCN.
+
+Les demandes de coopération, y compris les demandes de notification et les pièces annexées, peuvent être rédigées dans toute langue choisie d'un commun accord par l'autorité requise et l'autorité requérante. Lesdites demandes ne sont accompagnées d'une traduction dans l'une des langues officielles de la Belgique que dans des cas particuliers et à condition que l'autorité compétente belge motive sa demande de traduction.
+
+[<sup>2</sup> Afin de satisfaire aux exigences de l'échange automatique prévu dans le § 6/1, 1° et 2, les informations qui doivent être communiquées sont enregistrées dans un répertoire central sécurisé destiné aux Etats membres concernant la coopération administrative dans le domaine fiscal mis au point et fourni, au plus tard le 31 décembre 2017, par la Commission. Les autorités compétentes belges ont accès aux informations enregistrées dans ce répertoire.
+
+Avant que ce répertoire central sécurisé ne soit opérationnel, l'échange automatique prévu au § 6/1, 1° et 2°, est effectué conformément à l'alinéa 1er du présent paragraphe et selon les modalités pratiques applicables.]<sup>2</sup>
+
+§ 25. Lorsque des informations vraisemblablement pertinentes pour l'administration et l'application de la législation belge relative aux droits et taxes divers sont communiquées par un pays tiers à l'autorité compétente belge, cette dernière peut, dans la mesure où un accord avec ce pays tiers l'autorise, transmettre ces informations aux autorités compétentes des Etats membres auxquels ces informations pourraient être utiles et à toute autorité compétente étrangère qui en fait la demande.
+
+L'autorité compétente belge peut, en tenant compte de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel et de la loi du 3 août 2012 portant dispositions relatives aux traitements de données à caractère personnel réalisés par le Service public fédéral Finances, transmettre à un pays tiers les informations obtenues en application du présent article, pour autant que l'ensemble des conditions suivantes soient remplies :
+
+a) l'autorité compétente étrangère de l'Etat membre d'où proviennent les informations a donné son accord préalable;
+
+b) le pays tiers concerné s'est engagé à coopérer pour réunir des éléments prouvant le caractère irrégulier ou illégal des opérations qui paraissent être contraires ou constituer une infraction à la législation fiscale.]<sup>1</sup>
+
+[<sup>5</sup> § 26. Les institutions financières déclarantes, les intermédiaires, les opérateurs de plateformes déclarants et l'autorité compétente belge sont considérés comme des responsables du traitement lorsque, agissant seuls ou conjointement, ils déterminent les finalités et les moyens d'un traitement de données à caractère personnel au sens du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE.
+
+L'autorité compétente belge notifie sans tarder à la Commission toute violation de données et toute mesure corrective prise ultérieurement.
+
+L'autorité compétente belge peut suspendre l'échange d'informations avec l'Etat membre ou les Etats membres dans lequel ou lesquels la violation s'est produite en en informant par écrit la Commission et l'Etat membre ou les Etats membres concernés. Cette suspension prend effet immédiatement.
+
+En cas de violation de données, l'autorité compétente belge procède à une enquête sur la violation de données, la maîtrise et y remédie, et, moyennant préavis écrit à la Commission, demande la suspension de l'accès au réseau CCN aux fins de la présente directive, si la violation de données ne peut être maîtrisée immédiatement et de manière appropriée. A la suite d'une telle demande, la Commission suspend l'accès de cet Etat membre ou de ces Etats membres au réseau CCN aux fins de la directive.
+
+L'autorité compétente belge, en cas de violation de données, notifie à la Commission lorsqu'elle a remédié à cette violation. Si un ou plusieurs Etats membres demandent à la Commission de vérifier avec eux s'il a été remédié avec succès à la violation des données, la Commission donne à nouveau accès au réseau CCN à cet Etat membre ou à ces Etats membres aux fins de la directive après avoir effectué cette vérification.
+
+Dans le cas d'une violation de données intervenant dans le répertoire central ou sur le réseau CCN aux fins de la présente directive et lorsque les échanges des Etats membres par l'intermédiaire du réseau CCN sont susceptibles d'être affectés, la Commission informe, sans retard injustifié, les Etats membres de la violation de données et de toute mesure corrective prise. Ces mesures correctives peuvent comprendre la suspension de l'accès au répertoire central ou au réseau CCN aux fins de la directive jusqu'à ce qu'il soit remédié à la violation des données.]<sup>5</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-08-17/31, art. 15, 010; En vigueur : 01-01-2013&gt;
+
+(2)&lt;L 2017-07-31/09, art. 8, 025; En vigueur : 21-08-2017&gt;
+
+(3)&lt;L 2019-12-20/09, art. 48, 041; En vigueur : 01-07-2020&gt;
+
+(4)&lt;L 2022-12-21/14, art. 15, 054; En vigueur : 01-01-2023&gt;
+
+(5)&lt;L 2024-12-20/27, art. 16, 061; En vigueur : 31-12-2024&gt;
+
+(6)&lt;L 2026-03-16/15, art. 25, 069; En vigueur : 11-04-2026&gt;
+
+##### Art. 211bis/1
+
+[<sup>1</sup> Pour l'application de l'article 211bis, § 6/3 et des articles 211bis/1 à 211bis/10 on entend par :
+
+1° "dispositif transfrontière": un dispositif concernant plusieurs Etats membres ou un Etat membre et un pays tiers si l'une au moins des conditions suivantes est remplie :
+
+a) tous les participants au dispositif ne sont pas résidents à des fins fiscales dans la même juridiction ;
+
+b) un ou plusieurs des participants au dispositif sont résidents à des fins fiscales dans plusieurs juridictions simultanément ;
+
+c) un ou plusieurs des participants au dispositif exercent une activité dans une autre juridiction par l'intermédiaire d'un établissement stable situé dans cette juridiction, le dispositif constituant une partie ou la totalité de l'activité de cet établissement stable ;
+
+d) un ou plusieurs des participants au dispositif exercent une activité dans une autre juridiction sans être résidents à des fins fiscales ni créer d'établissement stable dans cette juridiction ;
+
+e) un tel dispositif peut avoir des conséquences sur l'échange automatique d'informations ou sur l'identification des bénéficiaires effectifs.
+
+Un dispositif signifie également une série de dispositifs. Un dispositif peut comporter plusieurs étapes ou parties.
+
+2° "dispositif transfrontière devant faire l'objet d'une déclaration": tout dispositif transfrontière comportant au moins l'un des marqueurs figurant à l'article 211bis/2 ;
+
+3° "marqueur": une caractéristique ou particularité mentionnée à l'article 211bis/2 d'un dispositif transfrontière qui indique un risque potentiel d'évasion fiscale ;
+
+4° "intermédiaire": toute personne qui conçoit, commercialise ou organise un dispositif transfrontière devant faire l'objet d'une déclaration, le met à disposition aux fins de sa mise en oeuvre ou gère sa mise en oeuvre.
+
+Un intermédiaire est aussi une personne qui, compte tenu des faits et circonstances pertinents et sur la base des informations disponibles ainsi que de l'expertise en la matière et de la compréhension qui sont nécessaires pour fournir de tels services, sait ou pourrait raisonnablement être censée savoir qu'elle s'est engagée à fournir, directement ou par l'intermédiaire d'autres personnes, une aide, une assistance ou des conseils concernant la conception, la commercialisation ou l'organisation d'un dispositif transfrontière devant faire l'objet d'une déclaration, ou concernant sa mise à disposition aux fins de sa mise en oeuvre ou la gestion de sa mise en oeuvre. Toute personne a le droit de fournir des éléments prouvant qu'elle ne savait pas et ne pouvait pas raisonnablement être censée savoir qu'elle participait à un dispositif transfrontière devant faire l'objet d'une déclaration. A cette fin, cette personne peut invoquer tous les faits et circonstances pertinents ainsi que les informations disponibles et son expertise et sa compréhension en la matière.
+
+Pour être un intermédiaire, une personne répond à l'une au moins des conditions supplémentaires suivantes :
+
+a) être résidente dans un Etat membre à des fins fiscales ;
+
+b) posséder dans un Etat membre un établissement stable par le biais duquel sont fournis les services concernant le dispositif ;
+
+c) être constituée dans un Etat membre ou régie par le droit d'un Etat membre ;
+
+d) être enregistrée auprès d'une association professionnelle en rapport avec des services juridiques, fiscaux ou de conseil dans un Etat membre ;
+
+5° "contribuable concerné": toute personne à qui un dispositif transfrontière devant faire l'objet d'une déclaration est mis à disposition aux fins de sa mise en oeuvre, ou qui est disposée à mettre en oeuvre un dispositif transfrontière devant faire l'objet d'une déclaration, ou qui a mis en oeuvre la première étape d'un tel dispositif ;
+
+6° "dispositif commercialisable": un dispositif transfrontière qui est conçu, commercialisé, prêt à être mis en oeuvre, ou mis à disposition aux fins de sa mise en oeuvre, sans avoir besoin d'être adapté de façon importante ;
+
+7° "dispositif sur mesure": tout dispositif transfrontière qui n'est pas un dispositif commercialisable;
+
+[<sup>2</sup> 8° "client": tout intermédiaire ou contribuable concerné qui reçoit des services, y compris une assistance, des avis, des conseils ou des orientations, de la part d'un intermédiaire tenu au secret professionnel dans le cadre d'un dispositif fiscal transfrontière devant faire l'objet d'une déclaration.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-12-20/09, art. 2, 041; En vigueur : 01-07-2020&gt;
+
+(2)&lt;L 2026-03-16/15, art. 26, 069; En vigueur : 11-04-2026&gt;
+
+##### Art. 211bis/2
+
+[<sup>1</sup> Les marqueurs d'un dispositif transfrontière visés à l'article 211bis/1, 3°, peuvent être subdivisés en 5 catégories, la catégorie A étant les marqueurs généraux qui sont liés au "critère de l'avantage principal" visé à l'alinéa 2, la catégorie B étant les marqueurs spécifiques qui sont liés au "critère de l'avantage principal" précité, la catégorie C étant les marqueurs spécifiques liés aux opérations transfrontières, la catégorie D étant les marqueurs spécifiques concernant l'échange automatique d'informations et les bénéficiaires effectifs et la catégorie E étant les marqueurs spécifiques concernant les prix de transfert.
+
+Les marqueurs généraux de la catégorie A visés à l'alinéa 4, les marqueurs spécifiques de la catégorie B visés à l'alinéa 5 et les marqueurs spécifiques de la catégorie C visés à l'alinéa 6, 1°, b) premier tiret, c) et d) ne peuvent être pris en considération que s'il est établi que l'avantage principal ou l'un des avantages principaux qu'une personne peut raisonnablement s'attendre à retirer d'un dispositif, compte tenu de l'ensemble des faits et circonstances pertinents, est l'obtention d'un avantage fiscal. C'est ce que l'on appelle le "critère de l'avantage principal".
+
+Dans le cadre du marqueur spécifique de la catégorie C, visés à l'alinéa 6, 1°, la présence d'une des conditions visées au même alinéa 6, 1°, b) premier tiret, c) et d) ne suffit pas à conclure que le dispositif satisfait au critère de l'avantage principal visé à l'alinéa 2.
+
+Est considéré comme un marqueur général de catégorie A :
+
+1° un dispositif où le contribuable concerné ou un participant au dispositif s'engage à respecter une clause de confidentialité selon laquelle il peut lui être demandé de ne pas divulguer à d'autres intermédiaires ou aux autorités fiscales comment le dispositif pourrait procurer un avantage fiscal ;
+
+2° un dispositif où l'intermédiaire est en droit de percevoir des honoraires (ou des intérêts, une rémunération pour financer les coûts et d'autres frais) pour le dispositif et ces honoraires sont fixés par référence :
+
+a) au montant de l'avantage fiscal découlant du dispositif ; ou
+
+b) au fait qu'un avantage fiscal découle effectivement du dispositif. Cela inclurait une obligation pour l'intermédiaire de rembourser partiellement ou entièrement les honoraires si l'avantage fiscal escompté découlant du dispositif n'a pas été complètement ou partiellement généré ;
+
+3° un dispositif dont la documentation et/ou la structure sont en grande partie normalisées et qui est à la disposition de plus d'un contribuable concerné sans avoir besoin d'être adapté de façon importante pour être mis en oeuvre.
+
+Est considéré comme un marqueur spécifique de catégorie B :
+
+1° un dispositif dans lequel un participant au dispositif prend artificiellement des mesures qui consistent à acquérir une société réalisant des pertes, à mettre fin à l'activité principale de cette société et à utiliser les pertes de celle-ci pour réduire sa charge fiscale, y compris par le transfert de ces pertes à une autre juridiction ou par l'accélération de l'utilisation de ces pertes ;
+
+2° un dispositif qui a pour effet de convertir des revenus en capital, en dons ou en d'autres catégories de recettes qui sont taxées à un niveau inférieur ou ne sont pas taxées ;
+
+3° un dispositif qui inclut des transactions circulaires ayant pour résultat un "carrousel" de fonds, à savoir au moyen d'entités interposées sans fonction commerciale primaire ou d'opérations qui se compensent ou s'annulent mutuellement ou qui ont d'autres caractéristiques similaires.
+
+Est considéré comme un marqueur spécifique de catégorie C :
+
+1° un dispositif qui prévoit la déduction des paiements transfrontières effectués entre deux ou plusieurs entreprises associées lorsque l'une au moins des conditions suivantes est remplie :
+
+a) le bénéficiaire ne réside à des fins fiscales dans aucune juridiction fiscale ;
+
+b) même si le bénéficiaire réside à des fins fiscales dans une juridiction, cette juridiction ;
+
+\- ne lève pas d'impôt sur les sociétés ou lève un impôt sur les sociétés à taux zéro ou presque nul ; ou
+
+\- figure sur une liste de juridictions de pays tiers qui ont été évaluées par les Etats membres collectivement ou dans le cadre de l'OCDE comme étant non coopératives ;
+
+c) le paiement bénéficie d'une exonération fiscale totale dans la juridiction où le bénéficiaire réside à des fins fiscales ;
+
+d) le paiement bénéficie d'un régime fiscal préférentiel dans la juridiction où le bénéficiaire réside à des fins fiscales ;
+
+2° des déductions pour le même amortissement d'un actif sont demandées dans plus d'une juridiction ;
+
+3° un allègement au titre de la double imposition pour le même élément de revenu ou de capital est demandé dans plusieurs juridictions ;
+
+4° il existe un dispositif qui inclut des transferts d'actifs et où il y a une différence importante dans le montant considéré comme étant payable en contrepartie des actifs dans ces juridictions concernées.
+
+Est considéré comme un marqueur spécifique de catégorie D :
+
+1° un dispositif susceptible d'avoir pour effet de porter atteinte à l'obligation de déclaration en vertu du droit mettant en oeuvre la législation de l'Union ou tout accord équivalent concernant l'échange automatique d'informations sur les comptes financiers, y compris des accords avec des pays tiers, ou qui tire parti de l'absence de telles dispositions ou de tels accords. De tels dispositifs incluent au moins ce qui suit :
+
+a) l'utilisation d'un compte, d'un produit ou d'un investissement qui n'est pas ou dont l'objectif est de ne pas être un compte financier, mais qui possède des caractéristiques substantiellement similaires à celles d'un compte financier ;
+
+b) le transfert de comptes ou d'actifs financiers vers des juridictions qui ne sont pas liées par l'échange automatique d'informations sur les comptes financiers avec l'Etat de résidence du contribuable concerné, ou le recours à de telles juridictions ;
+
+c) la requalification de revenus et de capitaux en produits ou en paiements qui ne sont pas soumis à l'échange automatique d'informations sur les comptes financiers ;
+
+d) le transfert ou la conversion d'une institution financière, d'un compte financier ou des actifs qui s'y trouvent en institution financière, en compte financier ou en actifs qui ne sont pas à déclarer en vertu de l'échange automatique d'informations sur les comptes financiers ;
+
+e) le recours à des entités, constructions ou structures juridiques qui suppriment ou visent à supprimer la déclaration d'un ou plusieurs titulaires de compte ou personnes détenant le contrôle dans le cadre de l'échange automatique d'informations sur les comptes financiers ;
+
+f) les dispositifs qui portent atteinte aux procédures de diligence raisonnable utilisées par les institutions financières pour se conformer à leurs obligations de déclarer des informations sur les comptes financiers, ou qui exploitent les insuffisances de ces procédures, y compris le recours à des juridictions appliquant de manière inadéquate ou insuffisante la législation relative à la lutte contre le blanchiment de capitaux, ou ayant des exigences insuffisantes en matière de transparence en ce qui concerne les personnes morales ou les constructions juridiques ;
+
+2° Un dispositif faisant intervenir une chaîne de propriété formelle ou effective non transparente par le recours à des personnes, des constructions juridiques ou des structures ;
+
+a) qui n'exercent pas une activité économique substantielle s'appuyant sur des effectifs, des équipements, des ressources et des locaux suffisants ; et
+
+b) qui sont constitués, gérés, contrôlés ou établis ou qui résident dans toute juridiction autre que la juridiction de résidence de l'un ou plusieurs des bénéficiaires effectifs des actifs détenus par ces personnes, constructions juridiques ou structures ; et
+
+c) lorsque les bénéficiaires effectifs de ces personnes, constructions juridiques ou structures, tels que visés à l'article 4, 27°, de la loi relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces du 18 septembre 2017, sont rendus impossibles à identifier.
+
+Est considéré comme un marqueur spécifique de catégorie E :
+
+1° un dispositif qui prévoit l'utilisation de régimes de protection unilatéraux ;
+
+2° un dispositif prévoyant le transfert d'actifs incorporels difficiles à évaluer. Le terme d' "actifs incorporels difficiles à évaluer" englobe des actifs incorporels ou des droits sur des actifs incorporels pour lesquels, au moment de leur transfert entre des entreprises associées :
+
+a) il n'existe pas d'éléments de comparaison fiables ; et
+
+b) au moment où l'opération a été conclue, les projections concernant les futurs flux de trésorerie ou revenus attendus de l'actif incorporel transféré, ou les hypothèses utilisées pour évaluer cet actif incorporel sont hautement incertaines, et il est donc difficile de prévoir dans quelle mesure l'actif incorporel débouchera finalement sur un succès au moment du transfert.
+
+3° un dispositif mettant en jeu un transfert transfrontière de fonctions et/ou de risques et/ou d'actifs au sein du groupe, si le bénéfice avant intérêts et impôts (ebit) annuel prévu, dans les trois ans suivant le transfert, du ou des cédants, est inférieur à 50 % du ebit annuel prévu de ce cédant ou de ces cédants si le transfert n'avait pas été effectué. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-12-20/09, art. 50, 041; En vigueur : 01-07-2020&gt;
+
+##### Art. 211bis/3
+
+[<sup>1</sup> § 1er. Chaque intermédiaire est tenu de transmettre à l'autorité belge compétente, visée à l'article 211bis, § 2, 6°, les informations visées à l'article 211bis, § 6/3 dont il a connaissance, qu'il possède ou qu'il contrôle, concernant les dispositifs transfrontières devant faire l'objet d'une déclaration, dans un délai de 30 jours à compter du cas mentionné ci-dessous qui survient en premier :
+
+\- le lendemain de la mise à disposition aux fins de mise en oeuvre du dispositif transfrontière devant faire l'objet d'une déclaration ; ou
+
+\- le lendemain du jour où le dispositif transfrontière devant faire l'objet d'une déclaration est prêt à être mis en oeuvre ; ou
+
+lorsque la première étape de la mise en oeuvre du dispositif transfrontière devant faire l'objet d'une déclaration a été accomplie.
+
+Nonobstant l'alinéa 1er, les intermédiaires visés à l'article 211bis/1, 4°, deuxième alinéa, sont également tenus de transmettre des informations relatives à un dispositif transfrontière devant faire l'objet d'une déclaration dans un délai de 30 jours commençant le lendemain du jour où ils ont fourni, directement ou par l'intermédiaire d'autres personnes, une aide, une assistance ou des conseils.
+
+§ 2. Quand l'intermédiaire doit informer les autorités compétentes de plusieurs Etats membres sur les dispositifs transfrontières devant faire l'objet d'une déclaration, l'intermédiaire ne fournira ces informations à l'autorité belge compétente que si la Belgique occupe la première place dans la liste ci-après :
+
+1° l'Etat membre dans lequel l'intermédiaire est résident à des fins fiscales ;
+
+2° l'Etat membre dans lequel l'intermédiaire possède un établissement stable par l'intermédiaire duquel les services concernant le dispositif sont fournis ;
+
+3° l'Etat membre dans lequel l'intermédiaire est constitué ou par le droit duquel il est régi ;
+
+4° l'Etat membre dans lequel l'intermédiaire est enregistré auprès d'une association professionnelle en rapport avec des services juridiques, fiscaux ou de conseil.
+
+Lorsque, en application de l'alinéa 1er, il existe une obligation de déclaration multiple, l'intermédiaire est dispensé de la transmission des informations s'il fournit une preuve écrite que ces mêmes informations ont été transmises dans un autre Etat membre. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-12-20/09, art. 51, 041; En vigueur : 01-07-2020&gt;
+
+##### Art. 211bis/4
+
+[<sup>1</sup> Dans le cas d'un dispositif commercialisable, l'intermédiaire doit établir tous les trois mois un rapport fournissant une mise à jour contenant les nouvelles informations devant faire l'objet d'une déclaration, visées à l'article 211bis, § 6/3, 1 °, 4 °, 7 ° et 8°, qui sont devenues disponibles depuis la transmission du dernier rapport. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-12-20/09, art. 52, 041; En vigueur : 01-07-2020&gt;
+
+##### Art. 211bis/5
+
+[<sup>1</sup> A la suite de la déclaration d'un dispositif transfrontière présentant au moins l'un des marqueurs spécifiques visés à l'article 211bis/2, un numéro de référence unique est attribué qui, à l'occasion de chaque déclaration ultérieure du même dispositif transfrontière, devra être communiqué, aussi bien pour les déclarations de chaque intermédiaire impliqué que par le contribuable concerné.
+
+L'intermédiaire qui reçoit le numéro de référence unique des autorités compétentes doit immédiatement le communiquer, ainsi que le résumé concernant le dispositif rapporté, aux autres intermédiaires impliqués ainsi qu'au contribuable concerné. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-12-20/09, art. 53, 041; En vigueur : 01-07-2020&gt;
+
+##### Art. 211bis/6
+
+[<sup>1</sup> Si plusieurs intermédiaires sont concernés par le même dispositif transfrontière devant faire l'objet d'une déclaration, tous les intermédiaires concernés doivent fournir des informations sur le dispositif transfrontière devant faire l'objet d'une déclaration.
+
+Un intermédiaire est dispensé de la transmission des informations s'il fournit une preuve écrite qu'un autre intermédiaire a déjà transmis les informations visées à l'article 211bis, § 6/3, alinéa 2. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-12-20/09, art. 7, 041; En vigueur : 01-07-2020&gt;
+
+##### Art. 211bis/7
+
+[<sup>1</sup> § 1er. Lorsqu'un intermédiaire est tenu au secret professionnel, il doit :
+
+1° [<sup>2</sup> informer le ou les intermédiaires concernés, par écrit et de façon motivée, qu'il ne peut pas respecter l'obligation de déclaration, à la suite de quoi cette obligation de déclaration incombe automatiquement à l'autre intermédiaire ou aux autres intermédiaires;]<sup>2</sup>
+
+2° en l'absence d'un autre intermédiaire, informer par écrit et de façon motivée le ou les contribuables concernés de son ou de leur obligation de déclaration.
+
+La dispense d'obligation de déclaration n'est effective qu'à partir du moment où un intermédiaire a rempli l'obligation visée à l'alinéa 1er.
+
+§ 2. Le contribuable concerné peut, par autorisation écrite, permettre à l'intermédiaire de satisfaire à l'obligation de déclaration prévue à l'article 211bis/3.
+
+Si le contribuable concerné ne donne pas l'autorisation, l'obligation de déclaration continue d'incomber au contribuable et l'intermédiaire fournit les informations nécessaires au respect de l'obligation de déclaration visée à l'article 211bis/3 au contribuable concerné.
+
+§ 3. Aucun secret professionnel visé au paragraphe 1er ni aucune dispense de plein droit ne peut être invoqué concernant l'obligation de déclaration des dispositifs commercialisables qui donnent lieu à un rapport périodique conformément à l'article 211bis/4.]<sup>1</sup>
+
+[<sup>2</sup> § 4. Par dérogation au 1paragraphe 1er, alinéa 1er, 1°, l'intermédiaire qui est avocat n'est pas tenu d'informer un intermédiaire concerné qui n'est pas son client qu'il ne peut pas satisfaire à l'obligation déclarative.]<sup>2</sup>
+
+(NOTE : par son arrêt n° 103/2022 du 15-09-2022 (2022-09-15/26, M.B. 13-01-2023, p. 6183), la Cour constitutionnelle a annulé l'article 211bis/7, §3)
+
+----------
+
+(1)&lt;Inséré par L 2019-12-20/09, art. 55, 041; En vigueur : 01-07-2020&gt;
+
+(2)&lt;L 2026-03-16/15, art. 27, 069; En vigueur : 11-04-2026&gt;
+
+##### Art. 211bis/8
+
+[<sup>1</sup> . § 1er. Dans les cas suivants, l'obligation de déclaration incombe au contribuable concerné :
+
+1° quand il n'y a pas d'intermédiaire impliqué dans la conception, la commercialisation, l'organisation, la mise à disposition aux fins de sa mise en oeuvre ou la gestion de sa mise en oeuvre d'un dispositif transfrontière devant faire l'objet d'une déclaration ;
+
+2° lorsque l'intermédiaire est dispensé de l'obligation de fournir des informations conformément à l'article 211bis/7, § 1er et qu'il a informé le ou les contribuables concernés de son ou de leur obligation de déclarer, conformément à l'article 211bis/7, § 1er, 2° ;
+
+3° lorsque ce dernier n'a pas accordé l'autorisation visée à l'article 211bis/7, § 2, alinéa 1er.
+
+§ 2. Dans le cas où, conformément au paragraphe 1er, l'obligation de déclaration incombe au contribuable concerné, il doit fournir les informations dans un délai de trente jours à compter du cas mentionné ci-dessous qui survient en premier :
+
+\- le lendemain du jour où le dispositif transfrontière devant faire l'objet d'une déclaration est mis à la disposition du contribuable concerné ou ;
+
+\- le lendemain du jour où le dispositif transfrontière devant faire l'objet d'une déclaration est prêt à être mis en oeuvre par le contribuable concerné ou ;
+
+à partir du moment ou la première étape de sa mise en oeuvre est accomplie en ce qui concerne le contribuable concerné.
+
+§ 3. Lorsque le contribuable concerné a l'obligation de transmettre des informations concernant le dispositif transfrontière devant faire l'objet d'une déclaration aux autorités compétentes de plusieurs Etats membres, il doit transmettre ces informations à l'autorité belge compétente uniquement si la Belgique occupe la première place dans la liste ci-après :
+
+1° l'Etat membre dans lequel le contribuable concerné est résident à des fins fiscales ;
+
+2° l'Etat membre dans lequel le contribuable concerné possède un établissement stable qui bénéficie du dispositif ;
+
+3° l'Etat membre dans lequel le contribuable concerné perçoit des revenus ou réalise des bénéfices, bien qu'il ne soit pas résident à des fins fiscales dans un Etat membre et ne possède d'établissement stable dans aucun Etat membre ;
+
+4° l'Etat membre dans lequel le contribuable concerné exerce une activité, bien qu'il ne soit pas résident à des fins fiscales dans un Etat membre et ne possède d'établissement stable dans aucun Etat membre.
+
+Lorsque, en application de l'alinéa 1er, il existe une obligation de déclaration multiple, le contribuable concerné est dispensé de la transmission des informations s'il fournit une preuve écrite que ces mêmes informations ont été transmises dans un autre Etat membre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-12-20/09, art. 56, 041; En vigueur : 01-07-2020&gt;
+
+##### Art. 211bis/9
+
+[<sup>1</sup> Lorsque l'obligation de déclaration incombe au contribuable concerné et qu'il existe plusieurs contribuables concernés, celui d'entre eux qui transmet les informations conformément à l'article 211bis/8 est celui qui occupe la première place dans la liste ci-après :
+
+1° le contribuable concerné qui a arrêté avec l'intermédiaire le dispositif devant faire l'objet d'une déclaration ;
+
+2° le contribuable concerné qui gère la mise en oeuvre du dispositif.
+
+Un contribuable concerné n'est dispensé de l'obligation de transmettre les informations que dans la mesure où il fournit une preuve écrite que ces mêmes informations, visées à l'article 211bis, § 6/3, ont déjà été transmises par un autre contribuable concerné. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-12-20/09, art. 57, 041; En vigueur : 01-07-2020&gt;
+
+##### Art. 211bis/10
+
+[<sup>1</sup> Pour l'application des articles 211bis, § 6/3, 211bis/1 à 211bis/9 et des arrêtés d'exécution qui en découlent, le rapportage des informations, pour les parties que le Roi spécifie doit, outre l'utilisation d'une des langues officielles de la Belgique, également être fait en anglais. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-12-20/09, art. 58, 041; En vigueur : 01-07-2020&gt;
+
+##### Art. 211bis/11
+
+[<sup>1</sup> Le Roi détermine le formulaire sur lequel l'intermédiaire ou le contribuable concerné doit se conformer aux obligations énoncées aux articles 211bis/1 à 211bis/9. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-12-20/09, art. 59, 041; En vigueur : 01-07-2020&gt;
+
+##### Art. 211bis/12
+
+[<sup>1</sup> L'administration fiscale peut exiger de l'(des) intermédiaire(s) concerné(s), dans le délai qu'elle a fixé, qui peut être prolongé pour des raisons légales, pour autant qu'elle estime que ces informations soient nécessaires afin d'assurer le respect des articles 211bis/1 à 211bis/9, toutes les informations qui en application de l'article 211bis/1 à 211bis/9 doivent être mentionnées à l'autorité belge compétente. ]<sup>1</sup>
+
+(NOTE : par son arrêt n° 103/2022 du 15-09-2022 (2022-09-15/26, M.B. 13-01-2023, p. 6183), la Cour constitutionnelle a annulé le présent article)
+
+----------
+
+(1)&lt;Inséré par L 2019-12-20/09, art. 13, 041; En vigueur : 01-07-2020&gt;
+
+##### Art. 211ter
+
+[<sup>1</sup> Les dispositions du présent Code ne font pas obstacle au droit pour l'Etat de demander la réparation du dommage pouvant consister dans le non-paiement des droits, des taxes, des [<sup>2</sup> intérêts de retard]<sup>2</sup>, des amendes fiscales et des accessoires, par la constitution de partie civile ou par l'action en responsabilité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-26/01, art. 94, 053; En vigueur : 09-04-2018&gt;
+
+(2)&lt;L 2022-11-20/01, art. 36, 053; En vigueur : 01-01-2023&gt;
+
+##### Art. 211quater
+
+[<sup>1</sup> § 1er. Chaque message transmis sous pli fermé par le contribuable ou toute autre personne au Service Public Fédéral Finances dans le cadre de l'application de la législation concernant les droits et taxes divers, est reproduit, enregistré et conservé [<sup>2</sup> ...]<sup>2</sup> [<sup>2</sup> par l'administration]<sup>2</sup> qui a les droits et taxes divers dans ses attributions, selon une technique de l'informatique ou de la télématique.
+
+L'image ainsi numérisée du message transmis au Service Public Fédéral Finances, obtenue au moyen d'une technique de l'informatique ou de la télématique, a, pour l'application du présent Code, des dispositions légales particulières relatives aux droits et taxes divers ou dans les arrêtés pris pour leur exécution, force probante pour autant qu'elle soit la copie fidèle et durable de l'écrit dont elle est issue et qu'elle soit munie d'un cachet électronique avancé qui répond aux exigences visé à l'article 36 du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.
+
+Dans ce cas, la destruction de l'original papier est autorisée.
+
+Le Roi détermine quels documents papier doivent être conservés, même après avoir été numérisés.
+
+§ 2. Chaque message transmis par l'administration en charge des droits et taxes divers dans le cadre de l'application des dispositions du présent Code, des dispositions légales particulières relatives aux droits et taxes divers ou des arrêtés pris pour leur exécution, par l'administration compétente pour l'établissement des droits et taxes divers, au contribuable est systématiquement généré par voie électronique et mis à disposition du contribuable sur la plateforme électronique sécurisée visée à l'article 211quinquies, alinéa 2.
+
+Lorsqu'en application de l'article 211sexies, § 1er, alinéa 2, le Service Public Fédéral Finances doit communiquer par voie papier, chaque matérialisation sous pli fermé de message transmis dans le cadre de l'application de la législation du présent Code, des dispositions légales particulières concernant les droits et taxes divers ou des arrêtés pris pour leur exécution, par l'administration, a, la même force probante que l'original électronique pour autant que la matérialisation sous pli fermé contienne la référence unique à un cachet électronique avancé qui répond aux exigences visées au paragraphe 1er, alinéa 2. Chaque matérialisation sous pli fermé correspond au contenu de l'original électronique du message conservé sur la plateforme sécurisée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-01-26/12, art. 1, 044; En vigueur : 01-04-2021&gt;
+
+(2)&lt;L 2022-01-21/03, art. 112, 049; En vigueur : 07-02-2022&gt;
+
+### Titre VI. [Secret professionnel] &lt;Ancien titre XVII (art. 212) inséré par L. 1978-08-04/01, art. 55, et renuméroté comme titre VI par L 2006-12-19/33, art. 63, En vigueur : 01-01-2007&gt;
+
+##### Art. 212
+
+&lt;Inséré par L 1978-08-04/01, art. 55, En vigueur : 27-08-1978&gt; Celui qui intervient, à quelque titre que ce soit, dans l'application ou qui a accès dans les bureaux de [<sup>1</sup> l'administration en charge de l'établissement ou de la perception et du recouvrement des [<sup>2</sup> droits et taxes divers]<sup>2</sup> établis par le Code]<sup>1</sup>, est tenu de garder, en dehors de l'exercice de ses fonctions, le secret le plus absolu au sujet de tout ce dont il a eu connaissance par suite de l'exécution de sa mission.
+
+[Les fonctionnaires de [<sup>1</sup> l'administration en charge de l'établissement ou de la perception et du recouvrement des [<sup>2</sup> droits et taxes divers]<sup>2</sup> établis par le Code]<sup>1</sup> restent dans l'exercice de leurs fonctions lorsqu'ils communiquent aux autres services administratifs de l'Etat, y compris les parquets et les greffes des cours et de toutes les juridictions, aux communautés, aux régions et aux établissements ou organismes publics, les renseignements qui sont nécessaires à ces services, établissements ou organismes pour assurer l'exécution des dispositions légales ou réglementaires dont ils sont chargés.] &lt;L 2005-06-20/31, art. 6, En vigueur : 24-06-2005&gt;
+
+Les personnes appartenant aux services à qui [<sup>1</sup> l'administration en charge de l'établissement ou de la perception et du recouvrement des [<sup>2</sup> droits et taxes divers]<sup>2</sup> établis par le Code]<sup>1</sup>, a fourni des renseignements d'ordre fiscal en application de l'alinéa précédent sont également tenues au même secret et elles ne peuvent utiliser les renseignements obtenus en dehors du cadre des dispositions légales pour l'exécution desquelles ils ont été fournis.
+
+Par établissement ou organismes publics il faut entendre les institutions, sociétés, associations, établissements et offices à l'administration desquels l'État participe, auxquels l'État fournit une garantie, sur l'activité desquels l'État exerce une surveillance ou dont le personnel de direction est désigné par le gouvernement, sur sa proposition ou moyennant son approbation.
+
+[dernier alinéa abrogé] &lt;L 1981-02-10/32, art. 12, applicable à partir de l'exercice d'imposition 1982&gt;
+
+----------
+
+(1)&lt;L 2014-04-25/36, art. 94, 014; En vigueur : 16-05-2014&gt;
+
+(2)&lt;L 2016-04-27/04, art. 106, 018; En vigueur : 16-05-2016&gt;

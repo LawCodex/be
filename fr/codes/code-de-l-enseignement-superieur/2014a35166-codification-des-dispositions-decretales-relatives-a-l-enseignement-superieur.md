@@ -1,0 +1,9358 @@
+---
+title: "Codification des dispositions décrétales relatives à l'enseignement supérieur (cité comme : Code de l'Enseignement supérieur)"
+identifier: "2014A35166"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2013/10/11/2014A35166/justel"
+type: code
+justel_type: "CODE DE L'ENSEIGNEMENT SUPERIEUR"
+jurisdiction: be
+language: fr
+date: 2013-10-11
+published: 2014-02-27
+entry_into_force: 2014-03-09
+last_amended: 2026-08-18
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2013/10/11/2014A35166/justel"
+department: "Autorité flamande"
+justel_notes:
+  - "publié en format image PDF non récupérable"
+  - "Consultation des versions antérieures à partir du 27-02-2014 et mise à jour au 18-08-2026"
+retrieved: 2026-10-11
+---
+
+# 11 OCTOBRE 2013. - Codification des dispositions décrétales relatives à l'enseignement supérieur (cité comme : Code de l'Enseignement supérieur)
+
+## PARTIE 1. GEMEENSCHAPPELIJKE BEPALINGEN
+
+### TITRE 1. Généralités
+
+**Art. I.1**
+
+### TITRE 2. Toepassingsgebied en begrippenkader
+
+**Art. I.2**
+
+[<sup>1</sup> (note: Pour l'article complet, voir la version néerlandaise)
+
+§ 2. Les articles I.3, 4°, 6°, 7°, 11°, 14°, 15°, 16°, 17°, 18°, 19°, 20°, 22°, 23°, 24°, 25°, 46°, 48°, 49°, 56°, 64°, 66°, 67°, 68°, 70°, 74°, 76° en 78°, II.1, II.57, II.58, II.64, II.65, II.66, II.67, II.68, II.69, II.70, II.75, II.76, II.77, II.105, II.106, [<sup>2</sup> II.107, II.108, II.109, II.110, II.111, II.114,]<sup>2</sup> II.124/1, II.133, II.141, II.143, II.150, II.152, II.153, II.153/1, II.153/2, II.153/3, II.153/4, II.153/5, II.153/6, II.154, II.170, II.170/1, II.170/14, II.170/15, II.170/16, II.170/17, II.170/18, II.172, II.174, II.176, II.177, II.178, II.179, II.180, II.181, II.182, II.183, II.184, II.185, II.189, II.190, II.191, II.192, II.193, II.194, II.195, II.196, II.197, II.198, II.199, II.200, II.201, II.202, II.207, [<sup>4</sup> ...]<sup>4</sup>II.211, II.212, II.213, II.214, II.215, II.216, II.217, II.218, II.219, II.223, II.224, II.225, II.226, II.227, II.228, II.229, II.230, II.231, II.232, II.233, II.234, II.235, II.236, II.237, II.238, II.239, II.240, II.241, II.242, II.243, II.244, II.245, II.246, II.247, II.251, II.252, II.377, II.390, IV.84 et IV.92 sont d'application aux institutions d'enseignement supérieur enregistrées d'office. Ces dispositions sont soit d'application générale, soit applicables dans la mesure où cela est explicitement prescrit.
+
+§ 3. Les articles II.1, II.57, II.58, II.64, II.65, II.75, II.76, II.77, II.105, II.106, II.124/1, II.133, II.141, II.143, II.150, II.152, II.153, II.153/1, II.153/2, II.153/3, II.153/4, II.153/5, II.153/6, II.154, II.170, II.170/1, II.170/14, II.170/15, II.170/16, II.170/17, II.170/18, II.172, II.247, II.251, II.252 et II.377 sont d'application aux institutions enregistrées. Ces dispositions sont soit d'application générale, soit applicables dans la mesure où cela est explicitement prescrit.]<sup>1</sup>
+
+[<sup>3</sup> A l'article I.2, § 5, alinéa 1er, du Code de l'Enseignement supérieur du 11 octobre 2013, tel que modifié par le décret du 19 juin 2015, le membre de phrase " partie 3, titre 1er, chapitre 1er, sections 2, 3 et 4, article III.33, article III.34 à III.36, " est remplacé par le membre de phrase " partie 3, titre 1er, chapitre 1er, sections 2 et 3, article III.23, article III.24, § 1er à 7, article III.25 à III.31, article III.33 à III.34, article III.35, article III.36,]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-18/14, art. 3, 007; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 122, 017; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2022-07-08/11, art. 48, 026; En vigueur : 01-01-2019&gt;
+
+(4)&lt;DCFL 2024-04-19/55, art. 128, 041; En vigueur : 01-09-2024&gt;
+
+**Art. I.3.**
+
+1°
+
+[<sup>1</sup> 2° accréditation et évaluation institutionnelle :
+
+a) accréditation de formation : la reconnaissance formelle d'une formation sur la base d'une décision d'un organe indépendant établissant que la formation répond à des exigences minimales de qualité et de niveau préétablies ;
+
+b) évaluation institutionnelle : l'évaluation périodique par une commission externe de la façon dont une institution d'enseignement supérieur mène une politique d'enseignement et démontre qu'elle met en oeuvre cette politique d'enseignement de manière qualitative, y compris la gestion que l'établissement met en place pour assurer la qualité de ses formations. Ce faisant, la commission tient aussi compte des processus décisionnels mis en place par l'institution pour soutenir l'enseignement qu'elle offre dans ses formations à partir de ses missions dans le domaine de la recherche et des services sociaux et scientifiques ;
+
+c) gestion : l'ensemble des actions, processus, pratiques, procédures et instruments qui permettent à l'institution d'assurer la qualité des formations ;
+
+d) évaluation nouvelle formation : une évaluation par une commission externe de la qualité potentielle d'une nouvelle formation telle que visée à l'article II.150 du présent Code ;
+
+3° organisation d'accréditation : l'organisation désignée par convention internationale pour accréditer des formations, et effectuer l'évaluation nouvelle formation et l'évaluation institutionnelle ;]<sup>1</sup>
+
+4°
+
+5°
+
+6°
+
+7°
+
+8°
+
+9°
+
+10°
+
+11°
+
+[<sup>2</sup> 11°/1 qualification professionnelle : un ensemble complet et intégré de compétences permettant d'exercer une profession, tel que mentionné à l'article 8 du décret du 30 avril 2009 relatif à la structure des certifications ;]<sup>2</sup>
+
+12°
+
+13°
+
+14°
+
+[<sup>4</sup> 15° certificat d'aptitude : la preuve, via un document ou une preuve d'enregistrement, qu'un étudiant a acquis, sur la base de " EVC " (Elders Verworven Competenties - compétences acquises ailleurs) ou de " EVK " (Eerder Verworven Kwalificaties - Qualifications acquises antérieurement), les compétences propres :
+
+a) au niveau de gradué dans l'enseignement supérieur professionnel HBO-5 ;
+
+b) au niveau de bachelor dans l'enseignement professionnel supérieur ou l'enseignement académique ;
+
+c) au niveau de master ;
+
+d) à une formation, une subdivision (de formation) ou un cluster de subdivisions bien circonscrit ;]<sup>4</sup>
+
+16°
+
+17°
+
+18°
+
+19° [<sup>2</sup> ... ]<sup>2</sup>
+
+19°/1
+
+[<sup>6</sup> 19° /2 note de délibération : un résultat obtenu après l'examen portant sur une subdivision de formation pour laquelle un étudiant n'obtient pas d'attestation de crédits, mais pour laquelle un jury décide que cette subdivision de formation ne doit pas être reprise ;]<sup>6</sup>
+
+20°
+
+21°
+
+22°
+
+23°
+
+24°
+
+25°
+
+26°[<sup>11</sup> ]<sup>11</sup>
+
+27°
+
+28°
+
+29° [<sup>2</sup> à une formation de l'enseignement supérieur professionnel hbo5 ou]<sup>2</sup>
+
+30°
+
+31°
+
+[<sup>5</sup> 31° /1 violence : toute voie de fait par laquelle un étudiant ou un membre du personnel est menacé ou agressé psychologiquement ou physiquement dans une situation professionnelle ou un contexte éducatif dans l'enseignement supérieur ;]<sup>5</sup>
+
+32°
+
+33° [<sup>2</sup> de gradué, " est inséré entre le mot " indication " et les mots " de bachelor "]<sup>2</sup>
+
+[<sup>5</sup> 33° /0 comportement abusif : toute atteinte à l'intégrité d'une personne [<sup>10</sup> pour cause d'abus de pouvoir, de comportement sexuel indésirable, de violence et de harcèlement]<sup>10</sup>; ]<sup>5</sup>
+
+33/1°
+
+34°
+
+[<sup>3</sup> 35° cadre d'intégration : l'ensemble des membres du personnel transférés par un institut supérieur, tout en conservant leur statut en tant que membre du personnel de l'institut supérieur, à une université, pour autant qu'ils ne soient pas inclus dans le statut des universités;]<sup>3</sup>
+
+[<sup>5</sup> 35° /1 point de contact interne pour le signalement de comportements abusifs : les points de contact mis en place au sein des établissements d'enseignement supérieur permettant de signaler les comportements abusifs ;]<sup>5</sup>
+
+36°
+
+37°
+
+38°
+
+39°
+
+40°
+
+[<sup>9</sup> 40° /1 épreuve pratique de master : une thèse de master dans le parcours raccourci ou le parcours consécutif d'une formation de master en sciences de l'éducation qui représente une valeur ajoutée pour la pratique de classe et d'enseignement ;]<sup>9</sup>
+
+41°
+
+42°
+
+43°
+
+[<sup>2</sup> 43/1° qualification d'enseignement : un ensemble complet et intégré de compétences requises pour fonctionner et participer socialement, par lesquelles des études ultérieures dans l'enseignement secondaire ou supérieur peuvent être entamées ou des activités professionnelles peuvent être entreprises, telles que mentionnées à l'article 9 du décret du 30 avril 2009 relatif à la structure des certifications ;]<sup>2</sup>
+
+44°
+
+[<sup>5</sup> 44° /1 comportement sexuel indésirable : toute forme de comportement verbal, non verbal ou physique non désiré à connotation sexuelle ayant pour objectif ou pour effet de porter atteinte à la dignité d'une personne ou de créer un environnement intimidant, hostile, injurieux, humiliant ou offensant]<sup>5</sup>
+
+45°
+
+46°
+
+47°
+
+48°
+
+49°
+
+50°
+
+[<sup>5</sup> 50° /1 harcèlement : un ensemble illicite de comportements multiples, similaires ou divers, en dehors ou au sein de l'établissement d'enseignement supérieur, se déroulant sur une période donnée, ayant pour objectif ou pour effet de porter atteinte à la personnalité, à la dignité ou à l'intégrité physique ou psychique d'un étudiant ou d'un membre du personnel ou de créer un environnement intimidant, hostile, injurieux, humiliant ou offensant ;]<sup>5</sup>
+
+51°
+
+52°
+
+53°
+
+54°
+
+55°
+
+56°
+
+57°
+
+58°
+
+[<sup>7</sup> 58° /1 évaluation initiale : une évaluation commune à toutes les institutions à laquelle l'étudiant doit participer comme condition préalable à la première inscription dans certaines formations de bachelier, au sens de l'article II.188/1 ;]<sup>7</sup>
+
+59°
+
+60°
+
+61°
+
+62°
+
+63°
+
+64°
+
+65°
+
+66°
+
+67°
+
+68°
+
+69°
+
+a)
+
+b)
+
+c)
+
+d)
+
+e)
+
+f)[<sup>8</sup> f) l'imposition d'une mesure individuelle de surveillance de la progression des études, telle que visée à l'article II.246, § 1 à § 6, § 8 et § 9 ;]<sup>8</sup>
+
+g)
+
+h)
+
+i)
+
+[<sup>4</sup> j) une décision individuelle de refuser l'inscription en raison du non respect d'une mesure imposée visant à assurer le suivi des études, visée à l'article II.246 ;]<sup>4</sup>
+
+[<sup>8</sup> k) une décision sur les différences substantielles de compétences si une attestation de crédits a été obtenue il y a plus de cinq ans, au sens de l'article II.225, § 3, alinéa 2 ;]<sup>8</sup>
+
+70°
+
+71°
+
+[<sup>8</sup> 70° /1 : tolérance : disposition du règlement des examens d'une institution d'enseignement supérieur selon laquelle l'étudiant n'obtient aucun crédit mais ne doit pas reprendre la matière pour un nombre limité d'unités d'études et selon laquelle l'étudiant décide lui-même des matières pour lesquelles il y fait appel ;]<sup>8</sup>
+
+72°
+
+73°
+
+74°
+
+75°
+
+76°[<sup>8</sup> Le programme vise à combler les compétences manquantes du diplôme qui permet l'admission directe. Si plusieurs diplômes donnent lieu à une admission directe, les compétences communes manquantes sont concernées ;]<sup>8</sup>
+
+[<sup>2</sup> 77° apprentissage sur le lieu de travail : des activités d'apprentissage visant l'acquisition de compétences générales ou professionnelles, la situation de travail étant l'environnement d'apprentissage ;]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-18/14, art. 4, 007; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2018-05-04/28, art. 69, 010; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2019-03-01/26, art. 11, 012; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFL 2020-07-03/39, art. 123,1°, 017; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFL 2023-12-08/13, art. 2, 033; En vigueur : 01-10-2023&gt;
+
+(6)&lt;DCFL 2022-07-15/20, art. 3,1°, 034; En vigueur : 01-10-2023&gt;
+
+(7)&lt;DCFL 2022-07-15/20, art. 3,2°, 034; En vigueur : 01-03-2023&gt;
+
+(8)&lt;DCFL 2022-07-15/20, art. 3,3°-3,6°, 034; En vigueur : 01-10-2023&gt;
+
+(9)&lt;DCFL 2024-04-19/55, art. 129, 041; En vigueur : 01-09-2024&gt;
+
+(10)&lt;DCFL 2025-05-02/07, art. 15, 042; En vigueur : 07-06-2025&gt;
+
+(11)&lt;DCFL 2026-06-19/04, art. 4, 046; En vigueur : 02-06-2026&gt;
+
+## PARTIE 2. STRUCTUUR EN ORGANISATIE VAN HET HOGER ONDERWIJS
+
+### TITRE 1. Hogeronderwijslandschap en zending
+
+#### Chapitre 1. Instellingen
+
+##### Section 1. Ambtshalve geregistreerde instellingen
+
+**Art. II.1**
+
+(Note;Pour l'article complet, voir la version néerlandaise)[<sup>1</sup> et Performing Arts Research and Training Studios (P.A.R.T.S.), visé à l'article III.119/1]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-19/55, art. 130, 041; En vigueur : 01-09-2024&gt;
+
+**Art. II.2**
+
+L 1. ...
+
+[<sup>1</sup> Sans préjudice des dispositions applicables aux établissements d'intérêt public pour l'enseignement postinitial, la Vlerick Business School, l'Antwerp Management School et l'Instituut voor Tropische Geneeskunde sont considérés comme des universités pour les missions visées aux articles II.19, II.20 et II.21.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 12, 012; En vigueur : 01-09-2019&gt;
+
+**Art. II.3**
+
+[<sup>1</sup> 11° Karel de Grote-Hogeschool - Katholieke Hogeschool Antwerpen ;]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-15/18, art. 86, 006; En vigueur : 01-09-2016&gt;
+
+**Art. II.4**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-01/26, art. 13, 012; En vigueur : 01-09-2019&gt;
+
+**Art. II.5**
+
+##### Section 2.
+
+**Art. II.6**
+
+§ 1er.
+
+§ 2.
+
+§ 3.
+
+§ 4.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, 4°, une institution créée par une autorité belge et agréée par cette autorité pour dispenser des formations peut conclure une convention avec une autre institution créée par une autorité belge et agréée par cette autorité pour dispenser des formations. Cette convention porte sur la manière dont les étudiants inscrits peuvent achever leur formation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-01/26, art. 14, 012; En vigueur : 01-09-2019&gt;
+
+##### Section 3.
+
+**Art. II.7**
+
+[<sup>1</sup> (voir version néerla,daise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 70, 010; En vigueur : 01-09-2019&gt;
+
+#### Chapitre 2.
+
+##### Section 1.
+
+**Art. II.8**
+
+**Art. II.9**
+
+**Art. II.10**
+
+##### Section 2.
+
+**Art. II.11**
+
+**Art. II.12**
+
+**Art. II.13**
+
+**Art. II.14**
+
+##### Section 3.
+
+**Art. II.15**
+
+**Art. II.16**
+
+**Art. II.17**
+
+&lt;Abrogé par DCFL 2020-07-03/39, art. 124, 017; En vigueur : 01-09-2020&gt;
+
+#### Chapitre 3.
+
+**Art. II.18**
+
+**Art. II.19**
+
+**Art. II.20**
+
+**Art. II.21**
+
+**Art. II.22**
+
+### TITRE 2.
+
+#### Chapitre 1.
+
+##### Section 1.
+
+**Art. II.23**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 70, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.24**
+
+2°
+
+3° [<sup>3</sup> jugement]<sup>3</sup>
+
+4°
+
+5°
+
+6° [<sup>2</sup> ...]<sup>2</sup>
+
+7° [<sup>2</sup> ...]<sup>2</sup>
+
+8° [<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>1</sup> 13° d'évaluer les demandes d'évaluation de la pertinence, visées à l'article II.153/1, § 4, du présent Code, des nouvelles formations émanant des institutions enregistrées, telles que visées à l'article II.6 du présent Code et des institutions demandant l'enregistrement conformément à l'article II.6 du présent Code.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-18/14, art. 5, 007; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2018-05-04/28, art. 72, 010; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2019-03-01/26, art. 15, 012; En vigueur : 01-09-2019&gt;
+
+**Art. II_24.DROIT_FUTUR.**
+
+2°
+
+3° [<sup>4</sup> ...]<sup>4</sup>
+
+4°[<sup>4</sup> ...]<sup>4</sup>
+
+5°
+
+6° [<sup>2</sup> ...]<sup>2</sup>
+
+7° [<sup>2</sup> ...]<sup>2</sup>
+
+8° [<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>1</sup> 13° d'évaluer les demandes d'évaluation de la pertinence, visées à l'article II.153/1, § 4, du présent Code, des nouvelles formations émanant des institutions enregistrées, telles que visées à l'article II.6 du présent Code et des institutions demandant l'enregistrement conformément à l'article II.6 du présent Code.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-18/14, art. 5, 007; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2018-05-04/28, art. 72, 010; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2019-03-01/26, art. 15, 012; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFL 2025-06-06/20, art. 52, 043; En vigueur : 01-09-2025&gt;
+
+**Art. II.25**
+
+#### Chapitre 2.
+
+##### Section 1.
+
+**Art. II.26**
+
+[<sup>1</sup> l'alinéa 1er est remplacé par ce qui suit :
+
+" Une convention internationale désigne l'organisation qui, conformément à la partie 2, titre 3, chapitre 9, effectue l'évaluation nouvelle formation, et qui, conformément à la partie 2, titre 3, chapitre 9/1, accorde l'accréditation et effectue l'évaluation institutionnelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-18/14, art. 6, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.27**
+
+**Art. II.28**
+
+[<sup>1</sup> alinéa 2, du même Code, la dernière phrase est remplacée par la disposition suivante :
+
+" Les décisions d'évaluation à l'issue d'une évaluation nouvelle formation et les décisions d'accréditation et les décisions prises à l'issue d'une évaluation institutionnelle, ainsi que les rapports d'évaluation y afférents sont publics. Ils sont intégralement publiés sur le site internet de l'organisation d'accréditation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-18/14, art. 7, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.29**
+
+**Art. II.29/1**
+
+[<sup>1</sup> Tout en respectant l'article 1.2 de la convention entre le Royaume des Pays-Bas et la Communauté flamande de Belgique concernant l'accréditation des formations au sein de l'enseignement supérieur néerlandais et flamand, signée à La Haye le 3 septembre 2003, le Gouvernement flamand peut charger l'organisation d'accréditation de la tâche supplémentaire suivante : l'étude et la fourniture de conseils relatifs à la coopération entre le Royaume des Pays-Bas et la Communauté flamande dans le domaine de l'enseignement supérieur en général.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 8, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.29/2.**
+
+[<sup>1</sup>Le Gouvernement flamand finance, dans les limites de la convention entre le Royaume des Pays-Bas et la Communauté flamande de Belgique concernant l'accréditation des formations au sein de l'enseignement supérieur néerlandais et flamand, signée à La Haye le 3 septembre 2003, et du budget flamand, le fonctionnement de l'organisme d'accréditation.
+
+L'organisme d'accréditation peut utiliser la partie du soutien financier accordé qui dépasse les coûts acceptés, pour constituer des réserves jusqu'à concurrence de 20 % du montant maximum de la subvention annuelle. Le total des réserves cumulées ne peut dépasser 50 % du montant maximum de la subvention annuelle. L'organisme d'accréditation rend compte annuellement de la constitution des réserves.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-30/07, art. 14, 038; En vigueur : 01-01-2023&gt;
+
+**Art. II.30**
+
+**Art. II.31**
+
+1°(Note:Pour l'article complet, voir la version néerlandaise)
+
+m) [<sup>1</sup> à la Faculteit voor Protestantse Theologie en Religiestudies à Bruxelles ;]<sup>1</sup>
+
+[<sup>2</sup> o) les services de l'Autorité flamande]<sup>2</sup>
+
+l)[<sup>3</sup> l)Evangelische Theologische Faculteit, Louvain]<sup>3</sup>
+
+---------
+
+(1)&lt;DCFL 2019-03-01/26, art. 16, 012; En vigueur : 01-10-2018&gt;
+
+(2)&lt;DCFL 2019-12-20/13, art. 50, 014; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2024-04-19/55, art. 131, 041; En vigueur : 01-09-2024&gt;
+
+**Art. II.32**
+
+**Art. II.33**
+
+[<sup>1</sup> Sans préjudice de l'alinéa 1er, les membres du personnel, visés à [<sup>2</sup> l'article II.31, 1°, o), et 2°, c)]<sup>2</sup>, sont rémunérés par l'entité d'origine, dans l'échelle de traitement usuelle de l'organisation d'accréditation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-12-20/13, art. 51, 014; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2022-07-08/10, art. 76, 027; En vigueur : 01-12-2021&gt;
+
+**Art. II.34**
+
+**Art. II.35**
+
+#### Chapitre 3.
+
+**Art. II.36**
+
+**Art. II.37**
+
+§ 2.
+
+[<sup>1</sup> Les membres de l'organisme autonomisé, visés à l'alinéa 1er, doivent avoir une expertise en matière d'assurance qualité des formations de l'enseignement supérieur professionnel hbo5, de l'enseignement supérieur professionnel et de l'enseignement académique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 73, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.38**
+
+**Art. II.39**
+
+#### Chapitre 4.
+
+**Art. II.40**
+
+**Art. II.41**
+
+(Note:Pour l'article complet, voir la version néerlandaise)
+
+1°[<sup>1</sup> ayant droit de vote]<sup>1</sup>
+
+2°[<sup>1</sup> ayant droit de vote]<sup>1</sup>
+
+[<sup>1</sup> Les universités peuvent décider d'étendre le Conseil à des membres n'ayant pas droit de vote.]<sup>1</sup>
+
+[<sup>1</sup> Le mandat des membres ayant droit de vote et des membres n'ayant pas droit de vote se termine par le retrait de leur désignation par l'institution qu'ils représentent.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-19/55, art. 132, 041; En vigueur : 01-09-2024&gt;
+
+**Art. II.42**
+
+(Note:pour l'article complet, voir la version néerlandaise)[<sup>1</sup> Au sein du 'Vlaamse Interuniversitaire Raad' (Conseil interuniversitaire flamand), les membres choisissent un président et un vice-président parmi les membres recteurs pour une durée de 2 ans.]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-19/55, art. 133, 041; En vigueur : 01-09-2024&gt;
+
+**Art. II.43**
+
+(Note:pour l'article complet, voir la version néerlandaise)
+
+[<sup>1</sup> 4 ]<sup>1</sup>[<sup>1</sup> 5]<sup>1</sup>[<sup>1</sup> ayant droit de vote]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-19/55, art. 134, 041; En vigueur : 01-09-2024&gt;
+
+**Art. II.44**
+
+**Art. II.45**
+
+(Note:pour l'article complet, voir la version néerlandaise)[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-19/55, art. 135, 041; En vigueur : 01-09-2024&gt;
+
+**Art. II.46**
+
+(note:pour l'article complet, voir la version néerlandaise)
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-04-19/55, art. 136, 041; En vigueur : 01-09-2024&gt;
+
+**Art. II.47**
+
+#### Chapitre 5.
+
+**Art. II.48**
+
+**Art. II.49**
+
+**Art. II.50**
+
+**Art. II.51**
+
+**Art. II.52**
+
+**Art. II.53**
+
+**Art. II.54**
+
+**Art. II.55**
+
+**Art. II.56**
+
+### TITRE 3.
+
+#### Chapitre 1.
+
+**Art. II.57**
+
+[<sup>1</sup> L'enseignement supérieur comprend des formations conduisant au grade de bachelor et au grade de master et des formations de l'enseignement supérieur professionnel HBO 5 conduisant au grade de gradué et des formations spécifiques des enseignants conduisant au diplôme d'enseignant. " est remplacée par la phrase " L'enseignement supérieur comprend des formations conduisant aux grades de gradué, de bachelor et de master.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 74, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.58**
+
+#### Chapitre 2.
+
+**Art. II.59**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 75, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.60**
+
+**Art. II.61**
+
+**Art. II.62**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 76, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.63**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 77, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.64**
+
+**Art. II.65**
+
+#### Chapitre 3.
+
+**Art. II.66**
+
+**Art. II.66/1**
+
+[<sup>1</sup> Le volume des études d'une orientation diplômante s'élève à :
+
+1° pour les formations de l'enseignement supérieur professionnel HBO 5 : un sixième au minimum et la moitié au maximum du volume total des études de la formation. La différentiation est basée sur les qualifications professionnelles reconnues appartenant à la qualification d'enseignement ;
+
+2° pour les formations initiales de bachelor de l'enseignement supérieur professionnel, à l'exception des formations dans les disciplines Arts audiovisuels et plastiques et Musique et arts de la scène, qui :
+
+a) sont déjà proposées avant l'année académique 2018-2019 : 60 unités d'études au minimum et 150 unités d'études au maximum ;
+
+b) sont nouvellement proposées à partir de l'année académique 2019-2020 : 60 unités d'études au minimum et 120 unités d'études au maximum ;
+
+3° pour les formations de bachelor après bachelor de l'enseignement supérieur professionnel : 30 unités d'études au minimum ;
+
+4° [<sup>2</sup> pour les formations de bachelor et de master de l'enseignement académique à l'exception des formations de bachelor et de master dans les disciplines Arts audiovisuels et plastiques et Musique et arts de la scène et des formations de master dans [<sup>3</sup> les disciplines Médecine et Dentisterie]<sup>3</sup> : 30 unités d'études au minimum et 120 unités d'études au maximum ;]<sup>2</sup>
+
+5° pour les formations de bachelor et de master de l'enseignement supérieur professionnel et de l'enseignement académique dans les disciplines Arts audiovisuels et plastiques et Musique et arts de la scène : 30 unités d'études au minimum.
+
+[<sup>2</sup> 6° pour les formations de master dans [<sup>3</sup> les disciplines Médecine et Dentisterie]<sup>3</sup> : 30 unités d'études au minimum.]<sup>2</sup>
+
+Pour le 31 décembre 2023 au plus tard, le Gouvernement flamand effectue une évaluation dont doit ressortir si le plafond de 120 unités d'études visées à l'alinéa 1er, 2°, b), peut être généralisé pour toutes les formations initiales de bachelor à orientation professionnelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2017-12-08/24, art. 11, 004; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCFL 2019-03-01/26, art. 17 , 012; En vigueur : 01-01-2018&gt;
+
+(3)&lt;DCFL 2022-07-15/20, art. 4, 034; En vigueur : 01-10-2023&gt;
+
+**Art. II.66/2**
+
+[<sup>1</sup> Chaque formation de graduat contient une proportion pertinente d'apprentissage sur le lieu de travail. Un tiers du volume des études vaut comme norme minimale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 78, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.67**
+
+**Art. II.68**
+
+[<sup>1</sup> (Voir version néerlandaise)
+
+Les acquis de formation spécifiques au domaine pour les formations de l'enseignement supérieur professionnel hbo5 sont établis sur la base de la procédure visée à l'article 15/2 du décret du 30 avril 2009 relatif à la structure des certifications.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 79, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.69**
+
+**Art. II.70**
+
+#### Chapitre 4.
+
+**Art. II.71**
+
+[<sup>1</sup> (voir version néerlandaise)
+
+§ 1. Les instituts supérieurs peuvent organiser des formations dans l'enseignement supérieur professionnel HBO-5 et dans l'enseignement supérieur professionnel et conférer les grades correspondants de gradué, respectivement de bachelor dans ou relatifs aux disciplines suivantes :
+
+§ 2. ]<sup>1</sup>
+
+§ 3. [<sup>1</sup> La Hogere Zeevaartschool peut proposer des formations dans l'enseignement supérieur professionnel HBO-5, dans l'enseignement supérieur professionnel et dans l'enseignement académique et conférer les grades correspondants, respectivement de gradué, de bachelor et de bachelor et master dans la discipline Sciences nautiques.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 80, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.72**
+
+[<sup>1</sup> L'article II.72 du Code de l'Enseignement supérieur du 11 octobre 2013 est complété par un alinéa 4, rédigé comme suit :
+
+" Les formations de bachelor à orientation professionnelle suivantes, classées dans la discipline " Handelswetenschappen en bedrijfskunde ", sont classées à partir de l'année académique 2021-2020 dans la discipline " Industriële wetenschappen en technologie " de l'enseignement supérieur professionnel :
+
+1° " bachelor in de toegepaste informatica " (bachelor en informatique appliquée) ; 2° Bachelor of Applied Computer Science ;
+
+3° Bachelor of Applied Information Technology. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-12-18/12, art. 25, 020; En vigueur : 01-09-2021&gt;
+
+**Art. II.73**
+
+**Art. II.74**
+
+**Art. II.75**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 81, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.76**
+
+**Art. II.77**
+
+#### Chapitre 5.
+
+**Art. II.78**
+
+[<sup>1</sup> Sur le territoire de la ville de Courtrai, la Katholieke Universiteit Leuven peut offrir la formation de master en sciences commerciales, dans la discipline sciences commerciales et gestion d'entreprise, et conférer le grade correspondant de master.
+
+Les règles visées à l'article II.153, § 2 au § 6, ne s'appliquent pas à la reconnaissance par le Gouvernement flamand de la formation visée à l'alinéa 1er. Pour la formation visée à l'alinéa 1er, la Katholieke Universiteit Leuven introduit immédiatement un dossier auprès de l'organisation d'accréditation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2025-07-18/31, art. 61, 044; En vigueur : 14-09-2025&gt;
+
+**Art. II.79**
+
+[<sup>3</sup> 3° Médecine, pour laquelle les grades de bachelier et de master peuvent être conférés ;]<sup>3</sup>
+
+[<sup>1</sup> § 3. Dans l'arrondissement administratif de Hasselt, l'Universiteit Hasselt peut offrir une formation de master en sciences de l'éducation " Wetenschappen en Technologie " (sciences et technologie) et décerner le diplôme de master correspondant dans la discipline " Wetenschappen " (Sciences). A cet effet, elle conclut un accord de coopération avec une autre université flamande compétente pour organiser cette formation de master.]<sup>1</sup>
+
+[<sup>2</sup> § 4. Sans préjudice de l'application des paragraphes 2 et 3, l'Universiteit Hasselt peut dispenser dans l'arrondissement administratif d'Hasselt les formations à orientation académique suivantes et conférer les grades correspondants :
+
+1° [<sup>3</sup> ...]<sup>3</sup> ;
+
+2° [<sup>3</sup> ...]<sup>3</sup>;
+
+3° dans la discipline Sciences, la formation de master en Materiomics, et conférer le grade correspondant de master ;
+
+4° dans la discipline Sciences politiques et sociales, la formation de bachelor en sciences sociales, et conférer le grade correspondant de bachelor]<sup>2</sup>;
+
+[<sup>3</sup> 5° dans la discipline Sciences politiques et sociales, la formation de master en Sciences sociales.]<sup>3</sup>
+
+[<sup>3</sup> Les règles visées à l'article II.153, § 2 au § 6, ne s'appliquent pas à la reconnaissance par le Gouvernement flamand de la formation visée à l'alinéa 1er, 5°. Pour la formation visée à l'alinéa 1er, l'Universiteit Hasselt introduit immédiatement un dossier auprès de l'organisation d'accréditation.
+
+Pour la formation de master en Médecine dans la discipline Médecine, l'Universiteit Hasselt conclut un accord de coopération avec une autre université flamande compétente pour organiser cette formation de master.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 105, 013; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 125, 017; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2025-07-18/31, art. 62, 044; En vigueur : 14-09-2025&gt;
+
+**Art. II.80**
+
+**Art. II.81**
+
+**Art. II.82**
+
+**Art. II.83**
+
+[<sup>1</sup> § 1er. La Arteveldehogeschool peut proposer des formations sur son site de Gand et délivrer les grades correspondants dans les disciplines suivantes :
+
+1° Soins de santé, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Sciences commerciales et gestion d'entreprise, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+3° Sciences industrielles et technologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+4° Enseignement, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+5° Travail socio-éducatif, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.
+
+§ 2. La Arteveldehogeschool peut proposer des formations sur son site d'Audenarde et délivrer les grades correspondants dans les disciplines suivantes :
+
+1° Sciences commerciales et gestion d'entreprise, discipline pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Soins de santé, discipline pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 82, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.84**
+
+[<sup>1</sup> § 1er. Odisee peut proposer des formations sur ses sites de Bruxelles-Capitale et de Dilbeek et conférer les grades correspondants dans les disciplines suivantes :
+
+1° Soins de santé, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Sciences commerciales et gestion d'entreprise, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+3° Enseignement, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+4° Travail socio-éducatif, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.
+
+§ 2. Odisee peut proposer des formations sur ses sites de Gand, Saint-Nicolas et Alost et conférer les grades correspondants dans les disciplines suivantes :
+
+1° Biotechnologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Soins de santé, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+3° Sciences commerciales et gestion d'entreprise, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+4° Sciences industrielles et technologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+5° Enseignement, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.]<sup>1</sup>
+
+[<sup>2</sup> § 3. Dans l'implantation de Bruxelles-Capitale, dans l'enseignement supérieur professionnel, dans la discipline " Industriële wetenschappen en technologie ", Odisee peut proposer la formation " bachelor in de toegepaste informatica " et conférer le grade correspondant de bachelor.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 83, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-12-18/12, art. 26, 020; En vigueur : 01-09-2021&gt;
+
+**Art. II.85**
+
+[<sup>1</sup> § 1er. La Erasmushogeschool Brussel peut proposer des formations sur son site de Bruxelles-Capitale et de Vilvorde et délivrer les grades correspondants dans les disciplines suivantes :
+
+1° Architecture, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Arts audiovisuels et arts plastiques, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+b) les grades de bachelor et de master peuvent être conférés dans l'enseignement académique à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+c) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+3° Biotechnique, discipline pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+4° Soins de santé, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+5° Sciences commerciales et gestion d'entreprise, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+6° Sciences industrielles et technologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+7° Musique et Arts de la Scène, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+b) les grades de bachelor et de master peuvent être conférés dans l'enseignement académique à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+c) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+8° Enseignement, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+9° Travail socio-éducatif, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.
+
+§ 2. La Erasmushogeschool Brussel peut proposer des formations sur son site de Louvain et délivrer les grades correspondants dans les disciplines suivantes :
+
+1° Sciences commerciales et gestion d'entreprise, discipline pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Sciences industrielles et technologie, discipline pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+3° Travail socio-éducatif, discipline pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.
+
+§ 3. La Erasmushogeschool peut proposer des formations sur son site de Diest et délivrer les grades correspondants dans la discipline Sciences commerciales et gestion d'entreprise, pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 84, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.86**
+
+**Art. II.87**
+
+[<sup>1</sup> c) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 85, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.88**
+
+[<sup>1</sup> § 1er. La Artesis Plantijn Hogeschool Antwerpen peut proposer des formations sur ses sites d'Anvers, Turnhout, Malines et Lierre et délivrer les grades correspondants dans les disciplines suivantes :
+
+1° Arts audiovisuels et arts plastiques, discipline pour laquelle :
+
+a) les grades de bachelor et de master peuvent être conférés dans l'enseignement académique à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+2° Soins de santé, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+3° Sciences commerciales et gestion d'entreprise, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+4° Sciences industrielles et technologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+5° Musique et Arts de la Scène, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+b) les grades de bachelor et de master peuvent être conférés dans l'enseignement académique à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+c) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+6° Enseignement, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+7° Travail socio-éducatif, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.
+
+§ 2. La Artesis Plantijn Hogeschool Antwerpen peut proposer des formations sur son site de Boom et délivrer les grades correspondants dans les disciplines suivantes :
+
+1° Soins de santé, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Sciences commerciales et gestion d'entreprise, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+3° Sciences industrielles et technologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+4° Enseignement, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+5° Travail socio-éducatif, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.
+
+§ 3. La Artesis Plantijn Hogeschool Antwerpen peut proposer des formations sur son site [<sup>2</sup> d'Anvers]<sup>2</sup> et délivrer les grades correspondants dans la discipline Biotechnique, pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 86, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 126, 017; En vigueur : 01-09-2020&gt;
+
+**Art. II.89**
+
+[<sup>1</sup> § 1er. La Hogeschool Gent peut proposer des formations sur ses sites de Gand et d'Alost et délivrer les grades correspondants dans les disciplines suivantes :
+
+1° Architecture, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Arts audiovisuels et arts plastiques, discipline pour laquelle :
+
+a) les grades de bachelor et de master peuvent être conférés dans l'enseignement académique à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+3° Biotechnologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+4° Soins de santé, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+5° Sciences commerciales et gestion d'entreprise, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+6° Sciences industrielles et technologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+7° Musique et Arts de la Scène, discipline pour laquelle :
+
+a) les grades de bachelor et de master peuvent être conférés dans l'enseignement académique à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+8° Enseignement, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+9° Travail socio-éducatif, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.
+
+§ 2. La Hogeschool Gent peut proposer des formations sur son site de Termonde et délivrer les grades correspondants dans la discipline Sciences commerciales et gestion d'entreprise, pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.
+
+§ 3. La Hogeschool Gent peut proposer des formations sur son site de Lokeren et délivrer les grades correspondants dans la discipline Sciences commerciales et gestion d'entreprise, pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 87, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.90**
+
+[<sup>1</sup> § 1er. La Hogeschool PXL peut proposer des formations sur son site de Hasselt et délivrer les grades y afférents dans les disciplines suivantes :
+
+1° Arts audiovisuels et arts plastiques, discipline pour laquelle :
+
+a) les grades de bachelor et de master peuvent être conférés dans l'enseignement académique à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+2° Biotechnologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+3° Soins de santé, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+4° Sciences commerciales et gestion d'entreprise, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+5° Sciences industrielles et technologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+6° Musique et Arts de la Scène, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+7° Enseignement, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+8° Travail socio-éducatif, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.
+
+§ 2. La Hogeschool PXL peut proposer des formations sur son site de Maasmechelen et délivrer les grades y afférents dans les disciplines suivantes :
+
+1° Sciences commerciales et gestion d'entreprise, discipline pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Sciences industrielles et technologie, discipline pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 88, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.91**
+
+[<sup>1</sup> La Hogeschool West-Vlaanderen peut proposer des formations sur ses sites de Bruges, Ostende et Courtrai et délivrer les grades correspondants dans les disciplines suivantes :
+
+1° Architecture, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Soins de santé, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+3° Sciences commerciales et gestion d'entreprise, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+4° Sciences industrielles et technologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+5° Enseignement, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+6° Travail socio-éducatif, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 89, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.92**
+
+[<sup>1</sup> § 1er. La LUCA School of Arts peut proposer des formations sur ses sites de Bruxelles-Capitale, Louvain et Gand et délivrer les grades correspondants dans les disciplines suivantes :
+
+1° Architecture, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Arts audiovisuels et arts plastiques, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+b) les grades de bachelor et de master peuvent être conférés dans l'enseignement académique à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+c) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+3° Sciences industrielles et technologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+4° Musique et Arts de la Scène, discipline pour laquelle :
+
+a) les grades de bachelor et de master peuvent être conférés dans l'enseignement académique à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts.
+
+§ 2. La LUCA School of Arts peut proposer des formations sur son site de [<sup>2</sup> les disciplines Médecine et Dentisterie]<sup>2</sup> et délivrer les grades correspondants dans les disciplines suivantes :
+
+1° Arts audiovisuels et arts plastiques, discipline pour laquelle :
+
+a) les grades de bachelor et de master peuvent être conférés dans l'enseignement académique à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 90, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2022-07-15/20, art. 5, 034; En vigueur : 01-10-2022&gt;
+
+**Art. II.93**
+
+[<sup>1</sup> La Karel de Grote-Hogeschool, Katholieke Hogeschool Antwerpen peut proposer des formations sur son site d'Anvers et délivrer les grades correspondants dans les disciplines suivantes :
+
+1° Arts audiovisuels et arts plastiques, discipline pour laquelle :
+
+a) les grades de bachelor et de master peuvent être conférés dans l'enseignement académique à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 à condition que l'enseignement soit dispensé dans le cadre d'une School of Arts ;
+
+2° Soins de santé, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+3° Sciences commerciales et gestion d'entreprise, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+4° Sciences industrielles et technologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+5° Enseignement, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+6° Travail socio-éducatif, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 91, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.94**
+
+[<sup>1</sup> § 1er. La Katholieke Hogeschool Vives Noord peut proposer des formations sur ses sites de Bruges et Ostende et délivrer les grades correspondants dans les disciplines suivantes :
+
+1° Soins de santé, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Sciences commerciales et gestion d'entreprise, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+3° Sciences industrielles et technologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+4° Enseignement, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.
+
+§ 2. La Katholieke Hogeschool Vives Noord peut proposer des formations sur ses sites d'Ypres et de Coxyde et délivrer les grades correspondants dans les disciplines suivantes :
+
+1° Sciences commerciales et gestion d'entreprise, discipline pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Sciences industrielles et technologie, discipline pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 92, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.95**
+
+[<sup>1</sup> § 1er. Thomas More Kempen peut proposer des formations sur ses sites de Vorselaar, Turnhout, Geel et Lierre et délivrer les grades correspondants dans les disciplines suivantes :
+
+1° Biotechnologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Soins de santé, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+3° Sciences commerciales et gestion d'entreprise, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+4° Sciences industrielles et technologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+5° Enseignement, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+6° Travail socio-éducatif, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.
+
+§ 2. Thomas More Kempen peut proposer des formations sur son site de Westerlo et délivrer les grades y afférents dans les disciplines suivantes :
+
+1° Sciences commerciales et gestion d'entreprise, discipline pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Sciences industrielles et technologie, discipline pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+3° Travail socio-éducatif, discipline pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 93, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.96**
+
+[<sup>1</sup> § 1er. UC Leuven peut proposer des formations sur ses sites de Louvain et Diest et délivrer les grades correspondants dans les disciplines suivantes :
+
+1° Soins de santé, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Sciences commerciales et gestion d'entreprise, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+3° Sciences industrielles et technologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+4° Enseignement, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+5° Travail socio-éducatif, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.
+
+§ 2. UC Leuven peut proposer des formations sur son site de Louvain et délivrer les grades correspondants dans la discipline Biotechnique, pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 94, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.97**
+
+[<sup>1</sup> UC Limburg peut proposer des formations sur son site de Diepenbeek et délivrer les grades correspondants dans les disciplines suivantes :
+
+1° Soins de santé, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Sciences commerciales et gestion d'entreprise, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+3° Sciences industrielles et technologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+4° Enseignement, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+5° Travail socio-éducatif, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 95, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.98**
+
+[<sup>1</sup> § 1er. Thomas More Mechelen-Antwerpen peut proposer des formations sur ses sites de Malines et de Sint-Katelijne-Waver et délivrer les grades y afférents dans les disciplines suivantes :
+
+1° Architecture, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Soins de santé, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+3° Sciences commerciales et gestion d'entreprise, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+4° Enseignement, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+5° Sciences industrielles et technologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.
+
+§ 2. Thomas More Mechelen-Antwerpen peut proposer des formations sur son site d'Anvers et délivrer les grades y afférents dans les disciplines suivantes :
+
+1° Biotechnique, discipline pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Soins de santé, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+3° Sciences commerciales et gestion d'entreprise, discipline pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+4° Sciences industrielles et technologie, discipline pour laquelle le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+5° Travail socio-éducatif, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 96, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.99**
+
+**Art. II.100**
+
+[<sup>1</sup> La Katholieke Hogeschool Vives Zuid peut proposer des formations sur ses sites de Courtrai, Tielt, Roulers et Torhout et délivrer les grades correspondants dans les disciplines suivantes :
+
+1° Biotechnologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+2° Soins de santé, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+3° Sciences commerciales et gestion d'entreprise, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+4° Sciences industrielles et technologie, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+5° Enseignement, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5 ;
+
+6° Travail socio-éducatif, discipline pour laquelle :
+
+a) le grade de bachelor peut être conféré dans l'enseignement supérieur professionnel ;
+
+b) le grade de gradué peut être conféré dans l'enseignement supérieur professionnel hbo5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 97, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.100/1**
+
+[<sup>1</sup> Outre les formations visées à l'article II.88, la Artesis Plantijn Hogeschool Antwerpen peut proposer sur son site de Mol la formation de l'enseignement supérieur professionnel hbo5 Travaux publics et conférer le grade de gradué.
+
+Outre les formations visées à l'article II.89, la Hogeschool Gent peut proposer sur son site de Grammont la formation de l'enseignement supérieur professionnel hbo5 Comptabilité et conférer le grade de gradué.
+
+Outre les formations visées à l'article II.91, la Hogeschool West-Vlaanderen peut proposer sur son site d'Anvers la formation de l'enseignement supérieur professionnel hbo5 Dessinateur en construction et conférer le grade de gradué.
+
+Outre les formations visées à l'article II.94, la Katholieke Hogeschool Vives Noord peut proposer sur son site de Courtrai les formations de l'enseignement supérieur professionnel hbo5 Electromécanique, Electronique et Mécanique et conférer le grade de gradué.
+
+Outre les formations visées à l'article II.95, Thomas More Kempen peut proposer sur son site de Herentals les formations de l'enseignement supérieur professionnel hbo5 Comptabilité et Informatique et conférer le grade de gradué.
+
+Outre les formations visées à l'article II.97, UC Limburg peut :
+
+1° proposer sur son site de Maasmechelen la formation de l'enseignement supérieur professionnel hbo5 Comptabilité et conférer le grade de gradué ;
+
+2° proposer sur son site d'Overpelt les formations de l'enseignement supérieur professionnel hbo5 Electricité et Mécanique et conférer le grade de gradué.
+
+Outre les formations visées à l'article II.98, Thomas More Mechelen-Antwerpen peut proposer sur son site de Saint-Nicolas la formation de l'enseignement supérieur professionnel hbo5 Comptabilité et conférer le grade de gradué.
+
+Outre les formations visées à l'article II.100, la Katholieke Hogeschool Vives Zuid peut proposer sur son site de Bruges les formations de l'enseignement supérieur professionnel hbo5 Informatique et Technique des véhicules automobiles et conférer le grade de gradué.
+
+Lorsqu'une formation visée au présent article n'est pas organisée pendant deux années académiques consécutives, la compétence d'enseignement s'éteint.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 98, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.100/1bis**
+
+[<sup>1</sup> § 1er. Outre les formations visées aux articles II.83 à II.100, un institut supérieur peut, en vue d'une meilleure accessibilité de l'offre, également proposer la formation de graduat éducatif pour l'enseignement secondaire, visée à l'article II.112, et le parcours raccourci de la formation de bachelor éducatif pour l'enseignement secondaire, visé à l'article II.113, § 4 [<sup>2</sup> et le parcours consécutif de la formation de master éducatif à une université, dans la mesure où il est mentionné nominativement à l'article II.114, § 6,]<sup>2</sup>, sur le site d'un centre d'éducation des adultes si toutes les conditions suivantes sont remplies :
+
+1° le centre d'éducation des adultes avait la compétence d'enseignement pour la formation spécifique des enseignants conformément à l'annexe 2 de l'arrêté du Gouvernement flamand du 8 septembre 2017 relatif aux compétences d'enseignement par implantation des centres d'éducation des adultes ;
+
+2° le centre d'éducation des adultes a conclu un accord avec l'institut supérieur en question, tel que visé à l'article III.33/1.
+
+§ 2. Outre les formations visées aux articles II.78 à II.100, un institut supérieur peut, dans le cadre d'une School of Arts, ou une université, en vue d'une meilleure accessibilité de l'offre, également proposer le parcours raccourci de la formation de master éducatif, visé à l'article II.114, § 4, sur le site d'un centre d'éducation des adultes si toutes les conditions suivantes sont remplies :
+
+1° le centre d'éducation des adultes avait la compétence d'enseignement pour la formation spécifique des enseignants conformément à l'annexe 2 de l'arrêté du Gouvernement flamand du 8 septembre 2017 relatif aux compétences d'enseignement par implantation des centres d'éducation des adultes ;
+
+2° le centre d'éducation des adultes a conclu un accord avec l'institut supérieur ou l'université en question, tel que visé à l'article III.33/1.
+
+§ 3. Sans préjudice de l'application du paragraphe 2, l'Université de Gand peut également proposer le parcours raccourci de la formation de master éducatif pour l'enseignement secondaire sur son site de Courtrai.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 99, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 127, 017; En vigueur : 01-09-2020&gt;
+
+**Art. II.101**
+
+&lt;Abrogé par AGF 2013-12-20/57, art. 3, 999; En vigueur : 01-01-2014&gt;
+
+**Art. II.104**
+
+&lt;Abrogé par DCFL 2018-05-04/28, art. 100, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.105.**
+
+[<sup>1</sup> Note:pour l'article complet, voir la version néerlandaise]<sup>1</sup>[<sup>2</sup> Evangelische Theologische Faculteit, Louvain ]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/55, art. 1, 041; En vigueur : 01-09-2024&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 137, 041; En vigueur : 01-09-2024&gt;
+
+**Art. II.106**
+
+[<sup>1</sup> (voir version néerlandaise) ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 18, 012; En vigueur : 01-10-2018&gt;
+
+##### Section 1re. [<sup>1</sup> Dispositions relatives au contenu]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 101, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.107**
+
+[<sup>1</sup> § 1er. Le profil professionnel de l'enseignant est la description des connaissances, des compétences et des attitudes de l'enseignant dans sa pratique professionnelle et comprend la connaissance de la matière à enseigner, les compétences didactiques nécessaires, la gestion de classe, l'approche du contexte métropolitain, les compétences linguistiques en néerlandais, le multilinguisme et la diversification des activités éducatives. Le profil professionnel comprend les tâches qu'un enseignant expérimenté accomplit et accomplira. Outre une base solide, il sera également tenu compte des capacités de réaction aux évolutions sociales et autres.
+
+Le Gouvernement flamand détermine le profil professionnel de l'enseignant sur avis du Conseil flamand de l'enseignement. Le Gouvernement flamand soumettra ce profil professionnel au Parlement flamand pour approbation.
+
+§ 2. Les compétences de base de l'enseignant nouvellement diplômé sont la description des connaissances, aptitudes et attitudes dont chaque diplômé doit disposer pour fonctionner de manière indépendante et qualitativement équivalente en tant qu'enseignant débutant avec l'attitude professionnelle appropriée. Les compétences de base permettent à l'enseignant de progresser vers le profil professionnel et en dérivent directement.
+
+Le Gouvernement flamand détermine les compétences de base sur avis du Conseil flamand de l'enseignement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 102, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.108**
+
+[<sup>1</sup> § 1er. Dans le présent arrêté, on entend par :
+
+1° formation en cours d'emploi : la composante pratique de la formation des enseignants qu'accomplit le candidat enseignant en tant que membre du personnel d'un centre, d'un établissement ou d'une école ;
+
+2° formation pré-emploi : la composante pratique de la formation des enseignants qu'accomplit l'étudiant sans avoir une relation statutaire avec un centre, un établissement ou une école.
+
+[<sup>2</sup> 1° /1 Emploi LIO : un emploi d'enseignant en formation ;]<sup>2</sup>
+
+§ 2. Le programme de la formation des enseignants constitue un ensemble intégré d'une ou plusieurs matières et de l'aspect compétences pédagogiques, y compris un volet de didactique disciplinaire et de gestion de classe, et consiste en une combinaison d'enseignement théorique et pratique qui réagit aux thèmes et développements sociétaux actuels.
+
+La composante pratique du programme de formation, lors de laquelle l'étudiant accomplit principalement des tâches dans un contexte réel scolaire et de classe, comprend l'ensemble des activités d'enseignement orientées vers la pratique ainsi que la formation pré-emploi et/ou la formation en cours d'emploi. Le volume des études de la composante pratique s'élève à au moins 30 unités d'études.
+
+§ 3. Le stage pré-emploi est encadré par un membre du personnel de l'établissement proposant la formation d'enseignant, appelé maître de stage, et par un membre du personnel du centre, de l'établissement ou de l'école, qui est chargé du tutorat. Les établissements proposant la formation d'enseignant concluent un accord avec les centres, établissements ou écoles. Cet accord comprend entre autres la répartition des responsabilités entre le centre, l'établissement ou l'école, l'étudiant et l'établissement proposant la formation d'enseignant, tout en définissant le rôle du centre, de l'établissement ou de l'école dans l'évaluation de l'étudiant, la période de l'année scolaire dans laquelle le stage pré-emploi a lieu et les tâches que le stagiaire doit accomplir.
+
+[<sup>2</sup> Le stage en cours d'emploi se déroule sous la forme d'un emploi LIO.]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>-1
+
+[<sup>2</sup> § 4. L'emploi LIO répond aux conditions suivantes :
+
+1° l'emploi LIO est exercé dans un ou plusieurs établissements d'enseignement agréés, financés ou subventionnés de l'enseignement fondamental ordinaire ou spécial, de l'enseignement secondaire ordinaire ou spécial, ou de l'enseignement secondaire professionnel à temps partiel, [<sup>3</sup> de l'école IC, de l'enseignement artistique à temps partiel, de l'éducation des adultes ou de l'éducation de base]<sup>3</sup> ;
+
+2° l'enseignant en formation est désigné dans une fonction du personnel enseignant et suit une formation des enseignants qui offre une formation pour le même niveau d'éducation que celui où la fonction est exercée ;
+
+3° l'enseignant en formation est accompagné par un membre du personnel d'un ou de plusieurs établissements d'enseignement, qui est chargé du tutorat ;
+
+4° les établissements qui proposent les formations des enseignants, concluent une convention avec les établissements d'enseignement concernés. Cette convention prévoit entre autres la répartition des responsabilités entre l'établissement d'enseignement, l'enseignant en formation et l'établissement qui propose la formation des enseignants, et fixe le rôle de l'établissement d'enseignement dans la formation, l'accompagnement et l'évaluation de l'enseignant en formation ;
+
+5° un emploi LIO qui représente sur une base annuelle au moins cinq cents périodes-professeur, heures de cours, périodes-enseignant ou périodes de cours, peut remplacer au maximum trente unités d'études composante pratique. Dans un centre d'éducation de base, un emploi LIO qui représente au moins 0,6 ETP, peut remplacer au maximum trente unités d'études composante pratique. Un emploi LIO qui représente sur une base annuelle moins de cinq cents périodes-professeur, heures de cours, périodes-enseignant ou périodes de cours, est complété par un stage pré-emploi. Un emploi LIO dans un centre d'éducation de base qui représente sur une base annuelle moins de 0,6 ETP, est complété par un stage pré-emploi ;
+
+6° l'emploi LIO ne peut jamais remplacer plus de trente unités d'études composante pratique.
+
+Sans préjudice de l'application de l'alinéa 1er, un emploi LIO dans l'enseignement fondamental est uniquement possible pour :
+
+1° l'enseignant en formation qui est désigné dans une fonction telle que visée à l'article 2, 1°, a) à d) inclus, de l'arrêté du Gouvernement flamand du 24 janvier 2003 déterminant et classant les fonctions dans l'enseignement spécial ;
+
+2° l'enseignant en formation qui est désigné dans une fonction telle que visée à l'article 2, 1°, a) à c) inclus, de l'arrêté du Gouvernement flamand du 25 juin 2004 déterminant et classant les fonctions dans l'enseignement fondamental ordinaire.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 103, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2023-07-14/14, art. 86, 037; En vigueur : 01-09-2023&gt;
+
+(3)&lt;DCFL 2026-07-03/10, art. 36, 047; En vigueur : 01-09-2026&gt;
+
+**Art. II.109**
+
+[<sup>1</sup> Sans préjudice de l'organisation des cours de formation des enseignants, visés à l'article II.111, les instituts supérieurs et les universités proposant des formations d'enseignants [<sup>2</sup> et la " [<sup>3</sup> Evangelische Theologische Faculteit, Louvain]<sup>3</sup> ",]<sup>2</sup> ont les missions suivantes :
+
+1° contribuer au développement du continuum professionnel et au développement de la capacité de réflexion des futurs enseignants ;
+
+2° développer une offre de professionnalisation et de formation continue avec une équipe de qualité et complémentaire de formateurs d'enseignants, surtout en termes d'expérience suffisante de classe, établissant ainsi un lien entre les formations des enseignants, les services d'encadrement pédagogique et les autres prestataires de services de professionnalisation des enseignants ;
+
+3° soutenir l'encadrement initial des enseignants débutants, sous la responsabilité de l'école où travaillent ces enseignants et en collaboration avec les services d'encadrement pédagogique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 104, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 128, 017; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2024-04-19/55, art. 138, 041; En vigueur : 01-09-2024&gt;
+
+**Art. II.110**
+
+[<sup>1</sup> § 1er. Les instituts supérieurs et/ou les universités et/ou les institutions enregistrées d'office peuvent conclure un accord sur l'organisation des formations des enseignants, à savoir sur les activités d'enseignement et d'études, la gestion de la qualité et l'utilisation d'infrastructure, comme prévu à l'article II.173.
+
+§ 2. Le Gouvernement flamand peut octroyer des moyens aux initiatives qui améliorent la qualité des formations des enseignants et/ou favorisent la coopération entre les formations des enseignants. A cet effet il fixera au moins tous les cinq ans les priorités politiques.
+
+Ces initiatives peuvent être organisées par des instituts supérieurs et/ou des universités et/[<sup>2</sup> ou la " [<sup>3</sup> Evangelische Theologische Faculteit, Louvain ]<sup>3</sup> "]<sup>2</sup> qui organisent un ou plusieurs formations des enseignants.
+
+Le Gouvernement flamand fixe les modalités quant au contenu, à l'organisation et à la procédure pour l'octroi des moyens.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 106, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 129, 017; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2024-04-19/55, art. 139, 041; En vigueur : 01-09-2024&gt;
+
+##### Section 2. [<sup>1</sup> Dispositions organisationnelles]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 107, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.111**
+
+[<sup>1</sup> A partir de l'année académique 2019-2020 les suivantes formations des enseignants sont proposées dans l'enseignement supérieur :
+
+1° la formation de graduat éducatif pour l'enseignement secondaire ;
+
+2° la formation de bachelor éducatif pour l'enseignement maternel ;
+
+3° la formation de bachelor pour l'enseignement primaire ;
+
+4° la formation de bachelor éducatif pour l'enseignement secondaire ;
+
+5° la formation de master éducatif pour l'enseignement secondaire ;
+
+6° la formation de master éducatif pour les cours artistiques.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 108, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.112**
+
+[<sup>1</sup> § 1er. La formation de graduat éducatif pour l'enseignement secondaire est proposée par les instituts supérieurs au sein de l'enseignement supérieur professionnel hbo5 dans la discipline Enseignement avec un volume de 90 unités d'études.
+
+§ 2. L'accès à la formation de graduat éducatif pour l'enseignement secondaire est limité aux étudiants qui peuvent justifier d'au moins trois années d'expérience utile dans une matière technique ou pratique. Le Gouvernement flamand détermine le mode de justification de cette expérience utile.
+
+§ 3. Afin de répondre de manière optimale aux besoins du groupe cible de la formation de graduat éducatif pour l'enseignement secondaire, la formation est proposée sur mesure de l'étudiant en termes d'organisation et de méthodologie. L'accent est mis sur la possibilité de suivre la formation dans le cadre d'un emploi LIO.
+
+§ 4. Par dérogation à la procédure visée au chapitre IV, section II/1 du décret du 30 avril 2009 relatif à la structure des qualifications, la formation de graduat éducatif pour l'enseignement secondaire est développée conformément aux procédures visées aux articles II.68, II.108, § 2, II.141, II.152 et II.153.
+
+La demande, visée à l'article II.152, peut être présentée pour la formation de graduat éducatif pour l'enseignement secondaire sans la décision du Gouvernement flamand de reconnaître une qualification professionnelle.
+
+§ 5. [<sup>2</sup> Sans préjudice du paragraphe 2, pour être admis à la formation de graduat éducatif pour l'enseignement secondaire, matière d'enseignement `danse', le candidat doit avoir réussi un examen d'admission artistique, organisé par l'institut supérieur qui organise la formation professionnelle de bachelor en danse dans le cadre d'une School of Arts. Les conditions d'admission, visées à l'article II.176, ne s'appliquent pas.]<sup>2</sup>
+
+§ 6. Le Gouvernement flamand peut fixer d'autres règles et conditions dans lesquelles la formation de graduat éducatif pour l'enseignement secondaire est organisée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 109, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 130, 017; En vigueur : 01-09-2020&gt;
+
+**Art. II.113**
+
+[<sup>1</sup> § 1er. Les formations de bachelor éducatif, respectivement pour l'enseignement maternel, primaire et secondaire, sont proposées par les instituts supérieurs au sein de l'enseignement supérieur professionnel dans la discipline Enseignement avec un volume de 180 unités d'études.
+
+Par dérogation à l'article II.108, § 2, alinéa 2, la composante pratique s'élève à au moins 45 unités d'études.
+
+§ 2. Le Gouvernement flamand établit une liste des matières d'enseignement que les instituts supérieurs peuvent proposer dans le cadre de la formation de bachelor éducatif pour l'enseignement secondaire. Les étudiants de cette formation choisissent deux matières parmi l'offre de l'institut supérieur.
+
+§ 3. Par dérogation au paragraphe 2, un étudiant déjà titulaire d'un des diplômes ou combinaisons de diplômes suivants, peut obtenir un diplôme de la formation de bachelor éducatif pour l'enseignement secondaire avec seulement une matière d'enseignement :
+
+1° un diplôme de bachelor ou de master éducatifs ;
+
+2° [<sup>3</sup> un certificat d'aptitude pédagogique, tel que visé à l'article 3 de l'arrêté du Gouvernement flamand du 14 juin 1989 relatif aux certificats d'aptitude, aux échelles de traitement, au système de prestations et au système de rémunération dans l'enseignement secondaire, en combinaison avec un diplôme de bachelier ou de licencié;]<sup>3</sup>
+
+3° [<sup>3</sup> un titre reconnu comme équivalent à l'un des diplômes précités en vertu d'une norme légale, d'une directive européenne ou d'une convention internationale ;]<sup>3</sup>
+
+4° [<sup>3</sup> ...]<sup>3</sup>
+
+§ 4. Par dérogation au paragraphe 2, un étudiant déjà titulaire d'un diplôme de bachelor peut obtenir un diplôme de la formation de bachelor éducatif pour l'enseignement secondaire sans la mention des matières d'enseignement. [<sup>5</sup> Par dérogation au paragraphe 2, un étudiant qui dispose d'un diplôme de master ou d'un certificat d'étude reconnu équivalent à un diplôme de master en vertu d'une norme juridique, d'une directive européenne ou d'un accord international, peut également ]<sup>5</sup> obtenir un diplôme de la formation de bachelor éducatif pour l'enseignement secondaire sans la mention des matières d'enseignement.]<sup>2</sup>
+
+Les instituts supérieurs qui proposent la formation de bachelor éducatif pour l'enseignement secondaire proposent la composante compétences pédagogiques, y compris un cluster de didactique disciplinaire, en tant que parcours raccourci de cette formation.
+
+Le parcours raccourci, qui met l'accent sur la composante compétences pédagogiques, forme un ensemble cohérent de soixante unités d'études, y compris la composante pratique d'au moins trente unités d'études et d'un cluster de didactique disciplinaire. Le parcours est proposé sur mesure de l'étudiant en termes d'organisation et de méthodologie.
+
+Le parcours raccourci, qui suit un diplôme de bachelor [<sup>4</sup> ou un diplôme assimilé au grade de master]<sup>4</sup> obtenu dans une formation artistique, ne peut être organisée qu'en collaboration avec une School of Arts. Par dérogation à l'article II.171, une School of Arts peut organiser conjointement la formation au sein de la discipline enseignement, même si l'institut supérieur auquel appartient la School of Arts n'a pas la compétence d'enseignement dans la discipline enseignement.
+
+Dans le parcours raccourci, l'accent sera davantage mis sur la possibilité de suivre la formation au sein d'un emploi LIO. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 110, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 131, 017; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2021-07-09/33, art. 204, 022; En vigueur : 01-09-2021&gt;
+
+(4)&lt;DCFL 2021-07-09/33, art. 205, 022; En vigueur : 01-09-2020&gt;
+
+(5)&lt;DCFL 2023-07-07/17, art. 120, 031; En vigueur : 01-09-2023&gt;
+
+**Art. II.114**
+
+[<sup>1</sup> § 1er. Les formations de master éducatif pour l'enseignement secondaire et les disciplines artistiques sont proposées respectivement par les universités ou les instituts supérieurs dans le cadre d'une School of Arts au sein de l'enseignement académique et ont un volume de 90 ou 120 unités d'études.
+
+L'étudiant ne peut obtenir le diplôme de master éducatif et le grade de master qu'après avoir terminé avec succès la composante compétences pédagogiques totalisant 60 unités d'études.
+
+La composante compétences pédagogiques d'une formation de master éducatif a un volume d'au moins 45 unités d'études, quel que soit le volume d'études de la formation de master.
+
+L'étudiant peut réaliser les 15 unités d'études restantes des manières suivantes :
+
+1° il réalise des unités d'études de la composante compétences pédagogiques sous forme d'un ensemble de cours optionnels dans une formation de bachelor académique. L'institut supérieur, dans le cadre d'une School of Arts, ou l'université proposent à cet effet 15 unités d'études en cours optionnels éducatifs dans les formations de bachelor académique conduisant directement à une formation de master éducatif ;
+
+2° si l'étudiant ne suit pas la composante compétences pédagogiques dans une formation de bachelor, il peut la réaliser dans le cadre d'un programme préparatoire qu'il suit avant ou en même temps qu'une formation de master éducatif ;
+
+3° si l'étudiant ne suit pas la composante compétences pédagogiques dans une formation de bachelor ou dans le cadre d'un programme préparatoire, il peut la réaliser sous forme d'un ensemble de cours optionnels dans la formation de master éducatif. Cette option ne peut être organisée que si les deux premières options sont également organisées au sein de l'établissement même.
+
+La composante artistique des formations de master pour les disciplines artistiques représente au moins la moitié des unités d'études.
+
+[<sup>2</sup> Par dérogation à l'alinéa 4, un étudiant qui s'inscrit directement à une formation de bachelor dans la discipline Architecture, Arts audiovisuels et plastiques, Sciences du mouvement et de réadaptation motrice, Sciences biomédicales, Médecine vétérinaire, Sciences pharmaceutiques, Médecine, Sciences industrielles et technologie, Musique et arts de la scène, Droit, notariat et criminologie, Sciences sociales de la santé, Sciences dentaires, Sciences biologiques appliquées ou Sciences appliquées, peut acquérir le capital de 15 unités d'études pour la composante profession enseignante de la façon suivante :
+
+1° dans le cadre d'un programme préparatoire qu'il suit avant ou en même temps qu'une formation de master éducatif ;
+
+2° sous la forme d'un ensemble de cours optionnels dans la formation de master éducatif.]<sup>2</sup>
+
+[<sup>2</sup> Les conditions d'admission spéciales visées à l'article II.186 ne s'appliquent pas au programme préparatoire visé à l'alinéa 4.]<sup>2</sup>
+
+§ 2. Le Gouvernement flamand détermine quelles formations de master éducatif peuvent être proposées par les instituts supérieurs dans le cadre d'une School of Arts, ou par les universités. Le Gouvernement flamand détermine également le volume d'études des formations de master éducatif et la discipline dont relèvent les formations de master éducatif.
+
+§ 3. Le Gouvernement flamand établit une liste des didactiques disciplinaires que les instituts supérieurs, dans le cadre d'une School of Arts, et les universités peuvent proposer au sein des formations de master éducatif pour l'enseignement secondaire et les disciplines artistiques. Les étudiants de ces formations choisissent au moins une didactique disciplinaire parmi l'éventail offert par l'institut supérieur ou l'université, qui veillent à ce que l'étudiant dispose des connaissances préalables nécessaires dans la matière. Les didactiques disciplinaires et les composantes de formation connexes sont une condition préalable à la délivrance des certificats d'aptitude dans l'enseignement secondaire.
+
+§ 4. Un étudiant déjà titulaire d'un diplôme de master peut, sur la base de ce diplôme, être exempté de la composante technique d'une formation de master éducatif pour l'enseignement secondaire ou les matières artistiques.
+
+Les universités proposant la formation de master éducatif pour l'enseignement secondaire proposent la composante compétences pédagogiques, y compris un cluster didactique disciplinaire, comme parcours raccourci de cette formation pour les étudiants disposant déjà d'un diplôme de master.
+
+Les instituts supérieurs qui, dans le cadre d'une School of Arts, proposent la formation de master éducatif dans les matières artistiques, proposent la composante compétences pédagogiques, y compris un cluster didactique disciplinaire, comme parcours raccourci de cette formation pour les étudiants disposant déjà d'un diplôme de master.
+
+Le parcours raccourci forme un ensemble cohérent de 60 unités d'études, y compris la composante pratique d'au moins 30 unités d'études, et est proposé sur mesure de l'étudiant en termes d'organisation et de méthodologie.
+
+Dans le parcours raccourci, l'accent sera davantage mis sur la possibilité de suivre la formation au sein d'un emploi LIO.
+
+[<sup>3</sup> § 4/1. L'article II.244 ne s'applique pas à l'étudiant déjà titulaire d'un diplôme d'une formation de master éducatif qui souhaite suivre cette formation de master éducatif pour obtenir une didactique spéciale supplémentaire.]<sup>3</sup>
+
+§ 5. Par dérogation au paragraphe 4, un institut supérieur peut organiser, dans le cadre d'une School of Arts, une formation de master éducatif pour des matières artistiques sous la forme d'un parcours consécutif.
+
+Ce parcours consécutif a un volume de 60 unités d'études, y compris la composante pratique d'au moins 30 unités d'études, et est proposé sur mesure de l'étudiant en termes d'organisation et de méthodologie. L'institut supérieur propose le parcours consécutif sans organiser l'ensemble de la formation de master éducatif pour les matières artistiques.
+
+En tant que condition d'admission à une formation de master éducatif pour les matières artistiques pour lesquelles l'institut supérieur n'organise que le parcours consécutif, l'étudiant doit disposer d'un diplôme de master dans la discipline à laquelle appartient la formation de master éducatif.]<sup>1</sup>
+
+[<sup>2</sup> § 6. Par dérogation au paragraphe 4, une université peut organiser une formation de master éducatif sous la forme d'un parcours consécutif, s'il s'agit d'une formation de master éducatif dans la discipline Sciences biomédicales, Médecine vétérinaire ou Sciences sociales de la santé, ou si la formation de master éducatif suit une formation de master qui comporte une formation de bachelor dans l'enseignement supérieur professionnel comme condition d'admission générale en l'application de l'article II.182, § 2/1.]<sup>2</sup>
+
+[<sup>4</sup> § 7. L'[<sup>5</sup> Evangelische Theologische Faculteit, Louvain]<sup>5</sup> à Heverlee peut offrir une formation de master éducatif pour l'enseignement secondaire conformément aux dispositions visées aux paragraphes 1er à 4 du présent article.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 111, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2019-03-01/26, art. 19, 012; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2020-07-03/39, art. 132, 017; En vigueur : 01-09-2020&gt;
+
+(4)&lt;DCFL 2020-07-03/39, art. 133, 017; En vigueur : 01-09-2020&gt;
+
+(5)&lt;DCFL 2024-04-19/55, art. 140, 041; En vigueur : 01-09-2024&gt;
+
+**Art. II.114/1.**
+
+[<sup>1</sup> A partir de l'année académique 2025-2026, une formation de master pour l'enseignement fondamental peut être proposée, axée sur l'enseignement dans l'enseignement fondamental et sur la constitution d'une expertise scientifique pouvant être utilisée dans l'enseignement fondamental afin de renforcer la propre pratique de classe, la politique de l'école et le développement de l'école.
+
+En application de l'article II.68, les acquis de formation et d'éducation spécifiques au domaine de cette formation sont établis conjointement par les universités et les hautes écoles concernées et validés par l'organisation d'accréditation.
+
+Par dérogation aux articles II.59 et II.71, la formation de master pour l'enseignement fondamental est proposée conjointement par une université et une ou plusieurs hautes écoles.
+
+L'université concernée délivre le diplôme et le grade de master dans la discipline 'psychologie en pedagogische wetenschappen' et dans la discipline 'onderwijs' (enseignement). Les institutions d'enseignement supérieur concernées demandent pour ce faire conjointement une 'évaluation nouvelle formation' auprès de l'organisation d'accréditation, conformément à la procédure visée dans la partie 2, titre 3, chapitre 9, section 3/1. L'organisation d'accréditation vérifie s'il est effectivement question d'une coopération structurelle et durable entre les hautes écoles et les universités. L'organisation d'accréditation ne peut accorder une décision d'accréditation positive que s'il existe effectivement une coopération structurelle et durable. Une deuxième condition consiste dans une large participation des demandeurs dans l'élaboration du curriculum. Les dispositions de l'article II.153, § 2 à § 6, ne s'appliquent pas à la formation de master pour l'enseignement fondamental.
+
+Le Gouvernement flamand peut reconnaître un maximum de 5 formations de master pour l'enseignement fondamental. Chaque formation ne peut être proposée que sur un seul site et en Flandre occidentale pour les universités qui y ont un site. En outre, les institutions d'enseignement supérieur ont la possibilité d'organiser en co-création au maximum un tiers des crédits de la formation de master sur les sites des hautes écoles avec lesquelles l'université propose conjointement la formation de master.
+
+La partie 2, titre 3, chapitre 5, ne s'applique pas à cette reconnaissance.
+
+Le Gouvernement flamand peut reconnaître une formation de master pour l'enseignement fondamental après réception d'une décision d'évaluation positive de l'organisation d'accréditation, visée dans la partie 2, titre 3, chapitre 9, section 3/1, sous-section 4. Le Gouvernement flamand adopte un arrêté portant reconnaissance de cette nouvelle formation dans un délai d'ordre de 30 jours prenant cours le lendemain du jour de réception de la décision d'évaluation positive et du rapport d'évaluation sous-jacent de l'organisation d'accréditation. L'arrêté entre en vigueur au moment de sa notification à l'institution. La formation reçoit un agrément en tant que nouvelle formation jusqu'à la fin de la deuxième année académique qui suit la fin de l'année académique au cours de laquelle le volume des études de la formation de master pour l'enseignement fondamental a été entièrement achevé pour la première fois.
+
+[<sup>2</sup> L'université et les hautes écoles impliquées dans la formation concluent une convention qui comprend des accords sur le programme de formation, le mode d'administration des étudiants et les transactions financières entre les établissements. La convention détermine également le mode de répartition des moyens générés, sur la base des points de financement établis de la formation. Lors de cette répartition, il est tenu compte de la charge de travail des différents partenaires concernés, et au moins 30 pour cent des moyens générés sont transférés par l'université aux hautes écoles participantes]<sup>2</sup>. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/55, art. 141, 041; En vigueur : 01-09-2024&gt;
+
+(2)&lt;DCFL 2025-07-18/31, art. 63, 044; En vigueur : 01-09-2025&gt;
+
+**Art. II.115**
+
+[<sup>1</sup> Sans préjudice de l'application de l'article II.189, tous les personnels de l'enseignement ont accès, à partir de l'année académique 2006-2007, à la formation de bachelor après bachelor Enseignement spécial et à la formation de bachelor après bachelor Encadrement renforcé et Cours de Rattrapage.]<sup>1</sup>
+
+----------
+
+(1)&lt;2018-05-04/28, art. 113, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.116**
+
+&lt;Abrogé par DCFL 2020-07-03/39, art. 134, 017; En vigueur : 01-09-2020&gt;
+
+**Art. II.117**
+
+A l'appui de la politique menée par les instituts supérieurs et universités dans le cadre de l'enseignement supérieur inclusif, les instituts supérieurs et les universités seront, à partir de l'année budgétaire 2017, bénéficiaires d'un montant supplémentaire ajouté à l'allocation sociale attribuée annuellement aux instituts supérieurs et aux universités en vertu de l'article III.66 du présent Code.
+
+**Art. II.118**
+
+[<sup>1</sup> Comme prévu par l'article III.66 du présent Code, le montant ajouté en vertu de l'article II.117 à l'allocation sociale ne peut être affecté qu'aux matières liées à la formation pour les étudiants ayant des limitations fonctionnelles au sens de l'article II.276, § 3 du présent Code]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par XX XX-XX-XX/XX, art. 1, 004; En vigueur : XX-XX-XXXX&gt;
+
+**Art. II.119**
+
+[<sup>1</sup> Dans le rapport annuel sur les services aux étudiants, les instituts supérieurs et universités rendent compte du contenu global de l'accompagnement et de l'affectation du montant ajouté à l'allocation sociale selon l'article II.117 pour le soutien de l'étudiant.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par XX XX-XX-XX/XX, art. 1, 004; En vigueur : XX-XX-XXXX&gt;
+
+**Art. II.120**
+
+&lt;Abrogé par XX XX-XX-XX/XX, art. VI.11.; En vigueur : XX-XX-XXXX&gt;
+
+**Art. II.122**
+
+[<sup>1</sup> § 1er. Les institutions d'enseignement supérieur assurent la qualité des activités d'enseignement. Elles veillent en permanence et de propre initiative à la qualité de leurs activités d'enseignement. Elles impliquent des parties prenantes internes et externes et des experts externes et impartiaux dans les processus d'assurance qualité. Elles prévoient une évaluation régulière de la qualité de leurs activités d'enseignement.
+
+§ 2. Les institutions d'enseignement supérieur rendent compte de la qualité des leurs formations.
+
+Les institutions visées aux articles II.2 et II.3 le font au sein ou sur mesure de la propre gestion de l'assurance qualité de leurs formations conformément aux dispositions, visées au chapitre 9/1, sections 2 et 3.
+
+[<sup>3</sup> En ce qui concerne la transnationale Universiteit Limburg, les dispositions mentionnées au chapitre 9/1 s'appliquent uniquement au campus universitaire de Diepenbeek-Hasselt.]<sup>3</sup>
+
+Les institutions visées aux articles II.19, II.20, II.21, II.105 et II.106, et les institutions enregistrées visées à l'article II.6 le font au moyen d'évaluations effectuées par des organes d'évaluation externes au niveau de la formation conformément aux dispositions visées au chapitre 9/1, section 4.]<sup>1</sup>
+
+§ 5. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 9. [<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-18/14, art. 9, 007; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2018-05-04/28, art. 115, 010; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2019-03-01/26, art. 20, 012; En vigueur : 01-09-2019&gt;
+
+**Art. II.124/1**
+
+[<sup>1</sup> Les institutions prennent en charge les coûts des procédures d'évaluation, visées aux chapitres 9 et 9/1.Le Ministre flamand chargé de l'enseignement détermine les tarifs pour la mise en oeuvre de ces procédures d'évaluation. Les tarifs sont déterminés en tenant compte des paramètres suivants :
+
+1° le tarif pour l'évaluation nouvelle formation visée au chapitre 9, section 3/1, est d'au moins 5.000 euros et d'au plus 20.000 euros par formation ;
+
+2° le tarif pour une évaluation institutionnelle visée au chapitre 9/1, section 2, est d'au moins 20.000 euros et d'au plus 60.000 euros par institution ;
+
+3° le tarif pour une accréditation de formation visée au chapitre 9/1, section 3, est d'au moins 5.000 euros et d'au plus 20.000 euros par formation ;
+
+4° le tarif pour une accréditation de formation visée au chapitre 9/1, section 4, est d'au moins 500 euros et d'au plus 2.000 euros par formation.]<sup>1</sup>
+
+[<sup>3</sup> 5° le tarif de l'évaluation nouvelle formation, visée à l'article II.153/5, s'élève à 500 euros au moins et 2 000 euros au plus par formation ;
+
+6° le tarif de l'accréditation de formation, visée à l'article II.170/12, alinéa quatre, et II.170/17, § 3, s'élève à 500 euros au moins et 2 000 euros au plus par formation]<sup>3</sup>;
+
+[<sup>4</sup> 7° le tarif pour l'évaluation limitée, visée à l'article II.170/8, § 1er, 2°, s'élève par institution à au maximum 80 pour cent du tarif pour l'évaluation institutionnelle.]<sup>4</sup>
+
+[<sup>2</sup> A partir de 2020, les montants visés à l'alinéa 1er et les montants arrêtés par le Ministre flamand chargé de l'enseignement conformément au présent alinéa, sont adaptés à l'augmentation annuelle de l'indice des prix à la consommation, avec le 1er septembre 2019 comme date de référence. Le montant est arrondi au nombre entier le plus proche.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 10, 007; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 135, 017; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2021-07-09/33, art. 206, 022; En vigueur : 01-09-2021&gt;
+
+(4)&lt;DCFL 2025-07-18/31, art. 64, 044; En vigueur : 01-09-2025&gt;
+
+**Art. II.124/2**
+
+[<sup>1</sup> § 1er. L'organisation d'accréditation effectue des analyses [<sup>3</sup> ...]<sup>3</sup> à l'échelle du système dans l'enseignement supérieur. Ces analyses identifient les bonnes pratiques en matière de politique et de qualité de l'enseignement et offrent une opportunité d'apprentissage mutuel.
+
+§ 2. [<sup>3</sup> ...]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 11, 007; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2019-03-01/26, art. 21, 012; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2025-07-18/31, art. 65, 044; En vigueur : 01-09-2025&gt;
+
+**Art. II.124/3**
+
+[<sup>1</sup> Le Gouvernement flamand peut charger l'organisation d'accréditation des missions complémentaires suivantes :
+
+1° étudier et donner des conseils sur l'assurance qualité dans l'enseignement supérieur ;
+
+2° exercer des activités d'accréditation à la demande d'institutions d'enseignement supérieur étrangères dans des pays autres que la Belgique et les Pays-Bas, dans la mesure où ces activités soutiennent ou complètent la mission principale de l'organisation d'accréditation et ceci ne compromet en rien le fonctionnement optimal, la prestation de services et les délais prescrits pour les formations dans l'enseignement supérieur assurées par des institutions situées aux Pays-Bas ou en Flandre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 22, 012; En vigueur : 01-09-2019&gt;
+
+**Art. II.124/4**
+
+[<sup>1</sup> Le service compétent du Gouvernement flamand fournit de manière accessible des indicateurs quantitatifs de base jusqu'au niveau de la formation. Ces indicateurs de base servent à clarifier le profil d'une formation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 13, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.125**
+
+&lt;Abrogé par DCFL 2018-05-04/28, art. 116, 010; En vigueur : 01-09-2019&gt;
+
+#### Chapitre 9. [<sup>1</sup> Programmation et enregistrement des formations]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-18/14, art. 15, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.133**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+[<sup>2</sup> (voir version néerlandaise)]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-18/14, art. 16, 007; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2018-05-04/28, art. 117, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.140**
+
+&lt;Abrogé par DCFL 2018-05-18/14, art. 20, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.141**
+
+[<sup>1</sup> (Voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 23, 012; En vigueur : 01-09-2019&gt;
+
+**Art. II.144**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 118, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.150/1**
+
+[<sup>1</sup> § 1er. Dans l'avis sur le développement d'une qualification d'enseignement, visé à l'article 15/1 du décret du 30 avril 2009 relatif à la structure des certifications, le service compétent du Gouvernement flamand émet également un avis sur la parenté de :
+
+1° la qualification d'enseignement avec une ou plusieurs formations existantes de l'enseignement supérieur professionnel hbo5. A cet effet, le service compétent du Gouvernement flamand demande la participation des représentants des instituts supérieurs ;
+
+2° la qualification professionnelle pour laquelle aucune qualification d'enseignement ne sera développée, avec une ou plusieurs formations existantes de l'enseignement supérieur professionnel hbo5.
+
+Lors de la formulation de l'avis sur la parenté, le service compétent du Gouvernement flamand peut tenir compte des critères suivants :
+
+1° la classification sectorielle ;
+
+2° la classification par groupe professionnel ;
+
+3° la discipline scientifique ou la discipline.
+
+La parenté peut être déterminée au niveau de la formation complète ou au niveau des orientations diplômantes ou des options d'une formation de l'enseignement supérieur professionnel hbo5.
+
+§ 2. Le Gouvernement flamand décide de la parenté avec les formations hbo5 existantes.
+
+Si le Gouvernement flamand décide qu'une formation hbo5 existante est apparentée à une qualification professionnelle pour laquelle une qualification d'enseignement est développée, la formation hbo5 existante est convertie en cette qualification d'enseignement.
+
+Lorsqu'une parenté est déterminée avec différentes qualifications d'enseignement ou avec une qualification d'enseignement comportant différentes orientations diplômantes, les instituts supérieurs sont libres de choisir en quelle qualification d'enseignement elles convertiront la formation hbo5 existante.
+
+[<sup>2</sup> Par dérogation à ce qui précède, les partenariats Vives Zuid et Thomas More Kempen peuvent décider de transformer par option une formation hbo5 existante " Elektromechanica " (Electromécanique) ou une formation hbo5 existante " Informatica " (informatique) reprise d'un centre d'éducation des adultes en une qualification d'enseignement à laquelle la formation hbo5 a été déclarée apparentée à condition que l'option correspondante ait été organisée dans le partenariat pendant l'année scolaire 2017-2018.]<sup>2</sup>
+
+[<sup>3</sup> Par dérogation à cette disposition, la Hogeschool PXL peut transformer une formation hbo5 " Hout- en bouwconstructies " repris d'un centre d'éducation des adultes en deux qualifications d'enseignement auxquelles la formation hbo5 a été déclarée apparentée.]<sup>3</sup>
+
+Les instituts supérieurs qui convertissent une formation hbo5 existante ne doivent pas demander de contrôle de macro-efficacité tel que visé à l'article II.152, 3°.
+
+Si le Gouvernement flamand décide qu'une formation hbo5 existante est apparentée à une qualification professionnelle pour laquelle aucune qualification d'enseignement n'est développée, cette formation est arrêtée. A partir de l'année académique suivante, l'institut supérieur ne pourra plus inscrire de nouveaux étudiants. La direction de l'institution met à la disposition des étudiants inscrits les moyens nécessaires pour leur permettre de terminer leur formation.
+
+Si le Gouvernement flamand décide qu'aucune formation hbo5 existante n'est apparentée à une qualification professionnelle pour laquelle une qualification d'enseignement est développée, la formation de graduat conduisant à la qualification d'enseignement est considérée comme une nouvelle formation. Les instituts supérieurs peuvent présenter une demande afin de proposer cette formation, conformément à la procédure visée aux articles II.152 et II.153.
+
+§ 3. Les instituts supérieurs n'ayant pas compétence d'enseignement pour une formation hbo5 existante en cours de conversion peuvent soumettre une demande afin de proposer cette formation. Cette demande est présentée conformément à la procédure visée aux articles II.152 et II.153 et peut être présentée au plus tôt dans l'année civile suivant la reconnaissance de la formation en question dans les autres instituts supérieurs.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 119, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2019-03-01/26, art. 24, 012; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2019-03-01/26, art. 25, 012; En vigueur : 01-09-2019&gt;
+
+**Art. II.151**
+
+(Note traduction partielle, voir version néerlandaise)
+
+al 3.[<sup>2</sup> Une formation de bachelier ou master qui s'inscrit dans une 'European Universities Initiative' qui a été approuvée en tant que projet pilote en 2019 ou 2020, ou les prolongations de celle-ci, est réputée être une formation sélectionnée conformément aux dispositions d'un programme européen de financement visant à promouvoir la coopération internationale dans l'enseignement supérieur et dans le cadre duquel la diplomation multiple ou conjointe est soutenue, tel que visé à l'alinéa 1er.]<sup>2</sup>. Les établissements ne peuvent proposer ces formations que s'ils disposent de la compétence d'enseignement requise. [<sup>2</sup> Les formations précitées commencent au plus tard dans l'année académique qui suit l'année académique au cours de laquelle le projet pilote se termine ou les prolongations du projet pilote se terminent]<sup>2</sup>. Par dérogation à l'alinéa premier, ces formations sont réputées être accréditées jusqu'à la fin de la deuxième année académique qui suit la fin de l'année académique au cours de laquelle le volume des études déterminé pour la formation en question a été entièrement complété pour la première fois.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 207, 022; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFL 2023-07-07/17, art. 121, 031; En vigueur : 01-10-2022&gt;
+
+**Art. II_151.DROIT_FUTUR.**
+
+(Note traduction partielle, voir version néerlandaise)
+
+al 3.[<sup>2</sup> Une formation de bachelier ou master qui s'inscrit dans une 'European Universities Initiative' qui a été approuvée en tant que projet pilote en 2019 ou 2020, ou les prolongations de celle-ci, est réputée être une formation sélectionnée conformément aux dispositions d'un programme européen de financement visant à promouvoir la coopération internationale dans l'enseignement supérieur et dans le cadre duquel la diplomation multiple ou conjointe est soutenue, tel que visé à l'alinéa 1er.]<sup>2</sup>. Les établissements ne peuvent proposer ces formations que s'ils disposent de la compétence d'enseignement requise. [<sup>2</sup> Les formations précitées commencent au plus tard dans l'année académique qui suit l'année académique au cours de laquelle le projet pilote se termine ou les prolongations du projet pilote se terminent]<sup>2</sup>. [<sup>3</sup> Ces formations sont censées être accréditées jusqu'à la fin de la deuxième année académique suivant la fin de l'année académique au cours de laquelle le volume des études, déterminé pour la formation concernée, a été accompli pour la première fois]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 207, 022; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFL 2023-07-07/17, art. 121, 031; En vigueur : 01-10-2022&gt;
+
+(3)&lt;DCFL 2025-06-06/20, art. 53, 043; En vigueur : 01-09-2025&gt;
+
+**Art. II.152**
+
+[<sup>1</sup> Une institution peut proposer une nouvelle formation de l'enseignement supérieur professionnel HBO 5 ou une nouvelle formation de bachelor ou de master lorsque la formation en question est reconnue comme nouvelle formation par arrêté du Gouvernement flamand. Elle introduit à cet effet une demande. Pour les formations de l'enseignement supérieur professionnel HBO 5, cette demande ne peut être déposée qu'après que le Gouvernement flamand a décidé de développer une formation de l'enseignement supérieur professionnel HBO 5 conduisant à une qualification d'enseignement visée à l'article 15/1, § 6 du décret du 30 avril 2009 relatif à la structure des certifications.
+
+Le Gouvernement flamand peut prendre une décision telle que visée à l'alinéa 1er lorsqu'il est satisfait aux conditions suivantes :
+
+1° le dossier soumis comprend les informations suivantes :
+
+a) l'institution compétente qui se charge de la formation et la ou les implantations où la formation est proposée ;
+
+b) le nom de la formation (le grade et la qualification du grade) ;
+
+c) le cas échéant, les orientations diplômantes ;
+
+d) la mention si la formation est enseignée en néerlandais ou en langue étrangère. Dans le cas d'une formation enseignée en langue étrangère, la langue de la formation est mentionnée ;
+
+e) le volume des études de la formation exprimé en unités d'études ;
+
+f) le cas échéant, le volume des études des orientations diplômantes exprimé en unités d'études ;
+
+g) le cas échéant, la spécification du grade ;
+
+h) le cas échéant, le titre que peuvent porter les titulaires du grade de cette formation ;
+
+i) les acquis d'apprentissage spécifiques à la formation ;
+
+j) lorsqu'il s'agit d'une formation de l'enseignement supérieur professionnel HBO 5, les formations ultérieures possibles ;
+
+k) lorsqu'il s'agit d'une formation de bachelor : les possibilités de formations complémentaires et éventuellement continues, en tenant compte des conditions d'admission prescrites dans la partie 2, titre 4, chapitre 1er ;
+
+l) lorsqu'il s'agit d'une formation de master : les formations préalables requises et les conditions d'accès, en tenant compte des conditions d'admission prescrites dans la partie 2, titre 4, chapitre 1er ;
+
+m) les acquis de formation et d'éducation spécifiques au domaine tels que définis à l'article II.68 et décrits conjointement par les institutions.
+
+2° le dossier soumis contient un avis du VLIR pour les dossiers présentés par les universités, ou du VHLORA pour les dossiers présentés par les instituts supérieurs, sur l'organisation de la nouvelle formation ;
+
+3° [<sup>2</sup> la formation a subi avec succès le contrôle de la macro-efficacité, si d'application, et a reçu une décision d'évaluation positive délivrée par l'organisation d'accréditation ;]<sup>2</sup>
+
+4° la nouvelle formation peut être classée dans une ou plusieurs disciplines ou parties de disciplines dans lesquelles l'institution concernée détient la capacité d'enseignement. La nouvelle formation peut éventuellement être classée dans une discipline dans laquelle l'institution concernée possède la capacité d'enseignement et dans une ou plusieurs autres disciplines dans lesquelles d'autres institutions appartenant à l'association, dont l'institution est membre, possèdent la capacité d'enseignement ;
+
+5° dans le cas d'une nouvelle formation initiale de bachelor ou de master, une formation initiale existante de bachelor ou de master est progressivement supprimée parallèlement à la mise sur pied de la nouvelle formation, à moins que la Commissie Hoger Onderwijs n'ait répondu positivement à la demande à être exempté de la suppression progressive.
+
+Le VLIR ou le VLHORA indique au moins dans l'avis visé à l'alinéa 2, 2° que la formation sollicitée est, au sein de la Communauté flamande, soit une nouvelle formation unique, soit une formation existante qui est déjà proposée en Communauté flamande dans la même forme ou dans une forme similaire. Dans le cas d'une formation existante, le VLIR ou le VLHORA motive pourquoi plusieurs institutions peuvent dispenser cette formation, en tenant compte de la répartition régionale et de la densité souhaitable de l'offre.
+
+La décision de reconnaissance, visée à l'alinéa 1er, mentionne les points suivants :
+
+1° les informations visées à l'alinéa 2, 1°, [<sup>3</sup> a) à e), g) et h)]<sup>3</sup> ;
+
+2° dans le cas d'une nouvelle formation initiale de bachelor ou de master, le nom (le grade et la qualification du grade) de la formation qui est progressivement supprimée, avec mention de l'avis positif de la Commissie Hoger Onderwijs sur la demande à être exempté de la suppression progressive ;
+
+3° l'année académique à partir de laquelle la nouvelle formation peut être proposée.
+
+A compter de l'année académique dans laquelle la nouvelle formation est organisée, la direction de l'institution ne peut plus inscrire de nouveaux étudiants dans la formation en cours de suppression.]<sup>1</sup>
+
+[<sup>4</sup> Les dispositions de l'alinéa 2, 2°, et de l'alinéa 2, 5°, ne s'appliquent pas aux autres institutions enregistrées d'office.]<sup>4</sup>
+
+[<sup>5</sup> Si une formation de graduat est classée dans plusieurs disciplines et elle est déclarée apparentée à une formation HBO5 existante telle que visée à l'article II.150/1, un institut supérieur peut offrir cette formation de graduat dans une implantation où elle a la compétence d'enseignement pour au moins une des disciplines dans laquelle la formation de graduat est classée.]<sup>5</sup>
+
+----------
+
+(1)&lt;DCFL 2017-12-08/24, art. 14, 004; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCFL 2018-05-18/14, art. 26, 007; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DCFL 2019-03-01/26, art. 26,1°, 012; En vigueur : 01-01-2018&gt;
+
+(4)&lt;DCFL 2019-03-01/26, art. 26,2°, 012; En vigueur : 01-01-2019&gt;
+
+(5)&lt;DCFL 2020-07-03/39, art. 136, 017; En vigueur : 01-09-2020&gt;
+
+**Art. II.153**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+[<sup>2</sup> (voir version néerlandaise)]<sup>2</sup>
+
+[<sup>3</sup> (voir version néerlandaise)]<sup>3</sup>
+
+§8[<sup>5</sup> note:Pour l'article complet, voir la version néerlandaise]<sup>5</sup>
+
+[<sup>5</sup> Un arrêté du Gouvernement flamand portant reconnaissance d'une nouvelle formation de bachelier ou de master s'éteint automatiquement si la direction de l'institution ne propose pas la formation dans la troisième année académique suivant la communication à la direction de l'institution.]<sup>5</sup>
+
+§9
+
+[<sup>4</sup> § 10. Une université qui, conformément au paragraphe 1er du présent article, a introduit, avant le 15 octobre 2018, un dossier auprès de l'organisation d'accréditation pour un parcours consécutif d'une formation de master éducatif dans une implantation d'un centre d'éducation des adultes peut réintroduire en 2020 un dossier pour cette formation à l'implantation du centre d'éducation des adultes, auprès de l'organisation d'accréditation.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-18/14, art. 27,1°-27,9°, 007; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2018-05-04/28, art. 120, 010; En vigueur : 17-07-2018&gt;
+
+(3)&lt;DCFL 2019-03-01/26, art. 27, 012; En vigueur : 01-01-2019&gt;
+
+(4)&lt;DCFL 2020-07-03/39, art. 137, 017; En vigueur : 01-09-2020&gt;
+
+(5)&lt;DCFL 2024-04-19/55, art. 142, 041; En vigueur : 01-09-2024&gt;
+
+##### Section 3/1. [<sup>1</sup> Evaluation nouvelle formation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 28, 007; En vigueur : 01-01-2019&gt;
+
+###### Sous-section 1re. [<sup>1</sup> Demande]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 29, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.153/1**
+
+[<sup>1</sup> § 1er. Une institution, telle que visée aux articles II.2, II.3, II.19, II.20, II.21, II.105 et II.106, ou une institution enregistrée, telle que visée à l'article II.6, ou une institution qui fait la demande d'enregistrement conformément à l'article II.6, soumet une demande d'évaluation nouvelle formation auprès de l'organisation d'accréditation.
+
+Des institutions souhaitant dispenser une nouvelle formation organisée conjointement, déposent une demande conjointe.
+
+§ 2. Dans le cadre d'évaluation, visé à l'article II.153/4, la forme et le contenu du dossier devant être joint à la demande sont définis.
+
+§ 3. Lorsque la demande ne satisfait pas au point 4° du cadre d'évaluation, visé à l'article II.153/4, l'organisation d'accréditation offre la possibilité de réparer l'omission dans un délai à déterminer par elle. Si la possibilité susmentionnée n'est pas ou pas suffisamment utilisée, la demande sera déclarée irrecevable. L'organisation d'accréditation peut déterminer les modalités de cette procédure dans le cadre d'évaluation.
+
+§ 4. Des demandes des institutions enregistrées, visées à l'article II.6, et des institutions faisant la demande d'enregistrement conformément à l'article II.6, sont soumises par l'organisation d'accréditation à la Commissie Hoger Onderwijs, visée à l'article II.23, pour une évaluation de la pertinence, au cours de laquelle la Commissie Hoger Onderwijs vérifie la pertinence sociale de la formation. Elle soumet son avis à l'organisation d'accréditation dans un délai de 45 jours.
+
+Un avis négatif ou un avis hors délai de la Commissie Hoger Onderwijs entraîne irrévocablement le rejet de la demande.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 30, 007; En vigueur : 01-01-2019&gt;
+
+###### Sous-section 2. [<sup>1</sup> Commission]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 31, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.153/2**
+
+[<sup>1</sup> L'organisation d'accréditation compose la commission qui effectue l'évaluation nouvelle formation, et coordonne le processus d'évaluation. L'institution concernée a le droit de communiquer des objections motivées contre la composition de la commission dans un délai de quinze jours, prenant cours le lendemain du jour de réception de la communication de l'organisation d'accréditation.
+
+La commission comprend au moins un (1) étudiant. Les membres de la commission sont indépendants, disposent de l'expertise nécessaire et n'ont pas été liés à l'institution concernée depuis au moins cinq ans. Au moins un membre a une connaissance approfondie de l'enseignement supérieur flamand et au moins un membre travaille en dehors de la Flandre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 32, 007; En vigueur : 01-01-2019&gt;
+
+###### Sous-section 3. [<sup>1</sup> Cadre d'évaluation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 33, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.153/3**
+
+[<sup>1</sup> § 1er. La commission, visée à l'article II.153/2, prend en compte les thèmes suivants dans l'évaluation nouvelle formation :
+
+1° la qualité potentielle de la formation qui se manifeste via les caractéristiques de qualité, visées à l'article II.170/1 ;
+
+2° l'implication dans la formation des parties prenantes internes et externes d'une part et des experts externes et indépendants d'autre part.
+
+La commission consigne les conclusions de l'évaluation dans un rapport d'évaluation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 34, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.153/4**
+
+[<sup>1</sup> L'organisation d'accréditation établit un cadre d'évaluation pour l'évaluation nouvelle formation pour les institutions, visées aux articles II.2 et II.3, et un cadre d'évaluation pour l'évaluation nouvelle formation pour les institutions, visées aux articles II.19, II.20, II.21, II.105 et II.106 et pour les institutions enregistrées, visées à l'article II.6, et un cadre d'évaluation pour l'évaluation nouvelle formation pour les institutions faisant la demande d'enregistrement conformément à l'article II.6, dans lequel tous les éléments suivants sont déterminés :
+
+1° la manière dont les caractéristiques de qualité, visées à l'article II.170/1, sont évaluées ;
+
+2° l'échelle d'évaluation et les règles décisionnelles ;
+
+3° les étapes du processus d'évaluation ;
+
+4° la forme et le contenu du dossier de demande.
+
+Sans préjudice de l'alinéa 1er, 4°, un dossier de demande d'évaluation nouvelle formation dans une institution telle que visée aux articles II.2 et II.3 comprend les résultats et réalisations de la gestion qui permettent d'évaluer les caractéristiques de qualité de l'article II.170/1.
+
+Avant de pouvoir être appliqués, les cadres d'évaluation pour l'évaluation nouvelle formation, visés à l'alinéa 1er, sont approuvés par le Gouvernement flamand après avis du VLUHR comme organisation coordinatrice et des associations coordinatrices d'étudiants.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 35, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.153/5**
+
+[<sup>1</sup> Les formations conjointes organisées par une institution d'enseignement supérieur flamande en collaboration avec une ou plusieurs institutions d'enseignement supérieur étrangères qui, [<sup>2</sup> offrent ensemble un curriculum intégré conduisant, en cas de réussite, à une diplomation multiple ou conjointe, ]<sup>2</sup> sont évaluées à l'aide de l'" European Approach for Quality Assurance of Joint Programmes " (Approche européenne pour l'assurance qualité des programmes conjoints), approuvée par les ministres de l'Espace européen de l'Enseignement supérieur. En vue de l'organisation de cette évaluation externe, les institutions peuvent recourir à un autre organe d'évaluation enregistré dans le registre " European Quality Assurance Register for Higher Education (EQAR) " (Registre européen d'assurance qualité pour l'enseignement supérieur). Les institutions demandent l'évaluation nouvelle formation auprès de l'organisation d'accréditation dans les deux mois de la publication de l'évaluation externe de la formation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 36, 007; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2022-07-15/20, art. 6, 034; En vigueur : 01-10-2023&gt;
+
+###### Sous-section 4. [<sup>1</sup> Rapport d'évaluation et décision]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 37, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.153/6**
+
+[<sup>1</sup> § 1er. L'organisation d'accréditation prend une décision d'évaluation sur la base du rapport d'évaluation de la commission visée à l'article II.153/3. Une décision d'évaluation est positive si l'organisation d'accréditation conclut raisonnablement, sur la base du rapport d'évaluation, que la qualité de la nouvelle formation répondra aux caractéristiques de qualité visées à l'article II.170/1.
+
+§ 2. L'organisation d'accréditation présente, avant l'expiration du délai de six mois, un projet de décision d'évaluation et le rapport d'évaluation sous-jacent à la direction de l'institution.
+
+Avant l'envoi du projet de rapport d'évaluation et de décision, l'organisation d'accréditation peut demander des informations, explications et éclaircissements complémentaires à la direction de l'institution. L'organisation d'accréditation fixe dans le règlement, visé à l'article II.27, les principes d'administration pour les demandes d'informations, d'explications et d'éclaircissements complémentaires et pour le traitement des réponses.
+
+Dans un délai de quinze jours à compter du lendemain de la réception du projet de décision d'évaluation et du rapport d'évaluation sous-jacent, la direction de l'institution peut intervenir de l'une des manières suivantes :
+
+1° formuler des objections et des observations ;
+
+2° retirer la demande.
+
+L'organisation d'accréditation fixe dans le règlement visé à l'article II.27, les procédures selon lesquelles les objections et observations, visées à l'alinéa 3, sont traitées.
+
+§ 3. La direction de l'institution peut retirer une demande initiale avant d'avoir reçu le projet de décision d'évaluation et le rapport d'évaluation sous-jacent, ou dans le délai visé au paragraphe 2.
+
+La direction de l'institution dispose d'un délai unique de soixante jours pour redéposer la demande d'évaluation nouvelle formation à l'organisation d'accréditation. Le délai prend cours le lendemain du retrait de la demande initiale d'évaluation nouvelle formation.
+
+§ 4. Le délai d'ordre de six mois, visé au paragraphe 2, est prolongé à huit mois dans tous les cas suivants :
+
+1° l'organisation d'accréditation fait usage de l'évaluation de la pertinence visée à l'article II.153/1, § 4 ;
+
+2° les observations et les objections de la direction de l'institution sont de telle nature que l'organisation d'accréditation a besoin de conseils supplémentaires d'experts.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 38, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.154**
+
+[<sup>1</sup> Sans préjudice de l'application des articles II.78 à II.100, un institut supérieur peut changer au sein de l'institution une formation d'implantation après avis positif de la Commissie Hoger Onderwijs.
+
+A cette fin, l'institution dépose une demande auprès de la Commissie Hoger Onderwijs avant le 1er décembre de l'année académique qui précède l'année académique à laquelle l'adaptation est applicable. Le dossier de demande permet à la commission de procéder à une évaluation des critères suivants :
+
+1° l'impact de la répartition régionale de cette formation et des formations connexes dans le paysage de l'enseignement supérieur en Région flamande ;
+
+2° l'impact de la répartition régionale du nombre d'étudiants attendu dans la formation ou les formations connexes ;
+
+3° l'impact de la répartition régionale de la demande de diplômés de la formation ou des formations connexes ;
+
+4° un avis positif du VLHORA sur le changement de l'implantation.
+
+La Commissie Hoger Onderwijs émet son avis sur les demandes déposées au plus tard le 15 janvier de l'année académique qui précède l'année académique dans laquelle l'institution veut proposer la formation au plus tôt.
+
+Lorsque l'avis du VLIR ou de VLHORA n'est pas joint au dossier de demande soumis à la Commissie Hoger Onderwijs, la Commissie Hoger Onderwijs déclare la demande irrecevable.
+
+Pour rendre cet avis, le VLHORA établit une procédure concertée au sein du VLUHR, qui prend en considération la répartition régionale, les propres règles de décision et un calendrier tenant compte de la date de dépôt auprès de la Commissie Hoger Onderwijs.
+
+La Commissie Hoger Onderwijs remet l'avis à la direction de l'institution.
+
+Lors d'un avis négatif de la Commissie Hoger Onderwijs, l'institution peut introduire un recours auprès du Gouvernement flamand dans un délai de quinze jours qui prend cours le lendemain de la réception de la décision de la Commissie Hoger Onderwijs. Le Gouvernement flamand prend une décision dans un délai d'ordre de trente jours prenant cours le lendemain de la réception du recours.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-12-08/24, art. 16, 004; En vigueur : 01-01-2018&gt;
+
+**Art. II.155**
+
+&lt;Abrogé par DCFL 2018-05-04/28, art. 121, 010; En vigueur : 01-09-2019&gt;
+
+##### Section 3/1. [<sup>1</sup> Actualisation des formations existantes de l'enseignement professionnel supérieur]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 122, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.155/1**
+
+[<sup>1</sup> Les formations hbo5 existantes pour lesquelles aucune qualification professionnelle apparentée n'est encore reconnue seront actualisées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 123, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.155/2**
+
+[<sup>1</sup> § 1er. Les instituts supérieurs ayant la compétence d'enseignement pour l'une des formations visées à l'article II.155/1, décrivent conjointement par formation les acquis de formation et d'éducation spécifiques au domaine sur la base des descripteurs de niveau, visés à l'article 6 du décret du 30 avril 2009 relatif à la structure des certifications. A cet effet, ils veillent à la mise sur pied d'une structure de concertation à laquelle participe le service compétent du Gouvernement flamand. Pour assurer cette mission, les instituts supérieurs peuvent faire appel à des experts externes.
+
+La formulation des acquis de formation et d'éducation spécifiques au domaine est concrète et à vocation professionnelle et garantit l'application des réglementations flamande, fédérale et internationale sur la pratique professionnelle.
+
+§ 2. La description des acquis de formation et d'éducation spécifiques au domaine est validée par l'organisation d'accréditation. A cet effet, les instituts supérieurs déposent conjointement une demande de validation auprès de l'organisation d'accréditation. Cette demande mentionne les instituts supérieurs ayant la compétence d'enseignement pour la formation en question mais ne souhaitant pas être associés au processus de demande.
+
+§ 3. Si un institut supérieur ayant la compétence d'enseignement pour une formation qui doit être actualisée ne signe pas la demande visée au paragraphe 2, elle perd la compétence d'enseignement pour la formation, et la formation est arrêtée. A partir de l'année académique suivante, l'institut supérieur ne pourra plus inscrire de nouveaux étudiants. La direction de l'institution met à la disposition des étudiants inscrits les moyens nécessaires pour leur permettre de terminer leur formation.
+
+§ 4. L'organisation d'accréditation soumet au service compétent du Gouvernement flamand les acquis de formation et d'éducation spécifiques au domaine validés et les compétences y afférentes en vue de leur enregistrement dans une base de données des certifications.
+
+§ 5. Le service compétent du Gouvernement flamand fixe, après avis des instituts supérieurs, le volume de la formation à 90 ou 120 unités d'études et la part de l'apprentissage sur le lieu de travail de la formation, s'élevant au minimum à un tiers du volume des études.
+
+§ 6. Pour chaque formation actualisée, l'institut supérieur définit un programme de formation comportant un ensemble cohérent de subdivisions de formation et décrit pour chaque subdivision de formation des acquis de formation et d'éducation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 124, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.155/3**
+
+[<sup>1</sup> Le Gouvernement flamand inclura dans la liste visée à l'article II.170 les formations de l'enseignement supérieur professionnel hbo5 qui ont été actualisées conformément à la procédure définie dans la présente section.
+
+L'inclusion d'une formation de l'enseignement supérieur professionnel hbo5 dans la liste visée à l'alinéa 1er entraîne la suppression du profil de formation reconnu par le Gouvernement flamand, du schéma structurel approuvé par le Ministre flamand chargé de l'enseignement ou du programme d'études approuvé et de la grille horaire de la formation concernée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 125, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.155/4**
+
+[<sup>1</sup> § 1er. Des formations actualisées conformément à la procédure visée dans la présente section qui, à une date ultérieure, sont déclarées apparentées à une ou plusieurs qualifications professionnelles reconnues, pour lesquelles il est décidé de développer une qualification d'enseignement, sont transformées conformément à l'article 18.
+
+§ 2. Le 1er février 2024, le service compétent du Gouvernement flamand établira une liste des formations de graduat qui ont été actualisées, mais pas encore converties étant donné qu'aucune qualification professionnelle apparentée n'a encore été reconnue.
+
+Si le service compétent du Gouvernement flamand recommande que, pour une formation de graduat existante déterminée, aucune qualification professionnelle susceptible d'y être déclarée apparentée ne soit reconnue, le Gouvernement flamand décide que la formation de graduat en question sera arrêtée. A partir de l'année académique suivante, l'institut supérieur ne pourra plus inscrire de nouveaux étudiants. La direction de l'institution met à la disposition des étudiants inscrits les moyens nécessaires pour leur permettre de terminer leur formation.
+
+Si, par contre, le service compétent du Gouvernement flamand recommande que, pour une formation de graduat existante déterminée, une qualification professionnelle susceptible d'y être déclarée apparentée soit reconnue à l'avenir, le Gouvernement flamand décide que la formation de graduat en question doit être réactualisée conformément à la procédure visée dans la présente section.
+
+Les instituts supérieurs ne peuvent proposer la formation qu'après avoir subi avec succès l'épreuve de nouvelle formation auprès de l'organe d'accréditation conformément à la procédure, visée à l'article II.395. A cet effet ils présentent un dossier au plus tard le 30 novembre 2024.
+
+§ 3. Si un institut supérieur n'a demandé aucune épreuve de nouvelle formation auprès de l'organe d'accréditation au plus tard le 30 novembre 2024 pour une formation déterminée de l'enseignement supérieur professionnel hbo5, à l'exception[<sup>2</sup> des formations Soins infirmiers et Soins infirmiers de base]<sup>2</sup>, cet institut perdra sa compétence d'enseignement pour cette formation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 126, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2023-07-14/18, art. 27, 035; En vigueur : 01-09-2023&gt;
+
+**Art. II.157**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 127, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.160**
+
+§1
+
+§2
+
+§3
+
+§4
+
+[<sup>1</sup> § 4/1. La formation dont le volume des études est étendu est censée être accréditée jusqu'à la fin de la deuxième année académique suivant la fin de l'année académique dans laquelle le volume des études nouvellement déterminé a été entièrement parcouru pour la première fois.]<sup>1</sup>
+
+§5
+
+§6
+
+§7
+
+§8
+
+[<sup>2</sup> § 9. Le volume des études des formations de master suivantes est étendu à 180 unités d'études :
+
+1° la formation de master en biologie clinique ;
+
+2° la formation de master en dentisterie spécialisée ;
+
+3° la formation de master en soins bucco-dentaires spécialisés.
+
+La formation dont le volume des études est étendu est réputée accréditée jusqu'à la fin de la deuxième année académique qui suit la fin de l'année académique au cours de laquelle le volume des études nouvellement déterminé a été accompli pour la première fois.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-18/14, art. 39, 007; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2022-07-15/20, art. 7, 034; En vigueur : 01-10-2023&gt;
+
+**Art. II.161**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 128, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.164**
+
+§1
+
+[<sup>3</sup> § 1er/1. Les étudiants qui étaient inscrits à une formation de master en biologie clinique, dentisterie spécialisée ou soins bucco-dentaires spécialisés au cours de l'année académique précédant l'année académique au cours de laquelle l'extension du volume des études de cette formation de master, visée à l'article II.160, § 9, est introduite, peuvent achever cette formation de master au cours des deux années académiques suivantes ou s'inscrire à la formation de master dont le volume des études est étendu tout en conservant les attestations de crédits obtenues.]<sup>3</sup>
+
+§2
+
+[<sup>1</sup> § 3. Pendant l'année académique au cours de laquelle l'extension du volume d'études de la formation de graduat est introduite, et [<sup>2</sup> pendant les cinq années académiques suivantes]<sup>2</sup>, les étudiants peuvent toujours obtenir le diplôme de la formation de graduat sur la base du volume d'études précédant l'extension. Cette possibilité est prévue pour les étudiants qui étaient déjà inscrits à une formation de graduat avant l'année académique au cours de laquelle l'extension du volume d'études est introduite.
+
+Au moyen de l'organisation de parcours de formation spécifiques dont le volume d'études ne dépasse pas le volume de l'extension des études, les institutions doivent donner aux étudiants ayant achevé une formation de graduat de 90 ou 120 unités d'études, la possibilité d'obtenir le grade de gradué de la formation de graduat ayant un volume d'études étendu.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 129, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2023-07-07/17, art. 122, 031; En vigueur : 01-10-2023&gt;
+
+(3)&lt;DCFL 2022-07-15/20, art. 8, 034; En vigueur : 01-10-2023&gt;
+
+**Art. II.165**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 130, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.166**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 131, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.167**
+
+[<sup>1</sup> Voir version néerlandaise]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 138, 017; En vigueur : 01-10-2018&gt;
+
+**Art. II.169**
+
+&lt;Abrogé par DCFL 2018-05-18/14, art. 41, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.170**
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Il est publié un Registre de l'Enseignement supérieur comportant les formations de l'enseignement supérieur qui sont proposées conformément à la présente codification.
+
+Le Registre de l'Enseignement supérieur contient :
+
+1° les institutions reconnues comme institutions d'enseignement supérieur conformément à la présente codification ;
+
+2° les formations qui sont proposées conformément à la présente codification et conduisent aux grades de gradué, de bachelor et de master ;
+
+2° les formations qui conduisent au titre de " Laureaat van het Hoger Instituut voor Schone Kunsten " (Lauréat de l'Institut supérieur des Beaux-Arts).]<sup>2</sup>
+
+[<sup>2</sup> § 1/1. Le Registre de l'Enseignement supérieur contient pour les universités et les instituts supérieurs les données suivantes :
+
+1° le nom de l'institution ;
+
+2° le cas échéant, l'association dont l'institution est membre ;
+
+3° la date d'entrée en vigueur de la décision prise à l'issue de l'évaluation institutionnelle ;
+
+4° la date de fin de la décision prise à l'issue de l'évaluation institutionnelle ;
+
+5° la décision de l'organisation d'accréditation prise à l'issue d'une évaluation institutionnelle et le rapport d'évaluation sous-jacent.]<sup>2</sup>
+
+§ 2. Le Gouvernement flamand établit une liste des formations de l'enseignement supérieur professionnel HBO 5 et des formations de bachelor et de master qui peuvent être proposées par institution conformément à la présente codification.
+
+Pour les formations de l'enseignement supérieur professionnel HBO 5 et les formations de bachelor et de master qui sont dispensées par des instituts supérieurs et des universités conformément à la capacité d'enseignement, telle que visée aux articles II.78 à II.100, [<sup>4</sup> aux articles II.100/1, II.100/2 et à l'article II.113, § 4, alinéa 4,]<sup>4</sup> cette liste contient par institution et par discipline, partie de discipline ou cluster de disciplines, les données suivantes :
+
+1° le grade de la formation ;
+
+2° la qualification du grade de la formation ;
+
+3° la mention que la formation est une formation de gradué, une formation initiale de bachelor, une formation de bachelor après bachelor, une formation initiale de master ou une formation de master après master ;
+
+4° le cas échéant, la spécification du grade telle que visée à l'article II.77 ;
+
+5° le cas échéant, le titre supplémentaire que le porteur du diplôme est autorisé à porter, visé à l'article II.76 ;
+
+6° le cas échéant, les orientations diplômantes au sein de la formation ;
+
+7° la ou les implantations où la formation et, le cas échéant, la ou les orientations diplômantes sont proposées ;
+
+8° la mention que la formation est dispensée en néerlandais ou une autre lange, avec, le cas échéant, la formation équivalente en néerlandais ;
+
+9° le volume des études de la formation.
+
+Pour les formations de l'enseignement supérieur professionnel HBO 5, les formations de bachelor et de master qui sont dispensées par les autres institutions enregistrées d'office ou par les institutions enregistrées, la liste comprend par institution les données suivantes :
+
+1° [<sup>3</sup> si applicable, la discipline, une partie de la discipline ou des disciplines où est classée une formation;]<sup>3</sup>
+
+2° le grade de la formation ;
+
+3° la qualification du grade de la formation ;
+
+4° la mention que la formation est une formation de gradué, une formation initiale de bachelor, une formation de bachelor après bachelor, une formation initiale de master ou une formation de master après master ;
+
+5° le volume des études de la formation exprimé en unités d'études ;
+
+6° le cas échéant, la spécification du grade telle que visée à l'article II.77 ;
+
+7° le cas échéant, le titre supplémentaire que le porteur du diplôme est autorisé à porter, visé à l'article II.76 ;
+
+8° la mention de la langue d'enseignement de la formation.
+
+Pour les formations de bachelor et de master, la première liste reflète la situation de l'année académique 2018-2019, pour les formations de l'enseignement supérieur professionnel HBO 5 la situation de l'année académique 2019-2020.
+
+Suite aux décisions ou arrêtés suivants, le Gouvernement flamand adapte chaque année la liste des formations de l'enseignement supérieur professionnel HBO 5 ou des formations de bachelor et de master dispensées par les universités et les instituts supérieurs :
+
+1° sur la base d'une décision du Gouvernement flamand sur :
+
+a) la reconnaissance d'une nouvelle formation ;
+
+b) la modification du volume des études d'une formation ;
+
+c) la reconnaissance d'un master dans le cadre d'une extension du volume des études d'une formation de master ;
+
+2° sur la proposition de l'assemblée générale du VLUHR qui décide conformément à ses propres règles de décision sur :
+
+a) des modifications dans la qualification du grade de la formation ;
+
+b) des modifications dans les orientations diplômantes qui peuvent être proposées au sein d'une certaine formation. Ces modifications portent sur :
+
+1\) l'organisation de nouvelles orientations diplômantes ;
+
+2\) des modifications de la dénomination d'orientations diplômantes existantes, à l'exception des formations de l'enseignement supérieur professionnel HBO 5 ;
+
+3\) des changements d'implantation au sein de l'institution et de la formation d'orientations diplômantes existantes ;
+
+c) la transformation d'une formation de bachelor ou de master en une formation organisée conjointement, auquel cas, au moment de la transformation, l'institution adhérente ne propose pas la formation de bachelor ou de master, telle que visée à l'article II.166 ;
+
+d) la fusion de deux ou plusieurs formations de bachelor ou de deux ou plusieurs formations de master au sein d'un institut supérieur ou d'une université, telle que visée à l'article II.167 ;
+
+3° sur la base d'une décision de la direction de l'institution par laquelle elle indique :
+
+a) qu'elle n'organise plus la formation ou une orientation diplômante ;
+
+b) qu'elle change la langue de la formation de bachelor après bachelor et de master après master ;
+
+4° sur la base d'une décision d'accréditation négative de l'organisation d'accréditation ;
+
+5° au cas où une formation de master est sélectionnée conformément aux dispositions d'un programme européen de financement visant à promouvoir la coopération internationale dans l'enseignement supérieur et dans le cadre duquel la diplômation multiple ou conjointe est soutenue ;
+
+6° sur la base d'un avis positif émis par la Commissie Hoger Onderwijs sur l'organisation d'une formation de bachelor ou de master en langue étrangère, et au sujet duquel le Gouvernement flamand n'a pas rendu un avis négatif dans un délai d'échéance de 45 jours ;
+
+7° sur la base d'un avis positif émis par la Commissie Hoger Onderwijs sur le changement d'implantation d'une formation de bachelor ou de master [<sup>5</sup> ou une formation de l'enseignement supérieur professionnel]<sup>5</sup>.
+
+Le Gouvernement flamand peut également adapter la liste des formations de bachelor et de master proposées par les universités et les instituts supérieurs pour répondre au besoin de comparabilité, de clarté et de transparence des dénominations, sur l'avis du VLHUR.
+
+[<sup>5</sup> Pour les formations de l'enseignement supérieur professionnel, les formations de bachelor et de master proposées par les autres institutions enregistrées d'office ou par des institutions enregistrées, le Gouvernement flamand peut adapter le Registre de l'Enseignement supérieur, visé à alinéa trois, à la demande de la direction de l'institution.]<sup>5</sup> Pour la spécification du grade, la direction de l'institution joint un avis du VLUHR à la demande précitée.
+
+Les adaptations demandées par le VLUHR et la direction de l'institution sont communiquées au service compétent de l'Autorité flamande chaque année avant le 1er décembre de l'année académique qui précède l'année académique à laquelle l'adaptation est d'application.]<sup>1</sup>
+
+[<sup>4</sup> Lors de la fourniture d'informations sur l'offre de formation et lors de la validation d'études, une direction de l'institution utilise au moins les dénominations et données concernant les formations et orientations diplômantes arrêtées dans la liste, visée au présent paragraphe. Les commissaires du gouvernement se voient confier la tâche spécifique de contrôler systématiquement cette fourniture d'informations dans le cadre du contrôle de légalité qu'ils effectuent. Eventuellement, ils introduisent un recours motivé auprès du Gouvernement flamand, conformément aux articles IV.97 à IV.99.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2017-12-08/24, art. 17, 004; En vigueur : 01-10-2018&gt;
+
+(2)&lt;DCFL 2018-05-18/14, art. 42, 007; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DCFL 2019-04-05/42, art. 106, 013; En vigueur : 01-01-2019&gt;
+
+(4)&lt;DCFL 2020-07-03/39, art. 139,1°, 017; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFL 2021-07-09/33, art. 208, 022; En vigueur : 01-09-2021&gt;
+
+**Art. II_170.DROIT_FUTUR.**
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Il est publié un Registre de l'Enseignement supérieur comportant les formations de l'enseignement supérieur qui sont proposées conformément à la présente codification.
+
+Le Registre de l'Enseignement supérieur contient :
+
+1° les institutions reconnues comme institutions d'enseignement supérieur conformément à la présente codification ;
+
+2° les formations qui sont proposées conformément à la présente codification et conduisent aux grades de gradué, de bachelor et de master ;
+
+2° les formations qui conduisent au titre de " Laureaat van het Hoger Instituut voor Schone Kunsten " (Lauréat de l'Institut supérieur des Beaux-Arts).]<sup>2</sup>
+
+[<sup>2</sup> § 1/1. Le Registre de l'Enseignement supérieur contient pour les universités et les instituts supérieurs les données suivantes :
+
+1° le nom de l'institution ;
+
+2° le cas échéant, l'association dont l'institution est membre ;
+
+3° la date d'entrée en vigueur de la décision prise à l'issue de l'évaluation institutionnelle ;
+
+4° la date de fin de la décision prise à l'issue de l'évaluation institutionnelle ;
+
+5° la décision de l'organisation d'accréditation prise à l'issue d'une évaluation institutionnelle et le rapport d'évaluation sous-jacent.]<sup>2</sup>
+
+§ 2. Le Gouvernement flamand établit une liste des formations de l'enseignement supérieur professionnel HBO 5 et des formations de bachelor et de master qui peuvent être proposées par institution conformément à la présente codification.
+
+Pour les formations de l'enseignement supérieur professionnel HBO 5 et les formations de bachelor et de master qui sont dispensées par des instituts supérieurs et des universités conformément à la capacité d'enseignement, telle que visée aux articles II.78 à II.100, [<sup>4</sup> aux articles II.100/1, II.100/2 et à l'article II.113, § 4, alinéa 4,]<sup>4</sup> cette liste contient par institution et par discipline, partie de discipline ou cluster de disciplines, les données suivantes :
+
+1° le grade de la formation ;
+
+2° la qualification du grade de la formation ;
+
+3° la mention que la formation est une formation de gradué, une formation initiale de bachelor, une formation de bachelor après bachelor, une formation initiale de master ou une formation de master après master ;
+
+4° le cas échéant, la spécification du grade telle que visée à l'article II.77 ;
+
+5° le cas échéant, le titre supplémentaire que le porteur du diplôme est autorisé à porter, visé à l'article II.76 ;
+
+6° le cas échéant, les orientations diplômantes au sein de la formation ;
+
+7° la ou les implantations où la formation et, le cas échéant, la ou les orientations diplômantes sont proposées ;
+
+8° la mention que la formation est dispensée en néerlandais ou une autre lange, avec, le cas échéant, la formation équivalente en néerlandais ;
+
+9° le volume des études de la formation.
+
+Pour les formations de l'enseignement supérieur professionnel HBO 5, les formations de bachelor et de master qui sont dispensées par les autres institutions enregistrées d'office ou par les institutions enregistrées, la liste comprend par institution les données suivantes :
+
+1° [<sup>3</sup> si applicable, la discipline, une partie de la discipline ou des disciplines où est classée une formation;]<sup>3</sup>
+
+2° le grade de la formation ;
+
+3° la qualification du grade de la formation ;
+
+4° la mention que la formation est une formation de gradué, une formation initiale de bachelor, une formation de bachelor après bachelor, une formation initiale de master ou une formation de master après master ;
+
+5° le volume des études de la formation exprimé en unités d'études ;
+
+6° le cas échéant, la spécification du grade telle que visée à l'article II.77 ;
+
+7° le cas échéant, le titre supplémentaire que le porteur du diplôme est autorisé à porter, visé à l'article II.76 ;
+
+8° la mention de la langue d'enseignement de la formation;
+
+[<sup>6</sup> 9° le cas échéant, les orientations diplômantes au sein de la formation.]<sup>6</sup>
+
+Pour les formations de bachelor et de master, la première liste reflète la situation de l'année académique 2018-2019, pour les formations de l'enseignement supérieur professionnel HBO 5 la situation de l'année académique 2019-2020.
+
+Suite aux décisions ou arrêtés suivants, le Gouvernement flamand adapte chaque année la liste des formations de l'enseignement supérieur professionnel HBO 5 ou des formations de bachelor et de master dispensées par les universités et les instituts supérieurs :
+
+1° sur la base d'une décision du Gouvernement flamand sur :
+
+a) la reconnaissance d'une nouvelle formation ;
+
+b) la modification du volume des études d'une formation ;
+
+c) la reconnaissance d'un master dans le cadre d'une extension du volume des études d'une formation de master ;
+
+2° sur la proposition de l'assemblée générale du VLUHR qui décide conformément à ses propres règles de décision sur :
+
+a) des modifications dans la qualification du grade de la formation ;
+
+b) des modifications dans les orientations diplômantes qui peuvent être proposées au sein d'une certaine formation. Ces modifications portent sur :
+
+1\) l'organisation de nouvelles orientations diplômantes ;
+
+2\) des modifications de la dénomination d'orientations diplômantes existantes, à l'exception des formations de l'enseignement supérieur professionnel HBO 5 ;
+
+3\) des changements d'implantation au sein de l'institution et de la formation d'orientations diplômantes existantes ;
+
+c) la transformation d'une formation de bachelor ou de master en une formation organisée conjointement, auquel cas, au moment de la transformation, l'institution adhérente ne propose pas la formation de bachelor ou de master, telle que visée à l'article II.166 ;
+
+d) la fusion de deux ou plusieurs formations de bachelor ou de deux ou plusieurs formations de master au sein d'un institut supérieur ou d'une université, telle que visée à l'article II.167 ;
+
+3° sur la base d'une décision de la direction de l'institution par laquelle elle indique :
+
+a) qu'elle n'organise plus la formation ou une orientation diplômante ;
+
+b) qu'elle change la langue de la formation de bachelor après bachelor et de master après master ;
+
+4° sur la base d'une décision d'accréditation négative de l'organisation d'accréditation ;
+
+5° au cas où une formation de master est sélectionnée conformément aux dispositions d'un programme européen de financement visant à promouvoir la coopération internationale dans l'enseignement supérieur et dans le cadre duquel la diplômation multiple ou conjointe est soutenue ;
+
+6° sur la base d'un avis positif émis par la Commissie Hoger Onderwijs sur l'organisation d'une formation de bachelor ou de master en langue étrangère, et au sujet duquel le Gouvernement flamand n'a pas rendu un avis négatif dans un délai d'échéance de 45 jours ;
+
+7° sur la base d'un avis positif émis par la Commissie Hoger Onderwijs sur le changement d'implantation d'une formation de bachelor ou de master [<sup>5</sup> ou une formation de l'enseignement supérieur professionnel]<sup>5</sup>.
+
+Le Gouvernement flamand peut également adapter la liste des formations de bachelor et de master proposées par les universités et les instituts supérieurs pour répondre au besoin de comparabilité, de clarté et de transparence des dénominations, sur l'avis du VLHUR.
+
+[<sup>5</sup> Pour les formations de l'enseignement supérieur professionnel, les formations de bachelor et de master proposées par les autres institutions enregistrées d'office ou par des institutions enregistrées, le Gouvernement flamand peut adapter le Registre de l'Enseignement supérieur, visé à alinéa trois, à la demande de la direction de l'institution.]<sup>5</sup> Pour la spécification du grade, la direction de l'institution joint un avis du VLUHR à la demande précitée.
+
+Les adaptations demandées par le VLUHR et la direction de l'institution sont communiquées au service compétent de l'Autorité flamande chaque année avant le 1er décembre de l'année académique qui précède l'année académique à laquelle l'adaptation est d'application.]<sup>1</sup>
+
+[<sup>4</sup> Lors de la fourniture d'informations sur l'offre de formation et lors de la validation d'études, une direction de l'institution utilise au moins les dénominations et données concernant les formations et orientations diplômantes arrêtées dans la liste, visée au présent paragraphe. Les commissaires du gouvernement se voient confier la tâche spécifique de contrôler systématiquement cette fourniture d'informations dans le cadre du contrôle de légalité qu'ils effectuent. Eventuellement, ils introduisent un recours motivé auprès du Gouvernement flamand, conformément aux articles IV.97 à IV.99.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2017-12-08/24, art. 17, 004; En vigueur : 01-10-2018&gt;
+
+(2)&lt;DCFL 2018-05-18/14, art. 42, 007; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DCFL 2019-04-05/42, art. 106, 013; En vigueur : 01-01-2019&gt;
+
+(4)&lt;DCFL 2020-07-03/39, art. 139,1°, 017; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFL 2021-07-09/33, art. 208, 022; En vigueur : 01-09-2021&gt;
+
+(6)&lt;DCFL 2025-06-06/20, art. 54, 043; En vigueur : 01-09-2025&gt;
+
+#### Chapitre 9/1. [<sup>1</sup> Obligation de rendre compte de la qualité de la formation ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 43, 007; En vigueur : 01-01-2019&gt;
+
+##### Section 1re. [<sup>1</sup> Généralités]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 44, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.170/1**
+
+[<sup>1</sup> La qualité d'une formation se caractérise par l'ensemble des caractéristiques de qualité suivantes :
+
+1° les acquis d'apprentissage de la formation, visés à l'article II.68 du présent Code, se fondant sur les descripteurs de niveau, visés à l'article II.141 du présent Code, répondent clairement et donnent une interprétation spécifique à la formation aux exigences internationales de contenu, de niveau et d'orientation ;
+
+2° le curriculum de la formation est conforme aux plus récents développements dans le domaine, tient compte des développements sur le terrain et est socialement pertinent ;
+
+3° les enseignants employés pour délivrer la formation offrent aux élèves la meilleure opportunité possible pour atteindre les acquis d'apprentissage ;
+
+4° la formation offre aux étudiants des services et un encadrement des études adéquats et facilement accessibles ;
+
+5° l'environnement d'apprentissage et d'enseignement encourage les étudiants à jouer un rôle actif dans le processus d'apprentissage et contribue au bon déroulement des études ;
+
+6° l'évaluation des étudiants reflète le processus d'apprentissage et concrétise les acquis d'apprentissage escomptés ;
+
+7° la formation fournit des informations complètes et facilement lisibles sur toutes les phases de la carrière d'études ;
+
+8° l'information sur la qualité de la formation est mise à la disposition du public.
+
+La formation respecte, le cas échéant, la réglementation applicable en matière d'accès à certaines fonctions ou professions visées à l'article II.67.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 45, 007; En vigueur : 01-01-2019&gt;
+
+##### Section 2. [<sup>1</sup> Evaluation institutionnelle]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 46, 007; En vigueur : 01-01-2019&gt;
+
+###### Sous-section 1re. [<sup>1</sup> Généralités ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 47, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.170/2**
+
+[<sup>1</sup> Les institutions, visées aux articles II.2 et II.3, sont soumises à une évaluation institutionnelle.
+
+Pour chaque institution telle que visée aux articles II.2 et II.3, l'organisation d'accréditation organise une évaluation institutionnelle au cours de la période allant du début de [<sup>2</sup> l'année académique 2020-2021 jusqu'à la fin de l'année académique 2024-2025]<sup>2</sup> incluse. Ensuite, l'organisation d'accréditation organise, tous les six ans, une évaluation institutionnelle pour chaque institution, telle que visée aux articles II.2 et II.3.
+
+En consultation avec le VLUHR comme organisation coordinatrice, l'organisation d'accréditation établit le calendrier des évaluations institutionnelles.]<sup>1</sup>
+
+[<sup>3</sup> Par dérogation à l'alinéa 1er, une institution disposant d'une compétence d'enseignement pour une discipline peut décider de ne pas être soumise à une évaluation institutionnelle. L'institution notifie cette décision à l'organisation d'accréditation et au ministre flamand ayant l'enseignement et la formation dans ses attributions, au plus tard deux années avant la fin de la durée de validité de la conclusion d'évaluation institutionnelle. Pour l'accréditation des formations de cette institution, la procédure visée à la partie 2, titre 3, chapitre 9/1, section 4, est suivie et les conséquences juridiques visées à l'article II.170/18, § 4, s'appliquent. Par dérogation à l'article II.170/15, alinéa 1er, dans le cadre de l'organisation des évaluations externes, visées à l'article II.170/17, § 1er, l'institution doit faire appel à l'organisation d'accréditation comme organe d'évaluation.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 48, 007; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2019-03-01/26, art. 28, 012; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2025-07-18/31, art. 66, 044; En vigueur : 01-09-2025&gt;
+
+**Art. II.170/3**
+
+[<sup>1</sup> § 1er. Le cadre d'évaluation visé à l'article II.170/6 fixe la forme et le contenu du dossier présenté à l'organisation d'accréditation en préparation de l'évaluation institutionnelle.
+
+L'organisation d'accréditation détermine pour chaque institution telle que visée aux articles II.2 et II.3, la date limite à laquelle le dossier doit être soumis.
+
+§ 2. Lorsqu'un dossier ne satisfait pas au point 4° du cadre d'évaluation, visé à l'article II.170/6, l'organisation d'accréditation offre la possibilité de réparer l'omission dans un délai à déterminer par elle. Si la possibilité susmentionnée n'est pas ou pas suffisamment utilisée, le dossier sera déclaré irrecevable. L'organisation d'accréditation peut déterminer les modalités de cette procédure dans le cadre d'évaluation.
+
+§ 3. Deux ou plusieurs universités ou deux ou plusieurs instituts supérieurs peuvent soumettre ensemble un dossier pour une évaluation institutionnelle. Dans ce cas, ils sont soumis à la même évaluation institutionnelle qui résulte un seul rapport d'évaluation conjoint et en une seule décision conjointe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 49, 007; En vigueur : 01-01-2019&gt;
+
+###### Sous-section 2. [<sup>1</sup> Commission]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 50, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.170/4**
+
+[<sup>1</sup> L'organisation d'accréditation compose la commission d'évaluation qui effectue l'évaluation institutionnelle et coordonne le processus d'évaluation. L'institution concernée a le droit de communiquer des objections motivées contre la composition de la commission d'évaluation dans un délai de quinze jours à compter du lendemain de la réception de la communication de l'organisation d'accréditation.
+
+La commission d'évaluation comprend au moins cinq membres, dont un étudiant. Les membres de la commission d'évaluation sont indépendants, possèdent l'expertise nécessaire et sont indépendants de l'institution à évaluer depuis au moins cinq ans. La commission d'évaluation possède une expertise administrative, une expertise éducative et une expertise d'évaluation et est au courant des développements dans le secteur de l'enseignement supérieur, tant au pays qu'à l'étranger. Au moins un membre a une connaissance approfondie de l'enseignement supérieur flamand et au moins un membre travaille dans l'enseignement supérieur en dehors de la Flandre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 51, 007; En vigueur : 01-01-2019&gt;
+
+###### Sous-section 3. [<sup>1</sup> Cadre d'évaluation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 52, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.170/5**
+
+[<sup>1</sup> La commission d'évaluation visée à l'article II.170/4 prend en compte les thèmes suivants dans son évaluation :
+
+1° la mise en cohérence de la politique de l'enseignement et :
+
+a) la vision défendue par l'institution de l'enseignement supérieur et de la qualité de l'enseignement supérieur ;
+
+b) les défis sociétaux ;
+
+2° la mise en oeuvre de la politique et l'efficacité de la mise en oeuvre de la politique, ainsi que la manière dont cette efficacité est évaluée et améliorée ;
+
+3° la gestion qui fait partie de la politique d'enseignement et qui assure la qualité des formations ;
+
+4° l'implication dans la gestion des parties prenantes internes et externes d'une part et des experts externes et indépendants d'autre part ;
+
+5° l'adéquation de la gestion aux caractéristiques de qualité visées à l'article II.170/1 ;
+
+6° la culture de qualité qui est présente dans l'institution.
+
+La commission d'évaluation consigne les conclusions de l'évaluation institutionnelle dans un rapport d'évaluation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 53, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.170/6**
+
+[<sup>1</sup> L'organisation d'accréditation établit un cadre d'évaluation pour l'évaluation institutionnelle dans laquelle tous les éléments suivants sont déterminés :
+
+1° la manière dont les thèmes, visés à l'article II.170/5, sont évalués ;
+
+2° l'échelle d'évaluation et les règles décisionnelles ;
+
+3° les étapes du processus d'évaluation ;
+
+4° la forme et le contenu du dossier soumis à l'organisation d'accréditation en préparation de l'évaluation institutionnelle.
+
+L'organisation d'accréditation détermine dans le cadre d'évaluation les principes auxquels la gestion de l'assurance qualité des formations doit répondre et la façon dont les institutions rendent compte à ce sujet.
+
+Avant son application, le cadre d'évaluation de l'Evaluation institutionnelle doit être approuvé par le Gouvernement flamand, après avis du VLUHR comme organisation coordinatrice et des associations coordinatrices d'étudiants.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 54, 007; En vigueur : 01-01-2019&gt;
+
+###### Sous-section 4. [<sup>1</sup> Rapport d'évaluation et décision]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 55, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.170/7**
+
+[<sup>1</sup> § 1er. L'organisation d'accréditation achève le processus d'évaluation institutionnelle dans les douze mois de la réception du dossier.
+
+L'organisation d'accréditation prend une décision sur la base du rapport d'évaluation de la commission d'évaluation, visé à l'article II.170/5. Dans cette décision, l'organisation d'accréditation inclut les conséquences et le suivi de l'évaluation institutionnelle, visée à l'article II.170/8.
+
+Avant l'envoi du projet de rapport d'évaluation et de décision, l'organisation d'accréditation peut demander des informations, explications et éclaircissements complémentaires à la direction de l'institution. L'organisation d'accréditation fixe dans le règlement, visé dans l'article II.27 du présent code, les principes d'administration pour les demandes d'informations, d'explications et d'éclaircissements complémentaires et pour le traitement des réponses pendant toute la procédure.
+
+§ 2. L'organisation d'accréditation transmet à la direction de l'institution, au moins deux mois avant l'expiration du délai de décision, visé au paragraphe 1er, un projet de rapport d'évaluation et de décision à l'issue de l'évaluation institutionnelle. La direction de l'institution peur formuler ses objections et observations dans un délai de quinze jours, prenant cours le lendemain du jour de réception du projet.
+
+§ 3. L'organisation d'accréditation fixe dans le règlement visé à l'article II.27, les règles de procédure pour les objections et observations, visées au paragraphe 2. Ces procédures ne peuvent jamais conduire à un dépassement du délai de décision, visé au paragraphe 1er.
+
+§ 4. La décision prise à l'issue de l'évaluation institutionnelle prend effet à partir de l'année académique suivant l'année académique au cours de laquelle la décision est prise ou, dans le cas d'une prolongation, à partir du jour où la décision précédente expire.
+
+§ 5. Lorsque l'organisation d'accréditation n'est pas en mesure de prendre une décision avant que la période de la décision en vigueur sur l'évaluation institutionnelle expire, la période de la décision en vigueur sur l'évaluation institutionnelle est prolongée d'un an au maximum. La durée de la prolongation est déduite de la durée de validité de la décision sur l'évaluation institutionnelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 56, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.170/8**
+
+[<sup>1</sup> § 1er. Dans les cas suivants, les évaluations institutionnelles entraînent les conséquences juridiques suivantes :
+
+1° lorsque l'organisation d'accréditation décide raisonnablement, sur la base du rapport d'évaluation visé à l'article II.170/5 ou à l'article II.170/7, que l'institution poursuit, évalue et améliore une politique d'enseignement efficace et qu'elle veille elle-même à la gestion de l'assurance qualité des formations, l'organisation d'accréditation prend une décision positive sur l'évaluation institutionnelle. Dans ce cas, l'obligation pour cette institution de demander l'accréditation d'une formation s'éteint. Si la période d'accréditation actuelle d'une formation prend fin, elle est prolongée de six ans sur la base d'une décision d'accréditation individuelle. La décision positive sur l'évaluation institutionnelle est valable pour une période de six ans ;
+
+2° lorsque l'organisation d'accréditation décide raisonnablement, sur la base du rapport d'évaluation visé à l'article II.170/5 ou à l'article II.170/7, que l'institution ne peut qu'insuffisamment démontrer qu'elle poursuit une politique d'enseignement efficace, qu'elle l'évalue et l'améliore et qu'elle veille elle-même à la gestion de l'assurance qualité des formations, l'organisation d'accréditation prend une décision positive sur l'évaluation institutionnelle avec une validité limitée de trois ans au maximum. Au cours de cette période de trois ans au maximum, l'obligation pour cette institution de demander l'accréditation d'une formation s'éteint. Si la période d'accréditation actuelle d'une formation prend fin, elle est prolongée de six ans sur la base d'une décision d'accréditation individuelle.
+
+Au plus tard trois mois avant la fin de la validité de la décision, l'organisation d'accréditation prend une nouvelle décision sur la base d'une nouvelle évaluation limitée par une commission d'évaluation telle que visée à l'article II.170/4. Cette décision s'applique pendant une période de six ans, déduction faite de la validité limitée.
+
+Lorsque l'organisation d'accréditation décide raisonnablement, sur la base de la nouvelle évaluation limitée, que l'institution poursuit, évalue et améliore une politique d'enseignement efficace et qu'elle veille elle-même à la gestion de l'assurance qualité des formations, l'organisation d'accréditation prend une décision positive entraînant les conséquences juridiques visées au point 1° pour la validité de cette décision.
+
+Lorsque l'organisation d'accréditation décide raisonnablement, sur la base du rapport d'évaluation de la nouvelle évaluation limitée, que l'institution n'est toujours pas suffisamment en mesure de démontrer qu'elle poursuit, évalue et améliore une politique de l'enseignement efficace et qu'elle veille elle-même à la gestion de l'assurance qualité des formations, l'organisation d'accréditation prend une décision négative entraînant les conséquences juridiques visées au point 3° pour la durée de validité de cette décision ;
+
+3° lorsque l'organisation d'accréditation décide raisonnablement, sur la base du rapport d'évaluation visé à l'article II.170/5 ou à l'article II.170/7, que la qualité des formations n'est pas garantie, elle prend une décision négative sur l'évaluation institutionnelle : l'institution demande l'accréditation de formation pour toutes les formations pour lesquelles la période d'accréditation expire, conformément à l'article II.170/9. La décision négative sur l'évaluation institutionnelle est valable pour une période de six ans.
+
+§ 2. Si, dans le cas d'une fusion de deux institutions ou plus, la validité d'une décision sur l'évaluation institutionnelle est différente, la date de fin de la décision sur l'évaluation institutionnelle de l'institution fusionnée est la date de fin la plus proche de la décision sur l'évaluation institutionnelle des institutions fusionnées.
+
+Si, dans le cas d'une fusion de deux ou plusieurs institutions, la conclusion de la décision sur l'évaluation institutionnelle est différente, la décision qui est la moins positive est toujours applicable.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 54, 007; En vigueur : 01-01-2019&gt;
+
+##### Section 3. [<sup>1</sup> Accréditation de formation en fonction de la propre gestion]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 58, 007; En vigueur : 01-01-2019&gt;
+
+###### Sous-section 1re. [<sup>1</sup> Demande]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 59, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.170/9**
+
+[<sup>1</sup> § 1er. Les institutions visées aux articles II.2 et II.3 demandent à l'organisation d'accréditation l'accréditation de formation en fonction de la propre gestion pour toutes les formations suivantes :
+
+1° pour les formations reconnues comme nouvelle formation conformément à l'article II.152 ;
+
+2° pour les formations dont le volume des études est étendu ou qui sont reconnues comme master recherche, conformément au chapitre 9, section 4 ;
+
+3° pour les formations censées être accréditées conformément à l'article II.151 ;
+
+4° pour les formations ayant fait l'objet d'une décision d'accréditation positive à validité limitée telle que visée à l'article II.170/13, § 4, 2° ;
+
+5° après une décision négative sur l'évaluation institutionnelle, pour les formations dont la période d'accréditation expire, comme le prévoit l'article II.170/8, § 1er, 3° ;
+
+6° pour les formations de gradué qui sont transformées et reconnues comme nouvelle formation conformément à la procédure, visée à l'article II.395;
+
+[<sup>3</sup> 7° pour les formations initiales de bachelor ou de master enseignées en langue étrangère ayant reçu l'autorisation pour être organisées conformément à l'article II.263, § 3, alinéa 4, 1°, lorsque la demande auprès de la Commissie Hoger Onderwijs a été effectuée après le 1er septembre 2024.]<sup>3</sup>
+
+L'accréditation de formations organisées conjointement conduisant à un diplôme conjoint tel que visé à l'article II.171 est accordée à la demande conjointe des directions des institutions flamandes concernées.
+
+La demande d'accréditation est introduite au plus tard huit mois avant l'expiration de la validité de l'accréditation actuelle ou de la reconnaissance comme nouvelle formation. Les délais sont calculés de mois en mois et de jour en jour. Le jour où le délai expire est compris dans ces délais.
+
+[<sup>5</sup> L'autorisation pour l'organisation des formations, visées à l'alinéa 1er, 7°, expire à la fin de la deuxième année académique qui suit la fin de l'année académique dans laquelle le volume des études déterminé pour la nouvelle formation a été entièrement complété pour la première fois. La demande d'accréditation pour ces formations est introduite au plus tard onze mois avant l'expiration de l'autorisation. Les délais sont calculés d'un mois à l'autre et d'un jour à l'autre. Ces délais incluent le jour de l'expiration du délai.]<sup>5</sup>
+
+[<sup>4</sup> Par dérogation à l'alinéa 2, l'organisation conjointe par plusieurs institutions d'enseignement supérieur d'un parcours raccourci de formations accréditées dans chacune des institutions concernées ne nécessite pas de demande d'accréditation.]<sup>4</sup>
+
+§ 2. Lorsqu'une institution fait l'objet d'une décision négative sur l'évaluation institutionnelle, l'organisation d'accréditation peut, en consultation avec l'institution concernée, ajuster la période d'accréditation des formations dont la période d'accréditation expire pendant la validité de la décision négative. Dans ce cas, il est veillé à ce que toutes les formations dont la période d'accréditation expire au cours de la validité de cette décision négative demandent une nouvelle accréditation au cours de la validité de cette décision négative.
+
+[<sup>2</sup> 2° /1 pour les formations, visées à l'article II.160, § 9, dont le volume des études a été étendu ;]<sup>2</sup>
+
+§ 3. Dans le cadre d'évaluation, visé à l'article II.170/12, la forme et le contenu du dossier devant être joint à la demande sont définis.
+
+§ 4. Lorsque la demande ne satisfait pas au point 4° du cadre d'évaluation, visé à l'article II.170/12, alinéa 1er, l'organisation d'accréditation offre la possibilité de réparer l'omission dans un délai à déterminer par elle. Si la possibilité susmentionnée n'est pas ou pas suffisamment utilisée, la demande sera déclarée irrecevable. L'organisation d'accréditation peut déterminer les modalités de la procédure dans le cadre d'évaluation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 60, 007; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2022-07-15/20, art. 9, 034; En vigueur : 01-10-2023&gt;
+
+(3)&lt;DCFL 2024-04-19/55, art. 143, 041; En vigueur : 01-09-2024&gt;
+
+(4)&lt;DCFL 2024-04-19/55, art. 144, 041; En vigueur : 01-09-2024&gt;
+
+(5)&lt;DCFL 2025-07-18/31, art. 67, 044; En vigueur : 01-09-2025&gt;
+
+###### Sous-section 2. [<sup>1</sup> Commission]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 61, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.170/10**
+
+[<sup>1</sup> L'organisation d'accréditation compose la commission qui effectue l'évaluation, et coordonne le processus d'évaluation. L'institution concernée a le droit de communiquer des objections motivées contre la composition de la commission dans un délai de quinze jours à compter du lendemain de la réception de la communication de l'organisation d'accréditation.
+
+Cette commission comprend au moins un (1) étudiant. Les membres de la commission sont indépendants, disposent de l'expertise nécessaire et n'ont pas été liés à l'institution ou aux institutions concernées depuis au moins cinq ans. Au moins un membre a une connaissance approfondie de l'enseignement supérieur flamand et au moins un membre travaille en dehors de la Flandre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 62, 007; En vigueur : 01-01-2019&gt;
+
+###### Sous-section 3. [<sup>1</sup> Cadre d'évaluation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 63, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.170/11**
+
+[<sup>1</sup> La commission visée à l'article II.170/10 prend en compte les thèmes suivants dans son évaluation :
+
+1° la qualité des formations qui se manifeste via les caractéristiques de qualité, visées à l'article II.170/1 ;
+
+2° l'implication dans la formation des parties prenantes internes et externes d'une part et des experts externes et indépendants d'autre part.
+
+La commission consigne les conclusions de l'évaluation dans un rapport d'évaluation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 64, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.170/12**
+
+[<sup>1</sup> L'organisation d'accréditation établit un cadre d'évaluation dans lequel sont déterminés tous les éléments suivants :
+
+1° la manière dont les caractéristiques de qualité, visées à l'article II.170/1, sont évaluées ;
+
+2° l'échelle d'évaluation et les règles décisionnelles ;
+
+3° les étapes du processus d'évaluation ;
+
+4° la forme et le contenu du dossier de demande.
+
+Le dossier comprend les résultats et les réalisations de la gestion qui permettent de démontrer la qualité de la formation sur la base des caractéristiques de qualité visées à l'article II.170/1.
+
+Avant son application, le cadre d'évaluation doit être approuvé par le Gouvernement flamand, sur avis préalable du VLUHR comme organisation coordinatrice et des associations coordinatrices d'étudiants.
+
+Les formations conjointes organisées par une institution d'enseignement supérieur flamande en collaboration avec une ou plusieurs institutions d'enseignement supérieur étrangères qui,[<sup>2</sup> offrent ensemble un curriculum intégré conduisant, en cas de réussite, à une diplomation multiple ou conjointe,]<sup>2</sup> sont évaluées à l'aide de l'European Approach for Quality Assurance of Joint Programmes, approuvée par les ministres de l'Espace européen de l'Enseignement supérieur. En vue de l'organisation de cette évaluation externe, les institutions peuvent recourir à un autre organe d'évaluation enregistré dans le registre " European Quality Assurance Register for Higher Education (EQAR) ". Les institutions demandent l'accréditation auprès de l'organisation d'accréditation dans les deux mois de la publication de l'évaluation externe de la formation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 65, 007; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2022-07-15/20, art. 10, 034; En vigueur : 01-10-2023&gt;
+
+###### Sous-section 4. [<sup>1</sup> Rapport d'évaluation et décision]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 66, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.170/13**
+
+[<sup>1</sup> § 1er. L'organisation d'accréditation prend une décision d'accréditation sur la base du rapport d'évaluation de la commission visée à l'article II.170/11 ou sur la base d'une évaluation visée à l'article II.170/12, alinéa 4.
+
+Avant l'envoi du projet de rapport d'évaluation et de décision, l'organisation d'accréditation peut demander des informations, explications et éclaircissements complémentaires à la direction de l'institution. L'organisation d'accréditation fixe dans le règlement, visé à l'article II.27, les principes d'administration pour les demandes d'informations, d'explications et d'éclaircissements complémentaires et pour le traitement des réponses.
+
+§ 2. L'organisation d'accréditation présente, avant l'expiration du délai de six mois, un projet de décision d'accréditation et le rapport d'évaluation sous-jacent à la direction de l'institution. La direction de l'institution peur formuler ses objections et observations dans un délai de quinze jours, prenant cours le lendemain du jour de réception du projet.
+
+§ 3. Si l'organisation d'accréditation ne peut prendre une décision d'accréditation avant la fin de la validité de l'accréditation en cours, l'organisation d'accréditation peut prolonger la validité de l'accréditation en cours d'une année académique. La durée de la prolongation est déduite de la validité de l'accréditation, visée au paragraphe 4.
+
+§ 4. Dans les cas suivants, les décisions d'accréditation entraînent les conséquences juridiques suivantes :
+
+1° lorsque l'organisation d'accréditation décide raisonnablement, sur la base du rapport d'évaluation visé à l'article II.170/11 ou à l'article II.170/12, alinéa 4, qu'il est suffisamment garanti que les caractéristiques de qualité visées à l'article II.170/1 sont présentes dans la formation, elle prend une décision d'accréditation positive : la décision d'accréditation positive a une validité de six ans ;
+
+2° lorsque l'organisation d'accréditation décide raisonnablement, sur la base du rapport d'évaluation visé à l'article II.170/11 ou à l'article II.170/12, alinéa 4, qu'il est insuffisamment garanti que les caractéristiques de qualité visées à l'article II.170/1 sont présentes dans la formation, elle prend une décision d'accréditation positive ayant une validité limitée de trois ans au maximum. Au plus tard trois mois avant la fin de cette période, l'organisation d'accréditation prend une nouvelle décision sur la base d'une nouvelle évaluation par une commission.
+
+Dans le cas d'une nouvelle décision d'accréditation positive, la validité limitée est déduite de la validité générale de six ans ;
+
+3° lorsque l'organisation d'accréditation décide raisonnablement, sur la base du rapport d'évaluation après la réévaluation visée au point 2°, qu'il n'est toujours pas suffisamment démontré que les caractéristiques de qualité visées à l'article II.170/1 sont présentes dans la formation, elle prend une décision d'accréditation négative. La direction de l'institution met fin à la formation. L'institution garantit que les étudiants peuvent poursuivre leur formation grâce à la coopération avec une autre institution. Le Gouvernement flamand peut prendre des mesures si l'institution reste en défaut. Pendant une période de six ans, il est interdit à la direction de l'institution de relancer la formation.
+
+§ 5. L'organisation d'accréditation fixe dans le règlement visé à l'article II.27, les procédures pour les objections et observations, visées au paragraphe 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 67, 007; En vigueur : 01-01-2019&gt;
+
+##### Section 4. [<sup>1</sup> Accréditation d'une formation sur la base d'une évaluation par un organe d'évaluation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 68, 007; En vigueur : 01-01-2019&gt;
+
+###### Sous-section 1re. [<sup>1</sup> Demande]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 69, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.170/14**
+
+[<sup>1</sup> § 1er. Les institutions, visées aux articles II.19, II.20, II.21, II.105 et II.106, ainsi que les institutions enregistrées visées à l'article II.6, demandent à l'organisation d'accréditation l'accréditation de leurs formations.
+
+L'accréditation de formations organisées conjointement conduisant à un diplôme conjoint est accordée à la demande conjointe des directions des institutions flamandes concernées.
+
+La demande d'accréditation est introduite au plus tard [<sup>2</sup> six]<sup>2</sup> mois avant l'expiration de la validité de l'accréditation en cours ou de la reconnaissance comme nouvelle formation. Les délais sont calculés de mois en mois et de jour en jour. Le jour où le délai expire est compris dans les délais.
+
+La direction de l'institution demande l'accréditation dans un délai de deux mois à compter de la publication de l'évaluation externe visée à l'article II.170/17, § 1er.
+
+§ 2. Dans le cadre d'évaluation, visé à l'article II.170/17, § 1er, la forme et le contenu du dossier devant être joint à la demande sont définis.
+
+§ 3. Lorsque le dossier ne satisfait pas au point 4° du cadre d'évaluation, visé à l'article II.170/17 § 1er, l'organisation d'accréditation offre la possibilité de réparer l'omission dans un délai à déterminer par elle. Si la possibilité susmentionnée n'est pas ou pas suffisamment utilisée, la demande sera déclarée irrecevable. L'organisation d'accréditation peut déterminer les modalités de cette procédure dans le cadre d'évaluation.
+
+§ 4. La direction de l'institution a la possibilité de formuler des observations techniques et des objections de fond devant la commission visée à l'article II.170/15, afin de déterminer définitivement l'évaluation externe. La commission visée à l'article II.170/15 a l'obligation à l'égard de la direction de l'institution de répondre par écrit aux objections de fond formulées.
+
+Une direction d'institution ayant émis une objection de fond, telle que visée à l'alinéa précédent, à l'égard du projet d'évaluation externe, peut joindre une note complémentaire à la demande d'accréditation, si l'évaluation externe définitivement établie et publiée néglige manifestement cette objection.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 70, 007; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 145, 041; En vigueur : 01-09-2024&gt;
+
+###### Sous-section 2. [<sup>1</sup> Commission]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 71, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.170/15**
+
+[<sup>1</sup> Pour l'organisation des évaluations externes visées à l'article II.170/17 § 1er, les institutions font appel à un organe d'évaluation qui :
+
+1° soit, est enregistré auprès de l'European Quality Assurance Register for Higher Education ;
+
+2° soit, est reconnu par l'organisation d'accréditation sur la base d'un accord de coopération qui garantit que l'évaluation externe est effectuée conformément aux Standards and Guidelines for Quality Assurance in the European Higher Education Area (normes et lignes directrices pour l'assurance qualité dans l'espace européen de l'enseignement supérieur).
+
+L'organe d'évaluation, visé à l'alinéa 1er, désigne la commission qui procède à l'évaluation externe. La commission comprend au moins un (1) étudiant. Les membres de la commission sont indépendants, disposent de l'expertise nécessaire et n'ont pas été liés à l'institution concernée depuis au moins cinq ans. Au moins un membre a une connaissance approfondie de l'enseignement supérieur flamand et au moins un membre travaille en dehors de la Flandre.
+
+La commission utilise le cadre d'évaluation visé à l'article II.170/17 ou un cadre d'évaluation équivalent sur le plan méthodologique.
+
+La commission consigne les conclusions de l'évaluation dans un rapport d'évaluation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 72, 007; En vigueur : 01-01-2019&gt;
+
+###### Sous-section 3. [<sup>1</sup> Cadre d'évaluation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 73, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.170/16**
+
+[<sup>1</sup> La commission visée à l'article II.170/15 prend en compte les thèmes suivants dans son évaluation :
+
+1° la qualité des formations qui se manifeste via les caractéristiques de qualité, visées à l'article II.170/1 ;
+
+2° l'implication dans la formation des parties prenantes internes et externes d'une part et des experts externes et indépendants d'autre part.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 74, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.170/17**
+
+[<sup>1</sup> § 1er. L'organisation d'accréditation fixe dans le cadre d'évaluation tous les éléments suivants :
+
+1° la manière dont les thèmes, visés à l'article II.170/16, sont évalués ;
+
+2° l'échelle d'évaluation et les règles décisionnelles ;
+
+3° les étapes du processus d'évaluation ;
+
+4° la forme et le contenu du dossier de demande.
+
+Le dossier de demande contient en tout cas une évaluation externe publiée de la formation.
+
+§ 2. Avant son application, le cadre d'évaluation doit être approuvé par le Gouvernement flamand, sur avis préalable du VLUHR comme organisation coordinatrice et des associations coordinatrices d'étudiants.
+
+§ 3. Des formations conjointes organisées par une institution flamande d'enseignement supérieur en collaboration avec une ou plusieurs institutions étrangères d'enseignement supérieur qui, une fois achevées avec succès, conduisent à un diplôme conjoint, sont évaluées à l'aide de l'European Approach for Quality Assurance of Joint Programmes, approuvée par les ministres de l'Espace européen de l'Enseignement supérieur. En vue de l'organisation de cette évaluation externe, les institutions peuvent recourir à un autre organe d'évaluation enregistré dans le registre " European Quality Assurance Register for Higher Education (EQAR) ". Les institutions demandent l'accréditation auprès de l'organisation d'accréditation dans les deux mois de la publication de l'évaluation externe de la formation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 75, 007; En vigueur : 01-01-2019&gt;
+
+###### Sous-section 4. [<sup>1</sup> Rapport d'évaluation et décision]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 76, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.170/18**
+
+[<sup>1</sup> § 1er. L'organisation d'accréditation prend une décision d'accréditation sur la base du rapport d'évaluation de la commission visée à l'article II.170/15 ou sur la base d'une évaluation telle que visée à l'article II.170/17, § 3.
+
+Avant l'envoi du projet de décision, l'organisation d'accréditation peut demander des informations, des explications et des éclaircissements complémentaires à l'organe d'évaluation ou à la direction de l'institution. L'organisation d'accréditation fixe dans le règlement, visé à l'article II.27, les principes d'administration pour les demandes d'informations, d'explications et d'éclaircissements complémentaires et pour le traitement des réponses.
+
+§ 2. L'organisation d'accréditation présente à la direction de l'institution un projet de décision d'accréditation avant l'expiration d'un délai de trois mois. La direction de l'institution peur formuler ses objections et observations dans un délai de quinze jours, prenant cours le lendemain du jour de réception du projet.
+
+§ 3. Si l'organisation d'accréditation ne peut prendre une décision d'accréditation avant la fin de la validité de l'accréditation en cours, l'organisation d'accréditation peut prolonger la validité de l'accréditation en cours d'une année académique. La durée de la prolongation est déduite de la validité de l'accréditation, visée au paragraphe 4.
+
+Dès qu'il a été décidé de prolonger l'accréditation en cours d'une année académique, l'organisation d'accréditation peut charger l'organe d'évaluation de la réalisation d'une évaluation externe complémentaire suivant les directives et critères fixés par l'organisation d'accréditation. Le cas échéant, la direction de l'institution peut demander à un autre organe d'évaluation de réaliser l'évaluation externe complémentaire.
+
+§ 4. Dans les cas suivants, les décisions d'accréditation entraînent les conséquences juridiques suivantes :
+
+1° lorsque l'organisation d'accréditation décide raisonnablement, sur la base du rapport d'évaluation visé à l'article II.170/15 ou à l'article II.170/17, alinéa 3, qu'il est suffisamment garanti que les caractéristiques de qualité visées à l'article II.170/1 sont présentes dans la formation, elle prend une décision d'accréditation positive. La décision positive sur l'évaluation institutionnelle est valable pour une période de six ans ;
+
+2° lorsque l'organisation d'accréditation décide raisonnablement, sur la base du rapport d'évaluation visé à l'article II.170/15 ou à l'article II.170/17, § 3, qu'il est insuffisamment garanti que les caractéristiques de qualité visées à l'article II.170/1 sont présentes dans la formation, elle prend une décision d'accréditation positive ayant une validité limitée de trois ans au maximum. Au plus tard trois mois avant la fin de cette période, l'organisation d'accréditation prend une nouvelle décision sur la base d'une nouvelle évaluation par une commission. Dans le cas d'une nouvelle décision d'accréditation positive, la validité limitée est déduite de la validité générale de six ans ;
+
+3° lorsque l'organisation d'accréditation décide raisonnablement, sur la base du rapport d'évaluation après la réévaluation visée au point 2°, qu'il n'est toujours pas suffisamment démontré que les caractéristiques de qualité visées à l'article II.170/1 sont présentes dans la formation, elle prend une décision d'accréditation négative. La direction de l'institution met fin à la formation. L'institution garantit que les étudiants peuvent poursuivre leur formation grâce à la coopération avec une autre institution. Le Gouvernement flamand peut prendre des mesures si l'institution reste en défaut. Pendant une période de six ans, il est interdit à la direction de l'institution de relancer la formation.
+
+§ 5. L'organisation d'accréditation fixe dans le règlement visé à l'article II.27, les procédures pour les objections et observations, visées au paragraphe 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-18/14, art. 77, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.171**
+
+§1 [<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+§2 (voir version néerlandaise)
+
+§3(voir version néerlandaise)
+
+§4(voir version néerlandaise)
+
+§5(voir version néerlandaise)
+
+§6[<sup>2</sup> Si la date de début des reconnaissances en tant que nouvelle formation ou de l'accréditation des formations organisées sous la forme d'un parcours raccourci organisé conjointement tel que visé à [<sup>3</sup> l'article II.170/9, § 1er, alinéa 5,]<sup>3</sup> est différente, la date de début de la reconnaissance en tant que nouvelle formation ou de l'accréditation de ce parcours raccourci organisé conjointement est la première date de début des formations organisées séparément des institutions concernées. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 132, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 146, 041; En vigueur : 01-09-2024&gt;
+
+(3)&lt;DCFL 2025-07-18/31, art. 68, 044; En vigueur : 01-09-2025&gt;
+
+**Art. II.172**
+
+[<sup>1</sup> § 3. Dans les limites de sa compétence d'enseignement, une université ou un institut supérieur est autorisé, conjointement avec une ou plusieurs institutions d'enseignement supérieur étrangères ou avec l'Ecole Royale Militaire à Bruxelles, à délivrer un diplôme conjoint et à conférer le grade y afférent de gradué, de bachelor ou de master à l'étudiant ayant réussi une formation conjointe dispensée par les institutions en question. Dans les limites de sa compétence d'enseignement, une université est autorisée, conjointement avec une ou plusieurs universités de la Communauté française, à délivrer un diplôme conjoint et à conférer le grade y afférent de bachelor ou de master à l'étudiant ayant réussi une formation conjointe dispensée par les institutions en question. Dans les limites de sa capacité d'enseignement, un institut supérieur est autorisé, conjointement avec un ou plusieurs instituts supérieurs de la Communauté française ou de la Communauté germanophone, à délivrer un diplôme conjoint et à conférer le grade y afférent de gradué, de bachelor ou de master à l'étudiant ayant réussi une formation conjointe dispensée par les institutions intéressées. L'organisation de la formation conjointe se déroule dans le cadre d'un programme d'enseignement international ou européen ou dans le cadre d'une convention de coopération entre les institutions concernées.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 133, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.173**
+
+[<sup>1</sup> § 1er. Les instituts supérieurs et les universités peuvent conclure un accord avec un ou plusieurs instituts d'enseignement supérieur sur l'organisation commune d'activités d'enseignement et d'études, la recherche, la prestation de services, la gestion de la qualité et l'utilisation de l'infrastructure et de l'équipement.
+
+Les instituts supérieurs et les universités peuvent conclure des accords de coopération avec des tiers sur l'organisation commune d'activités d'enseignement et d'études, l'infrastructure et l'équipement, la recherche scientifique appliquée à la pratique, et les services sociaux et scientifiques dans le respect des dispositions, visées à la section 4, titre 2, chapitres 2, 3 et 4.
+
+§ 2. L'accord, visé au paragraphe 1er, détermine au moins la nature et la forme de la coopération et, le cas échéant, le délai de l'accord et les engagements financiers et autres entre les parties concernées.
+
+Au cas où la coopération concerne l'organisation commune d'activités d'enseignement et d'autres activités d'études avec une institution d'enseignement supérieur, l'accord mentionne aussi les modalités relatives à l'entérinement des études, dans le respect des prescriptions relatives aux capacités d'enseignement des institutions d'enseignement supérieur.
+
+Au cas où la coopération concerne l'organisation commune d'activités d'enseignement et d'autres activités d'études avec un tiers, l'accord inclut une disposition relative à la gestion de l'assurance qualité de l'institut supérieur ou de l'université.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-07-07/17, art. 123, 031; En vigueur : 01-10-2023&gt;
+
+**Art. II.176**
+
+§1[<sup>1</sup> [<sup>2</sup> (voir version néerlandaise)]<sup>2</sup>]<sup>1</sup>.
+
+[<sup>3</sup> §1° /1 un diplôme de l'enseignement secondaire, qualification d'enseignement niveau 3, délivré à partir de l'année scolaire 2024-2025 ;]<sup>3</sup>
+
+§2
+
+[<sup>3</sup> 2° /1 un diplôme de l'enseignement secondaire, qualification d'enseignement niveau 4, délivré à partir de l'année scolaire 2024-2025 ;]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 134, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 140, 017; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2022-07-15/20, art. 11, 034; En vigueur : 01-10-2023&gt;
+
+**Art. II_176.DROIT_FUTUR.**
+
+§1[<sup>1</sup> [<sup>2</sup> (voir version néerlandaise)]<sup>2</sup>]<sup>1</sup>.
+
+[<sup>3</sup> §1° /1 un diplôme de l'enseignement secondaire, qualification d'enseignement niveau 3, délivré à partir de l'année scolaire 2024-2025 ;]<sup>3</sup>
+
+§2
+
+[<sup>3</sup> 2° /1 un diplôme de l'enseignement secondaire, qualification d'enseignement niveau 4, délivré à partir de l'année scolaire 2024-2025 ;]<sup>3</sup>
+
+[<sup>4</sup> 2° /2 un diplôme de l'enseignement secondaire, délivré par un centre d'éducation des adultes jusqu'à l'année scolaire 2025-2026 incluse ;]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 134, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 140, 017; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2022-07-15/20, art. 11, 034; En vigueur : 01-10-2023&gt;
+
+(4)&lt;DCFL 2025-06-06/20, art. 55, 043; En vigueur : 01-09-2025&gt;
+
+**Art. II.177**
+
+[<sup>1</sup> [<sup>2</sup> [<sup>3</sup> (voir version néerlandaise)]<sup>3</sup>]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 135, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 141, 017; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2021-07-09/33, art. 209, 022; En vigueur : 01-09-2021&gt;
+
+**Art. II.178.**
+
+[<sup>1</sup> voir version neérlandaise.]<sup>1</sup>
+
+{XXXXXXXX}
+
+[<sup>1</sup> § 1° /1 un diplôme de l'enseignement secondaire, qualification d'enseignement niveau 4, délivré à partir de l'année scolaire 2024-2025 ;]<sup>1</sup>
+
+{XXXXXXXX}
+
+§ 2
+
+{XXXXXXXX}
+
+§ 3
+
+{XXXXXXXX}
+
+§ 4
+
+{XXXXXXXX}
+
+[<sup>1</sup> 4° /1 un diplôme de bachelier ou de master ;]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-07-15/20, art. 12, 034; En vigueur : 01-10-2023&gt;
+
+**Art. II_178.DROIT_FUTUR.**
+
+[<sup>1</sup> voir version neérlandaise.]<sup>1</sup>
+
+{XXXXXXXX}
+
+[<sup>1</sup> § 1° /1 un diplôme de l'enseignement secondaire, qualification d'enseignement niveau 4, délivré à partir de l'année scolaire 2024-2025 ;]<sup>1</sup>
+
+[<sup>2</sup> 1° /2 un diplôme de l'enseignement secondaire, délivré par un centre d'éducation des adultes jusqu'à l'année scolaire 2025-2026 incluse;]<sup>2</sup>
+
+{XXXXXXXX}
+
+§ 2
+
+{XXXXXXXX}
+
+§ 3
+
+{XXXXXXXX}
+
+§ 4
+
+{XXXXXXXX}
+
+[<sup>1</sup> 4° /1 un diplôme de bachelier ou de master ;]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-07-15/20, art. 12, 034; En vigueur : 01-10-2023&gt;
+
+(2)&lt;DCFL 2025-06-06/20, art. 56, 043; En vigueur : 01-09-2025&gt;
+
+**Art. II.179**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-07-03/39, art. 142, 017; En vigueur : 01-09-2019&gt;
+
+**Art. II.179/1**
+
+[<sup>1</sup> Pour l'enregistrement des candidats pour l'évaluation des conditions d'admission dérogatoires pour une formation de graduat ou une formation de bachelor, visées aux articles II.176 à II.179, les instituts supérieurs, les universités et les associations établissent un registre. Pour le partage de données entre ces institutions et le lien éventuel avec la Base de données de l'Enseignement supérieur, le numéro d'identification du Registre national est utilisé.
+
+Dans ce cadre, chaque institut supérieur, université et association respecte les conditions telles que fixées au Règlement (UE) n° 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et désigne à cet effet en particulier un fonctionnaire interne ou externe concernant la protection de données. Les instituts supérieurs, les universités et les associations sont désignés pour ce traitement comme responsables de traitement conjoints et traitent des données relatives à la carrière d'études et des données pour l'évaluation des conditions d'admission dérogatoires, visées à l'alinéa 1er. Le registre est conservé pendant au maximum [<sup>2</sup> dix ans]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-07-03/39, art. 143, 017; En vigueur : 01-09-2020&gt;
+
+(2)&lt;DCFL 2021-07-09/33, art. 210, 022; En vigueur : 01-09-2021&gt;
+
+**Art. II.181**
+
+&lt;Abrogé par DCFL 2014-03-21/29, art. 4, 999; En vigueur : 01-10-2014&gt;
+
+**Art. II.186**
+
+[<sup>1</sup> [<sup>2</sup> (voir version néerlandaise)]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 29, 012; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 144, 017; En vigueur : 01-09-2020&gt;
+
+**Art. II.187**
+
+[<sup>1</sup> § 1er. A l'inscription à une formation de bachelor dans la discipline Médecine, s'applique outre la condition générale d'admission, la condition supplémentaire d'admission de figurer parmi les mieux classés à l'issue d'un examen d'admission, organisé par un jury, ci-après dénommé examen d'admission en médecine.
+
+Cet examen d'admission vise à vérifier l'aptitude des étudiants à réussir une formation de sciences médicales.
+
+§ 2. A l'inscription à une formation de bachelor dans la discipline Science dentaire, s'applique outre la condition générale d'admission, la condition supplémentaire d'admission de figurer parmi les mieux classés à l'issue d'un examen d'admission, organisé par un jury, ci-après dénommé examen d'admission en dentisterie.
+
+Cet examen d'admission vise à vérifier l'aptitude des étudiants à réussir une formation de sciences dentaires.
+
+§ 3. Les examens d'admission organisés visés aux paragraphes 1er et 2 sont des examens de type concours.
+
+Les candidats qui obtiennent au moins 50% des points sur toutes les parties de l'examen ont réussi.
+
+Les lauréats sont classés dans l'ordre des notes numériques obtenues.
+
+Les lauréats avec les notes les plus élevées figurent parmi les mieux classés en tenant compte des quotas visés au paragraphe 4.
+
+[<sup>3</sup> Les candidats [<sup>6</sup> ...]<sup>6</sup> qui sont éligibles à un classement favorable pour[<sup>6</sup> plusieurs]<sup>6</sup> examens d'admission ne seront classés favorablement que pour la formation [<sup>6</sup> ayant la plus haute préférence]<sup>6</sup>, comme mentionnée au paragraphe 8.]<sup>3</sup>
+
+La liste avec les candidats les mieux classés est publiée définitivement au plus tard avant le 1er août de l'année en cours.
+
+§ 4. Les quotas d'entrée en formation pour les candidats les mieux classés sont séparément fixés pour la formation de médecin et la formation de dentiste sur la base de paramètres liés à la profession et à la formation.
+
+Le nombre de candidats qui peut figurer parmi les mieux classés s'élève pour l'examen d'admission en médecine à 1102 et pour l'examen d'admission en dentisterie à 135.
+
+En fonction des résultats des examens obtenus par les candidats, le quota d'entrée en formation peut être excédé. La limite passe par principe entre des candidats avec un résultat d'examen différent.
+
+Au plus tard le [<sup>5</sup> 1er mars]<sup>5</sup> de chaque année, le Gouvernement flamand établit par formation le nombre d'étudiants qui commencent effectivement la formation dans l'année académique en cours. Si ce nombre déroge du quota d'entrée en formation pour cette année académique, le Gouvernement flamand corrige le quota d'entrée en formation pour l'année académique suivante par cette différence.
+
+En outre, le Gouvernement flamand peut tenir compte lors de cet ajustement des quotas d'entrée en formation d'un ou plusieurs des critères liés à la profession ou la formation :
+
+1° le nombre de diplômés dans la formation de master ;
+
+2° le nombre de diplômes ayant fait un autre choix professionnel ;
+
+3° le champ professionnel client de la formation ;
+
+4° la capacité d'accueil en formation.
+
+§ 5. Les épreuves de l'examen d'admission en médecine et de l'examen d'admission en dentisterie portent sur :
+
+1° la connaissance et la compréhension des matières scientifiques : biologie, physique, chimie et mathématiques, le niveau correspondant à celui des deuxième et troisième degrés de l'enseignement secondaire général [<sup>5</sup> pour les examens d'admission organisés jusqu'en 2024 et correspondant aux deuxième et troisième degrés de la finalité transition de l'enseignement secondaire pour les examens d'admission organisés à partir de 2025;]<sup>5</sup>
+
+2° les compétences génériques liées aux exigences de la pratique professionnelle des médecins et de la pratique professionnelle de dentistes.
+
+Le Gouvernement flamand arrête les modalités pour la ventilation des notes, les critères de pondération et d'évaluation, y compris les règles d'arrondissement des notes, les méthodes d'examen et le contenu de l'examen.
+
+§ 6. L'examen d'admission en médecine et l'examen d'admission en dentisterie sont organisés conformément aux règles suivantes :
+
+1° l'examen est organisé une fois par an. Son organisation est communiquée dans les délais ;
+
+2° le Gouvernement flamand peut fixer des droits d'examen de 50 euros maximum en tant que contribution aux frais d'organisation. A partir de l'année 2019, le montant est adapté à l'augmentation annuelle de l'indice des prix à la consommation, avec le 1er janvier 1998 comme date de référence. Le montant est arrondi à l'unité la plus proche ;
+
+3° le Gouvernement flamand :
+
+a) organise l'examen d'admission en médecine et l'examen d'admission en dentisterie selon les modalités qu'elle détermine et les fixe dans un arrêté. Lors de l'organisation de l'examen, des aménagements raisonnables au sens de l'article II.221, § 2, sont prévus pour les étudiants souffrant de limitations fonctionnelles ;
+
+b) détermine les modalités de la procédure de recours interne et de la procédure de consultation. Le Gouvernement flamand règle le fonctionnement du jury visé au paragraphe 7 et fixe les indemnités des membres ;
+
+c) fixe les modalités relatives au concours, visé aux paragraphes 3 et 5 ;
+
+4° le jury visée au paragraphe 7 :
+
+a) rédige le règlement de fonctionnement et des examens comprenant les prescriptions concrètes en exécution de l'arrêté visé au point 3° ;
+
+b) valide les questions des examens et évalue les résultats des examens ;
+
+c) est responsable de la qualité de l'examen ;
+
+d) communique préalablement le programme des examens et publie, à l'issue de l'examen, un échantillon représentatif des questions et réponses des examens ;
+
+5° le président du jury, visé au paragraphe 7, proclame les résultats et la liste visée au paragraphe 3.
+
+§ 7.[<sup>5</sup> Les examens d'admission, visés aux paragraphes 1er et 2, et à l'article II.187/1, sont organisés par le même jury.
+
+Le Gouvernement flamand nomme le président, le secrétaire et les membres du jury.
+
+A l'exception du président et du secrétaire, le jury compte dix membres au minimum et vingt membres au maximum.
+
+Les membres du jury sont désignés parmi les membres du personnel académique autonome des universités ayant l'expertise nécessaire dans le domaine de la pratique médicale, dentaire et vétérinaire, du contenu des matières, de la pédagogie et de la psychologie. " ;
+
+4° dans le paragraphe 8, alinéa 1er, le membre de phrase " des deux examens d'admission visés aux paragraphes 1er et 2 " est remplacé par le membre de phrase " des examens d'admission visés aux paragraphes 1er et 2, et à l'article II.187/1 " ;
+
+5° dans le paragraphe 8, alinéa 2, il est inséré entre les mots " examens d'admission " et le mot " indiquent ", le membre de phrase " , visés aux paragraphes 1er et 2, " ;
+
+6° dans le paragraphe 9, les mots " est titulaire, au plus tard le 30 décembre de cette année civile, du diplôme de l'enseignement secondaire ou d'un certificat d'étude équivalent ou assimilé " sont remplacés par le membre de phrase " remplit, au plus tard le 30 décembre de cette année civile, les conditions générales d'admission à une formation de bachelier, visées à l'article II.178]<sup>5</sup>
+
+§ 8. Les examens sont organisés de manière à permettre aux étudiants de se présenter par année académique à chacun des deux examens d'admission visés aux paragraphes 1er et 2.
+
+[<sup>4</sup> [<sup>6</sup> Les candidats à plusieurs examens d'admission tels que visés aux paragraphes 1er et 2, ainsi qu'à l'article II.187/1, indiquent explicitement, au moment de leur inscription, leur ordre de préférence au niveau des formations.]<sup>6</sup>
+
+[<sup>6</sup> L'ordre, visé à l'alinéa 2, est contraignant. En conséquence de cet ordre, les candidats admissibles dans le cadre de plusieurs classements ne sont inclus comme candidats classés en ordre utile sur la liste visée au paragraphe 3, alinéa 6, que pour la formation ayant la plus haute préférence.]<sup>6</sup>]<sup>4</sup>
+
+§ 9. La réussite de l'examen d'admission en médecine et de l'examen d'admission en dentisterie au cours d'une année civile déterminée n'est réputée satisfaire à la condition supplémentaire d'admission que si l'étudiant est titulaire, au plus tard le 30 décembre de cette année civile, du diplôme de l'enseignement secondaire ou d'un certificat d'étude équivalent ou assimilé.
+
+§ 10. La condition supplémentaire d'admission de figurer parmi les mieux classés pour l'examen d'admission en médecine et pour l'examen d'admission en dentisterie, visée aux paragraphes 1er et 2, s'applique également à l'inscription à une formation de bachelor ou de master dans la discipline Médecine ou la discipline Sciences dentaires, lorsque l'étudiant a obtenu une dispense pour certaines subdivisions de formation ou une réduction du volume des études sur la base d'un diplôme obtenu à l'issue d'une formation à laquelle la condition supplémentaire d'admission n'est pas d'application. La condition supplémentaire d'admission s'applique également dans le cas d'une diplômation directe au sens de l'article II.245.
+
+§ 11. Les étudiants qui satisfont avant le 1er janvier 2018 aux conditions générales et particulières d'admission aux formations de la discipline Médecine ou de la discipline Sciences dentaires, sont dispensés du concours d'admission visé au présent article.
+
+Les étudiants [<sup>2</sup> ou les diplômés]<sup>2</sup> de la formation de master de médecine ou de sciences dentaires souhaitant s'inscrire à une formation continue pour laquelle les deux diplômes de base sont requis, sont exemptés de l'examen d'admission à la formation de base complémentaire moyennant l'approbation de la direction de l'institution. Les modalités et conditions concrètes dans ce contexte sont préalablement élaborées de façon générale dans le règlement des études et des examens de l'institution.
+
+La dispense de participation au concours d'admission visé au présent article, s'applique, sans préjudice de l'application de l'article II.193, également aux personnes ayant obtenu un diplôme respectivement de médecin ou de dentiste à l'étranger et qui sont autorisées à s'inscrire dans une université en Flandre respectivement à une formation de master dans la discipline Médecine ou à une formation de master dans la discipline Sciences dentaires.
+
+§ 12. L'attestation d'admission d'un étudiant qui figure parmi les mieux classés et satisfait dans les délais à la condition générale d'admission, visée au paragraphe 9, reste valable sans limite de temps.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2017-12-08/24, art. 18, 004; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCFL 2019-03-01/26, art. 30, 012; En vigueur : 01-10-2018&gt;
+
+(3)&lt;DCFL 2019-04-05/42, art. 107, 013; En vigueur : 01-09-2019&gt;
+
+(4)&lt;DCFL 2019-04-05/42, art. 108, 013; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFL 2023-07-07/17, art. 124, 031; En vigueur : 01-03-2023&gt;
+
+(6)&lt;DCFL 2024-04-19/55, art. 147, 041; En vigueur : 01-01-2024&gt;
+
+**Art. II.187/1.**
+
+[<sup>1</sup>§ 1er. A l'inscription à une formation de bachelier dans la discipline Médecine vétérinaire, s'applique, outre la condition générale d'admission, la condition supplémentaire d'admission de figurer parmi les mieux classés à l'issue d'un examen d'admission, ci-après dénommé examen d'admission en médecine vétérinaire. Cet examen d'admission en médecine vétérinaire est organisé par un jury.
+
+Il vise à vérifier l'aptitude des étudiants à réussir une formation en médecine vétérinaire.
+
+§ 2. L'examen d'admission en médecine vétérinaire est un examen de type concours.
+
+Les candidats qui obtiennent au moins la moitié des points à chaque partie de l'examen remplissent la condition de classement. Les candidats qui remplissent cette condition sont classés dans l'ordre des notes totales numériques obtenues.
+
+[<sup>2</sup> Les candidats qui sont éligibles à un classement favorable pour plusieurs examens d'admission ne seront classés favorablement que pour la formation ayant la plus haute préférence, visée au paragraphe 7. ]<sup>2</sup>
+
+La liste des candidats les mieux classés est publiée définitivement au plus tard avant le 1er août de l'année de l'organisation de l'examen d'admission en médecine vétérinaire.
+
+§ 3. Le quota d'entrée en formation de bachelier dans la discipline Médecine vétérinaire s'élève à 240 candidats et est basé sur des paramètres liés à la profession et à la formation.
+
+En fonction des résultats des examens obtenus par les candidats, le quota d'entrée en formation peut être excédé. La limite passe par principe entre des candidats avec un résultat d'examen différent.
+
+Au plus tard le 1er février de chaque année, le Gouvernement flamand établit le nombre d'étudiants qui commencent effectivement la formation dans l'année académique en cours. Si ce nombre déroge du quota d'entrée en formation pour cette année académique, le Gouvernement flamand corrige le quota d'entrée en formation pour l'année académique suivante par cette différence.
+
+En outre, le Gouvernement flamand peut tenir compte, lors de cet ajustement du quota d'entrée en formation, d'un ou plusieurs des critères liés à la profession ou à la formation suivants :
+
+1° le nombre de diplômés dans la formation de master ;
+
+2° le champ professionnel client de la formation ;
+
+3° la capacité d'accueil en formation.
+
+§ 4. Les épreuves de l'examen d'admission en médecine vétérinaire portent sur :
+
+1° la connaissance et la compréhension des matières scientifiques : biologie, physique, chimie et mathématiques, le niveau correspondant à celui des deuxième et troisième degrés de l'enseignement général secondaire pour les examens d'admission organisés jusqu'en 2024 et à celui des deuxième et troisième degrés de la finalité transition de l'enseignement secondaire pour les examens d'admission organisés à partir de 2025 ;
+
+2° les compétences génériques liées aux exigences de la pratique professionnelle des vétérinaires.
+
+Le Gouvernement flamand arrête les modalités pour la ventilation des notes, les critères de pondération et d'évaluation, y compris les règles d'arrondissement des notes, les méthodes d'examen et le contenu des examens.
+
+§ 5. L'examen d'admission en médecine vétérinaire est organisé conformément aux règles suivantes :
+
+1° l'examen est organisé une fois par an. Son organisation est communiquée en temps utile ;
+
+2° le Gouvernement flamand peut fixer des droits d'examen de 50 euros maximum en tant que contribution aux frais d'organisation. A partir de l'année 2019, le montant est adapté à l'augmentation annuelle de l'indice des prix à la consommation, avec le 1er janvier 2018 comme date de référence. Le montant est arrondi à l'unité la plus proche ;
+
+3° le Gouvernement flamand :
+
+a) organise l'examen d'admission en médecine vétérinaire selon les modalités qu'il détermine et les fixe dans un arrêté. Lors de l'organisation de l'examen, des aménagements raisonnables au sens de l'article II.221, § 2, sont prévus pour les étudiants souffrant de limitations fonctionnelles ;
+
+b) détermine les modalités de la procédure de recours interne et de la procédure de consultation. Le Gouvernement flamand règle le fonctionnement du jury visé au paragraphe 6, et fixe les indemnités des membres ;
+
+c) fixe les modalités relatives au concours, visé au paragraphe 1er ;
+
+4° le jury visé au paragraphe 6 :
+
+a) rédige le règlement de fonctionnement et des examens comprenant les prescriptions concrètes en exécution de l'arrêté visé au point 3° ;
+
+b) valide les questions des examens et évalue les résultats des examens ;
+
+c) est responsable de la qualité des examens ;
+
+d) communique préalablement le programme des examens et publie, à l'issue des examens, un échantillon représentatif des questions et réponses des examens ;
+
+5° le président du jury visé au paragraphe 6, proclame les résultats et la liste visée au paragraphe 2.
+
+§ 6. Les examens d'admission visés au présent article et à l'article II.187, sont organisés par le même jury, tel que décrit à l'article II.187, § 7.
+
+Pour l'examen d'admission en médecine vétérinaire, le jury peut, le cas échéant, être élargi.
+
+A l'exception du président et du secrétaire, le jury compte, en ce qui concerne l'examen d'admission en médecine vétérinaire, dix membres au minimum et vingt membres au maximum.
+
+Les membres du jury sont désignés parmi les membres du personnel académique autonome des universités ayant l'expertise nécessaire dans le domaine de la pratique médicale, dentaire et vétérinaire, du contenu des matières, de la pédagogie et de la psychologie.
+
+§ 7. Les examens d'admission sont organisés de manière à permettre aux étudiants de se présenter par année académique à chacun des deux examens d'admission visés au paragraphe 1er et à l'article II.187.
+
+[<sup>2</sup> Les candidats à plusieurs examens d'admission tels que visés aux paragraphes 1er et 2, ainsi qu'à l'article II.187/1, indiquent explicitement, au moment de leur inscription, leur ordre de préférence au niveau des formations.
+
+L'ordre, visé à l'alinéa 2, est contraignant. En conséquence de cet ordre, les candidats admissibles dans le cadre de plusieurs classements ne sont inclus comme candidats classés en ordre utile sur la liste visée au paragraphe 3, alinéa 6, que pour la formation ayant la plus haute préférence.]<sup>2</sup>
+
+§ 8. La réussite de l'examen d'admission en médecine vétérinaire au cours d'une année civile déterminée n'est réputée satisfaire à la condition supplémentaire d'admission que si l'étudiant remplit, au plus tard le 30 septembre de cette année civile, les conditions générales d'admission à une formation de bachelier, au sens de l'article II.178.
+
+§ 9. La condition supplémentaire d'admission de figurer parmi les mieux classés pour l'examen d'admission en médecine vétérinaire, visée au paragraphe 1er, s'applique également :
+
+1° à l'inscription à une formation de bachelier ou de master dans la discipline Médecine vétérinaire lorsque l'étudiant a obtenu une dispense pour certaines subdivisions de formation ou un diplôme à l'issue d'une formation à laquelle la condition supplémentaire d'admission susmentionnée n'est pas d'application ;
+
+2° à l'inscription à une formation de bachelier ou de master dans la discipline Médecine vétérinaire dans le cas d'une diplomation directe au sens de l'article II.245.
+
+§ 10. Les étudiants inscrits à la formation de bachelier ou de master en médecine vétérinaire au cours de l'année académique 2022-2023 sont dispensés de l'examen d'admission en médecine vétérinaire visé au paragraphe 1er.
+
+La dispense de participation à l'examen d'admission en médecine vétérinaire s'applique, sans préjudice de l'application de l'article II.193, également aux personnes ayant obtenu un diplôme de vétérinaire à l'étranger et qui sont autorisées à s'inscrire dans une université de la Communauté flamande à une formation de master dans la discipline Médecine vétérinaire.
+
+§ 11. L'attestation d'admission d'un étudiant qui figure parmi les mieux classés et satisfait dans les délais à la condition générale d'admission visée au paragraphe 8, reste valable sans limite de temps]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-07-15/20, art. 13, 034; En vigueur : 01-03-2023&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 148, 041; En vigueur : 01-01-2024&gt;
+
+**Art. II.188/1**
+
+[<sup>1</sup>§ 1er. Sans préjudice de l'application des conditions générales d'admission à une formation de bachelier visée à l'article II.178, la première inscription à certaines formations de bachelier aux instituts supérieurs ou aux universités est subordonnée à la participation obligatoire à une évaluation initiale. Une évaluation initiale est commune à toutes les institutions, fiable et valide. A l'issue de l'évaluation initiale, les participants reçoivent une attestation de participation uniquement valable pour l'inscription dans l'année académique en cours durant laquelle l'évaluation est réalisée ou dans l'année académique qui débute après l'évaluation initiale.
+
+Une évaluation initiale permet d'évaluer les compétences de départ qui sont nécessaires pour réussir la formation concernée. La participation à une évaluation initiale se déroule dans des conditions contrôlées. Lors de l'organisation d'une évaluation initiale, des aménagements raisonnables au sens de l'article II.221, § 2, sont prévus pour les étudiants souffrant de limitations fonctionnelles.
+
+A l'issue de l'évaluation initiale, chaque participant reçoit un rapport de retour d'expérience individuel. Chaque participant a le droit, sur la base de ce rapport de retour d'expérience, d'avoir un entretien avec un conseiller d'études ou accompagnateur de parcours dans l'institution où il souhaite s'inscrire.
+
+Le Gouvernement flamand établit, après consultation du VLUHR, par arrêté la liste des formations pour lesquelles une participation à une évaluation initiale constitue une condition à l'inscription.
+
+Les instituts supérieurs et les universités incluent dans leur règlement des études la condition supplémentaire de passer une évaluation initiale et la remédiation obligatoire imposée.
+
+§ 2. Par dérogation au paragraphe 1er, alinéa 1er, les règlements interinstitutionnels visés au paragraphe 5, indiquent dans quelles conditions et de quelle manière un étudiant ou un groupe d'étudiants est dispensé de la participation obligatoire à une évaluation initiale. Toute dispense est motivée.
+
+§ 3. Les résultats des évaluations initiales ne peuvent en aucun cas avoir pour conséquence le refus d'une inscription à la formation.
+
+A partir de l'année académique 2023-2024, les institutions imposeront une remédiation obligatoire aux étudiants qui n'atteignent pas le ou les seuils de réussite prévus pour l'évaluation initiale ou une partie de cette évaluation initiale. Le ou les seuils de réussite prévus pour les évaluations initiales sont déterminés par évaluation entre les institutions et inclus dans les règlements interinstitutionnels visés au paragraphe 5.
+
+A partir de l'année académique 2023-2024, les institutions peuvent imposer une remédiation obligatoire à un étudiant qui :
+
+1° est dispensé de participer à une évaluation initiale ;
+
+2° a participé à une évaluation initiale autre que l'évaluation initiale correspondant à la formation à laquelle l'étudiant souhaite s'inscrire.
+
+Les institutions établissent, dans les règlements interinstitutionnels visés au paragraphe 5, les cas dans lesquels elles imposent la remédiation obligatoire visée à l'alinéa 3.
+
+La remédiation obligatoire doit se concentrer sur les connaissances et les compétences pour lesquelles des déficits de remédiation ont été identifiés par l'évaluation initiale. Les institutions proposent une offre de remédiation avant le début de l'année académique ainsi qu'une offre intrascolaire ou extrascolaire pendant l'année académique. Chaque institution détermine de manière autonome l'étendue et le contenu de la remédiation obligatoire. Si la remédiation est organisée pendant l'année académique, l'étendue de la remédiation obligatoire ne peut dépasser six unités d'études.
+
+Chaque institution décide de manière autonome de lier des moments d'évaluation ou une participation obligatoire à la remédiation imposée.
+
+Le Conseil Interuniversitaire Flamand et le Conseil des Instituts supérieurs flamands contrôlent la validation de la remédiation obligatoire et son impact sur les étudiants. Ils rendent compte à ce sujet chaque année au ministre flamand ayant l'enseignement et la formation dans ses attributions.
+
+§ 4. Un étudiant peut introduire un recours contre :
+
+1° ses résultats à l'évaluation initiale ;
+
+2° la non-obtention d'une dispense de participation à une évaluation initiale ;
+
+3° la non-obtention d'aménagements raisonnables lors de la participation à une évaluation initiale, ou la nature de ces aménagements.
+
+Les modalités de recours sont déterminées dans les règlements interinstitutionnels visés au paragraphe 5.
+
+§ 5. Tous les instituts supérieurs et toutes les universités établissent conjointement un règlement interinstitutionnel au sein du Conseil des Instituts supérieurs flamands et du Conseil Interuniversitaire Flamand. Celui-ci comprend au moins les éléments suivants :
+
+1° le ou les seuils de réussite prévus pour une évaluation initiale ou une partie d'une évaluation initiale et les conséquences en vue de la remédiation obligatoire ;
+
+2° les conséquences pour la remédiation obligatoire en cas de participation à une évaluation initiale non conforme ou en cas de dispense de participation à une évaluation initiale ;
+
+3° les modalités d'organisation des évaluations initiales ;
+
+4° les dispenses de participation obligatoire à une évaluation initiale et leurs modalités d'octroi ;
+
+5° les règles relatives à la procédure de recours ;
+
+6° les accords relatifs à l'octroi d'aménagements raisonnables lors de la participation à une évaluation initiale pour les étudiants souffrant de limitations fonctionnelles au sens de l'article II.221, § 2, alinéa 2.
+
+Les règlements interinstitutionnels sont établis chaque année et validés respectivement par le Conseil des Instituts supérieurs flamands et le Conseil Interuniversitaire Flamand, selon leurs propres règles de décision. Ils transmettent ces règlements au ministre flamand compétent pour l'enseignement et la formation, au plus tard le 15 mars de l'année au cours de laquelle les évaluations initiales sont réalisées. Les règlements interinstitutionnels sont rendus publics et facilement accessibles par les institutions.
+
+§ 6. La participation à une évaluation initiale est gratuite. Le cas échéant, la remédiation obligatoire imposée ne génère également aucun coût supplémentaire pour l'étudiant, à l'exception du droit d'études dû et du coût du matériel de cours habituel.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-07-15/20, art. 14, 034; En vigueur : 01-03-2023&gt;
+
+**Art. II.190**
+
+[<sup>1</sup> voir version neerlandaise]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-07-15/20, art. 15, 034; En vigueur : 01-10-2023&gt;
+
+**Art. II.197**
+
+(Note incomplètement traduit, voir version néerlandaise)
+
+Al. 2 [<sup>1</sup> Un étudiant qui n'est pas encore titulaire d'un diplôme de bachelor peut, dans les conditions fixées par la direction de l'institution, être admis à l'inscription à la formation de bachelor éducatif pour l'enseignement secondaire sans la mention des matières d'enseignement, telle que visée à l'article II.113, § 4.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/33, art. 211, 022; En vigueur : 01-09-2021&gt;
+
+**Art. II.200**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+§ 3.
+
+[<sup>2</sup> Les institutions offrent, pour les formations de graduat, au moins un parcours modèle. Le volume des études par année académique peut, selon le groupe cible de la formation, être inférieur au volume des études mentionné à l'alinéa 1er.]<sup>2</sup>
+
+[<sup>3</sup> § 4. Un étudiant qui s'inscrit pour la première fois à une formation de bachelier déterminée dans une institution donnée s'inscrit dans le parcours type avec un volume des études de 54 à 66 unités d'études par année académique.
+
+Cette obligation ne vaut pas pour :
+
+1° un étudiant qui, sur la base de son dossier, a obtenu un parcours individualisé tel que visé au paragraphe 2 ;
+
+2° un étudiant ayant un statut particulier. L'institution peut proposer un parcours type avec un volume des études différent pour le groupe d'étudiants ayant ce statut particulier ;
+
+3° un étudiant qui a déjà obtenu un diplôme de bachelier ou de master ou un diplôme reconnu comme équivalent.
+
+§ 5. Pour les formations de bachelier et de master, la direction de l'institution limite la succession dans le temps à l'obligation pour un étudiant d'avoir suivi une subdivision de formation ou formation avant de pouvoir suivre une autre subdivision de formation et passer un examen pour celle-ci. En cas de risque ou de problèmes de sécurité, la direction de l'institution peut en outre aussi décider qu'un étudiant doit avoir réussi une subdivision de formation ou formation avant de pouvoir suivre une autre subdivision de formation et passer un examen pour celle-ci.
+
+§ 6. Sans préjudice des règles relatives au crédit d'apprentissage, un étudiant à qui une condition contraignante telle que visée à l'article II.246, § 1er, alinéa 3, § 3, alinéa 2, et § 4, alinéas 2 et 3, est imposée dans le cadre d'une formation déterminée, a le droit d'engager au moins 45 unités d'études dans cette formation au cours de l'année académique à laquelle la condition contraignante se rapporte, à moins que la succession dans le temps visée au paragraphe 5 ne le permette pas.
+
+Un étudiant à qui aucune condition contraignante telle que visée à l'article II.246, § 1er, alinéa 3, § 3, alinéa 2, et § 4, alinéas 2 et 3, n'est imposée dans le cadre d'une formation déterminée et qui n'a pas obtenu une attestation de crédits ou une cote de délibération ou n'a pas fait appel à une tolérance au cours d'une année académique précédente pour toutes les subdivisions de formation engagées, a le droit d'engager 72 unités d'études par an dans cette formation, à moins que la succession dans le temps visée au paragraphe 5 ne le permette pas.
+
+§ 7. Un étudiant qui n'a pas obtenu une attestation de crédits ou une cote de délibération ou qui n'a pas fait appel à une tolérance pour toutes les subdivisions de formation engagées, doit, lors d'une prochaine inscription dans cette formation, au moins se réinscrire à toutes les subdivisions de formation pour lesquelles il n'a pas obtenu une attestation de crédits ou une cote de délibération ou n'a pas fait appel à une tolérance. Si l'une de ces subdivisions de formation est une subdivision de formation à option, l'étudiant peut opter pour une subdivision de formation à option de remplacement dans le cadre des accords en vigueur de l'institution concernée.]<sup>3</sup>
+
+[<sup>4</sup> Il peut être dérogé à l'obligation visée à l'alinéa 1er si l'étudiant peut démontrer qu'il y a force majeure ou circonstances individuelles particulières.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 136, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2019-03-01/26, art. 31, 012; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2022-07-15/20, art. 16, 034; En vigueur : 01-10-2023&gt;
+
+(4)&lt;DCFL 2024-04-19/55, art. 149, 041; En vigueur : 01-09-2024&gt;
+
+**Art. II.201.**
+
+[<sup>1</sup> voir version neerlandaise ]<sup>1</sup>
+
+()&lt;Inséré par DCFL 2022-07-15/20, art. 17, 034; En vigueur : 01-10-2023&gt;
+
+**Art. II.202**
+
+[<sup>1</sup> § 1er. Le type et le contenu du contrat peuvent être modifiés au cours de l'année académique.
+
+Ces modifications ne peuvent être mises en oeuvre que moyennant un accord entre la direction de l'institution et l'étudiant.
+
+Dans le cas d'un parcours type, une concertation peut avoir lieu à travers le conseil d'étudiants.
+
+§ 2. L'institution détermine dans le règlement des études et des examens les conditions et les modalités sous lesquelles les modifications sont possibles.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-21/29, art. 12, 999; En vigueur : 01-10-2014&gt;
+
+**Art. II.203**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 137, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.204.**
+
+[<sup>1</sup> voir version neerlandaise]<sup>1</sup>
+
+()&lt;Inséré par DCFL 2022-07-15/20, art. 18, 034; En vigueur : 01-10-2023&gt;
+
+----------
+
+(1)&lt;DCFL 2022-07-15/20, art. 18, 034; En vigueur : 01-10-2023&gt;
+
+**Art. II.205**
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, la direction de l'institution ne peut refuser l'inscription d'un étudiant ayant un crédit d'apprentissage inférieur ou égal à zéro à une formation de bachelor éducatif si l'étudiant est déjà titulaire d'un diplôme de bachelor, et à une formation de master éducatif si l'étudiant est déjà titulaire d'un diplôme de master.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-07-03/39, art. 145, 017; En vigueur : 01-09-2020&gt;
+
+**Art. II.206**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 138, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.209**
+
+[<sup>1</sup> § 2.
+
+Par dérogation à l'alinéa 1er, un institut supérieur ou une université ne peut demander des droits d'études supplémentaires pour l'inscription d'un étudiant à une formation de bachelor éducatif si l'étudiant est déjà titulaire d'un diplôme de bachelor, et à une formation de master éducatif si l'étudiant est déjà titulaire d'un diplôme de master.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-07-03/39, art. 146, 017; En vigueur : 01-09-2020&gt;
+
+**Art. II.210**
+
+[<sup>1</sup> Les dispositions des alinéas 1er et 2 ne s'appliquent pas à l'inscription à une formation de bachelor après bachelor et une formation de master après master.]<sup>1</sup>
+
+[<sup>2</sup> § 2. Pour les étudiants du troisième degré de l'enseignement secondaire qui sont inscrits à l'enseignement supérieur avec un contrat de crédits pour douze crédits au maximum, le droit d'études s'élève à 52,5 euros.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 109, 013; En vigueur : 01-09-2014&gt;
+
+(2)&lt;DCFL 2025-07-18/31, art. 69, 044; En vigueur : 01-09-2025&gt;
+
+**Art. II.215**
+
+[<sup>1</sup> 8° d'étudiants qui sont membres de la famille d'un ressortissant d'un Etat membre de l'Espace économique européen.]<sup>1</sup>
+
+[<sup>2</sup> Pour l'application du présent article, les ressortissants du Royaume-Uni qui, à la date à laquelle le Royaume-Uni quitte l'Union conformément à l'article 50, alinéa 3, du Traité sur l'Union européenne, sont inscrits dans un établissement d'enseignement secondaire à temps plein agréé, financé ou subventionné par la Communauté flamande, ou dans un établissement d'enseignement supérieur, sont assimilés aux ressortissants d'un Etat membre de l'Union européenne, jusqu'à l'année académique 2020-2021 incluse.]<sup>2</sup>
+
+[<sup>3</sup> 9° les étudiants bénéficiant d'une protection temporaire sur la base de la directive 2001/55/CE du Conseil de l'Union Européenne du 20 juillet 2001 relative à des normes minimales pour l'octroi d'une protection temporaire en cas d'afflux massif de personnes déplacées et à des mesures tendant à assurer un équilibre entre les efforts consentis par les Etats membres pour accueillir ces personnes et supporter les conséquences de cet accueil, ou les étudiants dont les parents bénéficient de cette protection et l'étudiant réside en Belgique depuis qu'il était mineur.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-15/18, art. 88, 006; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFL 2019-03-22/06, art. 19, 019; En vigueur : indéterminée &gt;
+
+(3)&lt;DCFL 2022-04-22/07, art. 29, 024; En vigueur : 24-05-2022&gt;
+
+**Art. II.219**
+
+[<sup>1</sup> 4° 335 euros, si l'examen d'aptitude porte sur le niveau de gradué.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 139, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.221**
+
+§ 1.(Note:pour l'article complet, voir la version néerlandaise)
+
+1°
+
+2°
+
+3°
+
+4°
+
+5°
+
+6°
+
+7°
+
+8°
+
+9°
+
+10°
+
+11°
+
+12°
+
+13°
+
+14°
+
+15°
+
+16°
+
+17°
+
+18°
+
+19°
+
+20°
+
+21°
+
+22°...[<sup>2</sup> et à l'article II.200, § 7, alinéa 2 ]<sup>2</sup>
+
+§ 2.
+
+[<sup>1</sup> Une décision de refuser les aménagements demandés peut être motivée par une réflexion de l'institution selon laquelle l'aménagement demandé porte préjudice à la possibilité d'atteindre les acquis de l'apprentissage spécifiques au domaine de la formation ou à la possibilité d'atteindre d'autres objectifs du programme de formation dans leur ensemble.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-15/18, art. 89, 006; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 150, 041; En vigueur : 01-09-2024&gt;
+
+**Art. II.222**
+
+[<sup>1</sup> ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-12-08/13, art. 11, 033; En vigueur : 01-10-2023&gt;
+
+**Art. II.225.**
+
+[<sup>1</sup> voir version neerlandaise]<sup>1</sup>
+
+()&lt;Inséré par DCFL 2022-07-15/20, art. 20, 034; En vigueur : 01-10-2023&gt;
+
+**Art. II.227**
+
+[<sup>1</sup> Un étudiant acquiert un degré ou un diplôme d'une formation s'il a été déclaré lauréat pour l'ensemble de la formation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-21/29, art. 18, 999; En vigueur : 01-10-2014&gt;
+
+**Art. II.228**
+
+[<sup>1</sup> L'étudiant est automatiquement déclaré lauréat lorsqu'il s'est présenté à tous les examens liés au programme de formation et lorsque tous les examens ont conduit à une attestation de crédit ou une note de délibération, comme mentionné dans le règlement des études et des examens.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-21/29, art. 19, 999; En vigueur : 01-10-2014&gt;
+
+**Art. II.229**
+
+[<sup>1</sup>[<sup>2</sup> Le jury peut déclarer de manière motivée qu'un étudiant a réussi l'ensemble de la formation. Le jury évalue sa cote finale par rapport aux objectifs de la formation et à l'éventuelle spécialisation faite par l'étudiant en incluant des choix spécifiques d'élargissement ou d'approfondissement. L'application de cet article exige au moins que l'étudiant ait démontré l'existence de circonstances personnelles ou familiales particulières et que les objectifs précités aient été atteints.]<sup>2</sup>
+
+Le fait qu'un étudiant est déclaré globalement lauréat ne signifie pas qu'il entre en ligne de compte pour une attestation de crédits pour les subdivisions de de la formation auxquelles il n'a pas réussi.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-21/29, art. 20, 999; En vigueur : 01-10-2014&gt;
+
+(2)&lt;DCFL 2022-07-15/20, art. 21, 034; En vigueur : 01-10-2023&gt;
+
+**Art. II.230**
+
+[<sup>1</sup> Un degré de mérite est automatiquement attribué conformément aux conditions reprises dans le règlement des études et des examens, défini par l'institution ou établi par le jury pour l'ensemble de la formation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-21/29, art. 21, 999; En vigueur : 01-10-2014&gt;
+
+**Art. II.231**
+
+[<sup>1</sup> La direction de l'institution décerne un diplôme à l'étudiant qui a été déclaré lauréat pour l'ensemble de la formation. Le décernement du diplôme en vertu du présent décret l'agrée et le valide de plein droit.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-21/29, art. 22, 999; En vigueur : 01-10-2014&gt;
+
+**Art. II.238**
+
+&lt;Abrogé par DCFL 2014-03-21/29, art. 23, 999; En vigueur : 01-10-2014&gt;
+
+**Art. II.246**
+
+[<sup>1</sup>§ 1er. Un étudiant à qui a été imposée une remédiation obligatoire, telle que visée à l'article II.188/1, § 3, alinéas 2 et 3, est soumis aux mesures de surveillance de la progression des études visées aux alinéas 2, 3 et 4.
+
+Si un étudiant n'a pas participé à la remédiation obligatoire qui lui a été imposée, l'institution peut en tenir compte dans ses délibérations.
+
+Si un étudiant n'a pas participé à la remédiation obligatoire qui lui a été imposée, l'institution peut imposer des conditions contraignantes.
+
+Si un étudiant ne remplit pas une condition contraignante imposée, l'inscription de cet étudiant peut être refusée une année académique suivante par la même institution qui lui a imposé la condition contraignante.
+
+§ 2. Un étudiant de l'enseignement supérieur professionnel hbo5 est soumis aux mesures de surveillance de la progression des études visées aux alinéas 2 et 3.
+
+Si un étudiant n'a pas obtenu 60 % des unités d'études d'une formation de l'enseignement supérieur professionnel hbo5 pour lesquelles il était inscrit dans une année académique précédente, l'institution peut lui imposer une condition contraignante lors d'une nouvelle inscription à une formation de l'enseignement supérieur professionnel hbo5 dans la même institution ou dans une autre institution.
+
+Si un étudiant ne remplit pas une condition contraignante imposée, l'inscription de l'étudiant peut être refusée une année académique suivante par la même institution qui lui a imposé la condition contraignante.
+
+§ 3. Un étudiant qui, à chaque première inscription à une formation initiale de bachelier déterminée, n'a pas obtenu une attestation de crédits ou une cote de délibération ou n'a pas fait appel à une tolérance pour toutes les subdivisions de formation engagées de cette inscription est soumis aux mesures de surveillance de la progression des études visées aux alinéas 2 à 4.
+
+Si, après sa première inscription, un étudiant n'a pas obtenu une attestation de crédits ou une cote de délibération ou n'a pas fait appel à une tolérance pour toutes les subdivisions de formation engagées, il doit les obtenir lors de sa deuxième inscription à la même formation au cours d'une année académique suivante. Cette disposition continue de s'appliquer si un étudiant a remplacé une subdivision de formation à option par une autre subdivision de formation à option au moment de sa deuxième inscription. Cette disposition ne s'applique pas lorsqu'un étudiant change d'orientation diplômante.
+
+Si un étudiant ne remplit pas cette condition contraignante, il ne pourra pas se réinscrire à la même formation.
+
+Si, après sa première inscription, un étudiant obtient un rendement d'études indiquant qu'une inscription ultérieure à cette formation ne donnera pas de résultat positif, l'institution peut refuser l'inscription à la même formation initiale de bachelier. L'institution détermine de manière autonome la limite à partir de laquelle une inscription peut être refusée et la fixe dans le règlement d'enseignement.
+
+§ 4. Un étudiant qui n'est pas inscrit à une formation de l'enseignement supérieur professionnel hbo5 est soumis aux mesures de surveillance de la progression des études visées aux alinéas 2 à 4.
+
+Si un étudiant n'a pas obtenu 60 % des unités d'études pour lesquelles il était inscrit dans une année académique précédente, l'institution peut lui imposer une condition contraignante lors d'une nouvelle inscription dans la même institution ou dans une autre institution.
+
+Si un étudiant n'a pas obtenu une attestation de crédits ou une cote de délibération ou n'a pas fait appel à une tolérance après quatre chances d'examen pour une subdivision de formation pour laquelle deux chances d'examen par année académique sont prévues ou après deux chances d'examen pour une subdivision de formation pour laquelle une chance d'examen par année académique est prévue, l'institution peut lui refuser une prochaine inscription ou, dans le cas d'une nouvelle inscription à la même formation dans la même institution, lui imposer une condition contraignante.
+
+Si un étudiant ne remplit pas une condition contraignante imposée, l'inscription de cet étudiant peut être refusée une année académique suivante par la même institution qui lui a imposé la condition contraignante.
+
+§ 5. Une institution peut refuser l'inscription de l'étudiant de manière motivée s'il ressort des données du dossier individuel de l'étudiant qu'une inscription suivante dans l'enseignement supérieur ne sortira aucun résultat positif.
+
+§ 6. Les conditions contraignantes qu'une institution peut imposer conformément au présent article sont déterminées de manière autonome par l'institution. Une institution peut déroger à l'imposition d'une condition contraignante ou au refus d'inscrire un étudiant conformément au présent article si l'étudiant parvient à démontrer un cas de force majeure ou des circonstances individuelles particulières.
+
+§ 7. Les mesures de surveillance de la progression des études sont incluses dans le règlement d'enseignement, de même que la manière dont peuvent être invoqués les cas de force majeure et les circonstances individuelles particulières.
+
+§ 8. L'étudiant qui s'est vu refuser l'inscription à une formation déterminée conformément au présent article peut se réinscrire à la même formation s'il a obtenu un diplôme de l'enseignement supérieur après le refus d'inscription ou après une période d'attente de six ans.
+
+§ 9. L'institution peut, dans des cas particuliers et pour des raisons objectives, mettre fin prématurément au stage ou à une autre subdivision de formation pratique si le comportement d'un étudiant a démontré qu'il est inapte à exercer la profession pour laquelle la formation qu'il suit le forme.
+
+L'étudiant dont le stage ou la subdivision de formation pratique est terminé en application de l'alinéa 1er n'a pas droit à une deuxième chance d'examen telle que visée à l'article II.223.
+
+La décision de mettre fin prématurément à un stage ou à une subdivision de formation pratique doit être pleinement justifiée.
+
+§ 10. L'institution donne un avis d'orientation à tout étudiant ayant acquis un nombre limité d'unités d'études après sa première période d'examen. L'institution détermine de manière autonome le contenu de cet avis, la limite à partir de laquelle il est donné et la manière dont il est donné.
+
+§ 11. Chaque étudiant a le droit d'avoir un entretien avec un conseiller d'études ou accompagnateur de parcours.
+
+§ 12. Les dispositions du présent article seront réévaluées cinq ans après leur entrée en vigueur. Les résultats de l'évaluation seront compilés dans un rapport public.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-07-15/20, art. 22, 034; En vigueur : 01-10-2023&gt;
+
+**Art. II.247**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+[<sup>2</sup> le paragraphe 4 est abrogé.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 140, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2021-07-09/33, art. 212, 022; En vigueur : 01-09-2021&gt;
+
+**Art. II.248**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 141, 010; En vigueur : 01-09-2019&gt;
+
+#### Chapitre 6. Équivalence des diplômes ou certificats étrangers
+
+**Art. II.256**
+
+Le Gouvernement flamand détermine les conditions et la procédure de reconnaissance de la pleine équivalence des certificats d'études qui ne sont pas repris dans une décision visée à l'article II.255 avec les diplômes précisés dans le présent arrêté.
+
+Dans l'exécution des dispositions qui précèdent, le Gouvernement flamand garantit que les dispositions et principes de la Convention du Conseil de l'Europe et de l'UNESCO sur la reconnaissance des diplômes de l'enseignement supérieur dans la région européenne, élaborée à Lisbonne le 11 avril 1997, approuvée par décret du 15 décembre 2006 et ratifiée le 22 juillet 2009 seront appliquées dans la mesure où le pays d'origine a également ratifié la Convention.
+
+Toute décision de reconnaissance d'équivalence complète prise en application du présent article utilise les diplômes décrits en application de l'arrêté du 30 avril 2009 relatif à la structure des diplômes ou les acquis d'apprentissage disciplinaires validés visés aux articles 16, 17 et 18 du même arrêté comme un cadre de référence. A défaut de diplôme, les profils de formation déterminés en application du décret du 15 juin 2007 relatif à la formation des adultes servent de référentiel. En l'absence de résultats d'apprentissage spécifiques au domaine, les cadres de référence des rapports d'évaluation visés à l'article 51 du même décret législatif flamand sont utilisés comme cadre de référence. En cas d'équivalence de niveau, les descripteurs de niveau tels que décrits à l'article II.141 servent de référentiel.
+
+La participation financière que le titulaire d'un certificat d'études étranger doit verser à l'autorité de reconnaissance pour une enquête sur la reconnaissance du certificat d'études étranger délivré dans l'enseignement supérieur et l'enquête sur l'équivalence de niveau est de :
+
+1° 300 euros pour les recherches liées à la reconnaissance du diplôme de doctorat étranger ;
+
+2° 180 euros pour une étude liée à la reconnaissance du certificat d'études étranger délivré dans l'enseignement supérieur ;
+
+3° 90 euros pour une enquête d'équivalence de niveau.
+
+Les montants mentionnés au quatrième alinéa sont ajustés en fonction de l'évolution de l'indice-santé. La date de référence pour l'ajustement annuel est le 1er septembre 2013. Le montant est arrondi au nombre entier le plus proche. Le Gouvernement flamand peut réduire le montant pour des groupes cibles spécifiques. [<sup>2</sup> Le traitement de la première demande de reconnaissance pour un certificat d'études étranger déterminé]<sup>2</sup> est gratuit pour les demandeurs d'asile, les réfugiés [<sup>1</sup> , les étrangers bénéficiant d'une protection temporaire sur la base de la directive 2001/55/CE du Conseil de l'Union Européenne du 20 juillet 2001 relative à des normes minimales pour l'octroi d'une protection temporaire en cas d'afflux massif de personnes déplacées et à des mesures tendant à assurer un équilibre entre les efforts consentis par les Etats membres pour accueillir ces personnes et supporter les conséquences de cet accueil]<sup>1</sup> et les personnes bénéficiant d'une protection subsidiaire. Le Gouvernement flamand peut déterminer les conditions d'une procédure accélérée pour la reconnaissance de l'équivalence individuelle des certificats d'études étrangers. Le Gouvernement flamand peut augmenter le montant jusqu'à un maximum de 500 euros, si le titulaire du certificat d'études étranger opte pour cette procédure accélérée.
+
+----------
+
+(1)&lt;DCFL 2022-04-22/07, art. 30, 024; En vigueur : 24-05-2022&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 151, 041; En vigueur : 01-09-2024&gt;
+
+#### Chapitre 7. Certificat d'études certifié
+
+#### Chapitre 8. [<sup>1</sup> Contrôle de la langue]<sup>1</sup>
+
+##### Section 1/1. [<sup>1</sup> Langue d'enseignement dans les formations de graduat]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 142, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.260/1**
+
+[<sup>1</sup> § 1er. La langue d'enseignement dans les formations de graduat est le néerlandais.
+
+Néanmoins une langue d'enseignement autre que le néerlandais peut être utilisée dans les formations de graduat, conformément aux dispositions de la présente section. Si l'institution veut faire usage de cette possibilité, les garanties relatives à la qualité et la démocratisation, visées aux articles II.270 et II.271, doivent être fournies avant le début de la formation.
+
+§ 2. L'institution peut décider d'utiliser une langue d'enseignement autre que le néerlandais dans les formations de graduat, dans les cas suivants :
+
+1° les subdivisions de formation qui ont pour sujet une langue étrangère et qui sont enseignées dans cette langue ;
+
+2° les subdivisions de formation qui sont enseignées par des professeurs allophones invités[<sup>3</sup> ou chargés de cours invités]<sup>3</sup> ;
+
+3° les subdivisions de formation enseignées en langue étrangère qui, à l'initiative de l'étudiant et moyennant l'accord de l'institution, sont suivies dans une autre institution d'enseignement supérieur ;
+
+4° les subdivisions de formation dont apparaît de la décision explicitement motivée la plus-value pour les étudiants et les demandeurs et la fonctionnalité pour la formation.
+
+§ 3. Le volume des subdivisions de formation, exprimé en unités d'études, dispensées dans une langue d'enseignement autre que le néerlandais dans le parcours modèle de cette formation ne peut dépasser 18,33% du volume total des subdivisions de formation dispensées dans cette formation, exprimé en unités d'études, dans le parcours modèle.
+
+§ 4. Pour le calcul des limites, visées au paragraphe 3, les subdivisions de formation visées au paragraphe 2, 1° et 3° ne sont pas prises en compte.]<sup>1</sup>
+
+[<sup>2</sup> § 5. Par dérogation au paragraphe 1er, alinéa 1er, l'enseignement dans la discipline Sciences nautiques est dispensé en néerlandais et en français.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 143, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2021-07-09/33, art. 213, 022; En vigueur : 01-09-2021&gt;
+
+(3)&lt;DCFL 2024-03-22/17, art. 3, 040; En vigueur : 01-04-2024&gt;
+
+**Art. II.261**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+§ 2, [<sup>2</sup> 5° les subdivisions de formation qui font partie d'une formation de bachelor ou de master dans le cadre d'une `European Universities Initiative' qui a été approuvée en tant que projet pilote en 2019 ou 2020, telle que décrite à l'article II.151.]<sup>2</sup>
+
+[<sup>3</sup> ]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 110, 013; En vigueur : 01-10-2013&gt;
+
+(2)&lt;DCFL 2021-07-09/33, art. 214, 022; En vigueur : 01-09-2021&gt;
+
+(3)&lt;DCFL 2021-07-09/33, art. 215, 022; En vigueur : 01-09-2021&gt;
+
+**Art. II.262.**
+
+§ 1.[<sup>1</sup> (note : voir la version néerlandaise pour l'article complet)]<sup>1</sup>
+
+§ 2.[<sup>2</sup> L'institution peut proposer une formation initiale de bachelor ou de master enseignée en langue étrangère à condition qu'une formation initiale de bachelor ou de master équivalente soit proposée en Communauté flamande dont les pourcentages des parties de formation qui sont proposées dans une autre langue d'enseignement que le néerlandais, visés à l'article II.261, § 3, ne sont pas dépassés. Les parties de formations visées à l'article II.261, § 2, 1° et 3°, ne sont pas prises en compte pour le calcul de ces limites.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/55, art. 152, 041; En vigueur : 01-09-2024&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 152, 041; En vigueur : 01-09-2024&gt;
+
+**Art. II.263**
+
+[<sup>1</sup> 1° dans la Communauté flamande est dispensée une formation initiale de bachelor ou de master équivalente, telle que visée à l'article II.262, § 2, sauf en cas d'un avis positif rendu par la Commissie Hoger Onderwijs ou une décision positive du Gouvernement flamand sur la dispense de la condition d'équivalence visée à l'article II.264 ;]<sup>1</sup>
+
+[<sup>2</sup> § 5. Un avis favorable émis par la Commission de l'Enseignement supérieur ou une décision positive du Gouvernement flamand sur la demande d'une formation initiale de bachelor ou de master en langue étrangère échoit automatiquement si l'institution ne commence pas la formation en langue étrangère dans la troisième année académique qui suit la notification à la direction de l'institution.
+
+Si, pendant trois années académiques successives, une institution n'offre pas une formation initiale de bachelor ou de master en langue étrangère reconnue, le droit de l'institution de dispenser encore cette formation échoit.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 32, 012; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 148, 017; En vigueur : 01-09-2020&gt;
+
+**Art. II_263.DROIT_FUTUR.**
+
+[<sup>1</sup> 1° dans la Communauté flamande est dispensée une formation initiale de bachelor ou de master équivalente, telle que visée à l'article II.262, § 2 [<sup>3</sup> ...]<sup>3</sup>;]<sup>1</sup>
+
+[<sup>2</sup> § 5. Un avis favorable émis par la Commission de l'Enseignement supérieur ou une décision positive du Gouvernement flamand sur la demande d'une formation initiale de bachelor ou de master en langue étrangère échoit automatiquement si l'institution ne commence pas la formation en langue étrangère dans la troisième année académique qui suit la notification à la direction de l'institution.
+
+Si, pendant trois années académiques successives, une institution n'offre pas une formation initiale de bachelor ou de master en langue étrangère reconnue, le droit de l'institution de dispenser encore cette formation échoit.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 32, 012; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 148, 017; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2025-06-06/20, art. 58, 043; En vigueur : 01-09-2025&gt;
+
+**Art. II.264**
+
+§ 1er. [<sup>1</sup> Le dossier de demande permet à la Commissie Hoger Onderwijs d'effectuer l'évaluation au regard des critères visés au paragraphe 2.]<sup>1</sup>
+
+[<sup>1</sup> En même temps que le dossier de demande, la Commissie Hoger Onderwijs reçoit l'avis du VLIR, pour les demandes des universités, ou du VLHORA, pour les demandes des instituts supérieurs, sur la dispense demandée de la condition d'équivalence. Lorsque l'avis du VLIR ou du VLHORA n'est pas joint au dossier de demande soumis à la Commissie Hoger Onderwijs, la Commissie Hoger Onderwijs déclare irrecevable la demande pour la formation en question. La Commissie Hoger Onderwijs peut, dans un délai de 15 jours, demander des éclaircissements au VLIR ou au VLHORA sur les avis qu'ils ont donnés.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> La Commissie Hoger Onderwijs se prononce sur la demande de dispense de la condition d'équivalence en se fondant sur des critères suivants devant être cumulativement remplis :
+
+1° la formation enseignée en langue étrangère se veut internationale, car :
+
+a) la maîtrise de compétences professionnelles spécifiques et générales qui, ensemble avec les compétences en contenus disciplinaires, ne peut pas être atteinte par une formation néerlandophone ;
+
+b) des diplômés entrent principalement sur le marché international du travail ;
+
+2° la formation n'est pas liée au patrimoine de la langue ou de la culture néerlandaise, ou les diplômés de la formation ne sont pas souvent en contact avec les citoyens néerlandophones ;
+
+3° l'expertise et la capacité disponibles en Flandre sont trop limitées pour créer une double offre.
+
+Dans le cas d'une demande telle que visée à l'article II.264, § 1er, alinéa 1er, 2°, le critère supplémentaire que le nombre d'étudiants dans la formation de langue néerlandaise est insuffisant pour créer une double offre s'ajoutera aux critères visés à l'alinéa 1er.
+
+La Commissie Hoger Onderwijs examine explicitement tous les critères, décrit ses conclusions pour chaque critère, répond à tous les arguments avancés dans le dossier de demande et dans l'avis du VLIR ou du VLHORA, et justifie son avis positif ou négatif sur le dossier soumis.]<sup>1</sup>
+
+§ 3. [<sup>1</sup> La Commissie Hoger Onderwijs donne son avis :
+
+1° si la demande de dispense de la condition d'équivalence est présentée conjointement avec la demande de formation en langue étrangère pour une formation initiale existante de bachelor ou de master : conjointement avec l'avis visé à l'article II.263, § 3, alinéa 1er, 1° ;
+
+2° si la demande de dispense de la condition d'équivalence est présentée conjointement avec la demande de formation en langue étrangère pour une nouvelle formation initiale de bachelor ou de master : conjointement avec l'avis visé à l'article II.263, § 3, alinéa 1er, 2° ;
+
+3° si la demande de dispense de la condition d'équivalence concerne une suppression progressive ou une cessation d'une formation équivalente existante : au plus tard le 31 janvier de l'année académique précédant l'année académique dans laquelle la formation équivalente est supprimée progressivement ou cessée.
+
+La Commissie Hoger Onderwijs remet l'avis à la direction de l'institution et au Gouvernement flamand.
+
+En cas d'avis négatif de la part de la Commissie Hoger Onderwijs, l'institution peut introduire un recours auprès du Gouvernement flamand dans un délai d'échéance de 15 jours prenant cours le lendemain de la réception de la décision de la Commissie Hoger Onderwijs. Le Gouvernement flamand prend une décision dans un délai d'échéance de 30 jours prenant cours le lendemain de la réception du recours.
+
+En cas d'avis positif de la Commissie Hoger Onderwijs, à moins que le Gouvernement flamand se prononce négativement dans un délai de 45 jours à compter du jour où la Commissie Hoger Onderwijs envoie son avis au Gouvernement flamand, ou en cas de décision positive du Gouvernement flamand, une dispense d'équivalence pour une formation de bachelor ou de master en langue étrangère mentionnée au dossier de demande sera accordée de plein droit :
+
+1° dans le cas d'une formation initiale existante de bachelor ou de master : à l'issue positive de la procédure visée à l'article II.263 ;
+
+2° dans le cas d'une nouvelle formation initiale de bachelor ou de master : à l'issue positive de la procédure de programmation visée à l'article II.153.
+
+Si la Commissie Hoger Onderwijs n'a pas statué au plus tard aux dates visées au présent paragraphe ou si le Gouvernement flamand n'a pas pris de décision à propos du recours aux moments visés au présent paragraphe, l'avis ou la décision est réputé être négatif.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 33, 012; En vigueur : 01-09-2019&gt;
+
+**Art. II_264.DROIT_FUTUR.**
+
+&lt;Abrogé par DCFL 2025-06-06/20, art. 59, 043; En vigueur : 01-09-2025&gt;
+
+**Art. II.266**
+
+(NOTE : incomplètement traduit, voir version néerlandaise)
+
+[<sup>1</sup> § 1. Des formations initiales de bachelor enseignées en langue étrangère peuvent être dispensées comme suit, en tenant compte des prescriptions fixées au présent article :
+
+1° des formations initiales de bachelor à orientation professionnelle en langue étrangère, à l'exception des formations artistiques en langue étrangère, visées au point 3°, avec un pourcentage maximal de 9%, calculé sur toutes les formations initiales de bachelor à orientation professionnelle, à l'exception des formations artistiques à orientation professionnelle, visées au point 3° ;
+
+2° des formations initiales de bachelor à orientation académique en langue étrangère, à l'exception des formations artistiques en langue étrangère, visées au point 3°, avec un pourcentage maximal de 9%, calculé sur toutes les formations initiales de bachelor à orientation académique, à l'exception des formations artistiques à orientation académique, visées au point 3° ;
+
+3° des formations initiales de bachelor à orientation professionnelle et académique en langue étrangère dans les disciplines Arts audiovisuels et plastiques, et Musique et arts de la scène, avec un pourcentage maximal de 9%, calculé sur toutes les formations initiales à orientation professionnelle et académique dans les disciplines Arts audiovisuels et plastiques, et Musique et arts de la scène.]<sup>1</sup>
+
+Al 8. [<sup>2</sup> Pour la détermination des fractions visées à l'alinéa premier, points 1° et 2°, et à l'alinéa deux du présent paragraphe, il n'est pas tenu compte des formations de bachelor ou de master enseignées en langue étrangère par l'Ecole supérieure de navigation.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-07-03/39, art. 149, 017; En vigueur : 01-09-2020&gt;
+
+(2)&lt;DCFL 2021-07-09/33, art. 216, 022; En vigueur : 01-09-2021&gt;
+
+**Art. II.270**
+
+(NOTE : incomplètement traduit, voir version néerlandaise)
+
+[<sup>1</sup> Quand un membre du personnel a été nommé depuis plus de cinq ans ou est déjà au moment où il se voit confier une charge d'enseignement, il doit à ce moment-là satisfaire au niveau requis de maîtrise de la langue néerlandaise. Un membre du personnel qui ne remplit pas les conditions de maîtrise de la langue néerlandaise ne peut pas exercer une charge d'enseignement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 1, 022; En vigueur : 01-09-2021&gt;
+
+**Art. II.271**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 144, 010; En vigueur : 01-09-2019&gt;
+
+#### Chapitre 9. [<sup>1</sup> - Evaluation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-03-21/29, art. 27, 999; En vigueur : 01-10-2014&gt;
+
+**Art. II.272/1**
+
+[<sup>1</sup> Le Gouvernement flamand évalue tous les cinq ans la façon dont les associations et les institutions assurent la qualité de leurs procédures EVC/EVK et les procédures d'exemption. Le Gouvernement flamand élabore les mesures nécessaires pour effectuer cette évaluation.
+
+L'assurance de la qualité porte sur la transparence, l'accessibilité, la fiabilité et la régularité des procédures et méthodes utilisées.
+
+Les résultats de l'évaluation sont réunis dans un rapport public.
+
+Chaque direction donne suite aux résultats de l'évaluation de la qualité dans sa politique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-03-21/29, art. 27, 999; En vigueur : 01-10-2014&gt;
+
+**Art. II.272/2**
+
+[ <sup>1</sup> Tous les cinq ans, le Gouvernement flamand effectue une évaluation en vue d'identifier d'éventuelles simplifications dans la réglementation sur l'enseignement supérieur.
+
+Les résultats de l'évaluation sont réunis dans un rapport public.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2014-03-21/29, art. 27, 999; En vigueur : 01-10-2014&gt;
+
+**Art. II.273**
+
+[<sup>1</sup> (Voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.232, 008; En vigueur : 01-01-2019&gt;
+
+**Art. II.276**
+
+§ 3.
+
+[<sup>1</sup> Une décision de refuser les aménagements demandés peut être motivée par la réflexion de l'institution que l'aménagement demandé porte préjudice à la possibilité d'atteindre les acquis de formation essentiels. " est remplacée par la phrase " Une décision de refuser les aménagements demandés peut être motivée par une réflexion de l'institution selon laquelle l'aménagement demandé porte préjudice à la possibilité d'atteindre les acquis de l'apprentissage spécifiques au domaine de la formation ou à la possibilité d'atteindre d'autres objectifs du programme de formation dans leur ensemble.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-15/18, art. 90, 006; En vigueur : 01-09-2018&gt;
+
+**Art. II.277**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+[<sup>2</sup> Pour ce qui est des examens, la publicité de l'administration signifie que les étudiants ont le droit de consulter les examens et d'obtenir des informations utiles à la compréhension de leurs résultats obtenus aux examens. Si, après la communication des informations utiles à la compréhension des résultats obtenus, il s'avère que l'étudiant concerné veut une copie de l'examen qu'il a passé, cet étudiant dispose du droit d'obtenir copie de son examen. Toute copie doit être traitée de manière personnelle et confidentielle et ne peut être utilisée qu'en fonction de la carrière scolaire de l'étudiant.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-07/05, art. IV.233, 008; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2019-04-05/42, art. 111, 013; En vigueur : 01-09-2019&gt;
+
+**Art. II.279**
+
+[<sup>1</sup> ]<sup>1</sup>
+
+()&lt;Inséré par DCFL 2023-12-08/13, art. 3, 033; En vigueur : 01-10-2023&gt;
+
+**Art. II.285.**
+
+[<sup>1</sup> voir version neerlandaise]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-07-15/20, art. 20, 034; En vigueur : 01-10-2023&gt;
+
+**Art. II.286**
+
+[<sup>1</sup> Le Conseil traite les recours conformément aux règles mentionnées dans la présente section et conformément aux règles déterminées par ou en vertu du décret du 4 avril 2014 relatif à l'organisation et à la procédure de certaines juridictions administratives flamandes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-03-17/18, art. 2, 030; En vigueur : 01-09-2023&gt;
+
+**Art. II.288**
+
+&lt;Abrogé par DCFL 2023-03-17/18, art. 3, 030; En vigueur : 01-09-2023&gt;
+
+**Art. II.298**
+
+&lt;Abrogé par DCFL 2023-03-17/18, art. 9, 030; En vigueur : 01-09-2023&gt;
+
+**Art. II.300**
+
+&lt;Abrogé par DCFL 2023-03-17/18, art. 9, 030; En vigueur : 01-09-2023&gt;
+
+**Art. II.301**
+
+&lt;Abrogé par DCFL 2023-03-17/18, art. 9, 030; En vigueur : 01-09-2023&gt;
+
+**Art. II.302**
+
+&lt;Abrogé par DCFL 2023-03-17/18, art. 9, 030; En vigueur : 01-09-2023&gt;
+
+**Art. II.313**
+
+&lt;Abrogé par DCFL 2023-03-17/18, art. 10, 030; En vigueur : 01-09-2023&gt;
+
+**Art. II.314**
+
+[<sup>1</sup> § 3. En consultation avec le conseil des étudiants, l'institution élabore un cadre politique pour la participation des étudiants. Le cadre politique est une description générique des choix politiques de l'institution en matière de participation des étudiants. Il contient la vision de l'institution de la participation des étudiants et les objectifs stratégiques qu'elle se fixe à cet égard.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 112, 013; En vigueur : 01-09-2019&gt;
+
+#### II.325 [<sup>1</sup> ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-12-08/13, art. 4, 033; En vigueur : 01-10-2023&gt;
+
+**Art. II.317/1**
+
+[<sup>1</sup> les modifications suivantes sont apportées :
+
+1° l'alinéa 1er est remplacé par ce qui suit :
+
+" Si la validité de la période d'accréditation en cours d'une formation proposée par une université ou un institut supérieur prend fin avant que l'organisation d'accréditation n'ait pris une décision sur une évaluation institutionnelle telle que visée à l'article II.170/7 du présent Code pour la période 2020-2024 pour l'institution concernée, l'accréditation de la formation est prolongée de 6 ans. Cela ne s'applique pas :
+
+1° aux formations accréditées conformément à l'article II.151, alinéa 1er ;
+
+2° aux formations dont le volume des études est étendu ou qui sont reconnues comme master recherche, conformément au chapitre 9, section 4 ;
+
+3° aux formations qui ont reçu une décision d'accréditation positive à validité limitée. " ;
+
+2° l'alinéa 2 est remplacé par ce qui suit :
+
+Les formations de " bachelor in de verpleegkunde " sont censées être accréditées jusqu'à la fin de l'année académique 2021-2022. L'évaluation et l'accréditation suivantes sont effectuées conformément à la procédure et à la réglementation en vigueur avant le 1er septembre 2019. " ;
+
+3° l'alinéa 3 est remplacé par ce qui suit :
+
+Les formations de bachelor après bachelor, visées à l'article II.102, § 5, du présent Code, sont censées être accréditées jusqu'à la fin de l'année académique 2021-2022. " ;
+
+4° il est ajouté un alinéa 4, ainsi rédigé :
+
+" Les formations pour lesquelles une procédure d'accréditation ou la précédente procédure d'évaluation externe a déjà été lancée avant le 1er septembre 2019, sont accréditées conformément à la procédure et à la réglementation en vigueur avant le 1er septembre 2019.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-18/14, art. 84, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.332**
+
+[<sup>1</sup> 4° la disposition que si le conseil des étudiants considère que l'institution ne respecte pas ses obligations décrétales en matière de participation des étudiants telles que décrites aux articles II.314 à II.334, le conseil des étudiants peut en informer le Commissariat du Gouvernement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 113, 013; En vigueur : 01-09-2019&gt;
+
+**Art. II.334**
+
+[<sup>1</sup> § 4. Le statut de représentant des étudiants, visé au paragraphe 1er, est automatiquement accordé pour un mandat qui relève de l'application du statut à partir du moment où le représentant des étudiants s'acquitte effectivement du mandat.
+
+§ 5. Les facilités visées au paragraphe 1er peuvent être utilisées pour tous les mandats détenus effectivement par le représentant des étudiants au sein des conseils et organes internes et externes. Ils peuvent également être utilisés pendant les stages, à condition que le donneur de stage y consente. L'institution veille à ce que les représentants des étudiants soient en mesure d'utiliser effectivement les facilités qui leur sont allouées.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 114, 013; En vigueur : 01-09-2019&gt;
+
+**Art. II.338**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 145, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.344**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 146, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.352**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+[<sup>2</sup> (voir version néerlandaise)]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 147, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2018-05-04/28, art. 148, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.353**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 149, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.355/1**
+
+[<sup>1</sup> Si, lors de l'exécution de son stage, l'étudiant-stagiaire ou l'apprenant-stagiaire cause des dommages au donneur de stage ou à des tiers, il n'est [<sup>2</sup> ...]<sup>2</sup> responsable qu'en cas de fraude et de faute grave. En cas de faute légère, l'étudiant-stagiaire ou l'apprenant-stagiaire n'est responsable que si celle-ci revêt un caractère habituel plutôt qu'occasionnel.
+
+La responsabilité [<sup>2</sup> des titulaires de l'autorité sur la personne des mineurs, visés à l'article 6.12 du Code civil s'applique uniquement lorsque l'étudiant-stagiaire mineur peut être tenu personnellement responsable conformément aux cas visés à l'alinéa 1er]<sup>2</sup>.
+
+[<sup>2</sup> La responsabilité des personnes chargées de la surveillance d'autrui, visée à l'article 6.13 du Code civil, s'applique uniquement lorsque l'étudiant-stagiaire peut être tenu personnellement responsable conformément aux cas visés à l'alinéa 1er.]<sup>2</sup>
+
+Le donneur de stage est un commettant [<sup>2</sup> tel que visé à l'article 6.14, § 1er,]<sup>2</sup> du Code civil.
+
+Toutes les stipulations contraires aux dispositions du présent article sont nulles]<sup>1</sup>
+
+(voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 150, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2025-06-06/20, art. 62, 043; En vigueur : 10-07-2025&gt;
+
+### TITRE 6 [<sup>1</sup> Comportement abusif]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-12-08/13, art. 5, 033; En vigueur : 01-10-2023&gt;
+
+**Art. II.355/2**
+
+[<sup>1</sup> Les membre du personnel et les étudiants des établissements d'enseignement supérieur respectent l'établissement et toutes les personnes qui y travaillent ou y étudient. Les membres du personnel et les étudiants respectent à cet égard les principes internationaux et constitutionnels en matière de droits de l'homme. Les membres du personnel et les étudiants se comportent de manière appropriée dans leurs relations mutuelles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-12-08/13, art. 7, 033; En vigueur : 01-10-2023&gt;
+
+**Art. II.355/3**
+
+[<sup>1</sup>§ 1er. En collaboration avec les représentants des étudiants et du personnel, la direction rédige un code de conduite sur les comportements abusifs. Le code de conduite précité est inclus dans le règlement de travail et le règlement des études et des examens de l'établissement.
+
+En collaboration avec les représentants des étudiants et du personnel, la direction élabore une procédure pour les signalements de comportements abusifs et leur suivi au sein de l'établissement, y compris les délais à respecter.
+
+Les étudiants qui procèdent à un signalement peuvent, s'ils le souhaitent, faire usage de la possibilité de requérir la présence d'un observateur lors de leur examen, conformément à l'article II.222, 3°.
+
+§ 2. La direction met en place au moins un point de contact interne pour le signalement de comportements abusifs de la part d'étudiants ou de membres du personnel. Ce point de contact est composé de la personne de confiance des étudiants et de la personne de confiance du personnel. La direction garantit le fonctionnement indépendant et accessible du/des point(s) de contact interne(s) pour le signalement de comportements abusifs.
+
+§ 3. La direction veille à ce qu'un registre central soit tenu pour chaque établissement, dans lequel sont consignés tous les signalements de comportements abusifs au point de contact, à la personne de confiance des étudiants et à la personne de confiance du personnel, au sens de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, de l'établissement. L'objectif de ce registre central est de rassembler tous les signalements effectués au sein de l'établissement dans un seul espace numérique
+
+Cela doit permettre à l'établissement d'avoir une meilleure vue d'ensemble des signalements présentant des caractéristiques communes, d'assurer un meilleur suivi de ces signalements et d'élaborer et de mettre en oeuvre plus rapidement et plus efficacement des mesures appropriées à l'égard des personnes concernées. Grâce à ce registre, les établissements sont également en mesure d'organiser le contrôle de la qualité et le suivi de ce qu'il advient des signalements.
+
+Conformément à la législation sur la protection des données à caractère personnel et en vue d'atteindre l'objectif visé à l'alinéa 1er, les données suivantes sont incluses dans le registre central pour chaque signalement :
+
+1° les données d'identification de l'auteur de signalement : nom et prénom ;
+
+2° les données d'identification de toute personne qui, selon l'auteur de signalement, est directement ou indirectement impliquée dans le comportement abusif, à quelque titre que ce soit : nom, prénom, fonction et qualité ;
+
+3° une description de la déclaration de l'auteur de signalement de comportement abusif : la nature, le moment et un compte rendu factuel du comportement abusif.
+
+Il s'agit de signalements de comportements abusifs entre étudiants, liés à l'établissement, dans le contexte d'enseignement, et entre étudiants et membres du personnel, liés à l'établissement dans le contexte d'enseignement ou en dehors de celui-ci s'il existe une relation hiérarchique entre l'étudiant et le membre du personnel. Les signalements dans le cadre de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, doivent également figurer dans ce registre.
+
+Seuls le conseiller en prévention spécialisé dans les aspects psychosociaux, les personnes de confiance du personnel au sens de la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, et les personnes de confiance des étudiants ont accès au registre central.
+
+Si un auteur de signalement souhaite que son nom ne figure pas dans le registre, la personne de confiance veille dans la mesure du possible à ce que l'enregistrement soit rendu anonyme. La personne de confiance informe l'auteur de signalement que ce choix a des conséquences sur le suivi du dossier.
+
+L'établissement conserve les déclarations relatives aux faits inscrites au registre pendant cinq ans si les parties impliquées sont uniquement des étudiants, dix ans si un membre du personnel est impliqué, trente ans si le signalement concerne des faits punissables, dans chaque cas à compter du jour où le membre du personnel ou l'étudiant a fait consigner ces déclarations. Si un nouveau signalement est effectué à propos d'une partie impliquée précédemment mentionnée dans le registre, le délai de conservation de la déclaration initiale est mis en concordance avec le nouveau délai de conservation. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-12-08/13, art. 7, 033; En vigueur : 01-10-2023&gt;
+
+**Art. II.355/4**
+
+[<sup>1</sup>§ 1er. La direction désigne au moins une personne de confiance des étudiants à laquelle un étudiant peut adresser des signalements de comportements abusifs entre des étudiants, liés à l'établissement dans le contexte d'enseignement, et entre des étudiants et le personnel, liés à l'établissement dans le contexte d'enseignement ou en dehors de celui-ci s'il existe une relation hiérarchique entre l'étudiant et le membre du personnel.
+
+La direction veille à ce que la personne de confiance des étudiants puisse effectuer la tâche visée à l'alinéa 1er, en toute autonomie. Nul ne peut exercer de pression sur la personne de confiance dans l'exercice de ses fonctions. Les personnes de confiance ne doivent pas subir de préjudice en raison de leurs activités de personne de confiance et ne peuvent recevoir la moindre injonction dans l'exercice de leur fonction.
+
+§ 2. La personne de confiance des étudiants entreprend une ou plusieurs des actions suivantes en concertation avec l'auteur de signalement :
+
+1° des entretiens qui incluent l'accueil et l'écoute active ;
+
+2° une médiation entre les personnes concernées, si toutes les personnes concernées sont d'accord ;
+
+3° un signalement à ou une intervention auprès d'un autre étudiant ou d'un membre du personnel, ou de la ligne hiérarchique de ce membre du personnel, après consentement explicite de l'auteur de signalement ;
+
+4° un renvoi ciblé ;
+
+5° recenser d'autres actions internes et externes possibles et soutenir ces actions que l'auteur de signalement peut entreprendre s'il considère que les actions visées aux points 1° à 4°, sont insuffisantes.
+
+§ 3. La personne de confiance des étudiants ou la personne de confiance du personnel peut, si plusieurs signalements ont été reçus à propos d'une personne concernée, prendre de sa propre initiative des mesures de suivi. Ce faisant, la personne de confiance tient toujours compte de la demande éventuelle d'un ou de plusieurs auteurs de signalement de rester anonyme.
+
+En cas de situation présentant un risque élevé pour des étudiants ou des membres du personnel, la personne de confiance des étudiants ou la personne de confiance du personnel prend une initiative dans le respect des règles du secret professionnel visées à l'article 458 du Code pénal.
+
+La prise d'initiative peut inclure les actions visées au paragraphe 2, informer l'autorité disciplinaire et/ou informer le parquet.
+
+La personne de confiance des étudiants ou du personnel peut informer l'autorité disciplinaire compétente d'un signalement de comportement abusif si plusieurs signalements ont été reçus à l'égard d'une personne donnée. Dans un premier temps, seules les données permettant à l'autorité disciplinaire de décider d'ouvrir ou non une enquête disciplinaire sont transmises.
+
+Le règlement disciplinaire définit les procédures, y compris les délais de remise d'un accusé de réception et les différentes mesures que l'autorité disciplinaire peut prendre.
+
+§ 4. La direction veille à ce que la personne de confiance des étudiants dispose du temps nécessaire et des compétences et connaissances requises pour accomplir sa tâche de personne de confiance des étudiants.
+
+Le cas échéant, l'établissement assure dans les meilleurs délais la formation et la professionnalisation requises. La personne de confiance des étudiants suit une formation de base d'au moins cinq jours au plus tard six mois suivant sa désignation.
+
+La personne de confiance des étudiants participe au moins une fois par an à une intervision ou une supervision pour personnes de confiance des étudiants. Les personnes de confiance des étudiants qui ne participent pas à une intervision ou une supervision annuelle sans raison valable perdent leur statut de personne de confiance des étudiants et ne peuvent plus exercer cette fonction.
+
+§ 5. La personne de confiance des étudiants travaille dans le cadre des règles du secret professionnel visées à l'article 458 du Code pénal.
+
+La personne de confiance des étudiants, la personne de confiance du personnel et le conseiller en prévention spécialisé dans les aspects psychosociaux, tel que visé dans la loi du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, ont le droit et le devoir de se contacter mutuellement en cas de besoin afin de permettre le rassemblement de tous les signalements effectués au sein de l'établissement dans un seul espace numérique. Ils prennent des dispositions communes sur le registre central et peuvent échanger des informations pertinentes dans le cadre de l'exercice de leurs fonctions. Dans ce contexte, ils tiennent compte du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données). Les données à caractère personnel sont traitées sur la base de la cause de justification visée à l'article 6.1, c), du règlement général sur la protection des données.
+
+Les personnes de confiance des étudiants conservent un dossier individuel pour chaque signalement. Ce dossier consiste en un compte rendu des faits relatifs au comportement abusif tels qu'ils sont décrits par l'auteur de signalement et contient également les données d'identification de toutes les personnes qui, selon l'auteur de signalement, sont directement ou indirectement impliquées dans le comportement abusif, à quelque titre que ce soit. Le dossier indique également les mesures prises figurant au paragraphe 2.
+
+Si un auteur de signalement souhaite que son nom ne figure pas dans le dossier individuel, la personne de confiance veille dans la mesure du possible à ce que l'enregistrement soit rendu anonyme. La personne de confiance informe l'auteur de signalement que ce choix a des conséquences sur le suivi du dossier.
+
+§ 6. Les personnes de confiance des étudiants rendent compte chaque année de leurs activités à leur direction.
+
+§ 7. Au moins la moitié des personnes de confiance des étudiants ne fait pas partie du personnel académique autonome ou du personnel enseignant.
+
+§ 8. Les personnes travaillant comme bénévoles au sein de l'établissement d'enseignement supérieur, les chercheurs bénéficiant d'un financement externe et les doctorants travaillant dans un établissement d'enseignement supérieur peuvent signaler un comportement abusif à un point de contact interne tel que visé à l'article II.355/3, § 2. Ils sont assimilés à un membre du personnel en ce qui concerne le traitement ultérieur de leur signalement.
+
+§ 9. Sans préjudice des dispositions de la loi fédérale du 4 août 1996 relative au bien-être des travailleurs lors de l'exécution de leur travail, les dispositions des paragraphes 3 à 5 s'appliquent également aux personnes de confiance du personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-12-08/13, art. 8, 033; En vigueur : 01-10-2023&gt;
+
+**Art. II.363**
+
+[<sup>1</sup> (voir version néerlandaise) ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-07-03/39, art. 151, 017; En vigueur : 01-09-2020&gt;
+
+**Art. II.369**
+
+[<sup>1</sup> (voir version néerlandaise) ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 152, 017; En vigueur : 01-09-2020&gt;
+
+**Art. II.375**
+
+[<sup>1</sup> (voir version néerlandaise) ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-07-03/39, art. 153, 017; En vigueur : 01-09-2020&gt;
+
+**Art. II.378.**
+
+§ 3. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2025-07-18/31, art. 70, 044; En vigueur : 01-09-2025&gt;
+
+**Art. II.380.**
+
+[<sup>1</sup> note : voir la version néerlandaise pour l'article complet]<sup>1</sup>[<sup>2</sup> Evangelische Theologische Faculteit, Louvain]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/55, art. 153, 041; En vigueur : 01-09-2024&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 153, 041; En vigueur : 01-09-2024&gt;
+
+**Art. II.381**
+
+&lt;Abrogé par DCFL 2018-05-18/14, art. 78, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.382**
+
+&lt;Abrogé par DCFL 2018-05-18/14, art. 79, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.383**
+
+&lt;Abrogé par DCFL 2018-05-18/14, art. 79, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.384**
+
+&lt;Abrogé par DCFL 2018-05-18/14, art. 80, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.385**
+
+&lt;Abrogé par DCFL 2018-05-18/14, art. 80, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.386**
+
+&lt;Abrogé par DCFL 2018-05-18/14, art. 81, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.387**
+
+&lt;Abrogé par DCFL 2018-05-18/14, art. 82, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.387/1**
+
+[<sup>1</sup> Si la validité de la période d'accréditation en cours d'une formation proposée par une université ou un institut supérieur prend fin avant que l'organisation d'accréditation n'ait pris une décision sur une évaluation institutionnelle telle que visée à l'article II.170/7 du présent Code pour [<sup>2</sup> la période 2020-2025]<sup>2</sup> pour l'institution concernée, l'accréditation de la formation est prolongée de 6 ans. Cela ne s'applique pas :
+
+1° aux formations accréditées conformément à l'article II.151, alinéa 1er ;
+
+2° aux formations dont le volume des études est étendu ou qui sont reconnues comme master recherche, conformément au chapitre 9, section 4 ;
+
+3° aux formations qui ont reçu une décision d'accréditation positive à validité limitée.]<sup>1</sup>
+
+[<sup>1</sup> Les formations de " bachelor in de verpleegkunde " sont censées être accréditées jusqu'à la fin de l'année académique 2021-2022. L'évaluation et l'accréditation suivantes sont effectuées conformément à la procédure et à la réglementation en vigueur avant le 1er septembre 2019.]<sup>1</sup>
+
+[<sup>1</sup> Les formations de bachelor après bachelor, visées à l'article II.102, § 5, du présent Code, sont censées être accréditées jusqu'à la fin de l'année académique 2021-2022.]<sup>1</sup>
+
+[<sup>1</sup> Les formations pour lesquelles une procédure d'accréditation ou la précédente procédure d'évaluation externe a déjà été lancée avant le 1er septembre 2019, sont accréditées conformément à la procédure et à la réglementation en vigueur avant le 1er septembre 2019.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-18/14, art. 84, 012; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2019-03-01/26, art. 35, 012; En vigueur : 01-09-2019&gt;
+
+**Art. II.393**
+
+&lt;Abrogé par DCFL 2018-05-18/14, art. 85, 007; En vigueur : 01-01-2019&gt;
+
+**Art. II.394**
+
+[<sup>1</sup> § 1er. A partir de l'année académique 2019-2020, les centres d'éducation des adultes transféreront aux instituts supérieurs leur compétence de proposer des formations de l'enseignement supérieur professionnel hbo5 et d'attribuer la validation d'études correspondante.
+
+L'institut supérieur auquel un centre d'éducation des adultes a transféré la compétence, visée à l'alinéa 1er, exerce cette compétence conformément aux articles II.83 à II.100.
+
+§ 2. Après le transfert des compétences, visées à l'alinéa 1er, l'institut supérieur sera subrogé, en ce qui concerne les compétences transférées, dans les droits et obligations du centre d'éducation des adultes qui lui a transféré ses compétences.
+
+A l'occasion du transfert des formations concernées, l'institut supérieur et le centre d'éducation des adultes concluent un accord portant au moins sur le transfert, la mise à disposition et l'utilisation de l'infrastructure et des biens immobiliers, et sur des matières financières.
+
+§ 3. Les instituts supérieurs prennent des mesures de transition et d'accompagnement adaptées pour que les étudiants ayant entamé une formation de l'enseignement supérieur professionnel hbo5 dans un centre d'éducation des adultes avant l'année académique 2019-2020, qui est transférée à un institut supérieur à compter de l'année académique 2019-2020, puissent achever leur formation. Cela signifie au moins que :
+
+1° l'institut supérieur reprend les certificats d'études et les unités acquises par l'étudiant pour la formation en question dans le centre d'éducation des adultes. Ces certificats d'études sont réputés avoir été acquis dans l'institut supérieur recevant ;
+
+2° l'institut reprend les dispenses pour un module, une subdivision de formation ou pour une partie de celle-ci, que l'étudiant a obtenues pour la formation en question.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 153, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.395**
+
+[<sup>1</sup> § 1er. L'organisation d'accréditation émet un avis sur l'évaluation nouvelle formation pour la conversion des [<sup>2</sup> formation de l'enseignement supérieur professionnel]<sup>2</sup> existantes au plus tard le 15 avril pour les demandes présentées au plus tard le 30 novembre de l'année calendaire précédente, et au plus tard le 30 octobre pour les demandes présentées au plus tard le 31 mai de la même année calendaire.
+
+L'organisation d'accréditation donne son avis sur l'évaluation nouvelle formation pour la conversion des formations hbo5 existantes au plus tard le 15 juin 2019 pour les demandes présentées au plus tard le 15 février 2019.
+
+[<sup>2</sup> L'évaluation nouvelle formation pour la transformation d'une formation existante de l'enseignement supérieur professionnel est gratuite pour les instituts supérieurs. Cette disposition ne s'applique pas aux demandes introduites conformément au paragraphe 6.]<sup>2</sup>
+
+§ 2. La Karel de Grote-Hogeschool Katholieke Hogeschool Antwerpen peut présenter à l'organisation d'accréditation au total maximum 4 demandes à partir de la liste des formations hbo5 existantes, et ce, aux dates mentionnées au paragraphe 1er, pour une évaluation nouvelle formation pour une formation de graduat sans avoir l'obligation de convertir une formation hbo5 existante, mais avec l'obligation de présenter une demande de contrôle de la macro-efficacité à la Commissie Hoger Onderwijs.
+
+Dans ces quatre cas, le dossier de demande contient pour le contrôle de la macro-efficacité les informations et documents suivants :
+
+1° les informations visées à l'article II.152, alinéa 2, 1°, a) à m) ;
+
+2° un dossier qui permet à la Commissie Hoger Onderwijs d'effectuer l'évaluation au regard des critères visés à l'article II.153, § 3, alinéa 1er.
+
+Pour chacune des demandes visées à l'alinéa 1er, la Karel de Grote-Hogeschool Katholieke Hogeschool Antwerpen soumet également au VLHORA le dossier de demande de contrôle de la macro-efficacité. Le VLHORA établit pour chaque demande un avis tel que visé à l'article II.152, alinéa 2, 2°. Il transmet l'avis à la Commissie Hoger Onderwijs au plus tard :
+
+1° le 31 janvier pour les demandes présentées à l'organisation d'accréditation au plus tard le 30 novembre ;
+
+2° le 15 juillet pour les demandes présentées à l'organisation d'accréditation au plus tard le 31 mai ;
+
+3° 30 jours après le dépôt de la demande pour les demandes présentées à l'organisation d'accréditation au plus tard le 15 février 2019.
+
+La Commissie Hoger Onderwijs émet son avis sur les demandes visées à l'alinéa 1er quant à la macro-efficacité conformément à l'article 153, § 3, alinéas 1er, 2 et 4. Si l'avis du VLHORA n'est pas rendu dans les délais, la Commissie Hoger Onderwijs émet un avis sur la macro-efficacité sur la base des critères énoncés à l'article II.153, § 3, alinéa 1er, 1° à 5°.
+
+La Commissie Hoger Onderwijs émet son avis sur les demandes visées à l'alinéa 1er au plus tard :
+
+1° le 28 février pour les demandes présentées à l'organisation d'accréditation au plus tard le 30 novembre ;
+
+2° le 1er septembre pour les demandes présentées à l'organisation d'accréditation au plus tard le 31 mai ;
+
+3° dans les 60 jours après le dépôt de la demande pour les demandes présentées au plus tard le 15 février 2019.
+
+Si l'avis de la Commissie Hoger Onderwijs sur la macro-efficacité d'une demande visée à l'alinéa 1er est négatif ou n'est pas rendu dans les délais, la procédure de recours visée à l'article II.153, §§ 4 et 5 peut être engagée.
+
+Si l'avis de la Commissie Hoger Onderwijs sur la macro-efficacité d'une demande visée à l'alinéa 1er ou la décision du Gouvernement flamand après le recours visé à l'alinéa 6 ainsi que la décision d'évaluation de l'organisation d'accréditation sont positifs, le Gouvernement flamand adopte un arrêté portant reconnaissance de cette nouvelle formation dans un délai d'ordre de 30 jours prenant cours le lendemain du jour de réception de la décision d'évaluation positive et du rapport d'évaluation sous-jacent de l'organisation d'accréditation.
+
+§ 3. La Hogeschool West-Vlaanderen peut présenter à l'organisation d'accréditation au total maximum 1 demande à partir de la liste des formations hbo5 existantes, et ce, aux dates mentionnées au paragraphe 1er, pour une évaluation nouvelle formation pour une formation de graduat sans avoir l'obligation de convertir une formation hbo5 existante, mais avec l'obligation de présenter une demande de contrôle de la macro-efficacité à la Commissie Hoger Onderwijs.
+
+Dans ce cas, le dossier de demande contient pour le contrôle de la macro-efficacité les informations et documents suivants :
+
+1° les informations visées à l'article II.152, alinéa 2, 1°, a) à m) ;
+
+2° un dossier qui permet à la Commissie Hoger Onderwijs d'effectuer l'évaluation au regard des critères visés à l'article II.153, § 3, alinéa 1er.
+
+Pour la demande visée à l'alinéa 1er, la Hogeschool West-Vlaanderen présente également au VLHORA le dossier de demande de contrôle de la macro-efficacité. Le VLHORA établit pour cette demande un avis tel que visé à l'article II.152, alinéa 2, 2°. Il transmet l'avis à la Commissie Hoger Onderwijs au plus tard :
+
+1° le 31 janvier pour la demande présentée à l'organisation d'accréditation au plus tard le 30 novembre ;
+
+2° le 15 juillet pour la demande présentée à l'organisation d'accréditation au plus tard le 31 mai ;
+
+3° 30 jours après le dépôt de la demande d'accréditation pour la demande présentée à l'organisation d'accréditation au plus tard le 15 février 2019.
+
+La Commissie Hoger Onderwijs émet son avis sur la demande visée à l'alinéa 1er sur la macro-efficacité conformément à l'article 153, § 3, alinéas 1er, 2 et 4. Si l'avis du VLHORA n'est pas rendu dans les délais, la Commissie Hoger Onderwijs émet un avis sur la macro-efficacité sur la base des critères énoncés à l'article II.153, § 3, alinéa 1er, 1° à 5°.
+
+La Commissie Hoger Onderwijs émet son avis sur les demandes visées à l'alinéa 1er au plus tard :
+
+1° le 28 février pour la demande présentée à l'organisation d'accréditation au plus tard le 30 novembre ;
+
+2° le 1er septembre pour la demande présentée à l'organisation d'accréditation au plus tard le 31 mai ;
+
+3° dans les 60 jours après le dépôt de la demande pour la demande présentée au plus tard le 15 février 2019.
+
+Si l'avis de la Commissie Hoger Onderwijs sur la macro-efficacité d'une demande visée à l'alinéa 1er est négatif ou n'est pas rendu dans les délais, la procédure de recours visée à l'article II.153, §§ 4 et 5 peut être engagée.
+
+Si l'avis de la Commissie Hoger Onderwijs sur la macro-efficacité d'une demande visée à l'alinéa 1er ou la décision du Gouvernement flamand après le recours visé à l'alinéa 6 ainsi que la décision d'évaluation de l'organisation d'accréditation sont positifs, le Gouvernement flamand adopte un arrêté portant reconnaissance d'une nouvelle formation dans un délai d'ordre de 30 jours prenant cours le lendemain du jour de réception de la décision d'évaluation positive et du rapport d'évaluation sous-jacent de l'organisation d'accréditation.
+
+§ 4. Au plus tard un mois avant l'expiration du délai, l'organisation d'accréditation transmet un projet de rapport d'évaluation à l'institution qui aura la possibilité de formuler des observations.
+
+La direction de l'institution peut retirer le volet de la demande d'évaluation nouvelle formation au plus tard dans un délai de 20 jours prenant cours le lendemain de la réception du projet. La direction de l'institution dispose d'un délai de 60 jours pour réintroduire auprès de l'organisation d'accréditation le volet de la demande d'évaluation nouvelle formation. Le délai de 60 jours prend cours le lendemain du retrait de la demande initiale.
+
+Les délais qui prennent cours à partir de la date limite pour le dépôt de la demande jusqu'à la date limite d'émission de l'avis de l'organisation d'accréditation, sont suspendus en cas de retrait du volet de la demande d'évaluation nouvelle formation, à partir du retrait du volet de la demande jusqu'à la date de signification de la réintroduction de la demande.
+
+§ 5. Le Gouvernement flamand adopte l'arrêté portant reconnaissance d'une nouvelle formation dans un délai de 30 jours calendaires prenant cours le lendemain du jour de réception du rapport de contrôle de l'organisation d'accréditation. L'arrêté entre en vigueur au moment de sa notification à l'institution.
+
+§ 6. Si la décision sur l'évaluation nouvelle formation dans le cadre d'une conversion telle que visée à l'article II.150/1, § 2 est négative, la direction de l'institution peut encore proposer la [<sup>2</sup> formation de l'enseignement supérieur professionnel]<sup>2</sup> à convertir et inscrire des étudiants dans cette formation pendant une année académique au maximum. Le programme de cette formation est organisé conformément aux articles II.67 et II.69.
+
+Après une décision d'évaluation négative, une institution ne peut soumettre qu'une seule autre demande d'évaluation nouvelle formation pour une formation identique. Si la décision sur l'évaluation nouvelle formation dans le cadre d'une conversion telle que visée à l'article II.150/1, § 2 est à nouveau négative, l'institution supprime progressivement la formation ou l'arrête. La direction de l'institution garantit les conditions nécessaires pour permettre aux étudiants inscrits de terminer leurs études.]<sup>1</sup>
+
+[<sup>3</sup> § 7. La Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen, ne peut offrir les formations de graduat suivantes qu'aux étudiants qui étaient inscrits avec un contrat de diplôme au 19 novembre 2020 et peut délivrer le grade correspondant de gradué à ces étudiants :
+
+1° graduaat in het Internet of Things (graduat en Internet des objets), reconnu par le Gouvernement flamand le 19 juillet 2019 ;
+
+2° graduaat in voertuigtechnieken (graduat en techniques des véhicules), reconnu par le Gouvernement flamand le 20 décembre 2019 ;
+
+3° graduaat in het maatschappelijk werk (graduat en travail social), reconnu par le Gouvernement flamand le 3 juillet 2020.
+
+Par dérogation à l'article II.153, la reconnaissance en tant que nouvelle formation des formations visées à l'alinéa 1er, échoit à la fin de l'année académique 2022-2023.
+
+Les étudiants qui, au 19 novembre, 2020 étaient inscrits avec un contrat de diplôme pour l'une des formations visées à l'alinéa 1er, ont le droit, jusqu'à l'année académique 2022-2023 incluse, de terminer la formation pour laquelle ils étaient inscrits et, le cas échéant, d'obtenir le grade correspondant de gradué.
+
+Après le 19 novembre 2020, la Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen peut seulement inscrire les étudiants autres que ceux visés à l'alinéa 1er dans une formation de l'enseignement supérieur professionnel hbo5 ou leur délivrer le grade de gradué pour cette formation si les quatre conditions suivantes sont remplies :
+
+1° le Gouvernement flamand a reconnu la formation de l'enseignement supérieur professionnel hbo5 de la Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen, en tant que nouvelle formation ;
+
+2° la reconnaissance de la formation de l'enseignement supérieur professionnel hbo5 en tant que nouvelle formation de la Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen, est réalisé conformément à la procédure visée à la partie 2, titre 3, chapitre 9, section 3 ;
+
+3° la procédure de la reconnaissance d'une formation de l'enseignement supérieur professionnel hbo5 en tant que nouvelle formation de la Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen, est commencée après le 19 november 2020 ;
+
+4° la Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen, offre la formation de l'enseignement supérieur professionnel hbo5 selon les conditions visées à l'arrêté du Gouvernement flamand portant reconnaissance de la nouvelle formation.]<sup>3</sup>
+
+(NOTE : par son arrêt n° 152/2020 du 19-11-2020 (M.B. 30-12-2020, p. 97673), la Cour constitutionnelle a annulé le § 2 du présent article)
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 36, 012; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 154, 017; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2021-05-21/12, art. 2, 021; En vigueur : 20-09-2021&gt;
+
+**Art. II.396**
+
+[<sup>1</sup> Les formations suivantes appartiennent à l'enseignement supérieur professionnel :
+
+1° à partir de l'année académique 2019-2020 :
+
+a) les formations de l'enseignement supérieur professionnel HBO-5 figurant sur la liste visée à l'article II.170 ;
+
+b) la formation art infirmier de l'enseignement supérieur professionnel HBO-5 dans l'enseignement secondaire, organisée conjointement avec un institut supérieur dans le cadre d'un partenariat ;
+
+2° à partir de l'année académique 2023-2024 : la formation de Soins infirmiers de base de l'enseignement supérieur professionnel HBO-5 dans l'enseignement secondaire, organisée conjointement avec un institut supérieur dans le cadre d'un partenariat.
+
+Le financement des formations de l'enseignement supérieur professionnel HBO-5 qui sont organisées par une école secondaire ne peut être accordé qu'à l'école secondaire et est calculé en application du Code de l'Enseignement secondaire du 17 décembre 2010 et de ses règles d'exécution.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-07-14/18, art. 29, 035; En vigueur : 01-09-2023&gt;
+
+**Art. II.397**
+
+[<sup>1</sup> § 1er. Pour l'organisation [<sup>3</sup> des formations de Soins infirmiers et de Soins infirmiers de base]<sup>3</sup> de l'enseignement supérieur professionnel hbo5, un partenariat est établi entre un seul institut supérieur, ayant la compétence d'enseignement pour la formation de bachelor en art infirmier, et une ou plusieurs écoles d'enseignement secondaire à plein temps.
+
+§ 2.[<sup>3</sup> Un établissement d'enseignement ne peut participer qu'à un seul partenariat. Dans le cadre du partenariat, il est convenu quel établissement d'enseignement se chargera de la coordination du contenu.
+
+L'établissement responsable du contenu a pour tâche de coordonner l'organisation conjointe des formations de Soins infirmiers et de Soins infirmiers de base de l'enseignement supérieur professionnel HBO-5 au sein du partenariat. Il est également convenu quels établissements d'enseignement proposeront, en tout ou en partie, les formations organisées conjointement.
+
+L'établissement chargé de la gestion administrative est toujours une école secondaire. L'apprenant s'inscrit pour l'ensemble de la formation auprès de l'établissement chargé de la gestion administrative. Le financement, le subventionnement et les droits d'inscription relèvent des dispositions décrétales et réglementaires en vigueur de l'établissement chargé de la gestion administrative. " ;
+
+3° dans le paragraphe 5, le membre de phrase " formations hbo5 " est remplacé par les mots " formations de l'enseignement supérieur professionnel HBO-5.]<sup>3</sup>
+
+§ 3. Dans le cadre du partenariat les établissements d'enseignement délivrent conjointement le diplôme de gradué avec la certification y afférente et les certificats partiels.
+
+§ 4. Un partenariat peut collaborer avec :
+
+1° un ou plusieurs dispensateurs publics de formations professionnelles pour adultes ;
+
+2° un ou plusieurs secteurs de la profession à laquelle conduit la formation ;
+
+3° des entreprises ou organisations.
+
+§ 5. Lorsqu'un établissement d'enseignement quitte le partenariat, elle ne maintient que la compétence d'enseignement des formations hbo5 dont elle disposait au 31 août 2013, ou, le cas échéant, celle des formations de graduat issues de la conversion visée à l'article II.150/1.
+
+§ 6. Si deux ou plusieurs instituts supérieurs fusionnent, les partenariats auxquels ils appartiennent, fusionnent également.]<sup>1</sup>
+
+[<sup>2</sup> § 7. Une école d'enseignement secondaire ordinaire à temps plein peut, après négociation au sein du comité local, transférer des périodes-professeur à un autre partenaire de la structure de coopération. Si des périodes-professeur sont transférées à un institut supérieur, les périodes-professeur en question sont converties en un crédit.
+
+Un institut supérieur, peut, après négociation au sein du comité de concertation de l'institut supérieur, transférer des moyens à un autre partenaire de la structure de coopération. Si des moyens sont transférés à une école d'enseignement secondaire ordinaire à temps plein, les moyens sont convertis en des périodes-professeur.
+
+Le Gouvernement flamand détermine le montant pour la conversion de moyens en périodes-professeur et vice-versa.
+
+L'emploi qu'une école d'enseignement secondaire ordinaire à temps plein organise avec les périodes-professeur telles que visées au présent paragraphe, n'entre pas en ligne de compte pour une déclaration de vacance d'emploi, et l'autorité scolaire ne peut en aucun cas affecter, muter ou nommer à titre définitif un membre du personnel dans cet emploi.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 156, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 155, 017; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2023-07-14/18, art. 30, 035; En vigueur : 01-09-2023&gt;
+
+**Art. II_397.DROIT_FUTUR.**
+
+[<sup>1</sup> § 1er. Pour l'organisation [<sup>3</sup> des formations de Soins infirmiers et de Soins infirmiers de base]<sup>3</sup> de l'enseignement supérieur professionnel hbo5, un partenariat est établi entre un seul institut supérieur, ayant la compétence d'enseignement pour la formation de bachelor en art infirmier, et une ou plusieurs écoles d'enseignement secondaire à plein temps.
+
+§ 2.[<sup>3</sup> Un établissement d'enseignement ne peut participer qu'à un seul partenariat. Dans le cadre du partenariat, il est convenu quel établissement d'enseignement se chargera de la coordination du contenu.
+
+L'établissement responsable du contenu a pour tâche de coordonner l'organisation conjointe des formations de Soins infirmiers et de Soins infirmiers de base de l'enseignement supérieur professionnel HBO-5 au sein du partenariat. Il est également convenu quels établissements d'enseignement proposeront, en tout ou en partie, les formations organisées conjointement.
+
+L'établissement chargé de la gestion administrative est toujours une école secondaire. L'apprenant s'inscrit pour l'ensemble de la formation auprès de l'établissement chargé de la gestion administrative. Le financement, le subventionnement et les droits d'inscription relèvent des dispositions décrétales et réglementaires en vigueur de l'établissement chargé de la gestion administrative. " ;
+
+3° dans le paragraphe 5, le membre de phrase " formations hbo5 " est remplacé par les mots " formations de l'enseignement supérieur professionnel HBO-5.]<sup>3</sup>
+
+[<sup>4</sup> Dans le cadre d'un partenariat entre un seul institut supérieur et plusieurs écoles de l'enseignement secondaire à temps plein, l'application du présent paragraphe porte sur cet institut supérieur et chaque école secondaire séparément.]<sup>4</sup>
+
+§ 3. Dans le cadre du partenariat les établissements d'enseignement délivrent conjointement le diplôme de gradué avec la certification y afférente et les certificats partiels.
+
+[<sup>4</sup> Dans le cadre d'un partenariat entre un seul institut supérieur et plusieurs écoles de l'enseignement secondaire à temps plein, l'application du présent paragraphe porte sur cet institut supérieur et chaque école secondaire séparément.]<sup>4</sup>
+
+§ 4. Un partenariat peut collaborer avec :
+
+1° un ou plusieurs dispensateurs publics de formations professionnelles pour adultes ;
+
+2° un ou plusieurs secteurs de la profession à laquelle conduit la formation ;
+
+3° des entreprises ou organisations.
+
+§ 5. Lorsqu'un établissement d'enseignement quitte le partenariat, elle ne maintient que la compétence d'enseignement des formations hbo5 dont elle disposait au 31 août 2013, ou, le cas échéant, celle des formations de graduat issues de la conversion visée à l'article II.150/1.
+
+§ 6. Si deux ou plusieurs instituts supérieurs fusionnent, les partenariats auxquels ils appartiennent, fusionnent également.]<sup>1</sup>
+
+[<sup>2</sup> § 7. Une école d'enseignement secondaire ordinaire à temps plein peut, après négociation au sein du comité local, transférer des périodes-professeur à un autre partenaire de la structure de coopération. Si des périodes-professeur sont transférées à un institut supérieur, les périodes-professeur en question sont converties en un crédit.
+
+Un institut supérieur, peut, après négociation au sein du comité de concertation de l'institut supérieur, transférer des moyens à un autre partenaire de la structure de coopération. Si des moyens sont transférés à une école d'enseignement secondaire ordinaire à temps plein, les moyens sont convertis en des périodes-professeur.
+
+Le Gouvernement flamand détermine le montant pour la conversion de moyens en périodes-professeur et vice-versa.
+
+L'emploi qu'une école d'enseignement secondaire ordinaire à temps plein organise avec les périodes-professeur telles que visées au présent paragraphe, n'entre pas en ligne de compte pour une déclaration de vacance d'emploi, et l'autorité scolaire ne peut en aucun cas affecter, muter ou nommer à titre définitif un membre du personnel dans cet emploi.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 156, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 155, 017; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2023-07-14/18, art. 30, 035; En vigueur : 01-09-2023&gt;
+
+(4)&lt;DCFL 2025-06-06/20, art. 63, 043; En vigueur : 01-09-2025&gt;
+
+**Art. II.398**
+
+[<sup>1</sup> Le partenariat accomplit les missions suivantes :
+
+1° l'organisation conjointe de la formation d'art infirmier de l'enseignement supérieur professionnel hbo5 ;
+
+2° l'établissement d'un règlement d'enseignement, des examens et d'évaluation commun pour ces formations ;
+
+3° le développement d'un système interne commun de gestion de la qualité pour la formation d'art infirmier de l'enseignement supérieur professionnel hbo5 ;
+
+4° le développement du programme d'études, y compris l'élaboration des parcours ultérieurs dans des formations de bachelor à orientation professionnelle qui s'y alignent en termes de contenu ;
+
+5° l'optimisation de la prestation de services aux apprenants ;
+
+6° la programmation d'une offre permettant aux différents établissements participants, chacun valorisant ses forces spécifiques, d'atteindre un nombre maximum de groupes cibles ;
+
+7° l'optimisation de l'employabilité et la professionnalisation du personnel, dans les limites de la réglementation applicable au personnel concerné ;
+
+8° la partage des bâtiments et des infrastructures techniques ;
+
+9° le développement de l'encadrement des élèves ;
+
+10° la mise à disposition des services sociaux aux apprenants ;
+
+11° l'élaboration et l'évaluation d'une procédure EVC de qualité ;
+
+12° l'élaboration de la (stratégie de) communication sur l'offre de la formation d'art infirmier de l'enseignement supérieur professionnel hbo5 ;
+
+13° l'organisation de l'épreuve d'admission visée à l'article 163, § 2, 3° du Code de l'Enseignement secondaire du 17 décembre 2010.]<sup>1</sup>
+
+[<sup>2</sup> L'inspection, visée au titre IV du décret du 8 mai 2009 relatif à la qualité de l'enseignement, évalue en coopération avec l'organisation d'accréditation la qualité [<sup>3</sup> des formations de Soins infirmiers et de Soins infirmiers de base ]<sup>3</sup> de l'enseignement supérieur professionnel HBO-5, organisée par la structure de coopération.
+
+L'inspection et l'organisation d'accréditation établissent un cadre d'évaluation à cet effet. Ce cadre d'évaluation est basé sur les caractéristiques de qualité, visées à l'article II.170/1, [<sup>3</sup> ...]<sup>3</sup>, et le cadre de référence de la qualité de l'enseignement, visé à l'article 2, 16° /1, du décret du 8 mai 2009 relatif à la qualité de l'enseignement.
+
+Avant son application, ce cadre d'évaluation doit être approuvé par le Gouvernement flamand.
+
+Le Gouvernement flamand peut arrêter les modalités et les conditions de cette évaluation de la qualité.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 157, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 156, 017; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2023-07-14/18, art. 31, 035; En vigueur : 01-09-2023&gt;
+
+**Art. II_398.DROIT_FUTUR.**
+
+[<sup>1</sup> Le partenariat accomplit les missions suivantes :
+
+1° l'organisation conjointe de la formation d'art infirmier de l'enseignement supérieur professionnel hbo5 ;
+
+2° l'établissement d'un règlement d'enseignement, des examens et d'évaluation commun pour ces formations ;
+
+3° le développement d'un système interne commun de gestion de la qualité pour la formation d'art infirmier de l'enseignement supérieur professionnel hbo5 ;
+
+4° le développement du programme d'études, y compris l'élaboration des parcours ultérieurs dans des formations de bachelor à orientation professionnelle qui s'y alignent en termes de contenu ;
+
+5° l'optimisation de la prestation de services aux apprenants ;
+
+6° la programmation d'une offre permettant aux différents établissements participants, chacun valorisant ses forces spécifiques, d'atteindre un nombre maximum de groupes cibles ;
+
+7° l'optimisation de l'employabilité et la professionnalisation du personnel, dans les limites de la réglementation applicable au personnel concerné ;
+
+8° la partage des bâtiments et des infrastructures techniques ;
+
+9° le développement de l'encadrement des élèves ;
+
+10° la mise à disposition des services sociaux aux apprenants ;
+
+11° l'élaboration et l'évaluation d'une procédure EVC de qualité ;
+
+12° l'élaboration de la (stratégie de) communication sur l'offre de la formation d'art infirmier de l'enseignement supérieur professionnel hbo5 ;
+
+13° l'organisation de l'épreuve d'admission visée à l'article 163, § 2, 3° du Code de l'Enseignement secondaire du 17 décembre 2010.]<sup>1</sup>
+
+[<sup>4</sup> Dans le cadre d'un partenariat entre un seul institut supérieur et plusieurs écoles de l'enseignement secondaire à temps plein, l'accomplissement de chaque mission visée à l'alinéa 1er peut porter sur chaque école secondaire séparément ou sur plusieurs écoles secondaires ensemble.]<sup>4</sup>
+
+[<sup>2</sup> L'inspection, visée au titre IV du décret du 8 mai 2009 relatif à la qualité de l'enseignement, évalue en coopération avec l'organisation d'accréditation la qualité [<sup>3</sup> des formations de Soins infirmiers et de Soins infirmiers de base ]<sup>3</sup> de l'enseignement supérieur professionnel HBO-5, organisée par la structure de coopération.
+
+L'inspection et l'organisation d'accréditation établissent un cadre d'évaluation à cet effet. Ce cadre d'évaluation est basé sur les caractéristiques de qualité, visées à l'article II.170/1, [<sup>3</sup> ...]<sup>3</sup>, et le cadre de référence de la qualité de l'enseignement, visé à l'article 2, 16° /1, du décret du 8 mai 2009 relatif à la qualité de l'enseignement.
+
+Avant son application, ce cadre d'évaluation doit être approuvé par le Gouvernement flamand.
+
+Le Gouvernement flamand peut arrêter les modalités et les conditions de cette évaluation de la qualité.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 157, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 156, 017; En vigueur : 01-09-2020&gt;
+
+(3)&lt;DCFL 2023-07-14/18, art. 31, 035; En vigueur : 01-09-2023&gt;
+
+(4)&lt;DCFL 2025-06-06/20, art. 64, 043; En vigueur : 01-09-2025&gt;
+
+**Art. II.399**
+
+[<sup>1</sup> A partir de l'année académique 2019-2020 les instituts supérieurs suppriment progressivement les formations hbo5 proposées par les centres d'éducation des adultes sur la base d'un profil de formation reconnu par le Gouvernement flamand, d'un schéma structurel approuvé par le ministre flamand chargé de l'enseignement ou d'un programme d'études et d'une grille horaire approuvés, et pour lesquels l'institut supérieur a acquis la compétence d'enseignement en vertu d'un accord avec un centre d'éducation des adultes.
+
+Pendant les années académiques 2019-2020, 2020-2021 et 2021-2022, les formations visées au paragraphe 1er sont également incluses dans la liste visée à l'article II.170. Les instituts supérieurs peuvent inscrire des étudiants à ces formations, proposer le programme d'études tel qu'il était en vigueur avant l'année académique 2019-2020 et délivrer le diplôme de gradué dans les conditions visées à l'alinéa 4.
+
+[<sup>2</sup> Les formations de l'enseignement supérieur professionnel hbo5 qui relevaient jusqu'à l'année scolaire 2018-2019 de la compétence d'enseignement des centres d'éducation des adultes et qui ne sont pas actualisées ou pour lesquelles aucune évaluation nouvelle formation n'a été soumise avant le 1er septembre 2019 en vue de leur conversion ne peuvent pas être proposées en tant que formation de graduat par les instituts supérieurs. Les formations de l'enseignement supérieur professionnel hbo5 pour lesquelles une demande d'évaluation nouvelle formation a été présentée avant le 1er septembre 2019 en vue de leur conversion mais qui n'ont pas encore été reconnues par le Gouvernement flamand au moment où celui-ci établit la liste visée à l'article II.170, § 2, alinéa 4, figurent sur la liste visée à l'article II.170, § 2, pour l'année académique suivant la reconnaissance par le Gouvernement flamand après réception d'une décision d'évaluation positive, visée à l'article II.153/6.]<sup>2</sup>
+
+Les étudiants ayant terminé avec succès au moins un tiers d'une formation hbo5 dans un centre d'éducation des adultes au plus tard dans l'année académique 2018-2019 ont le droit jusqu'à l'année académique 2020-2021 incluse de terminer cette formation sur la base du contenu et du volume d'études qui était en vigueur au centre d'éducation des adultes.
+
+Les instituts supérieurs fixent les modalités auxquelles les étudiants visés à l'alinéa 2 peuvent obtenir le diplôme de gradué.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 158, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2019-03-01/26, art. 37, 012; En vigueur : 01-09-2019&gt;
+
+#### Chapitre 10. [<sup>1</sup> Dispositions transitoires pour le renforcement de la formation des enseignants dans les instituts supérieurs et les universités ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 159, 010; En vigueur : 01-09-2019&gt;
+
+**Art. II.400**
+
+[<sup>1</sup> § 1er. A partir de l'année académique 2019-2020, les formations spécifiques des enseignants qui étaient organisées dans un centre d'éducation des adultes seront transférées dans un institut supérieur ou une université.
+
+§ 2.[<sup>2</sup> ...]<sup>2</sup>.
+
+§ 3. A partir de l'année académique au cours de laquelle [<sup>3</sup> Evangelische Theologische Faculteit, Louvain]<sup>3</sup> propose une formation de master éducatif, cet établissement supprime progressivement la formation spécifique des enseignants qu'elle a proposée jusqu'alors. A partir de cette année académique, aucun nouvel étudiant ne peut être inscrit dans la formation spécifique des enseignants. Les étudiants qui ont déjà acquis quinze unités d'études dans la formation spécifique des enseignants au début de l'année académique au cours de laquelle [<sup>3</sup> Evangelische Theologische Faculteit, Louvain]<sup>3</sup> organise une formation de master éducatif, ont le droit jusqu'à et y compris l'année académique suivante d'achever leur formation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 160, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2023-11-23/33, art. 78, 039; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2024-04-19/55, art. 154, 041; En vigueur : 01-09-2024&gt;
+
+**Art. II.401**
+
+[<sup>1</sup> Le Gouvernement flamand peut organiser un contrôle de qualité supplémentaire pour les formations visées à l'article II.111.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 161, 010; En vigueur : 01-09-2019&gt;
+
+**Art. III.3**
+
+§ 1. Pour être admissible au financement d'un collège ou d'une université, un étudiant doit répondre aux critères suivants :
+
+1° inscription : l'étudiant n'est éligible que s'il a conclu un contrat de diplôme ou un contrat de crédit avec l'établissement dans l'année académique concernée et s'il est inscrit :
+
+a) un ou plusieurs programmes de licence ou de master, inscrits au registre de l'enseignement supérieur;
+
+b) une ou plusieurs unités d'enseignement appartenant à 1 ou plusieurs programmes de licence ou de master ;
+
+c) un programme passerelle ou un programme préparatoire préalable à un programme initial de master ;
+
+d) un ou plusieurs programmes d'enseignement professionnel supérieur [1 , inscrits au registre de l'enseignement supérieur]1;
+
+e) une ou plusieurs unités d'enseignement appartenant à 1 ou plusieurs programmes de formation professionnelle supérieure ;
+
+2° [<sup>2</sup> la nationalité : les étudiants ne sont éligibles que s'ils remplissent l'une des conditions visées à l'article II.215, alinéa 1er, 1° à 9°]<sup>2</sup>.
+
+Pour le calcul du financement, la catégorie à laquelle appartient la personne concernée au moment de son inscription dans l'année académique concernée est prise en compte ;
+
+[<sup>1</sup> j) ils sont des étrangers bénéficiant d'une protection temporaire sur la base de la directive 2001/55/CE du Conseil de l'Union Européenne du 20 juillet 2001 relative à des normes minimales pour l'octroi d'une protection temporaire en cas d'afflux massif de personnes déplacées et à des mesures tendant à assurer un équilibre entre les efforts consentis par les Etats membres pour accueillir ces personnes et supporter les conséquences de cet accueil, ou leurs parents bénéficient de cette protection et l'étudiant réside en Belgique depuis qu'il était mineur;]<sup>1</sup>
+
+3° compte formation : dans un programme initial de licence et de master, les étudiants ne sont éligibles que s'ils disposent d'un compte formation positif.
+
+§ 2. Par dérogation au paragraphe 1er, point 2°, pour l'Université transnationale du Limbourg, conformément à l'article 7 du traité entre le Royaume des Pays-Bas et la Communauté flamande de Belgique sur l'Université transnationale du Limbourg, signé à Maastricht le 18, 2001, seulement pris en compte:
+
+1° les étudiants de nationalité belge ;
+
+2° les étudiants de nationalité autre que belge ou néerlandaise, qui sont facturés au prorata à chacune des parties contractantes en fonction du nombre d'étudiants de nationalité respectivement néerlandaise et belge.
+
+Pour la détermination de ces effectifs, la nationalité des personnes concernées au moment de l'inscription pour l'année académique considérée est prise en compte.
+
+§ 3. L'application de la phrase suivante du paragraphe 1er, point 2°, i), « et les personnes autres que celles qui dépendent des crédits nationaux pour la coopération au développement », est suspendue à compter de l'exercice 2013 jusqu'au exercice 2018.
+
+[<sup>2</sup> § 4. Aux paragraphes 4 et 5, il faut entendre par :
+
+1° étudiant non ressortissant d'un pays de l'EEE : un étudiant qui n'est pas ressortissant d'un pays membre de l'Espace économique européen ;
+
+2° formation enseignée en langue étrangère : une formation initiale ou une formation de bachelier de spécialisation figurant comme formation enseignée en langue étrangère dans la liste visée à l'article II.170, § 2.
+
+A partir de l'année budgétaire 2027, la finançabilité des étudiants ressortissants d'un pays non membre de l'EEE qui n'appartiennent pas aux catégories visées à l'article II.215, alinéa 1er, 2° à 9°, est limitée par la déduction d'un montant sur les allocations de fonctionnement des universités et hautes écoles.
+
+Ce montant est calculé en appliquant le pourcentage de crédits obtenus par les étudiants non ressortissants d'un pays de l'EEE qui n'appartiennent pas aux catégories visées à l'article II.215, points 2° à 9°, dans la mesure où il dépasse 2 % par établissement et par finalité, aux points de financement pour les volets variables d'enseignement visés à l'article III.11, par finalité et par établissement. Ces points de financement sont ensuite multipliés par la valeur moyenne par point de financement et par finalité. Ce montant est déduit des allocations de fonctionnement par établissement.
+
+Pour déterminer le pourcentage de crédits suivis par les étudiants non ressortissants d'un pays de l'EEE pour l'année budgétaire t, est pris en compte le nombre moyen de crédits suivis par les étudiants non ressortissants d'un pays de l'EEE qui n'appartiennent pas aux catégories visées à l'article II.215, alinéa 1er, 2° à 9°, au cours des années académiques t-7/t-6 à t-3/t-2, et qui se sont inscrits dans l'établissement concerné sous contrat de diplôme, pour une formation initiale de bachelier ou de master, pour une formation de bachelier de spécialisation, pour un programme de transition ou préparatoire précédant une formation de master initiale ou pour une formation de graduat, pour laquelle est pris en compte le nombre moyen de crédits suivis au cours des années académiques t-5/t-4 jusqu'à t-3/t-2. Le nombre de crédits suivis dans une formation de bachelier de spécialisation est multiplié par un facteur de 0,5.
+
+Les établissements tiennent les documents justificatifs des étudiants non ressortissants d'un pays de l'EEE appartenant aux catégories visées à l'article II.215, alinéa 1er, 2° à 9°, à la disposition des commissaires du gouvernement, qui les vérifient et en informent l'Agence de l'Enseignement supérieur, de l'Education des Adultes, des Qualifications et des Allocations d'Etudes, créée par l'arrêté du Gouvernement flamand du 24 avril 2009 portant création de l'agence autonomisée interne " Agentschap voor Hoger Onderwijs, Volwassenenonderwijs, Kwalificaties en Studietoelagen ", chaque année avant le 31 mars de l'année budgétaire t-1.
+
+La catégorie à laquelle la personne concernée appartient au 31 décembre de l'année académique en question est prise en compte pour le calcul du financement.
+
+§ 5. Pour l'année budgétaire 2026, la finançabilité des étudiants non ressortissants d'un pays de l'EEE est limitée par la déduction d'un montant de l'allocation de fonctionnement des universités et des hautes écoles.
+
+Le montant visé à l'alinéa 1er, se compose de deux parties. La première partie du montant est calculée en appliquant le pourcentage de crédits suivis par les étudiants non ressortissants d'un pays de l'EEE dans une formation enseignée en langue étrangère, dans la mesure où il dépasse 2 % par établissement et par finalité, aux points de financement pour les volets variables d'enseignement visés à l'article III.11, par finalité et par établissement. Ces points de financement sont ensuite multipliés par la valeur moyenne par point de financement et par finalité. Ce montant est déduit des allocations de fonctionnement par établissement.
+
+Pour déterminer le pourcentage de crédits suivis par les étudiants non ressortissants d'un pays de l'EEE dans une formation enseignée en langue étrangère pour l'année budgétaire t, est pris en compte le nombre moyen de crédits suivis par des étudiants non ressortissants d'un pays de l'EEE dans une formation enseignée en langue étrangère au cours des années académiques t-7/t-6 à t-3/t-2 qui se sont inscrits dans l'établissement concerné sous contrat de diplôme pour une formation initiale de bachelier ou de master donnée en langue étrangère ou une formation de bachelier de spécialisation donnée en langue étrangère. Le nombre de crédits suivis dans une formation de bachelier de spécialisation est multiplié par un facteur de 0,5.
+
+La deuxième partie du montant visé à l'alinéa 1er, consiste en une compensation de 10 300 000 euros des étudiants non ressortissants d'un pays de l'EEE dans une formation donnée en langue néerlandaise. Ce montant est réduit au cours de l'année budgétaire 2026 des allocations de fonctionnement totales des hautes écoles et des universités selon la répartition suivante :
+
+<table><tr><td>Etablissement </td><td>Montant </td></tr><tr><td>Thomas More Mechelen-Antwerpen </td><td>206 273,14 € </td></tr><tr><td>Hogeschool West-Vlaanderen </td><td>170 171,98 € </td></tr><tr><td>Arteveldehogeschool </td><td>293 999,01 € </td></tr><tr><td>Hogeschool Gent </td><td>363 514,39 € </td></tr><tr><td>Katholieke Hogeschool Vives Noord </td><td>84 638,67 € </td></tr><tr><td>Katholieke Hogeschool Vives Zuid </td><td>222 805,98 € </td></tr><tr><td>Odisee </td><td>231 221,85 € </td></tr><tr><td>Erasmushogeschool Brussel </td><td>159 475,03 € </td></tr><tr><td>UC Leuven </td><td>202 708,09 € </td></tr><tr><td>Thomas More Kempen </td><td>179 109,89 € </td></tr><tr><td>LUCA School of Arts </td><td>125 339,97 € </td></tr><tr><td>Karel de Grote Hogeschool </td><td>291 003,59 € </td></tr><tr><td>UC Limburg </td><td>116 678,54 € </td></tr><tr><td>Hogeschool PXL </td><td>205 177,25 € </td></tr><tr><td>Artesis Plantijn Hogeschool Antwerpen </td><td>323 072,61 € </td></tr><tr><td>Hogere Zeevaartschool </td><td>17 810,01 € </td></tr><tr><td>Katholieke Universiteit Leuven </td><td>2 623 222,19 € </td></tr><tr><td>Universiteit Hasselt </td><td>476 779,18 € </td></tr><tr><td>Universiteit Antwerpen </td><td>1 013 584,72 € </td></tr><tr><td>Vrije Universiteit Brussel </td><td>804 517,72 € </td></tr><tr><td>Universiteit Gent </td><td>2 188 896,20 €</td></tr></table>
+
+]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2022-04-22/07, art. 31, 024; En vigueur : 24-05-2022&gt;
+
+(2)&lt;DCFL 2025-12-19/56, art. 108, 045; En vigueur : 01-01-2026&gt;
+
+**Art. III.4**
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, entrent également en ligne de compte pour le calcul du financement des formations de bachelor éducatif et des formations de master éducatif d'une institution, les unités d'études engagées et acquises pour lesquelles l'étudiant possède déjà d'un crédit d'apprentissage insuffisant au moment de l'inscription si l'étudiant est déjà titulaire respectivement d'un diplôme de bachelor ou d'un diplôme de master.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 157, 017; En vigueur : 01-09-2020&gt;
+
+**Art. III.5**
+
+[<sup>2</sup> § 2/1. [<sup>4</sup> ...]<sup>4</sup>]<sup>2</sup>
+
+[<sup>4</sup> 2/2. Les formations à orientation professionnelle qui sont classées dans plusieurs disciplines, dont une des disciplines est Arts audiovisuels et plastiques ou Musique et arts de la scène, sont prises en compte pour le socle financier " enseignement " destiné aux formations à orientation professionnelle SOWprof2014 et pour le volet variable " enseignement " pour les formations à orientation professionnelle VOWprof2014.]<sup>4</sup>
+
+§ 12. [<sup>6</sup>
+
+<table><tr><td>[<sup><font>1</font></sup> année budgétaire</td><td>VOWprof</td><td>VOWprof2014</td><td>VOWhko2014</td><td> </td></tr><tr><td> </td><td> </td><td> </td><td>montant formations artistiques professionnelles</td><td>montant échelles<br>  de traitement spéciales <br>  </td></tr><tr><td>2012</td><td>800 000</td><td> </td><td> </td><td> </td></tr><tr><td>2013</td><td>5 200 000</td><td> </td><td> </td><td> </td></tr><tr><td>2014</td><td> </td><td>7 500 000</td><td>100 000</td><td> </td></tr><tr><td>2015</td><td> </td><td>10 900 000</td><td>100 000</td><td> </td></tr><tr><td>2016</td><td> </td><td>14 300 000</td><td>100 000</td><td> </td></tr><tr><td>2017</td><td> </td><td>17 666 520</td><td>100 000</td><td> </td></tr><tr><td>2018</td><td> </td><td>20 966 520</td><td>100 000</td><td> </td></tr><tr><td>2019</td><td> </td><td>24 366 520</td><td>100 000</td><td> </td></tr><tr><td>2020</td><td> </td><td>27 766 520</td><td>100 000</td><td> </td></tr><tr><td>2021</td><td> </td><td>27 766 520</td><td>100 000</td><td> </td></tr><tr><td>2022</td><td> </td><td>31 166 520</td><td>100 000</td><td>2 000 000</td></tr><tr><td>2023</td><td> </td><td>34 566 520</td><td>100 000</td><td>2 000 000]<sup><font>1</font></sup></td></tr><tr><td colspan="5">(<font>1</font>)&lt;DCFL <a>2022-07-08/05</a>, art. 2, 028; En vigueur : 01-01-2022&gt; </td></tr></table>
+
+[<sup>8</sup> Le montant pour l'adaptation des échelles de traitement spéciales se trouve au niveau de l'indice 2022 et est annuellement indexé, à partir de l'année budgétaire 2023, au moyen de la formule d'indexation mentionnée au paragraphe 9.]<sup>8</sup>]<sup>6</sup>
+
+[<sup>11</sup> ]<sup>11</sup>
+
+[<sup>11</sup> Le montant échelles de traitement spéciales visé à l'alinéa 1er est réparti entre les hautes écoles au cours des années budgétaires 2022 à 2028 selon les pourcentages suivants :
+
+<table><tr><td>Hogeschool Gent </td><td>31,35 % </td></tr><tr><td>Erasmushogeschool Brussel </td><td>20,66 % </td></tr><tr><td>LUCA School of Arts </td><td>23,17 % </td></tr><tr><td>Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen </td><td>5,11 % </td></tr><tr><td>Hogeschool PXL </td><td>4,86 % </td></tr><tr><td>Artesis Plantijn Hogeschool Antwerpen </td><td>14,85 %</td></tr></table>
+
+A compter de l'année budgétaire 2023, 1/7 du montant échelles de traitement spéciales, visé à l'alinéa 1er, est transféré chaque année à VOWhko2014.]<sup>11</sup>
+
+[<sup>11</sup> ]<sup>11</sup>
+
+§ 13. [<sup>6</sup>
+
+<table><tr><td>Année budgétaire </td><td>VOWun </td><td colspan="2">VOWun2014 </td><td>VOZun </td><td>VOZun2014 </td></tr><tr><td> </td><td>ZAP </td><td>Pondérations </td><td>ZAP </td><td>ZAP </td><td>ZAP </td></tr><tr><td>2012 </td><td>440.000 </td><td> </td><td> </td><td>360.000 </td><td> </td></tr><tr><td>2013 </td><td>1.925.000 </td><td> </td><td> </td><td>1.575.000 </td><td> </td></tr><tr><td>2014 </td><td> </td><td>2.000.000 </td><td>3.575.000 </td><td> </td><td>2.925.000 </td></tr><tr><td>2015 </td><td> </td><td>3.000.000 </td><td>5.115.000 </td><td> </td><td>4.185.000 </td></tr><tr><td>2016 </td><td> </td><td>3.519.000 </td><td>5.971.000 </td><td> </td><td>4.886.000 </td></tr><tr><td>2017 </td><td> </td><td>4.519.000 </td><td>7.511.000 </td><td> </td><td>6.146.000 </td></tr><tr><td>2018 </td><td> </td><td>5.519.000 </td><td>8.996.000 </td><td> </td><td>7.361.000 </td></tr><tr><td>2019 </td><td> </td><td>6.519.000 </td><td>10.591.000 </td><td> </td><td>8.666.000 </td></tr><tr><td>2020 </td><td> </td><td>7.519.000 </td><td>12.186.000 </td><td> </td><td>9.971.000 </td></tr><tr><td>2021 </td><td> </td><td>7.519.000 </td><td>12.186.000 </td><td> </td><td>9.971.000 </td></tr><tr><td>2022 </td><td> </td><td>8.519.000 </td><td>13.726.000 </td><td> </td><td>11.231.000 </td></tr><tr><td>2023 </td><td> </td><td>9.519.000 </td><td>15.321.000 </td><td> </td><td>12.536.000 </td></tr><tr><td>2024 </td><td> </td><td>11.219.000 </td><td>16.476.000 </td><td> </td><td>13.481.000 </td></tr><tr><td>à partir de 2025 </td><td> </td><td>11.700.000 </td><td>17.270.000 </td><td> </td><td>14.130.000</td></tr></table>
+
+]<sup>6</sup>
+
+§ 16. [<sup>9</sup> Les montants suivants, exprimés en euros, sont ajoutés aux montants VOWprof, mentionnés ou calculés conformément au présent article :
+
+<table><tr><td>Année budgétaire 2019 </td><td>25 594,20 </td></tr><tr><td>Année budgétaire 2020 </td><td>51 188,40 </td></tr><tr><td>Année budgétaire 2021 </td><td>76 782,60 </td></tr><tr><td>Année budgétaire 2022 </td><td>102 376,80 </td></tr><tr><td>A partir de l'année budgétaire 2023 </td><td>127 971,00</td></tr></table>
+
+]<sup>9</sup>
+
+[<sup>1</sup> § 17. A partir de l'année budgétaire 2022 le montant du volet variable d'enseignement VOWhbo, visé au paragraphe 2/1, est égal au montant transféré conformément à l'article III.42/1.
+
+A partir de l'année budgétaire 2025, le montant pour VOWhbo visé au présent paragraphe, peut évoluer conformément à l'article III.6, § 2/1.
+
+A partir de l'année budgétaire 2025, le montant pour VOWhbo visé au présent paragraphe est indexé au moyen de la formule d'indexation, visée à l'article 9.]<sup>1</sup>
+
+[<sup>3</sup> § 18. Dans l'année budgétaire 2020, le montant VOWprof, visé ou calculé conformément au présent article, est majoré de 4.000.000 euros.]<sup>3</sup>
+
+[<sup>5</sup> § 19. Dans l'année budgétaire 2021, le montant VOWprof tel que visé ou calculé conformément au présent article, est majoré de 8.000.000 euros.]<sup>5</sup>
+
+[<sup>7</sup> § 20. [<sup>10</sup> Le montant VOWprof tel que visé au présent article ou calculé conformément à celui-ci, est majoré des montants suivants :
+
+1° au cours de l'année budgétaire 2022 de 12 000 000 euros ;
+
+2° au cours de l'année budgétaire 2023 de 12 491 600 euros. Ce montant est indexé au moyen de la formule d'indexation visée au paragraphe 9, et augmenté de 4 millions d'euros ;
+
+3° au cours de l'année budgétaire 2024, le montant total calculé conformément au point 2° est indexé au moyen de la formule d'indexation visée au paragraphe 9, et augmenté de 4 millions d'euros ;
+
+4° à partir de l'année budgétaire 2025, le montant total calculé conformément au point 3°, est indexé au moyen de la formule d'indexation visée au paragraphe 9.]<sup>10</sup>
+
+L'objectif de croissance visé aux paragraphes 18 à 20 est évalué lors de l'établissement du budget pour 2023.]<sup>7</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 163, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2019-03-01/26, art. 38, 012; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2020-06-26/29, art. 29, 016; En vigueur : 27-07-2020&gt;
+
+(4)&lt;DCFL 2020-07-03/39, art. 158, 017; En vigueur : 01-09-2019&gt;
+
+(5)&lt;DCFL 2020-12-18/12, art. 27, 020; En vigueur : 01-01-2021&gt;
+
+(6)&lt;DCFL 2020-12-18/12, art. 29, 020; En vigueur : 01-01-2021&gt;
+
+(7)&lt;DCFL 2021-07-09/33, art. 218, 022; En vigueur : 01-01-2022&gt;
+
+(8)&lt;DCFL 2022-07-08/05, art. 12, 028; En vigueur : 01-01-2022&gt;
+
+(9)&lt;DCFL 2022-07-08/05, art. 13, 028; En vigueur : 01-01-2022&gt;
+
+(10)&lt;DCFL 2022-12-16/10, art. 82, 029; En vigueur : 01-01-2023&gt;
+
+(11)&lt;DCFL 2023-06-30/07, art. 24, 038; En vigueur : 01-01-2022&gt;
+
+**Art. III.5/1**
+
+[<sup>1</sup> Au cours de l'année budgétaire 2023, les montants indexés dans le présent code au moyen de la formule d'indexation, visée à l'article III.5, § 9, font l'objet d'une indexation supplémentaire de 0,93 pour cent.
+
+Au cours de l'année budgétaire 2023, les montants indexés dans le présent code au moyen de la formule d'indexation, visée à l'article III.5, § 9, font l'objet d'une indexation supplémentaire de 2,69 pour cent.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-12-16/10, art. 83, 029; En vigueur : 01-01-2023&gt;
+
+**Art. III.6**
+
+[<sup>1</sup> § 2/1. A partir de l'année budgétaire 2025 le montant du volet variable d'enseignement VOWhbo évolue conformément au paragraphe 1er.
+
+Pour calculer le nombre d'unités d'études engagées dans le volet variable d'enseignement VOWhbo pour l'année budgétaire t, le nombre moyen d'unités d'études engagées est pris en compte sur les années académiques t-5/t-4 jusque t-3/t-2 incluse, pour lesquelles les étudiants sous contrat de diplôme se sont inscrits dans une formation de graduat.
+
+Les premières unités de référence dans un volet variable d'enseignement VOWhbo égalent le nombre moyen d'unités d'études engagées dans les années académiques 2019-2020 à 2021-2022 des formations de graduat, fixé conformément à l'alinéa 2.
+
+A chaque hausse ou baisse de 2% du nombre d'unités d'études engagées dans le volet variable d'enseignement VOWhbo, des nouvelles unités de référence sont fixées. Les nouvelles unités de référence égalent les précédentes unités de référence plus ou moins 2%.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 164, 010; En vigueur : 01-09-2019&gt;
+
+**Art. III.6/1**
+
+[<sup>1</sup> L'article III.6/1 du même code, inséré par le décret du 19 décembre 2014 et remplacé par le décret du 18 décembre 2015, est complété par un alinéa 2 et un alinéa 3, rédigés comme suit :
+
+" Par dérogation à l'article III.6, § 1er, § 2 et § 3, du présent code, les montants destinés aux volets variables " enseignement " VOWun et VOWac n'évoluent pas dans l'année budgétaire 2021 lorsque le nombre d'unités d'études dans le volet variable " enseignement " concerné calculé pour l'année budgétaire 2021 augmente d'au moins 2% par rapport aux unités de référence. De nouvelles unités de référence ne sont pas non plus fixées en cas d'une augmentation éventuelle de 2% ou plus du nombre d'unités d'études repris pour le volet variable " enseignement " concerné.
+
+[<sup>2</sup> Par dérogation à l'article III.6, § 1er, § 2 et § 3, du présent code, les montants destinés aux volets variables " enseignement " VOWun et VOWac n'évoluent pas dans l'année budgétaire 2023 lorsque le nombre d'unités d'études dans le volet variable " enseignement " concerné calculé pour l'année budgétaire 2023 augmente d'au moins 2 pour cent par rapport aux points de référence. De nouvelles unités de référence ne sont pas non plus fixées en cas d'une augmentation éventuelle de 2 pour cent ou plus du nombre d'unités d'études repris pour le volet variable " enseignement " concerné.]<sup>2</sup>
+
+Par VOWun, visé à l'alinéa précédent, on entend VOWun majoré du montant de la colonne VOWun2014ZAP, tel que visé au paragraphe 2 de l'article III.6. Par VOWac, visé à l'alinéa précédent, on entend VOWac diminué du montant du volet variable " enseignement " VOWhko et majoré du montant de la colonne VOWun2014 pondérations, visé au paragraphe 2 de l'article III.6.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-12-18/12, art. 32, 020; En vigueur : 01-01-2021&gt;
+
+(2)&lt;DCFL 2022-12-16/10, art. 84, 029; En vigueur : 01-01-2023&gt;
+
+**Art. III.9**
+
+[<sup>1</sup> voir version neerlandaise ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-07-15/20, art. 24, 034; En vigueur : 01-01-2023&gt;
+
+**Art. III.11**
+
+[<sup>1</sup> § 2/1. A partir de l'année budgétaire 2022 la formule suivante est appliquée au calcul du volet variable d'enseignement d'un institut supérieur : VOWi = VOWi-prof2014 + VOWi-hko2014 + VOWi-hbo, où :
+
+1° VOWi égale le volet variable d'enseignement pour l'institut supérieur i ;
+
+2° VOWi-prof2014 = FPi-prof2014 x VOWprof2014 / Σi FPi-prof2014, où :
+
+a) VOWi-prof2014 égale le volet variable d'enseignement pour les formations à orientation professionnelle, à l'exception des formations artistiques à orientation professionnelle, dans l'institut supérieur i ;
+
+b) FPi-prof2014 égale le nombre total d'unités de financement pour les formations à orientation professionnelle, à l'exception des unités de financement des formations artistiques à orientation professionnelle, dans l'institut supérieur i ;
+
+c) VOWprof2014 égale le volet variable d'enseignement pour les formations à orientation professionnelle dans les instituts supérieurs, visé à ou calculé conformément à l'article III.5 ;
+
+3° VOWi-hko2014 = FPi-hko2014 x VOWhko2014 / Σi FPi-hko2014, où :
+
+a) VOWi-hko2014 égale le volet variable d'enseignement pour les formations artistiques dans les Schools of Arts de l'institut supérieur i ;
+
+b) FPi-hko2014 égale le nombre total d'unités de financement pour les formations artistiques dans les Schools of Arts de l'institut supérieur i ;
+
+c) VOWhko2014 égale le volet variable d'enseignement pour les formations artistiques dans les Schools of Arts, visé à ou calculé conformément à l'article III.5 ;
+
+4° VOWi-hbo = FPi-hbo x VOWhbo / Σi FPi-hbo, où :
+
+a) VOWi-hbo égale le volet variable d'enseignement pour les formations de graduat dans l'institut supérieur i ;
+
+b) FPi-hbo égale le nombre total d'unités de financement pour les formations de graduat dans l'institut supérieur i ;
+
+c) VOWhbo égale le volet variable d'enseignement pour les formations de graduat dans les instituts supérieurs, visé à ou calculé conformément à l'article III.5.
+
+La sommation Σi s'étend sur tous les instituts supérieurs offrant des formations à orientation professionnelle, des formations artistiques ou des formations de graduat.]<sup>1</sup>
+
+[<sup>2</sup> § 9. A partir de l'exercice budgétaire 2026, la part dans la partie variable de l'enseignement VOWun générée par les formations de bachelier et de master en médecine vétérinaire proposées par l'Université de Gand et l'Université d'Anvers est fixée à un certain pourcentage, à savoir la part en pourcentage générée par ces formations dans le VOWun de l'exercice budgétaire 2022. Ce pourcentage est réparti entre l'Université d'Anvers et l'Université de Gand sur la base de la part de ces universités dans le nombre de diplômes délivrés dans la formation de bachelier et de master en médecine vétérinaire au cours de la période 2013-2014 à 2017-2018. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 165, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2022-07-15/20, art. 25, 034; En vigueur : 01-10-2023&gt;
+
+**Art. III.12**
+
+[<sup>1</sup> § 2. Est pris en compte pour le calcul du nombre d'unités d'études engagées par formation, le nombre d'unités d'études pour lesquelles un étudiant sous contrat de diplôme s'est inscrit à une formation de graduat ou à une formation initiale de bachelor, jusqu'au moment où l'étudiant aura recueilli 60 unités d'études dans une même formation de graduat ou de bachelor. Pour la fixation de ces 60 premières unités d'études dans une même formation de graduat ou de bachelor, les unités d'études suivantes sont prises en compte :
+
+1° le nombre d'unités d'études pour lesquelles l'étudiant a obtenu une attestation de crédits dans la formation de graduat ou de bachelor en question ;
+
+2° le nombre d'unités d'études pour lesquelles l'étudiant a reçu, dans la formation de graduat ou de bachelor en question, une dispense pour une subdivision de formation.
+
+3° au paragraphe 3, le membre de phrase " d'une formation et d'une institution à une formation de l'enseignement supérieur professionnel HBO 5 " sont remplacés par les mots " à une autre formation ou institution]<sup>1</sup>
+
+§ 4. [<sup>2</sup> ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 166, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2026-06-19/04, art. 5, 046; En vigueur : 02-06-2026&gt;
+
+**Art. III.13**
+
+[<sup>1</sup> § 2/1. A partir de l'année budgétaire 2022, est pris en compte pour le calcul du nombre d'unités de financement FPi-output :
+
+1° pour les formations de graduat dans les instituts supérieurs : le nombre d'unités de financement, basé sur le nombre d'unités d'études acquises dans les formations de graduat (FPI-output-initial) ;
+
+2° pour les formations à orientation professionnelle dans les instituts supérieurs : le nombre d'unités de financement, basé sur le nombre d'unités d'études acquises dans les formations initiales de bachelor (FPi-output-initial) et dans les formations de bachelor après bachelor (FPi-output-banaba), à l'exception des unités d'études acquises dans les formations artistiques à orientation professionnelle ;
+
+3° pour les formations artistiques dans les instituts supérieurs : le nombre d'unités de financement, basé sur le nombre d'unités d'études acquises dans les formations initiales professionnelles de bachelor, dans les formations initiales académiques de bachelor et de master, dans les formations de transition et les formations préparatoires précédant une formation initiale de master (FPi-output-initial) et dans les formations de bachelor après bachelor (FPi-output-banaba) ;
+
+4° pour les formations à orientation académique dans les universités : le nombre d'unités de financement basé sur le nombre d'unités d'études acquises dans les formations initiales de bachelor et master, dans les programmes de transition et dans les programmes préparatoires précédant une formation initiale de master (FPi-output-initial) ;]<sup>1</sup>
+
+§ 3.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, pour les formations de graduat, le nombre d'unités de financement FPi-output est le suivant :
+
+1° pour l'année budgétaire 2022 : la somme des produits du nombre d'unités d'études acquises par formation, visées au paragraphe 4, de l'année académique 2019-2020, et de la pondération correspondante, visée à l'article III.19 ;
+
+2° pour l'année budgétaire 2023 : la somme des produits de la moyenne des unités d'études acquises par formation, visées au paragraphe 4, sur les années académiques 2020-2021 et 2019-2020, et de la pondération correspondante, visée à l'article III.19 ;
+
+3° à partir de l'année budgétaire [<sup>2</sup> 2024]<sup>2</sup> : la somme des produits de la moyenne des unités d'études acquises par formation, visées au paragraphe 4, sur les années académiques t-5/t-4 à t-3/t-2 incluse, et de la pondération correspondante, visée à l'article III.19.]<sup>1</sup>
+
+[<sup>1</sup> § 4. Est pris en compte pour la fixation du nombre d'unités d'études acquises par formation, le nombre d'unités d'études pour lesquelles un étudiant inscrit sous contrat de diplôme a obtenu une attestation de crédits :
+
+1° pour le calcul du FPi-output-initial :
+
+a) dans une formation de graduat ou une formation initiale de bachelor, les unités d'études n'étant pas financées sur la base d'un financement de l'input, visé à l'article III.12 ;
+
+b) dans une formation initiale de master ;
+
+c) dans un programme de transition ;
+
+d) dans un programme préparatoire précédant une formation initiale de master ;
+
+2° pour le calcul du FPi-output-banaba : dans une formation de bachelor après bachelor, multiplié par un facteur 0,5]<sup>1</sup>
+
+§ 5. [<sup>3</sup> ]<sup>3</sup>
+
+[<sup>1</sup> § 9. Pour les formations de master éducatif pour les matières artistiques dans la discipline Arts audiovisuels et plastiques, le nombre admissible au financement d'unités d'études acquises par un étudiant est limité à soixante pour l'ensemble de la formation de master.
+
+Par dérogation au paragraphe 4, les unités d'études acquises dans le cadre d'une formation de master éducatif pour les matières artistiques dans les disciplines Arts audiovisuels et plastiques et Musique et Arts de la Scène ne sont pas admissibles à la détermination du nombre d'unités de financement FPi-output si l'étudiant détient déjà un diplôme de master dans la même discipline.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 167, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2022-07-15/20, art. 26, 034; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2026-06-19/04, art. 6, 046; En vigueur : 02-06-2026&gt;
+
+**Art. III.14**
+
+[<sup>1</sup> § 2/1. A partir de l'année budgétaire 2022, est pris en compte pour le calcul du nombre d'unités de financement FPi-diplôme :
+
+1° pour les formations de graduat dans les instituts supérieurs : le nombre d'unités de financement, basé sur le nombre de diplômes décernés dans les formations de graduat (FP1-diplôme-initial) ;
+
+2° pour les formations à orientation professionnelle dans les instituts supérieurs : le nombre d'unités de financement, basé sur le nombre diplômes décernés dans les formations initiales de bachelor (FPi-diplôme-initial) et dans les formations de bachelor après bachelor (FPi-diplôme-banaba), à l'exception des diplômes décernés dans les formations artistiques à orientation professionnelle ;
+
+3° pour les formations artistiques dans les instituts supérieurs : le nombre d'unités de financement basé sur le nombre de diplômes décernés dans les formations initiales de bachelor à orientation professionnelle, dans les formations initiales de master (FPi-diplôme-initial) et dans les formations de bachelor après bachelor (FPi-diplôme-banaba) ;
+
+4° pour les formations à orientation académique dans les universités :
+
+a) le nombre d'unités de financement, basé sur le nombre de diplômes décernés dans les formations initiales de master (FPi-diplôme-initial) ;
+
+b) le nombre d'unités de financement, basé sur le nombre de diplômes décernés dans les formations initiales de bachelor pour lesquelles l'université en question n'a pas la compétence d'enseignement pour proposer la formation de master y faisant suite.]<sup>1</sup>
+
+[<sup>1</sup> § 2/2. Par dérogation au paragraphe 2/1, les diplômes des formations de master éducatif pour les matières artistiques dans les disciplines Arts audiovisuels et plastiques et Musique et Arts de la Scène ne sont pas pris en compte pour le calcul du nombre d'unités de financement FPi-diplôme si l'étudiant détient déjà un diplôme de master dans la même discipline.]<sup>1</sup>
+
+§ 4.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, pour les formations de graduat, le nombre d'unités de financement FPi-diplôme est le suivant :
+
+1° pour l'année budgétaire 2022 : la somme des produits du nombre de diplômes décernés par formation, visés au paragraphe 5, de l'année académique 2019-2020, et de la pondération correspondante, visée à l'article III.19, et du bonus de transition, visé au paragraphe 6 ;
+
+2° pour l'année budgétaire 2023 : la somme des produits de la moyenne des diplômes décernés par formation, visés au paragraphe 5, sur les années académiques 2020-2021 et 2019-2020, et de la pondération correspondante, visée à l'article III.19, et du bonus de transition, visé au paragraphe 6 ;
+
+3° à partir de l'année budgétaire [<sup>2</sup> 2024 ]<sup>2</sup> : la somme des produits de la moyenne des diplômes décernés par formation, visés au paragraphe 5, sur les années académiques t-5/t-4 à t-3/t-2 incluse, et de la pondération correspondante, visée à l'article III.19, et du bonus de transition, visé au paragraphe 6.]<sup>1</sup>
+
+§ 5. [<sup>1</sup> Entrent en ligne de compte pour la détermination du nombre de diplômes décernés par formation :
+
+1° pour le calcul du FPi-diplôme-initial :
+
+a) pour les formations de graduat dans les instituts supérieurs : le nombre de diplômes de graduat décernés. Pour ces diplômes, le bonus de transition est égal à 30 ;
+
+b) pour les formations à orientation professionnelle dans les instituts supérieurs : le nombre de diplômes de bachelor initial décernés, à l'exception des diplômes de bachelor dans les formations artistiques à orientation professionnelle. Pour ces diplômes, le bonus de transition est égal à 30 ;
+
+c) pour les formations artistiques dans les instituts supérieurs : le nombre de diplômes de bachelor initial à orientation professionnelle décernés et le nombre de diplômes de master initial décernés. Pour ces diplômes, le bonus de transition est égal à 30 ;
+
+d) pour les formations à orientation académique dans les universités :
+
+1\) le nombre de diplômes de bachelor initial décernés pour ces diplômes de bachelor pour lesquels l'université en question n'a pas compétence d'enseignement pour proposer la formation de master y faisant suite. Pour ces diplômes, le bonus de transition est égal à 18 ;
+
+2\) le nombre de diplômes de master initial décernés. Pour ces diplômes, le bonus de transition est égal à 30 ;
+
+2° pour le calcul du FPi-diplôme-banaba : le nombre de diplômes des formations de bachelor après bachelor décernés. Pour ces diplômes, le bonus de transition est égal à 15.]<sup>1</sup>
+
+§ 6.
+
+§ 7. [<sup>3</sup> ]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 168, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2022-07-15/20, art. 27, 034; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2026-06-19/04, art. 7, 046; En vigueur : 02-06-2026&gt;
+
+**Art. III.19**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+[<sup>2</sup> 6° Par dérogation au point 1°, c), pour l'année budgétaire 2020, la pondération de la discipline Sciences industrielles et Technologies est de 1,25. Par dérogation au point 1°, i), pour l'année budgétaire 2020, la pondération de la discipline Sciences commerciales et Gestion d'Entreprise est de 1,01.]<sup>2</sup>
+
+[<sup>3</sup> 7° Par dérogation au point 1°, c), pour l'année budgétaire 2021, la pondération de la discipline Sciences industrielles et Technologies est de 1,25.
+
+Par dérogation au point 1°, i), pour l'année budgétaire 2021, la pondération de la discipline Sciences commerciales et Gestion d'Entreprise est de 1,01 ;
+
+8° Par dérogation au point 1°, i), pour l'année budgétaire 2021, la pondération de la formation de bachelor " Bachelor in de toegepaste informatica " est de 1,25.]<sup>3</sup>
+
+[<sup>4</sup> 9° Par dérogation au point 1°, c), le coefficient de pondération de la discipline Sciences et technologies industrielles est de 1,27 pour l'exercice budgétaire 2022 et de 1,30 à partir de l'exercice budgétaire 2023.
+
+Par dérogation au point 1°, i), le coefficient de pondération de la discipline Sciences commerciales et gestion d'entreprise est la suivante :
+
+a) pour l'exercice budgétaire 2022 : 1,02 ;
+
+b) pour l'exercice budgétaire 2023 : 1,04 ;
+
+c) A partir de l'exercice budgétaire 2024 : 1,06.]<sup>4</sup>
+
+§ 4. [<sup>5</sup> ]<sup>5</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 169, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-06-26/29, art. 30, 016; En vigueur : 27-07-2020&gt;
+
+(3)&lt;DCFL 2020-12-18/12, art. 28, 020; En vigueur : 01-01-2021&gt;
+
+(4)&lt;DCFL 2021-07-09/33, art. 219, 022; En vigueur : 01-01-2022&gt;
+
+(5)&lt;DCFL 2026-06-19/04, art. 9, 046; En vigueur : 02-06-2026&gt;
+
+**Art. III.22.**
+
+[<sup>1</sup> voir version neerlandaise ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-07-15/20, art. 28, 034; En vigueur : 01-01-2022&gt;
+
+**Art. III.24**
+
+[<sup>1</sup> Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen]<sup>1</sup>
+
+[<sup>2</sup> § 8. A partir de l'année budgétaire 2019, les moyens de fonctionnement totaux des universités sont majorés de 2.508.061 euros. Ce montant est réparti sur la base de la part en pourcentage de chaque université dans les moyens de fonctionnement totaux.
+
+A partir de l'année budgétaire 2019, les moyens de fonctionnement totaux des instituts supérieurs (y compris l'Ecole supérieure de Navigation) sont majorées de 1.747.939 euros. Ce montant est réparti sur la base de la part en pourcentage de chaque institut supérieur dans les moyens de fonctionnement totaux.
+
+A partir de l'année budgétaire 2020, les montants visés aux alinéas 1er et 2, sont indexés à l'aide de la formule d'indexation, visée à l'article III.5, § 9.
+
+§ 9. [<sup>3</sup> Dans]<sup>3</sup> l'année budgétaire 2020, les moyens de fonctionnement totaux des instituts supérieurs (y compris l'Ecole supérieure de Navigation) sont majorées de 4.390.165 euros. Ce montant est réparti sur la base de la part en pourcentage de chaque institut supérieur dans les moyens de fonctionnement totaux.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+§ 10. A partir de l'année budgétaire 2021, les moyens de fonctionnement totaux des instituts supérieurs (y compris l'Ecole supérieure de Navigation) sont majorées de [<sup>4</sup> 6.468.329,21 euros]<sup>4</sup>. Ce montant est réparti sur la base de la part en pourcentage de chaque institut supérieur dans les moyens de fonctionnement totaux.
+
+A partir de l'année budgétaire 2021, les moyens de fonctionnement totaux des universités sont majorés de [<sup>4</sup> 8.842.117,00 euros]<sup>4</sup>. Ce montant est réparti sur la base de la part en pourcentage de chaque université dans les moyens de fonctionnement totaux.
+
+A partir de l'année budgétaire 2022, les montants visés aux alinéas 1er et 2, sont indexés à l'aide de la formule d'indexation, visée à l'article III.5, § 9.]<sup>2</sup>
+
+[<sup>5</sup> § 11. Les moyens de fonctionnement totaux des instituts supérieurs (y compris l'Ecole supérieure de Navigation) et des universités sont majorés des montants suivants :
+
+<table><tr><td>[<sup><font>1</font></sup></td><td colspan="2">2021</td><td colspan="2">A partir de 2022</td></tr><tr><td>destination</td><td>instituts supérieurs</td><td>universités</td><td>instituts supérieurs</td><td>universités</td></tr><tr><td>budget gestion du personnel agile et résiliente</td><td>2 638 575</td><td>1 776 250</td><td> </td><td> </td></tr><tr><td>suppression âge barémique</td><td> </td><td> </td><td>5 047</td><td> </td></tr><tr><td>augmentation des salaires les plus bas ATP</td><td> </td><td> </td><td>45 441</td><td>56 559]<sup><font>1</font></sup></td></tr><tr><td colspan="5">(<font>1</font>)&lt;DCFL <a>2022-07-08/05</a>, art. 6, 028; En vigueur : 01-01-2022&gt; </td></tr></table>
+
+Les montants pour la suppression de l'âge barémique, les salaires les plus bas et, pour 2021, le budget pour la gestion du personnel agile et résiliente sont répartis sur la base de la part en pourcentage de chaque institut supérieur et université dans les moyens de fonctionnement totaux.
+
+La répartition et l'octroi des moyens pour la gestion du personnel agile et résiliente à partir de 2022 est arrêtée dans l'addenda. Les moyens ne peuvent être octroyés que pour des mesures relatives à la professionnalisation, à la réinsertion et à la politique de prévention des maladies.
+
+A partir de l'année budgétaire 2022, les montants visés au présent paragraphe sont indexés au moyen de la formule d'indexation visée à l'article III.5, § 9.]<sup>5</sup>
+
+[<sup>6</sup> § 12. A partir de l'année budgétaire 2023, l'allocation de fonctionnement totale des universités est diminuée de 15 000 000 d'euros. Ce montant est réparti comme suit entre les universités :
+
+<table><tr><td>Katholieke Universiteit Leuven </td><td>5 079 715 euros </td></tr><tr><td>Universiteit Gent </td><td>4 336 989 euros </td></tr><tr><td>Universiteit Antwerpen </td><td>2 335 359 euros </td></tr><tr><td>Vrije Universiteit Brussel : </td><td>2 097 957 euros </td></tr><tr><td>Universiteit Hasselt </td><td>1 149 980 euros</td></tr></table>
+
+]<sup>6</sup>.
+
+[<sup>7</sup> § 13. A partir de l'année budgétaire 2023, les moyens de fonctionnement totaux des instituts supérieurs (y compris l'Ecole supérieure de Navigation) et des universités sont majorés de 7 941 650 euros. Ce montant est réparti sur la base de la part en pourcentage de chaque institut supérieur et université dans les moyens de fonctionnement totaux.
+
+A partir de l'année budgétaire 2024, le montant visé au présent paragraphe, est indexé au moyen de la formule d'indexation visée à l'article III.5, § 9.]<sup>7</sup>
+
+[<sup>8</sup> § 14. A partir de l'année budgétaire 2024, les moyens de fonctionnement totaux des hautes écoles, y compris l'Ecole supérieure de Navigation, sont majorés de 8 millions d'euros. Sur ce montant, 683 000 euros sont ajoutés au volet variable " enseignement " pour les cours d'art dans les écoles d'art (VOWhko2014). Le montant restant est réparti sur la base de la part en pourcentage de chaque haute école dans les moyens de fonctionnement totaux.
+
+A partir de l'année budgétaire 2024, les moyens de fonctionnement totaux des universités sont majorés de 20 millions d'euros. Ce montant est réparti sur la base de la part en pourcentage de chaque université dans les moyens de fonctionnement totaux.
+
+Les montants visés aux alinéas 1er et 2, sont indexés à partir de l'année budgétaire 2024 au moyen de la formule d'indexation visée à l'article III.5, § 9.]<sup>8</sup>
+
+[<sup>9</sup> § 15. Au cours de l'année budgétaire 2026, les moyens de fonctionnement totaux des hautes écoles sont majorés une seule fois de 11 500 000 euros. Ce montant est réparti en fonction de la part de chaque haute école dans le nombre total de points de financement générés par les formations de graduat au cours des années académiques 2021-2022 à 2023-2024.]<sup>9</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-15/18, art. 91, 006; En vigueur : 01-09-2016&gt;
+
+(2)&lt;DCFL 2018-12-21/04, art. 47, 009; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DCFL 2020-12-18/12, art. 33, 020; En vigueur : 01-01-2021&gt;
+
+(4)&lt;DCFL 2020-12-18/12, art. 34, 020; En vigueur : 01-01-2021&gt;
+
+(5)&lt;DCFL 2022-02-25/10, art. 32, 025; En vigueur : 01-09-2021&gt;
+
+(6)&lt;DCFL 2022-12-16/10, art. 85, 029; En vigueur : 01-01-2023&gt;
+
+(7)&lt;DCFL 2022-12-16/10, art. 87, 029; En vigueur : 01-01-2023&gt;
+
+(8)&lt;DCFL 2023-12-22/12, art. 64, 032; En vigueur : 01-01-2024&gt;
+
+(9)&lt;DCFL 2026-07-10/10, art. 7, 048; En vigueur : 17-08-2026&gt;
+
+**Art. III.25/2**
+
+[<sup>1</sup> [<sup>2</sup> §1]<sup>2</sup> Dans le cadre d'une augmentation du quota visé à l'article II.187, § 4, le Gouvernement flamand peut, à partir de l'année budgétaire 2023, accorder une allocation de fonctionnement supplémentaire, dans les limites de la marge budgétaire disponible, aux universités offrant une formation de bachelier dans la discipline Médecine et/ou Sciences dentaires.
+
+Les universités peuvent utiliser les moyens supplémentaires visés à l'alinéa 1er uniquement pour leur fonctionnement ou les investissements dans l'infrastructure. Ces moyens supplémentaires pour l'année budgétaire t sont répartis entre les universités concernées sur la base du nombre moyen d'unités d'études engagées au cours des années académiques t-7/t-6 à t-3/t-2 pour lesquelles les étudiants sous contrat de diplôme se sont inscrits à une formation de bachelier dans la discipline Médecine et/ou Sciences dentaires.]<sup>1</sup>
+
+[<sup>2</sup> § 2. A partir de l'année budgétaire 2024, le moyen de fonctionnement total des universités est majoré de 10 millions d'euros. Ce montant est réparti comme suit entre les universités offrant une formation de bachelier dans la discipline médecine ou dentisterie :
+
+1° un socle de 200 000 euros pour chacune des universités concernées ;
+
+2° une partie variable pour chacune des universités concernées sur la base du nombre moyen de crédits engagés au cours des années académiques t-7/t-6 à t-3/t-2 pour lesquelles les étudiants sous contrat de diplôme se sont inscrits à une ou plusieurs des formations suivantes :
+
+a) bachelier en médecine ;
+
+b) master en médecine ;
+
+c) master en médecine générale ;
+
+d) master en médecine spécialisée ;
+
+e) bachelier en dentisterie ;
+
+f) master en dentisterie.
+
+A partir de l'année budgétaire 2024, les montants visés à l'alinéa 1er, sont indexés au moyen de la formule d'indexation visée à l'article III.5, § 9.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-12-16/10, art. 89, 029; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFL 2023-12-22/12, art. 65, 032; En vigueur : 01-01-2024&gt;
+
+**Art. III.25/3**
+
+[<sup>1</sup> Dans le cadre de la remédiation obligatoire visée à l'article II.188/1, le Gouvernement flamand attribue à partir de l'année budgétaire 2023 une allocation de fonctionnement supplémentaire de 1 100 567 euros aux instituts supérieurs et de 1 034 927 euros aux universités. Cette allocation pour l'année budgétaire t est répartie entre les institutions sur la base du nombre moyen d'unités d'études engagées au cours des années académiques t-7/t-6 à t-3/t-2 pour lesquelles les étudiants sous contrat de diplôme se sont inscrits aux formations de bachelier pour lesquelles la participation à une évaluation initiale constitue une condition préalable à l'inscription dans l'année académique t/t+1.
+
+A partir de l'année budgétaire 2023, les montants visés au présent paragraphe sont indexés annuellement, dans les limites du budget de la Communauté flamande, au moyen de la formule d'indexation visée à l'article III.5, § 9.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-12-16/10, art. 90, 029; En vigueur : 01-03-2023&gt;
+
+**Art. III.25/4**
+
+[<sup>1</sup> Afin de renforcer la formation des enseignants, l'allocation de fonctionnement totale des hautes écoles et des universités est majorée de 15 millions d'euros à partir de l'année budgétaire 2024. Ce montant total est réparti comme suit entre les hautes écoles et les universités offrant une formation d'enseignant, conformément à l'article II.111 :
+
+1° un socle de 150 000 euros pour chacune des universités et hautes écoles concernées ;
+
+2° une partie variable pour chacune des universités ou hautes écoles concernées sur la base du nombre de crédits engagés pour lesquels les étudiants sous contrat de diplôme se sont inscrits à une formation d'enseignant telle que visée à l'article II.111. Pour l'année budgétaire 2024, les crédits engagés de l'année académique 2021-2022 sont pris en compte. Pour l'année budgétaire 2025, le nombre moyen de crédits engagés au cours des années académiques 2021-2022 et 2022-2023 est pris en compte. A partir de l'année budgétaire 2026, le nombre moyen de crédits engagés au cours des années académiques t-5/t-4 à t-3/t-2 est pris en compte, t se référant à l'année budgétaire.
+
+A partir de l'année budgétaire 2024, les montants visés à l'alinéa 1er, sont indexés au moyen de la formule d'indexation visée à l'article III.5, § 9.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-12-22/12, art. 66, 032; En vigueur : 01-01-2024&gt;
+
+**Art. III.25/4bis**
+
+[<sup>1</sup> Au cours de l'année budgétaire 2024, le moyen de fonctionnement total des hautes écoles et des universités est majoré une seule fois de 706 680 euros.
+
+Ce montant est réparti entre les hautes écoles qui ont suivi au cours de l'année académique 2023-2024 une procédure d'accréditation de formation pour les formations de graduat en éducation et entre les universités qui ont suivi au cours de l'année académique 2022-2023 une procédure d'accréditation de formation pour les masters en éducation proportionnellement au nombre de graduats en éducation et au nombre de masters en éducation par institution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-12-22/12, art. 66, 032; En vigueur : 01-01-2024&gt;
+
+**Art. III.25/6r.**
+
+[<sup>1</sup> A partir de l'année budgétaire 2026 et jusqu'à l'année budgétaire 2030, une allocation de fonctionnement supplémentaire d'un montant maximal de 4 000 000 euros peut être accordée annuellement à la Vrije Universiteit Brussel afin de financer la préparation, la mise en place et le soutien des formations de bachelier et de master en dentisterie. A cet égard, l'établissement introduit chaque année un dossier de demande auprès du ministre flamand qui a l'enseignement et la formation dans ses attributions, au plus tard le 1er octobre de l'année budgétaire précédente. Pour l'année budgétaire 2026, la date limite d'introduction du dossier de demande est fixée au 1er juillet 2026. Ce dossier de demande comprend un aperçu des coûts estimés de la préparation, de la mise en place et du soutien des formations de bachelier et de master en dentisterie au cours de l'année budgétaire concernée et des années budgétaires suivantes jusqu'à 2030. Cette allocation de fonctionnement supplémentaire n'est accordée et versée qu'après contrôle et approbation du dossier de demande par le commissaire du gouvernement. Le commissaire du gouvernement évalue la fiabilité du budget et confirme que les dépenses qui y sont prévues ne sont pas financées par d'autres flux de subventions.
+
+La Vrije Universiteit Brussel rend compte des initiatives qu'elle a prises, ainsi que de leurs effets et résultats. A cette fin, la Vrije Universiteit Brussel introduit, au plus tard le 1er avril de l'année budgétaire suivante, un rapport concis auprès du ministre flamand qui a l'enseignement et la formation dans ses attributions. Ce rapport présente l'évolution du nombre d'étudiants et de membres du personnel pour les formations de bachelier et de master en dentisterie, ainsi qu'une justification détaillée des coûts liés au personnel, aux infrastructures, aux autres dépenses et à la constitution éventuelle de réserves. Le rapport est présenté au commissaire du gouvernement pour vérification. Le commissaire du gouvernement vérifie si les données financières visées dans le rapport de justification sont correctes.
+
+La Vrije Universiteit Brussel peut utiliser une partie de l'allocation de fonctionnement supplémentaire, visée à l'alinéa 1er, afin de constituer une réserve. Au maximum 20 % de l'allocation de fonctionnement accordée sur base annuelle peut être affectée à la constitution de réserves. Par dérogation à ce qui précède, au maximum 50 % de l'allocation de fonctionnement accordée sur base annuelle peut être affectée à la constitution de réserves au cours de l'année budgétaire 2026.
+
+Les réserves cumulées totales, visées à l'alinéa 3, ne peuvent excéder 50 % du montant total maximal de l'allocation de fonctionnement supplémentaire pour les années budgétaires 2026 à 2030 et doivent être utilisées au plus tard au cours de l'année budgétaire 2030.
+
+Le Gouvernement flamand peut récupérer tout ou partie de l'allocation de fonctionnement supplémentaire, visée à l'alinéa 1er, dans l'un des cas suivants :
+
+1° si la formation de bachelier, visée à l'alinéa 1er, n'est pas proposée dans l'année académique 2027-2028 au plus tard ;
+
+2° si la Vrije Universiteit Brussel n'introduit pas avant le 1er mars 2029 auprès de la Commission de l'Enseignement supérieur une demande évaluant l'efficacité de la formation de master en dentisterie conformément à l'article II.153 ;
+
+3° si les coûts ne peuvent pas être démontrés de manière suffisante dans le rapport annuel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-07-10/10, art. 16, 048; En vigueur : 17-08-2026&gt;
+
+**Art. III.25/7.**
+
+[<sup>1</sup> A partir de l'année budgétaire 2026 et jusqu'à l'année budgétaire 2030, une allocation de fonctionnement supplémentaire d'un montant maximal de 2 000 000 euros peut être accordée annuellement à l'Universiteit Hasselt afin de financer la préparation, la mise en place et le soutien de la formation de master en médecine. A cet égard, l'établissement introduit chaque année un dossier de demande auprès du ministre flamand qui a l'enseignement et la formation dans ses attributions, au plus tard le 1er octobre de l'année budgétaire précédente. Pour l'année budgétaire 2026, la date limite d'introduction du dossier de demande est fixée au 1er juillet 2026. Ce dossier de demande comprend un aperçu des coûts estimés de la préparation, de la mise en place et du soutien de la formation de master en médecine au cours de l'année budgétaire concernée et des années budgétaires suivantes jusqu'à 2030. Cette allocation de fonctionnement supplémentaire n'est accordée et versée qu'après contrôle et approbation du dossier de demande par le commissaire du gouvernement. Le commissaire du gouvernement évalue la fiabilité du budget et confirme que les dépenses qui y sont prévues ne sont pas financées par d'autres flux de subventions.
+
+L'Universiteit Hasselt rend compte des initiatives qu'elle a prises, ainsi que de leurs effets et résultats. A cette fin, l'Universiteit Hasselt introduit, au plus tard le 1er avril de l'année budgétaire suivante, un rapport concis auprès du ministre flamand qui a l'enseignement et la formation dans ses attributions. Ce rapport présente l'évolution du nombre d'étudiants et de membres du personnel pour la formation de master en médecine, ainsi qu'une justification détaillée des coûts liés au personnel, aux infrastructures, aux autres dépenses et à la constitution éventuelle de réserves. Le rapport est présenté au commissaire du gouvernement pour vérification. Le commissaire du gouvernement vérifie si les données financières visées dans le rapport de justification sont correctes.
+
+L'Universiteit Hasselt peut utiliser une partie de l'allocation de fonctionnement supplémentaire, visée à l'alinéa 1er, afin de constituer une réserve. Au maximum 20 % de l'allocation de fonctionnement accordée sur base annuelle peut être affectée à la constitution de réserves. Par dérogation à ce qui précède, au maximum 50 % de l'allocation de fonctionnement accordée sur base annuelle peut être affectée à la constitution de réserves au cours de l'année budgétaire 2026.
+
+Les réserves cumulées totales, visées à l'alinéa 3, ne peuvent excéder 50 % du montant total maximal de l'allocation de fonctionnement supplémentaire pour les années budgétaires 2026 à 2030 et doivent être utilisées au plus tard au cours de l'année budgétaire 2030.
+
+Si l'Universiteit Hasselt n'introduit pas avant le 1er mars 2027 auprès de la Commission de l'Enseignement supérieur une demande évaluant, conformément à l'article II.153, la macro-efficacité de la formation visée à l'alinéa 1er, ou si les coûts ne peuvent pas être démontrés de manière suffisante dans le rapport annuel, le Gouvernement flamand peut récupérer tout ou partie de l'allocation de fonctionnement supplémentaire visée à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-07-10/10, art. 17, 048; En vigueur : 17-08-2026&gt;
+
+**Art. III.25/8.**
+
+[<sup>1</sup> A partir de l'année budgétaire 2026 et jusqu'à l'année budgétaire 2030, une allocation de fonctionnement supplémentaire d'un montant maximal de 1 000 000 euros peut être accordée annuellement à la Katholieke Universiteit Leuven en vue du développement ciblé, sur le territoire de la ville de Courtrai, de la formation de master en sciences commerciales, particulièrement axée sur l'intelligence artificielle, l'intégration au monde professionnel par le biais d'un projet pilote, des parcours d'apprentissage accessibles aux étudiants travailleurs et la valorisation et la diffusion auprès d'autres établissements d'enseignement supérieur. A cet égard, l'établissement introduit chaque année un dossier de demande auprès du ministre flamand qui a l'enseignement et la formation dans ses attributions, au plus tard le 1er octobre de l'année budgétaire précédente. Pour l'année budgétaire 2026, la date limite d'introduction du dossier de demande est fixée au 1er juillet 2026. Ce dossier de demande comprend un aperçu des coûts estimés liés au personnel et aux infrastructures supplémentaires nécessaires à l'élaboration du programme d'études, au développement de la dimension professionnelle et au soutien des parcours hybrides pour les étudiants travailleurs. Le dossier comprend également des objectifs concrets, des indicateurs clé de performance et une estimation financière pour les années budgétaires suivantes jusqu'à 2030. Cette allocation de fonctionnement supplémentaire n'est accordée et versée qu'à la suite d'un contrôle de fond et financier, et de l'approbation du dossier de demande par le commissaire du gouvernement. Le commissaire du gouvernement évalue la fiabilité du budget et confirme que les dépenses qui y sont prévues ne sont pas financées par d'autres flux de subventions.
+
+La Katholieke Universiteit Leuven rend compte des initiatives qu'elle a prises, ainsi que de leurs effets et résultats. A cette fin, la Katholieke Universiteit Leuven introduit, au plus tard le 1er avril de l'année budgétaire suivante, un rapport concis auprès du ministre flamand qui a l'enseignement et la formation dans ses attributions. Ce rapport présente au moins l'évolution du nombre d'étudiants et de membres du personnel pour la formation de master en sciences commerciales, ainsi qu'une justification détaillée des coûts liés au personnel, aux infrastructures, aux autres dépenses et à la constitution éventuelle de réserves. Le rapport est présenté au commissaire du gouvernement pour vérification. Le commissaire du gouvernement vérifie si les données financières visées dans le rapport de justification sont correctes.
+
+La Katholieke Universiteit Leuven peut utiliser une partie de l'allocation de fonctionnement supplémentaire, visée à l'alinéa 1er, afin de constituer une réserve. Au maximum 20 % de l'allocation de fonctionnement accordée sur base annuelle peut être affectée à la constitution de réserves. Par dérogation à ce qui précède, au maximum 50 % de l'allocation de fonctionnement accordée sur base annuelle peut être affectée à la constitution de réserves au cours de l'année budgétaire 2026.
+
+Les réserves cumulées totales, visées à l'alinéa 3, ne peuvent excéder 50 % du montant total maximal de l'allocation de fonctionnement supplémentaire pour les années budgétaires 2026 à 2030 et doivent être utilisées au plus tard au cours de l'année budgétaire 2030.
+
+Le Gouvernement flamand peut récupérer, en tout ou en partie, l'allocation de fonctionnement supplémentaire, visée à l'alinéa 1er, ou en refuser l'octroi, en tout ou en partie, dans l'un des cas suivants :
+
+1° si la formation de master, visée à l'alinéa 1er, n'est pas proposée dans l'année académique 2027-2028 au plus tard ;
+
+2° si les coûts ne peuvent pas être démontrés de manière suffisante dans le rapport annuel ;
+
+3° si le rapport, visé à l'alinéa 2, démontre que les objectifs ou les indicateurs clé de performance n'ont pas été atteints ou ne l'ont pas été de manière satisfaisante.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-07-10/10, art. 18, 048; En vigueur : 17-08-2026&gt;
+
+**Art. III.25/9.**
+
+[<sup>1</sup> § 1er. Dans le présent paragraphe, on entend par :
+
+1° étudiant dont la langue familiale n'est pas le néerlandais : un étudiant qui, durant sa scolarité dans l'enseignement secondaire et selon les données les plus récentes disponibles dans DISCIMUS, répondait à l'indicateur d'égalité des chances, visé à l'article 233, § 1er, 5°, du Code de l'Enseignement secondaire du 17 décembre 2010 ;
+
+2° débutant dans un trajet : un étudiant qui s'inscrit pour la première fois, par le biais d'un contrat de diplôme, à une formation spécifique de l'enseignement supérieur professionnel ou à une formation initiale de bachelier à orientation professionnelle ou académique dans l'enseignement supérieur flamand, quel que soit l'établissement dans lequel il est inscrit. Un étudiant est considéré comme débutant dans un trajet si :
+
+a) il s'inscrit pour la première fois à cette formation spécifique ;
+
+b) il s'inscrit pour la première fois à une autre formation qu'une formation précédente.
+
+Afin de renforcer le niveau du néerlandais des débutants dans un trajet et des étudiants de génération dont la langue familiale n'est pas le néerlandais, qui sont inscrits à des formations en néerlandais, une allocation de fonctionnement supplémentaire est accordée aux hautes écoles et universités d'un montant de 2 500 000 euros dans les années budgétaires 2026 et 2027, et de 5 000 000 euros dans les années budgétaires 2028 et 2029, ci-après appelée moyens linguistiques.
+
+Les moyens linguistiques visés à l'alinéa 2, sont répartis entre les hautes écoles et les universités sur la base des formules suivantes :
+
+1° pour chaque établissement, le nombre pondéré de débutants dans un trajet et d'étudiants de génération dont la langue familiale n'est pas le néerlandais, qui sont inscrits aux formations en néerlandais pendant la période de référence t-3/2 est déterminé en additionnant le nombre de débutants dans un trajet dont la langue familiale n'est pas le néerlandais et inscrits aux formations en néerlandais de l'établissement, et le nombre d'étudiants de génération dont la langue familiale n'est pas le néerlandais et inscrits aux formations en néerlandais de l'établissement, multiplié par un facteur 2 ;
+
+2° la répartition entre les établissements se fait en fonction de leur nombre pondéré de débutants dans un trajet et d'étudiants de génération dont la langue familiale n'est pas le néerlandais, qui sont inscrits aux formations en néerlandais, tels que visés au point 1°, par rapport à la somme des nombres pondérés de débutants dans un trajet et d'étudiants de génération dont la langue familiale n'est pas le néerlandais, qui sont inscrits aux formations en néerlandais de l'ensemble des établissements.
+
+§ 2. Les hautes écoles et universités bénéficiant des moyens linguistiques, visés au paragraphe 1er, alinéa 2, rendent compte des initiatives qu'elles ont prises, ainsi que de leurs effets et résultats. A cette fin, les établissements introduisent, au plus tard le 1er avril de l'année budgétaire suivante, un rapport de fond concis auprès du ministre flamand qui a l'enseignement dans ses attributions. Les établissements incluent la justification concernant l'affectation des moyens linguistiques, visés au paragraphe 1er, alinéa 2, dans leur compte annuel visé à l'article IV.83.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-07-10/10, art. 19, 048; En vigueur : 17-08-2026&gt;
+
+**Art. III.32**
+
+[<sup>1</sup> § 1er. Jusqu'à et y compris l'année budgétaire 2021, les universités reçoivent un montant de 5.121.329,96 euros pour le financement de la formation des enseignants. A partir de l'année budgétaire 2018 ce montant est indexé conformément à l'article III.5, § 9.
+
+Le montant visé à l'alinéa 1er est réparti entre les universités de la manière suivante :
+
+1° dans l'année budgétaire 2019, au prorata des unités d'études acquises dans les formations spécifiques des enseignants dans l'année académique 2016-2017 ;
+
+2° dans l'année budgétaire 2020, au prorata de la moyenne des unités d'études acquises dans la formation spécifique des enseignants sur les années académiques 2016-2017 et 2017-2018 ;
+
+3° dans l'année budgétaire 2021, au prorata de la moyenne des unités d'études acquises dans la formation spécifique des enseignants sur les années académiques 2016-2017, 2017-2018 et 2018-2019.
+
+Les montants visés à l'alinéa 2 sont considérés comme des ressources opérationnelles supplémentaires. Ils sont mis à la disposition de l'université tous les mois en douzièmes à la fin du mois relatif au douzième.
+
+§ 2. A partir de l'année budgétaire 2022, les montants calculés pour l'année budgétaire 2021 conformément au paragraphe 1er sont réduits annuellement de 1/5. Les moyens libérés seront ajoutés au volet variable d'enseignement pour les formations universitaires VOWun2014, visées à l'article III.5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 171, 010; En vigueur : 01-01-2019&gt;
+
+**Art. III.33**
+
+[<sup>1</sup> § 1er. Jusqu'à et y compris l'année budgétaire 2021, les instituts supérieurs reçoivent un montant de 1.499.455 euros pour le financement de la formation des enseignants. A partir de l'année budgétaire 2018 ce montant est indexé conformément à l'article III.5, § 9.
+
+Le montant visé à l'alinéa 1er est réparti entre les instituts supérieurs de la manière suivante :
+
+1° dans l'année budgétaire 2019, au prorata des unités d'études acquises dans les formations spécifiques des enseignants dans l'année académique 2016-2017 ;
+
+2° dans l'année budgétaire 2020, au prorata de la moyenne des unités d'études acquises dans la formation spécifique des enseignants sur les années académiques 2016-2017 et 2017-2018 ;
+
+3° dans l'année budgétaire 2021, au prorata de la moyenne des unités d'études acquises dans la formation spécifique des enseignants sur les années académiques 2016-2017, 2017-2018 et 2018-2019.
+
+Pour le calcul des unités d'études acquises dans les formations spécifiques des enseignants, les unités d'études acquises dans la formation spécifique des enseignants Danse ne sont pas prises en compte.
+
+La Artesis Plantijn Hogeschool Antwerpen reçoit 52.616 euros pour la formation spécifique des enseignants Danse. A partir de l'année budgétaire 2018 ce montant est indexé conformément à l'article III.5, § 9.
+
+§ 2. A partir de l'année budgétaire 2022, les montants calculés pour l'année budgétaire 2021 conformément au paragraphe 1er, alinéa 2, 3°, sont réduits annuellement de 1/3. Les moyens libérés seront répartis de la manière suivante :
+
+1° dans l'année budgétaire 2022 : sur la base du nombre d'unités d'études acquises dans l'année académique 2019-2020 des formations de master éducatif pour les matières artistiques dans les disciplines Arts audiovisuels et plastiques et Musique et Arts de la Scène si l'étudiant est déjà titulaire d'un diplôme de master dans la même discipline et des unités d'études acquises dans les formations de master éducatif pour les matières artistiques dans la discipline Arts audiovisuels et plastiques, à l'exception des unités d'études acquises prises en compte pour déterminer les unités de financement FPi-output, visées à l'article III.13, § 9 ;
+
+2° dans l'année budgétaire 2023 : sur la base du nombre moyen d'unités d'études acquises sur les années académiques 2019-2020 et 2020-2021 des formations de master éducatif pour les matières artistiques dans les dans les disciplines Arts audiovisuels et plastiques et Musique et Arts de la Scène si l'étudiant est déjà titulaire d'un diplôme de master dans la même discipline et des unités d'études acquises dans les formations de master éducatif pour les matières artistiques dans la discipline Arts audiovisuels et plastiques, à l'exception des unités d'études acquises prises en compte pour déterminer les unités de financement FPi-output, visées à l'article III.13, § 9 ;
+
+3° à partir de l'année budgétaire 2024 : sur la base du nombre moyen d'unités d'études acquises sur les années académiques t-5/t-4 jusqu'à et y compris t-3/t-2 des formations de master éducatif pour les matières artistiques dans les disciplines Arts audiovisuels et plastiques et Musique et Arts de la Scène si l'étudiant est déjà titulaire d'un diplôme de master dans la même discipline et des unités d'études acquises dans les formations de master éducatif pour les matières artistiques dans la discipline Arts audiovisuels et plastiques, à l'exception des unités d'études acquises prises en compte pour déterminer les unités de financement FPi-output, visées à l'article III.13, § 9.
+
+§ 3. Le montant visé au paragraphe 1er, alinéa 1er, suit l'évolution de VOWhko conformément à l'article III.6.
+
+§ 4. A partir de l'année budgétaire 2022, le montant visé au paragraphe 1er, alinéa 4, est réduit annuellement de 1/3. Le montant libéré sera ajouté à VOWhbo.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 172, 010; En vigueur : 01-01-2019&gt;
+
+**Art. III.33/1**
+
+[<sup>1</sup> § 1er. Un centre d'éducation des adultes proposant des formations spécifiques des enseignants jusqu'à l'année scolaire 2018-2019 incluse et un ou plusieurs instituts supérieurs et une ou plusieurs universités proposant des formations des enseignants concluent un accord fixant, au minimum, les modalités de transfert, de mise à disposition et d'utilisation des infrastructures et des biens immobiliers, et de transfert du personnel.
+
+Les instituts supérieurs et universités avec lesquels un centre d'éducation des adultes a conclu un accord s'entendent entre eux sur la répartition des moyens provenant du centre d'éducation des adultes et sur la répartition du personnel.
+
+§ 2. Les instituts supérieurs et universités avec lesquels un centre d'éducation des adultes a conclu un accord tel que visé à l'article 1er reçoivent ensemble les moyens suivants :
+
+1° dans l'année budgétaire 2019 : 1/3 des moyens générés pour les formations spécifiques des enseignants pour l'année scolaire 2018-2019 dans le centre d'éducation des adultes concerné ;
+
+2° dans les années budgétaires 2020 à 2026 incluse : les moyens générés pour les formations spécifiques des enseignants pour l'année scolaire 2018-2019 dans le centre d'éducation des adultes concerné.
+
+Les moyens générés, visés aux points 1° et 2°, sont le nombre de périodes-enseignant pour les formations spécifiques des enseignants dans le centre d'éducation des adultes concerné pour l'année scolaire 2018-2019, calculé conformément aux articles 98 et 99 du décret du 15 juin 2007 relatif à l'éducation des adultes, multiplié par 100,08 euros. Ce montant de 100,08 euros sera ajusté en fonction de l'évolution de l'indice-santé. La date de référence pour l'ajustement est le 1er septembre 2017.
+
+A partir de l'exercice 2020, les moyens générés sont indexés sur la base de la formule d'indexation visée à l'article III.5, § 9.
+
+§ 3. Les moyens visés au paragraphe 2 sont répartis entre les universités et les instituts supérieurs qui ont conclu un accord tel que visé au paragraphe 1er, alinéa 2, sur la base d'un pourcentage fixé dans l'accord. Ce pourcentage est communiqué au service compétent du Gouvernement flamand. Les instituts supérieurs et universités concernés peuvent ajuster annuellement ce pourcentage.
+
+L'accord visé au paragraphe 1er, alinéa 2, contient également des dispositions pour le cas où la proportion du personnel transféré, exprimée en unités à temps plein, des partenaires de l'accord ne correspond pas à la répartition des moyens financiers visée à l'alinéa 1er.
+
+§ 4. A compter de l'année budgétaire 2027, les moyens visés au paragraphe 2, alinéa 1er, 2°, sont progressivement supprimés. Les moyens libérés s'ajouteront à VOWhbo, VOWprof2014, VOWun2014 et aux moyens supplémentaires visés à l'article III.33, § 2, sur la base de la part des diplômes décernés dans les années académiques 2020-2021 à 2024-2025 incluse, respectivement dans :
+
+1° la formation de graduat éducatif pour l'enseignement secondaire, visée à l'article II.112 ;
+
+2° le parcours raccourci de la formation de bachelor éducatif pour l'enseignement secondaire, visé à l'article II.113, § 4 ;
+
+3° le parcours raccourci de la formation de master éducatif pour l'enseignement secondaire, visé à l'article II.114, § 5 ;
+
+4° le parcours raccourci ou consécutif de la formation de master éducatif pour les matières artistiques, visé à l'article II.114, §§ 5 et 6.]<sup>1</sup>
+
+[<sup>2</sup> § 5. Dans les limites des budgets disponibles, le Gouvernement flamand peut transférer les moyens destinés à la formation spécifique des enseignants, qui ne doivent plus être affectés au sein de l'éducation des adultes à partir de l'année scolaire 2019-2020, des crédits de traitement de l'éducation des adultes aux allocations de fonctionnement des instituts supérieurs ou des universités proposant des formations des enseignants. Le Gouvernement flamand définit le mécanisme d'attribution à cet effet.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 173, 010; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2018-12-21/04, art. 48, 009; En vigueur : 01-01-2019&gt;
+
+**Art. III.33/1..**
+
+[<sup>1</sup> § 5. Dans les limites des budgets disponibles, le Gouvernement flamand peut transférer les moyens destinés à la formation spécifique des enseignants, qui ne doivent plus être affectés au sein de l'éducation des adultes à partir de l'année scolaire 2019-2020, des crédits de traitement de l'éducation des adultes aux allocations de fonctionnement des instituts supérieurs ou des universités proposant des formations des enseignants. Le Gouvernement flamand définit le mécanisme d'attribution à cet effet.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-21/04, art. 48, 009; En vigueur : 01-01-2019&gt;
+
+**Art. III.34..**
+
+§ 1.
+
+[<sup>1</sup> Karel de Grote Hogeschool, Katholieke Hogeschool Antwerpen]<sup>1</sup>
+
+§ 6. [<sup>2</sup> A partir de l'année budgétaire 2022 les universités reçoivent un montant de 464 000 euros pour la formation du personnel des universités.
+
+dans la deuxième phrase de l'alinéa 1er et dans l'alinéa 2, les mots " et instituts supérieurs " sont abrogés.]<sup>2</sup>
+
+[<sup>1</sup> § 8. A partir de l'année budgétaire 2017, le Gouvernement flamand accorde chaque année aux instituts supérieurs de droit public, dans les limites des budgets disponibles, une compensation des coûts supplémentaires liés à l'octroi du salaire mensuel garanti du régime des employés à leurs ouvriers, comme prévue dans le cadre de la CCT III du 10 décembre 2010.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-15/18, art. 92, 006; En vigueur : 01-01-2018&gt;
+
+(2)&lt;DCFL 2022-07-08/05, art. 15, 028; En vigueur : 01-01-2022&gt;
+
+**Art. III.34/1..**
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Les instituts supérieurs et les universités reçoivent les allocations complémentaires suivantes :
+
+<table><tr><td></td><td colspan="2">2021 </td><td colspan="2">à partir de 2022 </td></tr><tr><td>destination </td><td>instituts supérieurs </td><td>universités </td><td>instituts supérieurs </td><td>universités </td></tr><tr><td>promotion de la mobilité durable et augmentation de l'indemnité vélo </td><td>356 100 </td><td>838 375 </td><td>1 089 666 </td><td>2 565 428 </td></tr><tr><td>intervention dans la politique de numérisation </td><td>356 100 </td><td>670 700 </td><td>1 089 666 </td><td>2 052 342 </td></tr><tr><td>indemnité internet </td><td>1 424 400 </td><td>2 682 800 </td><td>4 358 664 </td><td>8 209 368 </td></tr><tr><td>intervention carte de réduction </td><td>89 025 </td><td>167 675 </td><td>90 806 </td><td>171 029 </td></tr><tr><td>gestion du personnel agile et résiliente </td><td> </td><td> </td><td>3 060 000 </td><td>1 737 794 </td></tr><tr><td>coaches en réinsertion </td><td> </td><td> </td><td>688 500 </td><td></td></tr></table>
+
+Les montants sont répartis sur la base de la part en pourcentage de chaque institut supérieur et université dans les moyens de fonctionnement totaux.
+
+Par dérogation à l'alinéa 2, les montants pour les coaches en réinsertion sont répartis comme suit :
+
+<table><tr><td>instituts supérieurs </td><td>montant (en euros) </td></tr><tr><td>1° Arteveldehogeschool </td><td>57 375 </td></tr><tr><td>2° Erasmushogeschool Brussel </td><td>38 250 </td></tr><tr><td>3° Hogeschool Gent </td><td>76 500 </td></tr><tr><td>4° LUCA School of Arts </td><td>38 250 </td></tr><tr><td>5° Hogeschool West-Vlaanderen </td><td>38 250 </td></tr><tr><td>6° Karel de Grote-Hogeschool, Katholieke Hogeschool Antwerpen </td><td>57 375 </td></tr><tr><td>7° Katholieke Hogeschool Vives Noord et Katholieke Hogeschool Vives Zuid </td><td>57 375 </td></tr><tr><td>8° Thomas More Kempen et Thomas More Mechelen-Antwerpen </td><td>76 500 </td></tr><tr><td>9° UC Leuven et UC Limburg </td><td>76 500 </td></tr><tr><td>10° Odisee </td><td>57 375 </td></tr><tr><td>11° Artesis Plantijn Hogeschool Antwerpen </td><td>57 375 </td></tr><tr><td>12° Hogeschool PXL </td><td>38 250 </td></tr><tr><td>13° Ecole supérieure de Navigation </td><td>19 125</td></tr></table>
+
+Le montant obtenu conformément aux alinéas 1er, 2 et 3, est ajouté aux moyens de fonctionnement.]<sup>2</sup>
+
+§ 2. A partir de l'année budgétaire 2022, les montants visés au présent article sont indexés au moyen de la formule d'indexation visée à l'article III.5, § 9.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-02-25/10, art. 33, 025; En vigueur : 01-09-2021&gt;
+
+(2)&lt;DCFL 2022-07-08/05, art. 16, 028; En vigueur : 01-01-2022&gt;
+
+**Art. III.39**
+
+[<sup>1</sup> A l'article III.39 du même Code, modifié par les décrets des 19 décembre 2014 et 18 décembre 2015, les modifications suivantes sont apportées :
+
+1° dans le paragraphe 1, le tableau est remplacé par ce qui suit : "
+
+<table><tr><td>année budgétaire </td><td>montant (en millions d'euros). </td></tr><tr><td>2014 </td><td>2,18 </td></tr><tr><td>2015 </td><td>3,16 </td></tr><tr><td>2016 </td><td>4,13 </td></tr><tr><td>2017 </td><td>5,11 </td></tr><tr><td>2018 </td><td>6,41 </td></tr><tr><td>2019 </td><td>7,71 </td></tr><tr><td>2020 </td><td>9,01 </td></tr><tr><td>2021 </td><td>9,01 </td></tr><tr><td>2022 </td><td>10,31 </td></tr><tr><td>2023 </td><td>11,61 </td></tr><tr><td>à partir de 2024 </td><td>12,93</td></tr></table>
+
+" ;
+
+2° dans le paragraphe 3, le tableau est remplacé par ce qui suit : "
+
+<table><tr><td>année budgétaire </td><td>montant (en millions d'euros) </td></tr><tr><td>2014 </td><td>12,82 </td></tr><tr><td>2015 </td><td>18,64 </td></tr><tr><td>2016 </td><td>21,61 </td></tr><tr><td>2017 </td><td>27,43 </td></tr><tr><td>2018 </td><td>32,73 </td></tr><tr><td>2019 </td><td>38,23 </td></tr><tr><td>2020 </td><td>43,53 </td></tr><tr><td>2021 </td><td>43,53 </td></tr><tr><td>2022 </td><td>48,83 </td></tr><tr><td>2023 </td><td>54,33 </td></tr><tr><td>2024 </td><td>58,01 </td></tr><tr><td>à partir de 2025 </td><td>60,67</td></tr></table>
+
+]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-12-18/12, art. 30, 020; En vigueur : 01-01-2021&gt;
+
+**Art. III.40/1..**
+
+[<sup>1</sup> § 1er. Les instituts supérieurs proposant la formation professionnelle de bachelor " Bachelor in de verpleegkunde ", reçoivent dans l'année budgétaire 2019 un montant de 2,850 millions d'euros pour l'extension du volume des études de cette formation de 180 à 240 unités d'études. A partir de l'année budgétaire 2020, ce montant est majoré à 11,420 millions d'euros.
+
+A partir de l'année budgétaire 2021, ce montant est indexé à l'aide de la formule d'indexation visée à l'article III.5, § 9.
+
+§ 2. Le montant visé au paragraphe 1er est réparti entre les instituts supérieurs proposant la formation professionnelle de bachelor " Bachelor in de verpleegkunde ", sur la base du nombre d'unités de financement dans cette formation, calculé sur la base des années académiques suivantes :
+
+1° pour l'année budgétaire 2019 : sur la base du nombre d'unités de financement diplômes dans cette formation pendant les années académiques 2012-2013, 2013-2014, 2014-2015, 2015-2016 et 2016-2017 ;
+
+2° pour l'année budgétaire 2020 : sur la base du nombre d'unités de financement diplômes dans cette formation pendant les années académiques 2013-2014, 2014-2015, 2015-2016, 2016-2017 et 2017-2018 ;
+
+3° pour l'année budgétaire 2021 : sur la base du nombre d'unités de financement diplômes dans cette formation pendant les années académiques 2013-2014, 2014-2015, 2015-2016, 2016-2017 et 2017-2018 ;
+
+4° pour l'année budgétaire 2022 : sur la base du nombre d'unités de financement diplômes dans cette formation pendant les années académiques 2015-2016, 2016-2017, 2017-2018 et 2019-2020 ;
+
+5° pour l'année budgétaire 2023 : sur la base du nombre d'unités de financement diplômes dans cette formation pendant les années académiques 2016-2017, 2017-2018, 2019-2020 et 2020-2021 ;
+
+6° pour l'année budgétaire 2024 : sur la base du nombre d'unités de financement diplômes dans cette formation pendant les années académiques 2017-2018, 2019-2020, 2020-2021 et 2021-2022 ;
+
+7° pour l'année budgétaire 2025 : sur la base du nombre d'unités de financement diplômes dans cette formation pendant les années académiques 2019-2020, 2020-2021, 2021-2022 et 2022-2023.
+
+§ 3. A partir de l'année budgétaire 2022, les moyens calculés conformément au paragraphe 1er, sont réduits annuellement de 1/5. Les moyens libérés sont ajoutés au volet variable d'enseignement pour les formations professionnelles de bachelor VOWprof2014, visées à l'article III.5.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-12-21/04, art. 49, 009; En vigueur : 01-01-2019&gt;
+
+**Art. III.40/2..**
+
+[<sup>1</sup> A partir de l'année budgétaire 2019, la Katholieke Universiteit Leuven reçoit annuellement un montant de 158.000 euros à titre de financement de l'option " Théologie islamique et sciences religieuses " au sein du " Master of Arts in de wereldreligies ".
+
+La subvention visée à l'alinéa 1er vaut comme contribution dans les frais de personnel et de fonctionnement qui sont exposés dans le cadre de l'élaboration de l'option " Théologie islamique et sciences religieuses " au sein du " Master of Arts in de wereldreligies ".
+
+La Katholieke Universiteit Leuven transmet annuellement avant le 15 janvier au service compétent de l'Autorité flamande un rapport d'activités de la période sur laquelle porte la subvention, ainsi qu'une justification détaillée des frais.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-12-21/04, art. 50, 009; En vigueur : 01-01-2019&gt;
+
+**Art. III.42/1**
+
+[<sup>1</sup> § 1er. Lors du transfert de formations hbo5 d'un ou plusieurs centres d'éducation des adultes vers un institut supérieur dans l'année académique 2019-2020, cet institut supérieur recevra les moyens suivants à partir de l'année budgétaire 2019 :
+
+1° dans l'année budgétaire 2019 : 1/3 des moyens générés pour les formations hbo5 pour l'année scolaire 2018-2019 dans le centre d'éducation des adultes concerné ;
+
+2° à partir de l'année budgétaire 2020 : les moyens générés pour les formations hbo5 pour l'année scolaire 2018-2019 dans le centre d'éducation des adultes concerné.
+
+Les moyens générés, visés aux points 1° et 2°, sont le nombre de périodes-enseignant pour les formations hbo5 dans le ou les centres d'éducation des adultes pour l'année scolaire 2018-2019, calculé conformément aux articles 98 et 99 du décret du 15 juin 2007 relatif à l'éducation des adultes, multiplié par 98,39 euros. Ce montant de 98,39 euros sera ajusté [<sup>3</sup> jusqu'à l'année budgétaire 2019]<sup>3</sup> en fonction de l'évolution de l'indice-santé. La date de référence pour l'ajustement est le 1er septembre 2017.
+
+§ 2. [<sup>4</sup> La somme des moyens tels qu'ils sont octroyés aux instituts supérieurs conformément au paragraphe 1er, 2°, est cumulativement multipliée par le pourcentage suivant : 1° pour l'année budgétaire 2020 : le pourcentage d'évolution entre le nombre de périodes de cours en termes d'inscriptions divisé par 12 de l'année scolaire 2018-2019 et le nombre de périodes de cours en termes d'inscriptions divisé par
+
+12 de l'année scolaire 2017-2018 de tous les centres d'éducation des adultes concernés ;
+
+2° pour l'année budgétaire 2021 : le pourcentage d'évolution entre le nombre d'unités d'études engagées dans les formations de graduat de l'année académique 2019-2020 dans les instituts supérieurs et le nombre de périodes de cours en termes d'inscriptions divisé par 12 de l'année scolaire 2018-2019 de tous les centres d'éducation des adultes concernés ;
+
+3° [<sup>5</sup> pour l'année budgétaire 2022 : le pourcentage d'évolution entre le nombre d'unités d'études engagées dans les formations de graduat de l'année académique 2020-2021 et le nombre d'unités d'études engagées de l'année académique 2019-2020 dans les instituts supérieurs multiplié par 8/12, et par le pourcentage d'évolution entre le nombre d'unités d'études engagées dans les formations de graduat de l'année académique 2020-2021 et le nombre d'unités d'études engagées de l'année académique 2019-2020 dans les instituts supérieurs, limité à 2 % et multiplié par 4/12 ;]<sup>5</sup>
+
+4° [<sup>5</sup> pour l'année budgétaire 2023 : le pourcentage d'évolution entre le nombre d'unités d'études engagées dans les formations de graduat de l'année académique 2021-2022 et le nombre d'unités d'études engagées de l'année académique 2020-2021 dans les instituts supérieurs, limité à 2% ;]<sup>5</sup>
+
+[<sup>5</sup> 5° pour l'année budgétaire 2024 : le pourcentage d'évolution entre le nombre d'unités d'études engagées dans les formations de graduat de l'année académique 2022-2023 et le nombre d'unités d'études engagées de l'année académique 2021-2022 dans les instituts supérieurs, limité à 2%.]<sup>5</sup>
+
+[<sup>5</sup> Pendant les années budgétaires 2020 et 2021, la croissance calculée conformément à l'alinéa 1er, est répartie entre les instituts supérieurs concernés sur la base de leur part dans la croissance du nombre de périodes de cours divisé par 12 respectivement le nombre d'unités d'études engagées.]<sup>5</sup>]<sup>4</sup>
+
+[<sup>5</sup> Pendant les années budgétaires 2022, 2023 et 2024, la croissance calculée conformément à l'alinéa 1er, est calculée par institut supérieur au budget de l'institut supérieur en question.]<sup>5</sup>
+
+§ 3. A partir de l'année budgétaire 2020, les moyens visés au paragraphe 1er sont indexés sur la base de la formule d'indexation prévue à l'article III.5, § 9.
+
+§ 4. A partir de l'année budgétaire 2022, les moyens calculés conformément aux paragraphes 1er, 2 et 3 sont réduits annuellement de 1/3. Les moyens libérés seront ajoutés au volet variable d'enseignement pour les formations de graduat VOWhbo, visées à l'article III.5.]<sup>1</sup>
+
+[<sup>2</sup> § 5. Dans les limites des budgets disponibles, le Gouvernement flamand peut transférer les moyens destinés à l'enseignement supérieur professionnel qui ne doivent plus être affectés au sein de l'éducation des adultes à partir de l'année scolaire 2019-2020, des crédits de traitement de l'éducation des adultes aux allocations de fonctionnement des instituts supérieurs proposant des formations de graduat. Le Gouvernement flamand définit le mécanisme d'attribution à cet effet.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 174, 010; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2018-12-21/04, art. 51, 009; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DCFL 2020-07-03/39, art. 159, 017; En vigueur : 01-01-2019&gt;
+
+(4)&lt;DCFL 2020-12-18/12, art. 35, 020; En vigueur : 01-01-2020&gt;
+
+(5)&lt;DCFL 2022-07-08/05, art. 17, 028; En vigueur : 01-01-2022&gt;
+
+**Art. III.42/1..**
+
+[<sup>1</sup> § 5. Dans les limites des budgets disponibles, le Gouvernement flamand peut transférer les moyens destinés à l'enseignement supérieur professionnel qui ne doivent plus être affectés au sein de l'éducation des adultes à partir de l'année scolaire 2019-2020, des crédits de traitement de l'éducation des adultes aux allocations de fonctionnement des instituts supérieurs proposant des formations de graduat. Le Gouvernement flamand définit le mécanisme d'attribution à cet effet.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-21/04, art. 51, 009; En vigueur : 01-01-2019&gt;
+
+**Art. III.42/2..**
+
+[<sup>1</sup> Pour un institut supérieur qui n'a pas repris une formation hbo5 d'un centre d'éducation des adultes, les dispositions suivantes s'appliquent jusqu'à l'année budgétaire 2024 si cette institution propose de nouvelles formations de graduat :
+
+1° si l'institut supérieur propose pour la première fois une formation de graduat dans l'année académique 2019-2020 :
+
+a) pour l'année budgétaire 2021, les moyens pour l'institut supérieur en question sont calculés en multipliant le nombre d'unités d'études engagées dans l'année académique 2019-2020 dans les formations de graduat dans cet institut supérieur par la somme des moyens de tous les instituts supérieurs pour l'année budgétaire 2021, conformément à l'article III.42/1, § 2, et en le divisant par la somme de toutes les unités d'études engagées dans les formations de graduat de l'année académique 2019-2020 de tous les instituts supérieurs, à l'exception des unités d'études engagées dans la nouvelle formation ;
+
+b) pour les exercices 2022, 2023 et 2024, les moyens visés au point a) sont cumulativement multipliés par :
+
+i) [<sup>2</sup> pour l'année budgétaire 2022 : le pourcentage d'évolution entre le nombre d'unités d'études engagées dans les formations de graduat de l'année académique 2020-2021 et le nombre d'unités d'études engagées de l'année académique 2019-2020 dans l'institut supérieur en question, multiplié par 8/12, et par le pourcentage d'évolution entre le nombre d'unités d'études engagées dans les formations de graduat de l'année académique 2020-2021 et le nombre d'unités d'études engagées de l'année académique 2019-2020 dans les instituts supérieurs, limité à 2 % et multiplié par 4/12 ;]<sup>2</sup>
+
+ii) pour l'année budgétaire 2023 : le pourcentage de l'évolution entre le nombre d'unités d'études engagées dans les formations de graduat de l'année académique 2021-2022 et le nombre d'unités d'études engagées de l'année académique 2020-2021 dans l'institut supérieur en question [<sup>2</sup> , limité à 2 %]<sup>2</sup>;
+
+iii) pour l'année budgétaire 2024 : le pourcentage de l'évolution entre le nombre d'unités d'études engagées dans les formations de graduat de l'année académique 2022-2023 et le nombre d'unités d'études engagées de l'année académique 2021-2022 dans l'institut supérieur en question [<sup>2</sup> , limité à 2 %]<sup>2</sup>;
+
+2° si l'institut supérieur propose pour la première fois une formation de graduat dans l'année académique 2020-2021 :
+
+a) pour l'année budgétaire 2022, les moyens pour l'institut supérieur en question sont calculés en multipliant le nombre d'unités d'études engagées dans l'année académique 2020-2021 dans les formations de graduat dans cet institut supérieur par la somme des moyens de tous les instituts supérieurs pour l'année budgétaire 2022, conformément à l'article III.42/1, § 2, et en le divisant par la somme de toutes les unités d'études engagées dans les formations de graduat de l'année académique 2020-2021 de tous les instituts supérieurs, à l'exception des unités d'études engagées dans la nouvelle formation ;
+
+b) pour l'année budgétaire 2023, les moyens visés au point a) sont multipliés par le pourcentage de l'évolution entre le nombre d'unités d'études engagées dans les formations de graduat de l'année académique 2021-2022 et le nombre d'unités d'études engagées de l'année académique 2020-2021 dans l'institut supérieur en question [<sup>2</sup> , limité à 2 %]<sup>2</sup>;
+
+c) pour l'année budgétaire 2024, les moyens visés au point a) sont multipliés par le pourcentage de l'évolution entre le nombre d'unités d'études engagées dans les formations de graduat de l'année académique 2022-2023 et le nombre d'unités d'études engagées de l'année académique 2021-2022 dans l'institut supérieur en question [<sup>2</sup> , limité à 2 %]<sup>2</sup>;
+
+3° si l'institut supérieur propose pour la première fois une formation de graduat dans l'année académique 2021-2022 :
+
+a) pour l'année budgétaire 2023, les moyens pour l'institut supérieur en question sont calculés en multipliant le nombre d'unités d'études engagées dans l'année académique 2021-2022 dans les formations de graduat dans cet institut supérieur par la somme des moyens de tous les instituts supérieurs pour l'année budgétaire 2023, conformément à l'article III.42/1, § 2, et en le divisant par la somme de toutes les unités d'études engagées dans les formations de graduat de l'année académique 2021-2022 dans les instituts supérieurs, conformément à l'article II.42/1, § 2, à l'exception des unités d'études engagées dans la nouvelle formation ;
+
+b) pour l'année budgétaire 2024, les moyens visés au point a) sont multipliés par le pourcentage de l'évolution entre le nombre d'unités d'études engagées dans les formations de graduat de l'année académique 2022-2023 et le nombre d'unités d'études engagées de l'année académique 2021-2022 dans l'institut supérieur en question [<sup>2</sup> , limité à 2 %]<sup>2</sup>;
+
+4° lorsque l'institut supérieur propose pour la première fois une formation de graduat dans l'année académique 2022-2023, les moyens pour l'institut supérieur en question sont calculés pour l'année budgétaire 2024 en multipliant le nombre d'unités d'études engagées dans l'année académique 2022-2023 dans les formations de graduat dans l'institut supérieur par la somme des moyens de tous les instituts supérieurs pour l'année budgétaire 2024, conformément à l'article III.42/1, § 2, et en le divisant par la somme de toutes les unités d'études engagées dans les formations de graduat de l'année académique 2022-2023 dans les instituts supérieurs, conformément à l'article II.42/1, § 2, à l'exception des unités d'études engagées dans la nouvelle formation.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+L'article III.42/1, §§ 3 et 4, s'appliquent par analogie aux moyens générés conformément au présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-01/26, art. 39, 012; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2022-07-08/05, art. 18, 028; En vigueur : 01-09-2022&gt;
+
+**Art. III.45**
+
+[<sup>1</sup> Dans l'article III.45 du même code, modifié par les décrets des 19 décembre 2014 et 23 décembre 2016, dans le paragraphe 2, le tableau est remplacé par ce qui suit :
+
+"
+
+<table><tr><td>année budgétaire </td><td>montant (en millions d'euros) </td></tr><tr><td>2013 </td><td>0,6 </td></tr><tr><td>2014 </td><td>1,1 </td></tr><tr><td>2015 </td><td>1,5 </td></tr><tr><td>2016 </td><td>2,0 </td></tr><tr><td>2017 </td><td>2,5 </td></tr><tr><td>2018 </td><td>3,0 </td></tr><tr><td>2019 </td><td>3,4 </td></tr><tr><td>2020 </td><td>3,9 </td></tr><tr><td>2021 </td><td>3,9 </td></tr><tr><td>2022 </td><td>4,5 </td></tr><tr><td>2023 </td><td>4,8 </td></tr><tr><td>à partir de 2024 </td><td>5,2</td></tr></table>
+
+]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-12-18/12, art. 31, 020; En vigueur : 01-01-2021&gt;
+
+**Art. III.46**
+
+§ 1er. Le montant des crédits d'investissement pour les instituts supérieurs, exprimé en euros, est fixé comme suit :
+
+<table><tr><td>Année budgétaire </td><td>Instituts supérieurs libres subventionnés </td><td>Instituts supérieurs de droit public </td><td>Total</td></tr><tr><td>2018 </td><td>13.451.707 </td><td>9.480.206 </td><td>22.931.912</td></tr><tr><td>2019 </td><td>13.146.999 </td><td>9.189.141 </td><td>22.336.140</td></tr><tr><td>2020 </td><td>12.842.289 </td><td>8.898.078 </td><td>21.740.369</td></tr><tr><td>2021 </td><td>12.537.581 </td><td>8.607.015 </td><td>21.144.596</td></tr><tr><td>2022 </td><td>12.232.873 </td><td>8.315.952 </td><td>20.548.825</td></tr><tr><td>2023 </td><td>11.928.164 </td><td>8.024.889 </td><td>19.953.053</td></tr><tr><td>A partir de 2024 </td><td>11.623.456 </td><td>7.733.826 </td><td>19.357.281</td></tr></table>
+
+§ 2. Les crédits d'investissement tels que fixés au paragraphe 1er sont répartis comme suit entre les instituts supérieurs :
+
+1° les montants suivants sur la base des pourcentages déterminés par institut supérieur dans le paragraphe 3 :
+
+<table><tr><td>Année budgétaire </td><td>Instituts supérieurs libres subventionnés </td><td>Instituts supérieurs de droit public </td><td>Total</td></tr><tr><td>2018 </td><td>8.071.024 </td><td>5.688.124 </td><td>13.759.148</td></tr><tr><td>2019 </td><td>6.573.500 </td><td>4.594.570 </td><td>11.168.070</td></tr><tr><td>2020 </td><td>5.136.916 </td><td>3.559.231 </td><td>8.696.148</td></tr><tr><td>2021 </td><td>3.761.274 </td><td>2.582.104 </td><td>6.343.379</td></tr><tr><td>2022 </td><td>2.446.575 </td><td>1.663.190 </td><td>4.109.765</td></tr><tr><td>2023 </td><td>1.192.816 </td><td>802.489 </td><td>1.995.305</td></tr><tr><td>A partir de 2024 </td><td>0 </td><td>0 </td><td>0</td></tr></table>
+
+2° les montants suivants sur la base du mécanisme de répartition fixé au paragraphe 4 :
+
+<table><tr><td>Année budgétaire </td><td>Instituts supérieurs libres subventionnés </td><td>Instituts supérieurs de droit public </td><td>Total</td></tr><tr><td>2018 </td><td>5.380.683 </td><td>3.792.082 </td><td>9.172.765</td></tr><tr><td>2019 </td><td>6.573.499 </td><td>4.594.571 </td><td>11.168.070</td></tr><tr><td>2020 </td><td>7.705.374 </td><td>5.338.847 </td><td>13.044.221</td></tr><tr><td>2021 </td><td>8.776.307 </td><td>6.024.911 </td><td>14.801.218</td></tr><tr><td>2022 </td><td>9.786.298 </td><td>6.652.762 </td><td>16.439.060</td></tr><tr><td>2023 </td><td>10.735.348 </td><td>7.222.399 </td><td>17.957.747</td></tr><tr><td>A partir de 2024 </td><td>11.623.456 </td><td>7.733.826 </td><td>19.357.281</td></tr></table>
+
+§ 3. Les montants visés au paragraphe 2, 1°, sont répartis entre les instituts supérieurs en appliquant les pourcentages suivants :
+
+<table><tr><td>Instituts supérieurs libres subventionnés</td><td> </td></tr><tr><td>Arteveldehogeschool</td><td>10,08 %</td></tr><tr><td>LUCA School of Arts</td><td>9,75 %</td></tr><tr><td>Karel de Grote Hogeschool - Katholieke Hogeschool Antwerpen</td><td>10,85 %</td></tr><tr><td>Katholieke Hogeschool Vives Noord</td><td>4,17 %</td></tr><tr><td>Thomas More Kempen</td><td>9.36 %</td></tr><tr><td>UC Leuven</td><td>10,35 %</td></tr><tr><td>UC Limburg</td><td>6,51 %</td></tr><tr><td>Thomas More Mechelen Antwerpen</td><td>12,01 %</td></tr><tr><td>Katholieke Hogeschool Vives Zuid</td><td>8,84 %</td></tr><tr><td>Odisee</td><td>18,07 %</td></tr><tr><td>Total Instituts supérieurs libres subventionnés</td><td>100,00 %</td></tr><tr><td>Instituts supérieurs de droit public</td><td> </td></tr><tr><td>Erasmushogeschool Brussel</td><td>10,73 %</td></tr><tr><td>Artesis Plantijn Hogeschool Antwerpen</td><td>26,04 %</td></tr><tr><td>Hogeschool Gent</td><td>37,15 %</td></tr><tr><td>Hogeschool West-Vlaanderen</td><td>11,55 %</td></tr><tr><td>Hogeschool PXL</td><td>14,54 %</td></tr><tr><td>Total Instituts supérieurs de droit public</td><td>100,00 %</td></tr></table>
+
+§ 4. La répartition et l'attribution par institut supérieur des crédits d'investissement, visés à l'article 2, 2°, se fait dans les enveloppes respectives des instituts supérieurs libres subventionnés et des instituts supérieurs de droit public sur la base des critères suivants :
+
+1° pour toutes les formations professionnelles de bachelor, à l'exception de l'enseignement supérieur artistique : le nombre d'unités d'études engagées par des étudiants sous contrat de diplôme inscrits dans une formation professionnelle de bachelor ou une formation de bachelor après bachelor ;
+
+2° pour l'enseignement supérieur artistique : le nombre d'unités d'études engagées par des étudiants sous contrat de diplôme inscrits dans une formation professionnelle de bachelor, une formation de bachelor après bachelor, une formation académique de bachelor, une formation initiale de master, un programme de transition ou un programme préparatoire préalable à une formation initiale de master.
+
+Ces unités d'études engagées sont pondérées par discipline ou cluster de disciplines selon les pondérations suivantes :
+
+<table><tr><td>Handelswetenschappen en bedrijfskunde (Sciences commerciales et gestion d'entreprise) </td><td>1</td></tr><tr><td>Sociaal-agogisch werk (Travail socio-éducatif) </td><td>1</td></tr><tr><td>Gezondheidszorg (Soins de santé) </td><td>1</td></tr><tr><td>Gezondheidszorg - Onderwijs (Soins de santé - Enseignement) </td><td>1</td></tr><tr><td>Gezondheidszorg - Onderwijs - Sociaal-agogisch werk (Soins de santé - Enseignement - Travail socio-éducatif) </td><td>1</td></tr><tr><td>Onderwijs (Enseignement) </td><td>1</td></tr><tr><td>Industriële wetenschappen en technologie (Sciences industrielles et technologie) </td><td>2,5</td></tr><tr><td>Nautische wetenschappen (Sciences nautiques) </td><td>2,5</td></tr><tr><td>Architectuur (Architecture) </td><td>2,5</td></tr><tr><td>Architectuur - Industriële wetenschappen en technologie (Architecture - Sciences industrielles et technologie) </td><td>2,5</td></tr><tr><td>Biotechniek (Biotechnique) </td><td>2,5</td></tr><tr><td>Audiovisuele en beeldende kunst (Arts audiovisuels et arts plastiques) </td><td>2,5</td></tr><tr><td>Muziek en podiumkunsten (Musique et arts de la scène) </td><td>2,5</td></tr><tr><td>Toegepaste taalkunde (Linguistique appliquée) </td><td>2,5</td></tr><tr><td>Productontwikkeling (Conception de produits) </td><td>2,5</td></tr></table>
+
+Le nombre d'unités d'études engagées pondérées par institut supérieur est égal à la somme des produits du nombre d'unités d'études engagées dans chaque discipline ou cluster de disciplines d'une part et la pondération fixée correspondante.
+
+Pour l'établissement du nombre d'unités d'études engagées pondérées pour l'année budgétaire t est pris en compte le nombre moyen d'unités d'études engagées sur les années académiques t-7/t-6 à t-3/t-2.
+
+Par dérogation aux pondérations précitées, une pondération de 2,5 est appliquée aux formations " Biomedische laboratoriumtechnologie " et " Voedings- en dieetkunde " de la discipline " Gezondheidszorg ". ".
+
+§ 5. Les montants visés aux paragraphes 1er et 2, au niveau des prix 2017, sont adaptés annuellement comme suit : le montant est multiplié par l'évolution pondérée de la moyenne annuelle de l'indice de l'Association belge d'Experts (indice ABEX) des 5 années civiles pénultièmes qui précèdent l'année budgétaire, exprimée en pourcentage.
+
+§ 6. A l'occasion d'éventuelles fusions d'instituts supérieurs, les pourcentages tels que fixés au paragraphe 3 des instituts supérieurs fusionnants sont cumulés et attribués au nouvel institut supérieur fusionné.
+
+[<sup>1</sup> § 7. A partir de l'année budgétaire 2019, une allocation d'investissement de 9.000.000 euros est accordée aux instituts supérieurs.
+
+La répartition par institut supérieur se fait sur la base du nombre d'étudiants uniques qui se sont inscrits le 31 octobre de l'année académique t-1/t, à une formation de graduat dans l'institut supérieur concerné.
+
+Le montant visé à l'alinéa 1er, au niveau des prix 2019, est adapté annuellement conformément au paragraphe 5 du présent article.
+
+§ 8. Par dérogation au paragraphe 7, la répartition du montant visé au paragraphe 7, alinéa 1er, se fait pour l'année budgétaire 2019 sur la base du montant que chaque institut supérieur reçoit selon les dispositions du paragraphe 1er de l'article III.42/1 du présent décret.
+
+§ 9. A partir de l'année budgétaire 2019, un montant de 1.000.000 euros est ajouté pour 60 % à l'enveloppe des instituts supérieurs libres subventionnés, et pour 40 % à l'enveloppe des instituts supérieurs de droit public, visés au paragraphe 2, 2° , du présent article.
+
+Le montant visé à l'alinéa 1er, au niveau des prix 2019, est adapté annuellement conformément au paragraphe 5 du présent article.]<sup>1</sup>
+
+[<sup>2</sup> § 10. A partir de l'année budgétaire 2020, un montant de 797.000 euros est ajouté pour 60% à l'enveloppe des instituts supérieurs libres subventionnés, et pour 40% à l'enveloppe des instituts supérieurs de droit public, visés au paragraphe 2, 2°, du présent article.
+
+Le montant visé à l'alinéa 1er, au niveau des prix 2020, est adapté annuellement conformément au paragraphe 5 du présent article.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-21/04, art. 52, 009; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2020-06-26/29, art. 31, 016; En vigueur : 27-07-2020&gt;
+
+**Art. III.46/1**
+
+&lt;Abrogé par XX XX-XX-XX/XX, art. VI.26, 004; En vigueur : XX-XX-XXXX&gt;
+
+**Art. III.48.**
+
+[<sup>1</sup> ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-11-23/33, art. 79, 039; En vigueur : 01-09-2023&gt;
+
+**Art. III.50**
+
+&lt;Abrogé par DCFL 2020-06-26/29, art. 32, 016; En vigueur : 27-07-2020&gt;
+
+**Art. III.55**
+
+[<sup>1</sup> § 6. [<sup>2</sup> Par dérogation au paragraphe 3, le montant de l'allocation de fonctionnement d'un institut supérieur dans l'année budgétaire 2020 et 2021 sera égal au montant de l'allocation de fonctionnement, indexé conformément à l'article III.5,
+
+§ 9, reçu par l'institut supérieur dans l'année budgétaire 2019. A partir de l'année budgétaire 2022, ces moyens seront ajoutés au volet variable d'enseignement pour les formations de graduat VOWhbo, visées à l'article III.5.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 175, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-12-18/12, art. 36, 020; En vigueur : 01-01-2020&gt;
+
+**Art. III.58**
+
+[<sup>1</sup> § 7. Outre les montants visés aux paragraphes 1er, 2, 5 et 6, à partir de l'année budgétaire 2019, les universités suivantes reçoivent l'allocation supplémentaire suivante, exprimée en euros, à titre d'intervention dans les frais visés aux paragraphes 1er et 2 :
+
+a) Katholieke Universiteit Leuven 714.551,84
+
+b) Vrije Universiteit Brussel236.277,78
+
+c) Universiteit Antwerpen40.159,42
+
+d) Universiteit Hasselt9.010,96.
+
+A partir de l'année budgétaire 2020, ces montants sont adaptés à l'évolution de l'indice santé.]<sup>1</sup>
+
+[<sup>2</sup> § 8. Outre les montants visés aux paragraphes 1er, 2, 5, 6 et 7, à partir de l'année budgétaire 2020, les universités suivantes reçoivent l'allocation supplémentaire suivante, exprimée en euros, à titre d'intervention dans les frais visés aux paragraphes 1er et 2 :
+
+<table><tr><td>a) Katholieke Universiteit Leuven </td><td>714.551,84</td></tr><tr><td>b) Vrije Universiteit Brussel </td><td>236.277,78</td></tr><tr><td>c) Universiteit Antwerpen </td><td>40.159,42</td></tr><tr><td>d) Universiteit Hasselt </td><td>9.010,96</td></tr></table>
+
+A partir de l'année budgétaire 2021, ces montants sont adaptés à l'évolution de l'indice santé.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-21/04, art. 53, 009; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2019-12-20/13, art. 52, 014; En vigueur : 01-01-2020&gt;
+
+**Art. III.64**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 999; En vigueur : 08-09-2014&gt;
+
+**Art. III.67**
+
+§ 1er. L'allocation sociale pour les instituts supérieurs et universités s'élève au total respectivement à 24.455.616,52 euros et 22.142.976,89 euros au niveau des prix 2015. Le montant de la subvention sociale des universités est majoré de 1.000.000 euros à partir de 2016.
+
+Ces montants sont réduits de 2 % à partir de l'année budgétaire 2016.
+
+Dans le cadre de l'article II.117, un montant de 400.000 euros s'ajoute au montant de l'allocation sociale dont les universités sont bénéficiaires et un montant de 934.000 euros au montant réservé aux instituts supérieurs dans l'année budgétaire 2017. A partir de l'année budgétaire 2018, ces montants sont majorés respectivement de 1.200.000 euros, à ajouter annuellement au montant de l'allocation sociale des universités et de 2.800.000 euros, à ajouter annuellement au montant de l'allocation sociale des instituts supérieurs.
+
+[<sup>1</sup> Dans l'année budgétaire 2019 un montant de 163.719 euros s'ajoute au montant de l'allocation sociale des universités et un montant de 803.211 euros au montant de l'allocation sociale des instituts supérieurs. A partir de l'année budgétaire 2020, ces montants sont majorés respectivement de 491.157 euros, à ajouter annuellement au montant de l'allocation sociale des universités et de 2.409.632 euros, à ajouter annuellement au montant de l'allocation sociale des instituts supérieurs.
+
+[<sup>2</sup> A partir de l'année budgétaire 2024, un montant de 2,8 millions d'euros est ajouté au montant de l'allocation sociale des universités et un montant de 3,2 millions d'euros au montant de l'allocation sociale des hautes écoles.]<sup>2</sup>]<sup>1</sup>
+
+§ 2. Dans les limites des crédits budgétaires annuels, les montants calculés conformément au présent article sont indexés annuellement au moyen de la formule suivante : I = 0,50 x (L1/L0) + 0,50 x (Cl/CO), où
+
+1° I est la formule d'indexation ;
+
+2° L1/L0 est le rapport entre l'indice estimé du coût salarial unitaire à la fin de l'année budgétaire n en question et l'indice du coût salarial unitaire à la fin de l'année budgétaire n-1 ;
+
+3° CI/C0 est le rapport entre l'indice estimé des prix à la consommation à la fin de l'année budgétaire n en question et l'indice des prix à la consommation à la fin de l'année budgétaire n-1.
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 176, 010; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2023-12-22/12, art. 67, 032; En vigueur : 01-01-2024&gt;
+
+**Art. III.68**
+
+[<sup>1</sup> Les unités d'études engagées dans un institut supérieur pour l'année budgétaire t, visées au présent article, sont la moyenne des unités d'études sur les années académiques t-7/t-6 jusqu'à t-3/t-2 incluse pour lesquelles les étudiants sous contrat de diplôme se sont inscrits à une formation de graduat ou à une formation de bachelor ou de master initiaux dans l'institut supérieur concerné.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 177, 010; En vigueur : 01-01-2019&gt;
+
+**Art. III.69**
+
+&lt;Abrogé par DCFL 2018-05-04/28, art. 178, 010; En vigueur : 01-09-2019&gt;
+
+**Art. III.70**
+
+§ 1er. Le montant de l'allocation sociale totale pour les universités, visé à l'article III.67, est réparti entre les universités sur la base de la part de chaque université dans le total des unités d'études engagées de tous les universités.
+
+L'allocation sociale qu'une université reçoit dans l'année budgétaire t ne peut toutefois être inférieure à 98 % de l'allocation sociale lui ayant été accordée dans l'année budgétaire t-1.
+
+A cet effet, le mode de calcul suivant est utilisé :
+
+1° phase 1 : pour chaque université, le montant est calculé sur la base de sa part dans le total des unités d'études engagées ;
+
+2° phase 2 : pour chaque université, 98 % du montant que l'université a reçu comme allocation sociale dans l'année budgétaire t-1, est retenu comme point de référence dans l'année budgétaire t ;
+
+3° phase 3 : si pour une université, le montant calculé dans la phase 1 est inférieur au montant calculé dans la phase 2, cette université reçoit comme allocation sociale le montant ayant été retenu comme point de référence conformément à la phase 2 ;
+
+4° phase 4 : si pour une université, le montant calculé dans la phase 1 est supérieur au montant calculé dans la phase 2, cette université reçoit comme allocation sociale le montant calculé dans la phase 2, majoré de la part en pourcentage de l'institut dans la différence positive entre la somme des montants calculés conformément à la phase 1 et la somme des montants calculés conformément à la phase 2.
+
+§ 2. Par dérogation au paragraphe 1er, le montant additionnel de 1.000.000 euros pour l'année budgétaire 2016, visé à l'article III.67, § 1er, n'est pas pris en compte dans les calculs. Ce montant de 1.000.000 euros est réparti au cours de l'année budgétaire 2016 sur la base de la part de chaque université dans le total des unités d'études engagées de tous les universités.
+
+Les universités ont reçu au cours de l'année budgétaire 2015 les montants suivants comme allocation sociale, exprimée en euros :
+
+l'Universiteit Gent : . . . . . 6.536.766,28
+
+l'Universiteit Hasselt : . . . . . 1.024.879,72
+
+l'Universiteit Antwerpen : . . . . . 2.988.564,34
+
+la Katholieke Universiteit Leuven : . . . . . 8.319.535,83
+
+la Vrije Universiteit Brussel : . . . . . 2.157.495,12.
+
+Ces montants servent de base pour les calculs visés au paragraphe 1er.
+
+§ 3. Les unités d'études engagées, visées au présent article, sont les unités d'études calculées conformément à l'article III.7 du présent Code, sans préjudice de l'application de l'article III.30, § 1er.
+
+**Art. III.70/1.**
+
+[<sup>1</sup> Afin de renforcer l'offre de services à disposition des étudiants, le Gouvernement flamand peut, dans les limites du budget de la Communauté flamande, accorder aux hautes écoles et aux universités une allocation supplémentaire, dans les cas suivants :
+
+1° en cas d'augmentation imprévue de la demande d'aide financière de la part des étudiants qui entraîne manifestement un déficit de l'allocation sociale, figurant aux articles III.67 et III.68 ;
+
+2° en cas d'augmentation imprévue des coûts d'exercice des activités dans l'un des domaines mentionnés à l'article II.348, par rapport à l'allocation accordée, figurant aux articles III.67 et III.68.
+
+Le montant de l'allocation supplémentaire par haute école ou université est calculé de la manière suivante :
+
+1° la part de chaque haute école ou université dans l'allocation supplémentaire est calculée sur la base de la part de chaque haute école et université dans le nombre total de crédits utilisés par toutes les hautes écoles et universités combinées ;
+
+2° l'allocation supplémentaire pour une haute école ou une université ne peut jamais dépasser :
+
+a) le montant calculé conformément au point 1° ; et
+
+b) les déficits démontrés et l'augmentation démontrée des coûts, figurant à l'alinéa 1er.
+
+Les crédits utilisés, visés à l'alinéa 2, 1°, dans une haute école ou université pour l'année budgétaire t, sont la moyenne des crédits sur les années académiques t-7/t-6 jusqu'à t-3/t-2 pour lesquels les étudiants sous contrat de diplôme se sont inscrits à une formation de graduat ou à une formation de bachelor ou de master initiaux dans l'établissement concerné.
+
+Le Gouvernement flamand fixe les modalités selon lesquelles les universités et les hautes écoles peuvent démontrer leurs déficits ou l'augmentation de leurs coûts, figurant à l'alinéa 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-30/07, art. 37, 038; En vigueur : 08-09-2023&gt;
+
+**Art. III.71**
+
+&lt;Abrogé par XX XX-XX-XX/XX, art. 2, 004; En vigueur : XX-XX-XXXX&gt;
+
+**Art. III.71/1**
+
+&lt;Abrogé par XX XX-XX-XX/XX, art. 3, 004; En vigueur : XX-XX-XXXX&gt;
+
+**Art. III.75**
+
+[<sup>1</sup> (Voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-01/26, art. 40, 012; En vigueur : 01-01-2020&gt;
+
+**Art. III.78**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 999; En vigueur : 08-09-2014&gt;
+
+**Art. III.79**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 999; En vigueur : 08-09-2014&gt;
+
+**Art. III.80**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 999; En vigueur : 08-09-2014&gt;
+
+**Art. III.81**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 999; En vigueur : 08-09-2014&gt;
+
+**Art. III.82**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 999; En vigueur : 08-09-2014&gt;
+
+**Art. III.83**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 999; En vigueur : 08-09-2014&gt;
+
+**Art. III.84**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 999; En vigueur : 08-09-2014&gt;
+
+#### Chapitre 7.
+
+&lt;Abrogé par DCFL 2014-03-21/29, art. 32, 999; En vigueur : 01-10-2014&gt;
+
+**Art. III.85**
+
+&lt;Abrogé par DCFL 2014-03-21/29, art. 32, 999; En vigueur : 01-10-2014&gt;
+
+**Art. III.86**
+
+&lt;Abrogé par DCFL 2014-03-21/29, art. 32, 999; En vigueur : 01-10-2014&gt;
+
+**Art. III.87**
+
+&lt;Abrogé par DCFL 2014-03-21/29, art. 32, 999; En vigueur : 01-10-2014&gt;
+
+**Art. III.88**
+
+&lt;Abrogé par DCFL 2014-03-21/29, art. 32, 999; En vigueur : 01-10-2014&gt;
+
+**Art. III.89**
+
+&lt;Abrogé par DCFL 2014-03-21/29, art. 32, 999; En vigueur : 01-10-2014&gt;
+
+**Art. III.90**
+
+&lt;Abrogé par DCFL 2014-03-21/29, art. 32, 999; En vigueur : 01-10-2014&gt;
+
+**Art. III.91**
+
+&lt;Abrogé par DCFL 2014-03-21/29, art. 32, 999; En vigueur : 01-10-2014&gt;
+
+**Art. III.92**
+
+&lt;Abrogé par DCFL 2014-03-21/29, art. 32, 999; En vigueur : 01-10-2014&gt;
+
+**Art. III.93**
+
+&lt;Abrogé par DCFL 2014-03-21/29, art. 32, 999; En vigueur : 01-10-2014&gt;
+
+**Art. III.94**
+
+&lt;Abrogé par DCFL 2014-03-21/29, art. 32, 999; En vigueur : 01-10-2014&gt;
+
+**Art. III.95**
+
+&lt;Abrogé par DCFL 2014-03-21/29, art. 32, 999; En vigueur : 01-10-2014&gt;
+
+**Art. III.96**
+
+&lt;Abrogé par DCFL 2014-03-21/29, art. 32, 999; En vigueur : 01-10-2014&gt;
+
+**Art. III.98/0**
+
+[<sup>1</sup> A partir de l'exercice budgétaire 2024, le Gouvernement flamand peut conclure un contrat de gestion d'une durée de cinq ans avec un partenaire sélectionné sur appel pour le suivi et la promotion du bien-être des étudiants, dans lequel, à tout le moins, figurent et sont convenus les éléments suivants :
+
+a) un budget et un plan stratégique pour la durée du contrat de gestion ;
+
+b) la quantité et la qualité des prestations à fournir ;
+
+c) les modalités de suivi et de rapport annuels.
+
+Le soutien financier annuel convenu dans le contrat de gestion s'élève à 300 000 euros au maximum.
+
+Le Gouvernement flamand peut revoir le montant de la subvention de base en fonction du degré de réalisation des objectifs convenus dans le contrat de gestion.
+
+Le Gouvernement flamand peut retenir une partie du soutien financier et, le cas échéant, la récupérer s'il constate que le partenaire ne respecte pas le contrat de gestion.
+
+A partir de l'année budgétaire 2024, le montant visé à l'alinéa 2, est indexé au moyen de la formule d'indexation visée à l'article III.5, § 9.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-12-22/12, art. 73, 032; En vigueur : 01-01-2024&gt;
+
+#### Chapitre 10. [<sup>1</sup> Recherche scientifique appliquée à la gestion et à la pratique de l'enseignement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/33, art. 220, 022; En vigueur : 01-09-2021&gt;
+
+**Art. III.98/8**
+
+[<sup>1</sup> Le Gouvernement flamand subventionne les établissements d'enseignement supérieur pour la recherche scientifique appliquée à la gestion et à la pratique de l'enseignement.
+
+Les subventions pour la recherche scientifique appliquée à la gestion et à la pratique de l'enseignement sont octroyées dans la limite des crédits budgétaires disponibles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/33, art. 221, 022; En vigueur : 01-09-2021&gt;
+
+**Art. III.98/9**
+
+[<sup>1</sup> § 1er. Le Gouvernement flamand détermine la procédure sur la base de laquelle les établissements d'enseignement supérieur peuvent soumettre des propositions et définit les critères sur la base desquels les propositions sont évaluées et sélectionnées. Le Gouvernement flamand garantit l'indépendance du mécanisme de sélection et du classement des projets sélectionnés.
+
+§ 2. Les critères d'évaluation pour l'attribution des subventions tiennent compte, entre autres, de la qualité, de l'expertise des auteurs et du prix.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/33, art. 222, 022; En vigueur : 01-09-2021&gt;
+
+**Art. III.98/10**
+
+[<sup>1</sup> Le Gouvernement flamand réglemente la manière de suivre l'avancement des recherches et les modalités de diffusion et d'utilisation des résultats des recherches.
+
+Le Gouvernement flamand peut arrêter des règles complémentaires relatives au subventionnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/33, art. 223, 022; En vigueur : 01-09-2021&gt;
+
+**Art. III.100**
+
+&lt;Abrogé par DCFL 2019-12-13/05, art. 6, 015; En vigueur : 19-01-2020&gt;
+
+**Art. III.102**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 1000; En vigueur : 08-09-2014&gt;
+
+**Art. III.103**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 999; En vigueur : 08-09-2014&gt;
+
+**Art. III.104**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 999; En vigueur : 08-09-2014&gt;
+
+**Art. III.105**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 999; En vigueur : 08-09-2014&gt;
+
+**Art. III.106**
+
+(voir version néerlandaise)
+
+**Art. III.107**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 999; En vigueur : 08-09-2014&gt;
+
+**Art. III.108**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 999; En vigueur : 08-09-2014&gt;
+
+**Art. III.109**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 999; En vigueur : 08-09-2014&gt;
+
+**Art. III.110**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 999; En vigueur : 08-09-2014&gt;
+
+**Art. III.111**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 999; En vigueur : 08-09-2014&gt;
+
+**Art. III.112**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 999; En vigueur : 08-09-2014&gt;
+
+**Art. III.113**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 123, 999; En vigueur : 08-09-2014&gt;
+
+#### Chapitre 3. [<sup>1</sup> Evangelische Theologische Faculteit et Faculteit voor Protestantse Theologie en Religiestudies]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 41, 012; En vigueur : 01-10-2018&gt;
+
+**Art. III.114**
+
+§ 1.(voir version néerlandaise)[<sup>3</sup> Evangelische Theologische Faculteit, Louvain]<sup>3</sup>
+
+§ 2.[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>[<sup>3</sup> Evangelische Theologische Faculteit, Louvain]<sup>3</sup>.
+
+§ 3.(voir version néerlandaise)[<sup>3</sup> Evangelische Theologische Faculteit, Louvain]<sup>3</sup>
+
+§ 4.(voir version néerlandaise)
+
+§ 5.(voir version néerlandaise)[<sup>3</sup> Evangelische Theologische Faculteit, Louvain]<sup>3</sup>
+
+§ 6.(voir version néerlandaise)
+
+§ 7.(voir version néerlandaise)[<sup>3</sup> Evangelische Theologische Faculteit, Louvain ]<sup>3</sup>
+
+[<sup>2</sup> (voir version néerlandaise)]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 42,1°, 012; En vigueur : 01-10-2018&gt;
+
+(2)&lt;DCFL 2019-03-01/26, art. 42,2°, 012; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2024-04-19/55, art. 140, 041; En vigueur : 01-09-2024&gt;
+
+#### Chapitre 4. (voir version néerlandaise)
+
+**Art. III.115**
+
+(voir version néerlandaise)
+
+**Art. III.116**
+
+(voir version néerlandaise)
+
+**Art. III.117**
+
+(voir version néerlandaise)
+
+**Art. III.118**
+
+(voir version néerlandaise)
+
+§ 10. [<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>2</sup> § 11. [<sup>3</sup> ...]<sup>3</sup>.
+
+[<sup>3</sup> ...]<sup>3</sup>.
+
+A partir de l'année budgétaire 2023, le montant alloué à l'Institut de Médecine Tropicale, calculé conformément au présent article, est majoré de 46 600 euros.
+
+A partir de l'année budgétaire 2024, les montants visés au présent paragraphe, sont indexés au moyen de la formule d'indexation visée à l'article III.5, § 9.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2019-12-20/13, art. 53, 014; En vigueur : 01-01-2020&gt;
+
+(2)&lt;DCFL 2022-12-16/10, art. 88, 029; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2025-12-19/56, art. 103, 045; En vigueur : 01-01-2026&gt;
+
+#### Chapitre 5. (voir version néerlandaise)
+
+**Art. III.119**
+
+[<sup>6</sup> § 1er. Le Gouvernement flamand peut participer, sous forme d'une allocation annuelle, au financement des instituts supérieurs des beaux-arts [<sup>8</sup> ]<sup>8</sup>.
+
+[<sup>8</sup> ...]<sup>8</sup>
+
+L'allocation pour " Orpheus Instituut " est établie à 757 000 euros à partir de l'année budgétaire 2022.
+
+L'allocation pour l'IOA (International Opera Academy) est établie à 576 000 euros à partir de l'année budgétaire 2022.
+
+L'allocation pour le HISK (Institut supérieur des Beaux-Arts) est établie à 1 000 000 euros à partir de l'année budgétaire 2022.
+
+L'allocation pour la PoPok (Posthogeschool voor Podiumkunsten) est établie à 461 000 euros à partir de l'année budgétaire 2022.
+
+A partir de l'année budgétaire 2022, les montants visés au présent paragraphe sont indexés annuellement, dans les limites du budget de la Communauté flamande, à l'aide de la formule d'indexation visée à l'article III.5, § 9.]<sup>6</sup>
+
+[<sup>7</sup> Il est alloué à PoPoK pour l'année budgétaire 2023 un budget supplémentaire de transition de 60 000 euros pour un coordinateur de transition et de recherche ainsi que 25 000 euros de moyens de fonctionnement afin de poursuivre les discussions et les négociations concernant les collaborations structurelles, substantielles et financières, et de perpétuer, parallèlement à cette transition, les programmes des étudiants actuels. ]<sup>7</sup>
+
+§ 2. (voir la version néerlandaise pour l'article complet)
+
+[<sup>8</sup> ...]<sup>8</sup>
+
+§ 3.(voir la version néerlandaise pour l'article complet)...[<sup>8</sup> ...]<sup>8</sup>
+
+1°(voir la version néerlandaise)[<sup>8</sup> ...]<sup>8</sup>
+
+2°(voir la version néerlandaise)...[<sup>8</sup> ...]<sup>8</sup>
+
+§ 3/1 (voir la version néerlandaise)...[<sup>8</sup> ...]<sup>8</sup>
+
+§ 4.(voir la version néerlandaise)...[<sup>8</sup> ...]<sup>8</sup>
+
+§ 5.(voir la version néerlandaise)
+
+§ 6. [<sup>6</sup> ...]<sup>6</sup>
+
+[<sup>2</sup> § 7. [<sup>6</sup> ...]<sup>6</sup>]<sup>2</sup>
+
+[<sup>3</sup> § 8. [<sup>6</sup> ...]<sup>6</sup>]<sup>4</sup>
+
+[<sup>5</sup> § 9. [<sup>6</sup> ...]<sup>6</sup>]<sup>5</sup>
+
+(Modifié par : DCFL 2018-07-06/20, art. 23, 005; En vigueur : 01-01-2018)
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 43, 012; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2019-12-20/13, art. 54, 014; En vigueur : 01-01-2020&gt;
+
+(3)&lt;DCFL 2020-12-18/12, art. 6, 020; En vigueur : 01-09-2021&gt;
+
+(4)&lt;DCFL 2021-07-09/23, art. 30, 018; En vigueur : 01-01-2021&gt;
+
+(5)&lt;DCFL 2021-12-23/05, art. 68, 023; En vigueur : 01-01-2022&gt;
+
+(6)&lt;DCFL 2022-07-08/05, art. 19, 028; En vigueur : 01-01-2022&gt;
+
+(7)&lt;DCFL 2023-06-30/07, art. 15, 038; En vigueur : 01-06-2023&gt;
+
+(8)&lt;DCFL 2024-04-19/55, art. 156, 041; En vigueur : 01-09-2024&gt;
+
+**Art. III.119/1.**
+
+[<sup>1</sup>§ 1er. Le Gouvernement flamand peut participer, sous forme d'une allocation annuelle, au financement de Performing Arts Research and Training Studios (P.A.R.T.S.).
+
+L'allocation pour Performing Arts Research and Training Studios (P.A.R.T.S.) est établie à 1.446.413 euros à partir de l'année budgétaire 2024.
+
+Le montant visé à l'alinéa 2 est indexé, dans les limites du budget de la Communauté flamande, à l'aide de la formule d'indexation visée à l'article III.5, § 9.
+
+§ 2. Performing Arts Research and Training Studios (P.A.R.T.S.) est une institution enregistrée d'office et a pour objet l'organisation d'enseignement, d'effectuer de la recherche scientifique et de fournir des services scientifiques dans le domaine de la danse. L'enseignement dispensé au sein de Performing Arts Research and Training Studios (P.A.R.T.S.) est sanctionné par l'autorité concernée, après réussite de la formation concernée, par l'obtention d'un grade de bachelier ou de master.
+
+Performing Arts Research and Training Studios (P.A.R.T.S.) ne peut, en vertu de l'article II.3, pas être considéré comme une haute école.
+
+§ 3. Pour entrer en considération pour la subvention visée au paragraphe 1er, Performing Arts Research and Training Studios (P.A.R.T.S.) conclut un contrat de gestion d'une durée de cinq ans avec le Gouvernement flamand. Dans ce contrat figurent des objectifs relatifs aux domaines suivants :
+
+1° enseignement et étudiants ;
+
+2° recherche ;
+
+3° prestation de services ;
+
+4° accords de coopération ;
+
+5° structures infrastructurelles ;
+
+6° finances et personnel ;
+
+7° organisation.
+
+§ 4. Les arrêtés pris par le Gouvernement flamand en exécution des dispositions de la présente codification relatives au budget et au cadre organique pour les hautes écoles et relatives à la comptabilité générale, aux comptes annuels et au plan comptable pour les hautes écoles s'appliquent par analogie aux Performing Arts Research and Training Studios (P.A.R.T.S.).
+
+§ 5. Le Gouvernement flamand peut diminuer le subventionnement de Performing Arts Research and Training Studios (P.A.R.T.S.), mais néanmoins pas plus qu'une fois par an et au prorata des défaillances constatées à ce qui a été convenu dans le contrat de gestion.
+
+§ 6. Les contrats de gestion en cours peuvent être prolongés au maximum deux fois, d'un an au maximum, au cas où l'évaluation de la manière dont le contrat de gestion en cours a été exécuté n'est pas suffisamment positive pour conclure un nouveau contrat de gestion d'une durée de cinq ans. Après cette ou ces prolongation(s), un nouveau contrat de gestion d'une durée maximale de quatre ans peut être conclu après approbation par le Gouvernement flamand d'un nouveau plan de gestion élaboré par Performing Arts Research and Training Studios (P.A.R.T.S.) qui répond aux lacunes identifiées. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/55, art. 157, 041; En vigueur : 01-09-2024&gt;
+
+### Titre 4. (voir version néerlandaise)
+
+**Art. III.120**
+
+(voir version néerlandaise)
+
+### Titre 5. (voir version néerlandaise)
+
+**Art. III.121**
+
+(voir version néerlandaise)
+
+**Art. III.122**
+
+(voir version néerlandaise)
+
+**Art. III.123**
+
+(voir version néerlandaise)
+
+**Art. III.124**
+
+(voir version néerlandaise)
+
+## Partie 4. (voir version néerlandaise)
+
+#### Chapitre 1. (voir version néerlandaise)
+
+**Art. IV.1**
+
+(voir version néerlandaise)
+
+**Art. IV.2**
+
+(voir version néerlandaise)
+
+**Art. IV.3**
+
+(voir version néerlandaise)
+
+**Art. IV.4**
+
+(voir version néerlandaise)
+
+**Art. IV.5**
+
+(voir version néerlandaise)
+
+**Art. IV.6**
+
+(voir version néerlandaise)
+
+**Art. IV.7**
+
+(voir version néerlandaise)
+
+#### Chapitre 2. (voir version néerlandaise)
+
+**Art. IV.8**
+
+(voir version néerlandaise)
+
+**Art. IV.9**
+
+(voir version néerlandaise)
+
+**Art. IV.10**
+
+(voir version néerlandaise)
+
+**Art. IV.11**
+
+(voir version néerlandaise)
+
+#### Chapitre 3. (voir version néerlandaise)
+
+**Art. IV.12**
+
+(voir version néerlandaise)
+
+**Art. IV.13**
+
+(voir version néerlandaise)
+
+**Art. IV.14**
+
+(voir version néerlandaise)
+
+**Art. IV.15**
+
+(voir version néerlandaise)
+
+**Art. IV.16**
+
+(voir version néerlandaise)
+
+**Art. IV.17**
+
+[<sup>1</sup> [<sup>2</sup> Si, sur la base de l'avis et de l'analyse du commissaire du gouvernement, le Gouvernement flamand ne peut approuver le budget parce qu'il estime que ce budget va à l'encontre de ce qui a été fixé par ou en vertu de la loi ou du décret ou parce qu'il met en danger l'équilibre financier de l'université, il en avise l'institution dans un délai de trente jours de la réception de l'avis du commissaire du gouvernement et formule ses objections.]<sup>2</sup>
+
+Dans ce cas, le Gouvernement flamand demande aux autorités universitaires d'apporter les modifications nécessaires au budget et de le lui soumettre de nouveau dans les deux mois de cette communication.
+
+Le Gouvernement flamand approuve le budget dans le délai d'un mois. S'il a toujours des objections à l'égard du budget modifié, il en avise les autorités universitaires endéans le mois, de la même manière que mentionnée dans l'alinéa précédent.
+
+Tant que le Gouvernement flamand n'a pas approuvé le budget, les allocations mensuelles seront réduites à un douzième des allocations de l'année budgétaire précédente.
+
+Le budget est censé approuvé à l'échéance des délais fixés aux alinéas premier et trois.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-21/29, art. 34, 1000; En vigueur : 01-10-2014&gt;
+
+(2)&lt;DCFL 2021-07-09/33, art. 225, 022; En vigueur : 01-09-2019&gt;
+
+**Art. IV.19**
+
+&lt;Abrogé par DCFL 2019-03-01/26, art. 44, 012; En vigueur : 01-01-2020&gt;
+
+**Art. IV.25**
+
+[<sup>1</sup> Si, sur la base de l'avis et de l'analyse du commissaire du gouvernement, le Gouvernement flamand ne peut approuver le budget parce qu'il estime que ce budget va à l'encontre de ce qui a été fixé par ou en vertu de la loi ou du décret ou parce qu'il met en danger l'équilibre financier de l'institut supérieur, il en avise l'institution dans un délai d'un mois de la réception de l'avis du commissaire du gouvernement et formule ses objections.
+
+Dans ce cas, le Gouvernement flamand demande à la direction de l'institut supérieur d'apporter les modifications nécessaires au budget et de le lui soumettre de nouveau dans les deux mois de cette communication.
+
+Le Gouvernement flamand approuve le budget dans le délai d'un mois. S'il a toujours des objections à l'égard du budget modifié, il en avise la direction de l'institut supérieur endéans le mois, de la même manière que mentionnée dans l'alinéa précédent.
+
+Tant que le Gouvernement flamand n'a pas approuvé le budget, les allocations de fonctionnement seront réduites selon les modalités visées à l'article IV.26.
+
+Le budget est censé approuvé à l'échéance des délais fixés aux alinéas premier et trois. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2014-03-21/29, art. 37, 999; En vigueur : 01-10-2014&gt;
+
+**Art. IV.27.**
+
+[<sup>1</sup> la traduction n'est pas complète, voir la version néerlandaise]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 4, 040; En vigueur : 01-04-2024&gt;
+
+**Art. IV.28**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-01/26, art. 45, 012; En vigueur : 01-01-2019&gt;
+
+**Art. IV.29.**
+
+[<sup>1</sup>Note: la traduction n'est pas complète, voir la version néerlandaise]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 5, 040; En vigueur : 01-04-2024&gt;
+
+**Art. IV.30.**
+
+[<sup>1</sup> Note;la traduction n'est pas complète, voir la version néerlandaise ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 6, 040; En vigueur : 01-04-2024&gt;
+
+**Art. IV.31.**
+
+[<sup>1</sup>Note; la traduction n'est pas complète, voir la version néerlandaise ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 7, 040; En vigueur : 01-04-2024&gt;
+
+**Art. IV.32**
+
+&lt;Abrogé par DCFL 2019-03-01/26, art. 46, 012; En vigueur : 01-01-2020&gt;
+
+**Art. IV.43**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 47, 012; En vigueur : 01-01-2019&gt;
+
+**Art. IV.55.**
+
+[<sup>1</sup>Note;la traduction n'est pas complète, voir la version néerlandaise ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 8, 040; En vigueur : 01-04-2024&gt;
+
+**Art. IV.78**
+
+&lt;Abrogé par DCFL 2014-04-25/J4, art. 119, 999; En vigueur : 08-09-2014&gt;
+
+**Art. IV.83**
+
+(NOTE : Incomplètement traduit, voir version néerlandaise)
+
+§ 1er. La direction de l'institution est tenue au dépôt d'un compte annuel au Gouvernement flamand, rendant ainsi compte de la gestion financière de l'institution.
+
+Pour l'introduction des comptes annuels, le programme horaire suivant s'applique :
+
+1° une préfiguration du compte annuel portant sur l'année budgétaire t en cours, établi conformément au schéma du système européen des comptes nationaux et régionaux, est soumise au Gouvernement flamand avant le 15 novembre de l'année budgétaire t ;
+
+2° une actualisation de la préfiguration du compte annuel portant sur l'année budgétaire t, établi conformément au schéma du système européen des comptes nationaux et régionaux, est soumise au Gouvernement flamand avant le 15 février de l'année budgétaire t+1 ;
+
+3° [<sup>1</sup> le compte annuel définitif portant sur l'année budgétaire t, établi conformément au schéma SEC est soumis au Gouvernement flamand avant le 31 novembre de l'année budgétaire t+1 ;]<sup>1</sup>
+
+4° [<sup>1</sup> le compte annuel définitif portant sur l'année budgétaire t et établi conformément aux prescriptions visées au paragraphe 2, alinéa 1er est soumis au Gouvernement flamand avant le 31 mars de l'année budgétaire t+1.]<sup>1</sup>
+
+Par schéma SEC, on entend le schéma du système européen des comptes nationaux et régionaux dans l'Union européenne, conformément au règlement (CE) n° 2223/96 du Conseil du 25 juin 1996 relatif au système européen des comptes nationaux et régionaux dans la Communauté.
+
+Ce compte annuel définitif est accompagné d'un rapport annuel établi par la direction de l'institution sur toutes les structures de l'institution. Le compte annuel et le rapport annuel sont des documents publics.
+
+§ 4.
+
+[<sup>2</sup> Pour les universités, l'agrément, mentionné à l'alinéa premier, est considéré comme acquis si le commissaire du gouvernement compétent dans l'analyse du compte annuel, en tenant compte de toutes les informations pertinentes, émet un avis favorable.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 48, 012; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2021-07-09/33, art. 226, 022; En vigueur : 01-09-2019&gt;
+
+**Art. IV.92**
+
+&lt;Abrogé par DCFL 2017-12-08/24, art. 35, 004; En vigueur : 01-01-2018&gt;
+
+**Art. IV.95**
+
+[<sup>1</sup> § 1er. Le Gouvernement flamand nomme un maximum de cinq commissaires chargés du contrôle des instituts supérieurs et des universités tels que visés au présent titre. Le Gouvernement flamand confie le contrôle de chaque institut supérieur et de chaque université à un commissaire pour des mandats renouvelables de 5 ans, chaque commissaire étant chargé du contrôle d'au moins un institut supérieur et d'au moins une université.
+
+Les commissaires du Gouvernement flamand sont nommés parmi les porteurs d'un diplôme de master ou d'un diplôme assimilé par ou en vertu d'une loi, d'un décret ou d'un traité international, qui ont une expérience utile d'au moins 5 ans. Le Gouvernement flamand arrête la procédure de sélection.
+
+La fonction de commissaire du Gouvernement flamand est incompatible avec toute fonction ou tout mandat de direction auprès d'une université, d'un institut supérieur, d'une association, d'une institution supérieure et autres institutions des beaux-arts au sens de l'article III.119, ou d'une institution d'enseignement postinitial dans la Communauté flamande.
+
+§ 2. Les commissaires du Gouvernement flamand n'exercent aucune activité professionnelle ou activité rémunérée que moyennant l'accord du Ministre flamand chargé de l'enseignement.
+
+§ 3. Les commissaires du Gouvernement flamand reçoivent la rémunération s'appliquant à un professeur ordinaire auprès d'une université flamande.
+
+[<sup>2</sup> Le statut des membres du personnel des services de l'Autorité flamande leur est applicable, y compris l'évaluation annuelle. Pour l'application du crédit de mobilité et l'octroi de chèques-repas, les commissaires du Gouvernement flamand sont assimilés à un fonctionnaire du niveau N.]<sup>2</sup>
+
+Le Gouvernement flamand est autorisé à arrêter des règles statutaires complémentaires pour les commissaires du Gouvernement flamand, en prenant comme point de départ le statut d'un fonctionnaire de niveau N.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 52, 012; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 160, 017; En vigueur : 01-09-2020&gt;
+
+##### Section 2. [<sup>1</sup> Les tâches de contrôle]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-01/26, art. 53, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.96**
+
+[<sup>1</sup> § 1er. Les commissaires du Gouvernement flamand exercent leurs tâches de contrôle selon le principe du single audit.
+
+Les tâches de contrôle des commissaires du Gouvernement flamand comprennent :
+
+1° évaluer la gestion des risques menée par l'institution, en concertation avec les acteurs du contrôle externe et la Cour des Comptes. Les commissaires contrôlent l'analyse des risques de l'institution et le fonctionnement des organes d'audit interne et peuvent formuler des observations ;
+
+2° faire des études thématiques sur la proposition du Ministre flamand chargé de l'enseignement ou de propre initiative ;
+
+3° vérifier la légitimité des décisions de la direction, y compris le contrôle des obligations de participation visées à la partie 2, titre 7. Les commissaires du Gouvernement flamand ne peuvent pas juger de l'opportunité des décisions de la direction quant à la politique à suivre ;
+
+4° surveiller l'équilibre financier. Ce contrôle concerne :
+
+a) le contrôle de la légalité et de la régularité de toutes les recettes et dépenses, pour en examiner, d'une part, la conformité avec ce qui est stipulé par la loi ou le décret ou en vertu de ceux-ci, et, d'autre part, l'équilibre financier de l'institution ;
+
+b) les budgets et les comptes annuels. Sans préjudice de l'application des articles IV.17, IV.25 et IV.83, § 4, alinéas 2 et 3, les commissaires donnent un avis en la matière au ministre chargé de l'enseignement, au ministre chargé de la politique scientifique et au ministre chargé des finances et des budgets ;
+
+c) l'étude des comptes décrite dans le SEC et le respect des règles en la matière.
+
+§ 2. Le Gouvernement flamand peut assigner des tâches de contrôle supplémentaires à un commissaire dans le cadre des missions décrétales.
+
+§ 3. Les commissaires peuvent assister, avec voix consultative, aux réunions de la direction. Ils expriment leur voix consultative dans le cadre de leur contrôle.
+
+Sauf cas d'urgence tels que décrits dans le règlement d'ordre intérieur de l'institution, les commissaires du Gouvernement flamand reçoivent, 5 jours avant la réunion, l'ordre du jour complet de celle-ci, ainsi que toutes les pièces.
+
+De plus, ils reçoivent, dans les 5 jours, copie de toutes les décisions prises par la direction sur les points relevant de leur compétence.
+
+§ 4. Les commissaires peuvent demander tous les documents et informations à l'institution ou les consulter sur place.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 54, 012; En vigueur : 01-09-2019&gt;
+
+##### Section 3. [<sup>1</sup> La profession et le plan de financement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-01/26, art. 55, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.97**
+
+[<sup>1</sup> Les commissaires du Gouvernement flamand introduisent un recours motivé auprès du Gouvernement flamand contre toute décision de la direction qu'ils jugent contraire à ce qui est stipulé par la loi ou le décret ou en vertu de ceux-ci ou qui met en danger l'équilibre financier de l'institut supérieur ou de l'université.
+
+Ils exercent ce recours dans les 10 jours calendaires. Ce délai prend cours à partir du premier jour ouvrable suivant la réception de la décision par le commissaire. Dans ce même délai, la direction est mise au courant du recours. La communication du recours suspend l'exécution de la décision en question.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 56, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.98**
+
+[<sup>1</sup> Si le Gouvernement flamand estime qu'une décision de la direction est contraire à ce qui est stipulé par la loi ou le décret ou en vertu de ceux-ci ou met en danger l'équilibre financier de l'institution, il en avise la direction dans les 20 jours qui suivent le recours introduit par les commissaires. Ce délai prend cours à partir du premier jour ouvrable suivant la date de réception du recours introduit par les commissaires du gouvernement.
+
+Dans la communication visée à l'alinéa 1er, le Gouvernement flamand invite la direction à prendre une nouvelle décision qui n'est pas illégale ou irrégulière ou qui ne met pas en danger l'équilibre financier de l'institution, ou à retirer la décision, et ce dans les 30 jours.
+
+La décision incriminée ne produit d'effet que si le Gouvernement flamand n'a pas fait usage de sa compétence visée à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 57, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.99**
+
+[<sup>1</sup> Si, à l'expiration du délai visé à l'article IV.98, la direction de l'institution ne prend pas de nouvelle décision et confirme donc tacitement la décision incriminée, le Gouvernement flamand suspend l'attribution de tout ou partie des allocations de l'institut supérieur ou de l'université dans les 20 jours ouvrables.
+
+Le Gouvernement flamand notifie la mesure visée à l'alinéa 1er à la direction dans un délai de 7 jours ouvrables.
+
+Lorsque l'institut supérieur ou l'université en question introduit un recours devant le tribunal contre la mesure prise, l'exécution de cette mesure du Gouvernement flamand est suspendue jusqu'au jugement définitif du tribunal.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 58, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.100**
+
+[<sup>1</sup> Le Gouvernement flamand peut, sur proposition du commissaire, imposer l'établissement d'un plan de financement s'il estime que l'équilibre financier d'un institut supérieur ou d'une université est sérieusement compromis à court ou à long terme. Dans ce plan de financement, l'institution indique comment et dans quel délai la restructuration financière de l'institution sera mise en oeuvre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 59, 012; En vigueur : 01-09-2019&gt;
+
+#### Chapitre 2. [<sup>1</sup> Contrôle des autres institutions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-01/26, art. 60, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.101**
+
+[<sup>1</sup> Le Gouvernement flamand nomme un commissaire à la faculté " [<sup>2</sup> Evangelische Theologische Faculteit", Louvain ]<sup>2</sup> et la faculté " Faculteit voor Protestantse Theologie en Religiestudies " de Bruxelles.
+
+Le commissaire exerce son contrôle conformément aux dispositions du chapitre 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 61, 012; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 158, 041; En vigueur : 01-09-2024&gt;
+
+**Art. IV.102**
+
+[<sup>1</sup> Le Gouvernement flamand peut désigner un fonctionnaire ou un commissaire pour veiller auprès de [<sup>2</sup> ...]<sup>2</sup> l'Instituut voor Tropische Geneeskunde et auprès des institutions supérieures et d'autres institutions des beaux-arts au sens de l'article III.119 à l'exécution du contrat de gestion et au respect des conditions de subventionnement.
+
+La direction de l'institution transmet à cet effet au fonctionnaire ou au commissaire toutes les informations et documents utiles.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 62, 012; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2025-12-19/56, art. 104, 045; En vigueur : 01-01-2026&gt;
+
+#### Chapitre 2/1. [<sup>1</sup> Point de contact pour lanceurs d'alerte.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 21, 036; En vigueur : 11-08-2023&gt;
+
+**Art. IV.102/1.**
+
+[<sup>1</sup> Le collège des commissaires désigne au moins un membre du personnel parmi les membres du personnel visés à l'article IV.105, chargé de la réception et du suivi des signalements externes des lanceurs d'alerte visés à l'article V.230/8. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 22, 036; En vigueur : 11-08-2023&gt;
+
+**Art. IV.102/2.**
+
+[<sup>1</sup> Le membre du personnel visé à l'article IV.102/1, effectue les tâches suivantes :
+
+1° la mise à la disposition de toute personne intéressée d'informations au sujet de la procédure de signalement visée à l'article IV.104 ;
+
+2° la réception et le suivi des signalements visés à l'article V.230/8 ;
+
+3° le maintien du contact avec l'auteur de signalement visé à l'article V.230/1, 10°, dans le but de lui fournir un retour d'informations et de lui demander d'autres informations si nécessaire ;
+
+4° la préparation d'un dossier pour le collège des commissaires visé au chapitre 3.
+
+Le membre du personnel visé à l'article IV.102/1, peut demander aux établissements visés à l'article V.230/1, 7°, tous les documents et informations nécessaires à l'enquête d'un signalement tel que visé à l'article V.230/8. Le membre du personnel visé à l'article IV.102/1, est tenu de respecter, dans le cadre de ses tâches, les dispositions visées à la partie 5, titre 3/1.
+
+Le membre du personnel visé à l'article IV.102/1, a reçu la formation nécessaire pour recevoir et traiter les signalements tels que visés à l'article V.230/8.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 23, 036; En vigueur : 11-08-2023&gt;
+
+#### Chapitre 3. [<sup>1</sup> Le collège des commissaires]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-01/26, art. 63, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.103**
+
+[<sup>1</sup> Les commissaires du Gouvernement flamand forment ensemble un collège.
+
+Le Collège désigne un président par consensus. Le président est responsable de la coordination des activités du collège et fonctionne comme point de contact pour les questions concernant l'ensemble du secteur de l'enseignement supérieur. La présidence n'est pas rémunérée.
+
+Un délégué du domaine politique de l'Enseignement et de la Formation et un délégué du Ministre flamand chargé de l'enseignement peuvent assister aux réunions du collège.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 64, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.104**
+
+[<sup>1</sup> Le collège est chargé des tâches suivantes :
+
+1° une interprétation cohérente de la réglementation lors de l'exercice de ses tâches de contrôle ;
+
+2° la coordination de toutes les activités des commissaires du Gouvernement flamand. Un cadre de travail commun à tous les commissaires sera élaboré à cet effet ;
+
+3° l'établissement annuel d'un programme de contrôle de l'enseignement supérieur dans le cadre du single audit, indiquant le calendrier et la planification de leurs activités et de celles des autres contrôleurs de l'enseignement supérieur. La planification d'études thématiques et de méta-audits, de leur propre initiative ou à la demande du ministre chargé de l'enseignement, est également incluse dans le programme de contrôle, sauf circonstances exceptionnelles nécessitant un examen urgent.
+
+[<sup>2</sup> 4° la prise d'une décision à propos d'un signalement externe d'un lanceur d'alerte sur la base du dossier visé à l'article IV.102/2, alinéa 1er, 4° ;
+
+5° la formulation d'un avis au Gouvernement flamand en vue d'une sanction financière telle que visée à l'article V.230/17, § 2, alinéa 2.]<sup>2</sup>
+
+Chaque année avant le 1er septembre, le collège établit une analyse sectorielle décrivant la situation financière et d'autres paramètres importants de tout l'enseignement supérieur de l'année calendaire précédente. Dans ce rapport, le collège rend compte, entre autres, de la situation financière des institutions et de l'évolution des effectifs des institutions. Le rapport sur l'évolution des effectifs est soumis par le Gouvernement flamand à l'avis du Vlaams Onderhandelingscomité voor het hoger onderwijs (Comité flamand de négociation pour l'enseignement supérieur).
+
+Le Gouvernement flamand peut, dans les limites des missions décrétales, charger le collège de missions particulières.]<sup>1</sup>
+
+[<sup>2</sup> Le collège des commissaires établit une procédure destinée à la réception et au suivi des signalements externes de lanceurs d'alerte. Le collège évalue la procédure au moins tous les trois ans. Sur la base de l'évaluation précitée, le collège adapte, si nécessaire, la procédure destinée aux signalements externes de lanceurs d'alerte.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 65, 012; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2023-06-23/12, art. 24, 036; En vigueur : 11-08-2023&gt;
+
+**Art. IV.105**
+
+[<sup>1</sup> Pour l'accomplissement de sa mission, le collège peut faire appel à des personnels des services de l'Autorité flamande tels que visés aux articles I.1 et I.2, 1° du statut du personnel flamand du 13 janvier 2006. Le statut des membres du personnel des services de l'Autorité flamande leur est applicable. Sur la base d'un plan des besoins établi par le collège, Gouvernement flamand fixe le cadre organique des services du collège du domaine politique de l'Enseignement et de la Formation. Le collège établit une description de fonction de ces membres du personnel et est responsable de leur gestion et de leur évaluation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 66, 012; En vigueur : 01-09-2019&gt;
+
+#### Chapitre 4. [<sup>1</sup> Dispositions transitoires]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-01/26, art. 68, 012; En vigueur : 01-01-2019&gt;
+
+**Art. IV.106**
+
+[<sup>1</sup> § 1er. Le titulaire qui, au 31 juillet 2019, était nommé dans la fonction de commissaire du Gouvernement flamand auprès des instituts supérieurs, est, à partir du 1er août 2019, censé être nommé dans la fonction de commissaire du Gouvernement flamand tel que visé à l'article IV.95.
+
+§ 2. Le titulaire nommé le 31 juillet 2019 dans la fonction de commissaire du Gouvernement flamand auprès de l'Universiteit Gent conservera le statut applicable au 31 juillet 2019.
+
+§ 3. Les membres du personnel nommés qui, au 31 juillet 2018, sont employés par un commissaire du Gouvernement flamand auprès d'une université ou des instituts supérieurs ou du collège, sont réputés être employés par le collège au 1er août 2019 en tant que membres du personnel nommés. Après consultation du membre du personnel concerné, le collège définit une nouvelle description de fonction pour le membre du personnel.
+
+§ 4. Les membres du personnel de l'enseignement qui sont employés par un commissaire sur la base d'un congé pour mission au 31 juillet 2018 restent employés par le collège en tant que membres du personnel sur la base d'un congé pour mission à compter du 1er août 2019. Après consultation du membre du personnel concerné, le collège définit une nouvelle description de fonction pour le membre du personnel.
+
+Cette mission visée à l'alinéa 1er est assimilée à une période d'activité de service conformément aux dispositions statutaires qui leur sont applicables. Pendant la durée de la mission, il est accordé au membre du personnel concerné dispense de service auprès de son institution d'origine.
+
+§ 5. Les membres du personnel contractuels qui sont employés par un commissaire sous les liens d'un contrat de travail au 31 juillet 2018 seront employés par le collège en tant que membres du personnel contractuels à compter du 1er août 2019.
+
+§ 6. Les membres du personnel qui étaient chargés d'une mission auprès des services du collège des commissaires avant le 1er septembre 2013 et qui bénéficiaient avant cette date d'une allocation du fait de la spécificité de leur mission conservent cette allocation.
+
+§ 7. Par dérogation aux articles V.51 et V.191, § 2, les instituts supérieurs et les universités peuvent, jusqu'au 31 mars 2019 au plus tard, classer les membres du personnel qui étaient employés par un commissaire avant le 31 juillet 2018 dans un grade du personnel administratif et technique sans vacance publique, en vue de leur emploi effectif à partir du 1er août 2019.
+
+La classification visée à l'alinéa 1er n'est pas possible sans consentement du membre du personnel intéressé. Le membre du personnel nommé à titre définitif qui est classé dans un des grades du personnel administratif et technique de l'Universiteit Gent, de l'Universiteit Hasselt, de l'Universiteit Antwerpen ou d'un institut supérieur est nommé dans cette institution comme membre du personnel administratif et technique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 69, 012; En vigueur : 01-01-2019&gt;
+
+**Art. IV.107**
+
+&lt;Abrogé par DCFL 2019-03-01/26, art. 70, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.108**
+
+&lt;Abrogé par DCFL 2019-03-01/26, art. 71, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.109**
+
+&lt;Abrogé par DCFL 2019-03-01/26, art. 72, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.109/1**
+
+Par dérogation aux articles IV.95 et IV.108 du présent Code, le Gouvernement flamand peut, pour les années académiques 2017-2018 et 2018-2019, dans le cadre du remplacement d'un titulaire, charger soit un commissaire du Gouvernement flamand auprès d'une université de procéder également au contrôle d'un ou plusieurs instituts supérieurs et au contrôle d'une autre université, soit un commissaire du Gouvernement flamand auprès des instituts supérieurs de procéder également au contrôle d'une ou plusieurs universités.
+
+**Art. IV.110**
+
+&lt;Abrogé par DCFL 2019-03-01/26, art. 73, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.111**
+
+&lt;Abrogé par DCFL 2019-03-01/26, art. 74, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.112**
+
+&lt;Abrogé par DCFL 2019-03-01/26, art. 75, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.113**
+
+&lt;Abrogé par DCFL 2014-03-21/29, art. 43, 999; En vigueur : 01-10-2014&gt;
+
+**Art. IV.114**
+
+&lt;Abrogé par DCFL 2019-03-01/26, art. 76, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.115**
+
+&lt;Abrogé par DCFL 2019-03-01/26, art. 77, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.116**
+
+&lt;Abrogé par DCFL 2019-03-01/26, art. 78, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.118**
+
+&lt;Abrogé par DCFL 2019-03-01/26, art. 80, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.119**
+
+&lt;Abrogé par DCFL 2019-03-01/26, art. 81, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.120**
+
+&lt;Abrogé par DCFL 2019-03-01/26, art. 82, 012; En vigueur : 01-09-2019&gt;
+
+**Art. IV.121**
+
+&lt;Abrogé par DCFL 2019-03-01/26, art. 84, 012; En vigueur : 01-09-2019&gt;
+
+**Art. V.1.**
+
+.[<sup>1</sup> Note;la traduction n'est pas complète, voir la version néerlandaise]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 9, 040; En vigueur : 24-04-2024&gt;
+
+**Art. V.6**
+
+.[<sup>1</sup>Note; la traduction n'est pas complète, voir la version néerlandaise ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 10, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.9/1.**
+
+[<sup>1</sup> § 1er. Un membre du personnel académique a le droit de demander une formule souple de travail pour une période maximale ininterrompue de 12 mois pour :
+
+1° prendre soin d'un enfant :
+
+a) en raison de la naissance d'un enfant dont la filiation est établie à l'égard du membre du personnel, jusqu'à ce que l'enfant atteigne son douzième anniversaire ;
+
+b) en raison de l'adoption d'un enfant, jusqu'à ce que l'enfant atteigne son douzième anniversaire ;
+
+c) en cas de tutelle sur l'enfant au sens de l'article 389 du Code civil, jusqu'à ce que l'enfant atteigne son douzième anniversaire ;
+
+d) en cas de placement familial de longue durée, jusqu'à ce que l'enfant atteigne son douzième anniversaire ;
+
+2° octroyer des soins personnels ou une aide personnelle à un membre déterminé du ménage ou de la famille qui nécessite des soins ou une aide sociale, familiale ou mentale pour une raison médicale grave.
+
+Le droit visé à l'alinéa 1er, 1°, s'applique également au membre du personnel qui est marié ou cohabite avec la personne à l'égard de laquelle la filiation est établie et chez laquelle l'enfant a son domicile.
+
+La limite d'âge de 12 ans visée à l'alinéa 1er, 1°, est de 21 ans lorsque l'enfant est atteint d'une incapacité physique ou mentale de 66 % ou souffre d'une affection qui a pour conséquence qu'au moins 4 points sont reconnus dans le pilier I de l'échelle médico-sociale au sens de la réglementation relative aux allocations familiales ou d'une affection entraînant la reconnaissance d'au moins 9 points dans l'ensemble des trois piliers de l'échelle médico-sociale.
+
+La condition du 12e ou du 21e anniversaire visée à l'alinéa 1er, 1° et à l'alinéa 3 doit être satisfaite au plus tard pendant la période de formule souple du travail. Si le membre du personnel a introduit en temps utile une demande de formule souple de travail et que la mise en oeuvre de la formule souple de travail est reportée sur proposition des autorités universitaires, la condition précitée du 12e ou du 21e anniversaire peut être dépassée.
+
+§ 2. Un membre du personnel qui souhaite une formule souple de travail pour s'occuper d'un proche telle que visée au paragraphe 1er, alinéa 1er, transmet à cet effet une demande écrite aux autorités universitaires au moins deux mois et au maximum trois mois avant la date de début souhaitée. Le délai précité peut être réduit d'un commun accord entre les autorités universitaires et le membre du personnel.
+
+La demande visée à l'alinéa 1er mentionne les éléments suivants :
+
+1° une référence au droit de demander une formule souple de travail énoncé dans le présent article ;
+
+2° le type de formule souple de travail demandée ;
+
+3° la date de prise de cours et de fin de la formule souple de travail ;
+
+4° le but de soins à prodiguer, visé au paragraphe 1er, alinéa 1er, pour lequel la formule souple de travail est demandée.
+
+Les autorités universitaires ont le droit de demander un document ou des documents étayant la finalité des soins invoquée conformément à l'alinéa 2.
+
+§ 3. Les autorités universitaires transmettent au membre du personnel une réponse écrite dans les trente jours qui suivent la réception de la demande visée au paragraphe 2 par les autorités universitaires. Les autorités universitaires statuent sur la demande précitée, en tenant compte des besoins du membre du personnel et de la continuité de l'enseignement, de la recherche et de la prestation de services.
+
+Les autorités universitaires peuvent accepter ou refuser la demande précitée, ou formuler une contre-proposition motivée consistant en une autre formule souple de travail ou une autre période pour l'exercice de la formule souple de travail. Le report d'une formule souple de travail ne peut pas avoir pour conséquence que la formule souple de travail devienne impossible. Si les autorités universitaires refusent la demande précitée, elles communiquent la décision de refus motivée par écrit au membre du personnel.
+
+En cas d'absence de réponse des autorités universitaires dans les trente jours suivant la demande visée au paragraphe 2, le membre du personnel peut renouveler sa demande de formule souple de travail. L'absence de réponse des autorités universitaires au renouvellement de la demande est assimilée à un accord.
+
+§ 4. Le membre du personnel peut introduire une demande motivée, par écrit, pour mettre fin anticipativement à la formule souple de travail. Les autorités universitaires fournissent une réponse motivée à la demande précitée dans les quatorze jours. Les autorités universitaires peuvent fixer un délai de préavis pour l'interruption anticipée de la formule souple de travail.
+
+§ 5. Les membres du personnel ont le droit de retrouver leurs modalités de travail initiales à l'issue de la période de formule souple de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 11, 040; En vigueur : 24-04-2024&gt;
+
+**Art. V.11**
+
+[<sup>1</sup> (voir version néerlandaise) ]<sup>1</sup>
+
+()&lt;DCFL 2020-07-03/39, art. 161, 017; En vigueur : 01-09-2018&gt;
+
+**Art. V.12**
+
+[<sup>1</sup> Une charge à temps partiel est déterminée en pourcentage d'une charge à temps plein. Pour la détermination du pourcentage, chaque demi-journée hebdomadaire au service de l'université correspond à 10 %. Le pourcentage doit être d'au moins 10 % d'une désignation à temps plein et est toujours exprimé en multiples de cinq.
+
+[<sup>2</sup> La dérogation précitée s'applique également au membre du personnel académique autonome qui exerce des activités médicales et paramédicales en exécution d'un contrat de travail ou d'un règlement sur les indemnités cliniques dans l'hôpital universitaire qui fait partie de sa propre université ou qui est le résultat d'une scission de celle-ci et qui a été transformé en personne morale autonome.]<sup>2</sup>]<sup>1</sup>
+
+[<sup>2</sup> La dérogation visée à l'alinéa 2 s'applique également, pour la Vrije Universiteit Brussel, aux membres du personnel académique autonome rattachés à la clinique dentaire. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-15/18, art. 94, 006; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFL 2024-03-22/17, art. 12, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.13**
+
+[<sup>1</sup> La charge à temps partiel d'un membre du personnel académique autonome peut comprendre, soit uniquement des activités d'enseignement, soit uniquement des activités de recherche, soit une combinaison des deux. Des services scientifiques et des tâches organisationnelles, coordinatrices ou administratives peuvent également faire partie de la charge de ces membres du personnel académique autonome.
+
+Dans la même université, une charge à temps partiel d'un grade déterminé du personnel académique autonome ne peut être cumulée avec une charge à temps partiel d'un autre grade du personnel académique autonome.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-15/18, art. 95, 006; En vigueur : 01-09-2018&gt;
+
+**Art. V.14**
+
+[<sup>1</sup> Par convention conclue entre deux universités ou plus, les charges séparées d'enseignement ou de recherche, partagées entre les universités en question peuvent être définies comme une seule charge à temps plein. Cette convention indique l'université à considérer comme l'employeur des personnes intéressées et détermine le pourcentage des charges des personnes intéressées dans les différentes universités par rapport à une charge complète.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-15/18, art. 96, 006; En vigueur : 01-09-2018&gt;
+
+**Art. V.15**
+
+[<sup>1</sup> Chaque membre du personnel exerçant au moins une demi-charge soumet à l'université un aperçu des mandats politiques et des autres activités professionnelles ou rémunérées qu'il exerce en plus de ses tâches à l'université. Un membre du personnel peut consulter cet aperçu à tout moment et le faire corriger.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-15/18, art. 97, 006; En vigueur : 01-09-2018&gt;
+
+**Art. V.16**
+
+[<sup>1</sup> Le volume total des charges d'un membre du personnel qui exerce au moins une demi-charge à une université et qui exerce en outre un mandat politique ou une autre activité rémunérée ou professionnelle s'élève à 120 % au maximum.
+
+Si le volume total des charges, visées à l'alinéa 1er, dépasse 120 %, la charge à l'université est réduite d'office à un pourcentage nécessaire pour atteindre la limite de 120 %. Le volume de la charge qu'un membre du personnel exerce à l'université après la réduction s'élève à 50 % au moins.
+
+Une charge qui est supposée prendre une demi-journée de travail par semaine correspond à un volume de 10 % d'une charge à temps plein. Le Gouvernement flamand détermine quels mandats politiques seront d'office présumés occuper plus de 20 % d'une charge à temps plein. Ces mandats politiques entraînent une réduction d'office de la charge à temps plein d'un membre du personnel académique.]<sup>1</sup>
+
+[<sup>2</sup> Lorsque le volume total des charges, visées à l'alinéa 1er, après application de la réduction, visée à l'alinéa 2, dépasse 120 %, le volume de la charge que le membre du personnel exerce à l'université est réduit à 45 %.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-15/18, art. 98, 006; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFL 2019-04-05/42, art. 115, 013; En vigueur : 01-09-2019&gt;
+
+**Art. V.17**
+
+[<sup>1</sup> Les autorités universitaires fixent les règles relatives à la communication des mandats politiques et d'autres activités professionnelles ou activités rémunérées et à la détermination de l'étendue des mandats politiques qui ne conduisent pas à une réduction d'office et des autres activités professionnelles ou activités rémunérées.
+
+Aux fins des articles V.15 et V.16, les activités médicales et paramédicales exercées par un membre du personnel académique en exécution d'un contrat de travail ou d'un règlement sur les indemnités cliniques, ne sont pas considérées comme d'autres activités professionnelles ou d'autres activités rémunérées si elles sont exercées exclusivement dans l'hôpital universitaire qui fait partie de sa propre université ou qui est le résultat d'une scission de celle-ci et qui a été transformé en personne juridique autonome.
+
+Pour la Vrije Universiteit Brussel, l'alinéa 2 s'applique également aux membres du personnel rattachés à la clinique dentaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-15/18, art. 99, 006; En vigueur : 01-09-2018&gt;
+
+**Art. V.17/1**
+
+[<sup>1</sup> Les autorités universitaires déterminent dans un règlement ou un règlement du travail les règles relatives à l'exercice d'activités accessoires qui sont entièrement ou partiellement incompatibles avec un poste à l'université.
+
+Sont incompatibles, les activités rémunérées ou non rémunérées qui :
+
+1° conduisent à un conflit d'intérêts pour le membre du personnel ;
+
+2° sont de nature à nuire à l'université ;
+
+3° entravent la bonne exécution de la charge à l'université.
+
+Le règlement ou le règlement du travail visé à l'alinéa 1er fixe au moins les éléments suivants :
+
+1° la procédure de détermination des incompatibilités. Cette procédure garantit le droit de tout membre du personnel d'être entendu et prévoit une procédure de recours ;
+
+2° les conséquences de l'exercice d'activités incompatibles.
+
+Les autorités universitaires peuvent mettre fin d'office à la désignation ou à la nomination d'un membre du personnel qui, après la procédure visée à l'alinéa [<sup>2</sup> 3]<sup>2</sup>, 1°, refuse de mettre fin d'office à l'incompatibilité établie et persistante. En cas de la cessation d'office d'une nomination, les autorités universitaires paient les cotisations des employeurs et des travailleurs nécessaires pour la reprise du membre du personnel dans le régime de l'assurance chômage, de l'assurance maladie (secteur des allocations) et de l'assurance maternité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-15/18, art. 100, 006; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFL 2019-04-05/42, art. 116, 013; En vigueur : 01-09-2018&gt;
+
+**Art. V.19.**
+
+[<sup>1</sup> note : voir la version néerlandaise pour l'article complet]<sup>1</sup>
+
+[<sup>2</sup> Les professeurs invités à temps partiel peuvent également être employés comme travailleurs exerçant un flexi-job comme visé à l'article 3, 3°, de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale. Par dérogation à l'alinéa 1er, les articles 10 et 10bis de la loi du 3 juillet 1978 relative aux contrats de travail s'appliquent aux contrats de travail successifs d'un professeur invité en tant que travailleur exerçant un flexi-job. ]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/55, art. 159, 041; En vigueur : 01-04-2024&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 159, 041; En vigueur : 01-04-2024&gt;
+
+**Art. V.21**
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, les autorités universitaires peuvent, sur la base d'une motivation circonstanciée, désigner également comme assistant chargé d'exercices, aux mêmes conditions de rémunération, des personnes qui démontrent l'expertise requise par un moyen autre qu'un diplôme de master. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-05/42, art. 117, 013; En vigueur : 01-09-2019&gt;
+
+**Art. V.25**
+
+(NOTE : incomplètement traduit, voir version néerlandaise)
+
+[<sup>1</sup> La direction de l'université peut constituer une réserve de recrutement pour un ensemble de fonctions apparentées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/33, art. 227, 022; En vigueur : 01-09-2021&gt;
+
+**Art. V.27.**
+
+[<sup>1</sup> Note; la traduction n'est pas complète, voir la version néerlandaise]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 13, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.28**
+
+(NOTE : incomplètement traduit, voir version néerlandaise)
+
+al 3. [<sup>1</sup> Si l'évaluation est favorable, mais que le membre du personnel concerné ne satisfait pas à l'exigence linguistique visée à l'article II.270, § 2, le membre du personnel ne peut être nommé, mais la désignation peut être prolongée d'un nouveau délai afin d'atteindre le niveau requis de maîtrise de la langue néerlandaise. Si le délai est prolongé, le membre du personnel est en principe nommé sans réévaluation dès qu'il atteint le niveau requis de maîtrise de la langue néerlandaise. La durée totale de la désignation initiale et de la durée supplémentaire ne peut dépasser cinq ans.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 228, 022; En vigueur : 01-09-2021&gt;
+
+(0)&lt;DCFL 2024-03-22/17, art. 14, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.29.**
+
+[<sup>1</sup> voir version néerlandaise]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 15, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.30.**
+
+[<sup>1</sup> voir version néerlandaise]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 16, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.31.**
+
+[<sup>1</sup> note : voir la version néerlandaise pour l'article complet]<sup>1</sup>
+
+[<sup>2</sup> es assistants chargés d'exercices à temps partiel peuvent également être employés comme travailleurs exerçant un flexi-job comme visé à l'article 3, 3°, de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale. Par dérogation à l'alinéa 1er, les articles 10 et 10bis de la loi du 3 juillet 1978 relative aux contrats de travail s'appliquent aux contrats de travail successifs d'un assistant chargé d'exercices en tant que travailleur exerçant un flexi-job.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/55, art. 160, 041; En vigueur : 01-04-2024&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 160, 041; En vigueur : 01-04-2024&gt;
+
+**Art. V.32.**
+
+[<sup>1</sup> Note;la traduction n'est pas complète, voir la version néerlandaise ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 17, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.39**
+
+[<sup>1</sup> (voir version néerlandaise) ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-01/26, art. 86, 012; En vigueur : 01-09-2019&gt;
+
+**Art. V.45.**
+
+[<sup>1</sup> (voir version néerlandaise) ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-07-03/39, art. 162, 017; En vigueur : 01-09-2020&gt;
+
+**Art. V.46**
+
+[<sup>1</sup> Les autorités universitaires fixent les règles d'encadrement et d'évaluation des prestations et du mode de fonctionnement des membres du personnel académique. Les règles garantissent au maximum les droits du membre du personnel.
+
+Si aucune initiative pour un entretien de suivi n'est prise par l'université, le membre du personnel a le droit, une fois par an, de solliciter un entretien de suivi. Un rapport d'entretien de suivi peut être établi, dans lequel des objectifs personnels et de développement sont éventuellement repris.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-22/17, art. 18, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.46/1.**
+
+[<sup>1</sup>§ 1er. Lorsque, sur la base d'un entretien de suivi, visé à l'article V.46, il apparaît qu'il y a des problèmes avec les prestations ou le mode de fonctionnement d'un membre du personnel académique nommé, un premier parcours de remédiation peut être entamé par l'évaluateur. La durée du premier parcours de remédiation est d'au moins neuf mois.
+
+Avant le début du premier parcours de remédiation, un document est établi dans lequel figurent au moins des accords clairs concernant les points d'amélioration nécessaires, les actions visant à l'amélioration et la durée du parcours. La décision relative aux points d'amélioration et à la durée est motivée. Les deux parties reçoivent un exemplaire écrit ou électronique de ce document, d'une manière établissant clairement la date de réception.
+
+Le délai visé à l'alinéa 1er est d'au moins trois mois si les problèmes visés à l'alinéa 1er réapparaissent dans un délai de 24 mois après la conclusion d'un deuxième parcours de remédiation, visé au paragraphe 2.
+
+Le premier parcours de remédiation se termine par une évaluation. L'évaluation donne lieu à une conclusion motivée " favorable " ou " insatisfaisant ". Les deux parties reçoivent un exemplaire écrit ou électronique du document d'évaluation, d'une manière établissant clairement la date de réception.
+
+La conclusion " favorable " signifie que les prestations et le mode de fonctionnement du membre du personnel satisfont aux exigences liées à la fonction et que le parcours de remédiation prend fin. La conclusion " insatisfaisant " signifie que les prestations ou le mode de fonctionnement du membre du personnel ne satisfont pas à toutes les exigences liées à la fonction et qu'un deuxième parcours de remédiation est nécessaire.
+
+Un membre du personnel peut introduire, dans un délai raisonnable, un recours contre la conclusion " insatisfaisant " visée à l'alinéa 5 auprès d'une instance de recours indépendante. Le recours ne suspend pas le début d'un deuxième parcours de remédiation.
+
+§ 2. Après une conclusion " insatisfaisant ", visée au paragraphe 1er, alinéa 4, un deuxième parcours de remédiation est entamé. La durée du deuxième parcours de remédiation est d'au moins trois mois.
+
+Avant le début du deuxième parcours de remédiation, un document est établi dans lequel figurent au moins des accords clairs concernant les points d'amélioration nécessaires, les actions visant à l'amélioration et la durée du parcours. La décision relative aux points d'amélioration et à la durée est motivée. Les deux parties reçoivent un exemplaire écrit ou électronique de ce document, d'une manière établissant clairement la date de réception.
+
+Le deuxième parcours de remédiation se termine par une évaluation. L'évaluation donne lieu à une conclusion motivée " favorable " ou " insuffisant ". La conclusion " favorable " signifie que les prestations et le mode de fonctionnement du membre du personnel satisfont aux exigences liées à la fonction et que le parcours de remédiation prend fin. La conclusion " insuffisant " signifie que les prestations ou le mode de fonctionnement du membre du personnel ne satisfont pas aux exigences liées à la fonction. Après la conclusion " insuffisant ", les autorités universitaires peuvent licencier le membre du personnel.
+
+Un membre du personnel peut introduire, dans un délai raisonnable, un recours contre la conclusion " insuffisant " visée à l'alinéa 3 auprès d'une instance de recours indépendante. Le recours suspend la mise en oeuvre du licenciement du membre du personnel ou des autres mesures à la suite de cette conclusion.
+
+§ 3. Pendant le premier parcours de remédiation visé au paragraphe 1er et le deuxième parcours de remédiation visé au paragraphe 2, l'évaluateur ou le membre du personnel peut solliciter un entretien intermédiaire avec respectivement le membre du personnel ou l'évaluateur. Lors de cet entretien, une évaluation intermédiaire du parcours de remédiation en cours est établie. L'entretien peut déboucher sur une des décisions suivantes :
+
+1° la poursuite du parcours de remédiation sans changement ;
+
+2° la prolongation du délai du parcours de remédiation ;
+
+3° l'adaptation des actions visant à l'amélioration des prestations ou du mode de fonctionnement du membre du personnel ;
+
+4° la fin du parcours de remédiation. Cette décision n'est possible que si l'évaluateur juge que les prestations et le mode de fonctionnement du membre du personnel satisfont aux exigences liées à la fonction.
+
+§ 4. En cas de grossesse, de période ininterrompue d'absence d'au moins dix semaines pour cause de maladie ou d'interruption de carrière à temps plein, ou de période ininterrompue d'absence d'au moins vingt semaines d'interruption de carrière à mi-temps au cours du premier parcours de remédiation, visé au paragraphe 1er, ou du deuxième parcours de remédiation, visé au paragraphe 2, le parcours de remédiation est suspendu pour la durée de l'absence.
+
+§ 5. En cas de licenciement motivé par la conclusion finale " insuffisant ", visée au paragraphe 2, les autorités universitaires accordent un délai de préavis. Le délai de préavis est de trois mois pour le membre du personnel ayant complété moins de cinq ans d'ancienneté auprès de l'université. Ce délai est majoré de trois mois pour chaque période quinquennale entamée d'ancienneté. Les autorités universitaires et le membre du personnel intéressé peuvent convenir d'un délai de préavis plus long ou plus court.
+
+Le délai de préavis visé à l'alinéa 1er commence le premier jour du mois suivant la notification du licenciement. La notification se fait par lettre recommandée et prend effet le troisième jour après l'envoi.
+
+Les autorités universitaires peuvent décider de licencier le membre du personnel intéressé avec effet immédiat. Dans ce cas, les autorités universitaires versent une indemnité de rupture égale au traitement correspondant à la durée du préavis calculé.
+
+En vue de la reprise du membre du personnel dans le régime de l'assurance-chômage, de l'assurance maladie (secteur allocations) et de l'assurance maternité, les cotisations ouvrières nécessaires sont retenues pendant le délai de préavis ou sur l'indemnité de rupture, et versées ensemble avec les cotisations patronales de sécurité sociale. Lorsque ces cotisations ne suffisent pas, l'université paie les cotisations patronales et ouvrières encore requises.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 19, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.50.**
+
+[<sup>1</sup> note : voir la version néerlandaise pour l'article complet]<sup>1</sup>
+
+[<sup>2</sup> L'autorité de l'université peut également employer un membre du personnel administratif et technique à temps partiel comme travailleur exerçant un flexi-job comme visé à l'article 3, 3°, de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale. La loi du 3 juillet 1978 relative aux contrats de travail s'applique à ces membres du personnel.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-04-19/55, art. 161, 041; En vigueur : 01-04-2024&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 161, 041; En vigueur : 01-04-2024&gt;
+
+**Art. V.50/1.**
+
+[<sup>1</sup>§ 1er. Un membre du personnel administratif et technique a le droit de demander une formule souple de travail pour une période maximale ininterrompue de 12 mois pour :
+
+1° prendre soin d'un enfant :
+
+a) en raison de la naissance d'un enfant dont la filiation est établie à l'égard du membre du personnel, jusqu'à ce que l'enfant atteigne son douzième anniversaire ;
+
+b) en raison de l'adoption d'un enfant, jusqu'à ce que l'enfant atteigne son douzième anniversaire ;
+
+c) en cas de tutelle sur l'enfant au sens de l'article 389 du Code civil, jusqu'à ce que l'enfant atteigne son douzième anniversaire ;
+
+d) en cas de placement familial de longue durée, jusqu'à ce que l'enfant atteigne son douzième anniversaire ;
+
+2° octroyer des soins personnels ou une aide personnelle à un membre déterminé du ménage ou de la famille qui nécessite des soins ou une aide sociale, familiale ou mentale pour une raison médicale grave.
+
+Le droit visé à l'alinéa 1er, 1°, s'applique également au membre du personnel qui est marié ou cohabite avec la personne à l'égard de laquelle la filiation est établie et chez laquelle l'enfant a son domicile.
+
+La limite d'âge de 12 ans visée à l'alinéa 1er, 1°, est de 21 ans lorsque l'enfant est atteint d'une incapacité physique ou mentale de 66 % ou souffre d'une affection qui a pour conséquence qu'au moins 4 points sont reconnus dans le pilier I de l'échelle médico-sociale au sens de la réglementation relative aux allocations familiales ou d'une affection entraînant la reconnaissance d'au moins 9 points dans l'ensemble des trois piliers de l'échelle médico-sociale.
+
+La condition du 12e ou du 21e anniversaire visée à l'alinéa 1er, 1° et à l'alinéa 3 doit être satisfaite au plus tard pendant la période de formule souple du travail. Si le membre du personnel a introduit en temps utile une demande de formule souple de travail et que la mise en oeuvre de la formule souple de travail est reportée sur proposition des autorités universitaires, la condition précitée du 12e ou du 21e anniversaire peut être dépassée.
+
+§ 2. Un membre du personnel qui souhaite une formule souple de travail pour s'occuper d'un proche telle que visée au paragraphe 1er, alinéa 1er, transmet à cet effet une demande écrite aux autorités universitaires au moins deux mois et au maximum trois mois avant la date de début souhaitée. Le délai précité peut être réduit d'un commun accord entre les autorités universitaires et le membre du personnel.
+
+La demande visée à l'alinéa 1er mentionne les éléments suivants :
+
+1° une référence au droit de demander une formule souple de travail énoncé dans le présent article ;
+
+2° le type de formule souple de travail demandée ;
+
+3° la date de prise de cours et de fin de la formule souple de travail ;
+
+4° le but de soins à prodiguer, visé au paragraphe 1er, alinéa 1er, pour lequel la formule souple de travail est demandée.
+
+Les autorités universitaires ont le droit de demander un document ou des documents étayant la finalité des soins invoquée conformément à l'alinéa 2.
+
+§ 3. Les autorités universitaires transmettent au membre du personnel une réponse écrite dans les trente jours qui suivent la réception de la demande visée au paragraphe 2 par les autorités universitaires. Les autorités universitaires statuent sur la demande précitée, en tenant compte des besoins du membre du personnel et de la continuité de l'enseignement, de la recherche et de la prestation de services.
+
+Les autorités universitaires peuvent accepter ou refuser la demande précitée, ou formuler une contre-proposition motivée consistant en une autre formule souple de travail ou une autre période pour l'exercice de la formule souple de travail. Le report d'une formule souple de travail ne peut pas avoir pour conséquence que la formule souple de travail devienne impossible. Si les autorités universitaires refusent la demande précitée, elles communiquent la décision de refus motivée par écrit au membre du personnel.
+
+En cas d'absence de réponse des autorités universitaires dans les trente jours suivant la demande visée au paragraphe 2, le membre du personnel peut renouveler sa demande de formule souple de travail. L'absence de réponse des autorités universitaires au renouvellement de la demande est assimilée à un accord.
+
+§ 4. Le membre du personnel peut introduire une demande motivée, par écrit, pour mettre fin anticipativement à la formule souple de travail. Les autorités universitaires fournissent une réponse motivée à la demande précitée dans les quatorze jours. Les autorités universitaires peuvent fixer un délai de préavis pour l'interruption anticipée de la formule souple de travail.
+
+§ 5. Les membres du personnel ont le droit de retrouver leurs modalités de travail initiales à l'issue de la période de formule souple de travail]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 20, 040; En vigueur : 24-04-2024&gt;
+
+**Art. V.55.**
+
+[<sup>1</sup>§ 1er. Lors du recrutement en vue d'une nomination, le membre du personnel accomplit un stage de six mois.
+
+Par dérogation à l'alinéa 1er, ce stage est de douze mois pour les fonctions pour lesquelles cela a préalablement été motivé de façon objective sur la base du contenu de la fonction, à condition qu'un accord soit préalablement atteint concernant ces fonctions au sein du comité central de négociation de l'université concernée.
+
+La période de stage prévue aux alinéas 1er et 2 peut être prolongée de façon motivée par les autorités universitaires d'un unique délai de maximum six mois si les autorités universitaires constatent que le membre du personnel ne répond pas encore totalement aux attentes de la fonction, mais que les points d'amélioration peuvent être corrigés. Le membre du personnel est informé de cette intention et de la motivation, et a le droit d'être entendu avant que la décision de prolongation soit adoptée.
+
+A la demande du membre du personnel concerné accomplissant un stage, ou du supérieur, cette période de stage est prolongée une seule fois au prorata en cas d'absence du membre du personnel accomplissant le stage pendant la période de stage. Cette prolongation est limitée à maximum la même durée que celle de la période de stage initiale.
+
+§ 2. L'université prévoit une possibilité de recours interne auprès d'une instance de recours indépendante.
+
+§ 3. Dans le cas où le membre concerné du personnel administratif et technique accomplissait déjà la même fonction dans le cadre d'une relation de travail contractuelle, on procède immédiatement à la nomination sans période de stage.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 21, 040; En vigueur : 24-04-2024&gt;
+
+**Art. V.60**
+
+[<sup>1</sup> (voir version néerlandaise) ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-03-01/26, art. 87, 012; En vigueur : 01-01-2020&gt;
+
+**Art. V.62**
+
+[<sup>1</sup> Les autorités universitaires fixent les règles d'encadrement et d'évaluation des prestations et du mode de fonctionnement des membres du personnel administratif et technique. Les règles garantissent au maximum les droits du membre du personnel.
+
+Si aucune initiative pour un entretien de suivi n'est prise par l'université, le membre du personnel a le droit, une fois par an, de solliciter un entretien de suivi. Un rapport d'entretien de suivi peut être établi, dans lequel des objectifs personnels et de développement sont éventuellement repris. ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-22/17, art. 22, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.62/1.**
+
+[<sup>1</sup> § 1er. Lorsque, sur la base d'un entretien de suivi, visé à l'article V.46, il apparaît qu'il y a des problèmes avec les prestations ou le mode de fonctionnement d'un membre du personnel administratif et technique nommé, un premier parcours de remédiation peut être entamé par l'évaluateur. La durée du premier parcours de remédiation est d'au moins neuf mois.
+
+Avant le début du premier parcours de remédiation, un document est établi dans lequel, en tenant compte des circonstances spécifiques, figurent au moins des accords clairs concernant les points d'amélioration nécessaires, les actions visant à l'amélioration et la durée du parcours. La décision relative aux points d'amélioration et à la durée est motivée. Les deux parties reçoivent un exemplaire écrit ou électronique de ce document, d'une manière établissant clairement la date de réception.
+
+Le délai visé à l'alinéa 1er est d'au moins trois mois si les problèmes visés à l'alinéa 1er réapparaissent dans un délai de 24 mois après la conclusion d'un deuxième parcours de remédiation, visé au paragraphe 2.
+
+Le premier parcours de remédiation se termine par une évaluation. L'évaluation donne lieu à une conclusion motivée "favorable" ou "insatisfaisant". Les deux parties reçoivent un exemplaire écrit ou électronique du document d'évaluation, d'une manière établissant clairement la date de réception.
+
+La conclusion "favorable" signifie que les prestations et le mode de fonctionnement du membre du personnel satisfont aux exigences liées à la fonction et que le parcours de remédiation prend fin. La conclusion "insatisfaisant" signifie que les prestations ou le mode de fonctionnement du membre du personnel ne satisfont pas à toutes les exigences liées à la fonction et qu'un deuxième parcours de remédiation est nécessaire.
+
+Un membre du personnel peut introduire, dans un délai raisonnable, un recours contre la conclusion "insatisfaisant" visée à l'alinéa 4 auprès d'une instance de recours indépendante. Le recours ne suspend pas le début d'un deuxième parcours de remédiation.
+
+§ 2. Après une conclusion "insatisfaisant", visée au paragraphe 1er, alinéa 4, un deuxième parcours de remédiation est entamé. La durée du deuxième parcours de remédiation est d'au moins trois mois.
+
+Avant le début du deuxième parcours de remédiation, un document est établi dans lequel figurent au moins des accords clairs concernant les points d'amélioration nécessaires, les actions visant à l'amélioration et la durée du parcours. La décision relative aux points d'amélioration et à la durée est motivée. Les deux parties reçoivent un exemplaire écrit ou électronique de ce document, d'une manière établissant clairement la date de réception.
+
+Le deuxième parcours de remédiation se termine par une évaluation. L'évaluation donne lieu à une conclusion motivée "favorable" ou "insuffisant". La conclusion "favorable" signifie que les prestations et le mode de fonctionnement du membre du personnel satisfont aux exigences liées à la fonction et que le parcours de remédiation prend fin. La conclusion "insuffisant" signifie que les prestations ou le mode de fonctionnement du membre du personnel ne satisfont pas aux exigences liées à la fonction. Après la conclusion "insuffisant", les autorités universitaires peuvent licencier le membre du personnel.
+
+Un membre du personnel peut introduire, dans un délai raisonnable, un recours contre la conclusion "insuffisant" visée à l'alinéa 3 auprès d'une instance de recours indépendante. Le recours suspend la mise en oeuvre du licenciement du membre du personnel ou des autres mesures à la suite de cette conclusion.
+
+§ 3. Pendant le premier parcours de remédiation visé au paragraphe 1er et le deuxième parcours de remédiation visé au paragraphe 2, l'évaluateur ou le membre du personnel peut solliciter un entretien intermédiaire avec respectivement le membre du personnel ou l'évaluateur. Lors de cet entretien, une évaluation intermédiaire du parcours de remédiation en cours est établie. L'entretien peut déboucher sur une des décisions suivantes :
+
+1° la poursuite du parcours de remédiation sans changement ;
+
+2° la prolongation du délai du parcours de remédiation ;
+
+3° l'adaptation des actions visant à l'amélioration des prestations ou du mode de fonctionnement du membre du personnel ;
+
+4° la fin du parcours de remédiation. Cette décision n'est possible que si l'évaluateur juge que les prestations et le mode de fonctionnement du membre du personnel satisfont aux exigences liées à la fonction.
+
+§ 4. En cas de grossesse, de période ininterrompue d'absence d'au moins dix semaines pour cause de maladie ou d'interruption de carrière à temps plein, ou de période ininterrompue d'absence d'au moins vingt semaines d'interruption de carrière à mi-temps au cours du premier parcours de remédiation, visé au paragraphe 1er, ou du deuxième parcours de remédiation, visé au paragraphe 2, le parcours de remédiation est suspendu pour la durée de l'absence.
+
+§ 5. En cas de licenciement motivé par la conclusion finale " insuffisant ", visée au paragraphe 2, les autorités universitaires accordent un délai de préavis. Le délai de préavis est de trois mois pour le membre du personnel ayant complété moins de cinq ans d'ancienneté auprès de l'université. Ce délai est majoré de trois mois pour chaque période quinquennale entamée d'ancienneté. Les autorités universitaires et le membre du personnel intéressé peuvent convenir d'un délai de préavis plus long ou plus court.
+
+Le délai de préavis visé à l'alinéa 1er commence le premier jour du mois suivant la notification du licenciement. La notification se fait par lettre recommandée et prend effet le troisième jour après l'envoi.
+
+Les autorités universitaires peuvent décider de licencier le membre du personnel intéressé avec effet immédiat. Dans ce cas, les autorités universitaires versent une indemnité de rupture égale au traitement correspondant à la durée du préavis calculé.
+
+En vue de la reprise du membre du personnel dans le régime de l'assurance-chômage, de l'assurance maladie (secteur allocations) et de l'assurance maternité, les cotisations ouvrières nécessaires sont retenues pendant le délai de préavis ou sur l'indemnité de rupture, et versées ensemble avec les cotisations patronales de sécurité sociale. Lorsque ces cotisations ne suffisent pas, l'université paie les cotisations patronales et ouvrières encore requises.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 23, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.63**
+
+[<sup>1</sup> Note; la traduction n'est pas complète, voir la version néerlandaise]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-12-08/13, art. 9, 033; En vigueur : 01-10-2023&gt;
+
+**Art. V.64**
+
+al 1
+
+al 2
+
+[<sup>1</sup> A partir du 1er octobre 2019, une université peut inclure dans le cadre de l'intégration les membres du personnel figurant sur la liste visée à l'article 103ter decies, § 1er, alinéa 1er, 2° du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ou à l'article 84vicies ter, § 1er, alinéa 1er, 2° du décret du 27 mars 1991 relatif au statut des membres du personnel de l'enseignement subventionné, si un institut supérieur a repris ces membres du personnel sur la base de l'article V.206/1, alinéa 1er, du présent Code et les membres du personnel ont été affectés à cette université en vertu de l'accord visé à l'article V.79/2, § 2, du présent Code. ]<sup>1</sup>
+
+al 4
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 88, 012; En vigueur : 01-01-2020&gt;
+
+#### Chapitre 4. [<sup>1</sup> Reprise du personnel de l'éducation des adultes]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 180, 010; En vigueur : 01-09-2019&gt;
+
+**Art. V.79/1**
+
+[<sup>1</sup> § 1er. Si, à la suite de l'arrêt d'une formation spécifique des enseignants dans un centre d'éducation des adultes, une partie du financement de cette formation est transférée à une université, celle-ci peut, à compter du 1er septembre 2019, reprendre du personnel sans offre d'emploi publique ni procédure de sélection comparative, à condition que ces personnels figurent sur la liste visée à l'article 103ter decies, § 1er, alinéa 1er, 2° et 3° du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ou à l'article 84vicies ter, § 1, alinéa 1er, 2° et 3° du décret du 27 mars 1991 relatif au statut des membres du personnel de l'enseignement subventionné :
+
+1° un membre du personnel enseignant associé à la formation spécifique des enseignants ;
+
+2° un membre du personnel directeur et d'appui, rattaché au centre d'éducation des adultes qui propose la formation spécifique des enseignants.
+
+§ 2. Le personnel repris est inséré dans un grade du personnel académique ou du personnel administratif et technique, en tenant compte du certificat d'aptitude minimal requis.
+
+Pour l'évaluation du certificat d'aptitude requis, visé à l'alinéa 1er, les dispositions de l'article 7 de l'arrêté du Gouvernement flamand du 14 juin 1989 relatif aux titres, aux échelles de traitement, au régime de prestations et au statut pécuniaire dans l'enseignement secondaire s'appliquent au personnel visé au paragraphe 1er, 1°.
+
+Le personnel transféré perçoit, dans l'échelle de traitement associée à son grade, au moins le traitement annuel égal ou immédiatement supérieur au traitement annuel à 100% qu'il percevait au centre d'éducation des adultes.
+
+§ 3. La reprise et l'insertion ne sont possibles qu'avec l'accord du membre du personnel concerné.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 181, 010; En vigueur : 01-09-2019&gt;
+
+**Art. V.79/2**
+
+[<sup>1</sup> § 1er. Si, à la suite du transfert volontaire de personnel visé à l'article V.79/1, § 1er, 1°, moins de personnels de la formation spécifique des enseignants, en termes d'unités à plein temps, sont transférés à l'université que le pourcentage établi pour l'université conformément à l'article III.33/1, § 3, l'université peut, à partir du 1er octobre 2019, employer du personnel qui a été transféré conformément à l'article V.206/1 à un institut supérieur.
+
+L'emploi visé à l'alinéa 1er s'effectue de l'une des manières suivantes :
+
+1° par la reprise au cadre d'intégration visé à la partie 5, titre 1er, chapitre 3, section 1re ;
+
+2° au moyen d'un accord tel que visé à l'article V.223.
+
+L'emploi visé à l'alinéa 1er est possible pour l'ensemble ou pour une partie du volume de la mission du membre du personnel concerné à l'institut supérieur.
+
+§ 2. L'institut supérieur auquel le personnel est transféré en vertu de l'article V.206/1 et l'université pouvant reprendre l'emploi en vertu du paragraphe 1er concluent un accord tel que visé à l'article III.33/1, § 1er. Cet accord s'applique à l'ensemble du personnel de la formation spécifique des enseignants du centre d'éducation des adultes qui est transféré à l'institut supérieur en vertu de l'article V.206/1. Lors de l'attribution des emplois, l'institut supérieur et l'université tiendront compte au maximum des préférences du personnel concerné.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 182, 010; En vigueur : 01-09-2019&gt;
+
+**Art. V.79/3**
+
+[<sup>1</sup> Le membre du personnel employé en vertu d'un contrat tel que visé à l'article V.79/2, § 2 dans une université ou un institut supérieur, peut passer à l'autre établissement d'enseignement supérieur sans offre d'emploi publique ni procédure de sélection comparative jusqu'au 1er septembre 2024. Ce transfert s'effectue en modifiant le contrat entre l'université et l'institut supérieur et n'est pas possible sans le consentement du membre du personnel concerné.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 183, 010; En vigueur : 01-09-2019&gt;
+
+**Art. V.79/4**
+
+[<sup>1</sup> Une université peut employer un membre du personnel directeur et d'appui tel que visé à l'article V.79/1, § 1er, 2°, qui a été mis en disponibilité par défaut d'emploi au centre d'éducation des adultes. Cette mise à l'emploi s'opère toujours d'un commun accord entre le membre du personnel mis en disponibilité et l'université.
+
+Cette mise à l'emploi visée à l'alinéa 1er est considérée pour le membre du personnel nommé à titre définitif concerné comme une remise au travail conformément à l'arrêté du Gouvernement flamand du 29 avril 1992 relatif à la répartition de fonctions, à la mise en disponibilité par défaut d'emploi, à la réaffectation, à la remise au travail et à l'attribution d'un traitement d'attente ou d'une subvention-traitement d'attente.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 89, 012; En vigueur : 01-09-2019&gt;
+
+**Art. V.80.**
+
+[<sup>1</sup> Note;la traduction n'est pas complète, voir la version néerlandaise 13° /1 membre de la famille : une des personnes suivantes :
+
+a) le conjoint du membre du personnel ou la personne avec laquelle le membre du personnel cohabite légalement ;
+
+b) un parent jusqu'au deuxième degré ;
+
+c) un allié jusqu'au premier degré ;
+
+d) un parent jusqu'au premier degré du partenaire cohabitant de fait depuis au moins douze mois avec le membre du personnel ;
+
+13° /2 formule souple de travail : un aménagement des modalités de travail existantes du membre du personnel ; " ;
+
+14° /1 membre du ménage : toute personne qui cohabite avec le travailleur ; " ;
+
+15° /1 placement familial de longue durée : le placement familial dont il est clair dès le départ que l'enfant restera dans la même famille d'accueil avec les mêmes parents d'accueil pendant au moins six mois. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 25, 040; En vigueur : 24-04-2024&gt;
+
+**Art. V.88**
+
+[<sup>1</sup> point 5° abrogé]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-15/18, art. 101, 006; En vigueur : 01-09-2018&gt;
+
+**Art. V.91.**
+
+[<sup>1</sup> Note;la traduction n'est pas complète, voir la version néerlandaise
+
+L'alinéa 1er ne s'applique pas aux membres du personnel qui sont partiellement mis à disposition pour cause de maladie ou d'invalidité pendant un congé pour prestations réduites pour cause de maladie.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 26, 040; En vigueur : 01-02-2023&gt;
+
+**Art. V.92/1.**
+
+[<sup>1</sup> La direction de l'institut supérieur fixe les règles pour l'encadrement et l'évaluation des prestations et le mode de fonctionnement des membres du personnel, rémunérés à charge des allocations de fonctionnement de la Communauté flamande. Les règles garantissent au maximum les droits du membre du personnel.
+
+Si aucune initiative pour un entretien de suivi n'est prise par l'institut supérieur, le membre du personnel a le droit, une fois par an, de solliciter un entretien de suivi. Un rapport d'entretien de suivi peut être établi, dans lequel des objectifs personnels et de développement sont éventuellement repris.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 27, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.92/2.**
+
+[<sup>1</sup>§ 1er. Lorsque, sur la base d'un entretien de suivi, visé à l'article V.92/1, il apparaît qu'il y a des problèmes avec les prestations ou le mode de fonctionnement d'un membre du personnel nommé, un premier parcours de remédiation peut être entamé par l'évaluateur. La durée du premier parcours de remédiation est d'au moins neuf mois.
+
+Avant le début du premier parcours de remédiation, un document est établi dans lequel figurent au moins des accords clairs concernant les points d'amélioration nécessaires, les actions visant à l'amélioration et la durée du parcours. La décision relative aux points d'amélioration et à la durée est motivée. Les deux parties reçoivent un exemplaire écrit ou électronique de ce document, d'une manière établissant clairement la date de réception.
+
+Le délai visé à l'alinéa 1er est d'au moins trois mois si les problèmes visés à l'alinéa 1er réapparaissent dans un délai de 24 mois après la conclusion d'un deuxième parcours de remédiation, visé au paragraphe 2.
+
+Le premier parcours de remédiation se termine par une évaluation. L'évaluation donne lieu à une conclusion motivée "favorable" ou "insatisfaisant". Les deux parties reçoivent un exemplaire écrit ou électronique du document d'évaluation, d'une manière établissant clairement la date de réception.
+
+La conclusion "favorable" signifie que les prestations et le mode de fonctionnement du membre du personnel satisfont aux exigences liées à la fonction et que le parcours de remédiation prend fin. La conclusion "insatisfaisant" signifie que les prestations ou le mode de fonctionnement du membre du personnel ne satisfont pas à toutes les exigences liées à la fonction et qu'un deuxième parcours de remédiation est nécessaire.
+
+Un membre du personnel peut introduire un recours contre la conclusion "insatisfaisant" visée à l'alinéa 4. Le recours ne suspend pas le début d'un deuxième parcours de remédiation.
+
+§ 2. Après une conclusion "insatisfaisant", visée au paragraphe 1er, alinéa 4, un deuxième parcours de remédiation est entamé. La durée du deuxième parcours de remédiation est d'au moins trois mois.
+
+Avant le début du deuxième parcours de remédiation, un document est établi dans lequel figurent au moins des accords clairs concernant les points d'amélioration nécessaires, les actions visant à l'amélioration et la durée du parcours. La décision relative aux points d'amélioration et à la durée est motivée. Les deux parties reçoivent un exemplaire écrit ou électronique de ce document, d'une manière établissant clairement la date de réception.
+
+Le deuxième parcours de remédiation se termine par une évaluation. L'évaluation donne lieu à une conclusion motivée "favorable" ou "insuffisant". La conclusion "favorable" signifie que les prestations et le mode de fonctionnement du membre du personnel satisfont aux exigences liées à la fonction et que le parcours de remédiation prend fin. La conclusion "insuffisant" signifie que les prestations ou le mode de fonctionnement du membre du personnel ne satisfont pas aux exigences liées à la fonction. Après la conclusion " insuffisant ", la direction de l'institut supérieur peut licencier le membre du personnel.
+
+Un membre du personnel peut introduire un recours contre la conclusion " insuffisant " visée à l'alinéa 3. Le recours suspend la mise en oeuvre du licenciement du membre du personnel ou des autres mesures à la suite de cette conclusion.
+
+§ 3. Pendant le premier parcours de remédiation visé au paragraphe 1er et le deuxième parcours de remédiation visé au paragraphe 2, l'évaluateur ou le membre du personnel peut solliciter un entretien intermédiaire avec respectivement le membre du personnel ou l'évaluateur. Lors de cet entretien, une évaluation intermédiaire du parcours de remédiation en cours est établie. L'entretien peut déboucher sur une des décisions suivantes :
+
+1° la poursuite du parcours de remédiation sans changement ;
+
+2° la prolongation du délai du parcours de remédiation ;
+
+3° l'adaptation des actions visant à l'amélioration des prestations ou du mode de fonctionnement du membre du personnel ;
+
+4° la fin du parcours de remédiation. Cette décision n'est possible que si l'évaluateur juge que les prestations et le mode de fonctionnement du membre du personnel satisfont aux exigences liées à la fonction.
+
+§ 4. En cas de grossesse, de période ininterrompue d'absence d'au moins dix semaines pour cause de maladie ou d'interruption de carrière à temps plein, ou de période ininterrompue d'absence d'au moins vingt semaines d'interruption de carrière à mi-temps au cours du premier parcours de remédiation, visé au paragraphe 1er, ou du deuxième parcours de remédiation, visé au paragraphe 2, le parcours de remédiation peut être prolongé pour une durée supplémentaire, à la demande du membre du personnel. La demande est introduite auprès de la direction de l'institut supérieur avant la fin du parcours de remédiation en cours. Le délai supplémentaire s'élève au maximum au délai du parcours de remédiation en cours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 28, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.92/3.**
+
+[<sup>1</sup> § 1er. Lorsque, sur la base d'un entretien de suivi, visé à l'article V.92/1, il apparaît qu'il y a des problèmes avec les prestations ou le mode de fonctionnement d'un membre du personnel temporaire ayant une ancienneté de fonction d'au moins huit ans, un premier parcours de remédiation peut être entamé par l'évaluateur. Pour un membre du personnel temporaire ayant une ancienneté de fonction d'au moins huit ans, la durée du parcours de remédiation est d'au moins quatre mois. Pour un membre du personnel temporaire ayant une ancienneté de fonction d'au moins dix ans, la durée du parcours de remédiation est d'au moins six mois.
+
+Avant le début du parcours de remédiation, un document est établi dans lequel figurent au moins des accords clairs concernant les points d'amélioration nécessaires, les actions visant à l'amélioration et la durée du parcours. La décision relative aux points d'amélioration et à la durée est motivée. Les deux parties reçoivent un exemplaire écrit ou électronique de ce document, d'une manière établissant clairement la date de réception.
+
+Le parcours de remédiation se termine par une évaluation. L'évaluation donne lieu à une conclusion motivée "favorable" ou "insuffisant". La conclusion "favorable" signifie que les prestations et le mode de fonctionnement du membre du personnel satisfont aux exigences liées à la fonction et que le parcours de remédiation prend fin. La conclusion "insuffisant" signifie que les prestations ou le mode de fonctionnement du membre du personnel ne satisfont pas aux exigences liées à la fonction. Après la conclusion "insuffisant", la direction de l'institut supérieur peut licencier le membre du personnel.
+
+Un membre du personnel peut introduire un recours contre la conclusion "insuffisant" visée à l'alinéa 3. Le recours suspend la mise en oeuvre du licenciement du membre du personnel ou des autres mesures à la suite de cette conclusion.
+
+§ 2. Pendant le parcours de remédiation visé au paragraphe 1er, l'évaluateur ou le membre du personnel peut solliciter un entretien intermédiaire avec respectivement le membre du personnel ou l'évaluateur. Lors de cet entretien, une évaluation intermédiaire du parcours de remédiation en cours est établie. L'entretien peut déboucher sur une des décisions suivantes :
+
+1° la poursuite du parcours de remédiation sans changement ;
+
+2° la prolongation du délai du parcours de remédiation ;
+
+3° l'adaptation des actions visant à l'amélioration des prestations ou du mode de fonctionnement du membre du personnel ;
+
+4° la fin du parcours de remédiation. Cette décision n'est possible que si l'évaluateur juge que les prestations et le mode de fonctionnement du membre du personnel satisfont aux exigences liées à la fonction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 29, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.93.**
+
+[<sup>1</sup> Note;la traduction n'est pas complète, voir la version néerlandaise
+
+§ 2. L'évaluation d'un membre du personnel nommé fait suite à un parcours de remédiation, visé à l'article V.92/2. L'évaluation d'un membre du personnel temporaire ayant une ancienneté de fonction d'au moins huit années fait suite à un parcours de remédiation, visé à l'article V.92/3.
+
+La direction de l'institut supérieur fixe dans un règlement d'évaluation, visé au paragraphe 1er, à quel moment une évaluation d'un membre du personnel intervient qui ne tombe pas dans le champ d'application de l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 30, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.102**
+
+[<sup>1</sup> ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-12-08/13, art. 10, 033; En vigueur : 01-10-2023&gt;
+
+**Art. V.108**
+
+[<sup>1</sup> Un membre du personnel temporaire ou nommé à titre définitif ou un membre du personnel tel que visé à l'article V.264, 2°, qui reçoit une autre désignation par changement de fonction dans l'institut supérieur, maintient sa désignation ou sa nomination ou ses droits transitoires liés à sa fonction précédente aussi longtemps qu'il n'est pas nommé dans l'autre fonction dans cet institut supérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 120, 013; En vigueur : 01-01-2019&gt;
+
+**Art. V.109.**
+
+[<sup>1</sup> Note;la traduction n'est pas complète, voir la version néerlandaise ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 31, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.110**
+
+§ 2. Note; la traduction n'est pas complète, voir la version néerlandaise
+
+[<sup>1</sup> Si la direction de l'institut supérieur met fin à la désignation d'un membre du personnel transféré en vertu de l'article V.206/1 à l'institut supérieur, l'ancienneté de service du membre du personnel dans l'enseignement supérieur professionnel hbo5 ou dans la formation spécifique des enseignants auprès du centre d'éducation des adultes sera également prise en compte pour déterminer le délai de préavis.]<sup>1</sup>
+
+[<sup>2</sup> § 3. Sauf pour des motifs étrangers à l'exercice des droits suivants, la direction de l'institut supérieur ne peut, par dérogation au paragraphe 2, pas poser d'actes qui mettent fin à la désignation d'un membre du personnel qui fait usage de l'un de ces droits :
+
+1° le droit à un congé de naissance visé à l'article 7/1 de l'arrêté du Gouvernement flamand du 31 mars 2006 réglant certains congés pour les membres du personnel des instituts supérieurs en Communauté flamande et de l'Ecole supérieure de Navigation (" Hogere Zeevaartschool ") ;
+
+2° le droit au congé parental visé à l'article 14 de l'arrêté du Gouvernement flamand du 24 mai 2002 relatif à l'interruption de la carrière professionnelle des membres du personnel des instituts supérieurs en Communauté flamande et de l'Ecole supérieure de Navigation ;
+
+3° le droit à un congé d'aidant visé à l'article 19 de l'arrêté du Gouvernement flamand du 31 mars 2006 réglant certains congés pour les membres du personnel des instituts supérieurs en Communauté flamande et de l'Ecole supérieure de Navigation ;
+
+4° le droit de demander une formule souple de travail visé à l'article V.116/6 ;
+
+5° le droit d'exercer une activité secondaire, dans les limites des règles de cumul et des règles en matière d'incompatibilités visées au chapitre 2, sections 6 et 7, et au chapitre 3, section 6 ;
+
+6° le droit à un changement de fonction, visé à l'article V.108.
+
+L'interdiction visée à l'alinéa 1er prend cours le jour de la demande d'un des droits visés à l'alinéa 1er, 1° et 3° à 5°, ou de la naissance de l'enfant en cas de congé parental tel que visé à l'alinéa 1er, 2°, et prend fin trente jours après la date limite pour l'exercice du droit.
+
+La direction de l'institut supérieur communique par écrit au membre du personnel les motifs du licenciement. Si les motifs invoqués ne sont pas étrangers à l'exercice du droit dont le membre du personnel fait usage ou si aucun motif n'est indiqué, la direction de l'institut supérieur paie au membre du personnel, en plus du délai ou de l'indemnité de préavis, une indemnité forfaitaire égale au salaire brut pour six mois. L'indemnité précitée ne peut, lors du licenciement d'un membre du personnel qui fait usage des droits visés à l'alinéa 1er, 1°, 2° et 5°, être cumulée à d'autres indemnités prévues dans le cadre d'une procédure particulière de protection contre le licenciement.
+
+Tout acte de la direction de l'institut supérieur au terme de la période, visée à l'alinéa 2, ayant pour objectif de mettre fin à la désignation, pour lequel des préparatifs sont effectués au cours de la période visée à l'alinéa 2, est assimilé à un licenciement par la direction de l'institut supérieur tel que visé à l'alinéa 1er. Les préparatifs quelconques précités comprennent également l'adoption de la décision de licenciement.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 185, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2024-03-22/17, art. 32, 040; En vigueur : 24-04-2024&gt;
+
+**Art. V.110/1**
+
+[<sup>1</sup> En application de l'article V.170, la direction de l'institut supérieur réduit d'office et sans préavis la désignation d'un membre du personnel enseignant si toutes les conditions suivantes sont réunies :
+
+1° le membre du personnel a au moins une désignation ou nomination à temps plein ou à mi-temps à une ou plusieurs fonctions du personnel enseignant de l'institut supérieur ;
+
+2° le membre du personnel exerce une autre activité rémunérée ou une activité professionnelle en plus de sa charge à l'institut supérieur ;
+
+3° le volume total des charges visées aux points 1° et 2° est supérieur à 120 %.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-05/42, art. 121, 013; En vigueur : 01-09-2018&gt;
+
+**Art. V.111**
+
+§ 1.Note;la traduction n'est pas complète, voir la version néerlandaise
+
+[<sup>1</sup> 8° lorsqu'un membre du personnel transféré en vertu de l'article V.206/1, alinéa 1er, 1°, d'un centre d'éducation des adultes retourne dans un centre en vertu de l'article 31, § 5 du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ou de l'article 45, § 5 du décret du 27 mars 1991 relatif au statut des membres du personnel de l'enseignement subventionné.]<sup>1</sup>
+
+§ 2.
+
+[<sup>2</sup> Dans les cas visés à l'alinéa 1er, la direction de l'institut supérieur accorde un délai de préavis. Le délai de préavis est de trois mois pour le membre du personnel ayant complété moins de cinq ans d'ancienneté à l'institut supérieur ou son prédécesseur. Ce délai est majoré de trois mois par tranche entamée de cinq ans d'ancienneté. La direction de l'institut supérieur et le membre du personnel intéressé peuvent convenir d'un délai de préavis plus long ou plus court.
+
+Le délai de préavis commence le premier jour du mois suivant la notification du licenciement. La notification se fait par lettre recommandée et prend effet le troisième jour après l'envoi.
+
+La direction de l'institut supérieur peut décider que le licenciement prend effet immédiatement. Dans ce cas, la direction de l'institut supérieur verse une indemnité de rupture égale au traitement correspondant à la durée du préavis calculé.
+
+En vue de la reprise du membre du personnel dans le régime de l'assurance chômage, de l'assurance maladie (secteur allocations) et de l'assurance maternité, les cotisations ouvrières concernées sont retenues pendant le délai de préavis ou sur l'indemnité de rupture, et versées ensemble avec les cotisations patronales. Lorsque ces cotisations ne suffisent pas, l'institut supérieur paie les cotisations patronales et ouvrières encore requises.]<sup>2</sup>
+
+[<sup>3</sup> 2° le licenciement consécutif à une évaluation "insuffisant". ]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 186, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2019-04-05/42, art. 122, 013; En vigueur : 01-09-2019&gt;
+
+(3)&lt;DCFL 2024-03-22/17, art. 33, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.111/1**
+
+[<sup>1</sup> En application de l'article V.170, la direction de l'institut supérieur réduit d'office et sans préavis la nomination d'un membre du personnel enseignant si toutes les conditions suivantes sont réunies :
+
+1° le membre du personnel a au moins une désignation ou nomination à temps plein ou à mi-temps à une ou plusieurs fonctions du personnel enseignant de l'institut supérieur ;
+
+2° le membre du personnel exerce une autre activité rémunérée ou une activité professionnelle en plus de sa charge à l'institut supérieur ;
+
+3° le volume total des charges visées aux points 1° et 2° est supérieur à 120 % ;
+
+4° aucune autre réduction d'office d'une désignation comme membre du personnel enseignant n'est possible.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2019-04-05/42, art. 123, 013; En vigueur : 01-09-2018&gt;
+
+##### Section 7. [<sup>1</sup> Congé politique]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-15/18, art. 102, 006; En vigueur : 01-09-2018&gt;
+
+**Art. V.116/1**
+
+[<sup>1</sup> Les membres du personnel sont envoyés en congé politique d'office et sans qu'ils puissent s'y soustraire, pour l'exercice des mandats politiques suivants :
+
+1° la qualité de membre du Parlement européen ou belge, d'un conseil communautaire ou régional, de la Commission de l'Union européenne, d'un gouvernement au niveau fédéral, communautaire ou régional ;
+
+2° la fonction de gouverneur, de vice-gouverneur, d'adjoint du gouverneur de la province du Brabant flamand ou le mandat de membre de l'instance juridictionnelle, visé à l'article 83quinquies, § 2, de la loi spéciale du 12 janvier 1989 relative aux Institutions bruxelloises, ou de député permanent ou de secrétaire d'état dans le Région de Bruxelles-Capitale ;
+
+3° [<sup>2</sup> la fonction de bourgmestre, de bourgmestre de district, d'échevin, [<sup>3</sup> ...]<sup>3</sup> ou de président du comité spécial du service social dans une commune ou un district de plus de 50.000 habitants.]<sup>2</sup>
+
+Le congé politique commence d'office à la date de la prestation de serment pour un des mandats visés à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-15/18, art. 103, 006; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFL 2018-12-21/18, art. 2, 011; En vigueur : 01-01-2019&gt;
+
+(3)&lt;DCFL 2019-04-05/42, art. 124, 013; En vigueur : 01-01-2019&gt;
+
+**Art. V.116/2**
+
+[<sup>1</sup> La direction de l'institut supérieur peut accorder à un membre du personnel, à sa demande, un congé politique pour l'exercice d'un mandat de bourgmestre, de bourgmestre de district, d'échevin, d'échevin de district, de président du conseil de l'aide sociale [<sup>2</sup> de la commune de Fourons ou d'une commune telle que visée à l'article 7 des lois sur l'emploi des langues en matière administrative, coordonnées le 18 juillet 1966, ou de président du]<sup>2</sup> comité spécial du service social, quel que soit le nombre d'habitants. Le membre du personnel peut prendre le congé à temps plein ou à temps partiel.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-12-21/18, art. 3, 011; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2019-04-05/42, art. 125, 013; En vigueur : 01-01-2019&gt;
+
+**Art. V.116/3**
+
+[<sup>1</sup> Pour l'application de l'article V.116/1, le nombre d'habitants est déterminé conformément à l'article 4, § 3, du décret du 22 décembre 2017 sur l'administration locale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-15/18, art. 105, 006; En vigueur : 01-09-2018&gt;
+
+**Art. V.116/4**
+
+[<sup>1</sup> Pendant les périodes de congé politique d'office ou à la propre demande, le membre du personnel se trouve en non-activité. Durant ces périodes, le membre du personnel n'a pas droit à un traitement. Les périodes de congé politique entrent cependant en ligne de compte pour le calcul de l'ancienneté pécuniaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-15/18, art. 106, 006; En vigueur : 01-09-2018&gt;
+
+**Art. V.116/5**
+
+[<sup>1</sup> Le congé politique se termine au plus tard le dernier jour du mois qui suit le mois dans lequel le mandat prend fin.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-15/18, art. 107, 006; En vigueur : 01-09-2018&gt;
+
+##### Section 8. [<sup>1</sup> Formules souples de travail]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 34, 040; En vigueur : 24-04-2024&gt;
+
+**Art. V.116/6.**
+
+[<sup>1</sup>§ 1er. Un membre du personnel a le droit de demander une formule souple de travail pour une période maximale ininterrompue de 12 mois pour :
+
+1° prendre soin d'un enfant :
+
+a) en raison de la naissance d'un enfant dont la filiation est établie à l'égard du membre du personnel, jusqu'à ce que l'enfant atteigne son douzième anniversaire ;
+
+b) en raison de l'adoption d'un enfant, jusqu'à ce que l'enfant atteigne son douzième anniversaire ;
+
+c) en cas de tutelle sur l'enfant au sens de l'article 389 du Code civil, jusqu'à ce que l'enfant atteigne son douzième anniversaire ;
+
+d) en cas de placement familial de longue durée, jusqu'à ce que l'enfant atteigne son douzième anniversaire ;
+
+2° octroyer des soins personnels ou une aide personnelle à un membre déterminé du ménage ou de la famille qui nécessite des soins ou une aide sociale, familiale ou mentale pour une raison médicale grave.
+
+Le droit visé à l'alinéa 1er, 1°, s'applique également au membre du personnel qui est marié ou cohabite avec la personne à l'égard de laquelle la filiation est établie et chez laquelle l'enfant a son domicile.
+
+La limite d'âge de 12 ans visée à l'alinéa 1er, 1°, est de 21 ans lorsque l'enfant est atteint d'une incapacité physique ou mentale de 66 % ou souffre d'une affection qui a pour conséquence qu'au moins 4 points sont reconnus dans le pilier I de l'échelle médico-sociale au sens de la réglementation relative aux allocations familiales ou d'une affection entraînant la reconnaissance d'au moins 9 points dans l'ensemble des trois piliers de l'échelle médico-sociale.
+
+La condition du 12e ou du 21e anniversaire visée à l'alinéa 1er, 1° et à l'alinéa 3 doit être satisfaite au plus tard pendant la période de formule souple du travail. Si le membre du personnel a introduit en temps utile une demande de formule souple de travail et que la mise en oeuvre de la formule souple de travail est reportée sur proposition de la direction de l'institut supérieur, la condition précitée du 12e ou du 21e anniversaire peut être dépassée.
+
+§ 2. Un membre du personnel qui souhaite une formule souple de travail pour s'occuper d'un proche telle que visée au paragraphe 1er, alinéa 1er, transmet à cet effet une demande écrite à la direction de l'institut supérieur au moins deux mois et au maximum trois mois avant la date de début souhaitée. Le délai précité peut être réduit moyennant un accord mutuel entre la direction de l'institut supérieur et le membre du personnel.
+
+La demande visée à l'alinéa 1er mentionne les éléments suivants :
+
+1° une référence au droit de demander une formule souple de travail énoncé dans le présent article ;
+
+2° le type de formule souple de travail demandée ;
+
+3° la date de prise de cours et de fin de la formule souple de travail ;
+
+4° le but de soins à prodiguer, visé au paragraphe 1er, alinéa 1er, pour lequel la formule souple de travail est demandée.
+
+La direction de l'institut supérieur a le droit de demander un document ou des documents étayant la finalité des soins invoquée conformément à l'alinéa 2.
+
+§ 3. La direction de l'institut supérieur transmet au membre du personnel une réponse écrite dans les trente jours suivant la réception de la demande visée au paragraphe 2 par la direction de l'institut supérieur. La direction de l'institut supérieur statue sur la demande précitée, en tenant compte des besoins du membre du personnel et de la continuité de l'enseignement, de la recherche et de la prestation de services.
+
+La direction de l'institut supérieur peut accepter ou refuser la demande précitée, ou formuler une contre-proposition motivée consistant en une autre formule souple de travail ou une autre période pour l'exercice de la formule souple de travail. Le report d'une formule souple de travail ne peut pas avoir pour conséquence que la formule souple de travail devienne impossible. Si la direction de l'institut supérieur refuse la demande précitée, elle communique la décision de refus motivée par écrit au membre du personnel.
+
+En cas d'absence de réponse de la direction de l'institut supérieur dans les trente jours suivant la demande visée au paragraphe 2, le membre du personnel peut renouveler sa demande de formule souple de travail. L'absence de réponse de la direction de l'institut supérieur au renouvellement de la demande est assimilée à un accord.
+
+§ 4. Le membre du personnel peut introduire une demande motivée, par écrit, pour mettre fin anticipativement à la formule souple de travail. La direction de l'institut supérieur fournit une réponse motivée à la demande précitée dans les quatorze jours. La direction de l'institut supérieur peut fixer un délai de préavis pour l'interruption anticipée de la formule souple de travail.
+
+§ 5. Les membres du personnel ont le droit de retrouver leurs modalités de travail initiales à l'issue de la période de formule souple de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 35, 040; En vigueur : 24-04-2024&gt;
+
+**Art. V.118.**
+
+[<sup>1</sup>Note; la traduction n'est pas complète, voir la version néerlandaise]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 36, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.120.**
+
+[<sup>1</sup> Note;la traduction n'est pas complète, voir la version néerlandaise ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 37, 040; En vigueur : 01-09-2019&gt;
+
+**Art. V.121**
+
+(NOTE : incomplètement traduit, voir version néerlandaise)
+
+[<sup>1</sup>
+
+Al. 5. Par dérogation à l'alinéa 2, un membre du personnel dans une fonction du groupe 1 qui remplit les conditions suivantes, peut rester désigné et, le cas échéant, être nommé dans la formation de master éducatif pour les arts :
+
+1° le membre du personnel exerçait jusqu'au 31 août 2019 une mission dans la formation spécifique des enseignants pour les arts ;
+
+2° le membre du personnel exerce à partir du 1er septembre 2019 une mission dans la formation de master éducatif pour les arts.]<sup>1</sup>
+
+Al. 6. [<sup>2</sup> Par dérogation à l'alinéa deux, un membre du personnel de l'Ecole supérieure de navigation d'Anvers nommé au 1er juin 2021 dans la fonction de maître de conférences de formation pratique ou de maître de conférences principal de formation pratique peut, dans les conditions suivantes, conserver cette fonction à titre personnel et continuer à exercer dans la formation mécanique navale, dans la limite du volume de charge à la date précitée :
+
+1° le membre du personnel a exercé cette charge jusqu'au 31 août 2021 dans le bachelor professionnel en mécanique navale ;
+
+2° à compter du 1er septembre 2021, le membre du personnel n'est chargé, dans le volet enseignement de sa charge, que de subdivisions de formation pratiques dans le bachelor académique de la formation mécanique navale.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-07-03/39, art. 163, 017; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2021-07-09/33, art. 230, 022; En vigueur : 01-09-2021&gt;
+
+(0)&lt;DCFL 2024-03-22/17, art. 38,1°, 040; En vigueur : 01-04-2024&gt;
+
+(0)&lt;DCFL 2024-03-22/17, art. 38,2°, 040; En vigueur : 01-09-2019&gt;
+
+(0)&lt;DCFL 2024-03-22/17, art. 38,3°, 040; En vigueur : 01-04-2024&gt;
+
+(0)&lt;DCFL 2024-03-22/17, art. 38,4°, 040; En vigueur : 01-04-2024&gt;
+
+(0)&lt;DCFL 2024-03-22/17, art. 38,5°, 040; En vigueur : 01-09-2019&gt;
+
+**Art. V.122.**
+
+[<sup>1</sup> Note; la traduction n'est pas complète, voir la version néerlandaise ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 39, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.124.**
+
+[<sup>1</sup>Note;la traduction n'est pas complète, voir la version néerlandaise ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 40, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.125.**
+
+[<sup>1</sup> Un assistant a le droit de consacrer au moins la moitié du temps de travail à la préparation d'une thèse de doctorat.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-03-22/17, art. 41, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.127.**
+
+[<sup>1</sup> Note;la traduction n'est pas complète, voir la version néerlandaise ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 42, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.135**
+
+(NOTE : incomplètement traduit, voir version néerlandaise)
+
+[<sup>1</sup> La direction de l'institut supérieur peut constituer une réserve de recrutement pour un ensemble de fonctions apparentées.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/33, art. 232, 022; En vigueur : 01-09-2021&gt;
+
+**Art. V.137.**
+
+[<sup>1</sup> Note;la traduction n'est pas complète, voir la version néerlandaise
+
+§ 2. Un recrutement d'un membre du personnel dans un emploi, à l'exception de la désignation de moins d'une année académique, ne peut s'opérer qu'après une vacance d'emploi publique. La vacance d'emploi publique est publiée par le biais d'au moins deux canaux d'information publics.
+
+§ 3. La portée d'un mandat peut toujours être étendue sans vacance d'emploi. Dans ce cas, l'accord du membre du personnel concerné est toujours requis.
+
+§ 4. Les chargés de cours invités peuvent être réaffectés sans nouvelle vacance d'emploi à un emploi du cadre du personnel enseignant avec maintien de l'ancienneté de l'échelle de traitement acquise, à condition :
+
+1° qu'ils aient été recrutés suivant la procédure répondant aux conditions de recrutement fixées aux paragraphes 1er et 2 ;
+
+2° qu'ils possèdent l'attestation d'aptitude minimum requis pour la fonction à laquelle ils sont réaffectés ou d'en être exemptés en application de l'article V.149 ;
+
+3° qu'ils possèdent la fonction, l'ancienneté et l'échelle de traitement qu'ils auraient obtenues si les services antérieurs avaient été rendus dans la fonction à laquelle ils sont réaffectés conformément aux dispositions légales, décrétales et réglementaires applicables au personnel enseignant à charge des allocations annuelles de fonctionnement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 43, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.139.**
+
+[<sup>1</sup> Note;la traduction n'est pas complète, voir la version néerlandaise ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 44, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.140**
+
+&lt;Abrogé par DCFL 2019-04-05/42, art. 126, 013; En vigueur : 01-01-2019&gt;
+
+**Art. V.141.**
+
+[<sup>1</sup> Note;la traduction n'est pas complète, voir la version néerlandaise ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 45, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.141/1.**
+
+[<sup>1</sup> Les assistants chargés d'exercices peuvent être désignés ou nommés. Le nombre d'assistants chargés d'exercices pouvant être nommés est limité à maximum 25 % du nombre total d'assistants et assistants chargés d'exercices, exprimé en unités à temps plein.
+
+Par dérogation à l'alinéa 1er, la direction de l'institut supérieur peut nommer un membre du personnel enseignant dans la fonction d'assistant chargé d'exercices, si celui-ci remplit une des conditions suivantes :
+
+1° le membre du personnel a atteint l'âge de 55 ans, remplit les conditions pour une nomination à titre définitif et a été en service, sans interruption et depuis le 1er janvier 1996, en tant qu'assistant ou assistant chargé d'exercices auprès de l'institut supérieur ;
+
+2° le membre du personnel a atteint l'âge de 55 ans au 1er janvier 2008 et, à cette date, a été désigné, sans interruption pendant au moins six ans, dans la fonction d'assistant auprès de l'institut supérieur.
+
+Si le membre du personnel a déjà une nomination dans un autre institut supérieur ou un autre niveau d'enseignement, il ne peut être nommé définitivement qu'à concurrence d'une nomination à temps plein au maximum.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 46, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.142.**
+
+[<sup>1</sup> Note;la traduction n'est pas complète, voir la version néerlandaise. En cas de grossesse, de période ininterrompue d'absence d'au moins dix semaines pour cause de maladie ou d'interruption de carrière à temps plein, ou de période ininterrompue d'absence d'au moins vingt semaines d'interruption de carrière à mi-temps au cours du premier ou deuxième terme du mandat, le mandat d'assistant-docteur est, après le deuxième terme visé à l'alinéa 1er, prolongé une fois pour un terme supplémentaire de six mois à un an, à la demande du membre du personnel. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 47, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.144.**
+
+[<sup>1</sup>Note; la traduction n'est pas complète, voir la version néerlandaise]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 48, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.147.**
+
+[<sup>1</sup> La direction de l'institut supérieur peut employer des chargés de cours invités, sur base contractuelle, hors cadre.
+
+Les chargés de cours invités ayant un mandat d'au moins 50 % d'un mandat à temps plein qui sont rémunérés selon une échelle de traitement, l'ancienneté, le pécule de vacances et la prime de fin d'année qui y sont associés, peuvent être employés pour une durée indéterminée. Les affectations successives pour une durée déterminée sont à durée indéterminée à partir de la troisième année.
+
+[<sup>2</sup> Par dérogation aux alinéas 1er et 2, l'autorité de la haute école peut employer des professeurs invités à temps partiel, sur base contractuelle, hors cadre comme travailleurs exerçant un flexi-job comme visé à l'article 3, 3°, de la loi du 16 novembre 2015 portant des dispositions diverses en matière sociale. Les professeurs invités ne peuvent être rémunérés à charge des allocations de fonctionnement. Les professeurs invités ne peuvent avoir d'autre occupation au sein de la haute école. La loi du 3 juillet 1978 relative aux contrats de travail s'applique à ces membres du personnel.]<sup>2</sup>
+
+Les chargés de cours invités ayant un mandat de moins de 50 % d'un mandat à temps plein peuvent, indépendamment de la façon dont ils sont rémunérés, être employés pour une durée indéterminée. Les affectations successives pour une durée déterminée sont à durée indéterminée à partir de la troisième année.
+
+Les chargés de cours invités ayant un mandat d'au moins 50 % d'un mandat à temps plein qui sont rémunérés par un montant sont employés pour une durée de maximum cinq années. Les affectations successives ne peuvent dépasser la durée totale de cinq années.
+
+Dans les formations d'un School of Arts, le pourcentage d'occupation visé aux alinéas 2 et 3 est de 70 % d'un mandat à temps plein. A compter de 2025, le pourcentage de 70 % est réduit de façon linéaire pendant cinq ans à 50 %. La direction de l'institut supérieur peut arrêter un autre schéma de réduction linéaire dans ce même délai de cinq ans par voie de règlement conclu par un protocole d'accord.
+
+Pour l'application du présent article, on entend par " affectations successives " les affectations qui se succèdent sans interruption, ou dont l'interruption entre deux affectations est inférieure à trois mois. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 49, 040; En vigueur : 01-04-2024&gt;
+
+(2)&lt;DCFL 2024-04-19/55, art. 162, 041; En vigueur : 01-04-2024&gt;
+
+**Art. V.148**
+
+(NOTE : incomplètement traduit, voir version néerlandaise)
+
+[<sup>1</sup> le mot " professionnel " est abrogé]<sup>1</sup>
+
+§ 3.
+
+[<sup>2</sup> Dans l'article V.148, § 3, du même Code, le membre de phrase " soit un brevet d'aptitude STCW de master de navires de mer d'un tonnage brut égal ou supérieur à 3000, soit " est inséré entre le membre de phrase " Pour la formation Sciences nautiques, " et les mots " le brevet de capitaine au long cours ".]<sup>2</sup>
+
+Al. 2. [<sup>3</sup> Pour les formations académiques de bachelor et de master en mécanique navale, le titre requis pour les fonctions de chargé de cours, chargé de cours principal et professeur peut également être un Certificate of Competence/brevet d'aptitude A-III/2 en tant que Chief Engineer, tel que décrit à la Règle III/2 de la Convention STCW de 1978.]<sup>3</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-15/18, art. 108, 006; En vigueur : 01-09-2016&gt;
+
+(2)&lt;DCFL 2019-04-05/42, art. 127, 013; En vigueur : 01-01-2002&gt;
+
+(3)&lt;DCFL 2021-07-09/33, art. 231, 022; En vigueur : 01-09-2021&gt;
+
+(0)&lt;DCFL 2024-03-22/17, art. 50, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.150.**
+
+[<sup>1</sup> Outre les conditions visées à l'article V.122 et les certificats d'aptitude requis visés à l'article V.148, la direction de l'institut supérieur fixe préalablement par voie de règlement les critères, avec les compétences de fond et comportementales, pour attribuer la fonction de maître de conférences de formation pratique, maître de conférences principal de formation pratique, maître de conférences, maître de conférences principal, chargé de cours, chargé de cours principal, professeur et professeur ordinaire. La direction de l'institut supérieur communique le règlement précité au sein de l'institut supérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 51, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.154.**
+
+[<sup>1</sup> Note; la traduction n'est pas complète, voir la version néerlandaise ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 52, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.159.**
+
+[<sup>1</sup> Un chargé de cours peut être rémunéré soit par un montant, soit selon une échelle de traitement. La rémunération d'un chargé de cours invité ne peut être supérieure au traitement lié à la fonction de professeur ordinaire.
+
+Par dérogation à l'alinéa 1er, un chargé de cours invité ayant un mandat d'au moins 70 % d'un mandat à temps plein dans les formations d'un School of Arts est exclusivement rémunéré selon une échelle de traitement. Le chargé de cours invité perçoit dans ce traitement l'ancienneté, le pécule de vacances et la prime de fin d'année correspondants. A compter de 2025, le pourcentage de 70 % est réduit de façon linéaire pendant cinq ans à 50 %. La direction de l'institut supérieur peut arrêter un autre schéma de réduction linéaire par voie de règlement conclu par un protocole d'accord.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 53, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.164**
+
+[<sup>1</sup> (voir version néerlandaise) ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-07-03/39, art. 164, 017; En vigueur : 01-09-2018&gt;
+
+(0)&lt;DCFL 2024-03-22/17, art. 54, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.165.**
+
+[<sup>1</sup> Note; la traduction n'est pas complète, voir la version néerlandaise ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 55, 040; En vigueur : 01-04-2024&gt;
+
+##### Section 6. [<sup>1</sup> Cumuls ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-15/18, art. 109, 006; En vigueur : 01-09-2018&gt;
+
+**Art. V.170**
+
+[<sup>1</sup> Le volume total des charges d'un membre du personnel qui exerce au moins une demi-charge dans un institut supérieur et qui exerce également une autre activité rémunérée ou professionnelle s'élève à 120 % au maximum.
+
+Si le volume total des charges, visées à l'alinéa 1er, dépasse 120 %, la charge à l'institut supérieur est réduite d'office à un pourcentage nécessaire pour atteindre la limite de 120 %. Le volume de la charge qu'un membre du personnel exerce à l'institut supérieur après la réduction s'élève à 50 % au moins.
+
+Une charge qui est supposée prendre une demi-journée de travail par semaine correspond à un volume de 10 % d'une charge à temps plein.]<sup>1</sup>
+
+[<sup>2</sup> Lorsque le volume total des charges, visées à l'alinéa 1er, après application de la réduction, visée à l'alinéa 2, dépasse 120 %, le volume de la charge que le membre du personnel exerce à l'institut supérieur est réduit à 45 %. ]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-15/18, art. 111, 006; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFL 2019-04-05/42, art. 128, 013; En vigueur : 01-09-2019&gt;
+
+**Art. V.171**
+
+[<sup>1</sup> Par dérogation à l'article V.170, la charge du membre du personnel qui exerce au moins une charge à mi-temps d'activités d'enseignement artistique dans les disciplines Arts audiovisuels et plastiques, et Musique et arts de la scène, visées à l'article V.164, § 1er, et qui exerce également une autre activité rémunérée ou activité professionnelle, n'est pas limitée à 120 % si ces activités accessoires sont de nature artistique et sont connexes à ses activités d'enseignement. Cette dérogation s'applique également aux activités accessoires dans l'enseignement artistique. Les principes de l'exercice des activités accessoires dans l'enseignement artistique sont développés plus en détail au sein du comité de négociation de l'institut supérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-04-05/42, art. 129, 013; En vigueur : 01-09-2018&gt;
+
+**Art. V.172**
+
+[<sup>1</sup> La direction de l'institut supérieur fixe les règles relatives à la communication des autres activités professionnelles ou activités rémunérées et à la détermination de l'étendue de ces activités.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-15/18, art. 113, 006; En vigueur : 01-09-2018&gt;
+
+##### Section 7. [<sup>1</sup> Incompatibilités]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-15/18, art. 114, 006; En vigueur : 01-09-2018&gt;
+
+**Art. V.172/1**
+
+[<sup>1</sup> La direction de l'institut supérieur détermine dans un règlement ou dans le règlement du travail les règles relatives à l'exercice d'activités accessoires qui sont entièrement ou partiellement incompatibles avec un poste à l'institut supérieur.
+
+Sont incompatibles, les activités rémunérées ou non rémunérées qui :
+
+1° conduisent à un conflit d'intérêts pour le membre du personnel ;
+
+2° sont de nature à nuire à l'institut supérieur ;
+
+3° entravent la bonne exécution de la charge à l'institut supérieur.
+
+Le règlement ou le règlement du travail visé à l'alinéa 1er fixe au moins les éléments suivants :
+
+1° la procédure de détermination des incompatibilités. Cette procédure garantit le droit de tout membre du personnel d'être entendu et prévoit une procédure de recours ;
+
+2° les conséquences de l'exercice d'activités incompatibles.
+
+La direction de l'institut supérieur peut d'office mettre fin à la désignation ou à la nomination d'un membre du personnel qui, après la procédure visée à l'alinéa [<sup>2</sup> 3]<sup>2</sup>, 1°, refuse de mettre fin d'office à l'incompatibilité établie et persistante. En cas de cessation d'office d'une nomination, la direction de l'institut supérieur paie les cotisations des employeurs et des travailleurs nécessaires pour la reprise du membre du personnel dans le régime de l'assurance chômage, de l'assurance maladie (secteur des allocations) et de l'assurance maternité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-06-15/18, art. 115, 006; En vigueur : 01-09-2018&gt;
+
+(2)&lt;DCFL 2019-04-05/42, art. 130, 013; En vigueur : 01-09-2018&gt;
+
+**Art. V.188**
+
+[<sup>1</sup>
+
+La direction de l'institut supérieur peut constituer une réserve de recrutement pour un groupe de fonctions connexes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2020-07-03/39, art. 165, 017; En vigueur : 01-09-2020&gt;
+
+**Art. V.191.**
+
+[<sup>1</sup> Note;la traduction n'est pas complète, voir la version néerlandaise ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 56, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.192/1.**
+
+[<sup>1</sup> A partir de la troisième année successive, les désignations dans les vacances d'emploi, y compris celles par voie de changement de fonction, sont à durée indéterminée.
+
+La direction de l'institut supérieur met fin à une désignation à durée indéterminée conformément à l'article V.110. S'il est mis fin à une désignation après changement de fonction tel que visé à l'article V.108, il n'est tenu compte, pour le calcul du délai de préavis, que de la période de désignation après le changement de fonction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 57, 040; En vigueur : 01-04-2024&gt;
+
+###### Sous-section 1re. [<sup>1</sup> Conversion en bachelor professionnel]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 187, 010; En vigueur : 01-09-2019&gt;
+
+**Art. V.204**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 187, 010; En vigueur : 01-09-2019&gt;
+
+**Art. V.205**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 187, 010; En vigueur : 01-09-2019&gt;
+
+(0)&lt;DCFL 2024-03-22/17, art. 58, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.206**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 187, 010; En vigueur : 01-09-2019&gt;
+
+###### Sous-section 2. [<sup>1</sup> Reprise de hbo5 ou SLO]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 188, 010; En vigueur : 01-01-2019&gt;
+
+**Art. V.206/1**
+
+[<sup>1</sup> Un institut supérieur reprenant la compétence d'enseignement d'une formation de l'enseignement supérieur professionnel hbo5 ou une partie des moyens financiers d'une formation spécifique des enseignants arrêtée, reprendra à partir du 1er septembre 2019 les membres du corps enseignant dans la fonction de maître de conférences, à condition que ces personnels figurent sur la liste visée à l'article 103ter decies, § 1er, alinéa 1er, 1° et 2° du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ou à l'article 84vicies ter, § 1er, alinéa 1er, 1° et 2° du décret du 27 mars 1991 relatif au statut des membres du personnel de l'enseignement subventionné :
+
+1° les membres du personnel nommés au 31 décembre 2018 auprès du centre d'éducation des adultes ;
+
+2° les membres du personnel désignés au 31 décembre 2018 à un poste vacant avec une désignation temporaire d'une durée ininterrompue.
+
+A partir du moment où ils sont repris par l'institut supérieur, les personnels repris deviennent membres du personnel de l'institut supérieur, rémunérés avec les allocations de fonctionnement de l'institut supérieur en question.
+
+A partir du 1er septembre 2019 l'institut supérieur est subrogé, vis-à-vis du personnel repris, aux droits et obligations du centre d'éducation des adultes qui employait le personnel concerné avant la reprise. Dans ce transfert sont compris tous les droits et obligations liés aux procédures pendantes et futures.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 189, 010; En vigueur : 01-01-2019&gt;
+
+**Art. V.206/2**
+
+[<sup>1</sup> § 1er. Le 1er septembre 2019, l'institut supérieur reprendra les membres du personnel nommés à titre définitif, visés à l'article V.206/1, alinéa 1er, 1°, pour le volume du poste dont ils sont titulaires au 31 décembre 2018. L'institut supérieur reprendra les membres du personnel temporaires, visés à l'article V.206/1, alinéa 1er, 2°, pour le volume du poste dont ils sont titulaires au 30 juin 2019.
+
+§ 2. [<sup>2</sup> Après la reprise par l'institut supérieur, les membres du personnel nommés à titre définitif conservent leur nomination définitive.
+
+Les membres du personnel temporaires qui, au 31 août 2019, ont une ancienneté de service d'au moins 10 ans dans la fonction de maître de conférences, calculée conformément aux règles statutaires applicables au centre d'éducation des adultes, sont nommés par l'institut supérieur ou, en cas d'inclusion dans le cadre de l'intégration par l'université, après une évaluation favorable. Cette évaluation est effectuée dans les 3 ans qui suivent le passage du membre du personnel.
+
+Les membres du personnel temporaires qui, au 31 août 2019, ne remplissent pas la condition de nomination à titre définitif pour la fonction de maître de conférences se voient proposer, lors de la reprise, une désignation à durée indéterminée. A leur demande, ces membres du personnel peuvent être nommés à condition de l'approbation de la direction de l'institut supérieur.
+
+L'article IV.28 ne s'applique pas.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 190, 010; En vigueur : 01-01-2019&gt;
+
+(2)&lt;DCFL 2019-03-01/26, art. 90, 012; En vigueur : 01-09-2019&gt;
+
+**Art. V.206/3**
+
+[<sup>1</sup> A partir du 1er octobre 2019, un institut supérieur peut transférer au cadre de l'intégration d'une université les maîtres de conférences figurant sur la liste visée à l'article 103ter decies, § 1er, alinéa 1er, 2°, du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ou à l'article 84vicies ter, § 1er, alinéa 1er, 2°, du décret du 27 mars 1991 relatif au statut des membres du personnel de l'enseignement subventionné, que l'institut supérieur a repris en vertu de l'accord visé à l'article V.79/2, § 2, du présent Code.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 91, 012; En vigueur : 01-09-2019&gt;
+
+**Art. V.206/4**
+
+[<sup>1</sup> A compter du 1er septembre 2019 un institut supérieur reprenant la compétence d'enseignement d'une formation de l'enseignement supérieur professionnel hbo5 ou une partie des moyens financiers d'une formation spécifique des enseignants arrêtée, [<sup>2</sup> peut reprendre les membres du personnel suivants sans offre d'emploi publique]<sup>2</sup> ni procédure de sélection comparative, à condition que ces personnels figurent sur la liste visée à l'article 103ter decies du décret du 27 mars 1991 relatif au statut de certains membres du personnel de l'enseignement communautaire ou à l'article 84vicies ter du décret du 27 mars 1991 relatif au statut des membres du personnel de l'enseignement subventionné :
+
+1° un membre du personnel enseignant qui est rattaché à une formation reprise et qui n'est pas couvert par l'article V.206/1 ;
+
+2° un membre du personnel directeur et d'appui, rattaché au centre d'éducation des adultes auquel est liée la formation reprise.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 192, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2019-03-01/26, art. 92, 012; En vigueur : 01-09-2019&gt;
+
+**Art. V.206/5**
+
+[<sup>1</sup> Le personnel repris par un institut supérieur en vertu de la présente sous-section relève du statut et du régime de rémunération du personnel des instituts supérieurs.
+
+Le personnel est inséré dans une fonction du groupe 1 du personnel enseignant ou du personnel administratif et technique, en tenant compte du certificat d'aptitude minimal requis.
+
+Le personnel perçoit, dans l'échelle de traitement associée à sa fonction, au moins le traitement annuel égal ou immédiatement supérieur au traitement annuel à 100% qu'il percevait au centre d'éducation des adultes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 193, 010; En vigueur : 01-09-2019&gt;
+
+**Art. V.206/6**
+
+[<sup>1</sup> Par dérogation à l'article V.206/5, les dispositions transitoires suivantes s'appliquent au personnel repris par un institut supérieur en vertu de la présente sous-section :
+
+1° pour l'évaluation du certificat d'aptitude minimal, visé à l'article V.206/5, alinéa 2 [<sup>2</sup> et pour l'extension du volume de la charge]<sup>2</sup>, les dispositions de l'article 7 de l'arrêté du Gouvernement flamand du 14 juin 1989 relatif aux titres, aux échelles de traitement, au régime de prestations et au statut pécuniaire dans l'enseignement secondaire s'appliquent aux membres du personnel qui étaient employés dans une fonction du personnel enseignant auprès du centre d'éducation des adultes ;
+
+2° si une certaine ancienneté est requise pour la nomination d'un membre du personnel temporaire qui a été transféré d'un centre d'éducation des adultes, la direction de l'institut supérieur prend également en compte l'ancienneté de service acquise au centre dans le cadre d'une formation de l'enseignement supérieur professionnel hbo5 ou d'une formation spécifique des enseignants ;
+
+3° l'article V.170 du présent code ne s'applique pas au personnel enseignant qui, au 31 août 2019, remplit les deux conditions suivantes :
+
+a) être nommé à une charge à plein temps au centre d'éducation des adultes ou à l'institut supérieur absorbant ;
+
+b) avoir un poste permanent dans le cadre du personnel de l'institut supérieur absorbant ou du centre d'éducation des adultes, respectivement.]<sup>1</sup>
+
+[<sup>2</sup> 4° lors de la reprise, les membres du personnel enseignant conservent le solde des jours de maladie accumulés et pris au 30 août 2019 dans le CVO.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2018-05-04/28, art. 194, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2020-07-03/39, art. 166,1°, 017; En vigueur : 01-09-2019&gt;
+
+**Art. V.206/7**
+
+[<sup>1</sup> Un institut supérieur peut employer un membre du personnel directeur et d'appui visé à l'article V.79/1, § 1er, 2°, qui a été mis en disponibilité par défaut d'emploi au centre d'éducation des adultes. Cette mise à l'emploi s'opère toujours d'un commun accord entre le membre du personnel mis en disponibilité et l'institut supérieur.
+
+La mise à l'emploi visée à l'alinéa 1er est considérée pour le membre du personnel nommé à titre définitif concerné comme une remise au travail conformément à l'arrêté du Gouvernement flamand du 29 avril 1992 relatif à la répartition de fonctions, à la mise en disponibilité par défaut d'emploi, à la réaffectation, à la remise au travail et à l'attribution d'un traitement d'attente ou d'une subvention-traitement d'attente.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 93, 012; En vigueur : 01-09-2019&gt;
+
+**Art. V.208**
+
+[<sup>1</sup> (voir version néerlandaise) ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 94, 012; En vigueur : 01-09-2019&gt;
+
+**Art. V.210**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+[<sup>2</sup> (voir version néerlandaise)]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 196, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2019-03-01/26, art. 95, 012; En vigueur : 01-09-2019&gt;
+
+**Art. V.216.**
+
+[<sup>1</sup> Note;la traduction n'est pas complète, voir la version néerlandaise ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-22/17, art. 59, 040; En vigueur : 01-04-2024&gt;
+
+**Art. V.220**
+
+[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+[<sup>2</sup> (voir version néerlandaise)]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2018-05-04/28, art. 197, 010; En vigueur : 01-09-2019&gt;
+
+(2)&lt;DCFL 2019-03-01/26, art. 96, 012; En vigueur : 01-09-2019&gt;
+
+### Titre 3/1. [<sup>1</sup> Protection des lanceurs d'alerte ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 26, 036; En vigueur : 11-08-2023&gt;
+
+#### Chapitre 1er. [<sup>1</sup> Définitions ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 26, 036; En vigueur : 11-08-2023&gt;
+
+**Art. V.230/1.**
+
+[<sup>1</sup> ans la partie 4, titre 4, chapitre 2/1, et dans le présent titre, on entend par :
+
+1° personne concernée : une personne physique ou morale qui est mentionnée dans le signalement interne ou externe ou dans la divulgation publique en tant que personne à laquelle la violation est attribuée ou à laquelle cette personne est associée ;
+
+2° partie externe : l'une des personnes suivantes qui disposent d'informations sur des violations dans le cadre de leur emploi :
+
+a) les actionnaires et les membres de l'organe d'administration, de direction ou de surveillance d'un établissement, y compris les membres non impliqués dans l'administration quotidienne, les bénévoles et les stagiaires rémunérés ou non rémunérés ;
+
+b) les entrepreneurs, sous-traitants et fournisseurs et toute personne travaillant sous leur supervision et direction ;
+
+c) les personnes qui ont obtenu des informations sur des violations dans le cadre d'une relation de travail qui a pris fin depuis ;
+
+d) les personnes dont la relation de travail n'a pas encore commencé et qui ont obtenu des informations sur des violations au cours du processus de recrutement ou d'autres négociations précontractuelles ;
+
+3° signalement externe : la communication d'informations sur des violations à un canal de signalement externe tel que visé à l'article V.230/ 8 ;
+
+4° facilitateur : une personne physique qui aide un auteur de signalement dans un contexte professionnel au cours du processus de signalement et dont l'aide doit être confidentielle ;
+
+5° violation : les actes ou omissions qui satisfont à l'une des conditions suivantes :
+
+a) ils sont illicites et ont trait aux actes de l'Union et aux domaines relevant du champ d'application matériel visé à l'article V.230/ 2 ;
+
+b) ils vont à l'encontre de l'objet ou de la finalité des règles prévues dans les actes de l'Union et les domaines relevant du champ d'application matériel visé à l'article V.230/ 2 ;
+
+6° informations sur des violations : des informations, y compris des soupçons raisonnables, concernant :
+
+a) des violations effectives ou potentielles qui se sont produites ou sont très susceptibles de se produire au sein de l'établissement dans lequel l'auteur de signalement travaille, a travaillé ou postulé ou au sein d'un autre établissement avec lequel l'auteur de signalement a été en contact dans le cadre de son travail ;
+
+b) les tentatives de dissimuler des violations au sein de l'établissement dans lequel l'auteur de signalement travaille, a travaillé ou postulé ou au sein d'un autre établissement avec lequel l'auteur de signalement a été en contact dans le cadre de son travail ;
+
+7° établissement :
+
+a) une université ou une haute école telle que visée aux articles II.2 et II.3 ;
+
+b) un établissement d'utilité publique d'enseignement postinitial, de recherche scientifique et de services scientifiques tel que visé aux articles II.19, II.20 et II.21 ;
+
+c) l'Universitair Ziekenhuis Gent visé à l'article 3 du décret du 3 février 2017 relatif à la réintégration de l'Universitair Ziekenhuis Gent dans l'Universiteit Gent ;
+
+8° signalement interne : la communication d'informations sur des violations au sein de l'établissement ;
+
+9° signaler : la communication orale ou écrite d'informations sur des violations ;
+
+10° auteur de signalement : une personne physique qui signale ou divulgue publiquement des informations sur des violations obtenues dans le cadre de son travail ;
+
+11° divulguer publiquement : la mise à disposition dans la sphère publique d'informations sur des violations ;
+
+12° membre du personnel :
+
+a) un membre du personnel visé à l'article V.231, 3° ;
+
+b) un membre du personnel d'un établissement d'utilité publique d'enseignement postinitial, de recherche scientifique et de services scientifiques tel que visé aux articles II.19, II.20 et II.21 ;
+
+c) un titulaire d'un mandat du Fonds de la recherche scientifique - Flandre ;
+
+13° représailles : tout acte ou omission direct ou indirect se produisant dans un contexte professionnel à la suite d'un signalement interne ou externe ou d'une divulgation publique, et qui cause ou peut causer un préjudice injustifié à l'auteur de signalement ;
+
+14° contexte professionnel : les activités professionnelles passées ou présentes dans le secteur privé par lesquelles, indépendamment de la nature de ces activités, des personnes obtiennent des informations sur des violations et dans le cadre desquelles ces personnes pourraient faire l'objet de représailles si elles signalaient de telles informations.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 27, 036; En vigueur : 11-08-2023&gt;
+
+#### Chapitre 2. [<sup>1</sup>Champ d'application matériel]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 28, 036; En vigueur : 11-08-2023&gt;
+
+**Art. V.230/2.**
+
+[<sup>1</sup> § 1er. Le présent titre établit des normes minimales communes pour la protection des personnes signalant les violations suivantes commises par un établissement : 1° les violations relatives aux domaines suivants et concernant des actes de l'Union visés dans la partie I de l'annexe de la directive (UE) 2019/1937 du Parlement européen et du Conseil du 23 octobre 2019 sur la protection des personnes qui signalent des violations du droit de l'Union :
+
+a) les marchés publics ;
+
+b) les services, produits et marchés financiers et la prévention du blanchiment de capitaux et du financement du terrorisme ;
+
+c) la sécurité et la conformité des produits ;
+
+d) la sécurité des transports ;
+
+e) la protection de l'environnement ;
+
+f) la radioprotection et la sûreté nucléaire ;
+
+g) la sécurité des aliments destinés à l'alimentation humaine et animale, santé et bien-être des animaux ;
+
+h) la santé publique ;
+
+i) la protection des consommateurs ;
+
+j) la protection de la vie privée et des données à caractère personnel, et la sécurité des réseaux et des systèmes d'information ;
+
+2° les violations portant atteinte aux intérêts financiers de l'Union visés à l'article 325 du traité sur le fonctionnement de l'Union européenne et précisés dans les mesures pertinentes de l'Union ;
+
+3° les violations relatives au marché intérieur visé à l'article 26, paragraphe 2, du traité sur le fonctionnement de l'Union européenne, y compris les violations des règles de l'Union en matière de concurrence et d'aides d'Etat.
+
+§ 2. Le présent titre ne s'applique pas aux griefs interpersonnels concernant exclusivement l'auteur de signalement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 29, 036; En vigueur : 11-08-2023&gt;
+
+**Art. V.230/3.**
+
+[<sup>1</sup>Le présent titre ne s'applique pas au signalement d'informations dont la divulgation n'est pas autorisée pour l'une des raisons suivantes :
+
+1° la sécurité nationale ;
+
+2° la protection des informations classifiées ;
+
+3° la protection du secret médical ;
+
+4° la protection du secret professionnel des avocats ;
+
+5° le secret des délibérations judiciaires ;
+
+6° les règles en matière de procédure pénale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 30, 036; En vigueur : 11-08-2023&gt;
+
+**Art. V.230/4.**
+
+[<sup>1</sup>Le présent titre ne porte pas atteinte à la législation prévoyant une protection plus large des lanceurs d'alerte.
+
+Ce titre ne porte pas non plus atteinte :
+
+1° au droit des membres du personnel de consulter leur représentant ou leur syndicat ;
+
+2° à la réglementation contre toute mesure préjudiciable injustifiée découlant de la consultation visée au point 1° ;
+
+3° à l'autonomie des partenaires sociaux et à leur droit de conclure des conventions collectives ou des accords de programmation sectorielle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 31, 036; En vigueur : 11-08-2023&gt;
+
+#### Chapitre 3. [<sup>1</sup> Canaux de signalement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 32, 036; En vigueur : 11-08-2023&gt;
+
+**Art. V.230/6.**
+
+[<sup>1</sup> Les informations relatives aux violations peuvent être signalées de la manière suivante :
+
+1° via un canal de signalement interne tel que visé à l'article V.230/7 ;
+
+2° via un canal de signalement externe tel que visé à l'article V.230/8 ; 3° via une divulgation publique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 33, 036; En vigueur : 11-08-2023&gt;
+
+**Art. V.230/7.**
+
+[<sup>1</sup> § 1er. Chaque établissement dispose d'un canal de signalement interne.
+
+Le canal de signalement interne peut être géré par l'établissement lui-même ou fourni en externe par un tiers. Les garanties relatives à un signalement interne et au suivi des signalements visées aux chapitres 4 et 5, s'appliquent également lorsque le canal de signalement interne est géré par un tiers.
+
+§ 2. Le canal de signalement interne se compose d'au moins une personne compétente pour recevoir et traiter les signalements. Les membres du personnel ayant un mandat dans un organe décisionnel ou les délégués du personnel ne peuvent pas faire partie du canal de signalement interne.
+
+§ 3. Après concertation avec les délégués des organisations syndicales représentatives, chaque établissement élabore une procédure pour la transmission, le traitement et la gestion de signalements internes. Si le canal de signalement interne est fourni par un tiers, les délégués des organisations syndicales représentatives sont également informés du contenu de l'accord conclu avec le tiers.
+
+La procédure visée à l'alinéa 1er, comprend des systèmes conçus, établis et gérés de manière à garantir en toute sécurité la confidentialité des informations et à assurer la confidentialité des éléments suivants :
+
+1° l'identité de l'auteur de signalement ;
+
+2° l'identité de la (des) personne(s) mentionnée(s) dans le signalement ;
+
+3° toute information à partir de laquelle l'identité de l'auteur de signalement ou de la (des) personne(s) peut être déduite.
+
+Lorsque le canal de signalement traite un signalement, il observe une stricte neutralité. En aucun cas un signalement ne doit être traité par une personne qui est ou a été impliquée dans les faits auxquels le signalement se rapporte.
+
+Seuls les membres du personnel autorisés ont accès aux informations visées à l'alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 34, 036; En vigueur : 11-08-2023&gt;
+
+**Art. V.230/8.**
+
+[<sup>1</sup> § 1er. Des membres du personnel et des parties externes peuvent signaler des informations sur des violations commises par des établissements en externe auprès du point de contact pour lanceurs d'alerte conformément à la partie 4, titre 4.
+
+§ 2. Le canal de signalement externe visé au paragraphe 1er, reçoit les signalements via des systèmes conçus, établis et gérés de manière à garantir en toute sécurité la confidentialité des informations et à assurer la confidentialité de l'ensemble des éléments suivants :
+
+1° l'identité de l'auteur de signalement ;
+
+2° l'identité de tout tiers mentionné dans le signalement ;
+
+3° toute information à partir de laquelle l'identité de l'auteur de signalement ou d'un tiers peut être déduite.
+
+Lorsque le canal de signalement traite un signalement, il observe une stricte neutralité. En aucun cas un signalement ne doit être traité par une personne qui est ou a été impliquée dans les faits auxquels le signalement se rapporte.
+
+Seuls les membres du personnel autorisés ont accès aux informations visées à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 35, 036; En vigueur : 11-08-2023&gt;
+
+**Art. V.230/9.**
+
+[<sup>1</sup> § 1er. Les membres du personnel signalent des informations sur des violations commises dans l'établissement où ils sont employés via le canal de signalement interne visé à l'article V.230/ 7. Les membres du personnel peuvent également signaler des informations sur des violations directement via le canal de signalement externe visé à l'article V.230/ 8, s'ils estiment que la violation ne peut être traitée efficacement en interne ou qu'il existe un risque de représailles.
+
+Les parties externes signalent des informations sur des violations commises par un établissement au canal de signalement externe visé à l'article V.230/8.
+
+Un établissement peut également ouvrir le canal de signalement interne visé à l'article V.230/ 7, à certaines ou à toutes les parties externes.
+
+§ 2. Les membres du personnel et les parties externes qui divulguent publiquement des informations sur des violations peuvent bénéficier de la protection découlant du présent décret si l'une des conditions suivantes est remplie :
+
+1° ils ont tout d'abord effectué un signalement interne et externe ou ils ont immédiatement effectué un signalement externe conformément au paragraphe 1er, et aucune mesure appropriée n'a été prise dans les trois mois suivant la réception du signalement par le canal de signalement en question ;
+
+2° ils ont des motifs raisonnables de croire que :
+
+a) la violation peut représenter un danger imminent ou réel pour l'intérêt général, par exemple en cas de situation d'urgence ou de risque de préjudice irréversible ; ou
+
+b) il existe un risque de représailles en cas de signalements externes ou il est peu probable que la violation soit efficacement traitée en raison des circonstances particulières de l'affaire, car des preuves peuvent par exemple être dissimulées ou détruites ou une autorité peut être en collusion avec l'auteur de la violation ou une personne impliquée dans la violation.
+
+Le présent paragraphe ne s'applique pas aux cas dans lesquels un membre du personnel ou une partie externe révèle directement des informations à la presse en vertu de dispositions spécifiques établissant un système de protection relatif à la liberté d'expression et d'information.
+
+Le règlement général sur la protection des données doit également toujours être respecté lors de la divulgation publique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 36, 036; En vigueur : 11-08-2023&gt;
+
+#### Chapitre 4. [<sup>1</sup> Dispositions communes pour les signalements internes et externes ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 37, 036; En vigueur : 11-08-2023&gt;
+
+**Art. V.230/10.**
+
+[<sup>1</sup> § 1er. Les auteurs de signalement peuvent signaler des informations sur des violations par écrit et par téléphone ou via un autre système de messagerie vocale aux canaux de signalement visés aux articles V.230/7 et V.230/8. Ils ont également le droit à une rencontre physique dans un délai raisonnable.
+
+§ 2. Les canaux de signalement visés aux articles V.230/7 et V.230/8, peuvent exploiter les signalements oraux transmis via un système de messagerie vocale avec enregistrement de conversation comme suit :
+
+1° effectuer un enregistrement de la conversation sous une forme durable et récupérable ;
+
+2° faire rédiger un procès-verbal complet et précis par les membres du personnel
+
+chargés du traitement du signalement.
+
+Avant le début de la conversation, les canaux de signalement visés aux articles V.230/7 et V.230/8, informent les auteurs de signalement de la capacité du système à enregistrer les conversations.
+
+§ 3. Les membres du personnel des canaux de signalement visés aux articles V.230/7 et V.230/8, chargés du traitement du signalement, peuvent établir un procès-verbal précis des signalements oraux par le biais d'un système de messagerie vocale non enregistré.
+
+§ 4. Si l'auteur de signalement y consent, les canaux de signalement visés aux articles V.230/7 et V.230/8, effectuent lors d'une rencontre physique à la demande de l'auteur de signalement :
+
+1° un enregistrement de la conversation sous une forme durable et récupérable ;
+
+2° un procès-verbal précis de la rencontre établi par les membres du personnel chargés du traitement du signalement.
+
+§ 5. Les auteurs de signalement ont la possibilité de vérifier, corriger et signer pour approbation la transcription de la conversation visée aux paragraphes 2 à 4.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 38, 036; En vigueur : 11-08-2023&gt;
+
+**Art. V.230/11.**
+
+[<sup>1</sup> § 1er. Les canaux de signalement visés aux articles V.230/7 et V.230/8, accusent réception du signalement à son auteur dans les sept jours suivant la réception du signalement, s'ils n'ont pas encore traité le signalement dans ce délai, hormis dans l'un des cas suivants :
+
+1° l'auteur de signalement s'oppose expressément à l'obtention de cet accusé de réception ;
+
+2° l'obtention de cet accusé de réception compromet la protection de l'identité de l'auteur de signalement.
+
+A moins que de nouveaux éléments juridiques ou factuels ne justifient un suivi différent, le canal de signalement externe visé à l'article V.230/8, peut décider en cas de signalements relatifs à un établissement, de ne pas traiter le signalement lorsque le signalement externe concerne des faits qui ont déjà été traités dans le cadre d'un signalement externe précédent de l'auteur de signalement et que le nouveau signalement ne contient pas de nouvelles informations significatives.
+
+Dans les cas visés à l'alinéa 2, le canal de signalement externe visé à l'article V.230/8, envoie à l'auteur de signalement dans les sept jours suivant le jour de réception du signalement, outre l'accusé de réception visé à l'alinéa 1er, la décision de ne pas traiter le signalement et la motivation de cette décision.
+
+§ 2. Les canaux de signalement visés aux articles V.230/7 et V.230/8, vérifient l'exactitude des informations et prennent les mesures appropriées en cas de suspicion de violation.
+
+§ 3. Les canaux de signalement visés aux articles V.230/7 et V.230/8, informent l'auteur de signalement dans un délai de trois mois suivant le jour de l'envoi de l'accusé de réception ou, si aucun accusé de réception n'a été envoyé à l'auteur de signalement, dans un délai de trois mois suivant l'expiration du délai de sept jours après le signalement, des mesures de suivi prévues ou prises et de leurs motifs. Ce faisant, les canaux de signalement visés aux articles V.230/7 et V.230/8, ne divulguent pas d'informations susceptibles de nuire à l'enquête interne ou de porter atteinte à l'enquête ou aux droits de la personne concernée.
+
+Le canal de signalement externe visé à l'article V.230/8, peut prolonger la période de trois mois visée à l'alinéa 1er, à maximum six mois. Dans ce cas, le canal de signalement externe visée à l'article V.230/8, informe par écrit l'auteur de signalement de la prolongation du délai et des motifs de prolongation, avant l'expiration du délai de trois mois précité.
+
+§ 4. Le canal de signalement externe visé à l'article V.230/8, informe l'auteur de signalement du résultat final des enquêtes. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 39, 036; En vigueur : 11-08-2023&gt;
+
+**Art. V.230/12.**
+
+[<sup>1</sup>Si un auteur de signalement adresse un signalement à un canal de signalement externe non compétent ce dernier transmet le signalement de manière sécurisée au canal de signalement compétent dans les meilleurs délais. Le canal de signalement externe non compétent informe immédiatement l'auteur de signalement de cette transmission.
+
+Si le canal de signalement interne n'est pas compétent pour traiter le signalement, il en informe l'auteur de signalement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 40, 036; En vigueur : 11-08-2023&gt;
+
+#### Chapitre 5. [<sup>1</sup>Traitement de données ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 41, 036; En vigueur : 11-08-2023&gt;
+
+#### Art. V.230/13. [<sup>1</sup> Chaque canal de signalement visé aux articles V.230/7 et V.230/8, archive les signalements reçus.
+
+Chaque canal de signalement visé aux articles V.230/7 et V.230/8, conserve toutes les données suivantes :
+
+1° le nombre de signalements reçus ;
+
+2° le nombre d'enquêtes et de procédures engagées à la suite de ces signalements et leur résultat ;
+
+3° s'ils sont établis, les pertes financières estimées et les montants recouvrés à la suite des enquêtes et des procédures relatives aux violations signalées.
+
+Les signalements ne sont pas conservés plus longtemps que nécessaire et de manière proportionnée afin de répondre aux exigences imposées par le présent code ou une autre législation. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 42, 036; En vigueur : 11-08-2023&gt;
+
+###### Art. V.230/14. [<sup>1</sup>§ 1er. Dans le présent article, on entend par règlement général sur la protection des données : le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données).
+
+§ 2. Si ces données sont disponibles, les canaux de signalement visés aux articles V.230/7 et V.230/8, traitent les données à caractère personnel suivantes en vertu de l'article 6, paragraphe 1er, e), du règlement général sur la protection des données lorsqu'ils traitent et enregistrent des signalements :
+
+1° le nom de l'auteur de signalement ;
+
+2° les coordonnées et la fonction de l'auteur de signalement ;
+
+3° le nom du facilitateur ou des tiers qui sont en lien avec l'auteur de signalement et qui risquent de faire l'objet de représailles dans un contexte professionnel ;
+
+4° le nom et la fonction de la personne concernée et les informations sur les violations de la personne concernée ;
+
+5° le nom des témoins ;
+
+6° les signalements écrits ;
+
+7° le procès-verbal des signalements oraux et des enregistrements vocaux visés à l'article V.230/10, § 2 et § 3, du présent code.
+
+Les canaux de signalement visés aux articles V.230/7 et V.230/8, suppriment immédiatement les données autres que les données à caractère personnel visées à l'alinéa 1er, qui ne sont pas pertinentes pour traiter le signalement.
+
+§ 3. Les canaux de signalement visés aux articles V.230/7 et V.230/8, ne divulguent pas l'identité de l'auteur de signalement et toute information permettant de remonter à l'identité de l'auteur de signalement, directement ou indirectement, à toute personne autre que les membres du personnel compétents pour recevoir et suivre le signalement, hormis dans l'un des cas suivants :
+
+1° l'auteur de signalement y consent ;
+
+2° il existe une obligation légale nécessaire et proportionnée dans le cadre d'une enquête des autorités nationales ou de procédures judiciaires, pour préserver les droits de la défense de l'auteur de signalement.
+
+Les canaux de signalement visés aux articles V.230/7 et V.230/8, ne divulguent pas l'identité de la personne concernée et toute information permettant de remonter à l'identité de la personne concernée, directement ou indirectement, à toute personne autre que les membres du personnel compétents pour traiter le signalement, tant que les enquêtes consécutives au signalement ou à la divulgation publique sont en cours.
+
+§ 4. Avant de divulguer l'identité de l'auteur de signalement ou de la personne concernée, les canaux de signalement visés aux articles V.230/7 et V.230/8, en informent par écrit l'auteur de signalement ou la personne concernée, avec mention des motifs de divulgation, à moins que ces informations ne compromettent les enquêtes ou procédures judiciaires.
+
+§ 5. En application de l'article 23, paragraphe 1er, e) et h), du règlement général sur la protection des données, les membres du personnel d'un canal de signalement compétents, auprès desquels un signalement est introduit, peuvent décider de ne pas appliquer les obligations et droits, visés aux articles 12 à 22 du règlement précité, lors du traitement de données à caractère personnel dans le cadre d'une enquête concernant une personne physique déterminée, si les conditions visées aux alinéas 2 à 9 sont remplies.
+
+La possibilité de dérogation visée à l'alinéa 1er, ne s'applique que pendant la période au cours de laquelle la personne concernée fait l'objet d'une enquête à condition qu'il soit ou puisse être nécessaire pour le bon déroulement de l'enquête que les obligations et droits visés aux articles 12 à 22 du règlement précité, ne soient pas appliqués. Le cas échéant, la durée de l'enquête ne peut pas dépasser un an à compter de la réception d'une demande d'exercice de l'un des droits visés aux articles 12 à 22 du règlement précité.
+
+La possibilité de dérogation visée à l'alinéa 1er, ne s'applique pas aux données qui sont étrangères à l'objet de l'enquête qui justifie le refus ou la limitation des droits visés à l'alinéa 2.
+
+Si, dans le cas visé à l'alinéa 1er, la personne concernée soumet durant la période visée à l'alinéa 2, une demande sur la base des articles 12 à 22 du règlement précité, le fonctionnaire compétent en matière de protection des données en confirme la réception.
+
+Le fonctionnaire compétent en matière de protection des données informe la personne concernée par écrit, dans les plus brefs délais et en tout cas dans le mois à compter du jour suivant la réception de la demande, de tout refus ou limitation des droits visés à l'alinéa 1er. Aucune information complémentaire ne doit être fournie sur le motif de refus ou de limitation si cette information risque de nuire à l'enquête, sans préjudice de l'application de l'alinéa 8. Si nécessaire, le délai précité peut être prolongé de deux mois, compte tenu du nombre de demandes et de leur complexité. Le responsable du traitement, visé à l'article 4, 7), du règlement général sur la protection des données, informe la personne concernée dans les trente jours à compter du jour suivant la réception de la demande, de cette prolongation et des motifs du report.
+
+Le fonctionnaire compétent en matière de protection des données informe la personne concernée également sur la possibilité d'introduire une demande auprès de la Commission de contrôle flamande pour le traitement des données à caractère personnel conformément à l'article 10/5 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, et de former un recours en justice.
+
+Le fonctionnaire compétent en matière de protection des données consigne les motifs de fait ou de droit sur lesquels se fonde la décision. Il tient ces informations à la disposition de la Commission de contrôle flamande visée à l'article 10/1 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives.
+
+Une fois l'enquête terminée, les droits visés aux articles 13 à 22 du règlement précité sont, le cas échéant, appliqués à nouveau, conformément à l'article 12 du règlement précité.
+
+Si un dossier contenant des données à caractère personnel telles que visées à l'alinéa 1er, a été transmis au ministère public et peut conduire à des activités sous la direction du ministère public ou d'un juge d'instruction, et qu'il existe une incertitude quant au secret de l'enquête sous la direction du ministère public ou d'un juge d'instruction, le fonctionnaire compétent en matière de protection des données ne peut répondre à la demande de la personne concernée conformément aux articles 12 à 22 du règlement précité, qu'après que le ministère public ou, le cas échéant, le juge d'instruction a confirmé qu'une réponse ne compromet pas ou ne peut pas compromettre l'enquête.
+
+§ 6. Les canaux de signalement visés aux articles V.230/7 et V.230/8, respectent les règles relatives au traitement et à la protection des données à caractère personnel en application du règlement général sur la protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 43, 036; En vigueur : 11-08-2023&gt;
+
+###### Art. V.230/15. [<sup>1</sup> Les canaux de signalement visés aux articles V.230/7 et V.230/8, ne peuvent pas utiliser ou divulguer des secrets d'affaires à des fins allant au-delà de ce qui est nécessaire pour assurer un suivi approprié.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 44, 036; En vigueur : 11-08-2023&gt;
+
+#### Chapitre 6. [<sup>1</sup> Informations relatives à la réception et au suivi de signalements ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 45, 036; En vigueur : 11-08-2023&gt;
+
+**Art. V.230/16.**
+
+[<sup>1</sup> Le service désigné par le Gouvernement flamand publie, sur une page distincte, aisément identifiable et accessible du site internet consacré à l'enseignement, toutes les informations suivantes :
+
+1° les conditions pour bénéficier d'une protection contre les représailles ;
+
+2° les adresses électroniques, les adresses postales et les numéros de téléphone du canal de signalement externe visé à l'article V.230/8, en indiquant si les conversations téléphoniques et les conversations via d'autres systèmes de messagerie vocale sont enregistrées ;
+
+3° les procédures de signalement d'informations sur des violations aux canaux de signalement visés aux articles V.230/7 et V.230/8, y compris :
+
+a) la manière dont les canaux de signalement visés aux articles V.230/7 et V.230/8, peuvent demander à l'auteur de signalement de clarifier les informations ou de fournir des informations supplémentaires ;
+
+b) le délai pour fournir un retour d'information ;
+
+c) le type de retour d'information et son contenu ;
+
+4° les informations relatives au traitement des données à caractère personnel ;
+
+5° la nature du suivi du signalement ;
+
+6° les recours et les procédures relatives à la protection contre les représailles et la possibilité pour les personnes qui envisagent de procéder à un signalement de recevoir des conseils confidentiels ;
+
+7° sans préjudice de l'article V.230/3, une explication claire des conditions dans lesquelles les auteurs de signalement sont protégés à la suite d'une violation de toute règle de confidentialité ;
+
+8° les droits de la personne concernée.
+
+A l'alinéa 1er, on entend par site internet consacré à l'enseignement : le site officiel de l'Autorité flamande, mis en ligne par le Ministère flamand de l'Enseignement et de la Formation.
+
+La page web visée à l'alinéa 1er, indique que les auteurs de signalement effectuent un signalement en interne si la violation peut être traitée efficacement en interne et si l'auteur de signalement estime qu'il n'y a pas de risque de représailles.
+
+Les établissements publient les informations visées aux alinéas 1er et 3, sur leur site web ou renvoient à la page web du site web visé à l'alinéa 1er, sur leur site web. Ils mentionnent également sur leur site web l'adresse électronique, l'adresse postale et les numéros de téléphone du canal de signalement interne visé à l'article V.230/7, en indiquant si les conversations téléphoniques et les conversations via d'autres systèmes de messagerie vocale sont enregistrées. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 46, 036; En vigueur : 11-08-2023&gt;
+
+#### Chapitre 7. [<sup>1</sup> Mesures de protection]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 47, 036; En vigueur : 11-08-2023&gt;
+
+**Art. V.230/17.**
+
+[<sup>1</sup> § 1er. Un établissement ou l'un de ses membres du personnel ne peut prendre aucune des mesures suivantes à l'égard d'un auteur de signalement bénéficiant de la protection du présent code en guise de représailles à la suite d'un signalement ou d'une divulgation publique, ni menacer de prendre l'une de ces mesures :
+
+1° une suspension, un licenciement ou des mesures équivalentes ;
+
+2° une rétrogradation ou un refus de promotion ;
+
+3° un refus de nomination ;
+
+4° un transfert de fonctions, un changement de lieu de travail ou une modification des horaires de travail ;
+
+5° la suspension de la formation ;
+
+6° une évaluation ou attestation de travail négative ;
+
+7° imposer ou appliquer une mesure disciplinaire, une action disciplinaire, une réprimande ou une sanction financière ;
+
+8° coercition, intimidation, harcèlement et ostracisme ;
+
+9° non-conversion d'un contrat de travail temporaire en un contrat à durée indéterminée, lorsque le membre du personnel pouvait légitimement espérer se voir offrir un contrat à durée indéterminée ;
+
+10° préjudice, y compris les atteintes à la réputation de la personne sur les réseaux sociaux, ou pertes financières, y compris la perte d'activité et la perte de revenu ;
+
+11° mise sur liste noire sur la base d'un accord formel ou informel à l'échelle de l'établissement, à la suite de laquelle l'auteur de signalement ne trouvera plus d'emploi au sein de cet établissement ;
+
+12° révocation d'une licence ou d'un permis délivré par une instance publique ;
+
+13° orientation vers un traitement psychiatrique ou médical ;
+
+14° résiliation anticipée ou annulation d'un contrat pour des biens ou des services ;
+
+15° toute autre forme de représailles.
+
+L'interdiction visée à l'alinéa 1er, s'applique aux auteurs de signalement si toutes les conditions suivantes sont remplies :
+
+1° les auteurs de signalement ont signalé des informations sur une violation, conformément à l'article V.230/9, § 1er, ont divulgué publiquement des informations relatives à une violation conformément à l'article V.230/9, § 2, ou ont signalé des informations relatives à une violation à une institution, un organe ou une instance de l'Union européenne ;
+
+2° les auteurs de signalement avaient des motifs raisonnables de croire que les informations signalées étaient véridiques au moment du signalement et que ces informations entraient dans le champ d'application du présent décret ;
+
+3° l'identité des auteurs de signalement est connue d'au moins un canal de signalement.
+
+Si l'auteur de signalement anonyme est encore identifié après un certain temps, il est considéré comme si l'identité était initialement connue et, par conséquent, l'auteur de signalement bénéficie de la protection prévue par le présent décret.
+
+L'interdiction visée à l'alinéa 1er, s'applique également aux facilitateurs et aux tiers qui sont en lien avec les auteurs de signalement et les entités juridiques appartenant aux auteurs de signalement, pour lesquels les auteurs de signalement travaillent ou avec lesquels les auteurs de signalement sont en lien dans un autre contexte professionnel, ainsi qu'aux témoins.
+
+§ 2. Tout membre du personnel qui prend des mesures telles que visées au paragraphe 1er, alinéa 1er, en représailles à un signalement ou à une divulgation publique, fait l'objet d'une sanction administrative ou disciplinaire.
+
+Tout établissement qui prend des mesures telles que visées au paragraphe 1er, alinéa 1er, en représailles à un signalement ou à une divulgation publique peut être sanctionné par un remboursement partiel du budget de fonctionnement de l'établissement concerné. Le recouvrement ou la retenue ne peut excéder 5 % du montant mensuel des allocations de fonctionnement visées à l'article IV.16, ou du montant des allocations de fonctionnement de l'année budgétaire en cours visées à l'article IV.26. Cette mesure ne peut avoir comme effet que la part des moyens de fonctionnement réservée aux matières du personnel soit, en chiffres absolus, inférieure à celle qu'il y aurait eu si la mesure n'avait pas été prise. La sanction est prononcée par le Gouvernement flamand sur la base d'un avis du collège des Commissaires visé à l'article IV.103.
+
+§ 3. En cas de procédures judiciaires ou administratives relatives aux mesures visées au paragraphe 1er, alinéa 1er, dans le cadre desquelles l'auteur de signalement démontre qu'il a effectué un signalement ou une divulgation publique et qu'il subit un préjudice, il est présumé que la mesure a été prise en représailles du signalement ou de la divulgation publique. Dans de tels cas, il incombe à la personne ou à l'établissement qui a pris la mesure préjudiciable de démontrer que cette mesure était fondée sur des motifs dûment justifiés.
+
+§ 4. Les auteurs de signalement n'encourent aucune responsabilité concernant :
+
+1° l'obtention des informations qu'ils signalent ou divulguent publiquement, conformément à l'article V.230/9, § 1er, alinéa 2, à condition que cette obtention ou cette divulgation publique ne constitue pas une infraction pénale ;
+
+2° le signalement ou la divulgation publique des informations conformément à l'article V.230/9, § 1er, alinéa 2, s'ils avaient des motifs raisonnables de croire que le signalement ou la divulgation publique des informations était nécessaire pour révéler une violation et dans la mesure où le signalement ou la divulgation publique est effectué(e) dans les conditions prévues à l'article V.230/9.
+
+§ 5. Sans préjudice de l'application du paragraphe 4, l'obtention, l'utilisation ou la divulgation d'un secret d'affaires n'est considérée comme licite aux fins de l'application du présent décret que s'il est obtenu conformément à l'article XI.332/3 du Code de droit économique.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 48, 036; En vigueur : 11-08-2023&gt;
+
+**Art. V.230/18.**
+
+[<sup>1</sup> Les personnes suivantes font l'objet d'une sanction administrative ou disciplinaire :
+
+1° les personnes qui entravent ou tentent d'entraver un signalement ;
+
+2° les personnes qui violent la confidentialité de l'identité des auteurs designalement ;
+
+3° les personnes qui ont sciemment signalé ou divulgué publiquement de fausses informations.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 49, 036; En vigueur : 11-08-2023&gt;
+
+**Art. V.230/19.**
+
+[<sup>1</sup> Un contrat ou les conditions de travail ne peuvent contenir des dispositions renonçant aux droits visés dans le présent titre. Toute disposition à cet effet est nulle et non avenue.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-06-23/12, art. 50, 036; En vigueur : 11-08-2023&gt;
+
+**Art. V.240**
+
+§ 2.
+
+[<sup>1</sup> Pour des adaptations au règlement de travail concernant des matières dont l'inclusion au règlement de travail est requise par la loi, l'accord d'au moins une des organisations syndicales représentatives est requis.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-02-25/10, art. 34, 025; En vigueur : 01-01-2022&gt;
+
+**Art. V.244**
+
+§ 1.
+
+[<sup>1</sup> Pour des adaptations au règlement de travail concernant des matières dont l'inclusion au règlement de travail est requise par la loi, l'accord d'au moins une des organisations syndicales représentatives est requis.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-02-25/10, art. 35, 025; En vigueur : 01-01-2022&gt;
+
+**Art. V.276**
+
+[<sup>1</sup> (voir version néerlandaise) ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2020-07-03/39, art. 167, 017; En vigueur : 01-09-2018&gt;
+
+**Art. V**
+
+299.[<sup>1</sup> §§ 1er et 2, l'alinéa 1er, du même Code, le membre de phrase " l'article III.35, § 3, " est remplacé par le membre de phrase " l'article III.36, § 3, ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2018-06-15/18, art. 1, 006; En vigueur : 01-09-2016&gt;
+
+**Art. V**
+
+244.[<sup>1</sup> (voir version néerlandaise)]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2019-03-01/26, art. 97, 012; En vigueur : 01-09-2019&gt;

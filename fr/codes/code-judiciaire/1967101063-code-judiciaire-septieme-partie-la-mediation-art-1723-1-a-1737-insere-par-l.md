@@ -1,0 +1,496 @@
+---
+title: "CODE JUDICIAIRE. - Septième partie : LA MEDIATION (art. 1723/1 à 1737) <Inséré par L 2005-02-21/36, art. 8 à 21; En vigueur : 30-09-2005, sauf art. 11; En vigueur : 22-03-2005>."
+identifier: "1967101063"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101063/justel"
+type: code
+justel_type: "CODE JUDICIAIRE"
+jurisdiction: be
+language: fr
+date: 1967-10-10
+published: 2005-03-22
+entry_into_force: 2005-09-30
+last_amended: 2026-04-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101063/justel"
+department: "Justice"
+justel_note: "Consultation des versions antérieures à partir du 22-03-2005 et mise à jour au 02-04-2026"
+retrieved: 2026-10-11
+---
+
+# 10 OCTOBRE 1967. - CODE JUDICIAIRE. - Septième partie : LA MEDIATION (art. 1723/1 à 1737) &lt;Inséré par L 2005-02-21/36, art. 8 à 21; En vigueur : 30-09-2005, sauf art. 11; En vigueur : 22-03-2005&gt;.
+
+## CHAPITRE PREMIER. - Principes généraux. &lt;Inséré par L 2005-02-21/36, art. 8; En vigueur : 30-09-2005&gt;.
+
+### Art. 1723/1
+
+[<sup>1</sup> La médiation est un processus confidentiel et structuré de concertation volontaire entre parties en conflit qui se déroule avec le concours d'un tiers indépendant, neutre et impartial qui facilite la communication et tente de conduire les parties à élaborer elles-mêmes une solution.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-06-18/03, art. 213, 006; En vigueur : 12-07-2018&gt;
+
+### Art. icle1724
+
+Article 1724.[<sup>1</sup> Peuvent faire l'objet d'une médiation:
+
+1° les différends de nature patrimoniale, transfrontaliers ou non, en ce compris les différends impliquant une personne morale de droit public;
+
+2° les différends de nature non patrimoniale susceptibles d'être réglés par transaction, en ce compris les différends impliquant une personne morale de droit public;
+
+3° les différends visés à l'article 572bis, 3°, 4°, 6° à 10° et 12 à 15°, et les différends découlant de la cohabitation de fait.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-15/03, art. 78, 012; En vigueur : 07-06-2024&gt;
+
+### Art. 1725
+
+&lt;Inséré par L 2005-02-21/36, art. 9; En vigueur : 30-09-2005&gt; § 1er. Tout contrat peut contenir une clause de médiation, par laquelle les parties s'engagent à recourir à la médiation préalablement à tout autre mode de résolution des éventuels différends que la validité, la formation, l'interprétation, l'exécution ou la rupture du contrat pourrait susciter.
+
+§ 2. Le juge ou l'arbitre saisi d'un différend faisant l'objet d'une clause de médiation suspend l'examen de la cause à la demande d'une partie, à moins qu'en ce qui concerne ce différend, la clause ne soit pas valable ou ait pris fin. L'exception doit être proposée avant tout autre moyen de défense et exception. L'examen de la cause est poursuivi dès que les parties ou l'une d'elles, ont notifié au greffe et aux autres parties que la médiation a pris fin.
+
+§ 3. La clause de médiation ne fait pas obstacle aux demandes de mesures provisoires et conservatoires. L'introduction de telles demandes n'entraîne pas renonciation à la médiation.
+
+### Art. 1726
+
+&lt;Inséré par L 2005-02-21/36, art. 10; En vigueur : 30-09-2005&gt; § 1er. Peuvent être agréés par la commission visée à l'article 1727 les médiateurs qui répondent au moins aux conditions suivantes :
+
+1° [<sup>1</sup> ...]<sup>1</sup>
+
+2° [<sup>1</sup> avoir suivi une formation théorique, comprenant notamment un volet juridique, et pratique, relative à l'aptitude à la médiation et au processus, portant sur les connaissances et compétences générales et spécifiques à un domaine particulier de pratique de la médiation au sens du présent Code et avoir réussi les épreuves d'évaluation y attachées;]<sup>1</sup>
+
+3°[<sup>1</sup> présenter les garanties d'indépendance, de neutralité et d'impartialité nécessaires à l'exercice de la profession de médiateur agréé;]<sup>1</sup>
+
+4° ne pas avoir fait l'objet d'une condamnation inscrite au casier judiciaire et incompatible avec l'exercice de la fonction de médiateur agréé;
+
+5° ne pas avoir encouru de sanction disciplinaire ou administrative, incompatible avec l'exercice de la fonction de médiateur agréé, ni avoir fait l'objet de retrait d'agrément;
+
+[<sup>1</sup> 6° déclarer par écrit adhérer au code de déontologie établi par la Commission fédérale de médiation et le respecter pendant toute la durée de l'agrément.]<sup>1</sup>
+
+[<sup>1</sup> § 1er/1. Pour l'application du présent Code, on entend par médiateur, le médiateur agréé.
+
+§ 1er/2. Sous réserve de la situation d'une réhabilitation par la commission disciplinaire et de traitement des plaintes, un médiateur dont l'agrément a été retiré en application de l'article 1727/5, § 4, ne peut introduire une nouvelle demande d'agrément qu'après une période de dix ans à dater de la notification de la décision de retrait.]<sup>1</sup>
+
+§ 2. Les médiateurs agréés se soumettent à une formation continue dont le programme est agréé par la commission visée à l'article 1727.
+
+§ 3. Cet article s'applique également [<sup>1</sup> en cas de co-médiation.]<sup>1</sup>
+
+[<sup>1</sup> § 4. Nul ne peut utiliser le titre de "médiateur agréé", seul ou en combinaison avec d'autres termes, sans figurer sur la liste des médiateurs agréés visée à l'article 1727.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 215, 006; En vigueur : 01-01-2019&gt;
+
+### Art. 1727
+
+[<sup>1</sup> § 1er. Il est institué une Commission fédérale de médiation, ci-après dénommée la Commission, composée de [<sup>3</sup> trente]<sup>3</sup> membres.
+
+La Commission est composée d'une assemblée générale et des organes suivants : un bureau, une commission permanente pour l'agrément des médiateurs belges et étrangers, une commission permanente pour l'agrément des formations et le suivi de la formation permanente, une commission disciplinaire et de traitement des plaintes et des commissions spéciales.
+
+Sous réserve des commissions permanentes, la Commission compte au sein de ses organes autant de membres d'expression française que de membres d'expression néerlandaise.
+
+Pour délibérer et prendre des décisions valablement, la majorité des membres de chaque organe et de chaque groupe linguistique doit être présente. En cas d'absence ou d'empêchement d'un membre effectif, son suppléant le remplace. Les décisions sont prises à la majorité simple des voix. En cas de parité des voix, la voix du président ou du vice-président qui le remplace est prépondérante.
+
+§ 2. Les missions de la Commission sont les suivantes :
+
+1° agréer les organes de formation des médiateurs et les formations qu'ils organisent ou retirer cet agrément;
+
+2° déterminer les programmes minimaux de formation théorique et pratique devant être suivis [<sup>2</sup> par les candidats médiateurs et devant faire l'objet d'une évaluation effective organisée par l'organe de formation;]<sup>2</sup>
+
+[<sup>2</sup> 2° /1 déterminer les conditions et la procédure d'agrément des médiateurs;]<sup>2</sup>
+
+3° agréer les médiateurs en fonction des domaines particuliers de pratique de la médiation;
+
+4° décider de l'inscription sur la liste des médiateurs établis dans un pays membre ou non membre de l'Union européenne, qui ont été agréés par une instance habilitée à cet effet dans ce pays;
+
+5° établir un code de déontologie;
+
+6° traiter les plaintes à l'encontre des médiateurs ou des organismes qui dispensent les formations, donner des avis en cas de contestation des honoraires des médiateurs et imposer des sanctions à l'encontre des médiateurs qui ne satisferaient plus aux conditions prévues à l'article 1726 ou aux dispositions du code de déontologie établi par la Commission;
+
+7° publier périodiquement au Moniteur belge l'ensemble des décisions réglementaires de la Commission;
+
+8° déterminer la procédure de sanction à l'égard des médiateurs;
+
+9° [<sup>3</sup> rendre des avis motivés au ministre de la Justice sur les conditions auxquelles une instance représentative pour les médiateurs qui n'exercent ni la profession d'avocat, ni celle de notaire, ni celle d'huissier de justice, ni celle de magistrat, et qui ne sont ni magistrats émérites ou honoraires doit répondre pour pouvoir être représentative;]<sup>3</sup>
+
+10° [<sup>2</sup> dresser la liste des médiateurs en fonction des domaines particuliers de pratique de la médiation et la diffuser]<sup>2</sup> auprès des cours et tribunaux, des autorités fédérales, communautaires et régionales et des pouvoirs locaux;
+
+11° informer le public des possibilités offertes par la médiation;
+
+12° prendre toutes les mesures nécessaires pour promouvoir le bon exercice de la médiation, et en particulier examiner et soutenir de nouvelles méthodes et pratiques de médiation et d'autres modes de résolution des litiges;
+
+13° rédiger et publier, sur son site internet, un rapport annuel portant sur l'exécution de ses missions légales comme prévu à l'article 1727/1, alinéa 5;
+
+14° veiller à la bonne organisation de son bureau et de ses commissions.
+
+[<sup>3</sup> § 2/1. L'assemblée générale et le bureau peuvent consulter des experts et les inviter à participer à leurs réunions. Ils ont une voix consultative.]<sup>3</sup>
+
+§ 3. Le ministre de la Justice met à disposition de la commission fédérale de médiation le personnel et les moyens nécessaires à son fonctionnement. Le Roi détermine le jeton de présence qui peut être alloué aux membres de la commission fédérale de médiation et aux membres de la commission disciplinaire et de traitement des plaintes ainsi que les indemnités qui peuvent leur être allouées en remboursement de leurs frais de parcours et de séjour.]]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 216, 006; En vigueur : 01-01-2019&gt;
+
+(2)&lt;L 2022-12-06/02, art. 38, 010; En vigueur : 31-12-2022&gt;
+
+(3)&lt;L 2024-05-15/03, art. 79, 012; En vigueur : 07-06-2024&gt;
+
+### Art. 1727/1
+
+[<sup>1</sup> L'assemblée générale est composée des membres effectifs et suppléants du bureau et des commissions permanentes, à l'exception des assesseurs de la commission disciplinaire et de traitement des plaintes et des membres des commissions spéciales.
+
+L'assemblée générale approuve, à la majorité de ses membres [<sup>2</sup> ...]<sup>2</sup>, toutes les décisions, avis et autres mesures prises en exécution de l'article 1727, § 2, à l'exception des matières relevant, selon une disposition expresse de la septième partie, exclusivement du bureau et des missions relevant de la commission disciplinaire et de traitement des plaintes.
+
+Elle détermine, après approbation du ministre de la Justice, les commissions spéciales devant être constituées ainsi que leurs compositions et leurs missions. Elle décide également, après approbation du ministre de la Justice, de la suppression de telles commissions. L'assemblée générale désigne les membres effectifs et suppléants des commissions spéciales.
+
+Toute compétence non expressément attribuée par la loi à un organe de la Commission relève des missions de l'assemblée générale.
+
+[<sup>2</sup> L'assemblée générale approuve chaque année le rapport visé à l'article 1727, § 2, 13°, rédigé par le bureau, à l'exception de celui visé à l'article 1727/5, § 5. Ce rapport est communiqué au ministre de la Justice.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-06-18/03, art. 217, 006; En vigueur : 01-01-2019&gt;
+
+(2)&lt;L 2024-05-15/03, art. 80, 012; En vigueur : 07-06-2024&gt;
+
+### Art. 1727/2
+
+[<sup>1</sup> § 1er. Le bureau est composé de neuf membres effectifs et de neuf membres suppléants qui justifient de compétences pertinentes dans le domaine de la médiation ou dans la pratique ou la formation à la médiation.
+
+Pour chaque membre effectif, il est désigné un membre suppléant.
+
+Le Roi fixe les modalités de la publication des vacances, du dépôt des candidatures et de la présentation des membres.
+
+Les membres effectifs et suppléants sont désignés par le Roi, sur présentation motivée:
+
+1° de deux membres par l'Ordre des barreaux francophones et germanophone pour les avocats appartenant à cet Ordre;
+
+2° de deux membres par l'Orde van Vlaamse balies pour les avocats appartenant à cet Ordre;
+
+3° de quatre membres, deux par rôle linguistique, par la Fédération royale du notariat belge pour les notaires;
+
+4° de six membres, trois par rôle linguistique, par les instances représentatives pour les médiateurs qui n'exercent ni la profession d'avocat, ni celle de notaire, ni celle d'huissier de justice, ni celle de magistrat, et qui ne sont ni magistrats émérites ou honoraires et par d'autres organisations professionnelles que celles concernant les professions précitées et qui comptent en leur sein des médiateurs agréés;
+
+5° de deux membres, chacun d'un rôle linguistique distinct, qui sont magistrats, ou magistrats émérites ou honoraires, par le Conseil supérieur de la justice;
+
+6° de deux membres, chacun d'un rôle linguistique distinct, par la Chambre nationale des huissiers de justice pour les huissiers de justice.
+
+Le ministre de la Justice établit, sur avis de la Commission, conformément à l'article 1727, § 2, 9°, une liste d'instances présumées être représentatives des médiateurs qui n'exercent ni la profession d'avocat, ni celle de notaire, ni celle d'huissier de justice, ni celle de magistrat, et qui ne sont ni magistrats émérites ou honoraires.
+
+Pour l'application du présent article, le candidat-notaire est assimilé à un notaire et le candidat-huissier de justice est assimilé à un huissier de justice.
+
+§ 2. Les membres sont nommés pour une période de trois ans. Un mandat complet ne peut être renouvelé qu'une fois. Le mandat prend cours à dater de la publication de leur nomination au Moniteur belge. Un membre, ayant déjà exercé deux mandats, peut se porter candidat à un troisième mandat si, lors d'un appel à candidatures au Moniteur belge, il n'y a pas de candidatures ou insuffisamment de candidatures pour renouveler les mandats vacants.
+
+Il peut être mis prématurément fin au mandat d'un membre par la démission du membre, par une décision prise par le ministre de la Justice sur la proposition du bureau ou à la demande des trois-quarts des membres de l'assemblée générale. Il est ensuite procédé conformément au paragraphe 1er.
+
+§ 3. Un mandat entamé mais interrompu est achevé par une personne nommée en remplacement et appartenant au même groupe professionnel et rôle linguistique.
+
+Les membres du bureau, y compris le président et le vice-président visés au paragraphe 4, exercent leurs fonctions jusqu'à leur remplacement.
+
+§ 4. L'assemblée générale désigne parmi les membres du bureau et pour une période de trois ans non renouvelable un président et un vice-président qui remplace le président le cas échéant, ainsi qu'un secrétaire. Les fonctions de président et de vice-président sont attribuées alternativement à un membre francophone et à un membre néerlandophone. La présidence et la vice-présidence sont, en outre, par préférence, exercées alternativement par des notaires, des avocats, des magistrats, des huissiers de justice et par des médiateurs qui n'exercent aucune des professions précitées.
+
+Le président du bureau est également président de la Commission fédérale de médiation.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-15/03, art. 81, 012; En vigueur : 07-06-2024&gt;
+
+### Art. 1727/2/1
+
+[<sup>1</sup> § 1er. Le bureau coordonne les activités de la Commission, veille à l'exécution des décisions prises par ses organes et est chargé de la gestion journalière.
+
+Le bureau approuve les décisions ou avis émis par la commission pour l'agrément des médiateurs belges et étrangers et par la commission pour l'agrément des formations et le suivi de la formation permanente en vertu de l'article 1727/4, § 3.
+
+Le bureau est chargé des matières visées à l'article 1727, § 2, 10°, 11° et 12°, et soumet des propositions à l'assemblée générale dans la matière visée à l'article 1727, § 2, 9°.
+
+Le bureau établit un règlement d'ordre intérieur qui est soumis à l'assemblée générale pour approbation. Une fois approuvé par l'assemblée générale, ce règlement est publié sur le site internet de la Commission.
+
+§ 2. Le bureau désigne parmi ses membres effectifs ou membres suppléants pour chacune des commissions permanentes un président et un vice-président d'un rôle linguistique différent.
+
+La désignation est confirmée ou infirmée à la première réunion de l'assemblée générale tenue lors du renouvellement du bureau. L'assemblée générale désigne un autre membre du bureau si elle ne confirme pas la désignation faite par le bureau. Les décisions prises par le président ou le vice-président dont la désignation n'a pas été confirmée continuent à sortir leurs effets.
+
+La désignation vaut pour une période de trois ans à dater de la première réunion du bureau nouvellement constitué ou, le cas échéant, à dater de la désignation par l'assemblée générale.
+
+Pour la présidence et la vice-présidence, la désignation observe un régime d'alternance entre le groupe francophone et le groupe néerlandophone.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-15/03, art. 82, 012; En vigueur : 07-06-2024&gt;
+
+### Art. 1727/3
+
+[<sup>2</sup> § 1er.]<sup>2</sup> [<sup>1</sup> Trois commissions permanentes sont créées :
+
+\- la commission pour l'agrément des médiateurs belges et étrangers;
+
+\- la commission pour l'agrément des formations et le suivi de la formation continue;
+
+\- la commission disciplinaire et de traitement des plaintes.]<sup>1</sup>
+
+[<sup>2</sup> § 2. Les membres des commissions pour l'agrément des médiateurs belges et étrangers et pour l'agrément des formations et le suivi de la formation continue sont nommés par le Roi pour une durée de trois ans. Leur mandat ne peut être renouvelé qu'une seule fois. Leur mandat prend cours le jour de la publication de leur nomination au Moniteur belge. Il se termine à l'issue des trois années ou, si les trois années ne sont pas encore écoulées, le jour de la première assemblée générale tenue après le renouvellement des mandats des membres du bureau. Un membre, ayant déjà exercé deux mandats, peut se porter candidat à un troisième mandat si, lors d'un appel à candidatures au Moniteur belge, il n'y a pas de candidatures ou insuffisamment de candidatures pour renouveler les mandats vacants.
+
+Les membres des commissions permanentes exercent leurs fonctions jusqu'à leur remplacement.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-06-18/03, art. 219, 006; En vigueur : 01-01-2019&gt;
+
+(2)&lt;L 2024-05-15/03, art. 83, 012; En vigueur : 07-06-2024&gt;
+
+### Art. 1727/4
+
+[<sup>1</sup> § 1er. [<sup>3</sup> La commission pour l'agrément des médiateurs belges et étrangers et la commission pour l'agrément des formations et le suivi de la formation continue sont chacune composées, outre d'un président ou un vice-président, de quatre membres effectifs. Deux membres suppléants sont également désignés. A l'exception du président ou du vice-président, chaque commission comporte autant de membres d'expression française que de membres d'expression néerlandaise.
+
+En cas d'absence du président, le vice-président ou, si nécessaire, un autre membre de la commission permanente concernée appartenant au même groupe linguistique que le président, le remplace.
+
+§ 1/1. Un appel aux candidats est publié au Moniteur belge. Les membres sont nommés par le Roi sur la base de la présentation d'une liste rédigée par le bureau de maximum vingt-quatre candidats classés par ordre de préférence, contenant un avis motivé pour chaque candidat. Le Roi fixe les modalités de la publication des vacances, du dépôt des candidatures, de la présentation des membres et peut fixer les critères requis pour poser sa candidature.
+
+Il peut être mis fin prématurément au mandat d'un membre par la démission du membre, par une décision prise par le ministre de la Justice sur la proposition du bureau ou à la demande de trois quarts des membres de l'assemblée générale. La personne nommée en remplacement doit être choisie par le bureau sur la liste visée à l'alinéa 1er. Dans l'hypothèse où aucun remplaçant ne peut être trouvé sur cette liste, il sera procédé conformément à l'alinéa 1er. Dans tous les cas, les personnes nommées en remplacement achèvent le mandat du prédécesseur.]<sup>3</sup>
+
+§ 2. La commission pour l'agrément des médiateurs belges et étrangers et la commission pour l'agrément des formations et le suivi de la formation continue peuvent consulter des experts qui ne sont pas membres de la commission et les inviter à participer à leurs réunions. Ils disposent d'une voix consultative.
+
+§ 3. La commission pour l'agrément de médiateurs belges et étrangers et la commission pour l'agrément des formations et le suivi de la formation permanente sont chargées, pour leurs missions respectives, de soumettre un avis ou une décision pour approbation au bureau en ce qui concerne les missions visées à l'article 1727, § 2, 1°, 2°, 3° et 4°.
+
+§ 4. La commission pour l'agrément de médiateurs belges et étrangers et la commission pour l'agrément des formations et le suivi de la formation permanente établissent un règlement d'ordre intérieur qui est soumis à l'assemblée générale pour approbation. Une fois approuvé par l'assemblée générale, ce règlement est publié sur le site internet de la Commission.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-06-18/03, art. 220, 006; En vigueur : 01-01-2019&gt;
+
+(2)&lt;L 2022-12-06/02, art. 40, 010; En vigueur : 31-12-2022&gt;
+
+(3)&lt;L 2024-05-15/03, art. 84, 012; En vigueur : 07-06-2024&gt;
+
+### Art. 1727/5
+
+[<sup>1</sup> § 1er. [<sup>3</sup> La commission disciplinaire et de traitement des plaintes est composée de cinq membres, un président ou un vice-président et quatre assesseurs effectifs. Il y a également quatre assesseurs suppléants qui sont désignés. Le vice-président remplace le président en cas d'absence ou d'empêchement. A l'exception du président ou du vice-président, la commission comporte autant de membres d'expression française que de membres d'expression néerlandaise. La commission se compose d'un collège francophone et d'un collège néerlandophone, composés chacun de deux assesseurs effectifs, et du président ou du vice-président. La commission est présidée par un membre du bureau qui, dès désignation, ne siègera plus dans une autre commission permanente ou spéciale. Le président et le vice-président justifient d'une connaissance suffisante de l'autre langue nationale.]<sup>3</sup>
+
+Au moins un membre du collège francophone ou du collège néerlandophone doit justifier de la connaissance de l'allemand.
+
+Les assesseurs, qui ne peuvent pas être membres de la commission fédérale de médiation, sont présentés par l'assemblée générale et nommés par le ministre de la Justice par décision motivée. La présentation est motivée sur la base de leur expertise en droit disciplinaire et en résolution de litiges. Le Roi fixe les modalités de la publication des vacances, du dépôt des candidatures, de la présentation des membres ainsi que les critères requis pour poser sa candidature.
+
+[<sup>2</sup> § 1er/1. [<sup>3</sup> Les assesseurs sont nommés pour une période de trois ans. Leur mandat ne peut être renouvelé que deux fois. Il peut être mis fin prématurément au mandat d'un assesseur par la démission de celui-ci, par une décision motivée prise par le ministre de la Justice sur la proposition du bureau ou à la demande des trois-quarts des membres de l'assemblée générale. Il est ensuite procédé conformément au paragraphe 1er, alinéa 3. Dans tous les cas, les personnes nommées en remplacement achèvent le mandat du prédécesseur. S'il s'agit d'un premier mandat, le mandat de la personne nommée en remplacement peut être renouvelé deux fois. Un membre, ayant déjà exercé trois mandats complets, peut se porter candidat à un quatrième mandat si, lors d'un appel à candidatures au Moniteur belge, il n'y a pas de candidatures ou insuffisamment de candidatures pour renouveler les mandats vacants.]<sup>3</sup>]<sup>2</sup>
+
+§ 2. La commission disciplinaire et de traitement des plaintes, par l'intermédiaire du collège néerlandophone ou francophone, est chargée de la discipline des médiateurs en vertu de l'article 1727, § 2, [<sup>2</sup> 6°]<sup>2</sup>, et du traitement des plaintes contre les médiateurs [<sup>3</sup> ...]<sup>3</sup> et de donner des avis en cas de contestation des honoraires des médiateurs. [<sup>3</sup> Cette dernière est également chargée de recevoir les plaintes contre les organismes qui dispensent des formations en médiation et en informe, le cas échéant, la commission pour l'agrément des formations et le suivi de la formation continue.]<sup>3</sup>
+
+Le choix du collège, francophone ou néerlandophone, est effectué par le médiateur ou l'organisme qui fait l'objet de la procédure.
+
+La commission disciplinaire et de traitement des plaintes est également chargée de faire des propositions en vertu de [<sup>2</sup> l'article 1727, § 2, 5° et 8°,]<sup>2</sup> qui sont soumises, pour approbation, à l'assemblée générale.
+
+[<sup>3</sup> § 2/1. La commission siège en collèges réunis lorsqu'elle formule des avis visés au paragraphe 2, rédige le règlement prévu au paragraphe 3 ainsi que le rapport prévu au paragraphe 5.]<sup>3</sup>
+
+§ 3. La commission disciplinaire et de traitement des plaintes établit son règlement de procédure. Le règlement est validé par l'assemblée générale. Une fois approuvé par l'Assemblée générale, ce règlement est publié sur le site internet de la Commission.
+
+§ 4. La commission disciplinaire et de traitement des plaintes par l'intermédiaire du collège néerlandophone ou francophone peut imposer les sanctions suivantes à l'égard d'un médiateur agréé :
+
+\- l'avertissement;
+
+\- la réprimande;
+
+\- l'obligation d'accomplir un stage pendant la durée et selon les modalités fixées par la commission disciplinaire et de traitement des plaintes;
+
+\- l'obligation d'exercer sa profession exclusivement en co-médiation pendant la durée et selon les modalités fixées par la commission disciplinaire et de traitement des plaintes;
+
+\- la suspension pour une période qui ne peut exéder un an;
+
+\- le retrait de l'agrément.
+
+§ 5. Chaque année, la commission disciplinaire et de traitement des plaintes fait un rapport sur l'exécution de ses missions au cours de l'année écoulée. Ce rapport contient des suggestions relatives à l'opportunité de modifier la procédure disciplinaire ou le traitement des plaintes ainsi que le Code de déontologie. Ce rapport est communiqué au ministre de la Justice.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-06-18/03, art. 221, 006; En vigueur : 01-01-2019&gt;
+
+(2)&lt;L 2022-12-06/02, art. 41, 010; En vigueur : 31-12-2022&gt;
+
+(3)&lt;L 2024-05-15/03, art. 85, 012; En vigueur : 07-06-2024&gt;
+
+### Art. 1727/6
+
+[<sup>1</sup> La section du contentieux administratif du Conseil d'Etat, saisie par voie de requête, statue sur les recours en suspension et annulation de décisions faisant grief rendues par la commission fédérale de médiation visées à l'article 1727/5, § 4.
+
+Le délai pour introduire la requête visée à l'alinéa 1er est d'un mois à dater de la notification de la décision de la commission fédérale de médiation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/12, art. 2, 007; En vigueur : 01-01-2019&gt;
+
+### Art. 1728
+
+[<sup>1</sup> § 1er. Les documents établis et les communications faites au cours du processus de médiation et pour les besoins de celui-ci sont confidentiels. Ils ne peuvent être utilisés dans aucune procédure judiciaire, administrative ou arbitrale ni dans toute autre procédure de résolution des conflits et ne sont jamais admissibles comme preuve, même comme aveu extrajudiciaire.
+
+Sauf volonté contraire des parties exprimée par écrit, ne sont pas visés par la présente obligation de confidentialité le protocole de médiation et le ou les accords de médiation signés par les parties, ainsi que l'éventuel document établi par le médiateur qui constate l'échec de la médiation.
+
+L'obligation de confidentialité peut, par ailleurs, avec le consentement écrit des parties, et dans les limites qu'elles déterminent, être levée. A l'inverse, les parties peuvent, de commun accord et par écrit, rendre confidentiels des documents ou communications antérieurs à l'entame du processus de médiation.
+
+§ 2. Sans préjudice des obligations que la loi lui impose, le médiateur ne peut rendre publics les faits dont il prend connaissance du fait de sa fonction. Il ne peut être appelé comme témoin par les parties dans une procédure civile, administrative ou arbitrale relative aux faits dont il a pris connaissance au cours de la médiation. Il ne peut davantage révéler, en ce compris au juge ou à l'arbitre saisi d'un différend entre les parties médiées, le motif de l'échec de ce mode amiable de règlement des conflits.
+
+[<sup>2</sup> L'article 352]<sup>2</sup> du Code pénal lui est applicable.
+
+§ 3. Dans le cadre de sa mission et pour les besoins de celle-ci, le médiateur peut, avec l'accord des parties, entendre les tiers qui y consentent ou lorsque la complexité de l'affaire l'exige, recourir aux services d'un expert, spécialiste du domaine traité. Ceux-ci sont tenus à l'obligation de confidentialité visée au paragraphe 1er, alinéa 1er. Le paragraphe 2 s'applique à l'expert.
+
+§ 4. En cas de violation de l'obligation de confidentialité ou de secret par les personnes qui y sont tenues en vertu de la présente disposition, le juge ou l'arbitre se prononce en équité sur l'octroi éventuel de dommages et intérêts, et sur la hauteur de ceux-ci.
+
+Les documents et communications confidentiels qui sont malgré tout communiqués ou sur lesquels une partie se base en violation de l'obligation de confidentialité sont d'office écartés des débats.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 222, 006; En vigueur : 12-07-2018&gt;
+
+(2)&lt;L 2026-03-30/01, art. 84, 014; En vigueur : 01-09-2026&gt;
+
+### Art. 1729
+
+&lt;Inséré par L 2005-02-21/36, art. 13; En vigueur : 30-09-2005&gt; Chacune des parties peut à tout moment mettre fin à la médiation, sans que cela puisse lui porter préjudice.
+
+## CHAPITRE II. [<sup>1</sup> - La médiation extrajudiciaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 223, 006; En vigueur : 12-07-2018&gt;
+
+### Art. 1730
+
+&lt;Inséré par L 2005-02-21/36, art. 14; En vigueur : 30-09-2005&gt; § 1er. Toute partie peut proposer aux autres parties, indépendamment de toute procédure judiciaire ou arbitrale, avant, pendant ou après le déroulement d'une procédure judiciaire, de recourir au processus de médiation. Les parties désignent le médiateur de commun accord ou chargent un tiers de cette désignation.
+
+§ 2. Si la proposition est adressée par envoi recommandé et qu'elle contient la réclamation d'un droit, elle est assimilée à la mise en demeure visée à l'article [<sup>1</sup> 5.240]<sup>1</sup> du Code civil.
+
+§ 3. Dans les mêmes conditions, la proposition suspend le cours de la prescription de l'action attachée à ce droit pendant un mois. "
+
+----------
+
+(1)&lt;L 2022-04-28/25, art. 11, 009; En vigueur : 01-01-2023&gt;
+
+### Art. 1731
+
+&lt;Inséré par L 2005-02-21/36, art. 15; En vigueur : 30-09-2005&gt; § 1er. Les parties définissent entre elles, avec l'aide du médiateur, les modalités d'organisation de la médiation et la durée du processus. Cette convention est consignée par écrit dans un protocole de médiation signé par les parties et par le médiateur. Les frais et honoraires de la médiation sont à charge des parties par parts égales, sauf si elles en décident autrement.
+
+§ 2. Le protocole de médiation contient :
+
+1° le nom et le domicile des parties et de leurs conseils;
+
+2° le nom, la qualité et l'adresse du médiateur, et le cas échéant, la mention que le médiateur est agréé par la commission visée à l'article 1727;
+
+3° le rappel du principe volontaire de la médiation;
+
+4° un exposé succinct du différend;
+
+5° [<sup>1</sup> la confidentialité qui s'attache aux documents et aux communications dans le cadre de la médiation;]<sup>1</sup>
+
+6° le mode de fixation et le taux des honoraires du médiateur, ainsi que les modalités de leur paiement;
+
+7° la date;
+
+8° la signature des parties et du médiateur.
+
+§ 3. La signature du protocole suspend le cours de la prescription durant la médiation.
+
+§ 4. Sauf accord exprès des parties, la suspension de la prescription prend fin un mois après la notification faite par l'une des parties ou par le médiateur à l'autre ou aux autres parties de leur volonté de mettre fin à la médiation. Cette notification a lieu par lettre recommandée.
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 224, 006; En vigueur : 12-07-2018&gt;
+
+### Art. 1732
+
+&lt;Inséré par L 2005-02-21/36, art. 16; En vigueur : 30-09-2005&gt; Lorsque les parties parviennent à un accord de médiation, celui-ci fait l'objet d'un écrit daté et signé par elles et le médiateur. Le cas échéant, il est fait mention de l'agrément du médiateur.
+
+Cet écrit contient les engagements précis pris par chacune d'elles.
+
+### Art. 1733
+
+&lt;Inséré par L 2005-02-21/36, art. 17; En vigueur : 30-09-2005&gt; En cas d'accord, et si le médiateur qui a mené la médiation est agréé par la commission visée à l'article 1727, les parties ou l'une d'elles peuvent soumettre l'accord de médiation obtenu conformément aux articles 1731 et 1732 pour homologation au juge compétent. Il est procédé conformément aux articles 1025 à 1034. La requête peut cependant être signée par les parties elles-mêmes si celle-ci émane de toutes les parties à la médiation. Le protocole de médiation est joint à la requête.
+
+[<sup>1</sup> Si la médiation porte sur des matières visées à l'article 1004/1, l'accord de médiation mentionne que le médiateur a attiré l'attention des parties sur l'intérêt de l'enfant et précise de quelle manière cet intérêt a été pris en compte.]<sup>1</sup>
+
+Le juge ne peut refuser l'homologation de l'accord que si celui-ci est contraire à l'ordre public ou si l'accord obtenu à l'issue d'une médiation familiale est contraire à l'intérêt des enfants mineurs. [<sup>1</sup> Si l'accord ne contient pas la mention visée à l'alinéa 2, le juge invite les parties à compléter leur accord sur ce point et sursoit à la demande tant que les parties n'ont pas complété l'accord.]<sup>1</sup>
+
+L'ordonnance d'homologation a les effets d'un jugement au sens de l'article 1043. "
+
+----------
+
+(1)&lt;L 2024-03-28/60, art. 119, 011; En vigueur : 08-04-2024&gt;
+
+## CHAPITRE III. - La médiation judiciaire. &lt;Inséré par L 2005-02-21/36, art. 18; En vigueur : 30-09-2005&gt;.
+
+### Art. 1734
+
+&lt;Inséré par L 2005-02-21/36, art. 18; En vigueur : 30-09-2005&gt; § 1er. [<sup>2</sup> Sauf devant la Cour de cassation et le tribunal d'arrondissement, en tout état de la procédure et ainsi qu'en référé, le juge saisi d'un litige peut, à la demande conjointe des parties ou de sa propre initiative mais avec l'accord de celles-ci, ordonner une médiation, tant que la cause n'a pas été prise en délibéré.
+
+Lorsqu'il estime qu'un rapprochement entre les parties est possible [<sup>5</sup> et dans la mesure où le délai raisonnable pour obtenir une décision judiciaire n'est pas compromis,]<sup>5</sup> le juge, peut, d'office ou à la demande de l'une des parties, ordonner une médiation, après avoir entendu les parties [<sup>5</sup> ...]<sup>5</sup>. Si toutes les parties s'y opposent, le juge ne peut ordonner une médiation.]<sup>2</sup>
+
+[<sup>3</sup> S'il existe des indices sérieux que des violences, des menaces ou toute autre forme de pression sont ou ont été exercées par une partie à l'encontre de l'autre partie, le juge ne peut ordonner une médiation sans s'assurer que cette dernière y consent librement. A cette fin, il recueille le consentement oral de celle-ci en l'absence de l'autre partie.]<sup>3</sup>
+
+[<sup>2</sup> § 1er/1. Les parties, ou en l'absence des parties, leur avocat, peuvent demander conjointement au juge de désigner le médiateur ou les médiateurs qu'elles présentent. Le juge accède à cette demande, sauf si le médiateur ou les médiateurs proposés par les parties ne satisfont pas aux conditions visées à l'article 1726.
+
+[<sup>4</sup> Si les parties ne s'accordent pas sur le médiateur ou les médiateurs à désigner, le juge désigne un médiateur ou des médiateurs agréés selon l'article 1727, § 2, de préférence sur la base d'une liste de tous les médiateurs établie par la Commission fédérale de médiation conformément à l'article 1727, § 2, 10°. Le juge choisit un ou des médiateurs compétents au regard de la nature du différend entre les parties et, dans la mesure du possible, établis à proximité du domicile des parties.]<sup>4</sup>]<sup>2</sup>
+
+[<sup>6</sup> Dans les litiges relevant de leur compétence respective, et pour autant qu'ils n'aient pas déjà connu du différend, le service de médiation en matière financière, institué à l'article 128/1 de la loi du 2 août 2002 relative à la surveillance du secteur financier et aux services financiers ou l'Ombudsman des assurances, instauré à l'article 322 de la loi du 4 avril 2014 relative aux assurances, peuvent être désignés par le juge, à la demande des parties ou d'initiative avec l'accord des parties, afin de tenter de résoudre le litige par une médiation. Les représentants du service de médiation en matière financière et de l'Ombudsman des assurances ne doivent à cette fin pas être agréé en tant que médiateur selon la procédure visée à l'article 1726.]<sup>6</sup>
+
+§ 2. [<sup>2</sup> La décision ordonnant aux parties de tenter de résoudre le litige par une médiation visée au paragraphe 1er mentionne le nom et la qualité du médiateur agréé ou des médiateurs agréés, fixe la durée de la mission, sans que celle-ci puisse excéder six mois, et fixe la cause à la première date utile suivant l'expiration du délai.]<sup>2</sup>
+
+§ 3. Au plus tard lors de l'audience visée au § 2, les parties informent le juge de l'issue de la médiation. Si elles ne sont pas parvenues à un accord, elles peuvent solliciter [<sup>2</sup> d'un commun accord]<sup>2</sup> un nouveau délai ou demander que la procédure soit poursuivie.
+
+§ 4. Les parties peuvent solliciter une médiation soit dans l'acte introductif d'instance, soit à l'audience, soit par simple demande écrite déposée ou adressée au greffe. Dans cette dernière hypothèse, la cause est fixée dans les quinze jours de la demande.
+
+Le greffier convoque les parties par pli judiciaire, et, le cas échéant, leur conseil par simple pli. S'il s'agit d'une demande conjointe des parties, celles-ci et, le cas échéant, leur conseil, sont convoqués par simple pli.
+
+§ 5. Lorsque les parties sollicitent conjointement qu'une médiation soit ordonnée, les délais de procédure qui leur sont impartis sont suspendus à dater du jour où elles formulent cette demande.
+
+Le cas échéant, les parties ou l'une d'elle peuvent solliciter de nouveaux délais pour la mise en état de la cause à l'audience visée au § 2 ou à l'article 1735, § 5.
+
+----------
+
+(1)&lt;L 2015-10-19/01, art. 49, 004; En vigueur : 01-11-2015&gt;
+
+(2)&lt;L 2018-06-18/03, art. 225, 006; En vigueur : 12-07-2018&gt;
+
+(3)&lt;L 2022-11-06/01, art. 7, 008; En vigueur : 01-12-2022&gt;
+
+(4)&lt;L 2022-12-06/02, art. 42, 010; En vigueur : 31-12-2022&gt;
+
+(5)&lt;L 2024-05-15/03, art. 86, 012; En vigueur : 07-06-2024&gt;
+
+(6)&lt;L 2025-12-11/13, art. 147, 013; En vigueur : 03-01-2026&gt;
+
+### Art. 1735
+
+&lt;Inséré par L 2005-02-21/36, art. 19; En vigueur : 30-09-2005&gt; § 1er. Dans les huit jours du prononcé de la décision, le greffe envoie au médiateur sous pli judiciaire une copie certifiée conforme du jugement. Dans les huit jours, le médiateur avise par lettre le juge et les parties des lieu, jour et heure où il commencera sa mission.
+
+§ 2. La médiation peut porter sur tout ou partie du litige.
+
+§ 3. Le juge reste saisi durant la médiation et peut, à tout moment, prendre toute mesure qui lui paraît nécessaire. Il peut aussi, à la demande du médiateur ou de l'une des parties, mettre fin à la médiation avant l'expiration du délai fixé.
+
+§ 4. De l'accord des parties, le médiateur désigné peut, à tout moment de la procédure, être remplacé par un autre médiateur agréé. Cet accord est signé par les parties et versé au dossier de la procédure.
+
+§ 5. La cause peut être ramenée devant le juge avant le jour fixé par simple déclaration écrite déposée ou adressée au greffe par les parties ou l'une d'elles. La cause est fixée dans les quinze jours de la demande.
+
+Le greffier convoque les parties par pli judiciaire, et, le cas échéant, leur conseil par simple pli. S'il s'agit d'une demande conjointe des parties, celles-ci et le cas échéant, leur conseil, sont convoqués par simple pli.
+
+[<sup>1</sup> § 6. Les mesures ordonnées en application des articles 1734 et 1735 ne sont susceptibles d'aucun recours.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 226, 006; En vigueur : 12-07-2018&gt;
+
+### Art. 1736
+
+&lt;Inséré par L 2005-02-21/36, art. 20; En vigueur : 30-09-2005&gt; La médiation se déroule conformément aux dispositions des articles 1731 et 1732.
+
+A l'expiration de sa mission, le médiateur informe par écrit le juge de ce que les parties sont ou non parvenues à trouver un accord.
+
+Si la médiation a donné lieu à la conclusion d'un accord de médiation, fût-il partiel, les parties ou l'une d'elles peuvent, conformément à l'article 1043, demander au juge de l'homologuer.
+
+[<sup>1</sup> Si la médiation porte sur des matières visées à l'article 1004/1, l'accord de médiation mentionne que le médiateur a attiré l'attention des parties sur l'intérêt de l'enfant et précise de quelle manière cet intérêt a été pris en compte.]<sup>1</sup>
+
+Le juge ne peut refuser l'homologation de l'accord que si celui-ci est contraire à l'ordre public ou si l'accord obtenu à l'issue d'une médiation familiale est contraire à l'intérêt des enfants mineur. [<sup>1</sup> Si l'accord ne contient pas la mention visée à l'alinéa 4, le juge invite les parties à compléter leur accord sur ce point et sursoit à la demande tant que les parties n'ont pas complété l'accord.]<sup>1</sup>
+
+Si la médiation n'a pas donné lieu à la conclusion d'un accord de médiation complet, la procédure est poursuivie au jour fixé, sans préjudice de la faculté pour le juge, s'il l'estime opportun et moyennant l'accord de toutes les parties, de prolonger la mission du médiateur pour un délai qu'il détermine.
+
+----------
+
+(1)&lt;L 2024-03-28/60, art. 120, 011; En vigueur : 08-04-2024&gt;
+
+### Art. 1737
+
+&lt;Inséré par L 2005-02-21/36, art. 21; En vigueur : 30-09-2005&gt; La décision ordonnant, prolongeant ou mettant fin à la médiation n'est pas susceptible de recours.

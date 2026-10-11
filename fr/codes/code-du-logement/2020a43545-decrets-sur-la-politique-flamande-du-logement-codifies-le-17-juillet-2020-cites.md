@@ -1,0 +1,6832 @@
+---
+title: "Décrets sur la politique flamande du logement, codifiés le 17 juillet 2020. Cités sous le titre suivant : Code flamand du Logement de 2021"
+identifier: "2020A43545"
+eli: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/17/2020A43545/justel"
+type: code
+justel_type: "CODE DU LOGEMENT"
+jurisdiction: be
+language: fr
+date: 2020-07-17
+published: 2020-11-13
+entry_into_force: 2021-01-01
+last_amended: 2026-06-12
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/decret/2020/07/17/2020A43545/justel"
+department: "Finances"
+justel_notes:
+  - "articles modifiés avec effet à une date indéterminée par DCFL 2021-07-09/37 , art. 158, 159, 161-195, 005; En vigueur : indéterminée "
+  - "Consultation des versions antérieures à partir du 13-11-2020 et mise à jour au 12-06-2026"
+retrieved: 2026-10-11
+---
+
+# 17 JUILLET 2020. - Décrets sur la politique flamande du logement, codifiés le 17 juillet 2020. Cités sous le titre suivant : Code flamand du Logement de 2021
+
+### Livre 1. Dispositions introductives
+
+## Partie 1. Dispositions générales et définitions
+
+**Art. 1.1**
+
+Le présent code règle une matière régionale.
+
+**Art. 1.2**
+
+Le présent code est cité sous le titre de Code flamand du Logement de 2021.
+
+**Art. 1.3**
+
+§ 1. Dans le présent code et ses arrêtés d'exécution, on entend par :
+
+1° adaptation : l'exécution de travaux spécifiques pour qu'un logement soit conforme à son occupation, à la composition du ménage ou aux possibilités physiques de personnes âgées et de personnes handicapées ;
+
+[<sup>1</sup> 1° /1 règlement général sur la protection des données : le règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE ;]<sup>1</sup>
+
+[<sup>4</sup> 1° /2 main-d'oeuvre : une personne qui :
+
+a) réside et est logée en Région flamande uniquement pendant et en raison de son emploi effectif ;
+
+b) ou normalement inscrite dans les registres de la population de la Région flamande, mais qui, pendant et en raison de son emploi dans la Région flamande, est logée si loin de son domicile qu'il lui est impossible d'y retourner chaque jour ;]<sup>4</sup>
+
+2°[<sup>6</sup> ...]<sup>6</sup>
+
+3° offre de logement modeste : l'offre de logements locatifs, de logements acquisitifs et de lots, à l'exclusion de l'offre de logement social, qui, sans préjudice de l'application de l'article 5.94, § 1, deuxième alinéa et de l'article 5.96, deuxième alinéa, se compose de :
+
+a) lots d'une superficie maximale de 500 m2 ;
+
+b) logements unifamiliaux d'un volume de construction maximal de 550 m3 ;
+
+c) autres logements d'un volume de construction maximal de 240 m3, à augmenter de 50 m3 pour les logements de trois chambres à coucher ou plus ;
+
+4° noyau résidentiel existant : une zone à haute densité de construction, destinée à l'habitat, pouvant être aisément raccordée aux infrastructures existantes et caractérisée par la disponibilité effective d'équipements primaires de nature quotidienne, commerciale, de service et socio-culturelle ;
+
+[<sup>5</sup> 4° /1 chambre d'étudiant abordable : une pièce aménagée par une société de logement et louée par un établissement d'enseignement supérieur ou une administration locale dans les conditions visées à l'article 4.42/2 ;]<sup>5</sup>
+
+5° envoi sécurisé : un des modes de signification suivants :
+
+a) lettre recommandée ;
+
+b) remise contre récépissé ;
+
+c) tout autre mode de signification autorisé par le Gouvernement flamand permettant de déterminer avec certitude la date de notification ;
+
+6° terrains à bâtir : les terrains, à l'exclusion de lots, confinant à une route dûment équipée au sens de l'article 4.3.5, § 2 du Code flamand de l'Aménagement du Territoire et situés dans une zone résidentielle ou dans une [<sup>15</sup> zone de réserve d'habitat qui entre déjà en considération pour la construction en vertu d'une décision de libération comme mentionné à l'article 5.6.12 du Code flamand de l'Aménagement du Territoire ou en vertu d'un accord de principe encore valable qui a été délivré conformément à l'article 5.6.6., § 2 ou qui était intégré dans l'article 5.6.6., § 3 du Code flamand de l'Aménagement du Territoire, tel que ces dispositions étaient d'application jusqu'au 7 juillet 2023]<sup>15</sup> ;
+
+7° logement conforme : un logement qui ne présente aucun des défauts visés à l'article 3.1, § 1, troisième alinéa, 2° et 3°;
+
+8° conformité : le fait de ne présenter aucun des défauts visés à l'article 3.1, § 1, troisième alinéa, 2° et 3° ;
+
+9° décret sur la Politique foncière et immobilière : le décret du 27 mars 2009 relatif à la politique foncière et immobilière ;
+
+10° gestionnaires de réseau de distribution : les personnes physiques ou morales visées à l'article 2, 8° de la loi du 29 avril 1999 relative à l'organisation du marché de l'électricité, et à l'article 1, 31° de la loi du 12 avril 1965 relative au transport de produits gazeux et autres par canalisations ;
+
+11° terrain de transit : un terrain destiné à, et aménagé pour l'installation temporaire de roulottes adaptées à la circulation ;
+
+[<sup>18</sup> 11° /1 accord tripartite : un accord conclu entre une société de logement et au moins deux communes situées dans sa zone d'activité et sanctionné par le Gouvernement flamand ;]<sup>18</sup>
+
+12° logement unifamilial : tout bien immeuble bâti qui est principalement destiné au logement d'une seule famille ou d'une personne seule et dans lequel ne se trouve aucun autre logement ;
+
+13° [<sup>7</sup> ...]<sup>7</sup>
+
+14° bâtiment : tout bien immeuble bâti, comprenant aussi bien le bâtiment principal que les annexes, à l'exception des sites d'activité économique visés à l'article 2, 1° du décret du 19 avril 1995 portant des mesures visant à lutter contre et à prévenir la désaffectation et l'abandon de sites d'activité économique ;
+
+[<sup>8</sup> 14° /1 logement locatif conventionné : un logement réalisé par un initiateur privé ou une société de logement et loué à un groupe cible délimité de ménages et d'isolés nécessitant un logement qui est défini par le Gouvernement flamand en vertu des articles 4.42 et 5.52/1 ; ]<sup>8</sup>
+
+15° Système intégré de gestion et de contrôle : le système d'enregistrement au sens du titre II, chapitre 4 du règlement (CE) n° 1782/2003 du Conseil du 29 septembre 2003 établissant des règles communes pour les régimes de soutien direct dans le cadre de la politique agricole commune et établissant certains régimes de soutien en faveur des agriculteurs et modifiant les règlements (CEE) n° 2019/93, (CE) n° 1452/2001,(CE) n° 1453/2001, (CE) n° 1454/2001, (CE) n° 1868/94, (CE) n° 1251/1999,(CE) n° 1254/1999,(CE) n° 1673/2000,(CEE) n° 2358/71 et (CE) n° 2529/2001 ;
+
+16° habitat communautaire : une forme d'habitat dans un bâtiment ou complexe de bâtiments ayant l'habitat comme fonction principale et comprenant plusieurs logements, dans lequel au moins deux ménages partagent au moins un lieu de vie sur une base volontaire et disposent en outre chacun d'au moins un lieu de vie privé, et dont les occupants assurent conjointement la gestion ;
+
+17° équipements communautaires : les installations ou bâtiments de nature collective et d'intérêt social ou culturel, y compris les équipements contribuant à l'interdépendance des fonctions au niveau du quartier;
+
+18° agent régional : l'agent désigné en application des règles, fixées par le Gouvernement flamand et chargé dans son ressort de missions en matière de contrôle de la qualité, visées au livre 3 ;
+
+19° ménage : plusieurs personnes habitant de manière durable dans un même logement et y ayant leur résidence principale ;
+
+20° construction de logements groupés : construction conjointe de logements sur un site commun et physiquement ou urbanistiquement interconnectés ;
+
+[<sup>5</sup> 20° /1 établissement d'enseignement supérieur : une université et une haute école telles que visées aux articles II.2 et II.3 du Code de l'Enseignement supérieur du 11 octobre 2013 ;]<sup>5</sup>
+
+21° résidence principale : le logement où réside effectivement et habituellement un ménage ou un isolé ;
+
+22° titulaire du droit réel : la ou les personnes titulaires d'un droit de pleine propriété, de superficie, emphytéotique ou d'usufruit relatif à un bâtiment ou à un logement ;
+
+23° inventaire : l'inventaire visé à l'article 3.19 ;
+
+24° gestionnaire de l'inventaire : l'entité régionale chargée par le Gouvernement flamand de la gestion de l'inventaire en application de l'article 3.19, § 1, deuxième alinéa ;
+
+25° chambre : un logement sans toilettes, bain ou douche ou équipement de cuisine et dont les occupants dépendent pour une ou plusieurs de ces installations des parties communes dans ou à côté du bâtiment dont le logement fait partie ;
+
+26° lots : les parcelles délimitées dans un permis d'environnement pour lotir les terrains d'un lotissement non expiré ;
+
+27° géomètre-expert : le géomètre-expert, inscrit au tableau des praticiens de la profession tel que visé à la loi du 11 mai 2003 sur la protection du titre et de la profession de géomètre-expert et régi par l'arrêté royal du 15 décembre 2005 fixant les règles de déontologie du géomètre-expert ;
+
+[<sup>17</sup> 27° /1 unité mobile de logement : forme de logement caractérisée par la flexibi-lité et la mobilité, destinée au logement temporaire ; ]<sup>17</sup>
+
+28° NBN EN 14604 : norme belge concernant les détecteurs de fumée, dont l'enregistrement a été publié au Moniteur belge du 22 février 2006 par l'Institut belge de Normalisation, et ses modifications publiées ultérieurement. Il s'agit de la transposition de la norme européenne harmonisée CE EN 14604 ;
+
+29° espace non résidentiel : tout bien immeuble ou une partie dudit bien qui n'est pas destiné au logement d'un ménage ou d'un isolé et qui n'est ni un équipement communautaire, ni un équipement spécifique tel que visé à l'article 5.40 ;
+
+30° entreprises d'utilité publique : les instances qui, dans le cadre de la mission d'utilité publique, assurent l'alimentation en eau ;
+
+31° logement inadapté : un logement qui n'est pas adapté aux capacités physiques des personnes âgées ou handicapées ;
+
+32° non bâti : répondant aux critères d'inscription au registre des parcelles non bâties fixés par et en vertu de l'article 5.6.1 du Code flamand de l'Aménagement du Territoire ;
+
+33° logement inhabitable : un logement présentant au moins un des défauts de catégorie III, visés à l'article 3.1, § 1, troisième alinéa, 3°;
+
+34° bâtiment inadéquat : un bâtiment qui n'est plus approprié à l'usage auquel il était destiné initialement ;
+
+35° logement inadéquat : un logement présentant au moins un des défauts de catégorie II, visés à l'article 3.1, § 1, troisième alinéa, 2°, ou de catégorie III, visés à l'article 3.1, § 1, troisième alinéa, 3° ;
+
+36° construction de comblement : la réalisation d'un ou plusieurs logements dans un noyau résidentiel existant, qui ne représentent qu'une faible partie du nombre de logements existants ;
+
+37° logement sur-occupé : un logement où un dépassement de la norme d'occupation, fixée en application de l'article 3.1, § 1, quatrième alinéa, entraîne un risque pour la santé ou la sécurité ou des conditions de vie inhumaines ;
+
+38° personne handicapée : les personnes qui remplissent les critères permettant d'obtenir une attestation aux termes de l'arrêté du Gouvernement flamand déterminant les attestations prises en compte pour l'établissement d'un handicap lourd ;
+
+39° plan d'aménagement : un plan régional, un plan général d'aménagement ou un plan particulier d'aménagement ;
+
+40° registre des parcelles non bâties : le registre visé à l'article 5.6.5 du Code flamand de l'Aménagement du Territoire ;
+
+41° rénovation : réalisation d'interventions structurelles portant principalement sur la stabilité, la physique du bâtiment ou la sécurité, sur une maison ou un bâtiment destiné à être occupé ;
+
+42° projet de rénovation ou de comblement : un projet de logement social impliquant des aménagements structurels substantiels, notamment la rénovation ou la construction de remplacement ou de comblement, relatifs à un ou plusieurs logements, bâtiments ou parcelles situés dans un noyau résidentiel existant ;
+
+43° terrain résidentiel pour roulottes : un terrain destiné à et aménagé pour l'habitation sédentaire en roulottes, et sur lequel une activité artisanale et/ou commerciale restreinte peut avoir lieu conformément à la législation en vigueur ;
+
+44° détecteur de fumée : un appareil conforme à la norme NBN EN 14604 qui réagit à la production de fumée en cas d'incendie en produisant un signal sonore aigu et qui n'appartient pas au type ionique ;
+
+45° prix estimé : estimation de la valeur d'un bien immeuble par l'une des personnes ou instances suivantes, étant entendu que l'estimation d'une personne ou instance telle que visée aux points a) et b) prime sur l'estimation d'une personne ou instance telle que visée aux points c), d) et e) :
+
+a) [<sup>3</sup> un [<sup>9</sup> taxateur-négociateur]<sup>9</sup> du Service flamand des Impôts qui est compétent pour les estimations]<sup>3</sup> ;
+
+b) [<sup>3</sup> ]<sup>3</sup>
+
+c) un notaire ;
+
+d) un géomètre-expert, après accord commun sur l'estimateur ;
+
+e) [<sup>3</sup> un fonctionnaire autorisé par le service chargé par le Gouvernement flamand de la politique du logement, si ce service n'est pas lui-même partie à la transaction immobilière pour laquelle le rapport d'estimation est établi]<sup>3</sup> ;
+
+46° offre de logement social : l'offre de logements locatifs, de logements acquisitifs et de lots qui remplissent les deux conditions suivantes :
+
+a) ils sont pleinement soumis aux réglementations concernant le système locatif social ou le transfert de biens immeubles par la Société flamande de Logement social (VMSW) et les [<sup>1</sup> sociétés de logement]<sup>1</sup> en exécution du présent code ;
+
+b) ils sont destinés à être utilisés comme résidence principale ou pour la construction d'un logement à utiliser comme résidence principale ;
+
+47° les facteurs liés au contexte social : les caractéristiques des communes, ayant un impact potentiel sur le besoin d'une offre de logement social, telles que :
+
+a) l'offre existante et prévue de structures résidentielles offrant accueil et assistance ;
+
+b) l'offre existante et prévue de logements locatifs loués au moyen d'une subvention loyer ou d'une intervention dans le loyer régionales ou communales ;
+
+c) l'offre de logement modeste inventoriée par la commune, le cas échéant ;
+
+48° [<sup>1</sup> ...]<sup>1</sup>
+
+49° logement locatif social : un logement ne faisant pas partie de l'offre de logement modeste visée au point 3°,[<sup>10</sup> qui n'est pas un logement locatif conventionné et ]<sup>10</sup> qui est loué ou sous-loué comme résidence principale par :
+
+a) la VMSW ou une [<sup>1</sup> société de logement]<sup>1</sup> ;
+
+b) [<sup>1</sup> ...]<sup>1</sup>
+
+c) le Fonds flamand du Logement, une commune, une structure de coopération intercommunale, un CPAS ou une association d'aide sociale pour autant qu'une des subventions suivantes ait été accordée pour ce logement :
+
+1\) une subvention en application de l'article 38, alinéa deux, 5°, du Code du Logement, joint à l'arrêté royal du 10 décembre 1970, sanctionné par la loi du 2 juillet 1971 ;
+
+2\) une subvention telle que visée à l'article 49 du décret du 25 juin 1992 contenant diverses dispositions d'accompagnement du budget 1992,[<sup>11</sup> à l'article 4.16, alinéa 1er,]<sup>11</sup> ou au livre 5, partie 2, titres 1, 2, 3, 4, 5 ou 6 ;
+
+d) une commune, un CPAS ou une organisation de logement social, à l'exception des organisations de locataires, pour autant que le droit de gestion sociale, visé à l'article 5.82, soit exercé sur le logement ou qu'il s'agisse d'un logement tel que visé à l'article 3.30, § 2 ;
+
+e) une commune ou un CPAS, pour autant que le logement ait été acquis en application du droit de préemption, visé à l'article 5. 76 ;
+
+f) [<sup>18</sup> ...]<sup>18</sup>;
+
+50° lot social : une parcelle délimitée, située dans un lotissement approuvé et non échu, disposant de l'infrastructure et des équipements utilitaires nécessaires, qui est destinée à être vendue à des ménages et isolés mal logés, par :
+
+a) la VMSW ou une [<sup>1</sup> société de logement]<sup>1</sup> ;
+
+b) [<sup>18</sup> une commune ou une structure de coopération intercommunale, pour autant qu'une subvention ait été accordée pour cette parcelle conformément au point 49°, c)]<sup>18</sup>;
+
+c) une commune, pour autant que la parcelle ait été acquise en application du droit de préemption ;
+
+51° logement acquisitif social : un logement destiné à être vendu à des ménages et isolés mal logés, par :
+
+a) la VMSW ou une [<sup>1</sup> société de logement]<sup>1</sup> ;
+
+b) [<sup>18</sup> ...]<sup>18</sup>;
+
+c) le Fonds flamand du Logement, une commune ou une structure de coopération intercommunale, pour autant qu'une subvention visée à l'article 49 du décret du 25 juin 1992 contenant diverses dispositions d'accompagnement du budget 1992, ou au livre 5, partie 2, titres 1, 2, 3, 4, 5 ou 6 ait été accordée pour ce logement ;
+
+d) une commune, pour autant que le logement ait été acquis en application du droit de préemption ;
+
+52° prêt social : un prêt accordé conformément aux dispositions du livre 5, partie 4, titres 1 et 2 à un ménage ou à un isolé pour la construction, l'acquisition, la rénovation, l'amélioration ou l'adaptation d'un logement, et couvert par une hypothèque sur ce logement;
+
+53° organisations de logement social : la VMSW, une [<sup>1</sup> société de logement]<sup>1</sup>, le Fonds flamand du Logement [<sup>1</sup> ...]<sup>1</sup> ou une union de locataires ;
+
+54° montant subventionnable : le coût de l'opération subventionnée ou le montant fixé par le Gouvernement flamand sur la base duquel est calculée la subvention ou l'intervention ;
+
+55° subvention : un avantage relatif à un projet de logement, accordé en vertu du présent code à des initiateurs autres que des ménages ou des isolés ;
+
+56° intervention : un avantage accordé à des ménages ou à des isolés en vertu du présent code ;
+
+57° valeur vénale : le prix que le candidat acheteur le plus offrant serait disposé à payer si un bien immeuble était mis en vente aux conditions les plus favorables et après une préparation adéquate ;
+
+58° amélioration : l'exécution d'aménagements limités dans un logement, notamment en ce qui concerne le confort, l'accessibilité, l'efficacité énergétique ou la vie privée par rapport à l'environnement immédiat ;
+
+59° construction de remplacement : la démolition intégrale d'un bâtiment ou d'un logement suivie de la construction d'un ou plusieurs nouveaux logements sur la même parcelle ;
+
+[<sup>12</sup> 59° /1 responsable du traitement : la personne visée à l'article 4, 7), du règlement général sur la protection des données ;]<sup>12</sup>
+
+60° administrations flamandes :
+
+a) les ministères, agences et organismes publics flamands ;
+
+b) les provinces, communes et districts flamands ;
+
+c) les agences autonomisées externes communales et provinciales flamandes ;
+
+d) les associations flamandes de provinces et de communes, visées à la loi du 22 décembre 1986 relative aux intercommunales, et les partenariats visés au décret du 6 juillet 2001 portant réglementation de la coopération intercommunale ;
+
+d) les centres publics d'action sociale flamands et les associations mentionnées au chapitre 12 de la loi organique du 8 juillet 1976 des centres publics d'action sociale ;
+
+f) les polders, visés à la loi du 3 juin 1957 relative aux polders, et les wateringues, visés à la loi du 5 juillet 1956 relative aux wateringues ;
+
+g) les fabriques d'églises et les institutions chargées de la gestion du temporel des cultes agréés ;
+
+61° Code flamand de l'Aménagement du Territoire : le Code flamand de l'Aménagement du Territoire du 15 mai 2009 ;
+
+[<sup>13</sup> 61° /1 Intégrateur de services flamand : l'intégrateur de services flamand visé à l'article 3 du décret du 13 juillet 2012 portant création et organisation d'un intégrateur de services flamand ;]<sup>13</sup>
+
+62° personnes morales semi-publiques flamandes : les personnes morales qui n'appartiennent pas aux administrations flamandes, mais qui ont une relation particulière avec une ou plusieurs administrations flamandes vu qu'elles remplissent les deux conditions suivantes :
+
+a) leurs activités sont principalement financées ou subventionnées par une ou plusieurs administrations flamandes ;
+
+b) leur fonctionnement est directement ou indirectement contrôlé de manière plus ou moins importante par une administration flamande dans l'un des régimes suivants :
+
+1\) la tutelle administrative ;
+
+2\) le contrôle de l'affectation des moyens de fonctionnement ;
+
+3\) la désignation par une administration flamande de la moitié au moins des membres de la direction, du conseil d'administration ou du conseil de surveillance ;
+
+63° Vlabinvest apb : l'Agence pour la Politique du Logement et de l'Infrastructure des Soins pour le Brabant flamand, créée comme l'Agence pour la Politique foncière et du Logement pour le Brabant flamand par l'article 1 de l'arrêté du Conseil provincial du Brabant flamand du 22 octobre 2013, et transformée en l'Agence pour la Politique du logement et de l'Infrastructure des Soins pour le Brabant flamand par arrêté du Conseil provincial du Brabant flamand ;
+
+64° association d'aide sociale : une association visée à la partie 3, titre 4, chapitre 2 du décret du 22 décembre 2017 sur l'administration locale ;
+
+65° jour ouvrable : tout jour civil, sauf un samedi, dimanche ou jour férié légal ;
+
+[<sup>1</sup> 65° /1 zone d'activité : une zone visée à l'article 4.37 ;]<sup>1</sup>
+
+66° logement : tout bien immeuble ou partie d'immeuble destinés principalement au logement d'un ménage ou d'un isolé ;
+
+67° mal logé : se trouvant dans une situation économique et sociale de fait dans laquelle un logement décent ne peut être acquis ou maintenu qu'avec une aide supplémentaire ou globale;
+
+68° zone résidentielle : les zones qui sont :
+
+a) soit classées par un plan d'exécution spatiale et relèvent de la catégorie de zone " habitat " ;
+
+b) soit classées par un plan d'aménagement et désignées comme zone résidentielle au sens de l'article 5.1.0 de l'arrêté royal du 28 décembre 1972 relatif à la présentation et à la mise en uvre des projets de plans et des plans de secteur ;
+
+69° [<sup>2</sup> inspecteur du logement : [<sup>14</sup> le membre du personnel du service chargé par le Gouvernement flamand de la politique du logement et ]<sup>14</sup> chargé du respect de la surveillance de la qualité du logement, visée au livre 3, partie 9, désigné par le Gouvernement flamand comme inspecteur du logement, en application de [<sup>19</sup> l'article 1.8, § 2, alinéa 2]<sup>19</sup>;]<sup>2</sup>
+
+70° projet de logement : un projet de logement social ou autre projet de logement mis en uvre en vue du logement de ménages ou d'isolés ou de l'amélioration de leur situation de logement.
+
+Un projet de logement est qualifié de social lorsqu'il concerne la réalisation de logements locatifs sociaux, de logements acquisitifs sociaux ou de lotissements sociaux, y compris les éventuelles infrastructures communes, et de logements locatifs modestes.
+
+Un projet de logement social est qualifié de mixte lorsqu'il remplit au moins l'une des conditions suivantes :
+
+a) le projet de logement comprend ou réalise un maillage de logements locatifs sociaux et de logements acquisitifs sociaux ou de logements locatifs modestes ;
+
+b) les logements locatifs ou acquisitifs sociaux sont intégrés de manière à ce que dans la structure résidentielle existante il y ait un maillage avec les logements du secteur privé ;
+
+71° zone de réserve résidentielle : les zones désignées comme telles sur un plan d'aménagement ;
+
+72° zone d'extension résidentielle : les zones désignées dans un plan d'aménagement en vertu de l'article 5.1.1 de l'arrêté royal du 28 décembre 1972 relatif à la présentation et à la mise en uvre des projets de plans et des plans de secteur ;
+
+73° roulotte : un logement flexible et mobile, destiné à l'occupation permanente et non récréative ;
+
+74° [<sup>16</sup> ...]<sup>16</sup>;
+
+75° structure de soins : une structure d'une organisation agréée par la Communauté flamande, qui exerce des activités dans le domaine de la dispensation de soins, de l'éducation à la santé, des soins de santé préventifs, de la famille, de l'aide sociale, de l'accueil et de l'intégration des immigrés, des personnes handicapées, des personnes âgées, de la protection des jeunes ou de l'aide sociale aux détenus en vue de leur réintégration sociale, visée à l'article 5, § 1, I et II de la loi spéciale de réformes institutionnelles du 8 août 1980, à l'exception des organisations qui exercent des activités dans le domaine du sport dans le respect des impératifs de santé et des centres d'encadrement des élèves.
+
+Le Gouvernement flamand peut préciser la signification des termes ci-dessus, à l'exception des points 3°, 6°, 11°, 12°, 14°, 15°, 20°, 26°, 32°, 39°, 40°, 43°, 45°, 46°, 47°, 60°, 61°, 62°, 68°, 71°, 72°, 74° et 75°.
+
+§ 2. Le Gouvernement flamand détermine les critères d'évaluation de la situation de fait, visée au paragraphe 1, premier alinéa, 67°, pour chaque forme de soutien, les limites de revenus étant chaque fois déterminées en fonction de la composition du ménage.
+
+Le Gouvernement flamand peut prévoir un régime spécial pour le locataire qui ne relève pas de l'application du livre 6 et dont le droit au logement est exercé en application des conditions de nécessité de logement qui n'ont pas été déterminées conformément au premier alinéa, lorsque le logement concerné devient un logement locatif social.
+
+§ 3. Le Gouvernement flamand peut fixer d'autres critères que ceux visés à l'alinéa 1, premier alinéa, 38°, sur la base desquels des personnes peuvent être reconnues comme personnes handicapées aux fins du présent code.
+
+§ 4. Le Gouvernement flamand peut établir une liste non exhaustive des personnes morales semi-publiques flamandes, visées au paragraphe 1, premier alinéa, 62°.
+
+§ 5. Aux fins du présent code et de ses arrêtés d'exécution, l'offre de logements locatifs en acquisitifs et de lots, financés par le Fonds d'investissement pour la politique foncière et du logement du Brabant flamand, créé par l'article 16 du décret du 25 juin 1992 contenant diverses dispositions d'accompagnement du budget 1992, tel qu'en vigueur avant l'entrée en vigueur du présent code, ou par Vlabinvest apb, est considérée comme une offre de logement social au sens du paragraphe 1, premier alinéa, 46°.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 17, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2021-07-09/37, art. 17,11°, 005; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2022-06-03/17, art. 11, 010; En vigueur : 01-01-2023&gt;
+
+(4)&lt;DCFL 2023-02-10/07, art. 2, 013; En vigueur : 01-10-2023&gt;
+
+(5)&lt;DCFL 2023-12-22/12, art. 23, 016; En vigueur : 01-01-2024&gt;
+
+(6)&lt;DCFL 2023-04-21/08, art. 6,1°, 018; En vigueur : 30-06-2023&gt;
+
+(7)&lt;DCFL 2023-04-21/08, art. 6,2°, 018; En vigueur : 09-06-2023&gt;
+
+(8)&lt;DCFL 2023-04-21/08, art. 6,3°, 018; En vigueur : 30-06-2023&gt;
+
+(9)&lt;DCFL 2023-04-21/08, art. 6,4°, 018; En vigueur : 09-06-2023&gt;
+
+(10)&lt;DCFL 2023-04-21/08, art. 6,5°, 018; En vigueur : 30-06-2023&gt;
+
+(11)&lt;DCFL 2023-04-21/08, art. 6,6°, 018; En vigueur : 09-06-2023&gt;
+
+(12)&lt;DCFL 2023-04-21/08, art. 6,7°, 018; En vigueur : 09-06-2023&gt;
+
+(13)&lt;DCFL 2023-04-21/08, art. 6,8°, 018; En vigueur : 09-06-2023&gt;
+
+(14)&lt;DCFL 2023-04-21/08, art. 6,9°, 018; En vigueur : 01-01-2023&gt;
+
+(15)&lt;DCFL 2024-04-19/23, art. 9, 022; En vigueur : 27-05-2024&gt;
+
+(16)&lt;DCFL 2024-03-08/03, art. 6, 023; En vigueur : 19-04-2024&gt;
+
+(17)&lt;DCFL 2024-12-20/24, art. 9, 024; En vigueur : 01-01-2025&gt;
+
+(18)&lt;DCFL 2026-02-27/17, art. 2, 027; En vigueur : 01-01-2026&gt;
+
+(19)&lt;DCFL 2026-06-05/07, art. 19, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 1.4**
+
+Les communes peuvent faire réaliser tout ou partie des opérations qu'elles peuvent effectuer en vertu des livres 5 et 6 par une régie communale autonome visée au [<sup>1</sup> partie 2, titre 3, chapitre 2, du décret du 22 décembre 2017 sur l'administration locale]<sup>1</sup>. Dans ce cas, aux fins du présent code et de ses arrêtés d'exécution, les mots " la commune " sont lus comme " la régie communale autonome ".
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 18, 005; En vigueur : 20-09-2021&gt;
+
+## Partie 2. Mission de la politique du logement
+
+**Art. 1.5**
+
+Toute personne a droit à un logement conforme à la dignité humaine.
+
+À cette fin, il faut promouvoir la disposition d'un logement adapté, de bonne qualité, dans un environnement résidentiel décent, à un prix abordable et avec sécurité de logement.
+
+**Art. 1.6**
+
+§ 1. La politique flamande du logement crée, dans les limites des crédits inscrits à cet effet au budget de la Région flamande, les conditions de réalisation du droit à un logement conforme à la dignité humaine, en :
+
+1° mettant à disposition des logements locatifs et acquisitifs à des conditions sociales ;
+
+2° promouvant la rénovation, l'amélioration ou l'adaptation du parc de logements et, le cas échéant, en procédant à son remplacement ;
+
+3° fournissant une aide au logement pour les ménages et isolés mal logés ;
+
+4° développant des initiatives visant à
+
+(a) contrôler les prix des terrains destinés à la construction de logements, et des bâtiments destinés au logement ;
+
+b) aménager de manière fonctionnelle des groupes de logements ;
+
+c) améliorer les conditions de logement des habitants de roulottes ;
+
+5° fournissant un soutien ciblé afin de stimuler une offre de qualité et abordable de logements locatifs sur le marché locatif privé, qui concilie les intérêts des locataires et des bailleurs.
+
+La politique flamande du logement accorde une attention particulière aux ménages et aux isolés les plus démunis.
+
+§ 2. La politique du logement est axée sur :
+
+1° la réalisation de possibilités de développement optimales pour tous ;
+
+2° une qualité de vie optimale des quartiers ;
+
+3° la promotion de l'intégration des habitants dans la société ;
+
+4° la promotion de l'égalité des chances pour tous.
+
+§ 3. Pour réaliser les objectifs énoncés au § 2, le Gouvernement flamand peut, lors de la mise en pratique des délégations lui conférées en vertu d'autres dispositions du présent décret, prendre des mesures axées sur :
+
+1° la qualité des logements ;
+
+2° la qualité de l'environnement résidentiel ;
+
+3° le vivre ensemble des habitants du quartier ;
+
+4° le caractère abordable des logements ;
+
+5° la participation des groupes d'habitants concernés ;
+
+6° la sécurité de logement.
+
+Les projets de nouvelles constructions ou de rénovation poursuivent l'objectif de mélanger les différents types de logements et d'intégrer les nouveaux projets dans l'environnement existant.
+
+§ 4. La politique flamande du logement encourage l'utilisation attentive au coût, de matériaux et de méthodes de construction écologiques pour la construction, l'adaptation, l'amélioration ou la rénovation des logements éligibles aux subventions ou aux interventions en vertu du présent code.
+
+**Art. 1.7**
+
+§ 1. Le Gouvernement flamand a arrêté en 2017 un Plan de politique du logement pour la Flandre.
+
+Le plan de politique du logement pour la Flandre contient :
+
+1° une partie informative ;
+
+2° une partie avec la vision et les objectifs à long terme de la politique flamande du logement à l'horizon 2050.
+
+Le Plan de politique du logement pour la Flandre doit assurer la réalisation à long terme des objectifs visés aux articles 1.5 et 1.6. La vision et les objectifs à long terme sont revus tous les quinze ans par le Gouvernement flamand. Ils peuvent être revus en fonction des évolutions sociétales ou des nouvelles connaissances issues de la recherche scientifique.
+
+§ 2. Au cours de la première année de chaque législature, le Gouvernement flamand établit un programme d'action contenant une sélection d'initiatives qui peuvent être lancées ou poursuivies à court terme et qui contribuent à la réalisation des objectifs à long terme. Dans le même temps, la partie informative sera mise à jour.
+
+## Partie 3. [<sup>1</sup> Mise en oeuvre du Décret-cadre Maintien flamand]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-06-05/07, art. 20, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 1.8**
+
+[<sup>1</sup> " § 1er. Le Décret-cadre Maintien flamand du 14 juillet 2023, en ce compris le chapitre 10, sections 4, 8 et 11, et à l'exception de l'article 10, § 2, du décret précité, s'applique au maintien de la surveillance de la qualité du logement, visé au livre 3.
+
+§ 2. Pour le maintien du présent décret, les inspecteurs du logement disposent de la qualité d'officier de police judiciaire - officier auxiliaire du procureur du Roi, superviseur, tel que visé à l'article 2, 30°, du Décret-cadre Maintien flamand du 14 juillet 2023, et d'instance de réparation, telle que visée à l'article 2, 15°, du décret précité. En leur qualité de superviseur, ils disposent de la compétence, visée à l'article 22 du décret précité.
+
+Le Gouvernement flamand ou son mandataire désigne les inspecteurs du logement.
+
+Le Gouvernement flamand peut déterminer les exigences en matière de formation et d'expérience ainsi que les autres conditions à remplir par les inspecteurs du logement.
+
+Les membres du personnel contractuels ne peuvent être désignés inspecteurs du logement que s'ils sont assermentés. Le membre du personnel prête serment conformément aux dispositions légales ou décrétales s'appliquant à lui ou, à défaut, entre les mains de son manager de ligne ou de son mandataire, conformément à l'article 2 du décret du 20 juillet 1831 concernant le serment à la mise en vigueur de la monarchie constitutionnelle représentative.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-06-05/07, art. 21, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 1.9.**
+
+[<sup>1</sup> Pour l'application de l'article 9, § 5, alinéa 1er, du Décret-cadre Maintien flamand du 14 juillet 2023, les sociétés de logement telles que visées à l'article 4.36, § 1er, sont assimilées aux autorités autorisées à recevoir des copies de procès-verbaux ou des rapports de constatation pour les objectifs qui y sont déterminés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-06-05/07, art. 22, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 1.10.**
+
+[<sup>1</sup> Le Gouvernement flamand ou son mandataire désigne des membres du personnel du service chargé par le Gouvernement flamand de la politique du logement, qui interviennent comme instance verbalisante, telle que visée à l'article 2, 3°, du Décret-cadre Maintien flamand du 14 juillet 2023.
+
+Le Gouvernement flamand ou son mandataire désigne des membres du personnel du service chargé par le Gouvernement flamand de la politique du logement, qui interviennent comme instance de réparation, telle que visée à l'article 2, 15°, du Décret-cadre Maintien flamand du 14 juillet 2023.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-06-05/07, art. 23, 028; En vigueur : 08-09-2026&gt;
+
+### Livre 2. Organisation de la politique du logement
+
+## Partie 1. Participation proactive des parties prenantes
+
+**Art. 2.1**
+
+Le Gouvernement flamand veille à intégrer la participation proactive des parties prenantes dans le domaine politique du logement, afin d'atteindre les objectifs suivants
+
+1° identifier les tendances sociétales et signaler les changements sur le terrain qui concernent la politique flamande du logement, ainsi que leurs conséquences pour la politique flamande du logement ;
+
+2° réfléchir sur des initiatives relatives au domaine politique du logement ou aux domaines politiques connexes qui ont un impact sur le domaine politique du logement;
+
+3° faire des propositions d'amélioration qui bénéficient au domaine politique du logement.
+
+En vue d'atteindre les objectifs visés au premier alinéa, le Gouvernement flamand peut mettre en place une plate-forme proactive des parties prenantes.
+
+## Partie 2. Politique locale du logement
+
+#### Titre 1. La commune dirigeant la politique locale du logement
+
+**Art. 2.2**
+
+§ 1. La commune est responsable de l'élaboration de sa politique de logement sur le plan local, avec une attention particulière à l'encouragement des projets de logement social, au soutien aux ménages et aux isolés mal logés, et de l'élaboration du contrôle de qualité du patrimoine des logements et du milieu d'habitat.
+
+§ 2. La commune encourage la réalisation de projets de logement social sur son territoire, quel qu'en soit l'initiateur. La commune vérifie, selon la procédure et dans les cas fixés par le Gouvernement flamand, la possibilité de la réalisation de projets de logement social sur son territoire par une [<sup>1</sup> société de logement]<sup>1</sup>.
+
+La commune veille à ce que les projets de logement et opérations individuelles des organisations de logement social, du CPAS ou de la commune soient coordonnés dans l'intérêt des habitants. À cet effet, la commune veille à ce que les organisations de logement social se concertent autant que possible. Elle peut convoquer les organisations de logement social, le CPAS et les organisations locales d'aide sociale à une concertation. Les organisations de logement social sont tenues d'accéder à la demande de concertation de la commune.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 21, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 2.3**
+
+Le Gouvernement flamand accompagne et soutient les communes dans l'élaboration de leur politique du logement et, en particulier, dans la supervision de la coordination avec la politique flamande du logement. L'entité chargée par le Gouvernement flamand du soutien de la politique locale du logement peut participer aux réunions de concertation convoquées par la commune en application de l'article 2.2, § 2. Elle peut également convoquer une telle réunion de concertation de sa propre initiative.
+
+**Art. 2.4**
+
+Le Gouvernement flamand peut, dans les limites des crédits inscrits à cet effet au budget de la Région flamande, et dans les conditions fixées par lui, subventionner les activités communales et intercommunales visant à réaliser les missions définies à l'article 2.2 et à améliorer les services aux ménages et isolés mal logés.
+
+Le Gouvernement flamand fixe les modalités d'octroi et de répartition des subventions.
+
+**Art. 2.5**
+
+Le Gouvernement flamand assure le suivi de la mise en uvre de la politique communale du logement.
+
+#### Titre 2. Réalisation de l'offre de logement social
+
+**Art. 2.6**
+
+[<sup>1</sup> Chaque commune calcule pour son territoire la superficie combinée des terrains à bâtir et des lots non bâtis en propriété des administrations flamandes, à l'exception des terrains qui répondent à une ou plusieurs des caractéristiques particulières visées à l'article 5.107, 1°.
+
+La commune effectue le calcul de la superficie combinée, visé à l'alinéa 1er, au plus tard le 31 octobre 2026. Les résultats de ce calcul sont valables jusqu'au 31 décembre 2042.
+
+Conformément à sa fonction de direction, visée à l'article 2.2, la commune veille à ce que les administrations flamandes entreprennent des actions concertées afin que la superficie combinée, visée à l'alinéa 1er, soit utilisée pour atteindre l'objectif social contraignant visé à l'article 2.27. Le conseil communal adopte un programme d'action à cet égard.
+
+Une commune qui fait manifestement insuffisamment d'efforts pour atteindre l'objectif social contraignant visé à l'article 2.27, conformément à l'article 2.23, § 3, alinéa 1er, est tenue d'utiliser au moins 25 % de la superficie combinée des terrains à bâtir et des lots non bâtis en propriété des administrations flamandes, visée à l'alinéa 1er, pour la réalisation de logements locatifs sociaux. Les terrains en propriété de Vlabinvest apb ne sont pas pris en compte pour le calcul de cette part minimale.
+
+L'obligation visée à l'alinéa 3 est remplie si l'objectif social contraignant visé à l'article 2.27 est réalisé dans une commune pendant la période du 1er janvier 2026 au 31 décembre 2042.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-02-27/17, art. 3, 027; En vigueur : 01-01-2026&gt;
+
+**Art. 2.7**
+
+&lt;Abrogé par DCFL 2026-02-27/17, art. 4, 027; En vigueur : 01-01-2026&gt;
+
+**Art. 2.8**
+
+&lt;Abrogé par DCFL 2026-02-27/17, art. 5, 027; En vigueur : 01-01-2026&gt;
+
+#### Titre 3. Registre des immeubles inoccupés
+
+**Art. 2.9**
+
+Les communes peuvent tenir un registre des bâtiments et logements inoccupés, ci-après dénommé registre des immeubles inoccupés. Un règlement communal peut définir les modalités matérielles et procédurales. [<sup>1</sup> Le registre communal des immeubles inoccupés est la seule base d'imposition possible sur les immeubles et logements inoccupés.]<sup>1</sup>
+
+L'établissement, la structure, la gestion et l'actualisation du registre des immeubles inoccupés peuvent également être confiés à une [<sup>1</sup> partenariat intercommunal]<sup>1</sup> dotée de la personnalité juridique ou, sauf pour la procédure de recours, à une [<sup>1</sup> partenariat intercommunal]<sup>1</sup> sans personnalité juridique.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 23, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 2.10**
+
+§ 1. Un bâtiment est considéré comme inoccupé si plus de la moitié de sa surface au sol totale n'est pas utilisée conformément à sa fonction pendant une période d'au moins douze mois consécutifs [<sup>1</sup> ou pendant une période plus courte qui est fixée en application de l'alinéa quatre]<sup>1</sup>. Aux fins de cette définition, les logements qui font partie du bâtiment ne sont pas pris en compte.
+
+La fonction du bâtiment est celle qui correspond au permis d'environnement ou à l'acte de notification, visé à l'article 6 du décret du 25 avril 2014 relatif au permis d'environnement, délivré pour le bâtiment ou des parties de celui-ci. Dans le cas d'un bâtiment pour lequel aucun permis ou notification n'est disponible ou pour lequel le permis ou la notification n'indique pas clairement la fonction, celle-ci est déduite de l'utilisation normale du bâtiment avant la présomption d'inoccupation, telle qu'elle ressort de déclarations, actes ou documents.
+
+Un bâtiment ayant servi principalement à une activité économique mentionnée à l'article 2, 2°, du décret du 19 avril 1995 portant des mesures visant à lutter contre et à prévenir la désaffectation et l'abandon de sites d'activité économique n'est pas considéré comme inoccupé tant que celui qui exerçait initialement cette activité occupe une partie du bâtiment et que cette partie ne peut être séparée du reste du bâtiment. Une partie ne peut être séparée du reste du bâtiment que si, après démolition des autres parties, elle peut être considérée comme un logement distinct qui répond aux normes physiques de la construction.
+
+[<sup>1</sup> Par le biais d'une ordonnance, une commune peut fixer une période plus courte telle que visée à l'alinéa premier pour les immeubles ayant servi principalement à une activité économique tels que visés à l'article 2, 2°, du décret du 19 avril 1995 portant des mesures visant à lutter contre et à prévenir la désaffectation et l'abandon de sites d'activité économique. Cette période plus courte peut s'appliquer, moyennant une motivation soigneuse, à l'ensemble du territoire de la commune ou à des zones délimitées dans lesquelles la commune veut stimuler l'activité économique.]<sup>1</sup>
+
+§ 2. Un logement est considéré comme inoccupé s'il n'a pas été utilisé pendant une période d'au moins douze mois consécutifs pour une des fonctions suivantes :
+
+1° [<sup>2</sup> soit la fonction résidentielle indiquée par un permis d'environnement ou un acte de notification, visé à l'article 6 du décret du 25 avril 2014 relatif au permis d'environnement, délivré pour ce logement. Dans le cas d'un logement aucun permis ou notification n'est disponible ou pour lequel un permis ou une notification n'indique pas clairement la fonction, celle-ci est déduite de l'utilisation normale du logement avant la présomption d'inoccupation, telle qu'elle ressort de déclarations, actes ou documents ;]<sup>2</sup>;
+
+2° soit toute autre fonction, définie par règlement communal, qui implique l'utilisation effective et non occasionnelle du logement.
+
+§ 3. Contrairement aux paragraphes 1 et 2, un nouveau bâtiment ou un nouveau logement est considéré comme inoccupé si ce bâtiment ou ce logement n'est pas utilisé, en dernière instance administrative, conformément au paragraphe 1, alinéas premier et deux, et au paragraphe 2, respectivement, dans les sept ans suivant la délivrance d'un permis d'environnement pour des actes urbanistiques.
+
+----------
+
+(1)&lt;DCFL 2021-10-22/06, art. 2, 006; En vigueur : 02-12-2021&gt;
+
+(2)&lt;DCFL 2024-03-08/03, art. 7, 023; En vigueur : 19-04-2024&gt;
+
+**Art. 2.11**
+
+Un bâtiment est radié du registre des immeubles inoccupés si le titulaire du droit réel prouve que plus de la moitié de la surface au sol totale est utilisée conformément à la fonction visée à l'article 2.10, § 1, alinéas premier et deux, pendant une période d'au moins six mois consécutifs. [<sup>1</sup> Si une commune fixe une période plus courte en application de l'article 2.10, § 1, alinéa quatre, un bâtiment est radié du registre des immeubles inoccupés dans un délai qui ne dépasse pas la moitié de cette période plus courte.]<sup>1</sup>
+
+Un logement est radié du registre des immeubles inoccupés si le titulaire du droit réel prouve que le logement a été utilisé pendant une période d'au moins six mois consécutifs conformément à la fonction visée à l'article 2.10 § 2.
+
+----------
+
+(1)&lt;DCFL 2021-10-22/06, art. 3, 006; En vigueur : 02-12-2021&gt;
+
+**Art. 2.12**
+
+Un bâtiment ou un logement entrant en ligne de compte pour inventaire au sens du chapitre II du décret du 19 avril 1995 portant des mesures visant à lutter contre et à prévenir la désaffectation et l'abandon de sites d'activité économique n'est jamais considéré comme un bâtiment ou logement inoccupé.
+
+Les sites d'activité économique qui, en vertu de l'article 2, 1° du décret du 19 avril 1995 portant des mesures visant à lutter contre et à prévenir la désaffectation et l'abandon de sites d'activité économique, sont exclus de l'application du décret précité, ne sont pas non plus considérés, dans les conditions y visées, comme des bâtiments ou logements inoccupés au sens du présent titre.
+
+**Art. 2.13**
+
+Les logements inventoriés par la Région flamande comme étant inadéquats ou inhabitables ne sont pas repris au registre des immeubles inoccupés.
+
+**Art. 2.14**
+
+Les agents chargés par le collège des bourgmestre et échevins ou l'organe de décision de [<sup>1</sup> le partenariat intercommunal]<sup>1</sup> de repérer les bâtiments et logements inoccupés disposent des compétences d'examen, de contrôle et de constatation visées à l'article 6 du décret du 30 mai 2008 relatif à l'établissement, au recouvrement et à la procédure contentieuse des taxes provinciales et communales.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 24, 005; En vigueur : 20-09-2021&gt;
+
+#### Titre 4. Registre des bâtiments et logements abandonnés
+
+**Art. 2.15**
+
+Les communes peuvent tenir un registre des bâtiments et logements abandonnés. Un règlement communal peut définir les modalités matérielles et procédurales.
+
+L'établissement, la structure, la gestion et l'actualisation du registre des bâtiments et logements abandonnés peuvent également être confiés à un [<sup>1</sup> partenariat intercommunal]<sup>1</sup> dotée de la personnalité juridique ou, sauf pour la procédure de recours, à une entité administrative intercommunale sans personnalité juridique.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 25, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 2.16**
+
+Un bâtiment, qu'il serve ou non de logement, est considéré comme abandonné lorsqu'il présente des vices apparents et incommodants graves ou des marques de délabrement aux murs extérieurs, joints, cheminées, couverture ou charpente de toiture, menuiseries extérieures, corniches ou gouttières.
+
+**Art. 2.17**
+
+Un bâtiment ou un logement est radié du registre des bâtiments et logements abandonnés si le détenteur du droit réel apporte la preuve que les vices apparents et incommodants et les marques de délabrement visés à l'article 2.16 ont été réparés ou éliminés.
+
+Les vices apparents et incommodants et les marques de délabrement visés à l'alinéa premier ne sont éliminés en cas de démolition que lorsque tous les gravats ont été évacués.
+
+**Art. 2.18**
+
+Un bâtiment ou un logement entrant en ligne de compte pour inventaire au sens du chapitre II du décret du 19 avril 1995 portant des mesures visant à lutter contre et à prévenir la désaffectation et l'abandon de sites d'activité économique n'est jamais considéré comme un bâtiment ou logement abandonné.
+
+Les sites d'activité économique qui, en vertu de l'article 2, 1° du décret du 19 avril 1995 portant des mesures visant à lutter contre et à prévenir la désaffectation et l'abandon de sites d'activité économique, sont exclus de l'application du décret précité, ne sont pas non plus considérés, dans les conditions y visées, comme des bâtiments ou logements abandonnés au sens du présent titre.
+
+**Art. 2.19**
+
+Un bâtiment ou un logement inventorié par la commune comme étant inoccupé peut également être repris au registre des bâtiments et logements abandonnés, et vice versa.
+
+Les logements inventoriés par la Région Flamande comme inadéquats ou inhabitables peuvent également être repris au registre des bâtiments et logements abandonnés, et vice versa.
+
+**Art. 2.20**
+
+Les agents chargés par le collège des bourgmestre et échevins ou l'organe de décision de [<sup>1</sup> le partenariat intercommunal]<sup>1</sup> de repérer les bâtiments et logements abandonnés disposent des compétences d'examen, de contrôle et de constatation visées à l'article 6 du décret du 30 mai 2008 relatif à l'établissement, au recouvrement et à la procédure contentieuse des taxes provinciales et communales.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 26, 005; En vigueur : 20-09-2021&gt;
+
+## Partie 3. Planning et monitoring
+
+#### Titre 1. Dispositions générales
+
+**Art. 2.21**
+
+Le Gouvernement flamand planifie les investissements de logement social sur la base des résultats de la recherche scientifique visée au chapitre 5, et de la concertation visée à l'article 2.2.
+
+Lors du planning des investissements, il est tenu compte des éléments suivants :
+
+1° les résultats de la mesure de référence visée à l'article 2.26 et les principes énoncés aux articles 2.31 à 2.34 ;
+
+2° l'article 2.23 [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2026-02-27/17, art. 6, 027; En vigueur : 01-01-2026&gt;
+
+**Art. 2.22**
+
+§ 1. Le Gouvernement flamand fixe périodiquement un programme de politique d'investissement pour les projets de logement, qui est élaboré par l'entité chargée par le Gouvernement flamand du soutien de la politique locale de logement.
+
+Le programme d'investissement couvre une période de cinq ans. Il prévoit une répartition des moyens entre la construction neuve et de remplacement de logements locatifs sociaux, la rénovation, l'amélioration ou l'adaptation de logements sociaux, les projets de logement social mixtes visés à l'article 1.3, § 1, premier alinéa, 70°, a), et les prêts sociaux spéciaux visés à l'article 5.65, ainsi qu'une répartition régionale jusqu'au niveau des communes ou groupes de communes, en tenant compte de l'objectif social contraignant visé à l'article 2.27. Tant la répartition des moyens que la répartition régionale répondent aux besoins de logement réels.
+
+Le programme d'investissement peut être actualisé annuellement par le Gouvernement flamand sur proposition de l'entité visée au premier alinéa[<sup>1</sup> ...]<sup>1</sup>.
+
+Le programme d'investissement contient les moyens nécessaires :
+
+1° pour les opérations visant à rendre disponibles des logements locatifs sociaux, soit un volume d'investissement d'au moins 428 000 000 euros par an ;
+
+2° pour les opérations visant à accorder des prêts sociaux spéciaux tels que visés à l'article 5.65, soit un volume d'investissement d'au moins 174 000 000 euros par an ;
+
+3° pour la construction des infrastructures de logement visées à l'article 5.23, nécessaires aux opérations visées au 1° et pour la réalisation d'un projet de logement social mixte visé à l'article 1.3, § 1, premier alinéa, 70°, a) (soit un volume d'investissement d'au moins 36 516 000 euros par an).
+
+[<sup>2</sup> 4° pour les opérations visant à fournir des chambres d'étudiant abordables.]<sup>2</sup>
+
+La somme des montants visés au quatrième alinéa, 1° et 2°, est adaptée à partir de l'année budgétaire 2012 par au moins le facteur d'adaptation pour les subventions d'investissement, utilisé par le Gouvernement flamand lors de l'établissement du budget de la Région flamande. Le surplus est destiné dans le programme d'investissement aux opérations visées au quatrième alinéa, sur la base des besoins de logement réels.
+
+[<sup>1</sup> § 2. En exécution du programme d'investissement visé au paragraphe 1, l'entité chargée par le Gouvernement flamand de soutenir la politique locale du logement établit périodiquement une planification pluriannuelle et une planification à court terme. Au moins 30% de la planification à court terme concerne la rénovation ou la construction de remplacement de logements locatifs sociaux, ou l'amélioration ou l'adaptation de logements locatifs sociaux. La planification à court terme doit notamment porter une attention particulière aux projets mixtes.
+
+Le Gouvernement flamand fixe une procédure pour l'approbation de la planification à long terme et à court terme visée à l'alinéa 1. L'engagement des organisations de logement social et des communes est le point de départ.
+
+Une commission d'évaluation est créée. La commission d'évaluation statue sur l'inclusion d'opérations dans la planification pluriannuelle et la planification à court terme, sur la suppression d'opérations des planifications précitées et sur le budget minimum pour le lancement d'un appel tel que visé au paragraphe 3. Le Gouvernement flamand précise les modalités pour la composition, l'organisation et le fonctionnement de la commission d'évaluation.
+
+§ 3. L'entité chargée par le Gouvernement flamand de soutenir la politique locale du logement lance périodiquement des appels aux acteurs privés pour qu'ils soumettent des propositions de projet pour la réalisation de logements locatifs sociaux ou de logements acquisitifs sociaux conformément aux normes de prix et de qualité qui s'appliquent aux sociétés de logement.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 12, 010; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFL 2023-12-22/12, art. 24, 016; En vigueur : 01-01-2024&gt;
+
+#### Titre 2. Objectifs régionaux
+
+**Art. 2.23**
+
+[<sup>1</sup> § 1er. Dans la période du 1er janvier 2026 au 31 décembre 2042, l'offre de logement social existante, telle qu'elle ressort de la mesure de référence visée à l'article 2.26, § 1er, alinéa 1er, est augmentée de 50 000 logements locatifs sociaux.
+
+Les initiateurs, visés à l'article 4.13, réalisent l'objectif régional, visé à l'alinéa 1er, au moyen des investissements de logement social, visés à l'article 2.21, alinéa 1er.
+
+La trajectoire régionale de croissance, visée à l'annexe jointe au présent code, détermine le rythme auquel le nombre de logements locatifs sociaux, visé à l'alinéa 1er, est programmé. Le Gouvernement flamand détermine la trajectoire de croissance par commune.
+
+Le Gouvernement flamand repartit 45 000 logements locatifs sociaux de l'objectif régional, visé à l'alinéa 1er, entre les communes. A cette fin, la répartition tient compte des éléments suivants :
+
+1° sur la base des prévisions du nombre de ménages par commune et par an, la part de logements locatifs sociaux par commune reste au moins inchangée ;
+
+2° le cas échéant, le rattrapage spécifique visé à l'article 2.32 ;
+
+3° le cas échéant, la réduction visée à l'article 2.31, § 2, alinéa 2 ;
+
+4° le cas échéant, la dérogation visée à l'article 2.31, § 2, alinéa 3 ;
+
+5° la part de locataires sur le marché locatif privé dans la commune qui remplissent la condition de revenus visée à l'article 6.8, § 1er, alinéa 1, 2°.
+
+La part de logements locatifs sociaux par commune, visée à l'alinéa 4, 1°, est calculée en divisant la somme du nombre de logements locatifs sociaux enregistrés lors de la mesure de référence, visée à l'article 2.26, et de la partie non réalisée de l'objectif communal pour les logements locatifs sociaux de la commune, visée à l'article 2.32, § 1er, alinéa 1er, par le nombre de ménages dans cette commune au 1er janvier 2026. Tant que les données définitives concernant le nombre de ménages au 1er janvier 2026 ne sont pas connues, le Gouvernement flamand tient compte des prévisions les plus récentes à cette date.
+
+Le Gouvernement flamand actualise la trajectoire de croissance visée à l'alinéa 3 et la répartition visée à l'alinéa 4 au cours de la seconde moitié des années 2029, 2034 et 2039, en tenant compte des données les plus récentes disponibles à ce moment-là :
+
+1° la part de ménages sur le marché locatif privé qui remplissent la condition de revenus visée à l'article 6.8, § 1er, alinéa 1, 2°, par commune ;
+
+2° les prévisions concernant l'évolution du nombre de ménages par commune ;
+
+3° les moyens disponibles dans le budget flamand.
+
+Le Gouvernement flamand prévoit une enveloppe pour la part restante de logements locatifs sociaux de l'objectif régional, visé à l'alinéa 1er, qui n'est pas répartie entre les communes, visées à l'alinéa 4, et pour le nombre de logements locatifs sociaux exemptés conformément à la procédure visée à l'article 2.32, § 2. Les communes peuvent utiliser cette enveloppe conformément à la procédure visée à l'article 2.2, § 2, alinéa 1er.
+
+§ 2. Afin de surveiller la réalisation de l'objectif régional visé au paragraphe 1er, alinéa 1er, le Gouvernement flamand procède en 2028, et puis tous les trois ans, à une évaluation de l'avancement de la réalisation de l'objectif social contraignant visé à l'article 2.27, sur la base des conditions suivantes :
+
+1° le 31 décembre 2027, au moins la moitié des logements locatifs sociaux, fixés pour les années 2026 à 2030 dans le cadre de l'objectif communal, visé à l'article 2.31, § 2 et § 3, alinéa 1er, est réalisée ou au moins reprise dans la planification pluriannuelle, visée à l'article 2.22, § 2, alinéa 1er ;
+
+2° le 31 décembre 2030 :
+
+a) au moins la moitié des logements locatifs sociaux, fixés pour les années 2026 à 2030 dans le cadre de l'objectif communal, visé à l'article 2.31, § 2 et § 3, alinéa 1er, est réalisée ou au moins reprise dans la planification à court terme, visée à l'article 2.22, § 2, alinéa 1er ;
+
+b) le nombre des logements locatifs sociaux qui n'est pas encore réalisé ou inscrit dans la planification à court terme conformément au point a) est au moins repris dans la planification pluriannuelle, visée à l'article 2.22, § 2, alinéa 1er ;
+
+3° le 31 décembre 2033 :
+
+a) l'ensemble des logements locatifs sociaux, fixés pour les années 2026 à 2030 dans le cadre de l'objectif communal, visé à l'article 2.31, § 2 et § 3, alinéa 1er, est réalisé ou au moins repris dans la planification à court terme, visée à l'article 2.22, § 2, alinéa 1er ;
+
+b) au moins la moitié des logements locatifs sociaux, fixés pour les années 2031 à 2036 dans le cadre de l'objectif communal, visé à l'article 2.31, § 2 et § 3, alinéa 1er, est réalisée ou au moins reprise dans la planification pluriannuelle, visée à l'article 2.22, § 2, alinéa 1er ;
+
+4° le 31 décembre 2036 :
+
+a) l'ensemble des logements locatifs sociaux, fixés pour les années 2026 à 2030 dans le cadre de l'objectif communal, visé à l'article 2.31, § 2 et § 3, alinéa 1er, est réalisé ou au moins repris dans la planification à court terme, visée à l'article 2.22, § 2, alinéa 1er ;
+
+b) au moins la moitié des logements locatifs sociaux, fixés pour les années 2031 à 2036 dans le cadre de l'objectif communal, visé à l'article 2.31, § 2 et § 3, alinéa 1er, est réalisée ou au moins reprise dans la planification à court terme, visée à l'article 2.22, § 2, alinéa 1er ;
+
+c) le nombre des logements locatifs sociaux qui n'est pas encore réalisé ou repris dans la planification à court terme conformément au point b) est au moins repris dans la planification pluriannuelle, visée à l'article 2.22, § 2, alinéa 1er ;
+
+5° le 31 décembre 2039 :
+
+a) l'ensemble des logements locatifs sociaux, fixés pour les années 2026 à 2036 dans le cadre de l'objectif communal, visé à l'article 2.31, § 2 et § 3, alinéa 1er, est réalisé ou au moins repris dans la planification à court terme, visée à l'article 2.22, § 2 ;
+
+b) au moins la moitié des logements locatifs sociaux, fixés pour les années 2037 à 2042 dans le cadre de l'objectif communal, visé à l'article 2.31, § 2 et § 3, alinéa 1er, est réalisée ou au moins reprise dans la planification pluriannuelle, visée à l'article 2.22, § 2, alinéa 1er ;
+
+6° le 31 décembre 2042, l'ensemble des objectifs communaux, visés à l'article 2.31, § 2 et § 3, alinéa 1er, est réalisé.
+
+Les logements locatifs sociaux repris dans la planification pluriannuelle, visée à l'alinéa 1er, sont préalablement repris dans la planification pluriannuelle.
+
+Le Gouvernement flamand fixe la méthodologie et les critères de l'évaluation de l'avancement.
+
+§ 3. Une commune qui fait manifestement insuffisamment d'efforts pour atteindre, en temps utile, l'objectif social contraignant visé à l'article 2.27, paie à la Région flamande, par logement locatif social qui n'a pas été réalisé, une contribution égale au maximum à l'intervention au loyer pour les ménages et les isolés nécessitant un logement, visée à l'article 5.74, multipliée par douze.
+
+Le Gouvernement flamand détermine ce qu'il faut entendre par " faire manifestement insuffisamment d'efforts pour atteindre l'objectif social contraignant visé à l'article 2.27 ".
+
+Le Gouvernement flamand fixe les modalités de paiement de la contribu-tion à la Région flamande visée à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-02-27/17, art. 7, 027; En vigueur : 01-01-2026&gt;
+
+**Art. 2.24**
+
+&lt;Abrogé par DCFL 2026-02-27/17, art. 8, 027; En vigueur : 01-01-2026&gt;
+
+**Art. 2.25**
+
+&lt;Abrogé par DCFL 2026-02-27/17, art. 9, 027; En vigueur : 01-01-2026&gt;
+
+#### Titre 3. Réalisation de l'offre de logement social
+
+##### Chapitre 1. Mesure de référence
+
+**Art. 2.26**
+
+[<sup>1</sup> § 1er. En 2026, le Gouvernement flamand actualise, sur la base des données du 31 décembre 2025, les résultats de la mesure de référence en matière d'offre existante de logement social dans chaque commune flamande qu'il a réalisée en 2025 sur la base des données du 31 décembre 2023.
+
+Le Gouvernement flamand peut fixer les exigences matérielles, méthodologiques et procédurales pour la mesure de référence.
+
+§ 2. Le Gouvernement flamand publie les résultats des mesures de référence visées au paragraphe 1er, qui s'appliquent pour la période à partir du 1er janvier 2026 au 31 décembre 2042.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-02-27/17, art. 10, 027; En vigueur : 01-01-2026&gt;
+
+##### Chapitre 2. Objectif social contraignant
+
+###### Section 1. Concept
+
+**Art. 2.27**
+
+[<sup>2</sup> L'objectif social contraignant est une description au niveau de la commune de l'offre de logement social qui doit au moins être réalisée dans la période du 1er janvier 2026 au 31 décembre 2042]<sup>2</sup>.
+
+L'objectif social contraignant est publié de la manière visée à l'[<sup>1</sup> article 286 du décret du 22 décembre 2017 sur l'administration locale]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 28, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2026-02-27/17, art. 11, 027; En vigueur : 01-01-2026&gt;
+
+**Art. 2.28**
+
+[<sup>1</sup> Sans préjudice de l'application de l'article 2.31, § 4, les objectifs sociaux contraignants, visés à l'article 2.27, s'appliquent à la période à partir du 1er janvier 2026 au 31 décembre 2042]<sup>1</sup>.
+
+La réalisation ou non dans les délais d'un objectif social contraignant tel que visé [<sup>1</sup> à l'article 2.27]<sup>1</sup> est évaluée sur la base de l'offre de logement social réalisée au cours de la période allant du 1 janvier [<sup>1</sup> 2026]<sup>1</sup> au 31 décembre [<sup>1</sup> 2042]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2026-02-27/17, art. 12, 027; En vigueur : 01-01-2026&gt;
+
+**Art. 2.29**
+
+[<sup>1</sup> L'objectif social contraignant, visé à l'article 2.27, implique de la part de l'autorité communale l'obligation d'adapter, le cas échéant, les plans et règlements communaux existants ayant un impact sur la réalisation de l'offre de logement social à l'objectif communal pour les logements locatifs sociaux, visé à l'article 2.31, § 2, ou l'objectif communal pour les logements locatifs sociaux dans le cadre d'un accord tripartite]<sup>1</sup>.
+
+Un schéma communal de structure d'aménagement [<sup>1</sup> ou un plan de politique spatiale communal]<sup>1</sup> qui n'est pas compatible [<sup>1</sup> avec l'objectif social contraignant, visé à l'article 2.27,]<sup>1</sup> et qui n'a pas encore été adapté conformément au premier alinéa, [<sup>1</sup> ...]<sup>1</sup> ne peut être invoqué pour rejeter les mesures nécessaires à la réalisation [<sup>1</sup> de l'objectif social contraignant, visé à l'article 2.27]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2026-02-27/17, art. 13, 027; En vigueur : 01-01-2026&gt;
+
+**Art. 2.30**
+
+L'objectif social contraignant [<sup>1</sup> , visé à l'article 2.27,]<sup>1</sup> de la commune est composé de l'objectif communal pour les logements locatifs sociaux, déterminé de la manière indiquée à la section 2.
+
+----------
+
+(1)&lt;DCFL 2026-02-27/17, art. 14, 027; En vigueur : 01-01-2026&gt;
+
+###### Section 2. Objectif communal pour les logements locatifs sociaux
+
+**Art. 2.31**
+
+[<sup>1</sup> § 1er. Dans l'accord tripartite, la société de logement et les communes s'engagent à réaliser et à maintenir un nombre déterminé de logements locatifs sociaux.
+
+Par la ratification de l'accord tripartite, le Gouvernement flamand s'engage à financer cette offre de logement social.
+
+§ 2. Le Gouvernement flamand fixe l'objectif communal pour les logements locatifs sociaux à réaliser au plus tard le 31 décembre 2042 et, le cas échéant, le rattrapage spécifique visé à l'article 2.32, § 1er, alinéa 1er.
+
+Les logements locatifs sociaux relevant de l'objectif communal pour les logements locatifs sociaux, tel qu'en vigueur au 31 décembre 2025, qui dépassent à cette date cet objectif communal, sont, le cas échéant, déduits de l'objectif communal pour les logements locatifs sociaux visé à l'alinéa 1er.
+
+Le Gouvernement flamand peut fixer une dérogation à l'objectif communal pour les logements locatifs sociaux, visé à l'alinéa 1er, si la part de logements locatifs sociaux dans la commune est d'au moins 9 % et reste inchangée.
+
+Chaque commune conclut un accord avec la société de logement concernant la réalisation de l'objectif communal pour les logements locatifs sociaux, visé à l'alinéa 1er. Le Gouvernement flamand arrête le contenu de l'accord.
+
+§ 3. Par dérogation au paragraphe 2, à l'initiative d'au moins deux communes situées dans la même zone d'activité d'une société de logement et de cette société de logement, l'objectif communal pour les logements locatifs sociaux peut être fixé dans un accord tripartite conformément aux conditions arrêtées par le Gouvernement flamand.
+
+Le Gouvernement flamand précise le contenu et la procédure d'établissement de l'accord tripartite.
+
+§ 4. L'objectif communal pour les logements locatifs sociaux, visé aux § 2 et § 3, alinéa 1er, est soumis à une révision en 2029, 2034 et 2039 conformément aux conditions arrêtées par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-02-27/17, art. 15, 027; En vigueur : 01-01-2026&gt;
+
+**Art. 2.32**
+
+[<sup>1</sup> § 1er. Sans préjudice de l'application de l'alinéa 2, les logements locatifs sociaux relevant de l'objectif communal pour les logements locatifs sociaux, tel qu'en vigueur le 31 décembre 2025 qui ne sont pas réalisés à cette date, sont réalisés dans le cadre d'un rattrapage spécifique dans la période de 2026-2042.
+
+Si l'agence chargée par le Gouvernement flamand de l'exécution de la politique du logement a constaté que l'objectif communal pour les logements locatifs sociaux, tel qu'en vigueur le 31 décembre 2025, est atteint, le rattrapage spécifique, visé à l'alinéa 1er, ne s'applique pas.
+
+Le rattrapage spécifique, visé à l'alinéa 1er, est réalisé dans la commune à laquelle le rattrapage spécifique se rapporte.
+
+Au plus tard le 31 décembre 2027, 25 % des logements locatifs sociaux résultant du rattrapage spécifique, visé à l'alinéa 1er, sont réalisés ou au moins repris dans une planification pluriannuelle, telle que visée à l'article 2.22, § 2, alinéa 1er.
+
+Au plus tard le 31 décembre 2030, 25 % des logements locatifs sociaux résultant du rattrapage spécifique, visé à l'alinéa 1er, sont réalisés ou au moins repris dans une planification à court terme, telle que visée à l'article 2.22, § 2, alinéa 1er.
+
+Au plus tard le 31 décembre 2033, 50 % des logements locatifs sociaux résultant du rattrapage spécifique, visé à l'alinéa 1er, sont réalisés ou au moins repris dans une planification à court terme, telle que visée à l'article 2.22, § 2, alinéa 1er.
+
+Au plus tard le 31 décembre 2036, au moins la moitié des logements locatifs sociaux repris dans le rattrapage spécifique, visé à l'alinéa 1er, est réalisée.
+
+Au plus tard le 31 décembre 2039, au moins 75 % des logements locatifs sociaux repris dans le rattrapage spécifique, visé à l'alinéa 1er, sont réalisés ou au moins repris dans une planification à court terme, telle que visée à l'article 2.22, § 2, alinéa 1er.
+
+Au plus tard le 31 décembre 2042, l'ensemble des logements locatifs sociaux repris dans le rattrapage spécifique, visé à l'alinéa 1er, est réalisé.
+
+§ 2. Le Gouvernement flamand peut exempter une commune en tout ou en partie du rattrapage spécifique visé au paragraphe 1er, alinéa 1er, si la commune démontre, au plus tard le 1er juillet 2026, dans un dossier motivé qu'au moins un des critères suivants est rempli :
+
+1° le rattrapage spécifique ne peut pas ou pas entièrement être réalisé en raison de restrictions spatiales manifestes, établies sur la base du programme d'action communal visé à l'article 2.6, et ces restrictions ne peuvent pas ou pas suffisamment être absorbées par les instruments suivants :
+
+a) un règlement d'urbanisme communal tel que visé à l'article 2.3.2, § 2, alinéa 1er, du Code flamand de l'aménagement du Territoire, concernant le logement social ;
+
+b) une politique active concernant l'exercice du droit de préemption, visé à l'article 5.76, § 1er ;
+
+c) la location de logements privés par l'intermédiaire de sociétés de logement ;
+
+2° la somme de l'objectif communal pour les logements locatifs sociaux et du rattrapage spécifique, visé au paragraphe 1er, l'alinéa 1er, dépasse, sur une base annuelle, 25 % du nombre moyen de logements autorisés annuellement, calculé sur la base de l'octroi de permis d'environnement pour des actes urbanistiques des dix dernières années.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-02-27/17, art. 16, 027; En vigueur : 01-01-2026&gt;
+
+**Art. 2.33**
+
+&lt;Abrogé par DCFL 2026-02-27/17, art. 17, 027; En vigueur : 01-01-2026&gt;
+
+##### Chapitre 3. Impact de la fusion volontaire de communes
+
+**Art. 2.34**
+
+§ 1.[<sup>1</sup> Le présent article s'applique dans le cas d'une fusion de communes visée à la partie 2, titres 8 et 9, du décret du 22 décembre 2017 sur l'administration locale, dont la date de la fusion est postérieure au 1er janvier [<sup>2</sup> 2025]<sup>2</sup>.]<sup>1</sup>.
+
+Dans le présent article, on entend par :
+
+1° nouvelle commune : la nouvelle commune, visée à [<sup>1</sup> l'article 343, 2°]<sup>1</sup>, du décret précité ;
+
+2° communes fusionnées : les communes fusionnées, visées à[<sup>1</sup> l'article 343, 4°]<sup>1</sup>, du décret précité ;
+
+3° date de la fusion : la date de la fusion, visée à [<sup>1</sup> l'article 5, 2°]<sup>1</sup>, du décret précité.
+
+§ 2. L'offre de logement social existante dans la mesure de référence visée à l'article 2.26 pour une nouvelle commune est considérée, à partir de la date de fusion, comme égale à la somme de l'offre de logement social existante dans la mesure de référence pour les communes fusionnées.
+
+§ 3. Pour une nouvelle commune, l'objectif social contraignant visé à l'article 2.27 est, à la date de fusion, égal à la somme des objectifs sociaux contraignants des communes fusionnées, y compris le rattrapage spécifique visé à l'article 2.32, qui a été imposé, le cas échéant, à une ou plusieurs des communes fusionnées.
+
+L'exemption ou la réduction du rattrapage spécifique visé à l'article 2.32 qui a été accordée avant la date de fusion à une ou plusieurs des communes fusionnées, est maintenue.
+
+----------
+
+(1)&lt;DCFL 2024-03-08/03, art. 8, 023; En vigueur : 19-04-2024&gt;
+
+(2)&lt;DCFL 2026-02-27/17, art. 18, 027; En vigueur : 01-01-2026&gt;
+
+#### Titre 4. Emplacements pour roulottes
+
+**Art. 2.35**
+
+Le Gouvernement flamand ordonne périodiquement un mesurage de l'offre existante d'emplacements pour roulottes sur des terrains résidentiels pour roulottes et sur des terrains de transit.
+
+Le Gouvernement flamand peut arrêter les modalités matérielles, méthodologiques et procédurales de ce mesurage.
+
+## Partie 4. Planning territorial
+
+**Art. 2.36**
+
+Le Gouvernement flamand délimite les zones suivantes :
+
+1° les zones dans lesquelles des efforts importants sont nécessaires pour améliorer la qualité de l'habitat, ci-après dénommées zones de rénovation résidentielle ;
+
+2° les zones dans lesquelles la Région flamande stimule la construction de nouveaux logements par le biais de subventions et d'interventions, ci-après dénommées zones de construction résidentielle.
+
+Les zones de rénovation résidentielle sont délimitées sur la base de critères à déterminer par le Gouvernement flamand, permettant de mesurer les concentrations de logements présentant des défauts graves. Par logements présentant des défauts graves, on entend ceux qui ne peuvent pas être améliorés ou qui présentent des défauts multiples ou importants auxquels il ne peut être remédié que par une rénovation importante.
+
+Les zones de construction résidentielle sont les zones où la construction de logements est autorisée conformément aux dispositions applicables en matière d'aménagement du territoire et d'urbanisme et qui, en outre, selon des critères à déterminer par le Gouvernement flamand, font partie des constructions d'un noyau résidentiel existant, sont étroitement liées à celui-ci ou se trouvent à une distance raisonnable des installations présentes dans un noyau résidentiel existant.
+
+**Art. 2.37**
+
+La localisation du logement ou du projet de logement dans ou en dehors d'une zone de rénovation ou de construction résidentielle sera prise en compte lors de la détermination des subventions et des interventions accordées au titre du présent code.
+
+Contrairement au premier alinéa et sans préjudice des dispositions contraires du présent code, le Gouvernement flamand peut subventionner les projets de logement social de la VMSW et des [<sup>1</sup> sociétés de logement]<sup>1</sup> sans faire de distinction en fonction de leur localisation, à savoir dans ou en dehors d'une zone de construction résidentielle.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 30, 005; En vigueur : 20-09-2021&gt;
+
+## Partie S. Recherche scientifique
+
+#### Titre 1. Datawarehouse Logement
+
+**Art. 2.38**
+
+Le Gouvernement flamand règle le développement et la gestion d'un Datawarehouse Logement, qui contient des informations relatives au logement et à la politique du logement en Flandre. Cette banque de données a pour but de :
+
+1° soutenir la préparation et l'évaluation de la politique flamande du logement ;
+
+2° fournir des données pour la recherche scientifique en matière de politique du logement;
+
+3° répondre à des demandes d'information de tiers en matière de logement.
+
+Afin d'atteindre les objectifs énoncés à l'alinéa premier, les données concernant la politique flamande du logement, visées aux articles 1.5 et 1.6, sont collectées dans le Datawarehouse Logement.
+
+L'entité chargée par le Gouvernement flamand du soutien à la politique locale du logement et les organisations de logement social fournissent à cet effet les données nécessaires à la politique flamande du logement dont elles disposent, en application de la réglementation sur la protection des personnes physiques à l'égard du traitement des données à caractère personnel applicable à la communication des données à caractère personnel, telle que précisée au niveau fédéral ou flamand, le cas échéant. L'entité précitée est responsable du traitement des données.
+
+Les données individuelles anonymisées peuvent, à des conditions contractuelles, également être transmises à des établissements scientifiques en vue de recherches pertinentes pour la politique dont les résultats restent la propriété de la Communauté flamande. En vue de traitements statistiques reflétant l'évolution du logement en Flandre dans le temps, les données sont conservées pendant une période de cinquante ans.
+
+Le Gouvernement flamand fixe les conditions de consultation, d'utilisation et d'obtention des données traitées. Il fixe également les mesures organisationnelles et techniques générales à prendre afin de garantir la qualité, la confidentialité et la sécurité des données.
+
+#### Titre 2. Comité scientifique
+
+**Art. 2.39**
+
+Le Gouvernement flamand crée une cellule d'enquête responsable de l'organisation de la recherche scientifique en matière de logement et de politique du logement. Le Gouvernement flamand fixe les conditions de désignation des chercheurs scientifiques et garantit l'expertise et l'indépendance des chercheurs scientifiques de cette cellule.
+
+Tous les deux ans, la cellule d'enquête publie un rapport scientifique évaluant la situation du logement en Flandre.
+
+#### Titre 3. Enquête par sondage
+
+**Art. 2.40**
+
+Le Gouvernement flamand règle l'organisation de la collecte structurelle et scientifique de données sur les logements et leurs occupants en Flandre. Cette enquête par sondage est répétée tous les dix ans.
+
+### Livre 3. Contrôle de la qualité du logement
+
+## Partie 1. Normes de sécurité, de santé et de qualité du logement
+
+**Art. 3.1**
+
+§ 1. Chaque logement doit satisfaire aux exigences de base en matière de sécurité, de santé et de qualité du logement, qui sont spécifiées par le Gouvernement flamand, sur les points suivants :
+
+1° la superficie des parties du logement, en tenant compte du type de logement et de la fonction de la partie en question ;
+
+2° les installations sanitaires, en particulier la présence d'une toilette en bon état de fonctionnement dans la maison ou à proximité, et d'une installation de lavage avec eau courante, toutes deux raccordées à un canal d'évacuation sans nuisance olfactive ;
+
+3° l'étanchéité au vent, l'isolation thermique et les possibilités de chauffage, en particulier la présence de moyens de chauffage suffisamment sûrs permettant de chauffer à une température normale les parties du logement destinées l'habitation, et de les réfrigérer, si nécessaire, à un coût d'énergie abordable ou la possibilité de raccorder ces moyens de manière sûre ;
+
+4° les possibilités de ventilation, d'aération et d'éclairage, la possibilité d'éclairage des parties du logement étant déterminée par leur fonction, leur emplacement et leur surface au sol, et la possibilité d'aération et de ventilation par la fonction et l'emplacement de la partie du logement et la présence d'installations de cuisson, de chauffage ou d'eau chaude qui produisent des gaz de combustion ;
+
+5° la présence d'installations électriques suffisantes et sûres pour l'éclairage du logement et pour l'utilisation sûre des appareils électriques ;
+
+6° les installations de gaz. Tant les appareils que leur installation et leur raccordement doivent offrir des garanties de sécurité ;
+
+7° la stabilité et la physique de la construction en ce qui concerne les fondations, les toits, les murs extérieurs et intérieurs, les planchers porteurs et la charpenterie ;
+
+8° l'accessibilité et le respect de la vie privée ;
+
+9° la performance énergétique minimale ;
+
+10° la présence d'eau potable.
+
+Tout logement doit répondre aux exigences de sécurité incendie, y compris aux normes de sécurité spécifiques et complémentaires fixées par le Gouvernement flamand. Le logement doit être équipé d'un ou plusieurs détecteurs de fumée, installés de la manière définie par le Gouvernement flamand ou doit disposer d'un système de détection d'incendie, contrôlé et certifié par un organisme agréé.
+
+Lors de la détermination des exigences visées au premier alinéa et des normes de sécurité spécifiques et complémentaires visées au deuxième alinéa, le Gouvernement flamand utilise une ou plusieurs listes de défauts possibles qui sont subdivisés en trois catégories, à savoir :
+
+1° défauts de catégorie I : défauts mineurs qui ont un impact négatif sur les conditions de vie des occupants ou qui pourraient potentiellement se transformer en défauts graves
+
+2° défauts de catégorie II : défauts graves qui ont un impact négatif sur les conditions de vie des occupants mais qui ne constituent pas un danger immédiat pour leur sécurité ou leur santé, en conséquence de quoi le logement ne serait pas admissible à l'occupation ;
+
+3° défauts de catégorie III : défauts graves qui entraînent des conditions de vie inhumaines ou qui constituent un danger immédiat pour la sécurité ou la santé des occupants, en conséquence de quoi le logement n'est pas admissible à l'occupation.
+
+La taille du logement doit au moins correspondre à l'occupation. Le Gouvernement flamand fixe les normes relatives à la taille minimale du logement en fonction de la composition du ménage.
+
+§ 2. Sans préjudice de l'application du paragraphe 1, le Gouvernement flamand fixe des exigences et des normes complémentaires pour les chambres. Les dispositions du présent livre s'appliquent aux chambres.
+
+§ 3. Le Gouvernement flamand tient compte des formes spécifiques de logement et de la situation des habitants de roulottes et d'autres groupes d'habitants vulnérables et peut étendre le champ d'application des paragraphes 1 et 2 aux roulottes mobiles.
+
+Pour le logement temporaire de ménages ou isolés qui sont sans abri ou risquent de le devenir, ainsi que pour le logement des occupants de logements locatifs sociaux qui doivent être temporairement évacués pour des travaux de rénovation, le Gouvernement flamand peut accorder des dérogations limitées aux exigences et normes qu'il fixe en application des paragraphes 1 ou 2. Le Gouvernement flamand arrête la nature de ces dérogations. Il fixe également un délai, qui ne peut excéder six mois, dans lequel ces dérogations s'appliquent.
+
+[<sup>1</sup> Selon les conditions fixées par le Gouvernement flamand, le Gouvernement flamand peut accorder une dérogation motivée aux exigences et normes en matière de performances énergétiques minimales visées au paragraphe 1er, alinéa 1er, 9°, pour un logement qui est un monument protégé, fait partie d'un site urbain ou rural ou est inscrit à l'inventaire établi du patrimoine architectural. Le Gouvernement flamand arrête la nature de ces dérogations.]<sup>1</sup>
+
+Sauf disposition contraire du Gouvernement flamand, les articles 3.4, 3.6, 3. 7, 3.8 et 3.9 ne sont pas applicables si l'application du premier ou du deuxième alinéa donne lieu à des exigences ou normes spécifiques ou dérogatoires.
+
+----------
+
+(1)&lt;DCFL 2026-02-27/17, art. 19, 027; En vigueur : 30-03-2026&gt;
+
+**Art. 3.2**
+
+[<sup>3</sup> Le conseil communal peut, par voie d'ordonnance, après avoir recueilli un avis préalable non contraignant au sujet du projet de texte définitif auprès du service chargé par le Gouvernement flamand de la politique du logement:]<sup>3</sup>
+
+1° rendre obligatoire le certificat de conformité visé à l'article 3.6 [<sup>1</sup> et peut prévoir que, tant que cette obligation n'est pas remplie, une obligation annuelle de demander ce certificat est imposée]<sup>1</sup>;
+
+2° imposer aux chambres des normes de sécurité et de qualité plus strictes que celles fixées par le Gouvernement flamand en application de l'article 3.1, § 2;
+
+3° soumettre la location, la mise à disposition ou la mise à la location de chambres à une autorisation préalable en vue de respecter les normes mentionnées au point 2° ;
+
+4° [<sup>2</sup> imposer que les chambres d'un même bâtiment soient louées, mises à disposition ou mises à la location pour le logement d'étudiants ou de non-étudiants. Le conseil communal peut également imposer que les chambres d'un même bâtiment soient loués, mises à disposition ou mises à la location exclusivement pour le logement de main-d'oeuvre ;]<sup>2</sup>
+
+[<sup>2</sup> 5° prévoir qu'une autorisation préalable peut être délivrée pour la mise à la location, la mise à disposition ou la location d'une maison à chambres pour le logement de main-d'oeuvre, de sorte que les exigences et normes spécifiques des chambres pour main-d'oeuvre, déterminées par le Gouvernement flamand en application de l'article 3.1, § 3, s'appliquent.]<sup>2</sup>
+
+[<sup>3</sup> Après avoir recueilli un avis tel que visé à l'alinéa 1er, le conseil communal peut modifier ou revoir une ordonnance telle que visée à l'alinéa 1er. Si l'ordonnance est abrogée, la commune en informe le service visé à l'alinéa 1er.]<sup>3</sup>
+
+[<sup>3</sup> Si le service visé à l'alinéa 1er ne rend pas l'avis demandé dans les soixante jours de la réception de la demande d'avis, la commune peut ignorer l'obligation en matière d'avis visée aux alinéas 1er et 2.]<sup>3</sup>
+
+[<sup>3</sup> Le Gouvernement flamand peut préciser les règles concernant les ordonnances communales visées à l'alinéa 1er, l'obligation en matière d'avis visée aux alinéas 1er et 2, et l'omission de l'obligation en matière d'avis visée à l'alinéa 3]<sup>3</sup>.
+
+[<sup>2</sup> Une autorisation pour le logement de main-d'oeuvre telle que visée à l'alinéa 1er, 5°, remplit les conditions suivantes :
+
+1° elle ne peut être délivrée qu'après délivrance d'une attestation de conformité pour toutes les chambres de la maison de chambres ne datant pas de plus d'un an ;
+
+2° elle est valable pour une durée de cinq ans maximum ;
+
+3° elle peut être renouvelée si les conditions d'obtention de l'autorisation sont remplies.
+
+Dans le présent article, on entend par maison de chambres : tout bâtiment ou partie de bâtiment comprenant une ou plusieurs chambres ainsi que des espaces communs.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-16/09, art. 2, 003; En vigueur : 13-08-2021&gt;
+
+(2)&lt;DCFL 2023-02-10/07, art. 3, 013; En vigueur : 01-10-2023&gt;
+
+(3)&lt;DCFL 2023-04-21/08, art. 8, 018; En vigueur : 09-06-2023&gt;
+
+## Partie 2. Enquête de conformité
+
+**Art. 3.3**
+
+Le Gouvernement flamand détermine les critères et la procédure pour déterminer si un logement est conforme aux exigences et normes fixées en vertu de l'article 3.1, §§ 1, 2 et 3, premier et deuxième alinéas. Il peut également déterminer la manière d'évaluer les possibilités de remédier à d'éventuelles non-conformités par des travaux de rénovation, d'amélioration ou d'adaptation.
+
+**Art. 3.3/1**
+
+[<sup>1</sup> La commune peut déterminer, par voie d'ordonnance, les cas dans lesquels elle demande une indemnité pour réaliser, sur demande, une enquête de conformité, qui se déroule suivant la procédure visée à l'article 3.3.
+
+L'indemnité visée à l'alinéa 1er ne peut être demandée qu'à la personne physique ou morale visée à l'article 3.7, § 1er.
+
+Les cas suivants constituent toujours une demande telle que visée à l'alinéa 1er :
+
+1° une notification de réparation, telle que visée à l'article 3.10, alinéa 3 ;
+
+2° la demande de délivrance d'un certificat de conformité visée à l'article 3.7, § 1er, alinéa 1er ;
+
+3° une notification de réparation de vices constatés antérieurement au cours d'une procédure visant à déclarer un logement inadéquat ou inhabitable en application de l'article 3.12.
+
+La commune ne peut pas demander d'indemnité pour réaliser les enquêtes de conformité suivantes :
+
+1° l'enquête de conformité après une notification telle que visée à l'article 3.10, alinéa 1er ;
+
+2° l'enquête de conformité après une demande de déclaration d'inadéquation ou d'inhabitabilité d'un logement en application de l'article 3.13.
+
+Le Gouvernement flamand peut fixer un montant maximum pour l'indemnité visée à l'alinéa 1er. L'indemnité portée en compte par la commune est, en tout état de cause, limitée aux frais réels. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-04-21/08, art. 9, 018; En vigueur : 01-06-2024&gt;
+
+**Art. 3.4**
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 31, 005; En vigueur : 01-01-2023&gt;
+
+**Art. 3.5**
+
+Le Gouvernement flamand peut fixer les conditions que doivent remplir les candidats contrôleurs de la qualité des logements. Ces conditions portent en tout cas sur
+
+1° les diplômes et la formation ;
+
+2° la connaissance et l'expérience professionnelles ;
+
+3° l'impartialité des actions du contrôleur à l'égard des donneurs d'ordre et des intérêts commerciaux.
+
+Le Gouvernement flamand peut :
+
+1° déterminer des catégories de contrôleurs ;
+
+2° déterminer la procédure [<sup>1</sup> et les conditions]<sup>1</sup> d'agrément des contrôleurs ;
+
+3° déterminer la procédure et les conditions de suspension et de retrait de l'agrément ;
+
+4° assortir de conditions l'annulation d'une suspension ;
+
+5° fixer des exigences de qualité et désigner l'instance chargée de superviser le travail des contrôleurs.
+
+Le Gouvernement flamand peut fixer les conditions que doivent remplir les instituts de formation des contrôleurs ainsi que leur personnel enseignant.
+
+Le Gouvernement flamand peut fixer la procédure d'agrément des instituts de formation ainsi que la procédure et les conditions de suspension et d'annulation de cet agrément. Le Gouvernement flamand peut fixer les exigences de qualité de la formation et du personnel enseignant et désigne l'instance chargée du contrôle de leurs activités.
+
+Le Gouvernement flamand peut déterminer le contenu des formations à dispenser aux contrôleurs par les instituts de formation agréés.
+
+----------
+
+(1)&lt;DCFL 2024-03-08/03, art. 9, 023; En vigueur : 19-04-2024&gt;
+
+## Partie 3. Certificat de conformité
+
+**Art. 3.6**
+
+§ 1. La conformité d'un logement loué ou mis à disposition [<sup>2</sup> ou d'un logement qui appartient à une catégorie spécifique de logements que Gouvernement flamand peut préciser ]<sup>2</sup> peut être attestée par le certificat de conformité délivré par le bourgmestre de sa propre initiative ou sur demande. Le certificat de conformité mentionne la présence des défauts éventuels visés à l'article 3.1, § 1, troisième alinéa, 1°, et l'occupation maximale autorisée selon les normes établies en application de l'article 3.1, § 1, quatrième alinéa.
+
+Le Gouvernement flamand arrête le modèle[<sup>2</sup> ...]<sup>2</sup> et les règles de publication du certificat de conformité.
+
+[<sup>2</sup> Le bourgmestre qui établit qu'un logement est conforme lors de l'application de la procédure visée à l'article 3.12, délivre d'office un certificat de conformité au bailleur et au titulaire du droit réel.]<sup>2</sup>
+
+§ 2. Contrairement au paragraphe 1, [<sup>3</sup> le certificat de mise en oeuvre, visé à l'article 72, alinéa 2, du Décret-cadre Maintien flamand du 14 juillet 2023, vaut comme certificat de conformité, à condition que le certificat de mise en oeuvre]<sup>3</sup> indique que le logement est à nouveau conforme.
+
+[<sup>1</sup> Par dérogation au paragraphe 1,[<sup>2</sup> l'agent régional délivre, après que la conformité d'un logement a été établie, un certificat de conformité ]<sup>2</sup>au bailleur ou au détenteur du droit réel, dans l'un des cas suivants :
+
+1° pour un logement proposé en location à une société de logement ;
+
+2° à la suite d'une enquête de conformité pour l'intervention dans le loyer, visée aux articles 5.73 et 5.74[<sup>2</sup> , qui se déroule conformément à la procédure visée à l'article 3.3]<sup>2</sup>.]<sup>1</sup>
+
+Contrairement au paragraphe 1, l'inspecteur du logement peut, à l'occasion d'une demande de nouveau contrôle visée à [<sup>3</sup> l'article 72 du Décret-cadre Maintien flamand du 14 juillet 2023]<sup>3</sup>, délivrer un certificat de conformité pour un logement conforme si [<sup>3</sup> une demande telle que visée à l'article 56 du Décret-cadre Maintien flamand du 14 juillet 2023 ou une mesure de réparation définitive telle que visée à l'article 52, alinéa 1er, et l'article 56, alinéa 1er, du même décret]<sup>3</sup> pour plusieurs logements d'un même bâtiment n'ont pas encore été entièrement effectuées, à condition qu'il examine tous les logements dont la réparation a été demandée [<sup>3</sup> ou imposée]<sup>3</sup> et que la non-délivrance du certificat de conformité entraînerait l'exigibilité d'une taxe imminente ou causerait un autre désavantage grave au demandeur.
+
+[<sup>2</sup> 3° à la suite d'une décision lors de l'examen d'un recours visé aux articles 3.14 et 3.15 ;
+
+4° à la suite d'une enquête de conformité effectuée d'initiative.]<sup>2</sup>
+
+[<sup>2</sup> Après la notification visée à l'article 3.37, le bourgmestre ou l'agent régional ne peut pas délivrer de certificat de conformité sans l'autorisation de l'inspecteur du logement. Ils ne peuvent pas non plus le faire après l'inscription de la [<sup>3</sup> mesure de réparation publique demandée, visée à l'article 56 du Décret-cadre Maintien flamand du 14 juillet 2023, ou la mesure de réparation définitive, visée à l'article 52, alinéa 1er, et l'article 56, alinéa 1er, du décret précité, au registre des mesures, visé à l'article 81 du décret précité, tant que le certificat de mise en oeuvre, visé à l'article 72, alinéa 2, du décret précité]<sup>3</sup>, ne montre pas que la mesure de réparation a été intégralement mise en oeuvre.]<sup>2</sup>
+
+[<sup>3</sup> L'inclusion de la requête de réparation, visée à l'article 3.43, telle qu'en vigueur le 7 septembre 2026, au registre des requêtes de réparation, visé à l'article 3.44, entraîne les mêmes conséquences que l'inclusion au registre des mesures, visée à l'alinéa 4.]<sup>3</sup>
+
+[<sup>1</sup> § 3. Si l'occupant d'une chambre à l'adresse de l'immeuble dans lequel se trouve la chambre est inscrit aux registres de la population ou au registre d'attente, visés à l'article 1, § 1, alinéa 1, 1° et 2°, de la Loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes des étrangers et aux documents de séjour, et s'il ressort d'une mise en demeure, d'un procès-verbal ou d'un rapport de constatation que cette chambre ne satisfait pas à l'obligation de l'article 4.2.1, 6° ou 7°, du Code flamand de l'Aménagement du Territoire, la délivrance d'une attestation de conformité visée aux paragraphes 1 et 2 est refusée.
+
+L'alinéa 1 ne s'applique pas aux chambres reprises dans l'inventaire au plus tard le 31 décembre 2021.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 32, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 10, 018; En vigueur : 09-06-2023&gt;
+
+(3)&lt;DCFL 2026-06-05/07, art. 24, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 3.7**
+
+§ 1. La demande visée à l'article 3.6, § 1, premier alinéa est introduite auprès du bourgmestre de la commune dans laquelle se trouve le logement par la personne physique ou morale qui, en tant que [<sup>1</sup> titulaire du droit réel ou sous-bailleur, met un logement en location ou à disposition]<sup>1</sup>.
+
+Le bourgmestre prend une décision sur la délivrance du certificat de conformité dans les soixante jours à compter de la date de la demande, à la suite d'une enquête de conformité effectuée conformément à la procédure visée à l'article 3.3.
+
+§ 2. Si le bourgmestre refuse de délivrer le certificat de conformité ou ne prend pas de décision, le demandeur peut, dans les trente jours suivant la réception du refus ou après l'expiration du délai mentionné au paragraphe 1, deuxième alinéa, demander une enquête de conformité à l'agent régional qui, dans ce cas, peut délivrer lui-même le certificat de conformité[<sup>1</sup> dans les soixante jours de l'introduction de la demande]<sup>1</sup>.
+
+Le Gouvernement flamand arrête le montant des frais de traitement d'une demande de délivrance du certificat de conformité par l'agent régional.
+
+----------
+
+(1)&lt;DCFL 2023-04-21/08, art. 11, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 3.8**
+
+La demande d'annulation de la décision déclarant un logement inadéquat ou inhabitable en vertu de la partie 5, titre 1, est traitée comme une demande visée à l'article 3.7, § 1, quel que soit le demandeur.
+
+Si la demande est acceptée, le bourgmestre délivre d'office le certificat de conformité au [<sup>1</sup> titulaire du droit réel]<sup>1</sup>, que le logement soit loué, mis en location ou à disposition, ou non. Si la demande concerne un logement qui, après avoir été déclaré inadéquat ou inhabitable, a reçu une autre affectation ou a été démoli, le bourgmestre abroge la décision sans délivrer de certificat de conformité.
+
+Sans préjudice de l'application de l'article 3.17, deuxième alinéa, une décision telle que mentionnée au premier alinéa, datant d'avant la délivrance du certificat de conformité par le bourgmestre ou par l'agent régional, est réputée abrogée à partir de la date du certificat de conformité. Il en va de même pour la décision antérieure au [<sup>2</sup> certificat de mise en oeuvre, visé à l'article 72, alinéa 2, du Décret-cadre Maintien flamand du 14 juillet 2023, à partir de la date du certificat de mise en oeuvre]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2023-04-21/08, art. 12, 018; En vigueur : 09-06-2023&gt;
+
+(2)&lt;DCFL 2026-06-05/07, art. 25, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 3.9**
+
+Le certificat de conformité est caduc de plein droit dès que :
+
+1° des travaux sur le logement sont effectués, tels que visés à l'article 18 du Décret flamand sur la location d'habitations ;
+
+2° le logement est déclaré inadéquat ou inhabitable en vertu de la partie 5, titre 1 ;
+
+3° le logement est déclaré inhabitable en vertu de l'article 135 de la Nouvelle loi communale;
+
+4° un procès-verbal [<sup>2</sup> est établi pour les délits visés aux articles 3.34 à 3.36]<sup>2</sup> ;
+
+5° un délai de dix ans ou un délai fixé par le conseil communal, avec un maximum de dix ans, s'est écoulé depuis la délivrance du certificat de conformité;
+
+[<sup>1</sup> 6° il est constaté dans une sommation, un procès-verbal ou un rapport de constatation que la chambre pour laquelle l'attestation de conformité a été délivrée a été créée sans qu'il ne soit satisfait à l'obligation de l'article 4.2.1, 6° ou 7°, du Code flamand de l'Aménagement du Territoire, et que la chambre a été occupée après la délivrance de l'attestation de conformité par une personne qui était inscrite à l'adresse de l'immeuble dans lequel se trouve la chambre aux registres de la population ou au registre d'attente, visés à l'article 1, § 1, alinéa 1, 1° et 2°, de la Loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes des étrangers et aux documents de séjour;]<sup>1</sup>
+
+[<sup>3</sup> 7° la période de validité d'une autorisation telle que visée à l'article 3.2, alinéa 1er, 5°, a expiré ou aucune autorisation telle que visée à l'article 3.2, alinéa 1er, 5°, n'est délivrée dans un délai d'un an suivant la délivrance d'une attestation de conformité pour les maisons de chambres destinées au logement de main-d'oeuvre.]<sup>3</sup>
+
+Le Gouvernement flamand peut limiter le délai de dix ans, visé à l'alinéa premier, 5°, pour les certificats de conformité délivrés après que des défauts limités ont été constatés lors de l'enquête de conformité [<sup>4</sup> , qui se déroule suivant la procédure visée à l'article 3.3]<sup>4</sup>.
+
+Sans préjudice de l'application du deuxième alinéa, le délai mentionné au premier alinéa, 5°, s'applique également aux certificats de conformité délivrés par l'agent régional en application des articles 3.6, § 2, 2°, et 3.7, § 2.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 33,2°, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2021-07-09/37, art. 33,1°, 005; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2023-02-10/07, art. 4, 013; En vigueur : 01-10-2023&gt;
+
+(4)&lt;DCFL 2023-04-21/08, art. 13, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 3.9/1**
+
+[<sup>1</sup> Le Gouvernement flamand peut arrêter des règles formelles et de procédure plus précises pour l'application de la présente partie.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-04-21/08, art. 14, 018; En vigueur : 09-06-2023&gt;
+
+## Partie 4. Avertissement
+
+**Art. 3.10**
+
+La commune qui est mise au courant de l'éventuelle mauvaise qualité d'un logement délivre un récépissé au notificateur, lui fournit des informations sur les procédures visées dans la présente partie et dans la partie 5, titre 1, et peut, dans un court délai à fixer par le Gouvernement flamand, procéder à une enquête de conformité, qui se déroule conformément à la procédure visée à l'article 3.3.[<sup>1</sup> Si la notification revêt la forme d'une communication d'une telle enquête de conformité, la commune peut se baser sur cette enquête de conformité pour établir si le logement est ou non conforme. ]<sup>1</sup>
+
+S'il [<sup>1</sup> a été établi]<sup>1</sup> que la maison n'est pas conforme, la commune peut, dans les cas spécifiés par le Gouvernement flamand, accorder au titulaire du droit réel un délai pour rendre la maison conforme. La commune doit le faire dans le mois qui suit la notification visée au premier alinéa. Le délai de réparation accordé prend fin en tout état de cause dans les trois mois suivant cette notification. En même temps, la commune avertit le titulaire du droit réel des conséquences possibles en cas d'absence de réparation et informe les occupants du délai de réparation accordé.
+
+Après notification de la réparation et au plus tard trois mois après la notification visée au premier alinéa, la commune examine le logement une seconde fois conformément à la procédure visée à l'article 3.3. [<sup>1</sup> S'il est établi que le logement est conforme, le bourgmestre délivre un certificat de conformité au titulaire du droit réel et au bailleur qui est connu de la commune.]<sup>1</sup>[<sup>1</sup> La commune informe les occupants de cette délivrance par envoi sécurisé et leur transmet une copie du certificat de conformité et du rapport technique.]<sup>1</sup>
+
+L'absence de notification de réparation dans le délai de réparation accordé, visé au troisième alinéa, ou l'absence d'établissement de la conformité dans les [<sup>1</sup> cent cinq jours de la notification]<sup>1</sup> visée au premier alinéa, vaut comme présentation d'une demande de déclarer le logement inadéquat ou inhabitable, telle que visée à l'article 3.13, premier alinéa. Dans ce cas, la commune ne peut plus répéter la procédure visée aux premier, deuxième et troisième alinéas.
+
+[<sup>1</sup> Lors de la délivrance d'un certificat de conformité, visée à l'alinéa 3, l'occupant peut demander une enquête de conformité auprès de l'agent régional dans les trente jours de la réception de l'envoi sécurisé visé à l'alinéa 3. Dans ce cas, dans les soixante jours de la réception de l'envoi sécurisé, l'agent régional certifie la conformité du logement, par lettre adressée au demandeur et au bourgmestre ou transmet un avis au bourgmestre, avec copie au demandeur, afin de déclarer le logement inadéquat ou inhabitable, accompagné d'une demande expresse, telle que visée à l'article 3.12, § 1er, alinéa 3, de ne pas appliquer la procédure visée dans le présent article et à l'article 3.11.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-04-21/08, art. 15, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 3.11**
+
+Le Gouvernement flamand peut arrêter des modalités formelles et procédurales pour l'application de la présente partie.
+
+## Partie 5. Déclaration d'inadéquation et d'inhabitabilité
+
+#### Titre 1. Procédure de déclaration d'inadéquation et d'inhabitabilité
+
+**Art. 3.12**
+
+§ 1. Sans préjudice de l'application de l'article 135 de la Nouvelle loi communale, le bourgmestre peut, de sa propre initiative ou sur demande, déclarer par décision inadéquat ou inhabitable un logement non conforme, à condition que l'agent régional ait conseillé la déclaration d'inadéquation ou d'inhabitabilité et après avoir entendu le [<sup>1</sup> après application ou non de la procédure mentionnée dans la partie 4, détenteur du droit réel]<sup>1</sup> et l'occupant. Dans ce cas, le bourgmestre prend toutes les mesures qu'il jugera nécessaires pour mettre en uvre sa décision.
+
+Si, après avoir entendu les parties intéressées, il apparaît que les défauts qui ont donné lieu à l'avis de l'agent régional mentionné au premier alinéa ont été totalement ou partiellement réparés,[<sup>2</sup> ]<sup>2</sup> le bourgmestre qui établit que la maison n'est toujours pas conforme peut néanmoins prendre une décision telle que visée au premier alinéa.
+
+[<sup>2</sup> L'agent régional émet l'avis visé à l'alinéa 1er, à la demande du bourgmestre ou d'initiative. Si l'agent régional en fait la demande expresse, le bourgmestre n'applique pas la procédure mentionnée dans la partie 4.]<sup>2</sup>
+
+§ 2. Le bourgmestre peut, pour un ou plusieurs défauts de catégorie III visés à l'article 3.1, § 1, troisième alinéa, 3°, constatés lors de l'enquête de conformité,[<sup>2</sup> qui se déroule suivant la procédure visée à l'article 3.3,]<sup>2</sup> imposer l'exécution des travaux urgents de rénovation, d'amélioration ou d'adaptation dans un délai maximum de quinze jours.
+
+En cas d'inexécution des travaux urgents dans le délai visé à l'alinéa premier, le bourgmestre peut les faire exécuter lui-même. Dans ce cas les frais des travaux exécutés peuvent être récupérés à charge du [<sup>2</sup> titulaire du droit réel]<sup>2</sup> sur présentation d'un état.
+
+§ 3. [<sup>3</sup> Le Gouvernement flamand peut dispenser le bourgmestre de l'obligation de demander l'avis de l'agent régional visé au paragraphe 1er, alinéa 1er, aux conditions qu'il fixe. Le Gouvernement flamand peut retirer la dispense à tout moment s'il apparaît que les conditions auxquelles elle a été accordée ne sont plus remplies.]<sup>3</sup>.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 34, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 16,1°-16,4°, 018; En vigueur : 09-06-2023&gt;
+
+(3)&lt;DCFL 2023-04-21/08, art. 16,5°, 018; En vigueur : 01-01-2025&gt;
+
+**Art. 3.13**
+
+La demande de déclaration d'inadéquation ou d'inhabitabilité d'un logement peut être présentée par l'administration communale, le président du conseil de l'aide sociale, l'agent régional, une organisation de logement social, l'inspecteur du logement ou toute personne manifestant un intérêt.
+
+Le bourgmestre prend une décision dans les trois mois de la réception de la demande visée à l'alinéa premier. Si une commune a opté pour l'application de la procédure visée à la partie 4 du présent livre, seul le délai qui court après l'application de l'article 3.10, quatrième alinéa, s'applique, à condition que la commune ait effectué une enquête de conformité telle que visée à l'article 3.10, premier alinéa, dans le court délai qui y est mentionné, et ait accordé un délai de réparation tel que visé à l'article 3.10, deuxième alinéa, dans le délai d'un mois qui y est mentionné.
+
+Le bourgmestre peut passer outre à l'exigence en matière d'avis, mentionnée à l'article 3.12, § 1, premier alinéa, si l'agent régional n'a pas émis d'avis dans les 75 jours suivant la réception de la demande d'avis et tant qu'il n'a pas été informé d'un avis émis après ce délai.
+
+**Art. 3.14**
+
+La décision du bourgmestre, visée à l'article 3.13, deuxième alinéa, peut faire l'objet d'un recours auprès du Gouvernement flamand [<sup>2</sup> qui, le cas échéant, en informe le bourgmestre,]<sup>2</sup> dans les trente jours suivant la notification de la décision. [<sup>1</sup> ...]<sup>1</sup> Lors de la notification de recevabilité du recours, le Gouvernement flamand invite le [<sup>1</sup> détenteur du droit réel]<sup>1</sup>, l'occupant [<sup>2</sup>, le demandeur]<sup>2</sup> et le bourgmestre à présenter leurs arguments par écrit.
+
+Le Gouvernement flamand regroupe obligatoirement tous les recours introduits en temps utile contre la même décision. Toutes les parties concernées sont informées sans délai de ce regroupement.
+
+Le Gouvernement flamand prend une décision dans les trois mois de la réception du dernier recours introduit. [<sup>1</sup> ...]<sup>1</sup> [<sup>2</sup> ou dans les quatre mois de la réception du dernier recours introduit si l'appréciation du recours nécessite une nouvelle enquête de conformité, qui se déroule suivant la procédure visée à l'article 3.3.]<sup>2</sup> [<sup>2</sup> Si aucune décision n'est prise dans le délai de trois ou quatre mois dans le cas d'une nouvelle enquête de conformité ]<sup>2</sup>, le recours est réputé rejeté.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 35, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 17, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 3.15**
+
+[<sup>2</sup> Si le bourgmestre ne prend pas de décision au sujet de la demande visée à l'article 3.13, alinéa 1er, un recours peut être introduit auprès du Gouvernement flamand, qui, le cas échéant, en informe le bourgmestre, dans les douze mois suivant l'expiration du délai de trois mois visé à l'article 3.13, alinéa 2. Lors de la notification de la recevabilité du recours, le Gouvernement flamand invite le titulaire du droit réel, le bourgmestre, le demandeur et l'occupant à présenter leurs arguments par écrit et informe le bourgmestre du recours et de la déchéance de son pouvoir de décision.]<sup>2</sup>
+
+Le Gouvernement flamand prend une décision dans les trois mois de la réception du recours contre l'inaction du bourgmestre. [<sup>1</sup> ...]<sup>1</sup> [<sup>2</sup> ou dans les quatre mois de la réception du recours si l'appréciation du recours nécessite une nouvelle enquête de conformité, qui se déroule suivant la procédure visée à l'article 3.3.]<sup>2</sup> [<sup>2</sup> Si aucune décision n'est prise dans le délai de trois ou quatre mois dans le cas d'une nouvelle enquête de conformité ]<sup>2</sup>, le recours est réputé rejeté.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 36, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 18, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 3.16**
+
+Le ministre peut décider en appel de déclarer le logement inadéquat ou inhabitable et prendre les mesures nécessaires. Il peut notamment charger le bourgmestre d'évacuer le bâtiment et d'en interdire l'accès. Le cas échéant, il détermine le délai à observer avant l'exécution d'une telle mesure.
+
+Si le bourgmestre n'applique pas les mesures ordonnées en vertu du premier alinéa, [<sup>1</sup> l'article 335 du décret du 22 décembre 2017 sur l'administration locale s'applique.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 37, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 3.17**
+
+L'instance ayant pris la décision de déclarer le logement inadéquat ou inhabitable informe immédiatement l'inspecteur du logement et l'agent régional des logements visés par la décision.
+
+Si un logement déclaré inadéquat ou inhabitable est fusionné avec un ou plusieurs autres logements ou scindé en deux ou plusieurs logements, la décision de le déclarer inadéquat ou inhabitable ne peut être abrogée en application de l'article 3.8 que si cette modification fait l'objet d'un permis urbanistique et si la conformité de tous les logements faisant l'objet de la nouvelle configuration a été établie.
+
+**Art. 3.18**
+
+Le Gouvernement flamand peut arrêter des modalités formelles et procédurales pour l'application du présent titre.
+
+#### Titre 2. Inventaire des logements inadéquats et inhabitables
+
+**Art. 3.19**
+
+§ 1. Le gestionnaire d'inventaire crée un inventaire avec des listes séparées reprenant :
+
+1° les logements déclarés inadéquats ou inhabitables conformément aux articles 3.12 à 3.18;
+
+2° les logements déclarés inhabitables conformément à l'article 135 de la Nouvelle loi communale.
+
+Le Gouvernement flamand désigne le gestionnaire d'inventaire visé au premier alinéa et détermine les modalités de la forme et de la manière dont l'inventaire est tenu et géré.
+
+§ 2. Chaque commune reçoit un extrait reprenant les logements enregistrés dans l'inventaire et situés sur son territoire.
+
+La commune donne accès, à quiconque en fait la demande, à la liste des logements enregistrés dans l'inventaire [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 38, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 3.20**
+
+[<sup>1</sup> Les logements visés à l'article 3.19, § 1er, 1° sont inscrits sur la liste d'inventaire à la date de la décision du bourgmestre visée à l'article 3.12, § 1er. En cas de décision de [<sup>2</sup> déclaration d'inadéquation ou de déclaration d'inadéquation et d'inhabitabilité ]<sup>2</sup> en appel, telle que visée à l'article 3.16, alinéa premier, les logements sont également inscrits sur la liste d'inventaire à la date de la décision visée à l'article 3.12, § 1er, sauf si :
+
+1° la décision visée à l'article 3.12, § 1er, n'a pas été adoptée selon la procédure visée aux articles 3.12 et 3.13 ;
+
+2° il s'agit d'une décision telle que visée à l'article 3.15, deuxième alinéa.
+
+[<sup>2</sup> 3° le bourgmestre a pris, en application de l'article 3.13, alinéa 2, une décision autre que celle visée à l'article 3.12, § 1er.]<sup>2</sup>
+
+Dans de tels cas, les logements sont inscrits sur la liste d'inventaire à la date de la décision, visée à [<sup>2</sup> l'article 3.16, alinéa 1er ]<sup>2</sup>.]<sup>1</sup>
+
+Les logements visés à l'article 3.19, § 1, 2° sont inscrits sur la liste d'inventaire à la date de la décision du bourgmestre [<sup>2</sup> à condition que cette décision soit communiquée au gestionnaire de l'inventaire dans les trois mois après avoir été prise " sont ajoutés.]<sup>2</sup>.
+
+Le présent article s'applique également aux logements dissociables et aux sites d'activité économique dont l'habitation du propriétaire est affectée à la résidence et en fait une partie indissociable, tels que visés à l'article 2, 1° du décret du 19 avril 1995 portant des mesures visant à lutter contre et à prévenir la désaffectation et l'abandon des sites d'activité économique.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/23, art. 24, 004; En vigueur : 30-08-2021&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 19, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 3.21**
+
+§ 1. Le gestionnaire d'inventaire signifie l'inscription à l'inventaire par un certificat d'enregistrement envoyé aux titulaires du droit réel du bien inventorié, tels qu'ils sont connus du Service public fédéral Finances, service de la Documentation patrimoniale. Le Gouvernement fixe les modalités relatives à la forme, au contenu et à l'utilisation du certificat d'enregistrement.
+
+§ 2. Pour les logements visés à l'article 3.19, § 1, 1°, une décision telle que visée à l'article 3.20, alinéa premier, vaut comme certificat d'enregistrement. La décision précitée mentionne l'inscription à l'inventaire. Un recours peut être formé auprès du Gouvernement flamand conformément à l'article 3.14 contre cette décision et l'enregistrement.
+
+§ 3. Pour les logements visés à l'article 3.19, § 1, 2° le gestionnaire d'inventaire délivre le certificat d'enregistrement au titulaire du droit réel dans les trente jours suivant la réception de la décision de déclaration d'inhabitabilité.
+
+Si le titulaire du droit réel démontre qu'il a déposé une plainte contre la décision de déclaration d'inhabitabilité auprès de l'autorité de tutelle conformément à l'article 331 du décret du 22 décembre 2017 sur l'administration locale, l'inscription à la liste, visée à l'article 3.19, est suspendue jusqu'à ce que la procédure soit entièrement achevée conformément aux articles 332 à 334 du décret sur l'administration locale.
+
+L'autorité communale informe le gestionnaire d'inventaire de la décision ou de la réponse définitive de l'autorité de tutelle, visée à l'article 333 du décret du 22 décembre 2017 sur l'administration locale.
+
+Dans les trente jours de la réception de la réponse définitive de l'autorité de tutelle conformément à l'article 333 du décret du 22 décembre 2017 sur l'administration locale, le plaignant peut former un recours contre l'enregistrement auprès du Gouvernement flamand. Le Gouvernement flamand prend une décision dans les trois mois de la réception du recours. Si aucune décision n'est prise dans ce délai, le recours est réputé rejeté.
+
+**Art. 3.22**
+
+L'agent instrumentant, chargé du transfert du droit réel visé à l'article 2.5.2.0.1, alinéa premier du Code flamand de la Fiscalité du 13 décembre 2013, informe le cessionnaire du droit réel, au plus tard au moment du transfert du droit réel, de la notification de la constatation d'inadéquation ou d'inhabitabilité du logement ou de son inscription à l'inventaire.
+
+Un formulaire rempli et signé par les deux parties est envoyé par le notaire ou par une des parties, au plus tard trente jours après le transfert du droit réel, au gestionnaire d'inventaire.
+
+**Art. 3.23**
+
+§ 1. Le gestionnaire d'inventaire radie un logement de la liste visée à l'article 26, § 1, 1° à la demande, par lettre recommandée, du titulaire du droit réel ou de son successeur légal dès que celui-ci apporte la preuve que le logement est à nouveau conforme.
+
+Si le logement a été démoli ou a reçu une autre affectation, le gestionnaire d'inventaire radie le logement sur la base de la décision du bourgmestre d'abroger la déclaration d'inadéquation ou d'inhabitabilité ou sur la base du [<sup>1</sup> certificat de mise en oeuvre, visé à l'article 72, alinéa 2, du Décret-cadre Maintien flamand du 14 juillet 2023,]<sup>1</sup> établissant la démolition ou la réaffectation.
+
+Sans préjudice de l'application de [<sup>1</sup> l'article 72, alinéa 4, du Décret-cadre Maintien flamand du 14 juillet 2023]<sup>1</sup> la preuve visée à l'alinéa premier est apportée conformément à l'article 3.6.
+
+§ 2. Le gestionnaire d'inventaire radie un logement de la liste visée à l'article 3.19, § 1, 2° à la demande, par envoi sécurisé, du titulaire du droit réel ou de son successeur légal dès que celui-ci apporte la preuve que le bourgmestre a abrogé la décision d'inhabitabilité ou la preuve visée au paragraphe 1, alinéa premier.
+
+§ 3. Dans les trois mois suivant la demande de radiation, le gestionnaire d'inventaire informe le titulaire du droit réel ou, le cas échéant, son successeur légal de la décision à ce sujet.
+
+En l'absence de notification, visée à l'alinéa premier, dans le délai imparti, la demande de radiation est réputée acceptée.
+
+§ 4. Dans les cas visés au paragraphe 1, alinéa premier, le gestionnaire d'inventaire mentionne comme date de radiation le premier jour de conformité du logement.
+
+Dans les cas visés au paragraphe 1, alinéa deux, le gestionnaire d'inventaire mentionne comme date de radiation le premier jour de la démolition ou de la réaffectation.
+
+Dans les cas visés au paragraphe 2, le gestionnaire d'inventaire mentionne comme date de radiation la date de décision d'abrogation prise par le bourgmestre ou le premier jour de conformité du logement.
+
+En l'absence de notification visée au paragraphe 3 dans le délai imparti, la date de réparation que le titulaire du droit réel mentionne dans la demande de radiation est mentionnée comme date de radiation.
+
+----------
+
+(1)&lt;DCFL 2026-06-05/07, art. 26, 028; En vigueur : 08-09-2026&gt;
+
+## Partie 6. Déclaration de suroccupation
+
+**Art. 3.24**
+
+Si un logement est jugé suroccupé à l'issue d'une enquête de conformité,[<sup>1</sup> qui se déroule suivant la procédure visée à l'article 3.3,]<sup>1</sup> le bourgmestre peut, de sa propre initiative ou à la demande du président du conseil de l'aide sociale, de l'agent régional ou de l'inspecteur du logement, le déclarer suroccupé par décision, à condition que l'agent régional ait conseillé la déclaration de suroccupation.
+
+Le bourgmestre prend les mesures nécessaires pour remédier à la suroccupation en relogeant un ou plusieurs occupants, comme prévu à la partie 8 du présent livre.
+
+----------
+
+(1)&lt;DCFL 2023-04-21/08, art. 20, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 3.25**
+
+Le bourgmestre prend une décision dans les trois mois de la réception de la demande visée à l'article 3.24, alinéa premier. Il peut passer outre à l'exigence en matière d'avis, mentionnée à l'article 3.24, § 1, premier alinéa, si l'agent régional n'a pas émis d'avis dans les 75 jours suivant la réception de la demande d'avis et tant qu'il n'a pas été informé d'un avis émis après ce délai.
+
+**Art. 3.26**
+
+La décision du bourgmestre, visée à l'article 3.25, peut faire l'objet d'un recours auprès du Gouvernement flamand [<sup>2</sup> qui, le cas échéant, en informe le bourgmestre,]<sup>2</sup> dans les trente jours suivant la notification de la décision. [<sup>1</sup> ...]<sup>1</sup> Lors de la notification de recevabilité du recours, le Gouvernement flamand invite le [<sup>1</sup> détenteur du droit réel]<sup>1</sup>, l'occupant [<sup>2</sup> , le demandeur]<sup>2</sup> et le bourgmestre à présenter leurs arguments par écrit.
+
+Le Gouvernement flamand regroupe obligatoirement tous les recours introduits en temps utile contre la même décision. Toutes les parties concernées sont informées sans délai de ce regroupement.
+
+Le Gouvernement flamand prend une décision dans les trois mois de la réception du dernier recours introduit. [<sup>1</sup> ...]<sup>1</sup> [<sup>2</sup> ou dans les quatre mois de la réception du dernier recours introduit si l'appréciation du recours nécessite une nouvelle enquête de conformité, qui se déroule suivant la procédure visée à l'article 3.3.]<sup>2</sup> [<sup>2</sup> Si aucune décision n'est prise dans le délai de trois ou quatre mois dans le cas d'une nouvelle enquête de conformité ]<sup>2</sup>, le recours est réputé rejeté.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 39, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 21, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 3.27**
+
+[<sup>2</sup> Si le bourgmestre ne prend pas de décision, un recours peut être introduit auprès du Gouvernement flamand, qui, le cas échéant, en informe le bourgmestre, dans les douze mois suivant l'expiration du délai de trois mois visé à l'article 3.25. Lors de la notification de la recevabilité du recours, le Gouvernement flamand invite le titulaire du droit réel, le bourgmestre, le demandeur et l'occupant à présenter leurs arguments par écrit et informe le bourgmestre du recours et de la déchéance de son pouvoir de décision.]<sup>2</sup>
+
+Le Gouvernement flamand prend une décision dans les trois mois de la réception du recours contre l'inaction du bourgmestre. [<sup>1</sup> ...]<sup>1</sup> [<sup>2</sup> ou dans les quatre mois de la réception du recours si l'appréciation du recours nécessite une nouvelle enquête de conformité, qui se déroule suivant la procédure visée à l'article 3.3.]<sup>2</sup> [<sup>2</sup> Si aucune décision n'est prise dans le délai de trois ou quatre mois dans le cas d'une nouvelle enquête de conformité]<sup>2</sup>, le recours est réputé rejeté.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 40, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 22, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 3.28**
+
+Le ministre peut décider en appel de déclarer le logement suroccupé et prendre les mesures nécessaires. Dans ce cas, les dispositions de l'article 3.16, alinéa deux s'appliquent.
+
+**Art. 3.29**
+
+Le Gouvernement flamand peut arrêter des modalités formelles et procédurales pour l'application de la présente partie. Il peut étendre la dispense visée à l'article 3.12, § 3 à l'avis de l'agent régional sur la déclaration de suroccupation.
+
+## Partie 7. Réparation et démolition
+
+**Art. 3.30**
+
+§ 1. Si, selon les résultats de l'enquête de conformité effectuée conformément à la procédure visée à l'article 3.3, le logement déclaré inadéquat ou inhabitable ou pour lequel la délivrance d'un certificat de conformité a été refusée, entre en ligne de compte pour des travaux de rénovation, d'amélioration ou d'adaptation, ceux-ci doivent être effectués par le titulaire du droit réel.
+
+Une intervention telle que visée à l'article 5. 75 peut être accordée pour les travaux de rénovation, d'amélioration ou d'adaptation, dans les conditions prévues.
+
+§ 2. La commune, le CPAS ou une organisation de logement social, à l'exception d'une union de locataires, peuvent effectuer les travaux, à condition d'acquérir contractuellement un droit réel sur le logement ou de louer le logement pendant au moins neuf ans. Dans ce dernier cas, le loyer du logement ne peut pas dépasser un montant calculé sur la base de critères objectifs établis par le Gouvernement flamand, compte tenu du mauvais état du logement.
+
+L'initiateur doit reloger les occupants du logement qui remplissent les conditions fixées par le Gouvernement flamand.
+
+**Art. 3.31**
+
+Si, selon les résultats de l'enquête de conformité effectuée conformément à la procédure visée à l'article 3.3, le logement déclaré inadéquat ou inhabitable ou pour lequel la délivrance d'un certificat de conformité a été refusée n'entre pas en ligne de compte pour des travaux de rénovation, d'amélioration ou d'adaptation, [<sup>1</sup> le titulaire du droit réel doit ]<sup>1</sup> soit donner au logement une autre affectation conformément aux dispositions du Code flamand de l'Aménagement du Territoire du 15 mai 2009, soit démolir le logement, sauf si la démolition est interdite en vertu de dispositions légales, décrétales ou réglementaires.
+
+----------
+
+(1)&lt;DCFL 2023-04-21/08, art. 23, 018; En vigueur : 09-06-2023&gt;
+
+## Partie 8. Relogement
+
+**Art. 3.32**
+
+Si les occupants d'un logement inhabitable ou suroccupé ou d'un bien visé à l'article 3.35 doivent être relogés en raison des conditions de vie inhumaines et des risques graves pour leur santé et leur sécurité, et que les dispositions de l'article 3.30, § 2 ne peuvent être appliquées, le bourgmestre prend les mesures nécessaires pour les occupants qui remplissent les conditions fixées par le Gouvernement flamand. Il peut notamment utiliser les facilités de logement communales ou faire appel à la collaboration du CPAS ou des organisations de logement social, dont la zone d'activité s'étend au territoire de la commune.
+
+Le Gouvernement flamand peut, dans les limites des crédits inscrits à cet effet au budget de la Région flamande et dans les conditions qu'il fixe, prendre des initiatives pour encourager ou soutenir le développement des possibilités de relogement communales.
+
+**Art. 3.33**
+
+Si le bourgmestre procède au relogement des occupants d'un [<sup>1</sup> logement inhabitable ou suroccupé ou d'un bien visé à l'article 3.35]<sup>1</sup>, la commune peut récupérer entre autres les frais suivants auprès du bailleur ou de la personne qui a mis le logement [<sup>2</sup> ou le bien visé à l'article 3.35]<sup>2</sup> à disposition :
+
+1° les frais d'évacuation du logement ;
+
+2° les frais de transport et d'entreposage du mobilier et des biens des occupants ;
+
+3° les frais d'installation dans le nouveau logement ;
+
+4° la différence entre les frais mensuels du logement visé au point 3°, ou du séjour dans un établissement équipé à cet effet, et 20 % du revenu mensuel disponible de l'occupant.
+
+La différence mentionnée au premier alinéa, 4° peut être récupérée pour une période d'un an au maximum.
+
+Lorsqu'une commune conclut un accord de coopération avec le Gouvernement flamand à cet effet, le Gouvernement flamand peut faire préfinancer les frais visés au premier alinéa par la Région flamande. Dans ce cas la Région flamande est subrogée dans tous les droits de la commune à l'égard du débiteur pour les coûts préfinancés. Le recouvrement éventuel se fait au moyen d'une contrainte établie, visée et rendue exécutoire par les agents désignés en application de l'article 5.4.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 41, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 24, 018; En vigueur : 09-06-2023&gt;
+
+## Partie 9. Maintien pénal
+
+#### Titre 1. Peines
+
+**Art. 3.34**
+
+Lorsqu'un logement non conforme ou suroccupé est loué, mis en location ou mis à disposition, directement ou par personne interposée, en vue de son occupation, le bailleur, l'éventuel sous-bailleur ou celui qui a mis le logement à disposition, est puni [<sup>1</sup> d'une peine de niveau 2, ou d'une peine de niveau 1]<sup>1</sup>.
+
+[<sup>1</sup> Par dérogation à l'article 36, alinéa 9, à l'article 38, alinéa 9, et à l'article 52 du Code pénal, l'amende maximale s'élève toujours à 200 000 euros pour le délit visé à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-06-05/07, art. 27, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 3.35**
+
+Lorsqu'un bien meuble ou immeuble qui n'est pas principalement destiné à l'habitation est loué, mis en location ou mis à disposition, directement ou par personne interposée, en vue de son occupation alors qu'il présente des défauts impliquant un risque de sécurité ou de santé ou que l'infrastructure de base telle que l'électricité, le sanitaire, la cuisine et le chauffage fait défaut ou ne fonctionne pas proprement, le bailleur, l'éventuel sous-bailleur ou celui qui a mis le logement à disposition, est puni [<sup>1</sup> est remplacé par le membre de phrase " d'une peine de niveau 2, ou d'une peine de niveau 1]<sup>1</sup>.
+
+[<sup>1</sup> Par dérogation à l'article 36, alinéa 9, à l'article 38, alinéa 9, et à l'article 52 du Code pénal, l'amende maximale s'élève toujours à 200 000 euros pour le délit visé à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-06-05/07, art. 28, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 3.36**
+
+Le délit visé aux articles 3.34 ou 3.35 est puni [<sup>1</sup> d'une peine de niveau 3, ou d'une peine de niveau 1]<sup>1</sup> dans les cas suivants :
+
+1° si l'activité en question est devenue une habitude,
+
+2° s'il s'agit d'un acte de participation à l'activité principale ou secondaire d'une association, que le coupable revête ou non la qualité de personne dirigeante.
+
+[<sup>1</sup> Par dérogation à l'article 36, alinéa 9, à l'article 38, alinéa 9, et à l'article 52 du Code pénal, l'amende maximale s'élève toujours à 800 000 euros pour le délit visé à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-06-05/07, art. 29, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 3.37**
+
+[<sup>1</sup>. Après le contrôle sur place, l'inspecteur du logement communique au bourgmestre et à l'agent régional les logements pour lesquels il rédigera un procès-verbal initial.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-04-21/08, art. 25, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 3.38**
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 43, 005; En vigueur : 01-01-2023&gt;
+
+**Art. 3.39**
+
+Sans préjudice de l'application de la réglementation sur la protection des personnes physiques à l'égard du traitement des données à caractère personnel applicable à la communication des données à caractère personnel, telle que précisée, le cas échéant, au niveau fédéral ou flamand, l'inspecteur du logement [<sup>1</sup> ...]<sup>1</sup>, peut demander, dans le cadre d'une enquête concernant l'occupation effective en vue du constat des délits visés au présent titre, les données de consommation d'eau, d'électricité et de gaz auprès des entreprises d'utilité publique ou des gestionnaires des réseaux de distribution.
+
+Les entreprises d'utilité publique et les gestionnaires des réseaux de distribution sont tenus de transmettre les données de consommation à l'inspecteur du logement dans les 14 jours suivant la réception de la demande.
+
+Le Gouvernement flamand peut arrêter la manière dont l'inspecteur du logement demande les données de consommation ainsi que leur mode de transmission.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 44, 005; En vigueur : 01-01-2023&gt;
+
+**Art. 3.40**
+
+[<sup>1</sup> Les inspecteurs du logement, visés à l'article 3.37, peuvent communiquer les informations obtenues au cours de leur enquête aux sociétés de logement, visées à l'article 4.36, § 1er, s'ils l'estiment nécessaire.
+
+Les sociétés de logement ne peuvent utiliser les informations obtenues en vertu du présent article que pour l'exercice des missions dont elles sont chargées.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-06-05/07, art. 30, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 3.41**
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 46, 005; En vigueur : 01-01-2023&gt;
+
+**Art. 3.42**
+
+&lt;Abrogé par DCFL 2026-06-05/07, art. 31, 028; En vigueur : 08-09-2026&gt;
+
+#### Titre 2. Réparation
+
+**Art. 3.43**
+
+[<sup>1</sup> L'inspecteur du logement enregistre dans un registre, qui est publié de manière active, les logements, les bâtiments et les biens faisant l'objet d'une demande d'imposition de mesures de réparation publiques, ou d'une mesure de réparation publique définitive imposée par le juge ou l'instance de réparation, demandée ou imposée en raison d'une violation du livre 3, partie 9. Le Gouvernement flamand peut arrêter les modalités de forme, de contenu, de gestion et d'utilisation de ce registre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-06-05/07, art. 32, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 3.44**
+
+&lt;Abrogé par DCFL 2026-06-05/07, art. 33, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 3.45**
+
+&lt;Abrogé par DCFL 2026-06-05/07, art. 34, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 3.46**
+
+[<sup>1</sup> L'article 72 du Décret-cadre Maintien flamand du 14 juillet 2023 s'applique lors de l'exécution de mesures de réparation publiques demandées. Le Gouvernement flamand peut déterminer l'instance de réparation compétence, visée à l'article 72 du décret précité.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-06-05/07, art. 35, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 3.47**
+
+&lt;Abrogé par DCFL 2026-06-05/07, art. 36, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 3.48**
+
+&lt;Abrogé par DCFL 2026-06-05/07, art. 36, 028; En vigueur : 08-09-2026&gt;
+
+#### Titre 3. Dispositions procédurales
+
+**Art. 3.49**
+
+&lt;Abrogé par DCFL 2026-06-05/07, art. 36, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 3.50**
+
+&lt;Abrogé par DCFL 2026-06-05/07, art. 36, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 3.51**
+
+[<sup>1</sup> Avant la conclusion du contrat de transfert d'un droit réel, le titulaire de ce droit informe le candidat cessionnaire du fait qu'une demande d'imposition de mesures de réparation publiques, ou une mesure de réparation publique imposée par le juge ou l'instance de réparation, demandée ou imposée en raison d'une violation du livre 3, partie 9, a été inscrite pour le bien dans le registre visé à l'article 3.43 ou dans le registre des mesures visé à l'article 82 du Décret-cadre Maintien flamand du 14 juillet 2023]<sup>1</sup>.
+
+[<sup>1</sup> Le contrat de transfert du droit réel mentionne qu'une réquisition, une condamnation ou une mesure de réparation telle que visée à l'alinéa 1er, repose sur le bien.]<sup>1</sup>
+
+Sans préjudice du droit aux dommages-intérêts, le tribunal annule sur requête du cessionnaire le titre de transfert d'un droit réel si le contrevenant n'a pas satisfait à l'obligation visée à l'alinéa premier.
+
+Par dérogation à l'alinéa [<sup>1</sup> trois]<sup>1</sup>, le cessionnaire ne peut pas invoquer l'action en annulation lorsque l'information visée à l'alinéa premier est communiquée lors du passage de l'acte authentique et lorsque le nouveau titulaire du droit réel renonce à l'action en annulation.
+
+En cas de transfert d'un droit réel portant sur un bien meuble ou immeuble, l'agent instrumentant consulte le registre des actions en réparation visé à [<sup>1</sup> l'article 3.43]<sup>1</sup> et inclut les informations qui y figurent dans l'acte de transfert. Si le registre ne contient aucune information sur ce bien, l'acte en fait également mention.
+
+----------
+
+(1)&lt;DCFL 2026-06-05/07, art. 37, 028; En vigueur : 08-09-2026&gt;
+
+#### Titre 4.[<sup>1</sup> Relogement en cas d'expulsion forcée ]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-06-05/07, art. 38, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 3.52**
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 49, 005; En vigueur : 01-01-2023&gt;
+
+**Art. 3.53**
+
+[<sup>1</sup> Si une mesure de sécurité ou de réparation publique s'accompagne d'une expulsion forcée, le bourgmestre prend les initiatives nécessaires pour le relogement des occupants, visé aux articles 3.32 et 3.33.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2026-06-05/07, art. 39, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 3.54**
+
+&lt;Abrogé par DCFL 2026-06-05/07, art. 40, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 3.55**
+
+&lt;Abrogé par DCFL 2026-06-05/07, art. 40, 028; En vigueur : 08-09-2026&gt;
+
+## Partie 10. [<sup>1</sup> Vie privée]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 53, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 3.56**
+
+[<sup>1</sup> § 1. Pour l'application des dispositions du présent livre, des données à caractère personnel sont traitées afin de poursuivre la qualité minimale des logements visée dans la partie 1.
+
+[<sup>3</sup> Par dérogation à l'alinéa 1er, les données à caractère personnel sont traitées afin d'appliquer les conditions et exigences énoncées aux articles 3.58 à 3.60.]<sup>3</sup>
+
+§ 2. Les responsables du traitement des données à caractère personnel, en application des dispositions visées dans la partie 2 à 7 du présent livre sont :
+
+1° les villes et les communes, en ce compris les structures de coopération intercommunale, en ce qui concerne les traitements dont elles ont la charge ;
+
+2° l'agence chargée par le Gouvernement flamand de l'exécution de la politique du logement, en ce qui concerne les traitements dont elle a la charge ;
+
+3° le Service flamand des Impôts, en ce qui concerne la consultation des données à caractère personnel en vue de l'exécution de ses missions.
+
+Les responsables du traitement des données à caractère personnel en application de la partie 8 du présent livre, sont, chacun en ce qui concerne les traitements dont ils sont chargés :
+
+1° les villes et communes ;
+
+2° les CPAS ;
+
+3° les organisations de logement social.
+
+Le responsable du traitement des données à caractère personnel en application des dispositions de la partie 9 du présent livre est l'agence chargée par le Gouvernement flamand de l'exécution de la politique du logement.
+
+[<sup>3</sup> Les responsables du traitement dans le cadre de l'application des articles 3.58 et 3.59 sont, chacun pour ce qui concerne les traitements dont ils ont la charge :
+
+1° les villes et communes ;
+
+2° le service chargé par le Gouvernement flamand de la politique du logement.
+
+Le service chargé par le Gouvernement flamand de la politique du logement est le responsable du traitement dans le cadre de l'application de l'article 3.60.]<sup>3</sup>
+
+Les responsables du traitement, visés dans le présent paragraphe, précisent dans leurs déclarations de vie privée respectives les traitements qu'ils prennent en charge. Dans un souci de transparence et de garantie des droits des personnes concernées, ils incluent dans leurs communications avec ces dernières une référence à l'emplacement de leurs déclarations de vie privée respectives.
+
+§ 3. Les catégories de données à caractère personnel qui peuvent être traitées en application du paragraphe 1 sont :
+
+1° les données d'identification personnelles, dont les coordonnées ;
+
+2° le numéro de registre national ;
+
+3° les caractéristiques du logement ;
+
+4° les données pénales ;
+
+5° les données en matière de poursuite [<sup>4</sup> , de sanction, de réparation et de sécurité administrative]<sup>4</sup>.
+
+[<sup>2</sup> 6° les données nécessaires pour vérifier si les dispositions que le Gouvernement flamand impose en application de l'article 3.5 sont respectées. ]<sup>2</sup>
+
+Le Gouvernement flamand peut préciser les catégories de données à caractère personnel, visées [<sup>2</sup> aux alinéas 1er et 3]<sup>2</sup>.
+
+§ 4. Le traitement des données à caractère personnel en application du paragraphe 1 est soumis à un délai de conservation :
+
+1° de 10 ans suivant la clôture d'un dossier administratif visé aux parties 2 à 8 du présent livre ;
+
+2° [<sup>4</sup> ...]<sup>4</sup>;
+
+3° [<sup>4</sup> ...]<sup>4</sup>.
+
+[<sup>3</sup> 4° de dix ans suivant l'expiration du label kot mentionné à l'article 3.59, § 2, du présent code, ou de dix ans suivant la décision de ne pas attribuer de label kot ;
+
+5° d'un an suivant la suppression d'une notification telle que mentionnée à l'article 3.60 du présent code ]<sup>3</sup>
+
+Dans l'année suivant l'expiration du délai visé à l'alinéa 1, les données à caractère personnel électroniques sont définitivement effacées et les documents papier contenant des données à caractère personnel sont détruits.
+
+[<sup>2</sup> Les données à caractère personnel mentionnées dans le paragraphe 3, alinéa 1er, 6°, peuvent être conservées pendant une période maximale de dix ans à compter de la fin de l'agrément d'un contrôleur du logement. Le Gouvernement flamand peut fixer une durée de conservation plus courte pour des données à caractère personnel spécifiques.]<sup>2</sup>
+
+§ 5. Les personnes impliquées dans le traitement de données à caractère personnel en application du paragraphe 1 sont :
+
+1° le détenteur du droit réel sur le logement ;
+
+2° le locataire ;
+
+3° le bailleur ;
+
+4° l'occupant ;
+
+5° les personnes impliquées dans le délit, visé au livre 3, partie 9, titre 1 ;
+
+6° les personnes de contact qui se sont identifiées comme telles.]<sup>1</sup>
+
+[<sup>2</sup> 7° les contrôleurs visés à l'article 3.5. ]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 54, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 29, 018; En vigueur : 09-06-2023&gt;
+
+(3)&lt;DCFL 2024-03-08/03, art. 10, 023; En vigueur : indéterminée &gt;
+
+(4)&lt;DCFL 2026-06-05/07, art. 41, 028; En vigueur : 08-09-2026&gt;
+
+**Art. 3.57**
+
+[<sup>1</sup> § 1.[<sup>2</sup> § 1er. Pour les logements suivants, l'agence chargée par le Gouvernement flamand de l'exécution de la politique du logement peut rendre accessible au public les données suivantes :
+
+1° pour les logements pour lesquels une attestation de conformité telle que visée à l'article 3.6 a été demandée ou délivrée ;
+
+2° pour les logements pour lesquels une procédure d'avertissement telle que visée à l'article 3.10 est en cours ;
+
+3° pour les logements pour lesquels une procédure de déclaration d'inadéquation et d'inhabitabilité, telle que visée à l'article 3.12, est en cours, y compris une procédure de recours telle que visée aux articles 3.14 et 3.15 ;
+
+4° pour les logements repris dans l'inventaire ;
+
+5° pour les logements dont l'inscription à l'inventaire est suspendue conformément à l'article 3.21, § 3.
+
+[<sup>3</sup> 6° pour les logements pour lesquels une procédure d'octroi d'un label kot flamand est suivie conformément à l'article 3.59, ou qui sont déclarés comme logements pour étudiants conformément à l'article 3.60.]<sup>3</sup>
+
+Les données visées à l'alinéa 1er peuvent être mises à disposition du public par voie numérique ou autre. La mise à disposition précitée peut contenir les informations suivantes :
+
+1° les données d'identification de ces logements, à l'exclusion des données d'identification de personnes ;
+
+2° des informations relatives à l'existence d'une attestation de conformité non échue ou à l'existence d'une demande de délivrance d'une attestation de conformité ;
+
+3° des informations relatives à l'existence d'un avertissement tel que visé à l'article 3.10 ;
+
+4° des informations relatives à l'existence d'une décision en cours déclarant une habitation inadaptée ou inhabitable, ou à l'existence d'une procédure de déclaration d'inadéquation et d'inhabitabilité, y compris une procédure de recours telle que visée aux articles 3.14 et 3.15 ;
+
+5° des informations relatives à l'existence d'une suspension d'une inscription à l'inventaire, telle que visée à l'article 3.21, § 3.
+
+[<sup>3</sup> 6° des informations relatives à la désignation en tant que logement pour étudiants ;
+
+7° des informations relatives à l'existence du label kot flamand avec mention des conditions qui ont été remplies et, le cas échéant, des informations relatives aux conditions communales en indiquant si elles ont été remplies ;
+
+8° des informations relatives au refus d'octroyer le label kot flamand avec mention des conditions qui ont été remplies ou non et, le cas échéant, des informations relatives aux conditions communales ;
+
+9° des informations indiquant que la procédure d'octroi d'un label kot flamand et, le cas échéant, la procédure des conditions communales, est en cours.]<sup>3</sup>
+
+La mise à disposition, visée aux alinéas 1er et 2, est possible au profit de toutes les personnes physiques ou morales, organisations, instances publiques, services ou autres organismes intéressés ou en tant que parties prenantes, tant à des fins commerciales que non commerciales. Pour la mise à disposition visée aux alinéas 1er et 2, l'agence visée à l'alinéa 1er peut faire appel à un prestataire de services public ou privé. Dans ce cas, l'agence précitée est le responsable du traitement visé à l'article 4, 7), du règlement général sur la protection des données, en ce qui concerne le transfert des données, et le prestataire de services est le responsable du traitement visé à l'article 4, 7), du règlement général sur la protection des données, en ce qui concerne la conservation et la publication.]<sup>2</sup>
+
+§ 2.[<sup>2</sup> § 2. Pour les logements visés au paragraphe 1er, le service chargé par le Gouvernement flamand de la politique du logement ou une commune peut également mettre les documents suivants à la disposition de la VMSW et des notaires et agents immobiliers impliqués dans la vente ou la location d'un logement :
+
+1° les décisions du bourgmestre ou du ministre de déclarer un logement inadéquat ou inhabitable ;
+
+2° les résultats de l'enquête de conformité, qui se déroule suivant la procédure visée à l'article 3.3 ;
+
+3° une copie du certificat de conformité délivré.
+
+La mise à disposition visée à l'alinéa 1er peut se faire par le biais d'une organisation professionnelle représentative, en vue de l'intégration des données dans un environnement numérique qu'elle met à la disposition de ses membres.
+
+Le service visé à l'alinéa 1er est le responsable du traitement pour ce qui est du transfert des données. La VMSW, les organisations professionnelles représentatives visées à l'alinéa 2, et les notaires et agents immobiliers requis sont le responsable du traitement pour ce qui est de leur traitement ultérieur. Les notaires et agents immobiliers peuvent à leur tour mettre les documents mis à disposition conformément à l'alinéa 1er ou 2 à la disposition des personnes impliquées dans le dossier pour lequel ces notaires ou agents immobiliers demandent les données précitées. ]<sup>4</sup>
+
+§ 3. Pour les logements visés au paragraphe 1 les résultats des constatations techniques les plus récentes, visées à l'article 3.3, peuvent être mis à disposition par les villes et les communes ou par l'agence chargée par le Gouvernement flamand de l'exécution de la politique du logement, agissant en tant que responsable du traitement, du détenteur du droit réel qui n'était pas impliqué dans la procédure d'inventaire ou de délivrance d'une attestation de conformité [<sup>2</sup> et de toute personne qui démontre que l'état technique du logement peut l'affecter directement et personnellement dans sa situation juridique]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>3</sup> § 4. Le service chargé par le Gouvernement flamand de la politique du logement peut mettre à la disposition de personnes morales privées qui proposent les services de ces contrôleurs les données à caractère personnel nécessaires à la bonne organisation et au suivi des enquêtes de conformité effectuées conformément à la procédure visée à l'article 3.3 et réalisées par des contrôleurs agréés conformément aux dispositions fixées par le Gouvernement flamand en vertu de l'article 3.5, alinéa 2. Les personnes morales privées susmentionnées sont les responsables du traitement des données à caractère personnel qu'elles reçoivent.
+
+§ 5. Le service chargé par le Gouvernement flamand de la politique du logement peut transmettre les données à caractère personnel qu'il traite dans le cadre de l'application de l'article 3.60 aux villes et communes pour le suivi de l'offre de logements pour étudiants. Le service chargé par le Gouvernement flamand de la politique du logement peut utiliser ces données à caractère personnel pour traitement statistique et les mettre à la disposition d'autres entités du domaine politique de l'Environnement et de l'Aménagement du Territoire. Le service chargé par le Gouvernement flamand de la politique du logement peut effectuer un traitement ultérieur de ces données à caractère personnel aux fins visées à l'article 1.5 qui sont compatibles avec les finalités initiales.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 55, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 30, 018; En vigueur : 09-06-2023&gt;
+
+(3)&lt;DCFL 2024-03-08/03, art. 11, 023; En vigueur : indéterminée &gt;
+
+## Partie 11. [<sup>1</sup> Label kot et notification de logement pour étudiants ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-08/03, art. 12, 023; En vigueur : indéterminée &gt;
+
+**Art. 3.58**
+
+[<sup>1</sup> Dans la présente partie, on entend par :
+
+1° étudiant : toute personne inscrite dans un établissement d'enseignement à temps plein ;
+
+2° logement pour étudiants : tout logement loué, mis en location ou mis à disposition dans le but de loger un ou plusieurs étudiants. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-08/03, art. 13, 023; En vigueur : indéterminée &gt;
+
+**Art. 3.59**
+
+[<sup>1</sup> § 1er. Par voie d'ordonnance, le conseil communal peut :
+
+1° déterminer qu'un logement pour étudiants peut recevoir le label kot visé au paragraphe 2 ;
+
+2° imposer le label kot, visé au paragraphe 2, pour mettre en location ou à disposition un logement pour étudiants.
+
+Le Gouvernement flamand peut arrêter des modalités relatives aux ordonnances communales visées à l'alinéa 1er.
+
+§ 2. Un label kot atteste que le logement pour étudiants remplit toutes les conditions suivantes :
+
+1° les exigences élémentaires en matière de sécurité, de santé et de qualité de l'habitat mentionnées à l'article 3.1 du présent code et, le cas échéant, les normes de sécurité et de qualité plus strictes que le conseil communal peut imposer conformément à l'article 3.2, alinéa 1er, 2°, du présent code ;
+
+2° les exigences de sécurité incendie dans les habitations ;
+
+3° le nombre de logements est autorisé ou réputé autorisé conformément au Code flamand de l'Aménagement du Territoire du 15 mai 2009.
+
+Le Gouvernement flamand détermine la procédure de demande, de traitement et d'octroi du label kot visé à l'alinéa 1er. Le Gouvernement flamand détermine la durée de validité du label kot visé à l'alinéa 1er, son aspect et les modalités de sa publication. La commune peut fixer des modalités plus précises.
+
+§ 3. Si le conseil communal dispose d'une ordonnance telle que mentionnée au paragraphe 1er, alinéa 1er, il peut imposer des conditions supplémentaires, qui ne portent pas atteinte au label kot visé au paragraphe 2, alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-08/03, art. 14, 023; En vigueur : indéterminée &gt;
+
+**Art. 3.60**
+
+[<sup>1</sup>Toute personne physique ou morale qui met en location ou à disposition un logement pour étudiants doit le notifier. La personne susmentionnée peut notifier que le logement pour étudiants n'est plus mis en location ou à disposition. Le Gouvernement flamand élabore plus avant l'obligation de notification susmentionnée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-08/03, art. 15, 023; En vigueur : indéterminée &gt;
+
+### Livre 4. Acteurs du logement
+
+## Partie 1. Organisations de logement social
+
+#### Titre 1. Dispositions communes
+
+**Art. 4.1**
+
+Les organisations de logement social poursuivent la réalisation du droit au logement en inscrivant leurs activités dans les objectifs spéciaux énoncés à l'article 1.6.
+
+Ils exécutent toutes les opérations explicitement liées à leur mission et aux autres aspects de la politique du logement social, auxquels ils doivent ou peuvent contribuer en vertu d'un décret ou d'un arrêté du Gouvernement flamand.
+
+**Art. 4.1/1**
+
+[<sup>1</sup> [<sup>5</sup> Si un initiateur tel que visé à l'article 4.13 cède des droits réels sur un logement locatif social, il réinvestit la valeur vénale du logement locatif social dans le secteur du logement social. S'il ne loue plus un logement locatif social, à l'exception des logements loués, conformément au livre 6, il réinvestit la valeur vénale du logement locatif social dans le secteur du logement social, sauf s'il ne loue plus le logement locatif social en raison de travaux de rénovation ou de démolition ou si le logement locatif social est loué comme chambre d'étudiant abordable]<sup>5</sup>.
+
+[<sup>5</sup> Si une société de logement ou la VMSW cède des droits réels sur une chambre d'étudiant abordable ou un logement locatif conventionné, la société de logement ou la VMSW réinvestit la valeur vénale de la chambre d'étudiant abordable ou du logement locatif conventionné dans le secteur du logement social. Si une société de logement ou la VMSW ne loue plus une chambre d'étudiant abordable ou un logement locatif conventionné conformément au présent décret, elle réinvestit la valeur vénale de la chambre d'étudiant abordable ou du logement locatif conventionné dans le secteur du logement locatif, sauf si elle ne loue plus la chambre d'étudiant abordable ou le logement locatif conventionné en raison de travaux de rénovation ou de démolition ou si elle loue la chambre d'étudiant abordable ou le logement locatif conventionné conformément au livre 6.]<sup>5</sup>
+
+L'initiateur [<sup>5</sup> , visé à l'alinéa 1er,]<sup>5</sup> satisfait à l'obligation de réinvestissement visée à l'alinéa 1 dans un délai maximum de cinq ans,[<sup>4</sup> à compter du jour où il ne loue plus le logement locatif social selon les dispositions du livre 6]<sup>4</sup> [<sup>5</sup> . Une société de logement ou la VMSW satisfait à l'obligation de réinvestissement, visée à l'alinéa 2, dans un délai maximum de cinq ans à compter du jour où la société de logement ou la VMSW ne loue plus le logement locatif conventionné ou la chambre d'étudiant abordable conformément au présent décret.]<sup>5</sup> Le Gouvernement flamand arrête les modalités selon lesquelles il doit être satisfait à l'obligation de réinvestissement.
+
+L'initiateur qui prend la décision de ne plus louer, selon les dispositions du livre 6, un logement locatif social financé avec des subventions ou des prêts subventionnés durant la période d'engagement, par dérogation aux régimes de subvention en vigueur, n'est pas tenu au remboursement des subventions octroyées pour ce logement s'il satisfait à l'obligation de réinvestissement visée à l'alinéa 1.[<sup>3</sup> La société de logement qui décide de ne plus louer une chambre d'étudiant abordable financée par des subventions ou des prêts subventionnés en vertu du présent décret, alors que la période d'engagement n'a pas encore expiré, n'est pas tenue, par dérogation aux régimes de subventionnement en vigueur, de rembourser les subventions qui ont été accordées pour cette chambre d'étudiant [<sup>5</sup> si l'obligation de réinvestissement visée à l'alinéa 2]<sup>5</sup>, a été respectée.]<sup>3</sup> Le Gouvernement flamand fixe les modalités selon lesquelles l'initiateur démontre qu'il satisfait [<sup>5</sup> à l'obligation de réinvestissement visée aux alinéas 1er et 2 afin]<sup>5</sup> de ne pas être tenu au remboursement de la subvention.
+
+La décision d'infliger une amende administrative conformément aux articles 4.89 et 4.90 pour non-respect de l'obligation de réinvestissement peut faire l'objet d'un recours introduit selon les modalités arrêtées par le Gouvernement flamand dans un délai de trente jours suivant la notification du contrôleur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 56, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 15, 010; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2023-12-22/12, art. 25, 016; En vigueur : 01-01-2024&gt;
+
+(4)&lt;DCFL 2023-04-21/08, art. 31, 018; En vigueur : 20-09-2021&gt;
+
+(5)&lt;DCFL 2026-02-27/17, art. 20, 027; En vigueur : 30-03-2026&gt;
+
+**Art. 4.1/2**
+
+[<sup>1</sup> Par dérogation à l'article 4.1/1, alinéa 1er, l'obligation de réinvestissement ne s'applique pas si toutes les conditions suivantes sont remplies :
+
+1° le logement locatif social ne satisfait aux exigences énoncées à l'article 3.1 ;
+
+2° l'initiateur tel que visé à l'article 4.13 cède le logement locatif social en emphytéose ;
+
+3° le bail emphytéotique ne comporte pas de droit d'achat ou d'option d'achat ;
+
+4° l'emphytéote s'engage à rénover le logement te pour qu'il satisfasse aux exigences énoncées à l'article 3.1 ;
+
+5° l'emphytéote s'engage à louer le logement rénové visé au point 4° à la société de logement de la zone d'activité dans laquelle le logement se trouve ;
+
+6° la société de logement visée au point 5° s'engage à louer et mettre en location le logement rénové visé au point 4° conformément à sa mission visée à l'article 4.40, 4° ;
+
+7° les conditions complémentaires que le Gouvernement flamand peut fixer.
+
+Il est également satisfait à la condition visée à l'alinéa 1er, 4°, si le logement est démoli et qu'un nouveau logement est construit sur la même parcelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-04-21/08, art. 32, 018; En vigueur : 20-09-2021&gt;
+
+**Art. 4.2**
+
+§ 1. Sur proposition de [<sup>1</sup> le service chargé par le Gouvernement flamand de la politique du logement]<sup>1</sup> et après consultation des représentants des organisations de logement social et des villes et communes, le Gouvernement flamand fixe des normes et des directives techniques et conceptuelles pour la construction, la rénovation, l'amélioration et l'adaptation des logements sociaux [<sup>2</sup> ...]<sup>2</sup> [<sup>3</sup> et des chambres d'étudiant abordables, ]<sup>3</sup> et l'aménagement ou l'adaptation de l'infrastructure de logement pour les projets de logement social.
+
+À la demande d'un initiateur ou de sa propre initiative, [<sup>1</sup> le service chargé par le Gouvernement flamand de la politique du logement]<sup>1</sup> émet un avis sur la conformité ou non des opérations dans le cadre de projets de logement social [<sup>3</sup> , ou de projets pour des chambres d'étudiant abordables,]<sup>3</sup> aux normes et aux directives visées au premier alinéa. Dans les conditions et selon la procédure déterminées par le Gouvernement flamand, [<sup>1</sup> le service chargé par le Gouvernement flamand de la politique du logement]<sup>1</sup> peut accorder, par dossier, des dérogations aux directives.
+
+§ 2. Il est créé une chambre de qualité. La chambre de qualité statue sur les demandes d'accorder, indépendamment d'un projet concret, des dérogations aux lignes directives visées au paragraphe 1, premier alinéa, et sur les recours contre les avis défavorables de [<sup>1</sup> le service chargé par le Gouvernement flamand de la politique du logement]<sup>1</sup>, conformément au paragraphe 1, alinéa deux. Le Gouvernement flamand précise les modalités de la composition, de l'organisation et du fonctionnement de la chambre de qualité.
+
+[<sup>1</sup> § 3. Le service chargé par le Gouvernement flamand de la politique du logement évalue la conformité aux normes de prix et de qualité applicables aux sociétés de logement social des logements créés par des acteurs privés dans le cadre d'un contrat de vente-achat avec une société de logement social qui, après leur reprise, louera les logements comme logements locatifs sociaux ou les cédera comme logements acquisitifs sociaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 16, 010; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 33, 018; En vigueur : 30-06-2023&gt;
+
+(3)&lt;DCFL 2026-02-27/17, art. 21, 027; En vigueur : 30-03-2026&gt;
+
+**Art. 4.3**
+
+Lorsque l'exécution d'une opération, telle que visée dans la présente partie, nécessite l'évacuation de logements, l'initiateur est tenu de reloger, dans les conditions fixées par le Gouvernement flamand, les occupants qui remplissent les conditions fixées sur la base du livre 6, partie 4, et les occupants d'un logement appartenant à une organisation de logement social ou à l'initiateur.
+
+**Art. 4.4**
+
+Les organisations de logement social fournissent de leur propre initiative ou sur demande toute information utile au Gouvernement flamand.
+
+Les organisations de logement social sont soumises aux dispositions décrétales en matière de publicité passive applicable en Région flamande en vertu de l'article 32 de la Constitution. Les organisations de logement social traitent les plaintes conformément aux dispositions du titre II, chapitre 5 du Décret de Gouvernance du 7 décembre 2018. Elles sont également soumises aux dispositions du décret du 7 juillet 1998 instaurant le service de médiation flamand.
+
+**Art. 4.5**
+
+Pour l'établissement de rapports d'expertise, dans le cadre de transactions immobilières en vertu du présent code, les organisations de logement social font appel à une des personnes ou instances suivantes :
+
+1° [<sup>3</sup> un estimateur-négociateur]<sup>3</sup> du Service flamand des Impôts qui est compétent pour les estimations ;
+
+2° un notaire ;
+
+3° un géomètre-expert, après accord commun sur l'estimateur ;
+
+4° [<sup>2</sup> un fonctionnaire autorisé par le service chargé par le Gouvernement flamand de la politique du logement, lorsque ce service n'est pas lui-même partie à la transaction immobilière pour laquelle le rapport d'expertise est établi]<sup>2</sup>.
+
+L'estimation de la valeur d'un bien immeuble par une personne ou instance visée à l'alinéa premier, 1° [<sup>1</sup> , prime sur l'estimation d'un bien immeuble par une personne ou instance visée à l'alinéa 1, 2°, 3° et 4°]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 57, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 17, 010; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2022-11-10/26, art. 7, 011; En vigueur : 04-03-2023&gt;
+
+**Art. 4.6**
+
+Le Gouvernement flamand veille à ce que :
+
+1° les opérations des organisations de logement social soient coordonnées avec et intégrées dans la politique du logement flamande et communale ;
+
+2° les organisations de logement social tiennent compte dans leur fonctionnement des objectifs spécifiques de la politique du logement, visés à l'article 1.6, et coopèrent, tant mutuellement qu'avec d'autres instances qui sont actives au niveau local dans le domaine du logement ;
+
+3° les organisations de logement social exécutent leurs missions.
+
+[<sup>1</sup> Il est créé une base de données contenant des informations sur les prestations des organisations de logement social et d'autres instances agréées par le Gouvernement flamand. Le Gouvernement flamand définit le but, le contenu, la consultation, l'utilisation et l'obtention des données traitées de la base de données.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 18, 010; En vigueur : 01-01-2023&gt;
+
+#### Titre 2. Société flamande du Logement social
+
+##### Chapitre 1. Création et organisation
+
+**Art. 4.7**
+
+Une Société flamande de Logement social, ci-après appelée VMSW, est créée en tant qu'agence autonomisée externe de droit public telle que visée à l'article III. 7 du Décret de gouvernance du 7 décembre 2018, ci-après appelé le Décret de gouvernance.
+
+La VSMW est dotée de la personnalité juridique et sera créée sous forme d'une société anonyme, sans perdre son caractère civil. La VMSW est successeur légal de la Société flamande du Logement, créée par décret du 21 décembre 1988 portant création de la Société flamande du Logement.
+
+Le statut juridique de la VMSW est réglé par le Décret de gouvernance, par le présent code et par ses statuts. Les dispositions [<sup>1</sup> du Code des sociétés et associations]<sup>1</sup> relatives aux société anonymes s'appliquent à la VMSW pour tout ce qui n'est pas réglé par le Décret de gouvernance, le présent code, les lois et décrets instaurant pour la Région flamande et les institutions qui en relèvent un règlement en matière de budget, de comptabilité, d'organisation du contrôle et de contrôle des subventions, ou par ses statuts, et ce pour autant que ces dispositions relatives aux sociétés anonymes ne soient pas contradictoires aux règlements décrétaux ou légaux précités.
+
+[<sup>1</sup> La Région flamande dispose à tout moment de l'intégralité du capital de la VMSW]<sup>1</sup>.
+
+Les statuts de la VMSW sont fixés dans un acte authentique portant conversion de la Société flamande du Logement en l'agence autonomisée externe Société flamande du Logement social. Les statuts sont soumis à l'approbation du Gouvernement flamand. Ils ne peuvent être modifiés qu'avec l'approbation du Gouvernement flamand.
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 19, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 4.8**
+
+[<sup>1</sup> La VMSW est administrée par un conseil d'administration Le conseil d'administration compte au trois membres dont un président. Par dérogation aux articles III.10 et III.44 du décret de gouvernance du 7 décembre 2018, le conseil d'administration est composé, de droit et pour une durée indéterminée, des membres suivants :
+
+1° le fonctionnaire dirigeant du service chargé par le Gouvernement flamand de la politique du logement. Il est le président ;
+
+2° deux membres du personnel du service chargé par le Gouvernement flamand de la politique du logement. Le Gouvernement flamand définit le profil de fonction de ces membre du personnel.
+
+Les membres du conseil d'administration ne reçoivent aucune rémunération pour leurs mandats de membres du conseil d'administration.
+
+Par dérogation à l'article III.40 du décret gouvernance du 7 décembre 2018, aucun administrateur indépendant ne sera nommé au conseil d'administration de la VMSW.
+
+Sans préjudice de l'application de l'article III.12 du Décret de gouvernance du 7 décembre 2018, le mandat d'administrateur est incompatible avec la qualité de président, d'administrateur ou de titulaire d'une fonction de direction dans une autre organisation de logement social.
+
+Sauf si la loi, le décret ou les statuts l'excluent, le conseil d'administration peut déléguer ses pouvoirs à un ou plusieurs de ses membres ou aux membres du personnel du service chargé par le Gouvernement flamand de la politique du logement, qui exécuteront les missions de la VMSW conformément à l'article 4.9 du présent code.
+
+Par dérogation à l'article III.9 du Décret de gouvernance du 7 décembre 2018, il n'est pas procédé à la nomination d'un administrateur délégué ou d'un chef de l'agence.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 20, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 4.9**
+
+[<sup>1</sup> Le service chargé par le Gouvernement flamand de la politique du logement exécute les missions confiées à la VMSW par ou en exécution du présent Code ou d'autres décrets.
+
+Par dérogation à l'article III.61, § 1, du décret de gouvernance du 7 décembre 2018, le Gouvernement flamand adopte, sur proposition du chef du service chargé par le Gouvernement flamand de la politique du logement, un plan d'entreprise commun à ce service et à la VMSW.
+
+Par dérogation à l'article III.62, alinéa 1, du décret de gouvernance du 7 décembre 2018, un rapport annuel sur la mise en oeuvre du plan d'entreprise est établi conformément à l'alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 21, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 4.10**
+
+Le Gouvernement flamand détermine le domaine politique homogène dont relève la VMSW.
+
+**Art. 4.11**
+
+La durée de la VMSW est indéterminée. La VMSW ne peut être dissoute que par un décret. Ce décret fixe également le mode et les conditions de liquidation.
+
+**Art. 4.12**
+
+La VMSW est autorisée à participer au régime de pensions instauré par la loi du 28 avril 1958 relative à la pension des membres du personnel de certains organismes d'intérêt public et de leurs ayants droit.
+
+##### Chapitre 2. Missions
+
+**Art. 4.13**
+
+[<sup>1</sup> La VMSW est chargée de l'exécution du programme d'investissement visé à l'article 2.22, § . 1. A cette fin, elle soutient les organisations de logement social, les communes, les partenariats intercommunaux, les CPAS et les associations d'aide sociale, dans la réalisation des projets de logement social et dans la gestion de leur patrimoine de logement, axée sur la qualité et les coûts, pour autant que les acteurs précités tiennent compte dans leur fonctionnement des objectifs particuliers de la politique du logement mentionnés à l'article 1.6.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 22, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 4.14**
+
+La VMSW est chargée de l'exécution d'une ou plusieurs missions visées à l'article 49, § 3, 3° du décret du 25 juin 1992 contenant diverses dispositions d'accompagnement du budget 1992. À cette fin, le Gouvernement flamand peut conclure un accord avec la VMSW pour en définir les conditions. La VMSW peut recevoir, à charge du budget de la Région flamande, une indemnisation annuelle pour l'exécution de ces missions.
+
+**Art. 4.15**
+
+[<sup>1</sup> § 1. La VMSW a pour mission d'accorder, en vue de la réalisation de la politique foncière et du logement dans le Brabant flamand, des prêts sans intérêts à Vlabinvest apb, créé par l'article 1 de l'arrêté du conseil provincial du Brabant flamand du 22 octobre 2013.
+
+Vlabinvest apb utilise les prêts visés à l'alinéa 1 exclusivement pour la réalisation de sa mission, telle que visée à l'article 3 de l'arrêté du conseil provincial du Brabant flamand du 22 octobre 2013, et ce, des manières suivantes :
+
+1° pour le financement des opérations de construction réalisées par Vlabinvest apb de sa propre initiative.
+
+2° pour l'octroi de prêts destinés au financement d'opérations de construction aux initiateurs, notamment :
+
+a) une société de logement ;
+
+b) une commune ou un partenariat intercommunal ;
+
+c) un CPAS ou une association telle que visée à la partie 3, titre 4, chapitre 2, du décret du 22 décembre 2017 sur l'administration locale ;
+
+d) le VWF ;
+
+e) la province du Brabant flamand.
+
+Le Gouvernement flamand fixe les autres conditions générales dans lesquelles les prêts visés à l'alinéa 1 sont octroyés à Vlabinvest apb.
+
+La VMSW verse les intérêts reçus des prêts accordés, avant le 1 janvier 2014, par le Fonds d'Investissement pour la Politique foncière et du Logement au Brabant flamand, et qu'elle reçoit dans la courant d'une année civile, en tant que subvention à Vlabinvest apb le 31 décembre de la même année civile.
+
+La VMSW peut soutenir Vlabinvest apb dans l'évaluation des opérations de construction à financer visées à l'alinéa 2, et peut en échange convenir d'une indemnité. Le VMSW peut utiliser cette indemnité pour ses frais de fonctionnement.
+
+§ 2. Pour l'octroi de prêts sans intérêt à Vlabinvest apb, visé au paragraphe 1, alinéa 1, une autorisation d'engagement est inscrite chaque année au budget général des dépenses, qui est limitée à la somme de :
+
+1° l'autorisation d'engagement annuel et forfaitaire de 3.856.000 euros, à partir de l'année budgétaire 2021, à adapter annuellement au moins avec les paramètres d'indexation appliqués dans le budget de la Région flamande ;
+
+2° une autorisation d'engagement variable à concurrence de la somme des remboursements reçus des prêts :
+
+a) accordée aux initiateurs avant le 1 janvier 2014 par le Fonds d'investissement pour la Politique foncière et du logement du Brabant flamand, à l'exception des intérêts dus sur ces prêts ;
+
+b) accordée à Vlabinvest apb à partir du 1 janvier 2014 par le Fonds flamand de Financement de la Politique foncière et du Logement pour le Brabant flamand ;
+
+c) accordée à Vlabinvest apb par la VMSW en application du présent article ;
+
+3° la partie restante, au 31 décembre de l'année budgétaire précédente, du solde non imposé converti en autorisation d'engagement des moyens non utilisés par le Fonds flamand de Financement de la Politique foncière et du Logement pour le Brabant flamand au 31 décembre 2022. Le solde non imposé des moyens non utilisés comprend les moyens liquides et les dotations encore exigibles, ainsi que les autres recettes et dépenses réelles imputées à l'exécution budgétaire pour l'exercice 2022, mais qui, à la fin 2022, doivent encore être payées, moins la partie non encore prélevée des prêts octroyés par contrat avant le 1 janvier 2023 ;
+
+4° le solde non utilisé des autorisations d'engagement de l'exercice précédent visé aux points 1° et 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 23, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 4.16**
+
+La subvention visée aux articles 5.20 et 5.21 et les subventions visées aux articles 80, g4, g5 ou g5 du Code du Logement, annexé à l'arrêté royal du 10 décembre 1g70 et ratifié par la loi du 2 juillet 1g71, ou au titre 3, chapitre 1, titre 4, chapitre 1, titres 5 et 6 du livre 5, partie 2, peuvent être mises à la disposition de la VMSW qui, dans ce cas, est chargée de leur distribution aux initiateurs. Le Gouvernement flamand détermine les conditions dans lesquelles la subvention est mise à la disposition de la VMSW.
+
+[<sup>1</sup> L'indemnité, visée à l'article 6.3/2, alinéa 2, peut être mise à disposition de la VMSW, laquelle est chargée dans ce cas de sa redistribution aux bailleurs de logements locatifs sociaux. Le Gouvernement flamand peut arrêter les conditions dans lesquelles cette indemnité est mise à disposition de la VMSW.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 58, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.17**
+
+[<sup>1</sup> La VMSW a les tâches suivantes :
+
+1° prendre en charge les activités TIC liées aux tâches de la VMSW ;
+
+2° assurer la gestion des moyens financiers des sociétés de logement qui ne sont pas nécessaires à leur fonctionnement quotidien, conformément à un règlement fixé par le Gouvernement flamand après concertation avec la VMSW et les sociétés de logement ;
+
+3° aménager des infrastructures de logement tel que visé à l'article 5.23 ;
+
+4° réaliser elle-même des projets de logement qui soit son innovateurs ou expérimentaux, soit, nécessaires à l'exécution du programme d'investissement visé à l'article 2.22, § 1, à défaut d'initiatives d'acteurs tels que visés à l'article 4.13 ou d'initiateurs tels que visés à l'article 5.29 ;
+
+5° mettre en oeuvre des mesures de politique foncière jugées nécessaires pour maintenir ou promouvoir un logement de haute qualité dans les zones à déterminer par le Gouvernement flamand ;
+
+Le Gouvernement flamand définit la notion de " mesures de politique foncière jugées nécessaires pour maintenir ou promouvoir un logement de haute qualité ", mentionnée à l'alinéa 1, 5°.]<sup>1</sup>
+
+[<sup>3</sup> 6° payer les subventions, visées à l'article 4.42, § 4, et à l'article 5.52/1, alinéa 2.]<sup>3</sup>
+
+[<sup>2</sup> 7° gérer le fonds de solidarité visé à l'article 4.46/1/1 ]<sup>2</sup>
+
+[<sup>2</sup> 8° octroyer des prêts sans intérêt aux établissements d'enseignement supérieur pour la réalisation de logements étudiants abordables, dans les conditions déterminées par le Gouvernement flamand.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 24, 010; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFL 2023-12-22/12, art. 26, 016; En vigueur : 01-01-2024&gt;
+
+(3)&lt;DCFL 2023-06-30/07, art. 9, 020; En vigueur : 08-09-2023&gt;
+
+**Art. 4.18**
+
+La VMSW tient un registre de tous les logements locatifs sociaux des agences locatives sociales agréées. Ce registre est périodiquement mis à jour sur la base des informations fournies par les [<sup>1</sup> sociétés de logement]<sup>1</sup> agréées.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 60, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.19**
+
+[<sup>1</sup> La VMSW gère les projets lancés par le Fonds de Garantie du Logement avant le 1 janvier 2020. Dans ce cadre, la VMSW a les missions suivantes :
+
+1° payer les arriérés de loyer pour des logements aux conditions à déterminer par le Gouvernement flamand ;
+
+2° payer les loyers en cas d'inoccupation pour des logements aux conditions à déterminer par le Gouvernement flamand ;
+
+3° le financement des travaux, notamment des travaux d'infrastructure, la viabilisation de parcelles, la création de structures communautaires et de centres de quartier, y compris tous les actes y afférents, pour autant qu'ils s'inscrivent dans le cadre d'un projet de logement aux conditions à déterminer par le Gouvernement flamand ;
+
+4° l'acquisition de droits réels sur des terrains ou autres biens immeubles sur lesquels un initiateur construit des logements, qui sont entièrement ou partiellement destinés à des projets de logement dans la mesure où cela n'est pas fait par un tiers, ou le financement de tels droits réels, aux conditions à déterminer par le Gouvernement flamand ;
+
+5° acquérir des logements aux conditions à déterminer par le Gouvernement flamand ;
+
+6° le financement de la valeur actuelle des logements à la fin des droits réels, visés au point 4°, dans les conditions à fixer par le Gouvernement flamand ;
+
+7° le paiement d'indemnités pour des logements aux conditions à déterminer par le Gouvernement flamand.
+
+A l'alinéa 1, on entend par initiateur les initiateurs visés à l'article 5.26, § 1, et les initiateurs visés à l'article 5.29.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 25, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 4.20**
+
+§ 1. À la demande du bailleur sur le marché locatif privé qui a conclu un contrat de location avec une [<sup>1</sup> société de logement, la VMSW prend en charge l'obligation de payer le loyer s'il est établi que la société de logement]<sup>1</sup> n'a pas payé le loyer au jour convenu dans le contrat de location et si le loyer convenu ne dépasse pas la limite de loyer fixée par le Gouvernement flamand en vue d'obtenir une intervention en vertu de l'article 5.73.
+
+La VMSW prend en charge l'obligation de payer le loyer pendant un maximum de neuf mois consécutifs.
+
+La VMSW se substitue de plein droit aux droits du bailleur.
+
+§ 2. Le bailleur adresse par envoi sécurisé à la VMSW une demande accompagnée de la preuve que [<sup>1</sup> la société de logement]<sup>1</sup> n'a pas payé la créance d'une indemnité locative qui, selon le contrat de location en question, est due et qui n'a pas été contestée.
+
+Au plus tard un mois après la demande de paiement, la VMSW notifie au bailleur si la demande est acceptée et si le paiement peut être ordonnancé. La décision de ne pas donner suite à la demande ne peut être prise que si une ou plusieurs des circonstances suivantes se sont produites :
+
+1° le bailleur a fait des déclarations incorrectes ou a fourni des documents incorrects ;
+
+2° le bailleur a agi contrairement à la présente disposition ou aux dispositions de l'arrêté portant exécution de la présente disposition ;
+
+3° le bailleur n'apporte pas la preuve visée au premier alinéa.
+
+Les dispositions du décret du 7 mai 2004 contenant des dispositions relatives à la gestion de la trésorerie, de la dette et de la garantie de la Communauté flamande et de la Région flamande, ne s'appliquent pas à la présente disposition.
+
+Le Gouvernement flamand détermine les conditions supplémentaires et les règles de procédure pour la prise en charge de l'obligation de payer le loyer.
+
+§ 3. Si [<sup>1</sup> la société de logement]<sup>1</sup> ne rembourse pas les sommes versées au bailleur par la VMSW en application du paragraphe 1, premier alinéa sur simple demande de la VMSW, elles seront recouvrées au moyen d'une contrainte établie, visée et déclarée exécutoire par les agents désignés en application de l'article 5.4.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 62, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.21**
+
+§ 1. À la demande du bailleur sur le marché locatif privé qui a conclu un contrat de location avec une [<sup>1</sup> société de logement]<sup>1</sup>, la VMSW prend en charge l'obligation de verser une indemnisation pour les dommages locatifs découlant d'une décision de justice passée en force de chose jugée, lorsqu'il est établi que [<sup>1</sup> la société de logement]<sup>1</sup> n'a pas versé l'indemnisation au jour stipulé dans la décision de justice.
+
+La VMSW se substitue de plein droit aux droits du bailleur.
+
+§ 2. Le bailleur adresse une demande par envoi sécurisé à la VMSW, en joignant une copie de la décision de justice visée au paragraphe 1, premier alinéa.
+
+Au plus tard un mois après la demande de paiement, la VMSW notifie au bailleur si la demande est acceptée et si le paiement peut être ordonnancé. La décision de ne pas donner suite à la demande ne peut être prise que si une ou plusieurs des circonstances suivantes se sont produites :
+
+1° le bailleur a fait des déclarations incorrectes ou a fourni des documents incorrects ;
+
+2° le bailleur a agi contrairement à la présente disposition ou aux dispositions de l'arrêté portant exécution de la présente disposition ;
+
+3° le bailleur ne joint pas la copie de la décision de justice visée au premier alinéa.
+
+Les dispositions du décret du 7 mai 2004 contenant des dispositions relatives à la gestion de la trésorerie, de la dette et de la garantie de la Communauté flamande et de la Région flamande, ne s'appliquent pas à la présente disposition.
+
+Le Gouvernement flamand détermine les conditions supplémentaires et les règles de procédure pour la prise en charge de l'obligation de payer l'indemnisation des dommages locatifs.
+
+§ 3. Si [<sup>1</sup> la société de logement]<sup>1</sup> ne rembourse pas les sommes versées au bailleur par la VMSW en application du paragraphe 1, premier alinéa sur simple demande de la VMSW, elles seront recouvrées au moyen d'une contrainte établie, visée et déclarée exécutoire par les agents désignés en application de l'article 5.4.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 63, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.22**
+
+§ 1. [<sup>2</sup> § 1er. La VMSW peut effectuer les opérations suivantes d'un commun accord avec les parties concernées :
+
+1° reprendre un contrat de bail conclu entre une société de logement qui a été agréée conformément à l'article 4.36 du présent Code ou à l'article 206 du décret du 9 juillet 2021 portant modification de divers décrets relatifs au logement et un ou plusieurs bailleurs sur le marché locatif privé. Seuls les contrats de bail dont le loyer convenu ne dépasse pas la limite de loyer fixée par le Gouvernement flamand pour l'obtention d'une intervention accordée en vertu de l'article 5.73 peuvent être repris ;
+
+2° céder un contrat de bail repris par la VMSW conformément au point 1° à une société de logement qui a été agréée conformément à l'article 4.36 du présent Code ou à l'article 206 du décret du 9 juillet 2021 portant modification de divers décrets relatifs au logement.]<sup>2</sup>.
+
+----------
+
+----------
+
+§ 2. Sans préjudice de l'application du paragraphe 1, 2° et dans les conditions visées à l'article 4.58, la VMSW est subrogée dans les droits et obligations de [<sup>1</sup> la société de logement]<sup>1</sup> découlant d'un contrat conclu entre [<sup>1</sup> la société de logement]<sup>1</sup> et un ou plusieurs bailleurs sur le marché locatif privé.
+
+§ 3. Dans le cas visé au paragraphe 1, 1°, la VMSW reprend les contrats de sous-location conclus entre [<sup>1</sup> la société de logement]<sup>1</sup> et un ou plusieurs sous-locataires d'un logement locatif social.
+
+La VMSW peut, dans les cas visés au paragraphe 1, 1°, et au paragraphe 2, sous¬louer les logements faisant l'objet du contrat repris à un ou plusieurs locataires qui utilisent le bien comme résidence principale. La VMSW fait appel au [<sup>4</sup> registre d'inscription central visé à l'article 6.5]<sup>4</sup>]<sup>1</sup> pour l'attribution aux nouveaux sous-locataires. Lors de l'attribution du logement locatif social, elle applique la méthodologie utilisée par les [<sup>1</sup> sociétés de logement]<sup>1</sup>.
+
+[<sup>1</sup> Dans le cas visé au paragraphe 1, 2°, la société de logement qui a repris les contrats de location de la VMSW reprend les contrats de sous-location que la VMSW avait repris ou conclu. [<sup>3</sup> ...]<sup>3</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 64, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 34,1°, 018; En vigueur : 09-06-2023&gt;
+
+(3)&lt;DCFL 2023-04-21/08, art. 34,2°, 018; En vigueur : indéterminée &gt;
+
+(4)&lt;DCFL 2024-03-08/03, art. 16, 023; En vigueur : 19-04-2024&gt;
+
+**Art. 4.23**
+
+La VMSW peut recevoir une allocation annuelle à charge du budget de la Région flamande pour l'exécution des missions des [<sup>1</sup> sociétés de logement]<sup>1</sup> visées aux articles [<sup>2</sup> ...]<sup>2</sup> 4. 20 et 4. 22.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 65, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 26, 010; En vigueur : 01-01-2023&gt;
+
+##### Chapitre 3. Compétences
+
+**Art. 4.24**
+
+Afin de réaliser des objectifs liés à l'offre de logement social, à [<sup>3</sup> l'offre de logements locatifs conventionnés]<sup>3</sup> ou à la réalisation d'équipements communautaires qui ont un lien identifiable avec des logements sociaux voisins déjà existants ou à réaliser, visés à l'article [<sup>2</sup> 2.22, § 2]<sup>2</sup> la VMSW peut :
+
+1° acquérir des droits réels sur tous les biens immeubles nécessaires au logement social et à l'acquisition de biens immeubles, ou louer des biens immeubles ;
+
+2° avancer des ressources financières aux initiateurs visés à l'article 4.13[<sup>2</sup> ...]<sup>2</sup> ;
+
+3° démolir et ériger des bâtiments ;
+
+4° rénover, améliorer, adapter, aménager et mettre en location les bâtiments sur lesquels elle a un droit réel ou personnel ;
+
+5° imposer l'obligation de bâtir aux ménages et isolés mal logés auxquels elle transfère des droits réels sur des biens immeubles et leur imposer des servitudes afin de préserver l'apparence et l'aménagement fonctionnel de groupes de logements ;
+
+6° [<sup>2</sup> ...]<sup>2</sup>
+
+7° conclure des contrats relatifs à des biens immeubles sur lesquels ou dans lesquels sont réalisés des projets de logement dans le secteur privé, tels que visés à l'article 5.29
+
+8° céder des droits réels immobiliers aux entités visées à l'article 4.27, premier alinéa [<sup>1</sup> ...]<sup>1</sup>t dans le cadre de la réalisation de logements étudiants abordables, aux établissements d'enseignement supérieur .
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 66, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 27, 010; En vigueur : 01-01-2023&gt;
+
+----------
+
+(3)&lt;DCFL 2023-04-21/08, art. 35, 018; En vigueur : 30-06-2023&gt;
+
+**Art. 4.25**
+
+Dans les conditions déterminées par le Gouvernement flamand, la VMSW, dans le cadre de sa mission telle que visée à l'article [<sup>2</sup> 4.17, premier alinéa, 5°]<sup>2</sup>, peut :
+
+1° établir des droits réels sur tous les biens immeubles nécessaires à la réalisation de projets offrant un mélange, d'une part, de logements locatifs sociaux, de logements acquisitifs sociaux ou de lots sociaux et, d'autre part :
+
+a) de logements locatifs, de logements acquisitifs ou de lots, financés par Vlabinvest apb
+
+b) d'une [<sup>3</sup> offre de logements locatifs conventionnés]<sup>3</sup> ;
+
+c) de chambres d'étudiants ;
+
+d) de structures de soins telles que visées à l'article 1.3, § 1, alinéa premier, 75° ;
+
+e) de logements du secteur privé ;
+
+f) de bâtiments à fonction spécifique des personnes morales publiques et semi-publiques
+
+2° louer les biens immeubles énumérés au 1° ;
+
+3° vendre ou mettre en location les biens immeubles qu'elle a acquis par application du 1°, aux [<sup>1</sup> sociétés de logement]<sup>1</sup>, à Vlabinvest apb ou, pour une fonction spécifique, aux initiateurs des projets visés au 1°, ou en céder les droits réels ;
+
+4° octroyer des prêts à taux d'intérêt réduit aux initiateurs visés à l'article 4.13,[<sup>2</sup> ...]<sup>2</sup> et à Vlabinvest apb pour l'acquisition des biens immeubles visés au 1°, pour la réalisation de logements locatifs sociaux.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 67, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 28, 010; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2023-04-21/08, art. 36, 018; En vigueur : 30-06-2023&gt;
+
+**Art. 4.26**
+
+Le Gouvernement flamand peut autoriser la VMSW et les [<sup>1</sup> sociétés de logement]<sup>1</sup> à exproprier des biens immeubles lorsqu'il estime que l'acquisition des biens en question est nécessaire dans l'intérêt public.
+
+En cas d'expropriation de terrains non bâtis, cette autorisation est accordée de préférence pour des terrains situés dans une zone de rénovation ou de construction résidentielle.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 68, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.27**
+
+La VMSW vend ses biens immeubles publiquement. Elles ne peut les vendre de gré à gré qu'aux parties suivantes :
+
+1° les [<sup>1</sup> sociétés de logement]<sup>1</sup> ;
+
+2° les communes, les régies communales autonomes visées au titre VII, chapitre II, section II du Décret communal du 15 juillet 2005, les partenariats intercommunaux, le Fonds flamand du Logement, les centres publics d'aide sociale ou les associations d'aide sociale, à des fins liées à l'offre de logement social, à l'offre locative modeste ou à la réalisation d'équipements communautaires ayant un lien identifiable avec des logements sociaux voisins déjà existants ou à réaliser ;
+
+3° les initiateurs et partenaires des projets visés à l'article 4.25, 1°, dans les conditions fixées par le Gouvernement flamand ;
+
+4° d'autres personnes, pour autant que les biens immeubles en question ne sont plus utiles à l'habitation, et qu'une vente publique ne rapporte pas la valeur vénale ou que les frais d'une vente publique ne sont pas proportionnels à la valeur vénale et pour autant qu'il soit satisfait aux conditions fixées par le Gouvernement flamand ;
+
+5° Vlabinvest apb.
+
+La VMSW peut vendre ses bâtiments administratifs de gré à gré avec des mesures de publicité appropriées.
+
+----------
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 69, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.28**
+
+La VMSW et les [<sup>1</sup> sociétés de logement]<sup>1</sup> peuvent faire appel aux commissaires flamands du Service flamand des Impôts pour leurs opérations patrimoniales. Lorsqu'ils sont sollicités, ces agents exercent au nom et pour le compte de la VMSW ou de la société de logement social concernée toutes les compétences nécessaires aux opérations selon les directives de la VMSW ou de la [<sup>1</sup> société de logement]<sup>1</sup> concernée. Ils sont compétents pour passer des actes.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 70, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.29**
+
+&lt;Abrogé par DCFL 2022-06-03/17, art. 29, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 4.30**
+
+La VMSW peut, pour la réalisation de ses missions et dans les conditions définies par le Gouvernement flamand, prendre en gestion des biens immeubles d'autres organisations de logement social, de communes et de CPAS.
+
+##### Chapitre 4. Financement
+
+**Art. 4.31**
+
+En plus de ses propres revenus, le fonctionnement de la VMSW est financé par les contributions des [<sup>1</sup> sociétés de logement]<sup>1</sup>, qui doivent lui permettre de réaliser dûment sa mission.
+
+Le Gouvernement flamand fixe les modalités du paiement des contributions des [<sup>1</sup> sociétés de logement]<sup>1</sup>, après une procédure de concertation garantissant l'apport des [<sup>1</sup> sociétés de logement]<sup>1</sup> et de la VMSW. Le Gouvernement flamand peut également fixer les modalités des contributions des autres acteurs tels que visés à l'article 4.13[<sup>2</sup> ]<sup>2</sup>.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 71, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 30, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 4.32**
+
+La VMSW peut contracter des emprunts et des crédits dans les conditions fixées par le Gouvernement flamand. Le Gouvernement flamand peut également assortir ces prêts et crédits de la garantie de la Région flamande, tant en tout qu'en partie.
+
+La Région flamande peut accorder des prêts à taux d'intérêt réduit à la VMSW.
+
+**Art. 4.33**
+
+Dans les limites des crédits inscrits à cette fin dans le budget de la Région flamande, celle-ci peut octroyer une allocation à la VMSW en vue du financement de ses activités. Le Gouvernement flamand arrête les conditions d'octroi de l'allocation.
+
+**Art. 4.34**
+
+Le Gouvernement flamand peut autoriser la VMSW à accepter des dons et des legs meubles et immeubles.
+
+**Art. 4.35**
+
+Le Gouvernement flamand peut octroyer des subventions à la VMSW pour :
+
+1° [<sup>1</sup> ...]<sup>1</sup>
+
+2° mettre en uvre les mesures de politique foncière visées à l'article [<sup>1</sup> 4.17, premier alinéa, 5°]<sup>1</sup>.
+
+Le Gouvernement flamand arrête les conditions d'octroi de la subvention visée à l'alinéa premier.
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 31, 010; En vigueur : 01-01-2023&gt;
+
+#### Titre 3.[<sup>1</sup> Sociétés de logement]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 72, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 1.[<sup>1</sup> Agrément et zones d'activité]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 73, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.36**
+
+[<sup>1</sup> § 1. Les sociétés de logement sont des sociétés autonomes agréées par le Gouvernement flamand et responsables de l'exécution correcte de la politique du logement social, telle qu'elle leur est confiée par le présent Code et ses arrêtés d'exécution, ainsi que par tout autre décret ou arrêté, dans la mesure où il concerne les aspects de la politique du logement social.
+
+§ 2. Pour être agréée et rester agréée en tant que société de logement, une société doit répondre au minimum aux dispositions des chapitres 1 à 7. Le Gouvernement flamand peut imposer des conditions supplémentaires pour l'agrément en tant que société de logement.
+
+§ 3. Le Gouvernement flamand fixe la procédure de l'agrément et du retrait de l'agrément.
+
+Les sociétés de logement agréées peuvent volontairement renoncer à leur agrément. Le Gouvernement flamand peut fixer la procédure de renonciation à un agrément. La renonciation entraîne des conséquences identiques à celles fixées à l'article 4.53.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 74, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 2.
+
+&lt;Abrogé par DCFL 2021-07-09/37, art. 75, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.37**
+
+[<sup>1</sup> Le Gouvernement flamand fixe les zones d'activité.
+
+Le Gouvernement flamand agrée une société de logement par zone d'activité, qui doit être constituée d'une commune ou de communes géographiquement contiguës. Le Gouvernement flamand peut accorder des exceptions à la contiguïté géographique des communes.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 76, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.38**
+
+[<sup>1</sup> § 1. Tant le siège statutaire qu'effectif de la société de logement est sis dans la zone d'activité pour laquelle elle est agréée.
+
+Le Gouvernement flamand peut accorder une exception aux dispositions de l'alinéa 1, en cas de demande motivée à cet effet dans la demande d'agrément ou de modification des statuts.
+
+§ 2. Une société de logement est exclusivement active au sein de la zone d'activité pour laquelle elle est agréée.
+
+§ 3. Par dérogation au paragraphe 2, les activités s'étendant au-delà de la zone d'activité sont autorisées en cas de coopération avec une autre société de logement ou pour autant que les activités revêtent un caractère subsidiaire et accessoire au service des activités au sein de la propre zone d'activité.
+
+Le Gouvernement flamand peut arrêter les modalités relatives aux activités s'étendant au-delà de la zone d'activité.
+
+§ 4. La société de logement acquiert, dans les plus brefs délais et au plus tard à la date fixée par le Gouvernement flamand, tous les droits sur les biens immobiliers adaptés au logement social situés dans sa zone d'activité auprès des sociétés de logement social, des offices de location sociale, du Fonds flamand du logement et d'autres sociétés de logement.
+
+§ 5. Une société de logement reprend les droits relatifs aux biens immobiliers situés dans sa zone d'activité qui sont adaptés au logement social et qui sont proposés à la société de logement par une commune ou un CPAS.
+
+§ 6. En cas de transfert des droits visés aux paragraphes 4 et 5, le cédant transfère le cas échéant au cessionnaire les prêts en cours auprès de la VMSW, du Fonds flamand de financement de la politique foncière et du logement pour le Brabant flamand ou de Vlabinvest apb relatifs à ces biens immobiliers ou à ces droits.
+
+§ 7. Si le transfert ne peut avoir lieu contre une indemnité en actions et si les parties ne parviennent pas à un accord sur le prix du transfert des droits visés aux paragraphes 4 et 5, le prix s'élève à la valeur vénale de ces droits, compte tenu des caractéristiques particulières des sociétés de logement social ou des sociétés de logement, de laquelle sont déduits les prêts visés au paragraphe 6 et les subventions, à l'exception de celles qui n'ont d'aucune manière contribué à la valeur marchande du bien immobilier concerné. Le Gouvernement flamand fixe le prix de transfert.
+
+Dans tous les cas, le cédant utilise, sauf s'il s'agit d'une commune ou d'un CPAS, les recettes du transfert pour rembourser les prêts en cours du cédant auprès de la Région flamande ou de la VMSW. Sauf s'il s'agit d'une commune ou d'un CPAS, le cédant utilise les moyens restants conformément à l'article 4.1/1. Le Gouvernement flamand peut arrêter des modalités plus détaillées à ce sujet.
+
+Le Gouvernement flamand peut, dans les limites des crédits inscrits à cet effet au budget de la Région flamande, accorder des prêts et des subventions à une société de logement, sous ses conditions, pour l'acquisition des droits relatifs aux biens immobiliers visés aux paragraphes 4 et 5.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 77, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 2. [<sup>1</sup> Forme juridique et statuts]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 78, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.39**
+
+[<sup>1</sup> La société de logement prend la forme juridique d'une société à responsabilité limitée. Le Code des sociétés et des associations s'applique aux sociétés de logement pour autant qu'il n'y soit pas dérogé par ou en vertu du présent Code.
+
+Conformément à l'article I.22, 8°, du Code de droit économique, pour l'application du livre XX du Code de droit économique, les sociétés de logement ne sont pas considérées comme des débiteurs au sens du livre XX.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 79, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 3.
+
+&lt;Abrogé par DCFL 2021-07-09/37, art. 80, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.39/1**
+
+[<sup>1</sup> § 1. Le Gouvernement flamand arrête les statuts modèles des sociétés de logement.
+
+§ 2. La société de logement adopte les statuts modèles et s'engage à adapter immédiatement ses statuts à toute modification ultérieure apportée par le Gouvernement flamand à ces statuts modèles.
+
+Toute modification de statut d'une société de logement doit être préalablement approuvée par le Gouvernement flamand, hormis dans les cas fixés par le Gouvernement flamand.
+
+§ 3. Le Gouvernement flamand détermine les cas dans lesquels il peut être dérogé à ces statuts modèles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 81, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 3. [<sup>1</sup> Actions, actionnaires et assemblée générale des actionnaires]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 82, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.39/2**
+
+[<sup>1</sup> § 1. Seuls la Région flamande et les provinces, les communes et les CPAS situés dans la zone d'activité de la société de logement peuvent détenir des actions d'une société de logement.
+
+Les communes et les CPAS situés dans la zone d'activité de la société de logement, mais qui ne sont pas encore actionnaires, ont le droit, au moment de l'agrément de la société de logement ou de la modification de la zone d'activité, de souscrire au minimum une action de la société de logement, laquelle sera émise par cette dernière à la première demande. Cette émission n'entraîne pas l'application de l'article 5:102 du Code des sociétés et des associations.
+
+La société de logement ne peut émettre d'autres titres que des actions avec droit de vote.
+
+§ 2. Les communes et les CPAS situés dans la zone d'activité de la société de logement et qui sont actionnaires de cette société de logement disposent toujours conjointement de plus de 50% du total des droits de vote liés aux actions.
+
+Le Gouvernement flamand détermine le rapport des droits de vote entre les communes et les CPAS visés à l'alinéa 1 sur la base de critères objectifs liés à la politique du logement. La détermination ou la modification de ce rapport n'entraîne pas l'application de l'article 5:102 du Code des sociétés et des associations.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 83, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.39/3**
+
+[<sup>1</sup> Les conditions de quorum et de majorité fixées par le Code des sociétés et des associations pour certaines décisions prises par l'assemblée générale ne peuvent jamais être durcies. Les accords qui ont pour objet ou pour effet de déroger à cette disposition sont nuls et non avenus.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 84, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.39/4**
+
+[<sup>1</sup> Lors de l'agrément ou de la fusion d'une société de logement au nom du Gouvernement flamand, ce dernier a le droit de souscrire au maximum un nombre d'actions donnant droit au maximum à un quart du nombre total des voix à l'assemblée générale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 85, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 4. [<sup>1</sup> Administration]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 86, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.39/5**
+
+[<sup>1</sup> § 1. La société de logement est administrée par un organe d'administration collégial. Les membres de l'organe d'administration sont nommés pour six ans maximum, mais leur mandat est renouvelable de manière illimitée.
+
+§ 2. L'organe d'administration se compose de quinze membres maximum, dont au maximum deux tiers sont du même sexe.
+
+§ 3. L'organe d'administration est composé de manière à disposer d'une expertise suffisante pour les différentes activités de la société de logement, ainsi que d'une diversité suffisante en termes de compétences et de parcours. Le Gouvernement flamand peut imposer des exigences de compétences aux membres de l'organe d'administration.
+
+Au maximum deux membres de l'organe d'administration sont des administrateurs indépendants au sens du Décret de gouvernance. En cas de motif grave, l'assemblée générale peut révoquer à tout moment les administrateurs indépendants. L'article III.41 à III.43 du Décret de gouvernance s'applique dans la mesure où il n'y est pas dérogé dans le présent décret.
+
+§ 4. Outre le nombre maximum de mandats d'administrateur déterminé au paragraphe 2, les sociétés de logement peuvent nommer un administrateur sur proposition de l'organe d'administration après avis contraignant des locataires sociaux. Le Gouvernement flamand peut fixer les modalités relatives à la manière dont l'organe d'administration obtient l'avis contraignant des locataires sociaux.
+
+§ 5. L'organe d'administration peut confier la gestion quotidienne de la société de logement, ainsi que la représentation de la société en ce qui concerne cette administration, à un directeur désigné par l'organe d'administration ou à un organe d'administration quotidienne composé de plusieurs personnes, dont le directeur désigné par l'organe d'administration. Au maximum deux membres de l'organe d'administration siègent, en plus du directeur, au sein de l'organe d'administration quotidienne. Par dérogation à ce qui précède quatre membres au maximum de l'organe d'administration siègent au sein de l'organe d'administration quotidienne en plus du directeur, si la société de logement gère au moins 5 000 logements sociaux ou si sa zone d'exploitation couvre au moins le territoire de quinze communes.
+
+L'organe d'administration quotidienne agit en collège. Dans ce cas, la représentation de l'administration quotidienne peut être confiée à un ou plusieurs de ses membres.
+
+Sous sa responsabilité, l'organe d'administration peut octroyer des procurations spéciales au directeur ou à l'organe d'administration quotidienne pour toutes les questions qui sortent du champ d'action de l'administration quotidienne.
+
+§ 6. L'organe d'administration, le directeur chargé de l'administration quotidienne ou l'organe d'administration quotidienne peut, sous sa responsabilité, créer un ou plusieurs comités consultatifs. En outre, l'organe d'administration et l'organe d'administration quotidienne peuvent, sous leur responsabilité, créer des comités auxquels ils accordent une ou plusieurs procurations spéciales. L'organe d'administration ou l'organe d'administration quotidienne détermine sa composition, sa mission nettement définie et le processus décisionnel.
+
+§ 7. Les mandats au sein de l'organe d'administration quotidienne et des comités créés par l'organe d'administration, l'organe d'administration quotidienne ou le directeur, exercés par des personnes autres que les membres de l'organe d'administration, ne sont pas rémunérés.
+
+Le Gouvernement flamand peut déterminer les conditions financières du mandat d'un membre de l'organe d'administration, y compris ses fonctions éventuelles dans l'organe d'administration quotidienne ou dans un comité créé par l'organe d'administration, par le directeur ou par l'organe d'administration quotidienne.
+
+Le Gouvernement flamand peut régler les compétences et la composition des comités, visés au paragraphe 6.
+
+§ 8. A la suite de la fusion de deux ou plusieurs sociétés de logement social en vue de former une société de logement, lors de la formation de la société de logement par plusieurs acteurs du logement agréés, ou à la suite de la restructuration de deux ou plusieurs sociétés de logement entre elles, un nombre plus élevé d'administrateurs peut continuer à être nommé que celui visé au paragraphe 2. Dans ce cas, après la nomination du premier organe d'administration de la société fusionnée, plus aucun nouvel administrateur ne peut être nommé ou plus aucun mandat ne peut être renouvelé tant que leur nombre est trop élevé. Il doit être satisfait à toutes les conditions au plus tard après le remplacement ou la prolongation de l'ensemble des mandats des membres de l'organe d'administration après la composition du premier conseil d'administration de la société fusionnée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 87, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.39/6**
+
+[<sup>1</sup> Le Gouvernement flamand peut imposer des conditions supplémentaires pour la gestion interne de la société de logement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 88, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 5. [<sup>1</sup> But, objet, missions et compétences]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 89, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.39/7**
+
+[<sup>1</sup> La société de logement a pour but principal de contribuer au droit général à un logement conforme à la dignité humaine et à l'exécution de la politique du logement flamande, visée aux articles 1.5 et 1.6.
+
+Les sociétés de logement sont les exécutants privilégiés de la mission de la politique du logement flamande en ce qui concerne la réalisation d'une offre de logement social.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 90, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.40**
+
+[<sup>1</sup> La société de logement exécute au sein de sa zone d'activité les missions suivantes :
+
+1° améliorer les conditions de logement des ménages et isolés mal logés, en particulier des plus nécessiteux d'entre eux, en assurant une offre suffisante de logements locatifs ou acquisitifs sociaux, éventuellement y compris les équipements communautaires, en portant une attention particulière à leur intégration dans la structure de logement locale ;
+
+2° contribuer à la revalorisation du patrimoine de logements en rénovant, en améliorant et en adaptant ou, si nécessaire, en démolissant et en remplaçant les logements ou bâtiments inadéquats ;
+
+3° acquérir des terrains et des bâtiments afin de réaliser des projets de logement social et d'assurer la disponibilité de lots sociaux ;
+
+4° louer ou prendre en emphytéose des logements ou des chambres sur le marché locatif privé en vue de donner en location des logements ou des chambres de qualité à des ménages et isolés mal logés, à un loyer raisonnable et avec une attention particulière à la sécurité de logement ;
+
+5° accompagner les locataires sociaux afin de les familiariser avec leurs droits et obligations en tant que locataire ;
+
+6° élargir l'offre de logements sociaux en accompagnant et en soutenant les candidats bailleurs et les bailleurs afin d'assurer la qualité du logement conformément aux normes visées à l'article 3.1 ;
+
+7° collaborer et se concerter avec les administrations locales et les acteurs du domaine du logement et du bien-être et, si cela est souhaitable, prendre des initiatives pour mettre en place des partenariats.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 91, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.40/1**
+
+[<sup>1</sup> La société de logement contribue dans une mesure suffisante à atteindre l'objectif social contraignant, visé à l'article 2.27, des communes au sein des zones d'activité pour lesquelles elle est agréée, sauf si elle démontre l'existence de facteurs externes justifiant la raison pour laquelle l'objectif n'est pas atteint. Le Gouvernement flamand arrête la méthodologie et les critères servant à évaluer si la société de logement contribue suffisamment à atteindre l'objectif social contraignant des communes au sein de sa zone d'activité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 92, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.40/2**
+
+[<sup>1</sup> Une partie des logements locatifs sociaux est adaptée aux besoins des familles nombreuses, des personnes âgées et des personnes handicapées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 93, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.41**
+
+[<sup>1</sup> La société de logement est suffisamment active dans toutes les communes appartenant à sa zone d'activité.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 94, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 4.
+
+&lt;Abrogé par DCFL 2021-07-09/37, art. 95, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.42**
+
+[<sup>1</sup> La société de logement peut prendre en location et acquérir une offre de logements locatifs conventionnés d'initiateurs privés tels que visés à l'article 5.52/1.
+
+La société de logement peut également réaliser elle-même une offre de logements locatifs conventionnés à concurrence de 20 pour cent maximum de son volume d'investissement annuel. Le Gouvernement flamand arrête le mode de calcul. La société de logement tient des comptabilités séparées pour ses tâchées liées à l'offre de logements locatifs conventionnés et ses tâches liées à l'offre de logement social.
+
+§ 2. Le Gouvernement flamand arrête les conditions relatives au loyer maximal, la réduction sur le loyer, la condition de revenu et de propriété à laquelle le locataire doit satisfaire, le mode de vérification de l'éligibilité d'un locataire à un logement locatif conventionné et les conditions auxquelles un logement locatif conventionné est donné en location.
+
+[<sup>2</sup> Le Gouvernement flamand peut déterminer, au sein du groupe cible délimité de ménages et d'isolés nécessitant un logement, tel que visé à l'article 1.3, § 1er, alinéa 1er, 14° /1, des groupes cibles particuliers auxquels l'appel à candidatures lié à un projet, tel que visé à l'alinéa 4, peut s'adresser.]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup> [<sup>2</sup> Les logements locatifs conventionnés sont attribués par]<sup>2</sup> l'organe décisionnel de la société de logement ou la ou les personnes qu'il désigne à cet effet sur la base des éléments suivants :
+
+1° l'intérêt du [<sup>2</sup> demandeur d'un logement locatif conventionné]<sup>2</sup>pour un ou plusieurs logements du projet ;
+
+2° les règles d'attribution que fixe le Gouvernement flamand en tenant compte des objectifs particuliers de la politique du logement énoncés à l'article 1.6, § 2.
+
+[<sup>2</sup> 3° la règle de priorité établie par le Gouvernement flamand concernant l'enracinement local du demandeur d'un logement locatif conventionné avec la commune où se trouve le logement locatif conventionné, si la commune décide d'appliquer cette règle de priorité ;
+
+4° le cas échéant, le règlement visé à l'article 5.52/3, alinéa 1er, établi par la commune ou la structure de coopération intercommunale dans les conditions fixées par le Gouvernement flamand.]<sup>2</sup>
+
+[<sup>2</sup> La candidature à un logement locatif conventionné se fait à la suite d'un appel lié à un projet ou, le cas échéant, selon les modalités précisées dans le règlement visé à l'alinéa 3, 4°.]<sup>2</sup>
+
+§ 3. Le Gouvernement flamand établit, pour la mise en location des logements locatifs conventionnés, un contrat type à l'attention des locataires éligibles à un logement locatif conventionné. Il ne peut être dérogé au contrat de location type que dans les cas arrêtés par le Gouvernement flamand.
+
+Le contrat de bail type visé à l'alinéa 1er règle au moins :
+
+1° la durée du contrat de bail ;
+
+2° les possibilités de résiliation du locataire et du bailleur.
+
+§ 4. Le Gouvernement flamand peut accorder, en fonction des crédits inscrits à cet effet au budget de la Région flamande, une subvention pour la réalisation de logements locatifs conventionnés et l'aménagement ou l'adaptation de l'infrastructure visée à l'article 5.23. Le Gouvernement flamand arrête les conditions auxquelles il accorde la subvention.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-04-21/08, art. 38, 018; En vigueur : 30-06-2023&gt;
+
+(2)&lt;DCFL 2024-03-08/03, art. 17, 023; En vigueur : indéterminée &gt;
+
+**Art. 4.42/1**
+
+[<sup>1</sup> § 1er. En vue de la mise en location des logements conventionnés visés à l'article 4.42, des données à caractère personnel sont traitées dans le but :
+
+1° de vérifier si les conditions arrêtées par le Gouvernement flamand conformément à l'article 4.42 sont remplies ;
+
+2° d'assurer le règlement juridique du contrat de bail.
+
+§ 2. Les responsables du traitement sont :
+
+1° le service chargé par le Gouvernement flamand de la mise en oeuvre de la politique du logement ;
+
+2° la société de logement.
+
+§ 3. En application du paragraphe 1er, les catégories suivantes de données à caractère personnel peuvent être traitées :
+
+1° les données d'identification personnelles ;
+
+2° le numéro de registre national et les numéros d'identification à la sécurité sociale ;
+
+3° les caractéristiques personnelles ;
+
+4° la composition du ménage ;
+
+5° les données relatives à la santé physique ou mentale ;
+
+6° les particularités financières ;
+
+7° les données relatives aux droits immobiliers ;
+
+8° les caractéristiques du logement.
+
+[<sup>2</sup> Seul le statut de la personne peut être demandé et traité en ce qui concerne les données relatives à la santé physique ou mentale visée à l'alinéa 1er, 5°.]<sup>2</sup>
+
+Le Gouvernement flamand peut préciser les catégories de données à caractère personnel visées à l'alinéa 1er.
+
+§ 4. Les personnes concernées par le traitement de données à caractère personnel sont :
+
+1° le demandeur d'un logement locatif conventionné [<sup>2</sup> ou son représentant ]<sup>2</sup>;
+
+2° les membres du ménage du demandeur d'un logement locatif conventionné ;
+
+3° le locataire [<sup>2</sup> et les membres de son ménage]<sup>2</sup> ;
+
+4° l'ex-locataire[<sup>2</sup> ou son membres de son ménage]<sup>2</sup>.
+
+[<sup>2</sup> 5° les membres de la famille du locataire.]<sup>2</sup>
+
+§ 5. Le responsable du traitement mentionné dans le paragraphe 2, 1°, applique aux données à caractère personnel traitées une durée de conservation [<sup>2</sup> de maximum un an suivant la fin définitive des procédures administratives, judiciaires et extrajudiciaires et jusqu'à dix ans maximum]<sup>2</sup> après le traitement du dossier de demande. Le responsable du traitement mentionné dans le paragraphe 2, 2°, applique aux données à caractère personnel traitées une durée de conservation de dix ans après la fin du contrat de bail.
+
+§ 6. Le responsable du traitement mentionné dans le paragraphe 2, 1°, peut transférer les données à caractère personnel aux sociétés de logement et à l'initiateur privé visé à l'article 5.52/1, pour la conclusion du contrat de bail. Les responsables du traitement peuvent utiliser les données à caractère personnel pour traitement statistique et les mettre à la disposition d'autres entités du domaine politique de l'Environnement et de l'Aménagement du Territoire pour traitement statistique. Les responsables du traitement peuvent également transférer les données à caractère personnel au contrôleur visé à l'article 4.79 du présent Code afin de lui permettre d'exercer son contrôle.
+
+Le Gouvernement flamand peut désigner des entités additionnelles auxquelles des données à caractère personnel peuvent être transférées à des fins spécifiquement définies.
+
+§ 7. Les responsables du traitement précisent les traitements effectués dans une déclaration de confidentialité. Dans un souci de transparence et de garantie des droits des personnes concernées, ils incluent dans leurs communications avec ces dernières une référence à l'emplacement de leur déclaration de vie privée.
+
+§ 8. Le service chargé par le Gouvernement flamand de la politique du logement coordonne les flux de données électroniques et l'échange d'informations électroniques entre les différents acteurs mentionnés dans le présent article. Toutes les données électroniques peuvent être échangées dans ce cadre par le biais du service chargé par le Gouvernement flamand de la politique du logement et peuvent être recueillies auprès de ces sources de données par ce service qui, dans ce cas, est le responsable du traitement pour ce qui est du recueil et du transfert. Le service chargé par le Gouvernement flamand de la politique du logement peut également utiliser les données pour traitement statistique et les mettre à la disposition des autres entités du domaine politique de l'Environnement et de l'Aménagement du Territoire. Le service chargé par le Gouvernement flamand de la politique du logement peut effectuer un traitement ultérieur des données à caractère personnel aux fins visées à l'article 1.5 qui sont compatibles avec les finalités initiales.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-04-21/08, art. 39, 018; En vigueur : 30-06-2023&gt;
+
+(2)&lt;DCFL 2024-03-08/03, art. 18, 023; En vigueur : indéterminée &gt;
+
+**Art. 4.42/2**
+
+[<sup>1</sup>La société de logement peut réaliser une offre de chambres d'étudiant abordables à concurrence de 5 pour cent maximum de son volume d'investissement annuel. Le Gouvernement flamand arrête le mode de calcul.
+
+Le Gouvernement flamand peut arrêter des conditions d'inscription. Une chambre d'étudiant abordable est attribuée par l'organe de décision de l'établissement d'enseignement supérieur ou par une administration locale selon les règles de priorité et d'attribution fixées par le Gouvernement flamand.
+
+Le Gouvernement flamand peut déterminer la méthode de calcul du loyer pour le contrat de location principal et de sous-location.
+
+Le Gouvernement flamand peut établir des contrats de location types pour le contrat de location principal et de sous-location. Il ne peut être dérogé au contrat de location type que dans les cas arrêtés par le Gouvernement flamand.
+
+Dans les limites des crédits inscrits à cet effet au budget de la Région flamande, le Gouvernement flamand peut, dans les conditions qu'il fixe, accorder des subventions aux sociétés de logement pour la mission visée dans le présent article.
+
+Le Gouvernement flamand peut accorder, en fonction des crédits inscrits à cet effet au budget de la Région flamande, une subvention pour l'aménagement ou l'adaptation de l'infrastructure visée à l'article 5.23, dans le cadre de la réalisation de chambres d'étudiants abordables. Le Gouvernement flamand arrête les conditions auxquelles il accorde la subvention.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-12-22/12, art. 29, 016; En vigueur : 01-01-2024&gt;
+
+**Art. 4.43**
+
+[<sup>1</sup> La société de logement social ne peut acquérir, réaliser, mettre en location et vendre des espaces non résidentiels que si cela est utile à la réalisation de projets de logement social et que la nécessité en est justifiée par des facteurs environnementaux plus larges qui influent sur les besoins collectifs en matière de logement ou par des prescriptions urbanistiques ou des aspects architectoniques et spatiaux qui rendent l'équipement moins approprié à l'exercice du droit au logement dans tous ses sous-composants, visé à l'article 1.5. Ces opérations sont toujours subsidiaires et accessoires aux objectifs généraux et spécifiques de la politique du logement social et font partie de l'intégration plus large de la politique du logement dans d'autres domaines politiques. Ces opérations ne sont pas éligibles aux subventions accordées dans le cadre de la politique du logement social.
+
+Les revenus et dépenses sont séparés de manière transparente des autres flux financiers de la société de logement.
+
+La société de logement affecte le produit net de la vente ou de la location à ses missions visées aux articles 4.40, 4.42, 4.43 et 4.44. et à l'alinéa 1 du présent article. Le Gouvernement flamand peut fixer des règles en la matière.
+
+Le Gouvernement flamand peut arrêter les conditions dans lesquelles les sociétés de logement peuvent acquérir, réaliser, mettre en location et vendre des espaces non résidentiels.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 97, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.44**
+
+[<sup>1</sup> § 1. Le Gouvernement flamand peut agréer des sociétés de logement pour agir en tant qu'intermédiaires de crédit du Fonds flamand du Logement lors de l'octroi des prêts sociaux spéciaux visés à l'article 5.65. [<sup>3</sup> Le Gouvernement flamand peut limiter le nombre de sociétés de logement agréées comme intermédiaire de crédit et fixer des critères pour parvenir à ce nombre limité.]<sup>3</sup>
+
+Pour être et rester agréée en tant qu'intermédiaire de crédit, une société de logement doit être financièrement saine et disposer de personnel qui répond aux exigences en matière de connaissances professionnelles, d'aptitude et de fiabilité professionnelle. Le Gouvernement flamand peut imposer des conditions supplémentaires pour l'agrément.
+
+Le Gouvernement flamand peut abroger l'agrément de la société de logement en tant qu'intermédiaire de crédit visé à l'alinéa 1.
+
+Le Gouvernement flamand fixe la procédure de l'agrément et de l'abrogation de l'agrément en tant qu'intermédiaire de crédit.
+
+La société de logement social qui est agréée comme intermédiaire de crédit conformément à l'alinéa 1, est autorisée à agir en tant qu'intermédiaire en crédit hypothécaire visé à l'article VII.177, alinéa 1, 1°, et alinéa 2, du Code de droit économique. Elle est exemptée de l'obligation d'enregistrement visée à l'article VII.180 du Code de droit économique.
+
+[<sup>2</sup> La directive 2014/17/UE du Parlement européen et du Conseil du 4 février 2014 sur les contrats de crédit aux consommateurs relatifs aux biens immobiliers à usage résidentiel et modifiant les directives 2008/48/CE et 2013/36/UE et le règlement (UE) n° 1093/2010 ne s'applique pas aux intermédiaires de crédit visés au premier alinéa.]<sup>2</sup>
+
+§ 2. Dans les limites des crédits inscrits à cet effet au budget de la Région flamande, le Gouvernement flamand peut, dans les conditions qu'il fixe, accorder des subventions au fonctionnement des sociétés de logement qui sont agréées comme intermédiaire de crédit. Le subventionnement à charge du budget des dépenses de la Région flamande ne peut dépasser 100 % des frais totaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 98, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 32, 010; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2026-02-27/17, art. 22, 027; En vigueur : 28-03-2026&gt;
+
+**Art. 4.45**
+
+[<sup>1</sup> § 1. Afin de réaliser les objectifs liés à [<sup>3</sup> l'offre de logements locatifs conventionnés ]<sup>3</sup> social, à[<sup>3</sup> l'offre de logements locatifs conventionnés]<sup>3</sup> ou à la réalisation d'équipements communautaires qui ont un lien identifiable avec des logements sociaux voisins déjà existants ou à réaliser, la société de logement peut :
+
+1° acquérir des droits réels sur tous les biens immeubles nécessaires au logement social et à l'acquisition de biens immeubles, ou louer des biens immeubles ;
+
+2° démolir et ériger des bâtiments ;
+
+3° rénover, améliorer, adapter, aménager et mettre en location les bâtiments sur lesquels elle a un droit réel ou personnel ;
+
+4° imposer l'obligation de bâtir aux ménages et isolés mal logés auxquels elle transfère des droits réels sur des biens immeubles et leur imposer des servitudes afin de préserver l'apparence et l'aménagement fonctionnel de groupes de logements ;
+
+5° conclure des contrats relatifs à des biens immeubles sur lesquels ou dans lesquels sont réalisés des projets de logement dans le secteur privé ;
+
+6° céder des droits réels immobiliers aux entités visées à l'article 4.27, alinéa 1.
+
+[<sup>3</sup> 7° accorder des droits de superficie et d'emphytéose sur des biens immeubles à des initiateurs privés tels que visés à l'article 5.52/1 en vue de la réalisation de logements locatifs par des initiateurs privés tels que visés dans le livre 5, partie 2, titre 9. ]<sup>3</sup>
+
+§ 2. Aux conditions déterminées par le Gouvernement flamand, la société de logement peut dans le cadre de l'exécution de mesures de politique foncière jugées nécessaires pour maintenir ou promouvoir un logement de qualité dans les régions à déterminer par le Gouvernement flamand :
+
+1° établir des droits réels sur tous les biens immeubles nécessaires à la réalisation de projets offrant un mélange, d'une part, de logements locatifs sociaux, de logements acquisitifs sociaux ou de lots sociaux et, d'autre part :
+
+a) de logements locatifs, de logements acquisitifs ou de lots, financés par Vlabinvest apb ;
+
+b) d'une offre locative modeste ;
+
+c) de chambres d'étudiants ;
+
+d) de structures de soins telles que visées à l'article 1.3, § 1, alinéa 1, 75° ;
+
+e) de logements du secteur privé ;
+
+f) de bâtiments à fonction spécifique des personnes morales publiques et semi-publiques ;
+
+2° louer les biens immeubles énumérés au point 1° ;
+
+3° vendre ou mettre en location les biens immeubles qu'elle a acquis par application du 1°, aux sociétés de logement social, à Vlabinvest apb ou, pour une fonction spécifique, aux initiateurs des projets visés au point 1°, ou en céder les droits réels.
+
+§ 3. La société de logement vend ses biens immeubles publiquement. Elle ne peut les vendre de gré à gré qu'aux parties suivantes :
+
+1° les sociétés de logement ;
+
+2° les ménages ou personnes isolées, conformément à l'article 5.91 ;
+
+3° les communes, les régies communales autonomes, les partenariats intercommunaux, le Fonds flamand du Logement, les centres publics d'aide sociale ou les associations d'aide sociale, à des fins liées à l'offre de logement social,[<sup>3</sup> ...]<sup>3</sup> à la réalisation d'équipements communautaires ayant un lien identifiable avec des logements sociaux voisins déjà existants ou à réaliser ;
+
+4° les initiateurs et partenaires des projets visés au paragraphe 2, 1°, dans les conditions fixées par le Gouvernement flamand ;
+
+5° d'autres personnes, pour autant que les biens immeubles en question ne soient plus utiles à l'habitation, et qu'une vente publique ne rapporte pas la valeur vénale ou que les frais d'une vente publique ne soient pas proportionnels à la valeur vénale et pour autant qu'il soit satisfait aux conditions fixées par le Gouvernement flamand ;
+
+6° Vlabinvest apb.
+
+§ 4. La société de logement peut, pour la réalisation de ses missions et dans les conditions définies par le Gouvernement flamand, prendre en gestion des biens immobiliers d'autres organisations de logement social, de communes et de CPAS.
+
+§ 5. Le Gouvernement flamand peut autoriser la société de logement à accepter des dons et des legs meubles et immeubles.
+
+§ 6. La société de logement peut également vendre ses biens immeubles de gré à gré à des tiers et céder ses droits sur les réserves foncières à des tiers à titre onéreux, chaque fois dans le but de réaliser des projets de logement par le biais de partenariats public-privé ou des projets de logement impliquant un mélange de logements locatifs sociaux, de logements acquisitifs sociaux ou de lots sociaux d'une part, et de logements du secteur privé d'autre part.
+
+§ 7. Le Gouvernement flamand peut arrêter les modalités des transactions immobilières, en ce compris la vente volontaire de logements locatifs sociaux, par les sociétés de logement.
+
+Pour l'application de ce paragraphe :
+
+1° des données à caractère personnel sont traitées dans le but de vérifier s'il est satisfait aux conditions et aux obligations fixées par le Gouvernement flamand conformément à l'alinéa 1 ;
+
+2° la société de logement est le responsable du traitement[<sup>5</sup> ...]<sup>5</sup> ;
+
+3° les catégories suivantes de données à caractère personnel peuvent être traitées :
+
+a) les données d'identification ;
+
+b) les caractéristiques personnelles ;
+
+c) les caractéristiques du logement ;
+
+d) le numéro de registre national et les numéros d'identification de la Sécurité sociale ;
+
+e) la composition de ménage ;
+
+f) les données relatives aux droits immobiliers ;
+
+g) les données relatives à la santé physique ou mentale ;
+
+4° les parties impliquées dans le traitement des données à caractère personnel sont :
+
+a) le candidat acquéreur ou son représentant ;
+
+b) les membres de la famille du candidat acquéreur ;
+
+5° un délai de conservation de 10 ans s'applique à compter de la signature de l'acte de vente ;
+
+6° le responsable du traitement peut utiliser les données à caractère personnel à des fins statistiques et les mettre à la disposition d'autres entités du domaine politique de l'Environnement à des fins statistiques. Le responsable du traitement peut également transmettre les données à caractère personnel au contrôleur visé à l'article 4.79 du présent Code afin de lui permettre d'exercer son contrôle.
+
+Le Gouvernement flamand peut préciser les catégories de données à caractère personnel, visées à l'alinéa 2, 3°.
+
+Le responsable du traitement précise les traitements effectués dans une déclaration de vie privée. Dans un souci de transparence et de garantie des droits des personnes concernées, il inclut dans ses communications avec ces dernières une référence à l'emplacement de sa déclaration de vie privée.
+
+[<sup>4</sup> Le service chargé par le Gouvernement flamand de la politique du logement, coordonne les flux de données électroniques et l'échange d'informations électroniques entre les différents acteurs mentionnés dans le présent paragraphe. Toutes les données électroniques peuvent être échangées dans ce cadre par le biais du service chargé par le Gouvernement flamand de la politique du logement et peuvent être recueillies auprès des sources de données par ce service qui, dans ce cas, est le responsable du traitement pour ce qui est du recueil et du transfert. Le service chargé par le Gouvernement flamand de la politique du logement peut également utiliser les données pour traitement statistique et les mettre à la disposition des autres entités du domaine politique de l'Environnement et de l'Aménagement du Territoire. Le service chargé par le Gouvernement flamand de la politique du logement peut effectuer un traitement ultérieur des données à caractère personnel aux fins visées à l'article 1.5 qui sont compatibles avec les finalités initiales.]<sup>4</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 99, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 33, 010; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2023-04-21/08, art. 40,1°-40,4°, 018; En vigueur : 30-06-2023&gt;
+
+(4)&lt;DCFL 2023-04-21/08, art. 40,6°, 018; En vigueur : 01-01-2023&gt;
+
+(5)&lt;DCFL 2023-04-21/08, art. 40,5°, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 4.46**
+
+[<sup>1</sup> Le Gouvernement flamand peut fixer les modalités des partenariats entre une société de logement et d'autres instances et les sociétés de logement entre elles.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 100, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 5.
+
+&lt;Abrogé par DCFL 2021-07-09/37, art. 101, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.46/1**
+
+[<sup>1</sup> § 1. Sans préjudice de l'application de l'article 5.61, la société de logement peut, après approbation ou en vertu du Gouvernement flamand, prendre des intérêts directs ou indirects dans des personnes morales dont les activités correspondent à son but et son objet.
+
+§ 2. L'organe d'administration de la société de logement mentionne dans le rapport annuel les participations directes ou indirectes de la société de logement et la contribution de ces participations à la réalisation de son objet.
+
+§ 3. La société de logement affecte le produit net de la participation, visée au paragraphe 1, à ses missions visées aux articles 4.40, 4.42, 4.43 et 4.44.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 102, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.46/1/1**
+
+[<sup>1</sup>Le Gouvernement flamand détermine les conditions dans lesquelles une société de logement qui prend et met en location des logements conformément à sa mission visée à l'article 4.40, 4°, peut recevoir une allocation du fonds de solidarité.
+
+Le fonds de solidarité visé à l'alinéa 1er, est alimenté par des contributions de la société de logement basées sur les revenus de location des logements locatifs sociaux que la société de logement loue conformément à sa mission, visée à l'article 4.40, 1° [<sup>2</sup> et par des contributions des communes, visées à l'article 2.23, § 3, alinéa 1er]<sup>2</sup>.
+
+Le Gouvernement flamand détermine la méthode de calcul des contributions de la société de logement au fonds de solidarité, la manière dont les ressources financières du fonds de solidarité sont converties en une allocation aux sociétés de logement et réglemente le fonctionnement du fonds de solidarité]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-12-22/12, art. 30, 016; En vigueur : 01-01-2024&gt;
+
+(2)&lt;DCFL 2026-02-27/17, art. 23, 027; En vigueur : 01-01-2026&gt;
+
+##### Chapitre 6. [<sup>1</sup> Patrimoine et maintien de la société de logement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 103, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4,46/2**
+
+[<sup>1</sup> La société de logement dispose au plus tard à compter du 1 janvier 2024 d'un patrimoine d'au moins 1000 logements locatifs sociaux en gestion. Pour le calcul du nombre de logements locatifs sociaux en gestion il est tenu compte des logements locatifs sociaux que la société de logement a réalisés et planifiés au 1 janvier 2024, ou à la date d'introduction de la demande d'agrément si cette date est postérieure. Pour le calcul du nombre de logements en gestion il n'est pas tenu compte des logements pris en location sur le marché locatif privé en vue de la sous-location conformément à la réglementation relative au régime de location sociale. Un logement locatif social est planifié s'il n'a pas encore été réalisé, mais l'exécution ou la procédure d'adjudication pour la réalisation du logement peut être lancée dans un délai de trois ans. La réalisation des logements locatifs sociaux planifiés doit au moins figurer dans le planning pluriannuel, visé à l'article [<sup>2</sup> 2.22, § 2]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>3</sup> A partir du 31 décembre 2030, la société de logement dispose d'un patrimoine d'au moins 150 logements locatifs sociaux pris en location sur le marché locatif privé en vue de la sous-location conformément au livre 6, ou d'un patrimoine de ces logements qui a augmenté d'au moins 25 % par rapport :
+
+1° à la mesure de référence basée sur le 31 décembre 2025, visée à l'article 2.26, § 1er, alinéa 1er, pour l'évaluation de l'avancement au 31 décembre 2030 ;
+
+2° l'évaluation de l'avancement la plus récente, visée à l'article 2.23, § 2, alinéa 1er, qui précède les évaluations de l'avancement à partir du 31 décembre 2033.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 104, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 34, 010; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2026-02-27/17, art. 24, 027; En vigueur : 01-01-2026&gt;
+
+**Art. 4,46/3**
+
+[<sup>1</sup> La société de logement n'a pas pour vocation principale de distribuer ou de procurer un avantage patrimonial direct ou indirect à ses actionnaires et respecte donc les limites de distribution suivantes :
+
+1° un avantage patrimonial distribué sous quelque forme que ce soit par la société de logement à ses actionnaires ne peut, sous peine de nullité, excéder le taux d'intérêt fixé par le Roi en exécution de la loi du 20 juillet 1955 portant institution d'un Conseil national de la Coopération, de l'Entrepreunariat social et de l'entreprise Agricole, appliqué à la valeur nominale de l'apport au patrimoine de la société de logement réellement versé par les actionnaires et pas encore remboursé telle qu'enregistrée au moment de l'apport ;
+
+2° une distribution des bénéfices est possible uniquement à la condition que, outre celle visée au point 1°, il soit satisfait à la condition selon laquelle le montant du dividende maximum à distribuer aux actionnaires puisse uniquement être déterminé après la détermination d'un montant réservé par la société de logement à des projets ou affectations nécessaires ou adaptés à la réalisation de son objet ; l'organe d'administration rédige un rapport à ce sujet chaque année, lequel figure au rapport annuel ;
+
+3° en cas de démission ou d'exclusion, tant à la charge du patrimoine social qu'à la suite de l'application de la procédure de résolution des conflits internes visée au livre 2, titre 7 du Code des sociétés et des associations, l'actionnaire démissionnaire ou exclu reçoit au maximum la valeur nominale de son apport à l'actif de la société de logement réellement versé et pas encore remboursé telle qu'enregistrée au moment de l'apport ;
+
+4° en cas de liquidation de la société de logement, le patrimoine subsistant après apurement du passif et remboursement aux actionnaires de la valeur nominale de leur apport réellement versé et pas encore remboursé à l'actif de la société de logement telle qu'enregistrée au moment de l'apport, est transféré à une société de logement désignée par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 105, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4,46/4**
+
+[<sup>1</sup> La société de logement s'engage à ce que ses ressources financières, qui ne sont pas nécessaires à son fonctionnement quotidien, soient gérées par la VMSW. Le Gouvernement flamand arrête le règlement relatif à la gestion des ressources financières.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 106, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 7. [<sup>1</sup> Contrôle interne et externe, surveillance, plan comptable et rapport]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 106, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.46/5**
+
+[<sup>1</sup> La société de logement nomme un commissaire chargé des contrôles visés dans le Code des sociétés et des associations.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 108, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.46/6**
+
+[<sup>1</sup> La société de logement prévoit un système de contrôle interne fonctionnant correctement. Le Gouvernement flamand peut fixer les modalités relatives au contrôle interne.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 109, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.46/7**
+
+[<sup>1</sup> L'organe d'administration de la société de logement rédige un rapport annuel dans lequel figurent toutes les données suivantes :
+
+1° la méthode de contrôle du respect des conditions d'agrément ;
+
+2° les activités menées afin de réaliser son objet et les moyens mis en oeuvre à cet effet ;
+
+3° les demandes de démission intervenues au cours de l'exercice comptable précédent. Les données suivantes doivent au minimum être mentionnées :
+
+a) le nombre d'actionnaires démissionnaires et la classe d'actions pour lesquelles ils ont démissionné ;
+
+b) la part de retrait versée ainsi que les autres modalités éventuelles ;
+
+c) le nombre de demandes refusées et le motif de refus ;
+
+4° les rubriques arrêtées par le Gouvernement flamand devant y figurer au minimum.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 110, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.46/8**
+
+[<sup>1</sup> La société de logement et ses actionnaires s'engagent à accepter la surveillance telle que réglementée par le présent Code et ses arrêtés d'exécution. Les statuts modèles disposent que les actionnaires et les administrateurs de la société de logement sont contraints de respecter et de faire respecter la surveillance telle que réglementée dans le présent Code.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 111, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.46/9**
+
+[<sup>1</sup> La société de logement fournit à la Région flamande ou ses organes, à la première demande, l'information demandée par le Gouvernement flamand.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 112, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.46/10**
+
+[<sup>1</sup> La société de logement apporte sa collaboration active et entière à la procédure d'évaluation des performances des sociétés de logement. Le Gouvernement flamand arrête la procédure d'évaluation des performances.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 113, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.46/11**
+
+[<sup>1</sup> Le Gouvernement flamand peut imposer des conditions supplémentaires pour le plan comptable appliqué par les sociétés de logement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 114, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.47**
+
+[<sup>1</sup> La société de logement prend, de sa propre initiative ou à la demande du Gouvernement flamand, les mesures nécessaires pour améliorer ses performances, notamment par l'établissement et la bonne exécution de plans d'amélioration.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 115, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 8. [<sup>1</sup> Financement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 116, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.48**
+
+[<sup>1</sup> Sans préjudice de la possibilité d'utiliser leurs propres moyens ou de demander une subvention de projet conformément au livre 5, partie 2, titre 3, chapitre 1, titre 4, chapitre 1, titre 5 et titre 6, les sociétés de logement financent les opérations expressément liées à leurs missions telles que visées aux articles 4.40, 1° à 3°,[<sup>3</sup> 4.42/2,]<sup>3</sup> 4[<sup>4</sup> ...]<sup>4</sup>, 4.43 et 4.44, par des emprunts contractés auprès de la VMSW ou, dans les conditions fixées par le Gouvernement flamand, auprès de tiers. [<sup>2</sup> Le Gouvernement flamand fixe]<sup>2</sup> dans un règlement général les conditions pour contracter des emprunts auprès de la VMSW.[<sup>4</sup> Pour les opérations expressément liées à leurs missions visées à l'article 4.42, les sociétés de logement peuvent tant utiliser leurs propres moyens que contracter des emprunts auprès de la VMSW ou, aux conditions fixées par le Gouvernement flamand, auprès de tiers. Le Gouvernement flamand fixe dans un règlement général les conditions pour contracter des emprunts auprès de la VMSW.]<sup>4</sup>
+
+Lorsqu'une société de logement reçoit une subvention visée au livre 5, partie 2, titre 3, chapitre 1, titre 4, chapitre 1, titre 5 et titre 6, le Gouvernement flamand peut arrêter des modalités pour déduire cette subvention en tout ou en partie du coût des logements ou des parcelles mis à la disposition des ménages. Ce règlement peut s'appliquer tant au projet de logement ou au quartier en question qu'à une partie ou à l'ensemble du patrimoine de logements de la société de logement.
+
+Dans les limites des crédits inscrits à cet effet au budget de la Région flamande, le Gouvernement flamand peut, dans les conditions qu'il fixe, accorder des subventions pour les missions visées à l'article 4.40, 4°, 5° et 6°. Le subventionnement à charge du budget des dépenses de la Région flamande ou de la Communauté flamande ne peut dépasser 100 % des frais totaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 117, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 35, 010; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2023-12-22/12, art. 31, 016; En vigueur : 01-01-2024&gt;
+
+(4)&lt;DCFL 2023-04-21/08, art. 41, 018; En vigueur : 30-06-2023&gt;
+
+**Art. 4.49**
+
+[<sup>1</sup> Dans les limites des crédits inscrits à cet effet au budget de la Région flamande, le Gouvernement flamand peut accorder des subventions afin de permettre aux sociétés de logement d'améliorer leurs performances de leur propre initiative. Le Gouvernement flamand arrête les conditions et la procédure d'obtention de ces subventions.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 118, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.50**
+
+[<sup>1</sup> Dans les limites des crédits inscrits à cet effet au budget de la Région flamande, le Gouvernement flamand peut compenser l'ensemble ou une partie des éventuelles conséquences financières défavorables pour une société de logement d'une restructuration au sens du livre 12 du Code des sociétés et des associations en accordant une subvention. Les frais liés à la restructuration et les charges supplémentaires qui en découlent peuvent donner lieu à une subvention. Le Gouvernement flamand arrête les modalités à cet effet.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 119, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 6.
+
+&lt;Abrogé par DCFL 2021-07-09/37, art. 120, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 9. [<sup>1</sup> Sanctions]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 121, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.51**
+
+[<sup>1</sup> De sa propre initiative ou à la demande du contrôleur, le Gouvernement flamand peut imposer les sanctions suivantes à une société de logement qui ne satisfait pas aux conditions d'agrément, qui n'exécute pas dûment les missions qui lui sont confiées par décret ou par arrêté du Gouvernement flamand, qui ne respecte pas ses engagements ou dont le fonctionnement reste en défaut :
+
+1° anticiper la prochaine évaluation des performances, conformément à la procédure d'évaluation des performances des sociétés de logement fixée par le Gouvernement flamand ;
+
+2° l'obligation de faire appel à un accompagnement externe. Les frais liés à l'accompagnement externe peuvent faire l'objet d'une subvention, dans les limites des crédits inscrits à cet effet au budget de la Région flamande. Le Gouvernement flamand arrête les conditions et la procédure d'obtention de cette subvention supplémentaire ;
+
+3° la désignation d'un mandataire ad hoc qui remplace en tout ou en partie l'organe d'administration de la société de logement et qui sera rémunéré par la société de logement pour les prestations effectuées dans le cadre de cette mission ;
+
+4° la sous-traitance temporaire des activités de la société de logement ;
+
+5° l'obligation de coopérer avec une autre société de logement ;
+
+6° la suspension du financement de futurs projets de construction nouvelle, s'il n'a pas été satisfait à la condition d'agrément visée à l'article 4.46/2 ;
+
+7° l'imposition à la société de logement d'une trajectoire de croissance limitée dans le temps, dans la zone d'activité dont le nombre de logements loués ne s'accroît pas conformément à la condition visée à l'article 4.41 ;
+
+8° si l'agence de logement ne réalise pas la trajectoire de croissance imposée visée au point 7, le retrait de l'agrément de l'agence de logement demeurant en défaut.
+
+Sans préjudice de la responsabilité personnelle et solidaire des fondateurs, des actionnaires et des administrateurs, le Gouvernement flamand peut, de sa propre initiative et à la demande du contrôleur, imposer les sanctions suivantes à une société de logement qui ne satisfait pas aux conditions d'agrément, qui n'exécute pas dûment les missions qui lui sont confiées par décret ou par arrêté du Gouvernement flamand, qui ne respecte pas ses engagements ou dont le fonctionnement reste en défaut :
+
+1° l'obligation de fusionner avec une autre société de logement ;
+
+2° le retrait de l'agrément de société de logement.
+
+Préalablement à la décision d'imposer une des sanctions visées aux alinéas 1 et 2, le Gouvernement flamand envoie une mise en demeure à la société de logement en question. Dans la mise en demeure, le Gouvernement flamand explique pourquoi la société de logement ne satisfait pas aux conditions d'agrément, n'exécute pas dûment les missions qui lui sont confiées par décret ou par arrêté du Gouvernement flamand, ne respecte pas ses engagements ou ne fonctionne pas correctement. La mise en demeure est envoyée par envoi sécurisé. La société de logement qui a été mise en demeure est invitée à une audition. Elle peut s'y faire assister.
+
+Sans préjudice de l'application des articles 4.52 et 4.53, le Gouvernement flamand peut arrêter les règles et la procédure d'imposition des sanctions visées aux alinéas 1 et 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 122, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.52**
+
+[<sup>1</sup> Les associés sortants de la société de logement qui est contrainte à la fusion avec une autre société de logement, soit par reprise, soit par la création d'une nouvelle société de logement, reçoivent, au plus tard trois mois après la décision de fusion obligatoire du Gouvernement flamand, le remboursement de leurs titres et actions à la valeur qu'ils auraient sur la base des statuts si leur société avait été dissoute.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 123, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.53**
+
+[<sup>1</sup> Le retrait de l'agrément d'une société de logement entraîne de plein droit sa dissolution.
+
+La décision de retrait de l'agrément produit ses effets à partir de la date de sa notification à la société de logement. A partir de ce moment, toutes les compétences d'administration et d'engagement de la société de logement sont attribuées à un ou plusieurs liquidateurs désignés par le Gouvernement flamand. Ces derniers sont compétents pour prendre toute mesure et assurer tout acte d'administration et de disposition qui sont nécessaires au transfert du patrimoine de la société dissoute à la/aux société(s) de logement désignée(s) par le Gouvernement flamand. Le Gouvernement flamand est explicitement compétent, avec exclusion de tout organe social, pour fixer le mode de liquidation, entendre le rapport des liquidateurs qu'il a désignés et prononcer la clôture de la liquidation. Le Gouvernement flamand est seul compétent pour autoriser les liquidateurs à effectuer tout acte nécessaire à la procédure de liquidation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 124, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 10. [<sup>1</sup> Dispositions diverses]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 125, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.53/1**
+
+[<sup>1</sup> Pour l'application du Code flamand de la Fiscalité du 13 décembre 2013, du Code des droits d'enregistrement, d'hypothèque et de greffe et de la règlementation de la taxe sur la valeur ajoutée, les logements faisant partie de projets de logement à caractère social pour lesquels une société de logement agit en tant qu'initiatrice, sont agréés comme des logements sociaux réalisés par cette société de logement.
+
+Dans le présent article, on entend par projet de logement à caractère social : un projet de logement qui est financé en tout ou en partie par des moyens de Vlabinvest apb ou qui était financé en tout ou en partie par des moyens du Fonds d'investissement pour la politique foncière et du logement du Brabant flamand, [<sup>2</sup> ou financé en tout ou en partie par des ressources de la VMSW dans le cadre de sa mission visée à l'article 4.15]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 126, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 36, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 4.53/2**
+
+[<sup>1</sup> Le Gouvernement flamand fixe des contrats de location type pour la mission visée à l'article 4.40, 1° et 4°. Il ne peut être dérogé aux contrats de location type que dans les cas arrêtés par le Gouvernement flamand.
+
+Le contrat de location type visé à l'alinéa 1, règle au moins :
+
+1° la durée du contrat de location ;
+
+2° les possibilités de résiliation du locataire et du bailleur ;
+
+3° les cas où l'option visée à l'article 4.53/3 est retenue ;
+
+4° les obligations du bailleur et du locataire principal.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 127, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.53/3**
+
+[<sup>1</sup> § 1. Sans préjudice de l'application de l'article 4.51, et dans les conditions visées à l'alinéa 2, la VMSW est subrogée de plein droit dans les droits et obligations de la société de logement découlant d'un contrat conclu entre la société de logement et un ou plusieurs bailleurs sur le marché locatif privé.
+
+La subrogation visée à l'alinéa 1 a lieu dès que la VMSW, de sa propre initiative ou après notification par une partie intéressée, établit que les conditions suivantes sont cumulativement remplies :
+
+1° le bailleur a donné son accord pour la cession du contrat de location ;
+
+2° la société de logement se trouve dans un des cas suivants :
+
+a) soit une procédure de liquidation est engagée, soit une demande de liquidation judiciaire a été déposée, soit une décision de dissolution volontaire de la société de logement a été prise ;
+
+b) après une période de neuf mois au cours de laquelle la VMSW a repris l'obligation de payer le loyer en application de l'article 4.20, la société de logement n'est toujours pas en mesure de remplir ses obligations de payer le loyer ;
+
+3° le contrat de location est conclu entre un bailleur et une société de logement, et ne contient aucune clause incompatible avec les dispositions du présent Code et de ses arrêtés d'exécution. Le loyer convenu dans le contrat de location ne peut dépasser la limite de loyer fixée par le Gouvernement flamand pour l'obtention d'une intervention accordée en vertu de l'article 5. 73.
+
+La notification d'une partie intéressée, visée à l'alinéa 2, contient au moins une indication documentée du cas d'application, visé à l'alinéa 2, 2°, sur lequel elle est fondée.
+
+§ 2. Le Gouvernement flamand peut arrêter les modalités et la procédure de la subrogation visée au paragraphe 1, alinéa 1.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 128, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.53/4**
+
+[<sup>1</sup> Le Gouvernement flamand peut reconnaître une structure d'appui aux sociétés de logement qui soutient et accompagne les sociétés de logement.
+
+La structure d'appui a les missions suivantes :
+
+1° soutenir les sociétés de logement dans l'exécution de leurs missions visées à l'article 4.40, 4°, en assument les tâches suivantes :
+
+a) en concertation avec l'entité chargée par le Gouvernement flamand de la politique du logement, préparer, organiser et coordonner la concertation et l'échange d'expériences entre les sociétés de logement ;
+
+b) élaborer et offrir des formations et une intervision, et fournir des outils, sauf en matière de réglementation, de gestion financière, de TIC et de gestion des données ;
+
+c) accompagner les sociétés de logement qui ont besoin d'un soutien dans leur fonctionnement administratif, de manière proactive ;
+
+2° sur la base des données du rapport annuel, établir une analyse annuelle du fonctionnement des sociétés de logement relatif à leurs missions visées à l'article 4.40, 4°, 5° et 6° ;
+
+3° promouvoir le fonctionnement des sociétés de logement, dans le cadre des missions visées à l'article 4.40, 4°, auprès des investisseurs privés et des promoteurs de projets ;
+
+4° mettre en oeuvre des projets spécifiques au profit des sociétés de logement dans le cadre de l'exécution de leurs missions visées à l'article 4.40, 4°, 5° et 6°.
+
+Le Gouvernement flamand fixe les conditions particulières et la procédure de l'agrément de la structure d'appui pour les sociétés de logement. Le Gouvernement flamand peut imposer des conditions supplémentaires pour l'agrément. Le Gouvernement flamand peut à tout moment retirer l'agrément si la structure de soutien pour les sociétés de logement ne respecte pas les conditions fixées.
+
+Le Gouvernement flamand peut, dans les limites des crédits inscrits à cet effet au budget de la Région flamande, octroyer une subvention à la structure agréée d'appui aux sociétés de logement à titre d'intervention dans les frais de personnel et de fonctionnement liés à l'exécution des tâches visées à l'alinéa 2. Le Gouvernement flamand fixe les conditions d'octroi de la subvention, la justification des coûts éligibles et les modalités de paiement de la subvention.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 37, 010; En vigueur : 01-01-2023&gt;
+
+#### Titre 4.
+
+&lt;Abrogé par DCFL 2021-07-09/37, art. 130, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 1.
+
+&lt;Abrogé par DCFL 2021-07-09/37, art. 130, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.54**
+
+&lt;Abrogé par DCFL 2021-07-09/37, art. 130, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 2.
+
+&lt;Abrogé par DCFL 2021-07-09/37, art. 130, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.55**
+
+&lt;Abrogé par DCFL 2021-07-09/37, art. 130, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 3.
+
+&lt;Abrogé par DCFL 2021-07-09/37, art. 130, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.56**
+
+&lt;Abrogé par DCFL 2021-07-09/37, art. 130, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 4.
+
+&lt;Abrogé par DCFL 2021-07-09/37, art. 130, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.57**
+
+&lt;Abrogé par DCFL 2021-07-09/37, art. 130, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 5.
+
+&lt;Abrogé par DCFL 2021-07-09/37, art. 130, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.58**
+
+&lt;Abrogé par DCFL 2021-07-09/37, art. 130, 005; En vigueur : 20-09-2021&gt;
+
+##### Chapitre 6.
+
+&lt;Abrogé par DCFL 2021-07-09/37, art. 130, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 4.59**
+
+&lt;Abrogé par DCFL 2021-07-09/37, art. 130, 005; En vigueur : 20-09-2021&gt;
+
+#### Titre 5. Vlaams Woningfonds (Fonds flamand du logement)
+
+**Art. 4.60**
+
+La société [<sup>1</sup> ...]<sup>1</sup> " Vlaams Woningfonds ", ci-après dénommée VWF, est agréée comme organisation de logement social.
+
+----------
+
+(1)&lt;DCFL 2024-03-08/03, art. 19, 023; En vigueur : 19-04-2024&gt;
+
+**Art. 4.61**
+
+Le VWF accomplit les missions suivantes :
+
+1° améliorer les conditions de vie des ménages et isolés mal logés en mettant à leur disposition des logements adaptés et en les aidant à acquérir ou à maintenir en bon état leur propre logement ;
+
+2° coopérer dans la lutte contre le délabrement et l'inoccupation ;
+
+3° contribuer à l'adaptation des logements ;
+
+4° contribuer à la mise en uvre des mesures spécifiques concernant la politique des villes du Gouvernement flamand ;
+
+5° [<sup>2</sup> ...]<sup>2</sup>.
+
+[<sup>1</sup> [<sup>2</sup> Le VWF assume, à partir du 1er janvier 2023 jusqu'au 31 décembre 2025, les droits, obligations et pouvoirs de la Région flamande en ce qui concerne la prise en charge visée à l'alinéa 5.71]<sup>2</sup>.
+
+Les droits, obligations et charges visés à l'alinéa 2 comprennent également les droits, obligations et charges découlant des procédures judiciaires pendantes et futures concernant les décisions et engagements qui y sont visés.
+
+La Région flamande transfère les dossiers électroniques relatifs à la mission visée à l'alinéa 1, 5°, au VWF. Le VWF a libre accès aux dossiers papier relatifs à [<sup>2</sup> la prise en charge visée à l'article 5.71]<sup>2</sup>, qui sont gérés et conservés par la Région flamande ou par l'organisme qu'elle désigne à cet effet.
+
+[<sup>2</sup> ...]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 38, 010; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFL 2025-12-19/56, art. 73, 025; En vigueur : 01-01-2026&gt;
+
+**Art. 4.62**
+
+Afin de remplir ses missions, VWF peut effectuer toutes les opérations immobilières et mobilières qui y contribuent directement ou indirectement. Ces opérations peuvent comprendre, entre autres :
+
+1° louer, acheter ou échanger des biens immeubles ou acquérir d'autres droits réels sur ceux-ci ;
+
+2° rénover, remplacer ou bâtir ces biens immeubles et ensuite les mettre en location, les sous-louer ou céder des droits réels sur ceux-ci ;
+
+3° accorder des prêts sociaux spéciaux;
+
+[<sup>1</sup> 4° après approbation par le Gouvernement flamand, la poursuite du traitement des prêts au logement supplémentaires accordés par les provinces pour l'achat, la construction et la rénovation de logements en Région flamande ;]<sup>1</sup>
+
+5° [<sup>3</sup> ...]<sup>3</sup>.
+
+[<sup>2</sup> Le Fonds flamand du Logement agissant en tant que prêteur des prêts sociaux spéciaux visés à l'alinéa 1, 3°, est exempté de l'obligation d'autorisation ou d'enregistrement et est autorisé à agir en tant que prêteur en crédit hypothécaire tel que visé à l'article VII.159, § 1 et § 2, du Code de droit économique.]<sup>2</sup>
+
+[<sup>1</sup> Le Fonds flamand du Logement agissant en tant que prêteur conformément à l'alinéa premier, 4°, [<sup>2</sup> est exempté de l'obligation d'autorisation ou d'enregistrement et]<sup>2</sup> est autorisé à agir en tant que prêteur en crédit à la consommation visé à l'article VII.159, § 1 et 2 du Code de droit économique.]<sup>1</sup>
+
+[<sup>2</sup> La directive 2014/17/UE du Parlement européen et du Conseil du 4 février 2014 sur les contrats de crédit aux consommateurs relatifs aux biens immobiliers à usage résidentiel et modifiant les directives 2008/48/CE et 2013/36/UE et le règlement (UE) n° 1093/2010 ne s'applique pas au VWF, qui agit en tant que prêteur des prêts sociaux spéciaux visé à l'alinéa 1, 3° et 4°.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2021-12-23/05, art. 43, 007; En vigueur : 01-01-2022&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 39, 010; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2025-12-19/56, art. 74, 025; En vigueur : 01-01-2026&gt;
+
+**Art. 4.63**
+
+Dans les limites des crédits inscrits à cette fin dans le budget de la Région flamande, celle-ci peut octroyer une allocation au VWF en vue du financement de ses activités. Le Gouvernement flamand arrête les conditions d'octroi de l'allocation.
+
+**Art. 4.64**
+
+Le Gouvernement flamand peut autoriser le VWF, dans les limites du plafond fixé par les décrets budgétaires, à émettre ou à contracter des emprunts ou à prélever des crédits sous la garantie de la Région flamande. Il détermine le montant et les conditions de ces emprunts et crédits, le montant de toute garantie, la part d'intérêt prise à charge par la Région flamande et la manière de prise en charge. Il détermine également la durée de cette prise en charge et se réserve le droit d'actualiser à tout moment tout ou partie des parts d'intérêt restantes et, le cas échéant, de les verser de manière anticipée au VWF.
+
+La Région flamande peut accorder des prêts à taux d'intérêt réduit au VWF.
+
+Le VWF affecte le produit de ces emprunts et crédits, conformément aux conditions fixées par le Gouvernement flamand, aux opérations énumérées ci-dessous :
+
+1° accorder des prêts sociaux spéciaux tels que visés à l'article 5.66 ;
+
+2° acquérir des droits réels sur des bâtiments ou louer ces bâtiments pendant au moins neuf ans en vue de les mettre à la disposition des ménages et isolés mal logés comme logement après rénovation ou remplacement ;
+
+3° dans le cadre d'un projet de rénovation ou de comblement approuvé par le Gouvernement flamand, construire des logements pour les ménages et isolés mal logés, et acquérir des droits réels sur les terrains ou les bâtiments à démolir, nécessaires à cet effet ;
+
+4° améliorer ou adapter des logements ;
+
+5° autres opérations ordonnées par le Gouvernement flamand dans la cadre de la politique flamande du logement et de la mission spécifique du VWF à l'égard des ménages et isolés mal logés.
+
+Le VWF peut mettre à la disposition des ménages et isolés mal logés des logements acquisitifs sociaux, pour autant que ces logements soient réalisés conjointement avec des logements locatifs dans le cadre d'un projet de logement social mixte situé dans une zone de rénovation résidentielle.
+
+Un logement locatif dont le VWF est propriétaire et qui a été réalisé avec une subvention de projet conformément au livre 5, partie 2, titre 3, titre 4, chapitre 1, titre 5 et titre 6, peut être vendue au locataire en place aux conditions imposées par le Gouvernement flamand.
+
+**Art. 4.65**
+
+Le VWF comptabilise annuellement les réserves nécessaires pour couvrir les charges des emprunts et crédits visés à l'article 4.64 qu'il doit lui-même supporter. Le mode de comptabiliser et de calculer ces réserves est soumis à l'approbation du Gouvernement flamand. Les bénéfices résultant de l'utilisation de ces emprunts et crédits reviennent à la Région flamande. Ils sont comptabilisés dans une réserve indisponible, dont l'utilisation est réglementée par le Gouvernement flamand.
+
+**Art. 4.66**
+
+Le VWF s'engage à affecter une partie des emprunts ou crédits en question à l'acquisition ou à la rénovation, et si nécessaire à la démolition et au remplacement de logements ou de bâtiments inadaptés, à l'amélioration ou à l'adaptation de logements ou à l'octroi de prêts aux ménages et isolés mal logés pour de telles opérations.
+
+Le Gouvernement flamand détermine cette partie chaque année, mais elle ne peut être inférieure à 30 % des emprunts ou crédits en question.
+
+**Art. 4.67**
+
+En vue du respect des dispositions du présent titre, le VWF est placé sous le contrôle de deux représentants du gouvernement nommés par le Gouvernement flamand et dotés de compétences conformément à l'article 111.13 du Décret de gouvernance.
+
+Les représentants du gouvernement veillent en particulier à ce que la politique du VWF soit coordonnée avec et intégrée dans la politique flamande du logement. Les représentants du gouvernement veillent à ce que le VWF participe à la concertation visée à l'article 2.2, chaque fois qu'il y est invité.
+
+Le contrôleur vérifie en particulier aux décisions du conseil d'administration sur l'affectation des emprunts ou des crédits visés à l'article 4.64.
+
+#### Titre 6. Unions des locataires
+
+##### Chapitre 1. Agrément
+
+**Art. 4.68**
+
+Le Gouvernement flamand peut, en tenant compte de l'article 4.6,[<sup>1</sup> alinéa 1,]<sup>1</sup> agréer des unions des locataires [<sup>2</sup> ...]<sup>2</sup> dont le fonctionnement est subventionné conformément à l'article 4.70.
+
+Pour obtenir et maintenir l'agrément [<sup>2</sup> ...]<sup>2</sup>, au moins les conditions suivantes doivent être remplies :
+
+1° [<sup>2</sup> l'union des locataires est active et établie]<sup>2</sup> en Région flamande ;
+
+2° [<sup>2</sup> l'union des locataires ]<sup>2</sup> s'engage à réaliser les missions qui lui sont imposées par :
+
+a) le présent code et de ses arrêtés d'exécution ;
+
+b) tout autre décret ou arrêté, dans la mesure où il concerne la politique du logement social ;
+
+3° le [<sup>2</sup> l'union des locataires ]<sup>2</sup> accepte la tutelle du Gouvernement flamand et du contrôleur du logement social en particulier.
+
+Le Gouvernement flamand fixe la procédure d'agrément et de retrait de l'agrément des [<sup>2</sup> unions des locataires]<sup>2</sup>. Le Gouvernement flamand peut imposer des conditions supplémentaires pour être agréé [<sup>2</sup> ...]<sup>2</sup> notamment en matière de représentativité, d'échelle et de distribution régionale.
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 40, 010; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 42, 018; En vigueur : 09-06-2023&gt;
+
+##### Chapitre 2. Missions
+
+**Art. 4.69**
+
+Les [<sup>1</sup> unions des locataires]<sup>1</sup> contribuent à la réalisation du droit au logement et défendent les intérêts des ménages et isolés les plus nécessiteux sur le marché locatif privé.
+
+Les unions des locataires fournissent informations et conseils, sur une base individuelle ou collective, concernant toutes les matières relatives à l'habitation dans des logements locatifs, notamment des informations et conseils compréhensibles au sujet de la location. Elles peuvent prêter assistance juridique aux locataires et futurs locataires en général et aux locataires les plus nécessiteux en particulier.
+
+----------
+
+(1)&lt;DCFL 2023-04-21/08, art. 43, 018; En vigueur : 09-06-2023&gt;
+
+##### Chapitre 3. Subvention
+
+**Art. 4.70**
+
+Dans les limites des crédits inscrits à cet effet au budget de la Région flamande, le Gouvernement flamand peut, dans les conditions qu'il fixe, accorder des subventions au fonctionnement des [<sup>1</sup> unions des locataires visées]<sup>1</sup> à l'article 4.68. Le subventionnement à charge du budget des dépenses de la Région flamande ou de la Communauté flamande ne peut dépasser 100 % des frais totaux.
+
+----------
+
+(1)&lt;DCFL 2023-04-21/08, art. 44, 018; En vigueur : 09-06-2023&gt;
+
+##### Chapitre 4. Sanctions
+
+**Art. 4.71**
+
+Le Gouvernement flamand peut de sa propre initiative ou à la demande du contrôleur retirer l'agrément d'une union des locataires qui ne répond pas aux conditions d'agrément, ne réalise pas dûment les missions imposées par le présent code ou par arrêté du Gouvernement flamand ou dont le fonctionnement est en défaut.
+
+Préalablement à la décision d'imposer la sanction visée au premier alinéa, le Gouvernement flamand envoie une mise en demeure [<sup>1</sup> à l'union des locataires concernée ]<sup>1</sup>. Dans la mise en demeure le Gouvernement flamand explique pourquoi [<sup>1</sup> l'union des locataires ]<sup>1</sup> ne satisfait pas aux conditions d'agrément, n'exécute pas dûment les missions lui confiées par le présent code ou par arrêté du Gouvernement flamand, ne respecte pas ses engagements ou ne fonctionne pas correctement. La mise en demeure est transmise par envoi sécurisé. [<sup>1</sup> L'union des locataires qui a été mise en demeure est invitée à une audition. Elle peut s'y faire assister]<sup>1</sup>.
+
+Le Gouvernement flamand peut préciser les modalités et la procédure d'imposition de la sanction visée au premier alinéa.
+
+----------
+
+(1)&lt;DCFL 2023-04-21/08, art. 45, 018; En vigueur : 09-06-2023&gt;
+
+##### Chapitre S. Structure de soutien
+
+**Art. 4.72**
+
+Le Gouvernement flamand agrée une structure de soutien aux initiatives visant à promouvoir la position des candidats locataires et des locataires sur le marché locatif privé et dans le logement social, avec une attention particulière portée aux ménages et isolés les plus vulnérables.
+
+Le Gouvernement flamand arrête les conditions d'agrément de la structure de soutien. L'agrément peut être retiré à tout moment si les conditions fixées ne sont pas respectées.
+
+**Art. 4.73**
+
+La structure de soutien est chargée des tâches suivantes :
+
+1° soutenir les unions des locataires agréées dans l'accomplissement des tâches visées à l'article 4.69 et les représenter dans les organes consultatifs et de concertation en matière de logement ;
+
+2° soutenir les groupes de résidents dans le logement social ;
+
+3° prendre des initiatives à l'égard d'autres organisations ou instances en vue de promouvoir la position des candidats locataires et des locataires sur le marché locatif privé et dans le logement social, avec une attention particulière portée aux ménages et isolés les plus vulnérables.
+
+**Art. 4.74**
+
+Dans les limites des crédits inscrits à cet effet au budget de la Région flamande, le Gouvernement flamand peut, dans les conditions qu'il fixe, accorder des subventions au fonctionnement de la structure de soutien visée à l'article 4. 72. Le subventionnement à charge du budget des dépenses de la Région flamande ou de la Communauté flamande ne peut dépasser 100 % des frais totaux.
+
+## Partie 2. Autres acteurs résidentiels
+
+#### Titre 1. Organisations des bailleurs
+
+##### Chapitre 1. Agrément
+
+**Art. 4.75**
+
+Le Gouvernement flamand peut agréer des organisations des bailleurs dont le fonctionnement ou une partie de l'activité est subventionnée conformément à l'article 4.77.
+
+Pour obtenir l'agrément, au moins les conditions suivantes doivent être remplies :
+
+1° l'organisation des bailleurs représente les bailleurs privés ou les agents immobiliers ;
+
+2° l'organisation des bailleurs est active en Région flamande ;
+
+3° l'organisation des bailleurs s'engage à exécuter les missions qui lui sont imposées par le présent code et ses arrêtés d'exécution ;
+
+4° l'organisation des bailleurs s'engage à accepter la tutelle du Gouvernement flamand.
+
+Le Gouvernement flamand fixe la procédure d'octroi et de retrait de l'agrément. Le Gouvernement flamand peut imposer des conditions d'agrément supplémentaires, notamment en matière de représentativité, d'échelle et de distribution régionale.
+
+##### Chapitre 2. Missions
+
+**Art. 4.76**
+
+Les organisations de bailleurs agréées contribuent à la réalisation du droit au logement pour tous et défendent les intérêts des bailleurs ou des agents immobiliers sur le marché locatif privé.
+
+Les organisations de bailleurs agréées fournissent des informations et des conseils, à titre individuel ou collectif, sur toutes les questions relatives à la mise en location de logements. Elles peuvent fournir une assistance juridique aux bailleurs.
+
+##### Chapitre 3. Subvention
+
+**Art. 4.77**
+
+Dans les limites des crédits inscrits à cet effet au budget de la Région flamande, le Gouvernement flamand peut, dans les conditions qu'il fixe, accorder des subventions au fonctionnement ou pour des parties d'activités des organisations des bailleurs agréées visées à l'article 4. 75, ou pour des projets complémentaires ou novateurs, mis en uvre par des organisations des bailleurs agréées ou par d'autres acteurs. Le subventionnement à charge du budget des dépenses de la Région flamande ne peut dépasser 100 % des frais totaux.
+
+##### Chapitre 4. Sanctions
+
+**Art. 4.78**
+
+Le Gouvernement flamand peut retirer l'agrément de l'organisation des bailleurs.
+
+#### Titre 2. Réservé à un usage ultérieur
+
+## Partie 3. Contrôle
+
+#### Titre 1. Contrôle des acteurs du logement
+
+**Art. 4.79**
+
+Un contrôleur du logement social, ci-après appelé contrôleur, exerce dans le ressort qui lui est attribué le contrôle des opérations suivantes :
+
+1° les opérations des organisations de logement social, à l'exception de la VMSW, en vertu des livres 4, 5 et 6 ; Les opérations effectuées à partir du retrait de l'agrément d'une organisation de logement social, conformément aux articles 4.51, 4.53 et 4. 71, alinéa premier, jusqu'à la clôture de la liquidation, sont assimilées aux opérations précitées ;
+
+2° [<sup>3</sup> ...]<sup>3</sup>
+
+3° les opérations suivantes des CPAS, des associations d'aide sociale, des communes et des structures de coopération intercommunale :
+
+a) les opérations en vertu des [<sup>1</sup> article 4.1/1 et]<sup>1</sup> livres 5 et 6 ;
+
+b) la mise en location de logements autres que sociaux en vertu du livre 6, en vue d'atteindre l'objectif social contraignant visé à l'article 2.28 ;
+
+c) la vente de logements et de lots autres que sociaux en application de l'article 5.91, en vue d'atteindre l'objectif social contraignant visé à l'article 2.27 ;
+
+4° les opérations la structure de soutien agréée, visée à l'article 4. 72, en vertu du présent livre ;
+
+5° les opérations des sociétés de crédits agréées, visées à l'article 5.58, [<sup>2</sup> ...]<sup>2</sup>;
+
+6° les opérations suivantes de Vlabinvest apb :
+
+a) les décisions de mise à disposition, y compris les pièces justificatives, en vue de la mise en location, du bail emphytéotique ou de la vente de logements et de lots dans le cadre d'un projet de logement à caractère social ;
+
+b) l'évaluation, y compris les pièces justificatives, des candidats locataires, emphytéotes ou acheteurs par le comité d'évaluation ;
+
+7° les opérations des organisations des bailleurs agréées, visées à l'article 4. 75, subventionnées en vertu de l'article 4. 77.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 131, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2021-12-23/05, art. 13, 007; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DCFL 2022-06-03/17, art. 41, 010; En vigueur : 01-01-2023&gt;
+
+#### Titre 2. Profil, statut et ressort du contrôleur
+
+**Art. 4.80**
+
+Le Gouvernement flamand détermine :
+
+1° le profil et le statut du contrôleur ;
+
+2° les modalités de désignation des contrôleurs ;
+
+3° les modalités d'attribution des ressorts.
+
+#### Titre 3. Exercice du contrôle
+
+**Art. 4.81**
+
+Le contrôleur dispose de la compétence d'obtenir toute information nécessaire ou utile à l'exercice de sa fonction de contrôle. Il peut assister aux réunions relatives aux opérations visées à l'article 4. 79, des organes de gestion des instances visées à l'article 4. 79, relevant de son ressort. Lorsque l'intérêt général ou le respect des lois, décrets, règlements ou statuts l'exigent, le contrôleur peut déterminer la matière dont l'organe de gestion des instances visées à l'article 4. 79, doit délibérer ainsi que le délai dans lequel cette délibération doit avoir lieu.
+
+Dans le cadre de l'exercice du contrôle, le contrôleur a le droit d'effectuer des visites sur place et d'y inspecter tous les documents et pièces et d'avoir un accès électronique pour consulter les bases de données et applications de gestion numériques, utilisées par les organisations de logement social, tant sur place qu'à distance. Le contrôleur peut faire appel à une assistance externe pour l'exécution de ses tâches.
+
+**Art. 4.82**
+
+S'ils l'estiment nécessaire, les contrôleurs communiquent les informations obtenues au cours de leur enquête à tous les agents chargés du contrôle ou de l'application d'une autre législation, si ces informations peuvent les concerner dans l'exercice du contrôle dont ils sont chargés ou l'application d'une autre législation. Les contrôleurs peuvent également communiquer ces informations aux bailleurs sociaux visés à l'article 1.3, § 1, premier alinéa, 49°, s'ils l'estiment nécessaire.
+
+Les informations obtenues dans l'exercice des obligations prescrites par l'autorité judiciaire ne peuvent être communiquées qu'avec l'autorisation expresse de celle-ci.
+
+Les agents chargés du contrôle ou de l'application d'une autre législation, et les bailleurs sociaux visés à l'article 1.3, § 1, premier alinéa, 49°, ne peuvent utiliser les informations obtenues en vertu du présent paragraphe que pour l'exercice de toutes les missions qui leur sont confiées.
+
+**Art. 4.83**
+
+Sans préjudice de l'application de l'article 44/1 de la loi du 5 août 1992 sur la fonction de police, tous les services de la Région flamande, de la Communauté flamande, des provinces, des communes, des associations auxquelles ils appartiennent, et les bailleurs sociaux visés à l'article 1.3, § 1, premier alinéa, 49°, fournissent à la demande des contrôleurs toutes les informations que ceux-ci jugent utiles pour le contrôle du respect de la législation dont ils sont chargés. Ils donnent accès à tous les supports d'information et en fournissent des copies sous quelque forme que ce soit. Les informations et les copies sont fournies gratuitement.
+
+Les informations et les supports d'information recueillis dans le cadre de l'exécution des missions imposées par l'autorité judiciaire ne peuvent être communiqués qu'avec l'autorisation expresse de celle-ci.
+
+Les contrôleurs ne peuvent utiliser les informations obtenues en vertu du présent article que pour l'exercice de toutes les missions de contrôle dont ils sont chargés.
+
+**Art. 4.84**
+
+En application de l'article 23, paragraphe 1, e) et h) du règlement (UE) n° 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et abrogeant la directive 95/46/CE (règlement général sur la protection des données), les contrôleurs peuvent décider de ne pas appliquer les obligations et les droits visés aux articles 12 à 22 du règlement précité, au traitement de données à caractère personnel dans le cadre d'une enquête concernant une personne physique déterminée, si les conditions énoncées aux alinéas deux à dix sont remplies.
+
+La possibilité de dérogation visée à l'alinéa premier ne s'applique que pendant la période au cours de laquelle l'intéressé fait l'objet d'un contrôle, d'une enquête ou des travaux préparatoires à ces fins, dans le cadre des missions décrétales et réglementaires des contrôleurs, et à condition qu'il soit ou puisse être nécessaire pour le bon déroulement de l'enquête que les obligations et droits visés aux articles 12 à 22 du règlement précité ne soient pas appliqués. Le cas échéant, la durée des travaux préparatoires ne peut pas dépasser un an à compter de la réception d'une demande d'exercice de l'un des droits visés aux articles 12 à 22 du règlement précité.
+
+Les données à caractère personnel visées à l'alinéa premier ne sont pas conservées plus longtemps qu'il n'est nécessaire aux fins pour lesquelles elles sont traitées.
+
+La possibilité de dérogation visée à l'alinéa premier ne concerne pas les données qui sont étrangères à l'objet de l'enquête ou du contrôle qui justifie le refus ou la limitation des droits visés à l'alinéa premier.
+
+Si, dans le cas visé à l'alinéa premier, l'intéressé soumet durant la période visée à l'alinéa deux une demande sur la base des articles 12 à 22 du règlement précité, le fonctionnaire compétent en matière de protection des données en confirme la réception.
+
+Le fonctionnaire compétent en matière de protection des données informe l'intéressé par écrit, dans les plus brefs délais et en tout cas dans le mois à compter du jour suivant la réception de la demande, de tout refus ou limitation des droits visés à l'alinéa premier. Aucun motif de refus ou de limitation ne doit être fourni si cela porterait atteinte aux missions décrétales et réglementaires des contrôleurs, sans préjudice de l'application de l'alinéa huit. Si nécessaire, le délai précité peut être prolongé de deux mois compte tenu du nombre de demandes et de leur complexité. Le responsable du traitement informe l'intéressé de la prolongation et des motifs du report dans un délai d'un mois à compter du jour suivant la réception de la demande.
+
+Le fonctionnaire compétent en matière de protection des données informe l'intéressé également sur la possibilité d'introduire une demande auprès de la Commission de contrôle flamande pour le traitement des données à caractère personnel conformément à l'article 10/5 du décret du 18 juillet 2008 relatif à l'échange électronique de données administratives, et de former un recours en justice.
+
+Le fonctionnaire compétent en matière de protection des données consigne les motifs de fait ou de droit sur lesquels se fonde la décision. Il tient ces informations à la disposition de la Commission de contrôle flamande.
+
+Une fois l'enquête terminée, les droits énoncés aux articles 13 à 22 du règlement précité sont, le cas échéant, appliqués à nouveau, conformément à l'article 12 du règlement précité.
+
+Si un dossier contenant des données à caractère personnel visées à l'alinéa premier a été transmis au ministère public et peut conduire à des activités sous la direction du ministère public ou d'un juge d'instruction, et qu'il existe une incertitude quant au secret de l'enquête sous la direction du ministère public ou d'un juge d'instruction, le fonctionnaire compétent en matière de protection des données ne peut répondre à la demande de la personne concernée conformément aux articles 12 à 22 du règlement précité, qu'après que le ministère public ou, le cas échéant, le juge d'instruction a confirmé qu'une réponse ne compromet pas ou ne peut pas compromettre l'enquête.
+
+#### Titre 4. Sanctions et mesures
+
+##### Chapitre 1. Suspension et annulation
+
+**Art. 4.85**
+
+§ 1. Lors de l'exercice du contrôle sur les instances visées à l'article 4. 79, le contrôleur dispose de deux jours ouvrables pour suspendre une décision qu'il estime contraire aux lois, décrets ou statuts ou à l'intérêt général. Le contrôleur peut retirer cette suspension, auquel cas il en informe l'instance concernée.
+
+§ 2. Dans le cas d'une suspension, le contrôleur dispose de vingt jours civils pour procéder à une annulation. Lorsqu'aucune suspension n'a été prononcée, le contrôleur dispose de quatre jours ouvrables pour procéder à une annulation.
+
+Le délai de suspension ou d'annulation d'une décision prend cours le jour suivant le jour où le contrôleur a pris connaissance de la décision. La date d'échéance est comprise dans le calcul de ce délai. Si la date d'échéance est un samedi, un dimanche, un jour férié légal ou décrétai, elle est reportée au premier jour ouvrable suivant.
+
+À défaut d'une annulation dans un délai de vingt jours civils, la suspension est levée, rendant la décision à nouveau exécutoire.
+
+§ 3. La suspension ou l'annulation d'une décision sur la base d'une enfreinte à l'intérêt général n'est possible que si la décision est manifestement incompatible avec le bon fonctionnement des instances visées à l'article 4. 79 ou que l'impact de cette décision ternit l'image des instances visées à l'article 4. 79.
+
+**Art. 4.86**
+
+Par dérogation à l'article 4.85, §§ 1 et 2, le contrôleur peut uniquement suspendre ou annuler des décisions prises par les instances visées à l'article 4. 79, 5° relatives à l'octroi de prêts sociaux, et dispose de quatre jours ouvrables pour cette suspension ou annulation.
+
+Le délai de suspension ou d'annulation d'une telle décision prend cours le jour suivant le jour où il a pris connaissance de la décision. La date d'échéance est comprise dans le calcul du délai de suspension ou d'annulation.
+
+Par dérogation à l'article 4.85, le Gouvernement flamand peut définir une procédure adaptée pour la suspension et l'annulation des décisions autres que celles, visées au premier alinéa, prises par les instances visées à l'article 4. 79, 5°.
+
+**Art. 4.87**
+
+Les instances visées à l'article 4. 79 peuvent former un recours auprès du Gouvernement flamand contre l'annulation dans un délai de trente jours civils. Le Gouvernement flamand doit statuer sur le recours dans un délai de quarante-cinq jours civils à compter de sa notification. L'annulation est définitive à défaut de recours dans les trente jours civils, en cas de rejet du recours ou à défaut de décision dans le délai imparti.
+
+**Art. 4.88**
+
+Lorsqu'une décision a été annulée à titre définitif conformément à l'article 4.87, le contrôleur peut définir la matière sur laquelle l'organe de gestion des instances visées à l'article 4. 79 doit prendre une décision et la lui soumettre, ainsi que le délai de décision. À défaut de décision dans le délai imparti ou d'approbation de la décision par le contrôleur, celui-ci peut prendre la place de l'organe de gestion après notification au Gouvernement flamand à cette fin il peut faire appel à une assistance externe.
+
+##### Chapitre 2. Amende administrative
+
+**Art. 4.89**
+
+Le contrôleur peut imposer une amende administrative aux sociétés de logement social, à l'exception de la VMSW, à la structure de soutien agréée, visée à l'article 4. 72, et aux sociétés de crédit agréées, visées à l'article 5.58, [<sup>2</sup> ...]<sup>2</sup>, qui, après être mises en demeure par écrit, continuent d'enfreindre les dispositions du présent code ou de ses arrêtés d'exécution portant sur les conditions d'obtention ou de maintien de l'agrément ou qui enfreignent les mêmes dispositions réglementaires que celles mentionnées dans la mise en demeure ou qui mettent en uvre une décision qui a été suspendue ou annulée.
+
+Le contrôleur peut imposer une amende administrative [<sup>3</sup> ...]<sup>3</sup> au CPAS, à une association d'aide sociale, à la commune ou à une structure de coopération intercommunale qui, après être mises en demeure par écrit, entravent l'exercice du contrôle visé aux articles 4.79 et 4.81, alinéa deux, ou qui ne respectent pas les délais définis par le Gouvernement flamand pour rendre le contrôle possible. [<sup>1</sup> Le contrôleur peut imposer une amende administrative à la commune, au CPAS, à l'association d'aide sociale et au partenariat intercommunal qui, après mise en demeure par écrit, ne respectent pas l'obligation de réinvestissement visée à l'article 4.1/1.]<sup>1</sup>
+
+Une défense écrite peut être introduite contre la mise en demeure visée aux alinéas premier et deux. Le Gouvernement flamand définit le délai d'introduction de la défense.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 132, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2021-12-23/05, art. 14, 007; En vigueur : 01-01-2022&gt;
+
+(3)&lt;DCFL 2022-06-03/17, art. 42, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 4.90**
+
+L'amende administrative doit être proportionnelle à la gravité des faits. L'amende ne peut en aucun cas dépasser 50 000 euros.
+
+**Art. 4.91**
+
+En cas de défaut de paiement de l'amende administrative, le contrôleur émet une contrainte, visée et déclarée exécutoire par l'agent dirigeant de l'entité à laquelle appartiennent les contrôleurs. La contrainte est signifiée par exploit d'huissier.
+
+### Livre 5. Instruments de la politique du logement
+
+## Partie 1. Fonds
+
+#### Titre 1. Fonds du logement
+
+**Art. 5.1**
+
+Le Fonds du logement est créé comme fonds budgétaire tel que visé à l'article 15, § 2 des lois du Code flamand des Finances publiques du 29 mars 2019.
+
+**Art. 5.2**
+
+Sans préjudice de toute autre disposition contraire, les remboursements des subventions ou des interventions accordées au titre du présent code et recouvrées à la suite du non-respect par les bénéficiaires des engagements pris ou des conditions fixées sont attribués au Fonds du logement.
+
+Les recettes nettes résultant de l'application du Décret sur la redevance à partir de l'année de redevance 2005 sont également attribuées au Fonds du logement, ainsi que les recettes découlant du cofinancement européen.
+
+**Art. 5.3**
+
+Les ressources de ce Fonds doivent contribuer directement à ce qui peut bénéficier à la politique du logement, y compris la recherche scientifique, et aux projets de logement novateurs ou expérimentaux qui sont conformes aux objectifs des articles 1.5 et 1.6 ou qui contribuent au développement de la politique du logement dans un contexte international.
+
+**Art. S.4**
+
+Le Gouvernement flamand désigne les agents chargés du recouvrement des subventions et interventions, ainsi que les agents compétents pour émettre, viser et rendre exécutoire une contrainte à cet effet. Le Gouvernement flamand peut déléguer sa compétence en la matière au niveau le plus fonctionnel.
+
+#### Titre 2.
+
+&lt;Abrogé par DCFL 2022-06-03/17, art. 43, 010; En vigueur : 01-01-2023&gt;
+
+**Art. S.S**
+
+&lt;Abrogé par DCFL 2022-06-03/17, art. 43, 010; En vigueur : 01-01-2023&gt;
+
+**Art. S.6**
+
+&lt;Abrogé par DCFL 2022-06-03/17, art. 43, 010; En vigueur : 01-01-2023&gt;
+
+**Art. S.7**
+
+&lt;Abrogé par DCFL 2022-06-03/17, art. 43, 010; En vigueur : 01-01-2023&gt;
+
+**Art. S.S**
+
+&lt;Abrogé par DCFL 2022-06-03/17, art. 43, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 5.9**
+
+&lt;Abrogé par DCFL 2022-06-03/17, art. 43, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 5.10**
+
+&lt;Abrogé par DCFL 2022-06-03/17, art. 43, 010; En vigueur : 01-01-2023&gt;
+
+#### Titre 3.
+
+&lt;Abrogé par DCFL 2022-06-03/17, art. 44, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 5.11**
+
+&lt;Abrogé par DCFL 2022-06-03/17, art. 44, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 5.12**
+
+&lt;Abrogé par DCFL 2022-06-03/17, art. 44, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 5.13**
+
+&lt;Abrogé par DCFL 2022-06-03/17, art. 44, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 5.14**
+
+&lt;Abrogé par DCFL 2022-06-03/17, art. 44, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 5.15**
+
+&lt;Abrogé par DCFL 2022-06-03/17, art. 44, 010; En vigueur : 01-01-2023&gt;
+
+#### Titre 4. Fonds de lutte contre les expulsions
+
+**Art. 5.16**
+
+Dans le domaine politique de l'Environnement et de l'Aménagement du Territoire, un Service à gestion séparée est créé sous le nom de Fonds de lutte contre les expulsions, ci-après dénommé le Fonds.
+
+**Art. 5.17**
+
+En application de l'article 109 du Code flamand des Finances publiques du 29 mars 2019, le Gouvernement flamand règle le fonctionnement et la gestion du Fonds.
+
+**Art. 5.18**
+
+Le Fonds dispose des ressources suivantes :
+
+1° une dotation à charge du budget général des dépenses ;
+
+2° toutes les recettes résultant des activités et placements du Fonds ;
+
+3° le solde éventuel du Fonds au terme de l'exercice budgétaire précédent ;
+
+4° le recouvrement de paiements indus ;
+
+5° les contributions de tiers.
+
+**Art. 5.19**
+
+Les ressources du Fonds peuvent être affectées au financement de dépenses portant sur :
+
+1° l'octroi de subventions aux bailleurs ou aux locataires et aux intermédiaires qui remplissent les conditions d'obtention de l'intervention, telles que fixées par le Gouvernement flamand ;
+
+2° les frais de fonctionnement propres au Fonds.
+
+#### Titre 5. [<sup>1</sup> Fonds de l'inspection du logement]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 134, 005; En vigueur : 01-01-2023&gt;
+
+**Art. 5.19/1**
+
+[<sup>1</sup> Le Fonds de l'inspection du logement est créé comme fonds budgétaire visé à l'article 15, § 2, du Code flamand des Finances publiques du 29 mars 2019.
+
+Les recettes réalisées en vertu des articles 1.8, 3.43 à 3.50, 3.55, livre 4, partie 3, et livre 6, partie 12, du Code flamand du Logement de 2021 reviennent au Fonds de l'Inspection du logement.
+
+Les recettes, visées à l'alinéa 2, servent uniquement à couvrir les dépenses liées au maintien et à la surveillance du respect de l'application du Code flamand du Logement de 2021.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 135, 005; En vigueur : 01-01-2023&gt;
+
+## Partie 2. Financement des projets de logement
+
+#### Titre 1. Projets de logement social
+
+**Art. 5.20**
+
+Le Gouvernement flamand peut octroyer des subventions permettant aux initiateurs de projets de logement social de mettre des logements locatifs sociaux à la disposition des ménages et isolés mal logés.
+
+#### Titre 2. Promotion de l'utilisation rationnelle de l'énergie
+
+**Art. 5.21**
+
+Le Gouvernement flamand peut octroyer des subventions permettant aux bailleurs de logements locatifs sociaux [<sup>1</sup> et de chambres d'étudiant abordables]<sup>1</sup> de prendre des mesures visant à promouvoir l'utilisation rationnelle de l'énergie au sens de l'article 1.1.3, 106°, du Décret sur l'énergie du 8 mai 2009.
+
+----------
+
+(1)&lt;DCFL 2023-12-22/12, art. 32, 016; En vigueur : 01-01-2024&gt;
+
+#### Titre 3.Aménagement et adaptation de l'infrastructure du logement [<sup>1</sup> en stockage, transport et installation d'unités mobiles de logement et les travaux d'infrastructure nécessaires à leur utilisation]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-12-20/24, art. 10, 024; En vigueur : 01-01-2025&gt;
+
+##### Chapitre 1. Dispositions générales
+
+**Art. 5.22**
+
+Afin de promouvoir le droit au logement, le Gouvernement flamand peut, en fonction des crédits inscrits à cet effet au budget de la Région flamande, accorder des subventions pour un certain nombre d'opérations relatives aux logements locatifs sociaux, qui s'inscrivent dans le cadre de l'aménagement ou de l'adaptation de l'infrastructure du logement.
+
+En fonction des crédits inscrits à cet effet au budget de la Région flamande, le Gouvernement flamand peut accorder une subvention pour l'aménagement ou l'adaptation de l'infrastructure du logement nécessaire à la réalisation d'un projet de logement social mixte tel que visé à l'article 1.3, § 1, premier alinéa, 70°, a). Le Gouvernement flamand détermine la proportion minimale de logements locatifs sociaux qui doit être réalisée dans le cadre du projet de logement social mixte susmentionné pour pouvoir bénéficier d'une subvention pour l'aménagement ou l'adaptation de l'infrastructure du logement.
+
+[<sup>1</sup> Le Gouvernement flamand peut, en fonction des crédits inscrits à cet effet au budget de la Région flamande, accorder une subvention pour le stockage, le transport et l'installation d'unités mobiles de logement destinées au logement tem-poraire des locataires de logements locatifs sociaux et pour les travaux d'infras-tructure nécessaires à cet effet.]<sup>1</sup>
+
+Compte tenu des dispositions du présent chapitre, le Gouvernement flamand fixe les conditions particulières dans lesquelles il accorde des subventions.
+
+----------
+
+(1)&lt;DCFL 2024-12-20/24, art. 11, 024; En vigueur : 01-01-2025&gt;
+
+**Art. 5.23**
+
+Le Gouvernement flamand peut accorder des subventions pour permettre aux initiateurs de :
+
+1° viabiliser des terrains, le cas échéant, en démolissant les constructions existantes ;
+
+2° exécuter ou adapter des travaux d'infrastructure, à savoir l'équipement des routes, les travaux d'environnement, l'éclairage public, le réseau public de distribution d'eau et les installations d'évacuation et d'épuration des eaux usées nécessaires aux logements [<sup>1</sup> ou les unités mobiles de logement]<sup>1</sup> en question;
+
+3° aménager les équipements communautaires;
+
+[<sup>1</sup> 4° de stocker, transporter, installer les unités mobiles de logement visées à l'article 5.22, alinéa 3, et d'aménager la parcelle sur laquelle les unités mobiles de logement sont placées.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2024-12-20/24, art. 12, 024; En vigueur : 01-01-2025&gt;
+
+**Art. 5.24**
+
+[<sup>1</sup> Les travaux d'infrastructure, visés à l'article 5.23, 2°, [<sup>2</sup> à l'exception des travaux d'infrastructure ayant trait aux unités mobiles de logement temporaire]<sup>2</sup> ne peuvent être subventionnés que si, tout comme le terrain sur lequel ou dans lequel ils sont réalisés, ils sont transférés à la commune dans le délai fixé par le Gouvernement flamand, afin d'être inclus dans le domaine public communal ou à un gestionnaire des égouts désigné par la commune en charge de la gestion et de l'entretien des égouts communaux. L'initiateur joint à la demande de subvention le contrat ou l'accord entre la commune et le gestionnaire des égouts. La commune et l'initiateur déclarent leur accord de principe avec ce transfert au plus tard au moment de la présentation de la demande de subvention.]<sup>1</sup>
+
+L'initiateur peut transférer à la commune les équipements communautaires qui ne sont pas exclusivement destinés aux occupants des logements du projet de logement social, afin d'être inclus dans le domaine public communal.
+
+Pour le transfert à la commune visé au présent article, l'initiateur peut demander une indemnisation qui ne peut pas dépasser la partie non subventionnée du prix de revient des travaux, opérations et structures.
+
+Le transfert s'effectue selon une procédure élaborée par le Gouvernement flamand, qui offre les garanties nécessaires à la commune en termes de consultation lors de la conception et de la réalisation des opérations.
+
+La commune entretient l'infrastructure résidentielle visée au premier alinéa à partir de sa réception provisoire, ou de sa mise en service si celle-ci précède la réception provisoire. Le propriétaire entretient les équipements communautaires à partir de leur réception provisoire, ou de leur mise en service si celle-ci précède la réception provisoire.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 136, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2024-12-20/24, art. 13, 024; En vigueur : 01-01-2025&gt;
+
+**Art. 5.25**
+
+Lorsque l'exécution d'une opération, telle que visée dans le présent titre, nécessite l'évacuation de logements, l'initiateur est tenu de reloger, dans les conditions fixées par le Gouvernement flamand, les occupants qui remplissent les conditions fixées sur la base du livre 6, partie 4, et les occupants d'un logement appartenant à une organisation de logement social ou à l'initiateur.
+
+**Art. 5.26**
+
+§ 1. Sans préjudice des exceptions prévues au présent chapitre [<sup>3</sup> ...]<sup>3</sup> et compte tenu des dispositions de l'article 4.6,[<sup>2</sup> alinéa 1]<sup>2</sup> la subvention visée à l'article 5.22 peut être accordée aux initiateurs suivants :
+
+1° la VMSW et les [<sup>1</sup> sociétés de logement]<sup>1</sup> ;
+
+2° le VWF;
+
+3° les communes ;
+
+4° les structures de coopération intercommunale, cependant limitée à la subvention pour l'infrastructure du logement ;
+
+5° les centres publics d'aide sociale et les associations d'aide sociale.
+
+§ 2. Dans le présent paragraphe, on entend par :
+
+1° Contrat général : le Contrat général entre la Communauté flamande et la Région flamande, représentées par le Gouvernement flamand, et Serviceflats Invest nv, conclu le 18 octobre 1995 et modifié par un addenda des 3 décembre 1996 et 22 juillet 2008 ;
+
+2° résidences-services : des unités de logement individuelles dans un bâtiment de résidences-services tel que visé à l'article 2, 5° des décrets coordonnés du 18 décembre 1991 relatifs aux structures destinées aux personnes âgées ;
+
+3° Serviceflats Invest nv : la société d'investissement immobilière à capital fixe agréée par l'arrêté du Gouvernement flamand du 18 octobre 1995.
+
+Par dérogation au paragraphe 1, tant que Serviceflats Invest nv n'a pas atteint l'objectif prévu dans le Contrat général de réaliser 2 000 résidences-services, la subvention pour les opérations visées à l'article 5.23 peut également être accordée à un CPAS ou à une association sans but lucratif lorsque des résidences-services sont créées dans le cadre d'un contrat de leasing immobilier entre Serviceflats Invest nv et le CPAS ou l'association sans but lucratif.
+
+§ 3. Par dérogation au paragraphe 1, les subventions visées à l'article 5.23 peuvent également être accordées à des initiateurs constitués sous la forme d'une association sans but lucratif conformément à la loi du 27 juin 1921, qui accorde la personnalité juridique aux associations sans but lucratif et aux établissements d'utilité publique.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 137, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 45, 010; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2026-02-27/17, art. 25, 027; En vigueur : 01-01-2026&gt;
+
+**Art. 5.27**
+
+Le Gouvernement flamand détermine le montant des subventions visées au présent chapitre. La subvention accordée conformément au présent chapitre peut atteindre 100 % du montant éligible.
+
+En l'absence de disposition décrétale contraire, tout autre avantage que le Gouvernement flamand peut accorder pour la même opération sur la base de ses compétences régionales ou communautaires est inclus dans ces pourcentages.
+
+Par dérogation à l'alinéa deux, la subvention prévue au présent chapitre peut être combinée, pour la partie non subventionnée, avec les autres moyens que les initiateurs visés à l'article 5.26, § 1 peuvent obtenir sur la base du présent code en vue du financement de leurs opérations d'investissement.
+
+**Art. 5.28**
+
+Le Gouvernement flamand fixe les règles particulières pour le remboursement éventuel de la subvention reçue dans les cas où, au cours de la réalisation du projet de logement social, un ou plusieurs éléments ont été modifiés, en particulier l'affectation des terrains ou des bâtiments.
+
+##### Chapitre 2. Dispositions particulières pour le secteur privé
+
+**Art. 5.29**
+
+§ 1. En fonction des crédits inscrits à cet effet dans le budget de la Région flamande et compte tenu des dispositions des articles 5.24 et 5.27, le Gouvernement flamand peut également accorder la subvention visée à l'article 5.23 à des initiateurs autres que ceux visés aux articles 5.26, §§ 1 et 3.
+
+La subvention n'est accordée au titre du présent chapitre que si les opérations prévues sont destinées à réaliser des logements locatifs sociaux dans une zone de rénovation ou de construction résidentielle.
+
+§ 2. Les logements sont louées ou sous-louées par un initiateur visé à l'article 5.26, § 1 à des ménages ou isolés mal logés.
+
+§ 3. Sous réserve de l'application de l'article 5.26, § 3 le bénéficiaire de la subvention s'engage, en ce qui concerne les logements, à une promesse unilatérale de vente au profit de l'initiateur impliqué, visé au § 2. Dans le cas où l'option d'achat n'est pas levée, il accorde à la VMSW et à la ou aux [<sup>1</sup> sociétés de logement]<sup>1</sup> dans la zone d'activité desquelles le projet de logement est situé un droit de préemption sur ces logements.
+
+Les modalités de la promesse de vente et du droit de préemption, y compris le délai d'exercice de l'option d'achat et le calcul du prix d'achat, sont fixées dans une convention à conclure par le bénéficiaire de la subvention :
+
+\- soit, avec la VMSW ou une [<sup>1</sup> société de logement]<sup>1</sup>, en cas de coopération avec l'un d'entre eux ;
+
+\- soit, dans d'autres cas, avec la Région flamande, représentée par le Gouvernement flamand.
+
+La convention contient également tous les accords concernant la mise à disposition des logements à l'initiateur visé au § 2. Les dispositions du livre 6 s'appliquent à la location ou à la sous-location aux ménages et isolés mal logés.
+
+La convention avec la VMSW ou avec une [<sup>1</sup> société de logement]<sup>1</sup> est soumise à l'approbation du Gouvernement flamand.
+
+§ 4. Le Gouvernement flamand arrête les modalités particulières pour la subvention prévue au présent article.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 138, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 5.30**
+
+Sous réserve de l'application de l'article 5.26, § 3, les ouvrages qu'il a effectués sont grevés, au profit de la Région flamande, d'une hypothèque de premier rang à concurrence de la subvention, majorée des intérêts au taux légal, en garantie de l'exécution des prestations que le bénéficiaire de la subvention s'est engagé à fournir dans la convention visée à l'article 5.29, § 3.
+
+L'hypothèque est radiée au moment de l'aliénation des logements, comme déterminé par le Gouvernement flamand.
+
+Sous réserve de l'accord du bénéficiaire de la subvention, l'hypothèque visée au premier alinéa peut être constituée sur d'autres biens immeubles lui appartenant. Elle peut également être remplacée, avec l'accord du Gouvernement flamand, par une garantie bancaire du même montant.
+
+Les dispositions du premier alinéa ne s'appliquent pas si les ouvrages deviennent, dès leur construction, la propriété de la Région flamande ou de l'initiateur impliqué, visé à l'article 5.29, § 2.
+
+**Art. 5.31**
+
+Le Gouvernement flamand peut assortir de la garantie de la Région flamande les emprunts ou les crédits contractés par le bénéficiaire de la subvention pour l'exécution des prestations auxquelles il s'est engagé. La garantie ne dépasse jamais 90 % du montant initial de l'emprunt ou du crédit. Elle ne concerne que le remboursement du capital.
+
+#### Titre 4. Réductions de loyer
+
+##### Chapitre 1. Dispositions générales
+
+**Art. 5.32**
+
+Afin de promouvoir le droit au logement, le Gouvernement flamand peut, en fonction des crédits inscrits à cet effet au budget de la Région flamande, accorder des subventions pour un certain nombre d'opérations relatives aux logements locatifs sociaux, [<sup>1</sup> et aux chambres d'étudiant abordables]<sup>1</sup>.
+
+Compte tenu des dispositions du présent chapitre, le Gouvernement flamand fixe les conditions particulières dans lesquelles il accorde des subventions.
+
+----------
+
+(1)&lt;DCFL 2023-12-22/12, art. 33, 016; En vigueur : 01-01-2024&gt;
+
+**Art. 5.33**
+
+Le Gouvernement flamand peut accorder des subventions aux bailleurs de logements locatifs sociaux [<sup>1</sup> et de chambres d'étudiant abordables]<sup>1</sup> leur permettant d'accorder des réductions de loyer dans les conditions fixées par le Gouvernement flamand.
+
+----------
+
+(1)&lt;DCFL 2023-12-22/12, art. 34, 016; En vigueur : 01-01-2024&gt;
+
+**Art. 5.34**
+
+Sans préjudice des exceptions prévues au présent chapitre [<sup>3</sup> ...]<sup>3</sup> et compte tenu des dispositions de l'article 4.6, [<sup>2</sup> alinéa 1,]<sup>2</sup> la subvention visée à l'Article 5.32 peut être accordée aux initiateurs suivants :
+
+1° la VMSW et les [<sup>1</sup> sociétés de logement]<sup>1</sup> ;
+
+2° le VWF;
+
+3° les communes ;
+
+4° les structures de coopération intercommunale, cependant limitée à la subvention pour l'infrastructure du logement ;
+
+5° les centres publics d'aide sociale et les associations d'aide sociale.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 139, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 46, 010; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2026-02-27/17, art. 26, 027; En vigueur : 01-01-2026&gt;
+
+**Art. 5.35**
+
+Lorsque l'exécution d'une opération, telle que visée dans le présent titre, nécessite l'évacuation de logements, l'initiateur est tenu de reloger, dans les conditions fixées par le Gouvernement flamand, les occupants qui remplissent les conditions fixées sur la base du livre 6, partie 4, et les occupants d'un logement appartenant à une organisation de logement social ou à l'initiateur.
+
+**Art. 5.36**
+
+Le Gouvernement flamand détermine le montant des subventions visées au présent chapitre. En l'absence de disposition décrétale contraire, ce montant ne peut jamais dépasser 85 % du montant éligible.
+
+En l'absence de disposition décrétale contraire, tout autre avantage que le Gouvernement flamand peut accorder pour la même opération sur la base de ses compétences régionales ou communautaires est inclus dans ces pourcentages.
+
+Par dérogation à l'alinéa deux, la subvention prévue au présent chapitre peut être combinée, pour la partie non subventionnée, avec les autres moyens que les initiateurs visés à l'article 5.34 peuvent obtenir sur la base du présent code en vue du financement de leurs opérations d'investissement.
+
+**Art. 5.37**
+
+Le Gouvernement flamand fixe les règles particulières pour le remboursement éventuel de la subvention reçue dans les cas où, au cours de la réalisation du projet de logement social, un ou plusieurs éléments ont été modifiés, en particulier l'affectation des terrains ou des bâtiments.
+
+##### Chapitre 2.Dispositions particulières pour les [<sup>1</sup> sociétés de logement]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 140, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 5.38**
+
+Le Gouvernement flamand peut, dans les limites des crédits inscrits à cet effet au budget de la Région flamande et dans les conditions particulières qu'il détermine, accorder la subvention visée à l'article 5.33 aux [<sup>1</sup> sociétés de logement agréées]<sup>1</sup>.
+
+Dans ce cas, la subvention concerne les logements du secteur privé mis à disposition par les [<sup>1</sup> sociétés de logement]<sup>1</sup> aux ménages et isolés mal logés.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 141, 005; En vigueur : 20-09-2021&gt;
+
+#### Titre 5. Mise en location, amélioration et adaptation des logements pour les personnes handicapées
+
+**Art. 5.39**
+
+Afin de promouvoir le droit au logement, le Gouvernement flamand peut, en fonction des crédits inscrits à cet effet au budget de la Région flamande, accorder des subventions pour un certain nombre d'opérations relatives aux logements locatifs sociaux, qui s'inscrivent dans le cadre de la mise en location de logements locatifs sociaux.
+
+Compte tenu des dispositions du présent titre, le Gouvernement flamand fixe les conditions particulières dans lesquelles il accorde des subventions.
+
+**Art. 5.40**
+
+Le Gouvernement flamand peut accorder des subventions en vue d'équiper pour les activités de la vie quotidienne des personnes handicapées des logements locatifs sociaux intégrés dans un quartier résidentiel social, y compris la construction ou l'aménagement d'installations spécifiques nécessaires à cet effet.
+
+**Art. 5.41**
+
+Lorsque l'exécution d'une opération, telle que visée dans le présent titre, nécessite l'évacuation de logements, l'initiateur est tenu de reloger, dans les conditions fixées par le Gouvernement flamand, les occupants qui remplissent les conditions fixées sur la base du livre 6, partie 4, et les occupants d'un logement appartenant à une organisation de logement social ou à l'initiateur.
+
+**Art. 5.42**
+
+Sans préjudice des exceptions prévues au présent titre [<sup>3</sup> ...]<sup>3</sup> et compte tenu des dispositions de l'article 4.6, [<sup>2</sup> alinéa 1,]<sup>2</sup> la subvention visée à l'article 5.39 peut être accordée aux initiateurs suivants :
+
+1° la VMSW et les [<sup>1</sup> sociétés de logement]<sup>1</sup> ;
+
+2° le VWF;
+
+3° les communes ;
+
+4° les structures de coopération intercommunale, cependant limitée à la subvention pour l'infrastructure du logement ;
+
+5° les centres publics d'aide sociale et les associations d'aide sociale.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 142, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 47, 010; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2026-02-27/17, art. 27, 027; En vigueur : 01-01-2026&gt;
+
+**Art. 5.43**
+
+Le Gouvernement flamand détermine le montant des subventions visées au présent titre. La subvention pour les opérations peut dépasser 85 % du montant éligible.
+
+En l'absence de disposition décrétale contraire, tout autre avantage que le Gouvernement flamand peut accorder pour la même opération sur la base de ses compétences régionales ou communautaires est inclus dans ces pourcentages.
+
+Par dérogation à l'alinéa deux, la subvention prévue au présent titre peut être combinée, pour la partie non subventionnée, avec les autres moyens que les initiateurs visés à l'article 5.42 peuvent obtenir sur la base du présent code en vue du financement de leurs opérations d'investissement.
+
+**Art. 5.44**
+
+Le Gouvernement flamand fixe les règles particulières pour le remboursement éventuel de la subvention reçue dans les cas où, au cours de la réalisation du projet de logement social, un ou plusieurs éléments ont été modifiés, en particulier l'affectation des terrains ou des bâtiments.
+
+#### Titre 6. Acquisition de biens immeubles bâtis ou non bâtis
+
+**Art. 5.45**
+
+Afin de promouvoir le droit au logement, le Gouvernement flamand peut, en fonction des crédits inscrits à cet effet au budget de la Région flamande, accorder des subventions pour un certain nombre d'opérations relatives aux logements locatifs sociaux, qui s'inscrivent dans le cadre de l'acquisition de biens immeubles bâtis ou non bâtis.
+
+Compte tenu des dispositions du présent titre, le Gouvernement flamand fixe les conditions particulières dans lesquelles il accorde des subventions.
+
+**Art. 5.46**
+
+Lorsque l'exécution d'une opération, telle que visée dans le présent titre, nécessite l'évacuation de logements, l'initiateur est tenu de reloger, dans les conditions fixées par le Gouvernement flamand, les occupants qui remplissent les conditions fixées sur la base du livre 6, partie 4, et les occupants d'un logement appartenant à une organisation de logement social ou à l'initiateur.
+
+**Art. 5.47**
+
+Sans préjudice des exceptions prévues au présent titre [<sup>3</sup> ...]<sup>3</sup> et compte tenu des dispositions de l'article 4.6, [<sup>2</sup> alinéa 1,]<sup>2</sup> la subvention visée à l'article 5:45 peut être accordée aux initiateurs suivants :
+
+1° la VMSW et les [<sup>1</sup> sociétés de logement]<sup>1</sup> ;
+
+2° le VWF;
+
+3° les communes ;
+
+4° les structures de coopération intercommunale, cependant limitée à la subvention pour l'infrastructure du logement ;
+
+5° les centres publics d'aide sociale et les associations d'aide sociale.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 143, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 48, 010; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2026-02-27/17, art. 28, 027; En vigueur : 01-01-2026&gt;
+
+**Art. 5.48**
+
+Le Gouvernement flamand détermine le montant des subventions visées au présent titre. En l'absence de disposition décrétale contraire, ce montant ne peut jamais dépasser 85 % du montant éligible.
+
+En l'absence de disposition décrétale contraire, tout autre avantage que le Gouvernement flamand peut accorder pour la même opération sur la base de ses compétences régionales ou communautaires est inclus dans ces pourcentages.
+
+Par dérogation à l'alinéa deux, la subvention prévue au présent titre peut être combinée, pour la partie non subventionnée, avec les autres moyens que les initiateurs visés à l'article 5.47 peuvent obtenir sur la base du présent code en vue du financement de leurs opérations d'investissement.
+
+**Art. 5.49**
+
+Le Gouvernement flamand fixe les règles particulières pour le remboursement éventuel de la subvention reçue dans les cas où, au cours de la réalisation du projet de logement social, un ou plusieurs éléments ont été modifiés, en particulier l'affectation des terrains ou des bâtiments.
+
+#### Titre 7. Projets d'activation
+
+**Art. 5.50**
+
+§ 1. Les projets d'activation s'inscrivent dans les objectifs de la politique flamande du logement, interviennent de manière structurelle dans le fonctionnement social, économique, culturel et spatial d'un quartier, d'un district urbain ou d'une zone, et servent de levier pour de nouveaux développements dans le domaine de la politique locale du logement.
+
+Ils sont organisés à l'initiative d'acteurs publics, publics-privés ou privés.
+
+Ces initiateurs partent d'une vision et d'un plan d'approche, établis sur la base d'une consultation entre la direction du projet, les planificateurs, les experts, les pouvoirs publics des zones concernées et les représentants de la population locale.
+
+§ 2. Les projets d'activation visent essentiellement :
+
+1° d'une part, les travaux de rénovation ou de démolition suivis d'une construction de remplacement de biens immeubles qui ont été inscrits pendant quatre années consécutives au maximum dans un ou plusieurs des inventaires ou listes suivants, simultanément ou consécutivement :
+
+a) le registre communal d'immeubles inoccupés ;
+
+b) l'inventaire des sites d'activités économiques abandonnés ou désaffectés, visé à l'article 3, § 1 du décret du 19 avril 1995 portant des mesures visant à lutter contre et à prévenir la désaffectation et l'abandon de sites d'activités économiques ;
+
+c) le registre des bâtiments et logements abandonnés visé à l'article 2.15 ;
+
+d) l'inventaire des logements inadéquats et inhabitables visé à l'article 3.19, § 1 ;
+
+2° d'autre part, la mise à disposition des biens immeubles rénovés pour la réalisation d'une offre de logement social ou modeste.
+
+Les demandes de subvention doivent démontrer que les organisateurs du projet ne sont pas responsables de l'inscription des biens dans le registre visé à l'alinéa premier, 1°, a), ou dans les inventaires visés à l'alinéa premier, 1°, b). À cette fin, elle contiennent au moins une déclaration sur l'honneur indiquant qu'aucun des organisateurs du projet n'est propriétaire des biens immeubles en question depuis plus longtemps qu'une période maximale déterminée par le Gouvernement flamand.
+
+Aux fins de l'application de la présente disposition, les personnes physiques ou morales suivantes ne sont pas considérées comme nouveaux propriétaires :
+
+1° une société sur laquelle l'ancien propriétaire exerce le contrôle visé à l'article 5 du Code des Sociétés ;
+
+2° les parents et alliés de l'ancien propriétaire jusqu'au troisième degré compris, sauf en cas de transfert par succession ou testament.
+
+§ 3. Le Gouvernement flamand peut préciser la nature, l'objectif, l'étendue et les conditions organisationnelles des projets d'activation.
+
+Il peut également déterminer qu'un droit de priorité est accordé aux projets d'activation au sein des communes qui font des efforts importants en matière de politique foncière et immobilière ou qui subissent des dommages de planification importants.
+
+**Art. 5.51**
+
+§ 1. Dans les conditions du Règlement (UE) n° 360/2012 de la Commission du 25 avril 2012 relatif à l'application des articles 107 et 108 du Traité sur le fonctionnement de l'Union européenne aux aides de minimis accordées à des entreprises fournissant des services d'intérêt économique général, le Gouvernement flamand peut accorder des enveloppes subventionnelles aux projets d'activation.
+
+[<sup>1</sup> Les enveloppes subventionnelles sont à charge du Fonds BRV, visé à l'article 1.6.1 du Code flamand de l'Aménagement du Territoire]<sup>1</sup>.
+
+§ 2. La direction du projet peut demander une enveloppe subventionnelle au Gouvernement flamand au moyen d'un formulaire de demande type.
+
+Le Gouvernement flamand peut disposer que les formulaires de demande type sont introduits sur la base d'un système d'appel. Il peut inclure dans les appels des caractéristiques spécifiques du projet en ce qui concerne les objectifs du projet d'activation, la nature des groupes sociaux dont les besoins spatiaux sont pris en charge, la nature des objectifs spatiaux promus ou les caractéristiques spatiales de la zone du projet.
+
+§ 3. Le Gouvernement flamand définit les coûts éligibles et le pourcentage de l'aide.
+
+Il détermine les modalités matérielles et formelles de l'aide, les possibilités de cumul d'une enveloppe subventionnelle avec d'autres fonds publics, ainsi que la méthodologie de sélection des propositions de projets et d'octroi de l'aide. Les critères de sélection fixés tiennent compte de la mission de la politique foncière et immobilière visée aux articles 2.1.1 et 2.1.2 du décret sur la politique foncière et immobilière.
+
+----------
+
+(1)&lt;DCFL 2024-04-19/23, art. 10, 022; En vigueur : 27-05-2024&gt;
+
+#### Titre 8.
+
+&lt;Abrogé par DCFL 2026-02-27/17, art. 29, 027; En vigueur : 01-01-2026&gt;
+
+**Art. 5.52**
+
+&lt;Abrogé par DCFL 2026-02-27/17, art. 29, 027; En vigueur : 01-01-2026&gt;
+
+#### Titre 9. [<sup>1</sup> Logements locatifs réalisés par un initiateur privé]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-04-21/08, art. 46, 018; En vigueur : 30-06-2023&gt;
+
+**Art. 5.52/1**
+
+[<sup>1</sup> [<sup>3</sup> Dans le présent article, on entend par initiateur privé :
+
+1° une personne morale, à l'exclusion d'une organisation de logement social ;
+
+2° une personne physique ;
+
+3° plusieurs personnes telles que visées au point 1° ou 2°, conformément aux conditions arrêtées par le Gouvernement flamand]<sup>3</sup>.
+
+Afin de promouvoir le droit au logement, le Gouvernement flamand peut octroyer, en fonction des crédits inscrits à cet effet au budget de la Région flamande, une subvention à des initiateurs privés qui réalisent des logements locatifs de qualité et abordables loués comme logement locatif social ou comme logement locatif conventionné. Cette subvention peut être octroyée tant pour la réalisation de logements locatifs que pour d'éventuels travaux, tels que visés à l'article 5.23, liés à la réalisation des logements loués comme logement locatif social ou conventionné.
+
+Le Gouvernement flamand fixe les conditions de subvention et arrête au moins les conditions suivantes :
+
+1° la durée pour laquelle l'initiateur privé s'engage à louer le logement et à appliquer la réduction visée au point 3° ;
+
+2° la taille minimale du projet réalisé par l'initiateur privé ;
+
+3° le loyer maximal et une réduction sur le loyer ;
+
+4° les conditions auxquelles satisfait l'initiateur privé ;
+
+5° les conditions auxquelles le logement locatif conventionné est loué.
+
+Le Gouvernement flamand détermine le mode de vérification de l'éligibilité d'un locataire à un logement locatif conventionné.
+
+[<sup>2</sup> Le Gouvernement flamand peut déterminer, au sein du groupe cible délimité de ménages et d'isolés nécessitant un logement, tel que visé à l'article 1.3, § 1er, alinéa 1er, 14° /1, des groupes cibles particuliers auxquels l'appel à candidatures lié à un projet, tel que visé à l'alinéa 7, peut s'adresser. Seul(e) une commune, un Centre Public d'Action Sociale, une association sans but lucratif ou un organisme d'utilité publique auquel s'applique le Code des sociétés et des associations du 23 mars 2019, ou une entreprise sociale dans la mesure où elle a été agréée en vertu du Code des sociétés et des associations du 23 mars 2019, ou à une régie communale autonome, telle que visée dans la partie 2, titre 3, chapitre 2, du décret du 22 décembre 2017 sur l'administration locale, peut, dans les conditions fixées par le Gouvernement flamand, mettre des logements locatifs conventionnés en location aux groupes cibles particuliers.]<sup>2</sup>
+
+Un logement locatif conventionné est attribué après un appel à candidature lié à un projet. [<sup>2</sup> Les logements locatifs conventionnés sont attribués par]<sup>2</sup> l'organe décisionnel de l'initiateur privé ou la ou les personnes qu'il désigne à cet effet, ou une commune, un Centre Public d'Action Sociale, une association sans but lucratif ou un organisme d'intérêt public auquel s'applique le Code des sociétés et des associations du 23 mars 2019, ou une entreprise sociale dans la mesure où elle a été agréée en vertu du Code des sociétés et des associations du 23 mars 2019, ou une régie communale autonome, telle que visée dans la partie 2, titre 3, chapitre 2, du décret du 22 décembre 2017 sur l'administration locale, sur la base des éléments suivants :
+
+1° l'intérêt du [<sup>2</sup> demandeur d'un logement locatif conventionné]<sup>2</sup> pour un ou plusieurs logements du projet ;
+
+2° les règles d'attribution que fixe le Gouvernement flamand en tenant compte des objectifs particuliers de la politique du logement énoncés à l'article 1.6, § 2.
+
+[<sup>2</sup> 3° la règle de priorité établie par le Gouvernement flamand concernant l'enracinement local du demandeur d'un logement locatif conventionné avec la commune où se trouve le logement conventionné, si la commune décide d'appliquer cette règle de priorité ;
+
+4° le cas échéant, le règlement visé à l'article 5.52/3, alinéa 1er, établi par la commune ou la structure de coopération intercommunale dans les conditions fixées par le Gouvernement flamand. ]<sup>2</sup>
+
+[<sup>2</sup> La candidature à un logement locatif conventionné se fait à la suite d'un appel lié à un projet ou, le cas échéant, selon les modalités précisées dans le règlement visé à l'alinéa 6, 4°. ]<sup>2</sup>
+
+L'initiateur privé, une commune, un Centre Public d'Action Sociale, une association sans but lucratif ou un organisme d'intérêt public auquel s'applique le Code des sociétés et des associations du 23 mars 2019, ou une entreprise sociale dans la mesure où elle a été agréée en vertu du Code des sociétés et des associations du 23 mars 2019, ou une régie communale autonome, telle que visée dans la partie 2, titre 3, chapitre 2, du décret du 22 décembre 2017 sur l'administration locale, utilisent le contrat de bail type visé à l'article 4.42, § 3, s'ils louent un logement locatif conventionné à un locataire éligible à un logement locatif conventionné. Les conditions auxquelles satisfait le locataire pour être éligible à un logement locatif conventionné sont les mêmes que celles arrêtées par le Gouvernement flamand en vertu de l'article 4.42, § 2.
+
+Le Gouvernement flamand détermine les contrats de bail types utilisés pour la location de logements locatifs conventionnés à des sociétés de logement, un Centre Public d'Action Sociale, une association sans but lucratif ou un organisme d'intérêt public auquel s'applique le Code des sociétés et des associations du 23 mars 2019, ou à une entreprise sociale dans la mesure où elle a été agréée en vertu du Code des sociétés et des associations du 23 mars 2019, ou à une régie communale autonome, telle que visée dans la partie 2, titre 3, chapitre 2, du décret du 22 décembre 2017 sur l'administration locale, dans lesquels figurent au moins les conditions suivantes :
+
+1° la durée du contrat de bail ;
+
+2° les possibilités de résiliation du locataire et du bailleur.
+
+Le Gouvernement flamand fixe les sanctions en cas de non-respect des conditions de subvention.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-04-21/08, art. 47, 018; En vigueur : 30-06-2023&gt;
+
+(2)&lt;DCFL 2024-03-08/03, art. 20, 023; En vigueur : indéterminée &gt;
+
+(3)&lt;DCFL 2026-02-27/17, art. 30, 027; En vigueur : 30-03-2026&gt;
+
+**Art. 5.52/2**
+
+[<sup>1</sup> § 1er. En vue de la mise en location des logements conventionnés visés à l'article 5.52/1, des données à caractère personnel sont traitées dans le but :
+
+1° de vérifier si les conditions arrêtées par le Gouvernement flamand conformément à l'article 5.52 sont remplies/1 ;
+
+2° d'assurer le règlement juridique du contrat de bail.
+
+§ 2. Les responsables du traitement sont :
+
+1° le service chargé par le Gouvernement flamand de la mise en oeuvre de la politique du logement ;
+
+2° l'initiateur privé visé à l'article 5.52/1 ;
+
+3° une commune, un Centre Public d'Action Sociale, une association sans but lucratif ou un organisme d'intérêt public auquel s'applique le Code des sociétés et des associations du 23 mars 2019, ou une entreprise sociale dans la mesure où elle a été agréée en vertu du Code des sociétés et des associations du 23 mars 2019, ou une régie communale autonome, telle que visée dans la partie 2, titre 3, chapitre 2, du décret du 22 décembre 2017 sur l'administration locale.
+
+§ 3. En application du paragraphe 1er, les catégories suivantes de données à caractère personnel peuvent être traitées :
+
+1° les données d'identification personnelles ;
+
+2° le numéro de registre national et les numéros d'identification à la sécurité sociale ;
+
+3° les caractéristiques personnelles ;
+
+4° la composition du ménage ;
+
+5° les données relatives à la santé physique ou mentale ;
+
+6° les particularités financières ;
+
+7° les données relatives aux droits immobiliers ;
+
+8° les caractéristiques du logement.
+
+[<sup>2</sup> Seul le statut de la personne peut être demandé et traité en ce qui concerne les données relatives à la santé physique ou mentale visée à l'alinéa 1er, 5°.]<sup>2</sup>.
+
+Le Gouvernement flamand peut préciser les catégories de données à caractère personnel visées à l'alinéa 1er.
+
+§ 4. Les personnes concernées par le traitement de données à caractère personnel sont :
+
+1° le demandeur d'un logement locatif conventionné [<sup>2</sup> ou son représentant ]<sup>2</sup>;
+
+2° les membres du ménage du demandeur d'un logement locatif conventionné ;
+
+3° le locataire [<sup>2</sup> ou son représentant]<sup>2</sup> ;
+
+4° l'ex-locataire[<sup>2</sup> ou son représentant]<sup>2</sup>.
+
+[<sup>2</sup> 5° les membres de la famille du locataire ;
+
+6° l'initiateur privé qui est une personne physique]<sup>2</sup>
+
+§ 5.[<sup>2</sup> Le responsable du traitement visé au paragraphe 2, 1° applique aux données à caractère personnel un délai de conservation de maximum un an suivant la fin définitive des procédures administratives, judiciaires et extrajudiciaires, et jusqu'à dix ans maximum après le traitement du dossier de demande de la subvention visée à l'article 5.52/1, alinéa 2. Le responsable du traitement visé au paragraphe 2, 1° applique aux données à caractère personnel un délai de conservation de maximum un an suivant la fin définitive des procédures administratives, judiciaires et extrajudiciaires, et jusqu'à dix ans maximum après le traitement du dossier de demande. Les responsables du traitement visés au paragraphe 2, 2° et 3° appliquent aux données à caractère personnel traitées un délai de conservation de dix ans après la fin du contrat de bail.]<sup>2</sup>.
+
+§ 6. Le responsable du traitement mentionné dans le paragraphe 2, 1°, transférer les données à caractère personnel à l'initiateur privé, visé à l'article 5.52/1, à la de société de logement ou à une commune, un Centre Public d'Action Sociale, une association sans but lucratif ou un organisme d'intérêt public auquel s'applique le Code des sociétés et des associations du 23 mars 2019, ou à une entreprise sociale dans la mesure où elle a été agréée en vertu du Code des sociétés et des associations du 23 mars 2019, ou à une régie communale autonome, telle que visée dans la partie 2, titre 3, chapitre 2, du décret du 22 décembre 2017 sur l'administration locale, pour la conclusion du contrat de bail. Le responsable du traitement mentionné dans le paragraphe 2, 1°, peut utiliser les données à caractère personnel pour traitement statistique et les mettre à la disposition d'autres entités du domaine politique de l'Environnement et de l'Aménagement du Territoire pour traitement statistique.
+
+Le Gouvernement flamand peut désigner des entités additionnelles auxquelles des données à caractère personnel peuvent être transférées à des fins spécifiquement définies.
+
+§ 7. Les responsables du traitement précisent les traitements effectués dans une déclaration de confidentialité. Dans un souci de transparence et de garantie des droits des personnes concernées, ils incluent dans leurs communications avec ces dernières une référence à l'emplacement de leur déclaration de vie privée.
+
+§ 8. Le service chargé par le Gouvernement flamand de la politique du logement coordonne les flux de données électroniques et l'échange d'informations électroniques entre les différents acteurs mentionnés dans le présent article. Toutes les données électroniques peuvent être échangées dans ce cadre par le biais du service chargé par le Gouvernement flamand de la politique du logement et peuvent être recueillies auprès de ces sources de données par ce service qui, dans ce cas, est le responsable du traitement pour ce qui est du recueil et du transfert. Le service chargé par le Gouvernement flamand de la politique du logement peut également utiliser les données pour traitement statistique et les mettre à la disposition des autres entités du domaine politique de l'Environnement et de l'Aménagement du Territoire. Le service chargé par le Gouvernement flamand de la politique du logement peut effectuer un traitement ultérieur des données à caractère personnel aux fins visées à l'article 1.5 qui sont compatibles avec les finalités initiales.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-04-21/08, art. 48, 018; En vigueur : 30-06-2023&gt;
+
+(2)&lt;DCFL 2024-03-08/03, art. 21, 023; En vigueur : indéterminée &gt;
+
+**Art. 5.52/3**
+
+[<sup>1</sup>Lors de l'établissement du règlement visé à l'article 4.42, § 2, alinéa 2, 4°, et à l'article 5.52/1, alinéa 5, 4°, la commune ou la structure de coopération intercommunale associe les bailleurs et les acteurs locaux du logement et de l'aide sociale pertinents.
+
+La commune ou la structure de coopération intercommunale transmet le règlement visé à l'alinéa 1er et le dossier administratif au Gouvernement flamand par envoi sécurisé.
+
+Le Gouvernement flamand dispose d'un délai de quarante-cinq jours civils suivant la date de notification du règlement visé à l'alinéa 1er et du dossier administratif pour annuler tout ou partie du règlement s'il l'estime contraire aux lois, aux décrets et à leurs arrêtés d'exécution ou à l'intérêt public. Si le règlement est transmis par lettre recommandée, le délai commence à courir le troisième jour ouvrable suivant la date à laquelle le règlement est remis à la poste.
+
+Le Gouvernement flamand peut prolonger une seule fois de quinze jours civils le délai visé à l'alinéa 3. Il en informe la commune ou la structure de coopération intercommunale avant l'expiration du délai initial.
+
+Pour le calcul du délai visé aux alinéas 3 et 4, l'échéance est comprise dans le délai. Si la date d'échéance tombe un samedi, un dimanche, un jour férié légal ou décrétal, celle-ci est reportée au premier jour ouvrable suivant.
+
+Le Gouvernement flamand transmet la décision d'annulation par envoi sécurisé à la commune ou à la structure de coopération intercommunale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2024-03-08/03, art. 22, 023; En vigueur : indéterminée &gt;
+
+## Partie 3. Subvention pour les terrains pour nomades
+
+**Art. 5.53**
+
+Dans les limites du budget approuvé, le Gouvernement flamand peut accorder aux personnes morales spécifiées dans la présente partie une subvention pour l'investissement dans des terrains pour nomades.
+
+**Art. 5.54**
+
+La subvention pour les terrains résidentiels pour nomades et pour les terrains de transit peut être accordée pour :
+
+1° l'acquisition ;
+
+2° l'aménagement ;
+
+3° la rénovation ;
+
+4° l'extension.
+
+**Art. 5.55**
+
+La subvention pour les investissements visés à l'article 5.56 peut être demandée par :
+
+1° une commune, une agence autonomisée externe communale ou une structure de coopération intercommunale ;
+
+2° une province ou une agence autonomisée externe provinciale ;
+
+3° un CPAS;
+
+4° la VMSW;
+
+5° une [<sup>1</sup> société de logement]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 145, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 5.56**
+
+La subvention accordée ne dépasse pas 100 % du prix de revient tel que fixé lors du décompte final, mais se limite au montant d'adjudication initialement approuvé. La base du subventionnement est majorée de 7 % en guise d'intervention dans les frais généraux.
+
+Le Gouvernement flamand peut arrêter les modalités et fixer des priorités pour l'octroi de la subvention.
+
+**Art. 5.57**
+
+Le Gouvernement flamand peut fixer les règles de procédure détaillées pour la demande, l'octroi et le paiement de la subvention.
+
+## Partie 3/1. [<sup>1</sup> Subvention pour logements d'urgence ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-02-27/17, art. 31, 027; En vigueur : 30-03-2026&gt;
+
+**Art. 5.57/1.**
+
+[<sup>1</sup> En fonction des crédits inscrits à cet effet au budget de la Communauté flamande, le Gouvernement flamand peut accorder, pour les années 2026 à 2030, une subvention à une administration locale pour la construction, l'achat, la rénovation et l'aménagement de logements d'urgence, ou à une administration locale et à la société de logement dont la zone d'activité comprend le logement d'urgence à construire, à acheter, à rénover ou à aménager.
+
+Le Gouvernement flamand arrête pour la subvention, visée à l'alinéa 1er :
+
+1° les conditions de subvention ;
+
+2° la composition ou le montant de la subvention ;
+
+3° la procédure de demande, la procédure d'évaluation, la procédure d'attribution et le paiement ;
+
+4° la motivation et les frais éligibles ;
+
+5° le contrôle de l'utilisation ;
+
+6° le mécanisme de sanction éventuel ;
+
+7° les mesures et les indicateurs pour l'évaluation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-02-27/17, art. 32, 027; En vigueur : 30-03-2026&gt;
+
+## Partie 4. Prêts et garanties
+
+#### Titre 1. Prêt social avec garantie régionale
+
+**Art. 5.58**
+
+[<sup>1</sup> Pour conserver l'agrément qu'elles ont obtenu en application de l'article 5.58, alinéa premier, 1°, tel qu'il était appliqué avant le 1er janvier 2022, les sociétés de crédit doivent remplir les conditions suivantes :
+
+1° la société de crédit a pour objet social principal l'octroi et la gestion de prêts sociaux pour la construction, l'achat, la transformation, la conservation ou la rénovation énergétique d'un logement modeste en faveur de personnes physiques qui ne possèdent pas d'autre logement en pleine propriété et qui occupent ou occuperont elles-mêmes le logement ;
+
+2° la société de crédit a obtenu une autorisation comme prêteur auprès de l'Autorité des services et marchés financiers (FSMA), visée à l'article VII.159, § 1, du Code de droit économique ;
+
+3° la société de crédit s'engage dans ses statuts à respecter les conditions, dispositions et obligations, visées au présent chapitre et à accepter le contrôle du superviseur quant à ce respect ;
+
+4° le siège social ou le siège d'exploitation de la société de crédit se situe dans la Région flamande ;
+
+5° la société de crédit verse un dividende qui n'est pas supérieur au taux d'intérêt, fixé par le Roi en exécution de la loi du 20 juillet 1955 portant institution d'un Conseil national de la Coopération, appliqué au capital versé, sans que ce dividende ne soit supérieur à 25 % du bénéfice à affecter de l'exercice comptable.
+
+Le Gouvernement flamand fixe des conditions supplémentaires pour le maintien de l'agrément en ce qui concerne :
+
+1° le contrôle interne et externe ;
+
+2° la gestion des liquidités et les investissements ;
+
+3° les fonds propres minimum ;
+
+4° la solvabilité.
+
+Un logement modeste, visé à l'alinéa premier, 1°, est soit un logement que la Société flamande du Logement social, une société de logement social ou le Fonds flamand du Logement affecte à la vente aux ménages ou personnes isolées nécessiteux d'un logement, soit un logement qui sera construit, acheté, transformé ou conservé dont la valeur vénale s'élève au maximum à 225 000 euros. Ce montant est majoré de 15 % si le logement est situé dans une commune qui fait partie du groupe 1 ou du groupe 2 de la liste figurant à l'annexe 19 de l'arrêté Code flamand du Logement de 2021, et est majoré cumulativement de 5 % :
+
+1° pour chaque personne à charge ;
+
+2° pour chacun des ascendants de l'emprunteur qui, à la date de la demande du prêt, cohabite au moins depuis six mois avec lui.
+
+La valeur vénale maximale est ajustée au 1er janvier à l'indice santé du mois de novembre précédant l'ajustement, l'indice du mois de novembre 2012 servant d'indice de base. Le résultat est arrondi au premier multiple supérieur de 1000 euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-12-23/05, art. 15, 007; En vigueur : 01-01-2022&gt;
+
+**Art. 5.59**
+
+§ 1. [<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> Au Fonds de Garantie des Prêts sociaux, créé en tant que fonds budgétaire visé à l'article 15, § 2, du Code flamand des finances publiques du 29 mars 2019, sont affectés les revenus provenant de recouvrements, les revenus de la revente de biens immobiliers acquis et les intérêts des sommes placées.]<sup>1</sup>
+
+§ 2. Les moyens du fonds ne peuvent être affectés qu'au précompte immobilier sur le produit des intérêts, aux frais bancaires, aux interventions pour les sociétés et établissements de crédit en exécution de la garantie régionale, ainsi qu'à l'acquisition de biens immeubles.
+
+§ 3. Le Gouvernement flamand détermine les cas dans lesquels, pour des raisons sociales particulières, les sommes versées aux sociétés et établissements de crédit dans le cadre de l'exécution de la garantie, visée au paragraphe 2, ne sont pas récupérées auprès des emprunteurs.
+
+§ 4. Tous les avoirs, dettes et créances du Fonds de garantie pour le logement, visé aux articles 28 et 32 du décret du 21 décembre 1990 contenant des dispositions budgétaires techniques ainsi que les dispositions accompagnant le budget 1991, sont repris par le Fonds de garantie des emprunts sociaux. Le comptable qui a perçu les recettes peut disposer de manière directe du fonds.
+
+§ 5. Le Gouvernement flamand règle la gestion du fonds [<sup>1</sup> ...]<sup>1</sup>.
+
+§ 6. [<sup>1</sup> ...]<sup>1</sup>
+
+§ 7. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-12-23/05, art. 16, 007; En vigueur : 01-01-2022&gt;
+
+**Art. 5.60**
+
+&lt;Abrogé par DCFL 2021-12-23/05, art. 17, 007; En vigueur : 01-01-2022&gt;
+
+**Art. 5.61**
+
+Le Gouvernement flamand définit les conditions dans lesquelles les sociétés de crédit, visées à l'article 5.58, [<sup>1</sup> ...]<sup>1</sup> peuvent souscrire au capital social des organisations de logement social, des sociétés agréées par ou en vertu du présent code et des intermédiaires d'assurances visés à l'article 1, 3° de la loi du 27 mars 1995 relative à l'intermédiation en assurances et en réassurances et à la distribution d'assurances.
+
+Le Gouvernement flamand fixe les conditions dans lesquelles les organisations de logement social, les sociétés agréées par ou en vertu du présent code, à l'exception des sociétés de crédit visées à l'article 5.58, [<sup>1</sup> ...]<sup>1</sup> et les intermédiaires d'assurances visés à l'article 1, 3° de la loi du 27 mars 1995 relative à l'intermédiation en assurances et en réassurances et à la distribution d'assurances peuvent souscrire au capital social d'une société de crédit visée à l'article 5.58, alinéa premier, 1°, leur souscription conjointe ne dépassant pas le quart du capital social de la société de logement social.
+
+La société de crédit affecte le produit net de la participation, visée à l'alinéa premier, au financement des prêts sociaux, visés au présent code.
+
+----------
+
+(1)&lt;DCFL 2021-12-23/05, art. 18, 007; En vigueur : 01-01-2022&gt;
+
+**Art. 5.62**
+
+Le Gouvernement flamand fixe les conditions pour la gestion interne et le plan comptable adoptés par les sociétés de crédit, visées à l'article 5.58 [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2021-12-23/05, art. 19, 007; En vigueur : 01-01-2022&gt;
+
+**Art. 5.63**
+
+En cas d'éviction ou en vue d'éviter une éviction de la garantie visée à l'article 5.60,[<sup>2</sup> tel qu'en vigueur au 31 janvier 2021,]<sup>2</sup> le Gouvernement flamand peut charger le VWF de reprendre les actifs et passifs des sociétés de crédit mentionnées à l'article 5.58 [<sup>1</sup> ...]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2021-12-23/05, art. 20, 007; En vigueur : 01-01-2022&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 49, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 5.64**
+
+Les aspects non couverts par le présent titre ou ses arrêtés d'exécution sont régis par les dispositions du livre VII, titre 4, chapitre 2 et titre 5 du Code de droit économique.
+
+#### Titre 2. Prêts sociaux spéciaux
+
+**Art. 5.65**
+
+Pour chacune des opérations visées à l'article 5.66, le Gouvernement flamand fixe les conditions dans lesquelles les ménages et isolés mal logés peuvent souscrire un prêt social spécial [<sup>1</sup> ...]<sup>1</sup> du VWF. Il détermine notamment la méthode de calcul des taux d'intérêt sociaux et les conditions de révision périodique de ces taux. Le taux d'intérêt et sa révision sont liés au revenu.
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 49, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 5.66**
+
+[<sup>1</sup> Le VWF est autorisé]<sup>1</sup> à accorder aux ménages et isolés mal logés des prêts tels que visés à l'article 5.65 pour le financement d'une ou plusieurs des opérations suivantes :
+
+1° l'achat ou le maintien d'un logement situé en Région flamande ;
+
+2° la rénovation, l'amélioration ou l'adaptation d'un logement situé en Région flamande.
+
+[<sup>1</sup> Le VWF peut]<sup>1</sup> accorder en fonction de la taille de la famille une réduction d'intérêt supplémentaire fixée par le Gouvernement flamand.
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 50, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 5.66/1**
+
+[<sup>1</sup> § 1. Pour l'application du présent titre, des données à caractère personnel sont traitées dans le but de vérifier les conditions et les obligations fixées par le Gouvernement flamand conformément aux articles 5.65 et 5.66.
+
+§ 2. L'entité qui, conformément à l'article 5.65, accorde des prêts sociaux spéciaux est le responsable du traitement [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 3. En application du paragraphe 1, les catégories suivantes de données peuvent être traitées :
+
+1° les données d'identification ;
+
+2° les caractéristiques personnelles ;
+
+3° les caractéristiques du logement ;
+
+4° la profession et l'emploi ;
+
+5° le numéro de registre national et le numéro d'identification de la Sécurité sociale ;
+
+6° les particularités financières ;
+
+7° les données relatives aux droits immobiliers ;
+
+8° la composition de ménage ;
+
+9° les données relatives à la santé physique ou mentale.
+
+Le Gouvernement flamand peut préciser les catégories de données à caractère personnel, visées à l'alinéa 1.
+
+§ 4. Les parties impliquées dans le traitement des données à caractère personnel sont :
+
+1° le demandeur ou son représentant et les personnes à charge ;
+
+2° l'emprunteur ou son représentant et les personnes à charge.
+
+§ 5. Le traitement des données à caractère personnel est soumis à un délai de conservation de dix ans suivant l'expiration du contrat de prêt.
+
+§ 6. Le responsable du traitement peut utiliser les données à des fins statistiques et les mettre à la disposition des autres entités du domaine politique de l'Environnement à des fins statistiques. Le responsable du traitement peut transmettre les données à caractère personnel aux intermédiaires de crédit visés à l'article 4.44 du présent Code, ainsi qu'au contrôleur visé à l'article 4.79 du présent Code, afin de leur permettre d'exercer le contrôle.
+
+§ 7. Le responsable du traitement précise les traitements effectués dans une déclaration de vie privée. Dans un souci de transparence et de garantie des droits des personnes concernées, il inclut dans ses communications avec ces dernières une référence à l'emplacement de sa déclaration de vie privée.
+
+§ 8. L'entité qui, conformément à l'article 5.65, accorde des prêts sociaux spéciaux, coordonne les flux de données électroniques et l'échange d'informations électroniques entre les différents acteurs visés dans le présent article. Toutes les données électroniques peuvent, dans ce cadre, être échangées via l'entité [<sup>3</sup> et peuvent être recueillies auprès des sources de données par l'entité]<sup>3</sup>. Cette dernière peut également utiliser les données à des fins statistiques et les mettre à la disposition des autres entités du domaine politique de l'Environnement à des fins statistiques. L'entité peut traiter les données à caractère personnel à des fins, visées à l'article 1.5, compatibles avec les objectifs finaux originaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 146, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 50,1°, 018; En vigueur : 09-06-2023&gt;
+
+(3)&lt;DCFL 2023-04-21/08, art. 50,2°, 018; En vigueur : 01-01-2023&gt;
+
+**Art. 5.67**
+
+Les aspects non couverts par [<sup>1</sup> le présent Code]<sup>1</sup> ou ses arrêtés d'exécution sont régis par les dispositions du livre VII, titre 4, [<sup>1</sup> chapitre 2]<sup>1</sup> et titre 5 du Code de droit économique.
+
+[<sup>1</sup> La directive 2014/17/UE du Parlement européen et du Conseil du 4 février 2014 sur les contrats de crédit aux consommateurs relatifs aux biens immobiliers à usage résidentiel et modifiant les directives 2008/48/CE et 2013/36/UE et le règlement (UE) n° 1093/2010 ne s'applique pas aux prêts sociaux spéciaux visés à ce titre.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 51, 010; En vigueur : 01-01-2023&gt;
+
+#### Titre 3. Prêt de garantie locative
+
+**Art. 5.68**
+
+Le Gouvernement flamand fixe les conditions dans lesquelles les ménages et isolés mal logés peuvent souscrire un prêt de garantie locative sans intérêt et désigne un ou plusieurs organismes chargés d'accorder ce prêt au nom de la Région flamande.
+
+**Art. 5.68/1**
+
+[<sup>1</sup> § 1er. Pour l'application du présent titre, des données à caractère personnel sont traitées dans le but de vérifier les conditions et les obligations fixées par le Gouvernement flamand conformément à l'article 5.68.
+
+§ 2. L'entité qui, conformément à l'article 5.68, est chargée d'octroyer le prêt de garantie locative est le responsable du traitement.
+
+§ 3. En application du paragraphe 1er, les catégories suivantes de données à caractère personnel peuvent être traitées :
+
+1° les données d'identification ;
+
+2° le numéro de registre national ;
+
+3° les caractéristiques personnelles ;
+
+4° les particularités financières ;
+
+5° la composition du ménage ;
+
+6° les données relatives au contrat de location ;
+
+7° les données relatives aux droits immobiliers ;
+
+8° les données relatives à la santé physique ou mentale.
+
+Le Gouvernement flamand peut préciser les catégories de données à caractère personnel visées à l'alinéa 1er.
+
+§ 4. Les personnes concernées par le traitement de données à caractère personnel sont :
+
+1° le demandeur ou son représentant et les personnes à charge ;
+
+2° l'emprunteur ou son représentant et les personnes à charge ;
+
+3° le bailleur.
+
+§ 5. Les données à caractère personnel traitées sont soumises à un délai de conservation de maximum un an suivant la fin définitive des procédures administratives, judiciaires et extrajudiciaires, et jusqu'à dix ans maximum suivant le remboursement intégral du prêt de garantie locative ou suivant l'estimation que les conditions d'octroi n'ont pas été remplies.
+
+§ 6. Le responsable du traitement peut utiliser les données à caractère personnel pour traitement statistique et les mettre à la disposition d'autres entités du domaine politique de l'Environnement et de l'Aménagement du Territoire pour traitement statistique. Le responsable du traitement peut également transférer les données à caractère personnel au contrôleur visé à l'article 4.79 afin de lui permettre d'exercer son contrôle.
+
+§ 7. Le responsable du traitement précise les traitements qui sont exécutés dans une déclaration de vie privée. Dans un souci de transparence et de garantie des droits des personnes concernées, il inclut dans ses communications avec ces dernières une référence à l'emplacement de sa déclaration de vie privée.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-10-27/03, art. 2, 021; En vigueur : 24-11-2023&gt;
+
+**Art. 5.69**
+
+Dans les limites des crédits inscrits au budget de la Région flamande à cet effet, la Région flamande peut accorder une allocation à l'organisme ou aux organismes visés à l'article 5.68 pour financer la distribution et la gestion des prêts de garantie locative visés à l'article 5.68. Le Gouvernement flamand arrête les conditions d'octroi de l'allocation précitée.
+
+**Art. 5.70**
+
+Les aspects non couverts par le présent titre ou ses arrêtés d'exécution sont régis par les dispositions du livre VII, titre 4, chapitres 1 et 4 et titre 5 du Code de droit économique.
+
+#### Titre 4. Assurance logement garanti
+
+**Art. 5.71**
+
+[<sup>1</sup> § 1. Dans les conditions déterminées par le Gouvernement flamand, le remboursement du principal et le paiement des intérêts des prêts hypothécaires peuvent être mis à charge, en tout ou en partie, si l'emprunteur n'est pas en mesure de remplir ses obligations contractuelles découlant d'un prêt pour la construction, l'achat, l'achat avec rénovation, ou la rénovation de son habitation unique en raison d'une incapacité de travail, d'un chômage involontaire ou d'une cessation involontaire d'une activité indépendante.
+
+La prise en charge visée à l'alinéa 1 peut être réalisée par l'attribution d'un marché public pour des services à un assureur, les primes d'assurance devant être prises en charge par [<sup>2</sup> la Région flamande]<sup>2</sup>.
+
+[<sup>2</sup> Si aucun marché public tel que visé à l'alinéa 2, ne peut être attribué, un service désigné par le Gouvernement flamand peut être chargé de la mission visée à l'alinéa 1er.]<sup>2</sup>
+
+§ 2. Pour bénéficier de la prise en charge totale ou partielle mentionnée au paragraphe 1, les conditions suivantes s'appliquent :
+
+1° le prêt a trait à un logement construit, acheté, acheté et rénové ou rénové par le demandeur, avec la destination d'y établir sa résidence principale ;
+
+2° la valeur vénale du logement ne peut pas, le cas échéant après exécution des travaux planifiés, être supérieure au montant fixé par le Gouvernement flamand ;
+
+3° l'emprunteur ne possède pas d'autre logement en pleine propriété, à moins que ce logement ne soit inadapté ;
+
+4° l'emprunteur n'est pas en incapacité de travail à la date de la demande et dans la période précédant la date de la demande, telle que fixée par le Gouvernement flamand ;
+
+5° l'emprunteur exerce une activité professionnelle à la date de la demande et pendant les douze mois entiers précédant la date de la demande.
+
+Le Gouvernement flamand peut imposer des conditions supplémentaires pour la prise en charge.
+
+§ 3. [<sup>2</sup> Le Gouvernement flamand désigne l'entité en charge du traitement des demandes pour être éligible à une prise en charge totale ou partielle du remboursement du principal et du paiement des intérêts des prêts hypothécaires. Le Gouvernement flamand détermine la procédure de ce traitement.
+
+Le Gouvernement flamand détermine une procédure d'appel interne auprès de l'entité visée à l'alinéa 1er, et une procédure de recours auprès du contrôleur visé à l'article 4.79. Le recours auprès du contrôleur n'est recevable que si la procédure d'appel interne a été suivie au préalable]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 52, 010; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFL 2025-12-19/56, art. 75, 025; En vigueur : 01-01-2026&gt;
+
+**Art. 5.71/0**
+
+[<sup>1</sup> § 1er. Pour l'application de ce titre, des données à caractère personnel sont traitées dans le but de vérifier le respect des conditions et obligations de l'article 5,71 et qui sont fixées par le Gouvernement flamand conformément à l'article 5.71.
+
+§ 2. L'entité qui [<sup>2</sup> est chargée du traitement des demandes, conformément à l'article 5.71, § 3,]<sup>2</sup> est le responsable du traitement.
+
+Si la prise en charge est effectuée par une assurance telle que mentionnée à l'article 5.71, § 1er, alinéa 2, le responsable du traitement mentionné à l'alinéa 1er peut mettre les données à caractère personnel à la disposition de l'assureur qui est lui-même le responsable du traitement pour ce qui est du traitement ultérieur.
+
+§ 3. En application de l'alinéa 1er, les catégories suivantes de données personnelles peuvent être traitées :
+
+1° les données d'identification personnelles ;
+
+2° le numéro de registre national ;
+
+3° les particularités financières ;
+
+4° la composition du ménage ;
+
+5° les caractéristiques du logement ;
+
+6° les données relatives à la profession et l'emploi ;
+
+7° les données relatives aux droits immobiliers ;
+
+8° les données relatives à la santé physique ou mentale.
+
+Le Gouvernement flamand peut préciser les catégories de données à caractère personnel visées à l'alinéa 1er.
+
+Pour traiter les catégories de données à caractère personnel énoncées à l'alinéa 1er, le responsable du traitement fait appel, conformément à l'article 6, paragraphe 1er, c), et à l'article 9, 2, g), du règlement général sur la protection des données, aux services compétents du Service public fédéral Finances, au Registre national, à la Banque Carrefour de la Sécurité sociale et à l'Agence flamande pour l'Energie et le Climat (Vlaams Energie- en Klimaatagentschap) afin d'obtenir un accès numérique aux données nécessaires en application de la réglementation relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel qui s'applique à la communication de données à caractère personnel, telle qu'elle est ou a été, le cas échéant, précisée au niveau fédéral ou au niveau flamand.
+
+L'intégrateur de services flamand et la Banque Carrefour de la Sécurité sociale sont coresponsables de l'organisation et de la coordination des flux de données. Seuls les membres du personnel du service du responsable du traitement qui sont chargés de l'évaluation des demandes d'intervention peuvent recueillir et traiter les données mentionnées à l'alinéa 1er. Le responsable du traitement tient une liste des membres du personnel à disposition et veille à ce que les personnes désignées soient tenues, par une obligation légale ou statutaire ou par une disposition contractuelle équivalente, de respecter le caractère confidentiel des données concernées.
+
+Lors du traitement des données à caractère personnel des personnes concernées, des mesures techniques et organisationnelles appropriées sont appliquées de manière à ce que le traitement réponde aux exigences du règlement général sur la protection des données et garantisse la protection des droits des personnes concernées. A cet égard, les mesures techniques et organisationnelles appropriées sont mises en oeuvre afin de garantir un niveau de sécurité adapté au risque, conformément à l'article 32 du règlement général sur la protection des données.
+
+Pour les traitements de données à caractère personnel visés à l'alinéa 1er, les mesures techniques et organisationnelles appropriées contre le traitement non autorisé ou illicite sont mises en oeuvre. Ces mesures de sécurité font l'objet d'une évaluation régulière quant à leur adéquation et sont, au besoin, adaptées. Par ailleurs, les mesures techniques et organisationnelles appropriées sont prises afin de s'assurer que les données à caractère personnel recueillies et traitées sont exactes et tenues à jour.
+
+§ 4. Les personnes concernées par le traitement de données à caractère personnel sont :
+
+1° le demandeur ;
+
+2° l'emprunteur.
+
+§ 5. Les données seront conservées pendant 60 ans maximum. Le Gouvernement flamand peut fixer une durée de conservation plus courte.
+
+§ 6. Le responsable du traitement précise les traitements effectués dans une déclaration de vie privée. Dans un souci de transparence et de garantie des droits des personnes concernées, il inclut dans ses communications avec ces dernières une référence à l'emplacement de sa déclaration de vie privée.
+
+§ 7. Le responsable du traitement peut utiliser les données à caractère personnel pour traitement statistique et les mettre à la disposition d'autres entités du domaine politique de l'Environnement et de l'Aménagement du Territoire pour traitement statistique. Le responsable du traitement peut également transférer les données à caractère personnel au contrôleur visé à l'article 4.79 afin de lui permettre d'exercer son contrôle. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-04-21/08, art. 52, 018; En vigueur : 09-06-2023&gt;
+
+(2)&lt;DCFL 2025-12-19/56, art. 76, 025; En vigueur : 01-01-2026&gt;
+
+**Art. 5.71/1**
+
+&lt;Abrogé par DCFL 2023-04-21/08, art. 53, 018; En vigueur : 09-06-2023&gt;
+
+#### Titre 5. [<sup>1</sup> Prêt rénovation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-05-06/05, art. 10, 014; En vigueur : 14-06-2022&gt;
+
+**Art. 5.71/1**
+
+[<sup>1</sup> § 1. Le Gouvernement flamand fixe les conditions dans lesquelles les familles et les personnes isolées qui ont besoin d'un logement peuvent contracter un prêt rénovation pour la rénovation, l'amélioration ou l'adaptation d'un logement situé en Région flamande, qu'elles occupent elles-mêmes et dont elles sont propriétaires, et détermine, entre autres, les modalités et les caractéristiques du prêt rénovation.
+
+Le Gouvernement flamand peut déterminer que le prêt rénovation visé à l'alinéa 1 est également accordé au propriétaire qui loue son logement. Le Gouvernement flamand peut alors fixer le loyer maximal, le délai minimal pendant lequel le bailleur s'engage à louer le logement et les conditions auxquelles le bailleur, le locataire et le logement doivent satisfaire.[<sup>2</sup> Le Gouvernement flamand peut alors fixer le loyer maximal, le délai minimal pendant lequel le bailleur s'engage à louer le logement et les conditions auxquelles le bailleur, le locataire et le logement doivent satisfaire. " est remplacée par la phrase " Le Gouvernement flamand peut alors fixer le loyer maximal, une réduction sur le loyer, la durée minimale pour laquelle le bailleur s'engage à louer le logement et à appliquer la réduction et les conditions auxquelles le bailleur, le locataire et le logement doivent satisfaire.]<sup>2</sup>
+
+§ 2. Le Gouvernement flamand peut autoriser les maisons de l'énergie visées au titre IX du Décret sur l'Energie du 8 mai 2009, à accorder le prêt rénovation visé au paragraphe 1.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2022-05-06/05, art. 10, 014; En vigueur : 14-06-2022&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 54, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 5.71/2**
+
+[<sup>1</sup> 1er. Pour l'application du présent titre, les données à caractère personnel sont traitées dans le but de vérifier si le propriétaire, qui a obtenu un prêt rénovation conformément à l'article 5.71/1, § 1er, alinéa 2, satisfait aux obligations.
+
+Le service chargé par le Gouvernement flamand de la politique du logement est le responsable du traitement.
+
+Le responsable du traitement précise les traitements effectués dans une déclaration de vie privée. Dans un souci de transparence et de garantie des droits des personnes concernées, une référence à l'emplacement de la déclaration de vie privée est incluse.
+
+Lors du traitement des données à caractère personnel des personnes concernées, des mesures techniques et organisationnelles appropriées sont appliquées de manière à ce que le traitement réponde aux exigences du règlement général sur la protection des données et garantisse la protection des droits des personnes concernées. A cet égard, les mesures techniques et organisationnelles appropriées sont mises en oeuvre afin de garantir un niveau de sécurité adapté au risque, conformément à l'article 32 du règlement général sur la protection des données. Par ailleurs, les mesures techniques et organisationnelles appropriées sont prises afin de s'assurer que les données à caractère personnel recueillies et traitées sont exactes et tenues à jour.
+
+§ 2. En application du paragraphe 1er, les catégories suivantes de données à caractère personnel peuvent être recueillies et traitées :
+
+1° les données d'identification personnelles ;
+
+2° le numéro de registre national et le numéro d'identification à la sécurité sociale ;
+
+3° les caractéristiques du logement ;
+
+4° les loyers mentionnés dans le contrat de bail et l'addenda.
+
+Le Gouvernement flamand peut préciser les catégories de données à caractère personnel visées à l'alinéa 1er.
+
+§ 3. Les personnes concernées par le traitement de données à caractère personnel sont :
+
+1° le locataire ;
+
+2° le bailleur ;
+
+3° l'emprunteur.
+
+§ 4. Les données à caractère personnel traitées sont conservées pendant une période maximale de dix ans à compter de l'échéance du prêt rénovation.
+
+§ 5. Le responsable du traitement peut transmettre les données à caractère personnel mentionnées dans le paragraphe 2, alinéa 1er, 1° et 2°, à la maison de l'énergie compétente visée à l'article 1.1.3, 40° /2, du décret sur l'Energie du 8 mai 2009 pour lui permettre d'adapter les modalités du prêt rénovation en cas de non-respect des obligations.
+
+Le Gouvernement flamand peut préciser les conditions et modalités relatives à l'échange de données entre le responsable du traitement et la maison de l'énergie visée à l'alinéa 1er.
+
+§ 6. Le responsable du traitement peut utiliser les données à caractère personnel pour traitement statistique et les mettre à la disposition d'autres entités du domaine politique de l'Environnement et de l'Aménagement du Territoire pour traitement statistique. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-04-21/08, art. 55, 018; En vigueur : 09-06-2023&gt;
+
+## Partie 5. Interventions
+
+#### Titre 1. Dispositions générales
+
+**Art. 5.72**
+
+§ 1. En fonction des crédits inscrits à cet effet au budget de la Région flamande, le Gouvernement flamand peut accorder des interventions, visées aux titres 2, 3 et 4 de la présente partie, pour permettre aux ménages et isolés mal logés de construire, de louer ou d'acheter un logement ou de rénover, d'améliorer ou d'adapter leur logement.
+
+Les interventions mentionnées dans la présente partie ne peuvent être accordées que si le ménage ou l'isolé remplit les conditions en matière de propriété immeuble et de revenus fixées par le Gouvernement flamand. Selon le cas, le loyer, la valeur ou la taille du logement doivent être conformes aux normes fixées par le Gouvernement flamand.
+
+Contrairement au deuxième alinéa, une intervention dans les frais, visée à l'article 5. 75, peut être accordée au propriétaire-bailleur qui effectue des travaux sur le logement qu'il met en location.
+
+Le Gouvernement flamand arrête les modalités d'application de la présente [<sup>1</sup> partie]<sup>1</sup>.
+
+§ 2. Les centres publics d'aide sociale et leurs associations peuvent verser directement la partie du loyer correspondant à l'aide qu'ils apportent au logement des familles concernées; aux communes et aux organisations de logement social qui mettent en location des logements conformément au livre 6.
+
+Si une intervention est accordée conformément aux titres 2 et 3 de la présente partie, la Région flamande la verse, en application du premier alinéa, au CPAS ou à l'association de ces centres.
+
+----------
+
+(1)&lt;DCFL 2023-04-21/08, art. 56, 018; En vigueur : 09-06-2023&gt;
+
+#### Titre 2. Intervention dans le loyer pour les locataires mal logés
+
+**Art. 5.73**
+
+Afin d'inciter des personnes à quitter un logement inadapté, inapproprié ou surpeuplé, une intervention dans les frais d'installation et dans le loyer peut être accordée, en application de l'article 5. 72, au profit des ménages et isolés mal logés pour la location d'un logement qui remplit les trois conditions suivantes :
+
+1° le logement est conforme ;
+
+2° le logement n'est pas inadapté ;
+
+3° le logement n'est pas surpeuplé.
+
+Si les locataires concernés se voient attribuer un logement locatif social, tel que [<sup>1</sup> ...]<sup>1</sup> occupent à nouveau leur logement initialement inadapté, inapproprié ou surpeuplé après qu'il a été rénové ou adapté en application de l'article 3.30 ou du livre 5, partie 7, seule l'intervention dans les frais d'installation visée au premier alinéa peut être accordée.
+
+[<sup>1</sup> Aux locataires en quête de logement qui se voient attribuer un logement locatif social tel que visé à l'article 1.3, § 1er, alinéa 1er, 49°, a) et c), seule l'intervention dans les frais d'installation peut être accordée.
+
+Par dérogation à l'alinéa 3, une intervention dans les frais d'installation et dans le loyer peut être accordée aux locataires en quête de logement qui se voient attribuer un logement locatif social qui est loué par une société de logement dans le cadre de sa mission, visée à l'article 4.40, 4°. ]<sup>1</sup>
+
+L'intervention visée au présent article peut être accordée, dans les conditions déterminées par le Gouvernement flamand, aux ménages et isolés sans domicile fixe.
+
+----------
+
+(1)&lt;DCFL 2023-10-27/03, art. 3, 021; En vigueur : 01-01-2023&gt;
+
+#### Titre 3. Intervention pour les candidats locataires
+
+**Art. 5.74**
+
+Sans avoir quitté un logement inadapté, inapproprié ou surpeuplé, les ménages et isolés mal logés louant un logement approprié et adapté peuvent bénéficier d'une intervention dans le loyer, à condition qu'il ne s'agisse pas d'un logement locatif social tel que visé à l'article 1.3, § 1, premier alinéa, 49°, a) etc). Le Gouvernement flamand détermine les conditions et les modalités de cette intervention.
+
+#### Titre 4. Intervention pour les logements à construire, à rénover, à améliorer ou à adapter
+
+**Art. 5.75**
+
+Afin d'encourager l'acquisition, la rénovation, l'amélioration ou l'adaptation des logements, une intervention dans les frais peut être accordée, conformément à l'article 5. 72, aux personnes suivantes :
+
+1° les ménages et isolés mal logés qui rénovent ou achètent un logement ou bâtiment inadapté ;
+
+2° les ménages et isolés mal logés qui achètent un logement acquisitif social, ou un logement répondant à la norme de qualité du logement, à un initiateur visé à l'article 5.26, § 1, ou qui construisent un logement ou achètent un nouveau logement dans le secteur privé ;
+
+3° les ménages et isolés mal logés qui effectuent des travaux d'amélioration ou d'adaptation, autres que ceux visés au 4°, sur leur logement ;
+
+4° les personnes âgées et les personnes handicapées mal logés qui soit adaptent leur logement à leurs capacités physiques, soit vivent avec un parent ou un allié jusqu'au deuxième degré qui adapte le logement à leurs capacités physiques.
+
+L'intervention dans les frais des travaux d'amélioration ou d'adaptation et l'intervention dans les frais d'adaptation des logements aux capacités physiques des personnes âgées ou handicapées peuvent être accordées tant au propriétaire qu'au locataire du logement. Les revenus du parent ou de l'allié visés au premier alinéa, 4°, ne sont pas pris en compte, sauf s'il s'agit du conjoint de la personne aux capacités physiques de laquelle le logement est adapté. Le Gouvernement flamand fixe les conditions dans lesquelles cette intervention est accordée.
+
+Si le Gouvernement flamand accorde une intervention pour la construction d'un logement ou pour l'achat d'un nouveau logement dans le secteur privé, il fait une distinction selon que le logement est situé ou non dans une zone de rénovation ou de construction résidentielle.
+
+**Art. 5.75/1**
+
+[<sup>1</sup> § 1. Le Gouvernement flamand crée un guichet unique pour faciliter la demande, l'examen, le traitement et le paiement de demandes d'interventions instaurées par le Gouvernement flamand en vertu du présent code, pour des travaux aux bâtiments.
+
+§ 2. Les services de l'Autorité flamande désignés par le Gouvernement flamand sont chargés du traitement des demandes dans le cadre du guichet unique visé au paragraphe 1er. Le Gouvernement flamand détermine les interventions qui relèvent de ce guichet unique.
+
+Dans le cadre du guichet unique, visé au paragraphe 1er, le Gouvernement flamand peut attribuer au gestionnaire de réseau de distribution ou à sa société d'exploitation certaines tâches ayant trait à l'examen et au traitement des demandes d'interventions, et ayant trait au paiement d'interventions pour des travaux aux bâtiments. Le Gouvernement flamand détermine les interventions qui en relèvent et désigne les services de l'Autorité flamande qui y sont associés. Le gestionnaire de réseau de distribution ou sa société d'exploitation peut bénéficier d'une indemnité payée par le Gouvernement flamand pour ses tâches dans le cadre du guichet unique.
+
+Le Gouvernement flamand peut arrêter des modalités relatives à l'échange de données entre les services de l'Autorité flamande, visés à l'alinéa premier, et le gestionnaire de réseau de distribution ou sa société d'exploitation, visés à l'alinéa deux.
+
+§ 3. Dans le cadre du guichet unique, visé au paragraphe 1er, les données à caractère personnel ou les catégories de données à caractère personnel suivantes peuvent être demandées et traitées :
+
+1° les données suivantes relatives au demandeur :
+
+a) l'adresse actuelle, les anciennes adresses et les coordonnées;
+
+b) la composition du ménage, les personnes à charge et les personnes cohabitant avec le demandeur;
+
+c) le handicap du demandeur ou des personnes cohabitant avec le demandeur;
+
+d) l'état civil;
+
+2° les données suivantes relatives au revenu du demandeur ou au revenu des personnes cohabitant avec le demandeur, pour les interventions auxquelles s'applique un seuil de revenu :
+
+a) le revenu imposable globalement;
+
+b) le revenu imposable distinctement;
+
+c) le revenu d'intégration sociale;
+
+d) l'allocation de remplacement de revenus aux personnes handicapées;
+
+e) les revenus professionnels exonérés de taxes, acquis à l'étranger ou dans une institution européenne ou internationale;
+
+3° les droits réels dont le demandeur est titulaire;
+
+4° les données suivantes relatives au bâtiment faisant l'objet de la demande d'intervention :
+
+a) la nature;
+
+b) l'emplacement;
+
+c) l'âge;
+
+d) la propriété ou les droits réels qui y sont établis;
+
+5° les données relatives aux travaux exécutés pour lesquels une intervention est demandée, y compris les factures;
+
+6° toutes les données autres que celles visées aux points 1° à 5°, relatives aux conditions d'octroi de l'intervention instaurée par le Gouvernement flamand en vertu du présent code ou en vertu du Décret sur l'Energie du 8 mai 2009, qui sont nécessaires pour accorder l'intervention.
+
+Pour vérifier si le demandeur a droit à l'intervention, le service désigné par le Gouvernement flamand conformément au paragraphe 2, alinéa premier, le gestionnaire de réseau de distribution ou la société d'exploitation conformément à l'article 6, paragraphe 1, c), et l'article 9, paragraphe 2, g), du règlement général sur la protection des données, fait un appel aux services compétents du Service public fédéral Finances, au Registre national, à la Banque Carrefour de la Sécurité sociale, aux administrations locales et au registre d'accès, visé à l'article 1.1.3, 123°, du Décret sur l'Energie du 8 mai 2009, afin d'obtenir un accès numérique aux données nécessaires en application de la réglementation relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel applicable à la communication des données à caractère personnel, telle que précisée, le cas échéant, au niveau fédéral ou flamand.
+
+Le handicap constaté du demandeur ou de ses membres de famille cohabitants, est demandé et traité conformément à l'article 9, paragraphe 2, g), du règlement général sur la protection des données. Les données relatives à un handicap sont demandées et traitées afin de déterminer si le demandeur est éligible à une augmentation spécifique de la prime. Seul le statut de la personne peut être demandé et traité.
+
+Pour l'identification unique de l'intéressé, le numéro d'entreprise, le numéro de registre national ou le numéro d'étranger peut être demandé et traité dans le cadre du traitement automatique des données, visé à l'alinéa premier.
+
+L'intégrateur de services flamand et la Banque Carrefour de la Sécurité sociale sont coresponsables de l'organisation et de la coordination des flux de données. Seuls les membres du personnel du service désigné par le Gouvernement flamand conformément au paragraphe 2, alinéa premier, du gestionnaire de réseau de distribution ou de la société d'exploitation qui sont chargés de l'évaluation des demandes d'une intervention, peuvent demander et traiter les données visées à l'alinéa premier. Le service désigné par le Gouvernement flamand conformément au paragraphe 2, alinéa premier, le gestionnaire de réseau de distribution ou la société d'exploitation tient une liste des membres du personnel à disposition et veille à ce que les personnes désignées soient tenues, par une obligation légale ou statutaire, ou par une disposition contractuelle équivalente, de respecter le caractère confidentiel des données concernées.
+
+Lors du traitement des données à caractère personnel des personnes concernées, des mesures techniques et organisationnelles appropriées sont prises pour que le traitement satisfasse aux exigences visées au règlement général sur la protection des données et que la protection des droits des personnes concernées soit garantie. A cet effet, les mesures techniques et organisationnelles appropriées sont prises afin de garantir un niveau de sécurité adapté au risque, conformément à l'article 32 du règlement général sur la protection des données.
+
+Pour les traitements de données à caractère personnel dans le cadre de l'utilisation et de la gestion du guichet unique, les mesures techniques et organisationnelles appropriées contre tout traitement non autorisé ou illicite sont prises, et le caractère approprié de ces mesures de sécurité est évalué régulièrement et adapté si nécessaire.
+
+Pour les traitements de données à caractère personnel dans le cadre de l'utilisation et de la gestion du guichet unique, le service désigné par le Gouvernement flamand conformément au paragraphe 2, alinéa premier, est le responsable du traitement [<sup>2</sup> ...]<sup>2</sup> pour les tâches attribuées à ce service conformément au paragraphe 2, alinéa premier.
+
+Pour les traitements de données à caractère personnel dans le cadre de l'utilisation et de la gestion du guichet unique, le gestionnaire du réseau de distribution ou sa société d'exploitation est le responsable du traitement visé à l'article 4, 7), du règlement général sur la protection des données, pour les tâches attribuées au gestionnaire du réseau de distribution ou à sa société d'exploitation conformément au paragraphe 2, alinéa deux.
+
+§ 4. Les données traitées concernant les demandes d'intervention sont conservées pendant quinze ans après la décision de refus ou de paiement de l'intervention.
+
+§ 5. Le Gouvernement flamand établit la méthode à appliquer par les services de l'Autorité flamande désignés par le Gouvernement flamand, visés au paragraphe 2, alinéa premier, ou par le gestionnaire du réseau de distribution ou sa société d'exploitation, visés au paragraphe 2, alinéa deux, afin de veiller à ce que les données à caractère personnel demandées et traitées soient correctes et actualisées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-11-19/15, art. 5, 009; En vigueur : 01-07-2022&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 58, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 5.75/2**
+
+[<sup>1</sup>§ 1er. Pour vérifier si le demandeur a droit aux interventions visées à l'article 5.75 du présent Code, dont le Gouvernement flamand n'a pas déterminé si elles relèvent du guichet unique visé à l'article 5.75/1 du présent Code, le service chargé par le Gouvernement flamand de la mise en oeuvre de la politique du logement fait appel, conformément à l'article 6, paragraphe 1er, c), et à l'article 9, paragraphe 2, g), du règlement général sur la protection des données, aux services compétents du Service public fédéral Finances, au Registre national, à la Banque Carrefour de la Sécurité sociale, à l'agence Grandir (" agentschap Opgroeien) et aux administrations locales afin d'obtenir un accès numérique aux données nécessaires en application de la réglementation relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel qui s'applique à la communication de données à caractère personnel, telle qu'elle est ou a été, le cas échéant, précisée au niveau fédéral ou au niveau flamand. Le service chargé par le Gouvernement flamand de la mise en oeuvre de la politique du logement est le responsable du traitement.
+
+Le responsable du traitement mentionné à l'alinéa 1er, peut recueillir et traiter les données à caractère personnel suivantes ou les catégories suivantes de données à caractère personnel :
+
+1° les données suivantes au sujet du demandeur :
+
+a) l'adresse actuelle, l'adresse à la date de la demande et les coordonnées ;
+
+b) la composition du ménage, les personnes à charge et les personnes cohabitant avec le demandeur ;
+
+c) le handicap du demandeur ou des personnes cohabitant avec le demandeur ;
+
+d) l'état civil ;
+
+2° les données suivantes relatives au revenu du demandeur ou au revenu des personnes avec lesquelles le demandeur cohabite, pour les interventions auxquelles s'applique un seuil de revenu :
+
+a) le revenu imposable globalement ;
+
+b) le revenu imposable distinctement ;
+
+c) le revenu d'intégration ;
+
+d) l'allocation de remplacement de revenus octroyée aux personnes handicapées ;
+
+e) les revenus professionnels exonérés d'impôts, provenant de l'étranger ou acquis auprès d'une institution européenne ou internationale ;
+
+3° les droits réels dont le demandeur est titulaire ;
+
+4° les données suivantes relatives au bâtiment pour lequel une intervention est demandée :
+
+a) la nature ;
+
+b) l'emplacement ;
+
+c) l'âge ;
+
+d) la propriété ou les droits réels constitués ce bâtiment ;
+
+5° les données relatives aux travaux réalisés pour lesquels une intervention est demandée, y compris les factures.
+
+§ 2. Le handicap constaté du demandeur ou des membres de son ménage vivant sous le même toit est demandé et traité conformément à l'article 9, paragraphe 2, g), du règlement général sur la protection des données. Les données relatives à un handicap sont recueillies et traitées afin d'établir si le demandeur est éligible à un majoration de prime spécifique. Seul le statut de la personne peut être demandé et traité.
+
+Pour l'identification unique de la personne concernée mentionnée dans le paragraphe 3, le numéro d'entreprise, le numéro de registre national ou le numéro d'étranger peut être demandé et traité dans le cadre du traitement automatisé des données mentionnées à l'alinéa 1er.
+
+§ 3. Les personnes concernées par le traitement de données à caractère personnel sont : 1° le demandeur ;
+
+2° les personnes cohabitant avec le demandeur.
+
+§ 4. Il est fait appel à l'intégrateur de services flamand et à la Banque Carrefour de la Sécurité sociale pour disposer des données à caractère personnel mentionnées dans le paragraphe 1er, alinéa 2. Seuls les membres du personnel du responsable du traitement mentionné dans le paragraphe 1er, alinéa 1er, qui sont chargés de l'évaluation des demandes d'intervention peuvent recueillir et traiter les données mentionnées dans le paragraphe 1er, alinéa 2. Le responsable du traitement précité tient une liste des membres du personnel à disposition et veille à ce que les personnes désignées soient tenues, par une obligation légale ou statutaire ou par une disposition contractuelle équivalente, de respecter le caractère confidentiel des données concernées.
+
+Lors du traitement des données à caractère personnel des personnes concernées mentionnées dans le paragraphe 3, des mesures techniques et organisationnelles appropriées sont appliquées de manière à ce que le traitement réponde aux exigences énoncées dans le règlement général sur la protection des données et garantisse la protection des droits des personnes concernées précitées. A cet égard, les mesures techniques et organisationnelles appropriées sont mises en oeuvre afin de garantir un niveau de sécurité adapté au risque, conformément à l'article 32 du règlement général sur la protection des données. Le responsable du traitement précité prend les mesures techniques et organisationnelles appropriées contre le traitement non autorisé ou illicite, évalue régulièrement l'adéquation de ces mesures de sécurité et, au besoin, les adapte.
+
+§ 5. Les données traitées sont conservées pendant une période maximale de dix ans à compter de la décision de refus ou de paiement de l'intervention.
+
+§ 6. Le Gouvernement flamand arrête la marche à suivre qu'applique le responsable du traitement mentionné dans le paragraphe 1er, alinéa 1er, afin de s'assurer que les données à caractère personnel recueillies et traitées sont exactes et tenues à jour.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2023-04-21/08, art. 59, 018; En vigueur : 09-06-2023&gt;
+
+## Partie 6. Droit de préemption
+
+**Art. 5.76**
+
+[<sup>1</sup>§ 1er. Les sociétés de logement, Vlabinvest apb et les communes disposent, dans leur zone d'activité, d'un droit de préemption sur des catégories de parcelles et des bâtiments situés dans des zones destinées à l'habitat, que la commune délimite par un arrêté du conseil communal.
+
+Le Gouvernement flamand peut arrêter d'autres modalités concernant la délimitation des zones et la publication de cette délimitation.
+
+§ 2. La parcelle ou le bâtiment acquis par l'exercice du droit de préemption en vertu du paragraphe 1er sont utilisés, éventuellement après travaux, en vue d'élargir ou de soutenir l'offre de logement dont des sociétés de logement ont la propriété ou la gestion.
+
+Le Gouvernement flamand peut arrêter d'autres modalités concernant l'affectation du logement ou de la parcelle visée au paragraphe 1er.
+
+§ 3. Sont exclus du droit de préemption :
+
+1° les logements qui font partie d'un bâtiment comprenant plusieurs logements, dont la vente fait naître la copropriété ;
+
+2° les lots séparés d'un lotissement approuvé qui n'est pas vendu dans son intégralité ;
+
+3° les garages et emplacements séparés pour vélos et véhicules à moteur ;
+
+4° l'achat d'une parcelle ou d'un bâtiment qui sera affecté par une ou plusieurs personnes physiques à leur logement propre et unique, à condition que tous ces acquéreurs conjointement n'aient pas, à la date de la conclusion du contrat d'achat, la pleine propriété ou le plein usufruit d'un autre logement ou d'une autre parcelle destinée à la construction de logements ;
+
+5° les logements vendus par les sociétés de logement ;
+
+6° les terrains vendus en exécution du programme d'action communal visé à l'article 2.6, [<sup>2</sup> alinéa 3]<sup>2</sup>, en vue de la réalisation d'une offre de logement social.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-04-21/08, art. 60, 018; En vigueur : 09-06-2023&gt;
+
+(2)&lt;DCFL 2026-02-27/17, art. 33, 027; En vigueur : 01-01-2026&gt;
+
+**Art. 5.77**
+
+[<sup>1</sup> Les dispositions du titre IV, chapitres Ier, II et VI, du décret du 16 juin 2006 portant création d'une " Vlaamse Grondenbank " (Banque foncière flamande) et portant modification de diverses dispositions et le décret du 25 mai 2007 portant harmonisation des procédures relatives aux droits de préemption s'appliquent au droit de préemption visé à l'article 5.76.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-04-21/08, art. 61, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 5.78**
+
+[<sup>1</sup>En cas d'exercice du droit de préemption par deux bénéficiaires ou plus, le bien est attribué dans l'ordre suivant :
+
+1° la société de logement ;
+
+2° Vlabinvest apb ;
+
+3° la commune.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-04-21/08, art. 62, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 5.79**
+
+&lt;Abrogé par DCFL 2023-04-21/08, art. 63, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 5.80**
+
+&lt;Abrogé par DCFL 2023-04-21/08, art. 64, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 5.81**
+
+&lt;Abrogé par DCFL 2023-04-21/08, art. 65, 018; En vigueur : 09-06-2023&gt;
+
+## Partie 7. Gestion sociale des logements
+
+**Art. 5.82**
+
+Dans les conditions énoncées dans la présente partie, la commune obtient un droit de gestion sociale sur le logement qui a été inscrit depuis au moins deux ans au registre des immeubles inoccupés mentionné au livre 2, partie 2, titre 3, à l'inventaire ou, si le titulaire du droit réel ne l'occupe pas lui-même, au registre des bâtiments et logements abandonnés mentionné à l'article 2.15.
+
+**Art. 5.83**
+
+La commune qui envisage d'établir sur un logement un droit de gestion sociale, tel que visé à l'article 5.82, alinéa premier peut demander par envoi sécurisé au titulaire du droit réel d'accorder l'accès au logement dans un délai maximum d'un mois. Si l'accès est refusé ou après l'expiration du délai d'un mois, le bourgmestre peut, sans préjudice de l'application de l'alinéa deux, émettre un ordre autorisant à visiter le logement sans consentement entre huit et vingt heures.
+
+Si le logement est occupé la demande visée à l'alinéa premier est adressée à l'occupant. Dans ce cas, l'ordre du bourgmestre visé au même alinéa ne peut être exécuté que si le juge de police l'a autorisé.
+
+**Art. 5.84**
+
+La commune qui souhaite établir sur un logement un droit de gestion sociale, tel que visée à l'article 5.82, alinéa premier, informe le titulaire du droit réel par envoi sécurisé de son intention et l'invite à transmettre ses observations à la commune dans un délai d'un mois.
+
+Si le titulaire du droit réel transmet ses observations, il peut demander à être entendu oralement.
+
+La commune prend une décision en tenant compte des observations reçues et des éventuels éléments fournis lors de l'audience ou, en l'absence d'observations ou d'audience, après l'expiration du délai d'un mois.
+
+La commune informe le titulaire du droit réel par envoi sécurisé de sa décision dans les six mois suivant la notification de l'intention.
+
+**Art. 5.85**
+
+§ 1. À partir de la date de notification écrite de la décision visée à l'article 5.84, la commune dispose de la compétence de gérer le logement pendant une période de neuf ans, y compris le droit de le mettre en location en tant que logement locatif social en application des dispositions du livre 6.
+
+En vue de la mise en location, la commune veille à ce que le logement réponde au moins aux exigences et aux normes fixées en vertu des articles 3.1 et 3.3. La commune peut effectuer les travaux de rénovation nécessaires à cette fin.
+
+Tant qu'aucun travail n'est effectué, la commune peut décider de mettre fin au droit de gestion sociale.
+
+§ 2. Si le délai visé au paragraphe 1 est insuffisant pour récupérer les frais des travaux visés au paragraphe 1, alinéa deux, l'indemnité annuelle visée à l'article 5.86 et les frais d'administration normaux, il est prolongé du délai que la commune juge nécessaire pour récupérer les frais susmentionnés. Le Gouvernement flamand détermine les travaux dont les frais sont éligibles à une éventuelle prolongation du délai et peut définir la notion de " frais d'administration normaux ".
+
+En revanche, s'il existe un solde positif à la fin du délai visé au paragraphe 1, alinéa premier, ce solde est versé au titulaire du droit réel.
+
+**Art. 5.86**
+
+À partir de la notification écrite visée à l'article 5.85, § 1, alinéa premier, le titulaire du droit réel reçoit une indemnité annuelle correspondant au précompte immobilier visé à l'article 1.1.0.0.2, alinéa premier, 14° du Code flamand de la Fiscalité du 13 décembre 2013.
+
+L'indemnité mentionnée à l'alinéa premier est versée annuellement à la date anniversaire de la notification écrite visée au paragraphe 5.85, § 1, alinéa premier.
+
+**Art. 5.87**
+
+Le titulaire du droit réel peut introduire un recours auprès du Gouvernement flamand contre la décision d'établir un droit de gestion sociale et contre l'exercice de ce droit. Le recours ne suspend pas l'exercice du droit de gestion sociale.
+
+Le Gouvernement flamand fixe la procédure d'introduction et de traitement des recours.
+
+**Art. 5.88**
+
+Le titulaire du droit réel est tenu de respecter les contrats de location conclus par la commune.
+
+S'il remplit les conditions fixées par le Gouvernement flamand, le dernier occupant du logement en question avant la décision d'établir un droit de gestion sociale a la priorité absolue lors de l'attribution du logement.
+
+**Art. 5.89**
+
+Le titulaire du droit réel peut mettre fin au droit de gestion sociale avant l'expiration du délai visé à l'article 5.85, § 1, alinéa premier, ou § 2, alinéa premier, s'il a payé tous les frais recouvrables par la commune et a proposé au locataire en place un contrat de location tel que visé à [<sup>1</sup> l'article 16 du décret flamand sur la location d'habitations du 9 novembre 2018]<sup>1</sup>, moyennant un loyer n'excédant pas 120 % du dernier loyer payé.
+
+Si le locataire en place refuse la proposition, le logement peut être mis en location librement.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 151, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 5.90**
+
+Tant la décision d'établir un droit de gestion sociale que la cessation du droit de gestion sociale sont inscrites aux registres de la publicité hypothécaire. Cette inscription se fait au moyen d'un acte auquel le bourgmestre accorde l'authenticité. Le Gouvernement flamand arrête le modèle de l'acte.
+
+## Partie 8. Transfert de biens immeubles aux particuliers
+
+**Art. 5.91**
+
+La VMSW et les [<sup>1</sup> sociétés de logement]<sup>1</sup> peuvent vendre leurs biens immeubles de gré à gré à des ménages ou isolés, en exécution des missions visées aux articles 4.13, 4.14, [<sup>2</sup> ...]<sup>2</sup> 4.17, [<sup>2</sup> ...]<sup>2</sup> 4.20, 4.21, 4.22 [<sup>1</sup> , 4.23 et 4.45,]<sup>1</sup> en tenant compte des normes de prix, de la chronologie des demandes et des priorités et autres conditions fixées par le Gouvernement flamand à cet égard.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 152, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 54, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 5.92**
+
+Si, dans un délai de vingt ans après l'achat, les ménages ou isolés visés à l'article 5.91 mettent en location ou cèdent un droit réel sur le logement acquisitif social ou n'occupent pas eux-mêmes le logement acquisitif social pendant cette période, ils paient une indemnité fixée par le Gouvernement flamand et proportionnelle à l'investissement public. L'indemnité est attribuée au Fonds du logement.
+
+Si, dans un délai de vingt ans après l'achat, les ménages ou isolés visés à l'article 5.91 mettent en location ou cèdent un droit réel sur le logement locatif social ou n'occupent pas eux-mêmes le logement locatif social pendant cette période, et que l'organisation de logement social a accordé une remise sur le prix de vente, l'organisation de logement social réclame, dans les conditions fixées par le Gouvernement flamand, une indemnité proportionnelle à la remise accordée et fixée par le Gouvernement flamand. L'indemnité revient à l'organisation de logement social.
+
+Si, conformément au livre III, titre VI, chapitre VI, section I du Code civil, une faculté de rachat est incluse dans l'acte de vente et que le vendeur exerce cette faculté, le règlement prévu aux alinéas premier et deux n'est pas d'application.
+
+**Art. 5.92/1**
+
+[<sup>1</sup> § 1. Pour l'application de la présente partie, des données à caractère personnel sont traitées dans le but de vérifier le respect des conditions énumérées dans la présente partie et fixées par le Gouvernement flamand conformément à l'article 5.91.
+
+§ 2. [<sup>3</sup> Le service chargé par le Gouvernement flamand de la politique du logement ]<sup>3</sup> et la société de logement sont responsables du traitement[<sup>4</sup> ...]<sup>4</sup>.
+
+§ 3. En application du paragraphe 1, les catégories suivantes de données à caractère personnel peuvent être traitées :
+
+1° les données d'identification ;
+
+2° les caractéristiques personnelles ;
+
+3° les caractéristiques du logement ;
+
+4° le numéro de registre national et les numéros d'identification de la Sécurité sociale ;
+
+5° les particularités financières ;
+
+6° la composition de ménage ;
+
+7° les données relatives aux droits immobiliers ;
+
+8° la profession et l'emploi ;
+
+9° les modes de vie ;
+
+10° les données relatives à la santé physique ou mentale.
+
+Le Gouvernement flamand peut préciser les catégories de données à caractère personnel, visées à l'alinéa 1.
+
+§ 4. Les parties impliquées dans le traitement des données à caractère personnel sont :
+
+1° le candidat acquéreur ou son représentant ;
+
+2° les membres de la famille du candidat acquéreur ;
+
+3° l'acquéreur ou son représentant.
+
+§ 5. Le traitement des données à caractère personnel est soumis à un délai de conservation de :
+
+1° vingt ans à compter de la signature de l'acte de vente d'un logement social acquisitif ;
+
+2° dix ans à compter de la réception provisoire du logement construit sur le lot social.
+
+§ 6. Le responsable du traitement peut utiliser les données à caractère personnel à des fins statistiques et les mettre à la disposition des autres entités du domaine politique de l'Environnement à des fins statistiques. Le responsable du traitement peut également transmettre les données à caractère personnel au contrôleur visé à l'article 4.79 afin de lui permettre d'exercer son contrôle.
+
+Le Gouvernement flamand peut désigner d'autres entités auxquelles des données à caractère personnel peuvent être transmises pour des objectifs spécifiquement décrits.
+
+§ 7. Le responsable du traitement précise les traitements effectués dans une déclaration de vie privée. Dans un souci de transparence et de garantie des droits des personnes concernées, il inclut dans ses communications avec ces dernières une référence à l'emplacement de sa déclaration de vie privée.
+
+§ 8. [<sup>5</sup> § 8. Le service chargé par le Gouvernement flamand de la politique du logement coordonne les flux de données électroniques et l'échange d'informations électroniques entre les différents acteurs mentionnés dans la présente partie. Toutes les données électroniques peuvent être échangées dans ce cadre par le biais du service chargé par le Gouvernement flamand de la politique du logement et peuvent être recueillies auprès de ces sources de données par ce service qui, dans ce cas, est le responsable du traitement pour ce qui est du recueil et du transfert. Le service chargé par le Gouvernement flamand de la politique du logement peut également utiliser les données pour traitement statistique et les mettre à la disposition des autres entités du domaine politique de l'Environnement et de l'Aménagement du Territoire. Le service chargé par le Gouvernement flamand de la politique du logement peut effectuer un traitement ultérieur des données à caractère personnel aux fins visées à l'article 1.5 qui sont compatibles avec les finalités initiales.]<sup>5</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 153, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 55, 010; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2023-04-21/08, art. 66,1°, 018; En vigueur : 01-01-2023&gt;
+
+(4)&lt;DCFL 2023-04-21/08, art. 66,2°, 018; En vigueur : 09-06-2023&gt;
+
+(5)&lt;DCFL 2023-04-21/08, art. 66,3°, 018; En vigueur : 01-01-2023&gt;
+
+## Partie 9.Offre de logement modeste
+
+#### Titre 1. Normes et charges
+
+##### Chapitre 1. Normes régionales et communales
+
+**Art. 5.93**
+
+Les dispositions du présent chapitre s'appliquent :
+
+1° aux lotissements ayant au moins dix lots destinés à la construction de logements, ou ayant une superficie au sol supérieure à un demi-hectare, quel que soit le nombre de lots
+
+2° aux projets de construction de logements groupés impliquant le développement d'au moins dix logements ;
+
+3° à la construction ou la reconstruction d'immeubles à appartements créant au moins cinquante appartements ;
+
+4° aux lotissements, projets de construction de logements groupés et projets de construction ou de reconstruction d'immeubles d'appartements qui ne remplissent pas les conditions énoncées aux 1°, 2° ou 3° et pour lesquels un permis d'environnement pour le lotissement de terrains ou pour des actes urbanistiques est demandé par un lotisseur ou un maître d'ouvrage dont le projet est contigu à d'autres terrains à développer par le même lotisseur ou maître d'ouvrage, qui, combinés avec le terrain auquel la demande se rapporte, ont une superficie de plus d'un demi-hectare.
+
+Dans chacun des projets de lotissement et de construction visés au premier alinéa, la part de l'offre de logement modeste est la suivante :
+
+1° pour les terrains appartenant aux administrations flamandes ou aux personnes morales semi-publiques flamandes : quarante pour cent ;
+
+2° pour les terrains appartenant à d'autres personnes physiques ou morales : vingt pour cent.
+
+À partir de la publication d'un avis communal montrant que l'objectif social contraignant visé à l'article 2.27 a été atteint, le règlement urbanistique communal Logement modeste visé à l'article 5.94 peut renoncer à l'imposition d'un pourcentage d'offre de logement modeste, ou appliquer un pourcentage d'offre de logement modeste inférieur à la norme visée au deuxième alinéa. La publication précitée est effectuée conformément à [<sup>1</sup> l'article 286 du décret du 22 décembre 2017 sur l'administration locale]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 154, 005; En vigueur : 20-09-2021&gt;
+
+**Art. 5.94**
+
+§ 1. Les conseils communaux peuvent adopter un règlement urbanistique communal Logement modeste.
+
+Ce règlement urbanistique communal peut limiter davantage les normes de superficie et de volume maximum visées à l'article 1.3, § 1, premier alinéa, 3°. Ces normes peuvent être modulées en fonction de la composition du ménage.
+
+En outre, il peut décrire les motifs objectifs et pertinents sur la base desquels l'organe administratif délivrant le permis peut, lors de la délivrance d'un permis, autoriser des dérogations en moins aux normes visées à l'article 5.93, deuxième alinéa, par exemple en ce qui concerne la taille, la forme, l'emplacement ou la situation du lotissement ou du projet de construction ou l'offre de logement modeste ou social déjà existante dans les environs. Cette dérogation ne doit jamais impliquer une obligation de réaliser un pourcentage inférieur à la moitié du pourcentage applicable en vertu de l'article 5.93, alinéa deux.
+
+§ 2. Si une commune ne dispose pas d'un règlement urbanistique communal Logement modeste, l'organe administratif délivrant le permis impose les charges en vue de la réalisation d'une offre de logement modeste, visées à l'article 5.100, sous réserve des conditions et des marges visées à l'article 1.3, § 1, premier alinéa, 3°, et à l'article 5.93, premier et deuxième alinéas.
+
+**Art. 5.95**
+
+Les normes régionales et communales visées dans le présent chapitre ne s'appliquent pas aux zones de plan dans lesquelles des objectifs et prescriptions en pourcentage fixés en vertu des articles 5.96 et 5.97 s'appliquent.
+
+##### Chapitre 2. Normes dans les zones de plan
+
+**Art. 5.96**
+
+Les plans d'exécution spatiale et les plans d'aménagement peuvent établir de manière indépendante des objectifs et des prescriptions en pourcentage concernant la réalisation d'une offre de logement modeste au sein des lotissements, des logement groupés et de la construction d'immeubles d'appartements, visés à l'article 5.93, premier alinéa.
+
+Ils peuvent limiter davantage les normes de superficie et de volume maximum visées à l'article 1.3, § 1, premier alinéa, 3°. Ces normes peuvent être modulées en fonction de la composition du ménage.
+
+**Art. 5.97**
+
+Les plans d'exécution spatiale qui convertissent des zones d'extension résidentielle ou des zones de réserve résidentielle en zones résidentielles d'une superficie d'au moins un demi-hectare [<sup>2</sup> et les décisions du conseil communal libérant une zone de réserve d'habitat ou une partie de celle-ci à concurrence d'au moins un demi-hectare à des fins d'habitat]<sup>2</sup>, fixent un objectif de quarante pour cent d'offre de logement modeste dans les lotissements, les logements groupés et les immeubles d'appartements, visés à l'article 5.93, premier alinéa.
+
+L'objectif en pourcentage visé au premier alinéa peut être réduit au maximum à dix pour cent, dans la mesure où cela est motivé par l'offre existante et prévue de logement modeste et social, les facteurs liés au contexte social et les caractéristiques spatiales de la zone résidentielle ordonnée. L'objectif en pourcentage ne peut être ramené à zéro qu'à partir de la publication d'un avis communal montrant que l'objectif social contraignant visé à l'article 2.27 a été atteint. La publication précitée est effectuée conformément à [<sup>1</sup> l'article 286 du décret du 22 décembre 2017 sur l'administration locale]<sup>1</sup>.
+
+Le présent article ne peut être appliqué qu'aux plans d'exécution spatiale établis à titre provisoire à partir du 25 avril 2014.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 155, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2023-05-26/05, art. 17, 015; En vigueur : 07-07-2023&gt;
+
+##### Chapitre 3. Exception
+
+**Art. 5.98**
+
+Les chapitres 1 et 2 ne s'appliquent pas dans les cas suivants :
+
+1° lorsque le maître d'ouvrage ou le lotisseur est une organisation de logement social, ou une administration publique telle que visée à l'article 4.13[<sup>1</sup> ...]<sup>1</sup> ;
+
+2° lorsque Vlabinvest apb agit en tant que maître d'ouvrage ou lotisseur ;
+
+3° lorsque la demande de permis d'environnement pour des actes urbanistiques met en uvre un permis d'environnement pour le lotissement de terrains d'un projet de lotissement qui est déjà soumis à une norme telle que fixée en vertu des chapitres 1 ou 2.
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 56, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 5.99**
+
+Le présent titre ne s'applique pas aux catégories suivantes de projets :
+
+1° les projets de construction dans lesquels seules des structures de soins sont créées, à l'exception des projets de construction dans lesquels une ou plusieurs des structures suivantes sont créées :
+
+a) les résidence-services au sens des décrets coordonnés du 18 décembre 1991 relatifs aux structures destinées aux personnes âgées dont le contrat avec Serviceflats Invest NV n'a pas été conclu ou dont les travaux n'ont pas commencé au 6 février 2012 ;
+
+b) les logements à assistance au sens du décret sur les soins résidentiels du 15 février 2019;
+
+c) les logements AVJ au sens de l'arrêté du Gouvernement flamand du 16 juin 1998 visant à encourager les projets en faveur des personnes ayant un handicap physique habitant de manière autonome dans les quartiers d'habitations sociales ;
+
+d) les logements mis à disposition par un service au sens de l'arrêté du Gouvernement flamand du 18 décembre 1998 relatif à l'agrément et au subventionnement de services d'habitations protégées pour handicapés ;
+
+e) les logements mis à disposition par une structure au sens de l'arrêté du Gouvernement flamand du 17 novembre 2006 relatif à l'approbation et au subventionnement de projets de logement intégrés pour des personnes handicapées ;
+
+f) les logements mis à disposition par une initiative d'habitation protégée au sens de l'arrêté du Gouvernement flamand du 18 février 1997 fixant la procédure d'agrément et de fermeture des maisons de repos et de soins, des maisons de soins psychiatriques, des initiatives d'habitations protégées et des associations d'institutions et de services psychiatriques;
+
+2° les projets de construction qui combinent des structures de soins, d'une part, et des résidences privées, d'autre part, en ce qui concerne la part de structures de soins, à l'exception des projets de construction dans lesquels une ou plusieurs structures visées au 1°, a) à f), sont créées ;
+
+3° les projets de construction dans lesquels seules des chambres d'étudiants sont créées et qui sont détenus en propriété ou gérés par un établissement d'enseignement supérieur enregistré d'office tel que visé à l'article 7 du décret du 4 avril 2003 relatif à la restructuration de l'enseignement supérieur en Flandre ou par une ASBL créée conformément à l'article 208 du décret du 13 juillet 1994 relatif aux instituts supérieurs en Communauté flamande pour la gestion des services sociaux destinés aux étudiants des instituts supérieurs.
+
+Les projets visés au premier alinéa, 3°, sont assimilés aux projets de construction dans lesquels ne sont créées que des chambres d'étudiants pour lesquelles un accord de coopération a été conclu entre le maître d'ouvrage et un établissement d'enseignement supérieur enregistré d'office, qui y est mentionné, étant entendu que chacune des conditions suivantes doit en outre être remplie :
+
+1° l'organe d'administration compétent de l'établissement d'enseignement supérieur enregistré d'office a formellement donné son assentiment à l'accord de coopération ;
+
+2° l'accord de coopération a été conclu pour une période d'au moins 27 ans, et ne peut être résilié unilatéralement avant l'expiration de cette période ;
+
+3° l'accord de coopération comprend des accords sur le loyer des chambres d'étudiants individuelles.
+
+##### Chapitre 4. Charges
+
+**Art. 5.100**
+
+§ 1. Si un projet de construction ou de lotissement est soumis à une norme telle que fixée en vertu des chapitres 1 ou 2, le permis d'environnement pour le lotissement de terrains et le permis d'environnement pour des actes urbanistiques sont liés de plein droit à une charge au sens de l'article 75 du décret du 25 avril 2014 relatif au permis d'environnement. Cette charge oblige le lotisseur ou le maître d'ouvrage à entreprendre des actes afin de réaliser une offre de logement modeste qui soit conforme au pourcentage applicable au projet de lotissement ou de construction.
+
+Le lotisseur ou le maître d'ouvrage peut exécuter la charge en nature, en vendant les terrains nécessaires à l'offre de logement modeste prédéfinie à une organisation de logement social ou à une administration publique telle que visée à l'article 4.13 [<sup>1</sup> ...]<sup>1</sup> ou en versant une contribution à la commune dans laquelle le projet de lotissement ou de construction est développé.
+
+§ 2. L'organe d'administration délivrant le permis arrondit les nombres obtenus en application des chapitres 1 et 2 au nombre naturel le plus proche.
+
+§ 3. Dans un lotissement qui comporte moins de cinq lots destinés à la construction de logements et qui a une superficie de plus d'un demi-hectare ou qui, conformément à l'article 5.93, premier alinéa, 4°, est contigu à d'autres terrains à développer par le même lotisseur, qui, combinés avec le terrain auquel la demande se rapporte, ont une superficie de plus d'un demi-hectare, aucune charge n'est imposée pour la réalisation d'une offre de logement modeste.
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 5, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 5.101**
+
+§ 1. Si le lotisseur ou le maître d'ouvrage choisit d'exécuter la charge en nature, il réalise l'offre de logement modeste prédéfinie dans un délai de huit ans après la délivrance du permis en dernier recours administratif ou, si le permis mentionne explicitement différentes phases du projet de lotissement ou de construction, dans un délai de huit ans après le début de la phase du permis au cours de laquelle l'offre de logement modeste doit être réalisée.
+
+§ 2. Le lotisseur ou le maître d'ouvrage garantit l'exécution de la charge en accordant une option d'achat au profit d'une organisation de logement social ou d'une administration publique telle que visée à l'article 4.13[<sup>1</sup> ...]<sup>1</sup>. Par dérogation aux règles de droit commun du décret du 25 avril 2014 relatif au permis d'environnement, le permis ne peut être utilisé qu'à partir de la passation de l'acte sous seing privé dans lequel l'option d'achat est accordée.
+
+En vertu de l'option d'achat, le lotisseur ou le maître d'ouvrage accepte la vente, au bénéficiaire de l'option, des terrains affectés dans le plan de lotissement ou de construction à l'offre de logement modeste. Le bénéficiaire ne peut exercer l'option que si l'offre de logement modeste prédéfinie n'a pas été réalisée dans le délai mentionné au § 1. Le droit d'option devient caduc s'il n'est pas exercé dans les trois ans suivant l'expiration du délai mentionné au § 1.
+
+Si l'option d'achat est exercée, le bénéficiaire paie pour les terrains vendus le prix estimé, qui est égal à la valeur vénale des terrains au moment de la délivrance du permis d'environnement pour le lotissement de terrains ou du permis d'environnement pour des actes urbanistiques. Dans l'estimation de cette valeur vénale, il n'est pas tenu compte des conséquences de la charge et, le cas échéant, les frais suivants sont au moins déduits :
+
+1° les frais de traitement et d'assainissement des sols contaminés en cas de déblaiement
+
+2° les frais supplémentaires pour l'installation d'une fondation plus lourde en cas de stabilité insuffisante du sol pour les logements à construire ;
+
+3° les frais d'élimination des débris restants.
+
+Les terrains vendus en vertu de l'option d'achat sont utilisés au profit de la politique communale du logement.
+
+§ 3. Par dérogation au paragraphe 2, le lotisseur ou le maître d'ouvrage peut assurer l'exécution de la charge par le dépôt d'une garantie financière adéquate ou par une garantie financière adéquate irrévocablement accordée par un établissement bancaire.
+
+§ 4. L'aménagement spatial adéquat de la partie modeste d'un projet de lotissement ou d'un projet de construction qui est soumis à une norme telle que fixée en vertu des chapitres 1 ou 2, est à tout temps évalué sur la base des densités suivantes des logements:
+
+1° entre 35 et 100 logements par hectare, en zone urbaine ;
+
+2° entre 25 et 35 logements par hectare, en zone rurale.
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 58, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 5.102**
+
+Le lotisseur ou le maître d'ouvrage peut choisir d'exécuter la charge en vendant les terrains nécessaires à l'offre de logement modeste prédéfinie à une organisation de logement social ou à une administration publique telle que visée à l'article 4.13 [<sup>1</sup> ]<sup>1</sup> le cas échéant sous la condition suspensive ou résolutoire de la délivrance du permis. Le prix de vente est fixé au prix estimé. Le prix estimé est égal à la valeur vénale du bien, sans tenir compte des conséquences de la charge, réduite, le cas échéant, d'au moins les frais suivants :
+
+1° les frais de traitement et d'assainissement des sols contaminés en cas de déblaiement
+
+2° les frais supplémentaires pour l'installation d'une fondation plus lourde en cas de stabilité insuffisante du sol pour les logements à construire ;
+
+3° les frais d'élimination des débris restants.
+
+Les terrains vendus sont utilisés au profit de la politique communale du logement.
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 59, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 5.103**
+
+Le lotisseur ou le maître d'ouvrage peut exécuter tout ou partie de la charge en versant une contribution à la commune dans laquelle le projet de lotissement ou de construction est développé. La contribution est calculée en multipliant le nombre de logements ou de lots correspondant à la partie de la charge qui n'est pas exécutée d'une des manières visées aux articles 5.101 et 5.102, par le montant forfaitaire indexé de la part de terrain lors de l'achat d'un logement existant pour lequel il faut procéder à des investissements tout au plus limités avant de pouvoir le mettre à disposition en tant que logement locatif social.
+
+La faculté visée au premier alinéa ne s'applique que si l'organe d'administration délivrant le permis y consent et dans la mesure où le projet de lotissement ou de construction n'est pas situé dans une zone d'extension résidentielle ou de réserve résidentielle ou dans une ancienne zone d'extension résidentielle ou de réserve résidentielle.
+
+La contribution est utilisée au profit de l'offre communale de logement social ou modeste.
+
+**Art. 5.104**
+
+Le lotisseur ou le maître d'ouvrage peut, d'une des manières, visées à l'article 5.100, § 1, alinéa deux, déplacer l'exécution de la charge pour la réalisation d'une offre de logement modeste vers d'autres terrains que ceux qui sont situés dans le lotissement ou le projet de construction.
+
+La possibilité énoncée à l'alinéa premier ne s'applique que si l'organe administratif délivrant le permis marque son accord et à condition que toutes les exigences suivantes soient remplies :
+
+1° les terrains accueillants sont équivalents en termes économiques et spatiaux aux terrains situés dans le lotissement ou le projet de construction ;
+
+2° les terrains accueillants sont situés dans la commune concernée ;
+
+3° le déplacement de l'exécution de la charge est compatible avec la politique spatiale de la commune;
+
+4° le lotisseur ou le maître d'ouvrage est propriétaire des terrains accueillants ou est explicitement habilité par le propriétaire des terrains accueillants à appliquer le présent article.
+
+Les obligations transférées ne sont pas déduites des obligations qui s'appliquent aux terrains accueillants, au cas où ceux-ci sont également soumis à une norme fixée en vertu des chapitres 1 et 2.
+
+#### Titre 2. Prix indicatifs cibles et règles d'attribution
+
+----------
+
+(0)&lt;DCFL 2023-04-21/08, art. 67, 018; uniquement dans le texte néerlandais : 09-06-2023&gt;
+
+**Art. 5.105**
+
+Le Gouvernement flamand fixe des prix indicatifs cibles pour la vente ou la location de logements et la vente de lots qui font partie de l'offre de logement modeste. Les prix indicatifs cibles visent à augmenter la transparence du marché foncier et immobilier. Ils ne peuvent être appliqués de manière contraignante.
+
+Les prix indicatifs cibles sont fixés après consultation du marché à l'occasion de la création et du développement de la banque-carrefour Logement abordable, visée à l'article 4.3.1 du décret sur la politique foncière et immobilière.
+
+Ils tiennent compte notamment de la typologie, de la qualité, de la superficie ou du volume, et de la localisation des logements ou des lots.
+
+**Art. 5.106**
+
+§ 1. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 2. Les conseils communaux peuvent fixer un règlement communal Logement modeste, ayant les mêmes force juridique et valeur contraignante qu'un règlement urbanistique. Ce règlement communal comprend des normes qualitatives de l'offre de logement modeste et de l'environnement résidentiel.
+
+Le règlement communal peut fixer des pourcentages distincts en matière d'offre de logement modeste pour la réalisation de diverses typologies de lots et de logements appartenant à l'offre de logement modeste.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 156, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 69,1°, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 5.106/1**
+
+[<sup>1</sup> § 1. Pour l'application du présent titre, des données à caractère personnel sont traitées dans le but :
+
+1° de vérifier s'il est satisfait aux conditions et aux obligations fixées par le Gouvernement flamand conformément à l'article 5.106, § 1 ;
+
+2° d'assurer le règlement juridique du contrat de location.
+
+§ 2. La société de logement est le responsable du traitement[<sup>3</sup> ...]<sup>3</sup>.
+
+§ 3. En application du paragraphe 1, les catégories suivantes de données à caractère personnel peuvent être traitées :
+
+1° les données d'identification ;
+
+2° les caractéristiques personnelles ;
+
+3° les caractéristiques du logement ;
+
+4° le numéro de registre national et le numéro d'identification de la Sécurité sociale ;
+
+5° la composition de ménage ;
+
+6° les particularités financières ;
+
+7° les données relatives aux droits immobiliers ;
+
+8° les modes de vie ;
+
+9° les données relatives à la santé physique ou mentale.
+
+Le Gouvernement flamand peut préciser les catégories de données à caractère personnel, visées à l'alinéa 1.
+
+§ 4. Les parties impliquées dans le traitement des données à caractère personnel sont :
+
+1° le candidat locataire ou son représentant ;
+
+2° les membres de la famille du candidat locataire ;
+
+3° le locataire ou son représentant ;
+
+4° les occupants ;
+
+5° l'ancien locataire ou son représentant.
+
+§ 5. Le traitement des données à caractère personnel est soumis à un délai de conservation de dix ans suivant la suppression du dossier d'inscription du candidat locataire ou suivant la fin du contrat de location.
+
+§ 6. Le responsable du traitement peut utiliser les données à caractère personnel à des fins statistiques et les mettre à la disposition des autres entités du domaine politique de l'Environnement à des fins statistiques. Le responsable du traitement peut également transmettre les données à caractère personnel au contrôleur visé à l'article 4.79 du présent Code afin de lui permettre d'exercer son contrôle.
+
+§ 7. Le responsable du traitement précise les traitements effectués dans une déclaration de vie privée. Dans un souci de transparence et de garantie des droits des personnes concernées, il inclut dans ses communications avec ces dernières une référence à l'emplacement de sa déclaration de vie privée.
+
+§ 8.[<sup>4</sup> Le service chargé par le Gouvernement flamand de la politique du logement coordonne les flux de données électroniques et l'échange d'informations électroniques entre les différents acteurs mentionnés dans le présent article. Toutes les données électroniques peuvent être échangées dans ce cadre par le biais du service chargé par le Gouvernement flamand de la politique du logement et peuvent être recueillies auprès de ces sources de données par ce service qui, dans ce cas, est le responsable du traitement pour ce qui est du recueil et du transfert. Le service chargé par le Gouvernement flamand de la politique du logement peut également utiliser les données pour traitement statistique et les mettre à la disposition des autres entités du domaine politique de l'Environnement et de l'Aménagement du Territoire. Le service chargé par le Gouvernement flamand de la politique du logement peut effectuer un traitement ultérieur des données à caractère personnel aux fins visées à l'article 1.5 qui sont compatibles avec les finalités initiales.]<sup>4</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2021-07-09/37, art. 157, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2022-06-03/17, art. 60, 010; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2023-04-21/08, art. 69,1°, 018; En vigueur : 09-06-2023&gt;
+
+(4)&lt;DCFL 2023-04-21/08, art. 69,2°, 018; En vigueur : 01-01-2023&gt;
+
+## Partie 10. Surveillance de l'activation
+
+**Art. 5.107**
+
+Si dans une commune l'objectif social contraignant, tel que visé à l'article 2.27, n'a pas été atteint dans le délai prévu à cet effet, le Gouvernement flamand peut prendre des mesures de surveillance d'activation à l'égard des administrations flamandes qui remplissent les deux conditions suivantes :
+
+1° elles sont propriétaires, sur le territoire de cette commune, de terrains à bâtir non bâtis ou de lots qui ne répondent pas à une ou plusieurs des caractéristiques particulières suivantes :
+
+a) ils présentent un intérêt direct manifeste pour l'exercice de la mission de la personne morale concernée ;
+
+b) ils sont aménagés comme des équipements collectifs, y compris leurs dépendances ;
+
+c) ils sont grevés d'un droit d'emphytéose, de superficie, d'usufruit ou d'usage ;
+
+d) ils sont mis en location en vertu de la Loi sur le bail à ferme du 4 novembre 1969, la preuve du bail pouvant être apportée par tout moyen légal ;
+
+e) ils sont enregistrés dans le système intégré de gestion et de contrôle au cours de l'année civile précédant l'année d'imposition ;
+
+f) ils font l'objet d'une interdiction de construire ou de toute autre servitude d'intérêt public qui rend impossible la construction de logements ;
+
+g) l'impossibilité de construire des logements résulte d'une cause étrangère non imputable à l'administration flamande, telle que la taille limitée des terrains à bâtir ou des lots, ou leur emplacement, leur forme ou leur état physique ;
+
+h) ils seront utilisés à des fins incompatibles avec le logement, selon un plan d'exécution spatial ou un plan d'aménagement qui a au moins été provisoirement fixé ou adopté ;
+
+2° ils ne mettent pas en uvre, ou ne mettent en uvre que partiellement, le programme d'action communal visé à l'article 2.6.
+
+**Art. 5.108**
+
+§ 1. L'exercice de la surveillance d'activation commence par un rappel de l'administration flamande visée à l'article 5.107. Par ce rappel, le Gouvernement flamand somme l'administration flamande à prendre les mesures nécessaires pour que ses terrains à bâtir non bâtis ou ses lots non bâtis qui ne répondent pas à une ou plusieurs des caractéristiques particulières visées à l'article 5.107, 1° puissent être radiés du registre des parcelles non bâties.
+
+§ 2. L'administration flamande sommée peut soumettre un acte justificatif au Gouvernement flamand.
+
+§ 3. En l'absence d'une justification, le Gouvernement flamand impose une obligation d'activation à l'administration flamande concernée.
+
+L'obligation d'activation implique l'obligation de prendre les mesures mentionnées au § 1 à l'égard des terrains à bâtir non bâtis et des lots non bâtis qui ne sont pas couverts par un acte justificatif. Le Gouvernement flamand fixe le délai dans lequel ces mesures doivent être prises. Ce délai ne peut excéder cinq ans à compter de la signification de l'ordonnance imposant l'obligation d'activation.
+
+**Art. 5.109**
+
+En cas de manquement à l'obligation d'activation, l'autorité supérieure peut utiliser tout moyen prévu par la réglementation organique applicable à l'administration concernée pour sanctionner le défaut d'exécution des mesures légalement prescrites.
+
+**Art. 5.110**
+
+Le Gouvernement flamand peut arrêter des modalités formelles et procédurales pour l'application de la présente partie.
+
+## Partie 11. Estimateur de loyer
+
+**Art. 5.111**
+
+Le Gouvernement flamand met à la disposition des locataires et des bailleurs une application web qui permet d'estimer le loyer sur le marché d'un logement sur la base de ses caractéristiques, de sa localisation et de son adresse. L'application web tient notamment compte de la qualité d'habitat, de la taille et de la situation du logement, de la distinction entre chambres et autres logements et des éventuelles formes d'habitat spécifiques, telles que visées à l'article 3.1, § 3, alinéa premier.
+
+### Livre 6. Location sociale
+
+## Partie 1. Dispositions générales
+
+**Art. 6.1**
+
+Dans [<sup>3</sup> le présent livre ]<sup>3</sup> et ses arrêtés d'exécution, on entend par :
+
+1° [<sup>2</sup> locataire :
+
+a) la ou les personnes désignées comme locataires dans le contrat de location au début du contrat de location ;
+
+b) la personne qui, en application de l'article 6.11, alinéa 3 ou 4, devient d'office locataire ;]<sup>2</sup>
+
+[<sup>2</sup> 1° /1 candidat locataire : la ou les personnes inscrites au registre d'inscription central, visé à l'article 6.5, et qui signeront le contrat de location en tant que locataires ;
+
+1° /2 candidat locataire potentiel : la ou les personnes qui souhaitent s'inscrire au registre d'inscription central, visé à l'article 6.5 ;]<sup>2</sup>
+
+2° occupation rationnelle : l'occupation appropriée d'un logement, [<sup>1</sup> dans le cadre de laquelle le locataire tient compte]<sup>1</sup> du nombre de personnes qui occupent ou occuperont durablement le logement locatif social et de l'état physique de ces personnes ;
+
+[<sup>2</sup> 2° /1 VDAB : l'Office flamand de l'Emploi et de la Formation professionnelle (Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding), créé par le décret du 7 mai 2004 relatif à la création de l'agence autonomisée externe de droit public " Vlaamse Dienst voor Arbeidsbemiddeling en Beroepsopleiding " (Office flamand de l'Emploi et de la Formation professionnelle) ;]<sup>2</sup>
+
+3° structure d'aide sociale ou de santé : une structure dont les activités relèvent du domaine politique du Bien-Être, de la Santé publique et de la Famille. Un CPAS est assimilé à une structure d'aide sociale ou de santé.
+
+[<sup>1</sup> Le Gouvernement flamand peut, dans les cas qu'il arrête, déroger à la condition de logement durable pour l'occupation rationnelle, visée à l'alinéa 1, 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 158, 3°, 5°, 005; En vigueur : 01-03-2022&gt;
+
+(2)&lt;DCFL 2021-07-09/37, art. 158, 1°, 2°, 4°, 005; En vigueur : 01-01-2023&gt;
+
+(3)&lt;DCFL 2023-04-21/08, art. 71, 018; En vigueur : 09-06-2023&gt;
+
+**Art. 6.2**
+
+Le Gouvernement flamand fixe, dans le respect des dispositions du présent livre, les conditions de location des logements locatifs sociaux. [<sup>1</sup> ...]<sup>1</sup>
+
+Aux aspects non réglementés par le présent livre ou ses arrêtés d'exécution s'appliquent les dispositions du livre III, titre VIII, chapitre II, section I du Code civil et le Décret flamand sur la location d'habitations.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 159, 005; En vigueur : 01-03-2022&gt;
+
+**Art. 6.3**
+
+Les dispositions du présent livre s'appliquent aux logements locatifs sociaux, à l'exception des logements qui :
+
+1° sont mis à disposition comme résidences-services dans le cadre de la politique flamande du bien-être ;
+
+2° [<sup>1</sup> sont financés par des moyens de Vlabinvest apb, financés par des moyens du Fonds d'investissement pour la Politique foncière et du Logement du Brabant flamand, ou financés par des moyens de la VMSW dans le cadre de sa mission visée à l'article 4.15]<sup>1</sup>.
+
+----------
+
+(1)&lt;DCFL 2022-06-03/17, art. 61, 010; En vigueur : 01-01-2023&gt;
+
+**Art. 6.3/1**
+
+[<sup>1</sup> § 1er. Pour l'application du présent livre, des données à caractère personnel sont traitées aux fins suivantes :
+
+1° vérifier s'il satisfait aux conditions et aux obligations du présent livre et fixées par le Gouvernement flamand conformément au présent livre ;
+
+2° assurer le règlement juridique du contrat de location ;
+
+3° permettre l'exercice du contrôle, visé à la partie 12 ;
+
+4° tenir le registre central des habitations, visé à l'article 6.4, visant à soutenir l'entité désignée conformément à l'article 6.4 pour tenir le registre central des habitations, lors de l'exécution de ses missions.
+
+§ 2. Les responsables du traitement sont :
+
+1° le bailleur, pour les traitements dont il a la charge ;
+
+2° pour le registre d'inscription central, l'entité désignée conformément à l'article 6.5, alinéa 1er, pour tenir le registre d'inscription central ;
+
+3° le contrôleur, visé à l'article 4.79, pour les traitements effectués dans le cadre de sa compétence de contrôle ;
+
+4° pour le registre central des habitations, l'entité désignée conformément à l'article 6.4 pour tenir le registre central des habitations.
+
+§ 3. En application du paragraphe 1er, les catégories suivantes de données à caractère personnel peuvent être traitées :
+
+1° les données d'identification, dont les coordonnées ;
+
+2° le numéro de registre national et les numéros d'identification à la sécurité sociale ;
+
+3° les caractéristiques personnelles ;
+
+4° la composition du ménage ;
+
+5° les particularités financières ;
+
+6° les données relatives aux droits immobiliers ;
+
+7° les données d'apprenants du néerlandais deuxième langue (NT2) ;
+
+8° les caractéristiques du logement ;
+
+9° la profession et l'emploi ;
+
+10° les données de l'enquête sociale dans le cadre de l'enquête sur l'éventuelle propriété immobilière à l'étranger, visée à l'article 6.3/2 ;
+
+11° les modes de vie dans le cadre de la conclusion d'un contrat d'accompagnementou d'un refus tels que visés à l'article 6.13 ;
+
+12° les données judiciaires relatives à la résiliation du contrat de location pour avoir causé de graves dégradations ou pour négligence grave du logement locatif social ;
+
+13° les données relatives à la santé physique ou mentale ;
+
+14° l'éducation et la formation ;
+
+15° les données relatives au contrat de location résilié par le bailleur ;
+
+16° la consommation d'eau, de gaz et d'électricité.
+
+Le Gouvernement flamand peut préciser les catégories de données à caractère personnel visées à l'alinéa 1er.
+
+§ 4. Le responsable du traitement, visé au paragraphe 2, 1° et 2°, applique aux données à caractère personnel un délai de conservation de maximum un an suivant la fin définitive des procédures administratives, judiciaires et extrajudiciaires, et jusqu'à dix ans maximum suivant l'estimation que le candidat locataire n'a pas rempli les conditions d'inscription ou suivant la suppression du dossier d'inscription du candidat locataire ou suivant la fin du contrat de location.
+
+Par dérogation à l'alinéa 1er, les données à caractère personnel qui sont traitées pour la conclusion du contrat d'accompagnement, visé à l'article 6.13, sont conservées jusqu'à la fin du parcours d'accompagnement.
+
+Le responsable du traitement, visé au paragraphe 2, 3°, applique aux données à caractère personnel qu'il traite dans le cadre de son contrôle, un délai de conservation de maximum un an suivant la fin définitive des procédures administratives, judiciaires et extrajudiciaires, et jusqu'à dix ans maximum à compter de la fin de ses actes d'enquête.
+
+§ 5. Les parties impliquées dans le traitement des données à caractère personnel sont :
+
+1° le candidat locataire potentiel ou son représentant ;
+
+2° le candidat locataire ou son représentant ;
+
+3° les membres de la famille du candidat locataire ;
+
+4° le locataire ou son représentant ;
+
+5° les membres de la famille du locataire ;
+
+6° l'ancien locataire ou son représentant.
+
+§ 6. Le responsable du traitement, visé au paragraphe 2, 1° et 2°, peut transmettre les données à caractère personnel aux conditions suivantes :
+
+1° les données à caractère personnel, visées au paragraphe 3, alinéa 1er, aux entités du domaine politique de l'Environnement à des fins statistiques ;
+
+2° les données à caractère personnel, visées au paragraphe 3, alinéa 1er, 1°, 2°, 3°, 8° et 10°, aux partenaires privés désignés par le Gouvernement flamand conformément à l'article 6.3/2, alinéa 2, pour la recherche de biens immobiliers à l'étranger ;
+
+3° les données à caractère personnel, visées au paragraphe 3, alinéa 1er, 1°, 2° et 11°, à un autre bailleur pour la conclusion d'une convention d'encadrement visée à l'article 6.13 ;
+
+4° les données à caractère personnel, visées au paragraphe 3, alinéa 1er, 1° et 2°, aux organisations chargées de l'exécution de la politique flamande d'intégration et d'intégration civique pour la réalisation de l'obligation visée à l'article 6.20, alinéa 1, 5° et 6° ;
+
+5° les données à caractère personnel, visées au paragraphe 3, alinéa 1er, 1° à 6°, 13° et 15°, l'inscription au registre d'inscription et sa suppression, l'attribution d'un logement social, les refus d'une offre et la durée des inscriptions consécutives auprès d'une société de domicile à l'agence désignée par le Gouvernement flamand afin de vérifier s'il satisfait aux conditions et obligations du livre 5, partie 5, titres 2 et 3, et aux conditions et obligations fixées par le Gouvernement flamand conformément aux mêmes titres ;
+
+6° les données à caractère personnel, visées au paragraphe 3, alinéa 1er, au contrôleur visé à l'article 4.79, en vue d'exercer le contrôle ;
+
+7° les données à caractère personnel, visées au paragraphe 3, alinéa 1er, 16°, à un partenaire privé pour le calcul de l'indemnité visée à l'article 6.25, alinéa 1er ;
+
+8° les données à caractère personnel mentionnées dans le paragraphe 3, alinéa 1er, 1° et 2°, au VDAB en vue d'un service spécifique et de politiques appropriées pour les locataires sociaux au titre de l'obligation visée à l'article 6.20, alinéa 1er, 12°.
+
+Le Gouvernement flamand peut désigner des entités additionnelles auxquelles des données à caractère personnel peuvent être transférées à des fins spécifiquement définies.
+
+§ 7. Les responsables du traitement, visés au paragraphe 2, 1°, 2° et 4°, précisent les traitements qui sont exécutés dans une déclaration de vie privée. Dans un souci de transparence et de garantie des droits des personnes concernées, ils incluent dans leur communication avec ces dernières une référence à l'emplacement de leur déclaration de confidentialité respective.
+
+§ 8. Le service chargé par le Gouvernement flamand de la politique du logement coordonne les flux de données électroniques et l'échange d'informations électroniques entre les différents acteurs mentionnés dans le présent livre. Toutes les données électroniques peuvent être échangées dans ce cadre par le biais du service chargé par le Gouvernement flamand de la politique du logement et peuvent être recueillies auprès des sources de données par ce service qui, dans ce cas, est le responsable du traitement de ces données pour ce qui est du recueil et du transfert. Le service chargé par le Gouvernement flamand de la politique du logement peut également utiliser les données pour traitement statistique et les mettre à la disposition des autres entités du domaine politique de l'Environnement et de l'Aménagement du Territoire. Le service chargé par le Gouvernement flamand de la politique du logement peut effectuer un traitement ultérieur des données à caractère personnel aux fins visées à l'article 1.5 qui sont compatibles avec les finalités initiales.
+
+§ 9. Les responsables du traitement, visés au paragraphe 2, 1° et 2°, prennent les mesures nécessaires pour garantir l'exactitude des données à caractère personnel visées au paragraphe 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2023-10-27/03, art. 4, 021; En vigueur : 24-11-2023&gt;
+
+**Art. 6.3/2.**
+
+[<sup>1</sup> Le bailleur qui vérifie s'il est satisfait aux conditions relatives à la possession de biens immobiliers, visées à l'article 6.8, alinéa 1, 2°, articles 6.11 et 6.21, alinéa 1, peut faire appel à des partenaires publics ou privés pour la possession de biens immobiliers à l'étranger. Le Gouvernement flamand peut désigner l'entité qui conclut un contrat-cadre relatif à la désignation des partenaires privés.
+
+Dans les limites des crédits inscrits à cet effet au budget de la Région flamande, le Gouvernement flamand peut, dans les conditions qu'il fixe, verser une indemnisation au bailleur qui fait appel aux partenaires privés désignés dans le contrat-cadre, visé au premier alinéa.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 161, 005; En vigueur : indéterminée &gt;
+
+## Partie 2. Registre des logements
+
+**Art. 6.4**
+
+[<sup>1</sup> Le Gouvernement flamand instaure un registre central des habitations relatif aux logements locatifs sociaux.
+
+Le bailleur transmet les données fixées par le Gouvernement flamand à l'entité désignée par ce dernier.
+
+Le Gouvernement flamand détermine la forme et le contenu du registre central des habitations visé à l'alinéa 1, le mode de tenue de ce registre, son actualisation périodique et l'organisation de son contrôle.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 162, 005; En vigueur : 01-01-2023&gt;
+
+## Partie 3. Registre d'inscription et conditions d'inscription
+
+#### Titre 1. Registre d'inscription
+
+**Art. 6.5**
+
+[<sup>1</sup> Le Gouvernement flamand instaure un registre d'inscription central pour les candidats locataires et désigne l'entité chargée de la tenue du registre d'inscription central.
+
+Le bailleur attribue un logement à un candidat locataire sur la base des données du registre d'inscription central. Le bailleur peut utiliser les données du registre d'inscription central pour le fonctionnement propre.
+
+Le Gouvernement flamand fixe les règles suivantes pour le fonctionnement du registre d'inscription central :
+
+1° les règles relatives à la forme et au contenu du registre d'inscription central ;
+
+2° les règles relatives à la responsabilité de compléter, modifier, supprimer, conserver et traiter les données dans le registre d'inscription central ;
+
+3° les règles relatives au format et à la technique d'échange de données avec le registre d'inscription central ;
+
+4° les règles relatives à l'accès au registre d'inscription central et à l'identification au registre ;
+
+5° les règles relatives à la mise à jour du registre d'inscription central ;
+
+6° les règles relatives à l'organisation du contrôle du fonctionnement du registre d'inscription central.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 163, 005; En vigueur : 01-01-2023&gt;
+
+**Art. 6.6**
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 164, 005; En vigueur : 01-01-2023&gt;
+
+**Art. 6.7**
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 165, 005; En vigueur : 01-01-2023&gt;
+
+#### Titre 2. Conditions d'inscription
+
+**Art. 6.8**
+
+[<sup>1</sup> § 1. Le candidat locataire répond aux conditions suivantes :
+
+1° il est âgé d'au moins 18 ans ;
+
+2° il satisfait aux conditions en matière de propriété immobilière et de revenus fixées par le Gouvernement flamand ;
+
+[<sup>2</sup> 2° /1 il ne dispose pas de soldes sur des comptes courant, d'épargne, à terme et titres dépassant la limite fixée par le Gouvernement flamand ;]<sup>2</sup>
+
+3° il est inscrit dans les registres de la population, visés à l'article 1, § 1, alinéa 1, 1° de la loi du 19 juillet 1991 relative aux registres de la population, aux cartes d'identité, aux cartes d'étranger et aux documents de séjour, ou il est inscrit à une adresse de référence, visée à l'article 1, § 2 de la loi précitée ;
+
+4° il n'a pas été lié par un contrat de location avec le bailleur d'un logement locatif social qui a été résilié par décision de justice au cours des trois années précédant la date à laquelle le candidat locataire veut s'inscrire, pour cause de nuisance grave ou de négligence grave du logement locatif social. La résiliation du contrat de location ne doit pas uniquement être due à cette faute.
+
+Les conjoints, cohabitants légaux ou partenaires de fait qui souhaitent occuper ensemble le logement locatif social sont tenus de s'inscrire conjointement en tant que candidat locataire. Si plusieurs personnes, autres que des conjoints, des cohabitants légaux ou des partenaires de fait, souhaitent occuper ensemble le logement locatif social, une seule personne peut s'inscrire comme candidat locataire.
+
+Le Gouvernement flamand peut arrêter des exceptions à la condition visée à l'alinéa 1, 1°.
+
+Pour des raisons d'équité, le bailleur peut décider de ne pas appliquer la condition d'inscription, visée à l'alinéa 1, 4°. Dans ce cas, le bailleur peut subordonner l'inscription à un contrat d'accompagnement entre le candidat locataire et une structure de bien-être ou une structure de santé.
+
+§ 2. Si le logement social est un logement social à assistance tel que déterminé par le Gouvernement flamand, le candidat locataire est au moins âgé de 65 ans. Si le candidat locataire est composé de deux personnes, il suffit que l'une de ces personnes soit au moins âgée de 65 ans.
+
+Si le logement locatif social est un logement visé à l'article 5.40, le candidat locataire doit conclure une convention de soins et de services avec le prestataire de soins de la structure voisine, dans les conditions déterminées par le Gouvernement flamand. Si le candidat locataire est composé de deux personnes, il suffit que l'une de ces personnes conclue la convention de soins et de services susmentionnée.
+
+§ 3. Par dérogation au paragraphe 1, alinéa 1, le candidat locataire ne doit pas remplir les conditions d'inscription si, au moment du dépôt de sa candidature, il est déjà locataire d'un autre logement locatif social.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 166, 005; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 73, 018; En vigueur : 01-01-2024&gt;
+
+**Art. 6.9**
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Le bailleur informe expressément le candidat locataire de l'obligation du locataire visée à l'article 6.20, premier alinéa, 5° et 6°.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 167, 005; En vigueur : 01-01-2023&gt;
+
+**Art. 6.10**
+
+[<sup>1</sup> Sans préjudice de l'application de l'article 6.12, alinéa 2, le candidat locataire indique dans son inscription la localisation, le type, le loyer maximal et les charges locatives fixes des logements locatifs sociaux pour lesquels il souhaite entrer en ligne de compte.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 168, 005; En vigueur : 01-01-2023&gt;
+
+## Partie 4. Conditions d'admission et attribution
+
+#### Titre 1. Conditions d'admission
+
+**Art. 6.11**
+
+Le candidat locataire ne peut être admis à un logement locatif social que s'il remplit les conditions visées à l'article 6.8 [<sup>1</sup> , § 1, [<sup>2</sup> alinéa 1er, 1°, 2°, 2° /1 et 3°]<sup>2</sup>]<sup>1</sup>.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1, le candidat locataire ne doit pas remplir les conditions d'admission si, au moment de l'attribution, il est déjà locataire d'un autre logement locatif social.
+
+Le conjoint ou cohabitant légal du locataire, visé à l'article 6.1, 1°, a), peut uniquement cohabiter avec ce locataire dans le logement locatif social après le début du contrat de location, si cette personne satisfait avec ce locataire aux conditions visées à l'alinéa 1, et si la cohabitation ne conduit pas à un logement inadapté ou à un logement qui ne répond pas aux normes énoncées à l'article 3.1, § 1, alinéa 4. Si ces conditions sont remplies, le conjoint ou cohabitant légal devient locataire de plein droit.
+
+Le partenaire de fait du locataire, visé à l'article 6.1, 1°, a), qui est venu cohabiter dans le logement locatif social après le début du contrat de location ne peut, après avoir cohabité avec le locataire de référence pendant un an, continuer à vivre dans le logement que si lui et le locataire de référence remplissent les conditions visées à l'alinéa 1. Si ces conditions sont remplies, le partenaire de fait devient locataire de plein droit.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 169, 005; En vigueur : 01-01-20235&gt;
+
+(2)&lt;DCFL 2023-04-21/08, art. 74, 018; En vigueur : 01-01-2024&gt;
+
+#### Titre 2. Attribution
+
+##### Chapitre 1. Dispositions générales
+
+**Art. 6.12**
+
+[<sup>1</sup> Les logements locatifs sociaux sont attribués par l'organe de décision du bailleur ou par la ou les personnes qu'il désigne à cet effet, en tenant compte des éléments suivants :
+
+1° le choix du candidat locataire d'un logement locatif social quant au type, à la localisation et aux charges locatives fixes du logement ;
+
+2° l'occupation rationnelle ;
+
+3° les règles d'attribution fixées par le Gouvernement flamand, qui prennent en compte les objectifs particuliers de la politique du logement visés à l'article 1.6, § 2 ;
+
+4° le cas échéant, le règlement d'attribution visé à l'article 6.14, lequel concrétise localement les règles d'attribution fixées par le Gouvernement flamand.
+
+La préférence du candidat locataire visée à l'alinéa 1, 1°, ne peut conduire à un choix trop limité, à moins que le candidat locataire n'avance des raisons fondées.
+
+Si un logement locatif social mis en location par le bailleur est attribué, le bailleur peut refuser l'attribution s'il constate que le loyer est disproportionné par rapport aux revenus du candidat locataire. Le Gouvernement flamand peut arrêter des modalités relatives à la manière dont le bailleur peut appliquer ce refus.
+
+Le Gouvernement flamand arrête les modalités d'exécution de l'alinéa 1 et, lors de la définition des règles d'attribution, accorde une attention particulière au candidat locataire appartenant aux ménages et isolés les plus mal logés et aux habitants d'un logement locatif social souhaitant ou devant déménager dans un logement adapté.
+
+Un conseil d'attribution est créé dans chaque zone d'activité de la société de logement. Selon les conditions déterminées par le Gouvernement flamand, la zone d'activité peut être scindée en sous-zones au sein desquelles un conseil d'attribution propre est à chaque fois actif. Le conseil d'attribution est composé des représentants des bailleurs, des administrations locales et des acteurs du domaine du logement et du bien-être pertinents de la zone d'activité de la société de logement. Le Gouvernement flamand précise les règles relatives aux missions, à la composition, au fonctionnement et au processus décisionnel du conseil d'attribution. Le mandat des membres du conseil d'attribution est non rémunéré.
+
+L'entité, visée à l'article 6.5, alinéa 1, s'assure que le bailleur est en mesure de produire des listes d'attribution actualisées à partir du registre d'inscription central visé à l'article 6.5. Le Gouvernement flamand arrête les modalités relatives à la production de ces listes.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 170, 005; En vigueur : 01-01-2023&gt;
+
+**Art. 6.13**
+
+[<sup>1</sup> § 1.]<sup>1</sup> Dans les cas déterminés par le Gouvernement flamand, le bailleur [<sup>1</sup> ou un conseil d'attribution]<sup>1</sup> peut subordonner l'attribution à une convention d'encadrement entre le locataire et une structure de bien-être ou de santé, s'il le juge nécessaire après concertation avec ladite structure, et sur la base des données personnelles fournies par ladite structure. Les données personnelles concernent les caractéristiques comportementales du candidat locataire qui suggèrent qu'un soutien ou un encadrement sont nécessaires pour permettre au locataire d'occuper le logement avec succès. L'objectif de la convention d'encadrement est de guider le locataire vers le logement autonome. L'encadrement concerne au moins les aspects liés au maintien du logement, tels que le soutien et éventuellement l'apprentissage et la formation des aptitudes de logement. Notamment la nature, les moments, la durée et l'intensité de l'encadrement sont adaptés aux besoins et aux possibilités du locataire en fonction.
+
+Si un candidat locataire est, ou a été jusqu'à il y a moins d'un an, locataire d'un autre bailleur d'un logement locatif social et que, selon cet autre bailleur, il a besoin d'un encadrement tel que visé au premier alinéa, le bailleur peut subordonner l'attribution à une convention d'encadrement telle que visée au premier alinéa, si les conditions suivantes sont remplies :
+
+1° l'autre bailleur démontre les données personnelles visées au premier alinéa au moyen de pièces justificatives ;
+
+2° le bailleur donne au candidat locataire la possibilité d'être entendu oralement ou par écrit ;
+
+3° la structure de bien-être ou de santé est d'avis qu'un encadrement et un soutien sont nécessaires.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+La structure de bien-être ou de santé avec laquelle la convention d'encadrement a été conclue, informe le bailleur lorsque ladite convention avec le locataire est cessée.
+
+[<sup>1</sup> § 2. Un bailleur peut refuser une attribution sur la base de motifs graves et s'il estime que l'accompagnement et le soutien visés au paragraphe 1 ne sont pas suffisants. Le Gouvernement flamand en précise les règles.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 171, 005; En vigueur : 01-01-2023&gt;
+
+##### Chapitre 2.[<sup>1</sup> Règlement d'attribution]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 172, 005; En vigueur : 01-01-2023&gt;
+
+**Art. 6.14**
+
+[<sup>1</sup> § 1. Le conseil d'attribution visé à l'article 6.12, alinéa 5, établit, selon les conditions fixées par le Gouvernement flamand, une ébauche de règlement d'attribution visé à l'article 6.12, alinéa 1, 4°. La commune qui fait partie du conseil d'attribution peut amender l'ébauche en ce qui concerne les règles d'attribution des logements locatifs sociaux sur son territoire.
+
+La société de logement transmet le règlement d'attribution et le dossier administratif au Gouvernement flamand par envoi sécurisé dans les cas déterminés par le Gouvernement flamand.
+
+Le Gouvernement flamand dispose d'un délai de quarante-cinq jours civils suivant la date de notification du règlement d'attribution et du dossier administratif pour annuler tout ou partie du règlement d'attribution s'il l'estime contraire aux lois, décrets et leurs arrêtés d'exécution ou à l'intérêt général. Si le règlement d'attribution est transmis par courrier recommandé, le délai commence à courir le troisième jour ouvrable suivant la date à laquelle le règlement d'attribution est remis à la poste.
+
+Le Gouvernement flamand peut prolonger une seule fois de quinze jours civils le délai visé à l'alinéa 3. Il en informe la société de logement avant l'expiration du délai initial.
+
+Pour le calcul du délai visé aux alinéas 3 et 4, la date d'échéance est comprise dans le délai. Si la date d'échéance est un samedi, un dimanche, un jour férié légal ou décrétal, elle est reportée au premier jour ouvrable suivant.
+
+Le Gouvernement flamand transmet la décision d'annulation par envoi sécurisé à la société de logement. Cette dernière en informe le conseil d'attribution.
+
+§ 2. Si le règlement d'attribution, conformément au paragraphe 1, alinéa 2, est transmis au Gouvernement flamand, il entre en vigueur un mois après l'expiration du délai visé au paragraphe 1, alinéa 3, ou du délai prolongé visé au paragraphe 1, alinéa 4, sauf si le règlement d'attribution prévoit une date ultérieure.
+
+§ 3. La société de logement fournit une copie du règlement d'attribution au contrôleur si le délai, visé au paragraphe 1, alinéa 3 ou 4, a expiré et qu'aucune annulation n'a été prononcée. Dans le cas où le règlement d'attribution, visé à l'article 6.12, alinéa 1, 4°, conformément au paragraphe 1, alinéa 2, ne doit pas être transmis au Gouvernement flamand, la société de logement transmet également une copie du règlement d'attribution au contrôleur.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 173, 005; En vigueur : 01-01-2023&gt;
+
+## Partie 5. Recours
+
+**Art. 6.15**
+
+[<sup>1</sup> Le Gouvernement flamand prévoit une procédure de recours pour le candidat locataire potentiel et le candidat locataire qui s'estiment lésés par une décision du bailleur. Cette procédure fixe le délai et la forme pour l'introduction d'une réclamation par les personnes mentionnées, ainsi que la possibilité d'être entendu et le traitement de la réclamation.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 174, 005; En vigueur : 01-01-2023&gt;
+
+## Partie 6. Contrat de location
+
+#### Titre 1. Exigence d'un écrit
+
+**Art. 6.16**
+
+Un logement locatif social est loué en vertu d'un contrat de location écrit comportant au minimum les informations suivantes :
+
+1° la date à laquelle le contrat de location prend cours ;
+
+2° l'identité du locataire [<sup>1</sup> , des personnes qui occuperont durablement le logement locatif social]<sup>1</sup> et du bailleur ;
+
+3° l'adresse du logement locatif social et la désignation de tous les espaces et parties de l'immeuble qui font l'objet de la location ;
+
+4° la durée du contrat de location ;
+
+5° le loyer de base et, le cas échéant, le loyer calculé conformément à l'article 6.23 au début du contrat de location, ainsi que les modalités de paiement du loyer ;
+
+6° le montant des frais [<sup>2</sup> , charges]<sup>2</sup> et indemnités relatifs aux services ou fournitures au locataire au début du contrat de location ;
+
+7° le montant de garantie ;
+
+8° le cas échéant, une mention du règlement d'ordre intérieur ;
+
+9° une référence à l'explication visée à l'article 6.17, alinéa premier.
+
+Le Gouvernement flamand fixe un contrat de location type. Il ne peut être dérogé au contrat de location type que dans les cas arrêtés par le Gouvernement flamand.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 175, 005; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFL 2022-05-06/04, art. 3, 008; En vigueur : 01-03-2021&gt;
+
+**Art. 6.17**
+
+Une note explicative est rédigée sur mesure du locataire sur les dispositions réglementaires applicables à la relation entre le locataire et le bailleur Le bailleur remet la note explicative au locataire lors de la signature du contrat de location. Cette note explicative reprend au moins des informations sur les éléments suivants :
+
+1° les obligations du bailleur et du locataire ;
+
+2° l'état des lieux ;
+
+3° la durée du contrat de location ;
+
+4° le calcul et la révision du loyer ;
+
+5° les frais [<sup>2</sup> , charges]<sup>2</sup> et indemnités relatifs aux services ou fournitures au locataire ;
+
+6° les possibilités de réduction du précompte immobilier pour les locataires ;
+
+7° la [<sup>1</sup> libération de la]<sup>1</sup> garantie ;
+
+8° l'assurance incendie ;
+
+9° le règlement en matière de réparations locatives ;
+
+10° la cessation du contrat de location ;
+
+11° les possibilités pour le locataire de protéger ses droits vis-à-vis du bailleur.
+
+La note explicative visée à l'alinéa premier est adaptée à toute modification de la réglementation. Le bailleur veille à ce que le locataire puisse prendre connaissance de manière accessible de la note explicative modifiée.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 176, 005; En vigueur : 01-01-2023&gt;
+
+(2)&lt;DCFL 2022-05-06/04, art. 4, 008; En vigueur : 01-03-2021&gt;
+
+#### Titre 2. État des lieux
+
+**Art. 6.18**
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Si les parties conviennent de l'état des lieux, le locataire paie au maximum la moitié des frais de l'état des lieux, plafonnée à un montant fixé par le Gouvernement flamand.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 177, 005; En vigueur : 01-03-2022&gt;
+
+## Partie 7. Obligations du bailleur
+
+**Art. 6.19**
+
+Outre les obligations du bailleur prévues par le Décret flamand sur la location d'habitations, le bailleur d'un logement locatif social respecte les obligations suivantes :
+
+1° il informe le locataire du loyer à payer et, lors de la conclusion du contrat de location, donne une indication des frais [<sup>1</sup> , charges]<sup>1</sup> et indemnités relatifs aux services ou fournitures au locataire ;
+
+2° il exerce les tâches d'encadrement de base fixées par le Gouvernement flamand ;
+
+3° s'il souhaite résilier le bail en raison d'un manquement tel que mentionné à l'article 6.33, premier alinéa, 2°, il en informe au préalable le CPAS qui apporte l'aide la plus appropriée et dans le cadre de sa mission légale.
+
+----------
+
+(1)&lt;DCFL 2022-05-06/04, art. 5, 008; En vigueur : 01-03-2021&gt;
+
+## Partie 8. Obligations du locataire
+
+**Art. 6.20**
+
+Outre les obligations du locataire prévues par le Décret flamand sur la location d'habitations, le locataire respecte les obligations suivantes :
+
+1° avoir sa résidence principale dans le logement locatif social et y être domicilié ;
+
+2° n'autoriser une personne à établir sa résidence principale dans le logement locatif social que si cela ne conduit pas à un logement inadapté ou à un logement ne répondant pas aux normes énoncées à l'article 3.1, § 1, quatrième alinéa, et signaler cette cohabitation au bailleur ;
+
+3° n'autoriser la personne visée à l'article 6.11, troisième ou quatrième alinéa, à cohabiter dans le logement locatif social que si cela est conforme aux conditions énoncées à l'article 6.11, troisième ou quatrième alinéa ;
+
+4° communiquer les éléments nécessaires au calcul du loyer au bailleur lorsque ce dernier le demande ;
+
+5° dans la mesure où le locataire occupe un logement social qui n'est pas situé dans une commune de la périphérie ou de la frontière linguistique, telle que mentionnée dans les lois coordonnées du 18 juillet 1966 sur l'emploi des langues en matière administrative, disposer d'une maîtrise du néerlandais qui correspond au niveau [<sup>1</sup> A2]<sup>1</sup> du Cadre européen commun de référence pour langues. Le Gouvernement flamand fixe la date à partir de laquelle le locataire doit répondre à l'obligation et la manière dont l'aptitude linguistique est établie ;
+
+6° dans la mesure où le locataire occupe un logement social qui est situé dans une commune de la périphérie ou de la frontière linguistique, telle que mentionnée dans les lois coordonnées du 18 juillet 1966 sur l'emploi des langues en matière administrative, sans porter préjudice aux facilités linguistiques, disposer d'une maîtrise du néerlandais qui correspond au niveau [<sup>1</sup> A2]<sup>1</sup> du Cadre européen commun de référence pour langues. Le Gouvernement flamand fixe la date à partir de laquelle le locataire doit répondre à l'obligation et la manière dont l'aptitude linguistique est établie ;
+
+7° occuper le logement locatif social d'une telle manière que la qualité de vie ne soit pas compromise et qu'aucune nuisance excessive ne soit causée aux voisins et à l'environnement immédiat ;
+
+8° dans la mesure où le locataire a signé une convention d'encadrement avec une structure de bien-être ou de santé, respecter les dispositions de cette convention ;
+
+9° consentir à déménager dans un autre logement locatif social dans les cas suivants :
+
+a) si le bailleur l'estime nécessaire en raison de travaux de rénovation, d'adaptation ou de démolition du logement locatif social occupé ou si le logement locatif social est vendu
+
+b) si le locataire occupe un logement inadapté ou un logement qui ne répond pas aux normes énoncées à l'article 3.1, § 1, alinéa quatre;
+
+c) si le logement locatif social qui est adapté aux capacités physiques de personnes handicapées, n'est plus occupé par une personne qui en a besoin, sauf dérogation justifiée accordée par le bailleur ;
+
+d) si le logement locatif social est un logement social d'assistance tel que déterminé par le Gouvernement flamand et n'est plus occupé par une personne âgée d'au moins 65 ans, sauf dérogation justifiée accordée par le bailleur ;
+
+10° dans la mesure où le locataire est locataire d'un logement social d'assistance, consentir à déménager dans une structure de soins plus appropriée si, de l'avis du médecin traitant, après consultation du locataire, de sa famille et des autres prestataires de soins concernés, l'état de santé physique ou mentale du locataire est tel qu'une admission dans une structure de soins plus appropriée est nécessaire, à condition que l'organe de gestion déterminé par le Gouvernement flamand, en concertation avec le locataire et sa famille ou ses intervenants de proximité, fournisse ce logement approprié;
+
+11° dans la mesure où le locataire est un locataire d'un logement social d'assistance ou d'un logement visé à l'article 5.40, respecter les accords inclus dans la convention de soins et de services, déterminée par le Gouvernement flamand;
+
+[<sup>1</sup> A2]<sup>1</sup>
+
+Si le locataire démontre qu'il est dans l'impossibilité permanente de répondre à l'obligation énoncée au premier alinéa, [<sup>1</sup> 5° et 6°]<sup>1</sup>, à cause d'une maladie, d'un handicap mental ou physique ou d'aptitudes cognitives limitées, il est exempté de cette obligation. Le Gouvernement flamand détermine la manière dont le locataire peut le démontrer. Le Gouvernement flamand prévoit un règlement de sursis pour le locataire qui ne peut temporairement pas répondre à l'obligation pour des raisons professionnelles, médicales ou personnelles.
+
+[<sup>1</sup> Le Gouvernement flamand détermine les conditions dans lesquelles se déroule le déménagement visé à l'alinéa 1, 9° et 10°.
+
+Le Gouvernement flamand arrête les conditions afin d'être considéré comme citoyen sans activité professionnelle avec potentiel d'emploi visé à l'alinéa 1, 12°, et les modalités de contrôle par le bailleur de l'obligation du locataire visée à l'alinéa 1, 12°.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 178, 005; En vigueur : 01-01-2023&gt;
+
+**Art. 6.21**
+
+Le locataire d'un logement locatif social doit respecter pendant toute la durée du contrat de location les conditions en matière de propriété immeuble énoncées dans la partie 4 du présent livre. Toutefois, le Gouvernement flamand peut accorder des exceptions générales pour des situations particulières et temporaires.
+
+Le Gouvernement flamand fixe les autres conditions auxquelles le locataire d'un logement locatif social doit répondre à tout moment.
+
+**Art. 6.22**
+
+Le locataire ne peut pas transférer le bail ni sous-louer tout ou partie de son logement.
+
+## Partie 9. Aspects financiers du contrat de location
+
+#### Titre 1. Loyer
+
+**Art. 6.23**
+
+Le Gouvernement flamand arrêté le mode de calcul et d'adaptation du loyer à payer, compte tenu du revenu et de la composition familiaux et de la qualité du logement locatif social [<sup>1</sup> ...]<sup>1</sup>.
+
+Pour l'utilisation des espaces séparés du logement un loyer peut être perçu auquel les dispositions du premier alinéa ne s'appliquent pas.
+
+Lorsque le bailleur bénéficie d'une subvention pour la location en application de l'article 5.33, et que cette subvention est octroyée en vue d'une diminution du loyer qui n'a pas été accordée en raison de la charge familiale, ceci n'influence pas le calcul du loyer, fixé au premier alinéa.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 179, 005; En vigueur : 01-03-2022&gt;
+
+#### Titre 2.[<sup>1</sup> Frais, charges et indemnités]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-05-06/04, art. 6, 008; En vigueur : 01-03-2021&gt;
+
+**Art. 6.24**
+
+Le Gouvernement flamand détermine les frais et [<sup>1</sup> charges]<sup>1</sup> qui peuvent être mis à la charge du bailleur et du locataire ainsi que les règles applicables à leur perception et contrôle.
+
+----------
+
+(1)&lt;DCFL 2022-05-06/04, art. 7, 008; En vigueur : 01-03-2021&gt;
+
+**Art. 6.25**
+
+[<sup>1</sup> Le bailleur récupère au moyen d'une indemnité périodique une part équitable de l'avantage financier dont bénéficie le locataire grâce à l'utilisation de sources d'énergie renouvelables visées à l'article 1.1.3, 65°, du Décret sur l'Energie. Cette indemnité ne peut être perçue qu'après la mise en service de l'installation.
+
+L'indemnité périodique visée à l'alinéa 1er n'excède jamais l'avantage financier dont a bénéficié le locataire pendant la période concernée et est calculée sur la base de la consommation réelle des sources d'énergie renouvelables par ce locataire.
+
+L'indemnité périodique visée à l'alinéa 1er, est limitée à la somme de l'amortissement linéaire annuel de l'investissement sur la durée de vie prévue de l'installation, et des frais annuels de financement, de gestion, d'entretien et de réparation, y compris les provisions pour grosses réparations et gros entretiens, et diminuée d'autres produits découlant de l'investissement au prorata de la période facturée. Les pertes survenues au cours des périodes précédentes suite à l'application de la limitation visée aux alinéas 2 et 7 sont compensées par celle-ci.
+
+Si le locataire paie une indemnité périodique dépassant le montant maximal visé aux alinéas 2 et 3, le bailleur rembourse le trop-perçu.
+
+Le bailleur veille à l'installation d'un compteur de production conforme aux normes mentionnées dans le règlement technique de la distribution d'électricité, visé à l'article 1.1.3, 117°, du Décret sur l'Energie, pour faire le suivi du rendement de production de l'installation.
+
+Le Gouvernement flamand détermine le mode de calcul de l'indemnité périodique, la manière dont le bailleur peut demander les données de consommation du locataire et les cas où l'indemnité est diminuée ou n'est pas facturée.
+
+Par dérogation à l'alinéa 2, le Gouvernement flamand détermine les cas et les conditions où l'indemnité peut être calculée de manière forfaitaire sur la base d'une installation adaptée à une consommation normale. Le Gouvernement flamand détermine le mode de calcul de cette indemnité forfaitaire.
+
+Le présent article ne s'applique pas aux agences immobilières sociales.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-05-06/04, art. 8, 008; En vigueur : 01-03-2021&gt;
+
+**Art. 6.25 DROIT FUTUR**
+
+[<sup>1</sup> Le bailleur récupère au moyen d'une indemnité périodique une part équitable de l'avantage financier dont bénéficie le locataire grâce à l'utilisation de sources d'énergie renouvelables visées à l'article 1.1.3, 65°, du Décret sur l'Energie. Cette indemnité ne peut être perçue qu'après la mise en service de l'installation.
+
+L'indemnité périodique visée à l'alinéa 1er n'excède jamais l'avantage financier dont a bénéficié le locataire pendant la période concernée et est calculée sur la base de la consommation réelle des sources d'énergie renouvelables par ce locataire.
+
+L'indemnité périodique visée à l'alinéa 1er, est limitée à la somme de l'amortissement linéaire annuel de l'investissement sur la durée de vie prévue de l'installation, et des frais annuels de financement, de gestion, d'entretien et de réparation, y compris les provisions pour grosses réparations et gros entretiens, et diminuée d'autres produits découlant de l'investissement au prorata de la période facturée. Les pertes survenues au cours des périodes précédentes suite à l'application de la limitation visée aux alinéas 2 et 7 sont compensées par celle-ci.
+
+Si le locataire paie une indemnité périodique dépassant le montant maximal visé aux alinéas 2 et 3, le bailleur rembourse le trop-perçu.
+
+Le bailleur veille à l'installation d'un compteur de production conforme aux normes mentionnées dans le règlement technique de la distribution d'électricité, visé à l'article 1.1.3, 117°, du Décret sur l'Energie, pour faire le suivi du rendement de production de l'installation.
+
+Le Gouvernement flamand détermine le mode de calcul de l'indemnité périodique, la manière dont le bailleur peut demander les données de consommation du locataire et les cas où l'indemnité est diminuée ou n'est pas facturée.
+
+Par dérogation à l'alinéa 2, le Gouvernement flamand détermine les cas et les conditions où l'indemnité peut être calculée de manière forfaitaire sur la base d'une installation adaptée à une consommation normale. Le Gouvernement flamand détermine le mode de calcul de cette indemnité forfaitaire.
+
+Le présent article ne s'applique pas aux [<sup>2</sup> logements locatifs sociaux loués]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2022-05-06/04, art. 8, 008; En vigueur : 01-03-2021&gt;
+
+(2)&lt;DCFL 2022-05-06/04, art. 9, 008; En vigueur : indéterminée &gt;
+
+#### Titre 3. Garantie locative
+
+**Art. 6.26**
+
+Lors de l'attribution du logement locatif social, le locataire fournit une garantie en vue du respect de ses engagements. Le Gouvernement flamand arrête les modalités à cet effet.
+
+## Partie 10. [<sup>1</sup> Durée et fin du droit à l'habitation et du contrat de location]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 180, 005; En vigueur : 01-01-2023&gt;
+
+#### Titre 1. [<sup>1</sup> Le droit à l'habitation et le contrat de location]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 181, 005; En vigueur : 01-01-2023&gt;
+
+##### Chapitre 1.
+
+&lt;Abrogé par DCFL 2023-04-21/08, art. 75, 018; En vigueur : 30-06-2023&gt;
+
+**Art. 6.27**
+
+[<sup>1</sup> § 1. Sans préjudice de l'application de l'article 6.28, le locataire dispose d'un droit à l'habitation pendant une période de neuf ans suivant son attribution d'un logement.
+
+Sur la base de ce droit à l'habitation, il peut louer un logement social par le biais d'un ou plusieurs contrats de location consécutifs pendant une période de neuf ans. Le cas échéant, le bailleur est soumis à une obligation de relogement afin que le droit à l'habitation puisse être exercé.
+
+Les contrats de location ont une durée de neuf ans. Si le contrat de location concerne un logement dont le bailleur dispose pour une durée inférieure à neuf ans, la durée du contrat de location est la période durant laquelle le bailleur dispose du logement.
+
+§ 2. Si, à l'expiration de son droit à l'habitation de neuf ans ou à l'issue d'une période prolongée visée à l'alinéa 2, le locataire ne satisfait pas aux conditions de nécessité de logement ou d'adéquation du logement visées aux articles 6.29 et 6.30, le bailleur signifie la résiliation avec un préavis de six mois du contrat de location et le droit d'habitation prend fin à la date d'échéance du contrat de location.
+
+Si à l'expiration de son droit à l'habitation de neuf ans, le locataire satisfait aux conditions visées à l'alinéa 1, son droit à l'habitation est prolongé de trois ans. Le droit à l'habitation est ensuite à chaque fois prolongé de trois ans si les conditions visées à l'alinéa 1 sont remplies.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 182, 005; En vigueur : 01-014-2023&gt;
+
+**Art. 6.28**
+
+[<sup>1</sup> Si un locataire déménage dans un autre logement locatif social, la durée du contrat de location est égale à la durée restante à laquelle le locataire avait encore droit en vertu du droit à l'habitation visé à l'article 6.27.
+
+Le Gouvernement flamand peut réduire la durée du droit à l'habitation, visé à l'article 6.27, dans les cas qu'il arrête, notamment pour l'hébergement provisoire de ménages en situation d'urgence.
+
+Un locataire jouit d'un droit à l'habitation à durée indéterminée s'il a conclu avec le bailleur un contrat de location à durée indéterminée avant le 1 mars 2017. Ce locataire conserve son droit à l'habitation à durée indéterminée s'il déménage dans un autre logement locatif social appartenant au même bailleur, ou, dans le cadre d'un relogement forcé pour cause de rénovation, d'adaptation, de démolition ou de vente, d'un autre bailleur.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 183, 005; En vigueur : 01-01-2023&gt;
+
+**Art. 6.29**
+
+[<sup>1</sup> Le locataire est nécessiteux d'un logement si la moyenne arithmétique des revenus du locataire pris en compte lors des trois dernières révisions annuelles du loyer est inférieure à 125% du plafond de revenus applicable aux trois dernières révisions annuelles du loyer. En cas d'absence de révision annuelle du loyer, il est tenu compte de la date d'anniversaire du contrat de location.
+
+Le locataire peut demander au bailleur de révoquer la résiliation, visée à l'article 6.27, § 2, alinéa 1, dans les cas suivants :
+
+1° il démontre que son revenu actuel, calculé sur trois mois consécutifs et extrapolé à douze mois avant le début du délai de préavis, est inférieur au plafond de 125 % ;
+
+2° il démontre qu'il a demandé sa pension ou qu'il atteindra l'âge légal de la retraite au plus tard trois ans après la date d'échéance du contrat de location et que, du fait de sa retraite, il aura un revenu inférieur au plafond de 125 % ;
+
+3° il considère que la révocation de la résiliation est équitable en raison des circonstances spécifiques dans lesquelles il se trouve.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 184, 005; En vigueur : 01-01-2023&gt;
+
+**Art. 6.30**
+
+[<sup>1</sup> Le locataire ne répond pas à la condition d'adéquation du logement s'il occupe un logement sous-occupé et refuse ou a refusé au moins deux offres de logement adapté à sa nouvelle composition familiale dans les mêmes environs. Le Gouvernement flamand détermine ce qu'il faut entendre par logement sous-occupé et mêmes environs, et quelles sont les conditions auxquelles le logement offert doit répondre.
+
+Le locataire peut demander au bailleur de révoquer la résiliation, visée à l'article 6.27, § 2, alinéa 1, s'il considère que le retrait de la résiliation est équitable en raison des circonstances spécifiques dans lesquelles il se trouve.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 185, 005; En vigueur : 01-01-2023&gt;
+
+**Art. 6.31**
+
+[<sup>1</sup> Si le bailleur ne donne pas suite à la demande visée à l'article 6.29, alinéa 2, et à l'article 6.30, alinéa 2, le locataire peut introduire un recours auprès du contrôleur. Le Gouvernement flamand fixe les délais et la procédure pour l'introduction de la demande de révocation de la résiliation et du recours.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 186, 005; En vigueur : indéterminée &gt;
+
+**Art. 6.31 DROIT FUTUR**
+
+##### Chapitre 2.
+
+&lt;Abrogé par DCFL 2023-04-21/08, art. 75, 018; En vigueur : 30-06-2023&gt;
+
+**Art. 6.32**
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 188, 005; En vigueur : 01-01-2023&gt;
+
+#### Titre 2. Résiliation par le bailleur
+
+**Art. 6.33**
+
+Sans préjudice de l'application des articles [<sup>1</sup> 6.27, § 2, alinéa 1,]<sup>1</sup>, le bailleur peut résilier le contrat de location dans les cas énumérés ci-dessous :
+
+1° si le locataire [<sup>1</sup> ...]<sup>1</sup> ne remplit plus les conditions énoncées à l'article 6.21 ;
+
+2° en cas de manquement grave ou permanent du locataire [<sup>1</sup> ...]<sup>1</sup> à ses obligations, à l'exception de l'obligation mentionnée à l'article 6.20, premier alinéa, [<sup>1</sup> 5°, 6° et 12°]<sup>1</sup>. Une infraction aux dispositions énoncées à l'article 6.20, premier alinéa, 1°, 2°, 3° et 7° est assimilée à un manquement grave.
+
+3° si le locataire, à la suite de déclarations incorrectes ou incomplètes, faites de mauvaise foi, a bénéficié illicitement d'avantages accordés par les dispositions du présent livre, ou a été admis illicitement dans un logement locatif social.
+
+[<sup>1</sup> Dans le cas visé à l'alinéa 1, 1°, le délai de préavis est de six mois. Dans les cas visés à l'alinéa 1, 2° et 3°, le délai de préavis est de trois mois.]<sup>1</sup>
+
+[<sup>1</sup> Si le bailleur résilie le contrat de location, le droit à l'habitation visé à l'article 6.27 et exercé à ce moment par le locataire, s'éteint.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 189, 005; En vigueur : 01-01-2023&gt;
+
+#### Titre 3. Résiliation par le locataire
+
+**Art. 6.34**
+
+§ 1. Le locataire peut à tout moment résilier le contrat de location par lettre recommandée. La résiliation ne porte que sur le locataire. [<sup>2</sup> Le droit à l'habitation, visé à l'article 6.27, exercé à ce moment par le locataire s'éteint s'il résilie le contrat de location.]<sup>2</sup>
+
+§ 2. Le dernier locataire à résilier le contrat de location est soumis à un délai de préavis de trois mois. L'autre locataire résiliant le contrat de location n'est soumis à aucun délai de préavis.
+
+Contrairement au premier alinéa, [<sup>1</sup> le dernier locataire peut résilier le contrat de location avec]<sup>1</sup> un délai de préavis d'un mois dans les cas suivants :
+
+1° il est admis dans un centre de soins résidentiels, tel que visé à l'article 33 du décret du 15 février 2019 sur les soins résidentiels;
+
+2° il a recours à l'aide au logement auprès d'un prestataire de soins ou de soutien non directement accessibles, tels que déterminés par le Gouvernement flamand.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 190, 2°, 005; En vigueur : 01-03-2022&gt;
+
+(2)&lt;DCFL 2021-07-09/37, art. 190, 1°, 005; En vigueur : 01-01-2023&gt;
+
+#### Titre 4. [<sup>1</sup> Résiliation de plein droit]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 191, 005; En vigueur : 01-03-2022&gt;
+
+**Art. 6.35**
+
+Le contrat de location est résilié de plein droit :
+
+1° lorsque le dernier locataire décède ;
+
+2° à l'égard du locataire qui n'occupe plus le logement à titre de résidence principale sans avoir résilié le contrat de location, si un autre locataire continue à occuper le logement;
+
+3° lorsque le dernier locataire et les membres de son ménage déménagent vers un autre logement locatif social du même bailleur et que ce locataire conclut pour ce logement un nouveau contrat de location.
+
+[<sup>1</sup> Si l'alinéa 1, 1° s'applique et qu'il n'y a plus d'occupants, le contrat de location est résilié de plein droit le dernier jour du deuxième mois suivant la date à laquelle le bailleur a appris le décès du dernier locataire. S'il reste un ou plusieurs occupants, le contrat de location est résilié de plein droit le dernier jour du mois suivant la date à laquelle le bailleur a appris le décès du dernier locataire. Les occupants restants ont encore le droit d'occuper le logement pendant six mois suivant la résiliation du contrat de location. Pour des raisons d'équité, le bailleur peut décider de prolonger la période de six mois jusqu'à un maximum de cinq ans. Il est interdit qu'au cours de la période convenue, des personnes supplémentaires viennent occuper le logement locatif social. Le bailleur conclut un accord avec l'occupant ou les occupants reprenant les conditions et les obligations mutuelles, telles que l'indemnité d'occupation, la garantie, l'état des lieux, l'entretien et les réparations, les coûts et les charges, ainsi que les assurances et les responsabilités. L'indemnité d'occupation est calculée de la même manière que le loyer, compte tenu du revenu, de la composition du ménage et de la qualité du logement locatif social.]<sup>1</sup>
+
+Si le premier alinéa, 2°, s'applique, le contrat de location est résilié de plein droit le premier jour du deuxième mois suivant celui au cours duquel le locataire restant a informé le bailleur que l'autre locataire n'occupe plus le logement à titre de résidence principale. Si l'adresse est connue, le bailleur informe immédiatement le locataire qui n'occupe plus le logement à titre de résidence principale, de la déclaration faite par le locataire restant et de la possibilité de réfuter les faits dans le délai fixé par le bailleur, mais en tout cas avant la cessation du contrat de location. [<sup>2</sup> Si le contrat de location est résilié de plein droit, le droit à l'habitation, visé à l'article 6.27, s'éteint pour le locataire qui n'occupe plus le logement à titre de résidence principale.]<sup>2</sup>
+
+Lorsque l'alinéa premier, 3°, s'applique, le contrat de location prend fin au moment où le nouveau contrat de location prend cours. [<sup>2</sup> Le cas échéant, le locataire conserve son droit à l'habitation visé à l'article 6.27.]<sup>2</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 192, 1°, 005; En vigueur : 01-03-2022&gt;
+
+(2)&lt;DCFL 2021-07-09/37, art. 192, 2°, 3°, 005; En vigueur : 01-01-2023&gt;
+
+## Partie 11. Location en dehors du régime locatif social
+
+**Art. 6.36**
+
+[<sup>1</sup> § 1. Sans préjudice de l'application du paragraphe 2, les dispositions du présent livre s'appliquent aux logements locatifs sociaux, à l'exception des logements qui, dans les conditions fixées par le Gouvernement flamand :
+
+1° sont loués aux administrations publiques, aux structures de bien-être ou de santé, ou aux organisations agréées à cet effet par le Gouvernement flamand ;
+
+2° sont loués aux ou mis à la disposition des personnes appartenant aux catégories fixées par le Gouvernement flamand.
+
+§ 2. Les logements locatifs sociaux inoccupés en attendant des travaux de rénovation, la démolition ou la vente, peuvent être loués par le bailleur aux administrations publiques, aux structures de bien-être ou de santé, aux organisations agréées à cet effet par le Gouvernement flamand ou à des personnes physiques. Ces instances, à l'exception des personnes physiques, peuvent sous-louer le logement locatif social.
+
+Si une personne physique établit sa résidence principale dans le logement locatif social, les dispositions du titre II du Décret flamand sur la location d'habitations s'appliquent à l'exception des dispositions indiquées par le Gouvernement flamand, s'appliquant au contrat principal et de sous-location ou au contrat de location. Le Gouvernement flamand peut arrêter des dispositions supplémentaires.
+
+Le Gouvernement flamand fixe les conditions d'agrément, le délai de validité de l'agrément et la procédure d'agrément et de suppression de l'agrément pour les organisations visées à l'alinéa 1.]<sup>1</sup>
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 193, 005; En vigueur : 01-03-2022&gt;
+
+## Partie 12. Contrôle, mesures et sanctions
+
+#### Titre 1. Dispositions générales
+
+**Art. 6.37**
+
+Les contrôleurs visés à l'article 4. 79 sont habilités à contrôler le respect des obligations imposées en vertu du présent livre et de ses arrêtés d'exécution [<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Les agents visés aux articles [<sup>1</sup> ...]<sup>1</sup> 4. 79 peuvent demander aux intéressés tous les informations et renseignements nécessaires à l'accomplissement de leur tâches. Sans préjudice des droits de la défense, l'intéressé auquel une demande d'informations et de renseignements est adressée, doit coopérer pleinement dans le délai raisonnable imparti par les agents compétents.
+
+La qualité d'officier de police judiciaire est conférée à ces agents en vue de l'exercice de cette compétence.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 194, 005; En vigueur : 01-03-2022&gt;
+
+#### Titre 2. Mesures administratives
+
+**Art. 6.38**
+
+Sans préjudice de l'application des sanctions mentionnées ci-après, les mesures administratives suivantes peuvent être imposées au bailleur et au locataire d'un logement locatif social qui ne respectent pas les conditions prévues par ou conformément au présent livre ou leurs obligations :
+
+1° la cessation, l'exécution ou l'imposition de travaux, d'actes ou d'activités ;
+
+2° l'interdiction d'utiliser des installations ou des équipements ou de garder des animaux, en cas de nuisances excessives.
+
+**Art. 6.39**
+
+Les mesures administratives prévoient une date butoir d'exécution. Cette date tient compte du temps raisonnablement nécessaire à l'exécution des mesures.
+
+**Art. 6.40**
+
+Les contrôleurs visés à l'article 4. 79 sont habilités à imposer des mesures administratives.
+
+**Art. 6.41**
+
+Les mesures administratives peuvent prendre la forme d'un ordre ou d'un acte effectif au frais du contrevenant présumé, afin de mettre fin à l'infraction, d'éliminer entièrement ou partiellement ses conséquences ou d'éviter sa répétition.
+
+**Art. 6.42**
+
+Le Gouvernement flamand peut arrêter les modalités de forme et de contenu des mesures administratives.
+
+#### Titre 3. Amende administrative
+
+**Art. 6.43**
+
+§ 1. [<sup>1</sup> Les contrôleurs visés à l'article 4.79 sont habilités à imposer des amendes administratives.]<sup>1</sup>
+
+Une amende administrative peut être imposée au locataire d'un logement locatif social qui ne respecte pas les obligations énoncées à l'article 6.20.
+
+L'amende administrative ne peut être imposée que si le locataire ne respecte pas ses obligations dans le délai imparti, après une mise en demeure et un rappel.
+
+Par dérogation, une amende administrative peut également être imposée pour une infraction aux obligations visées à l'article 6.20, premier alinéa, 1°, 2°, 3° et 7°, même si l'infraction a déjà pris fin.
+
+Si le contrôleur a imposé une amende administrative, il fixera, le cas échéant, un nouveau délai raisonnable dans lequel l'obligation du locataire doit être remplie. Le Gouvernement flamand peut fixer le délai maximal.
+
+§ 2. L'amende administrative ne peut pas être imposée dans les cas suivants :
+
+1° le fait en question a déjà fait l'objet d'une amende administrative ;
+
+2° le fait en question a déjà fait l'objet d'un jugement en première instance par le juge pénal ;
+
+3° le bailleur a signifié la résiliation visée à l'article 6.33, § 3, premier alinéa, pour le fait en question.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 195, 005; En vigueur : 01-03-2022&gt;
+
+**Art. 6.44**
+
+L'amende administrative est comprise entre 25 et 5 000 euros. L'amende administrative doit être proportionnelle à la gravité des faits.
+
+**Art. 6.45**
+
+Tant le locataire que le bailleur social sont informés de la décision d'imposer l'amende administrative par lettre recommandée contre récépissé. Cette notification indique le montant de l'amende administrative et, à peine de nullité, les modalités de la procédure de requête visée à l'article 6.46.
+
+**Art. 6.46**
+
+Le locataire peut, dans un délai de soixante jours à compter du troisième jour ouvrable suivant la date de remise à la poste de la lettre recommandée visée à l'article 6.45, contester l'amende administrative par une requête motivée et demander une remise, une réduction ou un report du paiement de l'amende administrative. Passé ce délai, la décision devient définitive. La date de remise à la poste pour l'envoi de la requête est assimilée à la date d'envoi.
+
+La requête est introduite, à peine d'irrecevabilité, par lettre recommandée et suspend la décision contestée. Dans sa requête le locataire peut demander à être entendu oralement.
+
+Le contrôleur statue sur la requête et envoie sa décision au locataire par lettre recommandée dans un délai de trente jours à compter du troisième jour ouvrable suivant la date de remise à la poste de la requête visée au premier alinéa. Ce délai est prolongé à soixante jours si une audition est tenue à la demande du locataire.
+
+Le contrôleur peut prolonger une seule fois de trente jours les délais précités par lettre recommandée adressée à l'intéressé.
+
+Si la décision n'a pas été pas envoyée dans le délai imparti, la requête est réputée avoir été acceptée. La date de remise à la poste pour l'envoi de la décision est assimilée à la date d'envoi.
+
+**Art. 6.47**
+
+Le locataire peut former un recours contre la décision du contrôleur visée à l'article 6.46, troisième alinéa, devant le tribunal civil dans un délai de soixante jours à compter du troisième jour ouvrable suivant la date de remise à la poste de la lettre recommandée visée à l'article 6.46, troisième alinéa. Ce recours est suspensif.
+
+**Art. 6.48**
+
+L'amende administrative doit être payée dans les soixante jours suivant la date à laquelle la décision est devenue définitive.
+
+Le contrôleur peut accorder un sursis de paiement pour un délai qu'il fixe.
+
+**Art. 6.49**
+
+La demande en paiement de l'amende administrative se prescrit après cinq ans à compter de la date à laquelle elle est née. La prescription est interrompue de la manière et dans les conditions prévues par les articles 2244 et suivants du Code civil.
+
+**Art. 6.50**
+
+Les recettes de l'amende administrative reviennent au Fonds de l'inspection du logement, visé à l'article 19 du décret du 29 juin 2007 contenant des mesures d'accompagnement du budget 2007.
+
+**Art. 6.51**
+
+En cas de non-paiement de l'amende administrative et des accessoires, l'agent chargé du recouvrement délivre une contrainte. Cette contrainte est visée et déclarée exécutoire par l'agent désigné à cet effet par le Gouvernement flamand.
+
+La contrainte est signifiée par exploit d'huissier de justice ou lettre recommandée.
+
+Les dispositions de la partie cinq du Code judiciaire portant saisie conservatoire et moyens d'exécution s'appliquent à la contrainte.
+
+#### Titre 4. Sanctions pénales
+
+**Art. 6.52**
+
+Sans préjudice de l'application des dispositions des articles 269 à 274 du Code pénal, les peines suivantes s'appliquent :
+
+1° un emprisonnement de huit jours à trois mois ou une peine de travail d'au maximum 250 heures ou une amende de 26 à 500 euros, pour le non-respect des obligations visées à l'article 6.20, premier alinéa, 1°, 2° ou 3°;
+
+2° un emprisonnement de huit jours à un an ou une peine de travail d'au maximum 250 heures ou une amende de 1 000 à 5 000 euros, en cas d'obstacle au contrôle prévu par les titres 1, 2 et 3 et leurs arrêtés d'exécution.
+
+**Art. 6.53**
+
+Sans préjudice de l'application de la réglementation sur la protection des personnes physiques à l'égard du traitement des données à caractère personnel applicable à la communication des données à caractère personnel, telle que précisée, le cas échéant, au niveau fédéral ou flamand, le contrôleur visé à l'article 4. 79 peut demander, dans le cadre d'une enquête concernant l'habitation effective en vue du constat des délits visés à l'article 6.52, les données de consommation d'eau, d'électricité et de gaz auprès des entreprises d'utilité publique ou des gestionnaires des réseaux de distribution.
+
+Les entreprises d'utilité publique et les gestionnaires des réseaux de distribution sont tenus de transmettre les données de consommation au contrôleur dans les 14 jours suivant la réception de la demande.
+
+Le Gouvernement flamand peut arrêter la manière dont le contrôleur demande les données de consommation ainsi que leur mode de transmission.
+
+### Livre 7. Dispositions finales
+
+**Art. 7.1**
+
+L'obligation prévue dans le présent code d'assortir les charges liées à la réalisation d'une offre de logement modeste de permis spécifiques d'urbanisme et de lotir, de permis d'environnement pour des actes d'urbanisme et de permis d'environnement pour le lotissement de terrains s'applique à toutes les demandes de permis concernées qui sont introduites en première instance administrative à partir du 1 septembre 2009. La date de dépôt est la date à laquelle la demande est régulièrement signifiée à l'organe administratif délivrant les permis. La réintroduction d'un dossier précédemment déclaré irrecevable et/ou incomplet est considérée comme une nouvelle demande.
+
+En ce qui concerne les demandes de modification de lotissement ou d'adaptation du permis d'environnement pour le lotissement de terrains, introduites à partir du 1 septembre 2009 en première instance administrative, le premier alinéa ne s'applique que si la modification de lotissement ou l'adaptation du permis d'environnement pour le lotissement de terrains entraîne une extension du projet en termes de nombre de lots ou de superficie du terrain, qui a pour conséquence que la partie du lotissement non encore bâtie, vendue, louée ou faisant l'objet d'une emphytéose ou d'un droit de superficie satisfait aux conditions énoncées à l'article 5.93, premier alinéa. La charge est calculée sur la base de cette partie non encore bâtie, vendue, louée ou faisant l'objet d'une emphytéose ou d'un droit de superficie.
+
+**Art. 7.2**
+
+Lors de la fixation d'une norme pour une offre de logement modeste et lors de l'imposition d'une charge en vue de la réalisation d'une offre de logement modeste, il n'est pas tenu compte des terrains répondant à toutes les conditions suivantes :
+
+1° l'acte sous seing privé relatif à l'achat des terrains a été établi à une date fixe dans la période du 1 janvier 2003 au 16 décembre 2008 ;
+
+2° les terrains sont situé dans une zone résidentielle au moment de la signature de l'acte sous seing privé ;
+
+3° au plus tard le 16 décembre 2008, une transaction financière entre l'acheteur et le vendeur a eu lieu, notamment le versement d'une avance.
+
+Dans le cas d'un achat soumis à une condition suspensive, outre les conditions mentionnées au premier alinéa, l'exigence supplémentaire est que la période entre la signature de l'acte et la date finale de réalisation de la condition n'excède pas deux ans.
+
+La charge de la preuve incombe au demandeur du permis d'environnement pour des actes urbanistiques ou du permis d'environnement pour le lotissement de terrains.
+
+**Art. 7.3**
+
+Par dérogation à l'article 5.99, 1° et 2°, les projets de construction dans lesquels seules des structures de soins sont créées et les projets de construction qui réalisent un mélange de structures de soins et de logements privés ne sont pas soumis, en ce qui concerne la part des structures de soins, à une norme pour l'offre de logement modeste telle que visée aux chapitres 1, 2 ou 3 du titre 1 du livre 5, partie 9, pour autant que les demandes de permis en première instance correspondantes soient introduites au plus tard à la date à laquelle le Gouvernement flamand approuve l'arrêté fixant les conditions d'agrément supplémentaires pour les groupes de logements à assistance au sens du Décret sur les soins résidentiels du 13 mars 2009. La date de dépôt est la date à laquelle la demande est régulièrement signifiée à l'organe administratif délivrant les permis. La réintroduction d'un dossier précédemment déclaré irrecevable et/ou incomplet est considérée comme une nouvelle demande.
+
+L'alinéa premier ne peut être appliqué qu'à partir du 6 février 2012.
+
+**Art. 7.4**
+
+§ 1. Sans préjudice du § 3, les dispositions suivantes du Code du logement, annexé à l'arrêté royal du 10 décembre 1970, ratifié par la loi du 2 juillet 1971 et modifié par la loi du 18 mai 1973, modifié pour la Région flamande par la loi du 1 août 1978 et par les décrets des 16 novembre 1983, 30 octobre 1984, 30 novembre 1988, 5 juillet 1989, 4 avril 1990, 23 octobre 1991, 22 décembre 1995 et 8 juillet 1996, sont abrogées pour la Région flamande :
+
+1° les chapitres 1 à 4 du titre 1, à l'exception des articles 9, deuxième alinéa, 20, deuxième alinéa, 21 et 23, ainsi que des articles 71, 79, 80bis, 81 à 82bis, 90, 92, 93 et 96bis, §§ 1 à 5 et § 8 ;
+
+2° les articles 67, 68 et 94bis ;
+
+3° les articles 80ter et 96bis, § 7 ;
+
+4° le chapitre 5 du titre 1, le chapitre 5 du titre III et les articles 91 et 96, §§ 1 et 2 ;
+
+5° le chapitre 6 du titre I et l'article 96ter ;
+
+6° les articles 80, 94, 95 et 96, § 3.
+
+§ 2. Tant qu'elles ne sont pas abrogées, les dispositions suivantes du Code du logement restent applicables en Région flamande, compte tenu de leurs modifications ultérieures :
+
+1° l'article 9, deuxième alinéa, en ce qui concerne les logements construits dans le cadre des projets de logement innovants et expérimentaux visés à l'article 5.3 du présent code, par la Région flamande en qualité de successeur légal de l'Institut national du logement, supprimé par la loi du 28 décembre 1984 ;
+
+2° les articles 20, deuxième alinéa, et 21 en ce qui concerne les opérations immobilières de la VHM ou de son successeur légal et des [<sup>1</sup> sociétés de logement]<sup>1</sup> ;
+
+3° l'article 23, en ce qui concerne les actes relatifs à la VHM ou à son successeur légal et aux [<sup>1</sup> sociétés de logement]<sup>1</sup> ;
+
+4° l'article 89, en ce qui concerne les actes relatifs aux sociétés de crédit visées à l'article 5.58 [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 3. Par dérogation au § 1, les dispositions suivantes du Code du logement continuent à s'appliquer aux opérations énumérées après ces dispositions, dans la mesure où ces opérations sont antérieures à l'entrée en vigueur des dispositions abrogatoires du § 1 les concernant :
+
+1° les articles 38, deuxième alinéa, 1°, a) et b), 41, 79, 80bis et 81 à 82bis, en ce qui concerne les charges à supporter par l'État et la Région flamande en matière de prêts garantis contractés par la VHM, le VWF ou leurs prédécesseurs légaux ;
+
+2° l'article 83, en ce qui concerne les prêts sociaux garantis, et l'article 87, en ce qui concerne les prêts garantis pour les logements de taille moyenne ;
+
+3° les articles 57 à 60, en ce qui concerne les prêts contractés par les mineurs ;
+
+4° les articles 80, 94, 95 et 96, § 3, en ce qui concerne les dossiers de subvention pour lesquels des crédits ont déjà été engagés, ou pour lesquels des opérations et des travaux ont été inclus dans un programme adopté par le Gouvernement flamand ;
+
+5° les articles 84 et 96, §§ 1 et 2, en ce qui concerne les demandes de primes et d'interventions dans les frais, présentées par des ménages ou des isolés.
+
+----------
+
+(1)&lt;DCFL 2021-07-09/37, art. 196, 005; En vigueur : 20-09-2021&gt;
+
+(2)&lt;DCFL 2021-12-23/05, art. 21, 007; En vigueur : 01-01-2022&gt;
+
+**Art. 7.5**
+
+L'agrément accordé avant le 1 juillet 2006 par la Société flamande du Logement aux sociétés visées à l'article 4.36, § 1, premier alinéa, soit en vertu du décret du 21 décembre 1998 portant création d'une Société flamande du Logement, soit en vertu du présent code, est valable à l'égard du Gouvernement flamand jusqu'à la date de décision de l'agrément ou de refus de l'agrément en vertu de l'article 4.36, § 1, troisième alinéa, cependant au plus tard jusqu'à une date à fixer par le Gouvernement flamand.
+
+**Art. 7.6**
+
+Tant qu'ils ne sont pas modifiés, remplacés ou abrogés, les arrêtés et autres règlements adoptés ou fixés en exécution des dispositions légales et décrétales qui sont abrogées par les articles 103, § 1, 104 et 105 du décret du 15 juillet 1997 contenant le Code flamand du Logement, tels qu'applicables avant l'entrée en vigueur du présent code, restent en vigueur, dans la mesure où ils ne sont pas sans objet ou contraires aux dispositions dudit décret.
+
+**Art. 7**
+
+7. Le présent code entre en vigueur le 1 janvier 2021.
+
+**Art. N.**
+
+[<sup>1</sup> Annexe.
+
+Annexe du décret modifiant le Code flamand du Logement de 2021 et le décret du 9 juillet 2021 portant modification de divers décrets relatifs au logement
+
+Annexe du Code flamand du Logement de 2021 tel que visé à l'article 2.23, § 1er
+
+Annexe. Trajectoire régionale de croissance programmation de l'offre de logement social pendant la période 2026-2042
+
+<table><tr><td>objectif (31 décembre de chaque année) </td><td>nombre supplémentaire de logements locatifs sociaux par rapport à la mesure de référence sur la base des données du 31/12/2025 </td></tr><tr><td>2026 </td><td>2 164 </td></tr><tr><td>2027 </td><td>2 244 </td></tr><tr><td>2028 </td><td>2 327 </td></tr><tr><td>2029 </td><td>2 414 </td></tr><tr><td>2030 </td><td>2 503 </td></tr><tr><td>2031 </td><td>2 596 </td></tr><tr><td>2032 </td><td>2 692 </td></tr><tr><td>2033 </td><td>2 792 </td></tr><tr><td>2034 </td><td>2 895 </td></tr><tr><td>2035 </td><td>3 002 </td></tr><tr><td>2036 </td><td>3 113 </td></tr><tr><td>2037 </td><td>3 229 </td></tr><tr><td>2038 </td><td>3 348 </td></tr><tr><td>2039 </td><td>3 472 </td></tr><tr><td>2040 </td><td>3 601 </td></tr><tr><td>2041 </td><td>3 735 </td></tr><tr><td>2042 </td><td>3 873 </td></tr><tr><td>Total </td><td>50 000</td></tr></table>
+
+]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par DCFL 2026-02-27/17, art. 34, 027; En vigueur : 01-01-2026&gt;

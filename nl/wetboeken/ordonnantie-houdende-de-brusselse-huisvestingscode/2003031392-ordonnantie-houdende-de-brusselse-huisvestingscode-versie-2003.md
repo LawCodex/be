@@ -3,7 +3,7 @@ title: "Ordonnantie houdende de Brusselse Huisvestingscode (versie 2003)."
 identifier: "2003031392"
 eli: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2003/07/17/2003031392/justel"
 type: code
-justel_type: "CODE BRUXELLOIS DU LOGEMENT"
+justel_type: "CODE DU LOGEMENT"
 jurisdiction: be
 language: nl
 date: 2003-07-17

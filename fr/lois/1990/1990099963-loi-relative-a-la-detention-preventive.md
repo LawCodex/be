@@ -1,0 +1,1194 @@
+---
+title: "Loi relative à la détention préventive."
+identifier: "1990099963"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1990/07/20/1990099963/justel"
+type: act
+justel_type: "LOI DETENTION PREVENTIVE"
+jurisdiction: be
+language: fr
+date: 1990-07-20
+published: 1990-08-14
+entry_into_force: 1990-12-01
+last_amended: 2026-03-26
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1990/07/20/1990099963/justel"
+department: "Justice"
+justel_note: "Consultation des versions antérieures à partir du 01-12-1990 et mise à jour au 26-03-2026"
+retrieved: 2026-10-11
+---
+
+# 20 JUILLET 1990. - Loi relative à la détention préventive.
+
+## TITRE I. - De la détention préventive.
+
+### CHAPITRE I. - De l'arrestation.
+
+#### Art. 1
+
+L'arrestation en cas [<sup>2</sup> d'infraction flagrante]<sup>2</sup> est soumise aux règles suivantes :
+
+1° la privation de liberté ne peut en aucun cas dépasser [<sup>1</sup> quarante-huit]<sup>1</sup> heures;
+
+2° les agents de la force publique mettent immédiatement à la disposition de l'officier de police judiciaire toute personne soupçonnée dont ils ont empêché la fuite. Le délai de [<sup>1</sup> quarante-huit]<sup>1</sup> heures prévu au 1° prend cours à partir du moment où cette personne ne dispose plus, à la suite de l'intervention de l'agent de la force publique, de la liberté d'aller et de venir;
+
+3° tout particulier qui retient une personne prise en [<sup>2</sup> infraction flagrante]<sup>2</sup> dénonce immédiatement les faits à un agent de la force publique. Le délai de [<sup>1</sup> quarante-huit]<sup>1</sup> heures prévu au 1° prend cours à partir du moment de cette dénonciation;
+
+4° dès que l'officier de police judiciaire a procédé à une arrestation, il en informe immédiatement le procureur du Roi par les moyens de communication les plus rapides. Il exécute les ordres donnés par ce magistrat en ce qui concerne tant la privation de liberté que les devoirs à exécuter;
+
+5° si l'infraction fait l'objet d'une instruction, l'information prévue au 4° est communiquée au juge d'instruction;
+
+6° il est dressé procès-verbal de l'arrestation.
+
+Ce procès-verbal mentionne :
+
+a) l'heure précise de la privation de liberté effective, avec indication détaillée des circonstances dans lesquelles la privation de liberté s'est effectuée;
+
+b) les communications faites conformément aux 4° et 5°, avec l'indication de l'heure précise et des décisions prises par le magistrat.
+
+----------
+
+(1)&lt;L 2017-10-31/06, art. 5, 030; En vigueur : 29-11-2017&gt;
+
+(2)&lt;L 2026-03-11/03, art. 233, 043; En vigueur : 01-09-2026&gt;
+
+#### Art. 2
+
+Hors le cas [<sup>3</sup> d'infraction flagrante]<sup>3</sup>, une personne à l'égard de laquelle il existe des indices sérieux de culpabilité relatifs à [<sup>3</sup> une infraction]<sup>3</sup> ne peut être mise à la disposition de la justice, et pour une durée qui ne peut dépasser [<sup>1</sup> quarante-huit]<sup>1</sup> heures, que dans le respect des règles suivantes :
+
+1° la décision de [<sup>2</sup> arrestation]<sup>2</sup> ne peut être prise que par le procureur du Roi;
+
+2° si cette personne tente de fuir ou tente de se soustraire à la surveillance d'un agent de la force publique, des mesures conservatoires peuvent être prises en attendant que le procureur du Roi, informé immédiatement par les moyens de communication les plus rapides, prenne une décision;
+
+3° la décision d'arrestation est immédiatement notifiée à l'intéressé. Cette notification consiste en une communication verbale de la décision dans la langue de la procédure;
+
+4° il est dressé un procès-verbal qui mentionne :
+
+a) la décision et les mesures prises par le procureur du Roi, et la manière dont elles ont été communiquées;
+
+b) l'heure précise de la privation de liberté effective, avec l'indication détaillée des circonstances dans lesquelles la privation de liberté s'est effectuée;
+
+c) l'heure précise de la notification à l'intéressé de la décision d'arrestation.
+
+5° la personne arrêtée ou retenue est mise en liberté dès que la mesure a cessé d'être nécessaire. La privation de liberté ne peut en aucun cas dépasser [<sup>1</sup> quarante-huit]<sup>1</sup> heures à compter de la notification de la décision ou, si des mesures conservatoires contraignantes ont été prises, à compter du moment où la personne ne dispose plus de la liberté d'aller et de venir;
+
+6° lorsque le juge d'instruction est saisi, il exerce les compétences attribuées au procureur du Roi par le présent article.
+
+----------
+
+(1)&lt;L 2017-10-31/06, art. 5, 030; En vigueur : 29-11-2017&gt;
+
+(2)&lt;L 2017-10-31/06, art. 7, 030; En vigueur : 29-11-2017&gt;
+
+(3)&lt;L 2026-03-11/03, art. 234, 043; En vigueur : 01-09-2026&gt;
+
+#### Art. 2bis
+
+[<sup>1</sup> § 1er. La présente disposition règle l'accès à un avocat dans les délais visés aux articles 1er, 1°, 2,[<sup>2</sup> 12 et 18, § 1er]<sup>2</sup>.
+
+§ 2. Quiconque est privé de sa liberté conformément aux articles 1er ou 2, ou en exécution d'un mandat d'amener visé à l'article 3, a le droit, dès ce moment et préalablement au premier interrogatoire suivant par les services de police ou, à défaut, par le procureur du Roi ou le juge d'instruction, de se concerter confidentiellement avec un avocat de son choix sans retard indu. Afin de contacter l'avocat de son choix ou un autre avocat, contact est pris avec la permanence organisée par l'Ordre des barreaux francophones et germanophone, et l'"Orde van Vlaamse balies" ou, à défaut, par le bâtonnier de l'Ordre ou son délégué.
+
+Dès l'instant où contact est pris avec l'avocat choisi ou la permanence, la concertation confidentielle avec l'avocat doit avoir lieu dans les deux heures. La concertation confidentielle peut avoir lieu par téléphone à la demande de l'avocat en accord avec la personne concernée. La concertation confidentielle peut durer trente minutes et peut, dans des cas exceptionnels, être prolongée dans une mesure limitée, sur décision de la personne qui procède à l'audition. [<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>3</sup> Si la concertation confidentielle prévue ne peut pas avoir lieu dans les deux heures, un contact a néanmoins encore lieu avec la permanence, afin d'organiser immédiatement la concertation confidentielle avec l'avocat et l'assistance de l'avocat durant l'audition. L'audition ne peut pas commencer sans l'assistance effective de l'avocat.]<sup>3</sup>
+
+§ 3. Après s'être concerté confidentiellement par téléphone avec l'avocat qu'il a choisi ou avec l'avocat de la permanence, et en accord avec lui, le suspect majeur peut renoncer au droit d'être assisté pendant l'audition qui peut, si possible, faire l'objet d'un enregistrement audio filmée afin de contrôler le déroulement de l'audition.
+
+La personne qui procède à l'audition, le procureur du Roi ou le juge d'instruction en charge peut à tout moment décider d'office que l'audition doit faire l'objet d'un enregistrement audio filmé.
+
+Tous ces éléments sont consignés avec précision dans un procès-verbal.
+
+L'enregistrement digital de l'audition est communiqué au procureur du Roi ou, le cas échéant au juge d'instruction en charge, avec le procès-verbal de l'audition. Il fait partie du dossier pénal et la consultation ou l'obtention des copies se fait conformément aux articles 21bis et 61ter du Code d'instruction criminelle. Le suspect qui est privé de sa liberté a cependant le droit de prendre connaissance, en personne ou par son avocat, de l'enregistrement de son audition sur simple demande de lui-même ou de son avocat au procureur du Roi ou, le cas échéant, au juge d'instruction en charge.
+
+L'enregistrement de l'audition est conservé sur support numérique.
+
+§ 4. Si la personne interrogée ne comprend pas ou ne parle pas la langue de la procédure, ou si elle souffre de troubles de l'audition ou de la parole et si l'avocat ne comprend pas ou ne parle pas la langue de la personne à entendre, il est fait appel à un interprète assermenté durant la concertation confidentielle préalable avec l'avocat. [<sup>4</sup> Dans le cas où l'interprète assermenté est dans l'impossibilité de se déplacer, l'assistance peut également se faire par des moyens de télécommunication. L'organisation et le déroulement de l'assistance par des moyens de télécommunication doivent être tels que les droits de la défense de la personne interrogée sont garantis.]<sup>4</sup> Le procès-verbal mentionne l'assistance d'un interprète assermenté ainsi que son nom et sa qualité [<sup>4</sup> et la manière dont cette assistance a été donnée]<sup>4</sup>. Les frais de l'interprétation sont à charge de l'Etat.
+
+§ 5. La personne à entendre a le droit d'être assistée de son avocat lors des auditions qui ont lieu dans les délais visés au paragraphe 1er.
+
+L'audition est interrompue pendant quinze minutes au maximum en vue d'une concertation confidentielle supplémentaire, soit une seule fois à la demande de la personne à entendre elle-même ou à la demande de son avocat, soit en cas de révélation de nouvelles infractions qui ne sont pas en relation avec les faits qui ont été portés à sa connaissance conformément à l'article 47bis, § 2, du Code d'instruction criminelle.
+
+§ 6. Seule la personne majeure à entendre peut renoncer volontairement et de manière réfléchie aux droits visés aux paragraphes 2 et 5. Avant de prendre cette décision, elle peut demander à s'entretenir confidentiellement par téléphone avec un avocat de la permanence. Elle doit procéder à la renonciation par écrit, dans un document daté et signé par elle, dans lequel les informations nécessaires lui sont fournies sur les conséquences éventuelles d'une renonciation au droit à l'assistance d'un avocat. La personne concernée est informée qu'elle peut révoquer sa renonciation.
+
+§ 7. Sans préjudice des dispositions des lois particulières, quiconque est privé de sa liberté conformément aux articles 1er, 2 ou 3, a droit, si le suspect en fait la demande, à ce qu'un tiers qu'il désigne soit informé de son arrestation, par la personne qui interroge ou une personne désignée par elle, par le moyen de communication le plus approprié.
+
+Le procureur du Roi ou le juge d'instruction en charge du dossier, en fonction de l'état de la procédure, peut, par décision motivée, différer cette communication pour la durée nécessaire à la protection des intérêts de l'enquête, au cas où l'un des motifs impérieux suivants le justifie:
+
+a) une nécessité urgente de prévenir une atteinte grave à la vie, à la liberté ou à l'intégrité physique d'une personne;
+
+b) une nécessité urgente de prévenir une situation dans laquelle la procédure pénale peut être sérieusement compromise.
+
+§ 8. Quiconque est privé de sa liberté conformément aux articles 1er, 2 ou 3 a droit à une assistance médicale. Le coût de l'assistance médicale fournie dans les délais visés aux articles 1er, 2 et 3 s'inscrit dans les frais de justice.
+
+Sans préjudice du droit prévu à l'alinéa 1er, cette personne a subsidiairement le droit de demander à être examinée par un médecin de son choix. Le coût de cet examen est à sa charge.
+
+§ 9. A la lumière des circonstances particulières de l'espèce, le procureur du Roi ou le juge d'instruction en charge, en fonction de l'état de la procédure, peut exceptionnellement, par une décision motivée, déroger à l'application des droits prévus aux paragraphes 2 et 5, au cas où l'un ou plusieurs des motifs impérieux suivants le justifient:
+
+a) lorsqu'il existe une nécessité urgente de prévenir une atteinte grave à la vie, à la liberté ou à l'intégrité physique d'une personne. Les interrogatoires effectués sans que les droits prévus aux paragraphes 2 et 5 soient observés, sont menés à la seule fin d'obtenir des informations essentielles pour prévenir des atteintes graves à la vie, à la liberté ou à l'intégrité physique d'une personne et dans la mesure nécessaire à cet effet;
+
+b) lorsqu'il est impératif que les autorités qui procèdent à l'enquête agissent immédiatement pour éviter de compromettre sérieusement une procédure pénale. Les interrogatoires effectués sans que les droits prévus aux paragraphes 2 et 5 soient observés, sont menés à la seule fin d'obtenir des informations essentielles pour éviter de compromettre sérieusement une procédure pénale et dans la mesure nécessaire à cet effet.
+
+§ 10. [<sup>3</sup> Le procureur du Roi ou le juge d'instruction en charge, en fonction de l'état de la procédure, peut exceptionnellement, par une décision motivée, déroger temporairement à l'octroi du droit d'avoir accès à un avocat sans retard indu, lorsqu'il est impossible, en raison de l'éloignement géographique du suspect, d'assurer le droit d'accès à un avocat sans retard indu après la privation de liberté et que ces droits ne peuvent être exercés par des moyens radio, téléphoniques, audiovisuels ou d'autres moyens techniques.]<sup>3</sup> Cette disposition ne s'applique pas au suspect se trouvant à l'intérieur des frontières de l'Etat telles que visées à l'article 7 de la Constitution.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-11-21/02, art. 6, 028; En vigueur : 27-11-2016&gt;
+
+(2)&lt;L 2017-10-31/06, art. 8, 030; En vigueur : 29-11-2017&gt;
+
+(3)&lt;L 2024-04-25/24, art. 10, 039; En vigueur : 27-06-2024&gt;
+
+(4)&lt;L 2024-04-25/20, art. 30, 040; En vigueur : 01-09-2024&gt;
+
+### CHAPITRE II. - Du mandat d'amener.
+
+#### Art. 3
+
+Le juge d'instruction peut décerner un mandat d'amener motivé contre toute personne à l'égard de laquelle il existe des indices sérieux de culpabilité relatifs à [<sup>2</sup> une infraction]<sup>2</sup>, et qui ne se trouve pas déjà à sa disposition.
+
+[<sup>1</sup> Le mandat d'amener fournit à l'égard de ces personnes un titre de privation de liberté de maximum quarante-huit heures à compter du moment de privation effective de liberté telle que visée aux articles 1er et 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-10-31/06, art. 9, 030; En vigueur : 29-11-2017&gt;
+
+(2)&lt;L 2026-03-11/03, art. 235, 043; En vigueur : 01-09-2026&gt;
+
+#### Art. 4
+
+Le juge d'instruction peut aussi décerner des mandats d'amener contre les témoins qui refusent de comparaître sur la citation qui leur a été donnée, conformément à l'article 80 du Code d'instruction criminelle et sans préjudice de [<sup>1</sup> la peine prévue à l'article 654 du Code pénal]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 236, 043; En vigueur : 01-09-2026&gt;
+
+#### Art. 5
+
+Le juge d'instruction interroge [<sup>1</sup> sans retard indu]<sup>1</sup> de la signification du mandat d'amener.
+
+----------
+
+(1)&lt;L 2017-10-31/06, art. 10, 030; En vigueur : 29-11-2017&gt;
+
+#### Art. 6
+
+Le mandat d'amener est signé par le magistrat qui l'a décerné et revêtu de son sceau.
+
+La personne qui fait l'objet de ce mandat y est nommée ou désignée le plus clairement possible.
+
+#### Art. 7
+
+Le mandat d'amener doit être signifié au moment de l'arrestation si celle-ci intervient par l'effet de l'exécution de ce mandat ou [<sup>1</sup> sans retard indu après]<sup>1</sup> la privation de liberté effective si la délivrance du mandat a été précédée d'une mesure prise par des agents de la force publique ou le procureur du Roi.
+
+Il est dressé un procès-verbal qui mentionne :
+
+a) l'heure précise de la privation de liberté effective;
+
+b) l'heure précise de la signification du mandat d'amener à l'intéressé;
+
+c) toutes les mesures prises par les agents de la force publique pour mettre l'intéressé à la disposition du juge d'instruction.
+
+----------
+
+(1)&lt;L 2017-10-31/06, art. 11, 030; En vigueur : 29-11-2017&gt;
+
+#### Art. 8
+
+Le mandat d'amener est signifié par un agent de la force publique, qui remet une copie du mandat à l'intéressé et en dresse acte.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-10-31/06, art. 12, 030; En vigueur : 29-11-2017&gt;
+
+#### Art. 9
+
+Le mandat d'amener est exécutoire dans tout le territoire du Royaume.
+
+(En temps de paix, le mandat d'amener délivré à l'encontre d'une personne visée à l'[<sup>1</sup> article 10]<sup>1</sup> du titre préliminaire du Code de procédure pénale, peut être exécuté le cas échéant sur le territoire étranger.) &lt;L 2003-04-10/60, art. 48, 012; En vigueur : 01-01-2004&gt;
+
+----------
+
+(1)&lt;L 2024-04-09/07, art. 55, 038; En vigueur : 28-04-2024&gt;
+
+#### Art. 10
+
+Le mandat d'amener est immédiatement exécuté. Toutefois, le juge d'instruction peut différer cette exécution lorsque la personne qui en fait l'objet n'est pas encore privée de sa liberté.
+
+#### Art. 11
+
+La personne qui refuse d'obéir au mandat d'amener, ou qui, après avoir déclaré qu'elle est prête à obéir, tente de s'évader, doit être contrainte.
+
+Le porteur du mandat d'amener requiert, au besoin, la force publique du lieu le plus proche, qui est tenue de donner suite à la réquisition contenue dans le mandat.
+
+#### Art. 12
+
+[<sup>1</sup> Pour les témoins visés à l'article 4, le mandat d'amener couvre une période de privation de liberté de vingt-quatre heures au plus, à compter de la privation de liberté, que la privation de liberté fasse suite à l'exécution du mandat d'amener ou non.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-10-31/06, art. 13, 030; En vigueur : 29-11-2017&gt;
+
+#### Art. 13
+
+Le juge d'instruction, saisi de l'affaire directement ou par renvoi, en exécution de l'article 90 du Code d'instruction criminelle, transmet au juge d'instruction du lieu où la personne qui faisait l'objet du mandat d'amener a été trouvée, les pièces, notes et renseignements relatifs à l'infraction, afin de faire entendre cette personne.
+
+Toutes les pièces sont ensuite pareillement renvoyées, avec le procès-verbal d'interrogatoire, au juge saisi de l'affaire.
+
+#### Art. 14
+
+Si la personne contre laquelle il a été décerné un mandat d'amener ne peut être trouvée, ce mandat est exhibé au bourgmestre ou à un échevin, ou au commissaire de police de la commune de la résidence de cette personne.
+
+Le bourgmestre, l'échevin ou le commissaire de police vise l'original de l'acte de signification.
+
+(Si le mandat d'amener est décerné conformément à l'article 9, alinéa 2, et que la personne ne peut être trouvée, il peut être présenté au commandant de l'unité militaire à laquelle appartient l'intéressé. Dans ce cas, le commandant vise l'original de l'acte de signification.) &lt;L 2003-04-10/60, art. 49, 012; En vigueur : 01-01-2004&gt;
+
+#### Art. 15
+
+L'inobservation des formalités prescrites pour le mandat d'amener [<sup>1</sup> ...]<sup>1</sup>peut donner lieu à des injonctions au juge d'instruction et au procureur du Roi, et même à prise à partie.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 237, 043; En vigueur : 01-09-2026&gt;
+
+### CHAPITRE II/I.
+
+&lt;Abrogé par L 2017-10-31/06, art. 14, 030; En vigueur : 29-11-2017&gt;
+
+#### Art. 15bis
+
+&lt;Abrogé par L 2017-10-31/06, art. 14, 030; En vigueur : 29-11-2017&gt;
+
+### CHAPITRE III. - Du mandat d'arrêt.
+
+#### Art. 16
+
+§ 1. En cas d'absolue nécessité pour la sécurité publique seulement, et si le fait est de nature à entraîner pour l'inculpé [<sup>7</sup> une peine de niveau 2]<sup>7</sup> ou une peine plus grave, le juge d'instruction peut décerner un mandat d'arrêt.
+
+[<sup>2</sup> Le juge d'instruction décide également si ce mandat d'arrêt doit être exécuté soit dans une prison, soit par une détention sous surveillance électronique. L'exécution de la détention sous surveillance électronique, qui implique la présence permanente de l'intéressé à une adresse déterminée, exception faite des déplacements autorisés, a lieu conformément aux modalités fixées par le Roi.]<sup>2</sup>
+
+Cette mesure ne peut être prise dans le but d'exercer une répression immédiate ou toute autre forme de contrainte.
+
+[<sup>5</sup> Si le maximum de la peine applicable ne dépasse pas [<sup>7</sup> une peine de niveau 4 ou, en cas d'infractions visées au livre II, titre 4, chapitre 1er, une peine de niveau 3]<sup>7</sup>, le mandat ne peut être décerné que s'il existe de sérieuses raisons de craindre que l'inculpé, s'il était laissé en liberté, commette de [<sup>7</sup> nouvelles infractions]<sup>7</sup>, se soustraie à l'action de la justice, tente de faire disparaître des preuves ou entre en collusion avec des tiers. [<sup>7</sup> A l'exception des infractions visées aux articles 258 à 260 du Code pénal, des infractions commises dans le cadre d'une association visée à l'article 403 du Code pénal ou dans le cadre d'une organisation criminelle visée à l'article 406 du Code pénal]<sup>7</sup> et [<sup>8</sup> des infractions visées à l'article 2bis, § 4, b), et § 5, de la loi du 24 février 1921]<sup>8</sup> concernant le trafic des substances vénéneuses, soporifiques, stupéfiantes, psychotropes, désinfectantes ou antiseptiques et des substances pouvant servir à la fabrication illicite de substances stupéfiantes et psychotropes, la condition qu'il existe de sérieuses raisons de craindre que l'inculpé entre en collusion avec des tiers ne peut motiver que la délivrance d'un mandat d'arrêt, le maintien de celui-ci lors de la première comparution conformément à l'article 21 et lors de la première comparution mensuelle conformément à l'article 22.]<sup>5</sup>
+
+§ 2. Sauf si l'inculpé est fugitif ou latitant, le juge d'instruction doit, avant de décerner un mandat d'arrêt, interroger l'inculpé (sur les faits qui sont à la base de l'inculpation et qui peuvent donner lieu à la délivrance d'un mandat d'arrêt,) et entendre ses observations. (A défaut de cet interrogatoire, l'inculpé est mis en liberté). &lt;L 2005-05-31/32, art. 6, 014 ; En vigueur : 26-06-2005&gt;
+
+[<sup>1</sup> L'inculpé a le droit à être assisté de son avocat lors de l'interrogatoire. Seul l'inculpé majeur peut renoncer volontairement et de manière réfléchie à ce droit. Le juge d'instruction fait mention de cette renonciation dans le procès-verbal d'audition.
+
+[<sup>4</sup> L'avocat peut formuler des observations conformément à l'article 47bis, § 6, 7), du Code d'instruction criminelle.]<sup>4</sup>
+
+Le juge d'instruction informe l'avocat à temps des lieu et heure de l'interrogatoire, auquel [<sup>6</sup> il assiste, sans préjudice des exceptions prévues dans l'article 2bis, § 9]<sup>6</sup>. [<sup>6</sup> ...]<sup>6</sup>]<sup>1</sup>
+
+[<sup>1</sup> Le juge d'instruction doit également informer l'inculpé de la possibilité qu'un mandat d'arrêt soit décerné à son encontre, et l'entendre en ses observations à ce sujet et, le cas échéant, en celles de son avocat.]<sup>1</sup> [<sup>4</sup> ...]<sup>4</sup>
+
+Tous ces éléments sont relatés au procès-verbal d'audition.
+
+(Lorsque le mandat d'arrêt est exécuté conformément à l'article 19, § 1erbis, il est recouru lors de l'interrogatoire (à des moyens radio, téléphoniques, audio-visuels ou d'autres moyens techniques qui permettent une transmission directe de la voix entre le juge d'instruction et le suspect tout en garantissant la confidentialité de leurs échanges).) &lt;L 2003-04-10/60, art. 50, 012; En vigueur : 01-01-2004&gt; &lt;L 2006-07-20/39, art. 9, 015; En vigueur : 07-08-2006&gt;
+
+§ 3. Le mandat d'arrêt est décerné immédiatement après le premier interrogatoire de l'inculpé par le juge d'instruction, sauf si le juge prend des mesures d'investigation aux fins de contrôler un élément de l'interrogatoire, l'inculpé restant à sa disposition.
+
+§ 4. [<sup>4</sup> Si l'inculpé n'a pas encore d'avocat, le juge d'instruction lui rappelle qu'il a le droit de choisir un avocat et il prend contact avec la permanence organisée par l'Ordre des barreaux francophones et germanophone, et l'"Orde van Vlaamse balies" ou, à défaut, par le bâtonnier de l'Ordre ou son délégué. Il est fait mention de ces formalités dans le procès-verbal d'audition.]<sup>4</sup>
+
+§ 5. Le mandat d'arrêt contient l'énonciation du fait pour lequel il est décerné, mentionne la disposition législative qui prévoit que ce fait est [<sup>7</sup> une infraction]<sup>7</sup> et constate l'existence d'indices sérieux de culpabilité.
+
+Le juge y mentionne les circonstances de fait de la cause et celles liées à la personnalité de l'inculpé qui justifient la détention préventive eu égard aux critères prévus par le § 1er. [<sup>4</sup> ...]<sup>4</sup>
+
+[<sup>2</sup> Dans le cas où le juge d'instruction décide que le mandat d'arrêt doit être exécuté par une détention sous surveillance électronique, il mentionne également l'adresse de l'exécution de la détention sous surveillance électronique.]<sup>2</sup>
+
+Le mandat d'arrêt indique également que l'inculpé a été préalablement entendu.
+
+§ 6. Le mandat est signé par le juge qui l'a décerné et revêtu de son sceau. [<sup>4</sup> ...]<sup>4</sup>
+
+L'inculpé y est nommé ou désigné le plus clairement possible.
+
+[<sup>4</sup> § 6bis. [<sup>6</sup> L'inculpé qui ne parle pas ou ne comprend pas la langue de la procédure a le droit d'obtenir une traduction écrite ou orale des passages pertinents du mandat dans une langue qu'il comprend pour lui permettre d'avoir connaissance des faits qui lui sont reprochés et de se défendre de manière effective. S'il s'agit de la première audition, il lui est demandé préalablement à l'audition dans quelle langue, qu'il comprend, il souhaite être assisté d'un interprète pour la suite de la procédure et obtenir la traduction des passages pertinents, le cas échéant, du mandat d'arrêt ou du mandat d'arrêt européen, de la citation et de la décision judiciaire. La traduction est fournie dans un délai raisonnable. La traduction orale ou le résumé oral ne porte pas atteinte au caractère équitable de la procédure. Le greffier du juge d'instruction se charge de la demande de traduction du document et de l'envoi de celle-ci.]<sup>6</sup>
+
+Si une traduction orale a été fournie à l'inculpé, mention en est faite dans le mandat d'arrêt.
+
+Les frais de traduction sont à charge de l'Etat.]<sup>4</sup>
+
+§ 7. Le procès-verbal de l'audition de l'inculpé par le juge d'instruction, ainsi que tous les procès-verbaux d'auditions de l'inculpé intervenues entre le moment de sa privation de liberté et le moment où il est déféré au juge d'instruction, doivent mentionner les heures du début de l'interrogatoire, du début et de la fin des interruptions éventuelles et de la fin de l'interrogatoire.
+
+----------
+
+(1)&lt;L 2011-08-13/13, art. 7, 021; En vigueur : 01-01-2012&gt;
+
+(2)&lt;L 2012-12-27/29, art. 2, 022; En vigueur : 01-01-2014&gt;
+
+(3)&lt;L 2016-08-03/15, art. 6, 027; En vigueur : 21-08-2016&gt;
+
+(4)&lt;L 2016-11-21/02, art. 7, 028; En vigueur : 27-11-2016&gt; (NOTE : par son arrêt n° 86/2018 du 05-07-2018 (M.B. 01-08-2018, p. 60497), la Cour constitutionnelle a annulé le 4° et 5° de l'article 7, les abrogations dans les §§ 5 et 6)
+
+(5)&lt;L 2023-07-31/02, art. 10, 036; En vigueur : 01-09-2023&gt;
+
+(6)&lt;L 2024-04-25/24, art. 11, 039; En vigueur : 27-06-2024&gt;
+
+(7)&lt;L 2026-03-11/03, art. 238, 043; En vigueur : 01-09-2026&gt;
+
+(8)&lt;L 2026-03-16/13, art. 16, 042; En vigueur : 01-09-2026&gt;
+
+#### Art. 17
+
+Lorsque le juge d'instruction refuse de décerner un mandat d'arrêt requis par le procureur du Roi, il rend une ordonnance motivée qu'il lui communique immédiatement.
+
+Cette ordonnance n'est susceptible d'aucun recours.
+
+#### Art. 18
+
+§ 1. [<sup>1</sup> Le mandat d'arrêt est signifié à l'inculpé dans un délai de [<sup>2</sup> quarante-huit]<sup>2</sup> heures.[<sup>3</sup> Celui-ci commence à courir soit au moment déterminé par l'article 1er, 2° ou 3°, ou par l'article 2, 5°, soit, au moment déterminé par l'article 3, alinéa 2, lorsque le mandat d'arrêt est décerné à charge d'un inculpé détenu sur le fondement d'un mandat d'amener.]<sup>3</sup>
+
+La signification est faite par le greffier du juge d'instruction, par le directeur d'un établissement pénitentiaire ou par un agent de la force publique.
+
+Elle consiste en une communication verbale de la décision, dans la langue de la procédure, accompagnée de la remise d'une copie intégrale de l'acte. Le mandat d'arrêt est exhibé à l'inculpé lors même qu'il serait déjà détenu, et il lui en est délivré copie.
+
+A défaut de signification régulière dans le délai légal, l'inculpé est mis en liberté.
+
+§ 2. Au moment de la signification du mandat d'arrêt, une copie du procès-verbal de son audition par le juge d'instruction et une copie des autres pièces visées à l'article 16, § 7, sont remises à l'inculpé.
+
+----------
+
+(1)&lt;L 2011-08-13/13, art. 8, 021; En vigueur : 01-01-2012&gt;
+
+(2)&lt;L 2017-10-31/06, art. 5, 030; En vigueur : 29-11-2017&gt;
+
+(3)&lt;L 2017-10-31/06, art. 15, 030; En vigueur : 29-11-2017&gt;
+
+#### Art. 19
+
+§ 1. Le mandat d'arrêt est immédiatement exécuté. Il n'est susceptible ni d'appel, ni de pourvoi en cassation. Il est exécutoire dans tout le territoire du Royaume.
+
+(§ 1erbis. En temps de paix, le mandat d'arrêt délivré à l'encontre d'une personne visée à l'[<sup>2</sup> article 10]<sup>2</sup> du titre préliminaire du Code de procédure pénale peut être exécuté, le cas échéant, sur le territoire étranger.) &lt;L 2003-04-10/60, art. 51, 012; En vigueur : 01-01-2004&gt;
+
+§ 2. Le juge d'instruction, saisi de l'affaire directement ou par renvoi, en exécution de l'article 90 du Code d'instruction criminelle, transmet au juge d'instruction du lieu où l'inculpé qui faisait l'objet du mandat a été trouvé, les pièces, notes et renseignements relatifs à l'infraction, afin de le faire entendre.
+
+Toutes les pièces sont ensuite pareillement renvoyées, avec le procès-verbal de l'interrogatoire, au juge saisi de l'affaire.
+
+§ 3. Si, dans le cours de l'instruction, le juge saisi de l'affaire décerne un mandat d'arrêt, il peut ordonner, par ce mandat, que l'inculpé sera transféré dans la maison d'arrêt du lieu où se fait l'instruction.
+
+S'il n'est pas indiqué dans le mandat d'arrêt que l'inculpé sera ainsi transféré, il restera en la maison d'arrêt de l'arrondissement dans lequel il aura été trouvé, jusqu'à ce qu'il ait été statué par la chambre du conseil, conformément aux articles 127, 128, 129, 130, 132 et 133 du Code d'instruction criminelle.
+
+§ 4. Le porteur du mandat d'arrêt requiert, au besoin, la force publique du lieu le plus proche, qui est tenue de donner suite à la réquisition contenue dans le mandat.
+
+§ 5. L'inculpé saisi en vertu d'un mandat d'arrêt est conduit, sans délai, dans la maison d'arrêt indiquée par le mandat.
+
+§ 6. L'officier chargé de l'exécution du mandat d'arrêt remet l'inculpé au gardien de la maison d'arrêt, qui lui en donne décharge.
+
+Il porte ensuite au greffe du tribunal correctionnel les pièces relatives à l'arrestation et en reçoit un accusé de réception.
+
+Il exhibe ces décharge et accusé de réception dans les vingt-quatre heures au juge d'instruction; celui-ci appose sur l'une et l'autre son visa, qu'il date et signe.
+
+(Quand le mandat d'arrêt est exécuté conformément à l'article 19, § 1erbis, les décharge et accusé de réception doivent être transmis au juge d'instruction dans les [<sup>1</sup> quarante-huit]<sup>1</sup> heures après l'arrivée de l'inculpé sur le territoire belge.) &lt;L 2003-04-10/60, art. 51, 012; En vigueur : 01-01-2004&gt;
+
+§ 7. L'inobservation des formalités prescrites pour le mandat d'arrêt [<sup>3</sup> ...]<sup>3</sup> peut donner lieu à des injonctions au juge d'instruction et au procureur du Roi, et même à prise à partie.
+
+----------
+
+(1)&lt;L 2017-10-31/06, art. 5, 030; En vigueur : 29-11-2017&gt;
+
+(2)&lt;L 2024-04-09/07, art. 56, 038; En vigueur : 28-04-2024&gt;
+
+(3)&lt;L 2026-03-11/03, art. 239, 043; En vigueur : 01-09-2026&gt;
+
+#### Art. 20
+
+(§ 1er.) [<sup>1</sup> Sans préjudice des dispositions des articles [<sup>4</sup> articles 2bis et 16]<sup>4</sup>, l'inculpé peut communiquer librement avec son avocat immédiatement après sa première audition par le juge d'instruction.]<sup>1</sup> &lt;L 2005-01-12/39, art. 179, 013; En vigueur : 15-01-2007&gt;
+
+(§ 2.) Lorsque les nécessités de l'instruction le commandent, le juge peut prononcer une interdiction de communiquer avec d'autres personnes que l'avocat. Il rend, à cette fin, une ordonnance motivée, qui est transcrite sur le registre de la prison. L'interdiction ne peut s'étendre au-delà de trois jours à partir de la première audition. Elle ne peut être renouvelée. &lt;L 2005-01-12/39, art. 179, 013; En vigueur : 15-01-2007&gt;
+
+(§ 3. S'il existe de sérieuses raisons de craindre qu'un inculpé puisse tenter de faire disparaître des preuves ou d'entrer en collusion avec des tiers, le juge d'instruction peut ordonner de maintenir un inculpé à l'écart d'autres inculpés et, par dérogation au § 2 :
+
+1° d'interdire la visite des personnes extérieures à la prison citées individuellement dans l'ordonnance;
+
+2° d'interdire la correspondance provenant ou à destination des personnes citées individuellement dans l'ordonnance;
+
+3° d'interdire les contacts téléphoniques avec les personnes citées individuellement dans l'ordonnance.
+
+[<sup>2</sup> § 3bis. Si le mandat d'arrêt est exécuté par une détention sous surveillance électronique, le juge d'instruction peut :
+
+1° interdire à l'inculpé la visite des personnes citées individuellement dans le mandat d'arrêt;
+
+2° interdire toute correspondance avec les personnes ou instances citées individuellement dans le mandat d'arrêt;
+
+3° interdire toute communication téléphonique ou électronique avec les personnes ou instances citées individuellement dans le mandat d'arrêt.]<sup>2</sup>
+
+§ 4. Le juge d'instruction prend cette décision par ordonnance motivée, laquelle est retranscrite à la prison dans un registre prévu à cet effet et est signifiée à l'inculpé par le directeur de la prison.
+
+La décision s'applique pour la durée strictement nécessaire fixée par le juge d'instruction, et au plus tard jusqu'au moment où celui-ci transmet le dossier au procureur du Roi conformément à l'article 127, alinéa 1er, du Code d'instruction criminelle.
+
+§ 5. La décision du juge d'instruction portant restriction des visites, de la correspondance et des communications téléphoniques ne modifie pas les droits de l'inculpé en ce qui concerne ces possibilités de contact avec son avocat.
+
+La décision du juge d'instruction portant restriction de la correspondance ne modifie pas les droits de l'inculpé en ce qui concerne la correspondance avec les personnes avec lesquelles il peut correspondre sans surveillance en vertu de l'[article 57] de la loi de principes concernant l'administration des établissements pénitentiaires ainsi que le statut juridique des détenus. &lt;L 2005-01-12/39, art. 179, 013; En vigueur : 15-01-2007; modifié par L 2005-12-23/31, art. 34&gt;
+
+(Sans préjudice des restrictions prévues à l'article 59, § 1er, alinéa 2, de la loi de principes concernant l'administration des établissements pénitentiaires et le statut juridique des détenus, le juge d'instruction ne peut restreindre les visites des personnes citées à l'article 59, § 1er, alinéa 1er que dans la mesure où celles-ci ont été inculpées.) L 2005-01-12/39, art. 179, 013; En vigueur : 01-09-2011&gt;
+
+§ 6. L'inculpé peut introduire auprès de la juridiction d'instruction qui statue sur la détention préventive une requête en vue de la modification ou de la levée des mesures imposées par le juge d'instruction [en vertu [<sup>2</sup> des § 3 et § 3bis]<sup>2</sup> ]. Cette requête est jointe au dossier de la détention préventive. &lt;L 2005-01-12/39, art. 179, 013; En vigueur : 15-01-2007; modifié par L 2005-12-23/31, art. 34&gt;
+
+La procédure se déroule conformément aux dispositions des articles 21 à 24. L'appel de la décision est interjeté conformément à l'article 30 [<sup>3</sup> ...]<sup>3</sup>. [<sup>3</sup> La décision prononcée en appel n'est susceptible d'aucun pourvoi en cassation immédiat.]<sup>3</sup>) L 2005-01-12/39, art. 179, 013; En vigueur : 15-01-2007&gt;
+
+[<sup>2</sup> § 7. Les §§ 2 et 3 ne sont pas d'application au mandat d'arrêt qui est exécuté par une détention sous surveillance électronique.]<sup>2</sup>
+
+(NOTE : Entrée en vigueur de l'art. 20, § 5, alinéa 3, fixée au 01-09-2011 par AR 2011-04-08/01, art. 31, 2°)
+
+----------
+
+(1)&lt;L 2011-08-13/13, art. 9, 021; En vigueur : 01-01-2012&gt;
+
+(2)&lt;L 2012-12-27/29, art. 3, 022; En vigueur : 01-01-2014&gt;
+
+(3)&lt;L 2016-02-05/11, art. 127, 025; En vigueur : 29-02-2016&gt; (NOTE : par son arrêt n° 148/2017 du 21-12-2017 (M.B. 12-01-2018, p. 1393), la Cour constitutionnelle a annulé l'article 127)
+
+(4)&lt;L 2017-10-31/06, art. 16, 030; En vigueur : 29-11-2017&gt;
+
+### CHAPITRE IIIbis. - (Du mandat d'arrêt en vue de comparution immédiate.). &lt;Inséré par L 2000-03-28/31, art. 7; En vigueur : 30-04-2000&gt;
+
+#### Art. 20bis
+
+&lt;Abrogé par L 2024-01-18/06, art. 54, 037; En vigueur : 05-02-2024&gt;
+
+### CHAPITRE IV. - Du maintien de la détention préventive.
+
+#### Art. 21
+
+§ 1. Le mandat d'arrêt délivré par le juge d'instruction est valable pour une durée maximale de cinq jours à compter de son exécution.
+
+Avant l'expiration de ce délai et sans préjudice de l'application de l'article 25, § 1er, la chambre du conseil, sur le rapport du juge d'instruction, le procureur du Roi [<sup>3</sup> et l'inculpé et/ou son conseil]<sup>3</sup> entendus, décide s'il y a lieu de maintenir la détention préventive [<sup>1</sup> ainsi que de la modalité de l'exécution de celle-ci]<sup>1</sup>.
+
+§ 2. Vingt-quatre heures au moins avant la comparution en chambre du conseil, les lieu, jour et heure de la comparution sont indiqués dans un registre spécial tenu au greffe et le greffier en donne avis, par télécopieur [<sup>3</sup> , par envoi recommandé ou par voie électronique]<sup>3</sup>, à l'inculpé et à son conseil.
+
+§ 3. Le dossier est mis à la disposition de l'inculpé et de son conseil pendant le dernier jour ouvrable avant la comparution. [<sup>4</sup> La consultation du dossier implique que l'inculpé ou son avocat peuvent eux-mêmes et par leurs propres moyens, en prendre une copie gratuitement, sur place. Le juge d'instruction peut toutefois, de manière motivée, interdire la prise de copie du dossier ou de certaines pièces si les nécessités de l'instruction le requièrent, ou si cette prise de copie présente un danger pour les personnes ou porte gravement atteinte à leur vie privée.]<sup>4</sup>
+
+[2 Cette mise à la disposition peut se faire sous forme de copies, le cas échéant sous forme électronique, certifiées conformes par le greffier.]<sup>2</sup>
+
+Le dossier est à nouveau mis à leur disposition pendant la matinée du jour de la comparution si la veille n'était pas un jour ouvrable; dans ce cas, la comparution en chambre du conseil a lieu l'après-midi.
+
+§ 4. La chambre du conseil s'assure de la régularité du mandat d'arrêt au regard des dispositions de la présente loi. Elle juge en outre de la nécessité du maintien de la détention [<sup>1</sup> et se prononce sur la modalité de l'exécution de celle-ci]<sup>1</sup> suivant les critères prévus à l'article 16, § 1er.
+
+§ 5. Si la chambre du conseil estime que la détention préventive doit être maintenue, elle motive sa décision comme il est prévu à l'article 16, § 5, premier et deuxième alinéas.
+
+§ 6. L'ordonnance de maintien en détention est valable pour un mois à dater du jour où elle est rendue.
+
+----------
+
+(1)&lt;L 2012-12-27/29, art. 4, 022; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2012-12-27/29, art. 12, 022; En vigueur : 10-02-2013&gt;
+
+(3)&lt;L 2012-12-27/29, art. 15, 022; En vigueur : 10-02-2013&gt;
+
+(4)&lt;L 2019-05-05/19, art. 156, 034; En vigueur : 29-06-2019&gt;
+
+#### Art. 22
+
+Tant qu'il n'est pas mis fin à la détention préventive et que l'instruction n'est pas close, la chambre du conseil est appelée à statuer, de mois en mois [<sup>5</sup> ou, à partir de la [<sup>7</sup> quatrième]<sup>7</sup> décision, tous les deux mois]<sup>5</sup>, sur le maintien de la détention [<sup>2</sup> et sur la modalité de l'exécution de celle-ci]<sup>2</sup>.
+
+[<sup>5</sup> A partir de la [<sup>7</sup> quatrième]<sup>7</sup> décision, l'ordonnance de maintien en détention préventive et relative à la modalité de l'exécution de celle-ci forme un titre de privation de liberté pour deux mois.]<sup>5</sup>
+
+Sur requête de l'inculpé ou de son conseil, le juge d'instruction convoque l'inculpé dans les dix jours qui précèdent chaque comparution en chambre du conseil ou en chambre des mises en accusation statuant sur renvoi conformément à l'article 31, § 4, pour un interrogatoire récapitulatif; le greffier notifie immédiatement et par écrit [<sup>4</sup> , par télécopieur ou par voie électronique]<sup>4</sup> la convocation au conseil de l'inculpé et au procureur du Roi, lesquels peuvent assister à cet interrogatoire.
+
+Avant la comparution, le dossier est mis pendant deux jours à la disposition de l'inculpé et de son conseil. Le greffier leur en donne avis par télécopieur [<sup>4</sup> , par envoi recommandé à la poste ou par voie électronique]<sup>4</sup>. [<sup>6</sup> La consultation du dossier implique que l'inculpé ou son avocat peuvent eux-mêmes et par leurs propres moyens, en prendre une copie gratuitement, sur place. Le juge d'instruction peut toutefois, de manière motivée, interdire la prise de copie du dossier ou de certaines pièces si les nécessités de l'instruction le requièrent, ou si cette prise de copie présente un danger pour les personnes ou porte gravement atteinte à leur vie privée.]<sup>6</sup>
+
+[<sup>3</sup> Cette mise à la disposition peut se faire sous forme de copies, le cas échéant sous forme électronique, certifiées conformes par le greffier.]<sup>3</sup>
+
+La chambre du conseil vérifie s'il subsiste des indices sérieux de culpabilité à charge de l'inculpé et s'il existe des raisons conformes à l'article 16, § 1er, de maintenir la détention [<sup>2</sup> ou de modifier la modalité de l'exécution de celle-ci]<sup>2</sup>.
+
+Si elle décide que la détention doit être maintenue [<sup>2</sup> ou que la modalité de l'exécution doit être modifiée]<sup>2</sup>, elle motive sa décision comme il est dit à l'article 16, § 5, premier et deuxième alinéas.
+
+[<sup>5</sup> ...]<sup>5</sup>.) &lt;L 2005-05-31/32, art. 7, 014 ; En vigueur : 26-06-2005&gt;
+
+----------
+
+(1)&lt;L 2010-02-11/02, art. 2, 020; En vigueur : 17-02-2010&gt;
+
+(2)&lt;L 2012-12-27/29, art. 5, 022; En vigueur : 01-01-2014&gt;
+
+(3)&lt;L 2012-12-27/29, art. 13, 022; En vigueur : 10-02-2013&gt;
+
+(4)&lt;L 2012-12-27/29, art. 16, 022; En vigueur : 10-02-2013&gt;
+
+(5)&lt;L 2016-02-05/11, art. 128, 025; En vigueur : 01-07-2016. Disposition transitoire : art. 140&gt;
+
+(6)&lt;L 2019-05-05/19, art. 157, 034; En vigueur : 29-06-2019&gt;
+
+(7)&lt;L 2023-07-31/02, art. 11, 036; En vigueur : 01-09-2023&gt;
+
+#### Art. 22bis
+
+&lt;Abrogé par L 2016-02-05/11, art. 129, 025; En vigueur : 01-07-2016&gt;
+
+#### Art. 23
+
+Pour l'application des [<sup>2</sup> articles 21 et 22]<sup>2</sup> les règles suivantes doivent être observées : &lt;L 2005-05-31/32, art. 9, 014 ; En vigueur : 26-06-2005&gt;
+
+1° la procédure se déroule à huis clos, ce dont il est fait mention dans la décision;
+
+2° [<sup>1</sup> l'inculpé comparaît en personne ou représenté par un avocat. La chambre du conseil peut, sans que sa décision puisse faire l'objet d'aucun recours, ordonner la comparution en personne [<sup>3</sup> , par vidéoconférence ou non,]<sup>3</sup> au moins trois jours avant la comparution. Cette décision est signifiée à la partie concernée à la requête du ministère public. Si l'inculpé ou son avocat ne comparaît pas, il est statué en leur absence.]<sup>1</sup>
+
+3° à tous les stades de la procédure, la chambre du conseil peut, si la qualification des faits visés au mandat d'arrêt lui paraît inadéquate, la modifier après avoir donné aux parties l'occasion de s'en expliquer. Elle ne peut y substituer d'autres faits;
+
+4° la chambre du conseil doit répondre aux conclusions des parties. Si celles-ci, dans leurs conclusions, contestent, en faisant état d'éléments de fait, l'existence d'indices sérieux de culpabilité, la chambre du conseil doit, si elle maintient la détention, préciser quels sont les éléments qui lui paraissent constituer de tels indices.
+
+----------
+
+(1)&lt;L 2012-12-27/29, art. 18, 022; En vigueur : 10-02-2013&gt;
+
+(2)&lt;L 2016-02-05/11, art. 130, 025; En vigueur : 01-07-2016&gt;
+
+(3)&lt;L 2016-01-29/08, art. 7, 026; En vigueur : indéterminée et au plus tard le 01-09-2017, (NOTE : par son arrêt n° 76/2018 du 21-06-2018 (M.B. 02-07-2018, p. 53419), la Cour constitutionnelle a annulé l'article 7)&gt;
+
+#### Art. 24
+
+Après six mois de privation de liberté si le maximum de la peine applicable ne dépasse pas [<sup>1</sup> une peine de niveau 4]<sup>1</sup> ou après un an dans le cas contraire, l'inculpé pourra, lors de sa comparution en chambre du conseil ou en chambre des mises en accusation en application des articles 22 (...) ou 30, demander de comparaître en audience publique. &lt;L 2003-01-23/42, art. 124, 011; En vigueur : 13-03-2003&gt; &lt;L 2005-05-31/32, art. 10, 014 ; En vigueur : 26-06-2005&gt;
+
+Cette demande ne pourra être rejetée, par décision motivée, que :
+
+\- si cette publicité est dangereuse pour l'ordre, les moeurs ou la sécurité nationale;
+
+\- si les intérêts des mineurs ou la protection de la vie privée des victimes ou des autres inculpés l'exigent;
+
+\- si la publicité est de nature à porter atteinte aux intérêts de la justice en raison des dangers qu'elle entraîne pour la sécurité des victimes ou des témoins.
+
+----------
+
+(1)&lt;L 2026-03-11/03, art. 240, 043; En vigueur : 01-09-2026&gt;
+
+#### Art. 24bis
+
+[<sup>2</sup> § 1er.]<sup>2</sup> [<sup>1</sup> Le juge d'instruction peut décider d'office ou à la demande du procureur du Roi, à tout moment de la procédure, par une ordonnance motivée, que le mandat d'arrêt ou l'ordonnance ou l'arrêt de maintien de la détention préventive exécutée par une détention sous surveillance électronique sera exécuté à partir de ce moment dans la prison, si :
+
+1° l'inculpé reste en défaut de se présenter à un acte de la procédure [<sup>2</sup> conformément aux dispositions de l'article 23, 2°]<sup>2</sup>;
+
+2° l'inculpé ne respecte pas les instructions standard et les règles de détention sous surveillance électronique fixées conformément à l'article 16, § 1er, alinéa 2;
+
+3° l'inculpé méconnaît les interdictions prévues dans l'article 20, § 3bis;
+
+4° des circonstances nouvelles et graves rendent cette mesure nécessaire.
+
+[<sup>4</sup> 5° la poursuite de la surveillance électronique s'avère techniquement impossible.]<sup>4</sup>
+
+L'ordonnance est signifiée sans délai à l'inculpé et communiquée sans délai au procureur du Roi.
+
+Cette ordonnance n'est susceptible d'aucun recours.
+
+La procédure se déroule conformément aux dispositions des chapitres III, IV et V.]<sup>1</sup>
+
+[<sup>2</sup> § 2. Le juge d'instruction peut décider d'office ou à la demande du procureur du Roi, à tout moment de la procédure, par une ordonnance motivée qu'il communique directement au procureur du Roi, que le mandat d'arrêt ou l'ordonnance ou l'arrêt de maintien de la détention préventive exécuté dans la prison sera exécuté à partir de ce moment-là par une détention sous surveillance électronique.]<sup>2</sup>
+
+[<sup>3</sup> § 3. En cas de maintien d'une détention sous surveillance électronique, conformément à l'article 26, § 3, alinéa 2, les compétences visées aux paragraphes 1er et 2 sont exercées, exclusivement sur réquisition du ministère public, par les juridictions visées à l'article 27, § 1er.
+
+La requête est déposée au greffe de la juridiction qui doit statuer et inscrite au registre prévu à cet effet. Il est statué sur cette requête en chambre du conseil dans les cinq jours de son dépôt, le ministère public, l'intéressé et son conseil entendus, et il en est donné avis à ce dernier conformément à l'article 21, § 2.
+
+Si aucune décision n'a été prise sur la requête dans ce délai de cinq jours, éventuellement prolongé conformément à l'article 32, la détention préventive continue d'être exécutée sous surveillance électronique.
+
+La décision est motivée conformément à l'article 16, § 5, alinéas 1er et 2.]<sup>3</sup>
+
+[<sup>4</sup> § 4. L'inculpé placé en détention préventive sous surveillance électronique séjourne en prison :
+
+1° pour le temps strictement nécessaire au placement et à l'activation du matériel de surveillance électronique;
+
+2° sur ordre du procureur du Roi, en cas de force majeure ou lorsque l'une des conditions visées au paragraphe 1er paraît rencontrée, ou lorsque l'inculpé est intercepté après s'être soustrait à la surveillance électronique, ou lorsque cela s'avère nécessaire suite au changement de l'adresse d'exécution de la surveillance électronique.
+
+Le juge d'instruction, dûment et immédiatement avisé par le procureur du Roi, de l'ordre visé à l'alinéa 1er, 2°, statue dans les cinq jours ouvrables à compter de la réintégration de l'inculpé en prison sur la poursuite ou non de la détention préventive sous surveillance électronique en application des paragraphes 1er et 2. Il est tenu d'entendre préalablement l'inculpé et son avocat, auxquels en est donné avis conformément à l'article 21, § 2. En cas de maintien d'une détention sous surveillance électronique conformément à l'article 26, § 3, alinéa 2, il est procédé conformément au paragraphe 3.]<sup>4</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-12-27/29, art. 7, 022; En vigueur : 01-01-2014&gt;
+
+(2)&lt;L 2014-04-25/23, art. 162, 023; En vigueur : 24-05-2014&gt;
+
+(3)&lt;L 2016-02-05/11, art. 131, 025; En vigueur : 29-02-2016&gt;
+
+(4)&lt;L 2019-05-05/10, art. 116, 033; En vigueur : 03-06-2019&gt;
+
+### CHAPITRE IV/1. [<sup>1</sup> - De l'assistance de l'avocat lors des auditions pendant la période du maintien en détention préventive.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-11-21/02, art. 8, 028; En vigueur : 27-11-2016&gt;
+
+#### Art. 24bis/1
+
+[<sup>1</sup> A compter de la signification du mandat d'arrêt, le suspect qui se trouve en détention préventive a le droit de se concerter confidentiellement avec son avocat conformément à l'article 20, § 1er, de se faire assister par un avocat pendant les auditions qui sont effectuées et d'interrompre l'audition conformément à l'article 2bis, § 5, alinéa 2. A la lumière des circonstances particulières de l'espèce, le juge d'instruction en charge peut décider d'agir conformément l'article 2bis, §§ 9 et 10.
+
+Si l'audition a lieu sur convocation écrite avec communication succincte des faits, du droit de se concerter confidentiellement avec son avocat, du droit de se faire assister par son avocat pendant l'audition, du droit d'interrompre une seule fois l'audition conformément à l'article 2bis, § 5, alinéa 2, et des droits prévus à l'article 47bis, § 2, 2) et 3), du Code d'instruction criminelle, la personne concernée est présumée avoir consulté son avocat.
+
+Seule la personne majeure peut volontairement et de manière réfléchie renoncer au droit de se faire assister par un avocat pendant l'audition dans un document daté et signé par elle, dans lequel les informations nécessaires lui sont fournies sur les conséquences éventuelles d'une renonciation au droit à l'assistance d'un avocat. La personne concernée est informée du fait qu'elle peut révoquer sa renonciation.
+
+La personne qui procède à l'audition prend contact avec la permanence prévue à l'article 2bis, § 2, afin de convoquer à l'audition l'avocat choisi ou l'avocat qui le remplace, en mentionnant les lieu, jour et heure. L'avocat qui assiste un suspect qui se trouve en détention préventive ou qui succède à un autre avocat informe immédiatement la permanence visée à l'article 2bis, § 2, de son intervention.
+
+Les dispositions de l'article 2bis, §§ 2 et 3, sont d'application si l'audition n'a pas lieu sur convocation écrite ou si la convocation et l'audition ne sont pas espacées d'un jour libre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-11-21/02, art. 9, 028; En vigueur : 27-11-2016&gt;
+
+### CHAPITRE V. - De la mainlevée du mandat d'arrêt.
+
+#### Art. 25
+
+§ 1. Avant la comparution de l'inculpé devant la chambre du conseil prévue à l'article 21, le juge d'instruction peut donner mainlevée du mandat d'arrêt, par une ordonnance motivée qu'il communique immédiatement au procureur du Roi.
+
+Cette ordonnance n'est susceptible d'aucun recours.
+
+§ 2. (Après la décision de la chambre du conseil visée à l'article 21, le juge d'instruction peut, dans le cours de l'instruction, donner mainlevée du mandat d'arrêt par une ordonnance motivée qu'il communique immédiatement au procureur du Roi.
+
+Cette ordonnance n'est susceptible d'aucun recours.
+
+Le procureur du Roi peut par ailleurs requérir à tout moment du juge d'instruction la mainlevée du mandate d'arrêt [<sup>1</sup> ...]<sup>1</sup>.) &lt;L 2005-05-31/32, art. 11, 014 ; En vigueur : 26-06-2005&gt;
+
+§ 3. Dans tous les cas où mainlevée du mandat d'arrêt a été donnée par application des dispositions qui précèdent, l'inculpé est tenu de se présenter à tous les actes de la procédure aussitôt qu'il en est requis.
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 163, 023; En vigueur : 24-05-2014&gt;
+
+### CHAPITRE VI. - De l'incidence du règlement de la procédure sur les mesures privatives de liberté.
+
+#### Art. 26
+
+§ 1. En cas d'ordonnance de non-lieu ou d'ordonnance de renvoi devant le tribunal de police, l'inculpé est mis en liberté (à moins que celui-ci ne soit renvoyé pour un fait constitutif d'infraction aux [<sup>3</sup> articles 106, 107 et 107/1]<sup>3</sup> du Code pénal ou aux articles 33, § 2, et 36 de la loi du 16 mars 1968 relative à la police de la circulation routière). &lt;L 1994-07-11/33, art. 15, 1°, 003; En vigueur : 01-01-1995&gt;
+
+§ 2. Si la chambre du conseil renvoie l'inculpé devant le tribunal correctionnel (ou devant le tribunal de police) en raison d'un fait qui [<sup>3</sup> ne peut entraîner qu'une peine de niveau 1]<sup>3</sup>, l'inculpé sera mis en liberté, à charge de se représenter, à jour fixe, devant le tribunal compétent. &lt;L 1994-07-11/33, art. 15, 2°, 003; En vigueur : 01-01-1995&gt;
+
+§ 3. Lorsque, en réglant la procédure, la chambre du conseil renvoie l'inculpé devant le tribunal correctionnel [ou devant le tribunal de police] en raison d'un fait sur lequel est fondée la détention préventive et qui est légalement passible d'une peine d'emprisonnement supérieure à la durée de la détention préventive déjà subie, [elle peut mettre l'inculpé en liberté ou décider, par une ordonnance séparée et motivée conformément à l'article 16, §§ 1 et 5, premier et deuxième alinéas, que l'inculpé restera en détention, ou qu'il sera mis en liberté en lui imposant de respecter une ou plusieurs conditions, comme il est prévu à l'article 35]. &lt;L 1994-07-11/33, art. 15, 3°, 003; En vigueur : 01-01-1995&gt; &lt;L %1996-08-04/04, art. 2, 004; En vigueur : 27-09-1996&gt;
+
+[<sup>2</sup> Si l'inculpé se trouve en détention sous surveillance électronique, la chambre du conseil peut, par décision motivée, maintenir la détention préventive sous surveillance électronique.]<sup>2</sup>
+
+§ 4. Dans les cas où l'ordonnance de la chambre du conseil a pour effet la mise en liberté de l'inculpé, le procureur du Roi peut, dans les vingt-quatre heures, interjeter appel de la décision en tant qu'elle concerne la détention préventive; dans les cas visés aux §§ 1er et 2 ci-dessus, il ne peut le faire qu'après avoir interjeté appel de la décision en tant qu'elle concerne le règlement de la procédure.
+
+L'inculpé reste détenu jusqu'à l'expiration dudit délai.
+
+L'appel a un effet suspensif.
+
+§ 5. La chambre du conseil et la chambre des mises en accusation peuvent, dans les cas prévus par les articles 133 et 231 du Code d'instruction criminelle, décerner une ordonnance de prise de corps et en prescrire l'exécution immédiate.
+
+Ces ordonnances contiennent le nom de l'inculpé, son signalement, son domicile, s'ils sont connus, l'exposé du fait et la nature [<sup>1</sup> de l'infraction]<sup>1</sup>.
+
+Lorsque l'ordonnance de prise de corps est rendue à charge d'un inculpé ou d'un accusé qui est poursuivi en raison d'[<sup>3</sup> une infraction pour laquelle une peine de niveau 2 ou 3 est prévue]<sup>3</sup>, les dispositions de l'article 16, §§ 1er et 5, premier et deuxième alinéas, sont observées.
+
+Les ordonnances de la chambre du conseil et de la chambre des mises en accusation sont rendues à la majorité des juges.
+
+[<sup>2</sup> Le cas échéant, le paragraphe 4 s'applique.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2009-12-21/14, art. 232, 018; En vigueur : 21-01-2010&gt;
+
+(2)&lt;L 2016-02-05/11, art. 132, 025; En vigueur : 29-02-2016&gt; (NOTE : par son arrêt n° 148/2017 du 21-12-2017 (M.B. 12-01-2018, p. 1393), la Cour constitutionnelle a annulé l'article 132, 1°)
+
+(3)&lt;L 2026-03-11/03, art. 241, 043; En vigueur : 01-09-2026&gt;
+
+#### Art. 27
+
+§ 1. Lorsque la détention préventive n'a pas pris fin et que l'instruction est close ou qu'il a été fait application de l'article 133 du Code d'instruction criminelle et de l'article 26, § 5, la mise en liberté provisoire peut être accordée sur requête adressée :
+
+1° au tribunal correctionnel (ou au tribunal de police) saisi, depuis l'ordonnance de renvoi jusqu'au jugement; &lt;L 1994-07-11/33, art. 16, 1°, 003; En vigueur : 01-01-1995&gt;
+
+2° [au tribunal correctionnel, siégeant en degré d'appel ou] à la chambre des appels correctionnels, depuis l'appel jusqu'à la décision d'appel; &lt;L 1994-07-11/33, art. 16, 2°, 003; En vigueur : 01-01-1995&gt;
+
+3° à la chambre des mises en accusation :
+
+a) [depuis l'ordonnance rendue conformément à l'article 133 du Code d'instruction criminelle jusqu'à ce que la cour d'assises ait définitivement statué;] &lt;L 2000-06-30/47, art. 42, 008; En vigueur : 27-03-2001&gt;
+
+b) pendant l'instance en règlement de juges, lorsque l'inculpé est détenu en exécution d'une ordonnance de prise de corps décernée par la chambre du conseil;
+
+[c) pendant l'instance devant la chambre des mises en accusation prévue aux articles 135, 235 et 235bis du Code d'instruction criminelle] &lt;L 1998-03-12/39, art. 41, 005; En vigueur : 1998-10-02&gt;
+
+4° [...] &lt;L 2000-06-30/47, art. 42, 008; En vigueur : 27-03-2001&gt;
+
+5° à la chambre des mises en accusation, depuis le recours en cassation jusqu'à l'arrêt.
+
+§ 2. La mise en liberté provisoire peut aussi être demandée par celui qui est privé de sa liberté en vertu d'un ordre d'arrestation immédiate décerné après condamnation, à la condition qu'appel, opposition ou pourvoi en cassation ait été formé contre la décision de condamnation elle-même. Elle peut dans les mêmes conditions être demandée par celui qui est privé de sa liberté sur le fondement d'une condamnation par défaut, contre laquelle opposition est formée dans le délai extraordinaire.
+
+[<sup>1</sup> § 2bis. La mise en liberté provisoire peut aussi être demandée par celui qui est privé de sa liberté au moment de son internement ou dont l'incarcération immédiate a été ordonnée à l'occasion de l'internement, conformément à l'article 10 de la loi du 5 mai 2014 relative à l'internement [<sup>1</sup> ...] <sup>1</sup> à la condition qu'appel, opposition ou pourvoi en cassation ait été formé contre la décision d'internement elle-même.]<sup>1</sup>
+
+§ 3. La requête est déposée au greffe de la juridiction appelée à statuer et y est inscrite au registre mentionné à l'article 21, § 2.
+
+Il est statué sur la requête en chambre du conseil dans les cinq jours de son dépôt, le ministère public, l'intéressé et son conseil entendus, celui-ci étant avisé conformément à l'article 21, § 2.
+
+S'il n'est pas statué sur la requête dans le délai de cinq jours, éventuellement prorogé conformément à l'article 32, l'intéressé est mis en liberté.
+
+La décision de rejet est motivée en observant ce qui est prescrit à l'article 16, § 5, premier et deuxième alinéas.
+
+[<sup>2</sup> § 4. En cas de rejet de la requête de mise en liberté provisoire, une nouvelle requête ne peut être introduite qu'après l'expiration d'un délai d'un mois à compter du rejet.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2014-05-05/11, art. 130, 024; En vigueur : 01-10-2016 (L 2016-05-04/03, art. 250) modifié par &lt;L 2016-05-04/03, art. 241&gt; . Dispositions transitoires art. 134 et 135&gt;
+
+(2)&lt;L 2016-02-05/11, art. 133, 025; En vigueur : 29-02-2016&gt;
+
+#### Art. 28
+
+§ 1er. Le juge d'instruction peut décerner un mandat d'arrêt en tout état de cause contre l'inculpé laissé ou remis en liberté :
+
+1° si celui-ci reste en défaut de se présenter à un acte de la procédure;
+
+2° si des circonstances nouvelles et graves rendent cette mesure nécessaire. Dans ce dernier cas, le mandat mentionne les circonstances nouvelles et graves qui justifient l'arrestation.
+
+Les dispositions des chapitres III, IV et V sont applicables.
+
+§ 2. Le tribunal ou la cour, selon le cas, peut décerner un mandat d'arrêt dans le cas visé au [<sup>1</sup> § 1er, 1° et 2°]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 134, 025; En vigueur : 29-02-2016&gt;
+
+#### Art. 28/1
+
+[<sup>1</sup> Le tribunal ou la cour, selon le cas, peut décerner un mandat d'arrêt dans le cas où le suspect ne peut pas comparaître en personne en raison d'une détention à l'étranger et a lui-même demandé à pouvoir être présent en personne.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-11/02, art. 12, 032; En vigueur : 28-07-2018&gt;
+
+#### Art. 29
+
+La personne mise en liberté provisoire doit indiquer à quelle adresse les convocations et les significations requises par l'instruction [<sup>1</sup> et le procès pénal]<sup>1</sup> peuvent lui être faites ultérieurement. Jusqu'au moment où l'intéressé fait parvenir un avis de changement par lettre recommandée à la poste adressée au ministère public [<sup>1</sup> ou qu'il est inscrit à une nouvelle adresse au registre national]<sup>1</sup>, les convocations et les significations ont lieu valablement à cet endroit.
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 135, 025; En vigueur : 29-02-2016&gt;
+
+### CHAPITRE VII. - De l'appel.
+
+#### Art. 30
+
+(§ 1. L'inculpé, le prévenu ou l'accusé, et le ministère public peuvent faire appel devant la chambre des mises en accusation, des ordonnances de la chambre du conseil rendues dans les cas prévus par les articles 21, 22 (...) [<sup>2</sup> ...]<sup>2</sup> et 28. S'il s'agit d'un jugement du tribunal correctionnel ou du tribunal de police, rendu conformément à l'article 27, il est statué sur l'appel, selon le cas, par la chambre des appels correctionnels ou par le tribunal correctionnel siégeant en degré d'appel.) &lt;L 1994-07-11/33, art. 17, 1°, 003; En vigueur : 01-01-1995&gt; &lt;L 2005-05-31/32, art. 12, 014 ; En vigueur : 26-06-2005&gt;
+
+§ 2. L'appel doit être interjeté dans un délai de vingt-quatre heures, qui court contre le ministère public à compter du jour de la décision et contre l'inculpé, le prévenu ou l'accusé, du jour où elle lui est signifiée dans les formes prévues à l'article 18.
+
+Cette signification est faite dans les vingt-quatre heures. L'acte de signification contient avertissement à l'inculpé du droit qui lui est accordé d'appeler et du terme dans lequel il doit être exercé.
+
+La déclaration d'appel est faite au greffe du tribunal qui a rendu la décision attaquée, et est consignée au registre des appels en matière correctionnelle.
+
+Les pièces sont, s'il y a lieu, transmises par le procureur du Roi au procureur général près la cour d'appel.
+
+Le conseil de l'inculpé est avisé par le greffier (de la juridiction d'appel). &lt;L 1994-07-11/33, art. 17, 2°, 003; En vigueur : 01-01-1995&gt;
+
+§ 3. Il est statué sur l'appel toutes affaires cessantes, [<sup>1</sup> le ministère public et l'inculpé, le prévenu ou l'accusé et/ou son conseil entendus]<sup>1</sup>. [<sup>3</sup> La chambre des mises en accusation peut décider que l'inculpé comparaîtra par vidéoconférence.]<sup>3</sup>
+
+L'inculpé reste en détention jusqu'à la décision sur l'appel pourvu qu'elle intervienne dans les quinze jours de la déclaration d'appel; l'inculpé est mis en liberté si la décision n'est pas rendue dans ce délai.
+
+[1 Les règles prévues à l'article 23, 1° à 4°, sont d'application à la procédure devant la chambre des mises en accusation.]<sup>1</sup>
+
+§ 4. La juridiction d'appel statue en tenant compte des circonstances de la cause au moment de sa décision. Si la chambre des mises en accusation, dans les cas des articles 21, 22 [...] [<sup>2</sup> ...]<sup>2</sup> et 28, décide de maintenir la détention préventive, l'arrêt forme un titre de privation de liberté pour [un mois] à partir de la décision [<sup>2</sup> si elle porte sur [<sup>4</sup> la première, la deuxième ou la troisième]<sup>4</sup> ordonnance de la chambre du conseil ou pour deux mois à partir de la décision si elle porte sur une ordonnance subséquente]<sup>2</sup>. &lt;L 2005-05-31/32, art. 12, 014 ; En vigueur : 26-06-2005&gt;
+
+[Si, à la suite de l'application des articles 135 et 235 du Code d'instruction criminelle, la chambre des mises en accusation saisit un magistrat instructeur et que l'inculpé est détenu, la chambre des mises en accusation statue sur la détention préventive par un arrêt séparé qui, en cas de maintien de la détention préventive, forme titre de détention pour [<sup>2</sup> deux mois]<sup>2</sup>.] &lt;L 1998-03-12/39, art. 42, 005; En vigueur : 1998-10-02&gt;
+
+----------
+
+(1)&lt;L 2012-12-27/29, art. 19, 022; En vigueur : 10-02-2013&gt;
+
+(2)&lt;L 2016-02-05/11, art. 136, 025; En vigueur : 01-07-2016. Disposition transitoire : art. 140&gt;
+
+(3)&lt;L 2016-01-29/08, art. 8, 026; En vigueur : indéterminée et au plus tard le 01-09-2017, (NOTE : par son arrêt n° 76/2018 du 21-06-2018 (M.B. 02-07-2018, p. 53419), la Cour constitutionnelle a annulé l'article 8)&gt;
+
+(4)&lt;L 2023-07-31/02, art. 12, 036; En vigueur : 01-09-2023&gt;
+
+### CHAPITRE VIII. - Du pourvoi en cassation.
+
+#### Art. 31
+
+§ 1. Les arrêts [et jugements] par lesquels la détention préventive est maintenue, sont signifiés à l'inculpé dans les vingt-quatre heures, dans les formes prévues à l'article 18. &lt;L 1994-07-11/33, art. 18, 1°, 003; En vigueur : 01-01-1995&gt;
+
+§ 2. [<sup>1</sup> Ces décisions ne sont susceptibles d'aucun pourvoi en cassation immédiat, à l'exception des arrêts rendus par la chambre des mises en accusation sur l'appel formé contre les décisions visées à l'article 21, § 1er, alinéa 2, lesquels]<sup>1</sup> peuvent faire l'objet d'un pourvoi en cassation dans un délai de vingt-quatre heures qui court à compter du jour où [la décision] est signifié à l'inculpé.
+
+§ 3. Le dossier est transmis au greffe de la Cour de cassation dans les vingt-quatre heures à compter du pourvoi. Les moyens de cassation peuvent être proposés soit dans l'acte de pourvoi, soit dans un écrit déposé à cette occasion, soit dans un mémoire qui doit parvenir au greffe de la Cour de cassation au plus tard le cinquième jour après la date du pourvoi.
+
+La Cour de cassation statue dans un délai de quinze jours à compter de la date du pourvoi, l'inculpé restant en détention. L'inculpé est mis en liberté si l'arrêt n'est pas rendu dans ce délai.
+
+§ 4. Après un arrêt de cassation avec renvoi, la chambre des mises en accusation à laquelle la cause est renvoyée doit statuer dans les quinze jours à compter du prononcé de l'arrêt de la Cour de cassation, l'inculpé restant entre-temps en détention. Il est mis en liberté si l'arrêt de la chambre des mises en accusation n'est pas rendu dans ce délai.
+
+Pour le surplus, les dispositions de l'article 30, §§ 3 et 4, sont d'application.
+
+Si la juridiction de renvoi maintient la détention préventive, sa décision constitue un titre de détention pour [un mois] à compter de la décision [<sup>2</sup> si elle porte sur la première, la deuxième ou la troisième ordonnance de la chambre du conseil ou pour deux mois à partir de la décision si elle porte sur une ordonnance subséquente]<sup>2</sup>. &lt;L 2005-05-31/32, art. 13, 014 ; En vigueur : 26-06-2005&gt;
+
+[§ 5. Si le pourvoi en cassation est rejeté, la chambre du conseil doit statuer [<sup>2</sup> dans le mois à compter du prononcé de l'arrêt de la Cour de cassation si l'ordonnance entreprise est la première, la deuxième ou la troisième ordonnance de la chambre du conseil ou dans les deux mois de ce prononcé si l'ordonnance entreprise est une ordonnance subséquente]<sup>2</sup>, l'inculpé restant entre-temps en détention. Il est mis en liberté si l'ordonnance de la chambre du conseil n'est pas rendue dans ce délai.] &lt;L 1990-11-28/30, art. 1, 002; En vigueur : 01-12-1990&gt;
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 137, 025; En vigueur : 29-02-2016&gt; (NOTE : par son arrêt n° 148/2017 du 21-12-2017 (M.B. 12-01-2018, p. 1393), la Cour constitutionnelle a annulé l'article 137)
+
+(2)&lt;L 2023-07-31/02, art. 13, 036; En vigueur : 01-09-2023&gt;
+
+### CHAPITRE IX. - De la prolongation des délais, de la mise en liberté, de l'arrestation immédiate et du mandat d'arrêt par défaut.
+
+#### Art. 32
+
+Les délais prévus par les articles 21, § 1er, [<sup>1</sup> 22, 24bis, § 3, 25]<sup>1</sup>, § 2, 27, § 3, 30, § 3, et 31, § 3, sont suspendus pendant le temps de la remise accordée à la demande de l'inculpé ou de son conseil.
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 138, 025; En vigueur : 29-02-2016&gt;
+
+#### Art. 32bis
+
+&lt;inséré par L 2003-04-10/60, art. 52; En vigueur : 01-01-2004&gt; Quand le mandat d'arrêt doit être exécuté conformément à l'article 19, § 1erbis, le juge d'instruction peut prolonger le délai de l'article 21 de cinq jours en cas de force majeure. Cette prolongation doit intervenir à peine de nullité dans le délai de validité du mandat d'arrêt délivré.
+
+Les circonstances qui justifient cette manière d'agir doivent être mentionnées expressément dans le mandat d'arrêt que cette prolongation concerne. Il n'existe aucune possibilité de recours contre cette décision.
+
+#### Art. 33
+
+§ 1. A moins qu'il ne soit retenu pour une autre cause, le prévenu ou l'accusé est, nonobstant appel, mis immédiatement en liberté s'il est acquitté, condamné avec sursis [<sup>3</sup> , condamné à une peine de surveillance électronique, à une peine de travail, à une peine de probation [<sup>6</sup> ...]<sup>6</sup> ou seulement à une amende, ou si une [<sup>6</sup> condamnation par déclaration de culpabilité]<sup>6</sup> a été prononcée]<sup>3</sup>, ou s'il bénéficie de la suspension du prononcé de la condamnation (, ou s'il n'est pas condamné à une peine d'emprisonnement principal effective dans les sept jours à compter de la délivrance du mandat d'arrêt en vue de comparution immédiate). (La libération immédiate du prévenu ou de l'accusé entraîne, à son égard, l'interdiction de l'usage de tous moyens de contrainte.) &lt;L 2000-03-28/31, art. 8, 007; En vigueur : 2000-04-30&gt; &lt;L 2002-08-02/66, art. 2, 010; En vigueur : 15-09-2002&gt;
+
+[<sup>5</sup> A moins qu'il ne soit retenu pour une autre cause, le prévenu ou l'accusé est, nonobstant appel, également mis immédiatement en liberté s'il est condamné à un emprisonnement principal sans sursis de moins de trois ans ou s'il est condamné à une peine principale d'emprisonnement sans sursis de moins d'un an sur la base [<sup>6</sup> des articles du livre II, titre 4, chapitre 1er, et des articles 132 à 168, 170 à 174, 181 à 186, 265 à 268]<sup>6</sup> du Code pénal. Si le ministère public estime sur la base du dossier que le prévenu ou l'accusé n'a pas de résidence principale, ceci fait l'objet d'un débat distinct. Si à l'issue de ce débat il est établi que le prévenu ou l'accusé n'a pas de résidence principale, la cour ou le tribunal ordonne qu'il reste détenu, sauf si la cour ou le tribunal estime que cette situation n'entraine pas de risques quant au fait de se soustraire à l'exécution de la peine. Le paragraphe 2, alinéa 3, s'applique à cette décision. La libération immédiate du prévenu ou de l'accusé entraîne, à son égard, l'interdiction de l'usage de tous moyens de contrainte.]<sup>5</sup>
+
+[<sup>5</sup> Sans préjudice de l'alinéa 2, celui qui est condamné à un emprisonnement principal sans sursis]<sup>5</sup> est mis en liberté, nonobstant appel, dès que la détention subie égale la durée de l'emprisonnement principal prononcé; dans les autres cas, il reste détenu pour autant que la peine soit prononcée en raison du fait qui a motivé la détention préventive.
+
+§ 2. Lorsqu'ils condamnent le prévenu ou l'accusé à un emprisonnement principal [<sup>2</sup> de trois ans ou à une peine plus grave, sans sursis, et pour des condamnations pour des faits visés dans le [<sup>6</sup> livre II, titre 4, chapitre 1er, et dans les articles 132 à 168, 170 à 174, 181 à 186, 265 à 268]<sup>6</sup> du Code pénal, à un emprisonnement principal d'un an ou à une peine plus grave, sans sursis,]<sup>2</sup> les cours et les tribunaux peuvent ordonner son arrestation immédiate, sur réquisition du ministère public, s'il y a lieu de craindre que le prévenu ou l'accusé ne tente de se soustraire à l'exécution de la peine [<sup>4</sup> ou ne commette de [<sup>6</sup> nouvelles infractions]<sup>6</sup>]<sup>4</sup>. Cette décision doit préciser les circonstances de la cause motivant spécialement cette crainte.
+
+Si, sur opposition ou appel, la peine est réduite [<sup>2</sup> à moins de trois ans et pour des condamnations pour des faits visés dans le[<sup>6</sup> livre II, titre 4, chapitre 1er, et dans les articles 132 à 168, 170 à 174, 181 à 186, 265 à 268]<sup>6</sup> du Code pénal, à moins d'un an]<sup>2</sup>, la cour ou le tribunal pourra, à l'unanimité, sur réquisition du ministère public, le prévenu et son conseil entendus s'ils sont présents, maintenir l'incarcération.
+
+Les décisions rendues par application de ce paragraphe font l'objet d'un débat distinct, immédiatement après le prononcé de la peine. Le prévenu ou l'accusé et son conseil sont entendus s'ils sont présents. Ces décisions ne sont susceptibles ni d'appel ni d'opposition. [<sup>1</sup> Elles sont susceptibles de pourvoi en cassation pour autant que le pourvoi soit également formé contre la décision de condamnation.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-02-05/11, art. 139, 025; En vigueur : 29-02-2016&gt;
+
+(2)&lt;L 2017-12-21/19, art. 7, 031; En vigueur : 21-01-2018&gt;
+
+(3)&lt;L 2019-05-05/10, art. 117, 033; En vigueur : 03-06-2019&gt;
+
+(4)&lt;L 2019-11-29/06, art. 2, 035; En vigueur : 21-12-2019&gt;
+
+(5)&lt;L 2023-07-31/02, art. 14, 036; En vigueur : 19-08-2023&gt;
+
+(6)&lt;L 2026-03-11/03, art. 242, 043; En vigueur : 01-09-2026&gt;
+
+#### Art. 34
+
+§ 1. Lorsque l'inculpé est fugitif ou latitant ou lorsqu'il y a lieu de demander son extradition, le juge d'instruction peut décerner un mandat d'arrêt par défaut.
+
+§ 2. Si ce mandat est exécuté avant la clôture de l'instruction, l'inculpé doit être interrogé par le juge d'instruction. Si le juge d'instruction estime que la détention doit être maintenue, il peut délivrer un nouveau mandat d'arrêt auquel sont applicables les dispositions des chapitres III, IV et V.
+
+Ce nouveau mandat d'arrêt est signifié à l'inculpé dans les [<sup>1</sup> quarante-huit]<sup>1</sup> heures à compter de la signification sur le territoire belge (ou sur le territoire étranger où une fraction de l'armée est stationnée) du mandat d'arrêt par défaut, laquelle doit intervenir dans les [<sup>1</sup> quarante-huit]<sup>1</sup> heures de l'arrivée ou de la privation de liberté sur le sol belge. &lt;L 2003-04-10/60, art. 53, 012; En vigueur : 01-01-2004&gt;
+
+§ 3. Le prévenu ou l'accusé ne peut demander sa mise en liberté que conformément à l'article 27.
+
+----------
+
+(1)&lt;L 2017-10-31/06, art. 5, 030; En vigueur : 29-11-2017&gt;
+
+### CHAPITRE X. - De la liberté sous conditions et de la mise en liberté sous conditions.
+
+#### Art. 35
+
+§ 1. Dans les cas où la détention préventive peut être ordonnée ou maintenue dans les conditions prévues à l'article 16, § 1er, le juge d'instruction peut, d'office, sur réquisition du ministère public ou à la demande de l'inculpé, laisser l'intéressé en liberté en lui imposant de respecter une ou plusieurs conditions, pendant le temps qu'il détermine et pour un maximum de trois mois.
+
+[<sup>1</sup> Il peut interdire à l'intéressé d'exercer une activité qui le mettrait en contact avec des mineurs.]<sup>1</sup>
+
+[En vue de la détermination des conditions, le juge d'instruction peut faire procéder par [<sup>4</sup> le service compétents des communautés]<sup>4</sup> de l'arrondissement judiciaire du lieu de résidence de l'intéressé à une enquête sociale ou un rapport d'information succinct. Le Roi précise les modalités relatives au rapport d'information succinct et à l'enquête sociale.] &lt;L 2006-12-27/33, art. 48, 1°, 016; En vigueur : 07-01-2007&gt;
+
+[Ces rapports et ces enquêtes ne peuvent contenir que les éléments pertinents de nature à éclairer l'autorité qui a adressé la demande au service [<sup>4</sup> compétent des communautés]<sup>4</sup> sur l'opportunité de la mesure ou la peine envisagée.] &lt;L 2006-12-27/33, art. 48, 1°, 016; En vigueur : 07-01-2007&gt;
+
+§ 2. Toutes les décisions qui imposent une ou plusieurs conditions à l'inculpé ou au prévenu sont motivées, conformément aux dispositions de l'article 16, § 5, premier et deuxième alinéas.
+
+§ 3. Le juge arrête les conditions à imposer. Elles doivent viser [<sup>3</sup> l'une des raisons énoncées à l'article 16, § 1er, alinéa 4,]<sup>3</sup> et être adaptées à cette raison, compte tenu des circonstances de la cause.
+
+§ 4. Le juge peut également exiger le paiement préalable et intégral d'un cautionnement, dont il fixe le montant.
+
+Il peut motiver sa décision notamment sur la base de sérieux soupçons que des fonds ou des valeurs tirés de l'infraction ont été placés à l'étranger ou dissimulés.
+
+Le cautionnement est versé à la Caisse des dépôts et consignations, et le ministère public, au vu du récépissé, fait exécuter l'ordonnance ou l'arrêt de mise en liberté.
+
+Nonobstant le délai fixé à l'article 35, § 1er, et sans préjudice de l'application de l'article 36, le cautionnement est restitué si l'inculpé s'est présenté à tous les actes de la procédure et pour l'exécution du jugement. Si la condamnation est conditionnelle, il suffit que l'inculpé se soit présenté à tous les actes de la procédure.
+
+Le cautionnement est attribué à l'Etat dès que l'inculpé, sans motif légitime d'excuse, est resté en défaut de se présenter à un acte quelconque de la procédure ou pour l'exécution du jugement. [<sup>2</sup> Néanmoins, en cas de renvoi des poursuites, d'acquittement, d'absolution, de condamnation conditionnelle ou de prescription de l'action publique, le jugement ou l'arrêt en ordonne la restitution, sauf prélèvement des frais extraordinaires auxquels le défaut de se présenter aura pu donner lieu.]<sup>2</sup>
+
+Le défaut, par l'inculpé, de s'être présenté à un acte de la procédure est constaté par le jugement ou l'arrêt de condamnation, lequel déclare, en même temps, que le cautionnement est acquis à l'Etat.
+
+Le défaut, par le condamné, de se présenter pour l'exécution du jugement est constaté, sur les réquisitions du ministère public, par le tribunal qui a prononcé la condamnation. Le jugement déclare, en même temps, que le cautionnement est acquis à l'Etat.
+
+§ 5. Le juge d'instruction et les juridictions d'instruction ou de jugement disposent des mêmes pouvoirs lorsqu'un inculpé ou un prévenu est mis en liberté.
+
+[§ 6. Si les conditions arrêtées conformément au § 3 imposent le suivi d'une guidance ou d'un traitement, le juge d'instruction ou la juridiction d'instruction ou de jugement, invite l'inculpé à choisir une personne compétente ou un service compétent. Ce choix est soumis à l'accord du juge ou de la juridiction.
+
+Ladite personne ou ledit service qui accepte la mission, adresse au juge ou à la juridiction [[<sup>4</sup> et au service compétent des communautés]<sup>4</sup> qui est chargé du soutien et du contrôle], dans le mois qui suit la libération, et chaque fois que cette personne ou ce service l'estime utile, ou sur l'invitation du juge ou de la juridiction, et au moins une fois tous les deux mois, un rapport de suivi sur la guidance ou le traitement. &lt;L 2006-12-27/33, art. 48, 2°, 016; En vigueur : 07-01-2007&gt;
+
+Le rapport visé à l'alinéa 2 porte sur les points suivants : les présences effectives de l'intéressé aux consultations proposées, les absences injustifiées, la cessation unilatérale de la guidance ou du traitement par la personne concernée, les difficultés survenues dans la mise en oeuvre de ceux-ci et les situations comportant un risque sérieux pour les tiers.
+
+Le service compétent ou la personne compétente est tenu d'informer le juge ou la juridiction de l'interruption de la guidance ou du traitement.] &lt;L 2000-11-28/35, art. 46, 009; En vigueur : 01-04-2001&gt;
+
+[<sup>4</sup> Le juge d'instruction ou, après la clôture de l'enquête judiciaire, le procureur du Roi procure à la personne ou au service compétents visés à l'alinéa 2, les données du dossier qui sont nécessaires pour le traitement ou la guidance de l'intéressé. Pour cela, moyennant l'accord du juge d'instruction ou du procureur du Roi, il peut être fait appel aux services compétents des communautés, à condition de leur octroyer l'autorisation nécessaire.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2009-07-31/20, art. 8, 017; En vigueur : 30-06-2009&gt;
+
+(2)&lt;L 2009-12-30/14, art. 14, 019; En vigueur : 25-01-2010&gt;
+
+(3)&lt;L 2012-12-27/29, art. 9, 022; En vigueur : 01-01-2014&gt;
+
+(4)&lt;L 2024-01-18/06, art. 55, 037; En vigueur : 05-02-2024&gt;
+
+#### Art. 36
+
+§ 1. Au cours de l'instruction judiciaire, le juge d'instruction peut, d'office ou sur réquisition du procureur du Roi, imposer une ou plusieurs conditions nouvelles, retirer, modifier ou prolonger, en tout ou en partie, des conditions déjà imposées.
+
+[La décision de prolongation des conditions est prise avant l'expiration du temps déterminé par le juge d'instruction conformément à l'article 35, § 1er. A défaut, les conditions sont caduques. Ces conditions peuvent être prolongées pour le délai qu'il détermine et pour un maximum de trois mois.] &lt;L 2005-05-31/32, art. 14, 014 ; En vigueur : 26-06-2005&gt;
+
+Il peut dispenser de l'observation de toutes les conditions ou de certaines d'entre elles.
+
+L'inculpé peut demander le retrait ou la modification de tout ou partie des conditions imposées; il peut aussi demander d'être dispensé des conditions ou de certaines d'entre elles.
+
+S'il n'est pas statué par la chambre du conseil sur la demande de l'inculpé dans les cinq jours, les mesures ordonnées sont caduques.
+
+§ 2. Lorsque, en réglant la procédure, la chambre du conseil renvoie l'inculpé devant le tribunal correctionnel [ou devant le tribunal de police] en raison d'un fait qui justifie l'application d'une condition visée à l'article 35, elle [<sup>1</sup> décide, par une ordonnance distincte et motivée conformément à l'article 16, §§ 1er et 5, alinéas 1er et 2, de maintenir ou non les conditions imposées jusqu'à ce qu'une décision sur le fond ayant acquis l'autorité de la chose jugée est prise ou qu'une une décision d'une date antérieure mettant fin aux poursuites intervient. Elle peut, d'office, à la demande du procureur du Roi ou à la demande de l'inculpé modifier, retirer ou dispenser de l'observation de tout ou partie des conditions]<sup>1</sup>. Elle ne peut en imposer de nouvelles. &lt;L 1994-07-11/33, art. 19, 003; En vigueur : 01-01-1995&gt;
+
+§ 3. Après clôture de l'instruction judiciaire, et sur réquisition du procureur du Roi ou à la requête de l'inculpé, la juridiction de jugement saisie de la cause peut [<sup>1</sup> modifier, retirer ou dispenser de l'observation de tout ou partie des conditions.]<sup>1</sup> Elle ne peut en imposer de nouvelles.
+
+[<sup>1</sup> § 4. Les décisions et ordonnances visées aux paragraphes 1 à 3 prennent effet à la date de la décision ou de l'ordonnance.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-01-18/06, art. 56, 037; En vigueur : 05-02-2024&gt;
+
+#### Art. 37
+
+Les décisions prises en application des articles 35 et 36 sont signifiées aux parties dans les formes prévues en matière de détention préventive et sont susceptibles des mêmes recours que les décisions prises en cette matière.
+
+[<sup>1</sup> Les décisions prises en application de l'article 35, § 1er, alinéa 2, de même que les décisions de retrait, de modification ou de prolongation de ces décisions, sont transmises [<sup>2</sup> au Casier judiciaire central et]<sup>2</sup> au service de police de la commune où l'intéressé a son domicile ou sa résidence. [<sup>2</sup> ...]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-07-31/20, art. 9, 017; En vigueur : 30-06-2009&gt;
+
+(2)&lt;L 2016-12-25/14, art. 106, 029; En vigueur : 09-01-2017&gt;
+
+#### Art. 38
+
+§ 1. [<sup>1</sup> Les services compétents des communautés peuvent être mandatés pour l'aide et la vérification du respect des conditions de guidance. A cette fin, une copie de la décision ou de l'ordonnance imposant, maintenant, modifiant ou retirant une condition de guidance ou accordant une dispense leur est communiquée.
+
+Dans le cadre du contrôle du respect des conditions de guidance, le service compétent des communautés adresse pendant l'instruction judiciaire un rapport au juge d'instruction au moins quinze jours avant l'expiration du délai qu'il a imposé et en adresse une copie au procureur du Roi.
+
+Après la clôture de l'instruction judiciaire, le service compétent des communautés adresse un rapport au procureur du Roi chaque fois que celui-ci le demande, et au moins tous les six mois.
+
+Le service compétent des communautés peut établir un rapport chaque fois qu'il l'estime utile.
+
+Le contrôle d'une guidance ou d'un traitement s'effectue conformément à l'article 35, § 6.
+
+Le respect des conditions d'interdiction est contrôlé par les services de police.]<sup>1</sup>
+
+§ 2. Lorsque les conditions ne sont pas observées, le juge d'instruction, le tribunal ou la cour d'appel, selon le cas, peut décerner un mandat d'arrêt, dans les conditions prévues à l'article 28.
+
+----------
+
+(1)&lt;L 2024-01-18/06, art. 57, 037; En vigueur : 05-02-2024&gt;
+
+#### Art. 38bis
+
+&lt;inséré par L 2006-12-27/33, art. 50; En vigueur : 07-01-2007&gt; Aux niveaux fédéral et local, des structures de concertation relatives à l'application de cette loi sont créées. Ces structures de concertation ont pour mission de réunir sur une base régulière les instances concernées par l'exécution de la présente loi afin d'évaluer leur collaboration. Le Roi arrête les modalités de composition et de fonctionnement de ces structures de concertation.
+
+### CHAPITRE XI. [<sup>1</sup> De l'information des victimes]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-03-02/18, art. 2, 041; En vigueur : 01-04-2024&gt;
+
+#### Art. 38ter
+
+[<sup>1</sup> La personne lésée ou partie civile constituée peut être informée du déroulement de la détention préventive du suspect d'[<sup>2</sup> une infraction]<sup>2</sup> menaçant ou portant atteinte à son intégrité physique et/ou psychique ou à celle d'un tiers qu'elle représente.
+
+L'information communiquée porte sur les éléments suivants:
+
+1° la délivrance ou la mainlevée d'un mandat d'arrêt;
+
+2° l'exécution de la détention préventive sous surveillance électronique;
+
+3° la décision de mise en liberté;
+
+4° les conditions imposées dans l'intérêt de la personne lésée ou partie civile constituée ainsi que l'imposition de nouvelles conditions, leur suppression partielle ou totale ou leur modification conformément à l'article 36 en cas de décision de libération sous condition ou sous caution et de décision de mise en liberté sous conditions.
+
+Sauf si cette notification entraîne un risque identifié de préjudice pour le suspect, le greffier informe la personne lésée ou la partie civile constituée, selon les règles fixées par le Roi, le plus rapidement possible et, au plus tard, dans les vingt-quatre heures par le moyen de communication le plus approprié.
+
+La notification, selon des modalités à définir par le Roi, est réalisée auprès de la personne lésée ou de la partie civile constituée.
+
+La personne lésée ou la partie civile constituée peut également solliciter que l'information soit communiquée en copie à son conseil ou aux services compétents des communautés. Dans cette dernière hypothèse, le Roi fixe la manière dont le greffier communique les informations aux services communautaires et aux services de police si nécessaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-03-02/18, art. 3, 041; En vigueur : 01-04-2024&gt;
+
+(2)&lt;L 2026-03-11/03, art. 243, 043; En vigueur : 01-09-2026&gt;
+
+## TITRE Ier/1. [<sup>1</sup> De l'utilisation de la vidéoconférence pour les audiences devant les juridictions d'instruction, les tribunaux et la Cour de cassation]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 31, 040; En vigueur : 01-09-2024&gt;
+
+#### Art. 38quater
+
+[<sup>1</sup> Les articles 556 à 562 et 565 à 567 du Code d'instruction criminelle s'appliquent dans la mesure où il n'y est pas dérogé par le présent titre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 32, 040; En vigueur : 01-09-2024&gt;
+
+#### Art. 38quinquies
+
+[<sup>1</sup> § 1er. Les juridictions d'instruction, les tribunaux et la Cour de cassation peuvent d'initiative inviter l'inculpé et le ministère public à comparaitre ou participer à l'audience par vidéoconférence, moyennant leur accord, chacun pour ce qui concerne sa comparution ou participation, s'ils estiment que les conditions suivantes sont réunies:
+
+1° l'usage de la vidéoconférence est compatible avec les circonstances particulières de l'affaire;
+
+2° les garanties auxquelles doit répondre le système de vidéoconférence conformément à l'article 558, §§ 1er et 2, du Code d'instruction criminelle sont réunies.
+
+Pour l'évaluation des circonstances particulières de l'affaire visée à l'alinéa 1er, il est notamment tenu compte de la durée de la procédure, de la nature du litige, de la complexité de l'affaire, de l'assistance d'un avocat, de la possibilité d'interaction, de la phase de la procédure, des possibilités de recours, de la capacité technique des prisons, de la situation de résidence dans laquelle se trouve l'inculpé, de la situation physique ou psychique et de la situation de vulnérabilité de l'inculpé.
+
+La convocation à l'audience contient l'invitation de comparaitre par vidéoconférence.
+
+A l'égard de l'inculpé à qui une invitation à comparaitre par vidéoconférence a été notifiée et qui ne comparait ni par vidéoconférence, ni au lieu où siège la juridiction et à l'heure indiquée dans la convocation, la règle visée à l'article 23, 2°, s'applique.
+
+§ 2. L'inculpé et le ministère public peuvent demander à la juridiction l'autorisation de comparaître ou de participer à l'audience par vidéoconférence. Cette demande est communiquée au plus tard le cinquième jour avant l'audience par voie électronique au greffe de la juridiction devant laquelle l'inculpé ou le ministère public doit comparaître ou être entendu ainsi qu'aux parties.
+
+La juridiction d'instruction, le tribunal ou la Cour de cassation peut faire droit à cette demande s'il estime que les conditions suivantes sont réunies:
+
+1° l'usage de la vidéoconférence est compatible avec les circonstances particulières de l'affaire, évaluées comme visé au paragraphe 1er, alinéa 2;
+
+2° les garanties auxquelles doit répondre le système de vidéoconférence conformément à l'article 558, §§ 1er et 2, du Code d'instruction criminelle sont réunies.
+
+Le greffe de la juridiction notifie cette décision à l'inculpé ainsi qu'au ministère public, au plus tard le troisième jour avant l'audience.
+
+A l'égard de l'inculpé qui a demandé de comparaitre par vidéoconférence, à qui une autorisation a été notifiée et qui ne comparait ni par vidéoconférence ni au lieu où siège la juridiction et à l'heure indiquée dans la convocation, la règle visée à l'article 23, 2°, s'applique.
+
+§ 3. Les juridictions d'instruction, les tribunaux et la Cour de cassation peuvent, par décision motivée, interdire l'inculpé ou le ministère public de comparaitre ou de participer à l'audience physiquement, s'ils estiment que les conditions suivantes sont réunies:
+
+1° l'usage de la vidéoconférence est compatible avec les circonstances particulières de l'affaire, qui sont évaluées comme visé au paragraphe 1er, alinéa 2;
+
+2° les garanties auxquelles doit répondre le système de vidéoconférence conformément à l'article 558, §§ 1er et 2, du Code d'instruction criminelle sont réunies;
+
+3° lorsque la vidéoconférence est l'unique possibilité de participer à l'audience car:
+
+a) une situation d'urgence épidémique est déclarée conformément à l'article 3, § 1er, de la loi du 14 août 2021 relative aux mesures de police administrative lors d'une situation d'urgence épidémique et des mesures de police administrative empêchant la comparution physique à l'audience ou ayant pour conséquence d'empêcher une telle comparution physique sont adoptées; ou
+
+b) il existe des indices objectivables d'un risque grave et concret pour la sécurité publique qui empêche que la personne concernée soit présente à l'audience ou que le transport vers la salle d'audience en sécurité soit garanti lorsque la personne concernée est détenue.
+
+La convocation contient l'interdiction de comparaitre physiquement. Le greffe de la juridiction communique également cette décision sans délai au ministère public.
+
+Cette décision n'est pas susceptible de recours distinct.
+
+A l'égard de l'inculpé à qui une interdiction de comparaitre physiquement a été notifié et qui ne comparait pas à l'audience par vidéoconférence, la règle visée à l'article 23, 2°, s'applique.
+
+§ 4. La comparution par vidéoconférence de l'inculpé ou la participation par vidéoconférence du ministère public, lorsqu'il y est invité en vertu du paragraphe 1er, a lieu moyennant leurs accords respectifs. L'inculpé qui est privé de sa liberté communique son accord au plus tard le troisième jour avant l'audience. Sauf en ce qui concerne l'inculpé qui est privé de sa liberté, la connexion au système de vidéoconférence aux jour et heure indiqués dans la convocation vaut également accord.
+
+L'inculpé ou le ministère public ayant été autorisé à comparaitre ou participer par vidéoconférence en vertu du paragraphe 2 est présumé avoir marqué son accord à comparaitre ou participer par vidéoconférence.
+
+Sauf en ce qui concerne l'inculpé qui est privé de sa liberté, la partie ayant communiqué son accord à comparaitre ou participer à l'audience par vidéoconférence ou y ayant été autorisée, a toujours le droit de décider, avant le début de l'audience, de comparaitre ou participer à l'audience dans le lieu où la juridiction siège.
+
+Au début de chaque audience, la juridiction vérifie que l'accord est libre et éclairé. Le procès-verbal de l'audience en fait mention.
+
+§ 5. Si la juridiction constate, au cours de l'audience, d'office ou sur indication d'une des personnes participant à l'audience, que les garanties visées à l'article 558, §§ 1er et 2, du Code d'instruction criminelle, ou le cas échéant, les conditions visées à l'article 38sexies, ne sont plus réunies, celle-ci ordonne:
+
+1° la suspension de l'audience jusqu'à ce que ces conditions soient à nouveaux réunies;
+
+2° le cas échéant, la poursuite du procès à une autre date, soit par vidéoconférence, soit dans la salle d'audience en présence physique de toutes les personnes qui comparaissent par vidéoconférence, si elle constate que les garanties et conditions précitées ne peuvent être à nouveau réunies dans les plus brefs délais après avoir pris connaissance de la position des personnes participant à l'audience. Le juge indique les motifs de cette décision dans le procès-verbal d'audience.
+
+Si la juridiction constate, au cours de l'audience par vidéoconférence, d'office ou sur indication d'une des personnes participant à l'audience, que le recours à la vidéoconférence n'est pas ou plus compatible avec les circonstances particulières de l'affaire ou, le cas échéant, que la situation d'urgence épidémique ou le risque grave et concret pour la sécurité publique a cessé d'exister, celle-ci ordonne, après avoir pris connaissance de la position des parties, la reprise de l'audience en présence des personnes qui comparaissent par vidéoconférence dans les plus brefs délais. Le juge fait acter les raisons de cette décision dans le procès-verbal de l'audience.
+
+Lorsque la reprise de l'audience ne peut pas avoir lieu dans le délai prévu dans les articles 22 et 30 pour cause de force majeure, la juridiction peut prolonger ce délai de cinq jours. Cette décision de prolongation doit être prise à peine de nullité dans le délai de validité du titre de privation de liberté. L'audience doit avoir lieu dans ce délai. Les circonstances qui justifient cette manière d'agir doivent être mentionnées expressément dans le titre de privation de liberté qui prolonge la privation de liberté. Cette décision n'est susceptible d'aucun recours.
+
+§ 6. Toute notification par le greffe prévue dans le présent titre a lieu par voie électronique à l'adresse électronique professionnelle de l'avocat ou, s'il s'agit de l'inculpé non représenté par un avocat, à l'adresse judiciaire électronique du greffe de la prison ou, le cas échéant, à l'adresse judiciaire électronique de l'inculpé si la personne n'est pas détenue ou, à défaut, à la dernière adresse électronique que l'inculpé a fournie dans le cadre de la procédure. Si aucune adresse électronique n'est connue du greffier, ou si la notification à l'adresse électronique a manifestement échoué, la personne concernée ne peut comparaitre que physiquement dans la salle d'audience à l'audience à laquelle elle a été régulièrement convoquée par la juridiction. Lorsque l'interdiction de comparaitre physiquement n'a pas pu être notifiée, la juridiction peut remettre l'audience à une date ultérieure.
+
+§ 7. Les paragraphes 1er et 2 ne s'appliquent pas à la comparution prévue à l'article 21.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 33, 040; En vigueur : 01-09-2024&gt;
+
+#### Art. 38sexies
+
+[<sup>1</sup> Sauf lorsque la procédure doit se dérouler en audience publique, la comparution par vidéoconférence de l'inculpé n'est possible que si la vidéoconférence réunit les garanties visées à l'article 558, §§ 1er et 2, du Code d'instruction criminelle et que:
+
+1° lorsque l'inculpé est privé de sa liberté, un délégué du directeur de la prison ou, le cas échéant, son avocat lorsque celui-ci est présent, confirme à la juridiction que personne d'autre qu'eux-mêmes, l'inculpé et, le cas échéant, les personnes nommément désignées et autorisées par le juge à être présentes, n'est présent au lieu où ils se trouvent et ne peut autrement suivre ce qui est dit; ou
+
+2° que l'inculpé-même ou, le cas échéant, son avocat confirme à la juridiction que personne d'autre qu'eux-mêmes et, le cas échéant, les personnes nommément désignées et autorisées par le juge à être présentes, n'est présent au lieu où la personne se trouve au moment de la comparution et ne peut autrement suivre ce qui est dit; ou
+
+3° lorsque la juridiction estime que la présence de l'avocat ou, à défaut, d'un huissier de justice est requise auprès de l'inculpé, l'avocat ou, à défaut, l'huissier de justice confirme à la juridiction que personne d'autre que lui-même, la personne concernée et, le cas échéant, les personnes nommément désignées et autorisées par le juge à être présentes, n'est présent au lieu où la personne se trouve au moment de la comparution, et ne peut suivre autrement ce qui y est dit.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 34, 040; En vigueur : 01-09-2024&gt;
+
+#### Art. 38septies
+
+[<sup>1</sup> L'article 38quinquies ne s'applique pas à l'inculpé qui est privé de sa liberté dans les cas où la chambre du conseil ou la chambre des mises en accusation siège dans la partie administrative de la prison conformément aux articles 76, § 5, et 101, § 3, du Code judiciaire. Son avocat peut toutefois participer à l'audience par vidéoconférence.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 35, 040; En vigueur : 01-09-2024&gt;
+
+#### Art. 38octies
+
+[<sup>1</sup> Dans les cas où la chambre du conseil siège en prison conformément à l'article 76, § 5, du Code judiciaire, le juge d'instruction peut participer à l'audience par vidéoconférence, moyennant l'autorisation de la chambre du conseil et moyennant l'autorisation de son chef de corps si les conditions suivantes sont réunies:
+
+1° l'usage de la vidéoconférence est compatible avec les circonstances particulières de l'affaire;
+
+2° les garanties auxquelles doit répondre le système de vidéoconférence conformément à l'article 558, §§ 1er et 2, du Code d'instruction criminelle sont réunies.
+
+Pour l'évaluation des circonstances particulières de l'affaire visée à l'alinéa 1er, il est notamment tenu compte de la durée de la procédure, de la possibilité d'interaction, de la phase de la procédure, des possibilités de recours, de la capacité technique des prisons et de la situation de vulnérabilité dans laquelle se trouve l'inculpé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 36, 040; En vigueur : 01-09-2024&gt;
+
+## TITRE II. - Dispositions finales, modificatives et abrogatoires.
+
+#### Art. 39
+
+&lt;Disposition modificative de l'art. 128 du CIC 1808-11-17/30&gt;
+
+#### Art. 40
+
+&lt;Disposition modificative de l'art. 129, 1er Alinéa, du CIC 1808-11-17/30&gt;
+
+#### Art. 41
+
+&lt;Disposition modificative de l'art. 133, 1er Alinéa, du CIC 1808-11-17/30&gt;
+
+#### Art. 42
+
+&lt;Disposition modoficative de l'art. 135 du CIC 1808-11-17/30&gt;
+
+#### Art. 43
+
+L'article 24 de la loi du 20 avril 1874 relative à la détention préventive modifié par l'arrêté-loi du 1er février 1947 et par les lois du 27 mars 1969 et du 18 juin 1985, forme l'article 89bis du Code d'instruction criminelle.
+
+#### Art. 44
+
+L'article 25 de la même loi, modifié par la loi du 4 juillet 1989, forme l'article 90bis du Code d'instruction criminelle, sous l'intitulé " § 5. - De l'exploration corporelle ", inséré dans le chapitre VI du livre Ier du même Code.
+
+#### Art. 45
+
+L'article 26 de la même loi forme l'article 136bis du même Code.
+
+#### Art. 46
+
+A l'article 1er de la loi du 9 avril 1930 de défense sociale à l'égard des anormaux et des délinquants d'habitude, modifié par la loi du 1er juillet 1964, sont apportées les modifications suivantes :
+
+1° à l'alinéa 2, les mots " par dérogation aux dispositions de l'article 5 de la loi du 20 avril 1874 " sont supprimés;
+
+2° à l'alinéa 5, les mots " dans les formes prévues à l'article 4 de la loi du 20 avril 1874 " sont remplacés par les mots " dans les formes prévues à l'article 21 de la loi du 20 juillet 1990 relative à la détention préventive ".
+
+#### Art. 47
+
+La présente loi ne modifie pas les lois relatives à la répression de la fraude en matière de douanes et accises.
+
+#### Art. 48
+
+1° a) &lt;Disposition abrogative de l'art. 91 à 112 du CIC 1808-11-17/30&gt;
+
+b) &lt;Disposition abrogative de l'art. 130, Alinéa 2, du CIC 1808-11-17/30&gt;
+
+c) &lt;Disposition abrogative de l'art. 131 du CIC 1808-11-17/30&gt;
+
+d) &lt;Disposition abrogative de l'art. 134 du CIC 1808-11-17/30&gt;
+
+e) &lt;Disposition abrogative de l'art. 232 du CIC 1808-12-09/30&gt;
+
+2° &lt;Disposition abrogative de l'art. 1 à 23 de la LDP 1874-04-20/30&gt;
+
+L'intitulé de la loi du 20 avril 1874 relative à la détention préventive est remplacé par l'intitulé suivant : " Loi du 13 mars 1973 relative à l'indemnité en cas de détention préventive inopérante ".
+
+#### Art. 49
+
+La présente loi entre en vigueur le premier jour du quatrième mois qui suit sa publication au Moniteur belge.

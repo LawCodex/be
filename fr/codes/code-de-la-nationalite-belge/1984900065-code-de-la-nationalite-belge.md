@@ -1,0 +1,972 @@
+---
+title: "Code de la nationalité belge"
+identifier: "1984900065"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1984/06/28/1984900065/justel"
+type: code
+justel_type: "CODE DE LA NATIONALITE BELGE"
+jurisdiction: be
+language: fr
+date: 1984-06-28
+published: 1984-07-12
+entry_into_force: 1984-07-22
+last_amended: 2026-03-10
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1984/06/28/1984900065/justel"
+department: "Justice"
+justel_note: "Consultation des versions antérieures à partir du 06-07-1991 et mise à jour au 10-03-2026"
+retrieved: 2026-10-11
+---
+
+# 28 JUIN 1984. - Code de la nationalité belge
+
+## CHAPITRE 1er. - DISPOSITIONS GENERALES.
+
+#### Art. 1
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Dans le présent Code, l'obtention de la nationalité s'appelle acquisition ou attribution, suivant qu'elle est ou non subordonnée à un acte volontaire de l'intéressé tendant à cette obtention.
+
+[<sup>1</sup> § 2. Pour l'application de la présente loi, on entend par :
+
+1° résidence principale : le lieu de l'inscription au registre de la population, au registre des étrangers ou au registre d'attente;
+
+2° loi sur les étrangers : la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
+
+3° loi de régularisation : la loi du 22 décembre 1999 relative à la régularisation de séjour de certaines catégories d'étrangers séjournant sur le territoire du Royaume;
+
+4° faits personnels graves : des faits qui sont notamment :
+
+a) le fait de se trouver dans l'un des cas visés [<sup>2</sup> aux articles 23, 23/1 ou 23/2]<sup>2</sup>;
+
+b) le fait d'adhérer à un mouvement ou à une organisation considéré comme dangereux par la Sûreté de l'Etat;
+
+c) l'impossibilité de contrôler l'identité ou la résidence principale ou de garantir l'identité;
+
+d) le fait que le juge ait infligé au demandeur une peine définitive, coulée en force de chose jugée, en raison d'une quelconque forme de fraude fiscale ou sociale.
+
+5° preuve de la connaissance d'une des trois langues nationales : la connaissance minimale d'une des trois langues nationales correspondant au niveau A2 du Cadre européen commun de référence pour les langues. Cette preuve doit être rapportée par les moyens de preuve définis dans un arrêté royal délibéré en Conseil des ministres. [<sup>3</sup> Pour la personne analphabète au sens du présent Code, seule la preuve d'une connaissance orale correspondant au niveau A2 du Cadre européen commun de référence pour les langues, est exigée]<sup>3</sup>;
+
+6° jour ouvrable : le jour ouvrable visé à l'article 53 du Code judiciaire;
+
+7° journée de travail : les journées de travail et les journées de travail assimilées au sens des articles 37 et 38 de l'arrêté royal du 25 novembre 1991 portant réglementation du chômage, étant entendu que le travail effectué à l'étranger et les journées y assimilées ne sont pas pris en compte. Si, au cours de la période de référence de cinq ans, l'étranger a travaillé, d'une part, comme travailleur salarié et/ou agent statutaire nommé dans la fonction publique et, d'autre part, comme travailleur indépendant à titre principal, chaque trimestre presté comme indépendant à titre principal sera comptabilisé à raison de 78 journées de travail. Le travail à temps partiel, exprimé en heures, est pris en compte suivant la formule utilisée en application de l'arrêté royal du 25 novembre 1991 portant réglementation du chômage et de ses arrêtés ministériels d'exécution;
+
+8° fraude sociale : toute infraction à une législation sociale;
+
+9° fraude fiscale : toute infraction aux codes fiscaux ou à leurs arrêtés d'exécution commise avec une intention frauduleuse ou à dessein de nuire;
+
+[<sup>3</sup> 10° personne analphabète: la personne qui possède les connaissances linguistiques orales exigées mais qui ne possède pas les compétences et notions linguistiques de base lui permettant d'acquérir les connaissances écrites correspondant au niveau A2 du Cadre européen commun de référence pour les langues, même en participant aux formations organisées à cet effet par l'autorité communautaire compétente. Le respect de ces conditions est attesté par l'autorité communautaire compétente.]<sup>3</sup>
+
+La liste des faits personnels graves visés au 4° peut être complétée par le Roi, par arrêté délibéré en Conseil des ministres.]<sup>1</sup>
+
+(NOTE : par son arrêt n° 96/2024 du 19-09-2024 (2024-09-19/01, M.B. 17-10-2024, p. 121929), la Cour constitutionnelle a annulé l'article 1er, § 2, 5°, du Code de la nationalité belge, tel qu'il était applicable avant sa modification par l'article 122, 1°, de la loi du 28 mars 2024 " portant dispositions en matière de digitalisation de la justice et dispositions diverses Ibis ", et l'article 12bis, § 1er, du même Code, en ce que ces dispositions ne prévoient pas, à l'égard des étrangers qui sont analphabètes, qui possèdent les compétences linguistiques orales exigées et qui, parce qu'il leur manque des compétences et notions linguistiques de base, ne sont pas en mesure d'acquérir les aptitudes écrites correspondant à ce niveau, même en participant aux formations organisées à cet effet, une exception à l'exigence de posséder une connaissance minimale d'une des langues nationales correspondant au niveau A2 du Cadre européen commun de référence pour les langues.)
+
+----------
+
+(1)&lt;L 2012-12-04/04, art. 2, 010; En vigueur : 01-01-2013&gt;
+
+(2)&lt;L 2015-07-20/08, art. 4, 015; En vigueur : 15-08-2015&gt;
+
+(3)&lt;L 2024-03-28/60, art. 122, 022; En vigueur : 08-04-2024&gt;
+
+#### Art. 2
+
+L'attribution, l'acquisition, la perte ou le recouvrement de la nationalité belge, de quelque cause qu'ils procèdent, ne produisent d'effet que pour l'avenir.
+
+#### Art. 3
+
+La filiation n'a d'effet de plein droit en matière de nationalité belge que si elle est établie avant que l'enfant n'atteigne l'âge de dix-huit ans ou ne soit émancipé avant cet âge.
+
+#### Art. 4
+
+La preuve de la nationalité belge est faite en établissant l'existence des conditions et formalités requises par la loi belge.
+
+Toutefois, lorsque la nationalité belge trouve sa seule source dans la filiation ou l'adoption, elle est tenue pour établie, sauf preuve contraire, si la personne dont l'intéressé prétend tenir cette nationalité a joui d'une manière constante de la possession d'état de Belge.
+
+La possession d'état de Belge s'acquiert par l'exercice des droits qui sont conférés exclusivement aux Belges.
+
+#### Art. 5
+
+&lt;L 2000-03-01/49, art. 2, 007; En vigueur : 01-05-2000&gt; § 1er. [<sup>3</sup> En cas d'impossibilité de se procurer un acte de naissance dans le cadre des procédures d'obtention de la nationalité belge, l'intéressé peut produire afin de suppléer à l'acte de naissance :
+
+1° si son acte de naissance a été dressé dans un pays pour lequel l'impossibilité ou les difficultés sérieuses d'obtenir l'acte d'état civil en question ont été admises :
+
+a) soit un document équivalent délivré par les autorités diplomatiques ou consulaires de son pays de naissance;
+
+b) soit en cas d'impossibilité ou de difficultés sérieuses à se procurer ce dernier document, un acte de notoriété délivré par le juge de paix de sa résidence principale;
+
+2° si son acte de naissance n'a pas été dressé dans un pays pour lequel l'impossibilité ou les difficultés sérieuses d'obtenir l'acte d'état civil en question ont été admises, un acte de notoriété délivré par le juge de paix de sa résidence principale.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres et sur proposition du ministre des Affaires étrangères, la liste des pays pour lesquels l'impossibilité ou les difficultés sérieuses, visées à l'alinéa 1er, 1°, sont admises.]<sup>3</sup>
+
+§ 2. L'acte de notoriété contiendra la déclaration faite par deux témoins, de l'un ou de l'autre sexe, parents ou non parents, des prénoms, nom, profession et domicile de l'intéressé et de ceux de ses père et mère, s'ils sont connus; le lieu et, autant que possible, l'époque de sa naissance et les causes qui empêchent de produire l'acte de naissance. Les témoins signeront l'acte de notoriété avec le juge de paix et, s'il est des témoins qui ne puissent ou ne sachent signer, il en sera fait mention.
+
+§ 3. L'acte de notoriété sera présenté au tribunal de [<sup>2</sup> la famille]<sup>2</sup> du ressort. Le tribunal, après avoir entendu le procureur du Roi, donnera ou refusera son homologation, selon qu'il trouvera suffisantes ou insuffisantes les déclarations des témoins, et les causes qui empêchent de produire l'acte de naissance.
+
+§ 4. Si l'intéressé est dans l'impossibilité de se procurer cet acte de notoriété, il peut y être suppléé, avec l'autorisation du tribunal, donnée sur requête, le ministère public entendu, par une déclaration sous serment de l'intéressé lui-même.
+
+[<sup>4</sup> § 5. Toute personne qui a déjà obtenu un acte de notoriété ou qui a déjà été autorisée par le tribunal à faire une déclaration sous serment et qui établit qu'elle est toujours dans l'impossibilité de produire son acte de naissance, peut le suppléer par cet acte de notoriété ou cette autorisation, pour autant que l'exactitude des données qu'il contient ne soit pas réfutée.
+
+L'acte de notoriété homologué ou l'autorisation de faire une déclaration sous serment sont enregistrées en tant qu'annexe dans la BAEC.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2012-12-04/04, art. 3, 010; En vigueur : 01-01-2013&gt;
+
+(2)&lt;L 2013-07-30/23, art. 261, 014; En vigueur : 01-09-2014&gt;
+
+(3)&lt;L 2018-06-18/03, art. 137, 017; En vigueur : 12-07-2018&gt;
+
+(4)&lt;L 2023-09-13/08, art. 77, 019; En vigueur : 01-01-2024&gt;
+
+#### Art. 6
+
+Tout acte juridique ayant pour objet l'attribution, l'acquisition, la conservation, la perte ou le recouvrement de la nationalité belge peut être accompli en vertu d'une procuration spéciale et authentique.
+
+#### Art. 7
+
+Les personnes qui sont incapables en raison d'une déficience mentale sont représentées, pour accomplir des actes juridiques en matière de nationalité, par leur représentant légal.
+
+Les personnes pourvues d'un administrateur [<sup>1</sup> ...]<sup>1</sup> peuvent être représentées par ce dernier.
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 207, 012; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+#### Art. 7bis
+
+[<sup>1</sup> § 1er. Pour l'application des dispositions du présent Code en matière d'acquisition ou de recouvrement de la nationalité belge, l'étranger doit avoir fixé sa résidence principale en Belgique sur la base d'un séjour légal, et ce, aussi bien au moment de l'introduction de sa demande ou déclaration que durant la période la précédant immédiatement. Tant le séjour légal que la résidence principale doivent être ininterrompus.
+
+§ 2. On entend par séjour légal :
+
+1° en ce qui concerne le moment de l'introduction de la demande ou déclaration : avoir été admis ou autorisé au séjour illimité dans le Royaume ou à s'y établir en vertu de la loi sur les étrangers;
+
+2° en ce qui concerne la période qui précède : avoir été admis ou autorisé à séjourner plus de trois mois dans le Royaume ou autorisé à s'y établir conformément à la loi sur les étrangers ou la loi de régularisation.
+
+[<sup>2</sup> Pour les citoyens de l'Union européenne et les membres de leur famille visés à l'article 40bis de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers, la période entre la date d'introduction de leur demande et la date à laquelle ce droit de séjour leur est reconnu est assimilée à un séjour autorisé au sens du paragraphe 2, 2°.
+
+Pour les réfugiés reconnus selon la Convention internationale relative au statut des réfugiés, signée à Genève le 28 juillet 1951, la période entre la date du dépôt de leur demande de protection internationale et la date de la reconnaissance du statut de réfugié par le ministre compétent est assimilée à un séjour autorisé au sens du paragraphe 2, 2°.]<sup>2</sup>
+
+[<sup>3</sup> Pour les époux des agents de la carrière extérieure et de la carrière consulaire affectés dans une mission diplomatique ou dans un poste consulaire de carrière et par analogie pour les époux des représentants des Communautés et Régions à l'étranger, sont assimilées au séjour légal au sens de l'alinéa 1er, 2°, les périodes passées à l'étranger, dans le cadre des affectations spécifiques à la carrière de leur époux, suivant ou précédant immédiatement les périodes passées sur le territoire belge dans ce même cadre. Le Roi détermine, sur proposition du ministre des Affaires étrangères, les documents établissant que le séjour à l'étranger du demandeur est effectivement imposé par les affectations spécifiques à la carrière de son époux.]<sup>3</sup>
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, les documents qui seront pris en considération en tant que preuve du séjour visé à l'alinéa 1er.
+
+§ 3. Dans les cas prévus par le présent Code, le caractère ininterrompu du séjour défini au § 2 n'est pas affecté par des absences temporaires de six mois maximum et ce, pour autant que ces absences ne dépassent pas au total une durée d'un cinquième des délais requis par le présent Code dans le cadre de l'acquisition de la nationalité.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2012-12-04/04, art. 4, 010; En vigueur : 01-01-2013&gt;
+
+(2)&lt;L 2018-06-18/03, art. 138, 017; En vigueur : 12-07-2018&gt;
+
+(3)&lt;L 2024-05-15/15, art. 2, 023; En vigueur : 01-01-2025&gt;
+
+#### Art. 7ter
+
+[<sup>1</sup> Dans les cas où la filiation cesse d'être établie à l'égard d'un auteur belge, le retrait de plein droit de la nationalité belge de l'enfant n'intervient pas si le jugement prononçant l'anéantissement de la filiation a décidé du maintien de la nationalité belge, conformément à l'article 334quater de l'ancien Code civil.
+
+En cas de retrait de la nationalité belge, l'officier de l'état civil compétent notifie immédiatement ce retrait à l'intéressé ou à son représentant légal par envoi recommandé.
+
+A moins qu'un juge ne se soit déjà prononcé sur le maintien de la nationalité belge conformément à l'article 334quater de l'ancien Code civil, la notification mentionne que ce retrait peut faire l'objet d'un recours devant le tribunal de la famille dans les quinze jours de cette notification.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-28/60, art. 166, 022; En vigueur : 08-04-2024&gt;
+
+## CHAPITRE II. \_ ATTRIBUTION DE LA NATIONALITE BELGE.
+
+### Section 1. - Attribution de la nationalité belge en raison de la nationalité du père ou de la mère.
+
+#### Art. 8
+
+§ 1er. Sont Belges:
+
+1° l'enfant né en Belgique d'un auteur belge;
+
+2° l'enfant né à l'étranger:
+
+a) d'un auteur belge né en Belgique ou dans des territoires soumis à la souveraineté belge ou confiés à l'administration de la Belgique;
+
+b) d'un auteur belge ayant fait dans un délai de cinq ans à dater de la naissance une déclaration réclamant, pour son enfant, l'attribution de la nationalité belge;
+
+c) d'un auteur belge, à condition que l'enfant ne possède pas, ou ne conserve pas jusqu'à l'âge de dix-huit ans ou son émancipation avant cet âge, une autre nationalité.
+
+[<sup>1</sup> La déclaration visée à l'alinéa 1er, 2°, b, est faite, et, sur la base de celle-ci, un acte de nationalité est établi conformément à l'article 22, § 4.
+
+La déclaration a effet à compter de l'établissement de l'acte de nationalité.]<sup>1</sup>
+
+Celui à qui la nationalité belge a été attribuée en vertu du premier alinéa, 2°, c, conserve cette nationalité tant qu'il n'a pas été établi, avant qu'il n'ait atteint l'âge de dix-huit ans ou n'ait été émancipé avant cet âge, qu'il possède une nationalité étrangère.
+
+§ 2. Pour l'application du paragraphe 1er, l'auteur doit avoir la nationalité belge au jour de la naissance de l'enfant ou, s'il est mort avant cette naissance, au jour de son décès.
+
+§ 3. La filiation établie à l'égard d'un auteur belge après la date du jugement ou de l'arrêt homologuant ou prononçant l'adoption n'attribue la nationalité belge à l'enfant que si cette filiation est établie à l'égard de l'adoptant ou du conjoint de celui-ci.
+
+§ 4. La personne à laquelle a été attribuée la nationalité belge de son auteur conserve cette nationalité si la filiation cesse d'être établie après qu'elle a atteint l'âge de dix-huit ans ou été émancipée avant cet âge. Si la filiation cesse d'être établie avant l'âge de dix-huit ans ou l'émancipation antérieure à cet âge, les actes passés avant que la filiation cesse d'être établie et dont la validité est subordonnée à la possession de la nationalité belge ne peuvent être contestés pour le seul motif que l'intéressé n'avait pas cette nationalité. Il en est de même des droits acquis avant la même date.
+
+(NOTE : par son arrêt n° 77/2024 du 04-07-2024 (2024-07-04/08, M.B. 24-07-2024, p. 88089), la Cour constitutionnelle a annulé l'article 8,§4, tel qu'il était applicable jusqu'à l'entrée en vigueur des articles 165 et 166 de la loi du 28 mars 2024 « portant dispositions en matière de digitalisation de la justice et dispositions diverses Ibis », en ce qu'il ne prévoit pas la possibilité, pour un mineur non émancipé qui a perdu de plein droit la nationalité belge parce que la filiation sur la base de laquelle cette nationalité a été attribuée a cessé d'être établie, de demander à une juridiction d'annuler rétroactivement cette perte lorsque les conséquences concrètes sont disproportionnées.)----------
+
+(1)&lt;L 2018-06-18/03, art. 91, 017; En vigueur : 31-03-2019&gt;
+
+### Section 2. - Attribution de la nationalité belge en raison d'une adoption.
+
+#### Art. 9
+
+[<sup>2</sup> § 1er.]<sup>2</sup> Devient Belge à la date à laquelle l'adoption produit ses effets, s'il n'a pas à cette date atteint l'âge de dix-huit ans ou n'est pas émancipé:
+
+1° l'enfant né en Belgique et adopté par un Belge;
+
+2° l'enfant né à l'étranger et adopté:
+
+a) par un Belge né en Belgique ou dans des territoires soumis à la souveraineté belge ou confiés à l'administration de la Belgique;
+
+b) par un Belge ayant fait, dans un délai de cinq ans à partir de la date à laquelle l'adoption produit ses effets, une déclaration réclamant l'attribution de la nationalité belge pour son enfant adoptif qui n'a pas atteint l'âge de dix-huit ans ou n'est pas émancipé avant cet âge;
+
+c) par un Belge, à condition que l'enfant ne possède pas une autre nationalité.
+
+[<sup>1</sup> La déclaration visée à l'alinéa 1er, 2°, b, est faite, et, sur la base de celle-ci, un acte de nationalité est établi, conformément à l'article 22, § 4.]<sup>1</sup>
+
+L'enfant auquel la nationalité belge a été attribuée en vertu du premier alinéa, 2°, c, conserve cette nationalité tant qu'il n'a pas été établi, avant qu'il n'ait atteint l'âge de dix-huit ans ou n'ait été émancipé avant cet âge, qu'il possède une nationalité étrangère.
+
+[<sup>2</sup> § 2. En cas de révision de l'adoption, telle que prévue à l'article 351 de l'ancien Code civil, ou de révocation de l'adoption, telle que prévue aux articles 354-1 à 354-3 de l'ancien Code civil, l'adopté conserve la nationalité belge.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 92, 017; En vigueur : 31-03-2019&gt;
+
+(2)&lt;L 2023-12-19/05, art. 74, 020; En vigueur : 06-01-2024&gt;
+
+### Section 3. - Attribution de la nationalité belge en raison de la naissance en Belgique [<sup>1</sup> ou par effet collectif d'un acte d'acquisition]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2012-12-04/04, art. 5, 010; En vigueur : 01-01-2013&gt;
+
+#### Art. 10
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Est Belge, l'enfant né en Belgique et qui, à un moment quelconque avant l'âge de dix-huit ans ou l'émancipation antérieure à cet âge [<sup>1</sup> ne possède aucune autre nationalité]<sup>1</sup>.
+
+[Toutefois, l'alinéa 1er ne s'appliquera pas si l'enfant peut obtenir une autre nationalité moyennant l'accomplissement par son ou ses représentants légaux d'une démarche administrative auprès des autorités diplomatiques ou consulaires du pays de ses auteurs ou de l'un de ceux-ci.] &lt;L 2006-12-27/32, art. 380, 009; En vigueur : 28-12-2006&gt;
+
+[<sup>1</sup> Le représentant légal de l'enfant transmet à l'officier de l'état civil du lieu de naissance de l'enfant toutes les pièces utiles dont il dispose. En cas de doute sur l'absence de nationalité de l'enfant, l'officier de l'état civil demande l'avis du procureur du Roi. Dans ce cas, il lui transmet une copie du dossier. L'avis est rendu à bref délai par le procureur du Roi.]<sup>1</sup>
+
+[<sup>1</sup> § 2.]<sup>1</sup> L'enfant nouveau-né trouvé en Belgique est présumé, jusqu'à preuve du contraire, être né en Belgique.
+
+[<sup>1</sup> § 3.]<sup>1</sup> L'enfant auquel la nationalité belge a été attribuée en vertu du présent article conserve cette nationalité tant qu'il n'a pas été établi, avant qu'il n'ait atteint l'âge de dix-huit ans ou n'ait été émancipé avant cet âge, qu'il possède une nationalité étrangère.
+
+----------
+
+(1)&lt;L 2022-12-06/02, art. 45, 018; En vigueur : 31-12-2022&gt;
+
+#### Art. 11
+
+[<sup>1</sup> [<sup>3</sup> ...]<sup>3</sup> Les enfants suivants sont Belges sur la base d'une naissance en Belgique :
+
+1° l'enfant né en Belgique, pour autant qu'un de ses [<sup>2</sup> auteurs]<sup>2</sup> au moins :
+
+a) soit né lui-même en Belgique;
+
+b) et ait eu sa résidence principale en Belgique durant cinq ans au cours des dix années précédant la naissance de l'enfant;
+
+2° l'enfant né en Belgique et adopté par un étranger, pour autant que l'adoptant :
+
+a) soit né lui-même en Belgique;
+
+b) et ait eu sa résidence principale en Belgique durant cinq ans au cours des dix années précédant la date à laquelle l'adoption produit ses effets.
+
+Si la filiation à l'égard [<sup>2</sup> d'un auteur]<sup>2</sup> visé à l'alinéa 1er, 1°, n'est établie qu'après la date du jugement ou de l'arrêt homologuant ou prononçant l'adoption, la nationalité belge n'est accordée à l'enfant que si la filiation est établie à l'égard de l'adoptant ou du conjoint de celui-ci.
+
+La personne à laquelle la nationalité belge a été accordée en vertu de l'alinéa 1er, 1°, conserve cette nationalité si elle a atteint l'âge de dix-huit ans ou qu'elle est émancipée au moment où sa filiation n'est plus établie. Si elle n'a pas atteint l'âge de dix-huit ans et qu'elle n'est pas émancipée, les actes passés lorsque la filiation était encore établie et pour lesquels l'état de Belge est requis ne peuvent être contestés pour le seul motif que l'intéressé n'avait pas cette nationalité. Il en est de même des droits acquis avant cette date.
+
+La nationalité belge accordée en vertu de l'alinéa 1er, 2°, est accordée à partir du jour où l'adoption produit ses effets, à moins qu'à cette date, l'enfant n'ait atteint l'âge de dix-huit ans ou soit émancipé.
+
+§ 2. [<sup>3</sup> ...]<sup>3</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2012-12-04/04, art. 6, 010; En vigueur : 01-01-2013&gt;
+
+(2)&lt;L 2014-04-25/23, art. 118, 013; En vigueur : 24-05-2014&gt;
+
+(3)&lt;L 2018-06-18/03, art. 139, 017; En vigueur : 12-07-2018&gt;
+
+#### Art. 11bis
+
+[<sup>1</sup> § 1er. Est Belge à la suite d'une déclaration faite par les auteurs ou par les adoptants, l'enfant né en Belgique et ayant, depuis sa naissance, sa résidence principale en Belgique et ce, pour autant que les auteurs ou les adoptants :
+
+a) fassent une déclaration avant que l'enfant n'ait atteint l'âge de douze ans;
+
+b) et aient eu leur résidence principale en Belgique pendant les dix années précédant la déclaration;
+
+c) et qu'au moins l'un d'entre eux soit admis ou autorisé à séjourner de manière illimitée en Belgique au moment de la déclaration.
+
+§ 2. Lorsque la filiation de l'enfant est établie à l'égard de ses deux auteurs, la déclaration visée au paragraphe 1er est faite conjointement par ceux-ci. Si l'enfant a été adopté par deux personnes, cette déclaration est faite conjointement par les deux adoptants.
+
+La déclaration d'un auteur ou d'un adoptant suffit si l'autre parent ou adoptant :
+
+a) est décédé;
+
+b) ou est dans l'impossibilité d'exprimer sa volonté;
+
+c) ou a été déclaré absent;
+
+d) ou n'a plus sa résidence principale en Belgique, mais consent à l'attribution de la nationalité belge.
+
+La déclaration faite par un auteur ou un adoptant suffit également si :
+
+a) la filiation de l'enfant n'est établie qu'à l'égard d'un de ses auteurs;
+
+b) ou si l'enfant n'a été adopté que par une seule personne, sauf si l'adoptant est le conjoint de l'auteur, auquel cas la déclaration est faite par les deux intéressés.
+
+§ 3. La déclaration est faite devant l'officier de l'état civil de la résidence principale de l'enfant.
+
+Si le nom ou le prénom d'un des intéressés n'est pas orthographié de la même façon dans le registre de la population, le registre des étrangers, le casier judiciaire ou les documents présentés, la demande est suspendue jusqu'à ce que l'orthographe ait été uniformisée dans tous les registres et documents.
+
+Si un des intéressés n'a pas de nom ou de prénom, l'officier de l'état civil propose au parent ou à l'adoptant d'introduire gratuitement une procédure conformément [<sup>2</sup> au livre Ier, titre VIII/1, chapitre 3 du Code civil]<sup>2</sup>, auquel cas la demande est suspendue jusqu'à ce que l'enfant ait un nom et un prénom.
+
+§ 4. L'officier de l'état civil examine l'exhaustivité de la déclaration dans les trente jours ouvrables qui suivent le dépôt de celle-ci.
+
+Lorsqu'une déclaration est incomplète, l'officier offre au déclarant ou aux déclarants la possibilité de réparer l'oubli dans un délai de deux mois. L'officier de l'état civil indique dans un formulaire établi par le Roi, par arrêté délibéré en Conseil des ministres, quelles sont les pièces qui font défaut dans la déclaration.
+
+S'il n'est pas ou pas suffisamment fait usage de la possibilité de réparer l'oubli, la déclaration est déclarée irrecevable.
+
+Si la déclaration est complète et recevable, l'officier de l'état civil délivre un récépissé, soit dans les trente-cinq jours ouvrables suivant le dépôt de la déclaration si la déclaration a immédiatement été jugée complète, soit dans les quinze jours ouvrables suivant l'expiration du délai accordé au déclarant ou aux déclarants pour réparer l'oubli.
+
+Si la déclaration est jugée incomplète, il en est donné connaissance par envoi recommandé dans les trente-cinq jours ouvrables suivant le dépôt de la déclaration ou dans les quinze jours ouvrables suivant l'expiration du délai accordé au déclarant ou aux déclarants pour réparer l'oubli.
+
+Si le récépissé ou le caractère incomplet de la déclaration n'a pas été notifié dans les délais, la déclaration est réputée complète. La déclaration expresse d'irrecevabilité est susceptible de recours en annulation devant la section du contentieux administratif du Conseil d'Etat, conformément à l'article 14, § 1er, des lois coordonnées du 12 janvier 1973 sur le Conseil d'Etat.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, et sur la proposition du ministre de la Justice, les actes et justificatifs à joindre à la demande pour apporter la preuve que les conditions sont réunies et que le dossier a été jugé complet, comme le prévoit l'alinéa 1er.
+
+L'officier de l'état civil transmet, pour avis, une copie de l'intégralité du dossier au procureur du Roi du tribunal de première instance du ressort, au plus tard dans les cinq jours ouvrables de la délivrance du récépissé. Le procureur du Roi en accuse réception sans délai.
+
+En même temps qu'il communique au procureur du Roi copie du dossier complet, l'officier de l'état civil en transmet également copie à l'Office des étrangers.
+
+§ 5. Dans un délai de quatre mois à compter de la date du récépissé visé au paragraphe 4, le procureur du Roi peut émettre un avis négatif sur l'attribution de la nationalité belge si la déclaration vise un autre but que l'intérêt de l'enfant à se voir attribuer la nationalité belge ou lorsque les conditions de base, qu'il doit indiquer, ne sont pas remplies.
+
+Si, en violation du paragraphe 4, alinéa 8, la déclaration visée au paragraphe 2 est communiquée tardivement dans le courant du dernier mois du délai, celui-ci est d'office prolongé d'un mois à dater de la communication du dossier au procureur du Roi.
+
+[<sup>2</sup> Si le procureur du Roi estime ne pas devoir émettre d'avis négatif, il envoie à l'officier de l'état civil une attestation signifiant l'absence d'avis négatif. Sur la base de la déclaration, un acte de nationalité est établi conformément à l'article 22, § 4.
+
+A l'expiration du délai de quatre mois, le cas échéant, prolongé conformément à l'alinéa 2, et, à défaut d'avis négatif ou de transmission d'une attestation signifiant l'absence d'avis négatif, un acte de nationalité est d'office établi, sur la base de la déclaration, conformément à l'article 22, § 4. Toutefois, à défaut de la transmission visée au paragraphe 4, alinéa 8, l'établissement de l'acte de nationalité n'a pas lieu et l'officier de l'état civil en informe immédiatement le déclarant ou les déclarants.
+
+Notification de l'établissement de l'acte de nationalité est faite au déclarant ou aux déclarants par l'officier de l'état civil.
+
+La déclaration a effet à compter de l'établissement de l'acte de nationalité.]<sup>2</sup>
+
+§ 6. L'avis négatif du procureur du Roi doit être motivé. Il est notifié à l'officier de l'état civil et, par envoi recommandé, au déclarant ou aux déclarants par les soins du procureur du Roi.
+
+§ 7. [<sup>2</sup> Le déclarant ou les déclarants peuvent inviter l'officier de l'état civil, par lettre recommandée, à transmettre leur dossier au tribunal de la famille dans les quinze jours suivant la réception de l'avis négatif visé au paragraphe 5 ou du non-établissement de l'acte de nationalité visé au paragraphe 5, alinéa 4, dernière phrase.
+
+Après avoir entendu ou appelé le ou les déclarants, le tribunal de la famille statue par voie de décision motivée sur le bien-fondé de l'absence d'établissement de l'acte de nationalité visée au paragraphe 5, alinéa 4, dernière phrase, ou sur l'avis négatif visé au paragraphe 5.
+
+La décision est notifiée au déclarant ou aux déclarants et au parquet par le greffe du tribunal de première instance. Dans les quinze jours de la notification, le déclarant ou les déclarants et le procureur du Roi peuvent interjeter appel de la décision par requête adressée à la chambre de la famille de la cour d'appel. La prorogation des délais en raison des vacances judiciaires a lieu conformément à l'article 50, alinéa 2, du Code judiciaire.
+
+La chambre de la famille de la cour d'appel statue, après avis du procureur général, et après avoir entendu ou appelé le déclarant ou les déclarants.
+
+Les notifications sont effectuées par pli judiciaire. Le calcul des délais en cas de notification a lieu conformément aux articles 52 et suivants du Code judiciaire.
+
+Le greffier transmet immédiatement à l'officier de l'état civil via la BAEC, les données de la décision passée en force de chose jugée par laquelle l'avis négatif est déclaré non fondé, nécessaires à l'établissement de l'acte de nationalité. Celui-ci établit l'acte de nationalité, conformément à l'article 22, § 4.
+
+La déclaration a effet à compter de l'établissement de l'acte de nationalité.]<sup>2</sup>
+
+§ 8. A défaut du consentement exigé au paragrahe 2, la déclaration peut néanmoins être souscrite par l'autre auteur ou adoptant, devant l'officier de l'état civil de la résidence principale de l'enfant. Celui-ci examine l'exhaustivité de la déclaration, comme le prévoient les alinéas 1er à 7 du paragrahe 4. L'officier de l'état civil communique au plus tard dans les cinq jours ouvrables de la délivrance du récépissé la déclaration au parquet du tribunal de première instance du ressort. Le procureur du Roi en dresse acte, sans délai. En même temps qu'il communique au procureur du Roi copie du dossier complet, l'officier de l'état civil en transmet également copie à l'Office des étrangers.
+
+Sur avis du procureur du Roi et après avoir entendu ou appelé les auteurs ou les adoptants, le tribunal de la famille se prononce sur l'agrément de la déclaration. Il l'agrée s'il estime le refus de consentement abusif et si la déclaration ne vise pas d'autre but que l'intérêt de l'enfant à se voir attribuer la nationalité belge. La décision doit être motivée.
+
+La décision est notifiée aux auteurs ou aux adoptants par les soins du procureur du Roi. Dans les quinze jours de la notification, les auteurs ou les adoptants et le procureur du Roi peuvent interjeter appel de la décision du tribunal, par requête adressée à la chambre de la famille de la cour d'appel. La cour statue, après avis du procureur général et après avoir entendu ou appelé les auteurs ou les adoptants.
+
+Les notifications sont effectuées par pli judiciaire. Le calcul des délais en cas de notification a lieu conformément aux articles 52 et suivants du Code judiciaire.
+
+[<sup>2</sup> Le dispositif de la décision définitive d'agrément qui est passée en force de chose jugée mentionne l'identité complète de l'enfant. Le greffier transmet immédiatement à l'officier de l'état civil les données nécessaires à l'établissement de l'acte de nationalité via la BAEC.
+
+Celui-ci établit immédiatement l'acte de nationalité sur la base de la déclaration visée à l'article 22, § 4.
+
+La déclaration a effet à compter de l'établissement de l'acte de nationalité.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 140, 017; En vigueur : 12-07-2018&gt;
+
+(2)&lt;L 2018-06-18/03, art. 93, 017; En vigueur : 31-03-2019&gt;
+
+### Section 4.
+
+&lt;Abrogé par L 2012-12-04/04, art. 5, 010; En vigueur : 01-01-2013&gt;
+
+#### Art. 12
+
+[<sup>1</sup> En cas d'acquisition volontaire ou de recouvrement de la nationalité belge par un auteur ou un adoptant qui exerce l'autorité sur la personne d'un enfant qui n'a pas atteint l'âge de dix-huit ans ou n'est pas émancipé avant cet âge, la nationalité belge est attribuée à ce dernier et ce, pour autant que celui-ci ait sa résidence principale en Belgique.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2012-12-04/04, art. 8, 010; En vigueur : 01-01-2013&gt;
+
+## CHAPITRE III. - ACQUISITION DE LA NATIONALITE BELGE.
+
+### Section 1. - Acquisition de la nationalité belge par déclaration de nationalité. &lt;Insérée par L 1991-06-13/31, art. 3, 003; En vigueur : 01-01-1992&gt;
+
+#### Art. 12bis
+
+[<sup>1</sup> § 1er. Peuvent acquérir la nationalité belge en faisant une déclaration conformément à l'article 15 :
+
+1° l'étranger qui :
+
+a) a atteint l'âge de dix-huit ans;
+
+b) et est né en Belgique et [<sup>3</sup> y a fixé sa résidence principale sur la base d'un séjour légal]<sup>3</sup> depuis sa naissance;
+
+2° l'étranger qui :
+
+a) a atteint l'âge de dix-huit ans;
+
+b) et [<sup>3</sup> a fixé sa résidence principale en Belgique sur la base d'un séjour légal]<sup>3</sup> depuis cinq ans;
+
+c) et apporte la preuve de la connaissance d'une des trois langues nationales;
+
+d) et prouve son intégration sociale :
+
+\- ou bien par un diplôme ou un certificat délivré par un établissement d'enseignement organisé, reconnu ou subventionné par une Communauté ou par l'Ecole royale militaire et qui est au moins du niveau de l'enseignement secondaire supérieur;
+
+\- ou bien en ayant suivi une formation professionnelle d'au moins 400 heures reconnue par une autorité compétente;
+
+\- ou bien en ayant [<sup>3</sup> , selon le cas, fourni la preuve délivrée par l'autorité compétente, du suivi avec succès du trajet d'intégration, du parcours d'accueil ou du parcours d'intégration prévu par l'autorité compétente de sa résidence principale au moment où il entame celui-ci]<sup>3</sup>;
+
+\- ou bien en ayant travaillé de manière ininterrompue au cours des cinq dernières années comme travailleur salarié et/ou comme agent statutaire nommé dans la fonction publique et/ou comme travailleur indépendant à titre principal;
+
+e) et prouve sa participation économique :
+
+\- soit en ayant travaillé pendant au moins 468 journées de travail au cours des cinq dernières années en tant que travailleur salarié et/ou agent statutaire dans la fonction publique;
+
+\- soit en ayant payé, en Belgique, dans le cadre d'une activité professionnelle indépendante exercée à titre principal, les cotisations sociales trimestrielles dues par les travailleurs indépendants pendant au moins six trimestres au cours des cinq dernières années;
+
+La durée de la formation suivie dans les cinq ans qui ont précédé la demande visée au 2°, d), premier et/ ou deuxième tirets, est déduite de la durée de l'activité professionnelle requise de 468 jours minimum ou de la durée de l'activité professionnelle indépendante à titre principal.
+
+3° l'étranger qui :
+
+a) a atteint l'âge de dix-huit ans;
+
+b) et [<sup>3</sup> a fixé sa résidence principale en Belgique sur la base d'un séjour légal]<sup>3</sup> depuis cinq ans;
+
+c) et apporte la preuve de la connaissance d'une des trois langues nationales;
+
+d) et est marié avec une personne de nationalité belge, si les époux ont vécu ensemble en Belgique pendant au moins trois ans, ou est [<sup>2</sup> l'auteur ou l'adoptant d'un enfant belge qui n'a pas atteint l'âge de dix-huit ans ou n'est pas émancipé avant cet âge]<sup>2</sup>;
+
+e) et prouve son intégration sociale :
+
+\- ou bien par un diplôme ou un certificat délivré par un établissement d'enseignement [<sup>2</sup> organisé]<sup>2</sup>, reconnu ou subventionné par une Communauté ou par l'Ecole royale militaire et qui est au moins du niveau de l'enseignement secondaire supérieur;
+
+\- ou bien en ayant suivi une formation professionnelle d'au moins 400 heures reconnue par une autorité compétente, et en ayant travaillé, au cours des cinq dernières années, pendant au moins 234 journées comme travailleur salarié et/ou comme agent statutaire nommé dans la fonction publique ou en ayant payé en Belgique, dans le cadre d'une activité professionnelle indépendante à titre principal, les cotisations sociales trimestrielles dues par les travailleurs indépendants pendant au moins trois trimestres;
+
+\- ou bien en ayant [<sup>3</sup> , selon le cas, fourni la preuve délivrée par l'autorité compétente, du suivi avec succès du trajet d'intégration, du parcours d'accueil ou du parcours d'intégration prévu par l'autorité compétente de sa résidence principale au moment où il entame celui-ci]<sup>3</sup>;
+
+4° l'étranger qui :
+
+a) a atteint l'âge de dix-huit ans;
+
+b) et [<sup>3</sup> a fixé sa résidence principale en Belgique sur la base d'un séjour légal]<sup>3</sup> depuis cinq ans;
+
+c) et apporte la preuve qu'il ne peut, en raison d'un handicap ou d'une invalidité, ni occuper un emploi ni exercer une activité économique, ou a atteint l'âge de la pension;
+
+5° l'étranger qui :
+
+a) a atteint l'âge de dix-huit ans;
+
+b) et [<sup>3</sup> a fixé sa résidence principale en Belgique sur la base d'un séjour légal]<sup>3</sup> depuis dix ans;
+
+c) et apporte la preuve de la connaissance d'une des trois langues nationales;
+
+d) et justifie de sa participation à la vie de sa communauté d'accueil. Cette preuve peut être apportée par toutes voies de droit, et contient des éléments attestant que le demandeur prend part à la vie économique et/ou socioculturelle de cette communauté d'accueil.
+
+§ 2. [<sup>3</sup> ...]<sup>3</sup>
+
+§ 3. La déclaration comporte, préalablement à la signature de l'étranger, la mention suivante, écrite de la main de l'étranger [<sup>4</sup> ou, lorsque celui-ci est dans l'incapacité de l'écrire à la main, prononcée oralement par l'étranger et inscrite par l'officier de l'état civil compétent]<sup>4</sup> : " Je déclare vouloir acquérir la nationalité belge et me soumettre à la Constitution, aux lois du peuple belge et à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales.]<sup>1</sup>
+
+(NOTE : par son arrêt n° 96/2024 du 19-09-2024 (2024-09-19/01, M.B. 17-10-2024, p. 121929), la Cour constitutionnelle a annulé l'article 1er, § 2, 5°, du Code de la nationalité belge, tel qu'il était applicable avant sa modification par l'article 122, 1°, de la loi du 28 mars 2024 " portant dispositions en matière de digitalisation de la justice et dispositions diverses Ibis ", et l'article 12bis, § 1er, du même Code, en ce que ces dispositions ne prévoient pas, à l'égard des étrangers qui sont analphabètes, qui possèdent les compétences linguistiques orales exigées et qui, parce qu'il leur manque des compétences et notions linguistiques de base, ne sont pas en mesure d'acquérir les aptitudes écrites correspondant à ce niveau, même en participant aux formations organisées à cet effet, une exception à l'exigence de posséder une connaissance minimale d'une des langues nationales correspondant au niveau A2 du Cadre européen commun de référence pour les langues.)----------
+
+(1)&lt;L 2012-12-04/04, art. 9, 010; En vigueur : 01-01-2013&gt;
+
+(2)&lt;L 2014-04-25/23, art. 119, 013; En vigueur : 24-05-2014&gt;
+
+(3)&lt;L 2018-06-18/03, art. 141, 017; En vigueur : 12-07-2018&gt;
+
+(4)&lt;L 2024-03-28/60, art. 123, 022; En vigueur : 08-04-2024&gt;
+
+### Section 2.
+
+&lt;Abrogé par L 2012-12-04/04, art. 10, 010; En vigueur : 01-01-2013&gt;
+
+#### Art. 13
+
+&lt;Abrogé par L 2012-12-04/04, art. 10, 010; En vigueur : 01-01-2013&gt;
+
+#### Art. 14
+
+&lt;Abrogé par L 2012-12-04/04, art. 11, 010; En vigueur : 01-01-2013&gt;
+
+#### Art. 15
+
+[<sup>1</sup> § 1er. L'étranger fait la déclaration devant l'officier de l'état civil de sa résidence principale.
+
+[<sup>4</sup> Par dérogation à ce qui précède, les procédures visées aux articles 17 et 24, alinéa 3, peuvent être introduites devant le chef d'un poste consulaire de carrière belge qui exerce, dans ce cas, les compétences dévolues à l'officier de l'état civil par l'article 15, § 2.
+
+Lorsque les procédures sont introduites, conformément à l'alinéa 2, depuis l'étranger, l'envoi recommandé, visé au paragraphe 2, alinéa 5, et aux paragraphes 4 et 5, peut être remplacé par tout moyen écrit de communication avec preuve d'expédition.]<sup>4</sup>
+
+Si le nom ou le prénom de l'étranger n'est pas orthographié de la même façon [<sup>6</sup> ou si la date de naissance n'est pas uniforme]<sup>6</sup> dans le registre de la population, le registre des étrangers, le casier judiciaire ou les documents présentés, la demande est suspendue jusqu'à ce que l'orthographe [<sup>6</sup> du nom ou du prénom ou la date de naissance aient été uniformisées]<sup>6</sup> dans tous les registres et documents.
+
+Si l'étranger n'a pas de nom ou de prénom, l'officier de l'état civil propose à l'étranger d'introduire gratuitement une procédure conformément [<sup>5</sup> au livre Ier, titre VIII/1, chapitre 3 du Code civil]<sup>5</sup>, auquel cas la demande est suspendue jusqu'à ce que l'étranger ait un nom et un prénom.
+
+§ 2. L'officier de l'état civil examine l'exhaustivité de la déclaration dans les trente jours ouvrables qui suivent le dépôt de celle-ci.
+
+Lorsqu'une déclaration est incomplète, l'officier offre au demandeur la possibilité de réparer l'oubli dans un délai de deux mois. L'officier de l'état civil indique dans un formulaire établi par le Roi, par arrêté délibéré en Conseil des ministres, quelles sont les pièces qui font défaut dans la déclaration.
+
+S'il n'est pas ou pas suffisamment fait usage de la possibilité de réparer l'oubli, la [<sup>2</sup> déclaration]<sup>2</sup> est déclarée irrecevable.
+
+Si la [<sup>2</sup> déclaration]<sup>2</sup> est complète et recevable et si le droit d'enregistrement mentionné à l'article 238 du Code des droits d'enregistrement, d'hypothèque et de greffe, a été acquitté, l'officier de l'état civil délivre un récépissé, soit dans les trente-cinq jours ouvrables suivant le dépôt de la déclaration si la déclaration a immédiatement été jugée complète, soit dans les quinze jours ouvrables suivant l'expiration du délai accordé à l'étranger pour réparer l'oubli.
+
+Si la [<sup>2</sup> déclaration]<sup>2</sup> est jugée incomplète, il en est donné connaissance par lettre recommandée dans les trente-cinq jours ouvrables suivant le dépôt de la déclaration ou dans les quinze jours ouvrables suivant l'expiration du délai accordé à l'étranger pour réparer l'oubli. Le paiement tardif du droit d'enregistrement ne peut toutefois pas être régularisé.
+
+Si le récépissé ou le caractère incomplet de la déclaration n'a pas été notifié dans les délais, la [<sup>2</sup> déclaration]<sup>2</sup> est réputée complète. La déclaration expresse d'irrecevabilité peut faire l'objet d'un recours en annulation devant la section du contentieux administratif du Conseil d'Etat, ainsi que le prévoit l'article 14, § 1er, des lois sur le Conseil d'Etat, coordonnées le 12 janvier 1973.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, et sur la proposition du ministre de la Justice, les actes et justificatifs à joindre à la demande pour apporter la preuve que les conditions sont réunies et que le dossier a été jugé complet, comme le prévoit l'alinéa 1er.
+
+L'officier transmet, pour avis, une copie de l'intégralité du dossier au procureur du Roi du tribunal de première instance du ressort, au plus tard dans les cinq jours ouvrables de la délivrance du récépissé. Le procureur du Roi en accuse réception sans délai.
+
+[<sup>4</sup> Lorsque la procédure est introduite depuis l'étranger, le chef du poste consulaire de carrière belge transmet la copie du dossier complet au procureur du Roi du tribunal de première instance de Bruxelles lorsque le demandeur a fait choix de la langue française ou de la langue néerlandaise. Lorsque le demandeur a fait choix de la langue allemande, la copie du dossier complet est transmise au procureur du Roi du tribunal de première instance d'Eupen.]<sup>4</sup>
+
+En même temps qu'il communique au procureur du Roi copie du dossier complet, l'officier de l'état civil en transmet également copie à l'Office des étrangers et à la Sûreté de l'Etat.
+
+§ 3. Dans un délai de quatre mois à compter de la date du récépissé visé au § 2, le procureur du Roi peut émettre un avis négatif sur l'acquisition de la nationalité belge lorsqu'il existe un empêchement résultant de faits personnels graves, qu'il doit préciser dans les motifs de son avis, ou lorsque les conditions de base, qu'il doit indiquer, ne sont pas remplies.
+
+Si, en violation du § 2, alinéa 8, la déclaration visée au § 1er est communiquée tardivement dans le courant du dernier mois du délai, celui-ci est d'office prolongé d'un mois à dater de la communication du dossier au procureur du Roi.
+
+[<sup>5</sup> Si le procureur du Roi estime ne pas devoir émettre d'avis négatif, il envoie à l'officier de l'état civil une attestation signifiant l'absence d'avis négatif. Sur la base de la déclaration, un acte de nationalité est établi conformément à l'article 22, § 4.
+
+A l'expiration du délai de quatre mois, le cas échéant, prolongé conformément à l'alinéa 2, et à défaut d'avis négatif ou de transmission d'une attestation signifiant l'absence d'avis négatif un acte de nationalité est d'office établi sur la base de la déclaration conformément à l'article 22, § 4. Toutefois, à défaut de la transmission visée au paragraphe 2, alinéa 8, l'établissement de l'acte de nationalité n'a pas lieu et l'officier de l'état civil en informe immédiatement l'intéressé.
+
+Notification de l'établissement de l'acte de nationalité est faite à l'intéressé par l'officier de l'état civil.
+
+La déclaration a effet à compter de l'établissement de l'acte de nationalité.]<sup>5</sup>
+
+§ 4. L'avis négatif du procureur du Roi doit être motivé. Il est notifié à l'officier de l'état civil et, par lettre recommandée, à l'intéressé par les soins du procureur du Roi.
+
+§ 5. [<sup>5</sup> L'intéressé peut inviter l'officier de l'état civil, par lettre recommandée, à transmettre son dossier au tribunal de la famille dans les quinze jours suivant la réception de l'avis négatif visé au paragraphe 3 ou du non-établissement de l'acte de nationalité visé au paragraphe 3, alinéa 4, dernière phrase.
+
+Après avoir entendu ou appelé l'intéressé, le tribunal de la famille statue par voie de décision motivée sur le bien-fondé de l'absence d'établissement de l'acte de nationalité visée au paragraphe 3, alinéa 4, dernière phrase ou sur l'avis négatif visé au paragraphe 3.
+
+La décision est notifiée à l'intéressé et au parquet par le greffe. Dans les quinze jours de la notification, l'intéressé et le procureur du Roi peuvent interjeter appel de la décision par requête adressée à la chambre de la famille de la cour d'appel. La prorogation des délais en raison des vacances judiciaires a lieu conformément à l'article 50, alinéa 2, du Code judiciaire.
+
+La cour d'appel statue, après avis du procureur général, et après avoir entendu ou appelé l'intéressé.
+
+Les notifications sont effectuées conformément à l'article 1030 du Code judiciaire. Le calcul des délais en cas de notification a lieu conformément aux articles 52 et suivants du Code judiciaire.
+
+Le greffier transmet immédiatement à l'officier de l'état civil via la BAEC, les données de la décision passée en force de chose jugée par laquelle l'avis négatif est déclaré non fondé, nécessaires à l'établissement de l'acte de nationalité. Celui-ci établit l'acte de nationalité, conformément à l'article 22, § 4.
+
+La déclaration a effet à compter de l'établissement de l'acte de nationalité.]<sup>5</sup>
+
+§ 6. [<sup>4</sup> ...]<sup>4</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2012-12-04/04, art. 12, 010; En vigueur : 01-01-2013&gt;
+
+(2)&lt;L 2014-04-25/23, art. 120, 013; En vigueur : 24-05-2014&gt;
+
+(3)&lt;L 2017-07-06/24, art. 94, 016; En vigueur : 03-08-2017&gt;
+
+(4)&lt;L 2018-06-18/03, art. 142, 017; En vigueur : 12-07-2018&gt;
+
+(5)&lt;L 2018-06-18/03, art. 94, 017; En vigueur : 31-03-2019&gt;
+
+(6)&lt;L 2024-01-18/06, art. 49, 021; En vigueur : 05-02-2024&gt;
+
+### Section 3. &lt;Abrogé par L 2012-12-04/04, art. 13, 010; En vigueur : 01-01-2013&gt;
+
+#### Art. 16
+
+&lt;Abrogé par L 2012-12-04/04, art. 13, 010; En vigueur : 01-01-2013&gt;
+
+### Section 4.
+
+&lt;Abrogé par L 2012-12-04/04, art. 14, 010; En vigueur : 01-01-2013&gt;
+
+### Section 2. [<sup>1</sup> - Réacquisition de la nationalité belge lorsque celle-ci octroyée erronément a été retirée après que l'intéressé ait joui pendant au moins dix ans de la qualité de Belge]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-06-18/03, art. 143, 017; En vigueur : 31-03-2019&gt;
+
+#### Art. 17
+
+[<sup>1</sup> La personne de bonne foi à qui la nationalité belge a été octroyée erronément et qui a, de façon constante durant au moins dix années, été considérée comme Belge par les autorités belges, peut, si la nationalité belge lui est contestée, acquérir la nationalité belge conformément à l'article 15.
+
+[<sup>2</sup> Lorsque le déclarant réside en Belgique, la condition de séjour illimité prévue par l'article 7bis, § 2, alinéa 1er, 1°, ne s'applique pas. Lorsque la demande est introduite depuis l'étranger en application de l'article 15, § 1er, alinéa 2, les conditions visées à l'article 7bis, §§ 1er et 2, alinéa 1er, 1°, ne s'appliquent pas.]<sup>2</sup>
+
+La déclaration doit être faite avant l'expiration d'un délai d'un an prenant cours à la date à laquelle une autorité belge conteste définitivement la détention de la nationalité belge par la personne.
+
+Ce délai est prorogé jusqu'à l'âge de dix-neuf ans si le déclarant est une personne dont la filiation à l'égard d'un auteur belge a cessé d'être établie alors qu'il n'était pas émancipé et n'avait pas atteint l'âge de dix-huit ans.
+
+Lorsque la validité des actes passés antérieurement à l'acquisition de la nationalité belge était subordonnée à la détention de la nationalité belge, cette validité ne peut être contestée pour le seul motif que le déclarant n'avait pas cette nationalité. Il en est de même des droits acquis antérieurement à l'acquisition de la nationalité belge pour lesquels la nationalité belge était requise.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 144, 017; En vigueur : 12-07-2018&gt;
+
+[<sup>1</sup>
+
+(2)&lt;L 2024-01-18/06, art. 50, 021; En vigueur : 05-02-2024&gt;
+
+### Section 3.]<sup>1</sup> - (ancienne section 5) Acquisition de la nationalité belge par naturalisation. &lt;L 1991-06-13/31, art. 3, 003; En vigueur : 01-01-1992&gt;&lt;L 2012-12-04/04, art. 12, 010; En vigueur : 01-01-2013&gt;
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 145, 017; En vigueur : 12-07-2018&gt;
+
+#### Art. 18
+
+La naturalisation confère la nationalité belge.
+
+[Alinéa 2 abrogé] &lt;L 1993-08-06/35, art. 5, 004; En vigueur : 03-10-1993&gt;
+
+#### Art. 19
+
+[<sup>1</sup> § 1er. Pour pouvoir demander la naturalisation, l'intéressé doit :
+
+1° avoir atteint l'âge de dix-huit ans [<sup>3</sup> ou avoir été émancipé avant cet âge]<sup>3</sup>;
+
+2° séjourner légalement en Belgique;
+
+3° et avoir témoigné ou pouvoir témoigner à la Belgique de mérites exceptionnels dans les domaines scientifique, sportif ou socioculturel et, de ce fait, pouvoir apporter une contribution particulière au rayonnement international de la Belgique;
+
+4° et motiver pourquoi il lui est quasiment impossible d'acquérir la nationalité belge en faisant une déclaration de nationalité conformément à l'article 12bis.
+
+Pour pouvoir se prévaloir de mérites exceptionnels, l'intéressé doit, sous peine d'irrecevabilité, pouvoir fournir la preuve des éléments suivants :
+
+1° en cas de mérites exceptionnels dans le domaine scientifique : un doctorat;
+
+2° en cas de mérites exceptionnels dans le domaine sportif : avoir satisfait aux critères de sélection internationaux ou aux critères imposés par le COIB pour un championnat d'Europe, un championnat du monde ou les Jeux olympiques, ou se trouver dans le cas où la fédération de la discipline sportive concernée considère qu'il ou elle peut représenter une valeur ajoutée pour la Belgique dans le cadre des phases éliminatoires ou finales d'un championnat d'Europe, d'un championnat du monde ou des Jeux olympiques;
+
+3° en cas de mérites exceptionnels dans le domaine socioculturel : avoir atteint la sélection finale d'une compétition culturelle internationale ou être récompensé sur la scène internationale en raison de ses mérites sur le plan culturel ou en raison de son investissement social et sociétal.
+
+§ 2. La naturalisation peut également être demandée par un étranger [<sup>2</sup> qui a atteint l'âge de dix-huit ans [<sup>3</sup> ou a été émancipé avant cet âge]<sup>3</sup> et]<sup>2</sup> qui a la qualité d'apatride en Belgique en vertu des conventions internationales qui y sont en vigueur, et qui séjourne légalement en Belgique depuis deux ans au moins.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2012-12-04/04, art. 16, 010; En vigueur : 01-01-2013&gt;
+
+(2)&lt;L 2014-04-25/23, art. 121, 013; En vigueur : 24-05-2014&gt;
+
+(3)&lt;L 2018-06-18/03, art. 146, 017; En vigueur : 12-07-2018&gt;
+
+#### Art. 20
+
+[Abrogé] &lt;L 1993-08-06/35, art. 7, 004; En vigueur : 03-10-1993&gt;
+
+#### Art. 21
+
+[<sup>1</sup> § 1er. La demande de naturalisation est adressée à l'officier de l'état civil du lieu où l'intéressé a sa résidence principale ou à la Chambre des représentants.
+
+Les formulaires de demande, dont le contenu est fixé par le Roi sur la proposition du ministre de la Justice, peuvent être obtenus dans les administrations communales.
+
+Le Roi, sur la proposition du ministre de la Justice, détermine les actes et justificatifs à joindre à la demande pour apporter la preuve que les conditions prévues à l'article 19 sont réunies. Le demandeur peut joindre à sa demande tous les autres documents qu'il juge utiles pour la justifier.
+
+Le formulaire de demande est signé par le demandeur, qui fait précéder sa signature de la mention manuscrite :
+
+" Je déclare vouloir acquérir la nationalité belge et me soumettre à la Constitution, aux lois du peuple belge et à la Convention de sauvegarde des droits de l'homme et des libertés fondamentales ".
+
+§ 2. Si le nom ou le prénom de l'étranger n'est pas orthographié de la même façon dans le registre de la population, le registre des étrangers, le casier judiciaire ou les documents présentés, la demande est suspendue jusqu'à ce que l'orthographe ait été uniformisée dans tous les registres et documents.
+
+Si l'étranger n'a pas de nom ou de prénom, l'officier de l'état civil ou la Chambre des représentants proposera à l'étranger d'introduire gratuitement une procédure conformément à la loi du 15 mai 1987 relative aux noms et prénoms, auquel cas la demande est suspendue jusqu'à ce que l'étranger ait un nom et un prénom.
+
+§ 3. L'officier de l'état civil ou la Chambre des représentants délivre un accusé de réception de la demande de naturalisation lorsque le dossier est jugé complet et que le droit d'enregistrement prévu à l'article 238 du Code des droits d'enregistrement, d'hypothèque et de greffe a été acquitté.
+
+§ 4. La demande de naturalisation devient caduque si, après son introduction, son auteur cesse d'être en séjour légal en Belgique ou d'y avoir sa résidence principale.
+
+§ 5. Si la demande de naturalisation est adressée à l'officier de l'état civil, celui-ci la transmet, ainsi que les pièces visées au § 1er, alinéa 3, qui lui ont été communiquées, à la Chambre des représentants dans un délai de quinze jours suivant sa réception.
+
+La Chambre des représentants délivre au demandeur un récépissé attestant le dépôt d'un dossier de demande complet. Au plus tard dans les cinq jours ouvrables qui suivent le dépôt de la demande de naturalisation, une copie de celle-ci, à laquelle une copie du récépissé est jointe, est communiquée par la Chambre des représentants au parquet du tribunal de première instance de la résidence principale du demandeur, à l'Office des étrangers et à la Sûreté de l'Etat, pour avis à fournir dans un délai de quatre mois sur les critères prévus à l'article 19 et les circonstances prévues à l'article 15, § 3, ainsi que sur tout autre élément dont la Chambre souhaite être informée. Le procureur du Roi, l'Office des étrangers et la Sûreté de l'Etat en accusent réception sans délai.
+
+Si la communication de la demande de naturalisation par la Chambre des représentants ne s'effectue pas conformément au délai prescrit à l'alinéa 2 et qu'elle intervient au cours du dernier mois du délai, celui-ci sera d'office prolongé d'un mois à dater de la communication aux trois instances visées à l'alinéa 2.
+
+L'avis est réputé favorable à défaut d'observations formulées par le parquet, l'Office des étrangers et la Sûreté de l'Etat dans un délai de quatre mois, éventuellement prolongé conformément à l'alinéa 3, à dater du dépôt d'un dossier complet de demande à la Chambre des représentants.
+
+La Chambre des représentants statue sur l'octroi de la naturalisation selon les modalités déterminées dans son règlement. L'intégration et la connaissance d'une des trois langues nationales constituent des éléments importants à cet égard, qui sont précisés par la commission des Naturalisations dans son règlement.
+
+§ 6. L'acte de naturalisation, adopté par la Chambre des représentants et sanctionné par le Roi sur la proposition du ministre de la Justice, est publié au Moniteur belge. Cet acte produit ses effets à compter du jour de cette publication.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2012-12-04/04, art. 17, 010; En vigueur : 01-01-2013&gt;
+
+## CHAPITRE IV. - PERTE DE LA NATIONALITE BELGE.
+
+#### Art. 22
+
+§ 1er. Perdent la qualité de Belge :
+
+1° [...] &lt;L 2006-12-27/32, art. 386, 1°, 009; En vigueur : 09-06-2007&gt;
+
+2° celui qui, ayant atteint l'âge de dix-huit ans, déclare renoncer à la nationalité belge; cette déclaration ne peut être faite que si le déclarant prouve qu'il possède une nationalité étrangère ou qu'il l'acquiert ou la recouvre par l'effet de la déclaration [<sup>1</sup> si cette acquisition ou ce recouvrement ne suit pas immédiatement la déclaration de renonciation et a, en outre, pour résultat de rendre l'intéressé apatride, cette déclaration ne produit des effets juridiques qu'au moment de l'acquisition ou du recouvrement effectifs de la nationalité étrangère;]<sup>1</sup>;
+
+3° l'enfant non émancipé n'ayant pas atteint l'âge de dix-huit ans et soumis à l'autorité d'un seul auteur ou adoptant, lorsque celui-ci perd la nationalité belge par l'effet du [...] 2°, à la condition que la nationalité étrangère de l'auteur ou de l'adoptant soit conférée à cet enfant ou que celui-ci la possède déjà; lorsque l'autorité sur l'enfant est exercée par les père et mère ou par les adoptants, l'enfant non émancipé n'ayant pas atteint l'âge de dix-huit ans ne perd pas la nationalité belge tant que l'un d'eux la possède encore; il la perd lorsque cet auteur ou adoptant vient lui-même à la perdre, à la condition que cet enfant acquière la nationalité d'un de ses auteurs ou adoptants ou qu'il la possède déjà; la même règle s'applique au cas où l'autorité sur l'enfant est exercée par le père ou la mère et son conjoint adoptant; &lt;L 2006-12-27/32, art. 386, 2°, 009; En vigueur : 09-06-2007&gt;
+
+4° l'enfant non émancipé n'ayant pas atteint l'âge de dix-huit ans, adopté par un étranger ou par des étrangers, à la condition que la nationalité de l'adoptant ou de l'un d'eux lui soit acquise par l'effet de l'adoption ou qu'il possède déjà cette nationalité; il ne perd pas la nationalité belge si l'un des adoptants est Belge ou si l'auteur conjoint de l'adoptant étranger est Belge;
+
+5° le Belge né à l'étranger a l'exception des anciennes colonies belges lorsque :
+
+a) il a eu sa résidence principale et continue à l'étranger de dix-huit à vingt-huit ans;
+
+b) il n'exerce à l'étranger aucune fonction conférée par le Gouvernement belge ou à l'intervention de celui-ci, ou n'y est pas occupé par une société ou une association de droit belge au personnel de laquelle il appartient;
+
+c) il n'a pas déclare, avant d'atteindre l'âge de vingt-huit ans, vouloir conserver sa nationalité belge; [...] &lt;L 2006-12-27/32, art. 386, 009; En vigueur : 28-12-2006&gt;
+
+6° l'enfant non émancipé n'ayant pas atteint l'âge de dix-huit ans et soumis à l'autorité d'un seul auteur ou adoptant, lorsque celui-ci perd la nationalité belge par l'effet du 5°; lorsque l'autorité sur l'enfant est exercée par les père et mère ou par les adoptants, l'enfant non émancipé n'ayant pas atteint l'âge de dix-huit ans ne perd pas la nationalité belge tant que l'un d'eux la possède encore; il la perd lorsque cet auteur ou adoptant vient lui-même à la perdre; la même règle s'applique au cas où l'autorité sur l'enfant est exercée par le père ou la mère et son conjoint adoptant;
+
+7° celui qui est déchu de la nationalité belge en vertu [<sup>1</sup> des articles 23, 23/1 et 23/2]<sup>1</sup>.
+
+§ 2. [<sup>2</sup> Le paragraphe 1er, 5°, ne s'applique pas au Belge qui, entre ses dix-huit et ses vingt-huit ans, a demandé et s'est vu délivrer un passeport ou une carte d'identité belge.]<sup>2</sup>
+
+§ 3. Le § 1er, 5° et 6°, ne s'applique pas au Belge qui, par l'effet d'une de ces dispositions, deviendrait apatride.
+
+§ 4. Les déclarations prévues au § 1er, 2° et 5°, sont faites devant l'officier de l'état civil de la résidence principale du déclarant et, à l'étranger, devant le chef [<sup>2</sup> ...]<sup>2</sup> d'un [poste consulaire de carrière] belge [<sup>4</sup> compétent conformément au Code consulaire et dans le respect des conditions prévues par ce Code]<sup>4</sup>. [<sup>3</sup> L'officier de l'état civil ou, le cas échéant, le chef du poste consulaire de carrière belge, établit, sur la base de la déclaration, un acte de nationalité conformément à l'article 67 du Code civil.
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+La déclaration a effet à compter de l'établissement de l'acte de nationalité.]<sup>3</sup> L'officier de l'état civil instrumente sans l'assistance de témoins. [<sup>1</sup> ...]<sup>1</sup> &lt;L 2006-12-27/32, art. 386, 009; En vigueur : 28-12-2006&gt;
+
+----------
+
+(1)&lt;L 2015-07-20/08, art. 5, 015; En vigueur : 15-08-2015&gt;
+
+(2)&lt;L 2018-06-18/03, art. 147, 017; En vigueur : 12-07-2018&gt;
+
+(3)&lt;L 2018-06-18/03, art. 95, 017; En vigueur : 31-03-2019&gt;
+
+(4)&lt;L 2023-09-13/08, art. 78, 019; En vigueur : 01-01-2024&gt;
+
+#### Art. 23
+
+§ 1er. [Les Belges qui ne tiennent pas leur nationalité d'un [<sup>2</sup> auteur ou adoptant belge]<sup>2</sup> au jour de leur naissance et les Belges qui ne se sont pas vu attribuer leur nationalité en vertu [<sup>3</sup> des articles 11 et 11bis]<sup>3</sup> peuvent être déchus de la nationalité belge :
+
+1° [<sup>1</sup> s'ils ont acquis la nationalité belge à la suite d'une conduite frauduleuse, par de fausses informations, par faux en écriture et/ou utilisation de documents faux ou falsifiés, par fraude à l'identité ou par fraude à l'obtention du droit de séjour;]<sup>1</sup>
+
+2° s'ils manquent gravement à leurs devoirs de citoyen belge.] &lt;L 2006-12-27/32, art. 387, 009; En vigueur : 28-12-2006&gt;
+
+[<sup>2</sup> La Cour ne prononce pas la déchéance au cas où celle-ci aurait pour effet de rendre l'intéressé apatride, à moins que la nationalité n'ait été acquise à la suite d'une conduite frauduleuse, par de fausses informations ou par dissimulation d'un fait pertinent. Dans ce cas, même si l'intéressé n'a pas réussi à recouvrer sa nationalité d'origine, la déchéance de nationalité ne sera prononcée qu'à l'expiration d'un délai raisonnable accordé par la Cour à l'intéressé afin de lui permettre d'essayer de recouvrer sa nationalité d'origine.]<sup>2</sup>
+
+§ 2. La déchéance est poursuivie par le ministère public. Les manquements reprochés sont spécifiés dans l'exploit de citation.
+
+§ 3. L'action en déchéance se poursuit devant la Cour d'appel de la résidence principale en Belgique du défendeur ou, à défaut, devant la Cour d'appel de Bruxelles.
+
+§ 4. Le premier président commet un conseiller, sur le rapport duquel la Cour statue dans le mois de l'expiration du délai de citation.
+
+§ 5. Si l'arrêt est rendu par défaut, il est, après sa signification, à moins que celle-ci ne soit faite à personne, publié par extrait dans deux journaux de la province et au Moniteur belge.
+
+[<sup>5</sup> L'opposition doit, à peine d'irrecevabilité, être formée dans le délai prévu, en matière civile, à l'article 1048 du Code judiciaire, éventuellement prolongé en raison des vacances judiciaires, conformément à l'article 50, alinéa 2, du Code judiciaire.]<sup>5</sup>
+
+L'opposition est portée à la première audience de la chambre qui a rendu l'arrêt; elle est jugée sur le rapport du conseiller commis s'il fait encore partie de la chambre, ou, à son défaut, par le conseiller désigné par le premier président, et l'arrêt est rendu dans les quinze jours.
+
+§ 6. [<sup>6</sup> ...]<sup>6</sup>
+
+[<sup>6</sup> Le pourvoi en cassation]<sup>6</sup> est formé et jugé comme il est prescrit pour les pourvois en matière criminelle.
+
+§ 7. Le délai pour se pourvoir en cassation et le pourvoi sont suspensifs de l'exécution de l'arrêt.
+
+§ 8. [<sup>4</sup> Lorsque l'arrêt prononçant la déchéance de la nationalité belge est devenu définitif, le greffier transmet immédiatement les données nécessaires à l'établissement de l'acte de déchéance de la nationalité belge, via la BAEC à l'officier de l'état civil, avec la mention de l'identité complète de l'intéressé.
+
+L'officier de l'état civil du lieu d'inscription au registre de la population, au registre des étrangers ou au registre d'attente de l'intéressé, ou, à défaut, de la résidence actuelle de l'intéressé, ou, à défaut, de Bruxelles établit un acte de déchéance de la nationalité belge.
+
+La déchéance a effet à compter de l'établissement de l'acte de déchéance de la nationalité belge.]<sup>4</sup>
+
+§ 9. La personne qui a été déchue de la nationalité belge ne peut redevenir belge que par naturalisation.
+
+[Dans le cas visé au § 1er, 1°, l'action en déchéance se prescrit par cinq ans à compter de la date de l'obtention de la nationalité belge par l'intéressé.] &lt;L 2006-12-27/32, art. 387, 009; En vigueur : 28-12-2006&gt;
+
+----------
+
+(1)&lt;L 2012-12-04/04, art. 19, 010; En vigueur : 14-12-2012. Dispositions transitoires: art. 32,§2&gt;
+
+(2)&lt;L 2014-04-25/23, art. 122, 013; En vigueur : 24-05-2014&gt;
+
+(3)&lt;L 2018-06-18/03, art. 148, 017; En vigueur : 12-07-2018&gt;
+
+(4)&lt;L 2018-06-18/03, art. 96, 017; En vigueur : 31-03-2019&gt;
+
+(5)&lt;L 2023-12-19/05, art. 75, 020; En vigueur : 06-01-2024&gt;
+
+(6)&lt;L 2024-01-18/06, art. 51, 021; En vigueur : 05-02-2024&gt;
+
+#### Art. 23/1
+
+[<sup>1</sup> § 1er. La déchéance de la nationalité belge peut être prononcée par le juge sur réquisition du ministère public à l'égard de Belges qui ne tiennent pas leur nationalité d'un [<sup>3</sup> auteur ou adoptant belge]<sup>3</sup> au jour de leur naissance et des Belges qui ne se sont pas vu attribuer leur nationalité en vertu de l'article 11, [<sup>5</sup> ...]<sup>5</sup> alinéa 1er, 1° et 2° :
+
+1° [<sup>8</sup> s'ils ont été condamnés, comme auteur ou participant, à une peine d'emprisonnement d'au moins cinq ans sans sursis pour une infraction visée aux articles 82 à 92, 96 à 103, 107 et 107/1, 118, 126, 134, 138 à 149, 151 à 165, 167, 171 à 173, 177 à 178, 183, 197, 198, 4°, 199, 4°, 200, 4°, 201, 4°, 202, 4°, 209, 210, alinéa 1er, troisième phrase, 215, 225, 228, 233, 258 à 260, 264 et 265, 268, 274, 280, § 2, 284, § 2, 308, 321, 330, 335, 389 à 391, 393, 398 à 402, 405, 408, 409, 412 à 414, 469, § 3, 2°, 470 à 473, 509, 521, 542 à 544, 551 à 560, 562, 565 à 571, 573 à 578, 581 à 584, 585 à 589, 593, 595 à 609 et 611 du Code pénal, pour autant que les faits leur reprochés aient été commis dans les quinze ans à compter de la date d'obtention de la nationalité belge, à l'exception des infractions visées aux articles 82 à 88 du Code pénal]<sup>8</sup>;
+
+2° s'ils ont été condamnés, comme auteur [<sup>8</sup> ou participant]<sup>8</sup> à une peine d'emprisonnement de cinq ans sans sursis pour une infraction dont la commission a été manifestement facilitée par la possession de la nationalité belge, pour autant que l'infraction ait été commise dans les cinq ans à compter de la date d'obtention de la nationalité belge;
+
+3° s'ils ont acquis la nationalité belge par mariage conformément à [<sup>2</sup> l'article 12bis, § 1er, 3°]<sup>2</sup> , et que ce mariage a été annulé pour cause de mariage de complaisance tel que décrit à l'article 146bis du Code civil, sous réserve des dispositions des articles 201 et 202 du Code civil.
+
+§ 2. [<sup>3</sup> Le juge ne prononce pas la déchéance au cas où celle-ci aurait pour effet de rendre l'intéressé apatride, à moins que la nationalité n'ait été acquise à la suite d'une conduite frauduleuse, par de fausses informations ou par dissimulation d'un fait pertinent. Dans ce cas, même si l'intéressé n'a pas réussi à recouvrer sa nationalité d'origine, la déchéance de nationalité ne sera prononcée qu'à l'expiration d'un délai raisonnable accordé par le juge à l'intéressé afin de lui permettre d'essayer de recouvrer sa nationalité d'origine.]<sup>3</sup>
+
+§ 3. [<sup>6</sup> Lorsque le jugement prononçant la déchéance de la nationalité belge est passé en force de chose jugée, le greffier transmet immédiatement les données nécessaires à l'établissement de l'acte de déchéance de la nationalité belge via la BAEC à l'officier de l'état civil, avec la mention de l'identité complète de l'intéressé.
+
+L'officier de l'état civil du lieu d'inscription au registre de la population, au registre des étrangers ou au registre d'attente de l'intéressé, ou, à défaut, de la résidence actuelle de l'intéressé, ou, à défaut, de Bruxelles établit un acte de déchéance de la nationalité belge.
+
+La déchéance a effet à compter de l'établissement de l'acte de déchéance de la nationalité belge.]<sup>6</sup>
+
+§ 4. La personne qui a été déchue de la nationalité belge en vertu du présent article ne peut redevenir Belge que par naturalisation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-12-04/04, art. 20, 010; En vigueur : 14-12-2012. Dispositions transitoires: art. 32,§2&gt;
+
+(2)&lt;L 2012-12-31/01, art. 4, 011; En vigueur : 10-01-2013&gt;
+
+(3)&lt;L 2014-04-25/23, art. 123, 013; En vigueur : 24-05-2014&gt;
+
+(4)&lt;L 2015-07-20/08, art. 6, 015; En vigueur : 15-08-2015&gt;
+
+(5)&lt;L 2018-06-18/03, art. 149, 017; En vigueur : 12-07-2018&gt;
+
+(6)&lt;L 2018-06-18/03, art. 97, 017; En vigueur : 31-03-2019&gt;
+
+(7)&lt;L 2026-02-08/02, art. 6, 024; En vigueur : 28-02-2026&gt;
+
+(8)&lt;L 2026-03-03/04, art. 84, 025; En vigueur : 01-09-2026&gt;
+
+#### Art. 23/2
+
+[<sup>1</sup> § 1er. La déchéance de la nationalité belge peut être prononcée par le juge [<sup>5</sup> , conformément à l'article 386/1 du Code pénal,]<sup>5</sup> à l'égard de Belges qui ne tiennent pas leur nationalité d'un auteur ou adoptant belge au jour de leur naissance et des Belges qui ne se sont pas vu attribuer leur nationalité en vertu de l'article 11, [<sup>2</sup> ...]<sup>2</sup> alinéa 1er, 1° et 2°, s'ils ont été condamnés, comme auteur [<sup>5</sup> ou participant, à une peine d'emprisonnement d'au moins cinq ans sans sursis pour une infraction visée au livre II, titre 4, chapitre 1er,]<sup>5</sup>, du Code pénal.
+
+§ 2. Le juge ne prononce pas la déchéance au cas où celle-ci aurait pour effet de rendre l'intéressé apatride, à moins que la nationalité n'ait été acquise à la suite d'une conduite frauduleuse, par de fausses informations ou par dissimulation d'un fait pertinent. Dans ce cas, même si l'intéressé n'a pas réussi à recouvrer sa nationalité d'origine, la déchéance de nationalité ne sera prononcée qu'à l'expiration d'un délai raisonnable accordé par le juge à l'intéressé afin de lui permettre d'essayer de recouvrer sa nationalité d'origine.
+
+§ 3. [<sup>3</sup> Lorsque le jugement prononçant la déchéance de la nationalité belge est passé en force de chose jugée, le greffier transmet immédiatement les données nécessaires à l'établissement de l'acte de déchéance de la nationalité belge via la BAEC à l'officier de l'état civil, avec la mention de l'identité complète de l'intéressé.
+
+L'officier de l'état civil du lieu d'inscription au registre de la population, au registre des étrangers ou au registre d'attente de l'intéressé, ou, à défaut, de la résidence actuelle de l'intéressé, ou, à défaut, de Bruxelles établit immédiatement l'acte de déchéance de la nationalité belge.
+
+La déchéance a effet à compter de l'établissement de l'acte de déchéance de la nationalité belge.]<sup>3</sup>
+
+§ 4. La personne qui a été déchue de la nationalité belge en vertu du présent article ne peut redevenir Belge que par naturalisation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-07-20/08, art. 7, 015; En vigueur : 15-08-2015&gt;
+
+(2)&lt;L 2018-06-18/03, art. 150, 017; En vigueur : 12-07-2018&gt;
+
+(3)&lt;L 2018-06-18/03, art. 98, 017; En vigueur : 31-03-2019&gt;
+
+(4)&lt;L 2026-02-08/02, art. 7, 024; En vigueur : 28-02-2026&gt;
+
+(5)&lt;L 2026-03-03/04, art. 85, 025; En vigueur : 01-09-2026&gt;
+
+## CHAPITRE V. - RECOUVREMENT DE LA NATIONALITE BELGE.
+
+#### Art. 24
+
+[Celui qui a perdu la nationalité belge autrement que par déchéance peut, par une déclaration faite [...] conformément à l'article 15, la recouvrer aux conditions qu'il soit âgé d'au moins dix-huit ans [<sup>1</sup> , qu'il ait sa résidence principale en Belgique depuis au moins douze mois, sur la base d'un séjour légal ininterrompu, et qu'il soit, au moment de la déclaration, admis ou autorisé au séjour pour une durée illimitée]<sup>1</sup>.] &lt;L 1993-08-06/35, art. 8, 004; En vigueur : 03-10-1993&gt; &lt;L 2000-03-01/49, art. 11, 007; En vigueur : 01-05-2000&gt;
+
+[[<sup>1</sup> ...]<sup>1</sup> Si la perte de la nationalité belge procède d'une renonciation, le procureur du Roi peut néanmoins juger ne pas devoir émettre d'avis négatif, après avoir apprécié les circonstances dans lesquelles le déclarant a perdu la nationalité belge, ainsi que les raisons pour lesquelles il veut la recouvrer.] &lt;L 1998-12-22/51, art. 5, 006; En vigueur : 01-09-1999&gt;
+
+[<sup>2</sup> Si la perte de la nationalité belge résulte de l'impossibilité de faire la déclaration telle que prévue à l'article 22, § 1er, 5°, et si l'intéressé ne satisfait pas aux deux dernières conditions visées au premier alinéa, le procureur du Roi peut néanmoins juger ne pas devoir émettre d'avis négatif, après avoir apprécié les circonstances dans lesquelles le déclarant a perdu la nationalité belge, ainsi que les raisons pour lesquelles il veut la recouvrer.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2012-12-04/04, art. 21, 010; En vigueur : 14-12-2012. Dispositions transitoires: art. 32,§2&gt;
+
+(2)&lt;L 2018-06-18/03, art. 151, 017; En vigueur : 12-07-2018&gt;
+
+## CHAPITRE Vbis. - [inséré par &lt;L 1998-12-22/51, art. 6, En vigueur : 01-09-1999&gt;] Compétences d'avis du parquet.
+
+#### Art. 24bis
+
+&lt;inséré par L 1998-12-22/51, art. 6, En vigueur : 01-09-1999&gt; [<sup>1</sup> Le Collège des procureurs généraux peut arrêter]<sup>1</sup> les directives concernant les modalités selon lesquelles le parquet près le Tribunal de première instance mène l'enquête en vue de la présentation d'un avis tel que prévu dans la présente loi [<sup>1</sup> ...]<sup>1</sup>. Ces directives sont contraignantes pour tous les membres du ministère public. Pour les missions qui doivent être accomplies afin de permettre au procureur du Roi d'émettre les avis requis, les services de police sont soumis à l'autorité de celui-ci. Le Collège des procureurs généraux exerce le contrôle sur les modalités selon lesquelles les parquets exécutent les missions définies dans la présente loi.
+
+----------
+
+(1)&lt;L 2022-12-06/02, art. 46, 018; En vigueur : 31-12-2022&gt;
+
+## CHAPITRE Vter. [<sup>1</sup> - Compétence d'avis du Service Public Fédéral Justice.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-12-06/02, art. 47, 018; En vigueur : 31-12-2022&gt;
+
+#### Art. 24ter
+
+[<sup>1</sup> § 1er. Une Autorité Centrale en matière de nationalité est créée au sein du Service public fédéral Justice.
+
+Sauf dans les matières où le présent Code ou la loi accordent des compétences au procureur du Roi, l'Autorité Centrale en matière de nationalité rend des avis non contraignants, à la demande de l'officier de l'état civil ou du détenteur du registre de la population, du registre des étrangers ou du registre d'attente, en cas de doute sérieux sur la manière d'appliquer une ou plusieurs dispositions du présent Code.
+
+§ 2. L'officier de l'état civil ou le détenteur du registre de la population, du registre des étrangers ou du registre d'attente, transmet sa demande d'avis à l'Autorité Centrale en matière de nationalité, accompagnée des pièces dont il dispose.
+
+L'Autorité Centrale en matière de nationalité peut, si nécessaire, demander des documents ou des actes complémentaires, à l'officier de l'état civil ou au détenteur du registre de la population, du registre des étrangers ou du registre d'attente qui a demandé l'avis. Celui-ci les transmet immédiatement à l'Autorité Centrale en matière de nationalité.
+
+§ 3. L'Autorité Centrale en matière de nationalité rend un avis dans un délai de six mois à partir de la réception de l'ensemble des pièces nécessaires, prolongeable de six mois par l'Autorité Centrale en matière de nationalité.
+
+§ 4. L'Autorité Centrale en matière de nationalité porte l'avis à la connaissance de l'officier de l'état civil ou du détenteur du registre de la population, du registre des étrangers ou du registre d'attente qui l'a demandé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-12-06/02, art. 48, 018; En vigueur : 31-12-2022&gt;
+
+## CHAPITRE VI. - REGISTRES ET MENTIONS.
+
+#### Art. 25
+
+&lt;Abrogé par L 2018-06-18/03, art. 117,8°, 017; En vigueur : 31-03-2019&gt;
+
+## CHAPITRE VII. - DISPOSITIONS TRANSITOIRES.
+
+#### Art. 26
+
+§ 1er. Les dispositions des articles 10, 12, 13, 15 à 17, 22, premier et deuxième alinéas, et 25 des lois sur l'acquisition, la perte et le recouvrement de la nationalité, coordonnées le 14 décembre 1932 et modifiées par les lois des 21 mai 1951, 22 décembre 1961, 17 mars 1964, 2 avril 1965 et 10 octobre 1967, demeurent applicables aux déclarations souscrites en vue d'acquérir ou de recouvrer la nationalité belge ainsi qu'aux demandes de naturalisation introduites avant l'entrée en vigueur du présent Code.
+
+§ 2. Par dérogation au § 1er, il n'est plus requis d'assurer la publicité, par affichage et insertion dans un journal, des déclarations d'acquisition ou de recouvrement de la nationalité belge ni des demandes de naturalisation.
+
+§ 3. Les naturalisations accordées à la suite de demandes introduites avant l'entrée en vigueur du présent Code sont soumises aux dispositions antérieurement applicables des articles 238, 239, 241 à 243, 245 et 246 de l'arrêté royal n° 64 du 30 novembre 1939, contenant le Code des droits d'enregistrement, d'hypothèque et de greffe, confirmé par la loi du 16 juin 1947, modifiés par les lois des 14 août 1947, 28 février 1962 et 17 mars 1964.
+
+[§ 4. Les demandes de grande naturalisation ou de naturalisation ordinaire qui ont été introduites avant l'entrée en vigueur du présent Code, sur la base des articles 12 et 13 des lois sur l'acquisition, la perte et le recouvrement de la nationalité coordonnées le 14 décembre 1932 et modifiées par les lois des 21 mai 1951, 22 décembre 1961, 17 mars 1964, 2 avril 1965 et 10 octobre 1967, sont présumées relatives à la naturalisation.
+
+§ 5. Il en va de même pour les demandes de naturalisation ordinaire ou de grande naturalisation, qui ont été introduites sur la base des dispositions antérieures applicables des articles 19 et 20 du présent code avant l'entrée en vigueur de la loi du 6 août 1993 modifiant le Code de la nationalité belge et les lois relatives à la naturalisation.
+
+§ 6. Les demandes de grande naturalisation qui ont été introduites avant l'entrée en vigueur de la loi du 6 août 1993 modifiant le Code de la nationalité belge et les lois relatives à la naturalisation par des demandeurs qui possédaient la nationalité belge par naturalisation ordinaire ou par déclaration souscrite en vertu de l'article 16 du présent code ou par une femme devenue Belge par mariage avec un Belge sur la base des dispositions légales applicables antérieurement ou du fait de l'acquisition ou de recouvrement de son mari de la nationalité belge, sont caduques.
+
+Le droit d'enregistrement acquitté par le demandeur sera restitué moyennant la production d'une attestation, délivrée par le Ministre de la Justice, certifiant que la demande de naturalisation est caduque.
+
+§ 7. Les déclarations qui ont été souscrites avant l'entrée en vigueur de la loi du 6 août 1993 modifiant le Code de la nationalité belge et les lois relatives a la naturalisation, sur base de la disposition antérieurement applicable de l'article 16, § 2, du présent Code, restent soumises à cette disposition.] &lt;L 1993-08-06/35, art. 15, 004; En vigueur : 03-10-1993&gt;
+
+[§ 8. Les demandes de naturalisation qui ont été introduites avant l'entrée en vigueur de la loi du 1er mars 2000 modifiant certaines dispositions relatives à la nationalité belge, sur la base de la disposition antérieurement applicable de l'article 21 du présent Code, restent soumises à cette disposition.
+
+§ 9. Les déclarations qui ont été faites avant l'entrée en vigueur de la loi du 1er mars 2000 modifiant certaines dispositions relatives à la nationalité belge, sur la base des dispositions antérieurement applicables des articles 11bis, 12bis et 15 du présent Code, restent soumises à ces dispositions.
+
+§ 10. Les demandes de naturalisation qui ont été introduites avant l'entrée en vigueur de la loi du 1er mars 2000 modifiant certaines dispositions relatives à la nationalité belge restent soumises aux dispositions antérieurement applicables des articles 238, 240, 240bis, 241 et 244, du Code des droits d'enregistrement, d'hypothèque et de greffe.] &lt;L 2000-03-01/49, art. 13, 007; En vigueur : 01-05-2000&gt;
+
+#### Art. 27
+
+&lt;L 1993-08-06/35, art. 16, 004; En vigueur : 03-10-1993&gt; Les personnes ayant obtenu la grande naturalisation ou la naturalisation ordinaire sont considérées comme ayant acquis la nationalité belge par naturalisation.
+
+Les personnes devenues Belges avant l'entrée en vigueur de la loi du 6 août 1993 modifiant le Code de la nationalité belge et les lois relatives a la naturalisation par naturalisation ou par déclaration souscrite en vertu de l'article 16 du présent Code, ainsi que les femmes devenues Belges sur la base des dispositions légales applicables antérieurement, par mariage avec un Belge ou du fait de l'acquisition ou du recouvrement de la nationalité belge par leur mari, acquièrent automatiquement les droits et obligations liés à la nationalité belge, sans qu'il puisse leur être opposé qu'elles n'avaient pas acquis la qualité de Belge de naissance.
+
+#### Art. 28
+
+§ 1er. Les personnes qui ont omis de souscrire en temps utile une déclaration d'option en faveur de la nationalité belge sur base de l'article 2, § 4, de la loi du 22 décembre 1961 relative à l'acquisition ou au recouvrement de la nationalité belge par des étrangers nés ou domiciliés sur le territoire de la République du Congo ou par les Congolais ayant eu en Belgique leur résidence habituelle, sont admises à souscrire cette déclaration, dans la forme prévue à l'article 15, dans les deux ans suivant l'entrée en vigueur du présent Code.
+
+§ 2. Les déclarants doivent avoir eu leur résidence principale en Belgique durant les deux années précédant l'entrée en vigueur du présent Code et avoir maintenu cette résidence jusqu'au moment où la déclaration est souscrite.
+
+#### Art. 29
+
+L'entrée en vigueur des articles 8 à 10 du Code de la nationalité belge n'a pas pour effet d'attribuer la nationalité belge à l'étranger qui, lors de cette entrée en vigueur, est âgé de dix-huit ans accomplis.
+
+#### Art. 30
+
+Le délai de résidence à l'étranger prévu à l'article 22, § 1er, 5° du Code de la nationalité belge prend cours à la date d'entrée en vigueur dudit Code.
+
+#### Art. 31
+
+[<sup>1</sup> § 1er. L'étranger qui a suivi avec fruit un cours d'intégration aux conditions fixées par l'autorité compétente de sa résidence principale, prouve son intégration sociale visée à l'ancien article 12bis § 1er, 2°, d) et 3°, e) du présent Code dans sa rédaction antérieure à sa modification par la loi du 18 juin 2018 portant dispositions diverses en matière de droit civil et des dispositions en vue de promouvoir des formes alternatives de résolutions des litiges.
+
+L'étranger doit avoir entamé le cours d'intégration au plus tard dans les trois ans à compter du 1er jour du mois qui suit la date de publication au Moniteur belge de la loi du 18 juin 2018 portant dispositions diverses en matière de droit civil et des dispositions en vue de promouvoir des formes alternatives de résolution des litiges.
+
+§ 2. L'ancien article 12bis § 1er, 2°, d) et 3°, e) du présent Code dans sa rédaction antérieure à sa modification par la loi du 18 juin 2018 portant dispositions diverses en matière de droit civil et des dispositions en vue de promouvoir des formes alternatives de résolution des litiges, reste d'application à l'étranger qui remplit les conditions visées au paragraphe 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-06-18/03, art. 153, 017; En vigueur : 12-07-2018&gt;

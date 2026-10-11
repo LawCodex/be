@@ -1,0 +1,12072 @@
+---
+title: "CODE JUDICIAIRE - Quatrième partie : DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies)"
+identifier: "1967101055"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101055/justel"
+type: code
+justel_type: "CODE JUDICIAIRE"
+jurisdiction: be
+language: fr
+date: 1967-10-10
+published: 1967-10-31
+entry_into_force: 1970-11-01
+last_amended: 2026-06-12
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101055/justel"
+justel_notes:
+  - "articles 1231.38 ; 1231.39 modifiés avec effet à une date indéterminée par L 2018-06-18/03 , art. 159-160; 167; En vigueur : indéterminée "
+  - "art. 1235ter/4 modifié avec effet à une date indéterminée par L 2018-07-30/54 , art. 4; En vigueur : indéterminée "
+  - "Consultation des versions antérieures à partir du 12-06-1985 et mise à jour au 12-06-2026"
+retrieved: 2026-10-11
+---
+
+# 10 OCTOBRE 1967. - CODE JUDICIAIRE - Quatrième partie : DE LA PROCEDURE CIVILE. (art. 664 à 1385octiesdecies)
+
+## LIVRE PREMIER\_ L'ASSISTANCE JUDICIAIRE.
+
+#### CHAPITRE 1er. - Définition. &lt;inséré par L 2006-07-01/72, art. 2; En vigueur : 10-08-2006&gt;
+
+**Art. 664**
+
+L'assistance judiciaire consiste à dispenser, en tout ou en partie, ceux qui ne disposent pas des [<sup>1</sup> moyens d'existence]<sup>1</sup> nécessaires pour faire face aux frais d'une procédure, même extrajudiciaire, de payer les (droits divers), d'enregistrement, de greffe et d'expédition et les autres dépens qu'elle entraîne. Elle assure aussi aux intéressés la gratuité du ministère des officiers publics et ministériels, dans les conditions ci-après déterminées. &lt;L 2006-12-19/33, art. 66, 083 ; En vigueur : 01-01-2007&gt;
+
+(Elle permet également aux intéressés de bénéficier de la gratuité de l'assistance d'un conseiller technique lors d'expertises judiciaires.) &lt;L 2006-07-20/39, art. 10, 076; En vigueur : 01-01-2007&gt;
+
+----------
+
+(1)&lt;L 2016-07-06/01, art. 15, 146; En vigueur : 01-09-2016&gt;
+
+#### CHAPITRE II. - Champ d'application. &lt;inséré par L 2006-07-01/72, art. 3; En vigueur : 10-08-2006&gt;
+
+**Art. 665**
+
+L'assistance judiciaire est applicable:
+
+1° à tous les actes relatifs aux demandes à porter ou pendantes devant un juge de l'ordre judiciaire ou administratif ou devant des arbitres;
+
+2° aux actes relatifs à l'exécution des jugements et arrêts;
+
+3° aux procédures sur requête;
+
+4° aux actes de procédure qui relèvent de la compétence d'un membre de l'ordre judiciaire ou requièrent l'intervention d'un officier public ou ministériel.
+
+5° (aux procédures de médiation, [<sup>1</sup> extrajudiciaires]<sup>1</sup> ou judiciaires, menées par un médiateur agréé par la commission visée à l'article 1727.) &lt;L 2005-02-21/36, art. 2, 071; En vigueur : 30-09-2005&gt;
+
+(6° à toutes les procédures extrajudiciaires imposées par la loi ou le juge;
+
+7° pour l'exécution des actes authentiques dans un autre Etat membre de l'Union européenne dans le cadre de l'article 11 de la directive 2003/8/CE du Conseil du 27 janvier 2003 visant à améliorer l'accès à la justice dans les affaires transfrontalières par l'établissement de règles minimales communes relatives à l'aide judiciaire accordée dans le cadre de telles affaires, dans les conditions définies par cette directive.) &lt;L 2006-07-01/72, art. 12, 077; En vigueur : 10-08-2006&gt;
+
+(8° à l'assistance d'un conseiller technique lors d'expertises judiciaires.) &lt;L 2006-07-20/39, art. 11, 076; En vigueur : 01-01-2007&gt;
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 207, 167; En vigueur : 12-07-2018&gt;
+
+**Art. 666**
+
+Lorsque l'actif d'une faillite est présumé insuffisant pour couvrir les premiers frais de liquidation, le juge saisi ordonne, d'office ou à la requête du curateur, la gratuité de la procédure.
+
+La gratuité est également accordée pour les actes et les procédures conservatoires jusqu'à l'expiration du délai de quarante jours à partir du jugement déclaratif de la faillite.
+
+**Art. 667**
+
+[<sup>1</sup> Le bénéfice de l'assistance judiciaire est accordé aux personnes de nationalité belge, lorsqu'elles justifient de l'insuffisance de leurs moyens d'existence. [<sup>2</sup> Pour déterminer que des personnes justifient de moyens d'existence insuffisants, les articles 508/13/1 et 508/13/2 s'appliquent par analogie, étant entendu que les mots "le bureau d'aide juridique" doivent être lus, selon le cas, comme "le bureau d'assistance judiciaire" ou "le juge".]<sup>2</sup> Les demandes relatives à des causes paraissant manifestement irrecevables ou manifestement mal fondées sont rejetées.
+
+La décision du bureau d'aide juridique octroyant l'aide juridique de deuxième ligne, partiellement ou entièrement gratuite, constitue la preuve de moyens d'existence insuffisants.
+
+Un an après la décision du bureau d'aide juridique, le bureau d'assistance judiciaire ou le juge accordant le bénéfice de l'assistance judiciaire peut vérifier si les conditions d'insuffisance des moyens d'existence sont toujours réunies.
+
+Dans l'hypothèse où le bureau d'aide juridique met fin à l'aide juridique de deuxième ligne en raison du fait que le bénéficiaire ne satisfait plus aux conditions prévues à l'article 508/13, l'avocat transmet sans délai cette décision au bureau d'assistance judiciaire ou au juge compétent.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-07-06/01, art. 16, 146; En vigueur : 01-09-2016&gt;
+
+(2)&lt;L 2020-07-31/02, art. 10, 180; En vigueur : 01-09-2020&gt;
+
+**Art. 668**
+
+&lt;L 15-12-1980, art. 90&gt; Le bénéfice de l'assistance judiciaire peut être accordé dans les mêmes conditions :
+
+a) aux étrangers, conformément aux traités internationaux;
+
+b) à tout ressortissant d'un Etat membre du Conseil de l'Europe;
+
+c) à tout étranger qui a, d'une manière régulière, sa résidence habituelle en Belgique (ou qui est en situation régulière de séjour dans l'un des Etats membres de l'Union européenne); &lt;L 2006-07-01/72, art. 14, 077; En vigueur : 10-08-2006&gt;
+
+d) à tout étranger dans les procédures prévues par la loi sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étranger;
+
+[<sup>1</sup> e) à tous les étrangers qui ont, d'une manière irrégulière, leur résidence en Belgique, à condition qu'ils aient essayé de régulariser leur séjour en Belgique, que leur demande présente un caractère urgent et que la procédure porte sur des questions liées à l'exercice d'un droit fondamental.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-07-06/01, art. 17, 146; En vigueur : 24-07-2016&gt;
+
+#### CHAPITRE III. - Procédure. &lt;inséré par L 2006-07-01/72, art. 4; En vigueur : 10-08-2006&gt;
+
+**Art. 669**
+
+Le bénéfice de l'assistance judiciaire accordé au requérant peut, selon l'importance de ses [<sup>2</sup> moyens d'existence]<sup>2</sup>, être subordonné au versement entre les mains du [<sup>1</sup> receveur compétent de l'administration du Service public fédéral Finances en charge de la perception et du recouvrement des créances non fiscales]<sup>1</sup> d'une somme à déterminer par la décision qui accorde l'assistance.
+
+----------
+
+(1)&lt;L 2016-07-01/01, art. 93, 145; En vigueur : 01-01-2017. Voir également l'art. 108&gt;
+
+(2)&lt;L 2016-07-06/01, art. 18, 146; En vigueur : 01-09-2016&gt;
+
+**Art. 670**
+
+La demande d'assistance judiciaire est portée devant le bureau du tribunal qui doit être saisi du litige ou, selon le cas, du lieu ou l'acte doit être accompli.
+
+Néanmoins, elle est adressée au bureau de la Cour de cassation au bureau de la cour d'appel ou de la cour du travail, au juge de paix ou au tribunal de police, lorsque le litige est de leur compétence ou que l'acte à accomplir relève de leur juridiction.
+
+**Art. 671**
+
+L'assistance judiciaire n'est accordée que pour les actes de procédure à accomplir et pour les simples copies ou les extraits de pièces à produire devant le juge saisi ou à saisir du litige, y compris la signification de la décision définitive. (L'assistance judiciaire couvre également les frais et honoraires du médiateur dans le cadre d'une procédure de médiation judiciaire ou [<sup>1</sup> extrajudiciaire]<sup>1</sup>, menée par un médiateur agréé par la commission visée à l'article 1727 (ainsi que les frais et honoraires des conseillers techniques assistant les parties dans le cadre d'expertises ordonnées par un juge).) &lt;L 2005-02-21/36, art. 3, 071; En vigueur : 30-09-2005&gt; &lt;L 2006-07-20/39, art. 12, 076; En vigueur : 01-01-2007&gt;
+
+En cas d'appel ou de pourvoi en cassation,la demande d'assistance est formée devant le bureau du tribunal ou de la cour saisi du recours.
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 208, 167; En vigueur : 12-07-2018&gt;
+
+**Art. 672**
+
+La partie civile et la partie civilement responsable peuvent demander le bénéfice de l'assistance judiciaire en s'adressant par requête, même verbale, au juge saisi de la poursuite.
+
+**Art. 672bis**
+
+&lt;Inséré par L 1998-01-07/63, art. 3; En vigueur : 04-04-1998&gt; Si la demande visée aux articles 671 et 672 est faite conjointement avec la demande visée à l'article 674bis, elle est adressée au juge compétent, suivant la procédure définie à cet article.
+
+**Art. 673**
+
+Dans les cas urgents et en toutes matières, le président du tribunal ou de la cour et, durant l'instance, le juge saisi de la cause, peuvent, sur requête, même verbale, accorder le bénéfice de l'assistance pour les actes qu'ils déterminent.
+
+**Art. 674**
+
+(Abrogé) &lt;L 2006-07-01/72, art. 15, 077; En vigueur : 10-08-2006&gt;
+
+**Art. 674bis**
+
+&lt;Inséré par L 1998-01-07/63, art. 2; En vigueur : 04-04-1998&gt; § 1er. En matière pénale, l'inculpé, la partie civilement responsable, la partie civile, et toute personne qui, sur base du dossier, pourrait faire état d'un préjudice, peuvent demander l'assistance judiciaire en vue d'obtenir copie de pièces du dossier.
+
+§ 2. La demande est adressée par requête :
+
+1° au président de la chambre du conseil ou de la chambre des mises en accusation lorsque le procureur du Roi ou le procureur général, le cas échéant, prend des réquisitions en vue du règlement de la procédure;
+
+2° au tribunal de police ou au président de la chambre du tribunal correctionnel, lorsque l'inculpé est cité ou a été convoqué par procès-verbal tel que prévu par l'article 216quater du Code de procédure pénale;
+
+3° au président de la chambre de la cour d'appel;
+
+4° au président de la cour d'assises.
+
+(5° au président de la chambre du tribunal correctionnel ou au président de la chambre de la cour d'appel qui connaît de l'appel de l'action publique.) &lt;L 2003-01-06/31, art. 2, 061; En vigueur : 01-03-2003&gt;
+
+(alinéa 2 abrogé) &lt;L 2003-01-06/31, art. 2, 061; En vigueur : 01-03-2003&gt;
+
+§ 3. Lorsque le procureur du Roi ou le procureur général, le cas échéant, a pris des réquisitions en vue du règlement de la procédure, la demande d'assistance judiciaire relative à la délivrance de copies de pièces du dossier est introduite, à peine de déchéance, en ce qui concerne les parties appelées, au plus tard à la première audience.
+
+§ 4. Lorsque l'affaire a été portée sans ordonnance de renvoi devant le tribunal de police ou le tribunal correctionnel, ou devant la cour d'appel, en cas d'application des articles 479 et suivants du Code d'instruction criminelle, le demande d'assistance judiciaire en vue d'obtenir la délivrance de copies de pièces du dossier doit être introduite, à peine de déchéance, dans les huit jours à dater de la citation ou de la convocation.
+
+Le texte de l'alinéa 1er de ce paragraphe est reproduit dans la citation ou la convocation.
+
+(Lorsque l'action publique est portée en appel devant le tribunal correctionnel ou la cour d'appel, la demande d'assistance judiciaire en vue d'obtenir la délivrance de copies de pièces du dossier est introduite, à peine de déchéance, dans les huit jours à dater de la déclaration d'appel. S'il est interjeté appel par le ministère public ou par la partie civile, sans que le prévenu ait interjeté appel, la demande d'assistance judiciaire est introduite, à peine de déchéance, dans les huit jours à dater de la citation.
+
+Le texte de l'alinéa 3 de ce paragraphe est reproduit dans la citation en appel.) &lt;L 2003-01-06/31, art. 2, 061; En vigueur : 01-03-2003&gt;
+
+§ 5. Sauf si elle peut établir qu'elle n'a pas été informée en temps utile, toute personne qui, sur base du dossier, pourrait faire état d'un préjudice doit introduire sa requête, à peine de déchéance, au plus tard le cinquième jour avant la première audience à laquelle la juridiction de jugement connaît de l'action publique.
+
+§ 6. La requête écrite est signée par le requérant ou son avocat. Elle est déposée, selon le cas, à l'audience ou au greffe, ou bien envoyée au greffe par lettre recommandée à la poste. La date figurant sur le récépissé délivré par les services postaux fait office de date de dépôt. La requête verbale est formulée à l'audience, et il en est fait mention ([<sup>1</sup> sur la feuille d'audience]<sup>1</sup>); elle peut aussi être faite sous forme de déclaration au greffe. La déclaration enregistrée par le greffier est versée au dossier. &lt;L 2006-07-10/39, art. 24, 078; En vigueur : 01-01-2013 (voir L 2012-12-31/01, art. 16)&gt;
+
+Le requérant indique les pièces dont il demande la copie lorsqu'il aura eu l'occasion de consulter le dossier.
+
+Seule peut être sollicitée la copie de pièces figurant dans le dossier au moment du dépôt de la requête. Les documents mentionnés à l'article 676 sont joints à la requête.
+
+§ 7. L'examen de la demande d'assistance judiciaire visant à la délivrance de copies se déroule à huis clos. Il a lieu à une audience ultérieure lorsque la requête est déposée ou faite au greffe. Il a lieu à l'audience à laquelle le juge connaît de l'action publique lorsque la requête a été formulée verbalement.
+
+Le président ou le juge statue après que le requérant ou son avocat ainsi que le ministère public ont été entendus ou ont eu l'opportunité de l'être.
+
+Le président ou le juge peut rejeter la demande ou y faire droit en tout ou en partie. Dans sa décision, le président ou le juge indique les pièces pour lesquelles il autorise la délivrance de copies au titre de l'assistance judiciaire.
+
+§ 8. Toute personne dont la requête a été acceptée en tout ou en partie peut introduire une nouvelle requête relative aux pièces versées ultérieurement au dossier.
+
+La requête est introduite, à peine de déchéance, au plus tard le cinquième jour avant l'audience de la juridiction de jugement.
+
+Lorsqu'à l'issue du délai visé à l'alinéa 2, de nouvelles pièces sont versées ultérieurement au dossier, le greffier délivre gratuitement une copie desdites pièces aux parties qui ont déjà bénéficié antérieurement de l'assistance judiciaire pour la délivrance de copies.
+
+§ 9. La décision du juge relative à l'assistance judiciaire pour la délivrance de copies de pièces du dossier n'est pas susceptible d'opposition.
+
+L'appel peut être introduit par le requérant ou par le ministère public dans un délai de vingt-quatre heures, lequel commence à courir à partir du prononcé du jugement.
+
+L'appel est interjeté, selon les règles applicables en matière pénale, auprès du greffe de la juridiction qui a rendu la décision.
+
+Il doit être examiné dans les quinze jours de son introduction :
+
+1° par la chambre du conseil en cas d'appel de la décision du tribunal de police;
+
+2° par la chambre des mises en accusation en cas d'appel de la décision de la chambre du conseil ou du tribunal correctionnel.
+
+§ 10. Les décisions relatives à l'assistance judiciaire pour la délivrance de copies de pièces du dossier ne peuvent faire l'objet d'un pourvoi en cassation.
+
+§ 11. La procédure relative à l'assistance judiciaire pour la délivrance de copies de pièces du dossier en matière pénale ne peut retarder le cours normal de l'action publique.
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 30, 125; En vigueur : 24-05-2014&gt;
+
+**Art. 675**
+
+Devant le tribunal de première instance, le tribunal du travail et le [<sup>1</sup> tribunal de l'entreprise]<sup>1</sup>, le requérant adresse au bureau une requête établie en double et signée par lui ou son avocat; (Cette requête n'est soumise à aucune autre formalité. Le requérant) peut aussi s'adresser verbalement au bureau; en ce cas, le greffier rédige une note sommaire exposant l'objet de la (requête écrite). Dans l'un et l'autre cas, le requérant joint à sa demande les pièces prévues à l'article 676 ou, le cas échéant, à l'article 677. &lt;L 2006-07-01/72, art. 16, 1° et 2°, 077; En vigueur : 10-08-2006&gt;
+
+(Alinéas 2, 3, 4 et 5 abrogés) &lt;L 2006-07-01/72, art. 16, 3°, 077; En vigueur : 10-08-2006&gt;
+
+(Devant le juge de paix, le bénéfice de l'assistance judiciaire peut être accordé sur simple demande, écrite ou verbale, à laquelle sont jointes les pièces visées à l'article 676 ou 677.) &lt;L 2006-07-01/72, art. 16, 4°, 077; En vigueur : 10-08-2006&gt;
+
+----------
+
+(1)&lt;L 2018-04-15/14, art. 252, 163; En vigueur : 01-11-2018&gt;
+
+**Art. 676**
+
+&lt;L 1998-11-23/34, art. 6, 041; En vigueur : 01-09-2001&gt; [<sup>1</sup> Le bureau d'assistance judiciaire ou le juge peut demander soit au justiciable soit à des tiers, y compris des instances publiques, toutes les informations jugées utiles, entre autres le dernier avertissement-extrait de rôle, afin de vérifier que les conditions d'accès à l'assistance judiciaire sont remplies.]<sup>1</sup>
+
+Pour l'exécution de cette disposition, les agents de l'Administration des Finances peuvent être déliés du secret professionnel qui leur est imposé par les lois relatives aux impôts sur les revenus.
+
+----------
+
+(1)&lt;L 2020-07-31/02, art. 11, 180; En vigueur : 01-09-2020&gt;
+
+**Art. 677**
+
+(Sans préjudice de l'article 508/17 et de la possibilité d'introduire la demande par le biais des autorités compétentes au sens de la directive visée à l'article 508/24, § 1er, le requérant résidant à l'étranger fait parvenir sa demande au bureau ou au juge, à l'aide du formulaire visé à l'article 16 de la directive visée à l'article 508/24, § 1er. Il joint à cette demande les documents justificatifs de ses [<sup>1</sup> moyens d'existence]<sup>1</sup>, tels qu'ils sont exigés par la loi du pays où il réside.) &lt;L 2006-07-01/72, art. 17, 077; En vigueur : 10-08-2006&gt;
+
+Si dans ce pays aucune loi ne règle la matière, ou s'il n'est pas possible de se conformer à la loi qui y est en vigueur, il joint à sa demande une déclaration affirmée devant l'agent consulaire belge du lieu de sa résidence; cette déclaration contient l'indication de la résidence du requérant et l'énumération détaillée de ses moyens d'existence et de ses charges.
+
+----------
+
+(1)&lt;L 2016-07-06/01, art. 18, 146; En vigueur : 01-09-2016&gt;
+
+**Art. 678**
+
+&lt;L 2006-07-01/72, art. 18, 077; En vigueur : 10-08-2006&gt; Le bureau statue sur pièces. Il peut aussi examiner la demande.
+
+Il peut, pour cet examen, s'adresser au ministère public et lui demander rapport.
+
+Pour cet examen, le bureau peut convoquer le requérant en chambre du conseil. La convocation lui est adressée, sous pli judiciaire, par le greffier.
+
+Le bureau se prononce dans les huit jours de l'introduction de la demande.
+
+Le greffier notifie l'ordonnance au requérant sous pli judiciaire dans les trois jours de la prononciation.
+
+L'examen a lieu en chambre du conseil.
+
+**Art. 679**
+
+(Abrogé) &lt;L 2006-07-01/72, art. 19, 077; En vigueur : 10-08-2006&gt;
+
+**Art. 680**
+
+La procédure prévue aux articles 675 à (678) est suivie devant le bureau de la cour d'appel et de la cour du travail. &lt;L 2006-07-01/72, art. 20, 1°, 077; En vigueur : 10-08-2006&gt;
+
+(Alinéa 2 abrogé). &lt;L 2006-07-01/72, art. 20, 2°, 077; En vigueur : 10-08-2006&gt;
+
+**Art. 681**
+
+(Abrogé) &lt;L 2006-07-01/72, art. 21, 077; En vigueur : 10-08-2006&gt;
+
+**Art. 682**
+
+&lt;L 2008-06-01/33, art. 2, 094; En vigueur : 26-06-2008&gt; Devant le Bureau de la Cour de cassation, la procédure est suivie conformément aux articles 675 à 677. L'examen aura lieu en chambre du conseil.
+
+Sauf s'il s'agit du mémoire en réponse au pourvoi, le Bureau de la Cour de cassation ne se prononce, dans les matières visées à l'article 478 sur la demande d'assistance judiciaire, qu'après avoir recueilli l'avis d'un avocat à la Cour de cassation désigné par le bâtonnier de l'Ordre. Il peut néanmoins rejeter la demande sans cet avis préalable s'il constate que, soit la requête d'assistance judiciaire, soit le pourvoi envisagé est manifestement irrecevable ou fondé sur un moyen manifestement non sérieux ou que le délai d'introduction du pourvoi est trop proche de son expiration pour permettre à un avocat à la Cour de cassation de l'introduire en temps utile.
+
+Les décisions du Bureau qui rejettent la requête ou n'accordent pas l'assistance judiciaire sont motivées.
+
+**Art. 682bis**
+
+&lt;Inséré par L 2008-06-01/34, art. 2; En vigueur : 26-06-2008&gt; En cas d'urgence, le premier président se prononce sur la requête, après avoir recueilli l'avis du procureur général, sans qu'un avis préalable de l'avocat à la Cour de cassation soit requis et sans que les parties doivent être appelées ou entendues.
+
+**Art. 683**
+
+Les décisions sont exécutoires de plein droit et sur minute nonobstant tout recours.
+
+(La partie requérante peut) en obtenir gratuitement l'expédition. &lt;L 2006-07-01/72, art. 23, 077; En vigueur : 10-08-2006&gt;
+
+**Art. 684**
+
+La décision accordant l'assistance sous la réserve exprimée à l'article 669 est notifiée par le greffier au [<sup>1</sup> l'administration du Service public fédéral Finances en charge de la perception et du recouvrement des créances non fiscales]<sup>1</sup> qui, à son tour, prévient le greffier dès que la consignation est faite.
+
+Cette consignation est mentionnée par le greffier en marge de la minute de la décision.
+
+----------
+
+(1)&lt;L 2016-07-01/01, art. 94, 145; En vigueur : 01-01-2017. Voir également l'art. 108&gt;
+
+**Art. 685**
+
+Toute décision qui accorde l'assistance désigne les officiers publics ou ministériels qui auront à prester leur ministère.
+
+**Art. 686**
+
+Au début de chaque année judiciaire, les chambres de discipline des notaires et des huissiers de justice du ressort dressent une liste pour régler la répartition des affaires entre les notaires et les huissiers et la transmettent aux bureaux de première instance et d'appel.
+
+**Art. 687**
+
+Les dossiers relatifs aux demandes d'assistance judiciaire peuvent être soumis, suivant le cas, à l'examen d'un délégué de la chambre des huissiers de justice ou d'un délégué de la chambre des notaires. Ces chambres ont la faculté de joindre une note au dossier. Toutefois, il ne peut résulter de cette communication aucun retard dans l'examen des affaires.
+
+#### CHAPITRE IV. - Des recours. &lt;inséré par L 2006-07-01/72, art. 5; En vigueur : 10-08-2006&gt;
+
+**Art. 688**
+
+(Les décisions des juges de paix, des tribunaux de police et des bureaux d'assistance judiciaire d'un tribunal de première instance, d'un tribunal du travail ou d'un [<sup>1</sup> tribunal de l'entreprise]<sup>1</sup> peuvent être frappées d'appel par le requérant.) &lt;L 2006-07-01/72, art. 24, 077; En vigueur : 10-08-2006&gt;
+
+Le procureur général près la cour d'appel peut déférer à la Cour de cassation uniquement pour contravention à la loi, les décisions du bureau d'appel.
+
+----------
+
+(1)&lt;L 2018-04-15/14, art. 252, 163; En vigueur : 01-11-2018&gt;
+
+**Art. 689**
+
+&lt;L 2006-07-01/72, art. , 077; En vigueur : 10-08-2006&gt; L'appel est formé, à peine de déchéance, dans le mois de la notification de la prononciation, par requête écrite, déposée au greffe de la juridiction d'appel. Cette requête n'est soumise à aucune autre formalité que la mention des motifs, prescrite à peine de nullité.
+
+La procédure prévue à l'article 678 est suivie.
+
+**Art. 690**
+
+Le pourvoi en cassation est formé par déclaration reçue au greffe de la Cour de cassation dans les dix jours du prononcé, motivé et signifié (au requérant) dans les dix jours de sa date, le tout à peine de nullité. &lt;L 2006-07-01/72, art. 26, 077; En vigueur : 10-08-2006&gt;
+
+La signification est faite avec citation à comparaître à jour fixe devant la Cour de cassation.
+
+Il est procédé suivant les règles énoncées en matière répressive.
+
+#### CHAPITRE V. - Des frais. &lt;inséré par L 2006-07-01/72, art. 6; En vigueur : 10-08-2006&gt;
+
+**Art. 691**
+
+Si (le requérant) ne comprend pas la langue dont il est fait usage devant le bureau de première instance ou d'appel, l'intervention d'un interprète est obligatoire dans toutes les parties du pays. Les frais d'interprète sont à charge de l'Etat. &lt;L 2006-07-01/72, art. 27, 077; En vigueur : 10-08-2006&gt;
+
+**Art. 692**
+
+Les frais de transport et de séjour des magistrats, officiers publics ou ministériels, les frais et honoraires des experts, les taxes des témoins, conformément aux règles énoncées aux chapitres des expertises et des enquêtes, (les frais et honoraires du médiateur dans le cadre d'une procédure de médiation judiciaire ou [<sup>1</sup> extrajudiciaire]<sup>1</sup>, menée par un médiateur agréé par la commission visée à l'article 1727) le coût des insertions dans les journaux lorsqu'elles sont prescrites par la loi ou autorisées par justice, les décaissements et le quart des salaires des huissiers de justice, ainsi que les décaissements des autres officiers publics ou ministériels sont avancés à la décharge de l'assisté, selon la procédure prévue au règlement général sur les frais de justice en matière répressive. &lt;L 2005-02-21/36, art. 4, 071; En vigueur : 30-09-2005&gt;
+
+(Les frais de déplacement que l'assisté expose lorsque la loi requiert ou lorsque le juge ordonne sa présence physique à l'audience sont avancés à la décharge de l'assisté, selon la procédure prévue au règlement général sur les frais de justice en matière répressive.
+
+Il en va de même des frais d'interprétation lorsque l'étranger ne comprend pas la langue de la procédure.
+
+Les frais de traduction des documents exigés par la loi ou par le juge saisi du litige sont, de la même manière, avancés à la décharge de l'étranger visé à l'alinéa précédent.) &lt;L 2006-07-01/72, art. 28, 077; En vigueur : 10-08-2006&gt;
+
+Le Roi détermine, s'il échet, les modalités d'exécution du présent article.
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 209, 167; En vigueur : 12-07-2018&gt;
+
+**Art. 692bis**
+
+&lt;L 2006-07-20/39, art. 13; En vigueur : 01-01-2007&gt; Les frais et honoraires des conseillers techniques assistant les parties lors d'expertises ordonnées par le juge sont avancés à la décharge de l'assisté.
+
+Le Roi détermine, s'il échet, le montant de ces frais et honoraires et les modalités selon lesquelles ils sont taxés, payés, et, le cas échéant, recouvrés.
+
+#### CHAPITRE VI. - Du recouvrement par l'Etat. &lt;inséré par L 2006-07-01/72, art. 7; En vigueur : 10-08-2006&gt;
+
+**Art. 693**
+
+Le recouvrement des émoluments et honoraires des officiers publics et ministériels, à l'exception du quart des salaires des huissiers de justice, le recouvrement des droits et amendes liquidés en débet et des avances faites par [<sup>1</sup> l'administration du Service public fédéral Finances en charge de la perception et du recouvrement des créances non fiscales]<sup>1</sup>, peuvent être poursuivis dans tous les cas contre l'assisté, s'il est établi qu'une modification de son patrimoine, de ses [<sup>2</sup> moyens d'existence]<sup>2</sup> ou de ses charges est intervenue depuis la décision lui accordant le bénéfice de l'assistance judiciaire et qu'il est dès lors en état de payer.
+
+Ce recouvrement peut en outre être poursuivi, solidairement à charge de la partie adverse, si celle-ci a été condamnée aux dépens ou si une transaction est intervenue au cours du procès.
+
+----------
+
+(1)&lt;L 2016-07-01/01, art. 95, 145; En vigueur : 01-01-2017. Voir également l'art. 108&gt;
+
+(2)&lt;L 2016-07-06/01, art. 18, 146; En vigueur : 01-09-2016&gt;
+
+**Art. 694**
+
+<sup>1</sup>[ Si l'adversaire de l'assisté est condamné aux dépens, le greffier transmet, dans le mois, un extrait du jugement au receveur compétent de l'administration du Service public fédéral Finances en charge de la perception et du recouvrement des créances non fiscales.
+
+En cas de transaction, les parties sont tenues d'informer l'administration du Service public fédéral Finances en charge de la perception et du recouvrement des créances non fiscales, par lettre recommandée, qu'il a été mis fin au litige. Cette information doit être donnée dans les soixante jours de l'accord intervenu, faute de quoi il est encouru par chacune des parties une amende administrative de cinquante euros au minimum et qui peut être portée au double des frais de justice avancés par l'administration.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-07-01/01, art. 96, 145; En vigueur : 01-01-2017. Voir également l'art. 108&gt;
+
+**Art. 695**
+
+[<sup>1</sup> Le recouvrement de la créance de l'administration est poursuivi par l'administration du Service public fédéral Finances en charge de la perception et du recouvrement des créances non fiscales, conformément aux articles 3 et suivants de la loi domaniale du 22 décembre 1949.]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>.
+
+Lorsqu'il s'agit d'une faillite dont l'actif est insuffisant pour couvrir les frais résultant de la procédure, les frais et droits sont remboursés dans l'ordre suivant:
+
+1° les avances faites par l'Etat;
+
+2° les honoraires des curateurs et des officiers publics ou ministériels;
+
+3° les droits dus à l'Etat.
+
+----------
+
+(1)&lt;L 2016-07-01/01, art. 97, 145; En vigueur : 01-01-2017. Voir également l'art. 108&gt;
+
+**Art. 696**
+
+La provision versée par l'assisté conformément à l'article 669 est affectée au payement des frais et honoraires dus aux huissiers de justice, notaires, experts (, aux médiateurs agréés par la commission visée à l'article 1727) et témoins, suivant l'ordre de date des diverses prestations. Si, à la fin du procès, la provision n'est pas épuisée, le solde est restitué à l'assisté après payement de tous les droits revenant au trésor, sur justification de la fin du litige. &lt;L 2005-02-21/36, art. 5, 071; En vigueur : 30-09-2005&gt;
+
+**Art. 697**
+
+L'action en recouvrement des sommes dues au trésor se prescrit par trente ans, à compter du jour de l'enregistrement s'il s'agit de droits liquidés en débet, et à partir du jour où [<sup>1</sup> l'administration du Service public fédéral Finances en charge de la perception et du recouvrement des créances non fiscales a effectué le payement, s'il s'agit d'avances faites par elle]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2016-07-01/01, art. 98, 145; En vigueur : 01-01-2017. Voir également l'art. 108&gt;
+
+#### CHAPITRE VII. - Du retrait. &lt;inséré par L 2006-07-01/72, art. 8; En vigueur : 10-08-2006&gt;
+
+**Art. 698**
+
+Tant que l'affaire n'est pas terminée, l'assistance peut être retirée, si elle n'a été obtenue que sur la foi de déclarations inexactes ou si les fins de l'acte introductif sont autres que celles de la requête en obtention du bénéfice de l'assistance.
+
+La demande en retrait peut être faite pour toute partie en cause et par le ministère public. Elle est formée par requête motivée et signifiée avec citation à comparaître devant le tribunal saisi du litige, au jour qui aura été fixé par appointement. Les parties ne sont tenues de comparaître en personne que si le juge l'ordonne.
+
+Celui-ci peut, s'il estime convenable, envoyer la demande pour information au bureau qui a accordé l'assistance. Il ordonne telles mesures d'instruction que de conseil et statue souverainement sur la demande de retrait.
+
+Les frais avancés par l'Etat, les droits tenus en suspens, les émoluments et honoraires des officiers publics et ministériels, autres que la portion payée des salaires des huissiers de justice, sont immédiatement exigibles à charge de la partie déchue du bénéfice de l'assistance.
+
+**Art. 699**
+
+Celui qui, par des déclarations sciemment inexactes ou par d'autres moyens frauduleux, aura obtenu ou tenté d'obtenir le bénéfice de l'assistance sans y avoir droit, est puni [<sup>1</sup> d'une peine de niveau 2 où, par dérogation à l'article 52, § 1er, alinéa 2, 7°, du Code pénal, l'amende maximale s'élève à 40.000 euros]<sup>1</sup>.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-30/01, art. 61, 213; En vigueur : 01-09-2026&gt;
+
+#### CHAPITRE VIII. - Des affaires transfrontalières visées par la directive 2003/8/CE. &lt;inséré par L 2006-07-01/72, art. 9; En vigueur : 10-08-2006&gt;
+
+**Art. 699bis**
+
+&lt;inséré par L 2006-07-01/72, art. 10; En vigueur : 10-08-2006&gt; Pour ce qui concerne les affaires transfrontalières au sens de la directive 2003/8/CE du Conseil du 27 janvier 2003 visant à améliorer l'accès à la justice dans les affaires transfrontalières par l'établissement de règles minimales communes relatives à l'aide judiciaire accordée dans le cadre de telles affaires, l'article 508/24 est applicable par analogie.
+
+**Art. 699ter**
+
+&lt;inséré par L 2006-07-01/72, art. 11; En vigueur : 10-08-2006&gt; La personne qui ne bénéficie pas de [<sup>1</sup> moyens d'existence]<sup>1</sup> insuffisants au sens de l'article 667, peut néanmoins bénéficier de l'assistance judiciaire si elle apporte la preuve qu'elle ne peut pas faire face aux frais en raison de la différence du coût de la vie entre l'Etat membre dans lequel elle a son domicile ou sa résidence habituelle et la Belgique.
+
+----------
+
+(1)&lt;L 2016-07-06/01, art. 18, 146; En vigueur : 01-09-2016&gt;
+
+## LIVRE II. \_ L'INSTANCE.
+
+### TITRE PREMIER. \_ Introduction de la demande.
+
+#### CHAPITRE IER. \_ De la forme de l'introduction de la demande principale.
+
+##### Section première. \_ De l'introduction par citation.
+
+**Art. 700**
+
+(A peine de nullité, les) demandes principales sont portées devant le juge au moyen d'une citation, sans préjudice des règles particulières applicables aux comparutions volontaires et aux procédures sur requête. &lt;L 2007-04-26/71, art. 5, 088; En vigueur : 22-06-2007&gt;
+
+(Les actes déclarés nuls pour contravention à la présente disposition interrompent la prescription ainsi que les délais de procédure impartis à peine de déchéance.) &lt;L 2007-04-26/71, art. 5, 088; En vigueur : 22-06-2007&gt;
+
+**Art. 701**
+
+Diverses demandes entre deux ou plusieurs parties peuvent, si elles sont connexes, être introduites par le même acte.
+
+**Art. 702**
+
+A peine de nullité, l'exploit de citation contient, outre les mentions prévues à l'article 43 :
+
+1° les nom, prénoms et domicile du demandeur [<sup>1</sup> et, le cas échéant, son numéro de registre national [<sup>2</sup> , numéro d'identification dans le registre bis]<sup>2</sup> ou numéro d'entreprise]<sup>1</sup>;
+
+2° les nom, prénoms et domicile ou, à défaut de domicile résidence du cité;
+
+3° l'objet et l'exposé sommaire des moyens de la demande;
+
+4° l'indication du juge qui est saisi de celle-ci;
+
+5° l'indication des lieu, jour et heure de l'audience.
+
+----------
+
+(1)&lt;L 2018-10-14/18, art. 11, 173; En vigueur : 01-02-2019&gt;
+
+(2)&lt;L 2023-12-19/08, art. 17, 202; En vigueur : 08-01-2024&gt;
+
+**Art. 703**
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Les personnes morales agissent en justice à l'intervention de leurs organes compétents.
+
+Leur identité est suffisamment relatée dans la citation et dans tout acte de procédure par l'indication de leur dénomination, de leur nature juridique et de leur siège social.
+
+Toutefois, la partie contre laquelle est invoqué pareil acte de procédure est en droit d'exiger en tout état de cause que la personne morale lui indique l'identité des personnes physiques qui sont ses organes.
+
+Il pourra être sursis au jugement de la cause tant qu'il n'aura pas été satisfait à cette demande.
+
+[<sup>1</sup> § 2. Si un groupement sans personnalité juridique est inscrit à la Banque-Carrefour des Entreprises, la mention de sa dénomination et de son siège figurant dans ses données à la Banque-Carrefour suffit pour justifier, dans les litiges concernant les droits et obligations communs des membres du groupement, de l'identité de ses associés conjoints.
+
+Si l'inscription à la Banque-Carrefour contient également les données d'identification d'un mandataire général, dans les mêmes litiges le groupement peut agir en justice, soit en demandant, soit en défendant, et comparaître en personne à l'intervention de ce mandataire, sans préjudice de l'application, pour ce qui concerne les sociétés, de l'article 36, 1°, du Code des sociétés, mais uniquement pour agir en justice en défendant.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-04-15/14, art. 13, 163; En vigueur : 01-11-2018&gt;
+
+**Art. 704**
+
+&lt;L 2005-12-13/35, art. 4, 074; En vigueur : 01-09-2007&gt; § 1er. Devant le tribunal du travail les demandes principales peuvent être introduites par une requête contradictoire, conformément aux articles 1034bis à 1034sexies, sans préjudice des règles particulières applicables aux comparutions volontaires, aux procédures sur requête unilatérale, et aux procédures spécialement régies par des dispositions légales qui n'ont pas été explicitement abrogées.
+
+§ 2. Dans les matières énumérées aux articles 508/16, (579, 6°), [<sup>1</sup> 579, 7°,]<sup>1</sup> 580, 2°, 3°, 6°, 7°, 8°, 9°, 10° et 11°, 581, 2°, 582, 1° et 2°, et 583, les demandes sont introduites par une requête écrite, déposée ou adressée, sous pli recommandé, au greffe du tribunal du travail; les parties sont convoquées par le greffe à comparaître à l'audience fixée par le juge. La convocation précise l'objet de la demande. &lt;L 2006-12-27/30, art. 127, 082; En vigueur : 01-04-2007&gt;
+
+Les dispositions du § 1er et de la quatrième partie, livre II, titre Vbis, y compris les articles 1034bis à 1034sexies, ne sont pas applicables.
+
+§ 3. Dans les matières énumérées à l'article 578, l'employeur peut être cité ou convoqué par requête contradictoire à la mine, à l'usine, à l'atelier, au magasin, au bureau et, en général, à l'endroit affecté à l'exploitation de l'entreprise, à l'exercice de la profession par le travailleur ou à l'activité de la société, de l'association ou du groupement.
+
+La citation ou le pli judiciaire peuvent en ce cas être remis à un préposé de l'employeur ou à un de ses employés.
+
+§ 4. Dans les matières énumérées au présent article, l'opposition peut également être introduite, selon les cas, dans les formes visées aux §§ 1er ou 2.
+
+----------
+
+(1)&lt;AR 22 2020-06-04/12, art. 25, 179; En vigueur : 11-03-2020&gt;
+
+**Art. 705**
+
+L'Etat est cité au cabinet du ministre dans les attributions duquel est compris l'objet du litige (ou au Bureau du fonctionnaire désigné par celui-ci). (Si l'objet du litige entre dans les attributions du Sénat ou de la Chambre des représentants, l'Etat, représenté par la Chambre des représentants ou le Sénat, est cité au greffe de l'assemblée mise en cause.) &lt;L 1999-03-23/30, art. 2, 043; En vigueur : 06-04-1999&gt; &lt;L 2003-05-26/34, art. 4, 066; En vigueur : 26-07-2003&gt;
+
+Le ministre mis en cause ne peut contester que l'objet du litige entre dans les attributions de son département qu'à la condition de se substituer en même temps (le Ministre ou la Chambre législative intéressés), ce qui aura lieu par simples conclusions. (La Chambre législative mise en cause ne peut contester que l'objet du litige entre dans ses attributions qu'à la condition de se substituer en même temps le Ministre ou la Chambre législative intéressés, ce qui aura lieu par simples conclusions.) &lt;L 2003-05-26/34, art. 4, 066; En vigueur : 26-07-2003&gt;
+
+Sauf dans les cas urgents, le juge peut néanmoins accorder à l'Etat un délai pour lui permettre de déterminer le ministre compétent (ou la Chambre législative compétente) et d'assurer sa défense. Ce délai ne peut excéder un mois. &lt;L 2003-05-26/34, art. 4, 066; En vigueur : 26-07-2003&gt;
+
+Le juge peut décider que les frais de citation à l'égard de l'Etat irrégulièrement représenté n'entreront pas en taxe.
+
+La procédure est poursuivie sur la citation signifiée originairement à l'Etat, tous droits et exceptions saufs pour le surplus.
+
+##### Section II. - De la comparution volontaire.
+
+**Art. 706**
+
+&lt;L 2006-07-10/39, art. 11, 078; En vigueur : 01-01-2013 (voir L 2012-12-31/01, art. 16)&gt; Devant le tribunal de première instance, le tribunal du travail, le [<sup>2</sup> tribunal de l'entreprise]<sup>2</sup>, le juge de paix et le tribunal de police, la demande peut être introduite par une requête conjointe des parties, signée et datée par elles à peine de nullité.
+
+La requête est déposée ou adressée au greffe par lettre recommandée.
+
+Le dépôt de la requête au greffe ou l'envoi recommandé vaut signification.
+
+La requête est inscrite au rôle [<sup>1</sup> ...]<sup>1</sup>.
+
+Si les parties ou l'une d'elles le demandent dans la requête, ou si le juge l'estime nécessaire, ce dernier fixe une audience dans les quinze jours du dépôt de la requête. Les parties et, le cas échéant, leur conseil sont alors convoquées par le greffier à comparaître à l'audience fixée par le juge par simple lettre.
+
+----------
+
+(1)&lt;L 2018-10-14/18, art. 12, 173; En vigueur : 01-02-2019&gt;
+
+(2)&lt;L 2018-04-15/14, art. 252, 163; En vigueur : 01-11-2018&gt;
+
+#### CHAPITRE II. \_ Des délais de citation.
+
+**Art. 707**
+
+Le délai ordinaire des citations pour ceux qui ont leur domicile ou leur résidence en Belgique est de huitaine.
+
+Il en est de même :
+
+1° lorsque la citation est signifiée en Belgique à domicile élu;
+
+2° lorsque la personne à qui la citation est notifiée n'a ni domicile ni résidence connus soit en Belgique, soit à l'étranger;
+
+3° lorsqu'une citation à une partie domiciliée à l'étranger est signifiée à sa personne en Belgique.
+
+**Art. 708**
+
+Dans les cas urgents, le juge de paix, [<sup>1</sup> le président du tribunal ou le tribunal de la famille et de la jeunesse]<sup>1</sup> devant lequel une affaire doit être portée peut, sur requête, présentée sous leur signature par un avocat ou un huissier de justice, rendre une ordonnance pour abréger les délais et, même s'il échet, permettre de citer dans le jour et à l'heure indiquée.
+
+Néanmoins les requêtes présentées au tribunal après la distribution de la cause à une chambre et dans le cours de l'instruction seront répondues par le président de cette chambre.
+
+(Le présent article est applicable à la requête contradictoire.) &lt;L 1992-08-03/31, art. 13, 020; En vigueur : 01-01-1993&gt;
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 148, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 709**
+
+Pour les personnes qui n'ont ni domicile, ni résidence, ni domicile élu en Belgique, le délai est augmenté ainsi qu'il est dit à l'article 55, sauf lorsque la citation leur est signifiée à personne en Belgique.
+
+**Art. 710**
+
+Les délais fixés pour les citations sont prescrits à peine de nullité.
+
+La même règle est applicable aux autres formes de convocations prévues par la loi.
+
+#### CHAPITRE III\_ Du rôle et de la mise au rôle.
+
+##### Section 1ère\_ Du rôle des affaires.
+
+**Art. 711**
+
+Il est tenu [<sup>1</sup> au sein de chaque greffe]<sup>1</sup> un rôle général sur lequel toute cause est inscrite dans l'ordre de sa présentation.
+
+Chaque inscription reçoit un numéro d'ordre et mentionne:
+
+1° le nom des parties;
+
+2° le nom de leur conseil;
+
+3° la date et, le cas échéant, la chambre où la cause est introduite et celle à laquelle elle a été distribuée;
+
+4° [<sup>2</sup> ...]<sup>2</sup>
+
+5° s'il y a lieu, l'indication de la juridiction qui a rendu la décision, objet du recours, et la date de cette décision;
+
+6° la date de la décision intervenue.
+
+(NOTE : remplacé par L 2006-07-10/39, art. 12, 078; En vigueur : 01-01-2017 (voir L 2014-12-19/24, art. 20), abrogé lui-même par l'art. 176, 6° de L 2016-12-25/14; En vigueur : 31-12-2016)
+
+----------
+
+(1)&lt;L 2016-12-25/14, art. 78, 148; En vigueur : 09-01-2017&gt;
+
+(2)&lt;L 2018-10-14/18, art. 13, 173; En vigueur : 01-02-2019&gt;
+
+**Art. 712**
+
+[<sup>1</sup> Les demandes en référé, les demandes sur requête et les demandes introduites par requête conformément à l'article 1675/4 sont inscrites sur des rôles particuliers.]<sup>1</sup>
+
+(NOTE : modifié par L 2006-07-10/39, art. 27, 1°, 078; En vigueur : 01-01-2017 (voir L 2014-12-19/24, art. 20), abrogé lui-même par l'art. 176, 10° de L 2016-12-25/14; En vigueur : 31-12-2016)
+
+----------
+
+(1)&lt;Rétabli par L 2012-02-15/04, art. 2, 116; En vigueur : 01-01-2013&gt;
+
+**Art. 713**
+
+Le rôle général est coté par première et dernière et paraphé sur chaque feuille, selon le cas, par le juge de paix, le président du tribunal ou le premier président de la cour.
+
+(NOTE : modifié par L 2006-07-10/39, art. 13, 078; En vigueur : 01-01-2017 (voir L 2014-12-19/24, art. 20), abrogé lui-même par l'art. 176, 7° de L 2016-12-25/14; En vigueur : 31-12-2016)
+
+**Art. 714**
+
+Le greffier de chaque chambre tient le rôle particulier des affaires qui y sont distribuées.
+
+Les causes dont la fixation est demandée, même par une partie, sont portées au rôle des audiences de la chambre.
+
+**Art. 715**
+
+Il y a un rôle spécial pour la tenue des vacations.
+
+##### Section II\_ La mise au rôle.
+
+**Art. 716**
+
+Les causes sont inscrites au rôle général, au plus tard la veille du jour de l'audience pour laquelle la citation a été donnée.
+
+La cause ne peut être inscrite au rôle général lorsque ce délai est échu.
+
+Néanmoins, lorsqu'il existe de justes motifs, le juge de paix ou le président de la chambre peut autoriser l'inscription le jour de l'audience, pour autant que cette inscription soit demandée avant le début de l'audience.
+
+L'inscription est faite à la requête de l'huissier de justice instrumentant, des parties intéressées, de leur avocat ou d'un porteur de pouvoirs.
+
+(NOTE : modifié par L 2006-07-10/39, art. 15, 078; En vigueur : 01-01-2017 (voir L 2014-12-19/24, art. 20), abrogé lui-même par l'art. 176, 9° de L 2016-12-25/14; En vigueur : 31-12-2016)
+
+**Art. 717**
+
+Si la cause n'a pas été inscrite au rôle général pour l'audience indiquée dans la citation, [<sup>1</sup> la procédure est suspendue d'office]<sup>1</sup>.
+
+(NOTE : remplacé par L 2006-07-10/39, art. 15, 078; En vigueur : 01-01-2017 (voir L 2014-12-19/24, art. 20), abrogé lui-même par l'art. 176, 9° de L 2016-12-25/14; En vigueur : 31-12-2016)
+
+----------
+
+(1)&lt;L 2018-05-25/02, art. 30, 165; En vigueur : 09-06-2018&gt;
+
+**Art. 718**
+
+&lt;L 2006-07-10/39, art. 14, 078; En vigueur : 01-01-2013 (voir L 2012-12-31/01, art. 16)&gt; L'inscription au rôle a lieu sur présentation de l'original ou d'une copie certifiée conforme par l'huissier ou, le cas échéant, de la copie signifiée de l'exploit de citation.
+
+**Art. 719**
+
+Le rôle général est public.
+
+(NOTE : remplacé par L 2006-07-10/39, art. 15, 078; En vigueur : 01-01-2017 (voir L 2014-12-19/24, art. 20), abrogé lui-même par l'art. 176, 9° de L 2016-12-25/14; En vigueur : 31-12-2016)
+
+#### CHAPITRE IV. \_ Le dossier de la procédure.
+
+**Art. 720**
+
+Un dossier est constitué pour toute cause inscrite au rôle général.
+
+[<sup>1</sup> Le dossier mentionne de manière visible la date de la mise au rôle et le numéro d'ordre de la cause.]<sup>1</sup>
+
+(NOTE : remplacé par L 2006-07-10/39, art. 15 et 27, 2°, 078; En vigueur : 01-01-2017 (voir L 2014-12-19/24, art. 20), abrogés eux-mêmes par l'art. 176, 9° et 10° de L 2016-12-25/14; En vigueur : 31-12-2016)
+
+----------
+
+(1)&lt;L 2024-03-28/60, art. 27, 203; En vigueur : 08-04-2024&gt;
+
+**Art. 721**
+
+&lt;L 2006-07-10/39, art. 16, 078; En vigueur : 01-01-2013 (voir L 2012-12-31/01, art. 16)&gt; [<sup>2</sup> § 1er.]<sup>2</sup> Le dossier contient notamment :
+
+1° les actes introductifs d'instance ou de recours et leurs annexes ou, à défaut des originaux, les copies signifiées ou certifiées conformes de ces actes;
+
+2° les notifications, sommations, conclusions et mémoires des parties ainsi que la copie de la lettre annonçant la transmission des pièces, dans le cas prévu à l'article 737, alinéa 2;
+
+3° les procès-verbaux d'audience ou des mesures d'instruction ordonnées en la cause et généralement tous les actes établis par le juge;
+
+4° l'acte relatant le serment de l'expert;
+
+5° les rapports dressés en exécution des décisions du juge;
+
+6° l'avis du ministère public;
+
+7° [<sup>1</sup> la copie, certifiée conforme par le greffier, des décisions rendues en la cause;]<sup>1</sup>
+
+8° l'acte de procuration, prévu à l'article 728, §§ 2, 2bis et 3;
+
+9° l'inventaire des pièces justificatives de chaque partie;
+
+10° l'accusé de réception du dépôt des pièces justificatives inventoriées.
+
+Ces pièces sont versées au dossier par le greffier le jour de leur dépôt.
+
+Un inventaire des pièces, tenu à jour par le greffier et indiquant la date du dépôt de celles-ci, [<sup>2</sup> est créé pour chaque dossier]<sup>2</sup>.
+
+[<sup>2</sup> § 2. Une pièce de procédure peut être établie sous forme dématérialisée et sous forme matérielle.
+
+§ 3. Sous réserve de l'article 782, une pièce de procédure qui est créée sous forme dématérialisée et dont la loi exige la signature, est signée en apposant une signature électronique qualifiée au sens de l'article 3.12 du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.
+
+Pour une pièce de procédure établie sous forme dématérialisée et dont la loi n'exige pas la signature, une signature électronique avancée au sens de l'article 3.11 du règlement visé à l'alinéa 1er, ou un cachet électronique avancé au sens de l'article 3.26 de ce règlement est suffisant.
+
+La signature électronique d'une pièce de procédure par un membre de l'ordre judiciaire figurant sur la liste électronique visée à l'article 315ter, § 1er, alinéa 1er, garantit la qualité en laquelle le signataire signe.
+
+§ 4. Le dossier de la procédure numérique peut être composé à la fois des pièces établies sous forme dématérialisée et des pièces établies sous forme matérielle qui sont dématérialisées.
+
+Pour les pièces matériellement établies par l'ordre judiciaire qui sont dématérialisées ou pour les pièces établies sous forme matérielle de sources externes qui sont dématérialisées et ajoutées au dossier numérique après leur dépôt, le greffier ou le secrétaire de parquet certifient la conformité du document dématérialisé au document matériel au moyen d'un cachet électronique tel que visé au paragraphe 3, alinéa 2, ou d'une signature électronique telle que visée au paragraphe 3, alinéa 1er.
+
+§ 5. Le Roi détermine les mesures de sécurité et les normes techniques minimales auxquelles doivent répondre les systèmes informatiques destinés à effectuer les opérations et traitements visés au paragraphe 3.
+
+Le Roi peut déterminer la manière dont la signature électronique qualifiée est visualisée.
+
+§ 6. La partie du dossier de la procédure sous forme matérielle qui est, conformément au paragraphe 4, alinéa 2, dématérialisée et enregistrée dans le dossier numérique dans le Registre central visé à l'article 725bis/1, § 1er, perd son caractère authentique. Le greffier mentionne dans l'inventaire du dossier pour chaque pièce de cette partie où elle est conservée dans le Registre central.
+
+Des pièces de la partie visée à l'alinéa 1er peuvent être supprimées du dossier de la procédure sous forme matérielle par le greffier. Il en fait mention dans l'inventaire du dossier.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 22, 125; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2024-05-15/03, art. 15, 204; En vigueur : 01-01-2025&gt;
+
+**Art. 722**
+
+[<sup>1</sup> Dans tous les cas où le dossier ou une partie de celui-ci doit être communiqué d'un juge à un autre, sa communication ou le transfert de sa gestion est faite par les soins du greffier au greffier du juge saisi. Si le dossier est intégré dans un dossier visé à l'article 725bis, il est communiqué conjointement avec ce dernier dossier, ou la gestion des deux dossiers est transféré ensemble.
+
+Lorsqu'une décision a été rendue, sa copie est jointe au dossier à communiquer ou dont la gestion doit être transféré.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-15/03, art. 16, 204; En vigueur : 01-01-2025&gt;
+
+**Art. 723**
+
+&lt;L 1990-05-03/34, art. 1, 013; En vigueur : 1990-07-03&gt;
+
+§ 1. [<sup>2</sup> Si la décision rendue fait l'objet d'un recours auprès d'une juridiction supérieure, le greffier de la juridiction saisie demande, dans les cinq jours de l'inscription de la cause au rôle, au greffier qui le gère de lui communiquer le dossier de la procédure ou de lui en transférer la gestion. La communication ou le transfert de la gestion est effectué dans les cinq jours de la réception de la demande. Le Roi règle le mode de communication du dossier ou du transfert de sa gestion.]<sup>2</sup>
+
+§ 2. [<sup>1</sup> Le recours formé par acte d'huissier de justice contre une décision dont un acte de l'état civil doit être établi ou modifié pour produire ses effets dans un délai établi par la loi, est [<sup>2</sup> notifié]<sup>2</sup>, dans les cinq jours après la formation du recours, par acte d'huissier de justice au greffier de la juridiction qui a rendu la décision attaquée, à peine de déchéance si la [<sup>2</sup> notification]<sup>2</sup> tardive a donné lieu à l'établissement ou modification de l'acte de l'état civil.]<sup>1</sup>
+
+§ 3. [<sup>2</sup> Une copie du recours formé par requête devant une juridiction supérieure est communiquée, conjointement avec la demande de communication ou de transfert visé au paragraphe 1er, au greffier qui gérait le dossier de la procédure en première instance. Le greffier fait mention du recours en marge de la décision.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 70, 167; En vigueur : 31-03-2019&gt;
+
+(2)&lt;L 2024-05-15/03, art. 17, 204; En vigueur : 01-01-2025&gt;
+
+**Art. 724**
+
+Lorsque le juge d'appel a statué et s'il n'y a pas de pourvoi en cassation, le dossier est [<sup>1</sup> à nouveau communiqué ou sa gestion est à nouveau transférée]<sup>1</sup> au greffier du juge saisi au premier degré.
+
+Il en est de même lorsque la Cour de cassation rejette le pourvoi ou casse la décision sans renvoi.
+
+----------
+
+(1)&lt;L 2024-05-15/03, art. 18, 204; En vigueur : 01-01-2025&gt;
+
+**Art. 725**
+
+Toute partie peut se faire délivrer par le greffier qui [<sup>1</sup> gère]<sup>1</sup> le dossier, une copie certifiée conforme des pièces.
+
+Le juge détermine les frais de copie qui entrent en taxe.
+
+----------
+
+(1)&lt;L 2024-05-15/03, art. 19, 204; En vigueur : 01-01-2025&gt;
+
+**Art. 725bis**
+
+[<sup>1</sup> § 1er. Sans préjudice des dispositions du présent chapitre, les demandes soumises au tribunal de la famille entre des parties qui, soit ont au moins un enfant mineur commun, soit sont ou ont été mariées, soit sont ou ont été cohabitants légaux sont jointes en un seul dossier appelé dossier familial.
+
+Sont elles aussi jointes au dossier familial visé à l'alinéa 1er, les causes relatives à un enfant dont la filiation n'est établie qu'à l'égard d'un seul parent, ainsi que les causes relatives aux relations personnelles visées à l'article 375bis du Code civil.
+
+§ 2. Le dossier familial est ouvert dès la première demande introduite au tribunal de la famille.
+
+Sous réserve des numéros de rôle attribués à toute cause conformément à l'article 720, il est attribué un numéro spécifique au dossier familial. Ce numéro est mentionné sur tous les actes introductifs d'instance, conclusions et autres pièces du dossier.
+
+Sous réserve des éléments visés à l'article 721, le dossier familial est composé de toutes les causes successives concernant les mêmes parties et leurs enfants communs nés ou à naître.
+
+En cas de renvoi d'un tribunal de la famille à un autre, conformément à l'article 629bis, § 7, le dossier familial complet est [<sup>2</sup> communiqué sans délai ou sa gestion est transférée]<sup>2</sup> sans délai.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-30/23, art. 150, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2024-05-15/03, art. 20, 204; En vigueur : 01-01-2025&gt;
+
+#### CHAPITRE IV/1. [<sup>1</sup> - Registre central des dossiers de la procédure]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-15/03, art. 21, 204; En vigueur : 01-01-2025&gt;
+
+**Art. 725bis/1**
+
+[<sup>1</sup> § 1er. Il est institué auprès du Service Public Fédéral Justice un "Registre central des dossiers de la procédure", ci-après dénommé "Registre central".
+
+Le Registre central est une banque de données informatisée ayant comme objectifs:
+
+1° l'enregistrement et la conservation centralisés sous forme dématérialisée des dossiers de la procédure afin de faciliter l'exécution des missions légales de l'ordre judiciaire;
+
+2° de servir comme source authentique, visée à l'article 2, alinéa 1er, 6°, de la loi du 15 août 2012 relative à la création et à l'organisation d'un intégrateur de services fédéral, des dossiers de la procédure qui y sont enregistrés en tout, et des dossiers de la procédure qui y sont enregistrés en partie, pour cette partie;
+
+3° de permettre la consultation par voie électronique des données enregistrées dans le Registre central par les personnes et acteurs qui sont en droit de les consulter en application du paragraphe 5, alinéa 1er;
+
+4° le traitement des données enregistrées dans le Registre central afin d'améliorer la qualité de ces données;
+
+5° le traitement des données enregistrées dans le Registre central afin d'optimaliser l'organisation de l'ordre judiciaire, permettant une gestion plus efficace, un meilleur soutien de politiques, une meilleure analyse de l'impact des modifications législatives et une meilleure affectation des moyens humains et logistiques au sein de l'ordre judiciaire;
+
+6° le traitement des données enregistrées dans le Registre central pour le développement des systèmes informatiques pour soutenir les membres de l'ordre judiciaire, repris dans la liste électronique visée à l'article 315ter, § 1er, alinéa 1er, dans l'exécution de leurs missions légales;
+
+7° le traitement d'un ensemble de données ou des données individuelles enregistrées dans le Registre central, à des fins historiques ou scientifiques;
+
+8° le traitement de données individuelles spécifiées enregistrées dans le Registre central, à des fins journalistiques;
+
+9° le traitement à des fins statistiques, dans les limites déterminées par le titre 4 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, des données enregistrées dans le Registre central.
+
+§ 2. Dans le Registre central, les données suivantes sont enregistrées:
+
+1° le dossier de la procédure constitué sous forme dématérialisée conformément à l'article 721;
+
+2° le dossier de la procédure dématérialisé conformément à la loi qui a été initialement constitué sous forme matérielle;
+
+3° les métadonnées nécessaires pour atteindre les finalités visées au paragraphe 1er, alinéa 2, à savoir:
+
+a) les données de la juridiction et des personnes qui gèrent le dossier de la procédure;
+
+b) les données relatives au dossier de la procédure;
+
+c) les données d'identification nécessaires des personnes mentionnées dans le dossier de la procédure;
+
+d) le numéro d'identification unique du dossier de la procédure;
+
+e) la description générale du litige.
+
+4° les données nécessaires à la sécurité du Registre central.
+
+Le Roi détermine, après avis du gestionnaire visé au paragraphe 3, les données exactes visées à l'alinéa 1er, 3°, qui sont enregistrées dans le Registre central.
+
+Le Roi détermine les conditions techniques auxquelles le dossier de la procédure doit satisfaire en vue de son enregistrement dans le Registre central.
+
+§ 3. Le Registre central est géré par le gestionnaire visé à l'article 42, alinéa 1er, de la loi du 18 février 2014 relative à l'introduction d'une gestion autonome pour l'organisation judiciaire.
+
+Le gestionnaire met en place et gère le fonctionnement du Registre central. Il a plus spécifiquement pour mission:
+
+1° de surveiller le respect des objectifs du Registre central et de l'absence maximale de téléchargement non-autorisé des données;
+
+2° de superviser le fonctionnement du Registre central, y compris la supervision de la politique d'accès et d'en exercer le contrôle;
+
+3° d'autoriser par écrit et sous conditions les tiers visés au paragraphe 5, alinéa 1er, 5° et 7°, pour les traitements visés au paragraphe 1er, alinéa 2, 6° ou 9° ;
+
+4° de superviser l'infrastructure technique du Registre central;
+
+5° de rapporter régulièrement sur le fonctionnement du Registre central et sur l'exercice des missions visées aux 1° à 4°.
+
+Le rapport visé à l'alinéa 2, 5°, est déposé annuellement auprès du ministre de la Justice et du délégué à la protection des données visé au paragraphe 5, alinéa 1er, 2°, d).
+
+§ 4. La responsabilité de traitement est réglée conformément à l'article 42, alinéa 3, de la loi du 18 février 2014 relative à l'introduction d'une gestion autonome pour l'organisation judiciaire.
+
+§ 5. Ont accès au Registre central:
+
+1° pour déposer, compléter ou rectifier des données visées au paragraphe 2, alinéa 1er, les personnes reprises dans la liste électronique visée à l'article 315ter, § 1er, alinéa 1er, de la juridiction saisie de l'affaire à laquelle le dossier se rapporte, dans les limites de leurs missions légales;
+
+2° pour consulter les données visées au paragraphe 2, alinéa 1er:
+
+a) les personnes reprises dans la liste électronique visée à l'article 315ter, § 1er, alinéa 1er, de la juridiction saisie de l'affaire à laquelle le dossier se rapporte, dans les limites de leurs missions légales;
+
+b) les personnes reprises dans la liste électronique visée à l'article 315ter, § 1er, alinéa 1er, du ministère public, dans les limites de leurs missions légales;
+
+c) les personnes qui ont, conformément à la loi, le droit de consulter un dossier spécifique, la consultation restant limitée à ce dossier et le droit de consultation s'exerçant exclusivement dans les limites et conformément aux autres règles du Code judiciaire, aux lois particulières relatives à la procédure judiciaire ainsi qu'à leurs arrêtés d'exécution;
+
+d) le délégué à la protection des données désigné par les responsables conjoints du traitement, dans les limites de ses missions légales;
+
+3° à titre exceptionnel, lorsque les exigences de leur mission rendent cet accès indispensable, les personnes désignées par le gestionnaire chargées de la gestion technique et opérationnelle du Registre central, agissant dans le cadre de leur fonction;
+
+4° pour le traitement des données visées au paragraphe 1er, alinéa 2, 5° :
+
+a) les autorités judiciaires chargées de la gestion et de l'organisation des cours et tribunaux;
+
+b) les services chargés de l'analyse statistique auprès des entités représentées au sein du gestionnaire;
+
+5° pour le traitement des données visées au paragraphe 1er, alinéa 2, 6°, les tiers autorisés par écrit par le gestionnaire, dans les conditions déterminées par le gestionnaire;
+
+6° pour les traitements des données visés au paragraphe 1er, alinéa 2, 7° ou 8°, les tiers autorisés par écrit par la juridiction saisie de l'affaire à laquelle le dossier se rapporte;
+
+7° pour le traitement des données visées au paragraphe 1er, alinéa 2, 9°, les autorités publiques autorisées par écrit par le gestionnaire, conformément aux conditions déterminées par le gestionnaire.
+
+Sans préjudice des 1° et 3°, le Roi peut, par arrêté délibéré en Conseil des ministres et sur avis de l'Autorité de contrôle compétente, désigner d'autres autorités, organes ou services pour déposer les données visées au paragraphe 2, alinéa 1er.
+
+Le traitement des données enregistrées dans le Registre central pour d'autres objectifs que ceux visés au paragraphe 1er, alinéa 2, est interdit. La violation de cette interdiction est punie de la peine visée à l'article 222 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel.
+
+Le Roi détermine, après avis du gestionnaire, les modalités de l'accès au Registre central ainsi que les procédures relatives à cet accès.
+
+Quiconque, à quelque titre que ce soit, participe à la collecte ou à l'enregistrement des données dans le Registre central, ou au traitement ou à la communication des données qui y sont enregistrées et qui, de ce fait, a connaissance de telles données, est tenu d'en respecter le caractère confidentiel, le cas échéant. En cas d'infraction, les peines de l'article 458 du Code pénal lui sont applicable.
+
+Lorsque le gestionnaire constate une utilisation injustifiée de l'accès au Registre central, il porte cela à la connaissance de l'autorité compétente, en vertu de la loi, pour intenter une procédure disciplinaire en ce qui concerne l'utilisateur concerné.
+
+§ 6. Le dossier de la procédure est conservé pour une durée de dix ans suivant la fin du litige sur lequel le dossier porte. Si nécessaire, cette durée de conservation est prolongée jusqu'à ce que tous les recours ordinaires et, le cas échéant, le pourvoi en cassation dans l'affaire sur laquelle le dossier porte, aient été épuisés. Dans tous les cas, la durée de conservation ne peut être inférieure à celle prévue dans le tableau de tri des archives du pouvoir judiciaire, établi dans l'exécution de la loi du 24 juin 1955 relative aux archives et fixé dans une circulaire publiée sur le site-web des Archives de l'Etat.
+
+A l'issue du délai de conservation visé à l'alinéa 1er, une sélection des dossiers de la procédure est, sauf dispense régulièrement accordée, déposée aux Archives de l'Etat en bon état, ordonnée et accessible. Si ce dépôt s'avère impossible, le dossier est conservé dans le Registre central jusqu'à ce que son dépôt ait lieu conformément à l'article 1er, alinéa 1er, de la loi du 24 juin 1955 sur les archives.
+
+§ 7. Le Roi détermine, après avis du gestionnaire, les modalités techniques et matérielles de mise en place et de fonctionnement du Registre central, qui ne peuvent toutefois avoir aucune incidence sur le contenu ou la compréhension des dossiers de la procédure enregistrés dans le Registre central.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-05-15/03, art. 22, 204; En vigueur : 01-01-2025&gt;
+
+#### CHAPITRE IVbis. [<sup>1</sup> - Système informatique centralisé pour la gestion des dossiers numériques.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-19/08, art. 11, 202; En vigueur : 01-01-2024&gt;
+
+**Art. 725ter**
+
+[<sup>1</sup> § 1er. Il est institué, auprès du Service public fédéral Justice, en appui de l'ordre judiciaire un système centralisé de gestion des dossiers numériques, dénommé ci-après "le système de gestion des dossiers".
+
+§ 2. Ce système de gestion des dossiers a pour finalités:
+
+1° permettre l'accès au dossier numérique, conformément aux Codes judiciaire et d'instruction criminelle et aux lois particulières relatives à la procédure civile et pénale ainsi qu'à leurs arrêtés d'exécution:
+
+a) pour les personnes reprises dans la liste électronique visée à l'article 315ter, § 1er, alinéa 1er, dont ces données émanent, dans les limites de leurs missions légales;
+
+b) pour les auxiliaires de justice;
+
+c) sur la base de l'article 646 du Code d'instruction criminelle, à la Banque de données Nationale Générale visée à l'article 44/7 de la loi du 5 août 1992 sur la fonction de police, uniquement pour les données visées au § 3, 4° ;
+
+d) sur la base de l'article 28, 4° de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, aux banques de données de base, visées à l'article 44/11/2, § 6 de la loi sur la fonction de police, uniquement pour les données visées au § 3, 4° ;
+
+2° la gestion du dossier numérique par les personnes reprises dans la liste électronique visée à l'article 315ter, § 1er, alinéa 1er, conformément aux Codes judiciaire et d'instruction criminelle et aux lois particulières relatives à la procédure civile et pénale ainsi qu'à leurs arrêtés d'exécution;
+
+3° la gestion des audiences, conformément aux Codes judiciaire et d'instruction criminelle et aux lois particulières relatives à la procédure civile et pénale ainsi qu'à leurs arrêtés d'exécution.
+
+§ 3. Ce système de gestion des dossiers traite les catégories de données à caractère personnel suivantes:
+
+1° les données d'identification et de fonction des personnes reprises dans la liste électronique visée à l'article 315ter, § 1er, alinéa 1er, dont ces données émanent, des auxiliaires de justice et des parties au procès;
+
+2° les données contenues dans le dossier numérique;
+
+3° les données nécessaires à la sécurité du système de gestion des dossiers.
+
+4° le statut du dossier et celui des personnes y enregistrées.
+
+§ 4. Ce système de gestion des dossiers conserve les données à caractère personnel conformément aux Codes judiciaire et d'instruction criminelle et aux lois particulières relatives à la procédure civile et pénale ainsi qu'à leurs arrêtés d'exécution.
+
+§ 5. Ce système de gestion des dossiers transmet les données à caractère personnel conformément aux Codes judiciaire et d'instruction criminelle et aux lois particulières relatives à la procédure civile et pénale ainsi qu'à leurs arrêtés d'exécution.
+
+§ 6. Les droits des personnes dont les données sont traitées par ce système de gestion des dossiers sont exercés conformément aux dispositions des Codes judiciaire et d'instruction criminelle et aux lois particulières relatives à la procédure civile et pénale ainsi qu'à leurs arrêtés d'exécution.
+
+§ 7. Le système de gestion des dossiers est géré par le gestionnaire [<sup>2</sup> visé à l'article 42, alinéa 1er, de la loi du 18 février 2014 relative à l'introduction d'une gestion autonome pour l'organisation judiciaire]<sup>2</sup>.
+
+§ 8. Le Roi détermine les modalités du présent article, après avis préalable de l'entité Cassation, du Collège des cours et tribunaux et du Collège du ministère public.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-19/08, art. 12, 202; En vigueur : 01-01-2024&gt;
+
+(2)&lt;L 2024-03-28/60, art. 28, 203; En vigueur : 08-04-2024&gt;
+
+#### CHAPITRE IVter.
+
+&lt;Abrogé par L 2024-03-28/60, art. 29, 203; En vigueur : 08-04-2024&gt;
+
+**Art. 725quater**
+
+&lt;Abrogé par L 2024-03-28/60, art. 29, 203; En vigueur : 08-04-2024&gt;
+
+#### CHAPITRE V. \_ De la distribution des causes.
+
+**Art. 726**
+
+Lorsqu'une affaire a été portée au rôle d'une chambre d'introduction et n'a été ni retenue à l'audience d'introduction, ni remise à une date déterminée pour y être instruite et jugée, elle est distribuée, s'il y a lieu, par le Président du tribunal à une autre chambre.
+
+#### CHAPITRE VI. \_ De la comparution des parties sur citation.
+
+**Art. 727**
+
+Au jour fixé par la citation, le greffier fait, à l'ouverture de l'audience, l'appel des causes, dans l'ordre de leur inscription au rôle général.
+
+(NOTE : remplacé par L 2006-07-10/39, art. 15, 078; En vigueur : 01-01-2017 (voir L 2014-12-19/24, art. 20), abrogé lui-même par l'art. 176, 9° de L 2016-12-25/14; En vigueur : 31-12-2016)
+
+**Art. 728**
+
+&lt;L 24-12-1980, art. unique&gt; § 1er. Lors de l'introduction de la cause et ultérieurement, les parties sont tenues de comparaître en personne ou par avocat.
+
+§ 2. Devant le juge de paix, le [<sup>2</sup> tribunal de l'entreprise]<sup>2</sup> et les juridictions du travail, les parties peuvent aussi être représentées par leur conjoint [<sup>1</sup> , par leur cohabitant légal]<sup>1</sup> ou par un parent ou allié porteurs d'une procuration écrite et agréés spécialement par le juge.
+
+(§ 2bis. A la demande expresse du contribuable ou de son avocat, formée par voie de conclusions, le juge peut entendre en ses explications écrites ou verbales à l'audience l'expert-comptable, le comptable professionnel ou le réviseur d'entreprise choisi par le contribuable. Le recours à l'expert-comptable, au comptable professionnel ou au réviseur d'entreprise est soumis à l'appréciation du juge qui apprécie l'opportunité de procéder à semblable consultation qui ne peut porter que sur des éléments de fait ou sur des questions relatives à l'application du droit comptable.
+
+L'expert-comptable, le comptable professionnel ou le réviseur d'entreprise visé à l'alinéa précédent s'entend de la personne qui s'occupe habituellement de la comptabilité du contribuable, ou qui a contribué à l'élaboration de la déclaration fiscale litigieuse, ou qui est intervenue aux côtés du contribuable dans la procédure de réclamation administrative.) &lt;L 1999-03-23/30, art. 8, 043; En vigueur : 06-04-1999&gt;
+
+[<sup>3</sup> § 2ter. A la demande expresse de la partie ou de son avocat, formée par voie de conclusions, le juge entend en leurs explications écrites ou verbales à l'audience les personnes suivantes choisies par la partie:
+
+1° les membres de l'Institut des mandataires en brevets visé à l'article XI.75/3, § 1er, du Code de droit économique;
+
+2° les personnes inscrites sur la liste des mandataires agréés visée à l'article 134 de la Convention sur le brevet européen et qui sont en même temps inscrites sur la liste visée à l'article 48, paragraphe 3, de l'Accord du 19 février 2013 relatif à une juridiction unifiée du brevet.
+
+L'exposé des personnes visées à l'alinéa 1er, ne peut porter que sur des éléments de fait, des considérations techniques ou des questions relatives à l'application du droit des brevets d'invention.]<sup>3</sup>
+
+§ 3. En outre, devant les juridictions du travail, le délégué d'une organisation représentative d'ouvriers ou d'employés, porteur d'une procuration écrite, peut représenter l'ouvrier ou l'employé, partie au procès, accomplir en son nom les diligences que cette représentation comporte, plaider et recevoir toutes communications relatives à l'instruction et au jugement du litige.
+
+Devant ces mêmes juridictions, le travailleur indépendant peut, dans les litiges relatifs à ses propres droits et obligations en cette qualité ou en qualité de handicapé, être pareillement représenté par le délégué d'une organisation représentative d'indépendants.
+
+(Dans les litiges prévus à l'article 580, 8°, c (relatifs au minimum de moyens d'existence et au droit à l'intégration sociale) et à l'article 580, 8°, d relatif à la loi du 8 juillet 1976 organique des centres publics d'aide sociale en ce qui concerne les contestations relatives à l'octroi de l'aide sociale, à la révision, au refus, au remboursement par le bénéficiaire et à l'application des sanctions administratives prévues par la législation en la matière, l'intéressé peut, en outre, se faire assister ou être représenté par un délégué d'une organisation sociale qui défend les intérêts du groupe des personnes visées par la législation en la matière.) &lt;L 1993-01-12/34, art. 19, 021; En vigueur : 1993-03-01&gt; &lt;L 2002-05-26/47, art. 48, 058; En vigueur : 01-10-2002&gt;
+
+Dans ces mêmes litiges, le centre public d'aide sociale comparaît soit par un avocat, soit par un membre effectif ou un membre du personnel délégué par lui; le Ministre ayant l'aide sociale dans ses attributions peut se faire représenter par un fonctionnaire.
+
+§ 4. Les agents d'affaires ne peuvent être mandataire.
+
+(§ 5. Dans le cas visé à l'article 1322quinquies alinéa 1er, le requérant peut être représente par le ministère public.) &lt;L 1998-08-10/A2, art. 4, 044; En vigueur : 04-05-1999&gt;
+
+----------
+
+(1)&lt;L 2015-07-17/58, art. 2, 139; En vigueur : 06-09-2015&gt;
+
+(2)&lt;L 2018-04-15/14, art. 252, 163; En vigueur : 01-11-2018&gt;
+
+(3)&lt;L 2018-07-08/06, art. 41, 205; En vigueur : 01-04-2024&gt;
+
+**Art. 729**
+
+&lt;L 2007-04-26/71, art. 6, 088; En vigueur : 22-06-2007&gt; Lorsque la cause n'est pas de nature à être plaidée lors de son introduction, les avocats des parties peuvent, d'un commun accord, remplacer la comparution prévue à l'article 728 par une déclaration écrite de postulation explicitant, dans la mesure du possible, leur position en ce qui concerne la mise en état judiciaire. Cette déclaration est adressée au préalable au greffe. II en est fait mention [<sup>1</sup> sur la feuille d'audience]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 30, 125; En vigueur : 24-05-2014&gt;
+
+**Art. 729/1**
+
+[<sup>1</sup> L'avocat qui agit pour une partie qui auparavant n'avait pas d'avocat, l'avocat qui succède à un autre avocat et l'avocat qui cesse d'agir pour une partie sans que lui succède un autre avocat en informent sans délai le greffe par simple lettre.
+
+Cette notification prend effet dès sa réception.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-10-19/01, art. 11, 141; En vigueur : 01-11-2015&gt;
+
+**Art. 730**
+
+&lt;L 1993-11-25/30, art. 1, 024; En vigueur : 1993-11-30&gt; Une cause peut être rayée du rôle général avec l'accord des parties.
+
+Toute cause rayée du rôle général ne peut y être ramenée que par une citation nouvelle, sauf le droit des parties de comparaître volontairement.
+
+§ 2. a) [<sup>3</sup> A partir du 1er juin et jusqu'au 30 septembre de chaque année civile, le greffier établit la liste des causes dans lesquelles aucune audience n'a été fixée depuis vingt-quatre mois. Il notifie aux parties concernées par ces causes qu'en l'absence de demande de maintien, leur cause sera omise d'office du rôle général. Cette notification est faite le 30 septembre de l'année civile en cause, ou, si le 30 septembre tombe un samedi, un dimanche ou un jour férié légal, le jour ouvrable qui suit, par publication électronique selon les modalités déterminées par le Roi et par envoi recommandé avec accusé de réception aux parties qui ne sont ni représentées ni assistées par un avocat [<sup>4</sup> ni par un délégué d'une organisation représentative d'ouvriers, d'employés ou d'indépendants]<sup>4</sup>. Cette notification contient le texte du présent paragraphe et précise que si des éléments sont intervenus dans le dossier entre le moment de la vérification par le greffier et la notification, cette notification est nulle et non avenue.
+
+Les parties disposent d'un délai de deux mois à dater de la notification pour déposer au greffe une demande de maintien de la cause au rôle général.
+
+Toutes les causes dont le maintien n'est pas demandé par au moins une partie sont omises d'office du rôle général.
+
+Toute cause omise du rôle général peut être réinscrite à la demande de la partie la plus diligente.
+
+Le présent paragraphe n'est pas d'application à la procédure écrite visée à l'article 755.]<sup>3</sup>
+
+b) Si l'instruction d'une affaire révèle un retard anormal, la cause peut être omise d'office du rôle des audiences [<sup>1</sup> ou du rôle général]<sup>1</sup>.
+
+Toute cause omise du rôle d'audience [<sup>1</sup> ou du rôle général]<sup>1</sup> peut y être ramenée par la partie la plus diligente sans autres formalités qu'une demande adressée au président de la chambre.
+
+En ce cas néanmoins il ne peut être statué par défaut à l'égard d'une partie si elle n'a été avertie par le greffier des jour et heure de l'audience où le défaut sera requis. Cet avertissement est donné par pli judiciaire, quinze jours au moins avant l'audience. S'il est justifié que par suite d'une circonstance non imputable à la partie, l'avertissement ne lui est pas parvenu, le juge peut ordonner qu'elle sera citée par huissier de justice.
+
+§ 3. L'omission d'une cause n'éteint ni le droit ni l'instance. La radiation éteint l'instance.
+
+(NOTE : modifié par L 2006-07-10/39, art. 15, 078; En vigueur : 01-01-2017 (voir L 2014-12-19/24, art. 20), abrogé lui-même par l'art. 176, 9° de L 2016-12-25/14; En vigueur : 31-12-2016)
+
+----------
+
+(1)&lt;L 2012-07-16/04, art. 3, 117; En vigueur : 13-08-2012&gt;
+
+(2)&lt;L 2020-07-31/03, art. 65, 181; En vigueur : 31-03-2022&gt;
+
+(3)&lt;L 2024-03-28/60, art. 30, 203; En vigueur : 08-04-2024&gt;
+
+(4)&lt;L 2026-02-08/04, art. 46, 211; En vigueur : 26-02-2026&gt;
+
+### TITRE II. \_ Instruction et jugement de la demande.
+
+#### CHAPITRE IER. [<sup>1</sup> - Les modes amiables de résolution des litiges.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 210, 167; En vigueur : 01-01-2019&gt;
+
+##### Section 1ère. [<sup>1</sup> - Disposition générale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-19/05, art. 27, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 730/1**
+
+[<sup>1</sup> § 1er. Le juge favorise en tout état de la procédure un mode de résolution amiable des litiges.
+
+§ 2. [<sup>2</sup> Le juge]<sup>2</sup> peut, à l'audience d'introduction ou lors d'une audience fixée à date rapprochée, interroger les parties sur la manière dont elles ont tenté de résoudre le litige à l'amiable avant l'introduction de la cause et les informer des possibilités d'encore résoudre le litige à l'amiable. A cette fin, le juge peut ordonner la comparution personnelle des parties.
+
+[<sup>2</sup> Sauf en référé, à la demande]<sup>2</sup> de l'une des parties ou s'il l'estime utile, le juge, s'il constate qu'un rapprochement est possible, peut, à cette même audience d'introduction ou à une audience fixée à date rapprochée, remettre la cause à une date fixe, qui ne peut excéder un mois sauf accord des parties, afin de leur permettre de vérifier si leur litige peut être totalement ou partiellement résolu à l'amiable et de recueillir toutes les informations utiles en la matière.
+
+La mesure visée à l'alinéa 2 ne peut être ordonnée si elle l'a déjà été dans le cadre du même litige.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-06-18/03, art. 211, 167; En vigueur : 12-07-2018&gt;
+
+(2)&lt;L 2023-12-19/05, art. 28, 200; En vigueur : 06-01-2024&gt;
+
+##### Section 2. [<sup>1</sup> - La conciliation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-19/05, art. 29, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 731**
+
+[<sup>1</sup> Il entre dans la mission du juge de concilier les parties.
+
+[<sup>3</sup> ...]<sup>3</sup>
+
+Sauf dans les cas prévus par la loi, le préliminaire de conciliation ne peut être imposé.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 212, 167; En vigueur : 12-07-2018&gt;
+
+(2)&lt;L 2022-11-06/01, art. 2, 193; En vigueur : 01-12-2022&gt;
+
+(3)&lt;L 2023-12-19/05, art. 30, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 731/1**
+
+[<sup>1</sup> Sans préjudice des dispositions des articles 1724 à 1737, toute demande principale introductive d'instance entre parties capables de transiger et sur des objets susceptibles d'être réglés par transaction, peut être préalablement soumise, à la requête d'une des parties ou de leur commun accord, à fin de conciliation au juge compétent pour en connaître. Toutefois, s'il existe des indices sérieux que des violences, des menaces ou toute autre forme de pression sont ou ont été exercées par une partie à l'encontre de l'autre partie, l'article 1734, § 1er, alinéa 3, s'applique par analogie.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-19/05, art. 31, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 732**
+
+[<sup>1</sup> Sans préjudice du délai de citation visé à l'article 707,]<sup>1</sup> les parties sont convoquées à la demande, même verbale, de l'une d'elles, par simple lettre du greffier, à comparaître dans le délai [<sup>1</sup> d'un mois]<sup>1</sup>, aux jour et heure fixés par le juge.
+
+[<sup>1</sup> Si la demande en conciliation contient la réclamation d'un droit, elle est assimilée à la mise en demeure visée à l'article 5.240 du Code civil.
+
+Dans les mêmes conditions, la demande en conciliation suspend le cours de la prescription de l'action attachée à ce droit pendant un mois.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-19/05, art. 32, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 733**
+
+Il est dressé procès-verbal de la comparution en conciliation. Si un accord intervient, le procès-verbal en constate les termes et l'expédition est revêtue de la formule exécutoire [<sup>1</sup> , sauf si les parties y renoncent]<sup>1</sup>.
+
+[<sup>2</sup> Lorsque le litige porte sur des matières visées à l'article 1004/1, les termes de l'accord précisent de quelle manière l'intérêt de l'enfant a été pris en compte. Si l'accord ne contient pas cette mention, le juge remet la cause à date fixe et demande aux parties de compléter l'accord sur ce point. A défaut de mention ou si l'accord est contraire à l'intérêt de l'enfant, le juge refuse de constater ou d'acter les termes de l'accord. Le juge en informe les parties au cours de la conciliation.]<sup>2</sup>
+
+[<sup>1</sup> La comparution des parties à l'audience de conciliation suspend le cours de la prescription durant la conciliation.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-19/05, art. 33, 200; En vigueur : 06-01-2024&gt;
+
+(2)&lt;L 2024-03-28/60, art. 93, 203; En vigueur : 08-04-2024&gt;
+
+**Art. 733/1**
+
+[<sup>1</sup> Si une procédure est déjà pendante, le litige peut être soumis, tout au long de l'instance, au juge à fin de conciliation, à l'initiative du juge sauf si toutes les parties s'y opposent ou d'une partie. Toutefois, s'il existe des indices sérieux que des violences, des menaces ou toute autre forme de pression sont ou ont été exercées par une partie à l'encontre de l'autre partie, l'article 1734, § 1er, alinéa 3, s'applique par analogie.
+
+Les parties seront convoquées conformément à l'article 732.
+
+Si un accord intervient, les termes de cet accord peuvent être actés dans un jugement ou un arrêt conformément à l'article 1043.
+
+[<sup>2</sup> Lorsque le litige porte sur des matières visées à l'article 1004/1, les termes de l'accord précisent de quelle manière l'intérêt de l'enfant a été prise en compte. Si l'accord ne contient pas cette mention, le juge remet la cause à date fixe et demande aux parties de compléter l'accord sur ce point. A défaut de mention ou si l'accord est contraire à l'intérêt de l'enfant, le juge refuse de constater ou d'acter les termes de l'accord. Le juge en informe les parties au cours de la conciliation.]<sup>2</sup>
+
+Si la conciliation n'aboutit pas, la procédure judiciaire ordinaire peut être poursuivie à l'initiative d'une des parties.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-19/05, art. 34, 200; En vigueur : 06-01-2024&gt;
+
+(2)&lt;L 2024-03-28/60, art. 94, 203; En vigueur : 08-04-2024&gt;
+
+**Art. 734**
+
+Devant le tribunal du travail, tout débat relatif à une des demandes prévues (à l'article 578) doit être précédé, à peine de nullité, d'une tentative de conciliation, actée ([<sup>1</sup> à la feuille d'audience]<sup>1</sup>). &lt;L 12-5-1971, art. 6&gt; &lt;L 2006-07-10/39, art. 24, 078; En vigueur : 01-01-2013 (voir L 2010-12-29/01, art. 4)&gt;
+
+Si les parties ne peuvent être conciliées, il en est fait mention dans le jugement.
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 30, 125; En vigueur : 24-05-2014&gt;
+
+##### Section III. [<sup>1</sup> - La chambre de règlement à l'amiable.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-19/05, art. 35, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 734/1**
+
+[<sup>1</sup> § 1er. Les affaires peuvent être soumises à fin de conciliation à la chambre de règlement à l'amiable dans les conditions visées à l'article 731/1.
+
+Le litige peut également être soumis à la chambre de règlement à l'amiable à fin de conciliation, dans les conditions visées à l'article 733/1, alinéa 1er.
+
+Les parties sont convoquées conformément à l'article 732.
+
+§ 2. A la demande de l'une des parties ou s'il l'estime utile sauf toutes si les parties s'y opposent, le juge peut également ordonner, tout au long de l'instance, le renvoi de la cause à la chambre de règlement à l'amiable du même tribunal ou de la même cour, par simple mention au procès-verbal de l'audience.
+
+Le greffier transmet le dossier de la procédure, dans les trois jours de cette décision, au greffier de la chambre de règlement à l'amiable à laquelle la cause a été renvoyée.
+
+Le greffier de la chambre de règlement à l'amiable convoque les parties, par simple lettre, à comparaître, dans le délai d'un mois, aux lieu, jour et heure de l'audience à laquelle l'affaire sera appelée.
+
+Toutefois, s'il existe des indices sérieux que des violences, des menaces ou toute autre forme de pression sont ou ont été exercées par une partie à l'encontre de l'autre partie, l'article 1734, § 1er, alinéa 3, s'applique par analogie.
+
+§ 3. Dans les cas visés au paragraphe 1er, alinéa 1er, les articles 732, alinéas 2 et 3 et 733, alinéa 2, s'appliquent.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-19/05, art. 36, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 734/2**
+
+[<sup>1</sup> § 1er. Dans les causes introduites sur la base de l'article 734/1, § 1er, alinéa 1er, lorsque la conciliation a abouti, les termes de l'accord intervenu sont constatés par la chambre de règlement à l'amiable dans le procès-verbal de comparution en conciliation dont l'expédition est revêtue de la formule exécutoire, sauf si les parties y renoncent.
+
+§ 2. Dans les cas visés à l'article 734/1, § 1er, alinéa 2, et § 2, lorsque la conciliation a abouti, les termes de l'accord, partiel ou total, peuvent être actés dans un jugement ou un arrêt, conformément à l'article 1043.]<sup>1</sup>
+
+[<sup>2</sup> § 3. Lorsque le litige porte sur des matières visées à l'article 1004/1, les termes de l'accord précisent de quelle manière l'intérêt de l'enfant a été prise en compte. Si l'accord ne contient pas cette mention, le juge remet la cause à date fixe et demande aux parties de compléter l'accord sur ce point. A défaut de mention ou si l'accord est contraire à l'intérêt de l'enfant, le juge refuse de constater ou d'acter les termes de l'accord. Le juge en informe les parties au cours de la conciliation.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-19/05, art. 37, 200; En vigueur : 06-01-2024&gt;
+
+(2)&lt;L 2024-03-28/60, art. 95, 203; En vigueur : 08-04-2024&gt;
+
+**Art. 734/3**
+
+[<sup>1</sup> § 1er. Dans les causes introduites sur la base de l'article 734/1, § 1er, alinéa 1er, dans lesquelles la conciliation n'aura pas abouti, le procès-verbal de la comparution en conciliation clôt la procédure.
+
+Les parties pourront ensuite, si elles le souhaitent, introduire une procédure judicaire ordinaire pour entendre trancher leur différend par le tribunal ou la cour.
+
+§ 2. Dans les cas visés à l'article 734/1, § 1er, alinéa 2 et § 2, dans lesquels la conciliation n'aura pas abouti, la procédure judiciaire ordinaire est poursuivie devant la chambre d'origine.
+
+La chambre de règlement à l'amiable renvoie, selon les mêmes formalités que celles prévues à l'article 734/1, § 2, alinéas 1 et 2, le dossier devant la chambre d'origine.
+
+Si l'une des parties en a fait la demande à l'audience de règlement amiable, le greffier de la chambre d'origine convoque les parties, sous pli judiciaire, à comparaître, aux lieu, jour et heure de l'audience à laquelle l'affaire sera appelée. Cette demande peut également être formulée par écrit par l'une des parties après le renvoi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-19/05, art. 38, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 734/4**
+
+[<sup>1</sup> § 1er. Les audiences de conciliation tenues par les chambres de règlement à l'amiable se déroulent en chambre du conseil conformément à l'article 757, § 2, alinéa 1er, 14°. Tout ce qui se dit ou s'écrit au cours de ces audiences et pour les besoins de celles-ci est confidentiel au sens de l'article 1728. En cas de violation de l'obligation de confidentialité, l'article 1728, § 4, s'applique.
+
+Avec l'accord des parties, le tribunal ou la cour peut, s'il ou si elle l'estime utile, aussi s'entretenir en aparté avec chacune des parties.
+
+§ 2. Le jour de l'audience de conciliation, les parties doivent comparaître en personne, assistées, le cas échéant, de leurs avocats ou des personnes mentionnées dans l'article 728. Si une personne morale est à la cause, elle est représentée par une personne physique pouvant l'engager sauf décision contraire de la chambre de règlement à l'amiable.
+
+§ 3. Tant les parties que le juge de la chambre de règlement à l'amiable peuvent, à tout moment, mettre un terme à la conciliation.
+
+§ 4. Le juge qui a exercé sa mission de conciliation dans le cadre d'un litige soumis à la chambre de règlement à l'amiable s'abstient de prendre part à un jugement ou arrêt sur les suites de ce même litige devant une autre chambre. A défaut, il peut être récusé conformément à l'article 828, 9°.
+
+§ 5. Lors de la première audience de conciliation, le juge énonce les principes contenus dans cet article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-19/05, art. 39, 200; En vigueur : 06-01-2024&gt;
+
+#### CHAPITRE Ibis. - La médiation en matière familiale. (Abrogé) &lt;L 2005-02-21/36, art. 22, 071; En vigueur : 30-09-2005&gt;
+
+**Art. 734bis**
+
+(Abrogé) &lt;L 2005-02-21/36, art. 22, 071; En vigueur : 30-09-2005&gt;
+
+**Art. 734ter**
+
+(Abrogé) &lt;L 2005-02-21/36, art. 22, 071; En vigueur : 30-09-2005&gt;
+
+**Art. 734quater**
+
+(Abroge) &lt;L 2005-02-21/36, art. 22, 071; En vigueur : 30-09-2005&gt;
+
+**Art. 734quinquies**
+
+(Abrogé) &lt;L 2005-02-21/36, art. 22, 071; En vigueur : 30-09-2005&gt;
+
+**Art. 734sexies**
+
+(Abrogé) &lt;L 2005-02-21/36, art. 22, 071; En vigueur : 30-09-2005&gt;
+
+#### CHAPITRE II. \_ L'instruction et le jugement contradictoires.
+
+##### Section première. \_ Instruction à l'audience d'introduction.
+
+**Art. 735**
+
+&lt;L 1992-08-03/31, art. 15, 020; En vigueur : 01-01-1993&gt; § 1er. A l'égard de toute partie comparante, les causes qui n'appellent que des débats succincts sont retenues à l'audience d'introduction ou remises pour être plaidées à une date rapprochée, pour autant que la demande motivée en a été faite dans l'acte introductif d'instance ou par la partie défenderesse.
+
+§ 2. En cas d'accord des parties, la procédure en débats succincts doit être admise. Le juge retient l'affaire à l'audience d'introduction, ou la renvoie pour être plaidée à une date rapprochée, et fixe la durée des débats.
+
+(Sauf accord des parties, la cause sera traitée sous le bénéfice de la procédure prévue pour les débats succincts dans les cas suivants :
+
+\- le recouvrement des créances incontestées;
+
+\- les demandes visées à l'article 19, [<sup>2</sup> alinéa 3]<sup>2</sup>;
+
+\- les changements de langue régis par l'article 4 de la loi du 15 juin 1935;
+
+\- le règlement des conflits sur la compétence;
+
+\- les demandes de délais de grâce.) &lt;L 2007-04-26/71, art. 7, 088; En vigueur : 22-06-2007&gt;
+
+§ 3. Dans les causes visées aux §§ 1er et 2, il peut être statué même s'il n'est pas déposé de conclusions.
+
+Si les parties prennent des conclusions, celles-ci doivent être remises au juge, qui les vise. Il est fait mention de ce dépôt ([<sup>1</sup> à la feuille d'audience]<sup>1</sup>). &lt;L 2006-07-10/39, art. 24, 078; En vigueur : 01-01-2013 (voir L 2010-12-29/01, art. 4)&gt;
+
+§ 4. Les autres causes sont renvoyées au rôle particulier ou distribuées à d'autres chambres, comme il est dit à l'article 726.
+
+§ 5. Les dispositions du présent article ne portent pas préjudice aux règles du défaut.
+
+(Toutefois, en cas d'indivisibilité du litige, lorsqu'une ou plusieurs parties font défaut et qu'une partie au moins comparaît, le présent article est applicable moyennant convocation de la ou des parties défaillantes sous pli judiciaire par le greffier à une audience fixée à une date rapprochée, à laquelle un jugement contradictoire pourra être requis. La convocation reproduit le texte du présent paragraphe.) &lt;L 2007-04-26/71, art. 7, 088; En vigueur : 22-06-2007&gt;
+
+§ 6. Les décisions relatives à la procédure en débats succincts ne sont susceptibles d'aucun recours.
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 30, 125; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2017-07-06/24, art. 129, 154; En vigueur : 03-08-2017&gt;
+
+##### Section II. - La communication des pièces.
+
+**Art. 736**
+
+Les parties se communiqueront les pièces avant leur emploi, à peine de surséance d'office à la procédure.
+
+Sauf le cas prévu à l'article 735, le demandeur doit faire cette communication dans les huit jours de l'introduction de la cause; le défendeur [<sup>1</sup> avec l'envoi de ses conclusions]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 130, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 737**
+
+&lt;L 2006-07-10/39, art. 18, 078; En vigueur : 01-01-2013 (voir L 2012-12-31/01, art. 16)&gt; La communication a lieu par le dépôt des pièces au greffe, où les parties les consulteront sans déplacement. La communication des pièces inventoriées peut également être faite à l'amiable.
+
+Pour toute communication de pièces par dépôt au greffe, un inventaire est déposé au greffe.
+
+**Art. 738**
+
+(abrogé) &lt;L 1992-08-03/31, art. 16, 020; En vigueur : 01-01-1993&gt;
+
+**Art. 739**
+
+&lt;L 2006-07-10/39, art. 19, 078; En vigueur : 01-01-2013 (voir L 2010-12-29/01, art. 16)&gt; Sauf si les pièces ont été communiquées par voie électronique, les parties les restitueront au plus tard dans le délai qui leur est imparti pour conclure.
+
+**Art. 740**
+
+&lt;L 1992-08-03/31, art. 17, 020; En vigueur : 01-01-1993&gt; Tous mémoires, notes ou pièces non communiqués au plus tard en même temps que les conclusions ou, dans le cas de l'article 735, avant la clôture des débats, sont écartés d'office des débats.
+
+##### Section III. \_ Les conclusions.
+
+**Art. 741**
+
+Dans les causes qui ne sont pas retenues à l'audience d'introduction, les parties concluent selon les règles énoncées à la présente section.
+
+**Art. 742**
+
+[<sup>1</sup> Les parties remettent au greffe leurs conclusions ainsi qu'un inventaire des pièces communiquées. Elles reçoivent un accusé de réception de cette remise.
+
+La remise peut se faire soit par le dépôt au greffe ou à l'audience, soit par l'envoi par courrier postal ou par le système informatique désigné à cet effet. En cas d'envoi, la date de la remise est celle de la réception par le greffe.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 131, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 743**
+
+&lt;L 2006-07-10/39, art. 21, 078; En vigueur : 01-01-2013 (voir L 2012-12-31/01, art. 16)&gt; Les parties mentionnent dans leurs conclusions leurs nom, prénom et domicile ou adresse judiciaire électronique, ainsi que le numéro de rôle de la cause.
+
+Les personnes morales justifient de leur identité selon les modalités prévues à l'article 703.
+
+Les conclusions [<sup>1</sup> qui n'ont pas été déposées au moyen du système informatique visé à l'article 32ter]<sup>1</sup> sont signées par les parties ou leur conseil
+
+----------
+
+(1)&lt;L 2018-05-25/02, art. 31, 165; En vigueur : 09-06-2018&gt;
+
+**Art. 744**
+
+[<sup>1</sup> ...]<sup>1</sup>.
+
+[<sup>1</sup> Les conclusions contiennent également, successivement et expressément:
+
+1° l'exposé des faits pertinents pour la solution du litige;
+
+2° les prétentions du concluant;
+
+3° les moyens invoqués à l'appui de la demande ou de la défense, le cas échéant en numérotant les différents moyens et en indiquant leur caractère principal ou subsidiaire;
+
+4° la demande quant au dispositif du jugement, le cas échéant en indiquant le caractère principal ou subsidiaire de ses différentes branches.]<sup>1</sup>
+
+[<sup>1</sup> Les conclusions prises dans une autre cause ou à un autre degré de juridiction, auxquelles il est renvoyé ou fait référence, ne sont pas considérées comme des conclusions au sens de l'article 780, alinéa 1er, 3°.]<sup>1</sup>
+
+(NOTE : abrogé par L 2006-07-10/39, art. 27, 3°, 078; En vigueur : 01-01-2017 (voir L 2014-12-19/24, art. 20), abrogé lui-même par l'art. 176, 10° van L 2016-12-25/14; En vigueur : 31-12-2016&gt;&gt;
+
+----------
+
+(1)&lt;L 2015-10-19/01, art. 12, 141; En vigueur : 01-11-2015&gt;
+
+**Art. 745**
+
+Toutes conclusions sont [<sup>1</sup> envoyées]<sup>1</sup> à la partie adverse ou à son avocat, en même temps qu'elles sont remises au greffe.
+
+(Alinéa 2 abrogé)
+
+(NOTE : alinéa 2 modifié par L 2006-07-10/39, art. 27, 4°, 078; En vigueur : 01-01-2017 (voir L 2014-12-19/24, art. 20), abrogé lui-même par l'art. 176, 10° de L 2016-12-25/14; En vigueur : 31-12-2016)
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 132, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 746**
+
+La remise des conclusions au greffe vaut signification.
+
+**Art. 747**
+
+&lt;L 2007-04-26/71, art. 10, 088; En vigueur : 22-06-2007&gt; § 1er. Les parties peuvent convenir entre elles de délais pour conclure à l'audience introductive et à chaque audience ultérieure.
+
+Le juge informe les parties qui souhaitent convenir de délais pour conclure de la date la plus proche à laquelle une audience pourrait être fixée.
+
+Le juge prend acte des délais pour conclure, les confirme et fixe la date de l'audience conformément au § 2, alinéa 3. L'ordonnance est mentionnée dans le procès-verbal de l'audience. Le greffier porte cette ordonnance à la connaissance des parties et de leurs avocats conformément au § 2, alinéa 4.
+
+§ 2. Sans préjudice de l'application des règles du défaut les parties peuvent, séparément ou conjointement, le cas échéant dans l'acte introductif d'instance, adresser au juge et aux autres parties leurs observations sur la mise en état judiciaire, au plus tard dans le mois de l'audience d'introduction. Ce délai peut être abrégé par le juge en cas de nécessite ou de l'accord des parties.
+
+Elles peuvent aussi déroger d'un commun accord à cette mise en état et solliciter le renvoi de la cause au rôle et, lorsque les circonstances s'y prêtent, une remise à date fixe.
+
+Au plus tard six semaines après l'audience d'introduction, le juge arrête le calendrier de procédure, le cas échéant en entérinant l'accord des parties ou en tenant compte des observations des parties. En fonction de la date de l'audience de plaidoirie qui, au cas où le délai pour conclure est fixé par le juge, a lieu au plus tard dans les trois mois [<sup>2</sup> de l'envoi et de la remise]<sup>2</sup> des dernières conclusions, le juge détermine le nombre de conclusions et la date ultime à laquelle les conclusions doivent être [<sup>2</sup> remises]<sup>2</sup> au greffe et [<sup>2</sup> envoyées]<sup>2</sup> à l'autre partie ainsi que la date et l'heure de l'audience de plaidoirie et la durée de celle-ci.
+
+L'ordonnance de mise en état et de fixation n'est susceptible d'aucun recours. Toutefois, en cas d'omission ou d'erreur matérielle dans l'ordonnance de mise en état et de fixation, le juge peut soit d'office soit à la demande, même verbale, d'une partie, la rectifier ou la compléter. L'ordonnance est mentionnée dans le procès-verbal d'audience. Le greffier la notifie par pli simple aux parties et, le cas échéant, à leurs avocats, et par pli judiciaire à la partie défaillante.
+
+Lorsque l'affaire a été renvoyée au rôle, ou remise à une date ultérieure, toute partie peut, par simple demande écrite déposée ou adressée au greffe, solliciter la mise en état judiciaire conformément aux alinéas 1er à 4. Cette demande est notifiée par le greffier par pli judiciaire aux autres parties et, le cas échéant, par pli simple à leurs avocats. Cette notification fait courir les délais prévus aux alinéas 1er et 3.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+En cas d'indivisibilité du litige et sans préjudice de l'application de l'article 735, § 5, lorsqu'une ou plusieurs parties font défaut, tandis qu'une partie au moins comparaît, le présent paragraphe doit être appliqué.
+
+§ 3. Par dérogation aux paragraphes qui précèdent, devant le juge des référés, le président du tribunal siégeant comme en référé [<sup>1</sup> , le tribunal de la famille dans le cadre d'une procédure urgente]<sup>1</sup> et le juge des saisies, le délai dont les parties disposent pour faire valoir leurs observations est de 5 jours au plus et le délai endéans lequel le juge fixe le calendrier ou acte l'accord des parties sur celui-ci est de 8 jours au plus. Ces délais peuvent être réduits ou supprimés par le juge si les circonstances le justifient.
+
+Le greffier notifie l'ordonnance par pli simple aux parties et, le cas échéant, à leur avocat et par pli judiciaire à la partie défaillante, au plus tard le premier jour ouvrable qui suit celui où l'ordonnance a été rendue, sauf si les parties le dispensent de cette notification.
+
+[<sup>2</sup> § 4. Sans préjudice de l'application des exceptions prévues à l'article 748, §§ 1er et 2, ou de la possibilité pour les parties de modifier de commun accord les délais pour conclure convenus entre eux ou le calendrier de procédure arrêté par le juge, les conclusions qui sont remises au greffe ou envoyées à la partie adverse après l'expiration des délais sont d'office écartées des débats. Au jour fixé, la partie la plus diligente peut requérir un jugement, lequel est, en tout état de cause, contradictoire.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 152, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2017-07-06/24, art. 133, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 748**
+
+&lt;Antérieurement art. 747; L 1992-08-03/31, art. 21, 020; En vigueur : 01-01-1993&gt; § 1er. (Sauf s'il s'agit de conclusions ayant pour objet une demande prévue à l'article 808 ou de conclusions prises avec l'accord exprès des autres parties, dans les causes auxquelles l'article 735 est inapplicable, les conclusions [<sup>1</sup> remises]<sup>1</sup> au greffe ou envoyées à la partie adverse après la demande de fixation conjointe visée à l'article 750 sont écartées d'office des débats.
+
+Le présent article reste applicable lorsque, à la demande d'une des parties, le juge accorde une remise de l'affaire à date fixe.) &lt;L 2007-04-26/71, art. 11, 088; En vigueur : 22-06-2007&gt;
+
+§ 2. Si, durant le délai précédant la date fixée pour les plaidoiries, une pièce ou un fait nouveau et pertinent justifiant de nouvelles conclusions est découvert par une partie qui a conclu, celle-ci peut, au plus tard trente jours avant l'audience fixée pour les plaidoiries, demander à bénéficier d'un nouveau délai pour conclure.
+
+La demande est adressée au juge par une requête contenant l'indication précise de la pièce ou du fait nouveau ainsi que son incidence sur l'instruction du litige. Elle est signée par l'avocat de la partie ou, à son défaut, par celle-ci et déposée au greffe, en autant d'exemplaires qu'il y a de parties en cause. (Le greffier la notifie par pli simple aux parties et, le cas échéant, à leur avocat et par pli judiciaire à la partie défaillante.) &lt;L 2007-04-26/71, art. 11, 088; En vigueur : 22-06-2007&gt;
+
+Les parties peuvent, dans les quinze jours (de cet envoi) du pli judiciaire et dans les mêmes conditions, adresser leurs observations au juge. &lt;L 2007-04-26/71, art. 11, 088; En vigueur : 22-06-2007&gt;
+
+Dans les huit jours qui suivent l'expiration du délai prévu à l'alinéa précédent, le juge statue sur pièces par une ordonnance.
+
+S'il fait droit à la demande, il détermine les délais pour conclure (, si des conclusions de synthèse doivent être prises) et modifie, si nécessaire, la date de l'audience de plaidoirie. Les ordonnances ne sont susceptibles d'aucun recours. &lt;L 2007-04-26/71, art. 11, 088; En vigueur : 22-06-2007&gt;
+
+Les conclusions (remises au greffe ou envoyées à l'autre partie) après l'expiration des délais prévus à l'alinéa précédent sont d'office écartées des débats. [<sup>1</sup> Au jour fixé, la partie la plus diligente peut requérir un jugement, lequel est, en tout état de cause, contradictoire.]<sup>1</sup> &lt;L 2007-04-26/71, art. 11, 088; En vigueur : 22-06-2007&gt;
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 134, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 748bis**
+
+&lt;Inséré par L 2007-04-26/71, art. 12; En vigueur : 22-06-2007&gt; [<sup>1</sup> Sauf dans les cas où des conclusions peuvent être prises en-dehors des délais visés à l'article 747, les dernières conclusions d'une partie prennent la forme de conclusions de synthèse.]<sup>1</sup> Pour l'application de l'article 780, alinéa 1er, 3°, les conclusions de synthèse remplacent toutes les conclusions antérieures et, le cas échéant, l'acte introductif d'instance de la partie qui dépose les conclusions de synthèse.
+
+----------
+
+(1)&lt;L 2015-10-19/01, art. 13, 141; En vigueur : 01-11-2015&gt;
+
+##### Section IV. \_ Des fixations et des remises.
+
+**Art. 749**
+
+Le greffier des rôles assure de façon permanente, sous l'autorité du président de la juridiction, l'organisation des fixations.
+
+Le Roi détermine, s'il y a lieu, les modalités d'application du présent article.
+
+**Art. 750**
+
+&lt;L 2007-04-26/71, art. 13, 088; En vigueur : 22-06-2007&gt; Sans préjudice de l'application de l'article 747, la cause est fixée à la demande conjointe des parties.
+
+La demande est adressée au président de la chambre à laquelle l'affaire a été distribuée, et déposée au greffe, simultanément ou postérieurement au dépôt des conclusions des parties.
+
+Le greffier informe les parties et leurs avocats, par pli simple, de la fixation.
+
+**Art. 751**
+
+(abrogé) &lt;L 2007-04-26/71, art. 14, 088; En vigueur : 22-06-2007&gt;
+
+**Art. 752**
+
+(abrogé) &lt;L 1992-08-03/31, art. 25, 020; En vigueur : 01-01-1993&gt;
+
+**Art. 753**
+
+(abrogé) &lt;L 2007-04-26/71, art. 14, 088; En vigueur : 22-06-2007&gt;
+
+**Art. 754**
+
+En cas de remise de la cause, le greffier envoie un simple avis de celle-ci aux avocats des parties ou à la partie elle-même, si elle n'a pas d'avocat.
+
+##### Section V. \_ De la procédure écrite.
+
+**Art. 755**
+
+&lt;L 1992-08-03/31, art. 27, 020; En vigueur : 01-01-1993&gt; Les parties ou leurs avocats peuvent décider conjointement de recourir à la procédure écrite. En ce cas, ils déposent au greffe leurs mémoires, notes, pièces et conclusions préalablement communiqués, enliassés et inventoriés. Il leur en est donné récépissé à la date du dépôt.
+
+(Les mémoires, notes, pièces et conclusions sont transmis au président de la chambre à laquelle l'affaire a été distribuée.) &lt;L 2007-04-26/71, art. 15, 088; En vigueur : 22-06-2007&gt;
+
+(Les mémoires, notes, pièces et conclusions ultérieurement déposés sont d'office écartés des débats.) &lt;L 2007-04-26/71, art. 15, 088; En vigueur : 22-06-2007&gt;
+
+Dans un délai d'un mois à partir du dépôt des dossiers au greffe, le juge peut demander des explications orales sur les points qu'il indique. A cette fin, il fixe une date dont le greffier instruit les parties par lettre missive adressée à leurs avocats. Si une partie n'a pas d'avocat, le greffier l'avertit directement par pli judiciaire.
+
+##### Section VI. - De l'audience.
+
+**Art. 756**
+
+&lt;L 2007-04-26/71, art. 16, 088; En vigueur : 22-06-2007&gt; Dans les causes fixées conformément aux articles 747 et 750 et sans préjudice de dérogations ou de modalités différentes énoncées dans l'ordonnance de mise en état, dans l'ordonnance de fixation, dans l'avis de remise ou dans l'avis de fixation, les pièces sont déposées au greffe quinze jours au moins avant l'audience fixée pour les plaidoiries.
+
+**Art. 756bis**
+
+&lt;Inséré par L 2007-04-26/71, art. 17; En vigueur : 22-06-2007&gt; Sans préjudice des règles visées à article 735, § 3, l'absence ou l'écartement d'office des conclusions n'emporte pas l'interdiction de plaider. Cette plaidoirie ne vaut pas conclusions.
+
+A la suite de cette plaidoirie, la partie adverse peut déposer des conclusions en réponse. A cet effet, la cause sera de plein droit mise en continuation à quinze jours et sera ensuite prise en délibéré sans nouveaux débats. Le juge peut réduire ce délai à la demande de la partie autorisée à conclure en vertu du présent alinéa.
+
+**Art. 756ter**
+
+&lt;Inséré par L 2007-04-26/71, art. 18; En vigueur : 22-06-2007&gt; Lors de l'audience de plaidoirie, ou préalablement à celle-ci, le juge peut proposer de remplacer les plaidoiries par un débat interactif. En cas d'accord des parties, le juge dirige le débat au cours duquel il a la possibilité d'orienter les parties sur des questions qu'il estime être pertinentes et de nature à l'éclairer. Les parties peuvent poser dans ce débat des questions non soulevées par le juge pour autant qu'elles soient soit invoquées dans leurs écrits, soit liées à l'application de l'article 735, soit en rapport avec une irrégularité affectant la procédure de mise en état. Si une partie s'oppose à ce qu'un débat interactif remplace les plaidoiries, le débat peut néanmoins avoir lieu après les plaidoiries.
+
+**Art. 757**
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Sauf les exceptions prévues par la loi, les plaidoyers, rapports et jugements sont publics.
+
+[<sup>1</sup> § 2. Par dérogation au paragraphe 1er, les procédures judiciaires suivantes se déroulent en chambre du conseil, tant en première instance qu'en degré d'appel en ce qui concerne les plaidoyers et rapports :
+
+1° les procédures judiciaires relatives à la filiation visées aux articles 312, § 2, 314, 318, 322, 329bis, 330 et 332quinquies du Code civil;
+
+2° la procédure judiciaire relative à l'action en réclamation d'une pension pour l'entretien, l'éducation et la formation adéquate, visée à l'article 338 du Code civil, pour autant qu'au cours de la première comparution devant le tribunal ou la cour, le défendeur ne conteste que le montant de la pension alimentaire;
+
+3° les procédures judiciaires relatives à l'autorité parentale, visées aux articles 373, 374, 375bis, 387bis et 387ter du Code civil;
+
+4° [<sup>2</sup> ...]<sup>2</sup>;
+
+5° [<sup>2</sup> ...]<sup>2</sup>;
+
+6° les procédures judiciaires relatives à la cohabitation légale, visées à l'article 1479 du Code civil;
+
+7° les procédures judiciaires relatives à l'adoption visées à la quatrième partie, livre IV, chapitre VIIIbis, du Code judiciaire;
+
+8° les procédures judiciaires relatives à la tutelle visées aux articles 1235 et 1236bis, du Code judiciaire;
+
+9° [<sup>2</sup> les procédures judiciaires relatives aux mesures de protection visées à la quatrième partie, livre IV, chapitre X;]<sup>2</sup>
+
+10° les procédures judiciaires de conciliation concernant les demandes des époux relatives à leurs droits et devoirs respectifs et à leur régime matrimonial visées à l'article 1253quater du Code judiciaire;
+
+11° les procédures judiciaires relatives au divorce ou à la séparation de corps visées à la quatrième partie, livre IV, chapitre XI, du Code judiciaire pour autant que les parties comparaissent personnellement;
+
+12° les procédures judiciaires relatives à la protection des droits de garde et de visite transfrontières visées à la quatrième partie, livre IV, chapitre XIIbis, du Code judiciaire;
+
+13° les procédures judiciaires relatives aux demandes en justice qui sont connexes à celles visées aux 1° à 12°, pour autant qu'elles soient traitées à la même audience;
+
+[<sup>3</sup> 14° les audiences de conciliation tenues par les chambres de règlement à l'amiable.]<sup>3</sup>
+
+Toutefois, le juge peut, en tout état de cause, en fonction des circonstances, ordonner la publicité des débats soit d'office, soit à la demande du ministère public ou d'une partie à la cause [<sup>2</sup> , sauf en ce qui concerne les procédures visées à l'alinéa 1er, 9°]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-02/35, art. 2, 111; En vigueur : 10-07-2010&gt;
+
+(2)&lt;L 2013-03-17/14, art. 159, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+(3)&lt;L 2023-12-19/05, art. 40, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 758**
+
+Les parties peuvent présenter elles-mêmes leurs conclusions et défenses, à moins que la loi n'en ait disposé autrement.
+
+Le juge peut, néanmoins, leur interdire l'exercice de ce droit, s'il reconnaît que la passion ou l'inexpérience les empêche de discuter leur cause avec la décence convenable ou la clarté nécessaire.
+
+**Art. 759**
+
+Celui qui assiste aux audiences se tient [<sup>1</sup> ...]<sup>1</sup> dans le respect et le silence; tout ce que le juge ordonne pour le maintien de l'ordre est exécuté ponctuellement et à l'instant.
+
+----------
+
+(1)&lt;L 2021-11-28/01, art. 23, 188; En vigueur : 10-12-2021&gt;
+
+**Art. 759/1**
+
+[<sup>1</sup> L'enregistrement sonore ou audiovisuelle de l'audience, la sauvegarde, la diffusion à des tiers d'une audience, ou tout autre traitement sans autorisation préalable de la juridiction est puni d'un emprisonnement de six mois à deux ans et d'une amende de deux cents euros à dix mille euros ou d'une de ces peines seulement.
+
+Les enregistrements d'image ou de son interdits en vertu de l'alinéa 1er, ne peuvent en aucun cas être ultérieurement admis comme moyen de preuve.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 2, 207; En vigueur : 01-09-2024&gt;
+
+**Art. 759/2**
+
+[<sup>1</sup> La juridiction devant laquelle l'audience publique se déroule peut décider, à titre exceptionnel, d'enregistrer cette audience publique lorsque cet enregistrement sonore ou audiovisuel présente un intérêt pour la constitution d'archives historiques de la justice ou à des fins éducatives dans le but de transmettre des connaissances dans le domaine du droit ou sur le fonctionnement de la justice, avec le consentement des personnes dont la voix et l'image sont enregistrées, chacune pour ce qui la concerne. Ce consentement peut être retiré à tout moment durant l'audience.
+
+Toute personne comparaissant, participant ou siégeant à l'audience, physiquement ou par vidéoconférence, ainsi que le public peuvent faire l'objet de ces enregistrements.
+
+L'enregistrement peut avoir lieu pour autant qu'il n'entrave pas le bon déroulement du procès, ni l'exercice des droits de la défense. Les enregistrements sont faits à partir de points fixes.
+
+La juridiction peut, à tout moment, suspendre ou mettre fin à l'enregistrement dans l'exercice de son pouvoir de maintien de l'ordre à l'audience.
+
+Cet enregistrement est fait et conservé moyennant le système de vidéoconférence visé à l'article 763bis, § 1er, 2°, pour une durée de trente ans après quoi il est versé aux archives de l'Etat visées par la loi du 24 juin 1955 relative aux archives. Le Roi détermine les modalités pratiques et techniques relatives à l'enregistrement et à sa conservation.
+
+Les enregistrements conservés dans le système de vidéoconférence peuvent être consultés et traités à des fins éducatives ou de recherche historique, après autorisation écrite du gestionnaire visé à l'article 763ter, § 2, dans les conditions qu'il détermine.
+
+Les entités représentées au sein du comité de gestion visé à l'article 782, § 6, sont les responsables conjoints du traitement au sens de l'article 4, 7), et conformément à l'article 26 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données), ou, le cas échant, au sens de l'article 26, 8°, et conformément à l'article 52 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel.
+
+L'enregistrement ne peut en aucun cas être ultérieurement admis comme moyen de preuve.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 3, 207; En vigueur : 01-09-2024&gt;
+
+**Art. 760**
+
+Celui qui donne des signes d'approbation ou d'improbation, soit à la défense des parties, soit aux interventions des juges ou du ministère public, soit aux interpellations, avertissements ou ordres des magistrats, soit aux jugements ou ordonnances, ou cause du trouble, peut être averti par le juge, voire, s'il y a lieu, expulsé de la salle d'audience sur son ordre et, au besoin, arrêté pour vingt-quatre heures au plus.
+
+Le délinquant est incarcéré sur l'exhibition du procès-verbal constatant l'ordre d'arrestation.
+
+**Art. 761**
+
+Si le trouble est causé par une personne soumise à une autorité disciplinaire légalement établie, le juge dresse un procès-verbal qu'il transmet à celle-ci, sans préjudice des mesures de police prévues à l'article 760, si la nécessité le commande.
+
+**Art. 762**
+
+Si l'acte tombe sous l'application de la loi pénale, le juge en dresse procès-verbal et ordonne, s'il échet, que l'intéressé soit arrêté et déféré sur-le-champ au procureur du Roi, qui prendra les réquisitions convenables.
+
+**Art. 763**
+
+Les dispositions du présent chapitre sont applicables en tous lieux où juges ou les membres du ministère public exercent leurs fonctions.
+
+##### Section VIbis. [<sup>1</sup> De l'audience par vidéoconférence]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 6, 207; En vigueur : 01-09-2024&gt;
+
+**Art. 763bis**
+
+[<sup>1</sup> § 1er. Pour l'application de la présente section, on entend par:
+
+1° vidéoconférence: toute liaison audiovisuelle directe, en temps réel, ayant pour but d'assurer une communication multidirectionnelle et simultanée de l'image et du son et une interaction visuelle, auditive et verbale entre plusieurs personnes ou groupes de personnes géographiquement éloignés;
+
+2° système de vidéoconférence: le système informatique, institué auprès du service désigné par le Roi, qui permet:
+
+a) de tenir une vidéoconférence conformément aux conditions et exigences de la présente section;
+
+b) d'enregistrer une audience publique, conformément à l'article 759/2 ou, le cas échéant, à l'article 763quater, § 5;
+
+c) de faciliter les tâches du greffier visées à l'article 749, alinéa 1er.
+
+§ 2. Les dispositions de la présente section ne portent pas atteinte au principe général selon lequel les audiences des tribunaux se tiennent physiquement dans les bâtiments de la justice. Par dérogation à ce principe, des audiences ne peuvent être organisées par vidéoconférence que conformément aux dispositions de la présente section.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 7, 207; En vigueur : 01-09-2024&gt;
+
+**Art. 763ter**
+
+[<sup>1</sup> § 1er. L'utilisation de la vidéoconférence en matière judiciaire a pour finalité de permettre à une ou plusieurs personnes ou, le cas échéant, à leurs représentants ou à des membres de la juridiction, de comparaitre, participer ou de siéger à une audience à distance dans les conditions fixées par la présente section.
+
+§ 2. Le système de vidéoconférence est géré par le comité de gestion du Registre central des décisions de l'ordre judiciaire et du système de vidéoconférence de la Justice, visé à l'article 782, § 6, ci-après dénommé "le gestionnaire".
+
+Les représentants visés à l'article 782, § 6, alinéa 2, 4°, ont voix délibérative pour ce qui concerne l'utilisation des moyens, les aspects techniques et les parties du système de vidéoconférence accessibles au public, pour autant que ces dernières n'aient aucune incidence sur le contenu de l'audience. Ils siègent comme observateur dans les matières qui portent uniquement sur le fonctionnement interne de l'ordre judiciaire.
+
+Le gestionnaire met en place, gère et contrôle le fonctionnement du système de vidéoconférence. Il a plus spécifiquement pour mission:
+
+1° de surveiller le respect des objectifs du système de vidéoconférence;
+
+2° de superviser le fonctionnement du système de vidéoconférence, y compris la supervision de la politique d'accès et d'en exercer le contrôle;
+
+3° de superviser l'infrastructure technique du système de vidéoconférence;
+
+4° de rapporter régulièrement sur le fonctionnement du système de vidéoconférence et sur l'exercice des missions visées aux 1° à 3° ;
+
+5° d'autoriser par écrit et de manière conditionnelle l'accès visé à l'article 759/2, alinéa 6.
+
+Le rapport visé à l'alinéa 3, 4°, est déposé annuellement auprès du ministre de la Justice et du délégué à la protection des données visé au paragraphe 3, alinéa 2. Le rapport est public.
+
+§ 3. Les entités représentées au sein du gestionnaire visées à l'article 782, § 6, alinéa 2, 1° à 4°, agissent, pour ce qui concerne le système de vidéoconférence, en qualité de responsables conjoints du traitement, au sens de l'article 4, 7), et conformément à l'article 26 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE (règlement général sur la protection des données), ou, le cas échant, au sens de l'article 26, 8° et conformément à l'article 52 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel.
+
+Les responsables conjoints du traitement désignent, de concert, un délégué à la protection des données.
+
+Les entités visées à l'alinéa 1er n'assument pas de responsabilité de traitement dans les matières dans lesquelles elles siègent comme observateur.
+
+Quiconque participe, à quelque titre que ce soit, au traitement des données visées au paragraphe 4, alinéa 1er, ou a connaissance de telles données en raison de sa fonction, est tenu d'en respecter le caractère confidentiel. Le non-respect de cette obligation est puni conformément à l'article 458 du Code pénal.
+
+§ 4. L'utilisation du système de vidéoconférence requiert le traitement des catégories de données suivantes:
+
+1° Pour chaque personne physique:
+
+a) les nom et prénom(s);
+
+b) la qualité en laquelle il est participé à l'audience;
+
+c) le cas échéant, la date et le lieu de naissance;
+
+d) le cas échéant, le domicile ou pour les membres de l'ordre judiciaire, l'adresse de service ou l'adresse à laquelle ils exercent habituellement leur profession;
+
+e) le cas échéant, le numéro de registre national ou de registre bis;
+
+f) le cas échéant, le numéro d'entreprise de l'entreprise qu'il représente;
+
+g) le cas échéant, l'adresse du siège de l'entreprise qu'il représente;
+
+h) le cas échéant, la référence unique de l'avocat;
+
+2° pour chaque utilisateur, les métadonnées générées par la connexion au système de vidéoconférence;
+
+3° l'image et la voix des personnes participant à l'audience;
+
+4° les données, y compris celles à caractère personnel, communiquées au cours de l'audience;
+
+5° les données relatives à l'audience à laquelle il est participé et le numéro d'identification unique du dossier qui y est traité.
+
+L'alinéa 1er, 1°, c) et e) à h), ne s'applique pas aux membres de l'ordre judiciaire.
+
+Le Roi précise, après avoir recueilli l'avis du gestionnaire, les données relatives aux catégories susmentionnées, traitées dans le cadre de l'utilisation du système de vidéoconférence.
+
+§ 5. Sauf exceptions prévues par la loi, les données visées au paragraphe 4, alinéa 1er, 1° et 2°, sont conservées par le gestionnaire jusqu'à épuisement de toutes les voies de recours ordinaires ainsi que le pourvoi en cassation, à des fins de contrôle ultérieur et de preuve de la participation effective d'une personne à l'audience. Les données visées au paragraphe 4 sont également conservées pour une durée de cinq ans à des fins de statistique dans le but d'évaluer le système de vidéoconférence et son utilisation.
+
+L'accès aux métadonnées visées au paragraphe 4, alinéa 1er, 2°, n'est autorisé que:
+
+1° au gestionnaire, pour l'exécution des missions visées au paragraphe 2, alinéa 3;
+
+2° aux parties qui comparaissent par vidéoconférence, chacune pour ce qui la concerne.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 8, 207; En vigueur : 01-09-2024&gt;
+
+**Art. 763quater**
+
+[<sup>1</sup> § 1er. L'organisation et le déroulement de l'audience par vidéoconférence ainsi que le système de vidéoconférence sont conçus de façon à garantir que les personnes comparaissant ou participant à l'audience par vidéoconférence et les personnes y comparaissant ou participant dans la salle d'audience dans les cas où une ou plusieurs personnes comparaissent ou participent par vidéoconférence, disposent, pour autant que la présente section n'y déroge pas, des mêmes droits et obligations que ceux qu'ils ont dans le cadre d'une audience dans laquelle personne ne comparaît par vidéoconférence.
+
+§ 2. L'organisation et le déroulement de l'audience par vidéoconférence ainsi que le système de vidéoconférence garantissent que:
+
+1° les personnes comparaissant, participant et siégeant à l'audience sont en mesure de participer de manière effective à la procédure et de suivre effectivement et intégralement les débats;
+
+2° les personnes comparaissant, participant ou siégeant à l'audience peuvent s'exprimer et être vues et entendues sans entrave technique;
+
+3° si un avocat ou autre représentant légal agit pour le comparant, ou si celui-ci requiert l'assistance d'une autre personne en vertu de la loi, le comparant peut communiquer effectivement et confidentiellement avec son avocat, son représentant légal ou cette autre personne pendant la vidéoconférence;
+
+4° s'il y a plusieurs parties au procès ou plusieurs personnes à entendre, elles peuvent se voir et s'entendre simultanément, pour autant que la loi le permette;
+
+5° sauf exceptions prévues par la loi, l'enregistrement, la sauvegarde, et tout autre forme de traitement de la vidéoconférence ne sont pas autorisés.
+
+§ 3. L'accès au système de vidéoconférence s'obtient au moyen des protocoles d'authentification appuyés par l'autorité fédérale ou d'un moyen d'authentification offrant des garanties équivalentes. Le Roi peut déterminer les moyens d'authentification.
+
+§ 4. Le Roi désigne le système de vidéoconférence visé à l'article 763bis, § 1er, 2°, et détermine les modalités de mise en place et de fonctionnement de ce système de vidéoconférence, après avoir recueilli l'avis du gestionnaire.
+
+Le Roi peut déterminer la manière dont les utilisateurs ou les potentiels utilisateurs du système de vidéoconférence sont informés sur son fonctionnement, son utilisation, ses inconvénients et ses avantages.
+
+Le Roi peut également déterminer les règles minimales que doit respecter l'équipement informatique des personnes comparaissant ou participant à la vidéoconférence.
+
+§ 5. L'audience par vidéoconférence peut être enregistrée par la juridiction afin d'assurer la publicité visée à l'article 763quinquies, alinéa 1er. Cet enregistrement n'est pas conservé au-delà du terme de l'audience.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 9, 207; En vigueur : 01-09-2024&gt;
+
+**Art. 763quinquies**
+
+[<sup>1</sup> La publicité des audiences par vidéoconférence est assurée par le système de vidéoconférence ou un autre système informatique désigné par le Roi ou par l'accès à la salle d'audience où siège la juridiction. La publicité des audiences peut également être assurée par une combinaison des moyens précités.
+
+L'absence de publicité de l'audience par vidéoconférence qui se tient en chambre du conseil ou à huis clos, est assurée par le système de vidéoconférence et par l'interdiction de l'accès à la salle d'audience où siège la juridiction.
+
+Le Roi fixe, après avoir recueilli l'avis du gestionnaire, les modalités relatives à la publicité des audiences au moyen du système de vidéoconférence, ainsi que, le cas échéant, celles de mise en place et de fonctionnement du système informatique visé à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 10, 207; En vigueur : 01-09-2024&gt;
+
+**Art. 763sexies**
+
+[<sup>1</sup> § 1er. La juridiction peut, d'initiative, inviter une ou plusieurs personnes et, le cas échéant, le ministère public, à comparaitre ou participer à l'audience par vidéoconférence, moyennant leur accord ou, le cas échant, celui de leur représentant légal, chacun pour ce qui concerne sa comparution ou participation, si elle estime que les conditions suivantes sont réunies:
+
+1° l'usage de la vidéoconférence est compatible avec les circonstances particulières de l'affaire;
+
+2° les garanties auxquelles doit répondre le système de vidéoconférence conformément à l'article 763quater, §§ 1er et 2, sont réunies;
+
+3° cet usage est, le cas échéant, conforme à l'intérêt supérieur de l'enfant, ou à l'intérêt de la personne protégée ou à protéger.
+
+Pour l'évaluation des circonstances particulières de l'affaire, visée à l'alinéa 1er, 1°, il est notamment tenu compte de la durée de la procédure, de la nature du litige, de la complexité de l'affaire, de l'assistance d'un avocat, du nombre de parties, de la possibilité d'interaction entre les parties, de la phase de la procédure, des possibilités de recours, de la situation physique ou psychique des personnes qui doivent être entendues et de l'état de vulnérabilité de la personne qui doit être entendue.
+
+Le greffe de la juridiction notifie cette invitation à la personne concernée ainsi qu'à toutes les parties au procès et, le cas échéant, au ministère public, au plus tard le jour qui précède l'audience.
+
+Par dérogation à l'alinéa 3, le juge peut décider à tout moment qu'une personne peut comparaître ou participer à l'audience par vidéoconférence, avec l'accord de toutes les parties et, le cas échéant, du ministère public, et si les conditions visées à l'alinéa 1er sont réunies.
+
+A l'égard de la partie à qui une invitation à comparaitre par vidéoconférence a été notifiée et qui ne comparait ni par vidéoconférence, ni au lieu où siège la juridiction à l'heure indiquée dans la convocation, les règles du défaut s'appliquent.
+
+§ 2. Toute personne ou, le cas échéant, son représentant légal ou son avocat, peut demander à la juridiction, dès avant la première audience, l'autorisation de comparaitre ou de participer à l'audience par vidéoconférence. Cette demande est, au plus tard le cinquième jour avant l'audience, communiquée par voie électronique au greffe de la juridiction devant laquelle elle doit comparaitre ou être entendue ainsi qu'aux parties ou, le cas échéant, à leur représentant légal ou leur avocat. Cette demande contient l'adresse électronique de la personne qui demande de comparaitre ou participer à l'audience par vidéoconférence.
+
+Par dérogation à l'alinéa 1er, dans le cadre des procédures en référé ou comme en référé, cette demande est incluse dans l'acte de citation établi par le demandeur au procès. La demande de comparution par vidéoconférence par le défendeur est introduite au plus tard le jour qui suit celui de la signification de la citation.
+
+La juridiction peut faire droit à cette demande, si elle estime que les conditions suivantes sont réunies:
+
+1° l'usage de la vidéoconférence est compatible avec les circonstances particulières de l'affaire, évaluées comme prévu au paragraphe 1er, alinéa 2;
+
+2° les garanties auxquelles doit répondre le système de vidéoconférence conformément à l'article 763quater, §§ 1er et 2, sont réunies;
+
+3° cet usage est, le cas échéant, conforme à l'intérêt supérieur de l'enfant, ou à l'intérêt de la personne protégée ou à protéger.
+
+Le greffe de la juridiction notifie la décision accordant le droit de comparaitre ou participer à l'audience par vidéoconférence à la personne concernée ainsi qu'à toutes les parties au procès et, le cas échéant, au ministère public, au plus tard le troisième jour avant l'audience ou, dans le cas des procédures en référé ou comme en référé, au plus tard le jour qui précède l'audience.
+
+Par dérogation aux alinéas 1er, 2 et 4, le juge peut décider à tout moment qu'une personne peut comparaître ou participer à l'audience par vidéoconférence, avec l'accord de toutes les parties et, le cas échéant, du ministère public et si les conditions visées à l'alinéa 3 sont réunies.
+
+A l'égard de la partie qui a demandé de comparaitre par vidéoconférence, à qui une autorisation a été notifiée et qui ne comparait, ni par vidéoconférence, ni au lieu où siège la juridiction à l'heure indiquée dans la convocation, les règles du défaut s'appliquent.
+
+En cas de refus, le requérant ne peut pas adresser au greffe une demande ayant le même objet avant l'expiration d'un délai de trois mois à compter de la dernière décision portant sur le même objet, sauf dans le cas où la demande précédente aurait été refusée pour manque de moyens techniques.
+
+§ 3. La juridiction peut d'office, par décision motivée, interdire à une ou plusieurs personnes de comparaitre ou de participer à l'audience physiquement, si elle estime que les conditions suivantes sont réunies:
+
+1° l'usage de la vidéoconférence est compatible avec les circonstances particulières de l'affaire, qui sont évaluées comme prévu au paragraphe 1er, alinéa 2;
+
+2° les garanties auxquelles doit répondre le système de vidéoconférence conformément à l'article 763quater, §§ 1er et 2, sont réunies;
+
+3° cet usage est, le cas échéant, conforme à l'intérêt supérieur de l'enfant, ou à l'intérêt de la personne protégée ou à protéger;
+
+4° lorsque la vidéoconférence est l'unique possibilité de participer à l'audience car:
+
+a) une situation d'urgence épidémique est déclarée conformément à l'article 3, § 1er, de la loi du 14 août 2021 relative aux mesures de police administrative lors d'une situation d'urgence épidémique et des mesures de police administrative empêchant la comparution physique à l'audience ou ayant pour conséquence d'empêcher une telle comparution physique sont adoptées, ou;
+
+b) il existe des indices objectivables d'un risque grave et concret pour la sécurité publique qui empêche que la personne concernée soit présente à l'audience ou que le transport vers la salle d'audience en sécurité soit garanti lorsque la personne concernée est détenue.
+
+Le greffe notifie cette décision à l'ensemble des personnes appelées à comparaitre ou participer à l'audience par vidéoconférence, au plus tard le cinquième jour avant l'audience, ou, dans le cadre des procédures en référé ou comme en référé, au plus tard le jour qui précède l'audience. En cas d'urgence motivée, le greffe notifie l'interdiction de comparaitre physiquement au plus tard le jour qui précède le jour de l'audience.
+
+Cette décision est susceptible d'appel. Cet appel doit être interjeté par la partie qui s'est vue notifier une interdiction de comparaitre physiquement, selon les formes du référé, au moins vingt-quatre heures avant le jour et l'heure prévus pour l'audience visée par l'interdiction de comparaitre physiquement, par citation. Cet appel est suspensif. L'appelant informe la juridiction qui a notifié l'interdiction de comparaitre physiquement qu'un appel a été introduit à l'encontre de cette interdiction.
+
+Par dérogation à l'alinéa 3, dans le cadre des procédures en référé ou comme en référé, ou en cas d'urgence motivée visée à l'alinéa 2, l'appel d'une interdiction de comparaitre physiquement est interjeté au plus tard avant le début de l'audience visée par l'interdiction de comparaitre physiquement, selon les formes du référé.
+
+L'appel contre une interdiction de comparaitre physiquement rendue par la cour d'appel ou la cour du travail est introduit devant le premier président de la juridiction qui a rendu cette interdiction, selon les formes du référé.
+
+Par dérogation à l'article 1068, alinéa 1er, l'appel formé contre l'interdiction de comparaitre physiquement ne saisit pas du fond du litige la juridiction d'appel.
+
+L'appel est jugé conformément à l'article 1066.
+
+La juridiction d'appel statue sans délai, après avoir entendu l'appelant ainsi que les autres parties. Un pourvoi en cassation contre la décision de la juridiction d'appel ne peut être formé qu'avec le pourvoi en cassation contre la décision définitive sur le fond du litige.
+
+A l'égard de la partie à qui une interdiction de comparaitre physiquement a été notifiée et, le cas échéant, confirmée, et qui ne comparait pas à l'audience par vidéoconférence, les règles du défaut s'appliquent.
+
+§ 4. Toute partie, son représentant légal ou son avocat ou le représentant légal du mineur ou son avocat ainsi que, le cas échéant, le ministère public peut, avant l'audience, faire part à la juridiction de son avis écrit quant au caractère approprié de l'usage éventuel de la vidéoconférence, compte tenu des circonstances particulières de l'affaire. Cet avis est communiqué au greffe de la juridiction devant laquelle la partie doit comparaitre, par voie électronique, dans le délai indiqué et au plus tard le cinquième jour avant l'audience. La convocation à l'audience mentionne cette possibilité et le délai dans lequel les avis éventuels des parties doivent être communiqués au greffe de la juridiction.
+
+Par dérogation à l'alinéa 1er, dans le cadre d'une procédure en référé ou comme en référé, la citation mentionne la possibilité pour les parties d'exprimer leur avis sur le caractère approprié de l'usage éventuel de la vidéoconférence. Cet avis est communiqué au greffe de la juridiction devant laquelle les parties doivent comparaitre, par voie électronique, au plus tard le jour qui suit celui de la signification de la citation.
+
+Cet avis est soumis à l'appréciation du juge.
+
+Les alinéas 1er, 2 et 3, ne s'appliquent pas au cas visé au paragraphe 1er, alinéa 4, ou au paragraphe 2, alinéa 5.
+
+§ 5. La comparution ou la participation à l'audience par vidéoconférence d'une personne, lorsqu'elle y est invitée en vertu du paragraphe 1er, a lieu moyennant l'accord de cette personne ou de son représentant légal. Cet accord est communiqué par écrit au greffe par voie électronique au plus tard le jour qui précède l'audience. Dans les cas où la tenue de l'audience ne nécessite pas le déplacement de la juridiction, la connexion au système de vidéoconférence aux jour et heure indiqués dans la convocation vaut également accord.
+
+Dans le cas visé au paragraphe 1er, alinéa 4, ou au paragraphe 2, alinéa 5, le délai visé à l'alinéa 1er, deuxième phrase, ne s'applique pas.
+
+La personne ayant été autorisée à comparaitre ou participer à l'audience par vidéoconférence en vertu du paragraphe 2 est présumée avoir marqué son accord à comparaitre par vidéoconférence.
+
+La personne ayant été invitée à comparaitre ou participer à l'audience par vidéoconférence ou y ayant été autorisée, a toujours le droit de décider, avant le début de l'audience, de comparaitre ou participer à l'audience au lieu où siège la juridiction. Dans les cas où la tenue de l'audience nécessite le déplacement de la juridiction, elle en avertit le greffe par voie électronique, au plus tard le jour qui précède l'audience.
+
+Au début de chaque audience, la juridiction vérifie que l'accord est libre et éclairé. Le procès-verbal de l'audience en fait mention.
+
+§ 6. Dans les cas où il est fait usage de la vidéoconférence, la juridiction siège dans la salle d'audience, et le greffier y exerce ses tâches de greffe et d'assistance.
+
+Par dérogation à l'alinéa 1er, un juge peut siéger à l'audience par vidéoconférence ou un greffier peut exercer ses tâches de greffe et d'assistance à l'audience par vidéoconférence, lorsque les conditions suivantes sont réunies:
+
+1° l'usage de la vidéoconférence est compatible avec les circonstances particulières de l'affaire, évaluées comme prévu au paragraphe 1er, alinéa 2;
+
+2° les garanties auxquelles doit répondre le système de vidéoconférence conformément à l'article 763quater, §§ 1er et 2, sont réunies;
+
+3° cet usage est, le cas échéant, conforme à l'intérêt supérieur de l'enfant, ou à l'intérêt de la personne protégée ou à protéger;
+
+4° toutes les parties comparaissant au procès ou, le cas échéant, leur représentant légal, ainsi que, le cas échéant, le ministère public, marquent leur accord sur l'usage de la vidéoconférence par le juge ou le greffier;
+
+5° le juge a reçu l'autorisation de son chef de corps pour siéger à l'audience par vidéoconférence, ou le greffier a reçu l'autorisation du juge pour exercer ses tâches de greffe et d'assistance à l'audience par vidéoconférence, selon le cas.
+
+Dans les cas visés à l'alinéa 2, et lorsque les conditions visées aux 1° à 3° et 5° sont remplies, le greffier notifie aux parties au procès et, le cas échéant au ministère public, au plus tard le cinquième jour avant l'audience, la possibilité pour le juge de siéger à l'audience par vidéoconférence ou pour le greffier d'exercer ses tâches de greffe et d'assistance à l'audience par vidéoconférence. Le greffier demande aux parties et, le cas échéant, au ministère public s'ils marquent leur accord sur l'usage de la vidéoconférence par le juge ou le greffier. Cet accord est communiqué par écrit au greffe par voie électronique au plus tard le deuxième jour avant l'audience. En l'absence d'accord communiqué par une partie ou, le cas échéant, par le ministère public, avant le début de l'audience, cette partie ou le cas échéant, le ministère public est présumé avoir refusé l'usage de la vidéoconférence par le juge ou le greffier.
+
+§ 7. Si un témoin convoqué dans le cadre d'une enquête visée aux articles 915 et suivants est invité à, autorisé à ou doit être entendu par vidéoconférence, conformément aux paragraphes 1er à 3, sa comparution par vidéoconférence est soumise aux conditions visées à l'article 763septies, §§ 1er à 3.
+
+Si le témoin, le cas échéant, son avocat ou l'huissier de justice constate qu'une des conditions visées à l'article 763septies, §§ 1er à 3, n'est plus remplie, celui-ci en informe immédiatement la juridiction.
+
+L'article 763septies, § 4, alinéa 1er, §§ 5 et 6, est d'application dans le cadre du présent paragraphe.
+
+§ 8. Si la juridiction constate, au cours de l'audience, d'office ou sur indication d'une des personnes participant à l'audience, que les garanties visées à l'article 763quater, §§ 1er et 2, ou, le cas échéant, les conditions visées à l'article 763septies, §§ 1er à 3 et, le cas échéant, § 4, alinéa 1er, ne sont plus réunies, elle ordonne:
+
+1° la suspension de l'audience jusqu'à ce que ces conditions soient à nouveau réunies;
+
+2° et, le cas échéant, la poursuite du procès à une autre date, soit par vidéoconférence, soit en présence physique de toutes les personnes qui comparaissaient par vidéoconférence, si elle constate que les garanties et conditions précitées ne peuvent être à nouveau réunies dans un délai raisonnable, après avoir pris connaissance de l'avis des parties. La juridiction fait acter les motifs de cette décision dans le procès-verbal de l'audience.
+
+Si la juridiction constate, au cours de l'audience par vidéoconférence, d'office ou sur indication d'une des personnes participant à l'audience, que le recours à la vidéoconférence n'est pas ou plus compatible avec les circonstances particulières de l'affaire ou, le cas échéant, que cela n'est pas ou plus conforme à l'intérêt de l'enfant ou de la personne protégée ou à protéger, ou, le cas échéant, que la situation d'urgence épidémique ou le risque grave et concret pour la sécurité publique a cessé d'exister, celle-ci ordonne, après avoir pris connaissance de la position des parties, la poursuite de l'audience en présence des personnes qui comparaissaient par vidéoconférence. La juridiction fait acter les motifs de cette décision dans le procès-verbal de l'audience.
+
+§ 9. Le Roi peut compléter, après avoir recueilli l'avis du Collège des cours et tribunaux, les modalités pratiques et techniques liées à l'organisation et au déroulement de l'audience par vidéoconférence. Le Roi détermine la voie électronique visée au paragraphe 2, alinéa 1er, paragraphe 4, alinéas 1er et 2, paragraphe 5, alinéas 1er et 4, et paragraphe 6, alinéa 3.
+
+§ 10. Sans préjudice de l'article 1249/4, § 1er, toute notification par le greffe prévue dans la présente section a lieu par voie électronique à l'adresse électronique professionnelle de l'avocat ou, s'il s'agit d'une partie ou d'une personne non représentée par un avocat, à l'adresse judiciaire électronique de cette partie ou de cette personne ou, à défaut, à la dernière adresse électronique que cette partie ou personne a fournie dans le cadre de la procédure. Si aucune adresse électronique n'est connue du greffier, ou si la notification à l'adresse électronique a manifestement échoué, la personne visée ne peut comparaitre que physiquement à l'audience à laquelle elle a été régulièrement convoquée. Lorsque l'interdiction de comparaitre physiquement n'a pas pu être notifiée, la juridiction peut remettre l'audience à une date ultérieure.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 11, 207; En vigueur : 01-09-2024&gt;
+
+**Art. 763septies**
+
+[<sup>1</sup> § 1er. Lorsque la procédure doit se dérouler en chambre du conseil ou à huis clos, la comparution par vidéoconférence n'est possible que conformément à l'article 763sexies, §§ 1er, 2 ou 3, et à condition que:
+
+1° le comparant ou, le cas échéant, son avocat confirme à la juridiction que personne d'autre qu'eux-mêmes et, le cas échéant, les personnes nommément désignées et autorisées par le juge à être présentes, n'est présent au lieu où le comparant se trouve au moment de la comparution et ne peut autrement suivre ce qui est dit; ou
+
+2° si la juridiction estime que la présence de l'avocat ou, à défaut, d'un huissier de justice est requise auprès du comparant, l'avocat ou, à défaut, l'huissier de justice confirme à la juridiction que personne d'autre que lui-même, le comparant, et, le cas échéant, les personnes nommément désignées et autorisées par le juge à être présentes, n'est présent au lieu où le comparant se trouve au moment de la comparution, et ne peut suivre autrement ce qui y est dit.
+
+§ 2. Par dérogation au paragraphe 1er, lorsqu'un mineur est auditionné en vertu de l'article 1004/1, la comparution par vidéoconférence en chambre du conseil n'est possible que conformément à l'article 763sexies, §§ 1er, 2 ou 3, et à condition que:
+
+1° le cas échéant, la personne désignée en vertu de l'article 1004/1, § 5, confirme que personne d'autre qu'elle-même, le mineur et, le cas échéant, les personnes nommément désignées et autorisées par le juge à être présentes, n'est présent au lieu où le mineur se trouve au moment de l'audition et ne peut suivre autrement ce qui y est dit; ou
+
+2° l'avocat du mineur auditionné ou, à défaut, un huissier de justice confirme que personne d'autre que le mineur auditionné et, le cas échéant, les personnes nommément désignées et autorisées par le juge à être présentes, ne sera présent au lieu où le mineur se trouve au moment de l'audition et ne pourra autrement suivre ce qui y est dit.
+
+§ 3. Par dérogation au paragraphe 1er, lorsqu'une personne protégée ou à protéger est auditionnée en vertu de l'article 1245, la comparution par vidéoconférence en chambre du conseil n'est possible que conformément à l'article 763sexies, §§ 1er, 2 ou 3, et à condition que:
+
+1° la personne de confiance visée à l'article 1245, § 1er, alinéa 1er, confirme que personne d'autre qu'elle-même, la personne protégée ou à protéger et, le cas échéant, les personnes nommément désignées et autorisées par le juge à être présentes, n'est présent au lieu où la personne protégée ou à protéger se trouve au moment de l'audition et ne peut suivre autrement ce qui y est dit; ou
+
+2° l'avocat de la personne protégée ou à protéger ou, à défaut, un huissier de justice, confirme que personne d'autre que la personne protégée ou à protéger et, le cas échéant, les personnes nommément désignées et autorisées par le juge à être présentes, n'est présent au lieu où la personne protégée ou à protéger se trouve au moment de l'audition et ne peut suivre autrement ce qui y est dit.
+
+§ 4. L'absence de toute personne en dehors du comparant et, le cas échéant, de son avocat, de l'huissier de justice, de la personne de confiance visée à l'article 1245, § 1er, alinéa 1er, de la personne désignée en vertu de l'article 1004/1, § 5, ou, le cas échéant, des personnes nommément désignées et autorisées par le juge à être présentes, peut également être contrôlée par la juridiction par le biais de moyens techniques ou organisationnels.
+
+Si le comparant, le cas échéant, l'avocat, l'huissier de justice, la personne de confiance visée à l'article 1245, § 1er, alinéa 1er, la personne désignée en vertu de l'article 1004/1, § 5, ou, le cas échéant, une personne nommément désignée et autorisée par le juge à être présente, constate qu'une ou plusieurs des conditions visées aux paragraphes 1er à 3 ne sont plus remplies, celui-ci ou celle-ci en informe immédiatement la juridiction.
+
+§ 5. Les frais de l'intervention de l'huissier de justice, ordonnée par le juge, auprès de la personne qui comparait par vidéoconférence en vertu du présent article et qui ne dispose pas d'un avocat, sont pris en charge par l'Etat.
+
+§ 6. Le Roi peut déterminer les moyens techniques et organisationnels visés au paragraphe 4, alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 12, 207; En vigueur : 01-09-2024&gt;
+
+**Art. 763octies**
+
+[<sup>1</sup> Lorsqu'un procès-verbal, un rapport ou tout autre document doit être signé lors de l'audience, par une personne comparaissant à l'audience par vidéoconférence, ce document est établi sous forme dématérialisée et, sans préjudice à l'article 863, signé à l'audience par vidéoconférence, au moyen d'une signature électronique qualifiée visée à l'article 3, 12., du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.
+
+Sans préjudice des articles 32ter et 1249/4, § 1er, le procès-verbal, le rapport ou le document visé à l'alinéa 1er est communiqué entre la juridiction et le signataire par le système de vidéoconférence ou par la voie électronique déterminée par le Roi après avoir recueilli l'avis du gestionnaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-04-25/20, art. 13, 207; En vigueur : 01-09-2024&gt;
+
+##### Section VII. - De la communication au ministère public.
+
+**Art. 764**
+
+(NOTE : voir plus loin forme(s) non fédérale(s) de cet article.) &lt;L 1992-08-03/31, art. 29, 020; En vigueur : 01-01-1993&gt; Sauf devant le juge de paix, le juge des référés et le juge des saisies, sont, à peine de nullité, communiquées au ministère public :
+
+1° les demandes relatives à l'état des personnes, lorsque des mineurs ou des incapables sont en cause;
+
+[<sup>14</sup> 1° /1 les demandes de levée de la prohibition de contracter un mariage visées aux articles 164 et 353-13 du Code civil;]<sup>14</sup>
+
+2° les demandes relatives (à [<sup>6</sup> ...]<sup>6</sup> la déclaration d'absence et à la déclaration judiciaire de décès, à la tutelle d'un mineur [<sup>5</sup> ...]<sup>5</sup> [<sup>13</sup> ...]<sup>13</sup>; &lt;L 2007-05-09/44, art. 38, 089; En vigueur : 01-07-2007&gt;
+
+3° les demandes relatives aux actes de l'état civil;
+
+4° les demandes en matière civile, mues en raison [<sup>16</sup> d'une infraction de presse]<sup>16</sup>;
+
+5° les demandes d'inscription en faux civil;
+
+6° les demandes en requête civile;
+
+7° les demandes de récusation;
+
+[8° les demandes en [réorganisation judiciaire], en déclaration de faillite, en report de la date de cessation de paiement ainsi que [les demandes de révocation d'un plan de réorganisation] et en clôture de la faillite;] &lt;L 1997-07-17/65, art. 54, 034; En vigueur : 01-01-1998&gt; &lt;L 2009-01-31/33, art. 74, 102; En vigueur : 01-04-2009&gt;
+
+9° [<sup>10</sup> les demandes et convocations par application de l'[<sup>15</sup> article 2:74 du Code des sociétés et des associations]<sup>15</sup>, en dissolution judiciaire de sociétés [<sup>15</sup> visées à l'article 2:74 du Code des sociétés et des associations]<sup>15</sup>;]<sup>10</sup>
+
+[<sup>12</sup> 9bis°. les demandes en dissolution judiciaire d'associations sans but lucratif et des fondations visées respectivement [<sup>15</sup> aux articles 2:113, § 1er, 4°, et 2:114, § 1er, 5°, du Code des sociétés et des associations]<sup>15</sup>;]<sup>12</sup>
+
+[<sup>9</sup> 10° les demandes prévues aux articles 578, 11°, 580, 2°, 3°, 6° à 18°, 581, 2°, 3°, 9° et 10°, 582, 1°, 2°, 6°, 8°, 9° et 12°, 583 et 587septies;]<sup>9</sup>
+
+11° toutes les demandes dont la communication au ministère public est prévue par les lois spéciales.
+
+(12° les demandes fondées sur la loi du 10 mai 2007 tendant à lutter contre certaines formes de discrimination;
+
+(12° [<sup>11</sup> ...]<sup>11</sup>
+
+13° les demandes fondées sur la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme ou la xénophobie;
+
+14° les demandes fondées sur la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes.) &lt;L 2007-05-10/37, art. 14, 085; En vigueur : 09-06-2007&gt;
+
+[<sup>4</sup> 16° les demandes civiles relatives à l'exécution de décisions judiciaires portant condamnation à une confiscation spéciale, à une amende et aux frais de justice dans le cadre de l'enquête pénale d'exécution.]<sup>4</sup>
+
+[<sup>11</sup> 17° les demandes relatives à la modification de l'enregistrement du sexe d'une personne dans son acte de naissance;]<sup>11</sup>
+
+[<sup>8</sup> Le ministère public peut se faire communiquer toutes les autres causes lorsqu'il le juge convenable. Le tribunal ou la cour peut également ordonner d'office la communication, à l'exception de l'action visée à l'article 138bis, § 2, alinéa 1er.]<sup>8</sup>
+
+[<sup>8</sup> Le ministère public émet son avis dans la forme la plus appropriée lorsqu'il le juge convenable.
+
+Par dérogation à l'alinéa 3, le ministère public émet toujours, dans les cas visés [<sup>12</sup> à l'alinéa 1er, 9° 9bis° et 10°]<sup>12</sup> un avis lorsque le tribunal le demande.
+
+Le collège des procureurs généraux arrête des directives précisant dans quelles affaires visées à l'alinéa 1er un avis sera rendu. Ces directives sont contraignantes pour tous les membres du ministère public. Les procureurs généraux près les cours d'appel veillent à l'exécution de ces directives au sein de leur ressort.]<sup>8</sup>
+
+Art. 764. (REGION WALLONNE)
+
+&lt;L 1992-08-03/31, art. 29, 020; En vigueur : 01-01-1993&gt; Sauf devant le juge de paix, le juge des référés et le juge des saisies, sont, à peine de nullité, communiquées au ministère public :
+
+1° les demandes relatives à l'état des personnes, lorsque des mineurs ou des incapables sont en cause;
+
+2° les demandes relatives [à [<sup>6</sup> ...]<sup>6</sup> la déclaration d'absence et à la déclaration judiciaire de décès], à la tutelle d'un mineur [<sup>5</sup> ...]<sup>5</sup>, à l'administration des biens d'une personne qui fait l'objet d'une mesure de protection prise en application de la loi du 26 juin 1990 relative à la protection de la personne des malades mentaux; &lt;L 2007-05-09/44, art. 38, 089; En vigueur : 01-07-2007&gt;
+
+3° les demandes relatives aux actes de l'état civil;
+
+4° les demandes en matière civile, mues en raison d'un délit de presse;
+
+5° les demandes d'inscription en faux civil;
+
+6° les demandes en requête civile;
+
+7° les demandes de récusation;
+
+[8° les demandes en [réorganisation judiciaire], en déclaration de faillite, en report de la date de cessation de paiement ainsi que [les demandes de révocation d'un plan de réorganisation] et en clôture de la faillite;] &lt;L 1997-07-17/65, art. 54, 034; En vigueur : 01-01-1998&gt; &lt;L 2009-01-31/33, art. 74, 102; En vigueur : 01-04-2009&gt;
+
+9° [...]; &lt;L 2006-07-01/72, art. 29, 077; En vigueur : 10-08-2006&gt;
+
+[<sup>3</sup> 10° les demandes prévues aux articles 578, 11°, 580, 2°, 3°, 6° à 18°, 581, 2°, 3°, 9° et 10°, 582, 1°, 2°, 6°, 8° et 9°, 583 et 587septies;]<sup>3</sup>
+
+11° toutes les demandes dont la communication au ministère public est prévue par les lois spéciales.
+
+[12° les demandes fondées sur la loi du 10 mai 2007 tendant à lutter contre certaines formes de discrimination;
+
+[12° les recours relatifs au changement de sexe d'une personne.] &lt;L 2007-05-09/50, art. 3, 091; En vigueur : 01-09-2007&gt;
+
+(NOTE : pour l'insertion du 12° dans l'article 764, le législateur n'a pas tenu compte qu'un point 12° avait déjà été inséré par L 2007-05-10/37, art. 14)
+
+13° les demandes fondées sur la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme ou la xénophobie;
+
+14° les demandes fondées sur la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes.] &lt;L 2007-05-10/37, art. 14, 085; En vigueur : 09-06-2007&gt;
+
+[<sup>1</sup> 15° les demandes fondées sur le décret du 6 novembre 2008 relatif à la lutte contre certaines formes de discrimination, en ce compris la discrimination entre les femmes et les hommes, en matière d'économie, d'emploi et de formation professionnelle.]<sup>1</sup>
+
+[<sup>4</sup> 16° les demandes civiles relatives à l'exécution de décisions judiciaires portant condamnation à une confiscation spéciale, à une amende et aux frais de justice dans le cadre de l'enquête pénale d'exécution.]<sup>4</sup>
+
+[<sup>8</sup> Le ministère public peut se faire communiquer toutes les autres causes lorsqu'il le juge convenable. Le tribunal ou la cour peut également ordonner d'office la communication, à l'exception de l'action visée à l'article 138bis, § 2, alinéa 1er.]<sup>8</sup>
+
+[<sup>8</sup> Le ministère public émet son avis dans la forme la plus appropriée lorsqu'il le juge convenable.
+
+Par dérogation à l'alinéa 3, le ministère public émet toujours, dans les cas visés à l'alinéa 1er, 10°, un avis lorsque le tribunal le demande.
+
+Le collège des procureurs généraux arrête des directives précisant dans quelles affaires visées à l'alinéa 1er un avis sera rendu. Ces directives sont contraignantes pour tous les membres du ministère public. Les procureurs généraux près les cours d'appel veillent à l'exécution de ces directives au sein de leur ressort.]<sup>8</sup>
+
+Art. 764. (REGION FLAMANDE)
+
+&lt;L 1992-08-03/31, art. 29, 020; En vigueur : 01-01-1993&gt; Sauf devant le juge de paix, le juge des référés et le juge des saisies, sont, à peine de nullité, communiquées au ministère public :
+
+1° les demandes relatives à l'état des personnes, lorsque des mineurs ou des incapables sont en cause;
+
+2° les demandes relatives (à [<sup>6</sup> ...]<sup>6</sup> la déclaration d'absence et à la déclaration judiciaire de décès, à la tutelle d'un mineur [<sup>5</sup> ...]<sup>5</sup>, à l'administration des biens d'une personne qui fait l'objet d'une mesure de protection prise en application de la loi du 26 juin 1990 relative à la protection de la personne des malades mentaux; &lt;L 2007-05-09/44, art. 38, 089; En vigueur : 01-07-2007&gt;
+
+3° les demandes relatives aux actes de l'état civil;
+
+4° les demandes en matière civile, mues en raison d'un délit de presse;
+
+5° les demandes d'inscription en faux civil;
+
+6° les demandes en requête civile;
+
+7° les demandes de récusation;
+
+[8° les demandes en [réorganisation judiciaire], en déclaration de faillite, en report de la date de cessation de paiement ainsi que [les demandes de révocation d'un plan de réorganisation] et en clôture de la faillite;] &lt;L 1997-07-17/65, art. 54, 034; En vigueur : 01-01-1998&gt; &lt;L 2009-01-31/33, art. 74, 102; En vigueur : 01-04-2009&gt;
+
+9° (...); &lt;L 2006-07-01/72, art. 29, 077; En vigueur : 10-08-2006&gt;
+
+[<sup>3</sup> 10° les demandes prévues aux articles 578, 11°, 580, 2°, 3°, 6° à 18°, 581, 2°, 3°, 9° et 10°, [<sup>7</sup> 582, 1°, 2°, 6°, 8°, 9° et 15°, ]<sup>7</sup>, 583 et 587septies;]<sup>3</sup>
+
+11° toutes les demandes dont la communication au ministère public est prévue par les lois spéciales.
+
+(12° les demandes fondées sur la loi du 10 mai 2007 tendant à lutter contre certaines formes de discrimination;
+
+(12° les recours relatifs au changement de sexe d'une personne.) &lt;L 2007-05-09/50, art. 3, 091; En vigueur : 01-09-2007&gt;
+
+(NOTE : pour l'insertion du 12° dans l'article 764, le législateur n'a pas tenu compte qu'un point 12° avait déjà été inséré par L 2007-05-10/37, art. 14)
+
+13° les demandes fondées sur la loi du 30 juillet 1981 tendant à réprimer certains actes inspirés par le racisme ou la xénophobie;
+
+14° les demandes fondées sur la loi du 10 mai 2007 tendant à lutter contre la discrimination entre les femmes et les hommes.) &lt;L 2007-05-10/37, art. 14, 085; En vigueur : 09-06-2007&gt;
+
+[<sup>4</sup> 16° les demandes civiles relatives à l'exécution de décisions judiciaires portant condamnation à une confiscation spéciale, à une amende et aux frais de justice dans le cadre de l'enquête pénale d'exécution.]<sup>4</sup>
+
+[<sup>8</sup> Le ministère public peut se faire communiquer toutes les autres causes lorsqu'il le juge convenable. Le tribunal ou la cour peut également ordonner d'office la communication, à l'exception de l'action visée à l'article 138bis, § 2, alinéa 1er.]<sup>8</sup>
+
+[<sup>8</sup> Le ministère public émet son avis dans la forme la plus appropriée lorsqu'il le juge convenable.
+
+Par dérogation à l'alinéa 3, le ministère public émet toujours, dans les cas visés à l'alinéa 1er, 10°, un avis lorsque le tribunal le demande.
+
+Le collège des procureurs généraux arrête des directives précisant dans quelles affaires visées à l'alinéa 1er un avis sera rendu. Ces directives sont contraignantes pour tous les membres du ministère public. Les procureurs généraux près les cours d'appel veillent à l'exécution de ces directives au sein de leur ressort.]<sup>8</sup>
+
+----------
+
+(1)&lt;DRW 2008-11-06/49, art. 36, 103; En vigueur : 30-12-2008&gt;
+
+(2)&lt;L 2009-06-19/16, art. 6, 105; En vigueur : 08-08-2009&gt;
+
+(3)&lt;L 2010-06-06/06, art. 15, 112; En vigueur : 01-07-2011&gt;
+
+(4)&lt;L 2014-02-11/13, art. 10, 123; En vigueur : 18-04-2014&gt;
+
+(5)&lt;L 2013-03-17/14, art. 160, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+(6)&lt;L 2014-05-12/02, art. 17, 003; En vigueur : 01-09-2014&gt;
+
+(7)&lt;DCFL 2013-11-22/29, art. 40, 133; En vigueur : 01-04-2015 (voir AGF 2014-12-19/B5, art. 67, 1°)&gt;
+
+(8)&lt;L 2015-10-19/01, art. 14, 141; En vigueur : 01-11-2015. Dispositions transitoires : art. 50, L1&gt;
+
+(9)&lt;L 2016-02-29/09, art. 71, 143; En vigueur : 01-05-2016&gt;
+
+(10)&lt;L 2017-05-17/11, art. 3, 151; En vigueur : 12-06-2017&gt;
+
+(11)&lt;L 2017-06-25/03, art. 8, 159; En vigueur : 01-01-2018&gt;
+
+(12)&lt;L 2017-08-11/14, art. 19, 162; En vigueur : 01-05-2018&gt;
+
+(13)&lt;L 2018-12-21/09, art. 49, 174; En vigueur : 01-03-2019&gt;
+
+(14)&lt;L 2018-12-21/09, art. 122, 174; En vigueur : 10-01-2019&gt;
+
+(15)&lt;L 2019-03-23/06, art. 5, 175; En vigueur : 01-05-2019&gt;
+
+(16)&lt;L 2026-03-30/01, art. 62, 213; En vigueur : 01-09-2026&gt;
+
+**Art. 765**
+
+&lt;Abrogé par L 2018-12-21/09, art. 50, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 765/1**
+
+[<sup>1</sup> A peine de nullité, le tribunal de la famille et les chambres de la famille de la cour d'appel ne statuent, pour les affaires concernant des mineurs d'âge, qu'après avoir communiqué la cause au ministère public et qu'après avoir pris connaissance de son éventuel avis.
+
+Le ministère public a pour mission de communiquer de la façon la plus appropriée et dans le respect du contradictoire toutes les informations pertinentes au tribunal.
+
+Les alinéas 4 et 5 de l'article 764 s'appliquent par analogie.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2015-10-19/01, art. 15, 141; En vigueur : 01-11-2015. . Dispositions transitoires : art. 50,L1&gt;
+
+**Art. 766**
+
+[<sup>1</sup> § 1er. Si une cause est communicable en vertu de la loi ou si le ministère public en demande communication, le greffe informe le ministère public de la date de l'audience ainsi que de l'identité des parties et, le cas échéant, des mineurs concernés.
+
+Si le ministère public estime convenable d'émettre un avis oral, celui-ci est émis à l'audience. Il en est fait mention sur la feuille d'audience.
+
+Si le ministère public estime convenable d'émettre un avis écrit avant l'audience, celui-ci est déposé au greffe au plus tard la veille de l'audience et communiqué à l'avocat des parties ou, si elles n'ont pas d'avocat, aux parties elles-mêmes.
+
+Si le ministère public estime convenable d'émettre un avis écrit après les plaidoiries, il en informe le juge avant la clôture des débats. Cet avis est déposé au greffe et communiqué à l'avocat des parties ou, si elles n'ont pas d'avocat, aux parties elles-mêmes au plus tard à une date déterminée par le juge qui fixe également la date jusqu'à laquelle les parties peuvent déposer au greffe leurs conclusions pour répliquer à l'avis du ministère public.
+
+Si le ministère public estime convenable de n'émettre aucun avis, il en avise le greffe au plus tard la veille de l'audience.
+
+§ 2. Pour les autres causes, le juge qui le souhaite communique la cause au ministère public au plus tard au moment où il prononce la clôture des débats. Il en est fait mention sur la feuille d'audience. Le juge fixe la date de l'audience à laquelle le ministère public émettra son éventuel avis oral et à laquelle les parties pourront répliquer à l'éventuel avis oral ou écrit du ministère public. Une copie de la feuille d'audience est transmise au ministère public avec les pièces de la procédure dans les quarante-huit heures de l'audience.
+
+Dans les huit jours qui précèdent l'audience visée à l'alinéa 1er, le ministère public informe le greffe quant à son intention d'émettre ou non un avis et quant à la forme de celui-ci. Si l'avis est donné par écrit, il est déposé dans le même délai au greffe et communiqué à l'avocat des parties ou, si elles n'ont pas d'avocat, aux parties elles-mêmes.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2015-10-19/01, art. 16, 141; En vigueur : 01-11-2015. . Dispositions transitoires : art. 50,L1&gt;
+
+**Art. 767**
+
+[<sup>1</sup> § 1er. Si l'avis éventuel du ministère public est émis oralement, les parties qui comparaissent sont entendues immédiatement en leurs observations sur cet avis.
+
+Si l'avis éventuel est émis par écrit et déposé au greffe préalablement à l'audience, les parties peuvent y répliquer oralement à l'audience ou à une audience ultérieure fixée par le juge.
+
+Le juge peut toutefois autoriser la partie qui le demande, à répliquer par écrit par conclusions déposées au greffe dans le délai qu'il fixe. La décision du juge n'est susceptible d'aucun recours.
+
+§ 2. Les répliques des parties sur l'avis du ministère public ne sont prises en considération que dans la mesure où elles répondent à l'avis du ministère public.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2015-10-19/01, art. 17, 141; En vigueur : 01-11-2015. Dispositions transitoires : art. 50,L1&gt;
+
+**Art. 768**
+
+Le ministère public n'assiste pas aux délibérations des juges lorsqu'ils se retirent en chambre du conseil pour délibérer de la sentence, à peine de nullité de la décision.
+
+##### Section VIII. \_ Jugement de la cause.
+
+**Art. 769**
+
+&lt;L 1992-08-03/31, art. 31, 020; En vigueur : 01-01-1993&gt; Après les plaidoiries et, s'il y a lieu, les répliques, le juge prononce la clôture des débats.
+
+Le juge peut autoriser les parties ou leurs avocats à déposer leurs dossiers au greffe, contre récépissé daté, après les débats et dans le délai qu'il fixe. Dans ce cas, la clôture des débats a lieu de plein droit au terme du délai susvisé.
+
+Quand il a été fait application de l'article 755, la clôture des débats a lieu de plein droit un mois après le dépôt des dossiers au greffe ou est prononcée par le juge le jour où lui sont fournies les explications orales qu'il a demandées.
+
+La décision de clôture des débats et la décision visée à l'alinéa 2, actées ([<sup>1</sup> à la feuille d'audience]<sup>1</sup>), ne sont susceptibles ni d'opposition ni d'appel. &lt;L 2006-07-10/39, art. 24, 078; En vigueur : 01-01-2013 (voir L 2010-12-29/01, art. 4)&gt;
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 30, 125; En vigueur : 24-05-2014&gt;
+
+**Art. 770**
+
+&lt;L 2007-04-26/71, art. 19, 088; En vigueur : 22-06-2007&gt; § 1er. [<sup>3</sup> Lorsque le juge tient la cause en délibéré pour prononcer le jugement, il fixe le jour de cette prononciation, qui doit avoir lieu dans le mois, à partir de la clôture des débats. Ce délai est prolongé d'un mois lorsque les débats ont été clos au cours du mois avant les vacances judiciaires visées à l'article 334.]<sup>3</sup>
+
+Si la cause est communiquée au ministère public, le délai de la prononciation prend cours à la date où celui-ci a donné son avis ou, le cas échéant, à l'expiration du délai dont disposent les parties pour déposer leurs conclusions concernant ledit avis.
+
+Si la prononciation ne peut avoir lieu dans ce délai, il est fait mention à la feuille d'audience de la cause du retard.
+
+La mention à la feuille d'audience de la cause du retard doit pouvoir être objectivement justifiée à l'autorité hiérarchique chargée d'exercer le contrôle du respect des délais du délibéré.
+
+§ 2. Les greffiers établissent la liste, en deux exemplaires, des affaires dans lesquelles le prononcé a été reporté au-delà d'un mois. Cette liste est soumise à la signature du magistrat ou des magistrats concernés, ceux-ci ayant ainsi l'occasion de formuler des observations écrites.
+
+Les listes sont établies et envoyées chaque mois, à l'initiative du greffier en chef, au chef de corps de la juridiction et au chef de corps du ministère public près de cette juridiction.
+
+[<sup>1</sup> Alinéa 3 abrogé.]<sup>1</sup>
+
+Une copie est conservée au greffe.
+
+En suivant les mêmes règles, ces listes sont mensuellement actualisées.
+
+§ 3. Si le juge prolonge son délibéré au-delà de trois mois, il en avise le chef de corps et le premier président de la cour d'appel ou de la cour du travail, sans préjudice de la possibilité pour une partie d'en prendre l'initiative.
+
+§ 4. Dans le cas visé au paragraphe 3, le magistrat ou les magistrats concernés sont convoqués sans délai par le chef de corps afin d'être entendus sur les causes du retard.
+
+Dans les cas visés au paragraphe 2, cette convocation est obligatoire s'il s'agit de manquements répétés.
+
+Le chef de corps et le magistrat ou les magistrats concernés élaborent des solutions concertées afin de palier ce retard.
+
+L'audition donne lieu à l'établissement d'un procès-verbal.
+
+§ 5. Les informations visées au § 3 ainsi que les procès-verbaux y afférents sont susceptibles d'être pris en compte à l'occasion de poursuites disciplinaires, de l'évaluation périodique du magistrat ou d'une procédure de nomination ou de désignation le concernant.
+
+Si une sanction disciplinaire est justifiée, la peine infligée ne pourra en aucun cas être inférieure à une [<sup>2</sup> retenue de traitement ]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2013-12-01/01, art. 105, 121; En vigueur : 01-04-2014&gt;
+
+(2)&lt;L 2013-07-15/08, art. 38, 131; En vigueur : 01-09-2014&gt;
+
+(3)&lt;L 2015-10-19/01, art. 18, 141; En vigueur : 01-11-2015&gt;
+
+**Art. 771**
+
+&lt;L 2000-11-14/36, art. 5, 049; En vigueur : 29-12-2000&gt; Sans préjudice de l'application des articles 767 et 772, il ne peut être déposé, après la clôture des débats, aucune pièce ou note, ni aucunes conclusions. Celles-ci seront, le cas échéant, rejetées du délibéré.
+
+**Art. 772**
+
+Si durant le délibéré, une pièce ou un fait nouveau et capital sont découverts par une partie comparante, celle-ci peut, tant que le jugement n'a été prononcé, demander la réouverture des débats.
+
+**Art. 773**
+
+La demande est formée entre les mains du juge, par une requête contenant, sans autres développements, l'indication précise de la pièce ou du fait nouveau; elle est signée par l'avocat de la partie ou, à son défaut, par celle-ci, déposée au greffe et communiquée selon les règles énumérées aux articles 742 à 744. Elle est notifiée par le greffier, sous pli judiciaire, aux autres parties qui ont comparu.
+
+Celles-ci peuvent, dans les huit jours de la dénonciation, et dans les mêmes conditions, adresser au juge leurs observations.
+
+Le juge statue sur pièces.
+
+**Art. 774**
+
+Le juge peut ordonner d'office la réouverture des débats.
+
+Il doit l'ordonner avant de rejeter la demande en tout ou en partie sur une exception que les parties n'avaient pas invoquée devant lui.
+
+**Art. 775**
+
+&lt;L 2007-04-26/71, art. 20, 088; En vigueur : 22-06-2007&gt; Si la réouverture des débats est ordonnée, le juge invite les parties à s'échanger et à lui remettre, dans les délais qu'il fixe et sous peine d'être écartées d'office des débats, leurs [<sup>1</sup> conclusions]<sup>1</sup> sur le moyen ou la défense justifiant celle-ci. Le cas échéant, il fixe le jour et l'heure où les parties seront entendues sur l'objet qu'il détermine.
+
+Les parties sont averties par pli judiciaire et le, cas échéant, leurs avocats par pli simple.
+
+La décision rendue après réouverture des débats est en tout état de cause contradictoire si la décision de réouverture est elle-même contradictoire.
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 135, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 776**
+
+La décision du juge sur la demande de réouverture des débats n'est pas susceptible d'appel.
+
+**Art. 777**
+
+Les causes mises en délibéré ou instruites par écrit, sont distribuées par le président de la chambre entre les juges.
+
+**Art. 778**
+
+Après que la discussion est terminée, le président recueille les opinions individuellement, en commençant par le dernier nommé des juges, jusqu'au plus ancien. Le président opine le dernier.
+
+Si différents avis sont ouverts, on procède à un second vote.
+
+**Art. 779**
+
+Le jugement ne peut être rendu que par le nombre prescrit de juges. Ceux-ci doivent avoir assisté à toutes les audiences de la cause. Le tout, à peine de nullité.
+
+(alinéa 2 abrogé) &lt;L 2007-04-26/71, art. 21, 088; En vigueur : 22-06-2007&gt;
+
+**Art. 780**
+
+Le jugement contient, à peine de nullité, outre les motifs et le dispositif:
+
+1° l'indication du juge ou du tribunal dont il émane; les noms des membres du siège, du magistrat du ministère public qui a donne son avis et du greffier qui a assisté au prononcé;
+
+2° les nom, prénom et domicile [<sup>3</sup> des parties]<sup>3</sup> [<sup>2</sup> et, le cas échéant, leur numéro de registre national [<sup>3</sup> , numéro d'identification dans le registre bis]<sup>3</sup> ou numéro d'entreprise]<sup>2</sup>;
+
+3° [<sup>1</sup> l'objet de la demande et la réponse aux moyens des parties exposés conformément à l'article 744, alinéa 1er;]<sup>1</sup>
+
+4° la mention de l'avis du ministère public;
+
+5° la mention et la date de la prononciation en audience publique.
+
+[<sup>3</sup> Le greffier vérifie immédiatement avant la signature du jugement ou la constatation de l'impossibilité de signer l'exactitude des mentions visées à l'alinéa 1er, 2°, à l'exception du numéro d'identification dans le registre bis.]<sup>3</sup>
+
+Le jugement contient, le cas échéant, l'indication du nom des avocats.
+
+----------
+
+(1)&lt;L 2015-10-19/01, art. 19, 141; En vigueur : 01-11-2015&gt;
+
+(2)&lt;L 2018-10-14/18, art. 14, 173; En vigueur : 01-02-2019&gt;
+
+(3)&lt;L 2023-12-19/08, art. 15,1°-3°, 202; En vigueur : 08-01-2024&gt;
+
+**Art. 780 DROIT FUTUR**
+
+Le jugement contient, à peine de nullité, outre les motifs et le dispositif:
+
+1° l'indication du juge ou du tribunal dont il émane; les noms des membres du siège, du magistrat du ministère public qui a donne son avis et du greffier qui a assisté au prononcé;
+
+2° les nom, prénom et domicile [<sup>3</sup> des parties]<sup>3</sup> [<sup>2</sup> et, le cas échéant, leur numéro de registre national [<sup>3</sup> , numéro d'identification dans le registre bis]<sup>3</sup> ou numéro d'entreprise]<sup>2</sup>;
+
+3° [<sup>1</sup> l'objet de la demande et la réponse aux moyens des parties exposés conformément à l'article 744, alinéa 1er;]<sup>1</sup>
+
+4° la mention de l'avis du ministère public;
+
+5° la mention et la date de la prononciation en audience publique.
+
+[<sup>3</sup> Le greffier vérifie immédiatement avant la signature du jugement ou la constatation de l'impossibilité de signer l'exactitude des mentions visées à l'alinéa 1er, 2° [<sup>4</sup> ...]<sup>4</sup>.]<sup>3</sup>
+
+Le jugement contient, le cas échéant, l'indication du nom des avocats.
+
+----------
+
+(1)&lt;L 2015-10-19/01, art. 19, 141; En vigueur : 01-11-2015&gt;
+
+(2)&lt;L 2018-10-14/18, art. 14, 173; En vigueur : 01-02-2019&gt;
+
+(3)&lt;L 2023-12-19/08, art. 15,1°-3°, 202; En vigueur : 08-01-2024&gt;
+
+(4)&lt;L 2023-12-19/08, art. 15,4°, 202; En vigueur : 01-09-2025&gt;
+
+**Art. 780/1**
+
+[<sup>1</sup> Dans les cas expressément prévus par la loi, est jointe au jugement en matière civile une fiche informative dans laquelle il est fait mention, pour chaque partie, des données suivantes:
+
+a) les voies de recours d'appel, d'opposition ou du pourvoi en cassation qui sont d'application contre le jugement ou l'absence de ces voies de recours;
+
+b) la dénomination et l'adresse de la juridiction compétente pour connaître de ces recours;
+
+c) la manière d'introduire ces recours;
+
+d) le délai dans lequel ces recours doivent être introduits avec mention des motifs légaux de prolongation du délai;
+
+e) l'acte juridique qui fait courir le délai;
+
+f) un avertissement explicite que la partie qui utilise la procédure à des fins manifestement dilatoires ou abusives peut être condamnée à une amende sans préjudice des dommages-intérêts qui seraient réclamés et au paiement de l'indemnité de procédure.
+
+Le cas échéant, la fiche informative mentionne également la possibilité de tierce opposition avec les mêmes données.
+
+Les données de la fiche informative peuvent être rectifiées ou complétées d'office ou à la demande d'une des parties ou de l'huissier de justice mandaté par elle, par simple lettre ou déclaration au greffe, dans les huit jours de la demande.
+
+La fiche informative ne fait pas partie du jugement. Elle est jointe à l'expédition visée à l'article 790 [<sup>2</sup> ou, le cas échéant, à la copie, certifiée conforme par le greffier, de celui-ci]<sup>2</sup>.
+
+Le Roi peut déterminer le modèle de cette fiche informative.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-12-26/05, art. 9, 197; En vigueur : 01-01-2023&gt;
+
+(2)&lt;L 2023-12-19/05, art. 41, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 780bis**
+
+&lt;Inséré par L 2007-04-26/71, art. 22; En vigueur : 22-06-2007&gt; La partie qui utilise la procédure à des fins manifestement dilatoires ou abusives peut être condamnée à une amende de 15 euros à 2.500 euros sans préjudice des dommages-intérêts qui seraient réclamés. [<sup>1</sup> Dans le cas d'une procédure judiciaire abusive altérant le débat public, visée à l'article 1385/1, § 1er, 3°, cette amende peut être augmentée jusqu'à 25.000 euros.]<sup>1</sup>
+
+En ce cas, il y sera statué par la même décision dans la mesure où il est fait droit à une demande de dommages et intérêts pour procès téméraire et vexatoire. Si tel n'est pas le cas, les parties seront invitées à s'expliquer conformément à l'article 775. [<sup>1</sup> Le juge fixe des échéances qui ne dépassent pas chacune trente jours pour la remise des conclusions et la fixation éventuelle de l'audience, visées à l'article 775.]<sup>1</sup>
+
+Tous les cinq ans, le Roi peut adapter les sommes minimales et maximales au coût de la vie. Le recouvrement de l'amende est poursuivi par toutes voies de droit à la diligence de l'administration [<sup>1</sup> du Service public fédéral Finances, en charge de la perception des créances non fiscales qui procède à ce recouvrement conformément aux articles 3 et suivants de la loi domaniale du 22 décembre 1949]<sup>1</sup>.
+
+[<sup>1</sup> Les mesures visées dans le présent article peuvent être prononcées nonobstant toute modification ultérieure de la demande principale ou des actes de procédure, en ce compris le désistement.]<sup>1</sup>
+
+Le présent article n'est pas applicable en matière pénale ni en matière disciplinaire.
+
+----------
+
+(1)&lt;L 2026-05-30/09, art. 4, 212; En vigueur : 22-06-2026&gt;
+
+**Art. 781**
+
+Le dispositif des jugements en matière d'état des personnes [<sup>1</sup> ...]<sup>1</sup> énonce l'identité complète de l'intéressé, et précise les changements apportés à son statut.
+
+[<sup>1</sup> A moins que la loi n'en dispose autrement, le greffier envoie, via la BAEC, à l'officier de l'état civil compétent les données nécessaires à l'établissement ou la modification des actes de l'état civil de la personne concernée et, le cas échéant, de ses descendants à la suite de la décision judiciaire sur l'état de la personne.
+
+L'officier de l'état civil établit immédiatement les actes de l'état civil ou les modifie.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-09-13/08, art. 64, 199; En vigueur : 01-01-2024&gt;
+
+**Art. 782**
+
+[<sup>1</sup> § 1er. Le jugement est établi sous forme dématérialisée. Le Roi détermine les conditions techniques auxquelles le jugement établi sous forme dématérialisée doit satisfaire.
+
+S'il est impossible d'établir le jugement sous forme dématérialisée conformément à l'alinéa 1er, il peut être établi sous forme non-dématérialisée.
+
+§ 2. Avant son prononcé, le jugement est signé par les juges qui l'ont rendu et par le greffier.
+
+L'alinéa 1er ne s'applique cependant pas si le juge ou les juges estiment que le jugement peut être prononcé immédiatement après les débats. Dans ce cas, le jugement est signé dans les trois jours par les juges qui l'ont rendu et par le greffier.
+
+Si le jugement est établi sous forme dématérialisée, il est signé en apposant une signature électronique qualifiée au sens de l'article 3.12. du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.
+
+§ 3. Dès que le jugement est signé conformément au paragraphe 2, il est enregistré dans le Registre central visé au paragraphe 4.
+
+§ 4. Il est institué auprès du Service Public Fédéral Justice un registre dénommé "Registre central pour les décisions de l'ordre judiciaire", ci-après dénommé "Registre central".
+
+Le Registre central est une banque de données informatisée ayant comme objectifs:
+
+1° l'enregistrement et la conservation centralisés des jugements sous forme dématérialisée afin de faciliter l'exécution des missions légales de l'ordre judiciaire;
+
+2° de servir comme source authentique, visée à l'article 2, alinéa 1er, 6°, de la loi du 15 août 2012 relative à la création et à l'organisation d'un intégrateur de services fédéral, des jugements dont la minute ou une copie dématérialisée de la minute, certifiée conforme par le greffier, y est enregistrée;
+
+3° de permettre la consultation par voie électronique des données enregistrées dans le Registre central [<sup>4</sup> , visées au paragraphe 5, alinéa 1er, 1° à 3°,]<sup>4</sup> par les personnes et acteurs qui sont en droit de les consulter en application du paragraphe 8, alinéa 1er, 2° ;
+
+4° le traitement des données enregistrées dans le Registre central [<sup>4</sup> , visées au paragraphe 5, alinéa 1er, 1° à 3°,]<sup>4</sup> afin d'améliorer la qualité de ces données;
+
+5° le traitement des données enregistrées dans le Registre central [<sup>3</sup> , visées au paragraphe 5, alinéa 1er, 4°,]<sup>3</sup> afin d'optimaliser l'organisation de l'ordre judiciaire, permettant une gestion plus efficace, un meilleur soutien de politiques, une meilleure analyse de l'impact des modifications législatives et une meilleure affectation des moyens humains et logistiques au sein de l'ordre judiciaire;
+
+6° le traitement des données enregistrées dans le Registre central afin de soutenir les membres de l'ordre judiciaire, repris dans la liste électronique visée à l'article 315ter, § 1er, alinéa 1er, dans l'exécution de leurs missions légales;
+
+7° le traitement d'un ensemble de données ou des données individuelles enregistrées dans le Registre central, à des fins historiques ou scientifiques;
+
+8° le traitement de données individuelles spécifiées enregistrées dans le Registre central [<sup>4</sup> , visées au paragraphe 5, alinéa 1er, 1° à 3°]<sup>4</sup>, à des fins journalistiques;
+
+[<sup>4</sup> 9° la mise à disposition du public des jugements pseudonymisés, dans le cadre de leur publicité au sens de l'article 149 de la Constitution, qui a entre autres pour finalité la transparence de et le contrôle sur le fonctionnement du pouvoir judiciaire;
+
+10° le traitement à des fins statistiques, dans les limites déterminées par le titre 4 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel, des données enregistrées dans le Registre central, visées au paragraphe 5, alinéa 1er, 4°.]<sup>4</sup>
+
+§ 5. Dans le Registre central, les données suivantes sont enregistrées:
+
+1° la minute du jugement établi conformément au paragraphe 1er, alinéa 1er;
+
+2° une copie dématérialisée de la minute du jugement établi sous forme non-dématerialisée conformément au paragraphe 1er, alinéa 2, certifiée conforme par le greffier;
+
+3° les métadonnées nécessaires pour atteindre les finalités visées au paragraphe 4, alinéa 2, à savoir:
+
+a) les données relatives à la juridiction qui a rendu le jugement;
+
+b) les données relatives au jugement;
+
+c) les données relatives à l'audience à laquelle le jugement a été rendu;
+
+d) les données d'identification nécessaires des personnes mentionnées dans le jugement;
+
+e) le numéro d'identification unique du jugement;
+
+f) les données dont la loi exige qu'elles soient associées au jugement après son établissement;
+
+[<sup>4</sup> 4° les jugements pseudonymisés visés aux articles 782bis et 1109 et aux articles 163, 176, 190, 209, 337 et 346 du Code d'instruction criminelle, et tout jugement dont la juridiction qui l'a rendu ordonne qu'il doit être publié sous forme pseudonymisée via le Registre central.]<sup>4</sup>
+
+Le Roi détermine, après avis du gestionnaire visé au paragraphe 6, alinéa 1er, et de l'Autorité de protection des données, les données exactes visées à l'alinéa 1er, 3°, qui sont enregistrées dans le registre.
+
+[<sup>4</sup> Préalablement à l'enregistrement d'un jugement dans le Registre central en vue de sa conservation comme donnée visée à l'alinéa 1er, 4°, les données suivantes sont pseudonymisées au sens de l'article 4, 5), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE, ceci conformément aux standards techniques et pratiques en vigueur au moment de la pseudonymisation:
+
+1° les données d'identité des personnes physiques mentionnées dans le jugement, à l'exception des données d'identité des magistrats, des membres du greffe et des avocats;
+
+2° tout élément du jugement permettant d'identifier directement ou indirectement les personnes physiques mentionnées dans le jugement, à l'exception des magistrats, des membres du greffe et des avocats, dans les limites de la lisibilité et de la compréhension du jugement;
+
+3° par dérogation aux 1° et 2°, sur décision du chef de corps de la juridiction après avis du ministère public [1 ou, s'il s'agit de la sécurité d'un avocat ou de son entourage, du bâtonnier compétent]1, lorsque sa diffusion est de nature à porter atteinte à la sécurité des magistrats, des membres du greffe, des avocats ou de leur entourage, les données d'identité de ces personnes mentionnées dans le jugement ainsi que, dans les limites de sa lisibilité et de sa compréhension, tout élément du jugement permettant d'identifier directement ou indirectement ces personnes;
+
+4° par dérogation aux 1° et 2°, les données d'identité des magistrats, des membres du greffe et des avocats mentionnées dans le jugement qui concerne des affaires pénales relatives aux infractions visées aux [<sup>6</sup> articles 371 à 388 et 406 à 409]<sup>6</sup> du Code pénal, ainsi que, dans les limites de sa lisibilité et de sa compréhension, tout élément du jugement permettant d'identifier directement ou indirectement ces personnes.
+
+Si la pseudonymisation visée à l'alinéa 3 a lieu de manière automatique moyennant des techniques informatiques, le résultat de cette pseudonymisation automatisée est soumis à un contrôle humain. Le Roi désigne l'instance qui est chargée de ce contrôle. Cette instance dépend directement du pouvoir judiciaire ou agit sous son contrôle.
+
+Tout intéressé qui estime que certaines données non pseudonymisées mentionnées dans un jugement pseudonymisé doivent l'être conformément à l'alinéa 3 peut, à ces fins, introduire une demande écrite auprès de l'instance, désignée par le Roi, chargée du contrôle humain visé à l'alinéa 4.
+
+Les données d'identité des magistrats, des membres du greffe et des avocats ne peuvent faire l'objet d'une réutilisation ayant pour objet ou pour effet d'évaluer, d'analyser, de comparer ou de prédire leurs pratiques professionnelles réelles ou supposées. La violation de cette interdiction est punie [<sup>6</sup> d'une peine de niveau 1 où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 160.000 euros]<sup>6</sup>.
+
+Le Roi détermine, après avis du gestionnaire et de l'Autorité de protection des données, les modalités de la pseudonymisation visée à l'alinéa 3 et du contrôle humain visé à l'alinéa 4.]<sup>4</sup>
+
+Le Roi détermine les conditions techniques auxquelles la copie dématérialisée visée à l'alinéa 1er, 2°, doit satisfaire.
+
+§ 6. Un comité de gestion du Registre central des décisions de l'ordre judicaire [<sup>5</sup> et du système de vidéoconférence de la Justice]<sup>5</sup>, ci-après dénommé "gestionnaire", est institué auprès du Service Public Fédéral Justice.
+
+Le gestionnaire est composé de:
+
+1° quatre représentants mandatés par le Collège des cours et tribunaux;
+
+2° deux représentants mandatés par la Cour de Cassation;
+
+3° deux représentants mandatés par le Collège du ministère public;
+
+4° deux représentants mandatés par le Service Public Fédéral Justice;
+
+5° un représentant mandaté par l'Ordre des avocats à la Cour de cassation;
+
+6° un représentant mandaté par l'Ordre des Barreaux francophones et germanophone;
+
+7° un représentant mandaté par l'Orde van Vlaamse Balies;
+
+8° un représentant mandaté par l'Institut de Formation Judiciaire, comme observateur;
+
+9° un représentant mandaté par la cellule stratégique du ministre de la Justice, comme observateur.
+
+Les représentants visés à l'alinéa 2, 4°, ont voix délibérative pour ce qui concerne l'utilisation des moyens, les aspects techniques et les parties du Registre central accessibles au public, pour autant que ces dernières n'aient aucune incidence sur le contenu ou la compréhension des jugements pseudonymisés. Ils siègent comme observateur dans les matières qui portent uniquement sur le fonctionnement interne de l'ordre judiciaire.
+
+Les représentants visés à l'alinéa 2, 5° à 7°, siègent [<sup>2</sup> avec voix consultative]<sup>2</sup>.
+
+Le gestionnaire est présidé par un président, qui est assisté par un vice-président, tous les deux magistrats du siège.
+
+Le président et le vice-président sont élus parmi les membres visés à l'alinéa 2, 1° et 2°, par les membres visés à l'alinéa 2, 1° à 4°, pour un mandat renouvelable de trois ans.
+
+Si le président élu est un membre visé à l'alinéa 2, 1°, le vice-président est élu parmi les membres visés à l'alinéa 2, 2°, et inversément.
+
+En cas d'égalité des voix, la voix du président est prépondérante.
+
+Le gestionnaire met en place et gère le fonctionnement du Registre central. Il a plus spécifiquement pour mission:
+
+1° de surveiller le respect des objectifs du Registre central et de l'absence maximale de téléchargement massif non-autorisé de jugements ou données;
+
+2° de superviser le fonctionnement du Registre central, y compris la supervision de la politique d'accès et d'en exercer le contrôle;
+
+3° l'autorisation écrite et conditionnelle des tiers visés au paragraphe 8, alinéa 1er, 5°, pour les traitements visés au paragraphe 4, alinéa 2, 6°, 7° ou 8° ;
+
+4° de surveiller l'afflux des décisions de l'ordre judiciaire dans le Registre central;
+
+5° de superviser l'infrastructure technique du Registre central;
+
+6° de rapporter régulièrement sur le fonctionnement du Registre central et sur l'exercice des missions visées aux 1° à 5°.
+
+Le rapport visé à l'alinéa 9, 6°, est déposé annuellement auprès du ministre de la Justice et du délégué à la protection des données visé au paragraphe 8, alinéa 1er, 2°, d). Le rapport est public.
+
+Le Roi détermine les modalités de composition et de fonctionnement du gestionnaire.
+
+§ 7. Les entités représentées au sein du gestionnaire visées au paragraphe 6, alinéa 2, 1° à 4°, agissent, pour ce qui concerne le Registre central, en qualité de responsables conjoints du traitement, au sens de l'article 26 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE.
+
+Les entités visées à l'alinéa 1er n'assument pas de responsabilité de traitement dans les matières dans lesquelles elles siègent comme observateur.
+
+§ 8. Ont accès au Registre central:
+
+1° pour déposer, compléter ou rectifier les données visées au paragraphe 5, alinéa 1er, les personnes reprises dans la liste électronique visée à l'article 315ter, § 1er, alinéa 1er, dont ces données émanent, dans les limites de leurs missions légales;
+
+2° pour consulter les données visées au [<sup>4</sup> paragraphe 5, alinéa 1er, 1° à 3]<sup>4</sup>:
+
+a) les personnes reprises dans la liste électronique visée à l'article 315ter, § 1er, alinéa 1er, dont ces données émanent, dans les limites de leurs missions légales;
+
+b) sur demande motivée, les personnes reprises dans la liste électronique visée à l'article 315ter, § 1er, alinéa 1er, en vue d'une recherche nécessaire d'un ou de plusieurs jugements spécifiés dans le cadre d'une enquête menée par le demandeur ou dans le cadre d'une affaire pendante devant le demandeur ou dans laquelle le demandeur agit [<sup>2</sup> professionnellement]<sup>2</sup>, et dans laquelle les débats ne sont pas encore clos;
+
+c) les parties à un jugement enregistré dans le Registre central ainsi que, le cas échéant, leur avocat ou représentant en justice, la consultation restant limitée à ce jugement et aux données y afférentes;
+
+d) le délégué à la protection des données désigné par les responsables conjoints du traitement, dans les limites de ses missions légales;
+
+[<sup>4</sup> e) les autres personnes et acteurs que ceux visés aux a) à d) à qui un jugement enregistré dans le Registre central doit être notifié conformément à la loi, ou qui d'une autre manière doivent avoir accès à un tel jugement ou partie de jugement conformément à la loi, la consultation restant limitée à ce jugement ou à cette partie de jugement;]<sup>4</sup>
+
+3° à titre exceptionnel, lorsque les exigences de leur mission rendent cet accès indispensable, et pour le traitement des données visé au paragraphe 4, alinéa 2, 4°, les personnes, désignées par le gestionnaire, chargées de la gestion technique et opérationnelle du Registre central, agissant dans le cadre de leur fonction;
+
+4° pour le traitement des données visé au paragraphe 4, alinéa 2, 5° :
+
+a) les autorités judiciaires chargées de la gestion et de l'organisation des cours et tribunaux;
+
+b) les services chargés de l'analyse statistique auprès des entités représentées au sein du gestionnaire [<sup>3</sup> visées au § 6, alinéa 2, 1° à 4° et 8°]<sup>3</sup>;
+
+5° pour le traitement des données visé au paragraphe 4, alinéa 2, 6°, 7° ou 8°, les tiers autorisés par écrit par le gestionnaire, dans les conditions déterminées par le gestionnaire;
+
+[<sup>4</sup> 6° pour le traitement des données visé au paragraphe 4, alinéa 2, 10°, les autorités publiques;
+
+7° les données individuelles visées au paragraphe 5, alinéa 1er, 4°, sont publiques.]<sup>4</sup>
+
+Sauf exceptions prévues en vertu de l'alinéa 1er, le téléchargement massif et le traitement d'un ensemble de données enregistrées dans le Registre central, sont interdit. La violation de cette interdiction est punie [<sup>6</sup> d'une peine de niveau 1 où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 120.000 euros]<sup>6</sup>.
+
+Dans le cas d'une consultation telle que visée à l'alinéa 1er, 2°, b), qui a donné un résultat, les parties sont informées de la consultation et de son résultat en temps utile [<sup>2</sup> afin de]<sup>2</sup> pouvoir exercer leur droit au contradictoire y relatif au stade contradictoire de la procédure dans laquelle la demande a été faite ou de la procédure qui suit l'enquête dans laquelle la demande a été faite.
+
+Le Roi détermine, après avis du gestionnaire et de l'Autorité de protection des données, les modalités de l'accès au Registre central ainsi que les procédures relatives à cet accès, y compris les paramètres pour apprécier la motivation visée à l'alinéa 1er, 2°, b, et la manière dont la demande visée à ce même b) est introduite.
+
+Quiconque, à quelque titre que ce soit, participe à la collecte ou à l'enregistrement des données dans le Registre central, ou au traitement ou à la communication des données qui y sont enregistrées, ou a connaissance de telles données, est [<sup>4</sup> , le cas échéant,]<sup>4</sup> tenu d'en respecter le caractère confidentiel. [<sup>6</sup> L'article 352]<sup>6</sup> du Code pénal lui est applicable.
+
+Lorsque le gestionnaire constate une utilisation injustifiée de l'accès au Registre central, il porte cela à la connaissance de l'autorité compétente en vertu de la loi, pour intenter une procédure disciplinaire en ce qui concerne l'utilisateur concerné.
+
+§ 9. Les données enregistrées dans le Registre central sont conservées pour une durée indéterminée.
+
+§ 10. Le Roi détermine, après avis du gestionnaire et de l'Autorité de protection des données, les modalités techniques et matérielles de mise en place et de fonctionnement du Registre central, qui ne peuvent toutefois avoir aucune incidence sur le contenu ou la compréhension des décisions judiciaires enregistrées dans le Registre central.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-10-16/03, art. 8, 201; En vigueur : 30-09-2023&gt;
+
+(2)&lt;L 2023-12-19/08, art. 16, 202; En vigueur : 30-12-2023&gt;
+
+(3)&lt;L 2024-05-15/03, art. 23, 204; En vigueur : 01-04-2024&gt;
+
+(4)&lt;L 2022-10-16/03, art. 9, 201; En vigueur : 01-04-2024&gt;
+
+(5)&lt;L 2024-04-25/20, art. 14, 207; En vigueur : 01-09-2024&gt;
+
+(6)&lt;L 2026-03-30/01, art. 63, 213; En vigueur : 01-09-2026&gt;
+
+**Art. 782bis**
+
+&lt;Inséré par L 2007-04-26/71, art. 24; En vigueur : 22-06-2007&gt; [<sup>1</sup> Le jugement est prononcé par écrit ou oralement par le président de la chambre qui l'a rendu, même en l'absence des autres juges et, sauf en matière répressive et le cas échéant en matière disciplinaire, du ministère public. En cas de prononcé oral, le président lit au minimum le dispositif du jugement. La feuille d'audience fait mention du prononcé, ainsi que du mode du prononcé.]<sup>1</sup>
+
+[<sup>1</sup> Le jugement pseudonymisé est publié via le Registre central visé à l'article 782, § 4, dans un délai raisonnable.
+
+Si la publication visée à l'alinéa 2 est impossible, le président prononce le jugement oralement dans son intégralité, ou le met à la disposition du public dans la salle d'audience jusqu'à la fin de l'audience. La publication visée à l'alinéa 2 est faite dès que l'impossibilité cesse d'exister.
+
+Sans préjudice de l'alinéa 2, le président de la chambre qui a rendu le jugement peut, dans tous les cas, soit d'office soit à la demande motivée d'une des parties, décider de ne pas limiter le prononcé oral du jugement en audience publique au dispositif.
+
+La juridiction qui rend le jugement peut, par dérogation à l'alinéa 2 et par décision motivée qui est reprise dans le jugement, d'office ou à la demande d'une partie, et après avoir entendu les parties, interdire la publication du jugement pseudonymisé ou décider d'omettre dans le jugement pseudonymisé accessible au public certaines parties de la motivation de ce jugement si la publication de ce jugement pseudonymisé ou des parties concernées de ce jugement porte atteinte de manière disproportionnée au droit à la protection de la vie privée des parties ou d'autres personnes impliquées dans l'affaire, ou à leurs autres droits fondamentaux ou libertés fondamentales reconnus dans la Constitution et dans les instruments internationaux qui lient la Belgique. Si la juridiction fait usage de cette possibilité, le jugement est prononcé dans son intégralité, ou est mis à la disposition du public dans la salle d'audience jusqu'à la fin de l'audience. La décision de la juridiction sur l'étendue de la pseudonymisation ou interdisant la publication du jugement pseudonymisé, n'est susceptible d'aucun recours.]<sup>1</sup>
+
+Toutefois, lorsqu'un président de chambre est légitimement empêché [<sup>1</sup> de prononcer, conformément à l'alinéa 1er, 3 ou 4, le jugement]<sup>1</sup> au délibéré duquel il a participé dans les conditions prévues à l'article 778, le président de la juridiction peut désigner un autre juge pour le remplacer au moment du prononcé.
+
+[<sup>1</sup> Après le prononcé visé aux alinéas 1er, 3 ou 4, les parties peuvent consulter immédiatement l'intégralité de la décision au greffe.
+
+Dans les cas visés à l'article 782, § 2, alinéa 2, la décision peut être consultée dès qu'elle a été signée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-10-16/03, art. 10, 201; En vigueur : 01-04-2024&gt;
+
+**Art. 783**
+
+[<sup>1</sup> § 1er. La feuille d'audience contient les mentions suivantes :
+
+1° la date et l'heure d'ouverture et de clôture de l'audience;
+
+2° les actes de procédure accomplis;
+
+3° chaque affaire traitée, avec l'indication de son numéro d'inscription au rôle général et des noms des parties et de leurs avocats;
+
+4° la liste des annexes à la feuille d'audience.
+
+§ 2. [<sup>2</sup> La feuille d'audience permet de prendre connaissance de la minute ou, le cas échéant, de la copie dématérialisée, certifiée conforme par le greffier, du jugement rendu lors de l'audience.]<sup>2</sup>
+
+§ 3. Les mentions, prescrites par la loi, en marge de la minute du jugement établi et conservé sous forme dématérialisée sont établies par le greffier, qui les signe en apposant une signature électronique qualifiée, visée à l'article 3, 12°, du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE. Elles sont associées aux jugements auxquels elles se rapportent, selon les modalités fixées par le Roi.
+
+§ 4. Le juge qui a présidé l'audience, vérifie la feuille d'audience et la signe avec le greffier.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-05/19, art. 80, 177; En vigueur : 29-06-2019&gt;
+
+(2)&lt;L 2022-10-16/03, art. 11, 201; En vigueur : 30-09-2023&gt;
+
+**Art. 784**
+
+[<sup>1</sup> Les feuilles d'audience et leurs annexes sont de même format et réunies, par année, en forme de registre.
+
+La feuille d'audience peut être établie et conservée sous forme dématérialisée dans les conditions fixées par le Roi, par arrêté délibéré en Conseil des ministres.
+
+Le Roi peut imposer l'établissement et la conservation visés à l'alinéa 2 aux cours ou tribunaux et leurs greffes.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-05/19, art. 81, 177; En vigueur : 29-06-2019&gt;
+
+**Art. 785**
+
+Si le président ou un des juges se trouve dans 'impossibilité de signer le jugement, le greffier en fait mention au bas de l'acte, et la décision est valable, sous la signature des autres membres du siège qui l'ont prononcée.
+
+Si un acte ne peut être signé par le greffier qui y a concouru, il suffit que le président ou le juge qui le remplace, le signe et constate l'impossibilité.
+
+**Art. 786**
+
+Si l'impossibilité de signer la décision prononcée existe de la part de tous les juges ou d'un juge unique, le greffier fait mention de cette impossibilité au bas de l'acte et fait certifier le tout par le président du tribunal ou de la cour.
+
+Cette formalité est également observée lorsque le juge de paix ou le juge au tribunal de police se trouve dans l'impossibilité de signer le jugement qu'il a rendu. Dans ce cas, le procès-verbal du greffier est certifié par [<sup>1</sup> le président des juges de paix et des juges au tribunal de police et dans les arrondissements de Bruxelles et d'Eupen par]<sup>1</sup> le président du tribunal de première instance.
+
+[<sup>1</sup> En ce qui concerne les juges de paix et les juges au tribunal de police de l'arrondissement judiciaire de Bruxelles, le procès-verbal est certifié par le président du tribunal de première instance francophone ou néerlandophone en fonction de la langue du diplôme de licencié, ou de master en droit dont ils sont porteurs.]<sup>1</sup>
+
+Lorsque l'impossibilité existe de la part du greffier, le juge de paix ou le juge au tribunal de police signe seul, en mentionnant l'incident.
+
+----------
+
+(1)&lt;L 2016-05-04/03, art. 125, 144; En vigueur : 23-05-2016&gt;
+
+**Art. 787**
+
+Dans les cas des articles 785 et 786, le greffier est tenu d'informer de l'omission le procureur général ou le procureur du Roi, dans les huit jours, à dater de la prononciation de l'arrêt ou du jugement.
+
+**Art. 788**
+
+[<sup>1</sup> Le procureur général peut se faire présenter les feuilles ou procès-verbaux d'audience, d'office ou à la demande d'un intéressé, pour vérifier s'il a été satisfait aux dispositions qui précèdent.]<sup>1</sup> S'il y a omission, il peut, selon le cas, ou la faire réparer ou en référer à la première chambre de la cour, laquelle pourra, sur les conclusions écrites du procureur général, autoriser un des juges qui ont assisté à ces audiences à en signer les actes ou procès-verbaux. &lt;L 2006-07-10/39, art. 25, 078; En vigueur : 01-01-2013 (voir L 2012-12-31/01, art. 16)&gt;
+
+Le procureur du Roi exerce le même contrôle que le procureur général en ce qui concerne les feuilles ou procès-verbaux d'audience du tribunal de première instance, du [<sup>2</sup> tribunal de l'entreprise]<sup>2</sup> et des justices de paix et tribunaux de police.
+
+L'auditeur du travail exerce ce contrôle au tribunal du travail.
+
+Le procureur du Roi et l'auditeur du travail signalent les omissions constatées au procureur général, qui procède ensuite comme il est dit ci-dessus.
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 25, 125; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2018-04-15/14, art. 252, 163; En vigueur : 01-11-2018&gt;
+
+**Art. 789**
+
+[<sup>1</sup> Il est procédé de la même manière à la Cour de cassation pour les arrêts et les feuilles d'audience de cette cour.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 26, 125; En vigueur : 24-05-2014&gt;
+
+**Art. 790**
+
+&lt;L 24-6-1970, art. 10&gt; A peine de nullité, l'expédition contient la copie intégrale du jugement, précédée de l'intitulé et suivie de la formule exécutoire.
+
+**Art. 791**
+
+L'expédition est délivrée par le greffier aux parties en cause qui en font la demande. Aucune expédition ne peut être délivrée avant la signature du jugement.
+
+**Art. 792**
+
+[<sup>1</sup> Dans les cinq jours de la prononciation de la décision, tant pour les affaires civiles que pour les affaires pénales, le greffier notifie à chacune des parties ou, le cas échéant, à leurs avocats, [<sup>4</sup> que la décision est consultable sur le site internet du portail de la Justice]<sup>4</sup>. Cette notification ne fait pas courir le délai de recours. Elle a lieu par voie électronique à l'adresse électronique professionnelle de l'avocat ou, s'il s'agit d'une partie qui [<sup>5</sup> n'est pas assistée ou représentée par un avocat]<sup>5</sup>, à l'adresse judiciaire électronique de cette partie ou, à défaut, à la dernière adresse électronique que cette partie a fournie dans le cadre de la procédure. Si aucune adresse électronique n'est connue du greffier, ou si la notification à l'adresse électronique a manifestement échoué, la notification est faite par simple lettre.]<sup>1</sup> [<sup>4</sup> La partie qui a reçu la notification par simple lettre [<sup>5</sup> et la partie, ni assistée ni représentée par un avocat, qui se trouve dans l'impossibilité technique de se connecter au site internet du portail de la Justice peuvent]<sup>5</sup> demander au greffier de recevoir gratuitement une copie non signée de la décision, par simple lettre ou par voie électronique à l'adresse électronique de [<sup>5</sup> leur]<sup>5</sup> choix.]<sup>4</sup>
+
+(Par dérogation à l'alinéa précédent, dans les matières énumérées à l'article 704 (§ 2), ainsi qu'en matière d'adoption [<sup>2</sup> , et dans tous les autres cas où la notification fait courir un délai de recours, le greffier notifie aux parties le jugement et la fiche informative visée à l'article 780/1 par pli judiciaire adressé dans les huit jours. Si la fiche d'information est rectifiée ou complétée conformément à l'article 780/1, alinéa 3, elle est notifiée dans les mêmes conditions aux parties dans un délai de huit jours.]<sup>2</sup> &lt;L 2003-04-24/32, art. 4, 067; En vigueur : 01-09-2005&gt; &lt;L 2005-12-13/35, art. 5, 074; En vigueur : 01-09-2007&gt;
+
+[<sup>2</sup> A peine de nullité, toute notification visée à l'alinéa 2 mentionne explicitement qu'elle fait courir le délai de recours repris dans la fiche informative visée à l'article 780/1 et reproduit le texte de l'article 47bis, alinéa 2, et [<sup>3</sup> , selon le cas, de l'article 53bis, § 1er, 1° ou § 2]<sup>3</sup>.]<sup>2</sup>
+
+(Dans les cas visés au deuxième alinéa, le greffier adresse, le cas échéant, une copie non signée du jugement aux avocats des parties ou aux délégués visés à l'article 728, § 3.) &lt;L 1994-07-12/32, art. 1, 025; En vigueur : 1994-07-31&gt;
+
+----------
+
+(1)&lt;L 2018-05-25/02, art. 32, 165; En vigueur : 01-01-2021&gt;
+
+(2)&lt;L 2022-12-26/05, art. 10, 197; En vigueur : 01-01-2023&gt;
+
+(3)&lt;L 2024-03-28/60, art. 31, 203; En vigueur : 01-01-2025&gt;
+
+(4)&lt;L 2024-05-15/03, art. 24, 204; En vigueur : 07-06-2024&gt;
+
+(5)&lt;L 2026-02-08/04, art. 47, 211; En vigueur : 26-02-2026&gt;
+
+##### Section IX. \_ [<sup>1</sup> Interprétation et rectification de la décision judiciaire et réparation de l'omission d'un chef de demande.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-10-24/52, art. 2, 122; En vigueur : 03-02-2014&gt;
+
+**Art. 793**
+
+Le juge qui a rendu une décision obscure ou ambiguë peut l'interpréter, sans cependant étendre, restreindre ou modifier les droits qu'elle a consacrés.
+
+[<sup>1</sup> Le juge des saisies peut interpréter une décision obscure ou ambigüe sans cependant étendre, restreindre ou modifier les droits qu'elle a consacrés.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-10-24/52, art. 3, 122; En vigueur : 03-02-2014&gt;
+
+**Art. 794**
+
+[<sup>1</sup> La juridiction qui a rendu la décision, la juridiction à laquelle ladite décision est déférée ou le juge des saisies peuvent à tout moment rectifier, d'office ou à la demande d'une partie, toute erreur manifeste de calcul ou matérielle ou toute lacune manifeste autre que l'omission de statuer sur un chef de demande visée à l'article 794/1, y compris une infraction à l'article 780, à l'exclusion de l'article 780, alinéa 1er, 3°, [<sup>2</sup> ou à l'article 782, § 2,]<sup>2</sup> et y compris la méconnaissance d'ordre purement formel de la loi du 15 juin 1935 concernant l'emploi des langues en matière judiciaire, sans cependant étendre, restreindre ou modifier les droits qu'elle a consacrés.
+
+La rectification est corroborée par la loi, le dossier de la procédure ou les pièces justificatives soumises au juge qui a prononcé la décision à rectifier.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-05-25/02, art. 34, 165; En vigueur : 09-06-2018&gt;
+
+(2)&lt;L 2022-10-16/03, art. 12, 201; En vigueur : 30-09-2023&gt;
+
+**Art. 794/1**
+
+[<sup>1</sup> [<sup>2</sup> La juridiction qui a omis de statuer sur un chef de demande peut, en tenant compte des règles énoncées à l'article 748bis, réparer cette omission sans porter atteinte aux décisions prononcées sur les points du litige déjà tranchés.]<sup>2</sup>
+
+La demande doit [<sup>2</sup> , à peine de déchéance,]<sup>2</sup> être présentée un an au plus tard après que la décision soit passée en force de chose jugée. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-10-24/52, art. 5, 122; En vigueur : 03-02-2014&gt;
+
+(2)&lt;L 2018-05-25/02, art. 35, 165; En vigueur : 09-06-2018&gt;
+
+**Art. 795**
+
+Les demandes [<sup>1</sup> d'interprétation, de rectification ou de réparation de l'omission d'un chef de demande]<sup>1</sup> sont portées devant le juge qui a rendu [<sup>1</sup> la décision à interpréter, à rectifier ou à réparer, ou devant la juridiction à laquelle la décision est déférée]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2013-10-24/52, art. 6, 122; En vigueur : 03-02-2014&gt;
+
+**Art. 796**
+
+[<sup>1</sup> Le juge est saisi par voie de requête contradictoire visée aux articles 1034bis à 1034sexies ou par requête conjointe conformément à l'article 706.
+
+La requête ne pourra être introduite que dans la mesure où la décision n'a pas fait l'objet d'une interprétation, rectification ou réparation d'une omission.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-10-24/52, art. 7, 122; En vigueur : 03-02-2014&gt;
+
+**Art. 797**
+
+L'interprétation et la rectification [<sup>1</sup> ...]<sup>1</sup> peuvent être décidées d'office.
+
+[<sup>2</sup> Une voie de recours visée au livre III de la quatrième partie ne peut tendre exclusivement à l'interprétation ou la rectification de la décision concernée, ou à la réparation de l'omission, dans cette décision, de statuer sur un chef de demande.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-10-24/52, art. 8, 122; En vigueur : 03-02-2014&gt;
+
+(2)&lt;L 2018-05-25/02, art. 37, 165; En vigueur : 09-06-2018&gt;
+
+**Art. 798**
+
+Sauf de l'accord de toutes les parties au procès, la demande d'interprétation ne peut être formée avant l'expiration des délais d'appel ou de pourvoi en cassation.
+
+Elle ne peut être formée lorsque la décision a été frappée d'appel ou de pourvoi.
+
+L'interprétation du jugement confirmé appartient au juge qui prononce cette confirmation.
+
+**Art. 799**
+
+[<sup>1</sup> Le juge ne peut rectifier une décision ou statuer sur l'omission d'un chef de demande que dans la mesure où la décision n'a pas été entreprise.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-10-24/52, art. 9, 122; En vigueur : 03-02-2014&gt;
+
+**Art. 800**
+
+Le greffier fait mention du dispositif de la décision [<sup>1</sup> interprétative, rectificative ou statuant sur l'omission d'un chef de demande en marge de la décision initiale]<sup>1</sup>.
+
+Aucune expédition, ni copie, ni extrait de la décision [<sup>1</sup> initiale]<sup>1</sup> ne peut être délivrée s'il n'y est fait mention du dispositif de la décision interprétative [<sup>1</sup> , rectificative ou statuant sur l'omission d'un chef de demande]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2013-10-24/52, art. 10, 122; En vigueur : 03-02-2014&gt;
+
+**Art. 801**
+
+Le demandeur en interprétation [<sup>1</sup> , en rectification ou en vue de voir statuer sur l'omission d'un chef de demande]<sup>1</sup> consigne au greffe le montant des frais et dépens [<sup>2</sup> qui sont normalement dus par ou en vertu de la loi au moment de l'introduction de la demande]<sup>2</sup>. Si la décision accueille la demande, les frais et dépens sont à charge de l'Etat, et la somme consignée est restituée au demandeur. Dans le cas contraire, les frais et dépens peuvent être mis en tout ou en partie à charge du demandeur et prélevés sur le montant consigné. &lt;L 24-6-1970, art. 11&gt;
+
+----------
+
+(1)&lt;L 2013-10-24/52, art. 11, 122; En vigueur : 03-02-2014&gt;
+
+(2)&lt;L 2026-02-08/04, art. 48, 211; En vigueur : 26-02-2026&gt;
+
+**Art. 801/1**
+
+[<sup>1</sup> Si la décision rectifiée est passée en force de chose jugée, la décision rectificative ne peut être attaquée que par la voie du recours en cassation. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-10-24/52, art. 12, 122; En vigueur : 03-02-2014&gt;
+
+**Art. 801bis**
+
+[<sup>1</sup> Le juge peut, d'office ou sur demande, rectifier les erreurs matérielles, de calcul ou les omissions qui seraient contenues dans un certificat établi par lui en application d'un règlement européen ou annuler un tel certificat dans les cas et les conditions fixées par le règlement concerné. Le Roi peut déclarer le présent article applicable aux certificats visés dans d'autres instruments internationaux.
+
+Si l'erreur matérielle, de calcul ou l'omission n'intervient que dans le certificat, la demande de rectification du certificat est introduite par requête unilatérale.
+
+Si l'erreur matérielle, de calcul ou l'omission dans le certificat est le résultat d'une erreur matérielle, de calcul ou d'une omission contenue dans la décision rendue par le juge pour laquelle le certificat a été émis, la rectification du certificat est demandée conjointement à celle de la décision rendue par le juge. La procédure visée aux articles 794 à 801/1 est suivie.
+
+La demande d'annulation du certificat est introduite par requête unilatérale.
+
+Le greffier envoie par lettre ordinaire une copie du certificat rectifié à toutes les parties à la cause.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-20/06, art. 6, 191; En vigueur : 01-08-2022&gt;
+
+#### CHAPITRE III. \_ L'instruction et le jugement par défaut.
+
+**Art. 802**
+
+Si une des parties ne comparaît pas à l'audience d'introduction, il peut y être pris défaut contre elle
+
+**Art. 803**
+
+La partie défaillante contre laquelle le défaut n'a pas été pris à l'audience d'introduction, est convoquée, sous pli judiciaire, par le greffier, à la demande écrite de la partie adverse, pour l'audience à laquelle la cause a été remise ou ultérieurement fixée.
+
+[<sup>1</sup> Lorsqu'à l'audience d'introduction il existe un doute raisonnable que l'acte introductif ait mis le défendeur défaillant en mesure de se défendre, le juge peut ordonner que cet acte soit signifié par exploit d'huissier de justice.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 136, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 804**
+
+&lt;L 1992-08-03/31, art. 33, 020; En vigueur : 01-01-1993&gt; Si, à l'audience à laquelle la cause a été fixée ou remise, l'une des parties ne comparaît pas, jugement par défaut peut être requis contre elle.
+
+Toutefois, si une des parties a [<sup>1</sup> remis des conclusions]<sup>1</sup>, la procédure est à son égard contradictoire.
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 137, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 805**
+
+La prononciation du jugement par défaut ne peut avoir lieu avant la fin de l'audience ou le défaut a été constaté, et pour autant que celui-ci n'ait été auparavant rabattu.
+
+Le défaut sera rabattu et l'instance poursuivie contradictoirement si les parties le sollicitent conjointement [<sup>1</sup> avant que la cause ne soit prise en délibéré]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2022-06-17/09, art. 2, 190; En vigueur : 10-07-2022&gt;
+
+**Art. 806**
+
+[<sup>1</sup> Dans le jugement par défaut, le juge fait droit aux demandes ou moyens de défense de la partie comparante, sauf dans la mesure où la procédure, ces demandes ou moyens sont contraires à l'ordre public [<sup>2</sup> , y compris les règles de droit que le juge peut, en vertu de la loi, appliquer d'office]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2015-10-19/01, art. 20, 141; En vigueur : 01-11-2015&gt;
+
+(2)&lt;L 2017-07-06/24, art. 138, 154; En vigueur : 03-08-2017&gt;
+
+### TITRE III\_ Des incidents et de la preuve.
+
+#### CHAPITRE IER\_ Les demandes incidentes.
+
+**Art. 807**
+
+La demande dont le juge est saisi peut être étendue ou modifiée, si les conclusions nouvelles, contradictoirement prises, sont fondées sur un fait ou un acte invoqué dans la citation, même si leur qualification juridique est différente.
+
+**Art. 808**
+
+En tout état de cause, même par défaut, les parties peuvent réclamer les intérêts, arrérages, loyers et tous accessoires dus ou échus depuis l'introduction de la demande, et même les augmentations ou dommages-intérêts ultérieurement justifiés, sans préjudice des sommes dues en compensation.
+
+**Art. 809**
+
+Entre parties en cause, les demandes incidentes sont formées par conclusions, déposées au greffe, et [<sup>1</sup> envoyées]<sup>1</sup> aux autres parties, ainsi qu'il est dit aux articles 742 à 746.
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 139, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 810**
+
+Si la demande reconventionnelle est de nature à faire subir un trop long retard au jugement de la demande principale, les deux demandes sont jugées séparément.
+
+#### CHAPITRE II. \_ L'intervention.
+
+**Art. 811**
+
+Les cours et tribunaux ne peuvent ordonner d'office la mise en cause d'un tiers.
+
+**Art. 812**
+
+L'intervention peut avoir lieu devant toutes les juridictions, quelle que soit la forme de la procédure, sans néanmoins que des actes d'instruction déjà ordonnés puissent nuire aux droits de la défense.
+
+L'intervention tendant à obtenir une condamnation ne peut s'exercer pour la première fois en degré d'appel.
+
+**Art. 813**
+
+L'intervention volontaire est formée par requête, qui contient, à peine de nullité, les moyens et conclusions.
+
+L'intervention forcée est formée par citation. Entre parties en cause, elle peut avoir lieu par simples conclusions.
+
+**Art. 814**
+
+L'intervention ne peut retarder le jugement de la cause principale.
+
+#### CHAPITRE III. \_ La reprise d'instance.
+
+**Art. 815**
+
+Dans les causes ou la clôture des débats n'a pas été prononcée, le décès d'une partie, son changement d'état ou la modification de la qualité en laquelle elle a agi, demeurent sans effet tant que la notification n'en a pas été faite.
+
+**Art. 816**
+
+Les parties ou leurs ayants droit qui déclarent reprendre l'instance déposent au greffe, selon les règles énoncées aux articles 742 et 743, un acte relatant, à peine de nullité, les causes de la reprise d'instance, avec l'indication de leurs nom, prénom [<sup>2</sup> ...]<sup>2</sup> et domicile ou à défaut de celui-ci l'indication de leur résidence [<sup>1</sup> et, le cas échéant, leur numéro de registre national [<sup>3</sup> , numéro d'identification dans le registre bis]<sup>3</sup> ou numéro d'entreprise]<sup>1</sup>. La notification de l'acte est faite par le greffier, sous pli judiciaire, aux autres parties.
+
+Citation en reprise d'instance peut en outre être donnée, à la requête de toute partie.
+
+----------
+
+(1)&lt;L 2018-10-14/18, art. 15, 173; En vigueur : 01-02-2019&gt;
+
+(2)&lt;L 2018-12-21/09, art. 131, 174; En vigueur : 10-01-2019&gt;
+
+(3)&lt;L 2023-12-19/08, art. 17, 202; En vigueur : 08-01-2024&gt;
+
+**Art. 817**
+
+Le juge saisi de la demande en reprise d'instance peut demander au ministère public de recueillir des renseignements sur l'identité ou la qualité des parties à l'égard desquelles elle peut avoir lieu.
+
+**Art. 818**
+
+La reprise d'instance a lieu de plein droit si, à l'expiration du délai de comparution, la partie citée fait défaut et le jugement sera réputé contradictoire envers elle, si les règles énoncées [<sup>1</sup> à l'article 747 ou, le cas échéant, à l'article 748]<sup>1</sup>, ont été appliquées.
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 140, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 819**
+
+Sur l'acte de reprise d'instance, la procédure est poursuivie selon ses derniers errements et les conclusions déposées précédemment sont censées maintenues, à moins qu'il n'en soit notifié de nouvelles dans l'acte.
+
+#### CHAPITRE IV. \_ Le désistement.
+
+**Art. 820**
+
+Par le désistement d'instance, la partie renonce à la procédure qu'elle a engagée au principal ou incidemment.
+
+Le désistement d'instance n'entraîne pas renonciation au fond du droit.
+
+**Art. 821**
+
+Par le désistement d'action, le demandeur principal, en garantie ou sur reconvention, renonce tant à la procédure qu'au fond du droit.
+
+Le désistement d'action entraîne l'extinction du droit d'agir relativement à la prétention dont le juge avait été saisi.
+
+**Art. 822**
+
+Par le désistement d'un acte de procédure, la partie renonce aux effets qui en résultent pour elle.
+
+**Art. 823**
+
+Le désistement d'action ne peut avoir lieu que s'il porte sur un droit auquel il est permis de renoncer, et dont la partie peut disposer.
+
+Le désistement d'instance est admis en toutes matières.
+
+**Art. 824**
+
+Le désistement peut être exprès ou tacite.
+
+Le désistement exprès est fait par un simple acte, signé de la partie ou de son mandataire, nanti d'un pouvoir spécial à moins que la loi n'en dispose autrement, et signifié à la partie adverse, s'il n'est préalablement accepté par elle.
+
+Le désistement tacite ne peut être déduit que d'actes ou de faits précis et concordants qui révèlent l'intention certaine de la partie d'abandonner l'instance ou l'action.
+
+**Art. 825**
+
+La validité du désistement d'instance est subordonnée à son acceptation par la partie à qui il est signifié, à moins qu'il n'intervienne avant que la partie adverse ait conclu sur l'objet de la demande à laquelle il est renoncé.
+
+En cas de contestation, le désistement est admis ou, le cas échéant, refusé par une décision du juge.
+
+**Art. 826**
+
+Le désistement d'instance, lorsqu'il a été accepté, emporte de plein droit consentement que les choses soient remises, de part et d'autre, en même état que s'il n'y avait pas eu d'instance.
+
+Néanmoins, le désistement d'instance ne rend pas l'interruption de la prescription non avenue lorsqu'il est motivé par l'incompétence du juge saisi et est suivi, d'un même contexte, de la citation devant le juge compétent.
+
+**Art. 827**
+
+Tout désistement emporte soumission de payer les dépens, au paiement desquels la partie qui se désiste est contrainte, sur simple ordonnance du président, mise au bas de la taxe, parties présentes ou appelées par le greffier.
+
+Cette ordonnance est exécutoire, nonobstant tous recours.
+
+#### CHAPITRE V. \_ Les récusations.
+
+**Art. 828**
+
+Tout juge peut être récusé pour les causes ci-après:
+
+(1° s'il y a suspicion légitime;) &lt;L 2001-06-10/75, art. 4, 056; En vigueur : 02-10-2001&gt;
+
+(2°) si lui-même ou son conjoint a un intérêt personnel à la contestation; &lt;L 2001-06-10/75, art. 4, 056; En vigueur : 02-10-2001&gt;
+
+(3°) si lui-même ou son conjoint est parent ou allié des parties ou de l'une d'elles en ligne directe, (...); ou en ligne collatérale jusqu'au quatrième degré; ou si le juge est parent ou allié au degré ci-dessus du conjoint de l'une des parties; &lt;L 1987-03-31/52, art. 79, 006; En vigueur : 06-06-1987&gt; &lt;L 2001-06-10/75, art. 4, 056; En vigueur : 02-10-2001&gt;
+
+(4°) si le juge, son conjoint, leurs ascendants et descendants ou alliés dans la même ligne, ont un différend sur une question pareille à celle dont il s'agit entre les parties; &lt;L 2001-06-10/75, art. 4, 056; En vigueur : 02-10-2001&gt;
+
+(5°) s'ils ont un procès en leur nom devant un tribunal où l'une des parties est juge; s'ils sont créanciers ou débiteurs d'une des parties; &lt;L 2001-06-10/75, art. 4, 056; En vigueur : 02-10-2001&gt;
+
+(6°) s'il y a eu procès criminel entre eux et l'une des parties ou leurs conjoints, parents ou alliés en ligne directe; &lt;L 2001-06-10/75, art. 4, 056; En vigueur : 02-10-2001&gt;
+
+(7°) s'il y a procès civil entre le juge, son conjoint, leurs ascendants et descendants, ou alliés dans la même ligne, et l'une des parties, et que ce procès, s'il a été intenté par la partie, l'ait été avant l'instance dans laquelle la récusation est proposée; si, ce procès étant terminé, il ne l'a été que dans les six mois précédant la récusation; &lt;L 2001-06-10/75, art. 4, 056; En vigueur : 02-10-2001&gt;
+
+(8°) si le juge est tuteur, subrogé tuteur ou curateur, [<sup>1</sup> administrateur]<sup>1</sup>, héritier présomptif ou donataire, maître ou associé de l'une des parties; s'il est administrateur ou commissaire de quelque établissement, société ou association, partie dans la cause; si l'une des parties est sa présomptive héritière ou sa donataire; &lt;L 2001-06-10/75, art. 4, 056; En vigueur : 02-10-2001&gt;
+
+(9°) si le juge a donné conseil, plaidé ou écrit sur le différend; s'il en a précédemment connu comme juge ou comme arbitre, sauf si, au même degré de juridiction: &lt;L 2001-06-10/75, art. 4, 056; En vigueur : 02-10-2001&gt;
+
+1\. il a concouru à un jugement ou à une sentence avant faire droit;
+
+2\. ayant statué par défaut, il connaît de l'affaire sur opposition;
+
+3\. ayant statué sur un pourvoi, il connaît ultérieurement de la même cause, chambres réunies;
+
+(10°) si le juge a pris part à un jugement en premier degré, et qu'il soit saisi du différend sur l'appel; &lt;L 2001-06-10/75, art. 4, 056; En vigueur : 02-10-2001&gt;
+
+(11°) s'il a déposé comme témoin; si, depuis le commencement du procès, il a été reçu par une partie à ses frais ou a agréé d'elle des présents; &lt;L 2001-06-10/75, art. 4, 056; En vigueur : 02-10-2001&gt;
+
+(12°) s'il y a inimitié capitale entre lui et l'une des parties; s'il y a eu, de sa part, agressions, injures ou menaces, verbalement ou par écrit, depuis l'instance, ou dans les six mois précédant la récusation proposée. &lt;L 2001-06-10/75, art. 4, 056; En vigueur : 02-10-2001&gt;
+
+[<sup>2</sup> 13° pour un conflit d'intérêts.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 161, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+(2)&lt;L 2016-12-25/14, art. 79, 148; En vigueur : 09-01-2017&gt;
+
+**Art. 829**
+
+Les dispositions relatives à la récusation des juges sont applicables aux conseillers sociaux et juges sociaux ou consulaires.
+
+En outre, le conseiller ou le juge social ou consulaire peut être récusé:
+
+1° s'il a été lié avec une des parties par un contrat de louage de travail;
+
+2° s'il a été membre du personnel, d'un organe d'administration ou de gestion d'une personne morale à laquelle une des parties a été liée par un contrat de louage de travail.
+
+**Art. 830**
+
+Il n'y a pas lieu à récusation, dans les cas ou le juge serait parent du tuteur, du curateur [<sup>1</sup> ou de l'administrateur]<sup>1</sup> de l'une des deux parties, ou des administrateurs ou commissaires d'un établissement, société ou association, partie dans la cause, à moins que lesdits tuteurs, administrateurs ou intéressés, n'aient un intérêt distinct ou personnel.
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 162, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+**Art. 831**
+
+Tout juge qui sait cause de récusation en sa personne est tenu de s'abstenir.
+
+**Art. 832**
+
+Les causes de récusation relatives aux juges sont applicables au ministère public, à moins qu'il n'agisse comme partie principale.
+
+**Art. 833**
+
+Celui qui veut récuser doit le faire avant le commencement de la plaidoirie, à moins que les causes de la récusation ne soient survenues postérieurement et, si la cause est introduite par requête, avant que la requête ait été appointée.
+
+**Art. 834**
+
+La récusation contre les juges commis aux descentes, enquêtes et autres opérations, ne peut être proposée, à peine de déchéance, que dans les trois jours qui courent:
+
+1° si le jugement est contradictoire, du jour du jugement;
+
+2° si le jugement est par défaut et qu'il n'y ait pas d'opposition, du jour de l'expiration du délai de l'opposition;
+
+3° si le jugement a été rendu par défaut et qu'il y ait eu opposition, du jour du débouté d'opposition, même par défaut.
+
+**Art. 835**
+
+&lt;L 2003-12-22/42, art. 375, 069; En vigueur : 10-01-2004&gt; Sous peine de nullité, la demande en récusation est introduite par un acte au greffe, contenant les moyens et signée par un avocat inscrit depuis plus de dix ans au barreau.
+
+[<sup>1</sup> Sous peine d'irrecevabilité, l'acte contient élection de domicile en Belgique si le demandeur n'y a pas son domicile, sa résidence ou son siège.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-15/03, art. 61, 204; En vigueur : 07-06-2024&gt;
+
+**Art. 836**
+
+L'acte de récusation est remis dans les vingt-quatre heures par le greffier au juge récusé.
+
+Celui-ci est tenu de donner au bas de cet acte, dans les deux jours, sa déclaration écrite, portant, ou son acquiescement à la récusation, ou son refus de s'abstenir, avec ses réponses aux moyens de récusation.
+
+**Art. 837**
+
+A compter du jour de la communication au juge, tous jugements et opération sont suspendus (sauf si la demande n'émane pas d'une partie ou du ministère public). [<sup>2</sup> Le juge peut toutefois ajourner l'affaire ou la mettre en continuation à une autre audience.]<sup>2</sup> &lt;L 2003-12-22/42, art. 376, 069; En vigueur : 10-01-2004&gt;
+
+Si, néanmoins, l'une des parties prétend que l'opération est urgente et qu'il y ait péril dans le retard, elle peut demander au président du tribunal ou au premier président de la cour que l'incident soit porté à l'audience; le greffier y convoque les parties, sous pli judiciaire.
+
+Le premier président ou le président, en faisant droit à la demande, ordonne qu'il sera procédé par un autre juge. (Si la récusation d'un juge d'instruction est demandée, le premier président ou le président ordonne, à la demande du ministère public, qu'il sera procédé par un autre juge.) &lt;L 2001-06-10/75, art. 6, 056; En vigueur : 02-10-2001&gt;
+
+(La suspension des jugements et opérations prévue à l'alinéa 1er, prend fin si le droit dû en vertu de l'article 269.1 du Code des droits d'enregistrement, d'hypothèque et de greffe [<sup>1</sup> et la contribution due en vertu de l'article 4, § 2, de la loi du 19 mars 2017 instituant un fonds budgétaire relatif à l'aide juridique de deuxième ligne ne sont pas acquittés dans les dix jours]<sup>1</sup> à compter de l'envoi visé à l'article 838, alinéa 1.) &lt;L 2000-06-30/47, art. 43, 052; En vigueur : 27-03-2001&gt;
+
+----------
+
+(1)&lt;L 2022-12-06/02, art. 36, 196; En vigueur : 31-12-2022&gt;
+
+(2)&lt;L 2024-05-15/03, art. 62, 204; En vigueur : 07-06-2024&gt;
+
+**Art. 838**
+
+(Dans les trois jours de la réponse du juge qui refuse de s'abstenir, ou à défaut de réponse dans ce délai, l'acte de récusation et la déclaration du juge, s'il y en a, sont envoyés par le greffier au procureur du Roi s'il s'agit d'un juge de paix ou d'un juge du tribunal de police, au procureur général près la cour d'appel, s'il s'agit d'un membre du tribunal de première instance, du tribunal du travail ou du [<sup>2</sup> tribunal de l'entreprise]<sup>2</sup>; au procureur général près la Cour de cassation, s'il s'agit d'un membre de la cour d'appel ou de la cour du travail, ou s'il s'agit d'un membre de la Cour de cassation.) &lt;L 1998-03-12/38, art. 7, 037, En vigueur : 1998-04-12&gt;
+
+(La récusation est jugée dans les huit jours en dernier ressort par le tribunal de première instance, par la cour d'appel, par la cour du travail ou par la Cour de cassation, selon les cas, sur les conclusions du ministère public, les parties ayant été dûment convoquées pour être entendues en leurs observations.) &lt;L 1998-03-12/38, art. 7, 037, En vigueur : 1998-04-12&gt;
+
+[<sup>3</sup> Si, en outre, une amende pour demande manifestement irrecevable ou manifestement non-fondée peut se justifier, ce point seul est traité à une audience fixée par la même décision à une date rapprochée. Le greffier convoque les parties par pli judiciaire afin qu'elles fassent connaître leurs observations par écrit pour cette date.
+
+L'amende est de quinze euros à deux mille cinq cents euros. Tous les cinq ans, le Roi peut adapter les montants minimums et maximums au coût de la vie. Le Roi désigne l'organe administratif chargé du recouvrement de l'amende poursuivi par toutes voies de droit.]<sup>3</sup>
+
+(alinéa 3 abrogé) &lt;L 2007-04-26/71, art. 25, 088; En vigueur : 22-06-2007&gt;
+
+(alinéa 4 abrogé) &lt;L 2007-04-26/71, art. 25, 088; En vigueur : 22-06-2007&gt;
+
+[<sup>1</sup> Dans les quarante-huit heures de la décision, le greffier la notifie aux parties par pli judiciaire. Le délai pour se pourvoir en cassation prend cours à partir de cette notification.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-10/57, art. 5, 126; En vigueur : 25-05-2014&gt;
+
+(2)&lt;L 2018-04-15/14, art. 252, 163; En vigueur : 01-11-2018&gt;
+
+(3)&lt;L 2021-11-28/01, art. 24, 188; En vigueur : 10-12-2021&gt;
+
+**Art. 839**
+
+Si le récusant n'apporte preuve par écrit ou commencement de preuve des causes de la récusation, le tribunal peut rejeter la récusation sur la simple déclaration du juge ou ordonner la preuve testimoniale.
+
+**Art. 840**
+
+&lt;Abrogé par L 2024-05-15/03, art. 146, 204; En vigueur : 07-06-2024&gt;
+
+**Art. 841**
+
+Si le juge récusé convient des faits qui ont motivé sa récusation, ou si ces faits sont prouvés, il est ordonné qu'il s'abstiendra.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-15/03, art. 146, 204; En vigueur : 07-06-2024&gt;
+
+**Art. 842**
+
+&lt;L 2001-06-10/75, art. 8, 056; En vigueur : 02-10-2001&gt; Le jugement ou l'arrêt qui a rejeté une demande en récusation d'un juge ne fait pas obstacle à l'introduction d'une nouvelle demande pour cause de faits survenus depuis la prononciation.
+
+**Art. 843**
+
+(Abrogé) &lt;L 1998-03-12/38, art. 8, 037, En vigueur : 1998-04-12&gt;
+
+**Art. 844**
+
+(Abrogé) &lt;L 1998-03-12/38, art. 8, 037, En vigueur : 1998-04-12&gt;
+
+**Art. 845**
+
+(Abrogé) &lt;L 1998-03-12/38, art. 8, 037, En vigueur : 1998-04-12&gt;
+
+**Art. 846**
+
+(Abrogé) &lt;L 1998-03-12/38, art. 8, 037, En vigueur : 1998-04-12&gt;.
+
+**Art. 847**
+
+(Abrogé) &lt;L 1998-03-12/38, art. 8, 037, En vigueur : 1998-04-12&gt;
+
+#### CHAPITRE VI. \_ Le désaveu.
+
+**Art. 848**
+
+Dans le cas où un acte de procédure aurait été accompli au nom d'une personne en l'absence de toute représentation légale sans qu'elle l'ait ordonné, permis ou ratifié, même tacitement, elle pourra demander au juge de le déclarer non avenu.
+
+Il en sera de même des actes d'instruction accomplis et des décisions rendues ensuite de l'acte ainsi déclaré non avenu.
+
+Les autres parties litigantes peuvent introduire les mêmes demandes à moins que la personne au nom de laquelle l'acte a été accompli ni le ratifie ou ne le confirme en temps utile.
+
+**Art. 849**
+
+Lorsque l'affaire est pendante devant le juge, au premier ou au second degré de juridiction, la demande en désaveu prévue à l'article 848 est formée selon les règles des interventions.
+
+Si une voie de recours demeure ouverte, la demande en désaveu peut être introduite ensemble avec cette voie de recours.
+
+Dans les autres cas, la demande en désaveu est formée ensemble avec la requête civile, comme il est dit à l'article 1134.
+
+Toute demande en désaveu est communiquée au ministère public.
+
+Le désavoué peut être condamné aux dommages-intérêts envers le demandeur et les autres parties.
+
+**Art. 850**
+
+Le juge peut, à la demande d'une partie, refuser de faire état de l'offre, de l'aveu ou de l'acquiescement qui ne seraient pas justifiés par la signature de celui dont ils émanent ou de son fondé de pouvoir spécial.
+
+#### CHAPITRE VII. \_ Les exceptions.
+
+##### Section première. \_ Exception de la caution de l'étranger demandeur.
+
+**Art. 851**
+
+Sauf le cas de conventions par lesquelles des Etats auraient stipulé pour leurs ressortissants la dispense de la caution judicatum solvi, tous étrangers, demandeurs principaux ou intervenants, sont tenus, si le défendeur belge le requiert avant toute exception, de fournir caution, de payer les frais et dommages-intérêts résultant du procès, auxquels ils peuvent être condamnés. Le défendeur peut requérir que caution soit fournie, même pour la première fois, en cause d'appel, s'il est intimé.
+
+**Art. 852**
+
+Le jugement qui ordonne la caution fixe la somme jusqu'à concurrence de laquelle elle est fournie. Il peut aussi remplacer la caution par toute autre sûreté. Le demandeur est dispensé de fournir la sûreté demandée s'il consigne la somme fixée, s'il justifie que ses immeubles situés en Belgique sont suffisants pour en répondre ou s'il fournit un gage conformément à l'article 2041 du Code civil. Au cours de l'instance, à la demande d'une partie, le tribunal peut modifier l'importance de la somme ou la nature de la sûreté fournie.
+
+##### Section II. \_ Exception dilatoire pour faire inventaire et délibérer.
+
+**Art. 853**
+
+(L'héritier peut) demander la suspension de l'instance jusqu'à l'échéance des délais pour faire inventaire et délibérer et (ne proposer ses moyens) de défense et exceptions qu'après cette échéance. &lt;L 14-7-1976,art. 24&gt;
+
+##### Section III. \_ Les déclinatoires de compétence.
+
+**Art. 854**
+
+Sauf lorsqu'elle est d'ordre public, l'incompétence du juge saisi doit être proposée avant toutes exceptions et moyens de défense.
+
+**Art. 855**
+
+La partie ne peut décliner la compétence du juge saisi que pour autant qu'elle désigne le juge qui, selon elle, serait compétent.
+
+**Art. 856**
+
+En cas de litispendance ou de connexité, la demande de renvoi doit être formée conformément aux règles énoncées aux articles 854 et 855.
+
+Si les causes connexes sont pendantes devant le même juge, elles peuvent être jointes, même d'office.
+
+##### Section IV. \_ Exception dilatoire d'appel en garantie.
+
+**Art. 857**
+
+Lorsqu'il y a lieu à l'appel en garantie, le juge détermine le délai pour y procéder et indique l'audience à laquelle le garant comparaîtra.
+
+Dans les cas qui requièrent célérité, le juge peut abréger les délais de citation, ainsi qu'il est dit à l'article 708.
+
+**Art. 858**
+
+Si, après l'échéance du délai accordé pour appeler garant, le défendeur ne justifie pas qu'il a formé la demande en garantie, il peut être condamné à des dommages-intérêts et il est fait droit sur la demande originaire.
+
+**Art. 859**
+
+Si les demandes originaires et en garantie sont en état d'être jugées en même temps, il y est fait droit conjointement; sinon le demandeur originaire peut faire juger sa demande séparément; le même jugement prononce sur la disjonction, si les deux instances ont été jointes, sauf, après le jugement du principal, à faire droit sur la garantie, s'il y échet.
+
+##### Section V. \_ Exceptions de nullité.
+
+**Art. 860**
+
+[<sup>1</sup> Quelle que soit la formalité omise ou irrégulièrement accomplie, aucun acte de procédure ne peut être déclaré nul, aucune violation d'un délai prescrit à peine de nullité ne peut être sanctionnée, si la sanction n'est pas formellement prononcée par la loi.]<sup>1</sup>.
+
+Les délais prévus pour former un recours sont prescrits à peine de déchéance.
+
+Les autres délais ne sont établis à peine de déchéance que si la loi le prévoit.
+
+----------
+
+(1)&lt;L 2015-10-19/01, art. 22, 141; En vigueur : 01-11-2015&gt;
+
+**Art. 861**
+
+[<sup>1</sup> Le juge ne peut déclarer nul un acte de procédure ou sanctionner le non-respect d'un délai prescrit à peine de nullité que si l'omission ou l'irrégularité dénoncée nuit aux intérêts de la partie qui invoque l'exception.]<sup>1</sup>
+
+[<sup>2</sup> Lorsqu'il constate que le grief établi peut être réparé, le juge subordonne, aux frais de l'auteur de l'acte irrégulier, le rejet de l'exception de nullité à l'accomplissement de mesures dont il détermine le contenu et le délai au-delà duquel la nullité sera acquise.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2015-10-19/01, art. 23, 141; En vigueur : 01-11-2015&gt;
+
+(2)&lt;L 2018-05-25/02, art. 40, 165; En vigueur : 09-06-2018&gt;
+
+**Art. 862**
+
+&lt;Abrogé par L 2015-10-19/01, art. 24, 141; En vigueur : 01-11-2015&gt;
+
+**Art. 863**
+
+&lt;rétabli par L 2006-07-10/39, art. 23, 078; En vigueur : 01-01-2013 (voir L 2012-12-31/01, art. 16)&gt; Dans tous les cas où la signature est nécessaire pour qu'un acte de procédure soit valable, l'absence de signature peut être régularisée à l'audience ou dans un délai fixé par le juge.
+
+**Art. 864**
+
+[<sup>1</sup> La nullité qui entacherait un acte de procédure ou le non-respect d'un délai prescrit à peine de nullité sont couverts s'ils ne sont pas proposés simultanément et avant tout autre moyen.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2015-10-19/01, art. 25, 141; En vigueur : 01-11-2015&gt;
+
+**Art. 865**
+
+&lt;L 2007-04-26/71, art. 26, 088; En vigueur : 22-06-2007&gt; Les règles de l'article 864 et de l'article [<sup>1</sup> 861]<sup>1</sup> ne sont pas applicables aux déchéances prévues à l'article 860, alinéa 2.
+
+----------
+
+(1)&lt;L 2015-10-19/01, art. 26, 141; En vigueur : 01-11-2015&gt;
+
+**Art. 866**
+
+Les procédures et les actes nuls ou frustratoires par le fait d'un officier ministériel sont à la charge de cet officier; celui-ci peut en outre, être condamné aux dommages et intérêts de la partie.
+
+**Art. 867**
+
+&lt;Abrogé par L 2015-10-19/01, art. 27, 141; En vigueur : 01-11-2015&gt;
+
+##### Section VI\_ Jugement des exceptions.
+
+**Art. 868**
+
+Les exceptions dilatoires sont proposées conjointement et avant toutes défenses au fond
+
+Néanmoins, l'exception de la caution de l'étranger demandeur et celle pour faire inventaire et délibérer doivent être énoncées avant toutes autres.
+
+**Art. 869**
+
+Sauf les cas énoncés à l'article 868, et sans préjudice des règlements de compétence prévus aux articles 639 à 644, le juge peut joindre les exceptions au principal et ordonner aux parties de conclure à toutes fins.
+
+Il n'est point dérogé aux règles légales sur l'emploi des langues en matière judiciaire.
+
+#### CHAPITRE VIII. \_ Les preuves.
+
+##### Section première. \_ Dispositions préliminaires.
+
+**Art. 870**
+
+[<sup>1</sup> Sans préjudice de l'article 8.4, alinéa 5, du Code civil, chacune des parties]<sup>1</sup> a la charge de prouver les faits qu'elle allègue.
+
+----------
+
+(1)&lt;L 2019-04-13/28, art. 16, 183; En vigueur : 01-11-2020&gt;
+
+**Art. 871**
+
+Le juge peut néanmoins ordonner à toute partie litigante de produire les éléments de preuve dont elle dispose.
+
+**Art. 871bis**
+
+[<sup>1</sup> § 1er. Les parties, leurs avocats ou autres représentants, les magistrats et le personnel judiciaire, les témoins, les experts et toute autre personne qui ont eu, en raison de leur participation à une procédure judiciaire, ou de leur accès à des documents faisant partie d'une telle procédure judiciaire, connaissance d'un secret d'affaires ou d'un secret d'affaires allégué au sens de l'article I.17/1, 1°, du Code de droit économique, que le juge a, en réponse à la demande dûment motivée d'une partie intéressée ou d'office, qualifié de confidentiel, ne sont pas autorisés à utiliser ou divulguer ce secret d'affaires ou secret d'affaires allégué.
+
+L'obligation de confidentialité visée au premier alinéa perdure après la fin de la procédure judiciaire. Toutefois, elle cesse d'exister dans chacune des circonstances suivantes:
+
+1° lorsqu'il est constaté, dans une décision qui est coulée en force de chose jugée, que le secret d'affaires allégué ne remplit pas les conditions prévues à l'article I.17/1, 1°, du Code de droit économique; ou
+
+2° lorsque les informations en cause sont devenues, au fil du temps, généralement connues des personnes appartenant aux milieux qui s'occupent normalement de ce genre d'informations, ou sont devenues aisément accessibles à ces personnes.
+
+§ 2. Le juge peut en outre, à la demande dûment motivée d'une partie intéressée ou d'office, prendre les mesures particulières suivantes pour protéger le caractère confidentiel de tout secret d'affaires ou secret d'affaires allégué utilisé ou mentionné au cours d'une procédure judiciaire:
+
+1° restreindre aux personnes ou catégories de personnes qu'il désigne expressément l'accès à tout ou partie des documents contenant des secrets d'affaires ou des secrets d'affaires allégués produits par les parties ou par des tiers;
+
+2° restreindre aux personnes ou catégories de personnes qu'il désigne expressément l'accès aux audiences, lorsque des secrets d'affaires ou des secrets d'affaires allégués sont susceptibles d'y être divulgués, ainsi qu'aux procès-verbaux ou notes d'audience;
+
+3° mettre à la disposition de toute personne autre que celles faisant partie des personnes ou catégories de personnes visées aux 1° et 2°, une version non confidentielle de toute décision judiciaire dans laquelle les passages contenant des secrets d'affaires ont été supprimés ou biffés.
+
+Le nombre de personnes expressément désignées ou appartenant aux catégories de personnes expressément désignées visées à l'alinéa 1er, 1° et 2°, ne peut pas être supérieur à ce qui est nécessaire pour garantir aux parties à la procédure judiciaire le respect de leur droit à un recours effectif et à accéder à un tribunal impartial et il comprend, au moins, une personne physique pour chaque partie et l'avocat de chaque partie ou d'autres représentants de ces parties à la procédure judiciaire.
+
+§ 3. Lorsqu'il se prononce sur les mesures visées au paragraphe 2, le juge évalue leur caractère proportionné. A cet effet, le juge prend en considération la nécessité de garantir le droit à un recours effectif et à accéder à un tribunal impartial, les intérêts légitimes des parties et, le cas échéant, des tiers, ainsi que tout dommage que l'octroi ou le refus de ces mesures pourrait causer à l'une ou l'autre des parties et, le cas échéant, à des tiers.
+
+§ 4. La personne qui ne respecte pas l'obligation prévue au paragraphe 1er ou la mesure prise en vertu du paragraphe 2 peut être condamnée à une amende de 500 à 25 000 euros, sans préjudice des dommages et intérêts qui seraient réclamés.
+
+En ce cas, il y sera statué par la même décision dans la mesure où il est fait droit à une demande de dommages et intérêts pour non-respect de l'obligation prévue au paragraphe 1er ou de la mesure prise en vertu du paragraphe 2. Si tel n'est pas le cas, les parties seront invitées à s'expliquer conformément à l'article 775.
+
+Le Roi désigne l'organe administratif chargé du recouvrement de l'amende poursuivi par toutes voies de droit. Tous les cinq ans, le Roi peut adapter les sommes minimales et maximales de l'amende au coût de la vie.
+
+§ 5. Tout traitement de données à caractère personnel en vertu de cet article est effectué conformément à la réglementation relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-30/18, art. 35, 169; En vigueur : 24-08-2018&gt;
+
+**Art. 872**
+
+[<sup>1</sup> Dans les matières visées au [<sup>2</sup> chapitre Xbis, livre IV de la quatrième partie [<sup>3</sup> ou en cas de demande de levée de la prohibition de contracter un mariage visée aux articles 164 et 353-13 du Code civil]<sup>3</sup>, le tribunal de la famille]<sup>2</sup> peut requérir le ministère public, lorsque l'affaire peut lui être communiquée pour avis, de recueillir des renseignements sur les objets que limitativement il précise.
+
+Les actes de cette information sont déposés au greffe, dans le dossier de la procédure. Les parties en sont averties par le greffier.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 155, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2014-05-08/02, art. 69, 132; En vigueur : 01-09-2014&gt;
+
+(3)&lt;L 2018-12-21/09, art. 123, 174; En vigueur : 10-01-2019&gt;
+
+**Art. 873**
+
+Le tribunal ou le juge à qui est adressé une commission rogatoire est tenu de la faire exécuter.
+
+Toutefois et à moins que les conventions internationales n'en disposent autrement, l'exécution des commissions rogatoires émanant des autorités judiciaires étrangères ne peut avoir lieu qu'après avoir été autorisée par le ministre de la Justice [<sup>3</sup> ou son délégué]<sup>3</sup>. [<sup>2</sup> L'autorisation préalable [<sup>3</sup> ...]<sup>3</sup> n'est pas requise lorsque la commission rogatoire est exécutée par le procureur européen ou les procureurs européens délégués désignés conformément à l'article 309/2.]<sup>2</sup>
+
+Le tribunal de première instance, le tribunal du travail ou le [<sup>1</sup> tribunal de l'entreprise]<sup>1</sup> commis rogatoirement peut désigner un juge d'un degré égal ou inférieur.
+
+----------
+
+(1)&lt;L 2018-04-15/14, art. 252, 163; En vigueur : 01-11-2018&gt;
+
+(2)&lt;L 2021-02-17/04, art. 5, 185; En vigueur : 24-02-2021&gt;
+
+(3)&lt;L 2021-11-28/01, art. 25, 188; En vigueur : 10-12-2021&gt;
+
+**Art. 874**
+
+Les commissions rogatoires sont adressées à un tribunal ou à un juge d'un degré égal ou inférieur.
+
+**Art. 875**
+
+Lorsqu'une mesure d'instruction ordonnée par le juge n'a pas été exécutée dans les délais fixés, la partie la plus diligente peut, en toutes matières, ramener la cause à l'audience pour y faire statuer comme de droit.
+
+**Art. 875bis**
+
+[<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup>
+
+Le juge limite le choix de la mesure d'instruction et le contenu de cette mesure à ce qui est suffisant pour la solution du litige, à la lumière de la proportionnalité entre les coûts attendus de la mesure et l'enjeu du litige et en privilégiant la mesure la plus simple, la plus rapide et la moins onéreuse.]<sup>1</sup>
+
+[<sup>2</sup> Lorsque la recevabilité de l'action est contestée, le juge ne peut ordonner une mesure d'instruction qu'après que l'action concernée a été déclarée recevable, sauf lorsque la mesure a trait au respect de la condition de recevabilité invoquée.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2015-10-19/01, art. 28, 141; En vigueur : 01-11-2015&gt;
+
+(2)&lt;L 2017-07-06/24, art. 141, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 876**
+
+Le tribunal juge le différend dont il est saisi selon les règles de preuve applicables à la nature du litige.
+
+##### Section II\_ La production de documents.
+
+**Art. 877**
+
+Lorsqu'il existe des [<sup>1</sup> indices sérieux et précis]<sup>1</sup> de la détention par une partie ou un tiers, d'un document contenant la preuve d'un fait pertinent, le juge peut ordonner que ce document ou une copie de celui-ci certifiée conforme, soit déposé au dossier de la procédure.
+
+----------
+
+(1)&lt;L 2019-04-13/28, art. 17, 183; En vigueur : 01-11-2020&gt;
+
+**Art. 878**
+
+Si le document est détenu par un tiers, le juge l'invite préalablement à déposer ce document en original ou en copie au dossier de la procédure selon les modalités et dans le délai qu'il indique.
+
+Le tiers peut faire valoir ses observations par écrit ou en chambre du conseil.
+
+Les parties sont autorisées à prendre connaissance de celles-ci et à y répondre.
+
+L'invitation du juge est donnée au tiers par les soins du greffier, sous pli judiciaire.
+
+**Art. 879**
+
+Le jugement qui ordonne la production d'un document en original ou en copie indique l'identité de la partie ou du tiers qui doit faire cette production ainsi que les modalités et le délai dans lesquels elle doit avoir lieu.
+
+Si le document doit être produit en copie, le jugement indique, en outre, l'identité de l'autorité qui doit en certifier l'exactitude ainsi que, le cas échéant, la provision à verser par la partie demanderesse sur l'incident, entre les mains du greffier.
+
+**Art. 880**
+
+Le jugement est notifie sous pli judiciaire par le greffier aux parties et, le cas échéant, au tiers.
+
+Il n'est susceptible ni d'opposition ni d'appel.
+
+**Art. 881**
+
+Le Roi détermine les modalités de perception et de restitution éventuelle de la provision prévue à l'article 879 ainsi que les modalités de paiement des frais de copie.
+
+**Art. 882**
+
+La partie ou le tiers qui s'abstiennent, sans motif légitime, de produire le document ou sa copie, selon la décision du juge, peuvent être condamnés à tels dommages-intérêts qu'il appartiendra.
+
+**Art. 882bis**
+
+&lt;Abrogé par L 2015-12-18/40, art. 3, 142; En vigueur : 01-01-2016&gt;
+
+##### Section III\_ La vérification d'écritures.
+
+**Art. 883**
+
+La demande en vérification d'écritures est principale ou incidente.
+
+Le juge saisi de la demande principale a compétence pour statuer sur les incidents de vérification d'écritures soulevés dans les litiges portés devant lui.
+
+**Art. 884**
+
+En cas de demande principale ou incidente en vérification d'écritures, le juge ordonne aux parties de comparaître devant lui, le cas échéant assistées de leurs avocats, et leur enjoint d'apporter tous titres, documents et pièces de comparaison.
+
+La convocation est adressée aux parties par le greffier, sous pli judiciaire.
+
+**Art. 885**
+
+Si le défendeur en vérification reconnaît aussitôt l'écriture ou la signature, le juge en donne acte au demandeur et fait dresser procès-verbal.
+
+Les frais de la demande ou de l'incident restent en ce cas à la charge du demandeur.
+
+**Art. 886**
+
+Si le défendeur, bien que régulièrement appelé, ne comparaît pas, le juge, après avoir donné défaut contre lui, peut tenir l'écrit pour reconnu.
+
+**Art. 887**
+
+Au cas de décès du signataire de la pièce à vérifier et de reconnaissance ou de méconnaissance de l'écriture ou de la signature par ceux de ses héritiers qui comparaissent, il sera procédé contre les non-comparants selon les dispositions de l'article 752.
+
+**Art. 888**
+
+Si le défendeur comparaît et dénie ou ne reconnaît pas l'écriture ou la signature, le juge paraphe la pièce à vérifier, ainsi que les titres, documents et pièces de comparaison apportés par les parties. Il fait dresser par le greffier tous procès-verbaux qu'il signe avec lui et les parties.
+
+**Art. 889**
+
+Le juge peut retenir immédiatement l'affaire, s'il lui apparaît qu'elle peut être jugée en l'état.
+
+Sinon, le juge ordonne le dépôt au greffe de la pièce à vérifier et des titres, documents et pièces de comparaison produits. Il est dressé procès-verbal de ce dépôt.
+
+Le juge décide en ce cas de toutes mesures d'instruction utiles; il y procède lui-même ou les dirige. Il peut notamment dicter au défendeur un corps d'écriture.
+
+**Art. 890**
+
+S'il apparaît que la production de pièces de comparaison se trouvant entre les mains des parties, de dépositaires ou d'autres personnes est utile, le juge peut ordonner que ces pièces soient apportées au greffe du tribunal ou en tel autre lieu désigné par lui pour l'accomplissement des mesures d'instruction qu'il a prescrites.
+
+Dans le cas ou ces pièces peuvent être apportées ou déposées, le juge décide si les dépositaires doivent assister à la vérification pour représenter les pièces à chaque vacation, ou s'ils doivent seulement les déposer aux mains du greffier.
+
+Le juge prescrit les modalités de délivrance des copies ou photocopies que les parties ou détenteurs des pièces peuvent se faire délivrer par le greffier et qui tiennent lieu de minutes ou d'originaux jusqu'au rétablissement des pièces, ainsi que toutes autres mesures relatives à la délivrance des grosses ou expéditions, à charge d'en faire mention au procès-verbal.
+
+S'il s'agit d'un dépositaire public, les pièces seront préalablement photographiées et une copie photographique, après vérification par le président du tribunal de première instance, qui en dressera procès-verbal, sera remise par le dépositaire au rang de ses minutes, pour en tenir lieu jusqu'au renvoi des pièces; et il pourra en délivrer expédition en faisant mention du procès-verbal qui aura été dressé.
+
+Les parties ou détenteurs des pièces sont remboursés des frais de copie ou de photocopie par le demandeur en vérification, sur la taxe du juge.
+
+[<sup>1</sup> Lorsque la pièce à produire est la minute d'un acte authentique d'un notaire, les alinéas 3 à 5 ne s'appliquent pas et la production a lieu conformément à l'article 22 de la loi du 16 mars 1803 contenant organisation du notariat.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 111, 195; En vigueur : 01-01-2023&gt;
+
+**Art. 891**
+
+Si les experts jugent nécessaire, en vue de l'examen technique, que les pièces à vérifier et les pièces de comparaison leur soient confiées, ils en font la demande au juge.
+
+Si le juge fait droit à cette demande, il prescrit toutes mesures propres à assurer la conservation et le rétablissement de ces pièces.
+
+**Art. 892**
+
+Il ne peut être délivré par les greffiers copie ou expédition des actes dont l'écriture est déniée ou méconnue et qui sont déposés au greffe, si ce n'est en vertu d'une ordonnance du juge rendue sur requête, les parties préalablement entendues. L'ordonnance n'est pas susceptible de recours.
+
+Sur simple réquisition des ayants droit, il est délivré expédition ou copie des actes dont les originaux ou minutes sont déposes à titre de pièces de comparaison ou qui, étrangers à la vérification, sont joints à l'acte contesté. Les greffiers perçoivent, en ce cas, les droits qui seraient dus aux dépositaires des originaux et minutes.
+
+Si les dépositaires ont fait, selon les dispositions de l'article 890, des copies des actes déposés, ils ont seuls le droit de délivrer expédition.
+
+**Art. 893**
+
+Le juge statue sans recours sur toutes questions concernant les modalités d'instruction telles que celles ayant trait à la production des pièces de comparaison, aux lieux de vérification, à la conservation et au rétablissement des pièces.
+
+**Art. 894**
+
+L'expédition du jugement statuant sur la vérification est, par les soins du greffier, transmis au procureur du Roi dans les quinze jours de la date de ce jugement.
+
+##### Section IV\_ Le faux civil.
+
+###### Sous-section première\_ Dispositions générales.
+
+**Art. 895**
+
+La demande en faux civil est principale ou incidente.
+
+Le juge saisi de l'action principale est compétent pour statuer sur les incidents de faux soulevés dans les litiges portés devant lui.
+
+**Art. 896**
+
+La demande en faux civil doit énoncer avec précision les moyens de faux.
+
+Elle sera reçue encore que la pièce arguée de faux ait fait l'objet d'une procédure de vérification d'écritures et qu'elle ait été tenue pour reconnue et véritable.
+
+**Art. 897**
+
+En cas de demande incidente en faux civil, le juge saisi de l'action principale surseoit à statuer sur cette action, s'il ne peut y être statué sans tenir compte de la pièce arguée de faux.
+
+**Art. 898**
+
+En cas de demande principale ou incidente en faux civil, le juge ordonne aux parties de comparaître devant lui, le cas échéant, assistées de leurs avocats et enjoint au défendeur en faux civil de produire la pièce arguée de faux.
+
+La convocation est adressée aux parties par le greffier, sous pli judiciaire.
+
+**Art. 899**
+
+Si le défendeur, bien que régulièrement appelé, ne comparaît pas, le juge, après avoir donné défaut contre lui, peut dire que la pièce arguée de faux ne sera pas opposable au demandeur.
+
+**Art. 900**
+
+Si le défendeur comparaît et déclare ne vouloir se servir de la pièce à l'égard du demandeur, le juge en donne acte au demandeur et fait dresser procès-verbal.
+
+Les frais de la demande ou de l'incident restent en ce cas à la charge du demandeur.
+
+**Art. 901**
+
+Si le défendeur comparaît et déclare vouloir se servir de la pièce à l'égard du demandeur, le juge paraphe la pièce et ordonne le dépôt au greffe. Il fait dresser par le greffier tous procès-verbaux qu'il signe avec lui et les parties.
+
+**Art. 902**
+
+Le juge peut retenir immédiatement l'affaire, s'il lui apparaît qu'elle peut être jugée en l'état.
+
+Sinon, le juge décide de toutes mesures d'instruction utiles; il y procède lui-même ou les dirige, suivant les dispositions relatives à la vérification d'écritures.
+
+**Art. 903**
+
+Au cas ou la pièce arguée de faux a été reçue en minute, le juge ordonne au défendeur ou au dépositaire de la minute de la déposer au greffe ou en tel autre endroit désigné par lui pour l'accomplissement des mesures d'instruction qu'il a ordonnées.
+
+Le juge détermine le délai dans lequel ce dépôt devra être effectué.
+
+Si la minute se trouve entre les mains d'un dépositaire public, elle est préalablement photographiée et une copie photographique, en marge de laquelle mention sera faite, par le greffier, de la demande en faux, sera, après vérification par le président du tribunal, qui en dressera procès-verbal, mise par le dépositaire au rang de ses minutes, pour en tenir lieu jusqu'au jugement sur le faux; il pourra en délivrer grosse ou expédition en faisant mention du procès-verbal qui aura été dressé.
+
+Le juge prescrit toutes mesures relatives aux copies devant tenir lieu de minutes ou d'originaux jusqu'au rétablissement des pièces, ainsi que toutes autres mesures relatives à la délivrance des grosses ou expéditions, à charge d'en faire mention au procès-verbal.
+
+Le dépositaire est remboursé des frais de la copie par le demandeur en faux, sur la taxe du juge.
+
+[<sup>1</sup> Lorsque la pièce à produire est la minute d'un acte authentique d'un notaire, les alinéas 3 à 5 ne s'appliquent pas et la production a lieu conformément à l'article 22 de la loi du 16 mars 1803 contenant organisation du notariat.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-11-22/06, art. 112, 195; En vigueur : 01-01-2023&gt;
+
+**Art. 904**
+
+Si le juge déclare le faux, mention du jugement est faite en marge de la pièce déclarée fausse, par les soins du greffier. Il est dressé procès-verbal de cet émargement.
+
+Le juge qui déclare le faux ordonne la saisie de la pièce reconnue fausse.
+
+Ladite pièce sera, avec une copie du jugement déclarant le faux, transmise au procureur du Roi, par les soins du greffier, dans les quinze jours de la date de ce jugement.
+
+**Art. 905**
+
+Le demandeur en faux qui succombe en son action peut être condamné, par le jugement statuant sur la demande, aux dommages-intérêts envers la partie.
+
+**Art. 906**
+
+Les désistements ou transactions sur une instance en faux doivent, à peine de nullité, être homologués par le juge saisi de la demande en faux, le ministère public entendu.
+
+###### Sous-section 2. \_ De la procédure de demande en faux incident civil devant la Cour de cassation.
+
+**Art. 907**
+
+Toute partie à l'instance en cassation peut être admise à arguer de faux une pièce, régulièrement produite dans cette instance, dont la fausseté peut entraîner à tort le rejet ou l'admission du pourvoi.
+
+Peuvent seules être arguées de faux dans l'instance en cassation les pièces qui n'ont pu l'être devant la juridiction souveraine ou dont la fausseté ne peut donner ouverture à requête civile.
+
+**Art. 908**
+
+La demande en faux est formée par une requête, signée par la partie et par l'avocat à la Cour de cassation qui occupe pour elle dans l'instance.
+
+La requête désigne avec précision la pièce arguée de faux et énonce les moyens de faux allégués.
+
+Elle est, préalablement à son dépôt, signifiée au défendeur en faux, avec sommation d'avoir à déclarer, dans le délai prescrit par la loi, s'il entend se servir de la pièce arguée de faux et citation à comparaître devant la cour pour entendre statuer sur l'admission de la demande en faux.
+
+**Art. 909**
+
+Dans le délai de quinze jours à compter de la signification de la requête, le défendeur en faux fait connaître sa réponse par la remise au greffe d'une déclaration, signée de lui et de l'avocat à la Cour de cassation qui occupe pour lui dans l'instance et préalablement signifiée au demandeur.
+
+**Art. 910**
+
+Si le défendeur en faux ne répond pas dans le délai prescrit par la loi ou déclare ne pas vouloir se servir de la pièce arguée de faux, la cour ordonne le rejet de la pièce.
+
+Au cas ou le défendeur a déclaré ne pas vouloir se servir de la pièce arguée de faux, le demandeur est condamné aux dépens de l'incident.
+
+**Art. 911**
+
+Si le défendeur déclare vouloir se servir de la pièce, la cour statue, après avoir entendu les avocats en leurs observations, sur l'admissibilité de la demande.
+
+Si la cour rejette la demande, elle condamne par même arrêt le demandeur aux dépens de l'incident.
+
+Si la cour reçoit la requête et admet la demande, elle renvoie par même arrêt, les parties devant une juridiction souveraine du même rang que celle qui a rendu la décision entreprise par le pourvoi.
+
+**Art. 912**
+
+Au cas ou elle admet la demande, la cour surseoit à statuer sur les mérites du pourvoi, jusqu'à ce qu'une décision définitive soit intervenue sur l'incident.
+
+**Art. 913**
+
+La juridiction souveraine de renvoie statue sur la demande en faux dans les formes prévues aux articles 898, 899 et 902 à 906.
+
+**Art. 914**
+
+Une expédition de la décision de la juridiction souveraine de renvoi est transmise, par les soins du greffier, au greffe de la Cour de cassation, pour être jointe au dossier de l'instance principale en cassation.
+
+##### Section V\_ L'enquête.
+
+###### Sous-section première\_ Du jugement autorisant l'enquête.
+
+**Art. 915**
+
+Si une partie offre de rapporter la preuve d'un fait précis et pertinent par un ou plusieurs témoins le juge peut autoriser cette preuve lorsqu'elle est admissible.
+
+**Art. 916**
+
+Le juge peut ordonner d'office la preuve des faits qui lui apparaîtront concluants, si la loi ne le défend pas.
+
+Il peut indiquer en ce cas, les noms des témoins qui seront entendus aux lieu, jour et heure fixés par lui.
+
+**Art. 917**
+
+Le juge qui autorise ou ordonne l'enquête indique en son jugement:
+
+1° les faits dont il admet la preuve;
+
+2° les lieu, jour et heure de l'audience en chambre du conseil ou l'enquête sera tenue.
+
+**Art. 918**
+
+L'enquête est tenue par les juges qui l'ont autorisée ou ordonnée ou par le juge qui sera désigné dans le jugement.
+
+**Art. 919**
+
+Le jugement qui a autorisé ou ordonné l'enquête n'est pas susceptible d'opposition.
+
+Il est notifié par le greffier aux parties, sous pli judiciaire.
+
+**Art. 920**
+
+Si le jugement qui a autorisé ou ordonné l'enquête est confirmé en degré d'appel, et qu'il n'y ait pas lieu à évocation, l'enquête est fixée et tenue par le juge saisi sur simple requête de la partie la plus diligente.
+
+L'ordonnance est notifiée aux parties, sous pli judiciaire, par le greffier.
+
+**Art. 921**
+
+La preuve contraire est de droit même dans le cas ou l'enquête est ordonnée d'office.
+
+L'enquête contraire est tenue aux lieu, jour et heure fixés par le juge soit d'office, soit à la requête de la partie intéressée.
+
+La requête est déposée au greffe trente jours au plus tard à partir de l'envoi du procès-verbal de l'enquête directe.
+
+La requête et l'ordonnance d'appointement de celle-ci seront notifiées aux parties ou, le cas échéant, à leur avocat, sous pli judiciaire, par le greffier.
+
+**Art. 922**
+
+La partie qui fait procéder à l'audition des témoins doit adresser la liste de ceux-ci au greffier, au moins quinze jours avant l'audience ou l'enquête sera tenue.
+
+La liste contient l'identité des témoins et est déposée au greffe, en autant d'exemplaires qu'il y a de parties en cause; elle est notifiée sous pli judiciaire, par le greffier, aux parties autres que le requérant.
+
+###### Sous-section 2. \_ De la comparution des témoins.
+
+**Art. 923**
+
+Les témoins sont convoqués par le greffier au moins huit jours avant leur audition. Il est joint à la convocation une copie certifiée conforme du dispositif du jugement, seulement en ce qui concerne les faits admis et la fixation des lieu, jour et heure de l'audition. La convocation reproduit en outre le texte des articles 924 à 936.
+
+Les témoins peuvent aussi être entendus sur simple avertissement de la partie qui en avertit le greffier.
+
+**Art. 924**
+
+Si le témoin justifie qu'il est dans l'impossibilité de se présenter, le juge peut, soit fixer une autre date pour l'audition, soit décider de se transporter pour recevoir la déposition, soit délivrer une commission rogatoire. Celle-ci peut être délivrée aussi lorsque le témoin est trop éloigné.
+
+**Art. 925**
+
+Si le témoin convoqué par le greffier ne comparaît pas, le juge peut, à la demande d'une partie, ordonner que le témoin sera cité par exploit d'huissier.
+
+Le juge fixe les lieu, jour et heure de l'audience à laquelle le témoin sera entendu.
+
+**Art. 926**
+
+Le témoin cité et défaillant est condamné par ordonnance du juge à une amende de cent francs à dix mille francs sans préjudice des dommages-intérêts au profit de la partie.
+
+L'ordonnance est signifiée au témoin avec citation à comparaître dans les délais ordinaires de citation pour être entendu à l'audience indiquée par le juge.
+
+**Art. 927**
+
+Le témoin condamné qui comparait ultérieurement peut, après sa déposition, être déchargé en tout ou en partie, par le juge de la condamnation prononcée. Il est déchargé de celle-ci s'il justifie qu'il n'a pu se présenter au jour indiqué.
+
+**Art. 928**
+
+L'(amende) prévue à l'article 926 est applicable au témoin qui sans motif légitime refuse de prêter serment ou de déposer. &lt;L 15-7-1970, art. 35&gt;
+
+**Art. 929**
+
+Si le témoin allègue qu'il existe un motif légitime qui le dispense de prêter serment ou de déposer et si l'une des parties requiert qu'il y soit tenu, le juge statue sur l'incident. Est notamment tenu pour un motif légitime le secret professionnel dont le témoin est dépositaire.
+
+Le juge ne peut prononcer de condamnation qu'après avoir entendu le témoin en sa défense et les parties en leurs explications.
+
+**Art. 930**
+
+Les frais résultant de la défaillance du témoin, de son refus motif légitime de prêter serment ou de déposer demeurent en tous cas à sa charge; ils sont taxés par le juge.
+
+**Art. 931**
+
+[<sup>1</sup> Le mineur de moins de quinze ans révolus n'est pas entendu sous serment. Ses déclarations sont recueillies à titre de simple renseignement.
+
+Sans préjudice de l'article 1004/1, les descendants ne sont pas entendus dans les causes où leurs ascendants ont des intérêts opposés.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 156, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 932**
+
+La partie peut renoncer à l'audition de tout témoin convoqué à sa requête.
+
+Néanmoins une autre partie présente à l'enquête peut requérir cette audition.
+
+###### Sous-section 3. \_ De l'audition des témoins.
+
+**Art. 933**
+
+Les témoins sont entendus séparément, tant en présence qu'en l'absence des parties.
+
+**Art. 934**
+
+Le témoin, \_ avant d'être entendu, déclare ses nom, prénom, [<sup>1</sup> ...]<sup>1</sup> lieu et date de naissance et domicile.
+
+(Il prête serment dans les termes suivants :
+
+"Je jure en honneur et conscience de dire toute la vérité, rien que la vérité."
+
+ou :
+
+"Ik zweer in eer en geweten dat ik de gehele waarheid en niets dan de waarheid zal zeggen."
+
+ou :
+
+"Ich schwöre auf Ehre und Gewissen, die ganze Wahrheit und nur die Wahrheit zu sagen") &lt;L 27-5-1974, art. 8&gt;
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 131, 174; En vigueur : 10-01-2019&gt;
+
+**Art. 935**
+
+Le témoin dépose sans qu'il soit permis de lire aucun projet ecrit.
+
+Le juge peut seulement, s'il échet, après avoir entendu les parties en leurs observations, autoriser ou inviter le témoin à consulter les pièces utiles à sa déposition.
+
+**Art. 936**
+
+La partie ne peut ni interrompre le témoin dans sa déposition ni lui faire aucune interpellation directe, mais est tenue de s'adresser au juge.
+
+**Art. 937**
+
+Le juge, soit d'office, soit sur la réquisition d'une des parties, interroge le témoin sur son degré de parenté ou d'alliance avec les parties ainsi que sur les faits qui lui sont personnels et qui sont de nature à influencer sa déposition. L'interpellation peut porter notamment sur les faits suivants :
+
+1°l'intérêt personnel du témoin à la solution du litige;
+
+2° sa qualité d'hériter présomptif ou de donataire d'une partie;
+
+3° la remise de certificats ou les déclarations faites par le témoin relativement au procès;
+
+4° le contrat de société, de louage de choses ou d'ouvrage que le témoin aurait conclu avec une partie; sa qualité de supérieur ou d'inférieur hiérarchique vis-à-vis d'elle;
+
+5° le litige que le témoin pourrait avoir avec une partie ou la condamnation qu'il aurait encourue sur la plainte ou à la requête de celle-ci.
+
+**Art. 938**
+
+Le juge peut soit d'office, soit à la demande d'une partie, poser au témoin toute question de nature à préciser ou compléter la déposition.
+
+Le juge peut ordonner que les documents produits par le témoin soient déposés au dossier de la procédure en original ou en copie. La copie est au besoin établie sur le champ à l'intervention du greffier.
+
+**Art. 939**
+
+La déposition du témoin est consignée par écrit.
+
+Il en est donné lecture et il est demandé au témoin s'il y persiste.
+
+Lors de cette lecture, et le cas échéant, après observations des parties, le témoin peut faire telles rectifications et additions que bon lui semble; elles sont écrites à la suite ou en marge de la déposition; il en est donné lecture ainsi que de la déposition et mention en est faite au procès-verbal.
+
+La déposition, ainsi que les rectifications et additions qui y ont été faites, sont signées par le témoin, le juge et le greffier; si le témoin ne veut ou ne peut signer, il en est fait mention.
+
+**Art. 940**
+
+Il ne peut être entendu d'autres témoins que ceux qui ont été dénoncés conformément à l'article 922.
+
+**Art. 941**
+
+Néanmoins le juge peut, si une partie le lui demande lors de l'enquête, l'autoriser à produire d'autres témoins dont elle aura indiqué les nom, prénom [<sup>1</sup> ...]<sup>1</sup> et domicile, pourvu qu'il résulte des dépositions déjà entendues que l'audition de ces témoins est utile à la manifestation de la vérité.
+
+L'ordonnance est notifiée aux parties par le greffier sous pli judiciaire et les témoins sont convoqués ainsi qu'il est dit à l'article 923.
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 131, 174; En vigueur : 10-01-2019&gt;
+
+**Art. 942**
+
+Le juge peut, au cours de l'enquête, soit d'office, soit à la demande d'une partie, confronter ou réentendre les témoins.
+
+**Art. 943**
+
+Dans tous les cas où l'enquête ne peut être terminée en une seule audience, le juge la continue à jour et heure certains. La convocation pour cette nouvelle audience est donnée aux témoins séance tenante ou comme il est dit à l'article 923. Les parties qui n'ont pas comparu sont averties par simple lettre par le greffier.
+
+**Art. 944**
+
+Les ordonnances rendues en cours d'enquête ne sont pas susceptibles d'opposition; elles ne sont susceptibles d'appel avant le jugement définitif que si elles prononcent des condamnations.
+
+###### Sous-section 4. \_ De la clôture des enquêtes et du jugement.
+
+**Art. 945**
+
+Le juge prononce la clôture de l'enquête immédiatement après l'achèvement des opérations de celles-ci. Les opérations sont réputées achevées soit que les témoins aient été entendus, soit que les formalités légales aient été accomplies.
+
+Il entend les conclusions des parties séance tenante, ou fixe les lieu, jour et heure de l'audience à laquelle elles seront entendues.
+
+Un avis de fixation est, en pareil cas, notifié par le greffier sous pli judiciaire aux parties qui n'ont pas comparu.
+
+**Art. 946**
+
+&lt;L 15-7-1970, art. 36&gt; Le juge qui a tenu l'enquête siège lorsqu'il est statué sur le résultat des dépositions, à moins qu'il n'en soit empêche.
+
+Si plusieurs juges ont tenu l'enquête, la règle de l'alinéa premier n'est applicable qu'au dernier d'entre eux.
+
+Cette règle n'est pas applicable au juge qui a reçu la déposition d'un témoin sur commission rogatoire.
+
+**Art. 947**
+
+Si l'enquête est nulle en tout ou en partie, le juge peut, jusqu'à la clôture des débats, ordonner, même d'office, que l'enquête soit rouverte dans la mesure qu'il indique et qu'il estime nécessaire à la manifestation de la vérité.
+
+Le jugement ordonnant la réouverture de l'enquête n'est pas susceptible d'opposition. Il est notifié aux parties par le greffier, sous pli judiciaire.
+
+###### Sous-section 5. \_ Du procès-verbal de l'enquête.
+
+**Art. 948**
+
+Il est établi un procès-verbal pour chaque enquête, conformément aux dispositions des articles 949 et 950.
+
+**Art. 949**
+
+Le procès-verbal contient la relation :
+
+1° des parties en cause, des jour et heure de l'audience, des comparutions ou défauts des parties et témoins, des remises à autres jour et heure si elles sont ordonnées;
+
+2° des décisions et ordonnances prises par le juge en cours d'enquête; si les ordonnances ne sont pas directement portées au procès-verbal, l'acte qui les contient y est annexé;
+
+3° des demandes et déclarations faites par les parties en cours d'enquête, si la validité d'un acte de procédure en dépend ou si l'une d'elles en requiert acte;
+
+4° des nom, prénom, [<sup>1</sup> ...]<sup>1</sup> lieu et date de naissance et domicile des personnes entendues, de leur serment et déposition, ainsi que de leurs autres déclarations ou demandes;
+
+5° de la date de la clôture de l'enquête et s'il échet des jour et heure de l'audience où les parties seront entendues;
+
+6° de la liste des pièces qui y sont annexées.
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 130, 174; En vigueur : 10-01-2019&gt;
+
+**Art. 950**
+
+Le procès-verbal est signé à la fin par le juge et le greffier, ainsi que par les parties si elles le veulent ou le peuvent; en cas de refus, il en est fait mention.
+
+**Art. 951**
+
+Une copie certifiée conforme du procès-verbal est notifiée aux parties par le greffier sous pli judiciaire. Il y est joint une copie certifiée conforme des ordonnances annexées au procès-verbal si elles n'ont été déjà signifiées ou notifiées.
+
+(Une copie non signée du procès-verbal est notifié, sous simple lettre, par le greffier aux avocats des parties.) &lt;L 1982-04-21/40, art. 1, 012; En vigueur : 1990-06-30&gt;
+
+###### Sous-section 6. \_ De l'enregistrement littéral de l'enquête.
+
+**Art. 952**
+
+Toute partie peut demander l'enregistrement littéral de l'ensemble des questions posées, déclarations et interpellations faites et réponses données au cours de l'enquête; il ne doit, toutefois, être accédé à cette demande que si elle a été faite par écrit au greffe, huit jours au moins avant l'ouverture de l'enquête.
+
+Lorsque la partie a obtenu le bénéfice de l'assistance judiciaire, elle ne peut requérir sous ce bénéfice l'enregistrement littéral de l'enquête que si cette faculté lui a été accordée soit par la décision qui a statué sur la demande d'assistance judiciaire soit par le juge qui tient l'enquête.
+
+Le greffier désigne la personne chargée de l'enregistrement littéral, parmi celles qui sont agréées à cet effet. Le Roi fixe les règles d'agréation, ainsi que les procédés d'enregistrement littéral autorisés. Il peut être recouru à tout procédé sténographique mécanique ou autre de reproduction de la parole, pourvu qu'il offre les garanties nécessaires de fidélité et de sécurité.
+
+(La personne désignée pour enregistrer l'enquête prête au début de celle-ci le serment suivant :
+
+"Je jure de remplir ma mission en honneur et conscience avec exactitude et probité."
+
+ou :
+
+"Ik zweer dat ik mijn opdracht in eer en geweten, nauwgezet en eerlijk zal vervullen."
+
+ou :
+
+"Ich schwöre, den mir erteilten Auftrag auf Ehre und Gewissen, genau und ehrlich zu erfüllen".) &lt;L 27-5-1974, art. 9&gt;
+
+Il peut être fait usage de l'enregistrement littéral lors de la rédaction du procès-verbal.
+
+(La transcription de l'enregistrement littéral, certifiée sincère et complète par la personne ayant enregistré l'enquête, est jointe au procès-verbal à titre de simple renseignement. Une copie certifiée conforme en est notifiée par le greffier aux parties et une copie non signée en est adressés, sous simple lettre, par le greffier aux avocats des parties. En cas de contradiction, le procès-verbal fait foi.) &lt;L 1982-04-21/40, art. 2, 012; En vigueur : 30-06-1990&gt;
+
+Les notes ou dispositifs ayant servi à recueillir les paroles enregistrées sont déposes au greffe, après avoir été scellés par la personne qui a procédé à l'enregistrement littéral et par le greffier.
+
+Le greffier fait procéder à leur destruction à l'expiration d'un délai de dix ans, à moins que l'une des parties n'ait demandé au juge ou au tribunal qui a ordonné l'enquête, que ce délai soit prorogé.
+
+###### Sous-section 7. \_ Des frais de l'enquête.
+
+**Art. 953**
+
+La partie qui demande l'audition d'un témoin est tenue de consigner entre les mains du greffier avant cette audition une provision représentant le montant de la taxe et le remboursement des frais. Une provision complémentaire peut être exigée en cours d'enquête s'il y a lieu.
+
+Une provision doit pareillement être versée par la partie qui demande l'enregistrement littéral de l'enquête et en raison des frais que cet enregistrement comporte.
+
+(La consignation de la provision est à charge de la partie qui, suivant les lois particulières ou l'article 1017, alinéa 2, est toujours condamnée aux dépens.) &lt;L 6-7-1979, art. unique&gt;
+
+Si la partie s'abstient de verser la provision ainsi requise, elle est présumée renoncer selon le cas soit à l'audition du témoin, soit à l'enregistrement littéral de l'enquête.
+
+Le présent article n'est pas applicable lorsque la partie débitrice d'une provision bénéficie de l'assistance judiciaire.
+
+**Art. 954**
+
+Il est demandé à chaque témoin s'il requiert taxe, même s'il comparaît volontairement.
+
+La taxe est allouée par le juge.
+
+**Art. 955**
+
+Le Roi détermine les conditions de perception et de restitution des provisions prévues à l'article 953, alinéas 1 et 2. Il détermine les modalités de paiement de la taxe des témoins. Il fixe pareillement le tarif de l'enregistrement littéral des dépositions.
+
+###### Sous-section 8. \_ De la validité de l'enquête et de la force probante des dépositions.
+
+**Art. 956**
+
+La nullité d'un acte de procédure ne s'étend pas à l'enquête à moins que celle-ci ne soit elle-même frappée de nullité.
+
+La nullité de l'enquête n'entraîne pas la nullité des dépositions si celles-ci ne sont pas atteintes d'un vice qui leur est propre.
+
+**Art. 957**
+
+La nullité de la procédure, même pour incompétence du juge, n'entraîne pas la nullité de l'enquête tenue contradictoirement au cours de cette procédure.
+
+La nullité des dépositions n'entraîne pas pour le surplus la nullité de l'enquête.
+
+**Art. 958**
+
+Le juge peut, en cours d'enquête, remédier, même d'office, à toute nullité de forme ou de fond dont serait entaché un acte de la procédure d'enquête, notamment recommencer ou compléter toute audition irrégulière.
+
+**Art. 959**
+
+La déposition valable peut être admise comme preuve testimoniale, au sens [<sup>1</sup> de l'article 8.28]<sup>1</sup> du Code civil, dans toute procédure entre les mêmes parties.
+
+----------
+
+(1)&lt;L 2019-04-13/28, art. 18, 183; En vigueur : 01-11-2020&gt;
+
+**Art. 960**
+
+La déposition recueillie contradictoirement, entre les mêmes parties, devant une juridiction et qui n'est pas entachée d'une des causes de nullité prévues par l'article 961, 1° à 3° , peut être admise comme preuve testimoniale.
+
+**Art. 961**
+
+Est nulle la déposition :
+
+1° qui émane d'une personne incapable de déposer en justice;
+
+2° qui n'a pas été reçue sous la foi du serment;
+
+3° qui a été recueillie au mépris des droits de la défense;
+
+4° qui n'a pas été enregistrée au procès-verbal dans la forme prescrite à l'article 939.
+
+##### Section Vbis. - [<sup>1</sup> production d'attestations]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-07-16/04, art. 4, 117; En vigueur : 13-08-2012&gt;
+
+**Art. 961/1**
+
+[<sup>1</sup> Lorsque la preuve testimoniale est admissible, le juge peut recevoir de tiers des déclarations, sous forme d'attestation, de nature à l'éclairer sur les faits litigieux dont ils ont personnellement connaissance.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-07-16/04, art. 5, 117; En vigueur : 13-08-2012&gt;
+
+**Art. 961/2**
+
+[<sup>1</sup> Les attestations sont produites par les parties ou à la demande du juge. Le juge communique aux parties celles qui lui sont directement adressées.
+
+Les attestations doivent être établies par des personnes qui remplissent les conditions requises pour être entendues comme témoin.
+
+L'attestation contient la relation des faits auxquels son auteur a assisté ou qu'il a personnellement constatés.
+
+L'attestation mentionne les noms, prénoms, date et lieu de naissance [<sup>2</sup> et domicile]<sup>2</sup> de son auteur ainsi que, s'il y a lieu, son lien de parenté ou d'alliance avec les parties, de subordination à leur égard, de collaboration ou de communauté d'intérêts avec elles.
+
+L'attestation indique en outre qu'elle est établie en vue de sa production en justice et que son auteur a connaissance qu'une fausse attestation de sa part l'expose à des sanctions pénales.
+
+L'attestation est écrite, datée et signée de la main de son auteur. Celui-ci doit annexer, en original ou en photocopie, tout document officiel justifiant de son identité et comportant sa signature.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-07-16/04, art. 6, 117; En vigueur : 13-08-2012&gt;
+
+(2)&lt;L 2018-12-21/09, art. 132, 174; En vigueur : 10-01-2019&gt;
+
+**Art. 961/3**
+
+[<sup>1</sup> Le juge peut toujours procéder à l'audition de l'auteur de l'attestation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2012-07-16/04, art. 7, 117; En vigueur : 13-08-2012&gt;
+
+##### Section VI. \_ L'expertise.
+
+###### Sous-section 1re. Disposition générale. &lt;inséré par L 2007-05-15/62, art. 3; En vigueur : 01-09-2007 ; voir également l'art. 34&gt;
+
+**Art. 962**
+
+Le juge peut, en vue de la solution d'un litige porté devant lui ou en cas de menace objective et actuelle d'un litige, charger des experts de procéder à des constatations ou de donner un avis d'ordre technique.
+
+[<sup>1</sup> Le juge peut désigner les experts sur lesquels les parties marquent leur accord. Il ne peut déroger au choix des parties que par une décision motivée.
+
+A défaut d'accord entre les parties, les experts donnent uniquement un avis sur la mission prévue dans le jugement.]<sup>1</sup>
+
+(II n'est point tenu de suivre l'avis des experts si sa conviction s'y oppose.) &lt;L 2007-05-15/62, art. 4, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt;
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 20, 106; En vigueur : 25-01-2010&gt;
+
+**Art. 963**
+
+[<sup>1</sup> § 1. A l'exception des décisions prises en application des articles 971, 979, 987, alinéa 1er, et 991, les décisions réglant le déroulement de la procédure d'expertise ne sont susceptibles ni d'opposition ni d'appel.
+
+§ 2. Les décisions qui restent susceptibles d'un recours ordinaire en vertu du § 1er sont exécutoires par provision, nonobstant opposition ou appel. Par dérogation à l'article 1068, alinéa 1er, l'appel formé contre ces décisions ne saisit pas du fond du litige le juge d'appel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Rétabli par L 2009-12-30/14, art. 21, 106; En vigueur : 25-01-2010&gt;
+
+**Art. 964**
+
+[<sup>1</sup> Lorsque le juge désigne plusieurs experts, il peut désigner un expert coordinateur.
+
+L'expert coordinateur a pour mission de coordonner les travaux des experts désignés par le juge et de tenter de concilier toutes les parties, conformément à l'article 977.
+
+L'expert coordinateur prépare le cas échéant la réunion d'installation conformément à l'article 972. Lors de cette réunion, il formule également les propositions nécessaires pour le déroulement ultérieur des travaux des experts désignés par le juge et pour tenter de concilier toutes les parties.
+
+L'expert coordinateur est soumis à l'ensemble des dispositions du présent Code qui s'appliquent aux experts.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-06-08/09, art. 2, 152; En vigueur : 01-07-2017&gt;
+
+**Art. 965**
+
+(Abrogé) &lt;L 2007-05-15/62, art. 5, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt;
+
+###### Sous-section 2. De la récusation des experts. &lt;inséré par L 2007-05-15/62, art. 6; En vigueur : 01-09-2007 ; voir également l'art. 34&gt;
+
+**Art. 966**
+
+Les experts peuvent être récusés par les motifs pour lesquels la récusation est permise à l'égard des juges.
+
+**Art. 967**
+
+Tout expert qui saura cause de récusation en sa personne est tenu de la déclarer immédiatement aux parties et de se déporter si elles ne l'en dispensent.
+
+**Art. 968**
+
+L'expert choisi par les parties ne peut être récusé que pour des causes survenues ou connues depuis sa nomination.
+
+**Art. 969**
+
+&lt;L 2007-05-15/62, art. 7, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt; Aucune récusation ne peut être proposée après la réunion d'installation, ou, à défaut, après le début des travaux de l'expert, à moins que la cause de la récusation n'ait été révélée ultérieurement à la partie.
+
+**Art. 970**
+
+La partie qui entend proposer des moyens de récusation doit les présenter par requête adressée au juge qui a désigné l'expert à moins que celui-ci ne se déporte sans formalités.
+
+La requête doit être présentée dans la huitaine de la date où la partie aura eu connaissance des causes de la récusation.
+
+**Art. 971**
+
+Le greffier adresse sous pli judiciaire à l'expert récusé une copie conforme de l'acte de récusation; en même temps, il avise l'expert qu'il est tenu de déclarer, dans la huitaine s'il accepte ou s'il conteste la récusation.
+
+La récusation est admise si l'expert l'accepte ou s'il garde le silence; lorsque l'expert conteste la récusation, le juge statue, après avoir entendu les parties et l'expert en chambre du conseil.
+
+Si la récusation est rejetée, la partie qui l'a faite peut être condamnée à des dommages-intérêts envers l'expert qui le requiert; mais, dans ce dernier cas, il ne peut, en la cause, demeurer expert.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> Dans le cas de l'alinéa 2 et de l'alinéa 3, in fine, le juge nomme d'office le nouvel expert, à moins que, lors du jugement, les parties ne soient convenues de ce choix. Le juge peut cependant déroger au choix des parties par une décision motivée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 22, 106; En vigueur : 25-01-2010&gt;
+
+###### Sous-section 3. Du déroulement de l'expertise. &lt;inséré par L 2007-05-15/62, art. 8; En vigueur : 01-09-2007&gt;
+
+**Art. 972**
+
+&lt;L 2007-05-15/62, art. 9, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt; § 1er. La décision qui ordonne l'expertise comporte au moins :
+
+\- l'indication des circonstances qui rendent nécessaires l'expertise et la désignation éventuelle de plusieurs experts;
+
+\- l'indication de l'identité de l'expert ou des experts désignés;
+
+\- une description précise de la mission de l'expert;
+
+\- [<sup>1</sup> ...]<sup>1</sup>
+
+La notification de cette décision est effectuée par le greffier conformément à l'article 973, § 2, [<sup>3</sup> alinéas 3 et 4]<sup>3</sup> [<sup>1</sup> , sauf si toutes les parties qui ont comparu ont demandé, avant que la décision ordonnant l'expertise ne soit prise, une suspension de la notification. En cas de suspension, chaque partie peut à tout moment demander la notification de la décision]<sup>1</sup>.
+
+[<sup>1</sup> Après la notification, l'expert dispose de huit jours pour refuser la mission, s'il le souhaite, en motivant dûment sa décision. L'expert en avise les parties qui ont fait défaut par lettre recommandée à la poste et les parties qui ont comparu, leurs conseils ainsi que le juge par lettre missive, par télécopie ou par courrier électronique. Dans ce cas, les parties communiquent dans les huit jours par simple lettre leurs observations éventuelles au juge qui désigne ensuite un nouvel expert. Cette décision est notifiée conformément à l'article 973, § 2, [<sup>3</sup> alinéa 6]<sup>3</sup>.
+
+[<sup>2</sup> Sans préjudice de l'application de l'article 967 et de l'alinéa 3, l'expert communique en tous cas dans le même délai de huit jours les faits et les circonstances qui pourraient être de nature à mettre en cause son indépendance et impartialité. L'alinéa 3, à l'exception de la première phrase, s'applique par analogie. Si le juge l'estime indiqué, il désigne un autre expert.]<sup>2</sup>
+
+Si aucune réunion d'installation n'a été prévue, l'expert dispose de quinze jours à compter de la notification faite conformément à l'alinéa 2 ou, le cas échéant, de la notification de la consignation de la provision conformément à l'article 987, pour communiquer les lieu, jour et heure du début de ses travaux. L'expert en avise les parties par lettre recommandée à la poste et le juge et les conseils par lettre missive.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> Dans la décision ordonnant l'expertise, le juge fixe une réunion d'installation s'il l'estime nécessaire ou si toutes les parties comparantes en font la demande.
+
+Le juge fixe les lieu, jour et heure de la réunion d'installation en concertation avec l'expert et en tenant compte de l'article 972bis, § 1er, alinéa 2.
+
+La réunion d'installation a lieu en chambre du conseil, ou dans tout autre endroit désigné par le juge en fonction de la nature du litige.
+
+La présence de l'expert à la réunion d'installation est requise, sauf si le juge estime qu'elle n'est pas nécessaire et qu'un contact par téléphone ou par tout autre moyen de télécommunication est suffisant.
+
+En cas d'absence de l'expert non justifiée conformément à l'alinéa 4, le juge statue immédiatement sur son remplacement conformément à l'article 979. En cas de remplacement, une nouvelle réunion d'installation est organisée sans délai selon les modalités prévues à l'alinéa 2. Cette décision est notifiée conformément à l'article 973, § 2, [<sup>3</sup> alinéa 6]<sup>3</sup>.
+
+Le juge qui a ordonné l'expertise ou qui est chargé de son contrôle préside la réunion d'installation.
+
+La décision prise à l'issue de la réunion d'installation précise :
+
+1° l'adaptation éventuelle de la mission, si les parties s'accordent sur ce point;
+
+2° les lieu, jour et heure des travaux ultérieurs de l'expert;
+
+3° la nécessité pour l'expert de faire appel ou non à des conseillers techniques;
+
+4° l'estimation du coût global de l'expertise ou, à tout le moins, le mode de calcul des frais et honoraires de l'expert et des éventuels conseillers techniques;
+
+5° le cas échéant, le montant de la provision qui doit être consignée, la ou les parties tenues d'y procéder et le délai dans lequel la consignation doit avoir lieu;
+
+6° la partie raisonnable de la provision pouvant être libérée au profit de l'expert, la ou les parties tenues d'y procéder et le délai dans lequel la libération de la provision doit avoir lieu;
+
+7° le délai dans lequel les parties pourront faire valoir leurs observations à l'égard de l'avis provisoire de l'expert;
+
+8° le délai pour le dépôt du rapport final.
+
+A défaut d'une réunion d'installation, le juge mentionne dans sa décision par laquelle il ordonne l'expertise judiciaire au moins les éléments visés au 3°, 4°, 5°, 6° et 8°. Il peut mentionner les autres éléments. Pour les éléments vis-à-vis desquels il l'estime nécessaire et préalablement à sa décision, le juge prend contact avec l'expert désigné.
+
+La notification de cette décision par le greffier a lieu conformément à l'article 973, § 2, [<sup>3</sup> alinéas 3 et 4]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 23, 106; En vigueur : 25-01-2010&gt;
+
+(2)&lt;L 2016-12-25/14, art. 80, 148; En vigueur : 09-01-2017&gt;
+
+(3)&lt;L 2017-06-08/09, art. 3, 152; En vigueur : 01-07-2017&gt;
+
+**Art. 972bis**
+
+&lt;inséré par L 2007-05-15/62, art. 10; En vigueur : 01-09-2007 ; voir également l'art. 34&gt; § 1er. Les parties sont tenues de collaborer à l'expertise. A défaut, le juge peut en tirer toute conséquence qu'il jugera appropriée.
+
+[<sup>1</sup> Au moins huit jours avant la réunion d'installation et, à défaut, au début des travaux, les parties remettent à l'expert un dossier inventorié rassemblant tous les documents pertinents.]<sup>1</sup>
+
+§ 2. La convocation en vue de travaux ultérieurs se fait conformément à l'article 972, § 1er, dernier alinéa, sauf si l'expert a été autorisé par les parties et les conseils à recourir à un autre mode de convocation.
+
+Si toutes les parties ou leurs conseils demandent un report, l'expert est tenu d'y consentir. Dans tous les autres cas, il peut refuser ou consentir le report et il notifie sa décision au juge par lettre missive.
+
+L'expert dresse un rapport des réunions qu'il organise. II en envoie une copie au juge, aux parties et aux conseils par lettre missive, et, le cas échéant, aux parties qui ont fait défaut, par lettre recommandée.
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 24, 106; En vigueur : 25-01-2010&gt;
+
+**Art. 973**
+
+&lt;L 2007-05-15/62, art. 11, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt; § 1er. Le juge qui a ordonné l'expertise, ou le juge désigné à cet effet, suit le déroulement de celle-ci et veille notamment au respect des délais et de son caractère contradictoire.
+
+Le juge peut, pour des motifs d'urgence, réduire les délais prévus par la présente sous-section ou dispenser les experts de certains modes de convocation.
+
+Les experts exécutent leur mission sous le contrôle du juge, qui peut à tout moment, d'office ou à la demande des parties, assister aux opérations. Le greffier en informe les experts, les parties et leurs conseils par lettre missive, et, le cas échéant, les parties qui ont fait défaut, par pli judiciaire.
+
+§ 2. Toutes les contestations relatives à l'expertise survenant au cours de celle-ci, entre les parties ou entre les parties et les experts, y compris la demande de remplacement des experts et toute contestation relative à l'extension ou à la prolongation de la mission, sont réglées par le juge.
+
+A cet effet, les parties et les experts peuvent s'adresser au juge par lettre missive, motivée. Le juge ordonne immédiatement la convocation des parties et des experts.
+
+[<sup>2</sup> Dans les huit jours, le greffier notifie la convocation aux parties, à leurs conseils et à l'expert par pli simple.
+
+Par dérogation à l'alinéa 3, le greffier notifie la convocation dans les huit jours par pli judiciaire :
+
+1° aux parties qui ont fait défaut;
+
+2° aux experts judiciaires dont le remplacement est demandé ou contesté;
+
+3° aux experts judiciaires qui font l'objet d'une demande d'élargissement ou de prolongation de leur mission, ou d'une contestation de cette demande.]<sup>2</sup>
+
+La comparution en chambre du conseil a lieu dans le mois qui suit la convocation. Le juge statue, par décision motivée, dans les huit jours.
+
+Le greffier notifie cette décision conformément [<sup>2</sup> aux alinéas 3 et 4]<sup>2</sup>. En cas de demande de remplacement [<sup>1</sup> , de refus de l'expert d'accomplir la mission ou d'absence injustifiée de l'expert lors de la réunion d'installation]<sup>1</sup>, la décision est notifiée, selon le cas, à l'expert confirmé, ou à l'expert déchargé et au nouvel expert désigné par pli judiciaire.
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 25, 106; En vigueur : 25-01-2010&gt;
+
+(2)&lt;L 2017-06-08/09, art. 4, 152; En vigueur : 01-07-2017&gt;
+
+**Art. 974**
+
+&lt;L 2007-05-15/62, art. 12, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt; § 1er. Si le délai fixé pour le dépôt du rapport final est supérieur à six mois, l'expert adresse tous les six mois un rapport intermédiaire sur l'état d'avancement de ses travaux au juge, aux parties et aux conseils. Cet état d'avancement mentionne :
+
+\- les travaux déjà réalisés;
+
+\- les travaux réalisés depuis le dernier rapport intermédiaire;
+
+\- les travaux qui restent à réaliser.
+
+§ 2. [<sup>1</sup> Seul le juge peut prolonger le délai pour le dépôt du rapport final. à cet effet, l'expert peut s'adresser au juge avant l'expiration de ce délai, en indiquant les raisons pour lesquelles le délai devrait être prolongé. Cette demande est notifiée conformément à l'article 973, § 2, [<sup>2</sup> alinéas 3 et 4]<sup>2</sup>, sauf à l'expert requérant. Les parties communiquent dans les huit jours leurs observations éventuelles. Le juge peut ordonner la comparution des parties et des experts conformément à l'article 973, § 2.]<sup>1</sup>
+
+Le juge refuse de prolonger le délai lorsqu'il estime qu'une prolongation n'est pas raisonnablement justifiée. II motive cette décision.
+
+§ 3. En cas de dépassement du délai prévu et en l'absence de demande de prolongation avenue dans les délais, le juge ordonne d'office la convocation, conformément à l'article 973, § 2.
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 26, 106; En vigueur : 25-01-2010&gt;
+
+(2)&lt;L 2017-06-08/09, art. 5, 152; En vigueur : 01-07-2017&gt;
+
+**Art. 975**
+
+(Abrogé) &lt;L 2007-05-15/62, art. 13, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt;
+
+**Art. 976**
+
+[<sup>1</sup> A la fin de ses travaux, l'expert envoie pour lecture au juge, aux parties et à leurs conseils, ses constatations, auxquelles il joint déjà un avis provisoire. à moins qu'il n'ait été antérieurement déterminé par le juge. L'expert fixe un délai raisonnable, compte tenu de la nature du litige, dans lequel les parties doivent formuler leurs observations. Sauf décision contraire du juge ou circonstances particulières visées par l'expert en son avis provisoire, ce délai est d'au moins quinze jours.
+
+L'expert reçoit les observations des parties et de leurs conseillers techniques avant l'expiration de ce délai. L'expert ne tient aucun compte des observations qu'il reçoit tardivement. Ces observations peuvent être écartées d'office des débats par le juge.
+
+Lorsqu'après réception des observations des parties, l'expert estime que de nouveaux travaux sont indispensables, il en sollicite l'autorisation auprès du juge conformément à l'article 973, § 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 27, 106; En vigueur : 25-01-2010&gt;
+
+**Art. 977**
+
+&lt;L 2007-05-15/62, art. 15, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt; § 1er. L'expert tente de concilier les parties.
+
+[<sup>1</sup> Si les parties se concilient, leur accord est constaté, par écrit. Les parties peuvent agir conformément à l'article 1043.]<sup>1</sup>
+
+§ 2. Le constat de conciliation [<sup>1</sup> ...]<sup>1</sup> et un état de frais et honoraires détaillé de l'expert sont déposés au greffe.
+
+Le jour du dépôt du constat de conciliation, l'expert envoie, par lettre recommandée à la poste, une copie du constat de conciliation et un état de frais et honoraires détaillé aux parties, et, par lettre missive, à leurs conseils.
+
+[<sup>1</sup> Les pièces originales communiquées à l'expert par les parties leur sont restituées.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 28, 106; En vigueur : 25-01-2010&gt;
+
+**Art. 978**
+
+&lt;L 2007-05-15/62, art. 16, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt; § 1er. Le rapport final est daté et relate la présence des parties lors des travaux, leurs déclarations verbales et leurs réquisitions. II contient en outre le relevé des documents et des notes remis par les parties aux experts; il ne peut les reproduire que dans la mesure ou cela est nécessaire à la discussion.
+
+Le rapport est, à peine de nullité, signé par l'expert.
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+§ 2. [<sup>3</sup> Le rapport final]<sup>3</sup> [<sup>1</sup> ...]<sup>1</sup> ainsi qu'un état de frais et honoraires détaillé de l'expert sont déposés au greffe.
+
+Le jour du dépôt du rapport, l'expert envoie, par lettre recommandée à la poste, une copie du rapport et un état de frais et honoraires détaillé aux parties, et, par lettre missive, à leurs conseils.
+
+[<sup>1</sup> Les pièces originales communiquées à l'expert par les parties leur sont restituées.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 29, 106; En vigueur : 25-01-2010&gt;
+
+(2)&lt;L 2014-04-10/90, art. 6, 136; En vigueur : 01-12-2016&gt;
+
+(3)&lt;L 2024-03-28/60, art. 32, 203; En vigueur : 08-04-2024&gt;
+
+**Art. 979**
+
+&lt;L 2007-05-15/62, art. 17, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt; § 1er. Si une partie en fait la demande, le juge peut remplacer l'expert qui ne remplit pas correctement sa mission.
+
+[<sup>1</sup> Si les parties en font conjointement la demande de manière motivée, le juge doit remplacer l'expert. Cette demande est adressée par lettre missive au juge, lequel statue dans les huit jours sans convocation ou comparution de parties. A cet égard, le juge peut désigner les experts sur lesquels les parties marquent leur accord. Il ne peut déroger au choix des parties que de manière motivée. La décision prise par le juge est notifiée conformément à l'article 973, § 2, [<sup>2</sup> alinéa 6]<sup>2</sup>.]<sup>1</sup>
+
+Si aucune des parties n'en fait la demande, le juge peut ordonner d'office la convocation visée à l'article 973, § 2.
+
+Le juge motive sa décision de remplacement et procède immédiatement à la désignation d'un nouvel expert.
+
+§ 2. L'expert remplacé dispose d'un délai de quinze jours pour déposer au greffe les documents et notes des parties ainsi qu'un état de frais et honoraires détaillé.
+
+Le jour du dépôt, l'expert envoie aux parties, par lettre recommandée à la poste, et aux conseils des parties, par simple lettre, une copie de l'état de frais et honoraires détaillé.
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 30, 106; En vigueur : 25-01-2010&gt;
+
+(2)&lt;L 2017-06-08/09, art. 6, 152; En vigueur : 01-07-2017&gt;
+
+**Art. 980**
+
+&lt;L 2007-05-15/62, art. 18, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt; Lorsque l'expertise est ordonnée par défaut à l'égard d'une ou de plusieurs parties, celles-ci peuvent prendre part sans autres formalités à n'importe quel stade de l'expertise, soit en étant présentes ou en se faisant représenter, soit en communiquant des observations écrites.
+
+En pareil cas, l'expertise et la procédure se poursuivent contradictoirement à l'égard de ces parties, lesquelles ne peuvent faire opposition aux décisions et actes antérieurs.
+
+**Art. 981**
+
+&lt;L 2007-05-15/62, art. 19, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt; L'expertise est inopposable à la partie appelée en intervention forcée après l'envoi de l'avis provisoire de l'expert, sauf si cette partie renonce au moyen de l'inopposabilité.
+
+Le tiers intervenant ne peut pas exiger que des travaux déjà réalisés soient recommencés en sa présence, à moins qu'il ne justifie de son intérêt à leur égard.
+
+**Art. 982**
+
+&lt;L 2007-05-15/62, art. 20, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt; Le juge ne désigne qu'un seul expert à moins qu'il ne juge nécessaire d'en désigner plusieurs.
+
+Les experts dressent un seul rapport; ils forment un seul avis à la pluralité des voix, ils indiquent néanmoins, en cas d'avis différents, les motifs des divers avis. Le rapport est signé par tous les experts judiciaires.
+
+L'état des frais et honoraires détaillé est collectif s'il y a plusieurs experts judiciaires pour la même cause. Il indique clairement la quote-part de chacun.
+
+**Art. 983**
+
+&lt;L 2007-05-15/62, art. 21, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt; Le greffier envoie, par simple lettre, une copie du jugement définitif à l'expert.
+
+###### Sous-section 4. De l'intervention limitée des experts. &lt;inséré par L 2007-05-15/62, art. 3; En vigueur : 01-09-2007 ; voir également l'art. 34&gt;
+
+**Art. 984**
+
+&lt;L 2007-05-15/62, art. 23, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt; Si le juge ne trouve pas dans le rapport les éclaircissements suffisants, il peut ordonner soit la réalisation d'une expertise complémentaire par le même expert, soit la réalisation d'une nouvelle expertise par un autre expert.
+
+Le nouvel expert peut demander à l'expert précédemment nommé les renseignements qu'il jugera utiles.
+
+**Art. 985**
+
+[<sup>1</sup> Le juge peut entendre l'expert à l'audience. L'expert, les parties et leurs conseils sont convoqués à l'audience conformément à l'article 973, § 2, [<sup>3</sup> alinéas 3 et 4]<sup>3</sup>.
+
+L'expert peut s'aider de documents lors de l'audition. Si l'expert le juge opportun, il peut transmettre aux parties ou à leurs conseils une copie de ces documents ou les déposer au greffe préalablement à son audition. Ces documents sont, au plus tard, déposés au greffe par l'expert, immédiatement après son audition. Les documents déposés au greffe peuvent être consultés par les parties ou leurs conseils.
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+Les déclarations de l'expert sont actées dans un procès-verbal signé par le juge, par le greffier et par lui-même après lecture et observations s'il y a lieu.
+
+Le juge taxe immédiatement les frais et honoraires de l'expert au bas du procès-verbal et il en est délivré exécutoire contre la partie ou les parties qu'il désigne et dans la proportion qu'il détermine. Dans la décision finale, ces montants seront taxés comme frais de justice.
+
+A la demande de l'expert ou des parties, le juge peut entendre leurs conseillers techniques. Leur audition intervient sous les mêmes conditions que celles fixées aux alinéas 1er, 2 et 4.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 31, 106; En vigueur : 25-01-2010&gt;
+
+(2)&lt;L 2014-04-10/90, art. 7, 136; En vigueur : 01-12-2016&gt;
+
+(3)&lt;L 2017-06-08/09, art. 7, 152; En vigueur : 01-07-2017&gt;
+
+**Art. 986**
+
+&lt;L 2007-05-15/62, art. 25, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt; [<sup>1</sup> Le juge peut désigner un expert afin qu'il soit présent lors d'une mesure d'instruction qu'il a ordonnée pour fournir des explications techniques. Le juge peut également désigner un expert pour faire rapport oralement à l'audience fixée à cet effet. Le juge peut enjoindre à ces experts de produire pendant leur audition des documents utiles à la solution du litige.]<sup>1</sup>
+
+L'expert peut s'aider de documents. [<sup>1</sup> Ces documents sont déposés au greffe après l'intervention de l'expert. Les parties ou leurs conseils peuvent en prendre connaissance.]<sup>1</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>.
+
+II est dressé procès-verbal des déclarations de l'expert.
+
+Le juge taxe immédiatement les frais et honoraires de l'expert au bas du procès-verbal et il en est délivré exécutoire contre la partie ou les parties qu'il désigne et dans la proportion qu'il détermine. Dans la décision finale, ces montants seront taxés comme frais de justice.&gt;
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 32, 106; En vigueur : 25-01-2010&gt;
+
+(2)&lt;L 2014-04-10/90, art. 8, 136; En vigueur : 01-12-2016&gt;
+
+###### Sous-section 5. Des frais et honoraires des experts. &lt;inséré par L 2007-05-15/62, art. 26 En vigueur : 01-09-2007 ; voir également l'art. 34&gt;
+
+**Art. 987**
+
+[<sup>1</sup> Le juge peut fixer la provision que chaque partie est tenue de consigner au greffe ou auprès de l'établissement de crédit dont les parties ont convenu, ainsi que le délai dans lequel elle doit satisfaire à cette obligation. Le juge ne peut imposer cette obligation à la partie qui, conformément à l'article 1017, alinéa 2, ou en vertu d'un accord entre les parties conformément à l'article 1017, alinéa 1er, ne peut être condamnée aux dépens. Le Roi peut, par arrêté délibéré en Conseil des ministres, fixer les modalités de la consignation.
+
+A défaut d'exécution par la partie désignée, la partie la plus diligente peut consigner la provision.
+
+Le juge peut déterminer la partie raisonnable de la provision à libérer en vue de couvrir les frais de l'expert. L'expert assujetti à la TVA en informe le juge qui précise expressément si le montant libéré doit ou non être majoré de la TVA.
+
+Dès que la provision est consignée, la partie désignée par le juge pour le paiement en informe l'expert. La partie qui effectue le paiement remet une preuve de paiement à l'expert.
+
+A défaut d'exécution par la partie désignée, la partie la plus diligente peut informer l'expert.
+
+Le cas échéant, le greffe ou l'établissement de crédit verse la partie libérée à l'expert.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 33, 106; En vigueur : 25-01-2010&gt;
+
+**Art. 988**
+
+&lt;L 2007-05-15/62, art. 28, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt; Si l'expert considère que la provision ou que la partie libérée de celle-ci ne suffit pas, il peut demander au juge de consigner une provision supplémentaire ou d'en libérer une plus grande partie.
+
+Une autre libération est également possible pour couvrir une partie raisonnable des honoraires afférents aux travaux déjà exécutés.
+
+Le juge refuse la consignation supplémentaire ou la libération d'une plus grande partie de la provision s'il estime qu'elle n'est pas raisonnablement justifiée. II motive cette décision.
+
+**Art. 989**
+
+&lt;L 2007-05-15/62, art. 29, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt; [<sup>1</sup> Si une partie ne procède pas à la consignation dans le délai imparti, le juge peut en délivrer exécutoire à la demande de la partie la plus diligente à hauteur du montant qu'il fixe.]<sup>1</sup>
+
+Si une partie ne procède pas à la consignation dans le délai imparti, le juge peut en tirer les conclusions qu'il juge appropriées.
+
+[<sup>1</sup> Les experts peuvent, le cas échéant, suspendre ou reporter l'exécution de leur mission jusqu'à ce qu'ils soient informés de la consignation de la provision conformément à l'article 987, alinéa 4.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 35, 106; En vigueur : 25-01-2010&gt;
+
+**Art. 990**
+
+&lt;L 2007-05-15/62, art. 30, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt; L'état de frais et honoraires détaillé de l'expertise mentionne séparément :
+
+\- le tarif horaire;
+
+\- les frais de déplacement;
+
+\- les frais de séjour;
+
+\- les frais généraux;
+
+\- les montants payés à des tiers;
+
+\- l'imputation des montants libérés.
+
+Si l'expert ne dépose pas son état de frais et honoraires, les parties peuvent demander au juge de procéder à la taxation. [<sup>1</sup> En affaires pénales et les affaires qui y sont assimilées, cette requête est adressée au bureau de taxation de l'arrondissement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-03-23/18, art. 16, 178; En vigueur : 01-01-2020&gt;
+
+**Art. 991**
+
+&lt;L 2007-05-15/62, art. 31, 093; En vigueur : 01-09-2007 ; voir également l'art. 34&gt; § [<sup>1</sup> Si, dans les trente jours du dépôt de l'état détaillé au greffe, les parties n'ont pas, conformément au § 2, informé le juge qu'elles contestent le montant des honoraires, et des frais réclamés par l'expert, celui-ci est taxé par le juge au bas de la minute de l'état et il en est délivré exécutoire conformément à l'accord intervenu entre les parties ou contre la ou les parties, ainsi qu'il est prévu pour la consignation de la provision.]<sup>1</sup>
+
+§ 2. [<sup>1</sup> Si, dans le délai visé au § 1er, une ou plusieurs parties ont exprimé leur désaccord de manière motivée sur l'état des frais et honoraires, le juge ordonne la comparution des parties conformément à l'article 973, § 2, afin de procéder à la taxation de frais et honoraires.]<sup>1</sup>
+
+Le juge fixe le montant des frais et honoraires sans préjudice des dommages et intérêts éventuels.
+
+II tient surtout compte de la rigueur avec laquelle le travail a été exécuté, du respect des délais impartis et de la qualité du travail fourni. [<sup>1</sup> Il peut en outre tenir compte de la difficulté et de la durée du travail fourni, de la qualité de l'expert et de la valeur du litige.]<sup>1</sup>
+
+Le juge déclare le jugement exécutoire contre la ou les parties, ainsi qu'il est prévu pour la consignation de la provision.
+
+§ 3. Dans la décision finale, ces montants seront taxés comme frais de justice.
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 36, 106; En vigueur : 25-01-2010&gt;
+
+**Art. 991bis**
+
+&lt;inséré par L 2007-05-15/62, art. 32; En vigueur : 01-09-2007&gt; [<sup>1</sup> Après la taxation définitive, la provision est retirée par les experts à concurrence de la somme qui leur est due, le cas échéant après présentation de la taxation à l'établissement de crédit. Ensuite, le reliquat éventuel est d'office remboursé aux parties par le greffier ou par l'établissement de crédit au prorata des montants qu'ils étaient tenus de consigner et qu'ils ont effectivement consignés.]<sup>1</sup>
+
+Les experts peuvent seulement recevoir un paiement direct après que leur état de frais et honoraires a été définitivement taxé et pour autant que la provision consignée soit insuffisante.
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 37, 106; En vigueur : 25-01-2010&gt;
+
+###### Sous-section 6.
+
+&lt;Abrogé par L 2019-05-05/19, art. 69, 177; En vigueur : 29-06-2019&gt;
+
+**Art. 991ter**
+
+&lt;Abrogé par L 2019-05-05/19, art. 69, 177; En vigueur : 29-06-2019&gt;
+
+**Art. 991quater**
+
+&lt;Abrogé par L 2019-05-05/19, art. 69, 177; En vigueur : 29-06-2019&gt;
+
+**Art. 991quinquies**
+
+&lt;Abrogé par L 2019-05-05/19, art. 69, 177; En vigueur : 29-06-2019&gt;
+
+**Art. 991sexies**
+
+&lt;Abrogé par L 2019-05-05/19, art. 69, 177; En vigueur : 29-06-2019&gt;
+
+**Art. 991septies**
+
+&lt;Abrogé par L 2019-05-05/19, art. 69, 177; En vigueur : 29-06-2019&gt;
+
+**Art. 991octies**
+
+&lt;Abrogé par L 2019-05-05/19, art. 69, 177; En vigueur : 29-06-2019&gt;
+
+**Art. 991novies**
+
+&lt;Abrogé par L 2019-05-05/19, art. 69, 177; En vigueur : 29-06-2019&gt;
+
+**Art. 991decies**
+
+&lt;Abrogé par L 2019-05-05/19, art. 69, 177; En vigueur : 29-06-2019&gt;
+
+**Art. 991undecies**
+
+&lt;Abrogé par L 2019-05-05/19, art. 69, 177; En vigueur : 29-06-2019&gt;
+
+##### Section VII. \_ L'interrogatoire des parties.
+
+**Art. 992**
+
+Le juge peut, même d'office, ordonner la comparution personnelle des parties ou de l'une d'elles.
+
+**Art. 993**
+
+La décision indique les lieu, jour et heure de l'audience de la comparution.
+
+Sauf le cas prévu à l'article 1012, la comparution a lieu en chambre du conseil.
+
+**Art. 994**
+
+Lorsqu'une partie est une personne morale de droit public ou de droit prive, le jugement ou l'ordonnance désigne l'agent ou, s'il échet, les organes ou représentants légaux de cette personne morale qui devront comparaître.
+
+**Art. 995**
+
+La comparution se fera devant les juges qui l'ont ordonnée ou devant le juge désigné dans la décision.
+
+**Art. 996**
+
+La décision ordonnant la comparution personnelle de parties n'est susceptible ni d'opposition, ni d'appel.
+
+Elle est notifiée, sous pli judiciaire, aux parties par le greffier.
+
+**Art. 997**
+
+Si la partie justifie qu'elle est dans l'impossibilité de comparaître, le juge peut soit fixer une autre date pour la comparution, soit décider de se transporter pour procéder à l'audition, soit délivrer une commission rogatoire. Celle-ci peut être délivrée aussi lorsque la partie est trop éloignée.
+
+Le greffier avise les parties sous pli judiciaire.
+
+**Art. 998**
+
+La partie est entendue, tant en présence qu'en l'absence des autres parties.
+
+**Art. 999**
+
+Les avocats des parties assistent le cas échéant à la comparution, sans cependant que les déclarations des parties puissent être interrompues.
+
+**Art. 1000**
+
+La partie est entendue dans les formes prévues pour l'audition des témoins aux articles 935, 936, 938 et 939.
+
+**Art. 1001**
+
+Le juge qui tient une enquête peut, au cours de celle-ci, confronter avec les témoins la partie présente ou dont il ordonne la comparution personnelle.
+
+**Art. 1002**
+
+Dans tous les cas ou l'audition ne peut être terminée en une seule audience, le juge la continue à jour et heure certains. Le greffier convoque les parties qui n'ont pas comparu, sous pli judiciaire.
+
+(Il convoque les avocats de ces parties par simple lettre.) &lt;L 1982-04-21/40, art. 4, 012; En vigueur : 1990-06-30&gt;
+
+**Art. 1003**
+
+Les ordonnances rendues à l'occasion de la comparution personnelle des parties ne sont susceptibles ni d'opposition, ni d'appel.
+
+**Art. 1004**
+
+Les articles 945, alinéas 2 et 3, 946, 948 à 952, 953, alinéas 2 à 4, et 955 sont applicables à la comparution personnelle des parties.
+
+##### Section 7/1. - [<sup>1</sup> L'audition de mineurs]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-30/23, art. 157, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1004/1**
+
+[<sup>1</sup> § 1. [<sup>3</sup> Tout mineur a le droit d'être entendu par un juge dans les matières qui le concernent à l'exception des demandes liées aux obligations alimentaires et les demandes purement financières ou patrimoniales qui ne concernent pas directement le patrimoine du mineur. Il a le droit de refuser d'être entendu.
+
+Les frères et soeurs sont réputés concernés par les questions d'hébergement relatives à l'un ou plusieurs d'entre eux.
+
+L'audition du mineur a pour objectif de lui permettre d'adresser ses préoccupations au juge, dans le but de contribuer à la recherche de la solution la plus appropriée eu égard à son intérêt.]<sup>3</sup>
+
+§ 2. Le mineur de moins de douze ans est entendu à sa demande, à la demande des parties, du ministère public ou d'office par le juge. Le juge peut, par décision motivée par les circonstances de la cause, refuser d'entendre le mineur de moins de douze ans, sauf lorsque la demande émane de ce dernier ou du ministère public. La décision de refus n'est pas susceptible de recours.
+
+§ 3. Le mineur qui a atteint l'âge de douze ans est informé par le juge, [<sup>2</sup> ...]<sup>2</sup> de son droit à être entendu conformément à l'article 1004/2. Un formulaire de réponse est joint à cette information.
+
+[<sup>3</sup> § 3/1. Les représentants légaux du mineur de moins de douze ans sont informés par le juge que le mineur peut adresser une demande au juge afin d'être entendu.
+
+Il est précisé dans la demande si celle-ci émane du mineur lui-même ou de son parent ou ses parents.]<sup>3</sup>
+
+§ 4. [<sup>3</sup> Le juge fait droit à la demande du mineur. Toutefois, si le mineur a déjà été entendu au cours de la procédure, le juge peut ne pas accéder à la demande si aucun élément nouveau ne la justifie.
+
+Lorsque l'affaire est soumise à une chambre de règlement à l'amiable, le mineur est entendu par cette chambre s'il n'a pas déjà été entendu au préalable par la chambre de renvoi. Le paragraphe 5/3 s'applique par analogie au rapport de l'entretien.]<sup>3</sup>
+
+§ 5. [<sup>3</sup> Le juge entend le mineur en un lieu adapté à l'audition de l'enfant.]<sup>3</sup>
+
+[<sup>3</sup> § 5/1. Sans préjudice de l'article 168, alinéa 1er, et sous réserve de ce qui suit ou à moins que le juge n'y déroge par une décision motivée, l'entretien a lieu hors la présence de quiconque.
+
+Le mineur a le droit d'être assisté de la personne de confiance majeure de son choix lors de l'audition.
+
+La personne de confiance ne peut être ni une partie à la procédure, ni un parent au deuxième degré par rapport à une partie à la procédure, à l'exception des frères et soeurs du mineur dont la filiation est établie à l'égard des mêmes parents.
+
+A tout moment, le juge peut décider de poursuivre l'entretien sans la présence de la personne de confiance ou de toute autre personne dont il aurait autorisé la présence. Il informe alors le mineur du contenu du présent alinéa de manière adaptée compte tenu de l'âge et de la maturité de l'enfant. Si le mineur n'est pas d'accord, le juge peut mettre fin à l'entretien. Dans ce cas, le juge mentionne dans le rapport les raisons pour lesquelles l'entretien ne pouvait pas être poursuivi en présence des personnes concernées.
+
+§ 5/2. Au début de l'audition, le juge:
+
+1° rappelle l'objectif de l'audition visé au paragraphe 1er, alinéa 3;
+
+2° explique au mineur qu'il n'a pas la responsabilité de trancher le litige;
+
+3° rappelle au mineur que ses demandes ne seront pas nécessairement suivies;
+
+4° informe le mineur qu'il a le droit de préciser que tout ou partie des informations qu'il donne sont confidentielles. Les informations confidentielles ne figureront pas dans le rapport mais pourront être transmises au ministère public.
+
+Le juge donne les explications visées à l'alinéa 1er de manière adaptée compte tenu de l'âge et de la maturité de l'enfant.
+
+§ 5/3. Le rapport de l'entretien est joint au dossier de la procédure. Il relate les dires du mineur, hormis les éléments qualifiés de confidentiels par le mineur. Le mineur est informé que les parties pourront prendre connaissance du rapport. Le juge informe le mineur du contenu du rapport et vérifie si le rapport exprime correctement les opinions du mineur.
+
+Le rapport n'est pas signé par le mineur. Si, au cours de l'entretien, le juge estime que le mineur n'a pas le discernement nécessaire, il l'indique dans le rapport.
+
+Hormis le rapport d'entretien, ni le mineur entendu ni son représentant légal n'ont accès au dossier, à moins qu'ils ne soient parties à la procédure.]<sup>3</sup>
+
+§ 6. L'entretien avec le mineur ne lui confère pas la qualité de partie à la procédure.
+
+Les opinions du mineur sont prises en considération compte tenu de son âge et de son degré de maturité [<sup>3</sup> , ainsi que de l'influence éventuelle exercée sur lui]<sup>3</sup>.]<sup>1</sup>
+
+[<sup>3</sup> § 7. La décision judiciaire prise dans l'affaire pour laquelle le mineur a été entendu lui est présentée et expliquée par son entourage en tenant compte de son degré de maturité.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-30/23, art. 158, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2014-05-08/02, art. 70, 132; En vigueur : 01-09-2014&gt;
+
+(3)&lt;L 2024-03-28/60, art. 96, 203; En vigueur : 08-04-2024&gt;
+
+**Art. 1004/2**
+
+[<sup>1</sup> Le Roi établit le modèle de formulaire d'information au mineur.
+
+Le formulaire mentionne le droit d'être entendu par le juge, la manière dont l'entretien se déroule, ainsi que la manière d'accepter ou refuser l'entretien. [<sup>3</sup> Il y est indiqué qu'un courrier du mineur ne remplace pas un entretien avec le juge. L'objectif de l'entretien, visé à l'article 1004/1, § 1er, alinéa 3, y est spécifié.]<sup>3</sup> Il mentionne également que le rapport de l'entretien est joint au dossier de la procédure, que les parties peuvent en prendre connaissance et que le contenu de ce rapport peut être utilisé au cours de ladite procédure.
+
+Le formulaire précise en outre que, lorsqu'il entend le mineur, le juge n'est pas tenu de se conformer aux demandes formulées par celui-ci.
+
+Le formulaire est envoyé, le cas échéant, à l'adresse de chacun des parents [<sup>2</sup> , à l'adresse où réside l'enfant s'il est placé ou au domicile de l'enfant s'il n'est pas domicilié chez un de ses parents]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-30/23, art. 159, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2014-05-08/02, art. 71, 132; En vigueur : 01-09-2014&gt;
+
+(3)&lt;L 2024-03-28/60, art. 97, 203; En vigueur : 08-04-2024&gt;
+
+**Art. 1004/3**
+
+[<sup>1</sup> Le juge donne suite aux correspondances émanant du mineur visé à l'article 1004/1 et y répond d'une manière appropriée compte tenu de l'âge et de la maturité de l'enfant et ce tant qu'il n'a pas pris une décision définitive sur le point litigieux sur lequel le mineur a été entendu.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-28/60, art. 98, 203; En vigueur : 08-04-2024&gt;
+
+##### Section VIII\_ Le serment.
+
+**Art. 1005**
+
+Tout jugement qui ordonne un serment énonce les faits sur lesquels il sera reçu.
+
+**Art. 1006**
+
+Le serment est prêté par la partie en personne et à l'audience. En cas d'empêchement légitime et dûment constaté, le serment peut être prêté devant un juge commis, qui se rend chez la partie, assisté du greffier.
+
+Si la partie à laquelle le serment est déféré est trop éloignée, le tribunal peut ordonner qu'elle prêtera le serment devant le tribunal du lieu de son domicile.
+
+Dans tous les cas le serment est prêté en présence de l'autre partie, ou celle-ci dûment appelée par le greffier, sous pli judiciaire.
+
+##### Section IX\_ La descente sur les lieux.
+
+**Art. 1007**
+
+Le juge peut, même d'office, ordonner une descente sur les lieux.
+
+**Art. 1008**
+
+La décision indique les lieu, jour et heure de la descente. Elle n'est susceptible ni d'opposition, ni d'appel.
+
+Elle est notifiée sous pli judiciaire aux parties, par le greffier.
+
+**Art. 1009**
+
+La descente est opérée par les juges qui l'ont ordonnée ou par le juge qui sera désigné dans la décision. Une commission rogatoire peut également être délivrée.
+
+**Art. 1010**
+
+La visite des lieux s'effectue tant en présence qu'en l'absence des parties.
+
+Dans tous les cas ou la visite des lieux est remise ou poursuivie à une date ultérieure, le greffier convoque sous pli judiciaire les parties qui n'ont pas comparu.
+
+**Art. 1011**
+
+Le juge qui tient une enquête peut, s'il y échet, entendre les témoins ou certains d'entre eux au cours d'une descente sur les lieux.
+
+**Art. 1012**
+
+La comparution personnelle des parties lors d'une descente sur les lieux peut être ordonnée par le juge.
+
+**Art. 1013**
+
+Les ordonnances rendues à l'occasion de la descente sur les lieux ne sont susceptibles ni d'opposition ni d'appel.
+
+**Art. 1014**
+
+Les articles 945, alinéas 2 et 3, et 946 sont applicables à la descente sur les lieux.
+
+**Art. 1015**
+
+Il est établi un procès-verbal relatant les opérations accomplies et les constatations faites au cours de la visite des lieux. Ce procès-verbal est, pour le surplus, dresse et notifié aux parties dans la forme prévue aux articles 949 à 951.
+
+**Art. 1016**
+
+La partie demanderesse consigne au greffe une provision suffisante pour couvrir les frais de transport, déterminés conformément au tarif arrêté par le Roi.
+
+##### Section X. &lt;insérée par L 1987-05-20/33, art. 3, 008; En vigueur : 22-06-1987&gt; - Du constat d'adultère par huissier de justice.
+
+**Art. 1016bis**
+
+&lt;L 1987-05-20/33, art. 3, 008; En vigueur : 22-06-1987&gt; La preuve de l'adultère (...) peut être faite par constat d'huissier de justice. &lt;L 2007-04-27/00, art. 20, 087; En vigueur : 01-09-2007&gt;
+
+A cet effet, l'époux s'adresse par requête, signée par lui ou par son avocat, [<sup>1</sup> au tribunal de la famille]<sup>1</sup>.
+
+Sans préjudice de ce qui est prévu à l'article 1026, la requête contient tous les renseignements utiles et, à peine de nullité, l'indication du ou des lieux où pourront être faites les constatations qui révèlent l'adultère. Un extrait de l'acte de mariage du requérant et, éventuellement, toutes pièces justifiant la demande sont joints à la requête.
+
+Le [<sup>2</sup> tribunal de la famille]<sup>2</sup> peut désigner un huissier de justice et lui permettre de pénétrer, accompagné d'un officier ou d'un agent de police judiciaire, dans un ou plusieurs lieux déterminés pour y procéder aux constatations nécessaires révélant l'adultère.
+
+S'il apparaît que les constatations qui révèlent l'adultère pourraient également être faites hors de l'arrondissement judiciaire, il peut demander [<sup>1</sup> au tribunal de la famille]<sup>1</sup> du lieu où ces constatations doivent être faites de donner l'autorisation nécessaire.
+
+L'assistance de l'officier ou de l'agent de police judiciaire se fait sans frais.
+
+Dans son ordonnance, le [<sup>2</sup> tribunal]<sup>2</sup> fixe le ou les lieux, ainsi que la période durant laquelle les constatations peuvent être faites.
+
+Aucun constat ne peut avoir lieu entre 21 heures et 5 heures.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 160, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2014-05-08/02, art. 72, 132; En vigueur : 01-09-2014&gt;
+
+### TITRE IV\_ Des frais et dépens.
+
+**Art. 1017**
+
+&lt;L 24-6-1970, art. 15&gt; Tout jugement définitif prononce, même d'office, la condamnation aux dépens contre la partie qui a succombé, à moins que des lois particulières n'en disposent autrement et sans préjudice de l'accord des parties que, le cas échéant, le jugement décrète. [<sup>1</sup> Toutefois, les frais inutiles, y compris l'indemnité de procédure visée à l'article 1022, sont mis à charge, même d'office, de la partie qui les a causés fautivement.]<sup>1</sup>
+
+[<sup>2</sup> La condamnation aux dépens est toutefois toujours prononcée, sauf en cas de demande téméraire ou vexatoire, à charge de l'autorité ou de l'organisme tenu d'appliquer les lois et règlements :
+
+1° visés aux articles 579, 6°, [<sup>3</sup> 579, 7°,]<sup>3</sup> 580, 581 et 582, 1° et 2°, en ce qui concerne les demandes introduites par ou contre les assurés sociaux personnellement;
+
+2° relatifs à la sécurité sociale du personnel statutaire de la fonction publique qui sont analogues aux lois et règlements relatifs à la sécurité sociale des travailleurs salariés visés au 1°, en ce qui concerne les demandes introduites par ou contre les assurés sociaux personnellement.]<sup>2</sup>
+
+Par assurés sociaux, il faut entendre : les assurés sociaux au sens de l'article 2, 7°, de la loi du 11 avril 1995 visant à instituer la "Charte" de l'assuré social.) &lt;L 2006-12-13/35, art. 129, 081; En vigueur : 01-01-2007&gt;
+
+Les dépens peuvent être compensés dans la mesure appréciée par le juge, soit si les parties succombent respectivement sur quelque chef, soit entre conjoints, [<sup>2</sup> cohabitants légaux ou de fait,]<sup>2</sup> ascendants, frères et soeurs ou alliés au même degré.
+
+(Alinéa 4 abrogé) &lt;L 2005-02-21/36, art. 23, 071; En vigueur : 30-09-2005&gt;
+
+Tout jugement d'instruction réserve les dépens.
+
+----------
+
+(1)&lt;L 2016-12-25/14, art. 81, 148; En vigueur : 01-01-2017&gt;
+
+(2)&lt;L 2018-03-18/14, art. 23, 164; En vigueur : 12-05-2018&gt;
+
+(3)&lt;AR 22 2020-06-04/12, art. 26, 179; En vigueur : 11-03-2020&gt;
+
+**Art. 1018**
+
+Les dépens comprennent :
+
+1° (les droits divers, de greffe et d'enregistrement, ainsi que les droits de timbre qui ont été payés avant l'abrogation du Code des droits de timbre); &lt;L 2006-12-19/33, art. 67, 083 ; En vigueur : 01-01-2007&gt;
+
+2° le coût et les émoluments et salaires des actes judiciaires;
+
+3° le coût de l'expédition du jugement;
+
+4° les frais de toutes mesures d'instruction, notamment la taxe des témoins et des experts;
+
+5° les frais de déplacement et de séjour des magistrats, des greffiers et des parties, lorsque leur déplacement a été ordonné par le juge, et les frais d'actes, lorsqu'ils ont été faits dans la seule vue du procès;
+
+6° (l'indemnité de procédure visée à l'article 1022;) &lt;L 2007-04-21/85, art. 5, 086; En vigueur : 01-01-2008 ; voir également l'art. 13&gt;
+
+7° (les honoraires, les émoluments et les frais du médiateur désigné conformément à l'article 1734;) &lt;L 2005-02-21/36, art. 7, 071; En vigueur : 30-09-2005&gt;
+
+[<sup>1</sup> 8° la contribution visée à l'article 4, § 2, de la loi du 19 mars 2017 instituant un fonds budgétaire relatif à l'aide juridique de deuxième ligne.]<sup>1</sup>
+
+(La conversion en (euros) des sommes servant de base de calcul des dépens vises à l'alinéa 1er s'opère le jour où est prononcé le jugement ou l'arrêt de condamnation aux dépens.) &lt;L 1991-07-12/30, art. 2, 015; En vigueur : 19-08-1991&gt; &lt;AR 2000-07-20/58, art. 3, 051; En vigueur : 01-01-2002&gt;
+
+----------
+
+(1)&lt;L 2017-03-19/06, art. 7, 149; En vigueur : 01-05-2017&gt;
+
+**Art. 1019**
+
+Les droits d'enregistrement qui entrent dans les dépens comprennent : le droit fixe général, les droits fixes spécifiques et les droits dus sur les jugements portant condamnation, liquidation ou collocation de sommes ou valeurs mobilières.
+
+**Art. 1020**
+
+La condamnation aux dépens se divise de plein droit par tête, à moins que le jugement n'en ait disposé autrement.
+
+Elle est prononcée solidairement, si la condamnation principale emporte elle-même solidarité.
+
+**Art. 1021**
+
+&lt;L 4-7-1972, art. unique&gt; Les parties peuvent déposer un relevé détaille de leurs dépens respectifs, y compris (l'indemnité de procédure telle que prévue) à l'article 1022. En ce cas, le jugement contient la liquidation de ces dépens. &lt;L 2007-04-21/85, art. 6, 086; 01-01-2008 ; voir également l'art. 13&gt;
+
+Lorsque les dépens n'ont pas été liquidés dans le jugement, ou ne l'ont été que partiellement, ceux sur lesquels il n'a pas été statué sont réputés réservés. En ce cas, cette liquidation a lieu, à la demande de la partie la plus diligente, par le juge qui a statué, pour autant que sa décision n'ait pas été entreprise; la procédure est reprise et poursuivie conformément aux articles 750 et suivants.
+
+**Art. 1022**
+
+&lt;L 2007-04-21/85, art. 7, 086; En vigueur : 01-01-2008 ; voir également l'art. 13&gt; [<sup>3</sup> Sans préjudice de l'alinéa 6, deuxième phrase, l'indemnité de procédure]<sup>3</sup> est une intervention forfaitaire dans les frais et honoraires d'avocat de la partie ayant obtenu gain de cause.
+
+Après avoir pris l'avis de l'Ordre des barreaux francophones et germanophone et de l'Orde van Vlaamse Balies, le Roi établit par arrêté délibéré en Conseil des ministres, les montants de base, minima et maxima de l'indemnité de procédure, en fonction notamment de la nature de l'affaire et de l'importance du litige.
+
+(A la demande d'une des parties, éventuellement formulée sur interpellation par le juge, celui-ci peut, par décision spécialement motivée,) soit réduire l'indemnité soit l'augmenter, sans pour autant dépasser les montants maxima et minima prévus par le Roi. Dans son appréciation, le juge tient compte : &lt;L 2008-12-22/39, art. 2, 101; En vigueur : 22-01-2009&gt;
+
+\- de la capacité financière de la partie succombante, pour diminuer le montant de l'indemnité;
+
+\- de la complexité de l'affaire;
+
+\- des indemnités contractuelles convenues pour la partie qui obtient gain de cause;
+
+\- du caractère manifestement déraisonnable de la situation.
+
+Si la partie succombante bénéficie de l'aide juridique de deuxième ligne, l'indemnité de procédure est fixée au minimum établi par le Roi, sauf en cas de situation manifestement déraisonnable. [<sup>1</sup> Sur ce point, le juge motive spécialement sa décision de réduction]<sup>1</sup> [<sup>3</sup> , ou d'augmentation]<sup>3</sup>.
+
+[<sup>1</sup> Lorsque, dans un même lien d'instance, plusieurs parties bénéficient de l'indemnité de procédure à charge d'une ou de plusieurs parties succombantes, ce montant est au maximum le double de l'indemnité de procédure maximale à laquelle peut prétendre le bénéficiaire qui est fondé à réclamer l'indemnité la plus élevée. Elle est répartie entre les parties par le juge.]<sup>1</sup>
+
+Aucune partie ne peut être tenue au paiement d'une indemnité pour l'intervention de l'avocat d'une autre partie au-delà du montant de l'indemnité de procédure [<sup>3</sup> déterminée conformément à l'alinéa 2]<sup>3</sup>. [<sup>3</sup> Par dérogation à l'alinéa 3, lorsque la procédure est utilisée à des fins manifestement dilatoires ou abusives, tel que visé à l'article 780bis, le juge augmente le montant de l'indemnité de procédure due par la partie qui a mené la procédure de manière abusive, le cas échéant, au-delà du montant maxima, afin de couvrir l'intégralité des frais et honoraires d'avocats de l'autre partie, à moins qu'ils ne soient excessifs.]<sup>3</sup>
+
+[<sup>2</sup> [<sup>1</sup> Lorsque l'instance se clôture par une décision rendue par défaut et qu'aucune partie succombante n'a jamais comparu ou lorsque toutes les parties succombantes ont comparu à l'audience d'introduction mais n'ont pas contesté la demande ou qu'elles demandent exclusivement des termes et délais, le montant de l'indemnité de procédure est celui de l'indemnité minimale.
+
+Aucune indemnité n'est due à charge de l'État lorsque l'auditorat du travail intente une action devant les juridictions du travail conformément à l'article 138bis, § 2]<sup>1</sup>]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2010-02-21/17, art. 2, 115; En vigueur : 20-04-2019. Disposition transitoire : art. 5&gt;
+
+&lt;L 2014-04-25/H2, art. 17, 133; En vigueur : 20-04-2019, le jour de l'entrée en vigueur de l'article 2 de la loi du 21 février 2010 modifiant les articles 1022 du Code judiciaire et 162bis du Code d'instruction criminelle. (NOTE : par son arrêt n° 34/2016 du 03-03-2016 (M.B. 28-04-2016, p. 28740),la Cour constitutionnelle a annulé cet article 17)&gt;
+
+(2)&lt;L 2018-03-18/14, art. 24, 133; En vigueur : 12-05-2018&gt;
+
+(3)&lt;L 2026-05-30/09, art. 5, 212; En vigueur : 22-06-2026&gt;
+
+**Art. 1023**
+
+Toute clause conventionnelle portant augmentation de la créance en raison de sa réclamation en justice est réputée non écrite.
+
+**Art. 1024**
+
+Les frais d'exécution incombent à la partie contre laquelle l'exécution est poursuivie.
+
+### TITRE V\_ Introduction et instruction de la demande sur requête unilatérale.
+
+**Art. 1025**
+
+Sauf dans les cas ou il y est formellement dérogé par la loi les procédures sur requête sont réglées ainsi qu'il est dit au présent titre.
+
+**Art. 1026**
+
+La requête contient à peine de nullité:
+
+1° l'indication des jour, mois et an;
+
+2° les nom, prénom [<sup>2</sup> ...]<sup>2</sup> et domicile du requérant, ainsi que, le cas échéant, [<sup>1</sup> son numéro de registre national [<sup>3</sup> , numéro d'identification dans le registre bis]<sup>3</sup> ou numéro d'entreprise et]<sup>1</sup> les nom, prénom, domicile et qualité de ses représentants légaux;
+
+3° l'objet et l'indication sommaire des motifs de la demande;
+
+4° la désignation du juge qui doit en connaître;
+
+5° sauf lorsque la loi en dispose autrement, la signature de l'avocat de la partie.
+
+----------
+
+(1)&lt;L 2018-10-14/18, art. 16, 173; En vigueur : 01-02-2019&gt;
+
+(2)&lt;L 2018-12-21/09, art. 130, 174; En vigueur : 10-01-2019&gt;
+
+(3)&lt;L 2023-12-19/08, art. 17, 202; En vigueur : 08-01-2024&gt;
+
+**Art. 1027**
+
+La requête est adressée en double exemplaire au juge appelé à statuer sur la demande. Sauf les exceptions expressément prévues par la loi, elle ne peut être présentée que par un avocat.
+
+Elle est déposée au greffe, visée à sa date par le greffier, inscrite dans le registre des requêtes et versée au dossier de la procédure. Elle peut aussi être adressée sous pli par l'avocat au greffier.
+
+Le requérant reproduit au pied de la requête l'inventaire des pièces numérotées et enliassées qu'il joint à celle-ci.
+
+**Art. 1028**
+
+Le juge vérifie la demande.
+
+Il peut à cet effet convoquer le requérant et les parties intervenantes en chambre du conseil. La convocation est adressée aux parties par le greffier sous pli judiciaire.
+
+**Art. 1029**
+
+L'ordonnance est délivrée en chambre du conseil.
+
+Elle est exécutoire par provision, nonobstant tout recours et sans caution, à moins que le juge n'en ait décidé autrement.
+
+**Art. 1030**
+
+Dans les trois jours de la prononciation, l'ordonnance est notifiée sous pli judiciaire par le greffier au requérant et aux parties intervenantes. Une copie non signée est, le cas échéant, adressée à leurs avocats par simple lettre.
+
+L'expédition de l'ordonnance peut être délivré au bas d'un exemplaire de la requête.
+
+**Art. 1031**
+
+L'appel de l'ordonnance par le requérant ou par toute partie intervenante est formé dans le mois à partir de la notification, par une requête, conforme aux dispositions de l'article 1026 et déposée au greffe de la juridiction d'appel.
+
+**Art. 1032**
+
+Le requérant ou l'intervenant peut lorsque les circonstances ont changé et sous réserve des droits acquis par des tiers, demander par requête la modification ou la rétractation de l'ordonnance au juge qu'il a rendue.
+
+**Art. 1033**
+
+Toute personne qui n'est pas intervenue à la cause, en la même qualité, peut former opposition à la décision qui préjudicie à ses droits.
+
+**Art. 1034**
+
+L'article 1125 est applicable à l'opposition formée en vertu de l'article 1033. Celle-ci doit être formée dans le mois de la signification de la décision qui aura été faite à l'opposant.
+
+### TITRE Vbis. &lt;L 1992-08-03/31, art. 40, 020; En vigueur : 01-01-1993&gt;\_ La requête contradictoire.
+
+**Art. 1034bis**
+
+&lt;Inséré par L 1992-08-03/31, art. 40, 020; En vigueur : 01-01-1993&gt; Dans les cas où il est dérogé par la loi à la règle générale prévoyant l'introduction des demandes principales au moyen d'une citation, le présent titre est applicable aux demandes introduites par une requête notifiée à la partie adverse, sauf pour les formalités et mentions régies par des dispositions légales non expressément abrogées.
+
+**Art. 1034ter**
+
+&lt;Inséré par L 1992-08-03/31, art. 40, 020; En vigueur : 01-01-1993&gt; La requête contient à peine de nullité :
+
+1° l'indication des jour, mois et an;
+
+2° les nom, prénom, [<sup>3</sup> ...]<sup>3</sup> domicile du requérant, ainsi que, le cas échéant, ses qualités [<sup>1</sup> et [<sup>2</sup> son numéro de registre national [<sup>4</sup> , numéro d'identification dans le registre bis]<sup>4</sup> ou numéro d'entreprise]<sup>2</sup>]<sup>1</sup>;
+
+3° les nom, prénom, domicile et, le cas échéant, la qualité de la personne à convoquer;
+
+4° l'objet et l'exposé sommaire des moyens de la demande;
+
+5° l'indication du juge qui est saisi de la demande;
+
+6° la signature du requérant ou de son avocat.
+
+----------
+
+(1)&lt;L 2018-04-15/14, art. 14, 163; En vigueur : 01-11-2018&gt;
+
+(2)&lt;L 2018-10-14/18, art. 17, 173; En vigueur : 01-02-2019&gt;
+
+(3)&lt;L 2018-12-21/09, art. 130, 174; En vigueur : 10-01-2019&gt;
+
+(4)&lt;L 2023-12-19/08, art. 4, 202; En vigueur : 01-01-2024&gt;
+
+**Art. 1034quater**
+
+&lt;Inséré par L 1992-08-03/31, art. 40, 020; En vigueur : 01-01-1993&gt; Il est joint à la requête, à peine de nullité, un certificat de domicile (ou un extrait du registre national des personnes physiques) visées à l'article 1034ter, 3°, sauf lorsque l'instance a déjà été introduite antérieurement au moyen d'une citation ou en cas d'élection de domicile. &lt;L 2005-12-13/35, art. 6, 1°, 074; En vigueur : 01-09-2007&gt;
+
+Le certificat (ou l'extrait du registre national) ne peut porter une date antérieure de plus de quinze jours à celle de la requête. Ce certificat est délivré par l'administration communale. &lt;L 2005-12-13/35, art. 6, 2°, 074; En vigueur : 01-09-2007&gt;
+
+**Art. 1034quinquies**
+
+&lt;Inséré par L 1992-08-03/31, art. 40, 020; En vigueur : 01-01-1993&gt; La requête, accompagnée de son annexe, est envoyée, en autant d'exemplaires qu'il y a de parties en cause, par lettre recommandée au greffier de la juridiction ou déposée au greffe.
+
+**Art. 1034sexies**
+
+&lt;Inséré par L 1992-08-03/31, art. 40, 020; En vigueur : 01-01-1993&gt; [<sup>1</sup> ...]<sup>1</sup> les parties sont convoquées par le greffier sous pli judiciaire, à comparaître à l'audience fixée par le juge. Une copie de la requête est jointe à la convocation.
+
+----------
+
+(1)&lt;L 2018-10-14/18, art. 18, 173; En vigueur : 01-02-2019&gt;
+
+### TITRE VI\_ Introduction et instruction de la demande en référé.
+
+**Art. 1035**
+
+La demande en référé est portée à l'audience tenue par le président du tribunal ou par le juge qui le remplace, aux jour et heure indiqués par le règlement du tribunal.
+
+Le délai de citation est au moins de deux jours. Lorsque le défendeur n'a en Belgique ni domicile, ni résidence, ni domicile élu, le délai de citation est augmenté conformément à l'article 55.
+
+**Art. 1036**
+
+Si néanmoins le cas requiert célérité, le président peut permettre par ordonnance de citer à l'audience soit à son hôtel, à l'heure indiquée, même les jours de fête et de jour à jour ou d'heure à heure.
+
+**Art. 1037**
+
+[<sup>1</sup> En affaires de navigation]<sup>1</sup>, la citation en référé peut être donnée de jour à jour, ou d'heure à heure, sans ordonnance, et le défaut peut être jugé sur-le-champ.
+
+[<sup>1</sup> L'assignation en référé contient le choix du lieu d'habitation de tous les demandeurs en Belgique. Le juge peut surseoir à statuer si les demandeurs n'ont pas fait le choix du domicile jusqu'à ce que le choix du domicile soit fait.
+
+Le jugement ou l'appel contre l'ordonnance en référé peut être assigné au lieu d'habitation choisi. Le premier alinéa est d'application par analogie sur le jugement et l'appel contre l'ordonnance en référé.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-08/14, art. 55, 182; En vigueur : 01-09-2020&gt;
+
+**Art. 1038**
+
+Lorsque le président autorise une mesure d'instruction, celle-ci a lieu selon les règles ordinaires, sauf le droit pour le président, en cas de nécessite, d'abroger tous délais de procédure.
+
+**Art. 1039**
+
+Les ordonnances sur référé ne portent préjudice au principal. Elles sont exécutoires par provision, nonobstant opposition ou appel, et sans caution, si le juge n'a pas ordonné qu'il en serait fourni une.
+
+(abrogé) &lt;L 15-7-1970, art. 37&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+(abrogé) &lt;L 15-7-1970, art. 37&gt;
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 142, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 1040**
+
+L'article 1035 est applicable aux délais de comparution devant la cour d'appel et devant la cour du travail.
+
+Si néanmoins le cas requiert célérité, le premier président peut permettre par ordonnance de citer à l'audience dans le délai qu'il indiquera.
+
+(L'appel est jugé conformément à l'article 1066.) &lt;L 1992-08-03/31, art. 41, 020; En vigueur : 01-01-1993&gt;
+
+**Art. 1041**
+
+Les minutes des ordonnances et des arrêts sur référé sont déposées au greffe.
+
+Dans les cas d'absolue nécessité, le juge des référés ou la cour peuvent ordonner l'exécution de l'ordonnance ou de l'arrêt sur la minute.
+
+## LIVRE III. \_ DES VOIES DE RECOURS.
+
+### TITRE PREMIER. \_ Dispositions générales.
+
+**Art. 1042**
+
+Pour autant qu'il y n'y soit pas déroge par les dispositions du présent livre, les règles relatives à l'instance sont applicables aux voies de recours.
+
+**Art. 1043**
+
+Les parties peuvent demander au juge d'acter l'accord qu'elles ont conclu sur la solution du litige dont il est régulièrement saisi.
+
+Ce jugement n'est susceptible d'aucun recours de la part des parties litigantes, à moins que l'accord n'ait point été légalement formé et sauf les voies d'interprétation et de rectification prévues aux articles 793 à [<sup>1</sup> 801/1]<sup>1</sup>, s'il y a lieu.
+
+----------
+
+(1)&lt;L 2013-10-24/52, art. 14, 122; En vigueur : 03-02-2014&gt;
+
+**Art. 1044**
+
+L'acquiescement à une décision est la renonciation par une partie à l'exercice des voies de recours dont elle pourrait user ou qu'elle a déjà formées contre toutes ou certaines des dispositions de cette décision.
+
+L'acquiescement, lorsqu'il est conditionnel, ne produit d'effets que s'il est accepté par la partie adverse.
+
+**Art. 1045**
+
+L'acquiescement peut être exprès ou tacite.
+
+L'acquiescement exprès est fait par un simple acte signé de la partie ou de son mandataire nanti d'un pouvoir spécial.
+
+L'acquiescement tacite ne peut être déduit que d'actes ou de faits précis et concordants qui révèlent l'intention certaine de la partie de donner son adhésion à la décision.
+
+**Art. 1046**
+
+Les décisions ou mesures d'ordre telles que les fixations de cause, les remises, les omissions de rôle et les radiations, ainsi que les jugements ordonnant une comparution personnelle des parties ne sont susceptibles ni d'opposition, ni d'appel.
+
+### TITRE II\_ De l'opposition.
+
+**Art. 1047**
+
+[<sup>1</sup> Tout jugement par défaut rendu en dernier ressort]<sup>1</sup> peut être frappé d'opposition, sauf les exceptions prévues par la loi.
+
+L'opposition est signifiée par exploit d'huissier de justice contenant citation à comparaître devant le juge qui a rendu le jugement par défaut.
+
+De l'accord des parties, leur comparution volontaire peut tenir lieu de l'accomplissement de ces formalités.
+
+L'acte d'opposition contient, à peine de nullité, les moyens de l'opposant.
+
+(L'opposition peut être inscrite par la partie, son conseil ou l'huissier de justice qui instrumente pour la partie, dans un registre tenu à cet effet au greffe de la juridiction qui a rendu la décision. L'inscription énonce le nom des parties, de leurs conseils et les dates de la décision et de l'opposition) &lt;L 24-6-1970, art. 16&gt;
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 143, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 1048**
+
+([<sup>1</sup> Sous réserve des délais prévus dans des dispositions impératives supranationales et internationales, le délai d'opposition]<sup>1</sup> est d'un mois, à partir de la signification du jugement ou de la notification de celui-ci faite conformément à l'article 792, alinéa 2 et 3.) &lt;L 1993-01-12/34, art. 21, 021; En vigueur : 1993-03-01&gt;
+
+Lorsque le défaillant n'a en Belgique ni domicile, ni résidence, ni domicile élu, le délai d'opposition est augmenté conformément à l'article 55.
+
+----------
+
+(1)&lt;L 2014-05-12/02, art. 8, 127; En vigueur : 29-05-2014&gt;
+
+**Art. 1049**
+
+La partie opposante qui se laisse juger une seconde fois par défaut n'est plus admise à formuler une nouvelle opposition.
+
+### TITRE III. \_ De l'appel.
+
+#### CHAPITRE IER. \_ Dispositions générales.
+
+**Art. 1050**
+
+[<sup>1</sup> En toutes matières, l'appel peut être formé dès la prononciation du jugement, même si celui-ci a été rendu par défaut.
+
+Contre une décision rendue sur la compétence ou, sauf si le juge [<sup>2</sup> , d'office ou à la demande d'une des parties,]<sup>2</sup> en décide autrement, une décision avant dire droit, un appel ne peut être formé qu'avec l'appel contre le jugement définitif.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2015-10-19/01, art. 31, 141; En vigueur : 01-11-2015&gt;
+
+(2)&lt;L 2017-07-06/24, art. 144, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 1051**
+
+([<sup>1</sup> Sous réserve des délais prévus dans des dispositions impératives supranationales et internationales, le délai pour interjeter appel]<sup>1</sup> est d'un mois à partir de la signification du jugement ou de la notification de celui-ci faite conformément à l'article 792, alinéa 2 et 3.) &lt;L 1993-01-12/34, art. 22, 1°, 021; En vigueur : 1993-03-01&gt;
+
+Ce délai court également du jour de cette signification, à l'égard de la partie qui a fait signifier le jugement.
+
+[<sup>2</sup> Toutefois, lorsque l'appel n'est dirigé que contre certaines parties, celles-ci disposent d'un nouveau délai de même durée pour interjeter appel contre les autres parties. Ce nouveau délai court du jour de la signification ou, selon le cas, de la notification du premier acte d'appel.]<sup>2</sup>
+
+Lorsqu'une des parties à qui le jugement est signifié ou à la requête de laquelle il a été signifié n'a en Belgique ni domicile, ni résidence, ni domicile élu, le délai d'appel est augmenté conformément à l'article 55.
+
+(Il en va de même lorsqu'une des parties à qui le jugement est notifié conformément à l'article 792, alinéas 2 et 3, n'a en Belgique, ni domicile, ni résidence, ni domicile élu.) &lt;L 1993-01-12/34, art. 22, 2°, 021; En vigueur : 1993-03-01&gt;
+
+----------
+
+(1)&lt;L 2014-05-12/02, art. 9, 127; En vigueur : 29-05-2014&gt;
+
+(2)&lt;L 2018-05-25/02, art. 41, 165; En vigueur : 09-06-2018&gt;
+
+**Art. 1052**
+
+Sans préjudice du droit d'action du ministère public, tel qu'il est réglé par le présent Code ou par les lois particulières, le procureur général et l'auditeur du travail peuvent en tout cas interjeter appel des décisions rendues par les tribunaux du travail, dans les matières prévues aux articles 578, 7° , 580, 581, (582, 1° et 2°, et 583). &lt;L 30-6-1971, art. 27&gt;
+
+A l'égard du ministère public le délai court dès la prononciation du jugement.
+
+La notification du jugement sera faite au ministère public, par le greffier, dans la huitaine de la prononciation, sans cependant qu'il résulte de l'inaccomplissement de cette formalité, une modification du délai de l'appel.
+
+**Art. 1053**
+
+Lorsque le litige est indivisible, l'appel doit être dirigé contre toutes les parties dont l'intérêt est opposé à celui de l'appelant.
+
+Ce dernier doit, en outre, [<sup>1</sup> ...]<sup>1</sup> au plus tard avant la clôture des débats, mettre en cause les autres parties non appelantes ni déjà intimées ou appelées.
+
+En cas d'inobservation des règles énoncées au présent article, l'appel ne sera pas admis.
+
+La décision est opposable à toutes les parties en cause.
+
+----------
+
+(1)&lt;L 2018-05-25/02, art. 42, 165; En vigueur : 09-06-2018&gt;
+
+**Art. 1054**
+
+La partie intimée peut former incidemment appel [<sup>1</sup> ...]<sup>1</sup>, contre toutes parties en cause devant le juge d'appel, même si elle a signifié le jugement sans réserve ou si elle y a acquiescé avant sa signification.
+
+[<sup>1</sup> L'appel incident ne peut être admis que s'il est formé dans les premières conclusions prises par l'intimé après l'appel principal ou incident formé contre lui.]<sup>1</sup>
+
+Toutefois, l'appel incident ne pourra être admis si l'appel principal est déclaré nul ou tardif.
+
+----------
+
+(1)&lt;L 2018-05-25/02, art. 6, 165; En vigueur : 09-06-2018&gt;
+
+**Art. 1055**
+
+Même s'il a été exécuté sans réserves, tout jugement avant dire droit (ou statuant sur la compétence) peut être frappe d'appel avec le jugement définitif. &lt;L 1992-08-03/31, art. 43, 020; En vigueur : 01-01-1993&gt;
+
+**Art. 1056**
+
+L'appel est formé :
+
+1° par acte d'huissier de justice signifié à partie.
+
+(Alinéa 2 abrogé) &lt;L 1999-03-22/55, art. 2, 047; En vigueur : 05-10-1999&gt;
+
+2° par requête déposée au greffe de la juridiction d'appel en autant d'exemplaires qu'il y a de parties en cause, et notifiée par le greffier, sous pli judiciaire, à la partie intimée et, le cas échéant, à son avocat au plus tard le premier jour ouvrable qui suit le dépôt;
+
+3° (par lettre recommandée à la poste envoyée au greffe, lorsque la loi a formellement prévu ce mode de recours, ainsi que dans les matières prévues aux articles (579, 6°,) [<sup>1</sup> 579, 7°,]<sup>1</sup> 580, 2° , 3° , 6° , 7° , 8° , 9° , (10° et 11°), 581, 2° , 582, 1° et 2° , et 583;) &lt;L 30-6-1971, art. 28&gt; &lt;L 20-6-1975, art. 13&gt; &lt;L 22-12-1977, art. 166, § 5&gt; &lt;L 2006-12-27/30, art. 129, 082; En vigueur : 01-04-2007&gt;
+
+4° par conclusions à l'égard de toute partie présente ou représentée à la cause.
+
+----------
+
+(1)&lt;AR 22 2020-06-04/12, art. 27, 179; En vigueur : 11-03-2020&gt;
+
+**Art. 1057**
+
+Hormis les cas où il est formé par conclusions, l'acte d'appel contient, à peine de nullité :
+
+1° l'indication des jour, mois et an;
+
+2° les nom, prénom [<sup>3</sup> ...]<sup>3</sup> et domicile de l'appelant [<sup>1</sup> et, le cas échéant, son numéro de registre national [<sup>4</sup> , numéro d'identification dans le registre bis]<sup>4</sup> ou numéro d'entreprise]<sup>1</sup>;
+
+3° les nom, prénom et domicile ou à défaut de domicile, la résidence de l'intimé;
+
+4° la détermination de la décision dont appel;
+
+5° l'indication du juge d'appel;
+
+6° l'indication du lieu où l'intimé devra faire acter sa déclaration de comparution;
+
+7° (l'énonciation des griefs;
+
+8° l'indication des lieu, jour et heure de la comparution, à moins que l'appel n'ait été formé par lettre recommandée [<sup>2</sup> ou que, en dehors des cas visés à l'article 1066, alinéa 2, les droits de mise au rôle relatifs à la décision entreprise et mis à charge de l'appelant n'aient pas été payés, auxquels]<sup>2</sup> cas les parties sont convoquées, par le greffier, à comparaître à l'audience fixée par le juge [<sup>2</sup> , après s'être assuré du paiement des droits susmentionnés]<sup>2</sup>.) &lt;L 1992-08-03/31, art. 44, 020; En vigueur : 01-01-1993&gt;
+
+Le cas échéant l'acte d'appel contient aussi l'indication du nom de l'avocat de l'appelant.
+
+----------
+
+(1)&lt;L 2018-10-14/18, art. 19,a, 173; En vigueur : 01-02-2019&gt;
+
+(2)&lt;L 2018-10-14/18, art. 19,b-c, 173; En vigueur : 01-01-2019&gt;
+
+(3)&lt;L 2018-12-21/09, art. 130, 174; En vigueur : 10-01-2019&gt;
+
+(4)&lt;L 2023-12-19/08, art. 17, 202; En vigueur : 08-01-2024&gt;
+
+**Art. 1058**
+
+Le juge d'appel peut ordonner que l'appel soit signifié par huissier de justice à l'intimé défaillant, s'il n'a pas eu lieu en cette forme.
+
+**Art. 1059**
+
+La cause est inscrite au rôle général comme il est dit à l'article 716.
+
+Il est procédé pour le surplus comme il est dit à l'article 723.
+
+(L'appel peut être inscrit par la partie, son conseil ou l'huissier de justice qui instrumente pour la partie, dans un registre tenu à cet effet au greffe de la juridiction qui a rendu la décision. L'inscription énonce les noms des parties, de leurs conseils et les dates de la décision et de l'appel.) &lt;L 24-6-1971, art. 17&gt;
+
+(NOTE : remplacé par L 2006-07-10/39, art. 15, 079; En vigueur : 01-01-2017 (voir L 2014-12-19/24, art. 20), abrogé lui-même par l'art. 176, 9° de L 2016-12-25/14; En vigueur : 31-12-2016)
+
+**Art. 1060**
+
+[<sup>1</sup> Si la cause n'a pas été inscrite au rôle avant la date de la comparution indiquée dans l'acte, la procédure est suspendue d'office.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-05-25/02, art. 44, 165; En vigueur : 09-06-2018&gt;
+
+**Art. 1061**
+
+&lt;L 1992-08-03/31, art. 46, 020; En vigueur : 01-01-1993&gt; La déclaration de comparution de l'intimé a lieu à l'audience, sans préjudice de l'application de l'article 729.
+
+**Art. 1062**
+
+&lt;L 1992-08-03/31, art. 47, 020; En vigueur : 01-01-1993&gt; Le délai ordinaire de comparution en appel pour ceux qui ont leur domicile ou leur résidence en Belgique, est de quinze jours.
+
+Il en est de même :
+
+1° lorsque l'acte d'appel est signifié ou notifié en Belgique au domicile élu;
+
+2° lorsque la personne à qui l'acte d'appel est notifié ou à qui cet acte doit être signifié, n'a ni domicile, ni résidence connus, soit en Belgique, soit à l'étranger;
+
+3° lorsque l'acte destiné à une personne qui n'a ni domicile ni résidence en Belgique, est signifié à sa personne en Belgique.
+
+Dans les autres cas, le délai est augmenté ainsi qu'il est dit à l'article 55.
+
+**Art. 1063**
+
+(abrogé) &lt;L 1992-08-03/31, art. 48, 020; En vigueur : 01-01-1993&gt;
+
+**Art. 1064**
+
+&lt;Abrogé par L 2017-07-06/24, art. 145, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 1065**
+
+Les demandes de fixation sont formées au greffe.
+
+**Art. 1066**
+
+&lt;L 1992-08-03/31, art. 50, 020; En vigueur : 01-01-1993&gt; Les causes qui n'appellent que des débats succincts sont retenues et plaidées lors de leur introduction, sinon dans les trois mois au plus et, s'il échet, à une audience de relevée.
+
+Il en est de même, sauf accord des parties :
+
+1° en cas de recours contre toute décision présidentielle en référé ou sur requête;
+
+2° lorsque la décision entreprise contient [<sup>1</sup> exclusivement]<sup>1</sup> un avant dire droit ou une mesure provisoire;
+
+3° lorsqu'elle accorde ou refuse un délai de grâce;
+
+4° en toutes matières concernant les saisies conservatoires et les voies d'exécution;
+
+5° en matière de faillite, lorsque le jugement attaqué statue sur la déclaration de la faillite ou la date de la cessation des paiements et en matière de concordat;
+
+6° en cas de recours contre une décision exécutoire par provision sans caution, ni cantonnement [<sup>1</sup> ou dont l'exécution par provision est expressément autorisée ou refusée, les débats succincts étant limités à ces modalités particulières]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 146, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 1067**
+
+Les règles du jugement par défaut et de l'opposition sont applicables en degré d'appel.
+
+**Art. 1067bis**
+
+&lt;inséré par L 2008-12-09/39, art. 2; En vigueur : 07-02-2009&gt; Lorsqu'à l'occasion de la notification d'un arrêt, le greffier fait application de l'article 792, alinéas 2 et 3, il reproduit le texte de l'article 1080.
+
+#### CHAPITRE II\_ De l'effet dévolutif de l'appel et de l'évocation. Lorsqu'à l'occasion de la notification d'un arrêt, le greffier fait application de l'article 792, alinéas 2 et 3, il reproduit le texte de l'article 1080.
+
+**Art. 1068**
+
+Tout appel d'un jugement définitif ou avant dire droit saisit du fond du litige le juge d'appel.
+
+Celui-ci ne renvoie la cause au premier juge que s'il confirme, même partiellement, une mesure d'instruction ordonnée par le jugement entrepris.
+
+**Art. 1069**
+
+(abrogé) &lt;L 1992-08-03/31, art. 51, 020; En vigueur : 01-01-1993&gt;
+
+**Art. 1070**
+
+&lt;Abrogé par L 2018-05-25/02, art. 45, 165; En vigueur : 09-06-2018&gt;
+
+**Art. 1071**
+
+Si les parties ou l'une d'elles n'avaient pas conclu au fond, devant le premier juge ou devant le juge d'appel, celui-ci renvoie la cause à une audience ultérieure pour être conclu et statué au fond.
+
+**Art. 1072**
+
+Le juge d'appel réserve, s'il y a lieu, sa décision définitive jusqu'à ce que les mesures ordonnées avant dire droit par le premier juge ou par lui aient été accomplies.
+
+Sauf l'exception prévue à l'article 1068, alinéa 2, l'exécution de ces mesures appartient au premier juge ou au juge d'appel selon ce que celui-ci décidera.
+
+**Art. 1072bis**
+
+(abrogé) &lt;L 2007-04-26/71, art. 28, 088; En vigueur : 22-06-2007&gt;
+
+### TITRE IV- Du pourvoi en cassation.
+
+**Art. 1073**
+
+(Hormis les cas où la loi établit un délai plus court, le délai pour introduire le pourvoi en cassation est de trois mois à partir du jour de la signification de la décision attaquée ou de la notification de celle-ci faite conformément à l'article 792, alinéa 2 et 3.) &lt;L 1993-01-12/34, art. 23, 021; En vigueur : 1993-03-01&gt;
+
+Si le demandeur n'a en Belgique ni domicile, ni résidence, ni domicile élu, le délai prévu à l'alinéa premier est augmenté conformément à l'article 55.
+
+Le délai est augmenté de trois mois en faveur des personnes absentes du territoire belge et hors d'Europe pour cause de service public, et en faveur des gens de mer absents pour cause de navigation.
+
+**Art. 1074**
+
+Lorsque la personne contre laquelle le pourvoi doit être formé vient à décéder au cours du délai imparti au demandeur, ce délai est augmenté de deux mois.
+
+**Art. 1075**
+
+&lt;L 1993-01-12/34, art. 24, 021; En vigueur : 1993-03-01&gt; La requête civile suspend à l'égard de toutes les parties en cause, le délai de pourvoi en cassation, lequel ne reprend son cours qu'à partir de la signification de la décision qui a statué définitivement sur ladite requête ou du jour de la notification de cette décision faite conformément à l'article 792, alinéas 2 et 3.
+
+**Art. 1076**
+
+Le délai ne court à l'égard du défaillant qu'à compter du jour ou l'opposition contre la décision rendue par défaut n'est plus admissible.
+
+**Art. 1077**
+
+Le recours en cassation contre les jugements d'avant dire droit n'est ouvert qu'après le jugement définitif; mais l'exécution, même volontaire, de tel jugement ne peut, en aucun cas, être opposée comme fin de non-recevoir.
+
+**Art. 1078**
+
+Le pourvoi tardif est, même d'office, déclaré non admissible.
+
+**Art. 1079**
+
+Le pourvoi est introduit par la remise au greffe de la Cour de cassation d'une requête qui, le cas échéant, est préalablement signifiée à la partie contre laquelle le pourvoi est dirigé.
+
+Le pourvoi est déclaré non admissible lorsque plus de quinze jours ne sont écoulés entre celui de la signification de la requête et celui de sa remise au greffe, même si, au moment de la remise, le délai pour introduire le pourvoi n'est pas expiré.
+
+**Art. 1080**
+
+La requête, signée tant sur la copie que sur l'original par un avocat à la Cour de cassation, contient l'exposé des moyens de la partie demanderesse, ses conclusions et l'indication des dispositions légales dont la violation est invoquée: le tout à peine de nullité.
+
+**Art. 1081**
+
+A la requête est joint, à peine de nullité, l'exploit de signification du pourvoi lorsque celle-ci est requise.
+
+**Art. 1082**
+
+Si l'arrêt ou le jugement attaqué contient plusieurs chefs, la requête énonce l'indication précise de ceux contre lesquels le pourvoi est dirigé.
+
+(Après qu'il a été statué sur une demande en cassation, la partie qui l'a formée ne peut plus se pourvoir contre la même décision, encore qu'elle prétende avoir de nouveaux moyens, même sur des chefs non attaqués lors du premier pourvoi, (...).) &lt;L 1985-05-10/32, art. 7, 002&gt; &lt;L 1989-01-06/30, art. 127, 010; En vigueur : 17-01-1989&gt;
+
+Néanmoins, si le pourvoi formé contre une décision avant dire droit a été rejeté comme prématuré, il peut être réitéré après le jugement définitif.
+
+**Art. 1083**
+
+Lorsque deux parties forment contre la même décision un pourvoi en cassation, chacune d'elles est tenue d'observer les formalités et les délais prescrits.
+
+La cour joint d'office les deux pourvois.
+
+**Art. 1084**
+
+Lorsque le litige est indivisible, le pourvoi doit être dirigé contre toutes les parties à la décision attaquée dont l'intérêt est opposé à celui du demandeur.
+
+Ce dernier, doit, en outre, dans les délais ordinaires des pourvois, mettre en cause les autres parties qui ne sont déjà défenderesses ou appelées.
+
+En cas d'inobservation des règles énoncées au présent article, le pourvoi ne sera pas admis.
+
+L'arrêt est opposable à toutes les parties en cause.
+
+**Art. 1085**
+
+Au moment de la remise de la requête, le greffier inscrit la cause au rôle général et procède pour le surplus comme il est dit à l'article 723.
+
+(NOTE : modifié par L 2006-07-10/39, art. 15, 078; En vigueur : 01-01-2017 (voir L 2014-12-19/24, art. 20), abrogé lui-même par l'art. 176, 9° de L 2016-12-25/14; En vigueur : 31-12-2016)
+
+**Art. 1086**
+
+La procédure est écrite sauf aux parties qui en ont respecté les règles, à faire développer oralement leurs moyens à l'audience par un avocat inscrit au tableau d'un barreau.
+
+**Art. 1087**
+
+Le demandeur peut joindre à sa requête, ou produire dans les quinze jours de la signification de celle-ci, à peine de déchéance, un mémoire ampliatif, préalablement signifié à la partie défenderesse, et contenant un exposé des faits et le développement des moyens de cassation.
+
+**Art. 1088**
+
+Sans préjudice des dispositions de l'article 502, les actes par lesquels les juges et les officiers du ministère public, ainsi que les autorités disciplinaires des officiers (publics et) ministériels et du barreau auraient excédé leurs pouvoirs sont dénoncés à la Cour de cassation par son procureur général, sur les instructions du ministre de la Justice, même si le délai légal de pourvoi en cassation est écoulé et alors qu'aucune partie ne s'est pourvue. &lt;L 1999-05-04/03, art. 45, 046; En vigueur : 01-11-1999&gt;
+
+La cour annule les actes s'il y a lieu.
+
+**Art. 1089**
+
+Les décisions rendues en dernier ressort contraires aux lois ou aux formes de procéder et contre lesquelles aucune des parties ne s'est pourvue en cassation dans le délai légal sont dénoncées d'office par le procureur général à la cour de cassation.
+
+**Art. 1090**
+
+Dans les cas prévus à l'article 1089, la cour casse les décisions sans cependant que les parties puissent se prévaloir de la cassation pour se soustraire aux dispositions de la décision annulée.
+
+**Art. 1091**
+
+Le pourvoi du procureur général, soit du chef d'excès de pouvoir, soit dans l'intérêt de la loi, est introduit sous forme de réquisitoire déposé au greffe.
+
+[<sup>1</sup> Le pourvoi du chef d'excès de pouvoir est signifié aux parties intéressées, qui ont le droit d'intervenir. A peine de déchéance, cette intervention se fait par un mémoire remis au greffe de la Cour dans les deux mois de la signification.]<sup>1</sup>
+
+[<sup>1</sup> Le pourvoi en cassation dans l'intérêt de la loi n'est ni notifié ni signifié aux parties à la décision attaquée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-10/57, art. 6, 126; En vigueur : 25-05-2014&gt;
+
+**Art. 1092**
+
+[<sup>1</sup> La réponse au pourvoi en cassation se fait par la remise au greffe de la Cour de cassation d'un mémoire. Sans préjudice des règles particulières en matière fiscale, le mémoire est signé par un avocat à la Cour de cassation.
+
+Le mémoire en réponse est envoyé à l'avocat du demandeur ou au demandeur lui-même s'il n'a pas d'avocat, au plus tard le jour de son dépôt au greffe.
+
+A la requête du demandeur, la Cour écarte ce mémoire lorsqu'il a été envoyé tardivement et que ce retard a porté atteinte à l'exercice par le demandeur de son droit de défense.
+
+A peine d'irrecevabilité, le mémoire en réponse est toutefois signifié à l'avocat du demandeur ou au demandeur lui-même, s'il n'a pas d'avocat, préalablement à sa remise au greffe lorsque le mémoire en réponse oppose une fin de non-recevoir au pourvoi en cassation.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-10/57, art. 7, 126; En vigueur : 25-05-2014&gt;
+
+**Art. 1093**
+
+Le délai accordé au défendeur pour la remise au greffe de sa réponse est, à peine de [<sup>1</sup> déchéance]<sup>1</sup>, de trois mois à compter du jour de la signification de la requête introductive ou du mémoire ampliatif.
+
+Si le défendeur n'a en Belgique ni domicile, ni résidence, ni domicile élu, le délai prévu à l'alinéa premier est augmenté conformément à l'article 55.
+
+Si le demandeur en cassation n'a pas remis au greffe sa requête signifiée, le défendeur, après avoir fait signifier sa réponse dans le délai prescrit, peut introduire l'affaire en produisant la requête signifiée et conclure au rejet du pourvoi avec dépens.
+
+----------
+
+(1)&lt;L 2014-04-10/57, art. 8, 126; En vigueur : 25-05-2014&gt;
+
+**Art. 1094**
+
+[<sup>1</sup> Si le défendeur a opposé une fin de non-recevoir au pourvoi en cassation, le demandeur peut y répondre par la remise au greffe de la Cour de cassation d'un mémoire en réplique. Sans préjudice des règles particulières en matière fiscale, ce mémoire est signé par un avocat à la Cour de cassation.
+
+Le délai accordé au demandeur pour la remise au greffe de son mémoire en réplique est, à peine de déchéance, d'un mois à compter du jour de la signification du mémoire en réponse.
+
+Le mémoire en réplique est envoyé à l'avocat du défendeur ou au défendeur lui-même s'il n'a pas d'avocat, au plus tard le jour de son dépôt au greffe.
+
+A la requête du défendeur, la Cour écarte ce mémoire lorsqu'il a été envoyé tardivement et que ce retard a porté atteinte à l'exercice par le défendeur de son droit de défense.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-10/57, art. 9, 126; En vigueur : 25-05-2014&gt;
+
+**Art. 1094/0**
+
+[<sup>1</sup> Lorsque la requête introductive, le mémoire ampliatif ou le mémoire en réponse, établi sous forme dématérialisée et revêtu d'une signature électronique qualifiée, ne peut pas être signifié par voie électronique, vaut comme copie signée de celui-ci, une copie imprimée de celui-ci certifiée conforme à l'original par l'huissier de justice instrumentant.
+
+Dans le cas visé à l'alinéa 1er, la copie dématérialisée de l'exploit de signification qui est remise au greffe par voie électronique est certifiée conforme à l'original par l'huissier de justice instrumentant.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-28/60, art. 33, 203; En vigueur : 08-04-2024&gt;
+
+**Art. 1094/1**
+
+[<sup>1</sup> Dans des circonstances exceptionnelles, le premier président peut, à la demande d'une partie, quand l'intérêt général l'exige ou en cas d'absolue nécessité, décider sur conclusions écrites ou verbales du procureur général, d'abréger le délai dont dispose le défendeur pour déposer un mémoire en réponse ou celui dont dispose le demandeur pour déposer un mémoire en réplique, sans que ces délais puissent être inférieurs à quinze jours.
+
+La demande visée à l'alinéa 1er est introduite par un acte distinct joint au pourvoi en cassation ou au mémoire en réponse et signifié ou, le cas échéant, communiqué avec ceux-ci.
+
+Par dérogation à l'alinéa 2, lorsqu'une partie justifie avoir été dans l'impossibilité de joindre sa demande en abréviation de délai à son pourvoi en cassation ou à son mémoire en réponse, la demande visée à l'alinéa 1er est introduite par une requête déposée au greffe de la Cour et dont le greffier donne connaissance par pli judiciaire aux autres parties.
+
+La partie adverse dispose d'un délai de quinze jours pour formuler des observations. Ce délai prenant cours le lendemain du jour où la requête en abréviation des délais est signifiée, notifiée ou envoyée à cette partie; ces observations sont faites moyennant un écrit qu'elle envoie au premier président de la Cour et dont elle réserve copie aux autres parties.
+
+Le premier président statue sur pièces et fixe, de concert avec le ministère public, un calendrier de procédure ainsi que la date à laquelle la cause est portée à l'audience
+
+Le premier président peut entendre les parties en présence du procureur général.
+
+Le greffier notifie l'ordonnance du premier président aux parties par pli judiciaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-10/57, art. 10, 126; En vigueur : 25-05-2014&gt;
+
+**Art. 1094/2**
+
+[<sup>1</sup> Lorsque, au cours de la procédure en cassation, entre en vigueur une disposition légale qui s'applique rétroactivement au litige, la partie demanderesse peut soumettre à la Cour une requête complémentaire contenant un moyen pris de la violation de cette disposition. Cette requête est jointe à l'instance en cours.
+
+La requête est, à peine de déchéance, remise au greffe de la Cour dans les trois mois à compter de la publication de la disposition nouvelle au Moniteur belge après avoir, le cas échéant, été signifiée aux autres parties.
+
+Les articles 1079 à 1081, 1087, 1092 à 1094/1 et 1097 s'appliquent à cette requête et aux mémoires que les parties s'échangent.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-19/05, art. 42, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 1095**
+
+La cour ne peut connaître que des chefs de la décision indiqués dans la requête introductive.
+
+**Art. 1096**
+
+Aucune fin de non-recevoir déduite d'une irrégularité de représentation de la partie demanderesse ou du défaut de pouvoirs d'un organe ou d'un mandataire de celle-ci, ne peut être opposée d'office, hors le cas ou elle résulterait de la méconnaissance d'une règle d'ordre public.
+
+**Art. 1097**
+
+(Lorsque le ministère public estime devoir opposer d'office au pourvoi une fin de non-recevoir déduite de la violation d'une règle intéressant l'ordre public, il en avise par pli judiciaire, les parties qui ont comparu sans avocat et par lettre missive, les avocats [<sup>1</sup> ,au plus tard quinze jours avant l'audienc]<sup>1</sup>. Une copie de ce pli et de cette lettre missive est jointe au dossier de la procédure.) &lt;L 2000-11-14/36, art. 6, 049; En vigueur : 29-12-2000&gt;
+
+Si le ministère public opposant une fin de non-recevoir ne justifie pas avoir fait la notification prescrite, la cour ordonne celle-ci et remet l'affaire à une audience ultérieure.
+
+La cour ordonne pareillement [<sup>1</sup> , par un arrêt,]<sup>1</sup> la remise de la cause si elle entend examiner d'office une fin de non-recevoir [<sup>1</sup> au pourvoi]<sup>1</sup> [<sup>2</sup> ou si elle envisage de prononcer d'office une cassation sans renvoi visée à l'article 1109/1, alinéa 2, sans que le ministère public ait relevé cette possibilité dans des conclusions écrites]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2014-04-10/57, art. 11, 126; En vigueur : 25-05-2014&gt;
+
+(2)&lt;L 2017-07-06/24, art. 147, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 1097/1**
+
+[<sup>1</sup> L'article 1097 est applicable lorsqu'il apparaît au ministère public ou à la Cour qu'un moyen pourrait s'avérer irrecevable après substitution d'un motif de droit à celui dont il dénonce l'illégalité ou irrecevable sur la base d'un élément que le demandeur ne pouvait prévoir.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-10/57, art. 12, 126; En vigueur : 25-05-2014&gt;
+
+**Art. 1098**
+
+La requête et les mémoires portent l'inventaire des pièces qui y sont jointes, cotées et paraphées par l'avocat à la cour. Elles ne sont point signifiées; les parties peuvent en prendre connaissance au greffe.
+
+**Art. 1099**
+
+Le greffier constate la remise des requêtes et mémoires au moyen de notes marginales, qu'il signe en indiquant la date de réception.
+
+Il cote et paraphe les pièces jointes, constate leur nombre par une note signée en marge de l'inventaire et délivre récépissé au déposant, s'il en est requis.
+
+La requête introductive, les mémoires et [<sup>1</sup> , le cas échéant,]<sup>1</sup> les exploits qui constatent leur signification sont déposés au dossier de la procédure.
+
+----------
+
+(1)&lt;L 2014-04-10/57, art. 13, 126; En vigueur : 25-05-2014&gt;
+
+**Art. 1100**
+
+Outre les pièces versées au dossier de la procédure, peuvent seules être utilisées au cours de la procédure les pièces répondant aux prescriptions des articles 1097, 1098 et 1099, ainsi que les actes de désistement ou de reprise d'instance, les actes de décès lorsque celui-ci éteint l'action, les autorisations de plaider et les pièces produites à l'effet de justifier de l'admissibilité du pourvoi ou du mémoire en réponse.
+
+**Art. 1101**
+
+Si une pièce produite à l'instance est arguée de faux, on procède comme il est dit aux articles 907 à 914.
+
+**Art. 1102**
+
+Les actes de signification ne doivent pas mentionner que les copies des pièces dont la signification est faite ont été signées ou paraphées par l'avocat ou la partie.
+
+**Art. 1103**
+
+Les délais fixes aux articles 1093 et 1094 expirés, ni le changement d'état ou de qualité d'une partie, ni son décès, sauf s'il éteint l'action, ni le décès de l'avocat à la cour situé pour elle n'exercent d'influence sur le jugement du pourvoi.
+
+**Art. 1104**
+
+Lors de la transmission qui lui est faite du dossier par le greffier, le premier président désigne un magistrat du siège en qualité de rapporteur.
+
+Celui-ci, son examen terminé, dépose le dossier au greffe.
+
+**Art. 1105**
+
+Le greffier transmet le dossier au procureur général, qui se charge de l'affaire ou désigne un des avocats généraux à cette fin.
+
+Le ministère public est entendu dans toutes les causes.
+
+(Lorsque ses conclusions sont écrites, elles sont déposées au greffe pour être jointes au dossier de la procédure au plus tard le jour où le greffier notifie la date de fixation aux parties. Dans ce cas, une copie des conclusions est jointe à l'avis adressé par le greffier en application de l'article 1106, alinéa 2.) &lt;L 2000-11-14/36, art. 7, 049; En vigueur : 29-12-2000&gt;
+
+**Art. 1105bis**
+
+&lt;Inséré par L 1997-05-06/38, art. 25; En vigueur : 05-07-1997&gt; [<sup>1</sup> Lorsque la solution du pourvoi paraît s'imposer ou n'appelle pas une décision dans l'intérêt de l'unité de la jurisprudence ou du développement du droit, le premier président ou le président de la chambre peut, sur proposition du conseiller rapporteur et après avis du ministère public, soumettre la cause à une chambre restreinte de trois conseillers.]<sup>1</sup>
+
+§ 2. Cette chambre restreinte statue à l'unanimité sur le pourvoi.
+
+A défaut d'unanimité ou si l'un des magistrats qui la composent le demande, elle doit renvoyer l'examen du pourvoi à la chambre composée de cinq conseillers.
+
+----------
+
+(1)&lt;L 2014-04-10/57, art. 14, 126; En vigueur : 25-05-2014&gt;
+
+**Art. 1106**
+
+Le premier président fixe, de concert avec le ministère public, le jour ou la cause sera appelée à l'audience.
+
+L'avocat ou la partie non représentée est averti de cette fixation, par les soins du greffier, quinze jours au moins avant l'audience, sauf abréviation de ce délai par le premier président si l'urgence le commande.
+
+[<sup>1</sup>Le cas échéant, le greffier joint à cet avis de fixation les questions que la Cour ou le ministère public envisagent de poser à l'audience aux avocats, ou aux parties non représentées par un avocat, ayant déposé la requête en cassation ou un mémoire en réponse]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-10/57, art. 15, 126; En vigueur : 25-05-2014&gt;
+
+**Art. 1107**
+
+&lt;L 2000-11-14/36, art. 8, 049; En vigueur : 29-12-2000&gt; Après le rapport, le ministère public donne ses conclusions. Ensuite, les parties sont entendues. Leurs plaidoiries ne peuvent porter que sur les questions de droit proposées dans les moyens de cassation ou sur les fins de non-recevoir opposées au pourvoi ou aux moyens.
+
+Lorsque les conclusions du ministère public sont écrites, les parties peuvent, au plus tard à l'audience et exclusivement en réponse aux conclusions du ministère public, déposer une note dans laquelle elles ne peuvent soulever de nouveaux moyens.
+
+Chaque partie peut demander à l'audience que l'affaire soit remise pour répondre verbalement ou par une note à ces conclusions écrites ou verbales du ministère public. La Cour fixe le délai dans lequel cette note doit être déposée.
+
+**Art. 1108**
+
+La cour juge tant en l'absence qu'en présence des avocats et des parties.
+
+**Art. 1109**
+
+[<sup>1</sup> § 1er. L'arrêt est signé dans les huit jours du prononcé par les magistrats qui l'ont rendu et par le greffier.
+
+§ 2. Le dispositif de l'arrêt est prononcé en audience publique par le président, en présence du ministère public et avec l'assistance du greffier.
+
+Le président peut, soit d'office, soit à la demande motivée d'une partie, décider de ne pas limiter le prononcé de l'arrêt en audience publique au dispositif.
+
+L'arrêt pseudonymisé est publié via le Registre central visé à l'article 782, § 4, dans un délai raisonnable.
+
+La cour peut, par dérogation à l'alinéa 3 et par une décision motivée qui est reprise dans l'arrêt, d'office ou à la demande d'une partie, et après avoir entendu les parties, interdire la publication de l'arrêt pseudonymisé, ou décider d'omettre, dans l'arrêt pseudonymisé accessible au public, certaines parties de la motivation de cet arrêt si la publication de cet arrêt pseudonymisé ou des parties concernées de cet arrêt porte atteinte de manière disproportionnée au droit à la protection de la vie privée des parties ou d'autres personnes impliquées dans l'affaire, ou à leurs autres droits fondamentaux ou libertés fondamentales reconnus dans la Constitution et dans les instruments internationaux qui lient la Belgique. Si la cour fait usage de cette possibilité, l'arrêt est prononcé dans son intégralité, ou est mis à la disposition du public dans la salle d'audience jusqu'à la fin de l'audience.
+
+§ 3. Sans préjudice des articles 1114, alinéa 3, 1115 et 1116, dans les huit jours du prononcé de l'arrêt, le greffier en notifie une copie non signée à l'avocat à la Cour de cassation ou à l'avocat de chacune des parties et aux parties qui n'ont pas d'avocat.
+
+Cette notification est faite par voie électronique à l'adresse électronique professionnelle de l'avocat ou, s'agissant d'une partie qui n'a pas d'avocat, à l'adresse judiciaire électronique de celle-ci ou, à défaut, à la dernière adresse électronique qu'elle a fournie dans le cadre de la procédure en cassation. Si aucune adresse électronique n'est connue du greffier, ou si la notification électronique a manifestement échoué, la notification est faite par simple lettre.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-10-16/03, art. 13, 201; En vigueur : 01-04-2024&gt;
+
+**Art. 1109/1**
+
+[<sup>1</sup> Lorsque la Cour de cassation casse une décision rendue sur la compétence, elle renvoie s'il y a lieu la cause au juge compétent qu'elle désigne. La décision sur la compétence lie le juge auquel la cause est renvoyée, tous droits d'appréciation saufs sur le fond du litige.]<sup>1</sup>
+
+[<sup>2</sup> Si la Cour casse une autre décision que celle visée à l'alinéa 1er, elle peut prononcer une cassation sans renvoi, sauf s'il y a lieu de renvoyer la cause conformément à l'article 1110.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-10/57, art. 16, 126; En vigueur : 25-05-2014&gt;
+
+(2)&lt;L 2017-07-06/24, art. 148, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 1110**
+
+[<sup>2</sup> En cas de cassation, la Cour de Cassation renvoie la cause, s'il y a lieu, soit devant une juridiction souveraine du même rang que celle qui a rendu la décision cassée, soit devant la même juridiction, autrement composée.]<sup>2</sup>
+
+Celle-ci est saisie comme en matière ordinaire.
+
+Elle ne siège chambre réunies que si, pour des raisons exceptionnelles, la cour en a ainsi décidé.
+
+[<sup>2</sup> Cette juridiction se conforme à l'arrêt de la Cour de cassation sur le point de droit jugé par cette Cour. Aucun recours en cassation n'est admis contre la décision de cette juridiction, en tant que celle-ci est conforme à l'arrêt de cassation.]<sup>2</sup>
+
+[<sup>1</sup> Lorsque la cassation est prononcée dans une affaire visée à l'article 609, 2°, la section du contentieux administratif du Conseil d'Etat à qui l'affaire est renvoyée se conforme à la décision de la Cour sur le point de droit jugé par elle.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-10/57, art. 17, 126; En vigueur : 25-05-2014&gt;
+
+(2)&lt;L 2017-07-06/24, art. 149, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 1111**
+
+La cour taxe et alloue dans l'arrêt les dépens de la procédure de cassation.
+
+(La partie qui succombe en sa demande est condamnée aux dépens, sauf dans les cas prévus à l'article 1017.) &lt;L 24-6-1970, art. 20&gt;
+
+Lorsque la cassation est prononcée [<sup>1</sup> avec renvoi]<sup>1</sup>, les dépens sont réservés et il sera statué sur ceux-ci par le juge du fond.
+
+Néanmoins, en cas de cassation partielle ou si les circonstances de la cause le justifient dès ores, la cour pourra statuer sur les dépens de l'instance en cassation.
+
+[<sup>1</sup> Lorsque la cassation est prononcée sans renvoi, la Cour statue sur les dépens.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-10/57, art. 18, 126; En vigueur : 25-05-2014&gt;
+
+**Art. 1112**
+
+Le désistement de l'instance en cassation produit ses effets sans qu'il appartienne au défendeur de l'accepter.
+
+**Art. 1113**
+
+Tous arrêts de la cour sont réputés contradictoires.
+
+Néanmoins l'arrêt qui prononce la cassation peut être rétracté à la requête du défendeur défaillant qui, en raison de l'irrégularité commise dans la signification du pourvoi, n'a pas été mis à même d'y répondre.
+
+**Art. 1114**
+
+[<sup>1</sup> La requête en rétractation est introduite et signifiée aux autres parties en cause ou à leurs avocats de la manière prescrite aux articles 1079 et 1080.]<sup>1</sup>
+
+L'affaire est instruite conformément aux dispositions qui précédent.
+
+Le délai pour introduire la demande est, à peine de déchéance, de trois mois à dater de la signification de l'arrêt de cassation.
+
+----------
+
+(1)&lt;L 2014-04-10/57, art. 19, 126; En vigueur : 25-05-2014&gt;
+
+**Art. 1115**
+
+Les arrêts de cassation ne peuvent être exécutés qu'après avoir été signifiés à la partie, à peine de nullité de l'exécution.
+
+**Art. 1116**
+
+Les expéditions des arrêts de cassation sont transmises aux greffes des cours et tribunaux dont les décisions ont été cassées; elles sont enliassées par les soins du greffier suivant une série ininterrompue de numéros. Mention de l'arrêt de cassation est faite en marge des arrêts ou jugements annulés; cette mention indique le numéro donné à l'expédition classé.
+
+**Art. 1117**
+
+Lorsque le procureur général demande la cassation d'un arrêt, il fait déposer le réquisitoire au greffe.
+
+Le premier président désigne le rapporteur et on procède au surplus dans les formes ci-dessus prescrites.
+
+**Art. 1118**
+
+En matière civile, le pourvoi n'est suspensif que dans les cas prévus par la loi.
+
+**Art. 1119**
+
+&lt;Abrogé par L 2017-07-06/24, art. 150, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 1120**
+
+&lt;Abrogé par L 2017-07-06/24, art. 150, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 1121**
+
+[<sup>1</sup> Dans les cas où l'annulation ou la cassation est prononcée en vertu des articles 1088 et 1089, le procureur général près cette Cour transmet les décisions rendues au ministre de la Justice qui, chaque année, en fait rapport aux Chambres législatives.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 151, 154; En vigueur : 03-08-2017&gt;
+
+### TITRE IVbis. - [<sup>1</sup> Du pourvoi en cassation en matière disciplinaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-10/57, art. 20, 126; En vigueur : 25-05-2014&gt;
+
+**Art. 1121/1**
+
+[<sup>1</sup> [<sup>2</sup> § 1er. La Cour de cassation statue sur les pourvois en cassation contre les décisions rendues en dernier ressort par:
+
+1° les conseils d'appel de l'Ordre des avocats;
+
+2° les conseils provinciaux ou les conseils d'appel de l'Ordre des médecins;
+
+3° les conseils provinciaux ou les conseils d'appel de l'Ordre des pharmaciens;
+
+4° les conseils mixtes d'appel de l'Ordre des médecins vétérinaires;
+
+5° ...
+
+6° les conseils d'appel de l'Ordre des architectes;
+
+7° le Conseil d'enquêtes maritimes;
+
+8° la commission d'appel de l'Institut des experts-comptables et des conseils fiscaux, ainsi que par les chambres exécutives ou les chambres exécutives réunies, ou les chambres d'appel ou les chambres d'appel réunies de l'Institut professionnel des comptables et fiscalistes agréés;
+
+9° la commission d'appel de l'Institut des juristes d'entreprises;
+
+10° le Conseil fédéral d'appel des géomètres-experts;
+
+11° la commission d'appel des experts-automobiles;
+
+12° les chambres exécutives ou les chambres exécutives réunies, ou les chambres d'appel ou les chambres d'appel réunies de l'Institut professionnel des agents immobiliers;
+
+13° les chambres exécutives ou les chambres exécutives réunies, ou les chambres d'appel ou les chambres d'appel réunies instituées en vertu de la loi-cadre du 3 août 2007 relative aux professions intellectuelles prestataires de services.]<sup>2</sup>
+
+§ 2. La Cour de cassation statue sur les pourvois en cassation des décisions en matière de discipline des notaires rendues en dernier ressort par les tribunaux de première instance en application de l'article 107 de la loi du 25 ventôse an XI contenant organisation du notariat, ou les cours d'appel en application de l'article 110, § 2, de cette loi.
+
+§ 3. La Cour de cassation statue sur les pourvois en cassation des décisions en matière de discipline des huissiers de justice rendues en dernier ressort par le tribunal de première instance en application de l'article 544, ou des décisions rendues en dernier ressort par la cour d'appel en application de l'article 546, § 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-10/57, art. 21, 126; En vigueur : 25-05-2014&gt;
+
+(2)&lt;L 2016-12-07/02, art. 143, 147; En vigueur : 31-12-2016&gt;
+
+**Art. 1121/2**
+
+[<sup>1</sup> L'Ordre, l'Institut, ou à défaut, la personne morale qui en vertu de la loi veille au respect des règles professionnelles, agit dans la procédure devant la Cour de cassation tant en demandant qu'en défendant.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-10/57, art. 22, 126; En vigueur : 25-05-2014&gt;
+
+**Art. 1121/3**
+
+[<sup>1</sup> § 1er. La personne concernée, l'Ordre, l'Institut ou la personne morale qui en vertu de la loi veille au respect des règles professionnelles, peut déférer à la Cour de cassation les décisions rendues en dernier ressort par les juridictions disciplinaires visées à l'article 1121/1, §§ 1er à 3.
+
+§ 2. Le ministre qui a la Santé publique dans ses attributions peut déférer à la Cour de cassation les décisions rendues en dernier ressort par les conseils provinciaux ou les conseils d'appel visés par l'arrêté royal n° 79 du 10 novembre 1967 relatif à l'Ordre des médecins, ainsi que les décisions rendues en dernier ressort par les conseils provinciaux ou les conseils d'appel visés par l'arrêté royal n° 80 du 10 novembre 1967 relatif à l'Ordre des pharmaciens.
+
+§ 3. Le ministre des Finances peut déférer à la Cour de cassation les décisions rendues en dernier ressort par la commission d'appel visée par la loi du 22 avril 1999 relative à la discipline professionnelle des experts-comptables et des conseils fiscaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-10/57, art. 23, 126; En vigueur : 25-05-2014&gt;
+
+**Art. 1121/4**
+
+[<sup>1</sup> Le pourvoi en cassation contre des décisions préparatoires ou contre des décisions d'instruction ne peut être formé que conjointement avec le pourvoi en cassation contre la décision définitive.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-10/57, art. 24, 126; En vigueur : 25-05-2014&gt;
+
+**Art. 1121/5**
+
+[<sup>1</sup> La procédure du pourvoi en cassation en matière disciplinaire est régie par les mêmes règles qu'en matière civile, sauf les dérogations suivantes :
+
+1° le délai pour introduire le pourvoi en cassation est de deux mois à partir de la notification de la décision;
+
+2° le délai accordé au défendeur pour répondre est de deux mois. Lorsque le défendeur n'a en Belgique ni domicile, ni résidence, ni domicile élu, le délai est augmenté conformément à l'article 55;
+
+3° à moins que la sentence n'en décide autrement, le pourvoi est suspensif;
+
+4° les arrêts rendus par la Cour de cassation sont notifiés sous pli judiciaire, par le greffier de la Cour, aux parties, ainsi qu'à l'Ordre, l'Institut ou la personne morale qui en vertu de la loi veille au respect des règles professionnelles;
+
+5° après cassation, la cause est renvoyée devant la même juridiction disciplinaire, autrement composée.
+
+Cette juridiction se conforme à la décision de la Cour sur le point de droit jugé par elle.
+
+Si l'impossibilité de composer autrement la juridiction disciplinaire existe, mention en est faite dans la décision finale;
+
+6° la Cour de cassation statue sur les dépens de l'instance en cassation.
+
+Les dispositions visées aux 5° et 6° ne s'appliquent pas dans les cas visés à l'article 1121/1, §§ 2 et 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-10/57, art. 25, 126; En vigueur : 25-05-2014&gt;
+
+**Art. 1121/6**
+
+[<sup>1</sup> Il est loisible au procureur général près la Cour de cassation de se pourvoir devant cette Cour dans l'intérêt de la loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-10/57, art. 26, 126; En vigueur : 25-05-2014&gt;
+
+### TITRE V. - De la tierce opposition.
+
+**Art. 1122**
+
+Toute personne qui n'a point été dûment appelée ou n'est pas intervenue à la cause en la même qualité, peut former tierce opposition à la décision, même provisoire, qui préjudicie à ses droits et qui a été rendue par une juridiction civile, ou par une juridiction répressive en tant que celle-ci statue sur les intérêts civils.
+
+Néanmoins, le recours n'est ouvert :
+
+1° aux ayants cause universels ou à titre universel, que s'ils font reconnaître le droit propre qu'ils invoquent;
+
+2° aux ayants cause à titre particulier, qu'en cas de fraude de leur auteur ou s'ils ont acquis leur droit avant la date de la décision;
+
+3° aux créanciers, qu'en cas de fraude de leur débiteur ou s'ils peuvent invoquer une hypothèque, un privilège ou tout autre droit distinct de leur droit de créance;
+
+4° aux personnes représentées, qu'en cas de fraude de leur représentant légal, judiciaire ou conventionnel.
+
+Seule la fraude commise au cours de l'instance peut être invoquée.
+
+**Art. 1123**
+
+La tierce opposition n'est pas ouverte contre les arrêts de la Cour de cassation.
+
+**Art. 1124**
+
+Le défaut d'exercice de la tierce opposition ne prive pas le tiers des droits, actions et exceptions qui lui appartiennent.
+
+**Art. 1125**
+
+La tierce opposition est portée par citation, donnée à toutes les parties, devant le juge qui a rendu la décision attaquée.
+
+Elle peut être formée à titre incident, par conclusions écrites, devant le juge saisi de la contestation, s'il est égal ou supérieur à celui qui a rendu la décision attaquée, pour autant que toutes les parties en présence lors de celle-ci soient en cause.
+
+En cas d'inobservation des règles énoncées au présent article, la tierce opposition ne sera pas admise.
+
+**Art. 1126**
+
+Sur les conclusions des parties, le juge devant lequel la décision attaquée a été produite, peut, suivant les circonstances, passer outre ou surseoir.
+
+**Art. 1127**
+
+Le juge des saisies peut, sur citation à la requête de la partie qui a formé la tierce opposition et toutes autres parties appelées, suspendre à titre provisoire, en tout ou en partie, l'exécution de la décision attaquée.
+
+**Art. 1128**
+
+La tierce opposition se prescrit par trente ans.
+
+Néanmoins elle peut être formée tant que le droit d'exécuter le jugement n'est pas prescrit.
+
+[<sup>1</sup> N'est plus recevable après l'expiration d'un délai de six mois à compter de la publication de la décision judiciaire faite conformément à l'article 2:14, 2:15, 2:16 ou 2:17 du Code des sociétés et des associations, la tierce-opposition formée contre une décision judiciaire prononçant:
+
+1° la nullité d'une personne morale;
+
+2° la nullité d'une modification des statuts;
+
+3° la nullité d'une fusion ou d'une scission d'une société;
+
+4° la nullité d'une opération visée à l'article 12:2, 12:3, 12:4 ou 12:5 du Code des sociétés et des associations;
+
+5° la nullité d'une décision d'un organe d'une personne morale;
+
+6° la dissolution ou la clôture de la liquidation d'une personne morale prononcée en vertu des articles 2:74, 2:75, 2:81 et 2:101 du Code des sociétés et des associations;
+
+7° une cession ou un retrait en vertu des articles 2:60 à 2:69, ou se prononçant sur les conditions d'une reprise en vertu des articles 5:69 et 7:82 du Code des sociétés et des associations.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-03-23/06, art. 6, 175; En vigueur : 01-05-2019&gt;
+
+**Art. 1129**
+
+Lorsque le jugement a été signifié au tiers, la tierce opposition doit être formée par lui dans les trois mois à partir de la signification.
+
+**Art. 1130**
+
+La juridiction qui accueille, le recours en tierce opposition, annule, en tout ou en partie, la décision attaquée, à l'égard du tiers seulement.
+
+L'annulation a lieu à l'égard de toutes les parties dans la mesure où l'exécution de la décision attaquée serait incompatible avec l'exécution de la décision d'annulation.
+
+**Art. 1131**
+
+Les voies de recours peuvent être exercées contre la décision rendue sur la tierce opposition, l'appel excepté si la décision attaquée a été rendue elle-même en degré d'appel.
+
+### TITRE VI. \_ De la requête civile.
+
+**Art. 1132**
+
+Les décisions passées en force de chose jugée, rendues par les juridictions civiles, et par les juridictions répressives en tant que celles-ci ont statué sur les intérêts civils, peuvent être rétractées sur la requête civile formée par ceux qui y auront été parties ou dûment appelés, sans préjudice des droits appartenant au ministère public.
+
+**Art. 1133**
+
+La requête civile est ouverte pour les causes suivantes :
+
+1° s'il y a eu dol personnel;
+
+2° si, depuis la décision, il a été recouvré des pièces décisives et qui avaient été retenues par le fait de la partie;
+
+3° si, entre les mêmes parties, agissant en mêmes qualités, il y a incompatibilité de décisions rendues sur le même objet et sur la même cause;
+
+4° si on a jugé sur pièces, témoignages, rapports d'experts ou serments reconnus ou déclarés faux depuis la décision;
+
+5° si la décision est fondée sur un jugement ou arrêt rendu en matière répressive qui a été ensuite annulé;
+
+6° si la décision est fondée sur un acte de procédure accompli au nom d'une personne, sans qu'elle ait soit donné mandat exprès ou tacite à cette fin, soit ratifié ou confirmé ce qui a été fait.
+
+**Art. 1134**
+
+La requête, signée par trois avocats, dont deux au moins sont inscrits depuis plus de vingt ans au barreau, contient tous les moyens à l'appui de celle-ci et est signifiée avec citation dans les formes ordinaires devant la juridiction qui a rendu la décision entreprise, le tout à peine de nullité.
+
+Lorsque la requête civile est formée en vertu de l'article 1133, 6°, le désavoué doit être mis en cause.
+
+Si la décision entreprise a été rendue sur un litige prévu aux ((articles 580, 2°, 3°, 6°, 8°, 9°, 10° et 11°), 581, 582, 1° et 2°, et 583)), la requête peut également être formée selon le cas, sous la signature de l'auditeur du travail ou du procureur général. &lt;L 30-6-1971, art. 29&gt; &lt;L 22-12-1977, art. 166&gt;
+
+**Art. 1135**
+
+Lorsque le litige est indivisible, la requête civile doit être dirigée contre toutes les parties dont l'intérêt est opposé à celui du requérant.
+
+Ce dernier doit en outre mettre en cause les autres parties, qui n'ont pas formé de requête civile au plus tard avant la clôture des débats précédant la décision sur l'admissibilité de la requête.
+
+En cas d'inobservation des règles énoncées au présent article, la requête civile ne sera pas admise.
+
+Les décisions sont opposables à toutes les parties en cause.
+
+**Art. 1136**
+
+[<sup>1</sup> Sous réserve des délais prévus dans des dispositions impératives supranationales et internationales, la requête]<sup>1</sup> civile est formée, à peine de déchéance, dans les six mois à partir de la découverte de la cause invoquée.
+
+----------
+
+(1)&lt;L 2014-05-12/02, art. 10, 127; En vigueur : 29-05-2014&gt;
+
+**Art. 1137**
+
+La requête civile n'empêche pas l'exécution de la décision entreprise.
+
+**Art. 1138**
+
+Il n'y a pas d'ouverture de requête civile, mais seulement, et contre les décisions rendues en dernier ressort, possibilité de pourvoi en cassation pour contravention à la loi :
+
+1° si les formes prescrites à peine de nullité ont été violées, à moins que la nullité n'ait été couverte par les parties;
+
+2° s'il a été prononcé sur choses non demandées ou adjugé plus qu'il n'a été demandé;
+
+3° s'il a été omis de prononcer sur l'un des chefs de demande [<sup>1</sup> , sans préjudice de l'article 797, alinéa 2]<sup>1</sup>;
+
+4° si dans un jugement il y a des dispositions contraires;
+
+5° si, dans les cas où la loi exige la communication au ministère public, cette communication n'a pas eu lieu.
+
+----------
+
+(1)&lt;L 2018-05-25/02, art. 46, 165; En vigueur : 09-06-2018&gt;
+
+**Art. 1139**
+
+Le juge saisi de la requête civile, ordonne aux parties, s'il y a lieu, de conclure à toutes fins.
+
+Il peut statuer par la même décision, sur l'admission, de la requête civile et sur le fond du litige.
+
+### TITRE VII. \_ De la prise à partie.
+
+**Art. 1140**
+
+Les juges peuvent être pris à partie dans les cas suivants :
+
+1° ,s'ils se sont rendus coupables de dol ou de fraude, soit dans le cours de l'instruction, soit lors des jugements;
+
+2° si la prise à partie est expressément prononcée par la loi;
+
+3° si la loi déclare les juges responsables à peine de dommages-intérêts;
+
+4° s'il y a déni de justice.
+
+**Art. 1141**
+
+La prise à partie peut pareillement avoir lieu à l'égard des officiers du ministère public dans les cas prévus à l'article 1140, 1°, 2° et 3°.
+
+**Art. 1142**
+
+La prise à partie est formée, à peine de déchéance, dans le délai de trente jours.
+
+Ce délai court à partir du fait qui y a donné lieu, et en cas de dol ou de fraude, à partir du jour où la partie en a eu connaissance.
+
+**Art. 1143**
+
+Elle est introduite par le dépôt au greffe de la Cour de cassation d'une requête contenant les moyens, signée de la partie [<sup>1</sup> et d'un avocat à la Cour de cassation]<sup>1</sup> et préalablement signifiée au magistrat pris à partie.
+
+[<sup>1</sup> ...]<sup>1</sup> Les pièces justificatives sont annexées à la requête.
+
+----------
+
+(1)&lt;L 2014-04-10/57, art. 27, 126; En vigueur : 25-05-2014&gt;
+
+**Art. 1144**
+
+Dans les quinze jours de la signification, le magistrat pris à partie peut déposer au greffe un mémoire en réponse.
+
+Du jour de la signification, il s'abstient de la connaissance du litige, et même de toutes les causes que la partie, ses parents en ligne directe, ou son conjoint peuvent avoir devant le tribunal dont il est membre, et ce à peine de nullité des jugements.
+
+**Art. 1145**
+
+Après l'expiration du délai de quinze jours, le premier président nomme un rapporteur; et on se conforme, pour le surplus, aux règles énoncées pour les pourvois.
+
+**Art. 1146**
+
+Si la prise à partie est déclarée non admissible ou mal fondée, le demandeur est condamné aux dommages-intérêts envers le magistrat et les parties s'il y a lieu.
+
+**Art. 1147**
+
+Si la prise à partie est accueillie, la cour, suivant les circonstances, condamne le défendeur à la réparation du préjudice souffert, ou annule le jugement et renvoie la cause devant d'autres juges.
+
+### TITRE VIII. \_ (abrogé) &lt;L 1989-01-06/30, art. 127, 010; En vigueur : 17-01-1989&gt;
+
+**Art. 1147bis**
+
+(abrogé) &lt;L 1989-01-06/30, art. 127, 010; En vigueur : 17-01-1989&gt;
+
+## LIVRE IV. \_ PROCEDURES PARTICULIERES.
+
+#### CHAPITRE IER. \_ De l'apposition et de la levée des scellés.
+
+##### Section première. \_ De l'apposition des scellés.
+
+**Art. 1148**
+
+&lt;L 14-7-1976, art. 25&gt; Chaque fois qu'un intérêt sérieux l'exige, l'apposition des scellés sur les objets dépendant du patrimoine commun des époux, d'une succession ou d'une indivision peut être requise :
+
+1° par ceux qui y prétendent droit et par leurs créanciers personnels;
+
+2° par tous créanciers de la succession, du patrimoine commun ou de l'indivision;
+
+3° par les personnes qui demeuraient avec le défunt ou qui étaient à son service domestique, si le conjoint, les héritiers ou l'un d'eux ne sont pas présents;
+
+4° par l'exécuteur testamentaire.
+
+**Art. 1149**
+
+L'apposition des scellés est demandée au juge de paix, soit par requête, soit par une déclaration verbale dont le greffier dressera l'acte.
+
+La demande est faite au greffe. Lorsque celui-ci est fermé, elle peut, s'il y a extrême urgence, être présentée au juge en sa demeure, et, le cas échéant, actée par lui.
+
+La requête peut être signée par la partie requérante, par son mandataire agréé par le juge, par son avocat ou par son notaire.
+
+Les agents d'affaires ne peuvent être agréés en qualité de mandataire.
+
+**Art. 1150**
+
+Si le requérant est mineur émancipé [<sup>1</sup> ...]<sup>1</sup>, il peut introduire la requête sans l'assistance de son curateur.
+
+(Si le requérant est mineur non émancipé, [<sup>1</sup> ou s'il est une personne protégée qui, en vertu de l'article 492/1 du Code civil, a été déclarée incapable d'aliéner des biens]<sup>1</sup>, la requête est introduite par son représentant légal.) &lt;L 1990-06-26/32, art. 38, § 6, 014; En vigueur : 1991-07-27&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+S'il n'a pas de tuteur ou d'administrateur [<sup>1</sup> ...]<sup>1</sup> ou s'il n'est pas présent, la demande peut être introduite par un de ses parents.
+
+En cas d'extrême urgence le mineur non émancipé peut introduire personnellement la requête.
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 163, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+**Art. 1151**
+
+Les scellés sont aussi apposés soit d'office, soit à la diligence du procureur du Roi, du bourgmestre ou d'un échevin :
+
+(1° si parmi les personnes intéressées, il en est qui sont incapables et sans représentant légal, et que les scellés ne soient pas requis par un parent.) &lt;L 2001-04-29/39, art. 54, 054; En vigueur : 01-08-2001&gt;
+
+2° si le conjoint, les héritiers ou l'un d'eux est (présumé absent) ou n'est pas présent; &lt;L 2007-05-09/44, art. 39, 089; En vigueur : 01-07-2007&gt;
+
+3° si le défunt était dépositaire public, auquel cas les scellés ne seront apposés qu'en raison de ce dépôt et sur les objets qui le composent.
+
+**Art. 1152**
+
+L'apposition des scellés peut être ordonnée nonobstant toute disposition contraire.
+
+Elle est faite par le juge de paix du canton où se trouvent les objets à placer sous scellés.
+
+Le juge de paix se sert d'un sceau particulier qui reste entre ses mains, et dont l'empreinte est déposée au greffe du tribunal de première instance.
+
+Toutes les parties intéressées peuvent assister aux opérations, sans toutefois qu'il y ait lieu de les y appeler expressément.
+
+**Art. 1153**
+
+S'il existe des livres de commerce, le juge de paix peut se les faire représenter pour être visés et arrêtés par lui.
+
+Il est permis aux parties de photographier, à leurs frais, les lieux ou les objets qui les garnissent.
+
+**Art. 1154**
+
+Dans les cas prévus à l'article 1151, 2°, le juge de paix a la faculté de ne pas apposer les scellés lorsque la valeur des meubles meublants de la succession trouvés à l'endroit où il procède, ne dépasse pas ((1.240) EUR) suivant son estimation. (Ce montant peut être modifié par arrêté royal délibéré en Conseil des Ministres). &lt;L 1986-03-03/33, art. 1, 003&gt; &lt;AR 2000-07-20/58, art. 2, 051; En vigueur : 01-01-2002&gt;
+
+S'il n'appose pas les scellés, le juge de paix dresse un état descriptif de ces meubles ainsi que du numéraire et des valeurs mobilières trouvés à l'endroit où il procède et les confie à un curateur qu'il désigne au bas de son procès-verbal.
+
+Le curateur a les pouvoirs et les obligations énumérés à l'article [<sup>1</sup> 4.58, § 2,]<sup>1</sup> du Code civil mais à l'égard seulement du numéraire, des meubles meublants et des valeurs mobilières trouvés en la résidence du défunt où le juge de paix a procédé.
+
+Toutefois, il n'est pas tenu de faire dresser un inventaire et il peut réaliser tout ou partie des objets qui lui sont confiés, soit par adjudication publique, soit de gré à gré, à l'expiration d'un délai de quarante jours à dater de sa nomination. Ce délai peut être réduit par le juge de paix.
+
+Les pouvoirs du curateur cessent lorsque des héritiers ou des légataires universels ou à titre universel acceptant la succession se sont fait connaître.
+
+----------
+
+(1)&lt;L 2022-01-19/18, art. 25, 189; En vigueur : 01-07-2022&gt;
+
+**Art. 1155**
+
+Les scellés sont apposés dans les vingt-quatre heures de la demande; en cas d'urgence les scellés peuvent être apposés même un samedi, un dimanche ou un jour férié légal.
+
+**Art. 1156**
+
+Les scellés ne peuvent plus être apposés lorsque l'inventaire est clôturé, à moins qu'il n'en soit ainsi ordonné par [<sup>1</sup> le juge de paix]<sup>1</sup>, lorsque l'inventaire est attaqué.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 161, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1157**
+
+Si l'apposition est requise au cours de l'inventaire, les scellés ne peuvent être apposés que sur les objets non encore inventoriés.
+
+**Art. 1158**
+
+Le procès-verbal d'apposition contient :
+
+1° l'indication des jour et heure;
+
+2° les motifs de l'apposition, et, le cas échéant, la déclaration que le juge agit, soit d'office, soit à la diligence du procureur du Roi, du bourgmestre ou d'un échevin;
+
+3° les nom, prénom [<sup>1</sup> ...]<sup>1</sup> et domicile du requérant et son élection de domicile dans la commune où les scelles sont apposés, s'il n'y réside;
+
+4° l'ordonnance qui permet les scellés;
+
+5° les comparutions et dires des parties;
+
+6° la désignation des lieux, bureaux, coffres, armoires et objets sur lesquels les scellés sont apposés;
+
+7° une description sommaire des objets non placés sous scellés;
+
+8° le serment, par ceux qui demeurent dans le lieu, qu'ils n'ont rien détourné, vu ni su qu'il ait été rien détourné, directement ou indirectement;
+
+9° la mention que les clefs des serrures sur lesquelles les scellés sont apposés sont remises au greffier de la justice de paix avec mission de les garder jusqu'au moment où les scellés seront levés.
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 130, 174; En vigueur : 10-01-2019&gt;
+
+**Art. 1159**
+
+Le juge de paix peut vérifier chaque fois qu'il le juge utile l'existence des scellés et leur état.
+
+**Art. 1160**
+
+Les parties intéressées peuvent, avant l'apposition des scellés, requérir le juge de paix de faire la perquisition du testament ou de tout autre document qu'elles indiquent.
+
+**Art. 1161**
+
+S'il est trouvé un pli fermé ou un paquet cacheté paraissant intéresser la succession ou l'indivision, le juge de paix l'ouvre après en avoir constaté la forme extérieure, le sceau et la suscription; il paraphe avec les parties l'enveloppe et le document.
+
+(Néanmoins, si le pli ou le paquet paraît contenir un testament, le juge de paix ne l'ouvre pas, mais il en ordonne le dépôt entre les mains d'un notaire qu'il désigne. Ce dernier recevra le dépôt des mains du juge, auprès duquel il se sera rendu.) &lt;L 1987-03-31/47, art. 1, 005; En vigueur : 02-05-1987&gt;
+
+Si le document paraît appartenir à un tiers, le juge de paix en constate la forme extérieure, le sceau et la suscription, paraphe l'enveloppe avec les parties et ordonne la remise du document à qui il appartiendra.
+
+**Art. 1162**
+
+Si un testament est trouvé ouvert, le juge de paix en constate l'état et procede comme il est dit à l'article 1161, deuxième alinéa.
+
+**Art. 1163**
+
+Si les portes sont fermées ou si l'ouverture en est refusée, le juge de paix peut demander l'assistance du bourgmestre ou du commissaire de police et faire procéder, en leur présence, à l'ouverture des portes et des meubles meublants.
+
+Il établit, au besoin, garnison intérieure et même extérieure.
+
+Le juge de paix statue sur les difficultés s'il échet. Son ordonnance est exécutoire nonobstant tout recours et sans préjudice du principal.
+
+**Art. 1164**
+
+S'il n'y a aucun effet mobilier, le juge de paix dresse un procès-verbal de carence.
+
+##### Section II. \_ De l'opposition à la levée des scellés.
+
+**Art. 1165**
+
+Toute personne justifiant d'un intérêt légitime peut former opposition à la levée des scellés.
+
+Le juge de paix statue sans recours tous droits réservés au fond, sur les fins de l'opposition.
+
+S'il estime que la présence de l'opposant est inopportune, il nomme un notaire pour représenter l'opposant, aux frais de celui-ci, aux opérations de levée des scellés et d'inventaire.
+
+**Art. 1166**
+
+L'opposition peut être faite, soit par une déclaration sur le procès-verbal d'apposition, soit par exploit signifié au greffier du juge de paix.
+
+L'acte d'opposition contient, à peine de nullité, outre les mentions prévues à l'article 43, élection de domicile dans l'arrondissement où les scellés sont apposés et l'indication précise de la cause de l'opposition.
+
+##### Section III. \_ De la levée des scellés.
+
+**Art. 1167**
+
+&lt;L 14-7-1976, art. 26&gt; La levée des scellés peut être demandée au juge de paix par les prétendants droit dans le patrimoine commun, dans la succession ou l'indivision, par ceux qui les ont fait apposer ou par les créanciers possédant un titre exécutoire ou dont le titre, tous droits saufs au fond, est reconnu par le juge de paix.
+
+**Art. 1168**
+
+La levée des scellés est demandée par requête au juge de paix signée par la partie, son mandataire agréé par le juge, son notaire ou son avocat.
+
+Le juge fixe par appointement mis au bas de la requête les jour et heure des opérations.
+
+Sommation d'assister à la levée des scellés et, s'il échet, à l'inventaire qui suivra, est faite :
+
+a) dans le cas d'une apposition faite à la suite de l'ouverture d'une succession, au conjoint survivant, aux héritiers présomptifs, à l'exécuteur testamentaire, aux légataires universels et à titre universel, s'ils sont connus, aux créanciers qui ont requis l'apposition et aux opposants ou au notaire chargé de les représenter;
+
+b) dans les autres cas, aux prétendants droit dans la communauté ou l'indivision, aux créanciers qui ont requis l'apposition et aux opposants ou au notaire chargé de les représenter.
+
+Les intéressés ou leurs représentants légaux sont sommés de comparaître par exploit d'huissier. Toutefois, lorsque les intéressés résident (...) hors du royaume, la sommation à la levée des scellés et à l'inventaire est fait soit au mandataire constitué à cette fin, soit, s'il n'en a pas été constitué, au notaire nommé d'office par le juge de paix. La comparution volontaire est toujours permise. &lt;L 2002-11-22/40, art. 2, 059; En vigueur : 23-01-2003&gt;
+
+Les opposants sont sommés à leur domicile élu.
+
+**Art. 1169**
+
+Lorsqu'il y a des incapables, ils doivent être pourvus de représentants légaux avant que la levée des scellés ne puisse avoir lieu.
+
+**Art. 1170**
+
+Trois jours au moins doivent séparer le moment de l'apposition des scellés du moment de leur levée.
+
+**Art. 1171**
+
+Dans le cas d'absolue nécessité, le juge de paix peut, par dérogation à l'article 1168, ordonner sur requête la levée momentanée des scellés, à charge de les rétablir d'office dès que la cause pour laquelle la levée a été admise, aura pris fin. Le juge de paix détermine, s'il échet, les mesures destinées à la sauvegarde des droits des intéressés pendant que les scellés sont levés.
+
+La levée définitive peut, dans le même cas, être ordonnée, en tout ou en partie, à charge de faire immédiatement inventaire.
+
+Le juge de paix mentionne en son ordonnance les circonstances qui justifient la mesure; il désigne un notaire pour représenter les personnes non présentes et un notaire pour dresser l'inventaire et veiller à la conservation des objets.
+
+**Art. 1172**
+
+La levée des scellés est pure et simple si la cause de l'apposition a cessé et qu'il n'y ait pas d'opposant. Il en est fait mention au procès-verbal.
+
+Lorsqu'il n'en est pas ainsi, la levée des scellés est suivie d'un inventaire dressé conformément aux prescriptions du chapitre II du présent livre, à moins que le notaire n'en soit régulièrement dispensé.
+
+**Art. 1173**
+
+Le procès-verbal de levée contient :
+
+1° l'indication du jour et de l'heure;
+
+2° les nom, prénom [<sup>1</sup> ...]<sup>1</sup> et domicile des requérants et leur élection de domicile dans l'arrondissement;
+
+3° les nom, prénom [<sup>1</sup> ...]<sup>1</sup> et domicile des parties présentes, représentées ou dûment sommées;
+
+4° l'énonciation de la requête et de l'ordonnance autorisant la levée;
+
+5° la constatation de l'accomplissement des formalités;
+
+6° les dires et observations des requérants et des comparants;
+
+7° la mention du notaire qui procédera à l'inventaire si celui-ci a lieu;
+
+8° la reconnaissance des scellés s'ils sont sains et entiers; s'ils ne le sont pas, l'état des altérations, sauf à se pourvoir comme il appartiendra en raison desdites altérations;
+
+9° les réquisitions aux fins de perquisition, le résultat desdites perquisitions et toutes autres demandes sur lesquelles il y a lieu de statuer.
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 130, 174; En vigueur : 10-01-2019&gt;
+
+##### Section IV. \_ Interdiction de paiement, de restitution et de transfert.
+
+**Art. 1174**
+
+Dans les cas où il a fait droit à une demande d'apposition de scellés, le juge peut, par ordonnance rendue sur requête, de quiconque avait qualité pour demander l'apposition, interdire à toute personne qui est débitrice envers la succession, la communauté ou l'indivision, de titres, sommes ou valeurs, en assume la garde ou les détient pour compte d'autrui, d'en opérer la restitution, le paiement ou le transfert.
+
+La levée de cette interdiction a lieu dans les formes et aux conditions prévues par la section III du présent chapitre, sans préjudice des recours prévus aux articles 1031 à 1034.
+
+#### CHAPITRE II. \_ De l'inventaire.
+
+**Art. 1175**
+
+L'inventaire a pour objet de déterminer la consistance de la succession ou de la communauté ou de l'indivision.
+
+Il contient notamment la description et l'estimation des objets mobiliers, l'analyse des titres et papiers, la relation des déclarations actives et passives faites par les intéressés.
+
+**Art. 1176**
+
+Toute clause prohibant la confection d'un inventaire est réputée non écrite.
+
+**Art. 1177**
+
+Les personnes désignées à l'article 1167 qui justifient d'un intérêt sérieux de conservation, peuvent demander, par requête, au juge de paix, l'autorisation de faire établir un inventaire, sans apposition préalable des scellés. L'inventaire est, en ce cas, dressé par acte notarié, sans préjudice de l'application, de l'article 1154 s'il y a lieu.
+
+Néanmoins, cette autorisation n'est pas nécessaire, lorsqu'il s'agit des biens dépendant d'une succession ou d'une communauté entre époux et que l'inventaire est requis d'un notaire par un héritier, un légataire universel ou à titre universel, un conjoint ou un exécuteur testamentaire.
+
+**Art. 1178**
+
+Le droit de choisir le notaire appartient concurremment aux personnes qui requièrent l'inventaire.
+
+En cas de désaccord le notaire est désigné par le juge de paix.
+
+Si le juge ordonne ou autorise un inventaire, il désigne le notaire qui y procédera.
+
+**Art. 1179**
+
+Si l'inventaire n'a pas lieu à l'occasion d'une levée de scellés, le notaire [<sup>1</sup> fixe les jour et heure auxquels il sera procédé à l'inventaire ainsi que le lieu où celui-ci se tiendra et]<sup>1</sup> convoque aux opérations d'inventaire, toutes les parties intéressées, au moins huit jours d'avance, par exploit d'huissier ou par lettre recommandée à la poste. Lorsque les intéressés résident (...) hors du royaume, la convocation est adressée soit au mandataire constitué à cette fin, soit, s'il n'en a pas été constitué, au notaire nommé d'office par le juge de paix. &lt;L 2002-11-22/40, art. 3, 059; En vigueur : 23-01-2003&gt;
+
+----------
+
+(1)&lt;L 2025-06-18/02, art. 3, 209; En vigueur : 07-07-2025&gt;
+
+**Art. 1180**
+
+L'inventaire est fait en présence :
+
+1° (des prétendants droit universels ou à titre universel, en propriété ou en usufruit dans le patrimoine commun, la succession ou l'indivision.) &lt;L 14-7-1976, art. 27&gt;
+
+Le mineur émancipé et la personne [<sup>1</sup> à l'égard de laquelle le juge de paix a ordonné une mesure de protection visée à l'article 492/1 du Code civil]<sup>1</sup> sont assistés de leur curateur [<sup>1</sup> , administrateur ]<sup>1</sup> ou conseil.
+
+2° du notaire commis pour représenter les intéressés résidant (...) ou hors du royaume ou les personnes écartées par le juge de paix en vertu de l'article 1165; &lt;L 2002-11-22/40, art. 3, 059; En vigueur : 23-01-2003&gt;
+
+3° du tuteur désigné pour l'exécution de la substitution;
+
+4° de l'exécuteur testamentaire.
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 164, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+**Art. 1181**
+
+&lt;L 2001-04-29/39, art. 55, 054; En vigueur : 01-08-2001&gt; Dans tous les cas où il est procédé à un inventaire en matière de tutelle, celui-ci est fait en présence du subrogé tuteur.
+
+Il reproduit dans son intitulé la réponse du tuteur à l'interpellation faite par le notaire portant sur le point de savoir s'il lui est dû quelque chose par le mineur.
+
+**Art. 1182**
+
+L'inventaire est fait dans les lieux où se trouvent les objets à inventorier.
+
+(Sauf si la loi en dispose autrement, il ne peut être fait sur déclaration que lorsqu'il n'est pas possible de procéder autrement.) &lt;L 2008-07-18/44, art. 7, 098; En vigueur : 01-11-2008&gt;
+
+**Art. 1183**
+
+Outre les formalités communes à tous les actes notariés, l'inventaire contient:
+
+1° les nom, prénom [<sup>1</sup> ...]<sup>1</sup> et domicile des requérants, comparants, défaillants, opposants, notaires commis, experts particuliers;
+
+2° l'indication de l'ordonnance désignant le notaire commis pour représenter les personnes non présentes, les intéressés résidant (...) hors du royaume, les personnes écartées par le juge de paix en vertu de l'article 1165; &lt;L 2002-11-22/40, art. 3, 059; En vigueur : 23-01-2003&gt;
+
+3° l'indication de l'événement qui est la cause de l'inventaire, du lieu où il est procédé, de la personne qui fait la représentation des objets;
+
+4° l'estimation des effets mobiliers. Sauf accord des parties sur cette estimation, la prisée est faite par le notaire instrumentant qui peut se faire assister par un expert particulier;
+
+5° la désignation des espèces, fonds publics, actions et obligations.
+
+Les titres remboursables par voie de tirage au sort sont individualisés par l'indication de leurs numéros et séries;
+
+6° l'état des comptes chez des tiers selon la déclaration des parties;
+
+7° la description sommaire des livres comptables, l'analyse des titres, papiers et documents concernant les forces actives ou passives du patrimoine ou de la masse indivise.
+
+Les documents, titres et papiers inventoriés sont côtés et paraphés par le notaire qui arrête en outre les écritures dans les livres;
+
+8° les déclarations actives et passives faites par les intéressés, les interpellations des parties et les réponses qui y sont faites;
+
+9° la désignation de la personne à qui les objets inventoriés sont confiés;
+
+10° l'avertissement donné par le notaire des sanctions édictées par la loi contre ceux qui se rendent coupables de divertissement, de recel ou de faux serment;
+
+11° le serment prêté par ceux qui ont été en possession des objets ou qui ont habité les lieux, qu'ils n'ont rien détourné, vu ni su qu'il ait été rien détourné.
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 130, 174; En vigueur : 10-01-2019&gt;
+
+**Art. 1184**
+
+S'il s'élève des difficultés ou s'il est formé des réquisitions pour l'administration du patrimoine ou de la masse indivise, ou pour d'autres causes, et qu'il n'y soit pas déféré par les autres parties, le notaire en réfère au juge de paix [<sup>1</sup> par simple demande écrite déposée ou adressée au greffe. La demande contient l'identité des parties ainsi qu'un exposé des difficultés. Par pli judiciaire, le greffe notifie cette demande aux parties et les convoque, ainsi que le notaire, pour une audience en chambre du conseil]<sup>1</sup>.
+
+[<sup>1</sup> Lorsqu'il est procédé à l'inventaire en vertu de l'article 1214, le notaire peut soumettre les difficultés visées à l'alinéa 1er soit au tribunal de la famille qui l'a désigné, conformément à l'article 1216, soit au juge de paix, conformément à l'alinéa 1er. Lorsque l'une de ces juridictions a été saisie d'une difficulté, cette même difficulté ne peut être soumise à l'autre juridiction.]<sup>1</sup>
+
+A défaut d'accord des parties sur la désignation de la personne à qui les objets inventoriés sont confiés, le notaire est constitué de plein droit dépositaire des titres, espèces, valeurs, documents et papiers.
+
+Pour le surplus, les objets inventoriés seront confiés à la personne désignée par le juge [<sup>1</sup> ...]<sup>1</sup>, à la requête du notaire instrumentant.
+
+----------
+
+(1)&lt;L 2025-06-18/02, art. 4, 209; En vigueur : 07-07-2025&gt;
+
+#### CHAPITRE III. - &lt;L 14-07-1976&gt; De la renonciation à succession.
+
+**Art. 1185**
+
+[<sup>1</sup> Les articles 1026 à 1034 sont applicables à la demande conjointe d'autorisation visée à l'article [<sup>2</sup> 4.40, § 3,]<sup>2</sup> du Code civil, sous réserve des dispositions suivantes :
+
+1° la requête est signée par les requérants ou par leur avocat ou notaire ;
+
+2° le juge de paix recueille toutes les informations utiles et peut entendre toute personne qu'il estime apte à le renseigner.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2020-07-31/03, art. 87, 181; En vigueur : 01-09-2020&gt;
+
+(2)&lt;L 2022-01-19/18, art. 26, 189; En vigueur : 01-07-2022&gt;
+
+#### CHAPITRE IV. \_ De certaines ventes (...) d'immeubles. &lt;L 18-2-1981, art. 1&gt;
+
+**Art. 1186**
+
+[<sup>1</sup> Lorsqu'il y a lieu de procéder à la vente publique d'immeubles appartenant en totalité à des mineurs, à des présumés absents, ou à des personnes protégées qui, en vertu de l'article 492/1 du Code civil, ont été déclarées incapables d'aliéner des immeubles, leurs représentants légaux sont tenus de demander au juge de paix l'autorisation d'y procéder. Si le juge de paix autorise la vente publique, il désigne en même temps un notaire par le ministère duquel elle aura lieu.
+
+Les représentants légaux ainsi que, le cas échéant, les subrogés tuteurs et, le cas échéant, le juge de paix du canton de la situation des biens veillent, chacun pour ce qui le concerne, à la sauvegarde des intérêts en cause.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-08-11/14, art. 20, 162; En vigueur : 01-05-2018&gt;
+
+**Art. 1187**
+
+[<sup>1</sup> Lorsque des immeubles appartiennent en copropriété à des mineurs, des présumés absents, des personnes protégées qui, en vertu de l'article 492/1 du Code civil, ont été déclarées incapables d'aliéner des immeubles, [<sup>2</sup> ...]<sup>2</sup> et à d'autres personnes, le juge de paix peut, sur requête des représentants légaux ou des autres copropriétaires, autoriser la vente publique des biens indivis.
+
+Les représentants légaux des intéressés mineurs, présumés absents, les administrateurs des personnes protégées qui, en vertu l'article 492/1 du Code civil, ont été déclarées incapables d'aliéner des immeubles, ainsi que les autres copropriétaires, doivent être appelés à la procédure d'autorisation par pli judiciaire notifié au moins huit jours avant l'audience. Il en est de même des créanciers hypothécaires [<sup>2</sup> inscrits, des créanciers privilégiés inscrits et, le cas échéant, des créanciers enregistrés au Registre des gages,]<sup>2</sup> ainsi que des créanciers qui ont fait transcrire un commandement ou un exploit de saisie [<sup>2</sup> et ceux qui ont fait mention en marge d'une action intentée sur la base de l'article 5.243 du Code civil]<sup>2</sup>.
+
+Si le juge de paix fait droit à la requête, il commet en même temps un notaire par le ministère duquel ladite vente aura lieu. L'ordonnance mentionne expressément l'identité des créanciers et autres copropriétaires dûment appelés à la procédure.
+
+Les copropriétaires, les représentants légaux et, le cas échéant, les subrogés tuteurs ainsi que, le cas échéant, le juge de paix du canton de la situation des biens veillent, chacun pour ce qui le concerne, à la sauvegarde des intérêts en cause.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-08-11/14, art. 21, 162; En vigueur : 01-05-2018&gt;
+
+(2)&lt;L 2023-12-19/05, art. 43, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 1188**
+
+(Abrogé) &lt;L 2007-05-09/44, art. 43, 089; En vigueur : 01-07-2007&gt;
+
+**Art. 1189**
+
+[<sup>1</sup> La vente publique d'immeubles appartenant en totalité à des successions acceptées sous bénéfice d'inventaire [<sup>2</sup> ou]<sup>2</sup> à des successions vacantes est soumise aux conditions suivantes:
+
+Les héritiers bénéficiaires ou le curateur à succession vacante sont tenus de demander l'autorisation de procéder à la vente publique par requête présentée au tribunal de la famille du lieu où la succession est ouverte; si le tribunal accorde l'autorisation, il commet en même temps un notaire par le ministère duquel la vente publique aura lieu. Les héritiers bénéficiaires ou le curateur à succession vacante ainsi que, le cas échéant, le juge de paix du canton de la situation des biens veillent, chacun pour ce qui le concerne, à la sauvegarde des intérêts en cause.
+
+L'autorisation du tribunal n'est pas requise en cas d'application des articles 1186 et 1187.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-08-11/14, art. 22, 162; En vigueur : 01-05-2018&gt;
+
+(2)&lt;L 2023-12-19/05, art. 44, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 1189/1**
+
+[<sup>1</sup> Lorsque des immeubles appartiennent en copropriété à une succession vacante ou une succession acceptée sous bénéfice d'inventaire et à d'autres personnes, le tribunal de la famille peut, sur requête du curateur à succession vacante ou de l'héritier bénéficiaire ou des autres copropriétaires, autoriser la vente publique des immeubles indivis. Le curateur à succession vacante, les héritiers bénéficiaires ainsi que les autres copropriétaires, doivent être appelés à la procédure d'autorisation par pli judiciaire notifié au moins huit jours avant l'audience. Il en est de même des créanciers hypothécaires [<sup>2</sup> inscrits, des créanciers privilégiés inscrits et, le cas échéant, des créanciers enregistrés au Registre des gages,]<sup>2</sup> ainsi que des créanciers qui ont fait transcrire un commandement ou un exploit de saisie [<sup>2</sup> et ceux qui ont fait mention en marge d'une action intentée sur la base de l'article 5.243 du Code civil]<sup>2</sup>. Si le tribunal de la famille fait droit à la requête, il commet en même temps un notaire par le ministère duquel ladite vente aura lieu. La décision mentionne expressément l'identité des créanciers et autres copropriétaires dûment appelés à la procédure.
+
+Les héritiers bénéficiaires ou le curateur à succession vacante et les autres copropriétaires ainsi que, le cas échéant, le juge de paix du canton de la situation des biens veillent, chacun pour ce qui le concerne, à la sauvegarde des intérêts en cause.
+
+[<sup>2</sup> Aucun des copropriétaires ne doit obtenir l'autorisation du tribunal de la famille dans le cas où le ou les copropriétaires qui doivent demander l'autorisation sur la base de l'article 1187, l'ont obtenue.]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-08-11/14, art. 23, 162; En vigueur : 01-05-2018&gt;
+
+(2)&lt;L 2023-12-19/05, art. 45, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 1190**
+
+[<sup>1</sup> Le curateur à la faillite ne peut vendre publiquement les immeubles dépendant de la masse faillie qu'après en avoir demandé l'autorisation au juge-commissaire; si le juge accorde l'autorisation, il désigne en même temps un notaire par le ministère duquel la vente publique aura lieu. Le curateur ainsi que, le cas échéant, le juge de paix du canton de la situation des biens veillent, chacun pour ce qui le concerne, à la sauvegarde des intérêts en cause.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-08-11/14, art. 24, 162; En vigueur : 01-05-2018&gt;
+
+**Art. 1191**
+
+[<sup>1</sup> Néanmoins, si les intérêts protégés énumérés aux articles 1186 à 1190 ainsi qu'à l'article 1193quater, § 2, exigeaient que les immeubles fussent en tout ou en partie vendus dans un ou plusieurs cantons autres que celui de la situation du bien, il en est fait mention suivant le cas, dans l'ordonnance du juge de paix, dans la décision d'autorisation du tribunal de la famille, dans celle du juge-commissaire de la faillite ou dans celle du tribunal de l'entreprise. Le juge de paix, le tribunal de la famille, le juge-commissaire ou le tribunal de l'entreprise désigne en même temps le juge de paix qui veille, le cas échéant, à la sauvegarde des intérêts en cause.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-19/05, art. 46, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 1192**
+
+[<sup>1</sup> § 1er. Les conditions de vente établies par le notaire désigné sont soumises à l'approbation du juge de paix par simple lettre par le notaire désigné.
+
+Le juge de paix veille à la sauvegarde des intérêts visés à l'article 1191. Le cas échéant, il peut subordonner son approbation des conditions de vente à la fixation de certaines conditions, parmi lesquelles, en particulier, l'expression de son consentement à l'adjudication.
+
+Le notaire procède à la publication une fois l'approbation du juge de paix obtenue.
+
+Dans l'hypothèse où le juge de paix refuse son approbation, il devra être saisi par requête unilatérale signée par le notaire désigné ou par un avocat en vue de rendre une ordonnance motivée, susceptible des recours prévus aux articles 1031 à 1034.
+
+§ 2. En cas de difficultés, le notaire ou toute autre partie intéressée peut s'adresser au juge de paix. Le cas échéant, le juge de paix fait surseoir à la vente, après avoir entendu les représentants légaux des intéressés, les envoyés en possession provisoire, les héritiers bénéficiaires, les curateurs [<sup>2</sup> des successions vacantes, les curateurs des masses faillies ou les liquidateurs d'une personne morale]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-08-11/14, art. 26, 162; En vigueur : 01-05-2018&gt;
+
+(2)&lt;L 2023-12-19/05, art. 47, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 1193**
+
+[<sup>1</sup> La vente des immeubles a lieu, dans tous les cas ci-dessus mentionnés, conformément à ce qui est usité à l'égard des ventes publiques ordinaires d'immeubles, sauf ce qui est dit aux articles 1193bis [<sup>3</sup> , 1193ter et 1193quater, § 3]<sup>3</sup>.
+
+[<sup>2</sup> L'adjudication se fait en une seule séance aux enchères, dématérialisée ou non, à l'exclusion de toute faculté de surenchère.]<sup>2</sup> Les articles 1589 et 1590 sont applicables à cette adjudication. Les enchères peuvent être émises sous forme physique ou sous forme dématérialisée. Les conditions de vente déterminent le mode, les conditions et le délai d'émission des enchères. Lors d'une vente publique dématérialisée, le notaire adjuge le bien dans une période de maximum dix jours ouvrables après le moment où les enchères dématérialisées ont été clôturées. L'adjudication se réalise en un même jour, d'une part, par la communication en ligne de l'enchère la plus élevée retenue et, d'autre part, par l'établissement d'un acte qui constate l'enchère la plus élevée retenue ainsi que le consentement du requérant et de l'adjudicataire.
+
+Le cahier des charges peut prévoir que l'adjudication a lieu sous la condition suspensive d'obtention par l'adjudicataire d'un financement. Le cahier des charges fixe les modalités de cette condition. La personne qui a acheté sous cette condition suspensive, supporte, en cas de défaillance de la condition, les frais qui ont été exposés en vue de l'adjudication dans les limites fixées par le cahier des charges.
+
+Préalablement à l'adjudication, le notaire instrumentant peut fixer le montant de la mise à prix, éventuellement après avis d'un expert désigné par lui.
+
+L'enchérisseur qui, dès le début de la séance, propose comme première offre un montant égal ou supérieur à celui de la mise à prix, reçoit une indemnité égale à un pourcent de sa première offre. Cette prime n'est exigible que si le bien est adjugé définitivement à cet enchérisseur. Cette prime est à charge de la masse.
+
+Si personne n'offre le montant de la mise à prix, le notaire provoquera une première offre par enchères dégressives, après quoi la vente se poursuivra par enchères.
+
+Si le notaire instrumentant ne fixe pas de mise à prix, il peut octroyer une prime au premier enchérisseur. Cette prime s'élève à un pourcent du montant offert. Cette prime n'est exigible que si le bien est adjugé définitivement à cet enchérisseur. Cette prime est à charge de la masse.
+
+Les primes visées aux alinéas 5 et 7 sont considérées comme des frais de justice au sens de l'article 17 de la loi hypothécaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-04-15/14, art. 15, 163; En vigueur : 01-05-2018&gt;
+
+(2)&lt;L 2022-12-26/05, art. 11, 197; En vigueur : 09-01-2023&gt;
+
+(3)&lt;L 2023-12-19/05, art. 48, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 1193bis**
+
+[<sup>1</sup> Dans les cas prévus aux articles 1186 à 1189/1, les personnes qui ont qualité pour provoquer la vente publique des immeubles peuvent introduire, selon le cas, devant le juge de paix ou devant le tribunal de la famille, une demande d'autorisation de vendre de gré à gré. L'autorisation est accordée si l'intérêt des personnes protégées par ces articles l'exige.
+
+L'autorisation doit indiquer expressément la raison pour laquelle la vente de gré à gré sert l'intérêt des personnes protégées. Le recours à cette forme de vente peut être subordonné à la fixation d'un prix minimum.
+
+La demande prévue à l'alinéa 1er est introduite par une requête motivée [<sup>2</sup> . Il y est joint un projet d'acte de vente établi par un notaire, un rapport d'expertise et un certificat de l'Administration générale de la Documentation patrimoniale du Service Public Fédéral Finances relatant les inscriptions existantes et toute transcription de commandement ou de saisie portant sur les immeubles qui doivent être vendus ainsi que, le cas échéant, le résultat des recherches après consultation du Registre des gages. Le rapport d'expertise est établi par l'expert désigné par le notaire ayant rédigé le projet d'acte. Le projet d'acte]<sup>2</sup> est joint à l'ordonnance ou au jugement d'autorisation.
+
+Les créanciers hypothécaires [<sup>2</sup> inscrits, les créanciers privilégiés inscrits, le cas échéant les créanciers enregistrés au Registre des gages, les créanciers]<sup>2</sup> qui ont fait transcrire un commandement ou un exploit de saisie [<sup>2</sup> et ceux qui ont fait mention en marge d'une action intentée sur la base de l'article 5.243 du Code civil]<sup>2</sup> ainsi que les personnes visées aux articles 1187, alinéa 2, et 1189/1, alinéa 1er, selon les cas, doivent être appelés à la procédure d'autorisation par pli judiciaire notifié au moins huit jours avant l'audience.
+
+Le juge de paix ou le tribunal peut ordonner la comparution des personnes qui seront parties à l'acte.
+
+Si le juge de paix ou le tribunal fait droit à la requête, celle-ci doit avoir lieu conformément au projet d'acte admis par le juge de paix ou le tribunal, en présence le cas échéant du subrogé-tuteur, par le ministère du notaire commis par l'ordonnance ou le jugement d'autorisation. Ces derniers mentionnent expressément l'identité des créanciers et des personnes visées aux articles 1187, alinéa 2, et 1189/1, alinéa 1er, dûment appelés à la procédure.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-08-11/14, art. 28, 162; En vigueur : 01-05-2018&gt;
+
+(2)&lt;L 2023-12-19/05, art. 49, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 1193ter**
+
+[<sup>1</sup> Dans le cas prévu à l'article 1190, le curateur peut demander, par requête motivée, au [<sup>2</sup> tribunal de l'entreprise]<sup>2</sup> l'autorisation de vendre de gré à gré. Le curateur soumet au tribunal un projet d'acte de vente établi par un notaire, [<sup>4</sup> désigné par le curateur]<sup>4</sup>, et lui expose les motifs pour lesquels la vente de gré à gré s'impose.
+
+Il y joint un rapport d'expertise établi par l'expert qu'il a désigné et un certificat [<sup>3</sup> de l'Administration générale de la Documentation patrimoniale]<sup>3</sup>, postérieur à la déclaration de faillite relatant les inscriptions existantes et toute transcription de commandement ou de saisie portant sur les immeubles qui doivent être vendus. Les créanciers hypothécaires [<sup>4</sup> inscrits, les créanciers privilégiés inscrits, le cas échéant les créanciers enregistrés au Registre des gages, les créanciers]<sup>4</sup> qui ont fait transcrire un commandement ou un exploit de saisie [<sup>4</sup> et ceux qui ont fait mention en marge d'une action intentée sur la base de l'article 5.243 du Code civil]<sup>4</sup> de même que le failli [<sup>4</sup> et, le cas échéant, les autres copropriétaires]<sup>4</sup> doivent être appelés à la procédure d'autorisation par pli judiciaire notifié au moins huit jours avant l'audience. Ils peuvent demander au tribunal que l'autorisation de vendre de gré à gré soit subordonnée à certaines conditions [<sup>4</sup> ...]<sup>4</sup>.
+
+L'autorisation est accordée si l'intérêt de la masse faillie l'exige et de l'avis du juge-commissaire. L'ordonnance doit indiquer expressément la raison pour laquelle la vente de gré à gré sert l'intérêt de la masse faillie et mentionne l'identité des créanciers dûment appelés à la procédure. Le recours à cette forme de vente peut être subordonné à la fixation d'un prix minimum.
+
+La vente doit avoir lieu conformément au projet d'acte admis par le tribunal et par le ministère du notaire qui l'a rédigé. Le demandeur ou les créanciers intervenants peuvent interjeter appel de l'ordonnance du tribunal, conformément à l'article 1031.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-04-15/14, art. 16, 163; En vigueur : 01-05-2018&gt;
+
+(2)&lt;L 2018-04-15/14, art. 252, 163; En vigueur : 01-11-2018&gt;
+
+(3)&lt;L 2018-07-11/07, art. 47, 168; En vigueur : 30-07-2018&gt;
+
+(4)&lt;L 2023-12-19/05, art. 50, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 1193quater**
+
+[<sup>1</sup> § 1er. Si le liquidateur d'une personne morale souhaite bénéficier de la purge conformément à l'article 1326 pour la vente publique ou la vente de gré à gré à laquelle il procède conformément aux articles 2:87, § 3, 2:88, § 1er, 4° ou 5°, 2:121, § 3 ou 2:122, § 1er, 4° ou 5°, du Code des sociétés et des associations, il doit en outre obtenir préalablement à cette vente une autorisation du tribunal de l'entreprise. En cas de dissolution judiciaire, l'autorisation prévue par les articles 2:88 ou 2:122 du Code des sociétés et des associations et celle prévue par le présent paragraphe peuvent être demandées simultanément.
+
+§ 2. Si le tribunal accorde l'autorisation de vendre l'immeuble publiquement avec bénéfice de la purge, il désigne en même temps un notaire par le ministère duquel la vente publique aura lieu. Le liquidateur ainsi que, le cas échéant, le juge de paix du canton de la situation de l'immeuble veillent, chacun pour ce qui le concerne, à la sauvegarde des intérêts en cause.
+
+§ 3. Le liquidateur peut demander, par requête motivée, au tribunal de l'entreprise l'autorisation de vendre de gré à gré avec bénéfice de la purge. Le liquidateur soumet au tribunal un projet d'acte de vente, établi par un notaire désigné par le liquidateur, et lui expose les motifs pour lesquels la vente de gré à gré s'impose.
+
+Il y joint un rapport d'expertise établi par l'expert désigné par le notaire ayant rédigé le projet d'acte et un certificat de l'Administration générale de la Documentation patrimoniale du Service Public Fédéral Finances, postérieur à l'ouverture de la procédure de liquidation, relatant les inscriptions existantes et toute transcription de commandement ou de saisie portant sur l'immeuble qui doit être vendu ainsi que, le cas échéant, le résultat des recherches après consultation du Registre des gages. Les créanciers hypothécaires inscrits, les créanciers privilégiés inscrits, le cas échéant les créanciers enregistrés au Registre des gages, les créanciers qui ont fait transcrire un commandement ou un exploit de saisie et ceux qui ont fait mention en marge d'une action intentée sur la base de l'article 5.243 du Code civil de même que la personne morale en liquidation et, le cas échéant, les copropriétaires doivent être appelés à la procédure d'autorisation par pli judiciaire notifié au moins huit jours avant l'audience. La rétribution due vaut comme frais de greffe. Ils peuvent demander au tribunal que l'autorisation de vendre de gré à gré soit subordonnée à certaines conditions.
+
+L'autorisation pour vendre avec bénéfice de la purge est accordée si l'intérêt de la masse à liquider l'exige. L'ordonnance doit indiquer expressément la raison pour laquelle la vente de gré à gré sert l'intérêt de la masse à liquider et mentionne l'identité des créanciers dûment appelés à la procédure. Le recours à cette forme de vente peut être subordonné à la fixation d'un prix minimum.
+
+La vente doit avoir lieu conformément au projet d'acte admis par le tribunal et par le ministère du notaire qui l'a rédigé. Le demandeur ou les créanciers intervenants peuvent interjeter appel de l'ordonnance du tribunal, conformément à l'article 1031.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-12-19/05, art. 51, 200; En vigueur : 06-01-2024&gt;
+
+#### CHAPITRE V- De certaines ventes du mobilier.
+
+**Art. 1194**
+
+Lorsque la vente des meubles dépendant d'une succession a lieu en exécution de l'article [<sup>2</sup> 4.77]<sup>2</sup> du Code civil, cette vente est faite dans les formes prescrites par les dispositions suivantes.
+
+Néanmoins, si toutes les parties sont majeures, présentes et d'accord, et qu'il n'y a aucun tiers intéressé, elles procèdent à la vente ainsi qu'elles en auront décidé.
+
+Les dispositions de l'alinéa premier sont applicables aux ventes du mobilier dépendant d'une succession vacante, d'une succession bénéficiaire, (ainsi qu'aux ventes prévues (par les articles 410, § 1er, [<sup>1</sup> 499/7, § 2, et 499/9]<sup>1</sup>,) du Code civil). &lt;L 2001-04-29/39, art. 61, 054; En vigueur : 01-08-2001&gt; &lt;L 2003-05-03/62, art. 13, 068; En vigueur : 31-12-2003&gt;
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 167, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+(2)&lt;L 2022-01-19/18, art. 27, 189; En vigueur : 01-07-2022&gt;
+
+**Art. 1195**
+
+Il est procédé à la vente à la requête d'une partie intéressée, par un notaire ou par un huissier de justice et conformément à l'usage des lieux.
+
+Statuant sur requête d'une partie intéressée, le [<sup>2</sup> tribunal de la famille]<sup>2</sup> peut ordonner toutes mesures susceptibles d'améliorer les résultats de la vente. L'ordonnance est notifiée aux parties par le greffier, sous pli judiciaire.
+
+(Dans les cas prévus aux articles 410, § 1er, [<sup>1</sup> 499/7, § 2, et 499/9]<sup>1</sup>, du Code civil, le juge de paix peut ordonner ces mêmes mesures.) &lt;L 2001-04-29/39, art. 62, 054; En vigueur : 01-08-2001&gt;
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 168, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+(2)&lt;L 2013-07-30/23, art. 165, 130; En vigueur : 01-09-2014, voir aussi L 2014-05-08/02, art. 73, 132; En vigueur : 01-09-2014&gt;
+
+**Art. 1196**
+
+Lorsque la vente a lieu en exécution de l'article [<sup>1</sup> 4.77]<sup>1</sup> du Code civil, ou lorsqu'il s'agit de la vente du mobilier dépendant d'une succession bénéficiaire, les parties qui ont le droit d'assister à l'inventaire et qui sont domiciliées ou ont élu domicile dans le royaume, sont appelées à la vente.
+
+La convocation est adressée par l'officier public ou ministériel instrumentant au domicile ou au domicile élu, par lettre recommandée à la poste.
+
+----------
+
+(1)&lt;L 2022-01-19/18, art. 28, 189; En vigueur : 01-07-2022&gt;
+
+**Art. 1197**
+
+S'il s'élève des difficultés, il est statué en référé par le [<sup>2</sup> tribunal de la famille]<sup>2</sup> du lieu ou sont situés les biens (ou par le juge de paix qui a autorisé la vente conformément (aux articles 410, § 1er, [<sup>1</sup> 499/7, § 2, et 499/9]<sup>1</sup>).) &lt;L 2001-04-29/39, art. 63, 054; En vigueur : 01-08-2001&gt; &lt;L 2003-05-03/62, art. 14, 068; En vigueur : 31-12-2003&gt;
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 169, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22), abrogé lui-même par L 2014-05-12/02, art. 18, 003; En vigueur : 01-09-2014&gt; &gt;
+
+(2)&lt;L 2013-07-30/23, art. 166, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1198**
+
+La vente se fait dans la commune ou l'agglomération ou sont situés les biens, s'il n'en est autrement ordonné par le [<sup>1</sup> tribunal de la famille]<sup>1</sup> (ou le juge de paix), sur requête d'une partie conformément à l'article 1195. &lt;L 2001-04-29/39, art. 64, 054; En vigueur : 01-08-2001&gt;
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 167, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1199**
+
+S'il s'agit d'un fonds de commerce, la vente en est faite en bloc.
+
+Il ne peut être adjugé à un prix inférieur à l'estimation faite par expert, des biens corporels dépendant du fonds à vendre. L'expert est désigné, sur requête d'une des parties, par le [<sup>1</sup> tribunal de la famille]<sup>1</sup> du lieu ou est situé le principal établissement du fonds de commerce. L'expert fait rapport dans le délai fixé par l'ordonnance [<sup>1</sup> du tribunal]<sup>1</sup>. Si le prix n'atteint pas le montant de l'estimation, les divers éléments composant le fonds de commerce sont vendus au détail, conformément aux dispositions du présent chapitre, soit immédiatement, soit à une séance ultérieure.
+
+(Lorsqu'il s'agit d'un fonds de commerce appartenant en totalité à des incapables, il est procédé devant le juge de paix comme indique aux alinéas 1er et 2. L'expert est désigné par le juge de paix à la requête d'une des parties.) &lt;L 2001-04-29/39, art. 65, 054; En vigueur : 01-08-2001&gt;
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 168, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1200**
+
+La vente est faite tant en l'absence qu'en présence des parties, sans appeler personne pour les non-comparants.
+
+**Art. 1201**
+
+L'adjudication se fait au plus offrant et au comptant.
+
+Faute de paiement, l'effet peut être revendu sur-le-champ. Le notaire ou l'huissier de justice instrumentant est personnellement responsable du prix des adjudications.
+
+**Art. 1202**
+
+Les parties requérantes peuvent cependant convenir que le prix est payable à terme.
+
+Dans ce cas, le procès-verbal est signé par le vendeur et par l'adjudicataire; le notaire ou l'huissier instrumentant n'est pas responsable du prix des adjudications. Il ne peut faire l'avance au vendeur du prix non paye.
+
+**Art. 1203**
+
+Le procès-verbal de la vente indique les nom, prénom et domicile des parties requérantes, la publicité effectuée et, le cas échéant, l'ordonnance qui a réglé les modalités particulières de la vente.
+
+La signature des parties requérantes n'est pas requise. Néanmoins si un terme est accordé pour le paiement du prix, le procès-verbal indique en outre les nom, prénom et domicile de l'adjudicataire et est signé tant par les requérants que par l'adjudicataire. Cette signature peut être apposée immédiatement après chaque adjudication.
+
+**Art. 1204**
+
+S'il s'agit de fonds publics ou de devises, la vente est exécutée en bourse: pour les titres ou devises admis à la cote, aux séances ordinaires de la bourse ou de l'une des bourses, ou ils sont cotés; pour les autres, aux ventes publiques organisées par la commission de la bourse.
+
+**Art. 1204bis**
+
+[<sup>1</sup> Lorsqu'il y a lieu de procéder à l'aliénation de meubles appartenant en tout ou en partie à des mineurs sous tutelle, à des personnes protégées déclarées incapables, en vertu de l'article 492/1 du Code civil, d'aliéner des meubles, à des personnes internées en application de la loi sur la défense sociale ou lorsque ces meubles font partie d'une succession vacante ou d'une succession acceptée sous bénéfice d'inventaire, les personnes qui ont qualité pour provoquer cette vente peuvent introduire, selon le cas, devant le juge de paix ou devant le tribunal de la famille, une demande d'autorisation de vente de gré à gré. L'autorisation est accordée si l'intérêt des personnes protégées l'exige. Cette demande est introduite par une requête motivée, à laquelle est joint un projet de contrat de vente. Les personnes représentant les personnes protégées doivent être entendues ou dûment appelées par pli judiciaire au moins cinq jours avant l'audience. Le juge peut ordonner la comparution des personnes qui seront parties au contrat. Un exemplaire du contrat signé devra ultérieurement être transmis au juge.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 169, 130; En vigueur : 01-09-2014, voir aussi L 2014-05-08/02, art. 74, 132; En vigueur : 01-09-2014&gt;
+
+#### CHAPITRE VI-[<sup>1</sup> - Des liquidations, partages et licitations]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2025-06-18/02, art. 5, 209; En vigueur : 07-07-2025&gt;
+
+##### Section première. [<sup>1</sup> - De la liquidation et du partage amiables]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2025-06-18/02, art. 6, 209; En vigueur : 07-07-2025&gt;
+
+**Art. 1205**
+
+Lorsque [<sup>1</sup> toutes les parties]<sup>1</sup> sont [<sup>1</sup> majeures, présentes ou dûment représentées]<sup>1</sup>, [<sup>1</sup> elles]<sup>1</sup> peuvent en tout état de cause procéder de commun accord [<sup>1</sup> à la liquidation et, le cas échéant,]<sup>1</sup> au partage comme [<sup>1</sup> elles]<sup>1</sup> en auront décidé.
+
+[<sup>1</sup> La présente section s'applique également lorsque, à défaut d'indivision entre les parties, il n'est procédé qu'à la liquidation de leurs droits.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2025-06-18/02, art. 7, 209; En vigueur : 07-07-2025&gt;
+
+**Art. 1206**
+
+S'il existe un mineur parmi les [<sup>1</sup> parties]<sup>1</sup> [<sup>1</sup> autres que les créanciers opposants au sens de l'article 4.101 du Code civil]<sup>1</sup>, [<sup>1</sup> la liquidation et, le cas échéant, le partage se font]<sup>1</sup>, moyennant l'approbation du juge de paix, et sous sa présidence, par le ministère d'un notaire.
+
+[<sup>1</sup> Toutes les parties]<sup>1</sup> doivent y assister en personne, par mandataire ou le cas échéant par leur représentant légal. Le curateur du mineur émancipé et le subrogé tuteur y assistent pareillement, sans que l'opposition d'intérêt entre eux et les mineurs donne lieu à remplacement.
+
+Lorsqu'il l'estime nécessaire, le juge peut désigner un ou plusieurs experts qui, à la diligence commune des parties, donneront [<sup>1</sup> , le cas échéant,]<sup>1</sup> leur avis sur la formation des lots. Les lots des mineurs peuvent être composés en partie et même pour le tout, de simples soultes.
+
+Les lots ainsi formés sont attribués aux copartageants, soit directement, soit par voie de tirage au sort, il en est fait mention dans l'acte de partage.
+
+Le juge de paix veille à la sauvegarde des intérêts des mineurs et au placement, conformément à la loi, des sommes et valeurs qui leur seront attribuées.
+
+Si le juge saisi d'une requête par les parties refuse son approbation, il le constate par une ordonnance motivée dont il peut être appelé par toutes les parties agissant conjointement. A défaut d'approbation, [<sup>1</sup> la liquidation et, le cas échéant,]<sup>1</sup> le partage ne [<sup>1</sup> peuvent]<sup>1</sup> être poursuivi que dans la [<sup>1</sup> forme judiciaire]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2025-06-18/02, art. 8, 209; En vigueur : 07-07-2025&gt;
+
+##### Section 2. [<sup>1</sup> - De la liquidation et du partage judiciaires]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2025-06-18/02, art. 9, 209; En vigueur : 07-07-2025&gt;
+
+###### Sous-section 1re. [<sup>1</sup> - De l'introduction de la demande et du jugement ordonnant la liquidation et, le cas échéant, le partage judiciaires]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2025-06-18/02, art. 10, 209; En vigueur : 07-07-2025&gt;
+
+**Art. 1207**
+
+[<sup>1</sup> En cas d'indivision, si toutes les parties indivisaires ne consentent pas à un partage amiable ainsi que dans les cas visés à l'article 1206, alinéa 6, le partage a lieu judiciairement à la demande de la partie la plus diligente, formée devant le tribunal de la famille.
+
+Même à défaut d'indivision, les sections 2 et 3 du présent chapitre s'appliquent également lorsque la demande ne peut porter que sur la liquidation:
+
+1° en vertu du titre 3 du livre 2 du Code civil;
+
+2° en vertu livre 4 du Code civil;
+
+3° en vue de l'établissement de comptes entre cohabitants légaux.
+
+Dans ce cas, les articles 1209, § 3, 1212, 1214, § 1er, alinéas 3 à 6, 1214, § 6, alinéa 2, 1224 et 1224/1 ne s'appliquent qu'à l'égard des parties indivisaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2025-06-18/02, art. 11, 209; En vigueur : 07-07-2025&gt;
+
+**Art. 1208**
+
+[<sup>1</sup> § 1er. Si plusieurs demandeurs sollicitent séparément [<sup>2</sup> la liquidation de la même masse ou]<sup>2</sup> le partage de la même indivision, les demandes sont jointes, le cas échéant d'office, à la première audience utile.
+
+§ 2. [<sup>2</sup> Si la liquidation d'une autre masse ou indivision que celle visée au paragraphe 1er est nécessaire pour aboutir à la liquidation ou au partage sollicité, la demande s'étend de plein droit à la liquidation de cette masse ou de cette indivision, pour autant que celle-ci n'implique pas de tiers.]<sup>2</sup>
+
+§ 3. Dans le cas visé au § 2, le jugement rendu conformément à l'article 1209 implique de plein droit qu'il y a lieu de procéder à la liquidation [<sup>2</sup> de la masse ou]<sup>2</sup> de l'indivision dont la liquidation préalable est nécessaire pour aboutir [<sup>2</sup> à la liquidation ou]<sup>2</sup> au partage ordonné.
+
+§ 4. A la demande de l'une des parties, le tribunal peut, par décision motivée, ordonner [<sup>2</sup> une liquidation distincte ou]<sup>2</sup> un partage distinct pour les biens situés à l'étranger qu'il désigne. Il tient compte de la nature et de la localisation de ces biens. En ce cas, les délais visés aux articles 1214, § 2, et 1218 ne sont pas applicables [<sup>2</sup> à cette liquidation distincte ou]<sup>2</sup> à ce partage distinct.
+
+Le tribunal peut ordonner de même en cours de procédure, s'il est saisi de cette demande par le notaire-liquidateur conformément à l'article 1216.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+(2)&lt;L 2025-06-18/02, art. 12, 209; En vigueur : 07-07-2025&gt;
+
+**Art. 1209**
+
+[<sup>1</sup> § 1er. Le tribunal statue sur toutes les contestations dont il est saisi, sauf à en remettre la solution jusqu'au jugement d'homologation, et donne acte aux parties de leurs accords éventuels.
+
+§ 2. Les accords actés par le tribunal ont la valeur des jugements visés à l'article 1043.
+
+§ 3. Le jugement actant l'accord des parties sur la vente, publique ou de gré à gré, de tout ou partie des biens habilite le notaire-liquidateur à procéder à ladite vente, s'il en est requis par au moins une partie.
+
+Ce jugement confère au notaire-liquidateur les pouvoirs visés à l'article 1224, § 4, alinéas 2, 3 et 4, dont il reproduit le texte en son dispositif.
+
+[<sup>2</sup> En cas de vente publique d'immeubles, celle-ci a lieu conformément à ce qui est usité à l'égard des ventes publiques ordinaires d'immeubles et conformément à l'article 1193, alinéas 2 à 8, ainsi que, le cas échéant, conformément aux articles 1186 à 1192.]<sup>2</sup>
+
+En cas de vente de gré à gré, celle-ci a lieu, le cas échéant, conformément à l'article 1193bis.
+
+La vente des meubles a lieu conformément aux articles 1194 à 1204bis, le cas échéant à l'intervention d'un huissier de justice désigné par le notaire-liquidateur.
+
+Au jour indiqué pour l'adjudication, il est procédé à celle-ci à la requête d'au moins une des parties.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+(2)&lt;L 2017-08-11/14, art. 30, 162; En vigueur : 01-05-2018&gt;
+
+###### Sous-section 2. - [<sup>1</sup> De la désignation du notaire-liquidateur]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+**Art. 1210**
+
+[<sup>1</sup> § 1er. S'il ordonne [<sup>2</sup> la liquidation ou]<sup>2</sup> le partage, le tribunal renvoie les parties devant le notaire-liquidateur sur la personne duquel elles s'accordent ou, sur demande motivée des parties, devant les deux notaires-liquidateurs dont elles sollicitent conjointement la désignation.
+
+A défaut d'accord des parties ou s'il estime que la désignation de deux notaires-liquidateurs ne se justifie pas, le tribunal renvoie les parties devant un autre notaire-liquidateur qu'il désigne.
+
+§ 2. Si le tribunal désigne deux notaires-liquidateurs, ceux-ci agissent conjointement, conformément aux dispositions de la présente section.
+
+Par dérogation aux articles 5 et 6, 1°, de la loi du 16 mars 1803 contenant organisation du notariat, les deux notaires-liquidateurs instrumentent conjointement dans les ressorts territoriaux de chacun d'eux.
+
+§ 3. Sans préjudice de l'application du § 4, lorsque deux notaires-liquidateurs ont été désignés, celui des deux dont le nom figure en premier ordre dans la décision est chargé de la garde des minutes.
+
+§ 4. Si, dans le cadre [<sup>2</sup> de la liquidation ou]<sup>2</sup> du partage ordonné, le notaire-liquidateur est appelé à agir en dehors de son ressort territorial, celui-ci désigne pour ces opérations un notaire territorialement compétent.
+
+§ 5. Sans préjudice des dispositions du livre premier de la quatrième partie et sauf décision contraire du tribunal, les parties provisionnent le notaire-liquidateur par parts égales.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+(2)&lt;L 2025-06-18/02, art. 13, 209; En vigueur : 07-07-2025&gt;
+
+###### Sous-section 3. - [<sup>1</sup> Du remplacement du notaire-liquidateur]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+**Art. 1211**
+
+[<sup>1</sup> § 1er. En cas de refus, d'empêchement du notaire-liquidateur ou s'il existe des circonstances de nature à soulever des doutes légitimes sur son impartialité ou son indépendance, le tribunal pourvoit à son remplacement.
+
+Le notaire-liquidateur dont les parties ont sollicité conjointement la désignation ne peut être remplacé à la demande de l'une d'elles que pour des causes survenues ou connues depuis sa désignation.
+
+Sans préjudice de l'article 1220, §§ 2 et 3, aucun remplacement ne peut être demandé par l'une des parties après l'ouverture des opérations, à moins que le motif invoqué n'ait été révélé ultérieurement à la partie qui le sollicite.
+
+En cas d'appel de la décision visée aux articles 1209, § 1er, et 1210, la demande de remplacement est formée devant le juge d'appel. Le remplacement ne peut alors être ultérieurement demandé sur la base des moyens soumis au juge d'appel.
+
+§ 2. La partie ou le notaire-liquidateur qui propose des moyens de remplacement les présente par simple demande écrite déposée ou adressée au tribunal ayant désigné le notaire-liquidateur.
+
+Le greffe notifie cette demande, par pli judiciaire, aux parties et au notaire-liquidateur.
+
+Dans les quinze jours de cette notification, le notaire-liquidateur adresse, le cas échéant, ses observations au tribunal et aux parties.
+
+Passé ce délai, le greffe convoque les parties et le notaire-liquidateur par pli judiciaire, pour une audience en chambre du conseil.
+
+S'il accueille la demande, le tribunal nomme d'office, en lieu et place du notaire-liquidateur remplacé, un nouveau notaire-liquidateur qu'il désigne ou sur le choix duquel les parties se sont accordées.
+
+La décision relative au remplacement n'est susceptible d'aucun recours.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+###### Sous-section 4. - [<sup>1</sup> De la gestion de la masse indivise]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+**Art. 1212**
+
+[<sup>1</sup> Le tribunal peut, à n'importe quel stade de la procédure et à la demande de toute partie ou du notaire-liquidateur introduite par simple demande écrite déposée ou adressée au tribunal ayant désigné le notaire-liquidateur, nommer un gestionnaire chargé d'accomplir les actes d'administration et, le cas échéant, de représenter en justice la masse des indivisaires.
+
+La procédure se poursuit conformément à l'article 1211, § 2, alinéas 2 et 3. Passé le délai visé à l'article 1211, § 2, alinéa 3, le greffe convoque les parties et le notaire-liquidateur par pli judiciaire. S'il accueille la demande, le tribunal nomme un gestionnaire, détermine l'étendue de sa mission et fixe sa rémunération.
+
+Le gestionnaire peut se faire assister par une ou plusieurs personnes agissant sous sa responsabilité.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+###### Sous-section 5. - [<sup>1</sup> De l'expertise]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+**Art. 1213**
+
+[<sup>1</sup> § 1er. Lorsque le tribunal désigne un ou plusieurs experts chargés de l'expertise des biens dont la vente n'a pas été décidée, la mission d'expertise comprend l'estimation des biens, la fixation des bases de cette estimation et, le cas échéant, l'indication des possibilités d'un partage commode en nature avec, en ce cas, la détermination des lots à tirer au sort.
+
+Le notaire-liquidateur peut, moyennant l'accord de toutes les parties, compléter la mission de l'expert. A défaut d'accord de toutes les parties, le tribunal est saisi conformément à la procédure prévue au § 3.
+
+Le notaire-liquidateur peut, moyennant l'accord de toutes les parties, modifier la mission de l'expert ou demander à celui-ci d'actualiser une estimation antérieure. A défaut d'accord de toutes les parties, le tribunal est saisi conformément à la procédure prévue au § 3.
+
+Sauf décision contraire du tribunal ou sauf accord de toutes les parties, l'expert n'entame sa mission que s'il en a été requis par le notaire-liquidateur.
+
+§ 2. Simultanément au dépôt de son rapport final au greffe, l'expert communique au notaire-liquidateur, aux parties et à leurs conseils, une copie dudit rapport dans les formes prévues à l'article 978 et, s'agissant de la communication au notaire-liquidateur, par courrier recommandé.
+
+§ 3. A défaut de désignation d'un expert dans le jugement visé aux articles 1209, § 1er, et 1210, § 1er, la demande de désignation d'un ou plusieurs experts peut être formée en cours de procédure, par toute partie ou par le notaire-liquidateur, par simple demande écrite déposée ou adressée au tribunal ayant désigné le notaire-liquidateur.
+
+La procédure se poursuit conformément à l'article 1211, § 2, alinéas 2 et 3. Passé le délai visé à l'article 1211, § 2, alinéa 3, le greffe convoque les parties et le notaire-liquidateur par pli judiciaire. S'il accueille la demande, le tribunal désigne un ou plusieurs experts, dont la mission est définie au § 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+###### Sous-section 6. - [<sup>1</sup> Du déroulement des opérations
+
+Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+###### [<sup>1</sup> Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+**Art. 1214**
+
+[<sup>1</sup> § 1er. Le notaire-liquidateur tente de concilier les parties et les informe qu'elles peuvent se faire assister d'un avocat.
+
+A tout stade de la procédure, le notaire-liquidateur dresse, à la demande des parties, procès-verbal de l'accord global ou partiel intervenu quant à la liquidation ou au partage. L'accord ainsi acté et signé par les parties les lie définitivement et habilite le notaire-liquidateur, lorsqu'il porte sur la vente publique ou de gré à gré de tout ou partie des biens, à procéder à ladite vente s'il en est requis par au moins une partie.
+
+[<sup>2</sup> En cas de vente publique, celle-ci a lieu conformément à ce qui est usité à l'égard des ventes publiques ordinaires d'immeubles et conformément à l'article 1193, alinéas 2 à 8, ainsi que, le cas échéant, conformément aux articles 1186 à 1192.]<sup>2</sup>
+
+En cas de vente de gré à gré, celle-ci a lieu, le cas échéant, conformément à l'article 1193bis.
+
+La vente des meubles a lieu conformément aux articles 1194 à 1204bis, le cas échéant à l'intervention d'un huissier de justice désigné par le notaire-liquidateur.
+
+Au jour indiqué pour l'adjudication, il est procédé à celle-ci à la requête d'au moins une des parties.
+
+§ 2. Le notaire-liquidateur procède à l'inventaire sauf si toutes les parties, pour autant qu'elles soient capables, y renoncent [<sup>3</sup> explicitement]<sup>3</sup> en indiquant conjointement au notaire-liquidateur quels sont les biens dépendant de la masse [<sup>3</sup> à liquider ou]<sup>3</sup> à partager. La renonciation à l'inventaire intervient au plus tard lors de la clôture du procès-verbal d'ouverture des opérations. Le notaire-liquidateur dresse procès-verbal de la renonciation des parties à l'inventaire et de leur accord quant à la détermination de la masse [<sup>3</sup> à liquider ou]<sup>3</sup> à partager et en communique une copie aux parties et à leurs conseils selon les formes prévues à l'article 1215, § 2.
+
+A défaut de renonciation à l'inventaire, le notaire-liquidateur fixe, lors de la clôture du procès-verbal d'ouverture des opérations, les jour et heure auxquels il sera procédé à la première vacation d'inventaire [<sup>3</sup> ainsi que le lieu où elle se tiendra]<sup>3</sup>, laquelle a lieu, sauf accord contraire de toutes les parties et du notaire-liquidateur, au plus tard dans les deux mois de ladite clôture. Si l'inventaire ne peut être clôturé lors de la première vacation, le notaire-liquidateur fixe sur-le-champ les jour et heure de la vacation suivante, laquelle a lieu, sauf accord de toutes les parties et du notaire-liquidateur, au plus tard dans les deux mois de la précédente.
+
+De l'accord de toutes les parties, pour autant qu'elles soient capables, l'inventaire peut être fait sur déclarations.
+
+[<sup>3</sup> Lorsqu'un inventaire a été établi en application du chapitre II du livre IV de la quatrième partie du présent Code, il est procédé à l'établissement d'un procès-verbal de récolement dudit inventaire, le cas échéant, actualisé ou complété. Ledit procès-verbal tient lieu d'inventaire au sens de la présente section.]<sup>3</sup>
+
+§ 3. S'il y consent à la demande de toutes les parties, le notaire-liquidateur estime les biens [<sup>3</sup> compris dans la masse à liquider ou]<sup>3</sup> à partager.
+
+§ 4. Sans préjudice des règles relatives à la charge et à l'administration de la preuve, le notaire-liquidateur peut demander aux parties ou aux tiers toutes informations et pièces pertinentes.
+
+A défaut pour les parties ou pour les tiers de communiquer les informations et pièces pertinentes sollicitées par le notaire-liquidateur, le tribunal, saisi conformément à l'article 1216, peut ordonner leur production conformément aux articles 877 à 882, le cas échéant sous peine d'astreinte.
+
+§ 5. Le notaire-liquidateur procède aux comptes que les [<sup>3</sup> parties]<sup>3</sup> peuvent se devoir, à la formation de la masse générale [<sup>3</sup> et, le cas échéant]<sup>3</sup>, à la composition des lots et aux attributions à faire à [<sup>3</sup> chacune]<sup>3</sup> des [<sup>3</sup> parties]<sup>3</sup>. Il prend toute autre mesure complémentaire afin d'accomplir convenablement sa mission dans un délai raisonnable.
+
+§ 6. L'absence d'une ou plusieurs parties ne fait pas obstacle à la poursuite des opérations. Le cas échéant, le notaire-liquidateur constate, à tout stade de la procédure, l'absence ou le refus de signer d'une partie.
+
+Nonobstant l'absence ou le refus de signer d'une partie, le notaire-liquidateur reçoit les prix d'adjudication et autres créances en principal et accessoires, en donne quittance avec ou sans subrogation et, en conséquence de ces paiements, donne mainlevée de toute inscription prise ou à prendre, de toute transcription de commandement et saisie, ainsi que de toute opposition s'il y a lieu.
+
+§ 7. Le notaire-liquidateur dresse, en un état liquidatif, le projet [<sup>3</sup> de liquidation et, le cas échéant,]<sup>3</sup> de partage qu'il soumet aux parties conformément à la procédure définie à l'article 1223. Il se conforme à l'accord global ou partiel visé aux articles 1209, § 1er, ou 1214, § 1er, alinéa 2, intervenu, le cas échéant, entre les parties.]<sup>1</sup>
+
+[<sup>3</sup> § 8. Les délais convenus ou fixés en application de la présente section se comptent conformément au chapitre VIII de la première partie du présent Code.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+(2)&lt;L 2017-08-11/14, art. 31, 162; En vigueur : 01-05-2018&gt;
+
+(3)&lt;L 2025-06-18/02, art. 14, 209; En vigueur : 07-07-2025&gt;
+
+###### [<sup>1</sup> De l'ouverture des opérations]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+**Art. 1215**
+
+[<sup>1</sup> § 1er. Le notaire-liquidateur fixe, à la requête de la partie la plus diligente, les jour et heure auxquels il sera procédé à l'ouverture des opérations. Sauf accord contraire de toutes les parties et du notaire-liquidateur quant au délai qui suit, la première séance d'ouverture des opérations a lieu au plus tard dans les deux mois suivant la requête de la partie la plus diligente. Si le procès-verbal d'ouverture des opérations ne peut être clôturé lors de la première séance, le notaire-liquidateur fixe sur le champ les jour et heure de la séance suivante, laquelle intervient, sauf accord de toutes les parties et du notaire-liquidateur, au plus tard dans les deux mois de la précédente.
+
+Le notaire-liquidateur somme les parties et autres intéressés, au moins huit jours à l'avance, par exploit d'huissier, par lettre recommandée ou contre accusé de réception daté, ainsi que leurs conseils par courrier ordinaire, télécopie ou courrier électronique, d'assister au procès-verbal d'ouverture des opérations pour fournir tous les renseignements et toutes les pièces utiles à l'accomplissement de sa mission et pour suppléer, s'il échet, au défaut d'inventaire auquel il n'aurait pas été renoncé conformément à l'article 1214, § 2, ou compléter cet inventaire à raison d'événements nouveaux.
+
+§ 2. Le notaire-liquidateur fait signifier aux parties par exploit d'huissier ou leur adresse par lettre recommandée ou leur remet contre accusé de réception daté, et adresse également à leurs conseils par courrier ordinaire, télécopie ou courrier électronique, copie du procès-verbal d'ouverture des opérations.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+###### [<sup>1</sup> Du procès-verbal intermédiaire]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+**Art. 1216**
+
+[<sup>1</sup> § 1er. Postérieurement à l'ouverture des opérations visée à l'article 1215, le notaire-liquidateur consigne, dans un procès-verbal intermédiaire, les litiges ou difficultés qui, selon lui, sont à ce point essentiels qu'ils empêchent l'établissement de l'état liquidatif visé à article 1214, § 7.
+
+§ 2. Sauf accord contraire de toutes les parties et du notaire-liquidateur quant au délai qui suit, le notaire-liquidateur fait signifier aux parties par exploit d'huissier ou leur adresse par lettre recommandée ou leur remet contre accusé de réception daté, une copie du procès-verbal intermédiaire visé au § 1er, dans les deux mois de la constatation des litiges ou difficultés ayant déterminé l'établissement dudit procès-verbal. Dans le même délai, il adresse également une copie de ce procès-verbal à leurs conseils par courrier ordinaire, télécopie ou courrier électronique. Simultanément, le notaire-liquidateur invite les parties à lui communiquer leurs positions quant aux litiges ou difficultés constatés.
+
+§ 3. Sauf accord contraire de toutes les parties et du notaire-liquidateur quant au délai qui suit, celles-ci font part par écrit au notaire-liquidateur et aux autres parties de leur position dans le mois de la signification de l'exploit d'huissier, de la notification de la lettre recommandée ou de la remise contre accusé de réception daté, visées au § 2. En cas de prises de position successives émanant de la même partie, le notaire-liquidateur ne tient compte que de la dernière position prise.
+
+§ 4. Sauf accord contraire de toutes les parties mettant fin aux litiges ou difficultés soulevés aux termes du procès-verbal intermédiaire lui communiqué par écrit par les parties dans les quinze jours suivant l'échéance du délai visé au § 3, le notaire-liquidateur dépose au greffe, dans le mois suivant l'expiration du même délai, une expédition du procès-verbal, les positions des parties, l'inventaire des pièces lui communiquées par celles-ci ainsi que son avis, dont il adresse simultanément copie aux parties et à leurs conseils, selon les formes décrites au § 2.
+
+§ 5. Le greffe convoque les parties par pli judiciaire et leurs conseils par courrier ordinaire, télécopie ou courrier électronique, pour une audience à l'occasion de laquelle les parties sont entendues sur la base de leurs positions prises conformément au § 3, qui tiennent lieu de conclusions, sans préjudice de la possibilité de remettre la cause à une audience de plaidoiries ultérieure ou de faire application, eu égard à la complexité du litige, de l'article 747.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+###### [<sup>1</sup> De la mise en état conventionnelle]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+**Art. 1217**
+
+[<sup>1</sup> Lors de l'ouverture des opérations, le notaire-liquidateur détermine avec toutes les parties tout ou partie du calendrier pour la poursuite [<sup>2</sup> de la liquidation et, le cas échéant,]<sup>2</sup> du partage [<sup>2</sup> judiciaires]<sup>2</sup>, sauf si celles-ci renoncent à la détermination de pareil calendrier.
+
+Les délais convenus sont actés au procès-verbal d'ouverture des opérations ou aux procès-verbaux ultérieurs, en ce qui concerne les délais convenus en cours de procédure. Chaque procès-verbal mentionne les jour et heure de la prochaine opération ou le délai dans lequel celle-ci aura lieu.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+(2)&lt;L 2025-06-18/02, art. 15, 209; En vigueur : 07-07-2025&gt;
+
+###### [<sup>1</sup> De la mise en état légale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+**Art. 1218**
+
+[<sup>1</sup> § 1er. A défaut d'accord intervenu conformément à l'article 1217, les délais suivants s'appliquent, sous réserve de dérogation, de l'accord de toutes les parties et, s'agissant des délais qui lui sont impartis, du notaire-liquidateur.
+
+Les parties disposent, pour la communication de leurs revendications et pièces au notaire-liquidateur et aux autres parties, de deux mois à compter de la clôture de l'inventaire.
+
+A défaut d'inventaire, les parties disposent, pour la communication de leurs revendications et pièces au notaire-liquidateur et aux autres parties, d'un délai de deux mois, à compter du jour de la communication, par le notaire-liquidateur, de la copie du procès-verbal visé à l'article 1214, § 2, alinéa 1er.
+
+En cas d'expertise, les parties disposent, à compter de la communication aux parties visée à l'article 1213, § 2, d'un délai de deux mois pour communiquer au notaire-liquidateur et aux autres parties leurs revendications quant aux biens soumis à l'expertise ou pour faire part de leurs éventuels amendements aux revendications antérieures concernant à ces biens.
+
+§ 2. Dans les deux mois suivant l'expiration du dernier délai calculé conformément au § 1er, alinéas 2, 3 ou 4, le notaire-liquidateur fait signifier aux parties par exploit d'huissier ou leur adresse par lettre recommandée ou leur remet contre accusé de réception daté, ainsi qu'à leurs conseils par courrier ordinaire, télécopie ou courrier électronique, un aperçu des revendications qui lui ont été soumises dans le respect des délais visés au § 1er, alinéas 2, à 4.
+
+Dans les deux mois de la signification de l'exploit d'huissier ou de la notification de la lettre recommandée visées à l'alinéa 1er, les parties font connaître, par écrit, leurs observations éventuelles sur les revendications des autres parties au notaire-liquidateur et à celles-ci.
+
+§ 3. Le notaire-liquidateur établit, dans un état liquidatif, le projet [<sup>2</sup> de liquidation et, le cas échéant,]<sup>2</sup> de partage, dans un délai de quatre mois prenant cours :
+
+1° soit après l'échéance du délai visé au § 2, alinéa 2;
+
+2° soit, en cas de découverte de nouveaux faits ou pièces déterminants, après l'échéance du délai convenu conformément à l'article 1219 ou fixé par cet article;
+
+3° soit, en cas d'application de l'article 1216, lorsque [<sup>2</sup> l'une des parties requiert, par écrit, le notaire-liquidateur de poursuivre, conformément à l'article 1398, l'exécution provisoire de la décision tranchant les litiges ou difficultés ou, si la décision n'est pas exécutoire par provision, lorsque celle-ci est passée en force de chose jugée]<sup>2</sup>;
+
+4° soit, en cas de vente de tout ou partie des biens en application des articles 1224 et 1224/1, ou sur la base de l'accord des parties acté par le tribunal conformément à l'article 1209 ou par le notaire-liquidateur conformément à l'article 1214, § 1er, alinéa 2, à compter de l'encaissement du prix de la vente et des frais y afférents.
+
+En toute hypothèse, le délai imparti au notaire-liquidateur pour l'établissement du projet [<sup>2</sup> de liquidation et, le cas échéant,]<sup>2</sup> de partage prend cours à la dernière échéance parmi celles visées au présent paragraphe.
+
+§ 4. A défaut de délais convenus conformément à l'article 1217, le juge peut, à la demande d'une partie ou du notaire-liquidateur, réduire les délais visés au présent article, eu égard aux éléments propres à la cause, en vue de permettre l'aboutissement de la procédure de partage dans les meilleurs délais.
+
+La demande est déposée ou adressée par simple lettre au tribunal ayant désigné le notaire-liquidateur.
+
+Le greffe notifie cette demande, par pli judiciaire, aux parties et au notaire-liquidateur.
+
+Dans les quinze jours de cette notification, le notaire-liquidateur et les parties adressent, le cas échéant, leurs observations au tribunal, ainsi qu'aux autres parties et au notaire-liquidateur.
+
+Passé ce délai et à la demande d'au moins une des parties ou du notaire-liquidateur, le greffe convoque les parties et le notaire-liquidateur par pli judiciaire.
+
+S'il accueille la demande, le cas échéant en statuant sur pièces, le tribunal arrête, par ordonnance, les délais visés à l'alinéa 1er.
+
+L'ordonnance est notifiée par le greffe, par pli simple, au notaire-liquidateur, aux parties, ainsi qu'à leurs conseils.
+
+L'ordonnance n'est susceptible d'aucun recours.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+(2)&lt;L 2025-06-18/02, art. 16, 209; En vigueur : 07-07-2025&gt;
+
+###### [<sup>1</sup> De la découverte de nouveaux faits ou de nouvelles pièces déterminants]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+**Art. 1219**
+
+[<sup>1</sup> En cas de découverte de nouveaux faits ou nouvelles pièces qu'il estime déterminants, le notaire-liquidateur invite les parties par exploit d'huissier, par lettre recommandée ou contre accusé de réception daté, ainsi que leurs conseils par courrier ordinaire, télécopie ou courrier électronique, à lui faire part de leurs observations à ce sujet dans le délai convenu ou, à défaut d'accord entre toutes les parties quant à ce nouveau délai, dans un délai d'un mois à compter de sa demande.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+###### [<sup>1</sup> De la sanction en cas de dépassement des délais convenus ou fixés]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+**Art. 1220**
+
+[<sup>1</sup> § 1er. Sauf accord de toutes les parties ou découverte de nouveaux faits ou nouvelles pièces déterminants, le notaire-liquidateur ne tient pas compte des revendications, observations et pièces communiquées après l'échéance des délais convenus en application de l'article 1217 ou fixés à l'article 1218, §§ 1er et 2.
+
+§ 2. Si le notaire-liquidateur n'agit pas dans les délais convenus en application de l'article 1217 ou fixés par la loi, chacune des parties peut, par simple lettre déposée ou adressée au tribunal ayant désigné le notaire-liquidateur, solliciter la convocation du notaire-liquidateur et des parties.
+
+Le greffe notifie cette demande aux parties et au notaire-liquidateur par pli judiciaire.
+
+Dans les quinze jours de cette notification, le notaire-liquidateur adresse, le cas échéant, ses observations au tribunal et aux parties.
+
+Passé ce délai, le greffe convoque les parties et le notaire-liquidateur par pli judiciaire, pour une audience en chambre du conseil.
+
+Le juge entend le notaire-liquidateur et les parties, détermine à cette audience, en concertation avec le notaire-liquidateur, le calendrier pour la poursuite des opérations et se prononce sur le remplacement du notaire-liquidateur, lequel ne peut être prononcé si toutes les parties s'y opposent. Cette décision n'est pas susceptible d'aucun recours.
+
+Si le remplacement est prononcé pour les motifs visés à l'alinéa 1er, le greffe notifie la décision à la chambre des notaires de la compagnie dont relève le notaire-liquidateur, qui détermine s'il y a lieu de prononcer une peine disciplinaire, prévue à l'article 96 de la loi du 16 mars 1803 contenant organisation du notariat.
+
+§ 3. La même demande peut être formulée lorsque, en cas de désignation de deux notaires-liquidateurs, ceux-ci ne peuvent agir conjointement.
+
+En cette hypothèse, le tribunal, s'il ordonne le remplacement des notaires-liquidateurs, désigne un autre notaire-liquidateur.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+###### [<sup>1</sup> De l'interruption des délais convenus ou fixés]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+**Art. 1221**
+
+[<sup>1</sup> De l'accord de toutes les parties, les délais convenus ou fixés pour la poursuite de la procédure peuvent être interrompus. Les parties en informent par écrit le notaire-liquidateur.
+
+La partie la plus diligente informe par écrit le notaire-liquidateur et les autres parties, de la disparition du motif ayant justifié l'interruption. Sauf accord contraire de toutes les parties, le nouveau délai prend cours le jour suivant cette notification.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+###### [<sup>1</sup> De la communication des pièces]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+**Art. 1222**
+
+[<sup>1</sup> § 1er. Les parties communiquent entre elles, ainsi qu'au notaire-liquidateur, la copie des pièces auxquelles elles se réfèrent dans la phase notariale du partage judiciaire. Les parties classent, numérotent et énumèrent ces pièces dans un inventaire.
+
+§ 2. Sauf accord de toutes les parties, seules les pièces reprises dans l'inventaire des pièces et communiquées aux autres parties ainsi qu'au notaire-liquidateur dans les délais et selon la forme imposés par la loi sont prises en compte lors des opérations devant le notaire-liquidateur.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+###### [<sup>2</sup> De la liquidation donnant lieu, le cas échéant, à un partage en nature]<sup>2</sup>&gt;
+
+(1)&lt;Inséré par L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+(2)&lt;L 2025-06-18/02, art. 17, 209; En vigueur : 07-07-2025&gt;
+
+**Art. 1223**
+
+[<sup>1</sup> § 1er. Préalablement à [<sup>2</sup> la clôture des opérations et, le cas échéant, à]<sup>2</sup> l'attribution des lots, le cas échéant déterminés par l'expert, chaque [<sup>2</sup> partie]<sup>2</sup> peut formuler ses contredits à l'égard de l'état liquidatif contenant le projet [<sup>2</sup> de liquidation et, le cas échéant,]<sup>2</sup> de partage visé à l'article 1214, § 7, et, le cas échéant, faire valoir des observations et moyens à l'égard du rapport final d'expertise.
+
+A cette fin, le notaire-liquidateur somme les parties et autres intéressés par exploit d'huissier, par lettre recommandée ou contre accusé de réception daté, ainsi que leurs conseils par courrier ordinaire, télécopie ou courrier électronique, de prendre connaissance de l'état liquidatif contenant le projet [<sup>2</sup> de liquidation et, le cas échéant,]<sup>2</sup> de partage visé à l'article 1214, § 7, annexé à ladite [<sup>2</sup> sommation ainsi que, le cas échéant,]<sup>2</sup> du rapport final d'expertise qui leur a été préalablement communiqué par l'expert conformément à l'article 1213, § 2. Le notaire-liquidateur convoque en même temps les parties et autres intéressés [<sup>2</sup> à la clôture des opérations et, le cas échéant, à l'attribution des lots]<sup>2</sup>, qui se tiendront aux lieu, jour et heure fixés par le notaire-liquidateur.
+
+Dans sa sommation, le notaire-liquidateur avertit les parties qu'il sera procédé, tant en leur absence qu'en leur présence, [<sup>2</sup> à la clôture des opérations et, le cas échéant,]<sup>2</sup> à l'attribution des lots, le cas échéant par tirage au sort ou, en cas de désaccord sur la formation des lots ou sur l'état liquidatif contenant le projet [<sup>2</sup> de liquidation et, le cas échéant,]<sup>2</sup> de partage visé à l'article 1214, § 7, à l'établissement du procès-verbal des litiges ou difficultés visé à l'article 1223, § 3.
+
+Sauf accord de toutes les parties quant au délai qui suit, les parties disposent d'un délai d'un mois à compter de la date de la sommation pour faire part par écrit au notaire-liquidateur et aux autres parties de leurs contredits quant à l'état liquidatif contenant le projet [<sup>2</sup> de liquidation et, le cas échéant,]<sup>2</sup> de partage visé à l'article 1214, § 7, [<sup>2</sup> ainsi que, le cas échéant, de leurs observations]<sup>2</sup> sur le rapport final d'expertise donnant lieu auxdits contredits.
+
+§ 2. En l'absence de contredits formulés dans le respect des délais et de la forme visés au § 1er, alinéa 4, le notaire-liquidateur procède, [<sup>2</sup> à]<sup>2</sup> la clôture des opérations visée au § 1er, alinéa 2, [<sup>2</sup> et, le cas échéant,]<sup>2</sup> à l'attribution des lots conformément à l'accord de toutes les parties ou, à défaut d'un tel accord, par tirage au sort et signe, avec les parties comparantes, le procès-verbal de clôture.
+
+[<sup>2</sup> L'acte portant la liquidation et, le cas échéant, le partage]<sup>2</sup> est définitif [<sup>2</sup> comme liquidation et, le cas échéant, partage amiables]<sup>2</sup>, sans préjudice, le cas échéant, de l'application de l'article 1206, alinéas 5 et 6.
+
+§ 3. Lorsque des contredits ont été formulés dans le respect des délais et de la forme visés au § 1er, alinéa 4, le notaire-liquidateur dresse, en lieu et place de la clôture des opérations visée au § 1er, alinéa 2, un procès-verbal des litiges ou difficultés contenant la description de tous ces contredits.
+
+Les contredits ne peuvent porter atteinte aux accords actés conformément aux articles 1209, § 1er, ou 1214, § 1er, alinéa 2.
+
+En cas d'observations ou de contredits adressés successivement au notaire-liquidateur par la même partie, celui-ci ne tient compte que des dernières observations ou contredits qui lui ont été communiqués dans le respect des délais visés au § 1er, alinéa 4.
+
+Sauf accord contraire de toutes les parties et du notaire-liquidateur, celui-ci fait signifier aux parties par exploit d'huissier ou leur adresse par lettre recommandée ou leur remet contre accusé de réception daté, ainsi qu'à leurs conseils par courrier ordinaire, télécopie ou courrier électronique, une copie du procès-verbal visé à l'alinéa 1er ainsi que son avis écrit sur les litiges ou difficultés, dans les deux mois à compter de l'échéance du délai visé au § 1er, alinéa 4.
+
+Simultanément, le notaire-liquidateur dépose au greffe une expédition du procès-verbal des litiges ou difficultés, de son avis écrit, du procès-verbal d'ouverture des opérations ainsi que de tous les procès-verbaux subséquents et de l'inventaire, une copie de l'inventaire des pièces des parties, ainsi qu'une expédition de l'état liquidatif contenant le projet [<sup>2</sup> de liquidation et, le cas échéant,]<sup>2</sup> de partage visé à l'article 1214, § 7.
+
+Ce dépôt saisit le tribunal. Le greffe convoque les parties par pli judiciaire et leurs conseils par courrier ordinaire, télécopie ou courrier électronique, pour une audience à l'occasion de laquelle les parties sont entendues sur la base de leurs contredits formulés conformément au § 1er, qui tiennent lieu de conclusions, sans préjudice de la possibilité de remettre la cause à une audience de plaidoiries ultérieure ou de faire application, eu égard de la complexité du litige, de l'article 747.
+
+§ 4. Le tribunal tranche les litiges ou difficultés, homologue purement et simplement l'état liquidatif contenant le projet [<sup>2</sup> de liquidation et, le cas échéant,]<sup>2</sup> de partage ou le renvoie au notaire-liquidateur pour faire, dans les délais qu'il fixe, un état liquidatif complémentaire ou un état liquidatif conforme à ses directives.
+
+Sauf accord de toutes les parties ou sous réserve de la survenance de faits nouveaux ou de la découverte de pièces nouvelles déterminants, le tribunal ne connaît que des litiges ou difficultés résultant des contredits actés aux termes du procès-verbal visé au § 3, alinéa 1er.
+
+§ 5. En cas d'homologation de l'état liquidatif contenant le projet [<sup>2</sup> de liquidation et, le cas échéant,]<sup>2</sup> de partage, le greffier notifie au notaire-liquidateur la décision intervenue. Le notaire-liquidateur dépose [<sup>2</sup> la décision au rang de ses minutes à la requête de la partie qui poursuit l'exécution provisoire de celle-ci conformément à l'article 1398 ou, si la décision n'est pas exécutoire par provision, lorsque celle-ci est passée en force de chose jugée]<sup>2</sup>.
+
+§ 6. En cas d'établissement d'un état liquidatif contenant projet [<sup>2</sup> de liquidation et, le cas échéant,]<sup>2</sup> de partage complémentaire ou d'un état liquidatif contenant projet [<sup>2</sup> de liquidation et, le cas échéant,]<sup>2</sup> de partage conforme aux directives du tribunal, le notaire-liquidateur somme les parties et autres intéressés par exploit d'huissier, par lettre recommandée ou contre accusé de réception daté, ainsi que leurs conseils par courrier ordinaire, télécopie ou courrier électronique, de prendre connaissance de cet état, qu'il annexe à ladite sommation. Le notaire-liquidateur convoque en même temps les parties et autres intéressés à la clôture des opérations, qui se tiendra aux lieu, jour et heure qu'il fixe.
+
+Sauf accord contraire de toutes les parties quant au délai qui suit, celles-ci disposent d'un délai d'un mois à compter de la date de la sommation pour faire part par écrit au notaire-liquidateur et aux autres parties de leurs contredits quant à cet état. L'article 1223, § 3, alinéa 3, est applicable.
+
+Sauf découverte de nouveaux faits ou de nouvelles pièces déterminants, les contredits ne peuvent porter que sur les litiges ou difficultés liés à l'adaptation de l'état liquidatif conformément aux directives du tribunal ou, le cas échéant, sur les litiges ou difficultés nouveaux résultant de ladite adaptation.
+
+Lorsque des contredits ont été formulés dans le respect des délais et de la forme visés à l'alinéa 2, le notaire-liquidateur dresse un procès-verbal des litiges ou difficultés contenant la description de tous ces contredits. La procédure se poursuit conformément à l'article 1223, § 3, alinéas 4 à 6.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+(2)&lt;L 2025-06-18/02, art. 17, 209; En vigueur : 07-07-2025&gt;
+
+###### [<sup>1</sup> De la vente des biens non commodément partageables en nature]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+**Art. 1224**
+
+[<sup>1</sup> § 1er. S'il ressort soit d'un accord de toutes les parties, soit de l'avis du notaire-liquidateur fondé, le cas échéant, sur le rapport déposé par l'expert, qu'il est impossible de partager commodément en nature, le notaire-liquidateur dresse, sauf en cas d'accord de toutes les parties quant à la vente de gré à gré conformément à l'article 1214, § 1er, alinéa 2, le cahier des charges de la vente publique des immeubles non commodément partageables en nature et somme les parties par exploit d'huissier, par lettre recommandée ou contre accusé de réception daté, ainsi que leurs conseils par courrier ordinaire, télécopie ou courrier électronique, d'en prendre connaissance et de lui faire part, par écrit, de leurs contredits dans le mois suivant la sommation, sauf accord contraire de toutes les parties quant à ce délai. La sommation mentionne explicitement ce délai. Simultanément, le notaire liquidateur fait sommation aux parties de suivre les opérations de vente.
+
+§ 2. En l'absence de contredits formulés par les parties conformément au paragraphe 1er sur le principe de la vente, le notaire-liquidateur est présumé requis de poursuivre les opérations de vente.
+
+Il est procédé à l'adjudication à la requête d'au moins une des parties.
+
+§ 3. En cas de contredits formulés par les parties conformément au § 1er, soit sur le principe de la vente, soit sur les conditions de celle-ci, le notaire-liquidateur agit conformément à l'article 1216.
+
+§ 4. Si le tribunal constate que le partage commode en nature est impossible, il ordonne la vente et fixe, le cas échéant, un nouveau délai pour l'adjudication.
+
+En cas d'absence ou de non-collaboration des parties ou de l'occupant des biens immobiliers dont la vente est ordonnée, le notaire-liquidateur est autorisé, aux frais de la masse, à accéder aux biens immobiliers concernés, au besoin avec le concours de la force publique, assistée, le cas échéant, par un serrurier, pour faire respecter les conditions de vente ou pour permettre la visite des lieux par les personnes intéressées.
+
+L'occupant est informé du jugement et des jours et heures de visite prévus dans les conditions de vente.
+
+Si l'absence de collaboration est due à l'occupant des biens immobiliers dont la vente est ordonnée, la masse, le cas échéant représentée par le gestionnaire visé à l'article 1212, est autorisée à récupérer ses frais et d'éventuels dommages-intérêts auprès de l'occupant. Si l'occupant est l'un des indivisaires et qu'aucun gestionnaire visé à l'article 1212 n'a encore été désigné, un tel gestionnaire est nommé à la requête de la partie la plus diligente pour agir en ce sens; en ce cas, les frais sont récupérés pour le compte des autres indivisaires.
+
+Les alinéas 2 à 4 sont repris dans le jugement ordonnant la vente des immeubles.
+
+S'il en est requis par au moins une des parties, le notaire-liquidateur procède à la vente des immeubles conformément à ce qui est usité à l'égard des ventes publiques ordinaires d'immeubles et conformément à l'article 1193, alinéas 2 à 8, ainsi que, le cas échéant, conformément aux articles 1186 à 1192.
+
+Le notaire-liquidateur fait sommation aux parties, par exploit d'huissier, par lettre recommandée ou contre accusé de réception daté, d'assister aux opérations de vente et en informe leurs conseils par courrier ordinaire, télécopie ou courrier électronique.
+
+Il est procédé à l'adjudication à la requête d'au moins une des parties.
+
+Postérieurement à la vente, la procédure se poursuit conformément à l'article 1223.
+
+§ 5. Si le tribunal constate que le partage commode en nature est possible, le jugement qu'il rend produit, pour l'application de l'article 1218, § 3, 3°, les effets du jugement rendu en application de l'article 1216.
+
+§ 6. Si en raison de la situation des immeubles, plusieurs expertises distinctes ont eu lieu et si chaque immeuble a été déclaré non commodément partageable en nature, il n'y a pas lieu à licitation s'il résulte de la confrontation des rapports que la totalité des immeubles peut se partager commodément.
+
+Dans ce cas, le notaire-liquidateur procède au lotissement des biens et agit ainsi qu'il est prévu à l'article 1223.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-08-11/14, art. 32, 162; En vigueur : 01-05-2018&gt;
+
+**Art. 1224/1**
+
+[<sup>1</sup> § 1er. Lorsque les biens non commodément partageables en nature au sens de l'article 1224, § 1er, sont des meubles et à défaut d'accord des parties quant à leur vente, le notaire-liquidateur somme celles-ci, par exploit d'huissier, par lettre recommandée ou contre accusé de réception daté, ainsi que leurs conseils par courrier ordinaire, télécopie ou courrier électronique, de prendre connaissance de la nécessité de procéder à la vente et de lui faire part, par écrit, de leurs contredits dans le mois suivant la sommation, sauf accord contraire de toutes les parties quant à ce délai. La sommation mentionne explicitement ce délai.
+
+§ 2. En l'absence de contredits formulés par les parties conformément au § 1er sur le principe de la vente, le notaire-liquidateur est présumé requis de poursuivre les opérations de vente.
+
+Il est procédé à l'adjudication à la requête d'au moins une des parties.
+
+§ 3. En cas de contredits formulés par les parties sur le principe de la vente conformément au § 1er, le notaire-liquidateur agit conformément à l'article 1216.
+
+§ 4. Si le tribunal constate que le partage commode en nature est impossible, il ordonne la vente.
+
+S'il en est requis par au moins une des parties, le notaire-liquidateur procède à la vente conformément aux articles 1194 à 1204bis, le cas échéant à l'intervention de l'huissier de justice qu'il désigne.
+
+Il est procédé à l'adjudication à la requête d'au moins une des parties.
+
+§ 5. Si le tribunal constate que le partage commode en nature est possible, le jugement qu'il rend produit, pour l'application de l'article 1218, § 3, 3°, les effets du jugement rendu en application de l'article 1216.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-08-11/14, art. 33, 162; En vigueur : 01-05-2018&gt;
+
+###### Sous-section 7. - [<sup>1</sup> De l'appel]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+**Art. 1224/2**
+
+[<sup>1</sup> Lorsqu'il porte sur un jugement prononcé avant l'ouverture des opérations visée à l'article 1215, l'appel n'opère pas d'effet dévolutif. Une fois cet appel tranché, la cause est renvoyée au premier juge.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-08-13/17, art. 5, 114; En vigueur : 01-04-2012&gt;
+
+##### Section III\_ Disposition commune aux deux sections précédentes.
+
+**Art. 1225**
+
+&lt;L 1991-07-18/33, art. 16, 9°, 017; En vigueur : 26-07-1992.&gt; Les dispositions du présent chapitre relatives [<sup>2</sup> aux liquidations ou]<sup>2</sup> aux partages auxquels des mineurs sont intéressés, sont également applicables [<sup>2</sup> aux liquidations ou aux partages auxquels sont intéressées des personnes protégées]<sup>2</sup> [<sup>1</sup> déclarées incapables, en vertu de l'article 492/1 [<sup>2</sup> de l'ancien Code civil]<sup>2</sup>, d'aliéner des biens]<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup> et des personnes disparues, visées à l'article 128 du Code civil, et des présumés absents). &lt;L 2007-05-09/44, art. 44, 089; En vigueur : 01-07-2007&gt;
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 171, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+(2)&lt;L 2025-06-18/02, art. 17, 209; En vigueur : 07-07-2025&gt;
+
+#### CHAPITRE VII- (De la présomption et de la déclaration d'absence et de la déclaration judiciaire de décès). &lt;L 2007-05-09/44, art. 45, 089; En vigueur : 01-07-2007&gt;
+
+**Art. 1226**
+
+&lt;L 2007-05-09/44, art. 46, 089; En vigueur : 01-07-2007&gt;§ 1er. Les demandes fondées sur les articles 112, 118, 126 et 127 du Code civil sont introduites par requête, pièces à l'appui.
+
+Les articles 1026 à 1034 sont applicables, sous réserve des dispositions qui suivent, de l'article 112 du Code civil, et des articles 118 à 135 du même Code.
+
+§ 2. La requête contient à peine de nullité :
+
+1° l'indication des jour, mois et an;
+
+2° les nom, prénom [<sup>3</sup> ...]<sup>3</sup> et domicile du requérant [<sup>2</sup> et, le cas échéant, [<sup>4</sup> son numéro de registre national ou son numéro d'identification dans le registre bis]<sup>4</sup>,]<sup>2</sup> ainsi que le degré de parenté ou la nature des relations qui existent entre le requérant et la personne disparue ou présumée absente;
+
+3° l'objet et l'indication sommaire des motifs de la demande;
+
+4° les nom, prénom, résidence ou domicile de la personne disparue ou présumée absente et, le cas échéant, du conjoint, du cohabitant, et des parents et alliés au degré successible de la personne disparue ou présumée absente;
+
+5° la désignation du juge qui doit en connaître.
+
+[<sup>1</sup> Lorsque la demande est fondée sur l'article 112 du Code civil, la requête ainsi que toutes les pièces dûment inventoriées sont déposées en double exemplaire à la justice de paix. Dès leur dépôt, le greffier en communique un exemplaire au ministère public.]<sup>1</sup>
+
+Lorsque la demande est fondée sur l'article 126 du Code civil, la requête contient, à peine de nullité, les nom, prénom et domicile du notaire chargé de représenter les intérêts de la personne disparue dans toute opération de partage ou de succession qui pourrait la concerner et ce, jusqu'au prononcé du jugement.
+
+La requête est signée par le requérant, par son notaire ou son avocat. Si la personne disparue ou présumée absente a eu un domicile en Belgique, la requête est accompagnée d'une attestation de domicile de celle-ci ne datant pas de plus de quinze jours.
+
+La requête mentionne en outre, dans la mesure du possible, le lieu et la date de naissance de la personne disparue ou présumée absente, ainsi que la nature et la composition des biens à gérer.
+
+Si la requête est incomplète, le juge invite le requérant à la compléter dans un délai qu'il fixe.
+
+§ 3. Le procureur du Roi recueille tous renseignements utiles, le cas échéant auprès du conjoint, du cohabitant, et des parents et alliés jusqu'au quatrième degré de la personne disparue ou présumée absente.
+
+Lorsque la disparition est survenue à l'étranger, il peut requérir en outre le concours du service public fédéral Affaires étrangères et des agents diplomatiques et consulaires belges à l'étranger. Ceux-ci lui communiquent tous les renseignements et copies de documents qu'il juge utiles à la poursuite de l'instruction.
+
+Le tribunal statue, le ministère public préalablement entendu en son avis.
+
+[<sup>1</sup> Lorsque la demande est fondée sur l'article 112 du Code civil, le juge de paix statue, le ministère public préalablement entendu en son avis écrit ou oral.]<sup>1</sup>
+
+§ 4. Le greffier informe en outre, par pli judiciaire, les membres de la famille mentionnés dans la requête de l'introduction de celle-ci.
+
+Les personnes convoquées par pli judiciaire deviennent par cette convocation parties à la cause, sauf si elles s'y opposent à l'audience. Le greffier en avise les parties dans le pli judiciaire.
+
+Celles-ci peuvent comparaître en personne à l'audience et demander à être entendues. Elles peuvent également communiquer leurs observations au juge, par écrit, avant le jour de l'audience.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 171, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2018-10-14/18, art. 20, 173; En vigueur : 01-02-2019&gt;
+
+(3)&lt;L 2018-12-21/09, art. 130, 174; En vigueur : 10-01-2019&gt;
+
+(4)&lt;L 2023-12-19/08, art. 18, 202; En vigueur : 08-01-2024&gt;
+
+**Art. 1227**
+
+&lt;L 2007-05-09/44, art. 47, 089; En vigueur : 01-07-2007&gt; § 1er. Sans préjudice des dispositions du Code civil autorisant la saisine d'office du juge, les demandes fondées sur les articles 113 à 117 du Code civil sont introduites par requête, pièces à l'appui.
+
+Les articles 1026 à 1034 sont applicables, sous réserve des dispositions qui suivent.
+
+§ 2. La requête contient à peine de nullité les indications prévues à l'article 1226, § 2, alinéa 1er. Elle contient en outre, à peine de nullité, les nom, prénom, et domicile de l'administrateur judiciaire.
+
+La requête est signée par le requérant, par son notaire ou son avocat.
+
+La requête mentionne en outre, dans la mesure du possible, le lieu et la date de naissance de la personne présumée absente, ainsi que la nature et la composition des biens à gérer.
+
+Si la requête est incomplète, le juge invite le requérant à la compléter dans les huit jours.
+
+§ 3. Le procureur du Roi recueille tous renseignements utiles auprès de l'administrateur judiciaire et, le cas échéant, auprès du conjoint, du cohabitant, et des parents et alliés jusqu'au quatrième degré de la personne disparue ou présumée absente.
+
+[<sup>1</sup> Lorsque la demande est fondée sur l'article 113, § 2, ou 117, § 1er, du Code civil, le juge de paix statue, le ministère public préalablement entendu en son avis écrit ou oral.]<sup>1</sup>
+
+§ 4. Le greffier informe en outre, par pli judiciaire, l'administrateur judiciaire et les membres de la famille mentionnés dans la requête, de l'introduction de celle-ci.
+
+Les personnes convoquées par pli judiciaire deviennent par cette convocation parties à la cause, sauf si elles s'y opposent à l'audience. Le greffier en avise les parties dans le pli judiciaire.
+
+Celles-ci peuvent comparaître en personne à l'audience et demander à être entendues. Elles peuvent aussi communiquer leurs observations au juge, par écrit, avant le jour de l'audience.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 172, 130; En vigueur : 01-09-2014&gt;
+
+#### CHAPITRE VIII. \_ Des successions vacantes.
+
+**Art. 1228**
+
+Dans le cas prévu à l'article [<sup>3</sup> 4.58, § 1er,]<sup>3</sup> du Code civil, il est pourvu par (le tribunal de [<sup>1</sup> la famille]<sup>1</sup>) à la désignation d'un curateur sur la requête de tout intéressé ou sur la réquisition du procureur du Roi. &lt;L 24-6-1970, art. 27&gt;
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 173, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2019-05-05/19, art. 127, 177; En vigueur : 29-06-2019&gt;
+
+(3)&lt;L 2022-01-19/18, art. 29, 189; En vigueur : 01-07-2022&gt;
+
+**Art. 1229**
+
+S'il advenait que plusieurs curateurs eussent été nommés, le premier curateur désigné serait préféré de plein droit, sans préjudice de la validité des actes accomplis par l'autre curateur avant son dessaisissement.
+
+**Art. 1230**
+
+Les formalités prescrites par le Code civil pour l'héritier bénéficiaire s'appliquent au mode d'administration et au compte à rendre par le curateur à la succession vacante.
+
+**Art. 1231**
+
+[<sup>1</sup> La désignation d'un curateur en application de l'article [<sup>2</sup> 4.58, § 1er,]<sup>2</sup> du Code civil est enregistrée dans les quinze jours dans le registre central successoral, visé aux articles [<sup>2</sup> 4.125]<sup>2</sup> et suivants du Code civil.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-05/19, art. 128, 177; En vigueur : 29-06-2019&gt;
+
+(2)&lt;L 2022-01-19/18, art. 30, 189; En vigueur : 01-07-2022&gt;
+
+#### CHAPITRE VIIIBIS. - De l'adoption. &lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt;
+
+##### Section 1re. - Disposition générale. &lt;Insérée par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt;
+
+**Art. 1231-1**
+
+[<sup>1</sup> Chaque fois qu'une demande portant sur la reconnaissance en Belgique d'une décision étrangère en matière d'adoption est pendante devant l'autorité centrale fédérale, ou devant la juridiction saisie du recours introduit contre la décision de l'autorité centrale fédérale, le tribunal de la famille saisi d'une requête en établissement d'une adoption concernant le même enfant ne peut statuer qu'après que la décision de l'autorité centrale fédérale n'est plus susceptible de recours ou que, en cas de recours contre cette décision, la décision de la juridiction saisie du recours est coulée en force de jugée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 13, 154; En vigueur : 03-08-2017&gt;
+
+##### Section 1rebis. [<sup>1</sup> - Dispositions relatives à l'aptitude à adopter]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 14, 154; En vigueur : 01-01-2020&gt;
+
+###### Sous-section 1re. [<sup>1</sup> - Disposition générale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 15, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-1/1**
+
+[<sup>1</sup> La présente section s'applique dans les cas visés [<sup>2</sup> aux articles 346-1/1, alinéa 1er, et 361-1]<sup>2</sup>, du Code civil.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 16, 154; En vigueur : 01-01-2020&gt;
+
+(2)&lt;L 2020-07-31/03, art. 24, 181; En vigueur : 01-01-2020&gt;
+
+###### Sous-section 2. [<sup>1</sup> - De la procédure en constatation de l'aptitude à adopter]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 17, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-1/2.**
+
+[<sup>1</sup> La demande est introduite par voie de requête unilatérale devant le tribunal de la famille. La requête est déposée au greffe et signée soit par l'adoptant ou les adoptants, soit par leur avocat.
+
+Sont annexés à la requête :
+
+1° l'original ou une copie certifiée conforme des documents requis pour l'examen de la demande;
+
+2° le certificat attestant que la préparation organisée par la communauté compétente a été suivie.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 18, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-1/3.**
+
+[<sup>1</sup> § 1er. Pour que la requête soit recevable, y sont annexés, outre le certificat visé à l'article 1231-1/2, alinéa 2, 2°, les documents ou les données suivants, pour autant qu'ils ne soient pas disponibles dans la BAEC ou dans les registres de la population ou dans le registre des étrangers :
+
+1° une copie de l'acte de naissance ou un acte équivalent;
+
+2° une preuve de la nationalité;
+
+3° une déclaration concernant le lieu d'inscription dans les registres de la population ou le registre des étrangers, ou, à défaut, la résidence habituelle de l'adoptant ou des adoptants et de l'adopté;
+
+4° un extrait d'acte de mariage ou un extrait de déclaration de cohabitation légale ou encore la preuve d'une cohabitation de plus de trois ans.
+
+§ 2. Lors de la réception de la requête, le greffier vérifie si les documents ou les données manquants sont disponibles dans la BAEC ou dans les registres de la population ou le registre des étrangers.
+
+Si l'acte de naissance ou l'acte de mariage est établi en Belgique ou transcrit en Belgique avant [<sup>2</sup> le 31 mars 2019]<sup>2</sup>, il invite l'officier de l'état civil qui a établi ou transcrit l'acte à enregistrer l'acte dans la BAEC.
+
+§ 3. Si les mentions de la requête sont incomplètes, ou certaines informations manquent pour l'audience d'introduction, le juge invite la partie la plus diligente à communiquer les informations requises ou à compléter le dossier de la procédure.
+
+Chaque partie peut aussi prendre elle-même l'initiative de constituer le dossier.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 19, 154; En vigueur : 01-01-2020&gt;
+
+(2)&lt;L 2023-09-13/08, art. 70, 199; En vigueur : 01-01-2024&gt;
+
+**Art. 1231-1/4**
+
+[<sup>1</sup> Dans les trente jours de la requête visée à l'article 1231-1/2, le tribunal ordonne d'office, sans convocation des parties, et par ordonnance, une enquête sociale afin de l'éclairer sur l'aptitude à adopter de l'adoptant ou des adoptants. Cette ordonnance n'est susceptible ni d'opposition ni d'appel. Au cours de cette enquête sociale, les services désignés par les communautés compétentes sont consultés.
+
+Le rapport de l'enquête sociale est remis au greffe dans les quatre mois du prononcé de cette ordonnance. II est communiqué au ministère public.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 20, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-1/5**
+
+[<sup>1</sup> Parallèlement à la réalisation de l'enquête sociale visée à l'article 1231-1/4, le ministère public procède à une enquête de moralité sur la personne de l'adoptant ou des adoptants, notamment par la consultation de leur casier judiciaire. Le ministère public vérifie la qualification à adopter des requérants et rédige un avis écrit qui est déposé au dossier de la procédure huit jours avant l'audience.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 21, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-1/6**
+
+[<sup>1</sup> Dans les trois jours du dépôt au greffe du rapport de l'enquête sociale, l'adoptant ou les adoptants sont convoqués par pli judiciaire :
+
+1° pour prendre connaissance du rapport; ils disposent à cette fin d'un délai de quinze jours;
+
+2° à comparaître en personne devant le tribunal dans le mois qui suit l'expiration du délai visé au 1°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 22, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-1/7**
+
+[<sup>1</sup> Le tribunal de la famille se prononce ensuite sur l'aptitude de l'adoptant ou des adoptants à procéder à une adoption.
+
+Le jugement est motivé. S'il est positif, il mentionne le nombre d'enfants que l'adoptant ou les adoptants seraient aptes à adopter, ainsi que les éventuelles restrictions à leur aptitude.
+
+Le jugement ne peut servir que pour une procédure en adoption d'un ou de plusieurs enfants. Sa validité expire quatre ans après son prononcé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 23, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-1/8**
+
+[<sup>1</sup> Dans les trois jours qui suivent la date à laquelle le jugement est devenu définitif, le greffier en adresse une copie à l'autorité centrale fédérale. Si le jugement conclut à l'aptitude du ou des adoptants, le greffier lui adresse également une copie de l'avis écrit du ministère public visé à l'article 1231-1/5. Le greffier en avise l'adoptant ou les adoptants.
+
+L'autorité centrale fédérale fait application des articles 346-2/1 et 361-2 du Code civil.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 24, 154; En vigueur : 01-01-2020&gt;
+
+###### Sous-section 3. [<sup>1</sup> - De la procédure en prolongation du délai d'aptitude à adopter]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 25, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-1/9**
+
+[<sup>1</sup> L'adoptant ou les adoptants peuvent introduire une demande en prolongation du délai de leur aptitude à adopter par voie de requête unilatérale devant le tribunal de la famille qui a prononcé le jugement d'aptitude initial. La requête est déposée au greffe au plus tôt cinq mois avant l'expiration de la validité du jugement d'aptitude et au plus tard le dernier jour de la validité du jugement d'aptitude. La requête est signée soit par l'adoptant ou les adoptants, soit par leur avocat et elle précise que le ou les adoptants souhaitent poursuivre une procédure d'adoption.
+
+L'adoptant ou les adoptants transmettent une copie de la requête et une attestation de composition de ménage à l'autorité centrale communautaire compétente.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 26, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-1/10**
+
+[<sup>1</sup> Pour que la requête soit recevable, y sont annexés les documents visés à l'article 1231-1/3, à l'exception de la copie certifiée conforme de l'acte de naissance ou de l'acte équivalent.
+
+En outre, y est annexé la convention signée entre l'adoptant ou les adoptants et un organisme agréé d'adoption ou l'accord de l'autorité centrale communautaire compétente donné sur le projet d'adoption.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 27, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-1/11**
+
+[<sup>1</sup> § 1er. Dès réception de la requête, le greffe envoie sans délai une copie à l'autorité centrale communautaire compétente qui examine tous les éléments relevants.
+
+§ 2. S'il résulte de cet examen que la situation du ou des adoptants n'a pas subi de changement susceptible de modifier l'aptitude constatée par le jugement d'aptitude initial, l'autorité centrale communautaire compétente transmet au greffe, endéans le mois, une attestation motivée afin d'en informer le tribunal de la famille.
+
+§ 3. S'il résulte de cet examen que la situation du ou des adoptants a subi des changements susceptibles de modifier l'aptitude constatée par le jugement d'aptitude initial, l'autorité centrale communautaire compétente en informe le greffe endéans le mois et procède sans délai à une actualisation de l'enquête sociale.
+
+L'autorité centrale communautaire compétente transmet au greffe une actualisation du rapport de l'enquête sociale établi dans le cadre de la procédure en constatation de l'aptitude à adopter dans un délai de deux mois à compter de la réception de la communication écrite du greffe visée au paragraphe 1er.
+
+L'actualisation du rapport de l'enquête sociale est réalisée par les services compétents pour établir le rapport de l'enquête sociale initiale.
+
+L'actualisation comprend une évaluation de la situation actuelle de l'adoptant ou des adoptants et décrit les éventuels éléments susceptibles d'avoir une incidence sur l'aptitude à adopter.
+
+§ 4. A défaut pour le greffe d'avoir été informé par l'autorité centrale communautaire compétente de la situation du ou des adoptants dans le délai d'un mois visé aux paragraphes 2 et 3, le ou les adoptants sont présumés être dans une situation identique à celle constatée par le jugement d'aptitude initial. Le greffe en informe le ministère public.
+
+Le ministère public procède à une actualisation de l'enquête de moralité réalisée en application de l'article 1231-1/5. Il rédige un avis écrit qui est déposé au dossier de la procédure huit jours avant l'audience.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 28, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-1/12**
+
+[<sup>1</sup> Dans les cas visés à l'article 1231-1/11, § 3, l'adoptant ou les adoptants sont convoqués par pli judiciaire dans les trois jours du dépôt au greffe de l'actualisation du rapport de l'enquête sociale :
+
+1° pour prendre connaissance du rapport dans un délai de quinze jours;
+
+2° afin de comparaître en personne devant le tribunal de la famille dans les quinze jours qui suivent l'expiration du délai visé au 1°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 29, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-1/13**
+
+[<sup>1</sup> Le tribunal de la famille se prononce sur la prolongation du délai d'aptitude de l'adoptant ou des adoptants à procéder à une adoption :
+
+1° dans les cas visés à l'article 1231-1/11, § 2, dans les quinze jours de la réception de l'attestation motivée de l'autorité centrale communautaire compétente, sans convocation des parties, sauf si le juge décide de les convoquer;
+
+2° dans les cas visés à l'article 1231-1/11, § 3, dans les quinze jours de l'audience;
+
+3° dans les cas visés à l'article 1231-1/11, § 4, dans les quinze jours qui suivent l'expiration du délai d'un mois.
+
+Le jugement, s'il échet, mentionne le nombre d'enfants que l'adoptant ou les adoptants seraient aptes à adopter, ainsi que les éventuelles restrictions à leur aptitude.
+
+Le jugement en prolongation du délai d'aptitude à adopter ne peut servir que pour une procédure en adoption d'un ou de plusieurs enfants.
+
+La validité du jugement expire deux ans après son prononcé. Toutefois, si au moment du dépôt de la requête, un enfant a été proposé et accepté, le tribunal peut prévoir que la validité du jugement de renouvellement de l'aptitude est maintenue jusqu'au prononcé de l'adoption.
+
+Le jugement en prolongation du délai d'aptitude à adopter produit ses effets au jour de l'expiration du précédent jugement d'aptitude.
+
+L'adoptant ou les adoptants peuvent introduire des demandes successives de prolongation du délai de leur aptitude à adopter, dans le cadre de la même procédure en adoption.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 30, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-1/14**
+
+[<sup>1</sup> Dans les trois jours qui suivent la date à laquelle le jugement est devenu définitif, le greffier en adresse une copie à l'autorité centrale fédérale. Si le jugement prolonge le délai d'aptitude à adopter, le greffier lui adresse également une copie de l'avis écrit du ministère public visé à l'article 1231-1/11, § 4, alinéa 2. Le greffier en avise l'adoptant ou les adoptants.
+
+L'autorité centrale fédérale et l'autorité centrale communautaire compétente font application des articles 346-2/1 et 361-2 du Code civil.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 31, 154; En vigueur : 01-01-2020&gt;
+
+##### Section 2. - De l'adoption interne. &lt;Insérée par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt;
+
+**Art. 1231-2**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Les dispositions de la présente Section s'appliquent aux adoptions n'impliquant pas le déplacement international d'un enfant.
+
+###### Sous-section 1re. - De l'établissement de l'adoption sur requête de l'adoptant ou des adoptants &lt;Insérée par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt;
+
+**Art. 1231-3**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; La demande est introduite par voie de requête (unilatérale), devant le [<sup>1</sup> tribunal de la famille]<sup>1</sup>. La requête est déposée au greffe et signée soit par l'adoptant ou les adoptants, soit par leur avocat. [<sup>2</sup> Dans les cas où l'obtention d'un jugement déclarant les requérants qualifiés et aptes à assumer une adoption est requis en application de l'article 346-1/1 du Code civil, la requête est introduite avant l'expiration du délai de validité de ce jugement.]<sup>2</sup> &lt;L 2004-12-27/30, art. 244, 070; En vigueur : 10-01-2005&gt;
+
+La requête précise si elle porte sur une adoption simple ou sur une adoption plénière, et les raisons pour lesquelles l'adoptant ou les adoptants ont choisi ce type d'adoption. Elle mentionne également les nom et prénoms choisis, dans la mesure permise par la loi, pour l'adopté. Sont annexés à la requête :
+
+1° l'original ou une copie certifiée conforme des documents requis pour l'examen de la demande;
+
+2° le certificat attestant que la préparation visée à l'article 346-2 du Code civil a été suivie;
+
+[<sup>2</sup> 3° dans les cas où l'obtention d'un jugement déclarant les requérants qualifiés et aptes à assumer une adoption est requis en application de l'article 346-1/1 du Code civil, une copie certifiée conforme de ce jugement et de la convention signée entre l'adoptant ou les adoptants et l'organisme agréé qui leur a confié l'enfant.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 174, 130; En vigueur : 01-09-2014, voir aussi L 2014-05-08/02, art. 75, 132; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2017-07-06/24, art. 32, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-4**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; [<sup>1</sup> § 1er. Pour que la requête soit recevable, les actes ou données suivants y sont annexés, pour autant qu'ils ne soient pas disponibles dans la BAEC, dans le registre de la population ou dans le registre des étrangers :
+
+1° une copie de l'acte de naissance ou un acte équivalent;
+
+2° une preuve de la nationalité;
+
+3° une attestation relative au lieu d'inscription au registre de la population ou au registre des étrangers ou, à défaut, une attestation de résidence habituelle de l'adoptant ou des adoptants, et de l'adopté;
+
+4° un extrait d'acte de mariage ou un extrait de déclaration de cohabitation légale ou encore la preuve d'une cohabitation de plus de trois ans.
+
+§ 2. A la réception de la requête, le greffier vérifie si les documents ou données qui font défaut dans la requête sont disponibles dans la BAEC ou dans le registre de la population ou le registre des étrangers.
+
+Si l'acte de naissance ou l'acte de mariage a été établi en Belgique ou a été transcrit en Belgique avant [<sup>2</sup> le 31 mars 2019]<sup>2</sup>, il demande à l'officier qui a établi ou transcrit cet acte, de l'enregistrer dans la BAEC.
+
+§ 3. Si les mentions de la requête sont incomplètes, ou que certaines informations manquent pour l'audience d'introduction, le juge invite la partie la plus diligente à communiquer les informations requises ou à compléter le dossier de la procédure.
+
+Chaque partie peut aussi prendre elle-même l'initiative de constituer le dossier.
+
+§ 4. Dans les trois jours de la réception de la requête, le greffier en avise les descendants de l'adopté. Le greffier transmet en outre une copie de la requête à l'autorité centrale fédérale. L'autorité centrale fédérale en avise ensuite les autorités centrales communautaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 70/1, 167; En vigueur : 31-03-2019&gt;
+
+(2)&lt;L 2023-09-13/08, art. 70, 199; En vigueur : 01-01-2024&gt;
+
+**Art. 1231-5**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Dans les huit jours de la réception de la requête en adoption, le greffier la transmet au procureur du Roi, qui [<sup>2</sup> procède à une enquête de moralité sur la personne de l'adoptant ou des adoptants, notamment par la consultation de leur casier judiciaire, ou dans les cas où telle enquête a déjà été réalisée en application de l'article 1231-1/5, à l'actualisation de cette enquête, et]<sup>2</sup> recueille sans délai tous renseignements utiles sur le projet d'adoption. Ces renseignements comprennent notamment :
+
+1° l'avis de la mère et du père de l'adopté et, le cas échéant, de son tuteur, de son subrogé tuteur et du juge de paix tutélaire ou, si l'un d'eux a désigné un représentant en application de l'article 348-9 du Code civil, l'avis de ce dernier;
+
+2° [<sup>1</sup> l'avis de la personne de confiance, si le tribunal a constaté par procès-verbal, en vertu de l'article 348-1, alinéa 2, du Code civil, que la personne protégée est incapable d'exprimer sa volonté;]<sup>1</sup>
+
+3° (l'avis des descendants au premier degré, âgés d'au moins douze ans, de l'adoptant ou des adoptants et de l'adopté;) &lt;L 2004-12-27/30, art. 245, 070; En vigueur : 10-01-2005&gt;
+
+4° l'avis de la personne qui a recueilli l'enfant pour en assurer l'entretien et l'éducation en lieu et place de la mère et du père;
+
+5° l'avis de toute personne dont le consentement à l'adoption est requis et qui l'a refusé ou, si elle a désigné un représentant en application de l'article 348-9 du Code civil, l'avis de ce dernier.
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 172, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+(2)&lt;L 2017-07-06/24, art. 34, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-6**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; [<sup>2</sup> Dans les cas visés à l'article 346-1/1, alinéa 2, du Code civil, le tribunal de la famille ordonne une enquête sociale afin de s'éclairer sur l'aptitude à adopter de l'adoptant ou des adoptants et sur l'intérêt de l'enfant visé par la procédure à être adopté. Au cours de cette enquête, les services désignés par les communautés compétentes sont consultés. Toutefois lorsqu'il s'agit d'un enfant visé à l'article 346-1/1, alinéa 2, 1°, du Code civil, le juge peut décider de ne pas ordonner cette enquête sociale.]<sup>2</sup>
+
+Lorsqu'il l'estime utile, le tribunal est libre d'ordonner une (enquête sociale) sur le projet d'adoption simple d'une personne âgée de plus de dix-huit ans. &lt;L 2004-12-27/30, art. 263, 070; En vigueur : 10-01-2005&gt;
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 175, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2017-07-06/24, art. 35, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-7**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Dans les deux mois de la réception de la requête en adoption, le procureur du Roi la retourne au greffier avec son avis et les renseignements recueillis en vertu de l'article 1231-5.
+
+Le rapport de l'(enquête sociale) visée à l'article précédent est déposé au greffe dans les [<sup>1</sup> quatre]<sup>1</sup> mois du prononcé du jugement qui l'a ordonnée. &lt;L 2004-12-27/30, art. 263, 070; En vigueur : 10-01-2005&gt;
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 36, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-8**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Dans les trois jours du dépôt au greffe [<sup>1</sup> de l'avis du ministère public et des renseignements recueillis en vertu de l'article 1231-5, et, le cas échéant, du rapport de l'enquête sociale]<sup>1</sup>, l'adoptant et l'adopté dont le consentement est requis sont convoqués par pli judiciaire pour en prendre connaissance. &lt;L 2004-12-27/30, art. 263, 070; En vigueur : 10-01-2005&gt;
+
+Ils disposent à cette fin d'un délai de quinze jours.
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 37, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-9**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Entre le 15e et le 45e jour du dépôt au greffe [<sup>2</sup> de l'avis du ministère public et, le cas échéant, du rapport de l'enquête sociale]<sup>2</sup>, l'affaire est fixée d'office par le tribunal [<sup>1</sup> de la famille]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 176, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2017-07-06/24, art. 38, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-10**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Le [<sup>3</sup> tribunal de la famille]<sup>3</sup> entend [<sup>1</sup> ...]<sup>1</sup> les personnes suivantes, convoquées par le greffier sous pli judiciaire ou, si elles sont âgées de moins de seize ans, par simple lettre :
+
+1° l'adoptant ou les adoptants;
+
+2° toute personne dont le consentement à l'adoption est requis ou, si elle a désigné un représentant en application de l'article 348-9 du Code civil, ce dernier;
+
+3° l'adopté, âgé de moins de douze ans, s'il apparaît au terme d'une étude approfondie, ordonnée par le tribunal de la [<sup>3</sup> famille]<sup>3</sup> et effectuée par le service social compétent, qu'il est en état d'exprimer son opinion sur le projet d'adoption; dans le cas contraire, l'enfant dispose de quinze jours ouvrables, à compter de celui où il est avisé du résultat de l'étude par le procureur du Roi, pour demander par écrit au tribunal de la [<sup>3</sup> famille]<sup>3</sup> de le convoquer afin d'apprécier lui-même sa capacité; s'il l'estime en état d'exprimer son opinion, le tribunal de la [<sup>3</sup> famille]<sup>3</sup> entend l'enfant; l'appréciation par le tribunal de la jeunesse de la capacité de l'enfant n'est pas susceptible d'appel;
+
+[<sup>2</sup> 3° /1 la personne qui, par le procès-verbal visé à l'article 348-1, alinéa 2, du Code civil, a été jugée incapable d'exprimer sa volonté ou sa personne de confiance;]<sup>2</sup>
+
+4° toute personne dont l'avis, recueilli par le procureur du Roi, est défavorable à l'adoption;
+
+5° toute personne que le tribunal estime utile d'entendre.
+
+Si elles comparaissent, les personnes visées à l'alinéa premier, 2° et 4°, peuvent déclarer, par simple acte, vouloir intervenir à la cause.
+
+Dans des circonstances exceptionnelles, le tribunal peut accorder dispense de comparution personnelle et autoriser la représentation par un mandataire spécial, un avocat ou un notaire.
+
+Sauf lorsqu'il est fait application de l'article 1231-11, [<sup>4</sup> alinéa 2]<sup>4</sup>, il est dressé procès-verbal de ces auditions.
+
+----------
+
+(1)&lt;L 2010-06-02/35, art. 4, 111; En vigueur : 10-07-2010&gt;
+
+(2)&lt;L 2013-03-17/14, art. 173, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+(3)&lt;L 2013-07-30/23, art. 177, 130; En vigueur : 01-09-2014&gt;
+
+(4)&lt;L 2024-03-28/60, art. 99, 203; En vigueur : 08-04-2024&gt;
+
+**Art. 1231-11**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Lors de sa comparution devant le tribunal de la [<sup>1</sup> famille]<sup>1</sup>, l'enfant peut renoncer à être entendu.
+
+[<sup>2</sup> L'article 1004/1, §§ 5 à 7, s'applique par analogie.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 178, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2024-03-28/60, art. 100, 203; En vigueur : 08-04-2024&gt;
+
+**Art. 1231-12**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Toute personne dont l'avis doit être recueilli conformément à l'article 1231-5 peut déclarer, par simple acte, vouloir intervenir à la cause.
+
+**Art. 1231-13**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Le tribunal s'assure que le choix entre l'adoption simple et l'adoption plénière a été posé en connaissance de cause. Le tribunal vérifie également si les conditions prévues par la loi sont remplies. Le tribunal apprécie, en tenant compte de tous les intérêts légitimes, s'il y a lieu de prononcer l'adoption.
+
+Sauf s'il est établi que l'enfant a été élevé depuis plus de six mois par l'adoptant ou les adoptants, le tribunal [<sup>1</sup> de la famille]<sup>1</sup> statue au plus tôt six mois après le dépôt de la requête en adoption.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 179, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1231-14**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; [<sup>1</sup> Lorsque l'adoption vise un enfant mineur, l'adoptant ou les adoptants peuvent, avant que l'adoption ne soit prononcée, demander au tribunal de la famille, soit :]<sup>1</sup>
+
+1° de prononcer une adoption simple en lieu et place de l'adoption plénière demandée dans la requête;
+
+2° de prononcer une adoption plénière en lieu et place de l'adoption simple demandée dans la requête.
+
+Cette demande doit se fonder sur des motifs sérieux, être conforme à l'intérêt supérieur de l'enfant et au respect des droits fondamentaux qui lui sont reconnus en droit international et être appuyée par tous ceux qui ont consenti à l'adoption prévue dans la requête. Le tribunal en donne acte.
+
+Les articles 1231-10 à 1231-12 sont, dans ce cas, à nouveau d'application.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 180, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1231-15**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Le dispositif du jugement d'adoption mentionne notamment :
+
+1° la date du dépôt de la requête en adoption;
+
+2° le nom et les prénoms de l'adoptant ou des adoptants;
+
+3° si l'adoption prononcée est une adoption simple ou une adoption plénière;
+
+4° le nom et les prénoms que l'adopté porte lors de l'adoption et, en cas de changement de ceux-ci à raison de l'adoption, le nom et les prénoms qu'il portera désormais;
+
+5° s'il y a lieu, le nom et les prénoms que les descendants de l'adopté conservent malgré l'adoption.
+
+Le jugement est notifié par pli judiciaire à l'adoptant ou aux adoptants et à toute personne dont le consentement était requis, ainsi qu'au ministère public.
+
+**Art. 1231-16**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Le procureur du Roi, l'adoptant ou les adoptants agissant conjointement et l'adopté, ainsi que les parties intervenantes, peuvent interjeter appel par requête déposée au greffe de la cour d'appel dans le mois de la notification du jugement.
+
+L'adopté âgé de moins de douze ans, [<sup>1</sup> ...]<sup>1</sup> est représenté par l'une des personnes dont le consentement à son adoption est requis.
+
+[<sup>1</sup> L'adopté qui, conformément à l'article 348-1, alinéa 2, du Code civil, a été jugé, par procès-verbal, incapable d'exprimer sa volonté, est représenté par son administrateur.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 174, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+**Art. 1231-17**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Le procureur du Roi, l'adoptant ou les adoptants agissant conjointement et l'adopté, ainsi que les parties intervenantes, peuvent se pourvoir en cassation.
+
+L'adopté âgé de moins de douze ans, [<sup>1</sup> ...]<sup>1</sup> est représenté par l'une des personnes dont le consentement à son adoption est requis.
+
+[<sup>1</sup> L'adopté qui, conformément à l'article 348-1, alinéa 2, du Code civil, a été jugé, par procès-verbal, incapable d'exprimer sa volonté, est représenté par son administrateur.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 175, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+**Art. 1231-18**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Toute décision judiciaire rendue en matière d'adoption ne peut être exécutée si elle fait l'objet ou est encore susceptible d'appel ou de pourvoi en cassation.
+
+Si la décision concerne plusieurs adoptés, l'appel ou le pourvoi en cassation fait par l'un d'eux ne produit d'effet qu'en ce qui le concerne.
+
+**Art. 1231-18/1**
+
+[<sup>1</sup> Lorsque le jugement a acquis force de chose jugée, le greffe en adresse, sans délai, une copie à l'autorité centrale fédérale.
+
+L'autorité centrale fédérale adresse, sans délai, à l'autorité centrale communautaire compétente le jugement qui lui est transmis en copie par le greffier.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 39, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 1231-19**
+
+[<sup>1</sup> Après l'expiration du délai d'appel ou de pourvoi en cassation ou, le cas échéant, après le prononcé de l'arrêt rejetant le pourvoi, le greffier, via la BAEC, transmet immédiatement à l'officier de l'état civil compétent, les données nécessaires à l'établissement de l'acte d'adoption à la suite de la décision judiciaire prononçant l'adoption.
+
+L'officier de l'état civil compétent en vertu de l'article 368-1 du Code civil établit immédiatement l'acte d'adoption, lequel est associé aux actes de l'état civil de l'adopté [<sup>2</sup> ...]<sup>2</sup>. [<sup>2</sup> L'officier de l'état civil établit l'acte de changement de nom et/ou de prénom des descendants de l'adopté si le nom ou les prénoms de l'adopté ou des descendants changent.]<sup>2</sup>
+
+L'autorité centrale fédérale en avise les autorités centrales communautaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 71, 167; En vigueur : 31-03-2019&gt;
+
+(2)&lt;L 2023-09-13/08, art. 65, 199; En vigueur : 01-01-2024&gt;
+
+**Art. 1231-20**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Si l'adoptant, les adoptants ou l'un d'eux décèdent après le dépôt de la requête en adoption, [<sup>1</sup> mais avant l'établissement de l'acte d'adoption à la suite du jugement ou de l'arrêt par l'officier de l'état civil]<sup>1</sup>, la procédure peut être poursuivie à la diligence de l'adopté ou, le cas échéant, du survivant des adoptants.
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 72, 167; En vigueur : 31-03-2019&gt;
+
+**Art. 1231-21**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; La tierce opposition n'est recevable que si elle est formée dans le délai d'un an à compter [<sup>1</sup> de l'établissement de l'acte d'adoption prévu]<sup>1</sup> à l'article 1231-19.
+
+La requête civile n'est recevable que si elle émane de l'adoptant, des adoptants ou de l'un d'eux ou de l'adopté âgé de plus de dix-huit ans et pour autant qu'elle soit signifiée dans les trois mois du jour où le requérant a eu connaissance de la cause sur laquelle il appuie sa requête. Si l'adopté a connaissance de cette cause avant sa majorité, ce délai ne court à son égard qu'à dater du jour où il atteint l'âge de dix-huit ans.
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 73, 167; En vigueur : 31-03-2019&gt;
+
+**Art. 1231-22**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Les décisions judiciaires refusant de prononcer l'adoption ne font pas obstacle à l'introduction ultérieure d'une nouvelle requête, fondée sur des actes ou des faits postérieurs au refus.
+
+Le cas échéant, les consentements requis devront être à nouveau recueillis.
+
+**Art. 1231-23**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; La procédure de conversion d'une adoption simple en adoption plénière est régie par les dispositions applicables à la procédure d'établissement d'une adoption.
+
+[<sup>1</sup> En cas de décision portant conversion d'une adoption simple en adoption plénière, l'officier de l'état civil établit un nouvel acte d'adoption, qui est associé à l'ancien acte d'adoption ainsi qu'aux actes de l'état civil de l'adopté et de ses descendants.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2020-07-31/03, art. 25, 181; En vigueur : 01-09-2020&gt;
+
+###### Sous-section 2. - De l'établissement de l'adoption sur requête du ministère public. &lt;Insérée par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt;
+
+**Art. 1231-24**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Lorsqu'il introduit la requête sur base des articles 347-1, 3°, 347-2, 3° ou 348-11 du Code civil, le procureur du Roi agit soit d'office, soit à la demande de toute personne intéressée. Les renseignements visés à l'article 1231-5, recueillis par le procureur du Roi, sont joints à la requête.
+
+L'adoptant ou les adoptants et, selon le cas, les personnes appelées à consentir à l'adoption en vertu des articles 348-6 ou 348-7 du Code civil, ou celles qui ont refusé leur consentement en application de l'article 34811 du même Code, sont appelées à la cause.
+
+**Art. 1231-25**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Les articles 1231-3, [<sup>1</sup> alinéa 2]<sup>1</sup>, 1231-4, 1231-6 à 1231-23 sont applicables à la présente procédure.
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 156, 125; En vigueur : 15-05-2014&gt;
+
+##### Section 3. - De l'adoption internationale. &lt;Insérée par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt;
+
+**Art. 1231-26**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Les dispositions de la présente Section s'appliquent aux adoptions internationales au sens de l'article 360-2 du Code civil.
+
+###### Sous-section 1re.
+
+&lt;Abrogé par L 2017-07-06/24, art. 40, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-27**
+
+&lt;Abrogé par L 2017-07-06/24, art. 40, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-28**
+
+&lt;Abrogé par L 2017-07-06/24, art. 40, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-29**
+
+&lt;Abrogé par L 2017-07-06/24, art. 40, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-30**
+
+&lt;Abrogé par L 2017-07-06/24, art. 40, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-31**
+
+&lt;Abrogé par L 2017-07-06/24, art. 40, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-32**
+
+&lt;Abrogé par L 2017-07-06/24, art. 40, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-33**
+
+&lt;Abrogé par L 2017-07-06/24, art. 40, 154; En vigueur : 01-01-2020&gt;
+
+###### Sous-section 1rebis.
+
+&lt;Abrogé par L 2017-07-06/24, art. 40, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-33/1**
+
+&lt;Abrogé par L 2017-07-06/24, art. 40, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-33/2**
+
+&lt;Abrogé par L 2017-07-06/24, art. 40, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-33/3**
+
+&lt;Abrogé par L 2017-07-06/24, art. 40, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-33/4**
+
+&lt;Abrogé par L 2017-07-06/24, art. 40, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-33/5**
+
+&lt;Abrogé par L 2017-07-06/24, art. 40, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-33/6**
+
+&lt;Abrogé par L 2017-07-06/24, art. 40, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-33/7**
+
+&lt;Abrogé par L 2017-07-06/24, art. 40, 154; En vigueur : 01-01-2020&gt;
+
+###### Sous-section 2. - De la procédure en constatation de l'adoptabilité d'un enfant. &lt;Insérée par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt;
+
+**Art. 1231-34**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; La demande est introduite devant le tribunal de la [<sup>1</sup> famille]<sup>1</sup> par le ministère public, à la requête de l'autorité centrale fédérale, qui a préalablement obtenu de l'autorité centrale communautaire compétente, informée d'un désir d'adoption conformément à l'article 362-1 du Code civil, des renseignements concernant un enfant susceptible d'être adopté.
+
+L'enfant est représenté par un tuteur ad hoc désigné par le tribunal.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 185, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1231-35**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; (Dans les 30 jours de la demande visée à l'article 1231-34, le tribunal ordonne d'office une enquête sociale afin de l'éclairer sur l'adoptabilité de l'enfant. Le jugement ordonnant l'enquête sociale n'est susceptible ni d'opposition ni d'appel. Au cours de cette enquête sociale, les instances désignées par les communautés compétentes sont consultées.) &lt;L 2007-01-31/42, art. 3, 084; En vigueur : 01-01-2007&gt;
+
+Le rapport de l'(enquête sociale) est déposé au greffe dans les deux mois du prononcé du jugement. II est communiqué au ministère public. &lt;L 2004-12-27/30, art. 263, 070; En vigueur : 10-01-2005&gt;
+
+**Art. 1231-36**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Dans les trois jours du dépôt au greffe du rapport de l'(enquête sociale), le représentant de l'enfant est convoqué par pli judiciaire : &lt;L 2004-12-27/30, art. 263, 070; En vigueur : 10-01-2005&gt;
+
+1° pour prendre connaissance du rapport; il dispose à cette fin d'un délai de quinze jours;
+
+2° à comparaître en personne devant le tribunal [<sup>1</sup> de la famille]<sup>1</sup> dans le mois qui suit l'expiration du délai prévu au 1°.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 186, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1231-37**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Le tribunal se prononce ensuite sur l'adoptabilité de l'enfant et vérifie si les conditions visées à l'article 362-2 du Code civil sont remplies.
+
+Le jugement mentionne que ces vérifications ont été effectuées.
+
+**Art. 1231-38**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Si le jugement conclut à l'adoptabilité de l'enfant, le ministère public établit, dans les deux mois du prononcé, un rapport destiné à mettre à la disposition de l'autorité compétente de l'Etat d'accueil suffisamment de renseignements sur l'enfant pour lui permettre de déterminer les personnes désireuses d'adopter un enfant qui lui offriront, compte tenu de ses besoins spécifiques, l'environnement le plus adéquat et les meilleurs chances de bonne intégration; ce rapport contient des renseignements sur l'identité de l'enfant, son adoptabilité, son milieu social, son évolution personnelle et familiale, son passé médical et celui de sa famille, ainsi que sur ses besoins particuliers.
+
+Le rapport est déposé au greffe.
+
+**Art. 1231-39**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Dans les trois jours de la réception du rapport, le greffier en adresse une copie, ainsi qu'une copie du jugement, à l'autorité centrale fédérale. II en avise le représentant de l'enfant. L'autorité centrale fédérale fait, sans délai, application de l'article 362-3, alinéa 1er, 2°, du Code civil.
+
+###### Sous-section 3. - De l'établissement de l'adoption. &lt;Insérée par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt;
+
+**Art. 1231-40**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Sauf si la présente sous-Section en dispose autrement, les dispositions de la section 2 s'appliquent à l'établissement d'une adoption internationale.
+
+**Art. 1231-41**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; La requête (unilatérale) en adoption est introduite devant le tribunal de la [<sup>2</sup> famille]<sup>2</sup> &lt;L 2004-12-27/30, art. 246, 070; En vigueur : 10-01-2005&gt;
+
+1° [<sup>1</sup> dans les délais visés [<sup>3</sup> aux articles 1231-1/7 et 1231-1/13]<sup>3</sup> ou dans les quatre ans de la délivrance d'une attestation émanant de l'autorité compétente en matière d'adoption de l'Etat étranger dans lequel l'adoptant ou les adoptants résident habituellement, les déclarants qualifiés et aptes à adopter et à assumer une adoption internationales; et ]<sup>1</sup>
+
+2° dans les six mois de l'arrivée de l'enfant en Belgique.
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 60, 106; En vigueur : 16-01-2010&gt;
+
+(2)&lt;L 2013-07-30/23, art. 187, 130; En vigueur : 01-09-2014&gt;
+
+(3)&lt;L 2017-07-06/24, art. 41, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-42**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; A moins qu'il ne soit déjà en possession de ces documents, le tribunal demande sans délai à l'autorité centrale fédérale de lui transmettre :
+
+1° une copie certifiée conforme de la décision ou de l'attestation visées à l'article 1231-41, 1°;
+
+1°/1 [<sup>1</sup> ...]<sup>1</sup>
+
+2° une copie certifiée conforme de la décision d'un juge belge ou, si l'enfant réside habituellement dans un Etat étranger, de l'attestation par laquelle l'autorité compétente de cet Etat déclare l'enfant adoptable et constate, après avoir dûment examiné les possibilités de placement de l'enfant dans l'Etat de sa résidence habituelle, qu'une adoption internationale répond à son intérêt supérieur et au respect des droits fondamentaux qui lui sont reconnus en vertu du droit international;
+
+3° une copie certifiée conforme des rapports visés aux [<sup>2</sup> articles 361-2/1]<sup>2</sup> et 361-3, alinéa 1er, 2°, du Code civil, ou aux articles 1231-38 du présent Code et 362-3, alinéa 1er, 1°, du Code civil;
+
+4° une attestation par laquelle l'autorité centrale communautaire compétente ou, si l'enfant réside habituellement dans un Etat étranger, l'autorité compétente de cet Etat constate, motifs à l'appui, que la décision de confier l'enfant à l'adoptant ou aux adoptants répond à son intérêt supérieur et au respect dés droits fondamentaux qui lui sont reconnus en vertu du droit international.
+
+Si, en application de l'article 361-4, alinéa 1er, du Code civil, l'autorité centrale communautaire compétente a accepté des documents équivalents aux attestations visées à l'alinéa 2, 2° et 4°, du présent article, l'autorité centrale fédérale transmet ces documents. Si l'autorité centrale communautaire compétente a dispensé de produire ces attestations ou l'une d'elles, l'autorité centrale fédérale transmet au juge une preuve de la dispense.
+
+(Les documents visés à l'alinéa 1er, 2° sont, dans le cas visé à l'article 361-5 du Code civil, remplacés par les documents mentionnés au 2° c) à e) de cet article.) &lt;L 2005-12-06/30, art. 10, 073; En vigueur : 26-12-2005&gt;
+
+----------
+
+(1)&lt;L 2009-12-30/14, art. 61, 106; En vigueur : 16-01-2010&gt;
+
+(2)&lt;L 2017-07-06/24, art. 42, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-43**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Par dérogation à l'article 1231-5, les avis visés aux 1° à 5°, de cet article ne sont pas recueillis (si les articles 361-3, 361-5 ou 362-2) du Code civil ont été respectés. &lt;L 2005-12-06/30, art. 11, 073; En vigueur : 26-12-2005&gt;
+
+**Art. 1231-44**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Par dérogation à l'article 1231-10, les personnes visées à l'alinéa premier, 4°, de cet article ne sont pas convoquées (si les articles 361-3, 361-5 ou 362-2) du Code civil ont été respectés. &lt;L 2005-12-06/30, art. 12, 073; En vigueur : 26-12-2005&gt;
+
+**Art. 1231-45**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; L'article 1231-6 n'est pas applicable.
+
+##### Section 4. - De la révocation de l'adoption simple et de la révision de l'adoption. &lt;Insérée par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt;
+
+**Art. 1231-46**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Sauf si la présente Section en dispose autrement, l'action en révocation d'une adoption simple et l'action en révision d'une adoption sont intentées, instruites et jugées conformément aux règles ordinaires de procédure et de compétence.
+
+**Art. 1231-47**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Le tribunal prononce la révocation de l'adoption simple ou la révision de l'adoption.
+
+[<sup>1</sup> Alinéa 2 abrogé.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-02/35, art. 5, 111; En vigueur : 10-07-2010&gt;
+
+**Art. 1231-48**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; L'adopté est appelé à la cause par le greffier.
+
+[<sup>1</sup> L'adopté âgé de moins de douze ans, est représenté par un tuteur ad hoc désigné par le tribunal à la demande du procureur du Roi ou de toute autre partie à l'action.]<sup>1</sup>
+
+L'article 1231-11 est applicable.
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 176, 124; En vigueur : 01-09-2014, remplacé par L 2014-05-12/02, art. 20, 127; En vigueur : 01-09-2014&gt;
+
+**Art. 1231-49**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Le greffier appelle en outre à la cause, selon le cas :
+
+1° si la demande porte sur la révocation d'une adoption simple :
+
+a) la mère et le père de l'adopte âgé de moins de dix-huit ans, lorsque la révocation est demandée à l'égard de l'adoptant ou des adoptants;
+
+b) l'adoptant à l'égard duquel la révocation n'est pas demandée, lorsque la révocation est demandée à l'égard de l'un seulement des adoptants;
+
+2° si la demande porte sur la révision d'une adoption et si l'adopté a moins de dix-huit ans :
+
+a) la mère et le père de l'adopté, lorsque l'adoption attaquée est une adoption simple;
+
+b) les personnes qui avaient la qualité de père et mère avant que l'adoption attaquée ne produise ses effets, lorsqu'il s'agit d'une adoption plénière.
+
+**Art. 1231-50**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Le jugement est prononcé en audience publique. S'il révoque l'adoption simple ou révise l'adoption, le dispositif du jugement mentionne la date de la demande, l'identité complète des adoptants et des adoptés à l'égard desquels l'adoption simple est révoquée ou à l'égard desquels l'adoption est révisée, le nom et les prénoms que portera celui qui était adopté, ainsi que celui que porteront ses descendants dont le nom avait été modifié par l'adoption.
+
+**Art. 1231-51**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Si la personne qui était adoptée ou son représentant le demande, le tribunal[<sup>1</sup> de la famille]<sup>1</sup> peut décider qu'elle continuera à porter les prénoms ou le nom qui lui avaient été attribués par la décision judiciaire prononçant l'adoption.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 189, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1231-52**
+
+[<sup>1</sup> § 1er. Les articles 1231-16 à 1231-18/1 et 1231-20 à 1231-21 sont applicables aux procédures de révocation de l'adoption.
+
+§ 2. Lorsqu'une décision de révocation ou de révision est coulée en force de chose jugée, le greffier transmet immédiatement, en mentionnant le jour où elle a acquis force de chose jugée, via la BAEC, les données nécessaires à l'établissement de l'acte de révocation ou de l'acte de révision de l'adoption à l'officier de l'état civil compétent.
+
+L'officier de l'état civil compétent conformément à l'article 368-1 du Code civil établit immédiatement l'acte de révocation ou l'acte de révision de l'adoption, lequel est associé à l'acte d'adoption [<sup>2</sup> ainsi qu'aux actes de l'état civil de l'adopté. L'officier de l'état civil établit un acte de changement de nom et/ou de prénom pour les descendants de l'adopté si le nom ou les prénoms de l'adopté ou des descendants changent]<sup>2</sup>.
+
+L'autorité centrale fédérale en avise les autorités centrales communautaires.]<sup>1</sup>
+
+[<sup>2</sup> L'officier de l'état civil en avise immédiatement via la BAEC l'autorité centrale fédérale.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 75, 167; En vigueur : 31-03-2019&gt;
+
+(2)&lt;L 2023-09-13/08, art. 66, 199; En vigueur : 01-01-2024&gt;
+
+##### Section 5. - Des recours. &lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt;
+
+**Art. 1231-53**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; L'appel de tout jugement avant dire droit et de tout jugement définitif rendu en vertu des [<sup>1</sup> "sections 1bis, 2, 3 et 4]<sup>1</sup> du présent chapitre, est introduit par requête déposée au greffe de la cour d'appel.
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 43, 154; En vigueur : 01-01-2020&gt;
+
+**Art. 1231-54**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; Le délai d'appel est d'un mois à compter de la notification du jugement par pli judiciaire.
+
+**Art. 1231-55**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; [<sup>1</sup> La chambre de la famille de la cour d'appel]<sup>1</sup> peut requérir le ministère public de recueillir des informations complémentaires, et également ordonner une nouvelle (enquête sociale). Les mêmes délais sont d'application que ceux prévus par les dispositions relatives à la procédure en première instance. &lt;L 2004-12-27/30, art. 263, 070; En vigueur : 10-01-2005&gt;
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 190, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1231-56**
+
+&lt;Inséré par L 2003-04-24/32, art. 5; En vigueur : 01-09-2005&gt; S'il s'agit d'un mineur, des mesures provisoires peuvent entre-temps être prises dans l'intérêt de l'enfant.
+
+**Art. 1231-57**
+
+[<sup>1</sup> Les articles 1231-1/8, 1231-1/14 et 1231-18/1 sont applicables au greffe de la cour d'appel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-07-06/24, art. 44, 154; En vigueur : 01-01-2020&gt;
+
+#### CHAPITRE IX. &lt;L 2001-04-29/39, art. 67, 054; En vigueur : 01-08-2001&gt; - De la tutelle des mineurs.
+
+**Art. 1232**
+
+&lt;L 2001-04-29/39, art. 67, 054; En vigueur : 01-08-2001&gt; Sans préjudice des dispositions du Code civil imposant ou autorisant la saisine d'office du juge et sous réserve de ce qui est prévu à l'article 1235, les demandes fondées sur les articles 389 à 420 du Code civil sont introduites par requête.
+
+**Art. 1233**
+
+&lt;L 2001-04-29/39, art. 67, 054; En vigueur : 01-08-2001&gt; § 1er. Les articles 1026 à 1034 sont applicables, sous réserve des dispositions suivantes :
+
+1° la requête est signée par la partie ou son avocat;
+
+2° le mineur est convoqué par le juge pour être entendu s'il est âgé de douze ans dans les procédures relatives à sa personne et s'il est âgé de quinze ans dans celles relatives à ses biens. Les dispositions de [<sup>1</sup> l'article 1004/1, [<sup>2</sup> §§ 5 à 7]<sup>2</sup>]<sup>1</sup>, s'appliquent par analogie;
+
+3° en cas d'application de l'article 394, alinéa 2, du Code civil, l'ordonnance contient les nom, prénom et domicile des ascendants et frères et soeurs majeurs du mineur et, des frères et soeurs des parents du mineur. Ceux-ci sont considérés comme parties intervenantes;
+
+4° toute décision est notifiée au ministère public dès son prononcé;
+
+5° un extrait de la décision nommant le tuteur est notifié dans les huit jours du prononcé au bourgmestre de la commune du domicile du mineur.
+
+§ 2. Les dispositions du § 1er, 2° à 5°, ne sont toutefois pas applicables en cas de nomination d'un tuteur ad hoc ou d'un subrogé tuteur ad hoc.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 191, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2024-03-28/60, art. 101, 203; En vigueur : 08-04-2024&gt;
+
+**Art. 1234**
+
+&lt;L 2001-04-29/39, art. 67, 054; En vigueur : 01-08-2001&gt; Si l'acte désignant un tuteur testamentaire est découvert après la nomination d'un autre tuteur, le juge convoque les deux tuteurs en chambre du conseil et statue.
+
+**Art. 1235**
+
+&lt;L 2001-04-29/39, art. 67, 054; En vigueur : 01-08-2001&gt; Pour l'application de l'article 399 du Code civil, les dispositions suivantes sont, en outre, applicables :
+
+1° [le tuteur dont la destitution est poursuivie est convoqué à comparaître, d'office ou à la requête motivée du subrogé tuteur ou du procureur du Roi, à l'audience fixé par le juge de paix [<sup>1</sup> ...]<sup>1</sup>. La convocation a lieu par pli judiciaire. Le subrogé tuteur est entendu;] &lt;L 2003-02-13/54, art. 9, 063; En vigueur : 04-04-2003&gt;
+
+2° Sans préjudice de l'application de l'article 391 du Code civil, le juge, en prononçant la destitution, pourvoit immédiatement au remplacement du tuteur destitue, conformément à l'article 401 du même Code.
+
+Ces dispositions sont applicables par analogie à la procédure de destitution du subrogé tuteur, le tuteur devant dans ce cas être entendu.
+
+----------
+
+(1)&lt;L 2010-06-02/35, art. 6, 111; En vigueur : 10-07-2010&gt;
+
+**Art. 1236**
+
+&lt;L 2001-04-29/39, art. 67, 054; En vigueur : 01-08-2001&gt; Toute ordonnance du juge de paix est susceptible d'appel. L'appel de cette ordonnance est attribué à une chambre composée de trois juges.
+
+**Art. 1236bis**
+
+&lt;Inséré par L 2001-04-29/39, art. 67, 054; En vigueur : 01-08-2001&gt; § 1er. La demande tendant à la constatation de l'impossibilité durable d'exercer l'autorité parentale est introduite devant le tribunal de [<sup>3</sup> la famille]<sup>3</sup> par le procureur du Roi. Ce dernier agit d'office ou à la demande de toute personne intéressée.
+
+[Lorsque les père et mère ou le parent exerçant seul l'autorité parentale ont été pourvus d'un administrateur [<sup>2</sup> ...]<sup>2</sup> conformément aux dispositions du livre 1er, titre XI, [<sup>2</sup> chapitre II/1]<sup>2</sup>, du Code civil, le demande tendant à la constatation de l'impossibilité durable d'exercer l'autorité parentale peut également être introduite par l'administrateur [<sup>2</sup> ...]<sup>2</sup>.] &lt;L 2003-02-13/54, art. 10, 063; En vigueur : 04-04-2003&gt;
+
+A la requête sont joints tous les renseignements utiles, et notamment l'avis des père et mère, celui des ascendants au deuxième degré ainsi que celui des frères et soeurs majeurs de l'enfant mineur.
+
+§ 2. Le tribunal ordonne la comparution [<sup>1</sup> ...]<sup>1</sup> de toutes les personnes qu'il estime utile d'entendre; il est dressé procès-verbal de leur audition. Si l'une des personnes dont le procureur du Roi a obligatoirement recueilli l'avis a émis un avis défavorable à la mesure envisagée, cette personne est également convoquée et, si elle comparaît, elle peut déclarer par simple acte vouloir intervenir à la cause. Les convocations sont adressées aux intéressés par le greffier sous pli judiciaire.
+
+Le mineur âgé de douze ans est également entendu séparément.
+
+§ 3. S'il fait droit à la demande, le tribunal décide si l'impossibilité durable d'exercer l'autorité parentale entraîne pour le père ou la mère, ou les deux, la perte du droit de jouissance légale fixe à l'article 384 du Code civil.
+
+Une copie certifiée conforme de la décision est notifiée par le greffier au juge de paix compétent territorialement. Celui-ci procède conformément aux règles de la tutelle.
+
+§ 4. L'appel est formé par requête déposée au greffe de la cour d'appel. [<sup>1</sup> ...]<sup>1</sup>
+
+Le délai pour interjeter appel et l'appel contre le jugement sont suspensifs, de même que le délai pour se pourvoir en cassation et le pourvoi contre l'arrêt.
+
+§ 5. La demande en mainlevée est introduite par requête des père et mère agissant conjointement ou séparément.
+
+Le greffier transmet la requête au procureur du Roi. Celui-ci recueille tous les renseignements utiles et notamment l'avis des personnes mentionnées au paragraphe 1er, alinéa 2, et celui des tuteur et subrogé tuteur. Le procureur du Roi transmet au tribunal la requête accompagnée de ces renseignements et de son avis.
+
+Le tribunal procède ensuite conformément au § 2.
+
+S'il est fait droit à la demande, une copie conforme de la décision est notifiée par le greffier au juge de paix tutélaire et la tutelle prend fin à la date du procès-verbal prévu à l'article 415, alinéa 2, du Code civil.
+
+----------
+
+(1)&lt;L 2010-06-02/35, art. 7, 111; En vigueur : 10-07-2010&gt;
+
+(2)&lt;L 2013-03-17/14, art. 177, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+(3)&lt;L 2013-07-30/23, art. 192, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1237**
+
+&lt;L 2001-04-29/39, art. 67, 054; En vigueur : 01-08-2001&gt; Un dossier individuel de procédure est ouvert au greffe de la justice de paix pour chaque mineur placé sous tutelle.
+
+Y sont déposés, à leur date, toutes les requêtes, ordonnances et autres actes relatifs à la tutelle.
+
+Au besoin, le greffier établit les copies certifiées conformes des pièces dont le dépôt dans des dossiers distincts se justifie.
+
+#### CHAPITRE IXBIS. &lt;inséré par L 1987-05-20/31, art. 2, 007; En vigueur : 06-06-1987&gt; Procédure en déclaration d'abandon d'un enfant mineur ou en constatation du désintérêt manifeste de ses père et mère. (abrogé) &lt;L 1999-05-07/58, art. 2, 045; En vigueur : 09-07-1999&gt;
+
+**Art. 1237bis**
+
+(abrogé) &lt;L 1999-05-07/58, art. 2, 045; En vigueur : 09-07-1999&gt;
+
+#### CHAPITRE X. - [<sup>1</sup> Des personnes protégées]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 178, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+##### Section 1re. [<sup>1</sup> - De la procédure applicable à la protection judiciaire]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 51, 174; En vigueur : 01-03-2019&gt;
+
+###### Sous-section 1re. [<sup>1</sup> - De l'introduction de la demande]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-21/09, art. 52, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1238**
+
+[<sup>1</sup> § 1er. La personne protégée ou à protéger, toute personne intéressée ou le procureur du Roi peuvent introduire une demande de mesure de protection fondée sur les articles 488/1 à 502 du Code civil ou les dispositions du présent chapitre.
+
+§ 2. Par dérogation au paragraphe 1er, le juge de paix peut prendre une mesure de protection d'office:
+
+1° si une demande visée aux articles 5, § 1er, et 23 de la [<sup>2</sup> loi du 26 juin 1990 relative à la protection imposée à une personne atteinte d'un trouble psychiatrique]<sup>2</sup> a été déposée ou si un rapport circonstancié visé aux articles 13, 14 et 25 de la même loi lui est transmis;
+
+2° si l'internement d'une personne a été ordonnée;
+
+3° dans les autres cas expressément prévus par la loi, notamment dans les cas prévus aux articles 490/1, § 2, et 490/2, § 2, alinéa 1er, du Code civil; ou
+
+4° s'il a été saisi conformément au paragraphe 1er et s'il l'estime utile, pour autant que les parties n'ont pas introduit de demande à cette fin.
+
+Dans le cas visé à l'alinéa 1er, 1°, la mesure de protection est ordonnée par ordonnance distincte.
+
+Le ministère public communique immédiatement la décision d'internement au juge de paix compétent.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 53, 174; En vigueur : 01-03-2019&gt;
+
+(2)&lt;L 2024-05-16/06, art. 66, 208; En vigueur : 01-01-2025&gt;
+
+**Art. 1239**
+
+[<sup>1</sup> Toute demande fondée sur les articles 488/1 à 502 du Code civil ou sur les dispositions du présent chapitre est introduite par requête adressée au juge de paix compétent.
+
+Les articles 1025 à 1034sexies ne s'appliquent pas.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 54, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1240**
+
+[<sup>1</sup> § 1er. La requête contient les mentions suivantes:
+
+1° l'indication des jour, mois et année;
+
+2° les nom, prénoms, résidence ou domicile du requérant et, le cas échéant, [<sup>2</sup> son numéro de registre national ou son numéro d'identification dans le registre bis]<sup>2</sup>;
+
+3° les nom, prénom, résidence ou domicile de la personne protégée ou à protéger et, le cas échéant, [<sup>2</sup> son numéro de registre national ou son numéro d'identification dans le registre bis]<sup>2</sup>;
+
+4° le cas échéant, les nom, prénoms, résidence ou domicile de son père et de sa mère, de ses enfants majeurs, de son conjoint, du cohabitant légal, pour autant que la personne protégée ou à protéger vive avec eux, ou de la personne avec laquelle elle vit maritalement ou, le cas échéant, la dénomination et le siège social de la fondation privée qui se consacre exclusivement à la personne protégée ou d'une fondation d'utilité publique qui, pour la personne à protéger, dispose d'un comité créé statutairement et chargé d'assurer les administrations;
+
+5° le degré de parenté ou la nature des relations existant entre le requérant et la personne protégée ou à protéger;
+
+6° l'objet et l'indication sommaire des motifs de la demande;
+
+7° le choix du requérant de se faire inscrire dans le registre central de la protection des personnes et, dans l'affirmative, son adresse électronique;
+
+8° l'inventaire des pièces numérotées qu'il joint à la requête.
+
+§ 2. La requête contient en outre, dans la mesure du possible, les mentions suivantes:
+
+1° le lieu et la date de naissance de la personne protégée ou à protéger;
+
+2° la nature et la composition des biens à gérer;
+
+3° les nom, prénom et domicile des membres de la famille majeurs du degré de parenté le plus proche, sans toutefois remonter plus loin que le second degré;
+
+4° les nom, prénom et domicile des personnes qui pourraient faire office de personne de confiance;
+
+5° les conditions de vie familiale, morale et matérielle dont la connaissance pourrait être utile au juge de paix pour la désignation d'un administrateur;
+
+6° en cas de demande de placement sous protection visée aux articles 488/1 et 488/2 du Code civil, des suggestions concernant le choix de l'administrateur à désigner, la nature et l'étendue de ses pouvoirs;
+
+7° le cas échéant, les nom, prénoms ainsi que la résidence ou le domicile de l'administrateur, des administrateurs et de la personne de confiance ou du mandataire;
+
+8° l'adresse électronique et le numéro de téléphone où les personnes concernées peuvent être jointes.
+
+§ 3. Si la demande est incomplète, le juge notifie au demandeur qu'il doit la compléter dans les huit jours, à moins que ces mentions ne figurent déjà dans le registre visé à l'article 1253/2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 55, 174; En vigueur : 01-03-2019&gt;
+
+(2)&lt;L 2023-12-19/08, art. 18, 202; En vigueur : 08-01-2024&gt;
+
+**Art. 1241**
+
+[<sup>1</sup> § 1er. Lorsque la demande est susceptible d'affecter la capacité de la personne protégée ou à protéger au sens de l'article 491, e) du Code civil, un certificat médical circonstancié dont le modèle est établi par le Roi, ne datant pas de plus de quinze jours, délivré par un médecin agréé ou un psychiatre, est joint à la requête à moins que la demande ne soit fondée sur l'article 488/2 du Code civil.
+
+Ce certificat décrit l'état de santé de la personne concernée sur la base des données médicales actualisées du dossier du patient visé à l'article 9 de la loi du 22 août 2002 relative aux droits du patient, ou sur la base d'un examen récent de la personne.
+
+Le modèle de certificat visé à l'alinéa 1er mentionne à tout le moins:
+
+1° si la personne protégée ou à protéger peut se déplacer, et, dans l'affirmative, s'il est indiqué qu'elle se déplace, compte tenu de son état;
+
+2° l'état de santé de la personne protégée ou à protéger;
+
+3° l'incidence de cet état de santé sur la bonne gestion de ses intérêts de nature patrimoniale ou autre.
+
+En ce qui concerne les intérêts de nature patrimoniale visés à l'alinéa 3, 3°, il est mentionné en particulier si la personne protégée ou à protéger est encore à même de prendre connaissance du compte rendu de la gestion;
+
+4° les soins qu'implique normalement un tel état de santé.
+
+Ce certificat ne peut pas être établi par un médecin parent ou allié de la personne protégée ou à protéger ou du requérant ou attaché à un titre quelconque à l'établissement dans lequel elle se trouve.
+
+Le Roi détermine les procédures et les conditions de l'agrément des médecins visé à l'alinéa 1er.
+
+§ 2. En cas d'urgence avérée ou d'impossibilité absolue de joindre le certificat médical en raison de motifs que le requérant expose et pour autant que la requête contienne suffisamment d'éléments pouvant justifier l'adoption d'une mesure de protection, le juge désigne un médecin agréé ou un psychiatre pour émettre un avis sur l'état de santé de la personne protégée ou à protéger.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 56, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1242**
+
+[<sup>1</sup> Le greffe de la justice de paix vérifie si un contrat de mandat, visé à l'article 490 du Code civil, une décision de mettre fin à ce contrat ou une déclaration contenant le choix de l'administrateur et d'une personne de confiance, visée à l'article 496 du Code civil, ont été enregistrés dans un des registres centraux prévus à cet effet et tenus par la Fédération royale du notariat belge. Il demande, le cas échéant, au notaire ou au greffier de la justice de paix où le contrat de mandat a été déposé ou devant laquelle l'acte de désignation d'un administrateur et d'une personne de confiance a été passé, de lui communiquer cette copie certifiée conforme.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 57, 174; En vigueur : 01-03-2019&gt;
+
+###### Sous-section 2. [<sup>1</sup> - Du déroulement de la procédure judiciaire]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-21/09, art. 58, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1243**
+
+[<sup>1</sup> Dans les cas où la loi autorise la saisine d'office par le juge de paix, il est établi un procès-verbal. Pour le surplus, il est procédé conformément au présent chapitre.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 59, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1244**
+
+[<sup>1</sup> § 1er. Le juge vérifie la demande.
+
+§ 2. Il convoque d'office le requérant lorsqu'il fait la demande d'être entendu.
+
+Il ne peut ordonner une mesure affectant la capacité de la personne protégée ou à protéger au sens de l'article 491, e), du Code civil, sans l'avoir convoquée au préalable, à moins qu'elle soit dans l'impossibilité de se déplacer.
+
+Il peut, en outre, convoquer les personnes visées aux alinéas 1er et 2, le mandataire, le ou les administrateurs, la personne de confiance et les personnes mentionnées à l'article 1240, § 1er, 4°, même si elles ne vivent pas avec la personne protégée ou à protéger, chaque fois qu'il l'estime utile. Ces personnes peuvent également comparaître volontairement à l'audience.
+
+Les convocations sont notifiées par le greffier. Une copie de la requête ainsi que, le cas échéant, une copie de la déclaration visée à l'article 496 du Code civil sont jointes aux convocations.
+
+Les personnes convoquées et celles qui ont comparu volontairement conformément à l'alinéa 3 deviennent des parties à la cause sauf si elles s'y opposent à l'audience. Elles en sont avisées dans la convocation ou, à défaut, à l'audience.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 60, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1244/1**
+
+§ 1. [<sup>1</sup> Chaque fois que la personne protégée ou la personne à protéger comparait sans assistance d'un avocat, le juge demande à la personne si elle souhaite qu'un avocat soit désigné, soit par elle-même, soit à la demande du greffier. Dans ce dernier cas, le greffier demande au bâtonnier ou au bureau d'aide juridique de désigner un avocat commis d'office.
+
+Lorsqu'il l'estime nécessaire, le juge peut ordonner la désignation d'office.
+
+Si un avocat doit être désigné, l'affaire est remise à une date rapprochée.]<sup>1</sup>
+
+[<sup>2</sup> § 2. Par dérogation au paragraphe 1er, l'avocat investi du mandat d'administrateur de la personne protégée ne peut pas être son avocat.
+
+Cette même incompatibilité est étendue aux collaborateurs de l'avocat administrateur et aux avocats exerçant leurs activités en utilisant la même organisation ou la même structure matérielle que celle de l'avocat administrateur ou aux avocats ayant constitué avec l'avocat administrateur une association de fait ou une société, pour organiser, moyennant le partage des frais, des services facilitant l'exercice de leur profession, avec ou sans partage de leurs honoraires.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-21/09, art. 61, 174; En vigueur : 01-03-2019&gt;
+
+(2)&lt;L 2023-11-08/06, art. 32, 210; En vigueur : 01-09-2025&gt;
+
+**Art. 1245**
+
+[<sup>1</sup> § 1er. Jusqu'au jour de l'audience, la personne protégée ou à protéger, accompagnée, si elle le souhaite, de la personne de confiance, peut demander à être entendue individuellement par le juge de paix en chambre du conseil avant les autres parties à la cause.
+
+La personne protégée ou à protéger est entendue dans un lieu approprié.
+
+Si la personne protégée ou à protéger est incapable d'exprimer sa volonté et que la personne de confiance demande, au plus tard le jour de l'audience, à être entendue individuellement en chambre du conseil avant les autres parties à la cause, le juge y fait droit à moins de faire connaître son refus par ordonnance motivée.
+
+§ 2. L'audition des personnes fait l'objet d'un procès-verbal qui est versé au dossier administratif visé à l'article 1253. Si le juge estime, au cours de l'entretien avec la personne protégée ou à protéger, qu'elle est incapable d'exprimer sa volonté, il l'indique dans le rapport en en précisant les motifs.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 62, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1246**
+
+[<sup>1</sup> § 1er. Le juge de paix s'entoure de tous les renseignements utiles.
+
+§ 2. Il peut désigner un médecin agréé ou un psychiatre qui donnera son avis sur l'état de santé de la personne concernée.
+
+Le Roi détermine les procédures et les conditions de l'agrément des médecins visé à l'alinéa 1er.
+
+§ 3. Lorsque la demande est susceptible d'affecter la capacité de la personne protégée ou à protéger, au sens de l'article 491, e), du Code civil, le juge de paix recueille des renseignements utiles sur la situation familiale, morale et matérielle ainsi que sur ses conditions de vie, auprès de l'entourage de la personne protégée ou à protéger ou de toute personne apte à le renseigner. Les parents jusqu'au second degré de la personne protégée ou à protéger ainsi que les personnes qui se chargent de ses soins quotidiens ou qui l'accompagnent sont considérés comme membres de son entourage. [<sup>2</sup> A dater de l'ordonnance de désignation de l'administrateur des biens, et tant que l'administration perdure, le juge de paix peut, moyennant une simple référence à l'ordonnance de désignation précitée, demander toute information relative à la personne protégée au Point de contact central tenu par la Banque nationale de Belgique, conformément à la loi du 8 juillet 2018 portant organisation d'un point de contact central des comptes et contrats financiers et portant extension de l'accès au fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt. Le juge de paix peut charger le greffier de verser cette information au dossier administratif précité.]<sup>2</sup>
+
+Dans les autres cas, le recours aux mesures d'investigation et d'information visées à l'alinéa 1er est facultatif.
+
+Dans tous les cas, le juge peut recueillir les renseignements visés à l'alinéa 1er auprès du procureur du Roi, à l'intervention du service social compétent.
+
+§ 4. Lorsqu'il y a lieu ou à la demande de la personne protégée ou à protéger, le juge de paix peut se rendre à l'endroit où la personne protégée ou à protéger réside ou se trouve, entouré le cas échéant des personnes que celui-ci ou la personne concernée désigne. Il le fait d'office lorsque la demande est susceptible d'affecter la capacité de la personne protégée ou à protéger et que celle-ci se trouve dans l'incapacité de se déplacer. Il est dressé procès-verbal de la visite.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 63, 174; En vigueur : 01-03-2019&gt;
+
+(2)&lt;L 2021-11-28/01, art. 26, 188; En vigueur : 10-12-2021&gt;
+
+**Art. 1247**
+
+[<sup>1</sup> Le juge tente de rapprocher le point de vue des parties à la demande de l'une d'elles ou même d'office, s'il l'estime possible.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 64, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1247/1**
+
+[<sup>1</sup> Le juge désigne l'administrateur après s'être assuré de son acceptation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-21/09, art. 65, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1247/2**
+
+[<sup>1</sup> Les greffes informent les administrateurs familiaux lors de la notification de l'ordonnance emportant leur désignation, des sessions d'information qui sont organisées dans l'arrondissement judiciaire. Ils leur communiquent un guide pratique sur les modalités de leur mandat. Ils leur donnent des renseignements sur les permanences ou initiatives organisées dans l'arrondissement judiciaire susceptibles de les aider dans l'exercice de leurs missions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-11-08/06, art. 33, 210; En vigueur : 01-09-2025&gt;
+
+**Art. 1248**
+
+[<sup>1</sup> Le juge fixe les règles concernant les frais et les dépens. Les articles 1017 et suivants ne s'appliquent pas.
+
+Le juge décide, à la lumière des circonstances de chaque affaire, si les dépens de l'avocat commis d'office dans les hypothèses visées par l'article 1244/1 sont imputés au requérant ou à la personne protégée ou à protéger, à moins que le requérant ou la personne protégée ou à protéger ne remplisse les conditions visées à l'article 508/13 pour bénéficier de la gratuité complète ou partielle de l'aide juridique de deuxième ligne.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 66, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1249**
+
+[<sup>1</sup> L'ordonnance est délivrée en chambre du conseil.
+
+Outre les mentions énumérées dans l'article 780, l'ordonnance indique [<sup>2</sup> le numéro de registre national ou le numéro d'identification dans le registre bis]<sup>2</sup> de la personne protégée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 67, 174; En vigueur : 01-03-2019&gt;
+
+(2)&lt;L 2023-12-19/08, art. 18, 202; En vigueur : 08-01-2024&gt;
+
+**Art. 1249/1**
+
+[<sup>1</sup> § 1er Les ordonnances sont exécutoires par provision nonobstant tout recours et sans caution, à moins que le juge n'en ait décidé autrement.
+
+§ 2. Par dérogation à l'article 1047, alinéa 1er, l'ordonnance qui affecte la capacité de la personne protégée ou à protéger au sens de l'article 491, e), du Code civil peut toujours être frappée d'opposition, mais uniquement par la personne protégée ou à protéger.
+
+§ 3. L'acte d'appel formé par la partie requérante originaire contient, outre les mentions prévues à l'article 1057, celles visées à l'article 1240.
+
+Les articles 1249/3 et 1249/4 ne s'appliquent pas en degré d'appel.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 68, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1249/2**
+
+[<sup>1</sup> § 1er. Dans les trois jours du prononcé, le greffier notifie les ordonnances aux parties et, le cas échéant, aux administrateurs.
+
+Une copie non signée est, le cas échéant, communiquée à la personne protégée, aux personnes de confiance, et aux avocats des parties dans le même délai.
+
+§ 2. Le délai pour exercer les voies de recours par les parties court à partir de cette notification. Le greffier en avise les parties au moment de la notification.
+
+§ 3. Un extrait de l'ordonnance comprenant le dispositif peut être communiqué à toute autre personne qui justifie d'un intérêt particulier en lien avec la protection de la personne concernée.]<sup>1</sup>
+
+[<sup>2</sup> § 4. Un extrait du dispositif de l'ordonnance de mise sous protection judiciaire d'un administrateur professionnel est communiqué au ministre de la Justice ou au fonctionnaire délégué par lui par le greffe de la justice de paix dans les trois jours de son prononcé.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 69, 174; En vigueur : 01-03-2019&gt;
+
+(2)&lt;L 2023-11-08/06, art. 34, 210; En vigueur : 01-09-2025&gt;
+
+###### Sous-section 3. [<sup>1</sup> - Des notifications, communications et dépôts]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-21/09, art. 70, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1249/3**
+
+[<sup>1</sup> Les requêtes [<sup>2</sup> fondées sur l'article 492/1 de l'ancien Code civil]<sup>2</sup> sont déposées au moyen du registre visé à l'article 1253/2, ci-après dénommé "registre".
+
+Les pièces jointes en annexe aux requêtes sont déposées au greffe ou déposées au moyen du registre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-21/09, art. 71, 174; En vigueur : 01-06-2021&gt;
+
+(2)&lt;L 2024-05-15/03, art. 63, 204; En vigueur : 07-06-2024&gt;
+
+**Art. 1249/4**
+
+[<sup>2</sup> § 1er. Toute notification, toute communication ou tout dépôt au greffe dans le cadre du présent chapitre ou du livre Ier, titre XI, chapitres II et II/1, du Code civil s'effectue exclusivement au moyen du registre entre les catégories de personnes suivantes:
+
+1° la justice de paix, en ce compris le greffe;
+
+2° le ministère public;
+
+3° les autre services publics;
+
+4° les avocats, notaires et huissiers de justice;
+
+5° les fondations privées qui se consacrent exclusivement à la personne à protéger et les fondations d'utilité publique qui disposent, pour les personnes à protéger, d'un comité institué statutairement chargé d'assumer des administrations, établies en Belgique et qui sont inscrites dans le registre pour la procédure concernée.
+
+6° toute autre personne, pour autant qu'elle soit inscrite dans le registre pour la procédure concernée.
+
+Les fondations visées à l'alinéa 1er, 5°, sont réputées inscrites dès réception des modalités d'inscription dans le registre.
+
+A l'égard des personnes visées à l'alinéa 1er, 5° et 6°, qui ont été inscrites dans le registre à l'occasion d'une procédure antérieure, mais qui ne sont pas encore inscrites pour la procédure concernée, le greffe effectue la première communication ou notification au moyen du registre en demandant confirmation de cette inscription dans les trois jours ouvrables. La confirmation intervenue dans ce délai vaut inscription dans le registre pour la procédure concernée. A défaut de confirmation dans le délai, la communication ou notification électronique est réputée non avenue et le greffe procède à la communication ou notification en format papier.]<sup>2</sup>
+
+[<sup>1</sup> § 1er/1. A l'égard du destinataire, les délais qui commencent à courir à partir d'une notification ou d'une communication effectuée au moyen du registre sont calculés:
+
+1° lorsqu'il s'agit de la notification d'une convocation visée à l'article 1249/5, § 2, ou d'une décision visée à l'article 1249/5, § 3, depuis le jour qui suit celui de l'avis d'ouverture;
+
+2° dans les autres cas, depuis le jour qui suit celui de l'envoi, sauf preuve contraire du destinataire.
+
+Dans les cas visés à l'alinéa 1er, 1°, à défaut d'avis d'ouverture dans les deux jours ouvrables de l'envoi de la notification, celle-ci est réputée non avenue et il est procédé à la notification en format papier.]<sup>1</sup>
+
+[<sup>2</sup> § 2. Si un acte n'a pu être accompli dans les délais, même prescrits à peine de nullité ou de déchéance, en raison d'un dysfonctionnement du registre, celui-ci doit être accompli au plus tard le premier jour ouvrable suivant le dernier jour du délai, soit en format papier, soit par voie électronique, si le registre peut de nouveau être utilisé.
+
+§ 3. Toute notification, toute communication ou tout dépôt intervenus en violation des paragraphes 1er et 2 est considéré comme non-avenu.
+
+§ 4. Le texte du présent article est reproduit dans toute communication ou notification émanant du greffe. Lorsqu'elle est destinée à une partie qui n'est pas inscrite, elle contient en outre les modalités d'inscription dans le registre.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2021-05-10/01, art. 1, 186; En vigueur : 01-06-2021&gt;
+
+(2)&lt;L 2018-12-21/09, art. 72, 174; En vigueur : 01-06-2021&gt;
+
+**Art. 1249/5**
+
+[<sup>1</sup> § 1er. Lorsqu'elle n'a pas lieu par voie électronique et que cette voie n'est pas imposée par la présente sous-section, toute notification [<sup>2</sup> ou tout dépôt]<sup>2</sup> dans le cadre du présent chapitre ou du livre Ier, titre XI, chapitres II et II/1, du Code civil s'effectue conformément au présent article.
+
+§ 2. Toutes les convocations adressées à la personne protégée ou à protéger, aux administrateurs ou à la personne de confiance sont notifiées par le greffier par pli judiciaire.
+
+§ 3. Les décisions suivantes sont notifiées par le greffier par pli judiciaire:
+
+1° les décisions visant le mandat, son exécution ou y mettant fin, fondées sur les articles 490/1, §§ 2 et 3, et 490/2, § 2, alinéa 1er, du Code civil;
+
+2° les décisions relatives à la désignation d'un administrateur, à son remplacement, à la fin de son mandat ou relatives à la modification de ses missions, fondées sur les articles 490/2, § 1er, alinéa 4, 496/2, 496/3, alinéa 1er, 496/4, 496/7, 497/4 et 499/15 du Code civil;
+
+3° les décisions relatives à l'homologation de la désignation d'une personne de confiance, à son remplacement ou à la fin de sa mission, fondées sur les articles 501 et 501/1 du Code civil; et
+
+4° les décisions visant l'adoption, la modification ou la fin d'une mesure de protection judiciaire fondées sur les articles 490/1, § 2, alinéa 3, 490/2, § 2, alinéa 1er, 492/1, 492/4, 493, § 3, 499/4 et 498/1 du Code civil.
+
+§ 4. Toutes les autres notifications s'effectuent par pli simple.]<sup>1</sup>
+
+[<sup>2</sup> § 5. Toute requête, accompagnée des documents joints en annexe, est adressée par envoi recommandé au greffier de la juridiction ou déposée au greffe.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-21/09, art. 73, 174; En vigueur : 01-03-2019&gt;
+
+(2)&lt;L 2024-05-15/03, art. 64, 204; En vigueur : 07-06-2024&gt;
+
+**Art. 1249/6**
+
+[<sup>1</sup> § 1er. Le greffier convertit sous format électronique, déclare conforme et charge dans le registre les documents et pièces qui lui sont communiqués ou déposés par d'autres voies que le registre, lorsque ces voies sont autorisées en vertu de la présente sous-section. Le Roi peut déterminer la forme dans laquelle la déclaration est faite.
+
+En cas de discordance entre les documents et pièces sur papier et ceux chargés dans le registre, les documents et pièces sur papier priment sur ces derniers.
+
+Le Roi détermine les conditions de la rectification des données dans le registre.
+
+§ 2. Les documents et pièces qui, au moment de l'entrée en vigueur de la présente disposition, sont tenus au greffe sous format papier sont censés faire partie du registre. Ils ne doivent pas être chargés dans le registre et peuvent être consultés au greffe.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-21/09, art. 73, 174; En vigueur : 01-06-2021&gt;
+
+##### Section 2. [<sup>1</sup> - De la publicité des mesures de protection]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 75, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1250**
+
+[<sup>1</sup> Toute décision ordonnant une mesure de protection, y mettant fin ou la modifiant est, à la diligence du greffier, insérée par extrait au Moniteur belge. [<sup>2</sup> Il en est de même pour la mesure de protection étrangère reconnue ou déclarée exécutoire qui ordonne, modifie ou met fin à une mesure de protection étrangère visée à l'article 3, a) à d), f) et g) de la Convention de La Haye du 13 janvier 2000 sur la protection internationale des adultes, prise dans un Etat partie à la Convention ou pour une mesure de protection similaire à celles énumérées dans cet article, prise dans un Etat tiers à l'égard d'une personne majeure, reconnue par le juge de paix.]<sup>2</sup>
+
+La publication est faite dans les quinze jours de la décision ordonnant la mesure de protection, y mettant fin ou la modifiant [<sup>2</sup> ou reconnaissant ou rendant exécutoire une mesure de protection étrangère visée à l'alinéa 1er]<sup>2</sup>; les fonctionnaires auxquels l'omission ou le retard serait imputable sont tenus pour responsables envers les intéressés, s'il est prouvé que l'omission ou le retard résulte d'une collusion.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 76, 174; En vigueur : 01-03-2019&gt;
+
+(2)&lt;L 2019-03-10/03, art. 8, 184; En vigueur : 01-01-2021&gt;
+
+**Art. 1251**
+
+[<sup>1</sup> Dans le délai de quinze jours visé à l'article 1250, alinéa 2, un extrait de la décision est notifié par les soins du greffier au bourgmestre du domicile de la personne protégée, afin d'être consigné dans le registre de la population. Le bourgmestre délivre un extrait du registre de la population mentionnant le nom, l'adresse et l'état de capacité d'une personne, ainsi que l'identité de l'administrateur, à la personne même ou à tout tiers justifiant d'un intérêt.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 77, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1252**
+
+&lt;Abrogé par L 2018-12-21/09, art. 78, 174; En vigueur : 01-03-2019&gt;
+
+##### Section 2/1 [<sup>1</sup> - De la reconnaissance et de la déclaration de la force exécutoire des mesures de protection étrangères concernant une personne majeure et de la consultation préalable au placement de celle-ci en Belgique dans un établissement ou dans un endroit où sa protection peut être assurée.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-03-10/03, art. 9, 184; En vigueur : 01-01-2021&gt;
+
+###### Sous-section 1re. [<sup>1</sup> - De la reconnaissance et de la déclaration de la force exécutoire des mesures de protection étrangères concernant une personne majeure.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-03-10/03, art. 10, 184; En vigueur : 01-01-2021&gt;
+
+**Art. 1252/1**
+
+[<sup>1</sup> Sous réserve de l'application des articles 1252/2 à 1252/6, le juge de paix est saisi selon la procédure visée aux articles 1026 à 1034 :
+
+1° des demandes fondées sur les articles 23 et 25 de la Convention de La Haye du 13 janvier 2000 sur la protection internationale des adultes ; ou
+
+2° des demandes de reconnaissance ou de la déclaration de la force exécutoire des mesures similaires à celles énumérées dans l'article 3 de cette Convention prises dans un Etat tiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-03-10/03, art. 11, 184; En vigueur : 01-01-2021&gt;
+
+**Art. 1252/2**
+
+[<sup>1</sup> La requête est déposée via le registre central de la protection des personnes visé à l'article 1253/2.
+
+Les pièces jointes en annexe aux requêtes sont déposées au greffe ou déposées via le registre.
+
+Les notifications, communications et tout dépôt au greffe s'effectuent conformément aux articles 1249/4 à 1249/6. Toutefois, les décisions relatives à la reconnaissance ou à la déclaration de la force exécutoire des mesures de protection étrangères visées à l'article 1252/1 sont notifiées par pli judiciaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-03-10/03, art. 12, 184; En vigueur : 01-06-2021&gt;
+
+**Art. 1252/3**
+
+[<sup>1</sup> Les parties sont convoquées par le greffier à comparaître dans les huit jours de l'inscription de la requête au rôle général, à l'audience fixée par le juge.
+
+En cas d'urgence, le juge peut permettre par ordonnance de citer à l'audience dans un délai de trois jours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-03-10/03, art. 13, 184; En vigueur : 01-01-2021&gt;
+
+**Art. 1252/4**
+
+[<sup>1</sup> Le juge statue à bref délai après avoir examiné, le cas échéant, le respect des conditions visées à l'article 22, § 2, de la Convention de La Haye du 13 janvier 2000 sur la protection internationale des adultes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-03-10/03, art. 14, 184; En vigueur : 01-01-2021&gt;
+
+**Art. 1252/5**
+
+[<sup>1</sup> A la demande de la personne concernée, de tout intéressé, du procureur du Roi ou d'office, le juge de paix peut prendre une mesure de protection judiciaire visée à l'article 492/1 du Code civil en cas de reconnaissance ou de déclaration de la force exécutoire d'une décision étrangère visée à l'article 1252/1.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-03-10/03, art. 15, 184; En vigueur : 01-01-2021&gt;
+
+**Art. 1252/6**
+
+[<sup>1</sup> La décision est exécutoire par provision nonobstant appel et sans garantie si le juge n'a pas ordonné qu'il en soit constitué une.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-03-10/03, art. 16, 184; En vigueur : 01-01-2021&gt;
+
+###### Sous-section 2. [<sup>1</sup> - De la consultation préalable au placement en Belgique d'un adulte dans un établissement ou dans un endroit où sa protection peut être assurée et du placement de celui-ci à la suite de cette consultation préalable.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-03-10/03, art. 17, 184; En vigueur : 01-01-2021&gt;
+
+**Art. 1252/7**
+
+[<sup>1</sup> § 1er. Lorsqu'une autorité étrangère transmet une proposition de placement d'un adulte en Belgique en vertu de l'article 33 de la Convention de La Haye du 13 janvier 2000 sur la protection internationale des adultes, l'Autorité Centrale visée à l'article 1252/9 en accuse réception.
+
+Cette dernière communique la proposition de placement en Belgique, le rapport sur la personne concernée et les motifs de ce placement, au procureur du Roi de l'arrondissement dans lequel l'adulte résidera ou sera domicilié.
+
+Le procureur du Roi confirme dans le mois que le dossier transmis par l'Autorité Centrale étrangère est complet.
+
+Si le dossier n'est pas complet, le procureur du Roi demande, avec le concours de l'Autorité Centrale, que l'Autorité Centrale étrangère complète le dossier. Dès que le dossier est complet, le procureur du Roi le confirme à l'Autorité Centrale.
+
+§ 2. Le procureur du Roi émet un avis circonstancié et motivé dans un délai de trois mois à compter de la notification du caractère complet à l'Autorité Centrale étrangère, qui peut être prorogé une fois pour une période de deux mois. Il peut à cette occasion marquer son opposition à la proposition de placement. Cet avis est rendu, en tenant compte particulièrement des intérêts de la personne à placer.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-03-10/03, art. 18, 184; En vigueur : 01-01-2021&gt;
+
+**Art. 1252/8**
+
+[<sup>1</sup> En cas de reconnaissance de la décision étrangère conformément aux articles 1252/1 à 1252/6, le greffier notifie, par pli judiciaire, la décision de reconnaissance et la décision étrangère de placement visée à l'article 33 de la Convention de La Haye du 13 janvier 2000 sur la protection internationale des adultes, au directeur de l'établissement auquel appartient le service psychiatrique ou à la personne qui prend en charge l'adulte, désignés par la décision étrangère. Il en avise immédiatement le procureur du Roi.
+
+Dès la notification, le directeur de l'établissement ou la personne qui prend en charge l'adulte adopte toute disposition nécessaire à l'organisation du placement de la personne concernée. Le procureur du Roi s'assure de la mise en oeuvre de ces dispositions. Il veille en particulier à ce que le directeur de l'établissement ou la personne qui prend en charge l'adulte maintienne cette dernière sous sa garde, effectue son transport ou son transfert et, le cas échéant, procède à son admission.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-03-10/03, art. 19, 184; En vigueur : 01-01-2021&gt;
+
+###### Sous-section 3. [<sup>1</sup> - De l'Autorité Centrale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-03-10/03, art. 20, 184; En vigueur : 01-01-2021&gt;
+
+**Art. 1252/9**
+
+[<sup>1</sup> § 1er. Pour l'application des dispositions de la Convention de La Haye du 13 janvier 2000 sur la protection internationale des adultes, l'Autorité Centrale est le Service Public Fédéral Justice.
+
+§ 2. Dans le cadre des demandes visées aux articles 29, 30, 32, 34 et 35 de cette Convention, l'Autorité Centrale peut demander l'avis d'une autorité ou d'un organisme qu'elle juge utile de consulter et/ou recueillir toute information ou document nécessaire à son traitement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-03-10/03, art. 21, 184; En vigueur : 01-01-2021&gt;
+
+**Art. 1252/10**
+
+[<sup>1</sup> L'Autorité Centrale est seule habilitée à assurer la transmission des pièces et demandes aux autorités compétentes de l'Etat requérant ou aux autorités belges compétentes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-03-10/03, art. 22, 184; En vigueur : 01-01-2021&gt;
+
+##### Section 3. - [<sup>1</sup> Du dossier administratif]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-03-17/14, art. 198, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+**Art. 1253**
+
+[<sup>1</sup> [<sup>4</sup> Sans préjudice de l'article 1249/6, § 2, le greffier de la justice de paix tient, dans le registre visé à l'article 1253/2, pour chaque personne protégée,]<sup>4</sup> un dossier administratif qui comprend notamment :
+
+1° une copie certifiée conforme de l'ordonnance visant à adjoindre un administrateur à la personne protégée [<sup>2</sup> , et, le cas échéant, de la requête qui en est à l'origine]<sup>2</sup>;
+
+2° le rapport décrivant le patrimoine à gérer et les sources de revenus de la personne protégée;
+
+3° les rapports déposés chaque année et dans les trente jours suivant la fin de la mission de l'administrateur;
+
+4° [<sup>4</sup> une copie de toutes les ordonnances prononcées dans le cadre de l'administration, ainsi que celles éventuellement prononcées en appel, et, le cas échéant, des requêtes qui en sont à l'origine;]<sup>4</sup>
+
+5° tous les autres documents, tels que la correspondance et les autres documents parvenant au greffe, à condition qu'ils ne doivent pas être classés dans le dossier correspondant de la procédure, conformément à l'article 721;
+
+6° une copie certifiée conforme du procès-verbal dans lequel l'administrateur exprime sa préférence concernant la désignation d'un administrateur au cas où il ne serait plus en mesure de continuer à exercer lui-même cette fonction;
+
+7° [<sup>2</sup> le procès-verbal d'audition de la personne protégée ou à protéger visé à l'article 1245, § 2;]<sup>2</sup>
+
+[<sup>2</sup> 8° une copie des certificats médicaux circonstanciés visés à l'article 1241, § 1er, et des avis sur l'état de santé de la personne concernée visés à l'article 1246, § 2, alinéa 1er;]<sup>2</sup>
+
+[<sup>3</sup> 9° une copie certifiée conforme de l'ordonnance visant à reconnaître ou donner force exécutoire à une mesure de protection étrangère visée à l'article 3 de la Convention de La Haye du 13 janvier 2000 sur la protection internationale des adultes, prise dans un Etat partie à la Convention ou visant à reconnaître ou donner force exécutoire à une mesure de protection étrangère similaire à celles énumérées dans cet article, prise dans un Etat tiers, à l'égard d'une personne majeure;]<sup>3</sup>
+
+[<sup>5</sup> 10° l'information relative à la personne protégée demandée au Point de contact central tenu par la Banque nationale de Belgique, conformément à l'article 497/6, alinéa 2, de l'ancien Code civil, lorsque le juge de paix a chargé le greffier de verser cette information au dossier administratif.]<sup>5</sup>
+
+Il est joint au dossier administratif un inventaire des pièces, tenu à jour par le greffier et mentionnant la date de dépôt, le numéro d'inscription et la nature de ces pièces.
+
+Le dossier administratif est conservé [<sup>2</sup> au sein du registre]<sup>2</sup> pendant un délai de cinq ans après la fin de l'administration; passé ce délai, il sera détruit.
+
+Si le lieu d'administration est modifié, [<sup>2</sup> le greffier communique le dossier administratif au nouveau juge de paix compétent conformément à l'article 628, 3°]<sup>2</sup>.
+
+Au besoin, le greffier établit les copies certifiées conformes des pièces dont le dépôt dans des dossiers distincts se justifie.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-03-17/14, art. 199, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+(2)&lt;L 2018-12-21/09, art. 79,b,d-g, 174; En vigueur : 01-03-2019&gt;
+
+(3)&lt;L 2019-03-10/03, art. 23, 184; En vigueur : 01-01-2021&gt;
+
+(4)&lt;L 2018-12-21/09, art. 79,a,c, 174; En vigueur : 01-06-2021&gt;
+
+(5)&lt;L 2021-11-28/01, art. 27, 188; En vigueur : 10-12-2021&gt;
+
+**Art. 1253/1**
+
+[<sup>1</sup> § 1er. La personne protégée, sa personne de confiance et son administrateur ainsi que le procureur du Roi ont, pendant la durée de l'administration, le droit de consulter le dossier administratif visé à l'article 1253 [<sup>2</sup> ...]<sup>2</sup>.
+
+Après le décès de la personne protégée, ce droit revient à ses héritiers, au procureur du Roi ainsi qu'au notaire chargé de la liquidation et du partage de sa succession.
+
+§ 2. Tout autre intéressé qui souhaite consulter le dossier visé au § 1er peut introduire une requête motivée à cet effet auprès du juge de paix [<sup>2</sup> ...]<sup>2</sup>.
+
+Le juge de paix met en balance les droits et intérêts du requérant lors de l'exercice du droit de consultation et les droits et intérêts de la personne protégée et, en particulier, son droit à la vie privée. Si le juge de paix accède à la demande, il détermine les documents du dossier que le requérant peut consulter.
+
+§ 3. Les personnes visées au § 1er ont également droit à une copie de l'ensemble ou d'une partie du dossier administratif.
+
+Le juge de paix détermine, dans son ordonnance visée au § 2, si l'intéressé a le droit d'obtenir une copie.
+
+Le Roi peut fixer le montant maximum pouvant être demandé par page copiée ou par autre support d'information.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-03-17/14, art. 200, 124; En vigueur : 01-09-2014 (L 2014-05-12/02, art. 22)&gt;
+
+(2)&lt;L 2018-12-21/09, art. 80, 174; En vigueur : 01-03-2019&gt;
+
+##### Section 4. [<sup>1</sup> - Du registre central de la protection des personnes]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-21/09, art. 81, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1253/2**
+
+[<sup>1</sup> Le registre central de la protection des personnes, ci-après dénommé "registre", est la banque de données informatisée qui permet la gestion, le suivi et le traitement des procédures relatives aux personnes protégées.
+
+Le registre rassemble toutes les pièces et toutes les données relatives aux procédures visées au présent chapitre ainsi qu'au livre Ier, titre XI, chapitres II et II/1, du Code civil. Ces pièces et ces données sont dénommées, ci-après, "données du registre".
+
+Le registre vaut comme source authentique pour tous les actes et données qui y sont enregistrés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-21/09, art. 82, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1253/3**
+
+[<sup>1</sup> Le Service public fédéral Justice, ci-après dénommé "le gestionnaire", met en place le registre, en assure la gestion opérationnelle et fournit les moyens techniques du traitement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-21/09, art. 83, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1253/4**
+
+[<sup>1</sup> § 1er. Les magistrats de l'ordre judiciaire visés à l'article 58bis, les greffiers et les administrateurs, dans le cadre de l'accomplissement de leurs missions légales, ainsi que la personne protégée ou à protéger ou, après le décès de celle-ci, ses héritiers, la personne de confiance et généralement toute partie à une procédure dont le traitement est assuré par le registre, leurs avocats, les notaires, les huissiers et le gestionnaire peuvent accéder aux données du registre qui sont pertinentes pour eux, selon les modalités fixées par le Roi, après avis de l'Autorité de protection des données.
+
+Le Roi peut, après avis de l'Autorité de protection des données, permettre à d'autres catégories de personnes ou d'institutions de consulter ces données dans les conditions qu'Il détermine.
+
+§ 2. Le gestionnaire n'est pas autorisé à communiquer les données du registre à d'autres personnes que celles visées au paragraphe 1er.
+
+Quiconque participe, à quelque titre que ce soit, à la collecte, au traitement ou à la communication des données du registre, ou a connaissance de telles données est tenu d'en respecter le caractère confidentiel.
+
+[<sup>2</sup> L'article 352]<sup>2</sup> du Code pénal leur est applicable.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-21/09, art. 84, 174; En vigueur : 01-03-2019&gt;
+
+(2)&lt;L 2026-03-30/01, art. 64, 213; En vigueur : 01-09-2026&gt;
+
+**Art. 1253/5**
+
+[<sup>1</sup> Le gestionnaire fournit les moyens opérationnels pour satisfaire aux obligations visées aux articles 13 et 14 du Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-21/09, art. 85, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1253/6**
+
+[<sup>1</sup> Les données du registre sont conservées pendant les cinq années qui suivent la fin des mesures de protection.
+
+A l'expiration de ce délai, les données du registre sont effacées, sans préjudice de la loi du 24 juin 1955 relative aux archives.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-21/09, art. 86, 174; En vigueur : 01-03-2019&gt;
+
+**Art. 1253/7**
+
+[<sup>1</sup> Le Roi détermine, après avoir recueilli l'avis de l'Autorité de protection des données, les données du registre, les modalités de mise en place et de fonctionnement du registre ainsi que les modalités d'accès et d'inscription au registre, et le contrôle a posteriori de l'intérêt à y accéder.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-12-21/09, art. 87, 174; En vigueur : 01-03-2019&gt;
+
+#### CHAPITRE Xbis. - [<sup>1</sup> Des demandes relatives aux droits et devoirs qui naissent des relations familiales]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 193, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1253bis**
+
+[<sup>1</sup> Le tribunal de la famille tient compte de tous les éléments utiles qui figurent dans le dossier familial visé à l'article 725bis.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 194, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1253ter**
+
+&lt;L 14-7-1976, art. 29&gt; La requête contient les nom, prénom [<sup>1</sup> ...]<sup>1</sup> et domicile des époux.
+
+La requête écrite est signée par le demandeur ou son avocat. (Les articles 1034bis à 1034sexies sont applicables à la requête écrite.) &lt;L 1992-08-03/31, art. 54, 020; En vigueur : 01-01-1993&gt;
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 131, 174; En vigueur : 10-01-2019&gt;
+
+**Art. 1253ter/1**
+
+[<sup>2</sup> § 1er.]<sup>2</sup> [<sup>1</sup> Dans toutes les causes relevant du tribunal de la famille, dès qu'une demande est introduite, le greffier informe les parties de la possibilité de médiation, de conciliation et de tout autre mode de résolution amiable des conflits en leur envoyant immédiatement le texte des articles 1730 à 1737 accompagné d'une brochure d'information concernant la médiation, rédigée par le ministre qui a la Justice dans ses attributions, la liste des médiateurs agréés spécialisés en matière familiale établis dans l'arrondissement judiciaire, ainsi que les renseignements concernant les séances d'information, permanences ou autres initiatives organisées dans l'arrondissement judiciaire afin de promouvoir la résolution amiable des conflits.]<sup>1</sup>
+
+[<sup>2</sup> § 2. En matière familiale, lors de la comparution des parties à l'audience introductive d'instance, le juge entend les parties sur la manière dont elles ont tenté de résoudre le litige à l'amiable avant l'introduction de la cause, et afin de déterminer si une résolution à l'amiable est envisageable.
+
+A la demande des parties ou si le juge l'estime utile, il peut remettre l'affaire à une date déterminée qui ne peut excéder le délai d'un mois, sauf s'il existe à cet égard un accord entre les parties selon les modalités prévues à l'article 730/1. A la demande des parties ou s'il l'estime utile, il peut également renvoyer l'affaire devant la chambre de règlement à l'amiable, conformément [<sup>4</sup> aux articles 734/1 à 734/4]<sup>4</sup>. [<sup>3</sup> Toutefois, s`il existe des indices sérieux que des violences, des menaces ou toute autre forme de pression sont ou ont été exercées par une partie à l'encontre de l'autre partie, l'article 1734, § 1er, alinéa 3, s'applique par analogie.]<sup>3</sup>
+
+§ 3. [<sup>4</sup> ...]<sup>4</sup>]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-30/23, art. 195, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2018-06-15/03, art. 4, 166; En vigueur : 12-07-2018&gt;
+
+(3)&lt;L 2022-11-06/01, art. 3, 193; En vigueur : 01-12-2022&gt;
+
+(4)&lt;L 2023-12-19/05, art. 52, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 1253ter/2**
+
+[<sup>1</sup> Dans toutes les causes visées à l'article 1253ter/4, § 2, 1° à 4°, les parties sont tenues de comparaître en personne à l'audience d'introduction.
+
+Par dérogation à l'alinéa 1er, les parties sont tenues, dans toutes les causes concernant des enfants mineurs, de comparaître en personne à l'audience d'introduction, ainsi qu'à l'audience où sont discutées les questions concernant les enfants et aux audiences de plaidoiries.
+
+En cas de circonstances exceptionnelles, le juge peut autoriser une dérogation à la comparution personnelle des parties prévue par les alinéas 1er et 2.
+
+Si le demandeur ne comparaît pas en personne, le juge, selon les circonstances qu'il apprécie, déclare le demandeur déchu de sa demande, ou renvoie la cause au rôle particulier de la chambre. Dans ce dernier cas, la cause peut être ramenée à l'audience dans un délai de quinze jours, à la demande d'une des parties. Si le défendeur ne comparaît pas en personne, le juge peut, soit rendre un jugement par défaut, soit remettre la cause à une audience ultérieure. Dans ce dernier cas, un nouveau pli judiciaire est envoyé au défendeur. Si le défendeur ne comparaît toujours pas à cette nouvelle audience, le tribunal prononce, sauf circonstances exceptionnelles, un jugement réputé contradictoire.
+
+En cas d'accord des parties rédigé par un avocat, un notaire ou un médiateur agréé sur toutes les demandes formulées dans l'acte introductif d'instance, la comparution personnelle des parties n'est pas requise et le tribunal homologue l'accord des parties, pour autant que celui-ci ne soit pas manifestement contraire à l'intérêt de l'enfant. Toutefois, le juge peut toujours ordonner la comparution personnelle des parties, soit d'office, soit à la demande du ministère public.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-30/23, art. 196, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1253ter/3**
+
+[<sup>1</sup> § 1er. [<sup>2</sup> Si les parties, dans les causes visées à l'article 1253ter/4, § 2, alinéa 1er, 1° à 4°, ne sont pas parvenues à un accord, le tribunal de la famille les entend sur leur litige.]<sup>2</sup>
+
+Sans préjudice de l'article 1253ter/2, le [<sup>2</sup> tribunal]<sup>2</sup> peut, en tout état de cause, ordonner aux parties de comparaître en personne, à la demande d'une des parties ou du ministère public, ou s'il l'estime utile, notamment afin de concilier les parties ou d'apprécier l'opportunité d'un accord. Le [<sup>2</sup> tribunal]<sup>2</sup> peut proposer aux parties d'examiner si une conciliation ou une médiation est possible. [<sup>5</sup> Toutefois, s'il existe des indices sérieux que des violences, des menaces ou toute autre forme de pression sont ou ont été exercées par une partie à l'encontre de l'autre partie, l'article 1734, § 1er, alinéa 3, s'applique par analogie.]<sup>5</sup>
+
+Si le demandeur ne comparaît pas en personne, le [1 tribunal]1, selon les circonstances qu'il apprécie, déclare le demandeur déchu de sa demande, ou renvoie la cause au rôle particulier de la chambre. Dans ce dernier cas, la cause peut être ramenée à l'audience dans un délai de quinze jours, à la demande d'une des parties. Si le défendeur ne comparaît pas en personne, le [<sup>2</sup> tribunal]<sup>2</sup> peut, soit rendre un jugement par défaut, soit remettre la cause à une audience ultérieure. Dans ce dernier cas, un nouveau pli judiciaire est envoyé au défendeur. Si le défendeur ne comparaît toujours pas à cette nouvelle audience, le tribunal prononce, sauf circonstances exceptionnelles, un jugement réputé contradictoire.
+
+§ 2. [<sup>2</sup> Moyennant accord de toutes les parties, le tribunal peut remettre à une date déterminée, qui ne peut excéder [<sup>3</sup> le délai fixé]<sup>3</sup> à l'article 1734, afin de permettre aux parties d'examiner si des accords peuvent être conclus ou si une médiation peut leur offrir une solution, ou renvoyer l'affaire à la chambre de règlement à l'amiable, conformément à l'article [<sup>6</sup> 734/1, § 2]<sup>6</sup>. L'affaire peut être reprise plus tôt, sur demande écrite d'une des parties.]<sup>2</sup>
+
+§ 3. A tout moment, les parties peuvent demander au [<sup>2</sup> tribunal]<sup>2</sup> d'homologuer leurs accords relatifs aux mesures visées à l'article 1253ter/4, § 2 [1 alinéa 1er]1, 1° à 4°. Le [<sup>2</sup> tribunal]<sup>2</sup> peut refuser d'homologuer l'accord s'il est manifestement contraire à l'intérêt des enfants.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-30/23, art. 197, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;2014-05-08/02, art. 77, 132; En vigueur : 01-09-2014&gt;
+
+(3)&lt;L 2017-07-06/24, art. 80, 154; En vigueur : 03-08-2017&gt;
+
+(4)&lt;L 2018-06-15/03, art. 5, 166; En vigueur : 12-07-2018&gt;
+
+(5)&lt;L 2022-11-06/01, art. 4, 193; En vigueur : 01-12-2022&gt;
+
+(6)&lt;L 2023-12-19/05, art. 53, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 1253ter/4**
+
+[<sup>1</sup> § 1er. Lorsque l'urgence est invoquée, le tribunal de la famille statue en référé.
+
+A défaut d'urgence, et sauf application de l'article 1043, le juge renvoie la cause à une audience ordinaire.
+
+§ 2. Sont réputées urgentes et peuvent être introduites par requête contradictoire, citation ou requête conjointe, les causes relatives:
+
+1° aux résidences séparées;
+
+2° à l'autorité parentale;
+
+[<sup>4</sup> 2/1° à l'accueil familial;]<sup>4</sup>
+
+3° [<sup>2</sup> à l'hébergement et au droit aux relations personnelles avec un enfant mineur;]<sup>2</sup>
+
+4° aux obligations alimentaires;
+
+5° [<sup>2</sup> aux droits de garde et de visite transfrontières sous réserve de l'application du chapitre XIIbis, livre IV, de la quatrième partie;]<sup>2</sup>
+
+6° [<sup>5</sup> aux refus de célébrer le mariage visés à l'article 167 du Code civil, aux refus d'acter la reconnaissance visés à l'article 330/2 du Code civil et aux refus d'acter la déclaration de cohabitation légale]<sup>5</sup> visés à l'article 1476quater, alinéa 5, du Code civil;
+
+7° aux mesures provisoires ordonnées sur la base de l'article 1253ter/5.
+
+[<sup>3</sup> Les causes sont introduites et instruites comme en référé.]<sup>3</sup>
+
+Si la cause est introduite par citation, le délai visé à l'article 1035, alinéa 2, est d'application.
+
+Dans les autres cas, l'audience d'introduction a lieu au plus tard dans les quinze jours qui suivent le dépôt [<sup>2</sup> de la requête]<sup>2</sup> au greffe.
+
+Si les causes visées à l'alinéa 1er sont introduites en même temps que d'autres causes, le tribunal de la famille peut décider d'appliquer la procédure décrite dans le présent article à ces autres demandes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-30/23, art. 198, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2014-05-08/02, art. 78, 132; En vigueur : 01-09-2014
+
+(3)&lt;L 2017-07-06/24, art. 81, 154; En vigueur : 03-08-2017&gt;
+
+(4)&lt;L 2017-03-19/08, art. 18, 155; En vigueur : 01-09-2017&gt;
+
+(5)&lt;L 2020-07-31/03, art. 40, 181; En vigueur : 17-08-2020&gt;
+
+**Art. 1253ter/5**
+
+[<sup>1</sup> Outre celles prises conformément aux [<sup>3</sup> articles 19, alinéa 3]<sup>3</sup>, et 735, § 2, le [<sup>2</sup> tribunal]<sup>2</sup> peut prendre [<sup>3</sup> les mesures provisoires]<sup>3</sup> suivantes:
+
+1° ordonner ou modifier toute disposition relative à l'autorité parentale, à l'hébergement et au droit aux relations personnelles;
+
+2° fixer, modifier ou supprimer les pensions alimentaires;
+
+3° fixer les résidences séparées des époux et des cohabitants légaux;
+
+4° interdire à un des époux, pendant la durée qu'il fixe, d'aliéner, d'hypothéquer ou d'engager des biens mobiliers ou immobiliers propres ou communs sans le consentement du conjoint; il peut interdire le déplacement des meubles ou en attribuer l'usage personnel à un des deux époux;
+
+5° obliger l'époux qui possède les biens mobiliers à donner caution ou à justifier d'une solvabilité suffisante;
+
+6° utiliser les mêmes pouvoirs que ceux qui lui sont attribués à l'article 221 du Code civil;
+
+7° fixer la résidence conjugale des époux en cas de désaccord;
+
+8° [<sup>2</sup> ...]<sup>2</sup>.
+
+Lorsque la demande est introduite par requête, l'audience d'introduction doit intervenir dans les quinze jours à dater du dépôt de la requête.
+
+En ce qui concerne la fixation des résidences séparées visées à l'[<sup>2</sup> alinéa 1er]<sup>2</sup>, 3°, si un époux ou un cohabitant légal se rend coupable, à l'égard de son conjoint, d'un fait visé à [<sup>4</sup> l'article 138, 143, cinquième tiret, 144, cinquième tiret, 194, 195, 196 ou 198 du Code pénal ou a tenté de commettre un fait visé à l'article 96, 97, 138, 143, cinquième tiret, ou 144, cinquième tiret,]<sup>4</sup> du même Code, ou s'il existe des indications sérieuses de tels comportements, l'autre époux ou cohabitant légal se verra attribuer, s'il en fait la demande et sauf circonstances exceptionnelles, la jouissance de la résidence conjugale ou commune.
+
+Les actes d'aliénation visés à l'[<sup>2</sup> alinéa 1er]<sup>2</sup>, 4°, sont les actes visés à l'article 1er de la loi du 16 décembre 1851 sur la révision du régime hypothécaire et à l'article 8 de la loi du 10 février 1908 sur la navigation maritime et la navigation intérieure.
+
+[<sup>2</sup> Dans le cas visé à l'alinéa 1er, 6°, le jugement du tribunal de la famille peut être opposé à tous tiers débiteurs actuels ou futurs sur la notification qui leur aura été faite par le greffier à la requête d'une des parties.]<sup>2</sup> Lorsque le jugement cesse de produire ses effets, les tiers débiteurs en sont informés de la même manière à la requête de la partie la plus diligente.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-30/23, art. 199, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2014-05-08/02, art. 79, 132; En vigueur : 01-09-2014&gt;
+
+(3)&lt;L 2017-07-06/24, art. 82, 154; En vigueur : 03-08-2017&gt;
+
+(4)&lt;L 2026-03-30/01, art. 65, 213; En vigueur : 01-09-2026&gt;
+
+**Art. 1253ter/6**
+
+[<sup>1</sup> Si une demande relative à un mineur lui est soumise, le tribunal de la famille prend toutes diligences et fait procéder à toutes investigations utiles, compte tenu de l'intérêt supérieur de l'enfant.
+
+Le tribunal peut notamment faire procéder à toutes investigations utiles pour connaître la personnalité de l'enfant, le milieu où il est élevé, afin de déterminer son intérêt et les moyens appropriés à son éducation ou à son traitement.
+
+Il peut faire procéder à une étude sociale par l'intermédiaire du service social compétent et soumettre l`enfant à un examen médico-psychologique, lorsque le dossier qui lui est soumis ne lui paraît pas suffisant.
+
+Lorsque le tribunal fait procéder à une étude sociale, il ne peut, sauf en cas d'extrême urgence, prendre ou modifier sa décision qu'après avoir pris connaissance de l'avis du service social compétent, à moins que cet avis ne lui parvienne pas dans le délai qu'il a fixé [<sup>2</sup> et qui ne peut dépasser trois mois ou, si le délai court totalement ou partiellement pendant les vacances judiciaires, quatre mois]<sup>2</sup>.
+
+L'information est, en tout cas, communiquée aux parties avant l'audience.
+
+Le tribunal tient compte, le cas échéant, des opinions exprimées par les enfants conformément à l'article 1004/1.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-30/23, art. 200, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2017-07-06/24, art. 83, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 1253ter/7**
+
+[<sup>1</sup> § 1er. Par dérogation aux dispositions de la troisième partie, titre III, les causes réputées urgentes restent inscrites au rôle du tribunal de la famille, même en cas de décision en degré d'appel. En cas d'éléments nouveaux, la même cause peut être ramenée devant le tribunal, dans un délai de quinze jours, par conclusions ou par demande écrite, déposée ou adressée au greffe. Ces éléments nouveaux doivent être indiqués dans les conclusions ou la demande écrite, à peine de nullité.
+
+Par "éléments nouveaux", il y a lieu d'entendre :
+
+1° de manière générale, un élément inconnu lors de la première demande;
+
+2° en matière alimentaire, des circonstances nouvelles propres aux parties ou aux enfants et susceptibles de modifier sensiblement leur situation;
+
+3° en matière d'hébergement, de droits aux relations personnelles et d'exercice de l'autorité parentale, des circonstances nouvelles qui sont susceptibles de modifier la situation des parties ou celle de l'enfant. Toutefois, dans ce dernier cas, le tribunal ne pourra faire droit à cette nouvelle demande que si l'intérêt de l'enfant le justifie.
+
+§ 2. En cas de recours inapproprié à la possibilité prévue au § 1er, alinéa 1er, de ramener la cause devant le tribunal, le juge peut exercer la faculté qui lui est attribuée à l'[<sup>2</sup> article 780bis]<sup>2</sup>.
+
+§ 3. L'article 730, § 2, a), n'est pas applicable aux causes visées par la saisine permanente du présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-30/23, art. 201, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2014-05-08/02, art. 80, 132; En vigueur : 01-09-2014&gt;
+
+**Art. 1253ter/8**
+
+[<sup>1</sup> Le tribunal de la famille est saisi dans les matières prévues aux articles 353-10 et 354-2 du Code civil, et sans préjudice des articles 145, 478, et 479 du même Code et des articles 1231-3, 1231-24, 1231-27 et 1231-46, par une requête signée selon les cas, par le mineur, les père, mère, tuteur, subrogé tuteur, curateur, membre de la famille ou membre du centre public d'aide sociale, ou par citation, à la requête du ministère public.]<sup>1</sup>
+
+[<sup>2</sup> Le tribunal de la famille peut, à la demande de la partie la plus diligente ou du ministère public, se prononcer sur les mesures relatives à l'autorité parentale visées à l'article 7 de la loi du 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-07-30/23, art. 202, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2017-03-19/08, art. 19, 155; En vigueur : 01-09-2017&gt;
+
+**Art. 1253quater**
+
+&lt;L 14-7-1976, art. 29&gt; [<sup>2</sup> Sous réserve de l'application des articles 1253ter/4 et 1253ter/7, lorsque les demandes sont fondées sur les articles 214, 215, 216, [<sup>5</sup> 221 et 223 de l'ancien Code civil et sur les articles 2.3.34, 2.3.35, 2.3.40, 2.3.56, alinéa 3, et 2.3.63 du Code civil]<sup>5</sup> :]<sup>2</sup>
+
+a) [<sup>2</sup> le tribunal fait convoquer les parties et, le cas échéant, renvoie les parties aux chambres de règlement à l'amiable, conformément à l'article [<sup>6</sup> 734/1, § 2]<sup>6</sup>;]<sup>2</sup>
+
+b) [<sup>2</sup> l'ordonnance est notifiée aux deux époux par le greffier.]<sup>2</sup>
+
+c) si l'ordonnance est rendue par défaut, le défaillant peut [<sup>1</sup> dans le mois de la notification par pli judiciaire]<sup>1</sup> former opposition par requête déposée au greffe du tribunal;
+
+d) l'ordonnance est susceptible d'appel quel que soit le montant de la demande : l'appel est interjeté [<sup>1</sup> dans le mois de la notification par pli judiciaire]<sup>1</sup>;
+
+e) chacun des époux peut à tout moment demander, dans les mêmes formes, la modification ou la rétraction de l'ordonnance ou de l'arrêt.
+
+----------
+
+(1)&lt;L 2010-03-19/05, art. 11, 108; En vigueur : 01-08-2010; voir également l'art. 17&gt;
+
+(2)&lt;L 2010-06-02/35, art. 9, 111; En vigueur : 10-07-2010; voir aussi L 2014-05-08/02, art. 81, 132; En vigueur : 01-09-2014&gt;
+
+(3)&lt;L 2018-06-15/03, art. 6, 166; En vigueur : 12-07-2018&gt;
+
+(4)&lt;L 2018-07-22/01, art. 53, 171; En vigueur : 01-09-2018&gt;
+
+(5)&lt;L 2022-01-19/18, art. 31, 189; En vigueur : 01-07-2022&gt;
+
+(6)&lt;L 2023-12-19/05, art. 54, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 1253quinquies**
+
+&lt;L 14-7-1976, art. 29&gt; Le [<sup>1</sup> tribunal de la famille]<sup>1</sup>, saisi d'une demande fondée sur les articles 220, § 3, 221 et 223 du Code civil, peut ordonner aux époux et même aux tiers, la communication de tous renseignements et documents de nature à établir le montant des revenus et créances des époux; s'il n'est pas donné suite par le tiers à la réquisition du [<sup>1</sup> tribunal]<sup>1</sup> dans le délai qu'il détermine ou si les renseignements donnés apparaissent incomplets ou inexacts, le [<sup>1</sup> tribunal]<sup>1</sup> peut, par jugement motivé, ordonner la comparution du tiers à la date qu'il fixe. Le greffier convoque le tiers par pli judiciaire et joint à la convocation une copie du jugement.
+
+Le tiers défaillant ou se refusant à fournir les renseignements demandés est passible des sanctions prévues à l'article 926; la convocation reproduit à peine de nullité la phrase précédente et le texte de l'article 926.
+
+Lorsque le [<sup>1</sup> tribunal]<sup>1</sup> ordonne à une administration publique de lui fournir des renseignements sur les revenus et créances des époux, le secret imposé aux fonctionnaires de cette administration est levé.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 204, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1253sexies**
+
+&lt;L 14-7-1976, art. 29&gt; § 1er. Les [<sup>1</sup> demandes]<sup>1</sup> fondées sur [<sup>4</sup> l'article 223 de l'ancien Code civil et l'article 2.3.35 du Code civil]<sup>4</sup> et demandant que soit ordonnée l'interdiction d'aliéner ou d'hypothéquer des biens susceptibles d'hypothèque, contiennent les lieux et dates de naissance des époux, l'indication spéciale de la nature et de la situation de chacun des immeubles visés dans la requête [<sup>3</sup> et, pour les navires, les mentions visées dans l'article 2.1.27 du Code belge de la Navigation]<sup>3</sup>]<sup>1</sup>.
+
+L'ordonnance prononçant cette interdiction contient les mêmes indications; à la demande de l'époux qui l'a obtenue, un extrait en est notifié par le greffier [<sup>2</sup> à l'Administration générale de la Documentation patrimoniale]<sup>2</sup> pour être inscrit en marge du dernier titre d'acquisition transcrit des immeubles ou navires visés dans l'ordonnance.
+
+§ 2. La notification, faite au défendeur, de l'ordonnance fondée sur l'article 223 du Code civil, comportant l'interdiction d'aliéner ou de donner en gage des biens meubles, reproduit le texte de [<sup>5</sup> l'article 665]<sup>5</sup> du Code pénal.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 205, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2018-07-11/07, art. 48, 168; En vigueur : 30-07-2018&gt;
+
+(3)&lt;L 2019-05-08/14, art. 56, 182; En vigueur : 01-09-2020&gt;
+
+(4)&lt;L 2022-01-19/18, art. 32, 189; En vigueur : 01-07-2022&gt;
+
+(5)&lt;L 2026-03-30/01, art. 66, 213; En vigueur : 01-09-2026&gt;
+
+**Art. 1253septies**
+
+&lt;L 14-7-1976, art. 29&gt; [<sup>1</sup> Dans les cas d'urgence, l'époux qui demande l'interdiction d'aliéner ou d'hypothéquer des biens susceptibles d'hypothèque peut demander qu'avant même de statuer sur le mérite de la demande, le tribunal de la famille l'autorise à faire inscrire sa demande en marge du dernier titre d'acquisition transcrit des biens visés dans l'acte introductif d'instance. Un extrait du jugement est notifié par le greffier [<sup>2</sup> à l'Administration générale de la Documentation patrimoniale]<sup>2</sup>]<sup>1</sup>.
+
+De même, l'époux qui demande que soit prononcée l'interdiction d'aliéner ou de donner en gage des biens meubles ou des créances, peut demander à être autorisé à faire opposition entre les mains de son conjoint ou d'un tiers; cette opposition, faite par exploit d'huissier de justice, vaut interdiction d'aliéner, de donner en gage ou de déplacer jusqu'au prononcé de l'ordonnance statuant sur le mérite de la requête.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 206, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2018-07-11/07, art. 49, 168; En vigueur : 30-07-2018&gt;
+
+**Art. 1253octies**
+
+&lt;L 14-7-1976, art. 29&gt; Les inscriptions portées dans les registres [<sup>1</sup> de la publicité hypothécaire]<sup>1</sup> en exécution des articles précédents, valent pour six mois à moins que l'ordonnance n'ait fixé une autre durée.
+
+Elles cessent en tout ou en partie leurs effets à la suite d'une ordonnance ou d'un arrêt modificatif; elles peuvent être radiées du consentement de l'époux ou de ses ayants cause ou par décision de justice, conformément aux articles 92 à 95 de la loi hypothécaire du 16 décembre 1851.
+
+----------
+
+(1)&lt;L 2018-07-11/07, art. 50, 168; En vigueur : 30-07-2018&gt;
+
+#### CHAPITRE XI. - Du divorce, de la séparation de corps et de la séparation de biens.
+
+##### Section Ière. - (Du divorce pour désunion irrémédiable) &lt;L 2007-04-27/00, art. 21, 1°, 087; En vigueur : 01-09-2007&gt;
+
+**Art. 1254**
+
+&lt;L 2007-04-27/00, art. 22, 087; En vigueur : 01-09-2007&gt; § 1er. [<sup>1</sup> La demande en divorce fondée sur l'article 229, § 2, du Code civil est introduite par une requête signée par chacun des époux ou par au moins un avocat ou un notaire.
+
+La demande en divorce fondée sur l'article 229, § 3, du Code civil peut être introduite par requête.
+
+Les dispositions prévues aux articles 1034bis à 1034sexies s'appliquent à la requête visée aux alinéas 1er et 2.]<sup>1</sup>
+
+Outre les mentions habituelles, l'acte introductif d'instance contient, le cas échéant, la mention de l'identité des enfants mineurs non maries ni émancipés communs aux époux, des enfants adoptés par eux ainsi que des enfants de l'un d'eux adoptés par l'autre, de chaque enfant de chacun des époux dont la filiation est établie, ainsi que de chaque enfant qu'ils élèvent ensemble.
+
+L'acte introductif d'instance contient, le cas échéant, une description détaillée des faits ainsi que, dans la mesure du possible, toutes les demandes relatives aux effets du divorce, sans préjudice du § 5.
+
+Il peut contenir également les demandes éventuelles relatives aux mesures provisoires concernant la personne, les aliments et les biens tant des parties que des enfants mineurs non mariés ni émancipés communs aux époux, des enfants adoptés par eux ainsi que des enfants de l'un d'eux adoptés par l'autre. [<sup>2</sup> ...]<sup>2</sup>.
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+[<sup>4</sup> § 2. Pour autant que ces documents ou ces données ne soient pas disponibles dans la BAEC, dans les registres de population ou le registre des étrangers ou dans le registre central des contrats de mariage, la partie demanderesse ajoute à l'acte introductif d'instance, pour chacun des époux et les éventuels enfants susmentionnés, les documents suivants :
+
+1° une preuve d'identité;
+
+2° une preuve de la nationalité;
+
+3° une preuve de la résidence actuelle si elle diffère de la résidence visée par le registre de la population ou le registre des étrangers ainsi que, le cas échéant, une preuve de la résidence habituelle en Belgique depuis plus de trois mois;
+
+4° des extraits des actes de naissance des enfants susmentionnés;
+
+5° un extrait du dernier acte de mariage;
+
+6° une copie du dernier contrat de mariage.
+
+Lors de la réception de l'acte introductif d'instance, le greffier vérifie pour chacun des époux et les éventuels enfants s'ils sont inscrits au registre de la population, au registre des étrangers ou au registre d'attente et si les documents ou les données manquants sont disponibles dans la BAEC ou dans les registres de la population ou le registre des étrangers.
+
+Si l'acte de naissance ou l'acte de mariage est établi en Belgique ou transcrit en Belgique avant [<sup>5</sup> le 31 mars 2019]<sup>5</sup>, il invite l'officier de l'état civil qui a établi ou inscrit l'acte, à enregistrer l'acte dans la BAEC. Si l'acte de mariage a été établi à l'étranger, il demande à la partie demanderesse de faire établir un acte de mariage sur la base de l'acte étranger, par analogie avec la section 15 du livre I, titre II, chapitre 2, du Code civil, par l'officier de l'état civil compétent.
+
+Si les documents remis ont été établis dans une langue étrangère, le greffe peut demander une traduction certifiée conforme de ceux-ci.
+
+§ 3. Si les mentions de l'acte introductif d'instance sont incomplètes ou certaines informations manquent pour l'audience d'introduction, le juge invite la partie la plus diligente à fournir les informations requises ou à compléter le dossier de la procédure.
+
+Si le juge estime ne pas être suffisamment informé par les extraits des actes de l'état civil, il peut toujours réclamer une copie de ces actes.
+
+Chaque partie peut aussi prendre elle-même l'initiative de constituer le dossier.]<sup>4</sup>
+
+§ 4/1. [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 5. Jusqu'à la clôture des débats, les parties ou l'une d'elles peuvent étendre ou modifier la cause ou l'objet de la demande, introduire des demandes reconventionnelles ou ampliatives, et ce, par conclusions contradictoirement prises, [<sup>3</sup> ou par conclusions signifiées à l'autre conjoint par exploit d'huissier ou envoyées par lettre recommandée à la poste avec accusé de réception]<sup>3</sup>.
+
+----------
+
+(1)&lt;L 2010-06-02/23, art. 3, 110; En vigueur : 01-07-2010&gt;
+
+(2)&lt;L 2013-07-30/23, art. 207, 130; En vigueur : 01-09-2014&gt;
+
+(3)&lt;L 2017-07-06/24, art. 152, 154; En vigueur : 03-08-2017&gt;
+
+(4)&lt;L 2018-06-18/03, art. 76, 167; En vigueur : 31-03-2019&gt;
+
+(5)&lt;L 2023-09-13/08, art. 70, 199; En vigueur : 01-01-2024&gt;
+
+**Art. 1255**
+
+&lt;L 2007-04-27/00, art. 23, 087; En vigueur : 01-09-2007&gt; § 1er. [<sup>1</sup> Lorsque le divorce est sollicité conjointement en vertu de l'article 229, § 2, du Code civil, le juge prononce le divorce s'il établit que les parties sont séparées de fait depuis plus de six mois.]<sup>1</sup>
+
+Si les parties ne sont pas séparées de fait depuis plus de six mois, le juge fixe une nouvelle audience. Celle-ci a lieu à une date immédiatement ultérieure à l'écoulement du délai de six mois, ou trois mois après la première [<sup>2</sup> audience]<sup>2</sup>. Lors de cette audience, si les parties confirment leur volonté, le juge prononce le divorce.
+
+Lorsqu'il prononce le divorce, le juge homologue le cas échéant les accords intervenus entre parties.
+
+§ 2. Si le divorce est demandé par l'un des époux en application de l'article 229, § 3, du Code civil, le juge prononce le divorce s'il constate que les parties sont séparées de fait depuis plus d'un an.
+
+Si les parties ne sont pas séparées de fait depuis plus d'un an, le juge fixe une nouvelle audience. Celle-ci a lieu à une date immédiatement ultérieure à l'écoulement du délai d'un an, ou un an après la première audience. Lors de cette audience, si l'une des parties le requiert, le juge prononce le divorce.
+
+§ 3. Si le divorce est demandé par l'un des époux et qu'en cours de procédure, l'autre marque son accord quant à la demande, le divorce est prononce moyennant le respect des délais visés au § 1er.
+
+§ 4. La séparation de fait des époux peut être établie par toutes voies de droit, l'aveu et le serment exceptés, et notamment par la production de certificats de domicile démontrant des inscriptions à des adresses différentes.
+
+§ 5. Si le divorce est demandé par l'une des parties, en application de l'article 229, § 1er, du Code civil, et que le caractère irrémédiable de la désunion est établi, le juge peut prononcer le divorce sans délai.
+
+§ 6. [<sup>2</sup> Le juge peut ordonner la comparution personnelle des parties à la demande d'une des parties ou du ministère public, ou s'il l'estime utile, notamment en vue de concilier les parties ou d'apprécier l'opportunité d'un accord relatif à la personne, aux aliments et aux biens des enfants.
+
+Sans préjudice de l'article 1734, le tribunal informe les parties de la possibilité de résoudre leur litige par le biais de la conciliation, de la médiation ou de tout autre mode de résolution amiable des conflits. S'il constate qu'un rapprochement est possible, il peut ordonner la surséance à la procédure afin de permettre aux parties de recueillir toutes les informations utiles à cet égard. La durée de la surséance ne peut être supérieure à un mois.
+
+A la demande des parties, ou si le juge l'estime opportun, le dossier est alors renvoyé à la chambre de règlement à l'amiable du tribunal de la famille, sur la base des articles 661 et suivants.]<sup>2</sup> [<sup>3</sup> Toutefois, s'il existe des indices sérieux que des violences, des menaces ou toute autre forme de pression sont ou ont été exercées par une partie à l'encontre de l'autre partie, l'article 1734, § 1er, alinéa 3, s'applique par analogie.]<sup>3</sup>
+
+§ 7. [<sup>3</sup> § 7. Si l'un des époux est dans un état visé à l'article 488/1, alinéa 1er, du Code civil, il est représenté en tant que défendeur par son administrateur, ou, à défaut, par un administrateur ad hoc désigné préalablement par le tribunal de la famille à la requête de la partie demanderesse.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2010-06-02/23, art. 4, 110; En vigueur : 01-07-2010&gt;
+
+(2)&lt;L 2013-07-30/23, art. 208, 130; En vigueur : 01-09-2014&gt;
+
+(3)L 2014-05-08/02, art. 82, 132; En vigueur : 01-09-2014&gt;
+
+(3)&lt;L 2022-11-06/01, art. 5, 193; En vigueur : 01-12-2022&gt;
+
+**Art. 1256**
+
+&lt;Rétabli par L 2007-04-27/00, art. 24, 087; En vigueur : 01-09-2007&gt; A tout moment, les parties peuvent demander au juge d'homologuer leurs accords sur les mesures provisoires relatives à la personne, aux aliments et aux biens des époux ou de leurs enfants.
+
+Il peut refuser d'homologuer l'accord s'il est manifestement contraire à l'intérêt des enfants.
+
+[<sup>1</sup> A défaut d'accord ou en cas d'accord partiel, le juge renvoie, à la demande d'une des parties, à la première audience utile relative aux causes réputées urgentes ou aux causes pour lesquelles l'urgence est invoquée au sens de l'article 1253ter/4. L'article 803 est d'application.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 209, 130; En vigueur : 01-09-2014; voir également L 2014-05-08/02, art. 83, 132; En vigueur : 01-09-2014&gt;
+
+**Art. 1257**
+
+&lt;Abrogé par L 2010-06-02/23, art. 5, 110; En vigueur : 01-07-2010&gt;
+
+**Art. 1258**
+
+[<sup>1</sup> Sauf convention contraire, les dépens sont partagés par parts égales entre les parties lorsque le divorce est prononcé sur la base de l'article 229, § 2, du Code civil.
+
+Sauf convention contraire, chaque partie supporte ses dépens lorsque le divorce est prononcé sur la base de l'article 229, § 1er ou 3, du Code civil. Le juge peut toutefois en décider autrement compte tenu de toutes les circonstances de la cause.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-11-17/03, art. 2, 107; En vigueur : 01-02-2010&gt;
+
+**Art. 1259**
+
+(Abrogé) &lt;L 2007-04-27/00, art. 27, 1°, 087; En vigueur : 01-09-2007&gt;
+
+**Art. 1260**
+
+(abrogé) &lt;L 1994-06-30/33, art. 6, 026; En vigueur : 01-10-1994&gt;
+
+**Art. 1260bis**
+
+(abrogé) &lt;L 1994-06-30/33, art. 6, 026; En vigueur : 01-10-1994&gt;
+
+**Art. 1261**
+
+(...) &lt;L 1994-06-30/33, art. 6, 026; En vigueur : 01-10-1994&gt;
+
+Lorsque les parties ou l'une d'elles ont fait élection de domicile, les significations sont faites à ce domicile.
+
+(alinéa 2 abrogé) &lt;L 2007-04-26/71, art. 29, 088; En vigueur : 22-06-2007&gt;
+
+**Art. 1262**
+
+(abrogé) &lt;L 1994-06-30/33, art. 7, 026; En vigueur : 01-10-1994&gt;
+
+**Art. 1263**
+
+[<sup>1</sup> Lorsque la loi exige la comparution personnelle des parties ou que le tribunal l'a ordonnée, l'époux qui fait défaut peut, selon les circonstances que le juge apprécie, soit être déclaré déchu de son action, soit voir la cause renvoyée au rôle particulier de la chambre. Dans ce dernier cas, la cause peut être ramenée à l'audience dans un délai de quinze jours, à la demande d'une des parties.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 210, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1264**
+
+&lt;L 1994-06-30/33, art. 9, 026; En vigueur : 01-10-1994&gt; Les parties comparaissent à l'enquête en personne, assistées de leur avocat s'il échet. Elles peuvent également être représentées par celui-ci.
+
+**Art. 1265**
+
+(abrogé) &lt;L 1994-06-30/33, art. 10, 026; En vigueur : 01-10-1994&gt;
+
+**Art. 1266**
+
+(abrogé) &lt;L 1994-06-30/33, art. 10, 026; En vigueur : 01-10-1994&gt;
+
+**Art. 1267**
+
+(Abrogé) &lt;L 2007-04-27/00, art. 27, 2°, 087; En vigueur : 01-09-2007&gt;
+
+**Art. 1268**
+
+(Abrogé) &lt;L 2007-04-27/00, art. 27, 3°, 087; En vigueur : 01-09-2007&gt;
+
+**Art. 1269**
+
+(Le dispositif des jugements ou arrêts (prononçant le divorce) énonce l'identité complète des parties ainsi que les lieu et date de la célébration de leur mariage.) &lt;L 1-7-1974, art. 10&gt; &lt;L 1994-06-30/33, art. 12, 026; En vigueur : 01-10-1994&gt;
+
+(Alinéa 2 abrogé) &lt;L 2007-04-27/00, art. 27, 4°, 087; En vigueur : 01-09-2007&gt;
+
+**Art. 1270**
+
+[<sup>1</sup> La reproduction des débats par la voie de la presse est interdite. Cette infraction est punie d'une peine de niveau 1.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-03-30/01, art. 67, 213; En vigueur : 01-09-2026&gt;
+
+**Art. 1270bis**
+
+(Abrogé) &lt;L 2007-04-27/00, art. 27, 5°, 087; En vigueur : 01-09-2007&gt;
+
+**Art. 1271**
+
+(abrogé) &lt;L 1994-06-30/33, art. 14, 026; En vigueur : 01-10-1994&gt;
+
+**Art. 1272**
+
+(abrogé) &lt;L 1994-06-30/33, art. 14, 026; En vigueur : 01-10-1994&gt;
+
+**Art. 1273**
+
+(abrogé) &lt;L 1990-05-03/34, art. 2, 013; En vigueur : 1990-07-03&gt;
+
+**Art. 1274**
+
+[<sup>1</sup> Le délai pour se pourvoir en cassation et le pourvoi en cassation sont suspensifs.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-02/23, art. 6, 110; En vigueur : 01-07-2010&gt;
+
+**Art. 1275**
+
+[<sup>1</sup> § 1er. Tout exploit de signification d'un jugement ou arrêt prononçant le divorce est communiqué immédiatement en copie au greffier.
+
+§ 2. Lorsque le jugement ou l'arrêt ayant prononcé le divorce a acquis force de chose jugée, le greffier transmet immédiatement les données du jugement ou de l'arrêt à la BAEC, avec mention du jour où la décision judiciaire a acquis force de chose jugée.
+
+La BAEC établit une mention sur cette base et l'associe à l'acte de mariage.
+
+Si l'acte de mariage n'est pas disponible dans la BAEC, l'officier de l'état compétent établit un acte de divorce.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 77, 167; En vigueur : 31-03-2019&gt;
+
+**Art. 1276**
+
+&lt;L 1994-06-30/33, art. 17, 026; En vigueur : 01-10-1994&gt; [<sup>2</sup> En cas de jugement, le greffier transmet les données visées à l'article 1275, § 2, alinéa 1er, après]<sup>2</sup> l'expiration du délai d'appel lorsque le jugement est rendu contradictoirement et après l'expiration du délai d'opposition lorsque le jugement est rendu par défaut [<sup>2</sup> ...]<sup>2</sup> [<sup>2</sup> . En cas d'arrêt, le greffier transmet ces données après]<sup>2</sup> l'expiration du délai de pourvoi en cassation ou, le cas échéant, après le prononcé de l'arrêt rejetant le pourvoi.
+
+[<sup>1</sup> Le délai d'appel, d'opposition et de pourvoi en cassation commence à courir à partir de la signification du jugement ou de l'arrêt.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-02/23, art. 8, 110; En vigueur : 01-07-2010&gt;
+
+(2)&lt;L 2023-09-13/08, art. 67, 199; En vigueur : 01-01-2024&gt;
+
+**Art. 1277**
+
+(abrogé) &lt;L 1994-06-30/33, art. 17, 026; En vigueur : 01-10-1994&gt;
+
+**Art. 1278**
+
+[<sup>1</sup> Le jugement ou l'arrêt prononçant le divorce produit ses effets vis-à-vis des époux à partir du jour où la décision a acquis force de chose jugée et produit ses effets vis-à-vis de tiers à partir de la mention à l'acte de mariage ou de l'établissement de l'acte de divorce.
+
+Pour les époux, en ce qui concerne leurs biens, il y a un effet rétroactif jusqu'au jour où l'action a été intentée et lorsqu'il y a plus d'une action, jusqu'au jour où la première action a été intentée, qu'elle ait abouti ou non.
+
+Si un des époux décède avant la mention à l'acte de mariage ou de l'établissement de l'acte de divorce, mais après que le jugement ou l'arrêt prononçant le divorce soit passé en force de chose jugée, les époux sont considérés vis-à-vis de tiers comme étant divorcés, sous la condition suspensive de la mention à l'acte de mariage ou de l'établissement de l'acte de divorce.
+
+Le tribunal de la famille peut, à la demande de l'un des époux, s'il l'estime équitable en raison de circonstances exceptionnelles propres à la cause, décider dans le jugement qui admet le divorce qu'il ne sera pas tenu compte dans la liquidation de la communauté de l'existence de certains avoirs constitués ou de certaines dettes contractées depuis le moment où la séparation de fait a pris cours.Les parties peuvent également former pareille demande au cours de la liquidation de la communauté.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 78, 167; En vigueur : 31-03-2019&gt;
+
+**Art. 1279**
+
+(abrogé) &lt;L 1995-04-13/37, art. 16, 031; En vigueur : 03-06-1995&gt;
+
+**Art. 1280**
+
+[<sup>1</sup> Lorsqu'il statue sur des causes réputées urgentes ou des causes dont l'urgence est invoquée au sens de l'article 1253ter/4, le tribunal de la famille connaît, à la demande, soit des parties ou de l'une d'elles, soit du procureur du Roi, des mesures urgentes conformément [<sup>2</sup> aux articles 1253ter/4 à 1253ter/6]<sup>2</sup>.
+
+Les articles 1253sexies, § 1er, 1253septies, alinéa 1er, et 1253octies sont d'application lorsque l'interdiction d'aliéner ou d'hypothéquer des biens susceptibles d'hypothèque est demandée ou ordonnée. Est également d'application, l'article 224 du Code civil.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 213, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2014-05-08/02, art. 84, 132; En vigueur : 01-09-2014&gt;
+
+**Art. 1281**
+
+&lt;Abrogé par L 2010-06-02/23, art. 9, 110; En vigueur : 01-07-2010&gt;
+
+**Art. 1282**
+
+&lt;L 1994-06-30/33, art. 23, 026; En vigueur : 01-10-1994&gt;Le demandeur ou le défendeur en divorce peut en tout état de cause, (à partir de la date de (l'introduction de la demande) en divorce), requérir, pour la conservation de ses droits, l'apposition des scellés sur tous les effets mobiliers de chacun des époux. Ces scellés ne sont levés qu'en faisant inventaire et à la charge par les parties de représenter les choses inventoriées ou de répondre de leur valeur comme gardien judiciaire. &lt;L 1997-05-20/47, art. 9, 033; En vigueur : 07-07-1997&gt; &lt;L 2007-04-27/00, art. 30, 1°, 087; En vigueur : 01-09-2007&gt;
+
+(En tout état de cause, les parties ont la faculté de faire dresser inventaire conformément au chapitre II du livre IV.) &lt;L 2007-04-27/00, art. 30,2°, 087; En vigueur : 01-09-2007&gt;
+
+**Art. 1283**
+
+&lt;L 1994-06-30/33, art. 24, 026; En vigueur : 01-10-1994&gt; Toute obligation contractée par un des époux à charge du patrimoine commun postérieurement à la date de la demande en divorce, sera déclarée nulle s'il est prouvé qu'elle a été contractée en fraude des droits du conjoint (sans préjudice des droits des tiers de bonne foi). &lt;L 1997-05-20/47, art. 10, 1°, 033; En vigueur : 07-07-1997&gt;
+
+(La preuve de sa bonne foi incombe au tiers contractant.) &lt;L 1997-05-20/47, art. 10, 2°, 033; En vigueur : 07-07-1997&gt;
+
+**Art. 1284**
+
+(Abrogé) &lt;L 2007-04-27/00, art. 31, 1°, 087; En vigueur : 01-09-2007&gt;
+
+**Art. 1285**
+
+(Abrogé) &lt;L 2007-04-27/00, art. 31, 1°, 087; En vigueur : 01-09-2007&gt;
+
+**Art. 1286**
+
+(Abrogé) &lt;L 2007-04-27/00, art. 31, 1°, 087; En vigueur : 01-09-2007&gt;
+
+**Art. 1286bis**
+
+(Abrogé) &lt;L 2007-04-27/00, art. 31, 2°, 087; En vigueur : 01-09-2007&gt;
+
+##### Section II. \_ Du divorce par consentement mutuel.
+
+**Art. 1287**
+
+(Les époux déterminés à opérer le divorce par consentement mutuel sont tenus de régler préalablement leurs droits respectifs sur lesquels [<sup>1</sup> ils sont libres de transiger]<sup>1</sup>.
+
+Ils ont la faculté de faire dresser préalablement inventaire conformément au Chapitre II - De l'Inventaire du Livre IV.
+
+Ils doivent constater dans le même acte leurs conventions au sujet de l'exercice des droits prévus aux articles [<sup>5</sup> 4.17, 4.18, alinéas 1er et 2, 4.20 et 4.147]<sup>5</sup> du Code civil pour le cas où l'un deux décéderait [<sup>1</sup> avant que le jugement ou l'arrêt prononçant le divorce ait acquis force de chose jugée]<sup>1</sup>.) &lt;L 1994-06-30/33, art. 26, 026; En vigueur : 01-10-1994&gt;
+
+(Alinéa 4 abrogé) &lt;L 2007-04-27/00, art. 31, 3°, 087; En vigueur : 01-09-2007&gt;
+
+(Un extrait littéral de l'acte qui constate ces conventions doit être transcrit, dans la mesure où il se rapporte à des immeubles, au [<sup>2</sup> bureau compétent de l'Administration générale de la Documentation patrimoniale]<sup>2</sup> dans le ressort duquel les biens sont situés, de la manière et dans les délais prévus à l'article [<sup>4</sup> 3.31 du Code civil]<sup>4</sup>) &lt;L 1-7-1972, art. 1&gt;
+
+----------
+
+(1)&lt;L 2018-05-25/02, art. 47, 165; En vigueur : 09-06-2018&gt;
+
+(2)&lt;L 2018-07-11/07, art. 51, 168; En vigueur : 30-07-2018&gt;
+
+(3)&lt;L 2018-07-22/01, art. 54, 171; En vigueur : 01-09-2018&gt;
+
+(4)&lt;L 2020-02-04/16, art. 5, 187; En vigueur : 01-09-2021&gt;
+
+(5)&lt;L 2022-01-19/18, art. 33, 189; En vigueur : 01-07-2022&gt;
+
+**Art. 1288**
+
+&lt;L 1-7-1972, art. 2&gt; (Ils sont (...) tenus de constater par écrit leur convention visant : &lt;L 1994-06-30/33, art. 27, 026; En vigueur : 01-10-1994&gt;
+
+1° [<sup>3</sup> ...]<sup>3</sup>
+
+2° (l'autorité sur la personne et l'administration des biens des enfants et le droit aux relations personnelles visé [<sup>2</sup> à l'article 374, § 1er, alinéa 4]<sup>2</sup>, du Code civil) en ce qui concerne (les enfants mineurs non mariés et non émancipés communs aux deux époux, les enfants qu'ils ont adoptés et les enfants de l'un d'eux que l'autre a adoptés), tant [<sup>3</sup> durant la procédure]<sup>3</sup> qu'après le divorce; &lt;L 1995-04-13/37, art. 17, 031; En vigueur : 03-06-1995&gt; &lt;L 2007-04-27/00, art. 32, 087; En vigueur : 01-09-2007&gt;
+
+3° (la contribution de chacun des époux à l'entretien, à l'éducation et à la formation adéquate desdits enfants, sans préjudice des droits qui leur sont reconnus par le Chapitre V, Titre V, Livre premier, du Code civil;) &lt;L 1994-06-30/33, art. 27, 026; En vigueur : 01-10-1994&gt;
+
+4° (le montant de [<sup>3</sup> ou la renonciation à]<sup>3</sup> l'éventuelle pension à payer par l'un des époux à l'autre [<sup>3</sup> durant la procédure]<sup>3</sup> et après le divorce, la formule de son éventuelle adaptation au coût de la vie, les circonstances dans lesquelles et les modalités selon lesquelles ce montant pourra être révisé après le divorce.) &lt;L 1994-06-30/33, art. 27, 026; En vigueur : 01-10-1994&gt;
+
+[<sup>5</sup> La convention qui concerne un enfant mineur précise de quelle manière l'intérêt de l'enfant a été pris en compte.]<sup>5</sup>
+
+((Lorsque des circonstances nouvelles et indépendantes de la volonté des parties modifient sensiblement leur situation ou celle des enfants), les dispositions visées aux 2° et 3° de l'alinéa précédent peuvent être révisées après le divorce, par le juge compétent.) &lt;L 1994-06-30/33, art. 27, 026; En vigueur : 01-10-1994&gt; &lt;L 1997-05-20/47, art. 11, 033; En vigueur : 07-07-1997&gt;
+
+[<sup>1</sup> Sauf si les parties ont convenu expressément le contraire, le juge compétent peut, ultérieurement, à la demande d'une des parties, augmenter, réduire ou supprimer la pension visée à l'alinéa 1er, 4°, si, à la suite de circonstances nouvelles et indépendantes de la volonté des parties, son montant n'est plus adapté.]<sup>1</sup>
+
+[<sup>4</sup> En cas de conventions visées à l'article 1288, alinéa 1er, 2° ou 3°, l'affaire reste inscrite au rôle après le prononcé du divorce. Les parties peuvent ramener la cause devant le tribunal qui a prononcé le divorce dans les quinze jours par demande écrite déposée ou adressée au greffe en cas de circonstances nouvelles et indépendantes de la volonté des parties visées aux alinéas 2 et 3. Ces circonstances sont décrites dans les conclusions ou dans la demande écrite, à peine de nullité.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2010-06-02/23, art. 7, 110; En vigueur : 01-07-2010&gt;
+
+(2)&lt;L 2013-07-30/23, art. 213bis, 130; En vigueur : 01-09-2014 (voir &lt;L 2014-05-08/02, art. 85, 132; En vigueur : 01-09-2014&gt;
+
+(3)&lt;L 2018-05-25/02, art. 48, 165; En vigueur : 09-06-2018&gt;
+
+(4)&lt;L 2018-06-18/03, art. 79, 167; En vigueur : 31-03-2019&gt;
+
+(5)&lt;L 2024-03-28/60, art. 102, 203; En vigueur : 08-04-2024&gt;
+
+**Art. 1288bis**
+
+&lt;inséré par L 1994-06-30/33, art. 28, En vigueur : 01-10-1994&gt; [<sup>1</sup> § 1er.]<sup>1</sup> La demande est introduite par voie de requête [<sup>3</sup> conjointe]<sup>3</sup>.
+
+Elle est déposée au greffe du tribunal de première instance [<sup>2</sup> ...]<sup>2</sup>.
+
+Outre les autres mentions obligatoires, (la requête renvoie, à peine de nullité, aux conventions y annexées) exigées aux articles 1287 et 1288. &lt;L 1997-05-20/47, art. 12, 1°, 033; En vigueur : 07-07-1997&gt;
+
+Sont déposés en annexe à la requête :
+
+1° les conventions dressées en vertu des articles 1287 et 1288;
+
+2° le cas échéant, l'inventaire prévu à l'article 1287, alinéa 2.
+
+3° [<sup>3</sup> ...]<sup>3</sup>
+
+4° [<sup>3</sup> ...]<sup>3</sup>
+
+5° [<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>3</sup> De la requête et des annexes, il est déposé un original et une copie.]<sup>3</sup>
+
+L'original de la requête est signé par chacun des époux, ou par au moins un avocat ou un notaire.
+
+[<sup>3</sup> § 2. Pour autant que ces documents ou ces données ne soient pas disponibles dans la BAEC ou dans les registres de population ou dans le registre des étrangers, la partie demanderesse ajoute à l'acte introductif d'instance, pour chacun des époux et les enfants visés à l'article 1288, alinéa 1er, 2°, susmentionnés, les documents suivants :
+
+1° une preuve d'identité;
+
+2° une preuve de nationalité;
+
+3° une preuve de la résidence actuelle si elle diffère de la résidence visée par le registre de la population ou le registre des étrangers ainsi que, le cas échéant, une preuve de la résidence habituelle en Belgique depuis plus de trois mois;
+
+4° des extraits des actes de naissance des enfants visés à l'article 1288, alinéa 1er, 2° ;
+
+5° un extrait du dernier acte de mariage.
+
+A la réception de l'acte introductif d'instance, le greffier vérifie pour chacun des époux et les enfants éventuels s'ils sont inscrits dans le registre de la population, le registre des étrangers ou le registre d'attente, et si les documents ou données qui font défaut dans l'acte introductif d'instance sont disponibles dans la BAEC ou dans le registre de la population ou le registre des étrangers.
+
+Si l'acte de naissance ou l'acte de mariage a été établi en Belgique ou a été transcrit en Belgique avant [<sup>4</sup> le 31 mars 2019]<sup>4</sup>, il demande à l'officier qui a établi ou transcrit cet acte, de l'enregistrer dans la BAEC. Si l'acte de mariage a été établi à l'étranger, il demande à la partie demanderesse de faire établir un acte de mariage sur la base de l'acte étranger, par analogie avec la section 15 du livre I, titre II, chapitre 2, du Code civil, par l'officier de l'état civil compétent.
+
+Si les documents remis ont été établis dans une langue étrangère, le greffe peut demander une traduction certifiée conforme de ceux-ci.
+
+§ 3. Si les mentions de la requête sont incomplètes, ou si certaines informations manquent pour l'audience d'introduction, le juge invite la partie la plus diligente à communiquer les informations requises ou à compléter le dossier de la procédure.
+
+Si le juge estime ne pas être suffisamment informé par les extraits des actes de l'état civil, il peut toujours réclamer une copie de ces actes.
+
+Chaque partie peut aussi prendre elle-même l'initiative de constituer le dossier.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2013-01-14/16, art. 77, 119; En vigueur : 01-09-2013&gt;
+
+(2)&lt;L 2018-05-25/02, art. 49, 165; En vigueur : 01-09-2018&gt;
+
+(3)&lt;L 2018-06-18/03, art. 80, 167; En vigueur : 31-03-2019&gt;
+
+(4)&lt;L 2023-09-13/08, art. 70, 199; En vigueur : 01-01-2024&gt;
+
+**Art. 1288ter**
+
+&lt;inséré par L 1994-06-30/33, art. 29, En vigueur : 01-10-1994&gt;Dans les huits jours du dépôt, le greffe adresse au procureur du Roi, deux copies de la requête et de ses annexes.
+
+**Art. 1289**
+
+[<sup>1</sup> § 1er. Si la comparution personnelle visée au paragraphe 2 n'est pas ordonnée, la procédure se déroule par écrit.
+
+§ 2. Le tribunal de la famille peut toujours ordonner la comparution personnelle des époux, soit à la demande du procureur du Roi ou d'une des parties, soit d'initiative. Dans ce cas, les époux sont tenus de comparaître ensemble et en personne devant le tribunal de la famille dans le mois à compter du jour du dépôt de la requête. Ils font au tribunal la déclaration de leur volonté.
+
+Le tribunal peut, en cas de circonstances exceptionnelles, autoriser le ou les époux à se faire représenter par un avocat ou par un notaire.
+
+§ 3. Si les parties ou l'une d'elles ne comparaissent pas en personne ou par leur représentant s'il a été fait application du paragraphe 2, alinéa 2, à la date fixée par le tribunal de la famille, le tribunal renvoie la cause au rôle général.
+
+§ 4. Lorsque la procédure se déroule uniquement par écrit, le délai de prononciation du jugement visé à l'article 770 § 1er, prend cours:
+
+\- à la date du dépôt de l'avis du procureur du Roi ou,
+
+\- à la date où il indique qu'il ne rendra pas d'avis ou,
+
+\- à l'expiration du délai prévu pour le dépôt de l'avis.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-05-25/02, art. 50, 165; En vigueur : 01-09-2018&gt;
+
+**Art. 1289bis**
+
+&lt;Abrogé par L 2013-07-30/23, art. 215, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1289ter**
+
+&lt;inséré par L 1994-06-30/33, art . 32, En vigueur : 01-10-1994&gt; Le procureur du Roi [<sup>3</sup> peut déposer dans un délai de trente jours suivant l'inscription de la cause au rôle, un avis écrit au greffe]<sup>3</sup> sur les conditions de forme, sur l'admissibilité du divorce et sur le contenu des conventions entre les époux relatives aux enfants mineurs.
+
+[<sup>3</sup> En cas d'application de l'article 1289, §§ 2 et 3, lorsqu'il est émis dans les temps impartis, l'avis est déposé au greffe au plus tard la veille de la comparution des époux à moins qu'en raison des circonstances de la cause il ne soit émis sur-le-champ, par écrit ou verbalement à l'audience de la comparution des époux. Dans ce cas, il en est fait mention sur la feuille d'audience.]<sup>3</sup>
+
+Si l'avis ne peut être donné en temps utile, le [<sup>2</sup> tribunal de la famille]<sup>2</sup> en est avisé au plus tard la veille de l'audience et il est fait mention de la cause du retard sur (le procès-verbal d'audience). &lt;L 2006-07-10/39, art. 24, 078; En vigueur : 01-01-2013 (voir L 2010-12-29/01, art. 4)&gt;
+
+[<sup>3</sup> Le procureur du Roi avertit le tribunal qu'il n'entend pas remettre d'avis.
+
+Lorsque l'avis écrit n'est pas émis dans le délai visé à l'alinéa 1er, il est réputé favorable.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2014-04-25/23, art. 30, 125; En vigueur : 24-05-2014&gt;
+
+(2)&lt;L 2013-07-30/23, art. 216, 130; En vigueur : 01-09-2014&gt;
+
+(3)&lt;L 2018-05-25/02, art. 51, 165; En vigueur : 01-09-2018&gt;
+
+**Art. 1290**
+
+[<sup>2</sup> Dans le cas visé à l'article 1289, § 2, le juge fait]<sup>2</sup> aux deux époux réunis, et à chacun d'eux en particulier, (...), telles représentations et exhortations qu'il croit convenables; il leur développe toutes les conséquences de leur démarche. &lt;L 1-7-1972, art. 4&gt;
+
+(Sans préjudice de [<sup>1</sup> l'article 1004/1]<sup>1</sup>, il peut proposer aux parties de modifier les dispositions des conventions relatives à leurs enfants mineurs si elles lui paraissent contraires aux intérêts de ces derniers.
+
+Le juge peut, au plus tard lors de la comparution des époux prévue à l'article 1289, [<sup>1</sup> §§ 2 et 3,]<sup>1</sup> décider d'office d'entendre les enfants conformément à [<sup>1</sup> l'article 1004/1]<sup>1</sup>.
+
+(Lorsqu'il fait application des dispositions prévues au deuxième ou au troisième alinéa, le juge fixe, dans le mois du dépôt au greffe du procès-verbal de la première comparution ou de l'audition prévue à l'alinéa précédent, une nouvelle date de comparution des époux.) &lt;L 1997-05-20/47, art. 13, 033; En vigueur : 07-07-1997&gt;
+
+Au cours de [<sup>2</sup> chacune de ces comparutions]<sup>2</sup>, le juge peut faire supprimer ou modifier les dispositions qui sont manifestement contraires aux intérêts des enfants mineurs.) &lt;L 1994-06-30/33, art. 33, 026; En vigueur : 01-10-1994&gt;
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 217, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2018-05-25/02, art. 52, 165; En vigueur : 01-09-2018&gt;
+
+**Art. 1291**
+
+&lt;L 1994-06-30/33, art . 34, 026; En vigueur : 01-10-1994&gt;Si les époux ainsi informés persistent dans leur résolution, il leur est donné acte, par le juge, de ce qu'ils demandent le divorce et y consentent mutuellement.
+
+**Art. 1291bis**
+
+&lt;Abrogé par L 2013-07-30/23, art. 218, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1292**
+
+&lt;L 1-7-1972, art. 6&gt; Le greffier dresse procès-verbal détaillé de tout ce qui a été dit et fait en exécution des articles [<sup>1</sup> articles 1289, §§ 2, [<sup>2</sup> et 3,]<sup>2</sup> à 1291]<sup>1</sup>; les pièces produites demeurent annexées au procès-verbal.
+
+Il adresse, dans les quinze jours, au procureur du Roi, une copie certifié conforme du procès-verbal de la comparution (...). &lt;L 1997-05-20/47, art. 14, 033; En vigueur : 07-07-1997&gt;
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 219, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2018-05-25/02, art. 53, 165; En vigueur : 01-09-2018&gt;
+
+**Art. 1293**
+
+&lt;L 1994-06-30/33, art. 35, 026; En vigueur : 01-10-1994&gt; [<sup>1</sup> Lorsque, dans le mois à compter du jour du dépôt de la requête et avant l'éventuelle comparution des parties visée à l'article 1289, §§ 2 et 3, les époux ou l'un d'eux]<sup>1</sup> font état de circonstances nouvelles et imprévisibles, dont la preuve est dûment apportée, modifiant gravement leur situation, celle de l'un deux ou celle des enfants, ils peuvent soumettre ensemble à l'appréciation du juge, une proposition de modification de leurs conventions initiales.
+
+Après avoir pris connaissance de l'avis du procureur du Roi ou après avoir fait application de l'[<sup>1</sup> article 1004/1]<sup>1</sup>, le juge peut convoquer les parties s'il estime souhaitable, pour leur proposer d'adapter les propositions de modification de leurs conventions concernant leurs enfants mineurs, lorsque celles-ci lui semblent contraires aux intérêts de ces derniers [<sup>2</sup> ou lorsque la mention prévue à l'article 1288, alinéa 2, fait défaut]<sup>2</sup>.
+
+[<sup>1</sup> ...]<sup>1</sup>.
+
+(Lorsqu'il fait application des dispositions prévues au deuxième [<sup>1</sup> ...]<sup>1</sup> alinéa, le juge fixe, dans le mois du dépôt au greffe du procès-verbal de la comparution prévue [<sup>1</sup> au même alinéa]<sup>1</sup>, [<sup>1</sup> une nouvelle date de comparution]<sup>1</sup>.
+
+[<sup>1</sup> ...]<sup>1</sup>.) &lt;L 1997-05-20/47, art. 15, 033; En vigueur : 07-07-1997&gt;
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 220, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2024-03-28/60, art. 103, 203; En vigueur : 08-04-2024&gt;
+
+**Art. 1294**
+
+&lt;Abrogé par L 2013-07-30/23, art. 221, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1294bis**
+
+[<sup>1</sup> Si la procédure est abandonnée, les conventions prévues à l'article 1288 lient les parties à titre provisoire, jusqu'à ce qu'il soit fait application de l'article 1280. Si les conventions ne revêtent pas la forme d'un titre exécutoire, la cause est, à la demande de la partie la plus diligente, fixée à la première audience utile réputée urgente visée à l'article 1256, alinéa 3. Si l'une des parties en fait la demande, le tribunal de la famille prononce une mesure provisoire, conforme aux conventions.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 84, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 1295**
+
+Après que le juge a fait les observations aux époux, s'ils persévèrent, il leur est donné acte de leur réquisition, (...): le greffier du tribunal dresse procès-verbal qui est signé tant par le juge et le greffier que par les parties, à moins qu'elles ne déclarent ne savoir ou ne pouvoir signer, auquel cas il en est fait mention. &lt;L 1-7-1972, art. 9&gt;
+
+**Art. 1296**
+
+[<sup>1</sup> Le greffier communique le procès-verbal et les pièces au procureur du Roi afin que celui-ci puisse donner ses conclusions par écrit.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 85, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 1297**
+
+&lt;L 1994-06-30/33, art. 37, 026; En vigueur : 01-10-1994&gt; [<sup>1</sup> Lorsque le procureur du Roi émet un avis s'il]<sup>1</sup> constate que les conditions de forme et de fonds prévues par la loi sont respectées, il donne ses conclusions en ces termes : " la loi permet".
+
+Dans le cas contraire, ses conclusions d'empêchement sont motivées.
+
+----------
+
+(1)&lt;L 2018-05-25/02, art. 54, 165; En vigueur : 09-06-2018&gt;
+
+**Art. 1298**
+
+[<sup>1</sup> Le tribunal de la famille]<sup>1</sup> [<sup>1</sup> ...]<sup>1</sup>, ne peut faire d'autres vérifications que celles indiquées par l'article 1297. S'il en résulte que, dans l'opinion du tribunal, les parties ont satisfait aux conditions et rempli les formalités déterminées par la loi, il (prononce) le divorce (et homologue les conventions relatives aux enfants mineurs); dans le cas contraire, [<sup>1</sup> Le tribunal de la famille]<sup>1</sup> déclare qu'il n'y a pas lieu à (prononcer) le divorce et énonce les motifs de la décision. &lt;L 1994-06-30/33, art. 38, 026; En vigueur : 01-10-1994&gt; &lt;L 1997-05-20/47, art. 17, 033; En vigueur : 07-07-1997&gt;
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 223, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1299**
+
+[<sup>1</sup> [<sup>2</sup> L'appel du jugement qui a prononcé le divorce n'est admissible que pour autant qu'il soit fondé sur le non-respect des conditions légales pour prononcer le divorce ou sur la réconciliation des conjoints.]<sup>2</sup>
+
+Il peut être interjeté par le ministère public dans le mois du prononcé. Dans ce cas, il est signifié aux deux parties.
+
+Il peut également être interjeté par l'un des époux ou par les deux, séparément ou conjointement, dans le mois du prononcé. Dans ce cas, il est signifié au procureur du Roi ainsi que, s'il n'est interjeté que par un seul époux, à l'autre époux.]<sup>1</sup>
+
+[<sup>2</sup> L'appel fondé sur la réconciliation doit dans tous les cas être introduit conjointement par les deux conjoints dans le mois du prononcé. Cet appel est signifié au procureur du Roi.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2010-06-02/23, art. 10, 110; En vigueur : 01-07-2010&gt;
+
+(2)&lt;L 2015-07-17/63, art. 2, 140; En vigueur : 11-09-2015&gt;
+
+**Art. 1300**
+
+L'appel du jugement qui a déclaré ne pas y avoir lieu à (prononcer) le divorce, n'est admissible qu'autant qu'il soit interjeté par les deux parties, séparément ou conjointement, (dans le mois) à compter de la prononciation. Il est signifié au procureur du Roi. &lt;L 1994-06-30/33, art. 40, 026; En vigueur : 01-10-1994&gt;
+
+**Art. 1301**
+
+Dans les dix jours de la signification de l'appel, le procureur du Roi transmet au procureur général près la cour d'appel, l'expédition du jugement, et les pièces sur lesquelles celui-ci est intervenu.
+
+Le procureur général donne ses conclusions par écrit, dans les dix jours qui suivent la réception des pièces; [<sup>1</sup> en cas d'application de l'article 109bis, § 2, alinéa 2 ou 3,]<sup>1</sup> le président, ou le conseiller qui le supplée, fait son rapport à la cour d'appel [<sup>2</sup> ...]<sup>2</sup> et il est statué définitivement dans les dix jours qui suivent la remise des conclusions du procureur général.
+
+L'arrêt n'est pas susceptible d'opposition.
+
+----------
+
+(1)&lt;L 2010-04-22/28, art. 4, 109; En vigueur : 28-06-2010&gt;
+
+(2)&lt;L 2010-06-02/35, art. 12, 111; En vigueur : 10-07-2010&gt;
+
+**Art. 1302**
+
+&lt;L 1994-06-30/33, art. 41, 026; En vigueur : 01-10-1994&gt; Le délai pour se pourvoir en cassation contre l'arrêt [<sup>1</sup> de la chambre de la famille]<sup>1</sup> de la cour d'appel est de trois mois à compter de la prononciation.
+
+Le pourvoi des parties n'est admissible qu'autant qu'il soit formé par les deux époux séparément ou conjointement.
+
+Le pourvoi contre l'arrêt prononçant le divorce est suspensif.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 224, 130; En vigueur : 01-09-2014&gt;
+
+**Art. 1303**
+
+[<sup>1</sup> Lorsque le jugement ou l'arrêt ayant prononcé le divorce a acquis force de chose jugée, le greffier introduit immédiatement les données du jugement ou de l'arrêt dans la BAEC avec mention du jour où la décision judiciaire a acquis force de chose jugée.
+
+La BAEC établit une mention sur cette base et l'associe à l'acte de mariage.
+
+Si l'acte de mariage n'est pas disponible dans la BAEC, l'officier de l'état compétent établit un acte de divorce.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 81, 167; En vigueur : 31-03-2019&gt;
+
+**Art. 1304**
+
+[<sup>1</sup> Le jugement ou l'arrêt qui prononce le divorce ne produit d'effets à l'égard des tiers qu'à compter du jour de la mention à l'acte de mariage ou de l'établissement de l'acte de divorce. En cas de décès d'un des époux, avant la mention à l'acte de mariage ou de l'établissement de l'acte de divorce mais après que la décision le prononçant a acquis force de chose jugée, les époux sont considérés comme divorcés, à l'égard des tiers, sous la condition suspensive de la mention à l'acte de mariage ou de l'établissement de l'acte de divorce.
+
+Toutefois, à l'égard des biens des époux, la décision prend effet à partir du dépôt de la requête.
+
+En ce qui concerne les effets personnels du divorce entre époux, ils se produisent au jour où la décision acquiert force de chose jugée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 82, 167; En vigueur : 31-03-2019&gt;
+
+##### Section III. \_ De la séparation de corps.
+
+**Art. 1305**
+
+&lt;L 2007-04-27/00, art. 37, 087; En vigueur : 01-09-2007&gt; La demande en séparation de corps est traitée et jugée dans les mêmes formes que la demande en divorce.
+
+La demande en divorce peut à tout moment être transformée en demande en séparation de corps.
+
+La demande en séparation de corps peut à tout moment être transformée en demande en divorce.
+
+**Art. 1306**
+
+[<sup>1</sup> Lorsque le jugement ou l'arrêt ayant prononcé la séparation de corps et de bien a acquis force de chose jugée, le greffier transmet immédiatement les données du jugement ou de l'arrêt à la BAEC, avec mention du jour où la décision judiciaire a acquis force de chose jugée.
+
+La BAEC établit une mention sur cette base et l'associe à l'acte de mariage.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-09-13/08, art. 68, 199; En vigueur : 01-01-2024&gt;
+
+**Art. 1307**
+
+[<sup>1</sup> Les époux peuvent demander la réconciliation par requête conjointe, signée par eux-mêmes ou leur avocat. Elle est déposée au greffe du tribunal de première instance.
+
+Lorsque le jugement ou l'arrêt ayant prononcé la réconciliation a acquis force de chose jugée, le greffier transmet immédiatement les données du jugement ou de l'arrêt à la BAEC, avec mention du jour où la décision judiciaire a acquis force de chose jugée.
+
+La BAEC établit une mention sur cette base et l'associe à l'acte de mariage.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-09-13/08, art. 69, 199; En vigueur : 01-01-2024&gt;
+
+**Art. 1308**
+
+(...) &lt;L 14-7-1976, art. 32&gt;
+
+##### Section IV. - Conversion de la séparation de corps en divorce. (Abrogé) &lt;L 2007-04-27/00, art. 21, 2°, 087; En vigueur : 01-09-2007&gt;
+
+**Art. 1309**
+
+(Abrogé) &lt;L 2007-04-27/00, art. 38, 3°, 087; En vigueur : 01-09-2007&gt;
+
+**Art. 1310**
+
+(Abrogé) &lt;L 2007-04-27/00, art. 38, 4°, 087; En vigueur : 01-09-2007&gt;
+
+##### Section V. - Séparation de biens.
+
+**Art. 1311**
+
+[<sup>1</sup> Dès la mise au rôle d'une demande en séparation de biens, le greffier communique au registre central des conventions matrimoniales, en vue de son inscription, les données suivantes:
+
+1° la date de la demande;
+
+2° son numéro de mise au rôle;
+
+3° les nom, prénom, et domicile des époux.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-01-19/18, art. 34, 189; En vigueur : 01-07-2022&gt;
+
+**Art. 1312**
+
+&lt;Abrogé par L 2022-01-19/18, art. 59, 189; En vigueur : 01-07-2022&gt;
+
+**Art. 1313**
+
+Sauf les actes conservatoires, il ne peut être prononcé sur la demande en séparation, aucun jugement qu'un mois après l'accomplissement [<sup>1</sup> de la formalité prescrite à l'article 1311]<sup>1</sup>. &lt;L 14-7-1976, art. 33&gt;
+
+----------
+
+(1)&lt;L 2022-01-19/18, art. 35, 189; En vigueur : 01-07-2022&gt;
+
+**Art. 1314**
+
+&lt;L 14-7-1976, art. 33&gt; Les créanciers d'un des époux peuvent, jusqu'au jugement définitif, demander soit à l'amiable, soit par exploit d'huissier de justice, au demandeur de leur communiquer la demande de séparation et les pi ces justificatives et même intervenir à l'instance.
+
+**Art. 1315**
+
+[<sup>1</sup> Le jugement est communiqué à la diligence du greffier, au registre central des conventions matrimoniales. Il en est de même en cas d'opposition ou d'appel.
+
+Le greffier communique les données suivantes: la date et l'objet de la décision du tribunal de la famille qui l'a rendue et les nom, prénom et domicile des époux.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-01-19/18, art. 36, 189; En vigueur : 01-07-2022&gt;
+
+**Art. 1316**
+
+&lt;Abrogé par L 2022-01-19/18, art. 59, 189; En vigueur : 01-07-2022&gt;
+
+**Art. 1317**
+
+A peine de nullité, (le demandeur) ne peut commencer l'exécution de la décision que du jour où [<sup>1</sup> la décision de séparation de biens a été inscrite au registre central des conventions matrimoniales]<sup>1</sup>. &lt;L 14-7-1976, art. 33&gt;
+
+----------
+
+(1)&lt;L 2022-01-19/18, art. 37, 189; En vigueur : 01-07-2022&gt;
+
+**Art. 1318**
+
+&lt;Abrogé par L 2022-01-19/18, art. 59, 189; En vigueur : 01-07-2022&gt;
+
+#### CHAPITRE XIbis. \_ &lt;L 14-7-1976, art. 34&gt; De la mutabilité des conventions matrimoniales.
+
+**Art. 1319**
+
+(Abrogé) &lt;L 2008-07-18/44, art. 6, 098; En vigueur : 01-11-2008&gt;
+
+**Art. 1319bis**
+
+(Abrogé) &lt;L 2008-07-18/44, art. 6, 098; En vigueur : 01-11-2008&gt;
+
+#### CHAPITRE XII. \_ Des pensions alimentaires.
+
+**Art. 1320**
+
+[<sup>1</sup> Les demandes en allocation, majoration, réduction ou suppression de pension alimentaire peuvent être introduites par requête contradictoire, conformément aux articles 1034bis à 1034sexies.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-03-19/05, art. 13, 108; En vigueur : 01-08-2010; voir également l'art. 17&gt;
+
+**Art. 1321**
+
+[<sup>1</sup> § 1er. [<sup>4</sup> Toute décision judicaire, fixant une contribution alimentaire en vertu de l'article 203, § 1er, du Code civil, indique les éléments suivants:]<sup>4</sup>
+
+1° la nature et le montant des facultés de chacun des père et mère pris en compte par le [<sup>2</sup> tribunal de la famille]<sup>2</sup> en vertu de l'article 203, § 2, du Code civil;
+
+2° les frais ordinaires constituant le budget de l'enfant ainsi que la manière dont ces frais sont évalués;
+
+3° la nature des frais extraordinaires qui pourront être pris en considération, la proportion de ces frais à assumer par chacun des père et mère ainsi que les modalités de l'engagement de ces frais;
+
+4° les modalités d'hébergement de l'enfant et la contribution en nature de chacun des père et mère à l'entretien de l'enfant suite à cet hébergement;
+
+5° le montant des allocations familiales et avantages sociaux et fiscaux de tous types que chacun des père et mère reçoit pour l'enfant;
+
+6° le cas échéant, les revenus de chacun des père et mère résultant de la jouissance des biens de l'enfant;
+
+7° la part de chacun des père et mère dans la prise en charge des frais résultant de l'article 203, § 1er du Code civil et la contribution alimentaire éventuellement ainsi fixée et les modalités de son adaptation en vertu de l'article 203quater du Code civil;
+
+8° les circonstances particulières de la cause prises en considération.
+
+[<sup>4</sup> Toute convention fixant une contribution alimentaire en vertu de l'article 203, § 1er, du Code civil justifie le montant de celle-ci au regard de tout ou partie des éléments visé à l'alinéa précédent, sur la base des déclarations des parties.]<sup>4</sup>
+
+§ 2. Le [<sup>2</sup> tribunal de la famille]<sup>2</sup> [<sup>4</sup> ou, le cas échéant, la convention, pour les éléments pris en considération en application du § 1er, alinéa 2,]<sup>4</sup> précise :
+
+1° [<sup>4</sup> de quelle manière les éléments prévus au paragraphe 1er ont été pris en compte;]<sup>4</sup>
+
+2° dans un jugement spécialement motivé, de quelle manière il a fixé la contribution alimentaire et les modalités de son adaptation conformément à l'article 203quater, § 2, du Code civil, s'il s'écarte du mode de calcul prévu à l'article 1322, § 3.
+
+§ 3. [<sup>3</sup> Le jugement [<sup>4</sup> ou la convention ]<sup>4</sup> mentionne explicitement et dans une formulation intelligible la possibilité, visée à l'article 203ter, alinéas 1er et 2, du Code civil, de percevoir les revenus du débiteur ou toute autre somme qui lui serait due par un tiers, c'est-à-dire l'autorisation de perception de revenus.]<sup>3</sup>
+
+Le jugement[<sup>4</sup> ou la convention]<sup>4</sup> mentionne les coordonnées du Service des créances alimentaires, créé par la loi du 21 février 2003 créant un Service des créances alimentaires au sein du SPF Finances, et rappelle ses missions en matière d'octroi d'avances sur pensions alimentaires et de récupération de pensions alimentaires dues.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-03-19/05, art. 14, 108; En vigueur : 01-08-2010; voir également l'art. 17&gt;
+
+(2)&lt;L 2013-07-30/23, art. 226, 130; En vigueur : 01-09-2014&gt;
+
+(3)&lt;L 2017-07-21/37, art. 2, 156; En vigueur : 01-09-2017&gt;
+
+(4)&lt;L 2018-12-21/09, art. 127, 174; En vigueur : 10-01-2019&gt;
+
+**Art. 1321_REGION_FLAMANDE**
+
+[<sup>1</sup> § 1er. [<sup>4</sup> Toute décision judicaire, fixant une contribution alimentaire en vertu de l'article 203, § 1er, du Code civil, indique les éléments suivants:]<sup>4</sup>
+
+1° la nature et le montant des facultés de chacun des père et mère pris en compte par le [<sup>2</sup> tribunal de la famille]<sup>2</sup> en vertu de l'article 203, § 2, du Code civil;
+
+2° les frais ordinaires constituant le budget de l'enfant ainsi que la manière dont ces frais sont évalués;
+
+3° la nature des frais extraordinaires qui pourront être pris en considération, la proportion de ces frais à assumer par chacun des père et mère ainsi que les modalités de l'engagement de ces frais;
+
+4° les modalités d'hébergement de l'enfant et la contribution en nature de chacun des père et mère à l'entretien de l'enfant suite à cet hébergement;
+
+5° le montant des [<sup>5</sup> allocations dans le cadre de la politique familiale]<sup>5</sup> et avantages sociaux et fiscaux de tous types que chacun des père et mère reçoit pour l'enfant;
+
+6° le cas échéant, les revenus de chacun des père et mère résultant de la jouissance des biens de l'enfant;
+
+7° la part de chacun des père et mère dans la prise en charge des frais résultant de l'article 203, § 1er du Code civil et la contribution alimentaire éventuellement ainsi fixée et les modalités de son adaptation en vertu de l'article 203quater du Code civil;
+
+8° les circonstances particulières de la cause prises en considération.
+
+[<sup>4</sup> Toute convention fixant une contribution alimentaire en vertu de l'article 203, § 1er, du Code civil justifie le montant de celle-ci au regard de tout ou partie des éléments visé à l'alinéa précédent, sur la base des déclarations des parties.]<sup>4</sup>
+
+§ 2. Le [<sup>2</sup> tribunal de la famille]<sup>2</sup> [<sup>4</sup> ou, le cas échéant, la convention, pour les éléments pris en considération en application du § 1er, alinéa 2,]<sup>4</sup> précise :
+
+1° [<sup>4</sup> de quelle manière les éléments prévus au paragraphe 1er ont été pris en compte;]<sup>4</sup>
+
+2° dans un jugement spécialement motivé, de quelle manière il a fixé la contribution alimentaire et les modalités de son adaptation conformément à l'article 203quater, § 2, du Code civil, s'il s'écarte du mode de calcul prévu à l'article 1322, § 3.
+
+§ 3. [<sup>3</sup> Le jugement [<sup>4</sup> ou la convention ]<sup>4</sup> mentionne explicitement et dans une formulation intelligible la possibilité, visée à l'article 203ter, alinéas 1er et 2, du Code civil, de percevoir les revenus du débiteur ou toute autre somme qui lui serait due par un tiers, c'est-à-dire l'autorisation de perception de revenus.]<sup>3</sup>
+
+Le jugement[<sup>4</sup> ou la convention]<sup>4</sup> mentionne les coordonnées du Service des créances alimentaires, créé par la loi du 21 février 2003 créant un Service des créances alimentaires au sein du SPF Finances, et rappelle ses missions en matière d'octroi d'avances sur pensions alimentaires et de récupération de pensions alimentaires dues.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-03-19/05, art. 14, 108; En vigueur : 01-08-2010; voir également l'art. 17&gt;
+
+(2)&lt;L 2013-07-30/23, art. 226, 130; En vigueur : 01-09-2014&gt;
+
+(3)&lt;L 2017-07-21/37, art. 2, 156; En vigueur : 01-09-2017&gt;
+
+(4)&lt;L 2018-12-21/09, art. 127, 174; En vigueur : 10-01-2019&gt;
+
+(5)&lt;DCFL 2018-04-27/27, art. 198, 176; En vigueur : 01-01-2019&gt;
+
+**Art. 1322**
+
+[<sup>1</sup> § 1er. Il est institué une commission des contributions alimentaires, chargée d'établir des recommandations pour l'évaluation des frais résultant de l'article 203, § 1er du Code civil et de la fixation de la contribution de chacun des père et mère conformément à l'article 203bis du Code civil.
+
+[<sup>2</sup> Tous les deux ans au moins, la commission évalue ces recommandations et adresse un avis à l'attention du ministre de la Justice, avant le 31 mai de l'année qui suit la deuxième année civile écoulée. Le ministre de la Justice transmet cet avis à la Chambre des représentants, accompagné de ses commentaires.]<sup>2</sup>
+
+§ 2. Le Roi détermine la composition et le fonctionnement de la commission, qui compte un nombre égal de membres de chaque sexe.
+
+Il invite chaque entité fédérée concernée par les matières familiales à participer aux travaux de ladite commission.
+
+§ 3. Le Roi peut fixer un mode de calcul destiné à faciliter la mise en oeuvre des recommandations visées au § 1er .]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-03-19/05, art. 18, 108; En vigueur : 01-08-2010; voir également l'art. 17&gt;
+
+(2)&lt;L 2018-12-21/09, art. 128, 174; En vigueur : 10-01-2019&gt;
+
+**Art. 1322/1**
+
+[<sup>1</sup> La décision qui statue sur une pension alimentaire est de plein droit exécutoire par provision, sauf si le [<sup>2</sup> tribunal de la famille]<sup>2</sup> en décide autrement, sur la demande d'une des parties.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-03-19/05, art. 16, 108; En vigueur : 01-08-2010; voir également l'art. 17&gt;
+
+(2)&lt;L 2013-07-30/23, art. 227, 130; En vigueur : 01-09-2014&gt;
+
+#### CHAPITRE XIIbis. [<sup>1</sup> Des demandes relatives aux mesures transfrontières relatives à la responsabilité parentale et la protection des enfants.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-11-27/13, art. 2, 134; En vigueur : 01-09-2014&gt;
+
+**Art. 1322bis**
+
+&lt;L 2007-05-10/52, art. 6, 090; En vigueur : 01-07-2007&gt; § 1er. Sans préjudice de la procédure prévue à [<sup>3</sup> l'article 1322duodecies]<sup>3</sup>, le [<sup>1</sup> tribunal de la famille]<sup>1</sup> est saisi, selon la procédure prévue aux articles 1034bis à 1034quinquies :
+
+1° des demandes fondées sur la Convention européenne de Luxembourg du 20 mai 1980 sur la reconnaissance et l'exécution des décisions en matière de garde des enfants et le rétablissement de la garde des enfants;
+
+2° des demandes fondées sur la Convention de La Haye du 25 octobre 1980 sur les aspects civils de l'enlèvement international d'enfants [<sup>3</sup> , le cas échéant complétéé par les articles 22 à 28 du règlement (UE) 2019/1111 du Conseil du 25 juin 2019 relatif à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale, ainsi qu'à l'enlèvement international d'enfants (refonte)]<sup>3</sup>, qui tendent à obtenir le retour immédiat de l'enfant, le respect du droit de garde ou de visite existant dans un autre Etat, ou qui tendent à l'organisation d'un droit de visite;
+
+3° des demandes fondées sur [<sup>3</sup> l'article 29 du règlement (UE) 2019/1111 du Conseil du 25 juin 2019 relatif à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale, ainsi qu'à l'enlèvement international d'enfants (refonte)]<sup>3</sup>, qui tendent à obtenir, soit le retour de l'enfant, soit la garde de celui-ci à la suite d'une décision de non-retour rendue dans un autre Etat membre de l'Union européenne en application dudit règlement;
+
+4° [<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>2</sup> 5° [<sup>3</sup> ...]<sup>3</sup>]<sup>2</sup>
+
+§ 2. [<sup>3</sup> ...]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 228, 130; En vigueur : 01-09-2014, voir L 2014-05-08/02, art. 89, 132; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2013-12-21/79, art. 2, 135; En vigueur : 01-09-2014&gt;
+
+(3)&lt;L 2022-07-20/06, art. 7, 191; En vigueur : 01-08-2022&gt;
+
+**Art. 1322ter**
+
+&lt;L 2007-05-10/52, art. 7, 090; En vigueur : 01-07-2007&gt; [<sup>1</sup> Dans le cadre des demandes visées à l'article 1322bis, 1° et 2°]<sup>1</sup>, la requête est déposée ou envoyée par lettre recommandée au greffe du [<sup>1</sup> tribunal de la famille]<sup>1</sup> visé à l'article 633sexies.
+
+----------
+
+(1)&lt;L 2022-07-20/06, art. 8, 191; En vigueur : 01-08-2022&gt;
+
+**Art. 1322quater**
+
+(inséré par &lt;L 1998-08-10/A2, art. 3, En vigueur : 04-05-1999&gt;) Les parties sont convoquées par le greffier, sous pli judiciaire, à comparaître dans les huit jours de l'inscription de la requête au rôle général, à l'audience fixée par le juge.
+
+[<sup>2</sup> Le délai visé à l'alinéa 1er est un délai maximal.]<sup>2</sup>
+
+(NOTE : remplacé par L 2006-07-10/39, art. 15, 078; En vigueur : 01-01-2017 (voir L 2014-12-19/24, art. 20), abrogé lui-même par l'art. 176, 9° de L 2016-12-25/14; En vigueur : 31-12-2016)
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 229, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2022-07-20/06, art. 9, 191; En vigueur : 01-08-2022&gt;
+
+**Art. 1322quinquies**
+
+(inséré par &lt;L 1998-08-10/A2, art. 3, En vigueur : 04-05-1999&gt;) (Lorsque la demande [<sup>2</sup> visée à l'article 1322bis, 2°,]<sup>2</sup> est formulée par l'intermédiaire de l'Autorité centrale [<sup>2</sup> ...]<sup>2</sup>, la requête est signée et présentée au [<sup>1</sup> tribunal de la famille]<sup>1</sup> [<sup>2</sup> , au nom du requérant, demandeur de la cause,]<sup>2</sup> par le ministère public.) &lt;L 2007-05-10/52, art. 8, 090; En vigueur : 01-07-2007&gt;
+
+En cas de conflit d'intérêts dans le chef de celui-ci, la requête est signée et présentée au [<sup>1</sup> tribunal de la famille]<sup>1</sup> par l'avocat désigné par l'autorité centrale.
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 230, 130; En vigueur : 01-09-2014, voir L 2014-05-08/02, art. 90, 132; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2022-07-20/06, art. 10, 191; En vigueur : 01-08-2022&gt;
+
+**Art. 1322sexies**
+
+(inséré par &lt;L 1998-08-10/A2, art. 3, En vigueur : 04-05-1999&gt;) [<sup>2</sup> Les causes visées à l'article 1322bis sont introduites et instruites comme en référé.]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-07-30/23, art. 231, 130; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2017-07-06/24, art. 103, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 1322septies**
+
+[<sup>1</sup> § 1er. Les articles 1038 à 1041 s'appliquent sauf en ce que l'article 1039 dispose que les ordonnances de référé ne portent préjudice au principal.
+
+§ 2. L'article 1051, alinéa 4, ne s'applique pas.
+
+En outre, lorsque la demande en première instance est présentée par le ministère public, l'article 1052, alinéas 2 et 3, s'applique.
+
+§ 3. Devant la Cour d'appel, les parties sont convoquées par le greffier, sous pli judiciaire, à comparaître dans les huit jours de l'inscription de la requête au rôle général, à l'audience fixée par le juge.
+
+Ce délai est un délai maximal.
+
+Lorsque la demande en première instance n'est pas formulée par l'intermédiaire de l'Autorité centrale et que la partie intimée, résidant à l'étranger, n'est ni présente ni représentée à l'audience visée à l'alinéa 1er, le greffier convoque les parties par pli judiciaire à une nouvelle audience dans un délai maximum de quatre semaines à dater de l'audience visée à l'alinéa 1er. En conséquence, le délai de six semaines visé à l'article 1322nonies/4, alinéa 2, est prolongé de quatre semaines.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-20/06, art. 11, 191; En vigueur : 01-08-2022&gt;
+
+**Art. 1322octies**
+
+(inséré par &lt;L 1998-08-10/A2, art. 3, En vigueur : 04-05-1999&gt;) Dans le cadre de l'application du présent titre, le défendeur n'est pas admis à former une demande reconventionnelle [<sup>1</sup> , sans préjudice des articles 1322nonies/2, 1322nonies/3 et 1322undecies]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2022-07-20/06, art. 12, 191; En vigueur : 01-08-2022&gt;
+
+**Art. 1322nonies**
+
+[<sup>1</sup> § 1er. Dès qu'une demande visée à l'article 1322bis, 2°, est introduite, le greffier informe les parties de la possibilité de médiation, de conciliation et de tout autre mode de résolution amiable des conflits en leur envoyant immédiatement le texte des articles 1730 à 1737 accompagné d'une brochure d'information concernant la médiation, rédigée par le ministre qui a la justice dans ses attributions, la liste des médiateurs agréés spécialisés en matière familiale établis dans l'arrondissement judiciaire, ainsi que les renseignements concernant les séances d'information, permanences ou autres initiatives organisées dans l'arrondissement judiciaire afin de promouvoir la résolution amiable des conflits.
+
+§ 2. Les parties sont invitées à comparaitre en personne à l'audience d'introduction, ainsi qu'aux audiences de plaidoiries.
+
+Si les deux parties comparaissent en personne à l'audience d'introduction, le juge les entend sur la manière dont elles ont tenté de résoudre le litige à l'amiable avant l'introduction de la cause et détermine si une résolution à l'amiable est envisageable, sauf si cela est contraire à l'intérêt supérieur de l'enfant, si ce n'est pas approprié en l'espèce ou si cela retarderait indûment la procédure.
+
+[<sup>2</sup> Toutefois, s'il existe des indices sérieux que des violences, des menaces ou toute autre forme de pression sont ou ont été exercées par une partie à l'encontre de l'autre partie, l'article 1734, § 1er, alinéa 3, s'applique par analogie.]<sup>2</sup>
+
+§ 3. [<sup>2</sup> Sans préjudice du paragraphe 2, alinéa 3, s'il constate]<sup>2</sup> qu'un rapprochement est possible, le juge peut remettre la cause à une date fixe, qui ne peut excéder quinze jours sauf accord des parties, afin de leur permettre de présenter un accord.
+
+A la demande des parties ou s'il l'estime utile, le juge peut également renvoyer l'affaire devant la chambre de règlement à l'amiable en veillant au respect des délais visés à l'article 1322nonies/4.
+
+§ 4. Si les parties n'ont pas comparu en personne ou si elles ne sont pas parvenues à un accord à bref délai, le tribunal de la famille les entend sur leur litige.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-20/06, art. 13, 191; En vigueur : 01-08-2022&gt;
+
+(2)&lt;L 2022-11-06/01, art. 6, 193; En vigueur : 01-12-2022&gt;
+
+**Art. 1322nonies/1**
+
+[<sup>1</sup> Le tribunal saisi de la demande visée à l'article 1322bis, 2°, procède à l'audition de l'enfant conformément à l'article 21 du règlement visé à l'article 1322bis, 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-20/06, art. 14, 191; En vigueur : 01-08-2022&gt;
+
+**Art. 1322nonies/2**
+
+[<sup>1</sup> Le tribunal peut, à tout stade de la procédure, examiner si des contacts entre l'enfant et la personne qui demande le retour de l'enfant devraient être organisés, compte tenu de l'intérêt supérieur de l'enfant.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-20/06, art. 15, 191; En vigueur : 01-08-2022&gt;
+
+**Art. 1322nonies/3**
+
+[<sup>1</sup> Conformément à l'article 10 du règlement visé à l'article 1322bis, 2°, les parties peuvent s'accorder pour donner à la juridiction saisie de la demande de retour, compétence pour se prononcer en matière de responsabilité parentale et, le cas échéant, pour homologuer leur accord.
+
+Si cet accord n'a pas été conclu par écrit, le tribunal le mentionne dans le dossier.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-20/06, art. 16, 191; En vigueur : 01-08-2022&gt;
+
+**Art. 1322nonies/4**
+
+[<sup>1</sup> Le tribunal saisi d'une demande visée à l'article 1322bis, 2°, rend sa décision six semaines au plus tard après sa saisine sauf si cela s'avère impossible en raison de circonstances exceptionnelles.
+
+La juridiction qui connaît du recours introduit à l'encontre de la décision visée à l'alinéa 1er rend sa décision six semaines au plus tard après le dépôt de la requête d'appel.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-20/06, art. 17, 191; En vigueur : 01-08-2022&gt;
+
+**Art. 1322decies**
+
+[<sup>1</sup> La décision de non-retour de l'enfant rendue en Belgique en application du règlement visé à l'article 1322bis, 2°, et de l'article 13, alinéa 1er, b), ou alinéa 2, de la Convention de La Haye du 25 octobre 1980, est accompagnée du certificat établi au moyen du formulaire figurant à l'annexe I du règlement précité et ce, conformément à l'article 29, paragraphe 2, de ce règlement.
+
+Si la juridiction est informée de l'existence d'une procédure en cours dans l'Etat membre dans lequel l'enfant avait sa résidence habituelle immédiatement avant son déplacement ou son non-retour illicite, elle transmet à cette juridiction, dans un délai de quinze jours à compter de la décision, les documents visés à l'article 29, paragraphe 3, du règlement, soit directement, soit par l'intermédiaire de l'Autorité Centrale belge.
+
+Aucun recours ne peut être introduit à l'encontre de la décision visée à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-20/06, art. 18, 191; En vigueur : 01-08-2022&gt;
+
+**Art. 1322undecies**
+
+[<sup>1</sup> En ordonnant le retour d'un enfant, en application de l'article 12 de la Convention de La Haye du 25 octobre 1980 et du chapitre III du règlement visé à l'article 1322bis, 2°, le tribunal de la famille peut, le cas échéant, prendre des mesures provisoires ou conservatoires, conformément à l'article 15 de ce règlement, pour protéger l'enfant contre le risque grave visé à l'article 13, alinéa 1er, b), de la Convention de La Haye du 25 octobre 1980, pour autant que l'examen et la prise de ces mesures ne retardent pas indûment la procédure de retour.
+
+Le certificat établi au moyen du formulaire figurant à l'annexe IV du règlement visé à l'article 1322bis, 2°, est délivré d'office par la juridiction.
+
+Dans tous les cas, le tribunal invite les parties à débattre les modalités d'exécution de la décision et peut, le cas échéant, les fixer d'office au regard de l'intérêt supérieur de l'enfant.
+
+Il désigne les personnes qui, à défaut d'exécution volontaire de la décision, sont habilitées à accompagner l'huissier de justice pour l'exécution de celle-ci.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-20/06, art. 19, 191; En vigueur : 01-08-2022&gt;
+
+**Art. 1322duodecies**
+
+,[<sup>1</sup> § 1er. La décision de non-retour de l'enfant, rendue dans un Etat membre de l'Union européen lié par le règlement visé à l'article 1322bis, 2°, ci-après " règlement", en application de l'article 13, alinéa 1er, b), ou alinéa 2, de la Convention de La Haye du 25 octobre 1980, le certificat établi au moyen du formulaire figurant à l'annexe I du règlement ainsi que les documents visés à l'article 29, paragraphe 5, c), du règlement, sont soumis par les parties au tribunal préalablement saisi d'une demande visée au chapitre Xbis dans un délai de trois mois à compter de la notification de la décision.
+
+Le dépôt de ces documents opère saisine du tribunal d'une demande visée à l'article 1322bis, 3°.
+
+§ 2. Les documents visés à l'article 29, paragraphe 3, du règlement peuvent être transmis au tribunal préalablement saisi d'une demande visée au chapitre Xbis par la juridiction qui a rendu la décision, soit directement, soit par l'intermédiaire de l'Autorité Centrale belge.
+
+Dès réception des documents visés à l'alinéa 1er et au plus tard dans les trois jours ouvrables, le greffier notifie par pli judiciaire aux parties l'information contenue dans le certificat figurant à l'annexe I du règlement précité. Le pli judiciaire contient les mentions suivantes:
+
+1° le texte de l'article 29 du règlement visé à l'article 1322bis, 2° ;
+
+2° une invitation des parties à déposer des conclusions au greffe, dans les deux mois de la notification.
+
+Si l'une au moins des parties dépose des conclusions, le greffier convoque immédiatement les parties à la première audience utile.
+
+Le dépôt de conclusions par au moins l'une des parties opère saisine du tribunal d'une demande visée à l'article 1322bis, 3°.
+
+§ 3. Si aucune procédure n'est en cours, les parties peuvent saisir le tribunal d'une demande visée à l'article 1322bis, 3°, dans un délai de trois mois à compter de la notification d'une décision visée au paragraphe 1er.
+
+Les documents mentionnés à l'article 29, paragraphe 5, du règlement visé à l'article 1322bis, 2°, sont joints à la requête.
+
+§ 4. Le tribunal examine, dans sa décision, les motifs et éléments de preuve sur lesquels repose la décision rendue sur la base de l'article 13, alinéa 1er, b), ou alinéa 2, de la Convention de La Haye du 25 octobre 1980.
+
+Il est procédé à l'audition de l'enfant conformément à l'article 21 du règlement susvisé et, si nécessaire, au règlement (UE) 2020/1783 du Parlement européen et du Conseil du 25 novembre 2020 relatif à la coopération entre les juridictions des Etats membres dans le domaine de l'obtention des preuves en matière civile ou commerciale (obtention des preuves) (refonte).
+
+Le cas échéant, le tribunal indique, dans sa décision, le motif pour lequel l'enfant n'a pas été entendu.
+
+§ 5. La décision de fond en matière de droit de garde impliquant le retour de l'enfant est accompagnée du certificat établi au moyen du formulaire figurant à l'annexe VI du règlement visé à l'article 1322bis, 2°.
+
+La décision de fond en matière de droit de garde accordant un droit de visite transfrontière et n'impliquant pas le retour de l'enfant est accompagnée du certificat établi au moyen du formulaire figurant à l'annexe V du règlement visé à l'article 1322bis, 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-20/06, art. 20, 191; En vigueur : 01-08-2022&gt;
+
+**Art. 1322terdecies**
+
+[<sup>1</sup> Pour l'application des dispositions d'une des conventions ou du Règlement du Conseil visés à l'article 1322bis, l'Autorité centrale est le Service public fédéral Justice.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-11-27/13, art. 4, 134; En vigueur : 01-09-2014&gt;
+
+**Art. 1322quaterdecies**
+
+&lt;Inséré par L 2007-05-10/52, art. 15; En vigueur : 01-07-2007&gt; § 1er. Aux fins de l'application [<sup>1</sup> de l'article 33 de la Convention de La Haye du 19 octobre 1996 concernant la compétence, la loi applicable, la reconnaissance, l'exécution et la coopération en matière de responsabilité parentale et de mesures de protection des enfants et]<sup>1</sup> [<sup>2</sup> de l'article 82 du règlement (CE) 2019/1111 du Conseil du 25 juin 2019 relatif à la compétence, la reconnaissance et l'exécution des décisions en matière matrimoniale et en matière de responsabilité parentale, ainsi qu'à l'enlèvement international d'enfants (refonte)]<sup>2</sup>, l'Autorité centrale belge, à savoir le Service public fédéral Justice, transmet à l'instance communautaire compétente, les demandes qui lui ont été adressées par la juridiction d'un autre Etat membre.
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-11-27/13, art. 5, 134; En vigueur : 01-09-2014&gt;
+
+(2)&lt;L 2022-07-20/06, art. 21, 191; En vigueur : 01-08-2022&gt;
+
+#### CHAPITRE XIII. \_ De la surenchère sur aliénation volontaire.
+
+**Art. 1323**
+
+L'acte de réquisition de mise aux enchères prévu par l'article 115 de la loi du 16 décembre 1851 contient citation à deux jours devant le juge des saisies pour entendre statuer sur la validité de la surenchère.
+
+Il n'est pas pris jugement de jonction et les défaillants ne sont pas cités à nouveau.
+
+**Art. 1324**
+
+Si l'une des conditions prévues pour la réquisition n'est pas remplie, la surenchère est déclarée nulle et l'acquéreur maintenu, à moins qu'il n'ait été fait une surenchère par d'autres créanciers.
+
+**Art. 1325**
+
+Le jugement de validation de la surenchère désigne le notaire chargé de procéder à la vente, et en indique l'époque. Il y est procédé d'après les conditions primitives, ou d'après un nouveau cahier des charges arrêté de commun accord entre le surenchérisseur et les parties intéressées.
+
+**Art. 1326**
+
+[<sup>1</sup> § 1er. Les ventes d'immeubles qui appartiennent en totalité au débiteur admis au règlement collectif de dettes, au failli, à un débiteur en réorganisation judiciaire par transfert sous autorité de justice, à une personne morale en liquidation, à un mineur, à un présumé absent, à une personne protégée qui, en vertu de l'article 492/1 de l'ancien Code civil, a été déclarée incapable d'aliéner des immeubles, à une succession vacante, à une succession acceptée sous bénéfice d'inventaire, emportent délégation du prix au profit des créanciers hypothécaires inscrits, des créanciers privilégiés inscrits, le cas échéant des créanciers enregistrés au Registre des gages, des créanciers qui ont fait transcrire un commandement ou un exploit de saisie ainsi qu'au profit des créanciers qui ont fait mention en marge d'une action intentée sur la base de l'article 5.243 du Code civil, à condition:
+
+1° que ces créanciers aient été appelés par le notaire à suivre les opérations de vente dans le cadre d'une vente publique autorisée ou ordonnée. Cet appel a lieu par exploit d'huissier ou courrier recommandé avec accusé de réception au moins huit jours avant le jour de la vente ou, en cas d'enchères dématérialisées, au moins huit jours avant le jour de l'ouverture des enchères; ou
+
+2° qu'ils aient été appelés par le greffe à la procédure d'autorisation dans le cadre d'une vente de gré à gré. Cet appel a lieu par pli judiciaire notifié au moins huit jours avant l'audience.
+
+Le présent paragraphe est également applicable à la vente autorisée ou ordonnée sur saisie d'un immeuble qui appartient en totalité ou pour partie au saisi, sauf en cas d'application de l'article 1561, auquel cas la vente intervient dans le cadre d'une liquidation-partage judiciaire conformément au paragraphe 3.
+
+§ 2. Les ventes d'immeubles indivis qui appartiennent pour partie au débiteur admis au règlement collectif de dettes, au failli, à un débiteur en réorganisation judiciaire par transfert sous autorité de justice, à une personne morale en liquidation qui a obtenu le bénéfice de la purge, à un mineur, à un présumé absent, à une personne protégée qui, en vertu de l'article 492/1 de l'ancien Code civil, a été déclarée incapable d'aliéner des immeubles, à une succession vacante, à une succession acceptée sous bénéfice d'inventaire, et à d'autres personnes, emportent délégation du prix au profit des créanciers énumérés au paragraphe 1er qui ont été appelés par le greffe à la procédure d'autorisation de la vente. Cet appel a lieu par pli judiciaire notifié au moins huit jours avant l'audience.
+
+§ 3. Pour les ventes intervenant dans le cadre d'une liquidation-partage judiciaire, les règles spécifiques suivantes sont d'application:
+
+1° la vente publique emporte délégation de prix au profit des créanciers énumérés au paragraphe 1er qui ont été appelés par le notaire à suivre les opérations de vente. Cet appel a lieu par exploit d'huissier ou courrier recommandé avec accusé de réception au moins huit jours avant le jour de la vente ou, en cas d'enchères dématérialisées, au moins huit jours avant le jour de l'ouverture des enchères;
+
+2° la vente de gré à gré emporte délégation de prix au profit des créanciers énumérés au paragraphe 1er qui ont été appelés par le greffe à la procédure d'autorisation, pour autant que les parties venderesses se soient volontairement soumises à la procédure d'autorisation visée à l'article 1193bis. Cet appel a lieu par pli judiciaire notifié au moins huit jours avant l'audience.
+
+§ 4. Si, en application des paragraphes 2 et 3, la délégation de prix peut être obtenue dans le cadre de différentes procédures, il suffit que les créanciers énumérés au paragraphe 1er aient été appelés dans le cadre de l'une de ces procédures pour obtenir la purge.
+
+§ 5. Les ventes d'immeubles emportent également de plein droit délégation de prix à l'égard des créanciers énumérés au paragraphe 1er dont l'inscription, la transcription, l'enregistrement au Registre des gages ou la mention en marge sont postérieurs à l'appel prévu aux paragraphes 1er à 3, sans que ces créanciers doivent être appelés.
+
+§ 6. Le titre de l'acquéreur se compose de l'acte sans qu'il soit besoin d'y annexer et de transcrire l'ordonnance ou le jugement d'autorisation.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-19/05, art. 55, 200; En vigueur : 06-01-2024&gt;
+
+**Art. 1327**
+
+Lorsqu'une demande en validation de la surenchère aura été introduite conformément à l'article 1323, chacun des créanciers inscrits aura le droit de se faire subroger à la poursuite, conformément à l'article 1609, si le surenchérisseur ou le nouveau propriétaire ne donne pas suite à la procédure dans le mois de la surenchère.
+
+Sont également applicables au cas de surenchère les articles 1610 et 1611.
+
+**Art. 1328**
+
+En vue de procéder à la revente par suite de surenchère, prévue à l'article 117 de la loi du 16 décembre 1851, le notaire commis par le jugement rendu conformément à l'article 1325 fait imprimer des placards qui contiendront:
+
+1° la date et la nature de l'acte d'aliénation sur lequel la surenchère a été faite, et le nom du notaire qui l'a reçu;
+
+2° le prix énoncé dans l'acte, s'il s'agit d'une vente ou l'évaluation donné aux immeubles dans la notification aux créanciers inscrits, s'il s'agit de tout autre acte;
+
+3° le montant de la surenchère;
+
+4° les nom, prénom et domicile du précédent propriétaire;
+
+5° l'indication sommaire de la nature et de la situation des biens aliénés et leur contenance d'après la matrice cadastrale;
+
+6° l'indication des lieu, jour et heure de l'adjudication.
+
+Ces placards seront apposés dix jours au moins avant l'adjudication à la porte principale des immeubles mis en vente et à la porte du notaire chargé de la vente.
+
+Dans le même délai les mentions énumérées ci-dessus seront publiées dans un journal du chef-lieu de l'arrondissement ou du chef-lieu de la province.
+
+Cette publication aura lieu deux fois au moins dans les dix jours qui précèdent l'adjudication.
+
+**Art. 1329**
+
+Dix jours au moins avant l'adjudication, sommation est faite à l'ancien et au nouveau propriétaire d'assister à cette adjudication aux lieu, jour et heure indiques.
+
+Pareille sommation est faite au créancier surenchérisseur, si c'est le nouveau propriétaire ou un autre créancier qui poursuit. Dans le même délai, sont déposés en l'étude du notaire le cahier des charges et l'acte d'aliénation qui tient lieu de minute d'enchère.
+
+Le prix porté dans l'acte ou la valeur déclarée et le montant de la surenchère tiennent lieu de mise à prix.
+
+Le public est admis à concourir à l'adjudication.
+
+**Art. 1330**
+
+Les créanciers inscrits sont également appelés à l'adjudication dans le délai fixé pour les citations.
+
+**Art. 1331**
+
+Le surenchérisseur, même en cas de subrogation à la poursuite, sera déclaré adjudicataire si, au jour fixé pour l'adjudication, il ne se présente pas d'autre enchérisseur.
+
+Sont applicables au cas de surenchère les articles 1585, 1586, 1589, 1591, 1595 et 1599, ainsi que les articles 1600 à 1606, relatifs à la folle enchère.
+
+Les formalités prescrites par les articles 1323, 1328, 1329 et 1330, sont observées à peine de nullité.
+
+Les nullités doivent être proposées à peine de déchéance, savoir : celles qui concernent la déclaration de surenchère et la citation, avant le jugement qui doit statué sur la validation de la surenchère; celles qui sont relatives aux formalités de la mise en vente, au moins huit jours avant l'adjudication. Il est statué sur les premières, par le jugement relatif à la validation de la surenchere, et sur les autres avant le jour de l'adjudication, toutes affaires cessantes.
+
+Aucun jugement ou arrêt par défaut, en matière de surenchère sur aliénation volontaire, n'est susceptible d'opposition. Les jugements qui statuent sur les nullités antérieures à la validation de la surenchère, et ceux qui prononcent sur la demande en subrogation intentée pour collusion ou fraude, sont seuls susceptibles d'être attaqués par voie d'appel.
+
+L'adjudication, par suite d'une surenchère sur aliénation volontaire, ne peut être frappée d'aucune autre surenchère, sauf toutefois ce qui est statué par l'article 1600, en cas de folle enchère. L'adjudicataire ne peut élire commande qu'à la condition d'en faire la déclaration devant le notaire instrumentant ou de la lui signifier au plus tard le premier jour ouvrable qui suit celui de l'adjudication.
+
+**Art. 1332**
+
+Les effets de l'adjudication sont réglés, à l'égard du vendeur et de l'adjudicataire, par les dispositions de l'article 1599.
+
+Les demandes en nullité doivent être formées, à peine de déchéance, dans les quinze jours de la vente, qui sera transcrite conformément à l'article 1er de la loi du 16 décembre 1851.
+
+#### CHAPITRE XIV. \_ De l'octroi de délais de grâce.
+
+**Art. 1333**
+
+Dans les cas où les tribunaux peuvent accorder des délais pour l'exécution de leurs décisions, ils le feront par le jugement même qui statue sur la contestation dont ils sont saisis.
+
+Aucun délai ne peut être accordé pour l'exécution des jugements et arrêts après leur prononciation.
+
+**Art. 1334**
+
+Si l'exécution ou la saisie ont lieu en vertu d'un acte authentique autre qu'un jugement, la demande de délais prévue à l'article [<sup>1</sup> 5.201]<sup>1</sup> du Code civil, doit être formée, à peine de déchéance, dans les quinze jours à partir du commandement ou s'il n'y a pas lieu à commandement, à partir du premier acte de saisie signifié au débiteur.
+
+----------
+
+(1)&lt;L 2022-04-28/25, art. 3, 194; En vigueur : 01-01-2023&gt;
+
+**Art. 1335**
+
+L'interruption volontaire ou forcée des poursuites par le créancier au cours d'une demande principale en obtention de délais de grâce, n'entraîne pour lui aucune déchéance; il jouira, lors de la reprise de ces poursuites, d'un nouveau délai égal à tout le délai dont il disposait initialement pour les diligenter.
+
+**Art. 1336**
+
+[<sup>1</sup> La décision rejetant la demande de délais n'est pas susceptible d'opposition de la part du débiteur; le juge d'appel statue, le cas échéant, au plus tard dans les deux mois.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-07-06/24, art. 153, 154; En vigueur : 03-08-2017&gt;
+
+**Art. 1337**
+
+Le débiteur ne peut obtenir un délai ni jouir du délai qui lui a été accordé, si ses biens sont vendus à la requête d'autres créanciers, s'il est en état de faillite ou de déconfiture, s'il est fugitif, s'il n'a pas fourni ou s'il a diminué les sûretés dont il était tenu envers son créancier.
+
+#### CHAPITRE XIVbis. \_ (De l'octroi de facilités de paiement en matière de crédit à la consommation.) &lt;Inséré par L 1991-06-12/30, art. 114, § 5, 016; En vigueur : 09-07-1992&gt;
+
+**Art. 1337bis**
+
+&lt;Inséré par L 1991-06-12/30, art.114, § 5, 016; En vigueur : 09-07-1992&gt; La demande de facilités de paiement prévue par l'article 38 de la loi du 12 juin 1991 relative au crédit à la consommation, peut être introduite, devant le juge de paix, par requête déposée au greffe ou adressée au greffier sous pli recommandé à la poste, hormis le cas où le juge du fond a été saisi d'une demande relative à un contrat de crédit tel qu'il est visé dans la loi précitée.
+
+Cette procédure ne peut être introduite qu'après le refus du créancier d'accorder au débiteur les facilités de paiement que ce dernier lui aura demandées, par lettre recommandée à la poste, mentionnant les motifs de la demande.
+
+Après l'expiration d'un délai d'un mois, prenant cours à la date du dépôt de la lettre recommandée à la poste visée à l'alinéa précédent, le silence du créancier est réputé constituer une décision de refus.
+
+**Art. 1337ter**
+
+&lt;Inséré par L 1991-06-12/30, art.114, § 5, 016; En vigueur : 09-07-1992&gt; § 1er. (La requête mentionne :) &lt;L 2003-03-24/40, art. 79, 064; En vigueur : 01-01-2004&gt;
+
+1°) l'indication des jour, mois et année;
+
+2°) les nom, prénom [<sup>2</sup> ...]<sup>2</sup> et domicile du requérant ainsi que, le cas échéant, [<sup>1</sup> [<sup>3</sup> son numéro de registre national ou son numéro d'identification dans le registre bis]<sup>3</sup> et]<sup>1</sup> les nom, prénom, domicile et qualité de ses représentants légaux;
+
+3°) les nom, prénom et domicile ou, à défaut de domicile, la résidence de la personne contre laquelle la demande est introduite ou, si la demande est introduite contre une personne morale, l'indication de son siège social ou administratif;
+
+4°) l'objet et l'exposé sommaire des moyens de la demande;
+
+5°) la signature du requérant ou de son avocat.
+
+§ 2. La requête doit également contenir la déclaration que le juge du fond n'a été saisi d'aucune demande relative au contrat auquel se rapportent les facilités de paiement demandées.
+
+(Une copie du contrat de crédit est jointe à la requête.) &lt;L 2003-03-24/40, art. 79, 064; En vigueur : 01-01-2004&gt;
+
+§ 3. La requête est déposée en autant d'exemplaires qu'il y a de parties à la cause.
+
+----------
+
+(1)&lt;L 2018-10-14/18, art. 21, 173; En vigueur : 01-02-2019&gt;
+
+(2)&lt;L 2018-12-21/09, art. 130, 174; En vigueur : 10-01-2019&gt;
+
+(3)&lt;L 2023-12-19/08, art. 18, 202; En vigueur : 08-01-2024&gt;
+
+**Art. 1337quater**
+
+&lt;L 2003-03-24/40, art. 80, 064; En vigueur : 01-01-2004&gt; Si les mentions et les annexes visées à l'article 1337ter sont incomplètes, le juge invite, dans les huit jours, le requérant à compléter sa requête
+
+**Art. 1337quinquies**
+
+&lt;Inséré par L 1991-06-12/30, art.114, § 5, 016; En vigueur : 09-07-1992.&gt; Après inscription de la requête au rôle général, les parties sont convoquées par le greffier, par pli judiciaire, à comparaître à l'audience fixée par le juge.
+
+Une copie de la requête et des pièces justificatives sont jointes à la convocation de toutes les parties autres que le requérant.
+
+Dans la mesure où le prêteur n'est pas une des parties convoquées, il peut former tierce opposition.
+
+(NOTE : modifié par L 2006-07-10/39, art. 15, 078; En vigueur : 01-01-2017 (voir L 2014-12-19/24, art. 20), abrogé lui-même par l'art. 176, 9° de L 2016-12-25/14; En vigueur : 31-12-2016)
+
+**Art. 1337sexies**
+
+&lt;Inséré par L 1991-06-12/30, art.114, § 5, 016; En vigueur : 09-07-1992&gt; Lorsque l'octroi de facilités de paiement entraîne une augmentation des coûts du contrat de crédit, le juge détermine la partie qui est à la charge du requérant.
+
+**Art. 1337septies**
+
+&lt;Inséré par L 1991-06-12/30, art.114, § 5, 016; En vigueur : 09-07-1992&gt; Le requérant perd le bénéfice des facilités de paiement s'il ne respecte pas les échéances imposées et les modalités de paiement.
+
+**Art. 1337octies**
+
+&lt;L 2003-03-24/40, art. 81, 064; En vigueur : 01-01-2004&gt; Le jugement est exécutoire par provision, nonobstant appel et sans caution.
+
+Le greffier envoie à la Banque Nationale de Belgique une copie certifiée conforme de tout jugement par lequel les facilités de paiement ont été accordées ou refusées.
+
+#### CHAPITRE XV. \_ Procédure sommaire d'injonction de payer.
+
+**Art. 1338**
+
+&lt;L 29-11-1979, art. 3&gt; Toute demande de la compétence du juge de paix, tendant au paiement d'une dette liquide qui a pour objet une somme d'argent dont le montant n'excède pas ((1.860 EUR),) peut être introduite, instruite et jugée conformément aux dispositions du présent chapitre, (si elle paraît justifiée devant lui par un écrit émanant du débiteur.) &lt;L 1987-07-29/32, art. 1, 009; En vigueur : 1-10-1987&gt; &lt;L 1992-08-03/31, art. 58, 020; En vigueur : 01-01-1993&gt; &lt;AR 2000-07-20/58, art. 2, 051; En vigueur : 01-01-2002&gt;
+
+(L'écrit qui sert de fondement à la demande ne doit pas nécessairement constituer une reconnaissance de dette.) &lt;L 1987-07-29/32, art. 1, 009; En vigueur : 1-10-1987&gt;
+
+[<sup>1</sup> Ces dispositions s'appliquent également à toute demande de la compétence du [<sup>3</sup> tribunal de l'entreprise]<sup>3</sup> lorsqu'il connaît des contestations visées à l'article 573 [<sup>2</sup> , quel que soit le montant de la demande]<sup>2</sup> .]<sup>1</sup>
+
+(Ces dispositions s'appliquent également à toute demande de la compétence du tribunal de police lorsqu'il connaît des contestations visées à l'article 601bis.) &lt;L 1994-07-11/33, art. 40, 028; En vigueur : 01-01-1995&gt;
+
+----------
+
+(1)&lt;L 2014-03-26/33, art. 9, 128; En vigueur : 01-07-2014&gt;
+
+(2)&lt;L 2014-12-19/24, art. 32, 137; En vigueur : 08-01-2015&gt;
+
+(3)&lt;L 2018-04-15/14, art. 252, 163; En vigueur : 01-11-2018&gt;
+
+**Art. 1339**
+
+La requête est précédée d'une sommation de payer soit signifiée au débiteur par exploit d'huissier, soit adressée par lettre recommandée à la poste avec accuse de réception.
+
+La lettre ou l'exploit doit contenir, outre la reproduction des articles du présent chapitre, la mise en demeure d'avoir à payer dans les quinze jours de l'envoi de la lettre ou de la signification, le montant réclamé et l'indication du juge qui, à défaut par le débiteur d'avoir fait ce paiement, sera saisi de la demande.
+
+Le tout à peine de nullité.
+
+**Art. 1340**
+
+Dans les quinze jours qui suivent l'expiration du délai prévu à l'article 1339, la demande est adressée au juge par requête en double exemplaire contenant:
+
+1° l'indication des jour, mois et an;
+
+2° les nom, prénom [<sup>2</sup> ...]<sup>2</sup> et domicile du requérant, ainsi que, le cas échéant, [<sup>1</sup> son numéro de registre national [<sup>3</sup> , numéro d'identification dans le registre bis]<sup>3</sup> ou numéro d'entreprise et]<sup>1</sup> les nom, prénom, domicile et qualité de ses représentants légaux;
+
+3° (l'objet de la demande et l'indication précise du montant de la somme réclamée avec le décompte des différents éléments de la créance ainsi que du fondement de celle ci;) &lt;L 1987-07-29/32, art 2,1., 009; En vigueur : 1-10-1987&gt;
+
+4° la désignation du juge qui doit en connaître;
+
+5° la signature de l'avocat de la partie.
+
+S'il l'estime opportun, le requérant indique les motifs pour lesquels il s'oppose à l'octroi de (délais de grâce). &lt;L 1987-07-29/32, art 2,2., 009; En vigueur : 1-10-1987&gt;
+
+(Sont annexés à la requête :
+
+1° la photocopie de l'écrit qui sert de fondement à la demande;
+
+2° soit l'exploit, soit la copie de la lettre recommandée à laquelle est joint l'accusé de réception, soit l'original de cette lettre auquel sont joints la preuve du refus de réception ou de la non réclamation à la poste et un certificat établissant que le débiteur est inscrit à l'adresse indiquée sur les registres de la population.) &lt;L 1987-07-29/32, art. 2,3., 009; En vigueur : 1-10-1987&gt;
+
+----------
+
+(1)&lt;L 2018-10-14/18, art. 22, 173; En vigueur : 01-02-2019&gt;
+
+(2)&lt;L 2018-12-21/09, art. 130, 174; En vigueur : 10-01-2019&gt;
+
+(3)&lt;L 2023-12-19/08, art. 17, 202; En vigueur : 08-01-2024&gt;
+
+**Art. 1341**
+
+La requête est déposée au greffe, visée à sa date par le greffier et inscrite dans un registre tenu à cette fin. Elle est versée au dossier de la procédure ainsi que, le cas échéant, toute communication adressée au juge par le débiteur.
+
+Elle peut aussi être adressée sous pli par l'avocat au greffier.
+
+**Art. 1342**
+
+&lt;L 1987-07-29/32, art. 3, 009; En vigueur : 1-10-1987&gt; Dans les quinze jours du dépôt de la requête; le juge accueille celle-ci ou la rejette par une ordonnance rendue en chambre du conseil. Il peut y faire droit partiellement. Il peut également accorder des délais de grâce ainsi qu'il est dit au chapitre XIV du présent livre.
+
+Copie de l'ordonnance est envoyée, par simple lettre, à l'avocat du requérant.
+
+**Art. 1343**
+
+&lt;L 1987-07-29/32, art. 4, 009; En vigueur : 1-10-1987&gt; § 1. Lorsque le juge fait droit à la requête, en tout ou en partie, son ordonnance a les effets d'un jugement par défaut.
+
+§ 2. A peine de nullité, l'acte de signification de cette ordonnance contient, outre une copie de la requête, l'indication du délai dans lequel le débiteur peut former opposition, du juge devant lequel celle-ci doit être portée ainsi que des formes selon lesquelles elle doit être faite.
+
+Sous la même sanction, l'acte de signification avertit le débiteur qu'à défaut de recours dans le délai indiqué, il pourra être contraint par toutes voies de droit de payer les sommes réclamées.
+
+§ 3. L'ordonnance d'injonction de payer est susceptible d'opposition ou d'appel de la part du débiteur, conformément aux dispositions des titres II et III du livre III de la présente partie.
+
+Par dérogation à l'article 1047, l'opposition peut être formée par requête déposee au greffe de la juridiction en autant d'exemplaires qu'il y a de parties en cause et d'avocats, et notifiée par le greffier, sous pli judiciaire, au créancier et à son avocat.
+
+A peine de nullité, la requête contient :
+
+1° l'indication des jours, mois et an;
+
+2° les noms, prénom [<sup>2</sup> ...]<sup>2</sup> et domicile de l'opposant [<sup>1</sup> et, le cas échéant, son numéro de registre national [<sup>3</sup> , numéro d'identification dans le registre bis]<sup>3</sup> ou numéro d'entreprise]<sup>1</sup>;
+
+3° les nom, prénom et domicile du créancier et l'indication du nom de l'avocat de celui-ci;
+
+4° la détermination de l'ordonnance entreprise;
+
+5° les moyens de l'opposant.
+
+Les parties sont convoquées par le greffier à comparaître à l'audience fixée par le juge.
+
+§ 4. Si la requête prévue à l'article 1340 est rejetée, la demande peut être introduite par la voie ordinaire.
+
+L'ordonnance qui y fait droit partiellement conformément à l'article 1342, premier alinéa, n'est susceptible ni d'opposition ni d'appel de la part du requérant, sauf pour celui-ci à ne pas signifier l'ordonnance et à introduire la demande pour le tout par la voie ordinaire.
+
+----------
+
+(1)&lt;L 2018-10-14/18, art. 23, 173; En vigueur : 01-02-2019&gt;
+
+(2)&lt;L 2018-12-21/09, art. 130, 174; En vigueur : 10-01-2019&gt;
+
+(3)&lt;L 2023-12-19/08, art. 17, 202; En vigueur : 08-01-2024&gt;
+
+**Art. 1344**
+
+Les règles énoncées au présent chapitre ne sont applicables que si le débiteur a son domicile où sa résidence en Belgique.
+
+#### CHAPITRE XVbis. - &lt;L 1998-11-30/33, art. 2, En vigueur : 11-01-1999&gt; (Procédure en matière de louage de choses et en matière d'expulsion).
+
+**Art. 1344bis**
+
+&lt;L 29-12-1983, art. 9&gt; Sous réserve des dispositions relatives aux baux à ferme, toute demande en matière de louage de choses peut être introduite par une requête écrite déposée au greffe de la justice de paix.
+
+A peine de nullité, la requête contient :
+
+1\. l'indication des jour, mois et an;
+
+2\. les nom, prénom [<sup>2</sup> ...]<sup>2</sup> et domicile du requérant [<sup>1</sup> et, le cas échéant, son numéro de registre national [<sup>4</sup> , numéro d'identification dans le registre bis]<sup>4</sup> ou numéro d'entreprise]<sup>1</sup>;
+
+3\. les nom, prénom et domicile ou, à défaut de domicile, la résidence de la personne contre laquelle la demande est introduite;
+
+4\. l'objet et l'exposé sommaire des moyens de la demande;
+
+5\. la signature du requérant ou de son avocat.
+
+[<sup>3</sup> Un certificat de domicile de la personne mentionnée à l'alinéa 2, 3°, délivré par l'administration communale, ou un extrait du Registre national des personnes physiques est annexé à la requête.]<sup>3</sup>
+
+Les parties sont convoquées par le greffier, sous pli judiciaire, à comparaître, dans les quinze jours de l'inscription de la requête au rôle général, à l'audience fixée par le juge. Une copie de la requête est annexée à la convocation.
+
+----------
+
+(1)&lt;L 2018-10-14/18, art. 24, 173; En vigueur : 01-02-2019&gt;
+
+(2)&lt;L 2018-12-21/09, art. 130, 174; En vigueur : 10-01-2019&gt;
+
+(3)&lt;L 2022-12-26/05, art. 12, 197; En vigueur : 09-01-2023&gt;
+
+(4)&lt;L 2023-12-19/08, art. 17, 202; En vigueur : 08-01-2024&gt;
+
+**Art. 1344ter**
+
+&lt;Inséré par L 1998-11-30/33, art. 3; En vigueur : 11-01-1999&gt; § 1er. Le présent article s'applique à toute demande introduite par requête écrite, par citation ou par comparution volontaire, tendant à l'expulsion d'une personne physique qui a conclu un bail à loyer visé à la section II ou à la section IIbis du livre III, titre VIII, chapitre II du Code civil portant sur un bien qui, selon l'acte introductif d'instance, sert de domicile au preneur ou, à défaut de domicile, de résidence.
+
+§ 2. Lorsque la demande est introduite par requête écrite ou par comparution volontaire, le greffier envoie, sauf opposition du preneur conformément au § 4, après un délai de quatre jours suivant l'inscription de l'affaire au au rôle général, par quelque procédé de télécommunication que ce soit, à confirmer par simple lettre, une copie de la requête écrite au Centre public d'aide sociale du domicile du preneur ou, à défaut de domicile, au Centre public d'aide sociale de la résidence du preneur.
+
+§ 3. Lorsque la demande est introduite par citation, l'huissier de justice envoie, sauf opposition du preneur conformément au § 4, après un délai de quatre jours suivant la signification de l'exploit, par quelque procédé de télécommunication que ce soit, à confirmer par simple lettre, une copie de la citation au Centre public d'aide sociale du domicile du preneur, ou, à défaut de domicile, au Centre public d'aide sociale de la résidence du preneur.
+
+§ 4. Le preneur peut manifester son opposition à la communication de la copie de l'acte introductif d'instance au Centre public d'aide sociale dans le procès-verbal de comparution volontaire ou auprès du greffe dans un délai de deux jours à partir de la convocation par pli judiciaire ou auprès de l'huissier de justice dans un délai de deux jours à partir de la signification.
+
+La requête écrite ou la citation contient le texte de l'alinéa précédent.
+
+§ 5. Le Centre public d'aide sociale offre, de la manière la plus appropriée, d'apporter son aide dans le cadre de sa mission légale.
+
+(NOTE : modifié par L 2006-07-10/39, art. 15, 078; En vigueur : 01-01-2017 (voir L 2014-12-19/24, art. 20), abrogé lui-même par l'art. 176, 9° de L 2016-12-25/14; En vigueur : 31-12-2016)
+
+**Art. 1344ter_REGION_DE_BRUXELLES-CAPITALE**
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2023-06-22/08, art. 5, 206; En vigueur : 31-08-2023&gt;
+
+**Art. 1344ter_REGION_WALLONNE**
+
+&lt;Inséré par L 1998-11-30/33, art. 3; En vigueur : 11-01-1999&gt; § 1er. Le présent article s'applique à toute demande introduite par requête écrite, par citation ou par comparution volontaire, tendant à l'expulsion d'une personne physique qui a conclu un bail à loyer visé [<sup>1</sup> au Chapitre 3 du décret relatif au bail d'habitation]<sup>1</sup> ou à la section IIbis du livre III, titre VIII, chapitre II du Code civil portant sur un bien qui, selon l'acte introductif d'instance, sert de domicile au preneur ou, à défaut de domicile, de résidence.
+
+§ 2. Lorsque la demande est introduite par requête écrite ou par comparution volontaire, le greffier envoie, sauf opposition du preneur conformément au § 4, après un délai de quatre jours suivant l'inscription de l'affaire au au rôle général, par quelque procédé de télécommunication que ce soit, à confirmer par simple lettre, une copie de la requête écrite au Centre public d'aide sociale du domicile du preneur ou, à défaut de domicile, au Centre public d'aide sociale de la résidence du preneur.
+
+§ 3. Lorsque la demande est introduite par citation, l'huissier de justice envoie, sauf opposition du preneur conformément au § 4, après un délai de quatre jours suivant la signification de l'exploit, par quelque procédé de télécommunication que ce soit, à confirmer par simple lettre, une copie de la citation au Centre public d'aide sociale du domicile du preneur, ou, à défaut de domicile, au Centre public d'aide sociale de la résidence du preneur.
+
+§ 4. Le preneur peut manifester son opposition à la communication de la copie de l'acte introductif d'instance au Centre public d'aide sociale dans le procès-verbal de comparution volontaire ou auprès du greffe dans un délai de deux jours à partir de la convocation par pli judiciaire ou auprès de l'huissier de justice dans un délai de deux jours à partir de la signification.
+
+La requête écrite ou la citation contient le texte de l'alinéa précédent.
+
+§ 5. Le Centre public d'aide sociale offre, de la manière la plus appropriée, d'apporter son aide dans le cadre de sa mission légale.
+
+(NOTE : modifié par L 2006-07-10/39, art. 15, 078; En vigueur : 01-01-2017 (voir L 2014-12-19/24, art. 20), abrogé lui-même par l'art. 176, 9° de L 2016-12-25/14; En vigueur : 31-12-2016)
+
+----------
+
+(1)&lt;DRW 2018-03-15/13, art. 90,§1, 172; En vigueur : 01-09-2018&gt;
+
+**Art. 1344quater**
+
+&lt;Inséré par L 1998-11-30/33, art. 4; En vigueur : 11-01-1999&gt; L'expulsion, visée à l'article 1344ter, § 1er, ne peut être exécutée en tout état de cause qu'après un délai d'un mois suivant la signification du jugement, à moins que le bailleur ne prouve l'abandon du bien, que les parties n'aient convenu d'un autre délai, cet accord devant être constaté dans le jugement, ou que le juge prolonge ou réduise ce délai à la demande du preneur ou du bailleur qui justifie de circonstances d'une gravité particulière, notamment les possibilités de reloger le preneur dans des conditions suffisantes respectant l'unité, les ressources financières et les besoins de la famille, en particulier pendant l'hiver. Dans ce dernier cas, le juge fixe le délai dans lequel l'expulsion ne peut pas être exécutée, en tenant compte de l'intérêt des deux parties et dans les conditions qu'il détermine.
+
+En tout état de cause, l'huissier doit aviser le preneur ou les occupants du bien de la date effective de l'expulsion en respectant un délai de cinq jours ouvrables.
+
+**Art. 1344quater_REGION_DE_BRUXELLES-CAPITALE**
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2023-06-22/08, art. 5, 206; En vigueur : 31-08-2023&gt;
+
+**Art. 1344quinquies**
+
+&lt;Inséré par L 1998-11-30/33, art. 5; En vigueur : 11-01-1999&gt; Lors de la signification d'un jugement ordonnant une expulsion, visée à l'article 1344ter, § 1er, l'huissier de justice notifie à la personne que les biens qui se trouveront encore dans l'habitation après le délai légal ou le délai fixé par le juge seront mis sur la voie publique à ses frais et, s'ils encombrent la voie publique et que le propriétaire des biens ou ses ayants droit les y laisse, qu'ils seront, également à ses frais, enlevés et conservés durant six mois par l'administration communale, sauf s'il s'agit de biens susceptibles d'une détérioration rapide ou préjudiciables à l'hygiène, à la santé ou à la sécurité publiques. L'huissier de justice mentionne dans l'exploit de signification qu'il a fait cette communication.
+
+**Art. 1344quinquies_REGION_DE_BRUXELLES-CAPITALE**
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2023-06-22/08, art. 5, 206; En vigueur : 31-08-2023&gt;
+
+**Art. 1344sexies**
+
+&lt;Inséré par L 1998-11-30/33, art. 6; En vigueur : 11-01-1999&gt; § 1er. Lors de la signification d'un jugement ordonnant une expulsion autre que visée dans l'article 1344quinquies, l'huissier de justice envoie, sauf opposition conformément au § 2, dans un délai de quatre jours à partir de la signification du jugement, par simple lettre, une copie du jugement au Centre public d'aide sociale du lieu où le bien se situe.
+
+§ 2. La personne dont l'expulsion est ordonnée peut, dans un délai de deux jours à partir de la signification du jugement, manifester son opposition à la communication du jugement au Centre public d'aide sociale auprès de l'huissier de justice.
+
+L'exploit contient le texte de l'alinéa précédent.
+
+§ 3. Le Centre publique d'aide sociale offre, de la manière la plus appropriée, d'apporter son aide dans le cadre de sa mission légale.
+
+**Art. 1344sexies_REGION_DE_BRUXELLES-CAPITALE**
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2023-06-22/08, art. 5, 206; En vigueur : 31-08-2023&gt;
+
+**Art. 1344septies**
+
+&lt;L 2008-06-18/34, art. 2, 096; En vigueur : 24-07-2008; voir également l'art. 4&gt; Le présent article s'applique à toute demande principale introduite par requête, par citation ou par comparution volontaire en matière de location de logement.
+
+Sans préjudice des dispositions des articles 731, alinéa 1er, 732 et 733, le juge tente de concilier les parties.
+
+En cas de non-conciliation ou de défaut, la procédure a lieu au fond. Le jugement indique que les parties n'ont pu être conciliées.
+
+**Art. 1344septies_REGION_DE_BRUXELLES-CAPITALE**
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;ORD 2023-06-22/08, art. 5, 206; En vigueur : 31-08-2023&gt;
+
+#### CHAPITRE XVter. [<sup>1</sup> - Procédure en matière d'expulsion de lieux occupés sans droit ni titre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-10-18/08, art. 6, 157; En vigueur : 16-11-2017&gt;
+
+**Art. 1344octies**
+
+[<sup>1</sup> Tout détenteur d'un droit ou d'un titre sur le bien occupé peut introduire, par requête contradictoire ou, en cas d'absolue nécessité [<sup>4</sup> découlant du fait que malgré les tentatives du requérant en ce sens, il ne lui a pas été possible de déterminer l'identité d'aucun des occupants du bien]<sup>4</sup>, par requête unilatérale déposée au greffe de la justice de paix, une demande d'expulsion de lieux occupés sans droit ni titre.
+
+La requête contient à peine de nullité :
+
+1\. l'indication des jour, mois et an;
+
+2\. les nom, prénom [<sup>3</sup> ...]<sup>3</sup> et domicile du requérant [<sup>2</sup> et, le cas échéant, son numéro de registre national [<sup>5</sup> , numéro d'identification dans le registre bis]<sup>5</sup> ou numéro d'entreprise]<sup>2</sup>;
+
+3\. sauf en cas d'introduction de la demande par une requête unilatérale, les nom, prénom et domicile ou, à défaut de domicile, la résidence de la personne contre laquelle la demande est introduite;
+
+4\. l'objet et l'exposé sommaire des moyens de la demande;
+
+5\. la signature du requérant ou de son avocat ou, en cas d'introduction de la demande par une requête unilatérale, la signature de l'avocat.
+
+En cas d'introduction de la demande par une requête contradictoire, un certificat de domicile de la personne visée à [<sup>6</sup> l'alinéa 2, 3°, ou un extrait du registre national des personnes physiques]<sup>6</sup> est annexé à la requête. Ce certificat est délivré par l'administration communale.
+
+En cas d'introduction de la demande par une requête contradictoire, les parties ou, en cas d'introduction de la demande par une requête unilatérale, la partie demanderesse sont convoquées par le greffier, sous pli judiciaire, à comparaître, respectivement dans les huit jours ou dans les deux jours de l'inscription de la requête au rôle général, à l'audience fixée par le juge, sans préjudice de sa possibilité de réduire les délais à la demande d'un avocat ou d'un huissier de justice. En cas d'introduction de la demande par une requête contradictoire, une copie de la requête est annexée à la convocation.
+
+Lorsque les parties comparaissent, le juge tente de concilier les parties.
+
+Le juge de paix peut retenir l'affaire à l'audience d'introduction ou la remettre pour qu'elle soit plaidée à une date rapprochée, en fixant la durée des débats. Le jugement indique que les parties n'ont pu être conciliées.
+
+Par dérogation à l'article 747, en cas d'introduction de la demande d'expulsion par une requête contradictoire, les délais pour conclure sont fixés d'office et à une date rapprochée par le juge de paix à l'audience d'introduction. Les parties font valoir leurs observations au plus tard à l'audience d'introduction.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-10-18/08, art. 7, 157; En vigueur : 16-11-2017&gt;
+
+(2)&lt;L 2018-10-14/18, art. 25, 173; En vigueur : 01-02-2019&gt;
+
+(3)&lt;L 2018-12-21/09, art. 130, 174; En vigueur : 10-01-2019&gt;
+
+(4)&lt;L 2022-12-06/02, art. 37, 196; En vigueur : 31-12-2022&gt;
+
+(5)&lt;L 2023-12-19/08, art. 17, 202; En vigueur : 08-01-2024&gt;
+
+(6)&lt;L 2024-05-15/03, art. 65, 204; En vigueur : 07-06-2024&gt;
+
+**Art. 1344novies**
+
+[<sup>1</sup> § 1er. Le présent article s'applique à toute demande introduite par requête écrite, par citation ou par requête conjointe, tendant à l'expulsion d'une personne physique qui occupe un lieu sans droit ni titre.
+
+§ 2. Lorsque la demande est introduite par requête écrite ou par requête conjointe, le greffier envoie, sauf opposition de la personne qui occupe un lieu sans droit ni titre conformément au paragraphe 4, après un délai de quatre jours suivant l'inscription de la demande d'expulsion au rôle général, par quelque procédé de télécommunication que ce soit, à confirmer par simple lettre, une copie de la requête écrite au Centre public d'action sociale du domicile ou, à défaut de domicile, de la résidence de la personne qui occupe un lieu sans droit ni titre.
+
+§ 3. Lorsque la demande est introduite par citation, l'huissier de justice envoie, sauf opposition de la personne qui occupe un lieu sans droit ni titre conformément au paragraphe 4, après un délai de quatre jours suivant la signification de l'exploit, par quelque procédé de télécommunication que ce soit, à confirmer par simple lettre, une copie de la citation au Centre public d'action sociale du domicile ou, à défaut de domicile, de la résidence de la personne qui occupe un lieu sans droit ni titre.
+
+§ 4. La personne qui occupe un lieu sans droit ni titre peut manifester son opposition à la communication de la copie de l'acte introductif d'instance au Centre public d'action sociale dans le procès-verbal de comparution volontaire ou auprès du greffe dans un délai de deux jours à partir de la convocation par pli judiciaire ou auprès de l'huissier de justice dans un délai de deux jours à partir de la signification.
+
+La requête écrite contradictoire ou la citation contient le texte de l'alinéa 1er.
+
+§ 5. Le Centre public d'action sociale offre, de la manière la plus appropriée, d'apporter son aide dans le cadre de sa mission légale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-10-18/08, art. 8, 157; En vigueur : 16-11-2017&gt;
+
+**Art. 1344decies**
+
+[<sup>1</sup> En cas d'expulsion visée à l'article 1344novies, § 1er, le juge fixe l'exécution de l'expulsion à partir du huitième jour suivant la signification du jugement, sauf s'il précise par décision motivée que, en raison de circonstances exceptionnelles et graves, notamment les possibilités de reloger la personne qui occupe un lieu sans droit ni titre dans des conditions suffisantes respectant l'unité, les ressources financières et les besoins de la famille, en particulier pendant l'hiver, un délai plus long s'avère justifié. Dans ce dernier cas, le juge fixe le délai dans lequel l'expulsion ne peut pas être exécutée, en tenant compte de l'intérêt des parties et dans les conditions qu'il détermine. Lorsque le titre ou le droit appartient à une personne physique ou une personne morale de droit privé, ce délai ne peut pas être supérieur à un mois. Lorsque le titre ou le droit appartient à une personne morale de droit public, ce délai ne peut pas être supérieur à six mois. Si la demande est introduite par une requête unilatérale, la signification peut avoir lieu par affichage à la façade du lieu occupé sans droit ni titre.
+
+En tout état de cause, l'huissier de justice avise la personne qui occupe le lieu sans droit ni titre de la date effective de l'expulsion en respectant un délai de cinq jours ouvrables.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-10-18/08, art. 9, 157; En vigueur : 16-11-2017&gt;
+
+**Art. 1344undecies**
+
+[<sup>1</sup> Lors de la signification d'un jugement ordonnant une expulsion visé à l'article 1344decies, l'huissier de justice notifie à la personne que les biens apportés par la personne occupant le lieux sans droit ni titre qui se trouveront encore dans l'habitation après le délai légal ou le délai fixé par le juge seront mis sur la voie publique à ses frais et, s'ils encombrent la voie publique et que le propriétaire des biens ou ses ayants droit les y laisse, qu'ils seront, également à ses frais, enlevés et conservés durant six mois par l'administration communale, sauf s'il s'agit de biens susceptibles d'une détérioration rapide ou préjudiciables à l'hygiène, à la santé ou à la sécurité publique. L'huissier de justice mentionne dans l'exploit de signification qu'il a fait cette communication.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-10-18/08, art. 10, 157; En vigueur : 16-11-2017&gt;
+
+**Art. 1344duodecies**
+
+[<sup>1</sup> § 1er. Lors de la signification de tout jugement d'expulsion visé à l'article 1344decies, l'huissier de justice envoie, sauf opposition conformément au paragraphe 2, après un délai de quatre jours à partir de la signification du jugement, par simple lettre, une copie du jugement au Centre public d'action sociale du lieu où se situe le bien.
+
+§ 2. La personne dont l'expulsion est ordonnée peut, dans un délai de deux jours à partir de la signification du jugement, manifester son opposition à la communication du jugement au Centre public d'action sociale auprès de l'huissier de justice.
+
+§ 3. Le Centre publique d'action sociale offre, de la manière la plus appropriée, d'apporter son aide dans le cadre de sa mission légale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-10-18/08, art. 11, 157; En vigueur : 16-11-2017&gt;
+
+#### CHAPITRE XVI. - Procédure en matière de bail à ferme, en (matière de préemption et en matière de salaire différé dans l'agriculture et l'horticulture.) &lt;L 29-12-1967, art. 7&gt;
+
+**Art. 1345**
+
+Aucune action en (matière de bail à ferme, en matière de droit de préemption en faveur des preneurs de biens ruraux (ainsi qu'en matière de droit de passage) et, autre qu'incidente, en matière de salaire différé dans l'agriculture et l'horticulture) ne peut être admise sans qu'au préalable le demandeur n'ait demandé au juge par ecrit ou verbalement de faire appeler le futur défendeur en conciliation. Le greffier dresse procès-verbal de cette demande. Dans la huitaine de la requête, le juge appelle les parties en conciliation; il est dressé procès-verbal de la comparution. Si un accord intervient, le procès-verbal en constate les termes et l'expédition est revêtue de la formule exécutoire. &lt;L 28-12-1967, art. 8&gt; &lt;L 1-3-1978, art. 2&gt;
+
+L'introduction de la demande, formée comme il est dit ci-dessus, produit, quant aux délais impartis par la loi, les effets de la citation en justice, à la condition que celle-ci soit donnée dans le mois de la date du procès-verbal constatant la non-conciliation des parties.
+
+Au cours de ce préliminaire de conciliation, le juge peut, d'initiative ou à la demande des parties, prendre l'avis d'un conseiller technique.
+
+La rémunération du conseiller technique désigné par le juge est fixée suivant un tarif établi par le Roi. Elle incombe pour moitié à chacune des parties, sauf en cas de non-conciliation et de litige, à être mise, à la demande de la partie gagnante, à charge de la partie succombante, sans préjudice de l'article 1017.
+
+#### CHAPITRE XVII\_ La réception de caution.
+
+**Art. 1346**
+
+Le jugement qui ordonne de fournir caution fixe le délai dans lequel elle est présentée, et celui dans lequel elle est acceptée ou contestée.
+
+**Art. 1347**
+
+La caution est présentée par exploit signifié à la partie, avec copie de l'acte de dépôt qui sera fait au greffe, des titres qui constatent la solvabilité de la caution, sauf le cas ou la loi n'exige pas que la solvabilité soit établie par titres.
+
+La partie peut prendre au greffe communication des titres.
+
+**Art. 1348**
+
+Si la partie accepte la caution, elle en fait la déclaration écrite au greffe: dans ce cas, ou si la partie n'élève pas de contestation dans le délai fixé par le juge, la caution fait au greffe sa soumission, qui est exécutoire sans jugement.
+
+**Art. 1349**
+
+Si la partie conteste la caution dans le délai fixé par le jugement, le greffier convoque les parties, sous pli judiciaire, à comparaître devant le tribunal pour y entendre statuer sur la contestation.
+
+**Art. 1350**
+
+Le tribunal statue toutes affaires cessantes, après avoir entendu les parties; le jugement est exécutoire nonobstant appel.
+
+**Art. 1351**
+
+Si la caution est admise, elle fait sa soumission conformément à l'article 1348.
+
+#### CHAPITRE XVIII\_
+
+&lt;Abrogé par L 2022-04-28/25, art. 63, 194; En vigueur : 01-01-2023&gt;
+
+**Art. 1352**
+
+&lt;Abrogé par L 2022-04-28/25, art. 63, 194; En vigueur : 01-01-2023&gt;
+
+**Art. 1353**
+
+&lt;Abrogé par L 2022-04-28/25, art. 63, 194; En vigueur : 01-01-2023&gt;
+
+**Art. 1354**
+
+&lt;Abrogé par L 2022-04-28/25, art. 63, 194; En vigueur : 01-01-2023&gt;
+
+**Art. 1355**
+
+&lt;Abrogé par L 2022-04-28/25, art. 63, 194; En vigueur : 01-01-2023&gt;
+
+**Art. 1356**
+
+&lt;Abrogé par L 2022-04-28/25, art. 63, 194; En vigueur : 01-01-2023&gt;
+
+**Art. 1357**
+
+&lt;Abrogé par L 2022-04-28/25, art. 63, 194; En vigueur : 01-01-2023&gt;
+
+#### CHAPITRE XIX\_ Les redditions de comptes.
+
+**Art. 1358**
+
+Le jugement condamnant à rendre le compte fixe le délai dans lequel il sera rendu devant le tribunal ou le juge commis.
+
+Si la cause le justifie, ou de l'accord des parties, le juge peut ordonner que la reddition du compte sera faite devant l'expert qu'il designe et dans les conditions et délais indiqués au jugement.
+
+Celui qui est condamné à restituer des fruits en rend compte dans la même forme.
+
+**Art. 1359**
+
+Le compte contient les recettes et dépenses effectives; il est terminé par la récapitulation de la balance desdites recettes et dépenses, sauf à faire un chapitre particulier des objets à recouvrer.
+
+**Art. 1360**
+
+Le compte établi et signé par le rendant ou par le mandataire spécial est déposé au greffe, pièces justificatives à l'appui, dans le délai fixé par le jugement. Il est visé à la date du dépôt par le greffier et versé au dossier de la procédure.
+
+Les pièces justificatives sont cotées et paraphées par le rendant.
+
+Si le compte, établi et signé, comme il est dit ci-dessus, n'est pas déposé dans le délai, le rendant est condamné au paiement d'une somme que le tribunal arbitre.
+
+**Art. 1361**
+
+Le compte déposé, si la recette excède la dépense, l'oyant peut requérir du tribunal ou du juge commissaire, exécutoire de cet excédent, sans approbation du compte.
+
+**Art. 1362**
+
+Après le dépôt, le greffier notifie une copie du compte, sous pli judiciaire, à l'oyant.
+
+Les pièces justificatives sont communiquées comme il est dit à l'article 738; elles sont, le cas échéant, rétablies dans le délai fixé par le juge.
+
+S'il y a des créanciers intervenants, le compte leur est pareillement notifié. Ils prennent connaissance des pièces justificatives au greffe.
+
+**Art. 1363**
+
+La cause est portée devant le tribunal à la requête de la partie la plus diligente pour y entendre statuer sur le compte, à moins qu'un juge-commissaire n'ait été désigné, auquel cas les parties se présentent devant lui, aux jour et heure qu'il indique, pour fournir débats, soutènements et réponses sur le compte.
+
+**Art. 1364**
+
+Si les parties ne s'accordent pas, le juge-commissaire ordonne qu'il en sera par lui fait rapport à l'audience, au jour qu'il indique; elles seront tenues de s'y trouver sans aucune convocation.
+
+Si les parties ne se présentent pas devant le juge-commissaire, la plus diligente d'entre elles porte l'affaire à l'audience.
+
+**Art. 1365**
+
+Lorsque le compte a été établi par expert, la cause est portée devant le tribunal, après le dépôt du rapport, à la requête de la partie la plus diligente.
+
+**Art. 1366**
+
+Si l'oyant est défaillant, les articles sont alloués, s'ils sont justifiés; le rendant, s'il est reliquataire, garde les fonds, sans intérêts; et s'il ne s'agit point d'un compte de tutelle, le comptable donne caution si mieux il n'aime consigner.
+
+**Art. 1367**
+
+Le jugement qui intervient sur l'instance de compte contient le calcul de la recette et des dépenses, et fixe le reliquat précis, s'il y en a un.
+
+**Art. 1368**
+
+Il n'est procédé à la revision d'aucun compte, sauf s'il y a erreurs matérielles, omissions, faux ou doubles emplois, auquel cas les parties en forment la demande devant les mêmes juges.
+
+**Art. 1369**
+
+En cas d'appel d'un jugement qui aurait rejeté une demande en reddition de compte, le jugement ou l'arrêt infirmatif renvoie pour la reddition et le jugement du compte, au juge devant qui la demande avait été formée, ou à tout autre juge que la décision indique. Si le compte a été rendu et jugé en première instance, l'exécution du jugement ou de l'arrêt infirmatif appartient au juge d'appel qui l'a rendu, ou à un autre, indiqué dans la même décision.
+
+#### CHAPITRE XIXbis. - Procédures en matière de droits intellectuels [<sup>1</sup> et de secrets d'affaires]<sup>1</sup> &lt;Inséré par L 2007-05-10/33, art. 22; En vigueur : 01-11-2007&gt;
+
+----------
+
+(1)&lt;L 2018-07-30/18, art. 36, 169; En vigueur : 24-08-2018&gt;
+
+##### Section 1re. - De la saisie en matière de contrefaçon &lt;Insérée par L 2007-05-10/33, art. 22; En vigueur : 01-11-2007&gt;
+
+**Art. 1369bis/1**
+
+&lt;Inséré par L 2007-05-10/33, art. 22; En vigueur : 01-11-2007&gt; § 1er. Les personnes qui, aux termes d'une loi relative aux brevets d'invention, certificats complémentaires de protection, droit d'obtenteur, topographies de produits semi-conducteurs, dessins et modèles, marques, indications géographiques, appellations d'origine, droit d'auteur, droits voisins ou droit des producteurs de bases de données sont habilitées à agir en contrefaçon, peuvent, avec l'autorisation, obtenue sur requête, du président du [<sup>1</sup> tribunal de l'entreprise]<sup>1</sup> et du président du tribunal de première instance, dans les matières qui sont respectivement de la compétence de ces tribunaux, faire procéder en tous lieux, par un ou plusieurs experts que désignera ce magistrat, à la description de tous les objets, éléments, documents ou procédés de nature à établir la contrefaçon prétendue ainsi que l'origine, la destination et l'ampleur de celle-ci.
+
+§ 2. Le président peut autoriser l'expert à prendre toutes mesures utiles à l'accomplissement de sa mission et dans les limites de celle-ci, et notamment prendre des extraits, copies, photocopies, photographies et enregistrements audiovisuels ainsi que se faire remettre des échantillons des biens soupçonnés de porter atteinte au droit de propriété intellectuelle dont la protection est invoquée et des matériels et instruments utilisés pour produire et/ou distribuer ces biens ainsi que les documents s'y rapportant.
+
+§ 3. Le président, statuant sur une requête visant à obtenir des mesures de description, examine :
+
+1\) si le droit de propriété intellectuelle dont la protection est invoquée est, selon toutes apparences, valable;
+
+2\) s'il existe des indices selon lesquels il a été porté atteinte au droit de propriété intellectuelle en cause ou qu'il existe une menace d'une telle atteinte.
+
+L'ordonnance précise les conditions auxquelles la description est soumise, notamment en vue d'assurer la protection des renseignements confidentiels, et le délai dans lequel l'expert désigné dépose et envoie son rapport ainsi que, le cas échéant et par dérogation à l'article 1369bis /7, les personnes autorisées à prendre connaissance de celui-ci. Sauf circonstances particulières expressément mentionnées dans l'ordonnance et justifiant un délai plus long, ce délai n'excède pas deux mois à dater de la signification de l'ordonnance.
+
+§ 4. S'il le juge nécessaire pour la protection du droit de propriété intellectuelle invoqué par le requérant et raisonnable compte tenu des circonstances propres à la cause, le président peut, le cas échéant par la même ordonnance ou par une ordonnance distincte, faire défense aux détenteurs d'objets contrefaisants, ou des matériels et instruments utilisés pour produire et/ou distribuer ces biens ainsi que les documents s'y rapportant, de s'en dessaisir, de les déplacer ou d'y apporter toute modification affectant leur fonctionnement. Il peut permettre de constituer gardien, de mettre les objets sous scellés et, s'il s'agit de faits qui donnent lieu à revenus, autoriser la saisie conservatoire de ceux-ci pour autant qu'ils apparaissent trouver leur origine directe dans la contrefaçon prétendue.
+
+Le président peut avant d'octroyer des mesures de saisie, entendre en chambre du conseil la personne visée par ces mesures, en présence du requérant. Dans ce cas, avant de convoquer cette personne, le président en informe le requérant qui peut alors renoncer à sa demande de mesures de saisie et limiter sa requête aux mesures de description. La personne visée par ces mesures est convoquée par un pli judiciaire auquel est jointe une copie de la requête. Le conseil du requérant est convoqué par simple pli.
+
+§ 5. Le président, statuant sur une requête visant à obtenir, outre la description, des mesures de saisie, examine :
+
+1\) si le droit de propriété intellectuelle dont la protection est invoquée est, selon toutes apparences, valable;
+
+2\) si l'atteinte au droit de propriété intellectuelle en cause ne peut être raisonnablement contestée;
+
+3\) si, après avoir fait une pondération des intérêts en présence, dont l'intérêt général, les faits et, le cas échéant, les pièces sur lesquelles le requérant se fonde sont de nature à justifier raisonnablement la saisie tendant à la protection du droit invoqué.
+
+L'ordonnance motive expressément la nécessité des mesures de saisie autorisées au regard des conditions posées par le présent paragraphe.
+
+§ 6. L'ordonnance est signifiée avant l'ouverture des opérations de description et, le cas échéant, de saisie.
+
+§ 7. L'ordonnance accordant ou refusant les mesures de description ou de saisie et l'ordonnance accordant ou refusant la rétractation de ces mesures sont soumises aux recours prévus aux articles 1031 à 1034.
+
+Le saisi peut, en cas de changement de circonstances, requérir la modification ou la rétractation de l'ordonnance en citant à cette fin toutes les parties devant le juge qui a rendu l'ordonnance.
+
+L'ordonnance de rétractation vaut mainlevée.
+
+----------
+
+(1)&lt;L 2018-04-15/14, art. 252, 163; En vigueur : 01-11-2018&gt;
+
+**Art. 1369bis/2**
+
+&lt;Inséré par L 2007-05-10/33, art. 23; En vigueur : 01-11-2007&gt; La requête contient élection de domicile en Belgique si le requérant n'y possède ni domicile ni résidence.
+
+Le requérant produit, selon le cas, les pièces justificatives ainsi qu'une copie du brevet d'invention, du certificat complémentaire de protection, du droit d'obtenteur ou de la demande inscrite de droit d'obtenteur, de l'indication géographique ou de l'appellation d'origine, de l'accusé de réception du dépôt du dessin ou modèle ou de la marque ou de la publication de leur enregistrement.
+
+**Art. 1369bis/3**
+
+&lt;Inséré par L 2007-05-10/33, art. 24; En vigueur : 01-11-2007&gt; § 1er. Le président peut imposer au requérant l'obligation de consigner un cautionnement convenable ou une garantie équivalente adéquate destiné à assurer l'indemnisation éventuelle de tout préjudice subi par le défendeur, conformément aux dispositions du § 2. Dans ce cas, l'expédition de l'ordonnance n'est délivrée que sur la preuve de la consignation faite.
+
+§ 2. Dans les cas où les mesures de description ou de saisie sont abrogées ou cessent d'être applicables en raison de toute action ou omission du requérant, ou dans les cas où il est constaté ultérieurement qu'il n'y a pas eu atteinte ou menace d'atteinte au droit de propriété intellectuelle en cause, le tribunal peut condamner le requérant, sur demande du défendeur, à verser à ce dernier un dédommagement approprie en réparation de tout dommage causé par ces mesures.
+
+**Art. 1369bis/4**
+
+&lt;Inséré par L 2007-05-10/33, art. 25; En vigueur : 01-11-2007&gt; § 1er. La partie requérante ne peut être présente ou représentée à la description que si elle y est expressément autorisée par le président. Dans son ordonnance le président motive cette autorisation spécialement en rapport avec chacune des personnes ainsi autorisée, en tenant compte des circonstances de la cause, notamment de la protection des renseignements confidentiels.
+
+§ 2. Le président peut assujettir le droit d'être présent sur les lieux aux conditions qu'il détermine. "
+
+**Art. 1369bis/5**
+
+&lt;Inséré par L 2007-05-10/33, art. 26; En vigueur : 01-11-2007&gt; Si les portes sont fermées ou si l'ouverture en est refusée, il est opéré par l'huissier de justice conformément à l'article 1504. "
+
+**Art. 1369bis/6**
+
+&lt;Inséré par L 2007-05-10/33, art. 27; En vigueur : 01-11-2007&gt; Sans porter préjudice au droit du requérant à la description, l'expert veille, tout au long des opérations de description et dans la rédaction de son rapport, à la sauvegarde des intérêts légitimes du prétendu contrefacteur et du détenteur des objets décrits, en particulier quant à la protection des renseignements confidentiels.
+
+**Art. 1369bis/7**
+
+&lt;Inséré par L 2007-05-10/33, art. 28; En vigueur : 01-11-2007&gt; § 1er. Le rapport est deposé au greffe dans le délai fixé par l'ordonnance ou, à défaut, par l'article 1369bis/1, § 3, alinéa 2.
+
+Copie en est envoyée aussitôt par l'expert, par envoi recommandé, au requérant et au détenteur des objets décrits ainsi que, le cas échéant, au saisi.
+
+§ 2. Ce rapport ainsi que toutes pièces, échantillons ou éléments d'information collectés à l'occasion des opérations de description sont confidentiels et ne peuvent être divulgués ou utilisés par le requérant ou son ayant-droit que dans le cadre d'une procédure, belge ou étrangère, au fond ou en référé, sans préjudice de l'application des dispositions des traités internationaux applicables en Belgique.
+
+**Art. 1369bis/8**
+
+&lt;Inséré par L 2007-05-10/33, art. 29; En vigueur : 01-11-2007&gt; Le président qui a prononcé l'ordonnance connaît de tous les incidents relatifs à l'exécution des mesures de description et de saisie.
+
+**Art. 1369bis/9**
+
+&lt;Inséré par L 2007-05-10/33, art. 30; En vigueur : 01-11-2007&gt; Si dans le délai fixé par le président statuant sur une requête fondée sur l'article 1369bis/1, ou, si un tel délai n'est pas mentionné, dans un délai ne dépassant pas vingt jours ouvrables ou trente et un jours, si ce délai est plus long suivant la réception du rapport envoyé conformément à l'article 1369bis/7, § 1er, alinéa 2, la description n'est pas suivie d'une citation au fond devant une juridiction compétente, l'ordonnance cesse de plein droit ses effets et le requérant ne peut faire usage du contenu du rapport ou le rendre public, le tout sans préjudice de dommages et intérêts.
+
+**Art. 1369bis/10**
+
+&lt;Inséré par L 2007-05-10/33, art. 31; En vigueur : 01-11-2007&gt; Les articles 962 à 965, 973, [<sup>1</sup> alinéas 2 à 4]<sup>1</sup>, 978 et 985 ne s'appliquent pas à la procédure de saisie en matière de contrefaçon.
+
+----------
+
+(1)&lt;L 2017-06-08/09, art. 9, 152; En vigueur : 01-07-2017&gt;
+
+##### Section 2. - Des mesures provisoires appliquées aux droits de propriété intellectuelle &lt;Insérée par L 2007-05-10/33, art. 32; En vigueur : 01-11-2007&gt;
+
+**Art. 1369ter**
+
+&lt;Inséré par L 2007-05-10/33, art. 32; En vigueur : 01-11-2007&gt; § 1er. Dans le cas où il est fait application, par une personne pouvant agir en justice pour faire cesser un acte portant atteinte à un droit de propriété intellectuelle visé à l'article 1369bis /1, de l'article 584 du Code judiciaire, les mesures provisoires seront abrogées ou cesseront de produire leurs effets, à la demande du défendeur, si le demandeur n'a pas engagé, dans un délai raisonnable, une action conduisant à une décision au fond devant une juridiction compétente, délai qui sera déterminé par l'autorité judiciaire ordonnant les mesures ou, en l'absence d'une telle détermination, dans un délai ne dépassant pas vingt jours ouvrables ou trente et un jours, si ce délai est plus long à compter de la signification de l'ordonnance.
+
+§ 2. Le tribunal peut subordonner les mesures visées au § 1er à la constitution par le demandeur d'un cautionnement convenable ou d'une garantie équivalente adéquate destiné à assurer l'indemnisation éventuelle de tout préjudice subi par le défendeur, conformément aux dispositions du paragraphe 3.
+
+§ 3. Dans les cas où les mesures provisoires sont abrogées ou cessent d'être applicables en raison de toute action ou omission du demandeur, ou dans les cas où il est constaté ultérieurement qu'il n'y a pas eu atteinte ou menace d'atteinte au droit de propriété intellectuelle en cause, le tribunal peut ordonner au demandeur, sur demande du défendeur, un dédommagement approprié en réparation de tout dommage causé par ces mesures.
+
+##### Section 3. [<sup>1</sup> - Des mesures provisoires appliquées aux secrets d'affaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-30/18, art. 37, 169; En vigueur : 24-08-2018&gt;
+
+**Art. 1369quater**
+
+[<sup>1</sup> Le président du [<sup>2</sup> tribunal de l'entreprise]<sup>2</sup> qui statue au provisoire dans le cas d'une obtention, utilisation ou divulgation illicite de secrets d'affaires visé à l'article XI.332/4 du Code de droit économique, prend en considération, lorsqu'il décide s'il est fait droit à la demande ou si celle-ci est rejetée, et qu'il évalue son caractère proportionné, les circonstances particulières de l'espèce, y compris, s'il y a lieu:
+
+1° la valeur ou d'autres caractéristiques spécifiques du secret d'affaires;
+
+2° les mesures prises pour protéger le secret d'affaires;
+
+3° le comportement du défendeur lors de l'obtention, de l'utilisation ou de la divulgation du secret d'affaires;
+
+4° l'incidence de l'utilisation ou de la divulgation illicite du secret d'affaires;
+
+5° les intérêts légitimes des parties et l'incidence que l'octroi ou le refus de ces mesures pourrait avoir sur les parties;
+
+6° les intérêts légitimes des tiers;
+
+7° l'intérêt public;
+
+8° la sauvegarde des droits fondamentaux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-30/18, art. 38, 169; En vigueur : 24-08-2018&gt;
+
+(2)&lt;L 2018-04-15/14, art. 252, 163; En vigueur : 01-11-2018&gt;
+
+**Art. 1369quinquies**
+
+[<sup>1</sup> Dans le cas où il est fait application de l'article 584 du Code judiciaire par une personne pouvant agir en justice pour faire cesser l'obtention, l'utilisation ou la divulgation illicite d'un secret d'affaires visée à l'article XI.332/4 du Code de droit économique, les mesures provisoires seront révoquées ou cesseront de produire leurs effets, à la demande du défendeur, si:
+
+1° le demandeur n'engage pas, dans un délai raisonnable, de procédure conduisant à une décision au fond devant une juridiction compétente; ce délai sera déterminé par l'autorité judiciaire ordonnant les mesures ou, en l'absence d'une telle détermination, dans un délai ne dépassant pas vingt jours ouvrables ou trente et un jours calendrier, selon le délai le plus long à compter de la signification de l'ordonnance;
+
+2° les informations en question ne répondent plus aux exigences, visées à l'article I.17/1, 1°, du Code de droit économique, pour être qualifiées comme secret d'affaires pour des raisons qui ne dépendent pas du défendeur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-30/18, art. 39, 169; En vigueur : 24-08-2018&gt;
+
+**Art. 1369sexies**
+
+[<sup>1</sup> § 1er. Le tribunal peut, en lieu et place des mesures provisoires, subordonner la poursuite de l'utilisation illicite alléguée d'un secret d'affaires à la constitution d'une garantie destinée à assurer l'indemnisation du détenteur du secret d'affaires. Le tribunal ne peut pas ordonner la divulgation du secret d'affaires en échange de la constitution de garanties.
+
+§ 2. Le tribunal peut subordonner les mesures provisoires à la constitution par le demandeur d'un cautionnement convenable ou d'une garantie équivalente adéquate destiné à assurer l'indemnisation éventuelle de tout préjudice subi par le défendeur et, le cas échéant, par toute autre personne touchée par les mesures, conformément à l'article 1369septies.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-30/18, art. 40, 169; En vigueur : 24-08-2018&gt;
+
+**Art. 1369septies**
+
+[<sup>1</sup> Dans les cas où les mesures provisoires sont révoquées sur base de l'article 1369quinquies, 1°, ou cessent d'être applicables en raison de toute action ou omission du demandeur, ou dans les cas où il est constaté ultérieurement qu'il n'y a pas eu obtention, utilisation ou divulgation illicite du secret d'affaires ou menace d'un tel comportement, le tribunal peut ordonner au demandeur, sur demande du défendeur ou d'un tiers lésé, de verser un dédommagement approprié au défendeur ou au tiers lésé en réparation de tout dommage causé par ces mesures.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-30/18, art. 41, 169; En vigueur : 24-08-2018&gt;
+
+##### Section 4. [<sup>1</sup> - Recours en matière disciplinaire concernant des mandataires en brevets]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-09-25/06, art. 30, 192; En vigueur : 01-12-2022&gt;
+
+**Art. 1369octies**
+
+[<sup>1</sup> La décision définitive de la commission de discipline de l'Institut des mandataires en brevets visé à l'article XI.75/3, § 1erer, du Code de droit économique, dans le cadre d'une procédure disciplinaire, est susceptible d'un recours auprès de la Cour d'appel de Bruxelles. Un recours contre des décisions interlocutoires de la commission de discipline doit être formé avec le recours contre la décision définitive. Le recours est suspensif.
+
+Le recours visé à l'alinéa 1er n'est ouvert qu'aux personnes suivantes:
+
+1° le membre de l'Institut des mandataires en brevets qui a fait l'objet d'une procédure disciplinaire en raison d'un manquement allégué à l'article XI.75/11, § 1erer, du Code de droit économique;
+
+2° l'Institut des mandataires en brevets;
+
+3° le ministre qui a l'Economie dans ses attributions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-09-25/06, art. 31, 192; En vigueur : 01-12-2022&gt;
+
+**Art. 1369nonies**
+
+[<sup>1</sup> § 1er. La procédure du recours visé à l'article 1369octies est régie par les règles du Code judiciaire, à l'exception des dérogations prévues aux paragraphes 2 à 4.
+
+§ 2. A peine de déchéance, le recours est introduit dans le mois de la notification de la décision définitive.
+
+Le recours est introduit par une requête signée en trois exemplaires et adressée par envoi recommandé ou déposée au greffe de la cour. La requête mentionne, à peine de nullité, les éléments suivants:
+
+1° l'indication des jour, mois et an;
+
+2° les nom, prénom(s) et domicile du requérant, ainsi que, le cas échéant, son numéro de registre national [<sup>2</sup> , numéro d'identification dans le registre bis]<sup>2</sup> ou numéro d'entreprise;
+
+3° sauf s'il s'agit du requérant, les nom, prénom(s) et domicile du membre visé à l'article 1369octies, alinéa 2, 1°, ainsi que, le cas échéant, son numéro de registre national [<sup>2</sup> , numéro d'identification dans le registre bis]<sup>2</sup> ou numéro d'entreprise;
+
+4° la décision qui fait l'objet du recours;
+
+5° l'exposé des griefs et des moyens à l'appui;
+
+6° le juge qui est saisi du recours; et
+
+7° la signature du requérant ou de son avocat.
+
+§ 3. Les personnes visées à l'article 1369octies, alinéa 2, qui ne sont pas à l'origine du recours, sont convoquées par le greffier sous pli judiciaire, à comparaître à l'audience fixée par la cour. Une copie de la requête est jointe à la convocation. Une copie de la requête est également adressée au président de la commission de discipline de l'Institut des mandataires en brevets, pour information.
+
+A moins qu'elles ne soient à l'origine du recours, et sous réserve de l'application des articles 811 à 814, les personnes visées à l'article 1369octies, alinéa 2, 2° et 3°, ne deviennent pas parties à la cause par la comparution visée à l'alinéa 1er. La commission de discipline de l'Institut n'est pas partie à la cause. Toute autre intervention à la cause est exclue.
+
+Le membre visé à l'article 1369octies, alinéa 2, 1°, conclut et est entendu en dernier lieu.
+
+§ 4. Les arrêts rendus à propos des décisions de la commission de discipline de l'Institut des mandataires en brevets sont notifiés par le greffier de la cour, sous pli judiciaire, aux personnes visées à l'article 1369octies, alinéa 2, ainsi qu'au président de la commission de discipline de l'Institut.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-09-25/06, art. 32, 192; En vigueur : 01-12-2022&gt;
+
+(2)&lt;L 2023-12-19/08, art. 17, 202; En vigueur : 08-01-2024&gt;
+
+#### CHAPITRE XX. \_ Actions possessoires.
+
+**Art. 1370**
+
+&lt;Abrogé par L 2020-02-04/16, art. 30, 187; En vigueur : 01-09-2021&gt;
+
+**Art. 1371**
+
+Le possessoire et le pétitoire ne sont point cumulés.
+
+Le demandeur au pétitoire n'est plus admissible à agir au possessoire.
+
+Le défendeur au possessoire ne peut se pourvoir au pétitoire avant que la décision du juge sur la demande au possessoire ne soit passée en force de chose jugée; s'il a succombé, il ne peut se pourvoir qu'après avoir satisfait aux condamnations prononcées contre lui. Néanmoins, si la partie qui les a obtenues est en retard de les faire liquider, le juge du pétitoire peut fixer, pour cette liquidation, un délai après lequel l'action pétitoire sera admise; il pourra même, dans ce cas, donner l'autorisation d'intenter immédiatement cette action à l'effet d'interrompre une prescription sur le point de s'accomplir.
+
+#### CHAPITRE XXbis. \_ Le droit de passage &lt;L 1-03-1978, art. 3&gt;.
+
+**Art. 1371bis**
+
+&lt;L 1-3-1978, art. 3&gt; L'action en attribution, suppression ou déplacement d'un passage est introduite par requête contenant l'indication des nom, prénoms [<sup>1</sup> ...]<sup>1</sup> et domicile du propriétaire de chacune des parcelles concernées.
+
+Dans les huit jours de l'introduction de la requête, le juge fixe par ordonnance le jour et l'heure de la comparution sur les lieux. Les parties sont convoquées par pli judiciaire, au moins huit jours avant celui de la comparution.
+
+S'il apparaît que l'issue peut être aménagée à moindres frais et inconvénients à charge d'une ou de plusieurs autres parcelles séparant le fonds enclavé de la voie publique, le juge ordonne au demandeur de faire connaître au greffe le ou les propriétaires de ces parcelles. Ces propriétaires sont mis en cause par pli judiciaire.
+
+Les propriétaires n'ayant pas de domicile connu en Belgique sont convoqués par pli judiciaire, adressé au bourgmestre de la commune de la situation de leur bien et au procureur du Roi; le bourgmestre transmet sans délai le pli judiciaire aux propriétaires ou aux exploitants de ce bien.
+
+Par ordonnance rendue au bas de la requête, le juge peut commettre un expert qui, à l'invitation du greffier, assistera à la comparution des parties sur les lieux, et au besoin se verra confier toute mission utile à la solution du litige.
+
+Le jugement d'attribution d'un passage est exécutoire par provision, nonobstant appel ou opposition, et sans caution. La réformation du jugement ne peut donner lieu à d'autres dommages et intérêts que ceux qui sont visés à l'article [<sup>2</sup> 3.136, alinéa 2]<sup>2</sup> du Code civil.
+
+----------
+
+(1)&lt;L 2018-12-21/09, art. 131, 174; En vigueur : 10-01-2019&gt;
+
+(2)&lt;L 2020-02-04/16, art. 6, 187; En vigueur : 01-09-2021&gt;
+
+#### CHAPITRE XXI. \_ Voies à prendre pour avoir expédition ou copie d'un acte.
+
+**Art. 1372**
+
+Le notaire ou autre dépositaire qui refuserait de délivrer expédition ou copie d'un acte aux parties intéressées en nom direct, héritiers ou ayants droit, y est, à leur demande, condamné par le président du tribunal de première instance.
+
+La demande est portée devant le président du tribunal statuant au fond, dans les formes et délais de la procédure en référé.
+
+**Art. 1373**
+
+L'ordonnance est exécutoire nonobstant tous recours.
+
+**Art. 1374**
+
+La partie qui en raison de l'extrême urgence veut obtenir copie d'un acte non enregistré, ou qui souhaite avoir copie d'un acte resté imparfait, présente requête au président du tribunal de première instance.
+
+**Art. 1375**
+
+La délivrance est faite, s'il y a lieu, en exécution de l'ordonnance mise ensuite de la requête; et il en est fait mention au bas de la copie délivrée.
+
+**Art. 1376**
+
+En cas de refus de la part du notaire ou dépositaire, il est procédé ainsi qu'il est dit à l'article 1372.
+
+**Art. 1377**
+
+La partie qui veut se faire délivrer une seconde expédition, soit d'une minute d'acte soit par forme d'ampliation sur une grosse déposée, présente, à cet effet, requête au président du tribunal de première instance.
+
+En vertu de l'ordonnance qui intervient, elle fait sommation au notaire pour faire la délivrance à jour et heure indiqués, et aux parties intéressées, pour y être présentes.
+
+Mention est faite de cette ordonnance au bas de la seconde grosse, ainsi que la somme pour laquelle on pourra exécuter, si la créance est acquittée ou cédée en partie.
+
+**Art. 1378**
+
+L'ordonnance est susceptible des recours prévus aux articles 1031 à 1034.
+
+**Art. 1379**
+
+Une seconde expédition exécutoire d'un jugement ou arrêt ne peut être délivrée à la même partie qu'en vertu d'une ordonnance du président du tribunal dans l'arrondissement duquel il a été rendu.
+
+Il est procédé comme il est dit à l'article 1377.
+
+**Art. 1380**
+
+Les greffiers et dépositaires des registres publics en délivrent, sans ordonnance de justice, expédition, copie ou extrait, à tous requérants, à charge de leurs droits, à peine de dépens, dommages et intérêts.
+
+[<sup>1</sup> Le ministère public décide de la communication et de la copie des actes d'instruction et de procédure dans la cadre d'affaires disciplinaires ou à des fins administratives.]<sup>1</sup>
+
+[<sup>2</sup> En vue de l'application de la directive 2005/36/ CE du Parlement européen et du Conseil du 7 septembre 2005 relative à la reconnaissance des qualifications professionnelles, le ministère public communique d'office une copie de la condamnation pénale à l'autorité disciplinaire ou administrative dont relève la personne condamnée qui exerce une profession réglementée au sens de la directive. Cette communication a lieu dès que la condamnation est coulée en force de chose jugée.
+
+Le ministère public apprécie, dans le même sens, la nécessité de communiquer à l'autorité disciplinaire ou administrative compétente des informations relatives à une enquête ou à des poursuites en cours à l'encontre d'une personne qui exerce une profession réglementée au sens de la directive. Si un juge d'instruction est saisi de l'affaire, le ministère public ne communique des informations à l'autorité disciplinaire ou administrative qu'après avoir recueilli l'avis du juge d'instruction.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2012-12-27/29, art. 28, 118; En vigueur : 10-02-2013&gt;
+
+(2)&lt;L 2016-12-25/14, art. 82, 148; En vigueur : 09-01-2017&gt;
+
+**Art. 1381**
+
+Si les frais et déboursés de la minute de l'acte sont dus au dépositaire, il peut refuser expédition tant qu'il n'est pas payé des dits frais, outre ceux d'expédition.
+
+**Art. 1382**
+
+Les parties peuvent collationner l'expédition ou copie à la minute, dont lecture est faite par le dépositaire: si elles prétendent qu'elle n'est pas conforme, il en est référé, par requête, au président du tribunal lequel fait la collation; à cet effet, le dépositaire est tenu d'apporter la minute.
+
+Les frais du procès-verbal, ainsi que, le cas échéant, ceux du transport du dépositaire, sont avancés par le requérant.
+
+#### CHAPITRE XXII\_ De la rectification des actes de l'état civil.
+
+**Art. 1383**
+
+&lt;Abrogé par L 2018-06-18/03, art. 117,7°, 167; En vigueur : 31-03-2019&gt;
+
+**Art. 1384**
+
+&lt;Abrogé par L 2018-06-18/03, art. 117,7°, 167; En vigueur : 31-03-2019&gt;
+
+**Art. 1385**
+
+&lt;Abrogé par L 2018-06-18/03, art. 117,7°, 167; En vigueur : 31-03-2019&gt;
+
+#### CHAPITRE XXIII. \_ De l'astreinte. &lt;L 31-01-1981, art. 2&gt;
+
+**Art. 1385bis**
+
+&lt;L 31-01-1980, art. 2&gt; Le juge peut, à la demande d'une partie, condamner l'autre partie, pour le cas ou il ne serait pas satisfait à la condamnation principale [<sup>1</sup> ou si les dispositions relatives au caractère confidentiel des secrets d'affaires au sens de l'article 871bis ne sont pas respectées]<sup>1</sup>, au paiement d'une somme d'argent, dénommée astreinte, le tout sans préjudice des dommages-intérêts, s'il y a lieu. Toutefois, l'astreinte ne peut être prononcée en cas de condamnation au paiement d'une somme d'argent, ni en ce qui concerne les actions en exécution de contrats de travail.
+
+La demande est recevable, même si elle est formée pour la première fois sur opposition ou en degré d'appel.
+
+L'astreinte ne peut être encourue avant la signification du jugement qui l'a prononcée.
+
+Le juge peut accorder au condamné un délai pendant lequel l'astreinte ne peut être encourue.
+
+----------
+
+(1)&lt;L 2018-07-30/18, art. 42, 169; En vigueur : 24-08-2018&gt;
+
+**Art. 1385ter**
+
+&lt;L 31-01-1980, art. 2&gt; Le juge peut fixer l'astreinte soit à une somme unique, soit à une somme déterminée par unité de temps ou par contravention. Dans ces deux derniers cas, le juge peut aussi déterminer un montant au-delà duquel la condamnation aux astreintes cessera ses effets.
+
+**Art. 1385quater**
+
+&lt;L 31-01-1980, art. 2&gt; L'astreinte, une fois encourue, reste intégralement acquise à la partie qui a obtenu la condamnation. Cette partie peut en poursuivre le recouvrement en vertu du titre même qui la prévoit.
+
+[<sup>1</sup> L'astreinte prononcée par les juridictions du travail à la demande de l'auditorat du travail en exécution de l'article 138bis, § 2, alinéa 1er, est recouvrée par toutes voies de droit par l'administration de l'enregistrement et des domaines.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-06-06/06, art. 16, 112; En vigueur : 01-07-2011&gt;
+
+**Art. 1385quinquies**
+
+&lt;L 31-01-1980, art. 2&gt; Le juge qui a ordonné l'astreinte peut en prononcer la suppression, en suspendre le cours durant le délai qu'il indique ou la réduire, à la demande du condamné, si celui-ci est dans l'impossibilité définitive ou temporaire, totale ou partielle de satisfaire à la condamnation principale.
+
+Dans la mesure où l'astreinte était acquise avant que l'impossibilité se fut produite, le juge ne peut la supprimer ni la réduire.
+
+[<sup>1</sup> La partie à la requête de laquelle une astreinte a déjà été imposée peut demander au juge de prononcer une astreinte supplémentaire ou d'augmenter l'astreinte prononcée au cas où le condamné reste de manière persistante en défaut de satisfaire à la condamnation principale.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2020-07-31/03, art. 37, 181; En vigueur : 17-08-2020&gt;
+
+**Art. 1385sexies**
+
+&lt;L 31-01-1980, art. 2&gt; L'astreinte ne peut être encourue pendant la faillite du condamné.
+
+Les astreintes encourues avant le jugement déclaratif ne sont pas admises au passif de la faillite.
+
+**Art. 1385septies**
+
+&lt;L 31-01-1980, art. 2&gt; L'astreinte fixée à une somme déterminée par unite de temps cesse de courir à partir du décès du condamné, mais les astreintes encourues avant le décès restent dues. L'astreinte ne reprend cours contre les héritiers et autres ayants-droit du condamné qu'après que le juge qui l'a ordonnée en aura décidé ainsi. Celui-ci peut en modifier le montant et les modalités.
+
+Les autres astreintes peuvent, à la demande des héritiers et autres ayants-droit, être supprimées ou réduites par le juge qui les a ordonnées, soit temporairement, soit définitivement et, le cas échéant, avec effet à partir du jour du décès du condamne.
+
+**Art. 1385octies**
+
+&lt;L 31-01-1980, art. 2&gt; L'astreinte se prescrit par l'expiration d'un délai de six mois, à partir de la date à laquelle elle est encourue.
+
+La faillite ainsi que toute autre cause d'empêchement légal à l'exécution de l'astreinte emportent suspension de la prescription.
+
+La prescription est également suspendue aussi longtemps que celui qui a obtenu la condamnation ne pouvait raisonnablement savoir que l'astreinte était acquise.
+
+**Art. 1385nonies**
+
+&lt;L 31-01-1980, art. 2&gt; Il n'est pas tenu compte de l'astreinte pour la détermination de la compétence et du ressort.
+
+#### CHAPITRE XXIV. - (inséré par &lt;L 1999-03-23/30, art. 9, En vigueur : 06-04-1999&gt;) Des contestations concernant l'application d'une loi d'impôt.
+
+**Art. 1385decies**
+
+(inséré par &lt;L 1999-03-23/30, art. 9, En vigueur : 06-04-1999&gt;) Contre l'Administration fiscale, et dans les contestations visées à l'article 569, alinéa 1er, 32°, la demande est introduite par requête contradictoire.
+
+Le Titre Vbis du Livre II de la quatrième Partie est d'application, à l'exception des articles 1034ter, 3°, et 1034quater.
+
+Une copie de la décision contestée doit être jointe à chaque exemplaire de la requête ou de la citation, à peine de nullité.
+
+Lorsqu'un recours administratif préalable est organisé par ou en vertu de la loi et que l'autorité administrative n'a pas encore pris de décision, une copie du recours administratif et de l'accusé de réception de ce recours doivent, par dérogation à l'alinéa 3, être joints.
+
+**Art. 1385undecies**
+
+(inséré par &lt;L 1999-03-23/30, art. 9, En vigueur : 06-04-1999&gt;) Contre l'Administration fiscale, et dans les contestations visées à l'article 569, alinéa 1er, 32°, l'action n'est admise que si le demandeur a introduit préalablement le recours administratif organisé par ou en vertu de la loi.
+
+L'action est introduite au plus tôt six mois après la date de réception du recours administratif au cas où ce recours n'a pas fait l'objet d'une décision et, à peine de déchéance, au plus tard dans un délai de trois mois à partir de la notification de la décision relative au recours administratif.
+
+Le délai de six mois visé à l'alinéa 2 est prolongé de trois mois lorsque l'imposition contestée a été établie d'office par l'administration.
+
+[<sup>2</sup> Le délai de six mois visé à l'alinéa 2, éventuellement prolongé comme prévu à l'alinéa 3, est prolongé de quatre mois, lorsqu'une demande de conciliation introduite par le contribuable est déclarée recevable dans les délais mentionnés aux alinéas 2 et 3 par le service de conciliation fiscale visé à l'article 116 de la loi du 25 avril 2007 portant des dispositions diverses (IV).]<sup>2</sup>
+
+[<sup>3</sup> En cas d'application de l'article 375, § 1er/1, du Code des impôts sur les revenus 92, l'action est introduite, par dérogation à l'alinéa 2, au plus tôt un mois après la date de réception de la demande de rectification si cette demande n'a pas fait l'objet d'une décision et, à peine de déchéance, au plus tard dans un délai d'un mois à partir de la notification de la décision relative à cette demande, sans que ce délai soit inférieur à trois mois à compter de la notification de la décision visée à l'article 375, § 1er, du Code des impôts sur les revenus 92.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2017-07-10/06, art. 3, 153; En vigueur : 01-09-2017&gt;
+
+(2)&lt;L 2018-03-29/16, art. 14, 160; En vigueur : 01-09-2017&gt;
+
+(3)&lt;L 2018-04-15/06, art. 4, 161; En vigueur : 01-05-2018&gt;
+
+#### CHAPITRE XXV. [<sup>1</sup> - Des recours relatifs à la modification de l'enregistrement du sexe d'une personne.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-07-20/19, art. 6, 198; En vigueur : 01-10-2023&gt;
+
+**Art. 1385duodecies**
+
+[<sup>1</sup> Le recours de l'intéressé contre le refus de l'officier de l'état civil de modifier l'enregistrement du sexe visé à l'article 135/1, § 7, de l'ancien Code civil est introduit devant le tribunal de la famille par requête signée par le requérant ou son avocat.
+
+Le recours est introduit dans les soixante jours à compter du jour de la notification par l'officier de l'état civil du refus d'établir cet acte.
+
+Le greffier informe sans délai l'officier de l'état civil de la procédure de recours.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-07-20/19, art. 7, 198; En vigueur : 01-10-2023&gt;
+
+**Art. 1385terdecies**
+
+&lt;inséré par L 2007-05-10/55, art. 6; En vigueur : 01-09-2007&gt; Le président de la chambre à laquelle l'affaire a été distribuée ordonne la communication de la requête au ministère public et commet un juge pour faire rapport à un jour indiqué.
+
+Le requérant est invité par le greffier, par pli judiciaire, à comparaître à cette audience pour y être entendu en ses explications.
+
+**Art. 1385quaterdecies**
+
+[<sup>1</sup> § 1er. Tout exploit de signification d'un jugement ou arrêt relatif à une modification d'enregistrement du sexe d'une personne est immédiatement communiqué, en copie, au greffier.
+
+§ 2. A l'expiration du délai d'appel ou de pourvoi en cassation ou, le cas échéant, après le prononcé de l'arrêt rejetant le pourvoi, le greffier transmet immédiatement les données nécessaires à la rédaction de l'acte de modification de l'enregistrement du sexe à l'officier de l'état civil du lieu de la déclaration via la BAEC ou l'informe de la décision de refus.
+
+Le greffier en avertit les parties.
+
+L'officier de l'état civil établit immédiatement l'acte de modification de l'enregistrement du sexe si le dispositif du jugement ou de l'arrêt établit la modification de l'enregistrement du sexe après le recours visé à l'article 135/1, § 7, du Code civil, et associe cet acte à tous les actes de l'état civil de l'intéressé qui mentionnent son sexe.
+
+§ 3. Lorsqu'une décision ou un arrêt passés en force de chose jugée annule une modification de l'enregistrement du sexe [<sup>2</sup> ...]<sup>2</sup> le greffier transmet immédiatement les données nécessaires à l'établissement de l'acte d'annulation [<sup>2</sup> ...]<sup>2</sup> de l'enregistrement du sexe à l'officier de l'état civil compétent via la BAEC, en mentionnant le jour où la décision judiciaire a acquis force de chose jugée.
+
+L'officier de l'état civil établit immédiatement l'acte et l'associe aux actes de l'état civil de l'intéressé qui mentionnent son sexe.
+
+§ 4. Le jugement ou l'arrêt relatif à une modification [<sup>2</sup> ...]<sup>2</sup> d'enregistrement du sexe d'une personne produit ses effets à partir de l'établissement de l'acte de modification de l'enregistrement du sexe.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-06-18/03, art. 84, 167; En vigueur : 31-03-2019&gt;
+
+(2)&lt;L 2023-07-20/19, art. 8, 198; En vigueur : 01-10-2023&gt;
+
+#### CHAPITRE XXVI. [<sup>1</sup> - Des litiges concernant certaines formes de responsabilité sans faute.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-06-08/09, art. 10, 152; En vigueur : 01-07-2017&gt;
+
+**Art. 1385quinquiesdecies**
+
+[<sup>1</sup> Les dispositions du présent chapitre s'appliquent aux procédures relatives aux demandes de dommages et intérêts fondées sur une responsabilité sans faute, à l'exclusion des cas où l'établissement de cette responsabilité exige par ailleurs la détermination de la faute d'un tiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-06-08/09, art. 11, 152; En vigueur : 01-07-2017&gt;
+
+**Art. 1385sexiesdecies**
+
+[<sup>1</sup> Par dérogation à l'article 4, alinéa 1er, deuxième phrase, de la loi du 17 avril 1878 contenant le titre préliminaire du Code de procédure pénale, l'action visée à l'article 1385quinquiesdecies n'est pas suspendue pendant le cours d'une action publique fondée en tout ou en partie sur les mêmes faits.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-06-08/09, art. 12, 152; En vigueur : 01-07-2017&gt;
+
+**Art. 1385septiesdecies**
+
+[<sup>1</sup> § 1er. Si une demande reconventionnelle, une demande en intervention, une demande en garantie ou toute autre demande incidente est formée, il est statué sur la demande visée à l'article 1385quinquiesdecies dès qu'elle est en état d'être jugée, sauf accord des parties ou si le juge constate, à la requête de l'une d'entre elles, de manière motivée, que l'examen conjoint de cette demande et de l'une ou certaines des demandes incidentes est nécessaire pour la bonne administration de la justice.
+
+§ 2. La requête en vue de l'examen conjoint des demandes, visée au paragraphe 1er, est déposée à l'audience d'introduction ou remise ultérieurement au greffe, en autant d'exemplaires qu'il y a de parties en cause.
+
+A moins que cette question n'ait été retenue à l'audience d'introduction ou remise à une date rapprochée pour être plaidée conformément à l'article 735, le greffier notifie la requête par pli simple aux parties et, le cas échéant, à leur avocat et par pli judiciaire à la partie défaillante. Les parties peuvent, dans les quinze jours de cet envoi et dans les mêmes conditions, remettre leurs observations au greffe.
+
+Dans les huit jours qui suivent l'expiration du délai prévu à l'alinéa 2, le juge statue sur pièces par une ordonnance. Le cas échéant, il détermine les délais pour conclure, si des conclusions de synthèse doivent être prises et modifie, si nécessaire, la date de l'audience de plaidoirie.
+
+Les conclusions remises au greffe ou envoyées à l'autre partie après l'expiration des délais prévus à l'alinéa 3 sont d'office écartées des débats, sauf accord contraire des parties. A la date de l'audience de plaidoirie, la partie la plus diligente peut requérir un jugement contradictoire.
+
+L'ordonnance n'est susceptible d'aucun recours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-06-08/09, art. 13, 152; En vigueur : 01-07-2017&gt;
+
+**Art. 1385octiesdecies**
+
+[<sup>1</sup> Si la demande est fondée sur davantage de moyens que la seule responsabilité sans faute visée à l'article 1385quinquiesdecies, le juge statue à la requête d'une partie sur la demande si celle-ci est en état d'être jugée concernant ce dernier moyen, indépendamment du fait que la demande soit suspendue pour ce qui est des autres moyens, même si la demande n'est pas en état d'être jugée en ce qui concerne les autres moyens invoqués par ladite partie.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-06-08/09, art. 14, 152; En vigueur : 01-07-2017&gt;
+
+#### CHAPITRE XXVII. [<sup>1</sup> De la protection des personnes qui participent au débat public contre les demandes en justice manifestement infondées ou les procédures judiciaires abusives]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/09, art. 6, 212; En vigueur : 22-06-2026&gt;
+
+##### Section 1re. [<sup>1</sup> Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/09, art. 7, 212; En vigueur : 22-06-2026&gt;
+
+**Art. 1385/1.**
+
+Art. 1385/1[<sup>1</sup> § 1er. Pour l'application du présent chapitre, il y a lieu d'entendre par:
+
+1° débat public: toute déclaration exprimée ou toute activité menée par une personne physique ou morale dans l'exercice du droit à la liberté d'expression et d'information, à la liberté des arts et des sciences ou à la liberté de réunion et d'association, ainsi que les actions préparatoires, de soutien ou d'assistance qui y sont directement liées, et qui concerne une question d'intérêt public;
+
+2° question d'intérêt public: toute question qui touche le public au point qu'il peut légitimement s'y intéresser;
+
+3° procédure judiciaire abusive altérant le débat public: une procédure judiciaire qui n'est pas engagée en vue de faire véritablement valoir ou d'exercer un droit, mais qui a pour principale finalité d'empêcher, de restreindre ou de pénaliser le débat public, et qui tend à faire aboutir des demandes en justice totalement ou partiellement infondées.
+
+§ 2. Le présent chapitre ne s'applique pas aux matières fiscales, douanières ou administratives, ni à la responsabilité de l'Etat pour des actes ou omissions commis dans l'exercice de la puissance publique.
+
+Le présent chapitre ne s'applique pas à l'arbitrage, ni aux poursuites pénales et s'entend sans préjudice du Code d'instruction criminelle et du droit de la procédure pénale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/09, art. 8, 212; En vigueur : 22-06-2026&gt;
+
+##### Section 2. [<sup>1</sup> Fourniture d'informations]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/09, art. 9, 212; En vigueur : 22-06-2026&gt;
+
+**Art. 1385/2.**
+
+[<sup>1</sup> § 1er. Une personne morale dont l'objet social vise à protéger des droits de l'homme ou des libertés fondamentales reconnus dans la Constitution et dans les instruments internationaux qui lient la Belgique, et qui répond aux conditions de l'article 17, alinéa 2, 1° et 2°, peut, après autorisation ou à la demande du juge saisi, déposer des observations écrites visant à fournir des informations pertinentes susceptibles d'éclairer le raisonnement du juge quant au caractère abusif de la procédure ou au caractère manifestement infondé de la demande, dans le cadre d'un litige relevant de l'application du présent chapitre.
+
+La demande de la personne morale tendant au dépôt d'observations écrites est adressée au greffe par simple courrier. La personne morale justifie qu'elle répond aux conditions visées à l'alinéa 1er, dans sa demande.
+
+§ 2. Les observations écrites sont déposées dans les délais fixés par le juge et, en tout état de cause, au plus tard avant la clôture des débats.
+
+Les observations écrites qui sont déposées au-delà des délais fixés par le juge ou sans son autorisation, sont écartées d'office des débats.
+
+§ 3. Lorsque la demande d'observations écrites émane du juge, la personne morale décide de manière autonome de l'opportunité ou non de soumettre d'éventuelles observations.
+
+§ 4. Le juge saisi porte ces observations écrites à la connaissance des parties. Les parties disposent de la possibilité d'y répondre sans que la personne morale ne puisse répliquer.
+
+§ 5. Le juge saisi n'est pas lié par les observations écrites de la personne morale.
+
+§ 6. La présentation d'observations écrites par la personne morale en application du présent article est incompatible avec l'exercice de l'action en justice ou de l'intervention par cette personne morale dans le cadre du litige en question, même lorsque ces observations écrites ne sont pas prises en compte par le juge ou qu'il les écarte d'office des débats.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/09, art. 10, 212; En vigueur : 22-06-2026&gt;
+
+##### Section 3. [<sup>1</sup> Sûreté en cas de demande visant un acte de participation au débat public]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/09, art. 11, 212; En vigueur : 22-06-2026&gt;
+
+**Art. 1385/3.**
+
+[<sup>1</sup> § 1er. Lorsqu'une personne physique ou morale fait l'objet d'une demande en raison de sa participation au débat public, le juge peut imposer d'office au demandeur l'obligation de constituer une sûreté dont le juge détermine la nature, destinée à assurer l'indemnisation éventuelle de tout préjudice subi par le défendeur.
+
+§ 2. La sûreté peut également être demandée par le défendeur, à tout stade de la procédure.
+
+Le juge statue sur la sûreté par un jugement avant dire droit conformément à l'article 19, alinéa 3.
+
+§ 3. Le juge détermine le montant à concurrence duquel la sûreté est ordonnée.
+
+La sûreté imposée au demandeur ne peut pas avoir pour effet d'entraver son droit d'accès à la justice.
+
+Au cours de l'instance, à la demande d'une partie éventuellement formulée sur interpellation par le juge, celui-ci peut modifier l'importance de la somme ou la nature de la sûreté fournie.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/09, art. 12, 212; En vigueur : 22-06-2026&gt;
+
+##### Section 4. [<sup>1</sup> Rejet rapide des demandes manifestement infondées]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/09, art. 13, 212; En vigueur : 22-06-2026&gt;
+
+**Art. 1385/4.**
+
+Art. 1385/4[<sup>1</sup> § 1er. Toute personne physique ou morale faisant l'objet d'une demande en raison de sa participation au débat public peut requérir le rejet rapide de cette demande comme étant manifestement infondée, à tout stade de la procédure.
+
+La demande de rejet rapide peut être formulée oralement à l'audience, ou introduite par écrit adressé au greffe et communiqué à la partie adverse. La demande est motivée.
+
+La possibilité d'un rejet rapide de la demande peut être soulevée d'office par le juge qui invite les parties à s'expliquer sur le caractère éventuellement manifestement infondé de la demande.
+
+§ 2. La charge de la preuve que la demande altérant le débat public n'est pas manifestement infondée incombe à celui qui a initialement introduit la procédure, de sorte que, dans ce cas, celui-ci est invité à justifier sa demande afin que le juge puisse apprécier si elle est ou non manifestement infondée. Dans ce cadre, la partie défenderesse démontre qu'elle fait l'objet d'une demande en raison de sa participation au débat public.
+
+§ 3. Le rejet rapide de la demande est traité toutes affaires cessantes.
+
+Le rejet rapide est traité conformément à l'article 735 ou, s'il est demandé après l'audience d'introduction, à une audience fixée à date rapprochée. Les délais pour conclure sont fixés d'office et à une date rapprochée, par le juge.
+
+§ 4. L'appel contre le jugement qui ordonne le rejet rapide de la demande manifestement infondée est jugé conformément à l'article 1066.
+
+La décision de refus de rejet rapide n'est pas susceptible de recours.
+
+§ 5. Le rejet rapide d'une demande manifestement infondée n'empêche pas le juge de qualifier cette demande comme procédure judiciaire abusive altérant le débat public lorsqu'il constate la présence d'une telle procédure, conformément aux articles 1385/1, § 1er, 3°, et 1385/5.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/09, art. 14, 212; En vigueur : 22-06-2026&gt;
+
+##### Section 5. [<sup>1</sup> Mesures correctrices en cas de procédure judiciaire abusive altérant le débat public]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/09, art. 15, 212; En vigueur : 22-06-2026&gt;
+
+**Art. 1385/5.**
+
+Art. 1385/5[<sup>1</sup> Lors de l'appréciation du caractère abusif visant à altérer le débat public de la demande introduite contre une personne physique ou morale en raison de sa participation au débat public, le juge peut prendre en considération, entre autres, les éléments suivants:
+
+1° le caractère disproportionné, excessif ou déraisonnable de la demande en justice ou d'une partie de celle-ci, y compris la valeur excessive du litige;
+
+2° l'existence de procédures multiples engagées par le requérant ou des parties associées concernant des questions similaires;
+
+3° de l'intimidation, du harcèlement ou des menaces de la part du requérant ou de ses représentants, avant ou pendant la procédure, ainsi que tout comportement semblable du requérant dans des cas similaires ou concomitants;
+
+4° l'exploitation d'un déséquilibre de pouvoir, tel qu'un avantage financier ou une influence politique ou sociale, aux fins d'exercer une pression sur le défendeur;
+
+5° le recours de mauvaise foi à des manoeuvres procédurales, telles que les manoeuvres dilatoires ou le désistement de mauvaise foi d'une affaire à un stade ultérieur de la procédure;
+
+6° le fait que l'action en justice vise délibérément des personnes plutôt que les organisations responsables de l'acte contesté.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/09, art. 16, 212; En vigueur : 22-06-2026&gt;
+
+**Art. 1385/6.**
+
+Art. 1385/6[<sup>1</sup> Toute personne physique ou morale domiciliée ou établie en Belgique et ayant fait l'objet d'une procédure judiciaire abusive altérant le débat public devant une juridiction d'un Etat tiers à l'Union européenne, peut demander réparation de tous dommages et frais liés à cette procédure, auprès de la juridiction du lieu de son domicile, de son siège ou de son établissement principal.
+
+Si la procédure judiciaire visant la participation au débat public, introduite dans un Etat tiers à l'Union européenne, est pendante, le juge sursoit à statuer sur la demande de réparation dont il est saisi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/09, art. 17, 212; En vigueur : 22-06-2026&gt;
+
+##### Section 6. [<sup>1</sup> Transmission de données statistiques à la Commission européenne]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/09, art. 18, 212; En vigueur : 22-06-2026&gt;
+
+**Art. 1385/7.**
+
+[<sup>1</sup> Chaque année et lorsqu'elles sont disponibles, le Collège des cours et tribunaux transmet à la Commission européenne, à l'Institut fédéral pour la protection et la promotion des droits humains et au ministre de la Justice, des données statistiques, en ce qui concerne:
+
+a) le nombre de décisions judiciaires portant sur une procédure judiciaire abusive altérant le débat public, telle que définie à l'article 1385/1, § 1er, 3°, rendues au cours de l'année concernée;
+
+b) le nombre de décisions judiciaires portant sur une procédure judiciaire abusive altérant le débat public, telle que définie à l'article 1385/1, § 1er, 3°, classées par type de défendeur et de requérant;
+
+c) le nombre de décisions judiciaires portant sur une procédure judiciaire abusive altérant le débat public, telle que définie à l'article 1385/1, § 1er, 3°, classées par type de demande judiciaire.
+
+Aucune donnée à caractère personnel n'est transmise à la Commission européenne dans ce cadre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-30/09, art. 19, 212; En vigueur : 22-06-2026&gt;

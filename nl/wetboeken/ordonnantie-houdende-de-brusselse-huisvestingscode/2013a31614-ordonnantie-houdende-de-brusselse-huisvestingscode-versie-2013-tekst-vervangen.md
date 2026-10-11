@@ -3,7 +3,7 @@ title: "Ordonnantie houdende de Brusselse Huisvestingscode (versie 2013 - tekst 
 identifier: "2013A31614"
 eli: "https://www.ejustice.just.fgov.be/eli/ordonnantie/2003/07/17/2013A31614/justel"
 type: code
-justel_type: "CODE BRUXELLOIS DU LOGEMENT"
+justel_type: "CODE DU LOGEMENT"
 jurisdiction: be
 language: nl
 date: 2003-07-17

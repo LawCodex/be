@@ -1,0 +1,875 @@
+---
+title: "CODE JUDICIAIRE - Sixième partie : <L 4-7-1972, art. 2> L'ARBITRAGE. (art. 1676 à 1723) -"
+identifier: "1967101057"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101057/justel"
+type: code
+justel_type: "CODE JUDICIAIRE"
+jurisdiction: be
+language: fr
+date: 1967-10-10
+published: 1967-10-31
+entry_into_force: 1970-11-01
+last_amended: 2026-04-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1967/10/10/1967101057/justel"
+justel_note: "Consultation des versions antérieures à partir du 13-04-1985 et mise à jour au 02-04-2026"
+retrieved: 2026-10-11
+---
+
+# 10 OCTOBRE 1967. - CODE JUDICIAIRE - Sixième partie : &lt;L 4-7-1972, art. 2&gt; L'ARBITRAGE. (art. 1676 à 1723) -
+
+## Chapitre Ier. [<sup>1</sup> Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-06-24/03, art. 3, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1676
+
+[<sup>1</sup> § 1er. Toute cause de nature patrimoniale peut faire l'objet d'un arbitrage. Les causes de nature non-patrimoniale sur lesquelles il est permis de transiger peuvent aussi faire l'objet d'un arbitrage.
+
+§ 2. Quiconque a la capacité ou le pouvoir de transiger, peut conclure une convention d'arbitrage.
+
+§ 3. Sans préjudice des lois particulières, les personnes morales de droit public ne peuvent conclure une convention d'arbitrage que lorsque celle-ci a pour objet le règlement de différends relatifs à une convention. La convention d'arbitrage est soumise aux mêmes conditions quant à sa conclusion que la convention qui fait l'objet de l'arbitrage. En outre, les personnes morales de droit public peuvent conclure une convention d'arbitrage en toutes matières déterminées par la loi ou par arrêté royal délibéré en Conseil des ministres. Cet arrêté peut également fixer les conditions et les règles à respecter relatives à la conclusion de la convention.
+
+§ 4. Les dispositions qui précèdent sont applicables sous réserve des exceptions prévues par la loi.
+
+§ 5. Sous réserve des exceptions prévues par la loi, est nulle de plein droit toute convention d'arbitrage conclue avant la naissance d'un litige dont le tribunal du travail doit connaître en vertu des articles 578 à 583.
+
+§ 6. [<sup>2</sup> ...]<sup>2</sup>.
+
+Tant que le lieu de l'arbitrage n'est pas fixé, les juges belges sont compétents en vue de prendre les mesures visées aux articles 1682 et 1683.
+
+§ 7. [<sup>2</sup> La sixième partie du présent Code s'applique et les juges belges sont compétents lorsque le lieu de l'arbitrage au sens de l'article 1701, § 1er, est situé en Belgique, ou lorsque les parties en ont convenu.]<sup>2</sup>
+
+§ 8. Par dérogation au § 7, les dispositions des articles [<sup>3</sup> 1679,]<sup>3</sup> 1682, 1683, 1696 à 1698, 1708 et 1719 à 1722 s'appliquent quel que soit le lieu de l'arbitrage et nonobstant toute clause conventionnelle contraire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 4, 004; En vigueur : 01-09-2013&gt;
+
+(2)&lt;L 2016-12-25/14, art. 91, 007; En vigueur : 09-01-2017&gt;
+
+(3)&lt;L 2024-03-28/60, art. 108, 009; En vigueur : 08-04-2024&gt;
+
+### Art. 1677
+
+[<sup>1</sup> § 1er. Dans la présente partie du Code,
+
+1° les mots " tribunal arbitral " désignent un arbitre unique ou plusieurs arbitres;
+
+2° le mot " communication " désigne la transmission d'une pièce écrite tant entre les parties qu'entre les parties et les arbitres et entre les parties et les tiers qui organisent l'arbitrage, moyennant un moyen de communication ou d'une manière qui fournit une preuve de l'envoi.
+
+§ 2. Lorsqu'une disposition de la présente partie, à l'exception de l'article 1710, permet aux parties de décider d'une question qui y est visée, cette liberté emporte le droit pour les parties d'autoriser un tiers à décider de cette question.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 5, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1678
+
+[<sup>1</sup> § 1er. Sauf convention contraire des parties, la communication est remise ou envoyée au destinataire en personne, ou à son domicile, ou à sa résidence, ou à son adresse électronique ou s'il s'agit d'une personne morale, à son siège statutaire, ou à son établissement principal ou à son adresse électronique.
+
+Si aucun de ces lieux n'a pu être trouvé après une enquête raisonnable, la communication s'effectue valablement par sa remise ou son envoi au dernier domicile connu ou à la dernière résidence connue, ou s'il s'agit d'une personne morale, au dernier siège statutaire connu ou au dernier établissement principal connu ou à la dernière adresse électronique connue.
+
+§ 2. Sauf convention contraire des parties, les délais qui commencent à courir à l'égard du destinataire, à partir de la communication, sont calculés :
+
+a) lorsque la communication est effectuée par remise contre un accusé de réception daté, à partir du premier jour qui suit;
+
+b) lorsque la communication est effectuée par courrier électronique ou par un autre moyen de communication qui fournit une preuve de l'envoi, à partir du premier jour qui suit la date indiquée sur l'accusé de réception;
+
+c) lorsque la communication est effectuée par courrier recommandé avec accusé de réception, à partir du premier jour qui suit celui où le courrier a été présenté au destinataire en personne à son domicile ou à sa résidence, soit à son siège statutaire ou son établissement principal ou, le cas échéant, au dernier domicile connu ou la dernière résidence connue soit au dernier siège statutaire connu soit au dernier établissement principal connu;
+
+d) lorsque la communication est effectuée par courrier recommandé, à partir du troisième jour ouvrable qui suit celui où le courrier a été présenté aux services postaux, à moins que le destinataire apporte la preuve contraire.
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 4. Le présent article ne s'applique pas aux communications échangées dans le cadre d'une procédure judiciaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 6, 004; En vigueur : 01-09-2013&gt;
+
+(2)&lt;L 2016-12-25/14, art. 92, 007; En vigueur : 09-01-2017&gt;
+
+### Art. 1679
+
+[<sup>1</sup> Une partie qui, en connaissance de cause et sans motif légitime, s'abstient d'invoquer en temps utile une irrégularité devant le tribunal arbitral est réputée avoir renoncé à s'en prévaloir.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 7, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1680
+
+[<sup>1</sup> § 1er. Le président du tribunal de première instance, statuant comme en référé, sur requête unilatérale présentée par la partie la plus diligente, désigne l'arbitre conformément à l'article 1685, §§ 3 et 4.
+
+Le président du tribunal de première instance statuant comme en référé, sur citation procède au remplacement de l'arbitre, conformément à l'article 1689, § 2.
+
+La décision de nomination ou de remplacement de l'arbitre n'est pas susceptible de recours.
+
+Toutefois, appel peut être interjeté contre cette décision lorsque le président du tribunal de première instance déclare n'y avoir lieu à nomination.
+
+§ 2. Le président du tribunal de première instance statuant comme en référé, sur citation, se prononce sur le déport d'un arbitre conformément à l'article 1685, § 7, sur la récusation d'un arbitre conformément à l'article 1687, § 2, et sur la carence ou l'incapacité d'un arbitre dans le cas prévu à l'article 1688, § 2. Sa décision n'est susceptible d'aucun recours.
+
+§ 3. Le président du tribunal de première instance statuant comme en référé, peut impartir un délai à l'arbitre pour rendre sa sentence dans les conditions prévues à l'article 1713, § 2. Sa décision n'est susceptible d'aucun recours.
+
+§ 4. Le président du tribunal de première instance statuant comme en référé [<sup>3</sup> , sur citation,]<sup>3</sup> prend toutes les mesures nécessaires en vue de l'obtention de la preuve conformément à [<sup>2</sup> l'article 1708]<sup>2</sup>. Sa décision n'est susceptible d'aucun recours.
+
+§ 5. [<sup>2</sup> Sauf dans les cas visés aux paragraphes 1er à 4, et aux articles 1683 et 1698, le tribunal de première instance est compétent pour statuer sur les actions visées à la sixième partie du présent Code. Il statue en premier et dernier ressort.]<sup>2</sup>.
+
+§ 6. [<sup>2</sup> Sous réserve des articles 1696, § 1er, et 1720, § 2, les actions visées dans la sixième partie du présent Code sont de la compétence territoriale du juge dont le siège est celui de la cour d'appel dans le ressort duquel est fixé le lieu de l'arbitrage.
+
+Lorsque ce lieu n'a pas été fixé ou n'est pas situé en Belgique, est compétent territorialement le juge dont le siège est celui de la cour d'appel dans le ressort duquel se trouve la juridiction qui eut pu connaître du litige s'il n'avait pas été soumis à l'arbitrage.]<sup>2</sup>]<sup>1</sup>
+
+(NOTE : la modification apportée par L 2013-03-17/14, art. 203, 005; En vigueur : 01-06-2014 n'a pas pu être effectuée ; le présent article ayant été entièrement remplacé par L 2013-06-24/03, art. 8, 004; En vigueur : 01-09-2013)
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 8, 004; En vigueur : 01-09-2013&gt;
+
+(2)&lt;L 2016-12-25/14, art. 93, 007; En vigueur : 09-01-2017&gt;
+
+(3)&lt;L 2024-03-28/60, art. 110, 009; En vigueur : 08-04-2024&gt;
+
+## Chapitre II. [<sup>1</sup> Convention d'arbitrage]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-06-24/03, art. 9, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1681
+
+[<sup>1</sup> Une convention d'arbitrage est une convention par laquelle les parties soumettent à l'arbitrage tous les différends ou certains des différends qui sont nés ou pourraient naître entre elles au sujet d'un rapport de droit déterminé, contractuel ou non contractuel.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 10, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1682
+
+[<sup>1</sup> § 1er. Le juge saisi d'un différend faisant l'objet d'une convention d'arbitrage se déclare sans juridiction à la demande d'une partie, à moins qu'en ce qui concerne ce différend la convention ne soit pas valable ou n'ait pris fin. A peine d'irrecevabilité, l'exception doit être proposée avant toutes autres exceptions et moyens de défense.
+
+§ 2. Lorsque le juge est saisi d'une action visée au § 1er, la procédure arbitrale peut néanmoins être engagée ou poursuivie et une sentence peut être rendue.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 11, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1683
+
+[<sup>1</sup> Une demande en justice, avant ou pendant la procédure arbitrale, en vue de l'obtention de mesures provisoires ou conservatoires et l'octroi de telles mesures ne sont pas incompatibles avec une convention d'arbitrage et n'impliquent pas renonciation à celle-ci.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 12, 004; En vigueur : 01-09-2013&gt;
+
+## Chapitre III. [<sup>1</sup> Composition du tribunal arbitral]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-06-24/03, art. 13, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1684
+
+[<sup>1</sup> § 1er. Les parties peuvent convenir du nombre d'arbitres pourvu qu'il soit impair. Il peut y avoir un arbitre unique.
+
+§ 2. Si les parties ont prévu un nombre pair d'arbitres, il est procédé à la nomination d'un arbitre supplémentaire.
+
+§ 3. A défaut d'accord entre les parties sur le nombre d'arbitres, le tribunal arbitral est composé de trois arbitres.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 14, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1685
+
+[<sup>1</sup> § 1er. Sauf convention contraire des parties, une personne ne peut, en raison de sa nationalité, être empêchée d'exercer la fonction d'arbitre.
+
+§ 2. Sans préjudice des §§ 3 et 4 ainsi que de l'exigence générale [<sup>2</sup> d'indépendance]<sup>2</sup> et d'impartialité du ou des arbitres, les parties peuvent convenir de la procédure de désignation de l'arbitre ou des arbitres.
+
+§ 3. Faute d'une telle convention;
+
+a) en cas d'arbitrage par trois arbitres, chaque partie désigne un arbitre et les deux arbitres ainsi désignés choisissent le troisième arbitre; si une partie ne désigne pas un arbitre dans un délai d'un mois à compter de la réception d'une demande à cette fin émanant de l'autre partie, ou si les deux arbitres ne s'accordent pas sur le choix du troisième arbitre dans un délai d'un mois à compter de la désignation du deuxième arbitre, il est procédé à la désignation du ou des arbitres par le président du tribunal de première instance statuant sur requête de la partie la plus diligente, conformément à l'article 1680, § 1er;
+
+b) en cas d'arbitrage par un arbitre unique, si les parties ne peuvent s'accorder sur le choix de l'arbitre, celui-ci est désigné par le président du tribunal de première instance statuant sur requête de la partie la plus diligente, conformément à l'article 1680, § 1er;
+
+c) en cas d'arbitrage par plus de trois arbitres, si les parties ne peuvent s'accorder sur la composition du tribunal arbitral, celui-ci est désigné par le président du tribunal de première instance statuant sur requête de la partie la plus diligente, conformément à l'article 1680, § 1er.
+
+§ 4. Lorsque, durant une procédure de désignation convenue par les parties,
+
+a) une partie n'agit pas conformément à ladite procédure; ou
+
+b) les parties, ou deux arbitres, ne peuvent parvenir à un accord conformément à ladite procédure; ou un tiers, y compris une institution, ne s'acquitte pas d'une fonction qui lui a été conférée dans ladite procédure, l'une ou l'autre partie peut demander au président du tribunal de première instance statuant conformément à l'article 1680, § 1er, de prendre la mesure voulue, à moins que la convention relative à la procédure de désignation ne stipule d'autres moyens pour assurer cette désignation.
+
+§ 5. Lorsqu'il désigne un arbitre, le président du tribunal tient compte de toutes les qualifications requises de l'arbitre en vertu de la convention des parties et de toutes considérations propres à garantir la désignation d'un arbitre indépendant et impartial.
+
+§ 6. La désignation d'un arbitre ne peut être rétractée après avoir été notifiée.
+
+§ 7. L'arbitre qui a accepté sa mission ne peut se retirer que de l'accord des parties ou moyennant l'autorisation du président du tribunal de première instance statuant conformément à l'article 1680, § 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 15, 004; En vigueur : 01-09-2013&gt;
+
+(2)&lt;L 2016-12-25/14, art. 94, 007; En vigueur : 09-01-2017&gt;
+
+### Art. 1686
+
+[<sup>1</sup> § 1er. Lorsqu'une personne est pressentie en vue de sa désignation éventuelle en qualité d'arbitre, elle signale toute circonstance de nature à soulever des doutes légitimes sur son indépendance ou son impartialité. A partir de la date de sa désignation et durant toute la procédure arbitrale, l'arbitre signale sans délai aux parties toutes nouvelles circonstances de cette nature.
+
+§ 2. Un arbitre ne peut être récusé que s'il existe des circonstances de nature à soulever des doutes légitimes sur son indépendance ou son impartialité, ou s'il ne possède pas les qualifications convenues par les parties. Une partie ne peut récuser l'arbitre qu'elle a désigné ou à la désignation duquel elle a participé que pour une cause dont elle a eu connaissance après cette désignation.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 16, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1687
+
+[<sup>1</sup> § 1er. Les parties peuvent convenir de la procédure de récusation d'un arbitre.
+
+§ 2. Faute d'un tel accord :
+
+a) la partie qui a l'intention de récuser un arbitre expose par écrit les motifs de récusation à l'arbitre concerné, le cas échéant aux autres arbitres si le tribunal en comporte, et à la partie adverse. A peine d'irrecevabilité, cette communication intervient dans un délai de quinze jours à compter de la date à laquelle la partie récusante a eu connaissance de la constitution du tribunal arbitral ou de la date à laquelle elle a eu connaissance des circonstances visées à l'article 1686, § 2.
+
+b) Si, dans un délai de dix jours à partir de la communication de la récusation qui lui est faite, l'arbitre récusé ne se déporte pas ou que l'autre partie n'admet pas la récusation, le récusant cite l'arbitre et les autres parties, à peine d'irrecevabilité, dans un délai de dix jours, devant le président du tribunal de première instance statuant conformément à l'article 1680, § 2. Dans l'attente de la décision du président, le tribunal arbitral, y compris l'arbitre récusé, peut poursuivre la procédure arbitrale et rendre une sentence.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 17, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1688
+
+[<sup>1</sup> § 1er. Sauf convention contraire des parties, lorsqu'un arbitre se trouve dans l'impossibilité de droit ou de fait de remplir sa mission, ou, pour tout autre motif, ne s'acquitte pas de sa mission dans un délai raisonnable, son mandat prend fin s'il se retire dans les conditions prévues à l'article 1685, § 7, ou si les parties conviennent d'y mettre fin.
+
+§ 2. S'il subsiste un désaccord quant à l'un quelconque de ces motifs, la partie la plus diligente cite les autres parties ainsi que l'arbitre visé au § 1er devant le président du tribunal de première instance qui statue conformément à l'article 1680, § 2.
+
+§ 3. Le fait qu'en application du présent article ou de l'article 1687, un arbitre se retire ou qu'une partie accepte que la mission d'un arbitre prenne fin, n'implique pas reconnaissance des motifs mentionnés à l'article 1687 ou dans le présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 18, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1689
+
+[<sup>1</sup> § 1er. Dans tous les cas où il est mis fin à la mission de l'arbitre avant que la sentence finale ne soit rendue, un arbitre remplaçant est désigné. Cette désignation est effectuée conformément aux règles qui étaient applicables à la désignation de l'arbitre remplacé, à moins que les parties n'en conviennent autrement.
+
+§ 2. Si l'arbitre n'est pas remplacé conformément au § 1er, chaque partie peut saisir le président du tribunal de première instance, statuant conformément à l'article 1680, § 1er.
+
+§ 3. Une fois désigné l'arbitre remplaçant, les arbitres, après avoir entendu les parties, décident s'il y a lieu de reprendre tout ou partie de la procédure sans qu'ils puissent revenir sur la ou les sentences définitives partielles qui auraient été rendues.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 19, 004; En vigueur : 01-09-2013&gt;
+
+## Chapitre IV. [<sup>1</sup> Compétence du tribunal arbitral]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-06-24/03, art. 20, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1690
+
+[<sup>1</sup> § 1er. Le tribunal arbitral peut statuer sur sa propre compétence, y compris sur toute exception relative à l'existence ou à la validité de la convention d'arbitrage. A cette fin, une convention d'arbitrage faisant partie d'un contrat est considérée comme une convention distincte des autres clauses du contrat. La constatation de la nullité du contrat par le tribunal arbitral n'entraîne pas de plein droit la nullité de la convention d'arbitrage.
+
+§ 2. L'exception d'incompétence du tribunal arbitral doit être soulevée au plus tard dans les premières conclusions communiquées par la partie qui l'invoque, dans les délais et selon les modalités fixées conformément à l'article 1704.
+
+Le fait pour une partie d'avoir désigné un arbitre ou d'avoir participé à sa désignation ne la prive pas du droit de soulever cette exception.
+
+L'exception prise de ce que la question litigieuse excèderait les pouvoirs du tribunal arbitral doit être soulevée aussitôt que cette question est formulée dans le cours de la procédure.
+
+Dans les deux cas, le tribunal arbitral peut recevoir des exceptions soulevées tardivement, s'il estime que le retard est justifié.
+
+§ 3. Le tribunal arbitral peut statuer sur les exceptions visées au § 2 soit en les traitant comme des questions à trancher préalablement soit dans sa sentence au fond.
+
+§ 4. La décision par laquelle le tribunal arbitral s'est déclaré compétent ne peut faire l'objet d'un recours en annulation qu'en même temps que la sentence au fond et par la même voie.
+
+[<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 21, 004; En vigueur : 01-09-2013&gt;
+
+(2)&lt;L 2024-03-28/60, art. 111, 009; En vigueur : 08-04-2024&gt;
+
+### Art. 1691
+
+[<sup>1</sup> Sans préjudice des pouvoirs reconnus aux cours et tribunaux en vertu de l'article 1683, et sauf convention contraire des parties, le tribunal arbitral peut, à la demande d'une partie, ordonner les mesures provisoires ou conservatoires qu'il juge nécessaires.
+
+Le tribunal arbitral ne peut toutefois autoriser une saisie conservatoire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 22, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1692
+
+[<sup>1</sup> A la demande de l'une des parties, le tribunal arbitral peut modifier, suspendre ou rétracter une mesure provisoire ou conservatoire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 23, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1693
+
+[<sup>1</sup> Le tribunal arbitral peut décider que la partie qui demande une mesure provisoire ou conservatoire fournira une garantie appropriée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 24, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1694
+
+[<sup>1</sup> Le tribunal arbitral peut décider qu'une partie communiquera sans tarder tout changement important des circonstances sur la base desquelles la mesure provisoire ou conservatoire a été demandée ou accordée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 25, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1695
+
+[<sup>1</sup> La partie qui poursuit l'exécution d'une mesure provisoire ou conservatoire est responsable de tous les frais et de tous les dommages causés par la mesure à une autre partie, si le tribunal arbitral décide par la suite qu'en l'espèce la mesure provisoire ou conservatoire n'aurait pas dû être prononcée. Le tribunal arbitral peut accorder réparation pour ces frais et dommages à tout moment pendant la procédure.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 26, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1696
+
+[<sup>1</sup> § 1er. Une mesure provisoire ou conservatoire prononcée par un tribunal arbitral est reconnue comme ayant force obligatoire et, sauf indication contraire du tribunal arbitral, est déclarée exécutoire par le tribunal de première instance, quel que soit le pays où elle a été prononcée, sous réserve des dispositions de l'article 1697.
+
+[<sup>2</sup> § 1/1. La demande est introduite et instruite sur requête unilatérale. Le tribunal de première instance statue en premier et dernier ressort conformément à l'article 1680, § 5.
+
+§ 1/2. Lorsque la mesure provisoire ou conservatoire a été rendue à l'étranger, le tribunal territorialement compétent est le tribunal de première instance du siège de la cour d'appel dans le ressort duquel la personne contre laquelle la déclaration exécutoire est demandée a son domicile et, à défaut de domicile, sa résidence habituelle, ou, le cas échéant, son siège social, ou à défaut, son établissement ou sa succursale. Si cette personne n'a ni domicile, ni résidence habituelle, ni siège social, ni établissement ou succursale en Belgique, la demande est portée devant le tribunal de première instance du siège de la cour d'appel dans le ressort de laquelle se trouve l'arrondissement dans lequel la mesure provisoire ou conservatoire doit être exécutée.]<sup>2</sup>
+
+§ 2. La partie qui demande ou a obtenu qu'une mesure provisoire ou conservatoire soit reconnue ou déclarée exécutoire en informe sans délai [<sup>2</sup> le]<sup>2</sup> tribunal arbitral ainsi que de toute rétractation, suspension ou modification de cette mesure.
+
+§ 3. Le tribunal de première instance à qui est demandé de reconnaître ou de déclarer exécutoire une mesure provisoire ou conservatoire peut ordonner au demandeur de constituer une garantie appropriée si le tribunal arbitral ne s'est pas déjà prononcé sur la garantie ou lorsqu'une telle décision est nécessaire pour protéger les droits du défendeur et des tiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 27, 004; En vigueur : 01-09-2013&gt;
+
+(2)&lt;L 2016-12-25/14, art. 95, 007; En vigueur : 09-01-2017&gt;
+
+### Art. 1696bis
+
+&lt;Abrogé par L 2013-06-24/03, art. 2, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1697
+
+[<sup>1</sup> § 1er. La reconnaissance ou la déclaration de la force exécutoire d'une mesure provisoire ou conservatoire ne peut être refusée que :
+
+a) à la demande de la partie contre laquelle cette mesure est invoquée :
+
+i) si ce refus est justifié par les motifs exposés à l'article 1721, § 1er, a), i., ii., iii., iv. ou v.; ou
+
+ii) si la décision du tribunal arbitral concernant la constitution d'une garantie n'a pas été respectée; ou
+
+iii) si la mesure provisoire ou conservatoire a été rétractée ou suspendue par le tribunal arbitral ou, lorsqu'il y est habilité, annulée ou suspendue par le tribunal de l'Etat dans lequel a lieu l'arbitrage ou conformément à la loi selon laquelle cette mesure a été accordée;
+
+ou
+
+b) si le tribunal de première instance constate que l'un des motifs visés à l'article 1721, § 1er, b) s'applique à la reconnaissance et à la déclaration exécutoire de la mesure provisoire ou conservatoire.
+
+§ 2. Toute décision prise par le tribunal de première instance pour l'un des motifs visés au § 1er n'a d'effet qu'aux fins de la demande de reconnaissance et de déclaration exécutoire de la mesure provisoire ou conservatoire. Le tribunal de première instance auprès duquel la reconnaissance ou la déclaration exécutoire est demandée n'examine pas, lorsqu'il prend sa décision, le bien fondé de la mesure provisoire ou conservatoire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 28, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1698
+
+[<sup>1</sup> Le juge des référés dispose, pour prononcer une mesure provisoire ou conservatoire en relation avec une procédure d'arbitrage, qu'elle ait ou non lieu sur le territoire belge, du même pouvoir que celui dont il dispose en relation avec une procédure judiciaire. Il exerce ce pouvoir conformément à ses propres procédures en tenant compte des particularités de l'arbitrage.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 29, 004; En vigueur : 01-09-2013&gt;
+
+## Chapitre V. [<sup>1</sup> Conduite de la procédure arbitrale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-06-24/03, art. 30, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1699
+
+[<sup>1</sup> Nonobstant toute convention contraire, les parties doivent être traitées sur un pied d'égalité et chaque partie doit avoir toute possibilité de faire valoir ses droits, moyens et arguments dans le respect du contradictoire. Le tribunal arbitral veille au respect de cette exigence ainsi qu'au respect de la loyauté des débats.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 31, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1700
+
+[<sup>1</sup> § 1er. Les parties peuvent convenir de la procédure à suivre par le tribunal arbitral.
+
+§ 2. Faute d'une telle convention, le tribunal arbitral peut, sous réserve des dispositions de la sixième partie du présent Code, fixer les règles de procédure applicable à l'arbitrage comme il le juge approprié.
+
+§ 3. Sauf convention contraire des parties, le tribunal arbitral apprécie librement l'admissibilité des moyens de preuve et leur [<sup>2</sup> valeur probante]<sup>2</sup>.
+
+§ 4. Le tribunal arbitral procède aux actes d'instruction nécessaires à moins que les parties ne l'autorisent à y commettre l'un de ses membres.
+
+Il peut entendre toute personne. Cette audition a lieu sans prestation de serment.
+
+Si une partie détient un élément de preuve, le tribunal arbitral peut lui enjoindre de le produire selon les modalités qu'il détermine et au besoin, à peine d'astreinte.
+
+§ 5. A l'exception des demandes relatives à des actes authentiques, le tribunal arbitral a le pouvoir de trancher les demandes de vérification d'écritures et de statuer sur la prétendue fausseté de documents.
+
+Pour les demandes relatives à des actes authentiques, le tribunal arbitral délaisse les parties à se pourvoir dans un délai déterminé devant le tribunal de première instance.
+
+Dans l'hypothèse visée à l'alinéa 2, les délais de l'arbitrage sont suspendus jusqu'au jour où le tribunal arbitral a eu communication par la partie la plus diligente de la décision coulée en force de chose jugée sur l'incident.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 32, 004; En vigueur : 01-09-2013&gt;
+
+(2)&lt;L 2024-03-28/60, art. 112, 009; En vigueur : 08-04-2024&gt;
+
+### Art. 1701
+
+[<sup>1</sup> § 1er. Les parties peuvent décider du lieu de l'arbitrage. Faute d'une telle décision, ce lieu est fixé par le tribunal arbitral, compte tenu des circonstances de l'affaire, en ce compris les convenances des parties.
+
+Si le lieu de l'arbitrage n'a pas été déterminé par les parties ou par les arbitres, le lieu où la sentence est rendue vaut comme lieu de l'arbitrage.
+
+§ 2. Nonobstant les dispositions du § 1er et à moins qu'il en ait été convenu autrement par les parties, le tribunal arbitral peut, après les avoir consultées, tenir ses audiences et réunions en tout autre endroit qu'il estime approprié.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 33, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1702
+
+[<sup>1</sup> Sauf convention contraire des parties, la procédure arbitrale commence à la date à laquelle la [<sup>2</sup> communication de la demande d'arbitrage a été faite conformément à l'article 1678, § 1er]<sup>2</sup>).]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 34, 004; En vigueur : 01-09-2013&gt;
+
+(2)&lt;L 2016-12-25/14, art. 96, 007; En vigueur : 09-01-2017&gt;
+
+### Art. 1702bis
+
+&lt;Abrogé par L 2013-06-24/03, art. 2, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1703
+
+[<sup>1</sup> § 1er. Les parties peuvent convenir de la langue ou des langues à utiliser dans la procédure arbitrale. Faute d'un tel accord, le tribunal arbitral décide de la langue ou des langues à utiliser dans la procédure. Cet accord ou cette décision, à moins qu'il n'en soit convenu ou décidé autrement, s'applique à toute communication des parties, à toute procédure orale et à toute sentence, décision ou autre communication du tribunal arbitral.
+
+§ 2. Le tribunal arbitral peut ordonner que toute pièce soit accompagnée d'une traduction dans la ou les langues convenues par les parties ou choisies par le tribunal arbitral.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 35, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1704
+
+[<sup>1</sup> § 1er. Dans le délai et selon les modalités convenues par les parties ou fixées par le tribunal arbitral, les parties développent l'ensemble de leurs moyens et arguments à l'appui de leur demande ou de leur défense ainsi que les faits au soutien de celle-ci.
+
+Les parties peuvent convenir ou le tribunal arbitral peut décider l'échange de conclusions complémentaires, ainsi que de ses modalités, entre les parties.
+
+Les parties joignent à leurs conclusions toutes les pièces qu'elles souhaitent verser aux débats.
+
+§ 2. Sauf convention contraire des parties, chaque partie peut modifier ou compléter sa demande ou sa défense au cours de la procédure arbitrale, à moins que le tribunal arbitral considère ne pas devoir autoriser un tel amendement, notamment en raison du retard avec lequel il est formulé.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 36, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1705
+
+[<sup>1</sup> § 1er. A moins que les parties n'aient convenu qu'il n'y aurait pas de procédure orale, le tribunal arbitral organise une telle procédure à un stade approprié de la procédure arbitrale, si une partie lui en fait la demande. [<sup>2</sup> Après consultation des parties, le tribunal arbitral décide si cette audience se tient en personne, à distance par tout moyen de communication approprié, ou par une combinaison de ces moyens.]<sup>2</sup>
+
+§ 2. Le président du tribunal arbitral règle l'ordre des audiences et dirige les débats.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 37, 004; En vigueur : 01-09-2013&gt;
+
+(2)&lt;L 2024-03-28/60, art. 113, 009; En vigueur : 08-04-2024&gt;
+
+### Art. 1706
+
+[<sup>1</sup> Sauf convention contraire des parties, si, sans invoquer d'empêchement légitime,
+
+a) le demandeur ne développe pas sa demande conformément à l'article 1704, § 1er, le tribunal arbitral met fin à la procédure arbitrale, sans préjudice du traitement des demandes d'une autre partie;
+
+b) le défendeur ne développe pas sa défense conformément à l'article 1704, § 1er, le tribunal arbitral poursuit la procédure arbitrale sans pouvoir considérer cette carence en soi comme une acceptation des allégations du demandeur;
+
+c) l'une des parties ne participe pas à la procédure orale ou ne produit pas de documents, le tribunal arbitral peut poursuivre la procédure et statue sur la base des éléments dont il dispose.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 38, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1707
+
+[<sup>1</sup> § 1er. Le tribunal arbitral peut, sauf convention contraire des parties,
+
+a) nommer un ou plusieurs experts chargés de lui faire rapport sur les points précis qu'il détermine;
+
+b) enjoindre à une partie de fournir à l'expert tous renseignements appropriés ou de lui soumettre ou de lui rendre accessible, aux fins d'examen, toutes pièces, toutes marchandises ou autres biens pertinents.
+
+§ 2. Si une partie en fait la demande ou si le tribunal arbitral le juge nécessaire, l'expert participe à une audience à laquelle les parties peuvent l'interroger.
+
+§ 3. Le paragraphe 2 s'applique aux conseils techniques désignés par les parties.
+
+§ 4. Un expert peut être récusé pour les motifs énoncés à l'article 1686 et selon la procédure prévue à l'article 1687.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 39, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1708
+
+[<sup>1</sup> [<sup>2</sup> Sans préjudice de l'article 1698, une partie]<sup>2</sup> peut avec l'accord du tribunal arbitral, demander au président du tribunal de première instance statuant comme en référé d'ordonner toute les mesures nécessaires en vue de l'obtention de preuves conformément à l'article 1680, § 4.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 40, 004; En vigueur : 01-09-2013&gt;
+
+(2)&lt;L 2024-03-28/60, art. 114, 009; En vigueur : 08-04-2024&gt;
+
+### Art. 1709
+
+[<sup>1</sup> § 1er. Tout tiers intéressé peut demander au tribunal arbitral d'intervenir dans la procédure. Cette demande est adressée par écrit au tribunal arbitral qui la communique aux parties.
+
+§ 2. Une partie peut appeler un tiers en intervention.
+
+§ 3. En toute hypothèse, pour être admise, l'intervention nécessite une convention d'arbitrage entre le tiers et les parties en différend. Elle est, en outre, subordonnée, à l'assentiment du tribunal arbitral qui statue à l'unanimité.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 41, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1709bis
+
+&lt;Abrogé par L 2013-06-24/03, art. 2, 004; En vigueur : 01-09-2013&gt;
+
+## Chapitre VI. [<sup>1</sup> Sentence arbitrale et clôture de la procédure]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-06-24/03, art. 42, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1710
+
+[<sup>1</sup> § 1er. Le tribunal arbitral tranche le différend conformément aux règles de droit choisies par les parties comme étant applicables au fond du différend.
+
+Toute désignation du droit d'un Etat donné est considérée, sauf indication contraire expresse, comme désignant directement les règles juridiques de fond de cet Etat et non ses règles de conflit de lois.
+
+§ 2. A défaut d'une telle désignation par les parties, le tribunal arbitral applique les règles de droit qu'il juge les plus appropriées.
+
+§ 3. Le tribunal arbitral statue en qualité d'amiable compositeur uniquement si les parties l'y ont expressément autorisé.
+
+§ 4. Qu'il statue selon des règles de droit ou en qualité d'amiable compositeur, le tribunal arbitral décidera conformément aux stipulations du contrat si le différend qui oppose les parties est d'ordre contractuel et tiendra compte des usages du commerce si le différend oppose des commerçants.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 43, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1711
+
+[<sup>1</sup> § 1er. Dans une procédure arbitrale comportant plus d'un arbitre, toute décision du tribunal arbitral est, sauf convention contraire des parties, prise après délibération à la majorité de ses membres.
+
+§ 2. Les questions de procédure peuvent être tranchées par le président du tribunal arbitral, si ce dernier y est autorisé par les parties.
+
+§ 3. Les parties peuvent également convenir que, lorsqu'une majorité ne peut se former, la voix du président du tribunal arbitral est prépondérante.
+
+§ 4. Au cas où un arbitre refuse de participer à la délibération ou au vote sur la sentence arbitrale, les autres arbitres peuvent décider sans lui, sauf convention contraire des parties. L'intention de rendre la sentence sans l'arbitre qui a refusé de participer à la délibération ou au vote doit être communiquée aux parties d'avance.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 44, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1712
+
+[<sup>1</sup> § 1er. Si, durant la procédure arbitrale, les parties s'entendent pour régler le différend, le tribunal arbitral met fin à la procédure arbitrale et, si les parties lui en font la demande, constate par une sentence l'accord des parties, sauf si celui-ci est contraire à l'ordre public.
+
+§ 2. La sentence d'accord-parties est rendue conformément à l'article 1713 et mentionne le fait qu'il s'agit d'une sentence. Une telle sentence a le même statut et le même effet que toute autre sentence prononcée sur le fond de l'affaire.
+
+§ 3. La décision par laquelle la sentence est déclarée exécutoire est sans effet dans la mesure où l'accord des parties a été annulé.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 45, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1713
+
+[<sup>1</sup> § 1er. Le tribunal arbitral statue définitivement ou avant dire droit par une ou plusieurs sentences.
+
+§ 2. Les parties peuvent fixer le délai dans lequel la sentence doit être rendue ou prévoir les modalités selon lesquelles ce délai sera fixé et le cas échéant, prolongé.
+
+Faute de l'avoir fait, si le tribunal arbitral tarde à rendre sa sentence et qu'un délai de six mois s'est écoulé à compter de la désignation du dernier arbitre, le président du tribunal de première instance peut impartir un délai au tribunal arbitral conformément à l'article 1680, § 3.
+
+La mission des arbitres prend fin de plein droit lorsque le tribunal arbitral n'a pas rendu sa sentence à l'expiration du délai imparti.
+
+§ 3. La sentence arbitrale est rendue par écrit et [<sup>3</sup> signée manuscritement ou, conformément à l'alinéa 2, par voie électronique, par l'arbitre ou les arbitres]<sup>3</sup>. Dans une procédure arbitrale comprenant plusieurs arbitres, les signatures de la majorité des membres du tribunal arbitral suffisent, pourvu que soit mentionnée la raison de l'omission des autres.
+
+[<sup>3</sup> Sauf opposition de l'une des parties, le tribunal arbitral peut rendre la sentence arbitrale sous forme électronique en la revêtant d'une signature électronique qualifiée telle que visée à l'article 3, 12°, du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.
+
+La date de la sentence est celle de la dernière signature.]<sup>3</sup>
+
+§ 4. La sentence arbitrale est motivée.
+
+§ 5. La sentence comprend notamment, outre le dispositif, les mentions suivantes :
+
+a) les noms et [<sup>3</sup> adresses]<sup>3</sup> des arbitres;
+
+b) les noms et domiciles des parties;
+
+c) l'objet du litige;
+
+d) la date à laquelle la sentence est rendue;
+
+e) le lieu de l'arbitrage déterminé conformément à l'article 1701, § 1er [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 6. La sentence arbitrale liquide les frais d'arbitrage et décide à laquelle des parties le paiement en incombe ou dans quelle proportion ils sont partagés entre elles. Sauf convention contraire des parties, ces frais comprennent les honoraires et frais des arbitres et les honoraires et frais des conseils et représentants des parties, les coûts des services rendus par l'institution chargée de l'administration de l'arbitrage et tous autres frais découlant de la procédure arbitrale.
+
+§ 7. Le tribunal arbitral peut condamner une partie au paiement d'une astreinte. Les articles 1385bis à octies sont d'application mutatis mutandis.
+
+§ 8. [<sup>2</sup> Un exemplaire de la sentence arbitrale est communiqué, conformément à l'article 1678, à chacune des parties par l'arbitre unique ou par le président du tribunal arbitral. Si le mode de communication retenu conformément à l'article 1678 n'a pas emporté remise d'un original, l'arbitre unique ou le président du tribunal arbitral envoie également un tel original aux parties.]<sup>2</sup>
+
+§ 9. La sentence, a, dans les relations entre les parties, les mêmes effets qu'une décision d'un tribunal.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 46, 004; En vigueur : 01-09-2013&gt;
+
+(2)&lt;L 2016-12-25/14, art. 98, 007; En vigueur : 09-01-2017&gt;
+
+(3)&lt;L 2024-03-28/60, art. 115, 009; En vigueur : 08-04-2024&gt;
+
+### Art. 1714
+
+[<sup>1</sup> § 1er. La procédure arbitrale est close par la signature de la sentence arbitrale qui épuise la juridiction du tribunal arbitral ou par une décision de clôture rendue par le tribunal arbitral conformément au § 2.
+
+§ 2. Le tribunal arbitral ordonne la clôture de la procédure arbitrale lorsque :
+
+a) le demandeur se désiste de sa demande, à moins que le défendeur y fasse objection et que le tribunal arbitral reconnaisse qu'il a un intérêt légitime à ce que le différend soit définitivement réglé;
+
+b) les parties conviennent de clore la procédure.
+
+§ 3. La mission du tribunal arbitral prend fin avec la clôture de la procédure arbitrale[<sup>2</sup> et la communication de la sentence]<sup>2</sup>, sous réserve des articles 1715 et 1717, § 6.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 47, 004; En vigueur : 01-09-2013&gt;
+
+(2)&lt;L 2016-12-25/14, art. 99, 007; En vigueur : 09-01-2017&gt;
+
+### Art. 1715
+
+[<sup>1</sup> § 1er. Dans le mois de la [<sup>2</sup> communication de la sentence faite conformément à l'article 1678]<sup>2</sup>, à moins que les parties ne soient convenues d'un autre délai,
+
+a) une des parties peut, moyennant communication à l'autre, demander au tribunal arbitral de rectifier dans le texte de la sentence toute erreur de calcul, toute erreur matérielle ou typographique ou toute erreur de même nature;
+
+b) si les parties en sont convenues, une partie peut, moyennant communication à l'autre, demander au tribunal arbitral de donner une interprétation d'un point ou passage précis de la sentence.
+
+Si le tribunal arbitral considère que la demande est fondée, il fait la rectification ou donne l'interprétation dans le mois qui suit la réception de la demande. L'interprétation fait partie intégrante de la sentence.
+
+§ 2. Le tribunal arbitral peut, de son propre chef, rectifier toute erreur du type visé au § 1er, a), dans le mois qui suit la date de la sentence.
+
+§ 3. Sauf convention contraire des parties, l'une des parties peut, moyennant communication à l'autre, demander au tribunal arbitral, dans le mois qui suit la [<sup>2</sup> communication de la sentence faite conformément à l'article 1678]<sup>2</sup>, de rendre une sentence additionnelle sur des chefs de demande exposés au cours de la procédure arbitrale mais omis dans la sentence. S'il juge la demande fondée, le tribunal arbitral complète sa sentence dans les deux mois, même si les délais prévus à l'article 1713, § 2 sont expirés.
+
+§ 4. Le tribunal arbitral peut prolonger, si besoin est, le délai dont il dispose pour rectifier, interpréter ou compléter la sentence en vertu du § 1er ou § 3.
+
+§ 5. L'article 1713 s'applique à la rectification ou l'interprétation de la sentence ou à la sentence additionnelle.
+
+§ 6. Lorsque les mêmes arbitres ne peuvent plus être réunis, la demande d'interprétation, de rectification ou de compléter la sentence arbitrale doit être portée devant le tribunal de première instance.
+
+§ 7. Lorsque le tribunal de première instance renvoie une sentence arbitrale en vertu de l'article 1717, § 6, l'article 1713 et le présent article sont applicables mutatis mutandis à la sentence rendue conformément à la décision de renvoi.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 48, 004; En vigueur : 01-09-2013&gt;
+
+(2)&lt;L 2016-12-25/14, art. 100, 007; En vigueur : 09-01-2017&gt;
+
+## Chapitre VII. [<sup>1</sup> Recours contre la sentence arbitrale]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-06-24/03, art. 49, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1716
+
+[<sup>1</sup> Il ne peut être interjeté appel contre une sentence arbitrale que si les parties ont prévu cette possibilité dans la convention d'arbitrage. Sauf stipulation contraire, le délai pour interjeter appel est d'un mois à partir de la communication de la sentence, [<sup>2</sup> faite conformément à l'article 1678]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 50, 004; En vigueur : 01-09-2013&gt;
+
+(2)&lt;L 2016-12-25/14, art. 101, 007; En vigueur : 09-01-2017&gt;
+
+### Art. 1717
+
+[<sup>1</sup> § 1er. La demande d'annulation n'est recevable que si la sentence ne peut plus être attaquée devant les arbitres.
+
+§ 2. La sentence arbitrale ne peut être attaquée que devant le tribunal de première instance, par voie de citation. [<sup>3</sup> Il statue en premier et dernier ressort conformément à l'article 1680, § 5. La sentence ne peut être annulée que dans les cas énumérés au présent article]<sup>3</sup>. [<sup>4</sup> S'il y a cause d'annulation contre quelque chef de la sentence, celui-ci est seul annulé s'il peut être dissocié des autres chefs de la sentence.]<sup>4</sup>
+
+§ 3. La sentence arbitrale ne peut être annulée que si :
+
+a) la partie en faisant la demande apporte la preuve :
+
+i) qu'une partie à la convention d'arbitrage visée à l'article 1681 était frappée d'une incapacité; ou que ladite convention n'est pas valable en vertu du droit auquel les parties l'ont soumise ou, à défaut d'une indication à cet égard, en vertu du droit belge; [<sup>4</sup> ou que le tribunal arbitral s'est déclaré incompétent malgré une convention d'arbitrage valable;]<sup>4</sup> ou
+
+ii) qu'elle n'a pas été dûment informée de la désignation d'un arbitre ou de la procédure arbitrale, ou qu'il lui a été impossible pour une autre raison de faire valoir ses droits; dans ce cas, il ne peut toutefois y avoir annulation s'il est établi que l'irrégularité n'a pas eu d'incidence sur la sentence arbitrale; ou
+
+iii) que la sentence porte sur un différend non visé ou n'entrant pas dans les prévisions de la convention d'arbitrage, ou qu'elle contient des décisions qui dépassent les termes de la convention d'arbitrage [<sup>4</sup> ...]<sup>4</sup>; ou
+
+iv) que la sentence n'est pas motivée; ou
+
+v) que la constitution du tribunal arbitral, ou la procédure arbitrale, n'a pas été conforme à la convention des parties, à condition que cette convention ne soit pas contraire à une disposition de la sixième partie du présent Code à laquelle les parties ne peuvent déroger, ou, à défaut d'une telle convention, qu'elle n'a pas été conforme à la sixième partie du présent Code; à l'exception de l'irrégularité touchant à la constitution du tribunal arbitral, ces irrégularités ne peuvent toutefois donner lieu à annulation de la sentence arbitrale s'il est établi qu'elles n'ont pas eu d'incidence sur la sentence; ou
+
+vi) que le tribunal arbitral a excédé ses pouvoirs; ou
+
+b) le tribunal de première instance constate :
+
+i) que l'objet du différend n'est pas susceptible d'être réglé par voie d'arbitrage; ou
+
+ii) que la sentence est contraire à l'ordre public; ou
+
+iii) que la sentence a été obtenue par fraude.
+
+§ 4. [<sup>4</sup> a) Hormis dans le cas visé à l'article 1690, § 4, alinéa 1er, une demande d'annulation ne peut être introduite après l'expiration d'un délai de trois mois à compter de la date à laquelle la sentence a été communiquée, conformément à l'article 1678, à la partie introduisant cette demande, ou, par dérogation à cette disposition, en cas d'interprétation ou de rectification d'une sentence ou en cas de sentence additionnelle en vertu de l'article 1715 ou en vertu d'une convention des parties, à compter de la date à laquelle la décision du tribunal arbitral sur l'interprétation, la rectification ou la sentence additionnelle a été communiquée, conformément à l'article 1678, à la partie introduisant la demande d'annulation.
+
+b) Si la demande d'annulation est introduite sur la base du paragraphe 3, b), iii, le délai de trois mois prévu au a), commence à courir à compter de la découverte de la fraude par la partie qui introduit la demande d'annulation.]<sup>4</sup>
+
+§ 5. Ne sont pas retenues comme causes d'annulation de la sentence arbitrale les cas prévus au [<sup>2</sup> § 3]<sup>2</sup>, a), i., ii., iii. et v., lorsque la partie qui s'en prévaut en a eu connaissance au cours de la procédure arbitrale [<sup>4</sup> et ne les a, sans motif légitime, pas invoqués en temps utile devant le tribunal arbitral]<sup>4</sup>.
+
+§ 6. Lorsqu'il [<sup>4</sup> est saisi d'une demande visant à]<sup>4</sup> annuler une sentence arbitrale le tribunal de première instance peut, le cas échéant et à la demande d'une partie, suspendre la procédure d'annulation pendant une période dont il fixe la durée afin de donner au tribunal arbitral la possibilité de reprendre la procédure arbitrale ou de prendre toute autre mesure que ce dernier juge susceptible d'éliminer les motifs d'annulation.]<sup>1</sup>
+
+[<sup>3</sup> § 7. La partie qui fait tierce opposition contre une décision [<sup>4</sup> de reconnaissance et de déclaration exécutoire]<sup>4</sup> et qui prétend obtenir l'annulation de la sentence sans avoir précédemment introduit une demande à cet effet doit former sa demande d'annulation [<sup>4</sup> et sa tierce opposition]<sup>4</sup>, à peine de déchéance, dans la même procédure pour autant que [<sup>4</sup> les délais prévus au paragraphe 4 ne soient pas expirés]<sup>4</sup>.]<sup>3</sup>
+
+[<sup>4</sup> Si la décision de reconnaissance et de déclaration exécutoire est signifiée à la partie adverse plus d'un mois avant l'expiration du délai prévu au paragraphe 4, le délai pour l'introduction du recours en annulation conjointement avec la tierce opposition ne peut être inférieur au délai prévu au paragraphe 4.
+
+Si la décision de reconnaissance et de déclaration exécutoire est signifiée à la partie adverse moins d'un mois avant l'expiration du délai prévu au paragraphe 4, le délai pour l'introduction du recours en annulation conjointement avec la tierce opposition ne peut être inférieur à un mois à compter de cette signification.]<sup>4</sup>
+
+[<sup>4</sup> § 8. Le tribunal de première instance saisi d'une demande d'annulation de la sentence arbitrale peut ordonner, à la demande d'une partie, que le caractère exécutoire de la sentence soit suspendu. Le tribunal peut, à la demande d'une partie, ordonner à l'une ou l'autre des parties de fournir une garantie appropriée.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 51, 004; En vigueur : 01-09-2013&gt;
+
+(2)&lt;L 2014-04-25/23, art. 28, 006; En vigueur : 24-05-2014&gt;
+
+(3)&lt;L 2016-12-25/14, art. 102, 007; En vigueur : 09-01-2017&gt;
+
+(4)&lt;L 2024-03-28/60, art. 116, 009; En vigueur : 08-04-2024&gt;
+
+### Art. 1718
+
+[<sup>1</sup> Les parties peuvent, par une déclaration expresse dans la convention d'arbitrage ou par une convention ultérieure, exclure tout recours en annulation d'une sentence arbitrale lorsqu'aucune d'elles n'est soit une personne physique ayant la nationalité belge ou son domicile ou sa résidence habituelle en Belgique, soit une personne morale ayant en Belgique, son siège statutaire, son principal établissement ou une succursale.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 52, 004; En vigueur : 01-09-2013&gt;
+
+## Chapitre VIII. [<sup>1</sup> Reconnaissance et exécution des sentences arbitrales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-06-24/03, art. 53, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1719
+
+[<sup>1</sup> § 1er. La sentence arbitrale, rendue en Belgique ou à l'étranger, ne peut faire l'objet d'une exécution forcée qu'après avoir été revêtue de la formule exécutoire, entièrement ou partiellement, par le tribunal de première instance conformément à la procédure visée à l'article 1720.
+
+§ 2. Le tribunal de première instance ne peut revêtir la sentence de la formule exécutoire que si la sentence ne peut plus être attaquée devant les arbitres ou si les arbitres en ont ordonné l'exécution provisoire nonobstant appel.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 53, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1720
+
+[<sup>1</sup> § 1er. Le tribunal de première instance est compétent pour connaître d'une demande concernant la reconnaissance et l'exécution d'une sentence arbitrale rendue en Belgique ou à l'étranger.
+
+[<sup>2</sup> § 1er/1. La demande est introduite et instruite sur requête unilatérale. Le tribunal statue en premier et dernier ressort conformément à l'article 1680, § 5. Le requérant doit faire élection de domicile dans l'arrondissement du tribunal.]<sup>2</sup>
+
+§ 2. [<sup>2</sup> Lorsque la sentence a été rendue à l'étranger, le tribunal territorialement compétent est le tribunal de première instance du siège de la cour d'appel dans le ressort de laquelle]<sup>2</sup> la personne contre laquelle la déclaration exécutoire est demandée a son domicile et, à défaut de domicile, sa résidence habituelle où, le cas échéant, son siège social, ou à défaut, son établissement ou sa succursale. Si cette personne n'a ni domicile, ni résidence habituelle, ni siège social ni établissement ou succursale en Belgique, la demande est portée devant le tribunal de première instance du siège de la cour d'appel de l'arrondissement dans lequel la sentence doit être exécutée.
+
+§ 3. [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 4. [<sup>3</sup> Le requérant doit fournir, soit l'original de la sentence arbitrale, à savoir une sentence arbitrale revêtue d'une signature manuscrite des arbitres ou d'une signature électronique qualifiée visée à l'article 3, 12°, du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE, soit une copie certifiée conforme de la sentence arbitrale.]<sup>3</sup>
+
+§ 5. La sentence ne peut être reconnue ou déclarée exécutoire que si elle ne contrevient pas aux conditions de l'article 1721.]<sup>1</sup>
+
+[<sup>3</sup> § 6. Le requérant doit faire signifier la décision de reconnaissance et de déclaration exécutoire de la sentence arbitrale à celui contre qui l'exécution est demandée. Sans préjudice de la disposition visée à l'article 1717, § 7, il peut être formé tierce opposition à cette décision de reconnaissance et de déclaration exécutoire auprès du tribunal de première instance qui a rendu la décision attaquée, dans le mois qui suit cette signification.]<sup>3</sup>
+
+[<sup>3</sup> § 7. La décision par laquelle une sentence arbitrale est reconnue et déclarée exécutoire est sans effet dans la mesure où la sentence arbitrale a été annulée.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 55, 004; En vigueur : 01-09-2013&gt;
+
+(2)&lt;L 2016-12-25/14, art. 103, 007; En vigueur : 09-01-2017&gt;
+
+(3)&lt;L 2024-03-28/60, art. 117, 009; En vigueur : 08-04-2024&gt;
+
+### Art. 1721
+
+[<sup>1</sup> § 1er. Le tribunal de première instance ne refuse la reconnaissance et la déclaration exécutoire d'une sentence arbitrale, quel que soit le pays où elle a été rendue, que dans les circonstances suivantes :
+
+a) à la demande de la partie contre laquelle elle est invoquée, si cette dite partie apporte la preuve :
+
+i) qu'une partie à la convention d'arbitrage visée à l'article 1681 était frappée d'une incapacité; ou que ladite convention n'est pas valable en vertu de la loi à laquelle les parties l'ont subordonnée ou, à défaut de choix exercé, en vertu de la loi du pays où la sentence a été rendue; ou
+
+ii) que la partie contre laquelle la sentence est invoquée n'a pas été dûment informée de la désignation d'un arbitre ou de la procédure arbitrale, ou qu'il lui a été impossible pour une autre raison de faire valoir ses droits; dans ces cas, il ne peut toutefois y avoir refus de reconnaissance ou de déclaration exécutoire de la sentence arbitrale s'il est établi que l'irrégularité n'a pas eu une incidence sur la sentence arbitrale; ou
+
+iii) que la sentence porte sur un différend non visé ou n'entrant pas dans les termes de la convention d'arbitrage, ou qu'elle contient des décisions qui dépassent les termes de la convention d'arbitrage, étant entendu toutefois que, si les dispositions de la sentence qui ont trait à des questions soumises à l'arbitrage peuvent être dissociées de celles qui ont trait à des questions non soumises à l'arbitrage, seule la partie de la sentence contenant des décisions sur les questions soumises à l'arbitrage pourra être reconnue et exécutée; ou
+
+iv) que la sentence n'est pas motivée alors qu'une telle motivation est prescrite par les règles de droit applicables à la procédure arbitrale dans le cadre de laquelle la sentence a été prononcée; ou
+
+v) que la constitution du tribunal arbitral, ou la procédure arbitrale, n'a pas été conforme à la convention des parties ou, à défaut d'une telle convention, à la loi du pays où l'arbitrage a eu lieu; à l'exception de l'irrégularité touchant à la constitution du tribunal arbitral, ces irrégularités ne peuvent toutefois donner lieu à refus de reconnaissance ou de déclaration exécutoire de la sentence arbitrale s'il est établi qu'elles n'ont pas eu d'incidence sur la sentence; ou
+
+vi) que la sentence n'est pas encore devenue obligatoire pour les parties, ou a été annulée ou suspendue par un tribunal du pays dans lequel ou en vertu de la loi duquel elle a été rendue; [<sup>3</sup> ou]<sup>3</sup>
+
+vii) que le tribunal arbitral a excédé ses pouvoirs;
+
+ou
+
+b) si le tribunal de première instance constate :
+
+i) que l'objet du différend n'est pas susceptible d'être réglé par arbitrage; ou
+
+ii) que la reconnaissance ou l'exécution de la sentence serait contraire à l'[<sup>3</sup> ordre public; ou]<sup>3</sup>
+
+[<sup>3</sup> iii) que la sentence a été obtenue par fraude.]<sup>3</sup>
+
+[<sup>3</sup> § 1er/1. Ne sont pas retenues comme causes de refus de reconnaissance et d'exécution d'une sentence arbitrale les cas prévus au paragraphe 1er, a), i), ii), iii) et v), lorsque la partie qui s'en prévaut en a eu connaissance au cours de la procédure arbitrale et ne les a, sans motif légitime, pas invoqués en temps utile devant le tribunal arbitral.]<sup>3</sup>
+
+§ 2. Le tribunal de première instance [<sup>2</sup> sursoit]<sup>2</sup> de plein droit à la demande tant qu'il n'est pas produit à l'appui de la requête [<sup>3</sup> l'original ou une copie certifiée conforme de la sentence arbitrale]<sup>3</sup> conformément à l'article [<sup>3</sup> 1720, § 4]<sup>3</sup>.
+
+[<sup>3</sup> § 2/1. Si une demande d'annulation ou de suspension de la sentence arbitrale a été introduite devant l'instance judiciaire visée au paragraphe 1er, a), vi), le tribunal de première instance saisi d'une tierce opposition contre une décision de reconnaissance ou de déclaration exécutoire de cette sentence peut, à la demande d'une partie, surseoir à sa décision sur la tierce opposition. En tout état de cause, le tribunal peut également décider de suspendre l'exécution de la sentence.
+
+Le tribunal de première instance peut, à la demande d'une partie, ordonner à l'une ou l'autre des parties de fournir une garantie appropriée.]<sup>3</sup>
+
+§ 3. Lorsqu'il y a lieu à application d'un traité entre la Belgique et le pays où la sentence a été rendue, le traité prévaut.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 56, 004; En vigueur : 01-09-2013&gt;
+
+(2)&lt;L 2016-12-25/14, art. 104, 007; En vigueur : 09-01-2017&gt;
+
+(3)&lt;L 2024-03-28/60, art. 118, 009; En vigueur : 08-04-2024&gt;
+
+## Chapitre IX. [<sup>1</sup> Prescription]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-06-24/03, art. 57, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1722
+
+[<sup>1</sup> La condamnation prononcée par une sentence arbitrale se prescrit par dix années révolues, à compter de la date où la sentence arbitrale a été communiquée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2013-06-24/03, art. 58, 004; En vigueur : 01-09-2013&gt;
+
+### Art. 1723
+
+&lt;Abrogé par L 2013-06-24/03, art. 2, 004; En vigueur : 01-09-2013&gt;
