@@ -1,0 +1,96 @@
+---
+title: "Herziening van artikel 78 van de Grondwet"
+identifier: "2014200235"
+eli: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/06/2014200235/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: nl
+date: 2014-01-06
+published: 2014-01-31
+entry_into_force: 2014-01-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/06/2014200235/justel"
+department: "Kanselarij van de Eerste Minister"
+retrieved: 2026-10-11
+---
+
+# 6 JANUARI 2014. - Herziening van artikel 78 van de Grondwet
+
+FILIP, Koning der Belgen,
+
+Aan allen die nu zijn en hierna wezen zullen, Onze Groet.
+
+De Kamers hebben, in de door artikel 195 van de Grondwet bepaalde voorwaarden, aangenomen en Wij bekrachtigen hetgeen volgt :
+
+## Art. 1
+
+Enig artikel. Artikel 78 van de Grondwet wordt vervangen als volgt :
+
+" Art. 78. § 1. Onder voorbehoud van artikel 77, wordt het wetsontwerp dat door de Kamer van volksvertegenwoordigers is aangenomen in de hierna vermelde aangelegenheden, overgezonden aan de Senaat :
+
+1° de wetten ter uitvoering van de wetten aan te nemen met de meerderheid bepaald in artikel 4, laatste lid;
+
+2° de wetten bedoeld in de artikelen 5, 39, 115, 117, 118, 121, 123, 127 tot 129, 131, 135 tot 137, 141 tot 143, 163, 165, 166, 167, § 1, derde lid, 169, 170, § 2, tweede lid, § 3, tweede en derde lid, en § 4, tweede lid, 175 en 177, evenals de wetten ter uitvoering van de voormelde wetten en artikelen, met uitzondering van de wetgeving met betrekking tot de organisatie van de geautomatiseerde stemming;
+
+3° de wetten aangenomen overeenkomstig artikel 169 om de naleving van internationale of supranationale verplichtingen te verzekeren;
+
+4° de wetten op de Raad van State en op de federale administratieve rechtscolleges.
+
+Een wet aangenomen met de meerderheid bepaald in artikel 4, laatste lid, kan andere aangelegenheden aanduiden die de Senaat overeenkomstig de procedure bepaald in dit artikel kan onderzoeken.
+
+§ 2. Op verzoek van de meerderheid van zijn leden met ten minste een derde van de leden van elke taalgroep, onderzoekt de Senaat het wetsontwerp. Dat verzoek wordt geformuleerd binnen vijftien dagen na de ontvangst van het wetsontwerp.
+
+De Senaat kan, binnen een termijn die dertig dagen niet te boven mag gaan :
+
+\- beslissen dat er geen reden is om het wetsontwerp te amenderen;
+
+\- het wetsontwerp na amendering aannemen.
+
+Indien de Senaat zich niet binnen de voorgeschreven termijn heeft uitgesproken of indien hij de Kamer van volksvertegenwoordigers in kennis heeft gesteld van zijn beslissing om het wetsontwerp niet te amenderen, zendt de Kamer van volksvertegenwoordigers het ontwerp over aan de Koning.
+
+Indien het ontwerp is geamendeerd, zendt de Senaat het over aan de Kamer van volksvertegenwoordigers, die een definitieve beslissing neemt door het wetsontwerp hetzij aan te nemen, hetzij te amenderen.
+
+Overgangsbepaling
+
+Dit artikel treedt in werking op de dag van de verkiezingen met het oog op de algehele vernieuwing van de Gemeenschaps- en Gewestparlementen in 2014. Tot die dag zijn de volgende bepalingen van toepassing :
+
+"In de andere aangelegenheden dan die bedoeld in de artikelen 74 en 77, wordt het wetsontwerp dat door de Kamer van volksvertegenwoordigers is aangenomen, overgezonden aan de Senaat.
+
+Op verzoek van ten minste vijftien van zijn leden onderzoekt de Senaat het wetsontwerp. Dat verzoek wordt geformuleerd binnen vijftien dagen na de ontvangst van het ontwerp.
+
+De Senaat kan, binnen een termijn die zestig dagen niet te boven mag gaan :
+
+\- beslissen dat er geen reden is om het wetsontwerp te amenderen;
+
+\- het ontwerp na amendering aannemen.
+
+Indien de Senaat zich niet binnen de voorgeschreven termijn heeft uitgesproken of indien hij de Kamer van volksvertegenwoordigers in kennis heeft gesteld van zijn beslissing om het wetsontwerp niet te amenderen, zendt de Kamer van volksvertegenwoordigers het ontwerp over aan de Koning.
+
+Indien het ontwerp is geamendeerd, zendt de Senaat het over aan de Kamer van volksvertegenwoordigers, die een definitieve beslissing neemt door alle of sommige van de door de Senaat aangenomen amendementen hetzij aan te nemen, hetzij te verwerpen.". ".
+
+Kondigen deze bepaling af, bevelen dat zij met 's Lands zegel zal worden bekleed en door het Belgisch Staatsblad zal worden bekendgemaakt.
+
+Gegeven te Brussel, 6 januari 2014.
+
+FILIP
+
+Van Koningswege :
+
+De Eerste Minister,
+
+E. DI RUPO
+
+De Staatssecretaris voor Staatshervorming,
+
+M. WATHELET
+
+De Staatssecretaris voor Staatshervorming,
+
+S. VERHERSTRAETEN
+
+Met 's Lands zegel gezegeld :
+
+De Minister van Justitie,
+
+Mevr. A. TURTELBOOM

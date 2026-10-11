@@ -1,0 +1,344 @@
+---
+title: "Loi réglementant les qualifications requises pour poser des actes de médecine esthétique non chirurgicale et de chirurgie esthétique [et réglementant la publicité et l'information relative à ces actes] <L 2014-04-10/23 , art. 177, 002; En vigueur : 10-05-2014>"
+identifier: "2013024225"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2013/05/23/2013024225/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2013-05-23
+published: 2013-07-02
+entry_into_force: 2013-07-12
+last_amended: 2025-12-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2013/05/23/2013024225/justel"
+department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
+justel_note: "Consultation des versions antérieures à partir du 02-07-2013 et mise à jour au 31-12-2025"
+retrieved: 2026-10-11
+---
+
+# 23 MAI 2013. - Loi réglementant les qualifications requises pour poser des actes de médecine esthétique non chirurgicale et de chirurgie esthétique [et réglementant la publicité et l'information relative à ces actes] &lt;L 2014-04-10/23 , art. 177, 002; En vigueur : 10-05-2014&gt;
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1. - Disposition générale
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## CHAPITRE 2. - Définitions
+
+### Art. 2
+
+Pour l'application de la présente loi, l'on entend par :
+
+1° médecine esthétique non chirurgicale : tout acte technique médical non chirurgical, réalisé à l'aide de tout instrument, substance chimique ou dispositif utilisant toute forme d'énergie, comportant un passage à travers la peau ou les muqueuses, et visant principalement à modifier l'apparence corporelle d'un patient à des fins esthétiques, à l'exclusion de tout but thérapeutique ou reconstructeur. [<sup>1</sup> ...]<sup>1</sup>;
+
+2° chirurgie esthétique : tout acte chirurgical visant principalement à modifier l'apparence corporelle d'un patient à des fins esthétiques, à l'exclusion de tout but thérapeutique ou reconstructeur;
+
+3° lipoaspiration : opération chirurgicale consistant en l'aspiration d'amas graisseux;
+
+4° lipofilling : opération chirurgicale consistant en l'injection de graisse;
+
+5° dermabrasion : opération chirurgicale consistant à abraser l'épiderme ou les couches supérieures du derme;
+
+[<sup>2</sup> 6° publicité : toute forme de communication ou action à destination du public qui vise, directement ou indirectement, à promouvoir la prestation des actes visés à l'article 3, quels que soient l'endroit, le support ou les techniques utilisés, en ce compris les émissions de télé-réalité;
+
+7° information professionnelle : toute forme de communication qui vise, directement et spécifiquement, quels que soient l'endroit, le support ou les techniques utilisés, à faire connaître un praticien ou à donner une information sur la nature de sa pratique professionnelle;
+
+8° information trompeuse : toute forme de communication ou action qui, d'une manière quelconque, y compris par sa présentation, induit en erreur les personnes auxquelles elle s'adresse ou qu'elle touche et qui, en raison de son caractère trompeur, peut affecter leur comportement ou qui, pour ces raisons, porte préjudice ou peut porter préjudice à un patient;
+
+9° information comparative : toute forme de communication ou action qui, explicitement ou implicitement, identifie un autre praticien ou un service offert par un autre praticien.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2014-04-10/23, art. 178, 002; En vigueur : 10-05-2014&gt;
+
+(2)&lt;L 2014-04-10/23, art. 179, 002; En vigueur : 10-05-2014&gt;
+
+## CHAPITRE 3. - Champ d'application
+
+### Art. 3
+
+Sont seuls habilités à poser des actes relevant de la chirurgie esthétique ou de la médecine esthétique non chirurgicale les professionnels visés dans la présente loi et dans la seule mesure de l'habilitation fixée dans la présente loi.
+
+[<sup>1</sup> Ne tombent pas sous l'application de la présente loi les tatouages, les piercings et les techniques d'épilation.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-10/23, art. 180, 002; En vigueur : 10-05-2014&gt;
+
+## CHAPITRE 4. - Art. médical et droits du patient
+
+### Art. 4
+
+Dans l'article 1erbis, 3°, de l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice des professions des soins de santé, inséré par la loi du 19 décembre 2008, les mots " ou de l'accompagner en fin de vie " sont remplacés par les mots ", de modifier son apparence corporelle à des fins principalement esthétiques ou de l'accompagner en fin de vie ".
+
+### Art. 5
+
+L'article 2, § 1er, du même arrêté royal, modifié par la loi du 13 décembre 2006, est complété par deux alinéas rédigés comme suit :
+
+" Relève également de l'exercice illégal de l'art médical l'accomplissement habituel par une personne ne réunissant pas l'ensemble des conditions visées à l'alinéa 1er, à l'égard d'un être humain, de tout acte technique médical, comportant un passage à travers la peau ou les muqueuses, et visant principalement à modifier l'apparence corporelle du patient à des fins esthétiques, à l'exclusion de tout but thérapeutique ou reconstructeur.
+
+Le Roi peut, conformément à l'article 46ter, préciser les actes visés à l'alinéa 4. "
+
+### Art. 6
+
+Dans le même arrêté royal, il est inséré un article 46ter rédigé comme suit :
+
+" Art. 46ter. Le Roi peut préciser les actes qui relèvent de la médecine esthétique non chirurgicale ou de la chirurgie esthétique, visés à l'article 2, 1° et 2°, de la loi du ... réglementant les qualifications requises pour poser des actes de médecine esthétique non chirurgicale et de chirurgie esthétique, après avis du [<sup>1</sup> Conseil supérieur des médecins spécialistes et des médecins généralistes]<sup>1</sup>. "
+
+----------
+
+(1)&lt;L 2022-05-18/08, art. 31, 004; En vigueur : 09-06-2022&gt;
+
+### Art. 7
+
+L'article 1er de l'arrêté royal du 25 novembre 1991 établissant la liste des titres professionnels particuliers réservés aux praticiens de l'art médical, en ce compris l'art dentaire, modifié en dernier lieu par l'arrêté royal du 15 septembre 2006, est complété par les mots " médecin spécialiste en médecine esthétique non chirurgicale ".
+
+### Art. 8
+
+Dans l'article 2, 2°, de la loi du 22 août 2002 relative aux droits du patient, les mots " ou de l'accompagner en fin de vie " sont remplacés par les mots ", de modifier son apparence corporelle à des fins principalement esthétiques ou de l'accompagner en fin de vie ".
+
+## CHAPITRE 5. - Habilitations
+
+### Art. 9
+
+Sont seuls habilités à réaliser l'ensemble des actes relevant de la médecine esthétique non chirurgicale et de la chirurgie esthétique, les titulaires d'un titre professionnel particulier de médecin spécialiste en chirurgie plastique, reconstructive et esthétique ou de médecin spécialiste en chirurgie, [<sup>1</sup> ou de médecin spécialiste en chirurgie cardiaque, ou de médecin spécialiste en chirurgie thoracique, ou de médecin spécialiste en chirurgie vasculaire, ou de médecin spécialiste en chirurgie viscérale,]<sup>1</sup> visés à l'article 1er de l'arrêté royal du 25 novembre 1991 établissant la liste des titres professionnels particuliers réservés aux praticiens de l'art médical, en ce compris l'art dentaire, dénommé ci-après " l'arrêté royal du 25 novembre 1991 ".
+
+----------
+
+(1)&lt;L 2025-11-25/16, art. 13, 005; En vigueur : 10-01-2026&gt;
+
+### Art. 10
+
+§ 1er. Les titulaires du titre professionnel particulier de médecin spécialiste en médecine esthétique non chirurgicale visé à l'[<sup>2</sup> article 2]<sup>2</sup> de l'arrêté royal du 25 novembre 1991 sont habilités à réaliser l'ensemble des actes relevant de la médecine esthétique non chirurgicale, à l'exception d'injections intra-mammaires.
+
+§ 2. Les titulaires du titre professionnel particulier de médecin spécialiste en médecine esthétique non chirurgicale visé à l'[<sup>2</sup> article 2]<sup>2</sup> de l'arrêté royal du 25 novembre 1991 sont également habilités à réaliser les actes relevant de la chirurgie esthétique suivants :
+
+1° greffe capillaire;
+
+2° lipofilling dans toutes les parties du corps, hormis la région mammaire, avec un maximum de 10 millilitres de liquide injecté par acte;
+
+§ 3. Le Roi peut préciser les actes visés au paragraphe 2, après avis du [<sup>1</sup> Conseil supérieur des médecins spécialistes et des médecins généralistes]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2022-05-18/08, art. 31, 004; En vigueur : 09-06-2022&gt;
+
+(2)&lt;L 2022-05-18/08, art. 32, 004; En vigueur : 09-06-2022&gt;
+
+### Art. 11
+
+§ 1er. Les titulaires du titre professionnel particulier de médecin spécialiste en dermato-vénéréologie visé à l'article 1er de l'arrêté royal du 25 novembre 1991 sont habilités à réaliser l'ensemble des actes relevant de la médicine esthétique non chirurgicale, à l'exception d'injections intra-mammaires.
+
+§ 2. Les titulaires du titre professionnel particulier de médecin spécialiste en dermato-vénéréologie visé à l'article 1er de l'arrêté royal du 25 novembre 1991 sont également habilités à réaliser les actes relevant de la chirurgie esthétique suivants :
+
+1° greffe capillaire;
+
+2° dermabrasion;
+
+3° lipoaspiration avec un maximum d'un litre de matière aspirée par acte, en ce compris le liquide d'infiltration;
+
+4° lipofilling dans toutes les parties du corps, hormis la région mammaire.
+
+§ 3. Le Roi peut préciser les actes visés au paragraphe 2, après avis du [<sup>1</sup> Conseil supérieur des médecins spécialistes et des médecins généralistes]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2022-05-18/08, art. 31, 004; En vigueur : 09-06-2022&gt;
+
+### Art. 12
+
+Les titulaires des titres professionnels particuliers de médecin spécialiste visés à l'arrêté royal du 25 novembre 1991, énumérés ci-après, sont habilités à réaliser l'ensemble des actes relevant de la chirurgie esthétique ou de la médecine esthétique non chirurgicale, chacun dans les limites du cadre anatomique de leur spécialité, tel que fixé ci-après :
+
+1° médecin spécialiste en ophtalmologie : région orbito-palpébrale;
+
+2° médecin spécialiste en stomatologie : lèvres et région orale;
+
+3° médecin spécialiste en oto-rhino-laryngologie : pavillon des oreilles et région nasale;
+
+4° médecin spécialiste en gynécologie-obstétrique : glande mammaire, région abdominale et organes génitaux féminins;
+
+5° médecin spécialiste en urologie : organes génitaux masculins et féminins;
+
+6° médecin spécialiste titulaire du titre professionnel particulier de médecin spécialiste en chirurgie orale et maxillo-faciale : face et cou.
+
+### Art. 13
+
+&lt;Abrogé par L 2022-05-18/08, art. 33, 004; En vigueur : 09-06-2022&gt;
+
+### Art. 14
+
+Les titulaires d'un des titres professionnels particuliers réservés aux titulaires d'un diplôme légal de licencié en sciences dentaires visé à l'article 3 de larrêté royal du 25 novembre 1991 sont habilités à réaliser l'ensemble des actes relevant de la chirurgie esthétique ou de la médecine esthétique non chirurgicale dans la région intra-orale.
+
+### Art. 15
+
+&lt;Abrogé par L 2014-04-10/23, art. 181, 002; En vigueur : 10-05-2014&gt;
+
+### Art. 16
+
+Sans préjudice de l'application de l'arrêté ministériel du 30 avril 1999 fixant les critères généraux d'agréation des médecins spécialistes, des maîtres de stage et des services de stage, les médecins en formation pour un des titres professionnels particuliers visés aux articles 9 à 12 sont habilités à poser les mêmes actes que les titulaires du titre professionnel particulier de cette spécialité dans les conditions de supervision prévues par la législation relative à la formation des médecins en formation pour un titre professionnel particulier.
+
+### Art. 17
+
+Les actes relevant de la médecine esthétique non chirurgicale ou de la chirurgie esthétique ne peuvent être réalisés sur un mineur que moyennant l'accord écrit du représentant légal ou des représentants légaux du mineur.
+
+Tout acte relevant de la médecine esthétique non chirurgicale ou de la chirurgie esthétique sur un mineur fait l'objet d'une concertation préalable entre le mineur, son représentant légal ou ses représentants légaux et un médecin spécialiste en psychiatrie ou un psychologue. Cette concertation fait l'objet d'un rapport écrit qui fait partie intégrante du dossier médical du patient mineur.
+
+## CHAPITRE 6. - Information et consentement
+
+### Art. 18
+
+§ 1er. Préalablement à tout acte de chirurgie esthétique ou de médecine esthétique non chirurgicale, le praticien responsable fournit les informations suivantes au patient et, le cas échéant, à son représentant légal ou à ses représentants légaux :
+
+1° les techniques et les conditions de réalisation de l'acte;
+
+2° les risques majeurs potentiels et les éventuelles conséquences et complications majeures;
+
+3° le type de matériel implanté ou de produit injecté, en ce compris sa dénomination et ses caractéristiques (volume, mesures, quantité);
+
+4° les coordonnées du producteur et, le cas échéant, de l'importateur du matériel implanté ou du produit injecté;
+
+5° l'identité et le titre professionnel dont sont titulaires le praticien ou les praticiens réalisant l'acte projeté;
+
+6° une évaluation détaillée des frais lorsque le montant des frais liés à l'acte projeté est évalué à plus de 1.000 euros. Ce montant est indexé au 1er janvier de chaque année suivant la formule d'indexation suivante : montant de base x nouvel indice santé/indice santé de base. L'indice santé de base est celui en vigueur au 31 décembre 2012. Le nouvel indice est celui qui interviendra successivement au 31 décembre de chaque année.
+
+§ 2. Pour tout acte de chirurgie esthétique, le praticien responsable fournit les informations visées au paragraphe 1er au patient au cours d'une consultation préalable.
+
+§ 3. Les informations visées au paragraphe 1er font l'objet d'un compte rendu écrit, daté et signé par le patient ou, le cas échéant, son représentant légal ou ses représentants légaux et les praticiens concernés. Ce compte rendu fait partie intégrante du dossier médical du patient.
+
+Lorsque plusieurs actes identiques, au niveau de la technique et du produit utilisés, sont réalisés dans le cadre d'un même traitement, les informations visées au paragraphe 1erfont l'objet d'un unique compte-rendu tel que visé à l'alinéa précédent.
+
+§ 4. Le texte du présent article est reproduit sur le compte rendu visé au paragraphe 3.
+
+§ 5. Les informations visées au paragraphe 1er sont fournies au patient, et, le cas échéant, à son représentant légal ou à ses représentants légaux, sans préjudice d'autres informations à fournir en vertu d'autres dispositions, ou de modalités selon lesquelles ces informations doivent être communiquées ou conservées.
+
+### Art. 19
+
+La signature du compte rendu visé à l'article 18, § 3, alinéa 1er, par les parties fait courir le délai prévu à l'article 20.
+
+### Art. 20
+
+Pour tout acte de chirurgie esthétique, un délai minimum de quinze jours s'écoule entre la signature du compte rendu visé à l'article 18, § 3, alinéa 1er, et l'acte projeté.
+
+Pendant cette période, il ne peut être exigé ou obtenu par le praticien pour cet acte aucune contrepartie quelconque ni aucun engagement financier à l'exception des honoraires afférents aux consultations préalables à l'acte.
+
+## CHAPITRE 6/1. [<sup>1</sup> - Publicité et information]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-10/23, art. 182, 002; En vigueur : 10-05-2014&gt;
+
+### Art. 20/1
+
+[<sup>1</sup> Il est interdit à toute personne physique ou morale de diffuser de la publicité relative aux actes visés à l'article 3.
+
+L'information professionnelle relative à ces actes est autorisée dans le respect des conditions prévues ci-après.
+
+L'information professionnelle doit être conforme à la réalité, objective, pertinente, vérifiable, discrète et claire.
+
+Cette information ne peut pas être trompeuse, comparative et ne peut utiliser d'arguments financiers.
+
+L'information professionnelle mentionne toujours les titres professionnels particuliers au sens de l'article 35ter de l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice des professions des soins de santé dont dispose le praticien.
+
+Lorsque l'information professionnelle est diffusée par un établissement qui recourt aux services de praticiens, les noms des praticiens ainsi que les titres professionnels particuliers au sens de l'article 35ter de l'arrêté royal n° 78 du 10 novembre 1967 relatif à l'exercice des professions des soins de santé de chacun d'eux sont toujours mentionnés.
+
+Les dispositions de la présente loi en matière de publicité et d'information professionnelle ne portent pas préjudice à l'application de la loi du 22 août 2002 relative aux droits du patient dans la mesure où elle vise l'information portant sur des actes visés à la présente loi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-10/23, art. 183, 002; En vigueur : 10-05-2014&gt;
+
+## CHAPITRE 7. - Dispositions pénales
+
+### Art. 21
+
+Sans préjudice de l'application des peines prévues par le Code pénal, ainsi que, s'il échet, de l'application de sanctions disciplinaires, le médecin ou le dentiste qui, en infraction aux articles 9 à 16 accomplit habi-tuellement un acte relevant de la chirurgie esthétique ou de la médecine esthétique non chirurgicale sans y être habilité conformément à la présente loi est puni d'un emprisonnement d'un mois à un an et d'une amende de deux cent cinquante euros à dix mille euros ou d'une de ces peines seulement.
+
+### Art. 22
+
+Sans préjudice de l'application des peines prévues par le Code pénal ainsi que, le cas échéant, de l'application de sanctions disciplinaires, le praticien visé par la présente loi qui commet une infraction à l'article 17, 18 ou 20 est puni d'un emprisonnement de huit jours à six mois et d'une amende de deux cent cinquante euros à cinq mille euros ou d'une de ces peines seulement.
+
+### Art. 22/1
+
+[<sup>1</sup> Celui qui commet une infraction visée à l'article 20/1, sera puni d'un emprisonnement de huit jours à six mois et d'une amende de deux cent cinquante euros à cinq mille euros ou d'une de ces peines seulement.
+
+En outre, le tribunal peut ordonner la publication du jugement ou de son résumé aux frais du contrevenant par la voie de trois journaux et de toute autre manière.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-10/23, art. 184, 002; En vigueur : 10-05-2014&gt;
+
+## CHAPITRE 8.
+
+&lt;Abrogé par L 2022-05-18/08, art. 34, 004; En vigueur : 09-06-2022&gt;
+
+### Art. 23
+
+&lt;Abrogé par L 2022-05-18/08, art. 34, 004; En vigueur : 09-06-2022&gt;
+
+## CHAPITRE 9. - Mesures transitoires
+
+### Art. 24
+
+§ 1er. Une période d'exercice de la médecine esthétique non chirurgicale, d'une durée d'au moins trois ans à temps plein ou d'une durée équivalente à temps partiel, peut être validée comme valant pour tout ou partie de la formation menant au titre professionnel particulier de médecin spécialiste en médecine esthétique non chirurgicale. La demande doit être introduite dans un délai de deux ans après l'entrée en vigueur de l'article 10.
+
+§ 2. Les titulaires d'un master en médecine ou équivalent qui peuvent justifier [<sup>1</sup> d'une formation théorique minimale en médecine esthétique non chirurgicale et]<sup>1</sup> d'une expérience régulière de plus de cinq ans de pratique de la médecine esthétique non chirurgicale au jour de l'entrée en vigueur du présent article sont autorisés à pratiquer le médecine esthétique non chirurgicale.
+
+[<sup>3</sup> La demande d'autorisation doit être introduite dans un délai de deux ans après l'entrée en vigueur de l'article 10.]<sup>3</sup>
+
+Durant ce délai, les titulaires d'un master en médecine ou équivalent qui peuvent justifier d'une expérience régulière de plus de cinq ans de pratique de la médecine esthétique non chirurgicale au jour de l'entrée en vigueur du présent article restent autorisés à pratiquer la médecine esthétique non chirurgicale.
+
+§ 3. Les titulaires d'un master en médecine ou équivalent qui peuvent justifier d'une expérience régulière de plus de cinq ans de pratique de la lipoaspiration au jour de l'entrée en vigueur du présent article sont habilités à pratiquer cet acte, avec un maximum d'un litre de matière aspirée par acte, en ce compris le liquide d'infiltration. [<sup>3</sup> La demande d'autorisation doit être introduite dans un délai de deux ans après l'entrée en vigueur de l'article 10.]<sup>3</sup> Durant ce délai, les titulaires d'un master en médecine ou équivalent qui peuvent justifier d'une expérience régulière de plus de cinq ans de pratique de la lipoaspiration, au jour de l'entrée en vigueur du présent article, restent habilités à pratiquer cet acte, avec un maximum d'un litre de matière aspirée par acte, en ce compris le liquide d'infiltration.
+
+§ 4. Les demandes visées aux paragraphes 1er, 2 et 3 sont traitées selon la procédure applicable aux demandes d'agrément pour le titre professionnel particulier de médecin spécialiste en médecine esthétique non chirurgicale.
+
+§ 5. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 6. Jusqu'à l'entrée en vigueur de l'article 10, les titulaires d'un master en médecine ou équivalent sont habilités à pratiquer l'ensemble des actes relevant de la médecine esthétique non chirurgicale et les actes relevant de la chirurgie esthétique visés à l'article 10, § 2.
+
+----------
+
+(1)&lt;L 2014-04-10/23, art. 185, 002; En vigueur : 10-05-2014&gt;
+
+(2)&lt;L 2014-04-10/23, art. 186, 002; En vigueur : 10-05-2014&gt;
+
+(3)&lt;L 2016-06-22/03, art. 57, 003; En vigueur : 11-07-2016&gt;
+
+## CHAPITRE 10. - Entrée en vigueur
+
+### Art. 25
+
+L'article 10 entre en vigueur à une date à fixer par le Roi [<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2014-04-10/23, art. 187, 002; En vigueur : 10-05-2014&gt;
+
+(2)&lt;L 2016-06-22/03, art. 58, 003; En vigueur : 31-08-2015&gt;
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 23 mai 2013.
+
+ALBERT
+
+Par le Roi :
+
+La ministre des Affaires sociales et de la Santé publique,
+
+Mme ONKELINX
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

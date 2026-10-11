@@ -1,0 +1,72 @@
+---
+title: "Loi modifiant la loi du 6 août 1931 établissant des incompatibilités et interdictions concernant les ministres, anciens ministres et ministres d'Etat, ainsi que les membres et anciens membres des Chambres législatives"
+identifier: "2014200327"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/06/2014200327/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2014-01-06
+published: 2014-01-31
+entry_into_force: 2014-05-25
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/06/2014200327/justel"
+department: "Chancellerie du Premier Ministre"
+retrieved: 2026-10-11
+---
+
+# 6 JANVIER 2014. - Loi modifiant la loi du 6 août 1931 établissant des incompatibilités et interdictions concernant les ministres, anciens ministres et ministres d'Etat, ainsi que les membres et anciens membres des Chambres législatives
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Disposition générale
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## CHAPITRE 2. - Modifications de la loi du 6 août 1931 établissant des incompatibilités et interdictions concernant les ministres, anciens ministres et ministres d'Etat, ainsi que les membres et anciens membres des Chambres législatives
+
+### Art. 2
+
+Dans l'article 1erbis, alinéa 1er, de la loi du 6 août 1931 établissant des incompatibilités et interdictions concernant les ministres, anciens ministres et ministres d'Etat, ainsi que les membres et anciens membres des Chambres législatives, inséré par la loi du 16 juillet 1993 et remplacé par la loi du 4 décembre 1996, les mots "ou le sénateur élu directement" sont abrogés.
+
+### Art. 3
+
+Dans l'article 1erter de la même loi, inséré par la loi du 16 juillet 1993 et remplacé par la loi du 12 août 2000, les mots "les sénateurs de communauté" sont remplacés par les mots "les sénateurs visés à l'article 67, § 1er, 1° à 5°, de la Constitution".
+
+## CHAPITRE 3. - Entrée en vigueur
+
+### Art. 4
+
+La présente loi entre en vigueur le jour des élections pour la Chambre des représentants qui auront lieu le même jour que les élections pour les Parlements de communauté et de région en 2014.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 6 janvier 2014.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Premier Ministre,
+
+E. DI RUPO
+
+Le Secrétaire d'Etat aux Réformes institutionnelles,
+
+M. WATHELET
+
+Le Secrétaire d'Etat aux Réformes institutionnelles,
+
+S. VERHERSTRAETEN
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

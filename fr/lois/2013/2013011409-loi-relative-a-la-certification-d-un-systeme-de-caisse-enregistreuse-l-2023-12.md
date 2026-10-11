@@ -1,0 +1,108 @@
+---
+title: "Loi relative à la certification d'un système de caisse enregistreuse [...] <L 2023-12-28/01 , art. 101, 003; En vigueur : 01-01-2024>"
+identifier: "2013011409"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/30/2013011409/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2013-07-30
+published: 2013-08-28
+entry_into_force: 2013-09-07
+last_amended: 2023-12-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/30/2013011409/justel"
+department: "Finances - Economie, PME, Classes moyennes et Energie"
+justel_note: "Consultation des versions antérieures à partir du 28-08-2013 et mise à jour au 29-12-2023"
+retrieved: 2026-10-11
+---
+
+# 30 JUILLET 2013. - Loi relative à la certification d'un système de caisse enregistreuse [...] &lt;L 2023-12-28/01 , art. 101, 003; En vigueur : 01-01-2024&gt;
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+[<sup>1</sup> Pour l'application de la présente loi et des arrêtés pris pour son exécution, on entend par :
+
+1° "système de caisse enregistreuse": la caisse enregistreuse électronique, le terminal comprenant le logiciel de caisse, l'ordinateur comprenant le logiciel de caisse ou tout autre appareil similaire, utilisé pour l'enregistrement des opérations à la sortie ;
+
+2° "module de contrôle": le module qui enregistre les données pertinentes des tickets de caisse de façon inaltérable et sécurisée et les transforme en un algorithme, ainsi que d'autres données éventuelles de contrôle imprimées sur le ticket de caisse et qui sont transmises automatiquement sous forme numérique au Service public fédéral Finances ;
+
+3° "fiscal data module" (FDM): l'élément du module de contrôle relié au système de caisse prévu pour recevoir du système de caisse les données fiscales pertinentes et générer la date et l'heure de tous les événements qui se sont produits. Le fiscal data module est pourvu d'un numéro d'identification unique et d'un certificat unique pour la création d'une signature numérique ;
+
+4° "fabricant": toute personne physique ou morale qui fabrique un produit fini pour le mettre sur le marché en Belgique et pour être utilisé soit comme système de caisse, soit comme fiscal data module du module de contrôle dans le système de caisse enregistreuse ;
+
+5° "importateur": toute personne physique ou morale qui met sur le marché en Belgique un produit fini fabriqué en dehors de la Belgique, et destiné à être utilisé soit comme système de caisse, soit comme fiscal data module du module de contrôle dans le système de caisse enregistreuse ;
+
+6° "distributeur": toute personne physique ou morale qui vend ou donne en location, en Belgique, à un assujetti à la T.V.A., un système de caisse certifié ou un fiscal data module certifié destiné à être utilisé dans un système de caisse enregistreuse ;
+
+7° "service compétent du Service public fédéral Finances": le service chargé de traiter toutes les demandes de certification et d'enregistrement, d'accomplir la procédure de certification et l'initialisation du fiscal data module.
+
+Le système de caisse enregistreuse susvisé se compose de deux éléments: un système de caisse et le module de contrôle visé à l'alinéa 1er, 2°.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-28/01, art. 102, 003; En vigueur : 01-01-2024&gt;
+
+## Art. 3
+
+Le fabricant ou l'importateur d'un système de caisse ou d'un fiscal data module soumet pour certification ce système ou ce module auprès du service compétent du SPF Finances préalablement à sa mise sur le marché en Belgique.
+
+Lors de la demande de certification d'un système de caisse ou d'un fiscal data module, le fabricant ou l'importateur remet un dossier complet au service compétent du SPF Finances. Le Roi règle les modalités d'application de l'alinéa 1er, notamment les formalités à accomplir par le fabricant ou l'importateur et les obligations à respecter. Il détermine en outre les documents et informations à fournir lors de l'introduction de cette demande de certification.
+
+Le service compétent du SPF Finances examine la conformité des spécifications du système de caisse et du fiscal data module soumis pour certification.
+
+Lorsque le système de caisse ou le fiscal data module susvisé satisfait à toutes les conditions techniques exigées, le service compétent du SPF Finances délivre un certificat au fabricant ou à l'importateur.
+
+En cas de modifications apportées à un système de caisse ou à un fiscal data module déjà certifié, le fabricant ou l'importateur doit en informer dans les meilleurs délais le service compétent du SPF Finances.
+
+Le Roi règle les modalités d'application des alinéas 3 à 5. Il détermine notamment les exigences techniques du système de caisse ou du fiscal data module, les fonctions auxquelles doit satisfaire le système de caisse enregistreuse et le fiscal data module et fixe les modalités du processus de certification.
+
+## Art. 4
+
+Pour chaque livraison ou prestation de location d'un système de caisse certifié ou d'un fiscal data module certifié, fournie en Belgique, le fabricant ou l'importateur est tenu de communiquer le numéro de fabrication de ce système ou de ce module ainsi que les coordonnées de son client au service compétent du SPF Finances.
+
+Lorsque le distributeur effectue une telle livraison ou une telle prestation en Belgique, il est tenu de communiquer le numéro de fabrication du bien concerné ainsi que les coordonnées de son client au service compétent du SPF Finances.
+
+Le Roi fixe les conditions et les modalités d'application du présent article.
+
+## Art. 5
+
+Lorsque le fabricant ou l'importateur n'a pas respecté les obligations visées aux articles 3, alinéa 5, et 4, alinéa 1er, le service compétent du SPF Finances peut, après examen, retirer le certificat visé à l'article 3, alinéa 4.
+
+Le service compétent du SPF Finances informe les utilisateurs concernés du retrait de ce certificat, ainsi que des formalités qu'ils doivent accomplir pour disposer à nouveau d'un système de caisse ou d'un fiscal data module certifié.
+
+Le Roi fixe les conditions de retrait du certificat précité et détermine les formalités à accomplir par les utilisateurs concernés
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 30 juillet 2013.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre de l'Economie,
+
+J. VANDE LANOTTE
+
+Le Ministre des Finances,
+
+K. GEENS
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

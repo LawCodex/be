@@ -1,0 +1,60 @@
+---
+title: "Révision de l'article 144 de la Constitution"
+identifier: "2014200304"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/06/2014200304/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2014-01-06
+published: 2014-01-31
+entry_into_force: 2014-01-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/06/2014200304/justel"
+department: "Chancellerie du Premier Ministre"
+retrieved: 2026-10-11
+---
+
+# 6 JANVIER 2014. - Révision de l'article 144 de la Constitution
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté dans les conditions prescrites par l'article 195 de la Constitution, et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. L'article 144 de la Constitution est complété par l'alinéa suivant :
+
+"Toutefois, la loi peut, selon les modalités qu'elle détermine, habiliter le Conseil d'Etat ou les juridictions administratives fédérales à statuer sur les effets civils de leurs décisions."
+
+Promulguons la présente disposition, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 6 janvier 2014.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Premier Ministre,
+
+E. DI RUPO
+
+La Ministre de l'Intérieur,
+
+Mme J. MILQUET
+
+Le Secrétaire d'Etat aux Réformes institutionnelles,
+
+M. WATHELET
+
+Le Secrétaire d'Etat aux Réformes institutionnelles,
+
+S. VERHERSTRAETEN
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

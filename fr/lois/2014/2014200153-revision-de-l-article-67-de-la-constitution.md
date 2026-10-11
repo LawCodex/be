@@ -1,0 +1,104 @@
+---
+title: "Révision de l'article 67 de la Constitution"
+identifier: "2014200153"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/06/2014200153/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2014-01-06
+published: 2014-01-31
+entry_into_force: 2014-01-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/06/2014200153/justel"
+department: "Chancellerie du Premier Ministre"
+retrieved: 2026-10-11
+---
+
+# 6 JANVIER 2014. - Révision de l'article 67 de la Constitution
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté dans les conditions prescrites par l'article 195 de la Constitution, et Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+Article unique. L'article 67 de la Constitution, modifié par les révisions de la Constitution du 10 juin 2004 et du 25 février 2005, est remplacé par ce qui suit :
+
+" Art. 67. § 1er. Le Sénat est composé de soixante sénateurs, dont :
+
+1° vingt-neuf sénateurs désignés par le Parlement flamand en son sein ou au sein du groupe linguistique néerlandais du Parlement de la Région de Bruxelles-Capitale;
+
+2° dix sénateurs désignés par le Parlement de la Communauté française en son sein;
+
+3° huit sénateurs désignés par le Parlement de la Région wallonne en son sein;
+
+4° deux sénateurs désignés par le groupe linguistique français du Parlement de la Région de Bruxelles-Capitale en son sein;
+
+5° un sénateur désigné par le Parlement de la Communauté germanophone en son sein;
+
+6° six sénateurs désignés par les sénateurs visés au 1°;
+
+7° quatre sénateurs désignés par les sénateurs visés aux 2° à 4°.
+
+§ 2. Au moins un des sénateurs visés au § 1er, 1°, est domicilié, le jour de son élection, dans la région bilingue de Bruxelles-Capitale.
+
+Trois des sénateurs visés au § 1er, 2°, sont membres du groupe linguistique français du Parlement de la Région de Bruxelles-Capitale. Par dérogation au § 1er, 2°, un de ces trois sénateurs ne doit pas être membre du Parlement de la Communauté française.
+
+§ 3. Le Sénat ne compte pas plus de deux tiers de sénateurs du même genre.
+
+§ 4. Lorsqu'une liste visée à l'article 68, § 2, n'est pas représentée par des sénateurs visés respectivement au § 1er, 1°, ou au § 1er, 2°, 3° ou 4°, la désignation des sénateurs visés au § 1er, 6°, ou au § 1er, 7°, peut se faire par les députés élus sur la liste susmentionnée.
+
+Disposition transitoire
+
+Le présent article entre en vigueur le jour des élections en vue du renouvellement intégral des Parlements de communauté et de région en 2014. Jusqu'à ce jour, les dispositions suivantes sont d'application :
+
+" § 1er. Sans préjudice de l'article 72, le Sénat se compose de septante et un sénateurs, dont :
+
+1° vingt-cinq sénateurs élus conformément à l'article 61, par le collège électoral néerlandais;
+
+2° quinze sénateurs élus conformément à l'article 61, par le collège électoral français;
+
+3° dix sénateurs désignés par le Parlement de la Communauté flamande, dénommé Parlement flamand, en son sein;
+
+4° dix sénateurs désignés par le Parlement de la Communauté française en son sein;
+
+5° un sénateur désigné par le Parlement de la Communauté germanophone en son sein;
+
+6° six sénateurs désignés par les sénateurs visés aux 1° et 3°;
+
+7° quatre sénateurs désignés par les sénateurs visés aux 2° et 4°.
+
+Lors du renouvellement intégral de leur Parlement qui ne coïncide pas avec le renouvellement du Sénat, les sénateurs visés à l'alinéa 1er, 3° à 5°, qui ne siègent plus dans leur Parlement, conservent leur mandat de sénateur jusqu'à l'ouverture de la première session qui suit le renouvellement de leur Parlement.
+
+§ 2. Au moins un des sénateurs visés au § 1er, 1°, 3° et 6°, est domicilié, le jour de son élection, dans la région bilingue de Bruxelles-Capitale.
+
+Au moins six des sénateurs visés au § 1er, 2°, 4° et 7°, sont domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale. Si quatre au moins des sénateurs visés au § 1er, 2°, ne sont pas domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale, au moins deux des sénateurs visés au § 1er, 4°, doivent être domiciliés, le jour de leur élection, dans la région bilingue de Bruxelles-Capitale.". ".
+
+Promulguons la présente disposition, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 6 janvier 2014.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Premier Ministre,
+
+E. DI RUPO
+
+Le Secrétaire d'Etat aux Réformes institutionnelles,
+
+M. WATHELET
+
+Le Secrétaire d'Etat aux Réformes institutionnelles,
+
+S. VERHERSTRAETEN
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

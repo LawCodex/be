@@ -1,0 +1,54 @@
+---
+title: "Loi modifiant l'article 144ter, § 1er, 1°, du Code judiciaire afin de le mettre en conformité avec la Convention internationale pour la répression des actes de terrorisme nucléaire, faite à New York, le 14 septembre 2005, et avec l'Amendement de la Convention sur la protection physique des matières nucléaires, adopté à Vienne le 8 juillet 2005 par la Conférence des Etats parties à la Convention"
+identifier: "2013009356"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/15/2013009356/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2013-07-15
+published: 2013-07-24
+entry_into_force: 2013-06-16
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/15/2013009356/justel"
+department: "Justice"
+retrieved: 2026-10-11
+---
+
+# 15 JUILLET 2013. - Loi modifiant l'article 144ter, § 1er, 1°, du Code judiciaire afin de le mettre en conformité avec la Convention internationale pour la répression des actes de terrorisme nucléaire, faite à New York, le 14 septembre 2005, et avec l'Amendement de la Convention sur la protection physique des matières nucléaires, adopté à Vienne le 8 juillet 2005 par la Conférence des Etats parties à la Convention
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+A l'article 144ter, § 1er, 1°, du Code judiciaire, inséré par la loi du 21 juin 2001 et modifié par les lois des 5 août 2003 et 10 août 2005, les mots " à 488quinquies " sont insérés entre les mots " 488bis " et les mots " du Code pénal ".
+
+## Art. 3
+
+La présente loi entre en vigueur le jour de l'entrée en vigueur de la loi du 23 mai 2013 modifiant le Code pénal afin de le mettre en conformité avec la Convention internationale pour la répression des actes de terrorisme nucléaire, faite à New York, le 14 septembre 2005, et avec l'Amendement de la Convention sur la protection physique des matières nucléaires, adopté à Vienne le 8 juillet 2005 par la conférence des Etats parties à la Convention.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 15 juillet 2013.
+
+ALBERT
+
+Par le Roi :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

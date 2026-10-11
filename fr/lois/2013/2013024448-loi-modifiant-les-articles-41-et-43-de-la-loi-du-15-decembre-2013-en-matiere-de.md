@@ -1,0 +1,78 @@
+---
+title: "Loi modifiant les articles 41 et 43 de la loi du 15 décembre 2013 en matière de dispositifs médicaux et l'article 605quater du Code judiciaire"
+identifier: "2013024448"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/21/2013024448/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2013-12-21
+published: 2013-12-31
+entry_into_force: 2014-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/21/2013024448/justel"
+department: "Sante Publique, Sécurité de la Chaine Alimentaire et Environnement"
+retrieved: 2026-10-11
+---
+
+# 21 DECEMBRE 2013. - Loi modifiant les articles 41 et 43 de la loi du 15 décembre 2013 en matière de dispositifs médicaux et l'article 605quater du Code judiciaire
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+L'article 41 de la loi du 15 décembre 2013 en matière de dispositifs médicaux est complété par les mots "devant le tribunal de première instance".
+
+## Art. 3
+
+A l'article 43 de la même loi, les modifications suivantes sont apportées :
+
+1° un alinéa rédigé comme suit est inséré avant l'alinéa 1er :
+
+``Un appel peut être interjeté contre l'imposition de l'amende administrative telle que visée à l'article 42, auprès de la cour d'appel de Bruxelles, siégeant comme en référé. Ce recours a un effet suspensif.
+
+2° l'article est complété par un alinéa rédigé comme suit :
+
+``La cour d'appel de Bruxelles est saisie du fond du litige et dispose d'une compétence de pleine juridiction.''
+
+## Art. 4
+
+L'article 605quater du Code judiciaire, inséré par la loi du 27 juillet 2005 et modifié par les lois des 8 décembre 2006 et 26 janvier 2010, est complété par le 8°, rédigé comme suit :
+
+"8° l'article 43 de la loi du 15 décembre 2013 en matière de dispositifs médicaux".
+
+## Art. 5
+
+La présente loi entre en vigueur le 1er janvier 2014.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du Sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 21 décembre 2013.
+
+PHILIPPE
+
+Par le Roi :
+
+La Ministre des Affaires sociales et de la Santé publique,
+
+chargée de Beliris et des Institutions culturelles fédérales
+
+Mme L. ONKELINX
+
+La Ministre de la Justice,
+
+Mme A. Turtelboom
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

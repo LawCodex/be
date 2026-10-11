@@ -1,0 +1,78 @@
+---
+title: "Herziening van artikel 69 van de Grondwet"
+identifier: "2014200155"
+eli: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/06/2014200155/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: nl
+date: 2014-01-06
+published: 2014-01-31
+entry_into_force: 2014-01-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/wet/2014/01/06/2014200155/justel"
+department: "Kanselarij van de Eerste Minister"
+retrieved: 2026-10-11
+---
+
+# 6 JANUARI 2014. - Herziening van artikel 69 van de Grondwet
+
+FILIP, Koning der Belgen,
+
+Aan allen die nu zijn en hierna wezen zullen, Onze Groet.
+
+De Kamers hebben, in de door artikel 195 van de Grondwet bepaalde voorwaarden, aangenomen en Wij bekrachtigen hetgeen volgt :
+
+## Art. 1
+
+Enig artikel. Artikel 69 van de Grondwet wordt vervangen als volgt :
+
+" Art. 69. Om tot senator aangewezen te kunnen worden, moet men :
+
+1° Belg zijn;
+
+2° het genot hebben van de burgerlijke en politieke rechten;
+
+3° de volle leeftijd van achttien jaar hebben bereikt;
+
+4° zijn woonplaats hebben in België.
+
+Overgangsbepaling
+
+Dit artikel treedt in werking op de dag van de verkiezingen met het oog op de algehele vernieuwing van de Gemeenschaps- en Gewestparlementen in 2014. Tot die dag zijn de volgende bepalingen van toepassing :
+
+"Om tot senator gekozen of aangewezen te kunnen worden moet men :
+
+1° Belg zijn;
+
+2° het genot hebben van de burgerlijke en politieke rechten;
+
+3° de volle leeftijd van eenentwintig jaar hebben bereikt;
+
+4° zijn woonplaats hebben in België.". ".
+
+Kondigen deze bepaling af, bevelen dat zij met 's Lands zegel zal worden bekleed en door het Belgisch Staatsblad zal worden bekendgemaakt.
+
+Gegeven te Brussel, 6 januari 2014.
+
+FILIP
+
+Van Koningswege :
+
+De Eerste Minister,
+
+E. DI RUPO
+
+De Staatssecretaris voor Staatshervorming,
+
+M. WATHELET
+
+De Staatssecretaris voor Staatshervorming,
+
+S. VERHERSTRAETEN
+
+Met 's Lands zegel gezegeld :
+
+De Minister van Justitie,
+
+Mevr. A. TURTELBOOM

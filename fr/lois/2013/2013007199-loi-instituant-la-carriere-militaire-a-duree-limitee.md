@@ -1,0 +1,676 @@
+---
+title: "Loi instituant la carrière militaire à durée limitée"
+identifier: "2013007199"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2013/08/30/2013007199/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2013-08-30
+published: 2013-10-04
+entry_into_force: 2013-12-31
+last_amended: 2025-12-29
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2013/08/30/2013007199/justel"
+department: "Défense Nationale"
+justel_note: "Consultation des versions antérieures à partir du 04-10-2013 et mise à jour au 29-12-2025"
+retrieved: 2026-10-11
+---
+
+# 30 AOUT 2013. - Loi instituant la carrière militaire à durée limitée
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions générales
+
+#### Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+#### Art. 2
+
+La présente loi fixe le statut des militaires du cadre actif recrutés pour une carrière à durée limitée, ci-après dénommés " militaires BDL ".
+
+Les militaires BDL sont :
+
+1° les officiers et candidats officiers BDL du niveau A;
+
+2° les officiers et candidats officiers BDL du niveau B;
+
+3° les sous-officiers et candidats sous-officiers BDL du niveau B;
+
+4° les sous-officiers et candidats sous-officiers BDL du niveau C;
+
+5° les volontaires et candidats volontaires BDL.
+
+#### Art. 3
+
+Pour autant que ces dispositions ne soient pas incompatibles avec les dispositions de la présente loi et pour autant que les dispositions réglementaires ne soient pas incompatibles avec les dispositions réglementaires prises en exécution de la présente loi, toutes les dispositions législatives et réglementaires applicables aux militaires de carrière sont applicables aux militaires BDL, selon la catégorie de personnel et le niveau auxquels ils appartiennent.
+
+Pour autant que ces dispositions ne soient pas incompatibles avec les dispositions de la présente loi et pour autant que les dispositions réglementaires ne soient pas incompatibles avec les dispositions réglementaires prises en exécution de la présente loi, toutes les dispositions législatives et réglementaires applicables, selon le cas, aux postulants ou aux candidats militaires de carrière, sont applicables aux postulants BDL ou candidats militaires BDL, selon la catégorie de personnel à laquelle ils appartiennent.
+
+Les dispositions des lois coordonnées sur les pensions militaires s'appliquent aux militaires BDL.
+
+## CHAPITRE 2. - Du recrutement
+
+#### Art. 4
+
+Pour pouvoir acquérir la qualité de militaire BDL, le postulant BDL doit satisfaire aux mêmes conditions que le postulant candidat militaire de carrière, à l'exception des conditions suivantes :
+
+1° [<sup>1</sup> le postulant officier BDL et le postulant sous-officier BDL du niveau B ne peuvent avoir atteint l'âge de [<sup>2</sup> trente-trois]<sup>2</sup> ans ou de trente-quatre ans lorsqu'il s'agit d'un postulant officier BDL de la filière de métiers "techniques médicales", au 31 décembre de l'année de leur incorporation;]<sup>1</sup>
+
+2° le postulant sous-officier BDL du niveau C et le postulant volontaire BDL ne peuvent avoir atteint l'âge de [<sup>2</sup> trente et un]<sup>2</sup> ans au 31 décembre de l'année de leur incorporation.
+
+----------
+
+(1)&lt;L 2016-08-03/27, art. 5, 002; En vigueur : 01-10-2016&gt;
+
+(2)&lt;L 2019-05-20/10, art. 2, 007; En vigueur : 01-01-2020&gt;
+
+## CHAPITRE 3. - De l'engagement
+
+#### Art. 5
+
+L'engagement comme militaire BDL entraîne, de plein droit et à sa date, selon le cas, la démission de l'emploi ou la résiliation de tout engagement ou rengagement antérieur de la personne qui a déjà la qualité de militaire.
+
+#### Art. 6
+
+Le militaire BDL contracte un engagement d'une durée de maximum huit ans.
+
+[<sup>2</sup> La durée de la carrière du militaire BDL prend fin de plein droit le dernier jour du mois au cours duquel, selon le cas, l'engagement visé à l'alinéa 1er, le nouvel engagement visé à l'alinéa 3 ou la prolongation de l'engagement visée à l'alinéa 5 expire.]<sup>2</sup>
+
+[<sup>2</sup> Toutefois, le militaire BDL peut, dans le cadre d'une promotion sociale pour laquelle il a été agréé par l'autorité désignée par le Roi, contracter un nouvel engagement de huit ans dans sa nouvelle qualité.]<sup>2</sup>
+
+[<sup>2</sup> Ce nouvel engagement prend cours le jour où l'intéressé débute son nouveau cycle de formation de base.]<sup>2</sup>
+
+[<sup>2</sup> L'engagement du militaire BDL, visé aux alinéas 1er et 3, est prolongé de plein droit d'un an, une ou plusieurs fois, pour autant que les conditions suivantes soient simultanément remplies :
+
+1° au 31 décembre de l'année précédente, le militaire BDL appartient à la catégorie d'aptitude A ou B, visée à l'article 69, alinéas 4 et 5, de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées;
+
+2° aucune mesure statutaire, comme visée à l'article 54 de la loi du 28 février 2007 précitée, n'ait été prononcée à son encontre;
+
+3° la somme des prolongations ne dépasse pas quatre ans.
+
+Le Roi fixe la procédure relative à la prolongation de l'engagement du militaire BDL.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2016-08-03/27, art. 6, 002; En vigueur : 01-10-2016&gt;
+
+(2)&lt;L 2018-07-19/20, art. 2, 005; En vigueur : 24-09-2018&gt;
+
+(3) pas en français
+
+#### Art. 7
+
+En dérogation à l'article 6, [<sup>1</sup> alinéa 2]<sup>1</sup>, l'engagement du militaire BDL peut être prolongé, selon le cas :
+
+1° [<sup>1</sup> d'un à cinq mois]<sup>1</sup>, afin de permettre au militaire BDL concerné de bénéficier du congé d'orientation [<sup>1</sup> visé à l'article 31 et, selon le cas, du congé de reclassement visé à l'article 31bis]<sup>1</sup>;
+
+2° dans les cas visés à l'article 161, alinéas 4 à 6, de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des forces armées, de la durée nécessaire à l'achèvement d'un stage, afin de permettre, le cas échéant, au militaire BDL qui a introduit une demande de transfert vers un employeur public de prolonger sa période de mise à disposition;
+
+3° avec un maximum de cinq mois, de la durée nécessaire à l'accomplissement d'une opération ou d'une autre mission, le cas échéant, lorsque l'engagement du militaire BDL, ayant terminé avec succès l'entraînement spécifique préalable à la mission, expire durant sa participation à :
+
+a) une opération ou mission sous toute forme d'engagement opérationnel, à l'exception de l'engagement de maintien de l'ordre;
+
+b) toute autre mission hors du territoire national, non visée au a), pour une durée de minimum un mois;
+
+4° dans les cas visés aux articles 22 et 23, de la durée nécessaire à l'accomplissement d'un nouveau cycle de formation de base, pour le militaire BDL qui a été agréé par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup> en vue, selon le cas, d'une promotion sociale ou d'une promotion sur diplôme;
+
+[<sup>1</sup> 5° à la demande du militaire BDL, de la durée nécessaire à l'achèvement de la période de fin de carrière visée à l'article 28, alinéa 1er.]<sup>1</sup>
+
+L'autorité désignée par le Roi notifie par écrit au militaire BDL concerné [<sup>1</sup> la durée de]<sup>1</sup> la prolongation de son engagement.
+
+----------
+
+(1)&lt;L 2018-07-19/20, art. 3, 005; En vigueur : 24-09-2018&gt;
+
+(2)&lt;L 2018-04-30/07, art. 24, 006; En vigueur : 27-08-2018&gt;
+
+## CHAPITRE 4. - Du cycle de formation de base
+
+#### Art. 8
+
+En fonction des besoins des forces armées et de l'objectif final de la formation, le Roi fixe à quel cycle de formation de base des candidats militaires de carrière correspond le cycle de formation de base de chaque candidat militaire BDL.
+
+Pour les commissions pendant la formation de base et pour la nomination à l'issue de cette formation :
+
+1° le candidat officier BDL du niveau A suit le sort du candidat officier de carrière du niveau A du recrutement spécial;
+
+2° le candidat officier BDL du niveau B suit le sort du candidat officier de carrière du niveau B du recrutement spécial;
+
+3° le candidat sous-officier BDL du niveau B suit le sort du candidat sous-officier de carrière du niveau B du recrutement spécial;
+
+4° le candidat sous-officier BDL du niveau C suit le sort du candidat sous-officier de carrière du niveau C du recrutement normal;
+
+5° le candidat volontaire BDL suit le sort du candidat volontaire de carrière du recrutement normal.
+
+#### Art. 9
+
+En dérogation à l'article 3, § 1er, de la loi du 30 juillet 1938 concernant l'usage des langues à l'armée, la réussite de l'examen sur la connaissance effective de la langue de l'autre régime linguistique que celui auquel appartient l'officier BDL n'est exigée que lorsqu'il remplit les conditions pour pouvoir être nommé au grade, selon le cas, de sous-lieutenant ou de lieutenant.
+
+#### Art. 10
+
+Perd la qualité de candidat militaire BDL :
+
+1° celui à l'encontre duquel l'échec définitif est prononcé, selon le cas, par [<sup>1</sup> la commission de délibération ou d'évaluation ou l'instance d'appel]<sup>1</sup> suite à une appréciation insuffisante :
+
+a) soit des qualités professionnelles;
+
+b) soit des qualités caractérielles;
+
+c) soit des qualités physiques;
+
+2° celui qui ne possède plus les qualités morales requises;
+
+3° celui dont l'engagement est résilié conformément aux articles 16 à 18.
+
+Le Roi désigne l'autorité compétente pour prononcer la perte de la qualité de candidat militaire BDL ou autoriser un reclassement dans un autre cycle de formation de base de candidat militaire BDL.
+
+----------
+
+(1)&lt;L 2018-07-19/20, art. 4, 005; En vigueur : 24-09-2018&gt;
+
+## CHAPITRE 5. - De la formation continuée
+
+#### Art. 11
+
+Le sous-officier BDL du niveau C ne peut être admis, ni au cours de perfectionnement, ni à l'épreuve d'accession au grade de premier sergent-major auxquels participe le sous-officier de carrière du niveau C en vue de sa nomination au grade de premier sergent-major.
+
+Le sous-officier BDL du niveau B ne peut être admis au cours de perfectionnement auquel participe le sous-officier de carrière du niveau B en vue de sa nomination au grade d'adjudant-chef.
+
+[<sup>2</sup> L'officier BDL du niveau A ne peut être admis au cours de perfectionnement visé à l'article 111, alinéa 1er, 2°, de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées, auquel participe l'officier de carrière du niveau A.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2018-07-19/20, art. 5, 005; En vigueur : 24-09-2018&gt;
+
+(2)&lt;L 2022-06-02/06, art. 12, 008; En vigueur : 26-08-2022&gt;
+
+## CHAPITRE 6. - De la catégorie d'aptitude
+
+#### Art. 12
+
+Le militaire BDL peut introduire auprès de l'instance d'appel visée à l'article 178/2, alinéa 1er, de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des forces armées, un seul appel contre une décision relative à son appartenance à la catégorie d'aptitude D.
+
+Sur décision du ministre de la Défense ou de l'instance d'appel précitée, le militaire BDL visé à l'alinéa 1er, peut conserver la qualité de militaire BDL pour une période de six mois.
+
+Le militaire BDL qui, à la fin de la période visée à l'alinéa 2, continue à appartenir à la catégorie d'aptitude D, perd de plein droit la qualité de militaire BDL et ne peut bénéficier des dispositions visées aux articles 29 et 30.
+
+## CHAPITRE 7. - Du retrait temporaire d'emploi et de la résiliation de l'engagement
+
+#### Art. 13
+
+Le retrait temporaire d'emploi d'un militaire BDL n'a lieu que dans les cas suivants :
+
+1° à la demande du militaire concerné, pour convenances personnelles ou pour raisons familiales;
+
+2° pour motif de santé;
+
+3° par mesure disciplinaire.
+
+[<sup>1</sup> Toutefois, les dispositions législatives et réglementaires applicables aux militaires de carrière en matière de retrait temporaire d'emploi pour convenances personnelles ne sont pas applicables au candidat militaire BDL.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-06-02/07, art. 12, 009; En vigueur : 01-12-2022&gt;
+
+#### Art. 14
+
+Les dispositions législatives et réglementaires applicables aux militaires de carrière en matière de congé de protection parentale ne sont pas applicables au candidat militaire BDL.
+
+#### Art. 15
+
+L'engagement du militaire BDL prend fin :
+
+1° de plein droit, conformément aux dispositions de l'article 6;
+
+2° par résiliation de l'engagement, conformément aux dispositions des articles 16 à 18.
+
+#### Art. 16
+
+L'engagement du militaire BDL est résilié de plein droit lorsqu'il :
+
+1° n'est plus ressortissant d'un état membre de l'Espace économique européen ou de la Confédération Suisse, ou fait l'objet d'une décision d'éloignement du territoire, de renvoi ou d'expulsion, en application de la loi du 15 décembre 1980 sur l'accès au territoire, le séjour, l'établissement et l'éloignement des étrangers;
+
+2° signe un acte d'engagement dans une autre qualité de candidat militaire du cadre actif;
+
+3° est définitivement mis à la pension pour inaptitude physique;
+
+4° est interdit sans sursis à perpétuité ou temporairement de l'un des droits énumérés à l'article 31, 1° et 6°, du Code pénal;
+
+5° ne conserve pas au moins le profil médical correspondant à sa catégorie de personnel fixé par le Roi;
+
+6° perd la qualité de candidat militaire BDL conformément à l'article 10;
+
+7° a épuisé le congé d'orientation visé à [<sup>1</sup> l'article 31]<sup>1</sup>.
+
+[<sup>1</sup> 8° a épuisé le congé de reclassement visé à l'article 31bis.]<sup>1</sup>
+
+La résiliation de l'engagement de plein droit prend effet dès que la situation qui y donne lieu se produit.
+
+----------
+
+(1)&lt;L 2018-07-19/20, art. 6, 005; En vigueur : 24-09-2018&gt;
+
+#### Art. 17
+
+L'engagement du militaire BDL peut être résilié à sa demande [<sup>1</sup> par l'autorité et selon]<sup>1</sup> les modalités et la procédure fixées par le Roi.
+
+----------
+
+(1)&lt;L 2016-11-21/20, art. 88, 003; En vigueur : 02-01-2017&gt;
+
+#### Art. 18
+
+[<sup>1</sup> L'engagement du militaire BDL peut être résilié d'office par l'autorité et selon les modalités et la procédure fixées par le Roi, lorsque l'intéressé :
+
+1° a contracté cet engagement sur base d'une fausse déclaration;
+
+2° est condamné, avec ou sans sursis, à un emprisonnement militaire d'un mois au moins du chef d'une infraction réprimée par le Code pénal militaire;
+
+3° s'est rendu coupable de faits graves incompatibles avec son état de militaire ou lorsque sa conduite ou sa manière de servir est manifestement insuffisante;
+
+4° fait l'objet d'une décision d'inaptitude prise à la suite d'un ou plusieurs examens médicaux de sélection, dont le résultat n'était pas disponible avant la date de prise d'effet de l'engagement;
+
+5° ne peut pas, dans les cas visés aux articles 103 à 104/1 de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées, poursuivre sa formation, dans la même qualité et dans une promotion contemporaine, dans un autre cycle de formation spécifique pour lequel cette aptitude médicale spécifique, cette capacité professionnelle spécifique ou cette condition physique spécifique n'est pas exigée;
+
+6° [<sup>2</sup> est absent illégalement de longue durée, conformément à l'article 59 de la loi du 28 février 2007 précitée;"]<sup>2</sup>;
+
+7° doit être retiré de son cycle de formation de base spécifique du fait du refus ou du retrait de l'habilitation de sécurité exigée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-11-21/20, art. 89, 003; En vigueur : 02-01-2017&gt;
+
+(2)&lt;L 2025-12-08/07, art. 57, 011; En vigueur : 01-01-2026&gt;
+
+## CHAPITRE 8. - De l'admission dans une autre qualité de militaire BDL ou de militaire du cadre actif
+
+### Section 1re. - Disposition commune
+
+#### Art. 19
+
+Toute demande de passage, de promotion sociale ou de promotion sur diplôme peut être introduite par le militaire BDL au plus tôt le lendemain du jour de la notification de la réussite du cycle de formation de base.
+
+L'agrément par [<sup>1</sup> l'autorité désignée par le Roi]<sup>1</sup> d'un militaire BDL en vue de son admission dans une autre qualité de militaire BDL ou dans une autre qualité de militaire du cadre actif, doit avoir lieu au plus tard le dernier jour du mois qui précède la dernière année de son engagement.
+
+Pour pouvoir être admis dans une autre qualité de militaire BDL ou dans une autre qualité de militaire du cadre actif, le militaire BDL doit répondre aux conditions suivantes :
+
+1° [<sup>2</sup> ...]<sup>2</sup>
+
+2° ne pas être refusé par l'autorité que le Roi désigne;
+
+3° être classé en ordre utile lors d'une épreuve de passage, dans la limite du nombre de places ouvertes;
+
+4° avoir réussi les tests militaires d'aptitude physique, selon les critères fixés par l'autorité que le Roi désigne;
+
+5° pour le militaire de la marine, être médicalement apte au service en mer;
+
+6° le cas échéant, être titulaire d'un master, d'un bachelier ou d'un diplôme d'enseignement secondaire supérieur, avant la date de clôture des inscriptions pour la promotion sur diplôme concernée;
+
+7° le cas échéant, [<sup>3</sup> avoir réussi"]<sup>3</sup> avoir réussi les examens linguistiques visés, selon le cas :
+
+a) à l'article 2 de la loi du 30 juillet 1938 concernant l'usage des langues à l'armée;
+
+b) aux articles 3 et 4 de la même loi;
+
+c) à l'article 8, § 1er, de la même loi ou être exempté de cet examen selon les dispositions de l'article 8, § 2, de la même loi.
+
+Le Roi fixe le contenu et les modalités de l'épreuve de passage visée à l'alinéa 3, 3°.
+
+----------
+
+(1)&lt;L 2018-04-30/07, art. 25, 006; En vigueur : 27-08-2018&gt;
+
+(2)&lt;L 2022-11-24/07, art. 9, 010; En vigueur : 01-04-2023&gt;
+
+(3)&lt;L 2025-12-08/07, art. 58, 011; En vigueur : 01-01-2026&gt;
+
+### Section 2. - Du passage
+
+#### Art. 20
+
+A sa demande et aux conditions que le Roi détermine parmi les conditions visées à l'article 19, le militaire BDL peut être admis comme militaire de carrière dans la catégorie de personnel correspondant à celle à laquelle il appartient comme militaire BDL.
+
+#### Art. 21
+
+Le militaire BDL est admis comme militaire de carrière avec son grade et son ancienneté dans ce grade. Il est classé à la suite des militaires de carrière de même grade et de même ancienneté dans ce grade.
+
+### Section 3. - De la promotion sociale
+
+#### Art. 22
+
+A sa demande et aux conditions que le Roi détermine parmi les conditions visées à l'article 19, peut effectuer une promotion sociale vers la catégorie ou le niveau de personnel BDL supérieur :
+
+1° le volontaire BDL, pour acquérir la qualité de sous-officier BDL du niveau C;
+
+2° le sous-officier BDL du niveau C, pour acquérir la qualité d'officier BDL du niveau B.
+
+### Section 4. - De la promotion sur diplôme
+
+#### Art. 23
+
+A sa demande et aux conditions que le Roi détermine parmi les conditions visées à l'article 19, peut effectuer une promotion sur diplôme :
+
+1° le volontaire BDL, pour acquérir, selon le cas, la qualité de sous-officier de carrière du niveau B ou C;
+
+2° le sous-officier BDL du niveau C, pour acquérir la qualité d'officier de carrière du niveau B [<sup>1</sup> ...]<sup>1</sup>;
+
+[<sup>1</sup> 2° /1 le sous-officier BDL du niveau C, pour acquérir la qualité de sous-officier de carrière du niveau B;]<sup>1</sup>
+
+3° le sous-officier BDL du niveau B, pour acquérir la qualité d'officier de carrière du niveau A;
+
+4° l'officier BDL du niveau B, pour acquérir la qualité d'officier de carrière du niveau A.
+
+----------
+
+(1)&lt;L 2022-11-24/07, art. 11, 010; En vigueur : 01-04-2023&gt;
+
+## CHAPITRE 9. - De l'admission dans le cadre de réserve
+
+#### Art. 24
+
+Le militaire BDL qui n'est pas admis dans une autre catégorie de personnel du cadre actif conformément aux dispositions du chapitre 8, dont l'engagement a expiré ou est résilié sur demande après avoir réussi sa période d'instruction, est admis de plein droit pour une durée de dix ans dans le cadre de réserve dans la catégorie de personnel correspondant à la catégorie de militaire BDL à laquelle il appartenait.
+
+#### Art. 25
+
+Le militaire BDL est admis dans le cadre de réserve avec son grade et son ancienneté dans ce grade. Il est classé à la suite des militaires de réserve de même grade et de même ancienneté dans ce grade.
+
+## CHAPITRE 10. - De la période de fin de carrière
+
+#### Art. 26
+
+La période de fin de carrière d'un militaire BDL débute, selon le cas :
+
+1° à la demande du militaire concerné, au plus tôt le premier jour du soixante-et-unième mois de service actif;
+
+2° de plein droit, le premier jour de la [<sup>1</sup> quatrième année de la prolongation de son engagement]<sup>1</sup>;
+
+3° de plein droit, le premier jour de la mise à disposition en vue du transfert auprès d'un autre employeur public.
+
+La mise à disposition visée à l'alinéa 1er, 3°, peut débuter au plus tôt le premier jour du soixante-et-unième mois de service actif, et au plus tard le premier jour de la dernière année de l'engagement du militaire BDL.
+
+Toutefois, dans le cas du militaire BDL qui a terminé un nouveau cycle de formation de base, dans le cadre d'une promotion sociale pour laquelle il été agréé par [<sup>2</sup> l'autorité désignée par le Roi]<sup>2</sup>, la période de fin de carrière débute, selon le cas :
+
+1° à la demande du militaire concerné, au plus tôt le premier jour du soixante-et-unième mois de service actif à partir du jour auquel a débuté le nouveau cycle de formation de base;
+
+2° de plein droit, le premier jour de la [<sup>1</sup> quatrième année de la prolongation de son nouvel engagement]<sup>1</sup>;
+
+3° de plein droit, le premier jour de la mise à disposition en vue d'un transfert auprès d'un autre employeur public.
+
+La mise à disposition visée à l'alinéa 3, 3°, peut débuter au plus tôt le premier jour du soixante-et-unième mois de service actif et au plus tard le premier jour de la dernière année de son nouvel engagement.
+
+----------
+
+(1)&lt;L 2018-07-19/20, art. 8, 005; En vigueur : 24-09-2018&gt;
+
+(2)&lt;L 2018-04-30/07, art. 26, 006; En vigueur : 27-08-2018&gt;
+
+#### Art. 27
+
+Dans les cas visés à l'article 26, alinéa 1er, 1°, et alinéa 3, 1°, la demande du militaire BDL doit être introduite auprès de l'autorité désignée par le Roi au plus tard trois mois avant le mois où le militaire BDL souhaite débuter sa période de fin de carrière.
+
+[<sup>1</sup> Le militaire BDL peut revenir une fois sur sa demande. Cette demande devient toutefois irrévocable la veille du début du congé d'orientation, visé à l'article 31.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-07-19/20, art. 9, 005; En vigueur : 24-09-2018&gt;
+
+#### Art. 28
+
+Sous réserve de l'application des dispositions de l'article 7, alinéa 1er, 3°, la période de fin de carrière dure un an dans les cas visés à l'article 26, alinéa 1er, 1° et 2°, et alinéa 3, 1° et 2°.
+
+[<sup>1</sup> Toutefois, dans le cas visé à l'article 26, alinéa 1er, 1°, et alinéa 3, 1°, la durée de la période de fin de carrière correspond, à la demande du militaire BDL, à la durée restante de son engagement en cours.]<sup>1</sup>
+
+Dans le cas visé à l'article 26, alinéa 1er, 3°, et alinéa 3, 3°, la durée de la période de fin de carrière correspond à la durée de la période de mise à disposition en vue d'un transfert.
+
+----------
+
+(1)&lt;L 2018-07-19/20, art. 10, 005; En vigueur : 24-09-2018&gt;
+
+#### Art. 29
+
+§ 1er. [<sup>1</sup> ...]<sup>1</sup> au terme de la période de fin de carrière, le militaire BDL bénéficie d'une prime de reclassement. En fonction de la durée totale des services accomplis en qualité de militaire BDL, cette prime varie entre trois et [<sup>1</sup> quatorze]<sup>1</sup> fois le montant du dernier traitement mensuel perçu.
+
+Le Roi fixe le montant ainsi que les modalités et la procédure d'octroi de la prime de reclassement visée à l'alinéa 1er.
+
+Les dispositions de l'alinéa 1er ne s'appliquent pas au militaire BDL qui a été transféré auprès d'un autre employeur public.
+
+§ 2. Au début de la période de fin de carrière visée à l'article 26, alinéa 1er, 1° et 2°, [<sup>1</sup> et alinéa 3, 1° et 2°,]<sup>1</sup> le militaire BDL bénéficie d'une phase d'information qui comprend, dans l'ordre suivant :
+
+1° une séance d'information collective, [<sup>1</sup> ...]<sup>1</sup> destinée à lui fournir toutes les informations nécessaires à l'accomplissement d'un processus de [<sup>1</sup> reconversion]<sup>1</sup> professionnelle aussi bien pendant qu'après sa période de fin de carrière;
+
+2° un entretien d'évaluation individuel, [<sup>1</sup> ...]<sup>1</sup> afin de lui permettre d'évaluer ses atouts et ses chances de trouver un emploi en dehors de la Défense, d'établir le cas échéant un plan de formations qualifiantes complémentaires, ainsi qu'un programme personnalisé d'orientation de carrière.
+
+[<sup>1</sup> La séance d'information collective et l'entretien d'évaluation individuel sont organisés par :
+
+1° la Défense en collaboration avec les organismes publics compétents en matière de reconversion professionnelle, pour le militaire BDL avec moins de quatre-vingt-quatre mois de service actif, pour le cas visé à l'article 26, alinéa 1er, 1°, et alinéa 3, 1° ;
+
+2° la Défense en collaboration avec le bureau de reconversion professionnelle chargé de la reconversion professionnelle des militaires BDL concernés via un programme individualisé d'outplacement, pour le militaire BDL avec minimum quatre-vingt-quatre mois de service actif, pour le cas visé à l'article 26, alinéa 1er, 1° et 2°, et alinéa 3, 1° et 2°.]<sup>1</sup>
+
+La phase d'information débute le premier jour de la période de fin de carrière et dure [<sup>1</sup> un mois]<sup>1</sup>.
+
+§ 3. [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-07-19/20, art. 11, 005; En vigueur : 24-09-2018&gt;
+
+#### Art. 30
+
+Pendant la période de fin de carrière visée à l'article 26, alinéa 1er, 1° et 2°, [<sup>1</sup> et alinéa 3, 1° et 2°,]<sup>1</sup> le militaire BDL peut bénéficier selon les modalités et procédure fixées par le Roi :
+
+1° d'un congé de formation de maximum cent-vingt heures;
+
+2° d'un crédit de formation de maximum 1 850 euros.
+
+L'exercice d'une activité professionnelle est autorisé pendant le congé de formation visé à l'alinéa 1er, 1°.
+
+Le montant fixé à l'alinéa 1er, 2°, est adapté conformément à la loi du 1er mars 1977 organisant un régime de liaison à l'indice des prix à la consommation du Royaume de certaines dépenses dans le secteur public. Ce montant correspond à l'indice-pivot 138,01 (base 1981=100).
+
+----------
+
+(1)&lt;L 2018-07-19/20, art. 12, 005; En vigueur : 24-09-2018&gt;
+
+#### Art. 31
+
+[<sup>1</sup> Le militaire BDL, dont l'engagement n'a pas été résilié de plein droit ou d'office, conformément aux articles 16 et 18, peut bénéficier d'un congé d'orientation d'un mois qui débute, selon le cas :
+
+1° au plus tard le dernier mois de sa période de fin de carrière, pour le militaire BDL avec moins que quatre-vingt-quatre mois de service actif, pour le cas visé à l'article 26, alinéa 1er, 1°, et alinéa 3, 1° ;
+
+2° au plus tard cinq mois avant la fin de sa période de fin de carrière, pour le militaire BDL avec minimum quatre-vingt-quatre mois de service actif, pour le cas visé à l'article 26, alinéa 1er, 1° et 2°, et alinéa 3, 1° et 2°.
+
+Le congé d'orientation débute toujours le premier jour ouvrable d'un mois et au plus tôt le premier jour ouvrable du mois qui suit la fin de la phase d'information.
+
+Pendant le congé d'orientation sont organisées, en collaboration avec les organismes compétents en la matière, les activités qui permettent d'établir le bilan des capacités du militaire BDL et de faciliter sa reconversion professionnelle. Le programme de ces activités est fixé à l'issue de l'entretien d'évaluation visé à l'article 29, § 2, alinéa 1er, 2°, de commun accord entre le militaire BDL et, selon le cas, l'institution visée à l'article 29, § 2, alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-07-19/20, art. 13, 005; En vigueur : 24-09-2018&gt;
+
+(2) pas en français
+
+#### Art. 31bis.
+
+[<sup>1</sup> Dans le cadre de la période de fin de carrière visée à l'article 26, alinéa 1er, 1° et 2°, et alinéa 3, 1° et 2°, le militaire BDL avec minimum quatre-vingt-quatre mois de service actif, dont l'engagement n'a pas été résilié d'office ou de plein droit, bénéficie automatiquement après son congé d'orientation d'un congé de reclassement de maximum quatre mois.
+
+Toutefois, en cas d'absence pour motif de santé d'une durée supérieure à un mois, l'autorité désignée par le Roi peut prolonger le congé de reclassement et la période de fin de carrière d'une durée égale à la durée de l'absence pour motif de santé, avec un maximum de deux mois.
+
+Pendant le congé de reclassement sont organisées, en collaboration, avec le bureau de reconversion professionnelle les activités qui permettent d'assister le militaire BDL dans sa recherche d'une nouvelle activité professionnelle.
+
+Le congé de reclassement et la période de fin de carrière prennent fin, selon le cas :
+
+1° dès que le militaire BDL entame une nouvelle activité professionnelle, sauf si celle-ci est exercée en cumul avec les activités de reconversion professionnelle;
+
+2° à la demande du militaire BDL qui résilie son engagement avant la fin de son congé de reclassement;
+
+3° de plein droit, conformément à l'article 16, alinéa 1er, 8°.
+
+La date à laquelle le militaire BDL entame une nouvelle activité professionnelle correspond, selon le cas, à la date à laquelle il :
+
+1° entame en tant que salarié un contrat de travail à durée indéterminée ou un contrat équivalent;
+
+2° prouve, par un document officiel, qu'il exerce une activité de travailleur indépendant à titre principal;
+
+3° est agréé comme fonctionnaire dans un service public, en stage ou non.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-19/20, art. 14, 005; En vigueur : 24-09-2018&gt;
+
+(2) pas en français
+
+#### Art. 32
+
+A sa demande, le militaire BDL peut être transféré en qualité d'agent statutaire vers les emplois vacants ouverts par les employeurs publics, à condition :
+
+1° que sa candidature soit agréée;
+
+2° d'être, à la date du début des épreuves de sélection, en service actif;
+
+3° de ne pas occuper, à la date à laquelle sa mise à disposition prend cours, [<sup>1</sup> ou à la date du transfert lorsqu'il n'y a pas de mise à disposition,]<sup>1</sup> une fonction dont la rémunération n'est pas supportée par le budget de la Défense;
+
+4° de se trouver, à la date à laquelle sa mise à disposition prend cours, [<sup>1</sup> ou à la date du transfert lorsqu'il n'y a pas de mise à disposition,]<sup>1</sup> à plus d'un an de la date normale de la fin de son engagement;
+
+5° de ne pas déjà être, à la date à laquelle sa mise à disposition prend cours, [<sup>1</sup> ou à la date du transfert lorsqu'il n'y a pas de mise à disposition,]<sup>1</sup> ainsi que pendant la période de douze mois préalable à cette date :
+
+a) sélectionné par un employeur public dans le cadre d'un transfert;
+
+b) mis à disposition d'un employeur public dans le cadre d'un transfert;
+
+6° de ne pas se trouver, à la date du début des épreuves de sélection, dans une des formes d'engagement opérationnel que le Roi fixe et de ne pas faire effectivement partie d'un détachement qui se prépare en vue d'un tel engagement;
+
+7° de ne pas être, à la date à laquelle sa mise à disposition prend cours, [<sup>1</sup> ou à la date du transfert lorsqu'il n'y a pas de mise à disposition,]<sup>1</sup> affecté dans un organisme international ou interallié.
+
+En fonction des besoins d'encadrement, la candidature du militaire BDL qui satisfait aux conditions visées à l'alinéa 1er peut être refusée par l'autorité désignée par le Roi, afin de garantir le bon fonctionnement et la continuité des forces armées. Ce refus peut faire l'objet d'un recours auprès du ministre de la Défense.
+
+Si une procédure de comparution devant la commission militaire d'aptitude et de réforme ou devant la commission militaire d'aptitude et de réforme d'appel a été entamée, cette procédure est suspendue aussi longtemps que le militaire est mis à disposition. Si le militaire BDL est transféré, la procédure précitée est terminée de plein droit.
+
+----------
+
+(1)&lt;L 2017-11-12/07, art. 52, 004; En vigueur : 01-01-2018&gt;
+
+#### Art. 33
+
+Dans le cas où il est mis fin prématurément à la mise à disposition préalable au transfert visé à l'article 162/3 de la loi du 28 février 2007 précitée [<sup>1</sup> , ou dans le cas de la réintégration visée à l'article 6, alinéa 2, de la loi du 12 novembre 2017 relative aux assistants et agents de sécurisation de police et portant modification de certaines dispositions concernant la police]<sup>1</sup>, le militaire BDL concerné bénéficie de plein droit du congé d'orientation visé à l'article 31.
+
+[<sup>1</sup> Dans les cas visés à l'alinéa 1er, [<sup>2</sup> le congé d'orientation]<sup>2</sup> débute le jour qui suit celui où il est mis fin à la mise à disposition ou le jour qui suit celui de la réintégration.]<sup>1</sup>
+
+[<sup>2</sup> L'entretien d'évaluation individuel visé à l'article 29, § 2, alinéa 1er, 2°, est organisé durant les cinq premiers jours ouvrables du congé d'orientation.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2017-11-12/07, art. 53, 004; En vigueur : 01-01-2018&gt;
+
+(2)&lt;L 2018-07-19/20, art. 16, 005; En vigueur : 24-09-2018&gt;
+
+#### Art. 34
+
+La convocation aux épreuves de sélection organisées par l'employeur public en vue de la mise à disposition visée à l'article 26, alinéa 1er, 3°, [<sup>1</sup> et alinéa 3, 3°,]<sup>1</sup> ouvre le droit aux dispenses de service requises pour la participation aux épreuves et examens.
+
+----------
+
+(1)&lt;L 2018-07-19/20, art. 17, 005; En vigueur : 24-09-2018&gt;
+
+## CHAPITRE 11. - Dispositions modificatives et abrogatoires
+
+#### Art. 35
+
+Dans l'article 2 de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des forces armées, modifié par la loi du 31 juillet 2013, les modifications suivantes sont apportées :
+
+a) l'alinéa 1er est complété par le 7° rédigé comme suit :
+
+" 7° les militaires et candidats militaires recrutés pour une carrière à durée limitée ";
+
+b) l'alinéa 3 est complété par le 5° rédigé comme suit :
+
+" 5° pour les militaires et candidats-militaires recrutés pour une carrière à durée limitée, par la loi du 30 août 2013 instituant la carrière militaire à durée limitée ".
+
+#### Art. 36
+
+Les articles 45, 46, 47 et 56 de la loi du 10 janvier 2010 instituant l'engagement volontaire militaire et modifiant diverses lois applicables au personnel militaire sont abrogés.
+
+## CHAPITRE 12. - Dispositions transitoires
+
+#### Art. 37
+
+§ 1er. A partir de la date d'entrée en vigueur de la présente disposition, le militaire en engagement volontaire militaire qui a réussi le cycle de formation de base peut introduire auprès de l'autorité désignée par le Roi, et selon les modalités qu'Il fixe, une demande d'admission :
+
+1° s'il est officier en engagement volontaire militaire, comme officier BDL du niveau B;
+
+2° s'il est sous-officier en engagement volontaire militaire, comme sous-officier BDL du niveau C;
+
+3° s'il est volontaire en engagement volontaire militaire, comme volontaire BDL.
+
+§ 2. Pour pouvoir introduire sa demande d'admission, le militaire en engagement volontaire militaire visé au paragraphe 1er doit satisfaire aux conditions suivantes :
+
+1° être agréé par l'autorité que le Roi désigne;
+
+2° avoir reçu une évaluation positive de l'autorité que le Roi désigne, selon les modalités qu'Il fixe;
+
+3° pour l'officier en engagement volontaire militaire, avoir réussi l'examen visé à l'article 3, § 1er, de la loi du 30 juillet 1938 concernant l'usage des langues à l'armée, au plus tard au moment où il introduit sa demande d'admission.
+
+Le militaire en engagement volontaire militaire admis dans la qualité de militaire BDL est nommé dans le dernier grade auquel il était commissionné comme militaire en engagement volontaire militaire, le vingt-sixième jour du dernier mois du trimestre au cours duquel il a satisfait aux conditions visées à l'alinéa 1er.
+
+§ 3. A partir de la date d'entrée en vigueur de la présente disposition, le militaire court terme qui a réussi le cycle de formation de base est admis de plein droit :
+
+1° s'il est officier court terme, comme officier BDL du niveau B;
+
+2° s'il est sous-officier court terme, comme sous-officier BDL du niveau C;
+
+3° s'il est volontaire court terme, comme volontaire BDL.
+
+Le militaire court terme admis dans la qualité de militaire BDL est nommé dans le dernier grade auquel il était commissionné comme militaire court terme, le vingt-sixième jour du dernier mois du trimestre au cours duquel il est admis.
+
+#### Art. 38
+
+L'ancienneté dans le grade dans lequel le militaire en engagement volontaire militaire et le militaire court terme sont nommés conformément à l'article 37 ne peut prendre cours à une date antérieure à celle des militaires BDL, selon la catégorie de personnel dans laquelle ils sont admis.
+
+Le Roi fixe les modalités relatives à la prise de cours de cette ancienneté.
+
+#### Art. 39
+
+Le militaire en engagement volontaire militaire et le militaire court terme admis dans la qualité de militaire BDL signent un engagement d'une durée de maximum cinq ans comme militaire BDL.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-07-19/20, art. 18, 005; En vigueur : 24-09-2018&gt;
+
+## CHAPITRE 13. - Entrée en vigueur
+
+#### Art. 40
+
+Le Roi fixe la date d'entrée en vigueur de chacune des dispositions de la présente loi, au plus tard le 31 décembre 2013.
+
+(NOTE : Entrée en vigueur fixée au 31-12-2013, à l'exception de l'article 4, qui produit ses effets le 01-10-2013, par AR 2013-11-07/37, art. 122, 1°)
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 30 août 2013.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de la Défense,
+
+P. DE CREM
+
+Le Ministre des Pensions,
+
+A. DE CROO
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

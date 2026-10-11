@@ -1,0 +1,54 @@
+---
+title: "Loi modifiant le Code des impôts sur les revenus 1992, en ce qui concerne la déductibilité d'impôts, taxes et rétributions régionaux"
+identifier: "2013003442"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/21/2013003442/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2013-12-21
+published: 2013-12-31
+entry_into_force: 2016-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2013/12/21/2013003442/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 21 DECEMBRE 2013. - Loi modifiant le Code des impôts sur les revenus 1992, en ce qui concerne la déductibilité d'impôts, taxes et rétributions régionaux
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+Dans l'article 198, § 1er, 5°, du Code des impôts sur les revenus 1992, rétabli par la loi 24 décembre 2002 et modifié par la loi-programme du 22 juin 2012, les mots "et autres que ceux instaurés par les Régions pour l'usage de véhicules ou pour l'usage de la voie publique" sont insérés entre les mots "des Communautés et des Régions" et les mots ", ainsi que les accroissements".
+
+## Art. 3
+
+La présente loi entre en vigueur à l'expiration de la perception du droit d'usage visé à l'article 17, 2°, de l'Accord relatif à la perception d'un droit d'usage pour l'utilisation de certaines routes par des véhicules utilitaires lourds, signé à Bruxelles le 9 février 1994, entre les Gouvernements de la République fédérale d'Allemagne, du Royaume de Belgique, du Royaume du Danemark, du grand-duché de Luxembourg et du Royaume des Pays-Bas et instaurant une Eurovignette, conformément à la Directive 93/89/CEE du Conseil des Communautés européennes du 25 octobre 1993, et au plus tôt le 1er janvier 2016.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 21 décembre 2013.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre des Finances,
+
+K. GEENS
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

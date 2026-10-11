@@ -1,0 +1,446 @@
+---
+title: "Loi relative à la Sixième Réforme de l'Etat concernant les matières visées à l'article 78 de la Constitution"
+identifier: "2014200332"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/06/2014200332/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2014-01-06
+published: 2014-01-31
+entry_into_force: 2014-07-01
+last_amended: 2024-07-09
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2014/01/06/2014200332/justel"
+department: "Chancellerie du Premier Ministre"
+justel_note: "Consultation des versions antérieures à partir du 31-01-2014 et mise à jour au 09-07-2024"
+retrieved: 2026-10-11
+---
+
+# 6 JANVIER 2014. - Loi relative à la Sixième Réforme de l'Etat concernant les matières visées à l'article 78 de la Constitution
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## TITRE 1er. - Disposition générale
+
+#### Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## TITRE 2. - Renforcement de la politique de sécurité à Bruxelles
+
+### CHAPITRE 1er. - Modifications de la loi provinciale
+
+#### Art. 2
+
+Dans l'article 5 de la loi provinciale, remplacé par la loi du 16 juillet 1993 et modifié par la loi du 1er juillet 1994, les modifications suivantes sont apportées :
+
+1° le paragraphe 1er est abrogé;
+
+2° au paragraphe 2, alinéa 1er, les mots ", outre le commissaire du gouvernement fédéral, gouverneur, prévu au § 1er," sont abrogés;
+
+3° le paragraphe 2, alinéa 5, est abrogé;
+
+4° le paragraphe 2, alinéa 8, est remplacé par ce qui suit :
+
+"Pour le surplus, son statut est identique à celui du commissaire du gouvernement fédéral, gouverneur de province.";
+
+5° le paragraphe 3 est remplacé par ce qui suit :
+
+" § 3. Le vice-gouverneur est assisté par des membres du personnel de l'Etat mis à sa disposition par le gouvernement fédéral. Il a la direction de ce personnel.".
+
+### CHAPITRE 2. - Modification de la loi du 21 décembre 1998 portant création de la "Coopération technique belge" sous la forme d'une société de droit public
+
+#### Art. 3
+
+Dans l'article 22, § 7, alinéa 1er, 6°, de la loi du 21 décembre 1998 portant création de la "Coopération technique belge" sous la forme d'une société de droit public, les mots "les commissaires du gouvernement fédéral, portant les titres de gouverneur et de vice-gouverneur, institués dans l'arrondissement administratif de Bruxelles-Capitale" sont remplacés par les mots "le commissaire du gouvernement fédéral, portant le titre de vice-gouverneur, institué dans l'arrondissement administratif de Bruxelles-Capitale".
+
+### CHAPITRE 3. - Modifications de la loi du 21 juin 2002 relative au Conseil central des Communautés philosophiques non confessionnelles de Belgique, aux délégués et aux établissements chargés de la gestion des intérêts matériels et financiers des communautés philosophiques non confessionnelles reconnues
+
+#### Art. 4
+
+Dans l'article 8, alinéa 1er, 6°, de la loi du 21 juin 2002 relative au Conseil central des Communautés philosophiques non confessionnelles de Belgique, aux délégués et aux établissements chargés de la gestion des intérêts matériels et financiers des communautés philosophiques non confessionnelles reconnues, modifié par la loi du 27 mars 2006, les mots "le gouverneur et" sont abrogés.
+
+#### Art. 5
+
+Dans l'article 32 de la même loi, les mots "ou au gouverneur de l'arrondissement administratif de Bruxelles-Capitale" sont abrogés.
+
+#### Art. 6
+
+Dans l'article 42, alinéa 4, de la même loi, les mots "de la province concernée ou de l'arrondissement administratif de Bruxelles-Capitale" sont remplacés par les mots "de province".
+
+#### Art. 7
+
+Dans l'article 43, alinéa 3, de la même loi, les mots "de la province concernée ou de l'arrondissement administratif de Bruxelles-Capitale" sont remplacés par les mots "de province".
+
+## TITRE 3. - Modifications légales en matière des transferts de compétences en matière de mobilité et de sécurité routière
+
+### CHAPITRE 1er. - Modification de la loi du 5 août 1992 sur la fonction de police
+
+#### Art. 8
+
+L'article 15 de la loi du 5 août 1992 sur la fonction de police, modifié par la loi du 7 décembre 1998, est complété par un alinéa rédigé comme suit :
+
+"Cet article est également applicable aux infractions aux règlements relatifs à la police de la circulation routière qui sont sanctionnées administrativement.".
+
+### CHAPITRE 2. - Modifications de la loi du 6 décembre 2005 relative à l'établissement et au financement de plans d'action en matière de sécurité routière
+
+#### Art. 9
+
+Dans l'article 2 de la loi du 6 décembre 2005 relative à l'établissement et au financement de plans d'action en matière de sécurité routière, les mots ", à l'exception de celles visées à l'article 2bis de la loi spéciale du 16 janvier 1989 relative au financement des communautés et des régions," sont insérés entre le mot "criminelle" et le mot "sont".
+
+#### Art. 10
+
+Dans l'article 5, § 1er, de la même loi, modifié par les lois des 8 juin 2008 et 23 décembre 2009, le 1° est remplacé par ce qui suit :
+
+"1° le total des recettes dont question à l'article 2 est diminué du montant de ces recettes en 2002 et augmenté de 181.100.000 euros.
+
+Le montant de ces recettes en 2002 est lié à l'indice des prix à la consommation, qui a été atteint le 31 décembre 2002 et est adapté le 1er janvier de chaque année à l'indice des prix à la consommation atteint le 31 décembre de l'année précédente.
+
+Le montant de 181.100.000 euros est lié à l'indice des prix à la consommation, qui a été atteint le 31 décembre 2011 et est adapté le 1er janvier de chaque année à l'indice des prix à la consommation atteint le 31 décembre de l'année précédente.".
+
+## TITRE 4. - Fonds de participation
+
+#### Art. 11
+
+L'article 73 de la loi du 28 juillet 1992 portant des dispositions fiscales et financières, modifié par les lois du 10 février 1998 et du 4 mai 1999, dont le texte existant constituera le paragraphe 1er, est complété par un paragraphe 2, rédigé comme suit :
+
+" § 2. Le Fonds de participation est dissous le 1er juillet 2014. A compter de cette date, toutes les pièces émanant du Fonds de participation feront état de la liquidation du Fonds. La liquidation est assurée par un conseil d'administration composé conformément à l'article 66 de la loi spéciale du 6 janvier 2014 relative à la Sixième Réforme de l'Etat.".
+
+#### Art. 12
+
+Dans le titre II, chapitre VI, de la même loi, il est inséré un article 73bis, rédigé comme suit :
+
+"Art. 73bis. Au plus tard le 1er juillet 2014, le Fonds de Participation constitue, seul, trois sociétés, nommées :
+
+1° Fonds de participation - Flandre;
+
+2° Fonds de participation - Wallonie;
+
+3° Fonds de participation - Bruxelles.
+
+Les sociétés sont soumises aux dispositions du Code des sociétés qui sont applicables aux sociétés anonymes pour tout ce qui n'est pas expressément autrement prévu par ou en vertu de la loi ou, vu la nature spéciale de la société, par ses statuts.".
+
+#### Art. 13
+
+L'article 74 de la même loi est complété par un paragraphe 5, rédigé comme suit :
+
+" § 5. A compter de la date visée à l'article 73, § 2, l'activité du Fonds de participation en liquidation est limitée conformément à l'article 66 de la loi spéciale du 6 janvier 2014 relative à la Sixième Réforme de l'Etat.".
+
+#### Art. 14
+
+Le chapitre VI de la même loi est abrogé le 1er juillet 2022.
+
+#### Art. 15
+
+[<sup>1</sup> Dans l'article 180 du Code des impôts sur les revenus 1992, modifié en dernier lieu par la loi du 21 décembre 2013, le 5° bis est complété par les mots ", le Fonds de participation - Flandre, le Fonds de participation - Wallonie et le Fonds de participation - Bruxelles.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-05-08/14, art. 110, 002; En vigueur : 07-06-2014&gt;
+
+## TITRE 5. - Modifications de la législation en matière de pensions dans le cadre du transfert de compétence en matière de fonction publique
+
+### CHAPITRE 1er. - Mesure en matière de congés
+
+#### Art. 16
+
+Par dérogation à l'article 2 de la loi du 10 janvier 1974 réglant l'admissibilité de certains services et périodes assimilées à l'activité de service pour l'octroi et le calcul des pensions à charge du Trésor public, le temps durant lequel un membre du personnel d'une institution fédérale, communautaire ou régionale est placé dans une situation visée à l'article 2, § 1er, 2° à 4°, de la loi précitée du 10 janvier 1974 sur la base d'une disposition de son statut publiée après l'entrée en vigueur de la présente loi, n'est pris en considération pour l'octroi et le calcul de la pension de retraite qu'à la condition que la disposition en question ait été ajoutée, par un arrêté royal délibéré en Conseil des ministres, à la liste annexée à la présente loi.
+
+Par "membre du personnel d'une institution fédérale, communautaire ou régionale", il y a lieu d'entendre un membre du personnel d'une administration fédérale, communautaire ou régionale, un membre du personnel de la Chambre des représentants, du Sénat ou d'un Parlement de communauté ou de région, ou un membre du personnel admis aux subventions-traitements d'une communauté, dont la pension est à charge de l'Etat fédéral ou du régime de pension instauré par la loi du 28 avril 1958 relative à la pension des membres du personnel de certains organismes d'intérêt public et de leurs ayants droit.
+
+### CHAPITRE 2. - Mesure transitoire
+
+#### Art. 17
+
+Si l'autorité fédérale compétente en matière de pension a marqué son accord sur une disposition statutaire visée à l'article 16, une inscription sur la liste visée à cet article n'est pas exigée.
+
+## TITRE 6. - Modifications de la législation relative à la représentation des régions dans le comité de gestion de l'Office national de l'emploi
+
+#### Art. 18
+
+Dans la loi du 25 avril 1963 sur la gestion des organismes d'intérêt public de sécurité sociale et de prévoyance sociale, il est inséré un article 3ter, rédigé comme suit :
+
+"Art. 3ter. Le comité de gestion de l'Office national de l'emploi est en outre constitué de membres qui représentent les services régionaux de l'emploi, désignés par les gouvernements des régions et, en cas d'application de l'article 139 de la Constitution, par le gouvernement de la Communauté germanophone, à savoir :
+
+a) un membre désigné par le Gouvernement flamand;
+
+b) un membre désigné par le Gouvernement de la Région wallonne;
+
+c) un membre désigné par le Gouvernement de la Région de Bruxelles-Capitale;
+
+d) un membre désigné par le Gouvernement de la Communauté germanophone, en cas d'application de l'article 139 de la Constitution.
+
+Ces membres n'ont pas le droit de vote.".
+
+#### Art. 19
+
+L'article 28, § 1er, de la loi du 26 juin 2002 relative aux fermetures d'entreprises est remplacé comme suit :
+
+" § 1er. Le Fonds est administré par un comité de gestion composé des membres qui, en application de l'article 2 de la loi du 25 avril 1963 sur la gestion des organismes d'intérêt public de sécurité sociale et de prévoyance sociale, siègent dans le comité de gestion de l'Office national de l'emploi. L'administrateur général de l'Office national de l'emploi et son adjoint sont chargés de la gestion journalière du Fonds.".
+
+## TITRE 7. - Dissolution du Fonds de réduction du coût global de l'énergie
+
+#### Art. 20
+
+Le Fonds de réduction du coût global de l'énergie, créé en vertu du chapitre VIII "Développement durable - Création du Fonds de réduction du coût global de l'énergie" du titre III "Dispositions diverses" de la loi-programme du 27 décembre 2005, est dissout le 1er janvier 2015.
+
+#### Art. 21
+
+Dans le titre III "Dispositions diverses" de la loi-programme du 27 décembre 2005, le chapitre VIII "Développement durable - Création du Fonds de réduction du coût global de l'énergie", comportant les articles 28 à 39, est abrogé le 1er janvier 2015.
+
+Le contrat de gestion entre l'Etat belge et le Fonds de réduction du coût global de l'énergie, fixé par l'arrêté royal du 6 juillet 2009, est prolongé jusqu'au 31 décembre 2014.
+
+## TITRE 8. - Modifications de la loi du 31 août 1939 sur l'Office national du Ducroire
+
+#### Art. 22
+
+A l'article 12 de la loi du 31 août 1939 sur l'Office national du Ducroire, remplacé par la loi du 24 décembre 2002, sont apportées les modifications suivantes :
+
+1° au paragraphe 1er, alinéa 1er, le mot "dix-huit" est remplacé par le mot "dix".
+
+2° au paragraphe 1er, l'alinéa 2 est remplacé par ce qui suit :
+
+"Le président et le vice-président sont nommés par le Roi, sur avis conforme du gouvernement de chaque région, dans les milieux particulièrement concernés par le développement du commerce extérieur.";
+
+3° au paragraphe 1er, l'alinéa 4 est remplacé par ce qui suit :
+
+"Quatre membres et quatre suppléants sont nommés sur la proposition des ministres qui ont respectivement dans leurs attributions les Finances, les Affaires étrangères, l'Economie et la Coopération au développement. Ces membres ou leurs suppléants représentent au conseil d'administration le ministre qui les a proposés.";
+
+4° au paragraphe 1er, l'alinéa 5 est remplacé par ce qui suit :
+
+"Trois membres et trois suppléants sont nommés respectivement sur proposition du gouvernement flamand, du gouvernement wallon et du gouvernement de la Région de Bruxelles-Capitale. Chaque région propose un membre et un suppléant. Ces membres et leurs suppléants représentent au conseil d'administration le gouvernement qui les a proposés.";
+
+5° au paragraphe 1er, l'alinéa 6 est remplacé par ce qui suit :
+
+"Le mandat du président, du vice-président, des membres et des suppléants est de cinq ans; il est renouvelable. Le Roi peut mettre fin au mandat de tout administrateur par un arrêté délibéré en Conseil des ministres, pris après concertation du gouvernement de chaque région pour les mandats visés à l'alinéa 2 et pris sur proposition du gouvernement de la région concernée pour les mandats visés aux alinéas 3 et 5.";
+
+6° au paragraphe 2, l'alinéa 1er est remplacé par ce qui suit :
+
+"Le conseil d'administration comprend autant de membres d'expression française que de membres d'expression néerlandaise. En ce qui concerne le président et le vice-président ainsi que les membres effectifs et suppléants proposés par le gouvernement de la Région de Bruxelles-Capitale en vertu du § 1er, alinéas 3 et 5, l'un est d'expression française et l'autre d'expression néerlandaise.";
+
+7° au paragraphe 2, l'alinéa 2 est abrogé.
+
+#### Art. 23
+
+Dans l'article 13 de la même loi, les mots "des Affaires économiques" sont chaque fois remplacés par les mots "de l'Economie".
+
+## TITRE 9. - Modifications de la législation relative au Fonds d'équipement et de services collectifs
+
+#### Art. 24
+
+L'article 107 des lois relatives aux allocations familiales pour travailleurs salariés, coordonnées par l'arrêté royal du 19 décembre 1939, remplacé par la loi du 22 février 1998 et modifié par la loi du 25 janvier 1999, est abrogé.
+
+#### Art. 25
+
+La loi du 21 avril 2007 modifiant l'article 107 des lois coordonnées relatives aux allocations familiales pour travailleurs salariés, est abrogée.
+
+## TITRE 10. - Modification du Code d'instruction criminelle
+
+#### Art. 26
+
+L'article 606 du Code d'instruction criminelle, rétabli par la loi du 15 mai 2006, est remplacé comme suit :
+
+"Art. 606. Les personnes qui, à la suite d'un dessaisissement prononcé sur base de l'article 57bis de la loi 8 avril 1965 relative à la protection de la jeunesse, à la prise en charge des mineurs ayant commis un fait qualifié infraction et à la réparation du dommage causé par ce fait, font l'objet d'un mandat d'arrêt, sont placées dans un centre communautaire pour mineurs ayant commis un fait qualifié infraction.
+
+Si les mêmes personnes font l'objet d'une condamnation à une peine d'emprisonnement principal ou accessoire, elles exécutent cette peine dans l'aile punitive d'un centre communautaire pour mineurs ayant commis un fait qualifié infraction.
+
+Toutefois, si ces personnes sont âgées de dix-huit ans ou plus et qu'au moment du placement ou ultérieurement, le nombre de places dans les centres communautaires est insuffisant, elles sont placées dans un établissement pénitentiaire pour adultes. Elles sont également placées ou renvoyées dans un établissement pénitentiaire pour adultes lorsqu'elles sont âgées de vingt-trois ans ou plus.
+
+Si le jeune de dix-huit ans accomplis cause des troubles graves au sein du centre ou met en danger l'intégrité des autres jeunes ou du personnel du centre, l'autorité communautaire compétente peut adresser au ministre de la Justice un rapport circonstancié. Celui-ci peut alors renvoyer le jeune dans un établissement pénitentiaire pour adultes.".
+
+## TITRE 11. - Personnel du Sénat
+
+#### Art. 27
+
+Ceux qui, le jour de la publication de la présente loi dans le Moniteur belge, sont membres statutaires du personnel du Sénat peuvent, avec leur accord, être mis à disposition d'un employeur public ou être transférés auprès d'un employeur public.
+
+Par employeur public, il faut entendre tout service public fédéral, en ce compris les autorités visées à l'article 14, § 1er, 2°, des lois coordonnées sur le Conseil d'Etat, ainsi que les institutions qui en dépendent.
+
+Sont également considérées comme employeur public, les entreprises publiques autonomes visées à la loi du 21 mars 1991 portant réforme de certaines entreprises publiques et toute institution qui dépend de l'autorité fédérale.
+
+Le membre du personnel qui est mis à disposition, exerce ses fonctions sous l'autorité de l'employeur public et est rémunéré par le Sénat. Il garde son lien juridique avec le Sénat dont il reste membre du personnel.
+
+Par transfert, il faut entendre l'intégration du membre du personnel du Sénat comme fonctionnaire auprès de l'employeur public.
+
+L'employeur public définit les critères auxquels le membre du personnel du Sénat doit satisfaire pour entrer en considération pour une mise à disposition ou un transfert.
+
+La mise à disposition et le transfert font l'objet d'un accord entre le Sénat et l'employeur public.
+
+L'accord définit :
+
+1° le cas échéant, la durée et les règles complémentaires de la mise à disposition, en ce compris la prise en charge, cotisations patronales comprises, du traitement, des allocations, des indemnités, des primes, des avantages de toute nature, des avantages sociaux et des allocations familiales des membres du personnel mis à disposition;
+
+2° la fixation du grade, du niveau et l'échelle de traitement applicable au personnel de l'employeur public, dont sera revêtu le membre du personnel;
+
+3° la fixation du régime de travail;
+
+4° la durée et le contenu de la formation et du stage éventuels;
+
+5° les avantages pécuniaires que l'employeur public octroie au membre du personnel, en application du statut propre au dit employeur public;
+
+6° la procédure et les critères d'évaluation applicables durant la formation et le stage éventuels;
+
+7° les règles relatives à la responsabilité civile de l'employeur public;
+
+8° la date de transfert;
+
+9° la procédure de transfert.
+
+Une copie du règlement de travail et des statuts applicables aux membres du personnel statutaire de l'employeur public est remise au membre du personnel.
+
+## TITRE 12. - Entrée en vigueur
+
+#### Art. 28
+
+La présente loi entre en vigueur le 1er juillet 2014 à l'exception des articles 24 et 25 qui entrent en vigueur le 31 décembre 2014 et de l'article 27 qui entre en vigueur le jour de la publication de la présente loi dans le Moniteur belge.
+
+## ANNEXE.
+
+#### Art. N
+
+Liste des dispositions statutaires visées à l'article 16
+
+Modifiée par:
+
+&lt;AR 2016-07-06/02, art. 1, 003; En vigueur : 27-04-2016&gt;
+
+&lt;AR 2018-12-02/03, art. 1, 004; En vigueur : 02-09-2016&gt;
+
+&lt;AR 2018-12-02/04, art. 1, 005; En vigueur : 01-01-2017&gt;
+
+&lt;AR 2018-12-02/06, art. 1,1°, 006; En vigueur : 23-07-2015&gt;
+
+&lt;AR 2018-12-02/06, art. 1,2°, 006; En vigueur : 01-07-2016&gt;
+
+&lt;AR 2018-12-02/06, art. 1,3°, 006; En vigueur : 01-01-2017&gt;
+
+&lt;AR 2019-03-23/04, art. 1, 007; En vigueur : 01-01-2015&gt;
+
+&lt;AR 2020-07-31/06, art. 1, 008; En vigueur : 01-05-2020&gt;
+
+&lt;AR 2021-08-29/13, art. 1, 009; En vigueur : 01-01-2021&gt;
+
+&lt;AR 2021-11-26/05, art. 1, 010; En vigueur : 01-02-2021&gt;
+
+&lt;AR 2024-06-26/09, art. 1,1°, 011; En vigueur : 20-06-2015&gt;
+
+&lt;AR 2024-06-26/09, art. 1,2°, 011; En vigueur : 01-01-2013&gt;
+
+&lt;AR 2024-06-26/09, art. 1,3°, 011; En vigueur : 10-08-2016&gt;
+
+&lt;AR 2024-06-26/09, art. 1,4°, 011; En vigueur : 01-08-2017&gt;
+
+&lt;AR 2024-06-26/09, art. 1,5°, 011; En vigueur : 02-09-2016&gt;
+
+&lt;AR 2024-06-26/09, art. 1,6°, 011; En vigueur : 02-09-2016&gt;
+
+&lt;AR 2024-06-26/09, art. 1,7°, 011; En vigueur : 01-01-2014&gt;
+
+&lt;AR 2024-06-26/09, art. 1,8°, 011; En vigueur : 01-01-2014&gt;
+
+&lt;AR 2024-06-26/09, art. 1,9°, 011; En vigueur : 01-01-2017&gt;
+
+&lt;AR 2024-06-26/09, art. 1,10°, 011; En vigueur : 01-01-2018&gt;
+
+&lt;AR 2024-06-26/09, art. 1,11°, 011; En vigueur : 01-09-2017&gt;
+
+&lt;AR 2024-06-26/09, art. 1,12°, 011; En vigueur : 01-09-2017&gt;
+
+&lt;AR 2024-06-26/09, art. 1,13°, 011; En vigueur : 01-09-2017&gt;
+
+&lt;AR 2024-06-26/09, art. 1,14°, 011; En vigueur : 01-01-2014&gt;
+
+&lt;AR 2024-06-26/09, art. 1,15°, 011; En vigueur : 01-01-2019&gt;
+
+&lt;AR 2024-06-26/09, art. 1,16°, 011; En vigueur : 02-09-2016&gt;
+
+&lt;AR 2024-06-26/09, art. 1,17°, 011; En vigueur : 02-09-2016&gt;
+
+&lt;AR 2024-06-26/09, art. 1,18°, 011; En vigueur : 01-01-2019&gt;
+
+&lt;AR 2024-06-26/09, art. 1,19°, 011; En vigueur : 01-04-2019&gt;
+
+&lt;AR 2024-06-26/09, art. 1,20°, 011; En vigueur : 01-07-2020&gt;
+
+&lt;AR 2024-06-26/09, art. 1,21°, 011; En vigueur : 11-06-2018&gt;
+
+&lt;AR 2024-06-26/09, art. 1,22°, 011; En vigueur : 01-04-2018&gt;
+
+&lt;AR 2024-06-26/09, art. 1,23°, 011; En vigueur : 01-04-2018&gt;
+
+&lt;AR 2024-06-26/09, art. 1,24°, 011; En vigueur : 01-01-2019&gt;
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 6 janvier 2014.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Premier Ministre,
+
+E. DI RUPO
+
+Le Ministre de l'Economie,
+
+J. VANDE LANOTTE
+
+La Ministre de l'Intérieur et de l'Egalité des chances,
+
+Mme J. MILQUET
+
+La Ministre des Affaires sociales,
+
+Mme L. ONKELINX
+
+La Ministre des Classes moyennes,
+
+Mme S. LARUELLE
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM
+
+La Ministre de l'Emploi,
+
+Mme M. DE CONINCK
+
+Pour le Ministre des Entreprises publiques, de la Politique scientifique et de la Coopération au développement, absent :
+
+La Vice-Première Ministre et Ministre des Affaires sociales et de la Santé publique,
+
+Mme L. ONKELINX
+
+Le Ministre des Finances, chargé de la Fonction publique,
+
+K. GEENS
+
+Le Secrétaire à l'Environnement et à la Mobilité et aux Réformes institutionnelles,
+
+M. WATHELET
+
+Le Secrétaire d'Etat aux Affaires sociales et aux Familles,
+
+Ph. COURARD
+
+Le Secrétaire d'Etat aux Réformes institutionnelles,
+
+S. VERHERSTRAETEN
+
+Le Secrétaire d'Etat à la Fonction publique,
+
+H. BOGAERT
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

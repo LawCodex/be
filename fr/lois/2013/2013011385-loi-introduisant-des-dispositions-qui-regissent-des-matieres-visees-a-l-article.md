@@ -1,0 +1,66 @@
+---
+title: "Loi introduisant des dispositions qui régissent des matières visées à l'article 77 de la Constitution, dans la loi du 17 août 2013 relative à la prospection, l'exploration et l'exploitation des ressources des fonds marins et leur sous-sol au-delà des limites de la juridiction nationale"
+identifier: "2013011385"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/30/2013011385/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2013-07-30
+published: 2013-09-16
+entry_into_force: 2013-09-26
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2013/07/30/2013011385/justel"
+department: "Economie, PME, Classes moyennes et Energie"
+retrieved: 2026-10-11
+---
+
+# 30 JUILLET 2013. - Loi introduisant des dispositions qui régissent des matières visées à l'article 77 de la Constitution, dans la loi du 17 août 2013 relative à la prospection, l'exploration et l'exploitation des ressources des fonds marins et leur sous-sol au-delà des limites de la juridiction nationale
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## Art. 1er
+
+La présente loi règle une matière visée à l'article 77 de la Constitution.
+
+## Art. 2
+
+Dans la loi du 17 août 2013 relative à la prospection, l'exploration et l'exploitation de ressources des fonds marins et leur sous-sol au-delà des limites de la juridiction nationale, il est inséré un article 15/1, rédigé comme suit :
+
+" Art. 15/1. Les infractions aux dispositions de la présente loi et de ses arrêtés d'exécution, aux dispositions de la Convention, aux règles, règlements et procédures de l'Autorité et au contrat que le contractant a conclu avec l'Autorité pour des activités dans la Zone sont traitées conformément l'article 12bis de la loi du 17 avril 1878 contenant le titre préliminaire du Code de procédure pénale. ".
+
+## Art. 3
+
+Dans l'article 569 du Code judiciaire, modifié en dernier lieu par la loi du 22 décembre 2008, sont apportées les modifications suivantes :
+
+1° l'alinéa 1er est complété comme suit :
+
+" 43° des demandes introduites en vertu de la loi du 17 août 2013 relative à la prospection, l'exploration et l'exploitation de ressources des fonds marins et leur sous-sol au-delà des limites de la juridiction nationale. ";
+
+2° à l'alinéa 2, les mots " et 37° " sont remplacés par les mots " , 37° et 43° ".
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 30 juillet 2013.
+
+PHILIPPE
+
+Par le Roi :
+
+Le Ministre de l'Economie et de la Mer du Nord,
+
+J. VANDE LANOTTE
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM
+
+Scellé du sceau de l'Etat :
+
+La Ministre de la Justice,
+
+Mme A. TURTELBOOM

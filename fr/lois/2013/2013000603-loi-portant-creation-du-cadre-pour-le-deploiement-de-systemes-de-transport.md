@@ -1,0 +1,334 @@
+---
+title: "Loi portant création du cadre pour le déploiement de systèmes de transport intelligents [...])"
+identifier: "2013000603"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/2013/08/17/2013000603/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 2013-08-17
+published: 2013-09-19
+entry_into_force: 2012-02-27
+last_amended: 2026-07-30
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/2013/08/17/2013000603/justel"
+department: "Intérieur"
+justel_note: "Consultation des versions antérieures à partir du 19-09-2013 et mise à jour au 30-07-2026"
+retrieved: 2026-10-11
+---
+
+# 17 AOUT 2013. - Loi portant création du cadre pour le déploiement de systèmes de transport intelligents [...])
+
+PHILIPPE, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE 1er. - Dispositions générales
+
+### Art. 1er
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+### Art. 2
+
+[<sup>1</sup> La présente loi transpose partiellement la directive 2010/40/UE concernant le cadre pour le déploiement de systèmes de transport intelligents dans le domaine du transport routier et d'interfaces avec d'autres modes de transport, modifiée par la directive (UE) 2023/2661 du Parlement européen et du Conseil du 22 novembre 2023 modifiant la directive 2010/40/UE concernant le cadre pour le déploiement de systèmes de transport intelligents dans le domaine du transport routier et d'interfaces avec d'autres modes de transport]<sup>1</sup>.
+
+La présente loi crée le cadre visant à soutenir le déploiement et l'utilisation coordonnés et cohérents de systèmes de transport intelligents (STI) et fixe les règles générales nécessaires à cette fin.
+
+[<sup>1</sup> Cette loi prévoit également en sa article 6/1 la disponibilité des données et le déploiement de services STI dans les domaines prioritaires fixés à l'article 5. ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-06-25/07, art. 4, 002; En vigueur : 09-08-2026&gt;
+
+## CHAPITRE 2. - Définitions
+
+### Art. 3
+
+Dans la présente loi et ses arrêtés d'exécution, il y a lieu d'entendre par :
+
+1\. " systèmes de transport intelligents " ou " STI " : les systèmes dans lesquels des technologies de l'information et de la communication sont appliquées, dans le domaine du transport routier, y compris les infrastructures, les véhicules et les usagers, et dans la gestion de la circulation et la gestion de la mobilité, ainsi que pour les interfaces avec d'autres modes de transport;
+
+2\. [<sup>1</sup> 2. "interopérabilité" : la capacité des systèmes et des processus industriels qui les sous-tendent à échanger des données et à partager des informations et des connaissances, permettant la continuité des services STI ]<sup>1</sup>;
+
+3\. " application STI " : un instrument opérationnel pour l'application des STI;
+
+4\. [<sup>1</sup> "service STI" : la mise en place d'une application STI dans un cadre organisationnel et opérationnel clairement défini en vue d'améliorer la sécurité de l'utilisateur, l'efficacité, la mobilité durable ou le confort, ou de faciliter ou de soutenir les opérations de transport et de voyage ]<sup>1</sup>;
+
+5\. " prestataire de services STI " : tout prestataire public ou privé d'un service STI;
+
+6\. " utilisateur des STI " : tout utilisateur d'applications ou de services STI, notamment les voyageurs, les usagers vulnérables de la route, les usagers et les exploitants des infrastructures de transport routier, les gestionnaires de flottes et les opérateurs de services d'urgence;
+
+7\. " usagers vulnérables de la route " : les usagers non motorisés comme les piétons et les cyclistes, ainsi que les motocyclistes et les personnes handicapées ou les personnes à mobilité ou à orientation réduites;
+
+8\. " dispositif nomade " : un dispositif de communication ou d'information portable qui peut être apporté dans le véhicule pour accompagner la conduite et/ou les opérations de transport;
+
+9\. " plate-forme " : une unité embarquée ou non permettant le déploiement, la fourniture, l'exploitation et l'intégration d'applications et de services STI;
+
+10\. " architecture " : la définition conceptuelle de la structure, du comportement et de l'intégration d'un système donné dans son environnement;
+
+11\. " interface " : un mécanisme d'articulation mis en place entre les systèmes, qui leur permet de communiquer et d'interagir;
+
+12\. " compatibilité " : la capacité générale d'un dispositif ou d'un système à fonctionner avec un autre dispositif ou système sans modification;
+
+13\. " continuité des services " : la capacité à assurer, dans toute l'Union, des services sans interruption sur les réseaux de transport;
+
+14.[<sup>1</sup> "données routières" : les données relatives aux caractéristiques de l'infrastructure routière, y compris les panneaux de signalisation fixes et leurs attributs réglementaires liés à la sécurité, ainsi que l'infrastructure de recharge et de ravitaillement en carburants alternatifs ]<sup>1</sup>;
+
+15\. " données concernant la circulation " : les données historiques et en temps réel relatives aux caractéristiques de la circulation routière;
+
+16\. " données concernant les déplacements " : les données de base, telles que les horaires et tarifs des transports publics, nécessaires à la communication, avant et pendant le trajet, d'informations pour un déplacement multimodal afin de faciliter la planification, la réservation et l'adaptation du déplacement;
+
+17\. " spécification " : une mesure contraignante assortie de dispositions contenant des exigences, des procédures ou toute autre règle pertinente;
+
+18\. [<sup>1</sup> "norme" : une norme au sens de l'article 2, point 1), du règlement (UE) n° 1025/2012 du Parlement européen et du Conseil du 25 octobre 2012 relatif à la normalisation européenne ]<sup>1</sup>;
+
+19\. " service d'urgence " : tout service public ou d'intérêt public visé à l'article 107, § 1er, alinéa 1er, ou fixé par le Roi conformément à l'article 107, § 1er, alinéa 2, 1°, de la loi du 13 juin 2005 relative aux communications électroniques;
+
+[<sup>1</sup> 19/1. "communication d'urgence" : une communication effectuée au moyen de services de communications interpersonnelles, entre un utilisateur final et un " PSAP " défini ci-après, dont le but est de recevoir de l'aide d'urgence de la part de services d'urgence, telle que visée à l'article 2, 60°, de la loi du 13 juin 2005 relative aux communications électroniques ; ]<sup>1</sup>
+
+20\. [<sup>1</sup> 20. centre de gestion des appels d'urgence" ou "PSAP" ("public safety answering point") : un lieu physique où est réceptionnée initialement une communication d'urgence sous la responsabilité d'une autorité publique ou d'un organisme privé reconnu, tel que visé à l'article 2, 61°, de la loi du 13 juin 2005 relative aux communications électroniques ]<sup>1</sup>.
+
+[<sup>1</sup> 20/1. "zone d'activité d'un PSAP" : zone géographique pour laquelle un PSAP gère toutes les communications d'urgence vers le service d'urgence, tel que visée à l'article 2, 62°, de la loi du 13 juin 2005 relative aux communications électroniques ; ]<sup>1</sup>
+
+[<sup>1</sup> 20/2. "PSAP le plus approprié" : un PSAP établi par les autorités compétentes pour prendre en charge les communications d'urgence provenant d'une certaine zone ou les communications d'urgence d'un certain type, tel que visé à l'article 2, 62° /1, de la loi du 13 juin 2005 relative aux communications électroniques .]<sup>1</sup>
+
+[<sup>1</sup> 20/3. "PSAP eCall" : le PSAP le plus approprié, préalablement désigné par les autorités compétentes pour recevoir et traiter les appels "eCall", tel que visé au règlement délégué (UE) n° 305/2013, dont l'article 2, d), définit le terme "PSAP eCall" ; ]<sup>1</sup>
+
+21\. [<sup>1</sup> eCall" (dénommé dans la directive 2010/40/UE : "service d'appel d'urgence (eCall) interopérable dans toute l'Union") : un appel d'urgence vers le numéro 112 depuis un véhicule, effectué soit automatiquement par l'activation de capteurs embarqués, soit manuellement, qui achemine un ensemble minimal de données standardisé et établit une communication audio entre le véhicule et le PSAP eCall par les réseaux publics de communication mobile sans fil, aussi appelé "eCall public", tel que visé à l'article 2, h), du règlement délégué (UE) n° 305/2013 ]<sup>1</sup> ;
+
+22.[<sup>1</sup> eCall privé" ou "TPS eCall" (third party services supported eCall) : un appel d'urgence en provenance d'un véhicule vers le numéro d'un prestataire privé de service STI, effectué soit automatiquement par l'activation de capteurs embarqués dans le véhicule, soit manuellement, qui transmet un ensemble minimal de données standardisé et établit une communication audio entre le véhicule et la centrale d'alarme du prestataire privé qui traite l'eCall privé, grâce à des réseaux publics de communication mobile sans fil, tel que visé à l'article 3,10), du règlement délégué (UE) n° 2015/758 ]<sup>1</sup>;
+
+23\. " valeur de catégorie de service d'urgence " : la valeur de 8 bits utilisée pour des appels d'urgence provenant de réseaux mobiles pour indiquer le type particulier d'appel d'urgence (1-Police, 2-Ambulance, 3-Pompiers, 4-Garde maritime, 5-Secours en montagne, 6-Appel eCall déclenché manuellement, 7-Appel eCall déclenché automatiquement, 8-Libre), tel qu'indiqué dans le tableau 10.5.135d conformément à la spécification ETSI TS 124.008;
+
+24\. " Discriminateur eCall " ou " drapeau eCall " : la " valeur de catégorie de service d'urgence " attribuée aux appels eCall selon ETS TS 1214 008 (à savoir " 6-Appel eCall déclenché manuellement " et " 7-Appel eCall déclenché automatiquement "), permettant de différencier les appels vers le 112 provenant de terminaux mobiles des appels eCall vers le numéro 112 provenant de terminaux embarqués dans des véhicules ainsi que les appels " eCall " déclenchés manuellement de ceux déclenchés automatiquement;
+
+25\. [<sup>1</sup> "ensemble minimal de données" ou "MSD" ("minimum set of data") : les informations contextuelles qui sont envoyées par le véhicule lors d'un eCall, définies par la norme "EN 15722", visée à l'article 2, j, du règlement délégué (UE) n° 305/2013 ]<sup>1</sup>;
+
+26.[<sup>1</sup> . "exploitant de réseau de communication électronique mobile", ou "MNO" ("mobile network operator") : un opérateur qui offre des services de communications électroniques mobiles et qui dispose d'un réseau d'accès radioélectrique propre, ainsi que de tous les éléments utiles à l'exploitation du réseau, tel que visé à l'article 2, 89°, de la loi du 13 juin 2005 relative aux communications électroniques ]<sup>1</sup>;
+
+27\. [<sup>1</sup> centrale d'alarme pour " eCalls privés "" : la centrale d'appels du prestataire privé de services STI qui traite l'eCall privé et qui, conformément à l'article 16 de la loi du 2 octobre 2017 réglementant la sécurité privée et particulière, a obtenu une autorisation à cet effet du Ministre de l'Intérieur ]<sup>1</sup>.
+
+[<sup>1</sup> 28. "systèmes de transport intelligents coopératifs" ou "STI-C" : des systèmes de transport intelligents qui permettent aux utilisateurs de STI d'interagir et de coopérer en échangeant des messages sécurisés et fiables, sans se connaître au préalable et de manière non discriminatoire ;
+
+29\. "service STI-C" : un service STI fourni par l'intermédiaire d'un STI-C ;
+
+30\. "disponibilité des données" : l'existence de données dans un format numérique lisible par machine ;
+
+31\. "point d'accès national" ou "NAP" ("national access point") : une interface numérique qui constitue un point d'accès unique aux données via les métadonnées enregistrées par des parties prenantes publiques ou privées ;
+
+32\. "accessibilité des données" : la possibilité de demander et d'obtenir des données dans un format numérique lisible par machine ;
+
+33\. "service numérique de mobilité multimodale" : un service fournissant des informations sur les données relatives à la circulation et aux déplacements, telles que la localisation des installations de transport, les horaires, les places disponibles ou les tarifs pour plusieurs modes de transport, qui peut comprendre des fonctionnalités permettant d'effectuer des réservations ou des paiements, ou encore d'émettre des billets ;
+
+34\. "informations sous-jacentes" : des informations relevant du champ d'application de la présente loi dont il a été déterminé qu'elles sont pertinentes pour informer les usagers de la route et de STI, en particulier par les autorités routières lorsqu'elles sont responsables de telles informations ;
+
+35\. "route principale" : une route située en dehors des zones urbaines, désignée par un Etat membre, qui relie les principales villes ou régions, ou les deux, et qui n'est pas considérée comme faisant partie du réseau routier transeuropéen global ou comme une autoroute ;
+
+36\. "accord de coopération STI" : l'accord de coopération du 15 juillet 2014 entre l'Etat belge, la Région flamande, la Région wallonne et la Région de Bruxelles-Capitale, relatif à la Directive 2010/40/UE concernant le cadre pour le déploiement de systèmes de transport intelligents dans le domaine du transport routier et d'interfaces avec d'autres modes de transport ;
+
+37\. "comité de pilotage STI" : instance de coopération entre les entités créée à l'article 1er de l'accord de coopération STI ;
+
+38\. "règlement délégué (UE) n° 305/2013" : le règlement délégué (UE) n° 305/2013 de la Commission du 26 novembre 2012 complétant la directive 2010/40/UE du Parlement européen et du Conseil en ce qui concerne la mise à disposition harmonisée d'un service d'appel d'urgence (eCall) interopérable dans toute l'Union européenne ;
+
+39\. "règlement (UE) n° 2015/758" : le règlement UE n° 2015/758 du Parlement européen et du Conseil du 29 avril 2015 concernant les exigences en matière de réception par type pour le déploiement du système eCall embarqué fondé sur le service 112. ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-06-25/07, art. 5, 002; En vigueur : 09-08-2026&gt;
+
+## CHAPITRE 3. - Champ d'application
+
+### Art. 4
+
+La présente loi s'applique aux applications et services STI dans le domaine du transport routier et aux interfaces avec d'autres modes de transport.
+
+[<sup>1</sup> L'application des spécifications adoptées par la Commission ainsi que le choix et le déploiement des applications et services STI, sans préjudice de l'article 6/1, se fondent sur une évaluation des besoins, à laquelle sont associées toutes les parties prenantes concernées, en conformité avec les principes selon lesquels ces mesures doivent :
+
+a) être efficaces - elles apportent une contribution tangible à la résolution des principaux problèmes du transport routier en Europe (tels que la réduction des embouteillages et des émissions polluantes, la gestion des situations d'urgence et des phénomènes météorologiques, l'amélioration de l'efficacité énergétique, le renforcement de la sûreté et de la sécurité, y compris pour les usagers de la route vulnérables) ;
+
+b) avoir un rapport coût - efficacité satisfaisant - elles optimisent le rapport entre les coûts et les moyens mis en oeuvre pour atteindre les objectifs ;
+
+c) être proportionnées - elles établissent, le cas échéant, différents niveaux réalisables en termes de qualité et de déploiement des services, en tenant compte des particularités locales, régionales, nationales et européennes ;
+
+d) favoriser la continuité des services - elles assurent que les services sont fournis sans interruption dans l'ensemble de l'Union, en particulier sur le réseau transeuropéen et, le cas échéant, à ses frontières extérieures, lorsque les services STI sont déployés. La continuité des services devrait être assurée à un niveau Adapté aux caractéristiques des réseaux de transport reliant les pays entre eux et, le cas échéant, les régions entre elles, et les villes avec les zones rurales ;
+
+e) réaliser l'interopérabilité - elles garantissent que les systèmes et les processus industriels qui les sous-tendent ont la capacité d'échanger des données et de partager des informations et des connaissances afin de faire en sorte que les services STI soient fournis de manière efficace ;
+
+f) respecter la comptabilité ascendante - elles permettent d'assurer, lorsque cela est justifié, que les systèmes STI ont la capacité d'interagir avec les systèmes existants dont ils partagent la finalité, sans entraver le développement de nouvelles technologies et tout en soutenant, le cas échéant, la complémentarité avec les nouvelles technologies ou la transition vers de nouvelles technologies ;
+
+g) respecter les particularités des infrastructures et des réseaux nationaux existants - elles tiennent compte des différences inhérentes aux caractéristiques des réseaux de transport, particulièrement en ce qui concerne le volume du trafic, les conditions météorologiques et les spécificités des infrastructures ;
+
+h) promouvoir l'égalité d'accès - elles n'opposent pas d'obstacles ou de discriminations en ce qui concerne l'accès des usagers de la route vulnérables aux applications et services STI. Le cas échéant, lorsque les applications et services STI sont destinés à assurer l'interface ou à fournir des informations aux utilisateurs de STI en situation de handicap, ceux-ci sont accessibles aux personnes en situation de handicap conformément aux exigences en matière d'accessibilité énoncées à l'article 121/4 de la loi du 13 juin 2005 relative aux communications électronique et l'arrêté royal du 13 septembre 2023 fixant les exigences et modalités d'accessibilité des utilisateurs finaux handicapés aux services de communications électroniques ;
+
+i) favoriser la maturité - elles font la démonstration, après une évaluation des risques appropriée, de la solidité des STI innovants grâce à un niveau suffisant de développement technique et d'exploitation opérationnelle ;
+
+j) apporter la qualité de la datation et du positionnement - elles garantissent la compatibilité des applications et services STI, qui dépendent de la datation et du positionnement, au moins avec les services de navigation fournis par Galileo, y compris le service d'authentification des messages de navigation en libre-service de Galileo et d'autres services Galileo tels que le service de haute précision, lorsque ce dernier sera disponible, et avec les systèmes du système européen de navigation par recouvrement géostationnaire (EGNOS). Le cas échéant, elles veillent à ce que les applications et services STI reposant sur des données d'observation de la Terre utilisent les données, informations ou services Copernicus. D'autres données et services peuvent également être utilisés en plus des données Copernicus ;
+
+k) faciliter l'intermodalité - elles prennent en compte la coordination des différents modes de transport, le cas échéant, lors du déploiement des STI ;
+
+l) respecter la cohérence - elles tiennent compte de la réglementation, des politiques et des activités qui existent au niveau De l'Union et qui sont pertinentes pour ce qui est des STI, particulièrement dans le domaine de la normalisation et, en ce qui concerne les spécifications, du principe de neutralité technologique tel que visé à l'article 7, 3°, de la loi du 13 juin 2005 relative aux communications électroniques ;
+
+m) garantissent la transparence et la confiance - elles garantissent la transparence en veillant par exemple à la transparence du classement, y compris concernant les effets sur l'environnement, lorsqu'il s'agit de proposer des options de mobilité aux clients]<sup>1</sup>.
+
+La présente loi et ses arrêtés d'exécution ne portent en aucun cas atteinte à tout ce qui concerne la sécurité nationale ou à tout ce qui est requis pour les objectifs de défense.
+
+[<sup>1</sup> Conformément à l'accord de coopération STI, les Administrations fédérales concernées coopèrent et se coordonnent avec les Administrations régionales concernées au sein du comité de pilotage STI, y compris avec les parties prenantes concernées telles que les fournisseurs de données, les utilisateurs de données et les prestataires de services STI. ]<sup>1</sup>
+
+[<sup>1</sup> Le cas échéant, les Administrations fédérales concernées coopèrent avec les autres Etats membres, y compris avec les parties prenantes concernées, dans les domaines prioritaires dans la mesure où aucune spécification n'a été adoptée en ce qui concerne ces domaines prioritaires. ]<sup>1</sup>
+
+[<sup>1</sup> Les Administrations fédérales concernées coopèrent également avec les autres pays membres et si nécessaire, avec les parties prenantes concernées, sur les aspects opérationnels de la mise en oeuvre des spécifications adoptées par la Commission, tels que les normes et les profils harmonisés au niveau de l'Union, les définitions communes, les métadonnées communes, les exigences de qualité et aspects qualitatifs communs liés à l'interopérabilité des architectures des NAP, les conditions communes d'échange de données, l'accès sécurisé et les activités communes de formation et de communication.
+
+En ce qui concerne les exigences relatives aux spécifications applicables aux parties prenantes, les Administrations fédérales concernées coopèrent également avec les autres Etats membres au sujet des pratiques permettant d'évaluer le respect de ces exigences, de l'élaboration de mécanismes de contrôle de ce respect et des questions relatives à la coopération transfrontière. ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-06-25/07, art. 6, 002; En vigueur : 09-08-2026&gt;
+
+## CHAPITRE 4. - Domaines prioritaires et actions prioritaires
+
+### Art. 5
+
+[<sup>1</sup> Pour l'application de la présente loi, les éléments suivants constituent des domaines prioritaires pour l'élaboration et l'utilisation de spécifications et de normes :
+
+I: services STI d'informations et de mobilité ;
+
+II: services STI de gestion des déplacements, des transports et de la circulation ;
+
+III: services STI liés à la sûreté et à la sécurité routières ;
+
+IV: services STI de mobilité coopérative, connectée et automatisée]<sup>1</sup>.
+
+Le Roi fixe la portée des domaines prioritaires visés au premier alinéa.
+
+----------
+
+(1)&lt;L 2026-06-25/07, art. 7, 002; En vigueur : 09-08-2026&gt;
+
+### Art. 6
+
+Dans le cadre des domaines prioritaires visés à l'article 5, premier alinéa, les actions suivantes sont prioritaires pour l'élaboration et l'utilisation de spécifications et de normes :
+
+a) la mise à disposition, dans l'ensemble de l'Union, de services d'informations sur les déplacements multimodaux;
+
+b) la mise à disposition, dans l'ensemble de l'Union, de services d'informations en temps réel sur la circulation;
+
+c) les données et procédures pour la fourniture, dans la mesure du possible, d'informations minimales universelles sur la circulation liées à la sécurité routière gratuites pour les usagers;
+
+d) la mise à disposition harmonisée d'un service d'appel d'urgence (eCall) interopérable dans toute l'Union;
+
+e) la mise à disposition de services d'informations concernant les aires de stationnement sûres et sécurisées pour les camions et les véhicules commerciaux;
+
+f) la mise à disposition de services de réservation concernant les aires de stationnement sûres et sécurisées pour les camions et les véhicules commerciaux.
+
+[<sup>1</sup> Dans le contexte tel que décrit au premier alinéa, le Roi fixe pour chacun des domaines prioritaires visé à l'article 5, premier alinéa, les actions prioritaires.]<sup>1</sup>.
+
+La mise à disposition harmonisée d'un service eCall tient compte des règles imposées par ou en application de la loi du 13 juin 2005 relative aux communications électroniques.
+
+La mise à disposition harmonisée d'un service eCall tient compte des règles imposées par ou en application de [<sup>1</sup> la loi du 2 octobre 2017 réglementant la sécurité privée et particulière pour ce qui concerne les eCalls privés]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-06-25/07, art. 8, 002; En vigueur : 09-08-2026&gt;
+
+## CHAPITRE 4/1. [<sup>1</sup> Disponibilité des données et déploiement des services STI ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-25/07, art. 9, 002; En vigueur : 09-08-2026&gt;
+
+### Art. 6/1
+
+[<sup>1</sup> Les Administrations fédérales concernées garantissent l'accessibilité et la disponibilité des données qui relèvent de leurs compétences par l'intermédiaire du NAP.
+
+Le Roi fixe les types de données et de services STI, ainsi que les délais et couvertures géographiques requis . ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-06-25/07, art. 9, 002; En vigueur : 09-08-2026&gt;
+
+## CHAPITRE 5. [<sup>1</sup> Règles relatives à la protection des données et à la vie privée ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-06-25/07, art. 10, 002; En vigueur : 09-08-2026&gt;
+
+### Art. 7
+
+[<sup>1</sup> § 1er, Les données à caractère personnel telles que définies à l'article 4, 1), du règlement (UE) 2016/679 du Parlement européen et du Conseil du 26 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données et à l'article 26, 1, de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard de traitements de données à caractère personnel, ne sont traitées, conformément à la présente loi, que dans la mesure où leur traitement est nécessaire pour le bon fonctionnement des applications, service et actions STI, en vue d'assurer la sécurité ou la sûreté routière et d'améliorer la gestion de la circulation, de la mobilité ou des incidents.
+
+§ 2. Lorsque l'anonymisation est techniquement possible et que les finalités du traitement des données peuvent être atteintes au moyen de données anonymisées, des données anonymisées sont utilisées.
+
+§ 3. Lorsque l'anonymisation n'est techniquement pas possible, ou que les finalités du traitement des données ne peuvent pas être atteintes au moyen de données anonymisées, les données sont pseudonymisées, pour autant que la pseudonymisation soit techniquement possible et que les finalités du traitement des données puissent être atteintes au moyen de données pseudonymisées ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-06-25/07, art. 11, 002; En vigueur : 09-08-2026&gt;
+
+## CHAPITRE 6. - Responsabilité
+
+### Art. 8
+
+[<sup>1</sup> Les articles 6.41 à 6.55 du Code civil relatifs à la responsabilité du fait des produits défectueux sont d'application pour tous les aspects relatifs à la responsabilité dans le cadre du déploiement et de l'utilisation d'applications et de services STI]<sup>1</sup>.
+
+L'application de la loi visée au premier alinéa, ne porte pas atteinte à l'application de la législation en matière de responsabilité civile et pénale.
+
+----------
+
+(1)&lt;L 2026-06-25/07, art. 12, 002; En vigueur : 09-08-2026&gt;
+
+## CHAPITRE 7. - Habilitation au roi
+
+### Art. 9
+
+Le Roi est habilité sous les conditions mentionnées dans le présent article, à compléter les lois fédérales, à les abroger ou à les remplacer pour les conformer aux exigences requises en matière de STI.
+
+L'habilitation visée au présent article ne peut être utilisée que moyennant le respect des conditions cumulatives suivantes :
+
+1\. l'utilisation de l'habilitation doit être nécessaire et proportionnée. Cette utilisation doit être signalée au Parlement dans un rapport écrit au plus tard un mois avant l'élaboration des dispositions concernées;
+
+2\. les dispositions pour lesquelles l'habilitation a été utilisée doivent faire l'objet d'un avis préalable de la Commission de la protection de la vie privée;
+
+3\. Les dispositions pour lesquelles l'habilitation, a été utilisée doivent faire l'objet d'une confirmation législative dans deux ans après leur entrée en vigueur.
+
+### Art. 10
+
+Il ne peut être fait usage de l'habilitation visée dans l'article 9pour compléter, abroger ou remplacer les dispositions de la présente loi.
+
+Par dérogation au premier alinéa, il peut être fait usage de l'habilitation pour compléter, abroger ou remplacer l'article 2, ainsi que les dispositions des chapitres de la présente loi relatifs au champ d'application, aux domaines prioritaires et actions prioritaires et aux définitions.
+
+Les dispositions pour lesquelles l'habilitation a été utilisée conformément au deuxième alinéa doivent faire l'objet d'une confirmation législative dans un an après leur entrée en vigueur.
+
+### Art. 11
+
+La méconnaissance des articles 9, deuxième alinéa, points 3 et 10, troisième alinéa rend sans effet les dispositions qui auraient été élaborées en faisant usage de l'habilitation dans de telles circonstances.
+
+## CHAPITRE 8.
+
+&lt;Abrogé par L 2026-06-25/07, art. 13, 002; En vigueur : 09-08-2026&gt;
+
+### Art. 12
+
+&lt;Abrogé par L 2026-06-25/07, art. 13, 002; En vigueur : 09-08-2026&gt;
+
+### Art. 13
+
+&lt;Abrogé par L 2026-06-25/07, art. 13, 002; En vigueur : 09-08-2026&gt;
+
+## CHAPITRE 9. - Dispositions exécutoires et finales
+
+### Art. 14
+
+&lt;Abrogé par L 2026-06-25/07, art. 14, 002; En vigueur : 09-08-2026&gt;
+
+### Art. 15
+
+La présente loi est dénommée " loi-cadre STI ".
+
+### Art. 16
+
+[<sup>1</sup> Les dispositions telles que modifiées par la loi du 25 juin 2026, sont entrées en vigueur le jour de la publication de la loi du 25 juin 2026 au Moniteur belge ]<sup>1</sup>.
+
+(1)&lt;W 2026-06-25/07, art. 14, 002; Inwerkingtreding : 09-08-2026&gt;
