@@ -1,0 +1,2622 @@
+---
+title: "Loi organique des services de renseignement et de sécurité"
+identifier: "1998007272"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1998/11/30/1998007272/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1998-11-30
+published: 1998-12-18
+entry_into_force: 1999-02-01
+last_amended: 2026-04-02
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1998/11/30/1998007272/justel"
+department: "Défense Nationale"
+justel_note: "Consultation des versions antérieures à partir du 18-12-1998 et mise à jour au 02-04-2026"
+retrieved: 2026-10-11
+---
+
+# 30 NOVEMBRE 1998. - Loi organique des services de renseignement et de sécurité
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE I. - Dispositions générales.
+
+##### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+##### Art. 2
+
+[<sup>1</sup> § 1.]<sup>1</sup> La présente loi s'applique à la Sûreté de l'Etat, Service civil de Renseignement et de Sécurité, et au [<sup>3</sup> Service Général du Renseignement et de la Sécurité]<sup>3</sup>, Service militaire de Renseignement et de Sécurité, qui sont les deux services de renseignement et de sécurité du Royaume.
+
+Dans l'exercice de leurs missions, ces services veillent au respect et contribuent à la protection des droits et libertés individuels, ainsi qu'au développement démocratique de la société.
+
+[<sup>1</sup> Les méthodes de recueil des données des services de renseignement et de sécurité visées à la présente loi ne peuvent être utilisées dans le but de réduire ou d'entraver les droits et libertés individuels.
+
+Toute mise en oeuvre d'une méthode spécifique ou exceptionnelle de recueil des données implique le respect des principes de subsidiarité et de proportionnalité.]<sup>1</sup> [<sup>5</sup> Lors de l'évaluation du principe de subsidiarité, il est tenu compte des risques que comporte l'exécution de la mission de renseignement pour la sécurité des agents et des tiers.]<sup>5</sup>
+
+[<sup>1</sup> § 2. Il est interdit aux services de renseignement et de sécurité d'obtenir, d'analyser ou d'exploiter des données protégées par le secret professionnel d'un avocat ou d'un médecin ou par le secret des sources d'un journaliste.
+
+A titre exceptionnel et lorsque le service en question dispose au préalable d'indices sérieux révélant que l'avocat, le médecin ou le journaliste participe ou a participé personnellement et activement à la naissance ou au développement de la menace potentielle, au sens des articles 7, 1° [<sup>4</sup> ...]<sup>4</sup> et 11, [<sup>5</sup> ou aux activités des services de renseignement étrangers sur le territoire belge]<sup>5</sup> il est permis d'obtenir, d'analyser ou d'exploiter ces données protégées.]<sup>1</sup>
+
+[<sup>2</sup> § 3. [<sup>5</sup> Sans préjudice de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité, de la loi du 11 avril 1994 relative à la publicité de l'administration et de la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel et à la requête de toute personne ayant un intérêt personnel et légitime qui relève de la juridiction belge, le dirigeant du service informe par écrit cette personne qu'elle a fait l'objet d'une méthode visée aux articles 18/12, 18/14 ou 18/17, à condition que:
+
+1° une période de plus de dix ans se soit écoulée depuis la fin de la méthode;
+
+2° la notification ne puisse nuire à une enquête de renseignement;
+
+3° aucun manquement aux obligations visées aux articles 13, alinéa 3 et 13/4, alinéa 2 ne soit commis;
+
+4° la notification ne puisse porter atteinte aux relations que la Belgique entretient avec des Etats étrangers et des institutions internationales ou supranationales.
+
+Dans l'hypothèse où la requête est irrecevable ou que la personne concernée n'a pas fait l'objet d'une méthode visée aux articles 18/12, 18/14 ou 18/17 ou lorsque les conditions pour la notification ne sont pas remplies, le dirigeant du service informe la personne qu'il n'y a pas lieu de donner suite à sa requête en application du présent paragraphe.
+
+Dans l'hypothèse où la requête est recevable, que la personne a fait l'objet d'une méthode visée aux articles 18/12, 18/14 ou 18/17 et que les conditions pour la notification sont remplies, le dirigeant du service lui indique la méthode mise en oeuvre et sa base légale.
+
+Le dirigeant du service de renseignement et de sécurité concerné informe le Comité permanent R de chaque requête d'information et de la réponse fournie, et transmet une motivation succincte. L'application de cette disposition fait l'objet du rapport du Comité permanent R à la Chambre des représentants visé à l'article 35, § 2, de la loi du 18 juillet 1991 organique du contrôle des services de police et de renseignement et de l'Organe de coordination pour l'analyse de la menace.
+
+Le Roi fixe, par arrêté délibéré en Conseil des ministres, après avis du Conseil national de sécurité, les modalités auxquelles la requête doit satisfaire.]<sup>5</sup>]<sup>2</sup>
+
+(NOTE : par son arrêt n° 145/2011 du 22-09-2011, (M.B. 12-12-2011, p. 72500-72559), la Cour constitutionnelle a annulé l'art. 2, § 3).
+
+(NOTE : par son arrêt n° 41/2019 du 14-03-2019, (M.B. 08-05-2019, p. 44070), la Cour constitutionnelle a annulé l'art. 2, § 3).
+
+----------
+
+(1)&lt;L 2010-02-04/26, art. 2, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2010-02-04/26, art. 2, 003; En vigueur : 01-03-2015&gt;
+
+(3)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(4)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(5)&lt;L 2017-03-30/11, art. 4, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 3
+
+La présente loi entend par :
+
+1° [<sup>5</sup> "Conseil national de sécurité": le Conseil créé au sein du Gouvernement, qui est chargé des tâches de sécurité nationale déterminées par le Roi;]<sup>5</sup>
+
+2° " agent " : tout membre du personnel statutaire ou contractuel et tout militaire exerçant ses fonctions au sein des services de renseignement et de sécurité visés à l'article 2;
+
+3° [<sup>5</sup> 3° "membre de l'équipe d'intervention":
+
+a) pour la Sûreté de l'Etat, l'agent visé aux articles 22 à 35 chargé de la protection du personnel, des infrastructures et des biens de la Sûreté de l'Etat;
+
+b) pour le Service Général du Renseignement et de la Sécurité, l'agent visé aux articles 22 à 35 chargé de la protection du personnel, des infrastructures et des biens du Service Général du Renseignement et de la Sécurité;]<sup>5</sup>
+
+4° " [<sup>4</sup> Service Général du Renseignement et de la Sécurité]<sup>4</sup> " : le [<sup>4</sup> Service Général du Renseignement et de la Sécurité]<sup>4</sup> [<sup>6</sup> des Forces armées]<sup>6</sup>.
+
+[<sup>1</sup> 5° " le Ministre " : le Ministre de la Justice en ce qui concerne la Sûreté de l'Etat, et le Ministre de la Défense en ce qui concerne le [<sup>4</sup> Service Général du Renseignement et de la Sécurité]<sup>4</sup>;
+
+6° " [<sup>6</sup> la Commission]<sup>6</sup> " : la commission administrative chargée de la surveillance des méthodes spécifiques et exceptionnelles de recueil de données des services de renseignement et de sécurité, créée par l'article 43/1;
+
+7° " le Comité permanent R " : le Comité permanent de contrôle des services de renseignement visé dans la loi du 18 juillet 1991 organique du contrôle des services de police et de renseignements et de l'Organe de coordination pour l'analyse de la menace;
+
+8° " le dirigeant du service " : d'une part, l'administrateur général de la Sûreté de l'Etat ou, en cas d'empêchement, l'administrateur général faisant fonction et, d'autre part, le chef du [<sup>4</sup> Service Général du Renseignement et de la Sécurité]<sup>4</sup> ou, en cas d'empêchement, le chef faisant fonction;
+
+[<sup>6</sup> 8° /1 "son délégué": l'agent, autre que le gestionnaire du dossier, désigné par décision écrite du dirigeant du service transmise au Comité permanent R, pour prendre habituellement certaines décisions à la place du dirigeant du service;]<sup>6</sup>
+
+9° [<sup>6</sup> " l'officier des méthodes "]<sup>6</sup> :
+
+a) pour la Sûreté de l'Etat, [<sup>8</sup> l'agent qui dispose du niveau A, désigné à cet effet par le dirigeant de service]<sup>8</sup>;
+
+b) pour le [<sup>4</sup> Service Général du Renseignement et de la Sécurité]<sup>4</sup>, l'officier affecté à ce service, ainsi que l'agent civil [<sup>8</sup> qui dispose du grade de niveau A, désigné à cet effet par le dirigeant de service]<sup>8</sup>;
+
+10° " communications " : toute transmission, émission ou réception de signes, de signaux, d'écrits, d'images, de sons ou de données de toute nature, par fil, radio-électricité, signalisation optique ou un autre système électromagnétique; les communications par téléphone, GSM, mobilophone, télex, télécopieur ou la transmission électronique de données par ordinateur ou réseau informatique, ainsi que toute autre communication privée [<sup>7</sup> , quelle que soit la nature de l'émetteur ou du récepteur]<sup>7</sup>;
+
+11° " réseaux de communications électroniques " : les réseaux de communications électroniques visés à l'article 2, 3°, de la loi du 13 juin 2005 relative aux communications électroniques;
+
+[<sup>5</sup> 11° /1 "fournisseur d'un service de communications électroniques": quiconque qui, de quelque manière que ce soit, met à disposition ou offre, sur le territoire belge, un service qui consiste en la transmission de signaux via des réseaux de communications électroniques ou qui permet aux utilisateurs, via un réseau de communications électroniques, d'obtenir, de recevoir ou de diffuser des informations;]<sup>5</sup>
+
+12° [<sup>5</sup> "lieu accessible au public": tout lieu, public ou privé, auquel le public peut avoir accès;]<sup>5</sup>
+
+[<sup>5</sup> 12° /1 "lieu non accessible au public non soustrait à la vue": tout lieu auquel le public n'a pas accès et qui est visible de tous à partir de la voie publique sans moyen ou artifice, à l'exception de l'intérieur des bâtiments non accessibles au public;]<sup>5</sup>
+
+13° " courrier " : l'envoi postal tel qu'il est défini à l'article 131, 6°, 7° et 11°, de la loi du 21 mars 1991 portant réforme de certaines entreprises publiques économiques;
+
+14° " moyen technique " : une configuration de composants qui détecte des signaux, les transmet, active leur enregistrement et enregistre les signaux, [<sup>5</sup> à l'exception d':
+
+a) un appareil utilisé pour la prise de photographies;
+
+b) un appareil mobile utilisé pour la prise d'images animées lorsque la prise de photographies ne permet pas de garantir la discrétion et la sécurité des agents et à la condition que cette utilisation ait été préalablement autorisée par le dirigeant du service ou son délégué. Seules les images fixes jugées pertinentes sont conservées. Les autres images sont détruites dans le mois qui suit le jour de l'enregistrement;]<sup>5</sup>
+
+15° " processus de radicalisation " : un processus influençant un individu ou un groupe d'individus de telle sorte que cet individu ou ce groupe d'individus soit mentalement préparé ou disposé à commettre des actes terroristes;
+
+16° " journaliste " : le journaliste admis à porter le titre de journaliste professionnel conformément à la loi du 30 décembre 1963 relative à la reconnaissance et à la protection du titre de journaliste professionnel;
+
+17° " secret des sources " : le secret tel qu'il est défini dans la loi du 7 avril 2005 relative à la protection des sources journalistes;
+
+18° [<sup>10</sup> ...]<sup>10</sup>
+
+[<sup>5</sup> 19° "objet verrouillé": un objet dont l'ouverture nécessite une fausse clé ou une effraction;
+
+20° "observation": la surveillance d'une ou de plusieurs personnes, de leur présence ou de leur comportement, de choses, lieux ou événements;
+
+21° "inspection": la pénétration, l'examen et la fouille d'un lieu ainsi que l'examen et la fouille d'un objet.]<sup>5</sup>
+
+[<sup>6</sup> 22° "faux nom": un nom qui n'appartient pas à l'agent et qui n'est pas attesté par une carte d'identité, un passeport, une carte d'étranger ou un document de séjour ou par des documents officiels en découlant;
+
+23° "fausse qualité": une qualité qui n'appartient pas à l'agent et dont il ne découle aucun effet juridique;
+
+24° "identité fictive": une fausse identité attestée par une carte d'identité, un passeport, une carte d'étranger ou un document de séjour;
+
+25° "qualité fictive": un statut, un titre ou une fonction n'appartenant pas à l'agent dont il découle des effets juridiques;
+
+26° "source humaine": une personne qui donne une information aux services de renseignement et de sécurité et qui est enregistrée conformément à la procédure visée dans la directive portant sur le recours à des sources humaines approuvée par le Conseil national de sécurité;
+
+27° "s'infiltrer": le fait pour un agent, en dehors des cas visés à l'article 18, de s'intégrer délibérément dans un groupe ou dans la vie d'une personne afin de recueillir des informations ou des données, dans le cadre d'une enquête d'un service de renseignement et de sécurité et dans l'intérêt de l'exercice de ses missions, soit dans le monde virtuel, soit dans le monde réel. Cet agent dissimule sa qualité d'agent des services de renseignement et de sécurité et, pour les agents du Service Général du Renseignement et de la Sécurité, de membre du ministère de la Défense, et:
+
+a) participe ou facilite les activités ou soutient activement les convictions ou les activités de la personne ou du groupe qui fait l'objet de l'enquête, ou
+
+b) entretient des relations durables avec ceux-ci;]<sup>6</sup>
+
+[<sup>9</sup> 28° "jour ouvrable": tous les jours, sauf les samedis, dimanches et jours fériés.]<sup>9</sup>
+
+----------
+
+(1)&lt;L 2010-02-04/26, art. 3, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2015-12-06/07, art. 4, 006; En vigueur : 28-01-2015&gt;
+
+(3)&lt;L 2016-04-21/06, art. 17, 009; En vigueur : 23-03-2017 (dispositions transitoires art. 92 et 93)&gt; (AR 2017-03-19/01, art. 1)
+
+(4)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(5)&lt;L 2017-03-30/11, art. 5, 012; En vigueur : 08-05-2017&gt;
+
+(6)&lt;L 2022-07-14/13, art. 2, 017; En vigueur : 15-08-2022&gt;
+
+(7)&lt;L 2022-07-20/14, art. 29, 018; En vigueur : 18-08-2022&gt;
+
+(8)&lt;L 2024-03-28/60, art. 125, 021; En vigueur : 08-04-2024&gt;
+
+(9)&lt;L 2024-05-16/57, art. 16, 023; En vigueur : 15-07-2024&gt;
+
+(10)&lt;L 2026-02-08/04, art. 58, 024; En vigueur : 26-02-2026&gt;
+
+## CHAPITRE II. - L'organisation et les missions.
+
+### Section 1. - De la Sûreté de l'Etat.
+
+##### Art. 4
+
+A l'intervention du Ministre de la Justice, la Sûreté de l'Etat accomplit ses missions conformément aux directives du [<sup>1</sup> Conseil national de sécurité]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2015-12-06/07, art. 6, 006; En vigueur : 28-01-2015&gt;
+
+##### Art. 5
+
+§ 1er. Pour l'exécution de ses missions, la Sûreté de l'Etat est placée sous l'autorité du Ministre de la Justice.
+
+§ 2. Toutefois, le Ministre de l'Intérieur peut requérir la Sûreté de l'Etat pour ce qui concerne l'exécution des missions prévues [<sup>1</sup> à l'article 7, 1°]<sup>1</sup>, lorsqu'elles ont trait au maintien de l'ordre public et à la protection des personnes.
+
+Dans ce cas, le Ministre de l'Intérieur, sans s'immiscer dans l'organisation du service, précise l'objet de la réquisition et peut faire des recommandations et donner des indications précises sur les moyens à mettre en oeuvre et les ressources à utiliser.
+
+Lorsqu'il est impossible de se conformer à ces recommandations et indications parce que leur exécution porterait atteinte à l'exécution d'autres missions, le Ministre de l'Intérieur en est informé dans les meilleurs délais. Cela ne dispense pas la Sûreté de l'Etat de l'obligation d'exécuter les réquisitions.
+
+§ 3. Le Ministre de la Justice est chargé de l'organisation et de l'administration générale de la Sûreté de l'Etat, en particulier en ce qui concerne les dépenses, l'administration du personnel et la formation, l'ordre intérieur et la discipline, les traitements et indemnités, ainsi que l'équipement.
+
+----------
+
+(1)&lt;L 2016-04-21/06, art. 18, 009; En vigueur : 23-03-2017 (dispositions transitoires art. 92 et 93) (AR 2017-03-19/01, art. 1)&gt;
+
+##### Art. 6
+
+§ 1er. Le Ministre de l'Intérieur est associé à l'organisation et à l'administration de la Sûreté de l'Etat, conformément aux §§ 2, 3 et 4, lorsque celles-ci ont une influence directe sur l'exécution des missions de maintien de l'ordre public et de protection des personnes.
+
+Si le Ministre de la Justice estime ne pas pouvoir donner suite à une demande du Ministre de l'Intérieur, il informe ce dernier de ses raisons.
+
+§ 2. La signature conjointe du Ministre de l'Intérieur est requise pour :
+
+1° tout projet de loi relatif à la Sûreté de l'Etat;
+
+2° tout projet d'arrêté réglementaire relatif à l'organisation générale de la Sûreté de l'Etat.
+
+§ 3. L'avis conforme du Ministre de l'Intérieur est requis pour :
+
+1° [<sup>1</sup> ...]<sup>1</sup>
+
+2° tout projet d'arrêté royal relatif à la nomination et à l'affectation des fonctionnaires généraux de la Sûreté de l'Etat;
+
+3° [<sup>1</sup> ...]<sup>1</sup>
+
+4° [<sup>1</sup> ...]<sup>1</sup>
+
+5° [<sup>1</sup> ...]<sup>1</sup>
+
+6° [<sup>1</sup> ...]<sup>1</sup>
+
+7° tout projet d'arrêté réglementaire relatif aux attributions spécifiques du fonctionnaire qui dirige la Sûreté de l'Etat.
+
+Le Ministre de l'Intérieur donne son avis dans le délai fixé par le Ministre de la Justice, ce délai ne pouvant être inférieur à vingt jours ouvrables. En cas d'urgence motivée, ce délai peut être ramené à cinq jours ouvrables. Passé ces délais, l'avis est réputé conforme. L'avis non conforme est motivé.
+
+§ 4. Le Roi détermine les matières relatives à l'organisation et à l'administration de la Sûreté de l'Etat, autres que celles visées aux §§ 2 et 3, et qui ont une influence directe sur l'exécution des missions de maintien de l'ordre public et de protection des personnes, pour lesquelles le Ministre de la Justice demande un avis au Ministre de l'Intérieur ou l'informe, ainsi que les modalités s'y rapportant.
+
+----------
+
+(1)&lt;L 2016-04-21/06, art. 19, 009; En vigueur : 23-03-2017 (dispositions transitoires art. 92 et 93) (AR 2017-03-19/01, art. 1)&gt;
+
+##### Art. 7
+
+La Sûreté de l'Etat [<sup>4</sup> , chargée de la sécurité nationale,]<sup>4</sup> a pour mission :
+
+1° de rechercher, d'analyser et de traiter le renseignement relatif à toute activité qui menace ou pourrait menacer la sûreté intérieure de l'Etat et la pérennité de l'ordre démocratique et constitutionnel, la sûreté extérieure de l'Etat et les relations internationales, le potentiel scientifique ou économique défini par le [<sup>1</sup> Conseil national de sécurité]<sup>1</sup>, ou tout autre intérêt fondamental du pays défini par le Roi sur proposition du [<sup>1</sup> Conseil national de sécurité]<sup>1</sup>;
+
+2° d'effectuer les enquêtes de sécurité qui lui sont confiées conformément aux directives du [<sup>1</sup> Conseil national de sécurité]<sup>1</sup>;
+
+3° [<sup>3</sup> ...]<sup>3</sup>
+
+[<sup>2</sup> 3° /1 de rechercher, d'analyser et de traiter le renseignement relatif aux activités des services de renseignement étrangers sur le territoire belge;]<sup>2</sup>
+
+4° d'exécuter toutes autres missions qui lui sont confiées par ou en vertu de la loi.
+
+----------
+
+(1)&lt;L 2015-12-06/07, art. 6, 006; En vigueur : 28-01-2015&gt;
+
+(2)&lt;L 2016-01-29/09, art. 2, 008; En vigueur : 05-03-2016&gt;
+
+(3)&lt;L 2016-04-21/06, art. 20, 009; En vigueur : 23-03-2017 (dispositions transitoires art. 92 et 93) (AR 2017-03-19/01, art. 1)&gt;
+
+(4)&lt;L 2022-07-20/14, art. 30, 018; En vigueur : 18-08-2022&gt;
+
+##### Art. 8
+
+Pour l'application de l'article 7, on entend par :
+
+1° " activité qui menace ou pourrait menacer " : toute activité, individuelle ou collective, déployée à l'intérieur du pays ou à partir de l'étranger, qui peut avoir un rapport avec l'espionnage, l'ingérence, le terrorisme, l'extrémisme, la prolifération, les organisations sectaires nuisibles, les organisations criminelles; en ce compris la diffusion de propagande, l'encouragement ou le soutien direct ou indirect, notamment par la fourniture de moyens financiers, techniques ou logistiques, la livraison d'informations sur des objectifs potentiels, le développement des structures et du potentiel d'action et la réalisation des buts poursuivis.
+
+Pour l'application de l'alinéa précédent, on entend par :
+
+a) espionnage : le recueil ou la livraison d'informations non accessibles au public, et le fait d'entretenir des intelligences de nature à les préparer ou à les faciliter;
+
+b) terrorisme : le recours à la violence à l'encontre de personnes ou d'intérêts matériels, pour des motifs idéologiques ou politiques, dans le but d'atteindre ses objectifs par la terreur, l'intimidation ou les menaces [<sup>2</sup> en ce compris le processus de radicalisation]<sup>2</sup>;
+
+c) extrémisme : les conceptions ou les visées racistes, xénophobes, anarchistes, nationalistes, autoritaires ou totalitaires, qu'elles soient à caractère politique, idéologique, confessionnel ou philosophique, contraires, en théorie ou en pratique, aux principes de la démocratie ou des droits de l'homme, au bon fonctionnement des institutions démocratiques ou aux autres fondements de l'Etat de droit [<sup>2</sup> en ce compris le processus de radicalisation]<sup>2</sup>;
+
+d) prolifération : le trafic ou les transactions relatifs aux matériaux, produits, biens ou know-how pouvant contribuer à la production ou au développement de systèmes d'armement non conventionnels ou très avancés. Sont notamment visés dans ce cadre le développement de programmes d'armement nucléaire, chimique et biologique, les systèmes de transmission qui s'y rapportent, ainsi que les personnes, structures ou pays qui y sont impliqués;
+
+e) organisation sectaire nuisible : tout groupement à vocation philosophique ou religieuse, ou se prétendant tel, qui, dans son organisation ou sa pratique, se livre à des activités illégales dommageables, nuit aux individus ou à la société ou porte atteinte à la dignité humaine;
+
+f) organisation criminelle : toute association structurée de plus de deux personnes, établie dans le temps, en vue de commettre de façon concertée [<sup>3</sup> des infractions]<sup>3</sup>, pour obtenir, directement ou indirectement, des avantages patrimoniaux, en utilisant l'intimidation, la menace, la violence, des manoeuvres frauduleuses ou la corruption ou en recourant à des structures commerciales ou autres pour dissimuler ou faciliter la réalisation des infractions. Sont visées dans ce cadre les formes et structures des organisations criminelles qui se rapportent intrinsèquement aux activités visées à l'article 8, 1°, a) à e) et g), ou qui peuvent avoir des conséquences déstabilisantes sur le plan politique ou socio-économique;
+
+g) ingérence : la tentative d'influencer des processus décisionnels par des moyens illicites, trompeurs ou clandestins;
+
+2° " la sûreté intérieure de l'Etat et la pérennité de l'ordre démocratique et constitutionnel " :
+
+a) la sécurité des institutions de l'Etat et la sauvegarde de la continuité du fonctionnement régulier de l'Etat de droit, des institutions démocratiques, des principes élémentaires propres à tout Etat de droit, ainsi que des droits de l'homme et des libertés fondamentales;
+
+b) la sécurité et la sauvegarde physique et morale des personnes et la sécurité et la sauvegarde des biens;
+
+3° " la sûreté extérieure de l'Etat et les relations internationales " : la sauvegarde de l'intégrité du territoire national, de la souveraineté et de l'indépendance de l'Etat, des intérêts des pays avec lesquels la Belgique poursuit des objectifs communs, ainsi que des relations internationales et autres que la Belgique entretient avec des Etats étrangers et des institutions internationales ou supranationales;
+
+4° " le potentiel scientifique ou économique " : la sauvegarde des éléments essentiels du potentiel scientifique ou économique;
+
+5° [<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-04-21/06, art. 21, 009; En vigueur : 23-03-2017 (dispositions transitoires art. 92 et 93) (AR 2017-03-19/01, art. 1)&gt;
+
+(2)&lt;L 2017-03-30/11, art. 6, 012; En vigueur : 08-05-2017&gt;
+
+(3)&lt;L 2026-03-30/01, art. 116, 025; En vigueur : 01-09-2026&gt;
+
+##### Art. 9
+
+A la requête de la Sûreté de l'Etat, le [<sup>2</sup> Service Général du Renseignement et de la Sécurité]<sup>2</sup> prête son concours à celle-ci pour recueillir les renseignements lorsque des militaires sont impliqués dans les activités visées à l'article 7, 1° [<sup>1</sup> et 3° /1]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2016-01-29/09, art. 3, 008; En vigueur : 05-03-2016&gt;
+
+(2)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+### Section 2. [<sup>1</sup> - Du Service Général du Renseignement et de la Sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 10
+
+§ 1er. A l'intervention du Ministre de la Défense nationale, le [<sup>2</sup> Service Général du Renseignement et de la Sécurité]<sup>2</sup> accomplit ses missions conformément aux directives du [<sup>1</sup> Conseil national de sécurité]<sup>1</sup>.
+
+§ 2. Pour l'exécution de ses missions, le [<sup>2</sup> Service Général du Renseignement et de la Sécurité]<sup>2</sup> est placé sous l'autorité du Ministre de la Défense nationale.
+
+§ 3. Le Ministre de la Défense nationale est chargé de l'organisation et de l'administration générale de [<sup>2</sup> Service Général du Renseignement et de la Sécurité]<sup>2</sup>, en particulier en ce qui concerne les dépenses, l'administration du personnel et la formation, l'ordre intérieur et la discipline, les traitements et indemnités, ainsi que l'équipement.
+
+----------
+
+(1)&lt;L 2015-12-06/07, art. 6, 006; En vigueur : 28-01-2015&gt;
+
+(2)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 11
+
+§ 1er. [<sup>6</sup> Le Service Général du Renseignement et de la Sécurité [<sup>8</sup> , chargé de la sécurité nationale,]<sup>8</sup> a pour mission:
+
+1° de rechercher, d'analyser et de traiter le renseignement relatif aux facteurs qui influencent ou peuvent influencer la sécurité nationale et internationale dans la mesure où les Forces armées sont ou pourraient être impliquées, en fournissant un soutien en renseignement à leurs opérations en cours ou à leurs éventuelles opérations à venir, ainsi que le renseignement relatif à toute activité qui menace ou pourrait menacer:
+
+a) l'intégrité du territoire national ou la population,
+
+b) les plans de défense militaires,
+
+c) le potentiel scientifique et économique en rapport avec les acteurs, tant personnes physiques que personnes morales, qui sont actifs dans les secteurs économiques et industriels liés à la défense et qui figurent sur une liste approuvée par le Conseil national de sécurité, sur proposition du ministre de la Justice et du ministre de la Défense,
+
+d) l'accomplissement des missions des Forces armées,
+
+e) la sécurité des ressortissants belges à l'étranger,
+
+f) tout autre intérêt fondamental du pays défini par le Roi sur proposition du Conseil national de sécurité;
+
+et d'en informer sans délai les ministres compétents ainsi que de donner des avis au gouvernement, à la demande de celui-ci, concernant la définition de sa politique intérieure et étrangère de sécurité et de défense;]<sup>6</sup>
+
+2° de veiller au maintien de la sécurité militaire du personnel relevant du Ministre de la Défense nationale, et des installations militaires, armes [<sup>6</sup> et systèmes d'armes]<sup>6</sup>, munitions, équipements, plans, écrits, documents, systèmes informatiques et de communications ou autres objets militaires [<sup>1</sup> et, dans le cadre des cyberattaques de [<sup>6</sup> systèmes d'armes, de]<sup>6</sup> systèmes informatiques et de communications militaires ou de ceux que le Ministre de la Défense nationale gère, de neutraliser l'attaque et d'en identifier les auteurs, sans préjudice du droit de réagir immédiatement par une propre cyberattaque, dans le respect des dispositions du droit des conflits armés]<sup>1</sup>;
+
+[<sup>7</sup> 2° /1 de neutraliser, dans le cadre d'une crise nationale de cybersécurité, une cyberattaque de systèmes informatiques et de communications non gérés par le ministre de la Défense et d'en identifier les auteurs, sans préjudice du droit de réagir immédiatement par une propre cyberattaque, dans le respect des dispositions du droit international;]<sup>7</sup>
+
+3° de protéger le secret qui, en vertu des engagements internationaux de la Belgique ou afin d'assurer l'intégrité du territoire national et l'accomplissement des missions des Forces armées, s'attache aux installations militaires, armes, munitions, équipements, aux plans, écrits, documents ou autres objets militaires, aux renseignements et communications militaires, ainsi qu'aux systèmes informatiques et de communications militaires ou ceux que le Ministre de la Défense nationale gère;
+
+4° d'effectuer les enquêtes de sécurité qui lui sont confiées conformément aux directives du [<sup>3</sup> Conseil national de sécurité]<sup>3</sup>[<sup>7</sup> ;]<sup>7</sup>
+
+[<sup>4</sup> 5° de rechercher, d'analyser et de traiter le renseignement relatif aux activités des services de renseignement étrangers sur le territoire belge.]<sup>4</sup>[<sup>7</sup> ;]<sup>7</sup>
+
+[<sup>7</sup> 6° d'exécuter toutes autres missions qui lui sont confiées par ou en vertu de la loi.]<sup>7</sup>
+
+§ 2. Pour l'application du § 1er, on entend par :
+
+1° " activité qui menace ou pourrait menacer l'intégrité du territoire national [<sup>6</sup> ou la population]<sup>6</sup> " : toute manifestation de l'intention de, par des moyens de nature militaire, saisir, occuper ou agresser tout ou partie du territoire national, de l'espace aérien au-dessus de ce territoire ou de la mer territoriale, ou porter atteinte à la protection ou à la survie de [<sup>6</sup> tout ou partie de]<sup>6</sup> la population, au patrimoine national ou au potentiel économique du pays;
+
+2° " activité qui menace ou pourrait menacer les plans de défense militaires " : toute manifestation de l'intention de prendre connaissance par voie illicite des plans relatifs à la défense militaire du territoire national, de l'espace aérien au-dessus de ce territoire ou de la mer territoriale et des intérêts vitaux de l'Etat, ou à la défense militaire commune dans le cadre d'une alliance ou d'une collaboration internationale ou supranationale;
+
+[<sup>1</sup> 2°/1 " activité qui menace ou pourrait menacer le potentiel scientifique et économique en rapport avec les acteurs, tant personnes physiques que personnes morales, qui sont actifs dans les secteurs économiques et industriels liés à la défense et qui figurent sur une liste approuvée par le [<sup>2</sup> Conseil national de sécurité]<sup>2</sup>, sur proposition du Ministre de la Justice et du Ministre de la Défense " : toute manifestation de l'intention de porter atteinte aux éléments essentiels du potentiel scientifique et économique de ces acteurs;]<sup>1</sup>
+
+3° " activité qui menace ou pourrait menacer l'accomplissement des missions des Forces armées " : toute manifestation de l'intention de neutraliser, d'entraver, de saboter, de porter atteinte ou d'empêcher la mise en condition, la mobilisation et la mise en oeuvre des Forces armées belges, des Forces armées alliées ou des organismes de défense interalliés lors de missions, actions ou opérations dans le cadre national, dans le cadre d'une alliance ou d'une collaboration internationale ou supranationale;
+
+4° " activité qui menace ou pourrait menacer la sécurité des ressortissants belges à l'étranger " : toute manifestation de l'intention de porter collectivement atteinte [<sup>6</sup> ...]<sup>6</sup> à la vie ou à l'intégrité physique de ressortissants belges à l'étranger et des membres de leur famille.
+
+[<sup>7</sup> 5° "crise nationale de cybersécurité": tout incident de cybersécurité qui, par sa nature ou ses conséquences:
+
+\- menace les intérêts vitaux du pays ou les besoins essentiels de la population;
+
+\- requiert des décisions urgentes; et
+
+\- demande une action coordonnée de plusieurs départements et organismes.]<sup>7</sup>
+
+§ 3. A la requête du [<sup>5</sup> Service Général du Renseignement et de la Sécurité]<sup>5</sup>, la Sûreté de l'Etat prête son concours pour recueillir le renseignement lorsque des personnes qui ne relèvent pas du Ministre de la Défense nationale ou qui ne relèvent pas d'entreprises qui exécutent des contrats conclus avec lui, avec des organisations militaires internationales ou avec des pays tiers en matière militaire, ou qui participent à une procédure de passation de marché public lancée par ceux-ci, sont impliquées dans les activités [<sup>4</sup> visées au [<sup>7</sup> paragraphe 1er, 1° à 3°, 5° et 6°]<sup>7</sup>]<sup>4</sup>.
+
+Les mesures de protection industrielle ne seront prises qu'à la demande du Ministre de la Défense nationale, de pays tiers ou des organisations avec lesquelles la Belgique est liée par traité, convention ou contrat.
+
+----------
+
+(1)&lt;L 2010-02-04/26, art. 4, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2015-12-06/07, art. 5, 006; En vigueur : 28-01-2015&gt;
+
+(3)&lt;L 2015-12-06/07, art. 6, 006; En vigueur : 28-01-2015&gt;
+
+(4)&lt;L 2016-01-29/09, art. 4, 008; En vigueur : 05-03-2016&gt;
+
+(5)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(6)&lt;L 2017-03-30/11, art. 7, 012; En vigueur : 08-05-2017&gt;
+
+(7)&lt;L 2022-07-14/13, art. 3, 017; En vigueur : 15-08-2022&gt;
+
+(8)&lt;L 2022-07-20/14, art. 31, 018; En vigueur : 18-08-2022&gt;
+
+## CHAPITRE III. [<sup>1</sup> - L'exercice des missions de renseignement et de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 8, 012; En vigueur : 08-05-2017&gt;
+
+### Section 1. [<sup>1</sup> - Dispositions générales.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 9, 012; En vigueur : 08-05-2017&gt;
+
+#### Sous-section 1.
+
+&lt;Abrogé par L 2017-03-30/11, art. 10, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 12
+
+Pour accomplir leurs missions, les services de renseignement et de sécurité ne peuvent utiliser des moyens de contrainte que dans les conditions prévues par la loi.
+
+##### Art. 13
+
+[<sup>4</sup> [<sup>3</sup> § 1.]<sup>3</sup> [<sup>2</sup> Les services de renseignement et de sécurité]<sup>2</sup> peuvent rechercher, collecter, recevoir et traiter des informations et des données à caractère personnel qui peuvent être utiles à l'exécution de leurs missions et tenir à jour une documentation relative notamment à des événements, à des groupements et à des personnes présentant un intérêt pour l'exécution de leurs missions.
+
+[<sup>4</sup> ...]<sup>4</sup> Les renseignements contenus dans la documentation doivent présenter un lien avec la finalité du fichier et se limiter aux exigences qui en découlent.]<sup>4</sup>
+
+[<sup>4</sup> § 2.]<sup>4</sup> [<sup>1</sup> Les services de renseignement et de sécurité veillent à la sécurité des données ayant trait à leurs sources et à celles des informations et des données à caractère personnel fournies par ces sources.]<sup>1</sup>
+
+[<sup>4</sup> § 3.]<sup>4</sup> [<sup>1</sup> Les agents des services de renseignement et de sécurité ont accès aux informations, renseignements et données à caractère personnel recueillis et traités par leur service, pour autant que ceux-ci soient utiles dans l'exercice de leur fonction ou de leur mission.]<sup>1</sup>
+
+[<sup>4</sup> § 4. Lorsque, au cours d'une enquête ou d'une vérification de sécurité au sens de la loi du 11 décembre 1998 relative à la classification, aux habilitations de sécurité, attestations de sécurité, avis de sécurité et au service public réglementé, un agent prend connaissance d'informations indiquant l'existence d'une menace potentielle visée aux articles 7 et 8 ou contre un intérêt visé à l'article 11, il les transmet immédiatement par écrit au dirigeant de son service, ou à son délégué, en vue de leur traitement pour lutter contre ladite menace.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2016-05-29/03, art. 12, 010; En vigueur : 28-07-2016&gt;
+
+(2)&lt;L 2017-03-30/11, art. 11, 012; En vigueur : 08-05-2017&gt;
+
+(3)&lt;L 2022-07-14/13, art. 4, 017; En vigueur : 15-08-2022&gt;
+
+(4)&lt;L 2024-03-28/60, art. 164, 021; En vigueur : 15-08-2022&gt;
+
+### Section 2. [<sup>1</sup> - Mesures de protection et d'appui.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-30/11, art. 12, 012; En vigueur : 08-05-2017&gt;
+
+#### Sous-section 1. [<sup>1</sup> Commission d'infractions ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-14/13, art. 5, 017; En vigueur : 15-08-2022&gt;
+
+##### Art. 13/1
+
+[<sup>3</sup> § 1. ]<sup>3</sup>[<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup> [<sup>2</sup> ...]<sup>2</sup> [<sup>2</sup> Il est interdit aux agents de commettre des infractions.]<sup>2</sup>
+
+[<sup>3</sup> § 2. Par dérogation au paragraphe 1er, sont exemptés de peine les agents qui commettent des contraventions, des infractions au code de la route ou un vol d'usage, qui sont absolument nécessaires afin d'assurer l'exécution optimale de la mission ou de garantir leur propre sécurité ou celle de tiers, lorsque ces agents sont:
+
+1° chargés d'exécuter les méthodes de recueil de données; ou
+
+2° membres de l'équipe d'intervention]<sup>3</sup>.
+
+[<sup>3</sup> § 3. Sans préjudice du paragraphe 2, sont exemptés de peine, les agents qui, lors de l'exécution des missions visées aux articles 7, 1° et 3° /1 et 11, § 1er, 1° à 3° et 5°, commettent des infractions absolument nécessaires afin d'assurer l'exécution optimale de leur mission ou de garantir leur propre sécurité ou celle de tiers.
+
+Les infractions visées à l'alinéa 1er ne peuvent être commises qu'avec l'accord écrit préalable de la Commission. La Commission donne son accord écrit dans les quatre jours suivant la réception de la demande écrite et motivée du dirigeant du service.
+
+L'accord ne peut porter sur une période supérieure à six mois, sans préjudice de la possibilité de prolonger la mesure en suivant la procédure visée à l'alinéa 2.
+
+La demande du dirigeant du service mentionne, sous peine d'illégalité:
+
+1° les faits susceptibles d'être qualifiés infraction(s);
+
+2° le contexte de la demande et la finalité;
+
+3° la liste des agents répondant au profil requis pour commettre les faits susceptibles d'être qualifiés infraction(s) visés au 1° ;
+
+4° l'absolue nécessité;
+
+5° la proportionnalité visée au paragraphe 4;
+
+6° la période durant laquelle la ou les infractions peuvent être commises à compter de l'accord de la Commission et la motivation de la durée de la période;
+
+7° le cas échéant, les motifs qui justifient l'extrême urgence visée au paragraphe 6;
+
+8° le nom du ou des agent(s) chargé(s) du suivi du déroulement de l'infraction;
+
+9° la date de la demande;
+
+10° la signature du dirigeant du service]<sup>3</sup>.
+
+[<sup>3</sup> § 4. Les infractions doivent être directement proportionnelles à l'objectif visé par la mission et ne peuvent en aucun cas porter atteinte à l'intégrité physique des personnes]<sup>3</sup>.
+
+[<sup>3</sup> § 5. L'agent qui assure le suivi du déroulement de l'infraction fait rapport par écrit au dirigeant du service dans les plus brefs délais après la commission de l'infraction.
+
+Le service de renseignement et de sécurité concerné en informe la Commission par écrit dans les plus brefs délais.
+
+Par dérogation à l'alinéa 2, si la mesure a été autorisée pour une période supérieure à deux mois, le service de renseignement et de sécurité concerné fait rapport toutes les deux semaines par écrit à la Commission sur le déroulement de la mesure.
+
+A la demande motivée de la Commission, le rapport est transmis à plus courte échéance, pour autant que l'agent qui a commis l'infraction soit en sécurité pour le faire]<sup>3</sup>.
+
+[<sup>3</sup> § 6. En cas d'extrême urgence, le dirigeant du service demande l'accord verbal préalable du président de la Commission ou, s'il n'est pas joignable, d'un autre membre. L'auteur de l'accord en informe immédiatement les autres membres. Le dirigeant du service confirme sa demande par écrit dans les vingt-quatre heures suivant la communication de l'accord. Cette confirmation écrite comprend les mentions visées au paragraphe 3, alinéa 4. Le président ou le membre contacté confirme également son accord par écrit dans les plus brefs délais. Cet accord est valable cinq jours]<sup>3</sup>.
+
+[<sup>3</sup> § 7. Si, en raison de circonstances imprévisibles, les faits susceptibles d'être qualifiés infraction(s) ont été commis pour lesquels la procédure prévue aux paragraphes 3 ou 6 n'a pas pu être suivie, le dirigeant du service en informe la Commission par écrit dans les plus brefs délais et au plus tard dans les vingt-quatre heures qui suivent sa prise de connaissance de la commission des faits susceptibles d'être qualifiés infraction(s). L'agent qui a commis ces faits bénéficie de l'exemption de peine si la Commission estime qu'ils étaient imprévisibles et strictement nécessaires pour assurer sa propre sécurité ou celle de tiers.]<sup>3</sup>
+
+[<sup>3</sup> § 8. Si la Commission ne rend pas sa décision conformément aux paragraphes 3, 6 ou 7, le dirigeant du service concerné peut saisir le Comité permanent R qui autorisera ou n'autorisera pas la commission de(s) (l') infraction(s) dans les plus brefs délais.
+
+En cas de décision négative de la Commission en application des paragraphes 3, 6 ou 7, le dirigeant du service concerné peut saisir le Comité permanent R. Le Comité permanent R autorisera ou n'autorisera pas la commission d'infraction(s) dans les plus brefs délais. Le Comité permanent R communique sa décision au dirigeant du service et à la Commission.]<sup>3</sup>
+
+[<sup>3</sup> § 9. La Commission transmet sans délai tous les documents visés aux paragraphes 3 à 7 au Comité permanent R.]<sup>3</sup>
+
+[<sup>3</sup> § 10. Le dirigeant du service met fin à la mesure dès que possible, lorsque l'absolue nécessité de commettre une infraction a disparu, lorsque la mesure n'est plus utile pour la finalité pour laquelle elle avait été demandée ou lorsqu'il a été constaté une illégalité. Il en informe dès que possible la Commission et le Comité permanent R.
+
+Lorsque la Commission ou le Comité permanent R constate une illégalité, elle ou il en informe par écrit le dirigeant du service concerné. Ce dernier met fin à la mesure en cours ou planifiée dès que possible et confirme ensuite par écrit à la Commission et au Comité permanent R que la mesure a pris fin.]<sup>3</sup>
+
+[<sup>3</sup> § 11. Les membres de la Commission peuvent contrôler à tout moment la légalité des mesures.
+
+Ils peuvent, à cet effet, avoir accès aux données relatives à la mesure, se saisir de toutes les pièces utiles et entendre les membres du service.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 6, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2017-03-30/11, art. 13, 012; En vigueur : 08-05-2017&gt;
+
+(3)&lt;L 2022-07-14/13, art. 6, 017; En vigueur : 15-08-2022&gt;
+
+##### Art. 13/1/1
+
+[<sup>1</sup> l est interdit aux sources humaines de commettre des infractions.
+
+§ 2. Par dérogation au paragraphe 1er, sont exemptées de peine les sources humaines majeures d'âge qui, dans l'intérêt de l'exercice des missions du service de renseignement et de sécurité concerné, telles que visées aux articles 7, 1° et 3° /1 et 11, § 1er, 1° à 3° et 5°, commettent des infractions absolument nécessaires afin d'assurer leur position d'information ou de garantir leur propre sécurité ou celle de tiers.
+
+Les infractions ne peuvent être commises qu'avec l'accord écrit préalable de la Commission. La Commission donne son accord écrit dans les quatre jours suivant la réception de la demande écrite et motivée du dirigeant du service.
+
+L'accord ne peut porter sur une période supérieure à deux mois, sans préjudice de la possibilité de prolonger la mesure en suivant la procédure visée à l'alinéa 2.
+
+Une analyse de risque(s) portant sur la fiabilité de la source et les risques qu'elle encourt dans le cadre de la commission de(s) (l')infraction(s) doit être réalisée préalablement à la demande du dirigeant du service.
+
+La demande du dirigeant du service mentionne, sous peine d'illégalité:
+
+1° le code d'identification de la source humaine;
+
+2° les faits susceptibles d'être qualifiés infraction(s);
+
+3° le contexte de la demande et la finalité;
+
+4° la synthèse de l'analyse de risque(s) visée à l'alinéa 4;
+
+5° l'absolue nécessité;
+
+6° la proportionnalité visée au paragraphe 3;
+
+7° les conditions strictes imposées à la source humaine;
+
+8° la période durant laquelle la ou les infractions peuvent être commises et la motivation de la durée de la période;
+
+9° le cas échéant, les motifs qui justifient l'extrême urgence visée au paragraphe 6;
+
+10° le nom du ou des agent(s) chargé(s) du suivi du déroulement de l'infraction;
+
+11° la date de la demande;
+
+12° la signature du dirigeant du service.
+
+§ 3. Les infractions doivent être directement proportionnelles à l'objectif visé par la mission et ne peuvent en aucun cas porter atteinte à l'intégrité physique des personnes.
+
+§ 4. Avant que l'infraction autorisée ne puisse être commise, la source humaine signe un mémorandum contenant notamment les modalités de mise en oeuvre et de rapportage. Ce mémorandum est conservé dans le dossier individuel de la source humaine.
+
+Le mémorandum est daté et inclut notamment les mentions suivantes:
+
+1° le code d'identification de la source humaine;
+
+2° la manière dont l'infraction sera mise en oeuvre;
+
+3° les instructions et les conditions strictes dans le cadre desquelles l'infraction peut être commise;
+
+4° les droits et les obligations de la source dans le cadre de la commission de l'infraction autorisée;
+
+Une copie du mémorandum est transmise à la Commission.
+
+§ 5. Dès que l'infraction a été commise et que la source humaine est en sécurité pour le faire, celle-ci fait rapport à l'agent chargé du suivi du déroulement de l'infraction. Ce dernier en informe par écrit le dirigeant du service qui, à son tour, informe par écrit la Commission dans les plus brefs délais.
+
+Si la mesure a été autorisée pour une période supérieure à deux semaines, le service de renseignement et de sécurité concerné fait rapport toutes les deux semaines par écrit à la Commission sur le déroulement de la mesure.
+
+A la demande motivée de la Commission, le rapport est transmis à plus courte échéance, pour autant que l'agent et la source soient en sécurité pour le faire.
+
+§ 6. En cas d'extrême urgence, lorsque des circonstances exceptionnelles et une menace potentielle grave le justifient, le dirigeant du service demande l'accord verbal préalable du président de la Commission ou, s'il n'est pas joignable, d'un autre membre. L'auteur de l'accord en informe immédiatement les autres membres. Le dirigeant du service confirme sa demande par écrit dans les vingt-quatre heures suivant la communication de l'accord. Cette confirmation écrite comprend les mentions visées au paragraphe 2, alinéa 5. Le président ou le membre contacté confirme également son accord par écrit dans les plus brefs délais. Cet accord est valable cinq jours. Les conditions préalables visées aux paragraphes 2 à 4 s'appliquent au présent paragraphe.
+
+§ 7. Si la Commission ne rend pas sa décision conformément aux paragraphes 2 ou 6, le dirigeant du service concerné peut saisir le Comité permanent R qui autorisera ou n'autorisera pas la commission de(s) (l')infraction(s) dans les plus brefs délais.
+
+En cas de décision négative de la Commission en application des paragraphes 2 ou 6, le dirigeant du service concerné peut saisir le Comité permanent R. Le Comité permanent R autorisera ou n'autorisera pas la commission d'infraction(s) dans les plus brefs délais. Le Comité permanent R communique sa décision au dirigeant du service et à la Commission.
+
+§ 8. La Commission transmet sans délai tous les documents visés aux paragraphes 2 à 6 au Comité permanent R.
+
+§ 9. Le dirigeant du service met fin à la mesure dès que possible, lorsque l'absolue nécessité de commettre une infraction a disparu, lorsque la mesure n'est plus utile pour la finalité pour laquelle elle avait été demandée ou lorsqu'il a été constaté une illégalité. Il en informe dès que possible la Commission.
+
+Lorsque la Commission ou le Comité permanent R constate une illégalité, elle ou il en informe par écrit le dirigeant du service concerné. Ce dernier met fin à la mesure en cours ou planifiée dès que possible et confirme ensuite par écrit à la Commission et au Comité permanent R que la mesure a pris fin.
+
+§ 10. Les membres de la Commission peuvent contrôler à tout moment la légalité des mesures.
+
+Ils peuvent, à cet effet, avoir accès à la version papier des documents en relation avec la commission d'infraction(s) par la source et entendre l'agent chargé du suivi du déroulement de l'infraction, en présence de son supérieur hiérarchique et de tout autre responsable de la gestion de ladite source. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-14/13, art. 7, 017; En vigueur : 15-08-2022&gt;
+
+##### Art. 13/1/2
+
+[<sup>1</sup> § 1er. Lors de l'application des articles 13/1 et 13/1/1, la Commission fonctionne selon les modalités visées à l'article 43/1.
+
+§ 2. Sont exemptés de peine, les membres de la Commission qui autorisent la commission des infractions visées aux articles 13/1 et 13/1/1.
+
+§ 3. Sont exemptés de peine, les membres et les collaborateurs du Comité permanent R, lorsqu'ils exercent leur contrôle dans le cadre de l'application de la présente sous-section.
+
+§ 4. Sont exemptés de peine, les agents des services de renseignement et de sécurité qui encadrent ou contrôlent les agents visés à l'article 13/1 et les sources humaines visées à l'article 13/1/1. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-14/13, art. 8, 017; En vigueur : 15-08-2022&gt;
+
+#### Sous-section 2. [<sup>1</sup> Faux nom, fausse qualité, identité fictive et qualité fictive ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-14/13, art. 9, 017; En vigueur : 15-08-2022&gt;
+
+##### Art. 13/2
+
+[<sup>2</sup> Un agent peut, pour des raisons de sécurité liées à la protection de sa personne ou de tiers, utiliser un [<sup>3</sup> faux nom, une fausse qualité, une identité fictive ou une qualité fictive]<sup>3</sup>, selon les modalités fixées par le Roi.
+
+La mesure visée à l'alinéa 1er ne peut pas être mise en oeuvre de manière autonome pour la collecte de données.
+
+Chaque utilisation active d'une identité fictive doit être [<sup>3</sup> ...]<sup>3</sup> et orientée vers l'objectif et est mentionnée dans une liste transmise mensuellement au Comité permanent R.
+
+Dans le cadre de la création et de l'utilisation d'un faux nom, [<sup>3</sup> d'une fausse qualité,]<sup>3</sup> d'une identité [<sup>3</sup> ou]<sup>3</sup> d'une qualité fictives, les services de renseignement et de sécurité peuvent fabriquer, faire fabriquer et utiliser des faux documents.
+
+Chaque création de documents officiels attestant d'une identité ou d'une qualité fictive est autorisée par le dirigeant du service et notifiée au Comité permanent R.
+
+Dans le cadre de l'exécution des mesures prévues au présent article, les services de renseignement et de sécurité peuvent requérir le concours des fonctionnaires et des agents des services publics.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-30/11, art. 14, 012; En vigueur : 08-05-2017&gt;
+
+(2)&lt;L 2017-03-30/11, art. 14, 012; En vigueur : 08-05-2017&gt;
+
+(3)&lt;L 2022-07-14/13, art. 10, 017; En vigueur : 15-08-2022&gt;
+
+#### Sous-section 3. [<sup>1</sup> La création et l'utilisation de personnes morales ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-14/13, art. 11, 017; En vigueur : 15-08-2022&gt;
+
+##### Art. 13/3
+
+[<sup>2</sup> § 1er. Les services de renseignement et de sécurité peuvent créer des personnes morales, selon les modalités fixées par le Roi. Ces modalités peuvent déroger aux dispositions légales applicables en cas de dissolution et de liquidation d'une personne morale.
+
+§ 2. Les services de renseignement et de sécurité peuvent recourir à des personnes morales à l'appui de leurs missions.
+
+Sans préjudice de l'alinéa 1er, les modalités du recours à une personne morale pour la collecte de données sont réglées à l'article 18/13.
+
+§ 3. Dans le cadre de l'application des paragraphes 1er et 2, les services de renseignement et de sécurité peuvent fabriquer, faire fabriquer et utiliser des faux documents.
+
+§ 4. Chaque création d'une personne morale est autorisée par le dirigeant du service et notifiée au Comité permanent R.
+
+Chaque recours à une personne morale hors le cas visé à l'article 18/13 est mentionné dans une liste transmise mensuellement au Comité permanent R.
+
+§ 5. Dans le cadre de l'application du présent article, les services de renseignement et de sécurité peuvent requérir le concours des fonctionnaires et des agents des services publics.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-30/11, art. 15, 012; En vigueur : 08-05-2017&gt;
+
+(2)&lt;L 2017-03-30/11, art. 15, 012; En vigueur : 08-05-2017&gt;
+
+#### Sous-section 4. [<sup>1</sup> Le concours de tiers ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-14/13, art. 12, 017; En vigueur : 15-08-2022&gt;
+
+##### Art. 13/4
+
+[<sup>1</sup> Les services de renseignement et de sécurité peuvent solliciter le concours de tiers.
+
+Les services veillent à la sécurité des données relatives aux tiers qui leur apportent ou leur ont apporté un concours.
+
+[<sup>2</sup> Les paragraphes 2 à 6 et [<sup>3</sup> 8 à 11]<sup>3</sup> de l'article 13/1 s'appliquent aux tiers qui fournissent directement une aide ou une assistance nécessaire pour l'application de la présente loi]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>2</sup> L'aide et l'assistance apportées se font toujours sous le contrôle du service de renseignement et de sécurité concerné, qui garde la direction de l'opération.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-30/11, art. 16, 012; En vigueur : 08-05-2017&gt;
+
+(2)&lt;L 2022-07-14/13, art. 13, 017; En vigueur : 15-08-2022&gt;
+
+(3)&lt;L 2024-03-28/60, art. 126, 021; En vigueur : 08-04-2024&gt;
+
+### Section 3. [<sup>1</sup> - Concours avec une information ou une instruction judiciaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-30/11, art. 17, 012; En vigueur : 08-05-2017&gt;
+
+[<sup>2</sup>
+
+##### Art. 13/5
+
+]<sup>2</sup> [<sup>1</sup> Les services de renseignement et de sécurité veillent à ne pas mener d'enquête portant atteinte délibérément aux [<sup>2</sup> missions du magistrat compétent]<sup>2</sup> et risquant d'entraver le bon déroulement d'une information ou d'une instruction judiciaire.
+
+Lorsqu'un service de renseignement et de sécurité procède à une investigation qui peut avoir une incidence sur une information ou une instruction judiciaire, ce service, s'il met en oeuvre les méthodes de recueil de données visées à l'article 18/2, ne peut porter préjudice à ladite information ou instruction judiciaire.
+
+Le service de renseignement et de sécurité en informe la commission. Sans préjudice des accords conclus avec les autorités judiciaires, la commission décide, en concertation avec [<sup>2</sup> ...]<sup>2</sup> le magistrat compétent et le dirigeant du service concerné [<sup>2</sup> ou l'agent qu'il délègue à cet effet]<sup>2</sup>, si et selon quelles modalités le service de renseignement et de sécurité peut continuer ses investigations. Elle informe le Comité permanent R de sa décision. Le service de renseignement et de sécurité exécute sa mission conformément à la décision de la commission. La commission veille au respect de sa décision.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 7, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2017-03-30/11, art. 18, 012; En vigueur : 08-05-2017&gt;
+
+### Section 3/1. [<sup>1</sup> - Réquisitions de conservation.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-20/14, art. 32, 018; En vigueur : 18-08-2022&gt;
+
+##### Art. 13/6
+
+[<sup>1</sup> § 1er. Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions, requérir le concours d'un opérateur de réseaux de communications électroniques ou d'un fournisseur de services de communications électroniques pour procéder à:
+
+1° la conservation des données de trafic et de localisation de moyens de communications électroniques qui sont à sa disposition au moment de la réquisition;
+
+2° la conservation des données de trafic et de localisation qu'il génère et traite à partir de la réquisition.
+
+La réquisition visée à l'alinéa 1er repose sur une décision écrite et motivée du dirigeant du service ou de son délégué.
+
+§ 2. La réquisition visée au paragraphe 1er, alinéa 1er, mentionne:
+
+1° la nature des données de trafic et de localisation à conserver;
+
+2° les personnes, les groupements, les zones géographiques, les moyens de communication et/ou le mode d'utilisation dont les données de trafic et de localisation doivent être conservées;
+
+3° pour la mesure visée au paragraphe 1er, alinéa 1er, 1°, le délai de conservation des données, qui ne peut excéder six mois à compter de la date de la réquisition, sans préjudice de la possibilité de prolongation en suivant la même procédure;
+
+4° pour la mesure visée au paragraphe 1er, alinéa 1er, 2° :
+
+\- la durée de la mesure, qui ne peut excéder six mois à compter de la date de la réquisition, sans préjudice de la possibilité de prolongation en suivant la même procédure;
+
+\- le délai de conservation des données, qui ne peut excéder six mois à compter de la date de la communication, sans préjudice de la possibilité de prolongation en suivant la même procédure;
+
+5° la date de la réquisition;
+
+6° la signature du dirigeant du service ou de son délégué.
+
+§ 3. En cas d'extrême urgence, le dirigeant du service ou son délégué peut requérir la conservation verbalement. Cette réquisition verbale est confirmée par écrit au plus tard le premier jour ouvrable qui suit.
+
+§ 4. Les services de renseignement et de sécurité tiennent un registre de toutes les réquisitions de conservation.
+
+Chaque décision de réquisition est notifiée avec sa motivation au Comité permanent R. Lorsqu'il constate une illégalité, le Comité permanent R met fin à la réquisition.
+
+Lorsqu'il est mis fin prématurément à la réquisition, l'opérateur d'un réseau de communications électroniques ou le fournisseur d'un service de communications électroniques requis en est averti le plus rapidement possible.
+
+§ 5. Pour l'exécution de la réquisition, le dirigeant du service ou son délégué peut requérir le concours de l'Institut visé à l'article 2, 1°, de la loi du 13 juin 2005 relative aux communications électroniques, ainsi que des personnes dont il présume qu'elles ont une expertise technique utile. Cette réquisition est écrite et mentionne la base légale.
+
+§ 6. [<sup>2</sup> Toute personne qui refuse délibérément de prêter son concours aux réquisitions visées aux paragraphes 1er et 5 est punie d'une peine de niveau 1, où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 160.000 euros]<sup>2</sup>.
+
+§ 7. Le Roi peut déterminer, sur proposition du ministre de la Justice, du ministre de la Défense et du ministre qui a les Communications électroniques dans ses attributions, les modalités de collaboration des opérateurs d'un réseau de communications électroniques ou des fournisseurs d'un service de communications électroniques.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-20/14, art. 33, 018; En vigueur : 18-08-2022&gt;
+
+(2)&lt;L 2026-03-30/01, art. 117, 025; En vigueur : 01-09-2026&gt;
+
+##### Art. 13/7
+
+[<sup>1</sup> § 1er. Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions et lorsqu'il existe une menace grave pour la sécurité nationale qui s'avère réelle et actuelle ou prévisible, requérir le concours des opérateurs d'un réseau de communications électroniques et des fournisseurs d'un service de communications électroniques afin de procéder à la conservation généralisée et indifférenciée des données de trafic et de localisation de moyens de communications électroniques générées et traitées par eux.
+
+§ 2. La réquisition visée au paragraphe 1er ne peut avoir lieu qu'avec l'accord écrit préalable de la commission. La commission donne son accord dans les quatre jours suivant la réception de la demande écrite et motivée du dirigeant du service.
+
+§ 3. La demande du dirigeant du service de requérir la conservation mentionne, sous peine d'illégalité:
+
+1° la menace grave pour la sécurité nationale qui s'avère réelle et actuelle ou prévisible;
+
+2° les circonstances de fait qui justifient la conservation généralisée et indifférenciée des données de trafic et de localisation;
+
+3° la nature des données de trafic et de localisation à conserver;
+
+4° la durée de la mesure de conservation, qui ne peut excéder six mois à compter de la date de la réquisition. Elle peut être prolongée en suivant la même procédure;
+
+5° le délai de conservation des données, qui ne peut excéder six mois à compter de la date de la communication. Il peut être prolongé en suivant la même procédure;
+
+6° le cas échéant, les motifs qui justifient l'extrême urgence visée au paragraphe 5;
+
+7° la date de la demande;
+
+8° la signature du dirigeant du service.
+
+§ 4. La réquisition visée au paragraphe 1er mentionne:
+
+1° la date de l'accord de la commission;
+
+2° la nature des données de trafic et de localisation à conserver;
+
+3° la durée de la mesure et le délai de conservation des données;
+
+4° la date de la réquisition;
+
+5° la signature du dirigeant du service ou de son délégué.
+
+§ 5. En cas d'extrême urgence, le dirigeant du service demande l'accord verbal préalable du président de la commission ou, en cas d'indisponibilité, d'un autre membre de la commission. L'auteur de l'accord en informe immédiatement les autres membres de la commission. Le dirigeant du service confirme sa demande par écrit dans les vingt-quatre heures suivant l'accord. Le président ou le membre contacté confirme également son accord par écrit le plus rapidement possible. Cet accord est valable cinq jours.
+
+§ 6. La réquisition de conservation généralisée et indifférenciée est confirmée par arrêté royal.
+
+L'arrêté royal ne mentionne que:
+
+1° la date de l'accord de la commission;
+
+2° la date de la réquisition;
+
+3° la nature des données de trafic et de localisation à conserver;
+
+4° la durée de la mesure et le délai de conservation des données.
+
+En l'absence de confirmation par arrêté royal dans le mois de la réquisition, cette réquisition prend fin.
+
+Les opérateurs d'un réseau de communications électroniques et les fournisseurs d'un service de communications électroniques requis en sont avertis le plus rapidement possible.
+
+§ 7. Pour l'exécution de la réquisition, le dirigeant du service peut requérir le concours de l'Institut visé à l'article 2, 1°, de la loi du 13 juin 2005 relative aux communications électroniques, ainsi que des personnes dont il présume qu'elles ont une expertise technique utile. Cette réquisition est écrite et mentionne la base légale et l'accord de la commission.
+
+§ 8. [<sup>2</sup> Toute personne qui refuse délibérément de prêter son concours aux réquisitions visées aux paragraphes 1er et 7 est punie d'une peine de niveau 1, où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 160.000 euros]<sup>2</sup>.
+
+§ 9. La commission transmet sans délai la demande du dirigeant du service et son accord au Comité permanent R.
+
+§ 10. Le service de renseignement et de sécurité fait rapport à la commission toutes les deux semaines sur l'évolution de la menace. Ce rapport met en évidence les éléments qui justifient soit le maintien de la conservation généralisée et indifférenciée, soit la fin de celle-ci.
+
+§ 11. Le dirigeant du service met fin à la réquisition, nonobstant la confirmation par arrêté royal, lorsque la conservation n'est plus utile pour lutter contre la menace grave pour la sécurité nationale qui s'avère réelle et actuelle ou prévisible, lorsque cette menace a disparu ou lorsqu'il constate une illégalité.
+
+Lorsque la commission ou le Comité permanent R constate une illégalité, il est mis fin à la réquisition nonobstant la confirmation par arrêté royal.
+
+Lorsqu'il est mis fin prématurément à la réquisition, les opérateurs d'un réseau de communications électroniques ou les fournisseurs d'un service de communications électroniques requis en sont avertis le plus rapidement possible.
+
+§ 12. Le Roi détermine, sur proposition du ministre de la Justice, du ministre de la Défense et du ministre qui a les Communications électroniques dans ses attributions, les modalités de collaboration des opérateurs d'un réseau de communications électroniques ou des fournisseurs d'un service de communications électroniques.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-20/14, art. 34, 018; En vigueur : 18-08-2022&gt;
+
+(2)&lt;L 2026-03-30/01, art. 118, 025; En vigueur : 01-09-2026&gt;
+
+### Section 4. [<sup>1</sup> - Des méthodes de recueil de données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-30/11, art. 19, 012; En vigueur : 08-05-2017&gt;
+
+[<sup>2</sup>
+
+#### Sous-section 1.]<sup>2</sup> [<sup>1</sup> - Des méthodes ordinaires de recueil de données.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-02-04/26, art. 8, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2017-03-30/11, art. 20, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 14
+
+[<sup>2</sup> Les autorités judiciaires]<sup>2</sup> les fonctionnaires et les agents des services publics [<sup>1</sup> , y compris des services de police,]<sup>1</sup> peuvent communiquer d'initiative au Service de Renseignement et de Sécurité concerné les informations utiles à l'exécution de ses missions.
+
+[<sup>1</sup> A la requête d'un service de renseignement et de sécurité, les autorités judiciaires, les fonctionnaires et les agents des services publics, y compris des services de police, communiquent au service de renseignement et de sécurité concerné, [<sup>2</sup> ....]<sup>2</sup> les informations utiles à l'exécution de ses missions.]<sup>1</sup>
+
+[<sup>1</sup> Lorsque les autorités judiciaires, les fonctionnaires et les agents des services publics, y compris les services de police, estiment que la communication des informations visées à l'alinéa 2 est de nature à porter atteinte à une information ou à une instruction judiciaire en cours ou à la récolte d'informations visée par la [<sup>3</sup> loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces]<sup>3</sup>, ou qu'elle est susceptible de nuire à l'intégrité physique d'une personne, ils peuvent refuser cette communication dans les cinq jours ouvrables de la demande, en exposant leurs raisons par écrit.]<sup>1</sup>
+
+[<sup>1</sup> Dans le respect de la législation en vigueur, les services de renseignement et de sécurité peuvent selon les modalités générales fixées par le Roi, avoir accès aux banques de données du secteur public utiles à l'exécution de leurs missions.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2010-02-04/26, art. 9, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2017-03-30/11, art. 21, 012; En vigueur : 08-05-2017&gt;
+
+(3)&lt;L 2017-09-18/06, art. 150, 013; En vigueur : 16-10-2017&gt;
+
+##### Art. 15
+
+Les modalités de communication des informations contenues dans les registres de la population et des étrangers ainsi que dans le registre d'attente des étrangers sont fixées par arrêté royal délibéré en Conseil des Ministres.
+
+##### Art. 16
+
+[<sup>1</sup> Sans préjudice de l'article 2, § 2, les personnes et organisations relevant du secteur privé peuvent communiquer d'initiative aux services de renseignement et de sécurité, les informations et les données à caractère personnel utiles à l'exercice de leurs missions.
+
+Dans l'intérêt de l'exercice de leurs missions, sans préjudice de l'article 2, § 2, les services de renseignement et de sécurité peuvent collecter auprès des personnes et organisations relevant du secteur privé des informations et des données à caractère personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 22, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 16/1
+
+[<sup>1</sup> § 1er. Dans l'intérêt de l'exercice de leurs missions, les services de renseignement et de sécurité peuvent observer, sans moyen technique:
+
+1° des lieux accessibles au public;
+
+2° des personnes et objets qui s'y trouvent;
+
+3° des événements qui s'y déroulent.
+
+§ 2. Dans l'intérêt de l'exercice de leurs missions, les services de renseignement et de sécurité peuvent, sans moyen technique:
+
+1° inspecter des lieux accessibles au public;
+
+2° inspecter sur place le contenu d'objets non verrouillés qui s'y trouvent et qui ne sont pas surveillés par le possesseur.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 23, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 16/2
+
+[<sup>2</sup> § 1er.]<sup>2</sup> [<sup>1</sup> Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions, requérir le concours d'un opérateur de réseaux de communications électroniques ou d'un fournisseur de services de communications électroniques pour procéder à :
+
+1° l'identification de l'abonné ou de l'utilisateur habituel d'un service de communication électronique ou du moyen de communication électronique utilisé;
+
+2° l'identification des services et des moyens de communications électroniques auxquels une personne déterminée est abonnée ou qui sont habituellement utilisés par une personne déterminée.
+
+La réquisition est effectuée par écrit par le [<sup>2</sup> dirigeant]<sup>2</sup> de service ou son délégué. En cas d'urgence, le [<sup>2</sup> dirigeant]<sup>2</sup> de service ou son délégué peut requérir ces données verbalement. Cette réquisition verbale est confirmée dans un délai de vingt-quatre heures par une réquisition écrite.
+
+Tout opérateur d'un réseau de communications électroniques et tout fournisseur d'un service de communications électroniques qui est requis donne au [<sup>2</sup> dirigeant]<sup>2</sup> de service ou à son délégué les données qui ont été demandées dans un délai et selon les modalités à fixer par un arrêté royal pris sur la proposition du ministre de la Justice, du ministre de la Défense et du ministre qui a les communications électroniques dans ses attributions.
+
+Le [<sup>2</sup> dirigeant]<sup>2</sup> de service ou son délégué peut, dans le respect des principes de proportionnalité et de subsidiarité, et moyennant l'enregistrement de la consultation, également obtenir les données visées au moyen d'un accès aux fichiers des clients de l'opérateur ou du fournisseur du service. Le Roi fixe, sur la proposition du ministre de la Justice, du ministre de la Défense et du ministre qui a les communications électroniques dans ses attributions, les conditions techniques auxquelles cet accès est possible.
+
+[<sup>2</sup> § 2. [<sup>3</sup> Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions, pour procéder à l'identification de l'abonné ou de l'utilisateur habituel d'un service de communications électroniques, requérir le concours:
+
+1° des personnes ou institutions visées à l'article 5, § 1er, alinéa 1er, 3° à 22°, de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces et des personnes ou institutions qui, sur le territoire belge, mettent à disposition ou proposent des services en lien avec les valeurs virtuelles permettant d'échanger des moyens de paiement réglementés en valeurs virtuelles, sur la base de la référence d'une transaction bancaire électronique qui a préalablement été communiquée par un opérateur ou un fournisseur en application du paragraphe 1er;
+
+2° des autres personnes morales qui sont l'abonné d'un opérateur ou d'un fournisseur visés au paragraphe 1er ou qui souscrivent au nom et pour le compte de personnes physiques à un service de communications électroniques, sur la base des données qui ont été préalablement communiquées par un opérateur ou un fournisseur en application du paragraphe 1er.]<sup>3</sup>
+
+La réquisition est effectuée par écrit par le dirigeant de service ou son délégué. En cas d'urgence, le dirigeant de service ou son délégué peut requérir ces données verbalement. Cette réquisition verbale est confirmée dans un délai de vingt-quatre heures par une réquisition écrite.
+
+[<sup>3</sup> Toute personne et toute institution]<sup>3</sup> qui est requise donne sans délai au dirigeant de service ou à son délégué les données qui ont été demandées.
+
+Les données d'identification que les services de renseignement et de sécurité reçoivent dans le cadre de l'exercice de la méthode visée au présent paragraphe, se limitent aux données d'identification visées au paragraphe 1er .]<sup>2</sup>
+
+[<sup>2</sup> § 3.]<sup>2</sup> [<sup>4</sup> Toute personne qui refuse délibérément de communiquer les données ainsi demandées ou de fournir l'accès requis est punie d'une peine de niveau 1, où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 80.000 euros]<sup>4</sup>.
+
+[<sup>2</sup> § 4.]<sup>2</sup> Les services de renseignement et de sécurité tiennent un registre de toutes les identifications requises et de toutes les identifications obtenues par accès direct. Le Comité permanent R reçoit chaque mois du service de renseignement [<sup>2</sup> et de sécurité]<sup>2</sup> concerné une liste des identifications requises et de tout accès.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-02-05/11, art. 222, 007; En vigueur : 29-02-2016&gt;
+
+(2)&lt;L 2016-09-01/19, art. 3, 011; En vigueur : 17-12-2016&gt;
+
+(3)&lt;L 2022-07-20/14, art. 35, 018; En vigueur : 18-08-2022&gt;
+
+(4)&lt;L 2026-03-30/01, art. 119, 025; En vigueur : 01-09-2026&gt;
+
+##### Art. 16/3
+
+[<sup>1</sup> § 1. Dans le cadre de l'article 27 de la loi du 25 décembre 2016 relative au traitement des données des passagers, les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions, décider de façon dûment motivée d'accéder aux données des passagers visées à l'article 9 de la loi du 25 décembre 2016 relative au traitement des données des passagers.
+
+§ 2. A l'exception des cas prévus aux paragraphes 4 et 5, la méthode visée au paragraphe 1er ne peut être mise en oeuvre qu'après que le président de la Commission, ou un autre membre si celui-ci n'est pas immédiatement disponible, a effectué un contrôle préalable de la décision écrite et motivée du dirigeant du service concerné ou de son délégué.
+
+La décision du dirigeant de service concerné ou de son délégué comprend:
+
+1° les personnes physiques qui font l'objet de la méthode;
+
+2° les circonstances de fait qui justifient la méthode ainsi que la motivation relative à la subsidiarité et à la proportionnalité;
+
+3° l'indication dûment motivée du lien direct entre les missions des articles 7, 8 et 11 de la présente loi et les finalités énoncées à l'article 8 de la loi du 25 décembre 2016 relative au traitement des données des passagers;
+
+4° le cas échéant, les raisons qui justifient l'urgence.
+
+Les mentions visées au deuxième alinéa sont prescrites à peine d'illégalité.
+
+§ 3. Le président de la Commission, ou un autre membre si celui-ci n'est pas immédiatement disponible, adresse une réponse écrite au plus tard le premier jour ouvrable après réception de la décision visée au paragraphe 2.
+
+Lorsque le président de la Commission, ou un autre membre si celui-ci n'est pas immédiatement disponible, transmet une réponse écrite positive au dirigeant du service concerné ou son délégué, la méthode de recueil de données des services de renseignement et de sécurité peut être immédiatement mise en oeuvre.
+
+La Commission transmet sans délai tous les documents visés aux paragraphes 2 et 3 au Comité permanent R. La Commission informe le Comité permanent R de sa propre initiative et sans délai qu'elle n'a fourni aucune réponse écrite.
+
+§ 4. Lorsque le président de la Commission, ou un autre membre si celui-ci n'est pas immédiatement disponible, transmet une réponse écrite négative ou ne transmet pas de réponse écrite dans le délai visé au paragraphe 3, alinéa 1er, le dirigeant du service concerné ou son délégué peut en informer le Comité permanent R, qui se prononce dans les plus brefs délais sur la mise en oeuvre de la méthode de recueil de données. Le Comité permanent R communique sa réponse au dirigeant de service concerné ou son délégué et à la Commission.
+
+§ 5. En cas d'extrême urgence, le dirigeant de service concerné ou son délégué peut décider de la méthode oralement après avoir obtenu une réponse orale positive du président de la Commission, ou d'un autre membre si le président n'est pas immédiatement disponible. Cette décision verbale est confirmée par une décision écrite motivée contenant les informations visées au paragraphe 2, qui devra parvenir au siège de la Commission au plus tard le premier jour ouvrable suivant la date de la décision verbale.
+
+§ 6. La décision visée au paragraphe 1er est transmise par le dirigeant de service concerné ou son délégué à l'Unité d'information des passagers visée au chapitre 7 de la loi du 25 décembre 2016 relative au traitement des données des passagers.
+
+§ 7. La Commission et le Comité permanent R peuvent à tout moment contrôler la légalité de la méthode de recueil de données, en ce compris les principes énoncés à l'article 13, et interdisent aux services de renseignement et de sécurité d'exploiter les données obtenues dans des conditions qui ne respectent pas les dispositions légales en vigueur.
+
+Si le Comité permanent R constate que les données ont été recueillies dans des conditions qui ne respectent pas les dispositions légales en vigueur, il ordonne leur destruction.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2024-05-16/57, art. 17, 023; En vigueur : 15-07-2024&gt;
+
+##### Art. 16/3/1
+
+[<sup>1</sup> § 1er. Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions, décider de façon dûment motivée d'accéder aux données conservées dans le système central ETIAS conformément à l'article 13 de la loi du 29 mars 2024 relative à la création et à l'organisation des missions de l'Unité nationale ETIAS (U.N.E.).
+
+§ 2. A l'exception des cas visés aux paragraphes 4 et 5, la méthode visée au paragraphe 1er peut seulement être mise en oeuvre après que le président de la Commission, ou un autre membre si le président n'est pas immédiatement disponible, a procédé à un contrôle préalable de la décision écrite et motivée du dirigeant du service concerné ou de son délégué.
+
+La décision du dirigeant du service concerné ou de son délégué mentionne:
+
+1° les personnes physiques qui font l'objet de la méthode;
+
+2° les circonstances de fait qui justifient la méthode ainsi que la motivation relative à la nécessité et à la proportionnalité;
+
+3° l'indication, dûment motivée, du lien direct entre les missions visées aux articles 7, 8 et 11 de la présente loi et les finalités mentionnées à l'article 13, § 1er, de la loi du 29 mars 2024 relative à l'établissement et à l'organisation des missions de l'unité nationale ETIAS (U.N.E.);
+
+4° le cas échéant, les raisons qui justifient l'urgence;
+
+5° le cas échéant, la justification de la nécessité de consulter certaines données du système central ETIAS.
+
+Les mentions visées au deuxième alinéa sont prescrites à peine d'illégalité.
+
+§ 3. Le président de la Commission, ou un autre membre si le président n'est pas immédiatement disponible, adresse au dirigeant du service concerné ou son délégué une réponse écrite au plus tard le premier jour ouvrable après réception de la décision visée au paragraphe 2.
+
+La Commission transmet sans délai au Comité permanent R tous les documents visés aux paragraphes 2 et 3.
+
+§ 4. Si le président de la Commission, ou un autre membre si le président n'est pas immédiatement disponible, transmet une réponse écrite négative ou n'émet pas de réponse écrite dans le délai visé au paragraphe 3, alinéa 1er, le dirigeant du service concerné, ou son délégué, peut saisir le Comité permanent R, qui se prononce dans les plus brefs délais sur la mise en oeuvre de la méthode de recueil des données. Le Comité permanent R communique sa réponse au dirigeant du service concerné ou son délégué et à la Commission.
+
+§ 5. En cas d'urgence nécessitant de prévenir un risque imminent pour la vie d'une personne, le dirigeant du service concerné ou son délégué peut autoriser verbalement la méthode après avoir obtenu une réponse verbale positive du président de la Commission, ou d'un autre membre si le président n'est pas immédiatement disponible. Cette décision verbale est confirmée par une décision écrite motivée contenant les mentions visées au paragraphe 2, qui doit parvenir au siège de la Commission au plus tard le premier jour ouvrable suivant la date de la décision verbale.
+
+§ 6. Dès que la décision du dirigeant du service concerné ou son délégué est approuvée par écrit par la Commission ou le Comité permanent R, sont transmis par écrit ou voie électronique au point d'accès central les éléments nécessaires au contrôle qu'il doit opérer en vertu de l'article 14, § 1er, de la loi du 29 mars 2024 relative à la création et à l'organisation des missions de l'Unité nationale ETIAS (U.N.E.).
+
+§ 7. La Commission et le Comité permanent R peuvent à tout moment contrôler la légalité de la méthode de recueil de données, en ce compris les principes prévus à l'article 13, et interdire aux services de renseignement et de sécurité l'exploitation des données obtenues dans des conditions qui ne respectent pas les dispositions légales en vigueur.
+
+Si le Comité permanent R constate que les données ont été recueillies dans des conditions qui ne respectent pas les dispositions légales en vigueur, il ordonne leur destruction. Dans ce cas, le point d'accès central en est tenu informé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-29/32, art. 41, 022; En vigueur : 09-05-2024&gt;
+
+##### Art. 16/4
+
+[<sup>1</sup> § 1er. Selon les modalités déterminées par le Roi, après avis de l'autorité compétente de contrôle des traitements de données à caractère personnel, un accès direct est autorisé pour les services de renseignement et de sécurité aux informations et données à caractère personnel qui sont collectées au moyen de caméras dont l'utilisation par les services de police est autorisée conformément au chapitre IV, section 1re, et au chapitre IV/1, section 2, de la loi sur la fonction de police et qui sont notamment traitées dans les banques de données visées à l'article 44/2 de ladite loi.
+
+Par dérogation aux articles 25/5, § 2, et 46/2 de la loi sur la fonction de police, les services de police n'exercent pas de contrôle sur le visionnage en temps réel des images par les services de renseignement et de sécurité.
+
+Après anonymisation, les informations et données à caractère personnel visées à l'alinéa 1er peuvent être utilisées à des fins didactiques et pédagogiques dans le cadre de la formation des membres des services de renseignement et de sécurité.
+
+§ 2. Dans l'intérêt de l'exercice de leurs missions, les services de renseignement et de sécurité peuvent accéder de manière ponctuelle et après leur enregistrement aux informations et données à caractère personnel des banques de données visées aux articles 25/6, 44/2, § 3, alinéa 2, 1° et 2°, et 46/12 de la loi sur la fonction de police, si cela est motivé sur le plan opérationnel, nécessaire pour l'exercice d'une mission précise et décidé par un [<sup>3</sup> officier des méthodes]<sup>3</sup>.
+
+Après le premier mois de conservation, l'accès aux données visées au présent paragraphe est décidé par le dirigeant de service ou son délégué.
+
+[<sup>2</sup> En cas d'urgence, le dirigeant du service ou son délégué peut décider verbalement d'accéder à ces données. Cette décision verbale est confirmée par une décision écrite, le premier jour ouvrable qui suit la date de la décision, selon les modalités fixées à l'alinéa 4.]<sup>2</sup>
+
+La décision du dirigeant de service ou de son délégué et sa motivation sont transmises au comité permanent R dans les meilleurs délais. La décision peut porter sur un ensemble de données relatives à une enquête de renseignement spécifique. Dans ce cas, une liste des accès ponctuels est communiquée une fois par mois au Comité permanent R. Le Comité permanent R interdit aux services de renseignement et de sécurité d'exploiter les données recueillies dans [<sup>2</sup> des conditions qui ne respectent pas les dispositions légales]<sup>2</sup>.
+
+L'accès à ces informations et données à caractère personnel est protégé, tous les accès sont journalisés et les raisons concrètes des accès sont enregistrées.
+
+§ 3. Dans l'intérêt de l'exercice de leurs missions, les services de renseignement et de sécurité peuvent mettre les informations et données à caractère personnel des banques de données visées à l'article 44/2, § 3, alinéa 2, 1° et 2°, de la loi sur la fonction de police en corrélation avec :
+
+1° les banques de données gérées par les services de renseignement et de sécurité ou qui leur sont directement disponibles ou accessibles dans le cadre de leurs missions, ou des listes de personnes élaborées par les services de renseignement et de sécurité dans le cadre de leurs missions;
+
+2° des critères d'évaluation préétablis.
+
+Les banques de données ou les listes, ou les critères d'évaluation préétablis visés au présent paragraphe sont préparés dans le but de réaliser cette corrélation après enregistrement des données.
+
+Le contenu des banques de données ou des listes visées à l'alinéa 1er, 1°, utilisées en vue d'une corrélation, est soumis à l'autorisation [<sup>2</sup> d'un officier des méthodes]<sup>2</sup>. La décision de mettre les banques de données ou les listes en corrélation peut porter sur un ensemble de données relatives à une ou plusieurs enquêtes de renseignement spécifiques.
+
+Chaque liste avec laquelle la corrélation visée à l'alinéa 1er, 1°, est réalisée, est communiquée dans les meilleurs délais au Comité permanent R. Le Comité permanent R interdit aux services de renseignement et de sécurité d'exploiter les données recueillies dans [<sup>2</sup> des conditions qui ne respectent pas les dispositions légales]<sup>2</sup>.
+
+Les critères d'évaluation visés à l'alinéa 1er, 2°, sont préalablement présentés au Comité permanent R. Des corrélations qui affinent ces critères d'évaluations ne doivent plus être présentées. Ces critères d'évaluation ne peuvent viser l'identification d'un individu et doivent être ciblés, proportionnés et spécifiques.
+
+§ 4. Dans l'intérêt de l'exercice de leurs missions, les services de renseignement et de sécurité peuvent accéder au registre mentionné à l'article 25/8, alinéa 2, de la loi sur la fonction de police.
+
+§ 5. Dans le cas où l'accès direct visé au présent article est possible, un service de renseignement et de sécurité ne peut pas solliciter le même accès direct sur la base de l'article 14, alinéa 2.
+
+Le magistrat compétent qui estime qu'un accès direct aux informations et aux données à caractère personnel entrave la bonne exécution d'une [<sup>2</sup> information]<sup>2</sup> ou d'une instruction judiciaire, peut décider de suspendre temporairement l'accès. Si un service de renseignement ou de sécurité utilise un accès direct concernant ces informations et données à caractère personnel, il sera informé que ces dernières sont incomplètes.
+
+§ 6. [<sup>2</sup> L'officier des méthodes]<sup>2</sup> qui prend les décisions prévues par cet article, ne peut pas être en même temps le gestionnaire du dossier auquel la décision se rapporte.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-21/21, art. 84, 014; En vigueur : 25-05-2018&gt;
+
+(2)&lt;L 2022-07-14/13, art. 15, 017; En vigueur : 15-08-2022&gt;
+
+(3)&lt;L 2024-03-28/60, art. 127, 021; En vigueur : 08-04-2024&gt;
+
+##### Art. 16/5
+
+[<sup>1</sup> Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions, s'infiltrer dans le monde virtuel, sous couvert ou non d'un faux nom ou d'une fausse qualité. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-14/13, art. 16, 017; En vigueur : 15-08-2022&gt;
+
+##### Art. 16/6
+
+[<sup>1</sup> § 1er. Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions, requérir le concours:
+
+1° des personnes et institutions visées à l'article 5, paragraphe 1er, 3° à 22°, de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces;
+
+2° des personnes et institutions qui, sur le territoire belge, mettent à disposition ou proposent des services en lien avec des valeurs virtuelles permettant d'échanger des moyens de paiement réglementés en valeurs virtuelles;
+
+3° du point de contact central tenu par la Banque nationale de Belgique conformément à la loi du 8 juillet 2018 portant organisation d'un point de contact central des comptes et contrats financiers et portant extension de l'accès au fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt;
+
+afin de procéder à:
+
+a) l'identification des produits et services dont la personne visée est le titulaire, le mandataire ou le bénéficiaire effectif;
+
+b) l'identification des titulaires, des mandataires ou des bénéficiaires effectifs des produits et services.
+
+Le dirigeant du service ou son délégué effectue la réquisition, visée à l'alinéa 1er, 1° et 2°, par écrit. En cas d'extrême urgence, le dirigeant du service ou son délégué peut requérir ces données verbalement. Cette réquisition verbale doit être confirmée par écrit dans un délai de vingt-quatre heures.
+
+La coopération requise visée à l'alinéa 1er, 3°, a lieu après une décision écrite du dirigeant du service ou de son délégué, et conformément à la loi du 8 juillet 2018 portant organisation d'un point de contact central des comptes et contrats financiers et portant extension de l'accès au fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt. En cas d'extrême urgence, le dirigeant du service ou son délégué peut autoriser verbalement la méthode. Cette décision verbale est confirmée par une décision écrite dans un délai de vingt-quatre heures.
+
+§ 2. La personne ou l'institution requise est tenue de remettre sans délai les informations demandées après réception de la réquisition écrite du dirigeant du service ou de son délégué.
+
+[<sup>2</sup> La personne ou l'institution requise qui refuse délibérément de prêter le concours visé au présent article est punie d'une peine de niveau 1, où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 160.000 euros]<sup>2</sup>.
+
+§ 3. Les deux services de renseignement et de sécurité tiennent un registre de toutes les identifications requises. Le service de renseignement et de sécurité concerné transmet chaque mois au Comité permanent R une liste des identifications requises.
+
+Le Comité permanent R interdit aux services de renseignement et de sécurité d'exploiter les données recueillies dans des conditions qui ne respectent pas les dispositions légales. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-14/13, art. 17, 017; En vigueur : 15-08-2022&gt;
+
+(2)&lt;L 2026-03-30/01, art. 120, 025; En vigueur : 01-09-2026&gt;
+
+##### Art. 17
+
+[<sup>2</sup> Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions,]<sup>2</sup> toujours pénétrer dans les lieux accessibles au public et, dans le respect de l'inviolabilité du domicile, visiter les établissements hôteliers et autres établissements de logement.
+
+Ils peuvent se faire présenter par les propriétaires, tenanciers ou préposés de ces établissements, les [<sup>1</sup> données d'inscription]<sup>1</sup> des voyageurs.
+
+----------
+
+(1)&lt;L 2010-02-04/26, art. 12, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2017-03-30/11, art. 24, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 18
+
+[<sup>4</sup> § 1.]<sup>4</sup>[<sup>3</sup> Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions,]<sup>3</sup> avoir recours [<sup>4</sup> à des personnes dont]<sup>4</sup> des sources humaines [<sup>1</sup> pour la collecte de données en rapport avec des événements, des objets, des groupements et des personnes physiques ou morales présentant un intérêt pour l'exercice de leurs missions, conformément aux directives du [<sup>2</sup> Conseil national de sécurité]<sup>2</sup>]<sup>1</sup>. [<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>4</sup> § 2. Dans l'intérêt de l'exercice de leurs missions visées aux articles 7, 1° et 3° /1 et 11, § 1er, 1° à 3° et 5°, les services de renseignement et de sécurité peuvent mettre en oeuvre des méthodes de recueil de données à l'égard d'une source humaine:
+
+1° lorsqu'il y a un doute quant à sa fiabilité, discrétion ou loyauté vis-à-vis du service de renseignement et de sécurité concerné susceptible de causer un préjudice pour l'exercice des missions dudit service, ou
+
+2° pour assurer sa protection.]<sup>4</sup>
+
+----------
+
+(1)&lt;L 2010-02-04/26, art. 13, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2015-12-06/07, art. 6, 006; En vigueur : 28-01-2015&gt;
+
+(3)&lt;L 2017-03-30/11, art. 25, 012; En vigueur : 08-05-2017&gt;
+
+[<sup>2</sup>
+
+(4)&lt;L 2022-07-14/13, art. 18, 017; En vigueur : 15-08-2022&gt;
+
+#### Sous-section 2.]<sup>2</sup>[<sup>1</sup> Des méthodes spécifiques et des méthodes exceptionnelles de recueil de données]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 14, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2017-03-30/11, art. 26, 012; En vigueur : 08-05-2017&gt;
+
+#### A. [<sup>1</sup> Dispositions générales]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 14, 003; En vigueur : 01-09-2010&gt;
+
+##### Art. 18/1
+
+[<sup>1</sup> La présente sous-section s'applique :
+
+1° à la Sûreté de l'Etat pour l'exercice, [<sup>5</sup> sur ou à partir du territoire du Royaume]<sup>5</sup>, des missions visées aux [<sup>2</sup> articles 7, 1° et 3° /1 [<sup>4</sup> ...]<sup>4</sup> ;]<sup>2</sup>, sans préjudice de l'article 18/9, § 1er, 1°;
+
+2° au [<sup>3</sup> Service Général du Renseignement et de la Sécurité]<sup>3</sup> [<sup>5</sup> , sans préjudice de l'article 18/9, § 1er, 2°,]<sup>5</sup> pour l'exercice [<sup>5</sup> ...]<sup>5</sup> des missions visées aux [<sup>2</sup> articles 11, § 1er, 1° à 3° et 5°, et § 2]<sup>2</sup>, [<sup>5</sup> à l'exception de l'interception de communications émises ou reçues à l'étranger et de l'intrusion dans un système informatique situé à l'étranger et de la prise d'images fixes ou animées effectuée à l'étranger, visées aux articles 44 à 44/5.]<sup>5</sup>]<sup>1</sup>
+
+[<sup>6</sup> 3° sans préjudice des 1° et 2°, aux services de renseignement et de sécurité, dans le cadre de l'article 18, paragraphe 2.]<sup>6</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 14, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2016-01-29/09, art. 5, 008; En vigueur : 05-03-2016&gt;
+
+(3)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(4)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(5)&lt;L 2017-03-30/11, art. 27, 012; En vigueur : 08-05-2017&gt;
+
+(6)&lt;L 2022-07-14/13, art. 19, 017; En vigueur : 15-08-2022&gt;
+
+##### Art. 18/2
+
+[<sup>1</sup> § 1er. [<sup>3</sup> Les méthodes spécifiques de recueil de données sont énumérées aux articles 18/4 à 18/8.]<sup>3</sup>
+
+§ 2. [<sup>3</sup> Les méthodes exceptionnelles de recueil de données sont énumérées aux articles 18/11 à 18/17.]<sup>3</sup>
+
+§ 3. Si une méthode visée aux [<sup>4</sup> paragraphes]<sup>4</sup> 1er et 2 est mise en oeuvre à l'égard d'un avocat, d'un médecin ou d'un journaliste, ou de leurs locaux ou de moyens de communication qu'ils utilisent à des fins professionnelles, ou de leur résidence, ou de leur domicile, cette méthode ne peut être exécutée sans que, suivant le cas, le président de l'Ordre des barreaux francophones et germanophone ou le président de l'Orde van Vlaamse balies, le président du Conseil national de l'Ordre des médecins ou le président de l'Association des journalistes professionnels, [<sup>3</sup> ou leur suppléant en cas de maladie ou d'empêchement du président,]<sup>3</sup> en soit averti au préalable par le président de la commission [<sup>4</sup> ou, en cas d'empêchement, par un autre membre de la Commission]<sup>4</sup>. Le président de la commission [<sup>4</sup> ou le membre de la Commission qui remplace le président]<sup>4</sup> est tenu de fournir les informations nécessaires au président de l'Ordre ou de l'association des journalistes professionnels dont fait partie l'avocat, le médecin ou le journaliste [<sup>3</sup> ou à son suppléant]<sup>3</sup>. Le président concerné [<sup>3</sup> et son suppléant sont tenus au secret]<sup>3</sup>. Les peines prévues à [<sup>5</sup> l'article 352]<sup>5</sup> du Code pénal s'appliquent aux infractions à cette obligation de garder le secret.
+
+Si une méthode visée aux [<sup>4</sup> paragraphes]<sup>4</sup> 1er et 2 est mise en oeuvre à l'égard d'un avocat, d'un médecin ou d'un journaliste, ou de leurs locaux ou de moyens de communication qu'ils utilisent à des fins professionnelles, ou de leur résidence ou de leur domicile, le président de la commission [<sup>4</sup> ou, en cas d'empêchement, un autre membre de la Commission]<sup>4</sup> vérifie si les données obtenues grâce à cette méthode, lorsqu'elles sont protégées par le secret professionnel de l'avocat ou du médecin ou par le secret des sources du journaliste, sont directement liées à [<sup>3</sup> la menace potentielle]<sup>3</sup>. [<sup>3</sup> Si aucun lien direct n'est démontré, la Commission interdit aux services de renseignement et de sécurité d'exploiter ces données.]<sup>3</sup>
+
+Si une méthode exceptionnelle visée au [<sup>4</sup> paragraphe]<sup>4</sup> 2 est mise en oeuvre à l'égard d'un avocat, d'un médecin ou d'un journaliste, le président de la commission ou le membre de la commission délégué par lui [<sup>3</sup> peut]<sup>3</sup> être présent lors de la mise en oeuvre de la méthode. [<sup>3</sup> Le président tient compte du risque que sa présence peut occasionner pour l'exécution de la mission, sa propre sécurité et celle des agents et des tiers.]<sup>3</sup>]<sup>1</sup>
+
+[<sup>4</sup> § 4. Lorsqu'une méthode visée aux paragraphes 1er et 2 est mise en oeuvre à l'égard d'une source humaine en application de l'article 18, § 2, il est dérogé aux mentions prescrites sous peine de nullité visées aux articles 18/3, § 2, 2° et 3° et 18/10, § 2, 2° et 3°. ]<sup>4</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 14, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2016-02-05/11, art. 223, 007; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2017-03-30/11, art. 28, 012; En vigueur : 08-05-2017&gt;
+
+(4)&lt;L 2022-07-14/13, art. 20, 017; En vigueur : 15-08-2022&gt;
+
+(5)&lt;L 2026-03-30/01, art. 121, 025; En vigueur : 01-09-2026&gt;
+
+#### B. [<sup>1</sup> Des méthodes spécifiques de recueil des données]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 14, 003; En vigueur : 01-09-2010&gt;
+
+##### Art. 18/3
+
+[<sup>1</sup> § 1er. Les méthodes spécifiques de recueil de données visées à l'article 18/2, § 1er, peuvent être mises en oeuvre compte tenu de la menace potentielle visée à l'article 18/1, [<sup>4</sup> ou dans le cadre de l'article 18, § 2,]<sup>4</sup> si les méthodes ordinaires de recueil de données sont jugées insuffisantes pour permettre de récolter les informations nécessaires à l'aboutissement d'une mission de renseignement. La méthode spécifique doit être choisie en fonction du degré de gravité de la menace potentielle pour laquelle elle est mise en oeuvre [<sup>4</sup> ou en fonction du degré de gravité du préjudice potentiel pour l'exercice des missions des services ou du danger potentiel pour la sécurité de la source humaine dans le cadre de l'article 18, § 2.]<sup>4</sup>.
+
+La méthode spécifique ne peut être mise en oeuvre qu'après décision écrite et motivée du dirigeant du service et après notification de cette décision à la commission.
+
+§ 2. [<sup>2</sup> La décision du dirigeant du service mentionne :
+
+1° la nature de la méthode spécifique;
+
+2° selon le cas, les personnes physiques ou morales, les associations [<sup>3</sup> de fait]<sup>3</sup> ou les groupements, les objets, les lieux, les événements ou les informations soumis à la méthode spécifique;
+
+3° la menace potentielle qui justifie la méthode spécifique;
+
+4° les circonstances de fait qui justifient la méthode spécifique, la motivation en matière de subsidiarité et de proportionnalité, en ce compris le lien entre le 2° et le 3° ;
+
+5° la période pendant laquelle la méthode spécifique peut être appliquée, à compter de la notification de la décision à la Commission;
+
+6° le nom [<sup>4</sup> du (ou des) officier(s) des méthodes]<sup>4</sup> responsable(s) pour le suivi de la mise en oeuvre de la méthode spécifique;
+
+7° le cas échéant, le moyen technique employé pour mettre en oeuvre la méthode spécifique [<sup>3</sup> en application des articles 18/4 ou 18/5]<sup>3</sup>;
+
+8° le cas échéant, le concours avec une information ou une instruction judiciaire;
+
+[<sup>3</sup> 9° le cas échéant, les [<sup>4</sup> du (ou des) officier(s) des méthodes]<sup>4</sup> absolument nécessaires afin d'assurer l'exécution optimale de la méthode ou de garantir la sécurité des agents ou de tiers;
+
+10° le cas échéant, les indices sérieux attestant que l'avocat, le médecin ou le journaliste participe ou a participé personnellement et activement à la naissance ou au développement de la menace potentielle;
+
+11° le cas échéant, les motifs qui justifient l'extrême urgence;
+
+12° dans le cas où il est fait application de l'article 18/8, la motivation de la durée de la période à laquelle a trait la collecte de données;
+
+13° la date de la décision;
+
+14° la signature du dirigeant du service.]<sup>3</sup>]<sup>2</sup>
+
+[<sup>3</sup> Les mentions visées aux 1° à 4°, 7°, 9°, 10°, 11° et 14° sont prescrites sous peine d'illégalité.]<sup>3</sup>
+
+[<sup>4</sup> Dans le cadre de l'article 18, § 2, et par dérogation au paragraphe 2, 2° et 3°, la décision du dirigeant du service mentionne respectivement le code d'identification de la source humaine et le préjudice potentiel pour l'exercice des missions des services ou le danger potentiel pour la sécurité de la source humaine.]<sup>4</sup>
+
+§ 3. [<sup>3</sup> En cas d'extrême urgence, le dirigeant du service peut autoriser verbalement la méthode spécifique. Cette décision verbale est confirmée par une décision écrite motivée comprenant les mentions prévues au paragraphe 2 et qui doit parvenir au siège de la Commission au plus tard le premier jour ouvrable qui suit la date de la décision.
+
+[<sup>4</sup> l'officier des méthodes]<sup>4</sup> peut requérir verbalement ou par écrit le concours des personnes visées aux articles 18/6, [<sup>4</sup> 18/6/1]<sup>4</sup> 18/7 et 18/8. La nature de la méthode leur est communiquée. En cas de réquisition verbale, celle-ci est confirmée par écrit dans les plus brefs délais par [<sup>4</sup> l'officier des méthodes]<sup>4</sup>.]<sup>3</sup>
+
+§ 4. L'utilisation de la méthode spécifique ne peut être prolongée ou renouvelée que moyennant une nouvelle décision du dirigeant du service qui répond aux conditions prévues au § 1er.]<sup>1</sup>
+
+[<sup>2</sup> § 5.]<sup>2</sup> (ancien §1er, L3) Les méthodes spécifiques ne peuvent être mise en oeuvre à l'égard d'un avocat, d'un médecin ou d'un journaliste, ou de moyens de communication que ceux-ci utilisent à des fins professionnelles qu'à la condition que le service de renseignement et de sécurité dispose au préalable d'indices sérieux attestant que l'avocat, le médecin ou le journaliste participe ou a participé personnellement et activement à la naissance ou au développement de la menace potentielle et après que la commission a rendu, conformément à l'article 18/10, un avis conforme sur [<sup>3</sup> le projet de décision]<sup>3</sup> du dirigeant du service.
+
+[<sup>2</sup> § 6.]<sup>2</sup> (ancien § 2, L2-L5) Les membres de la commission peuvent contrôler à tout moment la légalité des [<sup>4</sup> méthodes spécifiques de recueil de données, y compris le respect des principes de subsidiarité et de proportionnalité visés à l'article 18/3, § 1er]<sup>4</sup>.
+
+Ils peuvent, à cet effet, pénétrer dans les lieux où sont réceptionnées ou conservées les données relatives aux méthodes spécifiques, se saisir de toutes les pièces utiles et entendre les membres du service.
+
+Les données recueillies dans des conditions qui ne respectent pas les dispositions légales en vigueur sont conservées sous le contrôle de la commission, selon les modalités et les délais fixés par le Roi, après avis [<sup>4</sup> du Comité permanent R]<sup>4</sup>. La commission interdit aux services de renseignement et de sécurité d'exploiter ces données et suspend la méthode mise en oeuvre si celle-ci est toujours en cours.
+
+La commission notifie de sa propre initiative et sans délai sa décision au Comité permanent R.
+
+[<sup>2</sup> § 7.]<sup>2</sup> (ancien §1er, L4) [<sup>4</sup> L'officier des méthodes]<sup>4</sup> désigné pour [<sup>2</sup> le suivi de la mise]<sup>2</sup> en oeuvre la méthode spécifique de recueil de données informe régulièrement le dirigeant du service de l'exécution de cette méthode.
+
+[<sup>2</sup> § 8. Le dirigeant du service met fin à la méthode spécifique lorsque la menace potentielle qui la justifie a disparu, lorsque la méthode n'est plus utile pour la finalité pour laquelle elle avait été mise en oeuvre, ou quand il a constaté une illégalité. Il informe dans les plus brefs délais la Commission de sa décision.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 14, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2016-05-29/03, art. 13, 010; En vigueur : 28-07-2016&gt;
+
+(3)&lt;L 2017-03-30/11, art. 29, 012; En vigueur : 08-05-2017&gt;
+
+(4)&lt;L 2022-07-14/13, art. 21, 017; En vigueur : 15-08-2022&gt;
+
+##### Art. 18/4
+
+[<sup>1</sup> § 1er. Dans l'intérêt de l'exercice de leurs missions, les services de renseignement et de sécurité peuvent observer à l'aide de moyens techniques:
+
+1° des lieux accessibles au public;
+
+2° des personnes et objets qui s'y trouvent;
+
+3° des événements qui s'y déroulent;
+
+et y installer un moyen technique, intervenir sur ce moyen ou le retirer.
+
+§ 2. Dans l'intérêt de l'exercice de leurs missions, les services de renseignement et de sécurité peuvent observer à l'aide ou non de moyens techniques:
+
+1° des lieux non accessibles au public qui ne sont pas soustraits à la vue;
+
+2° des personnes et objets qui s'y trouvent;
+
+3° des événements qui s'y déroulent;
+
+sans pénétrer dans ces lieux.]<sup>1</sup>
+
+[<sup>2</sup> § 3. L'observation à l'aide de moyens techniques peut être mise en oeuvre via un accès direct aux informations et données à caractère personnel visées à l'article 16/4, § 1er.
+
+Le cas échéant, elle peut être mise en oeuvre via la corrélation visée à l'article 16/4, § 3, pour laquelle les banques de données ou les listes, ou les critères d'évaluation préétablis sont préparés dans le but de réaliser cette corrélation en temps réel, au moment de la collecte des données par les caméras intelligentes ou les systèmes intelligents de reconnaissance automatique de plaques d'immatriculation.
+
+La décision du dirigeant de service peut porter sur un ensemble de données relatives à une enquête de renseignement spécifique.
+
+Les critères d'évaluation visés à l'article 16/4, § 3, alinéa 1er, 2°, ne peuvent viser l'identification d'un individu et doivent être ciblés, proportionnés et spécifiques.
+
+Par dérogation à l'article 18/3, § 2, 2° à 4°, la décision mentionne le phénomène ou la menace qui fait l'objet de la méthode et le lien avec les critères.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 30, 012; En vigueur : 08-05-2017&gt;
+
+(2)&lt;L 2018-03-21/21, art. 85, 014; En vigueur : 25-05-2018&gt;
+
+##### Art. 18/5
+
+[<sup>1</sup> Dans l'intérêt de l'exercice de leurs missions, les services de renseignement et de sécurité peuvent:
+
+1° inspecter à l'aide de moyens techniques des lieux accessibles au public;
+
+2° inspecter le contenu d'objets verrouillés ou non qui s'y trouvent;
+
+3° emporter des objets verrouillés ou non pour une durée strictement limitée, si leur examen ne peut se faire sur place pour des raisons techniques ou de sécurité. Ces objets sont remis en place le plus rapidement possible, à moins que cela n'entrave le bon déroulement de la mission.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 31, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 18/5/1
+
+[<sup>1</sup> Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions, s'infiltrer dans le monde virtuel sous couvert d'une identifié fictive ou d'une qualité fictive. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-14/13, art. 22, 017; En vigueur : 15-08-2022&gt;
+
+##### Art. 18/6
+
+[<sup>1</sup> § 1er. Les services de renseignement et de sécurité peuvent [<sup>2</sup> , dans l'intérêt de l'exercice de leurs missions,]<sup>2</sup> prendre connaissance des données d'identification de l'expéditeur ou du destinataire d'un courrier confié ou non à un opérateur postal et des données d'identification du titulaire d'une boîte postale [<sup>2</sup> ...]<sup>2</sup>. Lorsque le concours d'un opérateur postal est requis, le dirigeant du service adresse une demande écrite à cet opérateur. La nature de la décision est communiquée à l'opérateur postal qui est requis.
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>
+
+§ 3. [<sup>3</sup> L'opérateur postal qui refuse délibérément de prêter le concours visé au présent article est puni d'une peine de niveau 1, où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 160.000 euros]<sup>3</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 14, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2017-03-30/11, art. 32, 012; En vigueur : 08-05-2017&gt;
+
+(3)&lt;L 2026-03-30/01, art. 122, 025; En vigueur : 01-09-2026&gt;
+
+##### Art. 18/6/1
+
+[<sup>1</sup> Dans l'intérêt de l'exercice de leurs missions, les services de renseignement et de sécurité peuvent requérir des données de transport et de voyage auprès de tout fournisseur privé de service en matière de transport ou de voyage. Le dirigeant du service adresse une réquisition écrite. La nature de la méthode est communiquée au fournisseur du service qui est requis.
+
+[<sup>2</sup> Le fournisseur de service en matière de transport ou de voyage qui refuse délibérément de communiquer les informations en sa possession requises en application du présent article est puni d'une peine de niveau 1, où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 160.000 euros]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-30/11, art. 33, 012; En vigueur : 08-05-2017&gt;
+
+(2)&lt;L 2026-03-30/01, art. 123, 025; En vigueur : 01-09-2026&gt;
+
+##### Art. 18/7
+
+[<sup>1</sup> § 1er. [<sup>2</sup> [<sup>4</sup> Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions]<sup>4</sup> procéder ou faire procéder à :
+
+1° l'identification ou la localisation, à l'aide d'un moyen technique, des services et des moyens de communication électronique auxquels une personne déterminée est abonnée ou qui sont habituellement utilisés par une personne déterminée;
+
+2° la réquisition de l'opérateur d'un réseau de communications électroniques ou d'un fournisseur d'un service de communications électroniques afin d'obtenir [<sup>4</sup> la communication des factures afférentes aux abonnements identifiés,]<sup>4</sup> les données relatives à la méthode de paiement, l'identification du moyen de paiement et le moment du paiement de l'abonnement ou de l'utilisation du service de communications électroniques. Un service de renseignement et de sécurité peut également obtenir les données visées au moyen d'un accès aux fichiers des clients de l'opérateur ou du fournisseur du service.]<sup>2</sup>
+
+§ 2. [<sup>3</sup> ...]<sup>3</sup>
+
+§ 3. Tout opérateur d'un réseau de communications et tout fournisseur d'un service de communications qui est requis de communiquer les données visées au § 1er donne au dirigeant du service les données qui ont été demandées dans un délai et suivant les modalités à fixer par un arrêté royal pris sur la proposition du Ministre de la Justice, du Ministre de la Défense et du Ministre qui a les communications électroniques dans ses attributions.
+
+Le Roi fixe, sur la proposition du Ministre de la Justice, du Ministre de la Défense et du Ministre qui a les communications électroniques dans ses attributions, les conditions auxquelles l'accès visé au § 1er est possible pour [<sup>4</sup> le service concerné]<sup>4</sup>.
+
+[<sup>5</sup> Toute personne visée à l'alinéa 1er qui refuse délibérément de communiquer les données ainsi demandées est punie d'une peine de niveau 1, où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 160.000 euros.]<sup>5</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 14, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2016-02-05/11, art. 224, 007; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2017-03-30/11, art. 34, 012; En vigueur : 08-05-2017&gt;
+
+(4)&lt;L 2022-07-20/14, art. 36, 018; En vigueur : 18-08-2022&gt;
+
+(5)&lt;L 2026-03-30/01, art. 124, 025; En vigueur : 01-09-2026&gt;
+
+##### Art. 18/8
+
+[<sup>1</sup> § 1er. Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions, au besoin en requérant à cette fin le concours technique de l'opérateur d'un réseau de communications électroniques ou du fournisseur d'un service de communications électroniques, procéder ou faire procéder:
+
+1° au repérage des données de trafic de moyens de communication électronique à partir desquels ou vers lesquels des communications électroniques sont adressées ou ont été adressées;
+
+2° à la localisation de l'origine ou de la destination de communications électroniques.
+
+Dans les cas visés à l'alinéa 1er et pour chaque moyen de communication électronique dont les données de trafic sont repérées ou dont l'origine ou la destination de la communication électronique est localisée, le jour, l'heure et la durée ainsi que, si nécessaire, le lieu de la communication électronique sont indiqués et consignés dans un rapport.
+
+La nature de la décision est communiquée à l'opérateur requis du réseau de communications électroniques ou au fournisseur du service de communications électroniques qui est requis.
+
+§ 2. [...]
+
+§ 3. Tout opérateur d'un réseau de communications électroniques et tout fournisseur d'un service de communications électroniques qui est requis de communiquer les données visées au paragraphe 1er donne au dirigeant du service les données qui ont été demandées dans un délai et selon les modalités à fixer par un arrêté royal pris sur la proposition du ministre de la Justice, du ministre de la Défense et du ministre qui a les Communications électroniques dans ses attributions.
+
+[<sup>2</sup> Toute personne visée à l'alinéa 1er qui refuse délibérément de prêter son concours technique aux réquisitions visées au présent article est punie d'une peine de niveau 1, où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 160.000 euros]<sup>2</sup>.
+
+§ 4. [...]".]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-07-20/14, art. 37, 018; En vigueur : 18-08-2022&gt;
+
+(2)&lt;L 2026-03-30/01, art. 125, 025; En vigueur : 01-09-2026&gt;
+
+#### C. [<sup>1</sup> Des méthodes exceptionnelles de recueil des données]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 14, 003; En vigueur : 01-09-2010&gt;
+
+##### Art. 18/9
+
+[<sup>1</sup> § 1er. Les méthodes exceptionnelles de recueil des données visées à l'article 18/2, § 2, peuvent être mises en oeuvre :
+
+1° [<sup>5</sup> par la Sûreté de l'Etat, lorsqu'il existe une menace potentielle grave contre un intérêt fondamental de l'Etat visé à l'article 8, 2° à 4°, et lorsque cette menace potentielle est liée à une activité visée à l'article 8, 1° ou est liée à une activité d'un service de renseignement étranger [<sup>6</sup> ou dans le cadre de l'article 18, § 2 lorsqu'il existe un préjudice potentiel grave pour l'exercice des missions des services ou un danger potentiel grave pour la sécurité de la source humaine]<sup>6</sup>;]<sup>5</sup>
+
+2° [<sup>5</sup> par le Service Général du Renseignement et de la Sécurité lorsqu'il existe une menace potentielle grave contre un intérêt fondamental visé à l'article 11, § 1er, 1° à 3° et 5°, à l'exception de tout autre intérêt fondamental du pays défini par le Roi visé à l'article 11, § 1er, 1°, f [<sup>6</sup> ou, dans le cadre de l'article 18, § 2 lorsqu'il existe un préjudice potentiel grave pour l'exercice des missions des services ou un danger potentiel grave pour la sécurité de la source humaine]<sup>6</sup>).]<sup>5</sup>
+
+§ 2. A titre exceptionnel et [<sup>6</sup> compte tenu d'une menace, d'un préjudice ou d'un danger potentiel visé au paragraphe 1er]<sup>6</sup>]<sup>5</sup>, les méthodes exceptionnelles de recueil de données visées à l'article 18/2, § 2, ne peuvent être mises en oeuvre que si les méthodes ordinaires et spécifiques de recueil de données sont jugées insuffisantes pour permettre de recueillir les informations nécessaires à l'aboutissement d'une mission de renseignement.
+
+Le dirigeant du service ne peut autoriser la mise en oeuvre d'une méthode exceptionnelle qu'après avis conforme de la commission.
+
+§ 3. La méthode exceptionnelle doit être choisie en fonction du degré de gravité que représente la menace potentielle [<sup>5</sup> ...]<sup>5</sup> [<sup>6</sup> ou en fonction du degré de gravité du préjudice potentiel pour l'exercice des missions des services ou du danger potentiel pour la sécurité de la source humaine dans le cadre de l'article 18, § 2]<sup>6</sup>.
+
+§ 4. Les méthodes exceptionnelles ne peuvent être mises en oeuvre à l'égard d'un avocat, d'un médecin, d'un journaliste, ou des locaux ou moyens de communications qu'ils utilisent à des fins professionnelles, ou de leur résidence, ou de leur domicile qu'à la condition que le service de renseignement et de sécurité dispose préalablement d'indices sérieux attestant que l'avocat, le médecin ou le journaliste participe ou a participé personnellement et activement à la naissance ou au développement [<sup>5</sup> d'une menace potentielle grave visée au paragraphe 1er]<sup>5</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 14, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2015-12-06/07, art. 5, 006; En vigueur : 28-01-2015&gt;
+
+(3)&lt;L 2016-01-29/09, art. 6, 008; En vigueur : 05-03-2016&gt;
+
+(4)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(5)&lt;L 2017-03-30/11, art. 36, 012; En vigueur : 08-05-2017&gt;
+
+(6)&lt;L 2022-07-14/13, art. 23, 017; En vigueur : 15-08-2022&gt;
+
+##### Art. 18/10
+
+[<sup>1</sup> § 1er. Le dirigeant du service soumet son projet d'autorisation à l'avis conforme de la commission, qui vérifie si les dispositions légales relatives à l'utilisation de la méthode exceptionnelle pour le recueil de données, ainsi que [<sup>2</sup> les principes de subsidiarité et de proportionnalité]<sup>2</sup> prévus à l'article 18/9 § § 2 et 3, sont respectés et qui contrôle les mentions prescrites par le § 2.
+
+Sauf disposition légale contraire, la période durant laquelle la méthode exceptionnelle de recueil de données peut être appliquée ne peut excéder deux mois, [<sup>2</sup> à compter de l'autorisation,]<sup>2</sup> sans préjudice de la possibilité de prolongation prévue au § 5.
+
+[<sup>3</sup> L'officier des méthodes]<sup>3</sup> désigné [<sup>2</sup> pour le suivi de la mise en oeuvre de la méthode exceptionnelle de recueil de données]<sup>2</sup> informe régulièrement le dirigeant du service, qui, à son tour, informe la commission de l'exécution de cette méthode, selon les modalités et délais déterminés par le Roi.
+
+[<sup>2</sup> Le dirigeant du service met fin à la méthode exceptionnelle lorsque la menace potentielle grave qui la justifie a disparu, lorsque la méthode n'est plus utile pour la finalité pour laquelle elle avait été mise en oeuvre, ou quand il a constaté une illégalité. Il informe dès que possible la Commission de sa décision.]<sup>2</sup>
+
+§ 2. [<sup>2</sup> Le projet d'autorisation du dirigeant du service mentionne:
+
+1° la nature de la méthode exceptionnelle;
+
+2° selon le cas, la ou les personnes physiques ou morales, les associations de fait ou les groupements, les objets, les lieux, les événements ou les informations faisant l'objet de la méthode exceptionnelle de recueil de données;
+
+3° la menace potentielle grave qui justifie la méthode exceptionnelle de recueil de données;
+
+4° les circonstances de fait qui justifient la méthode exceptionnelle, la motivation en matière de subsidiarité et de proportionnalité, en ce compris le lien entre le 2° et le 3° ;
+
+5° la période pendant laquelle la méthode exceptionnelle de recueil de données peut être mise en oeuvre à compter de l'autorisation du dirigeant du service;
+
+6° le nom du ou [<sup>3</sup> des officier(s) des méthodes]<sup>3</sup> désigné(s) pour le suivi de la mise en oeuvre de la méthode exceptionnelle;
+
+7° le cas échéant, le moyen technique employé pour mettre en oeuvre la méthode exceptionnelle en application des articles 18/11 ou 18/12;
+
+8° le cas échéant, le concours d'une information ou d'une instruction judiciaire;
+
+9° le cas échéant, [<sup>3</sup> les faits susceptibles d'être qualifiés infraction(s)]<sup>3</sup> absolument nécessaires afin d'assurer l'exécution optimale de la méthode ou de garantir la sécurité des agents ou de tiers;
+
+10° le cas échéant, les indices sérieux attestant que l'avocat, le médecin ou le journaliste participe ou a participé personnellement et activement à la naissance ou au développement de la menace potentielle;
+
+11° le cas échéant, les motifs qui justifient l'extrême urgence;
+
+12° la date de l'autorisation;
+
+13° la signature du dirigeant du service.
+
+Les mentions visées à l'alinéa 1er sont prescrites sous peine d'illégalité.]<sup>2</sup>
+
+[<sup>3</sup> Dans le cadre de l'article 18, § 2, et par dérogation au paragraphe 2, 2° et 3°, la décision du dirigeant du service mentionne respectivement le code d'identification de la source humaine et le préjudice potentiel grave pour l'exercice des missions des services ou le danger potentiel grave pour la sécurité de la source humaine.]<sup>3</sup>
+
+§ 3. La commission donne son avis conforme dans les quatre jours de la réception [<sup>2</sup> du projet d'autorisation]<sup>2</sup>.
+
+Si la commission rend un avis négatif, la méthode exceptionnelle de recueil de données ne peut pas être mise en oeuvre par le service concerné.
+
+Si la commission ne rend pas d'avis dans le délai de quatre jours [<sup>2</sup> ou informe le service concerné qu'elle est dans l'impossibilité de délibérer dans ce délai conformément à l'article 43, paragraphe 1er, alinéa 7]<sup>2</sup>, le service concerné peut saisir le ministre compétent, qui autorisera ou n'autorisera pas la mise en oeuvre dans les plus brefs délais de la méthode envisagée. Le ministre communique sa décision aux présidents de la commission et du Comité permanent R.
+
+Le dirigeant du service informe le ministre du suivi de la méthode exceptionnelle ainsi autorisée en lui faisant, selon une périodicité fixée par le ministre dans son autorisation, un rapport circonstancié sur le déroulement de la méthode.
+
+Le ministre concerné met fin à la méthode exceptionnelle qu'il a autorisée [<sup>2</sup> lorsque la menace potentielle qui la justifie a disparu]<sup>2</sup> ou si la méthode en question ne s'avère plus utile à la finalité pour laquelle elle a été décidée. Il suspend la méthode lorsqu'il constate une illégalité. Dans ce cas, le ministre concerné porte sans délai à la connaissance de la commission, du dirigeant du service et du Comité permanent R sa décision motivée de mettre fin à la méthode exceptionnelle ou de la suspendre, selon le cas.
+
+§ 4. [<sup>2</sup> En cas d'extrême urgence, et lorsque tout retard apporté à l'autorisation est de nature à compromettre gravement les intérêts visés à l'article 18/9, le dirigeant du service peut autoriser verbalement la méthode exceptionnelle de recueil de données pour une durée ne pouvant excéder cinq jours, après avoir obtenu au bénéfice de l'urgence l'avis conforme verbal du président de la Commission.
+
+Si le président de la Commission n'est pas joignable, le dirigeant du service peut prendre contact avec un autre membre de la Commission.
+
+Le président, ou l'autre membre contacté, informe immédiatement les autres membres de la Commission de son avis verbal.
+
+[<sup>3</sup> L'officier des méthodes]<sup>3</sup> peut requérir par écrit le concours des personnes visées aux articles 18/14, 18/15, 18/16 et 18/17. La nature de la méthode leur est communiquée. Cette réquisition est communiquée le plus rapidement possible au dirigeant du service.
+
+Le dirigeant du service confirme par écrit l'autorisation verbale et la notifie au siège de la Commission, selon les modalités fixées par le Roi, au maximum dans les vingt-quatre heures de cette autorisation. Cette confirmation écrite comprend les mentions visées au paragraphe 2.
+
+Le cas échéant, cette confirmation indique les motifs qui justifient le maintien de la mise en oeuvre de la méthode au-delà du délai de cinq jours, sans excéder les deux mois visés au paragraphe 1er, alinéa 2. Dans ce cas, cette confirmation vaut projet d'autorisation visé au paragraphe 1er.
+
+Dans le cas où la nécessité du maintien de la méthode au-delà du délai de cinq jours n'a pas pu être anticipée ou dans des circonstances exceptionnelles, le dirigeant du service peut en autoriser la prolongation selon la procédure de l'alinéa 1er.]<sup>2</sup>
+
+[<sup>3</sup> Si le président ou le membre de la Commission contacté]<sup>3</sup> rend un avis [<sup>2</sup> verbal]<sup>2</sup> négatif, la méthode exceptionnelle de recueil de données ne peut pas être mise en oeuvre par le service concerné.
+
+[<sup>3</sup> Si le président ou le membre de la Commission contacté]<sup>3</sup> ne rend pas immédiatement un avis dans les cas d'extrême urgence, le service concerné peut saisir le ministre compétent, qui autorisera ou non le recours à la méthode envisagée. Le ministre communique sa décision aux présidents de la commission et du Comité permanent R.
+
+Le dirigeant du service informe le ministre du suivi de la méthode exceptionnelle ainsi autorisée en lui faisant, selon une périodicité fixée par le ministre dans son autorisation, un rapport circonstancié sur le déroulement de la méthode.
+
+Le ministre concerné met fin à la méthode exceptionnelle qu'il a autorisée [<sup>2</sup> lorsque la menace potentielle qui la justifie a disparu]<sup>2</sup> ou si la méthode en question ne s'avère plus utile à la finalité pour laquelle elle a été décidée. Il suspend la méthode lorsqu'il constate une illégalité. Dans ce cas, le ministre concerné porte sans délai à la connaissance de la commission, du dirigeant du service et du Comité permanent R sa décision motivée de mettre fin à la méthode ou de la suspendre, selon le cas.
+
+Il est en tout cas mis fin à la méthode exceptionnelle dans les [<sup>2</sup> cinq jours]<sup>2</sup> à compter de l'autorisation accordée par le ministre concerné [<sup>2</sup> , sauf dans les cas de prolongation visés aux alinéas 5 et 6]<sup>2</sup>.
+
+§ 5. Le dirigeant du service peut, sur avis conforme préalable de la commission, autoriser la prolongation de la méthode exceptionnelle de recueil de données pour une nouvelle période ne pouvant excéder deux mois [<sup>2</sup> à compter de l'échéance de la méthode en cours]<sup>2</sup>, sans préjudice de l'obligation qui lui est faite de mettre fin à la méthode dès que [<sup>2</sup> la menace potentielle qui la justifie a disparu]<sup>2</sup> [<sup>2</sup> ,]<sup>2</sup> que la méthode n'est plus utile à la finalité pour laquelle elle a été décidée [<sup>2</sup> ou qu'il constate]<sup>2</sup> une illégalité. Dans ce cas, le dirigeant du service concerné porte [<sup>2</sup> ...]<sup>2</sup> à la connaissance de la commission sa décision motivée de mettre fin à la méthode exceptionnelle [<sup>2</sup> ...]<sup>2</sup>.
+
+Une seconde prolongation et toute nouvelle prolongation de la méthode exceptionnelle de recueil de données n'est possible qu'en présence de circonstances particulières nécessitant de prolonger l'utilisation de cette méthode. Ces motifs particuliers sont indiqués dans la décision. Si ces circonstances particulières font défaut, il doit être mis fin à la méthode.
+
+Les conditions prévues aux paragraphes 1er à 3 sont applicables aux modalités de prolongation de la méthode exceptionnelle de recueil de données qui sont prévues dans le présent paragraphe.
+
+§ 6. Les membres de la commission peuvent à tout moment contrôler la légalité des méthodes exceptionnelles de recueil de données, y compris le respect des principes de subsidiarité et de proportionnalité, prévues à l'article 18/9, § § 2 et 3.
+
+Ils peuvent à cet effet pénétrer dans les lieux où sont réceptionnées ou conservées les données recueillies par ces méthodes exceptionnelles, se saisir de toutes les pièces utiles et entendre les membres du service.
+
+La commission met fin à la méthode exceptionnelle de recueil de données lorsqu'elle constate que [<sup>2</sup> la menace potentielle qui la justifie a disparu]<sup>2</sup> ou si la méthode exceptionnelle ne s'avère plus utile à la finalité pour laquelle elle a été mise en oeuvre, ou suspend la méthode exceptionnelle en cas d'illégalité.
+
+Les données recueillies dans des conditions qui ne respectent pas les dispositions légales en vigueur sont conservées sous le contrôle de la commission, selon les modalités et délais fixés par le Roi, après avis [<sup>3</sup> du Comité permanent R]<sup>3</sup>. La commission interdit aux services de renseignement et de sécurité d'exploiter ces données.
+
+§ 7. La commission informe, de sa propre initiative, le Comité permanent R [<sup>2</sup> du projet d'autorisation, visé au paragraphe 2, introduit]<sup>2</sup> par le service de renseignement et de sécurité concerné, de l'avis conforme visé au § 3 [<sup>2</sup> , la confirmation écrite de l'autorisation verbale visée au paragraphe 4]<sup>2</sup>, de l'éventuelle prolongation, visée au § 5, de la méthode exceptionnelle de recueil de données et de sa décision visée au § 6 de mettre fin à la méthode ou, le cas échéant, de la suspendre et d'interdire l'exploitation des données ainsi recueillies.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 14, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2017-03-30/11, art. 37, 012; En vigueur : 08-05-2017&gt;
+
+(3)&lt;L 2022-07-14/13, art. 24, 017; En vigueur : 15-08-2022&gt;
+
+##### Art. 18/11
+
+[<sup>1</sup> § 1er. Dans l'intérêt de l'exercice de leurs missions, les services de renseignement et de sécurité peuvent observer, à l'aide ou non de moyens techniques:
+
+1° des lieux non accessibles au public qui sont soustraits à la vue;
+
+2° des personnes et objets qui s'y trouvent;
+
+3° des événements qui s'y déroulent.
+
+§ 2. Dans l'intérêt de l'exercice de leurs missions, les services de renseignement et de sécurité peuvent, à l'insu du propriétaire ou de son ayant droit ou sans le consentement de ceux-ci, pénétrer, à tout moment, dans des lieux non accessibles au public, soustraits ou non à la vue, pour:
+
+1° exécuter l'observation;
+
+2° y installer un moyen technique, intervenir sur ce moyen ou le retirer;
+
+3° ouvrir un objet verrouillé pour y placer un moyen technique;
+
+4° emporter un objet pour y installer un moyen technique, intervenir sur cet objet et le replacer.
+
+Le moyen technique est retiré ou l'objet emporté est remis en place le plus rapidement possible à l'échéance de l'observation, à moins que cela n'entrave le bon déroulement de la mission.]<sup>1</sup>
+
+[<sup>2</sup> § 3. L'observation à l'aide de moyens techniques peut être mise en oeuvre via un accès direct aux informations et données à caractère personnel visées à l'article 16/4, § 1er.
+
+Le cas échéant, elle peut être mise en oeuvre via la corrélation visée à l'article 16/4, § 3, pour laquelle les banques de données ou les listes, ou les critères d'évaluation préétablis sont préparés dans le but de réaliser cette corrélation en temps réel, au moment de la collecte des données par les caméras intelligentes ou les systèmes intelligents de reconnaissance automatique de plaques d'immatriculation.
+
+La décision du dirigeant du service peut porter sur un ensemble de données relatives à une enquête de renseignement spécifique.
+
+Les critères d'évaluation visés à l'article 16/4, § 3, alinéa 1er, 2°, ne peuvent viser l'identification d'un individu et doivent être ciblés, proportionnés et spécifiques.
+
+Par dérogation à l'article 18/10, § 2, 2° à 4°, le projet d'autorisation mentionne le phénomène ou la menace qui fait l'objet de la méthode et le lien avec les critères.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 38, 012; En vigueur : 08-05-2017&gt;
+
+(2)&lt;L 2018-03-21/21, art. 86, 014; En vigueur : 25-05-2018&gt;
+
+##### Art. 18/12
+
+[<sup>1</sup> Dans l'intérêt de l'exercice de leurs missions, les services de renseignement et de sécurité peuvent, à tout moment, à l'insu du propriétaire ou de son ayant droit ou sans le consentement de ceux-ci:
+
+1° inspecter, à l'aide ou non de moyens techniques, des lieux non accessibles au public;
+
+2° inspecter le contenu d'objets verrouillés ou non qui s'y trouvent;
+
+3° emporter des objets verrouillés ou non pour une durée strictement limitée, si leur examen ne peut se faire sur place pour des raisons techniques ou de sécurité;
+
+4° pénétrer dans ces lieux pour replacer les objets.
+
+Ceux-ci doivent être replacés le plus rapidement possible, à moins que cela n'entrave le bon déroulement de la mission.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 39, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 18/12/1
+
+[<sup>1</sup> Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions, s'infiltrer dans le monde réel, conformément aux directives du Conseil national de sécurité.
+
+Le monde réel vise les relations qui se déroulent principalement avec des contacts physiques directs sans dissimuler son apparence physique.
+
+La méthode est autorisée aussi longtemps qu'elle est nécessaire aux finalités pour lesquelles elle est mise en oeuvre.
+
+Le service de renseignement et de sécurité concerné fait rapport à la Commission tous les deux mois sur l'évolution de la menace qui a nécessité le recours à l'infiltration dans le monde réel. Ce rapport met en évidence les éléments qui justifient soit le maintien de la méthode exceptionnelle, soit la fin de celle-ci. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2022-07-14/13, art. 25, 017; En vigueur : 15-08-2022&gt;
+
+##### Art. 18/13
+
+[<sup>1</sup> [<sup>2</sup> Dans l'intérêt de l'exercice de leurs missions, les services de renseignement et de sécurité peuvent recourir à une personne morale visée à l'article 13/3, § 1er, afin de collecter des données en rapport avec des événements, des objets, des groupements et des personnes physiques ou morales présentant un intérêt pour l'exercice de leurs missions.]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> La méthode est autorisée aussi longtemps qu'elle est nécessaire aux finalités pour lesquelles elle est mise en oeuvre.]<sup>2</sup>
+
+Le service de renseignement et de sécurité concerné fait rapport à la commission tous les deux mois sur l'évolution de l'opération qui a nécessité [<sup>2</sup> ...]<sup>2</sup> le recours à une personne morale. Ce rapport met en évidence les éléments qui justifient soit le maintien de la méthode exceptionnelle, soit la fin de celle-ci. [<sup>2</sup> ...]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 8, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2017-03-30/11, art. 40, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 18/14
+
+[<sup>1</sup> § 1er. [<sup>3</sup> Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions,]<sup>3</sup> [<sup>2</sup> ...]<sup>2</sup> ouvrir un courrier confié ou non à un opérateur postal et [<sup>2</sup> prendre]<sup>2</sup> connaissance de son contenu.
+
+L'opérateur postal visé à l'alinéa 1er est tenu de remettre le courrier auquel l'autorisation se rapporte, contre récépissé, à un agent du service [<sup>2</sup> ...]<sup>2</sup>, sur présentation de sa carte de légitimation et d'une demande écrite du dirigeant du service. Cette demande mentionne la nature de l'avis conforme de la commission, la nature de l'avis conforme du président de la commission ou la nature de l'autorisation du ministre concerné, selon le cas.
+
+§ 2. Les services veillent à ce qu'un envoi postal remis par un opérateur postal soit rendu sans délai, après son examen, à l'opérateur de la poste pour expédition ultérieure.
+
+§ 3. [<sup>4</sup> L'opérateur postal qui refuse délibérément de prêter le concours visé aux paragraphes 1er et 2 est puni d'une peine de niveau 1, où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 160.000 euros]<sup>4</sup>.
+
+§ 4. L'Etat est civilement responsable vis-à-vis de l'opérateur postal en cas de dommage causé au courrier qui lui a été confié.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 14, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2017-03-30/11, art. 41, 012; En vigueur : 08-05-2017&gt;
+
+(3)&lt;L 2022-07-20/14, art. 38, 018; En vigueur : 18-08-2022&gt;
+
+(4)&lt;L 2026-03-30/01, art. 126, 025; En vigueur : 01-09-2026&gt;
+
+##### Art. 18/15
+
+[<sup>1</sup> § 1er. Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions, requérir des informations relatives aux produits, services et transactions de nature financière et aux valeurs virtuelles, concernant la personne visée, auprès:
+
+1° des personnes et institutions visées à l'article 5, paragraphe 1er, 3° à 22°, de la loi du 18 septembre 2017 relative à la prévention du blanchiment de capitaux et du financement du terrorisme et à la limitation de l'utilisation des espèces;
+
+2° des personnes et institutions qui, sur le territoire belge, mettent à disposition ou proposent des services en lien avec des valeurs virtuelles permettant d'échanger des moyens de paiement réglementés en valeurs virtuelles;
+
+3° du point de contact central tenu par la Banque nationale de Belgique conformément à la loi du 8 juillet 2018 portant organisation d'un point de contact central des comptes et contrats financiers et portant extension de l'accès au fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt.
+
+§ 2. Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions, exiger des personnes et institutions visées au paragraphe 1er, 1° et 2°, le placement sous surveillance des transactions de la personne visée.
+
+§ 3. La coopération requise visée au paragraphe 1er, 3°, a lieu conformément à la loi du 8 juillet 2018 portant organisation d'un point de contact central des comptes et contrats financiers et portant extension de l'accès au fichier central des avis de saisie, de délégation, de cession, de règlement collectif de dettes et de protêt.
+
+La personne ou l'institution requise, visée au paragraphe 1er, 1° et 2°, est tenue de remettre sans délai les informations demandées après réception de la réquisition écrite du dirigeant du service.
+
+Cette réquisition mentionne, selon le cas, la nature de l'avis conforme de la Commission, la nature de l'avis conforme du président de la Commission ou la nature de l'autorisation du ministre concerné. Dans la réquisition, le service de renseignement et de sécurité concerné fournit également une description précise des informations requises et détermine la forme sous laquelle elles doivent être communiquées.
+
+§ 4. [<sup>2</sup> Toute personne ou institution requise qui refuse délibérément de communiquer les données ou qui ne les communique pas en temps réel ou, le cas échéant, au moment précisé dans la réquisition est punie d'une peine de niveau 2, où, par dérogation à l'article 52, § 1er, alinéa 2, 7°, du Code pénal, l'amende s'élève à 160.000 euros au plus]<sup>2</sup>]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2022-07-14/13, art. 26, 017; En vigueur : 15-08-2022&gt;
+
+(2)&lt;L 2026-03-30/01, art. 127, 025; En vigueur : 01-09-2026&gt;
+
+##### Art. 18/16
+
+[<sup>1</sup> § 1er. Sauf pour ce qui concerne les systèmes informatiques du pouvoir judiciaire et des juridictions administratives, les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions, [<sup>2</sup> ...]<sup>2</sup> à l'aide ou non de moyens techniques, de faux signaux, de fausses clés ou de fausses qualités :
+
+1° accéder à un système informatique;
+
+2° y lever toute protection quelconque;
+
+3° y installer des dispositifs techniques en vue du décryptage et du décodage de données stockées, traitées ou transmises par le système informatique;
+
+4° y reprendre, de quelque manière que ce soit, les données [<sup>2</sup> ...]<sup>2</sup> stockées, traitées ou transmises par le système informatique.
+
+La méthode visée à l'alinéa 1er ne peut être mise en oeuvre à l'égard des systèmes informatiques de l'autorité publique qu'avec l'accord préalable de l'autorité concernée.
+
+L'intrusion des services de renseignement et de sécurité dans les systèmes informatiques, visée à l'alinéa 1er, ne peut avoir d'autre but que le recueil de données pertinentes qui y sont stockées, traitées ou transmises, sans qu'il y ait destruction ou altération irréversible de celles-ci.
+
+Les services de renseignement et de sécurité veillent à ce que, lors de l'installation des dispositifs techniques visés à l'alinéa 1er, 3°, des tiers ne puissent pas obtenir, par le biais des interventions des services de renseignement et de sécurité, un accès non autorisé à ces systèmes.
+
+§ 2. [<sup>2</sup> Les services de renseignement et de sécurité peuvent, à l'insu du propriétaire ou de son ayant droit ou sans le consentement de ceux-ci, pénétrer, à tout moment, dans des lieux non accessibles au public, et dans des objets verrouillés ou non, afin de:
+
+1° procéder à l'intrusion informatique;
+
+2° y installer un moyen technique, intervenir sur ce moyen ou le retirer;
+
+3° emporter les systèmes informatiques et les replacer.
+
+Le moyen technique est retiré ou les systèmes informatiques sont remis en place le plus rapidement possible à l'échéance de l'intrusion, à moins que cela n'entrave le bon déroulement de la mission.]<sup>2</sup>
+
+§ 3. Le dirigeant du service peut requérir, par une décision écrite, des personnes dont il présume qu'elles ont une connaissance particulière du système informatique visé au § 1er ou des services qui permettent de protéger ou de crypter les données qui sont stockées, traitées ou transmises par le système informatique, qu'elles fournissent des informations sur le fonctionnement de ce système et sur la manière d'accéder au contenu du système informatique dans une forme compréhensible [<sup>2</sup> et qu'elles prêtent leur concours à l'intrusion informatique]<sup>2</sup>. Cette demande mentionne la nature de l'avis conforme de la commission, la nature de l'avis conforme du président de la commission ou la nature de l'autorisation du ministre concerné, selon le cas.
+
+§ 4. [<sup>3</sup> Toute personne qui refuse délibérément de prêter son concours technique aux réquisitions visées au paragraphe 3 est punie d'une peine de niveau 1, où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 160.000 euros]<sup>3</sup>.
+
+§ 5. En cas d'intrusion dans un système informatique qui a pour effet de perturber totalement ou partiellement l'exploitation de ce système, l'Etat n'est civilement responsable du dommage ainsi causé que si l'intrusion effectuée n'était pas liée au recueil de données relatives à une menace grave pour l'intégrité physique d'une ou de plusieurs personnes, en ce compris les infractions terroristes visées à [<sup>3</sup> l'article 371]<sup>3</sup> du Code pénal.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 14, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2017-03-30/11, art. 43, 012; En vigueur : 08-05-2017&gt;
+
+(3)&lt;L 2026-03-30/01, art. 128, 025; En vigueur : 01-09-2026&gt;
+
+##### Art. 18/17
+
+[<sup>1</sup> § 1er. [<sup>4</sup> Les services de renseignement et de sécurité peuvent, dans l'intérêt de l'exercice de leurs missions,]<sup>4</sup> [<sup>3</sup> ...]<sup>3</sup> [<sup>3</sup> intercepter des]<sup>3</sup> communications, [<sup>3</sup> ...]<sup>3</sup> en prendre connaissance et [<sup>3</sup> ...]<sup>3</sup> les enregistrer.
+
+§ 2. [<sup>3</sup> A cet effet, les services de renseignement et de sécurité peuvent pénétrer, à tout moment, à l'insu du propriétaire ou de son ayant droit ou sans le consentement de ceux-ci, dans des lieux accessibles ou non au public afin d':
+
+1° installer un moyen technique, intervenir sur ce moyen ou le retirer;
+
+2° ouvrir un objet verrouillé pour y placer un moyen technique;
+
+3° emporter l'objet sur lequel sera installé le moyen technique, intervenir sur cet objet et le replacer.
+
+Le moyen technique est retiré ou l'objet emporté est remis en place le plus rapidement possible à l'échéance de l'interception, à moins que cela n'entrave le bon déroulement de la mission.]<sup>3</sup>
+
+§ 3. Si une opération sur un réseau de communications électroniques est nécessaire, l'opérateur du réseau ou le fournisseur d'une service de communicatons électroniques est saisi d'une demande écrite du dirigeant du service et est tenu de prêter son concours technique à la suite de cette demande. Cette demande mentionne la nature de l'avis conforme de la commission, la nature de l'avis conforme du président de la commission ou la nature de l'autorisation du ministre concerné, selon le cas.
+
+[<sup>6</sup> Toute personne qui refuse délibérément de prêter son concours technique aux réquisitions visées à l'alinéa 1er est punie d'une peine de niveau 1, où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 160.000 euros]<sup>6</sup>.
+
+§ 4. Les communications recueillies grâce à la méthode exceptionnelle visée au § 1er sont enregistrées. L'objet de la méthode exceptionnelle ainsi que les jours et heures où celle-ci a été exécutée sont enregistrés au début et à la fin de chaque enregistrement qui s'y rapporte.
+
+Seules les parties d'enregistrement des communications estimées pertinentes par le dirigeant du service [<sup>5</sup> ...]<sup>5</sup> ou la personne qu'il a désignée à cet effet pour la Sûreté de l'Etat, ou l'officier ou l'agent civil, ayant au moins le grade de commissaire de sécurité pour le [<sup>2</sup> Service Général du Renseignement et de la Sécurité]<sup>2</sup>, peuvent faire l'objet d'une transcription.
+
+Toute note prise dans le cadre de l'exécution de la méthode exceptionnelle par les personnes commises à cette fin et qui n'est pas consignée dans un rapport est détruite par les personnes visées à l'alinéa 2 ou par la personne qu'elles délèguent à cette fin. Cette destruction fait l'objet d'une mention dans le registre spécial prévu au § 6.
+
+§ 5. Les enregistrements accompagnés de la transcription éventuelle des communications jugées pertinentes ou de la traduction éventuelle sont conservés, dans un lieu sécurisé désigné par le dirigeant du service conformément aux exigences de la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité.
+
+§ 6. Un registre spécial tenu régulièrement à jour contient un relevé de chacune des mesures visées aux §§ 1er et 2.
+
+Le relevé mentionne la date et l'heure auxquelles la mesure a commencé et celles auxquelles elle s'est terminée.
+
+§ 7. [<sup>3</sup> Les enregistrements des communications sont détruits, suivant les modalités fixées par le Roi et sous le contrôle de la Commission et d'un agent désigné à cet effet par le dirigeant du service, dans un délai de cinq ans qui débute le jour de l'enregistrement. Avec l'accord écrit préalable de la Commission, le dirigeant du service peut décider de prolonger la durée de conservation lorsque l'enregistrement est encore nécessaire dans le cadre d'une enquête de renseignement ou d'une procédure judiciaire. La durée totale de conservation ne peut pas dépasser dix ans, sauf lorsqu'un enregistrement est encore nécessaire dans le cadre d'une procédure judiciaire. La destruction est mentionnée dans le registre spécial visé au paragraphe 6.
+
+Les transcriptions des communications estimées pertinentes et les traductions éventuelles sont conservées et détruites conformément à l'article 21.]<sup>3</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 14, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(3)&lt;L 2017-03-30/11, art. 44, 012; En vigueur : 08-05-2017&gt;
+
+(4)&lt;L 2022-07-20/14, art. 39, 018; En vigueur : 18-08-2022&gt;
+
+(5)&lt;L 2026-02-08/04, art. 59, 024; En vigueur : 26-02-2026&gt;
+
+(6)&lt;L 2026-03-30/01, art. 129, 025; En vigueur : 01-09-2026&gt;
+
+#### Sous-section 3. [<sup>1</sup> - Disposition commune à certaines méthodes de recueil de données.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-30/11, art. 45, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 18/18
+
+[<sup>1</sup> Le Roi fixe les tarifs rétribuant la collaboration des personnes physiques et des personnes morales aux [<sup>2</sup> méthodes visées à l'article 16/2 et dans la sous-section 2]<sup>2</sup>, en tenant compte du coût réel de cette collaboration.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 14, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2017-03-30/11, art. 46, 012; En vigueur : 08-05-2017&gt;
+
+[<sup>1</sup>
+
+### Section 5.]<sup>1</sup> - De la communication des données.
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 47, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 19
+
+Les services de renseignement et de sécurité ne communiquent les renseignements visés à l'article 13, deuxième alinéa, qu'aux ministres et autorités administratives et judiciaires concernés, aux services de police et à toutes les instances et personnes compétentes conformément aux finalités de leurs missions ainsi qu'aux instances et personnes qui font l'objet d'une menace visée aux articles 7 et 11.
+
+Dans le respect de la vie privée des personnes, et pour autant que l'information du public ou l'intérêt général l'exige, l'administrateur général de la Sûreté de l'Etat et le chef du [<sup>1</sup> Service Général du Renseignement et de la Sécurité]<sup>1</sup>, ou la personne qu'ils désignent chacun, peuvent communiquer des informations à la presse.
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 19/1
+
+[<sup>1</sup> En vue de l'application de l'article 29 du Code d'Instruction criminelle, lorsque la mise en oeuvre des méthodes spécifiques ou exceptionnelles révèle des indices sérieux relatifs à la commission [<sup>4</sup> d'une infraction]<sup>4</sup> ou indique, sur la base d'une suspicion raisonnable que des faits punissables vont être commis ou ont été commis mais ne sont pas encore connus, les services concernés portent immédiatement ceux-ci à la connaissance de la commission. La commission examine les données ainsi recueillies quel que soit le support qui fixe ces données.
+
+Si la commission constate l'existence d'indices sérieux qui peuvent conduire à la commission [<sup>4</sup> d'une infraction]<sup>4</sup>, ou d'une suspicion raisonnable que des faits punissables vont être commis ou ont été commis mais ne sont pas encore connus, le président [<sup>3</sup> ou, en cas d'empêchement, un autre membre de la Commission]<sup>3</sup> en dresse procès-verbal non classifié. Ce procès-verbal est transmis sans délai au procureur du Roi ou au procureur fédéral, le dirigeant du service étant préalablement entendu sur les conditions de cette transmission [<sup>2</sup> et sur le contenu du procès-verbal]<sup>2</sup>.
+
+[<sup>2</sup> Ce procès-verbal précise les indices sérieux qui peuvent éventuellement être utilisés en justice.]<sup>2</sup>
+
+Ce procès-verbal ne peut constituer le motif exclusif ni la mesure prédominante conduisant à la condamnation d'une personne. Les éléments contenus dans ce procès-verbal doivent être étayés de manière prédominante par d'autres éléments de preuve.
+
+Le procureur du Roi ou le procureur fédéral informe le président de la commission des suites réservées à la transmission du procès-verbal. Le président de la commission en informe à son tour le dirigeant du service concerné.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 14, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2017-03-30/11, art. 48, 012; En vigueur : 08-05-2017&gt;
+
+[<sup>1</sup>
+
+(3)&lt;L 2024-03-28/60, art. 128, 021; En vigueur : 08-04-2024&gt;
+
+(4)&lt;L 2026-03-30/01, art. 130, 025; En vigueur : 01-09-2026&gt;
+
+### Section 6.]<sup>1</sup> - De la coopération entre les services.
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 49, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 20
+
+§ 1er. Les services de renseignement et de sécurité, les services de police, les autorités administratives et judiciaires veillent à assurer entre eux une coopération mutuelle aussi efficace que possible. Les services de renseignement et de sécurité veillent également à assurer une [<sup>4</sup> coopération]<sup>4</sup> avec les services de renseignement et de sécurité étrangers.
+
+§ 2. Lorsqu'ils en sont sollicités par celles-ci, les services de renseignement et de sécurité peuvent [<sup>4</sup> ...]<sup>4</sup> prêter leur concours et notamment leur assistance technique aux autorités judiciaires et administratives.
+
+[<sup>4</sup> Les modalités de ce concours peuvent être fixées dans le cadre d'un protocole.]<sup>4</sup>
+
+§ 3. Le [<sup>1</sup> Conseil national de sécurité]<sup>1</sup> définit les conditions de la communication prévue à l'article 19, alinéa 1er, et de la coopération prévue au § 1er du présent article.
+
+[<sup>2</sup> § 4. Pour les missions décrites à l'article 7, 3° /1 et à l'article 11, § 1er, 5°, la Sûreté de l'Etat et le [<sup>3</sup> Service Général du Renseignement et de la Sécurité]<sup>3</sup> concluent un accord de coopération sur la base de directives obtenues du Conseil national de sécurité.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2015-12-06/07, art. 7, 006; En vigueur : 28-01-2015&gt;
+
+(2)&lt;L 2016-01-29/09, art. 7, 008; En vigueur : 05-03-2016&gt;
+
+(3)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(4)&lt;L 2022-07-14/13, art. 27, 017; En vigueur : 15-08-2022&gt;
+
+### [<sup>1</sup>Section 7.]<sup>1</sup> - De la conservation et de la destruction des données.
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 50, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 21
+
+Les données à caractère personnel traitées dans le cadre de l'application de la présente loi sont conservées pendant une durée n'excédant pas celle nécessaire aux finalités pour lesquelles elles sont enregistrées, à l'exception de celles présentant un caractère historique, reconnu par les archives de l'Etat.
+
+Elles ne sont détruites qu'après un certain délai qui suit le dernier traitement dont elles ont fait l'objet.
+
+Le Roi fixe, après avis [<sup>1</sup> du Comité R]<sup>1</sup>, le délai pendant lequel les données à caractère personnel visées à l'alinéa précédent sont conservées après leur dernier traitement.
+
+Sans préjudice des dispositions légales relatives aux archives de l'Etat, le Roi détermine, après avis [<sup>1</sup> du Comité R]<sup>1</sup>, la procédure relative à leur destruction.
+
+----------
+
+(1)&lt;L 2024-03-28/60, art. 129, 021; En vigueur : 08-04-2024&gt;
+
+##### Art. 21/1
+
+[<sup>1</sup> § 1er. Les services de renseignement et de sécurité sont dispensés du transfert de leurs documents d'archives de moins de cinquante ans, à condition que:
+
+1° la pérennité, l'authenticité, l'intégrité, le classement, l'accessibilité et la lisibilité de ces documents d'archives soient assurés aux conditions fixées par le Roi;
+
+2° le public puisse consulter ces documents d'archives dans les mêmes conditions qu'aux Archives de l'Etat.
+
+La conservation des documents d'archives est sous la surveillance de l'archiviste général du Royaume ou de ses délégués.
+
+§ 2. Au terme du délai fixé au paragraphe 1er, le service de renseignement et de sécurité concerné évalue si une révision du niveau de protection ou la déclassification des documents d'archives classifiés est possible.
+
+§ 3. Les services de renseignement et de sécurité transfèrent leurs documents d'archives de plus de cinquante ans aux Archives de l'Etat, à condition que:
+
+1° les Archives de l'Etat conservent et utilisent les documents d'archives classifiés conformément à la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité;
+
+2° les services de renseignement et de sécurité étrangers aient expressément autorisé que les Archives de l'Etat conservent les documents classifiés qui émanent d'eux;
+
+3° l'archiviste général du Royaume ou ses délégués décident, après concertation avec le responsable de la gestion des archives du service de renseignement et de sécurité concerné, que l'intérêt de l'unité de la collection n'empêche pas un transfert.
+
+Le Roi fixe, sur proposition du ministre de la Justice, du ministre de la Défense et du ministre de la Politique scientifique, les modalités relatives à l'archivage et à l'utilisation des documents d'archives classifiés transférés.
+
+§ 4. Les documents d'archives ne peuvent être détruits qu'après autorisation écrite de l'archiviste général du Royaume ou ses délégués.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-30/11, art. 51, 012; En vigueur : 08-05-2017&gt;
+
+## CHAPITRE III/1. [<sup>1</sup> - De la protection du personnel, des infrastructures et des biens des services de renseignement et de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-30/11, art. 52, 012; En vigueur : 08-05-2017&gt;
+
+### Section 1re. [<sup>1</sup> - Disposition générale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-30/11, art. 53, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 22
+
+[<sup>1</sup> Il peut être institué au sein de chaque service de renseignement et de sécurité une équipe d'intervention ayant pour fonction de protéger le personnel, les infrastructures et les biens du service concerné.
+
+Les agents affectés à cette fonction sont désignés respectivement par le ministre de la Justice, sur la proposition du dirigeant de la Sûreté de l'Etat, et par le ministre de la Défense, sur la proposition du dirigeant du Service Général du Renseignement et de la Sécurité.
+
+Les membres de l'équipe d'intervention sont les seuls agents habilités à exercer la fonction de protection du personnel, des infrastructures et des biens de leur service, sans préjudice de leurs autres fonctions. Ils reçoivent une formation à cet effet.
+
+Les membres de l'équipe d'intervention font rapport de leurs interventions au dirigeant du service concerné.
+
+Ils ne peuvent faire usage dans l'exercice de leurs autres missions des pouvoirs qui leur sont conférés par le présent chapitre.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 54, 012; En vigueur : 08-05-2017&gt;
+
+### Section 2. [<sup>1</sup> De l'exercice de la fonction de protection du personnel, des infrastructures et des biens des services de renseignement et de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-30/11, art. 55, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 23
+
+[<sup>1</sup> Les membres de l'équipe d'intervention peuvent toujours pénétrer dans des bâtiments, annexes et moyens de transport abandonnés.
+
+Ils ne peuvent pénétrer et fouiller des bâtiments, leurs annexes ainsi que des moyens de transport non abandonnés, tant de jour que de nuit, qu'en cas de danger grave et imminent pour la vie ou l'intégrité physique d'un membre du personnel du service de renseignement et de sécurité concerné se trouvant à l'intérieur d'un lieu non accessible au public et pour autant que ce danger ne puisse être écarté autrement.
+
+Ils ne peuvent fouiller des bâtiments, annexes et moyens de transport abandonnés que dans les cas visés à l'alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 56, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 24
+
+[<sup>1</sup> Afin de s'assurer qu'une personne ne porte pas une arme ou un objet dangereux pour leur vie ou leur intégrité physique ou celle des membres du personnel du service de renseignement et de sécurité concerné ou pour l'intégrité des infrastructures et des biens du service à protéger, les membres de l'équipe d'intervention peuvent procéder à une fouille de sécurité dans les cas suivants:
+
+1° lorsque, en fonction du comportement de cette personne, d'indices matériels ou des circonstances, le membre de l'équipe d'intervention a des motifs raisonnables de croire que la personne soumise à un contrôle d'identité dans les cas et aux conditions prévus à l'article 28, porte une arme ou un objet dangereux;
+
+2° lorsqu'une personne est provisoirement retenue conformément aux articles 27 et 28;
+
+3° lorsque des personnes accèdent à des lieux où se trouvent menacés les membres du personnel du service de renseignement et de sécurité concerné.
+
+La fouille de sécurité s'effectue par la palpation du corps et des vêtements de la personne fouillée ainsi que par le contrôle de ses bagages. Elle ne peut durer plus longtemps que le temps nécessaire à cette fin et la personne ne peut être retenue pendant plus d'une heure à cet effet.
+
+Dans le cas visé au 3°, la fouille est exécutée sur ordre et sous la responsabilité du membre de l'équipe d'intervention responsable de la mission; elle est effectuée par un membre de l'équipe d'intervention du même sexe que la personne fouillée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 57, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 25
+
+[<sup>1</sup> Les membres de l'équipe d'intervention peuvent procéder à la fouille d'un véhicule ou de tout autre moyen de transport, qu'il soit en circulation ou en stationnement sur la voie publique ou dans des lieux accessibles au public, lorsqu'ils ont des motifs raisonnables de croire, en fonction du comportement du conducteur ou des passagers, d'indices matériels ou des circonstances de temps ou de lieu, que le véhicule ou le moyen de transport sert ou pourrait servir à mettre gravement en danger la vie ou l'intégrité physique d'un membre du personnel du service de renseignement et de sécurité concerné ou l'intégrité des infrastructures et des biens du service à protéger.
+
+La fouille exécutée dans un véhicule ne peut durer plus longtemps que le temps exigé par les circonstances qui la justifient. Dans tous les cas, le véhicule ne peut être retenu plus d'une heure en raison d'une fouille.
+
+La fouille d'un véhicule aménagé de façon permanente en logement et qui est effectivement utilisé comme logement au moment de la fouille est assimilée à la visite domiciliaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 58, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 26
+
+[<sup>1</sup> Les objets et les animaux qui présentent un danger pour la vie ou l'intégrité physique d'un membre du personnel du service de renseignement et de sécurité concerné ou pour l'intégrité des infrastructures et des biens du service de renseignement et de sécurité concerné peuvent, dans les lieux accessibles au public, être soustraits à la libre disposition du propriétaire, du possesseur ou du détenteur par un membre de l'équipe d'intervention pour les nécessités de sa mission de protection. Cette saisie administrative s'effectue conformément aux instructions et sous la responsabilité du membre de l'équipe d'intervention responsable de la mission.
+
+Les objets saisis sont mis à la disposition d'un fonctionnaire de police afin qu'il soit procédé conformément à l'article 30 de la loi sur la fonction de police.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 59, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 27
+
+[<sup>1</sup> Les membres de l'équipe d'intervention peuvent, en cas d'absolue nécessité, retenir une personne s'il existe à l'égard de cette personne des motifs raisonnables de croire, en fonction de son comportement, d'indices matériels ou des circonstances, qu'elle se prépare à commettre ou commet un acte qui met gravement en danger la vie ou l'intégrité physique d'un agent ou un tiers ou l'intégrité des infrastructures et des biens du service de renseignement et de sécurité à protéger, afin de l'empêcher de commettre un tel acte ou de faire cesser cet acte.
+
+Dans ce cas, la personne ne sera retenue que le temps nécessaire pour sa mise à la disposition d'un fonctionnaire de police.
+
+La privation de liberté effectuée par le membre de l'équipe d'intervention ne peut jamais durer plus longtemps que le temps requis par les circonstances qui la justifient et ne peut en aucun cas dépasser une heure. Ce délai prend cours à partir du moment où la personne concernée ne dispose plus, à la suite de l'intervention d'un membre de l'équipe d'intervention, de la liberté d'aller et de venir.
+
+Le Roi fixe les modalités selon lesquelles l'arrestation est enregistrée et selon lesquelles les données en lien avec cette arrestation sont conservées.
+
+Lorsque la privation de liberté est suivie d'une arrestation administrative conformément aux articles 31 à 33 de la loi sur la fonction de police, la durée maximale de l'arrestation administrative est réduite à due concurrence.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 60, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 28
+
+[<sup>1</sup> § 1er. Les membres de l'équipe d'intervention peuvent contrôler l'identité de toute personne s'ils ont des motifs raisonnables de croire, en fonction de son comportement, d'indices matériels ou de circonstances de temps ou de lieu, qu'elle se prépare à porter atteinte à la vie ou l'intégrité physique d'un membre du personnel du service de renseignement et de sécurité concerné ou à l'intégrité des bâtiments de ce service.
+
+§ 2. Les pièces d'identité qui sont remises au membre de l'équipe d'intervention ne peuvent être retenues que pendant le temps nécessaire à la vérification de l'identité et doivent ensuite être immédiatement remises à l'intéressé.
+
+§ 3. Si la personne visée aux paragraphes précédents refuse ou est dans l'impossibilité de faire la preuve de son identité, de même que si son identité est douteuse, elle peut être retenue pour être mise à la disposition d'un fonctionnaire de police.
+
+La privation de liberté effectuée par le membre de l'équipe d'intervention ne peut jamais durer plus longtemps que le temps requis par les circonstances qui la justifient et ne peut en aucun cas dépasser une heure. Ce délai prend cours à partir du moment où la personne concernée ne dispose plus, à la suite de l'intervention d'un membre de l'équipe d'intervention, de la liberté d'aller et de venir.
+
+Lorsque la privation de liberté est suivie d'une arrestation administrative conformément à l'article 34, § 4, de la loi sur la fonction de police, la durée maximale de l'arrestation administrative est réduite à due concurrence.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 61, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 29
+
+[<sup>1</sup> Les membres de l'équipe d'intervention ne peuvent pas, sans nécessité, exposer à la curiosité publique les personnes retenues.
+
+Ils ne peuvent pas soumettre ou laisser soumettre ces personnes, sans leur accord, aux questions de journalistes ou de tiers étrangers à leur cas, ni à des prises de vue autres que celles destinées à leur identification.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 62, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 30
+
+[<sup>1</sup> Les membres de l'équipe d'intervention peuvent, en tenant compte des risques que cela comporte, recourir à la force pour poursuivre un objectif légitime qui ne peut être atteint autrement.
+
+Tout recours à la force doit être raisonnable et proportionné à l'objectif poursuivi.
+
+Tout usage de la force est précédé d'un avertissement, à moins que cela ne rende cet usage inopérant.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 63, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 31
+
+[<sup>1</sup> Sans préjudice de l'article 30 de la présente loi, des [<sup>2</sup> articles 11, 12 et 14]<sup>2</sup> du Code pénal et des règles de droit international applicables, les membres de l'équipe d'intervention ne peuvent faire usage d'armes à feu contre des personnes que dans les cas suivants:
+
+1° contre des personnes armées ou en direction de véhicules à bord desquels se trouvent des personnes armées, en cas [<sup>2</sup> d'infraction pour laquelle une peine de niveau 4, 5, 6, 7 ou 8 est prévue ou, en cas de flagrance au sens de l'article 41 du Code d'instruction criminelle si l'infraction est punie d'une peine de niveau 1, 2 ou 3]<sup>2</sup>, commis avec violences, lorsqu'il est raisonnablement permis de supposer que ces personnes disposent d'une arme à feu prête à l'emploi et qu'elles l'utiliseront contre des personnes;
+
+2° lorsqu'en cas d'absolue nécessité, les membres de l'équipe d'intervention ne peuvent défendre autrement les personnes, les infrastructures et biens confiés à leur protection.
+
+Le recours aux armes prévu aux 1° et 2° ne s'effectue que conformément aux instructions et après avertissement donné à haute voix ou par tout autre moyen disponible, à moins que cela ne rende ce recours inopérant.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 64, 012; En vigueur : 08-05-2017&gt;
+
+(2)&lt;L 2026-03-30/01, art. 131, 025; En vigueur : 01-09-2026&gt;
+
+##### Art. 32
+
+[<sup>1</sup> Sauf si les circonstances ne le permettent pas ou si cela rend la mission inopérante, les membres de l'équipe d'intervention ou au moins l'un d'entre eux, qui interviennent à l'égard d'une personne ou qui se présentent au domicile d'une personne, justifient de leur qualité au moyen du titre de légitimation dont ils sont porteurs.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 65, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 33
+
+[<sup>1</sup> Lorsqu'il est mis en danger dans l'exercice de sa mission ou lorsqu'un agent du service de renseignement et de sécurité concerné est en danger, tout membre de l'équipe d'intervention peut requérir l'aide ou l'assistance des personnes présentes sur place.
+
+En cas d'absolue nécessité, il peut de même requérir l'aide ou l'assistance de toute autre personne utile.
+
+L'aide ou l'assistance requise ne peut mettre en danger la personne qui la prête.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 66, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 34
+
+[<sup>1</sup> L'armement faisant partie de l'équipement réglementaire est déterminé conformément à la loi du 8 juin 2006 réglant des activités économiques et individuelles avec des armes.
+
+Le cas échéant, le Roi détermine l'équipement complémentaire des membres de l'équipe d'intervention nécessaire à l'exercice de leur fonction.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 67, 012; En vigueur : 08-05-2017&gt;
+
+### Section 3. [<sup>1</sup> - De la responsabilité civile et de l'assistance en justice applicables aux membres de l'équipe d'intervention dans l'exercice de leur fonction.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 68, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 35
+
+[<sup>1</sup> Les membres de l'équipe d'intervention affectés à la fonction de protection des agents, des infrastructures et des biens du service de renseignement et de sécurité concerné bénéficient du régime de responsabilité civile et d'assistance en justice prévu aux articles 91 à 98 de la loi du 20 mai 1994 relative aux statuts du personnel de la Défense, dans la loi du 10 février 2003 relative à la responsabilité des et pour les membres du personnel au service des personnes publiques et dans l'arrêté royal du 16 mars 2006 relatif à l'assistance en justice des membres du personnel de certains services publics et à l'indemnisation des dommages aux biens, encourus par eux.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 69, 012; En vigueur : 08-05-2017&gt;
+
+## CHAPITRE IV. - Le secret.
+
+##### Art. 36
+
+§ 1er. Sans préjudice de l'article 19, tout agent et toute personne qui, à quelque titre que ce soit, apporte son concours à l'application de la présente loi est dépositaire des secrets qui lui sont confiés dans l'exercice de sa mission ou de sa coopération.
+
+§ 2. Le secret subsiste même lorsque les agents ont cessé leurs fonctions ou lorsque les personnes ne coopèrent plus avec les services.
+
+##### Art. 37
+
+Les agents qui font appel au concours d'une personne qui ne relève pas des services de la Sûreté de l'Etat ou du [<sup>1</sup> Service Général du Renseignement et de la Sécurité]<sup>1</sup> doivent explicitement informer cette personne du secret auquel elle est tenue.
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 38
+
+§ 1er. Les perquisitions et saisies judiciaires opérées dans les lieux où les membres des services de renseignement et de sécurité exercent leur fonction, s'effectuent en présence [<sup>4</sup> du dirigeant du service concerné]<sup>4</sup>. [<sup>2</sup> Le dirigeant du service]<sup>2</sup> avertit sans délai le Ministre compétent des perquisitions et saisies judiciaires opérées.
+
+§ 2. Si [<sup>3</sup> le dirigeant du service]<sup>3</sup> estime que la saisie de données ou matériels classifiés est de nature à constituer une menace pour l'exercice des missions visées aux articles 7 [<sup>1</sup> ...]<sup>1</sup> et 11, §§ 1er et 2, ou qu'elle présente un danger pour une personne physique, il en informe immédiatement le président du Comité permanent R et le Ministre compétent. Ces pièces classifiees saisies sont mises sous pli scellé, signé par [<sup>3</sup> le dirigeant du service]<sup>3</sup> et conservé en lieu sur par le magistrat instructeur.
+
+Dans le même temps, [<sup>3</sup> le dirigeant du service]<sup>3</sup> peut demander la levée de la saisie à la Chambre des mises en accusation après en avoir informé le Ministre compétent. La demande de levée de la saisie a un effet suspensif sur celle-ci. La Chambre des mises en accusation est saisie par une déclaration faite au Greffe du Tribunal de première instance. Elle statue dans les quinze jours du dépôt de la declaration. [<sup>2</sup> Le dirigeant du service]<sup>2</sup> et le magistrat instructeur sont entendus.
+
+Dans le cadre de cette procédure, seuls les magistrats du siège et du ministère public siégeant en Chambre des mises en accusation, le magistrat instructeur, [<sup>3</sup> le dirigeant du service]<sup>3</sup> peuvent prendre connaissance des pièces classifiées saisies.
+
+Lorsque la Chambre des mises en accusation conclut à la levée de la saisie en raison de la menace pour l'exercice des missions visées aux articles 7 [<sup>1</sup> ...]<sup>1</sup> et 11, §§ 1er et 2, ou du danger pour une personne physique, les pieces classifiées sont restituées sous pli scellé [<sup>5</sup> au dirigeant du service]<sup>5</sup>.
+
+Lorsque la Chambre des mises en accusation conclut que des pièces peuvent faire l'objet de la saisie, ces pièces classifiées saisies sont néanmoins restituées [<sup>5</sup> au dirigeant du service]<sup>5</sup> par le procureur général à l'expiration de la procédure judiciaire.
+
+§ 3. Si [<sup>3</sup> le dirigeant du service]<sup>3</sup> ne demande pas dans un délai de dix jours la levée de la saisie à la Chambre des mises en accusation en application de l'alinéa 2 du § 2, la mise sous scellé visée a l'alinéa 1er du § 2 est levée.
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(2)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(3)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(4)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(5)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 39
+
+§ 1er. Les perquisitions et saisies dans les lieux visés à l'article 38 opérées dans le cadre d'une enquête parlementaire s'effectuent en présence [<sup>3</sup> du dirigeant du service]<sup>3</sup>.
+
+§ 2. Si [<sup>3</sup> le dirigeant du service]<sup>3</sup> estime que la saisie de données ou matériels classifiés est de nature à constituer une menace pour l'exercice des missions visées aux articles 7 [<sup>1</sup> ...]<sup>1</sup> et 11, §§ 1er et 2, ou qu'elle présente un danger pour une personne physique, il en informe immédiatement le président du Comité permanent R. Ces pièces classifiées saisies sont mises sous pli scellé, signé par [<sup>3</sup> le dirigeant du service]<sup>3</sup>. Ce pli est transmis immédiatement par le magistrat instructeur au président du Comité permanent R qui le conserve en lieu sûr.
+
+Dans le même temps, [<sup>3</sup> le dirigeant du service]<sup>3</sup> peut demander la levée de la saisie, selon le cas, au président de la Chambre ou au président de la Commission d'enquête qui statue. [<sup>2</sup> Le dirigeant du service]<sup>2</sup> et le président du Comité permanent R sont entendus. La demande de levée de la saisie a un effet suspensif sur celle-ci.
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(2)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(3)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 40
+
+§ 1er. Dans le cadre des perquisitions et saisies opérées en tous autres lieux que ceux visés à l'article 38, lorsque des données ou matériels classifiés émanant des services de renseignement et de sécurité ont été découverts, [<sup>2</sup> le dirigeant du service]<sup>2</sup> en sont immédiatement avisés par le magistrat instructeur ou l'officier de police judiciaire délégué.
+
+§ 2. Si [<sup>2</sup> le dirigeant du service]<sup>2</sup> estime que la saisie des données ou materiels classifiés est de nature à constituer une menace pour l'exercice des missions visées aux articles 7 [<sup>1</sup> ...]<sup>1</sup> et 11, §§ 1er et 2, ou qu'elle présente un danger pour une personne physique, il sera procédé selon le cas comme aux articles 38 et 39.
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(2)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 41
+
+Lorsque la saisie de données ou matériels classifiés est effectuée conformément à l'article 51 de la loi du 18 juillet 1991 organique du contrôle des services de police et de renseignements et si [<sup>2</sup> le dirigeant du service]<sup>2</sup> estime que la saisie est de nature à constituer une menace pour l'exercice des missions visées aux articles 7 [<sup>1</sup> ...]<sup>1</sup> et 11, §§ 1er et 2, la question est soumise au président du Comité permanent R, qui statue.
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(2)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 42
+
+&lt;Abrogé par L 2017-03-30/11, art. 70, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 43
+
+[<sup>1</sup> Sans préjudice de [<sup>2</sup> l'article 352]<sup>2</sup> du Code pénal et des articles 48 et 51 de la loi du 18 juillet 1991 organique du contrôle des services de police et de renseignement et de l'Organe de Coordination pour l'analyse de la menace :
+
+1° [<sup>2</sup> est puni d'une peine de niveau 1, l'agent ou la personne visés à l'article 36 qui a délibérément révélé les secrets en violation de cet article]<sup>2</sup>;
+
+2° [<sup>2</sup> est puni d'une peine de niveau 2, où, par dérogation à l'article 52, § 1er, alinéa 2, 7°, Code pénal, l'amende maximale est de 240.000 euros, l'agent ou la personne visés à l'article 36 qui a délibérément révélé l'identité d'une personne qui demande l'anonymat]<sup>2</sup>;
+
+3° est puni [<sup>2</sup> d'une peine de niveau 2, où, par dérogation à l'article 52, § 1er, alinéa 2, 7°, du Code pénal, l'amende maximale est de 240.000 euros]<sup>2</sup>, quiconque a révélé, avec une intention malveillante, par quelque moyen d'expression que ce soit, l'identité d'agents des services de renseignement et de sécurité dont les missions exigent, pour des raisons de sécurité, le respect de la plus grande discrétion.]<sup>1</sup>
+
+[<sup>2</sup> La tentative de commettre les infractions visées par cet article n'est pas punissable.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2010-02-04/26, art. 16, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2026-03-30/01, art. 132, 025; En vigueur : 01-09-2026&gt;
+
+## Chapitre IV/1. [<sup>1</sup> Le contrôle des méthodes spécifiques et exceptionnelles de recueil de données des services de renseignement et de sécurité]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 17, 003; En vigueur : 01-09-2010&gt;
+
+##### Art. 43/1
+
+[<sup>1</sup> § 1er. Il est créé une commission administrative chargée de la surveillance des méthodes spécifiques et exceptionnelles de recueil de données par les services de renseignement et de sécurité, visées à l'article 18/2.
+
+[<sup>6</sup> Une dotation est inscrite au budget général des dépenses de l'Etat pour financer le fonctionnement de la commission.
+
+La commission établit annuellement un projet de budget pour son fonctionnement. Assistée par la Cour des comptes, la Chambre des représentants examine les propositions budgétaires détaillées de la commission. Elle les approuve et contrôle l'exécution du budget de la commission. Elle examine et approuve en outre les comptes détaillés.
+
+Pour son budget et ses comptes, la commission utilise un schéma budgétaire et des comptes comparable à celui qui est utilisé par la Chambre des représentants.]<sup>6</sup>
+
+La commission effectue sa tâche de contrôle en toute indépendance. Elle est également chargée de la rédaction de son règlement d'ordre intérieur.
+
+La commission est composée de trois membres effectifs. Un suppléant est désigné pour chaque membre effectif.
+
+Le Roi désigne les membres effectifs de la commission, ainsi que leurs suppléants, par arrêté délibéré en Conseil des Ministres, sur proposition du Ministre de la Justice et du Ministre de la Défense.
+
+Les membres effectifs et leurs suppléants ont la qualité de magistrat. Parmi les membres effectifs, un membre a la qualité de magistrat du ministère public et les deux autres ont la qualité de juge, dont un celle de juge d'instruction. Les membres suppléants ont la même qualité que les membres effectifs qu'ils remplacent.
+
+[<sup>3</sup> La Commission statue à la majorité des trois membres effectifs présents ou de leur suppléant ou, en cas d'empêchement d'un membre effectif et de son suppléant, à l'unanimité des deux membres effectifs présents ou de leur suppléant.]<sup>3</sup>
+
+La présidence de la commission est assurée par le magistrat ayant la qualité de juge d'instruction.
+
+A l'exception du président, qui doit avoir une connaissance suffisante du français et du néerlandais, les deux autres membres effectifs appartiennent chacun à un rôle linguistique différent.
+
+§ 2. Au moment de leur désignation, les membres effectifs et les membres suppléants de la commission doivent répondre aux conditions suivantes :
+
+1° avoir atteint l'âge de quarante ans;
+
+2° avoir une expérience utile d'au moins cinq ans dans l'une des matières visées à l'article 18/9, § 1er;
+
+3° être détenteur d'une habilitation de sécurité du niveau " très secret " en vertu de la loi du 11 décembre 1998 relative à la classification et aux habilitations de sécurité, attestations et avis de sécurité;
+
+4° durant une période de cinq ans précédant la désignation, ne pas avoir été membre du Comité permanent de contrôle des services de police, ni du Comité permanent de Contrôle des services de renseignement, ni d'un service de police, ni d'un service de renseignement et de sécurité.
+
+Ces magistrats sont désignés pour une période de cinq ans. Ce mandat est renouvelable deux fois. [<sup>5</sup> Les magistrats peuvent cependant, à l'issue de leur deuxième renouvellement, être reconduits pour un nouveau mandat de cinq ans, selon la procédure visée au paragraphe 1er, lorsqu'il n'y a pas d'autres candidats ou lorsqu'aucun candidat n'est jugé apte à exercer un mandat en tant que membre effectif ou suppléant.]<sup>5</sup>
+
+[<sup>3</sup> A l'exception du suppléant du président, qui doit avoir une connaissance suffisante du néerlandais et du français, les membres suppléants doivent]<sup>3</sup> être du même rôle linguistique que les membres effectifs qu'ils remplacent.
+
+§ 3. En cas d'empêchement ou d'absence pour une durée de plus de trois mois d'un des membres de la commission, ou si son mandat devient vacant, il est remplacé définitivement par son suppléant.
+
+Si un membre de la commission cesse d'exercer son mandat, n'est plus détenteur de l'habilitation de sécurité visée au § 2, alinéa 1er, 3°, ou est désigné à une autre fonction, de sorte qu'il perd la qualité visée au § 1er, son mandat est achevé par son suppléant.
+
+Lorsque la fonction d'un suppléant est vacante ou lorsqu'un suppléant achève le mandat d'un membre effectif de la commission en application de l'alinéa 2, le Roi, sur proposition du Ministre de la Justice et du Ministre de la Défense, procède, par arrêté délibéré en Conseil des Ministres, à une nouvelle désignation.
+
+En cas de constatation d'une faute grave, le Roi, sur proposition du Ministre de la Justice et du Ministre de la Défense, peut, par arrêté délibéré en Conseil des Ministres, démettre un membre effectif ou un suppléant de ses fonctions.
+
+§ 4. Les membres effectifs exercent leur fonction à la commission à temps plein. Durant la durée de leur mission, les membres effectifs, ainsi que leurs suppléants, agissent en toute indépendance vis-à-vis du corps dont ils sont issus ou vis-à-vis de leur supérieur hiérarchique.
+
+Après la désignation d'un membre effectif, il peut être pourvu à son remplacement dans la juridiction à laquelle appartient ce magistrat, par une nomination en surnombre par rapport au cadre du personnel de cette juridiction.
+
+Les membres effectifs reçoivent le traitement qui est accordé aux magistraux fédéraux, conformément à l'article 355bis du Code Judiciaire.
+
+Lorsqu'un suppléant est appelé à remplacer un membre effectif pour une durée d'au moins un mois, il perçoit par mois complet, en plus de son traitement, la différence entre ce dernier et celui de membre effectif, déterminé à l'alinéa 3.
+
+Si un suppléant est appelé à remplacer un membre effectif, il perçoit une allocation par jour de remplacement de ce membre effectif. Cette allocation s'élève à 1/20 de la différence entre son traitement mensuel et le traitement mensuel qui lui serait accordé s'il remplissait la fonction de membre effectif.
+
+[<sup>4</sup> L'article 357, § 2, du Code judiciaire s'applique également aux membres suppléants de la Commission.]<sup>4</sup>
+
+§ 5. La commission est soutenue par un secrétariat composé de membres du personnel détachés par les services de renseignement et de sécurité suivant les modalités à définir par le Roi. Le Roi détermine également le statut de ces membres, sans porter atteinte à leur statut administratif et pécuniaire d'origine.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 17, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2014-01-06/63, art. 16, 004; En vigueur : 25-05-2014&gt;
+
+(3)&lt;L 2017-03-30/11, art. 71, 012; En vigueur : 08-05-2017&gt;
+
+(4)&lt;L 2021-11-28/01, art. 39, 016; En vigueur : 10-12-2021&gt;
+
+(5)&lt;L 2024-01-18/06, art. 59, 019; En vigueur : 05-02-2024&gt;
+
+(6)&lt;L 2023-11-23/52, art. 8, 020; En vigueur : 01-01-2024&gt;
+
+## Chapitre IV/2. [<sup>1</sup> - Du contrôle a posteriori des méthodes spécifiques et exceptionnelles de recueil de données par les services de renseignement et de sécurité]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 18, 003; En vigueur : 01-09-2010&gt;
+
+##### Art. 43/2
+
+[<sup>1</sup> Sans préjudice des compétences définies à l'article 1er de la loi du 18 juillet 1991 organique du contrôle des services de police et de renseignement et de l'Organe de coordination pour l'analyse de la menace et [<sup>2</sup> à l'article 44/4]<sup>2</sup> de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité, le Comité permanent R est chargé du contrôle a posteriori des méthodes spécifiques et exceptionnelles de recueil de données par les services de renseignement et de sécurité visées à l'article 18/2.
+
+Il se prononce sur la légalité des décisions relatives à ces méthodes, ainsi que sur le respect des principes de proportionnalité et de subsidiarité prévus aux articles 18/3, § 1er, alinéa 1er, et 18/9, § § 2 et 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 18, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2017-03-30/11, art. 72, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 43/3
+
+[<sup>1</sup> [<sup>3</sup> ...]<sup>3</sup>
+
+L'ensemble des [<sup>3</sup> décisions, autorisations, avis, accords et confirmations]<sup>3</sup> concernant des méthodes spécifiques et exceptionnelles de recueil de données sont portés sans délai à la connaissance du Comité permanent R par l'autorité compétente, suivant les modalités à fixer par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 18, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2016-05-29/03, art. 15, 010; En vigueur : 28-07-2016&gt;
+
+(3)&lt;L 2017-03-30/11, art. 73, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 43/4
+
+[<sup>1</sup> Le Comité permanent R agit :
+
+\- soit d'initiative;
+
+\- soit à la demande [<sup>2</sup> d'une Autorité de protection des données]<sup>2</sup> suivant les modalités déterminées par le Roi, par arrêté délibéré en Conseil des Ministres, après avis [<sup>2</sup> ...]<sup>2</sup> du Comité permanent R;
+
+\- soit à la suite du dépôt d'une plainte, qui, à peine de nullité, est écrite et précise les griefs, de toute personne qui peut justifier d'un intérêt personnel et légitime, sauf si la plainte est manifestement non fondée;
+
+\- soit chaque fois que la commission a suspendu l'utilisation d'une méthode spécifique ou d'une méthode exceptionnelle pour cause d'illégalité et a interdit l'exploitation des données pour cause d'illégalité d'une méthode spécifique ou d'une méthode exceptionnelle;
+
+\- soit chaque fois que le ministre compétent a pris une décision sur la base de l'article 18/10, § 3.
+
+Le Comité permanent R se prononce dans un délai d'un mois suivant la date à laquelle il a été saisi conformément à l'alinéa 1er.
+
+La décision du Comité permanent R de ne pas donner suite à une plainte est motivée et notifiée au plaignant.
+
+Son contrôle n'est pas suspensif sauf si le Comité permanent R en décide autrement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 18, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2024-03-28/60, art. 130, 021; En vigueur : 08-04-2024&gt;
+
+##### Art. 43/5
+
+[<sup>1</sup> § 1er. Le contrôle des méthodes exceptionnelles de recueil de données s'effectue notamment sur la base des documents communiqués par la commission conformément à l'article 18/10, § 7, et du registre spécial visé à l'article 18/17, § 6, lequel est tenu en permanence à la disposition du Comité permanent R, et sur la base de tout autre document utile produit par la commission ou dont le Comité permanent R demande la production.
+
+Le contrôle des méthodes spécifiques s'effectue [<sup>4</sup> ...]<sup>4</sup> sur la base [<sup>4</sup> ...]<sup>4</sup> de tout [<sup>4</sup> ...]<sup>4</sup> document utile produit par la commission ou dont le Comité permanent R demande la production.
+
+Le Comité permanent R dispose du dossier complet établi par le service de renseignement et de sécurité concerné, ainsi que de celui de la commission, et peut requérir du service de renseignement et de sécurité concerné et de la commission la communication de toute information complémentaire qu'il juge utile au contrôle dont il est investi. Le service de renseignement et de sécurité concerné et la commission sont tenus de répondre sans délai à cette demande.
+
+§ 2. Le Comité permanent R peut confier des missions d'enquête au Service d'enquêtes du Comité permanent R. Ce service dispose, dans ce cadre, de toutes les compétences qui lui ont été attribuées par la loi du 18 juillet 1991 organique du contrôle des services de police et de renseignement et de l'Organe de coordination pour l'analyse de la menace.
+
+§ 3. Le plaignant et son avocat peuvent consulter le dossier au greffe du Comité permanent R pendant cinq jours ouvrables, aux dates et heures communiquées par ce Comité. Ce dossier contient tous les éléments et renseignements pertinents en la matière, à l'exception de ceux qui portent atteinte à la protection des sources, à la protection de la vie privée de tiers, aux règles de classification énoncées par la loi du 11 décembre 1998 relative à la classification et aux habilitations, attestations et avis de sécurité, ou à l'accomplissement des missions des services de renseignement et de sécurité définies aux articles 7 [<sup>3</sup> ...]<sup>3</sup> et 11.
+
+Le service de renseignement et de sécurité concerné se voit offrir la possibilité de donner au préalable son avis sur les données enregistrées dans le dossier qui peut être consulté.
+
+[<sup>4</sup> Sauf si cela peut porter atteinte aux missions du service de renseignement et de sécurité concerné]<sup>4</sup>, le dossier accessible au plaignant et à son avocat permet au moins de déterminer :
+
+1° le cadre juridique qui a fondé le recours à une méthode spécifique ou exceptionnelle de recueil des données;
+
+2° la nature de la menace et son degré de gravité qui ont justifié le recours à la méthode spécifique ou exceptionnelle de recueil de données;
+
+3° le type de données à caractère personnel recueillies lors de la mise en oeuvre de la méthode spécifique ou exceptionnelle, pour autant que ces données n'aient trait qu'au plaignant.
+
+§ 4. Le Comité permanent R peut entendre les membres de la commission, le dirigeant du service concerné et les membres des services de renseignement et de sécurité qui ont mis en oeuvre les méthodes spécifiques ou exceptionnelles de recueil de données. Les intéressés sont entendus en l'absence du plaignant ou de son avocat.
+
+Les membres [<sup>4</sup> des services de renseignement et de sécurité]<sup>4</sup> sont obligés de révéler au Comité permanent R les secrets dont ils sont dépositaires. Si ces secrets concernent une information ou une instruction en cours, le Comité permanent R se concerte préalablement à ce sujet avec le magistrat compétent.
+
+Si le membre du service de renseignement et de sécurité estime devoir garder le secret dont il est dépositaire parce que sa divulgation est de nature à porter préjudice à la protection des sources, à la protection de la vie privée de tiers ou à l'accomplissement des missions des services de renseignement et de sécurité telles qu'elles sont définies aux articles 7 [<sup>3</sup> ...]<sup>3</sup> et 11, la question est soumise au président du Comité permanent R, qui statue après avoir entendu le dirigeant du service.
+
+A leur demande, le plaignant et son avocat sont entendus par le Comité permanent R.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 18, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2016-05-29/03, art. 16, 010; En vigueur : 28-07-2016&gt;
+
+(3)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(4)&lt;L 2017-03-30/11, art. 74, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 43/6
+
+[<sup>1</sup> § 1er. Si le Comité permanent R constate que les décisions relatives à des méthodes spécifiques ou exceptionnelles de recueil de données sont illégales, il ordonne la cessation de la méthode concernée si celle-ci est toujours en cours ou si elle a été suspendue par la commission, et ordonne l'interdiction d'exploiter les données recueillies grâce à cette méthode et leur destruction, selon les modalités à fixer par le Roi après avis [<sup>3</sup> ...]<sup>3</sup> du Comité permanent R.
+
+La décision motivée est communiquée sans délai au dirigeant du service, au ministre concerné, à la commission et, le cas échéant, à [<sup>3</sup> une Autorité de protection des données]<sup>3</sup>.
+
+Lorsque le Comité permanent R estime qu'une méthode spécifique ou exceptionnelle de recueil des données est conforme aux dispositions de la présente loi, alors que la commission avait ordonné l'interdiction d'exploiter les données recueillies grâce à cette méthode ainsi que la suspension de cette méthode, le Comité permanent R lève l'interdiction et la suspension par une décision motivée et en avise sans délai le dirigeant du service, le ministre compétent et la commission.
+
+§ 2. En cas de plainte, la décision est portée à la connaissance du plaignant à la condition suivante : toute information de nature à porter atteinte à la défense de l'intégrité du territoire national, aux plans de défense militaires, à l'accomplissement des missions des forces armées, à la sécurité des ressortissants belges à l'étranger, à la sûreté intérieure de l'Etat, y compris dans le domaine de l'énergie nucléaire, à la pérennité de l'ordre démocratique et constitutionnel, à la sûreté extérieure de l'Etat et aux relations internationales, au fonctionnement des organes décisionnels de l'Etat, à la protection des sources ou à la protection de la vie privée de tiers, est supprimée, avec référence à la présente disposition, de la copie de la décision notifiée.
+
+La même procédure sera appliquée lorsque la décision contient des informations de nature à porter atteinte [<sup>2</sup> au secret de l'information ou de l'instruction judiciaire]<sup>2</sup> si des données se rapportent à une information ou une instruction judiciaire en cours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 18, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(3)&lt;L 2024-03-28/60, art. 131, 021; En vigueur : 08-04-2024&gt;
+
+##### Art. 43/7
+
+[<sup>1</sup> § 1er. Si le Comité permanent R intervient dans le cadre du présent chapitre, le greffe est assuré par le greffier du Comité permanent R ou par un membre du personnel de niveau 1 désigné par lui.
+
+§ 2. Les membres du Comité permanent R, les greffiers, les membres du Service d'enquêtes et le personnel administratif sont tenus à une obligation de secret à l'égard des faits, actes ou renseignements dont ils ont connaissance en raison du concours qu'ils apportent à l'application de la présente loi. Ils peuvent toutefois utiliser les données et renseignements recueillis dans ce cadre dans l'accomplissement de leur mission définie par l'article 1er de la loi du 18 juillet 1991 organique du contrôle des services de police et de renseignements et de l'Organe de coordination pour l'analyse de la menace.
+
+[<sup>2</sup> Sans préjudice de l'article 352 du Code pénal, ils sont punis d'une peine de niveau 2, où, par dérogation à l'article 52, § 1er, alinéa 2, 7°, du Code pénal, l'amende s'élève à 32.000 euros au plus, s'ils révèlent délibérément ces secrets dans des circonstances autres que celles prévues par la présente loi. La tentative de commettre l'infraction visée par le présent article n'est pas punissable]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 18, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2026-03-30/01, art. 133, 025; En vigueur : 01-09-2026&gt;
+
+##### Art. 43/8
+
+[<sup>1</sup> Les décisions du Comité permanent R ne sont susceptibles d'aucun recours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-02-04/26, art. 18, 003; En vigueur : 01-09-2010&gt;
+
+## CHAPITRE V. [<sup>1</sup> - Dispositions particulières à l'exercice des missions du Service Général du Renseignement et de la Sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 75, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 44
+
+[<sup>1</sup> Le Service Général du Renseignement et de la Sécurité peut rechercher, capter, écouter, prendre connaissance et enregistrer toute forme de communications émises ou reçues à l'étranger, selon les modalités fixées aux articles 44/3 et 44/4, dans le cadre des missions visées à l'article 11, § 1er, 1° à 3° et 5°.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2017-03-30/11, art. 76, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 44/1
+
+[<sup>1</sup> Le Service Général du Renseignement et de la Sécurité peut procéder à l'intrusion dans un système informatique situé à l'étranger, y lever toute protection, y installer des dispositifs techniques en vue du décryptage, du décodage, du stockage et de la manipulation des données stockées, traitées ou transmises par le système, et perturber et neutraliser le système informatique, selon les modalités fixées aux articles 44/3 et 44/4, dans le cadre des missions visées à l'article 11, § 1er, 1° à 3° et 5°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-30/11, art. 77, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 44/2
+
+[<sup>1</sup> Le Service Général du Renseignement et de la Sécurité peut utiliser des moyens de prises d'images fixes ou animées à l'étranger, selon les modalités fixées aux articles 44/3 et 44/4, dans le cadre des missions visées à l'article 11, § 1er, 1° à 3° et 5°.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-30/11, art. 78, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 44/3
+
+Art 44/3. &lt;Inséré par L 2003-04-03/52, art. 4; En vigueur : 12-05-2003&gt; Le contrôle du Comité permanent de contrôle des services de renseignement en ce qui concerne l'interception des communications [<sup>4</sup> émises ou reçues à l'étranger, l'intrusion dans un système informatique situé à l'étranger et la prise d'images fixes ou animées effectuée à l'étranger]<sup>4</sup> par le [<sup>3</sup> Service Général du Renseignement et de la Sécurité]<sup>3</sup> s'effectue comme suit :
+
+1° Le contrôle préalable [<sup>4</sup> aux interceptions, intrusions ou prises d'images fixes ou animées]<sup>4</sup> s'effectue sur base [<sup>4</sup> de listes établies]<sup>4</sup> annuellement.
+
+A cet effet, chaque année, au début du mois de décembre, le [<sup>3</sup> Service Général du Renseignement et de la Sécurité]<sup>3</sup> présente pour autorisation au Ministre de la Défense [<sup>4</sup> des listes]<sup>4</sup> d'organisations et d'institutions qui feront l'objet d'interceptions de leurs communications [<sup>4</sup> , d'intrusions dans leurs systèmes informatiques ou de prises d'images fixes ou animées]<sup>4</sup> dans le courant de l'année à venir. [<sup>4</sup> Ces listes justifieront pour chaque organisation ou institution la raison pour laquelle elle fera l'objet d'une interception, intrusion ou prise d'images fixes ou animées en lien avec les missions visées à l'article 11, § 1er, 1° à 3° et 5°, et mentionneront]<sup>4</sup> la durée prévue. Endéans les 10 jours ouvrables le Ministre de la Défense prend une décision et la communique au [<sup>3</sup> Service Général du Renseignement et de la Sécurité]<sup>3</sup>. Ce service transmet [<sup>4</sup> les listes annuelles pourvues]<sup>4</sup> de l'autorisation du ministre de la Défense au Comité permanent de contrôle des services de renseignement.
+
+Si le Ministre de la Défense n'a pas pris de décision ou n'a pas transmis cette décision au Service Général du Renseignement et de la Sécurité avant le 1er janvier, ce service peut entamer les interceptions [<sup>4</sup> , intrusions et prises d'images fixes ou animées]<sup>4</sup> prévues, sans préjudice de toute décision ultérieure du Ministre de la Défense.
+
+Si des interceptions de communications [<sup>4</sup> , des intrusions informatiques ou des prises d'images fixes ou animées]<sup>4</sup> non reprises sur [<sup>4</sup> les listes annuelles]<sup>4</sup> s'avèrent indispensables et urgentes pour l'exécution d'une mission du [<sup>3</sup> Service Général du Renseignement et de la Sécurité]<sup>3</sup>, ce service en avertit le Ministre de la Défense dans les plus brefs délais et au plus tard le premier jour ouvrable qui suit le début de l'interception [<sup>4</sup> , de l'intrusion ou de la prise d'images fixes ou animées]<sup>4</sup>. Le ministre peut, s'il n'est pas d'accord, faire cesser cette interception [<sup>4</sup> , cette intrusion ou cette prise d'images fixes ou animées]<sup>4</sup>. La décision du Ministre de la Défense est communiquée au Comité permanent de contrôle des services de renseignement [<sup>4</sup> le plus rapidement possible par le Service Général du Renseignement et de la Sécurité]<sup>4</sup>.
+
+2° Le contrôle pendant l'interception [<sup>4</sup> , l'intrusion ou la prise d'images fixes ou animées]<sup>4</sup> s'effectue [<sup>4</sup> , à tout moment,]<sup>4</sup> moyennant des visites aux installations dans lesquelles le [<sup>3</sup> Service Général du Renseignement et de la Sécurité]<sup>3</sup> effectue ces interceptions [<sup>4</sup> , intrusions et prises d'images fixes ou animées]<sup>4</sup>.
+
+3° Le contrôle postérieur aux interceptions [<sup>4</sup> , aux intrusions et aux prises d'images fixes ou animées]<sup>4</sup> s'effectue sur base [<sup>4</sup> de listes mensuelles des pays ou des organisations ou institutions ayant effectivement fait l'objet d'une écoute, d'une intrusion ou d'une prise d'images durant le mois écoulé, notifiée au Comité permanent R et justifiant la raison pour laquelle l'écoute, l'intrusion ou la prise d'images a été effectuée en lien avec les missions visées à l'article 11, § 1er, 1° à 3° et 5°, ainsi que sur base]<sup>4</sup> du contrôle [<sup>4</sup> de journaux de bord tenus]<sup>4</sup> d'une façon permanente sur le lieu d'interception [<sup>4</sup> , d'intrusion ou de prise d'images fixes ou animées]<sup>4</sup> par le [<sup>3</sup> Service Général du Renseignement et de la Sécurité]<sup>3</sup>. Le Comité permanent de contrôle des services de renseignement a toujours accès à [<sup>4</sup> ces journaux de bord]<sup>4</sup>.
+
+----------
+
+(1)&lt;L 2010-02-04/26, art. 19, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2014-05-05/09, art. 36, 005; En vigueur : 18-07-2014&gt;
+
+(3)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(4)&lt;L 2017-03-30/11, art. 79, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 44/4
+
+&lt;Inséré par L 2003-04-03/52, art. 5; En vigueur : 12-05-2003&gt; Dans le cadre d'interceptions de communications [<sup>3</sup> émises ou reçues à l'étranger, d'intrusions dans un système informatique situé à l'étranger et de prises d'images fixes ou animées effectuées à l'étranger]<sup>3</sup> par le [<sup>2</sup> Service Général du Renseignement et de la Sécurité]<sup>2</sup>, le Comité permanent de contrôle des services de renseignement, sans préjudice des autres compétences attribuées à ce Comité par la loi du 18 juillet 1991, a le droit de faire cesser des interceptions [<sup>3</sup> , intrusions ou prises d'images]<sup>3</sup> en cours lorsqu'il apparaît que [<sup>3</sup> ...]<sup>3</sup> celles-ci ne respectent [<sup>3</sup> ...]<sup>3</sup> pas les dispositions légales [<sup>3</sup> ...]<sup>3</sup> ou l'autorisation visée [<sup>3</sup> à l'article 44/3]<sup>3</sup>, 1°, alinéa 2. [<sup>3</sup> Il ordonne l'interdiction d'exploiter les données recueillies illégalement et leur destruction, selon les modalités à fixer par le Roi.]<sup>3</sup> Cette décision motivée de manière circonstanciée doit être communiquée au Chef du [<sup>2</sup> Service Général du Renseignement et de la Sécurité]<sup>2</sup> ainsi qu'au Ministre de la Défense.
+
+----------
+
+(1)&lt;L 2010-02-04/26, art. 20, 003; En vigueur : 01-09-2010&gt;
+
+(2)&lt;L 2017-03-30/11, art. 3, 012; En vigueur : 08-05-2017&gt;
+
+(3)&lt;L 2017-03-30/11, art. 80, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 44/5
+
+[<sup>1</sup> Si une opération sur un réseau de communications est nécessaire pour permettre l'interception de communications émises ou reçues à l'étranger visée à l'article 44, l'opérateur du réseau ou le fournisseur du service de communications électroniques est saisi d'une demande écrite du dirigeant du service et est tenu de prêter son concours dans les plus brefs délais.
+
+[<sup>2</sup> Toute personne qui refuse délibérément de prêter son concours aux réquisitions visées à l'alinéa 1er, est punie d'une peine de niveau 1, où, par dérogation aux articles 36 et 38 du Code pénal, l'amende maximale est de 160.000 euros. La tentative de commettre l'infraction visée par le présent article n'est pas punissable]<sup>2</sup>. Les prestations sont rétribuées selon les coûts réels, sur présentation des pièces justificatives.
+
+Le Roi fixe, sur la proposition du ministre de la Défense et du ministre qui a les communications électroniques dans ses attributions, les modalités de ce concours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-30/11, art. 81, 012; En vigueur : 08-05-2017&gt;
+
+(2)&lt;L 2026-03-30/01, art. 134, 025; En vigueur : 01-09-2026&gt;
+
+## CHAPITRE VI. [<sup>1</sup> - Dispositions modificatives et finales.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-03-30/11, art. 82, 012; En vigueur : 08-05-2017&gt;
+
+##### Art. 45
+
+Dans l'article 39 de la loi du 5 août 1992 sur la fonction de police, les mots " services de renseignement officiels " sont remplacés par les mots " services de renseignement et de sécurité visés par la loi du 30 novembre 1998 ".
+
+##### Art. 46
+
+Dans la loi du 18 juillet 1991 organique du contrôle des services de police et de renseignements, sont apportées les modifications suivantes :
+
+A) à l'article 3, alinéa 1er, 2°, les mots " l'Administration de " sont supprimés;
+
+B) à l'article 31, 2°, les mots " l'Administration de ", sont supprimés;
+
+C) l'article 31 est complété par un 4°, rédigé comme suit :
+
+" 4° le Ministre qui a l'Intérieur dans ses attributions, pour les missions de la Sûreté de l'Etat qui ont trait au maintien de l'ordre public et à la protection des personnes, ainsi que l'organisation et l'administration de la Sûreté de l'Etat lorsque celles-ci ont une influence directe sur l'exécution des missions de maintien de l'ordre public et de protection des personnes. ";
+
+D) à l'article 51, alinéa 2, 3ème phrase, sont insérés, entre les mots " saisie " et " risquerait ", les mots " de données classifiées est de nature à constituer une menace pour l'exercice des missions des services de renseignement et de sécurité visées aux articles 7, 8 et 11 de la loi du 30 novembre 1998, organique des services de renseignement et de sécurité, ou qu'elle ".
+
+##### Art. 47
+
+L'article 5, alinéa 3, de la loi du 8 août 1983 organisant un registre national des personnes physiques, modifié par la loi du 24 mai 1994, est complété par ce qui suit :
+
+" 12° l'administrateur général de la Sûreté de l'Etat relevant du Ministre de la Justice. ".
+
+##### Art. 48
+
+Le Roi détermine la date de l'entrée en vigueur de la présente loi.
+
+(NOTE : Entrée en vigueur fixée le 01-02-1999 suivant AR du 22-01-1999 mentionné au Moniteur belge du 30-01-1999, p. 2827)
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donne à Bruxelles, le 30 novembre 1998.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre, Ministre de la Défense nationale, chargé de l'Energie,
+
+J.-P. PONCELET
+
+Le Ministre de la Justice,
+
+T. VAN PARYS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+T. VAN PARYS

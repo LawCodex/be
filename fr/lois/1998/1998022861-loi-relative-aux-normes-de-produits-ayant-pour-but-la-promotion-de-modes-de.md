@@ -1,0 +1,1780 @@
+---
+title: "Loi relative aux normes de produits ayant pour but la promotion de modes de production et de consommation durables et la protection de l'environnement [, de la santé et des travailleurs]. (Err. M.B. 24-04-1999, p. 13774.) <L 2011-07-27/13 , art. 3, 012; En vigueur : 29-08-2011>"
+identifier: "1998022861"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/21/1998022861/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1998-12-21
+published: 1999-02-11
+entry_into_force: 1999-02-21
+last_amended: 2024-05-31
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/21/1998022861/justel"
+department: "Affaires sociales - Santé Publique et Environnement"
+justel_note: "Consultation des versions antérieures à partir du 11-02-1999 et mise à jour au 31-05-2024"
+retrieved: 2026-10-11
+---
+
+# 21 DECEMBRE 1998. - Loi relative aux normes de produits ayant pour but la promotion de modes de production et de consommation durables et la protection de l'environnement [, de la santé et des travailleurs]. (Err. M.B. 24-04-1999, p. 13774.) &lt;L 2011-07-27/13 , art. 3, 012; En vigueur : 29-08-2011&gt;
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE I. - Dispositions introductives.
+
+##### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+##### Art. 2
+
+Pour l'application de la présente loi [<sup>6</sup> et de ses arrêtés d'exécution, l'on entend par]<sup>6</sup> :
+
+1° [<sup>8</sup> produits: les biens meubles corporels, y compris les substances, les mélanges tels que les biocides, les produits phytopharmaceutiques et les biocarburants, ainsi que les articles, mais à l'exclusion des déchets;]<sup>8</sup>
+
+2° catégories de produits : les produits destinés à un même usage et pouvant être utilisés de manière équivalente;
+
+3° mise sur le marché : l'introduction, l'importation ou la détention en vue de la vente ou de la mise à disposition de tiers, l'offre en vente, la vente, l'offre en location, la location, ou la cession à titre onéreux ou gratuit [<sup>8</sup> . les produits offerts en ligne ou via d'autres moyens de vente à distance sont considérés comme étant mis sur le marché si l'offre est destinée aux utilisateurs finaux se trouvant sur le territoire belge]<sup>8</sup>;
+
+[<sup>2</sup> 3°bis mise sur le marché illégale : l'introduction, l'importation ou la détention en vue de la vente ou de la mise à disposition de tiers, l'offre en vente, la vente, l'offre en location, la location, ou la cession à titre onéreux ou gratuit d'un produit faite en contravention avec les conditions et/ou prescriptions techniques fixées par la présente loi et par ses arrêtés d'exécution, ainsi que par les règlements de l'Union européenne figurant à l'annexe Ire;]<sup>2</sup>
+
+4° substances : les éléments chimiques et leurs composés à l'état naturel ou tels qu'obtenus par tout procédé de production, y compris tout additif nécessaire pour préserver la stabilité du produit et contenant toute impureté dérivant du procédé de production, à l'exclusion toutefois de tout solvant qui peut être séparé sans affecter la stabilité de la substance ni modifier sa composition;
+
+5° nouvelle substance : toute substance qui n'est pas reprise dans l'inventaire EINECS (European Inventory of Existing Commercial Chemical Substances), mentionné à l'article 2, § 1er, h), de la directive 67/548/CEE du 27 juin 1967 concernant le rapprochement des dispositions législatives, réglementaires et administratives relatives à la classification, l'emballage et l'étiquetage des substances dangereuses;
+
+6° [<sup>5</sup> mélanges]<sup>5</sup> : les mélanges ou solutions composés de deux substances ou plus;
+
+[<sup>1</sup> 6° bis : article : un objet auquel sont donnés, au cours du processus de fabrication, une forme, une surface ou un dessin particuliers qui sont plus déterminants pour sa fonction que sa composition chimique;]<sup>1</sup>
+
+7° [<sup>7</sup> substances dangereuses : substances dangereuses telles que définies dans l'annexe I, partie 2, 3 et 4 du Règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l'étiquetage et à l'emballage des substances et des mélanges, modifiant et abrogeant les Directives 67/548/CEE et 1999/45/CE et modifiant le Règlement (CE) n° 1907/2006;]<sup>7</sup>
+
+[<sup>4</sup> 7bis° [<sup>7</sup> mélanges dangereux : les mélanges dangereux tels que définis dans l'annexe I, partie 2, 3 et 4 du Règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l'étiquetage et à l'emballage des substances et des mélanges, modifiant et abrogeant les Directives 67/548/CEE et 1999/45/CE et modifiant le Règlement (CE) n° 1907/2006;]<sup>7</sup>
+
+8° [<sup>4</sup> biocides : produits biocides tels que défini dans l'article 3 du Règlement (UE) n° 528/2012 du Parlement européen et du Conseil du 22 mai 2012 concernant la mise à disposition sur le marché et l'utilisation des produits biocides;]<sup>4</sup>
+
+9° emballages : tout produit constitué de matériaux de toute nature, destiné à contenir et à protéger des marchandises, allant de matières premières aux produits finis, à permettre leur manutention et leur acheminement du producteur au consommateur ou à l'utilisateur et à assurer leur présentation; les articles " à jeter " utilisés aux mêmes fins doivent également être considérés comme des emballages.
+
+L'emballage est uniquement constitué de :
+
+a) l'emballage de vente ou emballage primaire, c'est-à-dire l'emballage conçu de manière à constituer au point de vente une unité de vente pour l'utilisateur final ou le consommateur;
+
+b) l'emballage de groupage ou emballage secondaire, c'est-à-dire l'emballage conçu de manière à constituer au point de vente un groupe d'un certain nombre d'unités de vente, qu'il soit vendu tel quel à l'utilisateur final ou au consommateur, ou qu'il serve seulement à garnir les présentoirs au point de vente; il peut être enlevé du produit sans en modifier les caractéristiques;
+
+c) l'emballage de transport ou emballage tertiaire, c'est-à-dire l'emballage conçu de manière à faciliter la manutention ou le transport d'un certain nombre d'unités de vente ou d'emballages de groupage en vue d'éviter les dommages physiques provoqués lors de la manipulation ou liés au transport. L'emballage de transport ne comprend pas les conteneurs de transport routier, ferroviaire, maritime ou aérien;
+
+10° [<sup>8</sup> emballage réutilisable: un emballage qui a été conçu, créé et mis sur le marché pour pouvoir accomplir pendant son cycle de vie plusieurs trajets ou rotations en étant rempli à nouveau ou réutilisé pour un usage identique à celui pour lequel il a été conçu;]<sup>8</sup>
+
+11° [<sup>8</sup> valorisation: toute opération dont le résultat principal est que des déchets servent à des fins utiles en remplaçant d'autres matières qui auraient été utilisées à une fin particulière, ou que des déchets soient préparés pour être utilisés à cette fin, dans l'usine ou dans l'ensemble de l'économie;]<sup>8</sup>
+
+12° [<sup>8</sup> recyclage: toute opération de valorisation par laquelle les déchets sont retraités en produits, matières ou substances aux fins de leur fonction initiale ou à d'autres fins. Cela inclut le retraitement des matières organiques, mais n'inclut pas la valorisation énergétique, ni la conversion pour l'utilisation comme combustible ou pour des opérations de remblayage;]<sup>8</sup>
+
+13° valorisation énergétique : l'utilisation de déchets d'emballages combustibles en tant que moyen de production d'énergie, par incinération directe avec ou sans autres déchets, mais avec récupération de la chaleur;
+
+14° recyclage organique : le traitement aérobie (compostage) ou anaérobie (biométhanisation), par des micro-organismes et dans des conditions contrôlées, des parties biodégradables des déchets d'emballages, avec production d'amendements organiques stabilisés ou de méthane; l'enfouissement en décharge ne peut être considéré comme une forme de recyclage organique;
+
+15° [<sup>8</sup> élimination: toute opération qui n'est pas de la valorisation même lorsque ladite opération a comme conséquence secondaire la récupération de substances ou d'énergie;]<sup>8</sup>
+
+16° produit réutilisable : tout produit destiné et conçu pour être réutilisé entièrement ou pour la plus grande partie pour un usage identique à celui pour lequel il a été conçu;
+
+17° environnement : l'atmosphère, le sol, l'eau, les écosystèmes, le climat, la flore, la faune et les autres organismes à part l'homme;
+
+18° pollution : la présence, engendrée par l'homme, de matières solides, de liquides, de gaz, de micro-organismes, d'énergie thermique, de radiations non ionisantes, de bruit ou autres vibrations, dans l'atmosphère, le sol ou l'eau, ayant ou susceptible d'avoir, directement ou indirectement, des effets préjudiciables sur l'homme ou l'environnement;
+
+19° le Ministre : selon le cas, le Ministre qui a [<sup>3</sup> la Santé publique, l'Environnement ou l'Emploi]<sup>3</sup> dans ses attributions.
+
+(20° [<sup>4</sup> produits phytopharmaceutiques :
+
+a) produits phytopharmaceutiques et adjuvants tels que définis dans le Règlement (CE) n° 1107/2009 du Parlement européen et du Conseil du 21 octobre 2009 concernant la mise sur le marché des produits phytopharmaceutiques et abrogeant les Directives 79/117/CEE et 91/414/CEE du Conseil;
+
+b) tous les autres produits dans la forme sous laquelle ils sont livrés à l'utilisateur et qui ont un fonctionnement de produit phytopharmaceutique ou adjuvant, ou qui sont destinés à influencer le fonctionnement, les propriétés ou l'application des produits phytopharmaceutiques ou adjuvants, ou sont destinés à être transformés en produits phytopharmaceutiques ou adjuvants, à l'endroit de l'utilisation ou non.[<sup>7</sup> ...]<sup>7</sup>]<sup>4</sup>) &lt;L 2003-03-28/42, art. 2, 003; En vigueur : 09-05-2003&gt;
+
+(21° Biocarburant : un combustible liquide, gazeux ou solide produit à partir de la biomasse. La biomasse est la fraction biodégradable des produits, déchets et résidus provenant de l'agriculture (y compris les substances végétales et animales), de la pêche, de l'aquaculture, de la sylviculture et de ses industries connexes, ainsi que la fraction biodégradable des déchets industriels et ménagers.) &lt;L 2004-12-27/30, art. 233, 006; En vigueur : 10-01-2005&gt;
+
+[<sup>1</sup> 22° REACH : Règlement (CE) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n° 793/93 du Conseil et le règlement (CE) n° 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission;]<sup>1</sup>
+
+[<sup>8</sup> 23° Règlement 2019/1020: le Règlement 2019/1020 du Parlement européen et du Conseil du 20 juin 2019 sur à la surveillance du marché et la conformité des produits et modifiant la Directive 2004/42/CE et les Règlements (UE) n° 765/2008 et (UE) n° 305/2011;]<sup>8</sup>
+
+[<sup>8</sup> 24° : prestataire de services d'exécution des commandes: toute personne physique ou morale au sens de l'article 3(11) du Règlement 2019/1020, qui fournit les services qui y sont listés, en relation avec des produits dont la mise sur le marché est réglementée par la présente loi, ses arrêtés d'exécution, des mesures d'exécution prises dans le cadre de la Directive 2009/125/CE et des Règlements de l'Union européenne figurant à l'annexe 1;]<sup>8</sup>
+
+[<sup>9</sup> 25° Règlement Batterie: règlement (UE) 2023/1542 du Parlement européen et du Conseil du 12 juillet 2023 relatif aux batteries et aux déchets batteries, modifiant la directive 2008/98/CE et le règlement (UE) 2019/1020, et abrogeant la directive 2006/66/CE.
+
+26° Règlement Déforestation: règlement (UE) 2023/1115 du Parlement européen et du Conseil du 31 mai 2023 relatif à la mise à disposition sur le marché de l'Union et à l'exportation à partir de l'Union de certains produits de base et produits associés à la déforestation et à la dégradation des forêts, et abrogeant le règlement (UE) n° 995/2010.]<sup>9</sup>
+
+----------
+
+(1)&lt;L 2009-09-10/34, art. 3, 010; En vigueur : 19-10-2009&gt;
+
+(2)&lt;L 2010-12-29/01, art. 80, 011; En vigueur : 10-01-2011&gt;
+
+(3)&lt;L 2011-07-27/13, art. 4, 012; En vigueur : 29-08-2011&gt;
+
+(4)&lt;L 2014-04-25/A1, art. 2, 013; En vigueur : 27-06-2014&gt;
+
+(5)&lt;L 2014-04-25/A1, art. 20, 013; En vigueur : 27-06-2014&gt;
+
+(6)&lt;L 2014-05-15/65, art. 2, 014; En vigueur : 09-08-2014&gt;
+
+(7)&lt;L 2015-12-16/06, art. 10, 015; En vigueur : 31-12-2015&gt;
+
+(8)&lt;L 2023-04-26/06, art. 2, 020; En vigueur : 15-06-2023&gt;
+
+(9)&lt;L 2024-05-03/21, art. 50, 022; En vigueur : 10-06-2024&gt;
+
+##### Art. 3
+
+§ 1er. Sans préjudice de l'application d'autres dispositions légales, la présente loi a pour objet d'encourager et de promouvoir des modes de production et de consommation durables au moyen de normes de produits et en particulier :
+
+1° de protéger l'environnement contre les effets ou risques d'effets nocifs de certains produits mis sur le marché ou exportés vers des pays, non membres de la Communauté européenne;
+
+2° de protéger la santé publique contre les effets ou risques d'effets nocifs de certains produits mis sur le marché ou exportés vers des pays, non membres de la Communauté européenne;
+
+3° d'assurer l'application des directives et règlements de [<sup>3</sup> l'Union]<sup>3</sup> européenne relatifs aux normes de produits et ayant pour but la protection de la santé publique ou de l'environnement.
+
+[<sup>1</sup> 4° de protéger les travailleurs contre les effets nocifs ou les risques d'effets nocifs des substances et [<sup>2</sup> mélanges]<sup>2</sup> qui sont la conséquence ou seront probablement la conséquence de l'exposition aux substances et [<sup>2</sup> mélanges]<sup>2</sup> sur le lieu de travail ou de l'utilisation des substances et [<sup>2</sup> mélanges]<sup>2</sup> lors de l'exercice de l'activité professionnelle, en fixant des conditions relatives à la mise sur le marché et la fourniture de ces substances et [<sup>2</sup> mélanges]<sup>2</sup>.]<sup>1</sup>
+
+La présente loi ne vise pas [<sup>1</sup> ...]<sup>1</sup> la sécurité des consommateurs.
+
+§ 2. (La présente loi s'applique à tout les produits, pour ce qui concerne les aspects visés dans le § 1er.
+
+Par dérogation à l'alinéa précédent, la présente loi ne s'applique pas aux produits qui tombent sous les lois suivantes et leurs arrêtés d'exécution, lorsque ceux-ci contiennent des dispositions contradictoires, ou si par l'application de la loi leurs objectifs peuvent être mis en danger :
+
+1° la loi du 28 mai 1956 relative aux substances et mélanges explosibles ou susceptibles de déflagrer et aux engins qui en sont chargés;
+
+2° la loi du 20 juin 1956 relative à l'amélioration des races d'animaux domestiques utiles à l'agriculture;
+
+3° la loi du 25 mars 1964 sur les médicaments [<sup>5</sup> à usage humain]<sup>5</sup>;
+
+4° la loi du 24 janvier 1977 relative à la protection de la santé des consommateurs en ce qui concerne les denrées alimentaires et les autres produits;
+
+5° la loi du 15 avril 1994 relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de Contrôle nucléaire;
+
+6° la loi du 9 février 1994 relative à la sécurité des produits et des services.) &lt;L 2003-03-28/42, art. 3, 003; En vigueur : 09-05-2003&gt;
+
+[<sup>4</sup> 7° le règlement (UE) 2017/745 du Parlement européen et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux, modifiant la directive 2001/83/CE, le règlement (CE) n° 178/2002 et le règlement (CE) n° 1223/2009 et abrogeant les directives du Conseil 90/385/CEE et 93/42/CEE ;
+
+8° la loi du 22 décembre 2020 relative aux dispositifs médicaux;]<sup>4</sup>
+
+[<sup>5</sup> 9° le Règlement (UE) 2019/6 du Parlement Européen et du Conseil du 11 décembre 2018 du 11 décembre 2018 relatif aux médicaments vétérinaires et abrogeant la directive 2001/82/CE;
+
+10° la loi du 5 mai 2022 sur les médicaments vétérinaires;]<sup>5</sup>
+
+[<sup>6</sup> 9° le règlement (UE) 2017/746 du Parlement et du Conseil du 5 avril 2017 relatif aux dispositifs médicaux de diagnostic in vitro et abrogeant la directive 98/79/CE et la décision 2010/227/UE de la Commission ;
+
+10° la loi du xxx relative aux dispositifs médicaux de diagnostic in vitro.]<sup>6</sup>
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 5, 012; En vigueur : 29-08-2011&gt;
+
+(2)&lt;L 2014-04-25/A1, art. 20, 013; En vigueur : 27-06-2014&gt;
+
+(3)&lt;L 2015-12-16/06, art. 11, 015; En vigueur : 31-12-2015&gt;
+
+(4)&lt;L 2020-12-22/40, art. 110, 017; En vigueur : 26-05-2021&gt;
+
+(5)&lt;L 2022-05-05/13, art. 104, 018; En vigueur : 21-05-2022&gt;
+
+(6)&lt;L 2022-06-15/03, art. 104, 019; En vigueur : 01-07-2022&gt;
+
+## CHAPITRE II. - Dispositions générales relatives aux produits.
+
+##### Art. 4
+
+Tous les produits qui sont mis sur le marché [<sup>1</sup> conformément aux dispositions de la présente loi et de ses arrêtés d'exécution, ainsi que des règlements de l'Union européenne figurant à l'annexe Ire]<sup>1</sup> doivent être concus de telle sorte que leur fabrication, utilisation prévue et élimination ne portent pas atteinte à la santé publique et ne contribuent pas, ou le moins possible, à une augmentation de la quantité et du degré de nocivité des déchets et à d'autres formes de pollution.
+
+----------
+
+(1)&lt;L 2010-12-29/01, art. 81, 011; En vigueur : 10-01-2011&gt;
+
+##### Art. 5
+
+§ 1er. Afin de protéger [<sup>1</sup> l'environnement, la santé publique ou les travailleurs]<sup>1</sup> et de promouvoir des modes de production et de consommation durables, le Roi peut prendre des mesures en vue :
+
+1° de réglementer, suspendre, ou interdire la mise sur le marché d'un produit;
+
+2° de soumettre la mise sur le marché d'un produit à (une homologation, une autorisation, un enregistrement ou une notification préalables), ainsi que de fixer les conditions dans lesquelles les autorisations ou enregistrements peuvent être accordés, suspendus et retirés; &lt;L 2004-12-27/30, art. 234, 006; En vigueur : 10-01-2005&gt;
+
+3° de réglementer les caractéristiques, la composition, l'emballage, la présentation et le conditionnement d'un produit en vue de sa mise sur le marché et de déterminer de quelle façon le respect de ces règles doit être démontré ou indiqué;
+
+[<sup>5</sup> 3° /1. de réglementer la durabilité, la facilité d'entretien, la démontabilité, la réutilisabilité, la recyclabilité ou le contenu recyclé d'un produit lors de sa mise sur le marché, et de déterminer de quelle façon le respect de ces règles doit être démontré ou indiqué;]<sup>5</sup>
+
+4° d'encourager la mise sur le marché de produits réutilisables;
+
+5° de fixer les critères d'analyse, d'essai ou d'étude d'un produit ou d'une catégorie de produits et de leur cycle de vie en vue de la détermination de leur durabilité et des dangers ou risques potentiels de leur mise sur le marché pour la santé publique ou l'environnement et d'imposer des analyses, des essais ou des études selon ces modalités;
+
+6° de déterminer quelles informations relatives à un produit ou à une catégorie de produits, à l'exception de la publicité au sens de [<sup>4</sup> l'article VI.9 du Code de droit économique]<sup>4</sup>, doivent ou peuvent être données avant ou lors de la mise sur le marché, et à qui et selon quelles modalités elles doivent ou peuvent être divulguées;
+
+7° de subordonner les activités des personnes qui participent à la mise sur le marché de produits ou de catégories de produits à des conditions et à une notification ou une autorisation préalables du Ministre ainsi que de fixer les modalités selon lesquelles la notification doit être effectuée et les conditions dans lesquelles l'autorisation peut être accordée, suspendue et retirée;
+
+8° d'interdire l'exportation de produits vers des pays, non membres de [<sup>3</sup> l'Union]<sup>3</sup> européenne ou de la soumettre, préalablement ou non, à une notification, une autorisation ou à des conditions;
+
+9° de répartir les produits en catégories, en vue de la réglementation de leur mise sur le marché, selon leurs effets sur la santé publique ou l'environnement;
+
+10° de déterminer des règles spécifiques pour l'étiquetage d'un produit ou d'une catégorie de produits. Lorsque ces règles ont pour objet un produit ou une catégorie de produits pour lesquels des prescriptions d'étiquetage ont été établies en vertu de [<sup>4</sup> l'article VI.9 du Code de droit économique]<sup>4</sup>, elles sont arrêtées sur proposition conjointe du Ministre et du Ministre ayant la Consommation dans ses attributions;
+
+11° d'imposer la déclaration obligatoire des quantités de produits mises sur le marché ou exportées et de leur composition;
+
+12° de soumettre la mise sur le marché d'un produit ou d'une catégorie de produits à d'autres conditions particulières;
+
+13° de prendre toute autre mesure nécessaire pour la mise en oeuvre des dispositions de conventions et/ou d'actes internationaux liant la Belgique et relatifs à la mise sur le marché de produits;
+
+[<sup>2</sup> 14° d'informer le public sur les produits ou catégories de produits à mettre sur le marché et sensibiliser ce public à des modes de production et de consommation durables.]<sup>2</sup>
+
+Les arrêtés pris en exécution des dispositions sous 2°, [<sup>5</sup> 3° /1,]<sup>5</sup> 4°, 7°, 11° et 12° sont délibérés en Conseil des Ministres.
+
+§ 2. En vue de protéger la santé publique [<sup>1</sup> ou les travailleurs]<sup>1</sup> , le Roi peut en outre :
+
+1° soumettre à certaines conditions, suspendre ou interdire l'utilisation d'un produit;
+
+2° soumettre l'utilisation d'un produit à une autorisation, un enregistrement ou une notification préalables, ainsi que fixer les conditions dans lesquelles les autorisations ou enregistrements peuvent être accordés, suspendus et retirés;
+
+3° soumettre à certaines conditions, suspendre ou interdire la production d'un produit;
+
+4° faire retirer du marché certains produits;
+
+5° subordonner les activités des personnes qui participent à l'utilisation de produits ou de catégories de produits à des conditions et à une notification ou une autorisation préalables du Ministre ainsi que fixer les modalités selon lesquelles la notification doit être effectuée et les conditions dans lesquelles l'autorisation peut être accordée, suspendue et retirée;
+
+6° soumettre l'utilisation d'un produit ou d'une catégorie de produits à d'autres conditions particulières.
+
+Les arrêtés pris en exécution des dispositions sous 2, 3°, 4°, 5° et 6° sont délibérés en Conseil des Ministres.
+
+§ 3. Sauf dans les cas où l'article [<sup>4</sup> IX.5 du Code de droit économique]<sup>4</sup> est d'application, le Ministre qui a la Santé publique dans ses attributions, peut, par arrêté motivé et sans demander les avis prescrits par la présente loi ou ses arrêtés d'exécution, prendre des mesures provisoires interdisant l'usage, la mise ou le maintien sur le marché d'un ou plusieurs produits constituant un danger grave et urgent pour la santé publique.
+
+§ 4. Le Ministre qui a l'Environnement dans ses attributions, peut, par arrêté motivé et sans demander les avis prescrits par la présente loi ou ses arrêtés d'exécution, prendre des mesures provisoires interdisant la mise ou le maintien sur le marché d'un ou plusieurs produits constituant un danger grave et urgent pour l'environnement.
+
+§ 5. Les mesures provisoires prises en vertu des paragraphes 3 et 4 cessent de produire leurs effets au plus tard à la fin du sixième mois suivant celui où elles sont entrées en vigueur. Ces mesures peuvent être prolongées pour une période ne dépassant pas ce même délai.
+
+[<sup>5</sup> § 6. Les mesures provisoires prises en vertu des paragraphes 3 et 4 peuvent être transposées par le Roi dans une mesure définitive.]<sup>5</sup>
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 6, 012; En vigueur : 29-08-2011&gt;
+
+(2)&lt;L 2014-04-25/A1, art. 3, 013; En vigueur : 27-06-2014&gt;
+
+(3)&lt;L 2015-12-16/06, art. 11, 015; En vigueur : 31-12-2015&gt;
+
+(4)&lt;L 2015-12-16/06, art. 12, 015; En vigueur : 31-12-2015&gt;
+
+(5)&lt;L 2023-04-26/06, art. 3, 020; En vigueur : 15-06-2023&gt;
+
+##### Art. 5bis.
+
+[<sup>1</sup> § 1er. Dans le cadre de l'octroi des autorisations et agréments concernés par l'article 5, § 1er, alinéa 1er, 2°, 3°, et § 2, alinéa 1er, 2°, 3°, les données personnelles suivantes des demandeurs peuvent être traitées : le prénom, le nom, la date de naissance, la nationalité, l'adresse physique, le numéro de téléphone, l'adresse mail, la langue, le numéro de registre national. Le cas échéant, en l'absence de numéro de registre national, le numéro BIS ou une preuve d'identité du demandeur, est exigé.
+
+Le traitement des données à caractère personnel visées à l'alinéa 1er a pour finalité de permettre l'identification certaine du demandeur en vue de la délivrance de l'autorisation ou de l'agrément. Dans ce but, la saisie du numéro de registre national permet d'accéder aux données du registre national. La saisie de l'adresse mail, de l'adresse physique, du numéro de téléphone ainsi que la saisie de la langue a pour finalité de communiquer avec le demandeur.
+
+§ 2. Les données personnelles visées au paragraphe 1 peuvent être conservées pendant la période de validité de l'autorisation ou de l'agrément, complétée par une période de 6 ans, à l'exception du numéro de registre national, du nom, du prénom et de la date de naissance qui peuvent être conservés pendant 30 ans après l'expiration de la période de validité.
+
+§ 3. Les distributeurs peuvent dans le cadre d'une vente consulter le statut d'une autorisation ou d'un agrément visé à l'article 5, § 1, alinéa 1er, 2°, 3° en § 2, alinéa 1er, 2° en 3°, via un registre en ligne de l'autorité compétente.
+
+L'objectif est de vérifier si l'acheteur dispose de l'autorisation ou de l'agrément requis.
+
+§ 4. La Direction générale Environnement et la Direction générale Animaux, Végétaux et Alimentation du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement sont responsables du traitement des données au sens de l'article 4 du Règlement (UE) 2016/679 du Parlement Européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données.
+
+Les distributeurs sont des destinataires au sens de l'article 4 du même Règlement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-21/30, art. 4, 021; En vigueur : 15-04-2024&gt;
+
+##### Art. 6
+
+§ 1er. Afin de protéger la santé publique ou l'environnement et de promouvoir les modes de production et de consommation durables, et particulièrement afin de mettre en oeuvre l'article 4 de la présente loi, l'Etat peut conclure des accords sectoriels relatifs à la mise sur le marché d'un produit ou d'une catégorie de produits avec des entreprises qui participent à la mise sur le marché d'un même produit ou d'une même catégorie de produits ou des organisations regroupant de telles entreprises.
+
+Les organisations visées au précédent alinéa doivent démontrer qu'elles :
+
+1° sont dotées de la personnalité juridique;
+
+2° sont représentatives des entreprises qui appartiennent au même secteur et participent à la mise sur le marché d'un même produit ou d'une même catégorie de produits;
+
+3° et disposent de la compétence statutaire requise pour conclure un tel accord ou sont mandatées par, au moins, les trois quarts de leurs membres pour conclure avec l'Etat un accord sectoriel qui les liera conformément au § 4, 1°, du présent article.
+
+(alinéa 3 abrogé) &lt;L 2003-03-28/42, art. 4, 003; En vigueur : 09-05-2003&gt;
+
+§ 2. Dans la mesure où une entreprise ou une organisation remplit les conditions déterminées au § 1er du présent article et moyennant l'accord de l'Etat, elle peut adhérer à un accord sectoriel existant.
+
+§ 3. Un accord sectoriel ne peut ni remplacer la législation ou la réglementation existante, ni y déroger dans le sens de dispositions moins sévères.
+
+Pendant la période de validité d'un accord sectoriel le Roi n'arrête pas de réglementation en vertu de la présente loi qui fixe, pour (les questions réglées par l'accord sectoriel relatives aux produits visés), des exigences plus strictes que celles prévues dans celui-ci, sauf en cas de nécessité urgente ou si ceci était nécessaire pour satisfaire à des obligations internationales. &lt;L 2003-03-28/42, art. 4, 003; En vigueur : 09-05-2003&gt;
+
+§ 4. Les accords sectoriels doivent être conformes à un certain nombre de conditions minimales :
+
+1° un accord sectoriel lie juridiquement les parties, dès qu'il a été signé par toutes les parties concernées.
+
+En fonction de ses dispositions, l'accord sectoriel lie, également, tous les membres de l'organisation ou un groupe de membres décrit de manière générale.
+
+L'accord sectoriel lie, de plein droit, les entreprises qui adhèrent à l'organisation après la signature de l'accord et qui font partie, le cas échéant, du groupe de membres décrit de manière générale dans un accord sectoriel.
+
+Les membres de l'organisation liée par l'accord sectoriel ne peuvent se soustraire aux obligations qui en découlent, en quittant l'organisation;
+
+(1°bis. Il faut déterminer, dans un accord sectoriel, de quelle manière devra s'effectuer le contrôle visant à faire respecter ses dispositions.) &lt;L 2003-03-28/42, art. 4, 003; En vigueur : 09-05-2003&gt;
+
+(1°ter. En cas d'infraction aux dispositions d'un accord sectoriel, toute personne qui y est liée peut exiger du contrevenant l'exécution en nature ou par équivalent.) &lt;L 2003-03-28/42, art. 4, 003; En vigueur : 09-05-2003&gt;
+
+2° Un accord sectoriel est conclu pour une durée déterminée qui ne peut, en aucun cas, être supérieure à dix ans. Toute période plus longue est ramenée, de plein droit, à dix ans.
+
+Un accord sectoriel ne peut être renouvelé tacitement. L'Etat et une ou plusieurs organisations affiliées peuvent prolonger l'accord sectoriel sans modifications;
+
+3° il peut être mis un terme à un accord sectoriel :
+
+a) à l'échéance de la période de validité;
+
+b) par résiliation par l'une des parties; sauf disposition contraire dans l'accord, le délai de résiliation est de six mois;
+
+c) par une convention entre les parties.
+
+§ 5. Les dispositions du présent article sont d'ordre public. Elles sont applicables aux accords sectoriels qui seront conclus après l'entrée en vigueur de la présente loi.
+
+Les accords sectoriels conclus avant l'entrée en vigueur de la présente loi ne peuvent être modifiés ou reconduits, sauf si la modification ou la reconduction sont conformes aux dispositions de la présente loi et de ses arrêtés d'exécution. Ils restent valables au maximum cinq ans après l'entrée en vigueur de la présente loi.
+
+§ 6. Tout accord sectoriel conclu en exécution de la présente loi, ainsi que toute modification, reconduction ou résiliation de ou adhésion à un accord sectoriel doivent être publiés au Moniteur belge. Tel est aussi le cas lorsqu'il est mis fin, anticipativement, à l'accord sectoriel par l'entremise d'une convention entre les parties.
+
+(§ 6bis. Lors de la conclusion d'accords sectoriels, les organisations représentatives concernées dont des membres font partie des commissions spéciales visées à l'article 7 de la loi du 20 septembre 1948 portant organisation de l'économie, sont, chaque fois, associées aux négociations.) &lt;L 2003-03-28/42, art. 4, 003; En vigueur : 09-05-2003&gt;
+
+§ 7. Un résumé du projet d'accord sectoriel, ainsi que de chaque modification, reconduction, résiliation ou cessation anticipative sont publiés, à l'initiative du Ministre, au Moniteur belge et dans d'autres médias désignés, à cet effet, par le Roi. Le projet complet peut être consulté, pendant trente jours, à l'endroit indiqué dans le texte publié. Il est également communiqué au (aux organes consultatifs visés à l'article 19, § 1er, alinéa 1er, à la Chambre des représentants et) aux gouvernements des régions. &lt;L 2003-03-28/42, art. 4, 003; En vigueur : 09-05-2003&gt;
+
+Les objections et remarques peuvent être communiquées, par écrit, dans les trente jours suivant la publication du résumé au Moniteur belge, aux services fédéraux compétents, désignés à cet effet dans la publication. Dans le même délai, les gouvernements des régions et les conseils mentionnés à l'alinéa précédent peuvent émettre un avis, qu'ils adressent au Ministre. Le Ministre examine les avis, objections et remarques et les transmet pour information aux organisations ou entreprises concernées (, et à la Chambre des représentants). &lt;L 2003-03-28/42, art. 4, 003; En vigueur : 09-05-2003&gt;
+
+(§ 8. Le Ministre fait, durant les deux premiers mois de la session ordinaire de la Chambre des représentants un compte rendu relatif à la mise en oeuvre des accords sectoriels.) &lt;L 2003-03-28/42, art. 4, 003; En vigueur : 09-05-2003&gt;
+
+## CHAPITRE III. - [<sup>1</sup> Dispositions particulières relatives aux substances, [<sup>2</sup> mélanges]<sup>2</sup> et articles.]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2009-09-10/34, art. 4, 010; En vigueur : 19-10-2009&gt;
+
+(2)&lt;L 2014-04-25/A1, art. 20, 013; En vigueur : 27-06-2014&gt;
+
+##### Art. 7
+
+[<sup>1</sup> Le Roi peut prendre, par arrêté délibéré en Conseil des Ministres, des mesures nécessaires pour l'exécution du règlement REACH.]<sup>1</sup>
+
+[<sup>2</sup> Sans préjudice des dispositions du règlement REACH, le fournisseur, lors de la première livraison et lors de toute modification significative ultérieure sur le plan qualitatif ou quantitatif de la composition de la substance ou [<sup>3</sup> le mélange]<sup>3</sup>, transmet à l'employeur, même si ce dernier ne le demande pas, les informations dont il a besoin pour effectuer l'évaluation des risques, fixer les mesures de prévention et utiliser en toute sécurité la substance ou [<sup>3</sup> le mélange]<sup>3</sup>.
+
+Le Roi détermine, après avis du Conseil supérieur pour la Prévention et la protection au travail les conditions et les modalités relatives à l'information à fournir.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2009-09-10/34, art. 5, 010; En vigueur : 19-10-2009&gt;
+
+(2)&lt;L 2011-07-27/13, art. 7, 012; En vigueur : 29-08-2011&gt;
+
+(3)&lt;L 2014-04-25/A1, art. 4, 013; En vigueur : 27-06-2014&gt;
+
+##### Art. 7/1.
+
+[<sup>1</sup> § 1er. Dans le cadre de l'enregistrement des substances manufacturées à l'état nanoparticulaire et des mélanges contenant une ou des substances manufacturées à l'état nanoparticulaire et de la notification des articles et objets complexes dans lesquels une ou des substances manufacturées à l'état nanoparticulaire ont été incorporées concernés par l'article 5, § 1er, alinéa 1er, 2°, les données personnelles suivantes des demandeurs peuvent être traitées : le prénom, le nom, l'adresse physique, le numéro de téléphone, l'adresse mail.
+
+La saisie de l'adresse mail, de l'adresse physique, ainsi que du numéro de téléphone a pour finalité de communiquer avec le demandeur.
+
+§ 2. Dans le cadre de l'enregistrement des substances manufacturées à l'état nanoparticulaire et des mélanges contenant une ou des substances manufacturées à l'état nanoparticulaire et de la notification des articles et objets complexes dans lesquels une ou des substances manufacturées à l'état nanoparticulaire ont été incorporées concernés par l'article 5, § 1er, alinéa 1er, 2°, les données personnelles suivantes peuvent être traitées le cas échéant : le nom et l'adresse de la personne physique ou morale, le numéro d'entreprise et le numéro d'unité d'établissement de l'entreprise.
+
+L'adresse physique et les autres données relatives à l'employeur auront pour finalité de permettre l'échange d'informations relatives à l'autorisation ou l'agrément du demandeur entre l'employeur et l'employé.
+
+§ 3. Les données personnelles visées aux paragraphes 1 et 2 peuvent être conservées pendant 10 ans.
+
+§ 4. La Direction générale Environnement et la Direction générale Animaux, Végétaux et Alimentation du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement sont responsables du traitement des données au sens de l'article 4 du Règlement (UE) 2016/679 du Parlement Européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données.
+
+Le Service public fédéral Emploi, Travail et Concertation sociale et le Service public fédéral Economie, P.M.E., Classes moyennes et Energie sont des destinataires au sens de l'article 4 du Règlement visé à l'alinéa 1er et bénéficient d'un accès direct et systématique aux informations recueillies dans l'enregistrement.
+
+Les autorités fédérales, régionales et communautaires sont des tiers au sens de l'article 4 du Règlement visé à l'alinéa 1er et peuvent demander au responsable de traitement un accès à des données reprises dans l'enregistrement dans le cadre de l'exercice de leurs compétences en indiquant l'objectif spécifique dans lequel la demande s'inscrit.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-21/30, art. 5, 021; En vigueur : 15-04-2024&gt;
+
+## CHAPITRE IIIbis. [<sup>1</sup> - Dispositions particulières relatives aux gaz à effet de serre fluorés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-12-16/06, art. 13, 015; En vigueur : 31-12-2015&gt;
+
+##### Art. 7bis
+
+[<sup>1</sup> Dans les cas définis par les articles 11, paragraphe 3, et 15, paragraphe 4, du Règlement (UE) n° 517/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif aux gaz à effet de serre fluorés et abrogeant le Règlement (CE) n° 842/2006, le ministre qui a l'Environnement dans ses attributions peut introduire auprès de la Commission européenne une demande motivée en vue d'accorder une exemption conformément aux conditions prévues par ces articles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2015-12-16/06, art. 14, 015; En vigueur : 31-12-2015&gt;
+
+## CHAPITRE IV. - (Dispositions particulières relatives aux produits phytopharmaceutiques et aux biocides.) &lt;L 2003-03-28/42, art. 5; En vigueur : 09-05-2003&gt;
+
+##### Art. 8
+
+Le Roi peut soumettre la mise sur le marché de (produits phytopharmaceutiques et de) biocides à (un agrément,) une autorisation ou un enregistrement préalables, accordés par le Ministre sur avis d'un organe composé d'experts scientifiques et techniques, dont Il règle, par arrêté délibéré en Conseil des Ministres, la composition et le mode de fonctionnement. &lt;L 2003-03-28/42, art. 6, 003; En vigueur : 09-05-2003&gt;
+
+Le Roi peut fixer les conditions régissant la demande (d'agrément,) d'autorisation ou d'enregistrement et son examen par cet organe. Il peut également arrêter les conditions d'octroi, de modification, de suspension et de retrait (de l'agrément,) de l'autorisation ou de l'enregistrement. &lt;L 2003-03-28/42, art. 6, 003; En vigueur : 09-05-2003&gt;
+
+##### Art. 8bis
+
+&lt;Inséré par L 2003-03-28/42, art. 7; En vigueur : 09-05-2003&gt; § 1er. [<sup>2</sup> Le Roi fixe par arrêté délibéré en Conseil des ministres un plan fédéral de réduction des produits phytopharmaceutiques, visant à diminuer leur impact sur l'homme, l'animal et l'environnement, et un plan fédéral de réduction des biocides, visant à limiter leur impact sur l'homme, l'animal et l'environnement. Les plans sont actualisés tous les cinq ans.]<sup>2</sup>
+
+[<sup>1</sup> Un objectif de réduction dans le temps des biocides, des produits phytopharmaceutiques et de leurs substances actives visés à l'alinéa précédent est déterminé et ce, à partir d'un inventaire détaillé des effets qu'ils ont sur l'homme et l'environnement.]<sup>1</sup> Afin d'évaluer les résultats du programme de réduction [<sup>1</sup> des risques]<sup>1</sup>, ce dernier inclut également, pour les substances actives visées, un indicateur qui tient compte des effets sur l'environnement et/ou la santé et qui intègre les aspects tant qualitatifs que quantitatifs. Le programme ne peut en aucun cas porter atteinte aux exigences imposées par la réglementation internationale. [<sup>2</sup> Un projet de plan fédéral de réduction des biocides, visant à limiter leur impact sur l'homme, l'animal et l'environnement, est soumis pour avis à l'organe visé à l'article 8]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+§ 2. (...) &lt;L 2003-12-22/42, art. 507, 004; En vigueur : 10-01-2004&gt;
+
+----------
+
+(1)&lt;L 2014-04-25/A1, art. 5, 013; En vigueur : 27-06-2014&gt;
+
+(2)&lt;L 2023-04-26/06, art. 4, 020; En vigueur : 15-06-2023&gt;
+
+##### Art. 9
+
+Sans préjudice des dispositions du Chapitre II, le Roi peut, dans l'intérêt de [<sup>1</sup> la santé publique ou des travailleurs]<sup>1</sup> :
+
+1° fixer les conditions de production, de transformation, de composition, d'emballage, de présentation, de conditionnement, de quantité, d'origine, de qualité, d'efficacité, d'acquisition, de détention, de conservation [<sup>2</sup> , d'exécution des essais et des analyses,]<sup>2</sup> et d'utilisation (des produits phytopharmaceutiques et) des biocides; &lt;L 2003-03-28/42, art. 8, 003; En vigueur : 09-05-2003&gt;
+
+2° fixer les quantités maximales de résidus de substances actives que peuvent laisser (les produits phytopharmaceutiques et) les biocides et leurs produits de dégradation éventuelle; &lt;L 2003-03-28/42, art. 8, 003; En vigueur : 09-05-2003&gt;
+
+3° subordonner les activités des personnes, effectuant les opérations visées au 1°, à une autorisation ou un agrément préalables du Ministre et définir les conditions y afférentes ainsi que les conditions dans lesquelles les autorisations ou agréments délivrés peuvent être suspendus ou retirés;
+
+4° déterminer les marques, plombs, scellés, labels, étiquettes, certificats, attestations, écriteaux, signes, emballages, dénominations ou autres indications établissant ou attestant que les conditions visées au 1° sont réunies.
+
+Les arrêtés pris en exécution des dispositions sous 4° sont proposés conjointement par le Ministre et les ministres qui ont l'Economie et les Classes moyennes dans leurs attributions.
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 8, 012; En vigueur : 29-08-2011&gt;
+
+(2)&lt;L 2015-12-16/06, art. 15, 015; En vigueur : 31-12-2015&gt;
+
+##### Art. 9bis.
+
+[<sup>1</sup> § 1er. Dans le cadre de l'octroi des autorisations et agréments concernés par l'article 9, alinéa 1er, 3°, les données personnelles suivantes des demandeurs peuvent être traitées : le prénom, le nom, la date de naissance, la nationalité, l'adresse physique, le numéro de téléphone, l'adresse mail, la langue, le numéro de registre national. Le cas échéant, en l'absence de numéro de registre national, le numéro BIS ou une preuve d'identité du demandeur, est exigé.
+
+Le traitement des données à caractère personnel visées à l'alinéa 1er a pour finalité de permettre l'identification certaine du demandeur en vue de la délivrance de l'autorisation ou de l'agrément. Dans ce but, la saisie du numéro de registre national permet d'accéder aux données du registre national. La saisie de l'adresse mail, de l'adresse physique, du numéro de téléphone ainsi que la saisie de la langue a pour finalité de communiquer avec le demandeur.
+
+§ 2. Dans le cadre de l'octroi des autorisations et agréments concernés par l'article 9, alinéa 1er, 3°, les données personnelles suivantes du demandeur peuvent être traitées le cas échéant : une preuve de l'expérience professionnelle, une attestation de réussite, un certificat, un diplôme.
+
+Le traitement des données personnelles visées à l'alinéa 1er a pour finalité d'attester des aptitudes du demandeur en vue de l'obtention de l'autorisation ou de l'agrément.
+
+§ 3. Dans le cadre de l'octroi des autorisations et agréments concernés par l'article 9, alinéa 1er, 3°, les données personnelles suivantes peuvent être traitées le cas échéant : le nom et l'adresse de la personne physique ou morale, le numéro d'entreprise et le numéro d'unité d'établissement de l'entreprise pour lesquelles le demandeur exerce ou souhaite exercer l'activité qui fait l'objet de sa demande d'obtention d'une autorisation ou d'un agrément.
+
+Le traitement des données personnelles visées à l'alinéa 1er a pour finalité d'attester des aptitudes du demandeur en vue de l'obtention de l'autorisation ou de l'agrément ou de permettre l'échange d'informations relatives à l'autorisation ou l'agrément du demandeur entre l'employeur et l'employé.
+
+§ 4. En cas d'octroi de l'autorisation ou de l'agrément, les données seront conservées toute la durée de la validité de l'autorisation ou de l'agrément, complétée par une période de 6 ans, à l'exception du numéro de registre national, du nom, du prénom et de la date de naissance, qui peuvent être conservés pendant 30 ans après l'expiration de la période de validité.
+
+En cas de refus d'octroi de l'autorisation ou de l'agrément et en l'absence de recours, ces données seront conservées pendant six mois à compter de la date de la décision de refus.
+
+En cas de procédure de recours contre la décision de refus, ces données seront conservées pendant six mois à compter de la date de l'extinction des procédures.
+
+§ 5. L'octroi de l'autorisation ou de l'agrément peut être conditionné au suivi de formations données par des centres.
+
+Dans ce cadre, les centres de formation disposent d'une personne responsable de formation fournissant à l'autorité compétente les données relatives à la participation aux formations.
+
+Les données envoyées sont celles nécessaires à l'identification du participant, soit les données personnelles visées au § 1er, alinéa 1er et le numéro d'autorisation ou d'agrément tel qu'il a été délivré lors de l'octroi de l'autorisation ou de l'agrément, si le participant en possède déjà un.
+
+§ 6. Les centres de formation conservent les données relatives à la participation aux formations, à disposition de l'autorité compétente pendant 6 ans à compter de la date de participation.
+
+Les centres de formation pour organiser les formations permettant l'octroi et le renouvellement de l'autorisation ou de l'agrément visé à l'article article 9, alinéa 1er,3° doivent au préalable s'enregistrer auprès de l'autorité compétente.
+
+§ 7. La demande d'enregistrement comprend le prénom, le nom, la date de naissance, l'adresse mail, la langue, le numéro de registre national et le numéro de téléphone de la personne responsable de formation de même que le nom et l'adresse physique du centre de formation, le numéro d'entreprise et le ou les numéros d'unité d'établissement.
+
+Le traitement des données à caractère personnel a pour finalité l'identification certaine du responsable de formation. Dans ce but, la saisie du numéro de registre national permet d'accéder aux données du registre national. La saisie de l'adresse mail, de la langue et du numéro de téléphone a pour finalité de communiquer avec le responsable de formation. Le cas échéant, en l'absence de numéro de registre national, le numéro BIS ou une preuve d'identité du responsable de formation, est exigé. La communication des informations relatives au centre de formation a pour finalité d'identifier le centre de formation auquel le responsable de formation est rattaché.
+
+Les données relatives à la personne responsable de formation sont conservées pendant six ans à compter de la date de cessation de l'enregistrement.
+
+En cas de remplacement de la personne responsable de formation, les données personnelles sont remplacées dans les plus brefs délais par celles de la nouvelle personne responsable de formation.
+
+§ 8. L'employeur, par l'intermédiaire d'un représentant de son entreprise, peut demander à consulter le statut de l'autorisation ou de l'agrément d'un de ses employés, et accéder à cette information moyennant accord de ce dernier.
+
+Dans ce cadre, les données personnelles suivantes seront traitées : numéro de registre national, date de naissance, adresse mail, langue, numéro de téléphone, nom et prénom d'un représentant de l'employeur. Le cas échéant, en l'absence de numéro de registre national, le numéro BIS ou une preuve d'identité du représentant de l'employeur, est exigé. La saisie des données à caractère personnel a pour finalité l'identification certaine du représentant de l'employeur et pour communiquer avec ce dernier. Dans ce but, la saisie du numéro de registre national permet d'accéder aux données du registre national.
+
+En cas de remplacement du représentant de l'employeur, les données personnelles sont remplacées dans les plus brefs délais par celles du nouveau représentant de l'employeur.
+
+§ 9. Les distributeurs peuvent dans le cadre d'une vente consulter le statut d'une autorisation ou d'un agrément visé à l'article 9, alinéa 1er, 3°, via un registre en ligne de l'autorité compétente.
+
+L'objectif est de vérifier si l'acheteur dispose de l'autorisation ou de l'agrément requis.
+
+§ 10. La Direction générale Environnement et la Direction générale Animaux, Végétaux et Alimentation du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement sont responsables du traitement des données au sens de l'article 4 du Règlement (UE) 2016/679 du Parlement Européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données.
+
+Le centre de formation est sous-traitant pour le compte du responsable du traitement des données au sens de l'article 4 du même Règlement.
+
+Les distributeurs sont des destinataires au sens de l'article 4 du même Règlement.
+
+L'employeur, par l'intermédiaire d'un représentant de son entreprise, est un tiers au sens de l'article 4 du même Règlement.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-21/30, art. 6, 021; En vigueur : 15-04-2024&gt;
+
+## CHAPITRE V. - Dispositions particulières relatives aux emballages.
+
+##### Art. 10
+
+La mise sur le marché de produits dans des emballages qui ne sont ni réutilisables, ni valorisables y compris recyclables au sens de l'article 2, 12°, est interdite.
+
+Le Roi fixe, par arrêté délibéré en Conseil des Ministres, la date d'entrée en vigueur de cette interdiction et peut accorder des dérogations à cette interdiction lorsque la mise sur le marché de tels emballages est nécessaire pour satisfaire à des normes légales en matière d'hygiène, de sécurité ou de conservation du produit emballé.
+
+##### Art. 11
+
+§ 1er. Quiconque met sur le marché des produits emballés, veillera à ce que l'emballage de ces produits réponde aux exigences essentielles suivantes :
+
+1° l'emballage doit être fabriqué de manière à limiter son volume et son poids au minimum nécessaire pour assurer le niveau requis de sécurité, d'hygiène et d'acceptabilité aussi bien pour le produit emballé que pour le consommateur;
+
+2° l'emballage doit être concu, fabriqué et mis sur le marché de manière à permettre sa réutilisation ou sa valorisation, y compris son recyclage, et à réduire au minimum son incidence sur l'environnement lors de la collecte, la valorisation ou l'élimination des déchets d'emballages ou des résidus de ces opérations de gestion;
+
+3° l'emballage doit être fabriqué en veillant à réduire au minimum la teneur en substances et matières nuisibles et autres substances dangereuses du matériau d'emballage et de ses éléments, en ce qui concerne leur présence dans les émissions, les cendres ou le lixiviat qui résultent de l'incinération ou de la mise en décharge des déchets d'emballages ou des résidus d'opérations de gestion des déchets d'emballages.
+
+§ 2. Sans préjudice des dispositions du § 1er, toute personne qui met sur le marché des produits emballés dans des emballages non réutilisables, est tenue de veiller à ce que, pour un même matériau d'emballage, le rapport entre le poids de l'emballage et le poids du produit mis sur le marche dans cet emballage n'augmente pas par rapport au même rapport existant à la date d'entrée en vigueur de la présente loi.
+
+Le Roi peut accorder des dérogations à cette obligation lorsque le poids supplémentaire de l'emballage :
+
+1° soit est nécessaire pour satisfaire aux normes légales d'hygiène, de sécurité ou de conservation;
+
+2° soit est compensé par une diminution de poids simultanée équivalente dans les autres éléments du système d'emballage, emballages de vente, de groupage et de transport dont l'emballage concerné fait partie;
+
+3° soit est causé par la reconversion d'emballages perdus vers des emballages réutilisables;
+
+4° soit est causé par l'utilisation de matériaux recyclés dans l'emballage;
+
+5° soit contribue à faciliter le recyclage.
+
+##### Art. 12
+
+Quiconque met sur le marché des produits dans des emballages réutilisables, doit veiller à ce que ces emballages satisfassent simultanément aux exigences essentielles suivantes :
+
+1° les propriétés physiques et caractéristiques de l'emballage doivent lui permettre de supporter plusieurs trajets ou rotations dans les conditions d'utilisation normalement prévisibles;
+
+2° il doit être possible de traiter l'emballage utilisé conformément aux exigences en matière de santé et de sécurité des travailleurs;
+
+3° les exigences propres à l'emballage valorisable au moment où l'emballage cesse d'être utilisé, devenant ainsi un déchet, doivent être respectées.
+
+##### Art. 13
+
+Quiconque met sur le marché des produits emballés dans des emballages non réutilisables, doit veiller à ce que ces emballages satisfassent aux exigences essentielles suivantes :
+
+1° lorsque l'emballage est destiné à être valorisé par recyclage de matériaux, il doit être fabriqué de manière à permettre qu'un certain pourcentage en poids des matériaux utilisés soit recyclé pour la production de biens commercialisables, dans le respect des normes en vigueur dans [<sup>1</sup> l'Union]<sup>1</sup> européenne. Ce pourcentage peut varier en fonction des matériaux constituant l'emballage;
+
+2° lorsque l'emballage est destiné à être valorisé par valorisation énergétique, il doit avoir une valeur calorifique minimale inférieure permettant d'optimiser la récupération d'énergie;
+
+3° lorsque l'emballage est destiné à être valorisé par compostage, il doit être suffisamment biodégradable pour ne pas faire obstacle à la collecte séparée ni au processus ou à l'activité de compostage dans lequel ou laquelle il est introduit et pour que la plus grande partie du compost obtenu se décompose finalement en dioxyde de carbone, en biomasse et en eau.
+
+----------
+
+(1)&lt;L 2015-12-16/06, art. 11, 015; En vigueur : 31-12-2015&gt;
+
+##### Art. 14
+
+Le Roi peut fixer la valeur calorifique minimale visée à l'article 13, 2°, et spécifier les autres exigences essentielles visées aux articles 11, 12 et 13 en édictant des normes techniques particulières pour certaines catégories d'emballages ou matériaux d'emballage.
+
+## CHAPITRE Vbis. - Dispositions spéciales établissant un cadre pour la fixation d'exigences en matière d'éco-conception applicables aux produits consommateurs d'énergie. &lt;Inséré par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt;
+
+### Section 1re. - Disposition générale. &lt;Insérée par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt;
+
+##### Art. 14bis
+
+&lt;Inséré par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt; § 1er. Le présent chapitre établit un cadre pour la fixation d'exigences en matière d'écoconception applicables aux [<sup>1</sup> produits liés à l'énergie]<sup>1</sup>, afin de garantir la libre circulation de ces produits dans le marché intérieur.
+
+§ 2. Le présent chapitre fixe les exigences que les [<sup>1</sup> produits liés à l'énergie]<sup>1</sup> couverts par des mesures d'exécution doivent remplir pour être mis sur le marché et/ou mis en service. Elle contribue au développement durable en augmentant l'efficacité énergétique et le niveau de protection de l'environnement, tout en accroissant la sécurité de l'approvisionnement énergétique.
+
+§ 3. Le présent chapitre ne s'applique pas aux moyens de transport de personnes ou de marchandises.
+
+§ 4. Le présent chapitre et les mesures d'exécution adoptées en vertu de celui-ci sont sans préjudice de la législation en matière de gestion des déchets et en matière de produits chimiques, notamment la législation communautaire sur les gaz à effet de serre fluorés.
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 12, 012; En vigueur : 20-11-2010&gt;
+
+### Section 2. - Définitions. &lt;Insérée par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt;
+
+##### Art. 14ter
+
+&lt;Inséré par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt; Pour l'application du présent chapitre, on entend par :
+
+1° [<sup>1</sup> " produit lié à l'énergie " : tout bien ayant un impact sur la consommation d'énergie durant son utilisation qui est mis sur le marché et/ou mis en service, y compris les pièces prévues pour être intégrées dans un produit lié à l'énergie visé par le présent chapitre et qui sont mises sur le marché et/ou mises en service sous forme de pièces détachées destinées aux utilisateurs finals et dont la performance environnementale peut être évaluée de manière indépendante;]<sup>1</sup>
+
+2° " composants et sous-ensembles " : les pièces prévues pour être intégrées dans des [<sup>2</sup> produits liés à l'énergie]<sup>2</sup> qui ne sont pas mises sur le marché et/ou mises en service sous forme de pièces détachées destinées aux utilisateurs finaux ou dont la performance environnementale ne peut pas être évaluée de manière indépendante;
+
+3° " mesures d'exécution " : les mesures arrêtées en application de la présente loi, d'un Règlement ou d'une Décision européenne, établissant des exigences d'écoconception pour des [<sup>2</sup> produits liés à l'énergie]<sup>2</sup> définis ou leurs caractéristiques environnementales;
+
+4° " [<sup>1</sup> mise sur le marché]<sup>1</sup> " : la première mise à disposition sur le marché communautaire d'un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> en vue de sa distribution ou de son utilisation dans [<sup>3</sup> l'Union]<sup>3</sup>, à titre onéreux ou gratuit, indépendamment de la technique de vente mise en oeuvre;
+
+5° " mise en service " : la première utilisation d'un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup>, aux fins pour lesquelles il a été conçu, par un utilisateur final dans [<sup>3</sup> l'Union]<sup>3</sup>;
+
+6° " fabricant " : toute personne physique ou morale qui réalise des [<sup>2</sup> produits liés à l'énergie]<sup>2</sup> entrant dans le champ d'application de la présente loi et qui est responsable de leur conformité avec la présente loi en vue de leur mise sur le marché [<sup>1</sup> ...]<sup>1</sup> et/ou de leur mise en service sous le nom du fabricant ou sous sa marque, ou pour l'usage propre du fabricant. En l'absence de fabricant tel que défini dans la première phrase ou d'importateur tel que défini au point 8°, toute personne physique ou morale qui met sur le marché [<sup>1</sup> ...]<sup>1</sup> et/ou met en service des [<sup>2</sup> produits liés à l'énergie]<sup>2</sup> entrant dans le champ d'application de la présente loi, est considérée comme fabricant;
+
+7° " mandataire " : toute personne physique ou morale établie dans [<sup>3</sup> l'Union]<sup>3</sup> ayant reçu un mandat écrit du fabricant pour accomplir en son nom tout ou partie des obligations et formalités liées à la présente loi;
+
+8° " importateur " : toute personne physique ou morale établie dans [<sup>3</sup> l'Union]<sup>3</sup> qui, dans le cadre de ses activités professionnelles, met un produit provenant d'un pays tiers sur le marché communautaire;
+
+9° " matériaux " : toutes les matières utilisées au cours du cycle de vie d'un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup>;
+
+10° " conception du produit " : l'ensemble des processus transformant en spécifications techniques d'un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> les exigences à remplir par le [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> au niveau juridique, technique, de la sécurité, du fonctionnement, du marché ou autre;
+
+11° " caractéristique environnementale " : tout élément ou fonction d'un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> pouvant, au cours de son cycle de vie, interagir avec l'environnement;
+
+12° " impact sur l'environnement " : toute modification de l'environnement, provoquée totalement ou partiellement par un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> au cours de son cycle de vie;
+
+13° " cycle de vie " : les étapes successives et interdépendantes d'un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup>, depuis l'utilisation des matières premières jusqu'à l'élimination finale;
+
+14° " réemploi " : toute opération par laquelle un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> ou ses composants ayant atteint le terme de leur première utilisation sont utilisés aux mêmes fins que celles pour lesquelles ils ont été conçus, y compris l'usage continu d'un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> rapporté à un point de collecte, distributeur, organisme de recyclage ou fabricant, ainsi que la réutilisation d'un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> après sa remise à neuf;
+
+15° " recyclage " : le retraitement de déchets, dans un processus de production, aux fins de leur fonction initiale ou à d'autres fins mais à l'exclusion de la valorisation énergétique;
+
+16° " valorisation énergétique " : l'utilisation de déchets combustibles comme moyen de génération d'énergie par incinération directe avec ou sans autres déchets mais avec récuperation de la chaleur;
+
+17° " récupération " : toute opération applicable prévue à [<sup>1</sup> l'annexe II de la Directive 2008/98/CE du Parlement européen et du Conseil du 19 novembre 2008 relative aux déchets et abrogeant certaines directives]<sup>1</sup>;
+
+18° " déchet " : toute substance ou tout objet entrant dans les catégories définies à l'annexe Ire de [<sup>1</sup> la Directive 2008/98/CE]<sup>1</sup> que le détenteur met, se propose de mettre ou est tenu de mettre au rebut;
+
+19° [<sup>1</sup> " déchets dangereux " : déchets tels que visés à l'article 3, 2., de la Directive 2008/98/CE;]<sup>1</sup>
+
+20° " profil écologique " : la description, conformément à la mesure d'exécution applicable au [<sup>2</sup> produit lié à l'énergie]<sup>2</sup>, des intrants et extrants (tels que les matières premières, les émissions et les déchets) associés à un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> tout au long de son cycle de vie, qui sont significatifs du point de vue de son impact sur l'environnement et sont exprimés en quantités physiques mesurables;
+
+21° " performance environnementale " d'un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> : le résultat de la gestion des caractéristiques environnementales du produit par le fabricant, comme il ressort de son dossier de documentation technique;
+
+22° " amélioration de la performance environnementale " : le processus d'amélioration de la performance environnementale d'un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> au cours des générations successives, même si toutes les caractéristiques environnementales du produit ne sont pas nécessairement concernées en même temps;
+
+23° " écoconception " : l'intégration des caractéristiques environnementales dans la conception du produit en vue d'améliorer la performance environnementale du [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> tout au long de son cycle de vie;
+
+24° " exigence d'écoconception " : toute exigence relative à un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> ou à sa conception et visant à améliorer sa performance environnementale, ou toute exigence relative à la fourniture d'informations concernant les caractéristiques environnementales d'un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup>;
+
+25° " exigence d'écoconception générique " : toute exigence d'écoconception reposant sur le profil écologique dans son ensemble du [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> sans valeurs limites fixes pour des caractéristiques environnementales particulières;
+
+26° " exigence d'écoconception spécifique " : toute exigence d'écoconception quantifiée et mesurable relative à une caractéristique environnementale particulière du [<sup>2</sup> produit lié à l'énergie]<sup>2</sup>, telle que sa consommation d'énergie en fonctionnement, calculée pour une unité donnée de performance de sortie;
+
+27° " norme harmonisée " : une spécification technique adoptée par un organisme de normalisation reconnu dans le cadre d'un mandat délivré par la Commission européenne, conformément à la procédure établie par la Directive 98/34/CE du Parlement européen et du Conseil du 22 juin 1998 prévoyant une procédure d'information dans le domaine des normes et réglementations techniques, en vue de l'élaboration d'une exigence européenne, dont le respect n'est pas obligatoire;
+
+28° " autorité compétente " : la Direction générale de l'Environnement du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement.
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 13, 012; En vigueur : 20-11-2010&gt;
+
+(2)&lt;L 2011-07-27/13, art. 24, 012; En vigueur : 20-11-2010&gt;
+
+(3)&lt;L 2015-12-16/06, art. 11, 015; En vigueur : 31-12-2015&gt;
+
+### Section 3. - Exigences à l'égard de la mise sur le marché [<sup>1</sup> ...]<sup>1</sup> et/ou mise en service. &lt;Insérée par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt;
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 14, 012; En vigueur : 20-11-2010&gt;
+
+##### Art. 14quater
+
+&lt;Inséré par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt; § 1er. La mise sur le marche [<sup>1</sup> ...]<sup>1</sup> et/ou la mise en service d'un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> qui n'est pas conforme à toutes les dispositions pertinentes de la mesure d'exécution applicable et qui ne porte pas le marquage CE conformément à l'article 14 quinquies, § 1er, premier alinéa, est interdite, et peut être restreinte ou empêchée pour des motifs liés aux exigences d'écoconception relatives aux paramètres d'écoconception, qui relèvent de la mesure d'exécution applicable.
+
+§ 2. Toutefois, des [<sup>2</sup> produits liés à l'énergie]<sup>2</sup> qui ne sont pas en conformité avec les dispositions de la mesure d'exécution applicable, peuvent quand-meme être présentés, par exemple lors de foires commerciales, d'expositions, de démonstrations, à condition qu'il soit indiqué de manière visible qu'ils ne peuvent pas être mis sur le marché [<sup>1</sup> ...]<sup>1</sup> / mis en service avant leur mise en conformité.
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 15, 012; En vigueur : 20-11-2010&gt;
+
+(2)&lt;L 2011-07-27/13, art. 24, 012; En vigueur : 20-11-2010&gt;
+
+### Section 4. - Marquage, et déclaration et présomption de conformité. &lt;Insérée par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt;
+
+##### Art. 14quinquies
+
+&lt;Inséré par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt; § 1er. Avant la mise sur le marché [<sup>1</sup> ...]<sup>1</sup> et/ou la mise en service d'un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> couvert par des mesures d'exécution, [<sup>1</sup> marquage CE]<sup>1</sup> est apposé et une déclaration de conformité est délivrée par laquelle le fabricant ou son mandataire assure et déclare que le [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> est conforme à toutes les dispositions pertinentes de la mesure d'execution applicable.
+
+Le marquage de conformité CE, mentionné au premier alinéa, est constitué des lettres " CE ", telles que reproduites à l'annexe II.
+
+[<sup>1</sup> La déclaration de conformité CE]<sup>1</sup>, mentionné au premier alinéa, contient les éléments spécifiés à l'annexe III et renvoie à la mesure d'exécution pertinente.
+
+§ 2. L'apposition sur un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> de marquages susceptibles d'induire les utilisateurs en erreur quant à la signification ou la forme du marquage CE, est interdite.
+
+§ 3. Les mesures d'exécution peuvent comprendre l'obligation pour le fabricant de fournir des informations pouvant influencer la manière dont le [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> est manipulé, utilisé ou recyclé par des personnes autres que celui-ci.
+
+Ces informations à fournir doivent l'être au moins en néerlandais, en français et en allemand, lorsque le [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> parvient à l'utilisateur final, tout en prenant en considération :
+
+a) le fait que les informations puissent ou non être communiquées sous forme de symboles harmonisés, de codes reconnus ou d'autres mesures;
+
+b) le type d'utilisateur auquel le [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> est destiné et la nature des informations à fournir.
+
+Les informations, visées au premier alinéa, peuvent en outre être fournies dans une ou plusieurs autres langues officielles de [<sup>3</sup> l'Union]<sup>3</sup>.
+
+§ 4. Un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> portant le marquage CE visé à l'article 14quinquies, § 1er, premier alinéa, est considéré conforme aux dispositions pertinentes de la mesure d'exécution applicable.
+
+Un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> auquel s'appliquent des normes harmonisées dont les numéros de référence ont été publiés au Journal officiel de l'Union européenne, est considéré conforme à toutes les exigences pertinentes de la mesure d'exécution applicable a laquelle se rapportent ces normes.
+
+Les [<sup>2</sup> produits liés à l'énergie]<sup>2</sup> ayant reçu le label ecologique communautaire en application du Règlement (CE) n° 1980/2000 sont présumés conforme aux exigences d'écoconception de la mesure d'exécution applicable, dans la mesure où ces exigences sont couvertes par le label écologique.
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 16, 012; En vigueur : 20-11-2010&gt;
+
+(2)&lt;L 2011-07-27/13, art. 24, 012; En vigueur : 20-11-2010&gt;
+
+(3)&lt;L 2015-12-16/06, art. 11, 015; En vigueur : 31-12-2015&gt;
+
+### Section 5. - Obligations incombant au fabricant ou à son mandataire. &lt;Insérée par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt;
+
+##### Art. 14sexies
+
+&lt;Inséré par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt; Avant de mettre sur le marché [<sup>1</sup> ...]<sup>1</sup> un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> couvert par des mesures d'exécution et/ou de mettre en service un tel [<sup>2</sup> produit lié à l'énergie]<sup>2</sup>, le fabricant ou son mandataire procède à une évaluation de la conformité du [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> à toutes les exigences pertinentes de la mesure d'exécution applicable.
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 17, 012; En vigueur : 20-11-2010&gt;
+
+(2)&lt;L 2011-07-27/13, art. 24, 012; En vigueur : 20-11-2010&gt;
+
+#### Sous-section 1re. - Exigences concernant les composants et sous-ensembles.
+
+##### Art. 14septies
+
+&lt;Inséré par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt; Des mesures d'exécution peuvent obliger les fabricants ou leurs mandataires qui mettent des composants et des sous-ensembles sur le marché [<sup>1</sup> ...]<sup>1</sup> et/ou en service à communiquer au fabricant d'un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> couvert par les mesures d'exécution des informations pertinentes sur la composition matérielle des composants ou sous-ensembles ainsi que sur leur consommation en énergie, en matériaux et/ou en ressources.
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 18, 012; En vigueur : 20-11-2010&gt;
+
+(2)&lt;L 2011-07-27/13, art. 24, 012; En vigueur : 20-11-2010&gt;
+
+#### Sous-section 2. - Information du consommateur. &lt;Insérée par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt;
+
+##### Art. 14octies
+
+[<sup>1</sup> Conformément à la mesure d'exécution applicable, les fabricants garantissent, sous la forme qu'ils jugent appropriée, que les consommateurs de produits liés à l'énergie se voient communiquer:
+
+a) les informations nécessaires sur le rôle qu'ils peuvent jouer dans l'utilisation durable du produit lié à l'énergie concerné; et
+
+b) lorsque les mesures d'exécution le requièrent, le profil écologique du produit lié à l'énergie et les avantages de l'écoconception.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 19, 012; En vigueur : 20-11-2010&gt;
+
+### Section 6. - Responsabilités de l'importateur. &lt;Insérée par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt;
+
+##### Art. 14nonies
+
+[<sup>1</sup> Si le fabricant n'est pas établi dans l'Union et en l'absence de mandataire, l'importateur est soumis aux obligations suivantes :
+
+a) garantir que le produit lié à l'énergie mis sur le marché et/ou mis en service est conforme aux dispositions du présent chapitre et à la mesure d'exécution applicable; et
+
+b) conserver et mettre à disposition la déclaration de conformité CE et la documentation technique.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 20, 012; En vigueur : 20-11-2010&gt;
+
+### Section 7. - Mesures de surveillance, de contrôle et d'intervention urgente. &lt;Insérée par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt;
+
+#### Sous-section 1re. - Clause de sauvegarde. &lt;Insérée par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt;
+
+##### Art. 14decies
+
+&lt;Inséré par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt; § 1er. Lorsqu'un produit consommateur d'energie portant le marquage CE visé à l'article 14quinquies, § 1er, premier alinéa, et utilisé selon l'usage prévu, n'est pas conforme à toutes les dispositions pertinentes de la mesure d'exécution applicable, le fabricant ou son mandataire est tenu de rendre le produit conforme aux dispositions de la mesure d'exécution applicable et/ou au marquage CE et de mettre fin à l'infraction [<sup>1</sup> aux conditions imposées [<sup>3</sup> par les membres du personnel visés à l'article 15, § 1er, alinéa 1er de la présente loi]<sup>3</sup>]<sup>1</sup>.
+
+S'il existe des éléments de preuve suffisants donnant à penser qu'un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> pourrait ne pas être conforme, les mesures nécessaires sont prises [<sup>3</sup> par les membres du personnel statutaire ou contractuel visés à l'alinéa 1er]<sup>3</sup>, lesquelles, selon le degré de gravité de la non-conformité, peuvent aller jusqu'à l'interdiction de mise sur le marché du [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> tant que la conformité n'est pas établie.
+
+Lorsque la non-conformité persiste, la mise sur le marché et/ou la mise en service du [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> en question est restreinte ou interdite, ou le produit est retiré du marché.
+
+En cas d'interdiction ou de retrait du marché, la Commission européenne et les autres Etats membres sont immédiatement informés.
+
+§ 2. Toute décision prise en application de la présente [<sup>1</sup> sous-section]<sup>1</sup> qui restreint ou interdit la mise sur le marché et/ou la mise en service d'un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup>, indique les motifs sur lesquels elle s'appuie.
+
+Cette décision est notifiée immédiatement à l'intéressé, qui est en même temps informé des voies de recours dont il dispose, ainsi que des délais auxquels ces recours sont soumis.
+
+Si un produit ne répond aux obligations du présent chapitre, les frais afférents à l'exécution des dispositions du présent article peuvent être mis à charge du fabricant concerné ou de son mandataire.
+
+§ 3. [<sup>3</sup> Les membres du personnel statutaire ou contractuel visés au paragraphe 1er informent]<sup>3</sup> immédiatement la Commission européenne et les autres Etats membres de toute décision prise en application du présent article, en indiquant les raisons de sa décision et notamment si la non-conformité est due à :
+
+a) un manquement aux exigences de la mesure d'exécution applicable;
+
+b) l'application incorrecte de normes harmonisées visées à l'article 14duodecies ;
+
+c) des lacunes dans des normes harmonisées visées à l'article 14duodecies.
+
+§ 4. [<sup>3</sup> ...]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 21, 012; En vigueur : 20-11-2010&gt;
+
+(2)&lt;L 2011-07-27/13, art. 24, 012; En vigueur : 20-11-2010&gt;
+
+(3)&lt;L 2023-04-26/06, art. 5, 020; En vigueur : 15-06-2023&gt;
+
+#### Sous-section 2. - Evaluation de la conformité. &lt;Insérée par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt;
+
+##### Art. 14undecies
+
+&lt;Inséré par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt; § 1er. Les procédures d'évaluation de la conformité sont spécifiées par les mesures d'exécution et laissent aux fabricants le choix entre le contrôle de conception interne visé à l'annexe IV et le système de management visé à l'annexe V. Lorsqu'elle est dûment justifiée et proportionnelle au risque, la procédure d'évaluation de la conformité est choisie parmi les modules pertinents décrits [<sup>1</sup> à l'annexe II de la Décision n° 768/2008/CE]<sup>1</sup>.
+
+Si le ministre dispose d'indications sérieuses quant à la non-conformité probable d'un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup>, il publie au Moniteur belge dans les meilleurs délais une évaluation motivée de la conformité du [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> concerné, évaluation qui peut être effectuée par un organe compétent, en sorte qu'une action corrective par le fabricant ou son mandataire puisse, le cas échéant, être rapidement menée.
+
+Si un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> couvert par des mesures d'exécution est conçu par une organisation enregistrée conformément au règlement (CE) n° 761/2001 du Parlement européen et du Conseil du 19 mars 2001 permettant la participation volontaire des organisations à un système [<sup>1</sup> ...]<sup>1</sup> de management environnemental et d'audit (EMAS) et si la fonction de conception est couverte par cet enregistrement, le système de management de cette organisation est réputé conforme aux exigences de l'annexe V.
+
+Si un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> couvert par des mesures d'exécution est conçu par une organisation possédant un système de management qui inclut la fonction de conception du produit et qui est mis en oeuvre conformément aux normes harmonisées dont les numéros de reférence ont été publiés au Journal officiel de l'Union européenne, ce système de management est réputé conforme aux exigences correspondantes de l'annexe V.
+
+§ 2. Après avoir mis sur le marché communautaire ou mis en service un [<sup>2</sup> produit lié à l'énergie]<sup>2</sup> couvert par des mesures d'exécution, le fabricant ou son mandataire conserve tous les documents relatifs à l'évaluation de la conformité effectuée et aux déclarations de conformité délivrées, de manière à permettre leur inspection pendant les dix années suivant la fabrication du dernier de ces [<sup>2</sup> produits liés à l'énergie]<sup>2</sup>.
+
+Les documents pertinents doivent être présentés dans les dix jours suivant la réception d'une demande faite par l'autorité compétente d'un Etat membre.
+
+§ 3. Les documents relatifs à l'évaluation de la conformité et à la déclaration de conformité visés à l'article 14quinquies, § 1er, premier alinéa, sont rédigés dans l'une des langues officielles de [<sup>3</sup> l'Union]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 22, 012; En vigueur : 20-11-2010&gt;
+
+(2)&lt;L 2011-07-27/13, art. 24, 012; En vigueur : 20-11-2010&gt;
+
+(3)&lt;L 2015-12-16/06, art. 11, 015; En vigueur : 31-12-2015&gt;
+
+### Section 8. - Normes harmonisées. &lt;Insérée par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt;
+
+##### Art. 14duodecies
+
+&lt;Inséré par L 2007-05-11/61, art. 3; En vigueur : 11-08-2007&gt; § 1er. Le ministre prend les mesures appropriées pour permettre aux parties intéressées [<sup>1</sup> , y compris les autorités compétentes conformément à d'autres réglementations,]<sup>1</sup> d'être consultées au niveau national sur le processus d'élaboration et de suivi des normes harmonisées.
+
+§ 2. Lorsque le ministre considère que des normes harmonisées, dont l'application est présumée satisfaire aux dispositions spécifiques d'une mesure d'exécution applicable, ne satisfont pas entièrement à ces dispositions, il en informe le comité permanent créé en vertu de l'article 5 de la Directive 98/34/CE du Parlement européen et du Conseil du 22 juin 1998 prévoyant une procédure d'information dans le domaine des normes et réglementations techniques, en indiquant les raisons de cette démarche.
+
+[<sup>1</sup> § 3. Pour l'application du présent chapitre, le ministre organise la coopération avec les autorités responsables en vertu de dispositions légales et réglementaires spécifiques à certaines catégories de produit; il organise aussi l'échange d'informations entre les autorités concernées et avec la Commission.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 23, 012; En vigueur : 20-11-2010&gt;
+
+## CHAPITRE Vter. [<sup>1</sup> - Comité d'attribution du label écologique de l'UE]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-25/A1, art. 6, 013; En vigueur : 27-06-2014&gt;
+
+##### Art. 14terdecies
+
+[<sup>1</sup> Il est créé auprès du ministre qui a l'Environnement dans ses attributions, un comité d'attribution du label écologique de l'UE ci-après dénommé le comité.
+
+Le Roi fixe, sur la proposition des ministres qui ont l'Environnement et l'Economie dans leurs attributions, la composition, l'organisation et le mode de fonctionnement du comité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-25/A1, art. 7, 013; En vigueur : 27-06-2014&gt;
+
+##### Art. 14quaterdecies
+
+[<sup>1</sup> Sans préjudice de l'article 14sexiesdecies, le comité est l'organisme compétent tel que visé à l'article 4 du Règlement (CE) n° 66/2010 du Parlement européen et du Conseil du 25 novembre 2009 établissant le label écologique de l'UE.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-25/A1, art. 8, 013; En vigueur : 27-06-2014&gt;
+
+##### Art. 14quinquiesdecies
+
+[<sup>1</sup> § 1er. Le Roi peut, après consultation du comité, organiser et mettre en place, par arrêté délibéré en Conseil des Ministres, un système d'attribution, de contrôle et de retrait d'un label écologique national.
+
+Le comité est chargé d'attribuer le label écologique national conformément à la procédure et aux modalités fixées en vertu de l'alinéa 1er.
+
+§ 2. Le label écologique visé au § 1er ne peut pas être attribué :
+
+1° aux médicaments à usage humain ou à usage vétérinaire, au sens de l'article 1er, § 1er, 1), de la loi du 25 mars 1964 sur les médicaments, ni à aucun type de dispositif médical;
+
+2° aux produits contenant des substances ou des mélanges classés comme toxiques, dangereux pour l'environnement, cancérogènes, mutagènes ou toxiques pour la reproduction, conformément au Règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l'étiquetage et à l'emballage des substances et des mélanges, modifiant et abrogeant les Directives 67/548/CEE et 1999/45/CE et modifiant le Règlement (CE) n° 1907/2006;
+
+3° aux produits contenant des substances telles que visées à l'article 57 du Règlement (CE) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques ainsi que les restrictions applicables à ces substances (REACH), et instituant une agence européenne des produits chimiques, modifiant la Directive 1999/45/CE et abrogeant le Règlement (CEE) n° 793/93 du Conseil et le Règlement (CE) n° 1488/94 de la Commission ainsi que la Directive 76/769/CEE du Conseil et les Directives 1/155/CEE, 93/105/CE et 2000/21/CE de la Commission.
+
+§ 3. Les critères d'attribution du label écologique visé au § 1er sont définis selon une approche globale fondée sur les exigences générales définies à l'article 6 et l'annexe reI du Règlement (CE) n° 66/2010 du Parlement européen et du Conseil du 25 novembre 2009 établissant le label écologique de l'UE.
+
+Les critères d'attribution du label écologique visé au § 1er à une catégorie de produits ne peuvent être moins stricts que ceux établis pour la même catégorie de produits en vertu du Règlement (CE) n° 66/2010 du Parlement européen et du Conseil du 25 novembre 2009 établissant le label écologique de l'UE.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-25/A1, art. 9, 013; En vigueur : 27-06-2014&gt;
+
+##### Art. 14sexiesdecies
+
+[<sup>1</sup> Sur la proposition des ministres qui ont l'Environnement et l'Economie dans leurs attributions et après avoir recueilli l'avis du comité, le Roi fixe le montant et les modalités de paiement des frais de traitement du dossier relatif à la demande d'attribution du label ainsi que de la redevance due pour l'utilisation de celui-ci.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-25/A1, art. 10, 013; En vigueur : 27-06-2014&gt;
+
+## CHAPITRE VI. - Contrôle et sanctions.
+
+##### Art. 15
+
+§ 1er. [<sup>1</sup> [<sup>2</sup> Sans préjudice des attributions des officiers de police judiciaire, les membres du personnel statutaire ou contractuel du Service public fédéral Santé publique, Sécurité de la Chaîne alimentaire et Environnement, désignés à cette fin par le Roi, contrôlent l'application des dispositions de la présente loi, de ses arrêtés d'exécution, des mesures d'exécution prises dans le cadre de la Directive 2009/125/CE et des règlements de [<sup>4</sup> l'Union]<sup>4</sup> européenne figurant à l'annexe Ire.]<sup>2</sup>
+
+Les membres du personnel contractuel prêtent serment, préalablement à l'exercice de leurs fonctions, entre les mains du ministre qui a dans ses attributions la Santé publique et le Ministre qui a dans ses attributions l'Environnement, ou de leurs délégué(s) respectifs.
+
+D'autres agents ou personnes peuvent être désignés par le Roi, par arrêté délibéré en conseil des Ministres. Ils prêteront serment, le cas échéant, entre les mains du Ministre qui a dans ses attributions la Santé publique et le ministre qui a dans ses attributions l'Environnement, ou de leurs délégué(s) respectives.]<sup>1</sup>
+
+§ 2. Dans l'exécution de leur mission, les [<sup>1</sup> membres du personnel statutaire ou contractuel]<sup>1</sup> visés au § 1er sont habilites à :
+
+1° accéder à ou pénétrer dans tous les établissements, parties d'établissements, moyens de transport, locaux ou autres endroits, à ciel ouvert ou non, destinés à des activités industrielles, commerciales, agricoles, artisanales ou scientifiques;
+
+2° lorsqu'ils font partie d'habitations ou sont attenants à celles-ci, ne pénétrer dans les lieux, énumérés ci-avant, qu'entre cinq heures du matin et neuf heures du soir sauf si une autorisation écrite, préalable, a été délivrée, à cet effet, par un juge du Tribunal de police; une telle autorisation est toujours requise pour pénétrer dans les lieux servant d'habitation;
+
+3° [<sup>5</sup> exiger la production de toutes les informations et documents dont ils estiment avoir besoin dans l'exécution de leur mission et, le cas échéant, demander leur traduction dans une des langues nationales ou en anglais aux frais de la personne qui met le produit sur le marché, y compris, sans se limiter à ceux-ci, tous les documents pertinents, les informations techniques, les informations sur la conformité et les aspects techniques, y compris les logiciels intégrés, les informations sur la chaîne d'approvisionnement, le réseau de distribution, les quantités de produits sur le marché et sur d'autres modèles de produits présentant les mêmes caractéristiques techniques, quels que soient leur forme, leur format, leur support de stockage ou leur emplacement, et procéder à toutes les constations utiles, entre autres, en procédant à l'audition de la personne concernée et à toute autre audition utile.
+
+La production de tous les documents signifie que les membres du personnel statutaire ou contractuel visés au paragraphe 1er ont le droit d'avoir accès à ceux-ci et qu'ils peuvent soit les copier, soit les recevoir par voie postale, soit les recevoir par voie électronique, soit en prendre provisoirement possession contre accusé de réception, pour examen pendant une durée à déterminer par le Roi. Cette possession temporaire est levée sur ordre du membre du personnel statutaire ou contractuel qui a temporairement les documents en sa possession, ou suite à l'expiration du délai;]<sup>5</sup>
+
+4° prélever ou faire prélever, sous leur surveillance, des échantillons et les faire analyser (ou prendre temporairement les produits contre accusé de réception en vue d'effectuer des examens complémentaires). &lt;L 2003-03-28/42, art. 9, 003; En vigueur : 09-05-2003&gt;
+
+(5° arrêter les véhicules afin d'examiner les produits transportés ainsi que leurs documents de transport et, au cas où il n'est pas possible de procéder sur place à cet examen, ordonner l'acheminement des produits transportés vers un autre endroit dans un rayon maximum de 5 km et ce, aux frais du transporteur;) &lt;L 2003-03-28/42, art. 9, 003; En vigueur : 09-05-2003&gt;
+
+[<sup>5</sup> 6° utiliser, dans le cadre de leur enquête sur une infraction, des informations obtenues à la suite d'activités conjointes avec des organisations représentant les acteurs du marché ou les utilisateurs finaux;
+
+7° les preuves fournies par d'autres autorités de surveillance du marché, notamment auprès d'un autre Etat membre, par des installations d'essai de l'Union au sens de l'article 21 du Règlement 2019/1020, ou par des laboratoires d'essai agissant dans le cadre d'activités conjointes avec d'autres autorités de surveillance du marché, utilisées dans le cadre d'enquêtes pour vérifier la conformité du produit;
+
+8° ouvrir les emballages ou les faire ouvrir sous leur supervision afin d'examiner les produits emballés;
+
+9° Initier des enquêtes afin de constater les cas de non-conformité et d'y mettre fin.;
+
+[<sup>5</sup> Ils peuvent demander l'assistance des forces de police dans l'exercice de leurs fonctions.]<sup>5</sup>
+
+[<sup>5</sup> § 2/1. Dans l'exécution de leur mission, les membres du personnel statutaire et contractuel visés au paragraphe 1er, peuvent acheter des produits comme achats-tests ou échantillons de produits, [<sup>6</sup> en utilisant, si nécessaire, une identité fictive, et approcher des personnes qui mettent les produits sur le marché]<sup>6</sup> en se faisant passer pour des clients ou des clients potentiels, sans devoir communiquer leur qualité et le fait que les constatations faites à cette occasion peuvent être utilisées pour l'exercice de la surveillance.
+
+Les membres du personnel statutaire ou contractuel visés au paragraphe 1er qui, dans le cadre de l'application spécifique de ce paragraphe, commettent l'infraction pénale strictement nécessaire d'usurpation du nom ou de faux en écritures ou en informatique sont exemptés de peine.
+
+La personne concernée à l'encontre de laquelle les constatations ont été faites, ne peut pas avoir été provoquée au sens de l'article 30 du titre préliminaire du Code de procédure pénale.
+
+Ce pouvoir ne peut être exercé que s'il est indispensable à l'exercice d'une surveillance dans des circonstances réelles applicables aux clients ordinaires ou potentiels.
+
+Après réception des produits, les membres du personnel statutaire ou contractuel visés au paragraphe 1er, élaborent un procès-verbal d'échantillonnage. Ils rédigent dans le procès-verbal d'échantillonnage et, le cas échéant, dans un procès-verbal d'infraction ou dans un rapport de constatation, la raison pour laquelle l'enquête a été menée et, s'il y a lieu, l'identité fictive qui a été utilisée.]<sup>5</sup>
+
+§ 3. Sur proposition conjointe des ministres ayant l'Environnement, la Santé publique et les Affaires économiques dans leurs attributions, le Roi peut déterminer les règles régissant l'échantillonnage, ainsi que les méthodes d'analyse qui doivent être appliquées et fixer les conditions régissant l'agrément des laboratoires pour effectuer ces analyses.
+
+§ 4. Sur proposition conjointe des ministres ayant l'Environnement, la Sante publique, les Affaires économiques et les Classes moyennes dans leurs attributions, le Roi peut fixer le tarif maximum des analyses visées au § 3.
+
+§ 5. [<sup>2</sup> [<sup>5</sup> Sauf si un rapport de constatation, visé à l'article 17bis est établi]<sup>5</sup>, les membres du personnel statutaire ou contractuel, visés au § 1er, alinéa 1er, constatent les infractions à la présente loi, à ses arrêtés d'exécution, aux mesures d'exécution prises dans le cadre de la Directive 2009/125/CE et aux règlements de [<sup>4</sup> l'Union]<sup>4</sup> européenne figurant à l'annexe Ire, en dressant des procès-verbaux qui font foi jusqu'à preuve du contraire; une copie du procès-verbal est transmise au contrevenant dans les trente jours calendrier suivant la date de la constatation.]<sup>2</sup>
+
+§ 6. [<sup>2</sup> Dans le cadre de l'application de la présente loi, de ses arrêtés d'exécution, des mesures d'exécution prises dans le cadre de la Directive 2009/125/CE et des règlements de [<sup>4</sup> l'Union]<sup>4</sup> européenne figurant à l'annexe Ire, le Roi peut, sur proposition conjointe des Ministres ayant la Santé publique, l'Environnement, les Affaires économiques et les Classes moyennes dans leurs attributions, prescrire l'application de directives en matière de contrôle adoptées par des organismes nationaux ou internationaux reconnus.]<sup>2</sup>
+
+(§ 7. Le présent article n'est pas applicable aux contrôles effectués par l'Agence fédérale pour la sécurité de la chaîne alimentaire.) &lt;L 2003-12-22/42, art. 181, 004; En vigueur : 10-01-2004&gt;
+
+----------
+
+(1)&lt;L 2009-09-10/34, art. 6, 010; En vigueur : 19-04-2010&gt;
+
+(2)&lt;L 2011-07-27/13, art. 25, 012; En vigueur : 29-08-2011&gt;
+
+(3)&lt;L 2014-05-15/65, art. 3, 014; En vigueur : 09-08-2014&gt;
+
+(4)&lt;L 2015-12-16/06, art. 11, 015; En vigueur : 31-12-2015&gt;
+
+(5)&lt;L 2023-04-26/06, art. 6, 020; En vigueur : 15-06-2023&gt;
+
+(6)&lt;L 2024-05-03/21, art. 51, 022; En vigueur : 10-06-2024&gt;
+
+##### Art. 15bis
+
+[<sup>1</sup> Sans préjudice de l'application des articles 15 et 15ter, les agents désignés en exécution de l'article 17 du Code pénal social exercent, dans les limites de leurs compétences, le contrôle du respect de la présente loi et de ses arrêtés d'exécution et du règlement REACH, pour ce qui concerne la protection des travailleurs.
+
+Ces fonctionnaires exercent ce contrôle conformément aux livre premier du Code pénal social.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-04-25/A1, art. 11, 013; En vigueur : 27-06-2014&gt;
+
+##### Art. 15ter
+
+[<sup>1</sup> Sans préjudice de l'application de l'article 15, les fonctionnaires de l'Administration des Douanes et Accises sont chargés de contrôler le respect des dispositions de la présente loi, des arrêtés pris en exécution de celle-ci, des mesures d'exécution prises dans le cadre de la Directive 2009/125/CE du Parlement européen et du Conseil du 21 octobre établissant un cadre pour la fixation d'exigences en matière d'écoconception applicables aux produits liés à l'énergie et des règlements de l'Union européenne repris à l'annexe Ire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-25/A1, art. 12, 013; En vigueur : 27-06-2014&gt;
+
+##### Art. 15quater
+
+[<sup>1</sup> Sans préjudice de l'application des articles 15 et 15ter, les fonctionnaires et agents de la Direction générale [<sup>2</sup> énergie]<sup>2</sup> du Service public fédéral Economie, P.M.E., Classes moyennes et Energie exercent, dans les limites de leurs compétences, le contrôle du respect des dispositions de la présente loi, de ses arrêtés d'exécution et des mesures d'exécution prises dans le cadre de la Directive 2009/125/CE du Parlement européen et du Conseil du 21 octobre établissant un cadre pour la fixation d'exigences en matière d'écoconception applicables aux produits liés à l'énergie, uniquement en rapport avec cette directive.
+
+Ces fonctionnaires exercent ce contrôle conformément au [<sup>2</sup> Livre XV du Code de droit économique]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-25/A1, art. 13, 013; En vigueur : 27-06-2014&gt;
+
+(2)&lt;L 2023-04-26/06, art. 7, 020; En vigueur : 15-06-2023&gt;
+
+##### Art. 15quinquies
+
+[<sup>1</sup> Sans préjudice de l'application des articles 15 et 15 ter et sans préjudice des tâches de contrôle que les Régions confient, le cas échéant, à leurs propres organismes en application du Règlement 2020/740, les agents chargés du contrôle du marché des véhicules à moteur, exercent le contrôle de l'exactitude de l'étiquette des pneumatiques visées par le Règlement (UE) n° 2020/740 du Parlement européen et du Conseil du 25 mai 2020 sur l'étiquetage des pneumatiques en relation avec l'efficacité en carburant et d'autres paramètres, modifiant le Règlement (UE) n° 2017/1369 et abrogeant le Règlement (CE) n° 1222/2009, uniquement en ce qui concerne l'article 11 (3) du Règlement (UE) n° 2020/740.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-04-26/06, art. 8, 020; En vigueur : 15-06-2023&gt;
+
+##### Art. 16
+
+§ 1er. [<sup>2</sup> Les membres du personnel statutaire ou contractuel, [<sup>3</sup> visés aux articles 15, § 1er, alinéa 1er, 15quater, alinéa 1er et 15quinquies, alinéa 1er,]<sup>3</sup> peuvent saisir [<sup>4</sup> ou mettre sous scellés temporairement contre accusé de réception ou de mise sous scellés]<sup>4</sup> , par mesure administrative et pour un délai fixé par le Roi, les produits dont ils suspectent la non-conformité aux dispositions [<sup>7</sup> de la présente loi,]<sup>7</sup> d'un arrêté pris en exécution de la présente loi, ou d'une mesure d'exécution prise dans le cadre de la Directive 2009/125/CE ou d'un règlement de [<sup>5</sup> l'Union]<sup>5</sup> européenne figurant à l'annexe Ire, afin de les soumettre à un contrôle.]<sup>2</sup> Cette (saisie temporaire contre accusé de réception) est levée sur ordre du fonctionnaire ou agent qui a (temporairement saisi le produit contre accusé de réception) ou en raison de l'échéance du délai. &lt;L 2003-03-28/42, art. 10, 003; En vigueur : 09-05-2003&gt;
+
+[<sup>7</sup> Lorsque les produits ne sont pas conformes à la présente loi, à ses arrêtés d'exécution, aux mesures d'exécution prises dans le cadre de la Directive 2009/125/CE du Parlement européen et du Conseil du 21 octobre 2009 concernant l'établissement d'un cadre pour la fixation d'exigences en matière d'écoconception applicables aux produits liés à l'énergie ou aux Règlements de l'Union européenne figurant à l'annexe I, ces membres du personnel statutaire ou contractuel peuvent, par mesure administrative:
+
+1° saisir ou sceller ces produits,
+
+2° ordonner des mesures correctives, qui soit sous peine d'astreinte ou non,
+
+3° interdire ou restreindre la commercialisation ou la mise en service d'un produit.]<sup>7</sup>
+
+(Les produits faisant l'objet d'une mesure [<sup>7</sup> ...]<sup>7</sup> telle que visée à l'article 5, §§ 3, 4 [<sup>7</sup> , 5 et 6]<sup>7</sup> ou d'une saisie temporaire telle que visée au paragraphe 1er ou d'une mesure administrative visée au paragraphe 2, seront détruits si cela est nécessaire pour des raisons impérieuses de santé publique et/ou d'environnement. Selon le cas, cette destruction est ordonnée par le ministre responsable de la Santé publique, le ministre en charge de l'Environnement ou par les fonctionnaires désignés par le Roi. Le Roi précise les règles relative à la saisie temporaire, la saisie administrative, [<sup>4</sup> la mise sous scellés, le retrait [<sup>6</sup> du marché]<sup>6</sup>,]<sup>4</sup> la restitution [<sup>7</sup> , le rappel, l'interdiction ou la restriction de la commercialisation ou de la mise en service]<sup>7</sup> ou la destruction de ces produits.) &lt;L 2003-03-28/42, art. 10, 003; En vigueur : 09-05-2003&gt;
+
+[<sup>7</sup> § 1/1. L'injonction de mesures correctives visée au paragraphe 1er, alinéa 2, 2°, doit contenir au moins:
+
+\- [<sup>8</sup> une description de la non-conformité, y compris les dispositions légales sur lesquelles la non-conformité porte;]<sup>8</sup>
+
+\- la liste des mesures correctives imposées et le délai dans lesquelles elles doivent être mises en oeuvre;
+
+\- la mention que si l'injonction n'est pas respectée, un procès-verbal de violation de l'injonction sera établi. [<sup>8</sup> ...]<sup>8</sup>
+
+Les mesures correctives imposées peuvent inclure:
+
+\- de rendre les produits conformes;
+
+\- de cesser la mise sur le marché ou la mise en service des produits;
+
+\- le retrait des produits du marché;
+
+\- le rappel du produit suivi d'une mise en garde publique du risque encouru;
+
+\- de détruire ou rendre les produits inutilisables.
+
+En ce qui concerne les produits proposés en ligne, les mesures correctives imposées peuvent également inclure:
+
+\- la suppression du contenu informatif lié au produit concerné et/ou la mention explicite d'un avertissement à l'attention des utilisateurs finaux lorsqu'ils accèdent à l'offre des produits en ligne;
+
+\- d'ordonner aux fournisseurs de services de la société de l'information, aux registres ou bureaux d'enregistrement de domaines, de restreindre l'accès en ligne à l'interface où l'offre des produits est affichée. Cette restriction est confirmée par le ministère public dans les quarante-huit heures. En l'absence de confirmation par le ministère public, la restriction est levée de plein droit. Le ministère public peut également ordonner aux membres du personnel statutaire ou contractuel, visé au paragraphe 1er, de prendre les mesures visées au présent paragraphe dans les mêmes conditions.
+
+[<sup>8</sup> L'injonction de mesures correctives visée à l'alinéa 1er peut être imposée au contrevenant et, lorsque cela permet de mettre fin à la non-conformité, à tout opérateur économique établi en Belgique se trouvant dans la chaîne d'approvisionnement du produit visé par l'injonction.]<sup>8</sup>
+
+En cas de non-respect de l'injonction, un procès-verbal de défaut est établi. Une copie du procès-verbal est transmise au contrevenant. Les dispositions des articles 17, § 1 et 2, ne s'appliquent pas l'injonction qui a été exécutée sous peine d'astreinte.
+
+L'injonction peut être révoquée ou modifiée par le membre du personnel qui l'a imposé. Lorsqu'une nouvelle injonction est émise, l'injonction précédente est levée.
+
+§ 1/2 L'astreinte visée au paragraphe 1er, alinéa 2, 2°, peut être fixée soit à un montant déterminé, soit à un montant déterminé par unité de temps ou à un montant fixé par infraction. Dans les deux derniers cas, un montant au-delà duquel aucune astreinte ne sera due, peut être déterminé. Lorsqu'une astreinte sur base hebdomadaire est imposée, un jour entamé est compté comme une semaine. Lorsqu'une astreinte est imposée sur base journalière, un jour entamé est compté comme un jour entier.
+
+Le montant total de l'astreinte ne peut excéder un montant de plus de 500.000 euros.
+
+La personne physique ou morale, à qui une injonction de prendre des mesures correctives sous peine d'astreinte a été adressée, est tenue de signaler l'exécution de cette injonction au membre du personnel qui a prononcé l'injonction de prendre des mesures correctives sous peine d'astreinte afin que celui-ci puisse constater l'exécution de l'injonction. Si l'exécution a été constatée dans le délai imparti, l'astreinte n'est plus exigible. L'astreinte est exigible de plein droit à l'expiration du délai d'exécution de l'injonction.
+
+L'astreinte peut être levée, sa durée peut être suspendue pour une période déterminée ou le montant peut être réduit à la demande de la personne physique ou morale à qui l'injonction de mesures correctives sous peine d'astreinte est imposée, si celle-ci ne peut se conformer en tout ou en partie à l'injonction. La levée de l'injonction de mesures correctives entraine automatique la levée de l'astreinte.
+
+L'astreinte s'éteint au bout d'un an, calculé à compter du lendemain du jour où la somme est due.
+
+Le Roi fixe les modalités de l'astreinte.
+
+§ 1/3 Les produits, articles de saisie ou scellés, visés au paragraphe 1er, alinéa 2, pour lesquels aucune régularisation n'a été proposée, ou proposée et n'a été effectuée dans le délai imparti, sont détruits d'office.
+
+Le Roi détermine les règles spécifiques concernant la destruction des produits en vertu de ce paragraphe.
+
+§ 1/4. Les bois ou produits en bois saisis régis par le Règlement (UE) n° 995/2010 du Parlement européen et du Conseil du 20 octobre 2010 établissant les obligations des opérateurs économiques mettant du bois et des produits dérivés sur le marché, régis par Règlement (CE) n° 2173/2005 du Conseil du 20 décembre 2005 établissant un régime d'autorisation FLEGT pour les importations de bois dans l'Union européenne, peuvent être vendus publiquement ou donnés par les membres du personnel statutaire ou contractuel visé à l'article 15, § 1er, alinéa 1er, dans le cadre d'une mesure administrative à une personne morale appropriée à des fins de recherche ou en fonction de l'intérêt public, [<sup>8</sup> ou, si la vente publique ou le don ne sont pas possibles ou que les produits n'ont pas une valeur suffisante pour toute vente publique ou don, peuvent être détruits]<sup>8</sup>.
+
+[<sup>8</sup> A partir du 30 décembre 2024, l'alinéa 1er s'applique également aux produits saisis régis par le Règlement Déforestation, à l'exception des bovins visés à l'annexe I de ce Règlement. Le don, la vente publique et la destruction des produits alimentaires visés par le présent alinéa se font conformément à la législation alimentaire.]<sup>8</sup>
+
+Le Roi détermine les modalités de vente, de don ou de destruction publique visés au présent paragraphe.
+
+§ 1/5 Sans préjudice des procédures de sauvegarde de l'Union européenne prévues par la législation communautaire applicable en matière d'harmonisation, les membres du personnel statutaire ou contractuel visé au paragraphe 1er considèrent les produits comme non conformes si ces produits ont été jugés non conformes dans un autre Etat membre sur la base d'une décision d'une autorité de surveillance du marché de cet Etat membre, à moins que ces membres du personnel, sur la base de leurs propres recherches et compte tenu, le cas échéant, de toute contribution d'un opérateur économique, ne soient parvenues à la conclusion contraire.]<sup>7</sup>
+
+[<sup>8</sup> § 1/6 L'interdiction de la commercialisation d'un produit, visée au paragraphe 1er, alinéa 2, 3°, peut également être décidée à l'égard d'un produit entrant sur le marché de l'Union, lorsque la procédure se déroule au titre de l'article 28 du Règlement (UE) 2019/1020, indépendamment du fait que le produit ait déjà été mis sur le marché au moment de la décision. Les membres du personnel statutaire ou contractuel visés au paragraphe 1er prennent cette mesure après avoir constaté que le produit est destiné à être mis sur le marché de l'Union et n'est pas conforme aux prescriptions énoncées dans la législation de l'Union figurant à l'annexe I du Règlement 2019/1020. Cette constatation est indiquée dans la décision d'interdiction de la commercialisation d'un produit non-conforme.
+
+§ 1/7 En cas de non-respect d'une interdiction ou d'une restriction de la commercialisation ou de la mise en service de produits au sens du paragraphe 1er, alinéa 2, 3°, un procès-verbal de défaut est établi. Une copie du procès-verbal est transmise au contrevenant.]<sup>8</sup>
+
+§ 2. Ces mêmes [<sup>1</sup> membres du personnel statutaire ou contractuel]<sup>1</sup> peuvent prendre toutes les mesures urgentes qui s'imposent compte tenu des circonstances, en cas de danger imminent pour la santé publique ou l'environnement.
+
+(§ 3. Le présent article ne s'applique pas aux contrôles effectués par l'Agence fédérale pour la sécurité de la chaîne alimentaire.) &lt;L 2003-12-22/42, art. 181, 004; En vigueur : 10-01-2004&gt;
+
+----------
+
+(1)&lt;L 2009-09-10/34, art. 7, 010; En vigueur : 19-04-2010&gt;
+
+(2)&lt;L 2011-07-27/13, art. 26, 012; En vigueur : 29-08-2011&gt;
+
+(3)&lt;L 2014-04-25/A1, art. 15, 013; En vigueur : 27-06-2014&gt;
+
+(4)&lt;L 2014-05-15/65, art. 4, 014; En vigueur : 09-08-2014&gt;
+
+(5)&lt;L 2015-12-16/06, art. 11, 015; En vigueur : 31-12-2015&gt;
+
+(6)&lt;L 2015-12-16/06, art. 16, 015; En vigueur : 31-12-2015&gt;
+
+(7)&lt;L 2023-04-26/06, art. 9, 020; En vigueur : 15-06-2023&gt;
+
+(8)&lt;L 2024-05-03/21, art. 52, 022; En vigueur : 10-06-2024&gt;
+
+##### Art. 16bis
+
+[<sup>1</sup> En cas d'infraction à la présente loi, aux arrêtés pris en exécution de celle-ci, aux mesures d'exécution prises dans le cadre de la Directive 2009/125/CE et aux règlements de l'Union européenne repris à l'annexe Ire, la personne qui met le produit sur le marché est responsable des frais [<sup>3</sup> d'échantillonnage, d'essai, d'évaluation,]<sup>3</sup> d'analyse, [<sup>2</sup> de mise sous scellés, de saisie, de restitution,]<sup>2</sup> de stockage, de retrait [<sup>4</sup> , d'achats-test, d'achat des échantillons de produits]<sup>4</sup> et de destruction.]<sup>1</sup> [<sup>4</sup> Le fournisseur de services d'exécution des commandes supporte les coûts associés aux mesures correctives qu'il est tenu de mettre en oeuvre en vertu du Règlement 2019/1020.]<sup>4</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-04-25/A1, art. 16, 013; En vigueur : 27-06-2014&gt;
+
+(2)&lt;L 2014-05-15/65, art. 5, 014; En vigueur : 09-08-2014&gt;
+
+(3)&lt;L 2015-12-16/06, art. 17, 015; En vigueur : 31-12-2015&gt;
+
+(4)&lt;L 2023-04-26/06, art. 10, 020; En vigueur : 15-06-2023&gt;
+
+##### Art. 16ter
+
+[<sup>1</sup> Les compétences mentionnées au présent chapitre peuvent être utilisées dans le cas d'une demande d'assistance transfrontalière au sens des articles 22 et 23 du Règlement 2019/1020, introduite par les autorités de surveillance du marché d'autres Etats membres de l'Union européenne.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-04-26/06, art. 11, 020; En vigueur : 15-06-2023&gt;
+
+##### Art. 17
+
+§ 1er. Est puni d'un emprisonnement de huit jours à trois ans et d'une amende de (160 euros) à (4.000.000 d'euros), ou de l'une de ces peines seulement : &lt;L 2003-03-28/42, art. 11, 003; En vigueur : 09-05-2003&gt;
+
+1° [<sup>8</sup> celui qui enfreint les prescriptions fixées par ou en application des articles 5, 7, 8 et 9 de la présente loi, lorsqu'elles sont d'application à des articles ou à des substances ou mélanges dangereux, à l'exception de l'article 5, § 1er, alinéa 1er, 11° ;]<sup>8</sup>
+
+1°bis. [<sup>4</sup> celui qui enfreint les prescriptions d'une mesure d'exécution prise dans le cadre de la Directive 2009/125/CE, soit établie en vertu du Chapitre Vbis de la présente loi, soit établie par un règlement ou une décision européenne;]<sup>4</sup>
+
+2° [<sup>9</sup> celui qui enfreint les articles 4, 8, 9, 10, 11, 12, 13, 14, 15, 18, paragraphe 4, 24, 25, 27, 31, 32, 33, 34, 35, 37 ou 58 du Règlement (UE) 2016/1628 du Parlement européen et du Conseil du 14 septembre 2016 relatif aux exigences concernant les limites d'émission pour les gaz polluants et les particules polluantes et la réception par type pour les moteurs à combustion interne destinés aux engins mobiles non routiers, modifiant les Règlements (UE) n° 1024/2012 et (UE) n° 167/2013 et modifiant et abrogeant la Directive 97/68/CE;]<sup>9</sup>
+
+3° [<sup>2</sup> celui qui enfreint :
+
+a) l'article 5, l'article 7, § 3, l'article 8, § 2 [<sup>9</sup> ou 3]<sup>9</sup>, l'article 9, § 4 ou 6 [<sup>9</sup> , article 10, article 12, § 1er, 2 ou 3]<sup>9</sup>, l'article 13, § 4, l'article 14, § 1er, 6 ou 7, l'article 26, § 3, l'article 30, § 3, l'[<sup>9</sup> article 31 § 1er, 2, 3, 4, 7 ou 9]<sup>9</sup>, l'article 32, § 1er ou 3, l'article 33, § 1er ou 2, l'article 34, [<sup>4</sup> l'article 35,]<sup>4</sup> l'article 37, § 4, 5, 6 ou 7, l'article 38, § 1er, 3 ou 4, l'article 39, § 1er ou 2, l'article 40, § 4, l'article 50, § 4, l'article 55, l'article 56, § 1er ou 2, l'article 60, § 10, l'article 65 ou l'article 67, § 1er, du règlement REACH; ou
+
+b) une décision de l'Agence européenne des produits chimiques ou de la Commission européenne relative à l'une des références visées au point a) de ce paragraphe;]<sup>2</sup>
+
+4° [<sup>4</sup> celui qui enfreint les articles 5, § 1er, 6, 11, § 8, 12, §§ 1er ou 2, 20, § 1er, 24, 26, § 1er, ou 27 du Règlement (CE) n° 1005/2009 du Parlement européen et du Conseil du 16 septembre 2009 relatif à des substances qui appauvrissent la couche d'ozone;]<sup>4</sup>
+
+5° celui qui transmet volontairement des informations ou des documents inexacts [<sup>9</sup> ou incorrects]<sup>9</sup>;
+
+6° [<sup>9</sup> celui qui s'oppose aux visites, inspections, saisies, échantillonnages, demandes de renseignements ou de documents, auditions, prises de possession temporaire, scellés, ventes publiques, destructions, traductions ou [<sup>10</sup> mesures urgentes au sens de l'article 16, § 2,]<sup>10</sup> par le membre du personnel statutaire ou contractuel désigné en vertu des articles 15, 15ter, 15quater, 15quinquies;]<sup>9</sup>
+
+(7° [<sup>5</sup> celui qui enfreint les articles 3, 4, 4bis ou 6, §§ 2 et 3, du Règlement (CE) n° 648/2004 du Parlement européen et du Conseil du 31 mars 2004 relatif aux détergents;]<sup>5</sup> ) &lt;L 2004-12-27/30, art. 236, 006; En vigueur : 10-01-2005&gt;
+
+(8° [<sup>9</sup> celui qui enfreint l'article 3, paragraphe 1 ou 2, du Règlement (UE) 2019/1021 du Parlement européen et du Conseil du 20 juin 2019 concernant les polluants organiques persistants;]<sup>9</sup>
+
+(9° [<sup>8</sup> celui qui enfreint l' article 6, paragraphe 3, l'article 7, paragraphe 2, l'article 11, l'article 14, paragraphe 1, 2 et 3, l'article 15, paragraphe 1, alinéa 2, l'article 17 et l'article 18 du Règlement (UE) n° 517/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif aux gaz à effet de serre fluorés et abrogeant le Règlement (CE) n° 842/2006;]<sup>8</sup>
+
+[<sup>4</sup> 10° celui qui enfreint l'article 4 du Règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l'étiquetage et à l'emballage des substances et des mélanges, modifiant et abrogeant les Directives 67/548/CEE et 1999/45/CE et modifiant le Règlement (CE) n° 1907/2006;
+
+11° [<sup>9</sup> celui qui enfreint les articles 3, 4, 5 ou 8 du Règlement (UE) 2017/852 du Parlement européen et du Conseil du 17 mai 2017 relatif au mercure et abrogeant Le Règlement (CE) n° 1102/2008;]<sup>9</sup>
+
+12° celui qui enfreint les articles 28, § 1er, 46, 49, § 4, 52, §§ 1er, 4, 5 ou 6, 54, §§ 1er ou 2, 55, 56, §§ 1er, 2 ou 4, 58, § 1er, 62, §§ 1er, 2, 3 ou 4, 64, §§ 1er ou 2, 65, § 1er, ou 66, §§ 1er, 2, 4, 5 ou 6, du Règlement (CE) n° 1107/2009 du Parlement européen et du Conseil du 21 octobre 2009 concernant la mise sur le marché des produits phytopharmaceutiques et abrogeant les Directives 79/117/CEE et 91/414/CEE du Conseil;
+
+13° celui qui enfreint l'article 1er et l'annexe du Règlement (CE) n° 547/2011 du Parlement européen et du Conseil du 8 juin 2011 portant application du Règlement (CE) n° 1107/2009 du Parlement européen et du Conseil concernant les exigences en matière d'étiquetage de produits phytopharmaceutiques;
+
+14° celui qui enfreint les articles 4, § 1er, et 5, § 1er, du Règlement (CE) n° 2173/2005 du Conseil concernant la mise en place d'un régime d'autorisation FLEGT relatif aux importations de bois dans la Communauté européenne;]<sup>4</sup>
+
+[<sup>5</sup> 15° celui qui enfreint l'article 4, §§ 1er, 2 ou 3, [<sup>9</sup> ou l'article 5 ou l'article 6, § 1er, du Règlement (UE) n° 995/2010]<sup>9</sup> du Parlement européen et du Conseil du 20 octobre 2010 établissant les obligations des opérateurs qui mettent du bois et des produits dérivés sur le marché [<sup>9</sup> , ou les articles 2 et 5 du Règlement d'exécution (UE) n° 607/2012]<sup>9</sup>;
+
+16° celui qui enfreint :
+
+a) l'article 17, § 1er, l'article 47, § 1er, l'article 58, §§ 2 ou 3, l'article 62, § 1er, l'article 95, § 3 du Règlement (UE) n° 528/2012 du Parlement européen et du Conseil du 22 mai 2012 concernant la mise à disposition sur le marché et l'utilisation des produits biocides; ou
+
+b) une décision de l'Agence européenne des produits chimiques ou de la Commission européenne qui porte sur l'une des dispositions visées au a);]<sup>5</sup>
+
+[<sup>7</sup> 17° celui qui enfreint les articles 8, § 2 [<sup>9</sup> ou 6]<sup>9</sup>, 14, § 4, 14, §§ 6 ou 10, 15, §§ 1er ou 2, [<sup>9</sup> 16, § 2,]<sup>9</sup> 17, § 1er, 19, §§ 1er ou 2 du Règlement (UE) n° 649/2012 du Parlement européen et du Conseil du 4 juillet 2012 concernant les exportations et importations de produits chimiques dangereux;]<sup>7</sup>
+
+[<sup>9</sup> 18° celui qui enfreint les articles 4, 5, 7 du Règlement (UE) n° 2019/1020 du Parlement européen et du Conseil du 20 juin 2019 relatif à la surveillance du marché et à la conformité des produits et modifiant la Directive 2004/42/CE et les Règlements (CE) n° 765/2008 et (UE) n° 305/2011;
+
+19° celui qui n'exécute pas l'injonction de mesures correctives visée à l'article 16, paragraphe 1er, alinéa 2, 2°, lorsque l'injonction porte sur les infractions visées au paragraphe 1er;]<sup>9</sup>
+
+[<sup>10</sup> 20° celui qui enfreint l'article 5, paragraphes 1, point a), ou 2, l'article 6, paragraphe 1, sans préjudice des paragraphes 3 et 4, l'article 7, paragraphes 1, 2 ou 3, sans préjudice du paragraphe 5, l'article 8, paragraphes 1, 2 ou 3, sans préjudice du paragraphe 4, l'article 9, paragraphe 1, l'article 10, paragraphes 1, 2 ou 3, sans préjudice du paragraphe 4, l'article 11, paragraphes 1, 2, 5 ou 7, sans préjudice du paragraphe 3, l'article 12, paragraphes 1 ou 2, l'article 38, paragraphes 1, point a), 5 ou 9, l'article 40, paragraphe 4, l'article 41, paragraphes 1, 2, 4, 5, ou 6, l'article 42, paragraphes 3, 4 ou 5, l'article 43 ou l'article 45, paragraphe 1, ou 2, du Règlement Batterie;]<sup>10</sup>
+
+[<sup>10</sup> 21° celui qui enfreint les articles 3, 4, 9, 10, 11, 12 ou 13 du Règlement Déforestation, à l'exception des aspects portant sur l'exportation ainsi que sur les bovins tels que visés à l'annexe I de ce règlement;]<sup>10</sup>
+
+[<sup>10</sup> 22° celui qui enfreint l'interdiction ou la restriction de la commercialisation ou de la mise en service de produits au sens de l'article 16, § 1er, alinéa 2, 3°.]<sup>10</sup>
+
+Lorsque l'auteur des faits incriminés à l'alinéa précédent sait que ces faits constituent un danger concret pour la sécurité ou la santé de l'homme, les peines maximales fixées à l'alinéa précédent sont portées, respectivement, à (huit ans) et dix millions (d'euros). &lt;L 2003-03-28/42, art. 11, 003; En vigueur : 09-05-2003&gt;
+
+§ 2. Est puni d'un emprisonnement de (huit jours) à un an et d'une amende de [<sup>2</sup> 52 euros]<sup>2</sup> à (120.000 euros), ou de l'une de ces peines seulement : &lt;L 2003-03-28/42, art. 11, 003; En vigueur : 09-05-2003&gt;
+
+1° [<sup>8</sup> celui qui enfreint les prescriptions fixées par ou en application des articles 5, 7, 8 et 9 de la présente loi, lorsqu'elles s'appliquent à des substances ou mélanges ne tombant pas sous le paragraphe 1er, alinéa 1er, 1°, ou celui qui enfreint les prescriptions fixées par ou en application de l'article 5, § 1er, alinéa 1er, 11°, et de l'article 20 de la présente loi;]<sup>8</sup>
+
+2° celui qui enfreint les dispositions des articles 10 à 14 ou de leurs arrêtés d'exécution;
+
+3° [<sup>9</sup> celui qui n'exécute pas l'injonction de mesures correctives visée à l'article 16, paragraphe 1er, alinéa 2, 2°, lorsque l'injonction porte sur des infractions visées au paragraphe 2;]<sup>9</sup>
+
+4° [<sup>2</sup> celui qui enfreint :
+
+a) l'article 6, § 1er ou 3, l'article 7, § 1er, 2 ou 5, l'article 9, § 2 [<sup>9</sup> ou 5]<sup>9</sup>, l'article 11, § 1er, [<sup>9</sup> ...]<sup>9</sup> l'article 13, § 1er ou 3, l'article 17, § 1er, l'article 18, § 1er, l'article 19, § 1er, l'article 22, § 1er, 2 ou 4, l'article 24, § 2, l'article 25, § 1er ou 2, l'article 26, § 1er, [<sup>9</sup> l' article 29, § 1 ou 3,]<sup>9</sup> l'article 30, § 1er, 2 ou 4, l'article 31, § 5 ou 8, l'article 32, § 2, l'article 36, § 1er ou 2, l'article 37, § 2 ou 3, l'article 41, § 4, l'article 46, § 2, l'article 49, l'article 50, § 2 ou 3, l'article 53, § 2 ou 3, l'article 61, § 1er ou 3, l'article 63, § 3, l'article 66, § 1er, l'article 105, [<sup>5</sup> ...]<sup>5</sup> du règlement REACH; ou
+
+b) une décision de l'Agence européenne des produits chimiques ou de la Commission européenne relative à l'une des références visées au point a) de ce paragraphe;]<sup>2</sup>
+
+5° [<sup>8</sup> celui qui enfreint les articles 17, paragraphe 4, 18, paragraphe 4, ou 28, paragraphe 3, du Règlement (CE) n° 1005/2009 du Parlement européen et du Conseil du 16 septembre 2009 relatif à des substances qui appauvrissent la couche d'ozone;]<sup>8</sup>
+
+(6° celui qui enfreint les articles 9 ou 11 du règlement (CE) n° 648/2004 du Parlement européen et du Conseil du 31 mars 2004 relatif aux détergents;) &lt;L 2004-12-27/30, art. 236, 006; En vigueur : 10-01-2005&gt;
+
+(7° [<sup>8</sup> celui qui enfreint les articles 12 et 19 du Règlement (UE) n° 517/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif aux gaz à effet de serre fluorés et abrogeant le Règlement (CE) n° 842/2006;]<sup>8</sup>
+
+[<sup>4</sup> 8° celui qui enfreint les articles 37, § 3 ou 6, 40, § 1er, 41, 48, § 1er ou 2, ou 49, § 1er, du Règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l'étiquetage et à l'emballage des substances et des mélanges, modifiant et abrogeant les Directives 67/548/CEE et 1999/45/CE et modifiant le Règlement (CE) n° 1907/2006;
+
+9° [<sup>9</sup> ...]<sup>9</sup>
+
+10° celui qui enfreint les articles 51, § 5, 61, §§ 1 ou 3, ou 67, §§ 1, 2 ou 3, du Règlement (CE) n° 1107/2009 du Parlement européen et du Conseil du 21 octobre 2009 concernant la mise sur le marché des produits phytopharmaceutiques et abrogeant les Directives 79/117/CEE et 91/414/CEE du Conseil;]<sup>4</sup>
+
+[<sup>5</sup> 11° [<sup>9</sup> celui qui enfreint les articles 4, 5, 6, 7 ou 8 du Règlement (CE) n° 2020/740 du Parlement européen et du Conseil du 25 mai 2020 sur l'étiquetage des pneumatiques en relation avec l'efficacité en carburant et d'autres paramètres, modifiant le Règlement (UE) 2017/1369 et abrogeant le Règlement (CE) no 1222/2009;]<sup>9</sup>
+
+12° celui qui enfreint :
+
+a) l'article 17, § 5 ou 6, l'article 27, § 1er, l'article 31, § 3, l'article 45, § 2, l'article 56, § 1er ou 2, l'article 58, §§ 4, 5 ou 6, l'article 59, § 3, l'article 62, § 2, a), l'article 63, § 3, alinéa 3, l'article 65, § 2, l'article 68, § 1er, l'article 69, §§ 1er ou 2, l'article 70, l'article 72, §§ 1er ou 3 du Règlement (UE) n° 528/2012 du Parlement européen et du Conseil du 22 mai 2012 concernant la mise à disposition sur le marché et l'utilisation des produits biocides; ou
+
+b) une décision de l'Agence européenne des produits chimiques ou de la Commission européenne qui porte sur l'une des dispositions visées au a);]<sup>5</sup>
+
+[<sup>7</sup> 13° celui qui enfreint les articles [<sup>9</sup> 2, § 3,]<sup>9</sup> 8, §§ 4 ou 7, 10, §§ 1er ou 2, 11, § 4, 14, § 11, 16, § 2, 17, §§ 2, 3 ou 4, [<sup>9</sup> 19 § 2]<sup>9</sup> du Règlement (UE) n° 649/2012 du Parlement européen et du Conseil du 4 juillet 2012 concernant les exportations et importations de produits chimiques dangereux;]<sup>7</sup>
+
+[<sup>10</sup> 14° celui qui enfreint l'article 5, paragraphe 1, point b), l'article 13, à l'exception des paragraphes 8 et 10, l'article 14, paragraphes 1, 2 ou 3, sans préjudice du paragraphe 5, l'article 38, paragraphes 1, point b), 2, 3, 4, 6, 7, 8 ou 10, l'article 39, l'article 40, paragraphe 3, l'article 41, paragraphes 3,7 ou 8, l'article 42, paragraphes 2 ou 6, l'article 46, l'article 48, paragraphes 1, 2 ou 3, sans préjudice du paragraphe 4, les articles 49, 50, 52, 77, à l'exception du paragraphe 9, ou 78 du Règlement Batterie.]<sup>10</sup>
+
+(§ 2bis. Sera puni d'une peine d'amende [<sup>9</sup> de 200 à 10.000 euros]<sup>9</sup> pour toute infraction, celui qui enfreint l'article 20bis [<sup>8</sup> de la présente loi]<sup>8</sup> ou l'article 57 de la loi du 21 décembre 1994 portant des dispositions sociales et diverses ou les arrêtés d'exécution d'un des deux articles. Les montants et indemnités dus en vertu des arrêtés pris en exécution de l'article 20bis [<sup>8</sup> de la présente loi]<sup>8</sup> ou de l'article 57 de la loi du 21 décembre 1994 portant des dispositions sociales et diverses peuvent être multipliés par cinq.) &lt;L 2003-03-28/42, art. 11, 003; En vigueur : 09-05-2003&gt;
+
+(§ 2ter. Les amendes pénales prévues aux §§ 1er, 2 et 2bis doivent être majorés conformément à la loi du 5 mars 1952 relative aux décimes additionnels sur les amendes pénales.) &lt;L 2003-03-28/42, art. 11, 003; En vigueur : 09-05-2003&gt;
+
+[<sup>3</sup> § 2quater. Les peines prévues aux paragraphes 1er et 2 sont portées à un emprisonnement de dix jours à dix ans et à une amende de 1.000 euros à 7.000.000 euros ou de l'une de ces peines seulement lorsque :
+
+1° un produit visé par les actes figurant aux annexes VI et VII est mis illégalement sur le marché et qu'il provoque, intentionnellement dans le chef de celui qui l'a mis illégalement sur le marché, un rejet, une émission ou l'introduction d'une quantité de substances dans l'atmosphère, les eaux ou le sol qui cause ou est susceptible de causer la mort ou de graves lésions à des personnes lors de son utilisation;
+
+2° un produit visé par les actes figurant à l'annexe VII est mis illégalement sur le marché et qu'il provoque, intentionnellement dans le chef de celui qui l'a mis illégalement sur le marché, un rejet, une émission ou l'introduction d'une quantité de substances dans l'atmosphère, les eaux ou le sol qui cause ou est susceptible de causer une dégradation substantielle de la qualité de l'air, de l'eau ou du sol ou de la faune et de la flore lors de sa mise sur le marché.]<sup>3</sup>
+
+[<sup>3</sup> § 2quinquies. Les peines prévues aux paragraphes 1er et 2 sont portées à un emprisonnement de huit jours à un an et d'une amende de 250 euros à 5.000.000 euros ou de l'une de ces peines seulement lorsque :
+
+1° un produit visé par les actes figurant aux annexes VI et VII est mis illégalement sur le marché et qu'il provoque, suite à une négligence grave dans le chef de celui qui l'a mis illégalement sur le marché, un rejet, une émission ou l'introduction d'une quantité de substances dans l'atmosphère, les eaux ou le sol qui cause ou est susceptible de causer la mort ou de graves lésions à des personnes lors de son utilisation;
+
+2° un produit visé par les actes figurant à l'annexe VII est mis illégalement sur le marché et qu'il provoque, suite à une négligence grave dans le chef de celui qui l'a mis illégalement sur le marché, un rejet, une émission ou l'introduction d'une quantité de substances dans l'atmosphère, les eaux ou le sol qui cause ou est susceptible de causer une dégradation substantielle de la qualité de l'air, de l'eau ou du sol ou de la faune et de la flore lors de sa mise sur le marché.]<sup>3</sup>
+
+[<sup>5</sup> § 2sexies. Sera puni d'une peine d'amende de 100 à 500 euros pour toute infraction, celui qui enfreint les articles 9, §§ 2, 4 ou 9, ou 10, §§ 1er, 3 ou 4, du Règlement (CE) n° 66/2010 du Parlement européen et du Conseil du 25 novembre 2009 établissant le label écologique de l'UE.]<sup>5</sup>
+
+§ 3. (Le juge pénal peut infliger les peines supplémentaires suivantes :
+
+1° la publication du jugement qui prononce la condamnation sur la base de cette loi ou de ses arrêtés d'exécution, de la manière qu'il détermine et aux frais de la personne condamnée;
+
+2° la fermeture des établissements où sont commis les délits pour une durée de quatre semaines minimum et d'une année maximum et ce, en cas de récidive;
+
+3° l'interdiction provisoire d'exercer une ou plusieurs activités professionnelles bien précises et ici aussi, uniquement en cas de récidive et pour une durée allant d'un à dix ans;) &lt;L 2003-03-28/42, art. 11, 003; En vigueur : 09-05-2003&gt;
+
+§ 4. (En outre, dans le souci de protéger la santé publique et/ou l'environnement, le juge pénal peut ordonner les mesures suivantes :
+
+1° l'interdiction d'importer ou d'exporter le produit qui est l'objet de l'infraction;
+
+2° le retrait du marché du produit qui est l'objet de l'infraction;
+
+3° la destruction des produits saisis aux frais de la personne condamnée;
+
+4° le retrait des avantages patrimoniaux acquis illégalement;
+
+5° la publication du jugement de la manière qu'il déterminera et aux frais de la personne condamnée;
+
+[<sup>3</sup> 6° la remise en état des dommages causés à l'environnement ou la prévention d'un risque de dommages susceptibles d'être causés à l'environnement;
+
+7° l'exécution de toutes autres mesures de nature à protéger la santé humaine ou l'environnement des dommages causés ou susceptibles d'être causés.]<sup>3</sup>
+
+En cas de récidive, le juge peut en outre ordonner l'adoption des mesures directes suivantes :
+
+1° la désignation d'un administrateur spécial;
+
+2° la déclaration d'incapacité d'exercer une ou plusieurs activités professionnelles bien déterminées;
+
+3° l'arrêt d'une production;
+
+4° l'interdiction d'utiliser les établissements où les délits ont été commis.) &lt;L 2003-03-28/42, art. 11, 003; En vigueur : 09-05-2003&gt;
+
+§ 5. Toutes les dispositions du Livre Ier du Code pénal (...) sont applicables aux infractions à la présente loi et à ses arrêtés d'exécution. &lt;L 2003-03-28/42, art. 11, 003; En vigueur : 09-05-2003&gt;
+
+----------
+
+(1)&lt;L 2009-09-10/34, art. 7, 010; En vigueur : 19-10-2009&gt;
+
+(2)&lt;L 2009-09-10/34, art. 9, 010; En vigueur : 19-10-2009&gt;
+
+(3)&lt;L 2010-12-29/01, art. 82, 011; En vigueur : 10-01-2011&gt;
+
+(4)&lt;L 2011-07-27/13, art. 28, 012; En vigueur : 29-08-2011&gt;
+
+(5)&lt;L 2014-04-25/A1, art. 17, 013; En vigueur : 27-06-2014&gt;
+
+(6)&lt;L 2014-04-25/A1, art. 20, 013; En vigueur : 27-06-2014&gt;
+
+(7)&lt;L 2014-05-15/65, art. 6, 014; En vigueur : 09-08-2014&gt;
+
+(8)&lt;L 2015-12-16/06, art. 18, 015; En vigueur : 31-12-2015&gt;
+
+(9)&lt;L 2023-04-26/06, art. 12, 020; En vigueur : 15-06-2023&gt;
+
+(10)&lt;L 2024-05-03/21, art. 53, 022; En vigueur : 10-06-2024&gt;
+
+##### Art. 17bis
+
+&lt;Inséré par L 2003-03-28/42, art. 12; En vigueur : 09-05-2003&gt; [<sup>6</sup> En cas d'infraction à la présente loi ou à l'un de ses arrêtés d'exécution, les membres du personnel statutaire ou contractuel désignés conformément aux articles 15, 15quater, 15quinquies peuvent établir un rapport de constatation.
+
+L'original du rapport de constatation est envoyé au contrevenant dans les trente jours suivant la constatation de l'infraction. Le rapport de constatation précise:
+
+a) les faits reprochés, et
+
+b) les dispositions légales qui ont été violées.]<sup>6</sup>
+
+[<sup>3</sup> Le présent article ne s'applique pas aux infractions relatives à :
+
+a) l'article 5, l'article 6, §§ 1er ou 3, l'article 7, §§ 1er ou 5, l'article 8, § 2, l'article 9 §§ 2 ou 4, [<sup>6</sup> ou 5, l'article 10, l'article 12, § 1er, 2 ou 3,]<sup>6</sup> l'article 13, §§ 1er ou 3, l'article 14, §§ 1er ou 6, l'article 17, § 1er, l'article 18, § 1er, l'article 22, § 2, l'article 25, § 1er, l'article 30, § 1er, l'article 31, §§ 1er, 3 ou 8, l'article 32, §§ 1er ou 2, l'article 36, §§ 1er ou 2, l'article 40, § 4, l'article 41, § 4, l'article 46, § 2, l'article 49, l'article 50, § 4, l'article 56, §§ 1er ou 2, l'article 65, l'article 66, § 1er, l'article 67, § 1er, ou l'article 105 du Règlement REACH; ou
+
+b) une décision de l'Agence européenne des produits chimiques ou de la Commission européenne relative à l'une des références visées au point a) de ce paragraphe.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2009-09-10/34, art. 7, 010; En vigueur : 19-04-2010&gt;
+
+(2)&lt;L 2009-09-10/34, art. 9, 010; En vigueur : 19-10-2009&gt;
+
+(3)&lt;L 2009-09-10/34, art. 9, 010; En vigueur : 19-04-2010&gt;
+
+(4)&lt;L 2014-04-25/A1, art. 18, 013; En vigueur : 27-06-2014&gt;
+
+(5)&lt;L 2015-12-16/06, art. 19, 015; En vigueur : 31-12-2015&gt;
+
+(6)&lt;L 2023-04-26/06, art. 13, 020; En vigueur : 15-06-2023&gt;
+
+##### Art. 18
+
+§ 1er. [<sup>1</sup> [<sup>2</sup> Les infractions à la présente loi, aux arrêtés pris en exécution de celle-ci, aux mesures d'exécution prises dans le cadre de la Directive 2009/125/CE et aux règlements de [<sup>5</sup> l'Union]<sup>5</sup> européenne figurant à l'annexe Ire, punissables en vertu de l'article 17, § 1er, 2 ou 2bis, font l'objet, soit de poursuites pénales, soit d'une amende administrative telle que visée au présent article.]<sup>2</sup>
+
+§ 2. [<sup>3</sup> Les membres du personnel statutaire ou contractuel désignés par le Roi en vertu d'article 15, § 1er et les agents désignés conformément aux articles 15bis, 15ter, 15quater et 15quinquies envoient le procès-verbal qui constate l'infraction]<sup>3</sup> :
+
+a) en cas d'infraction punissable en vertu de l'article 17, § 1er, au procureur du Roi ainsi qu'une copie au fonctionnaire, titulaire d'une licence ou d'un master en droit, désigné par le Roi;
+
+b) en cas d'infraction punissable en vertu de l'[<sup>3</sup> article 17, §§ 2 et 2bis]<sup>3</sup> , au fonctionnaire mentionné au point a).
+
+§ 3. Dans le cadre du paragraphe 2, a), le procureur du Roi décide s'il y a lieu ou non de poursuivre pénalement. Les poursuites pénales excluent l'application d'une amende administrative, même si un acquittement les clôture.
+
+Le procureur du Roi dispose d'un délai de trois mois à compter du jour de la réception du procès-verbal pour notifier sa décision au fonctionnaire désigné par le Roi. Dans le cas où le procureur du Roi renonce à intenter des poursuites pénales ou omet de notifier sa décision dans le délai fixé, le fonctionnaire désigné par le Roi, suivant les modalités et conditions qu'il fixe, décide, après avoir mis l'intéressé en mesure de présenter ses moyens de défense s'il y a lieu de proposer une amende administrative du chef de l'infraction.
+
+§ 4. Dans le cadre du paragraphe 2, b), le fonctionnaire peut proposer à l'auteur d'une infraction une amende administrative, après avoir mis l'intéressé en mesure de présenter ses moyens de défense.
+
+Si aucune proposition d'amende administrative n'est faite, le procès-verbal est transmis au procureur de Roi. Si une proposition d'amende administrative a été faite, une copie du procès-verbal est transmise au procureur du Roi à titre informatif.
+
+§ 4bis. Le montant de l'amende administrative visée aux paragraphes 3 et 4 ne peut être inférieur à la moitié du minimum de l'amende prévue par la disposition légale violée, ni supérieur à un vingtième du maximum de cette amende.
+
+Ces montants sont majorés des décimes additionnels fixés pour les amendes pénales.
+
+[<sup>4</sup> ...]<sup>4</sup>
+
+§ 5. En cas de concours d'infractions, les montants des amendes administratives sont cumulés, sans que leur total puisse excéder le maximum prévu à l'article 17, § 1er, deuxième alinéa.
+
+§ 6. Le paiement de l'amende administrative visée aux paragraphes 3 et 4 éteint l'action publique.
+
+§ 7. [<sup>6</sup> Si l'intéressé reste en défaut de payer l'amende visée au paragraphe 4 dans le délai prévu, le dossier est transmis au procureur du Roi. Le procureur du Roi dispose d'un délai de trois mois à compter du jour de la réception du dossier pour décider s'il y a lieu ou non de poursuivre pénalement et pour notifier sa décision au fonctionnaire désigné par le Roi. Les poursuites pénales excluent l'application d'une amende administrative, même si un acquittement les clôture.
+
+Dans le cas où le procureur du Roi renonce à intenter des poursuites pénales ou omet de notifier sa décision dans le délai fixé, le fonctionnaire peut poursuivre le paiement de l'amende devant le tribunal compétent. Les dispositions du Code judiciaire, notamment la quatrième Partie, Livre II et Livre III, sont d'application.]<sup>6</sup>
+
+§ 7bis. Si l'intéressé demeure en défaut de payer l'amende, mentionné au paragraphe 3 dans le délai fixé, le fonctionnaire poursuit le paiement de l'amende devant le tribunal compétent. Les dispositions du Code judiciaire, notamment la quatrième Partie, Livre II et Livre III, sont d'application.]<sup>1</sup>
+
+[<sup>7</sup> § 7ter. Aux fins des paragraphes 7, alinéa 2, et 7bis, le tribunal de Bruxelles est compétent à l'égard de l'intéressé qui n'est pas établi en Belgique.]<sup>7</sup>
+
+§ 8. Il ne peut être infligé d'amende administrative cinq ans après le fait constitutif d'une infraction prévue par la présente loi.
+
+Toutefois, les actes d'instruction ou de poursuite faits dans le délai déterminé à l'alinéa premier en interrompent le cours.
+
+Ces actes font courir un nouveau délai d'égale duree, même à l'égard des personnes qui n'y sont pas impliquées.
+
+§ 9. Le Roi détermine, par arrêté délibéré en Conseil des Ministres, les règles de procédure applicables en matière d'amendes administratives.
+
+§ 10. La personne morale dont le contrevenant est l'organe ou le préposé est également responsable du paiement de l'amende administrative.
+
+(§ 11. Le présent article ne s'applique pas aux contrôles effectués par l'Agence fédérale pour la sécurité de la Chaîne alimentaire.) &lt;L 2003-12-22/42, art. 181, 004; En vigueur : 10-01-2004&gt;
+
+----------
+
+(1)&lt;L 2009-09-10/34, art. 10, 010; En vigueur : 19-04-2010&gt;
+
+(2)&lt;L 2011-07-27/13, art. 27, 012; En vigueur : 29-08-2011&gt;
+
+(3)&lt;L 2014-04-25/A1, art. 19, 013; En vigueur : 27-06-2014&gt;
+
+(4)&lt;L 2014-05-15/65, art. 7, 014; En vigueur : 09-08-2014&gt;
+
+(5)&lt;L 2015-12-16/06, art. 11, 015; En vigueur : 31-12-2015&gt;
+
+(6)&lt;L 2015-12-16/06, art. 20, 015; En vigueur : 31-12-2015&gt;
+
+(7)&lt;L 2023-04-26/06, art. 14, 020; En vigueur : 15-06-2023&gt;
+
+## CHAPITRE VII. - Dispositions finales, modificatives, abrogatoires et transitoires.
+
+##### Art. 19
+
+(§ 1.) Sans préjudice de l'association des gouvernements des régions prescrite par l'article 6, § 4, 1°, de la loi spéciale du 8 août 1980 de réformes institutionnelles, (le Ministre soumet les projets d'arrêtés royaux pris) en exécution des articles 5, §§ 1er et 2, 9 et 14 de la présente loi à l'avis du Conseil fédéral du développement durable, du Conseil supérieur d'hygiène publique, du [<sup>2</sup> Commission consultative spéciale Consommation ]<sup>2</sup> [<sup>1</sup> , du Conseil central de l'Economie et du Conseil national du Travail pour les affaires qui relèvent de sa compétence]<sup>1</sup>. &lt;L 2003-03-28/42, art. 14, 003; En vigueur : 09-05-2003&gt;
+
+(Le Ministre fixe, dans sa demande d'avis, le délai dans lequel celui-ci doit être rendu. Le délai est de trois mois sauf dans le cas où la nécessité d'un délai plus bref est démontrée. Ce délai ne peut être inférieur à un mois. A défaut d'avis émis dans le délai fixé dans la demande, l'avis n'est plus requis.) &lt;L 2003-03-28/42, art. 14, 003; En vigueur : 09-05-2003&gt;
+
+(§ 2. Pour les décisions résultant d'une simple transposition des dispositions minimales des mesures d'harmonisation sur le plan européen, les consultations mentionnées au § 1er ne sont pas obligatoires, mais celles-ci seront portees à la connaissance des Conseils mentionnés au § 1er.
+
+Les projets d'arrêté royaux qui concretisent la marge politique prévue par la directive ou qui contiennent d'autres éléments que ceux nécessaires pour la transposition de la directive, doivent quand même être soumis pour avis.) &lt;L 2003-03-28/42, art. 14, 003; En vigueur : 09-05-2003&gt;
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 10, 012; En vigueur : 29-08-2011&gt;
+
+(2)&lt;AR 2017-12-13/14, art. 11,3°, 016; En vigueur : 01-01-2018&gt;
+
+##### Art. 19bis
+
+&lt;Inséré par L 2003-03-28/42, art. 15; En vigueur : 09-05-2003&gt; § 1er. Les annexes des arrêtés pris en exécution des directives de [<sup>1</sup> l'Union]<sup>1</sup> européenne relative aux normes de produits visant à protéger la santé publique et l'environnement peuvent être publiées par extraits au Moniteur belge.
+
+§ 2. Le texte intégral des annexes mentionnées au § 1er est accessible au public d'une part, par voie informatique accessible au public et d'autre part, via un support magnétique diffusé au prix coûtant.
+
+En outre, le public peut aussi, via l'administration concernée, avoir accès au texte intégral des annexes.
+
+§ 3. Le Roi détermine :
+
+1° le voie informatique accessible au public grâce auquel celui-ci pourra prendre connaissance du texte intégral des annexes visées au § 1er;
+
+2° la nature et la structure du support magnétique sur lequel sera enregistré le texte intégral des annexes visées au § 1er;
+
+3° les conditions dans lesquelles l'administration concernée distribue, aux personnes qui le demandent, les annexes visées au § 1er dans leur intégralité ou par extraits;
+
+4° les conditions dans lesquelles le public peut via l'administration concernée, avoir accès au texte intégral des annexes visées au § 1er.
+
+----------
+
+(1)&lt;L 2015-12-16/06, art. 11, 015; En vigueur : 31-12-2015&gt;
+
+##### Art. 20
+
+Les personnes ou établissements qui ne sont pas des autorités administratives et qui, dans le cadre de la présente loi, de ses arrêtés d'exécution ou des règlements repris à l'[<sup>1</sup> annexe I]<sup>1</sup>, ont pris connaissance de données confidentielles concernant un produit, ne peuvent communiquer ces données à des tiers, sauf s'ils y sont autorisés par les autorités compétentes et ce, dans les limites de leurs attributions. Le Roi [<sup>1</sup> peut déterminer]<sup>1</sup> les données qui doivent être considérées comme confidentielles et peut imposer des mesures complémentaires relatives à la confidentialité des données.
+
+----------
+
+(1)&lt;L 2009-09-10/34, art. 11, 010; En vigueur : 19-10-2009&gt;
+
+##### Art. 20bis
+
+&lt;L 2004-07-09/30, art. 212, 005; En vigueur : 25-07-2004&gt; [<sup>1</sup> § 1er.]<sup>1</sup> Sans préjudice de l'article 57 de la loi du 21 décembre 1994 portant des dispositions sociales et diverses et de l'article 82 de la loi du 24 décembre 1976 relative aux propositions budgétaires 1976-1977, le Roi peut fixer, par arrêté délibéré en Conseil des ministres, des rétributions et des cotisations afin de financer des missions de l'administration ou de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire qui résultent de l'application (des articles 5, 7, 8, 8bis, 9, 10, et 15 de la présente loi et des règlements mentionnés en annexe de la présente loi). &lt;L 2004-12-27/30, art. 235, 006; En vigueur : 10-01-2005&gt;
+
+Elles peuvent être exigées des personnes qui mettent sur le marché des produits ou cherchent à repondre aux conditions afin de pouvoir mettre ou maintenir leurs produits sur le marché.
+
+L'arreté royal pris en vertu de l'alinéa 1er qui exige des cotisations est abrogé de plein droit avec effet rétroactif à la date de son entrée en vigueur lorsqu'il n'a pas été confirmé par le législateur [<sup>2</sup> au plus tard pour la fin de l'année civile qui suit celle de la publication de l'arrêté royal]<sup>2</sup>.
+
+Lorsqu'elles ne sont pas afférentes aux missions de l'Agence fédérale pour la Sécurité de la Chaîne alimentaire, ces cotisations et rétributions, sont destinées au Fonds pour les matières premières et les produits, visé a la sous-rubrique 31-2 du tableau annexé à la loi du 27 décembre 1990 créant des fonds budgétaires.
+
+Le Roi fixera également le montant et les modalités du paiement des rétributions et des cotisations visées à l'alinéa 1er.
+
+[<sup>1</sup> § 2. Sans préjudice de l'article 57 de la loi du 21 décembre 1994 portant des dispositions sociales et diverses et de l'article 82 de la loi du 24 décembre 1976 relative aux propositions budgétaires 1976-1977, les redevances mentionnées à l'article 14, du Règlement (CE) n° 340/2008 de la Commission relatif aux redevances et aux droits dus à l'Agence européenne des produits chimiques en application du règlement (CE) n° 1907/2006 du parlement européen et du Conseil concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH) sont transférées au Fonds pour les matières premières et les produits, visé dans la loi organique créant des fonds budgétaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-09-10/34, art. 12, 010; En vigueur : 19-10-2009&gt;
+
+(2)&lt;L 2023-04-26/06, art. 15, 020; En vigueur : 15-06-2023&gt;
+
+##### Art. 20ter
+
+&lt;Inséré par L 2003-03-28/42, art. 17; En vigueur : 09-05-2003&gt; Le ministre peut conclure des protocoles avec les autres ministres concernés afin de réglementer les aspects liés à cette loi et à ses arrêtés d'exécution relatifs à :
+
+1° la repartition des compétences et des missions relatives à la surveillance et au contrôle;
+
+2° la préparation des réglementations.
+
+##### Art. 21
+
+§ 1er. Dans la loi du 11 juillet 1969 relative aux pesticides et aux matières premieres pour l'agriculture, l'horticulture, la sylviculture et l'elevage :
+
+1° à l'article 2, § 1er, entre le mot " animale " et les mots " le Roi peut ", est inséré le membre de phrase " ainsi qu'en vue de promouvoir des modes de production durables ";
+
+2° l'intitulé du Titre II est modifié comme suit : " Mesures relatives aux pesticides à usage agricole. ";
+
+3° l'article 4 est remplacé par la disposition suivante :
+
+" Art. 4. Sans préjudice de l'application des dispositions légales relatives aux médicaments, il faut entendre par pesticides, les produits destinés à assurer la destruction ou à prévenir l'action des animaux, végétaux, micro-organismes et virus nuisibles; ces pesticides comportent les matières visées à l'article 1er, 2 de la présente loi. Les biocides visés à l'article 8 de la loi du 21 décembre 1998 relative aux normes de produits ayant pour but la promotion de modes de production et de consommation durables et la protection de l'environnement et de la santé sont exclus du champ d'application de la présente loi. ";
+
+4° à l'article 5, § 1er :
+
+a) entre les mots " santé publique " et les mots " le Roi peut " de la phrase introductive, est inséré le membre de phrase " ainsi qu'en vue de promouvoir des modes de production durables ";
+
+b) la disposition au point 7° est abrogée;
+
+c) la disposition au point 8° est remplacée par la disposition suivante :
+
+" 8° soumettre les activités visées au 2° et au 3°, à l'avis conforme et motivé du Ministre de l'Agriculture ou de son délégué. ";
+
+5° l'article 5, § 2, est abrogé.
+
+§ 2. A l'article 3, § 2, de la loi du 26 mars 1971 relative à la protection des eaux de surface contre la pollution, les mots " l'importation " et " la vente " sont supprimés.
+
+§ 3. A l'article 1er, 3°, de la loi du 18 juillet 1973 relative à la lutte contre le bruit, les mots " l'importation ", " l'exportation " et " le transit " et le membre de phrase " l'offre en vente, la vente, la cession à titre onéreux ou gratuit, la distribution ", sont supprimés.
+
+§ 4. A l'article 3, § 1er, de la loi du 12 juillet 1985 relative à la protection de l'homme et de l'environnement contre les effets nocifs et les nuisances provoqués par les radiations non ionisantes, les infrasons et les ultrasons, les mots " l'importation, " et " le transit, " et le membre de phrase " l'offre en vente, la cession à titre onéreux ou gratuit, " sont supprimés.
+
+##### Art. 22
+
+Les dispositions réglementaires relevant du champ d'application de la présente loi restent en vigueur jusqu'à leur modification, abrogation ou remplacement par des arrêtés pris en exécution de la présente loi.
+
+Les infractions aux dispositions réglementaires existantes visées au premier alinéa, commises après l'entrée en vigueur de la présente loi, sont punies des peines prévues par la présente loi.
+
+## ANNEXE.
+
+##### Art. N1
+
+(Annexe I.) - [<sup>5</sup> Règlements de l'Union européenne auxquels s'appliquent les sanctions prévues aux articles 17 et 18 de la présente loi.]<sup>5</sup>
+
+[<sup>2</sup> [<sup>4</sup> Règlement (UE) n° 649/2012 du Parlement européen et du Conseil du 4 juillet 2012 concernant les exportations et importations de produits chimiques dangereux]<sup>4</sup> ]<sup>2</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>2</sup> Règlement (CE) n° 1005/2009 du Parlement européen et du Conseil du 16 septembre 2009 relatif à des substances qui appauvrissent la couche d'ozone]<sup>2</sup>
+
+(Règlement (CE) n° 648/2004 du Parlement européen et du Conseil du 31 mars 2004 relatif aux détergents, JO 2004, L 104/1.) &lt;L 2004-12-27/30, art. 237, 006; En vigueur : 10-01-2005&gt;
+
+[<sup>6</sup> Règlement (UE) 2019/1021 du Parlement européen et du Conseil du 20 juin 2019 concernant les polluants organiques persistants]<sup>6</sup>
+
+[<sup>5</sup> Règlement (UE) n° 517/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif aux gaz à effet de serre fluorés et abrogeant le Règlement (CE) n° 842/2006.]<sup>5</sup>
+
+[<sup>1</sup> Règlement (CE) n° 1907/2006 du Parlement européen et du Conseil du 18 décembre 2006 concernant l'enregistrement, l'évaluation et l'autorisation des substances chimiques ainsi que les restrictions applicables à ces substances (REACH), instituant une agence européenne des produits chimiques modifiant la directive 1999/45/CE et abrogeant le règlement (CEE) n° 793/93 du Conseil et le règlement (CE) n° 1488/94 de la Commission ainsi que la directive 76/769/CEE du Conseil et les directives 91/155/CEE, 93/67/CEE, 93/105/CE et 2000/21/CE de la Commission.]<sup>1</sup>
+
+[<sup>2</sup> [<sup>6</sup> Règlement (UE) 2017/852 du Parlement européen et du Conseil du 17 mai 2017 relatif au mercure et abrogeant le Règlement (CE) n° 1102/2008]<sup>6</sup>
+
+Règlement (CE) n° 1272/2008 du Parlement européen et du Conseil du 16 décembre 2008 relatif à la classification, à l'étiquetage et à l'emballage des substances et des mélanges, modifiant et abrogeant les Directives 67/548/CEE et 1999/45/CE et modifiant le Règlement (CE) n° 1907/2006
+
+Règlement (CE) n° 1107/2009 du Parlement européen et du Conseil du 21 octobre 2009 concernant la mise sur le marché des produits phytopharmaceutiques et abrogeant les directives 79/117/CEE et 91/414/CEE du Conseil
+
+Règlement (UE) n° 547/2011 du Parlement européen et du Conseil du 8 juin 2011 portant application du Règlement (CE) n° 1107/2009 du Parlement européen et du Conseil concernant les exigences en matière d'étiquetage de produits phytopharmaceutiques
+
+Règlement (CE) n° 2173/2005 du Conseil concernant la mise en place d'un régime d'autorisation FLEGT relatif aux importations de bois dans la Communauté européenne.]<sup>2</sup>
+
+[<sup>3</sup> [<sup>6</sup> Règlement (CE) n° 2020/740 du Parlement européen et du Conseil du 25 mai 2020 sur l'étiquetage des pneumatiques en relation avec l'efficacité en carburant et d'autres paramètres, modifiant le Règlement (UE) 2017/1369 et abrogeant le Règlement (CE) n° 1222/2009]<sup>6</sup>
+
+Règlement (UE) n° 995/2010 du Parlement européen et du Conseil du 20 octobre 2010 établissant les obligations des opérateurs qui mettent du bois et des produits dérivés sur le marché
+
+Règlement (UE) n° 528/2012 du Parlement européen et du Conseil du 22 mai 2012 concernant la mise à disposition sur le marché et l'utilisation des produits biocides
+
+Règlement (CE) n° 66/2010 du Parlement européen et du Conseil du 25 novembre 2009 établissant le label écologique de l'UE]<sup>3</sup>
+
+[<sup>6</sup> Règlement (UE) 2016/1628 du Parlement européen et du Conseil du 14 septembre 2016 relatif aux exigences concernant les limites d'émission pour les gaz polluants et les particules polluantes et la réception par type pour les moteurs à combustion interne destinés aux engins mobiles non routiers, modifiant les Règlements (UE) n° 1024/2012 et (UE) n° 167/2013 et modifiant et abrogeant la Directive 97/68/CE;
+
+Règlement 2019/1020 du Parlement européen et du Conseil du 20 juin 2019 relatif à la surveillance du marché et à la conformité des produits et modifiant la Directive 2004/42/CE et les Règlements (UE) n° 765/2008 et (UE) n° 305/201;]<sup>6</sup>
+
+[<sup>7</sup> Règlement (UE) 2023/1542 du Parlement européen et du Conseil du 12 juillet 2023 relatif aux batteries et aux déchets batteries, modifiant la directive 2008/98/CE et le règlement (UE) 2019/1020, et abrogeant la directive 2006/66/CE;
+
+Règlement (UE) 2023/1115 du Parlement européen et du Conseil du 31 mai 2023 relatif à la mise à disposition sur le marché de l'Union et à l'exportation à partir de l'Union de certains produits de base et produits associés à la déforestation et à la dégradation des forêts, et abrogeant le règlement (UE) n° 995/2010.]<sup>7</sup>
+
+----------
+
+(1)&lt;L 2009-09-10/34, art. 13, 010; En vigueur : 19-10-2009&gt;
+
+(2)&lt;L 2011-07-27/13, art. 29, 012; En vigueur : 29-08-2011&gt;
+
+(3)&lt;L 2014-04-25/A1, art. 21, 013; En vigueur : 27-06-2014&gt;
+
+(4)&lt;L 2014-05-15/65, art. 8, 014; En vigueur : 09-08-2014&gt;
+
+(5)&lt;L 2015-12-16/06, art. 21, 015; En vigueur : 31-12-2015&gt;
+
+(6)&lt;L 2023-04-26/06, art. 16, 020; En vigueur : 15-06-2023&gt;
+
+(7)&lt;L 2024-05-03/21, art. 54, 022; En vigueur : 10-06-2024&gt;
+
+##### Art. N2
+
+&lt;Inséré par L 2007-05-11/61, art. 5; En vigueur : 11-08-2007&gt; Annexe II. - Marquage CE (visé à l'article14quinquies, § 1er, deuxième alinéa)
+
+(Emblème non repris pour motifs techniques. Voir M.B. 10-07-2007, p. 37494).
+
+Le marquage CE doit avoir une taille minimale de 5 mm. En cas de réduction ou d'agrandissement du marquage CE, les proportions données dans le graphisme gradué figurant ci-dessus doivent être respectées.
+
+Le marquage CE doit être apposé sur le [<sup>1</sup> produit lié à l'énergie]<sup>1</sup>. Lorsque cela n'est pas possible, il doit être apposé sur l'emballage et sur les documents d'accompagnement.
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 24, 012; En vigueur : 20-11-2010&gt;
+
+##### Art. N3
+
+&lt;Inséré par L 2007-05-11/61, art. 5; En vigueur : 11-08-2007&gt; Annexe III. - Déclaration de conformité (visé à l'article 14quinquies, § 1er, troisième alinéa)
+
+La déclaration de conformité CE doit contenir les éléments suivants :
+
+1\. le nom et l'adresse du fabricant ou de son mandataire;
+
+2\. une description du modèle suffisante pour permettre une identification sans équivoque;
+
+3\. le cas échéant, les références des normes harmonisées appliquees;
+
+4\. le cas échéant, les autres normes et spécifications techniques utilisées;
+
+5\. le cas echéant, la référence à d'autres textes communautaires relatifs à l'apposition du marquage CE;
+
+6\. l'identification et la signature de la personne habilitée à agir au nom du fabricant ou de son mandataire.
+
+##### Art. N4
+
+&lt;Inséré par L 2007-05-11/61, art. 5; En vigueur : 11-08-2007&gt; Annexe IV. - Contrôle interne de la conception (visé à l'article 14undecies, § 1er)
+
+1\. La présente annexe décrit la procédure par laquelle le fabricant ou son mandataire qui s'acquitte des obligations énoncées au point 2 de la présente annexe assure et déclare que le [<sup>1</sup> produit lié à l'énergie]<sup>1</sup> satisfait aux exigences pertinentes de la mesure d'exécution applicable. La déclaration de conformité peut s'appliquer à un ou plusieurs produits et doit être conservée par le fabricant.
+
+2\. Un dossier de documentation technique rendant possible d'évaluer la conformité du [<sup>1</sup> produit lié à l'énergie]<sup>1</sup> avec les exigences de la mesure d'exécution applicable est établi par le fabricant.
+
+La documentation contient notamment :
+
+a) une description générale du [<sup>1</sup> produit lié à l'énergie]<sup>1</sup> et de son usage prévu;
+
+b) les résultats des études d'évaluation de l'impact environnemental du produit effectuées par le fabricant et/ou des références à des ouvrages spécialisés ou à des études de cas d'évaluation de l'impact sur l'environnement utilisés par le fabricant pour évaluer, documenter et déterminer les solutions envisageables pour la conception du produit;
+
+c) le profil écologique, s'il est requis au titre de la mesure d'exécution;
+
+d) les éléments de la spécification de la conception du produit relatifs aux aspects de la conception environnementale du produit;
+
+e) une liste des normes appropriées visées à l'article 17, appliquées en totalité ou en partie, et une description des solutions adoptées pour répondre aux exigences de la mesure d'exécution applicable, lorsque les normes visées à l'article 17 n'ont pas été appliquées ou lorsque ces normes ne couvrent pas totalement les exigences de la mesure d'exécution applicable;
+
+f) une copie des informations relatives aux aspects de la conception environnementale du produit fournie en application des exigences visées à l'annexe Ire, partie 2;
+
+g) les résultats des mesures effectuées aux fins des exigences d'écoconception, y compris les informations relatives à la conformité de ces mesures avec les exigences d'écoconception établies dans la mesure d'exécution applicable.
+
+3\. Le fabricant doit prendre toutes les mesures nécessaires pour garantir que le produit sera fabriqué conformément aux specifications de conception visées au point 2 et aux exigences de la mesure d'exécution qui lui sont applicables.
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 24, 012; En vigueur : 20-11-2010&gt;
+
+##### Art. N5
+
+&lt;Inséré par L 2007-05-11/61, art. 5; En vigueur : 11-08-2007&gt; Annexe V. - Système de management pour l'évaluation de la conformité (visé à l'article 14undecies, § 1er)
+
+1\. La présente annexe decrit la procédure par laquelle le fabricant qui s'acquitte des obligations énoncées au point 2 de la présente annexe assure et déclare que le [<sup>1</sup> produit lié à l'énergie]<sup>1</sup> satisfait aux exigences de la mesure d'exécution applicable. La déclaration de conformité peut s'appliquer à un ou plusieurs produits et doit être conservée par le fabricant.
+
+2\. Un système de management peut être utilisé pour l'évaluation de la conformité d'un [<sup>1</sup> produit lié à l'énergie]<sup>1</sup> à condition que le fabricant applique les éléments environnementaux précisés au point 3 de la présente annexe.
+
+3\. Eléments environnementaux du système de management
+
+Le présent point précise les éléments que doit comporter un système de management et les procédures par lesquelles le fabricant peut apporter la preuve de la conformité du [<sup>1</sup> produit lié à l'énergie]<sup>1</sup> avec les exigences de la mesure d'exécution applicable.
+
+3.1. Politique concernant la performance environnementale du produit
+
+Le fabricant doit être à même de démontrer la conformité avec les exigences de la mesure d'execution applicable. Il doit également être à même d'offrir un cadre à l'établissement et à l'examen des objectifs et indicateurs de performance environnementale en vue d'améliorer la performance environnementale globale du produit.
+
+Toutes les mesures adoptees par le fabricant pour améliorer la performance environnementale globale d'un [<sup>1</sup> produit lié à l'énergie]<sup>1</sup> et en établir le profil écologique, si la mesure d'exécution l'exige, par la conception et la fabrication, doivent être documentées de manière systématique et cohérente, sous forme de procédures et d'instructions écrites.
+
+Ces procédures et instructions comprennent, en particulier, une description appropriée :
+
+\- de la liste des documents qui doivent être élaborés pour démontrer la conformité du [<sup>1</sup> produit lié à l'énergie]<sup>1</sup> et - s'il y a lieu - qui doivent être présentés,
+
+\- des objectifs et indicateurs de performance environnementale du produit, de l'organigramme, des responsabilités, des pouvoirs de l'encadrement et de la répartition des ressources en matière de mise en oeuvre et d'entretien,
+
+\- des examens et essais qui seront effectués après la fabrication afin de comparer les performances du produit par rapport aux indicateurs de performance environnementale,
+
+\- des procedures de contrôle de la documentation requise et qui garantissent la tenue à jour de celle-ci,
+
+\- de la méthode de vérification de l'application et de l'efficacité des éléments environnementaux du système de management.
+
+3.2. Planification
+
+Le fabricant établit et gère :
+
+a) les procédures permettant d'établir le profil écologique du produit;
+
+b) les objectifs et indicateurs de performance environnementale du produit relatifs aux options technologiques tenant compte des exigences techniques et économiques;
+
+c) un programme de réalisation de ces objectifs.
+
+3.3. Mise en oeuvre et documentation
+
+3.3.1. La documentation relative au système de management devrait comprendre ce qui suit, notamment :
+
+a) les responsabilités et compétences sont définies et documentées en vue de garantir une bonne performance environnementale du produit et de rendre compte de son fonctionnement à des fins d'examen et d'amélioration;
+
+b) une documentation est établie indiquant les techniques de contrôle et de vérification du modèle mis en oeuvre et les processus et mesures systématiques appliqués lors de la conception du produit;
+
+c) le fabricant établit et gère les informations décrivant les éléments environnementaux clés du système de management et les procédures de contrôle de l'ensemble de la documentation requise.
+
+3.3.2. La documentation relative au [<sup>1</sup> produit lié à l'énergie]<sup>1</sup> comporte notamment :
+
+a) une description générale du [<sup>1</sup> produit lié à l'énergie]<sup>1</sup> et de son usage prévu;
+
+b) les résultats des etudes d'évaluation de l'impact environnemental du produit effectuées par le fabricant et/ou des références à des ouvrages spécialisés ou à des études de cas d'évaluation de l'impact sur l'environnement utilisés par le fabricant pour évaluer, documenter et déterminer les solutions envisageables pour la conception du produit;
+
+c) le profil écologique, si la mesure d'exécution l'exige;
+
+d) des documents décrivant les résultats des mesures effectuées aux fins des exigences en matiere d'écoconception, y compris les informations relatives à la conformité de ces mesures avec les exigences en matière d'écoconception établies dans la mesure d'exécution applicable;
+
+e) des spécifications établies par le fabricant et précisant, en particulier, les normes appliquées; lorsque les normes visées à l'article 17 ne sont pas mises en oeuvre ou lorsqu'elles ne couvrent pas entièrement les exigences de la mesure d'exécution applicable, les moyens utilisés pour assurer la conformité sont indiqués;
+
+f) une copie des informations relatives aux aspects de la conception environnementale du produit fournie en application des exigences visées à l'annexe Ire, partie 2.
+
+3.4. Vérification et action corrective
+
+a) Le fabricant doit prendre toutes les mesures nécessaires pour garantir que le [<sup>1</sup> produit lié à l'énergie]<sup>1</sup> soit fabriqué conformément à sa spécification de conception et aux exigences de la mesure d'execution qui lui est applicable;
+
+b) Le fabricant établit et gère les procédures de recherche et de traitement des cas de non-conformité et apporte aux procédures écrites les modifications résultant de l'action corrective;
+
+c) Le fabricant procède au moins une fois tous les trois ans à un audit interne complet du système de management pour ce qui concerne ses éléments environnementaux.
+
+----------
+
+(1)&lt;L 2011-07-27/13, art. 24, 012; En vigueur : 20-11-2010&gt;
+
+##### Art. N6
+
+[<sup>1</sup> Annexe VI. Liste de réglementations dont la violation doit être pénalement sanctionnée au regard de l'article 17, §§ 2quater et 2quinquies, en cas de rejet, émission ou introduction dans l'atmosphère, les eaux ou le sol causant ou susceptibles de causer la mort ou de graves lésions à des personnes
+
+1° Arrêté royal du 5 décembre 2004 concernant l'établissement des normes de produits pour des moteurs à combustion interne aux engins mobiles non routiers.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-12-29/01, art. 83, 011; En vigueur : 10-01-2011&gt;
+
+##### Art. N7
+
+[<sup>1</sup> Annexe VII. Liste des réglementations dont la violation doit être pénalement sanctionnée au regard de l'article 17, §§ 2quater et 2quinquies, en cas de rejet, émission ou introduction dans l'atmosphère, les eaux ou le sol causant ou susceptibles de causer une dégradation substantielle de la qualité de l'air, de l'eau ou du sol ou de la faune et de la flore
+
+1° [<sup>3</sup> Arrêté royal du 8 mai 2014 relatif à la mise à disposition sur le marché et l'utilisation des produits biocides;]<sup>3</sup>
+
+2° Règlement (CE) n° 1107/2009 du Parlement européen et du Conseil du 21 octobre 2009 concernant la mise sur le marché des produits phytopharmaceutiques et abrogeant les Directives 79/117/CEE et 91/414/CEE du Conseil;
+
+3° L'annexe XVII du Règlement REACH (CE);
+
+4° Règlement (CE) n° 648/2004 du Parlement européen et du Conseil du 31 mars 2004 relatif aux détergents;
+
+5° [<sup>4</sup> Règlement (UE) 2019/1021 du Parlement européen et du Conseil du 20 juin 2019 concernant les polluants organiques persistants]<sup>4</sup>
+
+6° [<sup>3</sup> Règlement (UE) n° 517/2014 du Parlement européen et du Conseil du 16 avril 2014 relatif aux gaz à effet de serre fluorés et abrogeant le Règlement (CE) n° 842/2006;]<sup>3</sup>
+
+7° Règlement (CE) n° 1005/2009 du Parlement européen et du Conseil du 16 septembre 2009 relatif à des substances qui appauvrissent la couche d'ozone;
+
+8° Arrêté royal du 27 mars 2009 relatif à la mise sur le marché et à l'information de l'utilisateur final des piles et accumulateurs, et abrogeant l'arrêté royal du 17 mars 1997 relatif aux piles et accumulateurs contenant certaines matières dangereuses;
+
+9° Arrêté royal du 25 mars 1999 portant fixation de normes de produits pour les emballages;
+
+10° Arrêté royal du 19 mars 2004 portant normes de produit de véhicules;
+
+11° [<sup>3</sup> Arrêté royal du 17 mars 2013 limitant l'utilisation de certaines substances dangereuses dans les équipements électriques et électroniques;]<sup>3</sup>]<sup>1</sup>
+
+[<sup>2</sup> 12° Règlement (UE) n° 528/2012 du Parlement européen et du Conseil du 22 mai 2012 concernant la mise à disposition sur le marché et l'utilisation des produits biocides;
+
+13° Arrêté royal du 2 février 1994 relatif à la conservation, à la mise sur le marché et à l'utilisation des pesticides à usage agricole.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2010-12-29/01, art. 83, 011; En vigueur : 10-01-2011&gt;
+
+(2)&lt;L 2014-04-25/A1, art. 22, 013; En vigueur : 27-06-2014&gt;
+
+(3)&lt;L 2015-12-16/06, art. 22, 015; En vigueur : 31-12-2015&gt;
+
+(4)&lt;L 2023-04-26/06, art. 17, 020; En vigueur : 15-06-2023&gt;
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revetue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 21 décembre 1998.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre de l'Economie,
+
+E. DI RUPO
+
+Le Ministre de l'Agriculture et Petites et Moyennes Entreprises,
+
+K. PINXTEN
+
+Le Ministre de la Santé publique,
+
+M. COLLA
+
+Le Secrétaire d'Etat à l'Environnement,
+
+J. PEETERS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+T. VAN PARYS

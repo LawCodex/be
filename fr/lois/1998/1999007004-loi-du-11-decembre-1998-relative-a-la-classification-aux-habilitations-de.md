@@ -1,0 +1,1446 @@
+---
+title: "[Loi du 11 décembre 1998 relative à la classification, aux habilitations de sécurité, aux avis de sécurité et au service public réglementé] <INTITULE remplacé par L 2024-06-02/09 , art. 2, 016; En vigueur : 01-02-2025>"
+identifier: "1999007004"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/11/1999007004/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1998-12-11
+published: 1999-05-07
+entry_into_force: 2000-06-01
+last_amended: 2024-07-08
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/11/1999007004/justel"
+department: "Défense Nationale"
+justel_note: "Consultation des versions antérieures à partir du 07-05-1999 et mise à jour au 08-07-2024"
+retrieved: 2026-10-11
+---
+
+# 11 DECEMBRE 1998. - [Loi du 11 décembre 1998 relative à la classification, aux habilitations de sécurité, aux avis de sécurité et au service public réglementé] &lt;INTITULE remplacé par L 2024-06-02/09 , art. 2, 016; En vigueur : 01-02-2025&gt;
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE I. [<sup>1</sup> - Disposition générale et définitions.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-04-07/44, art. 3, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+##### Art. 1bis
+
+[<sup>1</sup> Pour l'application de la présente loi et de ses arrêtés d'exécution, l'on entend par:
+
+1° "la classification": l'attribution d'un degré de protection par ou en vertu de la loi ou par ou en vertu des traités ou conventions liant la Belgique;
+
+2° "la déclassification": la suppression totale de tout degré de protection;
+
+3° "les informations classifiées": les informations, le matériel, les matériaux ou matières, quels qu'en soient la forme, la nature ou le mode de transmission, auxquels une classification a été attribuée et qui, dans l'intérêt de la sécurité nationale, nécessitent une protection contre tout accès non autorisé, toute utilisation et divulgation inappropriée;
+
+4° "l'utilisation des informations classifiées": toutes opérations dont des informations classifiées sont susceptibles de faire l'objet, comme la production, la prise de connaissance, le traitement, la finalisation, la reproduction, la conservation, le transport, la transmission, la diffusion, la déclassification, la modification du niveau de classification et la destruction;
+
+5° "l'autorité d'origine": l'autorité administrative sous l'autorité ou l'instruction de laquelle des informations classifiées sont générées par le titulaire d'une habilitation de sécurité dans les cas déterminés par la loi;
+
+6° "l'installation physique": l'environnement, le terrain, le bâtiment, les bureaux, les espaces et toutes les autres zones où des informations classifiées sont utilisées;
+
+7° "le système de communication et d'information": un système permettant d'utiliser des informations classifiées sous forme électronique;
+
+8° "le matériel cryptographique": les algorithmes cryptographiques, les modules matériels et logiciels cryptographiques, les produits comprenant les modalités de mise en oeuvre et la documentation y relative, ainsi que le matériel de mise à la clé;
+
+9° "l'enquête de sécurité": l'enquête effectuée par un service de renseignement et de sécurité qui vise à établir que toutes les conditions nécessaires à la délivrance d'une habilitation de sécurité sont réunies, en tenant compte du niveau et de l'objet de l'habilitation de sécurité;
+
+10° "l'habilitation de sécurité": la décision officielle, établie après une enquête de sécurité, selon laquelle, pour accéder à des données auxquelles une classification de niveau CONFIDENTIEL ou supérieur, au sens de la présente loi, a été attribuée:
+
+a) une personne physique présente des garanties suffisantes quant à la discrétion, la loyauté et l'intégrité;
+
+b) une personne morale présente des garanties suffisantes quant à la discrétion, la loyauté et l'intégrité de ses organes et préposés susceptibles d'avoir accès à ces données;
+
+11° "l'approbation d'un système de communication et d'information": l'autorisation officielle d'utiliser un système de communication et d'information pour l'utilisation d'informations classifiées après que ce système a été soumis à une procédure d'approbation;
+
+12° "l'approbation d'une installation physique": l'autorisation officielled'utiliser une installation physique pour l'utilisation d'informations classifiées de niveau confidentiel ou supérieur, après que l'installation physique a été soumise à une procédure d'approbation;
+
+13° "l'approbation d'un produit cryptographique": l'autorisation officielle d'utiliser un produit cryptographique pour la protection des informations classifiées, après que ce produit a été soumis à une procédure d'approbation;
+
+14° "l'autorité de sécurité": l'une des autorités suivantes, selon le cas:
+
+a) l'Autorité nationale de sécurité;
+
+b) la Sûreté de l'Etat;
+
+c) le Service Général du Renseignement et de la Sécurité des Forces armées;
+
+15° "l'officier de sécurité":
+
+a) le fonctionnaire, titulaire d'une habilitation de sécurité, qui, dans une administration publique, un organisme d'intérêt public ou une entreprise publique autonome utilisant des informations classifiées, est désigné par le ministre ou son délégué ou, à défaut de tutelle d'un ministre, le chef de cette administration publique, de cet organisme d'intérêt public ou de cette entreprise publique autonome, pour veiller à l'observation des règles de sécurité;
+
+b) le membre du personnel, titulaire d'une habilitation de sécurité, qui au sein d'une personne morale titulaire d'une habilitation de sécurité, est désigné par la direction de la personne morale pour veiller à l'observation des règles de sécurité;
+
+c) le fonctionnaire, titulaire d'une habilitation de sécurité, qui, dans une administration publique, un organisme d'intérêt public ou une entreprise publique autonome, est désigné par le ministre ou son délégué ou, à défaut de tutelle d'un ministre, le chef de cette administration publique, de cet organisme d'intérêt public ou de cette entreprise publique autonome, pour veiller à l'observation des règles de sécurité dans le cadre d'un avis de sécurité ou d'une attestation de sécurité, ou le membre du personnel, titulaire d'une habilitation de sécurité, qui est désigné par la direction de la personne morale pour veiller à l'observation des règles de sécurité dans le cadre d'un avis de sécurité [<sup>2</sup> ...]<sup>2</sup>;
+
+d) le magistrat du ministère public, titulaire d'une habilitation de sécurité, qui est désigné par le chef de corps ci-dessous pour veiller à l'observation des règles de sécurité:
+
+\- le procureur fédéral en ce qui concerne le parquet fédéral;
+
+\- le procureur général concerné en ce qui concerne les parquets, les auditorats du travail, le parquet général et l'auditorat général de son ressort;
+
+\- le président du Collège des procureurs généraux en ce qui concerne le service d'appui du ministère public;
+
+16° "un service de renseignement et de sécurité": la Sûreté de l'Etat ou le Service Général du Renseignement et de la Sécurité des Forces armées;
+
+17° "la Décision 1104/2011/UE": la Décision n° 1104/2011/UE du Parlement européen et du Conseil du 25 octobre 2011 relative aux modalités d'accès au service public réglementé offert par le système mondial de radionavigation par satellite issu du programme Galileo;
+
+18° "le service public réglementé": le service public réglementé issu du système mondial de radionavigation par satellite Galileo, visé par la Décision 1104/2011/UE;
+
+19° "l'accès au service public réglementé": l'utilisation du service public réglementé et le fait de disposer d'équipement et des technologies destinés au service public réglementé, y compris la mise en service d'équipements et les actions destinées à tester, perturber ou falsifier le service public réglementé;
+
+20° "la communauté d'utilisateurs": un ensemble d'utilisateurs du service public réglementé, résidant ou établis sur le territoire belge et dont l'organisation et le fonctionnement sont conformes aux normes minimales communes adoptées en application de l'article 8 de la Décision 1104/2011/UE, qui par l'intermédiaire d'un point de contact commun, interagissent avec l'autorité compétente pour le service public réglementé;
+
+21° "l'équipement": les modules de sécurité et les récepteurs destinés au service public réglementé, ainsi que les instruments destinés à tester, approuver et faire fonctionner ces modules de sécurité et récepteurs;
+
+22° "les technologies": les logiciels, les matériels informatiques et les informations, y compris les clés, requis pour la recherche et le développement, la conception, l'approbation, la production ou l'utilisation d'équipements destinés au service public réglementé;]<sup>1</sup>
+
+[<sup>2</sup> 23° "l'avis de sécurité": la conclusion émise par l'autorité compétente quant au risque que représente un individu pour l'un des intérêts fondamentaux de l'Etat, tels que visés à l'article 12. Cette conclusion est le résultat d'une vérification de sécurité et est limitée aux situations visées à l'article 1erbis, 24°.
+
+Le Roi peut, par arrêté délibéré avec les ministres compétents, déterminer les modalités selon lesquelles un avis de sécurité s'applique à d'autres demandes de vérification d'une personne, en tenant compte de la comparabilité des finalités spécifiques, des risques qu'une personne fait peser sur la sécurité de l'infrastructure et de son contenu et/ou sur l'intégrité physique des personnes présentes et/ou sur la sécurité des informations présentes;
+
+24° "la vérification de sécurité": l'évaluation, au regard de la finalité spécifique de la demande de vérification, du risque que représente un individu pour la sécurité des infrastructures et leur contenu, et/ou pour l'intégrité physique des personnes présentes et/ou pour la sécurité des informations présentes:
+
+a) dans le cadre de l'exercice de sa profession, de sa fonction, de sa mission ou de son mandat;
+
+b) dans le cadre de son accès à des locaux, bâtiments, sites ou zones;
+
+c) lors d'un événement national, international, diplomatique ou protocolaire, de grande ampleur organisé par une autorité publique, ayant des compétences en matière de sécurité, désignée par le Roi ou en liaison avec les services de cette autorité sur lequel pèse une menace potentielle au sens de l'article 8, 1°, de la loi organique du 30 novembre 1998 des services de renseignement et de sécurité;
+
+d) lors d'un événement organisé ou sous la responsabilité des autorités visées aux articles 25 et 26;
+
+e) dans le cadre de sa détention d'un permis, d'une licence ou d'une autorisation; ou
+
+f) dans le cadre de son accès à des matières, à des informations, ou à des opérations que le Roi détermine.
+
+Cette évaluation repose sur la consultation, par les services compétents, des données et informations visées à l'article 32, § 1er, qu'ils gèrent ou qui leur sont directement disponibles ou accessibles dans le cadre de leurs missions, en vue de rechercher une éventuelle correspondance positive avec les données d'identification contenues dans le formulaire visé à l'article 31, § 1er;
+
+25° "le gestionnaire des avis de sécurité": la personne désignée au sein d'une personne morale de droit public ou privé qui est chargée du suivi administratif des dossiers individuels d'avis de sécurité au sein de son organisation et de la communication de toute information utile à l'autorité qui délivre les avis de sécurité et à l'autorité administrative compétente. Ce gestionnaire est en possession d'un avis de sécurité positif. Le Roi détermine les modalités de sa désignation et ses missions;
+
+26° "l'organe de recours": l'organe de recours créé par la loi du 11 décembre 1998 portant création d'un organe de recours en matière d'habilitations et d'avis de sécurité;
+
+27° "le Centre de crise National": le Centre gouvernemental de Coordination et de Crise créé par l'arrêté royal du 18 avril 1988 portant création du Centre gouvernemental de Coordination et de Crise.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-04-07/44, art. 4, 014; En vigueur : 31-12-2023&gt;
+
+(2)&lt;L 2024-06-02/09, art. 3, 016; En vigueur : 01-02-2025&gt;
+
+## CHAPITRE Ibis. [<sup>1</sup> - L'Autorité Nationale de Sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-04-07/44, art. 8, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 1ter
+
+[<sup>1</sup> L'Autorité nationale de Sécurité, visée à l'article 1bis, 14° a), est une autorité de sécurité, intégrée au sein de la Sûreté de l'Etat, dont le fonctionnement et l'organisation sont déterminés par le Roi, par arrêté délibéré en Conseil des ministres.
+
+Les compétences visées à l'article 1quater sont exercées sous l'autorité et la direction de l'administrateur général de la Sûreté de l'Etat ou son délégué, responsable de l'Autorité nationale de Sécurité ou à défaut de ce dernier, en cas de congé, d'absence ou d'empêchement, par son remplaçant, au minimum membres du personnel de niveau A relevant de l'Autorité nationale de Sécurité ou équivalent.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-12-19/08, art. 47, 013; En vigueur : 08-01-2024&gt;
+
+##### Art. 1quater
+
+[<sup>1</sup> L'Autorité Nationale de Sécurité exerce les compétences suivantes:
+
+1° la préparation de la politique belge de sécurité relative à la protection des informations classifiées;
+
+2° la préparation de la politique de sécurité internationale applicable à la Belgique relative à la protection des informations classifiées;
+
+3° le contrôle de la mise en place des mesures de protection telles que visées à l'article 7;
+
+4° la délivrance, la modification, la suspension et le retrait des habilitations de sécurité;
+
+5° la délivrance, la modification, la suspension et le retrait des approbations d'installations physiques;
+
+6° la délivrance, la modification, la suspension et le retrait des approbations de systèmes de communication et d'information, y compris les mesures destinées à prévenir la compromission par rayonnement électromagnétique;
+
+7° la délivrance, la modification, la suspension et le retrait des approbations de produits cryptographiques;
+
+8° la gestion et la distribution de matériel cryptographique;
+
+9° les interventions en tant qu'autorité belge responsable pour le service public réglementé telles que visées à l'article 5 de la Décision 1104/2011/UE;
+
+10° la coopération internationale dans le cadre de la présente loi et dans tous les cas où des conventions internationales attribuent des compétences et obligations à l'Autorité Nationale de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-04-07/44, art. 7, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 1quinquies
+
+[<sup>1</sup> La Sûreté de l'Etat exerce les compétences de l'Autorité Nationale de Sécurité visées à l'article 1quater, 3° à 6° et 10°, pour ce qui la concerne. [<sup>2</sup> Par dérogation, le chef du Service Général du Renseignement et de la Sécurité des Forces armées, ou, en cas d'empêchement, le chef faisant fonction, exerce les compétences visées à l'article 1quater, 4°, en ce qui concerne l'administrateur général de la Sûreté de l'Etat et son adjoint.]<sup>2</sup>
+
+Le Service Général du Renseignement et de la Sécurité des Forces armées exerce les compétences de l'Autorité Nationale de Sécurité visées à l'article 1quater, 3° à 8° et 10°, en ce qui concerne la Défense. [<sup>2</sup> Par dérogation, l'Administrateur général de la Sûreté de l'Etat, ou, en cas d'empêchement, le chef faisant fonction, exerce les compétences visées à l'article 1quater, 4°, en ce qui concerne le chef du Service Général du Renseignement et de la Sécurité des Forces armées et son adjoint.]<sup>2</sup>
+
+Les compétences visées à l'article 1quater, 4° à 7°, attribuées aux autorités visées aux alinéas 1er et 2 sont exercées par leur chef de service ou par un fonctionnaire de niveau A ou un officier supérieur délégué par lui.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-04-07/44, art. 8, 014; En vigueur : 31-12-2023&gt;
+
+(2)&lt;L 2024-06-02/09, art. 4, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 1sexies
+
+[<sup>1</sup> Des habilitations de sécurité et des approbations de systèmes de communication et d'information, d'installations physiques et de produits cryptographiques peuvent être modifiées, suspendues ou retirées si les règles relatives à la protection des informations classifiées ne sont pas respectées ou si les conditions pour la délivrance de l'habilitation de sécurité ou pour l'approbation de systèmes de communication et d'information, d'installations physiques ou de produits cryptographiques ne sont plus remplies.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-04-07/44, art. 9, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 1septies
+
+[<sup>1</sup> Le contrôle visé à l'article 1quater, 3°, consiste en l'exécution de contrôles et d'inspections quant à l'exécution correcte des dispositions des articles 7 et 8.
+
+L'Autorité Nationale de Sécurité peut formuler des recommandations et instructions en vue d'améliorer la protection des informations classifiées.
+
+Lorsque des manquements ou des infractions sont constatés, la personne morale, l'administration publique, l'organisme d'intérêt public ou l'entreprise publique autonome qui est concerné, met en place des mesures correctives.
+
+Le Roi fixe les modalités du contrôle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-04-07/44, art. 10, 014; En vigueur : 31-12-2023&gt;
+
+## CHAPITRE Iter. [<sup>1</sup> - L'officier de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-04-07/44, art. 11, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 1octies
+
+[<sup>1</sup> § 1er. L'officier de sécurité est chargé:
+
+1° de veiller à l'observation des règles de sécurité relatives à la protection des informations classifiées;
+
+2° de l'application des prescriptions relatives aux [<sup>2</sup> ...]<sup>2</sup> avis de sécurité, en particulier de la notification des éléments relatifs aux personnes qui ont reçu un avis de sécurité [<sup>2</sup> ...]<sup>2</sup> et qui peuvent mener à une modification de cet avis de sécurité [<sup>2</sup> ...]<sup>2</sup>.
+
+§ 2. Le Roi peut confier à l'officier de sécurité d'autres missions dans le cadre de l'application de la présente loi.
+
+§ 3. L'officier de sécurité exerce ses missions de façon complètement indépendante. Il fait rapport au dirigeant de l'administration publique, de l'organisme d'intérêt public ou de l'entreprise publique autonome, au chef de corps respectif du ministère public visé à l'article 1bis, 15°, d), ou au responsable d'une personne morale de droit privé.
+
+Il informe l'Autorité Nationale de Sécurité lorsque cela est prévu.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-04-07/44, art. 12, 014; En vigueur : 31-12-2023&gt;
+
+(2)&lt;L 2024-06-02/09, art. 5, 016; En vigueur : 01-02-2025&gt;
+
+## CHAPITRE II. [<sup>1</sup> - De la classification et de la déclassification.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-09-11/04, art. 1, 012; En vigueur : 07-10-2022&gt;
+
+##### Art. 2
+
+&lt;Abrogé par L 2023-04-07/44, art. 13, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 3
+
+[<sup>1</sup> § 1er.]<sup>1</sup> Peuvent faire l'objet d'une classification : les informations, documents ou données, le matériel, les matériaux ou matières, sous quelque forme que ce soit, [<sup>4</sup> dont l'accès non autorisé ou l'utilisation et la divulgation inappropriée peuvent]<sup>4</sup> porter atteinte à l'un des intérêts suivants :
+
+a) la défense de l'intégrité du territoire national et des plans de défense militaire;
+
+b) l'accomplissement des missions des forces armées;
+
+c) la sûreté intérieure de l'Etat, y compris dans le domaine de l'énergie nucléaire, et la pérennité de l'ordre démocratique et constitutionnel;
+
+d) la sûreté extérieure de l'Etat et les relations internationales de la Belgique;
+
+e) le potentiel scientifique et économique du pays;
+
+f) tout autre intérêt fondamental de l'Etat;
+
+g) la sécurité des ressortissants belges à l'étranger;
+
+h) le fonctionnement des organes décisionnels de l'Etat;
+
+(i ) la sécurité des personnes auxquelles [<sup>2</sup> en vertu des articles 104, § 2, ou 111quater, § 1er, du Code d'instruction criminelle]<sup>2</sup>, des mesures de protection spéciales sont octroyées;)
+
+[<sup>3</sup> j) l'identité des membres du personnel des services de renseignement et de sécurité, de la défense et de la police intégrée, de leurs sources et des personnes qui prêtent leur concours à ces services;
+
+k) l'accomplissement des missions des services de renseignement et de sécurité.]<sup>3</sup> &lt;L 2002-07-07/42, art. 7, 002; En vigueur : 20-08-2002&gt;
+
+[<sup>1</sup> § 2. Les matières nucléaires à usage pacifique réparties en catégories en vertu de l'article 17ter de la loi du 15 avril 1994 relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de contrôle nucléaire, ainsi que les documents nucléaires, tels que définis à l'article 1erbis de la même loi, ne sont pas classifiés au sens de la présente loi, sans préjudice des règles établies par ou en vertu des traités ou conventions qui lient la Belgique.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2011-03-30/11, art. 13, 006; En vigueur : 01-10-2012&gt;
+
+(2)&lt;L 2019-05-05/10, art. 120, 011; En vigueur : 03-06-2019&gt;
+
+(3)&lt;L 2022-09-11/04, art. 4, 012; En vigueur : 07-10-2022&gt;
+
+(4)&lt;L 2023-04-07/44, art. 14, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 4
+
+[<sup>1</sup> La classification visée à l'article 3, § 1er, comprend quatre niveaux: TRES SECRET, SECRET, CONFIDENTIEL et RESTREINT.
+
+Le niveau TRES SECRET est attribué lorsque l'utilisation inappropriée peut porter très gravement atteinte à un des intérêts visés à l'article 3, § 1er.
+
+Le niveau SECRET est attribué lorsque l'utilisation inappropriée peut porter gravement atteinte à un des intérêts visés à l'article 3, § 1er.
+
+Le niveau CONFIDENTIEL est attribué lorsque l'utilisation inappropriée peut porter atteinte à un des intérêts visés à l'article 3, § 1er.
+
+Le niveau RESTREINT est attribué lorsque l'utilisation inappropriée peut être défavorable à un des intérêts visés à l'article 3, § 1er.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, les autorités et les personnes qui peuvent octroyer, réviser et abroger un niveau de classification.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-04-07/44, art. 15, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 5
+
+Le degré de classification est déterminé d'après le contenu.
+
+Pour l'ensemble à classifier, il ne peut être donné qu'un seul degré de classification général. La classification de l'ensemble aura au moins le même degré que le degré de classification le plus élevé des composantes. L'ensemble peut, le cas échéant, recevoir un degré de classification général supérieur à celui de chacune des parties qui le composent.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2022-09-11/04, art. 5, 012; En vigueur : 07-10-2022&gt;
+
+##### Art. 5bis
+
+&lt;Inséré par L 2002-07-07/42, art. 8; En vigueur : 20-08-2002&gt; Dans le contexte de la protection spéciale des personnes visées à l'[<sup>1</sup> article 3, § 1er, i)]<sup>1</sup>, le degré de classification TRES SECRET est attribué à tous les documents pouvant révéler un lien entre l'ancienne et la nouvelle résidence de la personne protégée et/ou son identité.
+
+Cette classification est révoquée de plein droit lorsque la Commission de protection des témoins a retiré les mesures de protection spéciales.
+
+----------
+
+(1)&lt;L 2023-04-07/44, art. 16, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 6
+
+[<sup>1</sup> Les informations classifiées qui sont échangées dans le cadre de traités ou de conventions internationaux qui lient la Belgique, conservent la classification qui leur a été attribuée.]<sup>1</sup>
+
+Le Roi détermine les rapports entre les degrés de classification visés à l'article 4 et ceux qui découlent de traités ou de conventions internationaux qui lient la Belgique.
+
+----------
+
+(1)&lt;L 2023-04-07/44, art. 17, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 7
+
+[<sup>1</sup> § 1er. Le Roi fixe, par arrêté délibéré en Conseil des ministres, les modalités de la protection et de la déclassification des informations classifiées. La protection des informations classifiées comprend au moins les mesures de protection portant sur les cinq catégories suivantes:
+
+1° les mesures de protection applicables lors de la classification et de la gestion d'informations classifiées;
+
+2° les mesures de protection physiques;
+
+3° les mesures de protection des systèmes d'information et de communication;
+
+4° les mesures de protection relatives aux personnes;
+
+5° les mesures de protection liées aux marchés publics.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, les modalités concernant les procédures d'approbation visées à l'article 1bis, 11°, 12° et 13°.
+
+§ 2. Sauf dans les cas visés au paragraphe 3, alinéas 4 et 6, et au paragraphe 5, la classification expire après que l'autorité d'origine prend, conformément au paragraphe 3, la décision explicite de la déclassifier, au plus tard à l'issue du délai suivant, à compter de la finalisation de l'information classifiée:
+
+1° après vingt ans pour une classification de niveau CONFIDENTIEL;
+
+2° après trente ans pour une classification de niveau SECRET;
+
+3° après cinquante ans pour une classification de niveau TRES SECRET.
+
+L'autorité d'origine peut à tout moment décider de déclassifier ou de modifier la classification avant l'expiration du délai de déclassification.
+
+Le fait que des informations classifiées sont déclassifiées, est clairement marqué sur ces informations déclassifiées.
+
+En cas d'abaissement du niveau de classification, le délai après lequel la décision visée à l'alinéa 1er doit intervenir est celui prévu pour le nouveau niveau de classification. Ce délai commence à courir à partir de la finalisation de l'information classifiée. Si l'ancienneté de l'information classifiée est supérieure à la durée du délai du nouveau niveau de classification visé dans l'alinéa 1er, l'autorité d'origine motive le maintien d'un niveau de classification conformément au paragraphe 3, alinéas 1er, 2 et 9, 3°.
+
+L'autorité d'origine ne peut attribuer un niveau de classification plus élevé que si de nouveaux éléments sont ajoutés à l'information classifiée ou que si le contexte a profondément changé. Dans ce cas, le délai de classification est prolongé, mais son point de départ reste la finalisation de l'information classifiée originelle.
+
+§ 3. Au plus tard au terme du délai prévu au paragraphe 2 et au plus tôt six mois avant son expiration, l'autorité d'origine décide si l'information classifiée peut être déclassifiée.
+
+En vue de protéger les intérêts énumérés à l'article 3, § 1er, l'autorité d'origine peut décider de maintenir la classification et le cas échéant d'abaisser le niveau de classification selon les modalités prévues au paragraphe 2, alinéa 4.
+
+Une évaluation de la décision de maintien d'une classification a lieu au plus tard dix ans après cette décision. Les alinéas 9 et 10 s'appliquent à cette évaluation et aux évaluations suivantes, qui ont lieu chaque fois après dix ans au maximum et ce, jusqu'à la déclassification.
+
+La classification expire automatiquement après cent ans.
+
+En l'absence d'évaluation dans les dix ans, l'organe de contrôle compétent peut ordonner par écrit à l'autorité d'origine d'évaluer la classification dans les trois mois conformément aux alinéas 1er à 3 et 8 à 10.
+
+Si l'évaluation n'a pas lieu dans les trois mois après cet ordre écrit, la classification expire.
+
+Les organes de contrôle compétents de l'autorité d'origine sont déterminés par le Roi.
+
+L'autorité d'origine tient un ou plusieurs registres classifiés concernant les décisions visées aux alinéas 1er et 2 et au paragraphe 2, alinéa 5.
+
+Chaque registre mentionne:
+
+1° le numéro de référence de l'information classifiée;
+
+2° la nature (déclassification, maintien ou modification de la classification) et la date de la décision;
+
+3° le cas échéant, la raison pour laquelle l'information classifiée n'a pas été déclassifiée, avec une référence explicite à un ou plusieurs intérêts énumérés à l'article 3, § 1er, ainsi qu'une motivation succincte;
+
+4° le niveau de classification initial et éventuellement le nouveau niveau de classification.
+
+Les registres sont à la disposition de l'organe de contrôle compétent de l'autorité d'origine.
+
+§ 4. Même après l'expiration du délai prévu au paragraphe 2, les destinataires considèrent l'information classifiée en leur possession comme classifiée à moins que l'autorité d'origine ne leur en notifie la déclassification de sa propre initiative ou en réponse à une demande formulée par le destinataire.
+
+§ 5. Les informations classifiées émanant d'une autorité d'origine étrangère ou supranationale et les informations classifiées mixtes, qui sont d'origine partiellement étrangère ou supranationale, sont exonérées des règles de déclassification énoncées aux paragraphes 2 et 3. Elles ne peuvent être déclassifiées que moyennant l'autorisation de l'autorité étrangère ou supranationale précitée. En ce qui concerne les informations classifiées mixtes, l'autorité d'origine vérifie, au terme du délai de classification prévu au paragraphe 2, si les éléments d'origine étrangère ou supranationale peuvent être expurgés distinctement et si l'information classifiée restante peut être déclassifiée.
+
+§ 6. Le niveau de classification RESTREINT est exempté des règles contenues dans les paragraphes 2 à 4.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, les modalités de déclassification des informations classifiées du niveau RESTREINT.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-04-07/44, art. 18, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 8
+
+[<sup>1</sup> § 1er. L'utilisation d'informations classifiées requiert l'application des mesures de protection visées à l'article 7, § 1er.
+
+§ 2. Nul n'est admis à avoir accès aux informations classifiées, sauf s'il est titulaire d'une habilitation de sécurité correspondante, s'il a reçu un briefing de sécurité sur ses obligations et s'il a besoin d'en connaître et d'y avoir accès pour l'exercice de sa fonction ou de sa mission, sans préjudice des compétences propres des autorités judiciaires, et de celles des membres de l'organe de recours visé par la loi du 11 décembre 1998 portant création d'un organe de recours en matière d'habilitations [<sup>2</sup> ...]<sup>2</sup> et d'avis de sécurité.
+
+L'accès aux locaux, bâtiments ou sites où se trouvent des informations classifiées peut être soumis aux mêmes conditions par les autorités désignées par le Roi.
+
+Par dérogation à l'alinéa 1er, une personne ne doit pas être titulaire d'une habilitation de sécurité pour avoir accès aux informations classifiées de niveau RESTREINT.
+
+Par dérogation à l'alinéa 1er, l'autorité d'origine peut accorder l'accès aux informations classifiées de niveau RESTREINT à une personne qui a besoin d'en connaître en dehors de l'exercice de sa fonction ou de sa mission. Dans ce cas, l'autorité d'origine notifie les limites de l'utilisation de ces informations classifiées de niveau RESTREINT et les mesures de protection applicables.
+
+§ 3. La conservation des informations classifiées de niveau CONFIDENTIEL ou supérieur requiert de disposer d'une approbation de l'installation physique.
+
+Pour être approuvée, l'installation physique doit présenter des garanties suffisantes pour prévenir, détecter et/ou ralentir l'accès non autorisé à des informations classifiées.
+
+§ 4. Les informations classifiées sous forme électronique peuvent uniquement être utilisées dans des systèmes de communication et d'information approuvés et transmis au moyen de produits cryptographiques approuvés.
+
+Pour être approuvés, les systèmes de communication et d'information visés à l'alinéa 1er doivent présenter des garanties suffisantes quant à la confidentialité, l'intégrité et la disponibilité de ces systèmes et des informations qu'ils contiennent. Des mesures supplémentaires destinées à garantir l'authenticité et la non-répudiation peuvent être requises conformément à l'article 7, § 1er, alinéa 2.
+
+Les produits cryptographiques visés à l'alinéa 1er doivent, pour être approuvés, présenter au minimum des garanties suffisantes quant à la fourniture de services de sécurité, notamment quant à la confidentialité, l'intégrité, la disponibilité, l'authenticité et la non-répudiation, au moyen d'un ou de plusieurs mécanismes de chiffrement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-04-07/44, art. 19, 014; En vigueur : 31-12-2023&gt;
+
+(2)&lt;L 2024-06-02/09, art. 6, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 8bis
+
+[<sup>1</sup> § 1er. Sans préjudice des compétences propres des autorités judicaires, quiconque a accès aux matières nucléaires et aux documents visés à l'article 3, § 2, ainsi qu'aux zones de sécurité des installations nucléaires et des entreprises de transport nucléaire, en ce compris les véhicules de transport nucléaire, doit être titulaire d'une habilitation de sécurité, délivrée conformément au chapitre III ou d'une habilitation de sécurité délivrée par les autorités compétentes d'un pays tiers et reconnue par les conventions et traités internationaux qui lient la Belgique en cette matière.
+
+Le Roi détermine les niveaux d'habilitation requis en fonction de la catégorisation des zones de sécurité, des matières nucléaires ou des documents nucléaires.
+
+Le Roi peut autoriser les autorités belges désignées par lui à vérifier la validité de l'habilitation de sécurité délivrée par une autorité étrangère. Le Roi fixe les règles de cette procédure de vérification.
+
+§ 2. Par dérogation au paragraphe 1er, le Roi peut autoriser le directeur-général de l'Agence fédérale de Contrôle nucléaire ou son délégué, le responsable du département [<sup>3</sup> ou du service]<sup>3</sup> qui a la sécurité dans ses compétences, à délivrer [<sup>7</sup> un avis de sécurité]<sup>7</sup>, conformément au [<sup>7</sup> chapitre IV]<sup>7</sup>, pour l'accès aux zones de sécurité ainsi qu'aux matières nucléaires et aux documents nucléaires lorsque :
+
+1° la durée pendant laquelle la personne doit avoir accès est inférieure à douze ou quinze mois, selon que le niveau d'habilitation normalement requis est respectivement " CONFIDENTIEL " ou " SECRET ";
+
+2° la durée pendant laquelle cette personne doit avoir occasionnellement accès ne dépasse pas six heures;
+
+3° une demande d'habilitation a été introduite auprès de [<sup>2</sup> l'Autorité Nationale de Sécurité]<sup>2</sup>.
+
+[<sup>7</sup> Cet avis]<sup>7</sup> de sécurité vient à expiration soit à la date d'octroi ou de refus définitif de l'habilitation de sécurité, soit lorsque le délai de validité de l'[<sup>7</sup> avis]<sup>7</sup> est forclos ou au plus tard, à l'échéance du délai fixé par le Roi.
+
+Le Roi fixe les règles et la procédure permettant aux personnes visées au présent paragraphe d'avoir accès aux matières nucléaires catégorisées, aux zones de sécurité et aux documents nucléaires.
+
+[<sup>3</sup> Lorsque l'accès est sollicité pour une personne non résidente en Belgique ou qui y réside depuis moins de cinq ans, le Roi peut autoriser le directeur-général ou son délégué à solliciter des documents supplémentaires relatifs à la fiabilité de la personne concernée, en particulier quant aux risques relatifs à la non-prolifération et à la sécurité nucléaires, si celui-ci estime nécessaire de compléter sa vision des antécédents à l'étranger de la personne concernée, et sous réserve d'éventuels protocoles d'accords conclus entre d'une part l'autorité belge compétente pour préparer la politique de sécurité internationale applicable à la Belgique relative aux vérifications de sécurité et d'autre part les autorités compétentes du pays de résidence habituelle de la personne concernée. De préférence, ces documents tendent à établir que la personne a ou peut avoir, ou a récemment eu ou récemment pu avoir accès au secteur nucléaire dans son pays de résidence habituelle; à défaut, peuvent être produits des documents émanant d'autorités ou de personnes relevant du pays de résidence habituelle et tendant à établir la fiabilité ou l'honorabilité de la personne concernée, ou des pièces témoignant de l'introduction d'une demande d'accès au secteur nucléaire du pays de résidence habituelle. Le Roi peut préciser les cas dans lesquels les documents sont demandés, leurs conditions d'admissibilité et les modalités de leur production.]<sup>3</sup>
+
+§ 3. Par dérogation aux §§ 1er et 2, une personne de nationalité belge non résidente en Belgique ou qui ne possède ni la nationalité belge ni un domicile fixe en Belgique et non titulaire de l'habilitation visée au § 1er. peut avoir [<sup>4</sup> accès aux zones de sécurité, aux matières nucléaires ou aux documents nucléaires]<sup>4</sup> si elle est en possession d'une attestation, délivrée depuis moins d'un an par les autorités compétentes du pays où elle réside habituellement, certifiant qu'elle est autorisée dans ce pays à avoir accès à une installation nucléaire ou [<sup>4</sup> à]<sup>4</sup> une entreprise de transport nucléaire, aux matières nucléaires, aux endroits où elles sont localisées, [<sup>4</sup> ou]<sup>4</sup> aux documents qui les concernent [<sup>4</sup> et si les autorités compétentes du pays de résidence habituelle ont convenu avec le directeur général de l'Agence fédérale de Contrôle nucléaire des arrangements ad hoc relatifs à cet accès ou à un ensemble d' accès. Ces arrangements sont relatifs aux informations à communiquer concernant la personne pour laquelle l'accès est demandé, en particulier les caractéristiques de l'accès à une installation nucléaire ou à une entreprise de transport nucléaire qui lui a été accordé dans son pays, les caractéristiques de l'[<sup>7</sup> avis]<sup>7</sup> y afférente, ainsi que sur son besoin d'en connaître ou son besoin d'accès. Les arrangements peuvent également concerner les zones de sécurité, les matières nucléaires ou les documents nucléaires auxquels l'accès est demandé, ainsi que les mesures de sécurité complémentaires. Les arrangements ad hoc relatifs à un ensemble d'accès peuvent porter le cas échéant sur une série d'accès prévus ou prévisibles de la même personne ou d'autres personnes à condition que les caractéristiques de leurs antécédents ou que les spécificités, les nécessités et les circonstances des accès soient identiques ou largement similaires à celles déjà couvertes par les arrangements ad hoc.]<sup>4</sup>.
+
+[<sup>4</sup> Le ministre qui exerce la tutelle sur l'Agence donne son accord au directeur général pour entreprendre la négociation des arrangements ad hoc envisagés avec les autorités compétentes du pays concerné.
+
+Pour convenir de ces arrangements, le directeur général tient compte des risques relatifs à la non-prolifération et à la sécurité nucléaires au regard de la politique générale de la Belgique.
+
+Sur proposition de l'Agence, le Roi, en tenant compte des risques relatifs à la non-prolifération et à la sécurité nucléaires:
+
+1° fixera les critères permettant de déterminer avec les autorités compétentes de quels pays de tels arrangements peuvent être convenus;
+
+2° pourra, après consultation de l'autorité compétente pour la préparation de la politique belge de sécurité et la politique internationale applicable à la Belgique relatives aux vérifications de sécurité fixer la liste des pays avec les autorités compétentes desquels de tels arrangements ad hoc peuvent être convenus;
+
+3° fixera la procédure permettant aux personnes visées au présent paragraphe d'avoir accès aux matières nucléaires, aux zones de sécurité ou et aux documents nucléaires.]<sup>4</sup>
+
+§ 4. Par dérogation aux §§ 1er et 2, le Roi définit les modalités d'accès aux zones de sécurité en cas d'urgence motivée par l'occurrence d'un incident ou d'un accident nucléaire ou par toute cause de nature à provoquer, de manière imminente, soit un risque radiologique anormal pour la population, les travailleurs ou l'environnement soit des dommages graves aux personnes ou aux biens. Le Roi définit également les modalités d'accès aux zones de sécurité en cas d'urgence motivée par l'occurrence d'un incident ou d'un accident sans risque d'impact radiologique.
+
+[<sup>5</sup> § 4bis. Par dérogation aux paragraphes 1er et 2, le directeur-général de l'Agence fédérale de Contrôle nucléaire ou son délégué, le responsable du département ou du service qui a la sécurité dans ses compétences, peut autoriser l'accès ponctuel et occasionnel à des fins de visite de nature protocolaire et pour une durée ne dépassant pas six heures aux zones de sécurité d'une installation nucléaire ou d'une entreprise de transport nucléaire par une personne non titulaire de l'habilitation visée au paragraphe 1er ni d'une attestation de sécurité visée au paragraphe 2, à condition que l'exploitant de l'installation nucléaire ou de l'entreprise de transport nucléaire motive la demande d'autorisation d'accès pour visite de nature protocolaire et communique au directeur-général ou à son délégué son analyse des risques d'un tel accès ainsi que les mesures de protection spécifiques qu'il envisage.
+
+Le Roi fixe les règles et la procédure permettant aux personnes visées au présent paragraphe d'avoir accès aux zones de sécurité.]<sup>5</sup>
+
+§ 5. Dans les cas [<sup>6</sup> visés aux paragraphes 2 à 4bis]<sup>6</sup>, des mesures de protection complémentaires de nature technique, organisationnelle et administrative sont prises pour contrôler efficacement l'accès aux matières nucléaires, aux documents nucléaires et aux zones de sécurité. En aucun cas, ces mesures ne peuvent impliquer l'obligation pour la personne visée dans les paragraphes susdits de fournir à son employeur, à l'officier de sécurité, au responsable de la protection physique ou aux autorités concernées par la mise en oeuvre de la présente loi, des informations à caractère personnel si celles-ci ne sont pas requises dans le cadre de l'application de ladite loi et de ses arrêtés d'exécution ou si elles sont demandées par une personne physique ou morale non habilitée à ce faire par la présente loi et ses arrêtés d'exécution. Les mesures de protection complémentaires sont établies par le Roi, après avis de l'Agence fédérale de Contrôle nucléaire. Elles sont mises en oeuvre par la personne responsable de la protection physique de l'installation nucléaire ou de l'entreprise de transport nucléaire.
+
+§ 6. Dans les cas visés aux §§ 2 à 4, à l'exception du cas de la personne autorisée à visiter l'installation nucléaire ou l'entreprise de transport nucléaire et dont l'accès d'une durée égale ou inférieure à six heures est limité exclusivement aux zones de sécurité, il ne peut être donné accès aux matières nucléaires, aux documents nucléaires et aux zones de sécurité ainsi qu'à la connaissance des informations contenues dans les documents nucléaires que lorsque le dit accès est indispensable pour que la personne concernée exerce sa fonction ou réalise sa mission.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2011-03-30/11, art. 14, 006; En vigueur : 01-10-2012&gt;
+
+(2)&lt;L 2023-04-07/44, art. 20, 014; En vigueur : 31-12-2023&gt;
+
+(3)&lt;L 2024-02-07/13, art. 8, 015; En vigueur : 29-02-2024&gt;
+
+(4)&lt;L 2024-02-07/13, art. 9, 015; En vigueur : 29-02-2024&gt;
+
+(5)&lt;L 2024-02-07/13, art. 10, 015; En vigueur : 29-02-2024&gt;
+
+(6)&lt;L 2024-02-07/13, art. 11, 015; En vigueur : 29-02-2024&gt;
+
+(7)&lt;L 2024-06-02/09, art. 7, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 9
+
+[<sup>1</sup> Le niveau de l'habilitation de sécurité est déterminé par le niveau de classification des informations classifiées auxquelles le titulaire de l'habilitation de sécurité doit avoir accès pour l'exercice de sa fonction ou de sa mission.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-04-07/44, art. 21, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 10
+
+[<sup>1</sup> Les informations classifiées ne peuvent être diffusées que moyennant l'autorisation de l'autorité d'origine, ou dans les cas déterminés par la loi, sans préjudice des compétences propres des autorités judiciaires.
+
+L'autorité d'origine et le destinataire peuvent limiter expressément l'utilisation et la diffusion ultérieure des informations classifiées au moyen de marquages supplémentaires.
+
+Lorsque l'autorité d'origine limite expressément l'utilisation ou la diffusion ultérieure, le destinataire doit obtenir son consentement pour l'utilisation des informations classifiées au-delà de la limitation imposée.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-04-07/44, art. 22, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 11
+
+[<sup>1</sup> § 1er. Les personnes qui sont titulaires d'une habilitation de sécurité et utilisent ou laissent utiliser de manière inappropriée des informations classifiées de niveau CONFIDENTIEL ou supérieur sont, même si cette utilisation est la conséquence d'une négligence, pour autant que celle-ci soit grave, punies d'un emprisonnement de six mois à cinq ans et d'une amende de cent euros à cinq mille euros ou d'une de ces peines seulement.
+
+§ 2. Les personnes qui ont reçu un briefing de sécurité et utilisent ou laissent utiliser de manière inappropriée des informations classifiées de niveau RESTREINT sont, même si cette utilisation est la conséquence d'une négligence, pour autant que celle-ci soit grave, punies d'un emprisonnement d'un mois à trois ans et d'une amende de cent euros à cinq mille euros ou d'une de ces peines seulement.
+
+§ 3. Les personnes qui ne sont pas titulaires d'une habilitation de sécurité et qui utilisent ou laissent utiliser des informations classifiées de manière inappropriée avec une intention malveillante ou à dessein de nuire sont punies d'un emprisonnement d'un mois à trois ans et d'une amende de cent euros à cinq mille euros ou d'une de ces peines seulement.
+
+§ 4. Les personnes qui ne sont pas titulaires d'une habilitation de sécurité, qui rendent publique des informations classifiées et qui savent ou devraient savoir qu'une divulgation est susceptible de porter atteinte à l'intégrité physique d'une personne sont punies d'une peine d'emprisonnement de huit jours à un mois et d'une amende de cent euros à cinq mille euros ou d'une de ces peines seulement.
+
+Les personnes qui ne sont pas titulaires d'une habilitation de sécurité, qui rendent publiques des informations classifiées et qui savent ou devraient savoir qu'une divulgation est susceptible de porter atteinte à un des intérêts visés à l'article 3, § 1er, sont punies d'une amende de cent euros à cinq mille euros.
+
+Par dérogation à l'alinéa 2, [<sup>2</sup> sont exemptés de peine]<sup>2</sup> les personnes qui, dans le but de protéger l'intérêt public général, diffusent des informations classifiées pour exercer le droit à la liberté de la presse ou pour révéler une faute grave, un acte répréhensible grave ou une activité illégale grave d'une autorité publique.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-04-07/44, art. 23, 014; En vigueur : 31-12-2023&gt;
+
+(2)&lt;L 2024-06-02/09, art. 8, 016; En vigueur : 01-02-2025&gt;
+
+## CHAPITRE IIbis. [<sup>1</sup> - Le service public réglementé.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-04-07/44, art. 24, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 11bis
+
+[<sup>1</sup> § 1er. L'Autorité Nationale de Sécurité, qui intervient, conformément à l'article 1quater, 9°, en tant qu'autorité belge responsable pour le service public réglementé, octroie des autorisations pour:
+
+1° l'accès au service public réglementé;
+
+2° le développement et la production, y compris les services auxiliaires qui requièrent l'accès à des informations relatives au service public réglementé, d'équipements destinés au service public réglementé;
+
+3° l'exportation des équipements et technologies visés au 2°.
+
+L'Autorité Nationale de Sécurité peut refuser, modifier, suspendre ou retirer les autorisations visées à l'alinéa 1er pour des raisons d'ordre public, de sécurité nationale ou de défense, de respect d'engagements internationaux et des normes minimales communes telles que fixées à l'article 8 de la Décision 1104/2011/UE.
+
+Tout transfert d'équipements ou de technologies conçus pour le service public réglementé offert par le système mondial de radionavigation par satellite issu du programme européen Galileo et qui est effectué depuis la Belgique vers les autres Etats membres de l'Union européenne, est déclaré à l'Autorité Nationale de Sécurité.
+
+§ 2. L'accès au service public réglementé, comme prévu au paragraphe 1er, alinéa 1er, 1°, est autorisé pour une communauté d'utilisateurs. Une communauté d'utilisateurs doit recevoir au préalable une autorisation émanant de l'Autorité Nationale de Sécurité, qui vérifie si les normes minimales communes, telles que fixées à l'article 8 de la Décision 1104/2011/UE, sont respectées.
+
+Lorsqu'une communauté d'utilisateurs ne remplit pas ou ne remplit plus les conditions de cette autorisation, celle-ci peut être refusée, modifiée, suspendue ou retirée par l'Autorité Nationale de Sécurité.
+
+§ 3. Sans préjudice de l'article 1sexies, l'Autorité Nationale de Sécurité peut procéder à des contrôles et inspections pour vérifier si les conditions visées au paragraphe 1er, alinéa 2, sont remplies.
+
+§ 4. Le Roi détermine la procédure et les modalités pour l'exécution du présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-04-07/44, art. 25, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 11ter
+
+[<sup>1</sup> Est puni d'un emprisonnement de six mois à cinq ans et d'une amende de cent euros à dix mille euros ou d'une de ces peines seulement, celui qui mène une activité visée à l'article 11bis, § 1er, alinéa 1er, sans autorisation de l'Autorité Nationale de Sécurité ou sans respecter les conditions liées à l'autorisation de l'Autorité Nationale de Sécurité.
+
+La tentative visant à mener une activité visée à l'alinéa 1er est passible d'une amende de cent euros à cinq mille euros.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-04-07/44, art. 26, 014; En vigueur : 31-12-2023&gt;
+
+## CHAPITRE III. - Des habilitations de sécurité.
+
+### Section 1. - Dispositions générales.
+
+##### Art. 12
+
+La présente loi s'applique lorsque, dans l'intérêt de la défense de l'intégrité du territoire national, des plans de défense militaires, de l'accomplissement des missions des forces armées, de la sûreté intérieure de l'Etat, y compris dans le domaine de l'énergie nucléaire, et de la pérennité de l'ordre démocratique et constitutionnel, de la sûreté extérieure de l'Etat et des relations internationales, du potentiel scientifique ou économique du pays ou tout autre intérêt fondamental de l'Etat, de la sécurité des ressortissants belges à l'étranger, ou du fonctionnement des organes décisionnels de l'Etat, ou en application des traités liant la Belgique, l'autorité compétente pour régler l'accès à un emploi, une fonction ou un grade, à des [<sup>2</sup> informations classifiées]<sup>2</sup>, à des locaux, des bâtiments ou des sites ou pour organiser la passation et l'exécution d'un contrat ou d'un marché public, impose la possession d'une habilitation de sécurité.
+
+Dans les cas déterminés par le Roi, la présente loi s'applique également aux habilitations de sécurité demandées par des personnes morales ou physiques qui souhaitent obtenir une habilitation de sécurité en vue d'accéder à l'étranger à des [<sup>2</sup> informations classifiées]<sup>2</sup>, à des locaux, des bâtiments ou des sites, dont l'accès est réservé au titulaire d'une habilitation de sécurité.
+
+(La présente loi s'applique également à toutes les personnes qui souhaitent accéder aux documents classifiés visés à l'article 5bis.) &lt;L 2002-07-07/42, art. 9, 002; En vigueur : 20-08-2002&gt;
+
+[<sup>1</sup> La présente loi s'applique également à toutes les personnes qui doivent avoir accès aux matières nucléaires catégorisées, aux documents nucléaires ou aux zones de sécurité tels qu'ils sont définis par la loi du 15 avril 1994 relative à la protection de la population et de l'environnement contre les dangers résultant des rayonnements ionisants et relative à l'Agence fédérale de Contrôle nucléaire.]<sup>1</sup>
+
+[<sup>3</sup> Sans préjudice de ce qui précède, la présente loi s'applique également aux personnes pour lesquelles l'accès à des lieux, à des fonctions, à des opérations ou à des informations, est soumis à la possession [<sup>4</sup> d'un avis de sécurité visé par l'article 26]<sup>4</sup> pour des raisons relatives à la non-prolifération ou à la sécurité nucléaires, ou à la sécurité radiologique.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2011-03-30/11, art. 15, 006; En vigueur : 01-10-2012&gt;
+
+(2)&lt;L 2023-04-07/44, art. 27, 014; En vigueur : 31-12-2023&gt;
+
+(3)&lt;L 2024-02-07/13, art. 12, 015; En vigueur : 29-02-2024&gt;
+
+(4)&lt;L 2024-06-02/09, art. 9, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 13
+
+&lt;Abrogé par L 2023-04-07/44, art. 28, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 13/1
+
+&lt;Abrogé par L 2023-04-07/44, art. 29, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 14
+
+Dans le cadre de l'application de la présente loi, des données à caractère personnel peuvent être traitées, y compris celles visées [<sup>1</sup> à l'article 110 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2023-04-07/44, art. 30, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 15
+
+&lt;Abrogé par L 2023-04-07/44, art. 31, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 15bis
+
+&lt;Abrogé par L 2023-04-07/44, art. 32, 014; En vigueur : 31-12-2023&gt;
+
+### Section 2. - De l'avertissement et de l'accord.
+
+##### Art. 16
+
+§ 1er. La personne qui doit obtenir une habilitation de sécurité est informée du niveau et de l'objet de l'habilitation, ainsi que des types de données qui pourront être examinées ou vérifiées lors de l'enquête de sécurité, des modalités de celle-ci et de la durée de validité de l'habilitation de sécurité.
+
+Son accord est requis pour pouvoir procéder à l'enquête de sécurité nécessaire à la délivrance de l'habilitation. Cet accord vaut également pour toute enquête de sécurité ultérieure visant à vérifier si les conditions requises pour le niveau initial de l'habilitation sont toujours réunies. L'intéressé est néanmoins toujours préalablement averti de chaque enquête de sécurité, conformément au § 1er, alinéa 1.
+
+Cet accord peut à tout moment être retiré par la personne concernée qui ne consent plus à faire l'objet d'une enquête de sécurité ou à détenir une habilitation de sécurité.
+
+Si l'habilitation est requise pour l'accès à un emploi, une fonction ou un grade, le refus explicite du candidat ou, le cas échéant, l'absence d'accord dans un délai de quinze jours suivant le jour de la réception du document l'avertissant de l'enquête, met automatiquement fin à la procédure de recrutement, d'engagement, de nomination ou de promotion.
+
+§ 2. L'accord prévu au § 1er n'est pas exigé lorsque l'habilitation de sécurité est requise pour l'exercice d'une fonction pour laquelle l'intéressé peut - en raison de son statut - être désigné sans son consentement. L'intéressé est néanmoins toujours préalablement averti de l'enquête de sécurité, conformément au § 1er, alinéa 1.
+
+Avant son recrutement ou son engagement dans un emploi soumis à un tel statut, le candidat doit, aussi longtemps qu'il est soumis à ce statut et s'il devait être désigné à une fonction requérant une habilitation de sécurité, consentir à ce que des enquêtes de sécurité soient effectuées, conformément à l'alinéa précédent.
+
+§ 3. L'avertissement visé au § 1er, alinéa 2, n'est pas requis lorsqu'une enquête de sécurité ultérieure s'avère nécessaire pour vérifier des informations sur des faits graves indiquant que la personne habilitée ne satisfait plus aux conditions requises pour le niveau de l'habilitation octroyée.
+
+Dans ce cas, l'autorité de sécurité est avertie sans délai.
+
+§ 4. Les personnes, âgées de dix-huit ans accomplis, cohabitant avec la personne pour laquelle l'habilitation est requise, sont également averties, lorsqu'en fonction du niveau de l'habilitation, elles doivent faire l'objet d'une enquête de sécurité individuelle.
+
+##### Art. 17
+
+L'avertissement prévu à l'article 16 se fait par la remise à l'intéressé, par l'officier de sécurité et contre accusé de réception, d'un document dont le modèle est fixé par le Roi ainsi que d'un questionnaire de base. Le document est conservé par l'intéressé et le questionnaire de base dûment complété est remis à l'officier de sécurité contre accusé de réception.
+
+L'accord ou le retrait de l'accord prévus à l'article 16 se font par la remise à l'officier de sécurité, par l'intéressé et contre accusé de réception, d'un document dont le modèle est fixé par le Roi.
+
+L'accusé de réception visé à l'alinéa 1er, le document visé à l'alinéa 2 et le questionnaire de base sont transmis par l'officier de sécurité à l'autorité de sécurité.
+
+[<sup>1</sup> Le Roi peut rendre obligatoire l'introduction électronique de l'accord visé à l'article 16, §§ 1er et 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-02-23/36, art. 5, 009; En vigueur : 01-06-2018&gt;
+
+### Section 3. - De l'enquête de sécurité.
+
+##### Art. 18
+
+L'enquête de sécurité est effectué par un service de renseignement et de sécurité.
+
+Lorsque la personne pour laquelle l'habilitation de sécurité est requise réside, transite ou séjourne à l'étranger ou y a transité, séjourné ou résidé, ce service peut solliciter la collaboration des services compétents du pays hôte.
+
+Les agents [<sup>2</sup> ...]<sup>2</sup> de la Sûreté de l'Etat et les membres du Service général du renseignement et de la sécurité chargés d'effectuer les enquêtes de sécurité sont désignés respectivement par le Ministre de la Justice, sur la proposition de l'administrateur général de la Sûreté de l'Etat, et par le Ministre de la Défense nationale, sur la proposition du chef du Service général du renseignement et de la sécurité des Forces armées.
+
+Ils recoivent, lors de leur désignation, une carte de légitimation, dont le modèle est fixé par le Ministre compétent. Cette carte ne peut être utilisée que dans le cadre des enquêtes de sécurité et doit être immédiatement restituée à l'autorité qui l'a délivrée lorsque la désignation visée à l'alinéa 3 a pris fin.
+
+L'ampleur de l'enquête de sécurité varie en fonction du niveau de l'habilitation de sécurité requise et est déterminée, pour chaque niveau, par le [<sup>1</sup> Conseil national de sécurité]<sup>1</sup>. Elle ne peut en tout cas nécessiter des pouvoirs d'investigation autres que ceux prévus par la présente loi, en particulier à l'article 19.
+
+La décision du [<sup>1</sup> Conseil national de sécurité]<sup>1</sup> est communiquée uniquement aux agents et membres des services de renseignement et de sécurité, à l'autorité de sécurité, ainsi qu'au Comité permanent R.
+
+----------
+
+(1)&lt;L 2015-12-06/07, art. 8, 007; En vigueur : 28-01-2015&gt;
+
+(2)&lt;L 2023-04-07/44, art. 33, 014; En vigueur : 31-12-2023&gt;
+
+##### Art. 19
+
+Dans le cadre des enquêtes de sécurité et uniquement à cette fin, les agents et les membres visés à l'article 18, alinéa 3 peuvent, outre les compétences qu'ils tiennent des articles 13 à 18 de la loi du 30 novembre 1998 organique des services de renseignement et de sécurité, et dans le respect de l'article 12 de cette même loi, procéder à toute investigation et recueillir tous les renseignements nécessaires à l'enquête.
+
+A cette fin, ils peuvent, sur présentation de leur carte de légitimation :
+
+1° accéder sans frais, et quel que soit leur niveau, au casier judiciaire central tenu au Ministère de la Justice, aux casiers judiciaires et aux registres de la population et des étrangers tenus par les communes, au registre national, au registre d'attente des étrangers, ainsi qu'aux données policières qui sont accessibles aux fonctionnaires de police lors de l'exécution de contrôles d'identité;
+
+2° sur présentation du document visé à l'article 17 attestant l'accord ou, le cas échéant, l'avertissement de la personne concernée, demander toute information utile en possession des services de police générale;
+
+3° sur présentation du document visé au point 2°, requérir des services publics, dont la liste est arrêtée par le Roi, la communication de tous renseignements utiles dont ces services disposent relatifs à l'identité ou à la solvabilité financière de la personne concernée. Ces services mettent à leur disposition, sans frais, des photocopies, extraits, ou copies conformes de documents, pièces, registres, livres, bandes magnétiques ou disques informatiques.
+
+Ils sont tenus d'exhiber leur carte de légitimation à toute autre personne dont ils sollicitent le concours dans le cadre des enquêtes de sécurité. Si elle en fait la demande, ils sont également tenus d'exhiber le document visé à l'article 17, attestant l'accord de la personne qui fait l'objet de l'enquête, ou, lorsque cet accord n'est pas requis, l'avertissement.
+
+Lorsque l'enquête de sécurité a pour finalité l'octroi d'une habilitation de sécurité à un ressortissant d'un Etat étranger par les autorités compétentes de cet Etat dans le cadre d'accords d'assistance mutuelle liant la Belgique, ces agents et membres sont tenus d'exhiber un document émanant de l'autorité de sécurité attestant la demande de collaboration de l'Etat étranger.
+
+##### Art. 20
+
+Les agents et membres visés à l'article 18, alinéa 3, doivent prendre les mesures internes nécessaires afin de garantir le caractère confidentiel des faits, actes ou renseignements dont ils ont pris connaissance dans le cadre des enquêtes de sécurité.
+
+##### Art. 21
+
+Sauf le cas où l'habilitation de sécurité est requise à leur égard, les personnes âgées de moins de 18 ans ne peuvent faire l'objet d'une requête de sécurité.
+
+### Section 4. - De l'octroi et du retrait de l'habilitation de sécurité.
+
+##### Art. 22
+
+A l'issue de l'enquête de sécurité, l'autorité de sécurité statue par décision motivée, dans le délai fixé par le Roi, sur l'octroi de l'habilitation de sécurité requise, sur la base du rapport d'enquête qui lui est soumis par le service de renseignement et de sécurité qui y a procédé.
+
+Si elle l'estime utile à l'examen du rapport d'enquête, l'autorité de sécurité requiert de ce service de lui communiquer une copie du dossier d'enquête dans son intégralité. Elle peut également requérir de ce service la communication de toute information complémentaire qu'elle juge utile à l'examen du rapport d'enquête.
+
+La décision est notifiée à l'intervention de l'officier de sécurité à la personne, physique ou morale, pour laquelle l'habilitation est requise, dans le délai fixé par le Roi.
+
+[<sup>2</sup> L'autorité de sécurité peut modifier, suspendre ou retirer une habilitation de sécurité sur la base d'informations qui lui sont présentées par les services de renseignement et de sécurité ou dans le cas visé à l'article 16, § 1er, alinéa 3.]<sup>2</sup>
+
+[<sup>2</sup> La notification du refus, de la modification, de la suspension ou du retrait de l'habilitation de sécurité]<sup>2</sup> reprend les motifs justifiant cette décision, à l'exception de toute information dont la communication serait de nature à porter atteinte à la défense de l'intégrité du territoire national, aux plans de défense militaires, à l'accomplissement des missions des forces armées, à la sûreté intérieure de l'Etat, y compris dans le domaine de l'énergie nucléaire, à la pérennité de l'ordre démocratique et constitutionnel, à la sûreté extérieure de l'Etat et aux relations internationales, au potentiel scientifique ou économique du pays ou tout autre intérêt fondamental de l'Etat, à la sécurité des ressortissants belges à l'étranger, au fonctionnement des organes décisionnels de l'Etat, à la protection des sources [<sup>1</sup> , au secret d'une information ou d'une instruction judiciaire en cours]<sup>1</sup> ou à la protection de la vie privée de tiers. [<sup>1</sup> Si ces secrets concernent une information ou une instruction judiciaire en cours, l'autorité de sécurité se concerte au préalable à ce sujet avec le magistrat compétent.]<sup>1</sup>
+
+L'autorité de sécurité doit prendre les mesures internes nécessaires afin de garantir le caractère confidentiel des rapports d'enquête et, le cas échéant, des dossiers d'enquête.
+
+----------
+
+(1)&lt;L 2016-04-21/06, art. 40, 008; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+(2)&lt;L 2023-04-07/44, art. 34, 014; En vigueur : 31-12-2023&gt;
+
+## CHAPITRE IIIbis-
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+### Section 1re.
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 22bis
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 22bis/1
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 22bis/2
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 22ter
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 22ter/1
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 22quater
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 22quinquies
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 22quinquies/1
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 22sexies
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+### Section 2. DROIT FUTUR.
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+## CHAPITRE IV. [<sup>1</sup> - Des avis de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+### Section 1re. [<sup>1</sup> - Disposition générale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 23.
+
+Art. 23. [<sup>1</sup> La Police Fédérale prépare la politique belge de sécurité et la politique de sécurité internationale applicable à la Belgique concernant les vérifications de sécurité, et ce en concertation avec les autorités de sécurité pour ce qui concerne leur secteur.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+### Section 2. [<sup>1</sup> - De la possession d'un avis de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 24.
+
+Art. 24. [<sup>1</sup> § 1er. Des avis de sécurité peuvent être imposés lorsque:
+
+1° l'exercice d'une profession, d'une fonction, d'une mission ou d'un mandat;
+
+2° l'accès aux locaux, bâtiments, sites ou zones;
+
+3° la détention d'un permis, d'une licence ou d'une autorisation;
+
+peut, par un usage inapproprié, nuire aux intérêts visés à l'article 12, alinéa 1er.
+
+Des avis de sécurité peuvent également être imposés pour une durée limitée lors d'un événement national, international, diplomatique ou protocolaire de grande ampleur, organisé par une autorité publique, ayant des compétences en matière de sécurité, désignée par le Roi ou en liaison avec les services de cette autorité sur lequel pèse une menace potentielle au sens de l'article 8, 1°, de la loi organique du 30 novembre 1998 des services de renseignement et de sécurité.
+
+§ 2. Les autorités administratives compétentes suivantes peuvent introduire la demande générale préalable d'autorisation de solliciter des avis de sécurité prévue à la section 3, sous-section 1re:
+
+1° les autorités compétentes, en fonction des secteurs d'activités, déterminés par le Roi par un arrêté délibéré en Conseil des ministres, dans les cas décrits au paragraphe 1er, alinéa 1er;
+
+2° le Centre de crise National, représenté par son Directeur général ou la personne qu'il délègue à cette fin, en ce qui concerne l'accès à un événement visé au paragraphe 1er, alinéa 2.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 25.
+
+Art. 25. [<sup>1</sup> Afin d'assurer l'ordre public et la sécurité des événements qu'elles organisent elles-mêmes ou qui sont placés sous leur responsabilité ainsi que celle de leurs locaux, bâtiments, sites ou zones et des personnes qui y sont présentes, les autorités suivantes sont compétentes pour imposer l'obtention préalable d'un avis de sécurité aux personnes qui souhaitent pénétrer dans ces lieux ou accéder à ces événements:
+
+1° la Sûreté de l'Etat;
+
+2° le Service Général du Renseignement et de la Sécurité des Forces armées;
+
+3° la Police Fédérale et la police locale;
+
+4° le Centre de crise National;
+
+5° l'Administration générale des Douanes et Accises;
+
+6° l'Organe de coordination pour l'analyse de la menace.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 26.
+
+Art. 26. [<sup>1</sup> § 1er. Sans préjudice de l'article 8bis, § 2, et afin de préserver les objectifs et les intérêts visés à l'article 12, alinéas 4 et 5, le Roi, sur proposition de l'Agence fédérale de Contrôle nucléaire, peut:
+
+1° autoriser le directeur-général de l'Agence fédérale de Contrôle nucléaire ou son délégué, le responsable du département ou du service qui a la sécurité nucléaire dans ses compétences, à délivrer l'avis de sécurité tel que visé au 2° ; et
+
+2° imposer l'obtention préalable d'un avis de sécurité pour les accès aux matières, lieux, informations, opérations et fonctions qu'Il détermine.
+
+Le Roi, sur proposition de l'Agence fédérale de Contrôle nucléaire, détermine la durée de validité de ces avis de sécurité et les modalités particulières de la procédure d'octroi des avis de sécurité relatifs aux accès visés à l'alinéa précédent.
+
+§ 2. Le paragraphe 1er s'applique notamment aux accès suivants:
+
+1° l'accès à des lieux qui sans encore constituer ou appartenir à une zone de sécurité, sont destinés, au terme de travaux qui doivent y être effectués, à constituer ou appartenir à une telle zone. Ces lieux, dont le Roi, sur proposition de l'Agence fédérale de Contrôle nucléaire, précise les critères de désignation, doivent relever d'une installation nucléaire, soit qu'ils soient situés entre son périmètre extérieur et le périmètre intérieur si l'installation est dotée d'un périmètre intérieur, soit qu'ils soient situés hors du périmètre extérieur actuel de l'installation mais adjacents ou à proximité immédiate du périmètre extérieur, à l'exclusion de la voie publique. Les termes "installation nucléaire" et "zone de sécurité" doivent s'entendre au sens de l'article 1bis de la loi du 15 avril 1994 précitée. Les termes "périmètre extérieur" et "périmètre intérieur" doivent s'entendre au sens de l'arrêté royal du 17 octobre 2011 relatif à la catégorisation et à la définition de zones de sécurité au sein des installations nucléaires et des entreprises de transport nucléaire. L'avis de sécurité délivré au titre de la présente disposition pour un accès spécifique vaut également pour des accès à d'autres lieux relevant de la même disposition;
+
+2° l'accès aux établissements, aux lieux, aux substances, aux appareils, aux informations, aux fonctions ou aux opérations, que le Roi, sur proposition de l'Agence fédérale de Contrôle nucléaire, détermine et qui font l'objet de mesures de sécurité des substances radioactives au sens de l'article 1er de la loi du 15 avril 1994 précitée ou de mesures de sécurité pour les appareils ou installations émettant des rayonnements ionisants ne provenant pas de substances radioactives, au sens du même article. L'avis de sécurité délivré au titre de la présente disposition pour un accès spécifique vaut également pour d'autres accès relevant de la même disposition;
+
+3° l'accès à l'étranger à des bâtiments ou sites nucléaires, dont le Roi peut préciser les critères de désignation et dont l'accès est soumis à une forme de procédure relative à l'évaluation officielle de la discrétion, de la loyauté et de l'intégrité sans être cependant réservé aux titulaires d'une habilitation de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+### Section 3. [<sup>1</sup> - De la procédure des demandes d'avis de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+#### Sous-section 1re. [<sup>1</sup> - De la demande générale préalable.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 27.
+
+Art. 27. [<sup>1</sup> § 1er. L'autorité administrative compétente, telle que visée à l'article 24, § 2, introduit une demande générale préalable dûment motivée d'avis de sécurité auprès du Commissaire général de la Police Fédérale ou de la personne qu'il délègue à cette fin.
+
+Le Roi fixe le contenu de cette demande et les modalités pratiques.
+
+§ 2. La Police Fédérale décide, en concertation avec les services de renseignement et de sécurité, l'Organe de coordination pour l'analyse de la menace, le Centre de crise National et l'Administration générale des Douanes et Accises, d'approuver en tout ou en partie ou de refuser la demande générale préalable d'autorisation de solliciter des avis de sécurité, pour le secteur ou l'événement concerné. La Police Fédérale peut requérir des informations complémentaires avant de prendre sa décision.
+
+§ 3. La Police Fédérale transmet sa décision motivée à l'autorité administrative compétente qui a soumis le dossier de demande qui, à son tour, communique la décision selon le cas, à l'organisateur de l'événement ou aux personnes morales de droit public ou privé visées par la demande.
+
+§ 4. L'autorité administrative qui se voit autorisée à solliciter des avis de sécurité dans les limites de la décision visée au paragraphe 2 dispose au moins d'un officier de sécurité tel que visé à l'article 1bis, 15°, a), b), c) ou d).]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 28.
+
+Art. 28. [<sup>1</sup> Une fois que la demande générale préalable d'autorisation de solliciter des avis de sécurité visée à l'article 27 est acceptée, les avis de sécurité peuvent être sollicités auprès de la Police Fédérale selon la procédure décrite aux articles 29 à 31.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+#### Sous-section 2. [<sup>1</sup> - De la demande individuelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 29.
+
+Art. 29. [<sup>1</sup> § 1er. La personne morale de droit public ou privé ou, le cas échéant, l'organisateur de l'événement informe toutes les personnes concernées via leur employeur éventuel ou directement du fait qu'elles tombent sous l'application de la demande approuvée visée à l'article 27, § 2, et de l'obligation de se soumettre à la vérification de sécurité visée à l'article 32.
+
+§ 2. Les autorités visées à l'article 25 informent toutes les personnes concernées, via leur employeur éventuel ou directement, du fait qu'elles tombent sous l'application de l'obligation de se soumettre à la vérification de sécurité visée à l'article 32.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 30.
+
+Art. 30. [<sup>1</sup> A moins qu'elle ne dispose déjà d'un officier de sécurité dont question à l'article 1bis, 15°, a), b), c) ou d), la personne morale de droit public ou privé dont dépend la personne devant faire l'objet d'une vérification de sécurité désigne un gestionnaire des avis de sécurité qui sera le point de contact de l'autorité qui délivre les avis de sécurité et de l'autorité administrative compétente.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 31.
+
+Art. 31. [<sup>1</sup> § 1er. La personne majeure pour laquelle un avis de sécurité est sollicité doit marquer son consentement formel préalable par le biais d'un formulaire dont le modèle est défini par le Roi.
+
+§ 2. Dans le cas où un mineur fait l'objet d'une demande d'avis de sécurité, le consentement de son ou d'un de ses représentants légaux est requis. Si le mineur est émancipé, son consentement seul suffit.
+
+§ 3. L'officier de sécurité et le gestionnaire des avis de sécurité s'assurent de la validité de ce consentement formel préalable avant d'adresser la demande de vérification de sécurité à l'autorité compétente pour délivrer les avis de sécurité.
+
+§ 4. A défaut du consentement tel que visé au paragraphe 1 ou 2 ou en cas de dossier incomplet ou erroné, aucune vérification de sécurité ne sera entamée par l'autorité compétente pour délivrer l'avis de sécurité.
+
+§ 5. La personne concernée peut, à tout moment, retirer son consentement et faire savoir qu'elle ne souhaite plus faire l'objet d'une vérification de sécurité. Ce retrait se fait par l'envoi d'un formulaire via l'officier de sécurité ou le gestionnaire des avis de sécurité à l'autorité compétente.
+
+L'avis de sécurité concernant cette personne sera alors considéré comme arrivé à échéance.
+
+§ 6. La forme du formulaire de retrait du consentement est déterminée par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+### Section 4. [<sup>1</sup> - Des vérifications de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 32.
+
+Art. 32. [<sup>1</sup> § 1er. La vérification de sécurité repose sur la consultation:
+
+1° des données visées à l'article 19, alinéa 2, 1° ;
+
+2° des informations rassemblées dans le cadre de la loi organique du 30 novembre 1998 des services de renseignement et de sécurité, communiquées par les services de renseignement et de sécurité.
+
+Pour les avis délivrés par les zones de police locale, les services de renseignement et de sécurité communiquent les données et informations visées à l'alinéa 1er, 2°, aux zones de police locale par l'intermédiaire du service de la Police Fédérale désigné à cette fin;
+
+3° des données et informations des banques de données policières internationales résultant de traités liant la Belgique, communiquées par les services de police;
+
+4° des données et informations visées aux articles 44/1 et 44/2 de la loi sur la fonction de police qui sont communiquées par les services de police moyennant autorisation des autorités judiciaires compétentes pour les données de police judiciaire. Pour ces dernières, les autorités judiciaires, à la demande des services de police, les informent du statut d'une information ou d'une instruction judiciaire. Par dérogation, les données et informations contenues dans la banque de données visée à l'article 44/7 de la loi sur la fonction de police sont consultées par les services de renseignement et de sécurité, via leur accès direct, pour les avis de sécurité à délivrer par eux;
+
+5° d'autres données et informations issues de banques de données gérées par une institution publique et dont la finalité répond à la définition de la vérification de sécurité.
+
+La consultation et l'évaluation des données et informations visées à l'alinéa 1er s'effectuent rétrospectivement sur une période de minimum cinq ans à dater de la demande de l'autorité compétente.
+
+Les données et informations visées à l'alinéa 1er sont traitées conformément au titre 3, sous-titre 3, de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel.
+
+§ 2. Le caractère adéquat, pertinent et non excessif des données et informations visées au paragraphe 1er, alinéa 1er, 3°, 4° et 5°, ainsi que la liste de ces données et informations sont déterminés par un arrêté royal délibéré en Conseil des ministres après avis du Comité permanent de contrôle des services de renseignement et de sécurité.
+
+§ 3. Lorsque la personne pour laquelle la vérification de sécurité est requise réside, transite ou séjourne à l'étranger, ou y a résidé, transité ou séjourné, les services visés à l'article 34 peuvent solliciter les informations visées au paragraphe 1er, alinéa 1er, auprès des services compétents du pays concerné, auprès de l'officier de sécurité de l'autorité administrative visé à l'article 27, § 4, ou auprès du gestionnaire des avis de sécurité de la personne morale de droit public ou privé dont le demandeur dépend tel que visé à l'article 30.
+
+§ 4. Dans les cas où le gouverneur délivre une autorisation ou un document similaire en vertu de la loi sur les armes du 8 juin 2006, ou lorsque le ministre qui a l'Intérieur dans ses attributions est compétent en vertu de l'article 93 de la loi du 2 octobre 2017 réglementant la sécurité privée et particulière, la vérification de sécurité consiste également en l'évaluation des informations judiciaires transmises par le ministère public et des informations relatives à l'intéressé transmises par les services compétents dépendant du ministre qui a l'Intérieur dans ses attributions.
+
+§ 5. Les données et informations visées aux paragraphes 1er à 4 constituent le dossier de vérification de sécurité.
+
+§ 6. La Police Fédérale peut refuser, par un écrit dûment motivé, de donner suite à une demande d'exécuter des vérifications de sécurité lorsqu'elle estime que ces vérifications ne sont pas justifiées au regard de l'article 27, §§ 2 et 3.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 33.
+
+Art. 33. [<sup>1</sup> § 1er. L'autorité compétente pour délivrer les avis de sécurité dispose d'un délai de maximum trente jours pour rendre son avis. Ce délai commence à courir lorsque cette autorité dispose du formulaire de consentement dûment complété.
+
+Dans le cas prévu à l'article 32, § 3, ce délai peut être prolongé lorsqu'un protocole établi entre la Police Fédérale et le pays d'origine de la personne faisant l'objet de la vérification de sécurité prévoit un délai supérieur au délai visé à l'alinéa 1er.
+
+§ 2. Si aucun avis n'est délivré dans le délai prescrit, la personne pour laquelle la vérification de sécurité est requise peut introduire un recours auprès de l'organe de recours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+### Section 5. [<sup>1</sup> - De la délivrance des avis de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+#### Sous-section 1re. [<sup>1</sup> - Des autorités compétentes]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 34.
+
+Art. 34. [<sup>1</sup> § 1er. La Police Fédérale délivre les avis de sécurité dans les cas prévus à l'article 24 sur la base de la vérification de sécurité visée à l'article 32.
+
+§ 2. Les autorités visées à l'article 25 délivrent les avis de sécurité dans les cas prévus ou en vertu de ce même article sur la base de la vérification de sécurité visée à l'article 32.
+
+§ 3. La compétence de délivrer des avis de sécurité attribuée à la Police Fédérale en vertu de l'article 24 et aux autorités visées à l'article 25 est exercée par leurs dirigeants ou par la personne déléguée par eux.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 35.
+
+Art. 35. [<sup>1</sup> § 1er. Toutes les autorités qui délivrent des avis de sécurité tiennent un registre des vérifications de sécurité effectuées par elles-mêmes et des avis délivrés.
+
+§ 2. Les données contenues dans ce registre sont détruites à l'expiration d'un délai de cinq ans qui court à partir de la date d'échéance de l'avis de sécurité rendu pour la personne concernée, sans préjudice des dispositions légales relatives aux archives de l'Etat.
+
+§ 3. Ce registre contient:
+
+1° le nom, le ou les prénom(s), la date de naissance, la nationalité et l'adresse des personnes qui ont fait l'objet d'une vérification de sécurité;
+
+2° l'auteur et la date de la demande de vérification;
+
+3° l'objet et la durée de validité de l'avis;
+
+4° en cas d'avis négatif, la motivation justifiant cet avis négatif.
+
+§ 4. Ce registre ne peut être consulté que par les autorités visées au titre 3, sous-titre 3, de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard des traitements de données à caractère personnel ainsi que par les services de police dans le cadre de leurs missions de police judiciaire et administrative.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+#### Sous-section 2. [<sup>1</sup> - De la nature et de la durée de validité des avis de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 36.
+
+Art. 36. [<sup>1</sup> § 1er. Les avis de sécurité qui peuvent être délivrés sur la base de la vérification de sécurité décrite sous la section 4 sont:
+
+1° "Positif";
+
+2° "Négatif";
+
+3° "Positif avec avertissement administratif".
+
+§ 2. L'avis positif peut comporter une mise en garde individuelle à l'intéressé concernant des éléments qui ne sont pas suffisants pour donner lieu à un avis négatif.
+
+§ 3. L'avis positif avec avertissement administratif concerne une personne qui n'a pas résidé ou n'a pas séjourné sur le territoire belge durant au minimum les cinq dernières années et pour lequel les informations disponibles sont insuffisantes pour évaluer le risque au sens de l'article 1bis, 24°. Un avertissement administratif sera donc adressé à l'autorité administrative pour l'en informer.
+
+§ 4. Les avis de sécurité négatifs sont motivés conformément à l'article 22, alinéa 5.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 37.
+
+Art. 37. [<sup>1</sup> Le Roi détermine les modalités de notification des avis de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 38.
+
+Art. 38. [<sup>1</sup> § 1er. Les avis de sécurité sont délivrés pour la durée de validité sollicitée sans que celle-ci ne puisse excéder cinq ans.
+
+§ 2. Durant toute leur durée de validité, les autorités compétentes pour délivrer des avis de sécurité peuvent, de leur propre initiative, émettre un nouvel avis sur la base d'une actualisation des données et informations visées à l'article 32.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 11, 016; En vigueur : 01-02-2025&gt;
+
+### Section 6. [<sup>1</sup> - Règles spécifiques pour le ministère de la Défense.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 12, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 39
+
+[<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup>
+
+Dans le cadre de la présente section, le ministère de la Défense est tenu de suivre l'avis de l'Organe de recours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-04-07/44, art. 46, 014; En vigueur : 09-07-2023&gt;
+
+(2)&lt;L 2024-06-02/09, art. 13, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 40
+
+[<sup>1</sup> A moins qu'elle ne soit titulaire d'une habilitation de sécurité, toute personne civile ou militaire du cadre actif et du cadre de réserve occupant une fonction ou un emploi au sein du ministère de la Défense, toute personne candidate à une telle fonction ou un tel emploi, tout militaire détaché en dehors du ministère de la Défense, et tout agent civil du ministère de la Défense mis temporairement à la disposition d'un autre service est soumis à la vérification de sécurité visée à l'article [<sup>2</sup> 32]<sup>2</sup>.
+
+Un avis de sécurité négatif est délivré s'il ressort des données consultées que la personne concernée ne présente pas des garanties suffisantes quant à l'intégrité et est susceptible de porter atteinte par son comportement ou son environnement:
+
+a) à un des intérêts visés à l'article 3; ou
+
+b) à l'intégrité physique des personnes, au moyen de ressources auxquelles elle a accès dans le cadre de l'exercice de ses fonctions.
+
+Le Chef du Service Général du Renseignement et de la Sécurité des Forces armées délivre des avis de sécurité en application de l'alinéa 1er.
+
+Au sein du Service Général du Renseignement et de la Sécurité des Forces armées un collège est créé. Ce collège procède à l'évaluation de l'information disponible lorsque celle-ci ne permet pas de délivrer un avis positif ou négatif sans équivoque. Le collège donne ensuite un avis au Chef du service. Les règles de fonctionnement de ce collège et les critères sur lesquels est basée l'évaluation des données consultées afin de déterminer la nature de l'avis de sécurité sont fixés par le Roi.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-04-07/44, art. 47, 014; En vigueur : 09-07-2023&gt;
+
+(2)&lt;L 2024-06-02/09, art. 14, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 41
+
+[<sup>1</sup> § 1er. Les articles [<sup>2</sup> 27]<sup>2</sup> et [<sup>2</sup> 28, 29, 30, 31, 33, 34, 36, 37 et 38]<sup>2</sup> ne s'appliquent pas à la délivrance des avis de sécurité visée à l'article [<sup>2</sup> 40]<sup>2</sup>.
+
+§ 2. L'officier de sécurité compétent informe la personne concernée visée à l'article [<sup>2</sup> 40]<sup>2</sup>, alinéa 1er, qu'elle tombe sous l'obligation de se soumettre à la vérification de sécurité visée à l'article [<sup>2</sup> 32]<sup>2</sup> ou que son avis de sécurité positif arrive à échéance en application du paragraphe 6, lui demande son consentement et, s'il l'obtient, transmet la demande individuelle au Chef du Service Général du Renseignement et de la Sécurité des Forces armées, qui effectue la vérification de sécurité.
+
+L'officier de sécurité informe par écrit la personne concernée des conséquences d'un refus de consentement à une vérification de sécurité.
+
+Si l'officier de sécurité compétent omet de s'acquitter de ses obligations visées à l'alinéa 1er, au plus tard trente jours ouvrables avant la date d'échéance de l'avis de sécurité positif de la personne concernée, l'avis de sécurité positif est prolongé sine die.
+
+§ 3. Dans les trente jours de la saisine, l'avis de sécurité délivré par le Chef du Service Général du Renseignement et de la Sécurité des Forces armées est transmis par écrit à l'officier de sécurité compétent. Si l'avis de sécurité est positif, il est également transmis par écrit à la personne concernée.
+
+§ 4. Si l'avis de sécurité est négatif, le Chef du Service Général du Renseignement et de la Sécurité des Forces armées le notifie par envoi recommandé à la personne concernée.
+
+A cette notification est jointe toute information utile sur les conséquences concrètes de l'avis négatif, ainsi que sur les voies de recours à l'encontre de cette décision.
+
+Un avis de sécurité négatif est motivé en fait et en droit, conformément à l'article 22, alinéa 5.
+
+§ 5. Si l'avis de sécurité n'est pas rendu à l'expiration du délai visé au paragraphe 3, il est réputé positif jusqu'à ce qu'un nouvel avis soit rendu.
+
+§ 6. L'avis de sécurité est délivré pour une durée de validité de maximum cinq ans et peut être accompagné d'une réserve. Cette réserve peut être assortie d'une limitation de la durée de validité de l'avis de sécurité.
+
+§ 7. Le Chef du Service Général du Renseignement et de la Sécurité des Forces armées peut de sa propre initiative émettre, avant l'écoulement du délai visé au paragraphe 6, un nouvel avis de sécurité sur la base des données et informations visées à l'article [<sup>2</sup> 32]<sup>2</sup>.
+
+§ 8. La personne concernée peut à tout moment faire savoir par écrit à l'officier de sécurité compétent qu'elle ne souhaite pas ou plus faire l'objet d'une vérification de sécurité. L'officier de sécurité en informe le Chef du Service Général du Renseignement et de la Sécurité des Forces armées.
+
+§ 9. En ce qui concerne les candidats à une fonction ou un emploi visés à l'article [<sup>2</sup> 40]<sup>2</sup>, alinéa 1er, ainsi que les personnes concernées ne disposant pas d'un officier de sécurité, le directeur général de la direction générale human resources du ministère de la Défense exerce le rôle confié à l'officier de sécurité dans le présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-04-07/44, art. 48, 014; En vigueur : 09-07-2023&gt;
+
+(2)&lt;L 2024-06-02/09, art. 15, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 42
+
+[<sup>1</sup> § 1er. Le retrait ou le refus du consentement par la personne concernée, la notification d'un avis négatif et l'absence de réponse à la demande de consentement visée à l'article [<sup>2</sup> 41]<sup>2</sup>, § 2, dans les deux mois à dater de la réception de la demande mettent fin à:
+
+1° la procédure de recrutement ou d'engagement;
+
+2° la formation;
+
+3° la procédure de nomination; et à
+
+4° la possibilité pour la personne concernée de continuer à exercer une fonction ou un emploi visés à l'article [<sup>2</sup> 40]<sup>2</sup>, alinéa 1er.
+
+La mesure prévue à l'alinéa 1er est maintenue tant que la personne concernée n'est pas titulaire d'un avis de sécurité positif.
+
+§ 2. Le candidat à une fonction ou à un emploi au sein de la Défense qui introduit un recours conserve le droit de participer aux épreuves de sélection dans lesquelles il est engagé pendant la durée de la procédure devant l'organe de recours.
+
+§ 3. Lorsque l'avis de sécurité négatif concerne une personne occupant une fonction ou un emploi au sein du ministère de la Défense, ou une personne détachée, sa notification à la personne concernée entraîne de plein droit la suspension dans l'intérêt du service de la personne concernée.
+
+Les modalités relatives à la période de suspension dans l'intérêt de la Défense, la prise éventuelle de mesures conservatoires pendant cette période de suspension et les conséquences administratives et pécuniaires qui ne sont pas fixées au présent article sont déterminées selon le régime juridique applicable à la relation d'emploi de la personne concernée.
+
+§ 4. La mesure visée au paragraphe 1er devient définitive:
+
+1° à l'issue du délai pendant lequel un recours peut être formé devant l'Organe de recours si la personne concernée n'a pas introduit de recours devant l'Organe de recours;
+
+2° lors de la notification de la décision de l'Organe de recours qui confirme l'avis de sécurité négatif;
+
+3° en cas de refus ou de retrait de consentement ou en cas d'absence de réponse à la demande de consentement dans les deux mois à dater de la réception de la demande.
+
+Par dérogation à l'alinéa 1er, la mesure visée au paragraphe 1er ne devient pas définitive lorsque:
+
+1° la personne concernée était dans l'impossibilité de répondre à la demande de consentement dans le délai imparti; et
+
+2° elle en apporte la preuve au Chef du Service Général de Renseignement et de la Sécurité des Forces armées, accompagnée du formulaire de consentement signé dans les plus brefs délais après la fin de l'impossibilité; et
+
+3° le Chef du Service Général du Renseignement et de la Sécurité des Forces armées constate l'impossibilité.
+
+Si le Chef du Service Général de Renseignement et de la Sécurité constate qu'il n'y avait pas d'impossibilité de répondre à la demande de consentement dans le délai imparti, il en informe par écrit la personne concernée. Cette décision est susceptible de recours devant l'Organe de recours.
+
+Si une mobilité dans un autre service de la fonction fédérale est possible, la personne concernée conserve son grade ou un grade équivalent, ainsi que les droits, tels que les droits pécuniaires et les droits à la pension, acquis jusqu'alors.
+
+Les modalités administratives liées aux conséquences d'une absence d'un avis de sécurité positif sont réglées par la loi ou par arrêté royal délibéré en Conseil des ministres.
+
+§ 5. La personne concernée visée au paragraphe 1er, continue à bénéficier de son traitement plein et entier, ainsi que de tous les avantages statutaires liés à sa fonction:
+
+1° durant le délai pendant lequel un recours peut être formé devant l'Organe de recours contre un avis de sécurité négatif;
+
+2° durant la procédure de recours devant l'Organe de recours.
+
+§ 6. Le Chef du Service Général du Renseignement et de la Sécurité informe l'autorité revêtant les attributions de Chef de corps, l'officier de sécurité concerné, ainsi que la direction générale human resources du ministère de la Défense de la notification d'avis négatifs, de refus, de retrait ou de l'absence de consentement et des recours introduits devant l'Organe de recours et des décisions de ce dernier.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2023-04-07/44, art. 49, 014; En vigueur : 09-072023&gt;
+
+(2)&lt;L 2024-06-02/09, art. 16, 016; En vigueur : 01-02-2025&gt;
+
+## CHAPITRE V. [<sup>1</sup> - Des rétributions.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 17, 016; En vigueur : 01-02-2025&gt;
+
+### Section 1re. [<sup>1</sup> - Des rétributions pour les avis de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 17, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 43.
+
+Art. 43. [<sup>1</sup> § 1er. Une rétribution est due par l'employeur de la personne physique pour laquelle un avis de sécurité est sollicité sur la base de l'article 24 ou de l'article 26.
+
+Sont exemptés de la rétribution visée à l'alinéa 1er:
+
+1° les services publics fédéraux;
+
+2° les services publics de programmation et les établissements scientifiques fédéraux;
+
+3° le ministère de la Défense;
+
+4° la Police intégrée;
+
+5° le ministère public, les cours et tribunaux et les juridictions administratives;
+
+6° l'Agence fédérale de Contrôle nucléaire;
+
+7° le Corps interfédéral de l'Inspection des finances.
+
+Sont également exemptés de la rétribution visée à l'alinéa 1er:
+
+1° les journalistes professionnels accrédités et ayant accès à des locaux, bâtiments, sites ou zones liés à des fonctions d'autorité publique ou à un évènement national, international, diplomatique ou protocolaire de grande ampleur;
+
+2° les personnes chargées de missions relatives aux opérations de secours visées à l'article 11, § 1er, 1°, 3° et 4°, de la loi du 15 mai 2007 relative à la sécurité civile et celles chargées de missions relatives aux secours médicaux, sanitaires et psychosociaux ayant accès à des locaux, bâtiments, sites ou zones liés à des fonctions d'autorité publique ou à un évènement national, international, diplomatique ou protocolaire de grande ampleur.
+
+§ 2. Une rétribution n'est pas due pour les avis de sécurité émis par les autorités visées à l'article 25 en ce qui concerne leurs propres locaux, bâtiments, sites, zones ou événements.
+
+§ 3. La rétribution est due à la Police Fédérale ou, le cas échéant, à l'Agence fédérale de Contrôle nucléaire.
+
+§ 4. Le Roi détermine le montant de la rétribution à percevoir pour les avis de sécurité. Le Roi détermine également la clé de répartition de cette rétribution entre les autorités qui exécutent les vérifications de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 17, 016; En vigueur : 01-02-2025&gt;
+
+### Section 2. [<sup>1</sup> - Des rétributions pour les habilitations de sécurité et les approbations des installations physiques de systèmes de communication et d'information ou de produits cryptographiques.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 17, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 44.
+
+Art. 44. [<sup>1</sup> § 1er. La personne physique ou la personne morale pour laquelle une habilitation de sécurité est demandée, est redevable d'une rétribution.
+
+§ 2. Le Roi peut imposer une rétribution à la personne morale qui demande l'approbation d'une installation physique, d'un système de communication et d'information ou d'un produit cryptographique ou qui demande un matériel cryptographique à l'Autorité Nationale de Sécurité.
+
+§ 3. Sont exemptés de toute rétribution visée aux paragraphes 1 et 2:
+
+1° les services publics fédéraux;
+
+2° les services publics de programmation;
+
+3° le ministère de la Défense;
+
+4° l'Agence fédérale de Contrôle nucléaire;
+
+5° le ministère public, les cours et tribunaux et les juridictions administratives;
+
+6° le Corps interfédéral de l'Inspection des finances;
+
+7° la Police intégrée;
+
+8° l'Organe de coordination pour l'analyse de la menace.
+
+§ 4. La rétribution visée aux paragraphes 1 et 2 est due au service administratif à comptabilité autonome "Autorité Nationale de Sécurité".
+
+§ 5. Le Roi fixe le montant des rétributions à percevoir et la clé de répartition entre les services concernés et détermine les modalités de perception des rétributions, de versement des rétributions au service administratif à comptabilité autonome "Autorité Nationale de Sécurité" ainsi que celles relatives à la comptabilité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 17, 016; En vigueur : 01-02-2025&gt;
+
+## CHAPITRE VI. [<sup>1</sup> - Du secret et dispositions diverses et finales.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 18, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 45.
+
+Art. 45. [<sup>1</sup> L'Autorité Nationale de Sécurité, les autorités visées aux articles 1quinquies, alinéas 1er et 3, 24, § 2, 25 et 26, le personnel affecté à l'exercice de leurs missions et les officiers de sécurité sont dépositaires des secrets qui leur sont confiés en raison du concours qu'ils apportent à l'application de la présente loi.
+
+L'obligation de secret subsiste même lorsqu'ils ont cessé d'apporter ce concours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 18, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 46.
+
+Art. 46. [<sup>1</sup> Sans préjudice de l'article 458 du Code pénal, est puni d'un emprisonnement de huit jours à un an et d'une amende de cent francs à quatre mille francs ou d'une de ces peines seulement, toute personne visée à l'article 45 qui aura révélé les secrets en violation de cet article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 18, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 47.
+
+Art. 47. [<sup>1</sup> Sauf lorsque les raisons pour lesquelles elles ont été recueillies sont toujours d'actualité et que leur conservation reste dès lors impérative, les données à caractère personnel collectées ou reçues dans le cadre de la présente loi sont détruites dès que la personne concernée n'est plus susceptible de faire l'objet d'une enquête de sécurité sans préjudice des dispositions légales relatives aux archives de l'Etat.
+
+Sauf lorsque les raisons pour lesquelles elles ont été recueillies sont toujours d'actualité et que leur conservation reste dès lors impérative, les données recueillies à l'occasion des enquêtes de sécurité visées à l'article 12, alinéa 2, sont détruites à l'expiration d'un délai de deux ans, à compter de la date de l'expiration de la validité de l'habilitation de sécurité sans préjudice des dispositions légales relatives aux archives de l'Etat.
+
+Le dossier de vérification de sécurité est détruit à l'expiration d'un délai de deux ans à compter de la date de l'expiration de la validité du dernier avis rendu sans préjudice des dispositions légales relatives aux archives de l'Etat.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 18, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 48.
+
+Art. 48. [<sup>1</sup> La loi du 11 avril 1994 relative à la publicité de l'administration et la loi du 4 mai 2016 relative aux données ouvertes et à la réutilisation des informations du secteur public ne sont pas applicables aux informations classifiées.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 18, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 49.
+
+Art. 49. [<sup>1</sup> L'article 16, § 2, alinéa 2, ne s'applique pas aux personnes recrutées ou engagées avant la date d'entrée en vigueur de cette disposition.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 18, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 50.
+
+Art. 50. [<sup>1</sup> Les arrêtés royaux d'exécution de la présente loi sont pris après avis du Conseil national de sécurité.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-06-02/09, art. 18, 016; En vigueur : 01-02-2025&gt;
+
+## CHAPITRE IIIter.
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 22septies
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 22octies
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+## CHAPITRE IV.
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 23
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 24
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 25
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 26
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 27
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 28
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+##### Art. 29
+
+&lt;Abrogé par L 2024-06-02/09, art. 10, 016; En vigueur : 01-02-2025&gt;
+
+---
+
+Promulguons la presente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par la Moniteur belge.
+
+Donné à Bruxelles, le 11 décembre 1998.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre, Ministre de la Défense nationale, chargé de l'Energie,
+
+J.-P. PONCELET
+
+Le Ministre de la Justice,
+
+T. VAN PARYS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+T. VAN PARYS

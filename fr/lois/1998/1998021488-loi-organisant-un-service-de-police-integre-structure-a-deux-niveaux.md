@@ -1,0 +1,4636 @@
+---
+title: "Loi organisant un service de police intégré, structuré à deux niveaux."
+identifier: "1998021488"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/07/1998021488/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1998-12-07
+published: 1999-01-05
+entry_into_force: 1999-01-05
+last_amended: 2026-06-22
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/07/1998021488/justel"
+department: "Premier Ministre"
+justel_note: "Consultation des versions antérieures à partir du 05-01-1999 et mise à jour au 22-06-2026"
+retrieved: 2026-10-11
+---
+
+# 7 DECEMBRE 1998. - Loi organisant un service de police intégré, structuré à deux niveaux.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté et Nous sanctionnons ce qui suit :
+
+###### Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## TITRE Ier. - Dispositions générales.
+
+### CHAPITRE Ier. - Dispositions liminaires.
+
+###### Art. 2
+
+Dans la présente loi, on entend par : 1° le gouverneur : le gouverneur de province [<sup>1</sup> ou les autorités compétentes de l'agglomération bruxelloise en vertu de l'article 48 de la loi spéciale du 12 janvier 1989 relative aux Institutions bruxelloises]<sup>1</sup>;
+
+2° les services de police : la police fédérale et les corps de police locale;
+
+3° l'inspection générale : l'inspection générale de la police fédérale et de la police locale;
+
+[<sup>2</sup> 4° la députation permanente : le collège provincial en Région wallonne et la députation du conseil provincial en Région flamande.]<sup>2</sup>
+
+[<sup>3</sup> 5° la zone de police ancienne: la zone de police dont le ressort territorial a été antérieurement déterminé par le Roi;
+
+6° la zone de police nouvelle: la zone de police résultant de la fusion de deux ou plusieurs zones de police anciennes organisée par le titre II, chapitre VII, ou par l'article 9/1.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2014-01-06/64, art. 17, 035; En vigueur : 01-07-2014&gt;
+
+(2)&lt;L 2018-05-21/04, art. 2, 045; En vigueur : 30-06-2018&gt;
+
+(3)&lt;L 2026-05-25/16, art. 2, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 3
+
+Les services de police sont organisés et structurés à deux niveaux : le niveau fédéral et le niveau local, lesquels assurent ensemble la fonction de police intégrée. Ces niveaux sont autonomes et dépendent d'autorités distinctes. La présente loi organise les liens fonctionnels entre ces deux niveaux.
+
+Conformément au Titre II de la présente loi, la police locale assure au niveau local la fonction de police de base, laquelle comprend toutes les missions de police administrative et judiciaire nécessaires à la gestion des événements et des phénomènes locaux sur le territoire de la zone de police, de même que l'accomplissement de certaines missions de police à caractère fédéral.
+
+Conformément au Titre III de la présente loi la police fédérale assure sur l'ensemble du territoire, dans le respect des principes de spécialité et de subsidiarité, les missions spécialisées et supralocales de police administrative et judiciaire, ainsi que des missions d'appui aux polices locales et aux autorités de police.
+
+Le service de police intégré garantit aux autorités et aux citoyens un service minimal équivalent sur l'ensemble du territoire du Royaume.
+
+###### Art. 4
+
+Dans le respect des prérogatives des autorités compétentes, les ministres de l'Intérieur et de la Justice sont chargés de coordonner la politique générale en matière de police ainsi que de coordonner la gestion de la police fédérale et de la police locale. A cette fin, ils arrêtent (tous les quatre ans) un plan national de sécurité (après avis du ministre qui a la circulation routière dans ses attributions, concernant les éléments de ce plan relatifs à la sécurité routière). &lt;L 2003-02-07/38, art. 38, 012; En vigueur : 01-03-2004&gt; &lt;L 2003-12-22/42, art. 411, 014; En vigueur : 10-01-2004&gt;
+
+Les lignes de force du plan national de sécurité sont communiquées au Parlement.
+
+Le plan national de sécurité assure une approche globale et intégrée de sécurité et assure la cohérence de l'action des services de police. Les plans zonaux de sécurité en tiennent compte.
+
+En outre, les ministres de l'Intérieur et de la Justice veillent, dans le cadre des compétences qui leur sont attribuées par la présente loi, à organiser les services de police de manière telle qu'une collaboration opérationnelle efficace et que la fonction de police intégrée soient garanties.
+
+###### Art. 5
+
+Les missions des services de police sont fixées par la loi.
+
+### CHAPITRE II. - Le conseil fédéral de police.
+
+###### Art. 6
+
+Il est créé un conseil fédéral de police. Il est composé comme suit : 1° un président;
+
+2° un représentant du ministre de l'Intérieur et un représentant du ministre de la Justice;
+
+3° (un procureur général, sur proposition du collège des procureurs généraux, pour une période renouvelable de quatre ans); &lt;L 2006-06-20/34, art.8, 1°, 021; En vigueur : 26-07-2006&gt;
+
+4° un gouverneur;
+
+5° le procureur fédéral;
+
+6° un procureur du Roi;
+
+7° un juge d'instruction;
+
+8° trois bourgmestres, membres [<sup>1</sup> du conseil des bourgmestres]<sup>1</sup> et provenant chacun d'une Région différente;
+
+9° le commissaire général;
+
+10° un chef de corps de la police locale.
+
+[<sup>3</sup> 11° l'Inspecteur général de l'Inspection générale de la Police Fédérale et de la Police Locale;
+
+12° le directeur général de la Direction Générale Sécurité et Prévention du Service public fédéral Intérieur. ]<sup>3</sup>
+
+Son président excepté, le conseil fédéral de police comprend autant de membres d'expression française que de membres d'expression néerlandaise.
+
+Le président et les membres du conseil fédéral de police visés à l'alinéa 1er, 4°, 6°, 7°, 8° et 10°, sont désignés par arrêté royal délibéré en Conseil des ministres, sur proposition des ministres de l'Intérieur et de la Justice pour une période renouvelable de quatre ans. Le chef de corps de la police locale est désigné sur proposition de la Commission permanente de la police locale [<sup>2</sup> ...]<sup>2</sup>.
+
+(Le Roi désigne par arrêté délibéré en Conseil des Ministres, un suppléant pour chacun des membres visés à l'alinéa 1er, 3°, 4°, 6° à 8° et 10°, en respectant la qualité, le régime linguistique et, le cas échéant, le mode de présentation.) &lt;L 2006-06-20/34, art.8, 2°, 021; En vigueur : 26-07-2006&gt;
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 2, 036; En vigueur : 01-04-2014&gt;
+
+(2)&lt;L 2018-07-19/23, art. 9, 046; En vigueur : 31-08-2018&gt;
+
+(3)&lt;L 2026-05-25/16, art. 3, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 7
+
+Sans préjudice des autres compétences qui lui sont conférées par la loi, le conseil fédéral de police donne des avis aux ministres de l'Intérieur et de la Justice et est chargé de l'évaluation globale du fonctionnement et de l'organisation de la police fédérale et des polices locales, notamment sur la base d'un rapport annuel établi par l'inspection générale de la police fédérale et de la police locale.
+
+Il donne un avis motivé sur le projet de plan national de sécurité, et évalue régulièrement son exécution. L'avis du conseil fédéral de police est communiqué au Parlement, ensemble avec les lignes de forces du plan.
+
+[<sup>1</sup> Il donne obligatoirement son avis sur chaque projet de loi et arrêté confiant de nouvelles missions officielles à la police locale ou fédérale]<sup>1</sup>
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres sur proposition des ministres de l'Intérieur et de la Justice, les modalités de fonctionnement du conseil fédéral de Police.
+
+----------
+
+(1)&lt;L 2013-12-21/22, art. 20, 034; En vigueur : 10-01-2014&gt;
+
+### CHAPITRE III. - [<sup>1</sup> Le conseil des bourgmestres]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 3, 036; En vigueur : 01-04-2014&gt;
+
+###### Art. 8
+
+Un [<sup>1</sup> conseil]<sup>1</sup> des bourgmestres est créé. Tout arrêté réglementaire concernant la police locale est soumis par le ministre de l'Intérieur à l'avis du [<sup>1</sup> conseil]<sup>1</sup>. [<sup>1</sup> Il peut aussi émettre des recommandations d'initiative ou à la demande du ministre de l'Intérieur sur toute matière concernant la réglementation ou la législation relative à la police locale.]<sup>1</sup>
+
+Par arrêté royal délibéré en Conseil des ministres, le Roi détermine la composition et les modalités de la désignation de ses membres et du fonctionnement du conseil, en ce compris les délais dans lesquels les avis du conseil sont rendus.
+
+Le Roi veille au caractère représentatif du [<sup>1</sup> conseil]<sup>1</sup> eu égard aux types de zone de police. Les membres du [<sup>1</sup> conseil]<sup>1</sup> et leurs suppléants sont nommés par le Roi, par arrêté délibéré en Conseil des ministres, pour un terme de trois ans renouvelable.
+
+La perte de la qualité de bourgmestre implique de plein droit la fin du mandat de membre du [<sup>1</sup> conseil]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 4, 036; En vigueur : 01-04-2014&gt;
+
+### CHAPITRE IV. [<sup>1</sup> - Le comité de direction de la police fédérale et le comité de coordination de la police intégrée]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/03, art. 5, 036; En vigueur : 01-10-2014&gt;
+
+###### Art. 8bis
+
+[<sup>1</sup> § 1er. Au sein de la police fédérale, il est créé un comité de direction, composé :
+
+1° du commissaire général;
+
+2° du directeur général de la police administrative;
+
+3° du directeur général de la police judiciaire;
+
+4° du directeur général de la gestion des ressources et de l'information, chargé de la gestion du personnel, de la logistique, de l'ICT, de l'information, ainsi que des finances.
+
+Le comité de direction est dirigé par le commissaire général qui organise également le secrétariat.
+
+Le commissaire général et les directeurs généraux ne peuvent être remplacés au sein du comité de direction que conformément à l'article 120, alinéas 3 et 4.
+
+§ 2. Le comité de direction est chargé de prendre des décisions ou de rendre des avis motivés concernant notamment :
+
+1° la stratégie policière;
+
+2° le projet de plan national de sécurité;
+
+3° le projet de note-cadre en matière de sécurité intégrale;
+
+4° la stratégie de la police fédérale en matière de personnel, de logistique, d'ICT, de finances et d'information;
+
+5° la politique budgétaire et d'investissement.
+
+§ 3. Le comité de direction décide en principe par consensus. A défaut de consensus, la décision est prise par le commissaire général, qui en informe le ministre de l'Intérieur et le ministre de la Justice si la matière relève de ses compétences.
+
+Le comité de direction élabore un règlement d'ordre intérieur qui détermine les autres modalités de son fonctionnement. Ce règlement est soumis, pour approbation, aux ministres de l'Intérieur et de la Justice.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/03, art. 6, 036; En vigueur : 01-10-2014&gt;
+
+###### Art. 8ter
+
+[<sup>1</sup> § 1er. Il est créé un comité de coordination de la police intégrée, composé :
+
+1° des membres du comité de direction de la police fédérale;
+
+2° du président et des vice-présidents de la Commission permanente de la police locale ou de leurs délégués.
+
+Les réunions du comité de coordination de la police intégrée sont présidées alternativement par le commissaire général ou, en cas d'absence, par son représentant et par le président de la Commission permanente de la police locale ou, en cas d'absence ou d'empêchement, par un des vice-présidents.
+
+Les membres du comité de coordination de la police intégrée peuvent se faire assister, à titre consultatif, par des spécialistes de la police intégrée ou des experts conformément aux modalités déterminées dans le règlement d'ordre intérieur.
+
+§ 2. Le comité de coordination de la police intégrée est notamment chargé, soit d'initiative, soit à la demande du ministre de l'Intérieur, du ministre de la Justice ou des deux, de formuler des recommandations et de leur remettre des avis motivés relatifs à la politique policière collective ou à la stratégie de la police intégrée en matière de personnel, de logistique, d'ICT, de budget et d'information.
+
+Le comité de coordination peut se réunir avec le conseil des bourgmestres sur des matières qui relèvent de leurs compétences respectives.
+
+§ 3. Le comité de coordination de la police intégrée élabore un règlement d'ordre intérieur qui détermine les autres modalités de son fonctionnement. Ce règlement est soumis, pour approbation, aux ministres de l'Intérieur et de la Justice.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/03, art. 7, 036; En vigueur : 01-10-2014&gt;
+
+###### Art. 8quater
+
+[<sup>1</sup> § 1er. Il est institué une plate-forme de concertation entre la police intégrée et les autorités judiciaires, dénommée "la plate-forme de concertation Justipol".
+
+La plate-forme de concertation Justipol est composée :
+
+1° des membres du collège des procureurs généraux;
+
+2° du procureur fédéral;
+
+3° du président du Conseil des procureurs du Roi;
+
+4° des membres du comité de direction de la police fédérale;
+
+5° du président et des vice-présidents de la Commission permanente de la police locale ou de leurs délégués.
+
+La plate-forme de concertation Justipol est présidée par le président du collège des procureurs généraux ou, en cas d'absence ou d'empêchement, par un procureur général désigné par le collège.
+
+§ 2. La plate-forme de concertation Justipol est notamment chargée de renforcer la stratégie collective et les modalités de collaboration entre les autorités judiciaires et la police intégrée, sans préjudice de l'article 143quater du Code judiciaire. Elle formule également, d'initiative ou à la demande des ministres de la Justice et de l'Intérieur, des recommandations concernant des problématiques d'intérêt commun relevant des compétences des ministres de la Justice et de l'Intérieur.
+
+§ 3. La plate-forme de concertation Justipol se réunit au moins une fois par semestre.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/03, art. 8, 036; En vigueur : 01-10-2014&gt;
+
+### CHAPITRE V. [<sup>1</sup> - La Commission permanente de la police locale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-19/23, art. 10, 046; En vigueur : 31-08-2018&gt;
+
+###### Art. 8quinquies
+
+[<sup>1</sup> Le Roi crée une Commission permanente de la police locale. A la demande du ministre de l'Intérieur ou d'autres ministres intéressés, du collège des procureurs généraux, d'un gouverneur ou d'un bourgmestre, ou d'initiative, cette commission étudie et donne des avis sur tous les problèmes relatifs à la police locale.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, la composition, le mode d'élection et le mode de fonctionnement de cette commission.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-07-19/23, art. 12, 046; En vigueur : 31-08-2018&gt;
+
+### CHAPITRE VI. [<sup>1</sup> - Comité d'avis en charge de la stratégie en matière d'information.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-22/17, art. 27, 051; En vigueur : 29-06-2019&gt;
+
+###### Art. 8sexies
+
+[<sup>1</sup> § 1er. Il est institué un Comité d'avis en charge de la stratégie en matière d'information et d'ICT au sein de la police intégrée, dénommé "Comité Information et ICT". Ce comité est composé de six membres de la police fédérale, de six membres la police locale et d'un représentant du ministre de l'Intérieur et d'un répresentant du ministre de la Justice.
+
+Le délégué à la protection des données désigné auprès du commissaire général ou son représentant siège en qualité d'expert au Comité Information et ICT.
+
+Le Comité Information et ICT est co-présidé par le directeur général de la gestion des ressources et de l'information de la police fédérale et le président de la Commission permanente de la police locale ou leur délégué, qui font respectivement partie des membres de la police fédérale et de la police locale visés à l'alinéa 1er.
+
+§ 2. Le Comité Information et ICT est chargé, soit d'initiative, soit à la demande du Comité de coordination de la police intégrée, du ministre de l'Intérieur, du ministre de la Justice ou des deux via le Comité de coordination de la police intégrée, du Comité de direction de la police fédérale, de la Commission permanente de la police locale ou d'un responsable du traitement de formuler des recommandations et de leur remettre des avis motivés relatifs à:
+
+1° la politique et aux règles relatives à la gestion de l'information policière et aux systèmes d'information et de communication de la police intégrée;
+
+2° la politique de sécurité de l'information;
+
+3° la politique de protection des données et de sécurisation des données à caractère personnel et de leur traitement.
+
+Le Comité de coordination de la police intégrée communique la réponse du Comité Information et ICT au ministre de l'Intérieur et au ministre de la Justice ou aux deux.
+
+Le Comité Information et ICT transmet annuellement au ministre de l'Intérieur et au ministre de la Justice un rapport quant à la mise en oeuvre et l'exécution des dispositions légales et réglementaires relatives à la gestion de l'information policière opérationnelle et en particulier quant à l'archivage et à l'effacement des données contenues dans les banques de données visées à l'article 44/2, § 1er, alinéa 2, 1° et 2°, de la loi du 5 août 1992 sur la fonction de police ainsi qu'à l'évaluation de la qualité des données traitées dans ces banques de données, notamment pour les aspects liés à l'exactitude, l'exhaustivité, la fiabilité et leur niveau de mise à jour. Ce rapport est également transmis à l'Organe de contrôle visé à l'article 71 de la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard du traitement des données à caractère personnel ainsi qu'au Comité permanent de contrôle des services de police visé à l'article 4 de la loi du 18 juillet 1991 organique du contrôle des services de police et de renseignements et de l'Organe de coordination pour l'analyse de la menace.
+
+Le Comité Information et ICT examine les initiatives prises en matière de gestion de l'information policière et de développement de systèmes pour formuler, le cas échéant, des recommandations et remettre des avis motivés.
+
+Le Comité Information et ICT rend également un avis, d'initiative ou à la demande d'un responsable du traitement, concernant tout projet de traitement de données ayant fait l'objet d'avis divergents de délégués à la protection des données relevant d'autorités différentes, mais non subordonnées l'une à l'autre.
+
+§ 3. Le Comité Information et ICT élabore un règlement d'ordre intérieur qui détermine les modalités de son fonctionnement. Ce règlement est soumis, pour approbation, aux ministres de l'Intérieur et de la Justice.
+
+§ 4. Les avis du Comité Information et ICT sont transmis à l'Organe de contrôle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-05-22/17, art. 28, 051; En vigueur : 29-06-2019&gt;
+
+## TITRE II. - La police locale.
+
+### CHAPITRE Ier. - Dispositions générales.
+
+#### Section 1re. - Les zones de police.
+
+###### Art. 9
+
+Après que l'avis des bourgmestres concernés, qui consultent les conseils communaux à cet effet, ainsi que l'avis du procureur général et du gouverneur aient été recueillis sur une proposition de répartition du ministre de l'Intérieur, le Roi divise, par arrêté royal délibéré en Conseil des ministres sur la proposition des ministres de l'Intérieur et de la Justice, le territoire des provinces [<sup>4</sup> ...]<sup>4</sup> en zones de police. Pour ce faire, les limites des arrondissements judiciaires sont respectées, sauf en ce qui concerne les communes ressortissant à plusieurs arrondissements judiciaires.
+
+Une zone de police est composée d'une ou de plusieurs communes.[<sup>5</sup> Chaque zone de police]<sup>5</sup> est dotée de la personnalité juridique.
+
+[<sup>1</sup> Le présent article est également d'application [<sup>3</sup> ...]<sup>3</sup>, à la modification des délimitations des zones de police fixées, autre que celle visée au Titre II, Chapitre VII, pour autant que cela n'ait pas pour conséquence une augmentation du nombre de zones déterminé par l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2009-12-30/01, art. 192, 026; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2016-04-21/06, art. 24, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+(3)&lt;L 2018-07-19/23, art. 11, 046; En vigueur : 31-08-2018&gt;
+
+(4)&lt;L 2026-05-25/16, art. 4,1°, 056; En vigueur : 02-07-2026&gt;
+
+(5)&lt;L 2026-05-25/16, art. 4,2°, 056; En vigueur : 01-07-2027&gt;
+
+###### Art. 9/1
+
+[<sup>1</sup> § 1er. Le territoire de l'arrondissement administratif de Bruxelles-Capitale forme une zone de police unique.
+
+Le Roi institue la police locale de cette zone de police nouvelle, au premier jour d'un trimestre, et au plus tard un an après l'entrée en vigueur du présent article, lorsqu'Il constate que les conditions suivantes sont remplies:
+
+1° le cadre du personnel est déterminé;
+
+2° le montant des dotations communales au budget de la zone de police nouvelle est conforme à l'article 91/9;
+
+3° le compte de fin de gestion est dressé et approuvé conformément à l'article 257quinquies/9, § 1er.
+
+Les collèges de police concernés peuvent, conjointement et sous la forme d'une demande écrite et motivée, solliciter auprès du ministre de l'Intérieur un report de l'institution de la police locale de la nouvelle zone de police pour une durée maximale de six mois.
+
+Le Roi peut, sur proposition du ministre de l'Intérieur, reporter l'institution de la police locale de cette nouvelle zone de police pour une durée maximale de six mois.
+
+Le ministre de l'Intérieur ou le gouverneur peut, après l'expiration du délai d'un an ou de dix-huit mois, charger un ou plusieurs commissaires spéciaux visés à l'article 89 de se rendre sur place, afin d'exécuter les conditions visées à l'alinéa 2.
+
+L'institution de la police locale de cette zone de police nouvelle met fin à l'existence des six zones de police anciennes, définies par l'arrêté royal du 28 avril 2000 déterminant la délimitation du territoire de l'arrondissement administratif de Bruxelles-Capitale en zones de police.
+
+§ 2. Une phase de préparation opérationnelle est organisée par le collège de police en collaboration avec les chefs de corps des zones de police concernées. Les chefs de corps proposent au collège de police, parmi eux, un coordinateur.
+
+Le collège de police désigne le coordinateur parmi les chefs de corps des zones de police concernées, sur la base de cette proposition, avant l'entrée en vigueur de l'arrêté royal d'institution de la zone de police nouvelle.
+
+La phase préparatoire visée à l'alinéa 1er a pour but:
+
+1° d'engager la procédure préparatoire à la désignation du chef de corps de la zone de police nouvelle, ainsi que de désigner un comptable spécial et un secrétaire;
+
+2° de préparer des propositions relatives au nombre et à la répartition des postes de police;
+
+3° d'élaborer une version provisoire des lignes directrices pour le futur plan zonal de sécurité à soumettre au collège de police de la zone de police nouvelle;
+
+4° d'établir un inventaire des biens des zones de police anciennes;
+
+5° de formuler des propositions visant à harmoniser les contributions au service minimal visé à l'article 3;
+
+6° de formuler des propositions en vue de l'harmonisation des politiques et pratiques de gestion des ressources humaines;
+
+7° de formuler des propositions concernant la mutualisation et la sécurisation des données et informations policières opérationnelles et non opérationnelles;
+
+8° de formuler des propositions d'organisation et de fonctionnement de la zone de police nouvelle et d'implantation de ses services;
+
+9° de se concerter avec les organisations syndicales représentatives dans un comité local commun de concertation de base sur les impacts organisationnels et sociaux.
+
+Dès que le lauréat issu de la procédure de désignation de la fonction de chef de corps de la zone de police nouvelle est proposé au Roi par le collège de police, le coordinateur désigné en application de l'alinéa 2 lui cède le rôle de coordinateur.
+
+§ 3. Les articles 41bis/1, 91/6 à 91/10, 257quinquies/1 à 257quinquies/4 et 257quinquies/7 à 257quinquies/10 sont d'application à la zone de police nouvelle visée au paragraphe 1er. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/16, art. 5, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 10
+
+Chaque zone de police dispose d'un corps de police locale. Dans les zones pluricommunales, la police locale est organisée de manière telle à disposer d'un ou plusieurs postes de police dans chaque commune de la zone [<sup>1</sup> et en tout cas de manière à garantir l'accessibilité de la police]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 6, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 11
+
+&lt;Abrogé par L 2026-05-25/16, art. 7, 056; En vigueur : 02-07-2026&gt;
+
+#### Section 2. [<sup>1</sup> Le collège de police ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 8, 056; En vigueur : 02-07-2026&gt;
+
+##### Sous-section 1re. [<sup>1</sup> Composition et compétences du collège de police ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 9, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 12
+
+[<sup>1</sup> § 1er. La zone de police locale est administrée par un collège de police.
+
+Dans les zones unicommunales, le collège de police est constitué des membres du collège des bourgmestre et échevins ou du collège communal.
+
+Dans les zones pluricommunales, le collège de police est constitué des bourgmestres des communes de la zone.
+
+Le mandat de membre du collège de police prend cours au moment de la prestation de serment en qualité de bourgmestre ou d'échevin.
+
+§ 2. Dans les zones unicommunales, le bourgmestre est le président du collège de police.
+
+§ 3. Dans les zones pluricommunales, les membres du collège de police désignent en leur sein un président.
+
+La durée de l'exercice de la présidence est fixée soit à trois ans, renouvelable une fois, soit à six ans.
+
+A défaut d'accord dans un délai de trois mois suivant les élections communales, la présidence est assurée par le membre du collège qui dispose du plus grand nombre de voix conformément à l'article 24.
+
+En cas d'égalité des voix, la présidence est assurée par le bourgmestre de la commune qui contribue le plus à la dotation policière minimale de la zone de police.
+
+§ 4. Dans une zone pluricommunale, le président du collège de police peut attribuer aux membres du collège de police des portefeuilles en lien avec les fonctionnalités de base de la police locale ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 6, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 13
+
+[<sup>1</sup> Les décisions relatives au budget, à la gestion financière de la zone de police, à la fixation du cadre du personnel et aux questions liées au personnel de la zone de police, ainsi que celles relatives à la désignation du chef de corps sont prises par le collège de police.
+
+Le collège de police répond en justice à toute action intentée contre la zone de police. Il intente d'initiative ou, le cas échéant, sur injonction du conseil communal ou d'un des conseils communaux de la zone pluricommunale, toute action en justice, y compris les actions en référé, comme en référé et les actions possessoires. Il fait tous les actes conservatoires ou interruptifs de la prescription et les déchéances.
+
+A la demande du collège de police, le conseil communal territorialement compétent est également habilité à exproprier au profit de la zone de police pour cause d'utilité publique conformément à l'article 61, § 1er, de la loi-programme du 6 juillet 1989. Le bien exproprié est immédiatement incorporé au patrimoine de la zone de police ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 7, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 14
+
+&lt;Abrogé par L 2026-05-25/16, art. 12, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 15
+
+&lt;Abrogé par L 2026-05-25/16, art. 13, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 16
+
+&lt;Abrogé par L 2026-05-25/16, art. 10, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 17
+
+&lt;Abrogé par L 2026-05-25/16, art. 15, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 18
+
+&lt;Abrogé par L 2026-05-25/16, art. 16, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 18bis
+
+&lt;Abrogé par L 2026-05-25/16, art. 17, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 18ter
+
+&lt;Abrogé par L 2026-06-12/07, art. 2, 057; En vigueur : 02-07-2026&gt;
+
+###### Art. 18quater
+
+&lt;Abrogé par L 2026-06-12/07, art. 3, 057; En vigueur : 02-07-2026&gt;
+
+###### Art. 19
+
+&lt;Abrogé par L 2026-05-25/16, art. 18, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 20
+
+&lt;Abrogé par L 2026-05-25/16, art. 19, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 20bis
+
+&lt;Abrogé par L 2026-05-25/16, art. 20, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 20ter
+
+[<sup>1</sup> § 1er. Les membres du collège de police ne peuvent jouir d'aucun émolument supplémentaire à charge de la commune ou de la zone de police.
+
+§ 2. [<sup>2</sup> ...]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-05-21/04, art. 11, 045; En vigueur : 30-06-2018&gt;
+
+(2)&lt;L 2026-05-25/16, art. 21, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 21
+
+&lt;Abrogé par L 2026-05-25/16, art. 22, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 21bis
+
+&lt;Inséré par L 2001-04-02/34, art. 15; En vigueur : 01-01-2001&gt; Sans préjudice de l'application de l'article 21, la démission présentée par un membre du conseil de police, élu conformément à l'article 18, est introduite par écrit auprès [<sup>1</sup> du président]<sup>1</sup> du conseil de police.
+
+Le gouverneur signifie au membre concerné du conseil de police, par lettre recommandée à la poste avec accusé de réception, la décision de la députation permanente, visée à l'article 21ter ou celle du collège visé à l'article 83quinquies, § 2, de la loi spéciale du 12 janvier 1989, concernant les institutions bruxelloises. Cette décision est portée à la connaissance du bourgmestre de la commune où le membre concerné est membre du conseil communal ainsi qu'au président du conseil de police. La décision précitée de la députation permanente ou du collège prend effet à dater de sa signification au membre concerné du conseil de police.
+
+----------
+
+(1)&lt;L 2018-05-21/04, art. 12, 045; En vigueur : 30-06-2018&gt;
+
+###### Art. 21ter
+
+&lt;Abrogé par L 2026-06-12/07, art. 4, 057; En vigueur : 02-07-2026&gt;
+
+###### Art. 21quater
+
+&lt;Abrogé par L 2026-06-12/07, art. 5, 057; En vigueur : 02-07-2026&gt;
+
+###### Art. 22
+
+[<sup>1</sup> § 1er. Le membre empêché ou absent [<sup>2</sup> ...]<sup>2</sup> du collège de police est remplacé en appliquant les dispositions qui, dans l'entité fédérée sur le territoire de laquelle est située la zone concernée, règlent de manière générale le remplacement[<sup>2</sup> ...]<sup>2</sup> du bourgmestre [<sup>2</sup> ou, le cas échéant, de l'échevin,]<sup>2</sup> lorsqu'il est empêché ou absent.
+
+§ 2. [<sup>2</sup> Le membre du collège de police qui, en raison d'un handicap, ne peut exercer seul son mandat peut, pour l'accomplissement de ce mandat, se faire assister par une personne de confiance.
+
+La personne de confiance est choisie librement par le membre du collège de police parmi des personnes majeures, ayant la qualité d'électeurs dans une commune belge, non frappées d'une incapacité juridique et n'appartenant pas au personnel de la police locale ou fédérale. Son rôle est strictement limité à l'assistance nécessaire à l'exercice du mandat du membre handicapé, sans voix délibérative ou consultative propre.
+
+Avant d'entamer sa mission, la personne de confiance prête, entre les mains du président du collège de police, le serment de garder le secret des délibérations et des informations confidentielles dont elle aurait connaissance dans l'exercice de sa fonction]<sup>2</sup>.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-05-21/04, art. 14, 045; En vigueur : 30-06-2018&gt;
+
+(2)&lt;L 2026-05-25/16, art. 24, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 22bis
+
+&lt;Abrogé par L 2026-05-25/16, art. 25, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 23
+
+&lt;Abrogé par L 2026-05-25/16, art. 26, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 24
+
+Au sein du [<sup>1</sup> collège de police d'une zone pluricommunale,]<sup>1</sup> chaque bourgmestre dispose d'un nombre de voix proportionnel à la dotation policière minimale que sa commune investit dans la zone pluricommunale.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Le Roi fixe, par arrêté délibéré en Conseil des ministres, les modalités à suivre pour l'octroi de voix aux membres du collège de police.
+
+[<sup>1</sup> Au sein du collège de police d'une zone unicommunale, chaque membre dispose d'une voix.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 27, 056; En vigueur : 02-07-2026&gt;
+
+##### Sous-section 2. [<sup>1</sup> Réunions, délibérations et décisions du collège de police ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 28, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 25
+
+[<sup>1</sup> Le collège de police se réunit aussi souvent que les affaires relevant de sa compétence l'exigent, et au moins dix fois par an. Les délibérations ne sont pas publiques.
+
+Chaque membre du collège de police peut mettre un point à l'ordre du jour du collège de police.
+
+Le gouverneur est invité aux réunions du collège de police, notamment lorsqu'un point à l'ordre du jour présente un intérêt particulier pour la coordination ou l'équilibre intercommunal.
+
+Le ministre-président de la Région de Bruxelles-Capitale, le Haut fonctionnaire de l'Agglomération bruxelloise et le vice-gouverneur de l'arrondissement administratif de Bruxelles-Capitale participent aux réunions du collège de police, sans voix délibérative ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 29, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 25/1
+
+&lt;Abrogé par L 2026-05-25/16, art. 30, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 25/2
+
+&lt;Abrogé par L 2026-05-25/16, art. 31, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 25/3
+
+&lt;Abrogé par L 2026-05-25/16, art. 32, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 25/4
+
+&lt;Abrogé par L 2026-05-25/16, art. 33, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 25/5
+
+[<sup>1</sup> Le [<sup>2</sup> collège de police]<sup>2</sup>adopte un règlement d'ordre intérieur. Outre les dispositions que la présente loi prescrit d'y consigner, ce règlement peut comprendre des mesures complémentaires relatives au fonctionnement du [<sup>2</sup> collège]<sup>2</sup>.]<sup>1</sup>
+
+[<sup>2</sup> Le règlement d'ordre intérieur fixe le mode de scrutin en fonction de l'affaire traitée.
+
+Moyennant l'accord de tous ses membres, le collège de police peut prévoir, dans son règlement d'ordre intérieur, les cas dans lesquels et les modalités selon lesquelles les membres peuvent participer à ses réunions à distance. Les membres du collège de police qui participent à ces réunions à distance sont réputés présents pour le respect des conditions de quorum et de majorité]<sup>2</sup>.
+
+----------
+
+(1)&lt;Inséré par L 2017-05-31/11, art. 3, 042; En vigueur : 02-07-2017&gt;
+
+(2)&lt;L 2026-05-25/16, art. 34, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 25/6
+
+&lt;Abrogé par L 2026-05-25/16, art. 35, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 25/7
+
+&lt;Abrogé par L 2026-05-25/16, art. 36, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 25/8
+
+&lt;Abrogé par L 2026-05-25/16, art. 37, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 26
+
+&lt;Abrogé par L 2026-05-25/16, art. 38, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 26/1
+
+&lt;Abrogé par L 2026-05-25/16, art. 39, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 26/2
+
+&lt;Abrogé par L 2026-05-25/16, art. 40, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 26/3
+
+&lt;Abrogé par L 2026-05-25/16, art. 41, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 27
+
+§ 1er.[<sup>1</sup> Le collège de police présente annuellement un rapport écrit au conseil communal ou aux conseils communaux de la zone de police. Le collège de police de la zone de police visée à l'article 9/1, § 1er, alinéa 1er, présente également ce rapport au conseil régional de sécurité de l'agglomération bruxelloise.
+
+Le rapport visé à l'alinéa 1er porte sur l'exercice au sein de la zone des fonctionnalités de base de la police locale, les ressources humaines et les aspects budgétaires et financiers. Il contient également des données chiffrées par commune au sujet de l'affectation territoriale du cadre opérationnel et du cadre administratif et logistique, en ce qui concerne l'accueil, le nombre de patrouilles, le nombre d'interventions et le temps d'intervention.
+
+Le projet de rapport est rédigé par le chef de corps, sous la responsabilité du collège de police, qui le valide et le communique au plus tard avant la fin de l'année.
+
+Le chef de corps, ou son délégué, expose chaque année le rapport écrit oralement au conseil communal ou aux conseils communaux de la zone.
+
+Le rapport écrit est transmis à l'inspection générale, qui en assure l'analyse dans le cadre de ses missions.
+
+§ 2. Les conseillers communaux peuvent, sur demande écrite, obtenir, a minima par voie électronique, copie des actes et documents relatifs à l'administration et au fonctionnement de la zone de police, selon les modalités fixées par le règlement d'ordre intérieur du collège de police. Le règlement d'ordre intérieur porte uniquement sur les modalités pratiques de transmission, notamment la forme, le support et les délais. L'accès aux actes et documents s'exerce dans le respect de la législation relative à la protection des données à caractère personnel.
+
+§ 3. Les conseillers communaux peuvent à l'intervention du bourgmestre adresser des questions écrites et orales au collège de police.
+
+Les conseillers communaux peuvent également interpeller le bourgmestre de leur commune au sein du conseil communal sur les décisions prises par le collège de police ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 42, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 27/1
+
+&lt;Abrogé par L 2026-05-25/16, art. 43, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 27/2
+
+&lt;Abrogé par L 2026-05-25/16, art. 44, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 27/3
+
+[<sup>1</sup> Il est interdit [<sup>2</sup> ...]<sup>2</sup> aux membres du collège de police :
+
+1° d'être présents ou représentés à une délibération ou une décision portant sur des sujets auxquels ils ont un intérêt direct, soit personnellement, soit comme chargés d'affaires, avant ou après leur élection, ou auxquels leurs parents ou alliés jusqu'au quatrième degré inclusivement ont un intérêt personnel et direct. Cette prohibition ne s'étend pas au-delà des parents ou alliés jusqu'au deuxième degré, lorsqu'il s'agit de la présentation de candidats, de nominations ou de poursuites disciplinaires;
+
+2° de prendre part directement ou indirectement à tout service, toute perception de droits, [<sup>2</sup> ...]<sup>2</sup> quelconque pour la zone de police;
+
+[<sup>2</sup> 2° /1 d'être en position d'un conflit d'intérêt au sens de l'article 6 de la loi du 17 juin 2016 relative aux marchés publics, dans l'exercice de leurs fonctions, y compris lorsque la décision ou l'opération concernée n'est pas soumise à cette loi;]<sup>2</sup>
+
+3° d'intervenir comme avocat, notaire ou homme d'affaires dans les procès dirigés contre la zone de police. Ils ne pourront, en la même qualité, plaider, aviser ou suivre aucune affaire litigieuse quelconque dans l'intérêt de la zone de police;
+
+4° d'agir en qualité de conseil d'un membre du personnel en matière disciplinaire.
+
+[<sup>2</sup> Sans préjudice de l'alinéa 1er, 3°, le chef de corps et le comptable spécial peuvent suivre les procès dirigés contre ou pour la zone de police en tant que conseillers, pour autant qu'ils n'aient aucun intérêt personnel dans l'action introduite. ]<sup>2</sup>
+
+Ces dispositions s'appliquent également au secrétaire.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2017-05-31/11, art. 7, 042; En vigueur : 02-07-2017&gt;
+
+(2)&lt;L 2026-05-25/16, art. 45, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 28
+
+[<sup>2</sup> Le collège de police peut uniquement délibérer si la majorité des membres sont présents ]<sup>2</sup>.
+
+Les décisions du collège de police sont prises à la majorité des voix visée à l'[<sup>2</sup> article 24]<sup>2</sup>. En cas de parité de voix, le collège de police reporte l'affaire à une prochaine réunion. Si la majorité des voix du collège de police a déclaré au préalable urgent le traitement de l'affaire, ou si l'affaire avait été reportée lors d'une réunion précédente après parité de voix, la voix du président est prépondérante en cas de parité des voix.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> Cependant, si le collège de police a été convoqué deux fois sans s'être trouvé en nombre requis, il pourra, après une troisième et dernière convocation, quel que soit le nombre de membres présents, valablement délibérer et prendre des décisions concernant les sujets mis à l'ordre du jour pour la troisième fois]<sup>2</sup>
+
+[<sup>2</sup> § 2. Lorsque le bourgmestre d'une commune appartenant à une zone de police pluricommunale estime qu'une décision du collège de police porte atteinte à l'intérêt général de sa commune ou méconnaît une disposition légale ou réglementaire visée à l'article 87, § 1er, il peut, dans un délai de cinq jours ouvrables à compter de la communication de la décision, activer la procédure de la sonnette d'alarme en adressant au gouverneur une demande écrite et motivée tendant à la suspension de l'exécution de cette décision, à condition que la décision:
+
+1° soit porte sur la répartition géographique des postes de police au sein de la zone;
+
+2° soit concerne le plan zonal de sécurité;
+
+3° soit concerne le budget ou la gestion financière de la zone de police.
+
+La demande prend la forme d'une notification écrite et signée, précise les dispositions prétendument violées ou contient une motivation circonstanciée de l'atteinte à l'intérêt communal concerné. En l'absence de motivation, le gouverneur déclare la demande irrecevable.
+
+Sur cette base, le gouverneur peut suspendre par arrêté motivé l'exécution de la décision litigieuse. La décision de suspension est prise et adressée, au plus tard dans un délai de cinq jours ouvrables, au collège de police. Une copie est envoyée au ministre de l'Intérieur. Au cas où le gouverneur laisse expirer le délai de suspension, la décision du collège de police est définitive.
+
+Le collège de police peut, dans le délai prévu à l'article 87, § 2, fournir une justification motivée de la décision suspendue. Le ministre de l'Intérieur peut, dans les délais fixés par la loi et par décision motivée, annuler la décision suspendue du collège de police pour l'un des motifs visés à l'alinéa 1er.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2018-07-15/09, art. 2, 047; En vigueur : 01-11-2018&gt;
+
+(2)&lt;L 2026-05-25/16, art. 46, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 28/1
+
+[<sup>1</sup> § 1er. Si le collège de police d'une zone de police pluricommunale est composé d'au moins quinze bourgmestres, un bureau est institué de plein droit pour assurer sa gestion quotidienne et la préparation des décisions du collège de police.
+
+Le bureau visé à l'alinéa 1er est composé d'un tiers des membres du collège de police. Si ce tiers n'équivaut pas à un nombre entier, il est arrondi à l'unité supérieure.
+
+Les membres du bureau sont désignés par le collège de police parmi ses membres, à la majorité des voix déterminée conformément à l'article 24. Au moins un tiers des membres du bureau est issu d'une commune dont la population se situe en dessous de la médiane de la population des communes de la zone concernée au 1er janvier de l'année civile précédant l'installation du bureau. Si la population d'une commune correspond exactement à la médiane de la population des communes appartenant à la zone, cette commune est considérée comme appartenant au groupe de communes appartenant à la médiane inférieure.
+
+Le président du collège de police est de plein droit le président du bureau.
+
+§ 2. Le bureau prépare les affaires de la compétence du collège de police, en collaboration avec le chef de corps, et fixe l'ordre du jour des réunions du collège de police.
+
+Moyennant l'accord de tous ses membres, le collège de police peut prévoir, dans son règlement d'ordre intérieur, les cas dans lesquels et les modalités selon lesquelles les membres du bureau peuvent participer à ses réunions à distance. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/16, art. 47, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 29
+
+[<sup>1</sup> ...]<sup>1</sup> la fonction de secrétaire [<sup>1</sup> ...]<sup>1</sup> du collège de police est exercée par un membre du personnel du cadre administratif et logistique du corps de police local ou d'une des administrations communales de la zone. Il est désigné [<sup>1</sup> ...]<sup>1</sup> par le collège de police. Il rédige les procès-verbaux [<sup>1</sup> ...]<sup>1</sup> du collège [<sup>1</sup> et, le cas échéant, ]<sup>1</sup> et en assure la transcription.
+
+Le chef de corps de la police locale est chargé de la préparation des affaires qui sont soumises [<sup>1</sup> ...]<sup>1</sup> au collège de police [<sup>1</sup> et, le cas échéant, au bureau,]<sup>1</sup> et assiste aux séances [<sup>1</sup> ...]<sup>1</sup> du collège [<sup>1</sup> et du bureau]<sup>1</sup>.
+
+Les procès-verbaux transcrits sont signés par le président et par le secrétaire.
+
+Le procès-verbal reprend tous les objets mis en discussion ainsi que la suite réservée à tous les points pour lesquels aucune décision n'a été prise. De même, il reproduit clairement toutes les décisions.
+
+La correspondance émanant [<sup>1</sup> ...]<sup>1</sup> du collège de police [<sup>1</sup> et, le cas échéant, du bureau,]<sup>1</sup> est signée par le président et contresignée par le chef de corps, sauf si une délégation est accordée à cet effet.
+
+[<sup>1</sup> Les procès-verbaux sont transmis aux conseils communaux dans les cinq jours suivant leur approbation lors de la réunion suivante, dans le respect de la législation relative à la protection des données à caractère personnel. La transmission se fait par voie électronique, sauf disposition contraire du règlement d'ordre intérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 1, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 29bis
+
+&lt;Abrogé par L 2026-05-25/16, art. 49, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 30
+
+[<sup>1</sup> § 1.]<sup>1</sup> Les recettes et dépenses de la zone de police sont effectuées par un comptable spécial (, qui doit pouvoir exercer sa mission en toute indépendance). &lt;L 2006-06-20/34, art.9, 1°, 021; En vigueur : 26-07-2006&gt;
+
+(Le comptable spécial est le conseiller financier et le gestionnaire financier de la police locale.
+
+Il est placé sous l'autorité du collège de police.) &lt;L 2006-06-20/34, art.9, 2°, 021; En vigueur : 26-07-2006&gt;
+
+[<sup>1</sup> Le comptable spécial est désigné par le collège de police parmi les receveurs régionaux, les directeurs financiers des communes de la région flamande ou wallonne, les receveurs communaux de la Région de Bruxelles-Capitale et les directeurs financiers des centres publics d'action sociale d'une des communes faisant partie de la zone de police ou d'une autre zone de police.
+
+Le collège de police peut également désigner, comme comptable spécial, un membre du personnel de niveau A disposant de compétences comptables, de gestion financière et budgétaire, ainsi que de pilotage stratégique des ressources et des priorités issu du cadre administratif et logistique du corps de police locale, ou un membre du personnel d'une commune ou d'un centre public d'aide sociale appartenant ou non à la zone, qui satisfait aux conditions pour être nommé dans sa commune en qualité de directeur financier pour des communes de la région flamande ou wallonne, ou en qualité de receveur communal de la région de Bruxelles-Capitale, ou en qualité de directeur financier du centre public d'aide sociale, exception faite, le cas échéant, de la condition d'âge]<sup>1</sup>.
+
+Une même personne peut être désignée comme comptable spécial de plusieurs zones de police. (Un corps de police locale peut mettre un membre de son personnel du cadre administratif et logistique [<sup>1</sup> disposant de compétences comptables]<sup>1</sup> à disposition d'un autre corps de police locale à titre de comptable spécial à temps plein ou à temps partiel, quelle que soit sa fonction au sein de son corps de police d'origine.) &lt;L 2006-06-20/34, art.9, 4°, 021; En vigueur : 26-07-2006&gt;
+
+Le comptable spécial qui n'a pas la qualité de receveur [<sup>1</sup> ou de directeur financie]<sup>1</sup>, prête serment entre les mains du président du collège de police, dans les termes repris à l'article 137.) &lt;L 2001-12-30/30, art. 105, 009; En vigueur : 01-01-2002&gt;
+
+[<sup>1</sup> Une allocation équivalente à l'allocation de mandat du chef de corps est octroyée au comptable spécial. Pour le surplus, il reste régi par les dispositions de son statut d'origine]<sup>1</sup>
+
+[<sup>1</sup> § 2.]<sup>1</sup> [<sup>1</sup> Le comptable spécial est chargé seul et sous sa responsabilité:
+
+1° de la tenue de la comptabilité de la zone, ce qui comprend:
+
+a) la centralisation des engagements;
+
+b) l'imputation des dépenses;
+
+c) l'établissement des comptes annuels;
+
+2° de la perception des recettes et de la poursuite de l'encaissement des créances régulières;
+
+3° de procéder au paiement des dépenses sur mandats réguliers;
+
+4° de la gestion de la trésorerie de la zone, ce qui comprend:
+
+a) la gestion des comptes ouverts au nom de la zone dont il est l'unique mandataire;
+
+b) le placement des fonds de trésorerie à court terme;
+
+c) la demande des avances de trésorerie à court terme et de l'éventuelle conversion de celles-ci en crédit à terme fixe pour des durées n'excédant pas un an;
+
+d) la gestion active de la dette;
+
+5° de remettre un avis sur tout projet ayant une incidence financière, hormis les délégations que le collège de police peut donner au chef de corps de fournir des avis en matière financière.]<sup>1</sup>
+
+[<sup>1</sup> Le collège de police peut confier au comptable spécial toute autre mission en rapport avec ses compétences, notamment en matière de gestion financière et peut l'entendre sur toutes les questions qui ont une incidence financière ou budgétaire. Il est invité à chaque réunion du collège de police ayant une incidence budgétaire.]<sup>1</sup>
+
+Dans le cas où il y aurait de la part du comptable spécial refus ou retard d'acquitter le montant de mandats réguliers, le payement en sera poursuivi, comme en matière de contributions directes, par le receveur de l'Etat sur l'exécutoire du gouverneur, qui convoque le comptable spécial et l'entend préalablement, s'il se présente.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> § 3. Pour l'exercice de ses missions légales, le comptable spécial doit avoir les moyens d'exercer ses fonctions.]<sup>1</sup>
+
+[<sup>1</sup> § 4. En vue du recouvrement des créances incontestées et exigibles, le comptable spécial peut établir une contrainte, visée et déclarée exécutoire par le collège de police. Une telle contrainte est signifiée par exploit d'huissier de justice. Cet exploit interrompt la prescription.
+
+Une contrainte peut uniquement être visée et rendue exécutoire par le collège de police si la dette est liquide, certaine et exigible. Le débiteur doit en outre avoir été préalablement mis en demeure par lettre recommandée. La zone de police peut imputer des frais administratifs pour cette lettre recommandée. Ces frais sont à charge du débiteur et peuvent également être recouvrés par l'exploit. Les dettes d'une personne morale de droit public ne peuvent jamais être récupérées par un exploit.
+
+Un recours contre la contrainte peut être introduit dans le mois de sa signification par requête ou par citation. En ce qui concerne l'accomplissement des missions visées dans le présent paragraphe, le comptable spécial rend compte au collège de police, sous sa responsabilité.
+
+§ 5. Lors de l'installation et de la cessation des fonctions du comptable spécial, il est procédé à la remise de l'encaisse et des pièces comptables, sous la surveillance du collège de police.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 50, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 31
+
+&lt;Abrogé par L 2016-05-29/05, art. 2, 040; En vigueur : 25-09-2016&gt;
+
+###### Art. 32
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> En cas d'absence du comptable spécial,]<sup>1</sup> (Le collège de police, sur proposition du comptable spécial [<sup>1</sup> , désigne]<sup>1</sup> un comptable spécial d'une autre zone de police [<sup>1</sup> ou un directeur financier]<sup>1</sup> ou un receveur communal ou d'un centre public d'aide sociale pour, sous sa responsabilité, le remplacer en cas d'absence justifiée, pour une période de maximum trente jours. Ce remplacement peut, pour une même absence, être prolongé [<sup>1</sup> trois]<sup>1</sup> fois pour un même délai maximum. Dans tous les autres cas, le [<sup>1</sup> trois]<sup>1</sup> peut désigner un [<sup>1</sup> comptable spécial]<sup>1</sup> faisant fonction qui doit satisfaire aux conditions pour être désigné comptable spécial. Le comptable spécial faisant fonction exerce toutes les compétences du comptable spécial. L'indemnité du comptable spécial est octroyée à son remplaçant.) &lt;L 2001-12-30/30, art. 107, 009; En vigueur : 01-01-2002&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 51, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 32bis
+
+&lt;Inséré par L 2001-12-30/30, art. 108; En vigueur : 01-01-2002&gt; [<sup>1</sup> Le collège de police]<sup>1</sup> peut fixer une indemnité pour le secrétaire dans la zone de police.) Cette [<sup>1</sup> allocation]<sup>1</sup> ne peut être supérieure au montant maximal de l'[<sup></sup> 1 allocation ]<sup>1</sup> du comptable spécial [<sup>1</sup> ...]<sup>1</sup>. &lt;L 2002-04-26/30, art. 100, 010; En vigueur : 30-04-2002&gt;
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 52, 056; En vigueur : 02-07-2026&gt;
+
+##### Sous-section 3. - Gestion budgétaire et financière.
+
+###### Art. 33
+
+[<sup>1</sup> § 1er.]<sup>1</sup> [<sup>2</sup> Le collège de police détermine les conditions de location ou de bail et de tout autre usage des revenus et recettes des biens et droits de la zone de police]<sup>2</sup>.
+
+[<sup>1</sup> § 2. [<sup>2</sup> Le collège de police choisit le mode de passation des marchés publics de travaux, de fournitures ou de services, ou des contrats de concessions de services ou de travaux et en fixe les conditions.
+
+Le collège de police peut déléguer l'exercice de ses compétences visées à l'alinéa 1er au chef de corps ou à un autre membre du personnel de la zone, pour les marchés publics de faible montant, tels que visés à l'article 92 de la loi du 17 juin 2016 relative aux marchés publics, et informe par écrit le comptable spécial de cette délégation. Une liste de ces délégations est publiée sur le site internet de la zone de police]<sup>2</sup>.
+
+[<sup>1</sup> § 3. Le collège engage la procédure, attribue le marché public [<sup>2</sup> ou le contrat de concession]<sup>2</sup> et assure le suivi de son exécution.
+
+Dans les cas et dans la mesure où la négociation est permise avec les soumissionnaires, le collège peut modifier les conditions du marché [<sup>2</sup> ]<sup>2</sup>, avant l'attribution.[<sup>2</sup> ...]<sup>2</sup>
+
+Le collège peut apporter au marché public [<sup>2</sup> ou au contrat de concession]<sup>2</sup> toute modification en cours d'exécution.
+
+[<sup>2</sup> En cas de délégation de compétences du collège de police au chef de corps ou à un autre membre du personnel, conformément au paragraphe 2, alinéa 2, les compétences du collège visées à l'alinéa 1er sont exercées par le chef de corps ou le membre du personnel délégué]<sup>2</sup>.
+
+[<sup>2</sup> En cas de délégation de compétences conformément au paragraphe 2, alinéa 2, le chef de corps tient informé le collège de police des décisions prises dans le cadre de ces délégations]<sup>2</sup>]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-03-01/34, art. 2, 049; En vigueur : 13-04-2019&gt;
+
+(2)&lt;L 2026-05-25/16, art. 6, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 34
+
+[<sup>1</sup> § 1er. L'exercice financier de la zone de police correspond à l'année civile.
+
+Seuls les droits acquis par la zone de police et les engagements contractés envers les créanciers pendant un exercice financier sont inclus dans cet exercice financier, quel que soit l'exercice au cours duquel ils sont réglés.
+
+§ 2. Chaque année, le collège de police approuve les comptes annuels de l'exercice précédent et les transmet à l'autorité de tutelle pour le 30 juin au plus tard.
+
+Aucune modification budgétaire ne peut être approuvée par le collège de police postérieurement au 1er juin si les comptes de l'exercice précédent n'ont pas encore été approuvés par le collège de police.
+
+Les comptes annuels comprennent le compte budgétaire, le compte de résultats, le bilan et les annexes déterminées par le Roi. Les documents prescrits par le Roi sont joints au budget et aux comptes de la zone de police.
+
+§ 3. Chaque année, avant le 31 décembre, le collège de police approuve le budget des dépenses et des recettes de la zone de police pour l'exercice suivant. Le budget contient, sous peine de nullité, les annexes déterminées par le Roi.
+
+Aucun budget ne peut être approuvé par le collège de police si les comptes de l'avant-dernier exercice n'ont pas été définitivement arrêtés par l'autorité de tutelle.
+
+§ 4. Les budgets et les comptes sont publiés afin que chacun puisse en prendre connaissance.
+
+§ 5. Aucun paiement ne peut être effectué qu'en vertu d'une allocation portée au budget, d'un crédit spécial, ou d'un crédit provisoire accordé dans les conditions et limites fixées par le Roi.
+
+Les membres du collège de police sont personnellement responsables des dépenses qu'ils ont engagées ou mandatées contrairement à l'alinéa 1er.
+
+§ 6. Aucun article des dépenses du budget ne peut être dépassé.
+
+Cependant, lorsque certains articles budgétaires sont grevés d'engagements réguliers et réels envers les créanciers de la zone de police à la clôture d'un exercice, la partie du crédit nécessaire pour régler la dépense est reportée sur l'exercice suivant par une décision du collège de police, qui est jointe au compte de l'exercice clôturé.
+
+§ 7. Le collège de police peut prévoir des dépenses réclamées par des circonstances impérieuses et imprévues, en dépassement des crédits budgétaires, à condition de prendre une décision motivée.
+
+Les membres du collège de police sont dans ce cas personnellement tenus de rembourser les dépenses qu'ils ont engagées ou mandatées en exécution de l'alinéa 1er, mais qui ont été rejetées des comptes définitifs.
+
+Le budget des dépenses et des recettes des zones de police ne peut en aucun cas présenter un solde déficitaire sur le service ordinaire ou extraordinaire, ni un équilibre fictif ou un solde bénéficiaire fictif ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 54, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 34bis
+
+&lt;Inséré par L 2001-12-30/30, art. 109; En vigueur : 01-01-2002&gt; Sans préjudice de l'article 30, [<sup>1</sup> paragraphe 1er, alinéa 6]<sup>1</sup>, les dotations, subventions et interventions dans les dépenses [<sup>1</sup> des zones de police ]<sup>1</sup>, leur quote-part dans les fonds institués par la loi, le décret ou l'ordonnance au profit des zones de police, et, en général, toutes les sommes attribuées à titre gratuit aux zones de police par l'Etat, les Communautés, les Régions et les provinces et les communes peuvent être versées directement aux comptes ouverts au nom des [<sup>1</sup> ...]<sup>1</sup> zones de police auprès d'institutions financières qui satisfont selon le cas, au prescrit [<sup>1</sup> de la loi du 25 avril 2014 relative au statut et au contrôle des établissements de crédit]<sup>1</sup>.
+
+Les institutions financières visées à l'alinéa 1er sont autorisées à prélever d'office, sur l'avoir du ou des comptes qu'elles ont ouverts[<sup>1</sup> ...]<sup>1</sup> ou au nom d'une zone de police, le montant des dettes exigibles que [<sup>1</sup> ...]<sup>1</sup> cette zone de police a contractées envers elles.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 55, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 34ter
+
+&lt;Inséré par L 2002-04-26/30, art. 103; En vigueur : 30-04-2002&gt; § 1er. Le paiement de dépenses strictement nécessaires pour le bon fonctionnement de la police locale peut être effectué par des membres du personnel de la zone désignés par le [<sup>1</sup> collège de police]<sup>1</sup>.
+
+Le [<sup>1</sup> collège de police]<sup>1</sup> détermine le montant de la provision attribuée auxdits membres du personnel et le montant maximal par dépense.
+
+Le comptable spécial remet la provision contre accusé de réception aux membres du personnel désignés qui en sont responsables personnellement.
+
+§ 2. Les dépenses régulières effectuées grâce aux provisions visées au § 1er sont remboursées au membre du personnel chargé de la gestion de la provision, sur présentation d'une demande de paiement introduite auprès du collège, périodiquement et au plus tard le 31 décembre de l'année à laquelle les paiements effectués ont trait.
+
+Une demande particulière est faite pour chaque crédit budgétaire.
+
+Ces demandes sont transmises au comptable spécial en vue du contrôle de leur régularité. Elles sont étayées par des factures signées pour acquit, quittances ou accusés de réception rédigés par les créanciers.
+
+Les demandes font l'objet d'un enregistrement et d'une imputation au crédit budgétaire approprié et sont jointes à l'ordre de paiement qui doit être établi en vue de l'alimentation de la provision.
+
+Le détenteur d'une provision la rembourse au comptable spécial lorsqu'il en est déchargé.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 56, 056; En vigueur : 02-07-2026&gt;
+
+#### Section 3. - Le conseil zonal de sécurité.
+
+###### Art. 35
+
+Dans chaque zone de police est instauré un conseil zonal de sécurité au sein duquel est organisée une concertation systématique entre les bourgmestres, le procureur du Roi, le chef de corps de la police locale et le directeur coordonnateur administratif de la police fédérale [<sup>1</sup> ...]<sup>1</sup>.
+
+Le conseil zonal de sécurité peut inviter des experts à participer à ses réunions.
+
+Les missions du conseil zonal de sécurité sont :
+
+1° la discussion et la préparation du plan zonal de sécurité;
+
+2° la promotion de la coordination optimale de l'exécution des missions de police administrative et judiciaire;
+
+3° l'évaluation de l'exécution du plan zonal de sécurité.
+
+[<sup>1</sup> Le conseil zonal de sécurité se réunit au moins une fois par an.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 9, 036; En vigueur : 01-04-2014&gt;
+
+###### Art. 36
+
+Le plan zonal ( [<sup>1</sup> sexennal]<sup>1</sup>) de sécurité comprend : &lt;L 2003-12-22/42, art. 412, 014; En vigueur : 10-01-2004&gt;
+
+1° les missions et objectifs prioritaires déterminés par les bourgmestres et le procureur du Roi, chacun en ce qui concerne ses compétences, qui sont intégrés dans une approche globale de la sécurité ainsi que la manière dont ces missions et objectifs seront atteints;
+
+2° la capacité de la police locale destinée à l'exécution des missions de police judiciaire et de police administrative et qui doit permettre que l'exécution de ces missions puisse être assurée en tout temps, en particulier les missions locales;
+
+3° la contribution de la police locale à l'exécution des missions à caractère fédéral visées à l'article 61;
+
+4° les missions et objectifs particuliers à une commune de la zone, qui correspondent à une intervention budgétaire de cette commune dépassant la dotation convenue conformément à l'article 40, [<sup>2</sup> alinéa 7]<sup>2</sup>.
+
+[<sup>2</sup> 5° la manière dont le service minimal est assuré dans chaque commune.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2016-08-16/13, art. 2, 041; En vigueur : 13-11-2016&gt;
+
+(2)&lt;L 2026-05-25/16, art. 57, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 36/1
+
+[<sup>1</sup> L'organisation de la police locale garantit la présence d'un inspecteur de quartier pour 2000 habitants domiciliés dans la zone de police. L'inspecteur de quartier peut, en fonction de l'organisation de la zone et des besoins opérationnels, être chargé de plusieurs missions relevant de la police de proximité.
+
+Le plan zonal de sécurité motive explicitement la répartition entre les niveaux central et déconcentré, en ce compris les effectifs affectés aux missions de proximité comprises comme les missions des agents de quartier, de l'accueil, et de l'intervention de manière à assurer un service équivalent sur le territoire de chaque commune.
+
+Cette organisation ne peut faire obstacle à la mobilisation des moyens opérationnels sur l'ensemble du territoire de la zone lorsque les circonstances l'exigent. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/16, art. 58, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 37
+
+Le plan zonal de sécurité est préparé [<sup>2</sup> et révisé, le cas échéant,]<sup>2</sup> par le conseil zonal de sécurité en tenant compte du plan national de sécurité [<sup>2</sup> le plus récent]<sup>2</sup>. [<sup>1</sup> Dans l'arrondissement administratif de Bruxelles-Capitale, il est en outre tenu compte du [<sup>2</sup> plan global de sécurité et de prévention]<sup>2</sup> visé à l'article 37bis.]<sup>1</sup> Les parties du plan zonal de sécurité qui ont des répercussions sur les matières relevant de la compétence [<sup>2</sup> des conseils communaux]<sup>2</sup> sont soumises pour accord au conseil communal ou, [<sup>2</sup> aux conseils communaux des communes formant la zone de police]<sup>2</sup>.
+
+[<sup>2</sup> Après approbation par les bourgmestres et le procureur du Roi, le gouverneur s'assure, dans les deux mois qui suivent, de la prise en compte du plan national de sécurité par le plan zonal de sécurité. Il approuve le plan zonal de sécurité et fournit une synthèse du plan au ministre de l'Intérieur et à l'inspection générale. A défaut d'approbation de la part du gouverneur, dans le délai imparti, le plan zonal de sécurité est réputé approuvé.]<sup>2</sup>.
+
+[<sup>2</sup> Si le gouverneur désapprouve le plan zonal de sécurité dans le délai visé à l'alinéa 2, le conseil zonal de sécurité apporte des amendements endéans les quarante jours. Le gouverneur approuve le plan zonal de sécurité modifié dans un délai de deux mois et transmet une synthèse du plan au ministre de l'Intérieur.]<sup>2</sup>
+
+Les conseils communaux sont informés du plan approuvé, à l'exception des parties ou des données dont le conseil zonal de sécurité a estimé qu'elles avaient un caractère confidentiel.
+
+Lorsqu'il s'avère, en cours d'exécution du plan zonal de sécurité, que les capacités prévues, conformément à l'article 36, 2°, sont insuffisantes pour exécuter ces missions, le conseil zonal de sécurité y remédie.
+
+----------
+
+(1)&lt;L 2014-01-06/64, art. 18, 035; En vigueur : 01-07-2014&gt;
+
+(2)&lt;L 2026-05-25/16, art. 59, 056; En vigueur : 02-07-2026&gt;
+
+#### Section 3bis. [<sup>1</sup> - Disposition spécifique à l'arrondissement administratif de Bruxelles-Capitale]<sup>1</sup>
+
+----------
+
+(1)&lt;Insérée par L 2014-01-06/64, art. 19, 035; En vigueur : 01-07-2014&gt;
+
+###### Art. 37bis
+
+[<sup>1</sup> En vue d'assurer une politique de sécurité urbaine intégrée sur le territoire de l'arrondissement administratif de Bruxelles-Capitale, un [<sup>2</sup> plan global de sécurité et de prévention]<sup>2</sup> est élaboré par l'agglomération bruxelloise, préalablement à l'adoption des [<sup>2</sup> du plan zonal de sécurité de la zone de police]<sup>2</sup> de l'arrondissement et en tenant compte [<sup>2</sup> de la note-cadre en matière de sécurité intégrale]<sup>2</sup>.
+
+A cet effet, l'organe compétent de l'agglomération réunit un conseil régional de sécurité, comportant le parquet de Bruxelles, [<sup>2</sup> le Haut fonctionnaire,]<sup>2</sup> le directeur coordinateur administratif et le directeur judiciaire de la police fédérale, [<sup>2</sup> le président du collège de police et le chef de corps de la zone]<sup>2</sup> de police de l'arrondissement administratif de Bruxelles-Capitale.
+
+Ce conseil est convoqué régulièrement pour suivre la mise en oeuvre du [<sup>2</sup> plan global de sécurité et de prévention ]<sup>2</sup> visé à l'alinéa 1er.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-01-06/64, art. 20, 035; En vigueur : 01-07-2014&gt;
+
+(2)&lt;L 2026-05-25/16, art. 60, 056; En vigueur : 02-07-2026&gt;
+
+#### Section 4. - Personnel et budget.
+
+###### Art. 38
+
+Pour chaque zone de police, le Roi fixe l'effectif minimal du personnel opérationnel et du personnel administratif et logistique de la police locale en tenant compte de la spécificité de la zone.
+
+###### Art. 39
+
+&lt;Abrogé par L 2026-05-25/16, art. 61, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 40
+
+[<sup>1</sup> ...]<sup>1</sup> le budget du corps de police local [<sup>1</sup>, la modification budgétaire et les comptes sont préparés par le chef de corps, en collaboration avec le comptable spécial, et approuvés par le collège de police ]<sup>1</sup>, conformément aux normes budgétaires minimales arrêtées par le Roi, par arrêté délibéré en Conseil des ministres.
+
+[<sup>1</sup> Au plus tard vingt-cinq jours ouvrables avant la réunion au cours de laquelle le collège de police délibère sur le budget, une modification budgétaire ou les comptes, le chef de corps transmet, par voie électronique ou par tout autre moyen sécurisé, un exemplaire du projet de budget, de modification budgétaire ou des comptes aux membres du collège de police.
+
+En tant que membre du collège de police, le bourgmestre de chaque commune composant la zone de police transmet le projet, le jour ouvrable qui suit l'approbation de l'avant-projet au conseil communal, par voie électronique ou par tout autre moyen sécurisé. Le projet est accompagné d'un rapport explicatif. Le conseil communal, dans un délai de vingt-cinq jours ouvrables, donne mandat au bourgmestre, en sa qualité de membre du collège de police, pour approuver ou non le projet de budget, de modification budgétaire ou les comptes de la zone de police lors de la délibération au sein du collège de police. A l'expiration de ce délai, le collège de police peut délibérer, même en l'absence d'un mandat du conseil communal.
+
+Le projet est communiqué dans la forme prescrite, tel qu'il sera soumis à la délibération, accompagné des annexes requises pour son arrêt définitif, à l'exception des pièces justificatives en ce qui concerne les comptes.
+
+Le budget, la modification budgétaire et les comptes sont accompagnés d'un rapport explicatif. Ce rapport expose le budget, les modifications budgétaires et les comptes, ainsi que tout élément d'information utile.]<sup>1</sup>
+
+Le budget de la zone de police est à charge des différentes communes de la zone et de l'Etat fédéral.
+
+Chaque conseil communal de la zone vote la dotation à affecter au corps de police locale, laquelle est versée à la zone de police.
+
+Conformément à l'article 36, 4°, une commune peut augmenter sa dotation au bénéfice de la zone de police. [<sup>1</sup> Les conseils communaux prennent les décisions concernant les modifications de leur contribution à la zone de police au plus tard le 15 novembre de l'année budgétaire.]<sup>1</sup>
+
+La dotation est inscrite dans les dépenses de chaque budget communal. La contribution à la zone [<sup>1</sup> de police]<sup>1</sup>est payée au moins par douzièmes.
+
+Le Roi fixe, par arrêté délibéré en Conseil des ministres, les règles détaillées en ce qui concerne le calcul et la répartition des dotations ainsi que les modalités selon lesquelles celles-ci sont payées.
+
+Lorsque la zone [<sup>1</sup> de police]<sup>1</sup> ne dispose pas de ressources suffisantes pour couvrir les dépenses résultant de l'accomplissement de [<sup>1</sup> ses missions visées aux articles 3 et 61]<sup>1</sup>, la différence est couverte par les communes qui en font partie.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 62, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 41
+
+[<sup>1</sup> § 1er. Il est attribué annuellement à chaque zone de police une dotation à charge du budget fédéral, appelée ci-après la dotation fédérale de base. La dotation fédérale de base couvre :
+
+1° la part des autorités fédérales dans le financement des missions locales de la police ;
+
+2° les missions fédérales générales ou spécifiques assurées au sein de la zone de police concernée.
+
+[<sup>2</sup> Le Roi détermine, par arrêté délibéré en Conseil des ministres, le mode de calcul de la dotation fédérale de base, sur la base d'indicateurs mesurables, tenant compte:
+
+1° de l'activité policière effectivement exercée par les zones de police, notamment au regard du volume et de la nature des interventions et missions réalisées;
+
+2° des besoins structurels des zones de police, liés notamment à la population, aux caractéristiques territoriales, au contexte urbain ou rural, ainsi qu'à la présence de fonctions, d'institutions ou d'infrastructures générant une charge policière particulière.]<sup>2</sup>
+
+Le Roi fixe annuellement, par arrêté délibéré en Conseil des ministres, la dotation fédérale de base par zone de police, ainsi que les modalités de son indexation [<sup>2</sup> ...]<sup>2</sup>. Dans ce cadre, des paiements anticipés sont effectués mensuellement, au moins par douzième, aux zones de police.
+
+§ 2. Une dotation complémentaire est attribuée à chaque zone de police. Le Roi fixe annuellement, par arrêté délibéré en Conseil des ministres, la dotation complémentaire par zone de police ainsi que les modalités de son indexation éventuelle.
+
+§ 3. Dans le cas où un corps de police locale ne respecte pas ses missions stipulées dans les articles 61 et 104bis, [<sup>2</sup> , ainsi que des normes visées aux articles 141 et 142,]<sup>2</sup> la dotation fédérale [<sup>2</sup> la zone de police]<sup>2</sup> à la commune ou la zone pluricommunale concernée est diminuée conformément aux règles déterminées par le Roi, par un arrêté délibéré en Conseil des ministres.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-04-28/22, art. 3, 050; En vigueur : 07-06-2019&gt;
+
+(2)&lt;L 2026-05-25/16, art. 63, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 41bis
+
+[<sup>1</sup> Afin de faire face à des charges financières spécifiques ou non prévisibles, supportées par les zones de police et non couvertes par la dotation fédérale de base, des moyens budgétaires complémentaires peuvent être accordés à charge du budget fédéral.
+
+Ces moyens visent à couvrir des charges résultant:
+
+1° de décisions, obligations ou normes imposées par l'autorité fédérale, entraînant une charge policière supplémentaire;
+
+2° des dépenses de la mise en oeuvre de politiques fédérales incitatives, destinées à soutenir ou renforcer certaines priorités en matière de sécurité;
+
+3° de circonstances exceptionnelles, telles que des catastrophes naturelles, des crises majeures ou des événements imprévus, entraînant une mobilisation accrue des services de police.
+
+Le Roi fixe, par arrêté délibéré en Conseil des ministres, les conditions d'octroi, les critères d'éligibilité, les modalités d'attribution et, le cas échéant, les règles d'indexation de ces moyens, sur la base d'indicateurs mesurables.
+
+Les moyens budgétaires complémentaires peuvent couvrir des dépenses temporaires, à savoir des charges ponctuelles et limitées dans le temps]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 64, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 41bis/1
+
+[<sup>1</sup> § 1er. A partir de l'entrée en vigueur de la définition du ressort territorial de la zone de police nouvelle, des subventions sont octroyées aux zones de police engagées dans un processus de fusion. Ces subventions ont pour finalité de couvrir une partie des dépenses directement liées à la fusion, notamment:
+
+1° les dépenses en personnel;
+
+2° les dépenses en matière d'ICT;
+
+3° les dépenses logistiques;
+
+4° les frais de consultance;
+
+5° les investissements en infrastructures.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, les catégories de dépenses admissibles.
+
+Le montant maximum de subventions est fixé à 250 euros par membre du personnel, exprimé en équivalent temps plein, ci-après "ETP", du cadre réel opérationnel et du cadre réel administratif et logistique des zones concernées par la fusion, arrêté au 31 décembre de l'exercice précédent l'année de l'entrée en vigueur de la définition du ressort territorial de la zone de police nouvelle.
+
+Ce montant est plafonné à 1,5 million d'euros par fusion, sans préjudice d'un plafond annuel global de 10 millions d'euros pour le budget fédéral destiné à l'ensemble des fusions.
+
+Les zones de police pour lesquelles la fusion est imposée en vertu d'une disposition légale ont la priorité pour l'attribution des subventions visées au présent paragraphe.
+
+En cas de demande conjointe de fusion de zones de police adressée aux ministres de l'Intérieur et de la Justice, la priorité pour l'attribution des subventions prévues au présent paragraphe est déterminée selon la date de réception de la demande complète par le Service public fédéral Intérieur.
+
+Le ministre de l'Intérieur informe sans délai, par écrit ou par voie électronique, le ministre de la Justice de la réception de la demande conjointe.
+
+Le Service public fédéral Intérieur met à disposition des zones de police les informations permettant de savoir si des fusions sont en cours.
+
+§ 2. Lorsqu'il y a une fusion de zones de police, une dotation est octroyée à la zone de police nouvelle. Cette dotation est accordée à partir de l'entrée en vigueur de l'arrêté royal qui institue la zone de police nouvelle.
+
+Le montant maximal de la dotation visée à l'alinéa 1er est fixé à 15 millions d'euros par fusion et par an, sans dépasser un plafond annuel global de 40 millions d'euros pour l'ensemble des dotations accordées en vertu du présent paragraphe.
+
+Le montant de la dotation visée à l'alinéa 1er est fixé à 432 euros par membre du personnel, exprimé en ETP, du cadre réel de la zone de police nouvelle. Le nombre d'ETP pris en compte est obtenu en additionnant le nombre d'ETP opérationnels et administratifs et logistiques mentionné dans le cadre réel, arrêté au 31 décembre de l'exercice précédent l'année de l'institution de la zone de police nouvelle, de chaque zone de police ancienne concernée par la fusion. Ce montant est successivement multiplié par les coefficients suivants:
+
+a) 1,5 lorsque la zone de police nouvelle compte cinq communes ou plus;
+
+b) 2 lorsque la fusion est imposée en application d'une disposition législative;
+
+c) 0,8 lorsque la zone de police nouvelle comprend moins de 200 ETP opérationnels;
+
+d) 1,2 lorsque la zone de police nouvelle comprend entre 200 et 350 ETP opérationnels;
+
+e) 1,5 lorsque la zone de police nouvelle comprend plus de 350 ETP opérationnels;
+
+f) 0 lorsqu'une zone de police a déjà obtenu une dotation en vertu du présent article ou lorsque la demande d'institution de la zone de police nouvelle est introduite après le 31 décembre 2029.
+
+Les zones de police pour lesquelles la fusion est imposée en vertu d'une disposition légale ont la priorité pour l'attribution des dotations visées au présent paragraphe.
+
+En cas de fusion volontaire de zones de police, la priorité pour l'attribution des dotations prévues au présent paragraphe est déterminée selon la date de réception de la demande d'institution visée à l'article 257quinquies/5, alinéa 2.
+
+Le ministre de l'Intérieur informe sans délai, par écrit ou par voie électronique, le ministre de la Justice de la réception des demandes d'institution donnant lieu à l'attribution des dotations visées au présent paragraphe.
+
+§ 3. La dotation visée au paragraphe 2 est attribuée annuellement pendant une période de cinq exercices budgétaires consécutifs.
+
+Le montant versé annuellement est calculé conformément aux barèmes fixés au paragraphe 2, dans les limites prévues au paragraphe 2, alinéa 2.
+
+Le Roi peut fixer les modalités d'attribution de la dotation visée au paragraphe 2, notamment les modalités de versement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 65, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 41ter
+
+[<sup>1</sup> Les dotations et subventions fédérales attribuées en application [<sup>2</sup> des articles 41, 41bis et 41bis/1]<sup>2</sup> et payées par la police fédérale aux zones de police, sont prévues sur le programme 90/1 " Dotations et subventions " du budget " Police fédérale et fonctionnement intégré.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-01-15/19, art. 8, 048; En vigueur : 18-03-2019&gt;
+
+(2)&lt;L 2026-05-25/16, art. 66, 056; En vigueur : 02-07-2026&gt;
+
+### CHAPITRE II. - Autorité et direction.
+
+###### Art. 42
+
+Pour l'accomplissement de ses missions de police administrative, la police locale est placée sous l'autorité du bourgmestre qui peut lui donner, pour ce qui concerne l'accomplissement de ces missions sur le territoire de sa commune, les ordres, instructions et directives nécessaires à cet effet.
+
+Dans les zones de police pluricommunales, lorsque l'exécution d'une décision d'un bourgmestre n'est pas prévue dans le plan zonal de sécurité et a pour effet de réduire l'exécution des décisions des autres bourgmestres de la zone, le chef de corps de la police locale en informe le collège de police.
+
+###### Art. 43
+
+En cas de calamités, de catastrophes, de sinistres, d'émeutes, d'attroupements hostiles ou de menaces graves et imminentes contre l'ordre public, et lorsque les moyens de la police locale sont insuffisants, le bourgmestre ou celui qui le remplace peut requérir la police fédérale aux fins de maintenir ou de rétablir l'ordre public.
+
+Le gouverneur et le commissaire d'arrondissement sont immédiatement informés de la réquisition par l'autorité requérante.
+
+Lorsque les moyens des services de police ne suffisent pas pour maintenir l'ordre public, le bourgmestre peut requérir les forces armées.
+
+En cas de réquisition ou d'intervention de la police fédérale ou de l'armée, sans préjudice des compétences du ministre de l'Intérieur et du gouverneur en matière de protection civile, la police locale demeure sous l'autorité du bourgmestre de la commune concernée. Elle est placée sous la direction du chef de corps ou du directeur coordonnateur administratif de la police fédérale conformément aux articles 7/1 et 7/2 de la loi sur la fonction de police.
+
+Les forces requises restent en contact étroit avec l'autorité requérante et le chef de corps de la police locale pour intervenir de manière coordonnée.
+
+###### Art. 44
+
+Chaque corps de police locale est placé sous la direction d'un chef de corps. Il est responsable de l'exécution de la politique policière locale, et plus particulièrement de l'exécution du plan zonal de sécurité.
+
+Il assure la direction, l'organisation et la répartition des tâches au sein du corps de police locale et l'exécution de la gestion de ce corps. Pour ce [<sup>1</sup> faire]<sup>1</sup>, le bourgmestre ou le collège de police peut lui déléguer certaines de ses compétences.
+
+Dans l'exercice de cette fonction, il est responsable de l'exécution par le corps de police des missions locales, des directives relatives aux missions à caractère fédéral et des réquisitions, ainsi que de l'application des normes visées aux articles 141 et 142.
+
+Pour l'exercice de sa fonction, le chef de corps peut solliciter l'aide visée à l'article 104, 1°.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 67, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 45
+
+Le chef de corps exerce les attributions visées à l'article 44 sous l'autorité du bourgmestre ou du collège de police. En vue de la bonne gestion du corps de police, le chef de corps informe dans les plus brefs délais le bourgmestre ou le collège de police de tout ce qui concerne le corps de police locale et l'exécution de ses missions. Il l'informe en outre des initiatives que la police locale compte prendre et qui concernent la politique zonale de sécurité.
+
+Il est tenu de faire rapport tous les mois au bourgmestre ou au collège de police sur le fonctionnement du corps et de l'informer des plaintes venant de l'extérieur et concernant le fonctionnement du corps ou les interventions de son personnel.
+
+###### Art. 46
+
+En cas d'absence ou d'empêchement du chef de corps, le bourgmestre ou le collège de police désigne le chef de corps remplaçant parmi les membres du corps de police revêtus du grade le plus élevé.
+
+[<sup>1</sup> Lorsque le chef de corps cesse définitivement d'exercer ses fonctions, le collège de police déclare la fonction à mandat vacante dans un délai de trois mois à compter de cette cessation définitive.
+
+Si la fonction à mandat n'est pas déclarée vacante dans ce délai de trois mois, le gouverneur peut suspendre l'exécution des décisions du collège de police prises dans ce cadre. Le ministre de l'Intérieur ou le gouverneur peut, conformément à l'article 89, prendre les mesures découlant des obligations liées à l'application de la présente loi afin de désigner un nouveau chef de corps.
+
+Par dérogation à l'alinéa 2, lorsque, à la date où le chef de corps cesse définitivement d'exercer ses fonctions, le collège de police a introduit, avec le ou les collèges de police d'autres zones, une demande conjointe de fusion volontaire auprès des ministres de l'Intérieur et de la Justice, conformément à l'article 91/2, il ne déclare pas la fonction à mandat vacante.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 68, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 46bis
+
+[<sup>1</sup> § 1er. En cas de problèmes de sécurité exceptionnels dépassant les limites de la zone de police locale, le gouverneur exerce les compétences du bourgmestre et du collège de police visées aux articles 42 à 46 et coordonne l'autorité et la direction des zones de police locale concernées et ce, tant que les problèmes de sécurité l'exigent.
+
+En cas de problèmes de sécurité aigus ou inattendus dépassant les limites de la zone de police locale, un bourgmestre ou un chef de corps peut demander au gouverneur d'exercer les compétences du bourgmestre et du collège de police visées aux articles 42 à 46 et de coordonner l'autorité et la direction des zones de police locale concernées tant que les problèmes de sécurité l'exigent.
+
+En cas de recours à l'application de l'alinéa 1er ou 2, les bourgmestres et les chefs de corps des zones de police locale concernées en sont préalablement informés par le gouverneur en cas d'application de l'alinéa 1er et, selon le cas, par le bourgmestre ou le chef de corps en cas d'application de l'alinéa 2. S'il s'agit de faits punissables, les procureurs du Roi compétents sont préalablement informés par le gouverneur en cas d'application de l'alinéa 1er et, selon le cas, par le bourgmestre ou le chef de corps en cas d'application de l'alinéa 2. Lorsque le gouverneur rétrocède au bourgmestre et au collège de police les compétences qu'il a exercées en vertu de l'alinéa 1er ou 2, il en informe préalablement les bourgmestres et les chefs de corps des zones de police locale concernées. Le gouverneur peut organiser une concertation de coordination avec le(s) bourgmestre(s), le(s) chef(s) de corps et/ou le(s) procureur(s) du Roi concerné(s), s'il l'estime nécessaire. Le gouverneur fait rapport dans les meilleurs délais au ministre qui a l'Intérieur dans ses attributions sur la situation, l'éventuelle concertation de coordination et l'utilisation des compétences visées au présent paragraphe, ainsi qu'au ministre qui a la Justice dans ses attributions s'il s'agit de faits punissables.
+
+§ 2. Le Roi détermine, par arrêté délibéré en Conseil des ministres, les gouverneurs auxquels s'applique le paragraphe 1er.
+
+L'arrêté royal visé à l'alinéa 1er est confirmé par la loi dans un délai de quatre mois à compter de son entrée en vigueur.
+
+A défaut de confirmation dans le délai visé à l'alinéa 2, l'arrêté royal cesse de sortir ses effets.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2024-03-29/19, art. 2, 054; En vigueur : 16-06-2024&gt;
+
+### CHAPITRE III. - Personnel.
+
+###### Art. 47
+
+[<sup>1</sup> Le collège de police]<sup>1</sup> détermine le cadre du personnel opérationnel et du personnel administratif et logistique du corps de police locale, conformément aux normes minimales fixées par le Roi.
+
+Par arrêté délibéré en Conseil des ministres, le Roi détermine les modalités selon lesquelles le personnel du cadre opérationnel et du cadre administratif et logistique de la police fédérale et des autres corps de la police locale peuvent se porter candidats à un emploi au sein d'un corps de police locale.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 69, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 48
+
+Le chef de corps de la police locale est désigné à son emploi par le Roi (...),[<sup>1</sup> pour un terme de cinq ans, renouvelable une fois dans la même zone,]<sup>1</sup> sur proposition motivée [<sup>1</sup> du collège de police]<sup>1</sup> et après avis motivé du procureur général près la cour d'appel et du gouverneur, parmi les candidats jugés aptes par une commission de sélection. &lt;L 2006-06-20/34, art. 11, 021; En vigueur : 26-07-2006&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 6, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 49
+
+(Le Roi statue sur les demandes en renouvellement de désignation au mandat de chef de corps de la police locale) après avis motivé [<sup>1</sup> ...]<sup>1</sup> du collège de police, du procureur général près la cour d'appel et du gouverneur, et sur la base d'une évaluation globale effectuée par une commission d'évaluation. [<sup>1</sup> ...]<sup>1</sup> &lt;L 2006-06-20/34, art. 12, 1°, 021; En vigueur : 26-07-2006&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+Le Roi arrête les conditions de réaffectation des chefs de corps au mandat duquel il est mis fin ou dont le mandat n'est pas renouvelé.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 71, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 50
+
+&lt;L 2002-04-26/30, art. 105, 010; En vigueur : 30-04-2002&gt; Le [<sup>1</sup> collège de police ]<sup>1</sup> constitue la commission de sélection visée à l'article 48 conformément aux modalités fixées par le Roi dans un arrêté délibéré en Conseil des ministres.
+
+Le [<sup>1</sup> ...]<sup>1</sup> président du collège de police préside la commission de sélection ainsi que, le cas échéant, les commissions de sélection pour d'autres mandats dans le corps de police locale.
+
+Les modalités de fonctionnement et les missions de ces commissions sont déterminées par le Roi dans un arrêté délibéré en Conseil des Ministres.
+
+Le cas échéant, le [<sup>1</sup> collège de police]<sup>1</sup> peut décider de faire appel à une commission de sélection constituée par le ministre de l'Intérieur, selon les modalités visées à l'alinéa 3.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 72, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 51
+
+&lt;L 2002-04-26/30, art. 106, 010; En vigueur : 30-04-2002&gt; Les commissions d'évaluation sont constituées par le ministre de l'Intérieur, selon les modalités fixées par le Roi dans un arrêté délibéré en Conseil des Ministres.
+
+Le [<sup>1</sup> ...]<sup>1</sup> président du collège de police préside la commission d'évaluation du chef de corps, ainsi que, le cas échéant, les commissions d'évaluation pour d'autres mandats dans le corps de police locale.
+
+L'inspecteur général de la police fédérale et de la police locale ou son délégué fait partie de ces commissions.
+
+Le Roi détermine en outre dans un arrêté délibéré en Conseil des Ministres les modalités de fonctionnement de ces commissions d'évaluation et en précise les missions.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 73, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 52
+
+Si [<sup>1</sup> le collège de police]<sup>1</sup> refuse, reste en défaut ou se trouve dans l'impossibilité de présenter un candidat déclaré apte ou de statuer sur la prolongation de la désignation dans les six mois à compter de la réception, constatée par la correspondance, d'une invitation faite par le ministre de l'Intérieur, le Roi désigne le chef de corps de la police locale sur la liste des candidats déclarés aptes par la commission de sélection et après avoir pris connaissance des avis motivés visés aux articles 48 et 49.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 74, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 53
+
+(Les officiers supérieurs de la police locale sont nommés par le Roi, conformément à l'arrêté royal pris en exécution de l'article 121, sur présentation motivée [<sup>1</sup> du collège de police]<sup>1</sup> parmi les candidats jugés aptes par une commission de sélection.
+
+En ce qui concerne les officiers supérieurs au sein des services de recherche des corps de police locale, la nomination visée à l'alinéa 1er a lieu après avis motivé du procureur général près la cour d'appel. La nomination des autres officiers supérieurs au sein des corps de police locale est précédée de la communication au procureur général près la cour d'appel de la liste des candidats à l'emploi à pourvoir.) &lt;L 2005-07-03/53, art. 3, 016; En vigueur : 29-07-2005&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 75, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 54
+
+&lt;L 2005-07-03/53, art. 4, 016; En vigueur : 29-07-2005&gt; Les officiers de la police locale qui ne sont pas visés à l'article 53 sont nommés par [<sup>1</sup> le collège de police]<sup>1</sup>, parmi les candidats jugés aptes par une commission de sélection.
+
+En ce qui concerne les officiers au sein des services de recherche des corps de police locale, la nomination visée à l'alinéa 1er a lieu après avis motivé du procureur général près la cour d'appel. La nomination des autres officiers au sein des corps de police locale est précédée de la communication au procureur général près la cour d'appel de la liste des candidats à l'emploi à pourvoir.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 76, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 55
+
+Le Roi fixe les conditions et les modalités de nomination des officiers de la police locale. Le [<sup>1</sup> collège de police]<sup>1</sup>constitue la commission de sélection visée aux articles [<sup>1</sup> 53 et 54]<sup>1</sup>conformément au modalités fixées par le Roi, par arrête délibéré en Conseil des ministres. Le même arrêté détermine en outre les modalités de fonctionnement et les missions de cette commission.
+
+Le cas échéant, le [<sup>1</sup> collège de police]<sup>1</sup> peut décider de faire appel à une commission de sélection constituée par le ministre de l'Intérieur, selon les modalités visées à l'alinéa précédent.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 77, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 56
+
+[<sup>2</sup> Le collège de police]<sup>2</sup> nomme ou recrute les autres membres de la police locale [<sup>2</sup> sur proposition de la commission de sélection compétente ou du chef de corps]<sup>2</sup>, selon les conditions et modalités arrêtées par le Roi.
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+[<sup>2</sup> ...]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2013-12-21/22, art. 21, 034; En vigueur : 10-01-2014&gt;
+
+(2)&lt;L 2026-05-25/16, art. 78, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 57
+
+Le fonctionnaire de police qui dirige, au sein du corps de police locale, le service principalement chargé des missions de police judiciaire est désigné a cette fonction après avis motivé du procureur du Roi.
+
+###### Art. 58
+
+&lt;L 2006-04-01/38, art. 8, 020; En vigueur : 10-05-2006&gt; Sans préjudice des dispositions de la loi sur la fonction de police, les agents de police ne peuvent exercer aucune mission de police administrative ou judiciaire autre que celles qui leur sont attribuées en matière de police de la circulation routière, ainsi que celle de veiller au respect des règlements de police communaux.
+
+Ils sont compétents pour constater et dresser procès-verbal d'un accident de la circulation et des conséquences de celui-ci.
+
+Dans les limites des compétences visées aux alinéas 1er et 2, ils peuvent contrôler l'identité de chaque personne qui a commis une infraction.
+
+###### Art. 59
+
+Les fonctionnaires de police, les [<sup>1</sup> agents]<sup>1</sup> de police et les membres statutaires du personnel du cadre administratif et logistique prêtent serment entre les mains [<sup>2</sup> ...]<sup>2</sup> du président du collège de police.
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 10, 036; En vigueur : 01-04-2014&gt;
+
+(2)&lt;L 2026-05-25/16, art. 79, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 60
+
+L'avis du procureur général, du gouverneur ou du procureur du Roi, requis dans le cadre d'une procédure de nomination ou de désignation, doit être remis dans le délai d'un mois sous peine d'être réputé favorable.
+
+### CHAPITRE IV. - Missions à caractère fédéral.
+
+###### Art. 61
+
+Conformément à l'article 3, la police locale assure certaines missions de police à caractère fédéral. Le ministre de l'Intérieur ou le ministre de la Justice détermine ces missions par des directives contraignantes. L'exécution de ces directives ne peut mettre en péril l'exécution des missions locales.
+
+Lorsque les directives sont générales, elles sont soumises pour avis au [<sup>1</sup> conseil]<sup>1</sup> des bourgmestres. Lorsqu'elles concernent une ou plusieurs zones de police déterminées, elles font l'objet d'une concertation préalable avec le bourgmestre ou le collège de police.
+
+Les directives peuvent porter sur le type de personnel et l'effectif à mettre en oeuvre, sur son équipement et son armement et sur les principes de leur intervention.
+
+La directive est exécutée sous la direction du chef de corps de la police locale, sauf lorsqu'elle porte sur une mission qui est exercée conjointement par la police locale et la police fédérale. Dans ce cas, la directive désigne le niveau de police chargé [<sup>1</sup> de la direction et de la coordination opérationnelles]<sup>1</sup>.
+
+Les directives du ministre de la Justice concernant les missions de police judiciaire sont prises après avis du collège des procureurs généraux.
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 11, 036; En vigueur : 01-04-2014&gt;
+
+###### Art. 62
+
+Les missions suivantes peuvent faire l'objet des directives visées à l'article 61 :
+
+1° les missions prévues aux articles 17, 18, alinéa 1er, 19, alinéa 1er, 20, alinéa 1er, 21, alinéa 1er, 23, [<sup>1</sup> §§ 4 à 9,]<sup>1</sup> 25, alinéa 3, 44 et 46 de la loi sur la fonction de police;
+
+2° les missions a caractère fédéral comprises dans un plan zonal de sécurité;
+
+3° les mesures de police indispensables à l'exécution de missions de police administrative spéciales des autorités publiques fédérales et régionales;
+
+4° prêter main forte aux fonctionnaires publics chargés d'une inspection, d'un contrôle ou d'un constat, dans les conditions prévues à l'article 44, alinéa 3, de la loi sur la fonction de police;
+
+5° certaines missions de surveillance, de contrôle ou de protection spéciale des personnes et des biens mobiliers et immobiliers;
+
+6° la recherche d'informations nécessaires aux autorités fédérales;
+
+7° les opérations de police supralocale à l'égard de personnes, de véhicules ou autres biens recherchés;
+
+8° à titre exceptionnel et temporaire, des renforts à certaines enquêtes judiciaires, à la demande des autorités judiciaires compétentes;
+
+9° à titre exceptionnel et temporaire, certaines missions de surveillance et de contrôle spécifiques en cas de menace grave ou imminente contre l'ordre public, comprenant des risques d'atteintes graves aux personnes et aux biens;
+
+(10° à titre exceptionnel et temporaire, des renforts aux missions de police administrative de grande ampleur.) &lt;L 2001-04-02/34, art. 18, 007; En vigueur : 01-01-2001&gt;
+
+(11° les missions de police définies à l'article 16 de la loi du 5 août 1992 sur la fonction de police.) &lt;L 2003-02-07/38, art. 39, 012; En vigueur : 01-03-2004&gt;
+
+----------
+
+(1)&lt;L 2017-11-12/07, art. 33, 043; En vigueur : 01-09-2018&gt;
+
+###### Art. 63
+
+Le ministre de l'Intérieur ou le ministre de la Justice peut, lorsque sa directive n'est pas suivie d'effet, et après concertation avec le bourgmestre ou le collège de police concerné, requérir la police locale d'exécuter cette directive.
+
+###### Art. 64
+
+En cas de calamités, de catastrophes, de sinistres, d'émeutes, d'attroupements hostiles ou de menaces graves et imminentes contre l'ordre public, le ministre de l'Intérieur peut, lorsque les moyens de la police locale ne suffisent pas, requérir la police locale d'une autre zone de police aux fins de maintenir ou de rétablir l'ordre public.
+
+Sans préjudice des compétences du ministre de l'Intérieur et du gouverneur, la police locale requise est placée sous l'autorité du bourgmestre de la commune dans laquelle elle intervient.
+
+La police locale requise intervient sous la direction du directeur coordonnateur administratif de la police fédérale ou du chef de corps de la police locale conformément aux articles 7/1 et 7/2 de la loi sur la fonction de police.
+
+La police locale requise doit exécuter toutes les réquisitions à concurrence d'une partie de sa capacité annuelle qui ne peut être inférieure à dix pour cent ni supérieure à vingt pour cent de la capacité de l'effectif minimal du personnel du cadre opérationnel visé à l'article 38. Cette partie est déterminée chaque année dans le plan zonal de sécurité. En cas d'urgence, ou lorsque la sécurité nationale le requiert, la capacité visée à l'alinéa précédent peut être dépassée. Dans les cas fixés par le Roi, la capacité peut dépasser les vingt pour cent.
+
+### CHAPITRE V. - La tutelle spécifique.
+
+#### Section 1re. - Dispositions générales.
+
+###### Art. 65
+
+L'autorité de tutelle peut, tant par correspondance que sur place, recueillir tous les renseignements et données utiles a l'examen des dossiers qui sont soumis à sa tutelle.
+
+#### Section 2. - Personnel de la police locale.
+
+###### Art. 66
+
+L'approbation des décisions relatives au cadre de personnel, au budget et aux modifications qui y sont apportées, à la contribution d'une commune [<sup>1</sup> à la zone de police ]<sup>1</sup> et à ses modifications et aux comptes, ne peut être refusée que pour violation des dispositions comprises dans cette loi ou prises en vertu de cette loi.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 81, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 67
+
+Les décisions du [<sup>1</sup> collège de police ]<sup>1</sup> relatives au cadre organique opérationnel et à celui du personnel administratif et logistique de la police locale, sont transmises [<sup>1</sup> dans les vingt-cinq jours]<sup>1</sup> pour approbation au gouverneur.
+
+Par cadre organique, on entend l'énumération des grades et la fixation du nombre d'emplois statutaires à plein temps et à temps partiel, par grade.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 82, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 68
+
+Le gouverneur statue sur l'approbation de la décision visée à l'article 67 dans les [<sup>2</sup> quarante jours]<sup>2</sup> à compter du lendemain du jour où il l'a reçue. Cette décision est transmise [<sup>2</sup> au collège de police]<sup>2</sup>, au plus tard le dernier jour du délai précité.
+
+Passé ce délai, le gouverneur est [<sup>1</sup> censé]<sup>1</sup> avoir donné son approbation.
+
+----------
+
+(1)&lt;L 2016-04-21/06, art. 27, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+(2)&lt;L 2026-05-25/16, art. 83, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 69
+
+[<sup>2</sup> Le collège de police]<sup>2</sup> peut exercer un recours auprès du ministre de l'Intérieur contre l'arrêté portant désapprobation par le gouverneur des décisions [<sup>2</sup> du collège de police]<sup>2</sup> portant sur le cadre organique, dans un délai de quarante jours à compter du lendemain de la transmission de l'arrêté [<sup>1</sup> [<sup>2</sup> au collège de police ]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2016-04-21/06, art. 28, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+(2)&lt;L 2026-05-25/16, art. 84, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 70
+
+Le ministre de l'Intérieur statue sur le recours dans un délai de [<sup>1</sup> quarante]<sup>1</sup> jours à compter du lendemain de sa réception. Il transmet sa décision, au plus tard le dernier jour de ce délai, au gouverneur et au [<sup>1</sup> collège de police]<sup>1</sup>. Passé ce délai, le recours est admis.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 85, 056; En vigueur : 02-07-2026&gt;
+
+#### Section 3. - Finances.
+
+##### Sous-section 1re. - Budget et modifications budgétaires.
+
+###### Art. 71
+
+Les décisions du [<sup>1</sup> collège de police]<sup>1</sup> relatives au budget de la police locale et aux modifications qui y sont apportées, ainsi que les décisions relatives à la contribution de la commune [<sup>1</sup> à la zone de police]<sup>1</sup>, et ses modifications, sont envoyées (endéans les [<sup>1</sup> dix]<sup>1</sup> jours) pour approbation au gouverneur. &lt;L 2001-12-30/30, art. 111, 009; En vigueur : 01-01-2002&gt;
+
+Toutes les annexes requises pour l'établissement définitif du budget sont jointes au budget
+
+Le Roi détermine les données nécessaires à l'établissement du budget de la police, qui devront être notifiées par les autorités compétentes à l'autorité de tutelle. Il décide également de la nature du support d'information, ainsi que de la forme selon laquelle ces données sont présentées.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 86, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 72
+
+§ 1er. Le gouverneur se prononce sur l'approbation dans un délai [<sup>1</sup> de quarante jours à compter du lendemain de la réception des décisions visées à l'article 71, alinéa 1er]<sup>1</sup>.
+
+Au cas où le [<sup>1</sup> collège de police]<sup>1</sup> refuse de porter au budget, en tout ou en partie, les recettes ou les dépenses obligatoires que la loi met à charge de la [<sup>1</sup> zone de police]<sup>1</sup> pour l'exercice auquel se rapporte le budget de la police [<sup>1</sup> ...]<sup>1</sup> le gouverneur y inscrit d'office les montants requis. [<sup>1</sup> ...]<sup>1</sup> Le gouverneur modifie, simultanément avec l'inscription d'office, le montant de la contribution [<sup>1</sup> zone]<sup>1</sup> de chaque [<sup>1</sup> zone de police]<sup>1</sup>concernée.
+
+Au cas où le [<sup>1</sup> collège de police]<sup>1</sup> porte au budget de la [<sup>1</sup> zone]<sup>1</sup>des recettes qui, aux termes de la loi, ne reviennent pas, en tout ou en partie, durant l'exercice auquel se rapporte le budget, à la [<sup>1</sup> zone de police]<sup>1</sup>, le gouverneur procède, suivant le cas, à la radiation du montant ou à l'inscription d'office du montant correct.
+
+[<sup>1</sup> ...]<sup>1</sup> le gouverneur modifie, simultanément avec l'inscription d'office, le montant de la contribution [<sup>1</sup> à la zone de police]<sup>1</sup> de chacune des communes faisant partie de la zone[<sup>1</sup> de police]<sup>1</sup>concernée.
+
+§ 2. Le gouverneur transmet son arrêté [<sup>1</sup> au collège de police]<sup>1</sup>, au plus tard le dernier jour du délai visé au § 1er, alinéa 1er.
+
+Passé ce délai, le gouverneur est censé avoir approuvé le budget de la police.
+
+L'arrêté du gouverneur est porté à la connaissance [<sup>1</sup> des conseils communaux des communes formant la zone de police, lors de leur]<sup>1</sup> prochaine séance.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 87, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 73
+
+Le [<sup>1</sup> collège de police ou le conseil communal]<sup>1</sup> peut exercer un recours auprès du ministre de l'Intérieur contre l'arrête du gouverneur portant ajustement du budget de la police [<sup>1</sup> ...]<sup>1</sup>, ou contre son arrêté portant désapprobation, dans un délai de quarante jours à compter du lendemain de la notification de l'arrêté [<sup>1</sup> au collège de police ou au conseil communal]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 88, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 74
+
+Le ministre de l'Intérieur statue sur le recours dans un délai de quarante jours à compter du lendemain de sa réception. Il transmet sa décision, au plus tard le dernier jour de ce délai, au gouverneur et au [<sup>1</sup> collège de police ou au conseil communal]<sup>1</sup>. Passé ce délai le recours est admis.
+
+L'arrête du gouverneur est porté à la connaissance [<sup>1</sup> du collège de police et des conseils communaux des communes formant la zone de police]<sup>1</sup>, lors de sa prochaine séance.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 89, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 75
+
+Les articles 72 à 74 s'appliquent également aux modifications apportées au budget de la police par le [<sup>1</sup> collège]<sup>1</sup> de police, ainsi qu'aux modifications apportées, par [<sup>1</sup> les conseils communaux à la contribution à la zone de police]<sup>1</sup>.
+
+Toutefois, le délai est défini par le délai qui a été déterminé pour la tutelle sur les modifications de budget des communes de la zone, à diminuer de cinq jours.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 90, 056; En vigueur : 02-07-2026&gt;
+
+##### Sous-section 2. - La contribution financière des communes à la [<sup>1</sup> zone de police]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 91, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 76
+
+[<sup>1</sup> Le]<sup>1</sup> gouverneur se prononce sur les décisions relatives à la contribution due [<sup>1</sup> à la zone de police par la ou les communes formant la zone]<sup>1</sup> dans les [<sup>1</sup> quarante]<sup>1</sup> jours à compter du lendemain de la réception de cette décision.
+
+Passé ce délai, le gouverneur est censé avoir donné son approbation à cette décision.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 92, 056; En vigueur : 02-07-2026&gt;
+
+##### Sous-section 3. - Les comptes.
+
+###### Art. 77
+
+[<sup>1</sup> Les décisions du collège de police relatives aux comptes de la police locale, sont envoyées au gouverneur dans un délai de vingt-cinq jours à partir du lendemain de l'adoption des comptes par le collège de police]<sup>1</sup>.
+
+Le Roi détermine les données qui, pour la constatation de ces comptes, doivent être transmises à l'autorité de tutelle par les autorités compétentes. Il détermine également la nature du support d'informations et la forme selon laquelle ces données sont présentées.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 93, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 78
+
+Les délibérations visées à l'article 77 sont soumises a l'approbation du gouverneur, lequel statue sur leur approbation et arrête les montants dans les [<sup>2</sup> cent jours]<sup>2</sup> à compter du lendemain de la réception du compte. Le gouverneur adresse son arrêté au plus tard le dernier jour de ce délai [<sup>2</sup> au collège de police]<sup>2</sup>, au [<sup>1</sup> comptable spécial]<sup>1</sup> et au ministre de Intérieur
+
+Passé ce délai, le gouverneur est censé avoir donné son approbation aux comptes.
+
+L'arrêté du gouverneur est communiqué [<sup>2</sup> aux conseils communaux des communes formant la zone de police]<sup>2</sup>, lors de [<sup>2</sup> leur]<sup>2</sup> prochaine séance.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 94, 056; En vigueur : 02-07-2026&gt;
+
+(2)&lt;L 2026-05-25/16, art. 95, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 79
+
+Le [<sup>2</sup> collège de police]<sup>2</sup> et le [<sup>1</sup> comptable spécial]<sup>1</sup> peuvent exercer auprès du ministre de l'Intérieur un recours contre l'arrête du gouverneur relatif au compte concernant la police locale, dans les quarante jours à compter du lendemain de l'envoi de l'arrêté [<sup>2</sup> au collège de police]<sup>2</sup>.
+
+Une copie du recours est adressée le même jour au gouverneur, [<sup>2</sup> au collège de police et]<sup>2</sup> au [<sup>1</sup> comptable spécial]<sup>1</sup> [<sup>2</sup> ...]<sup>2</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 94, 056; En vigueur : 02-07-2026&gt;
+
+(2)&lt;L 2026-05-25/16, art. 96, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 80
+
+En cas de recours, le compte est établi par le ministre de l'Intérieur dans un délai de cent jours à compter du lendemain de sa réception. En cas de recours conformément à l'article 79 émanant à la fois du [<sup>2</sup> collège]<sup>2</sup> de police et du [<sup>1</sup> comptable spécial]<sup>1</sup> les recours sont regroupés. Le ministre de l'Intérieur établit alors le compte dans un délai de cent jours à compter du lendemain de la réception du recours du [<sup>2</sup> collège]<sup>2</sup>.
+
+Le ministre de l'Intérieur transmet sa décision sur le recours introduit au plus tard le dernier jour du délai visé à l'alinéa précédent, au gouverneur, [<sup>2</sup> au collège de police]<sup>2</sup> ainsi qu'au [<sup>1</sup> comptable spécial]<sup>1</sup>
+
+Lorsqu'aucune décision n'est transmise [<sup>2</sup> au collège de police ]<sup>2</sup> dans le délai susdit, le recours est admis; en cas de recours du [<sup>1</sup> comptable spécial]<sup>1</sup> compétent seul, le recours est rejeté.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 7, 056; En vigueur : 02-07-2026&gt;
+
+(2)&lt;L 2026-05-25/16, art. 97, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 81
+
+Les articles 78 à 80 sont également applicables au décompte final du [<sup>1</sup> comptable spécial]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 8, 056; En vigueur : 02-07-2026&gt;
+
+##### Sous-section 4. - Contrôle la comptabilité et de la caisse.
+
+###### Art. 82
+
+§ 1er. En cas de refus ou de retard dans l'ordonnancement des dépenses en matière de police que la loi impute aux [<sup>2</sup> zones de police]<sup>2</sup>, le gouverneur entend [<sup>2</sup> ...]<sup>2</sup> le collège de police et ordonne, s'il y a lieu, le règlement immédiat des dépenses en cause.
+
+Le [<sup>2</sup> ...]<sup>2</sup> collège de police [<sup>2</sup> peut]<sup>2</sup> exercer, dans un délai de quarante jours à compter de l'expédition de l'arrêté par lequel le gouverneur émet d'office, en vertu de l'alinéa précédent, un mandat, un recours contre cet arrêté auprès du ministre de l'Intérieur.
+
+Le ministre de l'Intérieur statue sur le recours dans un délai de quarante jours à compter du lendemain de la réception du recours et transmet son arrêté au plus tard le dernier jour de ce délai au gouverneur et [<sup>2</sup> au collège de police ]<sup>2</sup>. Lorsqu'aucun arrêté n'est transmis dans le délai susdit, le recours [<sup>2</sup> ...]<sup>2</sup>du collège de police est admis.
+
+§ 2. Le [<sup>1</sup> comptable spécial]<sup>1</sup> peut, dans un délai de quarante jours à compter du lendemain de la réception de l'arrêté du gouverneur, exercer auprès du ministre de l'Intérieur un recours contre cet arrêté déclarant exécutoire un mandat régulier en cas de refus d'ordonnancer de la part du [<sup>1</sup> comptable spécial]<sup>1</sup>.
+
+Le ministre de l'Intérieur statue sur le recours dans un délai de quarante jours a compter du lendemain de la réception du recours et notifie son arrêté au plus tard le dernier jour de ce délai au gouverneur, au [<sup>1</sup> comptable spécial]<sup>1</sup> et [<sup>2</sup> au collège de police]<sup>2</sup>. Lorsqu'aucun arrêté n'est notifié dans le délai susdit, l'arrêté du gouverneur devient exécutoire.
+
+La décision définitive d'ordonnancement tient lieu de mandat régulier que le [<sup>1</sup> comptable spécial]<sup>1</sup> doit exécuter d'office.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 94, 056; En vigueur : 02-07-2026&gt;
+
+(2)&lt;L 2026-05-25/16, art. 98, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 83
+
+Le ministre de l'Intérieur et le gouverneur contrôlent la comptabilité et la caisse [<sup>1</sup> zone de police]<sup>1</sup>, chaque fois qu'ils le jugent utile. Tout contrôle fera l'objet d'un procès-verbal qui est soumis au [<sup>1</sup> collège de police]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 99, 056; En vigueur : 02-07-2026&gt;
+
+##### Sous-section 5. - Rééchelonnement des dettes.
+
+###### Art. 84
+
+Les délibérations du[<sup>1</sup> collège de police]<sup>1</sup> portant sur le rééchelonnement des charges financières des emprunts souscrits pour le financement de la police locale sont transmises pour approbation au gouverneur.
+
+Le gouverneur statue sur l'approbation de la décision du [<sup>1</sup> collège de police]<sup>1</sup> dans un délai de quarante jours à compter du lendemain de sa réception et transmet son arrêté au plus tard le dernier jour de ce délai [<sup>1</sup> au collège de police et au comptable spécial]<sup>1</sup>. Passé ce délai, le gouverneur est censé avoir approuvé le rééchelonnement.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 100, 056; En vigueur : 02-07-2026&gt;
+
+#### Section 4. - Tutelle administrative générale d'autres opérations des institutions communales.
+
+###### Art. 85
+
+[<sup>1</sup> Une liste contenant un bref exposé des décisions du collège de police est envoyée endéans les vingt jours au gouverneur. Le collège de police certifie à cette occasion que les dispositions en matière de publicité, visées à l'alinéa 2, ont été respectées.
+
+Le jour même de l'envoi au gouverneur, la liste visée à l'alinéa 1er est publiée, ainsi que les décisions prises à la suite d'une délégation de compétence par le collège de police afin que chacun puisse en prendre connaissance. Cette liste des décisions relatives aux affaires relevant de la police locale et les décisions sont publiées sur le site internet de la zone de police concernée. Les personnes ayant un accès limité aux moyens numériques peuvent consulter la liste et les décisions en se rendant au poste de police de la zone concernée, où elles peuvent les demander ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 101, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 86
+
+Sans préjudice des dispositions de l'article 85, une copie certifiée conforme des délibérations reprises ci-après, doit être envoyée au gouverneur :
+
+1° les délibérations du [<sup>2</sup> collège de police, ainsi que celles du chef de corps prises suite à une délégation de compétences par le collège de police,]<sup>2</sup> fixant le mode d'attribution et les conditions des marchés publics des travaux, des fournitures et des services auxquels sont applicables les arrêtés et les normes visées au chapitre II du titre IV de la présente loi, ainsi que les délibérations de passation du [<sup>2</sup> ...]<sup>2</sup> du collège de police, prises en exécution des délibérations précitées;
+
+2° les déliberations [<sup>2</sup> ...]<sup>2</sup> du collège de police concernant les dépenses rendues nécessaires par des circonstances urgentes et imprévues;
+
+3° les délibérations du [<sup>2</sup> collège de police ]<sup>2</sup>]<sup>1</sup> relatives au recrutement, à la nomination et à la promotion des membres de la police locale.
+
+(4° les délibérations du conseil communal ou du conseil de police ainsi que celles du bourgmestre ou du collège de police portant la proposition pour la désignation du chef de corps de la police locale.) &lt;L 2002-08-02/45, art. 162, 011; En vigueur : 29-08-2002&gt;
+
+----------
+
+(1)&lt;L 2013-12-21/22, art. 22, 034; En vigueur : 10-01-2014&gt;
+
+(2)&lt;L 2026-05-25/16, art. 102, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 87
+
+§ 1er. Le gouverneur suspend, par arrêté motivé et dans les délais déterminés à l'article 88, l'exécution [<sup>1</sup> de la décision par laquelle le collège de police, ou le chef de corps en vertu d'une délégation de compétence par le collège de police, excède ses compétences, viole la loi ou les dispositions réglementaires relatives à la police locale ou]<sup>1</sup> les normes d'équipement, d'organisation et de fonctionnement déterminées aux articles 141 et [<sup>1</sup> 142, nuit à l'intérêt général ou enfreint l]<sup>1</sup> cadre du personnel approuve. Une copie de l'arrêté de suspension est transmise sans délai au ministre de Intérieur
+
+§ 2. [<sup>1</sup> Le collège de police]<sup>1</sup> peut retirer la décision suspendue et en informe le gouverneur.
+
+[<sup>1</sup> Le collège de police]<sup>1</sup> peut, dans les [<sup>1</sup> quarante]<sup>1</sup> jours à compter du lendemain de l'envoi de l'arrêté suspensif du gouverneur à la [<sup>1</sup> zone]<sup>1</sup>, justifier de façon motivée une [<sup>1</sup> décision suspendue]<sup>1</sup> et adresser au ministre de l'Intérieur cette délibération justificative, sous peine de nullité de la [<sup>1</sup> décision suspendue]<sup>1</sup>, au plus tard le dernier jour du délai susmentionné. Une copie en est transmise au gouverneur.
+
+§ 3. En cas de justification, le ministre de l'Intérieur peut, par arrêté motivé et dans les 40 jours à compter du lendemain de la réception de la délibération justificative, annuler la décision suspendue par laquelle [<sup>1</sup> le collège de police]<sup>1</sup> viole les dispositions citées au § 1er[<sup>1</sup> , excède ses compétences, nuit à l'intérêt général ou enfreint le cadre du personnel approuvé.]<sup>1</sup>
+
+L'arrêté d'annulation est adressé, au plus tard le dernier jour du délai de quarante jours, [<sup>1</sup> au collège de police]<sup>1</sup>. Une copie en est envoyée au gouverneur. Au cas où le ministre compétent laisse expirer le délai d'annulation, la suspension sera levée d'office.
+
+§ 4. Sans préjudice de la compétence suspensive du gouverneur, le ministre de l'Intérieur peut, par arrêté motivé et dans (les délais, déterminés à l'article 88), annuler la délibération par laquelle [<sup>1</sup> le collège de police ou le chef de corps en vertu d'une délégation de compétence par le collège de police, viole les dispositions citées au paragraphe 1er, excède ses compétences, nuit à l'intérêt général ou enfreint le cadre du personnel approuvé]<sup>1</sup>. Une copie de cet arrêté d'annulation est notifiée au gouverneur. &lt;L 2001-12-30/30, art. 113, 009; En vigueur : 01-01-2002&gt;
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 103, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 88
+
+§ 1er. (Les délibérations visées à l'article 85 (et à l'article 86) ne sont plus susceptibles de suspension ou d'annulation par les autorités visées à l'article 87 si celles-ci n'ont pas pris et transmis leur décision;[<sup>1</sup> au collège de police ]<sup>1</sup> dans un délai [<sup>1</sup> quarante jours. Ce délai prend]<sup>1</sup> cours le jour qui suit (la réception de la liste visée à l'article 85 et de la délibération visée par l'article 86 par les autorités de tutelle prévues par l'article 87).) &lt;L 2001-12-30/30, art. 114, 009; En vigueur : 01-01-2002&gt; &lt;L 2002-08-02/45, art. 162, 011; En vigueur : 29-08-2002&gt;
+
+Ce délai est interrompu par l'expédition d'une lettre recommandée à la poste par laquelle l'autorité de tutelle réclame le dossier concernant une délibération déterminée ou recueille des informations complémentaires auprès [<sup>1</sup> du collège de police]<sup>1</sup>.
+
+Une délibération des autorités communales ou des autorités de la zone pluricommunale réclamée par l'autorité de tutelle n'est plus susceptible de suspension ou d'annulation après l'expiration (du délai déterminé dans l' alinéa 1er) dans lequel l'autorité de tutelle doit adresser son arrêté, ce délai prenant cours le jour suivant la réception, soit du dossier transmis par lettre recommandée ou remis contre récépissé, soit des informations supplémentaires visées au deuxième alinéa. &lt;L 2001-12-30/30, art. 114, 009; En vigueur : 01-01-2002&gt;
+
+§ 2. (...) &lt;L 2002-08-02/45, art. 162, 011; En vigueur : 29-08-2002&gt;
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 104, 056; En vigueur : 02-07-2026&gt;
+
+#### Section 5. - Tutelle coercitive.
+
+###### Art. 89
+
+Le ministre de l'Intérieur ou le gouverneur peut, après l'expiration du délai fixé dans un avertissement établi par lettre, charger un ou plusieurs commissaires spéciaux de se rendre sur place, aux frais personnels des personnes publiques, respectivement de la [<sup>1</sup> zone de police qui a]<sup>1</sup> négligé d'obtempérer à l'avertissement, aux fins de recueillir les informations ou observations demandées ou d'exécuter les mesures qui découlent des obligations liées à l'application de la présente loi.
+
+Le receveur (...) est chargé du recouvrement des frais visés à l'alinéa 1er, sur la foi d'un arrêté pris à cet effet par l'autorité ayant engagé la procédure de contrainte, qui tient lieu de mandat à exécuter d'office par le receveur. &lt;L 1999-04-19/50, art. 30, 004; En vigueur : 01-01-2000&gt;
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 105, 056; En vigueur : 02-07-2026&gt;
+
+### CHAPITRE VI. - Dispositions diverses.
+
+###### Art. 90
+
+[<sup>1</sup> Le collège de police]<sup>1</sup> peut arrêter un règlement relatif à la perception d'une rétribution pour des missions de police administrative de la police locale.
+
+Le Roi règle, par arrêté délibéré en Conseil des ministres, les conditions de cette perception et ses modalités.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 106, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 91
+
+[<sup>1</sup> ...]<sup>1</sup> [Devient l'article 8quinquies]
+
+----------
+
+(1)&lt;L 2018-07-19/23, art. 12, 046; En vigueur : 31-08-2018&gt;
+
+### CHAPITRE VII. [<sup>1</sup> - La fusion volontaire des zones de police]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/01, art. 193, 026; En vigueur : 10-01-2010&gt;
+
+###### Art. 91/1
+
+&lt;Abrogé par L 2026-05-25/16, art. 107, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 91/2
+
+[<sup>1</sup> Les [<sup>3</sup> collèges de police]<sup>3</sup> des zones de police concernées peuvent introduire [<sup>2</sup> ...]<sup>2</sup>, une demande conjointe de fusion volontaire de leurs zones de police anciennes auprès des Ministres de l'Intérieur et de la Justice.
+
+Le Roi [<sup>3</sup> définit]<sup>3</sup>r sur proposition des deux ministres le ressort territorial de la zone de police nouvelle.]<sup>1</sup>
+
+[<sup>3</sup> L'article 9/1, § 2, est d'application à toute fusion volontaire de zones de police organisée par le présent chapitre.]<sup>3</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/01, art. 193, 026; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2012-03-29/01, art. 48, 029; En vigueur : 09-04-2012&gt;
+
+(3)&lt;L 2026-05-25/16, art. 108, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 91/3
+
+&lt;Abrogé par L 2026-05-25/16, art. 109, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 91/4
+
+&lt;Abrogé par L 2026-05-25/16, art. 110, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 91/5
+
+&lt;Abrogé par L 2026-05-25/16, art. 111, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 91/6
+
+[<sup>1</sup> Le mandat de membre du collège de police d'une zone de police nouvelle prend cours [<sup>2</sup> u moment de l'entrée en vigueur de la définition du]<sup>2</sup> ressort territorial de la zone de police nouvelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/01, art. 193, 026; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2026-05-25/16, art. 112, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 91/7
+
+[<sup>1</sup> Entre l'entrée en vigueur de la définition du ressort territorial de la zone de police nouvelle et l'entrée en vigueur de l'arrêté royal instituant la zone de police nouvelle, le nombre de voix accordé à chaque bourgmestre au sein du collège de police de la zone de police nouvelle est défini sur la base de la dotation policière visée à l'article 40 que sa commune investissait dans la zone de police ancienne à laquelle elle appartenait.
+
+A partir de l'entrée en vigueur de l'arrêté royal instituant la zone de police nouvelle, chaque bourgmestre au sein du collège de police dispose du nombre de voix déterminé conformément à l'article 24.
+
+§ 2. Entre l'entrée en vigueur de la définition du ressort territorial de la zone de police nouvelle et l'entrée en vigueur de l'arrêté royal instituant la zone de police nouvelle, la procédure de sonnette d'alarme prévue à l'article 28, § 2, peut être appliquée dans les cinq jours ouvrables pour toute décision du collège de police de la zone de police nouvelle, par dérogation à l'article 28, § 2, alinéa 1er ]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 113, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 91/8
+
+[<sup>1</sup> [<sup>2</sup> Dans les quatre mois suivant l'institution de la police locale de la zone de police nouvelle, le plan zonal de sécurité de la zone de police nouvelle est communiqué au gouverneur, qui s'assure, dans les deux mois qui suivent sa communication, de sa concordance avec le plan national de sécurité.]<sup>2</sup>.
+
+La durée de validité du plan zonal de sécurité de la zone de police nouvelle est toutefois limitée au terme prévu pour les plans zonaux de sécurité en cours au sein des zones de police anciennes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/01, art. 193, 026; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2026-05-25/16, art. 114, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 91/9
+
+[<sup>1</sup> Durant les cinq premiers exercices budgétaires suivant l'institution de la police locale de la zone de police nouvelle, chaque commune octroie à la zone de police nouvelle une dotation de base identique à sa dotation dans la zone de police ancienne à laquelle elle appartenait, telle qu'inscrite au budget initial de l'avant-dernier exercice budgétaire précédant l'institution susmentionnée de la zone de police nouvelle.
+
+Si la dotation visée à l'alinéa 1er ne permet pas d'équilibrer le budget de la zone de police nouvelle, chaque commune verse une dotation complémentaire calculée selon les règles de répartition visées à l'article 40.
+
+Si la dotation visée à l'alinéa 1er génère un surplus pour la zone de police nouvelle, celle-ci l'affecte à la constitution de réserves ordinaires. ]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 115, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 91/10
+
+[<sup>1</sup> Les subventions fédérales qui sont attribuées à la zone de police nouvelle sont égales à la somme des subventions fédérales qui auraient été attribuées, conformément aux règles d'attribution des subventions fédérales qui sont d'application pour les zones de police anciennes, aux zones de police anciennes auxquelles elle succède.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/01, art. 193, 026; En vigueur : 10-01-2010&gt;
+
+### CHAPITRE VIII. - [<sup>1</sup> Modification de la délimitation des zones de police]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-04-21/06, art. 29, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+###### Art. 91/11
+
+[<sup>1</sup> La modification visée à l'article 9, alinéa 3, donne lieu à l'institution simultanée de plusieurs zones de police nouvelles suite à la scission d'une ou plusieurs zones de police pluricommunale anciennes. Cette modification doit avoir une plus-value opérationnelle ou organisationnelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-04-21/06, art. 29, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+###### Art. 91/12
+
+[<sup>1</sup> Les conseils communaux des communes faisant partie des zones de police anciennes concernées par la modification de la délimitation des zones de police introduisent une demande motivée conjointe à cet effet auprès des ministres de l'Intérieur et de la Justice.
+
+Ils joignent à cette demande les éléments visés à l'article 257quinquies/12.
+
+Le Roi définit sur proposition des ministres de l'Intérieur et de la Justice le ressort territorial des zones de police nouvelles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-04-21/06, art. 29, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+###### Art. 91/13
+
+[<sup>1</sup> Les articles [<sup>2</sup> ...]<sup>2</sup> 91/6 à 91/9 sont applicables à la (aux) zone(s) de police pluricommunale(s) nouvelle(s) qui résulte(nt) de la modification de la délimitation des zones de police.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-04-21/06, art. 29, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+(2)&lt;L 2026-05-25/16, art. 116, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 91/14
+
+&lt;Abrogé par L 2026-05-25/16, art. 117, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 91/15
+
+[<sup>1</sup> La subvention fédérale attribuée à la (aux) zone(s) de police ancienne(s) est répartie entre les zones de police nouvelles qui résultent de la modification de la délimitation des zones de police au prorata du coût salarial des membres du personnel du cadre opérationnel et du cadre administratif et logistique de la(des) zone(s) de police ancienne(s) qui sont transférés à chacune des zones de police nouvelles.
+
+Le coût salarial est défini par les rémunérations attribuées aux membres du personnel du cadre opérationnel et du cadre administratif et logistique de la(des) zone(s) de police ancienne(s) le mois précédant celui de l'introduction de la demande visée à l'article 91/12.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-04-21/06, art. 29, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+## TITRE III. - La police fédérale.
+
+### CHAPITRE Ier. - Disposition générale.
+
+###### Art. 92
+
+La police fédérale prépare le plan national de sécurité et contribue, avec toutes ses directions générales et ses services, à sa réalisation.
+
+Sans préjudice de l'article 4, le plan national de sécurité comprend, en ce qui concerne la police fédérale :
+
+1° les missions et les objectifs prioritaires de la police fédérale, tels que fixés par les ministres de la Justice et de l'Intérieur, ainsi que la manière dont ils sont atteints;
+
+2° la répartition des moyens en personnel et en matériel entre les directions générales et services.
+
+[<sup>1</sup> Le plan national de sécurité est accompagné d'une estimation pluriannuelle des moyens et investissements jugés indispensables par la police fédérale, durant la durée du plan, pour atteindre les objectifs visés à l'alinéa 2, 1°, qui est établie à l'attention des ministres de la Justice et de l'Intérieur.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 12, 036; En vigueur : 01-04-2014&gt;
+
+### CHAPITRE II. - Organisation générale.
+
+###### Art. 93
+
+&lt;L 2006-06-20/34, art. 13, 021; En vigueur : 01-03-2007&gt; [<sup>1</sup> § 1er. La police fédérale comprend :
+
+1° le commissariat général;
+
+2° une direction générale transversale chargée du personnel, de la logistique, de l'ICT, de l'information, ainsi que des finances, dénommée la direction générale de la gestion des ressources et de l'information;
+
+3° deux directions générales opérationnelles, à savoir la direction générale de la police administrative et la direction générale de la police judiciaire.
+
+§ 2. Le commissariat général et les directions générales se composent de directions et services centraux et déconcentrés. Les directions et services déconcentrés sont :
+
+1° les directions de coordination et d'appui déconcentrées;
+
+2° les directions judiciaires déconcentrées en ce compris les divisions de la police judiciaire qui sont, le cas échéant, fixées par un arrêté royal délibéré en Conseil des ministres en cas de besoins opérationnels clairement établis;
+
+3° le service d'information et de communication de l'arrondissement composé du carrefour d'information d'arrondissement et du centre d'information et de communication.
+
+Par arrondissement et dans le ressort du parquet de Hal-Vilvoorde, les directions et services visés à l'alinéa 1er, sont organisés de manière coordonnée et intégrée.
+
+§ 3. Pour le surplus, sous réserve de l'application des articles 100bis à 102, le Roi règle l'organisation du commissariat général et des directions générales en directions et services.
+
+§ 4. Toutes les directions générales, directions et services de la police fédérale relèvent du commissaire général.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 13, 036; En vigueur : 01-10-2014&gt;
+
+###### Art. 94
+
+[<sup>1</sup> Le ressort des directions et services déconcentrés de la police fédérale visés à l'article 93, § 2, alinéa 1er, 1° à 3°, est celui des arrondissements judiciaires et le siège de ces directions et services se trouve au sein du ressort des arrondissements judiciaires respectifs, sauf pour l'arrondissement judiciaire de Bruxelles et sauf exception justifiée par des situations particulières. Dans ce cas, le Roi fixe par arrêté délibéré en Conseil des ministres le ressort et le siège des directions et services déconcentrés afin de tenir compte de l'arrondissement judiciaire de Bruxelles et de ces particularités.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-04-21/06, art. 30, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+###### Art. 95
+
+Les programmes comprenant une approche judiciaire et administrative intégrée en vue du traitement ou de la gestion de phénomènes spécifiques [<sup>1</sup> sont élaborés conjointement par la direction générale de la police judiciaire et par la direction générale de la police administrative]<sup>1</sup>, sous l'autorité des deux ministres, sans porter atteinte à leurs compétences respectives.
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 14, 036; En vigueur : 01-04-2014&gt;
+
+###### Art. 96
+
+Des membres de la police locale [<sup>1</sup> peuvent être détachés]<sup>1</sup>, pour un mandat renouvelable une fois, dans les directions générales et dans les services de la police fédérale chargés de l'appui à la police locale, ainsi que dans les autres services de la police fédérale dont les attributions ont un impact direct sur le fonctionnement de la police locale.
+
+Parmi les fonctions visées à l'alinéa 1er, le Roi détermine, par arrêté délibéré en Conseil des ministres, celles auxquelles des membres de la police locale sont désignés à des fonctions dirigeantes, ainsi que la durée du mandat et les modalités des mises en place visées au présent article.
+
+(Les membres de la police locale visés à l'alinéa 1er, sont désignés par le ministre de l'Intérieur après avis de la Commission permanente de la police locale et du [<sup>1</sup> conseil]<sup>1</sup> des bourgmestres. Pour les membres de la police locale désignés à la direction générale de la police judiciaire, l'avis conforme du ministre de la Justice est en outre requis.) &lt;L 2002-04-26/30, art. 108, 010; En vigueur : 30-04-2002&gt;
+
+Les membres de la police locale visés à l'alinéa 1er entretiennent régulièrement des rapports de service concernant leur utilisation au sein de la police fédérale avec la Commission permanente de la police locale et le [<sup>1</sup> conseil]<sup>1</sup> des bourgmestres.
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 15, 036; En vigueur : 01-04-2014&gt;
+
+###### Art. 96bis
+
+&lt;Abrogé par L 2016-04-21/06, art. 31, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+### CHAPITRE III. - Autorité, direction et attributions.
+
+###### Art. 97
+
+Pour l'accomplissement de ses missions de police administrative, la police fédérale est placée sous l'autorité du ministre de l'Intérieur qui peut lui donner les ordres, instructions et directives nécessaires à cet effet.
+
+Sans préjudice des compétences propres que les autorités judiciaires exercent directement à l'égard de la police fédérale, elle est placée, pour l'exécution de ses missions de police judiciaire, sous l'autorité du ministre de la Justice qui peut lui donner les ordres, les instructions et les directives nécessaires à cet effet. Les ordres et instructions concernant une enquête pénale déterminée ne peuvent être donnés qu'à la demande de l'autorité judiciaire compétente.
+
+Pour l'exécution des missions qui concernent la police des cours et tribunaux, et sans préjudice des dispositions articles 759 à 763 du Code judiciaire, des articles 31 et 32 du Code de procédure pénale militaire et des articles 181, 267, alinéa 2, 506 et 507 du Code d'instruction criminelle, la police des prisons et la protection du transfèrement des détenus, la police fédérale est placée sous l'autorité du ministre de la Justice qui peut lui donner les ordres, instructions et directives nécessaires à cet effet.
+
+[<sup>1</sup> Sans préjudice des compétences du ministre ou du secrétaire d'Etat qui a la mer du Nord dans ses attributions, la police fédérale est placée, pour l'exécution de ses missions de police administrative dans la mer territoriale belge, la zone économique exclusive et sur le plateau continental, sous l'autorité du gouverneur de la province de Flandre occidentale.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2016-04-21/06, art. 32, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+###### Art. 98
+
+[<sup>1</sup> § 1er. La police fédérale est placée sous l'autorité du ministre de l'Intérieur et du ministre de la Justice qui, conformément aux dispositions légales, sont conjointement compétents pour fixer les principes généraux de l'organisation, du fonctionnement et de l'administration générale de la police fédérale pour assurer notamment un service minimum équivalent à la population.
+
+§ 2. Les ministres de l'Intérieur et de la Justice fixent conjointement les compétences du commissaire général, des directeurs coordonnateurs administratifs et des directeurs judiciaires, ainsi que les attributions des directeurs généraux qui disposeront de compétences pour l'organisation interne de leur direction générale et la gestion de celle-ci en matière de personnel, de fonctionnement et d'investissements.
+
+La signature du ministre de l'Intérieur et celle du ministre de la Justice sont notamment requises pour les arrêtés royaux organiques relatifs à la police fédérale et pour la note de politique générale se rapportant à la police fédérale dans le cadre du projet de budget général des dépenses.
+
+Sans préjudice d'autres dispositions légales ou réglementaires, le ministre de l'Intérieur supervise la gestion quotidienne de la police fédérale confiée au commissaire général. Lorsque le traitement de ces dossiers influence directement la direction générale de la police judiciaire, les directions judiciaires déconcentrées ou la gestion de l'information, il y associe le ministre de la Justice selon les règles qu'ils fixent en commun.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 16, 036; En vigueur : 01-04-2014&gt;
+
+###### Art. 99
+
+La police fédérale est placée sous la direction du commissaire général. Il est responsable de l'exécution, par la police fédérale, de la politique policière définie par les ministres de l'Intérieur et de la Justice, et plus particulièrement de l'exécution du plan national de sécurité pour ce qui concerne la police fédérale.
+
+Il (dirige et) assure la coordination entre les directions générales, veille a ce que l'appui nécessaire soit apporté aux opérations et est responsable du fonctionnement quotidien de la police fédérale. Il assure l'exécution intégrée des missions de la police fédérale et veille en particulier à ce que le directeur coordonnateur administratif et le directeur (judiciaire) coordonnent leurs activités. &lt;L 2006-06-20/34, art. 16, 021; En vigueur : 01-03-2007&gt;
+
+Lorsque leurs ordres instructions et directives concernent spécifiquement les compétences de la direction générale de la police administrative ou de la direction générale de la police judiciaire, le ministre de l'Intérieur ou le ministre de la Justice peuvent les donner directement au directeur général de l'une de ces directions générales. Ce dernier en informe sans délai le commissaire général.
+
+Dans le cadre déterminé conformément à l'article 98, alinéa 1er, le commissaire général arrête l'organisation des services.
+
+###### Art. 100
+
+Les directions générales sont placées sous la direction des directeurs généraux.
+
+Sans pouvoir s'immiscer dans l'exécution d'informations ou d'instructions judiciaires, le commissaire général réforme les décisions d'un directeur général qui ne respectent pas le plan national de sécurité ou qui portent atteinte au fonctionnement des autres directions générales ou à la cohérence du fonctionnement de la police fédérale.
+
+Dans ce cas, la décision du commissaire général est prise sous l'autorité des ministres de l'Intérieur et de la Justice qui peuvent conjointement réformer celle-ci, soit à l'initiative de l'un d'entre eux, soit à la demande d'un des magistrats fédéraux affectés à la police fédérale, chacun dans le cadre de ses compétences, ou à la demande du directeur général concerné. Si la décision du commissaire général a un impact sur une information ou une instruction judiciaire, l'avis du procureur fédéral est préalablement sollicité.
+
+###### Art. 100bis
+
+&lt;Inséré par L 2006-06-20/34, art. 17; En vigueur : 01-03-2007&gt; [<sup>1</sup> § 1er. Le commissaire général veille au fonctionnement efficace et efficient de la police fédérale et à l'application des principes de spécialité et de subsidiarité.
+
+Il contribue à un fonctionnement intégré optimal des deux composantes de police, en particulier en veillant à l'exécution des missions d'appui par ses directions et services propres et par les directions générales. A cet effet, le commissaire général veille à la gestion des relations et de la concertation et coordination avec la police locale.
+
+Dans ce cadre, le commissaire général assure notamment les missions suivantes :
+
+1° l'élaboration, après avis des directeurs généraux concernés :
+
+\- des directives générales en matière de stratégie policière opérationnelle;
+
+\- des directives spécifiques et générales relatives à la collecte et l'exploitation de l'information policière opérationnelle et non opérationnelle et à la gestion organisationnelle de la police fédérale concernant le personnel, la logistique, l'ICT, les finances et la politique budgétaire et d'investissements, ainsi que le suivi et l'évaluation de ces directives;
+
+2° la coopération policière internationale;
+
+3° la communication de la police fédérale.
+
+§ 2. La direction générale de la gestion des ressources et de l'information est chargée des missions de collecte et d'exploitation de l'information policière opérationnelle et non opérationnelle et des missions non-opérationnelles de management au profit de la police fédérale et de certaines missions d'appui non-opérationnelles au profit des autorités et polices locales.
+
+Le directeur général de la gestion des ressources et de l'information contribue à un fonctionnement intégré optimal et assume la gestion de sa direction générale et la gestion des ressources humaines, de l'information, de l'ICT et des moyens matériels et financiers au profit des autorités et services de la police intégrée, dans le cadre des directives en matière de gestion organisationnelle visée au § 1er, alinéa 3, 1°, dont il assure le suivi et la coordination avec le niveau déconcentré.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 17, 036; En vigueur : 01-10-2014&gt;
+
+###### Art. 101
+
+[<sup>1</sup> La direction générale de la police administrative est chargée des missions de police administrative spécialisées et supralocales et, dans ce cadre, des missions d'appui aux autorités de police et aux services de la police intégrée. Le directeur général de la police administrative contribue à un fonctionnement intégré optimal, en particulier en veillant à l'exécution des missions d'appui par ses directions et services propres.
+
+Dans ce cadre, la direction générale de la police administrative assure notamment les missions suivantes :
+
+1° l'exploitation des informations policières qui sont nécessaires pour les missions de la police intégrée;
+
+2° la direction et la coordination opérationnelle des missions de police administrative de ses directions et services;
+
+3° les missions spécialisées de police administrative et l'appui aux missions de police;
+
+4° l'organisation de la réserve fédérale d'intervention au profit de l'ensemble des services de police;
+
+5° l'appui dans le cadre des missions déconcentrées de police administrative des directeurs coordonnateurs administratifs, notamment par la mise à disposition de personnel dans le cadre d'une capacité hypothéquée et de moyens conformément aux directives émises par le ministre de l'Intérieur;]<sup>1</sup>
+
+[<sup>2</sup> 6° l'exécution des missions de protection des personnes qui lui sont confiées par le ministre de l'Intérieur ou son délégué.]<sup>2</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 18, 036; En vigueur : 01-04-2014&gt;
+
+(2)&lt;L 2016-04-21/06, art. 33, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+###### Art. 102
+
+[<sup>1</sup> La direction générale de la police judiciaire est chargée des missions de police judiciaire spécialisées et supralocales et, dans ce cadre, des missions d'appui aux autorités de police et aux services de la police intégrée. Le directeur général de la police judiciaire contribue à un fonctionnement intégré optimal, en particulier en veillant à l'exécution des missions d'appui par ses directions et services propres.
+
+Dans ce cadre, la direction générale de la police judiciaire assure notamment les missions suivantes :
+
+1° l'exploitation des informations policières qui sont nécessaires pour les missions de la police intégrée;
+
+2° la direction et la coordination opérationnelle des missions de police judiciaire des services centraux de la police fédérale;
+
+3° la coordination opérationnelle, le contrôle et l'appui des directions judiciaires déconcentrées;
+
+4° les missions spécialisées de police judiciaire et l'appui aux missions de police en ce compris les missions d'enquête dans le cadre des matières fixées par le Roi par arrêté délibéré en Conseil des ministres;
+
+5° la police technique et scientifique, sans préjudice des attributions de l'Institut National de Criminalistique et de Criminologie;
+
+6° l'organisation d'unités spéciales au profit de l'ensemble des services de police.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 19, 036; En vigueur : 01-04-2014&gt;
+
+###### Art. 102bis
+
+&lt;Abrogé par L 2014-03-26/03, art. 20, 036; En vigueur : 01-10-2014&gt;
+
+###### Art. 103
+
+[<sup>1</sup> § 1er. Le directeur coordonnateur administratif dirige et organise la direction de coordination et d'appui déconcentrée et veille notamment à prendre toutes les mesures préparatoires à la gestion, au niveau supralocal d'événements ou de situations de crise, de calamités, catastrophes ou sinistres. Il assume la gestion du service d'information et de communication de l'arrondissement visé à l'article 93, § 2, 3°.
+
+§ 2. Le directeur coordonnateur administratif assure une concertation régulière avec le gouverneur et entretient régulièrement des rapports de service avec le commissaire d'arrondissement. Le directeur coordonnateur administratif assure également une concertation, à sa demande, avec chaque chef de corps ou bourgmestre de son arrondissement.
+
+§ 3. Pour l'exécution de ses missions, le directeur coordonnateur administratif se conforme aux ordres, instructions et directives du commissaire général et des directeurs généraux selon leurs compétences respectives.
+
+§ 4. Il coordonne ses activités avec celles du directeur judiciaire.
+
+§ 5. Le directeur coordonnateur administratif donne suite à toute demande d'appui émanant du directeur général de la police administrative et ce, par priorité à l'exécution de toute autre mission de police administrative. Dans ce cadre, il assure un prélèvement garanti pour les missions décidées par le directeur général de la police administrative.
+
+§ 6. Le directeur coordonnateur administratif est placé sous l'autorité du commissaire général.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 21, 036; En vigueur : 01-10-2014&gt;
+
+###### Art. 104
+
+[<sup>1</sup> § 1er. Le directeur coordonnateur administratif est notamment chargé des missions suivantes :
+
+1° l'exécution du plan national de sécurité au sein de son ressort, pour les aspects qui relèvent de sa sphère de compétences, en tenant compte des priorités locales et en concertation avec les partenaires;
+
+2° la gestion administrative du personnel, de la logistique, de l'ICT et des finances de la police fédérale pour les services qui relèvent de lui et pour les directions judiciaires déconcentrées qui se trouvent au sein de son ressort;
+
+3° la fonction "point de contact" des entités de première ligne de la direction générale de la police administrative au sein de son ressort;
+
+4° la participation à la concertation de recherche, à la concertation provinciale et au conseil zonal de sécurité;
+
+5° la coordination, à la demande des autorités de police administrative compétentes, de l'appui par le niveau fédéral en matière de missions supralocales de police administrative ainsi que des missions qui ont une composante tant de police administrative que de police judiciaire;
+
+6° la coordination et la direction des opérations de police conformément aux articles 7/1 à 7/3 de la loi sur la fonction de police, à l'exception des missions spécialisées de police judiciaire visées à l'article 102;
+
+7° la réponse aux demandes d'appui opérationnel, administratif ou technique et en matière de la gestion et de l'exploitation d'informations policières de la police locale, à l'exception de l'appui en matière de missions spécialisées de police judiciaire visées à l'article 102;
+
+8° la responsabilité de la gestion logistique et administrative quotidienne du service d'information et de communication de l'arrondissement, ainsi que l'autorité fonctionnelle sur l'information de police administrative;
+
+9° dans le cadre de ses compétences légales, la gestion des relations avec la police locale, notamment en invitant au moins une fois par an l'ensemble des bourgmestres et les chefs de corps de son ressort territorial.
+
+A la demande d'une zone de police, un protocole d'accord précisant les modalités et les engagements en matière d'appui peut être conclu entre la zone et le directeur coordonnateur administratif.
+
+§ 2. Le directeur coordonnateur administratif donne suite aux demandes d'appui opérationnel et aux demandes d'appui non opérationnel au profit du directeur judiciaire, lorsqu'elles sont nécessaires au bon accomplissement des missions confiées à ses services, en particulier en matière de :
+
+1° la gestion administrative du personnel, de la logistique, de l'ICT et des finances;
+
+2° la gestion et de l'exploitation d'informations de police.
+
+Lorsqu'il ne donne pas suite à ces demandes, le commissaire général décide.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 22, 036; En vigueur : 01-10-2014&gt;
+
+###### Art. 104bis
+
+[<sup>1</sup> En exécution de l'article 103, § 1er, le service d'information et de communication de l'arrondissement est chargé, dans le ressort pour lequel il est compétent, de l'appui dans le traitement et la gestion de l'information.
+
+Le service d'information et de communication de l'arrondissement accomplit ses missions tant au profit de la police fédérale que de la police locale et, par conséquent, la police fédérale et la police locale participent effectivement à sa composition et à son fonctionnement.
+
+Le Roi fixe par un arrêté délibéré en Conseil des ministres les règles de composition et les modalités de fonctionnement des services d'information et de communication.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2014-03-26/03, art. 23, 036; En vigueur : 01-10-2014&gt;
+
+###### Art. 105
+
+[<sup>1</sup> § 1er. La direction judiciaire déconcentrée exécute les missions spécialisées de police judiciaire attribuées à cette direction conformément à l'article 5, alinéas 2 et 3, de la loi sur la fonction de police. Elle est placée sous la direction du directeur de la direction judiciaire déconcentrée, dénommé directeur judiciaire.
+
+§ 2. Le directeur judiciaire assure la direction, l'organisation et la répartition des tâches au sein de sa direction et coordonne l'exécution de ces missions par les membres de sa direction.
+
+§ 3. Il exerce l'autorité fonctionnelle sur l'information judiciaire.
+
+§ 4. Sans préjudice du § 7, alinéa 2, et de l'article 99, alinéa 2, pour l'exécution de ses missions, il se conforme, dans le cadre des directives du commissaire général, aux ordres et instructions du directeur général de la police judiciaire et, en ce qui concerne les missions spécialisées de police administrative, du directeur général de la police administrative.
+
+§ 5. Il coordonne ses activités avec celles du directeur coordonnateur administratif.
+
+§ 6. En vue d'assurer la coordination des missions de police judiciaire entre la police locale et la direction judiciaire déconcentrée, le directeur judiciaire entretient régulièrement des relations de service avec les responsables de la police locale et participe à la concertation de recherche et à la concertation provinciale. Il rencontre, au moins une fois par an, les bourgmestres et les chefs de corps de son ressort.
+
+En vue d'assurer la coordination des missions de police judiciaire, le directeur judiciaire entretient une concertation régulière avec le procureur du Roi de son ressort.
+
+§ 7. Le directeur judiciaire assure l'appui aux services de recherche des polices locales.
+
+A la demande d'une zone, un protocole d'accord précisant les modalités et les engagements en matière d'appui judiciaire peut être conclu entre la zone et le directeur judiciaire.
+
+Les directions judiciaires déconcentrées exécutent également à titre subsidiaire des missions spécialisées de police administrative.
+
+§ 8. Le directeur judiciaire est placé sous l'autorité du directeur général de la police judiciaire.
+
+§ 9. Le Roi peut, par un arrêté délibéré en Conseil des Ministres, répartir les ressorts territoriaux des directions judiciaires déconcentrées en deux ou plusieurs divisions de la police judiciaire, si la nécessité opérationnelle l'exige.
+
+§ 10. Sans préjudice des compétences des procureurs du Roi, les décisions du procureur fédéral prises dans la matière visée à l'article 144ter, § 1er, 2°, du code judiciaire sont, sur réquisition de ce dernier, exécutées par les directions judiciaires déconcentrées d'Anvers, de Bruxelles, de Charleroi/Mons, de Flandre-Orientale et de Liège. Un arrêté royal délibéré en Conseil des Ministres peut fixer les modalités de coordination, de direction et d'engagement d'effectifs.
+
+§ 11. Dans les matières de la criminalité économique et financière organisée, de la fraude fiscale et sociale et de la criminalité ICT, des unités de recherche sont créées au sein des directions judiciaires déconcentrées d'Anvers, de Bruxelles, de Charleroi/Mons, de Flandre-Orientale et de Liège, chargées des enquêtes spécialisées. En particulier, elles seront chargées de participer aux équipes mixtes d'enquête multidisciplinaire. Un arrêté royal délibéré en Conseil des Ministres peut fixer les modalités de coordination, de direction et d'engagement d'effectifs.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 24, 036; En vigueur : 01-10-2014&gt;
+
+###### Art. 105bis
+
+&lt;Abrogé par L 2014-03-26/03, art. 25, 036; En vigueur : 01-10-2014&gt;
+
+### CHAPITRE IV. - Personnel.
+
+###### Art. 106
+
+La loi fixe, chaque année, l'effectif du cadre opérationnel et du cadre administratif et logistique de la police fédérale.
+
+La même loi définit la part minimale de chaque cadre qui sera affectée à la direction générale de la police judiciaire et aux [<sup>1</sup> directions judiciaires déconcentrées]<sup>1</sup>.
+
+Le Roi détermine les règles détaillées selon lesquelles les membres du personnel du cadre opérationnel et du cadre administratif et logistique de la police locale peuvent se porter candidats à un emploi au sein de la police fédérale.
+
+----------
+
+(1)&lt;L 2016-04-21/06, art. 34, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+###### Art. 107
+
+Le commissaire général et les directeurs généraux sont désignés à leur emploi par le Roi (...), [<sup>1</sup> pour un terme de cinq ans, renouvelable une fois pour le même mandat,]<sup>1</sup> sur proposition des ministres de la Justice et de l'Intérieur et après avis motivé du conseil fédéral de police (dans lequel le commissaire général ne siège pas pour le renouvellement de son mandat). Pour la désignation du directeur général de la direction générale de la police judiciaire, l'avis motivé du collège des procureurs généraux est en outre requis. &lt;L 2001-04-02/34, art. 20, 007; En vigueur : 01-01-2001&gt; &lt;L 2006-06-20/34, art. 23, 1°, 021; En vigueur : 26-07-2006&gt;
+
+Le directeur coordonnateur administratif est désigné à son emploi par le Roi (...),[<sup>1</sup> pour un terme de cinq ans, renouvelable une fois,]<sup>1</sup> sur proposition du ministre de l'Intérieur et après avis motivé du ministre de la Justice et du gouverneur. &lt;L 2006-06-20/34, art. 23, 2°, 021; En vigueur : 26-07-2006&gt;
+
+Le directeur judiciaire est désigné pour son emploi par le Roi (...), [<sup>1</sup> pour un terme de cinq ans, renouvelable une fois,]<sup>1</sup> sur proposition du ministre de la Justice et après avis motivé du ministre de l'Intérieur et du procureur général près la cour d'appel territorialement compétent. &lt;L 2006-06-20/34, art. 23, 3°, 021; En vigueur : 26-07-2006&gt;
+
+[<sup>1</sup> ...]<sup>1</sup>. Le Roi arrête les conditions de réaffectation des mandataires dont il est mis fin au mandat ou dont le mandat n'est pas renouvelé.) &lt;L 2006-06-20/34, art. 23, 4°, 021; En vigueur : 26-07-2006&gt;
+
+Nul ne peut être désigné (à un mandat de la police fédérale) s'il n'a pas été déclaré apte par une commission de sélection. Ces désignations sont renouvelées sur avis d'une commission d'évaluation. Pour le surplus, le Roi fixe, par arrêté délibéré en Conseil des ministres, les conditions et la procédure de désignation à ces emplois, ainsi que la procédure d'évaluation Il fixe également les modalités de constitution et de fonctionnement de la commission de sélection et de la commission d'évaluation. Les supérieurs hiérarchiques de la police fédérale émettent un avis préalablement à toute désignation aux emplois visés aux alinéas 1er, 2 et 3 et, sauf en ce qui concerne le commissaire général, à tout renouvellement du mandat des intéressés. &lt;L 2006-06-20/34, art. 23, 5°, 021; En vigueur : 26-07-2006&gt;
+
+En cours de mandat, le titulaire peut, par décision conjointe du ministre de l'Intérieur et du ministre de la Justice, être affecté à un autre emploi d'un niveau au moins équivalent dans une autre direction générale ou service de la police fédérale lorsque cette mesure est nécessaire au fonctionnement optimal de cette direction générale ou de ce service.
+
+Le Roi fixe le délai dans lequel l'avis des ministres du gouverneur et du procureur général près la cour d'appel requis dans le cadre d'une procédure de désignation doit être émis sous peine d'être réputé favorable, ainsi que les conditions d'utilisation des officiers dont le mandat n'est pas renouvelé ou auquel il est mis fin.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 118, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 108
+
+Le Roi règle le régime des affectations qui seront nécessaires au sein de la police fédérale, pour que ses missions soient assurées.
+
+###### Art. 108bis
+
+[<sup>1</sup> Les officiers supérieurs sont nommés par le Roi. La nomination des officiers supérieurs affectés à une direction judiciaire déconcentrée a lieu après avis motivé du procureur général près la Cour d'appel compétent territorialement.
+
+Les autres officiers sont nommés par le ministre.
+
+Les membres du personnel du cadre administratif et logistique de niveau A sont nommés par le ministre ou engagés par le commissaire général.
+
+Les autres membres du personnel sont nommés ou engagés par le commissaire général ou son délégué.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 26, 036; En vigueur : 01-04-2014&gt;
+
+### CHAPITRE V. - Les réquisitions.
+
+###### Art. 109
+
+Les réquisitions du bourgmestre visant à obtenir le concours de la police fédérale pour l'exécution de ses missions de police administrative sont adressées au directeur coordonnateur administratif territorialement compétent.
+
+###### Art. 110
+
+Les réquisitions de police judiciaire visant à obtenir le concours de la police fédérale sont adressées par les autorités judiciaires compétentes au directeur (judiciaire), au directeur coordonnateur administratif ou au directeur général de la direction générale de la police judiciaire pour les services relevant de leurs compétences. &lt;L 2006-06-20/34, art. 25, 021; En vigueur : 01-03-2007&gt;
+
+### CHAPITRE VI. - Collaboration avec les forces armées.
+
+###### Art. 111
+
+Le commissaire général et les officiers désignés par le Roi sur proposition conjointe des ministres de l'Intérieur, de la Justice et de la Défense nationale peuvent, lorsque les moyens de la police fédérale se révèlent insuffisants, requérir pour le maintien de l'ordre public et l'exécution des missions de police judiciaire, l'assistance des forces armées si celles-ci sont les seules à pouvoir fournir les moyens techniques et humains nécessaires.
+
+###### Art. 112
+
+Le ministre de l'Intérieur et le ministre de la Justice fournissent, à la demande du ministre de la Défense nationale, les détachements de la police fédérale nécessaires pour assurer, à des endroits déterminés en dehors du territoire du Royaume, la police des militaires. Ces détachements sont placés sous les ordres de l'autorité désignée par ces ministres.
+
+La police fédérale ne peut être chargée, en temps de paix, par les autorités judiciaires compétentes de porter des citations aux parties ou aux témoins, sauf dans les circonstances visées à l'alinéa 1er.
+
+###### Art. 113
+
+En cas d'événements de nature à compromettre sérieusement l'ordre public ou en cas de troubles graves ou généralisés qui peuvent donner lieu à la réquisition ou la mise en oeuvre des forces armées, la police fédérale en informe les autorités militaires territoriales, les tient au courant des événements et leur fournit les éléments d'appréciation qui leur permettent de prendre, en temps utile, les mesures préparatoires à toute réquisition ou à une intervention des forces armées.
+
+### CHAPITRE VII. - Dispositions diverses.
+
+###### Art. 114
+
+Les dépenses relatives à la police fédérale font l'objet d'une section du budget général des dépenses. Les allocations de base relatives à la direction générale de la police judiciaire sont regroupées dans une division organique distincte.
+
+###### Art. 115
+
+&lt;L 2002-04-26/30, art. 124, 010; En vigueur : 30-04-2002&gt; § 1er. Pendant la période durant laquelle la Défense nationale et la police fédérale doivent prolonger leur appui réciproque, le Ministre de l'Intérieur est autorisé à valoriser les prestations fournies à la Défense nationale et à indemniser la Défense nationale pour les prestations reçues sur base des coûts supplémentaires.
+
+Le cas échéant, les sommes dues par la Défense nationale sont affectées à un fonds budgétaire organique.
+
+§ 2. [<sup>4</sup> Le ministre de l'Intérieur est autorisé à augmenter les moyens de la police fédérale par :
+
+1° des contributions volontaires, financières ou en matériel, provenant de l'Union européenne, d'organismes publics supranationaux, des autorités fédérales, des régions, des communautés, des provinces, des [<sup>6</sup> zones de police]<sup>6</sup> ou des communes, et accordées dans le cadre de l'exercice des missions qui sont légalement confiées à la police fédérale;
+
+2° des revenus qui proviennent d'initiatives visant à promouvoir la collaboration régionale, nationale et internationale.]<sup>4</sup>
+
+Les moyens financiers ainsi pris en recette sont affectés à un fonds budgétaire. [<sup>1</sup> Vu leur spécificité, les contributions en provenance de fonds européens [<sup>2</sup> , à l'exception de celles visées au Fonds européen fédéral pour l'asile et la migration et la Sécurité intérieure - Programmation 2014-2020, et les contributions en provenance des institutions internationales]<sup>2</sup> sont exclusivement versées au fonds budgétaire organique visé à l'article 11 de la loi du 21 décembre 2007 portant des dispositions diverses (I). Les crédits variables liés à ce fonds peuvent être employés en liquidation même si le solde disponible sur le fonds est négatif. Le solde débiteur autorisé de la sorte est fixé annuellement par un cavalier budgétaire en même temps que l'autorisation d'engagement visée au même article.]<sup>1</sup>
+
+§ 3. Dans les cas où l'appel fait à la police fédérale n'est pas réglé en vertu de la loi, le Ministre de l'Intérieur est autorisé à affecter contre paiement des membres du personnel et des biens de la police fédérale à des prestations d'utilité publique, pour autant que :
+
+1° les missions légales ne soient pas mises en péril;
+
+2° les prestations aient un caractère humanitaire ou culturel ou contribuent à une aide à la nation;
+
+3° les prestations consistent en la mise à la disposition de personnel ou de biens immeubles, le prêt de biens, la livraison de biens de consommation ou la prestation de services.
+
+Les recettes provenant de ces prestations sont affectées à un fonds budgétaire organique.
+
+§ 4. Le Ministre de l'Intérieur est autorisé a faire effectuer par la police fédérale, à la demande d'une personne morale, des missions de police administrative présentant un caractère exceptionnel et nécessitant un engagement particulier de moyens en personnel ou en matériel.
+
+Les recettes provenant de ces prestations sont affectées à un fonds budgétaire organique.
+
+Les missions de police administrative à caractère exceptionnel effectuées au profit d'une personne de droit public fédéral n'exerçant pas d'activités financières ou commerciales ne donnent toutefois pas lieu à remboursement.
+
+[<sup>1</sup> § 4bis. Le Roi détermine, par arrêté délibéré en Conseil des Ministres, les missions de police administrative de la police fédérale pour lesquelles une rétribution peut être perçue à l'égard de tiers ainsi que les conditions de cette perception et ses modalités. Les recettes provenant de ces prestations sont affectées à un fonds budgétaire organique.]<sup>1</sup>
+
+§ 5. (Sont affectés à un fonds budgétaire organique, les paiements effectués par :
+
+1° les zones pluricommunales ou les communes pour les livraisons d'habillement et d'équipement aux membres de la police locale dans les limites de la quantité de base qui leur est accordée ou les avances qui sont versées à cet effet;
+
+2° des membres de la police fédérale et locale pour les livraisons d'habillement et d'équipement qui dépassent la quantité individuelle de base qui leur est allouée.) &lt;L 2003-12-22/42, art. 404, 014; En vigueur : 30-04-2002&gt;
+
+[<sup>5</sup> ...]<sup>5</sup>
+
+[<sup>5</sup> ...]<sup>5</sup>
+
+§ 6. Le Ministre de l'Intérieur ou l'ordonnateur qu'il délègue, est autorisé, à condition que les principes de la législation en matière de marchés publics soient respectés, à aliéner du matériel excédentaire, économiquement amorti ou technologiquement obsolète ainsi que des déchets.
+
+L'aliénation peut prendre les formes suivantes :
+
+1° un marché pour travaux ou services où les produits qui font l'objet du contrat ou qui proviennent de son exécution, sont cédés au cocontractant en guise de paiement total ou partiel pour les prestations fournies par lui;
+
+2° une convention d'échange concernant du matériel, des biens, des armes et munitions dans le but d'acquérir des biens similaires.
+
+Lorsque les opérations mentionnées dans la convention ayant pour objet l'exécution de ces aliénations donnent lieu à recettes, celles-ci sont affectées à un fonds budgétaire organique.
+
+§ 7. Le Ministre de l'Intérieur ou l'ordonnateur qu'il délègue, est autorisé à céder à titre gratuit du matériel, des animaux et/ou des biens excédentaires :
+
+1° soit à des pays tiers dans le cadre d'une assistance, de même qu'à procéder dans ces pays à des prestations de service limitées liées à ces cessions;
+
+2° soit à des services organiques du [<sup>3</sup> service public fédéral Intérieur]<sup>3</sup>, en vue de l'utilisation optimale des moyens au sein du département.
+
+§ 8. Le Ministre de l'Intérieur fixe la nature, les modalités des demandes et paiements ainsi que celles des calculs de coûts et valorisations liés aux demandes et paiements, visés aux §§ 1er à 7.
+
+(§ 8bis. Le ministre de l'Intérieur est autorisé à prendre en recettes et à affecter les paiements qui sont opérés par des membres du personnel ou par d'autres tiers :
+
+1° en réparation de l'usage impropre, la perte ou la dégradation du matériel de la police fédérale;
+
+2° en paiement de leur part dans les factures dans des obligations contractées par la police fédérale, mais qui ne peuvent pas être facturées directement à ces tiers par le cocontractant.
+
+Les recettes visées à l'alinéa 1er sont affectées à un fonds budgétaire organique.) &lt;L 2006-12-27/30, art. 269, 1°, 023; En vigueur : 07-01-2007&gt;
+
+§ 9. Dans le cadre de l'appui fourni par le niveau fédéral de la police intégrée au niveau local, le Ministre de l'Intérieur est autorisé à fournir du matériel, des biens et des services aux zones pluricommunales et aux communes.
+
+Ces fournitures ont lieu :
+
+1° soit d'office et gratuitement, si elles s'inscrivent dans le cadre des missions d'appui général dont les charges sont supportées par le Budget général des Dépenses;
+
+2° soit à la demande mais contre paiement, dans les autres cas.
+
+Les recettes réalisées sont affectées à un fonds budgétaire organique.
+
+Dans les deux cas, le transfert de propriété du matériel est acté dans les inventaires de la police fédérale.
+
+§ 10. Le Roi fixe, par arrêté délibéré en Conseil des Ministres, la nature des missions d'appui qui sont fournies gratuitement au niveau local par le niveau fédéral de la police intégrée.
+
+Pour les prestations qui sont fournies contre paiement, le Roi fixe les règles relatives aux demandes de prestations, a la détermination des coûts à facturer et à la manière de les recouvrer.
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+(Le Roi fixe également par arrêté délibéré en Conseil des ministres les règles à suivre en cas de non-paiement par les zones de police pluricommunales et les communes des livraisons et fournitures mentionnées au § 5, 1°, et au § 9, 2° (en ce compris les dépenses d'énergie et de téléphone, les détachements visés à l'article 406 de la loi-programme du 22 décembre 2003 et la mise en oeuvre du corps d'intervention) qui ont été pré financées par la police fédérale.) &lt;L 2006-12-27/30, art. 269, 3°, 023; En vigueur : 07-01-2007&gt;
+
+[<sup>5</sup> Si, en cas de non-paiement par les zones de police pluricommunales et les communes des livraisons de biens ou de services effectuées à leur profit, des montants sont retenus sur les dotations qui leur sont allouées, les crédits ainsi réservés peuvent, le cas échéant, être transférés des allocations de base "dotations" au programme 17-90-1 vers :
+
+1° soit les allocations de base de la section 17 du budget général des dépenses sur lesquelles le préfinancement a eu lieu ;
+
+2° soit le Budget des voies et moyens avec pour destination le fonds 17-1 en vue particulièrement d'apurer le solde débiteur y constaté.]<sup>5</sup>
+
+----------
+
+(1)&lt;L 2012-06-22/02, art. 2, 030; En vigueur : 08-07-2012&gt;
+
+(2)&lt;L 2015-12-26/03, art. 52, 037; En vigueur : 01-01-2016&gt;
+
+(3)&lt;L 2016-04-21/06, art. 35, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+(4)&lt;L 2018-07-19/23, art. 13, 046; En vigueur : 31-08-2018&gt;
+
+(5)&lt;L 2019-04-28/22, art. 4, 050; En vigueur : 07-06-2019&gt;
+
+(6)&lt;L 2026-05-25/16, art. 119, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 115bis
+
+&lt;L 2003-12-22/42, art. 409; En vigueur : 31-12-2003&gt; Les modalités de prestations fournies par le niveau local de la police intégrée au profit du niveau fédéral font l'objet de protocoles de collaboration conclus entre les deux parties, dans lesquels mention sera faite des prestations à titre gratuit et des prestations exécutées contre paiement.
+
+Ces protocoles fixent les éventuelles modalités de paiement ainsi que les règles à suivre en cas de non-paiement par la police fédérale des montants qui lui sont facturés pour les prestations visées à l'alinéa 1er.
+
+###### Art. 115bis/1
+
+[<sup>1</sup> § 1er. Le Roi peut, par arrêté délibéré en Conseil des ministres, après avis du comité de coordination de la police intégrée, octroyer des subventions aux zones de police locale en vue de financer des projets de co-création, dans la limite des crédits budgétaires disponibles, sans porter préjudice aux missions légales de la police fédérale.
+
+L'arrêté visé à l'alinéa 1er précise les modalités procédurales de sélection, d'évaluation et de suivi des projets de co-création.
+
+Les projets de co-création s'entendent comme toute forme de collaboration structurée entre une ou plusieurs zones de police locale et la police fédérale, visant à concevoir ou à adapter conjointement des solutions, outils ou méthodes au service du fonctionnement intégré de la police.
+
+§ 2. Les projets visés au paragraphe 1er concernent des domaines relevant de la police intégrée, notamment les technologies de l'information et de la communication, les outils opérationnels, la gestion logistique et la gestion des ressources humaines.
+
+§ 3. Les subventions couvrent les coûts liés à la conception, au développement, à l'adaptation, à la mise en oeuvre, à la maintenance ou à la formation relatifs aux outils, méthodes ou dispositifs co-créés.
+
+§ 4. Les projets de co-création sont éligibles aux subventions visées au présent article pour autant qu'ils ne donnent pas lieu à un double financement public des mêmes coûts éligibles et qu'ils satisfassent à au moins un des critères suivants:
+
+1° présenter une plus-value opérationnelle démontrable pour le fonctionnement intégré de la police;
+
+2° viser un caractère innovant ou une amélioration significative de pratiques, outils ou méthodes existants pour la police intégrée;
+
+3° permettre, par leur conception, une mutualisation ou une réutilisation au bénéfice d'autres services de la police intégrée.
+
+Leur répartition garantit une utilisation équilibrée des moyens, en fonction de la portée et de la valeur ajoutée des projets pour la police intégrée.
+
+Les subventions visées au présent article sont inscrites au programme 90/1 "Dotations et subventions" du budget "Police fédérale et fonctionnement intégré. ]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2026-05-25/16, art. 1, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 115ter
+
+[<sup>1</sup> Le Roi peut désigner la police fédérale en tant que pouvoir adjudicateur qui participe obligatoirement à un modèle de coopération au niveau fédéral pour la gestion des contrats communs et qui, de ce fait, peut être désignée pour la passation d'un contrat commun. Il le fait dans le cadre d'une politique fédérale d'achats dont Il fixe les principes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2019-04-28/22, art. 5, 050; En vigueur : 07-06-2019&gt;
+
+## TITRE IV. - Dispositions communes.
+
+### CHAPITRE Ier. - Le personnel.
+
+#### Section 1re. - Dispositions générales.
+
+###### Art. 116
+
+Les services de police sont composés de deux cadres : un cadre opérationnel et un cadre administratif et logistique.
+
+###### Art. 117
+
+&lt;L 2006-04-01/38, art. 9, 020; En vigueur : 10-05-2006&gt; Le cadre opérationnel est composé de fonctionnaires de police répartis en trois cadres : le cadre de base, le cadre moyen et le cadre d'officiers. Le cadre opérationnel peut en outre comprendre un cadre d'agents de police [<sup>1</sup> , un cadre d'assistants de sécurisation de police et un cadre d'agents de sécurisation de police.]<sup>1</sup>.
+
+Les fonctionnaires de police sont compétents pour l'exercice des missions de police judiciaire et administrative.
+
+Les agents de police [<sup>1</sup> , les assistants de sécurisation de police et les agents de sécurisation de police]<sup>1</sup> ne sont pas fonctionnaires de police, mais disposent d'une compétence de police restreinte.
+
+Les agents de police sont nommés à titre définitif. Toutefois, lorsque leur emploi est financé par des ressources temporaires ou variables ou lorsqu'il s'agit de l'accomplissement de missions temporaires, spécifiques ou à temps partiel, ils sont engagés dans les liens d'un contrat de travail.
+
+----------
+
+(1)&lt;L 2017-11-12/07, art. 34, 043; En vigueur : 01-01-2018&gt;
+
+###### Art. 118
+
+(Sous réserve de l'application de l'article 138, § 1er, 3° et 4° [<sup>2</sup> et de l'article 138bis]<sup>2</sup>, le cadre administratif et logistique est composé de membres du personnel dépourvus de compétences en matière de police administrative et judiciaire.) &lt;L 2006-12-28/47, art. 2, 024; En vigueur : 22-01-2007&gt;
+
+Les membres du cadre administratif et logistique sont soit des membres du personnel statutaire, recrutés et nommés ou utilisés dans ce corps conformément au régime de mobilité, (soit des militaires transférés au sens de la loi du 16 juillet 2005 instituant le transfert de certains militaires vers un employeur public,) [<sup>1</sup> et au sens du Titre V, Section 3, de la loi du 28 février 2007 fixant le statut des militaires et candidats militaires du cadre actif des Forces armées]<sup>1</sup> soit des membres du personnel engagés dans les liens d'un contrat de travail. Le personnel chargé des tâches auxiliaires spécifiques est engage sous le régime d'un contrat dé travail. &lt;AR 2005-07-16/32, art. 11, 017; En vigueur : 16-07-2005&gt;
+
+Si tous les emplois du cadre administratif et logistique ne sont pas occupés par du personnel sans compétence de police, des membres du corps opérationnel peuvent à leur demande, soit passer dans ce corps, soit y exercer temporairement de tels emplois.
+
+[<sup>4</sup> "Outre les tâches purement administratives et logistiques, ils contribuent à l'exécution des missions visées aux articles 14 et 15 de la loi sur la fonction de police, et notamment au traitement de données à caractère personnel visé à la section 12 du chapitre IV de la loi sur la fonction de police.
+
+Ils ne peuvent à cette fin exercer des compétences qui sont réservées par ou en vertu de la loi au cadre opérationnel et n'exécutent aucune mesure de police.
+
+Les membres du cadre administratif et logistique qui fournissent l'appui dans le cadre du traitement de données visé à la section 12 du chapitre IV de la loi sur la fonction de police sont nommément désignés par le chef de corps, le commissaire général ou le directeur.
+
+Le chef de corps, le commissaire général ou le directeur qui donne les missions d'appui et accorde les accès en matière de traitement de données s'assure que le membre du cadre administratif et logistique dispose de la connaissance et des directives requises à la bonne exécution de ces missions et au traitement approprié de ces données.
+
+A cette fin, des formations sont organisées en interne des services de police ou via les écoles de police. Les directeurs et les chefs de corps consignent les données relatives à ces formations dans le dossier personnel des membres du cadre administratif et logistique. Les supports de formation sont tenus à la disposition des autorités de contrôle. Les données sur les formations sont:
+
+\- le nom du formateur;
+
+\- la date;
+
+\- l'intitulé de la formation;
+
+\- le nombre d'heures par journée.
+
+Les membres du cadre administratif et logistique de la police fédérale et de la police locale sont compétents pour exercer les missions d'appui sur l'ensemble du territoire national.
+
+Les membres du cadre administratif et logistique de la police locale réalisent en principe ces missions sur le territoire de la zone de police.]<sup>4</sup>
+
+[<sup>3</sup> Le Roi détermine les conditions et les modalités pour l'engagement dans les liens d'un contrat de travail à durée déterminée d'un membre du personnel pour un emploi statutaire du cadre administratif et logistique.]<sup>3</sup>
+
+----------
+
+(1)&lt;L 2013-07-31/04, art. 330, 033; En vigueur : 31-12-2013; voir AR 2013-12-26/05, art. 1, 1°&gt;
+
+(2)&lt;L 2016-02-05/11, art. 225, 038; En vigueur : 29-02-2016&gt;
+
+(3)&lt;L 2016-04-21/06, art. 36, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+(4)&lt;L 2020-07-31/15, art. 2, 052; En vigueur : 24-08-2020&gt;
+
+###### Art. 119
+
+Le statut est le même pour tous les fonctionnaires de police, qu'ils appartiennent à la police fédérale ou à la police locale. La même règle vaut, par catégorie, pour les [<sup>1</sup> agents]<sup>1</sup> de police [<sup>2</sup> , pour les assistants de sécurisation de police, pour les agents de sécurisation de police]<sup>2</sup> et pour le personnel du cadre administratif et logistique.
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 27, 036; En vigueur : 01-04-2014&gt;
+
+(2)&lt;L 2017-11-12/07, art. 35, 043; En vigueur : 01-01-2018&gt;
+
+###### Art. 120
+
+Au sein de chaque corps de police, l'autorité d'un membre du personnel sur un autre membre du personnel est exercée, dans cet ordre : 1° sur la base de la fonction qu'on assume dans l'organisation, c'est-à-dire sur tous les membres du personnel qui sont affectés dans un service qui relève, dans l'organigramme, de sa responsabilité;
+
+2° sur la base de la tâche qui lui est confiée, c'est-à-dire sur tous les membres du personnel à qui mission a été donnée de collaborer à l'exécution de ces tâches, dans les limites de celles-ci;
+
+3° sur la base du grade ou, à grade égal, de l'ancienneté, c'est-à-dire sur tous les membres du personnel du corps de police, mais sans interférer dans l'exercice de la fonction ou dans l'exécution de la tâche.
+
+L'autorité est toujours exercée dans les limites de l'habilitation figurant dans les dispositions législatives, contractuelles ou réglementaires ou dans des ordres de services permanents ou temporaires.
+
+(Sous réserve de l'application de l'article 46, en cas d'absence ou d'empêchement, toutes les compétences attribuées par les lois et règlements, notamment en matière de sélection et d'évaluation, sont exercées par les remplaçants désignés par le titulaire en ordre de préférence, par écrit et préalablement.
+
+En ce qui concerne le commissaire général, les directeurs généraux et les directeurs, les ministres de l'Intérieur et de la Justice peuvent conjointement décider de se réserver, en tout ou en partie, les possibilités visées à l'alinéa 3.) &lt;L 2006-06-20/34, art. 26, 021; En vigueur : 26-07-2006&gt;
+
+###### Art. 121
+
+&lt;L 2002-04-26/30, art. 111, 010; En vigueur : 30-04-2002&gt; Les modalités du statut des membres du personnel du cadre opérationnel et du cadre administratif et logistique sont fixées par le Roi.
+
+###### Art. 121bis
+
+&lt;Inséré par L 2002-04-26/30, art. 112; En vigueur : 30-04-2002&gt; Le Roi fixe :
+
+1° les conditions et les modalités du passage de membres du cadre opérationnel vers le cadre administratif et logistique;
+
+2° les modalités d'utilisation selon le régime de mobilité des membres statutaires du cadre administratif et logistique.
+
+###### Art. 122
+
+Quelle que soit l'autorité investie du pouvoir de nomination, le statut des membres des services de police garantit l'objectivité entre autres du recrutement, de la sélection, de la désignation aux emplois, du retrait d'emploi, de la nomination, de la promotion et de l'avancement, ainsi que de l'évaluation.
+
+Sans préjudice des restrictions spécifiques à l'exercice des droits et libertés expressément prévues par la loi en raison de leur emploi, les fonctionnaires de police, les [<sup>1</sup> agents]<sup>1</sup> de police [<sup>2</sup> , les assistants de sécurisation de police, les agents de sécurisation de police]<sup>2</sup> et le personnel du cadre administratif et logistique jouissent des mêmes droits et libertés que les autres citoyens.
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 28, 036; En vigueur : 01-04-2014&gt;
+
+(2)&lt;L 2017-11-12/07, art. 36, 043; En vigueur : 01-01-2018&gt;
+
+#### Section 2. - Principes généraux du statut des fonctionnaires de police.
+
+###### Art. 123
+
+Les fonctionnaires de police contribuent en tout temps et en toutes circonstances à la protection des citoyens et à l'assistance que ces derniers sont en droit d'attendre ainsi que, lorsque les circonstances l'exigent, au respect de la loi et au maintien de l'ordre public.
+
+Ils respectent et s'attachent à faire respecter les droits de l'homme et les libertés fondamentales.
+
+###### Art. 124
+
+Le statut des fonctionnaires de police garantit l'exercice de l'autorité.
+
+###### Art. 125
+
+Le statut des fonctionnaires de police garantit leur disponibilité. Les fonctionnaires de police doivent répondre à tout appel relatif à l'exécution du service et éviter tout ce qui pourrait porter atteinte à la confiance du public dans leur disponibilité. Les fonctionnaires de police ne peuvent être absents du service sans autorisation ou justification.
+
+Lorsqu'ils sont restés absents irrégulièrement plus de dix jours, ils sont démis d'office de leur emploi aux conditions fixées par le Roi. Cette démission fait perdre aux intéressés leur qualité de membre du personnel de leur corps de police. Cette mesure est prise par le Roi s'Il a nommé le membre du personnel concerné dans son dernier grade, et, selon le cas, par le ministre de l'Intérieur, [<sup>1</sup> ...]<sup>1</sup> ou le collège de police, dans les autres cas.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 121, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 126
+
+§ 1er. L'exercice du droit de grève par les fonctionnaires de police de la police fédérale et de la police locale est soumis aux conditions suivantes :
+
+1° l'annonce préalable de la grève par une organisation syndicale agréée;
+
+2° la discussion préalable au sein du comité de négociation pour les services de police, avec l'autorité compétente, de la question pour laquelle la grève est envisagée.
+
+Le Roi détermine les modalités relatives au préavis et à la discussion visés à l'alinéa 1er et le délai dans lequel ils doivent avoir lieu.
+
+§ 2. Le ministre de l'Intérieur peut, après concertation avec le ministre de la Justice, ordonner aux fonctionnaires de police de la police fédérale et de la police locale qui font usage ou qui désirent faire usage du droit de grève, de continuer ou de reprendre le travail pendant la période et pour les missions pour lesquelles leur engagement est nécessaire et qu'il désigne. Si les fonctionnaires de police font partie de la direction générale de la police judiciaire, l'ordre est donné conjointement par les ministres de l'Intérieur et de la Justice. Le bourgmestre ou le collège de police dispose de la même compétence à l'égard des fonctionnaires de police de la police locale.
+
+L'autorité qui souhaite donner l'ordre visé à l'alinéa précédent est tenue de communiquer au préalable aux organisations syndicales représentatives du personnel des services de police et, le cas échéant, à l'organisation syndicale agréée qui a déposé le préavis de grève, les missions pour lesquelles elle estime que l'ordre est nécessaire.
+
+§ 3. Le fonctionnaire de police qui ne donne pas suite à l'ordre d'une autorité visée au § 2 est puni d'une peine d'emprisonnement de huit jours à un mois et d'une amende de 100 à 10 000 francs, ou d'une de ces peines seulement.
+
+(Est puni des peines portées par l'alinéa précédent, celui qui, sciemment et volontairement, amène de quelque manière que ce soit, un membre du personnel de la police intégrée à qui l'ordre d'une des autorités visées au § 2 a été donné, à ne pas donner suite à cet ordre.) &lt;L 1999-05-13/35, art. 67, 005; En vigueur : 01-04-2001&gt;
+
+Les dispositions du livre Ier du Code pénal en ce compris le chapitre VII et l'article 85, sont d'application (pour les infractions visées aux alinéas 1er et 2). &lt;L 1999-05-13/35, art. 67, 005; En vigueur : 01-04-2001&gt;
+
+###### Art. 127
+
+Le statut des fonctionnaires de police garantit leur impartialité.
+
+Ils doivent éviter tout acte ou attitude de nature à ébranler cette présomption d'impartialité. Les fonctionnaires doivent proscrire tout arbitraire dans leurs interventions en évitant, notamment, de porter atteinte, dans leur manière d'intervenir ou en raison de l'objet de leur intervention, à l'impartialité que les citoyens sont en droit d'attendre d'eux.
+
+Les fonctionnaires de police s'abstiennent en toutes circonstances de manifester publiquement leurs opinions politiques et de se livrer publiquement à des activités politiques. Ils ne peuvent se porter candidat à un mandat politique.
+
+###### Art. 128
+
+Le statut des fonctionnaires de police garantit leur mobilité au sein de la police fédérale, entre les polices locales, et entre celles-ci et la police fédérale. Les emplois équivalents sont ainsi également accessibles aux fonctionnaires de la police fédérale et de la police locale qui réunissent les conditions statutaires.
+
+Dans ce cadre, le Roi règle les conditions dans lesquelles la commune, la zone pluricommunale l'autorité locale ou l'Etat qui a supporté les frais relatifs au recrutement et à la formation d'un fonctionnaire de police peut, si ce fonctionnaire est recruté dans les cinq ans de sa nomination dans une autre police locale ou dans la police fédérale, récupérer ces frais auprès de l'autorité locale ou de l'Etat.
+
+[<sup>1</sup> Par dérogation à l'alinéa 1er, le ministre peut, après concertation au sein du comité supérieur de concertation, organiser une fois une mobilité spécifique "IN", dans la période n'excédant pas les dix-huit mois à partir du 1er mai 2014, limitée aux membres du personnel de la police fédérale lorsque cette mobilité intervient dans le cadre d'un plan d'optimalisation ou de réorganisation structurelle de la police fédérale.
+
+Lorsque la mobilité intervient dans le cadre d'une fusion de deux ou plusieurs zones de police, le ministre peut, par dérogation à l'alinéa 1er, et après concertation au sein des comités de concertation concernés réunis, organiser une fois une mobilité spécifique "IN", dans la période n'excédant pas les douze mois après [<sup>2</sup> l'entrée en vigueur de la]<sup>2</sup> définition du ressort territorial de la nouvelle zone de police, limitée aux membres du personnel des zones de police concernées.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 29, 036; En vigueur : 01-04-2014&gt;
+
+(2)&lt;L 2026-05-25/16, art. 122, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 129
+
+Le statut des fonctionnaires de police garantit l'égalité des chances entre hommes et femmes au sein de la police fédérale et de la police locale.
+
+Sous réserve des dispositions relatives à la protection de la maternité applicables au personnel de la fonction publique, le personnel féminin est soumis aux mêmes conditions de travail que le personnel masculin appartenant au même corps.
+
+###### Art. 130
+
+Le statut des fonctionnaires de police garantit leur intégrité. Les fonctionnaires de police doivent proscrire tout abus dans l'exercice de leurs missions.
+
+Il est interdit aux membres du personnel de solliciter, d'exiger ou d'accepter, directement ou par personne interposée, même en dehors de leurs fonctions, mais en raison de celles-ci, des dons, gratifications ou avantages quelconques.
+
+###### Art. 131
+
+Le statut des fonctionnaires de police garantit le secret professionnel et comprend un devoir de discrétion. Il est interdit aux fonctionnaires de police, même après cessation de l'exercice de leur emploi, de révéler des données relatives a la sûreté nationale, à la protection de l'ordre public, aux intérêts financiers des autorités, à la prévention et à la répression d'infractions pénales, au secret médical, aux droits et libertés du citoyen, et particulièrement au droit au respect de la vie privée. Cette interdiction s'applique également aux données relatives à la préparation de toute décision.
+
+###### Art. 132
+
+Le membre du personnel évite tout comportement, même en dehors de l'exercice de la fonction, qui peut mettre en péril l'exécution des devoirs de l'emploi ou porter atteinte à la dignité de celui-ci.
+
+Les fonctionnaires de police doivent être respectueux du Chef de l'Etat, des autres pouvoirs constitués et des institutions publiques.
+
+###### Art. 133
+
+Les articles 123, alinéa 2, 124 à 132 s'appliquent aux [<sup>1</sup> agents]<sup>1</sup> de police [<sup>2</sup> , aux assistants de sécurisation de police et aux agents de sécurisation de police]<sup>2</sup>. Les articles 125, 126, §§ 1er et 2, 127, alinéas 1er et 2, 128 à 132 s'appliquent aux membres du cadre administratif et logistique.
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 30, 036; En vigueur : 01-04-2014&gt;
+
+(2)&lt;L 2017-11-12/07, art. 37, 043; En vigueur : 01-01-2018&gt;
+
+#### Section 3. [<sup>1</sup> - Le cumul.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-07-19/23, art. 14, 046; En vigueur : 31-08-2018&gt;
+
+###### Art. 134
+
+[<sup>1</sup> Sans préjudice des incompatibilités prévues dans des lois et arrêtés particuliers et des dispositions transitoires en vigueur, la qualité de membre du personnel du cadre opérationnel est incompatible avec les emplois, professions ou occupations complémentaires suivants, même non rémunérés, qui sont exercés, soit dans une entreprise privée sans but lucratif, soit au sein d'une association de fait, soit, le cas échéant, auprès des particuliers :
+
+1° être membre opérationnel d'un service de secours ou être ambulancier;
+
+2° en tant que membre du personnel dirigeant ou enseignant d'une école de conduite agréée, visée à l'arrêté royal du 23 mars 1998 relatif aux conditions d'agrément des écoles de conduite de véhicules à moteur, donner des cours pratiques de conduite de véhicules si cet enseignement est dispensé en tout ou en partie sur la voie publique au sens de l'article 1er de l'arrêté royal du 1er décembre 1975 portant règlement général sur la police de la circulation routière et de l'usage de la voie publique;
+
+3° l'exercice de la fonction de garde champêtre particulier.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-07-19/23, art. 15, 046; En vigueur : 31-08-2018&gt;
+
+###### Art. 135
+
+[<sup>1</sup> Le membre du personnel du cadre opérationnel communique au préalable, selon le cas, au commissaire général ou à l'autorité qu'il désigne, [<sup>2</sup> ...]<sup>2</sup> ou au collège de police, toute occupation, qui n'est pas visée à l'article 134, qu'il entend exercer. Cette communication doit soit être envoyée par envoi recommandé, soit être directement remise à l'autorité compétente au moyen d'une lettre avec accusé de réception, soit être remise au service du personnel du service de police concerné au moyen d'une lettre contre accusé de réception.
+
+Le commissaire général ou l'autorité qu'il désigne, [<sup>2</sup> ]<sup>2</sup> le collège de police peut, dans les 45 jours calendrier qui suivent la réception de la communication et après avoir recueilli l'avis, selon le cas, du directeur général qui dirige la direction générale sous l'autorité de laquelle le demandeur exerce sa fonction ou du chef de corps, par une décision motivée :
+
+1° refuser l'exercice de l'occupation communiquée, dans le cadre des directives données par le ministre de l'Intérieur;
+
+2° soumettre l'exercice de l'occupation communiquée à certaines conditions relatives à l'intérêt du service et à la dignité de l'état de membre du personnel.
+
+A l'exception du membre du personnel qui a obtenu une décision de refus et, le cas échéant, moyennant le respect des conditions imposées, le membre du personnel du cadre opérationnel peut exercer l'occupation communiquée après l'expiration du délai visé à l'alinéa 2.
+
+Tout cumul est suspendu d'office lorsque le membre du personnel est absent pour maladie, par suite d'un accident de travail, d'un accident survenu sur le chemin du travail ou d'une maladie professionnelle, lorsqu'il est en disponibilité pour maladie ou lorsqu'il travaille selon le régime des prestations réduites pour raisons médicales.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2018-07-19/23, art. 16, 046; En vigueur : 31-08-2018&gt;
+
+(2)&lt;L 2026-05-25/16, art. 123, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 136
+
+§ 1er. Les membres du personnel du cadre logistique et administratif ne peuvent, ni directement, ni par personne interposée, exercer aucune occupation qui peut porter atteinte à l'accomplissement de leurs devoirs professionnels ou à la dignité de la fonction.
+
+Le membre du personnel du cadre administratif et logistique communique par écrit et au préalable, selon le cas, au commissaire général, [<sup>1</sup> ...]<sup>1</sup> ou au collège de police l'occupation qu'il entend exercer.
+
+§ 2. Les membres du personnel du cadre logistique et administratif qui sont membres du personnel [<sup>1</sup> d'une zone de police]<sup>1</sup> ou qui reçoivent une allocation ou un salaire de celle-ci ne peuvent faire partie [<sup>1</sup> ...]<sup>1</sup> du collège de police ni du conseil communal d'une des communes de la zone [<sup>1</sup> concernée]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2026-05-25/16, art. 5, 056; En vigueur : 02-07-2026&gt;
+
+#### Section 4. - Dispositions diverses.
+
+###### Art. 137
+
+Les [<sup>1</sup> membres du cadre opérationnel]<sup>1</sup> prêtent le serment suivant : "Je jure fidélité au Roi, obéissance à la Constitution et aux lois du peuple belge".
+
+Le Roi détermine l'instance qui reçoit ce serment.
+
+----------
+
+(1)&lt;L 2017-11-12/07, art. 38, 043; En vigueur : 01-01-2018&gt;
+
+###### Art. 138
+
+&lt;L 2006-12-28/47, art. 3, 024; En vigueur : 22-01-2007&gt; § 1er. Sont revêtus de la qualité d'officier de police judiciaire, auxiliaire du procureur du Roi :
+
+1° les fonctionnaires de police nommés dans le cadre des officiers ou dans le cadre moyen;
+
+2° les fonctionnaires de police qui exercent les fonctions arrêtées par le Roi et qui répondent aux conditions fixées par Lui;
+
+3° pour l'exécution des missions de police technique et scientifique, les membres du cadre administratif et logistique revêtus au minimum d'un grade de niveau B et désignes par le directeur général de la direction générale de la police judiciaire de la police fédérale pour exécuter ces missions;
+
+4° pour l'exécution de la mesure de surveillance visée à l'article 90ter, § 1er, alinéa 1er, du Code d'Instruction criminelle, les membres du cadre administratif et logistique qui sont engagés en raison de leur compétence auditive particulière due à leur cécité ou à leur mauvaise vue pour effectuer cette mesure;
+
+[<sup>2</sup> 5° selon les modalités fixées par le Roi, les fonctionnaires de police du cadre de base qui sont désignés à un emploi au sein d'un service d'enquête et de recherche de la police locale ou à un emploi au sein de la direction générale de la police judiciaire de la police fédérale;
+
+6° à leur demande et selon les modalités fixées par le Roi, les inspecteurs de police ayant 6 ans d'ancienneté de cadre.]<sup>2</sup>
+
+[<sup>1</sup> Le Roi fixe les cas où la qualité d'agent ou d'officier de police judiciaire d'un membre du personnel qui est employé en dehors des services de police est suspendue.]<sup>1</sup>
+
+§ 2. Pour pouvoir exercer leurs fonctions, les membres du personnel visés au § 1er, 3° et 4°, prêtent serment, devant le directeur général de la direction générale de la police judiciaire de la police fédérale, dans les termes suivants :
+
+" Je jure fidélité au Roi, obéissance à la Constitution et aux lois du peuple belge, et de remplir fidèlement les fonctions qui me sont conférées. "
+
+Ils sont compétents pour exercer leurs missions sur l'ensemble du territoire du Royaume.
+
+Les recherches et constatations qu'ils effectuent font l'objet de procès-verbaux. "
+
+----------
+
+(1)&lt;L 2013-12-21/22, art. 24, 034; En vigueur : 10-01-2014&gt;
+
+(2)&lt;L 2016-04-21/06, art. 37, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+###### Art. 138bis
+
+[<sup>1</sup> § 1er. Sont revêtus de la qualité d'agent de police judiciaire : les membres du cadre administratif et logistique de la police fédérale et de la police locale revêtus au minimum d'un grade de niveau C et désignés, respectivement, par le directeur général de la police administrative de la police fédérale ou par le chef de corps de la police locale pour effectuer les constatations fondées sur des preuves matérielles fournies par des appareils fonctionnant automatiquement en présence ou en l'absence d'un agent qualifié, conformément à l'article 62 de la loi du 16 mars 1968 relative à la police de la circulation routière.
+
+§ 2. Pour pouvoir exercer leurs fonctions, les membres du personnel visés au paragraphe 1er prêtent le serment mentionné à l'article 137.
+
+§ 3. Les alinéas 2 et 3 de l'article 138, § 2 leur sont également applicables.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-02-05/11, art. 226, 038; En vigueur : 29-02-2016&gt;
+
+###### Art. 139
+
+La loi organise les relations entre les autorités publiques et les syndicats des [<sup>2</sup> membres du cadre opérationnel]<sup>2</sup> ainsi que du personnel du cadre administratif et logistique.
+
+Le statut disciplinaire des [<sup>2</sup> membres du cadre opérationnel]<sup>2</sup>, ainsi que du personnel du cadre administratif et logistique est fixé par la loi. Les recours que ces membres du personnel peuvent introduire contre une mesure d'ordre ou une sanction disciplinaire prise par [<sup>2</sup> le bourgmestre et le collège de police]<sup>2</sup> sont organisés par la loi.
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 31, 036; En vigueur : 01-04-2014&gt;
+
+(2)&lt;L 2017-11-12/07, art. 39, 043; En vigueur : 07-12-2017&gt;
+
+###### Art. 140
+
+Toute évaluation ou communication écrite relative à la manière d'exercer ses missions [<sup>1</sup> par un membre du personnel des services de police]<sup>1</sup> lui est notifiée avant d'être classée, avec ses observations éventuelles, dans son dossier dont les pièces sont inventoriées.
+
+----------
+
+(1)&lt;L 2017-11-12/07, art. 40, 043; En vigueur : 07-12-2017&gt;
+
+###### Art. 140bis
+
+&lt;Inséré par L 2001-04-02/34, art. 21; En vigueur : 01-01-2001&gt; Les membres du personnel des services de police peuvent être engagés, sur base volontaire, pour des missions de longue durée à l'étranger déterminées par le Roi, par arrêté délibéré en Conseil des Ministres. Ces missions peuvent avoir pour objet l'aide humanitaire ou l'enseignement.
+
+En cas d'urgence, les membres du personnel des services de police peuvent être engagés, sur base volontaire, pour les missions visées à l'alinéa 1er à la seule condition que le Conseil des ministres en décide ainsi.
+
+###### Art. 140ter
+
+&lt;Inséré par L 2001-04-02/34, art. 22; En vigueur : 01-01-2001&gt; [<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+[<sup>1</sup> ...]<sup>1</sup>
+
+En ce qui concerne les pensions, rentes et compléments de pension [<sup>1</sup> des membres du personnel des services de police, le Service Central des Dépenses fixes (SCDF) est chargé de leur paiement et]<sup>1</sup> exécute les décisions prises par [<sup>1</sup> le Service des Pensions du Secteur public]<sup>1</sup>.
+
+----------
+
+(1)&lt;L 2009-12-30/01, art. 188, 026; En vigueur : 01-01-2010&gt;
+
+###### Art. 140quater
+
+[<sup>1</sup> Le SCDF reste chargé d'effectuer toutes les rectifications qui doivent, le cas échéant, être apportées aux traitements et droits apparentés octroyés aux membres du personnel des services de police depuis le 1er avril 2001 jusqu'au 31 décembre 2009 ainsi que les déclarations et les prélèvements sociaux et fiscaux qui s'y rapportent et d'établir et communiquer les pièces comptables, les pièces de paiement et les pièces justificatives nécessaires.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/01, art. 189, 026; En vigueur : 01-01-2010&gt;
+
+### CHAPITRE II. - Organisation et équipement.
+
+###### Art. 141
+
+Le Roi détermine l'uniforme, les insignes, les cartes de légitimation et autres moyens d'identification.
+
+Il arrête également les normes en matière d'équipement [<sup>1</sup> , d'armement et de munition]<sup>1</sup> des services de police en vue de garantir la compatibilité et la coopération entre les services de police et, si nécessaire, l'opérationnalité d'une intervention commune.
+
+----------
+
+(1)&lt;L 2016-04-21/06, art. 38, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+###### Art. 142
+
+Le Roi détermine par arrêté délibéré en Conseil des ministres les normes d'organisation et de fonctionnement des services de police afin d'assurer un service minimum équivalent a la population.
+
+###### Art. 142bis
+
+&lt;Inséré par L 2001-05-31/39, art. 45; En vigueur : 01-04-2001&gt; [<sup>1</sup> § 1er.]<sup>1</sup> La formation des membres du personnel du cadre opérationnel des services de police est dispensée par :
+
+1° [<sup>2</sup> l'école de police instituée]<sup>2</sup> par le Gouvernement fédéral en ce qui concerne :
+
+a) la formation de base du cadre d'officiers, la formation au brevet de direction et certaines formations continuées du cadre d'officiers;
+
+b) la formation de base [<sup>3</sup> du cadre d'assistants de sécurisation de police, du cadre d'agents de sécurisation de police,]<sup>3</sup> du cadre de base et, au besoin, du cadre moyen;
+
+c) les formations judiciaires fonctionnelles et certaines formations judiciaires continuées;
+
+d) certaines formations fonctionnelles du cadre de base, du cadre moyen et du cadre d'officiers;
+
+e) les autres formations à déterminer par le Roi;
+
+2° les écoles de police agréées sur base des critères déterminés par le Roi, en ce qui concerne :
+
+a) la formation de base du cadre d'[<sup>1</sup> agents]<sup>1</sup> de police;
+
+b) la formation de base du cadre de base;
+
+c) la formation de base du cadre moyen;
+
+d) certaines formations fonctionnelles du cadre de base, du cadre moyen et du cadre d'officiers;
+
+e) la formation continuée [<sup>3</sup> des membres du cadre opérationnel]<sup>3</sup>.
+
+[<sup>1</sup> § 2. Le ministre de l'Intérieur et, pour les matières qui relèvent de sa compétence, le ministre de la Justice contrôlent la qualité des formations policières. Le ministre de l'Intérieur peut décider de réduire les subsides alloués aux écoles de police agréées qui ne respectent pas les standards en matière de formation. Le Roi fixe les modalités de cette réduction.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 32,1°,b-32,2°, 036; En vigueur : 01-04-2014&gt;
+
+(2)&lt;L 2014-03-26/03, art. 32,1°,a, 036; En vigueur : 01-10-2014&gt;
+
+(3)&lt;L 2017-11-12/07, art. 41, 043; En vigueur : 01-01-2018&gt;
+
+###### Art. 142ter
+
+&lt;Inséré par L 2001-05-31/39, art. 46; En vigueur : 01-04-2001&gt; Par province et pour la Région de Bruxelles-Capitale, au maximum une école de police peut être agréée.
+
+Afin d'être agréée, une école de police doit répondre aux conditions suivantes :
+
+1° s'engager à dispenser un ou plusieurs cycles de formation pour lesquels l'agrément est valable;
+
+2° disposer d'infrastructures suffisantes afin de dispenser en tout ou en partie ces cycles de formation;
+
+3° disposer de la collaboration de personnel de formation ayant une connaissance et une expérience professionnelle suffisante;
+
+4° établir un règlement scolaire respectant le règlement général des études établi par le Ministre de l'Intérieur;
+
+5° se soumettre au contrôle du ministre de l'Intérieur ou du service de la police fédérale qu'il désigne à cet effet;
+
+6° associer à sa gestion des représentants des autorités locales de la province ou de la Région de Bruxelles-Capitale.
+
+Le Roi est habilité à subsidier (, le cas échéant, sur base contractuelle,) le fonctionnement des écoles de police agréées, visées à l'article 142bis, 2°, selon les modalités déterminées par Lui. &lt;L 2002-04-26/30, art. 113, 010; En vigueur : 30-04-2002&gt;
+
+###### Art. 142quater
+
+&lt;Inséré par L 2001-05-31/39, art. 47; En vigueur : 01-04-2001&gt; Les formations dispensées par les écoles de police comprennent :
+
+1° les dispositions légales et réglementaires;
+
+2° l'application de techniques de police;
+
+3° l'application de principes tactiques policiers et de règles d'exécution;
+
+4° l'assimilation de qualités comportementales et relationnelles adéquates;
+
+[<sup>1</sup> 5° l'assistance aux victimes, notamment en matière de féminicides, d'homicides fondés sur le genre et des violences visées à l'article 4 § 3 de la loi du ...]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2023-07-13/12, art. 24, 053; En vigueur : 01-10-2023&gt;
+
+###### Art. 142quinquies
+
+&lt;Inséré par L 2001-05-31/39, art. 48; En vigueur : 01-04-2001&gt; Sans préjudice du troisième alinéa, la formation de base du cadre de base, du cadre moyen et du cadre officier comprend des activités éducatives théoriques et pratiques d'une durée minimale de neuf mois.
+
+La formation de base [<sup>2</sup> du cadre d'assistants de sécurisation de police, du cadre d'agents de sécurisation de police et]<sup>2</sup> du cadre d'[<sup>1</sup> agents]<sup>1</sup> de police comprend des activités éducatives théoriques et pratiques d'une durée minimale de [<sup>2</sup> six]<sup>2</sup> mois.
+
+Le Roi octroie, le cas échéant, certaines dispenses aux membres du personnel qui participent à la formation de base dans le cadre d'une promotion par accession à un cadre supérieur.
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 33, 036; En vigueur : 01-04-2014&gt;
+
+(2)&lt;L 2017-11-12/07, art. 42, 043; En vigueur : 01-01-2018&gt;
+
+###### Art. 142sexies
+
+&lt;Inséré par L 2001-05-31/39, art. 49; En vigueur : 01-04-2001&gt; La formation de base est clôturée par un examen final (, sauf s'il y est mis fin de manière anticipée, volontaire ou non). Les aspirants qui réussissent cet examen et sont considérés comme aptes par le jury obtiennent un diplôme délivré par l'école de police concernée et homologué par le Ministre de l'Intérieur (ou l'autorité qu'il désigne). &lt;L 2002-04-26/30, art. 114, 010; En vigueur : 30-04-2002&gt; &lt;L 2005-07-03/53, art. 5, 016; En vigueur : 01-04-2003&gt;
+
+Le diplôme de la formation de base du cadre de base est équivalent aux diplômes pris en considération pour le recrutement aux emplois de [<sup>1</sup> niveau C]<sup>1</sup> dans les Administrations fédérales.
+
+Le diplôme de la formation de base du cadre moyen est équivalent aux diplômes pris en considération pour le recrutement aux emplois de [<sup>1</sup> niveau B]<sup>1</sup> dans les Administrations fédérales.
+
+Le diplôme de la formation de base du cadre d'officiers est équivalent aux diplômes pris en considération pour le recrutement aux emplois de [<sup>1</sup> niveau A]<sup>1</sup> dans les Administrations fédérales.
+
+Les étudiants qui ont suivi avec fruit un cycle de formation continuée obtiennent un brevet délivré par l'école de police concernée et homologue par le Ministre de l'Intérieur.
+
+Les étudiants qui réussissent un cycle de formation fonctionnelle obtiennent un brevet délivré par l'école de police concernée et homologué par le Ministre de l'Intérieur.
+
+----------
+
+(1)&lt;L 2013-12-21/22, art. 25, 034; En vigueur : 10-01-2014&gt;
+
+## TITRE V. [<sup>1</sup> - Modalités relatives au traitement de données à caractère personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-22/17, art. 29, 051; En vigueur : 29-06-2019&gt;
+
+###### Art. 143
+
+[<sup>1</sup> Pour l'application du présent titre, on entend par:
+
+1° règlement général sur la protection des données: le Règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, et abrogeant la directive 95/46/CE;
+
+2° loi relative à la protection des données: la loi du 30 juillet 2018 relative à la protection des personnes physiques à l'égard du traitement de données à caractère personnel.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-22/17, art. 30, 051; En vigueur : 29-06-2019&gt;
+
+###### Art. 144
+
+[<sup>1</sup> Chaque responsable du traitement et au moins chaque zone de police, le commissariat général, chaque direction générale et chaque direction de la police fédérale désigne un ou plusieurs membres du personnel de la police en tant que délégué à la protection des données, conformément à l'article 37 du règlement général sur la protection des données et à l'article 63 de la loi relative à la protection des données.
+
+Ce délégué à la protection des données peut exercer ses fonctions pour différentes zones de police locale ou différentes directions, directions générales et le commissariat général de la police fédérale.
+
+Il exerce ses fonctions en toute indépendance.
+
+Le Roi détermine, conformément à l'article 38.6 du règlement général sur la protection des données et aux articles 63, alinéa 5, et 64, alinéa 6, de la loi relative à la protection des données, les modalités relatives aux missions et au fonctionnement des délégués à la protection des données.
+
+Tout sous-traitant participant au traitement de données à caractère personnel pour un responsable de traitement ou pour l'une des entités de la police intégrée précitées ainsi que chaque autorité ayant accès au système de communication ou aux traitements de données des services de police est également tenue de désigner un délégué à la protection des données.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-22/17, art. 31, 051; En vigueur : 29-06-2019&gt;
+
+###### Art. 145
+
+[<sup>1</sup> Il est créé un registre unique des activités de traitement pour la police intégrée, conformément à l'article 30 du règlement général sur la protection des données et à l'article 55 de la loi relative à la protection des données.
+
+Le Roi détermine la forme, le contenu et les modalités de gestion du registre des activités de traitement.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-22/17, art. 32, 051; En vigueur : 29-06-2019&gt;
+
+###### Art. 146
+
+[<sup>1</sup> Tous les responsables de traitements de données à caractère personnel qui sont chargés par ou en vertu de la loi de l'application du statut de la police intégrée se communiquent les données à caractère personnel qui relèvent du champ d'application du règlement général sur la protection des données qui sont nécessaires à l'exercice de leurs missions.]<sup>1</sup>
+
+----------
+
+(1)&lt;L 2019-05-22/17, art. 33, 051; En vigueur : 29-06-2019&gt;
+
+###### Art. 147
+
+(abrogé) &lt;L 2007-05-15/43, art. 28, 025; En vigueur : 15-06-2007&gt;
+
+###### Art. 148
+
+(abrogé) &lt;L 2007-05-15/43, art. 28, 025; En vigueur : 15-06-2007&gt;
+
+###### Art. 149
+
+(abrogé) &lt;L 2007-05-15/43, art. 28, 025; En vigueur : 15-06-2007&gt;
+
+###### Art. 149bis
+
+(abrogé) &lt;L 2007-05-15/43, art. 28, 025; En vigueur : 15-06-2007&gt;
+
+###### Art. 149ter
+
+(abrogé) &lt;L 2007-05-15/43, art. 28, 025; En vigueur : 15-06-2007&gt;
+
+## Titre Vbis. - Le Secrétariat de la police intégrée, structurée à deux niveaux. &lt;Inséré par L 2004-12-27/30, art. 480, En vigueur : 01-01-2005&gt;
+
+###### Art. 149quater
+
+&lt;Inséré par L 2004-12-27/30, art. 480, En vigueur : 01-01-2005&gt; Il est créé un " Secrétariat de la police intégrée, structurée à deux niveaux ", en abrégé " SSGPI ".
+
+Le SSGPI se trouve sous l'autorité du ministre de l'Intérieur qui fixe les principes généraux de son organisation, son fonctionnement et sa gestion générale. La gestion journalière du SSGPI est confiée à un directeur-chef de service qui rend compte directement au ministre de l'Intérieur.
+
+###### Art. 149quinquies
+
+&lt;Inséré par L 2004-12-27/30, art. 480, En vigueur : 01-01-2005&gt; Le fonctionnement du SSGPI est contrôlé par un " Comité consultatif et de contrôle " mixte, dénommé ci-après " le Comité SSGPI ", où siègent des représentants tant de la police fédérale que de la police locale - au pro rata du nombre de dossiers personnels traités -, que des organisations syndicales représentatives du personnel des services de police. Les représentants des organisations syndicales sont des membres sans voix délibérative.
+
+Les représentants de la police fédérale sont désignés par le ministre de l'Intérieur sur proposition du commissaire général et après avis du ministre de la Justice.
+
+Les représentants de la police locale - répartis également entre bourgmestres, chefs de corps et comptables spéciaux - sont désignés par le [<sup>1</sup> conseil]<sup>1</sup> des bourgmestres. Ils proviennent tous de zones de police différentes.
+
+Le directeur-chef de service du SSGPI est, de plein droit, membre sans voix délibérative du Comité SSGPI.
+
+Pour l'exécution de sa mission, le Comité SSGPI a le droit d'accès aux pièces traitées par le SSGPI. Les membres sont cependant tenus au secret en ce qui concerne les données individualisées ainsi portées à leur connaissance. La violation de ce secret est passible des peines prévues à l'article 458 du Code pénal.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, les modalités de la composition, les compétences, les règles de fonctionnement et la durée du mandat des membres du Comité SSGPI.
+
+----------
+
+(1)&lt;L 2014-03-26/03, art. 34, 036; En vigueur : 01-04-2014&gt;
+
+###### Art. 149sexies
+
+&lt;Inséré par L 2004-12-27/30, art. 480, En vigueur : 01-01-2005&gt; Le Comité SSGPI transmet ses remarques et avis au ministre de l'Intérieur.
+
+Le Comité SSGPI lui transmet annuellement un rapport global sur ses constatations et sur le fonctionnement général du SSGPI, dont copie est adressée au ministre de la Justice.
+
+###### Art. 149septies
+
+&lt;Inséré par L 2004-12-27/30, art. 480, En vigueur : 01-01-2005&gt; Le directeur-chef de service du SSGPI appartient au cadre administratif et logistique. Les membres du personnel du SSGPI appartiennent au personnel de la police fédérale ou, en application de l'article 96, à la police locale.
+
+Pour la fonction de directeur-chef de service, le Roi peut, par arrêté délibéré en Conseil des ministres, fixer des règles statutaires spécifiques.
+
+Le ministre de l'Intérieur détermine le cadre du personnel du SSGPI.
+
+###### Art. 149octies
+
+&lt;Inséré par L 2004-12-27/30, art. 480, En vigueur : 01-01-2005&gt; [<sup>1</sup> En ce qui concerne les traitements et les droits apparentés, le SSGPI exécute les décisions prises par la police fédérale ou par les zones de police, chacune pour leur propre personnel. A cet effet, elles lui communiquent les données requises conformément au modèle de travail décentralisé [<sup>2</sup> du moteur salarial du SSGPI]<sup>2</sup>.]<sup>1</sup>
+
+A cette fin, le SSGPI est chargé, notamment, des missions suivantes :
+
+1° assurer l'application correcte du statut à tous les membres du personnel. Chaque application non conforme est communiquée [<sup>1</sup> à l'employeur concerné.]<sup>1</sup> [<sup>2</sup> La direction générale de l'appui et de la gestion de la police fédérale" sont remplacés par les mots "Le commissaire général ou son délégué]<sup>2</sup> peut soumettre, le cas échéant, un avis motivé au ministre de l'Intérieur;
+
+2° [<sup>1</sup> la communication du résultat du calcul visé au 8° et la transmission des pièces de paiement nécessaires pour pouvoir payer à temps les traitements, les droits apparentés aux ayants droit ainsi que les retenues fiscales et sociales;]<sup>1</sup>
+
+3° [<sup>1</sup> la gestion du contentieux relatif au recouvrement des paiements indus, aux saisies sur salaire et aux cessions de rémunération, conformément au modèle de travail décentralisé du moteur salarial choisi par chaque employeur;]<sup>1</sup>
+
+4° la tenue d'une copie du dossier pécuniaire pour chaque membre du personnel [<sup>1</sup> rémunéré]<sup>1</sup>;
+
+5° une mission générale d'information;
+
+6° garantir le suivi de la mise en oeuvre des données fournies [<sup>1</sup> la police fédérale ou les zones de police, conformément au modèle de travail décentralisé du moteur salarial choisi par chaque employeur;]<sup>1</sup>
+
+[<sup>1</sup> 7° le calcul des traitements et droits apparentés des membres du personnel des services de police;
+
+8° le calcul des cotisations et des prélèvements légaux et réglementaires;
+
+9° l'établissement des déclarations imposées en matière sociale et fiscale et leur introduction auprès des organismes compétents;
+
+10° l'établissement des pièces comptables, des pièces de paiement et des pièces justificatives nécessaires.]<sup>1</sup>
+
+Le ministre de l'Intérieur peut autoriser le SSGPI à remplir des tâches similaires pour d'autres personnes qui reçoivent des versements à charge du budget de la police fédérale ou d'un corps de police locale.
+
+Le SSGPI peut solliciter des services de la police fédérale ou des corps de la police locale ou, si nécessaire, près des administrations communales, ainsi qu'auprès de l'inspection générale, tous les documents et pièces nécessaires à l'exécution de sa mission et en prendre copie.
+
+Le SSGPI peut mettre les administrations concernées en demeure.
+
+Lorsque des irrégularités sont constatées dans l'application du statut, le SSGPI en informe immédiatement les autorités compétentes. Dans l'attente d'une décision définitive, le SSGPI peut prendre des mesures conservatoires.
+
+----------
+
+(1)&lt;L 2009-12-30/01, art. 190, 026; En vigueur : 01-01-2010&gt;
+
+(2)&lt;L 2014-03-26/03, art. 35, 036; En vigueur : 01-04-2014&gt;
+
+###### Art. 149nonies
+
+&lt;Inséré par L 2004-12-27/30, art. 480, En vigueur : 01-01-2005&gt; (NOTE de Justel : au lieu de "nonies", il faudrait "novies".) Les allocations de base relatives au SSGPI sont regroupées dans une division organique distincte du budget de la " Police fédérale et du fonctionnement intégré ".
+
+Les frais de fonctionnement du Comité SSGPI sont à charge du SSGPI, également responsable du secrétariat du Comité SSGPI.
+
+## TITRE VI. - Modifications de la loi du 5 août 1992 sur la fonction de police.
+
+###### Art. 150
+
+Dans l'article 2 de la loi du 5 août 1992 sur la fonction de police, modifié par la loi du 17 novembre 1998, les mots "à la gendarmerie, aux polices communales et à la police judiciaire" sont remplacés par les mots "à la police fédérale et à la police locale".
+
+###### Art. 151
+
+Dans l'article 4 de la même loi, l'alinéa 1er est remplacé par la disposition suivante :
+
+"Sont revêtus de la qualité d'officier de police administrative :
+
+\- les gouverneurs de province;
+
+\- les commissaires d'arrondissement;
+
+\- les bourgmestres;
+
+\- les officiers de la police fédérale et de la police locale.".
+
+###### Art. 152
+
+Un intitulé dénomme "Section Ire - Dispositions générales" est inséré dans le chapitre II de la même loi, avant l'article 5.
+
+###### Art. 153
+
+A l'article 5 de la même loi, sont apportées les modifications suivantes :
+
+1° dans l'alinéa 2, les mots "du procureur fédéral, des juges d'instruction," sont insérés entre les mots "militaires" et "des procureurs";
+
+2° dans ce même alinéa, le mot "communale" est remplacé par le mot "locale";
+
+3° l'article est complété par l'alinéa suivant :
+
+"Conformément à l'article 143ter du Code judiciaire, le ministre de la Justice détermine par directive, en partant des principes de spécialité et de subsidiarité, les missions de police judiciaire qui sont réalisées prioritairement, d'une part, par la police locale, d'autre part, par les services judiciaires et autres services de la police fédérale.".
+
+###### Art. 154
+
+Après l'article 5 de la même loi, une section 2 et les articles 5/1 à 5/5 sont insérés, rédigés comme suit :
+
+"Section 2. - Rapports des services de police avec les autorités."
+
+"Art. 5/1. Les autorités de police administrative et les services de police doivent se communiquer les renseignements qui leur parviennent au sujet de l'ordre public et qui peuvent donner lieu à des mesures de prévention ou de répression."
+
+"Art. 5/2. Les services de police informent par rapport spécial les autorités administratives intéressées des événements extraordinaires concernant l'ordre public dont elles ont connaissance.
+
+Pour lui permettre d'assurer ses responsabilités de police administrative, le chef de corps de la police locale, le directeur coordonnateur administratif et le directeur judiciaire de la police fédérale informent le bourgmestre sans délai des faits importants qui sont de nature à troubler la tranquillité, la sécurité ou la salubrité publique dans sa commune.
+
+Le chef de corps de la police locale lui fait rapport sur les problèmes de sécurité dans la commune, sur la réalisation des missions de police administrative sur le territoire de la commune et sur l'exécution passée et prévisible du plan zonal de sécurité.
+
+Le chef de corps de la police locale l'informe en outre préalablement des initiatives que la police locale compte prendre sur le territoire de la commune et qui ont une influence sur la politique communale de sécurité.
+
+Le directeur coordonnateur administratif informe le bourgmestre préalablement de toutes les initiatives qu'il compte prendre dans le cadre de ses compétences sur le territoire de la commune, et qui ont une influence sur la politique communale de sécurité. Il lui fait en outre rapport sur la réalisation des missions de police administrative dont il assume la coordination et qui concernent le territoire de sa commune.
+
+Le directeur du service judiciaire déconcentré informe préalablement le directeur coordonnateur administratif et le bourgmestre de toutes les opérations que l'unité judiciaire entreprend sur le territoire de la commune et qui sont de nature a troubler la tranquillité publique."
+
+"Art. 5/3. Pour la réalisation des missions de police judiciaire, des rapports de service réguliers sont entretenus : 1° avec le procureur du Roi, par le chef de corps de la police locale et par le directeur judiciaire et, dans les cas visés à l'article 104 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, par le directeur coordonnateur administratif de la police fédérale;
+
+2° avec les procureurs généraux, le collège des procureurs généraux et le procureur fédéral, par le commissaire général et les directeurs généraux de la police fédérale."
+
+"Art. 5/4. Chaque fois qu'ils en acquièrent connaissance, les services de police informent, par rapport spécial, les autorités militaires territoriales de tout ce qui peut porter atteinte à la sûreté des forces armées, de toute propagande incitant les militaires à l'indiscipline, de même que de tous les incidents auxquels ceux-ci sont mêlés."
+
+"Art. 5/5. Dans les territoires en état de siège, lorsque les pouvoirs dont l'autorité civile est revêtue pour le maintien de l'ordre et de la police sont exercés par l'autorité militaire, celle-ci peut, en vue de réaliser cette mission, adresser aux services de police les réquisitions nécessitées par les circonstances.".
+
+###### Art. 155
+
+A l'article 6 de la même loi, sont apportées les modifications suivantes :
+
+1° dans l'alinéa 1er, les mots "ordres, instructions et réquisitions" sont remplacés par les mots "ordres, instructions, réquisitions et directives";
+
+2° les alinéas 2 et 3 sont abrogés;
+
+3° l'article, ainsi modifié, devient l'article 5/6 de la même loi.
+
+###### Art. 156
+
+L'article 7 de la même loi en devient l'article 6.
+
+###### Art. 157
+
+Après l'article 6 de la même loi, une section 3 intitulée "Coordination et direction des opérations" est insérée.
+
+###### Art. 158
+
+L'article 8 de la même loi, modifié comme suit, en devient l'article 7 :
+
+1° les mots "sauf accord exprès conclu avec d'autres services de police" sont remplacés par les mots "sauf lorsque la direction est confiée à un fonctionnaire de police d'un autre corps de police sur la base d'un accord exprès ou d'une disposition légale";
+
+2° l'article est complété par l'alinéa suivant :
+
+"Par dérogation à l'alinéa 1er, cet accord n'est pas nécessaire lorsque l'autorité judiciaire a, en exécution des articles 28ter, § 4, ou 56, § 3, du Code d'instruction criminelle, chargé dans une enquête particulière plusieurs services de police de missions de police judiciaire et a désigné l'un d'entre eux pour la direction opérationnelle de cette enquête.".
+
+###### Art. 159
+
+Les articles 7/1 à 7/5, rédigés comme suit, sont insérés après l'article 7 de la même loi :
+
+"Art. 7/1. A l'exception des missions visées à l'article 102 de la loi du 7 décembre 1998 portant organisation d'un service de police intégré, structuré à deux niveaux, la coordination et la direction opérationnelles des missions de police dont l'exécution s'étend sur le territoire de plus d'une zone de police sont confiées :
+
+1° en cas d'intervention conjointe sur la base d'un accord de différents corps de police locale, au chef de corps de la police locale désigné à cet effet par le ou les bourgmestres concernés;
+
+2° en cas d'intervention conjointe de différents corps de police locale et de la police fédérale, y compris lorsque celle-ci intervient sur réquisition, au directeur coordonnateur administratif;
+
+3° pour l'exécution, par une police locale, d'une réquisition du ministre de l'Intérieur visée à l'article 64 de la loi du 7 décembre 1998 organisant un service de police intègre, structuré à deux niveaux, au directeur coordonnateur administratif.
+
+Les conseils zonaux de sécurité peuvent organiser les missions prévues au 1° par des protocoles.
+
+Dans les cas visés au 2° et 3°, la coordination et la direction opérationnelle peuvent être confiées à un chef de corps local désigné à cet effet si les autorités de police locales et fédérales concernées le décident conjointement."
+
+"Art. 7/2. A l'exception des missions visées à l'article 102 de la loi du 7 décembre 1998 portant organisation d'un service de police intégré, structuré à deux niveaux, la coordination et la direction opérationnelles des missions de police dont l'exécution est limitée au territoire d'une zone de police, sont confiées au chef de corps de la police locale.
+
+La coordination et la direction opérationnelles sont cependant confiées au directeur coordonnateur administratif dans les cas suivants :
+
+1° lorsqu'il donne suite à la demande du chef de corps de la police locale d'assurer cette mission;
+
+2° lorsque la police fédérale intervient d'initiative ou sur ordre du ministre de l'Intérieur pour l'exécution de missions supralocales et que celui-ci décide, au vu des circonstances propres à cette intervention, de confier cette fonction au directeur coordonnateur administratif. Cette décision est prise, sauf urgence, après concertation avec le bourgmestre;
+
+3° lorsque la police fédérale ou une police locale intervient dans le cadre d'une réquisition visée respectivement aux articles 43 et 64 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré a deux niveaux, et que le ministre de l'Intérieur a décidé de confier ces fonctions au directeur coordonnateur administratif."
+
+"Art. 7/3. La coordination et la direction opérationnelles d'une mission à caractère fédéral au sens de l'article 61 de la loi du 7 décembre 1998 portant organisation d'un service de police intégré, structuré à deux niveaux, et qui exige l'intervention conjointe d'un ou plusieurs corps de police locale et de la police fédérale, sont assurées par le niveau de police désigné dans la directive.
+
+La coordination et la direction opérationnelles d'une mission à caractère fédéral dans la circonstance visée à l'article 63 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, sont cependant assurées par le directeur coordonnateur administratif sauf en cas de décision contraire des ministres de l'Intérieur et de la Justice."
+
+"Art. 7/4. En vue de l'exécution des missions visées aux articles 7/1, 7/2 et 7/3, le directeur coordonnateur administratif reçoit à sa demande tout renseignement utile de la part des supérieurs des corps de police locale concernés."
+
+"Art. 7/5. Le commandant de tout détachement des forces armées appelé à intervenir avec un service de police est tenu de se conformer aux instructions qui lui sont adressées par le fonctionnaire de police qui a la direction des opérations.
+
+Bien que le fonctionnaire de police ait la direction des opérations, le commandant du détachement des forces armées conserve le commandement de son détachement.
+
+L'usage des armes par les personnes qui n'appartiennent pas à la police est, dans ce cas, régi conformément à l'article 38, 1° et 3°.".
+
+###### Art. 160
+
+Une section 4, comprenant les articles 8 à 8/8, et rédigée comme suit, est insérée dans le chapitre II de la même loi :
+
+"Section 4. - Des réquisitions.
+
+Sous-section 1re. - Dispositions générales.
+
+Art. 8. Toute réquisition doit être écrite, mentionner la disposition légale en vertu de laquelle elle est faite, en indiquer l'objet, être datée, et porter les nom et qualité ainsi que la signature de l'autorité requérante.
+
+En cas d'urgence, les services de police peuvent être requis par tout moyen de communication. Cette réquisition doit être confirmée le plus rapidement possible dans les formes prévues par l'alinéa précédent.
+
+Art. 8/1. Pour l'exécution des réquisitions adressées aux services de police, les autorités compétentes, sans s'immiscer dans l'organisation du service, précisent l'objet de la réquisition et peuvent faire des recommandations et donner des indications précises sur les moyens à mettre en ouvre et les ressources à utiliser.
+
+Lorsqu'il est impossible de se conformer à ces recommandations et indications précises parce que leur exécution porterait atteinte à la réalisation d'autres missions de police, l'autorité requérante en est informée dans les meilleurs délais. A cette occasion, les circonstances particulières qui rendent impossible le respect de ces recommandations et indications précises sont mentionnées. Cette disposition ne dispense pas les services de police de l'obligation d'exécuter les réquisitions.
+
+Art. 8/2. La police requise ne peut discuter l'opportunité de la réquisition. Elle doit l'exécuter. Cependant, si la réquisition lui paraît manifestement illégale, elle ne peut pas l'exécuter. Dans ce cas, elle en informe par écrit sans délai l'autorité requérante en indiquant les motifs.
+
+Art. 8/3. Les effets de la réquisition cessent lorsqu'elle est exécutée ou lorsque l'autorité requérante signifie par écrit ou verbalement la levée de la réquisition au chef de corps de la police qui avait été requise ou au chef de l'unité chargée d'exécuter la réquisition.
+
+Sous-section 2. - Réquisitions de police administrative.
+
+Art. 8/4. Les opérations nécessaires à l'exécution des réquisitions de police administrative sont menées sous la direction d'un fonctionnaire de police revêtu de la qualité d'officier de police judiciaire.
+
+Le service de police requis détermine l'organisation du service ainsi que la nature et, sans préjudice de l'article 64, alinéa 4, de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, l'importance des moyens à mettre en oeuvre afin d'exécuter la réquisition et de donner suite aux recommandations et indications de l'autorité requérante. Si la coordination et la direction opérationnelles est confiée à un chef de corps de la police locale en exécution des articles 7/1 ou 7/2, le responsable du service de police requis se concerte à cet effet préalablement avec le chef de corps concerné.
+
+Les supérieurs compétents de la police requise, sans s'immiscer dans le déroulement des opérations de police administrative, coordonnent, apportent le soutien nécessaire et contrôlent la réalisation des missions effectuées à la suite d'une réquisition Ces mesures sont portées à la connaissance des autorités requérantes par l'intermédiaire du supérieur de la police requise.
+
+Au cours de l'exécution d'une réquisition de police administrative, le fonctionnaire de police visé à l'alinéa 1er doit se maintenir en liaison avec l'autorité administrative requérante et l'informer, sauf en cas de force majeure, des moyens d'action qu'il se propose de mettre en oeuvre.
+
+De son coté, l'autorité requérante doit transmettre à ce fonctionnaire de police toutes les informations utiles à la réalisation de sa mission.
+
+Art. 8/5. Dans le cas visé à l'article 8/1, alinéa 2, le ministre de l'Intérieur peut, à la demande de l'autorité requérante, donner l'ordre à la police fédérale de se conformer à ces recommandations et indications précises.
+
+Sous-section 3. - Réquisitions de police judiciaire.
+
+Art. 8/6. Les dispositions du Code d'instruction criminelle, notamment les articles 28ter, § 3, et 56, § 2, s'appliquent aux réquisitions de police judiciaire adressées aux services de police.
+
+Les opérations nécessaires à l'exécution des réquisitions de police judiciaire sont menées, sous leur direction, par les fonctionnaires de police qui ont la qualité d'officier de police judiciaire.
+
+Les fonctionnaires de police visés à l'alinéa précédent déterminent l'organisation du service ainsi que la nature et l'importance des moyens a mettre en oeuvre afin d'exécuter la réquisition et de donner suite aux recommandations et indications précises de l'autorité requérante.
+
+Les supérieurs compétents de la police requise, sans s'immiscer dans le déroulement des enquêtes judiciaires, coordonnent, apportent le soutien nécessaire et contrôlent la réalisation des missions effectuées à la suite d'une réquisition. Ces mesures sont portées à la connaissance des autorités judiciaires requérantes par l'intermédiaire du supérieur de la police requise.
+
+La confirmation visée à l'article 8, alinéa 2, d'une réquisition de police judiciaire peut résulter du procès-verbal établi par le fonctionnaire de police qui aura exécuté cette réquisition.
+
+Art. 8/7. Lorsque la direction générale de la police judiciaire de la police fédérale ne dispose pas des effectifs et des moyens nécessaires pour exécuter simultanément les réquisitions de différentes autorités judiciaires, le procureur fédéral, ou par délégation, le magistrat fédéral visé à l'article 47quater du Code d'instruction criminelle, décide, après concertation avec le directeur général de cette direction générale, quelle réquisition est exécutée prioritairement.
+
+Art. 8/8. Dans le cas visé à l'article 8/1, alinéa 2, lors de l'exécution d'une réquisition par la police fédérale, le ministre de la Justice peut, à l'initiative du procureur fédéral ou, par délégation, du magistrat fédéral visé à l'article 8/7, lui donner l'ordre de se conformer aux recommandations et indications précises de l'autorité judiciaire requérante.".
+
+###### Art. 161
+
+Dans la même loi, la division sous la forme d'un chapitre III intitulé "Coordination de la politique en matière de police et de la gestion des services de police" est remplacée par une division sous la forme d'une section 5 intitulée "Mesures de concertation et de coordination".
+
+###### Art. 162
+
+L'article 9 de la même loi est remplacé par la disposition suivante :
+
+"Art. 9. Dans chaque province, ainsi que dans l'arrondissement administratif de Bruxelles-Capitale, une concertation est organisée entre le procureur général près la cour d'appel, le gouverneur, les directeurs coordonnateurs administratifs ou leurs délégués, les directeurs judiciaires ou leurs délégués et des représentants des polices locales. Cette concertation vise à stimuler les conseils zonaux de sécurité. Les avis formulés au niveau de la concertation provinciale sont portés à la connaissance des conseils zonaux de sécurité et des autorités fédérales. Des experts peuvent êtres invités à participer aux réunions.
+
+Par arrondissement judiciaire est organisée une concertation de recherche entre le directeur coordonnateur administratif ou son délégué, le directeur du service judiciaire déconcentré ou son délégué, des représentants des polices locales et le procureur du Roi, sous la direction de ce dernier. Cette concertation porte essentiellement sur la coordination des missions de police judiciaire et sur l'organisation de l'échange de l'information. Le ministre de la Justice détermine les modalités de cette concertation de recherche.".
+
+###### Art. 163
+
+A l'article 10 de la même loi, sont apportées les modifications suivantes :
+
+1° les §§ 1er à 3 sont abrogés;
+
+2° la division en paragraphes est abrogée de sorte que le § 4, inséré par la loi du 17 novembre 1998 portant intégration de la police maritime, de la police aéronautique et de la police des chemins de fer dans la gendarmerie devient l'alinéa unique.
+
+###### Art. 164
+
+Dans la même loi, après l'article 10, est insérée une section 6 comprenant les articles 11 à 13 intitulée :
+
+"Section 6. - Des compétences de police administrative".
+
+###### Art. 165
+
+L'article 11 de la même loi est remplacé par la disposition suivante :
+
+"Art. 11. Sans préjudice des compétences qui leur sont attribuées par ou en vertu de la loi, le ministre de l'Intérieur et le gouverneur exercent à titre subsidiaire les attributions du bourgmestre ou des institutions communales lorsqu'ils manquent, volontairement ou non, à leurs responsabilités, lorsque les troubles à l'ordre public s'étendent au territoire de plusieurs communes, ou lorsque, bien que l'événement ou la situation soit localisée dans une seule commune, l'intérêt général exige leur intervention.
+
+Les compétences visées à l'alinéa premier concernent les mesures de police administrative au sens de l'article 3, 1°, à l'exclusion de celles qui font l'objet de l'article 42 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux.".
+
+###### Art. 166
+
+A l'article 14 de la même loi, sont apportées les modifications suivantes :
+
+1° dans l'alinéa 1er, les mots "la gendarmerie et la police communale" sont remplacés par les mots "les services de police";
+
+2° dans les alinéas 2 et 3, le mot "Elles" est remplacé par le mot "Ils";
+
+3° l'alinéa 4 est abrogé.
+
+###### Art. 167
+
+Dans l'article 15 de la même loi les mots "la gendarmerie, la police communale et la police judiciaire près les parquets" sont remplacés par les mots "les services de police".
+
+###### Art. 168
+
+Un article 15bis, rédigé comme suit, est inséré dans la même loi :
+
+"Art. 15bis. La police fédérale et la police locale remplissent les missions déterminées dans la présente sous-section conformément à l'article 3 de la loi du 7 décembre 1998 organisant un service de police intègre, structuré à deux niveaux.".
+
+###### Art. 169
+
+A l'article 16 de la même loi, sont apportées les modifications suivantes :
+
+1° dans la première phrase de l'alinéa 1er, les mots "La gendarmerie et la police communale" sont remplacés par les mots "Les services de police";
+
+2° dans la deuxième phrase de l'alinéa 1er, le mot "Elles" est remplacé par le mot "Ils";
+
+3° l'alinéa 2 est supprimé.
+
+###### Art. 170
+
+Dans l'article 16bis de la même loi, introduit par la loi du 17 novembre 1998 portant intégration de la police maritime, de la police aéronautique et de la police des chemins de fer dans la gendarmerie, les mots "la gendarmerie" sont remplacés par les mots "la police fédérale".
+
+###### Art. 171
+
+Dans l'article 16ter de la même loi, introduit par la loi du 17 novembre 1998 portant intégration de la police maritime, de la police aéronautique et de la police des chemins de fer dans la gendarmerie, les mots "la gendarmerie" sont remplacés par les mots "la police fédérale".
+
+###### Art. 172
+
+Dans l'article 16quater de la même loi, introduit par la loi du 17 novembre 1998 portant intégration de la police maritime, de la police aéronautique et de la police des chemins de fer dans la gendarmerie, les mots "la gendarmerie" sont remplacés par les mots "la police fédérale".
+
+###### Art. 173
+
+Dans l'article 17, alinéa 1er, de la même loi, modifié par la loi du 17 novembre 1998 portant intégration de la police maritime, de la police aéronautique et de la police des chemins de fer dans la gendarmerie, les mots "la gendarmerie et la police communale" sont remplacés par les mots "les services de police".
+
+###### Art. 174
+
+Aux articles 18, 19 et 20 de la même loi, sont chaque fois apportées les modifications suivantes :
+
+1° dans l'alinéa 1er, les mots "La gendarmerie et la police communale" sont remplacés par les mots "Les services de police";
+
+2° dans l'alinéa 2, les mots "Les services de police" sont remplacés par le mot "Ils".
+
+###### Art. 175
+
+A l'article 21 de la même loi, sont apportées les modifications suivantes :
+
+1° dans l'alinéa 1er, modifié par la loi du 17 novembre 1998 portant intégration de la police maritime, de la police aéronautique et de la police des chemins de fer dans la gendarmerie les mots "La gendarmerie et la police communale", sont remplacés par les mots "Les services de police";
+
+2° dans l'alinéa 2, les mots "Les services de police" sont remplacés par le mot "Ils".
+
+###### Art. 176
+
+A l'article 22 de la même loi, sont apportées les modifications suivantes :
+
+1° dans l'alinéa 1er, les mots "La gendarmerie et la police communale" sont remplacés par les mots "Les services de police";
+
+2° dans l'alinéa 2, les mots "La gendarmerie et la police communale" sont remplacés par le mot "Ils";
+
+3° dans l'alinéa 3, les mots "la gendarmerie" et les mots "ou le chef de corps de la police communale concernée" sont respectivement remplacés par les mots "la police fédérale" et les mots "et le chef de corps de la police locale concernée.".
+
+###### Art. 177
+
+A l'article 23 de la même loi, sont apportées les modifications suivantes :
+
+1° dans le § 3, les mots "la police communale" sont remplacés par les mots "la police locale", et le paragraphe est complété par les mots suivants : "sans préjudice de l'application des articles 61 et 62 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux";
+
+2° dans le § 4, alinéa 1er, les mots "La gendarmerie assure" sont remplacés par les mots "La police fédérale et, dans les circonstances prévues aux articles 61 et 62 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, la police locale assurent";
+
+3° dans le § 4, alinéa 2, les mots "elle assure" sont remplacés par "elles assurent";
+
+4° dans le § 5, les mots "La gendarmerie" sont remplacés par les mots "La police fédérale".
+
+###### Art. 178
+
+Dans l'article 24 de la même loi, les mots "La gendarmerie et la police communale" sont remplacés par les mots "Les services de police".
+
+###### Art. 179
+
+A l'article 25 de la même loi, sont apportées les modifications suivantes :
+
+1° dans l'alinéa 1er, les mots "de la gendarmerie, de la police communale et de la police judiciaire près les parquets" sont supprimés;
+
+2° dans l'alinéa 2, les mots "être confiés aux fonctionnaires précités" sont remplacés par les mots "leur être confiés";
+
+3° entre l'alinéa deux et l'alinéa trois un alinéa est inséré, rédigé comme suit :
+
+"Les autorités judiciaires peuvent confier aux fonctionnaires de police des enquêtes en matière disciplinaire.";
+
+4° dans l'alinéa trois, qui devient l'alinéa quatre, les mots "la gendarmerie et la police communale" sont remplacés par les mots "les services de police".
+
+###### Art. 180
+
+A l'article 26 de la même loi, sont apportées les modifications suivantes :
+
+1° dans l'alinéa 1er, les mots "La gendarmerie la police communale" sont remplacés par les mots "Les fonctionnaires de police";
+
+2° dans l'alinéa 2, les mots "Les fonctionnaires de police" sont remplacés par le mot "Ils".
+
+###### Art. 181
+
+A l'article 27 de la même loi, sont apportées les modifications suivantes :
+
+1° dans l'alinéa 1er, modifié par la loi du 17 novembre 1998 portant intégration de la police maritime, de la police aéronautique et de la police des chemins de fer dans la gendarmerie, les mots "de la gendarmerie et de la police communale" sont supprimés;
+
+2° dans l'alinéa 2, les mots "de la gendarmerie et de la police communale" sont supprimés.
+
+###### Art. 182
+
+Dans l'article 28, § 4, de la même loi, modifié par la loi du 17 novembre 1998 portant intégration de la police maritime, de la police aéronautique et de la police des chemins de fer dans la gendarmerie, les mots "l'autorité administrative" sont remplacés par les mots "l'autorité de police administrative compétente".
+
+###### Art. 183
+
+A l'article 30 de la même loi sont apportées les modifications suivantes :
+
+1° dans l'alinéa 1er, les mots "fonctionnaire de police administrative" sont remplacés par les mots "fonctionnaire de police";
+
+2° dans l'alinéa 3, les mots "autorité administrative" sont remplacés par les mots "autorité de police administrative".
+
+###### Art. 184
+
+A l'article 31, alinéa 1er, de la même loi, les mots "fonctionnaires de police administrative" sont remplacés par les mots "fonctionnaires de police".
+
+###### Art. 185
+
+Dans l'article 33, alinéa 2, de la même loi, les mots "de la commune concernée" sont insérés entre les mots "au bourgmestre" et "ou".
+
+###### Art. 186
+
+Dans l'article 34, § 2, de la même loi, les mots "fonctionnaire de police administrative" sont remplacés par les mots "fonctionnaire de police".
+
+###### Art. 187
+
+Dans l'article 35, alinéa 1er, de la même loi, les mots "fonctionnaires de police administrative ou judiciaire" sont remplacés par les mots "fonctionnaires de police".
+
+###### Art. 188
+
+A l'article 38 de la même loi, sont apportées les modifications suivantes :
+
+1° dans l'alinéa 1er, 3°, les mots "de la police communale et de la gendarmerie" sont supprimés;
+
+2° dans l'alinéa 1er, 4°, les mots "de la police communale, de la gendarmerie et de la police judiciaire près les parquets" sont supprimés.
+
+###### Art. 189
+
+L'article 39 de la même loi est abrogé.
+
+###### Art. 190
+
+Dans l'article 40 de la même loi, les mots "de la gendarmerie, de la police communale ou de la police judiciaire près les parquets" sont supprimés.
+
+###### Art. 191
+
+Une sous-section 3, comprenant les articles 44/1 à 44/11, rédigée comme suit, est insérée dans la section 1re du chapitre IV de la même loi :
+
+"Sous-section 3. - De la gestion des informations.
+
+Art. 44/1. Dans l'exercice des missions qui leur sont confiées, les services de police peuvent recueillir et traiter des données à caractère personnel et des informations relatives notamment à des événements, à des groupements et à des personnes présentant un intérêt concret pour l'exécution de leurs missions de police administrative et pour l'exécution de leurs missions de police judiciaire conformément aux articles 28bis, 28ter, 55 et 56 du Code d'instruction criminelle.
+
+Ces informations et données ne peuvent être communiquées qu'aux autorités et services de police ainsi qu'aux services de renseignements et de sécurité qui en ont besoin pour l'exécution de leurs missions.
+
+Art. 44/2. La collecte, le traitement et la transmission des informations et des données visées à l'article 44/1, alinéa 1er, se font conformément a la loi du 8 décembre 1992 relative à la protection de la vie privée à l'égard des traitements de données à caractère personnel. Ces informations et données doivent présenter un lien direct avec la finalité du fichier et se limiter aux exigences qui en découlent.
+
+Le Roi détermine, par arrêté délibéré en Conseil des ministres, les règles relatives à la durée de conservation de ces informations et données.
+
+Des personnes de contact pour la Commission de la Protection de la Vie Privée sont désignées dans les services de police.
+
+La gestion des structures et moyens techniques informatiques nécessaires pour la banque de données générale nationale visée à l'article 44/4 est assurée par une des directions générales, chargée de l'appui, visée à l'article 93, 2°, de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux.
+
+Art. 44/3. Les informations et les données visées à l'article 44/1, alinéa 1er, relatives aux missions de police administrative sont recueillies et traitées sous l'autorité du ministre de l'Intérieur.
+
+Sans préjudice des compétences des autorités judiciaires, les informations et données visées à l'article 44/1, alinéa 1er, relatives aux missions de police judiciaire sont recueillies et traitées sous l'autorité du ministre de la Justice.
+
+Art. 44/4. Les informations et les données visées à l'article 44/1, alinéa 1er, sont traitées, selon les modalités fixées par le Roi, par arrêté délibéré en Conseil des ministres, dans une banque de données nationale générale, créée dans une des directions générales chargée de l'appui, visée à l'article 93, 2°, de la loi du 7 décembre 1998 organisant un service de police intégré, structuré a deux niveaux. Plusieurs systèmes d'index sont inclus dans cette banque de données. Dans le cadre de ces systèmes d'index, le Roi règle aussi la surveillance d'un magistrat fédéral sur l'information judiciaire.
+
+Le Roi fixe, par arrêté délibéré en Conseil des ministres, les conditions sous lesquelles cette banque de données et chacun de ces systèmes d'index sont accessibles et peuvent être consultés par les autorités judiciaires compétentes et les services de police dans le cadre de l'exercice de leurs missions.
+
+Les services de police transmettent d'office et de manière directe à cette banque de données nationale générale les informations et les données visées à l'article 44/1, alinéa 1er.
+
+Les ministres de l'Intérieur et de la Justice, chacun dans le cadre de ses compétences, déterminent, sur avis conforme de l'organe de contrôle visé à l'article 44/7, les catégories d'informations et de données qui n'exigent pas une transmission.
+
+Art. 44/5. Lorsque, dans le cadre de l'exercice de leurs missions de police administrative, les services de police acquièrent connaissance d'informations intéressant l'exercice de la police judiciaire, ils en informent sans délai ni restriction les autorités judiciaires compétentes.
+
+Lorsque dans le cadre de l'exercice de leurs missions de police judiciaire, les services de police acquièrent la connaissance d'informations intéressant l'exécution de la police administrative et qui peuvent donner lieu a des décisions de police administrative, ils en informent les autorités administratives compétentes, sauf si cela peut porter atteinte à l'exercice de l'action publique, mais sans préjudice des mesures indispensables à la protection des personnes.
+
+Art. 44/6. Dans l'exercice de leurs missions de police judiciaire, les services de police communiquent les informations et les données visées à l'article 44/1, alinéa 1er, aux autorités judiciaires compétentes, conformément aux articles 28bis, 28ter, 55 et 56 du Code d'instruction criminelle.
+
+Art. 44/7. Il est créé un organe de contrôle sous l'autorité du ministre de l'Intérieur et du ministre de la Justice, chargé du contrôle de la gestion de la banque de données nationale générale visée à l'article 44/4, alinéa 1er. Cet organe de contrôle a un accès illimité à toutes les informations et les données conservées dans cette banque de données.
+
+Il est particulièrement chargé de contrôler le respect des règles d'accès à la banque de données nationale générale et de transmission à cette banque des données et informations visées à l'article 44/1, alinéa 1er.
+
+Sans préjudice des dispositions visées à l'article 44/4, les services de police peuvent, dans des circonstances particulières, créer des banques de données. La création de toute banque de données par les services de police doit préalablement être communiquée à cet organe de contrôle. Toutes les informations et les données de ces banques de données sont communiquées à la banque de données nationale générale visée à l'article 44/4, alinéa 1er, sauf accord de l'organe de contrôle sur une demande de non transmission. Toutes les compétences attribuées à l'organe de contrôle par le présent article s'appliquent intégralement à ces banques de données. Dans les conditions déterminées par le Roi, par arrêté délibéré en Conseil des ministres, ces banques de données sont accessibles et consultables par les autorités compétentes, chacune dans le cadre de ses compétences, et par les services de police dans le cadre de l'exercice de leurs missions.
+
+Afin d'accomplir ses missions de contrôle, cet organe a un droit d'accès illimité aux locaux dans lesquels et pendant le temps où les fonctionnaires de police y exercent leurs fonctions.
+
+Cet organe est présidé par un magistrat fédéral. Ce magistrat est désigné par le ministre de la Justice et le ministre de l'Intérieur, après avis du collège des procureurs généraux. Il agit, pendant la durée de sa désignation, de manière indépendante à l'égard du parquet fédéral. Pour le surplus, cet organe est compose d'un membre de la police locale, d'un membre de la police fédérale et d'un expert qui sont désignés par les ministres de l'Intérieur et de la Justice.
+
+L'organe de contrôle agit d'initiative ou à la demande des autorités judiciaires ou administratives, du ministre de la Justice ou du ministre de l'Intérieur, dans les conditions fixées par le Roi, par arrêté délibéré en Conseil des ministres.
+
+Lorsque le contrôle a eu lieu au sein d'une police locale, l'organe de contrôle en informe le bourgmestre ou le collège de police et lui adresse son rapport.
+
+Lorsque le contrôle concerne des renseignements et des données concernant l'exécution des missions de police judiciaire, le rapport y relatif qui est établi par l'organe de contrôle est également transmis au procureur du Roi.
+
+Cet organe de contrôle bénéficie de l'appui administratif et logistique de l'inspection générale de la police fédérale et de la police locale et peut, pour l'exécution de sa mission, requérir l'assistance de cette inspection.
+
+Le Roi fixe, par arrêté délibéré en Conseil des ministres, les règles relatives au statut des membres de cet organe de contrôle de manière à garantir leur indépendance.
+
+Art. 44/8. En dérogation à l'article 44/4, la transmission visée à l'article 44/4, alinéa 3, est différée lorsque et aussi longtemps que le magistrat compétent, avec l'accord du magistrat fédéral charge de la surveillance visé à l'article 44/4, alinéa 1er, estime que cette transmission peut compromettre l'exercice de l'action publique ou la sécurité d'une personne.
+
+Art. 44/9. Les fonctionnaires de police chargés de la gestion de la banque de données nationale générale visée à l'article 44/4, alinéa 1er, sont désignés après l'avis de l'organe de contrôle visé à l'article 44/7. Aucune promotion, nomination ou mutation ne peut leur être octroyée que sur initiative ou de l'accord du ministre compétent et après avis de cet organe de contrôle. Les modalités en sont déterminées par le Roi.
+
+A l'égard de ces fonctionnaires de police, une procédure disciplinaire pour des faits commis pendant la durée de leur désignation ne peut être intentée que de l'accord ou sur ordre du ministre compétent. L'avis de l'organe de contrôlé est recueilli pour les procédures disciplinaires qui ne sont pas ordonnées par le ministre.
+
+La banque de données nationale générale visée à l'article 44/4, alinéa 1er, est gérée au sein d'un service placé sous la direction d'un chef de service et d'un chef de service adjoint. Un des deux est membre de la police fédérale et l'autre appartient à la police locale. Les modalités de leur désignation sont arrêtées par le Roi.
+
+Art. 44/10. Les mesures d'exécution visées aux articles 44/2, alinéa 2, 44/4, alinéa 2 et 44/7, alinéas 3 et 9, sont prises après avis de la Commission de la Protection de la Vie privée, sauf en cas d'urgence.
+
+Art. 44/11. Tout fonctionnaire de police qui retient, sciemment et volontairement des informations et des données présentant un intérêt pour l'exécution de l'action publique ou le maintien de l'ordre public et s'abstient de les transmettre à la banque de données nationale générale, conformément à l'article 44/4, alinéa 3, sera puni d'un emprisonnement d'un mois à six mois et d'une amende de vingt-six à cinq cents francs, ou d'une de ces peines seulement.
+
+Les dispositions du livre Ier du Code pénal, en ce compris le chapitre VII et l'article 85, sont d'application à cette infraction.".
+
+###### Art. 192
+
+A l'article 45 de la même loi, sont apportées les modifications suivantes :
+
+1° dans l'alinéa 1er, les mots "de la gendarmerie et de la police judiciaire près les parquets" sont remplacés par les mots "de la police fédérale et de la police locale";
+
+2° l'alinéa 2 est remplacé par la disposition suivante :
+
+"Les fonctionnaires de police de la police locale réalisent en principe leurs missions sur le territoire de la zone de police.".
+
+###### Art. 193
+
+A l'article 47 de la même loi, sont apportées les modifications suivantes :
+
+1° dans l'alinéa 1er, les mots "de la gendarmerie et de la police judiciaire près les parquets" sont remplacés par les mots "de la police fédérale";
+
+2° dans l'alinéa 2, les mots "les commissaires de brigades" sont remplacés par les mots "les fonctionnaires de liaison visés à l'article 134 de la loi provinciale";
+
+3° les alinéas 3 et 4 sont remplacés par les dispositions suivantes :
+
+"La commune ou, le cas échéant, la zone pluricommunale est responsable du dommage causé par les fonctionnaires de police de la police locale dans les fonctions auxquelles l'Etat, la commune ou la zone pluricommunale les a employés, comme les commettants sont responsables du dommage causé par le fait de leurs préposés.
+
+La commune ou, le cas échéant, la zone pluricommunale peut exercer un recours contre l'Etat pour le dommage causé par le fonctionnaire de police de la police locale dans les missions que l'Etat lui a confiées.".
+
+###### Art. 194
+
+A l'article 48 de la même loi, sont apportées les modifications suivantes :
+
+1° dans l'alinéa 1er, les mots ", à la zone pluricommunale" sont insérés entre les mots "la commune" et "ou à des tiers";
+
+2° l'alinéa suivant est inséré entre l'alinéa 1er et l'alinéa 2 :
+
+"Un mandataire, un préposé ou un organe de l'Etat, de la commune ou de la zone pluricommunale, victime d'un accident de travail causé par un des fonctionnaires de police visés à l'article 47, ne peut intenter une action en justice en responsabilité civile contre ce fonctionnaire de police que pour autant que celui-ci ait intentionnellement causé l'accident de travail.";
+
+3° dans l'alinéa 2, qui devient l'alinéa 3, les mots "l'alinéa précédent" sont remplacés par les mots "l'alinéa 1er".
+
+###### Art. 195
+
+Dans l'article 49 de la même loi, les mots "ou la commune" au § 1er, alinéa 1er, et § 2, sont remplacés par les mots ", la commune ou la zone pluricommunale".
+
+###### Art. 196
+
+A l'article 50 de la même loi, sont apportées les modifications suivantes :
+
+1° dans l'alinéa 1er, les mots "ou la commune" sont remplacés par les mots ", la commune ou la zone pluricommunale";
+
+2° l'alinéa 2 est remplacé par la disposition suivante :
+
+"En ce qui concerne les actes des membres du personnel de la police fédérale, l'Etat est toujours représenté par le ministre de l'Intérieur.".
+
+###### Art. 197
+
+L'article 51 de la même loi est complété par l'alinéa suivant :
+
+"Lorsqu'une de ces fautes est établie, l'Etat, la commune ou la zone pluricommunale décide, après avoir entendu le fonctionnaire de police, si celui-ci doit supporter la totalité ou bien une partie des frais de justice.".
+
+###### Art. 198
+
+Dans l'article 52 de la même loi, sont apportées les modifications suivantes :
+
+1° dans le § 1er, alinéa 1er, les mots "ou l'ex-fonctionnaire de police" sont insérés entre les mots "l'article 47" et les mots "qui est", et les mots ", la zone pluricommunale" sont insérés entre les mots "la commune", et "ou l'Etat";
+
+2° le § 1er, alinéa 2, est remplacé par la disposition suivante :
+
+"Il en est de même pour le fonctionnaire de police visé à l'article 47 ou l'ex-fonctionnaire de police qui, soit en sa qualité de fonctionnaire de police et en raison de l'exécution de ses fonctions, est victime d'un acte ayant entraîné au moins un jour d'absence pour motifs de santé, soit, en raison de sa seule qualité de fonctionnaire de police, est victime d'un acte de vengeance conséquent.";
+
+3° le § 1er est complété par l'alinéa suivant :
+
+"En cas de décès du fonctionnaire de police ou de l'ex-fonctionnaire de police, le droit à l'assistance en justice visé aux alinéas 1er et 2 revient à ses ayants droit dans l'ordre fixé à l'article 4 de la loi du 12 janvier 1970 relative à l'octroi d'une indemnité spéciale en cas d'accident aéronautique survenu en temps de paix.";
+
+4° dans le § 2, les mots "ou la commune" sont remplacés par les mots ", la commune ou la zone pluricommunale";
+
+5° dans le § 3, alinéa 1er, les mots "la zone pluricommunale" sont insérés entre les mots "la commune" et "ou par l'Etat";
+
+6° le § 3, alinéa 2, est complété par les mots "ou qu'il a, en tant que victime, refusé d'emblée et sans motifs fondés la médiation pénale visée à l'article 216ter, § 1er, alinéa 1er, du Code d'instruction criminelle";
+
+7° dans le § 5, alinéa 1er, les mots "ou par la commune" sont remplacés par les mots "par la commune ou par la zone pluricommunale";
+
+8° le § 5, alinéa 2, est remplacé par la disposition suivante :
+
+"L'assistance en justice des membres du personnel de la police fédérale est à charge du ministère de l'Intérieur.";
+
+9° le § 5, alinéa 3, est remplacé par la disposition suivante.
+
+"L'assistance en justice des membres de la police locale est à charge de la commune ou, le cas échéant, de la zone pluricommunale, sauf le recours de celle-ci contre l'Etat si le fonctionnaire de la police locale est attrait en justice pour des actes accomplis lors d'une mission réalisée pour le compte de l'Etat.";
+
+10° au § 6, les mots "ou de la commune" sont remplacés par les mots ", de la commune ou de la zone pluricommunale".
+
+###### Art. 199
+
+A l'article 53 de la même loi, sont apportées les modifications suivantes :
+
+1° le § 2 est remplacé par la disposition suivante :
+
+"L'indemnisation est à charge de l'Etat pour les fonctionnaires de police de la police fédérale, a charge de la province pour les fonctionnaires de liaison visés à l'article 134 de la loi provinciale et à charge de la commune ou, le cas échéant, de la zone pluricommunale, pour les fonctionnaires de police de la police locale.";
+
+2° dans les §§ 4 et 5, les mots "ou la commune" sont remplacés par les mots ", de la commune ou la zone pluricommunale";
+
+3° le § 6 est remplacé par la disposition suivante :
+
+"L'indemnisation est à charge du ministère de l'Intérieur en ce qui concerne le personnel de la police fédérale.".
+
+###### Art. 200
+
+Dans la même loi, un article 53bis est inséré, rédigé comme suit :
+
+"Art. 53bis. Pour l'application des dispositions de ce chapitre, les agents auxiliaires de police sont assimilés aux fonctionnaires de police.".
+
+###### Art. 201
+
+Dans la même loi, est inséré un article 53ter, rédigé comme suit :
+
+"Art. 53ter. La loi du 5 août 1992 sur la fonction de police est appelée "loi sur la fonction de police".".
+
+## TITRE VII. - Autres dispositions modificatives et abrogatoires.
+
+### CHAPITRE Ier. - Modifications de la nouvelle loi communale.
+
+###### Art. 202
+
+A l'article 133bis de la nouvelle loi communale, sont apportées les modifications suivantes : 1° dans l'alinéa 1er, inséré par la loi du 15 juillet 1992 et modifié par la loi du 3 avril 1997, les mots "les articles 133, alinéas 2 et 3, 171bis, alinéas 1er et 3, 172, § 1er, et 175" sont remplacés par les mots "l'article 133, alinéas 2 et 3, et les articles 42, 43 et 45 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux.";
+
+2° cet alinéa est complété par la phrase suivante : "Dans les zones unicommunales, ce droit est étendu aux pouvoirs conférés au bourgmestre par l'article 45 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux.";
+
+3° l'alinéa 2, introduit par la loi du 3 avril 1997, est abrogé.
+
+###### Art. 203
+
+Dans l'article 143, alinéa 2, de la même loi remplacé par la loi du 16 juillet 1993, les mots "des corps de police communale et" et les mots "les dispositions du titre IV de la police communale et" sont supprimés.
+
+###### Art. 204
+
+Dans l'article 144, alinéa 1er, de la même loi, remplacé par la loi du 16 juillet 1993, les mots "en vertu de l'article 189 de la présente loi et" sont supprimés.
+
+###### Art. 205
+
+L'article 156 de la même loi est complété par l'alinéa suivant : "Pour les membres de la police qui ont été mis en congé préalable à la retraite, conformément à l'article 238 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux l'augmentation de la pension prévue à l'alinéa 3 n'est accordée que pour la partie de la pension qui correspond à la période qui précède le congé préalable à la retraite.".
+
+###### Art. 206
+
+L'article 158, alinéa 2, de la même loi est complété par les mots suivants : "excepté pour le personnel visé à l'article 238 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux, pour lequel cet âge maximum est fixé à 4 ans après l'âge de la mise en congé préalable à la retraite, sans toutefois pouvoir excéder 60 ans.".
+
+###### Art. 207
+
+Le Titre IV de la même loi, comprenant les articles 170 à 230, est abr
+
+gé.
+
+###### Art. 208
+
+Dans l'article 255 de la même loi sont apportées les modifications suivantes : 1° dans le 5°, les mots ", des membres du corps de police communal" sont supprimés;
+
+2° l'article est complété par un 18°, rédigé comme suit :
+
+"18° les dépenses qui sont mises à charge de la commune par ou en vertu de la loi du 7 décembre 1998 organisant un service de police intégré, structure à deux niveaux, en ce compris, dans les zones pluricommunales, la dotation de la commune à la zone de police.".
+
+###### Art. 209
+
+Aux articles 264, alinéas 1er et 2, 265 et 266 de la même loi, remplacés par l'arrêté royal du 30 mai 1989, les mots ", le conseil de police ou le collège de police" sont insérés après les mots "autorité communale".
+
+###### Art. 210
+
+L'article 270 de la même loi est complété par l'alinéa suivant :
+
+"Dans les zones pluricommunales, le collège de police exerce pour la zone de police les compétences attribuées par l'alinéa 1er au collège des bourgmestre et échevins. L'autorisation prévue à l'alinéa 2 est donnée par le conseil de police.".
+
+### CHAPITRE II. - Modifications de la loi du 7 avril 1919 instituant des officiers et agents judiciaires près les parquets.
+
+###### Art. 211
+
+Dans la loi du 7 avril 1919 instituant des officiers et agents judiciaires près les parquets, modifiée par les lois des 21 août 1948, 27 mars 1969, 2 décembre 1982, 18 juillet 1991, par l'arrêté royal du 5 août 1991 et par la loi du 7 août 1992, sont apportées les modifications suivantes :
+
+1° l'intitulé de la loi est remplacé par l'intitulé suivant :
+
+"Loi portant certaines dispositions statutaires relatives aux officiers et agents judiciaires près les parquets";
+
+2' l'article 1er, alinéa 1er, est remplacé par la disposition suivante :
+
+"Le Roi peut instituer des officiers et agents judiciaires.";
+
+3° les articles 1er, alinéa 2, 3, alinéa 2, 7, 8, alinéas 2 à 4, 10, 12 et 13 sont abrogés.
+
+### CHAPITRE III. - Abrogation de la loi du 2 décembre 1957. sur la gendarmerie.
+
+###### Art. 212
+
+La loi du 2 décembre 1957 sur la gendarmerie modifiée par les lois des 8 avril 1969, 29 décembre 1975, 4 mars 1987, 18 juillet 1991, 13 juillet 1992, 9 décembre 1994, 20 décembre 1995, 3 avril 1997 et 17 novembre 1998 et par l'arrêté royal du 23 avril 1997, est abrogée.
+
+L'article 11 de cette loi est toutefois maintenu en vigueur pour la détermination du statut d'origine des membres de la catégorie de personnel de police spéciale et pour les militaires transférés qui font partie du corps administratif et logistique de la gendarmerie.
+
+###### Art. 212bis
+
+&lt;Inséré par L 2007-05-15/43, art. 38; En vigueur : 15-06-2007&gt; Le Roi détermine les règles d'insertion statutaire des membres du personnel de l'ancienne police aéronautique pour leur passage entre le 1er mars 1999 et le 31 mars 2001, à leur demande, dans le corps opérationnel de l'ancienne gendarmerie.
+
+### CHAPITRE IV. - Modifications du Code d'instruction criminelle.
+
+###### Art. 213
+
+Dans l'article 9 du Code d'instruction criminelle modifié par les lois des 10 juillet 1967, 10 octobre 1967, 11 février 1986, 3 août 1992, 4 mars 1997 et 12 mars 1998, sont apportées les modifications suivantes :
+
+1° les mots "par les membres du personnel de la police communale revêtus de la qualité d'officier de police judiciaire" sont supprimés;
+
+2° les mots "Par les officiers de gendarmerie" sont remplacés par les mots "Par les membres de la police fédérale et de la police locale revêtus de la qualité d'officier de police judiciaire".
+
+###### Art. 214
+
+Le chapitre II du livre Ier du même Code est supprimé.
+
+###### Art. 215
+
+A l'article 16 du même Code, sont apportées les modifications suivantes :
+
+1° dans l'alinéa 1er, modifié par la loi du 11 février 1986 et arrêté royal du 5 août 1991, les mots "gardes champêtres visés à l'article 203 de la nouvelle loi communale, les" sont supprimés;
+
+2° dans l'alinéa 3, modifié par la loi du 11 février 1986 les mots "membre de la police communale" sont remplacés par les mots "fonctionnaire de police".
+
+###### Art. 216
+
+Dans l'article 17 du même Code, modifié par la loi du 11 février 1991 et l'arrêté royal du 5 août 1991, les mots "gardes champêtres visés à l'article 203 de la nouvelle loi communale, les" sont supprimés.
+
+###### Art. 217
+
+Dans les articles 20 et 21 du même Code, respectivement remplacés et modifiés par la loi du 11 février 1986, les mots "membre de la police communale" sont remplacés par les mots "fonctionnaire de police".
+
+###### Art. 218
+
+Dans l'article 28ter, § 3, alinéa 2, du même Code, inséré par la loi du 12 mars 1998, les mots "à l'article 6 de la loi du 5 août 1992 sur la fonction de police et, pour ce qui concerne la gendarmerie, aux articles 44 à 50 de la loi du 2 décembre 1957 sur la gendarmerie" sont remplacés par les mots "aux articles 8 à 8/3 et 8/6 à 8/8 de la loi sur la fonction de police et, pour ce qui concerne la police fédérale, à l'article 110 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux".
+
+###### Art. 219
+
+Un article 47quater, rédigé comme suit, est inséré dans le même Code :
+
+"Art. 47quater. Un magistrat fédéral est chargé de la surveillance du fonctionnement de la direction générale de la police judiciaire de la police fédérale Ce magistrat veille en particulier à ce que les missions judiciaires spécialisées soient exécutées par cette direction générale conformément aux réquisitions et aux directives des autorités judiciaires compétentes.
+
+Un magistrat fédéral est chargé de la surveillance spécifique du fonctionnement du "service de répression de la corruption" dans la direction générale de la police judiciaire de la police fédérale. Ce magistrat fait annuellement rapport au ministre de la Justice. Le rapport est communiqué aux Chambres législatives par le ministre de la Justice. Ce magistrat peut être auditionné par le Parlement sur le fonctionnement général du "service de répression de la corruption".".
+
+###### Art. 220
+
+Dans l'article 48 du même Code, modifié par les lois des 10 juillet 1967 et 10 octobre 1967, les mots "officiers de gendarmerie" sont remplacés par les mots "membres de la police fédérale et de la police locale revêtus de la qualité d'officier de police judiciaire, auxiliaire du procureur du Roi".
+
+###### Art. 221
+
+L'article 50 du même Code, modifié par la loi du 10 juillet 1967 et par l'arrêté royal du 5 août 1991, est abrogé.
+
+###### Art. 222
+
+Dans l'article 56, § 2, alinéa 2, du même Code, inséré par la loi du 12 mars 1998, les mots "à l'article 6 de la loi du 5 août 1992 sur la fonction de police et, pour ce qui concerne la gendarmerie, aux articles 44 à 60 de la loi du 2 décembre 1957 sur la gendarmerie" sont remplacés par les mots "aux articles 8 à 8/3 et 8/6 à 8/8 de la loi sur la fonction de police et, pour ce qui concerne la police fédérale, à l'article 110 de la loi du 7 décembre 1998 organisant un service de police intégré, structuré à deux niveaux".
+
+### CHAPITRE V. - Modifications de la loi organique du 18 juillet 1991 du contrôle des services de police et de renseignements.
+
+###### Art. 223
+
+L'article 3, alinéa 1er, 1°, de la loi organique du 18 juillet 1991 du contrôle des services de police et de renseignements est remplacé par la disposition suivante :
+
+"1° "services de police", outre la police locale et la police fédérale, les services relevant d'autorités publiques et d'organismes d'intérêt public, dont les membres sont revêtus de la qualité d'officier de police judiciaire ou d'agent de police judiciaire;".
+
+###### Art. 224
+
+L'article 7 de la même loi est remplacé par la disposition suivante :
+
+"Art. 7. § 1er. Pour l'application du présent chapitre, on entend par "les ministres compétents", selon le cas :
+
+1° le ministre de la Justice pour :
+
+a) l'exercice, par les services de police, des missions de police judiciaire;
+
+b) l'exercice, par la police fédérale, des missions de sûreté de l'Etat;
+
+2° le ministre de l'Intérieur pour :
+
+a) l'exercice, par les services de police, des missions de police administrative;
+
+b) l'organisation et les normes de gestion de la police locale.
+
+§ 2. Pour l'application du présent chapitre, on entend par "les autorités compétentes" :
+
+1° le procureur général près la cour d'appel, le procureur fédéral et le procureur du Roi pour l'exécution des missions de police judiciaire par les services de police dans leurs ressorts respectifs;
+
+2° le bourgmestre territorialement compétent pour l'exercice des missions de police administrative par les services de police sur le territoire communal;
+
+3° le bourgmestre ou le collège de police, pour l'organisation, la gestion et la direction du corps de police locale.".
+
+### CHAPITRE VI. - Modifications de la loi provinciale.
+
+###### Art. 225
+
+Dans l'article 69, 3°, de la loi provinciale, introduit par la loi du 22 décembre 1989, les mots "commissaire de brigade, visé à l'article 206 de la nouvelle loi communale" sont remplacés par les mots "les fonctionnaires de liaison visés à l'article 134".
+
+###### Art. 226
+
+L'article 128 de la loi provinciale, modifié par la loi du 27 mai 1975, est remplace par la disposition suivante :
+
+"Art. 128. Le gouverneur veille dans la province au maintien de l'ordre public, à savoir la tranquillité, la sûreté et la salubrité publiques.
+
+Il peut à cet effet faire appel à la police fédérale. A cette fin, il s'adresse alors au directeur coordonnateur administratif.
+
+Il veille à la bonne coopération entre les services de police et entre les zones de police dans la province.
+
+Il peut être chargé par les ministres compétents de missions spéciales relatives à la sécurité et à la police.".
+
+###### Art. 227
+
+L'intitulé du titre X de la même loi est complété par les mots "et des fonctionnaires de liaison".
+
+###### Art. 228
+
+A l'article 133 de la même loi, sont apportées les modifications suivantes :
+
+1° dans l'alinéa 1er, modifié par la loi du 6 juillet 1987, les mots "dans leur ou leurs arrondissement(s)" sont supprimés;
+
+2° l'alinéa 2, inséré par la loi du 30 janvier 1924 et modifié par les lois des 29 juin 1976 et 6 juillet 1987, est abrogé.
+
+###### Art. 229
+
+L'article 134 de la même loi, abrogé par la loi du 6 juillet 1987, est réintroduit sous la rédaction suivante : "Art. 134. Un ou plusieurs fonctionnaires de liaison des services de police sont détachés auprès du gouverneur de la province. Ils assistent le gouverneur de province et les commissaires d'arrondissement dans leurs missions en matière de sécurité et de police et exercent leur tâche sous autorité du gouverneur.
+
+Le Roi détermine le nombre de fonctionnaires de liaison par province. Le fonctionnaire de liaison est désigné par le gouverneur de province conformément aux conditions fixées par le Roi.".
+
+### CHAPITRE VII. - Modifications du Code rural.
+
+###### Art. 230
+
+L'article 61, alinéa 2, du Code rural, remplacé par la loi du 30 janvier 1924 et modifié par la loi du 11 février 1986, est remplacé par la disposition suivante :
+
+"Ces gardes sont revêtus de la qualité d'officier de police judiciaire dans les cas pour lesquels ils sont compétents pour la recherche et la constatation des infractions.".
+
+###### Art. 231
+
+L'article 66 du même Code, modifié par la loi du 11 février 1986, est abrogé.
+
+###### Art. 232
+
+Dans l'article 67 du même Code, modifié par la loi du 11 février 1986, les mots "les gardes champêtres visés à l'article 182 de la nouvelle loi communale" sont remplacés par les mots "les fonctionnaires de police de la police locale".
+
+###### Art. 233
+
+L'article 69, alinéa 1er, du même Code, remplacé par la loi du 11 février 1986, est remplacé par la disposition suivante :
+
+"Dans les cas prévus par l'article 68, les gardes forestiers de l'Etat, des communes et des établissements publics ne pourront, sous peine d'une amende de 25 francs, se refuser à accompagner les membres de la police locale ou de la police fédérale qui requièrent leur présence.".
+
+### CHAPITRE VIII. - Modification de la loi du 22 juillet 1993 portant certaines mesures en matière de fonction publique.
+
+###### Art. 234
+
+L'article 3, § 3, 6°, de la loi du 22 juillet 1993 portant certaines mesures relatives à la fonction publique, renumérotée par la loi du 20 mai 1997, est remplacé par la disposition suivante :
+
+"6° la police fédérale".
+
+## TITRE VIII. - Dispositions transitoires.
+
+### CHAPITRE Ier. - Le personnel.
+
+#### Section 1re. - La police locale.
+
+###### Art. 235
+
+Les membres des corps de police communale, en ce compris les auxiliaires de police ainsi que les membres du cadre opérationnel de la police fédérale affectés aux brigades territoriales et qui sont désignés par le Roi, conformément aux conditions et modalités fixées par un arrêté royal délibéré en Conseil des ministres, passent dans le cadre opérationnel de la police locale.
+
+Les membres du cadre administratif et logistique des corps de police communale passent au cadre administratif et logistique de la police locale.
+
+Le personnel communal non policier affecté aux corps de police communale peuvent passer au cadre administratif et logistique de la police locale.
+
+Les militaires, les militaires transférés et les civils qui font partie du corps administratif et logistique de la police fédérale, et le personnel civil auxiliaire de la police fédérale qui sont affectés aux brigades territoriales et qui sont désignés par le ministre de l'Intérieur passent au cadre administratif et logistique de la police locale.
+
+###### Art. 236
+
+Les membres du personnel visés à l'article précédent sont soumis aux dispositions qui fixent le statut ou la position juridique des membres du cadre opérationnel ou du cadre administratif et logistique de la police fédérale et de la police locale.
+
+Toutefois, ils peuvent décider de rester soumis aux lois et règlements qui, selon le cas, sont d'application aux membres de la police communale et au personnel communal non policier affecté aux corps de police communale et les membres du cadre administratif et logistique des corps de police communale.
+
+Il en est de même pour les membres du corps opérationnel de la gendarmerie, pour les membres de la catégorie de personnel de police spéciale de la gendarmerie, pour les militaires, pour les militaires transférés et pour les civils du corps administratif et logistique de la gendarmerie et pour le personnel civil auxiliaire de la gendarmerie qui ont fait usage de la faculté ouverte par l'article 242, alinéa 2.
+
+La décision visée aux alinéas 2 et 3 est prise dans les trois mois qui suivent l'entrée en vigueur du présent article et est communiquée sous forme écrite par le membre du personnel concerné à l'autorité compétente. Une fois passé dans un corps de police local, le membre du personnel visé aux alinéas 2 et 3 peut à tout moment demander à être soumis aux dispositions visées à l'alinéa 1er.
+
+Dans ce cas cependant, les articles 123 à 127 et 129 à 132 s'appliquent aux fonctionnaires de police, les articles 123, alinéa 2, à 127 et 129 à 132 s'appliquent aux auxiliaires de police, et les articles 125, alinéas 1er à 4; 126, §§ 1er et 2, 127, alinéas 1er et 2, 129 à 132 s'appliquent aux membres du cadre administratif et logistique.
+
+Les modifications apportées aux lois et règlements visés à l'alinéa 2, postérieurement à la date de leur passage leurs sont également applicables.
+
+###### Art. 237
+
+&lt;abrogé par L 2000-12-27/32, art. 48, 006; En vigueur : 01-01-2001&gt;
+
+###### Art. 238
+
+Le conseil communal ou le conseil de police peut, dans une période maximale de deux ans prenant cours à la date de l'entrée en vigueur du présent article, et dans les conditions déterminées par le Roi, décider d'instaurer une mesure de congé volontaire préalable à la mise à la retraite des membres de la police locale de la catégorie de grade des officiers de police et pour d'autres catégories de membres de la police locale qui sont âgés d'au moins 56 ans et de moins de 60 ans et qui comptent au moins 20 années de services admissibles pour l'ouverture du droit à la pension dans le secteur public, à l'exclusion des bonifications pour études et des autres périodes bonifiées à titre de services admis pour la fixation du traitement, a l'exception des agents auxiliaires de police.
+
+(Seuls peuvent bénéficier de cette mesure volontaire, les membres de la police locale qui, le jour où le conseil communal ou le conseil de police a décidé de l'instaurer, faisaient effectivement partie de la zone de police dans laquelle elle s'applique.
+
+Le conseil communal ou le conseil de police qui a déjà pris une décision visée aux alinéas précédents peut encore prendre, pour les membres du personnel qui ont été ou sont transférés à la zone de police pour laquelle il est compétent, une décision complémentaire instaurant une mesure de congé volontaire préalable à la mise à la retraite, et ce, selon les modalités fixées au présent article.) &lt;L 2002-04-26/30, art. 116, 010; En vigueur : 30-04-2002&gt;
+
+###### Art. 239
+
+(La commune ou le conseil de police alloue au membre du personnel en congé volontaire préalable à la mise à la retraite un traitement d'attente égal à 80 % du dernier traitement d'activité.) Par dernier salaire d'activité, il y a lieu d'entendre le dernier traitement annuel alloué pour des prestations complètes, le salaire complémentaire et les montants perçus pour prestations irrégulières. Le pécule de vacances et la prime de fin d'année sont accordés dans les mêmes proportions. &lt;L 2002-04-26/30, art. 117, 010; En vigueur : 30-04-2002&gt;
+
+Les agents statutaires qui bénéficient du congé prévu à l'alinéa 1er peuvent, moyennant autorisation préalable, exercer une activité professionnelle. Dans le cas cependant ou les revenus de cette activité professionnelle dépassent les limites en matière de cumul prévues aux articles 4 et 9 de la loi du 5 avril 1994 réglant le cumul des pensions du secteur public avec des revenus provenant d'une activité professionnelle ou avec un revenu de remplacement, le traitement d'attente sera réduit ou supprimé de la même manière qu'une pension de retraite.
+
+Le statut pécuniaire et administratif des membres du personnel en congé volontaire préalable à la mise à la retraite est déterminé par le Roi.
+
+Est pris en considération, tant pour l'octroi que pour le calcul de la pension de retraite, le temps pendant lequel l'intéressé a été placé en congé volontaire préalable à la mise à la retraite. Pour l'établissement du traitement normal moyen visé à l'article 156, alinéa 2, de la nouvelle loi communale, il est tenu compte des traitements dont l'intéressé aurait bénéficié s'il était resté en service. Ce traitement moyen est, en outre, constitué par l'échelle de traitement et les suppléments de traitement pris en compte pour le calcul de la pension dont l'agent aurait bénéficié s'il était resté en service.
+
+###### Art. 240
+
+Les commissaires de brigade qui sont en fonction le jour de l'entrée en vigueur de la présente loi peuvent continuer à exercer leur fonction avec le maintien de leur statut. Leurs missions sont celles des fonctionnaires de liaison vises à l'article 134 de la loi provinciale. Conformément à l'article 69, 3°, de la même loi, le conseil provincial garantit les crédits nécessaires pour couvrir les frais liés à leur fonction.
+
+Les commissaires de brigade peuvent toutefois également présenter leur candidature, conformément aux conditions fixées par le Roi, à une nomination ou une désignation à une fonction dans les services de police.
+
+(La nomination ou la désignation obtenue en application de l'alinéa 2, a comme conséquence que le candidat commissaire de brigade, indépendamment de son statut, devient de plein droit membre du cadre d'officiers du cadre opérationnel et qu'il est soumis de plein droit à toutes les dispositions qui déterminent le statut des membres du personnel visés à l'article 117, à partir du jour où la décision de nomination ou de désignation est portée à sa connaissance ou lui est signifiée. Le Roi détermine, par arrêté délibéré en Conseil des Ministres, le grade dont sont revêtus les commissaires de brigade qui, en application de l'alinéa 2, passent dans le cadre opérationnel des services de police.
+
+La décision de nomination ou de désignation visée à l'alinéa 3 détermine expressément que le commissaire de brigade concerné est soumis à toutes les dispositions qui déterminent le statut des membres du personnel visés à l'article 117, à partir de la date de la prise de connaissance ou de la notification de cette décision.
+
+Pour l'application de l'article 248, alinéa 4, le commissaire de brigade qui, conformément à l'alinéa 2, présente sa candidature pour un emploi dans un corps de police locale, est censé avoir été membre de la police communale.) &lt;L 2001-04-02/34, art. 27, 007; En vigueur : 01-01-2001&gt;
+
+#### Section 2. - La police fédérale.
+
+###### Art. 241
+
+Sans préjudice de l'article 235, les membres du corps opérationnel et de la catégorie de personnel de police spéciale de la gendarmerie et les officiers et agents judiciaires de la police judiciaire près les parquets passent dans le cadre opérationnel de la police fédérale.
+
+Sans préjudice de l'article 235, les militaires, les militaires transférés et les civils qui font partie du corps administratif et logistique de la gendarmerie, le personnel civil auxiliaire de la gendarmerie, le personnel auxiliaire de la police judiciaire près les parquets et le personnel contractuel du service général d'appui policier passent dans le cadre administratif et logistique de la police fédérale.
+
+(Les membres du personnel du Ministère de la Justice, désignés par le Ministre de la Justice, passent au cadre administratif et logistique de la police fédérale au prorata de la capacité consacrée, au sein de ce ministère, à la gestion et au fonctionnement de l'ancienne police judiciaire près les parquets.
+
+Les membres du personnel du Ministère de l'Intérieur, désignés par le Ministre de l'Intérieur, passent au cadre administratif et logistique de la police fédérale.
+
+Les membres du personnel employés au service général d'appui policier, qui ne sont pas membres d'un service de police et qui sont désignés, selon le cas, par le Ministre de l'Intérieur ou par le Ministre de la Justice, passent au cadre administratif et logistique de la police fédérale) &lt;L 2001-04-02/34, art. 28, 007; En vigueur : 01-01-2001&gt;
+
+###### Art. 242
+
+Les membres du personnel visés à l'article précédent sont soumis aux dispositions qui fixent le statut ou la position juridique des membres du cadre opérationnel ou du cadre administratif de la police fédérale et de la police locale.
+
+(Toutefois, ils peuvent décider de rester soumis aux lois et règlements qui, selon le cas, sont d'application aux membres du corps opérationnel de la gendarmerie, aux membres de la catégorie de personnel de police spéciale de la gendarmerie, aux officiers et agents judiciaires de la police judiciaire près les parquets, aux militaires, aux militaires transférés et aux civils du corps administratif et logistique de la gendarmerie ou de la police judiciaire près les parquets ou aux membres du personnel visés à l'article 241, alinéas 3 à 5.) &lt;L 2001-04-02/34, art. 29, 007; En vigueur : 01-01-2001&gt;
+
+La décision visée à l'alinéa 2 est prise dans les trois mois qui suivent l'entrée en vigueur du présent article et est communiquée sous forme écrite par le membre du personnel concerné à l'autorité compétente. Une fois passé dans la police fédérale, le membre du personnel peut à tout moment demander à être soumis aux dispositions visées à l'alinéa 1er.
+
+Dans le cas visé à l'alinéa 2, les articles 123 à 127 et 129 à 132 s'appliquent à eux.
+
+Les modifications apportées postérieurement à la date de leur passage aux lois et règlements visés à l'alinéa 2 leur sont également applicables.
+
+###### Art. 243
+
+Le Roi détermine, sur proposition du ministre de la Justice et du ministre de l'Intérieur, le personnel statutaire et contractuel des parquets qui passe au corps administratif et logistique de la police fédérale à la date de l'entrée en vigueur de la présente loi.
+
+Les membres du personnel visés à l'alinéa précédent sont soumis, lorsqu'elles entrent en vigueur, aux dispositions qui fixent le statut ou la position juridique des membres du cadre administratif de la police fédérale et de la police locale.
+
+Toutefois, ils peuvent décider de rester soumis aux lois, arrêtés et règlements applicables au personnel statutaire et contractuel des parquets.
+
+La décision visée à l'alinéa 3 est prise dans les trois mois qui suivent l'entrée en vigueur du présent article et est communiquée sous forme écrite par le membre du personnel concerné à l'autorité compétente. Une fois passé dans le cadre administratif et logistique de la police fédérale, le membre du personnel peut à tout moment demander à être soumis aux dispositions visées à l'alinéa 2.
+
+Dans ce cas cependant, les articles 125, 126, §§ 1er et 2, 127, alinéas 1er et 2, 129 à 132 leur sont applicables.
+
+Les modifications apportées postérieurement à la date de leur passage, aux lois et règlements visés à l'alinéa 2, leur sont également applicables.
+
+Ils peuvent, pendant un délai de dix ans a compter de leur passage, se porter candidat aux emplois de secrétaire en chef, de secrétaire, de secrétaire adjoint et de rédacteur, dans les conditions prévues aux articles 182, 183, 273 à 280bis et 282 du Code judiciaire. Dans ce cas, l'ancienneté de grade acquise dans le cadre administratif et logistique de la police fédérale est assimilée à l'ancienneté au parquet.
+
+###### Art. 244
+
+Chaque membre du personnel de la police judiciaire près les parquets et chaque membre des brigades de surveillance et de recherche de la gendarmerie sont désignés à la direction générale de la police judiciaire ou aux services judiciaires déconcentrés, à moins qu'ils optent pour une autre fonction dans la police fédérale et qu'elle leur soit attribuée.
+
+###### Art. 245
+
+&lt;abrogé par L 2000-12-27/32, art. 48, 006; En vigueur : 01-01-2001&gt;
+
+###### Art. 246
+
+Les ministres de l'Intérieur et de la Justice définissent les instances qui remplacent, pour l'exécution des lois et règlements relatifs au statut du personnel visé aux articles 241 à 243, les instances supprimées par ou en vertu de la présente loi.
+
+###### Art. 246bis
+
+&lt;Inséré par L 2001-12-30/30, art. 116; En vigueur : 04-11-2000&gt; Les affectations au sein des services centraux de la police fédérale et de l'inspection générale de la police fédérale et de la police locale peuvent s'effectuer jusqu'au 31 décembre 2002 sans cadres linguistiques.
+
+#### Section 3. - Disposition commune.
+
+###### Art. 247
+
+Le Roi arrête, par un arrête délibéré en Conseil des ministres, et dans le respect de l'article 122, alinéa 1er, les conditions et les modalités de la première désignation aux emplois de commissaire général, de directeur général, de directeur coordonnateur administratif, de directeur judiciaire de la police fédérale, de chef de corps de la police locale et d'inspecteur général.
+
+(Le Roi peut procéder aux premières désignations aux emplois visés à l'alinéa 1er sans qu'il ne soit établi préalablement un cadre organique et des cadres linguistiques pour la police fédérale et l'inspection générale de la police fédérale et de la police locale.
+
+La parité linguistique est établie d'une part, dans le groupe constitué par le commissaire général, l'inspecteur général, les directeurs généraux et les directeurs généraux adjoints et, d'autre part, dans le groupe des directeurs au sein d'une direction générale de la police fédérale et auprès des services du commissaire général et des inspecteurs-généraux adjoints.) &lt;L 2001-12-30/30, art. 117, 009; En vigueur : 04-11-2000&gt;
+
+###### Art. 247bis
+
+&lt;Inséré par L 2001-04-02/34, art. 30; En vigueur : 01-01-2001&gt; Avant la fin du troisième mois qui suit l'installation du conseil communal dans les zones de police composées d'une seule commune ou du conseil de police d'une zone de police pluricommunale, le conseil communal ou le conseil de police fait la présentation motivée pour la première désignation, au sens de l'article 247, du chef de corps de la police locale à nommer.
+
+Lorsqu'il n'est pas satisfait aux dispositions de l'alinéa 1er et sans préjudice des articles 52 et 89, le paiement de l'allocation fédérale visée à l'article 41 est suspendu de plein droit, à concurrence d'un douzième par mois entamé, à partir du premier mois suivant l'écoulement du délai déterminé à l'alinéa 1. Le cas échéant, l'Etat fédéral peut récupérer les paiements déjà effectués.
+
+Dès qu'un conseil communal ou un conseil de police a effectué la présentation motivée visée à l'alinéa 1er ou lorsqu'il est fait application de l'article 247ter, alinéa 2 ou 3, dès que le chef de corps est nommé, la suspension du paiement de l'allocation fédérale visée a l'article 41 se termine le premier jour du mois suivant le mois au cours duquel la présentation motivée a eu lieu. Les douzièmes de l'allocation fédérale non payés en application de l'alinéa 2 restent cependant impayés sauf si le ministre de l'Intérieur, sur proposition motivée du gouverneur, décide que la non exécution des dispositions de l'alinéa 1er est due à la force majeure. Dans ce dernier cas, les montants impayés sont payés.
+
+###### Art. 247ter
+
+&lt;Inséré par L 2001-04-02/34, art. 31; En vigueur : 01-01-2001&gt; Sans préjudice de l'application de l'article 89 et de l'article 247bis, alinéa 2, le Ministre de l'Intérieur adresse, après l'écoulement du délai visé à l'article 247bis, alinéa 1er, à la commune ou à la zone pluricommunale défaillante, la requête de procéder à la présentation d'un candidat jugé apte pour la première désignation comme chef de la police locale. Dans cette requête, il fait mention des dispositions de l'alinéa 2.
+
+Si le conseil communal ou le conseil de police refuse, néglige ou se trouve dans l'impossibilité de présenter, avant le 1er novembre 2001, un candidat jugé apte, il est passé outre à cette présentation et le Roi désigne le chef de corps de la police locale, dans la liste des candidats juges aptes en application des règles et des conditions déterminées à l'article 247, après avoir pris connaissance des avis qui doivent être recueillis en vertu de l'arrêté pris en exécution de l'article 247.
+
+S'il apparaît au 1er novembre 2001 qu'une liste des candidats jugés aptes n'a pas été établie, le Ministre de l'Intérieur peut, aux frais de la commune ou de la zone de police pluricommunale, entamer ou poursuivre la procédure de première désignation visée a l'article 247, étant entendu qu'il agit, a cette occasion, en lieu et place du conseil communal, du conseil de police, du bourgmestre, du collège de police ou du président du collège de police, selon le cas, pour toute décision ou pour tout acte relatif à cette procédure de désignation qui doit être pris ou posé par les organes précités. Le Roi désigne ensuite le chef de corps de la police locale, dans la liste des candidats jugés aptes en application du présent alinéa, après avoir pris connaissance des avis qui doivent être recueillis en vertu de l'arrête pris en exécution de l'article 247.
+
+La récupération des frais visés a l'alinéa 3, s'effectue conformément a l'article 89, alinéa 2.
+
+###### Art. 247quater
+
+&lt;Inséré par L 2001-12-30/30, art. 118; En vigueur : 01-01-2002&gt; En ce qui concerne la revendication immédiate de droits pécuniaires, le passage du personnel, visé par les articles 128 et 235, n'est pas considéré comme étant un changement d'employeur.
+
+#### Section 4. - Le secrétariat de la police intégrée, structurée à deux niveaux &lt;Inséré par L 2008-07-24/35, art. 146; En vigueur : 17-08-2008&gt;
+
+###### Art. 247quinquies
+
+&lt;Inséré par L 2008-07-24/35, art. 146; En vigueur : 17-08-2008&gt; Par dérogation à l'article 149septies, la fonction de directeur-chef de service du secrétariat de la police intégrée, structurée à deux niveaux, est également ouverte aux membres du personnel du cadre opérationnel pour la première désignation à cette fonction.
+
+Le membre du personnel du cadre opérationnel éventuellement désigné à cette fonction maintient son statut.
+
+### Chapitre II. - Organisation.
+
+###### Art. 248
+
+La police locale est constituée par groupe de zones de police, lorsque le Roi constate que les conditions suivantes nécessaires pour permettre la constitution d'une police locale sont remplies :
+
+1° le ressort territorial de la zone est fixé conformément à l'article 9;
+
+2° l'effectif et le cadre du corps de police locale est fixé conformément aux articles 38 et 47;
+
+3° la dotation fédérale de la zone de police prévue à l'article 41 est fixée;
+
+4° dans une zone unicommunale, le budget inscrit pour les dépenses mises à sa charge pour le corps de police locale est conforme aux normes minimales. Dans une zone pluricommunale, la dotation communale et la répartition des dotations entre communes sont fixées conformément aux normes minimales. Ces normes minimales sont fixées conformément (aux articles 39 et 40); &lt;L 2001-12-30/30, art. 119, 009; En vigueur : 01-01-2002&gt;
+
+5° (...) (Abrogé) &lt;L 2001-04-02/34, art. 32, 007; En vigueur : 01-01-2001&gt;
+
+L'arrêté royal constituant la police locale met les (articles 202 à 210), 225 et 235 à 239 en vigueur dans cette zone de police. &lt;L 2001-12-30/30, art. 120, 009; En vigueur : 01-04-2001&gt;
+
+Les membres des brigades territoriales de la police fédérale bénéficient d'une priorité pour combler la différence entre l'effectif minimal de la zone tel que fixé par le Roi en exécution de l'article 38 et l'effectif actuel global des corps de police communale de celle-ci.
+
+L'attribution des emplois du cadre du corps de police locale emportant l'exercice d'une autorité garantit une répartition proportionnelle des emplois aux anciens membres de la police communale et des brigades territoriales de la police fédérale. (Cependant, lorsqu'il y a un nombre insuffisant d'officiers pour l'attribution des emplois d'officier supérieur, une répartition proportionnelle de ces derniers s'effectue entre les anciens membres de la police communale et les membres de la police fédérale, en fonction de leur apport respectif.) &lt;L 2001-04-02/34, art. 32, 007; En vigueur : 01-01-2001&gt;
+
+(Pour la première fixation visée à l'article 12, alinéa 4, les compétences du conseil de police sont exercées par le gouverneur.) &lt;L 2001-04-02/34, art. 34, 007; En vigueur : 01-01-2001&gt;
+
+###### Art. 248bis
+
+&lt;Inséré par L 2001-04-02/34, art. 33; En vigueur : 01-01-2001&gt; § 1er. Les biens meubles y compris les biens immeubles par destination, tant du domaine public que du domaine privé, utilisés pour l'exercice des compétences de la police communale sont transférés a la zone pluricommunale.
+
+Les biens meubles y compris les biens immeubles par destination, tant du domaine public que du domaine privé, utilisés pour l'exercice des compétences des brigades territoriales de la police fédérale sont transférés à la zone pluricommunale ou à la commune, selon le cas.
+
+§ 2. Les transferts visés au § 1er sont effectués de plein droit. Ils sont opposables de plein droit aux tiers sans autre formalité à la date de la constitution de la zone de police établie conformément à l'article 248.
+
+(§ 3. Le ministre de l'Intérieur détermine les règles d'inventaire et d'estimation des biens visés au § 1er.
+
+Le transfert effectif du patrimoine de la commune se fait après visa du receveur communal et du chef de corps et contient l'inventaire complet du matériel collectif au 31 décembre 2001.
+
+Lors du transfert définitif des patrimoines, le receveur communal ou le comptable spécial en collaboration avec les chefs de zone devront contrôler si la totalité du patrimoine et toutes les dotations ont bien été transférées à la zone.
+
+Tout litige est soumis en première instance au collège de police. Le directeur coordonnateur administratif assiste aux débats du collège de police en cas de litige relatif aux biens des brigades de la police fédérale
+
+Le ministre de l'Intérieur ou son délégué tranche les litiges en degré d'appel. Il se fait assister par un comité d'experts.) &lt;L 2002-04-26/30, art. 118, 010; En vigueur : 30-04-2002&gt;
+
+§ 4. La zone pluricommunale ou la commune succède, selon le cas, aux droits et obligations de la commune ou de l'Etat fédéral relatifs aux biens meubles qui lui sont transférés en vertu du § 1er, en ce compris les droits et obligations résultant de procédures judiciaires pendantes et à venir.
+
+Toutefois, la commune cédante ou l'Etat fédéral, selon le cas, reste seul tenu des obligations dont le paiement ou l'exécution étaient exigibles avant le transfert de propriété des biens meubles visés au présent article.
+
+§ 5. Les biens visés au présent article sont transférés dans l'état où ils se trouvent, en ce inclus les charges et obligations qui en sont l'accessoire.
+
+§ 6. En cas de litige relatif à un bien transféré, la zone pluricommunale ou la commune, selon le cas, peut toujours appeler à la cause la commune cédante ou l'Etat fédéral. Ces derniers peuvent toujours intervenir volontairement à la cause.
+
+###### Art. 248ter
+
+&lt;Inséré par L 2001-04-02/34, art. 34; En vigueur : 01-01-2001&gt; Les biens faisant partie de l'équipement individuel non spécialisé d'un fonctionnaire de police sont transférés de plein droit, selon le cas, à la zone de police, à la commune ou à l'Etat fédéral, lorsque ce fonctionnaire de police fait l'objet d'une mesure de mobilité entre deux corps de police locale, ou entre ceux-ci et la police fédérale, ou lorsqu'il est détaché, désigné, ou promu dans un autre service de police.
+
+###### Art. 248quater
+
+&lt;Inséré par L 2001-07-19/38, art. 39; En vigueur : 28-07-2001&gt; § 1er. Les biens immeubles, propriétés de l'Etat belge et gérés par la Régie des Bâtiments (bâtiments administratif et logistique et leurs terrains), qui sont nécessaires pour l'hébergement des fonctionnaires fédéraux, qui en exécution de la loi du 7 décembre 1998 organisant le service de police intégré, structuré a deux niveaux, sont déplaces à la police locale, sont transférés en totalité ou en partie aux communes ou aux zones de police pluricommunales dans lesquelles les biens immeubles concernés sont situés. Les communes ou les zones de police pluricommunales reprennent les droits, obligations et charges de la Régie des Bâtiments concernant les transferts des biens immeubles.
+
+Les conditions et les modalités du transfert et les mécanismes de correction, en vue d'un traitement équitable des communes et les zones de police pluricommunales sont déterminées par un arrêté royal délibéré en Conseil des Ministres.
+
+Les mécanismes de correction tiendront principalement compte de la surface, l'âge et l'état de chaque bâtiment.
+
+La liste des biens immeubles à transférer est fixée par un arrêté royal délibéré en Conseil des Ministres et publiée au Moniteur belge. Cette publication rend le transfert opposable aux tiers sans aucune autre formalité.
+
+(Un droit de préemption est accordé aux communes et aux zones de police pluricommunales pendant 10 ans sur les logements de fonction et sur les bâtiments et parties de bâtiments administratifs et logistiques et leurs terrains, qui ne sont pas transférés aux communes et aux zones de police pluricommunales, mais qui forment un ensemble avec les bâtiment s et parties de bâtiments administratifs et logistiques et leurs terrains qui sont, en vertu de la présente loi, transférés aux communes et zones de police pluricommunales.
+
+Un droit de préemption est accordé à l'Etat belge pendant 10 ans sur les bâtiments et parties de bâtiments administratifs et logistiques et leurs terrains qui, en vertu de la présente loi, sont transférés aux communes ou aux zones de police pluricommunales et qui seraient à nouveau mis en vente par les communes ou zones de police pluricommunales, ou sur lesquels serait constitué un droit réel si ces bâtiments et parties de bâtiments administratifs et logistiques et leurs terrains formaient un ensemble avec les bâtiments et parties de bâtiments administratifs et logistiques et leurs terrains qui, en vertu de la présent loi, ne sont pas transférés aux communes ou zones de police pluricommunales.) &lt;L 2002-08-02/45, art. 164, 011; En vigueur : 29-08-2002&gt;
+
+§ 2. Les communes et les zones de police pluricommunales reprennent les droits, obligations et charges de la Régie des Bâtiments qui proviennent des contrats de location que la Régie a conclus dans la mesure où ceux-ci concernent des bâtiments ou parties de bâtiments (bâtiments administratif et logistique) pour l'hébergement des fonctionnaires fédéraux qui, en exécution de la loi du 7 décembre 1998 organisant le service de police intégré, structuré à deux niveaux, sont transférés à la police locale.
+
+La liste de ces bâtiments ou parties de bâtiments est fixée par un arrêté royal délibéré en Conseil des Ministres.
+
+La Régie des Bâtiments est autorisée à négocier avec les propriétaires le transfert total ou partiel du contrat de location.
+
+La prise en charge des locations s'effectue selon les principes définis dans l'arrêté royal cité au paragraphe 1er, alinéa 2.
+
+###### Art. 248quinquies
+
+&lt;Inséré par L 2001-12-30/30, art. 121; En vigueur : 31-12-2001&gt; L'autorité qui, jusqu'à la création du corps de police locale, en application de l'article 248, a supporté les dépenses afférentes au traitement et, le cas échéant, aux allocations et indemnités dus au chef de corps de la police locale, ou les frais de logement, d'habillement ou d'équipement de ce fonctionnaire de police, est habilitée à réclamer les montants versés à titre d'allocation de mandat de chef de corps de la zone de police locale à la commune ou la zone de police dans laquelle le chef de corps a été désigné.
+
+Si cette autorité verse une allocation ou une dotation à cette zone de police, elle soustrait d'abord ce montant de cette allocation ou dotation pour l'année 2002.
+
+Si cette autorité est une commune d'une zone de police pluricommunale qui a supporté les frais susvisés encourus pour un chef de corps provenant d'une commune n'appartenant pas à la zone ou émanant de la police fédérale, cette commune est habilitée à réclamer le traitement, les allocations et les indemnités visés, y compris l'allocation de mandat, qui ont été payés à ce chef de corps, à la zone de police dans laquelle le chef de corps est désigné.
+
+###### Art. 248sexies
+
+&lt;Inséré par L 2001-12-30/30, art. 122; En vigueur : 31-12-2001&gt; Durant l'année 2002, au sein des zones pluricommunales, des dépenses mensuelles peuvent être opérées par le recours à des crédits provisoires à concurrence maximale d'un douzième du montant total de l'exercice ordinaire du budget tel qu'il a été approuvé par le conseil de police ou, lorsque le budget n'a pas encore été arrêté, pour le montant qui a été déterminé à cet effet par le conseil de police lorsque les dépenses sont réputées par le collège de police indispensables pour assurer la continuité du service de police au sein de la zone ainsi que le paiement traitements nets dûs aux membres du personnel et au comptable spécial.
+
+###### Art. 248septies
+
+&lt;Inséré par L 2001-12-30/30, art. 123; En vigueur : 31-12-2001&gt; Si les membres du personnel des brigades territoriales de la police fédérale, visés à l'article 235, ne sont pas encore passés au 1er janvier 2002 à la police locale ou si ces membres du personnel, à quelle que date que ce soit, passent à la police locale et qu'il apparaît que la commune ou la zone de police reste ou restera en défaut de régler les traitements, allocations ou indemnités dûs aux membres du personnel, le service de paiement de la police fédérale est mandatée pour payer à titre d'avance, des montants équivalents aux traitements nets aux membres du personnel et pour soustraire ces dépenses des allocations fédérales dues a cette zone de police. Toutes les dépenses qui ont ainsi été faites par la police fédérale sont, également pour toutes les matières sociales et fiscales, réputées avoir été faites par et pour la zone de police concernée.
+
+###### Art. 248octies
+
+&lt;Inséré par L 2001-12-30/30, art. 124; En vigueur : 01-01-2002&gt; Le personnel pour lequel la commune perçoit une subvention de la part de l'autorité fédérale en exécution d'un contrat de sécurité ou de prévention et dont le contrat de travail prend fin le 31 décembre 2001 est réputé être encore en service à la date de la constitution du corps de police locale pour l'application de l'article 235, alinéa 3.
+
+###### Art. 248nonies
+
+&lt;Inséré par L 2001-12-30/30, art. 125; En vigueur : 31-12-2001&gt; Pour le mois ou les mois de l'année 2002 durant lesquels le corps de police n'a pas encore été constitué conformément à l'article 248, le ministre de l'Intérieur prélève de la subvention fédérale pour cette période le montant qu'il détermine et qui est directement ou indirectement nécessaire au maintien du fonctionnement des brigades territoriales de la police fédérale.
+
+Ces montants préalables peuvent, conformément à l'article 248septies, être utilisés pour les frais de personnel ainsi que pour les frais de fonctionnement des brigades territoriales de la police fédérale.
+
+Le solde est seulement paye à la zone de police après qu'elle ait été constituée en application de l'article 248.
+
+###### Art. 248decies
+
+&lt;Inséré par L 2001-12-30/30, art. 126; En vigueur : 31-12-2001&gt; Si, lors de la constitution du corps de police locale, le secrétariat social n'a pas été mis en possession des données relatives aux membres du personnel de la police communale, le comptable spécial paie, à titre d'avance, un montant équivalent aux traitements nets de ces membres du personnel basé sur les dernières données connues qui lui ont été communiquées par les communes.
+
+###### Art. 248undecies
+
+&lt;Inséré par L 2001-12-30/30, art. 127; En vigueur : 31-12-2001&gt; Pour le mois ou les mois de l'année 2002 durant le(s)quel(s) le corps de police locale n'est pas encore constitué conformément à l'article 248, le receveur communal retient sur la dotation communale au bénéfice du corps de police locale le montant qu'il détermine comme étant directement ou indirectement nécessaire au maintien durant ce(s) mois du fonctionnement de la police communale.
+
+###### Art. 248duodecies
+
+&lt;Inséré par L 2001-12-30/30, art. 129; En vigueur : 31-12-2001&gt; Si le corps de police locale n'est pas encore constitue le 1er janvier 2002, le receveur communal est habilité à payer, à titre d'avances, des montants équivalents aux traitements nets tels que résultant des dernières données connues aux membres du personnel de la police communale, à charge du montant inscrit comme dotation communale à la zone de police.
+
+###### Art. 249
+
+Préalablement à la constitution de la police locale, des conventions de police entre le ministre de l'Intérieur et les communes d'une zone peuvent êtres conclues. Ces conventions contiennent les modalités, en ce compris la désignation dans la zone d'un chef de police dirigeant tous les corps de police présents, selon lesquelles le ou les corps de police communale et la ou les brigade(s) territoriale(s) de la police fédérale font l'objet d'une association dans laquelle ils fonctionnent comme une seule unité opérationnelle placée sous l'autorité du ou des bourgmestre(s) de cette (ces) commune(s) et, pour les missions de police judiciaire, du procureur du Roi. (...) &lt;L 2001-04-02/34, art. 35, 007; En vigueur : 01-01-2001&gt;
+
+###### Art. 250
+
+Dans les zones de police où il n'y a pas encore de police locale, les brigades territoriales de gendarmerie deviennent les brigades territoriales de la police fédérale et assurent, dans les ressorts qui étaient ceux des brigades de gendarmerie, les missions de police administrative et judiciaire dévolues aux corps de police locale par l'article 3. Ces missions sont exécutées conjointement avec la police communale.
+
+Les articles 16, 21, 35, 44, alinéas 2, 5 et 6, 51, 51bis et 54bis de la loi du 2 décembre 1957 sur la gendarmerie sont maintenus en vigueur à l'égard des brigades territoriales de la police fédérale jusqu'a la date de la constitution des corps de police locale. Le Roi peut régler les modalités d'organisation et de fonctionnement des brigades territoriales de la police fédérale.
+
+###### Art. 250bis
+
+&lt;Inséré par L 2001-04-02/34, art. 36; En vigueur : 01-01-2001&gt;Au plus tard le 1er novembre 2001, chaque conseil communal approuve, relativement à l'année fiscale 2002, le budget déterminé à l'article 39, alinéa 1er, ainsi que la dotation visée à l'article 40, alinéa 3.
+
+Si une commune ou une zone de police pluricommunale ne satisfait pas à l'obligation visée à l'alinéa 1er, le Ministre de Intérieur ou le gouverneur peut lui-même, sans préjudice de l'application de l'article 89, déterminer le budget ou la dotation communale visés à l'alinéa 1er, conformément aux normes budgétaires minimales fixées a l'article 39, alinéa 1er, ou 40, alinéa 1er, aux frais, selon le cas, de la commune ou de la zone de police pluricommunale.
+
+La récupération des frais visés à l'alinéa 2, s'effectue conformément à l'article 89, alinéa 2.
+
+###### Art. 250ter
+
+&lt;Inséré par L 2001-04-02/34, art. 37; En vigueur : 01-01-2001&gt; En vue de la constitution de la police locale, le conseil communal ou le conseil de police approuve au plus tard avant la fin du sixième mois qui suit l'installation du conseil communal dans les zones de police composées d'une seule commune ou du conseil de police d'une zone de police pluricommunale, le cadre organique visé à l'article 47, alinéa 1er, et soumet cet arrêté en exécution de l'article 67, alinéa 1er, a l'approbation du gouverneur dans le même délai.
+
+Si une commune ou une zone pluricommunale ne satisfait pas à l'obligation visée à l'alinéa 1er, le Ministre de l'Intérieur ou le gouverneur peut, sans préjudice de l'application de l'article 89, déterminer lui-même le cadre organique visé à l'alinéa 1er, conformément aux normes minimales fixées en application de l'article 47, alinéa 1er, aux frais, selon le cas, de la commune ou de la zone de police pluricommunale.
+
+La récupération des frais visés à l'alinéa 2, s'effectue conformément à l'article 89, alinéa 2.
+
+###### Art. 250quater
+
+&lt;inséré par L 2000-12-27/32, art. 49, En vigueur : 01-01-2001&gt; Jusqu'à l'installation de tous les corps de police locale, conformément a l'article 248, il y a lieu d'entendre par les mots " Membres de la police locale " de l'article 96, alinéa 1er, les " Membres de la police locale ou de la police communale.
+
+###### Art. 250quinquies
+
+&lt;Inséré par L 2001-04-02/34, art. 38; En vigueur : 01-01-2001&gt; En vue de et jusqu'à la mise en place de la police locale, et sans préjudice de l'application de l'article 247bis, une allocation fédérale, fixée par le Roi, sera payée directement aux communes à partir du 1er avril 2001.
+
+###### Art. 251
+
+Toute procédure en matière de marchés, de fournitures de travaux ou de services pour les besoins de la gendarmerie, de la police judiciaire près les parquets ou du service général d'appui policier est valablement poursuivie par le ministre de l'Intérieur ou son délégué à la date d'entrée en vigueur du présent article.
+
+Le même principe s'applique à l'exécution des marchés attribués avant la même date.
+
+### CHAPITRE III. - Les missions.
+
+#### Section 1re. - La police locale.
+
+###### Art. 252
+
+Les missions et les compétences que les lois et arrêtés réglementaires confient à la police communale ou aux membres de son personnel sont exercées par la police locale ou les membres de son personnel.
+
+(Par dérogation à l'article 192, les articles 4, alinéa 1er, quatrième tiret, et 45, alinéa 2, de la loi sur la fonction de police sont maintenus en vigueur à l'égard des corps de police communale jusqu'à la date de la constitution des corps de police locale.) &lt;L 2000-12-27/32, art. 50, 006; En vigueur : 01-01-2001&gt;
+
+(Par dérogation à l'article 138, les fonctionnaires de police qui passent au cadre opérationnel de la police locale et qui, avant l'entrée en vigueur de la présente loi, avaient la qualité d'officier de police administrative, d'officier de police judiciaire ou d'officier de police judiciaire, auxiliaire du procureur du Roi, conservent cette qualité, quel que soit le grade dans lequel ils sont insérés.) &lt;L 2005-07-03/53, art. 6, 016; En vigueur : 01-04-2001&gt;
+
+#### Section 2. - La police fédérale.
+
+###### Art. 253
+
+Les missions et les compétences que les lois et arrêtés réglementaires confient à la gendarmerie ou à la police judiciaire près les parquets ou aux membres de leur personnel sont exercées par la police fédérale ou les membres de son personnel.
+
+Les missions de police générale et les compétences que les lois et arrêtés réglementaires confient à la police maritime, à la police aéronautique et à la police des chemins de fer ou aux membres de leur personnel sont exercées par la police fédérale ou les membres de son personnel.
+
+(Par dérogation a l'article 138, les fonctionnaires de police qui passent au cadre opérationnel de la police fédérale et qui, avant l'entrée en vigueur de la présente loi, avaient la qualité d'officier de police administrative, d'officier de police judiciaire ou d'officier de police judiciaire, auxiliaire du procureur du Roi conservent cette qualité, quel que soit le grade dans lequel ils sont insérés.) &lt;L 2005-07-03/53, art. 7, 016; En vigueur : 01-04-2001&gt;
+
+###### Art. 254
+
+Jusqu'à leur abrogation, les directives, instructions et ordres des autorités compétentes qui sont relatifs à l'exercice de leurs missions par la gendarmerie et la police judiciaire près les parquets restent applicables à l'exercice de ses missions par la police fédérale.
+
+###### Art. 255
+
+La police fédérale poursuit l'exécution de toutes les réquisitions qui avaient été confiées à la gendarmerie ou à la police judiciaire près les parquets.
+
+### CHAPITRE IV. - Dispositions diverses.
+
+###### Art. 256
+
+Les délibérations du conseil communal prises avant l'entrée en vigueur de la présente loi, continuent, en ce qui concerne la tutelle administrative, à être régies par les règles qui étaient en vigueur à ce moment.
+
+###### Art. 256bis
+
+[<sup>1</sup> Par dérogation aux dispositions de l'article 36 et sans préjudice de l'article 37, alinéa 5, le plan zonal de sécurité qui a été approuvé par les ministres de l'Intérieur et de la Justice pour les années 2009-2012 demeure d'application jusqu'au 31 décembre 2013.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2013-08-17/27, art. 2, 032; En vigueur : 01-01-2013&gt;
+
+###### Art. 257
+
+Par dérogation à l'article 92, le premier plan national de sécurité est préparé conjointement par la gendarmerie, la police judiciaire près les parquets, et le service général d'appui policier.
+
+###### Art. 257bis
+
+&lt;Inséré par L 2000-12-22/31, art. 2; En vigueur : 01-01-2001&gt; En attendant que le Procureur fédéral et les magistrats fédéraux puissent assumer les tâches et compétences qui leur sont attribuées par la présente loi, par la loi du 5 août 1992 sur la fonction de police, par la loi du 18 juillet 1991 organique du contrôle des services de police et de renseignements et par l'article 47quater du Code d'instruction criminelle, ces tâches et compétences seront exercées par les magistrats désignés par arrêté ministériel délibéré en Conseil des Ministres.
+
+Seuls les magistrats, qui, selon le cas, sont dans les conditions pour être désignes Procureur fédéral ou magistrat fédéral, seront pris en compte.
+
+###### Art. 257ter
+
+&lt;inséré par L 2000-12-27/32, art. 51, En vigueur : 01-01-2001&gt; Aussi longtemps que le conseil fédéral de police n'est pas constitué, le Roi, sur la proposition du ministre de l'Intérieur et du ministre de la Justice, fixe les matières visées à l'article 149, alinéa 2, première phrase.
+
+###### Art. 257quater
+
+&lt;Inséré par L 2001-04-02/34, art. 39; En vigueur : 01-01-2001&gt; Les services du personnel de la police communale fournissent au secrétariat social GPI, à sa demande, toute information nécessaire en vue des missions visées aux articles 140ter et 140quater. Ils prennent les mesures nécessaires pour veiller à ce que les données relatives aux membres du personnel concernés qui sont conservées dans des systèmes d'information propres ou dans des systèmes d'information des centres de calcul auxquels ils faisaient appel avant la réforme des polices pour le calcul des traitements, soient mises à temps à disposition du secrétariat social GPI, sur le support d'information et dans la forme souhaitée par le SCDF.
+
+###### Art. 257quinquies
+
+&lt;Inséré par L 2001-04-02/34, art. 40; En vigueur : 01-01-2001&gt; Le Roi détermine les modalités selon lesquelles des avances et des compensations peuvent être données aux membres du personnel dont la gestion ne peut pas être prise en charge par le secrétariat social GPI avant l'entrée en vigueur du statut visé à l'article 121.
+
+### CHAPITRE V. [<sup>1</sup> - Les conséquences de la fusion des zones de police]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/01, art. 194, 026; En vigueur : 10-01-2010&gt;
+
+###### Art. 257quinquies/1
+
+[<sup>1</sup> Les membres du personnel du cadre opérationnel et du cadre administratif et logistique des zones de police anciennes sont respectivement transférés dans le cadre opérationnel et dans le cadre administratif et logistique de la police locale de la zone de police nouvelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/01, art. 194, 026; En vigueur : 10-01-2010&gt;
+
+###### Art. 257quinquies/2
+
+[<sup>1</sup> [<sup>2</sup> Le collège de police, dès l'entrée en vigueur de la définition du ressort territorial de la zone de police nouvelle,]<sup>2</sup> déclare vacant le mandat de chef de corps de la zone de police nouvelle et constitue la commission de sélection visée à l'article 48.]<sup>1</sup>
+
+[<sup>2</sup> Le collège de police désigne également un comptable spécial et un secrétaire.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/01, art. 194, 026; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2026-05-25/16, art. 125, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 257quinquies/3
+
+[<sup>1</sup> § 1er. Le membre du personnel transféré dans une zone de police nouvelle n'est pas tenu par le temps de présence requis pour entrer en ligne de compte pour la mobilité.
+
+§ 2. Le transfert du membre du personnel vers la zone de police nouvelle n'est pas considéré comme un changement d'employeur pour l'application des dispositions statutaires.
+
+§ 3. Si le transfert vers la zone de police nouvelle entraîne pour un membre du personnel contractuel un changement du lieu habituel de travail, cela fait l'objet d'un avenant à son contrat de travail.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/01, art. 194, 026; En vigueur : 10-01-2010&gt;
+
+###### Art. 257quinquies/4
+
+[<sup>1</sup> [<sup>2</sup> A compter de l'entrée en vigueur de la définition du]<sup>2</sup> ressort territorial de la zone de police nouvelle, les prérogatives des organes des zones de police anciennes auxquelles elle succèdera sont limitées aux actes relevant de la gestion journalière, qui portent sur des affaires urgentes ou qui ont trait à des affaires en cours. A défaut, les décisions adoptées ou leurs conséquences ne sont pas opposables aux organes de la zone de police nouvelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/01, art. 194, 026; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2026-05-25/16, art. 126, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 257quinquies/5
+
+[<sup>1</sup> Le Roi institue la police locale de la zone de police nouvelle, au premier jour d'un trimestre, lorsqu'Il constate que les conditions suivantes sont remplies :
+
+1° le ressort territorial de la zone de police est fixé conformément à l'article 91/2;
+
+2° le cadre du personnel est déterminé;
+
+3° le montant des dotations communales au budget de la zone de police nouvelle est conforme à l'article 91/9;
+
+4° le compte de fin de gestion est dressé et approuvé conformément à l'article 257quinquies/9, § 1er.]<sup>1</sup>
+
+[<sup>2</sup> Le collège de police de la zone de police nouvelle introduit, auprès du ministre de l'Intérieur, une demande visant l'institution de la zone de police nouvelle, démontrant que les conditions visées à l'alinéa 1er sont réunies. Cette demande est adressée par lettre recommandée à la poste contre accusé de réception.
+
+L'institution de la police locale de la zone de police nouvelle intervient au plus tard un an après l'entrée en vigueur de la définition du ressort territorial de la zone de police nouvelle.
+
+Les collèges de police concernés peuvent, conjointement et sous la forme d'une demande écrite et motivée, solliciter auprès du ministre de l'Intérieur un report de l'institution de la police locale de la zone de police nouvelle pour une durée maximale de six mois.
+
+Le Roi peut, sur proposition du ministre de l'Intérieur, reporter l'institution de la police locale de cette zone de police nouvelle pour une durée maximale de six mois.
+
+Le ministre de l'Intérieur ou le gouverneur peut, après l'expiration du délai d'un an ou, le cas échéant, de dix-huit mois, charger un ou plusieurs commissaires spéciaux visés à l'article 89 de se rendre sur place, afin d'exécuter les conditions mentionnées à l'alinéa 1er.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/01, art. 194, 026; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2026-05-25/16, art. 127, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 257quinquies/6
+
+[<sup>1</sup> L'institution de la police locale de la zone de police nouvelle met fin à l'existence des zones de police anciennes et met un terme de plein droit au mandat des [<sup>2</sup> membres des collèges de police, des chefs de corps, des comptables spéciaux et des secrétaires]<sup>2</sup>des zones de police anciennes.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/01, art. 194, 026; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2026-05-25/16, art. 128, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 257quinquies/7
+
+[<sup>1</sup> § 1er. L'ensemble des biens meubles, tant du domaine public que du domaine privé, en ce compris les biens faisant partie de l'équipement individuel des membres du cadre opérationnel des zones de police anciennes, sont transférés à la zone de police nouvelle.
+
+§ 2. Le transfert visé au § 1er est exécuté de plein droit. Le transfert est opposable aux tiers sans autre formalité à la date d'institution de la police locale de la zone de police nouvelle.
+
+§ 3. Les biens visés au présent article sont transférés dans l'état où ils se trouvent, en ce compris les charges et les obligations inhérentes à ces biens.
+
+§ 4. La zone de police nouvelle succède aux droits et obligations des zones de police anciennes relatifs aux biens meubles qui lui ont été transférés, en ce compris les droits et obligations résultant de procédures judiciaires pendantes et à venir.
+
+Les communes qui constituaient les zones de police anciennes demeurent toutefois solidairement tenues des obligations dont le paiement ou l'exécution étaient exigibles avant le transfert de propriété des biens meubles visés au présent article.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/01, art. 194, 026; En vigueur : 10-01-2010&gt;
+
+###### Art. 257quinquies/8
+
+[<sup>1</sup> § 1er. Les biens immeubles qui sont propriété des zones de police anciennes sont transférés à la zone de police nouvelle à la date d'institution de la police locale de la zone de police nouvelle. La zone de police nouvelle reprend les droits, obligations et charges afférents aux biens immeubles dont la propriété lui est transférée.
+
+§ 2. Les montants dont les zones de police anciennes bénéficiaient ou étaient redevables en application du mécanisme de correction visé à l'article 248quater sont payés à ou par la zone de police nouvelle qui leur succède.
+
+§ 3. La zone de police nouvelle reprend les droits, obligations et charges des zones de police anciennes qui proviennent des contrats de location afférents aux biens immeubles hébergeant des membres du personnel du corps de police locale.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/01, art. 194, 026; En vigueur : 10-01-2010&gt;
+
+###### Art. 257quinquies/9
+
+[<sup>1</sup> § 1er. Le compte de fin de gestion des zones de police anciennes est dressé au dernier jour du trimestre qui précède l'institution de la police locale visée [<sup>2</sup> à l'article 257quinquies/5, alinéa 1er, et à l'article 9/1, § 1er, alinéa 2]<sup>2</sup>.
+
+§ 2. La zone de police nouvelle reprend de plein droit les actifs et passifs des zones de police anciennes auxquelles elle succède.
+
+§ 3. Le compte de fin de gestion est soumis à l'approbation du [<sup>2</sup> collège de police]<sup>2</sup> de la zone de police nouvelle.]<sup>1</sup>
+
+[<sup>2</sup> § 4. Lorsque le gouverneur constate, après avoir entendu les parties concernées, qu'une dette contractée par une zone de police ancienne, durant un délai de deux ans préalablement à l'établissement du dernier compte annuel de la zone de police nouvelle résulte d'un effet d'aubaine ou d'un engagement manifestement contraire aux principes de bonne administration financière pris après l'annonce ou la planification de la fusion, il peut refuser que cette dette soit reprise par la zone de police nouvelle. Dans ce cas, la dette concernée demeure à charge des communes de la zone de police ancienne, et elle est consolidée dans leur dette communale respective selon les modalités fixées par le gouverneur.]<sup>2</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/01, art. 194, 026; En vigueur : 10-01-2010&gt;
+
+(2)&lt;L 2026-05-25/16, art. 129, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 257quinquies/10
+
+[<sup>1</sup> Sans préjudice de l'application de l'article 257quinquies/4, toute procédure relative aux marchés publics de travaux, de fournitures et de services passée au bénéfice du corps de police des zones de police anciennes est poursuivie par la zone de police nouvelle, à compter de la date de son institution.
+
+L'alinéa 1er s'applique également pour l'exécution des marchés publics attribués avant cette même date.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2009-12-30/01, art. 194, 026; En vigueur : 10-01-2010&gt;
+
+### CHAPITRE VI. - [<sup>1</sup> Les modalités et conséquences de la modification de la délimitation des zones de police]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-04-21/06, art. 39, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+###### Art. 257quinquies/11
+
+[<sup>1</sup> Sont applicables [<sup>3</sup> à la(aux) zone(s) de police]<sup>3</sup> nouvelle(s) qui résulte(nt) de la modification de la délimitation des zones de police :
+
+\- l'article 257quinquies/1 dans la limite de la liste nominative visée à l'article 257quinquies/12;
+
+\- les articles 257quinquies/2 à 6 [<sup>2</sup> , l'article 257quinquies/2 ne s'applique pas dans les circonstances visées à l'article 257quinquies/17]<sup>2</sup>;
+
+\- l'article 257quinquies/7 dans la limite de l'inventaire visé à l'article 257quinquies/12;
+
+\- l'article 257quinquies/9, § 1er, étant entendu que le compte de fin de gestion de la zone de police ancienne est accompagné du bilan.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-04-21/06, art. 39, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+(2)&lt;L 2018-03-29/29, art. 2, 044; En vigueur : 23-04-2018&gt;
+
+(3)&lt;L 2024-05-16/33, art. 2, 055; En vigueur : 01-01-2024&gt;
+
+###### Art. 257quinquies/12
+
+[<sup>1</sup> Les conseils communaux visés à l'article 91/12 adoptent, sur avis des chefs de corps des zones de police anciennes, les actes suivants :
+
+\- la liste nominative des membres du personnel qui sont transférés dans chacune des zones de police nouvelles : la liste nominative est arrêtée de façon à garantir la satisfaction du service minimal équivalent prévu à l'article 3 dans chacune des zones de police nouvelles;
+
+\- l'inventaire des biens meubles qui sont transférés dans chacune des zones de police nouvelles;
+
+\- les règles relatives à la reprise des procédures contentieuses en cours.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-04-21/06, art. 39, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+###### Art. 257quinquies/13
+
+[<sup>1</sup> § 1er. Les biens immeubles, propriétés de la zone de police ancienne sont transférés à la zone de police nouvelle sur le territoire de laquelle ils se situent. La zone de police nouvelle reprend les droits, obligations et charges afférents aux biens immeubles dont la propriété leur est transférée.
+
+§ 2. Le montant du mécanisme de correction dont la zone de police ancienne était redevable ou bénéficiait en application du mécanisme de correction visé à l'article 248quater est réparti entre les zones de police nouvelles à concurrence de la part de l'effectif de la zone de police ancienne qui est transférée vers chacune d'elles.
+
+§ 3. La zone de police nouvelle reprend les droits, obligations et charges qui résultent des contrats de location passés par la zone de police ancienne à l'usage de la police locale afférents aux biens immeubles qui se situent sur le territoire de la zone de police nouvelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-04-21/06, art. 39, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+###### Art. 257quinquies/14
+
+[<sup>1</sup> § 1er. Le(s) compte(s) de fin de gestion et le bilan de la (des) zone(s) de police ancienne(s) concernée(s) par la modification de la délimitation des zones de police sont établis au dernier jour du trimestre qui précède la date d'institution de la police locale au sein des zones de police nouvelles.
+
+§ 2. Les zones de police nouvelles reprennent de plein droit les actifs et passifs de la (des) zone(s) de police ancienne(s) à laquelle (auxquelles) elles succèdent à concurrence de la part de l'effectif de la (des) zone(s) de police ancienne(s) qui est transférée vers chacune des zones de police nouvelles.
+
+§ 3. Le(s) compte(s) de fin de gestion et le bilan de la (des) zone(s) de police ancienne(s) concernée(s) par la modification de la délimitation des zones de police sont soumis à l'approbation des [<sup>2</sup> collèges de police]<sup>2</sup> des zones de police nouvelles.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-04-21/06, art. 39, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+(2)&lt;L 2026-05-25/16, art. 130, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 257quinquies/15
+
+[<sup>1</sup> Sans préjudice de l'article 257quinquies/4, toute procédure relative aux marchés publics de travaux, de fournitures et de services passée au bénéfice de la zone de police ancienne est poursuivie, à compter de la date d'institution de la police locale au sein de la zone de police nouvelle et dans les limites des travaux, fournitures ou services dont elle bénéficie, par la zone de police nouvelle.
+
+L'alinéa 1er s'applique également pour l'exécution des marchés publics attribués avant la même date.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-04-21/06, art. 39, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+###### Art. 257quinquies/16
+
+[<sup>1</sup> Préalablement à l'institution de la police locale au sein de la zone de police nouvelle et de l'accord des autres communes de la zone de police ancienne concernée, une convention peut être conclue entre les communes qui feront partie de la zone de police nouvelle pour définir les modalités de fonctionnement en tant qu'une seule entité opérationnelle.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2016-04-21/06, art. 39, 039; En vigueur : 09-05-2016 (dispositions transitoires art. 92 et 93)&gt;
+
+###### Art. 257quinquies/17
+
+[<sup>1</sup> Pour les fusions volontaires et autres modifications des frontières des zones de police qui, en même temps, sont associées à une ou plusieurs fusions de communes, les règles spécifiques suivantes sont applicables jusqu'au 1er janvier [<sup>2</sup> 2025]<sup>2</sup>, soit la date de l'institution de la nouvelle zone de police :
+
+\- les articles 91/3 et 91/13 relatifs à l'élection des membres du conseil de police de la nouvelle zone de police ne sont pas d'application, de même que les articles 91/6 et 91/13 concernant l'exercice des compétences du collège de police;
+
+\- par dérogation à l'article 257quinquies/4 et jusqu'à l'institution de la nouvelle zone de police, les compétences accordées au conseil de police visées aux articles 91/3 et 257quinquies/2 seront conjointement exercées par tous les conseils communaux concernés;
+
+\- par dérogation à l'article 257quinquies/4 et jusqu'à l'institution de la nouvelle zone de police, les compétences accordées au collège de police visées à l'article 91/6 seront conjointement exercées par tous les bourgmestres concernés.]<sup>1</sup>
+
+----------
+
+(1)&lt;Inséré par L 2018-03-29/29, art. 3, 044; En vigueur : 23-04-2018&gt;
+
+(2)&lt;L 2024-05-16/33, art. 3, 055; En vigueur : 01-01-2024&gt;
+
+## TITRE VIIIbis.
+
+&lt;Abrogé par L 2026-05-25/16, art. 131, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 257sexies
+
+&lt;Abrogé par L 2026-05-25/16, art. 131, 056; En vigueur : 02-07-2026&gt;
+
+## TITRE IX. - Dispositions finales.
+
+###### Art. 258
+
+(Abrogé) &lt;L 1999-03-24/35, art. 26, 2°, 003; En vigueur : indéterminée &gt;
+
+###### Art. 259
+
+&lt;Abrogé par L 2026-05-25/16, art. 132, 056; En vigueur : 02-07-2026&gt;
+
+###### Art. 260
+
+Les articles 1er, 2, 5, 9, 121 à 127 et 130 à 133, 139, 141, 142, 197 et 198, 2°, 3° et 6°, 245 et 258 entrent en vigueur le jour de la publication de la présente loi au Moniteur belge.
+
+Jusqu'à la constitution de la police fédérale et des corps de police locale, les articles 122, alinéa 2, 123, 125, alinéas 2 et 3, 126, 127, alinéas 2 et 3, 130, alinéas 2 et 3, 131, alinéas 2 et 3, et 132 s'appliquent aux membres de la police communale, aux membres du corps opérationnel et de la catégorie de personnel de police spéciale de la gendarmerie, et aux officiers et agents de la police judiciaire près les parquets ainsi que, selon les distinctions prévues à l'article 133, aux agents auxiliaires de police de la police communale, aux militaires, aux militaires transférés et aux civils qui font partie du corps administratif et logistique de la gendarmerie, au personnel civil auxiliaire de la gendarmerie, au personnel auxiliaire de la police judiciaire près les parquets, au personnel statutaire et contractuel des parquets en service à la police judiciaire et au personnel contractuel du service général d'appui policier.
+
+Pendant la période visée à l'alinéa 2, la compétence attribuée par l'article 126, § 2, est exercée selon les distinctions suivantes :
+
+1° par le ministre de l'Intérieur et le ministre de la Justice, conjointement, à l'égard des membres du corps opérationnel et de la catégorie de personnel de police spéciale de la gendarmerie, des militaires, des militaires transférés, des civils qui font partie du corps administratif et logistique de la gendarmerie, et du personnel civil auxiliaire de la gendarmerie;
+
+2° par le ministre de la Justice, à l'égard des officiers et agents de la police judiciaire près les parquets, du personnel auxiliaire de la police judiciaire près les parquets, et du personnel statutaire et contractuel des parquets en service à la police judiciaire;
+
+3° par le ministre de l'Intérieur et par le ministre de la Justice, conjointement, à l'égard du personnel contractuel du service général d'appui policier;
+
+4° par le bourgmestre, à l'égard des membres de la police communale et des agents auxiliaires de police de la police communale.
+
+Le Roi détermine la date d'entrée en vigueur des articles 4, 6 a 8,11, 38, 39, 41, 47 à 60, 65 à 90, 93, 94, 96, alinéa 2, 98,106,108,128,149, 247 et 257, laquelle ne peut être ultérieure au 1er janvier 2000.
+
+(Les articles 117 à 120, 129, 134 à 138 (et 140) entrent en vigueur le 1er avril 2001.) &lt;L 2000-12-27/32, art. 55, 006; En vigueur : 01-01-2001&gt; &lt;L 2001-12-30/30, art. 129, 009; En vigueur : 01-04-2001&gt;
+
+Le Roi détermine la date d'entrée en vigueur des autres articles de la présente loi, laquelle ne peut être ultérieure au 1er janvier 2001.
+
+(NOTE : Entrée en vigueur de l'article 260 fixée le 05-01-1999 par AR 1998-12-23/30, art. 6)
+
+(NOTE : Entrée en vigueur des articles 4, 6 à 8, 11, 38, 39, 41, 47 à 60, 65 à 90, 93, 94, 96, alinéa 2, 98, 106, 108, 128, 149, 247, et 257 fixée le 01-01-2000 par AR 1999-12-24/35, art. 1)
+
+(NOTE : Entrée en vigueur des articles 95, 99, 100, 101 et 102 fixée le 01-09-2000 par AR 2000-09-03/37, art. 14)
+
+(NOTE : Entrée en vigueur des articles 12 à 24 fixée le 01-01-2001 par AR 2000-12-20/34, art. 16)
+
+&lt;Par son arrêt n° 64/99 du 9 juin 1999 (M.B. 12-06-1999, p. 22124), la Cour d'arbitrage a annulé l'article 260, alinéa 1er, en tant qu'il vise l'article 245; Abrogé : 01-01-1999&gt;
+
+---
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 7 décembre 1998.
+
+ALBERT
+
+Par le Roi :
+
+Le Premier Ministre,
+
+J.-L. DEHAENE
+
+Le Ministre de l'Intérieur,
+
+L. VAN DEN BOSSCHE
+
+Le Ministre de la Justice,
+
+T. VAN PARYS
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+T. VAN PARYS

@@ -1,0 +1,74 @@
+---
+title: "Loi contenant le dix-huitième ajustement du budget général des dépenses de l'année budgétaire 1998 - Sections 19 \"Ministère de la Fonction publique\" et 18 \"Ministère des Finances\"."
+identifier: "1999003034"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/22/1999003034/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1998-12-22
+published: 1999-02-19
+entry_into_force: 1999-02-19
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1998/12/22/1999003034/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 22 DECEMBRE 1998. - Loi contenant le dix-huitième ajustement du budget général des dépenses de l'année budgétaire 1998 - Sections 19 "Ministère de la Fonction publique" et 18 "Ministère des Finances".
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+La Chambre des représentants a adopté et Nous sanctionnons ce qui suit :
+
+## CHAPITRE I. - Dispositions générales.
+
+### Art. 1
+
+La présente loi règle une matière visée à l'article 74, 3°, de la Constitution.
+
+### Art. 2
+
+Le Budget général des dépenses pour l'année budgétaire 1998 est ajusté, en ce qui concerne les sections 19 - "Ministère de la Fonction publique" et 18 - "Ministère des Finances", conformément aux totaux des programmes figurant dans les tableaux des crédits ajustés annexés à la présente loi.
+
+## CHAPITRE II. - Dispositions diverses.
+
+### Art. 3
+
+La présente loi entre en vigueur le jour de sa publication au Moniteur belge.
+
+Promulguons la présente loi, ordonnons qu'elle soi revêtue du sceau au de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 22 décembre 1998.
+
+ALBERT
+
+Par le Roi :
+
+Le Vice-Premier Ministre et Ministre du Budget,
+
+H. VAN ROMPUY
+
+Le Ministre de la Fonction publique,
+
+A. FLAHAUT
+
+Le Ministre des Finances,
+
+J.-J. VISEUR
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+T. VAN PARYS
+
+## ANNEXE.
+
+### Art. N
+
+Tableaux annexés à la loi.
+
+(Tableaux non repris pour des raisons techniques, voir M.B. 19-02-1999 p. 4902 à 4904).

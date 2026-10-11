@@ -1,0 +1,68 @@
+---
+title: "Loi portant des mesures en matière de taxes assimilées au timbre en faveur de la batellerie."
+identifier: "1998003415"
+eli: "https://www.ejustice.just.fgov.be/eli/loi/1998/07/05/1998003415/justel"
+type: act
+justel_type: "LOI"
+jurisdiction: be
+language: fr
+date: 1998-07-05
+published: 1998-08-29
+entry_into_force: 1998-01-01
+status: in_force
+source: "https://www.ejustice.just.fgov.be/eli/loi/1998/07/05/1998003415/justel"
+department: "Finances"
+retrieved: 2026-10-11
+---
+
+# 5 JUILLET 1998. - Loi portant des mesures en matière de taxes assimilées au timbre en faveur de la batellerie.
+
+ALBERT II, Roi des Belges,
+
+A tous, présents et à venir, Salut.
+
+Les Chambres ont adopté en Nous sanctionnons ce qui suit :
+
+## Art. 1
+
+La présente loi règle une matière visée à l'article 78 de la Constitution.
+
+## Art. 2
+
+A l'article 175.2 du Code des taxes assimilées au timbre, remplacé par l'article 5 de la loi du 10 avril 1995, sont apportées les modifications suivantes :
+
+1° à l'alinéa 1er, 1°, les mots " ou fluviales " sont supprimés;
+
+2° dans le même alinéa, il est inséré, à la place du 2° qui devient le 3°, un 2° nouveau rédigé comme suit :
+
+" 2° pour les assurances fluviales lorsqu'elles concernent des marchandises faisant l'objet du transport; ";
+
+3° à l'alinéa 2, les mots " alinéa 1er, 2° " sont remplacés par les mots " alinéa 1er, 3° ".
+
+## Art. 3
+
+L'article 176.2, alinéa 1er, 10°, du même Code, inséré par l'article 5 de la loi du 24 décembre 1963, est remplacé par la disposition suivante :
+
+" 10° les assurances de corps de navires et de bâtiments considérés comme tels par l'article 1er du livre II du Code de commerce, les assurances de corps de bateaux et de bâtiments considérés comme tels par l'article 271 du livre II du même Code, ainsi que les assurances d'avions qui sont utilisés principalement en trafic international, à des transports publics; ".
+
+## Art. 4
+
+La présente loi s'applique aux primes échues à partir du 1er janvier 1998.
+
+Promulguons la présente loi, ordonnons qu'elle soit revêtue du sceau de l'Etat et publiée par le Moniteur belge.
+
+Donné à Bruxelles, le 5 juillet 1998.
+
+ALBERT
+
+Par le Roi :
+
+Le Ministre des Finances,
+
+J.-J. VISEUR
+
+Scellé du sceau de l'Etat :
+
+Le Ministre de la Justice,
+
+T. VAN PARYS
